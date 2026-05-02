@@ -31,7 +31,7 @@ tags:
   - skill/tokens
   - skill/asp-net-core
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ASP.NET%20Core-%20Token-Based%20Authentication.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why use exception token-based authentication?
-  - What you should know
+  - [Why use exception token-based authentication?](#why-use-exception-token-based-authentication)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Started with Authentication**](#1-getting-started-with-authentication) (4 videos)
-  - Authentication vs. authorization
-  - Cookie-based vs. token-based authentication
-  - What is identity platform?
-  - JSON Web Token
+  - [Authentication vs. authorization](#authentication-vs-authorization)
+  - [Cookie-based vs. token-based authentication](#cookie-based-vs-token-based-authentication)
+  - [What is identity platform?](#what-is-identity-platform)
+  - [JSON Web Token](#json-web-token)
 - [**2. Token-Based Authentication**](#2-token-based-authentication) (11 videos)
-  - Setting up Entity Framework Core
-  - Adding default identity tables using EF Core
-  - Configuring token-based authentication
-  - Adding the authentication controller
-  - Registering new users using UserManager
-  - Logging in users
-  - Generating an access token
-  - Adding the RefreshToken table
-  - Generating and storing refresh tokens
-  - Injecting TokenValidationParameters
-  - Refreshing expired tokens
+  - [Setting up Entity Framework Core](#setting-up-entity-framework-core)
+  - [Adding default identity tables using EF Core](#adding-default-identity-tables-using-ef-core)
+  - [Configuring token-based authentication](#configuring-token-based-authentication)
+  - [Adding the authentication controller](#adding-the-authentication-controller)
+  - [Registering new users using UserManager](#registering-new-users-using-usermanager)
+  - [Logging in users](#logging-in-users)
+  - [Generating an access token](#generating-an-access-token)
+  - [Adding the RefreshToken table](#adding-the-refreshtoken-table)
+  - [Generating and storing refresh tokens](#generating-and-storing-refresh-tokens)
+  - [Injecting TokenValidationParameters](#injecting-tokenvalidationparameters)
+  - [Refreshing expired tokens](#refreshing-expired-tokens)
 - [**3. Role-Based Authentication**](#3-role-based-authentication) (4 videos)
-  - Seeding the database with roles
-  - Adding role claims to tokens
-  - Adding role authentication to a controller
-  - Adding multiple roles to a controller
+  - [Seeding the database with roles](#seeding-the-database-with-roles)
+  - [Adding role claims to tokens](#adding-role-claims-to-tokens)
+  - [Adding role authentication to a controller](#adding-role-authentication-to-a-controller)
+  - [Adding multiple roles to a controller](#adding-multiple-roles-to-a-controller)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps for learning more token-based authentication
+  - [Next steps for learning more token-based authentication](#next-steps-for-learning-more-token-based-authentication)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use exception token-based authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980)
@@ -102,6 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (2), web (2), [[Security]] (1), next (1), [[SQL]] (1)
 > **Env Vars:** api (2), net (2), sql (1), asp (1)
 > **CLI Commands:** make (1)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -132,18 +133,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), api (1), application (1), [[Programming]] (1), [[GitHub]] (1)
 > **Env Vars:** net (2), api (1)
 > **Tools:** visual studio (2), github (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Best Practices:** recommended (2)
-> **Code Keywords:** let (1)
 > **Versions:** version 5 (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Started with Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication vs. authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/authentication-vs-authorization?u=76281980)
@@ -186,7 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** application (2), web (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2), similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -255,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), case, (1), from. (1)
+> **Frameworks & Libraries:** [[Tokens]] (7), data (5), application (3), next (2), web application (1)
 > **Code Identifiers:** sessionid (5), sessionids (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
@@ -285,10 +286,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft SQL Server|Sql server]] (1), database (1), application (1), web (1)
 > **Env Vars:** sql (1), net (1), mvc (1), api (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** install (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### JSON Web Token
@@ -336,8 +337,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), web (1)
 > **Env Vars:** jwt (7), json (2), url (1)
-> **Code Keywords:** self (1), public (1), private (1)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
@@ -347,7 +348,7 @@ created: 2026-04-29
 
 ### 2. Token-Based Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Entity Framework Core
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980)
@@ -498,9 +499,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), data (7), database (7), [[Microsoft SQL Server|Sql server]] (5), web (4)
 > **UI Navigation:** go to (16), right-click (3), select the (3)
 > **Env Vars:** api (9), sql (6), net (1), etr (1)
-> **Code Keywords:** let (10), pass (3), class. (2), class, (1)
 > **Prerequisites:** install (4), set up (2), configure (2)
 > **Definitions:** is a  (2), known as (2)
 > **File Paths:** appsettings.json (3)
@@ -726,7 +727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), class. (4), class, (4), case, (2)
+> **Frameworks & Libraries:** database (9), data (4), next (3), application (2), [[Microsoft]] (2)
 > **UI Navigation:** go to (10), right-click (2), select the (2), scroll down (1), open the (1)
 > **Prerequisites:** install (4), configure (2)
 > **Analogies:** for example (3)
@@ -920,8 +921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), api (2), [[Tokens]] (2), [[JSON]] (2), data (2)
 > **Env Vars:** jwt (9), api (2), https (1), http (1), ascii (1)
-> **Code Keywords:** let (10), type . (1)
 > **UI Navigation:** go to (8), scroll down (1)
 > **Prerequisites:** configure (5), install (2), set up (1), you'll need (1)
 > **File Paths:** appsettings.json (2), system.txt (1)
@@ -1036,7 +1037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), private (4), class, (3), interface (3), pass (2)
+> **Frameworks & Libraries:** api (7), data (5), next (3), database (3), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** api (7), sql (2)
 > **Code Identifiers:** usermanager (3), rolemanager (1)
 > **UI Navigation:** go to (3), select the (1)
@@ -1189,7 +1190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), var (2), type. (1), type, (1), case, (1)
+> **Frameworks & Libraries:** data (10), api (7), database (6), next (2), [[Security]] (1)
 > **Code Identifiers:** registervm (5), registeredvm (3), registeruser (2), modelstate (1), newuser (1)
 > **UI Navigation:** go to (5), scroll down (3), click on (2)
 > **Env Vars:** api (7)
@@ -1275,8 +1276,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), api (2), data (1), power (1), application (1)
 > **Code Identifiers:** loginvm (7), usermanager (3), userexists (2), logvm (1)
-> **Code Keywords:** let (4), public (1), async (1), var (1), await (1)
 > **UI Navigation:** scroll down (3), go to (2), open the (1), scroll up (1)
 > **Env Vars:** api (2), http (1)
 > **Tools:** visual studio (2)
@@ -1441,7 +1442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), var (6), async (2), case, (1), await (1)
+> **Frameworks & Libraries:** api (8), [[Security]] (5), [[JSON]] (5), next (4), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (10), scroll down (2), scroll up (1)
 > **Code Identifiers:** userexists (4), authclaims (2), registerclaims (2), authsigningkey (2), tokenvalue (1)
 > **Env Vars:** api (7), json (3), gti (2)
@@ -1555,7 +1556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (2), pass (1)
+> **Frameworks & Libraries:** [[Tokens]] (12), next (6), database (5), data (5), application (1)
 > **UI Navigation:** go to (6)
 > **Code Identifiers:** isrevoked (1), appdbcontext (1), refreshtokenstableadded (1)
 > **Env Vars:** jwt (2)
@@ -1641,7 +1642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), await (2), var (1), case, (1)
+> **Frameworks & Libraries:** database (3), next (3), [[SQL]] (1), data (1)
 > **Code Identifiers:** refreshtoken (4), generatejwttokenasync (1), jwttoken (1), expiresat (1), jwtid (1)
 > **UI Navigation:** go to (5), scroll down (2)
 > **Tools:** visual studio (4), postman (1)
@@ -1693,7 +1694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), var (1), default, (1), private (1)
+> **Frameworks & Libraries:** next (3), [[Tokens]] (1)
 > **UI Navigation:** go to (2), scroll down (2)
 > **Code Identifiers:** tokenvalidationparameters (2), addsingleton (1)
 > **Cross-References:** in the next (2)
@@ -1888,7 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), var (7), await (7), async (2), pass (2)
+> **Frameworks & Libraries:** api (2), [[Security]] (2), database (2), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **Code Identifiers:** storedtoken (9), refreshtoken (7), tokenrequestvm (4), dbuser (4), rtoken (3)
 > **UI Navigation:** go to (13), right-click (1), scroll down (1), scroll up (1)
 > **Env Vars:** post (4), api (2), jwt (1), json (1)
@@ -1900,7 +1901,7 @@ created: 2026-04-29
 
 ### 3. Role-Based Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Seeding the database with roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/seeding-the-database-with-roles?u=76281980)
@@ -2005,7 +2006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), static (5), class. (4), class, (2), public (2)
+> **Frameworks & Libraries:** database (8), data (4), [[Microsoft]] (2), application (2), api (2)
 > **UI Navigation:** go to (9), right-click (2), scroll down (1)
 > **Code Identifiers:** rolemanager (3), applicationbuilder (2), servicescope (2)
 > **Tools:** visual studio (2)
@@ -2123,7 +2124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (2), await (2), var (2), return, (1)
+> **Frameworks & Libraries:** data (1), application (1), api (1)
 > **UI Navigation:** go to (7), scroll down (5)
 > **Env Vars:** jwt (2), var (2), api (1), jti (1)
 > **URLs:** [student.com](https://student.com) (2), [jwt.io](https://jwt.io) (1)
@@ -2221,7 +2222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), pass (1)
+> **Frameworks & Libraries:** management (4), data (2), api (1)
 > **UI Navigation:** go to (8), open the (1)
 > **Tools:** visual studio (3), postman (1)
 > **URLs:** [manager.com](https://manager.com) (1), [students.com](https://students.com) (1)
@@ -2331,7 +2332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), type, (1), case, (1)
+> **Frameworks & Libraries:** api (10), management (1), application (1)
 > **Env Vars:** api (10), post (2)
 > **UI Navigation:** go to (9)
 > **Code Identifiers:** httpget (5)
@@ -2343,7 +2344,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for learning more token-based authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/next-steps-for-learning-more-token-based-authentication?u=76281980)
@@ -2382,8 +2383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[LinkedIn]] (2), web (1), api (1), database (1)
 > **Env Vars:** jwt (1), api (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 

@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/An%20Introduction%20to%20AI%20and%20Sustainability.md)
@@ -49,27 +49,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The promise of AI for sustainability
-  - What you should know
+  - [The promise of AI for sustainability](#the-promise-of-ai-for-sustainability)
+  - [What you should know](#what-you-should-know)
 - [**1. What Does AI Have to Do with Sustainability**](#1-what-does-ai-have-to-do-with-sustainability) (1 videos)
-  - The intersections of AI and sustainability
+  - [The intersections of AI and sustainability](#the-intersections-of-ai-and-sustainability)
 - [**2. AI Is a Critical Game-Changer for Sustainability**](#2-ai-is-a-critical-game-changer-for-sustainability) (4 videos)
-  - Sustainability bottlenecks prevent global progress
-  - AI accelerates the development of sustainability solutions
-  - AI can help predict and optimize sustainability systems
-  - AI can help empower the world's sustainability workforce
+  - [Sustainability bottlenecks prevent global progress](#sustainability-bottlenecks-prevent-global-progress)
+  - [AI accelerates the development of sustainability solutions](#ai-accelerates-the-development-of-sustainability-solutions)
+  - [AI can help predict and optimize sustainability systems](#ai-can-help-predict-and-optimize-sustainability-systems)
+  - [AI can help empower the world's sustainability workforce](#ai-can-help-empower-the-worlds-sustainability-workforce)
 - [**3. AI’s Impact on the Global Race to Net Zero**](#3-ais-impact-on-the-global-race-to-net-zero) (4 videos)
-  - The local vs. global challenges of AI resource use
-  - AI energy use—A local challenge
-  - Emissions implications of building and running AI models
-  - Indirect emissions implications of the use of AI tools
+  - [The local vs. global challenges of AI resource use](#the-local-vs-global-challenges-of-ai-resource-use)
+  - [AI energy use—A local challenge](#ai-energy-usea-local-challenge)
+  - [Emissions implications of building and running AI models](#emissions-implications-of-building-and-running-ai-models)
+  - [Indirect emissions implications of the use of AI tools](#indirect-emissions-implications-of-the-use-of-ai-tools)
 - [**4. Ensuring That AI Has a Positive Impact on the Global Race to Net Zero**](#4-ensuring-that-ai-has-a-positive-impact-on-the-global-race-to-net-zero) (2 videos)
-  - The benefits of AI for sustainability are not guaranteed
-  - What's needed to unlock AI's potential for sustainability
+  - [The benefits of AI for sustainability are not guaranteed](#the-benefits-of-ai-for-sustainability-are-not-guaranteed)
+  - [What's needed to unlock AI's potential for sustainability](#whats-needed-to-unlock-ais-potential-for-sustainability)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The promise of AI for sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-promise-of-ai-for-sustainability?u=76281980)
@@ -94,7 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** ai (3), [[Sustainability]] (2), [[Microsoft]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - humanity (1)
 
@@ -121,14 +121,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** ai (6), [[Sustainability]] (5), [[Biodiversity]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
 
 ### 1. What Does AI Have to Do with Sustainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The intersections of AI and sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980)
@@ -193,8 +193,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (12), [[Sustainability]] (3), [[Supervised Learning]] (1), [[Forecasting]] (1)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -203,7 +203,7 @@ created: 2026-04-29
 
 ### 2. AI Is a Critical Game-Changer for Sustainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability bottlenecks prevent global progress
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980)
@@ -274,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1)
+> **Frameworks & Libraries:** [[Sustainability]] (11), ai (7), next (2), [[Biodiversity]] (1), power (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -342,8 +342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Sustainability]] (3), data (2), [[Microsoft Products|Products]] (1), [[Climate Change]] (1)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** let (1), require (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ibm (1)
 > **Cross-References:** previous video (1)
@@ -411,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), public (1)
+> **Frameworks & Libraries:** ai (12), management (3), [[Biodiversity]] (3), data (3), [[Forecasting]] (3)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -466,6 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (10), ai (9), [[GitHub Copilot]] (2), [[Generative AI]] (1), power (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
 > **Analogies:** for example (1), such as (1)
@@ -475,7 +476,7 @@ created: 2026-04-29
 
 ### 3. AI’s Impact on the Global Race to Net Zero
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The local vs. global challenges of AI resource use
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-local-vs-global-challenges-of-ai-resource-use?u=76281980)
@@ -564,7 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), this, (1)
+> **Frameworks & Libraries:** ai (16), data (8), power (3), [[Sustainability]] (2), next (2)
 > **Definitions:** known as (1), refers to (1), is a  (1)
 > **Analogies:** for example (2), imagine (1)
 > **Cross-References:** in the next (2)
@@ -634,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), continue (1), require (1)
+> **Frameworks & Libraries:** ai (15), data (12), [[ChatGPT]] (1), [[Software Design]] (1), [[Hardware]] (1)
 > **Analogies:** for example (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
@@ -699,10 +700,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), power (3), data (2), next (1), [[Sustainability]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Cross-References:** in the next (1), previous video (1), in the last (1)
 > **Definitions:** refers to (1), known as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - to (1)
 
 #### Indirect emissions implications of the use of AI tools
@@ -740,7 +741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (8), game (1), [[Sustainability]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - ai (1)
@@ -748,7 +749,7 @@ created: 2026-04-29
 
 ### 4. Ensuring That AI Has a Positive Impact on the Global Race to Net Zero
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of AI for sustainability are not guaranteed
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-benefits-of-ai-for-sustainability-are-not-guaranteed?u=76281980)
@@ -777,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
@@ -846,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** ai (25), [[Sustainability]] (21), data (7), game (1)
 > **Speakers:** - let (1)
 
 

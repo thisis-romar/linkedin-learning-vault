@@ -33,7 +33,7 @@ tags:
   - skill/microsoft-teams
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20Teams-%20AI-Powered%20Collaboration.md)
@@ -52,19 +52,19 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Use the Copilot AI assistant in Teams
-  - Understand the subscription needed for Copilot
+  - [Use the Copilot AI assistant in Teams](#use-the-copilot-ai-assistant-in-teams)
+  - [Understand the subscription needed for Copilot](#understand-the-subscription-needed-for-copilot)
 - [**1. Using the Different Copilot Tools in Teams**](#1-using-the-different-copilot-tools-in-teams) (6 videos)
-  - Get summaries and answers about chat conversations
-  - Use copilot to rewrite messages
-  - Use Copilot during a meeting
-  - Get meeting summaries after meetings have ended
-  - Use the Copilot chat assistant in Teams
-  - Extend skills with Copilot Studio
+  - [Get summaries and answers about chat conversations](#get-summaries-and-answers-about-chat-conversations)
+  - [Use copilot to rewrite messages](#use-copilot-to-rewrite-messages)
+  - [Use Copilot during a meeting](#use-copilot-during-a-meeting)
+  - [Get meeting summaries after meetings have ended](#get-meeting-summaries-after-meetings-have-ended)
+  - [Use the Copilot chat assistant in Teams](#use-the-copilot-chat-assistant-in-teams)
+  - [Extend skills with Copilot Studio](#extend-skills-with-copilot-studio)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the Copilot AI assistant in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980)
@@ -87,6 +87,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (2), teams (2), [[Microsoft]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - copilot (1)
 
@@ -119,13 +120,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft 365]] (6), ai (2), teams (2), business (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Using the Different Copilot Tools in Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get summaries and answers about chat conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-summaries-and-answers-about-chat-conversations?u=76281980)
@@ -174,9 +175,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), ai (2), hit (2), [[Microsoft Teams]] (1), teams (1)
 > **UI Navigation:** go to (3), open the (1), click on (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** type, (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Use copilot to rewrite messages
@@ -238,7 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), ai (2), feature (1)
 > **UI Navigation:** in the sidebar (2), go to (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -392,8 +393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21), hit (2)
 > **CLI Commands:** make (7)
-> **Code Keywords:** this. (3), continue (1), this, (1), case, (1), let (1)
 > **UI Navigation:** in the sidebar (1), in the toolbar (1), go to (1), scroll down (1)
 > **Prerequisites:** set up (3), setup (1)
 > **Speakers:** - copilot (1), - i (1), - okay (1)
@@ -466,8 +467,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft Teams]] (1), hit (1), prompt (1), teams (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** switch (1), case, (1), type, (1)
 > **Cross-References:** go back to (1), as we saw (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -577,8 +578,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft 365]] (4), teams (4), [[Microsoft OneDrive|Onedrive]] (3), hit (3)
 > **UI Navigation:** click on (5), in the sidebar (3), go to (2)
-> **Code Keywords:** let (3), try. (1), for. (1), type, (1), delete (1)
 > **CLI Commands:** find (3)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Cross-References:** go back to (1)
@@ -625,8 +626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[Search]] (3), [[Microsoft Teams]] (2), product (1), ai (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** in the sidebar (1)
 > **Speakers:** - [instructor] (1)
 

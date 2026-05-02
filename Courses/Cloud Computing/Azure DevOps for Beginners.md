@@ -33,7 +33,7 @@ tags:
   - skill/devops
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20DevOps%20for%20Beginners.md)
@@ -52,77 +52,77 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Use Azure DevOps to enhance application development
-  - Getting the most from this course
+  - [Use Azure DevOps to enhance application development](#use-azure-devops-to-enhance-application-development)
+  - [Getting the most from this course](#getting-the-most-from-this-course)
 - [**1. Setup and Overview**](#1-setup-and-overview) (10 videos)
-  - Overview of Azure DevOps
-  - Where to access Azure DevOps
-  - Understand the DevOps price plans
-  - Log in to Azure DevOps web portal
-  - Tour the DevOps portal
-  - Create an Azure DevOps project
-  - Create a project with the Microsoft demo generator
-  - View the generated project
-  - Add users to an organization
-  - Add users to an Azure DevOps team
+  - [Overview of Azure DevOps](#overview-of-azure-devops)
+  - [Where to access Azure DevOps](#where-to-access-azure-devops)
+  - [Understand the DevOps price plans](#understand-the-devops-price-plans)
+  - [Log in to Azure DevOps web portal](#log-in-to-azure-devops-web-portal)
+  - [Tour the DevOps portal](#tour-the-devops-portal)
+  - [Create an Azure DevOps project](#create-an-azure-devops-project)
+  - [Create a project with the Microsoft demo generator](#create-a-project-with-the-microsoft-demo-generator)
+  - [View the generated project](#view-the-generated-project)
+  - [Add users to an organization](#add-users-to-an-organization)
+  - [Add users to an Azure DevOps team](#add-users-to-an-azure-devops-team)
 - [**2. Azure Boards**](#2-azure-boards) (14 videos)
-  - Manage your team workflow with Azure Boards
-  - Tour of Azure Boards
-  - Create a work item
-  - Boards and backlogs
-  - Set sprint cadence
-  - Boards and sprints
-  - Kanban board basics
-  - Add columns and swimlanes to a Kanban board
-  - Set work in progress (WIP) limits
-  - Kanban board tag settings
-  - Kanban board custom styles
-  - View work progress with dashboards
-  - Create custom work item queries
-  - Add a custom query to the dashboard
+  - [Manage your team workflow with Azure Boards](#manage-your-team-workflow-with-azure-boards)
+  - [Tour of Azure Boards](#tour-of-azure-boards)
+  - [Create a work item](#create-a-work-item)
+  - [Boards and backlogs](#boards-and-backlogs)
+  - [Set sprint cadence](#set-sprint-cadence)
+  - [Boards and sprints](#boards-and-sprints)
+  - [Kanban board basics](#kanban-board-basics)
+  - [Add columns and swimlanes to a Kanban board](#add-columns-and-swimlanes-to-a-kanban-board)
+  - [Set work in progress (WIP) limits](#set-work-in-progress-wip-limits)
+  - [Kanban board tag settings](#kanban-board-tag-settings)
+  - [Kanban board custom styles](#kanban-board-custom-styles)
+  - [View work progress with dashboards](#view-work-progress-with-dashboards)
+  - [Create custom work item queries](#create-custom-work-item-queries)
+  - [Add a custom query to the dashboard](#add-a-custom-query-to-the-dashboard)
 - [**3. Azure Repos**](#3-azure-repos) (9 videos)
-  - What are Azure repos?
-  - View the parts of Azure repos
-  - Create an Azure repo in the portal
-  - Clone the repo to a developer computer
-  - Create a repo branch
-  - Edit and commit to repo
-  - Push the branch to DevOps
-  - Create a pull request
-  - Team review of pull request
+  - [What are Azure repos?](#what-are-azure-repos)
+  - [View the parts of Azure repos](#view-the-parts-of-azure-repos)
+  - [Create an Azure repo in the portal](#create-an-azure-repo-in-the-portal)
+  - [Clone the repo to a developer computer](#clone-the-repo-to-a-developer-computer)
+  - [Create a repo branch](#create-a-repo-branch)
+  - [Edit and commit to repo](#edit-and-commit-to-repo)
+  - [Push the branch to DevOps](#push-the-branch-to-devops)
+  - [Create a pull request](#create-a-pull-request)
+  - [Team review of pull request](#team-review-of-pull-request)
 - [**4. Azure Pipelines**](#4-azure-pipelines) (12 videos)
-  - What are Azure pipelines?
-  - Continuous integration with build pipelines
-  - The pipeline components
-  - Explore the pipeline section of the DevOps portal
-  - Explore the example web project
-  - Add a service connection to Azure Resource Manager
-  - Explore the pipeline templates
-  - Add a build pipeline
-  - Manually run and troubleshoot a pipeline
-  - Update the repo to trigger the build
-  - Add a release pipeline
-  - Use custom variables in the pipeline
+  - [What are Azure pipelines?](#what-are-azure-pipelines)
+  - [Continuous integration with build pipelines](#continuous-integration-with-build-pipelines)
+  - [The pipeline components](#the-pipeline-components)
+  - [Explore the pipeline section of the DevOps portal](#explore-the-pipeline-section-of-the-devops-portal)
+  - [Explore the example web project](#explore-the-example-web-project)
+  - [Add a service connection to Azure Resource Manager](#add-a-service-connection-to-azure-resource-manager)
+  - [Explore the pipeline templates](#explore-the-pipeline-templates)
+  - [Add a build pipeline](#add-a-build-pipeline)
+  - [Manually run and troubleshoot a pipeline](#manually-run-and-troubleshoot-a-pipeline)
+  - [Update the repo to trigger the build](#update-the-repo-to-trigger-the-build)
+  - [Add a release pipeline](#add-a-release-pipeline)
+  - [Use custom variables in the pipeline](#use-custom-variables-in-the-pipeline)
 - [**5. Extending DevOps**](#5-extending-devops) (9 videos)
-  - Extensibility and integration overview
-  - Add Azure DevOps apps to Slack
-  - Configure Slack channel to work with DevOps
-  - Examine configuration messages
-  - Watch integration message flow into Slack
-  - What extensions can contribute
-  - Use the marketplace to install free extensions
-  - Use the code search extension
-  - Use the persona extension
+  - [Extensibility and integration overview](#extensibility-and-integration-overview)
+  - [Add Azure DevOps apps to Slack](#add-azure-devops-apps-to-slack)
+  - [Configure Slack channel to work with DevOps](#configure-slack-channel-to-work-with-devops)
+  - [Examine configuration messages](#examine-configuration-messages)
+  - [Watch integration message flow into Slack](#watch-integration-message-flow-into-slack)
+  - [What extensions can contribute](#what-extensions-can-contribute)
+  - [Use the marketplace to install free extensions](#use-the-marketplace-to-install-free-extensions)
+  - [Use the code search extension](#use-the-code-search-extension)
+  - [Use the persona extension](#use-the-persona-extension)
 - [**6. Additional Topics**](#6-additional-topics) (3 videos)
-  - Streamline dependencies with Azure Artifacts
-  - Enhance testing efficiency with Azure Test Plans
-  - GitHub actions versus Azure Devops
+  - [Streamline dependencies with Azure Artifacts](#streamline-dependencies-with-azure-artifacts)
+  - [Enhance testing efficiency with Azure Test Plans](#enhance-testing-efficiency-with-azure-test-plans)
+  - [GitHub actions versus Azure Devops](#github-actions-versus-azure-devops)
 - [**7. Continue Your Journey**](#7-continue-your-journey) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Azure DevOps to enhance application development
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980)
@@ -151,7 +151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Microsoft Azure|Azure]] (6), [[Microsoft]] (1), teams (1), next (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [walt] (1)
 
@@ -212,6 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (15), [[Microsoft Azure|Azure]] (10), [[Automation]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Microsoft]] (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
@@ -221,7 +222,7 @@ created: 2026-04-29
 
 ### 1. Setup and Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Azure DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980)
@@ -396,8 +397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[DevOps]] (15), application (11), teams (5), [[Microsoft]] (5)
 > **CLI Commands:** find (3), git (3), make (1), cd (1), npm (1)
-> **Code Keywords:** private (2), new. (1), new, (1), public (1)
 > **Tools:** visual studio (2), github (2), azure portal (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** think of it as (2), such as (1)
@@ -484,11 +485,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (26), [[DevOps]] (15), [[CLI]] (8), [[Azure DevOps Services]] (4), web (4)
 > **Tools:** visual studio (6), command line (4), terminal (1), windows terminal (1)
 > **Env Vars:** cli (8), url (1), ide (1)
 > **CLI Commands:** az (3), find (2)
 > **Prerequisites:** install (3), you'll need (1)
-> **Code Keywords:** interface (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -544,9 +545,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[DevOps]] (6), [[Azure DevOps Services]] (3), [[Microsoft]] (2), teams (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -588,8 +589,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[DevOps]] (8), web (1), [[Microsoft]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (3)
-> **Code Keywords:** let (2)
 > **Tools:** azure portal (2)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Prerequisites:** set up (1)
@@ -656,8 +657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (4), [[Microsoft Azure|Azure]] (2), hr (1), [[Privacy]] (1), [[DevOps]] (1)
 > **UI Navigation:** click on (3), dropdown (1), go to (1)
-> **Code Keywords:** continue (2), let (2)
 > **Env Vars:** url (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **URLs:** [azure.com](https://azure.com) (1)
@@ -743,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (2), public (1), default, (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Version Control]] (3), [[Microsoft Azure|Azure]] (2), [[Git]] (2), teams (1)
 > **CLI Commands:** git (2), find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -825,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), from. (2), private (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[DevOps]] (6), [[Microsoft]] (3), data (2), [[Scrum]] (2)
 > **Env Vars:** asp (2), net (2)
 > **UI Navigation:** click on (3)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -861,7 +862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1)
+> **Frameworks & Libraries:** data (3), [[DevOps]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Add users to an organization
@@ -953,8 +954,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
 > **UI Navigation:** go to (6), click on (4)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (2)
 > **Tools:** visual studio (2)
 > **CLI Commands:** find (1)
@@ -995,8 +996,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), next (1), web (1)
 > **UI Navigation:** go to (6), click on (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1004,7 +1005,7 @@ created: 2026-04-29
 
 ### 2. Azure Boards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage your team workflow with Azure Boards
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980)
@@ -1211,10 +1212,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (19), [[Microsoft Azure|Azure]] (17), [[Agile Development|Agile]] (13), [[Scrum]] (12), feature (6)
 > **Definitions:** is a  (9), means that (1), known as (1)
 > **Exercise Files:** template (9)
 > **Analogies:** such as (4), for example (4), for instance (1)
-> **Code Keywords:** interface (2), this, (1), implements (1), let (1), new, (1)
 > **Env Vars:** cmmi (4)
 > **Speakers:** - [instructor] (1)
 
@@ -1251,8 +1252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), next (1)
 > **Definitions:** refers to (2), is a  (1)
-> **Code Keywords:** let (1), new, (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1351,8 +1352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (9), [[Scrum]] (2), application (2), product (2), next (2)
 > **UI Navigation:** go to (4), click on (2), dropdown (1)
-> **Code Keywords:** let (3), this, (1)
 > **Analogies:** think of it as (2), for example (1)
 > **Exercise Files:** template (2)
 > **Env Vars:** hipaa (1)
@@ -1465,8 +1466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (5), [[Microsoft Azure|Azure]] (4), [[Scrum]] (3), product (3), [[Agile Development|Agile]] (2)
 > **UI Navigation:** click on (4), dropdown (3), go to (3)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** hipaa (1)
@@ -1501,8 +1502,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (1), teams (1)
 > **UI Navigation:** go to (1), click on (1), select the (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Boards and sprints
@@ -1568,8 +1569,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Analytics]] (1)
 > **UI Navigation:** go to (2), navigate to (1), switch to (1), dropdown (1)
-> **Code Keywords:** let (2), switch (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1675,7 +1676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), default, (1), new. (1), this, (1)
+> **Frameworks & Libraries:** teams (3), [[Microsoft Azure|Azure]] (2), product (2), hit (1)
 > **UI Navigation:** go to (2), dropdown (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1743,8 +1744,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (4), teams (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
 > **UI Navigation:** go to (3), click on (2)
-> **Code Keywords:** this, (1), let (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
@@ -1787,8 +1788,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (3)
 > **Env Vars:** wip (2), eip (1)
-> **Code Keywords:** this. (1), let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1821,6 +1822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **UI Navigation:** go to (2), click on (1), dropdown (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1869,7 +1871,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### View work progress with dashboards
@@ -1971,7 +1972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), for, (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), next (2), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1), teams (1)
 > **UI Navigation:** click on (2), go to (2)
 > **CLI Commands:** make (1), find (1)
 > **File Paths:** readme.md (1)
@@ -2058,7 +2059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (3), go to (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** template (1)
@@ -2124,7 +2125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (3), select the (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** configure (2)
@@ -2133,7 +2134,7 @@ created: 2026-04-29
 
 ### 3. Azure Repos
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Azure repos?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980)
@@ -2280,11 +2281,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (20), [[Microsoft Azure|Azure]] (13), [[Version Control]] (12), [[DevOps]] (11), [[Microsoft]] (6)
 > **CLI Commands:** git (20), make (1), find (1)
 > **Definitions:** is a  (4), known as (1), stands for (1)
 > **Tools:** github (5)
 > **Env Vars:** tfvc (3)
-> **Code Keywords:** let (1), continue (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
@@ -2382,8 +2383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), web (2), [[Statistics]] (1), [[Git]] (1), teams (1)
 > **UI Navigation:** click on (6)
-> **Code Keywords:** let (2), this. (2)
 > **CLI Commands:** make (1), git (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** go back to (1)
@@ -2473,8 +2474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Git]] (1), next (1)
 > **UI Navigation:** click on (3), go to (3), dropdown (2), in the sidebar (1)
-> **Code Keywords:** let (6), this. (1), type, (1)
 > **Env Vars:** readme (4)
 > **Tools:** visual studio (3)
 > **Cross-References:** go back to (2)
@@ -2557,8 +2558,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Git]] (4), [[Microsoft Azure|Azure]] (3), prompt (3), [[Windows]] (2)
 > **Tools:** visual studio (7), powershell (2), vs code (2), command line (1), windows terminal (1)
-> **Code Keywords:** switch (2), delete (2), interface (1), this, (1), let (1)
 > **Env Vars:** url (3), dir (1), uri (1), sln (1)
 > **UI Navigation:** go to (3), dropdown (1), switch to (1), click on (1)
 > **CLI Commands:** git (4)
@@ -2634,7 +2635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), default. (1)
+> **Frameworks & Libraries:** teams (2), feature (2), web (2), application (1), [[Microsoft Azure|Azure]] (1)
 > **API Endpoints:** get  (2)
 > **UI Navigation:** go to (2)
 > **Env Vars:** readme (1)
@@ -2681,6 +2682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[DevOps]] (1), data (1)
 > **Tools:** visual studio (3)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
@@ -2718,7 +2720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (2)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Git]] (2), [[GitHub]] (1)
 > **CLI Commands:** git (2), make (1)
 > **Tools:** github (1), visual studio (1)
 > **UI Navigation:** go to (2)
@@ -2786,7 +2788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** web (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2887,7 +2889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (2), let (2), this. (2), delete (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Microsoft Azure|Azure]] (1), hit (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
@@ -2896,7 +2898,7 @@ created: 2026-04-29
 
 ### 4. Azure Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Azure pipelines?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980)
@@ -3017,9 +3019,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Continuous Integration (CI)|Continuous integration]] (9), application (5), [[Continuous Delivery (CD)|Continuous delivery]] (5), ci (4)
 > **Definitions:** is a  (3), means that (1), refers to (1)
 > **CLI Commands:** cd (4)
-> **Code Keywords:** let (2), case, (1)
 > **Env Vars:** yaml (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
@@ -3088,8 +3090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), teams (3), [[Version Control]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[Automation]] (2)
 > **Definitions:** is a  (2), refers to (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** git (1), yaml (1)
 > **CLI Commands:** git (1)
 > **Tools:** github (1)
@@ -3218,8 +3220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[DevOps]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft]] (2), application (1)
 > **Definitions:** is a  (6)
-> **Code Keywords:** self (1), continue (1), let (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** yaml (2)
 > **Tools:** powershell (1), bash (1)
@@ -3312,12 +3314,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[GitHub]] (2), [[npm]] (2), [[DevOps]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** find (2), npm (2), git (1)
 > **Tools:** github (2), bitbucket (1)
 > **UI Navigation:** click on (3)
 > **Prerequisites:** install (2), set up (1)
 > **Cross-References:** we talked about (1), in the last (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -3376,9 +3378,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[ASP.NET Core]] (2), [[DevOps]] (2)
 > **Env Vars:** asp (2), net (2), sln (1), url (1)
 > **Tools:** visual studio (4)
-> **Code Keywords:** let (1), this, (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Exercise Files:** template (2)
 > **UI Navigation:** go to (1)
@@ -3413,8 +3415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
@@ -3473,11 +3475,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[ASP.NET]] (4), web application (2), [[Git]] (1), web (1)
 > **Env Vars:** net (5), asp (4), yaml (4)
 > **Exercise Files:** template (6), zip file (1)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** continue (1), case. (1), let (1)
 > **Prerequisites:** set up (2), configure (1)
 > **CLI Commands:** git (1), docker (1)
 > **Cross-References:** in the next (1)
@@ -3589,8 +3591,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), web (3), [[Windows]] (2), next (2), [[Ubuntu]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** sln (2)
 > **UI Navigation:** click on (2)
 > **Exercise Files:** zip file (2)
@@ -3657,8 +3659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[DevOps]] (1), product (1), [[Troubleshooting]] (1), [[Windows]] (1)
 > **Env Vars:** net (4), sdk (3), url (1)
-> **Code Keywords:** let (3), switch (1), case, (1)
 > **Versions:** 3.1 (3), version 16 (1), 7.0 (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (3)
@@ -3709,6 +3711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -3778,7 +3781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), application (1), web (1), [[Service Deployment]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** set up (2)
 > **Exercise Files:** template (1)
@@ -3827,16 +3830,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[ASP.NET]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** net (4), asp (2)
 > **URLs:** [asp.net](https://asp.net) (2)
-> **Code Keywords:** for . (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Extending DevOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extensibility and integration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980)
@@ -3967,9 +3970,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[DevOps]] (8), [[Microsoft]] (5), management (5), teams (4)
 > **Analogies:** for example (4), such as (4), for instance (1)
 > **Tools:** slack (4), visual studio (2), discord (1), github (1)
-> **Code Keywords:** let (2), type. (1), this, (1), static (1)
 > **Env Vars:** api (2), rest (1)
 > **Prerequisites:** install (3)
 > **CLI Commands:** find (2)
@@ -4007,8 +4010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[DevOps]] (2), [[Slack]] (1), [[Search]] (1), [[Microsoft Teams]] (1)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** case, (1)
 > **Tools:** slack (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -4056,8 +4059,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Slack]] (2), application (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** url (3)
-> **Code Keywords:** let (1), switch (1)
 > **Tools:** slack (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -4117,7 +4120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), type: (1), type. (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Microsoft Azure|Azure]] (1), product (1)
 > **UI Navigation:** click on (2), go to (1), scroll up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4150,9 +4153,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[DevOps]] (3), [[Slack]] (2), web (1)
 > **CLI Commands:** make (3)
 > **Tools:** slack (2)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4199,7 +4202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[DevOps]] (3)
 > **Cross-References:** later in (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is called (1)
@@ -4246,8 +4249,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), next (2), [[DevOps]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** let (1), for. (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Definitions:** is called (1), is a  (1)
@@ -4290,8 +4293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (9), [[JavaScript]] (4), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Use the persona extension
@@ -4349,9 +4352,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), teams (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** picture (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -4359,7 +4362,7 @@ created: 2026-04-29
 
 ### 6. Additional Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Streamline dependencies with Azure Artifacts
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980)
@@ -4458,8 +4461,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), teams (8), [[Programming]] (3), [[Security]] (3), application (2)
 > **CLI Commands:** npm (2), dotnet (1), pip (1), python (1), cd (1)
-> **Code Keywords:** private (1), let (1)
 > **Env Vars:** npm (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
@@ -4529,10 +4532,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[DevOps]] (6), application (5), [[Software Development]] (3), functional (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [presenter] (1)
 
 #### GitHub actions versus Azure Devops
@@ -4624,19 +4627,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (31), [[Microsoft Azure|Azure]] (11), [[Security]] (7), [[DevOps]] (5), management (5)
 > **Tools:** github (31), visual studio (1)
 > **CLI Commands:** cd (1), docker (1)
 > **Env Vars:** api (1), mpm (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (2)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** github repo (1)
 
 
 ### 7. Continue Your Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980)
@@ -4679,6 +4682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (7), [[Microsoft Azure|Azure]] (4), next (2), [[Microsoft]] (2), [[Azure DevOps Services]] (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)

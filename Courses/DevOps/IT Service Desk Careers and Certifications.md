@@ -21,7 +21,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Service%20Desk%20Careers%20and%20Certifications.md)
@@ -40,39 +40,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - IT service desk careers and certifications
+  - [IT service desk careers and certifications](#it-service-desk-careers-and-certifications)
 - [**1. The IT Service Desk**](#1-the-it-service-desk) (3 videos)
-  - IT service desk responsibilities
-  - IT service desk engineer
-  - The first step on the IT career ladder
+  - [IT service desk responsibilities](#it-service-desk-responsibilities)
+  - [IT service desk engineer](#it-service-desk-engineer)
+  - [The first step on the IT career ladder](#the-first-step-on-the-it-career-ladder)
 - [**2. IT Service Desk Technical Skills**](#2-it-service-desk-technical-skills) (3 videos)
-  - Hardware
-  - Software
-  - General IT skills
+  - [Hardware](#hardware)
+  - [Software](#software)
+  - [General IT skills](#general-it-skills)
 - [**3. IT Service Desk Nontechnical Skills**](#3-it-service-desk-nontechnical-skills) (5 videos)
-  - Customer service
-  - Communication
-  - Time management
-  - Problem-solving
-  - Business knowledge
+  - [Customer service](#customer-service)
+  - [Communication](#communication)
+  - [Time management](#time-management)
+  - [Problem-solving](#problem-solving)
+  - [Business knowledge](#business-knowledge)
 - [**4. IT Service Desk Certifications**](#4-it-service-desk-certifications) (5 videos)
-  - Certification options
-  - Vendor certifications
-  - CompTIA certifications
-  - Information technology infrastructure library certifications
-  - Project management certifications
+  - [Certification options](#certification-options)
+  - [Vendor certifications](#vendor-certifications)
+  - [CompTIA certifications](#comptia-certifications)
+  - [Information technology infrastructure library certifications](#information-technology-infrastructure-library-certifications)
+  - [Project management certifications](#project-management-certifications)
 - [**5. IT Service Desk Career Paths**](#5-it-service-desk-career-paths) (2 videos)
-  - Service desk career paths
-  - IT career paths
+  - [Service desk career paths](#service-desk-career-paths)
+  - [IT career paths](#it-career-paths)
 - [**6. IT Service Desk Workplace Scenarios**](#6-it-service-desk-workplace-scenarios) (2 videos)
-  - Office based workplace
-  - Remote and hybrid workplaces
+  - [Office based workplace](#office-based-workplace)
+  - [Remote and hybrid workplaces](#remote-and-hybrid-workplaces)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IT service desk careers and certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-careers-and-certifications?u=76281980)
@@ -97,13 +97,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** career (4), cloud (1), [[Microsoft]] (1)
 > **Speakers:** - [sarah] (1)
 
 
 ### 1. The IT Service Desk
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IT service desk responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980)
@@ -150,8 +150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), business (2), [[ITIL]] (2), [[Hardware]] (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** new, (1), let (1), new. (1)
 > **Env Vars:** itil (2)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
@@ -245,13 +245,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), business (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. IT Service Desk Technical Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/hardware?u=76281980)
@@ -294,6 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (7), business (3), [[Troubleshooting]] (1), power (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
@@ -329,6 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Microsoft Office]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [announcer] (1)
@@ -370,6 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** mice (1)
 > **Definitions:** is a  (1)
@@ -378,7 +382,7 @@ created: 2026-04-29
 
 ### 3. IT Service Desk Nontechnical Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/customer-service?u=76281980)
@@ -425,6 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -458,6 +463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2)
 > **Speakers:** - [narrator] (1)
 
 #### Time management
@@ -511,9 +517,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), business (1), [[Security]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** new. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
@@ -557,6 +563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -602,15 +609,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), generic (1), [[Career Development]] (1)
 > **Env Vars:** asap (2)
-> **Code Keywords:** for. (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. IT Service Desk Certifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Certification options
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/certification-options?u=76281980)
@@ -659,8 +666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), generic (1), [[Microsoft]] (1), career (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -706,6 +713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -765,9 +773,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), product (2), [[Cybersecurity]] (2), [[Analytics]] (2), [[Security]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** self (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -812,6 +820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (8), career (1)
 > **Env Vars:** itil (8)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
@@ -875,15 +884,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (18), career (2), [[People Management]] (1), business (1)
 > **Env Vars:** prince2 (3), capm (2), pmp (2), ged (1)
 > **Definitions:** is a  (4), defined as (1)
-> **Code Keywords:** from. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. IT Service Desk Career Paths
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Service desk career paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/service-desk-career-paths?u=76281980)
@@ -932,9 +941,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), management (3), career (2), leadership (1), [[Hardware]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sla (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -988,6 +997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), teams (2), application (1), [[DevOps]] (1), [[Security]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -995,7 +1005,7 @@ created: 2026-04-29
 
 ### 6. IT Service Desk Workplace Scenarios
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Office based workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980)
@@ -1048,6 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), career (1)
 > **Prerequisites:** set up (2), setup (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1)
@@ -1108,13 +1119,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), data (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/next-steps?u=76281980)
@@ -1143,8 +1155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), [[LinkedIn]] (2), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 

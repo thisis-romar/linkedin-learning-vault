@@ -31,7 +31,7 @@ tags:
   - skill/application-security
   - skill/devsecops
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Application%20Security%20in%20DevSecOps.md)
@@ -50,35 +50,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to application security in DevSecOps
-  - What you should know
+  - [Introduction to application security in DevSecOps](#introduction-to-application-security-in-devsecops)
+  - [What you should know](#what-you-should-know)
 - [**1. DevSecOps Basics**](#1-devsecops-basics) (4 videos)
-  - What is DevSecOps?
-  - How is application security different
-  - The key to DevSecOps is continuous
-  - What is a DevOps pipeline?
+  - [What is DevSecOps?](#what-is-devsecops)
+  - [How is application security different](#how-is-application-security-different)
+  - [The key to DevSecOps is continuous](#the-key-to-devsecops-is-continuous)
+  - [What is a DevOps pipeline?](#what-is-a-devops-pipeline)
 - [**2. Continuous Application Security**](#2-continuous-application-security) (9 videos)
-  - Continuous static scanning
-  - Continuous dynamic scanning
-  - Interactive application security scanning
-  - Continuous secret scanning
-  - Continuous dependency scanning
-  - Continuous container security
-  - Continuous infrastructure as code scanning
-  - AI application security
-  - Continuous application runtime monitoring
+  - [Continuous static scanning](#continuous-static-scanning)
+  - [Continuous dynamic scanning](#continuous-dynamic-scanning)
+  - [Interactive application security scanning](#interactive-application-security-scanning)
+  - [Continuous secret scanning](#continuous-secret-scanning)
+  - [Continuous dependency scanning](#continuous-dependency-scanning)
+  - [Continuous container security](#continuous-container-security)
+  - [Continuous infrastructure as code scanning](#continuous-infrastructure-as-code-scanning)
+  - [AI application security](#ai-application-security)
+  - [Continuous application runtime monitoring](#continuous-application-runtime-monitoring)
 - [**3. Practicing Continuous Application Security**](#3-practicing-continuous-application-security) (5 videos)
-  - Tying it all together
-  - Managing the results
-  - Metrics
-  - Challenge: Building a continuous AppSec toolkit
-  - Solution: Building a continuous AppSec toolkit
+  - [Tying it all together](#tying-it-all-together)
+  - [Managing the results](#managing-the-results)
+  - [Metrics](#metrics)
+  - [Challenge: Building a continuous AppSec toolkit](#challenge-building-a-continuous-appsec-toolkit)
+  - [Solution: Building a continuous AppSec toolkit](#solution-building-a-continuous-appsec-toolkit)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to application security in DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980)
@@ -99,6 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[DevOps]] (3), [[Software Development]] (2), teams (2), [[DevSecOps]] (2)
 > **Speakers:** - [tim] (1)
 
 #### What you should know
@@ -152,11 +153,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Security]] (4), [[DevOps]] (3), ci (1), cd (1)
 > **Tools:** github (5), terminal (2), visual studio (1), vs code (1)
 > **Prerequisites:** set up (4), install (2)
 > **URLs:** [github.com](https://github.com) (2), [semgrep.dev](https://semgrep.dev) (1), [visualstudio.com](https://visualstudio.com) (1)
 > **CLI Commands:** make (1), cd (1), python (1)
-> **Code Keywords:** finally, (2), let (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** sdlc (1), ias (1)
 > **Exercise Files:** download the (1)
@@ -164,7 +165,7 @@ created: 2026-04-29
 
 ### 1. DevSecOps Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DevSecOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980)
@@ -261,8 +262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (32), [[DevOps]] (16), [[DevSecOps]] (8), teams (6), application (3)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** function (2), let (1), continue (1), this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### How is application security different
@@ -334,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), pass (2)
+> **Frameworks & Libraries:** [[Security]] (23), [[DevOps]] (9), teams (6), [[DevSecOps]] (4), application (3)
 > **Tools:** jira (1), slack (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -390,8 +391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (9), ci (6), [[Security]] (6), cd (5), application (3)
 > **CLI Commands:** cd (5), make (2)
-> **Code Keywords:** static (1), function (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -445,6 +446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Automation]] (4), [[DevOps]] (3), [[DevSecOps]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
@@ -452,7 +454,7 @@ created: 2026-04-29
 
 ### 2. Continuous Application Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous static scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980)
@@ -609,7 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (12), let (4), for. (1), finally, (1), function (1)
+> **Frameworks & Libraries:** [[Security]] (13), [[GitHub]] (7), ci (6), application (5), cd (4)
 > **Tools:** github (7), jira (4), slack (3)
 > **CLI Commands:** cd (4), find (2)
 > **UI Navigation:** go to (4)
@@ -779,7 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (3), interface (1), continue (1), type, (1)
+> **Frameworks & Libraries:** application (13), [[Security]] (10), hit (5), ci (4), cd (4)
 > **Env Vars:** url (3), sast (2), api (1), cli (1), owasp (1)
 > **Tools:** github (4), slack (2), jira (2)
 > **UI Navigation:** go to (3), click on (1), scroll down (1)
@@ -967,8 +969,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (15), [[Security]] (9), [[Java]] (6), [[DevSecOps]] (3), data (3)
 > **Env Vars:** jar (12), iast (11), yaml (10), url (3), api (3)
-> **Code Keywords:** let (7), static (2), default, (1), this. (1)
 > **Exercise Files:** source code (4), download the (4)
 > **UI Navigation:** go to (5), scroll down (2)
 > **Prerequisites:** set up (4), setup (2), install (1)
@@ -1103,9 +1105,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), ci (4), aws (3), cloud (2), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** aws (3), docker (3), make (1), find (1), cd (1)
 > **Tools:** github (4), command line (4), bitbucket (1)
-> **Code Keywords:** let (3), extends (1), require (1), static (1), switch (1)
 > **Env Vars:** aws (3), api (1)
 > **Prerequisites:** install (2), setup (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -1193,7 +1195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), static (2), this, (1)
+> **Frameworks & Libraries:** [[Security]] (13), application (4), [[OWASP]] (2), [[Databases]] (2), [[DevSecOps]] (1)
 > **CLI Commands:** apache (1), cd (1), make (1)
 > **Env Vars:** owasp (2)
 > **Tools:** jira (1), slack (1)
@@ -1319,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), public (1), switch (1)
+> **Frameworks & Libraries:** [[Security]] (19), application (4), [[CLI]] (3), [[DevSecOps]] (2), [[Jenkins]] (2)
 > **Env Vars:** cli (3), cis (1), api (1)
 > **CLI Commands:** docker (3), find (1)
 > **Tools:** jira (1), slack (1)
@@ -1449,7 +1451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (3), this, (2), pass (2)
+> **Frameworks & Libraries:** [[Security]] (10), [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[CLI]] (3), [[Jenkins]] (3), teams (2)
 > **Env Vars:** cli (3), ide (1), zip (1)
 > **Prerequisites:** install (3), setup (1)
 > **CLI Commands:** terraform (1), brew (1), pip (1)
@@ -1587,7 +1589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (3), static (1), pass (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (21), ai (10), teams (4), aws (3), [[Generative AI]] (2)
 > **Env Vars:** aws (3), rds (3)
 > **CLI Commands:** aws (3), terraform (1)
 > **Tools:** vs code (3)
@@ -1695,9 +1697,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), aws (6), cloud (3), [[Amazon EC2|Ec2]] (3), database (3)
 > **Env Vars:** aws (6), ec2 (3), sim (1), api (1)
 > **CLI Commands:** aws (6), make (1)
-> **Code Keywords:** let (2), public (2), for. (1), require (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1705,7 +1707,7 @@ created: 2026-04-29
 
 ### 3. Practicing Continuous Application Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tying it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980)
@@ -1750,8 +1752,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), [[Jenkins]] (3), application (2), [[DevSecOps]] (2), [[Automation]] (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** pass (1)
 > **Tools:** command line (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1897,9 +1899,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (5), api (5), [[DevSecOps]] (3), data (2), [[Security]] (2)
 > **Env Vars:** json (5), api (5), aws (2)
 > **CLI Commands:** cd (2), aws (2), docker (1), python (1)
-> **Code Keywords:** let (4), switch (1), this. (1)
 > **Tools:** github (1), command line (1), vs code (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Cross-References:** earlier in (1), previous video (1)
@@ -2009,7 +2011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (2), require (1), type. (1)
+> **Frameworks & Libraries:** application (10), [[Security]] (8), teams (2), [[DevOps]] (1), [[Scripting]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **UI Navigation:** go to (1)
@@ -2044,7 +2046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1)
+> **Frameworks & Libraries:** application (3), [[Security]] (2), [[GitHub]] (2), management (2), [[LinkedIn]] (1)
 > **Tools:** github (2), jira (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** bwapp (1)
@@ -2132,8 +2134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), hit (3), application (2), [[Security]] (2), [[LinkedIn]] (1)
 > **Tools:** jira (10), github (1), slack (1)
-> **Code Keywords:** static (4), let (2), this. (1), default, (1), case, (1)
 > **Prerequisites:** set up (5)
 > **UI Navigation:** go to (1), select the (1)
 > **Env Vars:** bwap (1)
@@ -2144,7 +2146,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/next-steps?u=76281980)
@@ -2187,7 +2189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (7), application (3), teams (1), management (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

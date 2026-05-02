@@ -31,7 +31,7 @@ tags:
   - skill/azure-ai-studio
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Studio%20First%20Look.md)
@@ -50,16 +50,16 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Exploring Azure OpenAI Studio
+  - [Exploring Azure OpenAI Studio](#exploring-azure-openai-studio)
 - [**1.  Work with Azure Open AI Studio**](#1-work-with-azure-open-ai-studio) (4 videos)
-  - Azure AI Studio and the Azure Portal
-  - Key differences between Azure and OpenAI
-  - Use OpenAI chat with Python
-  - Create Dall-E images with Python
+  - [Azure AI Studio and the Azure Portal](#azure-ai-studio-and-the-azure-portal)
+  - [Key differences between Azure and OpenAI](#key-differences-between-azure-and-openai)
+  - [Use OpenAI chat with Python](#use-openai-chat-with-python)
+  - [Create Dall-E images with Python](#create-dall-e-images-with-python)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Azure OpenAI Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980)
@@ -76,13 +76,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (2), [[Azure AI Studio]] (1), [[ChatGPT]] (1), data (1)
 > **Speakers:** - microsoft (1)
 
 
 ### 1.  Work with Azure Open AI Studio
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure AI Studio and the Azure Portal
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980)
@@ -223,10 +223,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (4), api (4), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (2)
 > **Env Vars:** api (4), gtp (2), dall (1)
 > **UI Navigation:** click on (7)
 > **Prerequisites:** you need to have (2), set up (2), configure (1), setup (1)
-> **Code Keywords:** let (3), this, (1), default, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **URLs:** [azure.com](https://azure.com) (1)
@@ -343,8 +343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), [[Microsoft Azure|Azure]] (10), data (6), prompt (5), [[SQL]] (3)
 > **Env Vars:** api (12), sql (3), gpt (3), json (2), rest (1)
-> **Code Keywords:** let (5), self (1), default, (1)
 > **CLI Commands:** python (2), curl (2), node (1), find (1)
 > **Definitions:** known as (2), is a  (2)
 > **UI Navigation:** go to (2), click on (1)
@@ -489,8 +489,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (14), [[Microsoft Azure|Azure]] (5), ai (5), [[Python (Programming Language)|Python]] (3), prompt (2)
 > **Env Vars:** api (14), gpt (1)
-> **Code Keywords:** let (7)
 > **CLI Commands:** python (3), make (1), find (1)
 > **Tools:** terminal (2), visual studio (1)
 > **Definitions:** is a  (2), is called (1)
@@ -541,6 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), [[DALL-E]] (1), [[Python (Programming Language)|Python]] (1), [[Windows]] (1), data (1)
 > **Tools:** visual studio (1), terminal (1), windows terminal (1)
 > **Code Identifiers:** image_url (2)
 > **Env Vars:** dall (1), url (1)
@@ -548,7 +549,6 @@ created: 2026-04-29
 > **UI Navigation:** click on (2)
 > **Analogies:** similar to (1), for example (1)
 > **File Paths:** imagegen.py (1)
-> **CLI Commands:** python (1)
 
 
 ## Instructor

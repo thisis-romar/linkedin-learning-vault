@@ -36,7 +36,7 @@ tags:
   - topic/web-development
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Java%20Essential%20Training-%20Objects%20and%20APIs.md)
@@ -55,64 +55,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Java objects and APIs
-  - What you should know
-  - CoderPad tour
+  - [Java objects and APIs](#java-objects-and-apis)
+  - [What you should know](#what-you-should-know)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. Inheritance**](#1-inheritance) (7 videos)
-  - Inheritance between classes
-  - Constructors in inheritance
-  - Overriding and overloading inherited methods
-  - Chain of inheritance
-  - Limiting access in inheritance
-  - Sealed classes
-  - Code Solution: Cake! Cake! Cake!
+  - [Inheritance between classes](#inheritance-between-classes)
+  - [Constructors in inheritance](#constructors-in-inheritance)
+  - [Overriding and overloading inherited methods](#overriding-and-overloading-inherited-methods)
+  - [Chain of inheritance](#chain-of-inheritance)
+  - [Limiting access in inheritance](#limiting-access-in-inheritance)
+  - [Sealed classes](#sealed-classes)
+  - [Code Solution: Cake! Cake! Cake!](#code-solution-cake-cake-cake)
 - [**2. Polymorphism**](#2-polymorphism) (4 videos)
-  - Polymorphism with objects
-  - Object typecasting
-  - instanceof operator
-  - Code Solution: Employee report
+  - [Polymorphism with objects](#polymorphism-with-objects)
+  - [Object typecasting](#object-typecasting)
+  - [instanceof operator](#instanceof-operator)
+  - [Code Solution: Employee report](#code-solution-employee-report)
 - [**3. Abstraction**](#3-abstraction) (4 videos)
-  - Abstract classes and methods
-  - Inheriting from abstract classes
-  - Creating objects with abstract types
-  - Code Solution: Orchestra concert
+  - [Abstract classes and methods](#abstract-classes-and-methods)
+  - [Inheriting from abstract classes](#inheriting-from-abstract-classes)
+  - [Creating objects with abstract types](#creating-objects-with-abstract-types)
+  - [Code Solution: Orchestra concert](#code-solution-orchestra-concert)
 - [**4. Interfaces**](#4-interfaces) (5 videos)
-  - Creating an interface
-  - Implementing interfaces
-  - Instantiating objects with interface types
-  - Default and static methods
-  - Code Solution: Shirt product
+  - [Creating an interface](#creating-an-interface)
+  - [Implementing interfaces](#implementing-interfaces)
+  - [Instantiating objects with interface types](#instantiating-objects-with-interface-types)
+  - [Default and static methods](#default-and-static-methods)
+  - [Code Solution: Shirt product](#code-solution-shirt-product)
 - [**5. Data Structures**](#5-data-structures) (9 videos)
-  - Collections framework
-  - Sets
-  - Lists
-  - Queues
-  - Maps
-  - Iterators
-  - Enhanced for loops
-  - forEach() and lambdas
-  - Code Solution: Gradebook
+  - [Collections framework](#collections-framework)
+  - [Sets](#sets)
+  - [Lists](#lists)
+  - [Queues](#queues)
+  - [Maps](#maps)
+  - [Iterators](#iterators)
+  - [Enhanced for loops](#enhanced-for-loops)
+  - [forEach() and lambdas](#foreach-and-lambdas)
+  - [Code Solution: Gradebook](#code-solution-gradebook)
 - [**6. Functional Programming**](#6-functional-programming) (4 videos)
-  - Functional interfaces
-  - Streams
-  - Common stream operations
-  - Code Solution: Color filter
+  - [Functional interfaces](#functional-interfaces)
+  - [Streams](#streams)
+  - [Common stream operations](#common-stream-operations)
+  - [Code Solution: Color filter](#code-solution-color-filter)
 - [**7. Exception Handling**](#7-exception-handling) (9 videos)
-  - Try and catch blocks
-  - Stack trace and exception message
-  - Checked vs. unchecked exceptions
-  - Handling multiple exceptions
-  - Finally block
-  - Try with resources
-  - Throwing exceptions
-  - Rethrowing exceptions
-  - Code Solution: Unauthorized user
+  - [Try and catch blocks](#try-and-catch-blocks)
+  - [Stack trace and exception message](#stack-trace-and-exception-message)
+  - [Checked vs. unchecked exceptions](#checked-vs-unchecked-exceptions)
+  - [Handling multiple exceptions](#handling-multiple-exceptions)
+  - [Finally block](#finally-block)
+  - [Try with resources](#try-with-resources)
+  - [Throwing exceptions](#throwing-exceptions)
+  - [Rethrowing exceptions](#rethrowing-exceptions)
+  - [Code Solution: Unauthorized user](#code-solution-unauthorized-user)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Java objects and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980)
@@ -137,6 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), [[Programming]] (2), [[LinkedIn]] (1)
 > **Versions:** java 17 (1)
 > **Speakers:** - [angie] (1)
 
@@ -165,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Analogies:** such as (3)
 > **Versions:** java 17 (1)
 > **Prerequisites:** you'll need (1)
@@ -223,7 +225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), type, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Code Identifiers:** showexpectedresults (1), showhints (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -232,7 +234,7 @@ created: 2026-04-29
 
 ### 1. Inheritance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inheritance between classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980)
@@ -313,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (8), class, (6), extends (4), private (3), from. (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (1), [[Forms]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1)
 > **Code Identifiers:** employeeid (2)
 > **Definitions:** known as (2)
 > **CLI Commands:** make (1)
@@ -405,7 +407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (8), let (7), class, (2), pass (2), class. (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Java]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
 > **Warnings:** note that (1)
@@ -496,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (8), class. (5), super (4), let (4), class, (4)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -544,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), let (4), class. (2), this. (1), from. (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Code Identifiers:** mycar (5), setcolor (1), getcolor (1), getdoors (1)
 > **Speakers:** - [instructor] (1)
 
@@ -599,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), protected (5), class, (3), private (3), class. (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** calculateperimeter (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
@@ -657,7 +659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), let (1), class, (1), extends (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Java]] (1)
 > **Definitions:** means that (2), known as (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -694,14 +696,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (2), class, (2), extends (2), from. (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 2. Polymorphism
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Polymorphism with objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980)
@@ -764,7 +765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), class. (4), this, (1), class, (1)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[Programming]] (1), [[Forms]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), generic (1)
 > **Code Identifiers:** makesound (9)
 > **Definitions:** is an  (5), is a  (2), defined as (1)
 > **CLI Commands:** cat (5), make (2)
@@ -835,8 +836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **CLI Commands:** cat (9), make (1)
-> **Code Keywords:** let (3), type. (2), class, (2), class. (2)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), such as (1)
 > **Code Identifiers:** sashathedog (1)
@@ -915,8 +916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is an  (6), is a  (3), known as (1), is called (1)
-> **Code Keywords:** let (4), pass (2), class. (1), super (1), this. (1)
 > **CLI Commands:** cat (8)
 > **Speakers:** - [instructor] (1)
 
@@ -940,7 +941,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** managercount (1), engineercount (1), interncount (1)
-> **Code Keywords:** class, (1), finally, (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -948,7 +948,7 @@ created: 2026-04-29
 
 ### 3. Abstraction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Abstract classes and methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980)
@@ -1027,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (19), class. (2), super (1), from. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1)
 > **Definitions:** is a  (3), defined as (1), is an  (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
@@ -1075,7 +1075,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (15), let (2), class. (2), class, (1), extends (1)
 > **CLI Commands:** make (1)
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
@@ -1123,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (12), class, (4), let (3), class. (2), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -1150,14 +1149,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (3), extends (1), let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Interfaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980)
@@ -1224,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (14), private (6), abstract (5), let (3), class. (3)
+> **Frameworks & Libraries:** product (3), [[Java]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (3), means that (1)
 > **Exercise Files:** template (2)
 > **Analogies:** similar to (1), just like (1)
@@ -1275,7 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), abstract (5), let (3), implements (2), class. (1)
+> **Frameworks & Libraries:** product (2), [[Microsoft Word|Word]] (2), [[Java]] (1)
 > **Env Vars:** isbn (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1307,7 +1305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (3), implements (2), abstract (1), class. (1)
+> **Frameworks & Libraries:** product (5)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** setname (1)
 > **Analogies:** just like (1)
@@ -1404,7 +1402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (15), abstract (9), static (9), let (3), implements (3)
+> **Frameworks & Libraries:** product (7), [[Microsoft Word|Word]] (1), business (1)
 > **Definitions:** defined as (2), is a  (1), means that (1)
 > **Code Identifiers:** getprice (2)
 > **Analogies:** for example (1)
@@ -1429,14 +1427,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), implements (1), abstract (1)
+> **Frameworks & Libraries:** product (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 5. Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collections framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980)
@@ -1511,8 +1509,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), data (4), [[Algorithms]] (2), [[Programming]] (1)
 > **Definitions:** is a  (4), is an  (2), known as (1)
-> **Code Keywords:** interface (3), require (1), class, (1)
 > **Code Identifiers:** binarysearch (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1623,7 +1621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), interface (1), type. (1), for, (1), case, (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Definitions:** is an  (3), is a  (2)
 > **Warnings:** important note (1)
 > **Speakers:** - [instructor] (1)
@@ -1741,7 +1739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (4), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1816,7 +1814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), var (1)
+> **Frameworks & Libraries:** [[Java]] (2), next (2)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1926,7 +1924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (5), interface (4), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Java]] (2), data (2), [[Debugging]] (1)
 > **Code Identifiers:** fruitcalories (3), putifabsent (3), keyset (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
@@ -1980,7 +1978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (3), var (1), case, (1)
+> **Frameworks & Libraries:** next (4), [[Java]] (1)
 > **Code Identifiers:** hasnext (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2048,7 +2046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), data (2), [[Programming]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
 > **Prerequisites:** you'll need (1)
@@ -2157,7 +2155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), lambda (5), finally, (2), pass (2), this, (1)
+> **Frameworks & Libraries:** next (2), express (1), [[Java]] (1)
 > **Code Identifiers:** foreach (8), fruitcalories (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -2180,14 +2178,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** makeupgrades (2), originalgrade (1), makeupgrade (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. Functional Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980)
@@ -2268,7 +2265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (13), function (12), abstract (8), lambda (6), pass (2)
+> **Frameworks & Libraries:** functional (9), [[Java]] (8), [[Functional Programming]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** stands for (3), is an  (2), is a  (1)
 > **Code Identifiers:** foreach (3), andthen (1)
 > **Analogies:** such as (1), for example (1)
@@ -2305,8 +2302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), data (2), api (2), [[Functional Programming]] (1), parallel (1)
 > **Env Vars:** api (2)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2427,7 +2424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), lambda (2), pass (2), function (2), continue (1)
+> **Frameworks & Libraries:** data (4), api (2), [[Microsoft Word|Word]] (2), next (1)
 > **Code Identifiers:** anymatch (5), allmatch (1), foreach (1), touppercase (1)
 > **Tools:** terminal (7)
 > **Definitions:** is a  (3), is an  (1), known as (1)
@@ -2455,7 +2452,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), this, (1)
 > **Code Identifiers:** tolist (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2463,7 +2459,7 @@ created: 2026-04-29
 
 ### 7. Exception Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try and catch blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980)
@@ -2534,7 +2530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), throw (1), catch. (1), this. (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** createnewfile (3)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** such as (1), imagine (1)
@@ -2598,7 +2594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), class, (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (3), next (2), [[Debugging]] (1)
 > **Code Identifiers:** getmessage (3), printstacktrace (1), createnewfile (1), createfileexclusively (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -2646,7 +2642,6 @@ created: 2026-04-29
 >
 > **Code Identifiers:** nextdouble (2), createnewfile (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** throw (1)
 > **Speakers:** - [instructor] (1)
 
 #### Handling multiple exceptions
@@ -2736,7 +2731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), super (4), throw (2), class, (1), class. (1)
+> **Frameworks & Libraries:** next (2), [[Java]] (1)
 > **Code Identifiers:** filereader (2), createnewfile (1), hasnext (1), nextdouble (1)
 > **File Paths:** numbers.txt (1)
 > **CLI Commands:** find (1)
@@ -2776,7 +2771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally. (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** filereader (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2827,7 +2822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), try, (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Microsoft Word|Word]] (1), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - when (1)
@@ -2919,7 +2914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), throw (9), pass (2), case, (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (2), application (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** required to (1)
@@ -2972,7 +2967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), case, (1), throw (1), extends (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Code Identifiers:** createnewfile (1)
 > **Prerequisites:** required to (1)
@@ -3003,14 +2998,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (3), let (1), pass (1), this, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980)
@@ -3045,6 +3039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), game (2), [[LinkedIn]] (2), [[Programming]] (1), [[Banking]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [angie] (1)
 

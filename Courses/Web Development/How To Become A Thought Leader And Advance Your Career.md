@@ -24,7 +24,7 @@ tags:
   - skill/career-management
   - skill/thought-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/How%20To%20Become%20A%20Thought%20Leader%20And%20Advance%20Your%20Career.md)
@@ -43,30 +43,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What does thought leadership mean?
+  - [What does thought leadership mean?](#what-does-thought-leadership-mean)
 - [**1. What Is Thought Leadership?**](#1-what-is-thought-leadership) (2 videos)
-  - Characteristics of a thought leader
-  - The importance of thought leadership for job seekers
+  - [Characteristics of a thought leader](#characteristics-of-a-thought-leader)
+  - [The importance of thought leadership for job seekers](#the-importance-of-thought-leadership-for-job-seekers)
 - [**2. Where Should I Start?**](#2-where-should-i-start) (2 videos)
-  - Establish your personal brand
-  - Identify your style
+  - [Establish your personal brand](#establish-your-personal-brand)
+  - [Identify your style](#identify-your-style)
 - [**3. How and What Should I Share?**](#3-how-and-what-should-i-share) (5 videos)
-  - Write your own thought content
-  - Create audio or video content
-  - Become a content curator
-  - Pitching content to media outlets and influencers
-  - Seek out speaking opportunities
+  - [Write your own thought content](#write-your-own-thought-content)
+  - [Create audio or video content](#create-audio-or-video-content)
+  - [Become a content curator](#become-a-content-curator)
+  - [Pitching content to media outlets and influencers](#pitching-content-to-media-outlets-and-influencers)
+  - [Seek out speaking opportunities](#seek-out-speaking-opportunities)
 - [**4. Best Practices for Thought Leaders**](#4-best-practices-for-thought-leaders) (4 videos)
-  - Engage people vs. talking at them
-  - Help people
-  - Stay on brand as a thought leader
-  - Walk your talk
+  - [Engage people vs. talking at them](#engage-people-vs-talking-at-them)
+  - [Help people](#help-people)
+  - [Stay on brand as a thought leader](#stay-on-brand-as-a-thought-leader)
+  - [Walk your talk](#walk-your-talk)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Maximize your impact in minimal time
+  - [Maximize your impact in minimal time](#maximize-your-impact-in-minimal-time)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What does thought leadership mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/what-does-thought-leadership-mean?u=76281980)
@@ -95,14 +95,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (3), [[Search]] (3), career (2), [[Personal Branding]] (1), power (1)
 > **URLs:** [jobjenny.com](https://jobjenny.com) (1)
 > **Speakers:** - if (1)
 
 
 ### 1. What Is Thought Leadership?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of a thought leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/characteristics-of-a-thought-leader?u=76281980)
@@ -151,7 +151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** career (2), power (1), teams (1), business (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - well (1)
 
 #### The importance of thought leadership for job seekers
@@ -205,14 +205,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (3), [[LinkedIn]] (3), [[Search]] (1), leadership (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - why (1)
 
 
 ### 2. Where Should I Start?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establish your personal brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980)
@@ -291,7 +291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), for, (2), super (1), this. (1)
+> **Frameworks & Libraries:** career (3), [[Thought Leadership]] (1), [[Team Leadership]] (1), strengths (1), next (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - it (1)
@@ -335,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), this, (1), super (1), public (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Search]] (1), [[Thought Leadership]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - after (1)
@@ -343,7 +343,7 @@ created: 2026-04-29
 
 ### 3. How and What Should I Share?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Write your own thought content
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980)
@@ -418,7 +418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), finally, (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (3), next (1), [[LinkedIn]] (1), hit (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
 
@@ -489,7 +489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), super (1), public (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Thought Leadership]] (1), next (1), product (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
 > **URLs:** [jobjenny.com](https://jobjenny.com) (1)
@@ -543,6 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Content Creation]] (1), career (1)
 > **Speakers:** - you (1)
 
 #### Pitching content to media outlets and influencers
@@ -610,9 +611,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (2), career (2), [[Thought Leadership]] (2), next (1)
 > **Env Vars:** haro (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), this. (1)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** short for (1)
 > **Analogies:** imagine (1)
@@ -675,9 +676,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Prerequisites:** getting started (1), set up (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** ted (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -687,7 +688,7 @@ created: 2026-04-29
 
 ### 4. Best Practices for Thought Leaders
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Engage people vs. talking at them
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980)
@@ -734,7 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (2), [[Zoom]] (1), [[LinkedIn]] (1), [[Statistics]] (1)
 > **Speakers:** - i (1)
 
 #### Help people
@@ -766,7 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), return. (1)
+> **Frameworks & Libraries:** business (1), [[Microsoft Office|Office]] (1), career (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - perhaps (1)
@@ -810,7 +811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), module (1), for. (1), let (1), this, (1)
+> **Frameworks & Libraries:** career (4), game (1), [[Search]] (1), [[Thought Leadership]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
@@ -869,7 +870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2)
+> **Frameworks & Libraries:** career (2), [[Thought Leadership]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [jobjenny.com](https://jobjenny.com) (1)
 > **Definitions:** known as (1)
@@ -878,7 +879,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Maximize your impact in minimal time
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980)
@@ -941,8 +942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), business (2), [[Google]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), this. (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** coming up (1)
 > **Definitions:** is an  (1)

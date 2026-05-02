@@ -34,7 +34,7 @@ tags:
   - skill/chatgpt
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20ChatGPT%20for%20Business%20Analysis.md)
@@ -53,38 +53,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Power up with ChatGPT
-  - Are you in the best place to start?
+  - [Power up with ChatGPT](#power-up-with-chatgpt)
+  - [Are you in the best place to start?](#are-you-in-the-best-place-to-start)
 - [**1. All about ChatGPT**](#1-all-about-chatgpt) (5 videos)
-  - What is ChatGPT?
-  - Using the ChatGPT interface
-  - Privacy and security concerns
-  - What ChatGPT is and isn't good for
-  - Creating and using synthetic data in ChatGPT
+  - [What is ChatGPT?](#what-is-chatgpt)
+  - [Using the ChatGPT interface](#using-the-chatgpt-interface)
+  - [Privacy and security concerns](#privacy-and-security-concerns)
+  - [What ChatGPT is and isn't good for](#what-chatgpt-is-and-isnt-good-for)
+  - [Creating and using synthetic data in ChatGPT](#creating-and-using-synthetic-data-in-chatgpt)
 - [**2. ChatGPT Use Cases**](#2-chatgpt-use-cases) (17 videos)
-  - Gaining insights from the output of elicitation
-  - Analyzing data
-  - Market scans
-  - Making decisions
-  - Process definition and optimization
-  - Risk assessments and mitigations
-  - Building training material
-  - Analyzing customer feedback
-  - Requirement prioritization and categorization
-  - Use case generation
-  - Test case generation
-  - Customer support and website FAQs
-  - Scenario planning
-  - Improve requirements quality
-  - Improve metrics and measures
-  - Team building exercises
-  - Certification prep
+  - [Gaining insights from the output of elicitation](#gaining-insights-from-the-output-of-elicitation)
+  - [Analyzing data](#analyzing-data)
+  - [Market scans](#market-scans)
+  - [Making decisions](#making-decisions)
+  - [Process definition and optimization](#process-definition-and-optimization)
+  - [Risk assessments and mitigations](#risk-assessments-and-mitigations)
+  - [Building training material](#building-training-material)
+  - [Analyzing customer feedback](#analyzing-customer-feedback)
+  - [Requirement prioritization and categorization](#requirement-prioritization-and-categorization)
+  - [Use case generation](#use-case-generation)
+  - [Test case generation](#test-case-generation)
+  - [Customer support and website FAQs](#customer-support-and-website-faqs)
+  - [Scenario planning](#scenario-planning)
+  - [Improve requirements quality](#improve-requirements-quality)
+  - [Improve metrics and measures](#improve-metrics-and-measures)
+  - [Team building exercises](#team-building-exercises)
+  - [Certification prep](#certification-prep)
 - [**Conclusion**](#conclusion) (1 videos)
-  - We're just getting started with ChatGPT
+  - [We're just getting started with ChatGPT](#were-just-getting-started-with-chatgpt)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Power up with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), business (1), ai (1), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [vincent] (1)
 
 #### Are you in the best place to start?
@@ -157,14 +157,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (1), continue (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), business (3), [[ChatGPT]] (2), [[LinkedIn]] (1), next (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. All about ChatGPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ChatGPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-is-chatgpt?u=76281980)
@@ -203,9 +203,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (7), data (2), business (2), ai (1), llm (1)
 > **CLI Commands:** snap (1), make (1)
 > **Analogies:** imagine (1), it's like (1)
-> **Code Keywords:** super (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -253,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), continue (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), prompt (1), [[Unstructured Data]] (1), data (1), power (1)
 > **Analogies:** it's like (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -315,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Security]] (5), [[ChatGPT]] (5), [[Privacy]] (4), ai (3)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -379,7 +379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), type, (1), super (1), require (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), next (1), business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Warnings:** keep in mind (1)
@@ -424,7 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (16), [[ChatGPT]] (5), game (1), [[Privacy]] (1), [[Security]] (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -432,7 +432,7 @@ created: 2026-04-29
 
 ### 2. ChatGPT Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gaining insights from the output of elicitation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980)
@@ -491,7 +491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), data (3), [[Decision-Making]] (2), [[Generative AI]] (1), business (1)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
@@ -530,6 +530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[ChatGPT]] (5), [[Decision-Making]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
@@ -578,6 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **Speakers:** - [instructor] (1)
 
 #### Making decisions
@@ -633,9 +635,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (7), data (3), prompt (3), [[Decision-Making]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Process definition and optimization
@@ -737,6 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (11), data (3), business (1), prompt (1), [[Generative AI]] (1)
 > **Env Vars:** sop (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -790,6 +793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), business (4), [[Security]] (2), prompt (1), [[Software Development]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -853,9 +857,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Content Creation]] (1), prompt (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Analyzing customer feedback
@@ -903,6 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), data (3), prompt (3), [[Microsoft Products|Products]] (2), [[Forms]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -964,6 +969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[ChatGPT]] (6), prompt (3), functional (2), next (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1010,8 +1016,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (6), product (1), [[User Interviews]] (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** previous video (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [narrator] (1)
@@ -1059,6 +1065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (6), product (1), prompt (1), business (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** previous video (1)
 > **Documentation:** the documentation (1)
@@ -1094,6 +1101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Customer Support]] (5), [[User Experience (UX)|User experience]] (2), power (1), business (1), [[Forms]] (1)
 > **Env Vars:** gpt (4), faq (2)
 > **Analogies:** such as (2)
 > **UI Navigation:** open the (1)
@@ -1160,8 +1168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (7), data (2), ai (2), next (2), prompt (2)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** pestel (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1212,8 +1220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (7), product (1), functional (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Improve metrics and measures
@@ -1257,7 +1265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), business (3), prompt (2), [[Product Development]] (1), product (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1298,6 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), prompt (2), [[Building Trust]] (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [presenter] (1)
@@ -1361,7 +1370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), await (1), require (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), business (2), career (1), management (1), data (1)
 > **Env Vars:** cbap (3), babok (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1370,7 +1379,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### We're just getting started with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980)
@@ -1421,6 +1430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), career (2), [[Prompt Engineering]] (1), [[Generative AI Tools]] (1), power (1)
 > **URLs:** [vincentmirabelli.com](https://vincentmirabelli.com) (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)

@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/AI%20in%20Business%20Essential%20Training.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AI for business decisions
+  - [AI for business decisions](#ai-for-business-decisions)
 - [**1. Artificial Intelligence (AI)**](#1-artificial-intelligence-ai) (7 videos)
-  - What is AI?
-  - How does AI work?
-  - Optimization and AI
-  - What is optimization?
-  - Pattern and shape recognition and AI
-  - Expert systems
-  - Generative AI
+  - [What is AI?](#what-is-ai)
+  - [How does AI work?](#how-does-ai-work)
+  - [Optimization and AI](#optimization-and-ai)
+  - [What is optimization?](#what-is-optimization)
+  - [Pattern and shape recognition and AI](#pattern-and-shape-recognition-and-ai)
+  - [Expert systems](#expert-systems)
+  - [Generative AI](#generative-ai)
 - [**2. Data Analytics and Optimization**](#2-data-analytics-and-optimization) (4 videos)
-  - Basics of data analytics
-  - Regression analysis and forecasting
-  - Using data to make an optimized decision
-  - Taking data analytics to the next level: AI
+  - [Basics of data analytics](#basics-of-data-analytics)
+  - [Regression analysis and forecasting](#regression-analysis-and-forecasting)
+  - [Using data to make an optimized decision](#using-data-to-make-an-optimized-decision)
+  - [Taking data analytics to the next level: AI](#taking-data-analytics-to-the-next-level-ai)
 - [**3. Using AI in Business**](#3-using-ai-in-business) (9 videos)
-  - Overview of uses of AI in business
-  - Operational decision making and AI
-  - Building a basic AI algorithm
-  - AI in financial markets
-  - AI in marketing
-  - AI and product pricing
-  - Human brakes on AI
-  - Where AI does not work
-  - Best practices with AI
+  - [Overview of uses of AI in business](#overview-of-uses-of-ai-in-business)
+  - [Operational decision making and AI](#operational-decision-making-and-ai)
+  - [Building a basic AI algorithm](#building-a-basic-ai-algorithm)
+  - [AI in financial markets](#ai-in-financial-markets)
+  - [AI in marketing](#ai-in-marketing)
+  - [AI and product pricing](#ai-and-product-pricing)
+  - [Human brakes on AI](#human-brakes-on-ai)
+  - [Where AI does not work](#where-ai-does-not-work)
+  - [Best practices with AI](#best-practices-with-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI for business decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980)
@@ -109,13 +109,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** ai (5), power (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1), product (1)
 > **Speakers:** - [michael] (1)
 
 
 ### 1. Artificial Intelligence (AI)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980)
@@ -178,10 +178,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), product (1), [[Search]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for instance (2)
-> **Code Keywords:** self (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [narrator] (1)
 
@@ -248,9 +248,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Search]] (9), data (6), application (1), database (1)
 > **Env Vars:** sap (1), gps (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
 > **Warnings:** be aware (1)
@@ -321,6 +321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Microsoft Word|Word]] (3), nlp (3), ai (1), [[Banking]] (1)
 > **Env Vars:** nlp (3), sas (1)
 > **CLI Commands:** python (1)
 > **Definitions:** we call this (1)
@@ -382,9 +383,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), ai (8), product (7), [[Analytics]] (5), business (2)
 > **Env Vars:** gdp (6)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Pattern and shape recognition and AI
@@ -460,8 +461,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1), database (1)
 > **Definitions:** is an  (4)
-> **Code Keywords:** self (2), let (1)
 > **Analogies:** picture (1), for instance (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -499,6 +500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), business (2), application (1), [[Search]] (1), data (1)
 > **Env Vars:** ibm (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
@@ -626,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), for, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (9), [[Microsoft]] (4), [[Generative AI]] (3), product (3)
 > **Analogies:** for example (4), imagine (1), for instance (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** api (1), crm (1), gpt (1)
@@ -638,7 +640,7 @@ created: 2026-04-29
 
 ### 2. Data Analytics and Optimization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980)
@@ -731,11 +733,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Microsoft Excel|Excel]] (5), ai (3), feature (3), business (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** gdp (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -864,7 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), default. (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), [[Stata]] (2), next (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Versions:** 1.00 (2), 2.00 (1)
 > **Env Vars:** sas (2)
@@ -974,10 +976,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (2), ai (2), application (1), [[Analytics]] (1)
 > **CLI Commands:** make (11)
 > **Versions:** 0.211 (1), 0.05 (1), 0.2 (1)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** raise (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
@@ -1069,9 +1071,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), business (6), ai (2), [[Analytics]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (2)
-> **Code Keywords:** else, (1)
 > **Env Vars:** fico (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1079,7 +1081,7 @@ created: 2026-04-29
 
 ### 3. Using AI in Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of uses of AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980)
@@ -1148,7 +1150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), continue (1), this. (1)
+> **Frameworks & Libraries:** ai (19), business (5), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Excel|Excel]] (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -1233,7 +1235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), self (1)
+> **Frameworks & Libraries:** business (4), ai (4), [[Decision-Making]] (4), data (3), application (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **UI Navigation:** go to (1)
@@ -1308,7 +1310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** data (7), ai (3), [[Microsoft Excel|Excel]] (2), application (1), [[Programming]] (1)
 > **Versions:** 51.3 (1), 56.3 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1435,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), return, (2), class. (1), case, (1)
+> **Frameworks & Libraries:** ai (8), [[Real-Time]] (3), [[Microsoft Excel|Excel]] (2), data (2), [[Decision-Making]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** reits (2), q23 (1), r23 (1)
 > **Versions:** 20.6 (1), 5.2 (1), 8.5 (1)
@@ -1525,8 +1527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (20), data (6), ai (4), [[Microsoft Products|Products]] (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** gdp (7), ctr (1), cpm (1)
-> **Code Keywords:** case, (2), this, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
@@ -1652,7 +1654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), raise (2)
+> **Frameworks & Libraries:** data (9), business (3), power (2), ai (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdp (3)
 > **Definitions:** is a  (2)
@@ -1723,8 +1725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), business (3), [[Microsoft Office|Office]] (2), data (2), [[Search]] (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), from, (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - ai (1)
 
@@ -1795,7 +1797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), this. (1)
+> **Frameworks & Libraries:** ai (11), [[Google]] (3), [[Computer Vision]] (1), data (1), [[Algorithms]] (1)
 > **Analogies:** for example (1), similar to (1)
 > **Env Vars:** ibm (1)
 > **Cross-References:** coming up (1)
@@ -1860,6 +1862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), data (7), business (4), [[Microsoft Excel|Excel]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
@@ -1868,7 +1871,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980)
@@ -1913,8 +1916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), product (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else, (1), return, (1)
 > **Cross-References:** coming up (1), we talked about (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [michael] (1)

@@ -26,7 +26,7 @@ tags:
   - skill/copyright-law
   - skill/content-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Protecting%20Yourself%20as%20a%20Content%20Creator.md)
@@ -45,30 +45,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Protecting your intellectual property as a creator
-  - Legal disclaimer
+  - [Protecting your intellectual property as a creator](#protecting-your-intellectual-property-as-a-creator)
+  - [Legal disclaimer](#legal-disclaimer)
 - [**1. Protecting Your Brand Online**](#1-protecting-your-brand-online) (4 videos)
-  - How trademark law applies to your content
-  - Choose a brand name that won't get you sued
-  - Choose a brand name that you can own via trademark protection
-  - Take steps to protect your trademark rights online
+  - [How trademark law applies to your content](#how-trademark-law-applies-to-your-content)
+  - [Choose a brand name that won't get you sued](#choose-a-brand-name-that-wont-get-you-sued)
+  - [Choose a brand name that you can own via trademark protection](#choose-a-brand-name-that-you-can-own-via-trademark-protection)
+  - [Take steps to protect your trademark rights online](#take-steps-to-protect-your-trademark-rights-online)
 - [**2. Protecting Your Content Online**](#2-protecting-your-content-online) (4 videos)
-  - How copyright law applies to your content
-  - Create online content that you can copyright
-  - Understand when you do, and don’t, own copyrights in your content
-  - Taking steps to protect your copyright rights online
+  - [How copyright law applies to your content](#how-copyright-law-applies-to-your-content)
+  - [Create online content that you can copyright](#create-online-content-that-you-can-copyright)
+  - [Understand when you do, and don’t, own copyrights in your content](#understand-when-you-do-and-dont-own-copyrights-in-your-content)
+  - [Taking steps to protect your copyright rights online](#taking-steps-to-protect-your-copyright-rights-online)
 - [**3. Protecting Your Secrets and Business Information Online**](#3-protecting-your-secrets-and-business-information-online) (3 videos)
-  - How trade secret law applies to your business strategies
-  - Identifying your trade secrets
-  - Protecting your email lists and text lists with trade secret
+  - [How trade secret law applies to your business strategies](#how-trade-secret-law-applies-to-your-business-strategies)
+  - [Identifying your trade secrets](#identifying-your-trade-secrets)
+  - [Protecting your email lists and text lists with trade secret](#protecting-your-email-lists-and-text-lists-with-trade-secret)
 - [**4. Considerations When Hiring a Lawyer**](#4-considerations-when-hiring-a-lawyer) (1 videos)
-  - Know when and how to hire a lawyer
+  - [Know when and how to hire a lawyer](#know-when-and-how-to-hire-a-lawyer)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Protect yourself as a content creator
+  - [Protect yourself as a content creator](#protect-yourself-as-a-content-creator)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting your intellectual property as a creator
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-intellectual-property-as-a-creator-20448617?u=76281980)
@@ -88,7 +88,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - one (1)
 
 #### Legal disclaimer
@@ -114,13 +113,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Speakers:** - all (1)
 
 
 ### 1. Protecting Your Brand Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How trademark law applies to your content
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trademark-law-applies-to-your-content?u=76281980)
@@ -191,8 +190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Microsoft Word|Word]] (2), business (1), next (1), game (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** super (1), let (1)
 > **Tools:** safari (1)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
@@ -282,9 +281,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), [[Google]] (5), database (3), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **URLs:** [matchbox.com](https://matchbox.com) (1), [uspto.gov](https://uspto.gov) (1), [domain.com](https://domain.com) (1), [namechk.com](https://namechk.com) (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** wwf (1), fyi (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -347,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2), next (1), [[Google]] (1), business (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -432,13 +431,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), [[Microsoft Products|Products]] (3), [[Microsoft Office|Office]] (3), database (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
 
 ### 2. Protecting Your Content Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How copyright law applies to your content
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980)
@@ -499,8 +499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Copyright Law]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), protected (1)
 > **Code Identifiers:** iheartradio (1)
 > **Env Vars:** dna (1)
 > **Analogies:** for example (1)
@@ -565,9 +565,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), [[Copyright Law]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **Env Vars:** nfl (1), snl (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -640,6 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), web (2), [[Copyright Law]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - so (1)
@@ -701,8 +702,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Microsoft Office|Office]] (4), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1), finally, (1)
 > **Env Vars:** grtx (1)
 > **Definitions:** is called (1)
 > **Best Practices:** it's best to (1)
@@ -712,7 +713,7 @@ created: 2026-04-29
 
 ### 3. Protecting Your Secrets and Business Information Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How trade secret law applies to your business strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980)
@@ -769,8 +770,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Google]] (2), career (1), [[Microsoft Products|Products]] (1), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** protected (1)
 > **Env Vars:** kfc (1)
 > **Speakers:** - there (1)
 
@@ -831,7 +832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), this. (2), protected (1)
+> **Frameworks & Libraries:** business (1), [[Content Creation]] (1), data (1), application (1)
 > **CLI Commands:** cat (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
@@ -889,8 +890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Social Media Marketing]] (1), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dtsa (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - while (1)
@@ -898,7 +899,7 @@ created: 2026-04-29
 
 ### 4. Considerations When Hiring a Lawyer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Know when and how to hire a lawyer
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/know-when-and-how-to-hire-a-lawyer?u=76281980)
@@ -975,9 +976,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Google]] (2)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** lgbtqia (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -986,7 +987,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect yourself as a content creator
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protect-yourself-as-a-content-creator?u=76281980)
@@ -1015,6 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), feature (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)
 

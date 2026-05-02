@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/people-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Be%20the%20Manager%20People%20Won't%20Leave.md)
@@ -45,23 +45,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Be the manager people won't leave
+  - [Be the manager people won't leave](#be-the-manager-people-wont-leave)
 - [**1. Get Them to Stay: The Basics**](#1-get-them-to-stay-the-basics) (3 videos)
-  - Be someone people trust, no matter what
-  - Be an example of integrity
-  - Be relentlessly inclusive
+  - [Be someone people trust, no matter what](#be-someone-people-trust-no-matter-what)
+  - [Be an example of integrity](#be-an-example-of-integrity)
+  - [Be relentlessly inclusive](#be-relentlessly-inclusive)
 - [**2. Inspire Them to Grow: The Core Work**](#2-inspire-them-to-grow-the-core-work) (3 videos)
-  - Be obsessed with learning and development
-  - Be open to another way
-  - Be an advocate for change
+  - [Be obsessed with learning and development](#be-obsessed-with-learning-and-development)
+  - [Be open to another way](#be-open-to-another-way)
+  - [Be an advocate for change](#be-an-advocate-for-change)
 - [**3. Help Them Love Their Work: The Challenge**](#3-help-them-love-their-work-the-challenge) (3 videos)
-  - Be a next-level mentor
-  - Be a fun-loving boss
-  - Be a leader who isn't afraid to love
+  - [Be a next-level mentor](#be-a-next-level-mentor)
+  - [Be a fun-loving boss](#be-a-fun-loving-boss)
+  - [Be a leader who isn't afraid to love](#be-a-leader-who-isnt-afraid-to-love)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be the manager people won't leave
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-the-manager-people-won-t-leave-23794103?u=76281980)
@@ -86,14 +86,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), let (1)
+> **Frameworks & Libraries:** hr (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 
 
 ### 1. Get Them to Stay: The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be someone people trust, no matter what
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-someone-people-trust-no-matter-what-23749098?u=76281980)
@@ -160,8 +160,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), leadership (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** super (1), else. (1)
 > **Speakers:** - years (1)
 
 #### Be an example of integrity
@@ -237,8 +237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), next (1), career (1), teams (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - my (1)
 
@@ -301,6 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), hr (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -309,7 +310,7 @@ created: 2026-04-29
 
 ### 2. Inspire Them to Grow: The Core Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be obsessed with learning and development
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980)
@@ -390,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), new, (1), require (1), while, (1), pass (1)
+> **Frameworks & Libraries:** hr (2), career (1), [[Microsoft Word|Word]] (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), just like (1), for example (1)
 > **Env Vars:** pto (1)
@@ -460,6 +461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), teams (1), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** nasa (1), ibm (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -523,9 +525,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (2), business (1), leadership (1)
 > **Env Vars:** csr (5)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - have (1)
@@ -533,7 +535,7 @@ created: 2026-04-29
 
 ### 3. Help Them Love Their Work: The Challenge
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be a next-level mentor
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-next-level-mentor-23791279?u=76281980)
@@ -600,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1)
+> **Frameworks & Libraries:** next (2), career (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - exceptional (1)
@@ -672,6 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - just (1)
@@ -755,6 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), hr (2), [[Human Resources (HR)|Human resources]] (1), power (1)
 > **Definitions:** is a  (1)
 
 

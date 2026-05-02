@@ -40,7 +40,7 @@ tags:
   - skill/linear-algebra
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20Foundations-%20Linear%20Algebra.md)
@@ -59,45 +59,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Linear algebra the building block of ML
-  - What you should know
+  - [Linear algebra the building block of ML](#linear-algebra-the-building-block-of-ml)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Linear Algebra**](#1-introduction-to-linear-algebra) (2 videos)
-  - Defining linear algebra
-  - Applications of linear algebra in ML
+  - [Defining linear algebra](#defining-linear-algebra)
+  - [Applications of linear algebra in ML](#applications-of-linear-algebra-in-ml)
 - [**2. Vectors Basics**](#2-vectors-basics) (3 videos)
-  - Introduction to vectors
-  - Vector arithmetic
-  - Coordinate system
+  - [Introduction to vectors](#introduction-to-vectors)
+  - [Vector arithmetic](#vector-arithmetic)
+  - [Coordinate system](#coordinate-system)
 - [**3. Vector Projections and Basis**](#3-vector-projections-and-basis) (4 videos)
-  - Dot product of vectors
-  - Scalar and vector projection
-  - Changing basis of vectors
-  - Basis, linear independence, and span
+  - [Dot product of vectors](#dot-product-of-vectors)
+  - [Scalar and vector projection](#scalar-and-vector-projection)
+  - [Changing basis of vectors](#changing-basis-of-vectors)
+  - [Basis, linear independence, and span](#basis-linear-independence-and-span)
 - [**4. Introduction to Matrices**](#4-introduction-to-matrices) (4 videos)
-  - Matrices introduction
-  - Types of matrices
-  - Types of matrix transformation
-  - Composition or combination of matrix transformations
+  - [Matrices introduction](#matrices-introduction)
+  - [Types of matrices](#types-of-matrices)
+  - [Types of matrix transformation](#types-of-matrix-transformation)
+  - [Composition or combination of matrix transformations](#composition-or-combination-of-matrix-transformations)
 - [**5. Gaussian Elimination**](#5-gaussian-elimination) (3 videos)
-  - Solving linear equations using Gaussian elimination
-  - Gaussian elimination and finding the inverse matrix
-  - Inverse and determinant
+  - [Solving linear equations using Gaussian elimination](#solving-linear-equations-using-gaussian-elimination)
+  - [Gaussian elimination and finding the inverse matrix](#gaussian-elimination-and-finding-the-inverse-matrix)
+  - [Inverse and determinant](#inverse-and-determinant)
 - [**6. Matrices from Orthogonality to Gram–Schmidt Process**](#6-matrices-from-orthogonality-to-gramschmidt-process) (4 videos)
-  - Matrices changing basis
-  - Transforming to the new basis
-  - Orthogonal matrix
-  - Gram–Schmidt process
+  - [Matrices changing basis](#matrices-changing-basis)
+  - [Transforming to the new basis](#transforming-to-the-new-basis)
+  - [Orthogonal matrix](#orthogonal-matrix)
+  - [Gram–Schmidt process](#gramschmidt-process)
 - [**7. Eigenvalues and Eigenvectors**](#7-eigenvalues-and-eigenvectors) (4 videos)
-  - Introduction to eigenvalues and eigenvectors
-  - Calculating eigenvalues and eigenvectors
-  - Changing to the eigenbasis
-  - Google PageRank algorithm
+  - [Introduction to eigenvalues and eigenvectors](#introduction-to-eigenvalues-and-eigenvectors)
+  - [Calculating eigenvalues and eigenvectors](#calculating-eigenvalues-and-eigenvectors)
+  - [Changing to the eigenbasis](#changing-to-the-eigenbasis)
+  - [Google PageRank algorithm](#google-pagerank-algorithm)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear algebra the building block of ML
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980)
@@ -122,7 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (3), [[Algorithms]] (2), [[Speech Recognition]] (1), ai (1), power (1)
 > **Speakers:** - have (1)
 
 #### What you should know
@@ -154,9 +154,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Linear Algebra]] (2), [[Programming]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Tools:** jupyter (3), anaconda (1)
-> **Code Keywords:** let (2)
 > **Versions:** python 3 (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
@@ -164,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Linear Algebra
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining linear algebra
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980)
@@ -213,7 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), let (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (8), data (3), [[Java]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -322,8 +322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Linear Algebra]] (6), [[Linear Regression]] (3), [[Deep Learning]] (3), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (6)
-> **Code Keywords:** case, (2), let (1)
 > **Env Vars:** rgb (1), pca (1), lsa (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
@@ -332,7 +332,7 @@ created: 2026-04-29
 
 ### 2. Vectors Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to vectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980)
@@ -429,9 +429,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Algebra]] (4), [[Python (Programming Language)|Python]] (3), data (2)
 > **Definitions:** is a  (4), is an  (2), is called (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
-> **Code Keywords:** let (3), case, (1)
 > **CLI Commands:** python (3)
 > **Code Identifiers:** vectoraslist (1), vectorasarray (1), columnvector (1)
 > **Cross-References:** we mentioned (1)
@@ -516,7 +516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), match. (1)
+> **Frameworks & Libraries:** next (2), [[Linear Algebra]] (1)
 > **Code Identifiers:** list_as_array (2)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -581,7 +581,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - have (1)
@@ -589,7 +588,7 @@ created: 2026-04-29
 
 ### 3. Vector Projections and Basis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dot product of vectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980)
@@ -646,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1), function (1), switch (1), continue (1)
+> **Frameworks & Libraries:** product (9), [[Algorithms]] (1), ai (1), [[Microsoft Products|Products]] (1), next (1)
 > **Code Identifiers:** first_result (1), second_result (1)
 > **Definitions:** is a  (2)
 > **Tools:** jupyter (1)
@@ -708,7 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), this. (1), module (1)
+> **Frameworks & Libraries:** product (3), next (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Tools:** jupyter (1)
@@ -799,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), lambda (2), case, (1)
+> **Frameworks & Libraries:** product (3)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - numerous (1)
@@ -864,13 +863,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** is a  (4)
-> **Code Keywords:** if, (2), let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Introduction to Matrices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Matrices introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-introduction?u=76281980)
@@ -931,6 +929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -999,8 +998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (6), is called (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Types of matrix transformation
@@ -1054,7 +1053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), function (1)
+> **Frameworks & Libraries:** application (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -1110,6 +1109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Linear Algebra]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - we (1)
@@ -1117,7 +1117,7 @@ created: 2026-04-29
 
 ### 5. Gaussian Elimination
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving linear equations using Gaussian elimination
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/solving-linear-equations-using-gaussian-elimination?u=76281980)
@@ -1202,8 +1202,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Definitions:** is called (2), is a  (1), known as (1)
-> **Code Keywords:** let (1), case, (1), finally, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1266,7 +1266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), super (1), module (1), finally, (1)
+> **Frameworks & Libraries:** power (3), [[Linear Algebra]] (1), next (1)
 > **Definitions:** is a  (2), is called (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
@@ -1326,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), case, (1), module (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** deta (3), detb (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -1336,7 +1336,7 @@ created: 2026-04-29
 
 ### 6. Matrices from Orthogonality to Gram–Schmidt Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Matrices changing basis
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-changing-basis?u=76281980)
@@ -1379,7 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** express (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), imagine (1)
 > **CLI Commands:** find (1)
@@ -1436,7 +1436,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** rm (2)
 > **Speakers:** - [instructor] (1)
@@ -1488,7 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1)
+> **Frameworks & Libraries:** product (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1563,7 +1562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1)
+> **Frameworks & Libraries:** parallel (2), next (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -1572,7 +1571,7 @@ created: 2026-04-29
 
 ### 7. Eigenvalues and Eigenvectors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to eigenvalues and eigenvectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-eigenvalues-and-eigenvectors?u=76281980)
@@ -1625,7 +1624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (7), let (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2), is called (2), defined as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -1686,7 +1685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (14), case, (2), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (1), next (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** psa (1)
@@ -1757,8 +1756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (11)
 > **Definitions:** is a  (4), is an  (2), basically means (1)
-> **Code Keywords:** let (2), lambda (2), raise (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1838,9 +1837,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (6), [[Google]] (3), [[Search]] (2), web (2), node (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** node (1), find (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1848,7 +1847,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980)
@@ -1873,7 +1872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** next (2), [[Linear Algebra]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [terezija] (1)
 
 

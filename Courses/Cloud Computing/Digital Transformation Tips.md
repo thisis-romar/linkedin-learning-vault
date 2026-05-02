@@ -31,7 +31,7 @@ tags:
   - skill/change-management
   - skill/digital-transformation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Transformation%20Tips.md)
@@ -50,46 +50,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Digital transformation and your business
+  - [Digital transformation and your business](#digital-transformation-and-your-business)
 - [**1. Foundations of Digital Transformation**](#1-foundations-of-digital-transformation) (5 videos)
-  - Making data and systems accessible via the cloud
-  - Linking elements together via the Internet of Things
-  - Big data: Mining for insights
-  - Securing cloud information
-  - Automating for efficiency and accuracy
+  - [Making data and systems accessible via the cloud](#making-data-and-systems-accessible-via-the-cloud)
+  - [Linking elements together via the Internet of Things](#linking-elements-together-via-the-internet-of-things)
+  - [Big data: Mining for insights](#big-data-mining-for-insights)
+  - [Securing cloud information](#securing-cloud-information)
+  - [Automating for efficiency and accuracy](#automating-for-efficiency-and-accuracy)
 - [**2. Check Readiness: Look Before You Leap**](#2-check-readiness-look-before-you-leap) (4 videos)
-  - Build leadership buy-in for transformation success
-  - Streamline transitions with clear processes
-  - Verify available time and funding for transformation readiness
-  - Avoid transition overload that can stall adoption
+  - [Build leadership buy-in for transformation success](#build-leadership-buy-in-for-transformation-success)
+  - [Streamline transitions with clear processes](#streamline-transitions-with-clear-processes)
+  - [Verify available time and funding for transformation readiness](#verify-available-time-and-funding-for-transformation-readiness)
+  - [Avoid transition overload that can stall adoption](#avoid-transition-overload-that-can-stall-adoption)
 - [**3. Planning for Success**](#3-planning-for-success) (4 videos)
-  - Know what problems you're trying to solve
-  - Engineer transitions with the goal in mind
-  - Secure the right team for a smooth digital transition
-  - Close technology gaps to enable modern tools
+  - [Know what problems you're trying to solve](#know-what-problems-youre-trying-to-solve)
+  - [Engineer transitions with the goal in mind](#engineer-transitions-with-the-goal-in-mind)
+  - [Secure the right team for a smooth digital transition](#secure-the-right-team-for-a-smooth-digital-transition)
+  - [Close technology gaps to enable modern tools](#close-technology-gaps-to-enable-modern-tools)
 - [**4. Communication Best Practices**](#4-communication-best-practices) (4 videos)
-  - Understanding the communication needs of your participants
-  - Build audience-centric transformation communications
-  - Keep employees informed and engaged with up-to-date training materials
-  - Establish feedback loops for continuous improvement
+  - [Understanding the communication needs of your participants](#understanding-the-communication-needs-of-your-participants)
+  - [Build audience-centric transformation communications](#build-audience-centric-transformation-communications)
+  - [Keep employees informed and engaged with up-to-date training materials](#keep-employees-informed-and-engaged-with-up-to-date-training-materials)
+  - [Establish feedback loops for continuous improvement](#establish-feedback-loops-for-continuous-improvement)
 - [**5. Iterate**](#5-iterate) (5 videos)
-  - Measuring your digital transformation against metrics
-  - Ongoing ways to advocate for your digital transformation
-  - Foster a continuous learning culture to engage employees
-  - Embrace continuous improvement in digital transformation
-  - Celebrate digital transformation success
+  - [Measuring your digital transformation against metrics](#measuring-your-digital-transformation-against-metrics)
+  - [Ongoing ways to advocate for your digital transformation](#ongoing-ways-to-advocate-for-your-digital-transformation)
+  - [Foster a continuous learning culture to engage employees](#foster-a-continuous-learning-culture-to-engage-employees)
+  - [Embrace continuous improvement in digital transformation](#embrace-continuous-improvement-in-digital-transformation)
+  - [Celebrate digital transformation success](#celebrate-digital-transformation-success)
 - [**6. Workplace Transformation**](#6-workplace-transformation) (5 videos)
-  - Chat vs. email: Use the right tool for better communication
-  - Links vs. attachments: Enhance collaboration and accuracy
-  - Getting the most out of video conferencing
-  - The AI revolution in the workplace
-  - Implementing AI solutions for business success
+  - [Chat vs. email: Use the right tool for better communication](#chat-vs-email-use-the-right-tool-for-better-communication)
+  - [Links vs. attachments: Enhance collaboration and accuracy](#links-vs-attachments-enhance-collaboration-and-accuracy)
+  - [Getting the most out of video conferencing](#getting-the-most-out-of-video-conferencing)
+  - [The AI revolution in the workplace](#the-ai-revolution-in-the-workplace)
+  - [Implementing AI solutions for business success](#implementing-ai-solutions-for-business-success)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Making your digital transformation a success
+  - [Making your digital transformation a success](#making-your-digital-transformation-a-success)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital transformation and your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/digital-transformation-and-your-business?u=76281980)
@@ -112,6 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [phil] (1)
@@ -119,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Digital Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making data and systems accessible via the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980)
@@ -184,7 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), from. (1)
+> **Frameworks & Libraries:** cloud (5), data (4), [[PaaS]] (3), [[Google]] (2), [[Digital Transformation]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Env Vars:** ceo (1)
 > **Prerequisites:** setup (1)
@@ -257,7 +258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if, (1), this, (1), protected (1)
+> **Frameworks & Libraries:** data (7), [[IoT]] (6), [[Internet of Things (IoT)|Internet of things]] (4), [[Security]] (3), [[Privacy]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** mit (1)
 > **Definitions:** known as (1)
@@ -321,7 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1)
+> **Frameworks & Libraries:** data (13), [[Big Data]] (4), [[Digital Transformation]] (3), business (2), power (2)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -392,10 +393,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), cloud (10), [[Security]] (10), [[Blockchain]] (3), [[Phishing]] (1)
 > **Env Vars:** kms (2), mfa (2), uba (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (1), for instance (1)
-> **Code Keywords:** protected (1)
 > **Speakers:** - [instructor] (1)
 
 #### Automating for efficiency and accuracy
@@ -465,9 +466,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (13), [[Automation]] (6), data (5), [[Microsoft Excel|Excel]] (3), [[SharePoint]] (2)
 > **Analogies:** for example (2), think of it as (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [demonstrator] (1)
@@ -475,7 +476,7 @@ created: 2026-04-29
 
 ### 2. Check Readiness: Look Before You Leap
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build leadership buy-in for transformation success
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-leadership-buy-in-for-transformation-success?u=76281980)
@@ -546,7 +547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), else, (1), let (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (5), leadership (2), teams (1), data (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -606,8 +607,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), teams (1)
 > **Env Vars:** xyz (5)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -669,8 +670,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (5), [[Digital Transformation]] (4), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [presenter] (1)
 
@@ -727,7 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), this, (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), management (2), [[Flux]] (1), [[Microsoft Products|Products]] (1), [[Dashboards]] (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -736,7 +737,7 @@ created: 2026-04-29
 
 ### 3. Planning for Success
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Know what problems you're trying to solve
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/know-what-problems-you-re-trying-to-solve?u=76281980)
@@ -785,6 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -843,7 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), let (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -896,9 +898,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (2), make sure you have (1)
-> **Code Keywords:** self (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
@@ -952,7 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), for. (1)
+> **Frameworks & Libraries:** [[Network Switches]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -963,7 +965,7 @@ created: 2026-04-29
 
 ### 4. Communication Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the communication needs of your participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/understanding-the-communication-needs-of-your-participants?u=76281980)
@@ -1026,8 +1028,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (1), [[Customer Relations]] (1), teams (1), management (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1088,7 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Influencing Others]] (1), next (1), business (1), [[Microsoft]] (1), [[Slack]] (1)
 > **Tools:** slack (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1150,8 +1152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [lecturer] (1)
@@ -1205,8 +1207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (1), leadership (1), [[Microsoft]] (1), [[Forms]] (1), [[SharePoint]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** slack (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1214,7 +1216,7 @@ created: 2026-04-29
 
 ### 5. Iterate
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring your digital transformation against metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/measuring-your-digital-transformation-against-metrics?u=76281980)
@@ -1267,8 +1269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Digital Transformation]] (1), business (1), leadership (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** extends (1), finally, (1)
 > **Cross-References:** earlier in (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** you'll need (1)
@@ -1331,8 +1333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Newsletters]] (1), [[Microsoft Word|Word]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (1), continue (1)
 > **Cross-References:** as we saw (1), earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -1380,8 +1382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), business (1), data (1), management (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), public (1)
 > **Analogies:** picture (1), for instance (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1432,6 +1434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Digital Transformation]] (1), prompt (1), [[Agile Development|Agile]] (1), data (1)
 > **Env Vars:** pdca (4)
 > **Speakers:** - [speaker] (1)
 
@@ -1504,13 +1507,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** next (3), teams (1), leadership (1), [[Digital Transformation]] (1), [[Tokens]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Workplace Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Chat vs. email: Use the right tool for better communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980)
@@ -1553,7 +1556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), private (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), business (1), [[Real-Time]] (1), [[Slack]] (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
@@ -1606,7 +1609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1)
+> **Frameworks & Libraries:** [[Google Drive]] (2), [[SharePoint]] (2), hit (1), data (1), [[Microsoft OneDrive]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
@@ -1678,9 +1681,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1), [[Digital Transformation]] (1)
 > **Best Practices:** remember to (1), rule of thumb (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1753,6 +1756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), data (4), teams (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** rpa (1)
@@ -1820,8 +1824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), data (7), [[Privacy]] (5), business (3), [[Predictive Analytics]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), function (1), this, (1)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** rpa (1)
 > **Cross-References:** previous video (1)
@@ -1830,7 +1834,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making your digital transformation a success
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-your-digital-transformation-a-success?u=76281980)
@@ -1867,6 +1871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), cloud (1), ai (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 

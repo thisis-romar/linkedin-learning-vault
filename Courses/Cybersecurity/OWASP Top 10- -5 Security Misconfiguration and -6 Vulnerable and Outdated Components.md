@@ -30,7 +30,7 @@ tags:
   - skill/vulnerability-assessment
   - skill/application-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-5%20Security%20Misconfiguration%20and%20-6%20Vulnerable%20and%20Outdated%20Components.md)
@@ -49,28 +49,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - 2021 OWASP Top 10
-  - OWASP Top 10 series
+  - [2021 OWASP Top 10](#2021-owasp-top-10)
+  - [OWASP Top 10 series](#owasp-top-10-series)
 - [**1. Security Misconfiguration**](#1-security-misconfiguration) (6 videos)
-  - What is security misconfiguration?
-  - Example #1: 2020 SolarWinds data breach
-  - Example #2: State of Pentesting Report
-  - Prevention technique #1: Repeatable hardening
-  - Prevention technique #2: Minimal platform
-  - Prevention technique #3: Configuration review
+  - [What is security misconfiguration?](#what-is-security-misconfiguration)
+  - [Example #1: 2020 SolarWinds data breach](#example-1-2020-solarwinds-data-breach)
+  - [Example #2: State of Pentesting Report](#example-2-state-of-pentesting-report)
+  - [Prevention technique #1: Repeatable hardening](#prevention-technique-1-repeatable-hardening)
+  - [Prevention technique #2: Minimal platform](#prevention-technique-2-minimal-platform)
+  - [Prevention technique #3: Configuration review](#prevention-technique-3-configuration-review)
 - [**2. Insecure Design**](#2-insecure-design) (6 videos)
-  - What are vulnerable and outdated components?
-  - Real-world example #1: Equifax breach 2017
-  - Real-world example #2: Target breach 2013
-  - Prevention technique #1: Remove unnecessary features
-  - Prevention technique #2: Continuous inventory management
-  - Prevention technique #3: Leverage virtual patching
+  - [What are vulnerable and outdated components?](#what-are-vulnerable-and-outdated-components)
+  - [Real-world example #1: Equifax breach 2017](#real-world-example-1-equifax-breach-2017)
+  - [Real-world example #2: Target breach 2013](#real-world-example-2-target-breach-2013)
+  - [Prevention technique #1: Remove unnecessary features](#prevention-technique-1-remove-unnecessary-features)
+  - [Prevention technique #2: Continuous inventory management](#prevention-technique-2-continuous-inventory-management)
+  - [Prevention technique #3: Leverage virtual patching](#prevention-technique-3-leverage-virtual-patching)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Explore more of the OWASP Top 10
+  - [Explore more of the OWASP Top 10](#explore-more-of-the-owasp-top-10)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980)
@@ -103,10 +103,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), [[Security]] (5), [[OWASP]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** owasp (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [caroline] (1)
 
 #### OWASP Top 10 series
@@ -130,15 +130,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (2), web (1), product (1), [[Security]] (1)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Security Misconfiguration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is security misconfiguration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980)
@@ -191,8 +191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Security]] (2), data (2), [[Engineering]] (1), web application (1)
 > **CLI Commands:** find (1), aws (1), make (1)
-> **Code Keywords:** require (1), public (1), protected (1)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** just like (1), kind of like (1)
 > **Env Vars:** aws (1)
@@ -270,9 +270,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), management (2), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** apt (2), abc (1)
 > **CLI Commands:** apt (2)
-> **Code Keywords:** protected (1), this ( (1)
 > **Definitions:** means that (1), known as (1)
 > **Analogies:** think of it as (1), imagine (1)
 > **Speakers:** - [narrator] (1)
@@ -328,6 +328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), data (2), application (2), web (1), cloud (1)
 > **Env Vars:** sans (1), owasp (1)
 > **Versions:** 30.1 (1)
 > **Speakers:** - [instructor] (1)
@@ -383,9 +384,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), cloud (5), aws (3), [[Cybersecurity]] (2), management (2)
 > **Env Vars:** cis (5), aws (3), pci (1), dss (1), hipaa (1)
 > **CLI Commands:** aws (3)
-> **Code Keywords:** function (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor (1)
 
@@ -446,6 +447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Representational State Transfer (REST)|Rest]] (2), web (2), [[Software Development]] (2), feature (2)
 > **CLI Commands:** make (1), docker (1)
 > **Analogies:** kind of like (1), for example (1)
 > **Env Vars:** cis (1)
@@ -501,7 +503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), public (1)
+> **Frameworks & Libraries:** [[Security]] (11), web (3), next (1)
 > **Env Vars:** cis (1), csat (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** required to (1)
@@ -510,7 +512,7 @@ created: 2026-04-29
 
 ### 2. Insecure Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are vulnerable and outdated components?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-are-vulnerable-and-outdated-components?u=76281980)
@@ -543,6 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), application (2), [[Software Development]] (1), data (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -596,8 +599,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** public (2)
 > **CLI Commands:** apache (1)
 > **Env Vars:** rce (1)
 > **Analogies:** think of it like (1)
@@ -640,7 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), public (1)
+> **Frameworks & Libraries:** [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Phishing]] (1), [[Windows]] (1), data (1)
 > **Env Vars:** pos (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** install (1)
@@ -677,6 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web application (2), [[Security]] (2), [[npm]] (2), web (1), feature (1)
 > **CLI Commands:** npm (2), find (1)
 > **URLs:** [npmjs.com](https://npmjs.com) (1)
 > **Best Practices:** best practice (1)
@@ -723,10 +727,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), web application (2), [[Cybersecurity]] (1), [[Microsoft Word|Word]] (1), management (1)
 > **Env Vars:** sbom (5)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prevention technique #3: Leverage virtual patching
@@ -782,6 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web application (2), [[Software Development]] (1), web (1), application (1), [[Security]] (1)
 > **Env Vars:** ips (1), waf (1), owasp (1)
 > **Prerequisites:** install (2), setup (1)
 > **CLI Commands:** make (1)
@@ -791,7 +796,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore more of the OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980)
@@ -818,7 +823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[OWASP]] (2), data (2), web (1), next (1)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)

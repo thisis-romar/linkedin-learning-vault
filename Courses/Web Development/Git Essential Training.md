@@ -37,7 +37,7 @@ tags:
   - skill/git
   - skill/version-control
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Git%20Essential%20Training.md)
@@ -56,65 +56,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Get started with Git
-  - What you should know
+  - [Get started with Git](#get-started-with-git)
+  - [What you should know](#what-you-should-know)
 - [**1. Why Do You Want to Use Git?**](#1-why-do-you-want-to-use-git) (4 videos)
-  - Git for version control
-  - Git to share code
-  - Git to collaborate
-  - Open source
+  - [Git for version control](#git-for-version-control)
+  - [Git to share code](#git-to-share-code)
+  - [Git to collaborate](#git-to-collaborate)
+  - [Open source](#open-source)
 - [**2. How Does Git Work?**](#2-how-does-git-work) (4 videos)
-  - Use Git locally
-  - Use a Git provider
-  - Distributed version control
-  - How to start working with Git
+  - [Use Git locally](#use-git-locally)
+  - [Use a Git provider](#use-a-git-provider)
+  - [Distributed version control](#distributed-version-control)
+  - [How to start working with Git](#how-to-start-working-with-git)
 - [**3. Install and Configure Git**](#3-install-and-configure-git) (7 videos)
-  - Use a Codespace for this course
-  - Install Git on Windows
-  - Install Git on Linux (PPT)
-  - Install Git on macOS
-  - Git GUI clients
-  - Optional: Install Visual Studio Code
-  - Configure Git
+  - [Use a Codespace for this course](#use-a-codespace-for-this-course)
+  - [Install Git on Windows](#install-git-on-windows)
+  - [Install Git on Linux (PPT)](#install-git-on-linux-ppt)
+  - [Install Git on macOS](#install-git-on-macos)
+  - [Git GUI clients](#git-gui-clients)
+  - [Optional: Install Visual Studio Code](#optional-install-visual-studio-code)
+  - [Configure Git](#configure-git)
 - [**4. Push Your Code with Git**](#4-push-your-code-with-git) (10 videos)
-  - Set up a remote repository
-  - Fork the course repository
-  - Clone the remote repository
-  - Create a file and stage it
-  - Commit a file
-  - Push the file to the remote repository
-  - Pull changes from the remote repository
-  - Initialize a repository locally and sync it
-  - Challenge: Push your first code
-  - Solution: Push your first code
+  - [Set up a remote repository](#set-up-a-remote-repository)
+  - [Fork the course repository](#fork-the-course-repository)
+  - [Clone the remote repository](#clone-the-remote-repository)
+  - [Create a file and stage it](#create-a-file-and-stage-it)
+  - [Commit a file](#commit-a-file)
+  - [Push the file to the remote repository](#push-the-file-to-the-remote-repository)
+  - [Pull changes from the remote repository](#pull-changes-from-the-remote-repository)
+  - [Initialize a repository locally and sync it](#initialize-a-repository-locally-and-sync-it)
+  - [Challenge: Push your first code](#challenge-push-your-first-code)
+  - [Solution: Push your first code](#solution-push-your-first-code)
 - [**5. Make Changes to Files**](#5-make-changes-to-files) (12 videos)
-  - Git status
-  - Edit a file and view changes
-  - Delete files
-  - Rename files
-  - Working with folders
-  - Undo your changes
-  - View commit history
-  - Go back in Git history
-  - Revert a commit
-  - Make use of the GUI of Visual Studio Code
-  - Challenge: Make a change and revert
-  - Solution: Make a change and revert
+  - [Git status](#git-status)
+  - [Edit a file and view changes](#edit-a-file-and-view-changes)
+  - [Delete files](#delete-files)
+  - [Rename files](#rename-files)
+  - [Working with folders](#working-with-folders)
+  - [Undo your changes](#undo-your-changes)
+  - [View commit history](#view-commit-history)
+  - [Go back in Git history](#go-back-in-git-history)
+  - [Revert a commit](#revert-a-commit)
+  - [Make use of the GUI of Visual Studio Code](#make-use-of-the-gui-of-visual-studio-code)
+  - [Challenge: Make a change and revert](#challenge-make-a-change-and-revert)
+  - [Solution: Make a change and revert](#solution-make-a-change-and-revert)
 - [**6. Important Concepts in Git**](#6-important-concepts-in-git) (8 videos)
-  - Ignoring files
-  - The .git folder
-  - Create a branch  in your repository
-  - Create and merge a pull request
-  - Git commit messages
-  - Solving a merge conflict
-  - Challenge: Create a branch and a pull request
-  - Solution: Create a branch and a pull request
+  - [Ignoring files](#ignoring-files)
+  - [The .git folder](#the-git-folder)
+  - [Create a branch  in your repository](#create-a-branch-in-your-repository)
+  - [Create and merge a pull request](#create-and-merge-a-pull-request)
+  - [Git commit messages](#git-commit-messages)
+  - [Solving a merge conflict](#solving-a-merge-conflict)
+  - [Challenge: Create a branch and a pull request](#challenge-create-a-branch-and-a-pull-request)
+  - [Solution: Create a branch and a pull request](#solution-create-a-branch-and-a-pull-request)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with Git
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980)
@@ -139,8 +139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), [[Version Control]] (1), [[Microsoft Azure|Azure]] (1), [[GitHub]] (1)
 > **CLI Commands:** git (4)
-> **Code Keywords:** let (1)
 > **Env Vars:** mvp (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -182,15 +182,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), [[Programming]] (2), [[Linux]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** git (4)
 > **Tools:** command line (2), github (1), powershell (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Why Do You Want to Use Git?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Git for version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980)
@@ -275,8 +275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (13), [[Version Control]] (2), cloud (2), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** git (13), make (5)
-> **Code Keywords:** let (3), while, (1), this, (1)
 > **Definitions:** is a  (1), we call this (1), means that (1)
 > **Tools:** github (1)
 > **Prerequisites:** install (1)
@@ -327,8 +327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (5), [[SharePoint]] (1), web (1), [[Version Control]] (1)
 > **CLI Commands:** git (5), make (2)
-> **Code Keywords:** let (1), public (1), this, (1), interface (1), else. (1)
 > **Env Vars:** usb (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -372,8 +372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7)
 > **CLI Commands:** git (7), make (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Open source
@@ -445,8 +445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (5), open-source (2), feature (1)
 > **CLI Commands:** git (5), make (2), find (1)
-> **Code Keywords:** let (4), delete (1)
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** source code (1)
 > **Analogies:** imagine (1)
@@ -456,7 +456,7 @@ created: 2026-04-29
 
 ### 2. How Does Git Work?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Git locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980)
@@ -505,8 +505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (11), management (1), database (1), [[Version Control]] (1)
 > **CLI Commands:** git (11)
-> **Code Keywords:** let (2), continue (2), type, (1), this, (1)
 > **Analogies:** just like (1), for example (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - we (1)
@@ -538,8 +538,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3)
 > **CLI Commands:** git (3)
-> **Code Keywords:** let (2), this, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
@@ -580,9 +580,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), [[Version Control]] (2), [[Microsoft OneDrive|Onedrive]] (1)
 > **CLI Commands:** git (4)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** git (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -627,8 +627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (6)
 > **CLI Commands:** git (6), make (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - we (1)
@@ -636,7 +636,7 @@ created: 2026-04-29
 
 ### 3. Install and Configure Git
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use a Codespace for this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980)
@@ -701,8 +701,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (11), [[Git]] (4), [[GitHub]] (2), next (1)
 > **CLI Commands:** git (4), make (1)
-> **Code Keywords:** delete (3), switch (1)
 > **Prerequisites:** install (2), configure (1), setup (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Tools:** github (2)
@@ -819,8 +819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (20), [[Windows]] (7), next (7), [[Linux]] (2), [[Search]] (2)
 > **CLI Commands:** git (20), find (2), make (1), ssh (1)
-> **Code Keywords:** let (2), default, (1), switch (1), this. (1), finally, (1)
 > **Prerequisites:** setup (3), install (3), configure (1), set up (1)
 > **Tools:** vim (2), visual studio (2), command line (1), terminal (1), powershell (1)
 > **Code Identifiers:** macos (2)
@@ -861,9 +861,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (9), [[Linux]] (4), [[Ubuntu]] (2)
 > **CLI Commands:** git (9), find (1), sudo (1), apt (1)
 > **Prerequisites:** install (4)
-> **Code Keywords:** while, (1)
 > **URLs:** [git-scm.com](https://git-scm.com) (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
@@ -904,6 +904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), hit (1), [[Xcode]] (1)
 > **CLI Commands:** git (7), brew (1), find (1)
 > **Prerequisites:** install (3), setup (1)
 > **Tools:** terminal (3)
@@ -911,7 +912,6 @@ created: 2026-04-29
 > **Code Identifiers:** macos (1)
 > **URLs:** [git-scm.com](https://git-scm.com) (1)
 > **Cross-References:** go back to (1)
-> **Speakers:** - [instructor] (1)
 
 #### Git GUI clients
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-gui-clients?u=76281980)
@@ -940,6 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (5), next (1)
 > **CLI Commands:** git (5), find (3)
 > **Env Vars:** gui (4)
 > **Tools:** command line (1), visual studio (1)
@@ -947,7 +948,6 @@ created: 2026-04-29
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
-> **Speakers:** - [instructor] (1)
 
 #### Optional: Install Visual Studio Code
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980)
@@ -992,6 +992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (5), [[Codespaces]] (1), [[Windows]] (1), next (1), [[Search]] (1)
 > **CLI Commands:** git (5), find (2), make (1)
 > **Tools:** visual studio (6), vs code (2)
 > **Env Vars:** gui (2)
@@ -1055,8 +1056,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (9), [[Windows]] (1)
 > **CLI Commands:** git (9), find (2), make (1)
-> **Code Keywords:** let (2), override (1)
 > **Tools:** terminal (2)
 > **Warnings:** be aware (1), note that (1)
 > **Definitions:** is called (1)
@@ -1065,7 +1066,7 @@ created: 2026-04-29
 
 ### 4. Push Your Code with Git
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up a remote repository
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980)
@@ -1134,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), public (2), from, (1), new. (1)
+> **Frameworks & Libraries:** [[Git]] (5), [[GitHub]] (5), cloud (2), next (2), [[Bitbucket]] (1)
 > **Tools:** github (5), gitlab (1), bitbucket (1)
 > **CLI Commands:** git (5)
 > **Env Vars:** url (2), readme (2)
@@ -1176,7 +1177,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), default. (1), public (1), private (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** url (1)
 > **UI Navigation:** go to (1)
@@ -1254,9 +1254,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3), [[GitHub]] (2), [[Powershell]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** terminal (2), github (2), visual studio (2), powershell (1)
 > **CLI Commands:** git (3), make (2), ssh (1)
-> **Code Keywords:** let (5), case, (1)
 > **Env Vars:** https (2), url (2), ssh (1), cmd (1)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (1)
@@ -1321,11 +1321,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), [[GitHub]] (1), [[Codespaces]] (1), next (1)
 > **CLI Commands:** git (7), make (1)
 > **Cross-References:** as we saw (1), previous video (1), in the next (1)
 > **Tools:** github (1), terminal (1)
 > **File Paths:** example.md (1)
-> **Code Keywords:** let (1)
 > **Documentation:** the readme (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1361,10 +1361,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), next (1)
 > **CLI Commands:** git (4)
 > **File Paths:** example.md (2)
 > **Cross-References:** in the last (1), in the next (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1397,8 +1397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3), next (1), web (1)
 > **CLI Commands:** git (3), make (1)
-> **Code Keywords:** let (2), interface (1)
 > **File Paths:** example.md (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -1442,8 +1442,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (2), next (1), [[GitHub]] (1), web (1)
 > **CLI Commands:** make (3), git (2)
-> **Code Keywords:** let (4), interface (1)
 > **UI Navigation:** click on (2)
 > **File Paths:** 02.md (1)
 > **Tools:** github (1)
@@ -1526,8 +1526,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (10), web (3), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** git (10)
-> **Code Keywords:** let (5), interface (3)
 > **Env Vars:** url (2), readme (1)
 > **Tools:** github (1), visual studio (1), command line (1)
 > **Cross-References:** go back to (1)
@@ -1560,8 +1560,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (1), [[Programming]] (1)
 > **CLI Commands:** git (2), make (2)
-> **Code Keywords:** try, (1), this. (1)
 > **File Paths:** push.md (1)
 > **Tools:** github (1)
 > **UI Navigation:** open the (1)
@@ -1599,6 +1599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3)
 > **CLI Commands:** git (3)
 > **File Paths:** challenge01.md (1)
 > **Speakers:** - [instructor] (1)
@@ -1607,7 +1608,7 @@ created: 2026-04-29
 
 ### 5. Make Changes to Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Git status
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-status?u=76281980)
@@ -1666,8 +1667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (18), next (4), [[Troubleshooting]] (1)
 > **CLI Commands:** git (18), make (1)
-> **Code Keywords:** let (4), case, (1)
 > **File Paths:** gitstatusdemo.md (2)
 > **Code Identifiers:** gitstatusdemo (2)
 > **Cross-References:** previous chapter (1), in the next (1)
@@ -1771,8 +1772,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (20), prompt (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** git (20), make (2), find (2)
-> **Code Keywords:** let (5), return. (1)
 > **File Paths:** example.md (1), example02.md (1)
 > **Cross-References:** previous chapter (1), go back to (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1826,7 +1827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (4), this. (1)
+> **Frameworks & Libraries:** [[Git]] (8)
 > **CLI Commands:** git (8), find (1)
 > **File Paths:** example02.md (2)
 > **Cross-References:** go back to (1)
@@ -1884,9 +1885,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (14)
 > **CLI Commands:** git (14), mv (1)
 > **File Paths:** example.md (3), newname.md (3), gitstatusdemo.md (2), newstatus.md (2)
-> **Code Keywords:** let (4)
 > **Code Identifiers:** gitstatusdemo (2), newstatus (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1975,8 +1976,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (17)
 > **CLI Commands:** git (17), make (1)
-> **Code Keywords:** let (4), this, (1), delete (1)
 > **File Paths:** newname.md (1)
 > **Code Identifiers:** newname (1)
 > **Definitions:** is a  (1)
@@ -2047,9 +2048,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (12)
 > **CLI Commands:** git (12), make (1)
 > **File Paths:** newname.md (3), newstatus.md (1), first_folder/newname.md (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** newstatus (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -2155,8 +2156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (11), [[Search]] (2), web (1)
 > **CLI Commands:** git (11), grep (2), make (1)
-> **Code Keywords:** let (3), finally, (1), interface (1)
 > **UI Navigation:** scroll down (1), navigate to (1), click on (1)
 > **Tools:** terminal (1), command line (1)
 > **Definitions:** is a  (1)
@@ -2214,8 +2215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (6)
 > **CLI Commands:** git (6), make (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** go back to (2), in the last (1)
 > **File Paths:** example02.md (1)
 > **Code Identifiers:** oneline (1)
@@ -2268,8 +2269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (5), hit (1), next (1)
 > **CLI Commands:** git (5)
-> **Code Keywords:** let (4), this, (1)
 > **Code Identifiers:** gitstatusdemo (2), newstatus (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **File Paths:** gitstatusdemo.md (1)
@@ -2345,10 +2346,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), next (2)
 > **Tools:** visual studio (7), command line (2), vs code (1)
 > **CLI Commands:** git (7)
 > **File Paths:** gitstatusdemo.md (2), newname.md (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Code Identifiers:** gitstatusdemo (2)
 > **UI Navigation:** in the sidebar (1), click on (1)
 > **Analogies:** just like (1)
@@ -2385,8 +2386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (1)
 > **CLI Commands:** make (1), git (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - we (1)
 > **Non-Speech:** (exciting music) (1)
 
@@ -2447,8 +2448,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (8), prompt (1)
 > **CLI Commands:** git (8)
-> **Code Keywords:** let (2)
 > **File Paths:** important_file.md (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -2456,7 +2457,7 @@ created: 2026-04-29
 
 ### 6. Important Concepts in Git
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ignoring files
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/ignoring-files?u=76281980)
@@ -2531,8 +2532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (14)
 > **CLI Commands:** git (14), make (2)
-> **Code Keywords:** this, (3), let (1)
 > **Analogies:** just like (1), for example (1)
 > **Code Identifiers:** logo2 (1)
 > **Exercise Files:** template (1)
@@ -2591,8 +2592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), [[Windows]] (2), [[JSON]] (2), management (1), [[Metadata]] (1)
 > **CLI Commands:** git (7), make (4), find (1)
-> **Code Keywords:** default. (1), let (1), delete (1)
 > **UI Navigation:** open the (2), go to (1)
 > **File Paths:** settings.json (1)
 > **Env Vars:** json (1)
@@ -2691,8 +2692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (10), feature (1), [[GitHub]] (1), next (1)
 > **CLI Commands:** git (10), make (4), find (1)
-> **Code Keywords:** let (2), this, (1), for, (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **Best Practices:** best practice (1)
@@ -2774,7 +2775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (2), public (1)
+> **Frameworks & Libraries:** feature (1), [[GitHub]] (1), next (1), [[Git]] (1)
 > **CLI Commands:** git (1), make (1), find (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Best Practices:** best practice (1), don't forget (1)
@@ -2872,8 +2873,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (9)
 > **CLI Commands:** git (9), make (2)
-> **Code Keywords:** let (3), if, (1), this. (1), case, (1)
 > **Code Identifiers:** gitstatusdemo (2)
 > **Tools:** terminal (1), visual studio (1)
 > **Analogies:** for example (2)
@@ -2972,8 +2973,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (10), [[GitHub]] (1)
 > **CLI Commands:** git (10), make (2)
-> **Code Keywords:** let (2), case, (1), override (1)
 > **File Paths:** gitstatusdemo.md (2)
 > **Code Identifiers:** gitstatusdemo (2)
 > **Tools:** github (1), visual studio (1)
@@ -3010,7 +3011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Git]] (1), [[GitHub]] (1)
 > **File Paths:** status.md (1)
 > **CLI Commands:** git (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -3063,7 +3064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Git]] (3), web (1)
 > **CLI Commands:** git (3), make (1)
 > **File Paths:** joke.md (1)
 > **Cross-References:** go back to (1)
@@ -3075,7 +3076,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980)
@@ -3100,6 +3101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (5), teams (1), [[GitHub]] (1)
 > **CLI Commands:** git (5)
 > **Cross-References:** we covered (1)
 > **Tools:** github (1)

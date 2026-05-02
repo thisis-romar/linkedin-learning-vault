@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Azure%20Essentials%20By%20Microsoft%20Press.md)
@@ -41,39 +41,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Microsoft Azure Essentials Professional Certificate: Introduction
+  - [Microsoft Azure Essentials Professional Certificate: Introduction](#microsoft-azure-essentials-professional-certificate-introduction)
 - [**1. What Is Cloud Computing?**](#1-what-is-cloud-computing) (5 videos)
-  - Learning objectives
-  - The evolution of computing
-  - What “the cloud” really means
-  - Cloud service categories
-  - Cloud deployment models
+  - [Learning objectives](#learning-objectives)
+  - [The evolution of computing](#the-evolution-of-computing)
+  - [What “the cloud” really means](#what-the-cloud-really-means)
+  - [Cloud service categories](#cloud-service-categories)
+  - [Cloud deployment models](#cloud-deployment-models)
 - [**2. Introduction to Microsoft Azure**](#2-introduction-to-microsoft-azure) (5 videos)
-  - Learning objectives
-  - What is Microsoft Azure?
-  - Azure architecture basics
-  - Navigating the Azure portal
-  - Core Azure resource types
+  - [Learning objectives](#learning-objectives)
+  - [What is Microsoft Azure?](#what-is-microsoft-azure)
+  - [Azure architecture basics](#azure-architecture-basics)
+  - [Navigating the Azure portal](#navigating-the-azure-portal)
+  - [Core Azure resource types](#core-azure-resource-types)
 - [**3. Azure Services for Modern Workloads**](#3-azure-services-for-modern-workloads) (6 videos)
-  - Learning objectives
-  - Azure storage
-  - Compute and app hosting options
-  - Azure networking for humans
-  - Data and AI services overview
-  - Monitoring and keeping things healthy
+  - [Learning objectives](#learning-objectives)
+  - [Azure storage](#azure-storage)
+  - [Compute and app hosting options](#compute-and-app-hosting-options)
+  - [Azure networking for humans](#azure-networking-for-humans)
+  - [Data and AI services overview](#data-and-ai-services-overview)
+  - [Monitoring and keeping things healthy](#monitoring-and-keeping-things-healthy)
 - [**4. Security, Governance, and Cost Essentials**](#4-security-governance-and-cost-essentials) (6 videos)
-  - Learning objectives
-  - Identity basics with Entra ID
-  - Protecting your cloud resources
-  - Governance made simple
-  - Azure pricing and cost management
-  - Putting it all together
+  - [Learning objectives](#learning-objectives)
+  - [Identity basics with Entra ID](#identity-basics-with-entra-id)
+  - [Protecting your cloud resources](#protecting-your-cloud-resources)
+  - [Governance made simple](#governance-made-simple)
+  - [Azure pricing and cost management](#azure-pricing-and-cost-management)
+  - [Putting it all together](#putting-it-all-together)
 - [**Summary**](#summary) (1 videos)
-  - Microsoft Azure Essentials Professional Certificate: Summary
+  - [Microsoft Azure Essentials Professional Certificate: Summary](#microsoft-azure-essentials-professional-certificate-summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Azure Essentials Professional Certificate: Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980)
@@ -124,8 +124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), cloud (9), [[Microsoft Azure]] (6), [[Microsoft]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** az (1), make (1)
-> **Code Keywords:** let (1)
 > **Tools:** azure portal (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** you'll need (1)
@@ -133,7 +133,7 @@ created: 2026-04-29
 
 ### 1. What Is Cloud Computing?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980)
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), let (1)
+> **Frameworks & Libraries:** cloud (6), [[IaaS]] (1), [[PaaS]] (1), [[SaaS]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
@@ -453,8 +453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (29), data (26), business (5), [[Agile Development|Agile]] (5), [[Regulatory Compliance]] (3)
 > **CLI Commands:** make (8), find (1)
-> **Code Keywords:** let (4), else. (3), this. (1), this, (1)
 > **Analogies:** for example (4), such as (1)
 > **Prerequisites:** you need to have (1), required to (1)
 > **URLs:** [outlook.com](https://outlook.com) (1)
@@ -585,7 +585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), finally, (1), switch (1)
+> **Frameworks & Libraries:** cloud (39), [[Virtual Machines]] (6), data (4), [[Microsoft Azure|Azure]] (4), [[Security]] (3)
 > **Analogies:** for example (3), such as (2), think of it as (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1)
@@ -702,12 +702,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), [[IaaS]] (4), [[Microsoft Outlook|Outlook]] (3), [[SaaS]] (3), [[PaaS]] (2)
 > **URLs:** [outlook.com](https://outlook.com) (3)
 > **Env Vars:** sas (1), iis (1), pas (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** such as (1), kind of like (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** go to (1)
 
 #### Cloud deployment models
@@ -875,7 +875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (25), private (18), let (3), finally, (2), else. (1)
+> **Frameworks & Libraries:** cloud (60), data (12), [[Hybrid Cloud]] (6), [[Microsoft Azure|Azure]] (4), [[Privacy]] (3)
 > **CLI Commands:** make (2)
 > **URLs:** [azure.com](https://azure.com) (2)
 > **Definitions:** is a  (2)
@@ -887,7 +887,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Microsoft Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980)
@@ -920,7 +920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft]] (1), [[Virtual Machines]] (1), next (1), [[Microsoft Azure]] (1)
 > **Tools:** azure portal (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -978,7 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** cloud (15), [[Microsoft Azure|Azure]] (13), [[Microsoft]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google]] (1)
 > **Definitions:** is a  (1), in other words (1)
 
 #### Azure architecture basics
@@ -1060,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), this. (1), protected (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (25), data (2), [[Microsoft]] (1), power (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1198,7 +1198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (2), this, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Dashboards]] (4), [[Microsoft]] (2), web (1), feature (1)
 > **Tools:** azure portal (6), command line (2)
 > **UI Navigation:** go to (5), click on (1), scroll down (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1304,8 +1304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (24), [[Virtual Machines]] (6), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft]] (1), feature (1)
 > **Env Vars:** http (3), url (2), vpn (1), unc (1)
-> **Code Keywords:** let (2), function (2), while, (1)
 > **Definitions:** is a  (2), means that (1), in other words (1), is called (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -1313,7 +1313,7 @@ created: 2026-04-29
 
 ### 3. Azure Services for Modern Workloads
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980)
@@ -1350,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[IaaS]] (1), [[PaaS]] (1), next (1), data (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 
@@ -1457,7 +1457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), data (4), next (2), [[Windows]] (1), [[Linux]] (1)
 > **Definitions:** is a  (2), is an  (1), stands for (1)
 > **Prerequisites:** install (2)
 > **Env Vars:** unc (1)
@@ -1632,10 +1632,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[Virtual Machines]] (11), [[IaaS]] (6), [[Kubernetes]] (6), [[PaaS]] (6)
 > **Definitions:** is a  (5), is an  (2), means that (1)
 > **CLI Commands:** make (3), docker (2), php (1), python (1)
 > **Env Vars:** cpu (2), url (2), php (1)
-> **Code Keywords:** let (1), interface (1), switch (1), else, (1)
 > **Analogies:** for example (2), such as (1), similar to (1)
 > **Prerequisites:** configure (3), install (1)
 > **Cross-References:** later in (1), we talked about (1)
@@ -1724,7 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (3), public (3)
+> **Frameworks & Libraries:** traffic (4), [[Microsoft Azure|Azure]] (2), cloud (1), management (1), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -1793,8 +1793,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), database (8), data (6), ai (6), [[SQL]] (6)
 > **Env Vars:** sql (11), ocr (1)
-> **Code Keywords:** let (1), this, (1), this. (1), pass (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 
@@ -1875,7 +1875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), finally, (1)
+> **Frameworks & Libraries:** cloud (5), [[Microsoft Azure|Azure]] (3), [[Virtual Machines]] (2), [[IaaS]] (1), [[PaaS]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** sms (1), cpu (1)
 > **Warnings:** troubleshoot (1), watch out (1)
@@ -1886,7 +1886,7 @@ created: 2026-04-29
 
 ### 4. Security, Governance, and Cost Essentials
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980)
@@ -1921,7 +1921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Security]] (2), next (1), application (1), [[PaaS]] (1)
 
 #### Identity basics with Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/identity-basics-with-entra-id?u=76281980)
@@ -2054,7 +2054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), web (7), application (6), web application (5), [[Amazon Web Services (AWS)|Amazon web services]] (4)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** for example (4)
 > **Env Vars:** rbac (3)
@@ -2137,7 +2137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2), let (1), continue (1), default. (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Network Security]] (6), application (3), [[Hardware]] (3), cloud (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
@@ -2215,9 +2215,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), vpn (3), [[Virtual Machines]] (2), [[Analytics]] (1), data (1)
 > **Env Vars:** vpn (3), rbac (1)
 > **Analogies:** for example (2), kind of like (1)
-> **Code Keywords:** private (1), let (1)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
 
@@ -2360,8 +2360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), cloud (10), [[Cost Management]] (4), data (3), [[Microsoft]] (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), this, (1), this. (1)
 > **Definitions:** is an  (2), means that (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** we talked about (2)
@@ -2375,7 +2375,7 @@ created: 2026-04-29
 
 ### Summary
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Azure Essentials Professional Certificate: Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980)
@@ -2422,7 +2422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), cloud (11), [[IaaS]] (2), [[PaaS]] (2), [[Microsoft]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** azure portal (1)
 > **Analogies:** such as (1)

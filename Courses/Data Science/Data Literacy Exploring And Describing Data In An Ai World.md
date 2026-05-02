@@ -44,7 +44,7 @@ tags:
   - skill/data-analysis
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Literacy%20Exploring%20And%20Describing%20Data%20In%20An%20Ai%20World.md)
@@ -63,76 +63,76 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Make better decisions with your data
+  - [Make better decisions with your data](#make-better-decisions-with-your-data)
 - [**1. Think with Data**](#1-think-with-data) (10 videos)
-  - The meaning of data fluency
-  - Data fluency is for everyone
-  - Data fluency in practice
-  - Making intuitive thinking explicit
-  - Thinking about causes
-  - How to develop data fluency
-  - Data-driven decision-making
-  - ROI and the 80/20 rule for data fluency
-  - Putting data in context
-  - Data literacy in the age of generative AI and agentic AI
+  - [The meaning of data fluency](#the-meaning-of-data-fluency)
+  - [Data fluency is for everyone](#data-fluency-is-for-everyone)
+  - [Data fluency in practice](#data-fluency-in-practice)
+  - [Making intuitive thinking explicit](#making-intuitive-thinking-explicit)
+  - [Thinking about causes](#thinking-about-causes)
+  - [How to develop data fluency](#how-to-develop-data-fluency)
+  - [Data-driven decision-making](#data-driven-decision-making)
+  - [ROI and the 80/20 rule for data fluency](#roi-and-the-8020-rule-for-data-fluency)
+  - [Putting data in context](#putting-data-in-context)
+  - [Data literacy in the age of generative AI and agentic AI](#data-literacy-in-the-age-of-generative-ai-and-agentic-ai)
 - [**2. Prepare Data**](#2-prepare-data) (9 videos)
-  - Data ethics
-  - Use in-house data
-  - Use open data
-  - Gather new data
-  - Use third-party data
-  - Assess the quality of data
-  - Assess the generalizability of data
-  - Assess the meaning of data
-  - Assess the ambiguities in data
+  - [Data ethics](#data-ethics)
+  - [Use in-house data](#use-in-house-data)
+  - [Use open data](#use-open-data)
+  - [Gather new data](#gather-new-data)
+  - [Use third-party data](#use-third-party-data)
+  - [Assess the quality of data](#assess-the-quality-of-data)
+  - [Assess the generalizability of data](#assess-the-generalizability-of-data)
+  - [Assess the meaning of data](#assess-the-meaning-of-data)
+  - [Assess the ambiguities in data](#assess-the-ambiguities-in-data)
 - [**3. Adapt Data**](#3-adapt-data) (9 videos)
-  - Sort data
-  - Filter data
-  - Combine and split categories
-  - Code text
-  - Calculate sums and means
-  - Calculate rates
-  - Calculate ratios
-  - Adjust ratios in practice
-  - AI-assisted data preparation
+  - [Sort data](#sort-data)
+  - [Filter data](#filter-data)
+  - [Combine and split categories](#combine-and-split-categories)
+  - [Code text](#code-text)
+  - [Calculate sums and means](#calculate-sums-and-means)
+  - [Calculate rates](#calculate-rates)
+  - [Calculate ratios](#calculate-ratios)
+  - [Adjust ratios in practice](#adjust-ratios-in-practice)
+  - [AI-assisted data preparation](#ai-assisted-data-preparation)
 - [**4. Explore Data**](#4-explore-data) (11 videos)
-  - Visual primacy: The importance of starting with pictures
-  - Bar charts
-  - Grouped bar charts
-  - Pie charts
-  - Dot plots
-  - Box plots
-  - Histograms
-  - Line charts
-  - Sparklines
-  - Scatterplots
-  - Data maps
+  - [Visual primacy: The importance of starting with pictures](#visual-primacy-the-importance-of-starting-with-pictures)
+  - [Bar charts](#bar-charts)
+  - [Grouped bar charts](#grouped-bar-charts)
+  - [Pie charts](#pie-charts)
+  - [Dot plots](#dot-plots)
+  - [Box plots](#box-plots)
+  - [Histograms](#histograms)
+  - [Line charts](#line-charts)
+  - [Sparklines](#sparklines)
+  - [Scatterplots](#scatterplots)
+  - [Data maps](#data-maps)
 - [**5. Describe Data**](#5-describe-data) (12 videos)
-  - Numerical descriptions
-  - Describe measures of center
-  - Describe variability with the range and IQR
-  - Describe variability with the variance and standard deviation
-  - Rescale data with z-scores
-  - Interpret z-scores
-  - Describe group differences with effect sizes
-  - Predict scores with regression
-  - Describe associations with correlations
-  - Effect size for correlation and regression
-  - Exploring tables
-  - AI-assisted data exploration and modeling
+  - [Numerical descriptions](#numerical-descriptions)
+  - [Describe measures of center](#describe-measures-of-center)
+  - [Describe variability with the range and IQR](#describe-variability-with-the-range-and-iqr)
+  - [Describe variability with the variance and standard deviation](#describe-variability-with-the-variance-and-standard-deviation)
+  - [Rescale data with z-scores](#rescale-data-with-z-scores)
+  - [Interpret z-scores](#interpret-z-scores)
+  - [Describe group differences with effect sizes](#describe-group-differences-with-effect-sizes)
+  - [Predict scores with regression](#predict-scores-with-regression)
+  - [Describe associations with correlations](#describe-associations-with-correlations)
+  - [Effect size for correlation and regression](#effect-size-for-correlation-and-regression)
+  - [Exploring tables](#exploring-tables)
+  - [AI-assisted data exploration and modeling](#ai-assisted-data-exploration-and-modeling)
 - [**6. Probability and Inference**](#6-probability-and-inference) (6 videos)
-  - Basic probability
-  - Conditional probability
-  - Expected values
-  - Sampling variation
-  - Inference as describing populations
-  - AI as an additional source of analytical variability
+  - [Basic probability](#basic-probability)
+  - [Conditional probability](#conditional-probability)
+  - [Expected values](#expected-values)
+  - [Sampling variation](#sampling-variation)
+  - [Inference as describing populations](#inference-as-describing-populations)
+  - [AI as an additional source of analytical variability](#ai-as-an-additional-source-of-analytical-variability)
 - [**7. Continuing Your Data Fluency Learning Quest**](#7-continuing-your-data-fluency-learning-quest) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make better decisions with your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980)
@@ -155,14 +155,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (6), [[E-Commerce]] (1), ai (1), next (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [barton] (1)
 
 
 ### 1. Think with Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The meaning of data fluency
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980)
@@ -313,9 +313,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), next (2), [[Marketing Analytics]] (1), [[Microsoft Word|Word]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is called (2), is an  (1), means that (1), is a  (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** cefr (3)
 > **Analogies:** for instance (3)
 > **Speakers:** - [instructor] (1)
@@ -381,8 +381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -528,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), if, (1), let (1), self (1), private (1)
+> **Frameworks & Libraries:** data (16), web (2), business (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (4)
 > **Prerequisites:** set up (2), you need to have (1)
@@ -647,8 +647,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (2), product (1), next (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** function (1), return, (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -756,7 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), for. (1), this, (1), throw (1)
+> **Frameworks & Libraries:** data (5), business (2), product (2), [[Probability]] (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -862,8 +862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), business (5), [[Programming]] (2), [[Deep Learning]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
-> **Code Keywords:** this, (2), this. (1), for, (1)
 > **Analogies:** for example (1), it's like (1)
 > **Env Vars:** spss (1)
 > **UI Navigation:** go to (1)
@@ -1079,8 +1079,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (4), [[Microsoft Office|Office]] (3), [[Decision-Making]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (15), find (1)
-> **Code Keywords:** this. (3), throw (2), case, (2), let (2), this, (2)
 > **Env Vars:** suv (5)
 > **Analogies:** for instance (3), picture (1)
 > **Versions:** 6.10 (1), 6.15 (1), 6.20 (1)
@@ -1209,7 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (5), data (2), [[Analytics]] (1)
 > **Env Vars:** roi (5)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), known as (1)
@@ -1379,7 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), this. (1)
+> **Frameworks & Libraries:** data (25), [[Engineering]] (3), database (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Analogies:** for instance (2)
@@ -1465,8 +1465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (3), [[Troubleshooting]] (2), [[Generative AI]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
-> **Code Keywords:** this. (1), match, (1), for, (1), case, (1), else, (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** ide (1)
 > **Tools:** jupyter (1)
@@ -1475,7 +1475,7 @@ created: 2026-04-29
 
 ### 2. Prepare Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980)
@@ -1592,7 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (2), this, (1), public (1), delete (1)
+> **Frameworks & Libraries:** data (36), business (3), [[Privacy]] (3), [[Ethics]] (1), [[Building Trust]] (1)
 > **Env Vars:** gdpr (4), ukgdpr (1), ccpa (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **Analogies:** for example (3), for instance (1)
@@ -1705,8 +1705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Metadata]] (2), [[Privacy]] (1), web (1), [[Analytics]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** case, (1), let (1), case. (1), finally, (1)
 > **Env Vars:** pii (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1831,11 +1831,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Search]] (5), business (2), [[Google]] (2), [[Forms]] (1)
 > **CLI Commands:** make (4), find (2), python (1)
 > **Analogies:** for instance (7)
 > **URLs:** [utah.gov](https://utah.gov) (3), [data.gov](https://data.gov) (1), [un.org](https://un.org) (1)
 > **UI Navigation:** go to (2), click on (2), scroll down (1)
-> **Code Keywords:** this, (2), private (1), let (1)
 > **Env Vars:** csv (2), sql (1)
 > **Exercise Files:** download the (2)
 > **Definitions:** is a  (2)
@@ -1997,8 +1997,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Privacy]] (3), express (1), [[Google]] (1), [[Forms]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** private (1), let (1), from, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Warnings:** caution (1)
@@ -2092,8 +2092,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Privacy]] (2), [[Google]] (2), [[Accountability]] (1), game (1)
 > **CLI Commands:** find (3), make (3)
-> **Code Keywords:** this, (2), raise (1), this: (1)
 > **Env Vars:** gdpr (3), ccpa (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for instance (1), picture (1)
@@ -2221,9 +2221,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), web (1), [[Metadata]] (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1), self (1)
 > **Env Vars:** gigo (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2388,8 +2388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (2)
 > **Analogies:** for instance (7), it's like (1), similar to (1)
-> **Code Keywords:** self (6), class, (1), let (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** go to (1)
@@ -2493,7 +2493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class. (1), function (1), self (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Definitions:** is a  (3), defined as (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for instance (1)
@@ -2594,15 +2594,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), prompt (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** case, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Adapt Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sort data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980)
@@ -2743,9 +2743,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Google]] (4), [[Microsoft Excel]] (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (3), class. (1)
 > **Analogies:** for instance (2)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
@@ -2831,7 +2831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), default. (1)
+> **Frameworks & Libraries:** data (9), [[Google]] (3), [[Microsoft Excel]] (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2988,10 +2988,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Search]] (3), [[Google]] (1), functional (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for instance (3), kind of like (1), for example (1), it's like (1)
 > **Best Practices:** general rule (1), rule of thumb (1)
-> **Code Keywords:** else. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3154,7 +3154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (2), for. (2), super (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (4), [[Programming]] (2), next (1), [[Linear Regression]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for instance (4)
 > **Definitions:** is a  (1)
@@ -3300,8 +3300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (1), abstract (1), for. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for instance (1), picture (1)
 > **Best Practices:** general rule (1)
@@ -3434,8 +3434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), game (1)
 > **CLI Commands:** make (6), find (2)
-> **Code Keywords:** let (2), this. (1), return, (1)
 > **Env Vars:** roi (4)
 > **Versions:** 7.7 (1), 7.8 (1), 7.76 (1)
 > **Definitions:** is a  (2)
@@ -3521,6 +3521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (1), [[Google]] (1), data (1)
 > **Ports:** :20 (4), :10 (4)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for instance (1), think of it as (1), similar to (1)
@@ -3528,7 +3529,6 @@ created: 2026-04-29
 > **Env Vars:** osf (2)
 > **Prerequisites:** you need to have (2)
 > **Cross-References:** we talked about (1)
-> **Speakers:** - [instructor] (1)
 
 #### Adjust ratios in practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/adjust-ratios-in-practice?u=76281980)
@@ -3611,10 +3611,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), data (2), [[Programming]] (1), [[Microsoft Excel|Excel]] (1), hit (1)
 > **CLI Commands:** find (5), make (3)
 > **Env Vars:** roi (2)
 > **Analogies:** for instance (2)
-> **Code Keywords:** else. (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3699,8 +3699,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), ai (9), [[Python (Programming Language)|Python]] (3), [[Generative AI]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (3), python (3)
-> **Code Keywords:** this. (1), interface (1)
 > **Env Vars:** gui (1), spss (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** go back to (1)
@@ -3709,7 +3709,7 @@ created: 2026-04-29
 
 ### 4. Explore Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visual primacy: The importance of starting with pictures
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980)
@@ -3868,7 +3868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), public (1)
+> **Frameworks & Libraries:** data (23), next (2), ai (2), [[Zoom]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** picture (2), imagine (1)
 > **CLI Commands:** find (1), make (1)
@@ -4028,7 +4028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), case, (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Products|Products]] (2), [[Google]] (2), [[Microsoft PowerPoint]] (2), [[E-Commerce]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Definitions:** is a  (4)
 > **File Paths:** d3.js (1), p5.js (1)
@@ -4168,8 +4168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[LinkedIn]] (2), product (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (4), this, (1), case, (1), case. (1)
 > **Analogies:** for example (3), for instance (2), similar to (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -4371,7 +4371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), require (1), throw (1), default. (1)
+> **Frameworks & Libraries:** data (9), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Calculus]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** general rule (2)
@@ -4496,7 +4496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this. (2), let (1)
+> **Frameworks & Libraries:** data (11), [[Customer Relations]] (1), management (1), product (1), [[Statistics]] (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -4655,7 +4655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), extends (2), finally, (1), throw (1)
+> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2.5 (1), 7.5 (1)
@@ -4761,8 +4761,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (1)
 > **Definitions:** is a  (7)
-> **Code Keywords:** let (2), for, (1), this. (1)
 > **Analogies:** for instance (1), think of it as (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
@@ -4975,7 +4975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (2), this, (1), this. (1), function (1)
+> **Frameworks & Libraries:** data (10), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), business (1), application (1)
 > **Analogies:** for instance (3), for example (1), picture (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Definitions:** is a  (3)
@@ -5107,7 +5107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** data (13), [[Google]] (3), next (2), [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (3)
 > **Env Vars:** rept (2)
@@ -5285,9 +5285,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Predictive Analytics]] (3), business (1), next (1), [[Linear Regression]] (1)
 > **Definitions:** is a  (5), means that (1), is called (1)
 > **Analogies:** for instance (4), for example (1), it's like (1), picture (1)
-> **Code Keywords:** let (2), else. (1), this. (1), case. (1), case, (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
@@ -5354,16 +5354,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Google]] (4), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for instance (2), picture (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Describe Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Numerical descriptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/numerical-descriptions?u=76281980)
@@ -5392,8 +5392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Describe measures of center
@@ -5591,7 +5591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (2), this. (1), function (1)
+> **Frameworks & Libraries:** data (14), [[Representational State Transfer (REST)|Rest]] (1), strengths (1), generic (1)
 > **CLI Commands:** find (3), make (1), dnf (1)
 > **Definitions:** is a  (3), means that (1)
 > **Versions:** 3.75 (2), 3.5 (1)
@@ -5698,10 +5698,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), next (1)
 > **CLI Commands:** find (7)
 > **Env Vars:** iqr (7)
 > **Versions:** 1.5 (2), 5.5 (2), 3.5 (1)
-> **Code Keywords:** let (2), switch (1), throw (1)
 > **Definitions:** stands for (2), in other words (1)
 > **UI Navigation:** switch to (1), go to (1)
 > **Cross-References:** go back to (1)
@@ -5788,7 +5788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), from, (1)
+> **Frameworks & Libraries:** data (12), [[Statistics]] (1)
 > **CLI Commands:** make (5)
 > **Versions:** 9.09 (1), 3.02 (1), 7.03 (1), 1.76 (1), 8.93 (1)
 > **Env Vars:** iqr (1), apa (1)
@@ -5868,6 +5868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **CLI Commands:** make (5), find (3)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for instance (3)
@@ -5991,7 +5992,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), abstract (2), for. (1), switch (1), this. (1)
 > **Analogies:** for instance (4)
 > **Versions:** 99.7 (2)
 > **CLI Commands:** make (1)
@@ -6093,11 +6093,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Statistics]] (3), product (1), next (1)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 1.25 (1), 5.5 (1), 4.6 (1), 0.57 (1), 0.2 (1)
 > **Definitions:** is a  (3), stands for (1), is called (1)
 > **Analogies:** for instance (3), similar to (1)
-> **Code Keywords:** let (2), this, (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6280,7 +6280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), case. (1)
+> **Frameworks & Libraries:** data (13), business (2), [[Predictive Analytics]] (1), [[Linear Regression]] (1), hit (1)
 > **Versions:** 1.75 (3), 60.7 (3), 200.7 (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for instance (3), it's like (1)
@@ -6392,8 +6392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), product (3), next (2), application (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 0.25 (3), 1.0 (2), 0.515 (1), 0.75 (1), 0.00 (1)
-> **Code Keywords:** let (3), this. (2), finally, (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3)
 > **Cross-References:** earlier in (1), in the next (1)
@@ -6482,8 +6482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), parallel (1), business (1)
 > **Versions:** 0.3 (2), 0.1 (2), 0.6 (1), 0.515 (1), 0.32 (1)
-> **Code Keywords:** let (3), this, (1), case, (1)
 > **Env Vars:** pve (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
@@ -6641,8 +6641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Google]] (2), [[Microsoft Excel]] (2), [[Pivot Tables]] (1), next (1)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** let (3), this, (1), finally, (1)
 > **Analogies:** for example (3), for instance (2)
 > **Versions:** 17.2 (1), 15.2 (1), 40.8 (1), 19.4 (1)
 > **UI Navigation:** scroll down (1)
@@ -6692,14 +6692,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), this. (1)
+> **Frameworks & Libraries:** ai (6), data (3), [[Algorithms]] (1), strengths (1)
 > **Warnings:** troubleshoot (1), be aware (1)
 > **Env Vars:** gui (1)
 
 
 ### 6. Probability and Inference
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980)
@@ -6864,7 +6864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), abstract (1), for. (1), this, (1)
+> **Frameworks & Libraries:** [[Probability]] (28), data (4), business (3), next (1), hit (1)
 > **CLI Commands:** find (2), make (2)
 > **Versions:** 37.5 (2), 0.25 (1), 0.375 (1)
 > **Code Identifiers:** na (2), ns (1)
@@ -6980,9 +6980,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (24), business (7), hit (1), data (1)
 > **Analogies:** for instance (3), picture (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), case, (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -7136,7 +7136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), finally, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Probability]] (10), business (3), data (3), [[Microsoft Products|Products]] (1), career (1)
 > **Versions:** 0.01 (3), 0.90 (3), 0.09 (2), 0.08 (2), 0.9 (1)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** earlier in (1)
@@ -7276,7 +7276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1), this, (1)
+> **Frameworks & Libraries:** data (2), business (2), next (2), product (2), [[Forms]] (1)
 > **Versions:** 62.5 (2), 54.2 (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Definitions:** is a  (2)
@@ -7359,7 +7359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (2), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Statistics]] (2), [[Probability]] (2), web (1), next (1)
 > **CLI Commands:** make (4)
 > **Analogies:** picture (2), for instance (1)
 > **Env Vars:** anova (1)
@@ -7460,9 +7460,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (8), application (2), [[Decision Trees]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Analogies:** for instance (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -7472,7 +7472,7 @@ created: 2026-04-29
 
 ### 7. Continuing Your Data Fluency Learning Quest
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980)
@@ -7537,7 +7537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), throw (1)
+> **Frameworks & Libraries:** data (12), [[Analytics]] (2), [[Microsoft Excel]] (1), [[Google]] (1), [[Tableau]] (1)
 > **CLI Commands:** find (1), python (1), make (1)
 > **Env Vars:** spss (1), sas (1), roi (1)
 > **UI Navigation:** go to (3)

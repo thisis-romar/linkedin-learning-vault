@@ -33,7 +33,7 @@ tags:
   - skill/data-engineering
   - skill/snowflake
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20to%20Modern%20Data%20Engineering%20with%20Snowflake.md)
@@ -52,49 +52,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The explosion of data and the demand for insights
-  - What we’ll cover in this course
+  - [The explosion of data and the demand for insights](#the-explosion-of-data-and-the-demand-for-insights)
+  - [What we’ll cover in this course](#what-well-cover-in-this-course)
 - [**1. Modern Data Engineering with Snowflake**](#1-modern-data-engineering-with-snowflake) (4 videos)
-  - Modern data engineering with snowflake
-  - You’ve probably done some data engineering in the past
-  - Preparing your development environment
-  - Build a really simple data pipeline in snowflake
+  - [Modern data engineering with snowflake](#modern-data-engineering-with-snowflake)
+  - [You’ve probably done some data engineering in the past](#youve-probably-done-some-data-engineering-in-the-past)
+  - [Preparing your development environment](#preparing-your-development-environment)
+  - [Build a really simple data pipeline in snowflake](#build-a-really-simple-data-pipeline-in-snowflake)
 - [**2. Batch Data Ingestion with Snowflake**](#2-batch-data-ingestion-with-snowflake) (9 videos)
-  - What is data ingestion?
-  - Batch ingestion with snowflake
-  - Loading data from snowflake marketplace
-  - Loading data using snowflake’s web interface
-  - Optimize compute resources for efficient batch ingestion
-  - Loading data using snowflake CLI
-  - Loading data using the COPY INTO command
-  - Ingesting data from other data systems using connectors
-  - Recap and best practices for batch ingestion
+  - [What is data ingestion?](#what-is-data-ingestion)
+  - [Batch ingestion with snowflake](#batch-ingestion-with-snowflake)
+  - [Loading data from snowflake marketplace](#loading-data-from-snowflake-marketplace)
+  - [Loading data using snowflake’s web interface](#loading-data-using-snowflakes-web-interface)
+  - [Optimize compute resources for efficient batch ingestion](#optimize-compute-resources-for-efficient-batch-ingestion)
+  - [Loading data using snowflake CLI](#loading-data-using-snowflake-cli)
+  - [Loading data using the COPY INTO command](#loading-data-using-the-copy-into-command)
+  - [Ingesting data from other data systems using connectors](#ingesting-data-from-other-data-systems-using-connectors)
+  - [Recap and best practices for batch ingestion](#recap-and-best-practices-for-batch-ingestion)
 - [**3. Data Transformations with Snowflake**](#3-data-transformations-with-snowflake) (9 videos)
-  - What are data transformations?
-  - Data transformations with SQL
-  - Data transformations with snowpark
-  - Computations with user-defined functions
-  - Efficient transformations with streams
-  - Complex procedural logic with stored procedures
-  - Automatic transformations with dynamic tables
-  - Data transformations in visual studio code (optional)
-  - Recap and best practices for data transformations
+  - [What are data transformations?](#what-are-data-transformations)
+  - [Data transformations with SQL](#data-transformations-with-sql)
+  - [Data transformations with snowpark](#data-transformations-with-snowpark)
+  - [Computations with user-defined functions](#computations-with-user-defined-functions)
+  - [Efficient transformations with streams](#efficient-transformations-with-streams)
+  - [Complex procedural logic with stored procedures](#complex-procedural-logic-with-stored-procedures)
+  - [Automatic transformations with dynamic tables](#automatic-transformations-with-dynamic-tables)
+  - [Data transformations in visual studio code (optional)](#data-transformations-in-visual-studio-code-optional)
+  - [Recap and best practices for data transformations](#recap-and-best-practices-for-data-transformations)
 - [**4. Delivering data products with Snowflake**](#4-delivering-data-products-with-snowflake) (5 videos)
-  - Delivery of data products
-  - Data sharing on snowflake marketplace
-  - Streamlit in snowflake applications
-  - Snowflake native applications
-  - Recap and best practices for data product delivery
+  - [Delivery of data products](#delivery-of-data-products)
+  - [Data sharing on snowflake marketplace](#data-sharing-on-snowflake-marketplace)
+  - [Streamlit in snowflake applications](#streamlit-in-snowflake-applications)
+  - [Snowflake native applications](#snowflake-native-applications)
+  - [Recap and best practices for data product delivery](#recap-and-best-practices-for-data-product-delivery)
 - [**5. Orchestrating Continuous Data Pipelines with Snowflake**](#5-orchestrating-continuous-data-pipelines-with-snowflake) (5 videos)
-  - What is orchestration?
-  - Automation with tasks
-  - Orchestration with DAGs
-  - Recap and best practices for pipeline orchestration
-  - Conclusion
+  - [What is orchestration?](#what-is-orchestration)
+  - [Automation with tasks](#automation-with-tasks)
+  - [Orchestration with DAGs](#orchestration-with-dags)
+  - [Recap and best practices for pipeline orchestration](#recap-and-best-practices-for-pipeline-orchestration)
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The explosion of data and the demand for insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** data (18), [[Snowflake]] (4), [[Data Engineering]] (2), [[Microsoft Word|Word]] (1), [[Application Development]] (1)
 
 #### What we’ll cover in this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980)
@@ -206,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), data (7), [[Data Engineering]] (5), [[SQL]] (3), [[GitHub]] (1)
 > **Env Vars:** sql (3)
 > **Tools:** command line (1), github (1)
 > **CLI Commands:** python (1)
@@ -216,7 +216,7 @@ created: 2026-04-29
 
 ### 1. Modern Data Engineering with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern data engineering with snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980)
@@ -293,7 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (3), case, (1)
+> **Frameworks & Libraries:** data (29), [[Data Engineering]] (11), [[Snowflake]] (8), cloud (2), application (2)
 > **Definitions:** refers to (3), known as (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** itd (1), sql (1)
@@ -358,8 +358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Data Engineering]] (2), product (2), [[Snowflake]] (2), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (3), imagine (1)
-> **Code Keywords:** case, (1), let (1)
 > **Env Vars:** csv (1)
 > **Prerequisites:** set up (1)
 
@@ -462,9 +462,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (15), [[GitHub]] (7), [[CLI]] (6), next (3), [[Search]] (2)
 > **Tools:** vs code (9), terminal (7), github (7), visual studio (3), command line (2)
 > **Prerequisites:** install (7), you'll need (5), set up (1)
-> **Code Keywords:** let (5), interface (2), finally, (2), this, (1), pass (1)
 > **CLI Commands:** pip (3), find (2), python (2), git (1)
 > **Env Vars:** cli (5), url (1)
 > **UI Navigation:** click on (2), navigate to (1)
@@ -686,9 +686,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), [[Snowflake]] (17), [[SQL]] (11), next (5), [[Data Engineering]] (2)
 > **Env Vars:** sql (10), cpi (7), wages_cpi (2), data (2), annual_wages_cpi_usa (2)
 > **UI Navigation:** click on (12), navigate to (3), open the (1), dropdown (1)
-> **Code Keywords:** let (8), module (3), new. (1), interface (1), super (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **File Paths:** transformations.sql (1), streamlit.py (1)
 > **Cross-References:** next video (1), in the next (1)
@@ -698,7 +698,7 @@ created: 2026-04-29
 
 ### 2. Batch Data Ingestion with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data ingestion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980)
@@ -767,7 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), case, (2), let (1)
+> **Frameworks & Libraries:** data (31), [[Snowflake]] (9), [[Data Engineering]] (2), [[Real-Time]] (2), cloud (1)
 > **Env Vars:** itd (1), csv (1), json (1), pdf (1)
 > **Definitions:** refers to (2)
 > **Analogies:** for example (2)
@@ -837,7 +837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), finally, (2), require (1), module (1), let (1)
+> **Frameworks & Libraries:** data (28), [[Snowflake]] (22), [[Real-Time]] (3), cloud (2), web (2)
 > **Env Vars:** sql (2), csv (1), json (1), aws (1), cli (1)
 > **Definitions:** refers to (2), known as (1)
 > **Analogies:** for example (3)
@@ -982,7 +982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), module (2), interface (2), case. (1), this, (1)
+> **Frameworks & Libraries:** data (31), [[Snowflake]] (15), [[SQL]] (6), next (3), power (2)
 > **Env Vars:** sql (5), frostbyte_weathersource (2), onpoint_id (2), llc (1)
 > **UI Navigation:** click on (3), dropdown (1), navigate to (1), open the (1)
 > **CLI Commands:** find (3), make (2)
@@ -1158,7 +1158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (5), interface (4), finally, (2), public (1)
+> **Frameworks & Libraries:** data (37), [[Snowflake]] (21), [[SQL]] (7), database (5), web (4)
 > **Env Vars:** sql (7), csv (3), json (1), xml (1), load_data (1)
 > **UI Navigation:** select the (4), click on (3), navigate to (2)
 > **CLI Commands:** make (2), find (1)
@@ -1296,8 +1296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), node (10), [[Snowflake]] (6), parallel (6), cloud (2)
 > **CLI Commands:** node (10)
-> **Code Keywords:** let (3), abstract (1), case, (1), this. (1), interface (1)
 > **Definitions:** is a  (5), known as (1)
 > **Analogies:** for example (3)
 > **Env Vars:** cpu (1), sql (1)
@@ -1464,8 +1464,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (39), data (19), [[CLI]] (17), [[SQL]] (8), next (6)
 > **Env Vars:** cli (17), sql (4), csv (3), load_data (2), compute_wh (1)
-> **Code Keywords:** let (12), module (4), this. (4), interface (3), public (1)
 > **Code Identifiers:** snowflake_cli_stage (5), load_from_cli_stage (4), modern_data_engineering_snowflake (2), default_connection_name (1), sample_orders (1)
 > **File Paths:** load_from_cli_stage.sql (4), config.toml (2), snowflake/config.toml (1), sample_orders.csv (1)
 > **UI Navigation:** navigate to (5), open the (2), click on (1)
@@ -1616,8 +1616,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), [[Snowflake]] (13), [[SQL]] (7), cloud (4), aws (3)
 > **Env Vars:** copy (10), into (10), sql (5), aws (3), csv (3)
-> **Code Keywords:** let (7), public (5), interface (3), module (3), finally, (2)
 > **Code Identifiers:** load_data (5), blob_stage (4), sample_menu_copy_into (3), raw_pos (3), sample_menu (2)
 > **CLI Commands:** aws (3), make (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1676,9 +1676,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Snowflake]] (11), [[Databases]] (2), cloud (1), database (1)
 > **UI Navigation:** navigate to (2), click on (2), in the sidebar (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2), case. (1)
 > **Prerequisites:** install (1), configure (1), set up (1)
 > **Env Vars:** api (1)
 > **Cross-References:** coming up (1)
@@ -1742,7 +1742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (2), interface (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[Snowflake]] (13), data (11), cloud (2), web (2), next (2)
 > **Env Vars:** cli (1), copy (1), into (1)
 > **Cross-References:** we covered (1), earlier in (1), in the next (1)
 > **CLI Commands:** make (1)
@@ -1752,7 +1752,7 @@ created: 2026-04-29
 
 ### 3. Data Transformations with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are data transformations?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980)
@@ -1797,7 +1797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (2), for. (1), finally, (1)
+> **Frameworks & Libraries:** data (14), [[Snowflake]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
@@ -1945,8 +1945,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (21), data (14), [[Snowflake]] (7), next (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (20), ansi (1)
-> **Code Keywords:** let (10), this. (4), module (2), finally, (1), case. (1)
 > **UI Navigation:** click on (2), open the (1)
 > **CLI Commands:** make (1), python (1)
 > **Code Identifiers:** hamburg_sales (1), daily_weather_v (1)
@@ -2090,7 +2090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), pass (2), finally, (1), import . (1)
+> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (13), [[Snowflake]] (8), api (7), [[SQL]] (4)
 > **Env Vars:** api (7), sql (4), tasty_bytes (1), harmonized (1), compute_wh (1)
 > **CLI Commands:** python (13)
 > **Code Identifiers:** sorted_weather (3), hamburg_sales_snowpark (2), get_active_session (1), daily_weather_v (1), filtered_weather (1)
@@ -2226,8 +2226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (16), data (10), [[Snowflake]] (3), [[Python (Programming Language)|Python]] (2), next (2)
 > **Env Vars:** sql (15), udf (8), create (1), replace (1), view (1)
-> **Code Keywords:** let (11), function (9), for. (1)
 > **CLI Commands:** python (2), make (2), find (1)
 > **Analogies:** for example (3), imagine (1)
 > **Code Identifiers:** hamburg_sales_expanded (1), harmonized_weather_hamburg (1)
@@ -2378,8 +2378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (5), [[Metadata]] (5), [[Snowflake]] (3), next (2)
 > **Env Vars:** metadata (5), sql (4), order_header (3), insert (3), action (2)
-> **Code Keywords:** let (9), if, (1), this. (1), module (1)
 > **Code Identifiers:** order_header_stream (3), daily_city_metrics_v (1), tasty_bytes (1), raw_pos (1), order_header (1)
 > **Analogies:** for example (5), imagine (2)
 > **Cross-References:** later in (1), in the next (1), coming up (1)
@@ -2518,7 +2518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), module (3), finally, (2), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[SQL]] (7), [[Snowflake]] (3), data (3), next (2)
 > **Env Vars:** sql (6), udf (2), call (2), order_header (2), insert (2)
 > **CLI Commands:** python (8), make (2)
 > **Analogies:** for example (2), just like (1), imagine (1)
@@ -2706,7 +2706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), delete (2), module (2), finally, (2), case. (2)
+> **Frameworks & Libraries:** data (13), [[SQL]] (5), next (3), [[Automation]] (2), [[Snowflake]] (2)
 > **Env Vars:** sql (4), insert (3), into (3), order_header (1), create (1)
 > **SQL:** insert into (3)
 > **Cross-References:** we covered (1), previous video (1), in the next (1)
@@ -2822,11 +2822,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[SQL]] (7), [[Python (Programming Language)|Python]] (1), [[CLI]] (1), prompt (1)
 > **Env Vars:** sql (6), url (3), cli (1)
 > **Tools:** vs code (8), visual studio (2)
 > **UI Navigation:** click on (4), navigate to (1), open the (1)
 > **CLI Commands:** python (1), find (1)
-> **Code Keywords:** module (1), let (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** kind of like (1), just like (1)
 > **File Paths:** hamburg_sales_vs_code.sql (1)
@@ -2862,8 +2862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Snowflake]] (4), [[SQL]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** module (2), let (1)
 > **Cross-References:** we covered (2), in the next (1)
 > **Env Vars:** sql (1)
 > **Tools:** vs code (1)
@@ -2872,7 +2872,7 @@ created: 2026-04-29
 
 ### 4. Delivering data products with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Delivery of data products
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980)
@@ -2935,7 +2935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (2), case, (2), continue (1)
+> **Frameworks & Libraries:** data (25), [[Snowflake]] (4), product (3), teams (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** important note (1)
@@ -3029,7 +3029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), public (2), let (1), require (1), case, (1)
+> **Frameworks & Libraries:** data (8), [[Snowflake]] (8), product (2), cloud (2), next (2)
 > **UI Navigation:** click on (2), navigate to (1), select the (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1), for example (1)
@@ -3142,8 +3142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (14), data (11), [[Python (Programming Language)|Python]] (7), application (7), open-source (2)
 > **CLI Commands:** python (7), make (2)
-> **Code Keywords:** let (5), module (1), super (1)
 > **UI Navigation:** click on (3), navigate to (2), select the (1)
 > **Env Vars:** html (1), css (1), tasty_bytes (1), harmonized (1), compute_wh (1)
 > **Code Identifiers:** streamlit_whether_hamburg (1), get_active_session (1), weather_hamburg (1)
@@ -3256,7 +3256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), extends (1), public (1), private (1), module (1)
+> **Frameworks & Libraries:** [[Snowflake]] (37), application (31), data (7), [[SQL]] (2), power (2)
 > **Prerequisites:** setup (3), install (2)
 > **Code Identifiers:** hamburg_weather_native_app (3), setup_script (1)
 > **Env Vars:** cli (2), sql (1), weather_hamburg_tea_table (1)
@@ -3292,14 +3292,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (1), case. (1)
+> **Frameworks & Libraries:** data (14), [[Snowflake]] (7), cloud (3), product (2), [[Microsoft Products|Products]] (2)
 > **Cross-References:** we covered (1), in the next (1)
 > **Analogies:** for example (1)
 
 
 ### 5. Orchestrating Continuous Data Pipelines with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is orchestration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980)
@@ -3392,7 +3392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), for, (1), let (1)
+> **Frameworks & Libraries:** data (20), [[Automation]] (15), [[Snowflake]] (4), power (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** itd (1), sql (1), copy (1), into (1)
 > **CLI Commands:** python (1), make (1), find (1)
 > **Analogies:** for example (2)
@@ -3559,8 +3559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (10), data (10), [[SQL]] (7), next (4), [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** sql (6), cron (6), order_header (3), copy (1), into (1)
-> **Code Keywords:** let (9), finally, (2), case, (2), pass (1), module (1)
 > **CLI Commands:** python (4)
 > **Code Identifiers:** process_orders_header_sproc (2), orders_headers_task (1), raw_pos (1)
 > **Definitions:** is a  (4)
@@ -3723,8 +3723,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), [[Snowflake]] (5), data (4), [[Python (Programming Language)|Python]] (4), [[Automation]] (1)
 > **Env Vars:** dag (10), sql (5), send_last_seven_days_report (2), after (2), task (2)
-> **Code Keywords:** let (9), module (3), this, (1), function (1), finally, (1)
 > **Code Identifiers:** process_orders_header_sproc (2), orders_header_sproc (1), dag_email_integration (1), process_orderes_header_sproc (1), process_order (1)
 > **CLI Commands:** python (4), make (2)
 > **UI Navigation:** navigate to (2), click on (2)
@@ -3757,7 +3757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), let (1)
+> **Frameworks & Libraries:** [[Automation]] (2), data (1), [[Snowflake]] (1), [[SQL]] (1), next (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Env Vars:** sql (1)
 > **Definitions:** known as (1)
@@ -3821,7 +3821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), this, (1)
+> **Frameworks & Libraries:** [[Snowflake]] (12), data (11), [[Data Engineering]] (2), [[SQL]] (2), web (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** sql (2), itd (1)
 > **Cross-References:** we covered (2)

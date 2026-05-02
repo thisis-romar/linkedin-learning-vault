@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Storage%20Essential%20Training%20(2021).md)
@@ -48,50 +48,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to Azure Storage
-  - Azure Storage services
+  - [Introduction to Azure Storage](#introduction-to-azure-storage)
+  - [Azure Storage services](#azure-storage-services)
 - [**1. Develop Solutions for Azure Blob Storage**](#1-develop-solutions-for-azure-blob-storage) (6 videos)
-  - Azure Storage accounts and replication
-  - Binary large object storage (Blob)
-  - Blob containers
-  - Blob access tiers
-  - Blob lifecycle management
-  - Managing blobs
+  - [Azure Storage accounts and replication](#azure-storage-accounts-and-replication)
+  - [Binary large object storage (Blob)](#binary-large-object-storage-blob)
+  - [Blob containers](#blob-containers)
+  - [Blob access tiers](#blob-access-tiers)
+  - [Blob lifecycle management](#blob-lifecycle-management)
+  - [Managing blobs](#managing-blobs)
 - [**2. Develop Solutions for Azure Files**](#2-develop-solutions-for-azure-files) (7 videos)
-  - Azure Files
-  - Azure Files vs. Azure Blobs
-  - Managing file shares
-  - File share snapshots
-  - Replacing on-premises server with Azure Files
-  - Azure File Sync
-  - Implementing Azure File Sync
+  - [Azure Files](#azure-files)
+  - [Azure Files vs. Azure Blobs](#azure-files-vs-azure-blobs)
+  - [Managing file shares](#managing-file-shares)
+  - [File share snapshots](#file-share-snapshots)
+  - [Replacing on-premises server with Azure Files](#replacing-on-premises-server-with-azure-files)
+  - [Azure File Sync](#azure-file-sync)
+  - [Implementing Azure File Sync](#implementing-azure-file-sync)
 - [**3. Develop Solutions for Azure Queues**](#3-develop-solutions-for-azure-queues) (3 videos)
-  - Azure Storage queues
-  - Managing queues
-  - Developing with queues
+  - [Azure Storage queues](#azure-storage-queues)
+  - [Managing queues](#managing-queues)
+  - [Developing with queues](#developing-with-queues)
 - [**4. Secure Azure Storage**](#4-secure-azure-storage) (6 videos)
-  - Securing storage data
-  - Storage security and authorization
-  - Shared access signatures
-  - Storage Service Encryption
-  - Blob storage access policies
-  - Storage security best practices
+  - [Securing storage data](#securing-storage-data)
+  - [Storage security and authorization](#storage-security-and-authorization)
+  - [Shared access signatures](#shared-access-signatures)
+  - [Storage Service Encryption](#storage-service-encryption)
+  - [Blob storage access policies](#blob-storage-access-policies)
+  - [Storage security best practices](#storage-security-best-practices)
 - [**5. Manage Azure Storage**](#5-manage-azure-storage) (4 videos)
-  - Azure Storage Explorer
-  - Import/Export service
-  - AzCopy
-  - Using Azure storage SDK
+  - [Azure Storage Explorer](#azure-storage-explorer)
+  - [Import/Export service](#importexport-service)
+  - [AzCopy](#azcopy)
+  - [Using Azure storage SDK](#using-azure-storage-sdk)
 - [**6. Backup Azure Storage**](#6-backup-azure-storage) (4 videos)
-  - Protecting Azure file shares
-  - Backing up Azure file shares
-  - Protecting Azure Blob storage
-  - Backing up and replication for Azure Blob storage
+  - [Protecting Azure file shares](#protecting-azure-file-shares)
+  - [Backing up Azure file shares](#backing-up-azure-file-shares)
+  - [Protecting Azure Blob storage](#protecting-azure-blob-storage)
+  - [Backing up and replication for Azure Blob storage](#backing-up-and-replication-for-azure-blob-storage)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning never stops
+  - [Learning never stops](#learning-never-stops)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Azure Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (4), cloud (3), data (3), [[SQL]] (1)
 > **Env Vars:** sql (1), mvp (1), mct (1), ccsp (1)
 > **Speakers:** - [charbel] (1)
 
@@ -186,6 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), data (10), application (5), cloud (3), [[Virtual Machines]] (2)
 > **Env Vars:** net (2), hdd (1), ssd (1), http (1), https (1)
 > **CLI Commands:** node (2), python (1), php (1), ruby (1), find (1)
 > **File Paths:** node.js (2)
@@ -193,12 +195,11 @@ created: 2026-04-29
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 1. Develop Solutions for Azure Blob Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Storage accounts and replication
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980)
@@ -305,8 +306,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Microsoft Azure|Azure]] (7), [[Microsoft]] (4), application (2), [[Hardware]] (1)
 > **Env Vars:** grs (11), zrs (4), url (2), lrs (2), sla (1)
-> **Code Keywords:** protected (1), let (1), from. (1), type. (1)
 > **Best Practices:** recommended (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -343,6 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), data (3), [[Unstructured Data]] (1), cloud (1), application (1)
 > **Analogies:** such as (2), think of it as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -407,7 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), let (2), public (2), default, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[LinkedIn]] (4), [[Powershell]] (3), data (2), cloud (1)
 > **Tools:** azure portal (3), powershell (3)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Analogies:** for example (2)
@@ -491,8 +493,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Microsoft Azure|Azure]] (7), [[Search]] (2), database (1)
 > **UI Navigation:** select the (2), switch to (1), navigate to (1), click on (1), dropdown (1)
-> **Code Keywords:** switch (2), default. (1), let (1), finally, (1)
 > **Env Vars:** grs (3), lrs (1)
 > **Tools:** azure portal (3)
 > **Definitions:** is a  (1)
@@ -583,8 +585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Microsoft Azure|Azure]] (5), management (5), next (2), cloud (1)
 > **Tools:** azure portal (3), powershell (1)
-> **Code Keywords:** delete (1), let (1), finally, (1)
 > **Env Vars:** arm (1)
 > **UI Navigation:** select the (1)
 > **Warnings:** note that (1)
@@ -695,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), type. (2), let (2), default, (1), switch (1)
+> **Frameworks & Libraries:** data (20), [[Microsoft Azure|Azure]] (14), [[Microsoft]] (3), [[Microsoft Entra ID|Azure ad]] (2), [[Linux]] (2)
 > **UI Navigation:** select the (4), navigate to (2), open the (1), right-click (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** azure portal (3)
@@ -707,7 +709,7 @@ created: 2026-04-29
 
 ### 2. Develop Solutions for Azure Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Files
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980)
@@ -754,9 +756,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), data (6), cloud (5), application (5), [[Virtual Machines]] (4)
 > **Env Vars:** smb (3), nfs (3), rest (1), api (1), nas (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** interface (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -799,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), application (3), [[Representational State Transfer (REST)|Rest]] (2), data (2), [[Virtual Machines]] (2)
 > **Env Vars:** rest (2), smb (1), nfs (1)
 > **Speakers:** - [instructor] (1)
 
@@ -922,9 +924,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Windows]] (5), [[Linux]] (3), [[Powershell]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** macos (3), storageaccountname (3), resourcegroupname (2), storageaccountkeys (2), filesharename (1)
 > **Env Vars:** smb (3), tcp (2), isp (1), cifs (1), nfs (1)
-> **Code Keywords:** let (4), finally, (2), default, (1), delete (1), switch (1)
 > **Tools:** powershell (3), azure portal (2), terminal (1)
 > **Ports:** port 445 (3)
 > **Analogies:** for example (1), such as (1)
@@ -1006,7 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), override (1), let (1)
+> **Frameworks & Libraries:** data (5), application (4), [[Microsoft Azure|Azure]] (3), hit (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (2)
 > **Analogies:** such as (1), imagine (1)
@@ -1129,7 +1131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (8), finally, (3), case, (3), module (2), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Active Directory]] (5), [[Microsoft Entra ID|Azure ad]] (3), next (3), dns (3)
 > **Env Vars:** smb (3), dns (3), acl (2), aes256 (1), iam (1)
 > **Analogies:** just like (4), similar to (1), for example (1)
 > **CLI Commands:** az (3), unzip (1)
@@ -1227,10 +1229,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (30), data (7), cloud (6), [[Windows Server]] (3), [[Windows]] (1)
 > **Definitions:** is a  (4), is an  (2), is called (1)
 > **Env Vars:** smb (1), nfs (1), url (1), etl (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** require (1), let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor (1)
 
@@ -1321,10 +1323,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Windows Server]] (4), next (3), cloud (2), [[Security]] (1)
 > **Prerequisites:** install (3), set up (2), configure (1)
 > **UI Navigation:** select the (3), click on (1)
 > **Tools:** azure portal (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** ws2016 (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -1333,7 +1335,7 @@ created: 2026-04-29
 
 ### 3. Develop Solutions for Azure Queues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Storage queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980)
@@ -1412,7 +1414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1), case, (1)
+> **Frameworks & Libraries:** web (12), web application (5), [[Microsoft Azure|Azure]] (4), data (2), [[Microsoft]] (1)
 > **Env Vars:** http (1), https (1)
 > **Code Identifiers:** ebay (1)
 > **Speakers:** - [presenter] (1)
@@ -1498,7 +1500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), delete (3), module (2), class. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), next (4), [[Powershell]] (2), cloud (2), [[Microsoft Azure]] (2)
 > **Code Identifiers:** resourcegroupname (1), storageacc (1), addmessage (1), queuemessage (1), invisibletimeout (1)
 > **Tools:** azure portal (4), powershell (2)
 > **Env Vars:** http (1), https (1), utf (1), net (1)
@@ -1686,7 +1688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (6), switch (3), finally, (3), new, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), hit (6), application (3), next (2), [[Microsoft]] (2)
 > **Tools:** azure portal (5), visual studio (2)
 > **Prerequisites:** install (4), configure (1)
 > **CLI Commands:** find (2), ruby (1), python (1)
@@ -1698,7 +1700,7 @@ created: 2026-04-29
 
 ### 4. Secure Azure Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing storage data
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980)
@@ -1773,8 +1775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (9), application (3), [[Security]] (2), power (2)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), case, (1)
 > **Analogies:** such as (2)
 > **Speakers:** - storage (1)
 
@@ -1837,8 +1839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), data (6), [[Security]] (5), [[Microsoft Entra ID|Azure active directory]] (4), management (3)
 > **Env Vars:** rbac (2), uri (2), https (1), smb3 (1), smb (1)
-> **Code Keywords:** let (2), public (2), default, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1956,8 +1958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (3), [[Microsoft Entra ID|Azure ad]] (3), data (2), [[Security]] (2)
 > **Env Vars:** sas (16), url (4), https (2), uri (1), rbac (1)
-> **Code Keywords:** let (2), delete (1), public (1), type. (1)
 > **Analogies:** for example (4), such as (1)
 > **Tools:** azure portal (2), powershell (1)
 > **Definitions:** is a  (3)
@@ -2038,7 +2040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), data (12), [[Microsoft]] (4), [[Security]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** rsa (1), fips (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** known as (1)
@@ -2171,10 +2173,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Microsoft Azure|Azure]] (8), cloud (5), feature (2), [[Data Classification]] (1)
 > **Env Vars:** worm (2), cli (1)
 > **Tools:** azure portal (2), powershell (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1), require (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
@@ -2271,9 +2273,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), data (6), [[Security]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Azure ad]] (2)
 > **Env Vars:** sas (18), https (1), http (1)
 > **Warnings:** be aware (2), be careful (1), keep in mind (1)
-> **Code Keywords:** delete (1), public (1)
 > **Definitions:** known as (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -2281,7 +2283,7 @@ created: 2026-04-29
 
 ### 5. Manage Azure Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Storage Explorer
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980)
@@ -2352,9 +2354,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (30), next (7), data (5), application (2), management (2)
 > **Env Vars:** sas (5)
 > **CLI Commands:** find (1), make (1), node (1)
-> **Code Keywords:** let (1), delete (1), finally, (1)
 > **Tools:** azure portal (3)
 > **UI Navigation:** select the (2), click on (1)
 > **Code Identifiers:** macos (1)
@@ -2424,7 +2426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), export. (1), export, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (30), data (22), [[Storage Management]] (1), [[Microsoft]] (1)
 > **Tools:** azure portal (3)
 > **Prerequisites:** install (1), you'll need (1)
 > **Analogies:** for example (1)
@@ -2529,7 +2531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), let (2), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), data (8), [[Windows]] (3), prompt (3), next (2)
 > **Tools:** command prompt (3), command line (2), github (1), windows terminal (1), azure portal (1)
 > **Env Vars:** url (4), sas (2)
 > **CLI Commands:** make (2), find (1)
@@ -2653,8 +2655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), application (4), next (3), [[Search]] (2), [[Microsoft Azure]] (2)
 > **UI Navigation:** click on (5), navigate to (2), open the (2), go to (2), select the (1)
-> **Code Keywords:** async (5), let (2), for . (1), switch (1), finally, (1)
 > **Env Vars:** net (3), sdk (2), php (1)
 > **Tools:** visual studio (3), azure portal (2)
 > **CLI Commands:** find (1), ruby (1), php (1)
@@ -2665,7 +2667,7 @@ created: 2026-04-29
 
 ### 6. Backup Azure Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting Azure file shares
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980)
@@ -2754,7 +2756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), protected (2), require (1), default. (1), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (24), data (17), cloud (4), [[Microsoft Defender|Defender]] (3), [[Security]] (3)
 > **Env Vars:** lrs (2), grs (2)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
@@ -2846,7 +2848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), next (1), [[Search]] (1)
 > **Tools:** azure portal (3)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** dropdown (1), select the (1)
@@ -2928,7 +2930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (5), management (2), [[Microsoft]] (1), [[Analytics]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Env Vars:** url (1), worm (1)
 > **Prerequisites:** configure (2)
@@ -3063,7 +3065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), let (1), delete (1), type. (1), protected (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), next (8), data (7), application (2), [[Search]] (1)
 > **Prerequisites:** configure (6), set up (1)
 > **UI Navigation:** select the (3), navigate to (2)
 > **Tools:** azure portal (4)
@@ -3075,7 +3077,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning never stops
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980)
@@ -3106,7 +3108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[LinkedIn]] (1), cloud (1), [[Security]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [charbel] (1)
 

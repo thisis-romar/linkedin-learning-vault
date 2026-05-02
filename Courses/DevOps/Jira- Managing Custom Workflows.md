@@ -31,7 +31,7 @@ tags:
   - skill/workflow-management
   - skill/jira
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira-%20Managing%20Custom%20Workflows.md)
@@ -50,48 +50,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Custom workflows in Jira
-  - Who is this course for?
-  - What do you need for this course?
+  - [Custom workflows in Jira](#custom-workflows-in-jira)
+  - [Who is this course for?](#who-is-this-course-for)
+  - [What do you need for this course?](#what-do-you-need-for-this-course)
 - [**1. Using Custom Workflows**](#1-using-custom-workflows) (6 videos)
-  - Important terms and definitions
-  - Important workflow concepts
-  - Types of workflows
-  - Workflow relationships
-  - Challenge: Configure a workflow relationship
-  - Solution: Configure a workflow relationship
+  - [Important terms and definitions](#important-terms-and-definitions)
+  - [Important workflow concepts](#important-workflow-concepts)
+  - [Types of workflows](#types-of-workflows)
+  - [Workflow relationships](#workflow-relationships)
+  - [Challenge: Configure a workflow relationship](#challenge-configure-a-workflow-relationship)
+  - [Solution: Configure a workflow relationship](#solution-configure-a-workflow-relationship)
 - [**2. Planning Custom Workflows**](#2-planning-custom-workflows) (7 videos)
-  - Using a phased approach
-  - Conducting a workflow interview
-  - Determining statuses
-  - Adding transitions
-  - Designing a custom workflow
-  - Challenge: Workflow interview and design
-  - Solution: Workflow interview and design
+  - [Using a phased approach](#using-a-phased-approach)
+  - [Conducting a workflow interview](#conducting-a-workflow-interview)
+  - [Determining statuses](#determining-statuses)
+  - [Adding transitions](#adding-transitions)
+  - [Designing a custom workflow](#designing-a-custom-workflow)
+  - [Challenge: Workflow interview and design](#challenge-workflow-interview-and-design)
+  - [Solution: Workflow interview and design](#solution-workflow-interview-and-design)
 - [**3. Building Custom Workflows**](#3-building-custom-workflows) (5 videos)
-  - Translating requirements
-  - Creating new workflows
-  - Importing, exporting, and backing up
-  - Challenge: Reconstruct this workflow
-  - Solution: Reconstruct this workflow
+  - [Translating requirements](#translating-requirements)
+  - [Creating new workflows](#creating-new-workflows)
+  - [Importing, exporting, and backing up](#importing-exporting-and-backing-up)
+  - [Challenge: Reconstruct this workflow](#challenge-reconstruct-this-workflow)
+  - [Solution: Reconstruct this workflow](#solution-reconstruct-this-workflow)
 - [**4. Extending Workflow Capabilities**](#4-extending-workflow-capabilities) (7 videos)
-  - Using triggers, conditions, validators, and post functions
-  - Requiring approval
-  - Leveraging automation
-  - Expanding with apps
-  - Using properties
-  - Challenge: Enhance this workflow
-  - Solution: Enhance this workflow
+  - [Using triggers, conditions, validators, and post functions](#using-triggers-conditions-validators-and-post-functions)
+  - [Requiring approval](#requiring-approval)
+  - [Leveraging automation](#leveraging-automation)
+  - [Expanding with apps](#expanding-with-apps)
+  - [Using properties](#using-properties)
+  - [Challenge: Enhance this workflow](#challenge-enhance-this-workflow)
+  - [Solution: Enhance this workflow](#solution-enhance-this-workflow)
 - [**5. Best Practices**](#5-best-practices) (3 videos)
-  - Workflow recommendations
-  - Challenge: Workflow scavenger hunt
-  - Solution: Workflow scavenger hunt
+  - [Workflow recommendations](#workflow-recommendations)
+  - [Challenge: Workflow scavenger hunt](#challenge-workflow-scavenger-hunt)
+  - [Solution: Workflow scavenger hunt](#solution-workflow-scavenger-hunt)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional resources for Jira learning
+  - [Additional resources for Jira learning](#additional-resources-for-jira-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom workflows in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980)
@@ -108,6 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), [[Automation]] (1), [[LinkedIn]] (1), [[Business Development]] (1), teams (1)
 > **Tools:** jira (6)
 
 #### Who is this course for?
@@ -151,8 +152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (12), application (4), management (4), business (2), feature (2)
 > **Tools:** jira (12)
-> **Code Keywords:** interface (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** configure (1)
@@ -202,16 +203,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), application (3), cloud (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** url (1)
 > **Prerequisites:** set up (1)
 
 
 ### 1. Using Custom Workflows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Important terms and definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980)
@@ -282,9 +283,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (11), data (2), cloud (2), [[Atlassian]] (2), [[Microsoft Word|Word]] (1)
 > **Tools:** jira (11)
 > **Definitions:** is a  (5), is an  (1), in other words (1)
-> **Code Keywords:** self (1), finally, (1)
 > **Env Vars:** jsm (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
@@ -389,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), finally, (2), delete (1)
+> **Frameworks & Libraries:** [[Jira]] (6), data (3), cloud (2), application (2), functional (1)
 > **Tools:** jira (6)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** we discussed (1)
@@ -617,8 +618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (16), next (4), application (3), data (3), management (2)
 > **Tools:** jira (16)
-> **Code Keywords:** let (7), from, (1), function (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** jql (2), proc (2)
@@ -725,8 +726,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), cloud (2), business (2), data (1), hr (1)
 > **Tools:** jira (9)
-> **Code Keywords:** let (4), type. (2), require (1), switch (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
@@ -741,6 +742,10 @@ created: 2026-04-29
 > **[0:05](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-configure-a-workflow-relationship?u=76281980&t=5)** In this challenge, you'll create a new custom workflow scheme, add one or more new or existing workflows to it, and apply it to a company-managed development project.
 >
 > **[0:16](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-configure-a-workflow-relationship?u=76281980&t=16)** Go try this out in your test environment, then compare your implementation to my solution in the next section.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** next (1)
 
 #### Solution: Configure a workflow relationship
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-configure-a-workflow-relationship?u=76281980)
@@ -767,15 +772,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (2), application (1), next (1)
 > **UI Navigation:** go to (3)
 > **Tools:** jira (2)
-> **Code Keywords:** switch (1)
 > **Prerequisites:** configure (1)
 
 
 ### 2. Planning Custom Workflows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a phased approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-a-phased-approach?u=76281980)
@@ -876,8 +881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), application (3), generic (1), database (1)
 > **Tools:** jira (10)
-> **Code Keywords:** let (2)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -973,8 +978,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1), [[Jira]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** super (1)
 > **Tools:** jira (1)
 
 #### Determining statuses
@@ -1080,6 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), data (3), [[Jira]] (2), application (2), database (1)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** make (3)
 > **Tools:** jira (2)
@@ -1132,7 +1138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), require (1)
+> **Frameworks & Libraries:** next (3), [[Jira]] (2), data (1)
 > **Tools:** jira (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -1181,10 +1187,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (2), next (2), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** jira (2)
 > **Exercise Files:** template (1), exercise files (1)
-> **Code Keywords:** let (1)
 > **Analogies:** think of it as (1)
 
 #### Challenge: Workflow interview and design
@@ -1202,6 +1208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Tools:** jira (1)
 
 #### Solution: Workflow interview and design
@@ -1225,10 +1232,14 @@ created: 2026-04-29
 >
 > **[0:43](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-interview-and-design?u=76281980&t=43)** With global transitions, there's no need for alternate transitions unless you're trying to perform an action like updating data in the background.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** next (1), data (1)
+
 
 ### 3. Building Custom Workflows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Translating requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980)
@@ -1277,9 +1288,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), next (2), [[LinkedIn]] (1)
 > **Tools:** jira (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
@@ -1321,6 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (2), next (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Tools:** jira (2)
 > **Definitions:** is a  (1)
@@ -1434,7 +1446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), public (1), for. (1)
+> **Frameworks & Libraries:** [[Jira]] (9), application (4), [[Atlassian]] (4), cloud (4), data (3)
 > **Env Vars:** xml (8), jwb (2)
 > **Tools:** jira (9)
 > **Definitions:** is a  (3)
@@ -1466,6 +1478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (1), application (1), next (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Tools:** jira (1)
 
@@ -1516,13 +1529,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Jira]] (2), application (1), cloud (1), data (1)
 > **Tools:** jira (2)
 > **CLI Commands:** find (1)
 
 
 ### 4. Extending Workflow Capabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using triggers, conditions, validators, and post functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980)
@@ -1687,7 +1701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), default, (2), require (2), let (1), export, (1)
+> **Frameworks & Libraries:** [[Jira]] (9), data (3), [[Atlassian]] (2), [[Bitbucket]] (2), application (2)
 > **Tools:** jira (9), bitbucket (2), github (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
@@ -1858,8 +1872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (11), next (7), management (4), feature (2), [[IT Service Management]] (1)
 > **Tools:** jira (11), bitbucket (1)
-> **Code Keywords:** let (3), finally, (2), default, (1), interface (1), type. (1)
 > **Env Vars:** cab (4), jsm (3)
 > **UI Navigation:** checkbox (2), select the (2), click on (1)
 > **Analogies:** for example (1), similar to (1), just like (1)
@@ -1930,8 +1944,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (10), [[Jira]] (10), management (3), feature (2), [[Atlassian]] (2)
 > **Tools:** jira (10), confluence (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** jql (1), url (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1983,10 +1997,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (4), cloud (1), [[Atlassian]] (1), application (1)
 > **Tools:** jira (4)
 > **Env Vars:** jmwe (2), jql (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** function (1), this. (1)
 > **Definitions:** is a  (1)
 
 #### Using properties
@@ -2054,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), include. (1), case. (1)
+> **Frameworks & Libraries:** [[Jira]] (6), data (1), cloud (1), next (1)
 > **Tools:** jira (6)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (1)
@@ -2079,7 +2093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), case. (1)
+> **Frameworks & Libraries:** [[Jira]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Tools:** jira (1)
 > **UI Navigation:** open the (1)
@@ -2137,7 +2151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), finally, (2), require (1), continue (1)
+> **Frameworks & Libraries:** next (3), database (2), [[Automation]] (1), feature (1), [[Jira]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Tools:** jira (1)
@@ -2145,7 +2159,7 @@ created: 2026-04-29
 
 ### 5. Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Workflow recommendations
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980)
@@ -2318,9 +2332,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (7), [[Microsoft Word|Word]] (4), next (3), hr (1), application (1)
 > **Tools:** jira (7)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (1), finally, (1), new, (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
@@ -2352,7 +2366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** [[Jira]] (2), cloud (2), [[LinkedIn]] (1), data (1), application (1)
 > **Tools:** jira (2)
 > **Exercise Files:** exercise files (1)
 
@@ -2501,7 +2515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), default, (1)
+> **Frameworks & Libraries:** generic (3), [[Jira]] (2), application (1), [[Atlassian]] (1), data (1)
 > **CLI Commands:** make (2), ls (1)
 > **Env Vars:** jwb (1), xml (1), jql (1)
 > **Tools:** jira (2)
@@ -2512,7 +2526,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980)
@@ -2549,6 +2563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), [[LinkedIn]] (2), [[Automation]] (1), [[Atlassian]] (1), [[Confluence]] (1)
 > **Tools:** jira (5), confluence (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Best Practices:** don't forget (1)

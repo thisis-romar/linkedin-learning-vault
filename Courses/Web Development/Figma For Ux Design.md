@@ -19,7 +19,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Figma%20For%20Ux%20Design.md)
@@ -38,28 +38,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Migrating to Figma
-  - Expectations
+  - [Migrating to Figma](#migrating-to-figma)
+  - [Expectations](#expectations)
 - [**1. Orienting Yourself within Figma**](#1-orienting-yourself-within-figma) (2 videos)
-  - Creating your first team
-  - Overview of a design file
+  - [Creating your first team](#creating-your-first-team)
+  - [Overview of a design file](#overview-of-a-design-file)
 - [**2. Project Creation**](#2-project-creation) (5 videos)
-  - Creating project styles
-  - Creating the hero section
-  - Applying auto layout
-  - Creating a responsive button
-  - Using masks
+  - [Creating project styles](#creating-project-styles)
+  - [Creating the hero section](#creating-the-hero-section)
+  - [Applying auto layout](#applying-auto-layout)
+  - [Creating a responsive button](#creating-a-responsive-button)
+  - [Using masks](#using-masks)
 - [**3. Prototyping, Collaborating, and Exporting**](#3-prototyping-collaborating-and-exporting) (4 videos)
-  - Prototyping with smart animations
-  - Working with other designers
-  - Collaborating with stakeholders
-  - Exporting files
+  - [Prototyping with smart animations](#prototyping-with-smart-animations)
+  - [Working with other designers](#working-with-other-designers)
+  - [Collaborating with stakeholders](#collaborating-with-stakeholders)
+  - [Exporting files](#exporting-files)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Wrap-up
+  - [Wrap-up](#wrap-up)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Migrating to Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/migrating-to-figma?u=76281980)
@@ -76,6 +76,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (3), [[Figma (Software)|Figma]] (2), [[Adobe XD]] (1), teams (1)
 > **Tools:** figma (2)
 
 #### Expectations
@@ -95,12 +96,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), [[Figma (Software)|Figma]] (2), [[Adobe XD]] (1)
 > **Tools:** figma (2)
 
 
 ### 1. Orienting Yourself within Figma
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your first team
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980)
@@ -277,10 +279,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (17), teams (6), application (5), feature (2), next (2)
 > **Tools:** figma (17)
 > **CLI Commands:** make (7), find (5)
 > **UI Navigation:** click on (4), go to (2), drag and drop (1)
-> **Code Keywords:** let (3), switch (1), continue (1), this, (1)
 > **Exercise Files:** download the (3)
 > **Analogies:** such as (1), just like (1)
 > **URLs:** [figma.com](https://figma.com) (1)
@@ -436,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (3), super (2), default, (2), from. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (12), next (9), feature (3), [[Prototyping]] (3), teams (2)
 > **Tools:** figma (12)
 > **Analogies:** just like (5), similar to (1), for example (1), such as (1)
 > **CLI Commands:** make (3), find (1)
@@ -448,7 +450,7 @@ created: 2026-04-29
 
 ### 2. Project Creation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating project styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980)
@@ -657,7 +659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (2), for. (2), if, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), hit (3), [[Search]] (2), [[Design Systems]] (2), [[Prototyping]] (1)
 > **UI Navigation:** click on (5), right-click (2), go to (1)
 > **CLI Commands:** make (5)
 > **Tools:** figma (4)
@@ -942,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), super (3), this, (2), case, (1), delete (1)
+> **Frameworks & Libraries:** hit (9), [[Figma (Software)|Figma]] (8), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1)
 > **Tools:** figma (8)
 > **UI Navigation:** click on (6), right-click (1)
 > **CLI Commands:** make (5)
@@ -1095,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this. (2), switch (1)
+> **Frameworks & Libraries:** hit (3), power (1), next (1), [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** select the (1), go to (1), click on (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
@@ -1451,7 +1453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (49), continue (4), this, (2), this. (1)
+> **Frameworks & Libraries:** hit (9), [[Figma (Software)|Figma]] (4), [[Representational State Transfer (REST)|Rest]] (1), oop (1)
 > **CLI Commands:** make (6), find (1)
 > **Tools:** figma (4)
 > **Analogies:** just like (2), such as (1)
@@ -1461,7 +1463,7 @@ created: 2026-04-29
 
 ### 3. Prototyping, Collaborating, and Exporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototyping with smart animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980)
@@ -1676,7 +1678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (44), this, (2), switch (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (14), hit (6), [[Prototyping]] (5), feature (3), next (3)
 > **Tools:** figma (14)
 > **UI Navigation:** go to (5), click on (4), navigate to (1)
 > **CLI Commands:** make (4)
@@ -1748,7 +1750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), this, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[Zoom]] (3), [[Version Control]] (1), application (1)
 > **Tools:** figma (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for example (3)
@@ -1882,7 +1884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (1), this. (1)
+> **Frameworks & Libraries:** teams (2), [[Figma (Software)|Figma]] (2), ux (1), [[Prototyping]] (1), hit (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), we discussed (1)
 > **Tools:** figma (2)
@@ -1959,7 +1961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (1), export. (1)
+> **Frameworks & Libraries:** hit (4), [[Figma (Software)|Figma]] (3), [[Zoom]] (2), feature (2), [[Prototyping]] (1)
 > **Env Vars:** png (4), jpeg (4), pdf (4)
 > **Tools:** figma (3)
 > **Definitions:** is a  (2)
@@ -1971,7 +1973,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/wrap-up?u=76281980)
@@ -1990,8 +1992,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), power (1)
 > **Tools:** figma (3)
-> **Code Keywords:** interface (1)
 
 
 ## Path Context

@@ -33,7 +33,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Excel-%20Data%20Analysis.md)
@@ -52,80 +52,80 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Analyze your data effectively
-  - What you should know before starting
+  - [Analyze your data effectively](#analyze-your-data-effectively)
+  - [What you should know before starting](#what-you-should-know-before-starting)
 - [**1. Foundational Concepts of Data Analysis**](#1-foundational-concepts-of-data-analysis) (8 videos)
-  - Calculate mean and median values
-  - Measure maximums, minimums, and other data characteristics
-  - Analyze data using variance and standard deviation
-  - Introduce the central limit theorem
-  - Analyze a population using data samples
-  - Identify and minimize sources of error
-  - Challenge: Summarize and analyze business data
-  - Solution: Summarize and analyze business data
+  - [Calculate mean and median values](#calculate-mean-and-median-values)
+  - [Measure maximums, minimums, and other data characteristics](#measure-maximums-minimums-and-other-data-characteristics)
+  - [Analyze data using variance and standard deviation](#analyze-data-using-variance-and-standard-deviation)
+  - [Introduce the central limit theorem](#introduce-the-central-limit-theorem)
+  - [Analyze a population using data samples](#analyze-a-population-using-data-samples)
+  - [Identify and minimize sources of error](#identify-and-minimize-sources-of-error)
+  - [Challenge: Summarize and analyze business data](#challenge-summarize-and-analyze-business-data)
+  - [Solution: Summarize and analyze business data](#solution-summarize-and-analyze-business-data)
 - [**2. Visualizing Data**](#2-visualizing-data) (8 videos)
-  - Group data using histograms
-  - Identify relationships using XY scatter charts
-  - Visualize data using logarithmic scales
-  - Add trendlines to charts
-  - Forecast future results
-  - Calculate running averages
-  - Challenge: Summarize operational data visually
-  - Solution: Summarize operational data visually
+  - [Group data using histograms](#group-data-using-histograms)
+  - [Identify relationships using XY scatter charts](#identify-relationships-using-xy-scatter-charts)
+  - [Visualize data using logarithmic scales](#visualize-data-using-logarithmic-scales)
+  - [Add trendlines to charts](#add-trendlines-to-charts)
+  - [Forecast future results](#forecast-future-results)
+  - [Calculate running averages](#calculate-running-averages)
+  - [Challenge: Summarize operational data visually](#challenge-summarize-operational-data-visually)
+  - [Solution: Summarize operational data visually](#solution-summarize-operational-data-visually)
 - [**3. Testing a Hypothesis**](#3-testing-a-hypothesis) (5 videos)
-  - Formulate a hypothesis
-  - Interpret the results of your analysis
-  - Consider the limits of hypothesis testing
-  - Challenge: Formulate and test a hypothesis
-  - Solution: Formulate and test a hypothesis
+  - [Formulate a hypothesis](#formulate-a-hypothesis)
+  - [Interpret the results of your analysis](#interpret-the-results-of-your-analysis)
+  - [Consider the limits of hypothesis testing](#consider-the-limits-of-hypothesis-testing)
+  - [Challenge: Formulate and test a hypothesis](#challenge-formulate-and-test-a-hypothesis)
+  - [Solution: Formulate and test a hypothesis](#solution-formulate-and-test-a-hypothesis)
 - [**4. Utilizing Data Distributions**](#4-utilizing-data-distributions) (7 videos)
-  - Use the normal distribution
-  - Use a uniform distribution
-  - Use the exponential distribution
-  - Use the Poisson distribution
-  - Use the binomial distribution
-  - Challenge: Model operational data using distributions
-  - Solution: Model operational data using distributions
+  - [Use the normal distribution](#use-the-normal-distribution)
+  - [Use a uniform distribution](#use-a-uniform-distribution)
+  - [Use the exponential distribution](#use-the-exponential-distribution)
+  - [Use the Poisson distribution](#use-the-poisson-distribution)
+  - [Use the binomial distribution](#use-the-binomial-distribution)
+  - [Challenge: Model operational data using distributions](#challenge-model-operational-data-using-distributions)
+  - [Solution: Model operational data using distributions](#solution-model-operational-data-using-distributions)
 - [**5. Measuring Covariance and Correlation**](#5-measuring-covariance-and-correlation) (8 videos)
-  - Visualize what covariance means
-  - Calculate covariance between two columns of data
-  - Calculate covariance among multiple pairs of columns
-  - Visualize what correlation means
-  - Calculate the correlation between two columns of data
-  - Calculate correlation among multiple pairs of columns
-  - Challenge: Calculate correlations between  columns of data
-  - Solution: Calculate correlations between columns of data
+  - [Visualize what covariance means](#visualize-what-covariance-means)
+  - [Calculate covariance between two columns of data](#calculate-covariance-between-two-columns-of-data)
+  - [Calculate covariance among multiple pairs of columns](#calculate-covariance-among-multiple-pairs-of-columns)
+  - [Visualize what correlation means](#visualize-what-correlation-means)
+  - [Calculate the correlation between two columns of data](#calculate-the-correlation-between-two-columns-of-data)
+  - [Calculate correlation among multiple pairs of columns](#calculate-correlation-among-multiple-pairs-of-columns)
+  - [Challenge: Calculate correlations between  columns of data](#challenge-calculate-correlations-between-columns-of-data)
+  - [Solution: Calculate correlations between columns of data](#solution-calculate-correlations-between-columns-of-data)
 - [**6. Calculating Probabilities, Combinations, and Permutations**](#6-calculating-probabilities-combinations-and-permutations) (9 videos)
-  - Calculate simple probabilities
-  - Calculate compound probabilities
-  - Calculate expected value
-  - Calculate permutations without duplication
-  - Calculate permutations with duplication
-  - Calculate combinations without duplication
-  - Calculate combinations with duplication
-  - Challenge: Calculate the expected value of a business scenario
-  - Solution: Calculate the expected value of a business scenario
+  - [Calculate simple probabilities](#calculate-simple-probabilities)
+  - [Calculate compound probabilities](#calculate-compound-probabilities)
+  - [Calculate expected value](#calculate-expected-value)
+  - [Calculate permutations without duplication](#calculate-permutations-without-duplication)
+  - [Calculate permutations with duplication](#calculate-permutations-with-duplication)
+  - [Calculate combinations without duplication](#calculate-combinations-without-duplication)
+  - [Calculate combinations with duplication](#calculate-combinations-with-duplication)
+  - [Challenge: Calculate the expected value of a business scenario](#challenge-calculate-the-expected-value-of-a-business-scenario)
+  - [Solution: Calculate the expected value of a business scenario](#solution-calculate-the-expected-value-of-a-business-scenario)
 - [**7. Performing Bayesian Analysis**](#7-performing-bayesian-analysis) (6 videos)
-  - Introduce Bayesian analysis
-  - Analyze a sample problem: Kahneman’s Cabs
-  - Create a classification matrix
-  - Calculate Bayesian probabilities in Excel
-  - Challenge: Perform a Bayesian analysis
-  - Solution: Perform a Bayesian analysis
+  - [Introduce Bayesian analysis](#introduce-bayesian-analysis)
+  - [Analyze a sample problem: Kahneman’s Cabs](#analyze-a-sample-problem-kahnemans-cabs)
+  - [Create a classification matrix](#create-a-classification-matrix)
+  - [Calculate Bayesian probabilities in Excel](#calculate-bayesian-probabilities-in-excel)
+  - [Challenge: Perform a Bayesian analysis](#challenge-perform-a-bayesian-analysis)
+  - [Solution: Perform a Bayesian analysis](#solution-perform-a-bayesian-analysis)
 - [**8. Performing Regression Analysis**](#8-performing-regression-analysis) (7 videos)
-  - Introduce linear regression
-  - Enable the Analysis ToolPak add-in
-  - Perform linear regression on a single variable
-  - Interpret linear regression results
-  - Perform multiple regression
-  - Challenge: Perform linear regression
-  - Solution: Perform linear regression
+  - [Introduce linear regression](#introduce-linear-regression)
+  - [Enable the Analysis ToolPak add-in](#enable-the-analysis-toolpak-add-in)
+  - [Perform linear regression on a single variable](#perform-linear-regression-on-a-single-variable)
+  - [Interpret linear regression results](#interpret-linear-regression-results)
+  - [Perform multiple regression](#perform-multiple-regression)
+  - [Challenge: Perform linear regression](#challenge-perform-linear-regression)
+  - [Solution: Perform linear regression](#solution-perform-linear-regression)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional resources
+  - [Additional resources](#additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze your data effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980)
@@ -144,8 +144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (1), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1), power (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [curt] (1)
 
 #### What you should know before starting
@@ -171,13 +171,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2), business (1), [[Microsoft 365]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Foundational Concepts of Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate mean and median values
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980)
@@ -278,10 +278,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), next (3), [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** a12 (7), a13 (2)
 > **UI Navigation:** go to (7), select the (2)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), function (1), case, (1)
 > **Versions:** 29.45 (1), 29.5 (1), 28.5 (1)
 > **Definitions:** means that (2), in other words (1)
 > **Exercise Files:** exercise files (1)
@@ -370,8 +370,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **Env Vars:** a40 (7), quartile (3), exc (2), a11 (2), inc (1)
-> **Code Keywords:** function (3), case, (1), type = (1), let (1)
 > **UI Navigation:** go to (3), scroll down (3)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (1), means that (1)
@@ -491,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** a13 (3), c16 (3), c14 (2), b14 (1), c13 (1)
-> **Code Keywords:** var (2), let (1), function (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** find (1)
 > **Versions:** 482.6 (1)
@@ -586,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), switch (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), business (1), [[Probability]] (1), power (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
 > **Versions:** 99.7 (1)
@@ -671,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1)
 > **Versions:** 1.96 (3), 0.3 (2), 0.1 (2), 1.645 (1), 0.016 (1)
-> **Code Keywords:** let (2), case, (1), switch (1), finally, (1), function (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** sqrt (1)
 > **Cross-References:** earlier in (1)
@@ -723,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Statistical Analysis]] (1), [[Statistics]] (1), product (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Summarize and analyze business data
@@ -743,6 +743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -838,8 +839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1)
 > **Versions:** 319.47 (1), 285.50 (1), 1072.25 (1), 569.75 (1), 1285.50 (1)
-> **Code Keywords:** function (3), var (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -848,7 +849,7 @@ created: 2026-04-29
 
 ### 2. Visualizing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Group data using histograms
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/group-data-using-histograms-24045728?u=76281980)
@@ -905,7 +906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1), case, (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** select the (2), scroll down (1), go to (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
@@ -953,8 +954,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** o202 (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -1061,12 +1062,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (2), power (2), business (1), next (1)
 > **Env Vars:** a13 (1), b13 (1), b14 (1), b11 (1)
 > **Definitions:** means that (2), in other words (1), is a  (1)
 > **CLI Commands:** find (3)
 > **Versions:** 3.5 (2), 9.76 (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructors] (1)
 
@@ -1119,9 +1120,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel]] (1), [[Forecasting]] (1), business (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** go to (2), scroll down (1)
-> **Code Keywords:** case, (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **Exercise Files:** exercise files (1)
@@ -1245,7 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), delete (1), switch (1), let (1), function (1)
+> **Frameworks & Libraries:** data (12), business (1), next (1)
 > **UI Navigation:** select the (2), switch to (1), scroll down (1), go to (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1369,9 +1370,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), next (2), [[Windows]] (1), business (1)
 > **CLI Commands:** find (5), make (3)
 > **Env Vars:** c13 (2), average (1), e13 (1), b11 (1), b13 (1)
-> **Code Keywords:** let (1), type = (1), function (1), type : (1)
 > **Definitions:** is a  (1), is an  (1), in other words (1), refers to (1)
 > **Warnings:** note that (1), be aware (1)
 > **UI Navigation:** go to (1)
@@ -1399,6 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1501,8 +1503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2), [[Windows]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** average (1), c33 (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Versions:** 1319.47 (1)
@@ -1513,7 +1515,7 @@ created: 2026-04-29
 
 ### 3. Testing a Hypothesis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Formulate a hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/formulate-a-hypothesis-24047698?u=76281980)
@@ -1566,6 +1568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Statistics]] (1), product (1), express (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -1614,8 +1617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Probability]] (2), [[Microsoft Products|Products]] (1), web (1), business (1)
 > **Versions:** 2.35 (3), 15.1 (1), 97.65 (1)
-> **Code Keywords:** case, (2), continue (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - businesses (1)
 
@@ -1648,6 +1651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Statistics]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1677,7 +1681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1720,6 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat entertaining music) (1)
@@ -1727,7 +1732,7 @@ created: 2026-04-29
 
 ### 4. Utilizing Data Distributions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the normal distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980)
@@ -1908,7 +1913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), switch (1)
+> **Frameworks & Libraries:** [[Probability]] (11), data (3), [[Microsoft Excel|Excel]] (2)
 > **Versions:** 34.46 (2), 65.54 (2), 74.37 (2), 99.7 (1), 1.84 (1)
 > **Definitions:** stands for (1), means that (1), is an  (1), is a  (1)
 > **CLI Commands:** find (2)
@@ -1992,7 +1997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), switch (1), this, (1), abstract (1)
+> **Frameworks & Libraries:** [[Probability]] (10), [[Microsoft Excel|Excel]] (2), business (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** randbetween (3), b10 (3)
 > **Versions:** 0.166 (1), 0.33 (1), 0.666 (1), 0.81534 (1)
 > **Definitions:** is a  (2), is called (1)
@@ -2092,7 +2097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (7), function (3), let (2), switch (1)
+> **Frameworks & Libraries:** [[Probability]] (11), [[Microsoft Excel|Excel]] (2), business (1), [[Windows]] (1)
 > **Env Vars:** lambda (7), expon (2), dist (2)
 > **Versions:** 30.22 (2), 0.1637 (1)
 > **CLI Commands:** find (2)
@@ -2210,7 +2215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (4), function (3), switch (1), case. (1)
+> **Frameworks & Libraries:** [[Probability]] (10), [[Microsoft Excel|Excel]] (3), data (2), business (1), [[Simulation]] (1)
 > **UI Navigation:** double-click (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), such as (1)
@@ -2294,7 +2299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (2), switch (1)
+> **Frameworks & Libraries:** [[Probability]] (10), data (4), [[Microsoft Excel|Excel]] (3)
 > **Versions:** 0.35 (1), 96.97 (1), 99.995 (1)
 > **Definitions:** is called (1), is an  (1), in other words (1)
 > **CLI Commands:** find (1), make (1)
@@ -2333,6 +2338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Simulation]] (1), business (1), next (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
@@ -2524,8 +2530,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (6), data (2), business (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** norm (6), dist (5), true (5), inv (3), poisson (1)
-> **Code Keywords:** lambda (4), type = (2), function (2), case, (2), for. (1)
 > **CLI Commands:** find (5), make (1)
 > **Versions:** 137.93 (1), 177.04 (1), 0.45 (1), 0.31 (1)
 > **Definitions:** in other words (2), is a  (1), means that (1)
@@ -2536,7 +2542,7 @@ created: 2026-04-29
 
 ### 5. Measuring Covariance and Correlation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualize what covariance means
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-covariance-means-24048670?u=76281980)
@@ -2587,9 +2593,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2712,8 +2718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** covariance (4), a11 (2), b11 (2), c12 (1), c11 (1)
-> **Code Keywords:** function (4)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 0.48 (2), 4.68 (1)
 > **Cross-References:** go back to (1)
@@ -2808,10 +2814,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** a11 (5), b11 (2), c11 (1), d11 (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** double-click (2), go to (2), select the (1)
-> **Code Keywords:** function (1), let (1)
 > **Versions:** 8.17 (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -2909,9 +2915,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), next (3), business (1), product (1), [[Statistics]] (1)
 > **Definitions:** in other words (4), is an  (1), is a  (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), match. (1)
 > **Versions:** 0.1 (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2969,11 +2975,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Versions:** 0.69 (3), 0.7 (1), 0.6948 (1), 0.1 (1), 0.05 (1)
 > **Definitions:** is a  (4), in other words (1)
 > **Env Vars:** a12 (1), b12 (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3080,9 +3086,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Windows]] (1)
 > **Env Vars:** a12 (8), correl (1), b12 (1), c12 (1), d12 (1)
 > **CLI Commands:** make (6), find (2)
-> **Code Keywords:** let (2), function (1), for. (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (2), setup (1)
 > **Exercise Files:** exercise files (1)
@@ -3115,6 +3121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** i10 (1)
 > **Cross-References:** in the next (1)
@@ -3226,8 +3233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** a12 (7), b12 (4), g10 (2), covariance (1), c12 (1)
-> **Code Keywords:** let (3), case, (1), finally, (1), type = (1)
 > **Versions:** 0.84 (2), 023.16 (1), 0.842 (1), 0.126 (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
@@ -3238,7 +3245,7 @@ created: 2026-04-29
 
 ### 6. Calculating Probabilities, Combinations, and Permutations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate simple probabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980)
@@ -3267,7 +3274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Microsoft Excel]] (1), business (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 16.67 (1), 83.33 (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -3319,9 +3326,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (11)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** in other words (3), means that (1)
-> **Code Keywords:** throw (1), for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Calculate expected value
@@ -3387,8 +3394,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (4), business (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** switch (1)
 > **Env Vars:** alt (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -3444,7 +3451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), business (1), data (1)
 > **Definitions:** is a  (1), short for (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
@@ -3512,7 +3519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), function (1), from, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** permutationa (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -3580,9 +3587,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Microsoft Excel|Excel]] (2), data (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** switch (1)
 > **Env Vars:** combin (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -3646,7 +3653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), function (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** combina (2)
 > **Exercise Files:** exercise files (1)
@@ -3674,9 +3681,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (2)
-> **Code Keywords:** try. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -3731,8 +3738,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (3), business (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** return. (1)
 > **Versions:** 23.5 (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -3742,7 +3749,7 @@ created: 2026-04-29
 
 ### 7. Performing Bayesian Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduce Bayesian analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980)
@@ -3785,7 +3792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), data (2), [[Probability]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** known as (1), in other words (1)
 > **Analogies:** such as (1), for example (1)
@@ -3863,8 +3870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Probability]] (2), hit (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.12 (5), 0.17 (3), 0.85 (2), 0.8 (1), 0.68 (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
@@ -3929,8 +3936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (7), [[Microsoft Excel|Excel]] (1), data (1)
 > **Versions:** 0.85 (1), 0.8 (1), 0.12 (1), 0.17 (1), 0.03 (1)
-> **Code Keywords:** let (4)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4049,6 +4056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (24), [[Microsoft Excel]] (1)
 > **CLI Commands:** find (7), make (1)
 > **Env Vars:** b10 (3)
 > **Cross-References:** earlier in (1)
@@ -4077,7 +4085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Probability]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -4193,17 +4201,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (23), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** means that (1), is a  (1), in other words (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 8. Performing Regression Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduce linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-linear-regression?u=76281980)
@@ -4262,9 +4270,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12)
 > **CLI Commands:** find (3)
 > **Versions:** 220.78 (2), 13.15 (1)
-> **Code Keywords:** function (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4301,9 +4309,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2), [[Linear Regression]] (1), next (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -4373,8 +4381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Linear Regression]] (2), [[Microsoft Excel]] (1), next (1)
 > **UI Navigation:** select the (3), scroll down (2), go to (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** b32 (1), a32 (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -4452,8 +4460,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (5), data (5), next (2), feature (1), [[Statistics]] (1)
 > **Definitions:** is a  (4), in other words (2)
-> **Code Keywords:** case, (1), from. (1), from, (1)
 > **Versions:** 0.71 (1), 0.05 (1), 8.49 (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** rule of thumb (1), general rule (1)
@@ -4547,9 +4555,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Linear Regression]] (2), next (2), [[Probability]] (1)
 > **UI Navigation:** go to (2), scroll down (2), scroll up (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** c32 (1), b32 (1)
 > **Versions:** 3.03 (1), 0.05 (1)
 > **Definitions:** is a  (2)
@@ -4579,6 +4587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Linear Regression]] (3), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -4668,10 +4677,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), next (3), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Versions:** 1.8 (2), 0.05 (2), 0.74 (1), 0.6 (1)
 > **UI Navigation:** go to (1), scroll down (1), checkbox (1), scroll up (1), select the (1)
-> **Code Keywords:** case, (3), finally, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -4680,7 +4689,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980)
@@ -4709,7 +4718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Statistics]] (2), next (1), business (1), [[Microsoft]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [curt] (1)
 

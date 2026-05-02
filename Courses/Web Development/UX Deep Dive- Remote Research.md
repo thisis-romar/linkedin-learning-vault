@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Remote%20Research.md)
@@ -45,23 +45,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What is remote UX research?
+  - [What is remote UX research?](#what-is-remote-ux-research)
 - [**1. Remote Research Overview**](#1-remote-research-overview) (2 videos)
-  - Benefits of remote UX research
-  - Reasons to choose the traditional research approach
+  - [Benefits of remote UX research](#benefits-of-remote-ux-research)
+  - [Reasons to choose the traditional research approach](#reasons-to-choose-the-traditional-research-approach)
 - [**2. Preparing for Remote UX Research**](#2-preparing-for-remote-ux-research) (4 videos)
-  - Designing effective remote studies
-  - Remote research planning adaptations
-  - Remote research setting expectations
-  - Remote recruiting
+  - [Designing effective remote studies](#designing-effective-remote-studies)
+  - [Remote research planning adaptations](#remote-research-planning-adaptations)
+  - [Remote research setting expectations](#remote-research-setting-expectations)
+  - [Remote recruiting](#remote-recruiting)
 - [**3. Running Remote Research Sessions**](#3-running-remote-research-sessions) (1 videos)
-  - Running effective remote research sessions
+  - [Running effective remote research sessions](#running-effective-remote-research-sessions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Keep the data coming
+  - [Keep the data coming](#keep-the-data-coming)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is remote UX research?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/what-is-remote-ux-research?u=76281980)
@@ -92,14 +92,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (4)
 > **CLI Commands:** make (4)
-> **Code Keywords:** for, (1), let (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Remote Research Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of remote UX research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980)
@@ -196,9 +196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), ux (2), data (1), application (1), [[Usability Testing]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2), such as (1)
-> **Code Keywords:** let (1), for, (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - you (1)
 
@@ -255,17 +255,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Usability Testing]] (1), [[Microsoft Office|Office]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for instance (2), it's like (1), picture (1), such as (1), just like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** covid (1)
 > **Speakers:** - while (1)
 
 
 ### 2. Preparing for Remote UX Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing effective remote studies
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980)
@@ -312,8 +312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), product (2), ux (1), [[Usability Testing]] (1)
 > **Analogies:** for instance (3)
-> **Code Keywords:** this, (1), class. (1)
 > **Speakers:** - designing (1)
 
 #### Remote research planning adaptations
@@ -381,6 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), [[Google]] (2), strengths (1), [[Zoom]] (1), [[Forms]] (1)
 > **Prerequisites:** setup (3), you'll need (1)
 > **CLI Commands:** make (2)
 > **URLs:** [usertesting.com](https://usertesting.com) (1)
@@ -436,7 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** ux (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** remember to (1)
@@ -507,8 +508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1), ux (1), [[Representational State Transfer (REST)|Rest]] (1), express (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), self (1), for. (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -516,7 +517,7 @@ created: 2026-04-29
 
 ### 3. Running Remote Research Sessions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running effective remote research sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980)
@@ -595,6 +596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), data (2), [[Jetpack Compose|Compose]] (1), [[Sketching]] (1)
 > **Warnings:** keep in mind (1), heads up (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -605,7 +607,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep the data coming
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/keep-the-data-coming?u=76281980)
@@ -630,6 +632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), data (1), product (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - remote (1)

@@ -32,7 +32,7 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Kanban%20for%20Developers%20(2019).md)
@@ -51,27 +51,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Putting kanban to work in your development team
-  - What you should know
+  - [Putting kanban to work in your development team](#putting-kanban-to-work-in-your-development-team)
+  - [What you should know](#what-you-should-know)
 - [**1. Lean and Kanban**](#1-lean-and-kanban) (3 videos)
-  - The lean mindset
-  - Kanban principles
-  - Core practices
+  - [The lean mindset](#the-lean-mindset)
+  - [Kanban principles](#kanban-principles)
+  - [Core practices](#core-practices)
 - [**2. Kanban in Practice**](#2-kanban-in-practice) (4 videos)
-  - Demo overview
-  - Project visualization
-  - Limit work in progress
-  - Managing flow
+  - [Demo overview](#demo-overview)
+  - [Project visualization](#project-visualization)
+  - [Limit work in progress](#limit-work-in-progress)
+  - [Managing flow](#managing-flow)
 - [**3. Processes and Pitfalls**](#3-processes-and-pitfalls) (3 videos)
-  - Handling process policies
-  - Improve and evolve
-  - Avoiding bad kanban
+  - [Handling process policies](#handling-process-policies)
+  - [Improve and evolve](#improve-and-evolve)
+  - [Avoiding bad kanban](#avoiding-bad-kanban)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting kanban to work in your development team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980)
@@ -90,6 +90,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (1), [[Trello]] (1), [[Agile Development|Agile]] (1), teams (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [harrison] (1)
@@ -109,14 +110,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Agile Software Development]] (2), [[Scrum]] (2), application (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Lean and Kanban
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The lean mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980)
@@ -191,7 +192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), self (1)
+> **Frameworks & Libraries:** product (5), teams (3), [[Scrum]] (2), [[Software Development]] (2), management (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -262,7 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** management (2), leadership (2), application (1), teams (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is called (1), is an  (1)
 > **Analogies:** picture (1), just like (1)
 > **Speakers:** - [instructor] (1)
@@ -312,6 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), next (2), product (2), [[Scrum]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -321,7 +323,7 @@ created: 2026-04-29
 
 ### 2. Kanban in Practice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Demo overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/demo-overview?u=76281980)
@@ -420,7 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (2), finally, (1)
+> **Frameworks & Libraries:** [[Trello]] (4), [[Scrum]] (4), hit (3), next (2), mobile application (1)
 > **Analogies:** just like (1), picture (1), similar to (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [trello.com](https://trello.com) (1)
@@ -493,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Code Review]] (4), feature (3), [[Agile Development|Agile]] (1), teams (1)
 > **Env Vars:** mmf (2)
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
@@ -544,8 +546,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[Code Review]] (2), [[Software Development]] (1)
 > **Definitions:** stands for (1), means that (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** wip (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -601,15 +603,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Env Vars:** cfd (4)
-> **Code Keywords:** require (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Processes and Pitfalls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling process policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/handling-process-policies?u=76281980)
@@ -670,8 +672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (1), teams (1), management (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** pass (1), delete (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -710,6 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** setup (1)
@@ -836,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1)
+> **Frameworks & Libraries:** [[Code Review]] (10), product (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** go back to (1)
@@ -846,7 +849,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980)
@@ -869,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), next (1), [[Scrum]] (1), [[Microsoft Word|Word]] (1), business (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
 

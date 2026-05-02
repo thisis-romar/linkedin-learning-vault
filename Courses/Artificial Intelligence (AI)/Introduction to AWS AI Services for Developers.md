@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20AWS%20AI%20Services%20for%20Developers.md)
@@ -54,34 +54,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - AI assisted development with AWS
-  - What you should know
+  - [AI assisted development with AWS](#ai-assisted-development-with-aws)
+  - [What you should know](#what-you-should-know)
 - [**1. AWS CodeWhisperer**](#1-aws-codewhisperer) (3 videos)
-  - AI coding assistants
-  - AWS Toolkit
-  - Autogenerating code
+  - [AI coding assistants](#ai-coding-assistants)
+  - [AWS Toolkit](#aws-toolkit)
+  - [Autogenerating code](#autogenerating-code)
 - [**2. CodeGuru Security**](#2-codeguru-security) (8 videos)
-  - Shift-left testing
-  - AWS CodeGuru Security
-  - Track changes with AWS CodeCommit
-  - Visual Studio Code and AWS CodeCommit
-  - CodeGuru with AWS CodePipeline
-  - CodeGuru Dashboard
-  - CodeGuru Detector Library
-  - Closing a finding in CodeGuru Security
+  - [Shift-left testing](#shift-left-testing)
+  - [AWS CodeGuru Security](#aws-codeguru-security)
+  - [Track changes with AWS CodeCommit](#track-changes-with-aws-codecommit)
+  - [Visual Studio Code and AWS CodeCommit](#visual-studio-code-and-aws-codecommit)
+  - [CodeGuru with AWS CodePipeline](#codeguru-with-aws-codepipeline)
+  - [CodeGuru Dashboard](#codeguru-dashboard)
+  - [CodeGuru Detector Library](#codeguru-detector-library)
+  - [Closing a finding in CodeGuru Security](#closing-a-finding-in-codeguru-security)
 - [**3. CodeGuru Profiler**](#3-codeguru-profiler) (5 videos)
-  - Shift-right testing
-  - CodeGuru Profiler
-  - CodeGuru Profiler with Python
-  - CodeGuru Profiler groups
-  - CodeGuru Profiler reports
+  - [Shift-right testing](#shift-right-testing)
+  - [CodeGuru Profiler](#codeguru-profiler)
+  - [CodeGuru Profiler with Python](#codeguru-profiler-with-python)
+  - [CodeGuru Profiler groups](#codeguru-profiler-groups)
+  - [CodeGuru Profiler reports](#codeguru-profiler-reports)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Removing costs from CodeGuru
-  - More AI services
+  - [Removing costs from CodeGuru](#removing-costs-from-codeguru)
+  - [More AI services](#more-ai-services)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI assisted development with AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980)
@@ -106,8 +106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 
 #### What you should know
@@ -141,17 +141,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Python (Programming Language)|Python]] (3), ai (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Generative AI]] (1)
 > **CLI Commands:** aws (7), python (3)
 > **Env Vars:** aws (7), iam (2)
 > **Exercise Files:** sample code (2), exercise files (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Prerequisites:** set up (1)
 
 
 ### 1. AWS CodeWhisperer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI coding assistants
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980)
@@ -198,7 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), type, (1), let (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (4), next (3), [[Microsoft Copilot|Copilot]] (3), [[Programming]] (2), [[Microsoft]] (2)
 > **Tools:** github (4), visual studio (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), llm (1)
@@ -242,12 +242,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), [[Microsoft]] (1), [[Search]] (1), data (1)
 > **Env Vars:** aws (10), iam (1)
 > **CLI Commands:** aws (10)
 > **Tools:** visual studio (4)
 > **UI Navigation:** click on (2)
 > **Prerequisites:** install (1), you'll need (1)
-> **Code Keywords:** type, (1)
 > **Cross-References:** go back to (1)
 
 #### Autogenerating code
@@ -335,9 +335,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), hit (8), [[Git]] (6), next (4), aws (2)
 > **CLI Commands:** python (11), git (6), aws (2), make (1)
 > **Tools:** terminal (6), visual studio (5), github (1)
-> **Code Keywords:** type, (4), let (2), this. (1), continue (1)
 > **Env Vars:** aws (2), pwd (1), url (1), src (1)
 > **File Paths:** lambda_handler.py (2), sum_file_path.txt (1), filepath.txt (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -347,7 +347,7 @@ created: 2026-04-29
 
 ### 2. CodeGuru Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shift-left testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980)
@@ -388,8 +388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Agile Development|Agile]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), ci (1)
 > **Env Vars:** sdlc (2), tdd (1)
-> **Code Keywords:** finally, (1), for. (1)
 > **Cross-References:** earlier in (2)
 > **Definitions:** refers to (1), is called (1)
 
@@ -422,10 +422,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), product (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1), web (1)
 > **CLI Commands:** python (2), aws (1), find (1)
 > **Exercise Files:** source code (3)
 > **Definitions:** is called (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** aws (1)
 > **Tools:** visual studio (1)
 > **Analogies:** such as (1)
@@ -473,10 +473,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Security]] (3), [[GitHub]] (2), [[Search]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Env Vars:** aws (7), iam (2), https (2), url (2), api (1)
 > **CLI Commands:** aws (7), make (2), cd (1)
 > **Tools:** github (2), gitlab (1), bitbucket (1), aws console (1), visual studio (1)
-> **Code Keywords:** type, (3), switch (1)
 > **UI Navigation:** click on (4)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** source code (1)
@@ -535,8 +535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (6), [[Python (Programming Language)|Python]] (2), [[Security]] (2), cd (1), prompt (1)
 > **CLI Commands:** git (6), python (2), cd (1), aws (1)
-> **Code Keywords:** type, (7), let (2)
 > **Tools:** terminal (5), visual studio (3), aws console (1)
 > **UI Navigation:** click on (4), right-click (2), navigate to (1)
 > **Env Vars:** url (1), iam (1), aws (1)
@@ -601,11 +601,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), next (4), [[Security]] (3), [[Search]] (1), ci (1)
 > **CLI Commands:** aws (5), make (1), cd (1)
 > **Env Vars:** aws (5), iam (1)
 > **UI Navigation:** click on (6)
 > **Exercise Files:** template (5), sample code (1)
-> **Code Keywords:** type, (3)
 > **Prerequisites:** setup (1), you'll need (1), set up (1)
 > **Code Identifiers:** create_complete (1)
 
@@ -644,8 +644,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), aws (1), [[Search]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (6)
-> **Code Keywords:** type, (1), function (1), let (1)
 > **CLI Commands:** aws (1), python (1)
 > **Env Vars:** aws (1), cwe400 (1)
 > **Tools:** aws console (1)
@@ -688,10 +688,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[Security]] (3), [[Python (Programming Language)|Python]] (2), data (1)
 > **CLI Commands:** aws (3), python (2), make (1)
 > **Exercise Files:** source code (3), sample code (2)
 > **UI Navigation:** click on (4)
-> **Code Keywords:** public (2), let (1)
 > **Env Vars:** aws (3)
 
 #### Closing a finding in CodeGuru Security
@@ -759,7 +759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (4), function (3), switch (2), this, (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[Git]] (3), [[Windows]] (1), hit (1), aws (1)
 > **UI Navigation:** click on (5), scroll down (1), switch to (1)
 > **Tools:** visual studio (2), vs code (2), terminal (1), aws console (1)
 > **CLI Commands:** git (3), aws (1)
@@ -771,7 +771,7 @@ created: 2026-04-29
 
 ### 3. CodeGuru Profiler
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shift-right testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-right-testing?u=76281980)
@@ -794,7 +794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** traffic (4), application (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** apm (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -819,8 +819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), [[Python (Programming Language)|Python]] (2), aws (2), [[Debugging]] (1)
 > **CLI Commands:** python (2), aws (2), pip (1)
-> **Code Keywords:** lambda (2), pass (1), function (1)
 > **Env Vars:** jvm (2), aws (2)
 > **Exercise Files:** source code (1), sample code (1)
 > **Tools:** command line (1)
@@ -948,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (10), lambda (6), function (6), switch (2)
+> **Frameworks & Libraries:** [[Search]] (5), aws (4), next (4), [[Python (Programming Language)|Python]] (3), [[JSON]] (1)
 > **UI Navigation:** click on (10), scroll down (4), select the (3), scroll up (1), open the (1)
 > **CLI Commands:** aws (4), python (3), make (1), find (1)
 > **Env Vars:** aws (4), iam (1), json (1), s3_bucket (1)
@@ -978,7 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (2), function (2), let (1)
+> **Frameworks & Libraries:** application (3), data (3)
 > **UI Navigation:** click on (1)
 
 #### CodeGuru Profiler reports
@@ -1032,8 +1032,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), data (1), api (1)
 > **Env Vars:** cpu (8), aws (2), http (1), api (1)
-> **Code Keywords:** function (7), lambda (2), for, (1), else. (1)
 > **CLI Commands:** aws (2), make (2), find (2)
 > **UI Navigation:** click on (5), scroll down (1)
 > **Exercise Files:** sample code (1)
@@ -1042,7 +1042,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Removing costs from CodeGuru
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/removing-costs-from-codeguru?u=76281980)
@@ -1093,7 +1093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), lambda (4), switch (3), function (3), type, (1)
+> **Frameworks & Libraries:** [[Security]] (1), [[Search]] (1), aws (1)
 > **UI Navigation:** click on (4), select the (3), scroll down (1)
 > **CLI Commands:** find (1), aws (1)
 > **Env Vars:** aws (1)
@@ -1117,6 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), aws (3), [[Generative AI]] (1)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
 > **Tools:** visual studio (1)

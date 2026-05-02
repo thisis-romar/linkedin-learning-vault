@@ -24,7 +24,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Excel%20Desktop%20Microsoft%20365.md)
@@ -43,35 +43,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build your Excel foundation in Microsoft 365
-  - What you need to know
+  - [Build your Excel foundation in Microsoft 365](#build-your-excel-foundation-in-microsoft-365)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Get Started with Excel**](#1-get-started-with-excel) (8 videos)
-  - What is Excel?
-  - Create a new workbook
-  - Add text data
-  - Add numbers
-  - Add formulas and functions
-  - Copy and paste with relative cell referencing
-  - Use autofill
-  - Prevent relative addressing
+  - [What is Excel?](#what-is-excel)
+  - [Create a new workbook](#create-a-new-workbook)
+  - [Add text data](#add-text-data)
+  - [Add numbers](#add-numbers)
+  - [Add formulas and functions](#add-formulas-and-functions)
+  - [Copy and paste with relative cell referencing](#copy-and-paste-with-relative-cell-referencing)
+  - [Use autofill](#use-autofill)
+  - [Prevent relative addressing](#prevent-relative-addressing)
 - [**2. Modify Worksheets**](#2-modify-worksheets) (7 videos)
-  - Format text
-  - Format numbers
-  - Manage columns
-  - Manage rows
-  - Freeze panes
-  - Insert recommended charts
-  - Using Copilot
+  - [Format text](#format-text)
+  - [Format numbers](#format-numbers)
+  - [Manage columns](#manage-columns)
+  - [Manage rows](#manage-rows)
+  - [Freeze panes](#freeze-panes)
+  - [Insert recommended charts](#insert-recommended-charts)
+  - [Using Copilot](#using-copilot)
 - [**3. Share and Print Workbooks**](#3-share-and-print-workbooks) (3 videos)
-  - Print workbooks
-  - Send workbooks as email attachments
-  - Share workbooks using online options
+  - [Print workbooks](#print-workbooks)
+  - [Send workbooks as email attachments](#send-workbooks-as-email-attachments)
+  - [Share workbooks using online options](#share-workbooks-using-online-options)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Expand your Excel knowledge
+  - [Expand your Excel knowledge](#expand-your-excel-knowledge)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your Excel foundation in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980)
@@ -88,6 +88,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (1)
 > **Speakers:** - [david] (1)
 
 #### What you need to know
@@ -115,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft 365]] (3), business (1), [[Microsoft Excel]] (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -122,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Excel?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980)
@@ -159,8 +161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (13), data (10), [[Microsoft 365]] (2), application (1), [[Financial Data]] (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** function (1), continue (1), for. (1)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** before we start (1)
@@ -315,10 +317,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Search]] (4), business (4), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft 365]] (2)
 > **Analogies:** for example (3), picture (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** delete (1)
 > **Env Vars:** j11 (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** in other words (1)
@@ -459,7 +461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), default, (3), return, (1), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (3), [[Microsoft Word|Word]] (1), hit (1), [[Windows]] (1)
 > **UI Navigation:** go to (3), dropdown (1)
 > **Env Vars:** usd (1), usa (1)
 > **Analogies:** for example (2)
@@ -523,7 +525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (1), return, (1)
+> **Frameworks & Libraries:** next (4), data (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** usa (2), usd (2), pr0104 (1)
 > **Versions:** 4.031 (1), 2.99 (1), 3.02 (1)
 > **UI Navigation:** go to (2)
@@ -727,7 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), delete (4), continue (2), this. (2)
+> **Frameworks & Libraries:** hit (4), [[Microsoft Excel|Excel]] (1), data (1), next (1)
 > **Versions:** 2.62 (3), 3.62 (3), 4.031 (1), 3.115 (1), 1.908 (1)
 > **Env Vars:** sum (6)
 > **UI Navigation:** dropdown (2), go to (1), select the (1)
@@ -787,8 +789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), next (2), data (2)
 > **UI Navigation:** go to (4)
-> **Code Keywords:** let (2), function (1)
 > **Env Vars:** ctrl (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -903,7 +905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (4), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft 365]] (1), [[Forms]] (1), hit (1)
 > **Env Vars:** h12 (4), i12 (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
@@ -1017,8 +1019,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), hit (1), [[Microsoft Excel|Excel]] (1), data (1)
 > **Env Vars:** c10 (5), d10 (3), a10 (1)
-> **Code Keywords:** let (6)
 > **UI Navigation:** go to (5)
 > **Cross-References:** in the next (2), go back to (1)
 > **CLI Commands:** make (2)
@@ -1029,7 +1031,7 @@ created: 2026-04-29
 
 ### 2. Modify Worksheets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Format text
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980)
@@ -1174,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), continue (1), from, (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Windows]] (2), data (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (4), dropdown (3), scroll down (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** a10 (1), usa (1)
@@ -1326,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), from. (1), this. (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **Versions:** 0.15 (2), 4.031 (1), 4.03 (1), 3.051 (1), 3.1 (1)
 > **UI Navigation:** dropdown (3), go to (3)
 > **Analogies:** kind of like (2), just like (1), similar to (1)
@@ -1468,7 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (6), continue (1)
+> **Frameworks & Libraries:** data (3), next (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **UI Navigation:** dropdown (4), right-click (1), go to (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
@@ -1598,7 +1600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), let (4), case, (2)
+> **Frameworks & Libraries:** data (6), next (1)
 > **UI Navigation:** go to (4), right-click (3), select the (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -1711,7 +1713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (6), let (4), continue (2)
+> **Frameworks & Libraries:** data (7), [[Zoom]] (5), [[Microsoft Excel|Excel]] (3), feature (3), [[Microsoft 365]] (1)
 > **UI Navigation:** scroll down (2), go to (2), scroll up (1), dropdown (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -1841,7 +1843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), from. (2), from, (1), delete (1)
+> **Frameworks & Libraries:** data (12), feature (1), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1), hit (1)
 > **UI Navigation:** go to (3), select the (1), dropdown (1), scroll down (1)
 > **Best Practices:** recommended (5)
 > **Env Vars:** usa (4)
@@ -2069,7 +2071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (1), default. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21), data (11), cloud (6), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft 365]] (3)
 > **UI Navigation:** scroll up (3), go to (2), dropdown (2), select the (1)
 > **Analogies:** for example (3), it's like (1), just like (1)
 > **Cross-References:** go back to (1), coming up (1), in the next (1)
@@ -2081,7 +2083,7 @@ created: 2026-04-29
 
 ### 3. Share and Print Workbooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Print workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980)
@@ -2174,7 +2176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (1), from. (1), case, (1)
+> **Frameworks & Libraries:** next (3), [[Microsoft Excel|Excel]] (1), [[OneNote]] (1), hit (1)
 > **UI Navigation:** go to (3), dropdown (2)
 > **Analogies:** for example (3)
 > **Prerequisites:** you'll need (1), required to (1)
@@ -2256,8 +2258,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft 365]] (4), cloud (2), application (2), next (1)
 > **Env Vars:** pdf (4), fyi (2)
-> **Code Keywords:** let (2), case, (1), interface (1), this, (1)
 > **UI Navigation:** dropdown (2), go to (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** it's like (1)
@@ -2428,7 +2430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), continue (1), default, (1), switch (1)
+> **Frameworks & Libraries:** cloud (11), [[Microsoft Outlook|Outlook]] (5), [[Microsoft Excel|Excel]] (4), [[Microsoft OneDrive|Onedrive]] (3), business (2)
 > **UI Navigation:** dropdown (4), scroll down (1), go to (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (2), is an  (1), is a  (1)
@@ -2440,7 +2442,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expand your Excel knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980)
@@ -2461,6 +2463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft 365]] (3), [[LinkedIn]] (2), next (1), [[Pivot Tables]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 

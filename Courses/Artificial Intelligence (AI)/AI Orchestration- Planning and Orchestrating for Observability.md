@@ -36,7 +36,7 @@ tags:
   - skill/software-observability
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Planning%20and%20Orchestrating%20for%20Observability.md)
@@ -55,35 +55,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - AI orchestration for observability
-  - What you should know
+  - [AI orchestration for observability](#ai-orchestration-for-observability)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding AI Observability**](#1-understanding-ai-observability) (4 videos)
-  - What is AI observability?
-  - Goals of AI observability
-  - Benefits of AI observability
-  - The need for orchestration in observability
+  - [What is AI observability?](#what-is-ai-observability)
+  - [Goals of AI observability](#goals-of-ai-observability)
+  - [Benefits of AI observability](#benefits-of-ai-observability)
+  - [The need for orchestration in observability](#the-need-for-orchestration-in-observability)
 - [**2. Observability in AI Application Layers**](#2-observability-in-ai-application-layers) (4 videos)
-  - Observing infrastructure
-  - Observing models
-  - Observing caches and vector databases
-  - Observing orchestration frameworks
+  - [Observing infrastructure](#observing-infrastructure)
+  - [Observing models](#observing-models)
+  - [Observing caches and vector databases](#observing-caches-and-vector-databases)
+  - [Observing orchestration frameworks](#observing-orchestration-frameworks)
 - [**3. Planning for Observability**](#3-planning-for-observability) (5 videos)
-  - Creating an observability strategy
-  - Picking an orchestration framework
-  - Defining what to observe
-  - Picking an observability framework
-  - Picking a visualization framework
+  - [Creating an observability strategy](#creating-an-observability-strategy)
+  - [Picking an orchestration framework](#picking-an-orchestration-framework)
+  - [Defining what to observe](#defining-what-to-observe)
+  - [Picking an observability framework](#picking-an-observability-framework)
+  - [Picking a visualization framework](#picking-a-visualization-framework)
 - [**4. Orchestrating for Observability**](#4-orchestrating-for-observability) (4 videos)
-  - Creating a simple orchestrated AI application
-  - Instrumenting activity traces
-  - Evaluating the model
-  - Visualizing performance
+  - [Creating a simple orchestrated AI application](#creating-a-simple-orchestrated-ai-application)
+  - [Instrumenting activity traces](#instrumenting-activity-traces)
+  - [Evaluating the model](#evaluating-the-model)
+  - [Visualizing performance](#visualizing-performance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI orchestration for observability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/ai-orchestration-for-observability?u=76281980)
@@ -102,8 +102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), llm (2), data (1), next (1)
 > **Env Vars:** llm (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [fikayo] (1)
 
@@ -150,8 +150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Orchestration]] (6), ai (5), [[Large Language Models (LLM)|Large language models]] (2), [[Google Gemini]] (2), [[LangChain]] (2)
 > **Env Vars:** llm (1), gpt (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
@@ -159,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Understanding AI Observability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AI observability?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980)
@@ -228,7 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), let (1), case. (1), from. (1)
+> **Frameworks & Libraries:** ai (22), prompt (2), [[Generative AI]] (1), [[Vector Databases]] (1), web (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
@@ -331,7 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1)
+> **Frameworks & Libraries:** ai (31), application (7), next (5), data (4), [[Large Language Models (LLM)|Large language models]] (1)
 > **Cross-References:** previous video (1), next video (1), in the next (1)
 > **Definitions:** refers to (2)
 > **UI Navigation:** go to (1)
@@ -399,7 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), public (1)
+> **Frameworks & Libraries:** ai (20), application (2), [[Fine Tuning]] (1), data (1), prompt (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -501,8 +501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), llm (14), [[Orchestration]] (9), data (8), [[LangChain]] (5)
 > **Env Vars:** llm (14)
-> **Code Keywords:** let (2), this, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -511,7 +511,7 @@ created: 2026-04-29
 
 ### 2. Observability in AI Application Layers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Observing infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980)
@@ -610,8 +610,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), llm (7), next (5), ai (4), [[Capacity Planning]] (2)
 > **Env Vars:** llm (7), cpu (2), elk (1)
-> **Code Keywords:** let (3), finally, (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
 > **Warnings:** common mistake (1), troubleshoot (1)
@@ -718,9 +718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (7), next (4), data (4), application (2), ai (2)
 > **Env Vars:** llm (7)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** set up (2)
@@ -839,9 +839,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vector Databases]] (10), ai (8), database (8), data (7), llm (6)
 > **Env Vars:** llm (6), rag (5)
 > **Analogies:** for example (4), just like (1), such as (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** earlier in (1), next video (1)
 > **Definitions:** is a  (2)
@@ -943,19 +943,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Orchestration]] (17), llm (8), data (5), application (4), next (4)
 > **Env Vars:** llm (8), cpu (1), rag (1)
 > **Analogies:** for example (3), such as (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 
 
 ### 3. Planning for Observability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an observability strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980)
@@ -1042,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** application (19), data (8), ai (5), [[Orchestration]] (4), next (2)
 > **Env Vars:** llm (1), rag (1), elk (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -1138,8 +1138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), ai (6), [[LangChain]] (5), database (4), [[Orchestration]] (3)
 > **Env Vars:** llm (3), rag (1), pdf (1), sdk (1), gpt (1)
-> **Code Keywords:** static (2), from. (1), let (1), finally, (1)
 > **CLI Commands:** mysql (1), python (1)
 > **Versions:** 4.0 (1), 1.5 (1)
 > **Cross-References:** previous video (1), in the next (1)
@@ -1251,7 +1251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2)
+> **Frameworks & Libraries:** application (16), llm (5), next (4), ai (2), database (2)
 > **Env Vars:** llm (5), cpu (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
@@ -1363,9 +1363,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), application (6), next (5), llm (5), database (4)
 > **Env Vars:** llm (5), api (1), elk (1)
 > **Analogies:** for example (6)
-> **Code Keywords:** let (2), finally, (1), for. (1)
 > **Prerequisites:** setup (3), required to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1445,17 +1445,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Dashboards]] (3), application (2), llm (2), product (1)
 > **Env Vars:** elk (2), llm (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** setup (1), set up (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Orchestrating for Observability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a simple orchestrated AI application
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980)
@@ -1632,7 +1632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), type > (1), this . (1), finally, (1)
+> **Frameworks & Libraries:** application (9), [[Python (Programming Language)|Python]] (7), [[LangChain]] (6), [[JavaScript]] (6), next (6)
 > **CLI Commands:** python (7), python3 (2), pip (2), make (1)
 > **Env Vars:** api (8), openai_api_key (2), llm (1), gpt (1)
 > **Prerequisites:** install (7), set up (4), you'll need (1)
@@ -1954,7 +1954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), export. (2), this. (2), super (1), type, (1)
+> **Frameworks & Libraries:** api (13), [[LangChain]] (7), application (6), ai (4), [[JavaScript]] (4)
 > **Env Vars:** api (13), llm (2)
 > **Cross-References:** in the next (2), previous video (1)
 > **Tools:** command line (2), vs code (1)
@@ -2088,7 +2088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (3), this. (2), this, (2), function (1)
+> **Frameworks & Libraries:** [[Tokens]] (13), [[JavaScript]] (12), prompt (7), [[Metadata]] (4), data (3)
 > **Env Vars:** time (3), first (3), token (3), gpt (2), api (1)
 > **Versions:** 4.0 (2), 2.05 (2), 0.0005175 (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
@@ -2346,8 +2346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (17), api (10), next (9), [[Tokens]] (6), [[Search]] (5)
 > **Env Vars:** api (11), llm (2), tavily_api_key (1), langchain (1), langchain_callbacks_background (1)
-> **Code Keywords:** let (9), pass (2), this, (2), this. (1), lambda (1)
 > **Versions:** version 18 (2), 1.9 (2), 3.5 (2), 0.9 (2), 16.1 (1)
 > **CLI Commands:** node (3), make (2), find (1), npm (1), aws (1)
 > **Prerequisites:** install (3), set up (3)
@@ -2358,7 +2358,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980)
@@ -2389,6 +2389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Orchestration]] (4), [[LinkedIn]] (2), llm (1), application (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
 > **Tools:** github (1)

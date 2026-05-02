@@ -26,7 +26,7 @@ tags:
   - skill/marketing-leadership
   - skill/team-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Leading%20A%20Marketing%20Team.md)
@@ -45,31 +45,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - A challenging and critical role
+  - [A challenging and critical role](#a-challenging-and-critical-role)
 - [**1. Understanding Your Situation**](#1-understanding-your-situation) (5 videos)
-  - Understand your boss's expectations
-  - Build relationships with your peers
-  - Meet your new team
-  - Understand your market conditions
-  - Examine your resources
+  - [Understand your boss's expectations](#understand-your-bosss-expectations)
+  - [Build relationships with your peers](#build-relationships-with-your-peers)
+  - [Meet your new team](#meet-your-new-team)
+  - [Understand your market conditions](#understand-your-market-conditions)
+  - [Examine your resources](#examine-your-resources)
 - [**2. Building Your Strategy**](#2-building-your-strategy) (2 videos)
-  - Define marketing objectives
-  - Lead the planning process
+  - [Define marketing objectives](#define-marketing-objectives)
+  - [Lead the planning process](#lead-the-planning-process)
 - [**3. Building a Competent Team**](#3-building-a-competent-team) (4 videos)
-  - Assess your team's capabilities
-  - Build the right structure
-  - Recruit the best talent
-  - Training and development for your team
+  - [Assess your team's capabilities](#assess-your-teams-capabilities)
+  - [Build the right structure](#build-the-right-structure)
+  - [Recruit the best talent](#recruit-the-best-talent)
+  - [Training and development for your team](#training-and-development-for-your-team)
 - [**4. Running the Business**](#4-running-the-business) (3 videos)
-  - Create key performance indicators
-  - Manage unexpected events
-  - Lead marketing initiatives
+  - [Create key performance indicators](#create-key-performance-indicators)
+  - [Manage unexpected events](#manage-unexpected-events)
+  - [Lead marketing initiatives](#lead-marketing-initiatives)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue developing your career
+  - [Continue developing your career](#continue-developing-your-career)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A challenging and critical role
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/a-challenging-and-critical-role?u=76281980)
@@ -106,7 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** business (2), leadership (1), teams (1)
 > **Definitions:** is a  (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - congratulations (1)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Understanding Your Situation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand your boss's expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980)
@@ -203,7 +203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), finally, (1)
+> **Frameworks & Libraries:** next (2), career (1), [[Forms]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -289,8 +289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Human Resources (HR)|Human resources]] (1), teams (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** return. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** be careful (1)
@@ -359,7 +359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** the key is (1)
@@ -462,8 +462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), career (1), [[Microsoft Products|Products]] (1), [[Security]] (1), strengths (1)
 > **Analogies:** for example (3), similar to (1)
-> **Code Keywords:** this. (2), let (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - you (1)
 
@@ -562,14 +562,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Human Resources (HR)|Human resources]] (2), feature (2), hr (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
 
 ### 2. Building Your Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define marketing objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980)
@@ -642,8 +642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Marketing Strategy]] (1), business (1), data (1), teams (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), for. (1), throw (1)
 > **Env Vars:** smart (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - now (1)
@@ -715,8 +715,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (3), next (2), functional (1), product (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), function (1), public (1)
 > **Prerequisites:** you'll need (2)
 > **Env Vars:** romi (1)
 > **Cross-References:** in the next (1)
@@ -726,7 +726,7 @@ created: 2026-04-29
 
 ### 3. Building a Competent Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess your team's capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/assess-your-team-s-capabilities-2?u=76281980)
@@ -817,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), business (1), product (1), hr (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -887,8 +887,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), hr (2), [[Marketing Strategy]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** finally, (1), type. (1), require (1)
 > **Analogies:** for example (3)
 > **Speakers:** - given (1)
 
@@ -979,6 +979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), hr (1), strengths (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - perhaps (1)
@@ -1056,7 +1057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (2)
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1), teams (1), [[Simulation]] (1), business (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), imagine (1)
 > **Best Practices:** the key is (1)
@@ -1065,7 +1066,7 @@ created: 2026-04-29
 
 ### 4. Running the Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create key performance indicators
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/create-key-performance-indicators-2?u=76281980)
@@ -1136,6 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), data (1), product (1)
 > **Env Vars:** kpi (6)
 > **Analogies:** such as (3), for example (2)
 > **Speakers:** - you (1)
@@ -1231,8 +1233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), product (2), [[Microsoft Products|Products]] (2), [[React.js|React]] (2), next (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - marketing (1)
 
@@ -1319,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), finally, (1)
+> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (2), leadership (2), game (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - at (1)
@@ -1327,7 +1329,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue developing your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980)
@@ -1382,7 +1384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), finally, (1)
+> **Frameworks & Libraries:** management (3), career (2), teams (2), functional (1), [[Product Development]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)

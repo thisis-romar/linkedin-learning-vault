@@ -33,7 +33,7 @@ tags:
   - skill/customer-service
   - skill/customer-support
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Customer%20Service%20Foundations.md)
@@ -52,38 +52,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Keeping your customers happy
-  - Creating your customer service learning plan
+  - [Keeping your customers happy](#keeping-your-customers-happy)
+  - [Creating your customer service learning plan](#creating-your-customer-service-learning-plan)
 - [**1. Building Your Customer Service Skills**](#1-building-your-customer-service-skills) (4 videos)
-  - Defining customer service
-  - Identifying your customers
-  - Making a difference for customers
-  - Avoiding burnout by staying focused
+  - [Defining customer service](#defining-customer-service)
+  - [Identifying your customers](#identifying-your-customers)
+  - [Making a difference for customers](#making-a-difference-for-customers)
+  - [Avoiding burnout by staying focused](#avoiding-burnout-by-staying-focused)
 - [**2. Building Rapport with Your Customers**](#2-building-rapport-with-your-customers) (4 videos)
-  - Connecting rapport to outstanding service
-  - Implementing techniques to build rapport
-  - Starting a conversation
-  - Enhancing your likability
+  - [Connecting rapport to outstanding service](#connecting-rapport-to-outstanding-service)
+  - [Implementing techniques to build rapport](#implementing-techniques-to-build-rapport)
+  - [Starting a conversation](#starting-a-conversation)
+  - [Enhancing your likability](#enhancing-your-likability)
 - [**3. Exceeding Customer Expectations**](#3-exceeding-customer-expectations) (5 videos)
-  - Uncovering customer needs
-  - Actively listening to customers
-  - Identifying emotional needs
-  - Managing expectations
-  - Going the extra mile
+  - [Uncovering customer needs](#uncovering-customer-needs)
+  - [Actively listening to customers](#actively-listening-to-customers)
+  - [Identifying emotional needs](#identifying-emotional-needs)
+  - [Managing expectations](#managing-expectations)
+  - [Going the extra mile](#going-the-extra-mile)
 - [**4. Solving Customer Service Challenges**](#4-solving-customer-service-challenges) (7 videos)
-  - Taking ownership of problems
-  - Empathizing with customers
-  - Preventing negative emotions
-  - Defusing angry customers
-  - Anchoring your own attitude
-  - Expanding your influence
-  - Becoming a customer advocate
+  - [Taking ownership of problems](#taking-ownership-of-problems)
+  - [Empathizing with customers](#empathizing-with-customers)
+  - [Preventing negative emotions](#preventing-negative-emotions)
+  - [Defusing angry customers](#defusing-angry-customers)
+  - [Anchoring your own attitude](#anchoring-your-own-attitude)
+  - [Expanding your influence](#expanding-your-influence)
+  - [Becoming a customer advocate](#becoming-a-customer-advocate)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to build your customer service skills
+  - [Continuing to build your customer service skills](#continuing-to-build-your-customer-service-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping your customers happy
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/keeping-your-customers-happy?u=76281980)
@@ -120,8 +120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - customer (1)
 
 #### Creating your customer service learning plan
@@ -167,15 +167,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Customer Service Skills]] (1), application (1), next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - a (1)
 
 
 ### 1. Building Your Customer Service Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/defining-customer-service?u=76281980)
@@ -266,8 +266,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - i (2), - what (1), - you (1), - okay (1)
-> **Code Keywords:** this. (2), finally, (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
@@ -349,8 +349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), career (1), product (1), teams (1)
 > **Exercise Files:** download the (1), exercise file (1)
-> **Code Keywords:** return, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - customer (1)
 
@@ -415,8 +415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (1)
 > **Speakers:** - think (1)
 
 #### Avoiding burnout by staying focused
@@ -494,7 +494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), prompt (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** apa (1)
 > **Speakers:** - burnout (1)
@@ -502,7 +502,7 @@ created: 2026-04-29
 
 ### 2. Building Rapport with Your Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting rapport to outstanding service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/connecting-rapport-to-outstanding-service?u=76281980)
@@ -585,8 +585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (1), power (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - building (1)
@@ -684,9 +684,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1), next (1)
 > **Speakers:** - building (1), - oh (1), - hey (1), - well (1), - which (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), finally, (2)
 > **Exercise Files:** exercise file (2), download the (1)
 > **Analogies:** for instance (1)
 
@@ -761,6 +761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), generic (1), [[Technical Support]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6)
 > **Warnings:** caution (1)
 > **Speakers:** - one (1)
@@ -876,15 +877,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1)
 > **Speakers:** - thank (2), - customers (1), - good (1), - the (1), - now (1)
-> **Code Keywords:** let (3), this. (2)
 > **Analogies:** imagine (1)
 > **Best Practices:** remember to (1)
 
 
 ### 3. Exceeding Customer Expectations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Uncovering customer needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/uncovering-customer-needs?u=76281980)
@@ -963,9 +964,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Technical Support]] (2)
 > **Speakers:** - customers (1), - i (1), - okay (1), - yeah (1), - maria (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **Exercise Files:** download the (1), template (1)
 > **Analogies:** imagine (2)
 > **UI Navigation:** click on (1)
@@ -1088,9 +1089,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Speakers:** - yeah (2), - you (2), - customers (1), - hi (1), - yes (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (3), try. (1)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
 
@@ -1159,10 +1160,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1)
 > **Analogies:** such as (2), for instance (2)
 > **Speakers:** - think (1), - i (1), - were (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this. (1)
 > **Definitions:** is a  (1)
 
 #### Managing expectations
@@ -1254,8 +1255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Microsoft Products|Products]] (1), next (1)
 > **Analogies:** for instance (2), for example (2), such as (1)
-> **Code Keywords:** let (1), try. (1)
 > **CLI Commands:** make (1)
 > **Ports:** :00 (1)
 > **Exercise Files:** download the (1)
@@ -1360,8 +1361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3)
 > **Speakers:** - okay (4), - yeah (2), - providing (1), - many (1), - here (1)
-> **Code Keywords:** let (3), finally, (1), case. (1), try. (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
 > **Exercise Files:** download the (1)
@@ -1369,7 +1370,7 @@ created: 2026-04-29
 
 ### 4. Solving Customer Service Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking ownership of problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/taking-ownership-of-problems?u=76281980)
@@ -1480,8 +1481,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Speakers:** - that (2), - let (2), - have (1), - i (1), - who (1)
-> **Code Keywords:** let (6), finally, (1), this. (1)
 > **Analogies:** imagine (1), think of it as (1), for example (1), for instance (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
@@ -1568,9 +1569,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (3), next (2), [[Technical Support]] (1), application (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - i (3), - empathy (1), - yep (1), - that (1), - thanks (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -1646,7 +1647,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - so (2), - working (1), - but (1), - you (1), - okay (1)
-> **Code Keywords:** let (2), this, (1)
 > **Best Practices:** the key is (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
@@ -1760,8 +1760,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - this (2), - okay (2), - i (2), - in (1), - don (1)
-> **Code Keywords:** let (5), case, (1), finally, (1), try. (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** dmv (1)
 > **Analogies:** imagine (1)
@@ -1842,8 +1842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - customer (1)
@@ -1905,9 +1905,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), product (1), [[Technical Support]] (1), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** require (1)
 > **Exercise Files:** download the (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - one (1)
@@ -1993,8 +1993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Speakers:** - you (1), - so (1), - okay (1), - great (1), - well (1)
-> **Code Keywords:** let (1), this. (1), finally, (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -2002,7 +2002,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to build your customer service skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/continuing-to-build-your-customer-service-skills?u=76281980)
@@ -2049,8 +2049,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** continue (2)
 > **Definitions:** is a  (2)
 > **URLs:** [toistersolutions.com](https://toistersolutions.com) (1)
 > **Exercise Files:** download the (1)

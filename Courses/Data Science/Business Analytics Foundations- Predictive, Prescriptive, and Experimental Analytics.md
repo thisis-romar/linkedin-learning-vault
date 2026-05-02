@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics%20Foundations-%20Predictive%2C%20Prescriptive%2C%20and%20Experimental%20Analytics.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. Business Analytics (BA)**](#1-business-analytics-ba) (5 videos)
-  - What is business analytics?
-  - Business analytics compared
-  - Stages of business analytics
-  - Business analytics process
-  - Course use case
+  - [What is business analytics?](#what-is-business-analytics)
+  - [Business analytics compared](#business-analytics-compared)
+  - [Stages of business analytics](#stages-of-business-analytics)
+  - [Business analytics process](#business-analytics-process)
+  - [Course use case](#course-use-case)
 - [**2. Predictive Analytics (PRA)**](#2-predictive-analytics-pra) (4 videos)
-  - PRA definition
-  - PRA tools and techniques
-  - PRA use case
-  - PRA best practices
+  - [PRA definition](#pra-definition)
+  - [PRA tools and techniques](#pra-tools-and-techniques)
+  - [PRA use case](#pra-use-case)
+  - [PRA best practices](#pra-best-practices)
 - [**3. Prescriptive Analytics (PSA)**](#3-prescriptive-analytics-psa) (4 videos)
-  - PSA definition
-  - PSA tools and techniques
-  - PSA use case
-  - PSA best practices
+  - [PSA definition](#psa-definition)
+  - [PSA tools and techniques](#psa-tools-and-techniques)
+  - [PSA use case](#psa-use-case)
+  - [PSA best practices](#psa-best-practices)
 - [**4. Experimental Analytics (EXA)**](#4-experimental-analytics-exa) (4 videos)
-  - EXA definition
-  - EXA tools and techniques
-  - EXA use case
-  - EXA best practices
+  - [EXA definition](#exa-definition)
+  - [EXA tools and techniques](#exa-tools-and-techniques)
+  - [EXA use case](#exa-use-case)
+  - [EXA best practices](#exa-best-practices)
 - [**5. Trust and Safety Considerations**](#5-trust-and-safety-considerations) (4 videos)
-  - Compliance considerations
-  - Data security and protection
-  - Data privacy considerations
-  - Bias in business analytics
+  - [Compliance considerations](#compliance-considerations)
+  - [Data security and protection](#data-security-and-protection)
+  - [Data privacy considerations](#data-privacy-considerations)
+  - [Bias in business analytics](#bias-in-business-analytics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/welcome?u=76281980)
@@ -108,13 +108,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (8), business (6)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Business Analytics (BA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is business analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/what-is-business-analytics?u=76281980)
@@ -145,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12), [[Analytics]] (7), data (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Business analytics compared
@@ -194,7 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (11), [[Analytics]] (8), business (7), [[Data Engineering]] (4), [[Business Intelligence (BI)|Business intelligence]] (3)
 > **CLI Commands:** find (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [narrator] (1)
@@ -244,7 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Analytics]] (9), business (5), data (2), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
@@ -285,7 +286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (17), [[Analytics]] (4), business (3), [[Databases]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -336,14 +337,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (9), product (3), business (2), [[Microsoft Products|Products]] (1), [[Analytics]] (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Predictive Analytics (PRA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PRA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980)
@@ -396,7 +397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (11), [[Predictive Analytics]] (7), [[Analytics]] (2), [[Statistics]] (1), business (1)
 > **Speakers:** - [instructor] (1)
 
 #### PRA tools and techniques
@@ -476,7 +477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (1), class, (1), finally, (1)
+> **Frameworks & Libraries:** data (13), [[Supervised Learning]] (4), [[Predictive Analytics]] (2), product (2), [[Algorithms]] (2)
 > **Analogies:** for example (3), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
@@ -532,8 +533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Predictive Analytics]] (3), feature (2), [[Python (Programming Language)|Python]] (2), product (1)
 > **CLI Commands:** python (2), find (1)
-> **Code Keywords:** let (2), case. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -572,13 +573,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (5), [[Predictive Analytics]] (2), [[Algorithms]] (2), [[Analytics]] (2)
 > **Env Vars:** roi (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Prescriptive Analytics (PSA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PSA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980)
@@ -617,8 +619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (5), business (4), [[Predictive Analytics]] (2), [[Human Resources (HR)|Human resources]] (1), product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### PSA tools and techniques
@@ -696,9 +698,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (6), [[Analytics]] (5), [[Programming]] (4), business (4), next (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### PSA use case
@@ -770,7 +772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), continue (1)
+> **Frameworks & Libraries:** data (3), [[Analytics]] (1), next (1), hit (1), [[Fine Tuning]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### PSA best practices
@@ -802,13 +804,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (5), teams (2), [[Simulation]] (2), [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Experimental Analytics (EXA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### EXA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-definition?u=76281980)
@@ -855,8 +858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (11), [[Simulation]] (1), business (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 #### EXA tools and techniques
@@ -930,7 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), case. (2), let (1)
+> **Frameworks & Libraries:** next (3), [[Analytics]] (1), [[React.js|React]] (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -971,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** data (1), next (1), [[Analytics]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### EXA best practices
@@ -1003,13 +1006,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Trust and Safety Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compliance considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980)
@@ -1054,8 +1058,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Analytics]] (5), business (5), [[Ethics]] (2), [[Security]] (1)
 > **Env Vars:** gdpr (1), hippa (1), pci (1)
-> **Code Keywords:** let (1), private (1)
 > **Definitions:** refers to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1103,7 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), protected (1), finally, (1)
+> **Frameworks & Libraries:** data (17), business (5), [[Analytics]] (3), application (1), [[Databases]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1148,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), protected (2), this, (1)
+> **Frameworks & Libraries:** data (12), [[Analytics]] (7), [[Privacy]] (4), business (1), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Bias in business analytics
@@ -1198,13 +1202,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (11), business (5), data (5), [[Algorithms]] (2), product (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [presenter] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980)
@@ -1227,8 +1232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Analytics]] (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **CLI Commands:** python (1), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

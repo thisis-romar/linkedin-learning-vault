@@ -28,7 +28,7 @@ tags:
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/PLC%20Sequencer%20Logic.md)
@@ -47,64 +47,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting to know PLC sequencers
-  - What you should know before watching
-  - LogixPro PLC Simulator software
+  - [Getting to know PLC sequencers](#getting-to-know-plc-sequencers)
+  - [What you should know before watching](#what-you-should-know-before-watching)
+  - [LogixPro PLC Simulator software](#logixpro-plc-simulator-software)
 - [**1. PLC Sequencer Output Instruction (SQO)**](#1-plc-sequencer-output-instruction-sqo) (10 videos)
-  - Intro to sequencer instructions
-  - Sequencer output instruction (SQO)
-  - SQO parameters, part 1
-  - SQO parameters, part 2
-  - SQO operation example
-  - Example motor and pilot lights
-  - Ladder logic for motor and pilot lights
-  - Motor and pilot lights software demo
-  - Motor and pilot lights challenge
-  - Motor and pilot lights solution
+  - [Intro to sequencer instructions](#intro-to-sequencer-instructions)
+  - [Sequencer output instruction (SQO)](#sequencer-output-instruction-sqo)
+  - [SQO parameters, part 1](#sqo-parameters-part-1)
+  - [SQO parameters, part 2](#sqo-parameters-part-2)
+  - [SQO operation example](#sqo-operation-example)
+  - [Example motor and pilot lights](#example-motor-and-pilot-lights)
+  - [Ladder logic for motor and pilot lights](#ladder-logic-for-motor-and-pilot-lights)
+  - [Motor and pilot lights software demo](#motor-and-pilot-lights-software-demo)
+  - [Motor and pilot lights challenge](#motor-and-pilot-lights-challenge)
+  - [Motor and pilot lights solution](#motor-and-pilot-lights-solution)
 - [**2. SQO Examples**](#2-sqo-examples) (12 videos)
-  - Example dishwasher sequence
-  - Dishwasher sequence truth table
-  - Dishwasher sequence ladder logic
-  - Dishwasher software demo
-  - Dishwasher SQO challenge
-  - Dishwasher SQO solution
-  - Traffic lights example
-  - Traffic light sequence truth table
-  - Traffic light ladder logic
-  - Traffic light software demo
-  - Traffic light SQO challenge
-  - Traffic light SQO solution
+  - [Example dishwasher sequence](#example-dishwasher-sequence)
+  - [Dishwasher sequence truth table](#dishwasher-sequence-truth-table)
+  - [Dishwasher sequence ladder logic](#dishwasher-sequence-ladder-logic)
+  - [Dishwasher software demo](#dishwasher-software-demo)
+  - [Dishwasher SQO challenge](#dishwasher-sqo-challenge)
+  - [Dishwasher SQO solution](#dishwasher-sqo-solution)
+  - [Traffic lights example](#traffic-lights-example)
+  - [Traffic light sequence truth table](#traffic-light-sequence-truth-table)
+  - [Traffic light ladder logic](#traffic-light-ladder-logic)
+  - [Traffic light software demo](#traffic-light-software-demo)
+  - [Traffic light SQO challenge](#traffic-light-sqo-challenge)
+  - [Traffic light SQO solution](#traffic-light-sqo-solution)
 - [**3.PLC Sequencer Compare Instruction (SQC)**](#3plc-sequencer-compare-instruction-sqc) (8 videos)
-  - Sequencer compare instruction (SQC)
-  - Instruction SQC parameter
-  - Example: Three-machine products
-  - Three-machine truth table
-  - Three-machine ladder logic
-  - Three-machine software demo
-  - SQC instruction challenge
-  - SQC instruction solution
+  - [Sequencer compare instruction (SQC)](#sequencer-compare-instruction-sqc)
+  - [Instruction SQC parameter](#instruction-sqc-parameter)
+  - [Example: Three-machine products](#example-three-machine-products)
+  - [Three-machine truth table](#three-machine-truth-table)
+  - [Three-machine ladder logic](#three-machine-ladder-logic)
+  - [Three-machine software demo](#three-machine-software-demo)
+  - [SQC instruction challenge](#sqc-instruction-challenge)
+  - [SQC instruction solution](#sqc-instruction-solution)
 - [**4. PLC Sequencer Load Instruction (SQL)**](#4-plc-sequencer-load-instruction-sql) (8 videos)
-  - Sequencer load instruction (SQL)
-  - Instruction (SQL) parameter
-  - Illustrate operation of SQL
-  - Example of SQL
-  - SQL ladder logic
-  - SQL demo
-  - SQL instruction challenge
-  - SQL instruction solution
+  - [Sequencer load instruction (SQL)](#sequencer-load-instruction-sql)
+  - [Instruction (SQL) parameter](#instruction-sql-parameter)
+  - [Illustrate operation of SQL](#illustrate-operation-of-sql)
+  - [Example of SQL](#example-of-sql)
+  - [SQL ladder logic](#sql-ladder-logic)
+  - [SQL demo](#sql-demo)
+  - [SQL instruction challenge](#sql-instruction-challenge)
+  - [SQL instruction solution](#sql-instruction-solution)
 - [**5. Final Challenge**](#5-final-challenge) (6 videos)
-  - Final challenge introduction
-  - Car wash process
-  - Car wash truth table
-  - Car wash solution, part 1
-  - Car wash solution, part 2
-  - Sequencer things to consider
+  - [Final challenge introduction](#final-challenge-introduction)
+  - [Car wash process](#car-wash-process)
+  - [Car wash truth table](#car-wash-truth-table)
+  - [Car wash solution, part 1](#car-wash-solution-part-1)
+  - [Car wash solution, part 2](#car-wash-solution-part-2)
+  - [Sequencer things to consider](#sequencer-things-to-consider)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting to know PLC sequencers
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/getting-to-know-plc-sequencers?u=76281980)
@@ -135,6 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), [[Programming]] (3), [[LinkedIn]] (2), traffic (1), [[Simulation Software]] (1)
 > **Env Vars:** plc (3)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -163,8 +164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), plc (2), [[Simulation Software]] (2), [[LinkedIn]] (1)
 > **Env Vars:** plc (2), aris (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - this (1)
 
 #### LogixPro PLC Simulator software
@@ -184,13 +185,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), [[Simulation Software]] (3)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. PLC Sequencer Output Instruction (SQO)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to sequencer instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/intro-to-sequencer-instructions?u=76281980)
@@ -219,6 +221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (1), [[Programming]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Sequencer output instruction (SQO)
@@ -250,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (2), next (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
@@ -317,7 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), data (3)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -382,7 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), data (4), [[Simulation Software]] (2), plc (1), [[Programming]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** plc (1)
 > **Definitions:** is a  (1)
@@ -470,7 +473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (2), pass (2), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), data (3), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -555,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (1), this. (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), plc (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** plc (1)
 > **Exercise Files:** download the (1)
@@ -604,7 +607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), module (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), [[Simulation Software]] (1), plc (1)
 > **Env Vars:** plc (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -660,6 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (2), [[Simulation Software]] (1), [[Representational State Transfer (REST)|Rest]] (1), plc (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Env Vars:** plc (1)
 > **Exercise Files:** download the (1)
@@ -690,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), try, (1)
+> **Frameworks & Libraries:** plc (1)
 > **Env Vars:** plc (1)
 > **UI Navigation:** toggle (1)
 > **Warnings:** note that (1)
@@ -730,7 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5)
+> **Frameworks & Libraries:** hit (1)
 > **UI Navigation:** right-click (1), toggle (1)
 > **Exercise Files:** exercise files (1), download the (1)
 > **Analogies:** similar to (1)
@@ -740,7 +744,7 @@ created: 2026-04-29
 
 ### 2. SQO Examples
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Example dishwasher sequence
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/example-dishwasher-sequence?u=76281980)
@@ -773,7 +777,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Dishwasher sequence truth table
@@ -831,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Dishwasher sequence ladder logic
@@ -877,7 +880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), plc (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -930,6 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Simulation Software]] (1)
 > **Exercise Files:** download the (1)
 
 #### Dishwasher SQO challenge
@@ -949,7 +953,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1022,7 +1025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** traffic (4)
 > **Speakers:** - [instructor] (1)
 
 #### Traffic light sequence truth table
@@ -1060,6 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Traffic light ladder logic
@@ -1095,7 +1099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** traffic (2), next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1126,6 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), traffic (2), [[Simulation Software]] (1), hit (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1176,7 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** traffic (3), data (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno music) (1)
@@ -1216,6 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), traffic (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [educator] (1)
@@ -1224,7 +1230,7 @@ created: 2026-04-29
 
 ### 3.PLC Sequencer Compare Instruction (SQC)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequencer compare instruction (SQC)
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-compare-instruction-sqc?u=76281980)
@@ -1249,6 +1255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Analogies:** similar to (2), for example (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
@@ -1276,7 +1283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1)
+> **Frameworks & Libraries:** data (9), [[Big Data]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1295,7 +1302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), plc (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1344,7 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Three-machine ladder logic
@@ -1374,7 +1381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), data (1)
 > **Env Vars:** xio (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1413,7 +1420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3)
+> **Frameworks & Libraries:** hit (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** led (1)
 > **UI Navigation:** toggle (1)
 > **Exercise Files:** download the (1)
@@ -1456,7 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), plc (1)
 > **Env Vars:** plc (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1515,9 +1522,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (2)
 > **Env Vars:** b320 (3), b319 (1), r61 (1)
 > **UI Navigation:** scroll down (2), go to (1)
-> **Code Keywords:** finally, (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (funky music) (1)
@@ -1525,7 +1532,7 @@ created: 2026-04-29
 
 ### 4. PLC Sequencer Load Instruction (SQL)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequencer load instruction (SQL)
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-load-instruction-sql?u=76281980)
@@ -1568,7 +1575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), type. (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (2), plc (1), application (1), [[Quality Assurance]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** plc (1)
@@ -1591,6 +1598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1625,7 +1633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (2), next (1), [[Programming]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Example of SQL
@@ -1659,6 +1667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Simulation Software]] (1)
 > **Speakers:** - in (1)
 
 #### SQL ladder logic
@@ -1690,7 +1699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (2)
 
 #### SQL demo
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/sql-demo?u=76281980)
@@ -1739,8 +1748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Simulation Software]] (1), [[Microsoft Word|Word]] (1), next (1), hit (1)
 > **UI Navigation:** go to (2), right-click (1), click on (1)
-> **Code Keywords:** switch (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (clicking) (1)
@@ -1762,7 +1771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), try, (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1787,7 +1796,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1795,7 +1803,7 @@ created: 2026-04-29
 
 ### 5. Final Challenge
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final challenge introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/final-challenge-introduction?u=76281980)
@@ -1824,8 +1832,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - for (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1867,7 +1875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (8), let (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** data (3), next (2)
 > **Speakers:** - [instructor] (1)
 
 #### Car wash truth table
@@ -1953,6 +1961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** r61 (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
@@ -1980,6 +1989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** xic (1), r60 (1), xio (1), r62 (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
@@ -2010,6 +2020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), [[Simulation Software]] (1), data (1)
 > **Env Vars:** plc (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -2019,7 +2030,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/next-steps?u=76281980)
@@ -2038,8 +2049,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), [[Automation]] (3), [[Programming]] (1)
 > **Env Vars:** plc (3)
-> **Code Keywords:** continue (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - thanks (1)
 

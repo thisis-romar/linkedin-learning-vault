@@ -30,7 +30,7 @@ tags:
   - skill/search-engine-optimization-seo
   - skill/wordpress
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress-%20SEO.md)
@@ -49,44 +49,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Reach customers with SEO
-  - What you should know
+  - [Reach customers with SEO](#reach-customers-with-seo)
+  - [What you should know](#what-you-should-know)
 - [**1. SEO Principles**](#1-seo-principles) (6 videos)
-  - Fundamentals of SEO
-  - Keyword strategies
-  - SEO factors outside of WordPress
-  - SEO factors inside WordPress
-  - Speeding up your site
-  - Build for the mobile index
+  - [Fundamentals of SEO](#fundamentals-of-seo)
+  - [Keyword strategies](#keyword-strategies)
+  - [SEO factors outside of WordPress](#seo-factors-outside-of-wordpress)
+  - [SEO factors inside WordPress](#seo-factors-inside-wordpress)
+  - [Speeding up your site](#speeding-up-your-site)
+  - [Build for the mobile index](#build-for-the-mobile-index)
 - [**2. SEO All in One Pack**](#2-seo-all-in-one-pack) (7 videos)
-  - Install and activate All in One SEO Pack
-  - Complete Welcome Wizard
-  - Add SEO info for posts and pages
-  - Add focus key phrase
-  - Add XML sitemaps
-  - Add social meta
-  - Pro features
+  - [Install and activate All in One SEO Pack](#install-and-activate-all-in-one-seo-pack)
+  - [Complete Welcome Wizard](#complete-welcome-wizard)
+  - [Add SEO info for posts and pages](#add-seo-info-for-posts-and-pages)
+  - [Add focus key phrase](#add-focus-key-phrase)
+  - [Add XML sitemaps](#add-xml-sitemaps)
+  - [Add social meta](#add-social-meta)
+  - [Pro features](#pro-features)
 - [**3. WordPress SEO by Yoast**](#3-wordpress-seo-by-yoast) (6 videos)
-  - Install and activate Yoast SEO
-  - Import SEO content
-  - Configuration workout and initial setup
-  - Add SEO info to posts and pages
-  - Improve posts with the Yoast SEO optimizer
-  - Add social info to posts and pages
+  - [Install and activate Yoast SEO](#install-and-activate-yoast-seo)
+  - [Import SEO content](#import-seo-content)
+  - [Configuration workout and initial setup](#configuration-workout-and-initial-setup)
+  - [Add SEO info to posts and pages](#add-seo-info-to-posts-and-pages)
+  - [Improve posts with the Yoast SEO optimizer](#improve-posts-with-the-yoast-seo-optimizer)
+  - [Add social info to posts and pages](#add-social-info-to-posts-and-pages)
 - [**4. WordPress SEO by Yoast Settings**](#4-wordpress-seo-by-yoast-settings) (7 videos)
-  - Bulk edit posts and pages
-  - Configure search appearance
-  - ConfigureXML sitemaps
-  - Verify Google Search Console
-  - Redirect URLs automatically
-  - Yoast Premium plugins
-  - Build a reusable import file
+  - [Bulk edit posts and pages](#bulk-edit-posts-and-pages)
+  - [Configure search appearance](#configure-search-appearance)
+  - [ConfigureXML sitemaps](#configurexml-sitemaps)
+  - [Verify Google Search Console](#verify-google-search-console)
+  - [Redirect URLs automatically](#redirect-urls-automatically)
+  - [Yoast Premium plugins](#yoast-premium-plugins)
+  - [Build a reusable import file](#build-a-reusable-import-file)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Optimize your posts
+  - [Optimize your posts](#optimize-your-posts)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reach customers with SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** traffic (4), [[Search]] (2), seo (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[WordPress]] (1)
 > **Env Vars:** seo (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [patrick] (1)
@@ -147,6 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (4), [[WordPress]] (1), [[Search]] (1)
 > **Env Vars:** seo (4)
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
@@ -154,7 +155,7 @@ created: 2026-04-29
 
 ### 1. SEO Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals of SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980)
@@ -243,9 +244,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (11), seo (8), traffic (3), [[Google]] (2), data (2)
 > **Env Vars:** seo (8)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
@@ -300,7 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** [[Search]] (2), product (1), seo (1), traffic (1)
 > **Env Vars:** seo (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** before we start (1)
@@ -379,9 +380,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), seo (2), [[WordPress]] (2), [[Security]] (2), traffic (1)
 > **Env Vars:** ssl (7), seo (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** for. (1), let (1)
 > **Cross-References:** we mentioned (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
@@ -446,7 +447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (3), this, (1), case, (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), seo (2), [[Search]] (2), [[Google]] (2)
 > **Env Vars:** seo (2), url (2)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (3)
@@ -498,6 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Search]] (2), [[User Experience (UX)|User experience]] (1), traffic (1), [[Google]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** seo (1)
 > **Definitions:** is a  (1)
@@ -541,15 +543,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (6), seo (2), [[Search]] (2), traffic (1), web (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** seo (2)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. SEO All in One Pack
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and activate All in One SEO Pack
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-all-in-one-seo-pack?u=76281980)
@@ -588,8 +590,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (7), [[Search]] (2), next (1), feature (1), [[E-Commerce]] (1)
 > **Env Vars:** seo (7), xml (1)
-> **Code Keywords:** let (3), continue (1), new. (1)
 > **Prerequisites:** install (2), set up (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
@@ -692,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (6), self (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (6), data (3), business (2), [[Google]] (2), next (2)
 > **Prerequisites:** install (2), setup (1), set up (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -816,8 +818,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (8), [[Search]] (8), [[HTML]] (2), feature (1), [[Google]] (1)
 > **Env Vars:** seo (8), html (2), serp (1)
-> **Code Keywords:** let (8), case, (1), delete (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Cross-References:** go back to (1)
@@ -874,9 +876,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (3), [[Search]] (2)
 > **Env Vars:** seo (3), serp (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
@@ -961,8 +963,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), [[Google]] (5), seo (4), [[Analytics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** seo (4), xml (4), url (2)
-> **Code Keywords:** let (3), type, (1), private (1), this, (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** install (1), set up (1), configure (1)
@@ -1045,7 +1047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** seo (3), [[Representational State Transfer (REST)|Rest]] (2), next (1)
 > **Env Vars:** seo (3), url (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Prerequisites:** configure (2)
@@ -1077,6 +1079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (6), [[WooCommerce]] (2), traffic (1), product (1), [[WordPress]] (1)
 > **Env Vars:** seo (6)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1084,7 +1087,7 @@ created: 2026-04-29
 
 ### 3. WordPress SEO by Yoast
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and activate Yoast SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980)
@@ -1131,8 +1134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (10), [[WordPress]] (2), [[User Experience (UX)|User experience]] (1), [[Analytics]] (1), [[Content Creation]] (1)
 > **Env Vars:** seo (10)
-> **Code Keywords:** let (2), new. (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** install (2)
 > **Code Identifiers:** ecommerce (1)
@@ -1225,8 +1228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (13), data (7), [[Metadata]] (2), feature (1), [[WordPress]] (1)
 > **Env Vars:** seo (13)
-> **Code Keywords:** let (4), switch (2), export. (1), import. (1), import, (1)
 > **UI Navigation:** go to (3), click on (2), in the menu (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), go back to (1)
@@ -1311,7 +1314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (4), this, (1)
+> **Frameworks & Libraries:** [[Google]] (7), seo (6), data (4), [[Search]] (4), next (3)
 > **Env Vars:** seo (6)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), go to (1), in the menu (1)
@@ -1465,8 +1468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (14), [[Search]] (3), feature (2), [[Google]] (2), next (2)
 > **Env Vars:** seo (14), serp (2)
-> **Code Keywords:** let (8), this. (1), case. (1), default, (1), this, (1)
 > **UI Navigation:** go to (2), scroll down (2), click on (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
@@ -1651,7 +1654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (1), while. (1)
+> **Frameworks & Libraries:** [[Google]] (6), seo (6), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Search]] (2)
 > **UI Navigation:** scroll down (3), go to (2), scroll up (2), click on (2), in the sidebar (1)
 > **Env Vars:** seo (6), serp (1), html (1), url (1)
 > **CLI Commands:** make (5)
@@ -1700,6 +1703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (3), feature (1), [[Search]] (1)
 > **UI Navigation:** click on (3), in the sidebar (1)
 > **Env Vars:** seo (3)
 > **CLI Commands:** make (1), find (1)
@@ -1711,7 +1715,7 @@ created: 2026-04-29
 
 ### 4. WordPress SEO by Yoast Settings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bulk edit posts and pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980)
@@ -1798,7 +1802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (1), for. (1), case, (1), type. (1)
+> **Frameworks & Libraries:** [[Search]] (6), seo (4), [[Microsoft Products|Products]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** seo (4)
 > **Cross-References:** go back to (1)
@@ -1864,9 +1868,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), seo (6), next (1)
 > **Env Vars:** seo (6), serp (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), type. (1)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1940,9 +1944,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (7), [[Google]] (7), seo (3), game (1), next (1)
 > **Env Vars:** xml (7), seo (3)
 > **CLI Commands:** find (4), make (4)
-> **Code Keywords:** case, (2), let (1), delete (1)
 > **UI Navigation:** go to (1), scroll down (1), in the sidebar (1)
 > **Prerequisites:** install (1), configure (1)
 > **File Paths:** sitemap_index.xml (1)
@@ -1974,6 +1978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Google]] (3), feature (2), seo (1), api (1)
 > **Env Vars:** seo (1), api (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** click on (1)
@@ -2042,7 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Search]] (4), [[WordPress]] (2), seo (1), prompt (1)
 > **Env Vars:** url (5), seo (1), validate (1), fix (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -2099,8 +2104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (4), [[WooCommerce]] (3), [[WordPress]] (2), feature (2), [[Metadata]] (1)
 > **Env Vars:** seo (4)
-> **Code Keywords:** let (1), delete (1)
 > **CLI Commands:** make (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Definitions:** is a  (1)
@@ -2153,7 +2158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), export. (1)
+> **Frameworks & Libraries:** seo (2), feature (1), next (1)
 > **Env Vars:** seo (2), url (1)
 > **Prerequisites:** install (1), setup (1), set up (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -2164,7 +2169,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize your posts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980)
@@ -2201,6 +2206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (5), [[WordPress]] (1), game (1), traffic (1), hit (1)
 > **Env Vars:** seo (5)
 > **Best Practices:** the key is (1), recommended (1)
 > **Speakers:** - [educator] (1)

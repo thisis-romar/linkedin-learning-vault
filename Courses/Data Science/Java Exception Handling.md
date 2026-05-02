@@ -33,7 +33,7 @@ tags:
   - skill/exception-management
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Exception%20Handling.md)
@@ -52,32 +52,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why bother with exception handling?
-  - What are throwables?
+  - [Why bother with exception handling?](#why-bother-with-exception-handling)
+  - [What are throwables?](#what-are-throwables)
 - [**1. Errors in Java**](#1-errors-in-java) (2 videos)
-  - What are errors?
-  - Error: Uncaught StackOverflowError
+  - [What are errors?](#what-are-errors)
+  - [Error: Uncaught StackOverflowError](#error-uncaught-stackoverflowerror)
 - [**2. Exceptions in Java**](#2-exceptions-in-java) (5 videos)
-  - What are exceptions?
-  - Exception: IOException
-  - Exception: FileNotFoundException
-  - Challenge: Catch and handle two exceptions
-  - Solution: Catch and handle two exceptions
+  - [What are exceptions?](#what-are-exceptions)
+  - [Exception: IOException](#exception-ioexception)
+  - [Exception: FileNotFoundException](#exception-filenotfoundexception)
+  - [Challenge: Catch and handle two exceptions](#challenge-catch-and-handle-two-exceptions)
+  - [Solution: Catch and handle two exceptions](#solution-catch-and-handle-two-exceptions)
 - [**3. Runtime Exceptions in Java**](#3-runtime-exceptions-in-java) (8 videos)
-  - What are runtime exceptions?
-  - Runtime exception: Return NumberFormatException to user
-  - Challenge: Handle an ArithmeticException
-  - Solution: Handle an ArithmeticException
-  - Runtime exception: Handling of NullPointerException
-  - Runtime exception: Unknown runtime exception
-  - Challenge: Handle potential runtime exceptions
-  - Solution: Handle potential runtime exceptions
+  - [What are runtime exceptions?](#what-are-runtime-exceptions)
+  - [Runtime exception: Return NumberFormatException to user](#runtime-exception-return-numberformatexception-to-user)
+  - [Challenge: Handle an ArithmeticException](#challenge-handle-an-arithmeticexception)
+  - [Solution: Handle an ArithmeticException](#solution-handle-an-arithmeticexception)
+  - [Runtime exception: Handling of NullPointerException](#runtime-exception-handling-of-nullpointerexception)
+  - [Runtime exception: Unknown runtime exception](#runtime-exception-unknown-runtime-exception)
+  - [Challenge: Handle potential runtime exceptions](#challenge-handle-potential-runtime-exceptions)
+  - [Solution: Handle potential runtime exceptions](#solution-handle-potential-runtime-exceptions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with exception handling
+  - [Next steps with exception handling](#next-steps-with-exception-handling)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why bother with exception handling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/why-bother-with-exception-handling?u=76281980)
@@ -98,7 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Debugging]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What are throwables?
@@ -166,8 +166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Representational State Transfer (REST)|Rest]] (3), [[Spring Boot]] (2), api (2), [[Java]] (2)
 > **Env Vars:** rest (3), api (2), http (1)
-> **Code Keywords:** throw (2), class. (1), continue (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** later in (1)
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Errors in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are errors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-errors?u=76281980)
@@ -227,7 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), throw (1), continue (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Documentation:** stack overflow (4)
 > **Env Vars:** jvm (1)
 > **Definitions:** is an  (1)
@@ -323,8 +323,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Spring Boot]] (1), api (1)
 > **Env Vars:** ide (3), jvm (2), rest (2), api (1), http (1)
-> **Code Keywords:** let (3), case, (2), pass (1), private (1), interface (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Tools:** postman (2), command line (1)
 > **CLI Commands:** find (1), make (1)
@@ -335,7 +335,7 @@ created: 2026-04-29
 
 ### 2. Exceptions in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980)
@@ -384,7 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** catch. (1), class, (1), continue (1), case, (1), require (1)
+> **Frameworks & Libraries:** [[Java]] (2), api (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** npe (2), ide (1), api (1)
 > **Definitions:** known as (1)
 > **Warnings:** warning (1)
@@ -483,7 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (4), let (4), this, (1)
+> **Frameworks & Libraries:** application (4), [[Git]] (1), next (1)
 > **Env Vars:** ide (5), git (1), rit (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** git (1), find (1)
@@ -610,7 +610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), throw (2), catch. (2), private (1)
+> **Frameworks & Libraries:** application (5), [[JSON]] (1), generic (1), [[Security]] (1)
 > **Env Vars:** ide (2), gui (1), url (1), txt (1), json (1)
 > **Definitions:** is a  (5)
 > **File Paths:** fib.txt (3), fibonacci.txt (1)
@@ -666,8 +666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), application (2), api (1)
 > **Env Vars:** http (3), rest (2), api (1), gui (1), ide (1)
-> **Code Keywords:** throw (3)
 > **Tools:** postman (3)
 > **CLI Commands:** find (1)
 > **Documentation:** stack overflow (1)
@@ -747,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), case, (1)
+> **Frameworks & Libraries:** application (2)
 > **Code Identifiers:** fibnum (3)
 > **Env Vars:** ide (2)
 > **CLI Commands:** find (1)
@@ -759,7 +759,7 @@ created: 2026-04-29
 
 ### 3. Runtime Exceptions in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are runtime exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-runtime-exceptions?u=76281980)
@@ -810,10 +810,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Env Vars:** npe (2), jvm (1), ide (1)
 > **Cross-References:** later in (1), in the last (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for instance (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -957,7 +957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), throw (3), finally, (1), this, (1)
+> **Frameworks & Libraries:** application (8), api (1), next (1), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (2), ide (2), api (1), gui (1), rest (1)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** find (3)
@@ -1047,8 +1047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), application (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** return. (1), let (1), pass (1)
 > **Env Vars:** url (1), http (1)
 > **Tools:** postman (2)
 > **Definitions:** is a  (1)
@@ -1105,8 +1105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), next (1), [[Banking]] (1)
 > **Definitions:** is a  (2), defined as (1)
-> **Code Keywords:** continue (1), this, (1)
 > **Env Vars:** ide (1)
 > **Versions:** 10.00 (1)
 > **Tools:** postman (1)
@@ -1223,7 +1223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), pass (2), continue (1), this. (1)
+> **Frameworks & Libraries:** application (2), generic (2)
 > **Env Vars:** npe (4), ide (4), http (2), jvm (1), gui (1)
 > **Warnings:** warning (3), note that (1)
 > **Definitions:** means that (2)
@@ -1292,9 +1292,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (2), application (2), [[Metadata]] (1), [[Debugging]] (1), [[Security]] (1)
 > **CLI Commands:** make (2), snap (1)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** case, (1)
 > **Env Vars:** npe (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1328,6 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (3)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
@@ -1403,17 +1404,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (4), next (1), application (1)
 > **Code Identifiers:** findnumber (1), createsequence (1), getsequence (1), findratio (1)
 > **Env Vars:** npe (1), ide (1), bad_request (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** catch. (1), this. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980)
@@ -1434,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** feature (1), [[Java]] (1), [[Spring Data]] (1), cloud (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Env Vars:** mvc (1)
 > **Speakers:** - [instructor] (1)
 

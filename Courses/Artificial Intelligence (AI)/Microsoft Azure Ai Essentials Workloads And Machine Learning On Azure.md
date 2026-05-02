@@ -30,7 +30,7 @@ tags:
   - skill/azure-ai-foundry
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Microsoft%20Azure%20Ai%20Essentials%20Workloads%20And%20Machine%20Learning%20On%20Azure.md)
@@ -49,85 +49,85 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The essentials of Azure AI
+  - [The essentials of Azure AI](#the-essentials-of-azure-ai)
 - [**1. Understanding AI**](#1-understanding-ai) (2 videos)
-  - Definition, history, and evolution of AI
-  - Importance of learning AI
+  - [Definition, history, and evolution of AI](#definition-history-and-evolution-of-ai)
+  - [Importance of learning AI](#importance-of-learning-ai)
 - [**2. Azure Machine Learning**](#2-azure-machine-learning) (11 videos)
-  - Overview of machine learning
-  - Types of machine learning
-  - Understanding regression
-  - Binary classification
-  - Multiclass classification
-  - Understanding clustering
-  - Neural networks and deep learning
-  - Azure machine learning capabilities
-  - Practical application of machine learning in business
-  - Creating an Azure machine learning resource
-  - Azure machine learning demo
+  - [Overview of machine learning](#overview-of-machine-learning)
+  - [Types of machine learning](#types-of-machine-learning)
+  - [Understanding regression](#understanding-regression)
+  - [Binary classification](#binary-classification)
+  - [Multiclass classification](#multiclass-classification)
+  - [Understanding clustering](#understanding-clustering)
+  - [Neural networks and deep learning](#neural-networks-and-deep-learning)
+  - [Azure machine learning capabilities](#azure-machine-learning-capabilities)
+  - [Practical application of machine learning in business](#practical-application-of-machine-learning-in-business)
+  - [Creating an Azure machine learning resource](#creating-an-azure-machine-learning-resource)
+  - [Azure machine learning demo](#azure-machine-learning-demo)
 - [**3. Computer Vision**](#3-computer-vision) (9 videos)
-  - Overview of computer vision
-  - Deep learning for computer vision
-  - Introduction to Azure AI Vision
-  - Introduction to Azure AI Custom Vision
-  - Introduction to facial analysis and Azure AI Face
-  - Practical application of computer vision in business
-  - Creating an Azure AI Vision, Custom Vision, and Face resource
-  - Azure AI Vision demo
-  - Azure AI Custom Vision demo
+  - [Overview of computer vision](#overview-of-computer-vision)
+  - [Deep learning for computer vision](#deep-learning-for-computer-vision)
+  - [Introduction to Azure AI Vision](#introduction-to-azure-ai-vision)
+  - [Introduction to Azure AI Custom Vision](#introduction-to-azure-ai-custom-vision)
+  - [Introduction to facial analysis and Azure AI Face](#introduction-to-facial-analysis-and-azure-ai-face)
+  - [Practical application of computer vision in business](#practical-application-of-computer-vision-in-business)
+  - [Creating an Azure AI Vision, Custom Vision, and Face resource](#creating-an-azure-ai-vision-custom-vision-and-face-resource)
+  - [Azure AI Vision demo](#azure-ai-vision-demo)
+  - [Azure AI Custom Vision demo](#azure-ai-custom-vision-demo)
 - [**4. Natural Language Processing**](#4-natural-language-processing) (9 videos)
-  - Overview of natural language processing
-  - Introduction to Azure AI Language
-  - Introduction to Azure AI Translator
-  - Understanding speech recognition and synthesis
-  - Introduction to Azure AI Speech
-  - Practical application of natural language processing in business
-  - Creating an Azure AI Language and Azure AI Speech resource
-  - Azure AI Language demo
-  - Azure AI Speech demo
+  - [Overview of natural language processing](#overview-of-natural-language-processing)
+  - [Introduction to Azure AI Language](#introduction-to-azure-ai-language)
+  - [Introduction to Azure AI Translator](#introduction-to-azure-ai-translator)
+  - [Understanding speech recognition and synthesis](#understanding-speech-recognition-and-synthesis)
+  - [Introduction to Azure AI Speech](#introduction-to-azure-ai-speech)
+  - [Practical application of natural language processing in business](#practical-application-of-natural-language-processing-in-business)
+  - [Creating an Azure AI Language and Azure AI Speech resource](#creating-an-azure-ai-language-and-azure-ai-speech-resource)
+  - [Azure AI Language demo](#azure-ai-language-demo)
+  - [Azure AI Speech demo](#azure-ai-speech-demo)
 - [**5. Document Intelligence, Content Safety, and Knowledge Mining**](#5-document-intelligence-content-safety-and-knowledge-mining) (9 videos)
-  - Overview of document intelligence
-  - Azure AI Document Intelligence
-  - Introduction to Azure AI Content Safety
-  - Understanding knowledge mining and the elements of a search solution
-  - Introduction to Azure AI Search
-  - Practical application of these technologies in business
-  - Azure AI Document Intelligence demo
-  - Azure AI Content Safety demo
-  - Azure AI Search demo
+  - [Overview of document intelligence](#overview-of-document-intelligence)
+  - [Azure AI Document Intelligence](#azure-ai-document-intelligence)
+  - [Introduction to Azure AI Content Safety](#introduction-to-azure-ai-content-safety)
+  - [Understanding knowledge mining and the elements of a search solution](#understanding-knowledge-mining-and-the-elements-of-a-search-solution)
+  - [Introduction to Azure AI Search](#introduction-to-azure-ai-search)
+  - [Practical application of these technologies in business](#practical-application-of-these-technologies-in-business)
+  - [Azure AI Document Intelligence demo](#azure-ai-document-intelligence-demo)
+  - [Azure AI Content Safety demo](#azure-ai-content-safety-demo)
+  - [Azure AI Search demo](#azure-ai-search-demo)
 - [**6. Generative AI**](#6-generative-ai) (11 videos)
-  - Overview of generative AI
-  - Traditional model development vs. foundation models
-  - Token, embeddings, transformer model
-  - Using language models: LLM vs. SLM
-  - Improving your prompts
-  - Introduction to Microsoft Copilot
-  - Customizing language models
-  - Introduction to Azure AI Foundry
-  - Introduction to Azure OpenAI
-  - Practical application of generative AI in business
-  - Azure AI Foundry demo
+  - [Overview of generative AI](#overview-of-generative-ai)
+  - [Traditional model development vs. foundation models](#traditional-model-development-vs-foundation-models)
+  - [Token, embeddings, transformer model](#token-embeddings-transformer-model)
+  - [Using language models: LLM vs. SLM](#using-language-models-llm-vs-slm)
+  - [Improving your prompts](#improving-your-prompts)
+  - [Introduction to Microsoft Copilot](#introduction-to-microsoft-copilot)
+  - [Customizing language models](#customizing-language-models)
+  - [Introduction to Azure AI Foundry](#introduction-to-azure-ai-foundry)
+  - [Introduction to Azure OpenAI](#introduction-to-azure-openai)
+  - [Practical application of generative AI in business](#practical-application-of-generative-ai-in-business)
+  - [Azure AI Foundry demo](#azure-ai-foundry-demo)
 - [**7. Responsible AI**](#7-responsible-ai) (8 videos)
-  - Importance of responsible use of AI
-  - Achieving AI fairness
-  - Achieving AI reliability and safety
-  - Achieving AI privacy and security
-  - Achieving AI inclusivity
-  - Achieving AI transparency
-  - Achieving AI accountability
-  - Real-life samples of responsible AI
+  - [Importance of responsible use of AI](#importance-of-responsible-use-of-ai)
+  - [Achieving AI fairness](#achieving-ai-fairness)
+  - [Achieving AI reliability and safety](#achieving-ai-reliability-and-safety)
+  - [Achieving AI privacy and security](#achieving-ai-privacy-and-security)
+  - [Achieving AI inclusivity](#achieving-ai-inclusivity)
+  - [Achieving AI transparency](#achieving-ai-transparency)
+  - [Achieving AI accountability](#achieving-ai-accountability)
+  - [Real-life samples of responsible AI](#real-life-samples-of-responsible-ai)
 - [**8. Transform Your Business with Microsoft AI**](#8-transform-your-business-with-microsoft-ai) (4 videos)
-  - Microsoft AI approach
-  - Creating an AI strategy for your business
-  - AI opportunities in different industries
-  - Career opportunities in AI
+  - [Microsoft AI approach](#microsoft-ai-approach)
+  - [Creating an AI strategy for your business](#creating-an-ai-strategy-for-your-business)
+  - [AI opportunities in different industries](#ai-opportunities-in-different-industries)
+  - [Career opportunities in AI](#career-opportunities-in-ai)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Key takeaways from the course
-  - Resources for further learning
+  - [Key takeaways from the course](#key-takeaways-from-the-course)
+  - [Resources for further learning](#resources-for-further-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The essentials of Azure AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980)
@@ -148,14 +148,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), [[Microsoft]] (3), career (1), [[Microsoft Azure|Azure]] (1), [[Responsible AI]] (1)
 > **Env Vars:** mvp (1)
 > **Speakers:** - ai (1)
 
 
 ### 1. Understanding AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Definition, history, and evolution of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980)
@@ -236,9 +236,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Excel|Excel]] (1), [[Programming]] (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** pass (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -297,15 +297,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), [[Microsoft Azure]] (4), [[Microsoft]] (3), business (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** idc (1), roi (1)
-> **Code Keywords:** finally, (1)
 > **Versions:** 3.50 (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 2. Azure Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-machine-learning?u=76281980)
@@ -356,7 +356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (2), let (1), function (1)
+> **Frameworks & Libraries:** data (8), next (3), [[Algorithms]] (2), ai (1)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -420,8 +420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (3), [[Supervised Learning]] (3), feature (2), [[User Experience (UX)|User experience]] (2)
 > **Analogies:** for example (5), just like (1), such as (1)
-> **Code Keywords:** class. (1), finally, (1), continue (1)
 > **CLI Commands:** find (1), cat (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -491,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (1), [[Linear Regression]] (1)
 > **Env Vars:** mse (3), mae (2), rmse (1)
-> **Code Keywords:** finally, (3), yield (1)
 > **Definitions:** in other words (1), is an  (1), is a  (1)
 > **Versions:** 2.33 (1), 2.45 (1)
 > **Warnings:** keep in mind (1), note that (1)
@@ -572,7 +572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), class. (1), fn (1), case. (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), data (2), [[Probability]] (2), [[Logistic Regression]] (2)
 > **Versions:** 0.5 (4), 0.7 (1), 0.3 (1), 0.86 (1)
 > **Env Vars:** auc (4), bmi (1)
 > **Analogies:** for example (1), for instance (1), similar to (1)
@@ -623,7 +623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), function (2), let (1), this, (1), type. (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Probability]] (4), data (2), [[Representational State Transfer (REST)|Rest]] (2), [[Linear Regression]] (1)
 > **Versions:** 0.5 (2), 0.2 (1), 0.3 (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -690,7 +690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Env Vars:** dbscan (1)
 > **Definitions:** is a  (1)
@@ -747,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (1), type. (1), function (1)
+> **Frameworks & Libraries:** data (3), [[Neural Networks]] (2), [[Deep Learning]] (2), [[Forms]] (1), feature (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
@@ -785,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), data (2), [[Responsible AI]] (2), [[Microsoft Azure]] (1), cloud (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Tools:** jupyter (1)
@@ -834,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1), static (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (3), [[Metadata]] (2), data (2), [[Security]] (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
@@ -899,8 +899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft Products|Products]] (1), [[Search]] (1)
 > **UI Navigation:** go to (3), click on (2)
-> **Code Keywords:** let (3), this. (1)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Env Vars:** url (1)
 > **Tools:** azure portal (1)
@@ -1003,7 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (2), case, (2), interface (2), type. (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Azure|Azure]] (6), [[Algorithms]] (3), [[Python (Programming Language)|Python]] (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1)
 > **CLI Commands:** python (2), make (1)
 > **UI Navigation:** drag and drop (2), go to (1)
 > **Tools:** jupyter (2)
@@ -1014,7 +1014,7 @@ created: 2026-04-29
 
 ### 3. Computer Vision
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of computer vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980)
@@ -1053,6 +1053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Vision]] (3), traffic (3), data (2), ai (1), [[Databases]] (1)
 > **Analogies:** for example (1), for instance (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1130,9 +1131,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), [[Deep Learning]] (3), [[Computer Vision]] (3), cnn (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Analogies:** for example (2), imagine (1), for instance (1)
 > **Env Vars:** cnn (3)
-> **Code Keywords:** let (1), function (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1187,9 +1188,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Microsoft Azure|Azure]] (14), [[Computer Vision]] (3), [[Search]] (2), [[Microsoft Azure]] (1)
 > **Analogies:** for example (1), for instance (1), such as (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** interface (1)
 > **Env Vars:** ocr (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [presenter] (1)
@@ -1227,7 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (3), [[Microsoft Azure|Azure]] (2), [[Microsoft Products|Products]] (2), [[Microsoft]] (1), management (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1271,8 +1272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), ai (3), [[Banking]] (1), [[Security]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** include, (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1327,9 +1328,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Vision]] (9), management (3), [[Microsoft Azure|Azure]] (2), business (1), [[E-Commerce]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** public (1)
 > **Env Vars:** usa (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1382,9 +1383,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), ai (7), [[Search]] (2), [[Computer Vision]] (2), [[Microsoft]] (2)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** api (1)
 > **Tools:** azure portal (1)
 > **Analogies:** similar to (1)
@@ -1446,7 +1447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), ai (5), [[Computer Vision]] (1), [[JSON]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** json (1), ocr (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1500,8 +1501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Search]] (2), data (1), traffic (1), ai (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1510,7 +1511,7 @@ created: 2026-04-29
 
 ### 4. Natural Language Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980)
@@ -1553,6 +1554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[E-Commerce]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** nlp (3), nlu (1), nlg (1), ner (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -1607,9 +1609,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (7), data (2), cloud (1), [[Microsoft]] (1)
 > **Env Vars:** ner (1), url (1), faq (1), clu (1), rest (1)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** include, (1), protected (1), switch (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1646,6 +1648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (4), [[Microsoft Word|Word]] (2), cloud (1), [[Microsoft]] (1)
 > **Analogies:** such as (2)
 > **Tools:** visual studio (1)
 > **Definitions:** is a  (1)
@@ -1678,7 +1681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (3), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1741,8 +1744,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (4), [[Real-Time]] (2), data (2), [[Microsoft]] (1)
 > **Env Vars:** api (1), ssml (1), rest (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1787,8 +1790,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), ai (12), data (4), [[Microsoft]] (1), [[Microsoft Office]] (1)
 > **Env Vars:** sos (1), kpmg (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Creating an Azure AI Language and Azure AI Speech resource
@@ -1822,6 +1825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (6), [[Search]] (5), data (1), next (1)
 > **Prerequisites:** set up (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -1877,7 +1881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (4), feature (4), [[Search]] (1), data (1)
 > **Env Vars:** pii (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (1), for instance (1)
@@ -1967,16 +1971,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (4), [[Forecasting]] (2), [[Search]] (1), business (1)
 > **Speakers:** - [instructor] (6), - [computer] (5)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** select the (1)
 > **Warnings:** note that (1)
 
 
 ### 5. Document Intelligence, Content Safety, and Knowledge Mining
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of document intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980)
@@ -2023,7 +2027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (6), [[Forms]] (3), business (2), [[Unstructured Data]] (2), [[Databases]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Env Vars:** kyc (1)
 > **Speakers:** - [instructor] (1)
@@ -2075,6 +2079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Microsoft Azure|Azure]] (8), [[Forms]] (2), cloud (1), data (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** ocr (1)
 > **Definitions:** is a  (1)
@@ -2123,7 +2128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), protected (1), finally, (1)
+> **Frameworks & Libraries:** ai (9), prompt (5), [[Microsoft Azure|Azure]] (4), [[Generative AI]] (1), product (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
@@ -2182,9 +2187,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), ai (8), [[Search]] (8), business (2), [[Metadata]] (2)
 > **Definitions:** refers to (1), is a  (1), is an  (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** abstract (1), finally, (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2221,8 +2226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), [[Microsoft Azure|Azure]] (7), data (7), ai (6), [[Unstructured Data]] (1)
 > **Env Vars:** sql (1), ocr (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2273,7 +2278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (5), data (2), [[Search]] (2), prompt (2)
 > **Env Vars:** axa (2), nbg (1)
 > **Versions:** 0.5 (1), 1.3 (1)
 > **Speakers:** - [speaker] (1)
@@ -2319,9 +2324,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (3), [[Search]] (2), data (2), [[JSON]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Analogies:** for instance (1), for example (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** json (1)
 > **Tools:** azure portal (1)
 > **Exercise Files:** sample code (1)
@@ -2381,7 +2386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), protected (1), self (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Search]] (2), ai (1), feature (1), prompt (1)
 > **Env Vars:** dan (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** select the (1)
@@ -2454,7 +2459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (1)
+> **Frameworks & Libraries:** [[Search]] (8), data (8), ai (7), [[Microsoft Azure|Azure]] (6), next (1)
 > **Tools:** azure portal (2)
 > **UI Navigation:** navigate to (1), go to (1)
 > **CLI Commands:** find (1)
@@ -2465,7 +2470,7 @@ created: 2026-04-29
 
 ### 6. Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980)
@@ -2510,9 +2515,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Microsoft Copilot|Copilot]] (5), [[Generative AI]] (4), prompt (1), [[Microsoft Copilot]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1), python (1)
-> **Code Keywords:** require (1), let (1)
 > **Env Vars:** ceo (1), html (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -2572,7 +2577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Computer Vision]] (4), data (4), ai (2)
 > **Env Vars:** gpt (1), nlp (1)
 > **Cross-References:** earlier in (1), we discussed (1)
 > **Analogies:** for example (1), such as (1)
@@ -2638,9 +2643,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (8), [[Microsoft Word|Word]] (3), [[Probability]] (1)
 > **CLI Commands:** cat (3), make (1)
 > **Analogies:** imagine (2), for example (1), such as (1)
-> **Code Keywords:** function (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2691,7 +2696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** data (3), business (2), [[Large Language Models (LLM)|Large language models]] (1), llm (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
@@ -2779,7 +2784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), case, (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** ai (5), prompt (4), [[Prompt Engineering]] (3), [[Microsoft Copilot|Copilot]] (2), product (1)
 > **Analogies:** think of it like (1), imagine (1)
 > **Definitions:** refers to (1)
 > **Best Practices:** good practice (1)
@@ -2834,10 +2839,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), ai (6), [[Microsoft]] (5), power (5), data (4)
 > **Env Vars:** gpt (1), crm (1), erp (1)
 > **Tools:** visual studio (2), github (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2884,8 +2889,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), rag (5), [[Generative AI]] (4), [[ChatGPT]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2)
 > **Env Vars:** rag (5)
-> **Code Keywords:** pass (1), public (1), private (1), this, (1)
 > **Analogies:** such as (1), similar to (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2932,7 +2937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), default. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), ai (6), data (4), [[Generative AI]] (3), [[Azure AI Foundry]] (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** rag (1)
 > **Analogies:** such as (1)
@@ -2963,7 +2968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Azure AI Foundry]] (2), [[Semantic Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sdk (1)
 > **Speakers:** - [instructor] (1)
@@ -3019,8 +3024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Generative AI]] (3), [[Search]] (3), data (2), ai (2)
 > **Definitions:** is a  (2), is an  (2)
-> **Code Keywords:** finally, (2), let (1)
 > **Env Vars:** gpt (1), ivg (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -3099,7 +3104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1), self (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (5), product (4), [[Azure AI Foundry]] (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** gpt (1), ada (1), rag (1)
 > **Prerequisites:** set up (1), you'll need (1), setup (1)
 > **Analogies:** for example (1), imagine (1)
@@ -3110,7 +3115,7 @@ created: 2026-04-29
 
 ### 7. Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of responsible use of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980)
@@ -3155,8 +3160,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Responsible AI]] (4), data (2), [[Accountability]] (2), [[Microsoft]] (2)
 > **Analogies:** for example (4)
-> **Code Keywords:** self (1), private (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Achieving AI fairness
@@ -3202,6 +3207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), leadership (1), data (1), [[Ethics]] (1)
 > **Analogies:** imagine (1), for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - ai (1)
@@ -3261,7 +3267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), this, (1), new, (1)
+> **Frameworks & Libraries:** ai (4), [[Troubleshooting]] (2), data (1), teams (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
@@ -3342,8 +3348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Security]] (6), [[Privacy]] (4), ai (4), hr (2)
 > **Analogies:** for example (3), for instance (2), such as (2)
-> **Code Keywords:** finally, (2), private (1)
 > **Env Vars:** mfa (1), gpdr (1)
 > **Definitions:** we call this (2)
 > **Speakers:** - [instructor] (1)
@@ -3413,9 +3419,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), for instance (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Achieving AI transparency
@@ -3479,7 +3485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1)
+> **Frameworks & Libraries:** ai (14), [[Decision-Making]] (2), [[Algorithms]] (1), data (1), strengths (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - [speaker] (1)
@@ -3539,7 +3545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), let (1), require (1), finally, (1)
+> **Frameworks & Libraries:** ai (8), data (4), [[Accountability]] (3), management (1), [[Building Trust]] (1)
 > **Speakers:** - [speaker] (1)
 
 #### Real-life samples of responsible AI
@@ -3585,7 +3591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2)
+> **Frameworks & Libraries:** ai (5), data (4), [[Responsible AI]] (3), [[Privacy]] (3), [[Microsoft]] (2)
 > **Env Vars:** gdpr (1), api (1)
 > **Versions:** 1.2 (1)
 > **Speakers:** - [instructor] (1)
@@ -3593,7 +3599,7 @@ created: 2026-04-29
 
 ### 8. Transform Your Business with Microsoft AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft AI approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980)
@@ -3636,7 +3642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (15), [[Microsoft Azure|Azure]] (8), power (7), [[Microsoft Copilot|Copilot]] (5), [[Microsoft]] (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -3744,7 +3750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), finally, (1)
+> **Frameworks & Libraries:** ai (13), business (10), [[Responsible AI]] (5), [[Microsoft]] (3), data (3)
 > **Speakers:** - [instructor] (1)
 
 #### AI opportunities in different industries
@@ -3810,7 +3816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), module (1)
+> **Frameworks & Libraries:** ai (21), [[Microsoft Azure|Azure]] (11), data (4), [[Microsoft Products|Products]] (2), [[Microsoft]] (2)
 > **Env Vars:** cctv (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3856,13 +3862,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (26), [[Microsoft Azure|Azure]] (11), data (4), business (3), career (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways from the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980)
@@ -3931,7 +3937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (15), [[Microsoft Azure|Azure]] (7), [[Microsoft]] (3), data (2), [[Generative AI]] (2)
 > **Cross-References:** we discussed (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** nlp (1)
@@ -3983,7 +3989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (15), [[Microsoft]] (8), [[Microsoft Azure|Azure]] (4), business (3), [[Generative AI]] (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** nlp (1)
 > **Analogies:** for example (1)

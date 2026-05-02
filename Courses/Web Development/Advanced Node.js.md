@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Node.js.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know
-  - Using the exercise files
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Asynchronous Patterns**](#1-asynchronous-patterns) (9 videos)
-  - Callback pattern
-  - Resolving promises
-  - Rejecting promises
-  - The promisify function
-  - Sequential execution
-  - Sequential execution with async/await
-  - Parallel execution
-  - Concurrent tasks
-  - Logging concurrent tasks
+  - [Callback pattern](#callback-pattern)
+  - [Resolving promises](#resolving-promises)
+  - [Rejecting promises](#rejecting-promises)
+  - [The promisify function](#the-promisify-function)
+  - [Sequential execution](#sequential-execution)
+  - [Sequential execution with async/await](#sequential-execution-with-asyncawait)
+  - [Parallel execution](#parallel-execution)
+  - [Concurrent tasks](#concurrent-tasks)
+  - [Logging concurrent tasks](#logging-concurrent-tasks)
 - [**2. Advanced Streams**](#2-advanced-streams) (8 videos)
-  - Why streams?
-  - Readable streams
-  - Using readable streams
-  - Writable streams
-  - Backpressure
-  - Piping streams
-  - Duplex streams
-  - Transform streams
+  - [Why streams?](#why-streams)
+  - [Readable streams](#readable-streams)
+  - [Using readable streams](#using-readable-streams)
+  - [Writable streams](#writable-streams)
+  - [Backpressure](#backpressure)
+  - [Piping streams](#piping-streams)
+  - [Duplex streams](#duplex-streams)
+  - [Transform streams](#transform-streams)
 - [**3. HTTP Streaming**](#3-http-streaming) (4 videos)
-  - Streaming to the browser
-  - Handling range requests
-  - Forking and uploading streams
-  - Parsing multipart/form-data
+  - [Streaming to the browser](#streaming-to-the-browser)
+  - [Handling range requests](#handling-range-requests)
+  - [Forking and uploading streams](#forking-and-uploading-streams)
+  - [Parsing multipart/form-data](#parsing-multipartform-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980)
@@ -118,9 +118,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), web (2), [[JavaScript]] (1), parallel (1), data (1)
 > **CLI Commands:** node (4), make (2)
 > **File Paths:** node.js (4)
-> **Code Keywords:** interface (1), super (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [alex] (1)
 
@@ -167,9 +167,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (12), [[JavaScript]] (5), node (2), web (2)
 > **CLI Commands:** node (14), make (1)
 > **File Paths:** node.js (12)
-> **Code Keywords:** class. (1), super (1)
 > **Definitions:** is an  (1), means that (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
@@ -213,10 +213,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), node (1)
 > **CLI Commands:** node (5), find (1)
 > **File Paths:** node.js (4)
 > **Tools:** atom (2), terminal (1)
-> **Code Keywords:** class. (1), let (1)
 > **Exercise Files:** exercise files (2)
 > **URLs:** [atom.io](https://atom.io) (1)
 > **Env Vars:** ide (1)
@@ -225,7 +225,7 @@ created: 2026-04-29
 
 ### 1. Asynchronous Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Callback pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980)
@@ -354,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (27), pass (6), let (4), this. (1)
+> **Frameworks & Libraries:** next (13), [[Node.js]] (5), node (2), [[JavaScript]] (2), application (1)
 > **Tools:** terminal (10), atom (3)
 > **CLI Commands:** node (7)
 > **File Paths:** node.js (5), index.js (1)
@@ -494,7 +494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (7), pass (5), this, (2), this. (1)
+> **Frameworks & Libraries:** node (3), next (2), data (2)
 > **Code Identifiers:** settimeout (5)
 > **Tools:** terminal (4)
 > **Definitions:** is a  (3), is an  (1)
@@ -552,7 +552,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), throw (1), catch. (1), this, (1)
 > **Cross-References:** in the last (2)
 > **Tools:** terminal (2)
 > **Definitions:** means that (1)
@@ -644,7 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (5), pass (3), var (3), module (3)
+> **Frameworks & Libraries:** node (10), [[JavaScript]] (1), data (1)
 > **CLI Commands:** node (10), make (3), find (1), ls (1)
 > **Definitions:** is a  (4), is called (1), means that (1)
 > **Tools:** terminal (3), atom (1)
@@ -830,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (5), delete (3), this, (3), throw (3)
+> **Frameworks & Libraries:** next (4), node (2), [[Node.js]] (1)
 > **Code Identifiers:** writefile (5), dostuffsequentially (2), xo7 (1), settimeout (1)
 > **File Paths:** file.txt (4), index.js (1), node.js (1)
 > **CLI Commands:** node (3), make (1)
@@ -1008,7 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), await (13), async (12), let (6), delete (2)
+> **Frameworks & Libraries:** data (3), [[Jetpack Compose|Compose]] (2), node (2), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** dostuffsequentially (5), writefile (3), trycatch (2)
 > **CLI Commands:** make (2), node (2)
 > **File Paths:** file.txt (3)
@@ -1120,7 +1119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2), this. (1)
+> **Frameworks & Libraries:** parallel (3), [[JSON]] (3), node (3)
 > **File Paths:** readme.md (2), readme.txt (2), readme.json (2)
 > **CLI Commands:** node (3), make (2)
 > **Code Identifiers:** writefile (3)
@@ -1247,7 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), pass (2), var (1)
+> **Frameworks & Libraries:** concurrent (5), parallel (2), next (2), [[Fetch]] (1), [[npm]] (1)
 > **CLI Commands:** make (5), npm (1), find (1)
 > **Env Vars:** npm (1)
 > **Cross-References:** in the next (1)
@@ -1341,8 +1340,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (2), node (2)
 > **CLI Commands:** npm (2), make (2), node (2)
-> **Code Keywords:** let (3), function (2), require (1)
 > **Tools:** terminal (3)
 > **Prerequisites:** install (2), set up (1)
 > **Env Vars:** npm (2)
@@ -1353,7 +1352,7 @@ created: 2026-04-29
 
 ### 2. Advanced Streams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why streams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/why-streams?u=76281980)
@@ -1514,8 +1513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), data (5), [[Node.js]] (4), business (4), [[Search]] (1)
 > **CLI Commands:** node (11), make (4), find (1)
-> **Code Keywords:** let (10), interface (1)
 > **File Paths:** node.js (4), buffer.js (3), stream.js (2)
 > **Ports:** :3000 (3), port 3000 (1)
 > **URLs:** [localhost:3000](https://localhost:3000) (3)
@@ -1648,7 +1647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (10), this. (8), let (6), function (5), class, (2)
+> **Frameworks & Libraries:** data (20), node (3), [[JavaScript]] (2), next (1), application (1)
 > **CLI Commands:** make (4), node (3), find (1)
 > **Env Vars:** utf (2), json (1)
 > **Tools:** terminal (3)
@@ -1848,8 +1847,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), node (8), hit (4), next (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** readstream (14), tostring (2), createreadstream (1)
-> **Code Keywords:** let (8), this. (3), module (2), for, (1), throw (1)
 > **CLI Commands:** node (8), find (1)
 > **Tools:** terminal (5)
 > **Definitions:** is a  (3), is an  (1)
@@ -1944,7 +1943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), require (1), for. (1)
+> **Frameworks & Libraries:** data (8), node (1)
 > **CLI Commands:** make (2), node (1), ls (1)
 > **Code Identifiers:** writestream (3)
 > **Analogies:** just like (2), similar to (1)
@@ -2042,7 +2041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), continue (1)
+> **Frameworks & Libraries:** data (8), node (2), application (1)
 > **CLI Commands:** node (2), make (1)
 > **Cross-References:** in the last (2)
 > **Tools:** terminal (2)
@@ -2128,7 +2127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (2), pass (1), this. (1), function (1)
+> **Frameworks & Libraries:** data (9), node (3)
 > **File Paths:** file.txt (3), sample.txt (2), index.js (1)
 > **CLI Commands:** node (3), ls (1), cat (1)
 > **Code Identifiers:** readstream (1), writestream (1)
@@ -2261,7 +2260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (4), this. (4), implements (2), this, (2)
+> **Frameworks & Libraries:** data (15), node (3), [[Jetpack Compose|Compose]] (2), next (1)
 > **Definitions:** is a  (3), means that (3)
 > **CLI Commands:** node (3), make (1)
 > **Tools:** terminal (3)
@@ -2366,7 +2365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), pass (2), module (1), function (1)
+> **Frameworks & Libraries:** data (12), node (2), [[Node.js]] (2), [[npm]] (1)
 > **CLI Commands:** node (4), make (1), npm (1)
 > **Code Identifiers:** xstream (4)
 > **File Paths:** node.js (2), index.js (1)
@@ -2378,7 +2377,7 @@ created: 2026-04-29
 
 ### 3. HTTP Streaming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Streaming to the browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/streaming-to-the-browser?u=76281980)
@@ -2525,7 +2524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (4), module (2), await (2), finally, (1)
+> **Frameworks & Libraries:** web (7), node (3), next (2), hit (1), [[HTML]] (1)
 > **CLI Commands:** make (5), node (3)
 > **Env Vars:** mp4 (5), http (2), html (1)
 > **Tools:** terminal (3), safari (2)
@@ -2747,9 +2746,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), hit (1), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** make (8), node (2), find (1)
 > **Tools:** safari (5), terminal (3), firefox (1)
-> **Code Keywords:** let (6), continue (1)
 > **Code Identifiers:** writehead (3), filename (2), parseint (1)
 > **Definitions:** is a  (4)
 > **URLs:** [localhost:3000](https://localhost:3000) (3)
@@ -2935,7 +2934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (6), this, (1), async (1), pass (1)
+> **Frameworks & Libraries:** [[HTML]] (7), data (6), node (2), next (1)
 > **Env Vars:** html (7), http (2), url (2), mpm (1)
 > **Code Identifiers:** respondwithvideo (3), createserver (1), createwritestream (1), writestreams (1)
 > **CLI Commands:** make (2), node (2), find (1)
@@ -3063,8 +3062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[npm]] (4), [[JSON]] (3), [[HTML]] (2), application (1)
 > **CLI Commands:** npm (4), make (3), find (3), node (1)
-> **Code Keywords:** let (7), function (2), this, (1)
 > **File Paths:** package.json (3)
 > **Tools:** terminal (3)
 > **UI Navigation:** go to (1), open the (1)
@@ -3075,7 +3074,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980)
@@ -3102,6 +3101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (5), [[Design Patterns]] (4), node (1), [[npm]] (1), [[Programming]] (1)
 > **CLI Commands:** node (6), npm (1)
 > **File Paths:** node.js (5)
 > **Env Vars:** npm (1)

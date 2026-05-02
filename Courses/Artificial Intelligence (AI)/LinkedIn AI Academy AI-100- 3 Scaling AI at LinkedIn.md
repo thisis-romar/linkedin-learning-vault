@@ -30,7 +30,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LinkedIn%20AI%20Academy%20AI-100-%203%20Scaling%20AI%20at%20LinkedIn.md)
@@ -49,38 +49,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The LinkedIn AI Academy: Applying AI at scale
-  - Applications of AI at LinkedIn
+  - [The LinkedIn AI Academy: Applying AI at scale](#the-linkedin-ai-academy-applying-ai-at-scale)
+  - [Applications of AI at LinkedIn](#applications-of-ai-at-linkedin)
 - [**1. Data Representation Applications**](#1-data-representation-applications) (4 videos)
-  - LinkedIn Economic Graph
-  - Standardization part 1: Information extraction and entity resolution
-  - Standardization part 2: GNN applications
-  - Content understanding: Topic modeling and representing content as embeddings
+  - [LinkedIn Economic Graph](#linkedin-economic-graph)
+  - [Standardization part 1: Information extraction and entity resolution](#standardization-part-1-information-extraction-and-entity-resolution)
+  - [Standardization part 2: GNN applications](#standardization-part-2-gnn-applications)
+  - [Content understanding: Topic modeling and representing content as embeddings](#content-understanding-topic-modeling-and-representing-content-as-embeddings)
 - [**2. Application 1: Building Professional Communities**](#2-application-1-building-professional-communities) (4 videos)
-  - PYMK and follow recommendations
-  - Helping creators
-  - Optimizing feeds and notifications to nurture communities
-  - Ads for monetizing the feed
+  - [PYMK and follow recommendations](#pymk-and-follow-recommendations)
+  - [Helping creators](#helping-creators)
+  - [Optimizing feeds and notifications to nurture communities](#optimizing-feeds-and-notifications-to-nurture-communities)
+  - [Ads for monetizing the feed](#ads-for-monetizing-the-feed)
 - [**3. Application 2: Jobs Marketplace**](#3-application-2-jobs-marketplace) (4 videos)
-  - Job seeker: recommendations and notifications
-  - LinkedIn Learning recommendations
-  - Recruiter
-  - Jobs marketplace optimization
+  - [Job seeker: recommendations and notifications](#job-seeker-recommendations-and-notifications)
+  - [LinkedIn Learning recommendations](#linkedin-learning-recommendations)
+  - [Recruiter](#recruiter)
+  - [Jobs marketplace optimization](#jobs-marketplace-optimization)
 - [**4. Industrialization**](#4-industrialization) (3 videos)
-  - Tech stack: Offline, online, and nearline components
-  - Anomaly detection
-  - A/B testing
+  - [Tech stack: Offline, online, and nearline components](#tech-stack-offline-online-and-nearline-components)
+  - [Anomaly detection](#anomaly-detection)
+  - [A/B testing](#ab-testing)
 - [**5. Building Trusted AI Products Responsibly**](#5-building-trusted-ai-products-responsibly) (4 videos)
-  - Spam classification
-  - Fake accounts
-  - Bias in AI models: Fairness
-  - Explainability
+  - [Spam classification](#spam-classification)
+  - [Fake accounts](#fake-accounts)
+  - [Bias in AI models: Fairness](#bias-in-ai-models-fairness)
+  - [Explainability](#explainability)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with learning AI
+  - [Continuing on with learning AI](#continuing-on-with-learning-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The LinkedIn AI Academy: Applying AI at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/the-linkedin-ai-academy-applying-ai-at-scale?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (7), ai (6), data (1)
 > **Analogies:** such as (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat light rock music) (1)
@@ -176,6 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (8), ai (7), [[Microsoft Products|Products]] (3), [[Responsible AI]] (2), [[Engineering]] (2)
 > **Speakers:** - i (5), - my (2), - so (2), - we (2), - responsible (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** lts (2)
@@ -186,7 +188,7 @@ created: 2026-04-29
 
 ### 1. Data Representation Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LinkedIn Economic Graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980)
@@ -237,9 +239,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (8), ai (5), application (1), node (1), data (1)
 > **Analogies:** for example (2), picture (1), such as (1)
 > **CLI Commands:** find (1), node (1), make (1)
-> **Code Keywords:** require (1), match. (1), let (1)
 > **Speakers:** - the (1)
 
 #### Standardization part 1: Information extraction and entity resolution
@@ -289,8 +291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Video Production]] (3), [[LinkedIn]] (2), [[Zoom]] (1), job description (1), next (1)
 > **Analogies:** such as (5), for example (3), picture (1)
-> **Code Keywords:** let (3), raise (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
@@ -335,6 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[LinkedIn]] (3), node (1), [[Video Production]] (1), data (1)
 > **Analogies:** such as (4), picture (2)
 > **CLI Commands:** node (1)
 > **Env Vars:** gnn (1)
@@ -424,6 +427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (13), data (10), application (4), [[Large Language Models (LLM)|Large language models]] (3), ai (2)
 > **Analogies:** such as (2), for example (1), picture (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** bert (1)
@@ -433,7 +437,7 @@ created: 2026-04-29
 
 ### 2. Application 1: Building Professional Communities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PYMK and follow recommendations
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980)
@@ -524,6 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (13), [[Deep Learning]] (3), business (2), ai (2), [[Probability]] (2)
 > **Env Vars:** pymk (3)
 > **Analogies:** imagine (1), for example (1)
 > **UI Navigation:** click on (1)
@@ -565,8 +570,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (9)
 > **Cross-References:** in the last (2)
-> **Code Keywords:** continue (1)
 > **Warnings:** note that (1)
 > **Speakers:** - in (1)
 
@@ -633,6 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (13), [[Deep Learning]] (2), ai (2), [[Reinforcement Learning]] (2), [[Microsoft Outlook|Outlook]] (1)
 > **Analogies:** for instance (3), such as (1)
 > **Prerequisites:** setup (2)
 > **Env Vars:** roi (1)
@@ -701,6 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (13), ai (7), data (3), [[Algorithms]] (3), [[Forecasting]] (2)
 > **Env Vars:** mba (3), roi (2)
 > **Analogies:** for instance (4)
 > **UI Navigation:** click on (2)
@@ -711,7 +718,7 @@ created: 2026-04-29
 
 ### 3. Application 2: Jobs Marketplace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Job seeker: recommendations and notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980)
@@ -778,8 +785,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Search]] (5), next (5), career (2), ai (1)
 > **CLI Commands:** find (7), make (3)
-> **Code Keywords:** for, (2), for. (1), case, (1)
 > **Analogies:** for example (2), such as (1), picture (1)
 > **Cross-References:** in the next (1), we talked about (1)
 > **Definitions:** means that (1), is a  (1)
@@ -864,8 +871,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (16), ai (3), next (2), [[Algorithms]] (1), [[JavaScript]] (1)
 > **Analogies:** for example (3), such as (1), picture (1)
-> **Code Keywords:** this. (1), public (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - linkedin (1)
@@ -943,8 +950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (11), [[Search]] (8), product (6), ai (5), data (5)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** this, (2), for, (1), for. (1), this. (1)
 > **Cross-References:** we talked about (1), previous video (1), we mentioned (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** recommended (1)
@@ -1013,8 +1020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (6), ai (4), [[Probability]] (3), data (2), application (2)
 > **Definitions:** means that (2), we call this (1), is a  (1)
-> **Code Keywords:** for. (1), this. (1)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
@@ -1023,7 +1030,7 @@ created: 2026-04-29
 
 ### 4. Industrialization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tech stack: Offline, online, and nearline components
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980)
@@ -1070,8 +1077,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), [[LinkedIn]] (13), data (7), [[Microsoft Products|Products]] (2), feature (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - to (1)
 
@@ -1134,9 +1141,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (10), data (9), feature (2), business (1), teams (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - anomaly (1)
 
@@ -1207,7 +1214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (3)
+> **Frameworks & Libraries:** ai (4), feature (4), business (2), product (2), data (2)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is an  (1)
@@ -1216,7 +1223,7 @@ created: 2026-04-29
 
 ### 5. Building Trusted AI Products Responsibly
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spam classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980)
@@ -1299,8 +1306,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Supervised Learning]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** case, (1), case. (1)
 > **Env Vars:** bert (1), ocr (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1385,10 +1392,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Supervised Learning]] (3), data (1), teams (1), ai (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - a (1)
 
 #### Bias in AI models: Fairness
@@ -1472,9 +1479,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), ai (3), [[Forms]] (1), product (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** protected (1), finally, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - linkedin (1)
@@ -1566,8 +1573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), power (2), [[Deep Learning]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** super (1), let (1), this, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** xai (2)
 > **Analogies:** imagine (1)
@@ -1577,7 +1584,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with learning AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980)
@@ -1650,8 +1657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), [[LinkedIn]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Climate Change]] (1), career (1)
 > **Speakers:** - thank (2), - i (2), - having (1), - sometimes (1), - when (1)
-> **Code Keywords:** continue (3), self (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 

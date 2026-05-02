@@ -34,7 +34,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/MLOps%20Essentials-%20Monitoring%20Model%20Drift%20and%20Bias.md)
@@ -53,49 +53,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The need for model monitoring
-  - Setting up the exercise files
+  - [The need for model monitoring](#the-need-for-model-monitoring)
+  - [Setting up the exercise files](#setting-up-the-exercise-files)
 - [**1. Introduction to Model Monitoring**](#1-introduction-to-model-monitoring) (4 videos)
-  - ML models in production
-  - Challenges with serving models in production
-  - Metrics to monitor
-  - Data for model monitoring
+  - [ML models in production](#ml-models-in-production)
+  - [Challenges with serving models in production](#challenges-with-serving-models-in-production)
+  - [Metrics to monitor](#metrics-to-monitor)
+  - [Data for model monitoring](#data-for-model-monitoring)
 - [**2. Model Drift Basics**](#2-model-drift-basics) (5 videos)
-  - Introduction to model drift
-  - Concept drift
-  - Feature drift
-  - What causes drift?
-  - Drift remediation process
+  - [Introduction to model drift](#introduction-to-model-drift)
+  - [Concept drift](#concept-drift)
+  - [Feature drift](#feature-drift)
+  - [What causes drift?](#what-causes-drift)
+  - [Drift remediation process](#drift-remediation-process)
 - [**3. Detecting Model Drift**](#3-detecting-model-drift) (6 videos)
-  - Detecting concept drift
-  - Concept drift detection example
-  - Detecting feature drift
-  - Feature drift detection example
-  - Detecting drift in text and images
-  - Software for drift detection
+  - [Detecting concept drift](#detecting-concept-drift)
+  - [Concept drift detection example](#concept-drift-detection-example)
+  - [Detecting feature drift](#detecting-feature-drift)
+  - [Feature drift detection example](#feature-drift-detection-example)
+  - [Detecting drift in text and images](#detecting-drift-in-text-and-images)
+  - [Software for drift detection](#software-for-drift-detection)
 - [**4. Drift Monitoring Process and Best Practices**](#4-drift-monitoring-process-and-best-practices) (4 videos)
-  - Drift monitoring pipeline
-  - Analyzing drift trends
-  - Discovering root causes for drift
-  - Retraining to overcome drift
+  - [Drift monitoring pipeline](#drift-monitoring-pipeline)
+  - [Analyzing drift trends](#analyzing-drift-trends)
+  - [Discovering root causes for drift](#discovering-root-causes-for-drift)
+  - [Retraining to overcome drift](#retraining-to-overcome-drift)
 - [**5. Introduction to Model Bias**](#5-introduction-to-model-bias) (5 videos)
-  - Fairness and bias
-  - Fairness in ML
-  - Sources of ML bias
-  - Protected attributes
-  - Demographic parity
+  - [Fairness and bias](#fairness-and-bias)
+  - [Fairness in ML](#fairness-in-ml)
+  - [Sources of ML bias](#sources-of-ml-bias)
+  - [Protected attributes](#protected-attributes)
+  - [Demographic parity](#demographic-parity)
 - [**6. Bias Detection and Best Practices**](#6-bias-detection-and-best-practices) (5 videos)
-  - Bias detection techniques
-  - Equal opportunity score
-  - EOS example
-  - Bias detection software
-  - Overcoming bias in ML
+  - [Bias detection techniques](#bias-detection-techniques)
+  - [Equal opportunity score](#equal-opportunity-score)
+  - [EOS example](#eos-example)
+  - [Bias detection software](#bias-detection-software)
+  - [Overcoming bias in ML](#overcoming-bias-in-ml)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for model monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/the-need-for-model-monitoring?u=76281980)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
@@ -175,6 +175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), [[Python (Programming Language)|Python]] (3), [[Windows]] (1), [[LinkedIn]] (1), data (1)
 > **Tools:** jupyter (6), anaconda (5), command prompt (4)
 > **Exercise Files:** exercise files (5), download the (1)
 > **CLI Commands:** python (3), make (2)
@@ -182,12 +183,11 @@ created: 2026-04-29
 > **UI Navigation:** go to (1), open the (1), navigate to (1)
 > **Versions:** python 3 (2)
 > **Cross-References:** go back to (1), in the next (1)
-> **Code Keywords:** let (1)
 
 
 ### 1. Introduction to Model Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ML models in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980)
@@ -238,7 +238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** business (3), api (1), [[TensorFlow]] (1), [[Scalability]] (1), ci (1)
 > **Env Vars:** api (1), apa (1)
 > **CLI Commands:** cd (1)
 > **Speakers:** - before (1)
@@ -280,7 +280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** application (3), data (2), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -351,8 +351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), next (1), business (1), concurrent (1), node (1)
 > **CLI Commands:** make (2), node (1)
-> **Code Keywords:** let (2), self (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - to (1)
 
@@ -391,13 +391,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** data (5), [[Probability]] (1), application (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Model Drift Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to model drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/introduction-to-model-drift?u=76281980)
@@ -486,7 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (2)
+> **Frameworks & Libraries:** [[Probability]] (14), next (5), feature (3)
 > **Definitions:** stands for (2), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -520,7 +520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** [[Probability]] (3), data (2), feature (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -576,7 +576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** feature (9), [[Probability]] (4), data (1)
 > **Definitions:** is a  (4)
 > **Speakers:** - [instructor] (1)
 
@@ -633,8 +633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), feature (2), [[Microsoft Products|Products]] (1), application (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** covid (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -674,7 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2)
+> **Frameworks & Libraries:** data (4), feature (1), application (1), next (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -682,7 +682,7 @@ created: 2026-04-29
 
 ### 3. Detecting Model Drift
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Detecting concept drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-concept-drift?u=76281980)
@@ -729,6 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [lecturer] (1)
@@ -796,7 +797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (10), feature (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **File Paths:** credit-approval-training-data.csv (1), credit-approval-prod-data.csv (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
@@ -844,7 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), case, (1)
+> **Frameworks & Libraries:** feature (6), data (2), product (1)
 > **Env Vars:** mmd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -892,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), pass (1)
+> **Frameworks & Libraries:** data (2), feature (1)
 > **Versions:** 0.05 (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -962,7 +963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** data (13), feature (7), [[Computer Vision]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Deep Learning]] (1)
 > **Env Vars:** nlp (1), rgb (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
@@ -991,9 +992,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Microsoft Products|Products]] (1), aws (1), gcp (1), open-source (1)
 > **Env Vars:** aws (1), gcp (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **URLs:** [seldon.io](https://seldon.io) (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1001,7 +1002,7 @@ created: 2026-04-29
 
 ### 4. Drift Monitoring Process and Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Drift monitoring pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-monitoring-pipeline?u=76281980)
@@ -1044,7 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (3), database (1), feature (1), [[Analytics]] (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - having (1)
 
@@ -1099,8 +1100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1), database (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1152,9 +1153,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (5), data (5), business (2), next (2)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1207,15 +1208,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), feature (1), business (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Introduction to Model Bias
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fairness and bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/fairness-and-bias?u=76281980)
@@ -1258,8 +1259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), data (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - bias (1)
 
@@ -1292,7 +1293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), this, (1)
+> **Frameworks & Libraries:** product (2), data (1), business (1), next (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1335,7 +1336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1), finally, (1)
+> **Frameworks & Libraries:** data (7), next (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1367,7 +1368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (4), let (1), case. (1)
+> **Frameworks & Libraries:** business (2), [[Decision-Making]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1419,7 +1420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3), let (2)
+> **Frameworks & Libraries:** next (1), data (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1427,7 +1428,7 @@ created: 2026-04-29
 
 ### 6. Bias Detection and Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias detection techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-techniques?u=76281980)
@@ -1476,7 +1477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3), let (1)
+> **Frameworks & Libraries:** next (1), data (1), [[Python (Programming Language)|Python]] (1)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -1539,7 +1540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (6), let (4), yield (1)
+> **Frameworks & Libraries:** [[Probability]] (14), next (1)
 > **Env Vars:** eos (10)
 > **Versions:** 0.41 (2), 0.42 (1), 0.97 (1), 0.62 (1), 0.66 (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1585,8 +1586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1)
 > **Env Vars:** eos (3), race (2), age_range (2), age (1), range (1)
-> **Code Keywords:** function (2), let (1), protected (1)
 > **File Paths:** credit-approval-training-data.csv (1), credit-approval-fair-data.csv (1)
 > **Code Identifiers:** naive_bayes (1), equal_opportunity_score (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -1616,10 +1617,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), feature (1), aws (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** ibm (1), aws (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Overcoming bias in ML
@@ -1679,7 +1680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (5), let (1), finally, (1)
+> **Frameworks & Libraries:** data (9), next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
@@ -1687,7 +1688,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/next-steps?u=76281980)
@@ -1706,8 +1707,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), ai (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - now (1)
 
 

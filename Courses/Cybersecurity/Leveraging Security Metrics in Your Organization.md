@@ -32,7 +32,7 @@ tags:
   - skill/budget-analysis
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Leveraging%20Security%20Metrics%20in%20Your%20Organization.md)
@@ -51,30 +51,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why are security metrics important?
+  - [Why are security metrics important?](#why-are-security-metrics-important)
 - [**1. Why Cybersecurity Practitioners Need Metrics**](#1-why-cybersecurity-practitioners-need-metrics) (4 videos)
-  - Cybersecurity is hard to measure
-  - Cybersecurity investment
-  - Define success for a cybersecurity program
-  - Cybersecurity program maturity
+  - [Cybersecurity is hard to measure](#cybersecurity-is-hard-to-measure)
+  - [Cybersecurity investment](#cybersecurity-investment)
+  - [Define success for a cybersecurity program](#define-success-for-a-cybersecurity-program)
+  - [Cybersecurity program maturity](#cybersecurity-program-maturity)
 - [**2. Know Your Audience**](#2-know-your-audience) (3 videos)
-  - The executive mindset
-  - The business mindset
-  - The technical leadership mindset
+  - [The executive mindset](#the-executive-mindset)
+  - [The business mindset](#the-business-mindset)
+  - [The technical leadership mindset](#the-technical-leadership-mindset)
 - [**3. Risk Management Objectives**](#3-risk-management-objectives) (3 videos)
-  - Defining a risk management objective
-  - How to use a risk management objective
-  - Examples of risk management objectives
+  - [Defining a risk management objective](#defining-a-risk-management-objective)
+  - [How to use a risk management objective](#how-to-use-a-risk-management-objective)
+  - [Examples of risk management objectives](#examples-of-risk-management-objectives)
 - [**4. Example Cybersecurity Metrics**](#4-example-cybersecurity-metrics) (3 videos)
-  - Incidents detected internally vs. externally
-  - Security NPS
-  - Fixes implemented within SLA
+  - [Incidents detected internally vs. externally](#incidents-detected-internally-vs-externally)
+  - [Security NPS](#security-nps)
+  - [Fixes implemented within SLA](#fixes-implemented-within-sla)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Apply security metrics
+  - [Apply security metrics](#apply-security-metrics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why are security metrics important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980)
@@ -103,14 +103,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Cybersecurity]] (2), career (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - it (1)
 
 
 ### 1. Why Cybersecurity Practitioners Need Metrics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity is hard to measure
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980)
@@ -169,6 +169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[SaaS]] (4), [[Cybersecurity]] (4), product (2), management (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** cac (1), ltv (1)
 > **Analogies:** for example (2)
@@ -261,8 +262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (11), [[Security]] (5), business (3), [[SaaS]] (1), leadership (1)
 > **Analogies:** such as (2), for example (1), just like (1)
-> **Code Keywords:** case, (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -321,9 +322,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), [[Cybersecurity]] (3), business (1), next (1), data (1)
 > **Warnings:** pitfall (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** protected (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -390,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), data (3), [[Security]] (3), functional (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -399,7 +400,7 @@ created: 2026-04-29
 
 ### 2. Know Your Audience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The executive mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980)
@@ -484,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), else, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (17), [[Security]] (2), business (2), teams (1), strengths (1)
 > **Env Vars:** iso (1), nist (1), sans (1)
 > **Definitions:** means that (1), is an  (1)
 > **Cross-References:** in the next (1)
@@ -566,7 +567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (4), [[Privacy]] (2), leadership (2), [[Automation]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** iso (1), soc2 (1)
 > **UI Navigation:** go to (1)
@@ -662,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Engineering]] (9), [[Security]] (6), teams (4), [[Cybersecurity]] (2), management (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -671,7 +672,7 @@ created: 2026-04-29
 
 ### 3. Risk Management Objectives
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a risk management objective
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980)
@@ -774,8 +775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), management (6), [[Cybersecurity]] (6), business (5), data (2)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** super (1), for ( (1), require (1)
 > **Analogies:** similar to (2)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
@@ -829,8 +830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Security]] (3), management (2), [[Probability]] (1), next (1)
 > **Prerequisites:** you'll need (3)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -910,7 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1), require (1), public (1)
+> **Frameworks & Libraries:** management (7), [[Cybersecurity]] (5), business (3), [[Windows]] (3), [[Security]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** cio (2)
@@ -919,7 +920,7 @@ created: 2026-04-29
 
 ### 4. Example Cybersecurity Metrics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Incidents detected internally vs. externally
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/incidents-detected-internally-vs-externally?u=76281980)
@@ -984,7 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), if, (1), else. (1)
+> **Frameworks & Libraries:** [[Security]] (14), teams (3)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1071,10 +1072,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (17), business (2), product (1), [[Phishing]] (1)
 > **Env Vars:** nps (9), sas (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1134,8 +1135,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), management (2)
 > **Env Vars:** sla (5), cvss (1)
-> **Code Keywords:** static (1), case, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1143,7 +1144,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply security metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980)
@@ -1172,7 +1173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (1), teams (1), next (1), management (1)
 > **Env Vars:** nps (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [caroline] (1)

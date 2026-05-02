@@ -32,7 +32,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/A%20Beginner's%20Guide%20to%20Public%20Cloud%20Options.md)
@@ -51,52 +51,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding public cloud platforms
-  - What you should know
+  - [Understanding public cloud platforms](#understanding-public-cloud-platforms)
+  - [What you should know](#what-you-should-know)
 - [**1. Public Cloud Basics**](#1-public-cloud-basics) (6 videos)
-  - Private versus public cloud
-  - Public cloud deployment models
-  - Types of public clouds
-  - Software as a Service (SaaS)
-  - Platform as a Service (PaaS)
-  - Infrastructure as a Service (IaaS)
+  - [Private versus public cloud](#private-versus-public-cloud)
+  - [Public cloud deployment models](#public-cloud-deployment-models)
+  - [Types of public clouds](#types-of-public-clouds)
+  - [Software as a Service (SaaS)](#software-as-a-service-saas)
+  - [Platform as a Service (PaaS)](#platform-as-a-service-paas)
+  - [Infrastructure as a Service (IaaS)](#infrastructure-as-a-service-iaas)
 - [**2. Business Purpose of Public Clouds**](#2-business-purpose-of-public-clouds) (5 videos)
-  - Understanding the business case
-  - Considering costs of public clouds
-  - Evolving market
-  - Value of agility
-  - Value of innovation
+  - [Understanding the business case](#understanding-the-business-case)
+  - [Considering costs of public clouds](#considering-costs-of-public-clouds)
+  - [Evolving market](#evolving-market)
+  - [Value of agility](#value-of-agility)
+  - [Value of innovation](#value-of-innovation)
 - [**3. Public Cloud Platforms**](#3-public-cloud-platforms) (4 videos)
-  - Evaluating public cloud platform offerings
-  - Common patterns
-  - Picking the right solution
-  - Considering costs: Impact and management
+  - [Evaluating public cloud platform offerings](#evaluating-public-cloud-platform-offerings)
+  - [Common patterns](#common-patterns)
+  - [Picking the right solution](#picking-the-right-solution)
+  - [Considering costs: Impact and management](#considering-costs-impact-and-management)
 - [**4. Amazon Web Services (AWS)**](#4-amazon-web-services-aws) (4 videos)
-  - Application and data compatibility: AWS
-  - Types of services: AWS
-  - Security and governance: AWS
-  - Operations: AWS
+  - [Application and data compatibility: AWS](#application-and-data-compatibility-aws)
+  - [Types of services: AWS](#types-of-services-aws)
+  - [Security and governance: AWS](#security-and-governance-aws)
+  - [Operations: AWS](#operations-aws)
 - [**5. Microsoft Azure**](#5-microsoft-azure) (4 videos)
-  - Application and data compatibility: Azure
-  - Types of services: Azure
-  - Security and governance: Azure
-  - Operations: Azure
+  - [Application and data compatibility: Azure](#application-and-data-compatibility-azure)
+  - [Types of services: Azure](#types-of-services-azure)
+  - [Security and governance: Azure](#security-and-governance-azure)
+  - [Operations: Azure](#operations-azure)
 - [**6. Google Cloud Platform (GCP)**](#6-google-cloud-platform-gcp) (4 videos)
-  - Application and data compatibility: GCP
-  - Types of services: GCP
-  - Security and governance: GCP
-  - Operations: GCP
+  - [Application and data compatibility: GCP](#application-and-data-compatibility-gcp)
+  - [Types of services: GCP](#types-of-services-gcp)
+  - [Security and governance: GCP](#security-and-governance-gcp)
+  - [Operations: GCP](#operations-gcp)
 - [**7. Other Public Clouds**](#7-other-public-clouds) (4 videos)
-  - Oracle
-  - IBM
-  - Alibaba
-  - Other clouds
+  - [Oracle](#oracle)
+  - [IBM](#ibm)
+  - [Alibaba](#alibaba)
+  - [Other clouds](#other-clouds)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding public cloud platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-public-cloud-platforms?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** cloud (6), data (2), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
@@ -141,13 +141,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Security]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Public Cloud Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Private versus public cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980)
@@ -188,7 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (8), public (6), let (1)
+> **Frameworks & Libraries:** cloud (5), [[Private Clouds]] (4), data (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), aws (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
@@ -228,7 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (8), private (7), let (1)
+> **Frameworks & Libraries:** cloud (7), [[Private Clouds]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[Microsoft Azure]] (2)
 > **CLI Commands:** find (1)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Analogies:** such as (1)
@@ -277,7 +278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), private (1), interface (1)
+> **Frameworks & Libraries:** cloud (7), [[PaaS]] (5), [[IaaS]] (5), [[SaaS]] (4), application (3)
 > **Analogies:** such as (3)
 > **URLs:** [salesforce.com](https://salesforce.com) (1), [netsuite.com](https://netsuite.com) (1)
 > **CLI Commands:** find (1)
@@ -321,8 +322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SaaS]] (10), cloud (5), application (3), [[Hardware]] (2), management (2)
 > **Definitions:** is a  (2), is an  (2)
-> **Code Keywords:** public (2)
 > **CLI Commands:** find (1)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Prerequisites:** install (1)
@@ -371,8 +372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PaaS]] (16), cloud (8), [[IaaS]] (5), [[PaaS|Platform as a service]] (2), application (2)
 > **CLI Commands:** ruby (1), php (1), node (1), aws (1), make (1)
-> **Code Keywords:** public (3), let (2), finally, (1)
 > **Env Vars:** ibm (3), php (1), aws (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **File Paths:** node.js (1)
@@ -410,8 +411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[IaaS]] (9), data (2), [[Databases]] (2), ai (2)
 > **CLI Commands:** find (2), aws (2)
-> **Code Keywords:** public (3)
 > **Env Vars:** aws (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -420,7 +421,7 @@ created: 2026-04-29
 
 ### 2. Business Purpose of Public Clouds
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-the-business-case?u=76281980)
@@ -471,7 +472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (15), let (1), finally, (1)
+> **Frameworks & Libraries:** cloud (12), [[Hardware]] (5), business (2), data (2), ai (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (2), known as (1)
 > **Cross-References:** in the last (2)
@@ -526,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (2), let (1), for, (1)
+> **Frameworks & Libraries:** cloud (13), data (4), management (3), [[Security]] (2), [[PaaS]] (1)
 > **Analogies:** such as (4), similar to (1)
 > **Env Vars:** vpn (1), vpc (1), iam (1)
 > **Speakers:** - [instructor] (1)
@@ -574,8 +575,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), ai (3), data (3), [[Analytics]] (2), aws (1)
 > **Analogies:** for instance (2), such as (1)
-> **Code Keywords:** public (1), let (1)
 > **Env Vars:** aws (1), iot (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
@@ -610,7 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (2), raise (1), finally, (1)
+> **Frameworks & Libraries:** cloud (3), next (2), management (2), [[Scalability]] (1), business (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
@@ -634,14 +635,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1)
+> **Frameworks & Libraries:** cloud (4), data (2), [[Hardware]] (1), business (1), teams (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Public Cloud Platforms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating public cloud platform offerings
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980)
@@ -694,7 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), this. (1)
+> **Frameworks & Libraries:** data (10), cloud (6), management (3), [[Security]] (2), [[Cybersecurity]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** iot (1)
 > **Warnings:** keep in mind (1)
@@ -741,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), self (2), let (1), finally, (1)
+> **Frameworks & Libraries:** cloud (6), [[Scalability]] (1), management (1), [[Automation]] (1), [[Security]] (1)
 > **Definitions:** means that (3), is a  (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
@@ -781,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (1), for. (1), include, (1), interface (1)
+> **Frameworks & Libraries:** cloud (6), [[IaaS]] (2), [[Security]] (2), next (2), [[SaaS]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** aws (1), ibm (1)
@@ -826,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1)
+> **Frameworks & Libraries:** cloud (2), management (1), [[Scalability]] (1), data (1)
 > **Env Vars:** tco (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -834,7 +835,7 @@ created: 2026-04-29
 
 ### 4. Amazon Web Services (AWS)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application and data compatibility: AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980)
@@ -875,9 +876,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), application (3), data (2), [[Kubernetes]] (2), cloud (1)
 > **Env Vars:** aws (6), gcp (1), rds (1), sql (1), eks (1)
 > **CLI Commands:** aws (6), mysql (1), docker (1)
-> **Code Keywords:** lambda (2), public (1), let (1), require (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -920,9 +921,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), cloud (3), [[IoT]] (2), [[Blockchain]] (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (4), ebs (2), ec2 (1), rdf (1)
 > **CLI Commands:** aws (4)
-> **Code Keywords:** lambda (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -951,9 +952,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), management (2), [[Security]] (1), web application (1), web (1)
 > **Env Vars:** aws (8), iam (1), waf (1), kms (1)
 > **CLI Commands:** aws (8)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Operations: AWS
@@ -985,6 +986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), [[DevOps]] (2), data (2), cloud (1), [[Configuration Management]] (1)
 > **CLI Commands:** aws (11), make (1)
 > **Env Vars:** aws (11)
 > **Definitions:** is a  (1)
@@ -994,7 +996,7 @@ created: 2026-04-29
 
 ### 5. Microsoft Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application and data compatibility: Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980)
@@ -1013,9 +1015,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Kubernetes]] (2), [[Microsoft SQL Server|Sql server]] (2), application (1), data (1)
 > **Env Vars:** sql (3), net (2), php (1), aks (1)
 > **CLI Commands:** ruby (1), node (1), php (1), python (1)
-> **Code Keywords:** let (1), for . (1)
 > **File Paths:** node.js (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1036,8 +1038,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[SQL]] (3), database (2), [[Microsoft Azure]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** sql (3)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** mysql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1062,7 +1064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (4), management (2), next (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1)
 > **Env Vars:** aad (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1088,7 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), next (2), [[Microsoft Azure]] (1), [[Automation]] (1), [[Powershell]] (1)
 > **Env Vars:** gcp (1)
 > **Cross-References:** in the next (1)
 > **Tools:** powershell (1)
@@ -1097,7 +1099,7 @@ created: 2026-04-29
 
 ### 6. Google Cloud Platform (GCP)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application and data compatibility: GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980)
@@ -1118,9 +1120,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), gcp (3), [[Google]] (2), [[Java]] (2), node (2)
 > **CLI Commands:** node (2), python (2), php (1), ruby (1), aws (1)
 > **Env Vars:** gcp (3), php (1), gke (1), aws (1), sql (1)
-> **Code Keywords:** public (1), let (1), lambda (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -1151,8 +1153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), ai (3), [[Analytics]] (2), gcp (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** gcp (1), ec2 (1), sql (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1173,8 +1175,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), gcp (2), cloud (1), management (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** gcp (2), iam (2), api (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1197,7 +1199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), interface (1)
+> **Frameworks & Libraries:** cloud (6), [[Google Cloud Platform (GCP)|Google cloud]] (2), gcp (1), management (1), web (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gcp (1)
 > **Definitions:** is a  (1)
@@ -1206,7 +1208,7 @@ created: 2026-04-29
 
 ### 7. Other Public Clouds
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Oracle
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980)
@@ -1245,7 +1247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), private (1), this, (1)
+> **Frameworks & Libraries:** [[IaaS]] (3), cloud (3), [[IaaS|Infrastructure as a service]] (1), data (1), management (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -1281,8 +1283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), ai (3), [[Blockchain]] (2), [[Quantum Computing]] (2), [[Security]] (2)
 > **Env Vars:** ibm (8)
-> **Code Keywords:** public (1), private (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1311,8 +1313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), database (2), data (2), [[Security]] (2), aws (1)
 > **Env Vars:** ecs (2), usa (1), aws (1), sql (1), oss (1)
-> **Code Keywords:** finally, (2), let (2), private (1)
 > **CLI Commands:** aws (1), mysql (1)
 > **Analogies:** similar to (1), such as (1)
 > **Speakers:** - [presenter] (1)
@@ -1342,7 +1344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4)
+> **Frameworks & Libraries:** cloud (3), ai (1)
 > **Env Vars:** gpu (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1350,7 +1352,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/next-steps?u=76281980)
@@ -1387,7 +1389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), public (1)
+> **Frameworks & Libraries:** cloud (5), career (3), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)

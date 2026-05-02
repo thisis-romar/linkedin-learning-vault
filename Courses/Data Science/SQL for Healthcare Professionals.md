@@ -35,7 +35,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20for%20Healthcare%20Professionals.md)
@@ -54,54 +54,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - SQL for healthcare: Transforming data into insights
-  - What you need to know
-  - Installing the SQL exercise files
+  - [SQL for healthcare: Transforming data into insights](#sql-for-healthcare-transforming-data-into-insights)
+  - [What you need to know](#what-you-need-to-know)
+  - [Installing the SQL exercise files](#installing-the-sql-exercise-files)
 - [**1. A Brief Overview of SQL**](#1-a-brief-overview-of-sql) (7 videos)
-  - Why use SQL in healthcare?
-  - How to gather data for analysis using SQL
-  - Using aggregate functions to manipulate the data
-  - Using a CASE statement for data classification
-  - Date manipulation in SQL
-  - What are relational databases?
-  - How to gather data from different tables using JOINS
+  - [Why use SQL in healthcare?](#why-use-sql-in-healthcare)
+  - [How to gather data for analysis using SQL](#how-to-gather-data-for-analysis-using-sql)
+  - [Using aggregate functions to manipulate the data](#using-aggregate-functions-to-manipulate-the-data)
+  - [Using a CASE statement for data classification](#using-a-case-statement-for-data-classification)
+  - [Date manipulation in SQL](#date-manipulation-in-sql)
+  - [What are relational databases?](#what-are-relational-databases)
+  - [How to gather data from different tables using JOINS](#how-to-gather-data-from-different-tables-using-joins)
 - [**2. Patient Care Management**](#2-patient-care-management) (3 videos)
-  - How SQL is used in patient care management
-  - Using SQL to recommend individualized treatment
-  - Patient safety monitoring
+  - [How SQL is used in patient care management](#how-sql-is-used-in-patient-care-management)
+  - [Using SQL to recommend individualized treatment](#using-sql-to-recommend-individualized-treatment)
+  - [Patient safety monitoring](#patient-safety-monitoring)
 - [**3. Population Health Management**](#3-population-health-management) (6 videos)
-  - How to use SQL to manage population health
-  - Risk stratification in SQL
-  - Predictive analytics in population health
-  - Social determinants of health (SDOH) and SQL
-  - Challenge: Risk stratification
-  - Solution: Risk stratification
+  - [How to use SQL to manage population health](#how-to-use-sql-to-manage-population-health)
+  - [Risk stratification in SQL](#risk-stratification-in-sql)
+  - [Predictive analytics in population health](#predictive-analytics-in-population-health)
+  - [Social determinants of health (SDOH) and SQL](#social-determinants-of-health-sdoh-and-sql)
+  - [Challenge: Risk stratification](#challenge-risk-stratification)
+  - [Solution: Risk stratification](#solution-risk-stratification)
 - [**4. Clinical Research**](#4-clinical-research) (4 videos)
-  - Using SQL in clinical research
-  - Cohort identification using SQL
-  - Descriptive analytics using SQL in clinical research
-  - Outcome analysis techniques with SQL
+  - [Using SQL in clinical research](#using-sql-in-clinical-research)
+  - [Cohort identification using SQL](#cohort-identification-using-sql)
+  - [Descriptive analytics using SQL in clinical research](#descriptive-analytics-using-sql-in-clinical-research)
+  - [Outcome analysis techniques with SQL](#outcome-analysis-techniques-with-sql)
 - [**5. Healthcare Administration**](#5-healthcare-administration) (5 videos)
-  - How to use SQL to analyze workflow
-  - Data exchange using SQL
-  - Quality improvement initiatives
-  - Challenge: Appointment analysis
-  - Solution: Appointment analysis
+  - [How to use SQL to analyze workflow](#how-to-use-sql-to-analyze-workflow)
+  - [Data exchange using SQL](#data-exchange-using-sql)
+  - [Quality improvement initiatives](#quality-improvement-initiatives)
+  - [Challenge: Appointment analysis](#challenge-appointment-analysis)
+  - [Solution: Appointment analysis](#solution-appointment-analysis)
 - [**6. Final Project: Healthcare Analytics**](#6-final-project-healthcare-analytics) (8 videos)
-  - Assignment: Healthcare analytics scenario
-  - Walkthrough: Demographics scenario
-  - Walkthrough: Demographics and diagnosis scenario
-  - Walkthrough: Appointments scenario
-  - Walkthrough: Laboratory scenario
-  - Walkthrough: Laboratory with risk scenario
-  - Walkthrough: Risk scenario
-  - Walkthrough: Readmission scenario
+  - [Assignment: Healthcare analytics scenario](#assignment-healthcare-analytics-scenario)
+  - [Walkthrough: Demographics scenario](#walkthrough-demographics-scenario)
+  - [Walkthrough: Demographics and diagnosis scenario](#walkthrough-demographics-and-diagnosis-scenario)
+  - [Walkthrough: Appointments scenario](#walkthrough-appointments-scenario)
+  - [Walkthrough: Laboratory scenario](#walkthrough-laboratory-scenario)
+  - [Walkthrough: Laboratory with risk scenario](#walkthrough-laboratory-with-risk-scenario)
+  - [Walkthrough: Risk scenario](#walkthrough-risk-scenario)
+  - [Walkthrough: Readmission scenario](#walkthrough-readmission-scenario)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL for healthcare: Transforming data into insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980)
@@ -124,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[SQL]] (3), business (1), [[Analytics]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -144,8 +145,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), [[Healthcare Industry]] (2), [[Healthcare Analytics]] (1), data (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - the (1)
 
 #### Installing the SQL exercise files
@@ -215,8 +216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), next (6), [[Microsoft SQL Server]] (4), data (4), [[SQL]] (1)
 > **Env Vars:** sql (6)
-> **Code Keywords:** let (1), case, (1), delete (1)
 > **Exercise Files:** exercise files (3)
 > **UI Navigation:** click on (1), open the (1)
 > **Speakers:** - [instructor] (1)
@@ -224,7 +225,7 @@ created: 2026-04-29
 
 ### 1. A Brief Overview of SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use SQL in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980)
@@ -257,6 +258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[SQL]] (5), database (3), [[Databases]] (1), [[Automation]] (1)
 > **Env Vars:** sql (5)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** imagine (2)
@@ -307,8 +309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (5), [[SQL]] (2)
 > **Env Vars:** select (6), where (3), sql (2)
-> **Code Keywords:** from. (2), let (2), return, (1), for. (1), from, (1)
 > **SQL:** select (6), where (3)
 > **Code Identifiers:** department_name (2), patient_id (1)
 > **Analogies:** think of it as (1), just like (1)
@@ -387,10 +389,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Healthcare Analytics]] (1), [[SQL]] (1), [[Statistics]] (1)
 > **Env Vars:** select (3), avg (2), where (2), group (2), sql (1)
 > **SQL:** select (3), where (2), group by (2), order by (1)
 > **Code Identifiers:** days_in_the_hospital (2), department_name (2), average_days_cardiology (1), avg_days_per_department (1)
-> **Code Keywords:** require (1), let (1), case, (1), this. (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -460,8 +462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), [[Healthcare Industry]] (1)
 > **Env Vars:** case (11)
-> **Code Keywords:** function (3), case, (2), let (1), from, (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** stay_category (1)
 > **Analogies:** for instance (1)
@@ -641,7 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (10), case, (3), from. (2), this, (2)
+> **Frameworks & Libraries:** [[SQL]] (7), data (5), database (4), [[Data Manipulation]] (1), next (1)
 > **Env Vars:** sql (8), dbo (1), select (1), dateadd (1)
 > **Analogies:** such as (2), for instance (1), similar to (1), for example (1)
 > **CLI Commands:** make (2)
@@ -685,9 +687,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), data (2), [[Databases]] (1), [[Security]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** hippa (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - when (1)
@@ -781,8 +783,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), data (2), hr (2), [[Healthcare Industry]] (1)
 > **Env Vars:** sql (3), join (3), inner (2), left (2), where (2)
-> **Code Keywords:** let (3), switch (1), from [ (1), from, (1), case, (1)
 > **Code Identifiers:** patient_id (7)
 > **SQL:** left join (2), where (2), inner join (1), select (1)
 > **CLI Commands:** find (1)
@@ -791,7 +793,7 @@ created: 2026-04-29
 
 ### 2. Patient Care Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How SQL is used in patient care management
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980)
@@ -836,6 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[SQL]] (5), database (3), [[Privacy]] (2), management (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
@@ -877,6 +880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), data (2), database (1), power (1)
 > **Env Vars:** sql (6)
 > **Analogies:** such as (1), imagine (1), for instance (1), for example (1)
 > **Definitions:** is a  (1)
@@ -933,9 +937,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (4), [[Healthcare Industry]] (1), database (1)
 > **Env Vars:** sql (4), case (4)
 > **Code Identifiers:** medication_prescribed (2), smoker_status (2), safety_concern (2), patient_id (1)
-> **Code Keywords:** case, (2), let (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -943,7 +947,7 @@ created: 2026-04-29
 
 ### 3. Population Health Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to use SQL to manage population health
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980)
@@ -980,9 +984,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[SQL]] (7), management (4), [[Databases]] (4), database (2)
 > **Env Vars:** sql (7)
 > **Best Practices:** remember to (1), good practice (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - in (1)
 
 #### Risk stratification in SQL
@@ -1052,10 +1056,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (3), management (2), database (2)
 > **Env Vars:** sql (5), bmi (4), select (1), case (1)
 > **Code Identifiers:** patient_id (1), patient_name (1), family_history_of_hypertension (1), risk_category (1)
 > **Analogies:** such as (2), imagine (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **SQL:** select (1)
@@ -1196,9 +1200,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), data (6), [[Predictive Analytics]] (4), [[Python (Programming Language)|Python]] (2), [[Time Series Analysis]] (2)
 > **Env Vars:** bmi (12), sql (7), datediff (5), case (4), else (1)
 > **Code Identifiers:** family_history_of_hypertension (6), patient_id (5), bmi_category (2), patient_name (1), hypertension_prediction (1)
-> **Code Keywords:** function (5), finally, (2), let (1), from. (1), else, (1)
 > **CLI Commands:** python (2), make (2)
 > **Analogies:** such as (3)
 > **Versions:** 18.5 (2)
@@ -1242,8 +1246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), management (3), [[SQL]] (1)
 > **Analogies:** such as (1), for instance (1), picture (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -1273,6 +1277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), next (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1353,7 +1358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), function (2), let (2), case, (1), this. (1)
+> **Frameworks & Libraries:** database (2), [[SQL]] (1), data (1)
 > **Non-Speech:** (keyboard typing) (4), (bouncy music) (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** select the (1)
@@ -1363,7 +1368,7 @@ created: 2026-04-29
 
 ### 4. Clinical Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using SQL in clinical research
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980)
@@ -1422,6 +1427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[SQL]] (13), [[Databases]] (4), management (1), [[Security]] (1)
 > **Env Vars:** sql (13)
 > **CLI Commands:** make (4)
 > **Speakers:** - when (1)
@@ -1495,10 +1501,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), [[Forms]] (1), [[Databases]] (1), data (1), database (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** find (3)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1), function (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** required to (1)
@@ -1627,8 +1633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[SQL]] (6), [[Analytics]] (3), [[Statistics]] (1), next (1)
 > **Env Vars:** sql (6), dbo (5), case (3)
-> **Code Keywords:** function (4), let (3), this, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1701,7 +1707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), from, (1), function (1)
+> **Frameworks & Libraries:** data (3), [[SQL]] (3), [[Decision-Making]] (1), management (1)
 > **Env Vars:** sql (3), dbo (3)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
@@ -1710,7 +1716,7 @@ created: 2026-04-29
 
 ### 5. Healthcare Administration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to use SQL to analyze workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-analyze-workflow?u=76281980)
@@ -1787,9 +1793,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (7)
 > **Env Vars:** sql (7), datediff (3), avg (1), min (1), max (1)
 > **Code Identifiers:** arrival_time (3), admission_time (3), department_name (2), avg_wait_time (1), min_waiting_time (1)
-> **Code Keywords:** function (5), let (4)
 > **Analogies:** such as (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1857,10 +1863,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[SQL]] (5), [[Databases]] (2), management (1)
 > **Code Identifiers:** visit_id (4), visit_date (3), test_date (2), doctor_name (1), test_name (1)
 > **Env Vars:** sql (5), select (1), datediff (1), inner (1), join (1)
 > **Analogies:** imagine (2), such as (1)
-> **Code Keywords:** let (1), function (1)
 > **SQL:** select (1), inner join (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -1969,9 +1975,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (4), hr (2), [[Healthcare Industry]] (1)
 > **Env Vars:** sql (5), count (4), case (2), avg (2), select (1)
 > **Code Identifiers:** patient_id (7), department_name (3), days_in_the_hospital (2), total_patients (1), readmitted_patients (1)
-> **Code Keywords:** function (2), let (1), for ( (1), from [ (1), from. (1)
 > **SQL:** select (1), group by (1), inner join (1)
 > **Analogies:** such as (2)
 > **Versions:** 100.0 (1)
@@ -1993,6 +1999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -2027,9 +2034,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** appointment_count (2), appointment_date (1)
 > **Env Vars:** datename (2), select (1)
-> **Code Keywords:** function (1)
 > **SQL:** select (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2037,7 +2044,7 @@ created: 2026-04-29
 
 ### 6. Final Project: Healthcare Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assignment: Healthcare analytics scenario
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/assignment-healthcare-analytics-scenario?u=76281980)
@@ -2112,7 +2119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), try, (1)
+> **Frameworks & Libraries:** data (4), management (2), next (2), [[Decision-Making]] (1), [[Analytics]] (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
@@ -2160,8 +2167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), management (1), next (1)
 > **Env Vars:** case (4), datediff (2), end (2), count (1)
-> **Code Keywords:** function (4), let (1)
 > **Code Identifiers:** age_group (1), patient_count (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2196,6 +2203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Capacity Planning]] (1)
 > **Code Identifiers:** patient_id (3)
 > **SQL:** group by (1)
 > **Env Vars:** group (1)
@@ -2234,8 +2242,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** appointment_count (2), appointment_time (1), appointment_hour (1)
-> **Code Keywords:** function (2)
 > **Env Vars:** datepart (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -2263,6 +2271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Cost Management]] (1)
 > **Code Identifiers:** test_name (2), test_count (2)
 > **SQL:** order by (1)
 > **Env Vars:** order (1)
@@ -2324,7 +2333,6 @@ created: 2026-04-29
 > **Code Identifiers:** patient_id (6), result_value (5), visit_id (3), patient_name (1), test_name (1)
 > **Env Vars:** inner (2), join (2), where (1)
 > **SQL:** inner join (2), where (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Walkthrough: Risk scenario
@@ -2380,8 +2388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), management (1), [[SQL]] (1), next (1), database (1)
 > **Env Vars:** case (4), select (1), sql (1), end (1), count (1)
-> **Code Keywords:** case, (1), let (1), function (1), from [ (1)
 > **Code Identifiers:** smoker_status (3), num_patients (1)
 > **SQL:** select (1)
 > **Best Practices:** remember to (1)
@@ -2476,9 +2484,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1), [[SQL]] (1), [[Microsoft SQL Server]] (1)
 > **Code Identifiers:** ov_initial (8), ov_readmit (6), visit_date (5), patient_id (3), reason_for_visit (2)
 > **Env Vars:** select (2), sql (2), datediff (1)
-> **Code Keywords:** let (1), function (1), this. (1)
 > **SQL:** select (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - the (1)
@@ -2486,7 +2494,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980)
@@ -2519,8 +2527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (3), [[Healthcare Industry]] (3), [[Analytics]] (1), next (1)
 > **Env Vars:** sql (3)
-> **Code Keywords:** this. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)
 

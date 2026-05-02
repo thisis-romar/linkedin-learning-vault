@@ -32,7 +32,7 @@ tags:
   - skill/c
   - skill/application-programming-interfaces-api
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Web%20Servers%20and%20APIs%20using%20C%2B%2B.md)
@@ -51,50 +51,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why use C++ to make a website?
+  - [Why use C++ to make a website?](#why-use-c-to-make-a-website)
 - [**1. Installing Our Tools**](#1-installing-our-tools) (8 videos)
-  - Installing Docker
-  - Installing Atom
-  - Docker
-  - Adding a volume
-  - Building Crow
-  - Serving the example
-  - Challenge: Modify the example page
-  - Solution: Modify the example page
+  - [Installing Docker](#installing-docker)
+  - [Installing Atom](#installing-atom)
+  - [Docker](#docker)
+  - [Adding a volume](#adding-a-volume)
+  - [Building Crow](#building-crow)
+  - [Serving the example](#serving-the-example)
+  - [Challenge: Modify the example page](#challenge-modify-the-example-page)
+  - [Solution: Modify the example page](#solution-modify-the-example-page)
 - [**2. Deploying to AWS ElasticBeanstalk**](#2-deploying-to-aws-elasticbeanstalk) (2 videos)
-  - Beanstalk
-  - Saving our container to Docker Hub
+  - [Beanstalk](#beanstalk)
+  - [Saving our container to Docker Hub](#saving-our-container-to-docker-hub)
 - [**3. Building Websites**](#3-building-websites) (5 videos)
-  - Creating HTML pages
-  - Serving HTML pages
-  - Serving static content
-  - Challenge: Create a new webpage
-  - Solution: Create a new webpage
+  - [Creating HTML pages](#creating-html-pages)
+  - [Serving HTML pages](#serving-html-pages)
+  - [Serving static content](#serving-static-content)
+  - [Challenge: Create a new webpage](#challenge-create-a-new-webpage)
+  - [Solution: Create a new webpage](#solution-create-a-new-webpage)
 - [**4. Data Access**](#4-data-access) (7 videos)
-  - Atlas
-  - Uploading JSON data
-  - Adding the MongoDB C++ drivers
-  - Querying Mongo data
-  - Adding dynamic data to a page
-  - Challenge: Create a webpage with data
-  - Solution: Create a webpage with data
+  - [Atlas](#atlas)
+  - [Uploading JSON data](#uploading-json-data)
+  - [Adding the MongoDB C++ drivers](#adding-the-mongodb-c-drivers)
+  - [Querying Mongo data](#querying-mongo-data)
+  - [Adding dynamic data to a page](#adding-dynamic-data-to-a-page)
+  - [Challenge: Create a webpage with data](#challenge-create-a-webpage-with-data)
+  - [Solution: Create a webpage with data](#solution-create-a-webpage-with-data)
 - [**5. RESTful APIs**](#5-restful-apis) (6 videos)
-  - Creating an endpoint
-  - Parsing the path
-  - Reading the query string
-  - Converting to JSON data
-  - Challenge: Create an endpoint
-  - Solution: Create an endpoint
+  - [Creating an endpoint](#creating-an-endpoint)
+  - [Parsing the path](#parsing-the-path)
+  - [Reading the query string](#reading-the-query-string)
+  - [Converting to JSON data](#converting-to-json-data)
+  - [Challenge: Create an endpoint](#challenge-create-an-endpoint)
+  - [Solution: Create an endpoint](#solution-create-an-endpoint)
 - [**6. WebSockets and Crow**](#6-websockets-and-crow) (3 videos)
-  - Reviewing the JavaScript client code
-  - Creating the C++ server code
-  - Running WebSocket on Heroku
+  - [Reviewing the JavaScript client code](#reviewing-the-javascript-client-code)
+  - [Creating the C++ server code](#creating-the-c-server-code)
+  - [Running WebSocket on Heroku](#running-websocket-on-heroku)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use C++ to make a website?
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website-25621006?u=76281980)
@@ -115,13 +115,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[LinkedIn]] (1), [[MongoDB]] (1), database (1), cloud (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [troy] (1)
 
 
 ### 1. Installing Our Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980)
@@ -168,11 +169,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (2), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (10)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** cli (2)
 > **Tools:** terminal (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** macos (1)
 > **URLs:** [docker.com](https://docker.com) (1)
 > **Exercise Files:** download the (1)
@@ -200,6 +201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), open-source (1)
 > **Tools:** atom (4), command line (1)
 > **CLI Commands:** find (1)
 > **URLs:** [atom.io](https://atom.io) (1)
@@ -365,8 +367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (12), [[MongoDB]] (7), [[Web Development]] (2), [[Git]] (2), [[GitHub]] (2)
 > **CLI Commands:** docker (8), make (3), git (2), find (1), unzip (1)
-> **Code Keywords:** let (8), this. (2), super (2), static (1), lambda (1)
 > **Env Vars:** zip (1), readme (1), rest (1), api (1), http (1)
 > **File Paths:** cmakelists.txt (2), crow_all.h (1), main.cpp (1)
 > **Tools:** github (2), visual studio (1), terminal (1)
@@ -425,13 +427,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), cd (1)
 > **CLI Commands:** docker (6), ls (3), cd (1)
 > **Tools:** bash (3), terminal (1)
 > **File Paths:** my_file.txt (2)
 > **Env Vars:** my_file (2)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1), - v (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** navigate to (1)
 
 #### Building Crow
@@ -611,10 +613,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), cd (3), web (2), next (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** hello_crow (11), crow_all (5), iport (3), cmake_minimum_required (1), include_directories (1)
 > **File Paths:** crow_all.h (5), main.cpp (4), cmakelists.txt (3), cmakelist.txt (1)
 > **CLI Commands:** cd (3), make (3), find (2), python (1), cp (1)
-> **Code Keywords:** let (5), function (2), pass (2), static (1), return. (1)
 > **Env Vars:** port (3), null (2), crow_route (1), version (1), cmake_cxx_standard (1)
 > **Tools:** github (3), atom (1), terminal (1)
 > **Definitions:** is a  (2), means that (2)
@@ -697,7 +699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type . (1), match. (1)
+> **Frameworks & Libraries:** web (3), hit (2)
 > **Ports:** port 8080 (2), port 18080 (1), :18080 (1)
 > **CLI Commands:** docker (3)
 > **Code Identifiers:** hello_crow (3)
@@ -721,8 +723,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Modify the example page
@@ -780,8 +782,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), cd (1), web (1), [[Express.js]] (1)
 > **CLI Commands:** make (3), cd (1), ls (1)
-> **Code Keywords:** let (3), finally, (1)
 > **File Paths:** main.cpp (2), express.js (1)
 > **Code Identifiers:** hello_crow (3)
 > **Cross-References:** go back to (3)
@@ -792,7 +794,7 @@ created: 2026-04-29
 
 ### 2. Deploying to AWS ElasticBeanstalk
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980)
@@ -965,9 +967,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (16), cloud (10), web (6), application (6), [[DevOps]] (2)
 > **CLI Commands:** docker (19), aws (16), make (4), find (1), cd (1)
 > **Env Vars:** aws (16), url (2), json (1), arm (1), cname (1)
-> **Code Keywords:** let (15), super (1), continue (1)
 > **Tools:** terminal (2), vs code (1), visual studio (1)
 > **Cross-References:** go back to (3)
 > **File Paths:** dockerrun.json (1), main.cpp (1)
@@ -1033,8 +1035,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), hit (1)
 > **CLI Commands:** docker (15), find (2)
-> **Code Keywords:** let (4), public (1), private (1)
 > **Code Identifiers:** hello_crow (2)
 > **Definitions:** is a  (2)
 > **URLs:** [docker.com](https://docker.com) (1)
@@ -1045,7 +1047,7 @@ created: 2026-04-29
 
 ### 3. Building Websites
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating HTML pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980)
@@ -1128,8 +1130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (15), web (3), data (1), [[MongoDB]] (1), next (1)
 > **Env Vars:** html (11)
-> **Code Keywords:** let (3), public (3), case. (1), new, (1), type, (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), open the (1)
 > **Definitions:** is a  (2)
@@ -1226,7 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), public (2), this, (1), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **CLI Commands:** make (2), find (1), docker (1)
 > **Tools:** terminal (2), sublime (1)
 > **File Paths:** index.html (1)
@@ -1416,7 +1418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), new, (4), static (3), public (3), type, (3)
+> **Frameworks & Libraries:** [[HTML]] (9), [[JavaScript]] (6), css (5), next (4)
 > **Code Identifiers:** sendfile (5), sendimage (3), sendscript (3), sendstyle (3), sendhtml (2)
 > **File Paths:** index.html (4), send.html (1), styles.css (1), test.js (1), styles/styles.css (1)
 > **CLI Commands:** make (6), find (1), cat (1)
@@ -1448,8 +1450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), css (1)
 > **File Paths:** about.html (1), about.css (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Create a new webpage
@@ -1525,8 +1527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), [[HTML]] (6)
 > **File Paths:** about.css (6), about.html (4), index.html (2), styles.css (2), style.css (1)
-> **Code Keywords:** let (6), delete (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (4)
 > **Tools:** atom (1), terminal (1)
@@ -1537,7 +1539,7 @@ created: 2026-04-29
 
 ### 4. Data Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Atlas
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980)
@@ -1764,7 +1766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), case, (1), super (1), require (1), finally, (1)
+> **Frameworks & Libraries:** [[MongoDB]] (20), database (19), data (11), web (6), [[JSON]] (4)
 > **CLI Commands:** make (4), aws (2), brew (2), cd (1), docker (1)
 > **Env Vars:** aws (2), json (2), api (2), cpp (1)
 > **UI Navigation:** click on (4), go to (3)
@@ -1862,7 +1864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), type, (1), return. (1), this. (1)
+> **Frameworks & Libraries:** [[MongoDB]] (6), database (6), [[JSON]] (6), data (3), cloud (1)
 > **CLI Commands:** brew (3), mongo (1), cd (1), make (1)
 > **Code Identifiers:** mlab (3), mlabs (2), jsonarray (1)
 > **File Paths:** contacts.json (3)
@@ -1936,8 +1938,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (2), database (1), [[MongoDB]] (1), next (1)
 > **CLI Commands:** docker (11), git (2), mongo (2), rm (2), make (1)
-> **Code Keywords:** let (3), new, (1), pass (1), return. (1), while. (1)
 > **Tools:** atom (3), github (2), terminal (1)
 > **Env Vars:** run (2), workdir (1), dbsoncxx_poly_use_mnmlstc (1), dcmake_build_type (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -2192,9 +2194,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), next (4), [[MongoDB]] (2), [[JSON]] (1), cd (1)
 > **Code Identifiers:** hello_crow (9), find_package (3), mongoconnect (2), add_executable (1), target_include_directories (1)
 > **CLI Commands:** docker (6), find (4), make (3), mongo (3), cd (1)
-> **Code Keywords:** let (8), function (2), pass (2), delete (1), private (1)
 > **Env Vars:** mongodb_uri (3), workdir (2), run (2), libmongocxx_include_dirs (2), port (2)
 > **UI Navigation:** go to (5), click on (2), scroll down (1)
 > **File Paths:** cmakelists.txt (3), main.cpp (3)
@@ -2398,7 +2400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), delete (6), pass (3), function (2), public (2)
+> **Frameworks & Libraries:** [[HTML]] (9), data (3), [[JSON]] (3), css (3), database (2)
 > **Env Vars:** html (9), url (3)
 > **Code Identifiers:** to_json (3), set_base (2), make_document (2), push_back (1), crow_route (1)
 > **CLI Commands:** make (6), docker (1)
@@ -2430,8 +2432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), data (1)
 > **File Paths:** contact.html (2)
-> **Code Keywords:** let (1), public (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2544,7 +2546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2), pass (1)
+> **Frameworks & Libraries:** data (5), [[JSON]] (4), [[HTML]] (3)
 > **File Paths:** contact.html (1), contacts.html (1)
 > **Tools:** atom (1), terminal (1)
 > **Code Identifiers:** getview (1)
@@ -2556,7 +2558,7 @@ created: 2026-04-29
 
 ### 5. RESTful APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-an-endpoint?u=76281980)
@@ -2703,7 +2705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (2), default. (1), lambda (1), const (1)
+> **Frameworks & Libraries:** next (2), api (1)
 > **Env Vars:** http (5), put (3), url (2), post (2), api (1)
 > **Code Identifiers:** rest_test (6), method_name (1), set_header (1)
 > **API Endpoints:** get  (3), put  (2), post  (1)
@@ -3003,7 +3005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this, (3), function (3), const (2), delete (2)
+> **Frameworks & Libraries:** [[Search]] (2), [[HTML]] (2), data (1), hit (1)
 > **CLI Commands:** make (5), find (4), cat (2), docker (1)
 > **Code Identifiers:** getview (5), set_header (2), notfound (2), lastname (1), hello_crow (1)
 > **Versions:** 10.5 (2), 20.2 (2), 100.1 (2), 102.7 (2), 30.7 (1)
@@ -3075,7 +3077,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), lambda (1), type, (1), this, (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** url (1), str (1)
 > **UI Navigation:** go to (2)
@@ -3162,8 +3163,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (11), data (6), api (2), application (2), web (1)
 > **Env Vars:** json (9), html (1)
-> **Code Keywords:** let (6), delete (1), this. (1)
 > **CLI Commands:** make (1), mongo (1)
 > **Code Identifiers:** getview (2)
 > **Cross-References:** go back to (2)
@@ -3196,7 +3197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), api (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Create an endpoint
@@ -3248,8 +3249,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[MongoDB]] (1), data (1)
 > **Code Identifiers:** skipval (5), limitval (4)
-> **Code Keywords:** let (6), this. (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Tools:** terminal (1)
@@ -3259,7 +3260,7 @@ created: 2026-04-29
 
 ### 6. WebSockets and Crow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing the JavaScript client code
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980)
@@ -3298,7 +3299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1), function (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** web (10), [[JavaScript]] (4), [[WebSocket]] (3), [[HTML]] (2), [[Real-Time]] (1)
 > **File Paths:** websocket.js (3), chat.html (2)
 > **UI Navigation:** go to (4)
 > **Env Vars:** tcp (1), wss (1), url (1)
@@ -3448,7 +3449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), lambda (5), const (3), function (2), pass (1)
+> **Frameworks & Libraries:** web (8), data (4), [[JavaScript]] (1), next (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3)
 > **Env Vars:** html (1), url (1)
@@ -3535,7 +3536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1)
+> **Frameworks & Libraries:** web (4), cloud (4), next (4), [[JSON]] (2), data (2)
 > **CLI Commands:** docker (1), cat (1), make (1)
 > **Env Vars:** json (2)
 > **UI Navigation:** go to (2)
@@ -3547,7 +3548,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/next-steps?u=76281980)
@@ -3564,6 +3565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

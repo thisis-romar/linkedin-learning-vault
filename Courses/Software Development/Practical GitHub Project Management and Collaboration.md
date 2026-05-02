@@ -30,7 +30,7 @@ tags:
   - skill/project-management
   - skill/github
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practical%20GitHub%20Project%20Management%20and%20Collaboration.md)
@@ -49,28 +49,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Creating projects for development
+  - [Creating projects for development](#creating-projects-for-development)
 - [**1. Creating a Project**](#1-creating-a-project) (9 videos)
-  - Projects vs. classic projects
-  - Starting your first project
-  - Project settings and fields
-  - Using view categories
-  - Converting drafts to issues
-  - Assigning items to collaborators
-  - Starting a project with an issue
-  - Project items with pull requests
-  - Using saved replies
+  - [Projects vs. classic projects](#projects-vs-classic-projects)
+  - [Starting your first project](#starting-your-first-project)
+  - [Project settings and fields](#project-settings-and-fields)
+  - [Using view categories](#using-view-categories)
+  - [Converting drafts to issues](#converting-drafts-to-issues)
+  - [Assigning items to collaborators](#assigning-items-to-collaborators)
+  - [Starting a project with an issue](#starting-a-project-with-an-issue)
+  - [Project items with pull requests](#project-items-with-pull-requests)
+  - [Using saved replies](#using-saved-replies)
 - [**2. Working with Projects**](#2-working-with-projects) (5 videos)
-  - Using labels
-  - Task lists
-  - Slash commands and emojis
-  - Views and filters
-  - Insights
+  - [Using labels](#using-labels)
+  - [Task lists](#task-lists)
+  - [Slash commands and emojis](#slash-commands-and-emojis)
+  - [Views and filters](#views-and-filters)
+  - [Insights](#insights)
 - [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating projects for development
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/creating-projects-for-development-29982145?u=76281980)
@@ -89,14 +89,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), management (1)
 > **Tools:** github (2)
 > **Speakers:** - most (1)
 
 
 ### 1. Creating a Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Projects vs. classic projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?u=76281980)
@@ -147,8 +147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4)
 > **UI Navigation:** click on (5), go to (1)
-> **Code Keywords:** let (3), default, (1)
 > **Tools:** github (4)
 > **Analogies:** similar to (3), for example (1)
 > **CLI Commands:** find (2)
@@ -321,7 +321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (2), delete (2), else, (2), private (1)
+> **Frameworks & Libraries:** hit (5), [[GitHub]] (3), data (2), [[Agile Development|Agile]] (1), management (1)
 > **UI Navigation:** go to (4), drag and drop (1), open the (1), switch to (1), click on (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (4), means that (1)
@@ -457,7 +457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (2), default, (1), this, (1)
+> **Frameworks & Libraries:** hit (5), [[Search]] (2), [[GitHub]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1), as we saw (1)
 > **Definitions:** is a  (2)
@@ -612,7 +612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (2), this, (1), require (1), super (1)
+> **Frameworks & Libraries:** hit (3), data (1), [[Agile Development|Agile]] (1), [[Zoom]] (1), feature (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **Definitions:** means that (2), is a  (1)
@@ -758,7 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (2), this, (1), continue (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), hit (1), [[Search]] (1)
 > **Tools:** github (7)
 > **UI Navigation:** go to (2), click on (2)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
@@ -885,7 +885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (1), else. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** hit (5), [[GitHub]] (2), next (2), node (1)
 > **UI Navigation:** click on (3), go to (2), dropdown (2)
 > **CLI Commands:** find (4), node (1), make (1)
 > **Env Vars:** readme (3)
@@ -1017,7 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (1), for. (1), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), hit (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** github (8)
 > **UI Navigation:** go to (4)
 > **Env Vars:** mit (2)
@@ -1115,7 +1115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (3), this. (1), interface (1)
+> **Frameworks & Libraries:** [[Git]] (2), hit (2), web (1), [[Codespaces]] (1)
 > **CLI Commands:** make (7), git (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** setup (2)
@@ -1165,15 +1165,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Working with Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using labels
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-labels?u=76281980)
@@ -1350,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (2), interface (2), for, (1), case, (1)
+> **Frameworks & Libraries:** next (3), [[Search]] (1)
 > **UI Navigation:** click on (7), go to (2)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3)
@@ -1560,7 +1560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (2), return, (1), this, (1), super (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), hit (5), next (2), feature (1)
 > **CLI Commands:** make (5)
 > **Tools:** github (5)
 > **UI Navigation:** click on (4)
@@ -1686,7 +1686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), super (2), this, (1), delete (1), this. (1)
+> **Frameworks & Libraries:** hit (6), [[Software Development]] (3), [[HTML]] (2), [[GitHub]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** html (2)
 > **Cross-References:** go back to (1), as we saw (1)
@@ -1804,8 +1804,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft Excel|Excel]] (1), hit (1)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** this, (2), let (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), just like (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -1855,7 +1855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), this, (1), let (1), delete (1)
+> **Frameworks & Libraries:** feature (2), [[GitHub]] (2), cloud (1)
 > **Env Vars:** url (2)
 > **Tools:** github (2)
 > **Prerequisites:** configure (2)
@@ -1865,7 +1865,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

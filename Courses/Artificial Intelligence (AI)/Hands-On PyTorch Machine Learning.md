@@ -32,7 +32,7 @@ tags:
   - skill/pytorch
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20PyTorch%20Machine%20Learning.md)
@@ -51,33 +51,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Explore the capabilities of PyTorch
+  - [Explore the capabilities of PyTorch](#explore-the-capabilities-of-pytorch)
 - [**1. Preparation**](#1-preparation) (4 videos)
-  - PyTorch overview
-  - PyTorch environment setup
-  - PyTorch use case description
-  - PyTorch data exploration
+  - [PyTorch overview](#pytorch-overview)
+  - [PyTorch environment setup](#pytorch-environment-setup)
+  - [PyTorch use case description](#pytorch-use-case-description)
+  - [PyTorch data exploration](#pytorch-data-exploration)
 - [**2. PyTorch Basics**](#2-pytorch-basics) (5 videos)
-  - Understand PyTorch tensors
-  - Understand PyTorch basic operations
-  - Understand PyTorch NumPy Bridge
-  - Understand PyTorch autograd
-  - Advanced PyTorch autograd
+  - [Understand PyTorch tensors](#understand-pytorch-tensors)
+  - [Understand PyTorch basic operations](#understand-pytorch-basic-operations)
+  - [Understand PyTorch NumPy Bridge](#understand-pytorch-numpy-bridge)
+  - [Understand PyTorch autograd](#understand-pytorch-autograd)
+  - [Advanced PyTorch autograd](#advanced-pytorch-autograd)
 - [**3. Torchvision**](#3-torchvision) (2 videos)
-  - Torchvision introduction
-  - Torchvision for video and image understanding
+  - [Torchvision introduction](#torchvision-introduction)
+  - [Torchvision for video and image understanding](#torchvision-for-video-and-image-understanding)
 - [**4. Torchaudio**](#4-torchaudio) (2 videos)
-  - Torchaudio introduction
-  - Torchaudio for audio understanding
+  - [Torchaudio introduction](#torchaudio-introduction)
+  - [Torchaudio for audio understanding](#torchaudio-for-audio-understanding)
 - [**5. Torchtext**](#5-torchtext) (2 videos)
-  - Torchtext introduction
-  - Torchtext for translation
+  - [Torchtext introduction](#torchtext-introduction)
+  - [Torchtext for translation](#torchtext-for-translation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your PyTorch learning process
+  - [Continuing your PyTorch learning process](#continuing-your-pytorch-learning-process)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the capabilities of PyTorch
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980)
@@ -100,13 +100,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PyTorch]] (5), ai (4), [[Computer Vision]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Engineering]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [dr (1)
 
 
 ### 1. Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PyTorch overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980)
@@ -173,7 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), function (1), interface (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[PyTorch]] (17), data (6), [[Deep Learning]] (4), [[Computer Vision]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2)
 > **Env Vars:** cpu (1), gpu (1), api (1), cuda (1), tpu (1)
 > **Analogies:** such as (3), similar to (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -262,11 +263,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PyTorch]] (9), [[Python (Programming Language)|Python]] (3), [[Windows]] (1), [[Linux]] (1), [[GitHub]] (1)
 > **Prerequisites:** install (9), set up (2), setup (2)
 > **CLI Commands:** pip3 (6), python (3), pip (1), make (1), python3 (1)
 > **Tools:** jupyter (2), github (1), iterm (1), anaconda (1)
 > **UI Navigation:** click on (2), scroll down (1), go to (1), select the (1)
-> **Code Keywords:** module (1), include: (1)
 > **Exercise Files:** download the (1), source code (1)
 > **Code Identifiers:** iterm (1)
 > **Versions:** 1.10.1 (1)
@@ -310,7 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), case, (1), continue (1)
+> **Frameworks & Libraries:** ai (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[PyTorch]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -408,7 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** data (23), [[PyTorch]] (11), [[Pandas (Software)|Pandas]] (6), next (5), [[HTML]] (3)
 > **Env Vars:** mnist (2), csv (2)
 > **File Paths:** pytorch.org/vision/stable/datasets.html (1), pytorch.org/text/stable/datasets.html (1), pytorch.org/audio/stable/datasets.html (1)
 > **CLI Commands:** find (2), pip3 (1)
@@ -420,7 +421,7 @@ created: 2026-04-29
 
 ### 2. PyTorch Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand PyTorch tensors
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-tensors?u=76281980)
@@ -493,8 +494,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[PyTorch]] (3), parallel (1)
 > **Env Vars:** cuda (2), nividia (2), cpu (1), gpu (1)
-> **Code Keywords:** let (2), type, (2), default, (1)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** is an  (1), stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -554,7 +555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2)
+> **Frameworks & Libraries:** [[PyTorch]] (3), [[Scala]] (1), [[Linear Algebra]] (1), next (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -617,7 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), let (1), type. (1)
+> **Frameworks & Libraries:** [[PyTorch]] (8), data (4), [[Deep Learning]] (1), express (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpu (1)
@@ -685,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), function (4), let (4)
+> **Frameworks & Libraries:** next (3), [[PyTorch]] (2), [[Deep Learning]] (1), data (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Versions:** 4.5 (1)
@@ -734,14 +735,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), require (1), function (1), this. (1)
+> **Frameworks & Libraries:** [[PyTorch]] (1)
 > **Code Identifiers:** no_grad (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Torchvision
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Torchvision introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980)
@@ -862,10 +863,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Computer Vision]] (5), [[PyTorch]] (3), feature (3), api (2)
 > **Env Vars:** mnist (8), jpeg (6), cifar (3), png (3), rgb (3)
 > **Code Identifiers:** read_image (1), decode_image (1), encode_jpeg (1), decode_jpeg (1), write_jpeg (1)
 > **Definitions:** is a  (5), refers to (1), is an  (1)
-> **Code Keywords:** implements (2), let (1), pass (1)
 > **URLs:** [torchvision.io](https://torchvision.io) (1)
 > **Cross-References:** we covered (1)
 > **Documentation:** the documentation (1)
@@ -902,7 +903,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), class. (1), finally, (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pil (1)
@@ -912,7 +912,7 @@ created: 2026-04-29
 
 ### 4. Torchaudio
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Torchaudio introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980)
@@ -967,11 +967,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), functional (5), [[PyTorch]] (2), application (1), [[Metadata]] (1)
 > **Analogies:** similar to (4), for instance (1)
 > **Env Vars:** cmu (1), gtzan (1), vctk (1), rir (1)
 > **Code Identifiers:** sox_effects (1), kaldi_io (1), apply_codec (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1), implements (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1056,7 +1056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (2), continue (1), case. (1), interface (1)
+> **Frameworks & Libraries:** next (6), data (3), feature (2), web (1)
 > **Env Vars:** vac (3), asr (1), https (1)
 > **Speakers:** - [male (2), - now (1), - next (1), - yes (1)
 > **Versions:** 2.0 (1), 4.0 (1)
@@ -1066,7 +1066,7 @@ created: 2026-04-29
 
 ### 5. Torchtext
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Torchtext introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980)
@@ -1131,7 +1131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), module (2)
+> **Frameworks & Libraries:** data (14), [[PyTorch]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), api (2), functional (2)
 > **Env Vars:** api (2), xml (2)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1), be aware (1)
@@ -1217,7 +1217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), continue (1), case. (1), from, (1)
+> **Frameworks & Libraries:** next (5), [[Microsoft Word|Word]] (1), data (1), [[Probability]] (1)
 > **Env Vars:** rnn (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** linetotensor (1)
@@ -1226,7 +1226,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your PyTorch learning process
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980)
@@ -1253,7 +1253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1)
+> **Frameworks & Libraries:** ai (3), [[PyTorch]] (2), [[LinkedIn]] (2), [[Computer Vision]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

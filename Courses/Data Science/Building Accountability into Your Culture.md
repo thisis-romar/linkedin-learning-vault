@@ -32,7 +32,7 @@ tags:
   - skill/accountability
   - skill/organizational-culture
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20Accountability%20into%20Your%20Culture.md)
@@ -51,26 +51,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Your role as a leader in driving accountability
+  - [Your role as a leader in driving accountability](#your-role-as-a-leader-in-driving-accountability)
 - [**1. The Role of Leaders in Modeling Accountability**](#1-the-role-of-leaders-in-modeling-accountability) (4 videos)
-  - Setting the tone for accountable behavior
-  - What and who are you accountable to?
-  - From accountable to responsible
-  - Modeling the right behaviors
+  - [Setting the tone for accountable behavior](#setting-the-tone-for-accountable-behavior)
+  - [What and who are you accountable to?](#what-and-who-are-you-accountable-to)
+  - [From accountable to responsible](#from-accountable-to-responsible)
+  - [Modeling the right behaviors](#modeling-the-right-behaviors)
 - [**2. The Role of Individuals and Teams**](#2-the-role-of-individuals-and-teams) (3 videos)
-  - Defining accountability on your team
-  - Using incentives to drive accountability
-  - Resources for your team
+  - [Defining accountability on your team](#defining-accountability-on-your-team)
+  - [Using incentives to drive accountability](#using-incentives-to-drive-accountability)
+  - [Resources for your team](#resources-for-your-team)
 - [**3. Building Accountability into Your Culture and Brand**](#3-building-accountability-into-your-culture-and-brand) (3 videos)
-  - Creating a culture of accountability
-  - Strengthening a brand
-  - Reinforcing a culture of accountability
+  - [Creating a culture of accountability](#creating-a-culture-of-accountability)
+  - [Strengthening a brand](#strengthening-a-brand)
+  - [Reinforcing a culture of accountability](#reinforcing-a-culture-of-accountability)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Generating momentum and overcoming obstacles
+  - [Generating momentum and overcoming obstacles](#generating-momentum-and-overcoming-obstacles)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your role as a leader in driving accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/your-role-as-a-leader?u=76281980)
@@ -91,13 +91,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Accountability]] (4)
 > **Speakers:** - one (1)
 
 
 ### 1. The Role of Leaders in Modeling Accountability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting the tone for accountable behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980)
@@ -174,8 +174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (5), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** case, (1), let (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -262,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1)
+> **Frameworks & Libraries:** leadership (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Warnings:** be careful (1)
@@ -301,6 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - it (1)
@@ -364,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Accountability]] (4), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
@@ -372,7 +373,7 @@ created: 2026-04-29
 
 ### 2. The Role of Individuals and Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining accountability on your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/defining-accountability-on-your-team?u=76281980)
@@ -427,7 +428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), this. (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - once (1)
@@ -505,7 +506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (3), let (2), for, (1)
+> **Frameworks & Libraries:** next (1), management (1), [[Accountability]] (1)
 > **Speakers:** - once (1)
 
 #### Resources for your team
@@ -559,13 +560,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), hit (2), management (1), next (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - leaders (1)
 
 
 ### 3. Building Accountability into Your Culture and Brand
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a culture of accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/creating-a-culture-of-accountability-2?u=76281980)
@@ -658,7 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (2)
+> **Frameworks & Libraries:** [[Accountability]] (4)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - once (1)
@@ -716,8 +718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (3), product (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - your (1)
@@ -775,13 +777,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (2), management (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating momentum and overcoming obstacles
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/generating-momentum-and-overcoming-obstacles-2?u=76281980)
@@ -846,8 +849,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (3)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - moving (1)
 

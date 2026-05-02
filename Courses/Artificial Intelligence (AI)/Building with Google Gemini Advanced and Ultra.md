@@ -39,7 +39,7 @@ tags:
   - skill/gemini
   - skill/google-gemini
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20with%20Google%20Gemini%20Advanced%20and%20Ultra.md)
@@ -58,16 +58,16 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to Google's AI family of the future
+  - [Welcome to Google's AI family of the future](#welcome-to-googles-ai-family-of-the-future)
 - [**1. Google Gemini Changes Artificial Intelligence**](#1-google-gemini-changes-artificial-intelligence) (4 videos)
-  - Learning Google Gemini fundamentals
-  - Chatting with new Google Gemini
-  - Prompting with Google Gemini
-  - Building with Google Gemini
+  - [Learning Google Gemini fundamentals](#learning-google-gemini-fundamentals)
+  - [Chatting with new Google Gemini](#chatting-with-new-google-gemini)
+  - [Prompting with Google Gemini](#prompting-with-google-gemini)
+  - [Building with Google Gemini](#building-with-google-gemini)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Google's AI family of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980)
@@ -84,7 +84,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Google]] (2), ai (2), [[Gemini]] (2), chatbot (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Versions:** version 1 (1)
 > **Definitions:** known as (1)
 > **Speakers:** - google (1)
@@ -92,7 +92,7 @@ created: 2026-04-29
 
 ### 1. Google Gemini Changes Artificial Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Google Gemini fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980)
@@ -167,8 +167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (7), [[Tokens]] (6), [[Google]] (3), [[Generative AI]] (2), [[GPT-4]] (2)
 > **Versions:** 1.5 (3), 1.8 (1), 3.25 (1), 1.0 (1), 3.5 (1)
-> **Code Keywords:** case, (1), default, (1), finally, (1)
 > **Env Vars:** gpt (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - talking (1)
@@ -226,7 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), public (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Gemini]] (7), [[Google Gemini]] (5), business (4), chatbot (3)
 > **Versions:** 1.0 (1), 1.5 (1), 19.99 (1)
 > **Definitions:** is called (1), stands for (1), means that (1)
 > **Warnings:** keep in mind (1)
@@ -333,7 +333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), else, (1), try, (1), case. (1), continue (1)
+> **Frameworks & Libraries:** prompt (10), [[Google]] (9), [[Gemini]] (7), power (2), [[Google Gemini]] (1)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** mmlu (1), gpt (1)
@@ -439,8 +439,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (13), api (7), [[Gemini]] (6), ai (6), [[Google]] (5)
 > **Env Vars:** api (7), llm (3), html (2), pdf (1), csv (1)
-> **Code Keywords:** let (6), delete (1), pass (1), else, (1), interface (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (1), make (1), python (1)
 > **Definitions:** is a  (2), known as (1)

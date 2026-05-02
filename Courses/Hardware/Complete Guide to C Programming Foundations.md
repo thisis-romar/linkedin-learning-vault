@@ -33,7 +33,7 @@ tags:
   - skill/c-programming-language
   - skill/programming-foundations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Complete%20Guide%20to%20C%20Programming%20Foundations.md)
@@ -52,158 +52,158 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Diving into C
-  - Configuration and setup
+  - [Diving into C](#diving-into-c)
+  - [Configuration and setup](#configuration-and-setup)
 - [**1. C Programming Fundamentals**](#1-c-programming-fundamentals) (13 videos)
-  - Coding your first program
-  - Challenge: Write your own code
-  - Solution: Write your own code
-  - Getting into the C language
-  - Reviewing code structure
-  - Working the C development cycle
-  - Challenge: Find and fix the bugs
-  - Solution: Find and fix the bugs
-  - Exploring the preprocessor
-  - Understanding header files and libraries
-  - Adding comments
-  - Chapter challenge: Building the foundation
-  - Chapter solution: Building the foundation
+  - [Coding your first program](#coding-your-first-program)
+  - [Challenge: Write your own code](#challenge-write-your-own-code)
+  - [Solution: Write your own code](#solution-write-your-own-code)
+  - [Getting into the C language](#getting-into-the-c-language)
+  - [Reviewing code structure](#reviewing-code-structure)
+  - [Working the C development cycle](#working-the-c-development-cycle)
+  - [Challenge: Find and fix the bugs](#challenge-find-and-fix-the-bugs)
+  - [Solution: Find and fix the bugs](#solution-find-and-fix-the-bugs)
+  - [Exploring the preprocessor](#exploring-the-preprocessor)
+  - [Understanding header files and libraries](#understanding-header-files-and-libraries)
+  - [Adding comments](#adding-comments)
+  - [Chapter challenge: Building the foundation](#chapter-challenge-building-the-foundation)
+  - [Chapter solution: Building the foundation](#chapter-solution-building-the-foundation)
 - [**2. Variables and Values**](#2-variables-and-values) (14 videos)
-  - Understanding C language data types
-  - Declaring variables
-  - Working with variables
-  - Exploring the printf() function
-  - Using constants
-  - Challenge: Making variables and constants
-  - Solution: Making variables and constants
-  - Understanding variable scope
-  - Making new data types
-  - Specifying characters and strings
-  - Specifying integers and real numbers
-  - Typecasting a variable
-  - Chapter challenge: Adding variables and constants
-  - Chapter solution: Adding variables and constants
+  - [Understanding C language data types](#understanding-c-language-data-types)
+  - [Declaring variables](#declaring-variables)
+  - [Working with variables](#working-with-variables)
+  - [Exploring the printf() function](#exploring-the-printf-function)
+  - [Using constants](#using-constants)
+  - [Challenge: Making variables and constants](#challenge-making-variables-and-constants)
+  - [Solution: Making variables and constants](#solution-making-variables-and-constants)
+  - [Understanding variable scope](#understanding-variable-scope)
+  - [Making new data types](#making-new-data-types)
+  - [Specifying characters and strings](#specifying-characters-and-strings)
+  - [Specifying integers and real numbers](#specifying-integers-and-real-numbers)
+  - [Typecasting a variable](#typecasting-a-variable)
+  - [Chapter challenge: Adding variables and constants](#chapter-challenge-adding-variables-and-constants)
+  - [Chapter solution: Adding variables and constants](#chapter-solution-adding-variables-and-constants)
 - [**3. Operators and Math**](#3-operators-and-math) (14 videos)
-  - Working with math operators
-  - Challenge: Do some math
-  - Solution: Do some math
-  - Using assignment operators
-  - Obeying the order of precedence
-  - Challenge: Get the order correct
-  - Solution: Get the order correct
-  - Working with relational operators
-  - Using logical operators
-  - Understanding bitwise operators
-  - Shifting bits
-  - Exploring unary operators
-  - Chapter challenge: More math
-  - Chapter solution: More math
+  - [Working with math operators](#working-with-math-operators)
+  - [Challenge: Do some math](#challenge-do-some-math)
+  - [Solution: Do some math](#solution-do-some-math)
+  - [Using assignment operators](#using-assignment-operators)
+  - [Obeying the order of precedence](#obeying-the-order-of-precedence)
+  - [Challenge: Get the order correct](#challenge-get-the-order-correct)
+  - [Solution: Get the order correct](#solution-get-the-order-correct)
+  - [Working with relational operators](#working-with-relational-operators)
+  - [Using logical operators](#using-logical-operators)
+  - [Understanding bitwise operators](#understanding-bitwise-operators)
+  - [Shifting bits](#shifting-bits)
+  - [Exploring unary operators](#exploring-unary-operators)
+  - [Chapter challenge: More math](#chapter-challenge-more-math)
+  - [Chapter solution: More math](#chapter-solution-more-math)
 - [**4. Decisions and Loops**](#4-decisions-and-loops) (15 videos)
-  - Making a decision
-  - Exploring the possibilities
-  - Using the ternary operator
-  - Working with the switch-case structure
-  - Challenge: Select an item
-  - Solution: Select an item
-  - Creating a for loop
-  - Setting up a while loop
-  - Challenge: Repeat some text
-  - Solution: Repeat some text
-  - Nesting loops
-  - Breaking out of a loop
-  - Avoiding the goto keyword
-  - Chapter challenge: Interpreting commands
-  - Chapter solution: Interpreting commands
+  - [Making a decision](#making-a-decision)
+  - [Exploring the possibilities](#exploring-the-possibilities)
+  - [Using the ternary operator](#using-the-ternary-operator)
+  - [Working with the switch-case structure](#working-with-the-switch-case-structure)
+  - [Challenge: Select an item](#challenge-select-an-item)
+  - [Solution: Select an item](#solution-select-an-item)
+  - [Creating a for loop](#creating-a-for-loop)
+  - [Setting up a while loop](#setting-up-a-while-loop)
+  - [Challenge: Repeat some text](#challenge-repeat-some-text)
+  - [Solution: Repeat some text](#solution-repeat-some-text)
+  - [Nesting loops](#nesting-loops)
+  - [Breaking out of a loop](#breaking-out-of-a-loop)
+  - [Avoiding the goto keyword](#avoiding-the-goto-keyword)
+  - [Chapter challenge: Interpreting commands](#chapter-challenge-interpreting-commands)
+  - [Chapter solution: Interpreting commands](#chapter-solution-interpreting-commands)
 - [**5. Functions**](#5-functions) (15 videos)
-  - Understanding functions
-  - Creating a function
-  - Challenge: Writing a function
-  - Solution: Writing a function
-  - Returning a value from a function
-  - Challenge: Returning a value
-  - Solution: Returning a value
-  - Passing arguments to a function
-  - Challenge: Passing values
-  - Solution: Passing values
-  - Using the main() function's arguments
-  - Retaining values in a function
-  - Creating recursive functions
-  - Chapter challenge: Write the functions
-  - Chapter solution: Write the functions
+  - [Understanding functions](#understanding-functions)
+  - [Creating a function](#creating-a-function)
+  - [Challenge: Writing a function](#challenge-writing-a-function)
+  - [Solution: Writing a function](#solution-writing-a-function)
+  - [Returning a value from a function](#returning-a-value-from-a-function)
+  - [Challenge: Returning a value](#challenge-returning-a-value)
+  - [Solution: Returning a value](#solution-returning-a-value)
+  - [Passing arguments to a function](#passing-arguments-to-a-function)
+  - [Challenge: Passing values](#challenge-passing-values)
+  - [Solution: Passing values](#solution-passing-values)
+  - [Using the main() function's arguments](#using-the-main-functions-arguments)
+  - [Retaining values in a function](#retaining-values-in-a-function)
+  - [Creating recursive functions](#creating-recursive-functions)
+  - [Chapter challenge: Write the functions](#chapter-challenge-write-the-functions)
+  - [Chapter solution: Write the functions](#chapter-solution-write-the-functions)
 - [**6. Arrays and Structures**](#6-arrays-and-structures) (14 videos)
-  - Understanding arrays
-  - Working with arrays
-  - Challenge: Creating an array
-  - Solution: Creating an array
-  - Passing an array to a function
-  - Working with multi-dimensional arrays
-  - Building a structure
-  - Nesting structures
-  - Challenge: Constructing a structure
-  - Solution: Constructing a structure
-  - Putting structures into an array
-  - Working with structures and functions
-  - Chapter challenge: Manipulating a structure
-  - Chapter solution: Manipulating a structure
+  - [Understanding arrays](#understanding-arrays)
+  - [Working with arrays](#working-with-arrays)
+  - [Challenge: Creating an array](#challenge-creating-an-array)
+  - [Solution: Creating an array](#solution-creating-an-array)
+  - [Passing an array to a function](#passing-an-array-to-a-function)
+  - [Working with multi-dimensional arrays](#working-with-multi-dimensional-arrays)
+  - [Building a structure](#building-a-structure)
+  - [Nesting structures](#nesting-structures)
+  - [Challenge: Constructing a structure](#challenge-constructing-a-structure)
+  - [Solution: Constructing a structure](#solution-constructing-a-structure)
+  - [Putting structures into an array](#putting-structures-into-an-array)
+  - [Working with structures and functions](#working-with-structures-and-functions)
+  - [Chapter challenge: Manipulating a structure](#chapter-challenge-manipulating-a-structure)
+  - [Chapter solution: Manipulating a structure](#chapter-solution-manipulating-a-structure)
 - [**7. Characters and Strings**](#7-characters-and-strings) (13 videos)
-  - Using single character I/O
-  - Testing and converting characters
-  - Challenge: Character I/O and conversions
-  - Solution: Character I/O and conversions
-  - Understanding strings in C
-  - Fetching string input
-  - Sending string output
-  - Challenge: Using printf placeholders
-  - Solution: Using printf placeholders
-  - Exploring string functions
-  - Manipulating strings
-  - Chapter challenge: Reading commands
-  - Chapter solution: Reading commands
+  - [Using single character I/O](#using-single-character-io)
+  - [Testing and converting characters](#testing-and-converting-characters)
+  - [Challenge: Character I/O and conversions](#challenge-character-io-and-conversions)
+  - [Solution: Character I/O and conversions](#solution-character-io-and-conversions)
+  - [Understanding strings in C](#understanding-strings-in-c)
+  - [Fetching string input](#fetching-string-input)
+  - [Sending string output](#sending-string-output)
+  - [Challenge: Using printf placeholders](#challenge-using-printf-placeholders)
+  - [Solution: Using printf placeholders](#solution-using-printf-placeholders)
+  - [Exploring string functions](#exploring-string-functions)
+  - [Manipulating strings](#manipulating-strings)
+  - [Chapter challenge: Reading commands](#chapter-challenge-reading-commands)
+  - [Chapter solution: Reading commands](#chapter-solution-reading-commands)
 - [**8. Pointers**](#8-pointers) (15 videos)
-  - Understanding pointers
-  - Using pointers to manipulate data
-  - Doing pointer math
-  - Comparing arrays and pointers
-  - Challenge: Output a string
-  - Solution: Output a string
-  - Allocating storage
-  - Working with a pointer array
-  - Using pointers in structures
-  - Challenge: Allocating structures
-  - Solution: Allocating structures
-  - Passing pointers to functions
-  - Returning pointers from a function
-  - Chapter challenge: Processing input
-  - Chapter solution: Processing input
+  - [Understanding pointers](#understanding-pointers)
+  - [Using pointers to manipulate data](#using-pointers-to-manipulate-data)
+  - [Doing pointer math](#doing-pointer-math)
+  - [Comparing arrays and pointers](#comparing-arrays-and-pointers)
+  - [Challenge: Output a string](#challenge-output-a-string)
+  - [Solution: Output a string](#solution-output-a-string)
+  - [Allocating storage](#allocating-storage)
+  - [Working with a pointer array](#working-with-a-pointer-array)
+  - [Using pointers in structures](#using-pointers-in-structures)
+  - [Challenge: Allocating structures](#challenge-allocating-structures)
+  - [Solution: Allocating structures](#solution-allocating-structures)
+  - [Passing pointers to functions](#passing-pointers-to-functions)
+  - [Returning pointers from a function](#returning-pointers-from-a-function)
+  - [Chapter challenge: Processing input](#chapter-challenge-processing-input)
+  - [Chapter solution: Processing input](#chapter-solution-processing-input)
 - [**9. Files and the Operating System**](#9-files-and-the-operating-system) (14 videos)
-  - Reading from a file
-  - Writing to a file
-  - Challenge: Writing and reading files
-  - Solution: Writing and reading files
-  - Working with raw data
-  - Using random file access
-  - Challenge: Access database records
-  - Solution: Access database records
-  - Manipulating files
-  - Exploring the path
-  - Reading a directory
-  - Getting file information
-  - Chapter challenge: Managing files
-  - Chapter solution: Managing files
+  - [Reading from a file](#reading-from-a-file)
+  - [Writing to a file](#writing-to-a-file)
+  - [Challenge: Writing and reading files](#challenge-writing-and-reading-files)
+  - [Solution: Writing and reading files](#solution-writing-and-reading-files)
+  - [Working with raw data](#working-with-raw-data)
+  - [Using random file access](#using-random-file-access)
+  - [Challenge: Access database records](#challenge-access-database-records)
+  - [Solution: Access database records](#solution-access-database-records)
+  - [Manipulating files](#manipulating-files)
+  - [Exploring the path](#exploring-the-path)
+  - [Reading a directory](#reading-a-directory)
+  - [Getting file information](#getting-file-information)
+  - [Chapter challenge: Managing files](#chapter-challenge-managing-files)
+  - [Chapter solution: Managing files](#chapter-solution-managing-files)
 - [**10. The Interesting and Extraordinary**](#10-the-interesting-and-extraordinary) (7 videos)
-  - Calling the operating system
-  - Doing advanced math
-  - Working with time functions
-  - Creating random numbers
-  - Sorting data
-  - Chapter challenge: Sorting a grid
-  - Chapter solution: Sorting a grid
+  - [Calling the operating system](#calling-the-operating-system)
+  - [Doing advanced math](#doing-advanced-math)
+  - [Working with time functions](#working-with-time-functions)
+  - [Creating random numbers](#creating-random-numbers)
+  - [Sorting data](#sorting-data)
+  - [Chapter challenge: Sorting a grid](#chapter-challenge-sorting-a-grid)
+  - [Chapter solution: Sorting a grid](#chapter-solution-sorting-a-grid)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into C
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=76281980)
@@ -226,6 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Programming Foundations]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -328,11 +329,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (5), [[GitHub]] (4), web (3), [[Linux]] (2), [[Programming]] (1)
 > **Tools:** github (4), terminal (2)
 > **Exercise Files:** source code (3), exercise files (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (2), just like (1)
-> **Code Keywords:** this. (1), let (1)
 > **Warnings:** be aware (1), warning (1)
 > **Prerequisites:** configure (1), install (1)
 > **CLI Commands:** find (1)
@@ -340,7 +341,7 @@ created: 2026-04-29
 
 ### 1. C Programming Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coding your first program
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980)
@@ -413,7 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), else, (1)
+> **Frameworks & Libraries:** [[Programming]] (3), [[Microsoft Word|Word]] (2), [[Fetch]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **File Paths:** stdio.h (2)
 > **Exercise Files:** exercise file (1), source code (1)
@@ -455,7 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this. (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Exercise Files:** source code (1), exercise files (1)
 > **File Paths:** stdio.h (1)
 > **Analogies:** such as (1)
@@ -511,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -588,7 +589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return. (1)
+> **Frameworks & Libraries:** [[Programming]] (2), data (1), express (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [presenter] (1)
 
@@ -679,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (5)
 > **Exercise Files:** source code (2)
 > **File Paths:** stdio.h (1)
@@ -776,8 +777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Tokens]] (1), [[Programming]] (1)
 > **Exercise Files:** source code (11), exercise file (1)
-> **Code Keywords:** function (3), for. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** ide (2)
@@ -861,7 +862,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Exploring the preprocessor
@@ -941,8 +941,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), [[Windows]] (1), [[Search]] (1)
 > **Exercise Files:** source code (7)
-> **Code Keywords:** function (2), include. (1)
 > **Env Vars:** count (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1016,7 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), include. (1)
+> **Frameworks & Libraries:** data (1)
 > **Analogies:** such as (3), picture (1)
 > **File Paths:** math.h (3)
 > **Documentation:** man page (2)
@@ -1090,7 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), self (1)
+> **Frameworks & Libraries:** [[Debugging]] (3)
 > **Warnings:** warning (2)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -1130,7 +1130,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4)
 > **Exercise Files:** source code (3)
 > **File Paths:** stdio.h (1), stdlib.h (1)
 > **Speakers:** - [instructor] (1)
@@ -1171,7 +1170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), self (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** source code (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1180,7 +1179,7 @@ created: 2026-04-29
 
 ### 2. Variables and Values
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding C language data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-c-language-data-types?u=76281980)
@@ -1253,7 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), default, (1), function (1)
+> **Frameworks & Libraries:** data (16), [[Programming]] (2)
 > **Versions:** 0.25 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1324,7 +1323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case. (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), [[Programming]] (1), [[Security]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
@@ -1400,7 +1399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), function (1), type. (1), delete (1), case. (1)
+> **Frameworks & Libraries:** data (4), next (1)
 > **Versions:** 0.25 (1), 2.5 (1)
 > **CLI Commands:** ls (1)
 > **Exercise Files:** source code (1)
@@ -1478,7 +1477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), match, (1), require (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (4), power (2), [[Programming]] (1), prompt (1)
 > **Documentation:** man page (2), specification (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** warning (2)
@@ -1551,7 +1550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), const (2), let (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** source code (4)
 > **Env Vars:** max (2)
 > **Analogies:** just like (2)
@@ -1584,7 +1583,6 @@ created: 2026-04-29
 >
 > **Definitions:** is a  (2), is an  (1)
 > **Exercise Files:** exercise file (2)
-> **Code Keywords:** type, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1625,7 +1623,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1706,7 +1703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), static (4), private (2), default. (2), class. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Programming]] (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Exercise Files:** source code (2)
 > **Speakers:** - [instructor] (1)
@@ -1782,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), type. (2), type, (1)
+> **Frameworks & Libraries:** data (12)
 > **File Paths:** time.h (3)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** known as (2)
@@ -1871,6 +1868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
@@ -1945,7 +1943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (1)
+> **Frameworks & Libraries:** data (3)
 > **Versions:** 0.25 (2), 2.5 (2)
 > **Env Vars:** int (1)
 > **Exercise Files:** exercise file (1)
@@ -2003,7 +2001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), let (1), case. (1), type. (1), function (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -2045,8 +2043,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Exercise Files:** source code (1), exercise files (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
@@ -2100,7 +2098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (1), finally, (1)
+> **Frameworks & Libraries:** next (2), data (1)
 > **Versions:** 0.75 (1), 0.2 (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
@@ -2110,7 +2108,7 @@ created: 2026-04-29
 
 ### 3. Operators and Math
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with math operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-math-operators?u=76281980)
@@ -2179,8 +2177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **Non-Speech:** (keyboard clicking) (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Do some math
@@ -2212,7 +2210,6 @@ created: 2026-04-29
 >
 > **Exercise Files:** source code (1), exercise file (1)
 > **File Paths:** 03_02-challeng1.c (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -2249,7 +2246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Versions:** 0.0 (2), 7.5 (1), 2.0 (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -2298,7 +2295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2379,7 +2376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** next (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (computer keys clicking) (1)
 
@@ -2455,8 +2452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Non-Speech:** (computer keys clicking) (4), (upbeat music) (1)
-> **Code Keywords:** override (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2538,7 +2535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), if, (1), while, (1), for, (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2620,9 +2617,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Warnings:** be aware (1), warning (1)
 > **Speakers:** - [instructor] (1), - 1 (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise file (1)
 
 #### Understanding bitwise operators
@@ -2698,7 +2695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), raise (1)
+> **Frameworks & Libraries:** [[Programming]] (3), power (2), data (1), feature (1)
 > **Exercise Files:** exercise files (1), exercise file (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** binstring (1)
@@ -2785,7 +2782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
@@ -2856,7 +2853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), let (1), default. (1)
+> **Frameworks & Libraries:** data (1), application (1)
 > **File Paths:** stdio.h (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2884,7 +2881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2939,7 +2936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2947,7 +2944,7 @@ created: 2026-04-29
 
 ### 4. Decisions and Loops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making a decision
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/making-a-decision?u=76281980)
@@ -3024,7 +3021,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7)
 > **Exercise Files:** source code (2)
 > **Definitions:** is called (1), is a  (1)
 > **Code Identifiers:** get_value (1)
@@ -3090,7 +3086,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if, (1), let (1), else, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3166,8 +3161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), next (2)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** case. (1), function (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -3253,7 +3248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (9), case, (1), else, (1), continue (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3276,7 +3271,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **File Paths:** challenge1.c (1)
-> **Code Keywords:** switch (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light upbeat music) (1)
@@ -3320,7 +3314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), else, (2)
+> **Frameworks & Libraries:** [[Programming]] (1), career (1), next (1)
 > **Non-Speech:** (light music) (1), (fast typing) (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
@@ -3425,7 +3419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), while, (1), finally, (1)
+> **Frameworks & Libraries:** [[Programming]] (1), feature (1), next (1)
 > **Exercise Files:** exercise file (2)
 > **Prerequisites:** initialization (2)
 > **Speakers:** - [instructor] (1)
@@ -3542,7 +3536,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **File Paths:** 03-09-challenge1.c (1)
-> **Code Keywords:** function (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3595,7 +3588,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -3699,7 +3691,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
 > **Speakers:** - [instructor] (1)
 
 #### Avoiding the goto keyword
@@ -3744,7 +3735,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** goto (8)
-> **Code Keywords:** function (2), break. (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3811,7 +3801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), type. (1), function (1), switch (1)
+> **Frameworks & Libraries:** prompt (3), game (1), [[Programming]] (1)
 > **Env Vars:** right (1), true (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -3906,8 +3896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), [[Microsoft Word|Word]] (1)
 > **Non-Speech:** (keyboard clicking) (11), (bright music) (1)
-> **Code Keywords:** switch (2), continue (2), function (1), break. (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [lecturer] (1)
@@ -3915,7 +3905,7 @@ created: 2026-04-29
 
 ### 5. Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-functions?u=76281980)
@@ -3986,7 +3976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (21), type. (2), match. (1)
+> **Frameworks & Libraries:** data (6), [[Programming]] (1)
 > **Definitions:** is a  (2), is called (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -4104,7 +4094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (38), pass (1), continue (1), require (1), self (1)
+> **Frameworks & Libraries:** prompt (1), data (1), [[Prototyping]] (1)
 > **Exercise Files:** source code (3)
 > **Analogies:** for example (2)
 > **File Paths:** stio.h (1)
@@ -4135,7 +4125,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), type, (1)
 > **Exercise Files:** source code (2), exercise file (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -4184,7 +4173,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), this. (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -4249,7 +4237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), type. (1), private (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (2)
 > **Ports:** :00 (1)
 > **Env Vars:** xqcarwf (1)
 > **Speakers:** - [instructor] (1)
@@ -4285,7 +4273,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1), exercise file (1)
 > **Speakers:** - [narrator] (1)
@@ -4336,7 +4323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -4397,7 +4384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), type. (2), type, (1), return. (1), pass (1)
+> **Frameworks & Libraries:** data (3)
 > **Exercise Files:** source code (1), exercise file (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -4427,7 +4414,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6)
 > **Exercise Files:** exercise file (1), source code (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -4472,7 +4458,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), this. (1), this, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** make sure you have (1)
@@ -4536,8 +4521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), data (1)
 > **Tools:** command line (4), command prompt (3)
-> **Code Keywords:** function (2), case. (1)
 > **Definitions:** is an  (2)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise file (1)
@@ -4600,7 +4585,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), static (6), private (1), default, (1)
 > **Definitions:** is called (3)
 > **Speakers:** - [instructor] (1)
 
@@ -4693,7 +4677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (2), return. (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Analogies:** picture (2), it's like (1), such as (1), for example (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
@@ -4739,7 +4723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), finally, (1)
+> **Frameworks & Libraries:** prompt (1)
 > **Exercise Files:** source code (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** setup (1)
@@ -4795,7 +4779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (2), require (1), type. (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** source code (1)
 > **Prerequisites:** required to (1)
@@ -4805,7 +4789,7 @@ created: 2026-04-29
 
 ### 6. Arrays and Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-arrays?u=76281980)
@@ -4876,8 +4860,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (3), means that (1), is an  (1), in other words (1)
-> **Code Keywords:** type. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Working with arrays
@@ -4949,7 +4933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), for ( (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -4984,6 +4968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Exercise Files:** exercise files (1), source code (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -5038,7 +5023,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), pass (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - here (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5112,7 +5096,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), static (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** exercise file (2)
 > **Definitions:** is a  (1)
@@ -5183,7 +5166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** game (2), data (1)
 > **Exercise Files:** exercise file (1), exercise files (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -5270,7 +5253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (2), type. (2), function (1)
+> **Frameworks & Libraries:** data (7), database (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -5340,8 +5323,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (2)
 > **Exercise Files:** exercise file (3)
-> **Code Keywords:** delete (1), function (1)
 > **Definitions:** refers to (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -5379,10 +5362,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (2)
 > **Exercise Files:** source code (1), exercise files (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
@@ -5469,7 +5452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **File Paths:** string.h (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -5536,6 +5519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5618,7 +5602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (28), pass (2), type. (1), static (1)
+> **Frameworks & Libraries:** data (3)
 > **Code Identifiers:** show_pixel (3)
 > **Definitions:** is called (1), means that (1)
 > **CLI Commands:** make (1)
@@ -5666,7 +5650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9)
+> **Frameworks & Libraries:** prompt (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -5725,7 +5709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), static (1), let (1)
+> **Frameworks & Libraries:** prompt (2), next (1), data (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -5734,7 +5718,7 @@ created: 2026-04-29
 
 ### 7. Characters and Strings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using single character I/O
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980)
@@ -5819,7 +5803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), finally, (1), type. (1)
+> **Frameworks & Libraries:** prompt (2), [[Fetch]] (1), [[Windows]] (1)
 > **Env Vars:** eof (3)
 > **Definitions:** is an  (2), defined as (1)
 > **Exercise Files:** exercise file (2)
@@ -5906,7 +5890,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), case, (1), else. (1), let (1)
 > **File Paths:** ctype.h (2)
 > **Exercise Files:** exercise file (2)
 > **Speakers:** - [instructor] (1)
@@ -5988,7 +5971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), let (1)
+> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
@@ -6064,8 +6047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), data (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** type. (1), function (1)
 > **File Paths:** string.h (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ascii (1)
@@ -6170,7 +6153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), case. (1), let (1)
+> **Frameworks & Libraries:** prompt (1), next (1), [[Programming]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6239,7 +6222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), delete (1)
+> **Frameworks & Libraries:** next (1)
 > **Warnings:** warning (2), be aware (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -6344,7 +6327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), this. (1)
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 78.66 (1), 943.92 (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -6415,7 +6398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), type, (1), match, (1), match. (1), continue (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (3)
 > **File Paths:** string.h (2)
 > **Exercise Files:** source code (1), exercise file (1)
@@ -6499,7 +6482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), continue (1), let (1)
+> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **CLI Commands:** cat (6)
 > **Exercise Files:** source code (1), exercise file (1)
 > **Definitions:** is a  (2)
@@ -6560,7 +6543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), require (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Fetch]] (2), prompt (1)
 > **Env Vars:** giggle (1)
 > **Tools:** command prompt (1)
 > **Definitions:** is a  (1)
@@ -6632,6 +6615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), next (2), [[Microsoft Word|Word]] (2), [[Fetch]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** stdin (1)
 > **Tools:** command prompt (1)
@@ -6641,7 +6625,7 @@ created: 2026-04-29
 
 ### 8. Pointers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding pointers
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-pointers?u=76281980)
@@ -6718,8 +6702,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Fetch]] (1), [[Programming]] (1)
 > **Definitions:** is a  (4), known as (1)
-> **Code Keywords:** type, (2), function (1)
 > **Exercise Files:** exercise file (1), sample code (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
@@ -6789,6 +6773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1)
 > **Definitions:** is an  (2)
 > **Non-Speech:** (computer keys clicking) (2)
 > **Cross-References:** in the next (1)
@@ -6861,7 +6846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** data (8)
 > **Exercise Files:** exercise file (2)
 > **Definitions:** is a  (1), defined as (1)
 > **Speakers:** - [instructor] (1)
@@ -6955,7 +6940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), function (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Exercise Files:** exercise file (2)
 > **Analogies:** for example (1)
@@ -7071,6 +7056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Non-Speech:** (keyboard keys clicking) (2), (electronic music) (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -7160,7 +7146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), type. (1)
+> **Frameworks & Libraries:** data (3), [[Programming]] (1)
 > **File Paths:** std.lib.h (2), stdlib.h (1)
 > **Env Vars:** std (2)
 > **Exercise Files:** source code (1), exercise file (1)
@@ -7253,8 +7239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Fetch]] (1)
 > **Definitions:** is an  (3), is a  (3)
-> **Code Keywords:** type, (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -7324,8 +7310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** function (3)
 > **Exercise Files:** exercise file (2)
 > **Speakers:** - [instructor] (1)
 
@@ -7364,6 +7350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Exercise Files:** source code (1), exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -7449,7 +7436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), finally, (1), let (1), this, (1)
+> **Frameworks & Libraries:** data (3), [[Programming]] (1), next (1)
 > **Definitions:** is a  (3), is an  (1)
 > **File Paths:** stdlib.h (1)
 > **Speakers:** - [instructor] (1)
@@ -7516,7 +7503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), pass (4), type. (2)
+> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** exercise file (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -7580,7 +7567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), static (2), type, (1), throw (1), let (1)
+> **Frameworks & Libraries:** data (3), power (2)
 > **Exercise Files:** exercise file (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -7626,7 +7613,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8)
 > **Code Identifiers:** get_input (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
@@ -7708,7 +7694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), for. (1), static (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** get_input (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -7717,7 +7703,7 @@ created: 2026-04-29
 
 ### 9. Files and the Operating System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading from a file
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/reading-from-a-file?u=76281980)
@@ -7808,7 +7794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), require (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** eof (2)
 > **UI Navigation:** open the (2)
@@ -7904,7 +7890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8)
+> **Frameworks & Libraries:** data (4), prompt (2)
 > **UI Navigation:** open the (2)
 > **Definitions:** is a  (2)
 > **File Paths:** output.txt (1)
@@ -7939,6 +7925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1)
 > **Exercise Files:** source code (1), exercise files (1)
 > **File Paths:** hello.txt (1)
 > **UI Navigation:** open the (1)
@@ -8040,7 +8027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), finally, (1), let (1)
+> **Frameworks & Libraries:** next (3), [[Representational State Transfer (REST)|Rest]] (2), prompt (1), power (1)
 > **File Paths:** hello.txt (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
@@ -8126,7 +8113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), function (2), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (8), power (1)
 > **Exercise Files:** exercise file (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** cio (1)
@@ -8196,7 +8183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6)
+> **Frameworks & Libraries:** data (6), feature (1)
 > **Env Vars:** seek_set (2), eof (1), feof (1), seek_cur (1), seek_end (1)
 > **File Paths:** stdio.h (1)
 > **Exercise Files:** exercise file (1)
@@ -8231,7 +8218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** database (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pensive music) (1)
@@ -8306,7 +8293,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** seek_end (3), seek_set (2)
-> **Code Keywords:** function (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -8370,7 +8356,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), delete (2)
 > **Exercise Files:** exercise files (3)
 > **File Paths:** stdio.h (1), unistd.h (1)
 > **Speakers:** - [instructor] (1)
@@ -8410,7 +8395,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10)
 > **Env Vars:** cwd (5), chdir (4)
 > **File Paths:** unistd.h (2)
 > **Tools:** terminal (1)
@@ -8510,7 +8494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), delete (1)
+> **Frameworks & Libraries:** database (2)
 > **Definitions:** is a  (5)
 > **File Paths:** dirent.h (2)
 > **Code Identifiers:** d_name (1)
@@ -8595,7 +8579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), type, (2), let (1)
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (4), is called (1)
 > **Code Identifiers:** st_mtime (1), st_mode (1)
 > **Documentation:** man page (2)
@@ -8661,7 +8645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), finally, (1)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** create_file (2), read_file (2), delete_file (2)
 > **UI Navigation:** open the (2)
 > **Exercise Files:** exercise files (1), source code (1)
@@ -8742,7 +8726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), finally, (1), delete (1)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** create_file (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -8751,7 +8735,7 @@ created: 2026-04-29
 
 ### 10. The Interesting and Extraordinary
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calling the operating system
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/calling-the-operating-system?u=76281980)
@@ -8802,7 +8786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), pass (1)
+> **Frameworks & Libraries:** [[Linux]] (1), data (1)
 > **Tools:** terminal (1), command line (1)
 > **Analogies:** just like (1), analogous to (1)
 > **Env Vars:** eof (1)
@@ -8879,7 +8863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), raise (1)
+> **Frameworks & Libraries:** prompt (2), power (1), [[Programming]] (1)
 > **Tools:** command prompt (2), terminal (1), command line (1)
 > **Exercise Files:** source code (3), exercise file (1)
 > **File Paths:** math.h (2)
@@ -8957,7 +8941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** tm_wday (1), tm_mon (1), tm_year (1)
 > **Definitions:** is a  (3)
 > **File Paths:** time.h (2)
@@ -9063,7 +9047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (1)
+> **Frameworks & Libraries:** prompt (3), game (1), [[Programming]] (1), [[Fetch]] (1)
 > **File Paths:** time.h (1)
 > **Code Identifiers:** stdlib (1)
 > **Warnings:** be aware (1)
@@ -9148,7 +9132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [presenter] (1)
@@ -9228,7 +9212,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), match. (1), this. (1)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - here (1)
 > **Non-Speech:** (bright music) (1)
@@ -9306,8 +9289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Programming]] (2), power (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** function (2), this, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -9315,7 +9298,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980)
@@ -9352,7 +9335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), continue (1)
+> **Frameworks & Libraries:** [[Programming]] (7), [[Windows]] (1), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[Debugging]] (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** ebooks (1)
 > **Documentation:** reference guide (1)

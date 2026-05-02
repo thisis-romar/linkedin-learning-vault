@@ -32,7 +32,7 @@ tags:
   - topic/devops
   - skill/software-development-life-cycle-sdlc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Software%20Development%20Life%20Cycle%20(SDLC).md)
@@ -51,44 +51,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Processes for software projects
+  - [Processes for software projects](#processes-for-software-projects)
 - [**1. Traditional Methods**](#1-traditional-methods) (3 videos)
-  - Waterfall model: Brief overview
-  - Waterfall model: Application
-  - Spiral model
+  - [Waterfall model: Brief overview](#waterfall-model-brief-overview)
+  - [Waterfall model: Application](#waterfall-model-application)
+  - [Spiral model](#spiral-model)
 - [**2. Early Agile Methods**](#2-early-agile-methods) (3 videos)
-  - Dynamic systems development method (DSDM)
-  - Feature-driven development (FDD)
-  - Crystal methods overview
+  - [Dynamic systems development method (DSDM)](#dynamic-systems-development-method-dsdm)
+  - [Feature-driven development (FDD)](#feature-driven-development-fdd)
+  - [Crystal methods overview](#crystal-methods-overview)
 - [**3. Modern Approaches**](#3-modern-approaches) (17 videos)
-  - Scrum overview
-  - Scrum workflow
-  - Lean overview and key concepts
-  - Lean value stream mapping
-  - Lean principles
-  - Kanban
-  - Kanban board
-  - Extreme programming
-  - Spotify engineering model
-  - Spotify engineering culture
-  - DevOps: Background
-  - DevOps: Concepts
-  - Microservices: Key concepts
-  - Microservices: Deployment scenarios
-  - Twelve-factor app, part 1
-  - Twelve-factor app, part 2
-  - Chaos engineering
+  - [Scrum overview](#scrum-overview)
+  - [Scrum workflow](#scrum-workflow)
+  - [Lean overview and key concepts](#lean-overview-and-key-concepts)
+  - [Lean value stream mapping](#lean-value-stream-mapping)
+  - [Lean principles](#lean-principles)
+  - [Kanban](#kanban)
+  - [Kanban board](#kanban-board)
+  - [Extreme programming](#extreme-programming)
+  - [Spotify engineering model](#spotify-engineering-model)
+  - [Spotify engineering culture](#spotify-engineering-culture)
+  - [DevOps: Background](#devops-background)
+  - [DevOps: Concepts](#devops-concepts)
+  - [Microservices: Key concepts](#microservices-key-concepts)
+  - [Microservices: Deployment scenarios](#microservices-deployment-scenarios)
+  - [Twelve-factor app, part 1](#twelve-factor-app-part-1)
+  - [Twelve-factor app, part 2](#twelve-factor-app-part-2)
+  - [Chaos engineering](#chaos-engineering)
 - [**4. Other Approaches**](#4-other-approaches) (4 videos)
-  - CMM overview
-  - Six Sigma overview
-  - Six Sigma and software
-  - Generative AI assistance
+  - [CMM overview](#cmm-overview)
+  - [Six Sigma overview](#six-sigma-overview)
+  - [Six Sigma and software](#six-sigma-and-software)
+  - [Generative AI assistance](#generative-ai-assistance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your path to success
+  - [Your path to success](#your-path-to-success)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Processes for software projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980)
@@ -109,13 +109,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Agile Development|Agile]] (1), [[Scrum]] (1), [[DevOps]] (1), [[Six Sigma]] (1)
 > **Env Vars:** cmmi (1)
 > **Speakers:** - have (1)
 
 
 ### 1. Traditional Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Waterfall model: Brief overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980)
@@ -192,6 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), next (4), [[Software Development]] (3), [[Microsoft Products|Products]] (2), feature (1)
 > **Definitions:** in other words (2), is called (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
@@ -230,6 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -324,14 +327,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Engineering]] (4), [[Software Development]] (3), [[Prototyping]] (2), product (2)
 > **Definitions:** is called (3), is an  (1)
-> **Code Keywords:** continue (1), let (1)
 > **Speakers:** - [speaker] (1)
 
 
 ### 2. Early Agile Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic systems development method (DSDM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980)
@@ -414,8 +417,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), management (3), business (3), [[Application Development]] (2), teams (2)
 > **Env Vars:** dsdm (14), rad (1), iso (1), prince2 (1)
-> **Code Keywords:** public (1), let (1)
 > **Definitions:** stands for (1), is called (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -511,10 +514,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (16), business (4), teams (3), parallel (2), [[Agile Development|Agile]] (1)
 > **Env Vars:** fdd (15), uml (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Versions:** 2.1 (2), 1.1 (1), 1.2 (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -608,9 +611,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), next (1), business (1), [[User Interface Design]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** for example (5), such as (3), similar to (1)
 > **Definitions:** is a  (3), known as (1), in other words (1), is called (1)
-> **Code Keywords:** let (2), while. (2), interface (1)
 > **Warnings:** note that (2)
 > **Env Vars:** e40 (1)
 > **Speakers:** - [instructor] (1)
@@ -618,7 +621,7 @@ created: 2026-04-29
 
 ### 3. Modern Approaches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980)
@@ -693,8 +696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (22), product (18), functional (5), [[Agile Development|Agile]] (4), [[Accountability]] (2)
 > **Definitions:** is a  (3), known as (2), is called (1)
-> **Code Keywords:** continue (1), let (1), self (1)
 > **Analogies:** such as (2)
 > **URLs:** [scrumguides.org](https://scrumguides.org) (1)
 > **Speakers:** - [instructor] (1)
@@ -766,8 +769,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (14), product (9), business (2), teams (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is an  (2)
-> **Code Keywords:** let (2), continue (1)
 > **Speakers:** - [narrator] (1)
 
 #### Lean overview and key concepts
@@ -837,9 +840,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Software Development]] (3), [[Microsoft Office|Office]] (2), power (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is called (2)
 > **Env Vars:** vsm (3)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -894,10 +897,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), business (1), data (1)
 > **Env Vars:** vsm (2)
 > **Definitions:** defined as (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Versions:** 3.25 (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -993,8 +996,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (5), teams (3), database (2), [[Agile Development|Agile]] (1), business (1)
 > **Definitions:** is a  (3), is called (3)
-> **Code Keywords:** let (1), continue (1), for, (1), case, (1)
 > **CLI Commands:** apt (1), make (1)
 > **Analogies:** picture (1), for example (1)
 > **Best Practices:** recommended (1), good practice (1)
@@ -1066,9 +1069,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Software Development]] (1), product (1)
 > **Env Vars:** wip (7)
 > **Definitions:** is a  (2), is an  (1), known as (1), in other words (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1117,9 +1120,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), management (1), feature (1), teams (1)
 > **Env Vars:** wip (3)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Extreme programming
@@ -1209,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), continue (1), let (1), switch (1), pass (1)
+> **Frameworks & Libraries:** [[Programming]] (5), [[Test-Driven Development]] (5), teams (4), [[Engineering]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -1286,9 +1289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (4), teams (4), [[Agile Development|Agile]] (3), feature (2), next (2)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
@@ -1374,8 +1377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (15), [[Agile Development|Agile]] (5), database (3), [[Scrum]] (2), business (1)
 > **Definitions:** is a  (5), is an  (1)
-> **Code Keywords:** self (2), interface (2), switch (1)
 > **Analogies:** such as (3), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [person] (1)
@@ -1447,8 +1450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (8), [[Agile Development|Agile]] (8), teams (5), product (4), business (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1536,9 +1539,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (18), [[Continuous Integration (CI)|Continuous integration]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), product (3), [[Agile Development|Agile]] (3)
 > **Definitions:** known as (1), refers to (1), is an  (1), is a  (1)
 > **CLI Commands:** make (2), cd (1)
-> **Code Keywords:** let (1), static (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1614,7 +1617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microservices]] (11), application (8), next (3), database (3), data (3)
 > **Definitions:** known as (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1692,7 +1695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2)
+> **Frameworks & Libraries:** database (13), [[Microservices]] (4), data (3), [[Databases]] (3), [[Customer Support]] (3)
 > **CLI Commands:** docker (1), make (1), find (1)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (2)
@@ -1764,12 +1767,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (13), web (3), [[Python (Programming Language)|Python]] (2), database (2), [[DevOps]] (1)
 > **Definitions:** refers to (2), in other words (1), known as (1), is called (1), is a  (1)
 > **Analogies:** such as (4), for example (2)
 > **CLI Commands:** python (2), git (1)
 > **Exercise Files:** source code (2)
 > **File Paths:** web.config (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 
@@ -1846,10 +1849,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (16), web (5), data (3), database (2), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (8), for example (2), similar to (1)
 > **CLI Commands:** docker (3), apache (2), python (1)
 > **Definitions:** is a  (2), in other words (1)
-> **Code Keywords:** continue (1)
 > **Ports:** port 5 (1)
 > **Env Vars:** iis (1)
 > **Prerequisites:** setup (1)
@@ -1926,8 +1929,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), database (7), [[Engineering]] (6), application (2), functional (2)
 > **Definitions:** is called (2), is a  (2), in other words (1), is an  (1)
-> **Code Keywords:** let (2), switch (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** switch to (1)
@@ -1937,7 +1940,7 @@ created: 2026-04-29
 
 ### 4. Other Approaches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CMM overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/cmmi-overview?u=76281980)
@@ -2024,10 +2027,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Engineering]] (1), [[Software Development]] (1)
 > **Env Vars:** cmmi (13)
 > **Definitions:** is a  (4), in other words (1)
 > **Analogies:** for example (1), it's like (1), similar to (1)
-> **Code Keywords:** let (1)
 > **Versions:** v3.0 (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -2061,7 +2064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (8), [[Microsoft Products|Products]] (2)
 > **Speakers:** - [instructor] (1)
 
 #### Six Sigma and software
@@ -2135,11 +2138,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (9), [[Software Development]] (5), product (5), [[Microsoft Products|Products]] (4), [[Organizational Culture]] (1)
 > **Env Vars:** dmaic (6)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Generative AI assistance
@@ -2175,7 +2178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), public (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Django]] (3), [[Software Development]] (2), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Warnings:** troubleshoot (1), be aware (1)
 > **Analogies:** imagine (1)
@@ -2184,7 +2187,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your path to success
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/your-path-to-success?u=76281980)
@@ -2215,6 +2218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)

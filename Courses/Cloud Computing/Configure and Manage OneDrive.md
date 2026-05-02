@@ -31,7 +31,7 @@ tags:
   - skill/microsoft-onedrive
   - skill/system-configuration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Configure%20and%20Manage%20OneDrive.md)
@@ -50,33 +50,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to OneDrive
-  - What you should know
+  - [Welcome to OneDrive](#welcome-to-onedrive)
+  - [What you should know](#what-you-should-know)
 - [**1. Creating a Trial Microsoft 365 Account**](#1-creating-a-trial-microsoft-365-account) (3 videos)
-  - Create a free Microsoft 365 E5 trial account
-  - Microsoft final setup procedures
-  - Deleting Microsoft 365 trial account
+  - [Create a free Microsoft 365 E5 trial account](#create-a-free-microsoft-365-e5-trial-account)
+  - [Microsoft final setup procedures](#microsoft-final-setup-procedures)
+  - [Deleting Microsoft 365 trial account](#deleting-microsoft-365-trial-account)
 - [**2. Implementing OneDrive for Business**](#2-implementing-onedrive-for-business) (3 videos)
-  - OneDrive for Business overview
-  - OneDrive deployment
-  - Managing OneDrive
+  - [OneDrive for Business overview](#onedrive-for-business-overview)
+  - [OneDrive deployment](#onedrive-deployment)
+  - [Managing OneDrive](#managing-onedrive)
 - [**3. Managing OneDrive Storage**](#3-managing-onedrive-storage) (2 videos)
-  - Managing storage space
-  - Configuring data retention
+  - [Managing storage space](#managing-storage-space)
+  - [Configuring data retention](#configuring-data-retention)
 - [**4. Managing OneDrive for Business**](#4-managing-onedrive-for-business) (4 videos)
-  - Managing sharing
-  - Managing sync settings
-  - Managing device access
-  - Add or remove admins for a OneDrive account
+  - [Managing sharing](#managing-sharing)
+  - [Managing sync settings](#managing-sync-settings)
+  - [Managing device access](#managing-device-access)
+  - [Add or remove admins for a OneDrive account](#add-or-remove-admins-for-a-onedrive-account)
 - [**5. Monitoring OneDrive for Business**](#5-monitoring-onedrive-for-business) (2 videos)
-  - Activity reports
-  - Usage reports
+  - [Activity reports](#activity-reports)
+  - [Usage reports](#usage-reports)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning OneDrive
+  - [Continue learning OneDrive](#continue-learning-onedrive)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), cloud (1), business (1), [[Microsoft]] (1), [[Windows Server]] (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - does (1)
 
@@ -126,6 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), web (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** prerequisite (1), set up (1)
 > **Speakers:** - [instructor] (1)
@@ -133,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Creating a Trial Microsoft 365 Account
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a free Microsoft 365 E5 trial account
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980)
@@ -316,8 +317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), product (4), next (4)
 > **UI Navigation:** click on (8), checkbox (1)
-> **Code Keywords:** for, (1), let (1), match, (1), this. (1), else, (1)
 > **Prerequisites:** set up (3), configure (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [outlook.com](https://outlook.com) (1)
 > **Analogies:** kind of like (1), it's like (1)
@@ -449,8 +450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (4), dns (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (5), go to (2), checkbox (1)
-> **Code Keywords:** continue (3), let (1), this, (1), this. (1)
 > **Prerequisites:** install (2), configure (2), set up (2)
 > **Env Vars:** dns (2), csv (1), dkim (1)
 > **URLs:** [onmicrosoft.com](https://onmicrosoft.com) (2), [microsoft.com](https://microsoft.com) (1)
@@ -557,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), delete (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), product (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (4)
 > **Speakers:** - [narrator] (1)
@@ -565,7 +566,7 @@ created: 2026-04-29
 
 ### 2. Implementing OneDrive for Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OneDrive for Business overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980)
@@ -600,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (8), business (5), web (3), [[Microsoft Office|Office]] (3), [[Microsoft 365]] (2)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -664,9 +665,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (22), [[Windows]] (4), [[Hardware]] (2), data (2), [[SharePoint]] (2)
 > **CLI Commands:** make (6)
 > **Prerequisites:** install (3), configure (1)
-> **Code Keywords:** delete (1), finally, (1)
 > **Code Identifiers:** ios (2)
 > **Warnings:** keep in mind (2)
 > **Env Vars:** sccm (1)
@@ -710,15 +711,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (11), [[SharePoint]] (8), management (3), [[Microsoft 365]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
-> **Code Keywords:** let (1), for, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Managing OneDrive Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing storage space
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980)
@@ -833,8 +834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (7), [[SharePoint]] (2), [[Microsoft 365]] (2), hit (1)
 > **UI Navigation:** click on (8)
-> **Code Keywords:** let (3), default. (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (2), configure (1)
 > **Definitions:** is a  (1)
@@ -904,7 +905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (5)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), data (5), [[Storage Management]] (1), [[SharePoint]] (1), hit (1)
 > **UI Navigation:** click on (6)
 > **Env Vars:** spo (2)
 > **CLI Commands:** make (1)
@@ -914,7 +915,7 @@ created: 2026-04-29
 
 ### 4. Managing OneDrive for Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing sharing
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sharing?u=76281980)
@@ -1025,9 +1026,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (13), [[SharePoint]] (10), [[Security]] (2)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** click on (2), scroll down (1), select the (1)
-> **Code Keywords:** let (1), finally, (1), default, (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1104,8 +1105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[SharePoint]] (3), [[Security]] (2), cloud (1), [[Active Directory]] (1)
 > **UI Navigation:** click on (3), go to (1), checkbox (1)
-> **Code Keywords:** default. (2), this, (1), type. (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** mp3 (1)
 > **Exercise Files:** download the (1)
@@ -1201,8 +1202,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (8), [[Security]] (8), [[SharePoint]] (3), management (2), next (2)
 > **UI Navigation:** click on (5), toggle (2), checkbox (1)
-> **Code Keywords:** let (1), default. (1), switch (1), this. (1), finally, (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1284,7 +1285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), default, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[SharePoint]] (6), next (2)
 > **Env Vars:** spo (4)
 > **UI Navigation:** click on (3), dropdown (1)
 > **CLI Commands:** find (3)
@@ -1294,7 +1295,7 @@ created: 2026-04-29
 
 ### 5. Monitoring OneDrive for Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Activity reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980)
@@ -1387,8 +1388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (10), [[Microsoft 365]] (6), product (3), data (2), [[Microsoft]] (2)
 > **UI Navigation:** click on (4), scroll down (3)
-> **Code Keywords:** let (3), this. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1457,9 +1458,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft 365]] (3), data (1)
 > **UI Navigation:** click on (2), scroll down (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** interface (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1468,7 +1469,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980)
@@ -1485,6 +1486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), business (1), [[Microsoft 365]] (1), [[Microsoft Products|Products]] (1), next (1)
 > **Speakers:** - thank (1)
 
 

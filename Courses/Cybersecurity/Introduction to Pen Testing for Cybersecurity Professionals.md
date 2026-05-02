@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/penetration-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Introduction%20to%20Pen%20Testing%20for%20Cybersecurity%20Professionals.md)
@@ -47,50 +47,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Testing an organization's defenses
-  - Getting the most out of this course
+  - [Testing an organization's defenses](#testing-an-organizations-defenses)
+  - [Getting the most out of this course](#getting-the-most-out-of-this-course)
 - [**1. Organizational Penetration Testing**](#1-organizational-penetration-testing) (5 videos)
-  - Understanding penetration testing
-  - Auditing security mechanisms
-  - Managing risk
-  - Analyzing risk
-  - Recognizing the attack surface
+  - [Understanding penetration testing](#understanding-penetration-testing)
+  - [Auditing security mechanisms](#auditing-security-mechanisms)
+  - [Managing risk](#managing-risk)
+  - [Analyzing risk](#analyzing-risk)
+  - [Recognizing the attack surface](#recognizing-the-attack-surface)
 - [**2. Types of Penetration Testing**](#2-types-of-penetration-testing) (7 videos)
-  - Comparing different environments
-  - Checking from the outside in
-  - Looking inside the organization
-  - Determining testing methods
-  - Discovering pen testing tools
-  - Challenge: Explain the NIST framework's five core functions
-  - Solution: Explain the NIST framework's five core functions
+  - [Comparing different environments](#comparing-different-environments)
+  - [Checking from the outside in](#checking-from-the-outside-in)
+  - [Looking inside the organization](#looking-inside-the-organization)
+  - [Determining testing methods](#determining-testing-methods)
+  - [Discovering pen testing tools](#discovering-pen-testing-tools)
+  - [Challenge: Explain the NIST framework's five core functions](#challenge-explain-the-nist-frameworks-five-core-functions)
+  - [Solution: Explain the NIST framework's five core functions](#solution-explain-the-nist-frameworks-five-core-functions)
 - [**3. Penetration Testing Techniques**](#3-penetration-testing-techniques) (7 videos)
-  - Following a structured plan
-  - Planning the pen test
-  - Footprinting the target
-  - Escalating privileges
-  - Attacking the system
-  - Delivering the results
-  - Outlining remediation strategies
+  - [Following a structured plan](#following-a-structured-plan)
+  - [Planning the pen test](#planning-the-pen-test)
+  - [Footprinting the target](#footprinting-the-target)
+  - [Escalating privileges](#escalating-privileges)
+  - [Attacking the system](#attacking-the-system)
+  - [Delivering the results](#delivering-the-results)
+  - [Outlining remediation strategies](#outlining-remediation-strategies)
 - [**4. Penetration Testing Blueprint**](#4-penetration-testing-blueprint) (7 videos)
-  - Checking physical security
-  - Identifying wireless vulnerabilities
-  - Testing the website
-  - Leaking data via email or VoIP
-  - Safeguarding cloud services
-  - Assessing the mobile infrastructure
-  - Hacking the human
+  - [Checking physical security](#checking-physical-security)
+  - [Identifying wireless vulnerabilities](#identifying-wireless-vulnerabilities)
+  - [Testing the website](#testing-the-website)
+  - [Leaking data via email or VoIP](#leaking-data-via-email-or-voip)
+  - [Safeguarding cloud services](#safeguarding-cloud-services)
+  - [Assessing the mobile infrastructure](#assessing-the-mobile-infrastructure)
+  - [Hacking the human](#hacking-the-human)
 - [**5. Outsourcing Penetration Testing**](#5-outsourcing-penetration-testing) (5 videos)
-  - Contracting the pen test
-  - Defining the project scope
-  - Hiring consultants
-  - Agreeing on terms
-  - Creating the contracts
+  - [Contracting the pen test](#contracting-the-pen-test)
+  - [Defining the project scope](#defining-the-project-scope)
+  - [Hiring consultants](#hiring-consultants)
+  - [Agreeing on terms](#agreeing-on-terms)
+  - [Creating the contracts](#creating-the-contracts)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing an organization's defenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-an-organization-s-defenses?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Security]] (1), data (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 > **Non-Speech:** (gentle music) (1)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (1), [[Penetration Testing]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Organizational Penetration Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding penetration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980)
@@ -228,8 +228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Engineering]] (2), [[Penetration Testing]] (1), [[Configuration Management]] (1), [[Ethical Hacking]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -289,9 +289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Hardware]] (1), business (1), dns (1), application (1)
 > **Env Vars:** pci (2), dss (2), hipaa (1), dns (1)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [educator] (1)
@@ -371,8 +371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), business (2), [[Databases]] (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (2), function (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -458,8 +458,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), data (2), [[Ethical Hacking]] (1), [[Hardware]] (1), next (1)
 > **Analogies:** for example (5), such as (3)
-> **Code Keywords:** let (2), this, (1), this. (1), finally, (1), protected (1)
 > **Env Vars:** hipaa (2)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -522,7 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Security]] (6), [[Phishing]] (1), web (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -532,7 +532,7 @@ created: 2026-04-29
 
 ### 2. Types of Penetration Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing different environments
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/comparing-different-environments?u=76281980)
@@ -601,8 +601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Security]] (1), application (1)
 > **Exercise Files:** source code (6)
-> **Code Keywords:** let (2), case, (1)
 > **Analogies:** such as (1), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -670,8 +670,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), data (3), application (2), [[Security]] (2), lan (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** interface (1), require (1), let (1)
 > **Env Vars:** lan (1), dns (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -733,7 +733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Search]] (1), [[Google]] (1), [[Programming]] (1), [[Secure Coding]] (1)
 > **Env Vars:** rat (1), enter (1)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
@@ -808,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), require (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (2), [[Ethical Hacking]] (1), [[Security]] (1), feature (1), next (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -905,7 +905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (2), interface (2)
+> **Frameworks & Libraries:** [[Kali Linux]] (8), [[Ethical Hacking]] (2), web (1), [[Search]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (6), means that (1), is an  (1)
 > **UI Navigation:** scroll down (5), select the (1)
 > **URLs:** [nmap.com](https://nmap.com) (2), [osboxes.org](https://osboxes.org) (2)
@@ -945,6 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIST]] (4), [[Cybersecurity]] (3), [[Security]] (2), [[Privacy]] (1)
 > **Env Vars:** nist (4)
 > **UI Navigation:** scroll down (2)
 > **Speakers:** - [instructor] (1)
@@ -1009,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), finally, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (3), business (2), next (2), data (2)
 > **Env Vars:** nist (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1019,7 +1020,7 @@ created: 2026-04-29
 
 ### 3. Penetration Testing Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Following a structured plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/following-a-structured-plan?u=76281980)
@@ -1066,9 +1067,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2), [[Security]] (1), web (1), [[Scripting]] (1)
 > **Best Practices:** it's best to (2), the key is (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **Env Vars:** tcp (1)
 > **Prerequisites:** install (1)
@@ -1133,8 +1134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (7), [[Security]] (4), [[Penetration Testing]] (1), hr (1), data (1)
 > **Speakers:** - [instructor] (2), - i (2), - you (1)
-> **Code Keywords:** let (2), this, (1)
 > **Analogies:** such as (3)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -1181,8 +1182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[Security]] (2), [[Google]] (1)
 > **Analogies:** such as (5), picture (4)
-> **Code Keywords:** public (2), let (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (1)
 > **Warnings:** keep in mind (1)
@@ -1239,7 +1240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), protected (1)
+> **Frameworks & Libraries:** application (1), [[Windows]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (1)
@@ -1296,8 +1297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (3), [[Engineering]] (1), business (1), application (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** include: (1), let (1)
 > **Env Vars:** hipaa (1)
 > **Speakers:** - during (1)
 
@@ -1368,8 +1369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Ethical Hacking]] (1), [[Probability]] (1), management (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** it's best to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - once (1)
@@ -1433,9 +1434,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), data (3), management (1)
 > **UI Navigation:** scroll down (3), go to (2)
 > **Env Vars:** pci (2), dss (2)
-> **Code Keywords:** let (2), case, (1)
 > **URLs:** [example.com](https://example.com) (2), [nmap.org](https://nmap.org) (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
@@ -1445,7 +1446,7 @@ created: 2026-04-29
 
 ### 4. Penetration Testing Blueprint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Checking physical security
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980)
@@ -1524,8 +1525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), data (3), [[Windows]] (1), [[Incident Response]] (1)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** let (2), protected (1), public (1)
 > **Env Vars:** wps (1), eps (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -1601,8 +1602,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), traffic (2), [[Windows]] (1), business (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** pass (1), require (1), public (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
@@ -1660,8 +1661,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Security]] (2), database (1), cnn (1), application (1)
 > **Env Vars:** cnn (1), sql (1), owasp (1)
-> **Code Keywords:** let (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** such as (2)
 > **Tools:** command line (1)
@@ -1745,7 +1746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1)
+> **Frameworks & Libraries:** data (7), [[Phishing]] (3), [[Security]] (2), [[Engineering]] (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1812,8 +1813,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), data (4), [[Virtualization]] (4), management (2), [[Virtual Machines]] (1)
 > **Env Vars:** pci (3), dss (3), api (1), lan (1)
-> **Code Keywords:** this, (2), let (2)
 > **Analogies:** such as (3)
 > **UI Navigation:** open the (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -1866,7 +1867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2), public (1)
+> **Frameworks & Libraries:** data (3), business (1), cloud (1), [[Security]] (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
 
@@ -1921,8 +1922,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (4), [[Security]] (2), management (1), [[Human Resources (HR)|Human resources]] (1), [[Phishing]] (1)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** open the (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
@@ -1930,7 +1931,7 @@ created: 2026-04-29
 
 ### 5. Outsourcing Penetration Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Contracting the pen test
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/contracting-the-pen-test?u=76281980)
@@ -1991,8 +1992,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [presenter] (1)
 
 #### Defining the project scope
@@ -2066,7 +2067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), protected (1), include, (1)
+> **Frameworks & Libraries:** management (4), data (2), teams (1), business (1), database (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** keep in mind (1)
@@ -2142,9 +2143,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), management (1), cloud (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Security]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** isp (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -2204,9 +2205,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Security]] (1), [[Intrusion Detection]] (1), [[Privacy]] (1), database (1)
 > **Speakers:** - [instructor] (2), - next (1), - for (1), - well (1)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** pci (1), nids (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2251,14 +2252,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1)
+> **Frameworks & Libraries:** data (2), business (2), application (1), next (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980)
@@ -2297,6 +2298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Databases]] (1), data (1), [[Cryptography]] (1), [[Network Security]] (1)
 > **Analogies:** such as (2)
 > **Cross-References:** we covered (1)
 > **Best Practices:** it's best to (1)

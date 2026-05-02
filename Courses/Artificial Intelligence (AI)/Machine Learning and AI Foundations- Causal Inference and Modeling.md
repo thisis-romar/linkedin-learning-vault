@@ -33,7 +33,7 @@ tags:
   - skill/causal-inference
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Causal%20Inference%20and%20Modeling.md)
@@ -52,54 +52,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Thinking about causality
-  - What you should know
+  - [Thinking about causality](#thinking-about-causality)
+  - [What you should know](#what-you-should-know)
 - [**1. Experimental Design and Statistical Controls**](#1-experimental-design-and-statistical-controls) (10 videos)
-  - The investigator, the jury, and the judge
-  - Fisher and experiments
-  - John Snow and natural experiments
-  - Double blind studies
-  - Control variables (ANCOVA)
-  - Judea Pearl: Problems with control variables
-  - Moderation, mediation, and lurking variables
-  - Simpson's paradox
-  - Challenge: Moderation, mediation, or a third variable
-  - Solution: Moderation, mediation, or a third variable
+  - [The investigator, the jury, and the judge](#the-investigator-the-jury-and-the-judge)
+  - [Fisher and experiments](#fisher-and-experiments)
+  - [John Snow and natural experiments](#john-snow-and-natural-experiments)
+  - [Double blind studies](#double-blind-studies)
+  - [Control variables (ANCOVA)](#control-variables-ancova)
+  - [Judea Pearl: Problems with control variables](#judea-pearl-problems-with-control-variables)
+  - [Moderation, mediation, and lurking variables](#moderation-mediation-and-lurking-variables)
+  - [Simpson's paradox](#simpsons-paradox)
+  - [Challenge: Moderation, mediation, or a third variable](#challenge-moderation-mediation-or-a-third-variable)
+  - [Solution: Moderation, mediation, or a third variable](#solution-moderation-mediation-or-a-third-variable)
 - [**2. Conditional Probability and Bayes' Theorem**](#2-conditional-probability-and-bayes-theorem) (8 videos)
-  - Turing, Enigma, and CAPTCHA
-  - Enigma and uncertainty
-  - Developing an intuition for Bayes with Wordle
-  - Wordle and conditional probability
-  - Wordle, bans, and bits
-  - Wordle and Bayes' theorem
-  - Challenge: Conditional probability and Bayes' theorem
-  - Solution: Conditional probability and Bayes' theorem
+  - [Turing, Enigma, and CAPTCHA](#turing-enigma-and-captcha)
+  - [Enigma and uncertainty](#enigma-and-uncertainty)
+  - [Developing an intuition for Bayes with Wordle](#developing-an-intuition-for-bayes-with-wordle)
+  - [Wordle and conditional probability](#wordle-and-conditional-probability)
+  - [Wordle, bans, and bits](#wordle-bans-and-bits)
+  - [Wordle and Bayes' theorem](#wordle-and-bayes-theorem)
+  - [Challenge: Conditional probability and Bayes' theorem](#challenge-conditional-probability-and-bayes-theorem)
+  - [Solution: Conditional probability and Bayes' theorem](#solution-conditional-probability-and-bayes-theorem)
 - [**3. Prediction and Proof with Bayesian statistics**](#3-prediction-and-proof-with-bayesian-statistics) (6 videos)
-  - Contrasting frequentist statistics and Bayesian statistics
-  - Bayesian T-Test with JASP
-  - Google Optimize
-  - Bayes and rare events
-  - Challenge: JASP
-  - Solution: JASP
+  - [Contrasting frequentist statistics and Bayesian statistics](#contrasting-frequentist-statistics-and-bayesian-statistics)
+  - [Bayesian T-Test with JASP](#bayesian-t-test-with-jasp)
+  - [Google Optimize](#google-optimize)
+  - [Bayes and rare events](#bayes-and-rare-events)
+  - [Challenge: JASP](#challenge-jasp)
+  - [Solution: JASP](#solution-jasp)
 - [**4. Causal Modeling with Structural Equation Modeling (SEM)**](#4-causal-modeling-with-structural-equation-modeling-sem) (6 videos)
-  - Sewell Wright
-  - Introducing path analysis and SEM
-  - SEM example: Intention
-  - Myths about SEM
-  - Latent variables in SEM
-  - Finding direction of causality with SEM (PSAT)
+  - [Sewell Wright](#sewell-wright)
+  - [Introducing path analysis and SEM](#introducing-path-analysis-and-sem)
+  - [SEM example: Intention](#sem-example-intention)
+  - [Myths about SEM](#myths-about-sem)
+  - [Latent variables in SEM](#latent-variables-in-sem)
+  - [Finding direction of causality with SEM (PSAT)](#finding-direction-of-causality-with-sem-psat)
 - [**5. Causal Modeling with Bayesian Networks**](#5-causal-modeling-with-bayesian-networks) (5 videos)
-  - Judea Pearl and the causal revolution
-  - Downloading BayesiaLab and resources
-  - Introducing BayesiaLab: Hair and eye color
-  - Introduction to causal modeling with Bayesian networks
-  - Bayesian Networks: Black Swan case study
+  - [Judea Pearl and the causal revolution](#judea-pearl-and-the-causal-revolution)
+  - [Downloading BayesiaLab and resources](#downloading-bayesialab-and-resources)
+  - [Introducing BayesiaLab: Hair and eye color](#introducing-bayesialab-hair-and-eye-color)
+  - [Introduction to causal modeling with Bayesian networks](#introduction-to-causal-modeling-with-bayesian-networks)
+  - [Bayesian Networks: Black Swan case study](#bayesian-networks-black-swan-case-study)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Taking causality further
+  - [Taking causality further](#taking-causality-further)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking about causality
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/thinking-about-causality?u=76281980)
@@ -140,7 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Causal Inference]] (1), data (1), power (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [keith] (1)
 
@@ -173,14 +173,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Experimental Design and Statistical Controls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The investigator, the jury, and the judge
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/the-investigator-the-jury-and-the-judge?u=76281980)
@@ -231,9 +231,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (7), data (6), [[Analytics]] (1), ai (1), next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Fisher and experiments
@@ -337,6 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (3), data (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -471,7 +472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pub (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (2), [[Call Control]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** ucla (2)
@@ -513,7 +514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -683,8 +684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), parallel (3), next (2), ai (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** ancova (12), psat (8), pdf (2), anova (1)
-> **Code Keywords:** finally, (2), this, (2), let (2), new. (1), case, (1)
 > **Versions:** 6.233 (1), 6.2 (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** find (1)
@@ -735,7 +736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), this. (1)
+> **Frameworks & Libraries:** data (2), [[Causal Inference]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** incova (1)
 > **Definitions:** is a  (1)
@@ -859,7 +860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2)
+> **Frameworks & Libraries:** business (5), data (4), [[Statistics]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** psat (1), ancova (1), sat (1)
 > **Analogies:** for instance (2), for example (1)
 > **Definitions:** is a  (2)
@@ -1030,7 +1031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (4), this. (1)
+> **Frameworks & Libraries:** data (7), [[Probability]] (2), [[Zoom]] (1), [[Decision-Making]] (1), [[Statistics]] (1)
 > **Warnings:** keep in mind (2), note that (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1086,7 +1087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (1), next (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1159,15 +1160,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** this, (2), let (2), case, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Conditional Probability and Bayes' Theorem
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Turing, Enigma, and CAPTCHA
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980)
@@ -1258,7 +1259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), public (1), this, (1)
+> **Frameworks & Libraries:** game (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[Statistics]] (1), next (1)
 > **Env Vars:** captcha (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** in the next (1)
@@ -1337,8 +1338,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), [[Statistics]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** just like (1), picture (1), for instance (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1514,7 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (6), let (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), game (7), next (2), [[Probability]] (1), web (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1), coming up (1)
@@ -1619,7 +1620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), else. (1), try. (1), require (1)
+> **Frameworks & Libraries:** [[Probability]] (17), [[Microsoft Word|Word]] (2), game (2)
 > **Definitions:** is a  (2)
 > **Versions:** 2.2 (1)
 > **Analogies:** for instance (1)
@@ -1728,7 +1729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), game (1)
 > **Versions:** 3.22 (2)
 > **Cross-References:** we mentioned (1)
 > **Warnings:** keep in mind (1)
@@ -1819,8 +1820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (13), data (3), [[Microsoft Word|Word]] (2)
 > **Versions:** 0.022 (1), 0.082 (1), 0.171 (1), 63.7 (1)
-> **Code Keywords:** let (2), abstract (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1868,7 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), this. (1)
+> **Frameworks & Libraries:** [[Probability]] (6), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1938,8 +1939,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (14), data (1)
 > **Versions:** 0.372 (2), 0.12 (2), 0.118 (2), 36.6 (1)
-> **Code Keywords:** let (4)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1947,7 +1948,7 @@ created: 2026-04-29
 
 ### 3. Prediction and Proof with Bayesian statistics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Contrasting frequentist statistics and Bayesian statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/contrasting-frequentist-statistics-and-bayesian-statistics?u=76281980)
@@ -2022,7 +2023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** data (9), [[Statistics]] (7), [[Probability]] (2), next (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2293,7 +2294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), this, (1), interface (1)
+> **Frameworks & Libraries:** data (17), [[Statistics]] (3), cloud (2), game (1)
 > **Versions:** 2.2 (4), 0.05 (1), 0.2 (1), 0.5 (1), 0.8 (1)
 > **Env Vars:** jasp (3), drp (2), aka (1)
 > **UI Navigation:** click on (2), scroll up (2), scroll down (2)
@@ -2367,7 +2368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Google]] (3), data (3), [[Statistics]] (1), traffic (1), [[Probability]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2439,7 +2440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), require (1), case, (1)
+> **Frameworks & Libraries:** [[Search]] (6), data (3), [[Statistics]] (2)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2486,9 +2487,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** jasp (2), csv (1), psat (1)
 > **UI Navigation:** go to (2), click on (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Best Practices:** good practice (1)
@@ -2582,7 +2583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (5)
 > **Versions:** 90.5 (2), 79.69 (1), 79.7 (1)
 > **Env Vars:** psat (2)
 > **Analogies:** picture (1)
@@ -2592,7 +2593,7 @@ created: 2026-04-29
 
 ### 4. Causal Modeling with Structural Equation Modeling (SEM)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sewell Wright
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/sewell-wright?u=76281980)
@@ -2681,7 +2682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), this, (1)
+> **Frameworks & Libraries:** data (2), hit (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** scroll down (1)
@@ -2763,8 +2764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4)
 > **Env Vars:** sem (4), vip (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2841,8 +2842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** scm (5), pbc (3), rmsea (1)
-> **Code Keywords:** this. (3), finally, (1), this, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2938,6 +2939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (1), next (1)
 > **Env Vars:** sem (14), rmsea (1), bic (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (2)
@@ -3015,8 +3017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), [[Linear Regression]] (1)
 > **Env Vars:** sem (3), rmsea (2), vip (1), pdf (1), ancova (1)
-> **Code Keywords:** let (1), finally, (1), this. (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** we talked about (1)
 > **Tools:** notion (1)
@@ -3084,6 +3086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), application (1)
 > **Env Vars:** scm (5), psat (4), pdf (2), mpsat (1)
 > **Versions:** 0.05 (1), 0.67 (1), 0.13 (1)
 > **CLI Commands:** make (1)
@@ -3093,7 +3096,7 @@ created: 2026-04-29
 
 ### 5. Causal Modeling with Bayesian Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Judea Pearl and the causal revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980)
@@ -3182,8 +3185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Statistics]] (2), [[Probability]] (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Env Vars:** sem (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
@@ -3243,8 +3246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** this. (1), finally, (1)
 > **Code Identifiers:** ebook (2)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Exercise Files:** download the (1)
@@ -3355,8 +3358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Probability]] (1)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
-> **Code Keywords:** this. (2), let (1), switch (1)
 > **Analogies:** similar to (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Versions:** 1.468 (1)
@@ -3495,7 +3498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (4), let (2), require (1), continue (1), this, (1)
+> **Frameworks & Libraries:** data (9), next (1), node (1)
 > **UI Navigation:** click on (3), scroll down (2), go to (2)
 > **CLI Commands:** find (2), make (1), node (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -3564,17 +3567,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), traffic (2), node (1), management (1)
 > **CLI Commands:** make (2), node (1)
 > **UI Navigation:** toggle (2)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking causality further
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980)
@@ -3645,7 +3648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), try. (1), this, (1), let (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), data (1), next (1), feature (1), [[LinkedIn]] (1)
 > **Env Vars:** jasp (1), ancova (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** download the (1)

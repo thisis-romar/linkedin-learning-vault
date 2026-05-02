@@ -26,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/LPIC-1%20Exam%20102%20(Version%205.0)%20Cert%20Prep.md)
@@ -45,120 +45,120 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Welcome
-  - What you should know
-  - About the LPIC 1 exam
-  - Install CentOS 7
-  - Centos 7 Lab setup
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [About the LPIC 1 exam](#about-the-lpic-1-exam)
+  - [Install CentOS 7](#install-centos-7)
+  - [Centos 7 Lab setup](#centos-7-lab-setup)
 - [**1. Customize and Use the Shell Environment**](#1-customize-and-use-the-shell-environment) (5 videos)
-  - Set environment variables
-  - Bash functions for frequent tasks
-  - Bash aliases as shortcuts
-  - Set command search path
-  - Maintain skeleton directories
+  - [Set environment variables](#set-environment-variables)
+  - [Bash functions for frequent tasks](#bash-functions-for-frequent-tasks)
+  - [Bash aliases as shortcuts](#bash-aliases-as-shortcuts)
+  - [Set command search path](#set-command-search-path)
+  - [Maintain skeleton directories](#maintain-skeleton-directories)
 - [**2. Write Simple Scripts**](#2-write-simple-scripts) (10 videos)
-  - Introduction to Bash
-  - What is a shell script?
-  - Execute compound commands
-  - Use Command and Variable substitution
-  - Conditional flow with if, then if
-  - Conditional flow with case
-  - Iterate with for loops
-  - Iterate with while loops
-  - Using return codes
-  - Create a monitor script
+  - [Introduction to Bash](#introduction-to-bash)
+  - [What is a shell script?](#what-is-a-shell-script)
+  - [Execute compound commands](#execute-compound-commands)
+  - [Use Command and Variable substitution](#use-command-and-variable-substitution)
+  - [Conditional flow with if, then if](#conditional-flow-with-if-then-if)
+  - [Conditional flow with case](#conditional-flow-with-case)
+  - [Iterate with for loops](#iterate-with-for-loops)
+  - [Iterate with while loops](#iterate-with-while-loops)
+  - [Using return codes](#using-return-codes)
+  - [Create a monitor script](#create-a-monitor-script)
 - [**3. Install and Configure X11**](#3-install-and-configure-x11) (6 videos)
-  - X11 architecture
-  - About desktop environments
-  - Assistive technologies
-  - Override specific aspects of Xorg configuration
-  - About remote desktop protocols
-  - Display applications on remote X servers
+  - [X11 architecture](#x11-architecture)
+  - [About desktop environments](#about-desktop-environments)
+  - [Assistive technologies](#assistive-technologies)
+  - [Override specific aspects of Xorg configuration](#override-specific-aspects-of-xorg-configuration)
+  - [About remote desktop protocols](#about-remote-desktop-protocols)
+  - [Display applications on remote X servers](#display-applications-on-remote-x-servers)
 - [**4. Manage User and Group Accounts**](#4-manage-user-and-group-accounts) (7 videos)
-  - Add and removing users
-  - Modify users
-  - Manage groups
-  - Manage special purpose and limited accounts
-  - Awareness of shadow passwords
-  - Change default password policies
-  - Individual user account settings
+  - [Add and removing users](#add-and-removing-users)
+  - [Modify users](#modify-users)
+  - [Manage groups](#manage-groups)
+  - [Manage special purpose and limited accounts](#manage-special-purpose-and-limited-accounts)
+  - [Awareness of shadow passwords](#awareness-of-shadow-passwords)
+  - [Change default password policies](#change-default-password-policies)
+  - [Individual user account settings](#individual-user-account-settings)
 - [**5. Automate System Administration Tasks by Scheduling Jobs**](#5-automate-system-administration-tasks-by-scheduling-jobs) (4 videos)
-  - Reccuring user jobs using cron
-  - Reccuring system jobs using cron
-  - Configure user access to cron and at services
-  - Systemd timer units
+  - [Reccuring user jobs using cron](#reccuring-user-jobs-using-cron)
+  - [Reccuring system jobs using cron](#reccuring-system-jobs-using-cron)
+  - [Configure user access to cron and at services](#configure-user-access-to-cron-and-at-services)
+  - [Systemd timer units](#systemd-timer-units)
 - [**6. Localization and System Time**](#6-localization-and-system-time) (7 videos)
-  - Set the system date, time, and timezone
-  - Configure locale settings and environment variables
-  - Install and start chrony
-  - Configure chrony server
-  - Configure chrony client
-  - Use cryonyc
-  - Using ntpd for serving time
+  - [Set the system date, time, and timezone](#set-the-system-date-time-and-timezone)
+  - [Configure locale settings and environment variables](#configure-locale-settings-and-environment-variables)
+  - [Install and start chrony](#install-and-start-chrony)
+  - [Configure chrony server](#configure-chrony-server)
+  - [Configure chrony client](#configure-chrony-client)
+  - [Use cryonyc](#use-cryonyc)
+  - [Using ntpd for serving time](#using-ntpd-for-serving-time)
 - [**7. System Logging**](#7-system-logging) (8 videos)
-  - Locate and interpret system log files
-  - Read the system journal
-  - Configuration of logrotate
-  - Filter journal data by criteria
-  - Rsyslog actions
-  - Clear old systemd journal data
-  - Retrieve systemd journal data from a rescue system
-  - About syslog, rsyslog, and syslog-ng
+  - [Locate and interpret system log files](#locate-and-interpret-system-log-files)
+  - [Read the system journal](#read-the-system-journal)
+  - [Configuration of logrotate](#configuration-of-logrotate)
+  - [Filter journal data by criteria](#filter-journal-data-by-criteria)
+  - [Rsyslog actions](#rsyslog-actions)
+  - [Clear old systemd journal data](#clear-old-systemd-journal-data)
+  - [Retrieve systemd journal data from a rescue system](#retrieve-systemd-journal-data-from-a-rescue-system)
+  - [About syslog, rsyslog, and syslog-ng](#about-syslog-rsyslog-and-syslog-ng)
 - [**8. Mail Transfer Agent (MTA) Basics**](#8-mail-transfer-agent-mta-basics) (8 videos)
-  - About email
-  - How email works
-  - Knowledge of common MTA programs
-  - Install Postfix
-  - Manage access to Postfix
-  - Configure a local mail server
-  - Create email aliases
-  - Forward mail as a user
+  - [About email](#about-email)
+  - [How email works](#how-email-works)
+  - [Knowledge of common MTA programs](#knowledge-of-common-mta-programs)
+  - [Install Postfix](#install-postfix)
+  - [Manage access to Postfix](#manage-access-to-postfix)
+  - [Configure a local mail server](#configure-a-local-mail-server)
+  - [Create email aliases](#create-email-aliases)
+  - [Forward mail as a user](#forward-mail-as-a-user)
 - [**9. Manage Printers and Printing**](#9-manage-printers-and-printing) (3 videos)
-  - Configure local and remote printers with CUPS
-  - Troubleshoot general printing problems
-  - Manage user print jobs
+  - [Configure local and remote printers with CUPS](#configure-local-and-remote-printers-with-cups)
+  - [Troubleshoot general printing problems](#troubleshoot-general-printing-problems)
+  - [Manage user print jobs](#manage-user-print-jobs)
 - [**10. Fundamentals of Internet Protocols**](#10-fundamentals-of-internet-protocols) (5 videos)
-  - About private and public "dotted quad" IP addresses
-  - Network masks and CIDR notation
-  - Common TCP and UDP ports and services
-  - Differences and major features of UDP, TCP, and ICMP
-  - Knowledge of the major differences between IPv4 and IPv6
+  - [About private and public "dotted quad" IP addresses](#about-private-and-public-dotted-quad-ip-addresses)
+  - [Network masks and CIDR notation](#network-masks-and-cidr-notation)
+  - [Common TCP and UDP ports and services](#common-tcp-and-udp-ports-and-services)
+  - [Differences and major features of UDP, TCP, and ICMP](#differences-and-major-features-of-udp-tcp-and-icmp)
+  - [Knowledge of the major differences between IPv4 and IPv6](#knowledge-of-the-major-differences-between-ipv4-and-ipv6)
 - [**11. Persistent Network Configuration**](#11-persistent-network-configuration) (5 videos)
-  - Gather network information
-  - Manual network interface configuration
-  - Configure networking using Network Manager
-  - Configure networking using the GUI
-  - Awareness of systemd-networkd
+  - [Gather network information](#gather-network-information)
+  - [Manual network interface configuration](#manual-network-interface-configuration)
+  - [Configure networking using Network Manager](#configure-networking-using-network-manager)
+  - [Configure networking using the GUI](#configure-networking-using-the-gui)
+  - [Awareness of systemd-networkd](#awareness-of-systemd-networkd)
 - [**12. Basic Network Troubleshooting**](#12-basic-network-troubleshooting) (4 videos)
-  - About routing
-  - View the routing table
-  - Manually configure routing using iproute2
-  - Debug problems associated with the network configuration
+  - [About routing](#about-routing)
+  - [View the routing table](#view-the-routing-table)
+  - [Manually configure routing using iproute2](#manually-configure-routing-using-iproute2)
+  - [Debug problems associated with the network configuration](#debug-problems-associated-with-the-network-configuration)
 - [**13. Configure Client-Side DNS**](#13-configure-client-side-dns) (5 videos)
-  - Query remote DNS servers
-  - Configure local name resolution with remote DNS servers
-  - Modify the order in which name resolution is done
-  - Debug errors related to name resolution
-  - About systemd-resolved
+  - [Query remote DNS servers](#query-remote-dns-servers)
+  - [Configure local name resolution with remote DNS servers](#configure-local-name-resolution-with-remote-dns-servers)
+  - [Modify the order in which name resolution is done](#modify-the-order-in-which-name-resolution-is-done)
+  - [Debug errors related to name resolution](#debug-errors-related-to-name-resolution)
+  - [About systemd-resolved](#about-systemd-resolved)
 - [**14. Perform Security Administration Tasks**](#14-perform-security-administration-tasks) (6 videos)
-  - Use Nmap and netstat to audit network services
-  - Set up limits on users
-  - Determine which users have logged in
-  - Basic sudo configuration and usage
-  - Find suid/sgid files
-  - About TCP wrappers
+  - [Use Nmap and netstat to audit network services](#use-nmap-and-netstat-to-audit-network-services)
+  - [Set up limits on users](#set-up-limits-on-users)
+  - [Determine which users have logged in](#determine-which-users-have-logged-in)
+  - [Basic sudo configuration and usage](#basic-sudo-configuration-and-usage)
+  - [Find suid/sgid files](#find-suidsgid-files)
+  - [About TCP wrappers](#about-tcp-wrappers)
 - [**15. Securing Data with Encryption**](#15-securing-data-with-encryption) (5 videos)
-  - Perform basic OpenSSH 2 client configuration
-  - About OpenSSH 2 server host keys
-  - Perform basic GnuPG configuration and revocation
-  - Use GPG to encrypt, decrypt, sign, and verify files
-  - SSH port tunnels
+  - [Perform basic OpenSSH 2 client configuration](#perform-basic-openssh-2-client-configuration)
+  - [About OpenSSH 2 server host keys](#about-openssh-2-server-host-keys)
+  - [Perform basic GnuPG configuration and revocation](#perform-basic-gnupg-configuration-and-revocation)
+  - [Use GPG to encrypt, decrypt, sign, and verify files](#use-gpg-to-encrypt-decrypt-sign-and-verify-files)
+  - [SSH port tunnels](#ssh-port-tunnels)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Taking the exam
+  - [Taking the exam](#taking-the-exam)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/welcome?u=76281980)
@@ -185,9 +185,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4)
 > **Env Vars:** lpic (4)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -241,6 +241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (13), [[Ubuntu]] (3), [[Virtual Machines]] (3), [[Windows]] (3), [[Virtualization]] (2)
 > **Env Vars:** amd (3), cpu (1), iso (1), ram (1)
 > **Prerequisites:** you'll need (2), install (1), make sure you have (1)
 > **Versions:** 19.04 (2)
@@ -248,7 +249,6 @@ created: 2026-04-29
 > **Code Identifiers:** macos (1)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** download the (1)
-> **Definitions:** is a  (1)
 
 #### About the LPIC 1 exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980)
@@ -319,6 +319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (8), [[Scripting]] (2), [[Vue.js|Vue]] (2), product (1), dns (1)
 > **Env Vars:** lpic (7), lxo (2), vue (2), suse (1), dns (1)
 > **Versions:** version 5 (4), version 6 (1)
 > **Prerequisites:** you need to have (1), install (1)
@@ -476,11 +477,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2), next (2), [[Virtualization]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (21), go to (1), scroll down (1), checkbox (1)
 > **Env Vars:** iso (3), gui (3), bios (1), uefi (1), usb (1)
 > **Prerequisites:** install (11), required to (1)
 > **CLI Commands:** sudo (2), make (2), find (1)
-> **Code Keywords:** new. (1), interface (1)
 > **URLs:** [virtualbox.org](https://virtualbox.org) (1), [centos.org](https://centos.org) (1)
 > **Versions:** version 7 (1)
 > **Exercise Files:** download the (1)
@@ -620,11 +621,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), next (3), cd (3), power (3), [[Software Development]] (1)
 > **UI Navigation:** click on (27), select the (1)
 > **CLI Commands:** make (7), yum (3), cd (3)
 > **Prerequisites:** install (7), configure (1), setup (1)
 > **Tools:** terminal (3), firefox (3)
-> **Code Keywords:** let (4), module (1)
 > **Env Vars:** iso (2), nat (1)
 > **Cross-References:** go back to (2)
 > **Exercise Files:** download the (1)
@@ -632,7 +633,7 @@ created: 2026-04-29
 
 ### 1. Customize and Use the Shell Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set environment variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-environment-variables?u=76281980)
@@ -781,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), var (2), override (1)
+> **Frameworks & Libraries:** hit (15), [[Linux]] (2), data (1)
 > **CLI Commands:** grep (6), make (1)
 > **Tools:** bash (5), terminal (1)
 > **Env Vars:** var (2), shell (1), test (1), gui (1)
@@ -926,7 +927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (8), case, (1)
+> **Frameworks & Libraries:** hit (5), [[Linux]] (3), cd (3), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** bash (12), command line (1), terminal (1)
 > **CLI Commands:** cd (3), mkdir (2), make (1)
 > **Code Identifiers:** bash_profile (2), bash_login (1), bash_env (1)
@@ -1024,8 +1025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), cd (4), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** ls (9), cd (4), make (1)
-> **Code Keywords:** let (7), function (2), else, (1), override (1), this, (1)
 > **Tools:** bash (6), terminal (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (2)
@@ -1126,10 +1127,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), [[Search]] (1), data (1)
 > **CLI Commands:** tar (3), make (2), find (1), mkdir (1), sudo (1)
 > **Env Vars:** path (8)
 > **Tools:** bash (6), terminal (1)
-> **Code Keywords:** let (3), this, (1)
 > **Warnings:** note that (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
@@ -1197,8 +1198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), cd (1)
 > **CLI Commands:** sudo (4), ls (2), cat (2), cd (1), cp (1)
-> **Code Keywords:** let (7)
 > **Definitions:** is called (1)
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
@@ -1206,7 +1207,7 @@ created: 2026-04-29
 
 ### 2. Write Simple Scripts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Bash
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980)
@@ -1245,8 +1246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), data (1), [[JSON]] (1)
 > **Tools:** bash (10), command line (1)
-> **Code Keywords:** for, (1), include; (1), this. (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** xml (1), json (1)
 > **Analogies:** for instance (1)
@@ -1350,9 +1351,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Scripting]] (1), [[Debugging]] (1), next (1), [[Search]] (1)
 > **CLI Commands:** make (5), cat (2), chmod (1), mkdir (1), mv (1)
 > **Tools:** bash (7), terminal (1)
-> **Code Keywords:** let (5), case, (1), this, (1)
 > **File Paths:** script.sh (5)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (2)
@@ -1482,7 +1483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (2), case, (2)
+> **Frameworks & Libraries:** hit (13), cd (4), prompt (2)
 > **CLI Commands:** cd (4), make (2), cat (2), ls (1), grep (1)
 > **Analogies:** for instance (2), similar to (1)
 > **Warnings:** note that (2)
@@ -1600,8 +1601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (12), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** ls (11), find (7), mkdir (2)
-> **Code Keywords:** let (10), type, (1)
 > **Tools:** terminal (2), bash (2), command line (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
@@ -1709,7 +1710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), if, (1), elif (1), let (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Search]] (1), power (1)
 > **Tools:** bash (6)
 > **CLI Commands:** grep (3), find (1)
 > **Env Vars:** posix (2)
@@ -1765,7 +1766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if, (1), match. (1), this. (1), continue (1)
+> **Frameworks & Libraries:** next (2)
 > **Tools:** bash (2), command line (1)
 > **Analogies:** similar to (2), for example (1)
 > **Env Vars:** age (2)
@@ -1851,7 +1852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), break. (2), static (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
 > **Env Vars:** ifs (4)
 > **Tools:** bash (3)
 > **CLI Commands:** make (1)
@@ -1903,7 +1904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **Tools:** command line (1)
@@ -2058,7 +2059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (7), this, (1), else, (1), delete (1)
+> **Frameworks & Libraries:** database (12), hit (10), [[Troubleshooting]] (1), [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **CLI Commands:** ls (7), cat (7), make (4)
 > **Tools:** bash (4), terminal (1)
 > **UI Navigation:** go to (5)
@@ -2138,6 +2139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), data (1)
 > **CLI Commands:** sudo (1), make (1)
 > **Env Vars:** euid (1), cpu (1)
 > **Cross-References:** later in (1)
@@ -2145,12 +2147,11 @@ created: 2026-04-29
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
-> **Speakers:** - [narrator] (1)
 
 
 ### 3. Install and Configure X11
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### X11 architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980)
@@ -2237,7 +2238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), default. (1), default, (1)
+> **Frameworks & Libraries:** application (3), [[Windows]] (2), [[Hardware]] (2), [[Linux]] (1), [[Memory Management]] (1)
 > **Env Vars:** unic (1), mit (1), gpl (1), cpu (1)
 > **URLs:** [x.org](https://x.org) (3)
 > **Analogies:** such as (3)
@@ -2333,8 +2334,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Linux]] (4), [[Windows]] (4), [[Microsoft Word|Word]] (1), [[Search]] (1)
 > **Env Vars:** gnome (12), kde (6), mate (5), gui (2), gtk2 (2)
-> **Code Keywords:** interface (3), let (1), default, (1), switch (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** install (2)
 > **CLI Commands:** find (1)
@@ -2483,8 +2484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Linux]] (1), [[Search]] (1), next (1)
 > **UI Navigation:** click on (15), go to (2), switch to (1)
-> **Code Keywords:** switch (2), let (2), default, (1), function (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** remember to (1), the key is (1)
 > **Env Vars:** gnome (1)
@@ -2581,7 +2582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (3), module (2), let (2), interface (1), static (1)
+> **Frameworks & Libraries:** hit (2), [[Windows]] (1), [[Microsoft Products|Products]] (1), cd (1)
 > **CLI Commands:** cat (2), cd (1), ls (1)
 > **Prerequisites:** configure (4)
 > **Env Vars:** x11 (2), hal (1)
@@ -2703,11 +2704,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (12), [[Linux]] (8), data (3), [[Microsoft]] (2), application (2)
 > **Env Vars:** vnc (8), rdp (8), spice (5), ssh (4), gui (4)
 > **CLI Commands:** ssh (4)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** macos (2), ios (1)
-> **Code Keywords:** default. (1), let (1)
 > **Tools:** command line (1), terminal (1)
 > **Analogies:** such as (2)
 > **Versions:** version 10 (1)
@@ -2801,9 +2802,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), application (5), [[Windows]] (2), [[Linux]] (1), [[Server Configuration]] (1)
 > **CLI Commands:** ssh (8), sudo (2), make (1)
 > **Env Vars:** ssh (4), cpu (1), x11 (1), sshd (1), display (1)
-> **Code Keywords:** interface (3), let (2), this. (1)
 > **Versions:** 192.168.2 (2), 10.0 (1)
 > **Tools:** terminal (2)
 > **Definitions:** means that (1), is a  (1)
@@ -2813,7 +2814,7 @@ created: 2026-04-29
 
 ### 4. Manage User and Group Accounts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add and removing users
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/add-and-removing-users?u=76281980)
@@ -2950,8 +2951,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (17), [[Linux]] (2)
 > **CLI Commands:** sudo (14), cat (9), ls (3), rm (1)
-> **Code Keywords:** let (8), case, (2), delete (2), this, (1)
 > **UI Navigation:** go to (1), scroll up (1)
 > **Cross-References:** later in (1)
 > **Documentation:** man page (1)
@@ -3071,8 +3072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), next (1)
 > **CLI Commands:** sudo (10), cat (5)
-> **Code Keywords:** let (4)
 > **Tools:** bash (2), terminal (1)
 > **Env Vars:** sin (1)
 > **Cross-References:** in the last (1)
@@ -3133,8 +3134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), [[Linux]] (1), [[User Management]] (1)
 > **CLI Commands:** sudo (5), cat (2)
-> **Code Keywords:** let (1), type, (1), this, (1), delete (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -3203,8 +3204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), [[Linux]] (3), application (3), [[Security]] (3), [[Search]] (2)
 > **CLI Commands:** sudo (3), cat (2)
-> **Code Keywords:** let (2), this, (1)
 > **Tools:** bash (2), terminal (1)
 > **Prerequisites:** set up (2)
 > **Code Identifiers:** visudo (1)
@@ -3329,8 +3330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (12), [[Linux]] (4), data (1), [[Zoom]] (1)
 > **CLI Commands:** cat (11), sudo (10), make (1), yum (1)
-> **Code Keywords:** let (8), function (1), match. (1), super (1), default. (1)
 > **Env Vars:** md5 (2), sha (1), sha512 (1), unconv (1)
 > **Tools:** terminal (4)
 > **Prerequisites:** install (3)
@@ -3439,7 +3440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (9), case, (3), let (1), this, (1)
+> **Frameworks & Libraries:** [[Linux]] (4), hit (4), next (2), [[Security]] (1)
 > **CLI Commands:** sudo (3), find (1), cat (1)
 > **Analogies:** such as (5)
 > **Tools:** terminal (1)
@@ -3592,8 +3593,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), next (3), prompt (1)
 > **CLI Commands:** sudo (7), cat (1), make (1), ssh (1)
-> **Code Keywords:** case, (5), let (4)
 > **Speakers:** - m (2), - [instructor] (1), - e (1), - i (1), - w (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -3604,7 +3605,7 @@ created: 2026-04-29
 
 ### 5. Automate System Administration Tasks by Scheduling Jobs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reccuring user jobs using cron
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/reccuring-user-jobs-using-cron?u=76281980)
@@ -3713,8 +3714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6)
 > **CLI Commands:** systemctl (7), cat (1)
-> **Code Keywords:** default, (2), static (2), let (1), case, (1)
 > **Tools:** terminal (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
@@ -3787,8 +3788,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11)
 > **CLI Commands:** systemctl (18), sudo (7)
-> **Code Keywords:** let (5)
 > **Tools:** terminal (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -3834,8 +3835,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Linux]] (1)
 > **CLI Commands:** systemctl (7), sudo (2)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Speakers:** - when (1)
 
@@ -3950,8 +3951,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (4), hit (1), application (1)
 > **Analogies:** such as (2), similar to (1), for instance (1)
-> **Code Keywords:** this. (3)
 > **File Paths:** backup.sh (1), root/bin/sysbackup.sh (1)
 > **CLI Commands:** systemctl (2)
 > **Ports:** :00 (1)
@@ -3961,7 +3962,7 @@ created: 2026-04-29
 
 ### 6. Localization and System Time
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set the system date, time, and timezone
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-the-system-date-time-and-timezone?u=76281980)
@@ -4046,10 +4047,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), [[Hardware]] (1), [[Search]] (1)
 > **Env Vars:** ntp (10), gui (1), rtc (1)
 > **CLI Commands:** sudo (2), yum (2), make (1), grep (1), systemctl (1)
 > **Tools:** terminal (3), command line (1)
-> **Code Keywords:** let (2), interface (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Prerequisites:** install (2), set up (1)
 > **Ports:** :20 (1)
@@ -4190,7 +4191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1), pass (1), abstract (1)
+> **Frameworks & Libraries:** hit (16), [[Linux]] (1), application (1), [[Zoom]] (1), next (1)
 > **CLI Commands:** grep (5), find (2), make (1)
 > **Tools:** terminal (3), command line (1)
 > **UI Navigation:** click on (2), go to (1), open the (1)
@@ -4246,9 +4247,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4)
 > **CLI Commands:** sudo (4), systemctl (3), make (2), yum (1)
 > **Tools:** terminal (1), command line (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ctl (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -4376,7 +4377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (4), this, (1), case, (1), require (1)
+> **Frameworks & Libraries:** hit (6), next (2)
 > **CLI Commands:** sudo (5), make (4), find (1), systemctl (1)
 > **Env Vars:** ntp (6), rhce (1)
 > **Versions:** 192.168.1 (4), 255.255.255 (2)
@@ -4428,8 +4429,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3)
 > **CLI Commands:** sudo (4), systemctl (1)
-> **Code Keywords:** let (3), case, (1), for. (1)
 > **Env Vars:** ntp (2), vim (2), actl (1)
 > **Tools:** vim (2), terminal (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -4488,8 +4489,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** sudo (3)
-> **Code Keywords:** let (2)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -4580,9 +4581,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), traffic (2), next (1), web (1), generic (1)
 > **Env Vars:** ntp (12), ntpd (3), gps (2), pps (2), ndbd (1)
 > **CLI Commands:** sudo (7), systemctl (2), find (1), yum (1), make (1)
-> **Code Keywords:** let (6), public (1)
 > **Prerequisites:** install (3), configure (1), set up (1)
 > **URLs:** [ntp.org](https://ntp.org) (2), [ntppool.org](https://ntppool.org) (1)
 > **Tools:** terminal (3)
@@ -4592,7 +4593,7 @@ created: 2026-04-29
 
 ### 7. System Logging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Locate and interpret system log files
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980)
@@ -4705,8 +4706,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Search]] (3), data (3), [[Linux]] (3), [[Troubleshooting]] (1)
 > **CLI Commands:** sudo (4), systemctl (2), find (2), grep (2), make (1)
-> **Code Keywords:** var (6), let (3), default, (1), else, (1), private (1)
 > **Tools:** terminal (3)
 > **Env Vars:** tcp (1), udp (1)
 > **Definitions:** is a  (2)
@@ -4809,8 +4810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), data (4), [[Linux]] (1)
 > **CLI Commands:** journalctl (8), make (3), sudo (2), systemctl (1), ls (1)
-> **Code Keywords:** var (3), let (2), for. (1)
 > **Definitions:** is a  (4)
 > **Tools:** terminal (3)
 > **Analogies:** for instance (1), just like (1), such as (1)
@@ -4871,8 +4872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Analogies:** for instance (6), such as (1)
-> **Code Keywords:** var (3), from. (1)
 > **Warnings:** warning (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -4920,8 +4921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), next (1), cd (1)
 > **CLI Commands:** sudo (1), cd (1), ls (1), yum (1)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4976,7 +4977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (2), static (1), this. (1)
+> **Frameworks & Libraries:** data (2), [[Search]] (1)
 > **Exercise Files:** template (4)
 > **Ports:** :10 (1)
 > **Env Vars:** ram (1)
@@ -5052,7 +5053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), var (3), let (2), default, (1)
+> **Frameworks & Libraries:** hit (3)
 > **CLI Commands:** sudo (5), journalctl (4), make (1), ls (1)
 > **Env Vars:** ram (2)
 > **Cross-References:** previous video (1)
@@ -5112,8 +5113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Search]] (1)
 > **CLI Commands:** journalctl (8), sudo (3), grep (1), find (1), make (1)
-> **Code Keywords:** var (6), this. (1), let (1), type, (1)
 > **Env Vars:** uid (3), euid (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -5195,11 +5196,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), database (2), api (1), [[Security]] (1), [[Ubuntu]] (1)
 > **Env Vars:** tcp (2), udp (1), gss (1), api (1), tls (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** opensuse (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -5207,7 +5208,7 @@ created: 2026-04-29
 
 ### 8. Mail Transfer Agent (MTA) Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About email
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-email?u=76281980)
@@ -5274,9 +5275,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** mta (7), pop (6), smtp (3), imap (3), mua (2)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), default, (1)
 > **Speakers:** - email (1)
 
 #### How email works
@@ -5301,7 +5302,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** smtp (2), mta (2), pop3 (1), imap (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Knowledge of common MTA programs
@@ -5383,8 +5383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Linux]] (2), application (1), hit (1)
 > **Env Vars:** mta (11), ibm (1)
-> **Code Keywords:** public (1), function (1), let (1)
 > **Tools:** terminal (2), command line (1)
 > **CLI Commands:** make (1), sudo (1)
 > **URLs:** [localnet.com](https://localnet.com) (2)
@@ -5426,10 +5426,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), prompt (1), next (1)
 > **CLI Commands:** sudo (3), make (2), yum (2)
 > **Env Vars:** mta (2), usr (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** let (2)
 > **Tools:** terminal (2)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -5525,7 +5525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), match. (1)
+> **Frameworks & Libraries:** hit (3), database (1)
 > **Env Vars:** email (1), host (1), accept (1), regular (1), example (1)
 > **CLI Commands:** find (1), sudo (1), ls (1)
 > **URLs:** [example.com](https://example.com) (2)
@@ -5675,7 +5675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), switch (1), case, (1), var (1)
+> **Frameworks & Libraries:** hit (15), next (2), dns (2), [[Microsoft Word|Word]] (1), traffic (1)
 > **CLI Commands:** sudo (8), make (5)
 > **UI Navigation:** scroll down (3), go to (3)
 > **URLs:** [localnet.com](https://localnet.com) (4)
@@ -5753,7 +5753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2)
+> **Frameworks & Libraries:** hit (3), database (1)
 > **CLI Commands:** sudo (1), ls (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -5797,6 +5797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Env Vars:** mta (2)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
@@ -5806,7 +5807,7 @@ created: 2026-04-29
 
 ### 9. Manage Printers and Printing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure local and remote printers with CUPS
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980)
@@ -5967,9 +5968,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), hit (4), data (3), next (3), [[Linux]] (2)
 > **Env Vars:** cups (12), lpd (6), ipp (5), gui (4), bsd (1)
 > **UI Navigation:** click on (11), open the (1), checkbox (1), select the (1)
-> **Code Keywords:** continue (4), default, (2), interface (1), let (1), type, (1)
 > **CLI Commands:** sudo (3), make (2), python (1), systemctl (1), yum (1)
 > **Tools:** terminal (2), bash (1), firefox (1)
 > **Prerequisites:** setup (2), install (2)
@@ -6009,8 +6010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4)
 > **CLI Commands:** find (1), sudo (1), systemctl (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** webgui (1)
 > **Tools:** terminal (1)
 > **Warnings:** troubleshoot (1)
@@ -6109,8 +6110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), power (1), next (1)
 > **Env Vars:** gui (4), cups (1)
-> **Code Keywords:** let (3), this. (1)
 > **UI Navigation:** click on (4)
 > **File Paths:** printfile.txt (3)
 > **Tools:** command line (2)
@@ -6121,7 +6122,7 @@ created: 2026-04-29
 
 ### 10. Fundamentals of Internet Protocols
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About private and public "dotted quad" IP addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-private-and-public-dotted-quad-ip-addresses?u=76281980)
@@ -6188,7 +6189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), public (7), type, (1), interface (1)
+> **Frameworks & Libraries:** data (2), traffic (1), business (1)
 > **Versions:** 192.168.0 (1), 192.168.255 (1), 172.16.0 (1), 172.31.255 (1), 10.0.0 (1)
 > **Env Vars:** tcp (1), nat (1)
 > **Definitions:** is an  (1)
@@ -6311,8 +6312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Forms]] (1), [[Routing]] (1)
 > **Versions:** 192.168.2 (8), 255.255.255 (4), 11111111.11111111.11111111 (2), 0.0.0 (1), 00000000.00000000.00000000 (1)
-> **Code Keywords:** let (3), case, (2), this. (1)
 > **Env Vars:** cidr (4)
 > **Definitions:** defined as (1), means that (1), short for (1)
 > **Warnings:** keep in mind (2)
@@ -6373,9 +6374,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), traffic (4), [[Linux]] (2), dns (1), hit (1)
 > **Ports:** port 80 (3), port 22 (1), port 23 (1), port 25 (1), port 53 (1)
 > **Env Vars:** iana (2), ftp (1), smtp (1), dns (1)
-> **Code Keywords:** for, (1), let (1), override (1), pass (1)
 > **Versions:** 192.168.2 (3)
 > **Analogies:** for instance (2)
 > **Tools:** terminal (1)
@@ -6445,6 +6446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[IP Addressing]] (1)
 > **Env Vars:** tcp (9), udp (8), icmp (7)
 > **Warnings:** troubleshoot (2), note that (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -6502,7 +6504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), this, (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Linux]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 4.3 (1)
 > **Speakers:** - [instructor] (1)
@@ -6510,7 +6512,7 @@ created: 2026-04-29
 
 ### 11. Persistent Network Configuration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gather network information
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980)
@@ -6611,8 +6613,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), dns (3), [[Linux]] (2), [[Virtual Machines]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** eth (3), dns (3), arp (2), addr (2), ctl (2)
-> **Code Keywords:** static (4), interface (2), let (2), default. (1), default, (1)
 > **CLI Commands:** find (1), sudo (1), yum (1), make (1)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** install (2)
@@ -6707,8 +6709,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), [[Linux]] (3), next (2), hit (1)
 > **Env Vars:** dns (6), dhcp (2), ipaddr (1), ipv6addr (1), hwaddr (1)
-> **Code Keywords:** interface (12), static (2), match. (1), case, (1), let (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Versions:** 255.255.255 (1)
 > **Tools:** terminal (1)
@@ -6826,8 +6828,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (14), [[Linux]] (1), generic (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nmcli (16), nmtui (5), ncmli (3), emp0s3 (2), tui (1)
-> **Code Keywords:** interface (6), let (3)
 > **CLI Commands:** sudo (4), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (2), for instance (1)
@@ -6912,7 +6914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), static (2), require (1), override (1)
+> **Frameworks & Libraries:** [[Security]] (2), dns (2), vpn (2), next (1), hit (1)
 > **Env Vars:** gui (5), dns (2), vpn (2), mtu (1), dhcp (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Versions:** version 4 (3), version 6 (1)
@@ -6990,8 +6992,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), management (1), data (1), [[Routing]] (1)
 > **Env Vars:** dhcp (2), suse (1), wicd (1), mac (1), ssid (1)
-> **Code Keywords:** static (2), match, (1), type, (1), this. (1), switch (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** install (2), configure (1)
 > **CLI Commands:** sudo (1), yum (1)
@@ -7002,7 +7004,7 @@ created: 2026-04-29
 
 ### 12. Basic Network Troubleshooting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980)
@@ -7033,7 +7035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), switch (1), static (1)
+> **Frameworks & Libraries:** [[Routing]] (5), traffic (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** dhcp (2)
 > **Speakers:** - [instructor] (1)
@@ -7081,7 +7083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1)
+> **Frameworks & Libraries:** [[Routing]] (2), next (2), hit (1), [[Microsoft Word|Word]] (1), traffic (1)
 > **Code Identifiers:** rt_protos (1), rt_scopes (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -7129,7 +7131,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (6), interface (5)
 > **Versions:** 192.168.100 (6), 255.255.255 (2)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** make (1)
@@ -7359,8 +7360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (16), hit (11), traffic (5), [[Google]] (3), [[LinkedIn]] (3)
 > **Env Vars:** dns (16), dhcp (3), arp (3), enp0s3 (2)
-> **Code Keywords:** let (8), this, (5), switch (4), interface (2), this. (1)
 > **Versions:** 192.168.2 (8), 8.8.8 (2)
 > **Warnings:** troubleshoot (5)
 > **Definitions:** is a  (4)
@@ -7371,7 +7372,7 @@ created: 2026-04-29
 
 ### 13. Configure Client-Side DNS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Query remote DNS servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/query-remote-dns-servers?u=76281980)
@@ -7484,9 +7485,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (14), hit (10), next (1), [[Microsoft Word|Word]] (1)
 > **URLs:** [redhat.com](https://redhat.com) (12), [ford.com](https://ford.com) (1), [centos.com](https://centos.com) (1)
 > **Env Vars:** dns (14)
-> **Code Keywords:** let (3), case, (1), default, (1), this, (1), type. (1)
 > **File Paths:** dnsnames.txt (3)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (1), find (1)
@@ -7558,10 +7559,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[Search]] (5), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dns (8), etc (2), peerdns (1)
 > **URLs:** [localnet.com](https://localnet.com) (4), [ford.com](https://ford.com) (2), [apple.com](https://apple.com) (2), [otherdomain.com](https://otherdomain.com) (2)
 > **Analogies:** for instance (5), such as (1)
-> **Code Keywords:** interface (3), let (1)
 > **Warnings:** keep in mind (2)
 > **Versions:** 4.2.2 (1)
 > **Definitions:** is a  (1)
@@ -7614,8 +7615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (7), database (2), next (2), data (1), [[Databases]] (1)
 > **Env Vars:** dns (6), nfs (1), nis (1)
-> **Code Keywords:** switch (1), from. (1), override (1), return, (1), continue (1)
 > **Speakers:** - the (1)
 
 #### Debug errors related to name resolution
@@ -7677,7 +7678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2)
+> **Frameworks & Libraries:** dns (5), hit (1), [[Troubleshooting]] (1)
 > **Env Vars:** dns (5)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -7738,8 +7739,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), vpn (2), [[Linux]] (1), [[Forms]] (1), hit (1)
 > **Env Vars:** dns (6), vpn (2), nss (1)
-> **Code Keywords:** interface (4), public (1), let (1), module (1)
 > **CLI Commands:** cat (1), make (1)
 > **Analogies:** for instance (2)
 > **Tools:** terminal (1)
@@ -7748,7 +7749,7 @@ created: 2026-04-29
 
 ### 14. Perform Security Administration Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Nmap and netstat to audit network services
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980)
@@ -7853,8 +7854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), next (2), [[Linux]] (1), [[Search]] (1), application (1)
 > **CLI Commands:** sudo (7), systemctl (2), ssh (2), make (1), yum (1)
-> **Code Keywords:** let (3), type= (1), type, (1)
 > **Code Identifiers:** st (3), su (1)
 > **Versions:** 127.0.0 (1), 192.168.2 (1)
 > **Prerequisites:** install (2)
@@ -7936,7 +7937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type, (1), this. (1)
+> **Frameworks & Libraries:** hit (3), [[Security]] (2), [[Linux]] (1), next (1), data (1)
 > **URLs:** [limits.com](https://limits.com) (2)
 > **Tools:** terminal (2)
 > **Analogies:** for instance (2)
@@ -8006,7 +8007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (4), let (2), this, (1)
+> **Frameworks & Libraries:** hit (6), next (1), [[Linux]] (1)
 > **CLI Commands:** sudo (1)
 > **Env Vars:** cpu (1)
 > **Tools:** terminal (1)
@@ -8100,8 +8101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), [[Accountability]] (1), prompt (1)
 > **CLI Commands:** sudo (13), cat (3)
-> **Code Keywords:** let (5), switch (2)
 > **UI Navigation:** switch to (2)
 > **Prerequisites:** set up (1), configure (1)
 > **Tools:** terminal (1)
@@ -8219,9 +8220,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), power (1), [[Security]] (1), [[Search]] (1)
 > **Env Vars:** suid (10), sgid (10), usr (7), bin (7), sudo (4)
 > **CLI Commands:** find (8), chmod (4), sudo (4), ls (3)
-> **Code Keywords:** case, (4), let (3), type, (2)
 > **Analogies:** such as (1), similar to (1), for instance (1)
 > **Tools:** terminal (2)
 > **Warnings:** note that (1)
@@ -8362,10 +8363,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), application (2), data (2), dns (2), next (1)
 > **Env Vars:** tcp (5), sshd (3), dns (2), local (1), known (1)
 > **CLI Commands:** sudo (2), make (1), ssh (1), find (1), grep (1)
 > **Warnings:** be aware (2), be careful (1), troubleshoot (1)
-> **Code Keywords:** self (1), this, (1), match. (1)
 > **Code Identifiers:** host_options (1), host_access (1)
 > **Tools:** terminal (2)
 > **UI Navigation:** go to (2)
@@ -8374,7 +8375,7 @@ created: 2026-04-29
 
 ### 15. Securing Data with Encryption
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Perform basic OpenSSH 2 client configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980)
@@ -8453,9 +8454,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), next (2), api (2), generic (2), [[Security]] (2)
 > **Env Vars:** ssh (6), api (2), gss (1), ietf (1), x11 (1)
 > **CLI Commands:** ssh (8)
-> **Code Keywords:** let (3), override (1), case, (1)
 > **Documentation:** man page (3)
 > **Tools:** command line (2), terminal (1)
 > **Code Identifiers:** ssh_config (2)
@@ -8541,8 +8542,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7)
 > **CLI Commands:** ssh (20), cat (4), ls (1), make (1)
-> **Code Keywords:** public (9), let (6), private (3), pub (2), delete (2)
 > **Env Vars:** ssh (12), rsa (1)
 > **Code Identifiers:** id_rsa (3), known_hosts (1), authorized_keys (1)
 > **Best Practices:** the key is (2), it's best to (1)
@@ -8637,7 +8638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (11), private (3), this. (1), let (1), pub (1)
+> **Frameworks & Libraries:** hit (8), [[Privacy]] (2)
 > **Env Vars:** gpg (4), gnu (1), pgp (1), ascii (1)
 > **CLI Commands:** ls (1), make (1)
 > **URLs:** [gnupg.net](https://gnupg.net) (2)
@@ -8687,7 +8688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), override (1)
+> **Frameworks & Libraries:** hit (3), [[Privacy]] (1)
 > **CLI Commands:** cat (2)
 > **Env Vars:** gpg (2)
 > **Tools:** terminal (1)
@@ -8804,9 +8805,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (9), data (7), database (7), [[Linux]] (2), [[Search]] (1)
 > **Env Vars:** ssh (24), gui (1), scp (1), ftp (1), socks (1)
 > **CLI Commands:** ssh (24), cat (2)
-> **Code Keywords:** let (6), case, (2), public (2), default. (1), interface (1)
 > **Ports:** port 3306 (2), :3306 (2), :22 (1), port
 10 (1), port 22 (1)
 > **Versions:** 127.0.0 (6)
@@ -8817,7 +8818,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980)
@@ -8870,6 +8871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Linux]] (1), [[Security]] (1), [[Google]] (1)
 > **Env Vars:** lpi (3), lpic (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** required to (1)

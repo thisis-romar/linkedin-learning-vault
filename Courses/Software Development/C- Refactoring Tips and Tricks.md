@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Refactoring%20Tips%20and%20Tricks.md)
@@ -47,32 +47,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know
-  - What is refactoring?
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [What is refactoring?](#what-is-refactoring)
 - [**1. Refactoring Strategies**](#1-refactoring-strategies) (4 videos)
-  - Create a baseline
-  - Incremental steps
-  - Remove unused code
-  - Improve performance
+  - [Create a baseline](#create-a-baseline)
+  - [Incremental steps](#incremental-steps)
+  - [Remove unused code](#remove-unused-code)
+  - [Improve performance](#improve-performance)
 - [**2. Before You Refactor**](#2-before-you-refactor) (3 videos)
-  - Use version control
-  - Refactor in branches
-  - Tools for refactoring
+  - [Use version control](#use-version-control)
+  - [Refactor in branches](#refactor-in-branches)
+  - [Tools for refactoring](#tools-for-refactoring)
 - [**3. Optimizing Code**](#3-optimizing-code) (3 videos)
-  - Identify problem areas
-  - Common optimizations
-  - Inlining code
+  - [Identify problem areas](#identify-problem-areas)
+  - [Common optimizations](#common-optimizations)
+  - [Inlining code](#inlining-code)
 - [**4. Creating Clean Code**](#4-creating-clean-code) (3 videos)
-  - Code readability
-  - Extract methods
-  - Create clean APIs
+  - [Code readability](#code-readability)
+  - [Extract methods](#extract-methods)
+  - [Create clean APIs](#create-clean-apis)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/welcome-22867113?u=76281980)
@@ -89,7 +89,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - hello (1)
 
 #### What you should know
@@ -105,8 +104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), api (1), [[Version Control]] (1)
 > **Env Vars:** ide (1), api (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [narrator] (1)
 
@@ -135,8 +134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** api (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -144,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Refactoring Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-a-baseline-22863229?u=76281980)
@@ -182,7 +181,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -253,7 +251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), continue (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Unit Testing]] (2), application (2)
 > **CLI Commands:** make (5)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -305,6 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Tools:** visual studio (1)
@@ -422,7 +421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), class. (3), this, (1), for. (1), class, (1)
+> **Frameworks & Libraries:** data (4), application (2), next (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** roi (1)
@@ -433,7 +432,7 @@ created: 2026-04-29
 
 ### 2. Before You Refactor
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980)
@@ -480,8 +479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (5), [[Git]] (2), [[Forms]] (1), feature (1)
 > **CLI Commands:** make (2), find (2), git (2)
-> **Code Keywords:** finally, (1), break. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -528,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), continue (1), self (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -606,7 +605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), public (3), private (2), let (2), static (1)
+> **Frameworks & Libraries:** next (3), [[Windows]] (1), api (1)
 > **Env Vars:** ide (3), api (1)
 > **Tools:** visual studio (1)
 > **UI Navigation:** click on (1)
@@ -616,7 +615,7 @@ created: 2026-04-29
 
 ### 3. Optimizing Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify problem areas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/identify-problem-areas-22862983?u=76281980)
@@ -669,8 +668,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (1), application (1), data (1), next (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** api (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** source code (1)
@@ -745,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), pass (2), continue (1), throw (1)
+> **Frameworks & Libraries:** application (2), [[Programming]] (1), next (1), hit (1), data (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.5 (1)
@@ -815,7 +814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), static (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Game Development]] (1)
 > **Definitions:** is called (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -823,7 +822,7 @@ created: 2026-04-29
 
 ### 4. Creating Clean Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Code readability
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/code-readability-22867114?u=76281980)
@@ -872,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), finally, (2), for. (1), require (1), pass (1)
+> **Frameworks & Libraries:** api (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -951,7 +950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (5), case, (3), case. (2), let (1), extends (1)
+> **Frameworks & Libraries:** strengths (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Scalability]] (1), business (1)
 > **CLI Commands:** cat (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
@@ -1060,7 +1059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (14), let (3), public (3), pass (3), implements (3)
+> **Frameworks & Libraries:** api (3), web (2), business (1), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -1071,7 +1070,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/next-steps-22867112?u=76281980)

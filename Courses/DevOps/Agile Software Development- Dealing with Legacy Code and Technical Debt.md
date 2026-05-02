@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Dealing%20with%20Legacy%20Code%20and%20Technical%20Debt.md)
@@ -48,43 +48,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Embrace the legacy and tackle the debt
-  - What you should know
-  - Definitions
+  - [Embrace the legacy and tackle the debt](#embrace-the-legacy-and-tackle-the-debt)
+  - [What you should know](#what-you-should-know)
+  - [Definitions](#definitions)
 - [**1. Getting Started: Review the Technical Debt**](#1-getting-started-review-the-technical-debt) (5 videos)
-  - Familiarize yourself
-  - Remember the prime directive
-  - Take ownership
-  - Set up a dev environment
-  - Skim the code
+  - [Familiarize yourself](#familiarize-yourself)
+  - [Remember the prime directive](#remember-the-prime-directive)
+  - [Take ownership](#take-ownership)
+  - [Set up a dev environment](#set-up-a-dev-environment)
+  - [Skim the code](#skim-the-code)
 - [**2. Fence in the Technical Debt**](#2-fence-in-the-technical-debt) (6 videos)
-  - Technical debt grows without tests
-  - Create a test suite (if one is missing)
-  - Run the test suite
-  - Handle failing tests
-  - Build out test coverage
-  - Build dependency behavior tests
+  - [Technical debt grows without tests](#technical-debt-grows-without-tests)
+  - [Create a test suite (if one is missing)](#create-a-test-suite-if-one-is-missing)
+  - [Run the test suite](#run-the-test-suite)
+  - [Handle failing tests](#handle-failing-tests)
+  - [Build out test coverage](#build-out-test-coverage)
+  - [Build dependency behavior tests](#build-dependency-behavior-tests)
 - [**3. Improve Your Tools**](#3-improve-your-tools) (3 videos)
-  - Aging tools make technical debt worse
-  - Introduce dependency management
-  - Update dependencies and tools
+  - [Aging tools make technical debt worse](#aging-tools-make-technical-debt-worse)
+  - [Introduce dependency management](#introduce-dependency-management)
+  - [Update dependencies and tools](#update-dependencies-and-tools)
 - [**4. Pay Down Technical Debt**](#4-pay-down-technical-debt) (4 videos)
-  - Remove noise and distractions
-  - Read by refactoring
-  - Isolate external services and devices
-  - Code like a scientist
+  - [Remove noise and distractions](#remove-noise-and-distractions)
+  - [Read by refactoring](#read-by-refactoring)
+  - [Isolate external services and devices](#isolate-external-services-and-devices)
+  - [Code like a scientist](#code-like-a-scientist)
 - [**5. Keep Technical Debt at Bay**](#5-keep-technical-debt-at-bay) (5 videos)
-  - Technical debt will grow like weeds
-  - Stay test driven
-  - Practice refactoring
-  - Keep code clean
-  - Monitor code quality
+  - [Technical debt will grow like weeds](#technical-debt-will-grow-like-weeds)
+  - [Stay test driven](#stay-test-driven)
+  - [Practice refactoring](#practice-refactoring)
+  - [Keep code clean](#keep-code-clean)
+  - [Monitor code quality](#monitor-code-quality)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace the legacy and tackle the debt
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/embrace-the-legacy-and-tackle-the-debt?u=76281980)
@@ -111,6 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [scott] (1)
 
@@ -145,9 +146,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Agile Software Development]] (1)
 > **Tools:** visual studio (1), terminal (1)
 > **CLI Commands:** ruby (1)
-> **Code Keywords:** super (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -196,7 +197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), continue (1)
+> **Frameworks & Libraries:** business (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -204,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Getting Started: Review the Technical Debt
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Familiarize yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/familiarize-yourself?u=76281980)
@@ -273,10 +274,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Search]] (1)
 > **CLI Commands:** find (8)
 > **Env Vars:** readme (4)
 > **Prerequisites:** you'll need (3), install (1)
-> **Code Keywords:** finally, (1), for, (1)
 > **Best Practices:** it's best to (2)
 > **Documentation:** the readme (1)
 > **Exercise Files:** source code (1)
@@ -327,6 +328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), teams (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -393,8 +395,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), power (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), switch (1)
 > **UI Navigation:** open the (1), switch to (1)
 > **Speakers:** - [narrator] (1)
 
@@ -501,8 +503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Representational State Transfer (REST)|Rest]] (2), database (2), next (2), teams (1)
 > **CLI Commands:** docker (16), ruby (5), make (2)
-> **Code Keywords:** let (4), yield (1), require (1), this, (1)
 > **File Paths:** docker-compose.yaml (2), docker-entrypoint.sh (1)
 > **Versions:** version 1 (1), ruby 1 (1), 9.3 (1)
 > **Prerequisites:** install (2), set up (1)
@@ -587,7 +589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (1), continue (1)
+> **Frameworks & Libraries:** application (1), web application (1), next (1)
 > **File Paths:** base.rb (4), sinatra.rb (3)
 > **CLI Commands:** make (2), ruby (1), find (1)
 > **Versions:** version 1 (1)
@@ -598,7 +600,7 @@ created: 2026-04-29
 
 ### 2. Fence in the Technical Debt
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Technical debt grows without tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-grows-without-tests?u=76281980)
@@ -635,8 +637,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### Create a test suite (if one is missing)
@@ -688,7 +690,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), finally, (1), super (1), continue (1)
 > **CLI Commands:** make (2), ruby (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
@@ -728,10 +729,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** ide (4)
 > **Prerequisites:** you'll need (2), set up (1)
-> **Code Keywords:** require (1)
 > **Documentation:** the documentation (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
@@ -788,8 +789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), application (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### Build out test coverage
@@ -857,8 +858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Unit Testing]] (1)
 > **CLI Commands:** ruby (3), make (2), find (1)
-> **Code Keywords:** let (5), pass (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** readme (1)
 > **Cross-References:** go back to (1)
@@ -910,8 +911,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (1), [[Security]] (1), application (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** switch (4)
 > **Env Vars:** xml (1), http (1)
 > **Exercise Files:** template (2)
 > **Speakers:** - [narrator] (1)
@@ -919,7 +920,7 @@ created: 2026-04-29
 
 ### 3. Improve Your Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Aging tools make technical debt worse
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980)
@@ -978,8 +979,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** else. (1), continue (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
@@ -1040,10 +1041,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dependency Management]] (4), [[Programming]] (1), [[Package Management]] (1), [[Python (Programming Language)|Python]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (4), find (3), ruby (1), pip (1), python (1)
 > **Env Vars:** ftp (1), readme (1), php (1), net (1), jvm (1)
 > **Prerequisites:** install (2), make sure you have (1)
-> **Code Keywords:** for. (1), require (1)
 > **Versions:** 2.0 (1), 1.5 (1)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** it's best to (1)
@@ -1150,9 +1151,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), next (3), [[Dependency Management]] (2), [[Security]] (1)
 > **CLI Commands:** make (5), find (3)
 > **Env Vars:** ide (5)
-> **Code Keywords:** continue (1), function (1), switch (1)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1160,7 +1161,7 @@ created: 2026-04-29
 
 ### 4. Pay Down Technical Debt
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Remove noise and distractions
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remove-noise-and-distractions?u=76281980)
@@ -1261,8 +1262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), next (1), hit (1), application (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** delete (4), case, (1)
 > **Warnings:** caution (1), warning (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
@@ -1359,9 +1360,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Definitions:** is a  (4), is an  (3), short for (1)
 > **CLI Commands:** make (3), ruby (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Versions:** version 1 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1427,7 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (2), cloud (2), [[React.js|React]] (1), [[Hardware]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cnc (1)
 > **Analogies:** similar to (1)
@@ -1502,8 +1503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1), data (1), [[Programming]] (1), application (1)
 > **CLI Commands:** make (3), ruby (2)
-> **Code Keywords:** let (2), delete (1)
 > **Env Vars:** fast (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -1512,7 +1513,7 @@ created: 2026-04-29
 
 ### 5. Keep Technical Debt at Bay
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Technical debt will grow like weeds
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980)
@@ -1549,8 +1550,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), next (1), [[Coding Practices]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Stay test driven
@@ -1588,9 +1589,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (7), [[Programming Foundations]] (1)
 > **Env Vars:** tdd (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### Practice refactoring
@@ -1626,6 +1627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Agile Software Development]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1659,8 +1661,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Coding Practices]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** try. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1699,7 +1701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2)
+> **Frameworks & Libraries:** [[Security]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -1707,7 +1709,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980)
@@ -1740,6 +1742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Slack]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)

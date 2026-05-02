@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/negotiation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Negotiation%20Foundations.md)
@@ -43,36 +43,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Negotiate with better results
+  - [Negotiate with better results](#negotiate-with-better-results)
 - [**1. The Basics of Negotiation**](#1-the-basics-of-negotiation) (6 videos)
-  - Developing a negotiation mindset
-  - The three core negotiation practices
-  - Anchoring and framing for mutual benefit
-  - Listening and building tactical empathy
-  - Trading things of value
-  - The wrong and right way to negotiate
+  - [Developing a negotiation mindset](#developing-a-negotiation-mindset)
+  - [The three core negotiation practices](#the-three-core-negotiation-practices)
+  - [Anchoring and framing for mutual benefit](#anchoring-and-framing-for-mutual-benefit)
+  - [Listening and building tactical empathy](#listening-and-building-tactical-empathy)
+  - [Trading things of value](#trading-things-of-value)
+  - [The wrong and right way to negotiate](#the-wrong-and-right-way-to-negotiate)
 - [**2. Getting Ready for a Negotiation**](#2-getting-ready-for-a-negotiation) (2 videos)
-  - Researching and preparing
-  - Identifying priorities and designing options
+  - [Researching and preparing](#researching-and-preparing)
+  - [Identifying priorities and designing options](#identifying-priorities-and-designing-options)
 - [**3. Engaging Your Allies**](#3-engaging-your-allies) (2 videos)
-  - Understanding how influence works
-  - Creating your influence plan
+  - [Understanding how influence works](#understanding-how-influence-works)
+  - [Creating your influence plan](#creating-your-influence-plan)
 - [**4. Getting Through and Past No**](#4-getting-through-and-past-no) (3 videos)
-  - Understanding conflict styles
-  - A template for getting past no
-  - A template for saying no
+  - [Understanding conflict styles](#understanding-conflict-styles)
+  - [A template for getting past no](#a-template-for-getting-past-no)
+  - [A template for saying no](#a-template-for-saying-no)
 - [**5. Essential Negotiation Tips and Strategies**](#5-essential-negotiation-tips-and-strategies) (2 videos)
-  - Dealing with contentious tactics
-  - Negotiation hacks
+  - [Dealing with contentious tactics](#dealing-with-contentious-tactics)
+  - [Negotiation hacks](#negotiation-hacks)
 - [**6. Negotiating at a Distance**](#6-negotiating-at-a-distance) (2 videos)
-  - Telephone and video conference negotiation
-  - Email and text negotiation
+  - [Telephone and video conference negotiation](#telephone-and-video-conference-negotiation)
+  - [Email and text negotiation](#email-and-text-negotiation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Deepening your knowledge
+  - [Deepening your knowledge](#deepening-your-knowledge)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Negotiate with better results
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/negotiate-with-better-results?u=76281980)
@@ -105,7 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), let (1)
+> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Negotiation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing a negotiation mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/developing-a-negotiation-mindset-18025142?u=76281980)
@@ -171,9 +171,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** known as (2), is a  (1)
-> **Code Keywords:** continue (1), let (1)
 > **Speakers:** - many (1)
 
 #### The three core negotiation practices
@@ -252,7 +252,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** case, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
@@ -318,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), raise (1), this. (1)
+> **Frameworks & Libraries:** business (1), leadership (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -402,7 +401,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), for. (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - from (1)
 
@@ -465,7 +463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - in (1)
 
 #### The wrong and right way to negotiate
@@ -599,15 +597,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - i (7), - okay (3), - hey (2), - joe (2), - [instructor] (2)
-> **Code Keywords:** let (6), super (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), in other words (1)
 
 
 ### 2. Getting Ready for a Negotiation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Researching and preparing
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/researching-and-preparing-18021308?u=76281980)
@@ -674,7 +672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), strengths (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **CLI Commands:** make (1)
 > **URLs:** [salary.com](https://salary.com) (1)
@@ -740,7 +738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -748,7 +746,7 @@ created: 2026-04-29
 
 ### 3. Engaging Your Allies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding how influence works
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/understanding-how-influence-works-18020490?u=76281980)
@@ -829,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), private (1), finally, (1)
+> **Frameworks & Libraries:** next (4), power (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** similar to (1)
@@ -882,8 +880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** raise (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - we (1)
@@ -891,7 +889,7 @@ created: 2026-04-29
 
 ### 4. Getting Through and Past No
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding conflict styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/understanding-conflict-styles-18021307?u=76281980)
@@ -962,7 +960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), raise (1), pass (1)
+> **Frameworks & Libraries:** job description (1)
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - asking (1)
 
@@ -1029,8 +1027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1)
 > **Speakers:** - so (2), - i (2), - when (1), - what (1), - right (1)
-> **Code Keywords:** let (2), pass (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -1102,7 +1100,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - how (1)
@@ -1110,7 +1107,7 @@ created: 2026-04-29
 
 ### 5. Essential Negotiation Tips and Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dealing with contentious tactics
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/dealing-with-contentious-tactics-18020492?u=76281980)
@@ -1201,9 +1198,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1), next (1), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - not (1)
 
 #### Negotiation hacks
@@ -1271,8 +1268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Microsoft Office|Office]] (1), express (1), strengths (1), data (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), case, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1281,7 +1278,7 @@ created: 2026-04-29
 
 ### 6. Negotiating at a Distance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Telephone and video conference negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/telephone-and-video-conference-negotiation?u=76281980)
@@ -1361,7 +1358,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (7), find (2)
-> **Code Keywords:** let (1), finally, (1), case, (1)
 > **Prerequisites:** make sure you have (1), you'll need (1)
 > **Definitions:** in other words (1)
 > **Best Practices:** it's best to (1)
@@ -1442,16 +1438,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), express (1), [[Business Communications]] (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (1), exercise files (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - it (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deepening your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/deepening-your-knowledge?u=76281980)
@@ -1484,6 +1480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you need to have (1)

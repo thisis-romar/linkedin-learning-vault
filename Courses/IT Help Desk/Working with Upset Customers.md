@@ -28,7 +28,7 @@ tags:
   - skill/escalation-resolution
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Working%20with%20Upset%20Customers.md)
@@ -47,29 +47,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Serving upset customers with ease
-  - Exploring your upset customers learning plan
-  - Helping the customer be right
+  - [Serving upset customers with ease](#serving-upset-customers-with-ease)
+  - [Exploring your upset customers learning plan](#exploring-your-upset-customers-learning-plan)
+  - [Helping the customer be right](#helping-the-customer-be-right)
 - [**1. Preventing Customer Anger**](#1-preventing-customer-anger) (3 videos)
-  - Creating personal connections with rapport
-  - Avoiding unpleasant surprises
-  - Using preemptive acknowledgment
+  - [Creating personal connections with rapport](#creating-personal-connections-with-rapport)
+  - [Avoiding unpleasant surprises](#avoiding-unpleasant-surprises)
+  - [Using preemptive acknowledgment](#using-preemptive-acknowledgment)
 - [**2. Serving Angry Customers**](#2-serving-angry-customers) (5 videos)
-  - Recognizing your natural instincts
-  - Listening with empathy
-  - Apologizing effectively
-  - Avoiding arguments
-  - Drawing the line at abusive behavior
+  - [Recognizing your natural instincts](#recognizing-your-natural-instincts)
+  - [Listening with empathy](#listening-with-empathy)
+  - [Apologizing effectively](#apologizing-effectively)
+  - [Avoiding arguments](#avoiding-arguments)
+  - [Drawing the line at abusive behavior](#drawing-the-line-at-abusive-behavior)
 - [**3. Learning from Angry Customers**](#3-learning-from-angry-customers) (3 videos)
-  - Preserving the relationship
-  - Conducting an after-action review
-  - Sharing customer feedback
+  - [Preserving the relationship](#preserving-the-relationship)
+  - [Conducting an after-action review](#conducting-an-after-action-review)
+  - [Sharing customer feedback](#sharing-customer-feedback)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Putting the work in
+  - [Putting the work in](#putting-the-work-in)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Serving upset customers with ease
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/serving-upset-customers-with-ease?u=76281980)
@@ -107,7 +107,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### Exploring your upset customers learning plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/exploring-your-upset-customers-learning-plan?u=76281980)
@@ -150,8 +149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), business (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), try, (1)
 > **Cross-References:** next video (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -342,7 +341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3)
+> **Frameworks & Libraries:** [[Vanilla]] (19), next (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
@@ -350,7 +349,7 @@ created: 2026-04-29
 
 ### 1. Preventing Customer Anger
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating personal connections with rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/creating-personal-connections-with-rapport?u=76281980)
@@ -453,8 +452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vanilla]] (6), express (1), next (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (1), let (1), finally, (1)
 > **Analogies:** imagine (1), just like (1)
 > **Env Vars:** vip (1)
 > **Definitions:** is a  (1)
@@ -540,8 +539,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), express (1), management (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** case. (1), let (1)
 > **Analogies:** such as (2)
 > **Exercise Files:** download the (1)
 > **Warnings:** caveat (1)
@@ -633,7 +632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Exercise Files:** download the (1)
@@ -641,7 +640,7 @@ created: 2026-04-29
 
 ### 2. Serving Angry Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognizing your natural instincts
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980)
@@ -750,7 +749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), override (1), this, (1)
+> **Frameworks & Libraries:** [[Vanilla]] (4), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -906,8 +905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vanilla]] (6)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), finally, (1), case, (1)
 > **Analogies:** such as (1)
 
 #### Apologizing effectively
@@ -985,7 +984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), return. (1), let (1)
+> **Frameworks & Libraries:** [[Vanilla]] (3), power (2), [[Microsoft Word|Word]] (2), career (1), product (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -1124,8 +1123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vanilla]] (15), next (3), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), this. (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** go back to (1)
@@ -1187,13 +1186,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Definitions:** is a  (1)
 
 
 ### 3. Learning from Angry Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preserving the relationship
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/preserving-the-relationship?u=76281980)
@@ -1296,8 +1295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vanilla]] (5), next (4), product (2), business (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** try. (2), let (1)
 > **Definitions:** is a  (1)
 
 #### Conducting an after-action review
@@ -1391,7 +1390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), break. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2), career (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** download the (1)
 
@@ -1474,8 +1473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), business (1)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** pass (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
@@ -1483,7 +1482,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting the work in
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/putting-the-work-in?u=76281980)

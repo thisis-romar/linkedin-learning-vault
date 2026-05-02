@@ -31,7 +31,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Ai%20Driven%20Product%20Designer.md)
@@ -50,24 +50,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How AI is transforming product design
+  - [How AI is transforming product design](#how-ai-is-transforming-product-design)
 - [**1. AI Tips for Product Designers**](#1-ai-tips-for-product-designers) (11 videos)
-  - Creating mood boards using AI image tools
-  - Using Uizard to make fast prototypes
-  - Screenshot or sketch to prototype using Uizard
-  - Use Strella to validate prototypes
-  - Use Figma’s AI tools to speed up design
-  - Use Figma design-to-code tools
-  - Getting insights and opportunities from CX data
-  - Generate sitemaps and content in Relume
-  - Creating a custom agent for research insights
-  - Using AI ethically and securely
-  - The future of product design with AI
+  - [Creating mood boards using AI image tools](#creating-mood-boards-using-ai-image-tools)
+  - [Using Uizard to make fast prototypes](#using-uizard-to-make-fast-prototypes)
+  - [Screenshot or sketch to prototype using Uizard](#screenshot-or-sketch-to-prototype-using-uizard)
+  - [Use Strella to validate prototypes](#use-strella-to-validate-prototypes)
+  - [Use Figma’s AI tools to speed up design](#use-figmas-ai-tools-to-speed-up-design)
+  - [Use Figma design-to-code tools](#use-figma-design-to-code-tools)
+  - [Getting insights and opportunities from CX data](#getting-insights-and-opportunities-from-cx-data)
+  - [Generate sitemaps and content in Relume](#generate-sitemaps-and-content-in-relume)
+  - [Creating a custom agent for research insights](#creating-a-custom-agent-for-research-insights)
+  - [Using AI ethically and securely](#using-ai-ethically-and-securely)
+  - [The future of product design with AI](#the-future-of-product-design-with-ai)
 - [**2. Helpful Resources**](#2-helpful-resources) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How AI is transforming product design
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980)
@@ -86,13 +86,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), ai (2), [[Microsoft Products|Products]] (2), ux (2), management (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [drew] (1)
 
 
 ### 1. AI Tips for Product Designers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating mood boards using AI image tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980)
@@ -249,7 +250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), this. (1), from. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (12), ai (5), product (5), functional (2), next (2)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** we talked about (1)
 > **Tools:** notion (1)
@@ -527,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this. (2), else. (2), super (2)
+> **Frameworks & Libraries:** ai (6), prompt (5), product (4), functional (2), [[Figma (Software)|Figma]] (2)
 > **UI Navigation:** go to (4), click on (2), toggle (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3), find (1)
@@ -723,7 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (4), this, (2), this. (1)
+> **Frameworks & Libraries:** feature (2), [[Sketching]] (2), ai (1), [[Zoom]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** picture (4), imagine (1)
 > **UI Navigation:** go to (2)
@@ -1148,8 +1149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), [[Figma (Software)|Figma]] (3), data (2), prompt (2), ux (1)
 > **Speakers:** - [ai] (10), - [instructor] (8), - i (2), - user (1), - mostly (1)
-> **Code Keywords:** let (8), this. (5), super (2), delete (2), case, (1)
 > **Definitions:** is a  (7)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** go to (4), click on (1)
@@ -1328,7 +1329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), this, (2), finally, (2), delete (2)
+> **Frameworks & Libraries:** ai (14), [[Figma (Software)|Figma]] (10), [[LinkedIn]] (1), hit (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (9), find (3)
 > **Tools:** figma (10)
 > **UI Navigation:** go to (2)
@@ -1530,7 +1531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (4), this. (3), export, (1), pass (1)
+> **Frameworks & Libraries:** ai (6), [[Figma (Software)|Figma]] (5), web (4), [[GitHub]] (4), database (3)
 > **Tools:** figma (5), github (4)
 > **URLs:** [builder.io](https://builder.io) (8)
 > **Definitions:** is a  (3), is an  (1)
@@ -1736,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), super (1), this, (1), this. (1), from. (1)
+> **Frameworks & Libraries:** data (17), product (9), ai (4), feature (3), business (2)
 > **Env Vars:** prd (3), b2b (2)
 > **Tools:** slack (2), discord (1), safari (1), jira (1)
 > **CLI Commands:** find (3), make (1)
@@ -1916,7 +1917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), include, (1), delete (1), export. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5), ai (4), prompt (4), application (3), [[React.js|React]] (3)
 > **Tools:** figma (5)
 > **Env Vars:** html (3), csv (1)
 > **Definitions:** is a  (3)
@@ -2114,7 +2115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), from. (1), this, (1), this. (1), this ( (1)
+> **Frameworks & Libraries:** data (18), [[ChatGPT]] (3), [[Google]] (3), product (3), llm (2)
 > **Env Vars:** prd (4), llm (2), dao (1), png (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** discord (3)
@@ -2214,8 +2215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (12), [[Security]] (2), [[Google]] (2), product (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (2), public (1), protected (1)
 > **Best Practices:** it's best to (1), good practice (1), best practice (1)
 > **Warnings:** be careful (2), keep in mind (1)
 > **Env Vars:** pii (1), llm (1)
@@ -2278,7 +2279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (1)
+> **Frameworks & Libraries:** product (7), ai (6), data (3), application (2), [[Search]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** kpi (1), llm (1)
 > **URLs:** [builder.io](https://builder.io) (1)
@@ -2290,7 +2291,7 @@ created: 2026-04-29
 
 ### 2. Helpful Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Skills Covered

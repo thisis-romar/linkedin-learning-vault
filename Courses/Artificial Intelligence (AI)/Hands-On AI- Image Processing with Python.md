@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/computer-vision
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20Image%20Processing%20with%20Python.md)
@@ -54,60 +54,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Computer vision under the hood
-  - What you should know
-  - Using the exercise files
+  - [Computer vision under the hood](#computer-vision-under-the-hood)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Setting Up Our Development Environment**](#1-setting-up-our-development-environment) (2 videos)
-  - Testing your environment
-  - Maintaining a clean notebook workspace
+  - [Testing your environment](#testing-your-environment)
+  - [Maintaining a clean notebook workspace](#maintaining-a-clean-notebook-workspace)
 - [**2. The Basics of Image Processing**](#2-the-basics-of-image-processing) (7 videos)
-  - Image representation
-  - Color encoding
-  - Image file management
-  - Resolution
-  - Rotations and flips
-  - Challenge: Manipulate pictures
-  - Solution: Manipulate pictures
+  - [Image representation](#image-representation)
+  - [Color encoding](#color-encoding)
+  - [Image file management](#image-file-management)
+  - [Resolution](#resolution)
+  - [Rotations and flips](#rotations-and-flips)
+  - [Challenge: Manipulate pictures](#challenge-manipulate-pictures)
+  - [Solution: Manipulate pictures](#solution-manipulate-pictures)
 - [**3. From Color to Black and White**](#3-from-color-to-black-and-white) (6 videos)
-  - Average grayscale
-  - Weighted grayscale
-  - Converting grayscale to black and white
-  - Adaptive thresholding
-  - Challenge: Removing color
-  - Solution: Removing color
+  - [Average grayscale](#average-grayscale)
+  - [Weighted grayscale](#weighted-grayscale)
+  - [Converting grayscale to black and white](#converting-grayscale-to-black-and-white)
+  - [Adaptive thresholding](#adaptive-thresholding)
+  - [Challenge: Removing color](#challenge-removing-color)
+  - [Solution: Removing color](#solution-removing-color)
 - [**4. Filters**](#4-filters) (7 videos)
-  - Convolution filters
-  - Average filters
-  - Median filters
-  - Gaussian filters
-  - Edge-detection filters
-  - Challenge: Convolution filters
-  - Solution: Convolution filters
+  - [Convolution filters](#convolution-filters)
+  - [Average filters](#average-filters)
+  - [Median filters](#median-filters)
+  - [Gaussian filters](#gaussian-filters)
+  - [Edge-detection filters](#edge-detection-filters)
+  - [Challenge: Convolution filters](#challenge-convolution-filters)
+  - [Solution: Convolution filters](#solution-convolution-filters)
 - [**5. Image Scaling**](#5-image-scaling) (6 videos)
-  - Image downscaling methods
-  - Downscaling example
-  - Image upscaling methods
-  - Upscaling example
-  - Challenge: Resize a picture
-  - Solution: Resize a picture
+  - [Image downscaling methods](#image-downscaling-methods)
+  - [Downscaling example](#downscaling-example)
+  - [Image upscaling methods](#image-upscaling-methods)
+  - [Upscaling example](#upscaling-example)
+  - [Challenge: Resize a picture](#challenge-resize-a-picture)
+  - [Solution: Resize a picture](#solution-resize-a-picture)
 - [**6. Fun with Cuts**](#6-fun-with-cuts) (5 videos)
-  - Image cuts
-  - Stitching two images together
-  - Cuts in panoramic photography
-  - Challenge: Stitch two pictures together
-  - Solution: Stitch two pictures together
+  - [Image cuts](#image-cuts)
+  - [Stitching two images together](#stitching-two-images-together)
+  - [Cuts in panoramic photography](#cuts-in-panoramic-photography)
+  - [Challenge: Stitch two pictures together](#challenge-stitch-two-pictures-together)
+  - [Solution: Stitch two pictures together](#solution-stitch-two-pictures-together)
 - [**7. Morphological Modifications**](#7-morphological-modifications) (5 videos)
-  - Why modify objects?
-  - Erosion and dilation
-  - Open and close
-  - Challenge: Help a robot
-  - Solution: Help a robot
+  - [Why modify objects?](#why-modify-objects)
+  - [Erosion and dilation](#erosion-and-dilation)
+  - [Open and close](#open-and-close)
+  - [Challenge: Help a robot](#challenge-help-a-robot)
+  - [Solution: Help a robot](#solution-help-a-robot)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computer vision under the hood
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980)
@@ -130,8 +130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Image Processing]] (3), [[Algorithms]] (1), [[GitHub]] (1), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** matlab (1)
 > **Tools:** github (1)
 > **Prerequisites:** setup (1)
@@ -166,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Image Processing]] (2), [[Computer Vision]] (2), [[Algorithms]] (1), [[Programming]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Tools:** jupyter (3), github (1), anaconda (1)
 > **Versions:** python 3 (2)
@@ -268,7 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (1), while. (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (3), cloud (2), next (2), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (4), visual studio (2), anaconda (1), jupyter (1), vs code (1)
 > **UI Navigation:** click on (4), checkbox (1), open the (1)
 > **CLI Commands:** find (2), python (1), make (1)
@@ -280,7 +281,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Our Development Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing your environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980)
@@ -351,7 +352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (2), [[Zoom]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** python (4), make (2)
 > **Versions:** version 3 (1), 12.1 (1), version 2 (1), 2.4 (1), version 4 (1)
 > **Tools:** jupyter (3), vs code (1)
@@ -433,7 +434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (1), [[JSON]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** autosave (1), afterdelay (1)
 > **Versions:** 2.4 (1), 2.9 (1)
@@ -445,7 +446,7 @@ created: 2026-04-29
 
 ### 2. The Basics of Image Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Image representation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-representation?u=76281980)
@@ -538,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (6), module (1), type. (1)
+> **Frameworks & Libraries:** next (3), [[Jetpack Compose|Compose]] (1), data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -612,7 +613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** rgb (4), rgba (1), cmyk (1), hsl (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** known as (1), is an  (1)
@@ -750,7 +751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (10)
+> **Frameworks & Libraries:** data (5), next (3), [[Image Processing]] (1), management (1), hit (1)
 > **Env Vars:** png (10), jpeg (9), rgba (2), rgb (2), bmp (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **Cross-References:** in the next (2), go back to (1)
@@ -816,8 +817,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **Analogies:** picture (10), just like (1), imagine (1)
-> **Code Keywords:** let (3), require (1), function (1), this. (1)
 > **Code Identifiers:** rcparams (1)
 > **Env Vars:** dpi (1)
 > **Speakers:** - [instructor] (1)
@@ -871,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** rgb (2), img (1)
 > **Analogies:** picture (1)
 > **Speakers:** - rotating (1)
@@ -945,11 +946,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), traffic (2)
 > **Env Vars:** rgba (2), jpeg (1), rgb (1), ec_cv (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1), next video (1)
-> **Code Keywords:** this. (1)
 > **Tools:** jupyter (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
@@ -1033,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1)
+> **Frameworks & Libraries:** traffic (3), data (1)
 > **Env Vars:** png (2), rgba (1)
 > **Analogies:** picture (2)
 > **Speakers:** - [instructor] (1)
@@ -1042,7 +1043,7 @@ created: 2026-04-29
 
 ### 3. From Color to Black and White
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Average grayscale
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980)
@@ -1127,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), while. (3), this, (2), function (2)
+> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (2), [[Computer Vision]] (1), data (1), product (1)
 > **Analogies:** picture (9)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** python (2)
@@ -1179,7 +1180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (1)
 > **Versions:** 0.299 (1), 0.587 (1), 0.114 (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
@@ -1244,7 +1245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), try. (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1), data (1), next (1)
 > **Analogies:** picture (4), for example (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1353,7 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5), static (1)
+> **Frameworks & Libraries:** next (4)
 > **Analogies:** picture (4), similar to (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Definitions:** is a  (1)
@@ -1390,7 +1391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), function (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** eccv (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -1431,7 +1432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -1440,7 +1441,7 @@ created: 2026-04-29
 
 ### 4. Filters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Convolution filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980)
@@ -1513,8 +1514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1), [[Image Processing]] (1), [[Computer Vision]] (1)
 > **Analogies:** picture (11)
-> **Code Keywords:** let (4), function (2), case, (1), this. (1)
 > **Definitions:** is a  (4), in other words (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1582,7 +1583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** picture (4), for example (1)
 > **Code Identifiers:** filter2d (2)
 > **Speakers:** - [instructor] (1)
@@ -1708,7 +1709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), next (1), feature (1)
 > **Analogies:** picture (9)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1762,7 +1763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), type. (1)
+> **Frameworks & Libraries:** next (3), [[Zoom]] (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -1872,7 +1873,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (3), yield (1), this. (1)
 > **Analogies:** picture (7)
 > **Definitions:** stands for (2), is a  (1)
 > **CLI Commands:** make (1)
@@ -1923,6 +1923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** img (1)
 > **Cross-References:** next video (1)
@@ -1976,7 +1977,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1984,7 +1984,7 @@ created: 2026-04-29
 
 ### 5. Image Scaling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Image downscaling methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-downscaling-methods?u=76281980)
@@ -2027,7 +2027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), yield (1), let (1)
+> **Frameworks & Libraries:** data (1)
 > **Analogies:** picture (2)
 > **Versions:** 1.5 (1)
 > **Speakers:** - [instructor] (1)
@@ -2115,7 +2115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (4), this, (1)
+> **Frameworks & Libraries:** hit (1)
 > **Analogies:** picture (6)
 > **Env Vars:** eccv (1)
 > **Cross-References:** go back to (1)
@@ -2159,8 +2159,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2255,7 +2255,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (2)
 > **Analogies:** picture (7)
 > **Env Vars:** eccv (1)
 > **Cross-References:** go back to (1)
@@ -2291,7 +2290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** eccv (2)
 > **Cross-References:** next video (1)
 > **Analogies:** picture (1)
@@ -2331,7 +2330,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3)
 > **Analogies:** picture (1), just like (1)
 > **Env Vars:** eccv (1)
 > **Speakers:** - [instructor] (1)
@@ -2340,7 +2338,7 @@ created: 2026-04-29
 
 ### 6. Fun with Cuts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Image cuts
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-cuts?u=76281980)
@@ -2431,8 +2429,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), next (2), [[Image Processing]] (1)
 > **Analogies:** picture (7), just like (1), for example (1)
-> **Code Keywords:** let (4), this. (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -2600,7 +2598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (4), this, (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), next (1), [[Search]] (1)
 > **UI Navigation:** scroll down (3), go to (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** get_seam (2)
@@ -2666,8 +2664,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), feature (1), [[Algorithms]] (1), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (6), for example (1)
-> **Code Keywords:** let (2), match. (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2709,9 +2707,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -2762,7 +2760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2770,7 +2768,7 @@ created: 2026-04-29
 
 ### 7. Morphological Modifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why modify objects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980)
@@ -2865,7 +2863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), function (2), this. (1), implements (1)
+> **Frameworks & Libraries:** next (3), application (2), [[Image Processing]] (2), [[Computer Vision]] (2), [[Algorithms]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (3), known as (2)
 > **Analogies:** picture (4), for example (1)
@@ -2969,7 +2967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (3)
+> **Frameworks & Libraries:** [[Computer Vision]] (1)
 > **Analogies:** picture (3), similar to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -3035,7 +3033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), new, (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3100,6 +3098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3)
 > **Env Vars:** cvs (1), url (1), hsv (1)
 > **Cross-References:** in the next (2), next video (1)
 > **CLI Commands:** find (1), make (1)
@@ -3154,7 +3153,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
 > **CLI Commands:** find (1)
 > **Tools:** jupyter (1)
 > **Analogies:** picture (1)
@@ -3164,7 +3162,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980)
@@ -3191,8 +3189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Image Processing]] (2), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** matlab (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [eduardo] (1)

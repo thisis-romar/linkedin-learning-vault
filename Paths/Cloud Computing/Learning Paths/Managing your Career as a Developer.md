@@ -9,7 +9,7 @@ linkedin_topics:
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 0
 tags:
   - learning-path
   - topic/cloud-computing
@@ -55,7 +55,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Managing%20your%20Career%20as%20a%20Developer.md)

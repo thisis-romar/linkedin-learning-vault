@@ -33,7 +33,7 @@ tags:
   - skill/ai-literacy
   - skill/ai-policy-governance-and-regulation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Global%20Risks%2C%20Governance%2C%20and%20Human%20Oversight.md)
@@ -52,36 +52,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What it means to think critically about AI
+  - [What it means to think critically about AI](#what-it-means-to-think-critically-about-ai)
 - [**1. Foundations: AI, Society, and Literacy**](#1-foundations-ai-society-and-literacy) (5 videos)
-  - Why we should consider AI and society
-  - Why the ability to think critically is part of AI literacy
-  - How AI design shapes society
-  - What AI means to different people
-  - Why AI systems fail beyond technical capability
+  - [Why we should consider AI and society](#why-we-should-consider-ai-and-society)
+  - [Why the ability to think critically is part of AI literacy](#why-the-ability-to-think-critically-is-part-of-ai-literacy)
+  - [How AI design shapes society](#how-ai-design-shapes-society)
+  - [What AI means to different people](#what-ai-means-to-different-people)
+  - [Why AI systems fail beyond technical capability](#why-ai-systems-fail-beyond-technical-capability)
 - [**2. Bias, Fairness, and Case Studies**](#2-bias-fairness-and-case-studies) (4 videos)
-  - Why bias is not an exception
-  - How the COMPAS system discriminated against Black defendants
-  - Why technical fixes are not enough
-  - Why AI bias is not a mistake
+  - [Why bias is not an exception](#why-bias-is-not-an-exception)
+  - [How the COMPAS system discriminated against Black defendants](#how-the-compas-system-discriminated-against-black-defendants)
+  - [Why technical fixes are not enough](#why-technical-fixes-are-not-enough)
+  - [Why AI bias is not a mistake](#why-ai-bias-is-not-a-mistake)
 - [**3. Responsibility, Transparency, and Safety**](#3-responsibility-transparency-and-safety) (5 videos)
-  - What responsibility means in AI
-  - How responsibility, accountability, and liability differ
-  - Why explainability and transparency matter in AI
-  - Why AI safety requires robustness
-  - How AI can be deceived
+  - [What responsibility means in AI](#what-responsibility-means-in-ai)
+  - [How responsibility, accountability, and liability differ](#how-responsibility-accountability-and-liability-differ)
+  - [Why explainability and transparency matter in AI](#why-explainability-and-transparency-matter-in-ai)
+  - [Why AI safety requires robustness](#why-ai-safety-requires-robustness)
+  - [How AI can be deceived](#how-ai-can-be-deceived)
 - [**4. Information Integrity, Privacy, and Profiling**](#4-information-integrity-privacy-and-profiling) (7 videos)
-  - How misinformation and disinformation spread in the AI era
-  - Why privacy becomes a critical issue
-  - How AI-based profiling works
-  - What resurrection technologies ask us
-  - How AI changes the nature of work
-  - Why AI governance is needed
-  - Why dependency on AI is a growing risk
+  - [How misinformation and disinformation spread in the AI era](#how-misinformation-and-disinformation-spread-in-the-ai-era)
+  - [Why privacy becomes a critical issue](#why-privacy-becomes-a-critical-issue)
+  - [How AI-based profiling works](#how-ai-based-profiling-works)
+  - [What resurrection technologies ask us](#what-resurrection-technologies-ask-us)
+  - [How AI changes the nature of work](#how-ai-changes-the-nature-of-work)
+  - [Why AI governance is needed](#why-ai-governance-is-needed)
+  - [Why dependency on AI is a growing risk](#why-dependency-on-ai-is-a-growing-risk)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What it means to think critically about AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980)
@@ -124,13 +124,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), let (1)
+> **Frameworks & Libraries:** ai (10), [[Microsoft Word|Word]] (1), [[Privacy]] (1), [[Security]] (1), [[Ethics]] (1)
 > **Warnings:** keep in mind (1)
 
 
 ### 1. Foundations: AI, Society, and Literacy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why we should consider AI and society
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980)
@@ -193,8 +193,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Word|Word]] (1), product (1), data (1)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** raise (1)
 > **Analogies:** for example (1)
 
 #### Why the ability to think critically is part of AI literacy
@@ -300,7 +300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), for. (2), new. (1), finally, (1)
+> **Frameworks & Libraries:** ai (36), [[Microsoft Word|Word]] (1), [[Security]] (1), data (1), [[Microsoft Copilot]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is an  (1)
@@ -359,8 +359,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Ethics]] (1)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** let (1), for, (1), for. (1)
 > **Definitions:** is a  (1)
 
 #### What AI means to different people
@@ -420,9 +420,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), [[Microsoft Word|Word]] (5), [[Generative AI]] (1), application (1)
 > **Analogies:** for example (3), picture (1), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 
 #### Why AI systems fail beyond technical capability
@@ -500,14 +500,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (4), [[Engineering]] (1), next (1), [[Algorithms]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** for. (2), else, (1), finally, (1), this, (1)
 > **Analogies:** imagine (1), such as (1), it's like (1), just like (1)
 
 
 ### 2. Bias, Fairness, and Case Studies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why bias is not an exception
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980)
@@ -582,8 +582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), data (4), [[Microsoft Word|Word]] (2), [[Algorithms]] (1)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** let (1), this. (1), this, (1)
 > **Definitions:** is a  (2)
 > **Warnings:** caution (1)
 
@@ -658,7 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), for. (1), this. (1), public (1)
+> **Frameworks & Libraries:** ai (13), data (2), [[Statistics]] (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** picture (1)
 
@@ -737,7 +737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), abstract (1), let (1), public (1)
+> **Frameworks & Libraries:** ai (5), data (5), [[Algorithms]] (2), [[Ethics]] (2), [[Search]] (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
@@ -812,15 +812,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), data (3), [[Algorithms]] (1), [[Interviewing]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 
 
 ### 3. Responsibility, Transparency, and Safety
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What responsibility means in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-responsibility-means-in-ai?u=76281980)
@@ -887,6 +887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Microsoft]] (1), [[Google]] (1), data (1), power (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** for example (2)
 
@@ -981,6 +982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (10), [[Microsoft Word|Word]] (5), ai (3), express (1), [[Privacy]] (1)
 > **Definitions:** refers to (3), in other words (1), is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1060,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), from, (1), case, (1)
+> **Frameworks & Libraries:** ai (17), data (3), [[Deep Learning]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), picture (1), such as (1)
 > **Definitions:** means that (1)
@@ -1150,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), this, (2), this. (1)
+> **Frameworks & Libraries:** ai (15), [[Generative AI]] (3), prompt (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
 > **Env Vars:** pdf (1)
@@ -1219,16 +1221,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Security]] (6), [[Generative AI]] (2), [[Ethics]] (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)
-> **Code Keywords:** for. (1), continue (1)
 > **Definitions:** is called (1), refers to (1)
 > **Prerequisites:** install (2)
 
 
 ### 4. Information Integrity, Privacy, and Profiling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How misinformation and disinformation spread in the AI era
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-misinformation-and-disinformation-spread-in-the-ai-era?u=76281980)
@@ -1301,9 +1303,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2)
 > **Analogies:** for example (4), such as (1)
 > **Definitions:** refers to (2), in other words (1), is an  (1)
-> **Code Keywords:** continue (1), this. (1), pass (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** find (1)
 
@@ -1360,7 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), public (1), this, (1)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Generative AI]] (3), ai (2), data (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 
@@ -1449,7 +1451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), case. (1), private (1), delete (1)
+> **Frameworks & Libraries:** data (4), ai (3), next (2), [[Privacy]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
@@ -1539,8 +1541,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (6), [[Privacy]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (1), pass (1), this. (1)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** in other words (1)
@@ -1632,9 +1634,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (25), next (1), game (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Warnings:** be careful (1)
 
 #### Why AI governance is needed
@@ -1728,11 +1730,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Privacy]] (3), [[Security]] (2), [[Agile Development|Agile]] (2), [[Accountability]] (1)
 > **Env Vars:** unesco (1), mic (1), meti (1), mhlw (1), mlit (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (2)
-> **Code Keywords:** let (1)
 
 #### Why dependency on AI is a growing risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-dependency-on-ai-is-a-growing-risk-36231028?u=76281980)
@@ -1813,7 +1815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), raise (1), self (1), this, (1)
+> **Frameworks & Libraries:** ai (19), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 

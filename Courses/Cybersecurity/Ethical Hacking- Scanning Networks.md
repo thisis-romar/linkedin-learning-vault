@@ -31,7 +31,7 @@ tags:
   - skill/network-monitoring-tools
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Scanning%20Networks.md)
@@ -50,55 +50,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Scanning the LAN
-  - Discovering resources
-  - Hacking ethically
-  - Setting up your virtual network
+  - [Scanning the LAN](#scanning-the-lan)
+  - [Discovering resources](#discovering-resources)
+  - [Hacking ethically](#hacking-ethically)
+  - [Setting up your virtual network](#setting-up-your-virtual-network)
 - [**1. Scanning Purpose and Methodology**](#1-scanning-purpose-and-methodology) (6 videos)
-  - Roadmapping a scan
-  - Outlining the TCP flags
-  - Leveraging the TCP three-way handshake
-  - Summarizing scanning tools
-  - Discovering Nmap
-  - Using hping3
+  - [Roadmapping a scan](#roadmapping-a-scan)
+  - [Outlining the TCP flags](#outlining-the-tcp-flags)
+  - [Leveraging the TCP three-way handshake](#leveraging-the-tcp-three-way-handshake)
+  - [Summarizing scanning tools](#summarizing-scanning-tools)
+  - [Discovering Nmap](#discovering-nmap)
+  - [Using hping3](#using-hping3)
 - [**2. Discovering Hosts**](#2-discovering-hosts) (5 videos)
-  - Locating network hosts
-  - Comparing ping scans
-  - Sending SYN and ACK scans
-  - Challenge: Identify a scanning signature
-  - Solution: Identify a scanning signature
+  - [Locating network hosts](#locating-network-hosts)
+  - [Comparing ping scans](#comparing-ping-scans)
+  - [Sending SYN and ACK scans](#sending-syn-and-ack-scans)
+  - [Challenge: Identify a scanning signature](#challenge-identify-a-scanning-signature)
+  - [Solution: Identify a scanning signature](#solution-identify-a-scanning-signature)
 - [**3. Identifying Open Services**](#3-identifying-open-services) (5 videos)
-  - Evaluating port scanning methods
-  - Scanning IPv6 networks
-  - Identifying listening hosts using SCTP
-  - Using SSDP for discovery
-  - Optimizing scans with Nmap Script Engine
+  - [Evaluating port scanning methods](#evaluating-port-scanning-methods)
+  - [Scanning IPv6 networks](#scanning-ipv6-networks)
+  - [Identifying listening hosts using SCTP](#identifying-listening-hosts-using-sctp)
+  - [Using SSDP for discovery](#using-ssdp-for-discovery)
+  - [Optimizing scans with Nmap Script Engine](#optimizing-scans-with-nmap-script-engine)
 - [**4. Determining Operating Systems**](#4-determining-operating-systems) (5 videos)
-  - Fingerprinting the OS
-  - Using Wireshark for OS discovery
-  - Employing IPv6 fingerprinting
-  - Harnessing the TTL value
-  - Mapping the network using Nmap
+  - [Fingerprinting the OS](#fingerprinting-the-os)
+  - [Using Wireshark for OS discovery](#using-wireshark-for-os-discovery)
+  - [Employing IPv6 fingerprinting](#employing-ipv6-fingerprinting)
+  - [Harnessing the TTL value](#harnessing-the-ttl-value)
+  - [Mapping the network using Nmap](#mapping-the-network-using-nmap)
 - [**5. Moving through the Network**](#5-moving-through-the-network) (4 videos)
-  - Generating less noise
-  - Understanding the idle scan
-  - Firewalking the network
-  - Implementing stealth scans
+  - [Generating less noise](#generating-less-noise)
+  - [Understanding the idle scan](#understanding-the-idle-scan)
+  - [Firewalking the network](#firewalking-the-network)
+  - [Implementing stealth scans](#implementing-stealth-scans)
 - [**6. Avoiding Detection**](#6-avoiding-detection) (4 videos)
-  - Manipulating packets
-  - Spoofing and cloaking
-  - Employing proxies
-  - Leveraging anonymizers
+  - [Manipulating packets](#manipulating-packets)
+  - [Spoofing and cloaking](#spoofing-and-cloaking)
+  - [Employing proxies](#employing-proxies)
+  - [Leveraging anonymizers](#leveraging-anonymizers)
 - [**7. Counteracting Scanning**](#7-counteracting-scanning) (5 videos)
-  - Preventing scanning
-  - Detecting spoofing
-  - Challenge: Draw a network diagram
-  - Solution: Draw a network diagram
-  - Next steps
+  - [Preventing scanning](#preventing-scanning)
+  - [Detecting spoofing](#detecting-spoofing)
+  - [Challenge: Draw a network diagram](#challenge-draw-a-network-diagram)
+  - [Solution: Draw a network diagram](#solution-draw-a-network-diagram)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scanning the LAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-the-lan?u=76281980)
@@ -123,8 +123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2), [[Security]] (1)
 > **Env Vars:** tcp (1), syn (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Discovering resources
@@ -150,7 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -174,6 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Setting up your virtual network
@@ -207,7 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), let (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Kali Linux]] (2), [[Windows]] (2), [[Ethical Hacking]] (1), [[Microsoft]] (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **URLs:** [kali.org](https://kali.org) (1)
@@ -218,7 +219,7 @@ created: 2026-04-29
 
 ### 1. Scanning Purpose and Methodology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Roadmapping a scan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980)
@@ -273,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), data (2), [[Intrusion Detection]] (1)
 > **Env Vars:** tcp (2), udp (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -379,9 +380,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Windows]] (2), next (1)
 > **Env Vars:** tcp (11), udp (7), fin (5), syn (4), icmp (3)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (3), function (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -468,8 +469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), [[Wireshark]] (1)
 > **Env Vars:** tcp (7), fin (6), ack (4), syn (3), icmp (1)
-> **Code Keywords:** let (2), case, (2)
 > **UI Navigation:** open the (2), scroll down (1), go to (1)
 > **Versions:** 10.0.0 (1), 178.255.83 (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -554,9 +555,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (3), [[Android]] (3), next (2), [[Kali Linux]] (2), [[Windows]] (2)
 > **Definitions:** is a  (4), is an  (4), known as (1)
 > **Env Vars:** ack (2), syn (2), icmp (1), tcp (1), arp (1)
-> **Code Keywords:** let (4), finally, (1)
 > **Code Identifiers:** ios (2)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** find (1)
@@ -610,8 +611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), dns (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** dns (1), cpu (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Analogies:** for example (2)
@@ -692,8 +693,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (3), feature (1), [[Security]] (1)
 > **Env Vars:** syn (4), tcp (2), icmp (1), udp (1)
-> **Code Keywords:** let (3), throw (2), this, (2)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (3)
 > **Tools:** command line (1), terminal (1)
@@ -704,7 +705,7 @@ created: 2026-04-29
 
 ### 2. Discovering Hosts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Locating network hosts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980)
@@ -781,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), protected (2), case, (1)
+> **Frameworks & Libraries:** [[Search]] (2), [[Security]] (1), [[Databases]] (1), web (1), prompt (1)
 > **Analogies:** for example (3), such as (2)
 > **UI Navigation:** scroll down (2), go to (1), open the (1)
 > **URLs:** [nmap.org](https://nmap.org) (1), [example.com](https://example.com) (1), [nationalguard.com](https://nationalguard.com) (1)
@@ -871,8 +872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), [[Wireshark]] (3), [[Local Area Network (LAN)|Local area network]] (1), [[Windows]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** icmp (9), arp (8), udp (6), dns (5), mac (2)
-> **Code Keywords:** let (4), case, (1), type, (1)
 > **UI Navigation:** scroll down (2), go to (1), select the (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
@@ -945,8 +946,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), next (1)
 > **Env Vars:** syn (14), tcp (13), ack (9), icmp (1)
-> **Code Keywords:** let (4)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -997,7 +998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2)
 > **UI Navigation:** open the (1), right-click (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1093,8 +1094,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Scripting]] (2), [[Intrusion Detection]] (1), traffic (1)
 > **Env Vars:** tcp (4), syn (3), arp (2), ack (1), icmp (1)
-> **Code Keywords:** case, (2), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1103,7 +1104,7 @@ created: 2026-04-29
 
 ### 3. Identifying Open Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating port scanning methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980)
@@ -1172,10 +1173,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), dns (2), [[Statistics]] (1), data (1), application (1)
 > **Env Vars:** udp (5), tcp (4), syn (3), dns (2), http (1)
 > **Analogies:** such as (4), for example (2)
 > **Ports:** port 53 (1), port 80 (1), port 88 (1), port 3389 (1), port 1001 (1)
-> **Code Keywords:** let (3), private (1)
 > **URLs:** [nmap.org](https://nmap.org) (1)
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
@@ -1252,8 +1253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), traffic (1), lan (1)
 > **Env Vars:** slaac (5), mac (3), nic (3), fffe (2), lan (1)
-> **Code Keywords:** let (4), continue (1), case, (1), this, (1), interface (1)
 > **Versions:** 18.4 (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -1334,8 +1335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Wireshark]] (2), next (1), [[Statistics]] (1)
 > **Env Vars:** sctp (12), init (12), cookie (8), echo (8), ack (4)
-> **Code Keywords:** let (4)
 > **Prerequisites:** setup (3)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -1411,8 +1412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Wireshark]] (2), [[Statistics]] (1)
 > **Env Vars:** ssdp (11), search (2), udp (2), upnp (1), notify (1)
-> **Code Keywords:** let (2), this. (2), self (1), export, (1)
 > **UI Navigation:** go to (3), right-click (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1)
@@ -1503,7 +1504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while. (1)
+> **Frameworks & Libraries:** [[Scripting]] (3), power (2), [[Ethical Hacking]] (1), [[Windows]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), find (1)
@@ -1515,7 +1516,7 @@ created: 2026-04-29
 
 ### 4. Determining Operating Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fingerprinting the OS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980)
@@ -1568,7 +1569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), yield (1), type, (1)
+> **Frameworks & Libraries:** traffic (2), [[Security]] (1), [[Cybersecurity]] (1)
 > **URLs:** [nmap.org](https://nmap.org) (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ftp (1)
@@ -1646,8 +1647,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (4), traffic (3), [[Windows]] (2), lan (1), [[Microsoft]] (1)
 > **Env Vars:** http (5), lan (1), recording (1), tcp (1)
-> **Code Keywords:** let (2), this, (2), type, (1)
 > **CLI Commands:** find (2), nginx (1), apache (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -1744,7 +1745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2)
+> **Frameworks & Libraries:** [[Wireshark]] (5), node (2), [[Routing]] (2), next (1), data (1)
 > **Env Vars:** icmp (3), abcd (1)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **CLI Commands:** node (2), find (1)
@@ -1820,8 +1821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Linux]] (1), [[Windows]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** tcp (1), rfc (1)
 > **Versions:** version 4 (1), version 6 (1)
@@ -1920,8 +1921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Search]] (1), product (1)
 > **Env Vars:** tcp (3), syn (3), nic (3), icmp (1), echo (1)
-> **Code Keywords:** let (5), interface (1)
 > **Definitions:** is a  (4), means that (1), is an  (1)
 > **URLs:** [nmap.org](https://nmap.org) (3), [example.com](https://example.com) (1)
 > **Analogies:** for example (2), such as (1)
@@ -1932,7 +1933,7 @@ created: 2026-04-29
 
 ### 5. Moving through the Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating less noise
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980)
@@ -1993,7 +1994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (1)
+> **Frameworks & Libraries:** traffic (4), [[Intrusion Detection]] (4), [[Security]] (3), application (1), [[Ethical Hacking]] (1)
 > **Env Vars:** tcp (1), fin (1), null (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2067,8 +2068,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** syn (5), ack (4), tcp (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -2127,7 +2128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), let (2), pass (1)
+> **Frameworks & Libraries:** traffic (3), [[Linux]] (2), [[Security]] (1), [[Windows]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [kali.org](https://kali.org) (1)
 > **Env Vars:** icmp (1)
@@ -2200,15 +2201,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Intrusion Detection]] (1)
 > **Env Vars:** tcp (11), fin (7), null (3), nmap (2), icmp (2)
-> **Code Keywords:** let (2), case, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Avoiding Detection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manipulating packets
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980)
@@ -2301,8 +2302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Wireshark]] (1), [[Statistics]] (1), data (1)
 > **Env Vars:** icmp (5), tcp (2), udp (1), arp (1)
-> **Code Keywords:** let (5), finally, (2), case, (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (3), for example (1)
 > **UI Navigation:** go to (1)
@@ -2377,8 +2378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), [[Search]] (2), [[Google]] (2), [[Local Area Network (LAN)|Local area network]] (1), data (1)
 > **Env Vars:** mac (14)
-> **Code Keywords:** let (5), interface (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2423,9 +2424,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), [[Kali Linux]] (1)
 > **Analogies:** for example (2), such as (2)
 > **Prerequisites:** you'll need (1), install (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** socks5 (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2476,7 +2477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1)
+> **Frameworks & Libraries:** [[Routing]] (3), traffic (2), web (2), [[Ethical Hacking]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** node (1)
 > **Env Vars:** usb (1)
@@ -2487,7 +2488,7 @@ created: 2026-04-29
 
 ### 7. Counteracting Scanning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preventing scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/preventing-scanning?u=76281980)
@@ -2564,7 +2565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), include, (1), let (1)
+> **Frameworks & Libraries:** next (2), [[Security]] (2), business (1), traffic (1), [[Intrusion Detection]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** go to (1)
@@ -2665,8 +2666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), data (3), [[Wireshark]] (1), [[Windows]] (1), [[Security]] (1)
 > **Env Vars:** mac (3), tcp (3), arp (2)
-> **Code Keywords:** let (4), switch (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** best practice (2)
@@ -2702,7 +2703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2776,7 +2777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), switch (1), for. (1)
+> **Frameworks & Libraries:** data (2), [[Search]] (1), [[Troubleshooting]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** scroll down (1)
@@ -2812,8 +2813,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Wireshark]] (1)
 > **Env Vars:** tcp (1), udp (1)
-> **Code Keywords:** continue (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 

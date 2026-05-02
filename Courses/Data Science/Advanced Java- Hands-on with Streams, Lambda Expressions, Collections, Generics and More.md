@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Java-%20Hands-on%20with%20Streams%2C%20Lambda%20Expressions%2C%20Collections%2C%20Generics%20and%20More.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Advance your Java Skills
-  - CoderPad challenge environment
+  - [Advance your Java Skills](#advance-your-java-skills)
+  - [CoderPad challenge environment](#coderpad-challenge-environment)
 - [**1. Streams and Lambda Expressions**](#1-streams-and-lambda-expressions) (4 videos)
-  - Functional programming
-  - Lambda expressions
-  - Streams API and handling data sets
-  - Solution: Java streams and lambda expressions
+  - [Functional programming](#functional-programming)
+  - [Lambda expressions](#lambda-expressions)
+  - [Streams API and handling data sets](#streams-api-and-handling-data-sets)
+  - [Solution: Java streams and lambda expressions](#solution-java-streams-and-lambda-expressions)
 - [**2. Collections and Generics**](#2-collections-and-generics) (4 videos)
-  - Java collection framework
-  - Role of generics
-  - Creating and using classes with parameterized types
-  - Solution: Refactor to parameterized type
+  - [Java collection framework](#java-collection-framework)
+  - [Role of generics](#role-of-generics)
+  - [Creating and using classes with parameterized types](#creating-and-using-classes-with-parameterized-types)
+  - [Solution: Refactor to parameterized type](#solution-refactor-to-parameterized-type)
 - [**3. Annotations and Reflection**](#3-annotations-and-reflection) (4 videos)
-  - Understanding annotations
-  - Creating custom annotations
-  - Reflection API for dynamic code manipulation
-  - Solution: Custom annotation
+  - [Understanding annotations](#understanding-annotations)
+  - [Creating custom annotations](#creating-custom-annotations)
+  - [Reflection API for dynamic code manipulation](#reflection-api-for-dynamic-code-manipulation)
+  - [Solution: Custom annotation](#solution-custom-annotation)
 - [**4. Concurrency and Multithreading**](#4-concurrency-and-multithreading) (3 videos)
-  - Concurrency and multithreading explained
-  - Java concepts for concurrency
-  - Solution: Implement a concurrent algorithm
+  - [Concurrency and multithreading explained](#concurrency-and-multithreading-explained)
+  - [Java concepts for concurrency](#java-concepts-for-concurrency)
+  - [Solution: Implement a concurrent algorithm](#solution-implement-a-concurrent-algorithm)
 - [**5. Working with the Singleton Design Pattern**](#5-working-with-the-singleton-design-pattern) (3 videos)
-  - Singleton design pattern and its use cases
-  - Implementing the Singleton pattern
-  - Solution: Create a singleton
+  - [Singleton design pattern and its use cases](#singleton-design-pattern-and-its-use-cases)
+  - [Implementing the Singleton pattern](#implementing-the-singleton-pattern)
+  - [Solution: Create a singleton](#solution-create-a-singleton)
 - [**6. Conclusion**](#6-conclusion) (1 videos)
-  - Keep going with Java
+  - [Keep going with Java](#keep-going-with-java)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advance your Java Skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/advance-your-java-skills?u=76281980)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Programming]] (1), api (1), next (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [maaike] (1)
@@ -162,7 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), type, (1), require (1)
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **Code Identifiers:** showexpectedresult (1), showhint (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -171,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Streams and Lambda Expressions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980)
@@ -220,7 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), lambda (2)
+> **Frameworks & Libraries:** [[Functional Programming]] (9), [[Programming]] (4), [[Java]] (3), data (3), next (3)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -363,7 +363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (16), let (5), abstract (5), interface (4), function (3)
+> **Frameworks & Libraries:** functional (5), [[Functional Programming]] (3), api (2), next (1), data (1)
 > **Code Identifiers:** dosomething (4), largerthan5 (1), printuppercase (1), touppercase (1)
 > **Definitions:** is a  (2), is an  (2), is called (1)
 > **Env Vars:** api (2)
@@ -467,7 +467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), interface (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (3), api (2), parallel (1), functional (1)
 > **Tools:** terminal (5), intellij (1)
 > **Definitions:** is a  (3), is called (1)
 > **Code Identifiers:** flatmap (1), foreach (1), filterdnames (1)
@@ -515,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -523,7 +523,7 @@ created: 2026-04-29
 
 ### 2. Collections and Generics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Java collection framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980)
@@ -604,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (10), let (1), case. (1)
+> **Frameworks & Libraries:** [[Java]] (2), data (2), next (1)
 > **Definitions:** is a  (8), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -674,7 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** [[Java]] (2), generic (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -744,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (2), type. (2), class, (1)
+> **Frameworks & Libraries:** generic (3), [[Java]] (1)
 > **Code Identifiers:** getfirst (2), namepair (1), agepair (1)
 > **Tools:** intellij (2)
 > **CLI Commands:** make (1)
@@ -781,13 +781,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (2), type, (1), type. (1)
+> **Frameworks & Libraries:** data (5), generic (2), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Annotations and Reflection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding annotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980)
@@ -842,7 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (3), let (1), class, (1), class. (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Java]] (2), [[Spring Boot]] (1)
 > **Code Identifiers:** tostring (2), useuncheckedtype (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** configure (1)
@@ -899,7 +899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1), abstract (1), class, (1)
+> **Frameworks & Libraries:** [[Java]] (3), api (2), data (1), next (1)
 > **Env Vars:** api (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (1), such as (1)
@@ -989,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (4), class, (3)
+> **Frameworks & Libraries:** api (10), [[Java]] (5), feature (2), [[Metadata]] (1), data (1)
 > **Env Vars:** api (10)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** getmethod (1)
@@ -1030,7 +1030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), this. (1)
+> **Frameworks & Libraries:** api (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
@@ -1039,7 +1039,7 @@ created: 2026-04-29
 
 ### 4. Concurrency and Multithreading
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Concurrency and multithreading explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/concurrency-and-multithreading-explained?u=76281980)
@@ -1140,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), implements (1), class, (1), pass (1), this, (1)
+> **Frameworks & Libraries:** [[Java]] (7), next (2), [[Programming]] (1), application (1), concurrent (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Code Identifiers:** currentthread (1), getid (1)
 > **Analogies:** for example (1)
@@ -1285,7 +1285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), interface (2), extends (2), this, (2)
+> **Frameworks & Libraries:** [[Java]] (8), concurrent (4), next (2), management (1), generic (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
 > **Tools:** intellij (1)
@@ -1346,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (1), private (1), abstract (1)
+> **Frameworks & Libraries:** concurrent (1)
 > **Env Vars:** cole (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll up (1)
@@ -1355,7 +1355,7 @@ created: 2026-04-29
 
 ### 5. Working with the Singleton Design Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Singleton design pattern and its use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/singleton-design-pattern-and-its-use-cases?u=76281980)
@@ -1406,8 +1406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), database (2), [[Spring Boot]] (1), management (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** class, (1), let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1496,7 +1496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), class. (3), this. (2), let (1), static (1)
+> **Frameworks & Libraries:** application (2)
 > **Code Identifiers:** getinstance (4)
 > **Prerequisites:** initialization (4)
 > **CLI Commands:** make (3)
@@ -1547,7 +1547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (1), require (1), class. (1)
+> **Frameworks & Libraries:** database (3)
 > **Env Vars:** url (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -1555,7 +1555,7 @@ created: 2026-04-29
 
 ### 6. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep going with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980)
@@ -1596,6 +1596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), next (1), [[Java Frameworks]] (1), [[Spring Boot]] (1), [[JUnit]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is an  (1)

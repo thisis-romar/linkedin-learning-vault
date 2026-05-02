@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/continuous-monitoring
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Algorithmic%20Auditing%20and%20Continuous%20Monitoring.md)
@@ -47,31 +47,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Algorithmic auditing and continuous monitoring uses
-  - Responsible AI principles and practices
+  - [Algorithmic auditing and continuous monitoring uses](#algorithmic-auditing-and-continuous-monitoring-uses)
+  - [Responsible AI principles and practices](#responsible-ai-principles-and-practices)
 - [**1. Algorithmic Auditing and Continuous Monitoring**](#1-algorithmic-auditing-and-continuous-monitoring) (4 videos)
-  - What is algorithmic auditing?
-  - What is continuous monitoring?
-  - Voluntary and required algorithmic auditing
-  - Algorithmic auditing and the job market
+  - [What is algorithmic auditing?](#what-is-algorithmic-auditing)
+  - [What is continuous monitoring?](#what-is-continuous-monitoring)
+  - [Voluntary and required algorithmic auditing](#voluntary-and-required-algorithmic-auditing)
+  - [Algorithmic auditing and the job market](#algorithmic-auditing-and-the-job-market)
 - [**2. Skills for Algorithmic Auditors and Continuous Monitoring Teams**](#2-skills-for-algorithmic-auditors-and-continuous-monitoring-teams) (4 videos)
-  - Establishing an effective governance structure
-  - Data collection and analysis
-  - Identifying and managing bias
-  - Setting up a continuous monitoring process
+  - [Establishing an effective governance structure](#establishing-an-effective-governance-structure)
+  - [Data collection and analysis](#data-collection-and-analysis)
+  - [Identifying and managing bias](#identifying-and-managing-bias)
+  - [Setting up a continuous monitoring process](#setting-up-a-continuous-monitoring-process)
 - [**3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice**](#3-case-study-auditing-and-continuous-monitoring-tools-and-techniques-in-practice) (6 videos)
-  - Case study: RedTech 30
-  - RedTech 30: Governance structure
-  - RedTech 30: Data sampling
-  - RedTech 30: Data and code review
-  - RedTech 30: Testing and debugging
-  - RedTech 30: Continuous monitoring
+  - [Case study: RedTech 30](#case-study-redtech-30)
+  - [RedTech 30: Governance structure](#redtech-30-governance-structure)
+  - [RedTech 30: Data sampling](#redtech-30-data-sampling)
+  - [RedTech 30: Data and code review](#redtech-30-data-and-code-review)
+  - [RedTech 30: Testing and debugging](#redtech-30-testing-and-debugging)
+  - [RedTech 30: Continuous monitoring](#redtech-30-continuous-monitoring)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Responsible AI resources
+  - [Responsible AI resources](#responsible-ai-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Algorithmic auditing and continuous monitoring uses
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-continuous-monitoring-uses?u=76281980)
@@ -92,6 +92,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), ai (2), teams (1), [[Code Review]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - algorithmic (1)
 
@@ -160,17 +161,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (6), [[Responsible AI]] (5), [[Continuous Monitoring]] (4), [[Privacy]] (3)
 > **Analogies:** for example (3), such as (1)
 > **Cross-References:** in the next (1), next video (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Algorithmic Auditing and Continuous Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is algorithmic auditing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980)
@@ -261,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3), let (1), for. (1)
+> **Frameworks & Libraries:** data (9), ai (5), [[Continuous Monitoring]] (2), [[Statistics]] (2), next (2)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** configure (1)
@@ -338,9 +339,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (13), data (12), ai (11), teams (3), next (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
@@ -411,8 +412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (25), [[NIST]] (9), [[Continuous Monitoring]] (6), rmf (6), application (2)
 > **Env Vars:** nist (9), rmf (6)
-> **Code Keywords:** function (10), let (1)
 > **Analogies:** for example (4), such as (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -445,8 +446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Continuous Monitoring]] (2), teams (2), data (2), management (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** required to (1)
@@ -455,7 +456,7 @@ created: 2026-04-29
 
 ### 2. Skills for Algorithmic Auditors and Continuous Monitoring Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing an effective governance structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980)
@@ -576,9 +577,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (3), [[Continuous Monitoring]] (2), cloud (1), [[Software Development]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), static (1)
 > **Prerequisites:** set up (1), required to (1)
 > **Env Vars:** ceo (1)
 > **Best Practices:** recommended (1)
@@ -723,8 +724,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (52), [[Privacy]] (4), [[Algorithms]] (1), next (1)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** let (1), type. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -807,8 +808,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Continuous Monitoring]] (3), management (3), ai (2), application (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** nist (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -893,15 +894,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (7), data (5), ai (2), management (1), next (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
 
 ### 3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Case study: RedTech 30
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980)
@@ -954,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (1)
+> **Frameworks & Libraries:** data (12), ai (3), [[Privacy]] (2), teams (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - we (1)
 
@@ -1089,6 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), ai (10), [[Continuous Monitoring]] (5), next (3), prompt (1)
 > **Cross-References:** in the next (2), next video (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - in (1)
@@ -1126,8 +1128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), ai (2), next (1), [[Code Review]] (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1), protected (1)
 > **Speakers:** - development (1)
 
 #### RedTech 30: Data and code review
@@ -1243,8 +1245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (45), ai (10), [[Code Review]] (4), application (2), [[Security]] (2)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** case. (1), this, (1)
 > **Cross-References:** in the last (1), next video (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** before we start (1)
@@ -1303,7 +1305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), data (3), [[Debugging]] (3), [[Code Review]] (1), feature (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
@@ -1351,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (10), [[Continuous Monitoring]] (3), ai (3)
 > **Cross-References:** earlier in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - earlier (1)
@@ -1359,7 +1361,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980)
@@ -1386,6 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (4), ai (4), [[NIST]] (3), [[LinkedIn]] (2), [[Responsible AI]] (1)
 > **Env Vars:** nist (3)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)

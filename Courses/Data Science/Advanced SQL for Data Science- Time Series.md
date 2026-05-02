@@ -32,7 +32,7 @@ tags:
   - skill/sql
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20for%20Data%20Science-%20Time%20Series.md)
@@ -51,51 +51,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn time series data analysis with SQL
-  - What you should know
+  - [Learn time series data analysis with SQL](#learn-time-series-data-analysis-with-sql)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Time Series Data**](#1-introduction-to-time-series-data) (4 videos)
-  - Characteristics of time series data
-  - Examples of time series data
-  - Writing time series data
-  - Querying time series data
+  - [Characteristics of time series data](#characteristics-of-time-series-data)
+  - [Examples of time series data](#examples-of-time-series-data)
+  - [Writing time series data](#writing-time-series-data)
+  - [Querying time series data](#querying-time-series-data)
 - [**2. Installing Database and Tools**](#2-installing-database-and-tools) (4 videos)
-  - Installing PostgreSQL
-  - Creating schema and tables
-  - Timing a query
-  - Evaluating query performance with EXPLAIN
+  - [Installing PostgreSQL](#installing-postgresql)
+  - [Creating schema and tables](#creating-schema-and-tables)
+  - [Timing a query](#timing-a-query)
+  - [Evaluating query performance with EXPLAIN](#evaluating-query-performance-with-explain)
 - [**3. Querying Time Series Data**](#3-querying-time-series-data) (5 videos)
-  - Time window queries and aggregates
-  - Sliding windows
-  - Tumbling windows
-  - Joining two time series
-  - Denormalizing time series data
+  - [Time window queries and aggregates](#time-window-queries-and-aggregates)
+  - [Sliding windows](#sliding-windows)
+  - [Tumbling windows](#tumbling-windows)
+  - [Joining two time series](#joining-two-time-series)
+  - [Denormalizing time series data](#denormalizing-time-series-data)
 - [**4. Modeling Time Series Data**](#4-modeling-time-series-data) (7 videos)
-  - Example data set 1: Temperature by time and location
-  - Indexing data set 1: Time index only
-  - Indexing data set 1: Time and location index
-  - Creating a partitioned table
-  - Querying a partitioned table
-  - Example data set 2: CPU utilization and application type
-  - Indexing data set 2: Time and type Indexing
+  - [Example data set 1: Temperature by time and location](#example-data-set-1-temperature-by-time-and-location)
+  - [Indexing data set 1: Time index only](#indexing-data-set-1-time-index-only)
+  - [Indexing data set 1: Time and location index](#indexing-data-set-1-time-and-location-index)
+  - [Creating a partitioned table](#creating-a-partitioned-table)
+  - [Querying a partitioned table](#querying-a-partitioned-table)
+  - [Example data set 2: CPU utilization and application type](#example-data-set-2-cpu-utilization-and-application-type)
+  - [Indexing data set 2: Time and type Indexing](#indexing-data-set-2-time-and-type-indexing)
 - [**5. Commonly Used Functions for Time Series**](#5-commonly-used-functions-for-time-series) (4 videos)
-  - Lead
-  - Lag
-  - Rank
-  - Percent rank
+  - [Lead](#lead)
+  - [Lag](#lag)
+  - [Rank](#rank)
+  - [Percent rank](#percent-rank)
 - [**6. Time Series Analysis**](#6-time-series-analysis) (7 videos)
-  - Common Table Expressions and recursion
-  - Calculating aggregates over windows
-  - Previous day comparison
-  - Moving averages
-  - Weighted moving averages
-  - Forecasting with linear regression
-  - Exponential moving average
+  - [Common Table Expressions and recursion](#common-table-expressions-and-recursion)
+  - [Calculating aggregates over windows](#calculating-aggregates-over-windows)
+  - [Previous day comparison](#previous-day-comparison)
+  - [Moving averages](#moving-averages)
+  - [Weighted moving averages](#weighted-moving-averages)
+  - [Forecasting with linear regression](#forecasting-with-linear-regression)
+  - [Exponential moving average](#exponential-moving-average)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn time series data analysis with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (2), web (1), [[Security]] (1), [[Forecasting]] (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 
@@ -136,6 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), data (1)
 > **Env Vars:** sql (2), select (1)
 > **SQL:** select (1)
 > **Speakers:** - [narrator] (1)
@@ -143,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Time Series Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of time series data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980)
@@ -232,10 +234,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), application (3), [[Financial Data]] (2), [[Relational Databases]] (2), [[SQL]] (2)
 > **Definitions:** is a  (7), is called (1), refers to (1)
 > **Env Vars:** cpu (2), sql (2)
 > **Analogies:** for example (4)
-> **Code Keywords:** let (1), pass (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -274,9 +276,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), business (2), power (1), [[Statistics]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** eeg (1)
 > **Speakers:** - [instructor] (1)
 
@@ -321,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), delete (1)
+> **Frameworks & Libraries:** data (19), database (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -371,15 +373,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12)
 > **Analogies:** for example (4)
 > **Env Vars:** cpu (3)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Installing Database and Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing PostgreSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980)
@@ -448,8 +450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (11), [[Windows]] (5), next (4), data (3), [[PostgreSQL]] (2)
 > **Prerequisites:** install (5), setup (1)
-> **Code Keywords:** let (1), continue (1), this. (1)
 > **UI Navigation:** click on (2), select the (1)
 > **URLs:** [https://www.postgresql.org/download](https://www.postgresql.org/download) (1)
 > **Versions:** 11.1 (1)
@@ -512,9 +514,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL]] (6), data (3), [[SQL]] (3), [[Databases]] (2), database (2)
 > **Code Identifiers:** pgadmin (5), time_series (3), location_temp (2), create_time_series (1)
 > **Env Vars:** sql (2), cmd (1), alter (1), cpu (1), ctrl (1)
-> **Code Keywords:** let (2), case, (1), public (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** open the (1), click on (1)
@@ -554,9 +556,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[SQL]] (1)
 > **Code Identifiers:** pgadmin (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
@@ -599,16 +601,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** pgadmin (1), time_series (1)
 > **UI Navigation:** open the (1), click on (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Querying Time Series Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time window queries and aggregates
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/time-window-queries-and-aggregates?u=76281980)
@@ -655,8 +657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **Definitions:** is a  (2), is called (2)
-> **Code Keywords:** function (2), case, (1)
 > **Env Vars:** cpu (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -693,6 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), data (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -730,9 +733,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Windows]] (3), data (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Joining two time series
@@ -796,9 +799,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Windows]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -847,7 +850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (20), [[Databases]] (1), [[PostgreSQL|Postgres]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - [instructor] (1)
@@ -855,7 +858,7 @@ created: 2026-04-29
 
 ### 4. Modeling Time Series Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Example data set 1: Temperature by time and location
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-1-temperature-by-time-and-location?u=76281980)
@@ -922,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), from, (1)
+> **Frameworks & Libraries:** data (9), [[Windows]] (1), [[Linux]] (1)
 > **Exercise Files:** exercise files (2), exercise file (2)
 > **UI Navigation:** click on (1), select the (1), open the (1)
 > **Definitions:** is a  (3)
@@ -1012,8 +1015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL]] (2), data (1), parallel (1)
 > **Code Identifiers:** location_temp (4), location_id (3), temp_celcius (2), time_series (2), idx_loc_temp_location (2)
-> **Code Keywords:** let (10), function (1), this, (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -1113,7 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[PostgreSQL|Postgres]] (1), parallel (1), data (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1), idx (1)
 > **UI Navigation:** go to (1)
@@ -1219,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), implements (1)
+> **Frameworks & Libraries:** data (4), next (2), [[SQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **UI Navigation:** scroll down (2), open the (1)
 > **Exercise Files:** exercise files (2), exercise file (1)
 > **Definitions:** is called (2), is an  (1)
@@ -1285,8 +1288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[SQL]] (1), parallel (1)
 > **Env Vars:** explain (3), where (3), plan (2), plans (1)
-> **Code Keywords:** let (4), from. (1)
 > **SQL:** where (3)
 > **UI Navigation:** open the (1), scroll down (1)
 > **File Paths:** table.sql (1)
@@ -1335,7 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2)
+> **Frameworks & Libraries:** data (7), application (1), [[SQL]] (1)
 > **File Paths:** load_utilization_data.sql (1), utilization.txt (1)
 > **Env Vars:** cpu (2)
 > **UI Navigation:** navigate to (2)
@@ -1417,8 +1420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** event_time (5), time_series (3), server_id (3), idx_util_time_serv (1), idx_util_serv_time (1)
-> **Code Keywords:** let (9), case, (1), delete (1), this. (1)
 > **Env Vars:** select (2), where (2), explain (2), cpu (1), between (1)
 > **SQL:** select (2), where (2), group by (1), index (1)
 > **UI Navigation:** select the (1)
@@ -1427,7 +1430,7 @@ created: 2026-04-29
 
 ### 5. Commonly Used Functions for Time Series
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lead?u=76281980)
@@ -1465,7 +1468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this. (2)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Analogies:** for example (2), it's like (1), similar to (1)
 > **Env Vars:** cpu (2), sql (1)
 > **Definitions:** is called (1), refers to (1)
@@ -1505,7 +1508,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2)
 > **Env Vars:** cpu (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1528,14 +1530,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), this, (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Time Series Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common Table Expressions and recursion
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980)
@@ -1622,7 +1623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3)
+> **Frameworks & Libraries:** data (2), [[SQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [lecturer] (1)
@@ -1652,8 +1653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** cpu (5)
-> **Code Keywords:** let (4)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1724,7 +1725,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1), pass (1)
 > **Code Identifiers:** time_series (2), location_temp (1), event_time (1)
 > **Versions:** 28.06529 (2)
 > **UI Navigation:** select the (2)
@@ -1767,8 +1767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Windows]] (1)
 > **Env Vars:** cpu (5)
-> **Code Keywords:** let (3), function (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
@@ -1893,7 +1893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** event_date (3), daily_avg_temp (2), date_trunc (1)
 > **SQL:** select (2), where (1)
 > **Env Vars:** select (2), where (1)
@@ -1973,7 +1973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2)
+> **Frameworks & Libraries:** data (2), [[Linear Regression]] (2), [[PostgreSQL]] (1)
 > **Env Vars:** cpu (8)
 > **CLI Commands:** make (1)
 > **Versions:** 0.67 (1)
@@ -2015,7 +2015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (3), case, (1), function (1)
+> **Frameworks & Libraries:** data (1), [[Statistical Analysis]] (1)
 > **Definitions:** is called (2), is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** recommended (2)
@@ -2025,7 +2025,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980)
@@ -2044,6 +2044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (3), [[Statistics]] (2), open-source (1), [[Time Series Analysis]] (1)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)

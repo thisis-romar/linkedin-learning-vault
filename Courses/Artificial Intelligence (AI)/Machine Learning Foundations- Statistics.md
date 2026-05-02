@@ -37,7 +37,7 @@ tags:
   - skill/statistical-analysis
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20Foundations-%20Statistics.md)
@@ -56,49 +56,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Foundations of statistics for machine learning
-  - What you should know
+  - [Foundations of statistics for machine learning](#foundations-of-statistics-for-machine-learning)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Statistics**](#1-introduction-to-statistics) (3 videos)
-  - Defining statistics
-  - Applications of statistics in ML
-  - Types of data
+  - [Defining statistics](#defining-statistics)
+  - [Applications of statistics in ML](#applications-of-statistics-in-ml)
+  - [Types of data](#types-of-data)
 - [**2. The Summary Statistics**](#2-the-summary-statistics) (8 videos)
-  - The mean
-  - The median
-  - The mode
-  - The percentile
-  - The percentage change
-  - The range
-  - The variance and the standard deviation
-  - The standard error of the mean vs. the standard deviation
+  - [The mean](#the-mean)
+  - [The median](#the-median)
+  - [The mode](#the-mode)
+  - [The percentile](#the-percentile)
+  - [The percentage change](#the-percentage-change)
+  - [The range](#the-range)
+  - [The variance and the standard deviation](#the-variance-and-the-standard-deviation)
+  - [The standard error of the mean vs. the standard deviation](#the-standard-error-of-the-mean-vs-the-standard-deviation)
 - [**3. From Quantiles to Correlation**](#3-from-quantiles-to-correlation) (6 videos)
-  - The quantiles and box plots
-  - Missing data
-  - The correlation
-  - The covariance
-  - The correlation coefficient
-  - The correlation vs. causation
+  - [The quantiles and box plots](#the-quantiles-and-box-plots)
+  - [Missing data](#missing-data)
+  - [The correlation](#the-correlation)
+  - [The covariance](#the-covariance)
+  - [The correlation coefficient](#the-correlation-coefficient)
+  - [The correlation vs. causation](#the-correlation-vs-causation)
 - [**4. Random Variables and Probability Distribution**](#4-random-variables-and-probability-distribution) (5 videos)
-  - Introduction to probability distribution
-  - The uniform distribution
-  - The normal distribution
-  - The Bernoulli distribution
-  - The Multinoulli distribution
+  - [Introduction to probability distribution](#introduction-to-probability-distribution)
+  - [The uniform distribution](#the-uniform-distribution)
+  - [The normal distribution](#the-normal-distribution)
+  - [The Bernoulli distribution](#the-bernoulli-distribution)
+  - [The Multinoulli distribution](#the-multinoulli-distribution)
 - [**5. Sampling and Replacement**](#5-sampling-and-replacement) (3 videos)
-  - Selection with replacement
-  - Selection without replacement
-  - Bootstrapping
+  - [Selection with replacement](#selection-with-replacement)
+  - [Selection without replacement](#selection-without-replacement)
+  - [Bootstrapping](#bootstrapping)
 - [**6. Linear Regression**](#6-linear-regression) (4 videos)
-  - Independent and dependent variables
-  - Linear regression for continuous values
-  - Fitting a line
-  - Linear least squares
+  - [Independent and dependent variables](#independent-and-dependent-variables)
+  - [Linear regression for continuous values](#linear-regression-for-continuous-values)
+  - [Fitting a line](#fitting-a-line)
+  - [Linear least squares](#linear-least-squares)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundations of statistics for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980)
@@ -119,6 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), data (2), ai (1), [[Microsoft Excel|Excel]] (1), next (1)
 > **Analogies:** imagine (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - imagine (1)
@@ -150,16 +151,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Probability]] (3), [[Calculus]] (1), [[Programming]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Tools:** jupyter (4), anaconda (1)
-> **Code Keywords:** let (1)
 > **Versions:** python 3 (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Statistics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980)
@@ -204,6 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (13), data (11), [[Probability]] (2), [[Software Development]] (2)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [presenter] (1)
@@ -255,8 +257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Statistics]] (6), feature (1)
 > **Analogies:** for example (3), such as (2), similar to (1)
-> **Code Keywords:** case, (2), let (1), finally, (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - i (1)
 
@@ -323,17 +325,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), [[Microsoft Word|Word]] (1), [[Statistics]] (1)
 > **Analogies:** for example (5), just like (1)
 > **Env Vars:** rgb (1), lcd (1), oled (1), amoled (1)
 > **Definitions:** known as (1), means that (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** type. (1)
 > **Speakers:** - i (1)
 
 
 ### 2. The Summary Statistics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The mean
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980)
@@ -402,7 +404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), raise (1), case, (1), continue (1)
+> **Frameworks & Libraries:** data (4), [[Statistics]] (3), [[Search]] (2), [[Deep Learning]] (2), product (1)
 > **Analogies:** imagine (2), for example (1), picture (1)
 > **Env Vars:** ceo (1), mcc (1)
 > **Definitions:** is called (1), is a  (1)
@@ -463,8 +465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), hr (2), [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1), is called (1)
 > **Non-Speech:** (upbeat music) (1), (upbeat music fades) (1)
 > **Env Vars:** ceo (1)
@@ -530,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case, (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Statistics]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -601,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), pass (1)
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** sat (3)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -649,10 +651,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Versions:** 30.77 (1)
 > **Speakers:** - [narrator] (1)
 
@@ -709,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (5), [[Statistics]] (1)
 > **CLI Commands:** find (2)
 > **Ports:** :00 (1)
 > **Analogies:** for example (1)
@@ -796,8 +798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Programming]] (2)
 > **Versions:** 67.9 (2), 215.89 (2), 19.9 (1), 30.1 (1), 396.01 (1)
-> **Code Keywords:** let (5), case, (1), this. (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
@@ -856,7 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** data (4)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **Env Vars:** sem (1)
 > **Definitions:** is called (1)
@@ -865,7 +867,7 @@ created: 2026-04-29
 
 ### 3. From Quantiles to Correlation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The quantiles and box plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-quantiles-and-box-plots?u=76281980)
@@ -928,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (14)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** patch_artist (1)
@@ -1012,8 +1014,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), feature (2), [[Databases]] (2), next (1), [[Algorithms]] (1)
 > **Definitions:** is a  (4), defined as (1)
-> **Code Keywords:** let (2), this, (1)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** ieee (1)
 > **Documentation:** specification (1)
@@ -1068,6 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), hr (1), [[Software Development]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1), means that (1), we call this (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1137,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (2), next (2)
 > **Versions:** 6.5 (1), 259.25 (1), 798.35 (1), 0.5 (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the next (1)
@@ -1189,8 +1192,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), product (1), next (1)
 > **Versions:** 798.35 (1), 15.73 (1), 3.97 (1), 205.91 (1), 0.98 (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1246,9 +1249,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** cat (1)
-> **Code Keywords:** let (1)
 > **Versions:** 0.98 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1256,7 +1259,7 @@ created: 2026-04-29
 
 ### 4. Random Variables and Probability Distribution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to probability distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980)
@@ -1303,8 +1306,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (9), [[Statistics]] (4)
 > **Analogies:** for example (3)
-> **Code Keywords:** function (2)
 > **CLI Commands:** make (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
@@ -1354,6 +1357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (10)
 > **Versions:** 0.167 (1), 0.5 (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** imagine (1)
@@ -1415,7 +1419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** data (5)
 > **Speakers:** - [instructor] (1)
 
 #### The Bernoulli distribution
@@ -1461,6 +1465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (7), [[Statistics]] (2)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [interviewer] (1)
@@ -1496,6 +1501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (4), next (1)
 > **Analogies:** imagine (2), for example (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1503,7 +1509,7 @@ created: 2026-04-29
 
 ### 5. Sampling and Replacement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selection with replacement
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980)
@@ -1550,7 +1556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), continue (1)
+> **Frameworks & Libraries:** data (4), [[Probability]] (3), [[Jetpack Compose|Compose]] (1), next (1), application (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** swr (1)
@@ -1602,8 +1608,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Algorithms]] (1), application (1)
 > **Analogies:** for example (3), imagine (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** swor (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
@@ -1659,7 +1665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 2.7 (2), 3.1 (1)
 > **Analogies:** imagine (1)
@@ -1668,7 +1674,7 @@ created: 2026-04-29
 
 ### 6. Linear Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Independent and dependent variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/independent-and-dependent-variables?u=76281980)
@@ -1709,7 +1715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), continue (1)
+> **Frameworks & Libraries:** feature (2), [[Linear Regression]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1762,10 +1768,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Linear Regression]] (2)
 > **Definitions:** is a  (2), is called (1), defined as (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
-> **Code Keywords:** this. (1), case, (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1812,6 +1818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (4), data (1)
 > **Definitions:** is an  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
@@ -1889,7 +1896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), from. (1), continue (1)
+> **Frameworks & Libraries:** data (2), express (1), next (1)
 > **CLI Commands:** find (3), make (1)
 > **Versions:** 1.89 (2), 0.56 (2)
 > **Definitions:** known as (1)
@@ -1898,7 +1905,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/next-steps?u=76281980)
@@ -1927,8 +1934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 

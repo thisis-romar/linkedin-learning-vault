@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Prompting%20With%20Github%20Copilot.md)
@@ -51,30 +51,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course overview
+  - [Course overview](#course-overview)
 - [**1. Foundations for Advanced Prompting**](#1-foundations-for-advanced-prompting) (4 videos)
-  - From basic to conversational AI
-  - The power of multiturn interactions
-  - Chat inputs
-  - Chat modes
+  - [From basic to conversational AI](#from-basic-to-conversational-ai)
+  - [The power of multiturn interactions](#the-power-of-multiturn-interactions)
+  - [Chat inputs](#chat-inputs)
+  - [Chat modes](#chat-modes)
 - [**2. Mastering Conversational AI**](#2-mastering-conversational-ai) (5 videos)
-  - Crafting multiturn prompts
-  - Iterative refinement techniques
-  - Challenge: Refactor with conversation
-  - Solution: Refactor with conversation
-  - Analyzing your conversational approach
+  - [Crafting multiturn prompts](#crafting-multiturn-prompts)
+  - [Iterative refinement techniques](#iterative-refinement-techniques)
+  - [Challenge: Refactor with conversation](#challenge-refactor-with-conversation)
+  - [Solution: Refactor with conversation](#solution-refactor-with-conversation)
+  - [Analyzing your conversational approach](#analyzing-your-conversational-approach)
 - [**3. Advanced Context Scaffolding**](#3-advanced-context-scaffolding) (5 videos)
-  - Providing context from multiple files
-  - Leveraging open files for accuracy
-  - Challenge: Generate code from API docs
-  - Solution: Generate code from API docs
-  - Working with unknown codebases
+  - [Providing context from multiple files](#providing-context-from-multiple-files)
+  - [Leveraging open files for accuracy](#leveraging-open-files-for-accuracy)
+  - [Challenge: Generate code from API docs](#challenge-generate-code-from-api-docs)
+  - [Solution: Generate code from API docs](#solution-generate-code-from-api-docs)
+  - [Working with unknown codebases](#working-with-unknown-codebases)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/course-introduction-27897018?u=76281980)
@@ -91,14 +91,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (3), ai (1)
 > **Tools:** github (3)
-> **Code Keywords:** for, (1)
 > **Speakers:** - welcome (1)
 
 
 ### 1. Foundations for Advanced Prompting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From basic to conversational AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980)
@@ -193,7 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default. (1), this, (1), this. (1), require (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), prompt (3), api (3), generic (3), ai (2)
 > **Env Vars:** http (4), api (3)
 > **CLI Commands:** python (3)
 > **Tools:** visual studio (2), github (1)
@@ -301,7 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), api (2), [[Python (Programming Language)|Python]] (2), ai (1), prompt (1)
 > **Env Vars:** http (3), api (2)
 > **CLI Commands:** python (2), make (2)
 > **UI Navigation:** click on (1), toggle (1), go to (1)
@@ -431,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (4), function (3), pub (2), this. (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (5), [[Rust (Programming Language)|Rust]] (4), [[Large Language Models (LLM)|Large language models]] (1), ai (1), [[Programming]] (1)
 > **Tools:** github (5), visual studio (2), vs code (1)
 > **Definitions:** is a  (4), is called (2)
 > **Env Vars:** ctrl (1), os10 (1)
@@ -573,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (7), let (3), function (2), default, (1), default. (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[GitHub]] (1), [[Rust (Programming Language)|Rust]] (1), prompt (1)
 > **Tools:** github (3), terminal (1)
 > **Analogies:** for example (1), kind of like (1), it's like (1), imagine (1)
 > **File Paths:** lib.rs (3)
@@ -584,7 +584,7 @@ created: 2026-04-29
 
 ### 2. Mastering Conversational AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Crafting multiturn prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980)
@@ -685,7 +685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (6), let (2), finally, (1), this. (1), for. (1)
+> **Frameworks & Libraries:** [[HTML]] (2), next (2), [[Programming]] (1), [[GitHub Copilot]] (1), hit (1)
 > **CLI Commands:** make (5), cargo (1)
 > **Env Vars:** readme (2), html (2)
 > **Documentation:** the readme (2)
@@ -790,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), this. (2), this, (1), include. (1)
+> **Frameworks & Libraries:** [[HTML]] (3), next (1), feature (1), [[Large Language Models (LLM)|Large language models]] (1), [[GitHub Copilot]] (1)
 > **Env Vars:** html (3)
 > **Documentation:** the documentation (2)
 > **Tools:** github (2)
@@ -938,7 +938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (3), case, (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (3), prompt (3), [[Microsoft Copilot|Copilot]] (2), [[Engineering]] (1), [[Programming]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (3)
@@ -1046,7 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (2), function (2), this, (2), for, (1)
+> **Frameworks & Libraries:** [[Engineering]] (2), [[LinkedIn]] (2), prompt (2), [[GitHub Copilot]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (5), cargo (5), python (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -1142,10 +1142,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (4), prompt (1), [[GitHub]] (1), [[Microsoft Copilot|Copilot]] (1), [[LinkedIn]] (1)
 > **Tools:** github (5)
 > **Definitions:** is a  (3)
 > **CLI Commands:** cargo (2)
-> **Code Keywords:** this. (1), let (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1153,7 +1153,7 @@ created: 2026-04-29
 
 ### 3. Advanced Context Scaffolding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing context from multiple files
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980)
@@ -1246,8 +1246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), open-source (1), [[Microsoft Copilot|Copilot]] (1), api (1)
 > **Env Vars:** lvm (8), bsa (1), src (1), api (1)
-> **Code Keywords:** self (5), case, (1), let (1), this, (1), require (1)
 > **UI Navigation:** go to (3), open the (2)
 > **Definitions:** is a  (3)
 > **Tools:** github (2)
@@ -1342,8 +1342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (1), [[Python (Programming Language)|Python]] (1), api (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (5), python (1), find (1)
-> **Code Keywords:** let (2), case, (2), default, (1), include, (1)
 > **UI Navigation:** click on (3), open the (1), go to (1)
 > **Env Vars:** readme (1), lvm (1), api (1)
 > **File Paths:** prepare.py (1), lvm.py (1)
@@ -1436,8 +1436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), management (2), [[Python (Programming Language)|Python]] (2), prompt (1), [[Search]] (1)
 > **Env Vars:** api (6), lvm (6)
-> **Code Keywords:** let (4), this. (2), if, (1), for, (1), case, (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
 > **File Paths:** lvm.py (1)
@@ -1562,8 +1562,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), [[Rust (Programming Language)|Rust]] (5), [[HTML]] (3), [[Fetch]] (3), next (2)
 > **Env Vars:** api (9), http (4), rfc (4), html (3)
-> **Code Keywords:** case, (6), this. (4), let (3), require (1), static (1)
 > **Documentation:** rfc (4), specification (3), spec (3), the documentation (1)
 > **CLI Commands:** curl (1), make (1)
 > **Versions:** version 1 (2)
@@ -1694,8 +1694,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (3), [[GitHub Copilot]] (2), api (1), generic (1)
 > **CLI Commands:** python (5), find (3), make (1)
-> **Code Keywords:** let (5), case, (4)
 > **Tools:** github (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** api (1)
@@ -1706,7 +1706,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980)
@@ -1729,6 +1729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), ai (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)

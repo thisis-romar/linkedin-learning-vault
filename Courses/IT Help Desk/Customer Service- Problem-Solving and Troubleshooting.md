@@ -38,7 +38,7 @@ tags:
   - skill/problem-solving
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Customer%20Service-%20Problem-Solving%20and%20Troubleshooting.md)
@@ -57,29 +57,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build your customer service skills
-  - Make customer service easy: Standard operating procedures
+  - [Build your customer service skills](#build-your-customer-service-skills)
+  - [Make customer service easy: Standard operating procedures](#make-customer-service-easy-standard-operating-procedures)
 - [**1. Common Sense Customer Service: A Two-Step Approach**](#1-common-sense-customer-service-a-two-step-approach) (3 videos)
-  - Explore a model for common sense customer service
-  - How to respond when the customer is right
-  - What to do (or say) when the customer is wrong
+  - [Explore a model for common sense customer service](#explore-a-model-for-common-sense-customer-service)
+  - [How to respond when the customer is right](#how-to-respond-when-the-customer-is-right)
+  - [What to do (or say) when the customer is wrong](#what-to-do-or-say-when-the-customer-is-wrong)
 - [**2. Critical Customer Service Problem-Solving Skills**](#2-critical-customer-service-problem-solving-skills) (3 videos)
-  - Diagnose a customer's concerns as the first step
-  - Listen and listen carefully
-  - Validate the client's concerns: Three steps for success
+  - [Diagnose a customer's concerns as the first step](#diagnose-a-customers-concerns-as-the-first-step)
+  - [Listen and listen carefully](#listen-and-listen-carefully)
+  - [Validate the client's concerns: Three steps for success](#validate-the-clients-concerns-three-steps-for-success)
 - [**3. Critical Troubleshooting Skills**](#3-critical-troubleshooting-skills) (3 videos)
-  - Calming down angry and upset customers
-  - Give the customer options in unique situations
-  - Communicate bad news with customers
+  - [Calming down angry and upset customers](#calming-down-angry-and-upset-customers)
+  - [Give the customer options in unique situations](#give-the-customer-options-in-unique-situations)
+  - [Communicate bad news with customers](#communicate-bad-news-with-customers)
 - [**4. Customer Service Mindset and Playbook**](#4-customer-service-mindset-and-playbook) (2 videos)
-  - Maintain your mindset during stressful times
-  - Build your own customer service playbook
+  - [Maintain your mindset during stressful times](#maintain-your-mindset-during-stressful-times)
+  - [Build your own customer service playbook](#build-your-own-customer-service-playbook)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Being strong at problem-solving and troubleshooting
+  - [Being strong at problem-solving and troubleshooting](#being-strong-at-problem-solving-and-troubleshooting)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your customer service skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-customer-service-skills?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Troubleshooting]] (1)
 > **Warnings:** troubleshoot (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -171,15 +171,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), teams (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - ask (1)
 
 
 ### 1. Common Sense Customer Service: A Two-Step Approach
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore a model for common sense customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/explore-a-model-for-common-sense-customer-service?u=76281980)
@@ -268,7 +268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** product (1)
 > **Ports:** :00 (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
@@ -338,7 +338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), this. (1)
+> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Speakers:** - let (1)
@@ -396,8 +396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** be careful (1)
@@ -406,7 +406,7 @@ created: 2026-04-29
 
 ### 2. Critical Customer Service Problem-Solving Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diagnose a customer's concerns as the first step
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/diagnose-a-customer-s-concerns-as-the-first-step?u=76281980)
@@ -481,8 +481,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Office|Office]] (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), else. (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - think (1)
 
@@ -559,8 +559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Customer Support]] (1), business (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - listening (1)
 
@@ -641,7 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[Troubleshooting]] (1)
 > **Analogies:** it's like (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - one (1)
@@ -649,7 +649,7 @@ created: 2026-04-29
 
 ### 3. Critical Troubleshooting Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calming down angry and upset customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/calming-down-angry-and-upset-customers?u=76281980)
@@ -750,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), this, (1), finally, (1), throw (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
 > **Speakers:** - [narrator] (1)
@@ -820,8 +820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (2), this, (1), this. (1), continue (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - customer (1)
@@ -881,15 +881,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1), next (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), return, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - here (1)
 
 
 ### 4. Customer Service Mindset and Playbook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintain your mindset during stressful times
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/maintain-your-mindset-during-stressful-times?u=76281980)
@@ -948,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), else. (1), break. (1), continue (1)
+> **Frameworks & Libraries:** next (2), business (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - sometimes (1)
@@ -1024,7 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), business (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1033,7 +1033,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Being strong at problem-solving and troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/being-strong-at-problem-solving-and-troubleshooting?u=76281980)
@@ -1074,6 +1074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Troubleshooting]] (1), next (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)

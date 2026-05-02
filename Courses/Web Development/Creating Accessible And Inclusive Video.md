@@ -28,7 +28,7 @@ tags:
   - skill/diversity-and-inclusion
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20Accessible%20And%20Inclusive%20Video.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Prioritize video accessibility and inclusivity
+  - [Prioritize video accessibility and inclusivity](#prioritize-video-accessibility-and-inclusivity)
 - [**1. Why Create Accessible and Inclusive Videos?**](#1-why-create-accessible-and-inclusive-videos) (2 videos)
-  - Benefits of creating an accessible experience
-  - Benefits of creating inclusive content
+  - [Benefits of creating an accessible experience](#benefits-of-creating-an-accessible-experience)
+  - [Benefits of creating inclusive content](#benefits-of-creating-inclusive-content)
 - [**2. Create an Accessible Experience**](#2-create-an-accessible-experience) (10 videos)
-  - Be thoughtful about color, contrast, and light
-  - Optimize for text clarity
-  - Create captions for all audiences
-  - Create subtitles and consider other localization strategies
-  - Create a transcript
-  - Create audio descriptions
-  - Include a sign language interpreter
-  - Choose accessible video and audio formats
-  - Choose an accessible video player
-  - Plan proactively and test for accessibility
+  - [Be thoughtful about color, contrast, and light](#be-thoughtful-about-color-contrast-and-light)
+  - [Optimize for text clarity](#optimize-for-text-clarity)
+  - [Create captions for all audiences](#create-captions-for-all-audiences)
+  - [Create subtitles and consider other localization strategies](#create-subtitles-and-consider-other-localization-strategies)
+  - [Create a transcript](#create-a-transcript)
+  - [Create audio descriptions](#create-audio-descriptions)
+  - [Include a sign language interpreter](#include-a-sign-language-interpreter)
+  - [Choose accessible video and audio formats](#choose-accessible-video-and-audio-formats)
+  - [Choose an accessible video player](#choose-an-accessible-video-player)
+  - [Plan proactively and test for accessibility](#plan-proactively-and-test-for-accessibility)
 - [**3. Create Inclusive Content**](#3-create-inclusive-content) (6 videos)
-  - Be thoughtful about featuring diverse video topics
-  - Script with diversity and inclusion in mind
-  - Avoid jargon, buzzwords, and insider terms
-  - Recruit a diverse video crew
-  - Cast diverse talent
-  - Prioritize diverse asset creation and curation
+  - [Be thoughtful about featuring diverse video topics](#be-thoughtful-about-featuring-diverse-video-topics)
+  - [Script with diversity and inclusion in mind](#script-with-diversity-and-inclusion-in-mind)
+  - [Avoid jargon, buzzwords, and insider terms](#avoid-jargon-buzzwords-and-insider-terms)
+  - [Recruit a diverse video crew](#recruit-a-diverse-video-crew)
+  - [Cast diverse talent](#cast-diverse-talent)
+  - [Prioritize diverse asset creation and curation](#prioritize-diverse-asset-creation-and-curation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prioritize video accessibility and inclusivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-video-accessibility-and-inclusivity?u=76281980)
@@ -95,12 +95,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (1)
 
 
 ### 1. Why Create Accessible and Inclusive Videos?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of creating an accessible experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980)
@@ -217,7 +217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), else. (1), case. (1)
+> **Frameworks & Libraries:** web (3), [[LinkedIn]] (2), [[Engineering]] (1), [[Accessible Design]] (1), business (1)
 > **Env Vars:** wcag (4)
 > **Definitions:** means that (2)
 > **Analogies:** think of it as (1), for example (1)
@@ -279,13 +279,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** business (2), [[Diversity and Inclusion]] (2), teams (1), [[Storytelling]] (1), [[Legal Compliance]] (1)
 > **Cross-References:** later in (1)
 
 
 ### 2. Create an Accessible Experience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be thoughtful about color, contrast, and light
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-color-contrast-and-light?u=76281980)
@@ -380,7 +380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), static (1), case, (1)
+> **Frameworks & Libraries:** web (3), [[Infographics]] (1)
 > **Definitions:** is a  (3)
 > **Versions:** 4.5 (2)
 > **Warnings:** warning (1), note that (1)
@@ -471,9 +471,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** make (5)
 > **Best Practices:** make sure to (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** wcag (1)
 
 #### Create captions for all audiences
@@ -573,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (2), [[Speech Recognition]] (2), business (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Analogies:** for example (1)
 
 #### Create subtitles and consider other localization strategies
@@ -659,8 +659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1)
 > **Env Vars:** speaking (2), sdh (1), french (1), german (1)
-> **Code Keywords:** let (2), public (1), require (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
@@ -758,8 +758,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), [[Search]] (1), ai (1), [[ChatGPT]] (1), seo (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** select the (1), click on (1)
 > **Analogies:** imagine (1), just like (1)
 > **Env Vars:** seo (1)
@@ -858,7 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), let (1), switch (1), this. (1), continue (1)
+> **Frameworks & Libraries:** power (1), [[Microsoft Word|Word]] (1), [[Real-Time]] (1), [[LinkedIn]] (1)
 > **Env Vars:** foreign (1), language (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1), for example (1)
@@ -928,9 +928,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **Analogies:** picture (10), similar to (1)
 > **Speakers:** - for (2), - there (1), - i (1), - people (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** asl (1)
 > **Definitions:** is a  (1)
 
@@ -973,8 +973,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** mp4 (3), h264 (2), aac (2), h265 (1)
-> **Code Keywords:** this, (1)
 > **Exercise Files:** exercise files (1)
 
 #### Choose an accessible video player
@@ -1040,9 +1040,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Speech Recognition]] (1)
 > **Definitions:** means that (2), is an  (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** this. (1)
 > **Exercise Files:** exercise files (1)
 
 #### Plan proactively and test for accessibility
@@ -1110,7 +1110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), require (1), this, (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), product (1)
 > **Env Vars:** wcag (1)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
@@ -1119,7 +1119,7 @@ created: 2026-04-29
 
 ### 3. Create Inclusive Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be thoughtful about featuring diverse video topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980)
@@ -1198,7 +1198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), this. (1), this, (1), new, (1)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2), feature (2), [[LinkedIn]] (1)
 > **Env Vars:** cred (3)
 > **Warnings:** be careful (1)
 
@@ -1287,7 +1287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), pass (2), finally, (1)
+> **Frameworks & Libraries:** next (2), feature (2), [[Storytelling]] (1), [[Scripting]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cred (2), lgbtq (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1361,6 +1361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), web (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** nle (1)
 > **Analogies:** for example (1)
@@ -1434,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1)
+> **Frameworks & Libraries:** [[Video Production]] (3), teams (1), product (1)
 > **Env Vars:** cred (1)
 > **Exercise Files:** exercise files (1)
 
@@ -1503,7 +1504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), this, (1), require (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
 
@@ -1584,15 +1585,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[Privacy]] (1), [[Video Production]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), this, (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980)
@@ -1631,8 +1632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1), [[Diversity and Inclusion]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** exercise files (1)
 
 

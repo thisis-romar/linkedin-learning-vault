@@ -36,7 +36,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%2011%20Integrating%20Non-Blockchain%20Apps.md)
@@ -55,15 +55,15 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Integrating Non-Blockchain Apps with Ethereum**](#1-integrating-non-blockchain-apps-with-ethereum) (5 videos)
-  - Blockchain and database storage
-  - Execution and flow in dApps and traditional applications
-  - Blockchain incorporation design goals
-  - Integration considerations for incorporating blockchain
-  - Interface considerations for incorporating blockchain
+  - [Blockchain and database storage](#blockchain-and-database-storage)
+  - [Execution and flow in dApps and traditional applications](#execution-and-flow-in-dapps-and-traditional-applications)
+  - [Blockchain incorporation design goals](#blockchain-incorporation-design-goals)
+  - [Integration considerations for incorporating blockchain](#integration-considerations-for-incorporating-blockchain)
+  - [Interface considerations for incorporating blockchain](#interface-considerations-for-incorporating-blockchain)
 
 ### 1. Integrating Non-Blockchain Apps with Ethereum
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain and database storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980)
@@ -344,7 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (3), let (1), delete (1)
+> **Frameworks & Libraries:** data (39), [[Blockchain]] (37), database (13), [[Databases]] (6), [[Ethereum]] (4)
 > **CLI Commands:** make (4), node (2)
 > **Definitions:** is a  (3), in other words (2), is an  (1)
 > **Env Vars:** crud (1)
@@ -419,9 +419,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (8), data (5), application (5), database (4), [[Decentralization]] (1)
 > **Definitions:** in other words (2), means that (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else, (1), else. (1)
 > **Speakers:** - all (1)
 
 #### Blockchain incorporation design goals
@@ -531,9 +531,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (24), data (5), application (4), [[User Experience (UX)|User experience]] (4), [[Smart Contracts]] (3)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** is a  (4), is an  (1), is called (1), in other words (1)
-> **Code Keywords:** let (2), this. (2), from. (1)
 > **Analogies:** just like (1)
 > **Speakers:** - okay (1)
 
@@ -646,7 +646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2)
+> **Frameworks & Libraries:** application (12), [[Blockchain]] (11), [[Ethereum]] (6), data (5), [[Decentralization]] (3)
 > **CLI Commands:** make (4)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -738,7 +738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), function (1)
+> **Frameworks & Libraries:** application (13), [[Blockchain]] (7), data (5), api (3), [[Smart Contracts]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** api (3)
 > **Cross-References:** we talked about (1)

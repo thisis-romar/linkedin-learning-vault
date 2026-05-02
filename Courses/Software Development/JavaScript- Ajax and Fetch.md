@@ -38,7 +38,7 @@ tags:
   - skill/javascript
   - skill/fetch
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Ajax%20and%20Fetch.md)
@@ -57,55 +57,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Your essential guide
-  - What you should know
-  - Setting up your environment
+  - [Your essential guide](#your-essential-guide)
+  - [What you should know](#what-you-should-know)
+  - [Setting up your environment](#setting-up-your-environment)
 - [**1. Getting Started with AJAX**](#1-getting-started-with-ajax) (6 videos)
-  - What is AJAX?
-  - Understand asynchronous program flow
-  - Get an API key
-  - Research and create an AJAX request URL
-  - Challenge: Research an API and create a request URL
-  - Solution: Research an API and create a request URL
+  - [What is AJAX?](#what-is-ajax)
+  - [Understand asynchronous program flow](#understand-asynchronous-program-flow)
+  - [Get an API key](#get-an-api-key)
+  - [Research and create an AJAX request URL](#research-and-create-an-ajax-request-url)
+  - [Challenge: Research an API and create a request URL](#challenge-research-an-api-and-create-a-request-url)
+  - [Solution: Research an API and create a request URL](#solution-research-an-api-and-create-a-request-url)
 - [**2. Working with the Fetch API**](#2-working-with-the-fetch-api) (5 videos)
-  - Understand the Fetch API
-  - Create and test a Fetch request
-  - Handle basic Fetch errors
-  - Challenge: Build a Fetch request
-  - Solution: Build a Fetch request
+  - [Understand the Fetch API](#understand-the-fetch-api)
+  - [Create and test a Fetch request](#create-and-test-a-fetch-request)
+  - [Handle basic Fetch errors](#handle-basic-fetch-errors)
+  - [Challenge: Build a Fetch request](#challenge-build-a-fetch-request)
+  - [Solution: Build a Fetch request](#solution-build-a-fetch-request)
 - [**3. Modifying the DOM**](#3-modifying-the-dom) (9 videos)
-  - What is the DOM?
-  - Select elements with vanilla JavaScript
-  - Request data in response to an event
-  - Add an event listener
-  - Work with JSON data
-  - Modify form values with vanilla JavaScript
-  - Modify element content with vanilla JavaScript
-  - Challenge: Modify the DOM
-  - Solution: Modify the DOM
+  - [What is the DOM?](#what-is-the-dom)
+  - [Select elements with vanilla JavaScript](#select-elements-with-vanilla-javascript)
+  - [Request data in response to an event](#request-data-in-response-to-an-event)
+  - [Add an event listener](#add-an-event-listener)
+  - [Work with JSON data](#work-with-json-data)
+  - [Modify form values with vanilla JavaScript](#modify-form-values-with-vanilla-javascript)
+  - [Modify element content with vanilla JavaScript](#modify-element-content-with-vanilla-javascript)
+  - [Challenge: Modify the DOM](#challenge-modify-the-dom)
+  - [Solution: Modify the DOM](#solution-modify-the-dom)
 - [**4. Working with the Axios Library**](#4-working-with-the-axios-library) (7 videos)
-  - Understand Axios
-  - Create an Axios request
-  - Handle errors with Axios
-  - Refactor parameters with Axios
-  - Implement interceptors with Axios
-  - Challenge: Build an Axios request
-  - Solution: Build an Axios request
+  - [Understand Axios](#understand-axios)
+  - [Create an Axios request](#create-an-axios-request)
+  - [Handle errors with Axios](#handle-errors-with-axios)
+  - [Refactor parameters with Axios](#refactor-parameters-with-axios)
+  - [Implement interceptors with Axios](#implement-interceptors-with-axios)
+  - [Challenge: Build an Axios request](#challenge-build-an-axios-request)
+  - [Solution: Build an Axios request](#solution-build-an-axios-request)
 - [**5. Optimizing and Troubleshooting AJAX Requests**](#5-optimizing-and-troubleshooting-ajax-requests) (8 videos)
-  - Structure AJAX requests for performance
-  - View requests and responses in the browser
-  - Work with authorization errors
-  - Work with malformed requests
-  - Work with errors in Fetch
-  - Provide error fallbacks
-  - Challenge: Fix an AJAX request
-  - Solution: Fix an AJAX request
+  - [Structure AJAX requests for performance](#structure-ajax-requests-for-performance)
+  - [View requests and responses in the browser](#view-requests-and-responses-in-the-browser)
+  - [Work with authorization errors](#work-with-authorization-errors)
+  - [Work with malformed requests](#work-with-malformed-requests)
+  - [Work with errors in Fetch](#work-with-errors-in-fetch)
+  - [Provide error fallbacks](#provide-error-fallbacks)
+  - [Challenge: Fix an AJAX request](#challenge-fix-an-ajax-request)
+  - [Solution: Fix an AJAX request](#solution-fix-an-ajax-request)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Keep learning
+  - [Keep learning](#keep-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your essential guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/intro-video-to-be-renamed?u=76281980)
@@ -124,9 +124,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[AJAX]] (1), [[JavaScript]] (1), data (1), [[Coding Practices]] (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### What you should know
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-you-should-know?u=76281980)
@@ -141,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), data (1)
 > **Env Vars:** http (3)
 
 #### Setting up your environment
@@ -208,9 +209,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), [[GitHub]] (2), [[Microsoft Word|Word]] (2), [[Codespaces]] (2), data (2)
 > **Tools:** visual studio (4), github (2), firefox (1), safari (1)
 > **Env Vars:** html (3), http (2), api (1)
-> **Code Keywords:** private (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for instance (1)
 > **File Paths:** contact.html (1)
@@ -220,7 +221,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with AJAX
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AJAX?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980)
@@ -269,7 +270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), case. (1), static (1), type, (1)
+> **Frameworks & Libraries:** [[AJAX]] (8), web (6), data (6), [[Search]] (4), [[HTML]] (3)
 > **Env Vars:** html (3), xml (1), json (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
@@ -327,8 +328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[AJAX]] (4), parallel (4), next (2), data (1)
 > **Definitions:** known as (2), is an  (1), means that (1)
-> **Code Keywords:** default, (1), async (1), while. (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 
@@ -435,7 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), require (2), public (2), let (2), for, (1)
+> **Frameworks & Libraries:** api (6), web (4), data (2), [[GitHub]] (1), [[Search]] (1)
 > **Env Vars:** api (6)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (4)
@@ -544,9 +545,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (18), data (10), next (2), [[Search]] (2), feature (2)
 > **Env Vars:** api (18), url (8), json (2), http (1), usps (1)
 > **CLI Commands:** curl (3), find (1)
-> **Code Keywords:** finally, (1), delete (1), default, (1), for. (1)
 > **Documentation:** the documentation (3)
 > **Definitions:** known as (1), is a  (1), stands for (1)
 > **Tools:** command line (1)
@@ -576,6 +577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), data (1), [[AJAX]] (1), next (1)
 > **Env Vars:** api (3)
 > **URLs:** [nps.gov](https://nps.gov) (1)
 > **Cross-References:** in the next (1)
@@ -704,6 +706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), data (5), [[JSON]] (2), next (1), application (1)
 > **Env Vars:** api (13), url (4), json (2)
 > **UI Navigation:** scroll down (4), click on (1), scroll up (1)
 > **CLI Commands:** curl (2), make (1)
@@ -712,7 +715,7 @@ created: 2026-04-29
 
 ### 2. Working with the Fetch API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Fetch API
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980)
@@ -787,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), pass (3), super (2), this. (2), let (1)
+> **Frameworks & Libraries:** [[Fetch]] (18), [[JavaScript]] (5), [[AJAX]] (4), api (3), next (2)
 > **Env Vars:** api (3), xhr (3), uri (1), http (1), html (1)
 > **Code Identifiers:** jquery (3)
 > **URLs:** [caniuse.com](https://caniuse.com) (2)
@@ -943,8 +946,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (11), data (7), feature (4), next (3), api (3)
 > **Env Vars:** url (8), http (4), api (3), json (3), html (2)
-> **Code Keywords:** function (7), const (2), default, (1), require (1), pass (1)
 > **Definitions:** is a  (3)
 > **File Paths:** app.js (2)
 > **CLI Commands:** curl (1), make (1)
@@ -1079,7 +1082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (5), function (5), pass (3), delete (2), case, (1)
+> **Frameworks & Libraries:** [[Fetch]] (8), data (5), [[JSON]] (3), api (3), [[HTML]] (1)
 > **Env Vars:** http (3), json (3), api (3), html (1), url (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1108,6 +1111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[Fetch]] (1), data (1), next (1)
 > **Env Vars:** url (2), api (2), nps (1)
 > **Documentation:** the documentation (2)
 > **Cross-References:** in the next (1)
@@ -1185,8 +1189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), [[Fetch]] (3), [[JavaScript]] (3), data (3), [[HTML]] (1)
 > **Env Vars:** url (6), api (5), nps (2), html (1)
-> **Code Keywords:** pass (2), function (2), const (1)
 > **Code Identifiers:** npsurl (3), createrequest (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **CLI Commands:** make (1)
@@ -1196,7 +1200,7 @@ created: 2026-04-29
 
 ### 3. Modifying the DOM
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the DOM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980)
@@ -1263,9 +1267,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (10), web (3), [[HTML]] (3), data (3), [[JavaScript]] (2)
 > **Env Vars:** dom (10), html (3), css (2)
 > **Definitions:** is a  (4)
-> **Code Keywords:** interface (1), delete (1), super (1)
 > **URLs:** [duckduckgo.com](https://duckduckgo.com) (1)
 > **UI Navigation:** go to (1)
 
@@ -1322,9 +1326,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (5), [[JavaScript]] (3), css (2), [[Vanilla]] (2), [[HTML]] (1)
 > **Code Identifiers:** queryselector (8), jquery (4), queryselectorall (2), getelementbyid (2), addressfield (1)
 > **Env Vars:** dom (5), css (2), html (1), url (1)
-> **Code Keywords:** const (5), interface (1), pass (1), let (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -1415,8 +1419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), dom (1), data (1), next (1)
 > **Env Vars:** url (11), api (5), dom (1)
-> **Code Keywords:** function (4), let (1)
 > **CLI Commands:** make (2)
 
 #### Add an event listener
@@ -1458,8 +1462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), [[JavaScript]] (1), [[HTML]] (1), dom (1)
 > **Code Identifiers:** checkcompletion (3), addeventlistener (1), addressfield (1), cityfield (1), statefield (1)
-> **Code Keywords:** function (6), pass (1)
 > **Env Vars:** html (1), dom (1)
 > **File Paths:** d.c (1)
 > **CLI Commands:** make (1)
@@ -1543,8 +1547,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[JSON]] (9), [[JavaScript]] (4), [[AJAX]] (3), api (2)
 > **Env Vars:** json (9), api (2)
-> **Code Keywords:** function (4), pass (1), switch (1), const (1), from, (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** open the (1)
 > **Best Practices:** make sure to (1)
@@ -1642,7 +1646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), require (1), const (1), this. (1)
+> **Frameworks & Libraries:** data (9), api (2), feature (2), [[HTML]] (1), [[Fetch]] (1)
 > **Code Identifiers:** handlesuccess (2), handleparksuccess (2), handlegeocodioerrors (2), handleparkerrors (2), handleerrors (1)
 > **Env Vars:** api (2), html (1), url (1)
 > **CLI Commands:** make (1)
@@ -1733,8 +1737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), dom (2), [[JavaScript]] (2), api (2), [[Design Systems]] (1)
 > **Env Vars:** html (3), dom (2), api (2), css (1), url (1)
-> **Code Keywords:** class. (1), function (1), const (1), class, (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** nps_logo (1)
 > **Definitions:** is a  (1)
@@ -1765,8 +1769,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), dom (2), next (1)
 > **Env Vars:** dom (2), url (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** in the next (1)
 
 #### Solution: Modify the DOM
@@ -1914,9 +1918,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), dom (6), [[JavaScript]] (2), [[AJAX]] (2), [[HTML]] (1)
 > **Code Identifiers:** parkname (3), handleparksuccess (3), queryselector (2), parkdesc (2), textcontent (2)
 > **Env Vars:** dom (6), url (3), html (1)
-> **Code Keywords:** const (2), function (2), switch (1), return, (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** app.js (1)
@@ -1926,7 +1930,7 @@ created: 2026-04-29
 
 ### 4. Working with the Axios Library
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Axios
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-axios?u=76281980)
@@ -1959,6 +1963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (6), [[AJAX]] (2), [[JavaScript]] (2), web (2), data (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** http (1), url (1)
 > **Prerequisites:** initialization (1)
@@ -2042,8 +2047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Fetch]] (5), api (4), [[HTML]] (2), [[JavaScript]] (2)
 > **Env Vars:** api (4), html (2), nps (2), cdn (1)
-> **Code Keywords:** function (2), for. (1), for, (1)
 > **CLI Commands:** make (3)
 > **File Paths:** app.js (2)
 > **Code Identifiers:** jsdelivr (1)
@@ -2120,7 +2125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), require (1), case. (1), case, (1), delete (1)
+> **Frameworks & Libraries:** api (3), [[Fetch]] (2), data (2), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** api (3), http (1), html (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** handlegeocodioeerrors (1)
@@ -2240,8 +2245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), next (1), [[HTML]] (1), data (1)
 > **Env Vars:** url (16), api (5), html (1)
-> **Code Keywords:** function (6), delete (2), pass (2), super (1), this. (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (1), switch to (1)
 > **Definitions:** means that (1), short for (1)
@@ -2416,7 +2421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), pass (2), switch (2), case, (1), let (1)
+> **Frameworks & Libraries:** data (37), api (5), next (2), feature (1), [[AJAX]] (1)
 > **Env Vars:** api (5), nps (1), html (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** scroll down (1)
@@ -2449,7 +2454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6)
+> **Frameworks & Libraries:** data (4), next (2), api (1)
 > **Env Vars:** nps (2), api (1), url (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2699,8 +2704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), api (6), next (2), generic (1), [[JavaScript]] (1)
 > **Env Vars:** nps (11), url (7), api (6), dom (1)
-> **Code Keywords:** function (7), const (6), let (2), switch (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** recommended (1), remember to (1)
 > **UI Navigation:** scroll down (1)
@@ -2708,7 +2713,7 @@ created: 2026-04-29
 
 ### 5. Optimizing and Troubleshooting AJAX Requests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structure AJAX requests for performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980)
@@ -2763,9 +2768,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[AJAX]] (7), [[JSON]] (2), [[Fetch]] (1), application (1)
 > **Env Vars:** xml (4), json (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case. (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
@@ -2853,8 +2858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[AJAX]] (2), web (2), [[HTML]] (1), css (1)
 > **Env Vars:** http (2), url (2), nps (2), html (1), css (1)
-> **Code Keywords:** let (3), this, (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** open the (1), scroll up (1)
 > **URLs:** [jsdeliver.net](https://jsdeliver.net) (1)
@@ -2949,9 +2954,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), web (2), data (2)
 > **Env Vars:** api (13)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), delete (1)
 > **Definitions:** is an  (2)
 > **Analogies:** such as (1), for instance (1)
 > **Warnings:** common error (1)
@@ -3066,8 +3071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), api (4), [[Troubleshooting]] (1), [[HTML]] (1)
 > **Env Vars:** url (9), api (4), nps (2), http (1), https (1)
-> **Code Keywords:** case, (2), finally, (1), public (1), super (1), pass (1)
 > **Documentation:** the documentation (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), imagine (1)
@@ -3184,7 +3189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), pass (2), finally, (2), let (2), super (1)
+> **Frameworks & Libraries:** data (12), [[Fetch]] (10), next (2), [[JSON]] (2), [[HTML]] (1)
 > **Env Vars:** url (5), json (2), html (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** means that (2), is a  (1)
@@ -3325,8 +3330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), dom (3), api (3), [[AJAX]] (2), feature (2)
 > **Env Vars:** nps (6), url (6), dom (3), api (3)
-> **Code Keywords:** delete (4), function (3), default, (2), case, (1), require (1)
 > **CLI Commands:** make (4), npm (1)
 > **Code Identifiers:** npsfallback (3)
 > **Prerequisites:** set up (2)
@@ -3355,6 +3360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[Debugging]] (1), [[AJAX]] (1), next (1)
 > **Env Vars:** api (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** troubleshoot (1)
@@ -3477,8 +3483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), data (5), web (1)
 > **Env Vars:** api (7), url (4)
-> **Code Keywords:** let (3), switch (2)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (2), means that (1)
@@ -3488,7 +3494,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980)
@@ -3521,8 +3527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[JavaScript]] (3), [[AJAX]] (2), [[LinkedIn]] (2), [[JSON]] (2)
 > **Env Vars:** json (2), api (1)
-> **Code Keywords:** async (1)
 
 
 ## Instructor

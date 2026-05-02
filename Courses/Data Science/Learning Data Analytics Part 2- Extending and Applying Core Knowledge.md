@@ -34,7 +34,7 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Data%20Analytics%20Part%202-%20Extending%20and%20Applying%20Core%20Knowledge.md)
@@ -53,69 +53,69 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Extending your data analysis skills
-  - What you should know
-  - Required software
+  - [Extending your data analysis skills](#extending-your-data-analysis-skills)
+  - [What you should know](#what-you-should-know)
+  - [Required software](#required-software)
 - [**1. Working with Business Data**](#1-working-with-business-data) (5 videos)
-  - Understanding business rules
-  - Understanding noise in data
-  - Breaking down the ask
-  - Challenge: Getting started
-  - Solution: Getting started
+  - [Understanding business rules](#understanding-business-rules)
+  - [Understanding noise in data](#understanding-noise-in-data)
+  - [Breaking down the ask](#breaking-down-the-ask)
+  - [Challenge: Getting started](#challenge-getting-started)
+  - [Solution: Getting started](#solution-getting-started)
 - [**2. Building Data Sets with Queries**](#2-building-data-sets-with-queries) (8 videos)
-  - Understanding queries
-  - Building basic select queries
-  - Building distinct queries
-  - Building queries with Joins
-  - Building append queries
-  - Building total queries
-  - Challenge: Total number of orders by customer
-  - Solution: Total number orders by customer
+  - [Understanding queries](#understanding-queries)
+  - [Building basic select queries](#building-basic-select-queries)
+  - [Building distinct queries](#building-distinct-queries)
+  - [Building queries with Joins](#building-queries-with-joins)
+  - [Building append queries](#building-append-queries)
+  - [Building total queries](#building-total-queries)
+  - [Challenge: Total number of orders by customer](#challenge-total-number-of-orders-by-customer)
+  - [Solution: Total number orders by customer](#solution-total-number-orders-by-customer)
 - [**3. Chart Data Anytime and Anywhere**](#3-chart-data-anytime-and-anywhere) (7 videos)
-  - Ad hoc reporting
-  - Building basic charts visual
-  - Visuals using conditional formatting
-  - Setting templates and default charts
-  - Linking verus embedding charts and data
-  - Challenge: Ad hoc presentation
-  - Solution: Ad hoc presentation
+  - [Ad hoc reporting](#ad-hoc-reporting)
+  - [Building basic charts visual](#building-basic-charts-visual)
+  - [Visuals using conditional formatting](#visuals-using-conditional-formatting)
+  - [Setting templates and default charts](#setting-templates-and-default-charts)
+  - [Linking verus embedding charts and data](#linking-verus-embedding-charts-and-data)
+  - [Challenge: Ad hoc presentation](#challenge-ad-hoc-presentation)
+  - [Solution: Ad hoc presentation](#solution-ad-hoc-presentation)
 - [**4. Pivot Data Anytime and Anywhere**](#4-pivot-data-anytime-and-anywhere) (7 videos)
-  - What are pivots?
-  - Build basic pivot tables
-  - Modifying pivots for readability
-  - Visualizing pivot tables
-  - Using pivots to filter data sets
-  - Challenge: Best customer year
-  - Solution: Best customer year
+  - [What are pivots?](#what-are-pivots)
+  - [Build basic pivot tables](#build-basic-pivot-tables)
+  - [Modifying pivots for readability](#modifying-pivots-for-readability)
+  - [Visualizing pivot tables](#visualizing-pivot-tables)
+  - [Using pivots to filter data sets](#using-pivots-to-filter-data-sets)
+  - [Challenge: Best customer year](#challenge-best-customer-year)
+  - [Solution: Best customer year](#solution-best-customer-year)
 - [**5. Building in Power BI Desktop**](#5-building-in-power-bi-desktop) (7 videos)
-  - Building dashboards
-  - Building a matrix and visuals
-  - Use cards for numbers
-  - Using visuals in Power BI for filters
-  - Publishing visuals and data sets
-  - Challenge: Product dashboard
-  - Solution: Product dashboard
+  - [Building dashboards](#building-dashboards)
+  - [Building a matrix and visuals](#building-a-matrix-and-visuals)
+  - [Use cards for numbers](#use-cards-for-numbers)
+  - [Using visuals in Power BI for filters](#using-visuals-in-power-bi-for-filters)
+  - [Publishing visuals and data sets](#publishing-visuals-and-data-sets)
+  - [Challenge: Product dashboard](#challenge-product-dashboard)
+  - [Solution: Product dashboard](#solution-product-dashboard)
 - [**6. Power Query Tips and Tricks for Data Analysts**](#6-power-query-tips-and-tricks-for-data-analysts) (7 videos)
-  - Using column profile to learn the data
-  - Appending data by leveraging folders
-  - Duplicate or reference data sets
-  - Unpivoting data from existing reports
-  - Custom sorting in Power BI
-  - Challenge: Custom sort by education
-  - Solution: Custom sort by education
+  - [Using column profile to learn the data](#using-column-profile-to-learn-the-data)
+  - [Appending data by leveraging folders](#appending-data-by-leveraging-folders)
+  - [Duplicate or reference data sets](#duplicate-or-reference-data-sets)
+  - [Unpivoting data from existing reports](#unpivoting-data-from-existing-reports)
+  - [Custom sorting in Power BI](#custom-sorting-in-power-bi)
+  - [Challenge: Custom sort by education](#challenge-custom-sort-by-education)
+  - [Solution: Custom sort by education](#solution-custom-sort-by-education)
 - [**7. Presenting Data in Meetings**](#7-presenting-data-in-meetings) (6 videos)
-  - Consider how to present data in meetings
-  - What to do before going company wide
-  - Leveraging PowerPoint for presentations
-  - Documenting data procedures
-  - Challenge: Highlight dashboard using PowerPoint
-  - Solution: Highlight dashboard using PowerPoint
+  - [Consider how to present data in meetings](#consider-how-to-present-data-in-meetings)
+  - [What to do before going company wide](#what-to-do-before-going-company-wide)
+  - [Leveraging PowerPoint for presentations](#leveraging-powerpoint-for-presentations)
+  - [Documenting data procedures](#documenting-data-procedures)
+  - [Challenge: Highlight dashboard using PowerPoint](#challenge-highlight-dashboard-using-powerpoint)
+  - [Solution: Highlight dashboard using PowerPoint](#solution-highlight-dashboard-using-powerpoint)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with data analysis
+  - [Continuing on with data analysis](#continuing-on-with-data-analysis)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending your data analysis skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/extending-your-data-analysis-skills-23313587?u=76281980)
@@ -140,7 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** data (5), business (1), [[Microsoft Power Query|Power query]] (1)
 > **Speakers:** - it (1)
 
 #### What you should know
@@ -166,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Analytics]] (2), career (1), [[Microsoft Excel|Excel]] (1), [[Relational Databases]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -192,6 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft]] (1), power (1), bi (1), [[Microsoft PowerPoint]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -199,7 +201,7 @@ created: 2026-04-29
 
 ### 1. Working with Business Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding business rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-business-rules?u=76281980)
@@ -272,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), require (1)
+> **Frameworks & Libraries:** data (10), business (8), [[Forecasting]] (2)
 > **Prerequisites:** required to (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -363,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (1)
+> **Frameworks & Libraries:** data (14), [[Databases]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (3)
 > **Analogies:** imagine (1), just like (1), for example (1)
 > **CLI Commands:** make (2)
@@ -465,7 +467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), for, (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (2), business (2), [[Microsoft Products|Products]] (2), [[Soft Skills]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -485,6 +487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), business (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -515,13 +518,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Building Data Sets with Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980)
@@ -594,6 +598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Google]] (1), [[Microsoft Word|Word]] (1), leadership (1), [[Databases]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -709,7 +714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (1), include. (1), from. (1), case, (1)
+> **Frameworks & Libraries:** data (6), [[SQL]] (5), database (4), business (2), hit (2)
 > **Env Vars:** sql (6)
 > **UI Navigation:** go to (2), double-click (1), right-click (1)
 > **CLI Commands:** make (2)
@@ -799,7 +804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (3), [[SQL]] (3), product (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** double-click (4), go to (3)
 > **Env Vars:** sql (3), usb (1)
 > **CLI Commands:** make (2), find (1)
@@ -969,8 +974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Databases]] (2), database (1)
 > **UI Navigation:** double-click (5), go to (2), scroll down (1)
-> **Code Keywords:** let (4), case, (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -1183,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), match. (2), import, (1), this. (1)
+> **Frameworks & Libraries:** data (26), next (6), database (4), [[Microsoft Excel|Excel]] (3), hit (1)
 > **CLI Commands:** make (8), find (1)
 > **UI Navigation:** go to (5), double-click (3), click on (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1360,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (1), export, (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (3), [[SQL]] (1), power (1), bi (1)
 > **UI Navigation:** go to (4), double-click (1), click on (1)
 > **Analogies:** for example (2)
 > **Env Vars:** sql (1)
@@ -1450,7 +1455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** go run (2)
 > **Speakers:** - i (1)
@@ -1459,7 +1464,7 @@ created: 2026-04-29
 
 ### 3. Chart Data Anytime and Anywhere
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ad hoc reporting
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980)
@@ -1610,7 +1615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (1)
+> **Frameworks & Libraries:** data (11), business (2), [[Microsoft Power Query|Power query]] (2), [[Microsoft Office|Office]] (1), leadership (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1730,7 +1735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), for, (1)
+> **Frameworks & Libraries:** data (6), [[Databases]] (1), [[Zoom]] (1), [[Dashboards]] (1)
 > **Analogies:** picture (2), for example (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1834,8 +1839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (2), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (5), right-click (1)
-> **Code Keywords:** let (4), default, (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -1950,7 +1955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), match. (1), delete (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1), hit (1)
 > **UI Navigation:** go to (4), right-click (2)
 > **CLI Commands:** find (3), make (1)
 > **Exercise Files:** template (4)
@@ -2116,7 +2121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), else. (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (18), [[Microsoft Excel|Excel]] (15), data (10), [[Microsoft Word|Word]] (2), [[Microsoft Office]] (1)
 > **Analogies:** picture (6)
 > **UI Navigation:** right-click (3), go to (2)
 > **Definitions:** means that (3)
@@ -2151,6 +2156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft PowerPoint|Powerpoint]] (1), leadership (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2239,15 +2245,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), next (1)
 > **UI Navigation:** go to (8)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Pivot Data Anytime and Anywhere
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are pivots?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980)
@@ -2324,7 +2330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1), for. (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (4), [[Microsoft Word|Word]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
@@ -2455,7 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (2), type, (2), this. (1), default, (1)
+> **Frameworks & Libraries:** data (15), product (5), [[Microsoft Excel|Excel]] (3), [[Analytics]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (3), drag and drop (2), double-click (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1), for example (1)
@@ -2571,8 +2577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (5), data (3), [[Analytics]] (1), [[Decision-Making]] (1)
 > **UI Navigation:** go to (3), right-click (2), double-click (1), drag and drop (1)
-> **Code Keywords:** let (6)
 > **CLI Commands:** make (3)
 > **Versions:** 2.39 (1), 0.71 (1), 2.42 (1)
 > **Definitions:** means that (1)
@@ -2729,7 +2735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** data (15), product (4), [[Microsoft Products|Products]] (2), [[Zoom]] (1), [[Dashboards]] (1)
 > **UI Navigation:** go to (7)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), for example (1)
@@ -2780,9 +2786,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), product (2), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** double-click (2), scroll down (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2889,7 +2895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (1), self (1)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -2898,7 +2904,7 @@ created: 2026-04-29
 
 ### 5. Building in Power BI Desktop
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980)
@@ -3001,9 +3007,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Dashboards]] (4), power (2), bi (2), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** interface (1), else, (1)
 > **Env Vars:** pdf (1), sql (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -3179,8 +3185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (14), data (5), [[Microsoft Products|Products]] (4), [[Microsoft Excel|Excel]] (1), power (1)
 > **UI Navigation:** go to (8), scroll down (1)
-> **Code Keywords:** let (8)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
@@ -3333,7 +3339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), for. (1), this, (1), default, (1), this. (1)
+> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (2), data (1), [[Dashboards]] (1)
 > **UI Navigation:** go to (5), click on (3), scroll down (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1)
@@ -3491,7 +3497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default, (1), for. (1)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (4), go to (2)
 > **CLI Commands:** make (1)
 > **Versions:** 11.35 (1)
@@ -3616,9 +3622,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (8), bi (8), [[Microsoft PowerPoint|Powerpoint]] (7), web (5), data (2)
 > **UI Navigation:** go to (6), click on (1)
 > **Env Vars:** pdf (6)
-> **Code Keywords:** let (3), this. (1), export. (1)
 > **CLI Commands:** snap (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3649,6 +3655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (2), data (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3792,7 +3799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), else, (1), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (5), data (4)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -3804,7 +3811,7 @@ created: 2026-04-29
 
 ### 6. Power Query Tips and Tricks for Data Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using column profile to learn the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-column-profile-to-learn-the-data?u=76281980)
@@ -3889,7 +3896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (1), while, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Power Query|Power query]] (3), [[Analytics]] (2), [[Microsoft Excel|Excel]] (1), power (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -3972,7 +3979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), from. (1)
+> **Frameworks & Libraries:** data (22), [[Microsoft Power Query|Power query]] (6), next (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -4098,9 +4105,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Microsoft Power Query|Power query]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** right-click (3), go to (2), click on (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (4)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4203,7 +4210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), this. (1)
+> **Frameworks & Libraries:** data (15), [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (3)
 > **UI Navigation:** go to (2), right-click (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
@@ -4275,8 +4282,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **UI Navigation:** go to (4)
-> **Code Keywords:** match, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Custom sort by education
@@ -4304,6 +4311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -4420,8 +4428,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **UI Navigation:** go to (4)
-> **Code Keywords:** let (1), this. (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -4430,7 +4438,7 @@ created: 2026-04-29
 
 ### 7. Presenting Data in Meetings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Consider how to present data in meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980)
@@ -4483,7 +4491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1)
+> **Frameworks & Libraries:** data (10), [[Pivot Tables]] (1), [[Microsoft Products|Products]] (1)
 > **Best Practices:** don't forget (1), you should always (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
@@ -4590,8 +4598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Dashboards]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[SharePoint]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), let (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -4746,8 +4754,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), data (4), power (2), bi (2)
 > **UI Navigation:** go to (6), right-click (5)
-> **Code Keywords:** let (5), public (1), this. (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (4)
 > **Cross-References:** earlier in (1), go back to (1)
@@ -4838,8 +4846,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Word|Word]] (2), data (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), click on (1)
-> **Code Keywords:** let (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4858,7 +4866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), product (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4986,7 +4994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), super (1), this, (1)
+> **Frameworks & Libraries:** product (5), [[Zoom]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), power (1), bi (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** go to (2), right-click (1)
 > **Speakers:** - [instructor] (1)
@@ -4995,7 +5003,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980)
@@ -5036,6 +5044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), [[SQL]] (2), [[Soft Skills]] (2), application (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 

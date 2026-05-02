@@ -35,7 +35,7 @@ tags:
   - skill/react-js
   - skill/web-interface-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React.js-%20Building%20an%20Interface.md)
@@ -54,36 +54,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why React is so important
-  - Exercise files
+  - [Why React is so important](#why-react-is-so-important)
+  - [Exercise files](#exercise-files)
 - [**1. Set Up and Install**](#1-set-up-and-install) (5 videos)
-  - Installing requirements
-  - React installation
-  - Customizing your installs
-  - Using React icon components
-  - Installing Tailwind CSS in React
+  - [Installing requirements](#installing-requirements)
+  - [React installation](#react-installation)
+  - [Customizing your installs](#customizing-your-installs)
+  - [Using React icon components](#using-react-icon-components)
+  - [Installing Tailwind CSS in React](#installing-tailwind-css-in-react)
 - [**2. Getting Started**](#2-getting-started) (4 videos)
-  - Your first component
-  - Creating a sub-component Hooks
-  - Getting appointments and debugging
-  - Importing JSON data as a variable
+  - [Your first component](#your-first-component)
+  - [Creating a sub-component Hooks](#creating-a-sub-component-hooks)
+  - [Getting appointments and debugging](#getting-appointments-and-debugging)
+  - [Importing JSON data as a variable](#importing-json-data-as-a-variable)
 - [**3. Sort and Search**](#3-sort-and-search) (3 videos)
-  - Passing data to a component
-  - The useState Hook and conditional classes
-  - Passing state and hiding components
+  - [Passing data to a component](#passing-data-to-a-component)
+  - [The useState Hook and conditional classes](#the-usestate-hook-and-conditional-classes)
+  - [Passing state and hiding components](#passing-state-and-hiding-components)
 - [**4. Mutating Data**](#4-mutating-data) (6 videos)
-  - useEffect and useCallback Hooks
-  - Deleting records
-  - Searching with a filtered array
-  - Setting up a sort
-  - Programming the sorting interface
-  - Adding a new appointment
+  - [useEffect and useCallback Hooks](#useeffect-and-usecallback-hooks)
+  - [Deleting records](#deleting-records)
+  - [Searching with a filtered array](#searching-with-a-filtered-array)
+  - [Setting up a sort](#setting-up-a-sort)
+  - [Programming the sorting interface](#programming-the-sorting-interface)
+  - [Adding a new appointment](#adding-a-new-appointment)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why React is so important
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980)
@@ -114,8 +114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JavaScript]] (2), dom (1), [[LinkedIn]] (1), [[React Hooks]] (1)
 > **Env Vars:** dom (1), html (1), css (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [ray] (1)
 
 #### Exercise files
@@ -167,11 +167,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), hit (2), [[Git]] (2), [[Codespaces]] (1), [[npm]] (1)
 > **Tools:** github (5), terminal (1)
 > **Exercise Files:** download the (4), github repo (1), zip file (1)
 > **CLI Commands:** find (2), git (2), npm (1)
 > **UI Navigation:** go to (1), click on (1), switch to (1)
-> **Code Keywords:** switch (1), let (1)
 > **Env Vars:** npm (1), zip (1)
 > **Definitions:** is an  (1), means that (1)
 > **Prerequisites:** you'll need (1), install (1)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Set Up and Install
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980)
@@ -244,9 +244,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[Git]] (5), [[npm]] (5), application (4), [[Node.js]] (2)
 > **CLI Commands:** git (5), npm (5), yarn (3), node (2), make (2)
 > **Tools:** terminal (4), bash (2), visual studio (1)
-> **Code Keywords:** let (2), require (1), switch (1), return, (1), this, (1)
 > **Definitions:** is a  (3), means that (1)
 > **Prerequisites:** you'll need (2), install (2)
 > **File Paths:** node.js (2)
@@ -414,7 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (3), function (3), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (16), [[JavaScript]] (13), application (9), [[HTML]] (7), [[GitHub]] (5)
 > **File Paths:** package.json (3), node.js (2), app.js (2), robots.txt (1), index.html (1)
 > **Env Vars:** html (5), css (3), jsx (3)
 > **CLI Commands:** node (3), npm (2), yarn (2), find (2)
@@ -508,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (3), this, (1), super (1), this. (1)
+> **Frameworks & Libraries:** css (4), web (2), application (1), [[JSON]] (1), [[HTML]] (1)
 > **File Paths:** app.css (2), index.js (2), manifest.json (1), robots.txt (1), tests.js (1)
 > **CLI Commands:** make (7), npm (1)
 > **Tools:** terminal (6)
@@ -598,7 +598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (3), import, (3), from, (2), import. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), bi (2), [[npm]] (1), [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** install (6)
 > **CLI Commands:** find (4), npm (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -821,8 +821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (20), [[React.js|React]] (5), [[npm]] (4), [[JSON]] (3), next (3)
 > **Env Vars:** css (18), craco (7), npm (4), jsx (3), html (2)
-> **Code Keywords:** let (15), this, (2), this. (2), case, (2), super (1)
 > **CLI Commands:** make (7), npm (4), find (2)
 > **File Paths:** package.json (3), craco.config.js (2), index.css (2), config.js (1), index.html (1)
 > **Definitions:** is a  (4), stands for (1), means that (1)
@@ -833,7 +833,7 @@ created: 2026-04-29
 
 ### 2. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your first component
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980)
@@ -940,7 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), this. (2), interface (1), pass (1)
+> **Frameworks & Libraries:** [[Search]] (11), [[HTML]] (6), application (3), bi (3), [[React.js|React]] (2)
 > **Env Vars:** html (6), jsx (2)
 > **Definitions:** means that (1), is called (1), we call this (1)
 > **File Paths:** index.js (1), app.js (1)
@@ -983,7 +983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), const (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (2), [[HTML]] (1), [[Programming]] (1)
 > **UI Navigation:** dropdown (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (1)
@@ -1095,7 +1095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (1), import. (1), this. (1), interface (1)
+> **Frameworks & Libraries:** [[Search]] (5), [[React.js|React]] (3), bi (3), css (1), next (1)
 > **CLI Commands:** make (4)
 > **Tools:** terminal (3), visual studio (1)
 > **UI Navigation:** toggle (2), dropdown (1)
@@ -1187,7 +1187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), super (2), this, (1)
+> **Frameworks & Libraries:** data (5), [[JSON]] (4), [[JavaScript]] (2), [[HTML]] (2), css (1)
 > **Env Vars:** json (4), html (2), url (1), css (1), jsx (1)
 > **Code Identifiers:** appointmentlist (2), petname (2)
 > **File Paths:** data.json (2), app.js (1)
@@ -1197,7 +1197,7 @@ created: 2026-04-29
 
 ### 3. Sort and Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Passing data to a component
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-data-to-a-component?u=76281980)
@@ -1274,7 +1274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (7), const (1), function (1), delete (1)
+> **Frameworks & Libraries:** bi (1), application (1)
 > **File Paths:** app.js (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
@@ -1395,7 +1395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), this, (2), default. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), feature (3), [[JavaScript]] (2), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** usestate (5), onclick (2), toggleform (1), userstate (1), settoggleform (1)
 > **UI Navigation:** toggle (4), click on (2)
 > **CLI Commands:** make (1)
@@ -1467,7 +1467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), default, (1), function (1), this, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), data (1)
 > **Code Identifiers:** usestate (3), togglesort (2), settogglesort (2), onclick (2)
 > **UI Navigation:** toggle (6), dropdown (2), click on (1)
 > **Analogies:** similar to (1), it's like (1)
@@ -1478,7 +1478,7 @@ created: 2026-04-29
 
 ### 4. Mutating Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### useEffect and useCallback Hooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980)
@@ -1609,7 +1609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), public (3), pass (2), delete (1)
+> **Frameworks & Libraries:** data (26), [[JSON]] (6), [[React.js|React]] (6), [[Fetch]] (6), api (5)
 > **Code Identifiers:** useeffect (8), usestate (3), usecallback (3), fetchdata (2)
 > **Env Vars:** json (6), api (5), rest (1), url (1), dom (1)
 > **CLI Commands:** make (4)
@@ -1664,7 +1664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), pass (3), case, (2), delete (1)
+> **Frameworks & Libraries:** data (3), management (1), [[JavaScript]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ondeleteappointment (1), usestate (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1739,8 +1739,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), [[JavaScript]] (2)
 > **Code Identifiers:** onquerychange (5), petname (4), setquery (2), appointmentlist (2), onchange (1)
-> **Code Keywords:** let (2), function (2), pass (2), module (1), return, (1)
 > **CLI Commands:** make (3), cat (1)
 > **Definitions:** means that (3)
 > **UI Navigation:** go to (1)
@@ -1839,8 +1839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[JavaScript]] (3), application (2), hit (1)
 > **Code Identifiers:** petname (5), sortby (3), orderby (3), setsortby (2), tolowercase (2)
-> **Code Keywords:** let (7), function (3), interface (2), module (1), default, (1)
 > **Cross-References:** in the next (2)
 > **File Paths:** app.js (1)
 > **CLI Commands:** make (1)
@@ -1920,8 +1920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), next (1)
 > **Code Identifiers:** orderby (3), onorderbychange (3), mysort (3), sortby (3), onsortbychange (2)
-> **Code Keywords:** pass (5), let (4), switch (3), this, (1)
 > **UI Navigation:** dropdown (5), click on (2), toggle (1)
 > **CLI Commands:** make (4)
 > **File Paths:** app.js (1)
@@ -2157,8 +2157,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), data (2), feature (1), database (1), [[JSON]] (1)
 > **Code Identifiers:** formdata (10), lastid (8), ownername (6), apttime (4), onsendappointment (4)
-> **Code Keywords:** pass (22), let (9), function (5), this, (2), super (1)
 > **CLI Commands:** make (6)
 > **Definitions:** means that (2), is called (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -2169,7 +2169,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980)
@@ -2200,6 +2200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[LinkedIn]] (3), application (1), [[Search]] (1), [[React.js]] (1)
 > **Documentation:** the documentation (2), the docs (1)
 > **File Paths:** react.js (1), vue.js (1)
 > **CLI Commands:** make (2)

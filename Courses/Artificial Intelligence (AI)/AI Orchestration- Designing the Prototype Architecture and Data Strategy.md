@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Designing%20the%20Prototype%20Architecture%20and%20Data%20Strategy.md)
@@ -54,41 +54,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Course introduction
-  - Course overview
-  - AI orchestration overview
+  - [Course introduction](#course-introduction)
+  - [Course overview](#course-overview)
+  - [AI orchestration overview](#ai-orchestration-overview)
 - [**1. Prompt Engineering Fundamentals**](#1-prompt-engineering-fundamentals) (3 videos)
-  - Prompt engineering pyramid
-  - Chain of thought prompt Rust
-  - Chain of thought Rust prompt demo
+  - [Prompt engineering pyramid](#prompt-engineering-pyramid)
+  - [Chain of thought prompt Rust](#chain-of-thought-prompt-rust)
+  - [Chain of thought Rust prompt demo](#chain-of-thought-rust-prompt-demo)
 - [**2. AI Systems and Architecture**](#2-ai-systems-and-architecture) (4 videos)
-  - Explaining chain of thought Rust prompt
-  - Caching for AI
-  - Optimizing local RAG
-  - Local vs. cloud models
+  - [Explaining chain of thought Rust prompt](#explaining-chain-of-thought-rust-prompt)
+  - [Caching for AI](#caching-for-ai)
+  - [Optimizing local RAG](#optimizing-local-rag)
+  - [Local vs. cloud models](#local-vs-cloud-models)
 - [**3. Tools and Implementation**](#3-tools-and-implementation) (16 videos)
-  - Llamafile getting started Gemma
-  - Llamafile simple
-  - Rust "hello world" project structure
-  - AWS spot deploy ML
-  - Hugging Face workflow models
-  - GitHub AI models workflow
-  - Ollama local demo
-  - Technical training approaches
-  - Ollama modelfile rust debugger
-  - Effective AI engineering learning
-  - AI orchestration local workstation
-  - Using TMUX on Linux
-  - Using NVIDIA-SMI
-  - Ollama architecture
-  - Using Zenith GPU monitoring
-  - Compiling Rust candle GPU
+  - [Llamafile getting started Gemma](#llamafile-getting-started-gemma)
+  - [Llamafile simple](#llamafile-simple)
+  - [Rust "hello world" project structure](#rust-hello-world-project-structure)
+  - [AWS spot deploy ML](#aws-spot-deploy-ml)
+  - [Hugging Face workflow models](#hugging-face-workflow-models)
+  - [GitHub AI models workflow](#github-ai-models-workflow)
+  - [Ollama local demo](#ollama-local-demo)
+  - [Technical training approaches](#technical-training-approaches)
+  - [Ollama modelfile rust debugger](#ollama-modelfile-rust-debugger)
+  - [Effective AI engineering learning](#effective-ai-engineering-learning)
+  - [AI orchestration local workstation](#ai-orchestration-local-workstation)
+  - [Using TMUX on Linux](#using-tmux-on-linux)
+  - [Using NVIDIA-SMI](#using-nvidia-smi)
+  - [Ollama architecture](#ollama-architecture)
+  - [Using Zenith GPU monitoring](#using-zenith-gpu-monitoring)
+  - [Compiling Rust candle GPU](#compiling-rust-candle-gpu)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (3), [[Orchestration]] (2), [[Hardware]] (1), [[Generative AI]] (1), [[Hugging Face]] (1)
 > **Tools:** github (1)
 > **Speakers:** - hi (1)
 
@@ -150,7 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (7), [[Orchestration]] (4), data (2)
 > **Speakers:** - [instructor] (1)
 
 #### AI orchestration overview
@@ -312,8 +312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (7), management (6), [[Security]] (6), [[Orchestration]] (5)
 > **Env Vars:** gpu (7), cpu (4), api (4), json (1), csv (1)
-> **Code Keywords:** let (8), switch (1), this, (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
@@ -323,7 +323,7 @@ created: 2026-04-29
 
 ### 1. Prompt Engineering Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt engineering pyramid
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980)
@@ -386,8 +386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), data (1), next (1), product (1), feature (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** this, (1), let (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cli (1)
 > **Cross-References:** we talked about (1)
@@ -490,7 +490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this. (2), struct (1), let (1), type. (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (9), prompt (6), [[Prompt Engineering]] (1), [[Control Flow]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ffi (1)
 > **Definitions:** is a  (1)
@@ -645,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (3), this. (3), pass (2), this, (1)
+> **Frameworks & Libraries:** prompt (8), [[Rust (Programming Language)|Rust]] (6), [[Ollama]] (4), [[CLI]] (2), next (1)
 > **CLI Commands:** cargo (7), make (3)
 > **Env Vars:** cli (2), env (1), gpu (1)
 > **Tools:** terminal (2), command line (1)
@@ -657,7 +657,7 @@ created: 2026-04-29
 
 ### 2. AI Systems and Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining chain of thought Rust prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980)
@@ -710,7 +710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), else. (1)
+> **Frameworks & Libraries:** prompt (4), [[Rust (Programming Language)|Rust]] (3), ai (1), [[CLI]] (1), next (1)
 > **Env Vars:** cli (1), env (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
@@ -787,8 +787,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Redis]] (2), [[Memory Management]] (2), hit (2), api (1)
 > **Env Vars:** ttl (5), api (1), lru (1)
-> **Code Keywords:** case, (2), let (1), delete (1), finally, (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
 > **Warnings:** be aware (1)
@@ -854,8 +854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (3), [[Rust (Programming Language)|Rust]] (2), [[GitHub]] (2), api (2), [[Generative AI]] (1)
 > **Env Vars:** gpu (5), rag (3), api (2), rtx (1), cuda (1)
-> **Code Keywords:** let (4), finally, (2), case, (1), interface (1)
 > **Prerequisites:** setup (3)
 > **Tools:** github (2)
 > **CLI Commands:** make (1)
@@ -977,7 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), else. (1), for, (1), interface (1)
+> **Frameworks & Libraries:** data (7), cloud (5), [[Privacy]] (4), [[Scalability]] (3), [[Hardware]] (2)
 > **Analogies:** for example (2)
 > **Env Vars:** gpu (1)
 > **Speakers:** - [speaker] (1)
@@ -985,7 +985,7 @@ created: 2026-04-29
 
 ### 3. Tools and Implementation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Llamafile getting started Gemma
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980)
@@ -1052,7 +1052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), this, (1), require (1), function (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[LLaMA]] (2), prompt (2), ai (2), [[GitHub]] (1)
 > **CLI Commands:** curl (3), chmod (1), python (1)
 > **Env Vars:** cpu (1), gpu (1), api (1)
 > **Tools:** github (1), terminal (1)
@@ -1108,8 +1108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), web (2), data (2), [[Large Language Models (LLM)|Large language models]] (1), [[Privacy]] (1)
 > **Env Vars:** api (3), gpu (1), http (1)
-> **Code Keywords:** interface (1), default. (1), pass (1), function (1)
 > **CLI Commands:** wget (1), curl (1), python (1)
 > **Analogies:** think of it like (1), for example (1)
 > **URLs:** [localhost:8080](https://localhost:8080) (1)
@@ -1146,9 +1146,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Metadata]] (2), [[Package Management]] (1), [[Version Control]] (1)
 > **CLI Commands:** cargo (8)
 > **File Paths:** cargo.toml (2), source/main.rs (1)
-> **Code Keywords:** function (2), let (1)
 > **Warnings:** keep in mind (1), note that (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -1209,9 +1209,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), aws (1), [[Security]] (1), traffic (1), [[Batch Processing]] (1)
 > **Env Vars:** gpu (3), aws (1), vpc (1), iam (1), ecr (1)
 > **CLI Commands:** docker (2), aws (1), az (1), terraform (1)
-> **Code Keywords:** let (2), finally, (2), default, (1)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1248,7 +1248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (1)
+> **Frameworks & Libraries:** data (5), [[Hugging Face]] (3), next (2), api (2), [[GitHub]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (2)
 > **Tools:** github (1)
@@ -1308,8 +1308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[GitHub]] (3), [[Hugging Face]] (2), management (2), [[Microsoft Copilot|Copilot]] (2)
 > **Tools:** github (3), vs code (1)
-> **Code Keywords:** from. (1), switch (1)
 > **Env Vars:** api (1), sdk (1)
 > **Documentation:** specification (1)
 > **Prerequisites:** setup (1)
@@ -1464,7 +1464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (3), super (3), function (2), this, (2)
+> **Frameworks & Libraries:** [[Ollama]] (12), data (2), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), power (2)
 > **Env Vars:** gpu (4), rtx (1), ram (1)
 > **CLI Commands:** python (2), docker (1)
 > **Tools:** terminal (3)
@@ -1526,7 +1526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), self (1), this, (1)
+> **Frameworks & Libraries:** strengths (3), [[Python (Programming Language)|Python]] (1), [[Rust (Programming Language)|Rust]] (1), [[Large Language Models (LLM)|Large language models]] (1), aws (1)
 > **CLI Commands:** python (1), aws (1)
 > **Analogies:** for example (2)
 > **Env Vars:** aws (1)
@@ -1665,7 +1665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (1), new, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Ollama]] (8), next (2), prompt (2), [[Debugging]] (1)
 > **CLI Commands:** cargo (4), docker (1), cd (1), make (1)
 > **Tools:** intellij (1), command line (1), terminal (1)
 > **Definitions:** is a  (3)
@@ -1733,7 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2)
+> **Frameworks & Libraries:** ai (4), [[Engineering]] (4), [[MLOps]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1812,7 +1812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), lambda (3), case, (1)
+> **Frameworks & Libraries:** ai (6), [[Microsoft Office|Office]] (2), power (2), [[Engineering]] (1), [[Orchestration]] (1)
 > **Env Vars:** rtx (2), ram (2), amd (1), vram (1), ddr (1)
 > **Definitions:** is an  (1), means that (1)
 > **Versions:** 5.3 (1)
@@ -1958,7 +1958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (2), this, (1), function (1)
+> **Frameworks & Libraries:** [[Windows]] (6), next (4), [[Ollama]] (3), [[Linux]] (2), management (1)
 > **Env Vars:** tmux (6), gpu (6), nvidia (1), cpu (1)
 > **Tools:** terminal (8)
 > **UI Navigation:** go to (4), toggle (2)
@@ -2062,8 +2062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), [[Scripting]] (1), [[Rust (Programming Language)|Rust]] (1), [[Large Language Models (LLM)|Large language models]] (1), data (1)
 > **Env Vars:** gpu (8), csv (4), rtx (1)
-> **Code Keywords:** let (2), case, (2), this, (1), this. (1)
 > **UI Navigation:** toggle (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -2114,6 +2114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ollama]] (3), [[Representational State Transfer (REST)|Rest]] (2), api (2), [[Security]] (2), management (1)
 > **Env Vars:** rest (2), api (2), ggml (1), gguf (1), cli (1)
 > **CLI Commands:** docker (2)
 > **Definitions:** is a  (2)
@@ -2194,8 +2195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ollama]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Rust (Programming Language)|Rust]] (1), [[Real-Time]] (1), ai (1)
 > **Env Vars:** cpu (5), nvidia (4), gpu (3)
-> **Code Keywords:** let (3), this, (3), interface (2), case, (1), this. (1)
 > **Analogies:** for example (5)
 > **Tools:** terminal (3)
 > **Prerequisites:** install (3)
@@ -2308,7 +2309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), this, (1), pass (1), super (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), prompt (2), [[Git]] (1), [[GitHub]] (1), hit (1)
 > **Env Vars:** gpu (8), readme (2), cpu (2), cuda (2)
 > **CLI Commands:** git (1), cargo (1), make (1)
 > **UI Navigation:** go to (2)
@@ -2320,7 +2321,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980)
@@ -2367,9 +2368,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Engineering]] (2), [[Hardware]] (2), [[Orchestration]] (1), [[Ollama]] (1)
 > **Env Vars:** api (1), gpu (1), rtx (1), vram (1), cuda (1)
 > **Cross-References:** we talked about (2), we covered (1)
-> **Code Keywords:** let (2)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

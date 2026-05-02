@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/tableau
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Tableau%20Desktop.md)
@@ -46,106 +46,106 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Getting Started**](#getting-started) (2 videos)
-  - Course structure and outline
-  - Introducing the course project
+  - [Course structure and outline](#course-structure-and-outline)
+  - [Introducing the course project](#introducing-the-course-project)
 - [**1. Relationships**](#1-relationships) (20 videos)
-  - Relationships
-  - Logical and physical layers
-  - Relationships vs. joins
-  - Requirements for relationships
-  - Creating relationships
-  - Optimizing performance
-  - Multi-fact relationships
-  - Interface differences (2020.2)
-  - The 8 R's of relationships
-  - Contextual joins: Remain
-  - Contextual joins: Relevant
-  - Contextual joins: Retain
-  - Contextual joins: Recovered
-  - Contextual joins: Represented
-  - Contextual joins: Removed
-  - Smart aggregation
-  - Smart aggregation: Replicate
-  - Smart aggregation: Resolve
-  - Assignment: Relationships
-  - Solution: Relationships
+  - [Relationships](#relationships)
+  - [Logical and physical layers](#logical-and-physical-layers)
+  - [Relationships vs. joins](#relationships-vs-joins)
+  - [Requirements for relationships](#requirements-for-relationships)
+  - [Creating relationships](#creating-relationships)
+  - [Optimizing performance](#optimizing-performance)
+  - [Multi-fact relationships](#multi-fact-relationships)
+  - [Interface differences (2020.2)](#interface-differences-20202)
+  - [The 8 R's of relationships](#the-8-rs-of-relationships)
+  - [Contextual joins: Remain](#contextual-joins-remain)
+  - [Contextual joins: Relevant](#contextual-joins-relevant)
+  - [Contextual joins: Retain](#contextual-joins-retain)
+  - [Contextual joins: Recovered](#contextual-joins-recovered)
+  - [Contextual joins: Represented](#contextual-joins-represented)
+  - [Contextual joins: Removed](#contextual-joins-removed)
+  - [Smart aggregation](#smart-aggregation)
+  - [Smart aggregation: Replicate](#smart-aggregation-replicate)
+  - [Smart aggregation: Resolve](#smart-aggregation-resolve)
+  - [Assignment: Relationships](#assignment-relationships)
+  - [Solution: Relationships](#solution-relationships)
 - [**2. Dynamic Design**](#2-dynamic-design) (12 videos)
-  - Dynamic design
-  - Visual appeal
-  - Background templates
-  - KPI shapes
-  - Info icons
-  - Instructions and commentary
-  - Flexibility
-  - Multi-dimensions
-  - Multi-measures
-  - Pro tip: Dynamic formatting
-  - Sheet selectors
-  - Filter menus
+  - [Dynamic design](#dynamic-design)
+  - [Visual appeal](#visual-appeal)
+  - [Background templates](#background-templates)
+  - [KPI shapes](#kpi-shapes)
+  - [Info icons](#info-icons)
+  - [Instructions and commentary](#instructions-and-commentary)
+  - [Flexibility](#flexibility)
+  - [Multi-dimensions](#multi-dimensions)
+  - [Multi-measures](#multi-measures)
+  - [Pro tip: Dynamic formatting](#pro-tip-dynamic-formatting)
+  - [Sheet selectors](#sheet-selectors)
+  - [Filter menus](#filter-menus)
 - [**3. Parameter and Set Actions**](#3-parameter-and-set-actions) (15 videos)
-  - Interactivity
-  - Parameter actions
-  - Parameter actions: Multi-measure
-  - Parameter actions: Index chart
-  - Parameter actions: Year-over-year
-  - Parameter actions: Sheet selector
-  - Parameter actions: Relative dimensional analysis
-  - Set actions
-  - Set actions: Proportional brushing
-  - Set actions: Asymmetric drilldown
-  - Set actions: Color scaling
-  - Pro tip: Viz animations
-  - Pro tip: Viz extensions
-  - Assignment: Dynamic design and actions
-  - Solution: Dynamic design and actions
+  - [Interactivity](#interactivity)
+  - [Parameter actions](#parameter-actions)
+  - [Parameter actions: Multi-measure](#parameter-actions-multi-measure)
+  - [Parameter actions: Index chart](#parameter-actions-index-chart)
+  - [Parameter actions: Year-over-year](#parameter-actions-year-over-year)
+  - [Parameter actions: Sheet selector](#parameter-actions-sheet-selector)
+  - [Parameter actions: Relative dimensional analysis](#parameter-actions-relative-dimensional-analysis)
+  - [Set actions](#set-actions)
+  - [Set actions: Proportional brushing](#set-actions-proportional-brushing)
+  - [Set actions: Asymmetric drilldown](#set-actions-asymmetric-drilldown)
+  - [Set actions: Color scaling](#set-actions-color-scaling)
+  - [Pro tip: Viz animations](#pro-tip-viz-animations)
+  - [Pro tip: Viz extensions](#pro-tip-viz-extensions)
+  - [Assignment: Dynamic design and actions](#assignment-dynamic-design-and-actions)
+  - [Solution: Dynamic design and actions](#solution-dynamic-design-and-actions)
 - [**4. Geospatial Mapping**](#4-geospatial-mapping) (16 videos)
-  - Geospatial mapping
-  - Geospatial data
-  - The mapping workspace
-  - Geospatial use cases
-  - Standard maps
-  - Spatial functions
-  - Custom territories
-  - Map hierarchies
-  - Geospatial customization
-  - Map layers
-  - Background maps: WMS
-  - Background maps: Mapbox
-  - Background images
-  - Common mapping issues
-  - Assignment: Geospatial mapping
-  - Solution: Geospatial mapping
+  - [Geospatial mapping](#geospatial-mapping)
+  - [Geospatial data](#geospatial-data)
+  - [The mapping workspace](#the-mapping-workspace)
+  - [Geospatial use cases](#geospatial-use-cases)
+  - [Standard maps](#standard-maps)
+  - [Spatial functions](#spatial-functions)
+  - [Custom territories](#custom-territories)
+  - [Map hierarchies](#map-hierarchies)
+  - [Geospatial customization](#geospatial-customization)
+  - [Map layers](#map-layers)
+  - [Background maps: WMS](#background-maps-wms)
+  - [Background maps: Mapbox](#background-maps-mapbox)
+  - [Background images](#background-images)
+  - [Common mapping issues](#common-mapping-issues)
+  - [Assignment: Geospatial mapping](#assignment-geospatial-mapping)
+  - [Solution: Geospatial mapping](#solution-geospatial-mapping)
 - [**5. Advanced Calculations**](#5-advanced-calculations) (15 videos)
-  - Advanced calculations
-  - Regular expressions
-  - Regular expressions functions
-  - Review: Table calculations
-  - Review: Addressing and partitioning
-  - Position-based table calculations functions
-  - Pro tip: Index top filter
-  - Review: Level of detail expressions
-  - Choosing an LOD type
-  - LOD use case: Benchmarking and time flags
-  - LOD use case: Customer order frequency
-  - LOD use case: Cohort analysis
-  - LOD use case: New customer acquisition
-  - Assignment: Advanced calculations
-  - Solution: Advanced calculations
+  - [Advanced calculations](#advanced-calculations)
+  - [Regular expressions](#regular-expressions)
+  - [Regular expressions functions](#regular-expressions-functions)
+  - [Review: Table calculations](#review-table-calculations)
+  - [Review: Addressing and partitioning](#review-addressing-and-partitioning)
+  - [Position-based table calculations functions](#position-based-table-calculations-functions)
+  - [Pro tip: Index top filter](#pro-tip-index-top-filter)
+  - [Review: Level of detail expressions](#review-level-of-detail-expressions)
+  - [Choosing an LOD type](#choosing-an-lod-type)
+  - [LOD use case: Benchmarking and time flags](#lod-use-case-benchmarking-and-time-flags)
+  - [LOD use case: Customer order frequency](#lod-use-case-customer-order-frequency)
+  - [LOD use case: Cohort analysis](#lod-use-case-cohort-analysis)
+  - [LOD use case: New customer acquisition](#lod-use-case-new-customer-acquisition)
+  - [Assignment: Advanced calculations](#assignment-advanced-calculations)
+  - [Solution: Advanced calculations](#solution-advanced-calculations)
 - [**6. Predictive Analytics**](#6-predictive-analytics) (10 videos)
-  - Predictive analytics
-  - Regression models
-  - Trend lines
-  - Forecasting
-  - Control charts
-  - Clustering
-  - R and Python integration
-  - Dashboard extensions
-  - Assignment: Geospatial mapping
-  - Solution: Geospatial mapping
+  - [Predictive analytics](#predictive-analytics)
+  - [Regression models](#regression-models)
+  - [Trend lines](#trend-lines)
+  - [Forecasting](#forecasting)
+  - [Control charts](#control-charts)
+  - [Clustering](#clustering)
+  - [R and Python integration](#r-and-python-integration)
+  - [Dashboard extensions](#dashboard-extensions)
+  - [Assignment: Geospatial mapping](#assignment-geospatial-mapping)
+  - [Solution: Geospatial mapping](#solution-geospatial-mapping)
 
 ### Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course structure and outline
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980)
@@ -176,7 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), data (3), [[Predictive Analytics]] (1), [[Analytics]] (1), bi (1)
 > **Env Vars:** fema (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [dustin] (1)
@@ -242,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1)
+> **Frameworks & Libraries:** [[Analytics]] (11), [[Tableau]] (4), data (3), [[Predictive Analytics]] (2), bi (1)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -250,7 +250,7 @@ created: 2026-04-29
 
 ### 1. Relationships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980)
@@ -287,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** data (11), [[Tableau]] (5), next (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
@@ -347,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1)
+> **Frameworks & Libraries:** data (9), [[Tableau]] (4), [[Analytics]] (1)
 > **Versions:** version 2020 (1), 2020.2 (1)
 > **UI Navigation:** double-click (1)
 > **Best Practices:** pro tip (1)
@@ -389,7 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1)
+> **Frameworks & Libraries:** data (3), [[Security]] (1), next (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -431,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2), interface (1)
+> **Frameworks & Libraries:** data (6), [[Tableau]] (2), database (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -576,7 +576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), for. (2), public (1)
+> **Frameworks & Libraries:** [[Tableau]] (15), data (11), next (9), product (5), [[Search]] (2)
 > **Env Vars:** json (1), sap (1), hana (1), olap (1)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Warnings:** note that (3)
@@ -634,7 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), match, (1), default, (1)
+> **Frameworks & Libraries:** data (8), [[Tableau]] (7), next (1)
 > **Warnings:** note that (2), be careful (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2020.2 (1)
@@ -749,7 +749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), super (1), finally, (1)
+> **Frameworks & Libraries:** data (18), [[Tableau]] (6), product (3)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -831,8 +831,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Tableau]] (7), next (1)
 > **Versions:** 2020.2 (15)
-> **Code Keywords:** let (4), interface (4), finally, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -867,6 +867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -947,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), match, (1), this, (1)
+> **Frameworks & Libraries:** data (4), [[Tableau]] (3), hit (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
@@ -1002,7 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** next (6), data (2), [[Tableau]] (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1061,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (1), from. (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), next (2), data (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** click on (1)
@@ -1108,7 +1109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), from, (1), let (1)
+> **Frameworks & Libraries:** next (2), [[Tableau]] (2), hit (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1155,7 +1156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (1), function (1), type, (1)
+> **Frameworks & Libraries:** next (4), [[Tableau]] (2)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [presenter] (1)
@@ -1203,7 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), hit (1), next (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1323,7 +1324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), public (4), delete (1)
+> **Frameworks & Libraries:** data (13), [[Tableau]] (9), next (4), product (2), [[Data Manipulation]] (1)
 > **UI Navigation:** click on (9)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
@@ -1397,7 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), next (2), data (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** scroll up (1)
 > **Definitions:** means that (1)
@@ -1448,9 +1449,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (3), data (1), next (1)
 > **UI Navigation:** right-click (1), go to (1), dropdown (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1479,7 +1480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (6), next (1), business (1), product (1), [[Tableau]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1732,7 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this, (2), pub (1), public (1), default, (1)
+> **Frameworks & Libraries:** next (19), [[Tableau]] (5), data (4), [[Microsoft Excel|Excel]] (2), hit (2)
 > **UI Navigation:** click on (5), go to (2), select the (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** id1 (1), id2 (1), isbn (1)
@@ -1743,7 +1744,7 @@ created: 2026-04-29
 
 ### 2. Dynamic Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic design
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/dynamic-design?u=76281980)
@@ -1768,8 +1769,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Visual appeal
@@ -1799,6 +1800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Analytics]] (1), [[Forms]] (1), data (1)
 > **Env Vars:** kpi (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
@@ -1946,7 +1948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (18), [[Tableau]] (9), [[Dashboards]] (3), data (2), [[Graphic Design]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Env Vars:** kpi (2)
 > **Cross-References:** go back to (1), we mentioned (1)
@@ -2129,7 +2131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (7), finally, (1), else. (1), public (1)
+> **Frameworks & Libraries:** [[Tableau]] (7), next (6), hit (5), [[Search]] (2), data (1)
 > **CLI Commands:** make (11)
 > **UI Navigation:** click on (4), select the (3), go to (2)
 > **Env Vars:** kpi (3)
@@ -2359,7 +2361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), this. (3), delete (3), super (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), hit (8), next (6), [[Tableau]] (3), [[Dashboards]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (2), go to (2), switch to (1), navigate to (1)
 > **Env Vars:** png (2), kpi (1)
@@ -2415,7 +2417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), case, (1), switch (1)
+> **Frameworks & Libraries:** next (2), [[Analytics]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Dashboards]] (1)
 > **Cross-References:** we mentioned (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** note that (1)
@@ -2678,7 +2680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), case. (1), type. (1), delete (1)
+> **Frameworks & Libraries:** product (11), hit (7), [[Tableau]] (4), next (4), data (1)
 > **UI Navigation:** click on (3), go to (3), dropdown (2), select the (1)
 > **Env Vars:** case (6), datename (1)
 > **CLI Commands:** make (2), snap (1)
@@ -2955,8 +2957,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), hit (4), [[Tableau]] (3), power (1), data (1)
 > **Env Vars:** yoy (8), sum (5), case (4), end (4), countd (3)
-> **Code Keywords:** let (8), case, (5), super (2)
 > **CLI Commands:** make (8), find (1)
 > **UI Navigation:** right-click (5)
 > **Analogies:** just like (2), for example (1), similar to (1)
@@ -3253,7 +3255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (3), switch (3), case, (2), type. (1)
+> **Frameworks & Libraries:** next (6), hit (4), [[Tableau]] (3), [[Search]] (1)
 > **CLI Commands:** make (10), find (1)
 > **UI Navigation:** click on (2), switch to (2)
 > **Best Practices:** pro tip (2)
@@ -3659,7 +3661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), delete (5), case, (4), type. (2), this, (2)
+> **Frameworks & Libraries:** next (13), hit (11), [[Tableau]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (9), find (6)
 > **UI Navigation:** click on (5), go to (2), switch to (1)
 > **Cross-References:** we talked about (1), we mentioned (1)
@@ -3832,7 +3834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default, (1), delete (1), throw (1)
+> **Frameworks & Libraries:** hit (6), [[Tableau]] (3), next (3), data (1)
 > **UI Navigation:** go to (6), select the (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** make (3)
@@ -3843,7 +3845,7 @@ created: 2026-04-29
 
 ### 3. Parameter and Set Actions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Interactivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/interactivity?u=76281980)
@@ -3872,7 +3874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), let (1)
+> **Frameworks & Libraries:** next (3), business (2)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [presenter] (1)
@@ -3928,8 +3930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** dropdown (2), go to (2)
-> **Code Keywords:** from. (2), let (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -4046,7 +4048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), interface (1)
+> **Frameworks & Libraries:** hit (7), next (3), [[Tableau]] (2)
 > **Env Vars:** ban (8), kpi (1)
 > **UI Navigation:** dropdown (2), select the (2), go to (2), click on (2)
 > **CLI Commands:** make (2), find (1)
@@ -4275,8 +4277,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), hit (5), [[Tableau]] (4), data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (10), click on (7), dropdown (3), scroll down (2)
-> **Code Keywords:** let (10), this, (1), from. (1), switch (1)
 > **CLI Commands:** make (5), find (1)
 > **Ports:** :00 (1)
 > **Definitions:** is a  (1)
@@ -4688,7 +4690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), this. (4), delete (2), else. (2), override (1)
+> **Frameworks & Libraries:** hit (16), next (10), data (7), [[Tableau]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (13), right-click (11), click on (9), dropdown (1)
 > **CLI Commands:** make (16), find (2)
 > **Cross-References:** go back to (5)
@@ -4904,7 +4906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), from. (1), case. (1), this, (1)
+> **Frameworks & Libraries:** next (5), product (3), hit (3), data (2), [[Tableau]] (1)
 > **UI Navigation:** click on (10), go to (3)
 > **CLI Commands:** make (2)
 > **Analogies:** kind of like (1), just like (1)
@@ -4958,7 +4960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[SQL]] (1)
 > **Prerequisites:** you need to have (1), set up (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
@@ -5388,7 +5390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (39), case, (3), switch (2), else, (2), require (1)
+> **Frameworks & Libraries:** product (13), next (8), hit (8), [[Tableau]] (4), data (2)
 > **UI Navigation:** click on (13), right-click (11), go to (5), double-click (2), select the (1)
 > **CLI Commands:** make (12), snap (1)
 > **Cross-References:** go back to (3), we mentioned (1)
@@ -5538,7 +5540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), default, (1)
+> **Frameworks & Libraries:** product (15), next (5), [[Tableau]] (3), hit (2), data (1)
 > **UI Navigation:** click on (8), go to (3)
 > **Speakers:** - [instructor] (1)
 
@@ -5733,7 +5735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), finally, (1), case, (1), include, (1), super (1)
+> **Frameworks & Libraries:** hit (10), next (6), product (3), data (2), [[Tableau]] (2)
 > **UI Navigation:** click on (4), go to (2), dropdown (1)
 > **Env Vars:** lod (3)
 > **CLI Commands:** find (2)
@@ -5841,7 +5843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), default, (1), catch, (1)
+> **Frameworks & Libraries:** data (2), [[Tableau]] (2), next (1)
 > **CLI Commands:** make (2)
 > **Versions:** 0.3 (1)
 > **UI Navigation:** go to (1)
@@ -5945,8 +5947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (12), data (9), web (2), hit (2), [[Analytics]] (2)
 > **UI Navigation:** go to (2), click on (2), double-click (2), dropdown (1)
-> **Code Keywords:** let (2), pass (1), from. (1)
 > **Prerequisites:** configure (2)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
@@ -5976,7 +5978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Analytics]] (2), career (2), data (1), functional (1), [[Search]] (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6493,7 +6495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (48), case, (2), delete (1), else, (1)
+> **Frameworks & Libraries:** hit (42), next (15), [[Tableau]] (1), prompt (1), application (1)
 > **UI Navigation:** go to (18), click on (5), dropdown (3), navigate to (2), scroll up (1)
 > **Env Vars:** case (4), median (4), end (2), fixed (2), else (2)
 > **CLI Commands:** find (4), make (2)
@@ -6504,7 +6506,7 @@ created: 2026-04-29
 
 ### 4. Geospatial Mapping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Geospatial mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-mapping?u=76281980)
@@ -6531,6 +6533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Tableau]] (4), next (1), business (1)
 > **Speakers:** - [instructor] (1)
 
 #### Geospatial data
@@ -6680,7 +6683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), type, (1), case, (1), default, (1)
+> **Frameworks & Libraries:** data (23), [[Tableau]] (6), [[Search]] (3), next (2), [[Forms]] (1)
 > **Env Vars:** zip (6), ban (1), dbfprg (1), shx (1)
 > **UI Navigation:** click on (7), go to (1)
 > **Definitions:** is a  (4), known as (1)
@@ -6866,7 +6869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), type, (1), for, (1), default, (1)
+> **Frameworks & Libraries:** [[Zoom]] (14), data (13), [[Tableau]] (8), next (6), [[Analytics]] (2)
 > **UI Navigation:** dropdown (2), click on (2)
 > **Env Vars:** wms (2)
 > **Definitions:** is a  (2)
@@ -6922,7 +6925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), data (1), [[Analytics]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -7185,7 +7188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (35), delete (3), type, (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** hit (11), next (10), [[Tableau]] (7), [[Search]] (5), data (3)
 > **CLI Commands:** make (10)
 > **UI Navigation:** go to (6), click on (4)
 > **Definitions:** is a  (2), known as (1)
@@ -7287,7 +7290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (1)
+> **Frameworks & Libraries:** next (3), [[Tableau]] (3), hit (3), [[Metadata]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -7362,7 +7365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Tableau]] (2), data (1), hit (1), next (1)
 > **UI Navigation:** go to (2), right-click (1), click on (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), just like (1)
@@ -7395,6 +7398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (3), next (2), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Map layers
@@ -7502,7 +7506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), require (2), case, (1)
+> **Frameworks & Libraries:** data (11), [[Tableau]] (5), next (2), [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** wms (1)
@@ -7589,8 +7593,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (7), hit (3), web (1), next (1)
 > **Env Vars:** wms (20), url (4), tms (2)
-> **Code Keywords:** let (8), switch (2), this, (1), from, (1)
 > **UI Navigation:** go to (6), dropdown (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -7701,7 +7705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (1), case, (1), override (1), continue (1)
+> **Frameworks & Libraries:** [[Tableau]] (8), next (4), hit (1), [[Dashboards]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** url (4)
 > **UI Navigation:** click on (1), dropdown (1), navigate to (1), go to (1)
@@ -7880,7 +7884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), delete (1)
+> **Frameworks & Libraries:** data (12), hit (11), product (7), [[Tableau]] (4), next (3)
 > **UI Navigation:** go to (5), right-click (1), dropdown (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -7916,8 +7920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (2), management (1), database (1), [[Tableau]] (1), data (1)
 > **Env Vars:** ndsp (2), fema (1)
-> **Code Keywords:** let (1), public (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Geospatial mapping
@@ -7926,7 +7930,7 @@ created: 2026-04-29
 
 ### 5. Advanced Calculations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced calculations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980)
@@ -7963,8 +7967,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), next (3), [[Tableau]] (2), [[Search]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Regular expressions
@@ -8116,7 +8120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), match. (2), match, (1), class. (1)
+> **Frameworks & Libraries:** [[Tableau]] (12), next (4), data (4), [[Microsoft Word|Word]] (3), [[Search]] (2)
 > **CLI Commands:** find (7)
 > **Env Vars:** replace (1), match (1), extract (1), extract_nth (1), icu (1)
 > **Definitions:** is a  (4), means that (1)
@@ -8496,7 +8500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (7), match, (5), super (3), for. (1)
+> **Frameworks & Libraries:** [[Tableau]] (12), data (12), hit (8), [[Microsoft Word|Word]] (5), product (5)
 > **CLI Commands:** find (5), make (4)
 > **Env Vars:** etl (2), regex (2), icu (2), json (1)
 > **UI Navigation:** click on (5), go to (1)
@@ -8598,7 +8602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), finally, (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), data (3), database (1), hit (1), next (1)
 > **UI Navigation:** right-click (3), click on (1), go to (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1)
@@ -8738,7 +8742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), this, (1), switch (1)
+> **Frameworks & Libraries:** data (4), next (3), [[Tableau]] (2), hit (1), generic (1)
 > **UI Navigation:** click on (6), go to (2), switch to (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
@@ -9102,8 +9106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (8), [[Tableau]] (6), next (6), hit (4), [[Analytics]] (2)
 > **Env Vars:** cagr (23), lookup (6), max (6), min (6), last (5)
-> **Code Keywords:** let (9), case, (2), this, (2), this. (1)
 > **UI Navigation:** go to (8), click on (5)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (4), known as (1), is called (1)
@@ -9298,8 +9302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Tableau]] (5), product (3), [[Troubleshooting]] (1), data (1)
 > **Env Vars:** top (26)
-> **Code Keywords:** function (8), let (6), this, (1), switch (1)
 > **UI Navigation:** go to (8), click on (1), dropdown (1)
 > **CLI Commands:** make (8), find (1)
 > **Definitions:** is a  (3)
@@ -9386,9 +9390,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (2), next (2)
 > **Env Vars:** lod (11)
 > **Definitions:** is called (2), means that (1), is a  (1)
-> **Code Keywords:** include, (2), let (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -9744,8 +9748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), hit (6), [[Tableau]] (3), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **Env Vars:** lod (31), ytd (8), sum (6), exclude (3), include (2)
-> **Code Keywords:** let (32), include. (3), function (3), type. (1), include, (1)
 > **UI Navigation:** right-click (8), click on (6), go to (4), double-click (2)
 > **CLI Commands:** make (5), find (4)
 > **Definitions:** is a  (6), is called (1), means that (1)
@@ -9936,7 +9940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case. (1)
+> **Frameworks & Libraries:** next (8), data (7), [[Tableau]] (2), hit (2), [[Search]] (2)
 > **Env Vars:** lod (5), fixed (4), max (3), case (1)
 > **UI Navigation:** go to (3), click on (3)
 > **CLI Commands:** make (4)
@@ -10116,7 +10120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (2), default. (1), finally, (1)
+> **Frameworks & Libraries:** hit (4), next (2), [[Tableau]] (2)
 > **UI Navigation:** click on (9), go to (2)
 > **Env Vars:** lod (5), a0cbe8 (1)
 > **CLI Commands:** make (4)
@@ -10434,7 +10438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), delete (3), new, (2), switch (2), new. (1)
+> **Frameworks & Libraries:** hit (15), next (8), [[Analytics]] (7), [[Tableau]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **UI Navigation:** click on (6), go to (6), switch to (1)
 > **Env Vars:** lod (3), iff (1), iif (1), bce4d8 (1)
 > **CLI Commands:** make (3), find (1)
@@ -10464,7 +10468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** data (2), [[Tableau]] (1)
 > **Env Vars:** bpd (1), cagr (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -10475,7 +10479,7 @@ created: 2026-04-29
 
 ### 6. Predictive Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980)
@@ -10506,6 +10510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Predictive Analytics]] (4), data (2), [[Python (Programming Language)|Python]] (2), [[Forecasting]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** matlab (2)
 > **Cross-References:** in the next (1)
@@ -10578,6 +10583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (6), data (5), power (4), application (3), [[Linear Regression]] (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -10740,8 +10746,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (5), [[Tableau]] (4), [[Analytics]] (2), [[Predictive Analytics]] (2)
 > **UI Navigation:** go to (5), click on (4), right-click (2)
-> **Code Keywords:** let (5), this, (2), require (1), this. (1), function (1)
 > **Definitions:** is a  (2), is an  (2), is called (1), means that (1)
 > **Versions:** 0.5 (1), 0.05 (1), 0.04 (1), 0.07 (1)
 > **Env Vars:** datediff (2), abc (1)
@@ -10844,8 +10850,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (12), [[Forecasting]] (9), data (8), [[Analytics]] (3), [[Algorithms]] (2)
 > **UI Navigation:** go to (3), click on (2), select the (1)
-> **Code Keywords:** let (3), type, (1), default, (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
@@ -11108,7 +11114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (1), for, (1)
+> **Frameworks & Libraries:** next (10), business (4), [[Tableau]] (4), [[Analytics]] (3), hit (2)
 > **UI Navigation:** go to (4), click on (4), scroll down (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** f0bd27 (1), c8c8c8 (1)
@@ -11374,7 +11380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), finally, (1), else, (1)
+> **Frameworks & Libraries:** data (7), [[Analytics]] (6), product (6), next (6), [[Tableau]] (5)
 > **UI Navigation:** go to (6), select the (1), click on (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), is called (1)
 > **CLI Commands:** make (2), find (1), python (1)
@@ -11416,8 +11422,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (9), [[Python (Programming Language)|Python]] (6), [[Programming]] (1), game (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** python (6)
-> **Code Keywords:** require (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
@@ -11456,7 +11462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), require (2), type . (1), finally, (1), from. (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), data (2), web (1), [[Dashboards]] (1), [[Security]] (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -11484,6 +11490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Predictive Analytics]] (2), [[Tableau]] (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -11685,8 +11692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (12), hit (7), [[Analytics]] (6), data (6), [[Predictive Analytics]] (2)
 > **UI Navigation:** go to (10), click on (6), select the (1)
-> **Code Keywords:** let (16)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** picture (2)

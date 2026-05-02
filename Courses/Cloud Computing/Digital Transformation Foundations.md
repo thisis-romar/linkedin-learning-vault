@@ -20,7 +20,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Transformation%20Foundations.md)
@@ -39,29 +39,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - From Physical to Digital with AI, IoT, and Digital Twins
+  - [From Physical to Digital with AI, IoT, and Digital Twins](#from-physical-to-digital-with-ai-iot-and-digital-twins)
 - [**1. Smart Digital Transformation**](#1-smart-digital-transformation) (3 videos)
-  - What is digital transformation?
-  - Why digitally transform?
-  - The smart macro trends
+  - [What is digital transformation?](#what-is-digital-transformation)
+  - [Why digitally transform?](#why-digitally-transform)
+  - [The smart macro trends](#the-smart-macro-trends)
 - [**2. Smart Digital Transformation Technology**](#2-smart-digital-transformation-technology) (6 videos)
-  - Tech overview
-  - Digital twin
-  - Internet of Things
-  - Machine learning and generative AI
-  - Extended reality
-  - Blockchain
+  - [Tech overview](#tech-overview)
+  - [Digital twin](#digital-twin)
+  - [Internet of Things](#internet-of-things)
+  - [Machine learning and generative AI](#machine-learning-and-generative-ai)
+  - [Extended reality](#extended-reality)
+  - [Blockchain](#blockchain)
 - [**3. Design a Smart Product or Architect Smart Operations**](#3-design-a-smart-product-or-architect-smart-operations) (4 videos)
-  - Identifying value
-  - Design
-  - Sell
-  - Build
+  - [Identifying value](#identifying-value)
+  - [Design](#design)
+  - [Sell](#sell)
+  - [Build](#build)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Main takeaways
+  - [Main takeaways](#main-takeaways)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From Physical to Digital with AI, IoT, and Digital Twins
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980)
@@ -84,14 +84,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), private (1), public (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Digital Transformation]] (2), ai (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Blockchain]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [bruce] (1)
 
 
 ### 1. Smart Digital Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is digital transformation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980)
@@ -166,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Digital Transformation]] (5), [[Automation]] (4), data (4), [[Internet of Things (IoT)|Internet of things]] (3)
 > **Env Vars:** crm (1), plm (1), cad (1), rpa (1), b2b (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** make (3)
@@ -173,7 +174,6 @@ created: 2026-04-29
 > **Versions:** 4.0 (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
-> **Speakers:** - [instructor] (1)
 
 #### Why digitally transform?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980)
@@ -232,8 +232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), product (5), data (5), business (4), [[Digital Transformation]] (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - the (1)
 
 #### The smart macro trends
@@ -313,16 +313,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), data (6), [[Digital Transformation]] (5), business (5), product (2)
 > **Analogies:** such as (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** iot (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Smart Digital Transformation Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tech overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980)
@@ -377,7 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** data (9), [[Digital Transformation]] (7), product (4), [[IoT]] (2), [[Microsoft Products|Products]] (2)
 > **Analogies:** picture (2), think of it as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -452,7 +452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), new. (1)
+> **Frameworks & Libraries:** application (9), data (8), product (6), game (5), [[Digital Transformation]] (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -531,8 +531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[IoT]] (13), cloud (11), product (5), application (5)
 > **Definitions:** is a  (1), known as (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** erp (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
@@ -703,7 +703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), static (1), include, (1)
+> **Frameworks & Libraries:** data (22), ai (19), [[Neural Networks]] (14), [[Linear Regression]] (6), [[Algorithms]] (6)
 > **CLI Commands:** make (3), find (2), python (1)
 > **Code Identifiers:** mx (4)
 > **Analogies:** for example (2), picture (1), just like (1)
@@ -795,7 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include, (3), let (1), this. (1), self (1)
+> **Frameworks & Libraries:** product (3), [[Hardware]] (3), application (2), [[Analytics]] (1), hr (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** snap (1)
 > **Env Vars:** api (1)
@@ -911,7 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), public (1), private (1), match, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (22), business (7), data (7), database (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -921,7 +921,7 @@ created: 2026-04-29
 
 ### 3. Design a Smart Product or Architect Smart Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying value
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980)
@@ -990,8 +990,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (13), [[Microsoft Products|Products]] (6), product (5), [[Digital Transformation]] (3), data (2)
 > **Env Vars:** opex (1), cogs (1), capex (1), oem (1)
-> **Code Keywords:** for. (1), interface (1), let (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
@@ -1063,7 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), new. (1)
+> **Frameworks & Libraries:** data (9), ai (4), product (3), application (2), [[IoT]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Warnings:** warning (1)
@@ -1106,6 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (3), product (3), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - smart (1)
@@ -1181,7 +1182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[IoT]] (10), data (5), product (5), ai (5), cloud (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** common mistake (1)
@@ -1191,7 +1192,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Main takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980)
@@ -1256,9 +1257,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (13), [[Microsoft Products|Products]] (10), business (3), [[Virtualization]] (3), data (3)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1), this, (1)
 > **Speakers:** - [instructor] (1)
 
 

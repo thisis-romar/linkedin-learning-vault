@@ -28,7 +28,7 @@ tags:
   - skill/stakeholder-engagement
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20Foundations-%20Communication.md)
@@ -47,31 +47,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Business analysts are the bridge between stakeholders and IT
+  - [Business analysts are the bridge between stakeholders and IT](#business-analysts-are-the-bridge-between-stakeholders-and-it)
 - [**1. What Is Business Analysis Communication?**](#1-what-is-business-analysis-communication) (3 videos)
-  - Business analysis communication defined
-  - Planning for business analysis communication
-  - Performing business analysis communication
+  - [Business analysis communication defined](#business-analysis-communication-defined)
+  - [Planning for business analysis communication](#planning-for-business-analysis-communication)
+  - [Performing business analysis communication](#performing-business-analysis-communication)
 - [**2. Key Business Analysis Communication Skills**](#2-key-business-analysis-communication-skills) (4 videos)
-  - Verbal and nonverbal communication skills in business analysis
-  - Active listening skills in business analysis
-  - Written communication skills in business analysis
-  - Visual communication skills in business analysis
+  - [Verbal and nonverbal communication skills in business analysis](#verbal-and-nonverbal-communication-skills-in-business-analysis)
+  - [Active listening skills in business analysis](#active-listening-skills-in-business-analysis)
+  - [Written communication skills in business analysis](#written-communication-skills-in-business-analysis)
+  - [Visual communication skills in business analysis](#visual-communication-skills-in-business-analysis)
 - [**3. Ways to Visually Communicate in Business Analysis**](#3-ways-to-visually-communicate-in-business-analysis) (4 videos)
-  - Visually communicate scope
-  - Visually communicate process
-  - Visually communicate data
-  - Visually communicate rules logic
+  - [Visually communicate scope](#visually-communicate-scope)
+  - [Visually communicate process](#visually-communicate-process)
+  - [Visually communicate data](#visually-communicate-data)
+  - [Visually communicate rules logic](#visually-communicate-rules-logic)
 - [**4. Tips For Improving Business Analysis Communication**](#4-tips-for-improving-business-analysis-communication) (3 videos)
-  - Improving how you write text-based requirements
-  - Improving how you write user stories
-  - Top tips to improve business analysis communication
+  - [Improving how you write text-based requirements](#improving-how-you-write-text-based-requirements)
+  - [Improving how you write user stories](#improving-how-you-write-user-stories)
+  - [Top tips to improve business analysis communication](#top-tips-to-improve-business-analysis-communication)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Making communication a focus in your business analyst development plan
+  - [Making communication a focus in your business analyst development plan](#making-communication-a-focus-in-your-business-analyst-development-plan)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business analysts are the bridge between stakeholders and IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysts-are-the-bridge-between-stakeholders-and-it?u=76281980)
@@ -94,13 +94,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (5), career (1)
 > **Speakers:** - you (1)
 
 
 ### 1. What Is Business Analysis Communication?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business analysis communication defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysis-communication-defined?u=76281980)
@@ -181,8 +181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (18), management (2), [[Agile Development|Agile]] (1), product (1), next (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - regardless (1)
@@ -274,8 +274,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), [[Microsoft Products|Products]] (3), next (2), [[Decision-Making]] (1), product (1)
 > **Exercise Files:** template (2), download the (1), exercise file (1)
-> **Code Keywords:** for. (1), this. (1), for, (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -353,15 +353,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11), teams (1), [[Forms]] (1), next (1), data (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - communication (1)
 
 
 ### 2. Key Business Analysis Communication Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Verbal and nonverbal communication skills in business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/verbal-and-nonverbal-communication-skills-in-business-analysis?u=76281980)
@@ -424,6 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), data (1), next (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - verbal (1)
@@ -507,8 +508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (3), [[Microsoft Word|Word]] (2), teams (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** else. (1), let (1)
 > **Cross-References:** we talked about (1), in the last (1)
 > **Speakers:** - you (1)
 
@@ -593,9 +594,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), business (2), next (1)
 > **Env Vars:** ctr (2), cta (1), sem (1), smm (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), for. (1), throw (1)
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -668,8 +669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), data (3), next (2), [[Forms]] (1), [[Stakeholder Engagement]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** continue (1), for. (1), delete (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - you (1)
@@ -677,7 +678,7 @@ created: 2026-04-29
 
 ### 3. Ways to Visually Communicate in Business Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visually communicate scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980)
@@ -770,7 +771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** business (3), management (3), teams (1), [[E-Commerce]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** don't forget (1)
@@ -855,8 +856,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), product (2), data (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), continue (1), this. (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
@@ -970,7 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), this, (1), continue (1)
+> **Frameworks & Libraries:** data (13), business (11), next (1), [[LinkedIn]] (1)
 > **Env Vars:** erd (6)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2)
@@ -1052,16 +1053,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11), [[Decision Trees]] (4), [[Microsoft Excel|Excel]] (1), [[E-Commerce]] (1), node (1)
 > **Env Vars:** vip (5)
 > **CLI Commands:** make (1), node (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - if (1)
 
 
 ### 4. Tips For Improving Business Analysis Communication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improving how you write text-based requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980)
@@ -1140,8 +1141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), [[Microsoft Word|Word]] (1), functional (1), [[Agile Development|Agile]] (1), teams (1)
 > **Exercise Files:** template (3), exercise files (1)
-> **Code Keywords:** self (2), let (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Env Vars:** babok (2)
 > **CLI Commands:** make (1)
@@ -1226,10 +1227,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), feature (4), teams (3), functional (1), ux (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** invest (3)
 > **Definitions:** is a  (1), is an  (1), means that (1)
-> **Code Keywords:** for. (2)
 > **Documentation:** spec (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
@@ -1318,9 +1319,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), management (1), [[Stakeholder Engagement]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** require (1)
 > **Env Vars:** babok (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - i (1)
@@ -1328,7 +1329,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making communication a focus in your business analyst development plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/making-communication-a-focus-in-your-business-analyst-development-plan?u=76281980)
@@ -1359,7 +1360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), business (1), career (1)
 > **Speakers:** - congratulations (1)
 
 

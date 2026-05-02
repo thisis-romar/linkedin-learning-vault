@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/active-listening
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Effective%20Listening%20(2019).md)
@@ -48,36 +48,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Improve your listening skills
-  - Getting the most out of the course
+  - [Improve your listening skills](#improve-your-listening-skills)
+  - [Getting the most out of the course](#getting-the-most-out-of-the-course)
 - [**1. Assessing Your Listening Skills**](#1-assessing-your-listening-skills) (7 videos)
-  - Five skills for improved listening
-  - Recall details
-  - Understand the big picture
-  - Evaluate content
-  - Attune to subtle cues
-  - Listen with empathy
-  - When and how to listen
+  - [Five skills for improved listening](#five-skills-for-improved-listening)
+  - [Recall details](#recall-details)
+  - [Understand the big picture](#understand-the-big-picture)
+  - [Evaluate content](#evaluate-content)
+  - [Attune to subtle cues](#attune-to-subtle-cues)
+  - [Listen with empathy](#listen-with-empathy)
+  - [When and how to listen](#when-and-how-to-listen)
 - [**2. Challenges to Listening**](#2-challenges-to-listening) (5 videos)
-  - Getting distracted by internal noise
-  - Multitasking
-  - Paying attention to delivery
-  - Overwhelming yourself with information
-  - Responding inappropriately
+  - [Getting distracted by internal noise](#getting-distracted-by-internal-noise)
+  - [Multitasking](#multitasking)
+  - [Paying attention to delivery](#paying-attention-to-delivery)
+  - [Overwhelming yourself with information](#overwhelming-yourself-with-information)
+  - [Responding inappropriately](#responding-inappropriately)
 - [**3. Effective Listening Behaviors**](#3-effective-listening-behaviors) (7 videos)
-  - Effective listening behaviors
-  - Clarify your role
-  - Use nonverbal cues
-  - Allow silence
-  - Paraphrase what was said
-  - Match emotions
-  - Effective listening in action
+  - [Effective listening behaviors](#effective-listening-behaviors)
+  - [Clarify your role](#clarify-your-role)
+  - [Use nonverbal cues](#use-nonverbal-cues)
+  - [Allow silence](#allow-silence)
+  - [Paraphrase what was said](#paraphrase-what-was-said)
+  - [Match emotions](#match-emotions)
+  - [Effective listening in action](#effective-listening-in-action)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Setting listening goals
+  - [Setting listening goals](#setting-listening-goals)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your listening skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/improve-your-listening-skills?u=76281980)
@@ -114,9 +114,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), leadership (1)
 > **Speakers:** - hello (1), - and (1), - that (1), - true (1), - it (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### Getting the most out of the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/getting-the-most-out-of-the-course-2?u=76281980)
@@ -153,7 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), finally, (1)
+> **Frameworks & Libraries:** next (2)
 > **Speakers:** - we (2), - listening (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
@@ -162,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Assessing Your Listening Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Five skills for improved listening
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/five-skills-for-improved-listening?u=76281980)
@@ -225,8 +225,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), strengths (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** picture (2)
 > **Speakers:** - let (1)
 
@@ -271,7 +271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), if, (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - recalling (1)
@@ -321,8 +321,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (1)
 > **Analogies:** picture (5)
-> **Code Keywords:** while, (1), for, (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - sometimes (1)
@@ -388,6 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (1), business (1), [[Sustainability]] (1), product (1)
 > **CLI Commands:** make (1)
 > **Warnings:** caution (1)
 > **Speakers:** - some (1)
@@ -463,9 +464,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - can (1)
 
@@ -526,8 +527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), next (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** this. (1), this, (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
@@ -720,10 +721,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), product (1), [[Representational State Transfer (REST)|Rest]] (1), [[Human Resources (HR)|Human resources]] (1), hr (1)
 > **Speakers:** - thanks (2), - yeah (2), - well (2), - that (2), - i (2)
 > **Analogies:** picture (3), imagine (1), for example (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), raise (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
@@ -731,7 +732,7 @@ created: 2026-04-29
 
 ### 2. Challenges to Listening
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting distracted by internal noise
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/getting-distracted-by-internal-noise-2?u=76281980)
@@ -828,8 +829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - there (1)
 
 #### Multitasking
@@ -929,9 +930,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** job description (1)
 > **Speakers:** - i (3), - um (2), - yeah (2), - hey (1), - right (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** else. (1), switch (1), let (1)
 > **Definitions:** is a  (1)
 
 #### Paying attention to delivery
@@ -1025,7 +1026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1), cat (1)
 > **Speakers:** - have (1)
@@ -1093,8 +1094,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), hr (1), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this. (1), let (1)
 > **Analogies:** picture (2)
 > **Speakers:** - you (1)
 
@@ -1335,15 +1336,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3)
 > **Speakers:** - oh (11), - yeah (5), - it (5), - well (3), - did (2)
-> **Code Keywords:** let (4), new, (1)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
 
 
 ### 3. Effective Listening Behaviors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Effective listening behaviors
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/effective-listening-behaviors?u=76281980)
@@ -1365,7 +1366,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Speakers:** - so (1)
 
 #### Clarify your role
@@ -1425,6 +1425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1)
 > **Env Vars:** mbti (1)
 > **Speakers:** - as (1)
 
@@ -1502,7 +1503,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** while. (1)
 > **Env Vars:** ucla (1)
 > **Speakers:** - you (1)
 
@@ -1565,6 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 
@@ -1611,7 +1612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Microsoft Office|Office]] (1), next (1)
 > **Speakers:** - the (1)
 
 #### Match emotions
@@ -1675,7 +1676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Relationship Building]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** caveat (1)
@@ -1784,12 +1785,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - okay (3), - i (3), - yes (2), - yeah (2), - now (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting listening goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/setting-listening-goals-2?u=76281980)
@@ -1870,6 +1872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Accountability]] (1)
 > **Speakers:** - we (1), - follow (1), - now (1), - tatiana (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)

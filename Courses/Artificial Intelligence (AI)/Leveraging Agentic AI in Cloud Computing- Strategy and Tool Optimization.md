@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20Agentic%20AI%20in%20Cloud%20Computing-%20Strategy%20and%20Tool%20Optimization.md)
@@ -50,70 +50,70 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to AI agents in cloud computing
+  - [Introduction to AI agents in cloud computing](#introduction-to-ai-agents-in-cloud-computing)
 - [**1. Introduction to AI Agents in the Cloud**](#1-introduction-to-ai-agents-in-the-cloud) (7 videos)
-  - Overview of cloud-based agentic AI
-  - Definition and types of AI agents
-  - Use cases for agentic AI in the cloud
-  - Case study #1
-  - Case study #2
-  - Challenge: Identifying the use cases for agentic AI in the cloud
-  - Solution: Identifying the use cases for agentic AI in the cloud
+  - [Overview of cloud-based agentic AI](#overview-of-cloud-based-agentic-ai)
+  - [Definition and types of AI agents](#definition-and-types-of-ai-agents)
+  - [Use cases for agentic AI in the cloud](#use-cases-for-agentic-ai-in-the-cloud)
+  - [Case study #1](#case-study-1)
+  - [Case study #2](#case-study-2)
+  - [Challenge: Identifying the use cases for agentic AI in the cloud](#challenge-identifying-the-use-cases-for-agentic-ai-in-the-cloud)
+  - [Solution: Identifying the use cases for agentic AI in the cloud](#solution-identifying-the-use-cases-for-agentic-ai-in-the-cloud)
 - [**2. Generative AI Tools and Platforms**](#2-generative-ai-tools-and-platforms) (9 videos)
-  - Overview of generative AI tools
-  - Autonomous task management tools
-  - Decision-making and reasoning tools
-  - Monitoring and incident management tools
-  - Security and compliance tools
-  - Content and media generation tools
-  - Customer interaction and support tools
-  - Challenge: Identifying the right agentic AI tools for XYZ Corp.
-  - Solution: Identifying the right agentic AI tools for XYZ Corp.
+  - [Overview of generative AI tools](#overview-of-generative-ai-tools)
+  - [Autonomous task management tools](#autonomous-task-management-tools)
+  - [Decision-making and reasoning tools](#decision-making-and-reasoning-tools)
+  - [Monitoring and incident management tools](#monitoring-and-incident-management-tools)
+  - [Security and compliance tools](#security-and-compliance-tools)
+  - [Content and media generation tools](#content-and-media-generation-tools)
+  - [Customer interaction and support tools](#customer-interaction-and-support-tools)
+  - [Challenge: Identifying the right agentic AI tools for XYZ Corp.](#challenge-identifying-the-right-agentic-ai-tools-for-xyz-corp)
+  - [Solution: Identifying the right agentic AI tools for XYZ Corp.](#solution-identifying-the-right-agentic-ai-tools-for-xyz-corp)
 - [**3. Building Agentic AI Solutions in the Cloud**](#3-building-agentic-ai-solutions-in-the-cloud) (9 videos)
-  - Autonomous resource management
-  - Automated DevOps pipelines
-  - Intelligent monitoring and alerting
-  - Personalized customer experience
-  - Predictive maintenance and issue resolution
-  - Enterprise data integration and AI
-  - Agentic AI for dynamic content generation
-  - Challenge: Building a personalized customer experience agent for XYZ Corp
-  - Solution: Building a personalized customer experience agent for XYZ Corp
+  - [Autonomous resource management](#autonomous-resource-management)
+  - [Automated DevOps pipelines](#automated-devops-pipelines)
+  - [Intelligent monitoring and alerting](#intelligent-monitoring-and-alerting)
+  - [Personalized customer experience](#personalized-customer-experience)
+  - [Predictive maintenance and issue resolution](#predictive-maintenance-and-issue-resolution)
+  - [Enterprise data integration and AI](#enterprise-data-integration-and-ai)
+  - [Agentic AI for dynamic content generation](#agentic-ai-for-dynamic-content-generation)
+  - [Challenge: Building a personalized customer experience agent for XYZ Corp](#challenge-building-a-personalized-customer-experience-agent-for-xyz-corp)
+  - [Solution: Building a personalized customer experience agent for XYZ Corp](#solution-building-a-personalized-customer-experience-agent-for-xyz-corp)
 - [**4. Integrating Agentic AI in the Cloud into DevOps Practices**](#4-integrating-agentic-ai-in-the-cloud-into-devops-practices) (3 videos)
-  - Enhancing CI/CD pipelines with AI
-  - Security and compliance
-  - Testing and deployment
+  - [Enhancing CI/CD pipelines with AI](#enhancing-cicd-pipelines-with-ai)
+  - [Security and compliance](#security-and-compliance)
+  - [Testing and deployment](#testing-and-deployment)
 - [**5. Agentic AI and Cloud Architecture**](#5-agentic-ai-and-cloud-architecture) (7 videos)
-  - AI agents and data integration
-  - Cloud-based agentic AI and storage
-  - Cloud-based agentic AI and compute
-  - Cloud-based agentic AI and containers
-  - AI agents and serverless
-  - Challenge: Creating an agentic AI cloud architecture for XYZ Corp.
-  - Solution: Creating an agentic AI cloud architecture for XYZ Corp.
+  - [AI agents and data integration](#ai-agents-and-data-integration)
+  - [Cloud-based agentic AI and storage](#cloud-based-agentic-ai-and-storage)
+  - [Cloud-based agentic AI and compute](#cloud-based-agentic-ai-and-compute)
+  - [Cloud-based agentic AI and containers](#cloud-based-agentic-ai-and-containers)
+  - [AI agents and serverless](#ai-agents-and-serverless)
+  - [Challenge: Creating an agentic AI cloud architecture for XYZ Corp.](#challenge-creating-an-agentic-ai-cloud-architecture-for-xyz-corp)
+  - [Solution: Creating an agentic AI cloud architecture for XYZ Corp.](#solution-creating-an-agentic-ai-cloud-architecture-for-xyz-corp)
 - [**6. AI Workflows and Prompt Engineering**](#6-ai-workflows-and-prompt-engineering) (4 videos)
-  - Crafting prompts to guide agentic behavior in AI models
-  - Refining AI prompts based on performance
-  - Challenge: AI workflows and prompt engineering at XYZ Corp
-  - Solution: AI workflows and prompt engineering at XYZ Corp
+  - [Crafting prompts to guide agentic behavior in AI models](#crafting-prompts-to-guide-agentic-behavior-in-ai-models)
+  - [Refining AI prompts based on performance](#refining-ai-prompts-based-on-performance)
+  - [Challenge: AI workflows and prompt engineering at XYZ Corp](#challenge-ai-workflows-and-prompt-engineering-at-xyz-corp)
+  - [Solution: AI workflows and prompt engineering at XYZ Corp](#solution-ai-workflows-and-prompt-engineering-at-xyz-corp)
 - [**7. Important Topics for Agentic AI**](#7-important-topics-for-agentic-ai) (3 videos)
-  - Intelligent monitoring and incident management
-  - Enterprise data integration
-  - Human-AI collaboration in the cloud
+  - [Intelligent monitoring and incident management](#intelligent-monitoring-and-incident-management)
+  - [Enterprise data integration](#enterprise-data-integration)
+  - [Human-AI collaboration in the cloud](#human-ai-collaboration-in-the-cloud)
 - [**8. Future of Agentic AI in Cloud**](#8-future-of-agentic-ai-in-cloud) (6 videos)
-  - Multi-agent systems
-  - Agentic AI-driven cloud security
-  - Scalable and resilient architectures
-  - Advanced data integration techniques
-  - Interoperability of agentic AI across cloud platforms
-  - Agentic AI in edge computing
+  - [Multi-agent systems](#multi-agent-systems)
+  - [Agentic AI-driven cloud security](#agentic-ai-driven-cloud-security)
+  - [Scalable and resilient architectures](#scalable-and-resilient-architectures)
+  - [Advanced data integration techniques](#advanced-data-integration-techniques)
+  - [Interoperability of agentic AI across cloud platforms](#interoperability-of-agentic-ai-across-cloud-platforms)
+  - [Agentic AI in edge computing](#agentic-ai-in-edge-computing)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Learning more about AI agents
-  - Where to get more information
+  - [Learning more about AI agents](#learning-more-about-ai-agents)
+  - [Where to get more information](#where-to-get-more-information)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI agents in cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980)
@@ -136,14 +136,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (9), cloud (3), [[Generative AI Tools]] (1), [[DevOps]] (1), [[Prompt Engineering]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Introduction to AI Agents in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of cloud-based agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980)
@@ -210,7 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), self (1), let (1)
+> **Frameworks & Libraries:** ai (19), cloud (8), next (1), data (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -255,8 +255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), traffic (2), [[React.js|React]] (1), game (1), cloud (1)
 > **Analogies:** for example (5), for instance (1), just like (1)
-> **Code Keywords:** let (2), function (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
@@ -307,7 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** ai (9), cloud (9), management (3), business (2), [[Incident Response]] (2)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** cd (1)
 > **Speakers:** - [instructor] (1)
@@ -397,9 +397,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), ai (7), aws (7), management (5), [[Real-Time]] (5)
 > **CLI Commands:** aws (7), make (2)
 > **Env Vars:** aws (7), rds (1)
-> **Code Keywords:** let (3), lambda (1), pass (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -481,9 +481,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (7), [[Microsoft Azure|Azure]] (7), application (2), product (1)
 > **Env Vars:** nlp (1), hipaa (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -512,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** ai (4), data (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
@@ -550,6 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (3), cloud (1), [[Workflow Optimization]] (1), [[Real-Time]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic electronic music) (1)
@@ -557,7 +558,7 @@ created: 2026-04-29
 
 ### 2. Generative AI Tools and Platforms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of generative AI tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980)
@@ -596,7 +597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** ai (7), [[Generative AI Tools]] (2), [[Content Creation]] (2), aws (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** aws (2), gpt (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** for example (1)
@@ -629,7 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), self (1), let (1)
+> **Frameworks & Libraries:** ai (6), management (3), cloud (3), [[Orchestration]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Decision-making and reasoning tools
@@ -675,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), self (1)
+> **Frameworks & Libraries:** ai (13), [[Search]] (2), data (1), cloud (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Env Vars:** mcts (1)
@@ -727,7 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), self (1)
+> **Frameworks & Libraries:** ai (8), management (3), cloud (3), [[Security]] (3), [[Dashboards]] (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -766,7 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (4), data (4), management (4), ai (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** iam (1)
 > **Speakers:** - [instructor] (1)
 
@@ -813,7 +814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** ai (4), business (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1), application (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [presenter] (1)
@@ -851,7 +852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1)
+> **Frameworks & Libraries:** ai (4), cloud (3), chatbot (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Workflow Management]] (1)
 > **CLI Commands:** make (1)
 > **Ports:** :00 (1)
 > **Definitions:** is a  (1)
@@ -891,6 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (1), ai (1), [[Scalability]] (1), [[Analytics]] (1)
 > **Env Vars:** xyz (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -939,15 +941,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), cloud (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** xyz (4)
-> **Code Keywords:** finally, (1), public (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic electronic music) (1)
 
 
 ### 3. Building Agentic AI Solutions in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Autonomous resource management
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980)
@@ -990,7 +992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), self (1), let (1)
+> **Frameworks & Libraries:** ai (8), management (4), cloud (1), [[Real-Time]] (1), [[Scalability]] (1)
 > **Definitions:** refers to (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1037,8 +1039,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[DevOps]] (5), [[Automation]] (1), [[Predictive Analytics]] (1), data (1)
 > **Definitions:** is a  (2), refers to (2), means that (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1086,7 +1088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1)
+> **Frameworks & Libraries:** ai (7), data (3), [[Security]] (2), [[Automation]] (2), [[Analytics]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1131,7 +1133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (2)
+> **Frameworks & Libraries:** ai (8), data (5), [[Analytics]] (2), cloud (1), [[Scalability]] (1)
 > **Definitions:** refers to (1), means that (1)
 > **Env Vars:** pos (1)
 > **Speakers:** - [instructor] (1)
@@ -1171,7 +1173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** ai (7), data (3), [[Algorithms]] (2), business (1), [[Real-Time]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1217,7 +1219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), function (1)
+> **Frameworks & Libraries:** data (15), ai (8), business (2), [[Analytics]] (1), [[Databases]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
@@ -1257,7 +1259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1)
+> **Frameworks & Libraries:** ai (4), data (4), cloud (2), power (1), [[Scalability]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
@@ -1295,8 +1297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Analytics]] (1), [[Real-Time]] (1)
 > **Env Vars:** xyz (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1351,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), for. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** ai (5), cloud (2), data (2), leadership (1), management (1)
 > **Env Vars:** xyz (3)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1360,7 +1362,7 @@ created: 2026-04-29
 
 ### 4. Integrating Agentic AI in the Cloud into DevOps Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhancing CI/CD pipelines with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980)
@@ -1435,8 +1437,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), ci (8), cd (8), [[Security]] (3), data (3)
 > **CLI Commands:** cd (8), find (1)
-> **Code Keywords:** let (3), public (3), finally, (1)
 > **Analogies:** such as (1), for instance (1), for example (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [narrator] (1)
@@ -1480,7 +1482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (2)
+> **Frameworks & Libraries:** [[Security]] (11), cloud (6), [[DevOps]] (5), ai (5), [[DevSecOps]] (2)
 > **Env Vars:** cicd (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -1522,7 +1524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (2)
+> **Frameworks & Libraries:** ai (6), [[DevOps]] (2), cloud (2), [[Scalability]] (2), [[Automation]] (1)
 > **Definitions:** refers to (3), means that (1)
 > **Cross-References:** we discussed (1), we covered (1)
 > **CLI Commands:** cd (1)
@@ -1532,7 +1534,7 @@ created: 2026-04-29
 
 ### 5. Agentic AI and Cloud Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI agents and data integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980)
@@ -1561,7 +1563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (1)
+> **Frameworks & Libraries:** data (8), ai (4), business (2), management (2), cloud (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1614,7 +1616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), finally, (1)
+> **Frameworks & Libraries:** ai (13), data (12), cloud (11), management (2), [[Scalability]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1676,7 +1678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), this. (1)
+> **Frameworks & Libraries:** ai (16), cloud (7), data (3), power (3), [[Algorithms]] (2)
 > **Definitions:** in other words (1), means that (1), is a  (1)
 > **Env Vars:** cpu (1)
 > **Analogies:** for example (1)
@@ -1733,7 +1735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (2), finally, (1)
+> **Frameworks & Libraries:** ai (13), cloud (8), management (5), [[Kubernetes]] (3), [[Scalability]] (2)
 > **Analogies:** such as (5)
 > **Cross-References:** we covered (1), previous video (1)
 > **Env Vars:** cicd (1)
@@ -1764,7 +1766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), function (1), let (1)
+> **Frameworks & Libraries:** ai (6), [[Serverless Computing]] (4), cloud (3), management (1)
 > **Definitions:** known as (1), means that (1)
 > **Env Vars:** faas (1)
 > **Speakers:** - [instructor] (1)
@@ -1794,8 +1796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), cloud (3), management (1), [[Security]] (1), next (1)
 > **Env Vars:** xyz (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1829,15 +1831,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), cloud (4), data (3), [[Scalability]] (1), [[Security]] (1)
 > **Env Vars:** xyz (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
 
 
 ### 6. AI Workflows and Prompt Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Crafting prompts to guide agentic behavior in AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980)
@@ -1882,7 +1884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), this, (1)
+> **Frameworks & Libraries:** ai (9), cloud (4), prompt (2), data (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1920,7 +1922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), this, (1)
+> **Frameworks & Libraries:** ai (9), prompt (2), cloud (2), next (1), [[Scalability]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1947,8 +1949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Prompt Engineering]] (2), next (1)
 > **Env Vars:** xyz (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1998,15 +2000,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), business (2), teams (2), [[Prompt Engineering]] (1), [[Performance Metrics]] (1)
 > **Env Vars:** xyz (3)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
 
 ### 7. Important Topics for Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intelligent monitoring and incident management
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980)
@@ -2043,7 +2045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (2)
+> **Frameworks & Libraries:** ai (7), management (3), [[Real-Time]] (1), [[Algorithms]] (1), [[Incident Response]] (1)
 > **Definitions:** refers to (3)
 > **Speakers:** - [instructor] (1)
 
@@ -2078,7 +2080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (12), ai (6), [[Real-Time]] (2), [[Automation]] (1), [[React.js|React]] (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -2125,7 +2127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2)
+> **Frameworks & Libraries:** ai (9), cloud (2), data (2), [[Decision-Making]] (2), [[Analytics]] (1)
 > **Definitions:** means that (1), refers to (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -2134,7 +2136,7 @@ created: 2026-04-29
 
 ### 8. Future of Agentic AI in Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Multi-agent systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980)
@@ -2175,7 +2177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** ai (7), cloud (6), business (3), [[Scalability]] (1), management (1)
 > **Definitions:** in other words (1), is a  (1), refers to (1)
 > **Env Vars:** mas (1)
 > **Speakers:** - [instructor] (1)
@@ -2231,7 +2233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), protected (1), continue (1)
+> **Frameworks & Libraries:** ai (17), [[Security]] (14), cloud (5), [[Automation]] (3), [[Incident Response]] (2)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - [presenter] (1)
 
@@ -2270,7 +2272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** ai (6), cloud (4), data (1), [[Hardware]] (1), concurrent (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2305,7 +2307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** data (10), ai (8), cloud (2)
 > **Cross-References:** we covered (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2361,7 +2363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), function (1), protected (1)
+> **Frameworks & Libraries:** ai (11), cloud (10), data (4), cross-platform (2), [[Security]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2430,7 +2432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), function (1)
+> **Frameworks & Libraries:** ai (14), data (7), [[Privacy]] (3), [[Decision-Making]] (2), [[Security]] (2)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** ota (1)
 > **Cross-References:** in the next (1)
@@ -2439,7 +2441,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980)
@@ -2470,7 +2472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), try. (1), public (1)
+> **Frameworks & Libraries:** ai (12), cloud (8), next (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** cdk (1)
 > **Speakers:** - [instructor] (1)
@@ -2520,7 +2522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), try. (2), let (1)
+> **Frameworks & Libraries:** ai (18), cloud (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), business (2), web (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)

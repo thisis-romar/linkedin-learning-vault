@@ -18,7 +18,7 @@ tags:
   - topic/security
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20Voip%20And%20Unified%20Communications.md)
@@ -37,36 +37,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Providing Voice over Internet Protocol (VoIP) telephony
-  - What you need to know
+  - [Providing Voice over Internet Protocol (VoIP) telephony](#providing-voice-over-internet-protocol-voip-telephony)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Unified Communications Overview**](#1-unified-communications-overview) (4 videos)
-  - Unified communications (UC) overview
-  - Making a call using VoIP
-  - Evolution of the Public Switched Telephone Network (PSTN)
-  - Moving from the PSTN to VoIP
+  - [Unified communications (UC) overview](#unified-communications-uc-overview)
+  - [Making a call using VoIP](#making-a-call-using-voip)
+  - [Evolution of the Public Switched Telephone Network (PSTN)](#evolution-of-the-public-switched-telephone-network-pstn)
+  - [Moving from the PSTN to VoIP](#moving-from-the-pstn-to-voip)
 - [**2. Components and Integration**](#2-components-and-integration) (4 videos)
-  - UC components
-  - Unifying communication systems
-  - Voice signal conversion with digital codecs
-  - Data transportation using real-time protocols
+  - [UC components](#uc-components)
+  - [Unifying communication systems](#unifying-communication-systems)
+  - [Voice signal conversion with digital codecs](#voice-signal-conversion-with-digital-codecs)
+  - [Data transportation using real-time protocols](#data-transportation-using-real-time-protocols)
 - [**3. Media Gateway**](#3-media-gateway) (5 videos)
-  - Passing telephony data through gateways
-  - Understanding MGCP/Megaco (H.248)
-  - Session Initiation Protocol (SIP)
-  - The H.323 wrapper, H.225, and H.245
-  - Translators and mixers
+  - [Passing telephony data through gateways](#passing-telephony-data-through-gateways)
+  - [Understanding MGCP/Megaco (H.248)](#understanding-mgcpmegaco-h248)
+  - [Session Initiation Protocol (SIP)](#session-initiation-protocol-sip)
+  - [The H.323 wrapper, H.225, and H.245](#the-h323-wrapper-h225-and-h245)
+  - [Translators and mixers](#translators-and-mixers)
 - [**4. Business Integration**](#4-business-integration) (5 videos)
-  - Plan a unified communications system
-  - Network assessment
-  - Assure quality of service
-  - Using STIR/SHAKEN to restore trust
-  - VoIP security
+  - [Plan a unified communications system](#plan-a-unified-communications-system)
+  - [Network assessment](#network-assessment)
+  - [Assure quality of service](#assure-quality-of-service)
+  - [Using STIR/SHAKEN to restore trust](#using-stirshaken-to-restore-trust)
+  - [VoIP security](#voip-security)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing Voice over Internet Protocol (VoIP) telephony
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/providing-voice-over-internet-protocol-voip-telephony-14173322?u=76281980)
@@ -91,7 +91,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), switch (1), super (1), let (1)
+> **Frameworks & Libraries:** traffic (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lisa] (1)
 
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), application (1)
 > **Env Vars:** url (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -126,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Unified Communications Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unified communications (UC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980)
@@ -187,8 +188,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (2), management (2), business (2), [[Forms]] (1), [[Business Communications]] (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Making a call using VoIP
@@ -250,7 +251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), switch (2), try. (1), function (1), continue (1)
+> **Frameworks & Libraries:** traffic (3), business (3), web (1), feature (1), [[Security]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
@@ -321,7 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), traffic (1), management (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [speaker] (1)
 
@@ -368,7 +369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Microsoft Office|Office]] (2), [[Telecommunications]] (2), data (1), database (1)
 > **Env Vars:** ss7 (5)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -378,7 +379,7 @@ created: 2026-04-29
 
 ### 2. Components and Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### UC components
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980)
@@ -421,7 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), public (1), switch (1)
+> **Frameworks & Libraries:** data (4), [[Real-Time]] (2), business (1), application (1), management (1)
 > **Analogies:** such as (4)
 > **Env Vars:** isdn (1), sip (1), h323 (1)
 > **Definitions:** is a  (2)
@@ -481,9 +482,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), business (1), [[Microsoft Office|Office]] (1), [[Routing]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** include: (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -553,6 +554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), [[Automation]] (1)
 > **Env Vars:** mos (3), itutp (1)
 > **Versions:** 3.5 (1), 4.2 (1)
 > **Definitions:** is a  (1)
@@ -623,6 +625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (12), data (4), management (3), [[Statistics]] (1)
 > **Env Vars:** rtp (3), udp (1), tcp (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (3)
@@ -632,7 +635,7 @@ created: 2026-04-29
 
 ### 3. Media Gateway
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Passing telephony data through gateways
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980)
@@ -677,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), switch (3), let (1), pass (1)
+> **Frameworks & Libraries:** data (2), [[Call Control]] (1), lan (1), [[Local Area Network (LAN)|Local area network]] (1), hit (1)
 > **Env Vars:** ss7 (3), sigtran (2), sip (2), lan (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -714,6 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), management (1), [[Real-Time]] (1)
 > **Env Vars:** mgcp (3)
 > **Definitions:** known as (1), is an  (1)
 > **Prerequisites:** set up (1)
@@ -788,8 +792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (2), lan (1), application (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** sip (9), invite (5), lan (1), bye (1)
-> **Code Keywords:** private (1), from, (1), let (1)
 > **Analogies:** such as (3)
 > **URLs:** [patra.net](https://patra.net) (2)
 > **Versions:** 2.0 (1), version 2 (1)
@@ -862,8 +866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Telecommunications]] (1)
 > **Env Vars:** itu (1), pdf (1), tcp (1), udp (1)
-> **Code Keywords:** switch (1), let (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -916,14 +920,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2)
+> **Frameworks & Libraries:** data (7), [[Real-Time]] (1), application (1)
 > **Env Vars:** rtp (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Business Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan a unified communications system
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980)
@@ -970,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), switch (1)
+> **Frameworks & Libraries:** business (5), management (1), product (1), [[Hardware]] (1), [[Scalability]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** pbx (1)
 > **Speakers:** - [instructor] (1)
@@ -1074,6 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (8), traffic (3), [[Local Area Network (LAN)|Local area network]] (3), data (3), next (1)
 > **Versions:** 3.5 (1), 4.2 (1), 4.4 (1)
 > **Env Vars:** test (1), vlan (1)
 > **UI Navigation:** go to (1)
@@ -1159,10 +1164,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (11), web (1), [[Real-Time]] (1), [[Microsoft Word|Word]] (1), data (1)
 > **Analogies:** such as (3), for example (1), it's like (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1227,11 +1232,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (2), business (1), [[Engineering]] (1), [[Tokens]] (1)
 > **Env Vars:** stir (7), shaken (7), spit (3), sitr (1), fcc (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), such as (1), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** tokens (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1317,8 +1322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Phishing]] (2), [[Configuration Management]] (1), vpn (1), [[Real-Time]] (1)
 > **Env Vars:** spit (3), sip (2), pots (1), vpn (1), invite (1)
-> **Code Keywords:** this, (2)
 > **Analogies:** such as (1), just like (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -1327,7 +1332,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980)
@@ -1358,8 +1363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Cryptography]] (2), [[Network Security]] (1), [[Ethical Hacking]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [lisa] (1)
 
 

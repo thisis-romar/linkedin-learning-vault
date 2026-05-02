@@ -29,7 +29,7 @@ tags:
   - skill/jquery
   - skill/front-end-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/jQuery%20Essential%20Training.md)
@@ -48,73 +48,73 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - jQuery: Write less, do more
-  - Getting set up
+  - [jQuery: Write less, do more](#jquery-write-less-do-more)
+  - [Getting set up](#getting-set-up)
 - [**1. jQuery Overview**](#1-jquery-overview) (2 videos)
-  - Overview of jQuery
-  - Why use jQuery today?
+  - [Overview of jQuery](#overview-of-jquery)
+  - [Why use jQuery today?](#why-use-jquery-today)
 - [**2. A Quick jQuery Feature Tour**](#2-a-quick-jquery-feature-tour) (6 videos)
-  - Enabling jQuery in your web app
-  - Selectors and filters
-  - Creating and modifying content
-  - Event handling
-  - Effects and animations
-  - AJAX operations
+  - [Enabling jQuery in your web app](#enabling-jquery-in-your-web-app)
+  - [Selectors and filters](#selectors-and-filters)
+  - [Creating and modifying content](#creating-and-modifying-content)
+  - [Event handling](#event-handling)
+  - [Effects and animations](#effects-and-animations)
+  - [AJAX operations](#ajax-operations)
 - [**3. Accessing Page Content**](#3-accessing-page-content) (10 videos)
-  - Introduction to selectors and filters
-  - Basic selectors
-  - Basic filters
-  - Advanced selectors
-  - Attribute filters
-  - Advanced filters
-  - Traversing web page elements
-  - Statement chaining
-  - Challenge: Selectors
-  - Solution: Selectors
+  - [Introduction to selectors and filters](#introduction-to-selectors-and-filters)
+  - [Basic selectors](#basic-selectors)
+  - [Basic filters](#basic-filters)
+  - [Advanced selectors](#advanced-selectors)
+  - [Attribute filters](#attribute-filters)
+  - [Advanced filters](#advanced-filters)
+  - [Traversing web page elements](#traversing-web-page-elements)
+  - [Statement chaining](#statement-chaining)
+  - [Challenge: Selectors](#challenge-selectors)
+  - [Solution: Selectors](#solution-selectors)
 - [**4. Manipulating Page Content**](#4-manipulating-page-content) (8 videos)
-  - Creating content
-  - Inserting page content
-  - Altering page content
-  - Manipulating attributes
-  - Working with CSS
-  - Embedding custom data
-  - Challenge: Dynamic element visibility
-  - Solution: Dynamic element visibility
+  - [Creating content](#creating-content)
+  - [Inserting page content](#inserting-page-content)
+  - [Altering page content](#altering-page-content)
+  - [Manipulating attributes](#manipulating-attributes)
+  - [Working with CSS](#working-with-css)
+  - [Embedding custom data](#embedding-custom-data)
+  - [Challenge: Dynamic element visibility](#challenge-dynamic-element-visibility)
+  - [Solution: Dynamic element visibility](#solution-dynamic-element-visibility)
 - [**5. Event Handling**](#5-event-handling) (5 videos)
-  - jQuery event handling features
-  - Binding and unbinding events
-  - Using the jQuery event object
-  - Challenge: Use jQuery events
-  - Solution: Use jQuery events
+  - [jQuery event handling features](#jquery-event-handling-features)
+  - [Binding and unbinding events](#binding-and-unbinding-events)
+  - [Using the jQuery event object](#using-the-jquery-event-object)
+  - [Challenge: Use jQuery events](#challenge-use-jquery-events)
+  - [Solution: Use jQuery events](#solution-use-jquery-events)
 - [**6. Effects and Animations**](#6-effects-and-animations) (5 videos)
-  - Introduction to jQuery animations
-  - Hiding and showing elements
-  - Fading elements
-  - Sliding elements
-  - Custom animations
+  - [Introduction to jQuery animations](#introduction-to-jquery-animations)
+  - [Hiding and showing elements](#hiding-and-showing-elements)
+  - [Fading elements](#fading-elements)
+  - [Sliding elements](#sliding-elements)
+  - [Custom animations](#custom-animations)
 - [**7. AJAX Operations**](#7-ajax-operations) (6 videos)
-  - jQuery and AJAX
-  - Convenience functions
-  - Working with different data types
-  - Using global AJAX handlers
-  - Challenge: AJAX
-  - Solution: AJAX
+  - [jQuery and AJAX](#jquery-and-ajax)
+  - [Convenience functions](#convenience-functions)
+  - [Working with different data types](#working-with-different-data-types)
+  - [Using global AJAX handlers](#using-global-ajax-handlers)
+  - [Challenge: AJAX](#challenge-ajax)
+  - [Solution: AJAX](#solution-ajax)
 - [**8. jQuery Plugins**](#8-jquery-plugins) (3 videos)
-  - DataTables
-  - Form validation
-  - Toast messages
+  - [DataTables](#datatables)
+  - [Form validation](#form-validation)
+  - [Toast messages](#toast-messages)
 - [**9. Migrating from jQuery**](#9-migrating-from-jquery) (5 videos)
-  - Preparing to migrate
-  - Migrating to DOM selectors
-  - Migrating from AJAX
-  - Migrating effects
-  - Odds and ends
+  - [Preparing to migrate](#preparing-to-migrate)
+  - [Migrating to DOM selectors](#migrating-to-dom-selectors)
+  - [Migrating from AJAX](#migrating-from-ajax)
+  - [Migrating effects](#migrating-effects)
+  - [Odds and ends](#odds-and-ends)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### jQuery: Write less, do more
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980)
@@ -137,6 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Web Development]] (1), [[Programming]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (4)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -217,19 +218,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[HTML]] (3), css (3), [[GitHub]] (3), api (2)
 > **Env Vars:** html (3), css (3), api (2)
 > **Tools:** github (3), visual studio (3), vs code (2)
 > **Code Identifiers:** jquery (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** download the (2), zip file (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 
 
 ### 1. jQuery Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of jQuery
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980)
@@ -298,11 +299,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), application (3), web (2), [[AJAX]] (2), [[React.js|React]] (1)
 > **Code Identifiers:** jquery (17)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** dom (1), css (1), ajax (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type. (1), implements (1)
 > **Analogies:** for example (1), such as (1)
 > **Exercise Files:** boilerplate (1)
 > **Warnings:** note that (1)
@@ -348,8 +349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[Web Development]] (1), [[Debugging]] (1)
 > **Code Identifiers:** jquery (13)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** cobol (1), ide (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
@@ -359,7 +360,7 @@ created: 2026-04-29
 
 ### 2. A Quick jQuery Feature Tour
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enabling jQuery in your web app
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980)
@@ -478,7 +479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (11), case, (5), pass (2), this, (2)
+> **Frameworks & Libraries:** dom (5), [[Representational State Transfer (REST)|Rest]] (4), node (2), power (2), [[AJAX]] (1)
 > **Code Identifiers:** jquery (22), addeventlistener (1)
 > **Env Vars:** dom (5), cdn (1)
 > **CLI Commands:** node (2), make (1)
@@ -538,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (3), case, (3), pass (1), class. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), web (3), css (3), next (2)
 > **Code Identifiers:** jquery (8)
 > **Cross-References:** go back to (6)
 > **UI Navigation:** click on (2), select the (2), scroll down (1)
@@ -634,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), function (8), case, (4), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (13), dom (1)
 > **Env Vars:** html (13)
 > **Cross-References:** go back to (3), previous video (1), later in (1)
 > **Code Identifiers:** jquery (3)
@@ -732,7 +733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (7), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (2), web application (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** jquery (6), onmouseover (1)
 > **File Paths:** events.html (1)
 > **Cross-References:** go back to (1)
@@ -804,7 +805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), finally, (1), case, (1)
+> **Frameworks & Libraries:** web (1), [[HTML]] (1), feature (1)
 > **Code Identifiers:** jquery (2), testdiv (1)
 > **Cross-References:** later in (3)
 > **File Paths:** animations.html (1)
@@ -877,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), case, (3), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (11), [[AJAX]] (7), data (4)
 > **Env Vars:** html (10), url (3)
 > **Code Identifiers:** jquery (5), setcontent (2), getcontent (1), loadhtml (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -887,7 +888,7 @@ created: 2026-04-29
 
 ### 3. Accessing Page Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to selectors and filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980)
@@ -926,8 +927,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[Web Development]] (1), dom (1), api (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (5)
-> **Code Keywords:** case, (2), let (1), this, (1)
 > **Env Vars:** dom (1), api (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -1046,7 +1047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (6), pass (1), class. (1), this, (1)
+> **Frameworks & Libraries:** css (6), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (8)
 > **Env Vars:** css (6)
 > **Cross-References:** go back to (3)
@@ -1192,7 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (2), type. (1), case, (1)
+> **Frameworks & Libraries:** css (5), [[Forms]] (1), web (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** jquery (7)
 > **Env Vars:** css (5)
 > **Cross-References:** go back to (2)
@@ -1326,7 +1327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), case, (4), this, (1)
+> **Frameworks & Libraries:** css (3), next (3), [[HTML]] (1)
 > **Env Vars:** css (3), html (1)
 > **Cross-References:** go back to (4)
 > **Analogies:** such as (1), imagine (1), for example (1), just like (1)
@@ -1418,7 +1419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), case, (4), function (1), class, (1)
+> **Frameworks & Libraries:** power (1), css (1), next (1), [[Search]] (1)
 > **Code Identifiers:** jquery (6)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** go back to (3)
@@ -1598,7 +1599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), case, (4), type. (2), for, (1), continue (1)
+> **Frameworks & Libraries:** css (1), node (1), feature (1)
 > **Cross-References:** go back to (4), we covered (1)
 > **Definitions:** is a  (4), basically means (1)
 > **UI Navigation:** scroll down (3), go to (1)
@@ -1756,7 +1757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), let (23), case, (6), pass (1), case. (1)
+> **Frameworks & Libraries:** css (8), [[HTML]] (5), dom (5), next (4), api (2)
 > **Env Vars:** css (8), dom (5), html (4), api (2), w3c (1)
 > **CLI Commands:** find (7), make (5)
 > **Code Identifiers:** jquery (8), parentsuntil (4)
@@ -1796,7 +1797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1)
+> **Frameworks & Libraries:** css (1), [[Scripting]] (1)
 > **Code Identifiers:** jquery (3)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
@@ -1878,7 +1879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class, (1), function (1), type. (1), try. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (7), data (4), [[Programming]] (2), [[HTML]] (2)
 > **Env Vars:** html (2), css (2)
 > **Code Identifiers:** jquery (2)
 > **UI Navigation:** click on (1), scroll up (1)
@@ -1932,8 +1933,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (5), data (2), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (4)
-> **Code Keywords:** let (1), class. (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1942,7 +1943,7 @@ created: 2026-04-29
 
 ### 4. Manipulating Page Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating content
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980)
@@ -2067,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (16), case, (3), pass (2), finally, (1)
+> **Frameworks & Libraries:** [[HTML]] (14), web application (1), [[Content Creation]] (1), [[Representational State Transfer (REST)|Rest]] (1), web (1)
 > **Env Vars:** html (12)
 > **Code Identifiers:** jquery (3), newitem (2), createcontent (1), changecontent (1), changeallthecontent (1)
 > **Cross-References:** go back to (4), previous chapter (1)
@@ -2213,7 +2214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), function (9), case, (2), finally, (1)
+> **Frameworks & Libraries:** [[HTML]] (2), web (1), next (1)
 > **Code Identifiers:** jquery (10), prependto (4), insertbefore (4), appendto (3), insertafter (3)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (3)
@@ -2397,7 +2398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (31), function (22), case, (1), pass (1), static (1)
+> **Frameworks & Libraries:** data (3), [[HTML]] (3)
 > **Code Identifiers:** jquery (5), wrapall (5), replaceall (3), replacewith (3), replacementfn (1)
 > **Env Vars:** html (3)
 > **UI Navigation:** click on (2), open the (1)
@@ -2587,7 +2588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (34), function (7), case, (2), this. (1), pass (1)
+> **Frameworks & Libraries:** next (1), [[JavaScript]] (1)
 > **UI Navigation:** click on (5), scroll down (1), scroll up (1)
 > **Cross-References:** go back to (5), earlier in (1)
 > **CLI Commands:** make (2)
@@ -2723,7 +2724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (12), class. (5), require (1), finally, (1)
+> **Frameworks & Libraries:** css (24), web application (1), [[JavaScript]] (1)
 > **Env Vars:** css (12)
 > **Code Identifiers:** jquery (3), addclass (3), removeclass (2), toggleclass (2), hasclass (1)
 > **UI Navigation:** toggle (4), click on (3)
@@ -2877,7 +2878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), function (8), pass (1)
+> **Frameworks & Libraries:** data (44), [[JSON]] (3), api (2), [[JavaScript]] (2), [[HTML]] (1)
 > **Code Identifiers:** jquery (5), removedata (2)
 > **Env Vars:** json (3), api (2), html (1)
 > **UI Navigation:** click on (5), go to (1)
@@ -2921,7 +2922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Programming]] (1), data (1), next (1)
 > **Code Identifiers:** jquery (2), products (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2981,7 +2982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), type, (1), type. (1)
+> **Frameworks & Libraries:** product (12), data (4), [[Microsoft Products|Products]] (2), css (2), feature (1)
 > **UI Navigation:** scroll down (2), checkbox (2), go to (1)
 > **Code Identifiers:** jquery (3)
 > **Env Vars:** css (2)
@@ -2992,7 +2993,7 @@ created: 2026-04-29
 
 ### 5. Event Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### jQuery event handling features
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980)
@@ -3019,8 +3020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web application (1), [[Document Object Model (DOM)|Document object model]] (1), api (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** jquery (6)
-> **Code Keywords:** default, (1), let (1)
 > **Env Vars:** wc3 (1), api (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Speakers:** - building (1)
@@ -3164,7 +3165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (16), case, (2), class. (1)
+> **Frameworks & Libraries:** api (2), [[HTML]] (2), dom (2), data (1), css (1)
 > **Code Identifiers:** jquery (4), charcode (2), removeclass (1), btnonetime (1), fromcharcode (1)
 > **Env Vars:** api (2), html (2), dom (2), css (1)
 > **CLI Commands:** make (2), find (1)
@@ -3330,7 +3331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (6), pass (2), finally, (2), type, (2)
+> **Frameworks & Libraries:** data (7), [[Windows]] (3), api (2), dom (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** jquery (7), metakey (4), pagex (2), pagey (2), originalevent (1)
 > **Env Vars:** api (2), w3c (1), dom (1), html (1)
 > **UI Navigation:** scroll down (3), click on (1)
@@ -3376,8 +3377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[AJAX]] (1), [[HTML]] (1)
 > **UI Navigation:** click on (2), scroll down (2)
-> **Code Keywords:** let (3)
 > **Env Vars:** url (2), html (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [lecturer] (1)
@@ -3440,7 +3441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2), pass (2), this. (1), case, (1)
+> **Frameworks & Libraries:** product (24), data (2), [[HTML]] (1), next (1), [[Search]] (1)
 > **Env Vars:** url (6), html (1), uri (1), api (1)
 > **Cross-References:** earlier in (1), later in (1)
 > **CLI Commands:** make (1)
@@ -3450,7 +3451,7 @@ created: 2026-04-29
 
 ### 6. Effects and Animations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to jQuery animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-jquery-animations?u=76281980)
@@ -3475,6 +3476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[JavaScript]] (2), web (1), feature (1)
 > **Code Identifiers:** jquery (6)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** css (2)
@@ -3580,7 +3582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (13), pass (5), case, (2), for. (1)
+> **Frameworks & Libraries:** dom (2)
 > **UI Navigation:** toggle (5), click on (2)
 > **Code Identifiers:** jquery (4)
 > **Env Vars:** dom (2)
@@ -3681,7 +3683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (7), this, (2), pass (1), case, (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** oncomplete (2), fadein (1), fadeout (1), fadeto (1), jquery (1)
 > **Versions:** 0.3 (3), 1.0 (1)
 > **UI Navigation:** click on (4)
@@ -3753,7 +3755,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (6), case, (1)
 > **UI Navigation:** toggle (5), click on (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2)
@@ -3920,7 +3921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), function (9), pass (2), type. (1), else. (1)
+> **Frameworks & Libraries:** css (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Code Identifiers:** jquery (3)
 > **Cross-References:** go back to (3)
@@ -3932,7 +3933,7 @@ created: 2026-04-29
 
 ### 7. AJAX Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### jQuery and AJAX
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980)
@@ -4103,7 +4104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (22), let (16), interface (3), case, (2), this. (1)
+> **Frameworks & Libraries:** [[AJAX]] (18), data (11), [[HTML]] (5), api (3), [[Fetch]] (3)
 > **Env Vars:** html (4), api (3), url (2), xhr (1), json (1)
 > **Code Identifiers:** jquery (8), getdata (2)
 > **File Paths:** testdata.txt (1), testdata.html (1), testdata1.txt (1)
@@ -4253,7 +4254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (11), this. (2), case, (2), require (1)
+> **Frameworks & Libraries:** data (10), [[HTML]] (6), [[AJAX]] (3), [[Web Development]] (2), api (1)
 > **Code Identifiers:** jquery (7), ajaxcontent (2), loaddata (2), getjson (1), getscript (1)
 > **Env Vars:** html (5), url (4), api (1), http (1), post (1)
 > **Cross-References:** go back to (6)
@@ -4407,8 +4408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[JSON]] (12), api (8), [[AJAX]] (5), [[Search]] (4)
 > **Env Vars:** xml (19), json (11), api (8), ajax (4), html (2)
-> **Code Keywords:** let (11), function (11), public (1), require (1), pass (1)
 > **Code Identifiers:** jquery (5), getjson (3), flickrapi (3), firstchild (2), nodevalue (2)
 > **Cross-References:** earlier in (1), go back to (1)
 > **File Paths:** test.xmldata.xml (1)
@@ -4567,7 +4568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (7), this, (2), finally, (2), module (1)
+> **Frameworks & Libraries:** [[AJAX]] (11), application (3), data (3), web application (1), api (1)
 > **Code Identifiers:** jquery (7), ajaxcomplete (4), ajaxerror (3), ajaxstop (3), ajaxsuccess (2)
 > **Env Vars:** ajax (10), api (1), http (1)
 > **Cross-References:** go back to (3)
@@ -4613,9 +4614,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (18), data (5), [[JSON]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[AJAX]] (2)
 > **Env Vars:** json (3), ajax (2), url (1), html (1)
 > **UI Navigation:** scroll down (2), click on (1)
-> **Code Keywords:** let (1), this, (1)
 > **File Paths:** product-data.json (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -4673,8 +4674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (15), [[JSON]] (7), data (6), [[Microsoft Products|Products]] (4), [[HTML]] (2)
 > **Env Vars:** json (7), url (1)
-> **Code Keywords:** function (3), let (1), this, (1), static (1), else, (1)
 > **Code Identifiers:** jquery (3)
 > **File Paths:** index.html (1), product.html (1)
 > **Cross-References:** as we saw (1), earlier in (1)
@@ -4685,7 +4686,7 @@ created: 2026-04-29
 
 ### 8. jQuery Plugins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DataTables
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980)
@@ -4798,7 +4799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), pass (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (5), data (5), [[HTML]] (2), [[AJAX]] (2), [[JavaScript]] (2)
 > **Code Identifiers:** jquery (6)
 > **CLI Commands:** find (2), make (2), node (1)
 > **Definitions:** is a  (3)
@@ -4910,7 +4911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), type= (4), function (2), this, (2), type, (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), css (2), web (1), data (1), [[HTML]] (1)
 > **Env Vars:** url (4), css (2), html (1)
 > **Code Identifiers:** jquery (4), jqueryvalidation (2)
 > **Cross-References:** go back to (4)
@@ -5040,7 +5041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (2), pass (1), type, (1), override (1)
+> **Frameworks & Libraries:** css (2), [[GitHub]] (1), [[JavaScript]] (1), generic (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** css (2)
 > **Cross-References:** as you saw (1), go back to (1)
@@ -5052,7 +5053,7 @@ created: 2026-04-29
 
 ### 9. Migrating from jQuery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing to migrate
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980)
@@ -5117,6 +5118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (5), css (3), [[AJAX]] (2), [[Vanilla]] (1), next (1)
 > **Code Identifiers:** jquery (18), queryselector (1), queryselectorall (1)
 > **CLI Commands:** make (7), find (2)
 > **Env Vars:** css (3), ajax (2), api (1)
@@ -5124,7 +5126,6 @@ created: 2026-04-29
 > **Exercise Files:** boilerplate (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
-> **Speakers:** - [instructor] (1)
 
 #### Migrating to DOM selectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-to-dom-selectors?u=76281980)
@@ -5263,8 +5264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[Forms]] (1), node (1), api (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (16), queryselectorall (6), queryselector (5), setattribute (2), foreach (2)
-> **Code Keywords:** let (16), case, (3), this. (3), function (2)
 > **Cross-References:** go back to (4), earlier in (3), as we saw (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Env Vars:** css (2), mdn (1), api (1)
@@ -5387,7 +5388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), await (3), async (1), finally, (1), function (1)
+> **Frameworks & Libraries:** [[HTML]] (13), [[Fetch]] (9), data (8), [[AJAX]] (6), api (6)
 > **Env Vars:** html (12), api (6), mdn (1), json (1), xml (1)
 > **Code Identifiers:** jquery (12), queryselector (2), ajaxcontent (2), innerhtml (2)
 > **UI Navigation:** click on (4), scroll up (1), scroll down (1)
@@ -5591,7 +5592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (5), this. (3), class. (2), case, (2)
+> **Frameworks & Libraries:** css (11), [[Microsoft Azure|Azure]] (2), [[JavaScript]] (1), [[Search]] (1)
 > **Env Vars:** css (10)
 > **Code Identifiers:** jquery (4), thediv (2), fadeout (2), addclass (1)
 > **Cross-References:** go back to (3), earlier in (1)
@@ -5679,7 +5680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (9), case, (5), this. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), css (3), dom (3), node (1), [[Vanilla]] (1)
 > **Code Identifiers:** jquery (10), queryselector (4), pclass (3), queryselectorall (2), appendchild (2)
 > **UI Navigation:** toggle (4), click on (4)
 > **Env Vars:** css (3), dom (3)
@@ -5691,7 +5692,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980)
@@ -5714,6 +5715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[LinkedIn]] (1)
 > **Code Identifiers:** jquery (2)
 > **Speakers:** - well (1)
 

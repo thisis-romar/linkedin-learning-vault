@@ -35,7 +35,7 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/15%20Tips%20for%20Landing%20a%20Data%20Science%20Job.md)
@@ -54,33 +54,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Land your dream job
+  - [Land your dream job](#land-your-dream-job)
 - [**1. Find Opportunities**](#1-find-opportunities) (3 videos)
-  - Identify job types
-  - Explore online forums
-  - Overcome gaps
+  - [Identify job types](#identify-job-types)
+  - [Explore online forums](#explore-online-forums)
+  - [Overcome gaps](#overcome-gaps)
 - [**2. Present Your Experience**](#2-present-your-experience) (4 videos)
-  - Showcase your work
-  - Build your projects
-  - Build your resume
-  - Craft your cover letter
+  - [Showcase your work](#showcase-your-work)
+  - [Build your projects](#build-your-projects)
+  - [Build your resume](#build-your-resume)
+  - [Craft your cover letter](#craft-your-cover-letter)
 - [**3. Build Your Online Presence**](#3-build-your-online-presence) (3 videos)
-  - Optimize your LinkedIn profile
-  - Create impressive GitHub projects
-  - Build a compelling blog
+  - [Optimize your LinkedIn profile](#optimize-your-linkedin-profile)
+  - [Create impressive GitHub projects](#create-impressive-github-projects)
+  - [Build a compelling blog](#build-a-compelling-blog)
 - [**4. Leverage Your Network**](#4-leverage-your-network) (2 videos)
-  - Identify valuable connections
-  - Request a referral
+  - [Identify valuable connections](#identify-valuable-connections)
+  - [Request a referral](#request-a-referral)
 - [**5. Ace Your Interviews**](#5-ace-your-interviews) (3 videos)
-  - Prepare for assessments
-  - Stand out in interviews
-  - Craft your follow-up strategy
+  - [Prepare for assessments](#prepare-for-assessments)
+  - [Stand out in interviews](#stand-out-in-interviews)
+  - [Craft your follow-up strategy](#craft-your-follow-up-strategy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Begin your journey
+  - [Begin your journey](#begin-your-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Land your dream job
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/land-your-dream-job?u=76281980)
@@ -117,14 +117,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (11), business (1), career (1), ai (1), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
 
 ### 1. Find Opportunities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify job types
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980)
@@ -189,9 +189,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), ai (2), next (2), [[Dashboards]] (1), [[Engineering]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** switch (1)
 > **Env Vars:** phd (1)
 > **Speakers:** - a (1)
 
@@ -254,8 +254,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Search]] (5), next (4), [[Analytics]] (2), [[Job Searching]] (1)
 > **CLI Commands:** find (5), python (1)
-> **Code Keywords:** else. (1), for. (1), this. (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -325,6 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), job description (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - have (1)
@@ -332,7 +333,7 @@ created: 2026-04-29
 
 ### 2. Present Your Experience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Showcase your work
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980)
@@ -387,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), for. (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (11), [[GitHub]] (2), next (1), game (1), career (1)
 > **Tools:** github (2)
 > **Documentation:** stack overflow (1)
 > **Analogies:** for example (1)
@@ -453,8 +454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), api (1), next (1), application (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** for, (1), else. (1), finally, (1)
 > **URLs:** [kaggle.com](https://kaggle.com) (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -527,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (2), pass (1), finally, (1)
+> **Frameworks & Libraries:** data (6), next (2), job description (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** nlp (1)
 > **Tools:** github (1)
@@ -582,8 +583,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), data (2), next (2), generic (1), ai (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** require (1), for. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - if (1)
@@ -591,7 +592,7 @@ created: 2026-04-29
 
 ### 3. Build Your Online Presence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize your LinkedIn profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980)
@@ -650,8 +651,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (9), data (2), [[Search]] (2), power (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (6), find (1), python (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - if (1)
@@ -711,6 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (10), data (2), [[Statistics]] (1), next (1), [[LinkedIn]] (1)
 > **Tools:** github (10)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -779,8 +781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[GitHub]] (2), [[LinkedIn]] (2), [[Algorithms]] (1), business (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** require (1), finally, (1)
 > **Tools:** github (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -789,7 +791,7 @@ created: 2026-04-29
 
 ### 4. Leverage Your Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify valuable connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980)
@@ -836,8 +838,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[LinkedIn]] (2)
 > **Warnings:** keep in mind (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - a (1)
 
@@ -890,16 +892,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), data (2), [[Search]] (1), next (1), generic (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** while, (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - if (1)
 
 
 ### 5. Ace Your Interviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare for assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/prepare-for-assessments?u=76281980)
@@ -960,8 +962,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (1), business (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** for. (2), require (1), this. (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - do (1)
 
@@ -1006,7 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), while. (1), finally, (1)
+> **Frameworks & Libraries:** data (2), [[Interviewing]] (2), business (2), next (1), [[Interview Preparation]] (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - how (1)
@@ -1064,16 +1066,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (1), express (1), next (1), data (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - whether (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Begin your journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980)
@@ -1106,7 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (3), [[LinkedIn]] (1)
 > **Speakers:** - it (1)
 
 

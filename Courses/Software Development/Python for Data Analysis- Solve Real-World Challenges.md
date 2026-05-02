@@ -37,7 +37,7 @@ tags:
   - skill/big-data
   - skill/data-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20for%20Data%20Analysis-%20Solve%20Real-World%20Challenges.md)
@@ -56,57 +56,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introduction
-  - Prerequisites
-  - CoderPad tour
+  - [Introduction](#introduction)
+  - [Prerequisites](#prerequisites)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. Case Study Introduction**](#1-case-study-introduction) (6 videos)
-  - The Who, What, Where & Why
-  - Who
-  - What
-  - Where
-  - Why
-  - Case Study Introduction
+  - [The Who, What, Where & Why](#the-who-what-where-why)
+  - [Who](#who)
+  - [What](#what)
+  - [Where](#where)
+  - [Why](#why)
+  - [Case Study Introduction](#case-study-introduction)
 - [**2. Breaking down the Problem Statement**](#2-breaking-down-the-problem-statement) (6 videos)
-  - Define the problem (the three Ds)
-  - Get Familiar: Domain
-  - Domain: Applied
-  - Get Familiar: Data
-  - Get Familiar: Deliverable
-  - Set the Right Expectations
+  - [Define the problem (the three Ds)](#define-the-problem-the-three-ds)
+  - [Get Familiar: Domain](#get-familiar-domain)
+  - [Domain: Applied](#domain-applied)
+  - [Get Familiar: Data](#get-familiar-data)
+  - [Get Familiar: Deliverable](#get-familiar-deliverable)
+  - [Set the Right Expectations](#set-the-right-expectations)
 - [**3. Data Collection, Cleaning and Transformation**](#3-data-collection-cleaning-and-transformation) (7 videos)
-  - Getting Setup in Codespaces
-  - Read from CSV
-  - General Cleaning Techniques
-  - General Cleaning Techniques: High Level Checks
-  - General Cleaning Techniques: Missing Values
-  - Data Transformations: Binning
-  - Solution: Prepare data for analysis
+  - [Getting Setup in Codespaces](#getting-setup-in-codespaces)
+  - [Read from CSV](#read-from-csv)
+  - [General Cleaning Techniques](#general-cleaning-techniques)
+  - [General Cleaning Techniques: High Level Checks](#general-cleaning-techniques-high-level-checks)
+  - [General Cleaning Techniques: Missing Values](#general-cleaning-techniques-missing-values)
+  - [Data Transformations: Binning](#data-transformations-binning)
+  - [Solution: Prepare data for analysis](#solution-prepare-data-for-analysis)
 - [**4. EDA**](#4-eda) (10 videos)
-  - Intro to EDA
-  - Summary Statistics
-  - Distributions: Histograms
-  - Data Transformations: Normalization and Log
-  - Other Distribution Types
-  - Data Visualizations: Comparing Categories
-  - Data Visualization: Data Tables
-  - Data Visualization: Relationships
-  - Create a ridgeplot
-  - Solution: Building summary table using pandas
+  - [Intro to EDA](#intro-to-eda)
+  - [Summary Statistics](#summary-statistics)
+  - [Distributions: Histograms](#distributions-histograms)
+  - [Data Transformations: Normalization and Log](#data-transformations-normalization-and-log)
+  - [Other Distribution Types](#other-distribution-types)
+  - [Data Visualizations: Comparing Categories](#data-visualizations-comparing-categories)
+  - [Data Visualization: Data Tables](#data-visualization-data-tables)
+  - [Data Visualization: Relationships](#data-visualization-relationships)
+  - [Create a ridgeplot](#create-a-ridgeplot)
+  - [Solution: Building summary table using pandas](#solution-building-summary-table-using-pandas)
 - [**5. Data Visualization & Storytelling**](#5-data-visualization-storytelling) (8 videos)
-  - Visual Best Practices: Part 1
-  - Visual Best Practices: Part 2
-  - Leverage Exploratory and Explanatory Visualizations
-  - Choose a medium
-  - Storyboarding
-  - Whats in a story?
-  - Putting it all together
-  - Solution: Visualizing with Matplotlib
+  - [Visual Best Practices: Part 1](#visual-best-practices-part-1)
+  - [Visual Best Practices: Part 2](#visual-best-practices-part-2)
+  - [Leverage Exploratory and Explanatory Visualizations](#leverage-exploratory-and-explanatory-visualizations)
+  - [Choose a medium](#choose-a-medium)
+  - [Storyboarding](#storyboarding)
+  - [Whats in a story?](#whats-in-a-story)
+  - [Putting it all together](#putting-it-all-together)
+  - [Solution: Visualizing with Matplotlib](#solution-visualizing-with-matplotlib)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Wrap-up and next steps
+  - [Wrap-up and next steps](#wrap-up-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** data (4), [[Big Data]] (1), [[Statistics]] (1), business (1), [[Soft Skills]] (1)
 > **CLI Commands:** snap (1)
 > **Speakers:** - as (1)
 
@@ -158,6 +158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3), business (2), [[Storytelling]] (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - the (1)
 
@@ -204,6 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -212,7 +214,7 @@ created: 2026-04-29
 
 ### 1. Case Study Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Who, What, Where & Why
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/the-who-what-where-why?u=76281980)
@@ -227,8 +229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Prerequisites:** getting started (1), you'll need (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - before (1)
 
 #### Who
@@ -298,6 +300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (2), data (2), functional (1)
 > **Env Vars:** xfn (2)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -352,8 +355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2), [[Dashboards]] (1), product (1), teams (1)
 > **CLI Commands:** make (1), find (1), snap (1)
-> **Code Keywords:** function (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
@@ -389,7 +392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
+> **Frameworks & Libraries:** data (5), next (2), [[Snowflake]] (1), teams (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** xfn (1)
 > **Speakers:** - [instructor] (1)
 
@@ -419,7 +422,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -476,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (4), [[Storytelling]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -485,7 +487,7 @@ created: 2026-04-29
 
 ### 2. Breaking down the Problem Statement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define the problem (the three Ds)
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/define-the-problem-the-three-ds-23881953?u=76281980)
@@ -506,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - depending (1)
 
 #### Get Familiar: Domain
@@ -610,8 +612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), functional (2), teams (2), open-source (1), product (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** continue (3)
 > **Prerequisites:** set up (2)
 > **Env Vars:** xfn (1)
 > **Warnings:** keep in mind (1)
@@ -660,7 +662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), yield (1), case, (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Search]] (1), next (1), data (1)
 > **Definitions:** known as (1), is a  (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
@@ -740,8 +742,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), next (3), [[Databases]] (1), bi (1), api (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (1), case, (1), super (1)
 > **Prerequisites:** you'll need (2), getting started (1)
 > **Env Vars:** api (1)
 > **Best Practices:** best practice (1)
@@ -823,8 +825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (2), [[Storytelling]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** raise (1), include, (1), else. (1)
 > **Env Vars:** roi (1), kpi (1), pdf (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -886,15 +888,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), hit (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Data Collection, Cleaning and Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting Setup in Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980)
@@ -945,8 +947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[LinkedIn]] (1), cloud (1), power (1), [[Software Development]] (1)
 > **Tools:** github (4), visual studio (2)
-> **Code Keywords:** switch (2), let (2), this. (1)
 > **UI Navigation:** switch to (2), click on (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1027,7 +1029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), return, (2), default, (1)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), next (3), [[Pandas (Software)|Pandas]] (2), [[Metadata]] (1)
 > **CLI Commands:** python (4), find (2)
 > **Env Vars:** csv (4), html (1), json (1)
 > **Documentation:** the documentation (4)
@@ -1061,6 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Building Trust]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1142,7 +1145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** data (16), next (4), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** clinetnum (2), clientnum (2)
 > **Exercise Files:** exercise file (2)
 > **CLI Commands:** python (1)
@@ -1193,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), override (1), function (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** education_level (1)
 > **Speakers:** - [instructor] (1)
@@ -1267,7 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (4)
+> **Frameworks & Libraries:** data (4), [[Data Transformation]] (1), [[Pandas (Software)|Pandas]] (1), next (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the last (1), we covered (1)
 > **Documentation:** the documentation (2)
@@ -1296,14 +1299,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. EDA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to EDA
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/intro-to-eda?u=76281980)
@@ -1356,7 +1359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), function (1), throw (1), return, (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** eda (1)
 > **Definitions:** means that (1)
@@ -1431,7 +1434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3)
+> **Frameworks & Libraries:** data (3), [[Statistics]] (1), feature (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1), just like (1)
@@ -1572,7 +1575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (2), pass (1), case, (1), this. (1)
+> **Frameworks & Libraries:** data (8)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
@@ -1645,7 +1648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), function (2), pass (1), override (1)
+> **Frameworks & Libraries:** data (3), [[Google]] (1), [[Search]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1730,7 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), case. (1)
+> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sns (1)
 > **Definitions:** is a  (1)
@@ -1861,7 +1864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (2), function (1), switch (1), case, (1)
+> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1953,7 +1956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), case, (3), continue (2), else. (1)
+> **Frameworks & Libraries:** data (7), [[Pivot Tables]] (2), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), business (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -2045,7 +2048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), this, (1), continue (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -2142,7 +2145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), function (1), pass (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Env Vars:** kde (3), sns (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1)
@@ -2179,14 +2182,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Data Visualization & Storytelling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visual Best Practices: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-1-23886428?u=76281980)
@@ -2259,7 +2262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), continue (1)
+> **Frameworks & Libraries:** data (6), [[Statistics]] (1), next (1), [[Analytics]] (1)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **CLI Commands:** find (1)
@@ -2340,7 +2343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (9), next (2), [[Storytelling]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Leverage Exploratory and Explanatory Visualizations
@@ -2394,7 +2397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (4), [[Storytelling]] (1), product (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -2430,6 +2433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Dashboards]] (3), [[Infographics]] (2), next (1), product (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2492,7 +2496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** next (2), data (1), power (1)
 > **Best Practices:** it's best to (1), don't forget (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
@@ -2560,7 +2564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (9), [[Statistics]] (2), [[Data Storytelling]] (2), feature (1), business (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** means that (1)
@@ -2675,7 +2679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (2), case, (1), this, (1)
+> **Frameworks & Libraries:** data (2), hit (1), next (1), [[Storytelling]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** similar to (1), imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -2713,12 +2717,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Pivot Tables]] (2), data (1), feature (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap-up and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980)
@@ -2745,8 +2750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Data Storytelling]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** dna (1)
 > **Speakers:** - congratulations (1)
 

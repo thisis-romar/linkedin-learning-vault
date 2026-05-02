@@ -33,7 +33,7 @@ tags:
   - skill/debugging
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C-%20Exception%20and%20Error%20Handling.md)
@@ -52,32 +52,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Exceptional times call for exception handling
-  - Getting set up
+  - [Exceptional times call for exception handling](#exceptional-times-call-for-exception-handling)
+  - [Getting set up](#getting-set-up)
 - [**1. Overview**](#1-overview) (1 videos)
-  - What are exceptions?
+  - [What are exceptions?](#what-are-exceptions)
 - [**2. Exception Basics**](#2-exception-basics) (7 videos)
-  - Basic exception handling code
-  - The System.Exception class
-  - Built-in exceptions
-  - Handling multiple exceptions
-  - Throwing exceptions
-  - Challenge: Basics
-  - Solution: Basics
+  - [Basic exception handling code](#basic-exception-handling-code)
+  - [The System.Exception class](#the-systemexception-class)
+  - [Built-in exceptions](#built-in-exceptions)
+  - [Handling multiple exceptions](#handling-multiple-exceptions)
+  - [Throwing exceptions](#throwing-exceptions)
+  - [Challenge: Basics](#challenge-basics)
+  - [Solution: Basics](#solution-basics)
 - [**3. Advanced Exceptions**](#3-advanced-exceptions) (7 videos)
-  - Using try-catch-finally
-  - Exception filtering
-  - Creating custom exceptions
-  - Inner exceptions
-  - Exception handling best practices
-  - Challenge: Custom exceptions
-  - Solution: Custom exceptions
+  - [Using try-catch-finally](#using-try-catch-finally)
+  - [Exception filtering](#exception-filtering)
+  - [Creating custom exceptions](#creating-custom-exceptions)
+  - [Inner exceptions](#inner-exceptions)
+  - [Exception handling best practices](#exception-handling-best-practices)
+  - [Challenge: Custom exceptions](#challenge-custom-exceptions)
+  - [Solution: Custom exceptions](#solution-custom-exceptions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exceptional times call for exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exceptional-times-call-for-exception-handling?u=76281980)
@@ -101,7 +101,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - despite (1)
 
 #### Getting set up
@@ -155,19 +154,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), feature (1)
 > **Tools:** github (3), terminal (3), visual studio (1)
 > **Prerequisites:** set up (4), install (2), you'll need (1)
 > **UI Navigation:** click on (3), open the (1), go to (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** download the (1), zip file (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sdk (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980)
@@ -202,8 +201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** net (3), clr (2)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -211,7 +210,7 @@ created: 2026-04-29
 
 ### 2. Exception Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic exception handling code
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980)
@@ -338,7 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), class. (3), function (1), this, (1), try, (1)
+> **Frameworks & Libraries:** next (1), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** terminal (3)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **CLI Commands:** dotnet (1), find (1)
@@ -438,7 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3), switch (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** application (1), [[Debugging]] (1)
 > **Env Vars:** net (2)
 > **Tools:** terminal (2)
 > **Cross-References:** previous video (1)
@@ -501,7 +500,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class, (1), function (1), self (1), this, (1)
 > **Cross-References:** previous video (1)
 > **Tools:** terminal (1)
 > **Best Practices:** best practice (1)
@@ -582,7 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), class, (1), type, (1), this, (1), type. (1)
+> **Frameworks & Libraries:** generic (4)
 > **Tools:** terminal (2)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -657,7 +655,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), throw (3), function (3), raise (1), pass (1)
 > **Exercise Files:** sample code (2)
 > **Cross-References:** later in (1)
 > **Tools:** terminal (1)
@@ -729,7 +726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), case, (1), try, (1)
+> **Frameworks & Libraries:** [[Programming]] (1), application (1)
 > **Prerequisites:** you'll need (2)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** scroll down (1)
@@ -789,7 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), throw (1), switch (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Cross-References:** earlier in (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** scroll down (1)
@@ -798,7 +795,7 @@ created: 2026-04-29
 
 ### 3. Advanced Exceptions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using try-catch-finally
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/using-try-catch-finally?u=76281980)
@@ -845,7 +842,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** earlier in (1), go back to (1)
 > **Analogies:** such as (1), for example (1)
@@ -915,7 +911,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (3), this. (2), function (1), continue (1)
 > **CLI Commands:** make (2)
 > **Tools:** terminal (1)
 > **UI Navigation:** open the (1)
@@ -1021,7 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), throw (4), class. (3), pass (2), case. (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** go back to (3), earlier in (1)
 > **Env Vars:** net (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1167,7 +1162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (3), function (3), case, (2), throw (2)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** dotnet (1), make (1)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (2)
@@ -1229,8 +1224,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (2), [[Representational State Transfer (REST)|Rest]] (2), next (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** net (4), clr (1)
-> **Code Keywords:** let (1), this. (1), class, (1)
 > **Best Practices:** best practice (1), remember to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1286,7 +1281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (1), class. (1), throw (1), case, (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 3.37 (1)
 > **Tools:** terminal (1)
@@ -1369,7 +1364,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), class, (2), type. (2), throw (2)
 > **Code Identifiers:** badcoins (4)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (1)
@@ -1379,7 +1373,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/next-steps?u=76281980)
@@ -1406,6 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), [[Programming]] (1), next (1)
 > **Env Vars:** net (3)
 > **Speakers:** - [joe] (1)
 

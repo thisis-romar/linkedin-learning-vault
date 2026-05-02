@@ -42,7 +42,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Computing%20Understanding%20Core%20Concepts.md)
@@ -61,59 +61,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Change your career with cloud computing
+  - [Change your career with cloud computing](#change-your-career-with-cloud-computing)
 - [**1. Cloud Computing Basics**](#1-cloud-computing-basics) (5 videos)
-  - Overview of cloud computing
-  - Types of clouds
-  - IaaS clouds
-  - SaaS clouds
-  - PaaS clouds
+  - [Overview of cloud computing](#overview-of-cloud-computing)
+  - [Types of clouds](#types-of-clouds)
+  - [IaaS clouds](#iaas-clouds)
+  - [SaaS clouds](#saas-clouds)
+  - [PaaS clouds](#paas-clouds)
 - [**2. Cloud Computing Deployment Models**](#2-cloud-computing-deployment-models) (5 videos)
-  - Types of cloud deployments
-  - Understanding private clouds
-  - Understanding public clouds
-  - Understanding hybrid clouds
-  - Understanding multiclouds
+  - [Types of cloud deployments](#types-of-cloud-deployments)
+  - [Understanding private clouds](#understanding-private-clouds)
+  - [Understanding public clouds](#understanding-public-clouds)
+  - [Understanding hybrid clouds](#understanding-hybrid-clouds)
+  - [Understanding multiclouds](#understanding-multiclouds)
 - [**3. Cloud Computing Services**](#3-cloud-computing-services) (5 videos)
-  - Cloud computing storage
-  - Cloud computing compute
-  - Cloud computing databases
-  - Cloud computing AI
-  - Other services to consider
+  - [Cloud computing storage](#cloud-computing-storage)
+  - [Cloud computing compute](#cloud-computing-compute)
+  - [Cloud computing databases](#cloud-computing-databases)
+  - [Cloud computing AI](#cloud-computing-ai)
+  - [Other services to consider](#other-services-to-consider)
 - [**4. Case Studies: Select the Right Cloud Type, Service, and Deployment**](#4-case-studies-select-the-right-cloud-type-service-and-deployment) (4 videos)
-  - Keep data storage on-premises
-  - Leverage compute and storage at scale
-  - Leverage more than one cloud provider to solve a problem
-  - Mix on-premises with public cloud databases and compute services
+  - [Keep data storage on-premises](#keep-data-storage-on-premises)
+  - [Leverage compute and storage at scale](#leverage-compute-and-storage-at-scale)
+  - [Leverage more than one cloud provider to solve a problem](#leverage-more-than-one-cloud-provider-to-solve-a-problem)
+  - [Mix on-premises with public cloud databases and compute services](#mix-on-premises-with-public-cloud-databases-and-compute-services)
 - [**5. Cloud Security**](#5-cloud-security) (4 videos)
-  - Cloud security planning
-  - Cloud security requirements
-  - Selecting cloud security technology
-  - Security implementation and operations
+  - [Cloud security planning](#cloud-security-planning)
+  - [Cloud security requirements](#cloud-security-requirements)
+  - [Selecting cloud security technology](#selecting-cloud-security-technology)
+  - [Security implementation and operations](#security-implementation-and-operations)
 - [**6. Cloud Operations**](#6-cloud-operations) (3 videos)
-  - Cloud operations overview
-  - Cloud operations technology and toolsets
-  - Cloud monitoring and management
+  - [Cloud operations overview](#cloud-operations-overview)
+  - [Cloud operations technology and toolsets](#cloud-operations-technology-and-toolsets)
+  - [Cloud monitoring and management](#cloud-monitoring-and-management)
 - [**7. Cloud FinOps**](#7-cloud-finops) (4 videos)
-  - What's FinOps?
-  - Cloud cost accountability
-  - Cloud cost observability
-  - Cloud cost governance
+  - [What's FinOps?](#whats-finops)
+  - [Cloud cost accountability](#cloud-cost-accountability)
+  - [Cloud cost observability](#cloud-cost-observability)
+  - [Cloud cost governance](#cloud-cost-governance)
 - [**8. Cloud Computing Migration Planning: Key Considerations**](#8-cloud-computing-migration-planning-key-considerations) (8 videos)
-  - Identify which apps to move
-  - Identify which data to move
-  - Understand total cost of ownership (TCO)
-  - Cloud migration planning
-  - Selecting cloud types
-  - Selecting cloud deployment models
-  - Security planning
-  - Skills needed
+  - [Identify which apps to move](#identify-which-apps-to-move)
+  - [Identify which data to move](#identify-which-data-to-move)
+  - [Understand total cost of ownership (TCO)](#understand-total-cost-of-ownership-tco)
+  - [Cloud migration planning](#cloud-migration-planning)
+  - [Selecting cloud types](#selecting-cloud-types)
+  - [Selecting cloud deployment models](#selecting-cloud-deployment-models)
+  - [Security planning](#security-planning)
+  - [Skills needed](#skills-needed)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Cloud news and resources
+  - [Cloud news and resources](#cloud-news-and-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change your career with cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980)
@@ -132,13 +132,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), power (1), game (1), [[LinkedIn]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - cloud (1)
 
 
 ### 1. Cloud Computing Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980)
@@ -205,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), new, (1), self (1), private (1)
+> **Frameworks & Libraries:** cloud (18), data (4), [[Hardware]] (2), game (1), business (1)
 > **Cross-References:** later in (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -256,9 +257,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[IaaS]] (5), [[SaaS]] (3), [[PaaS]] (3), [[Application Development]] (3)
 > **Env Vars:** aws (2), nist (1), crm (1)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
@@ -317,7 +318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (2), finally, (1), let (1)
+> **Frameworks & Libraries:** [[IaaS]] (18), cloud (8), data (5), [[Hardware]] (3), aws (2)
 > **Definitions:** means that (5), is a  (1)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** such as (3)
@@ -366,9 +367,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SaaS]] (11), application (4), cloud (4), [[Hardware]] (2), business (2)
 > **Definitions:** means that (2), is a  (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** finally, (1)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Speakers:** - a (1)
 
@@ -415,6 +416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PaaS]] (14), cloud (7), [[IaaS]] (4), [[Application Development]] (3), [[Google]] (2)
 > **CLI Commands:** make (3), aws (2), find (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **Env Vars:** aws (2)
@@ -424,7 +426,7 @@ created: 2026-04-29
 
 ### 2. Cloud Computing Deployment Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of cloud deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980)
@@ -477,7 +479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), private (5), let (1)
+> **Frameworks & Libraries:** cloud (9), [[Private Clouds]] (4), [[Google]] (2), [[Microsoft]] (2), [[Hybrid Cloud]] (2)
 > **CLI Commands:** find (2), aws (1)
 > **Cross-References:** later in (2)
 > **Definitions:** is a  (2)
@@ -526,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), public (2), let (2), include, (1), require (1)
+> **Frameworks & Libraries:** cloud (9), [[Private Clouds]] (4), next (3), [[Hardware]] (3), data (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
@@ -590,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (11), private (1), this, (1), pass (1)
+> **Frameworks & Libraries:** cloud (10), data (4), [[Hardware]] (3), aws (1), [[Microsoft]] (1)
 > **Env Vars:** aws (1), ibm (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** aws (1)
@@ -641,7 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (8), private (4), let (1)
+> **Frameworks & Libraries:** cloud (12), data (7), aws (6), [[Hybrid Cloud]] (4), business (2)
 > **CLI Commands:** aws (6)
 > **Env Vars:** aws (6)
 > **Cross-References:** we covered (1), in the last (1)
@@ -689,7 +691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), private (1), type, (1)
+> **Frameworks & Libraries:** cloud (8), business (5), [[Private Clouds]] (1), aws (1), [[Microsoft]] (1)
 > **CLI Commands:** aws (1), find (1)
 > **Analogies:** such as (2)
 > **Env Vars:** aws (1)
@@ -699,7 +701,7 @@ created: 2026-04-29
 
 ### 3. Cloud Computing Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud computing storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980)
@@ -736,6 +738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), data (8), [[SaaS]] (2), [[Hardware]] (1), [[IaaS]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -771,9 +774,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Linux]] (1), [[Google]] (1), aws (1), power (1)
 > **Env Vars:** cpu (3), aws (1), x86 (1)
 > **Cross-References:** we discussed (1), in the last (1), next video (1)
-> **Code Keywords:** let (1), function (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -806,9 +809,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (7), cloud (6), [[Databases]] (4), business (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -838,7 +841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** ai (7), cloud (4), [[Databases]] (1), [[Application Development]] (1), business (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -882,6 +885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), [[Security]] (3), [[Databases]] (1), ai (1), business (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -890,7 +894,7 @@ created: 2026-04-29
 
 ### 4. Case Studies: Select the Right Cloud Type, Service, and Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep data storage on-premises
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980)
@@ -919,7 +923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2)
+> **Frameworks & Libraries:** data (12), [[Banking]] (2), cloud (2), [[Security]] (1), web (1)
 > **Env Vars:** abc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - abc (1)
@@ -951,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), public (1), finally, (1)
+> **Frameworks & Libraries:** data (12), ai (3), cloud (3), [[Security]] (3), database (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -973,7 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), public (1)
+> **Frameworks & Libraries:** cloud (3), ai (2), [[Software Development]] (1), aws (1), [[Microsoft Azure]] (1)
 > **Env Vars:** xyz (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
@@ -1004,13 +1008,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (2), case, (1)
+> **Frameworks & Libraries:** application (5), cloud (5), data (4), [[Hybrid Cloud]] (1)
 > **Speakers:** - a (1)
 
 
 ### 5. Cloud Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud security planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-planning?u=76281980)
@@ -1065,6 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), cloud (7), database (2), data (1), business (1)
 > **Definitions:** means that (4), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1145,10 +1150,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), cloud (4), data (3), business (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** oss (2), bss (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** make sure to (1)
@@ -1215,8 +1220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), cloud (3), business (1), [[Private Clouds]] (1), application (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** case. (1), public (1), private (1)
 > **Definitions:** means that (3)
 > **UI Navigation:** select the (1)
 > **Warnings:** keep in mind (1)
@@ -1283,8 +1288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), cloud (6), data (4), [[React.js|React]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** is a  (1), means that (1)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Cross-References:** in the next (1)
@@ -1294,7 +1299,7 @@ created: 2026-04-29
 
 ### 6. Cloud Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud operations overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980)
@@ -1345,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (2), function (1), new, (1), self (1)
+> **Frameworks & Libraries:** cloud (10), application (2), data (2), business (1), [[Operational Excellence]] (1)
 > **Definitions:** is a  (2), we call this (1), in other words (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
@@ -1408,7 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), private (1), public (1)
+> **Frameworks & Libraries:** cloud (8), [[AIOps]] (5), management (4), ai (3), data (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** picture (1), such as (1)
 > **Env Vars:** cmp (1)
@@ -1471,7 +1476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), public (3)
+> **Frameworks & Libraries:** data (7), cloud (6), management (3), [[Security]] (2), [[Hybrid Cloud]] (1)
 > **Definitions:** means that (3)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - monitoring (1)
@@ -1479,7 +1484,7 @@ created: 2026-04-29
 
 ### 7. Cloud FinOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's FinOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980)
@@ -1512,9 +1517,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), business (3), management (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - finops (1)
 
 #### Cloud cost accountability
@@ -1542,7 +1547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), for, (1), finally, (1)
+> **Frameworks & Libraries:** cloud (6), [[Accountability]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1575,6 +1580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), data (2)
 > **Analogies:** for instance (2), for example (1)
 > **Speakers:** - once (1)
 
@@ -1609,13 +1615,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), feature (1), next (1), data (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - so (1)
 
 
 ### 8. Cloud Computing Migration Planning: Key Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify which apps to move
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-apps-to-move?u=76281980)
@@ -1668,7 +1675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), finally, (2), public (1), self (1), let (1)
+> **Frameworks & Libraries:** cloud (12), application (10), data (2), business (2), database (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** you'll need (2)
@@ -1718,7 +1725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (4)
+> **Frameworks & Libraries:** data (20), cloud (6), [[Security]] (4), business (3), database (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** don't forget (1), make sure to (1)
 > **Analogies:** such as (1)
@@ -1788,9 +1795,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), application (4), business (3), data (2), next (1)
 > **Env Vars:** tco (6), roi (5)
 > **Definitions:** means that (2), is an  (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the last (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)
@@ -1838,6 +1845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), application (7), [[SaaS]] (1)
 > **Definitions:** means that (9), known as (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - to (1)
@@ -1893,7 +1901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (4), static (2), case, (1), type. (1)
+> **Frameworks & Libraries:** cloud (8), [[IaaS]] (6), [[PaaS]] (5), [[SaaS]] (4), [[Databases]] (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** erp (1), crm (1)
 > **UI Navigation:** select the (2)
@@ -1941,7 +1949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), private (6), let (1)
+> **Frameworks & Libraries:** cloud (6), [[Private Clouds]] (5), data (2), [[Hardware]] (1), [[Hybrid Cloud]] (1)
 > **Cross-References:** we covered (2), we discussed (1), in the last (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** aws (1)
@@ -1985,7 +1993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (12), application (5), cloud (5), business (2), [[Application Development]] (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -2039,6 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), [[Security]] (6), [[Databases]] (3), business (2), [[Banking]] (2)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** aws (1)
@@ -2048,7 +2057,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud news and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980)
@@ -2091,8 +2100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), aws (1), [[Hardware]] (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), aws (1)
-> **Code Keywords:** let (1), for. (1)
 > **URLs:** [networkworld.com](https://networkworld.com) (1), [informationweek.com](https://informationweek.com) (1)
 > **Env Vars:** smr (1), aws (1)
 > **Code Identifiers:** itunes (1)

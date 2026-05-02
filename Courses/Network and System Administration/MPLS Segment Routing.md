@@ -30,7 +30,7 @@ tags:
   - skill/network-administration
   - skill/computer-networking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/MPLS%20Segment%20Routing.md)
@@ -49,57 +49,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Supercharge your MPLS segment routing
+  - [Supercharge your MPLS segment routing](#supercharge-your-mpls-segment-routing)
 - [**1. Section 1: Why Segment Routing (SR)?**](#1-section-1-why-segment-routing-sr) (3 videos)
-  - IP forwarding
-  - MPLS forwarding
-  - Segment routing (SR)
+  - [IP forwarding](#ip-forwarding)
+  - [MPLS forwarding](#mpls-forwarding)
+  - [Segment routing (SR)](#segment-routing-sr)
 - [**2. Segment Routing (SR) Foundation**](#2-segment-routing-sr-foundation) (6 videos)
-  - Understanding source routing and segment routing
-  - Global and local segments, SRGB, and segment advertisements
-  - Understanding IGP prefix segment
-  - Understanding IGP adjacency segment
-  - SRGB advertisement and index advertisement
-  - Label switching database (LSD)
+  - [Understanding source routing and segment routing](#understanding-source-routing-and-segment-routing)
+  - [Global and local segments, SRGB, and segment advertisements](#global-and-local-segments-srgb-and-segment-advertisements)
+  - [Understanding IGP prefix segment](#understanding-igp-prefix-segment)
+  - [Understanding IGP adjacency segment](#understanding-igp-adjacency-segment)
+  - [SRGB advertisement and index advertisement](#srgb-advertisement-and-index-advertisement)
+  - [Label switching database (LSD)](#label-switching-database-lsd)
 - [**3. Segment Routing (SR) Configuration**](#3-segment-routing-sr-configuration) (4 videos)
-  - IS-IS segment routing configuration
-  - IS-IS segment routing verification
-  - OSPF segment routing configuration
-  - OSPF segment routing verification
+  - [IS-IS segment routing configuration](#is-is-segment-routing-configuration)
+  - [IS-IS segment routing verification](#is-is-segment-routing-verification)
+  - [OSPF segment routing configuration](#ospf-segment-routing-configuration)
+  - [OSPF segment routing verification](#ospf-segment-routing-verification)
 - [**4. Segment Routing (SR) and LDP**](#4-segment-routing-sr-and-ldp) (6 videos)
-  - Segment routing co-existence with LDP
-  - Simple migration from LDP to Segment routing
-  - LDP to Segment routing interworking
-  - Segment routing to LDP interworking
-  - Segment routing over LDP interworking
-  - LDP over segment routing interworking
+  - [Segment routing co-existence with LDP](#segment-routing-co-existence-with-ldp)
+  - [Simple migration from LDP to Segment routing](#simple-migration-from-ldp-to-segment-routing)
+  - [LDP to Segment routing interworking](#ldp-to-segment-routing-interworking)
+  - [Segment routing to LDP interworking](#segment-routing-to-ldp-interworking)
+  - [Segment routing over LDP interworking](#segment-routing-over-ldp-interworking)
+  - [LDP over segment routing interworking](#ldp-over-segment-routing-interworking)
 - [**5. Topology-Independent Loop-Free Alternate (TI-LFA)**](#5-topology-independent-loop-free-alternate-ti-lfa) (7 videos)
-  - Classic loop free alternate (LFA)
-  - TI-LFA for link protection
-  - TI-LFA for node protection
-  - TI-LFA with SRLG
-  - TI-LFA preference
-  - TI-LFA for LDP traffic
-  - TI-LFA wrap-up
+  - [Classic loop free alternate (LFA)](#classic-loop-free-alternate-lfa)
+  - [TI-LFA for link protection](#ti-lfa-for-link-protection)
+  - [TI-LFA for node protection](#ti-lfa-for-node-protection)
+  - [TI-LFA with SRLG](#ti-lfa-with-srlg)
+  - [TI-LFA preference](#ti-lfa-preference)
+  - [TI-LFA for LDP traffic](#ti-lfa-for-ldp-traffic)
+  - [TI-LFA wrap-up](#ti-lfa-wrap-up)
 - [**6. Segment Routing Traffic Engineering (SR-TE)**](#6-segment-routing-traffic-engineering-sr-te) (8 videos)
-  - Segment routing traffic engineering (SR-TE) overview
-  - SR-TE policy with an explicit path
-  - Using adjacency SID in SR-TE with explicit method
-  - Understanding SR-TE policy binding SID
-  - Segment routing traffic engineering (SR-TE) dynamic path
-  - SR-TE dynamic path based on metric-type hop count
-  - SR-TE dynamic path based on metric-type IGP or TE
-  - Constraints in dynamic segment routing traffic engineering
+  - [Segment routing traffic engineering (SR-TE) overview](#segment-routing-traffic-engineering-sr-te-overview)
+  - [SR-TE policy with an explicit path](#sr-te-policy-with-an-explicit-path)
+  - [Using adjacency SID in SR-TE with explicit method](#using-adjacency-sid-in-sr-te-with-explicit-method)
+  - [Understanding SR-TE policy binding SID](#understanding-sr-te-policy-binding-sid)
+  - [Segment routing traffic engineering (SR-TE) dynamic path](#segment-routing-traffic-engineering-sr-te-dynamic-path)
+  - [SR-TE dynamic path based on metric-type hop count](#sr-te-dynamic-path-based-on-metric-type-hop-count)
+  - [SR-TE dynamic path based on metric-type IGP or TE](#sr-te-dynamic-path-based-on-metric-type-igp-or-te)
+  - [Constraints in dynamic segment routing traffic engineering](#constraints-in-dynamic-segment-routing-traffic-engineering)
 - [**7. SR-TE Traffic Steering**](#7-sr-te-traffic-steering) (3 videos)
-  - SR-TE automatic traffic steering with BGP
-  - SR-TE on demand nexthop (ODN)
-  - Multi-domain ODN with path computation element (PCE)
+  - [SR-TE automatic traffic steering with BGP](#sr-te-automatic-traffic-steering-with-bgp)
+  - [SR-TE on demand nexthop (ODN)](#sr-te-on-demand-nexthop-odn)
+  - [Multi-domain ODN with path computation element (PCE)](#multi-domain-odn-with-path-computation-element-pce)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supercharge your MPLS segment routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/supercharge-your-mpls-segment-routing?u=76281980)
@@ -122,14 +122,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (3), [[Traffic Engineering]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), traffic (1), [[Engineering]] (1)
 > **Env Vars:** mpls (2), srt (1), mpl (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [arash] (1)
 
 
 ### 1. Section 1: Why Segment Routing (SR)?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IP forwarding
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980)
@@ -194,8 +194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Routing]] (5), next (4), [[Traffic Engineering]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4)
 > **Env Vars:** mpls (4)
-> **Code Keywords:** let (2), function (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -289,8 +289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (18), [[Routing]] (11), traffic (4), next (3), [[Scalability]] (3)
 > **Env Vars:** mpls (18), ler (2), fec (1), lsr (1), ldp (1)
-> **Code Keywords:** switch (4), let (1), static (1)
 > **Definitions:** is a  (3), stands for (1), known as (1)
 > **Prerequisites:** configure (2), setup (1)
 > **CLI Commands:** make (1)
@@ -348,14 +348,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (15), [[Routing]] (14), [[Traffic Engineering]] (7), management (4), [[Scalability]] (3)
 > **Env Vars:** mpls (15), ldp (1), rsvp (1)
-> **Code Keywords:** let (2), static (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Segment Routing (SR) Foundation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding source routing and segment routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980)
@@ -426,10 +426,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (17), traffic (5), node (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), next (1)
 > **CLI Commands:** node (5)
 > **Definitions:** is a  (2), known as (1), means that (1)
 > **Env Vars:** mpls (2), igp (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -495,6 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (8), node (5), traffic (3)
 > **Env Vars:** srgb (9), sid (3), igp (1), ospf (1)
 > **Definitions:** is an  (2), means that (2), is a  (2), defined as (1), known as (1)
 > **CLI Commands:** node (5)
@@ -586,10 +587,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[Routing]] (3), traffic (2)
 > **Env Vars:** igp (15), sid (15), ecmp (1), isis (1), ospf (1)
 > **Versions:** 10.0.5 (3), 10.0.1 (2), 10.0.2 (2), 10.0.3 (2), 10.0.4 (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Understanding IGP adjacency segment
@@ -667,6 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (3), traffic (1), next (1), [[Traffic Engineering]] (1)
 > **Env Vars:** sid (8), igp (6), ospf (2)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
@@ -791,9 +793,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (8), data (1), management (1)
 > **Env Vars:** srgb (22), sid (5), lfib (3), ospf (2), igp (1)
 > **Versions:** 5.5.5 (8)
-> **Code Keywords:** let (2), function (1)
 > **Analogies:** for example (3)
 > **Definitions:** stands for (1), is a  (1)
 > **Best Practices:** recommended (1)
@@ -872,15 +874,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (10), [[Multiprotocol Label Switching (MPLS)|Mpls]] (5), database (1), vpn (1)
 > **Env Vars:** lsd (16), srgb (16), mpls (5), ospf (4), ldp (3)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Segment Routing (SR) Configuration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IS-IS segment routing configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980)
@@ -973,8 +975,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (14), [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), data (2), next (1)
 > **Env Vars:** arash (8), mpls (3), sid (3), osvf (2), tag (2)
-> **Code Keywords:** interface (20), let (2)
 > **Versions:** 49.0001.0000 (4), 1.1.1 (1), 2.2.2 (1), 3.3.3 (1), 0000.0001.00 (1)
 > **Prerequisites:** configure (6)
 > **SQL:** index (1)
@@ -1124,8 +1126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (22), next (6), database (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), traffic (1)
 > **Env Vars:** sid (20), srgb (9), frr (7), icmp (2), mpls (2)
-> **Code Keywords:** interface (6), let (3), continue (2), finally, (1), extends (1)
 > **Versions:** 4.4.4 (3), 10.2.3 (1), 10.3.4 (1)
 > **Definitions:** is a  (3), is an  (1), in other words (1)
 > **CLI Commands:** node (1)
@@ -1210,8 +1212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (12), [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), next (1)
 > **Env Vars:** ospf (9), arash (4), ios (3), mpls (1), pid (1)
-> **Code Keywords:** interface (18), type. (1)
 > **Prerequisites:** configure (5)
 > **Versions:** 1.1.1 (1), 2.2.2 (1), 3.3.3 (1), 4.4.4 (1)
 > **SQL:** index (1)
@@ -1343,8 +1345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (15), [[Multiprotocol Label Switching (MPLS)|Mpls]] (13), traffic (4), database (4), next (3)
 > **Env Vars:** ospf (17), mpls (10), sid (7), ios (3), cef (3)
-> **Code Keywords:** interface (9), let (4), case, (2), this, (1)
 > **Versions:** 4.4.4 (3), 2.2.2 (2), 10.2.3 (2), 10.1.2 (1), 1.1.1 (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -1354,7 +1356,7 @@ created: 2026-04-29
 
 ### 4. Segment Routing (SR) and LDP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Segment routing co-existence with LDP
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980)
@@ -1467,9 +1469,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (17), [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), data (2), next (2), concurrent (1)
 > **Env Vars:** ldp (24), srgb (9), mpls (6), sid (3), lfib (3)
 > **Versions:** 1.1.1 (7)
-> **Code Keywords:** let (1), default, (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
@@ -1535,9 +1537,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), traffic (3), [[Routing]] (3)
 > **Env Vars:** ldp (14), mpls (3)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### LDP to Segment routing interworking
@@ -1623,10 +1625,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (3), node (3), next (3), [[PHP]] (1)
 > **Env Vars:** ldp (22), lfib (2), sid (2), srgb (1), fib (1)
 > **Versions:** 1.1.1 (9)
 > **CLI Commands:** node (3), php (1)
-> **Code Keywords:** let (2), interface (1), switch (1)
 > **Speakers:** - [instructor] (1)
 
 #### Segment routing to LDP interworking
@@ -1716,10 +1718,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (8), node (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), next (1)
 > **Env Vars:** ldp (16), sid (8), lfib (2), srgb (1), mpls (1)
 > **Versions:** 1.1.1 (11)
 > **CLI Commands:** node (3)
-> **Code Keywords:** interface (2), let (1)
 > **Prerequisites:** install (1), configure (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1827,9 +1829,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (4), traffic (2), node (1), next (1)
 > **Env Vars:** ldp (31), sid (11), srl (4), srgb (1), igp (1)
 > **Versions:** 1.1.1 (16)
-> **Code Keywords:** let (2), this, (1), switch (1)
 > **Definitions:** is an  (4)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
@@ -1935,6 +1937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (4), traffic (2), node (1)
 > **Env Vars:** ldp (37), sid (7), lfib (3), igp (1), fib (1)
 > **Versions:** 5.5.5 (7), 4.4.4 (6)
 > **Definitions:** is an  (6)
@@ -1946,7 +1949,7 @@ created: 2026-04-29
 
 ### 5. Topology-Independent Loop-Free Alternate (TI-LFA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classic loop free alternate (LFA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/classic-loop-free-alternate-lfa?u=76281980)
@@ -2031,8 +2034,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), [[Routing]] (3), data (1), next (1)
 > **Env Vars:** lfa (18), frr (10), igp (6), ospf (1)
-> **Code Keywords:** switch (2), let (1), case, (1)
 > **UI Navigation:** switch to (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2109,8 +2112,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (9), traffic (4), node (1), data (1), [[Resiliency]] (1)
 > **Env Vars:** lfa (14), igp (2), ospf (1), process (1), tag (1)
-> **Code Keywords:** interface (3), let (1)
 > **Versions:** 4.4.4 (3), 10.1.3 (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **CLI Commands:** node (1)
@@ -2185,10 +2188,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (17), next (3), traffic (1), [[Routing]] (1)
 > **CLI Commands:** node (17)
 > **Env Vars:** lfa (6), igp (4), sid (4), arash (2), ospf (1)
 > **Versions:** 4.4.4 (6), 0.0.0 (2), node 3 (1), 3.3.3 (1), node 4 (1)
-> **Code Keywords:** interface (6), let (4)
 > **Cross-References:** we covered (1), in the next (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
@@ -2265,8 +2268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), feature (1), node (1), next (1)
 > **Env Vars:** srlg (16), lfa (9), int_name (1), index (1), srlg_value (1)
-> **Code Keywords:** interface (5), let (2), case, (1)
 > **Prerequisites:** configure (3), setup (1)
 > **Analogies:** for instance (1), imagine (1), for example (1)
 > **CLI Commands:** node (1), find (1)
@@ -2383,9 +2386,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (24), traffic (5), next (3), feature (2), [[Security]] (1)
 > **Env Vars:** srlg (26), lfa (10), igp (10), igo (1)
 > **CLI Commands:** node (24), find (2)
-> **Code Keywords:** interface (8), let (6), protected (4), continue (1), require (1)
 > **Versions:** 4.4.4 (5)
 > **UI Navigation:** select the (1)
 > **Definitions:** in other words (1)
@@ -2421,8 +2424,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), [[Routing]] (1)
 > **Env Vars:** ldp (5), lfa (4), igp (1)
-> **Code Keywords:** interface (1), switch (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2479,9 +2482,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (6), traffic (6), node (3)
 > **Env Vars:** lfa (11), igp (3), ldp (1), sid (1), srlg (1)
 > **CLI Commands:** node (3)
-> **Code Keywords:** let (1), interface (1), case. (1)
 > **Analogies:** imagine (1), such as (1)
 > **Versions:** 6.6.6 (1)
 > **Prerequisites:** setup (1)
@@ -2490,7 +2493,7 @@ created: 2026-04-29
 
 ### 6. Segment Routing Traffic Engineering (SR-TE)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Segment routing traffic engineering (SR-TE) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-overview?u=76281980)
@@ -2569,9 +2572,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (11), node (7), [[Routing]] (2), [[Traffic Engineering]] (2), next (1)
 > **CLI Commands:** node (7)
 > **Versions:** node 4 (3), node 1 (2), 1.1.1 (1), 2.2.2 (1)
-> **Code Keywords:** let (3), type. (1)
 > **Analogies:** such as (3)
 > **Env Vars:** sla (1)
 > **Cross-References:** in the next (1)
@@ -2707,9 +2710,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (13), [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Routing]] (4), [[Traffic Engineering]] (4)
 > **Env Vars:** sid (5), r12436 (3), rib (2), fib (2), r12536 (2)
 > **Versions:** 6.6.6 (8)
-> **Code Keywords:** static (4), let (1), case, (1), default, (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
@@ -2791,8 +2794,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (11), [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), [[Routing]] (3), [[Traffic Engineering]] (2), management (1)
 > **Env Vars:** sid (7), mpls (6), srt (4)
-> **Code Keywords:** pass (7), this, (1), switch (1)
 > **Versions:** 4.4.4 (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** similar to (1)
@@ -2857,11 +2860,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), [[Traffic Engineering]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Routing]] (1), [[Scalability]] (1)
 > **Env Vars:** sid (15), srt (9), mpls (2), sids (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** think of it as (1), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Versions:** 4.4.4 (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2927,9 +2930,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), [[Traffic Engineering]] (2), [[Routing]] (1), [[Real-Time]] (1), [[Resiliency]] (1)
 > **Env Vars:** sid (3), pce (2), igp (2), ospf (2), isis (2)
 > **Analogies:** such as (4)
-> **Code Keywords:** require (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3048,9 +3051,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (9), [[Routing]] (5), [[Traffic Engineering]] (4), database (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2)
 > **Versions:** 5.5.5 (5)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** case, (3)
 > **Env Vars:** sid (2), mpls (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** such as (1)
@@ -3136,9 +3139,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (11), [[Routing]] (6), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Traffic Engineering]] (2), next (1)
 > **Env Vars:** igp (7), mpls (2), sid (2)
 > **Versions:** 5.5.5 (9)
-> **Code Keywords:** static (2), finally, (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
@@ -3231,8 +3234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (7), traffic (5), [[Traffic Engineering]] (2), next (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
 > **Env Vars:** srt (3), green (3), igp (2)
-> **Code Keywords:** let (3), interface (1), this, (1), finally, (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Versions:** 5.5.5 (2)
 > **UI Navigation:** select the (1)
@@ -3243,7 +3246,7 @@ created: 2026-04-29
 
 ### 7. SR-TE Traffic Steering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SR-TE automatic traffic steering with BGP
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-automatic-traffic-steering-with-bgp?u=76281980)
@@ -3346,9 +3349,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (15), [[Routing]] (1), [[Traffic Engineering]] (1), power (1)
 > **Env Vars:** bgp (7), srt (7), red (4), orange (3), set_color (2)
 > **Versions:** 5.5.5 (4), 7.7.7 (4), 9.9.9 (4)
-> **Code Keywords:** let (2), case, (1), this, (1), this. (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -3458,8 +3461,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (17), [[Routing]] (6), next (3), [[Traffic Engineering]] (3), [[Engineering]] (1)
 > **Env Vars:** igp (15), odn (5), bgp (3), sla (2), ospf (1)
-> **Code Keywords:** this, (1), case, (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
@@ -3564,8 +3567,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), [[Traffic Engineering]] (4), data (2), [[Routing]] (1), next (1)
 > **Env Vars:** pce (18), sid (11), pcep (7), srt (6), pcc (4)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
@@ -3574,7 +3577,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980)
@@ -3605,6 +3608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), next (2), power (1), [[Scalability]] (1)
 > **Env Vars:** mpls (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [arash] (1)

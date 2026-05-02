@@ -27,7 +27,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Software%20Testing-QA.md)
@@ -46,40 +46,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Set the standard with quality assurance (QA)
-  - What is quality assurance?
-  - How to ensure quality
+  - [Set the standard with quality assurance (QA)](#set-the-standard-with-quality-assurance-qa)
+  - [What is quality assurance?](#what-is-quality-assurance)
+  - [How to ensure quality](#how-to-ensure-quality)
 - [**1. The Role of QA**](#1-the-role-of-qa) (4 videos)
-  - Roles and responsibilities
-  - Get involved throughout the SDLC
-  - Collaborate with the team
-  - Set expectations and goals
+  - [Roles and responsibilities](#roles-and-responsibilities)
+  - [Get involved throughout the SDLC](#get-involved-throughout-the-sdlc)
+  - [Collaborate with the team](#collaborate-with-the-team)
+  - [Set expectations and goals](#set-expectations-and-goals)
 - [**2. Test Planning**](#2-test-planning) (4 videos)
-  - Create a test strategy
-  - Make a test plan
-  - Write acceptance criteria
-  - Identify when testing is complete
+  - [Create a test strategy](#create-a-test-strategy)
+  - [Make a test plan](#make-a-test-plan)
+  - [Write acceptance criteria](#write-acceptance-criteria)
+  - [Identify when testing is complete](#identify-when-testing-is-complete)
 - [**3. Types of Testing QA Focuses On**](#3-types-of-testing-qa-focuses-on) (6 videos)
-  - Box testing
-  - Manual testing
-  - UI automation testing
-  - Integration testing
-  - Performance testing
-  - Security testing
+  - [Box testing](#box-testing)
+  - [Manual testing](#manual-testing)
+  - [UI automation testing](#ui-automation-testing)
+  - [Integration testing](#integration-testing)
+  - [Performance testing](#performance-testing)
+  - [Security testing](#security-testing)
 - [**4. Bug Reporting**](#4-bug-reporting) (6 videos)
-  - Identify bugs
-  - Report bugs
-  - Triage bugs
-  - Communicate bugs to the team
-  - Getting bugs fixed
-  - Have bug bashes
+  - [Identify bugs](#identify-bugs)
+  - [Report bugs](#report-bugs)
+  - [Triage bugs](#triage-bugs)
+  - [Communicate bugs to the team](#communicate-bugs-to-the-team)
+  - [Getting bugs fixed](#getting-bugs-fixed)
+  - [Have bug bashes](#have-bug-bashes)
 - [**Glossaries**](#glossaries) (0 videos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set the standard with quality assurance (QA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980)
@@ -108,6 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quality Assurance]] (5), career (1), [[Software Testing]] (1), [[LinkedIn]] (1)
 > **Speakers:** - nothing (1)
 
 #### What is quality assurance?
@@ -133,6 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), application (2), [[Quality Assurance]] (1), [[Software Development]] (1), [[Software Testing]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - the (1)
 
@@ -169,13 +171,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** application (3), product (2)
 > **Speakers:** - good (1)
 
 
 ### 1. The Role of QA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Roles and responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980)
@@ -278,8 +280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), product (6), strengths (4), [[DevOps]] (3), management (3)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** for. (1), continue (1), let (1)
 > **Analogies:** such as (1), for instance (1), for example (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Definitions:** is a  (1)
@@ -334,6 +336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), feature (3), [[Software Development]] (1), business (1)
 > **Env Vars:** sdlc (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -379,6 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), business (3), [[Building Trust]] (2), [[Accountability]] (2), functional (1)
 > **Env Vars:** sdlc (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - it (1)
@@ -442,8 +446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this, (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - i (1)
@@ -451,7 +455,7 @@ created: 2026-04-29
 
 ### 2. Test Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a test strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980)
@@ -538,6 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), next (3), [[Windows]] (3), [[Manual Testing]] (2), data (2)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -624,8 +629,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (12), [[User Management]] (2), application (2), next (1), [[Automation]] (1)
 > **Definitions:** is a  (7)
-> **Code Keywords:** function (1), let (1), delete (1)
 > **Speakers:** - each (1)
 
 #### Write acceptance criteria
@@ -683,7 +688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), for, (1)
+> **Frameworks & Libraries:** feature (4), application (2), product (1), business (1), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -724,7 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), public (1)
+> **Frameworks & Libraries:** next (1), product (1), [[Automation]] (1)
 > **Env Vars:** sdlc (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - it (1)
@@ -732,7 +737,7 @@ created: 2026-04-29
 
 ### 3. Types of Testing QA Focuses On
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Box testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980)
@@ -819,9 +824,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), web (2), product (1), [[Manual Testing]] (1), [[Automation]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** navigate to (1)
 > **Exercise Files:** source code (1)
@@ -876,7 +881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** feature (4), [[Manual Testing]] (3), data (3), application (1), [[Search]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - manual (1)
@@ -920,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), continue (1)
+> **Frameworks & Libraries:** [[Automation]] (5), data (3), [[Search]] (3), feature (2), [[Manual Testing]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sdlc (1)
 > **Definitions:** is a  (1)
@@ -959,6 +964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Automation]] (3), feature (3), [[Integration Testing]] (2), [[Search]] (2)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -1023,9 +1029,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), [[Search]] (3), [[Load Testing]] (2), [[Automation]] (1), [[Integration Testing]] (1)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** include, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - performance (1)
 
@@ -1084,6 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), application (8), [[SQL]] (4), data (3), [[Search]] (3)
 > **Env Vars:** sql (4)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -1094,7 +1101,7 @@ created: 2026-04-29
 
 ### 4. Bug Reporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify bugs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/identify-bugs?u=76281980)
@@ -1131,7 +1138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** application (5)
 > **Speakers:** - when (1)
 
 #### Report bugs
@@ -1193,11 +1200,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), [[GitHub]] (2), application (2), management (1), [[E-Commerce]] (1)
 > **Tools:** jira (3), github (2)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (1), picture (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** gif (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - once (1)
@@ -1257,8 +1264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[E-Commerce]] (1), [[HTML]] (1), [[Windows]] (1), application (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (2)
 > **Best Practices:** don't forget (2)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -1296,7 +1303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), from. (1), let (1)
+> **Frameworks & Libraries:** [[Analytics]] (1), application (1)
 > **Analogies:** such as (1)
 > **Speakers:** - after (1)
 
@@ -1327,6 +1334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
@@ -1361,6 +1369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), feature (2), [[Manual Testing]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** bash (1)
 > **Definitions:** is a  (1)
@@ -1369,12 +1378,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980)
@@ -1411,10 +1420,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (4), [[Agile Development|Agile]] (2), [[Selenium]] (2), [[LinkedIn]] (2), web (1)
 > **Env Vars:** stp (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Tools:** bash (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - thank (1)

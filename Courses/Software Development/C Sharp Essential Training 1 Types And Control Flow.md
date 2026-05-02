@@ -28,7 +28,7 @@ tags:
   - skill/control-flow
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%20Sharp%20Essential%20Training%201%20Types%20And%20Control%20Flow.md)
@@ -47,61 +47,61 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Explore the essentials
-  - What you should know
-  - CoderPad tour
+  - [Explore the essentials](#explore-the-essentials)
+  - [What you should know](#what-you-should-know)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. C# in Context of .NET**](#1-c-in-context-of-net) (5 videos)
-  - C# compiles to MSIL
-  - .NET runtime is responsible for running MSIL
-  - The base class library
-  - NuGet packages
-  - Compiling C# to a library or executable
+  - [C# compiles to MSIL](#c-compiles-to-msil)
+  - [.NET runtime is responsible for running MSIL](#net-runtime-is-responsible-for-running-msil)
+  - [The base class library](#the-base-class-library)
+  - [NuGet packages](#nuget-packages)
+  - [Compiling C# to a library or executable](#compiling-c-to-a-library-or-executable)
 - [**2. Working with Classes, Structs, and Records**](#2-working-with-classes-structs-and-records) (9 videos)
-  - Understanding classes, structs, and records
-  - Defining constructors
-  - Object initialization
-  - Initialize only properties
-  - Cloning and copying objects
-  - Equality comparisons
-  - Defining abstract classes
-  - Creating static classes
-  - Solution: Expressing equality
+  - [Understanding classes, structs, and records](#understanding-classes-structs-and-records)
+  - [Defining constructors](#defining-constructors)
+  - [Object initialization](#object-initialization)
+  - [Initialize only properties](#initialize-only-properties)
+  - [Cloning and copying objects](#cloning-and-copying-objects)
+  - [Equality comparisons](#equality-comparisons)
+  - [Defining abstract classes](#defining-abstract-classes)
+  - [Creating static classes](#creating-static-classes)
+  - [Solution: Expressing equality](#solution-expressing-equality)
 - [**3. Organizing C# Code**](#3-organizing-c-code) (4 videos)
-  - Using namespaces to organize code
-  - Referencing .NET assemblies
-  - Applying access modifiers
-  - Aliasing namespaces for clarity
+  - [Using namespaces to organize code](#using-namespaces-to-organize-code)
+  - [Referencing .NET assemblies](#referencing-net-assemblies)
+  - [Applying access modifiers](#applying-access-modifiers)
+  - [Aliasing namespaces for clarity](#aliasing-namespaces-for-clarity)
 - [**4. Variables Revisited**](#4-variables-revisited) (5 videos)
-  - Declaring variables using types
-  - Using the var keyword
-  - Working with anonymous types
-  - Using dynamic variables
-  - Solution: Dynamic keyword
+  - [Declaring variables using types](#declaring-variables-using-types)
+  - [Using the var keyword](#using-the-var-keyword)
+  - [Working with anonymous types](#working-with-anonymous-types)
+  - [Using dynamic variables](#using-dynamic-variables)
+  - [Solution: Dynamic keyword](#solution-dynamic-keyword)
 - [**5. Working with Enums and Nullables**](#5-working-with-enums-and-nullables) (9 videos)
-  - Defining enums
-  - Enabling multiple enum values
-  - Testing enum values
-  - Understanding nullable types
-  - Using nullable types
-  - Working with null objects
-  - Understanding nullable reference types
-  - Working with nullable reference types
-  - Solution: Enum Flags
+  - [Defining enums](#defining-enums)
+  - [Enabling multiple enum values](#enabling-multiple-enum-values)
+  - [Testing enum values](#testing-enum-values)
+  - [Understanding nullable types](#understanding-nullable-types)
+  - [Using nullable types](#using-nullable-types)
+  - [Working with null objects](#working-with-null-objects)
+  - [Understanding nullable reference types](#understanding-nullable-reference-types)
+  - [Working with nullable reference types](#working-with-nullable-reference-types)
+  - [Solution: Enum Flags](#solution-enum-flags)
 - [**6. Using Patterns in Control Flow**](#6-using-patterns-in-control-flow) (8 videos)
-  - If and switch revisited
-  - Switch statement vs. switch expression
-  - Using the is expression
-  - Introduction to patterns
-  - Constant, relational, and logical patterns
-  - Property pattern
-  - Guard conditions
-  - Solution: Switch expression using patterns
+  - [If and switch revisited](#if-and-switch-revisited)
+  - [Switch statement vs. switch expression](#switch-statement-vs-switch-expression)
+  - [Using the is expression](#using-the-is-expression)
+  - [Introduction to patterns](#introduction-to-patterns)
+  - [Constant, relational, and logical patterns](#constant-relational-and-logical-patterns)
+  - [Property pattern](#property-pattern)
+  - [Guard conditions](#guard-conditions)
+  - [Solution: Switch expression using patterns](#solution-switch-expression-using-patterns)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learn more and build something
+  - [Learn more and build something](#learn-more-and-build-something)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/explore-the-essentials?u=76281980)
@@ -120,8 +120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Control Flow]] (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [matt] (1)
 
 #### What you should know
@@ -161,9 +161,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Windows]] (3), [[LinkedIn]] (2)
 > **Tools:** visual studio (4)
 > **CLI Commands:** find (2), unzip (1)
-> **Code Keywords:** let (1), this, (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Env Vars:** net (1)
 > **Analogies:** similar to (1)
@@ -222,7 +222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), type, (1), try. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), [[Language Integrated Query (LINQ)|Linq]] (1), next (1)
 > **Env Vars:** linq (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 ### 1. C# in Context of .NET
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### C# compiles to MSIL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980)
@@ -290,8 +290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Programming]] (2), [[Functional Programming]] (1), application (1), [[LinkedIn]] (1)
 > **Env Vars:** net (7), msil (5), ildasm (1)
-> **Code Keywords:** class, (2), case, (1), static (1), from, (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -327,6 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Windows]] (4), [[Linux]] (2), cross-platform (1), feature (1)
 > **Env Vars:** net (6), msil (2), sdk (1)
 > **Prerequisites:** setup (1), install (1)
 > **Speakers:** - [instructor] (1)
@@ -356,6 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Microsoft]] (2), [[Software Development]] (1), data (1), business (1)
 > **Env Vars:** bcl (3), sdk (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -441,6 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (2), [[JSON]] (2), application (1), [[LinkedIn]] (1), [[Security]] (1)
 > **Env Vars:** net (6), dll (2), json (2), bcl (1), xml (1)
 > **URLs:** [nuget.org](https://nuget.org) (3), [json.net](https://json.net) (1), [asp.net](https://asp.net) (1)
 > **Prerequisites:** install (4)
@@ -448,7 +451,6 @@ created: 2026-04-29
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** just like (1), for example (1), picture (1)
 > **Versions:** 2.0 (1)
-> **Tools:** visual studio (1)
 
 #### Compiling C# to a library or executable
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/compiling-c-sharp-to-a-library-or-executable?u=76281980)
@@ -507,7 +509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1)
+> **Frameworks & Libraries:** prompt (1)
 > **Tools:** visual studio (2), command prompt (1)
 > **Env Vars:** dll (1), msil (1)
 > **Analogies:** just like (1)
@@ -516,7 +518,7 @@ created: 2026-04-29
 
 ### 2. Working with Classes, Structs, and Records
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding classes, structs, and records
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980)
@@ -661,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (8), type. (6), interface (6), class, (5), class. (5)
+> **Frameworks & Libraries:** [[Microsoft]] (1), data (1), application (1), [[Microservices]] (1)
 > **Tools:** notion (3), visual studio (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** net (3)
@@ -817,7 +819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (11), let (6), class, (2), public (1), this, (1)
+> **Frameworks & Libraries:** next (3), application (1)
 > **Code Identifiers:** firstname (8), lastname (8), empid (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (1)
@@ -910,7 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), type, (2), pass (1), default. (1)
+> **Frameworks & Libraries:** [[Programming]] (1), application (1)
 > **Prerequisites:** initialization (8)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (2), find (1)
@@ -1006,7 +1008,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (2), private (2), continue (1), default, (1)
 > **Code Identifiers:** numberofreports (2)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -1182,7 +1183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (5), pass (3), this, (2), type, (1)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** anotherage (5), myage (4), startingage (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
@@ -1309,7 +1310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (3), switch (2), override (2), default, (1), type. (1)
+> **Frameworks & Libraries:** [[Debugging]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)
@@ -1459,7 +1460,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (15), override (11), class. (9), class, (7), interface (3)
 > **Definitions:** is a  (3), means that (2), is an  (2)
 > **CLI Commands:** make (2)
 > **Warnings:** warning (1), important note (1)
@@ -1585,7 +1585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (28), class. (5), public (3), private (2), this. (2)
+> **Frameworks & Libraries:** application (1), database (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** config_db_name (2), server_name (1)
 > **Code Identifiers:** connectionstring (2)
@@ -1619,13 +1619,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), struct (1), type, (1), override (1), class. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Organizing C# Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using namespaces to organize code
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-namespaces-to-organize-code?u=76281980)
@@ -1704,7 +1703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), this. (1), let (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), application (1), web application (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** net (2)
 > **Tools:** command line (1), visual studio (1)
@@ -1820,7 +1819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (1), pass (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[JSON]] (5), application (3), node (2), [[Metadata]] (1)
 > **CLI Commands:** node (2), make (1), dotnet (1), find (1)
 > **Env Vars:** json (2), dll (1), com (1), ide (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -1900,7 +1899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), protected (6), public (4), class, (4), static (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1960,7 +1959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (3), default, (1), public (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (7)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1969,7 +1968,7 @@ created: 2026-04-29
 
 ### 4. Variables Revisited
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Declaring variables using types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/declaring-variables-using-types?u=76281980)
@@ -2006,7 +2005,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
 > **CLI Commands:** make (1)
 > **Ports:** :30 (1)
 > **Speakers:** - [illustrator] (1)
@@ -2050,7 +2048,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (5), this, (1), type. (1)
 > **Versions:** 10.0 (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -2113,7 +2110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (3), let (2), type, (2), type. (1), this, (1)
+> **Frameworks & Libraries:** [[ASP.NET]] (1), web (1), [[Language Integrated Query (LINQ)|Language integrated query]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Prerequisites:** initialization (1)
@@ -2182,7 +2179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (4), type, (2), type. (1), let (1), interface (1)
+> **Frameworks & Libraries:** [[Debugging]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
@@ -2218,7 +2215,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), this, (1)
 > **Code Identifiers:** answergenerator (3)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -2227,7 +2223,7 @@ created: 2026-04-29
 
 ### 5. Working with Enums and Nullables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining enums
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/defining-enums?u=76281980)
@@ -2296,7 +2292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (6), let (4), type. (3), type, (2), var (1)
+> **Frameworks & Libraries:** data (2), database (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -2407,7 +2403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (3), let (1), this, (1), type. (1), this. (1)
+> **Frameworks & Libraries:** data (2), database (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2506,7 +2502,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (4), pass (4), let (3), type. (2), this, (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Speakers:** - once (1)
@@ -2582,8 +2577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), generic (1)
 > **Definitions:** is a  (4), means that (2), is an  (1)
-> **Code Keywords:** type. (1), struct (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** definiteint (1)
 > **Speakers:** - [instructor] (1)
@@ -2629,7 +2624,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -2719,7 +2713,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** definiteint (9)
-> **Code Keywords:** let (3), case, (2), this, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -2833,7 +2826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), return, (1), case, (1), static (1), pass (1)
+> **Frameworks & Libraries:** [[Programming]] (2), application (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -2887,7 +2880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (5), let (2), type, (1), return, (1), static (1)
+> **Frameworks & Libraries:** hit (3), next (1), application (1)
 > **CLI Commands:** make (2), dotnet (1), find (1)
 > **Definitions:** is a  (3)
 > **Analogies:** it's like (1), just like (1), for example (1)
@@ -2928,7 +2921,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (1), type. (1), default, (1), this, (1), else. (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** int (1)
 > **Analogies:** for example (1)
@@ -2937,7 +2929,7 @@ created: 2026-04-29
 
 ### 6. Using Patterns in Control Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### If and switch revisited
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/if-and-switch-revisited?u=76281980)
@@ -3050,7 +3042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (8), case, (3), throw (3), return, (3), this. (3)
+> **Frameworks & Libraries:** [[Control Flow]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3187,7 +3179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (10), case, (4), let (4), pass (4), enum (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** padchar (1)
 > **Env Vars:** var (1)
@@ -3320,7 +3312,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), this. (2), interface (2), type, (2)
 > **Definitions:** is a  (7), is an  (3)
 > **Env Vars:** swv (5), mgr (2)
 > **CLI Commands:** make (2)
@@ -3401,7 +3392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (13), type. (2), this. (1), this, (1), let (1)
+> **Frameworks & Libraries:** next (1), power (1)
 > **Definitions:** is a  (5)
 > **Analogies:** just like (2)
 > **Versions:** 7.0 (1)
@@ -3493,7 +3484,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (3), case, (2), this, (1), default. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Property pattern
@@ -3587,7 +3577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (6), pass (3), static (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (1)
 > **Ports:** :00 (4)
 > **Definitions:** is a  (4)
 > **Env Vars:** swv (2)
@@ -3681,7 +3671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), let (3), type, (1), else. (1), this, (1)
+> **Frameworks & Libraries:** hit (1), [[Control Flow]] (1)
 > **Code Identifiers:** padchar (2)
 > **Env Vars:** swv (1)
 > **Definitions:** is a  (1)
@@ -3739,7 +3729,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), case, (1), finally, (1), pass (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3747,7 +3736,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more and build something
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980)
@@ -3776,9 +3765,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Windows]] (3), next (2), application (2), [[Language Integrated Query (LINQ)|Language integrated query]] (1)
 > **Env Vars:** asp (1), net (1), html (1), css (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** finally, (1), this, (1)
 > **Code Identifiers:** ios (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [matt] (1)

@@ -31,7 +31,7 @@ tags:
   - skill/react-js
   - skill/graphql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20GraphQL%20Project%20with%20React.js.md)
@@ -50,37 +50,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why use React with GraphQL for projects?
-  - Using the exercises for this course
+  - [Why use React with GraphQL for projects?](#why-use-react-with-graphql-for-projects)
+  - [Using the exercises for this course](#using-the-exercises-for-this-course)
 - [**1. Getting Started**](#1-getting-started) (3 videos)
-  - Installing requirements
-  - Analyzing the React installation
-  - Customizing and adding modules
+  - [Installing requirements](#installing-requirements)
+  - [Analyzing the React installation](#analyzing-the-react-installation)
+  - [Customizing and adding modules](#customizing-and-adding-modules)
 - [**2. GitHub's GraphQL Schema**](#2-githubs-graphql-schema) (3 videos)
-  - Exploring GraphQL
-  - Building queries
-  - GitHub authentication tokens
+  - [Exploring GraphQL](#exploring-graphql)
+  - [Building queries](#building-queries)
+  - [GitHub authentication tokens](#github-authentication-tokens)
 - [**3. Working with GraphQL Data**](#3-working-with-graphql-data) (4 videos)
-  - Retrieving data
-  - Generating state
-  - Creating a query component
-  - Using the Callback hook
+  - [Retrieving data](#retrieving-data)
+  - [Generating state](#generating-state)
+  - [Creating a query component](#creating-a-query-component)
+  - [Using the Callback hook](#using-the-callback-hook)
 - [**4. Building the React App**](#4-building-the-react-app) (4 videos)
-  - Generating a list of repos
-  - Using search queries
-  - Working with conditional classes
-  - Reading license information
+  - [Generating a list of repos](#generating-a-list-of-repos)
+  - [Using search queries](#using-search-queries)
+  - [Working with conditional classes](#working-with-conditional-classes)
+  - [Reading license information](#reading-license-information)
 - [**5. Adding Interactive Features**](#5-adding-interactive-features) (4 videos)
-  - Creating dynamic queries
-  - Building a search component
-  - Setting up pagination
-  - Creating the pagination interface
+  - [Creating dynamic queries](#creating-dynamic-queries)
+  - [Building a search component](#building-a-search-component)
+  - [Setting up pagination](#setting-up-pagination)
+  - [Creating the pagination interface](#creating-the-pagination-interface)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use React with GraphQL for projects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980)
@@ -101,8 +101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[React.js|React]] (3), application (2), [[GitHub]] (2), [[Web Development]] (1)
 > **Tools:** github (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [ray] (1)
@@ -158,10 +158,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), hit (2), [[Git]] (2), [[npm]] (1), [[Search]] (1)
 > **Tools:** github (5), visual studio (1), terminal (1)
 > **Exercise Files:** download the (4), github repo (1), zip file (1)
 > **CLI Commands:** find (2), git (2), npm (1)
-> **Code Keywords:** switch (1), this, (1), let (1)
 > **UI Navigation:** go to (1), click on (1), switch to (1)
 > **Env Vars:** zip (1), npm (1)
 > **Definitions:** is an  (1), means that (1)
@@ -170,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980)
@@ -289,9 +289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[Git]] (7), application (6), [[Node.js]] (5), [[npm]] (5)
 > **CLI Commands:** git (7), make (7), node (6), npm (5), npx (4)
 > **Tools:** terminal (5), bash (2), visual studio (2)
-> **Code Keywords:** let (4), this, (2), require (1), while. (1)
 > **File Paths:** node.js (5), db.js (1)
 > **Env Vars:** npx (2), jsx (1), npm (1), readme (1), ftp (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -517,7 +517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), public (4), function (4), module (3), finally, (2)
+> **Frameworks & Libraries:** [[React.js|React]] (20), application (14), [[JavaScript]] (12), [[HTML]] (11), web (10)
 > **File Paths:** index.html (5), index.js (3), app.js (3), index.css (2), contributing.md (1)
 > **Env Vars:** css (7), html (6), jsx (3), readme (1), json (1)
 > **Definitions:** is a  (13), is called (3), means that (2)
@@ -765,7 +765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (4), this, (4), switch (2), import, (2)
+> **Frameworks & Libraries:** css (11), application (7), next (3), [[npm]] (3), node (3)
 > **CLI Commands:** make (9), npm (3), node (3), find (3)
 > **File Paths:** custom.scss (4), index.js (2), app.js (2), manifest.json (1), index.css (1)
 > **Env Vars:** css (9), scss (3), html (1), jsx (1)
@@ -777,7 +777,7 @@ created: 2026-04-29
 
 ### 2. GitHub's GraphQL Schema
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980)
@@ -930,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), interface (2), return. (1), for. (1)
+> **Frameworks & Libraries:** [[GraphQL]] (12), data (7), [[GitHub]] (6), [[React.js|React]] (4), web (3)
 > **Documentation:** the documentation (8), the docs (1)
 > **Env Vars:** json (3), html (2), rest (1), api (1), gui (1)
 > **UI Navigation:** go to (4), click on (4)
@@ -1216,7 +1216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (4), this, (3), require (2), for. (1)
+> **Frameworks & Libraries:** data (9), [[GraphQL]] (7), [[GitHub]] (4), application (4), hit (4)
 > **Env Vars:** url (3), json (2), uri (2), mit (2), bsd (1)
 > **Definitions:** is a  (7), known as (1), means that (1)
 > **CLI Commands:** make (4), find (2), node (1)
@@ -1352,7 +1352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), this, (2), switch (2), let (1), from. (1)
+> **Frameworks & Libraries:** [[GitHub]] (10), application (8), data (5), [[GraphQL]] (4), api (2)
 > **Tools:** github (10)
 > **UI Navigation:** go to (4), click on (2), scroll down (1), switch to (1)
 > **CLI Commands:** make (5)
@@ -1364,7 +1364,7 @@ created: 2026-04-29
 
 ### 3. Working with GraphQL Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieving data
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980)
@@ -1497,7 +1497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), pass (3), this. (1), this, (1)
+> **Frameworks & Libraries:** data (11), application (7), [[GitHub]] (7), [[JSON]] (6), [[GraphQL]] (4)
 > **Env Vars:** json (6), api (4), url (2), post (2)
 > **Code Identifiers:** useeffect (5), githubquery (2)
 > **Tools:** github (7)
@@ -1581,8 +1581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[React.js|React]] (2), [[GitHub]] (2), [[GraphQL]] (2), api (2)
 > **Code Identifiers:** usestate (3), username (2), setusername (2)
-> **Code Keywords:** let (4), function (1), delete (1)
 > **Env Vars:** api (2), json (1)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** github (2)
@@ -1633,7 +1633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), const (1)
+> **Frameworks & Libraries:** application (2)
 > **File Paths:** query.js (1), app.js (1)
 > **Code Identifiers:** githubquery (2)
 > **Definitions:** is a  (1)
@@ -1707,7 +1707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (3), const (1), this, (1)
+> **Frameworks & Libraries:** application (7), data (7), [[Fetch]] (4), feature (1), [[React.js|React]] (1)
 > **Code Identifiers:** fetchdata (3), usecallback (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** mtr (1)
@@ -1718,7 +1718,7 @@ created: 2026-04-29
 
 ### 4. Building the React App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating a list of repos
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980)
@@ -1893,7 +1893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), pass (2), this, (1)
+> **Frameworks & Libraries:** data (5), application (4), hit (3), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Code Identifiers:** classname (3), setrepolist (1), repolist (1)
 > **Env Vars:** url (2), html (1), jsx (1)
@@ -2027,7 +2027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), this. (2), const (2), function (1)
+> **Frameworks & Libraries:** [[Search]] (18), data (4), application (3), [[GitHub]] (2), hit (2)
 > **File Paths:** app.js (2), repoinfo.js (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (1), jsx (1)
@@ -2147,7 +2147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1), default. (1), this, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), data (2), application (1), [[JavaScript]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** classname (3), viewersubscription (1)
 > **File Paths:** repoinfo.js (2)
@@ -2263,7 +2263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (2), switch (2), for. (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[GitHub]] (1), [[GraphQL]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** spdxid (5), classname (2), licenseinfo (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **CLI Commands:** make (4)
@@ -2275,7 +2275,7 @@ created: 2026-04-29
 
 ### 5. Adding Interactive Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating dynamic queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980)
@@ -2412,8 +2412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (3), [[Fetch]] (3), [[Search]] (3), [[JSON]] (2)
 > **Code Identifiers:** pagecount (9), querystring (8), totalcount (3), querytext (3), repositorycount (2)
-> **Code Keywords:** let (9), pass (6), function (4), interface (3), for: (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** json (2)
 > **File Paths:** app.js (1)
@@ -2552,7 +2552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (7), function (2), interface (2), delete (2)
+> **Frameworks & Libraries:** [[Search]] (4), next (2), application (2), css (1)
 > **Code Identifiers:** pagecount (5), onquerychange (5), querystring (4), totalcount (3), querystrings (1)
 > **CLI Commands:** make (3)
 > **File Paths:** searchbox.js (1)
@@ -2719,8 +2719,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), data (4), [[GraphQL]] (2), hit (2), [[Search]] (2)
 > **Code Identifiers:** pageinfo (5), paginationstring (5), paginationkeyword (4), querystring (3), startcursor (2)
-> **Code Keywords:** let (8), this. (3), pass (3), default, (1), default. (1)
 > **CLI Commands:** node (7), find (1), make (1)
 > **File Paths:** app.js (1)
 > **Cross-References:** in the next (1)
@@ -2815,7 +2815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (4), pass (3), finally, (1), function (1)
+> **Frameworks & Libraries:** next (6), application (2), [[GraphQL]] (2), [[Search]] (1), data (1)
 > **Code Identifiers:** onpage (4), setpaginationkeyword (2), mykeyword (2), mystring (1), setpaginationstring (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (3)
@@ -2827,7 +2827,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980)
@@ -2852,9 +2852,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[React.js|React]] (3), [[GitHub]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Documentation:** the documentation (2)
-> **Code Keywords:** finally, (1)
 > **URLs:** [raybo.org](https://raybo.org) (1)
 > **Env Vars:** url (1)
 > **Tools:** github (1)

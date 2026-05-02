@@ -33,7 +33,7 @@ tags:
   - skill/microsoft-power-bi
   - skill/data-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Challenges-%2015%20Skills-Building%20Analytics%20Exercises%20for%20Data%20Professionals.md)
@@ -52,59 +52,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build your skills with Power BI
-  - What does this course cover?
+  - [Build your skills with Power BI](#build-your-skills-with-power-bi)
+  - [What does this course cover?](#what-does-this-course-cover)
 - [**1. Prepare the Data**](#1-prepare-the-data) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**2. Design a Visual from Unfamiliar Data**](#2-design-a-visual-from-unfamiliar-data) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**3. Improve the Appearance of Your Visual**](#3-improve-the-appearance-of-your-visual) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**4. Design Report Page Filters**](#4-design-report-page-filters) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**5. Add KPIs to Your Report**](#5-add-kpis-to-your-report) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**6. Adding Visuals to the Report**](#6-adding-visuals-to-the-report) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**7. Improve the Appeal of Your Report**](#7-improve-the-appeal-of-your-report) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**8. Improve Usability**](#8-improve-usability) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**9. Add Data to the Model**](#9-add-data-to-the-model) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**10. Add Target Profit to Your Report**](#10-add-target-profit-to-your-report) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**11. Complete the Report Page**](#11-complete-the-report-page) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**12. Improve Your Report**](#12-improve-your-report) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**13. Import a Custom Visual**](#13-import-a-custom-visual) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**14. Adjust the Final Report**](#14-adjust-the-final-report) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**15. DAX**](#15-dax) (2 videos)
-  - Challenge
-  - Solution
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with Power BI
+  - [Continuing on with Power BI](#continuing-on-with-power-bi)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your skills with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/build-your-skills-with-power-bi?u=76281980)
@@ -133,7 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** power (2), bi (2)
 > **Speakers:** - [narrator] (1)
 
 #### What does this course cover?
@@ -159,14 +159,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), bi (7), data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Prepare the Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980)
@@ -221,6 +221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), power (6), bi (6), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cogs (1)
 > **Prerequisites:** set up (1)
@@ -290,8 +291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), power (4), bi (4), next (2)
 > **Cross-References:** as we saw (1), earlier in (1), go back to (1), later in (1)
-> **Code Keywords:** let (2), delete (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Env Vars:** cogs (1)
 > **Definitions:** is a  (1)
@@ -302,7 +303,7 @@ created: 2026-04-29
 
 ### 2. Design a Visual from Unfamiliar Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980)
@@ -339,6 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), business (2), [[Microsoft Products|Products]] (1), data (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -451,8 +453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** cogs (8)
-> **Code Keywords:** delete (4), let (3)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), dropdown (1)
 > **Definitions:** is a  (1), is called (1)
@@ -463,7 +465,7 @@ created: 2026-04-29
 
 ### 3. Improve the Appearance of Your Visual
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22899457?u=76281980)
@@ -488,6 +490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (playful music) (1)
 
@@ -650,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), else. (1), super (1), this, (1), case, (1)
+> **Frameworks & Libraries:** data (4), power (4), bi (4)
 > **CLI Commands:** make (6)
 > **Env Vars:** cogs (6)
 > **UI Navigation:** go to (2)
@@ -661,7 +664,7 @@ created: 2026-04-29
 
 ### 4. Design Report Page Filters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19854089?u=76281980)
@@ -720,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), default, (1), super (1)
+> **Frameworks & Libraries:** power (4), bi (4), product (2), data (2), next (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [presenter] (1)
@@ -825,7 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), this, (1), if, (1)
+> **Frameworks & Libraries:** data (6), product (4), power (1), bi (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2), imagine (1)
 > **UI Navigation:** checkbox (1), go to (1)
@@ -836,7 +839,7 @@ created: 2026-04-29
 
 ### 5. Add KPIs to Your Report
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900438?u=76281980)
@@ -861,6 +864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), data (1)
 > **Env Vars:** kpi (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1002,7 +1006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from. (1), super (1), default, (1), switch (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), power (2), bi (2), hit (1)
 > **Env Vars:** kpi (9)
 > **CLI Commands:** make (3)
 > **Versions:** 118726350.3 (1), 21.69 (1)
@@ -1014,7 +1018,7 @@ created: 2026-04-29
 
 ### 6. Adding Visuals to the Report
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22896473?u=76281980)
@@ -1059,8 +1063,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), management (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (5)
-> **Code Keywords:** throw (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1212,7 +1216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), default. (1), case. (1)
+> **Frameworks & Libraries:** data (11), power (2), bi (2), next (2), [[Microsoft]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1221,7 +1225,7 @@ created: 2026-04-29
 
 ### 7. Improve the Appeal of Your Report
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge?u=76281980)
@@ -1248,6 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
@@ -1397,7 +1402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (2), static (1)
+> **Frameworks & Libraries:** power (6), bi (6), data (4), next (2), [[Microsoft]] (2)
 > **CLI Commands:** make (9), find (1)
 > **UI Navigation:** drag and drop (1), select the (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1409,7 +1414,7 @@ created: 2026-04-29
 
 ### 8. Improve Usability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980)
@@ -1472,9 +1477,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), bi (3), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1), data (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** default, (1), finally, (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1659,7 +1664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), super (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** product (4), power (3), bi (3), next (2), data (2)
 > **UI Navigation:** select the (2), go to (2), click on (1), drag and drop (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
@@ -1671,7 +1676,7 @@ created: 2026-04-29
 
 ### 9. Add Data to the Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980)
@@ -1706,7 +1711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (1)
+> **Frameworks & Libraries:** data (10), power (3), bi (3), management (1), [[Microsoft Excel|Excel]] (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1835,7 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (2), switch (1)
+> **Frameworks & Libraries:** data (24), power (8), bi (8), product (4), next (2)
 > **Code Identifiers:** bothcompanies (4)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
@@ -1847,7 +1852,7 @@ created: 2026-04-29
 
 ### 10. Add Target Profit to Your Report
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980)
@@ -1908,8 +1913,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), management (1), power (1), bi (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), default, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2060,7 +2065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (4), from. (2)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (4), power (3), bi (3), [[Analytics]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (2), click on (1), drag and drop (1)
 > **Versions:** 16.89 (1)
@@ -2071,7 +2076,7 @@ created: 2026-04-29
 
 ### 11. Complete the Report Page
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898405?u=76281980)
@@ -2102,7 +2107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** cogs (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2226,7 +2231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1)
+> **Frameworks & Libraries:** next (2), power (1), bi (1), data (1), business (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2236,7 +2241,7 @@ created: 2026-04-29
 
 ### 12. Improve Your Report
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19858049?u=76281980)
@@ -2267,8 +2272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** self (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -2383,7 +2388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (1), function (1)
+> **Frameworks & Libraries:** power (2), bi (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2395,7 +2400,7 @@ created: 2026-04-29
 
 ### 13. Import a Custom Visual
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19857051?u=76281980)
@@ -2416,6 +2421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft]] (1), power (1), bi (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2459,7 +2465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), power (2), bi (2), product (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2467,7 +2473,7 @@ created: 2026-04-29
 
 ### 14. Adjust the Final Report
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980)
@@ -2510,8 +2516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), power (2), management (1), [[Representational State Transfer (REST)|Rest]] (1), bi (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2653,7 +2659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3), case, (1)
+> **Frameworks & Libraries:** data (8), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Cross-References:** go back to (1)
@@ -2663,7 +2669,7 @@ created: 2026-04-29
 
 ### 15. DAX
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19846201?u=76281980)
@@ -2690,6 +2696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **Versions:** 1.2 (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (quirky music) (1)
@@ -2817,7 +2824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (2), this. (1), static (1), var (1)
+> **Frameworks & Libraries:** [[DAX]] (4), power (2), next (2), [[Statistics]] (1), bi (1)
 > **Code Identifiers:** histbin (4), grosssales (1), bothcompanies (1), histbins (1)
 > **Env Vars:** dax (4), var (1), return (1), switch (1)
 > **CLI Commands:** make (4), find (1)
@@ -2829,7 +2836,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980)
@@ -2846,6 +2853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), bi (3), [[LinkedIn]] (1), data (1), [[DAX]] (1)
 > **Env Vars:** dax (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

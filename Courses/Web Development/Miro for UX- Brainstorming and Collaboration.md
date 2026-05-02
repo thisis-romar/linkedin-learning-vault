@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Miro%20for%20UX-%20Brainstorming%20and%20Collaboration.md)
@@ -45,27 +45,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Miro for brainstorming and collaboration
-  - Using the exercise files
+  - [Miro for brainstorming and collaboration](#miro-for-brainstorming-and-collaboration)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Get Started with Collaborative Sessions**](#1-get-started-with-collaborative-sessions) (6 videos)
-  - Different types of brainstorming ideas
-  - Setting up your boards for collaboration
-  - Getting started with typical features
-  - Sharing with others for collaboration
-  - Collaborating basics
-  - Taking it further
+  - [Different types of brainstorming ideas](#different-types-of-brainstorming-ideas)
+  - [Setting up your boards for collaboration](#setting-up-your-boards-for-collaboration)
+  - [Getting started with typical features](#getting-started-with-typical-features)
+  - [Sharing with others for collaboration](#sharing-with-others-for-collaboration)
+  - [Collaborating basics](#collaborating-basics)
+  - [Taking it further](#taking-it-further)
 - [**2. Create a Brainstorming Session with Brainwriting**](#2-create-a-brainstorming-session-with-brainwriting) (2 videos)
-  - Exploring the benefits of brainwriting
-  - Setting up a brainwriting board
+  - [Exploring the benefits of brainwriting](#exploring-the-benefits-of-brainwriting)
+  - [Setting up a brainwriting board](#setting-up-a-brainwriting-board)
 - [**3. Create a Mind Map for Organizing Ideas**](#3-create-a-mind-map-for-organizing-ideas) (2 videos)
-  - Exploring the benefits of mind mapping
-  - Creating a mind-mapping board
+  - [Exploring the benefits of mind mapping](#exploring-the-benefits-of-mind-mapping)
+  - [Creating a mind-mapping board](#creating-a-mind-mapping-board)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Miro for brainstorming and collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/miro-for-brainstorming-and-collaboration?u=76281980)
@@ -92,7 +92,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ux (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - hey (1)
 
@@ -125,17 +125,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** go to (1), click on (1)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** rtb (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Get Started with Collaborative Sessions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Different types of brainstorming ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/different-types-of-brainstorming-ideas?u=76281980)
@@ -230,7 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), this, (1)
+> **Frameworks & Libraries:** data (1), product (1), application (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Analogies:** for instance (3), similar to (1)
 > **Exercise Files:** template (2)
@@ -328,7 +328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (1)
+> **Frameworks & Libraries:** next (2), [[Zoom]] (1)
 > **UI Navigation:** click on (4)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (2)
@@ -492,7 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (2), self (1), throw (1)
+> **Frameworks & Libraries:** next (2), [[Windows]] (1)
 > **UI Navigation:** click on (5), double-click (2), go to (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for instance (2), kind of like (1), it's like (1)
@@ -620,7 +620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), default, (3), private (3), let (2), public (1)
+> **Frameworks & Libraries:** [[Slack]] (1), next (1)
 > **Definitions:** means that (4), is a  (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (3)
@@ -927,7 +927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (7), this, (4)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Slack]] (3), generic (1), [[Microsoft Office|Office]] (1), hit (1)
 > **CLI Commands:** make (9), find (1)
 > **UI Navigation:** click on (6), in the toolbar (1)
 > **Tools:** slack (3)
@@ -1111,7 +1111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (2), this, (2), raise (2), return. (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1), oop (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Analogies:** for instance (4), similar to (1)
 > **Exercise Files:** template (3)
@@ -1122,7 +1122,7 @@ created: 2026-04-29
 
 ### 2. Create a Brainstorming Session with Brainwriting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the benefits of brainwriting
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/exploring-the-benefits-of-brainwriting?u=76281980)
@@ -1295,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), else. (2), let (2), raise (1), this, (1)
+> **Frameworks & Libraries:** next (6), game (1), product (1), teams (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for instance (3)
 > **Cross-References:** coming up (2)
@@ -1465,7 +1465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for, (3), this. (3), this, (3), for. (1)
+> **Frameworks & Libraries:** product (3), [[Search]] (2), next (2), teams (1)
 > **Exercise Files:** template (7)
 > **UI Navigation:** scroll down (2), click on (2), go to (2)
 > **CLI Commands:** make (5)
@@ -1475,7 +1475,7 @@ created: 2026-04-29
 
 ### 3. Create a Mind Map for Organizing Ideas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the benefits of mind mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/exploring-the-benefits-of-mind-mapping?u=76281980)
@@ -1514,7 +1514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (1), product (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -1689,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (6), let (4), delete (3), this. (2), for, (1)
+> **Frameworks & Libraries:** product (7), hit (1), [[Angular]] (1), [[Microsoft Products|Products]] (1), next (1)
 > **UI Navigation:** click on (15)
 > **CLI Commands:** make (12)
 > **Analogies:** for instance (8), kind of like (1)
@@ -1701,7 +1701,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/next-steps?u=76281980)
@@ -1720,7 +1720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** ux (1), next (1)
 > **Speakers:** - so (1)
 
 

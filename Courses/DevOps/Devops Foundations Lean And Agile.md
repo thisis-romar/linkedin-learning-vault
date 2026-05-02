@@ -23,7 +23,7 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Devops%20Foundations%20Lean%20And%20Agile.md)
@@ -42,53 +42,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting started with lean and agile
+  - [Getting started with lean and agile](#getting-started-with-lean-and-agile)
 - [**1. Lean, Agile, and DevOps Basics**](#1-lean-agile-and-devops-basics) (8 videos)
-  - What is agile?
-  - Agile principles
-  - Agile in practice: Scrum
-  - Agile in practice: Kanban
-  - What is lean?
-  - Lean in practice
-  - What is DevOps?
-  - DevOps in practice
+  - [What is agile?](#what-is-agile)
+  - [Agile principles](#agile-principles)
+  - [Agile in practice: Scrum](#agile-in-practice-scrum)
+  - [Agile in practice: Kanban](#agile-in-practice-kanban)
+  - [What is lean?](#what-is-lean)
+  - [Lean in practice](#lean-in-practice)
+  - [What is DevOps?](#what-is-devops)
+  - [DevOps in practice](#devops-in-practice)
 - [**2. Implementing Agile, Lean, and DevOps in Practice**](#2-implementing-agile-lean-and-devops-in-practice) (1 videos)
-  - Welcome to Red30 Technologies
+  - [Welcome to Red30 Technologies](#welcome-to-red30-technologies)
 - [**3. First Iteration: Empowering the Individual**](#3-first-iteration-empowering-the-individual) (6 videos)
-  - Agile: Updating our practices
-  - Exercise: Create a work board
-  - Solution: Create a work board
-  - DevOps: Getting started building
-  - Measuring success
-  - Learning and adapting
+  - [Agile: Updating our practices](#agile-updating-our-practices)
+  - [Exercise: Create a work board](#exercise-create-a-work-board)
+  - [Solution: Create a work board](#solution-create-a-work-board)
+  - [DevOps: Getting started building](#devops-getting-started-building)
+  - [Measuring success](#measuring-success)
+  - [Learning and adapting](#learning-and-adapting)
 - [**4. Second Iteration: Empowering the Team**](#4-second-iteration-empowering-the-team) (10 videos)
-  - Agile: Building a resilient team
-  - Agile: Describing the work
-  - DevOps: Release practices
-  - DevOps: Infrastructure practices
-  - Advanced measurement: Scrum
-  - Advanced measurement: Kanban
-  - Exercise: Size your work
-  - Solution: Size your work
-  - Learning by working together
-  - Learning from experience
+  - [Agile: Building a resilient team](#agile-building-a-resilient-team)
+  - [Agile: Describing the work](#agile-describing-the-work)
+  - [DevOps: Release practices](#devops-release-practices)
+  - [DevOps: Infrastructure practices](#devops-infrastructure-practices)
+  - [Advanced measurement: Scrum](#advanced-measurement-scrum)
+  - [Advanced measurement: Kanban](#advanced-measurement-kanban)
+  - [Exercise: Size your work](#exercise-size-your-work)
+  - [Solution: Size your work](#solution-size-your-work)
+  - [Learning by working together](#learning-by-working-together)
+  - [Learning from experience](#learning-from-experience)
 - [**5. Third Iteration: Empowering the Organization**](#5-third-iteration-empowering-the-organization) (6 videos)
-  - Agile: Organizational scaling
-  - Exercise: Create a value stream
-  - Solution: Create a value stream
-  - DevOps: Scaling DevOps
-  - Building a culture of metrics
-  - Continuous learning
+  - [Agile: Organizational scaling](#agile-organizational-scaling)
+  - [Exercise: Create a value stream](#exercise-create-a-value-stream)
+  - [Solution: Create a value stream](#solution-create-a-value-stream)
+  - [DevOps: Scaling DevOps](#devops-scaling-devops)
+  - [Building a culture of metrics](#building-a-culture-of-metrics)
+  - [Continuous learning](#continuous-learning)
 - [**6. The Road Ahead**](#6-the-road-ahead) (3 videos)
-  - Organizing for action
-  - Addressing doubts
-  - Advanced topics
+  - [Organizing for action](#organizing-for-action)
+  - [Addressing doubts](#addressing-doubts)
+  - [Advanced topics](#advanced-topics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with lean and agile
+  - [Continuing on with lean and agile](#continuing-on-with-lean-and-agile)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with lean and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980)
@@ -123,13 +123,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Agile Development|Agile]] (4), application (1)
 > **Speakers:** - and (2), - you (1), - devops (1), - to (1), - lean (1)
-> **Code Keywords:** let (1)
 
 
 ### 1. Lean, Agile, and DevOps Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is agile?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980)
@@ -204,8 +204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), product (3), [[Agile Software Development]] (2), [[Software Development]] (1), management (1)
 > **Speakers:** - the (2), - [instructor] (2), - have (1), - agile (1), - they (1)
-> **Code Keywords:** finally, (2), raise (1), let (1)
 > **Definitions:** is a  (1), we call this (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -314,8 +314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), business (2), next (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), functional (1)
 > **Speakers:** - and (2), - the (1), - first (1), - second (1), - next (1)
-> **Code Keywords:** self (1), finally, (1), let (1), abstract (1)
 > **CLI Commands:** make (1)
 
 #### Agile in practice: Scrum
@@ -391,9 +391,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (14), product (5), [[Agile Development|Agile]] (4), next (1), business (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **URLs:** [scrum.org](https://scrum.org) (1)
 > **Env Vars:** jira (1)
 > **Tools:** jira (1)
@@ -485,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), require (1), self (1), case, (1), new. (1)
+> **Frameworks & Libraries:** [[Scrum]] (9), [[Agile Development|Agile]] (5), teams (2), next (1), product (1)
 > **Analogies:** for example (4), just like (1)
 > **Env Vars:** wip (3)
 > **CLI Commands:** make (1)
@@ -605,10 +605,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Agile Development|Agile]] (2), next (1), teams (1), [[Workflow Management]] (1)
 > **Speakers:** - lean (4), - so (2), - do (1), - luckily (1), - value (1)
 > **Definitions:** is a  (3), defined as (1), is called (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** for. (1)
 
 #### Lean in practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/lean-in-practice?u=76281980)
@@ -677,8 +677,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Software Development]] (4), [[Agile Development|Agile]] (2), [[DevOps]] (2), [[Product Development]] (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** let (2), interface (1), finally, (1)
 > **Env Vars:** jira (1)
 > **Cross-References:** coming up (1)
 > **Tools:** jira (1)
@@ -748,10 +748,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (12), [[Agile Development|Agile]] (7), [[Software Development]] (2), [[System Administration]] (2), [[Automation]] (2)
 > **Speakers:** - [instructor (5), - but (2), - that (2), - when (1), - and (1)
 > **Env Vars:** cams (2), clams (1), calms (1)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** let (1)
 
 #### DevOps in practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/devops-in-practice?u=76281980)
@@ -808,16 +808,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (10), [[Agile Development|Agile]] (6), [[Automation]] (3), teams (2), [[Scrum]] (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1), we mentioned (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dora (1)
 > **Speakers:** - part (1)
 
 
 ### 2. Implementing Agile, Lean, and DevOps in Practice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Red30 Technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980)
@@ -902,15 +902,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[DevOps]] (5), [[Agile Development|Agile]] (4), [[Microsoft Products|Products]] (4), teams (3)
 > **Speakers:** - now (2), - the (1), - welcome (1), - we (1), - as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Warnings:** troubleshoot (1)
 
 
 ### 3. First Iteration: Empowering the Individual
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile: Updating our practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980)
@@ -1015,8 +1015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Agile Development|Agile]] (3), [[DevOps]] (1), [[Engineering]] (1), product (1)
 > **Speakers:** - we (2), - next (2), - and (2), - so (1), - our (1)
-> **Code Keywords:** let (2), this. (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 
@@ -1073,9 +1073,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Trello]] (1), [[Software Development]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), picture (1)
-> **Code Keywords:** let (1)
 > **Tools:** notion (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - all (1)
@@ -1159,7 +1159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Trello]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1269,8 +1269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[DevOps]] (1), product (1), [[Version Control]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Speakers:** - next (3), - we (2), - but (1), - you (1), - no (1)
-> **Code Keywords:** let (3), this. (1), from. (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** imagine (1), for example (1)
@@ -1353,8 +1353,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), product (3), [[DevOps]] (2), [[Linux]] (1)
 > **Speakers:** - we (4), - however (2), - that (2), - in (1), - but (1)
-> **Code Keywords:** case, (1), this, (1)
 > **Analogies:** picture (1)
 
 #### Learning and adapting
@@ -1446,15 +1446,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Agile Development|Agile]] (1), management (1), functional (1), game (1)
 > **Speakers:** - we (6), - [ernest] (2), - our (1), - the (1), - after (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 
 
 ### 4. Second Iteration: Empowering the Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile: Building a resilient team
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980)
@@ -1543,8 +1543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (5), [[Agile Development|Agile]] (2), next (2), product (2), hit (1)
 > **Speakers:** - the (3), - and (2), - in (1), - yeah (1), - maybe (1)
-> **Code Keywords:** this, (2), while, (1), raise (1), let (1)
 > **Cross-References:** in the next (1)
 
 #### Agile: Describing the work
@@ -1594,9 +1594,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), business (2)
 > **Speakers:** - [instructor (3), - as (1), - we (1), - let (1), - who (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
@@ -1649,8 +1649,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Agile Development|Agile]] (1), [[DevOps]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Speakers:** - we (2), - she (2), - not (1), - [executive] (1), - the (1)
-> **Code Keywords:** let (2), case, (1), require (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 
@@ -1717,8 +1717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (2), application (2), business (1), product (1)
 > **Speakers:** - of (1), - seeing (1), - but (1), - now (1), - the (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** mvp (1), api (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1776,6 +1776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), feature (2), [[Scrum]] (1), [[Forecasting]] (1)
 > **Speakers:** - now (2), - but (1), - we (1), - stories (1), - eventually (1)
 > **Env Vars:** xxl (1)
 > **Analogies:** such as (1)
@@ -1829,8 +1830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), next (3), [[Scrum]] (2)
 > **Speakers:** - while (1), - to (1), - next (1), - but (1), - okay (1)
-> **Code Keywords:** let (2), this. (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **Env Vars:** wip (1)
@@ -1893,7 +1894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Scrum]] (1), application (1), [[Microsoft Excel|Excel]] (1), database (1), feature (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - okay (1)
@@ -1983,8 +1984,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2), try, (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2060,6 +2061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Security]] (2), [[Agile Development|Agile]] (1), [[DevOps]] (1), [[Team Collaboration]] (1)
 > **Speakers:** - [karthik] (3), - and (2), - making (1), - one (1), - yeah (1)
 > **Env Vars:** red30 (1)
 > **Cross-References:** go back to (1)
@@ -2150,17 +2152,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Scrum]] (1), [[Security]] (1)
 > **Speakers:** - we (3), - what (2), - after (1), - a (1), - there (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** imagine (1)
 
 
 ### 5. Third Iteration: Empowering the Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile: Organizational scaling
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980)
@@ -2229,9 +2231,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), product (4), teams (3), [[DevOps]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - we (3), - this (1), - the (1), - so (1), - and (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** case, (2)
 > **Cross-References:** earlier in (1)
 
 #### Exercise: Create a value stream
@@ -2299,7 +2301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** next (4), [[Diagramming]] (1), game (1)
 > **URLs:** [draw.io](https://draw.io) (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -2396,7 +2398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), game (1), [[Software Development]] (1), teams (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** for example (1)
@@ -2453,8 +2455,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (3), [[Automation]] (3), product (3), data (2), [[Security]] (2)
 > **Speakers:** - this (2), - as (1), - while (1), - we (1), - when (1)
-> **Code Keywords:** continue (1), this. (1), self (1)
 > **Env Vars:** cicd (1), cpu (1)
 > **Definitions:** is an  (1)
 
@@ -2531,8 +2533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), teams (3), data (2), next (2), [[DevOps]] (1)
 > **Speakers:** - we (2), - for (2), - welcome (1), - then (1), - but (1)
-> **Code Keywords:** let (4), finally, (1)
 > **CLI Commands:** make (1)
 > **Versions:** 99.9 (1)
 > **Analogies:** imagine (1)
@@ -2616,10 +2618,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), product (1), [[LinkedIn]] (1), [[Automation]] (1), [[DevOps]] (1)
 > **Speakers:** - and (3), - then (2), - at (1), - our (1), - we (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pto (1), pdca (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -2627,7 +2629,7 @@ created: 2026-04-29
 
 ### 6. The Road Ahead
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing for action
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980)
@@ -2716,7 +2718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** teams (10), [[DevOps]] (6), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1), product (1)
 > **Speakers:** - we (1), - so (1), - another (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -2802,9 +2804,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Scrum]] (3), teams (2), [[DevOps]] (2), ai (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** ide (2)
-> **Code Keywords:** let (1)
 > **URLs:** [digital.ai](https://digital.ai) (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - every (1)
@@ -2912,7 +2914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), extends (1), switch (1), case. (1)
+> **Frameworks & Libraries:** ai (10), feature (7), [[Agile Development|Agile]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), teams (2)
 > **CLI Commands:** cd (1), make (1)
 > **Analogies:** imagine (1), it's like (1)
 > **Tools:** github (1)
@@ -2922,7 +2924,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with lean and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980)
@@ -2977,6 +2979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[DevOps]] (3), teams (2), [[Engineering]] (1), [[Scrum]] (1)
 > **Speakers:** - [instructor] (2), - that (1), - we (1), - so (1), - adopting (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we covered (1)

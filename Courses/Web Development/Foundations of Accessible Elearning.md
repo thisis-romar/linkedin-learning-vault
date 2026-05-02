@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Foundations%20of%20Accessible%20Elearning.md)
@@ -40,32 +40,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Create training that's accessible to all
-  - Defining accessible learning
+  - [Create training that's accessible to all](#create-training-thats-accessible-to-all)
+  - [Defining accessible learning](#defining-accessible-learning)
 - [**1. Web Content Accessibilty Guidelines**](#1-web-content-accessibilty-guidelines) (4 videos)
-  - Expectations for providing accommodations
-  - Web Content Accessibility Guidelines
-  - Perceivable, operable, understandable, and robust
-  - Common accessibility issues
+  - [Expectations for providing accommodations](#expectations-for-providing-accommodations)
+  - [Web Content Accessibility Guidelines](#web-content-accessibility-guidelines)
+  - [Perceivable, operable, understandable, and robust](#perceivable-operable-understandable-and-robust)
+  - [Common accessibility issues](#common-accessibility-issues)
 - [**2.  Who Needs Accommodations?**](#2-who-needs-accommodations) (6 videos)
-  - Vision
-  - Hearing
-  - Motor function
-  - Cognitive function
-  - Language
-  - Digital access
+  - [Vision](#vision)
+  - [Hearing](#hearing)
+  - [Motor function](#motor-function)
+  - [Cognitive function](#cognitive-function)
+  - [Language](#language)
+  - [Digital access](#digital-access)
 - [**3.  Making Learning Accessible**](#3-making-learning-accessible) (5 videos)
-  - Using learning management systems and other tools
-  - Structuring content for screen readers
-  - Adding captions and transcripts for video content
-  - Adding alt text to images
-  - Using real text links
+  - [Using learning management systems and other tools](#using-learning-management-systems-and-other-tools)
+  - [Structuring content for screen readers](#structuring-content-for-screen-readers)
+  - [Adding captions and transcripts for video content](#adding-captions-and-transcripts-for-video-content)
+  - [Adding alt text to images](#adding-alt-text-to-images)
+  - [Using real text links](#using-real-text-links)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create training that's accessible to all
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980)
@@ -88,6 +88,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Lifelong Learning]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -142,7 +143,6 @@ created: 2026-04-29
 >
 > **Definitions:** is an  (3), is a  (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -151,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Web Content Accessibilty Guidelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expectations for providing accommodations
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/expectations-for-providing-accommodations?u=76281980)
@@ -210,8 +210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Accessibility]] (1)
 > **CLI Commands:** make (9)
-> **Code Keywords:** public (3), this. (2), this, (2), private (2)
 > **Prerequisites:** required to (3)
 > **Speakers:** - [instructor] (1)
 
@@ -270,13 +270,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), next (1)
 > **Env Vars:** w3c (2), wcag (2), url (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (2)
 > **Versions:** version 2 (2)
 > **Documentation:** w3c (2)
-> **Code Keywords:** this, (1)
 > **URLs:** [w3.org](https://w3.org) (1)
 
 #### Perceivable, operable, understandable, and robust
@@ -342,7 +342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1)
+> **Frameworks & Libraries:** next (3), web (1)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
@@ -506,7 +506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), let (4), this. (3), for, (1), for. (1)
+> **Frameworks & Libraries:** data (3), [[LinkedIn]] (2), next (1), [[Google]] (1)
 > **UI Navigation:** click on (4), go to (1), right-click (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (4), in other words (1)
@@ -518,7 +518,7 @@ created: 2026-04-29
 
 ### 2.  Who Needs Accommodations?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980)
@@ -693,8 +693,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), ux (1), [[Windows]] (1), [[Google]] (1), next (1)
 > **CLI Commands:** make (14), find (1)
-> **Code Keywords:** let (3), finally, (1), case. (1)
 > **Speakers:** - [instructor] (2), - [computer] (1)
 > **Analogies:** such as (2)
 > **Cross-References:** go back to (1)
@@ -759,9 +759,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (5)
 > **Best Practices:** good practice (1), make sure to (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -784,7 +784,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -823,8 +822,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** extends (1), this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -874,7 +873,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Digital access
@@ -916,6 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -923,7 +922,7 @@ created: 2026-04-29
 
 ### 3.  Making Learning Accessible
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using learning management systems and other tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980)
@@ -1104,7 +1103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (4), switch (1), this. (1), for. (1)
+> **Frameworks & Libraries:** management (6), [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word]] (3), [[Microsoft Word|Word]] (2), [[Search]] (2)
 > **UI Navigation:** click on (5), scroll down (1), navigate to (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (4)
@@ -1179,7 +1178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1), this, (1)
+> **Frameworks & Libraries:** web (1), [[HTML]] (1), [[Google]] (1)
 > **Speakers:** - [instructor] (4), - [siri] (3), - [screen (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), dropdown (1)
@@ -1326,7 +1325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), case, (1), while, (1), switch (1)
+> **Frameworks & Libraries:** next (3), [[LinkedIn]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (3)
 > **Analogies:** just like (1)
@@ -1390,7 +1389,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - [narrator] (3), - [screen (2), - [voiceover] (1)
-> **Code Keywords:** let (2), this, (1), this. (1)
 > **UI Navigation:** open the (1), click on (1), navigate to (1)
 > **Analogies:** such as (1), picture (1)
 > **Definitions:** stands for (1)
@@ -1478,7 +1476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), for. (1), case, (1)
+> **Frameworks & Libraries:** web (4), data (3), next (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Speakers:** - [instructor] (3), - [automated (2)
 > **Env Vars:** url (3)
@@ -1488,7 +1486,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/next-steps?u=76281980)
@@ -1549,8 +1547,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), web (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** public (1), try. (1), continue (1)
 > **Definitions:** is a  (2)
 > **URLs:** [w3.org](https://w3.org) (1)
 > **Prerequisites:** you'll need (1)

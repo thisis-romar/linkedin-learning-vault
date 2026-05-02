@@ -34,7 +34,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-10
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%2010-%20Administration.md)
@@ -53,55 +53,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - About the 2023 update
-  - Welcome
-  - What you should know before starting
+  - [About the 2023 update](#about-the-2023-update)
+  - [Welcome](#welcome)
+  - [What you should know before starting](#what-you-should-know-before-starting)
 - [**1. Windows 10 Editions and Features**](#1-windows-10-editions-and-features) (2 videos)
-  - Understanding the desktop versions of Windows 10
-  - Understanding Windows 10 features requiring specialized hardware
+  - [Understanding the desktop versions of Windows 10](#understanding-the-desktop-versions-of-windows-10)
+  - [Understanding Windows 10 features requiring specialized hardware](#understanding-windows-10-features-requiring-specialized-hardware)
 - [**2. Configuring Windows 10**](#2-configuring-windows-10) (2 videos)
-  - Overview of the settings interface
-  - Administering multitasking
+  - [Overview of the settings interface](#overview-of-the-settings-interface)
+  - [Administering multitasking](#administering-multitasking)
 - [**3. Drivers and Notifications**](#3-drivers-and-notifications) (2 videos)
-  - Installing and updating drivers
-  - Working with notifications and actions
+  - [Installing and updating drivers](#installing-and-updating-drivers)
+  - [Working with notifications and actions](#working-with-notifications-and-actions)
 - [**4. Windows Group Policy**](#4-windows-group-policy) (3 videos)
-  - Overview of Group Policy
-  - Working with the Local Group Policy
-  - Troubleshooting Group Policy
+  - [Overview of Group Policy](#overview-of-group-policy)
+  - [Working with the Local Group Policy](#working-with-the-local-group-policy)
+  - [Troubleshooting Group Policy](#troubleshooting-group-policy)
 - [**5. Windows Authentication**](#5-windows-authentication) (4 videos)
-  - Adding domain users to a Windows 10 PC
-  - Adding Microsoft accounts to a Windows 10 PC
-  - Adding local accounts to a Windows 10 PC
-  - Setting up assigned access
+  - [Adding domain users to a Windows 10 PC](#adding-domain-users-to-a-windows-10-pc)
+  - [Adding Microsoft accounts to a Windows 10 PC](#adding-microsoft-accounts-to-a-windows-10-pc)
+  - [Adding local accounts to a Windows 10 PC](#adding-local-accounts-to-a-windows-10-pc)
+  - [Setting up assigned access](#setting-up-assigned-access)
 - [**6. Windows Encryption**](#6-windows-encryption) (2 videos)
-  - Administering BitLocker
-  - Working with EFS
+  - [Administering BitLocker](#administering-bitlocker)
+  - [Working with EFS](#working-with-efs)
 - [**7. Windows Boot Process**](#7-windows-boot-process) (2 videos)
-  - Understanding the boot process
-  - Working with Measured Boot
+  - [Understanding the boot process](#understanding-the-boot-process)
+  - [Working with Measured Boot](#working-with-measured-boot)
 - [**8. Virtualization**](#8-virtualization) (2 videos)
-  - Installing Client Hyper-V
-  - Running Windows 10 as a VDI
+  - [Installing Client Hyper-V](#installing-client-hyper-v)
+  - [Running Windows 10 as a VDI](#running-windows-10-as-a-vdi)
 - [**9. Networking**](#9-networking) (2 videos)
-  - Using the Windows 10 network settings
-  - Using Control Panel to manage Windows Firewall
+  - [Using the Windows 10 network settings](#using-the-windows-10-network-settings)
+  - [Using Control Panel to manage Windows Firewall](#using-control-panel-to-manage-windows-firewall)
 - [**10. Backup and Recovery**](#10-backup-and-recovery) (5 videos)
-  - File History
-  - Reset this PC
-  - Creating a system image backup
-  - Overview of backups in Windows 10
-  - Best practices for backups and restores
+  - [File History](#file-history)
+  - [Reset this PC](#reset-this-pc)
+  - [Creating a system image backup](#creating-a-system-image-backup)
+  - [Overview of backups in Windows 10](#overview-of-backups-in-windows-10)
+  - [Best practices for backups and restores](#best-practices-for-backups-and-restores)
 - [**11. Troubleshooting**](#11-troubleshooting) (3 videos)
-  - Using log files to troubleshoot Windows 10
-  - Using Resource Monitor to diagnose performance bottlenecks
-  - Troubleshooting network problems
+  - [Using log files to troubleshoot Windows 10](#using-log-files-to-troubleshoot-windows-10)
+  - [Using Resource Monitor to diagnose performance bottlenecks](#using-resource-monitor-to-diagnose-performance-bottlenecks)
+  - [Troubleshooting network problems](#troubleshooting-network-problems)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About the 2023 update
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/about-the-summer-2020-update?u=76281980)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Windows 10]] (6), [[Security]] (1)
 > **Env Vars:** efs (1)
 > **Speakers:** - hi (1)
 
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), [[Linux]] (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** before we start (1)
@@ -159,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Windows 10 Editions and Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the desktop versions of Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980)
@@ -230,9 +230,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (5), [[Windows 10]] (4), [[Microsoft]] (3), [[Windows]] (2), business (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** vpn (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -270,15 +270,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft]] (4), [[Windows]] (2), [[Security]] (2)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **Code Identifiers:** iphone (1), ipad (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Configuring Windows 10
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the settings interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980)
@@ -317,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), self (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3), [[Microsoft]] (2), [[Search]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** similar to (1), just like (1), for example (1)
 > **Definitions:** is a  (1)
@@ -415,9 +415,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), feature (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** snap (3), find (1)
-> **Code Keywords:** continue (1), let (1), this. (1), switch (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -425,7 +425,7 @@ created: 2026-04-29
 
 ### 3. Drivers and Notifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing and updating drivers
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980)
@@ -466,8 +466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Search]] (3), [[Hardware]] (2), [[Windows 10]] (1), hit (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** interface (2), let (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -538,9 +538,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (4), [[Windows]] (1)
 > **UI Navigation:** click on (3), go to (1), toggle (1)
 > **Env Vars:** vpn (4)
-> **Code Keywords:** interface (3)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** find (1)
@@ -549,7 +549,7 @@ created: 2026-04-29
 
 ### 4. Windows Group Policy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Group Policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980)
@@ -594,7 +594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), override (1), require (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (1), prompt (1)
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
 > **UI Navigation:** go to (1)
@@ -653,6 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), [[HTML]] (3), [[Troubleshooting]] (2), [[Microsoft]] (1), web (1)
 > **Env Vars:** gpo (9), html (3), cmd (1), dir (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **Tools:** command prompt (3), command line (1)
@@ -663,7 +664,7 @@ created: 2026-04-29
 
 ### 5. Windows Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding domain users to a Windows 10 PC
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/adding-domain-users-to-a-windows-10-pc?u=76281980)
@@ -716,8 +717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), next (1)
 > **UI Navigation:** click on (6), go to (4)
-> **Code Keywords:** interface (6)
 > **Env Vars:** dba (1)
 > **Speakers:** - [instructor] (1)
 
@@ -746,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (5), next (2), [[Windows 10]] (1), prompt (1)
 > **UI Navigation:** go to (4), click on (2)
-> **Code Keywords:** self (1), type. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Adding local accounts to a Windows 10 PC
@@ -781,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), next (2), prompt (1), [[Security]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -833,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** next (3), [[Windows 10]] (2), [[Microsoft]] (2), hit (2), feature (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** url (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -843,7 +844,7 @@ created: 2026-04-29
 
 ### 6. Windows Encryption
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Administering BitLocker
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/administering-bitlocker?u=76281980)
@@ -934,11 +935,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Windows 10]] (3), [[Security]] (2), hit (2), prompt (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** tpm (2), usb (1), cmd (1), bde (1)
 > **Tools:** command line (2), command prompt (2)
 > **Definitions:** is a  (2), stands for (1), is an  (1)
-> **Code Keywords:** module (2)
 > **Speakers:** - [instructor] (1)
 
 #### Working with EFS
@@ -1034,9 +1035,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), hit (3), [[Windows 10]] (1), data (1), [[Windows]] (1)
 > **UI Navigation:** click on (5), go to (2), open the (1)
 > **Env Vars:** efs (2)
-> **Code Keywords:** self (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1044,7 +1045,7 @@ created: 2026-04-29
 
 ### 7. Windows Boot Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the boot process
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980)
@@ -1099,8 +1100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (6), [[Microsoft]] (2), [[Hardware]] (1), [[Probability]] (1)
 > **Definitions:** is called (2), is a  (2)
-> **Code Keywords:** interface (1), this. (1)
 > **Env Vars:** uefi (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1151,8 +1152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Hardware]] (2), [[Windows 10]] (1), data (1)
 > **Definitions:** is a  (3), in other words (2)
-> **Code Keywords:** module (3), case, (1)
 > **Env Vars:** tpm (4)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
@@ -1160,7 +1161,7 @@ created: 2026-04-29
 
 ### 8. Virtualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Client Hyper-V
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980)
@@ -1245,9 +1246,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Windows]] (3), [[Windows 10]] (2), management (2), [[Powershell]] (1)
 > **Prerequisites:** install (6)
 > **UI Navigation:** go to (2), click on (2)
-> **Code Keywords:** module (1), interface (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Tools:** powershell (1)
@@ -1284,7 +1285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), switch (1), this. (1)
+> **Frameworks & Libraries:** [[Windows 10]] (7), [[Hardware]] (3), [[Microsoft Word|Word]] (2), application (1), strengths (1)
 > **Env Vars:** gpu (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
@@ -1294,7 +1295,7 @@ created: 2026-04-29
 
 ### 9. Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Windows 10 network settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/using-the-windows-10-network-settings?u=76281980)
@@ -1369,9 +1370,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (13), [[Windows]] (10), [[Windows 10]] (5), next (3), prompt (1)
 > **Env Vars:** vpn (13), mac (1)
 > **UI Navigation:** click on (5), go to (2), scroll down (2)
-> **Code Keywords:** interface (5), this, (1), self (1)
 > **Prerequisites:** set up (3), install (2)
 > **Cross-References:** in the last (1), go back to (1)
 > **Analogies:** for example (1), similar to (1)
@@ -1493,7 +1494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), interface (3), private (3), this, (1), self (1)
+> **Frameworks & Libraries:** [[Windows]] (8), next (4), [[Microsoft Defender|Defender]] (3), [[Windows 10]] (2), hit (2)
 > **UI Navigation:** click on (5), go to (2)
 > **Env Vars:** tcp (3), udp (2)
 > **Ports:** port 80 (4)
@@ -1505,7 +1506,7 @@ created: 2026-04-29
 
 ### 10. Backup and Recovery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File History
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980)
@@ -1554,7 +1555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), default, (1), require (1)
+> **Frameworks & Libraries:** [[Windows 10]] (8), [[Microsoft]] (3), [[Hardware]] (3), feature (2), [[Windows]] (2)
 > **CLI Commands:** make (1)
 > **Versions:** 8.1 (1)
 > **UI Navigation:** go to (1)
@@ -1636,6 +1637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Windows 10]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1701,7 +1703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5)
+> **Frameworks & Libraries:** [[Windows]] (5), cloud (3), [[Windows 10]] (1), [[Security]] (1), data (1)
 > **Prerequisites:** install (4)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1815,7 +1817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (2), default. (1), this. (1), interface (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Windows 10]] (3), next (3), data (3), [[Security]] (2)
 > **UI Navigation:** go to (3), click on (3), checkbox (1)
 > **Env Vars:** dvd (2), efs (2)
 > **Definitions:** is a  (3)
@@ -1893,7 +1895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (2), interface (1)
+> **Frameworks & Libraries:** hit (3), [[Windows 10]] (2), next (2), [[Windows]] (1), prompt (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -1901,7 +1903,7 @@ created: 2026-04-29
 
 ### 11. Troubleshooting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using log files to troubleshoot Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980)
@@ -1956,8 +1958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (4), [[Windows]] (4), [[Microsoft Word|Word]] (3), [[Windows 10]] (2), [[Security]] (2)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** interface (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
@@ -2057,8 +2059,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (6), next (4), [[Windows 10]] (3), [[Troubleshooting]] (2), hit (1)
 > **Env Vars:** cpu (7)
-> **Code Keywords:** private (5), case, (1)
 > **UI Navigation:** click on (2), checkbox (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -2128,17 +2130,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (4), prompt (4), [[Troubleshooting]] (3), feature (2), hit (2)
 > **Env Vars:** wlan (7), cmd (1), html (1)
 > **UI Navigation:** scroll down (3), click on (2), navigate to (1)
 > **Tools:** command prompt (4), command line (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980)
@@ -2161,7 +2163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Windows 10]] (5), [[Microsoft Office|Office]] (5), next (1), [[Virtualization]] (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Speakers:** - [martin] (1)
 

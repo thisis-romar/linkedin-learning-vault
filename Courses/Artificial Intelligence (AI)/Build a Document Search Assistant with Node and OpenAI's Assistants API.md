@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20a%20Document%20Search%20Assistant%20with%20Node%20and%20OpenAI's%20Assistants%20API.md)
@@ -54,33 +54,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Course introduction
-  - What you should know
-  - Introduction to AI assistants
-  - Setting up the development environment
+  - [Course introduction](#course-introduction)
+  - [What you should know](#what-you-should-know)
+  - [Introduction to AI assistants](#introduction-to-ai-assistants)
+  - [Setting up the development environment](#setting-up-the-development-environment)
 - [**1. Building the Smart Document Search Assistant**](#1-building-the-smart-document-search-assistant) (6 videos)
-  - Creating your first assistant
-  - Enabling File Search
-  - Creating and running a thread
-  - Uploading and managing documents
-  - Challenge: Uploading and managing documents
-  - Solution: Uploading and managing documents
+  - [Creating your first assistant](#creating-your-first-assistant)
+  - [Enabling File Search](#enabling-file-search)
+  - [Creating and running a thread](#creating-and-running-a-thread)
+  - [Uploading and managing documents](#uploading-and-managing-documents)
+  - [Challenge: Uploading and managing documents](#challenge-uploading-and-managing-documents)
+  - [Solution: Uploading and managing documents](#solution-uploading-and-managing-documents)
 - [**2. Implementing Core Features**](#2-implementing-core-features) (5 videos)
-  - Handling user input and generating responses
-  - Customizing assistant responses
-  - Challenge: Implementing streaming responses
-  - Solution: Implementing streaming responses
-  - Controlling token length and formatting
+  - [Handling user input and generating responses](#handling-user-input-and-generating-responses)
+  - [Customizing assistant responses](#customizing-assistant-responses)
+  - [Challenge: Implementing streaming responses](#challenge-implementing-streaming-responses)
+  - [Solution: Implementing streaming responses](#solution-implementing-streaming-responses)
+  - [Controlling token length and formatting](#controlling-token-length-and-formatting)
 - [**3. Advanced Features and Debugging**](#3-advanced-features-and-debugging) (3 videos)
-  - Introduction to the Code Interpreter
-  - Leveraging Code Interpreter for data analysis and iterative problem solving
-  - Integrating function calling
+  - [Introduction to the Code Interpreter](#introduction-to-the-code-interpreter)
+  - [Leveraging Code Interpreter for data analysis and iterative problem solving](#leveraging-code-interpreter-for-data-analysis-and-iterative-problem-solving)
+  - [Integrating function calling](#integrating-function-calling)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980)
@@ -101,9 +101,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), api (2), node (1), express (1), [[Vector Databases]] (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [guil] (1)
 
 #### What you should know
@@ -149,11 +149,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), api (4), rag (3), [[JavaScript]] (2), [[Vector Databases]] (2)
 > **Env Vars:** api (5), rag (3)
 > **CLI Commands:** make (2), node (1)
 > **Analogies:** for example (1), such as (1)
 > **File Paths:** express.js (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -192,8 +192,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), api (3), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
 > **Env Vars:** api (3)
-> **Code Keywords:** function (2)
 > **Analogies:** imagine (1), for example (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** node (1)
@@ -302,10 +302,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), [[JSON]] (4), [[OpenAI API]] (3), [[GitHub]] (2), application (2)
 > **Env Vars:** api (8), sdk (2), openai_api_key (2), url (2), html (1)
 > **Prerequisites:** set up (10), install (3), setup (1)
 > **File Paths:** index.js (4), main.js (2), package.json (2), express.js (1), assistant.js (1)
-> **Code Keywords:** let (4), public (2), static (2), case, (1), function (1)
 > **CLI Commands:** npm (2), node (2), make (2), find (1)
 > **Exercise Files:** starter files (3), boilerplate (1), download the (1)
 > **Tools:** github (2), terminal (2)
@@ -314,7 +314,7 @@ created: 2026-04-29
 
 ### 1. Building the Smart Document Search Assistant
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your first assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980)
@@ -433,7 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), const (2), await (2), async (1)
+> **Frameworks & Libraries:** [[Search]] (7), api (6), node (3), next (2), ai (1)
 > **Env Vars:** api (6), sdk (1), gpt (1)
 > **File Paths:** assistant.js (4)
 > **CLI Commands:** node (3), make (1)
@@ -653,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), pass (11), async (3), await (3), let (2)
+> **Frameworks & Libraries:** [[Search]] (9), node (6), next (4), ai (1), api (1)
 > **Code Identifiers:** updateassistant (3), vectorstore (3), uploadfile (2), fileid (2), updatedassistant (2)
 > **File Paths:** assistant.js (5), upload.js (4), contract.txt (3), assistants.js (1)
 > **CLI Commands:** node (6)
@@ -897,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), pass (8), let (7), const (4), await (4)
+> **Frameworks & Libraries:** next (3), node (2), api (1), database (1)
 > **Code Identifiers:** threadid (10), assistantid (4), getassistantresponse (4), createthread (2), addmessage (1)
 > **File Paths:** assistant.js (4), contract.txt (2)
 > **CLI Commands:** node (2), make (1)
@@ -967,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), delete (5), let (3), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (5), next (1), management (1), api (1), [[Vector Databases]] (1)
 > **Code Identifiers:** listfiles (3), vectorstores (1), vectorstoreid (1), vectorstorefiles (1)
 > **Analogies:** such as (3), for instance (1), for example (1)
 > **File Paths:** policy.txt (1), guidelines.txt (1), upload.js (1), assistant.js (1)
@@ -1033,11 +1033,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), next (2), data (1), [[Search]] (1)
 > **File Paths:** faq.txt (4), guidelines.txt (1)
 > **Env Vars:** api (2), faq (2)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), delete (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** api reference (1)
@@ -1165,7 +1165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), pass (3), let (2), for, (1), finally, (1)
+> **Frameworks & Libraries:** next (4), node (3), [[Search]] (1), career (1), api (1)
 > **File Paths:** faq.txt (6), upload.js (5), assistant.js (3), file.txt (1), assistants.js (1)
 > **Code Identifiers:** vectorstoreid (3), uploadfile (2), filename (2), fileid (2), addmessage (2)
 > **CLI Commands:** node (3), make (2)
@@ -1177,7 +1177,7 @@ created: 2026-04-29
 
 ### 2. Implementing Core Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling user input and generating responses
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980)
@@ -1326,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), const (5), let (4), await (4), interface (3)
+> **Frameworks & Libraries:** next (4), data (4), api (3), application (2), [[Fetch]] (2)
 > **Code Identifiers:** threadid (11), messagesresponse (3), threadresponse (2), assistant_id (2), allmessages (2)
 > **File Paths:** assistant.js (4), index.js (1), index.html (1), main.js (1), policy.txt (1)
 > **CLI Commands:** make (2), npm (1)
@@ -1514,7 +1514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), pass (4), this. (2), default, (1)
+> **Frameworks & Libraries:** next (2), web application (1), [[User Experience (UX)|User experience]] (1), node (1), [[npm]] (1)
 > **CLI Commands:** make (6), node (1), npm (1), find (1)
 > **Analogies:** for instance (4), for example (4), such as (1)
 > **Env Vars:** ted (2), faq (2), npm (1), xyx (1)
@@ -1602,7 +1602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), public (1), let (1), super (1), finally, (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[OpenAI API]] (2), data (2), api (2), next (2)
 > **Env Vars:** api (4), utf (1)
 > **File Paths:** main.js (2), index.js (2)
 > **Code Identifiers:** responsediv (1), createandrun (1)
@@ -1702,7 +1702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), finally, (2), super (1), const (1)
+> **Frameworks & Libraries:** data (4), [[Tokens]] (2), api (1)
 > **Code Identifiers:** createandrun (2), setheader (1)
 > **Env Vars:** api (1), utf (1)
 > **Cross-References:** previous video (2)
@@ -1824,7 +1824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), case, (1), public (1)
+> **Frameworks & Libraries:** [[Tokens]] (10), [[Microsoft Word|Word]] (2), dom (2), [[HTML]] (2), [[npm]] (1)
 > **Analogies:** for example (4), for instance (1), just like (1), such as (1)
 > **CLI Commands:** make (2), npm (1), find (1)
 > **File Paths:** assistant.js (1), nodeassistant.js (1), index.js (1)
@@ -1836,7 +1836,7 @@ created: 2026-04-29
 
 ### 3. Advanced Features and Debugging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the Code Interpreter
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980)
@@ -1927,7 +1927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (3), let (3), require (1)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), [[Search]] (3), api (2), feature (1)
 > **Analogies:** for instance (2), for example (2), such as (2), it's like (1)
 > **CLI Commands:** python (4), make (1), node (1)
 > **Versions:** 0.8 (1), 78.5 (1), 78.54 (1)
@@ -2065,7 +2065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), function (3), let (3), const (1), case, (1)
+> **Frameworks & Libraries:** data (26), next (4), api (2), product (2), [[Tokens]] (2)
 > **Code Identifiers:** sales_data (4), updateassistant (2), datafileid (2), createandrun (1), tool_resources (1)
 > **Env Vars:** api (3), csv (3), json (1), pdf (1), xyz (1)
 > **File Paths:** sales_data.csv (4), assistant.js (2), upload.js (1), index.js (1)
@@ -2441,7 +2441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (64), let (5), pass (4), continue (1), const (1)
+> **Frameworks & Libraries:** data (13), api (9), [[Fetch]] (5), next (4), [[JSON]] (3)
 > **Env Vars:** api (9), json (3), npm (3), gpt (1), czy (1)
 > **File Paths:** assistant.js (6), functions.js (2), index.js (2), day.js (1)
 > **Analogies:** for example (6), for instance (2), such as (2), just like (1)
@@ -2453,7 +2453,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980)
@@ -2488,7 +2488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), continue (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Search]] (1), data (1), api (1), web (1)
 > **Env Vars:** api (2)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)

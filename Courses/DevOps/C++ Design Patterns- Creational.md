@@ -31,7 +31,7 @@ tags:
   - skill/design-patterns
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C%2B%2B%20Design%20Patterns-%20Creational.md)
@@ -50,57 +50,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Organize your code with creational design patterns in C++
-  - What you should know
-  - Installing Visual Studio for Windows
-  - Installing Xcode on Mac
-  - How to use the exercise files
-  - Challenges in this course
+  - [Organize your code with creational design patterns in C++](#organize-your-code-with-creational-design-patterns-in-c)
+  - [What you should know](#what-you-should-know)
+  - [Installing Visual Studio for Windows](#installing-visual-studio-for-windows)
+  - [Installing Xcode on Mac](#installing-xcode-on-mac)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
+  - [Challenges in this course](#challenges-in-this-course)
 - [**1. Design Patterns Overview**](#1-design-patterns-overview) (3 videos)
-  - The need for a design pattern
-  - What are design patterns?
-  - Creational patterns overview
+  - [The need for a design pattern](#the-need-for-a-design-pattern)
+  - [What are design patterns?](#what-are-design-patterns)
+  - [Creational patterns overview](#creational-patterns-overview)
 - [**2. Creational Patterns**](#2-creational-patterns) (4 videos)
-  - Inheritance vs. composition
-  - Composite object example
-  - Concrete vs. abstract
-  - Understanding UML
+  - [Inheritance vs. composition](#inheritance-vs-composition)
+  - [Composite object example](#composite-object-example)
+  - [Concrete vs. abstract](#concrete-vs-abstract)
+  - [Understanding UML](#understanding-uml)
 - [**3. Factory Method**](#3-factory-method) (4 videos)
-  - Factory Method concept
-  - Factory Method implementation
-  - Running the Factory Method example
-  - Factory Method variations
+  - [Factory Method concept](#factory-method-concept)
+  - [Factory Method implementation](#factory-method-implementation)
+  - [Running the Factory Method example](#running-the-factory-method-example)
+  - [Factory Method variations](#factory-method-variations)
 - [**4. Abstract Factory**](#4-abstract-factory) (7 videos)
-  - Abstract Factory concept
-  - Abstract Factory pattern implementation
-  - Using the Abstract Factory
-  - Running the Abstract Factory
-  - Extending the Abstract Factory
-  - Challenge: Abstract Factory
-  - Solution: Abstract Factory
+  - [Abstract Factory concept](#abstract-factory-concept)
+  - [Abstract Factory pattern implementation](#abstract-factory-pattern-implementation)
+  - [Using the Abstract Factory](#using-the-abstract-factory)
+  - [Running the Abstract Factory](#running-the-abstract-factory)
+  - [Extending the Abstract Factory](#extending-the-abstract-factory)
+  - [Challenge: Abstract Factory](#challenge-abstract-factory)
+  - [Solution: Abstract Factory](#solution-abstract-factory)
 - [**5. Builder**](#5-builder) (5 videos)
-  - Builder concept
-  - Builder pattern setup
-  - Builder pattern implementation
-  - Running the Builder example
-  - Steps in the Builder pattern
+  - [Builder concept](#builder-concept)
+  - [Builder pattern setup](#builder-pattern-setup)
+  - [Builder pattern implementation](#builder-pattern-implementation)
+  - [Running the Builder example](#running-the-builder-example)
+  - [Steps in the Builder pattern](#steps-in-the-builder-pattern)
 - [**6. Prototype**](#6-prototype) (4 videos)
-  - Prototype concept
-  - Prototype pattern implementation
-  - Running the Prototype example
-  - Shallow vs. deep copies
+  - [Prototype concept](#prototype-concept)
+  - [Prototype pattern implementation](#prototype-pattern-implementation)
+  - [Running the Prototype example](#running-the-prototype-example)
+  - [Shallow vs. deep copies](#shallow-vs-deep-copies)
 - [**7. Singleton**](#7-singleton) (4 videos)
-  - Singleton concept
-  - Singleton pattern implementation
-  - Running the Singleton pattern
-  - Is the Singleton a good pattern?
+  - [Singleton concept](#singleton-concept)
+  - [Singleton pattern implementation](#singleton-pattern-implementation)
+  - [Running the Singleton pattern](#running-the-singleton-pattern)
+  - [Is the Singleton a good pattern?](#is-the-singleton-a-good-pattern)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Comparing creational patterns
-  - Thanks for watching
+  - [Comparing creational patterns](#comparing-creational-patterns)
+  - [Thanks for watching](#thanks-for-watching)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organize your code with creational design patterns in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Software Development]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - as (1)
 
@@ -184,8 +184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Design Patterns]] (1), power (1), [[Programming Foundations]] (1), [[Programming]] (1)
 > **Env Vars:** ide (2), uml (1)
-> **Code Keywords:** from. (1), implements (1)
 > **Tools:** visual studio (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -226,8 +226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Privacy]] (1), prompt (1), application (1), [[Design Patterns]] (1)
 > **UI Navigation:** go to (3), click on (2), select the (1), navigate to (1)
-> **Code Keywords:** continue (1), new, (1)
 > **Tools:** visual studio (2)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Prerequisites:** install (2)
@@ -270,12 +270,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (5), next (2), [[Search]] (1), [[Microsoft Word|Word]] (1), application (1)
 > **UI Navigation:** click on (4), open the (1), navigate to (1)
 > **Exercise Files:** template (2), exercise files (2)
 > **Tools:** visual studio (1), command line (1)
 > **Prerequisites:** install (1), set up (1)
 > **File Paths:** main.cpp (1)
-> **Code Keywords:** delete (1)
 > **Code Identifiers:** macos (1)
 > **Env Vars:** ide (1)
 
@@ -338,7 +338,7 @@ created: 2026-04-29
 
 ### 1. Design Patterns Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for a design pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980)
@@ -417,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (3), let (1), class. (1), class, (1), this. (1)
+> **Frameworks & Libraries:** game (7), [[Software Development]] (1), next (1), [[Design Patterns]] (1)
 > **Env Vars:** asap (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -481,7 +481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), pass (1), abstract (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Software Development]] (1), [[Programming]] (1), [[Helm]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -518,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), abstract (1), type, (1)
+> **Frameworks & Libraries:** application (2), [[Representational State Transfer (REST)|Rest]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -526,7 +526,7 @@ created: 2026-04-29
 
 ### 2. Creational Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inheritance vs. composition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980)
@@ -609,8 +609,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Products|Products]] (1), [[Programming]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (10)
-> **Code Keywords:** class. (2), extends (1), abstract (1), from, (1), from. (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
@@ -715,7 +715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), class, (2), protected (2), private (2), public (2)
+> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** char_bag (1), openmealbag (1)
@@ -763,7 +763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (3), class. (2), class, (1), abstract (1)
+> **Frameworks & Libraries:** generic (1), [[Design Patterns]] (1)
 > **Code Identifiers:** makenoise (3)
 > **Analogies:** for example (2)
 > **Definitions:** known as (1)
@@ -836,7 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (6), abstract (1), finally, (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **Env Vars:** uml (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - in (1)
@@ -844,7 +844,7 @@ created: 2026-04-29
 
 ### 3. Factory Method
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Factory Method concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980)
@@ -921,7 +921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), class. (1), finally, (1)
+> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (4), generic (3), [[Representational State Transfer (REST)|Rest]] (2), [[Design Patterns]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1)
@@ -1022,7 +1022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), private (2), public (2), switch (2), from. (1)
+> **Frameworks & Libraries:** next (10), product (3), prompt (3), application (2), [[Microsoft Products|Products]] (2)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1106,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (2), return, (1), type, (1), type. (1), let (1)
+> **Frameworks & Libraries:** next (3), prompt (2), application (1)
 > **Env Vars:** f10 (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -1145,14 +1145,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), let (1), type. (1), case, (1)
+> **Frameworks & Libraries:** game (3), prompt (2), [[Representational State Transfer (REST)|Rest]] (2), hit (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Abstract Factory
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Abstract Factory concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-concept-14322469?u=76281980)
@@ -1235,7 +1235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (9), interface (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), generic (1), [[Programming]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** similar to (2), imagine (1), for example (1)
 > **Definitions:** is an  (1)
@@ -1338,7 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), class. (1), override (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), next (7)
 > **Code Identifiers:** publiccarfactory (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1424,7 +1424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), finally, (1), default. (1), case. (1), break. (1)
+> **Frameworks & Libraries:** next (6), product (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1502,8 +1502,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Design Patterns]] (1)
 > **Env Vars:** f10 (9), f11 (1)
-> **Code Keywords:** continue (2), switch (1), abstract (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1558,7 +1558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (6)
+> **Frameworks & Libraries:** application (5), product (3), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
@@ -1641,7 +1641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (4), this, (2), function (2), finally, (1), class. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), application (3), [[Xcode]] (1)
 > **Env Vars:** gui (3)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** hconsole (1)
@@ -1787,8 +1787,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), prompt (1), hit (1), product (1)
 > **Code Identifiers:** hconsole (14), getgreentext (4), appgreentext (2)
-> **Code Keywords:** public (5), abstract (2), override (2), pass (1), function (1)
 > **Env Vars:** handle (6)
 > **UI Navigation:** scroll down (3), go to (1)
 > **Definitions:** is a  (1)
@@ -1799,7 +1799,7 @@ created: 2026-04-29
 
 ### 5. Builder
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Builder concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-concept-14324293?u=76281980)
@@ -1862,7 +1862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), interface (1)
+> **Frameworks & Libraries:** product (7), generic (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1945,7 +1945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), protected (4), public (3), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), product (1), next (1)
 > **Code Identifiers:** openmealbag (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2052,7 +2052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), finally, (3), protected (2), class. (2), from. (1)
+> **Frameworks & Libraries:** next (7), product (1)
 > **Code Identifiers:** cookside (3), filldrink (3), cookentree (2), getmeal (1), setentree (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -2192,7 +2192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), finally, (3), type. (1), default. (1), let (1)
+> **Frameworks & Libraries:** next (7), product (1), prompt (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** f10 (4)
 > **UI Navigation:** select the (1), go to (1)
 > **Prerequisites:** set up (2)
@@ -2240,7 +2240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), class. (2), abstract (2), finally, (2), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2), data (2), [[Design Patterns]] (1), generic (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** getresult (2)
 > **Speakers:** - unlike (1)
@@ -2248,7 +2248,7 @@ created: 2026-04-29
 
 ### 6. Prototype
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototype concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/prototype-concept-14317586?u=76281980)
@@ -2331,7 +2331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), private (2), class, (2), this, (2), class. (1)
+> **Frameworks & Libraries:** game (4), generic (1)
 > **Env Vars:** dna (3)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -2431,7 +2431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), override (3), return, (2), abstract (1), class, (1)
+> **Frameworks & Libraries:** next (6)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (2)
@@ -2523,9 +2523,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Windows]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** private (1), public (1)
 > **Env Vars:** f10 (2)
 > **Cross-References:** previous video (1), earlier in (1)
 > **Prerequisites:** set up (1)
@@ -2570,15 +2570,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Singleton
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Singleton concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-concept-14319525?u=76281980)
@@ -2641,7 +2641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), class. (3), private (2), public (1), class, (1)
+> **Frameworks & Libraries:** application (3), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), generic (1)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** getinstance (1)
 > **Analogies:** for example (1)
@@ -2732,7 +2732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), static (4), public (4), class. (1), function (1)
+> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** getinstance (3), givespeech (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2815,8 +2815,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), application (1), hit (1)
 > **Env Vars:** f10 (9), f11 (3)
-> **Code Keywords:** continue (3), public (3), let (1), pass (1)
 > **Code Identifiers:** getinstance (4), givespeech (4)
 > **UI Navigation:** go to (2)
 > **Cross-References:** in the last (1)
@@ -2923,11 +2923,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (4), application (3), next (2), [[Programming]] (1), [[Design Patterns]] (1)
 > **Code Identifiers:** getinstance (5)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
@@ -2935,7 +2935,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing creational patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980)
@@ -3014,7 +3014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (3), let (2), from, (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** game (9), application (2), [[Microsoft Products|Products]] (2), [[Design Patterns]] (2)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** later in (1)
@@ -3050,6 +3050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Programming]] (1), [[Forms]] (1), feature (1), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [olivia] (1)

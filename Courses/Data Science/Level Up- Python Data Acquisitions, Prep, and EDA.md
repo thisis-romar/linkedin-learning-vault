@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/data-acquisition
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Level%20Up-%20Python%20Data%20Acquisitions%2C%20Prep%2C%20and%20EDA.md)
@@ -49,32 +49,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with Python for data science: Code challenges
-  - Using GitHub Codespaces with this course
+  - [Getting started with Python for data science: Code challenges](#getting-started-with-python-for-data-science-code-challenges)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Data Acquisition**](#1-data-acquisition) (6 videos)
-  - Scraping tables
-  - Finding CSS selectors
-  - Scraping text
-  - Using LLMs to scrape data
-  - Finding APIs
-  - Getting JSON into pandas
+  - [Scraping tables](#scraping-tables)
+  - [Finding CSS selectors](#finding-css-selectors)
+  - [Scraping text](#scraping-text)
+  - [Using LLMs to scrape data](#using-llms-to-scrape-data)
+  - [Finding APIs](#finding-apis)
+  - [Getting JSON into pandas](#getting-json-into-pandas)
 - [**2. Data Prep**](#2-data-prep) (6 videos)
-  - Constructing regular expressions
-  - Cleaning text
-  - Selecting variables
-  - Encoding categorical variables
-  - Scaling variables
-  - Reducing dimensionality
+  - [Constructing regular expressions](#constructing-regular-expressions)
+  - [Cleaning text](#cleaning-text)
+  - [Selecting variables](#selecting-variables)
+  - [Encoding categorical variables](#encoding-categorical-variables)
+  - [Scaling variables](#scaling-variables)
+  - [Reducing dimensionality](#reducing-dimensionality)
 - [**3. EDA**](#3-eda) (5 videos)
-  - Describing data
-  - Finding correlations
-  - Visualizing correlations
-  - Multivariable visualizations
-  - Building visualizations with Streamlit
+  - [Describing data](#describing-data)
+  - [Finding correlations](#finding-correlations)
+  - [Visualizing correlations](#visualizing-correlations)
+  - [Multivariable visualizations](#multivariable-visualizations)
+  - [Building visualizations with Streamlit](#building-visualizations-with-streamlit)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Python for data science: Code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980)
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Data Acquisition]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -253,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Codespaces]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -265,7 +266,7 @@ created: 2026-04-29
 
 ### 1. Data Acquisition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scraping tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980)
@@ -318,7 +319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), pass (1)
+> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (3), web (1), [[HTML]] (1)
 > **Code Identifiers:** read_html (1), table_link (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** html (1)
@@ -396,9 +397,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), [[Pandas (Software)|Pandas]] (4), data (3), [[HTML]] (1), [[Search]] (1)
 > **Env Vars:** css (6), html (1), bs4 (1)
 > **CLI Commands:** find (5), make (1)
-> **Code Keywords:** pass (2), let (1), else. (1)
 > **Code Identifiers:** base_link (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -481,8 +482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), data (4), [[Programming]] (2), [[Pandas (Software)|Pandas]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), find (1), python (1)
-> **Code Keywords:** continue (2), let (1), this. (1), type. (1), for. (1)
 > **Env Vars:** css (6), html (1)
 > **Code Identifiers:** page_link (2)
 > **UI Navigation:** go to (1)
@@ -585,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (3), this, (1), throw (1), else, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), data (5), [[Microsoft Copilot|Copilot]] (4), [[Pandas (Software)|Pandas]] (3), [[HTML]] (2)
 > **Tools:** terminal (3), vs code (1)
 > **Env Vars:** html (2)
 > **CLI Commands:** find (1)
@@ -646,9 +647,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), api (5), [[JSON]] (4), [[Pandas (Software)|Pandas]] (3), power (2)
 > **Env Vars:** api (5), json (4)
 > **CLI Commands:** find (5), make (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -702,16 +703,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[JSON]] (5), [[Pandas (Software)|Pandas]] (5), api (3)
 > **Env Vars:** json (5), pandas (5), api (3)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** pass (2), let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 2. Data Prep
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Constructing regular expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980)
@@ -774,7 +775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), this. (1), let (1)
+> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (2), power (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** str (1)
 > **UI Navigation:** navigate to (1)
@@ -865,7 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), throw (2)
+> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (3), [[HTML]] (1), web (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** usepython (1), pandasforlife (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** html (1)
@@ -924,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (2), for. (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Programming]] (1), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Code Identifiers:** data_types (1), numeric_employees (1)
 > **UI Navigation:** select the (1), navigate to (1)
@@ -996,7 +997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), finally, (2), pass (2), while. (1), this, (1)
+> **Frameworks & Libraries:** data (8), next (3), power (1)
 > **Code Identifiers:** row_id (2), value_encoder (2), department_wide (1), job_level_wide (1)
 > **Speakers:** - [instructor] (2)
 > **CLI Commands:** find (1)
@@ -1049,7 +1050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), this. (1), pass (1), else, (1)
+> **Frameworks & Libraries:** data (5), feature (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** z_score_maker (2)
 > **Definitions:** is a  (1)
@@ -1135,9 +1136,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), feature (3), next (2), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pca (2)
-> **Code Keywords:** this. (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (energetic music plays) (1)
@@ -1145,7 +1146,7 @@ created: 2026-04-29
 
 ### 3. EDA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980)
@@ -1210,9 +1211,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Statistics]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** max_columns (1), prior_job_count (1), separated_ny (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (synth music) (1)
@@ -1274,8 +1275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
 
@@ -1344,7 +1345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), new, (1), this, (1)
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** employee_correlations (1)
 > **Definitions:** is a  (1)
@@ -1416,9 +1417,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Code Identifiers:** prior_job_count (1), days_to_separate (1), starting_salary (1), z_core (1), z_scores (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1), this, (1)
 > **Env Vars:** eda (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1513,7 +1514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), throw (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (5), next (1), [[Dashboards]] (1), [[GitHub]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python3 (2), find (2)
 > **Code Identifiers:** viz_variables (1)
 > **Tools:** github (1)

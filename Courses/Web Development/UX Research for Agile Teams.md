@@ -30,7 +30,7 @@ tags:
   - skill/agile-methodologies
   - skill/ux-research
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Research%20for%20Agile%20Teams.md)
@@ -49,31 +49,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - What to know
+  - [Welcome](#welcome)
+  - [What to know](#what-to-know)
 - [**1. Software Development Frameworks**](#1-software-development-frameworks) (4 videos)
-  - UX research overview
-  - Agile and scrum overview
-  - Other frameworks
-  - Why development and business process matters to UX
+  - [UX research overview](#ux-research-overview)
+  - [Agile and scrum overview](#agile-and-scrum-overview)
+  - [Other frameworks](#other-frameworks)
+  - [Why development and business process matters to UX](#why-development-and-business-process-matters-to-ux)
 - [**2. Team Preparation**](#2-team-preparation) (3 videos)
-  - Team makeup
-  - Research cadence
-  - Logistics of securing research participants
+  - [Team makeup](#team-makeup)
+  - [Research cadence](#research-cadence)
+  - [Logistics of securing research participants](#logistics-of-securing-research-participants)
 - [**3. Research Adaption**](#3-research-adaption) (4 videos)
-  - Choosing research method
-  - Crafting a hypothesis
-  - Balancing rigor and speed
-  - Performing research together
+  - [Choosing research method](#choosing-research-method)
+  - [Crafting a hypothesis](#crafting-a-hypothesis)
+  - [Balancing rigor and speed](#balancing-rigor-and-speed)
+  - [Performing research together](#performing-research-together)
 - [**4. Analyzing Research**](#4-analyzing-research) (2 videos)
-  - Interpreting research findings
-  - Integrating results
+  - [Interpreting research findings](#interpreting-research-findings)
+  - [Integrating results](#integrating-results)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980)
@@ -96,6 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (3), [[Agile Development|Agile]] (2), [[Agile Software Development]] (1), [[User Experience (UX)|User experience]] (1), teams (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** setup (1)
@@ -114,12 +115,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), ux (1), product (1), [[Scrum]] (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Software Development Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### UX research overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/ux-research-overview?u=76281980)
@@ -136,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), teams (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - user (1)
 
@@ -184,8 +187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (9), [[Agile Development|Agile]] (8), teams (8), product (2), [[Software Development]] (1)
 > **Definitions:** is an  (1), is called (1), means that (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - before (1)
 
 #### Other frameworks
@@ -235,8 +238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), teams (5), [[Scrum]] (4), business (2), [[Programming]] (1)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** self (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - as (1)
 
@@ -255,13 +258,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), teams (1), [[Software Development]] (1), [[User Experience (UX)|User experience]] (1), parallel (1)
 > **Definitions:** means that (1)
 > **Speakers:** - because (1)
 
 
 ### 2. Team Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Team makeup
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980)
@@ -352,9 +356,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (22), teams (10), [[Agile Development|Agile]] (5), functional (3), product (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - one (1)
 
@@ -439,9 +443,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), ux (4), product (4), [[Scrum]] (2), [[Agile Development|Agile]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for instance (2), such as (2)
-> **Code Keywords:** continue (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -502,7 +506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), type, (1), include. (1)
+> **Frameworks & Libraries:** [[Google]] (1), application (1), cms (1), data (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** for instance (1), for example (1)
 > **Env Vars:** cms (1)
@@ -513,7 +517,7 @@ created: 2026-04-29
 
 ### 3. Research Adaption
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing research method
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980)
@@ -538,6 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (4), [[Agile Development|Agile]] (2), [[Product Development]] (1)
 > **Env Vars:** nng (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
@@ -607,8 +612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), business (2), [[Analytics]] (1), ux (1), application (1)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** let (1), this. (1), try. (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** lean (1)
 > **Definitions:** is a  (1)
@@ -652,9 +657,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Agile Development|Agile]] (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - in (1)
 
 #### Performing research together
@@ -728,16 +733,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (4), [[Agile Development|Agile]] (2), [[Representational State Transfer (REST)|Rest]] (1), functional (1), teams (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1), for instance (1)
-> **Code Keywords:** interface (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
 
 ### 4. Analyzing Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Interpreting research findings
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980)
@@ -830,10 +835,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (7), business (4), [[Agile Development|Agile]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (5)
 > **Definitions:** means that (2), is called (1)
 > **Analogies:** for instance (2), picture (1)
-> **Code Keywords:** let (1), try. (1)
 > **Warnings:** note that (1), be careful (1)
 > **Speakers:** - as (1)
 
@@ -894,7 +899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** ux (4), next (2), [[Sketching]] (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - assuming (1)
@@ -902,7 +907,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980)
@@ -921,6 +926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), ux (1), teams (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - thanks (1)

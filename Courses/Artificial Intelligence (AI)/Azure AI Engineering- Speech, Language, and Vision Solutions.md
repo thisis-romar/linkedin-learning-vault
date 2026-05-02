@@ -35,7 +35,7 @@ tags:
   - skill/application-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Engineering-%20Speech%2C%20Language%2C%20and%20Vision%20Solutions.md)
@@ -54,7 +54,7 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Create Speech-Enabled Apps with Azure AI Services**](#1-create-speech-enabled-apps-with-azure-ai-services) (1 videos)
-  - Welcome to this course
+  - [Welcome to this course](#welcome-to-this-course)
 - [**2. Translate Speech with the Azure AI Speech Service**](#2-translate-speech-with-the-azure-ai-speech-service) (0 videos)
 - [**3. Build a Conversational Language Understanding Model**](#3-build-a-conversational-language-understanding-model) (0 videos)
 - [**4. Develop an App with Azure AI Language**](#4-develop-an-app-with-azure-ai-language) (0 videos)
@@ -69,7 +69,7 @@ created: 2026-04-29
 
 ### 1. Create Speech-Enabled Apps with Azure AI Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980)
@@ -90,63 +90,64 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Microsoft Azure|Azure]] (5), nlp (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** nlp (2)
 > **Speakers:** - welcome (1)
 
 
 ### 2. Translate Speech with the Azure AI Speech Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 3. Build a Conversational Language Understanding Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 4. Develop an App with Azure AI Language
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 5. Build a Question Answering Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 6. Create a Custom Text Classification Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 7. Custom Named Entity Recognition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 8. Analyze Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 9. Analyze Video
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 10. Classify Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 11. Detect Objects in Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 12. Detect, Analyze, and Recognize Faces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

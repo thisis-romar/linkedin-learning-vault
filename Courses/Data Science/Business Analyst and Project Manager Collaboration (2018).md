@@ -33,7 +33,7 @@ tags:
   - skill/cross-team-collaboration
   - skill/project-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analyst%20and%20Project%20Manager%20Collaboration%20(2018).md)
@@ -52,33 +52,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Teaming up for results
+  - [Teaming up for results](#teaming-up-for-results)
 - [**1. Project Manager and Business Analyst Collaboration Overview**](#1-project-manager-and-business-analyst-collaboration-overview) (7 videos)
-  - Why projects fail
-  - Goals of the roles
-  - Project vs. product
-  - Why collaboration is key
-  - Where the roles overlap
-  - The triple constraint
-  - Model partnership
+  - [Why projects fail](#why-projects-fail)
+  - [Goals of the roles](#goals-of-the-roles)
+  - [Project vs. product](#project-vs-product)
+  - [Why collaboration is key](#why-collaboration-is-key)
+  - [Where the roles overlap](#where-the-roles-overlap)
+  - [The triple constraint](#the-triple-constraint)
+  - [Model partnership](#model-partnership)
 - [**2. What to Collaborate On**](#2-what-to-collaborate-on) (6 videos)
-  - Portfolio-level collaboration
-  - Scoping
-  - Estimating and planning
-  - Requirements and analysis
-  - Development and testing
-  - Implementation
+  - [Portfolio-level collaboration](#portfolio-level-collaboration)
+  - [Scoping](#scoping)
+  - [Estimating and planning](#estimating-and-planning)
+  - [Requirements and analysis](#requirements-and-analysis)
+  - [Development and testing](#development-and-testing)
+  - [Implementation](#implementation)
 - [**3. Overlapping Roles**](#3-overlapping-roles) (4 videos)
-  - Communications
-  - Risk management
-  - Stakeholder management
-  - Scope management and change
+  - [Communications](#communications)
+  - [Risk management](#risk-management)
+  - [Stakeholder management](#stakeholder-management)
+  - [Scope management and change](#scope-management-and-change)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Leverage each other's skill sets
+  - [Leverage each other's skill sets](#leverage-each-others-skill-sets)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Teaming up for results
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/teaming-up-for-results?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (2), [[Stakeholder Engagement]] (2), management (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Project Manager and Business Analyst Collaboration Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why projects fail
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-projects-fail?u=76281980)
@@ -174,9 +174,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (2), product (2), business (2), next (1), teams (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - we (1)
 
 #### Goals of the roles
@@ -226,9 +226,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), product (1), [[React.js|React]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - many (1)
 
@@ -289,9 +289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (14), management (2), business (1)
 > **Env Vars:** crm (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - many (1)
 
@@ -344,7 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -407,8 +407,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), product (3), next (2), business (1), functional (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - project (1)
 
 #### The triple constraint
@@ -480,7 +480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (1), break. (1), this. (1), let (1)
+> **Frameworks & Libraries:** business (2), teams (2), management (1), [[Decision-Making]] (1), hit (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - pat (1)
@@ -542,7 +542,7 @@ created: 2026-04-29
 
 ### 2. What to Collaborate On
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Portfolio-level collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/portfolio-level-collaboration-8536783?u=76281980)
@@ -625,8 +625,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), next (2), [[Decision-Making]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (2), case, (1)
 > **Analogies:** picture (1)
 > **Speakers:** - at (1)
 
@@ -705,6 +705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (7), product (5), teams (3), next (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - scope (1)
@@ -774,6 +775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), next (1), business (1), management (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -836,7 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** teams (4), business (3), [[Requirements Analysis]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - requirements (1)
 
@@ -887,8 +889,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - during (1)
@@ -948,15 +950,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
 
 ### 3. Overlapping Roles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/communications-8541082?u=76281980)
@@ -1010,7 +1012,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - pat (1)
@@ -1066,8 +1067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1)
 > **Speakers:** - when (1)
 
 #### Stakeholder management
@@ -1121,8 +1122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2)
 > **Analogies:** imagine (2)
-> **Code Keywords:** this. (1)
 > **Env Vars:** crm (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - pat (1)
@@ -1186,15 +1187,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), business (1), career (1), [[Agile Development|Agile]] (1), management (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), this, (1)
 > **Env Vars:** crm (1)
 > **Speakers:** - i (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage each other's skill sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/leverage-each-other-s-skill-sets?u=76281980)
@@ -1217,6 +1218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3)
 > **Speakers:** - business (1)
 
 

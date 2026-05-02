@@ -32,7 +32,7 @@ tags:
   - skill/apache-kafka
   - skill/performance-tuning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Tuning%20Kafka.md)
@@ -51,42 +51,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Tuning Kafka
+  - [Tuning Kafka](#tuning-kafka)
 - [**1. Introducing Kafka Tuning**](#1-introducing-kafka-tuning) (7 videos)
-  - Prerequisites
-  - An overview of Kafka
-  - Producers and consumers
-  - Kafka optimization theorem
-  - End-to-end latency in Kafka
-  - Install and set up Apache Kafka
-  - Publish and consume messages using console scripts
+  - [Prerequisites](#prerequisites)
+  - [An overview of Kafka](#an-overview-of-kafka)
+  - [Producers and consumers](#producers-and-consumers)
+  - [Kafka optimization theorem](#kafka-optimization-theorem)
+  - [End-to-end latency in Kafka](#end-to-end-latency-in-kafka)
+  - [Install and set up Apache Kafka](#install-and-set-up-apache-kafka)
+  - [Publish and consume messages using console scripts](#publish-and-consume-messages-using-console-scripts)
 - [**2. Tuning Kafka Producers**](#2-tuning-kafka-producers) (8 videos)
-  - Running a Kafka cluster with three brokers
-  - Running basic producer performance tests
-  - Effects of partitioning on producers
-  - Effects of replication on producers
-  - Tuning producer acks
-  - Tuning producer compression
-  - Tuning batch size and linger time
-  - Effect of message size and record count
+  - [Running a Kafka cluster with three brokers](#running-a-kafka-cluster-with-three-brokers)
+  - [Running basic producer performance tests](#running-basic-producer-performance-tests)
+  - [Effects of partitioning on producers](#effects-of-partitioning-on-producers)
+  - [Effects of replication on producers](#effects-of-replication-on-producers)
+  - [Tuning producer acks](#tuning-producer-acks)
+  - [Tuning producer compression](#tuning-producer-compression)
+  - [Tuning batch size and linger time](#tuning-batch-size-and-linger-time)
+  - [Effect of message size and record count](#effect-of-message-size-and-record-count)
 - [**3. Tuning Kafka Consumers**](#3-tuning-kafka-consumers) (4 videos)
-  - Running a basic consumer performance test
-  - Tuning fetch bytes and wait time for consumers
-  - Tuning session timeout and heartbeat interval
-  - Tuning max poll interval and max poll records
+  - [Running a basic consumer performance test](#running-a-basic-consumer-performance-test)
+  - [Tuning fetch bytes and wait time for consumers](#tuning-fetch-bytes-and-wait-time-for-consumers)
+  - [Tuning session timeout and heartbeat interval](#tuning-session-timeout-and-heartbeat-interval)
+  - [Tuning max poll interval and max poll records](#tuning-max-poll-interval-and-max-poll-records)
 - [**4. Tuning Kafka Brokers**](#4-tuning-kafka-brokers) (3 videos)
-  - End-to-end latency with replication
-  - Tuning throughput
-  - Tuning log retention
+  - [End-to-end latency with replication](#end-to-end-latency-with-replication)
+  - [Tuning throughput](#tuning-throughput)
+  - [Tuning log retention](#tuning-log-retention)
 - [**5. Performance Testing with Python**](#5-performance-testing-with-python) (2 videos)
-  - Producer performance testing using Python
-  - Consumer perf testing using Python
+  - [Producer performance testing using Python](#producer-performance-testing-using-python)
+  - [Consumer perf testing using Python](#consumer-perf-testing-using-python)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tuning Kafka
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980)
@@ -165,9 +165,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), application (2), [[IoT]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** iot (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
@@ -176,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Introducing Kafka Tuning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980)
@@ -207,9 +207,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), [[Python (Programming Language)|Python]] (2), [[Apache Kafka]] (1), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), python (2), apache (1)
 > **Tools:** terminal (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** macos (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -329,9 +329,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), parallel (2)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), default. (1)
 > **Analogies:** it's like (1), just like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - before (1)
@@ -407,7 +407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** data (2), parallel (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -531,8 +531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), node (1), parallel (1), [[Metadata]] (1)
 > **Env Vars:** cap (5), pacelc (3)
-> **Code Keywords:** require (2), finally, (1), else, (1)
 > **CLI Commands:** make (2), node (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), picture (1)
@@ -591,8 +591,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (4), data (2), [[Apache Kafka]] (1), application (1)
 > **CLI Commands:** make (2), apache (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
@@ -681,10 +681,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Kafka]] (3), next (2), [[Scala]] (1)
 > **Prerequisites:** install (5), set up (4), configure (1)
 > **Versions:** 2.12 (3), version 3 (2), 4.0 (2), 3.4.0 (2)
 > **CLI Commands:** apache (4), find (1), unzip (1), ls (1)
-> **Code Keywords:** let (3), case, (1), switch (1)
 > **Tools:** terminal (2), bash (2), command line (1)
 > **Env Vars:** kafka_home (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -773,9 +773,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2)
 > **Code Identifiers:** loony_topic (6)
 > **Tools:** terminal (4)
-> **Code Keywords:** let (2)
 > **Warnings:** warning (2)
 > **File Paths:** kafka-topics.sh (1)
 > **Prerequisites:** set up (1)
@@ -784,7 +784,7 @@ created: 2026-04-29
 
 ### 2. Tuning Kafka Producers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running a Kafka cluster with three brokers
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/running-a-kafka-cluster-with-three-brokers?u=76281980)
@@ -913,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (2)
+> **Frameworks & Libraries:** next (3), data (1)
 > **Tools:** terminal (4), sublime (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** configure (2), set up (1), install (1)
@@ -1051,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (1), default, (1), default. (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Performance Tuning]] (2), [[Fetch]] (1), hit (1), [[Statistics]] (1)
 > **Prerequisites:** install (2), configure (2), set up (1)
 > **File Paths:** kafka-producer-perf-test.sh (2), producer.config (2)
 > **Warnings:** heads up (2), warning (1)
@@ -1191,8 +1191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (4), next (2), application (1), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1)
 > **Versions:** 20.67 (2), 22.04 (2), 384.24 (1), 7.19 (1), 22.39 (1)
-> **Code Keywords:** let (2), delete (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** cpu (1)
 > **UI Navigation:** scroll down (1)
@@ -1269,8 +1269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Versions:** 13.56 (2), 353.99 (1), 7.49 (1), 834.05 (1), 6.07 (1)
-> **Code Keywords:** let (3), delete (2), default, (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1414,7 +1414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1)
+> **Frameworks & Libraries:** [[Performance Tuning]] (5), data (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Versions:** 7.42 (2), 8.5 (1), 8.51 (1), 5.36 (1)
 > **Definitions:** basically means (1), means that (1)
 > **File Paths:** producer.config (1)
@@ -1556,8 +1556,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Performance Tuning]] (2), next (1)
 > **Versions:** 7.24 (2), 7.93 (2), 54.44 (2), 7.27 (1), 7.15 (1)
-> **Code Keywords:** let (5), default, (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** cpu (2)
 > **Warnings:** heads up (1)
@@ -1689,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (2), case. (1), default. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), application (1), next (1)
 > **Versions:** 4.08 (1), 0.65 (1), 5.37 (1), 8.54 (1), 7.54 (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (2)
@@ -1836,7 +1836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case. (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[Performance Tuning]] (1)
 > **Versions:** 5.62 (1), 7.43 (1), 370.79 (1), 16.93 (1), 177.5 (1)
 > **UI Navigation:** scroll up (1), scroll down (1)
 > **Definitions:** is a  (1)
@@ -1846,7 +1846,7 @@ created: 2026-04-29
 
 ### 3. Tuning Kafka Consumers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running a basic consumer performance test
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980)
@@ -1953,7 +1953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), pass (1), from. (1), default, (1)
+> **Frameworks & Libraries:** [[Performance Tuning]] (5), data (3), [[Fetch]] (2)
 > **Prerequisites:** setup (1), set up (1), install (1)
 > **File Paths:** consumer.config (2)
 > **CLI Commands:** find (2)
@@ -2083,7 +2083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default. (2), this, (1), override (1), switch (1)
+> **Frameworks & Libraries:** [[Fetch]] (20), data (6), [[Performance Tuning]] (2)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 2.5 (2)
@@ -2155,7 +2155,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1), default. (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** configure (2)
 > **Definitions:** is a  (1)
@@ -2219,8 +2218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (3), case, (1)
 > **Prerequisites:** configure (3), set up (1)
 > **Versions:** 0.5 (1)
 > **Definitions:** means that (1)
@@ -2229,7 +2228,7 @@ created: 2026-04-29
 
 ### 4. Tuning Kafka Brokers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### End-to-end latency with replication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980)
@@ -2350,7 +2349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (2), this, (2), switch (1), class, (1)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Java]] (1), [[Apache Kafka]] (1)
 > **Code Identifiers:** broker_tuning (6), topic_config (6)
 > **Env Vars:** json (3), acks (2), jar (1), kafka_home (1)
 > **File Paths:** topic_config.json (4), kafka-run-class.sh (1), kafka-reassign-partitions.sh (1)
@@ -2472,7 +2471,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (2), this, (1), finally, (1)
 > **Versions:** 6.21 (2), 1.84 (1), 24.18 (1), 2.5877 (1), 8.55 (1)
 > **CLI Commands:** make (3)
 > **URLs:** [num.io](https://num.io) (2)
@@ -2480,6 +2478,7 @@ created: 2026-04-29
 > **Code Identifiers:** broker_tuning (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
+> **Analogies:** picture (1)
 
 #### Tuning log retention
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-log-retention?u=76281980)
@@ -2556,7 +2555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -2564,7 +2563,7 @@ created: 2026-04-29
 
 ### 5. Performance Testing with Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Producer performance testing using Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/producer-performance-testing-using-python?u=76281980)
@@ -2659,8 +2658,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Programming]] (1), hit (1), next (1)
 > **CLI Commands:** python (12), pip (2), make (2), ls (1)
-> **Code Keywords:** let (8), default, (1), function (1), pass (1), switch (1)
 > **Code Identifiers:** producer_perf_testing (3), perf_tests (1), consumer_perf_testing (1)
 > **Versions:** 3.9.13 (1), 3.7 (1), 1.07 (1), 71.02 (1), 1.34 (1)
 > **Tools:** sublime (2), terminal (2)
@@ -2739,8 +2738,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1)
 > **Code Identifiers:** consumer_perf_tests (3), consumer_perf_testing (2), run_test (2), bootstrap_servers (1), n_messages (1)
-> **Code Keywords:** let (3), function (3), switch (1)
 > **CLI Commands:** python (3)
 > **Versions:** 18.24 (1), 0.63 (1)
 > **Tools:** sublime (1), terminal (1)
@@ -2751,7 +2750,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980)
@@ -2782,8 +2781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Kafka]] (2), [[Big Data]] (2), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1), [[Apache Spark]] (1)
 > **CLI Commands:** apache (3), python (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 

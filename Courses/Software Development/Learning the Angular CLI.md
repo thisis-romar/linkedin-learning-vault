@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/angular-cli
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20the%20Angular%20CLI.md)
@@ -48,54 +48,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Maximize productivity with Angular CLI
-  - What you should know
-  - Using the exercise files
+  - [Maximize productivity with Angular CLI](#maximize-productivity-with-angular-cli)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Exploring the Angular CLI**](#1-exploring-the-angular-cli) (3 videos)
-  - What is the Angular CLI?
-  - Installing the CLI
-  - Using the CLI
+  - [What is the Angular CLI?](#what-is-the-angular-cli)
+  - [Installing the CLI](#installing-the-cli)
+  - [Using the CLI](#using-the-cli)
 - [**2. Updating Angular Versions**](#2-updating-angular-versions) (3 videos)
-  - Using the Angular Update Guide
-  - Using ng update: Part 1
-  - Using ng update: Part 2
+  - [Using the Angular Update Guide](#using-the-angular-update-guide)
+  - [Using ng update: Part 1](#using-ng-update-part-1)
+  - [Using ng update: Part 2](#using-ng-update-part-2)
 - [**3. Creating New Angular Projects**](#3-creating-new-angular-projects) (6 videos)
-  - The ng new command
-  - Understanding the config files
-  - Adding application assets
-  - Adding a CSS framework
-  - Challenge: Adding JavaScript libraries
-  - Solution: Adding JavaScript libraries
+  - [The ng new command](#the-ng-new-command)
+  - [Understanding the config files](#understanding-the-config-files)
+  - [Adding application assets](#adding-application-assets)
+  - [Adding a CSS framework](#adding-a-css-framework)
+  - [Challenge: Adding JavaScript libraries](#challenge-adding-javascript-libraries)
+  - [Solution: Adding JavaScript libraries](#solution-adding-javascript-libraries)
 - [**4. Serving Angular Applications for Development**](#4-serving-angular-applications-for-development) (2 videos)
-  - The ng serve command
-  - Customizing the development server
+  - [The ng serve command](#the-ng-serve-command)
+  - [Customizing the development server](#customizing-the-development-server)
 - [**5. Generating Angular Application Code**](#5-generating-angular-application-code) (9 videos)
-  - Creating new code with schematics
-  - Generating components and modules
-  - Generating directives
-  - Generating pipes
-  - Generating route guards
-  - Adding libraries using schematics
-  - Generating custom library
-  - Challenge: Generating services
-  - Solution: Generating services
+  - [Creating new code with schematics](#creating-new-code-with-schematics)
+  - [Generating components and modules](#generating-components-and-modules)
+  - [Generating directives](#generating-directives)
+  - [Generating pipes](#generating-pipes)
+  - [Generating route guards](#generating-route-guards)
+  - [Adding libraries using schematics](#adding-libraries-using-schematics)
+  - [Generating custom library](#generating-custom-library)
+  - [Challenge: Generating services](#challenge-generating-services)
+  - [Solution: Generating services](#solution-generating-services)
 - [**6. Building Angular Applications**](#6-building-angular-applications) (5 videos)
-  - A build pipeline for an Angular app
-  - The ng build command
-  - Configuring different build options
-  - Setting up build scripts
-  - Deploying with the Angular CLI
+  - [A build pipeline for an Angular app](#a-build-pipeline-for-an-angular-app)
+  - [The ng build command](#the-ng-build-command)
+  - [Configuring different build options](#configuring-different-build-options)
+  - [Setting up build scripts](#setting-up-build-scripts)
+  - [Deploying with the Angular CLI](#deploying-with-the-angular-cli)
 - [**7. Running Tests**](#7-running-tests) (4 videos)
-  - Built-in test runner
-  - The ng test command
-  - Test run options
-  - Testing workflow
+  - [Built-in test runner](#built-in-test-runner)
+  - [The ng test command](#the-ng-test-command)
+  - [Test run options](#test-run-options)
+  - [Testing workflow](#testing-workflow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Maximize productivity with Angular CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980)
@@ -124,8 +124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (6), [[CLI]] (3), application (2), game (1), feature (1)
 > **Env Vars:** cli (4)
-> **Code Keywords:** interface (1), let (1)
 > **Speakers:** - [victor] (1)
 
 #### What you should know
@@ -153,6 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), [[npm]] (3), [[Angular CLI]] (2), [[Angular]] (1), [[Git]] (1)
 > **CLI Commands:** node (3), npm (3), git (1), make (1)
 > **Tools:** terminal (2), zsh (2), visual studio (1), command prompt (1)
 > **Env Vars:** npm (3), cli (2)
@@ -160,7 +161,6 @@ created: 2026-04-29
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **Versions:** version 3 (1)
 > **Prerequisites:** install (1)
-> **Speakers:** - [instructor] (1)
 
 #### Using the exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980)
@@ -195,6 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Angular]] (1), [[Angular CLI]] (1), [[CLI]] (1)
 > **Env Vars:** cli (2), url (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -206,7 +207,7 @@ created: 2026-04-29
 
 ### 1. Exploring the Angular CLI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the Angular CLI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980)
@@ -227,11 +228,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (4), [[CLI]] (3), [[Angular CLI]] (2), application (1)
 > **Env Vars:** cli (5)
 > **Tools:** command line (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - this (1)
@@ -283,10 +284,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), [[npm]] (4), node (4), [[Angular CLI]] (2), [[JavaScript]] (1)
 > **CLI Commands:** node (8), npm (4)
 > **Env Vars:** npm (4), lts (2), cli (2)
 > **Prerequisites:** install (7)
-> **Code Keywords:** let (5)
 > **File Paths:** node.js (4)
 > **Versions:** 12.19.0 (1), version 10 (1)
 > **Tools:** terminal (1), command line (1)
@@ -321,7 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[CLI]] (2), application (2), [[Angular]] (2)
 > **Env Vars:** cli (2)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -332,7 +333,7 @@ created: 2026-04-29
 
 ### 2. Updating Angular Versions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Angular Update Guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980)
@@ -369,6 +370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (8), application (1), [[Firebase]] (1), [[JSON]] (1)
 > **Versions:** version 8 (2), version 9 (1), version 10 (1)
 > **Definitions:** is a  (2)
 > **File Paths:** package.json (1)
@@ -376,7 +378,6 @@ created: 2026-04-29
 > **URLs:** [angular.io](https://angular.io) (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** recommended (1)
-> **Speakers:** - [instructor] (1)
 
 #### Using ng update: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980)
@@ -477,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), continue (2), default. (1)
+> **Frameworks & Libraries:** [[Angular]] (10), [[JSON]] (3), [[npm]] (2), node (2), next (2)
 > **Versions:** version 9 (4), version 8 (1), 8.2.4 (1), 8.2.14 (1), 3.8 (1)
 > **CLI Commands:** npm (2), make (2), node (2)
 > **File Paths:** package.json (1), angular.json (1), tsconfig.app.json (1), typings.d.ts (1)
@@ -573,7 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12)
+> **Frameworks & Libraries:** [[Angular]] (11), application (6), [[JSON]] (4), [[Firebase]] (3), [[Angular CLI]] (1)
 > **Versions:** angular 10 (4), version 10 (2), version 9 (1), angular 9 (1)
 > **File Paths:** package.json (1), tsconfig.json (1), tslint.json (1), angular.json (1)
 > **Env Vars:** cli (1), cpi (1), api (1)
@@ -583,7 +584,7 @@ created: 2026-04-29
 
 ### 3. Creating New Angular Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The ng new command
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980)
@@ -670,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), [[Routing]] (9), [[CLI]] (4), [[Angular]] (3), hit (2)
 > **Env Vars:** sas (5), cli (4), scss (4), abc (3), css (2)
-> **Code Keywords:** new, (6), let (5), module (3), pass (1), case, (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** main.ts (1)
 > **Analogies:** for instance (1)
@@ -768,7 +769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), abstract (1), static (1), finally, (1)
+> **Frameworks & Libraries:** [[Angular]] (8), application (7), [[CLI]] (5), [[npm]] (5), [[JavaScript]] (1)
 > **CLI Commands:** npm (5)
 > **Definitions:** is a  (5)
 > **Documentation:** spec (1)
@@ -862,7 +863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), module (2), delete (1), case, (1), this, (1)
+> **Frameworks & Libraries:** application (5), [[Angular]] (2), [[JSON]] (2), [[LinkedIn]] (2), node (2)
 > **Env Vars:** png (1), mpm (1), npm (1), cli (1)
 > **File Paths:** angular.json (2), app.component.html (1)
 > **CLI Commands:** node (2), npm (1)
@@ -900,10 +901,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), application (3), [[Angular]] (2), [[CLI]] (1), [[npm]] (1)
 > **Env Vars:** css (4), cli (1)
 > **File Paths:** angular.json (1), bootstrap.min.css (1), index.html (1)
 > **CLI Commands:** npm (1), node (1), make (1)
-> **Code Keywords:** let (2)
 > **Versions:** version 4 (1), 5.2 (1)
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
@@ -927,6 +928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), css (1), [[JavaScript]] (1), [[Angular]] (1), [[Angular CLI]] (1)
 > **Env Vars:** css (1), es5 (1), cli (1), url (1), mpm (1)
 > **File Paths:** particle.js (1)
 > **CLI Commands:** node (1)
@@ -993,7 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), class. (1), function (1)
+> **Frameworks & Libraries:** [[npm]] (5), application (2), node (2), [[Angular]] (1), [[JSON]] (1)
 > **File Paths:** particles.js (7), angular.json (1), modules/particles.js/particles.js (1), app.component.html (1)
 > **CLI Commands:** npm (5), node (2), find (1)
 > **Env Vars:** npm (5), html (1), css (1)
@@ -1005,7 +1007,7 @@ created: 2026-04-29
 
 ### 4. Serving Angular Applications for Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The ng serve command
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980)
@@ -1046,7 +1048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (1)
+> **Frameworks & Libraries:** application (5), [[CLI]] (2), feature (2), [[Angular CLI]] (1), [[HTML]] (1)
 > **Env Vars:** cli (3)
 > **File Paths:** app.component.html (1)
 > **CLI Commands:** make (1)
@@ -1118,8 +1120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[npm]] (3), api (1), [[Windows]] (1), hit (1)
 > **URLs:** [company.com](https://company.com) (5), [localhost.dev](https://localhost.dev) (3)
-> **Code Keywords:** let (5), def. (1)
 > **CLI Commands:** npm (3)
 > **Ports:** port 8000 (2), port 4200 (1)
 > **Tools:** terminal (2)
@@ -1130,7 +1132,7 @@ created: 2026-04-29
 
 ### 5. Generating Angular Application Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating new code with schematics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980)
@@ -1153,6 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Angular]] (2), [[Angular CLI]] (1), [[CLI]] (1)
 > **Env Vars:** cli (2)
 > **Tools:** terminal (1)
 > **Exercise Files:** template (1)
@@ -1209,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (9), let (4), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[CLI]] (1)
 > **Env Vars:** html (1), cli (1)
 > **Documentation:** spec (1)
 > **Definitions:** short for (1)
@@ -1237,7 +1240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (2), case, (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** cli (1)
 > **Documentation:** spec (1)
 > **Tools:** terminal (1)
@@ -1264,7 +1267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (1), interface (1)
+> **Frameworks & Libraries:** application (1), [[Angular]] (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [victor] (1)
@@ -1314,7 +1317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), case, (1), interface (1), module (1)
+> **Frameworks & Libraries:** data (2), [[CLI]] (2), [[Angular]] (1), [[Routing]] (1)
 > **Env Vars:** cli (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1350,11 +1353,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (4), application (3), [[Angular CLI]] (2), [[npm]] (1), [[Typography]] (1)
 > **Prerequisites:** set up (2), configure (1), install (1)
 > **Env Vars:** cli (2)
 > **File Paths:** package.json (1)
 > **CLI Commands:** npm (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1395,7 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), case, (1), pass (1)
+> **Frameworks & Libraries:** [[Angular]] (3), teams (1), [[Angular CLI]] (1), [[JSON]] (1)
 > **Env Vars:** cli (1), json (1)
 > **File Paths:** augular.json (1)
 > **Definitions:** means that (1)
@@ -1415,6 +1418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (2), [[CLI]] (2), data (1), api (1)
 > **Env Vars:** cli (2), api (1)
 > **Speakers:** - [victor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1436,8 +1440,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[Angular]] (1), application (1)
 > **Env Vars:** api (2)
-> **Code Keywords:** default, (1)
 > **Documentation:** spec (1)
 > **Tools:** terminal (1)
 > **Analogies:** just like (1)
@@ -1447,7 +1451,7 @@ created: 2026-04-29
 
 ### 6. Building Angular Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A build pipeline for an Angular app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980)
@@ -1472,8 +1476,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[Angular]] (2), application (2), [[CLI]] (1)
 > **Env Vars:** css (3), es6 (2), cli (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### The ng build command
@@ -1503,9 +1507,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1), [[Debugging]] (1), [[Angular]] (1), application (1), [[HTML]] (1)
 > **Env Vars:** css (1), url (1), html (1)
 > **File Paths:** index.html (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Configuring different build options
@@ -1549,7 +1553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (3), let (2), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Angular]] (1), [[JSON]] (1), feature (1)
 > **File Paths:** angular.json (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
@@ -1579,8 +1583,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (6), [[Continuous Integration (CI)|Continuous integration]] (1), [[JSON]] (1), [[Automation]] (1)
 > **CLI Commands:** npm (6), make (1)
-> **Code Keywords:** let (2), this. (1)
 > **File Paths:** package.json (1)
 > **Tools:** terminal (1)
 > **Prerequisites:** set up (1)
@@ -1645,8 +1649,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (8), [[CLI]] (3), [[Angular]] (3), application (3), [[Google]] (2)
 > **Env Vars:** cli (4), url (2)
-> **Code Keywords:** case, (2), continue (2), let (1)
 > **File Paths:** package.json (1), angular.json (1)
 > **Tools:** terminal (2)
 > **UI Navigation:** click on (1), select the (1)
@@ -1657,7 +1661,7 @@ created: 2026-04-29
 
 ### 7. Running Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in test runner
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980)
@@ -1686,6 +1690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (3), application (2), [[GitHub]] (1), [[npm]] (1), [[Angular]] (1)
 > **Env Vars:** cli (3), url (1), npm (1)
 > **Prerequisites:** set up (2), setup (2), install (1)
 > **CLI Commands:** make (1), npm (1)
@@ -1693,7 +1698,6 @@ created: 2026-04-29
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **UI Navigation:** open the (1)
-> **Exercise Files:** exercise files (1)
 
 #### The ng test command
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-test-command?u=76281980)
@@ -1726,7 +1730,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
 > **Documentation:** spec (2)
 > **Speakers:** - [victor] (1)
 
@@ -1769,7 +1772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1), [[HTML]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **File Paths:** index.html (1)
 > **Documentation:** spec (1)
@@ -1840,7 +1843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (2), finally, (1), pass (1), abstract (1)
+> **Frameworks & Libraries:** [[npm]] (2), application (1), [[CLI]] (1)
 > **Documentation:** spec (4)
 > **Env Vars:** npm (2), cli (1)
 > **Tools:** terminal (3)
@@ -1852,7 +1855,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980)
@@ -1873,9 +1876,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Angular]] (2), [[Angular CLI]] (1), [[CLI]] (1)
 > **Tools:** github (3)
 > **Env Vars:** cli (2)
-> **Code Keywords:** continue (1)
 > **URLs:** [github.com](https://github.com) (1)
 > **Speakers:** - [instructor] (1)
 

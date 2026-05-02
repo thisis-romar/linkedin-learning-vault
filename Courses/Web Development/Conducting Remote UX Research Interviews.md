@@ -28,7 +28,7 @@ tags:
   - skill/user-interviews
   - skill/ux-research
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Conducting%20Remote%20UX%20Research%20Interviews.md)
@@ -47,20 +47,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Remote is here to stay
+  - [Remote is here to stay](#remote-is-here-to-stay)
 - [**1. Remote Research Interviews**](#1-remote-research-interviews) (6 videos)
-  - Research planning
-  - Remote scheduling and recruiting
-  - Remote logistics
-  - Remote moderation tips
-  - Remote analysis and synthesis
-  - Avoiding burnout
+  - [Research planning](#research-planning)
+  - [Remote scheduling and recruiting](#remote-scheduling-and-recruiting)
+  - [Remote logistics](#remote-logistics)
+  - [Remote moderation tips](#remote-moderation-tips)
+  - [Remote analysis and synthesis](#remote-analysis-and-synthesis)
+  - [Avoiding burnout](#avoiding-burnout)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Get started on your own
+  - [Get started on your own](#get-started-on-your-own)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Remote is here to stay
 > [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980)
@@ -93,14 +93,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** ux (4), [[Interviewing]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [amanda] (1)
 
 
 ### 1. Remote Research Interviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Research planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980)
@@ -187,8 +187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (4), product (1), [[Product Development]] (1), feature (1), [[Security]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** else, (1), else. (1), let (1), super (1)
 > **Prerequisites:** setup (1), you'll need (1), set up (1)
 > **Analogies:** just like (1), for instance (1)
 > **Cross-References:** go back to (1)
@@ -239,8 +239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** break, (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -285,6 +285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** setup (1)
@@ -385,10 +386,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** such as (2), picture (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -478,8 +479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Google]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Zoom]] (2), next (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** coming up (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** remember to (1)
@@ -557,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), continue (1), this, (1), break. (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), ux (1)
 > **CLI Commands:** make (3)
 > **Analogies:** think of it as (1)
 > **Best Practices:** make sure to (1)
@@ -566,7 +567,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started on your own
 > [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/get-started-on-your-own?u=76281980)
@@ -587,6 +588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (1)
 > **Speakers:** - [narrator] (1)
 
 

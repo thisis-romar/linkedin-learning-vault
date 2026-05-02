@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-storage
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Data%20Strategy-%20Data%20Procurement%20and%20Storage.md)
@@ -55,37 +55,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - AI data strategy: Data procurement and storage
-  - What you should know
+  - [AI data strategy: Data procurement and storage](#ai-data-strategy-data-procurement-and-storage)
+  - [What you should know](#what-you-should-know)
 - [**1. AI Data Strategy**](#1-ai-data-strategy) (5 videos)
-  - Strategic decision-making in AI product development
-  - Data strategy vocabulary
-  - ML-driven AI vs. generative AI: A strategic overview
-  - The role of data strategy in AI product success
-  - Aligning data with business goals for AI product development
+  - [Strategic decision-making in AI product development](#strategic-decision-making-in-ai-product-development)
+  - [Data strategy vocabulary](#data-strategy-vocabulary)
+  - [ML-driven AI vs. generative AI: A strategic overview](#ml-driven-ai-vs-generative-ai-a-strategic-overview)
+  - [The role of data strategy in AI product success](#the-role-of-data-strategy-in-ai-product-success)
+  - [Aligning data with business goals for AI product development](#aligning-data-with-business-goals-for-ai-product-development)
 - [**2. Data Procurement and Sources**](#2-data-procurement-and-sources) (9 videos)
-  - Sourcing structured data for ML-driven AI products
-  - Best practices for sourcing unstructured data
-  - Understanding bias in traditional ML systems
-  - Bias in generative AI: Challenges and mitigation strategies
-  - Framework for bias mitigation in AI
-  - Building intelligent systems with data protection
-  - Open data platforms: Democratizing AI development
-  - Leveraging APIs for AI
-  - Building sustainable data ecosystems
+  - [Sourcing structured data for ML-driven AI products](#sourcing-structured-data-for-ml-driven-ai-products)
+  - [Best practices for sourcing unstructured data](#best-practices-for-sourcing-unstructured-data)
+  - [Understanding bias in traditional ML systems](#understanding-bias-in-traditional-ml-systems)
+  - [Bias in generative AI: Challenges and mitigation strategies](#bias-in-generative-ai-challenges-and-mitigation-strategies)
+  - [Framework for bias mitigation in AI](#framework-for-bias-mitigation-in-ai)
+  - [Building intelligent systems with data protection](#building-intelligent-systems-with-data-protection)
+  - [Open data platforms: Democratizing AI development](#open-data-platforms-democratizing-ai-development)
+  - [Leveraging APIs for AI](#leveraging-apis-for-ai)
+  - [Building sustainable data ecosystems](#building-sustainable-data-ecosystems)
 - [**3. Storage Considerations for AI Products**](#3-storage-considerations-for-ai-products) (4 videos)
-  - Choosing scalable storage solutions for ML-driven AI
-  - Optimizing storage for performance in ML-driven AI
-  - Data security and compliance in AI product development: On-premise, local AI
-  - Future-proofing data storage for AI products
+  - [Choosing scalable storage solutions for ML-driven AI](#choosing-scalable-storage-solutions-for-ml-driven-ai)
+  - [Optimizing storage for performance in ML-driven AI](#optimizing-storage-for-performance-in-ml-driven-ai)
+  - [Data security and compliance in AI product development: On-premise, local AI](#data-security-and-compliance-in-ai-product-development-on-premise-local-ai)
+  - [Future-proofing data storage for AI products](#future-proofing-data-storage-for-ai-products)
 - [**4. Case Study Assessments**](#4-case-study-assessments) (1 videos)
-  - Design a real-world data strategy for an AI-powered product
+  - [Design a real-world data strategy for an AI-powered product](#design-a-real-world-data-strategy-for-an-ai-powered-product)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI data strategy: Data procurement and storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980)
@@ -106,7 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (5), ai (4), [[Microsoft Products|Products]] (2), business (2), [[Engineering]] (1)
 > **Speakers:** - [lillian] (1)
 
 #### What you should know
@@ -128,14 +128,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (3), ai (2), [[Data Engineering]] (1), business (1), [[Product Development]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
 
 
 ### 1. AI Data Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic decision-making in AI product development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980)
@@ -228,9 +228,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (5), product (4), [[Product Development]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** star (3), roi (1)
-> **Code Keywords:** let (2), from. (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
@@ -335,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** ai (32), data (19), business (14), [[Forecasting]] (5), [[Scalability]] (4)
 > **Env Vars:** star (3), roi (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -444,9 +444,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), [[Generative AI]] (12), data (9), product (3), [[Unstructured Data]] (2)
 > **Env Vars:** star (3), ibm (2), gpt (1), api (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3), finally, (1)
 > **Versions:** 3.5 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -634,7 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), private (1), include, (1)
+> **Frameworks & Libraries:** data (51), ai (21), product (4), business (4), [[Scalability]] (3)
 > **CLI Commands:** make (3), apache (1)
 > **Definitions:** in other words (1), known as (1)
 > **Cross-References:** in the last (1)
@@ -773,7 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), static (1), case, (1)
+> **Frameworks & Libraries:** data (32), ai (11), business (11), [[Reinforcement Learning]] (2), [[Metadata]] (2)
 > **Analogies:** similar to (1), picture (1), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** keep in mind (2)
@@ -782,7 +782,7 @@ created: 2026-04-29
 
 ### 2. Data Procurement and Sources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sourcing structured data for ML-driven AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980)
@@ -909,7 +909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), let (1), case. (1)
+> **Frameworks & Libraries:** data (54), ai (6), [[Privacy]] (6), next (4), teams (3)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (3)
 > **Cross-References:** next video (1)
@@ -1011,7 +1011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** data (16), [[Unstructured Data]] (7), [[Generative AI]] (5), teams (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** gpt (1), api (1)
 > **Cross-References:** in the last (1), we discussed (1)
@@ -1147,7 +1147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), extends (1), from, (1), case, (1)
+> **Frameworks & Libraries:** data (14), ai (13), [[Algorithms]] (2), [[Continuous Monitoring]] (2), teams (2)
 > **Analogies:** for example (2), think of it as (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** refers to (1)
@@ -1245,10 +1245,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), data (5), teams (3), [[Ethics]] (3), [[Generative AI]] (2)
 > **Env Vars:** gpt (3), llm (2), ucs (1)
 > **Versions:** 38.6 (1), 82.86 (1), 3.5 (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1321,9 +1321,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (10), ai (3), next (2), [[Decision-Making]] (1), application (1)
 > **Env Vars:** dre (2), spd (1), fpr (1), scr (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** case, (2)
 > **Versions:** 0.1 (1), 0.15 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1427,7 +1427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), private (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (18), ai (15), [[Privacy]] (12), teams (2), [[Privacy Protection]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), imagine (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1543,7 +1543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (1), include, (1)
+> **Frameworks & Libraries:** data (25), ai (1), [[Google]] (1), [[Search]] (1), [[Metadata]] (1)
 > **Prerequisites:** you'll need (2), you need to have (1), set up (1)
 > **Cross-References:** we covered (1), go back to (1), next video (1)
 > **URLs:** [data.gov](https://data.gov) (1)
@@ -1712,8 +1712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), api (15), [[Real-Time]] (4), next (4), business (2)
 > **Env Vars:** api (15), aim (1), star (1)
-> **Code Keywords:** let (3), static (1)
 > **Analogies:** for example (1), for instance (1), think of it as (1)
 > **CLI Commands:** make (1)
 > **Versions:** 99.9 (1)
@@ -1836,8 +1836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), ai (2), power (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Google]] (1)
 > **Env Vars:** ibm (5), crm (1), gdpr (1), ccpa (1)
-> **Code Keywords:** let (1), this, (1), protected (1), case. (1), require (1)
 > **Analogies:** such as (3), for example (2)
 > **Cross-References:** previous video (1), we talked about (1), in the next (1)
 > **Prerequisites:** set up (1)
@@ -1846,7 +1846,7 @@ created: 2026-04-29
 
 ### 3. Storage Considerations for AI Products
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing scalable storage solutions for ML-driven AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980)
@@ -1919,7 +1919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** data (14), ai (5), [[Real-Time]] (2), teams (1), [[Version Control]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** imagine (1)
@@ -2022,9 +2022,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), parallel (3), [[Real-Time]] (2), next (2), feature (1)
 > **Env Vars:** star (3)
 > **Analogies:** picture (1), think of it like (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2127,7 +2127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (1), protected (1), this, (1)
+> **Frameworks & Libraries:** data (23), ai (12), [[Security]] (8), [[Microsoft Products|Products]] (2), [[Real-Time]] (2)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2285,7 +2285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (26), ai (7), [[Scalability]] (1), business (1), management (1)
 > **CLI Commands:** make (3)
 > **Analogies:** think of it like (1)
 > **Best Practices:** don't forget (1)
@@ -2295,7 +2295,7 @@ created: 2026-04-29
 
 ### 4. Case Study Assessments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design a real-world data strategy for an AI-powered product
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980)
@@ -2430,8 +2430,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), ai (7), [[Generative AI]] (6), product (4), [[Security]] (4)
 > **Env Vars:** star (1), gdpr (1), ccpa (1), rag (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -2442,7 +2442,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980)
@@ -2461,6 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), ai (1)
 > **Speakers:** - [instructor] (1)
 
 

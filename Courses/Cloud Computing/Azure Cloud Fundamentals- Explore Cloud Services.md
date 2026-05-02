@@ -31,7 +31,7 @@ tags:
   - skill/cloud-services
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Cloud%20Fundamentals-%20Explore%20Cloud%20Services.md)
@@ -50,55 +50,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introduction
-  - What is cloud computing?
-  - What is Azure?
+  - [Introduction](#introduction)
+  - [What is cloud computing?](#what-is-cloud-computing)
+  - [What is Azure?](#what-is-azure)
 - [**1. Cloud Concepts**](#1-cloud-concepts) (4 videos)
-  - Cloud benefits and considerations
-  - Discuss different types of cloud models
-  - Types of cloud services
-  - Shared responsibility model
+  - [Cloud benefits and considerations](#cloud-benefits-and-considerations)
+  - [Discuss different types of cloud models](#discuss-different-types-of-cloud-models)
+  - [Types of cloud services](#types-of-cloud-services)
+  - [Shared responsibility model](#shared-responsibility-model)
 - [**2. Core Azure Services**](#2-core-azure-services) (6 videos)
-  - Azure architectural components
-  - Walk-through of Azure portal and core Azure workloads
-  - Azure compute services
-  - Azure network services
-  - Azure storage services
-  - Azure database services
+  - [Azure architectural components](#azure-architectural-components)
+  - [Walk-through of Azure portal and core Azure workloads](#walk-through-of-azure-portal-and-core-azure-workloads)
+  - [Azure compute services](#azure-compute-services)
+  - [Azure network services](#azure-network-services)
+  - [Azure storage services](#azure-storage-services)
+  - [Azure database services](#azure-database-services)
 - [**3. Identity, Governance, Privacy, and Compliance**](#3-identity-governance-privacy-and-compliance) (9 videos)
-  - Azure identity services
-  - Microsoft Entra ID
-  - Conditional Access policy
-  - Azure governance methodologies
-  - RBAC
-  - Azure Blueprints
-  - Azure Policy
-  - Azure resource locks
-  - Cloud Adoption Framework for Azure
+  - [Azure identity services](#azure-identity-services)
+  - [Microsoft Entra ID](#microsoft-entra-id)
+  - [Conditional Access policy](#conditional-access-policy)
+  - [Azure governance methodologies](#azure-governance-methodologies)
+  - [RBAC](#rbac)
+  - [Azure Blueprints](#azure-blueprints)
+  - [Azure Policy](#azure-policy)
+  - [Azure resource locks](#azure-resource-locks)
+  - [Cloud Adoption Framework for Azure](#cloud-adoption-framework-for-azure)
 - [**4. Cloud and Network Security**](#4-cloud-and-network-security) (7 videos)
-  - Microsoft Defender for Cloud
-  - Microsoft Sentinel
-  - Azure Key Vault
-  - Azure Dedicated Host
-  - Azure VNet and NSG
-  - Azure Firewall
-  - Azure DDoS Protection
+  - [Microsoft Defender for Cloud](#microsoft-defender-for-cloud)
+  - [Microsoft Sentinel](#microsoft-sentinel)
+  - [Azure Key Vault](#azure-key-vault)
+  - [Azure Dedicated Host](#azure-dedicated-host)
+  - [Azure VNet and NSG](#azure-vnet-and-nsg)
+  - [Azure Firewall](#azure-firewall)
+  - [Azure DDoS Protection](#azure-ddos-protection)
 - [**5. Core Solutions and Management Tools**](#5-core-solutions-and-management-tools) (6 videos)
-  - Azure IoT
-  - Big data and analytics
-  - Artificial intelligence and machine learning
-  - Serverless computing
-  - Azure Advisor
-  - Azure Monitor
+  - [Azure IoT](#azure-iot)
+  - [Big data and analytics](#big-data-and-analytics)
+  - [Artificial intelligence and machine learning](#artificial-intelligence-and-machine-learning)
+  - [Serverless computing](#serverless-computing)
+  - [Azure Advisor](#azure-advisor)
+  - [Azure Monitor](#azure-monitor)
 - [**6. Planning and Cost Management**](#6-planning-and-cost-management) (4 videos)
-  - Azure pricing calculator
-  - Total Cost of Ownership Calculator
-  - Factors affecting cost
-  - Azure SLAs
+  - [Azure pricing calculator](#azure-pricing-calculator)
+  - [Total Cost of Ownership Calculator](#total-cost-of-ownership-calculator)
+  - [Factors affecting cost](#factors-affecting-cost)
+  - [Azure SLAs](#azure-slas)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980)
@@ -119,8 +119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), cloud (5), [[Digital Transformation]] (1), [[Search]] (1), [[Microsoft Defender]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [stuti] (1)
 
@@ -165,6 +165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (14), [[Microsoft Azure|Azure]] (4), data (2), [[Security]] (2), database (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **CLI Commands:** find (2), az (1)
 > **Analogies:** such as (2)
@@ -205,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), cloud (6), business (4), [[Microsoft]] (2), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -213,7 +214,7 @@ created: 2026-04-29
 
 ### 1. Cloud Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud benefits and considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980)
@@ -270,7 +271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), public (8), let (5), include: (1), finally, (1)
+> **Frameworks & Libraries:** cloud (32), data (7), [[Hybrid Cloud]] (5), business (3), [[Microsoft Azure|Azure]] (2)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** picture (1)
 > **Warnings:** note that (1)
@@ -344,8 +345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), data (5), [[Hardware]] (2), power (2), [[Microsoft Azure|Azure]] (2)
 > **Definitions:** known as (2), is a  (1)
-> **Code Keywords:** delete (1), self (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
@@ -424,7 +425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), cloud (12), [[PaaS]] (5), [[SaaS]] (4), [[IaaS|Infrastructure as a service]] (3)
 > **Env Vars:** aiml (1), iot (1)
 > **Tools:** azure portal (1), visual studio (1)
 > **Definitions:** is a  (1)
@@ -473,13 +474,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** cloud (10), [[Security]] (5), data (4), [[IaaS|Infrastructure as a service]] (2), [[SaaS|Software as a service]] (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Core Azure Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure architectural components
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980)
@@ -606,7 +607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), private (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (32), data (14), management (9), cloud (4), next (3)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Tools:** azure portal (1)
@@ -673,8 +674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), cloud (3), business (3), [[Security]] (2), [[Cost Management]] (2)
 > **Tools:** azure portal (2), command line (1), powershell (1)
-> **Code Keywords:** let (1), switch (1), self (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1)
 > **Prerequisites:** getting started (1)
@@ -781,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (2), type, (1), public (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), cloud (3), [[Virtual Machines]] (3), next (3), management (3)
 > **Env Vars:** aks (3), b1s (1), sku (1), rdp (1)
 > **Definitions:** is an  (2), known as (1), is a  (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -899,8 +900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), traffic (12), cloud (7), vpn (6), [[Security]] (4)
 > **Env Vars:** vpn (6), osi (2), cdn (2), udp (1), tcp (1)
-> **Code Keywords:** let (3), private (3), public (3), require (1), pass (1)
 > **Definitions:** is a  (6), known as (1), is an  (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -1023,8 +1024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (31), data (24), cloud (7), [[Microsoft]] (4), next (3)
 > **Env Vars:** ssd (3), smb (2), hpc (1), lrs (1), grs (1)
-> **Code Keywords:** let (7), case, (1), finally, (1)
 > **Definitions:** is an  (4), is a  (2)
 > **Analogies:** for example (2)
 > **Best Practices:** recommended (1)
@@ -1091,9 +1092,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (19), [[Microsoft Azure|Azure]] (11), [[SQL]] (10), cloud (5), data (4)
 > **Env Vars:** sql (12), sla (1)
 > **Definitions:** is a  (4), is an  (4)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Versions:** 99.99 (1)
 > **Analogies:** for example (1)
@@ -1102,7 +1103,7 @@ created: 2026-04-29
 
 ### 3. Identity, Governance, Privacy, and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure identity services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980)
@@ -1189,7 +1190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[Microsoft Entra ID]] (4), data (4), management (3), [[Microsoft Azure|Azure]] (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** otp (1)
 > **Analogies:** such as (1)
@@ -1232,7 +1233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (13), [[Microsoft 365]] (3), management (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft Entra ID|Azure ad]] (1)
 > **Definitions:** known as (1), is an  (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
@@ -1280,7 +1281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (3), [[Microsoft Office|Office]] (2), feature (2), [[Microsoft Entra ID]] (2), business (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** o365 (1)
 > **Analogies:** for instance (1)
@@ -1338,10 +1339,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), management (7), cloud (3), teams (2), application (1)
 > **Env Vars:** pcidss (1), gdpr (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1398,8 +1399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), management (2), cloud (2), [[Virtual Machines]] (2), teams (1)
 > **Env Vars:** rbac (5), iam (1)
-> **Code Keywords:** let (2), function (1), type, (1), finally, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), terraform (1)
 > **Tools:** azure portal (1)
@@ -1480,9 +1481,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Search]] (2), management (2), next (2), feature (1)
 > **UI Navigation:** click on (6), go to (3)
 > **Env Vars:** arm (1), vnet (1), nsg (1)
-> **Code Keywords:** let (1), case, (1)
 > **Versions:** 1.0 (1)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
@@ -1548,7 +1549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (3), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), management (2), next (2), [[Regulatory Compliance]] (1), [[Security]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1628,7 +1629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (14), let (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), feature (1)
 > **UI Navigation:** click on (4), go to (3)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -1708,7 +1709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), include: (1)
+> **Frameworks & Libraries:** cloud (24), business (9), [[Microsoft Azure|Azure]] (5), management (3), next (2)
 > **Env Vars:** caf (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -1717,7 +1718,7 @@ created: 2026-04-29
 
 ### 4. Cloud and Network Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Defender for Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980)
@@ -1776,8 +1777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (22), [[Microsoft Defender|Defender]] (11), [[Security]] (11), [[Microsoft Defender]] (5), [[Microsoft Azure|Azure]] (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1845,8 +1846,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (10), [[Analytics]] (9), data (5), [[Security]] (4), [[Microsoft Azure|Azure]] (4)
 > **Env Vars:** siem (1), m365 (1), o365 (1), aws (1), rest (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** find (1), aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1916,7 +1917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), private (1), protected (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Security]] (4), application (4), cloud (2), management (2)
 > **Env Vars:** ssl (2), tls (2), api (1), fips (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1974,7 +1975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Virtual Machines]] (4), [[Hardware]] (3), [[Microsoft]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** hipaa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2034,8 +2035,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (4), [[Security]] (4), traffic (3), [[Microsoft Azure|Azure]] (3), cloud (1)
 > **Env Vars:** nsg (8), nic (1), tcp (1), udp (1), icmp (1)
-> **Code Keywords:** let (1), override (1), case. (1), finally, (1), interface (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -2100,8 +2101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), traffic (11), cloud (4), [[Network Security]] (3), application (3)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (2), private (1), interface (1)
 > **Env Vars:** vpn (1), url (1), tls (1), sql (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2181,7 +2182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), application (6), traffic (6), [[Microsoft]] (3), cloud (2)
 > **Env Vars:** waf (3)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
@@ -2191,7 +2192,7 @@ created: 2026-04-29
 
 ### 5. Core Solutions and Management Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980)
@@ -2262,7 +2263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[IoT]] (26), [[Microsoft Azure|Azure]] (10), cloud (7), data (5), [[Security]] (4)
 > **Definitions:** is a  (3), refers to (1)
 > **Env Vars:** mcu (2)
 > **Speakers:** - [instructor] (1)
@@ -2334,10 +2335,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Analytics]] (13), [[Microsoft Azure|Azure]] (9), [[Big Data]] (4), [[Microsoft Azure]] (3)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Env Vars:** sql (2), etl (1)
 > **CLI Commands:** apache (1), make (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2406,9 +2407,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[Microsoft Azure|Azure]] (4), data (4), [[Predictive Analytics]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
-> **Code Keywords:** continue (1), let (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** nba (1)
 > **Speakers:** - [instructor] (1)
@@ -2448,7 +2449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Serverless Computing]] (6), cloud (3), business (2), management (2), teams (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2497,9 +2498,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Security]] (4), [[Operational Excellence]] (2), cloud (1), feature (1)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nat (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -2553,7 +2554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), cloud (3), application (3), [[Microsoft]] (2), [[Virtual Machines]] (2)
 > **Env Vars:** cpu (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
@@ -2561,7 +2562,7 @@ created: 2026-04-29
 
 ### 6. Planning and Cost Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure pricing calculator
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980)
@@ -2662,8 +2663,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), cloud (3), [[Analytics]] (3), product (1), [[Windows]] (1)
 > **Env Vars:** sql (1), gpu (1), d12 (1), ssd (1), lrs (1)
-> **Code Keywords:** default. (3), let (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (3)
 > **Analogies:** for instance (1)
@@ -2741,9 +2742,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (6), database (3), [[Windows]] (3), next (3)
 > **Env Vars:** tco (7), cpu (2), ram (1)
 > **UI Navigation:** click on (2), open the (1)
-> **Code Keywords:** let (1), default. (1)
 > **Exercise Files:** download the (1), template (1)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -2816,10 +2817,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), cloud (4), [[Windows]] (2), [[Virtual Machines]] (1), express (1)
 > **Prerequisites:** configure (2), you need to have (1), set up (1)
 > **Env Vars:** sql (2), aws (1)
 > **CLI Commands:** aws (1), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Best Practices:** best practice (1), good practice (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2887,10 +2888,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), cloud (4), business (1), application (1), [[Microsoft]] (1)
 > **Env Vars:** sla (12)
 > **Versions:** 99.999 (2), 99.9 (1), 99.95 (1), 99.99 (1), 1.68 (1)
 > **Definitions:** known as (2), is a  (1)
-> **Code Keywords:** require (1), module (1)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

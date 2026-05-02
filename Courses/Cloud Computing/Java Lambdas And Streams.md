@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Java%20Lambdas%20And%20Streams.md)
@@ -45,27 +45,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Java lambdas and streams
-  - What you should know
-  - Using the exercise files
-  - Tour of CoderPad
+  - [Java lambdas and streams](#java-lambdas-and-streams)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Tour of CoderPad](#tour-of-coderpad)
 - [**1. Functional Programming**](#1-functional-programming) (1 videos)
-  - What is functional programming?
+  - [What is functional programming?](#what-is-functional-programming)
 - [**2. Lambdas**](#2-lambdas) (3 videos)
-  - Functional interfaces
-  - Using lambdas
-  - Using existing interfaces
+  - [Functional interfaces](#functional-interfaces)
+  - [Using lambdas](#using-lambdas)
+  - [Using existing interfaces](#using-existing-interfaces)
 - [**3. Streams**](#3-streams) (4 videos)
-  - Understanding streams
-  - Using streams
-  - More streams operations
-  - Advanced streams operations
+  - [Understanding streams](#understanding-streams)
+  - [Using streams](#using-streams)
+  - [More streams operations](#more-streams-operations)
+  - [Advanced streams operations](#advanced-streams-operations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with Java
+  - [Continuing on with Java](#continuing-on-with-java)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Java lambdas and streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980)
@@ -98,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (10), [[Programming]] (3), [[Functional Programming]] (2), [[Data Manipulation]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Versions:** java 8 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [bethan] (1)
@@ -117,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[LinkedIn]] (1)
 > **URLs:** [jetbrains.com](https://jetbrains.com) (1)
 > **Env Vars:** ide (1)
 > **Tools:** intellij (1)
@@ -249,10 +251,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (8), [[Windows]] (3), cd (3), [[GitHub]] (2), next (2)
 > **UI Navigation:** click on (11), go to (6), open the (2), dropdown (1), navigate to (1)
 > **Tools:** terminal (4), intellij (4), github (2), command line (1), command prompt (1)
 > **CLI Commands:** git (8), cd (3)
-> **Code Keywords:** lambda (2), let (2), case, (1), default, (1)
 > **Env Vars:** ide (2), url (1), jdk (1), sdk (1)
 > **Exercise Files:** download the (3), exercise files (1)
 > **Cross-References:** go back to (3)
@@ -325,9 +327,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type. (1), type, (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -335,7 +337,7 @@ created: 2026-04-29
 
 ### 1. Functional Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is functional programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980)
@@ -408,7 +410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3)
+> **Frameworks & Libraries:** [[Java]] (7), [[Functional Programming]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Programming]] (3), functional (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** isoddnumber (1)
 > **Versions:** java 8 (1)
@@ -417,7 +419,7 @@ created: 2026-04-29
 
 ### 2. Lambdas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980)
@@ -552,7 +554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (14), let (6), class. (4), public (4), lambda (2)
+> **Frameworks & Libraries:** functional (8), [[Java]] (5), next (2), [[Functional Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** select the (1), click on (1), go to (1)
 > **Env Vars:** sout (1), psvm (1)
@@ -684,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (11), let (8), lambda (8), pass (8), case. (1)
+> **Frameworks & Libraries:** functional (3), next (2), [[Java]] (2)
 > **UI Navigation:** click on (3), go to (1), select the (1)
 > **Code Identifiers:** randomnumber (2), sayhello (1), nextint (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -743,7 +745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), function (5), let (2), pass (2), case, (2)
+> **Frameworks & Libraries:** functional (4), [[Java]] (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -755,7 +757,7 @@ created: 2026-04-29
 
 ### 3. Streams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980)
@@ -824,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), finally, (1), lambda (1), function (1)
+> **Frameworks & Libraries:** api (4), [[Java]] (3), feature (1), functional (1), [[Programming]] (1)
 > **Code Identifiers:** foreach (5)
 > **Tools:** terminal (5)
 > **Env Vars:** api (4)
@@ -964,7 +966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (7), lambda (3), type. (2), interface (2)
+> **Frameworks & Libraries:** functional (2), [[Java]] (1), api (1), next (1), [[Windows]] (1)
 > **Code Identifiers:** shoppinglist (4), foreach (4), shoppingliststream (2), scoresstream (1), lettersstream (1)
 > **Tools:** intellij (3), terminal (1)
 > **UI Navigation:** click on (3)
@@ -1068,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), lambda (2), interface (2), case, (2)
+> **Frameworks & Libraries:** api (4), functional (2), [[Functional Programming]] (1)
 > **Env Vars:** api (4)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
@@ -1174,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (5), delete (1), case, (1), type. (1)
+> **Frameworks & Libraries:** functional (1)
 > **Code Identifiers:** shoppinglist (3), foreach (3), sortedshoppinglist (2), tolist (1)
 > **CLI Commands:** find (1)
 > **Tools:** terminal (1)
@@ -1183,7 +1185,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/continuing-on-with-java?u=76281980)
@@ -1204,6 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -40,7 +40,7 @@ tags:
   - skill/pyspark
   - skill/data-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/PySpark%20Essential%20Training-%20Introduction%20to%20Building%20Data%20Pipelines.md)
@@ -59,48 +59,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Course overview
-  - Prerequisites
-  - Using GitHub repo
+  - [Course overview](#course-overview)
+  - [Prerequisites](#prerequisites)
+  - [Using GitHub repo](#using-github-repo)
 - [**1. Introduction to Spark and PySpark**](#1-introduction-to-spark-and-pyspark) (3 videos)
-  - Introduction to Apache Spark: The foundation of PySpark
-  - The Apache Spark ecosystem
-  - Spark vs. PySpark
+  - [Introduction to Apache Spark: The foundation of PySpark](#introduction-to-apache-spark-the-foundation-of-pyspark)
+  - [The Apache Spark ecosystem](#the-apache-spark-ecosystem)
+  - [Spark vs. PySpark](#spark-vs-pyspark)
 - [**2. Setting Up PySpark**](#2-setting-up-pyspark) (2 videos)
-  - Google Colab notebook setup
-  - Downloading a dataset
+  - [Google Colab notebook setup](#google-colab-notebook-setup)
+  - [Downloading a dataset](#downloading-a-dataset)
 - [**3. Working with PySpark DataFrames**](#3-working-with-pyspark-dataframes) (6 videos)
-  - Introduction to PySpark DataFrames
-  - Data formats and loading data
-  - Schema and data types
-  - Basic querying (select, filter, and sort)
-  - Challenge: Querying a DataFrame
-  - Solution: Querying a DataFrame
+  - [Introduction to PySpark DataFrames](#introduction-to-pyspark-dataframes)
+  - [Data formats and loading data](#data-formats-and-loading-data)
+  - [Schema and data types](#schema-and-data-types)
+  - [Basic querying (select, filter, and sort)](#basic-querying-select-filter-and-sort)
+  - [Challenge: Querying a DataFrame](#challenge-querying-a-dataframe)
+  - [Solution: Querying a DataFrame](#solution-querying-a-dataframe)
 - [**4. Essential PySpark Data Manipulation**](#4-essential-pyspark-data-manipulation) (7 videos)
-  - Handling missing data
-  - Creating new columns
-  - Unions and joins
-  - Aggregating
-  - Writing data
-  - Challenge: Essential data manipulation
-  - Solution: Essential data manipulation
+  - [Handling missing data](#handling-missing-data)
+  - [Creating new columns](#creating-new-columns)
+  - [Unions and joins](#unions-and-joins)
+  - [Aggregating](#aggregating)
+  - [Writing data](#writing-data)
+  - [Challenge: Essential data manipulation](#challenge-essential-data-manipulation)
+  - [Solution: Essential data manipulation](#solution-essential-data-manipulation)
 - [**5. PySpark SQL**](#5-pyspark-sql) (5 videos)
-  - What is PySpark SQL?
-  - Creating temporary views
-  - Using SQL queries
-  - Challenge: PySpark SQL
-  - Solution: PySpark SQL
+  - [What is PySpark SQL?](#what-is-pyspark-sql)
+  - [Creating temporary views](#creating-temporary-views)
+  - [Using SQL queries](#using-sql-queries)
+  - [Challenge: PySpark SQL](#challenge-pyspark-sql)
+  - [Solution: PySpark SQL](#solution-pyspark-sql)
 - [**6. PySpark in a Production Environment**](#6-pyspark-in-a-production-environment) (4 videos)
-  - Production environment requirements
-  - Example production environment setup
-  - A typical PySpark production workflow
-  - Cloud services
+  - [Production environment requirements](#production-environment-requirements)
+  - [Example production environment setup](#example-production-environment-setup)
+  - [A typical PySpark production workflow](#a-typical-pyspark-production-workflow)
+  - [Cloud services](#cloud-services)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Recap of key concepts and next steps
+  - [Recap of key concepts and next steps](#recap-of-key-concepts-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980)
@@ -123,8 +123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[PySpark]] (3), [[Apache Spark]] (2), [[Data Engineering]] (2), [[Analytics]] (2)
 > **CLI Commands:** apache (2), python (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - if (1)
 
 #### Prerequisites
@@ -146,6 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), hit (1), [[SQL]] (1), [[Pandas (Software)|Pandas]] (1), data (1)
 > **Tools:** colab (2), jupyter (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** sql (1)
@@ -167,6 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Tools:** github (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
@@ -176,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Spark and PySpark
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Apache Spark: The foundation of PySpark
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980)
@@ -219,9 +221,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Spark]] (3), data (3), [[PySpark]] (2), parallel (2), [[Hadoop]] (2)
 > **CLI Commands:** apache (4), node (1), make (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
-> **Code Keywords:** let (1), for. (1)
 > **Prerequisites:** setup (1), you need to have (1)
 > **Env Vars:** jvm (1)
 > **Speakers:** - [instructor] (1)
@@ -265,9 +267,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[SQL]] (4), web (4), [[PySpark]] (1), database (1)
 > **Definitions:** is a  (7), is called (1)
 > **Env Vars:** sql (4), rdd (1), api (1)
-> **Code Keywords:** let (1), module (1), interface (1), finally, (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -301,17 +303,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[PySpark]] (8), [[Python (Programming Language)|Python]] (5), [[Apache Spark]] (3), [[Scala]] (2)
 > **CLI Commands:** python (5), apache (3)
 > **Env Vars:** sql (2), jvm (1), api (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Setting Up PySpark
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Colab notebook setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980)
@@ -378,11 +380,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PySpark]] (9), [[Google]] (8), cloud (2), [[Python (Programming Language)|Python]] (2), [[Troubleshooting]] (1)
 > **Tools:** colab (10), jupyter (4)
 > **Prerequisites:** setup (3), set up (2)
 > **CLI Commands:** make (2), python (2)
 > **Analogies:** just like (2), such as (1)
-> **Code Keywords:** let (1), break. (1)
 > **URLs:** [google.com](https://google.com) (2)
 > **Versions:** version 3 (1), 5.1 (1)
 > **UI Navigation:** go to (2)
@@ -470,7 +472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), case, (1), finally, (1), module (1)
+> **Frameworks & Libraries:** data (7), [[Google Drive]] (7), [[Google]] (2), [[Analytics]] (1), web (1)
 > **CLI Commands:** make (7), python (1)
 > **Tools:** colab (7)
 > **UI Navigation:** go to (1), scroll down (1), click on (1), navigate to (1)
@@ -482,7 +484,7 @@ created: 2026-04-29
 
 ### 3. Working with PySpark DataFrames
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to PySpark DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980)
@@ -529,6 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Pandas (Software)|Pandas]] (6), [[PySpark]] (6), database (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dag (3)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** python (1)
@@ -581,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), break, (1), finally, (1)
+> **Frameworks & Libraries:** data (17), [[PySpark]] (6), database (2), [[Metadata]] (2), cloud (1)
 > **Env Vars:** csv (2), aws (1), json (1), orc (1)
 > **Tools:** colab (4)
 > **CLI Commands:** aws (1), python (1)
@@ -642,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), this. (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (16), [[Statistics]] (3), next (1)
 > **Code Identifiers:** printschema (1), pickup_datetime (1), passenger_count (1), total_amount (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -754,7 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (3), function (2), pass (2), finally, (1)
+> **Frameworks & Libraries:** [[PySpark]] (6), data (4), [[SQL]] (4), database (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** sql (4), select (1), order (1), where (1)
 > **Code Identifiers:** passenger_count (3), total_amount (3)
 > **SQL:** select (1), order by (1), where (1)
@@ -782,6 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Tools:** colab (1)
@@ -816,7 +820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (2), [[PySpark]] (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -824,7 +828,7 @@ created: 2026-04-29
 
 ### 4. Essential PySpark Data Manipulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling missing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/handling-missing-data?u=76281980)
@@ -889,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), function (1), case, (1), require (1)
+> **Frameworks & Libraries:** data (12), [[PySpark]] (2), next (1)
 > **Analogies:** for example (1), just like (1)
 > **Env Vars:** df1 (1)
 > **Warnings:** keep in mind (1)
@@ -948,7 +952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (9), next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Unions and joins
@@ -1026,7 +1030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (1)
+> **Frameworks & Libraries:** data (24), [[PySpark]] (4), [[SQL]] (3), next (1), [[Google Drive]] (1)
 > **Env Vars:** sql (3), csv (3)
 > **Non-Speech:** (mouse clicking) (6)
 > **Code Identifiers:** df_feb (1), df_joined (1), taxi_zone_lookup (1)
@@ -1104,7 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), type. (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[PySpark]] (4), next (2), [[Analytics]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)
@@ -1151,7 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), override (1), default, (1)
+> **Frameworks & Libraries:** data (8), [[PySpark]] (7), database (2), application (1), [[Google]] (1)
 > **Env Vars:** csv (3)
 > **UI Navigation:** navigate to (2)
 > **Speakers:** - [instructor] (1)
@@ -1193,9 +1197,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[PySpark]] (1)
 > **Code Identifiers:** taxi_zones (2), tpep_pickup_datetime (1), pu_datetime (1), taxi_zone_lookup (1), do_location_id (1)
 > **File Paths:** taxi_zone_lookup.csv (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1228,13 +1232,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (7)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. PySpark SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is PySpark SQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980)
@@ -1259,9 +1263,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), [[PySpark]] (5), data (4), [[Python (Programming Language)|Python]] (3), api (2)
 > **Env Vars:** sql (6), api (2)
 > **CLI Commands:** python (3)
-> **Code Keywords:** module (1), switch (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1293,8 +1297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (3), [[PySpark]] (2), next (1)
 > **Env Vars:** sql (3)
-> **Code Keywords:** let (1), this. (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
@@ -1349,9 +1353,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (13), data (8), [[Python (Programming Language)|Python]] (4), api (2), [[PySpark]] (1)
 > **Env Vars:** sql (13), api (2)
 > **CLI Commands:** python (4), find (2)
-> **Code Keywords:** this. (2), let (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1386,10 +1390,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[PySpark]] (2), [[SQL]] (1), next (1)
 > **Code Identifiers:** total_amount (2), taxi_lookup (1), joined_df (1), avg_amount (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** make sure to (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
@@ -1422,8 +1426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (2), [[PySpark]] (1)
 > **Env Vars:** sql (2), ewr (2)
-> **Code Keywords:** let (1), this. (1)
 > **Code Identifiers:** taxi_lookup (1), joined_df (1)
 > **Speakers:** - [trainer] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1431,7 +1435,7 @@ created: 2026-04-29
 
 ### 6. PySpark in a Production Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Production environment requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980)
@@ -1492,11 +1496,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[PySpark]] (7), [[Security]] (3), cloud (2), aws (2)
 > **CLI Commands:** aws (2), python (2), make (2), find (1), yarn (1)
 > **Env Vars:** aws (2), hdfs (1), cpu (1), yarn (1), api (1)
 > **Prerequisites:** setup (3)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1549,10 +1553,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PySpark]] (5), aws (4), [[Amazon EC2|Ec2]] (3), cloud (2), data (2)
 > **Env Vars:** aws (4), ec2 (3), yarn (1), mwaa (1)
 > **CLI Commands:** aws (4), apache (2), yarn (1), python (1)
 > **Prerequisites:** setup (2), you'll need (1), install (1), configure (1), set up (1)
-> **Code Keywords:** let (1), self (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1594,8 +1598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[PySpark]] (2), [[GitHub]] (2), database (2), ci (1)
 > **CLI Commands:** cd (1), apache (1)
-> **Code Keywords:** let (1), pass (1)
 > **Tools:** github (2)
 > **Env Vars:** api (1)
 > **Exercise Files:** github repo (1)
@@ -1662,9 +1666,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[PySpark]] (7), aws (6), [[Microsoft Azure|Azure]] (4), cloud (3)
 > **Env Vars:** aws (6), emr (3), sql (2), gcp (1), cli (1)
 > **CLI Commands:** aws (6), apache (1), make (1), gcloud (1)
-> **Code Keywords:** let (1), super (1), interface (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
@@ -1673,7 +1677,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap of key concepts and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980)
@@ -1708,9 +1712,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PySpark]] (6), data (4), [[Python (Programming Language)|Python]] (2), [[SQL]] (2), [[Apache Spark]] (1)
 > **CLI Commands:** python (2), apache (1), make (1)
 > **Env Vars:** sql (2), api (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** picture (1)
 > **Speakers:** - congratulations (1)
 

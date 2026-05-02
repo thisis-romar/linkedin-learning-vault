@@ -33,7 +33,7 @@ tags:
   - skill/r-programming-language
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Descriptive%20Healthcare%20Analytics%20in%20R.md)
@@ -52,78 +52,78 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - What you should know
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
 - [**1. What Is the BRFSS?**](#1-what-is-the-brfss) (13 videos)
-  - U.S. risk factors
-  - Introduction to the BRFSS
-  - More on the BRFSS
-  - What is a descriptive BRFSS analysis?
-  - Cross-sectional analysis in the BRFSS
-  - Ethical use of BRFSS data
-  - BRFSS resources
-  - Choosing R for a BRFSS analysis: Some considerations
-  - Choosing R for a BRFSS analysis: More considerations
-  - Installing R
-  - Navigating in R
-  - Installing the foreign package
-  - Installing necessary packages
+  - [U.S. risk factors](#us-risk-factors)
+  - [Introduction to the BRFSS](#introduction-to-the-brfss)
+  - [More on the BRFSS](#more-on-the-brfss)
+  - [What is a descriptive BRFSS analysis?](#what-is-a-descriptive-brfss-analysis)
+  - [Cross-sectional analysis in the BRFSS](#cross-sectional-analysis-in-the-brfss)
+  - [Ethical use of BRFSS data](#ethical-use-of-brfss-data)
+  - [BRFSS resources](#brfss-resources)
+  - [Choosing R for a BRFSS analysis: Some considerations](#choosing-r-for-a-brfss-analysis-some-considerations)
+  - [Choosing R for a BRFSS analysis: More considerations](#choosing-r-for-a-brfss-analysis-more-considerations)
+  - [Installing R](#installing-r)
+  - [Navigating in R](#navigating-in-r)
+  - [Installing the foreign package](#installing-the-foreign-package)
+  - [Installing necessary packages](#installing-necessary-packages)
 - [**2. Designing Your Metadata**](#2-designing-your-metadata) (8 videos)
-  - Uses of a data dictionary
-  - How to set up a data dictionary
-  - Adding to the data dictionary
-  - Understanding confounders
-  - Making a web of causation
-  - Designing confounders: Age and smoking
-  - Designing confounders: Other demographics
-  - Designing confounders: Other variables used in analysis
+  - [Uses of a data dictionary](#uses-of-a-data-dictionary)
+  - [How to set up a data dictionary](#how-to-set-up-a-data-dictionary)
+  - [Adding to the data dictionary](#adding-to-the-data-dictionary)
+  - [Understanding confounders](#understanding-confounders)
+  - [Making a web of causation](#making-a-web-of-causation)
+  - [Designing confounders: Age and smoking](#designing-confounders-age-and-smoking)
+  - [Designing confounders: Other demographics](#designing-confounders-other-demographics)
+  - [Designing confounders: Other variables used in analysis](#designing-confounders-other-variables-used-in-analysis)
 - [**3. Reading in Data and Applying Exclusions**](#3-reading-in-data-and-applying-exclusions) (11 videos)
-  - Reading in BRFSS XPT data
-  - Naming conventions
-  - Keeping native variables
-  - Applying the first exclusion
-  - Applying the rest of the exclusions
-  - Operations in code
-  - Making a data reduction diagram
-  - Generating exposure
-  - Generating outcome variables
-  - Challenge: Delete rows
-  - Solution: Delete rows
+  - [Reading in BRFSS XPT data](#reading-in-brfss-xpt-data)
+  - [Naming conventions](#naming-conventions)
+  - [Keeping native variables](#keeping-native-variables)
+  - [Applying the first exclusion](#applying-the-first-exclusion)
+  - [Applying the rest of the exclusions](#applying-the-rest-of-the-exclusions)
+  - [Operations in code](#operations-in-code)
+  - [Making a data reduction diagram](#making-a-data-reduction-diagram)
+  - [Generating exposure](#generating-exposure)
+  - [Generating outcome variables](#generating-outcome-variables)
+  - [Challenge: Delete rows](#challenge-delete-rows)
+  - [Solution: Delete rows](#solution-delete-rows)
 - [**4. Preparing for Descriptive Analysis**](#4-preparing-for-descriptive-analysis) (8 videos)
-  - Generating the age variables
-  - Generating the smoking variables
-  - Finalizing the analytic data set
-  - What is Table 1?
-  - Reviewing categorical variable distribution
-  - Reviewing continuous variable distribution
-  - Challenge: Make a categorical variable from a continuous one
-  - Solution: Make a categorical variable from a continuous one
+  - [Generating the age variables](#generating-the-age-variables)
+  - [Generating the smoking variables](#generating-the-smoking-variables)
+  - [Finalizing the analytic data set](#finalizing-the-analytic-data-set)
+  - [What is Table 1?](#what-is-table-1)
+  - [Reviewing categorical variable distribution](#reviewing-categorical-variable-distribution)
+  - [Reviewing continuous variable distribution](#reviewing-continuous-variable-distribution)
+  - [Challenge: Make a categorical variable from a continuous one](#challenge-make-a-categorical-variable-from-a-continuous-one)
+  - [Solution: Make a categorical variable from a continuous one](#solution-make-a-categorical-variable-from-a-continuous-one)
 - [**5. Conducting Descriptive Analysis**](#5-conducting-descriptive-analysis) (7 videos)
-  - Preparing categorical Table 1 shell
-  - Preparing continuous Table 1 shell
-  - Adding overall frequencies to categorical Table 1
-  - Making a frequency macro
-  - Adding overall frequencies to continuous Table 1
-  - Completing categorical Table 1
-  - Completing continuous Table 1
+  - [Preparing categorical Table 1 shell](#preparing-categorical-table-1-shell)
+  - [Preparing continuous Table 1 shell](#preparing-continuous-table-1-shell)
+  - [Adding overall frequencies to categorical Table 1](#adding-overall-frequencies-to-categorical-table-1)
+  - [Making a frequency macro](#making-a-frequency-macro)
+  - [Adding overall frequencies to continuous Table 1](#adding-overall-frequencies-to-continuous-table-1)
+  - [Completing categorical Table 1](#completing-categorical-table-1)
+  - [Completing continuous Table 1](#completing-continuous-table-1)
 - [**6. Descriptive Analysis: Weights and Tests**](#6-descriptive-analysis-weights-and-tests) (8 videos)
-  - Three truths about using weights
-  - Conducting a descriptive weighted analysis
-  - Why conduct bivariate tests?
-  - Adding categorical bivariate tests to Table 1
-  - Introduction to ANOVA and linear regression code
-  - Adding continuous bivariate tests to Table 1
-  - Challenge: Do a weighted analysis
-  - Solution: Do a weighted analysis
+  - [Three truths about using weights](#three-truths-about-using-weights)
+  - [Conducting a descriptive weighted analysis](#conducting-a-descriptive-weighted-analysis)
+  - [Why conduct bivariate tests?](#why-conduct-bivariate-tests)
+  - [Adding categorical bivariate tests to Table 1](#adding-categorical-bivariate-tests-to-table-1)
+  - [Introduction to ANOVA and linear regression code](#introduction-to-anova-and-linear-regression-code)
+  - [Adding continuous bivariate tests to Table 1](#adding-continuous-bivariate-tests-to-table-1)
+  - [Challenge: Do a weighted analysis](#challenge-do-a-weighted-analysis)
+  - [Solution: Do a weighted analysis](#solution-do-a-weighted-analysis)
 - [**Conclusion**](#conclusion) (4 videos)
-  - Review of the metadata
-  - Uses of metadata
-  - Review of the process
-  - Next steps in the BRFSS analysis
+  - [Review of the metadata](#review-of-the-metadata)
+  - [Uses of metadata](#uses-of-metadata)
+  - [Review of the process](#review-of-the-process)
+  - [Next steps in the BRFSS analysis](#next-steps-in-the-brfss-analysis)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/welcome?u=76281980)
@@ -134,8 +134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (2)
 > **Env Vars:** brfss (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [monika] (1)
 
@@ -168,7 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Public Health]] (1), [[Programming]] (1), data (1), [[Windows]] (1)
 > **Versions:** version 3 (1), 3.1 (1), 4.4.1 (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** make (1)
@@ -177,7 +177,7 @@ created: 2026-04-29
 
 ### 1. What Is the BRFSS?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### U.S. risk factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980)
@@ -282,8 +282,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (4), [[Public Health]] (2), express (1)
 > **Env Vars:** brfss (19), nhanes (14), cdc (2), mec (2)
-> **Code Keywords:** module (4), public (2), self (2)
 > **Analogies:** such as (4), imagine (1), for example (1)
 > **Definitions:** is a  (3)
 > **Versions:** 14.7 (1)
@@ -347,8 +347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Public Health]] (5), next (2)
 > **Env Vars:** cdc (10), brfss (6), nhanes (1), mmwr (1)
-> **Code Keywords:** public (5), let (1), module (1), from. (1)
 > **CLI Commands:** make (2)
 > **Versions:** 14.7 (1)
 > **Cross-References:** in the next (1)
@@ -396,9 +396,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Public Health]] (1), next (1)
 > **Env Vars:** brfss (6), cdc (3), nhanes (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 #### What is a descriptive BRFSS analysis?
@@ -494,8 +494,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (2), [[Statistics]] (1), product (1), [[Public Health]] (1)
 > **Env Vars:** brfss (15), cdc (2), mmwr (1)
-> **Code Keywords:** let (4), class. (1), public (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (2), imagine (1), for example (1), just like (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -576,8 +576,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Statistics]] (1), next (1)
 > **Env Vars:** brfss (15), mmwr (1)
-> **Code Keywords:** let (1), throw (1)
 > **Cross-References:** in the last (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -685,8 +685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Search]] (2), [[Analytics]] (2), [[Ethics]] (1), [[Privacy]] (1)
 > **Env Vars:** brfss (21), hipaa (5), cdc (2), irb (1), nih (1)
-> **Code Keywords:** let (3), abstract (1), this, (1)
 > **Definitions:** in other words (1), is a  (1), is an  (1)
 > **URLs:** [grants.gov](https://grants.gov) (1)
 > **UI Navigation:** scroll down (1)
@@ -747,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Statistics]] (1), database (1)
 > **Env Vars:** brfss (6), cdc (3), sas (2)
-> **Code Keywords:** interface (3), this. (2), continue (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (2), such as (1)
 > **Documentation:** the documentation (1)
@@ -822,9 +822,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2), business (1)
 > **Env Vars:** sas (23), brfss (7), spss (4), cdc (3), bpfss (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
@@ -904,8 +904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), open-source (3), [[Search]] (1)
 > **Env Vars:** brfss (13), sas (10), spss (3), cran (1)
-> **Code Keywords:** finally, (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
@@ -968,11 +968,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Windows]] (1)
 > **Prerequisites:** setup (4), install (3)
 > **UI Navigation:** click on (2), double-click (2), go to (1)
 > **Env Vars:** cran (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -1048,7 +1048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1), finally, (1), super (1), return. (1)
+> **Frameworks & Libraries:** next (1), hit (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -1128,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (1), finally, (1)
+> **Frameworks & Libraries:** data (4), next (2)
 > **Env Vars:** sas (3), brfss (3), spss (2), cran (1)
 > **Documentation:** the documentation (3)
 > **Analogies:** such as (3)
@@ -1208,8 +1208,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (1)
 > **Prerequisites:** install (13), you'll need (1)
-> **Code Keywords:** let (5), function (1)
 > **UI Navigation:** go to (4), click on (1)
 > **Env Vars:** mass (4)
 > **CLI Commands:** find (2), make (1)
@@ -1220,7 +1220,7 @@ created: 2026-04-29
 
 ### 2. Designing Your Metadata
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Uses of a data dictionary
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980)
@@ -1329,10 +1329,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (46), [[Microsoft Excel|Excel]] (4), next (2), [[Microsoft Word]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Env Vars:** mdr (3), brfss (2), pdf (1)
 > **Definitions:** is a  (2), is an  (2), basically means (1)
-> **Code Keywords:** let (1), continue (1)
 > **Cross-References:** in the next (2)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** template (1)
@@ -1437,8 +1437,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), next (5), [[Analytics]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (4)
 > **Env Vars:** brfss (4)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1), in the next (1)
@@ -1607,7 +1607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), finally, (2)
+> **Frameworks & Libraries:** data (13), next (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** alcgrp (2), sleptim1 (2), asthma3 (2), asthma4 (2), alcday5 (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (2), known as (1), means that (1)
@@ -1717,7 +1717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1)
+> **Frameworks & Libraries:** next (2), data (1), hit (1)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** brfss (1)
 > **Definitions:** is a  (1)
@@ -1870,7 +1870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), include. (2)
+> **Frameworks & Libraries:** web (9), next (4), [[Representational State Transfer (REST)|Rest]] (2), data (2), [[Microsoft Word]] (1)
 > **Env Vars:** brfss (7)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **CLI Commands:** make (2)
@@ -1988,9 +1988,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), data (3), web (2)
 > **Env Vars:** brfss (2), smokday2 (2), smoker (2), smokgrp (1), neversmk (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (6)
 > **Cross-References:** in the last (2), as you saw (1), in the next (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
@@ -2095,8 +2095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** brfss (2), sex (2), othrace (2), black (1), asian (1)
-> **Code Keywords:** let (5), this. (1), this, (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Analogies:** imagine (1)
@@ -2200,8 +2200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), web (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** noplan (3), bmi (2), genhlth (1), genhlth2 (1), fairhlth (1)
-> **Code Keywords:** let (7), finally, (1), include: (1), self (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), means that (1), stands for (1)
 > **UI Navigation:** go to (1)
@@ -2210,7 +2210,7 @@ created: 2026-04-29
 
 ### 3. Reading in Data and Applying Exclusions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading in BRFSS XPT data
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reading-in-brfss-xpt-data?u=76281980)
@@ -2391,8 +2391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), [[Analytics]] (3), next (2), [[Metadata]] (1)
 > **Env Vars:** xpt (12), brfss (9), sas (4), bmi5cat (3), sas7bdat (2)
-> **Code Keywords:** let (7), function (3), default, (1), case, (1)
 > **CLI Commands:** make (4), unzip (1), find (1)
 > **Definitions:** is called (2), stands for (1), in other words (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2525,8 +2525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), feature (1)
 > **CLI Commands:** make (12), find (3)
-> **Code Keywords:** let (3), function (3), this. (1)
 > **Env Vars:** brfss (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** in other words (1)
@@ -2648,7 +2648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (2), this, (1)
+> **Frameworks & Libraries:** data (16), next (1)
 > **Env Vars:** brfss (4), xpt (2), idate (2)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (1), later in (1)
@@ -2773,7 +2773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (1), continue (1)
+> **Frameworks & Libraries:** data (13), next (3), [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** brfss (3), veteran3 (3), bmi (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2923,7 +2923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this, (2), finally, (1), function (1)
+> **Frameworks & Libraries:** data (9), next (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** brfss (3), alcday5 (2), brssf (1)
 > **Definitions:** is a  (3), is an  (1), refers to (1)
 > **Cross-References:** go back to (1), in the last (1), in the next (1)
@@ -3041,12 +3041,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (2)
 > **Env Vars:** bmi (2), age (1), brfss (1), sass (1), veteran3 (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3151,7 +3151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), throw (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (11), next (4), [[Diagramming]] (1), [[Programming]] (1)
 > **CLI Commands:** make (3)
 > **URLs:** [gliffy.com](https://gliffy.com) (1)
 > **Env Vars:** brfss (1)
@@ -3280,7 +3280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (2), this. (2), continue (1)
+> **Frameworks & Libraries:** data (5), next (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** alcgrp (7), alcday5 (2)
 > **CLI Commands:** make (7)
 > **UI Navigation:** go to (2), open the (1)
@@ -3385,7 +3385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1)
+> **Frameworks & Libraries:** data (4), next (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -3468,9 +3468,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (1)
 > **Env Vars:** nhanes (10), brfss (8), dmdborn (2), p_demo (1), ridageyear (1)
 > **Cross-References:** earlier in (2), in the next (1)
-> **Code Keywords:** let (1), delete (1)
 > **Documentation:** the documentation (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1), is called (1)
@@ -3526,7 +3526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **Non-Speech:** (silence) (5), (upbeat music) (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** nhanes (2)
@@ -3536,7 +3536,7 @@ created: 2026-04-29
 
 ### 4. Preparing for Descriptive Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating the age variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-age-variables?u=76281980)
@@ -3665,8 +3665,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (4), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (14)
-> **Code Keywords:** let (11), default. (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **Env Vars:** brfss (2)
 > **UI Navigation:** go to (1), scroll up (1)
@@ -3803,9 +3803,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), data (4)
 > **CLI Commands:** make (16)
 > **Env Vars:** smokday2 (4), neversmk (4), smokgrp (3), smoke100 (2), smoker (1)
-> **Code Keywords:** let (11)
 > **Cross-References:** go back to (1), in the last (1), in the next (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Best Practices:** don't forget (1)
@@ -3936,7 +3936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1)
+> **Frameworks & Libraries:** data (28), next (5)
 > **CLI Commands:** make (6)
 > **Cross-References:** in the next (3), previous chapter (1), go back to (1)
 > **Env Vars:** csv (2), smoker (1)
@@ -4062,8 +4062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2), [[Microsoft Excel|Excel]] (1), [[Statistics]] (1)
 > **Cross-References:** in the next (2), earlier in (1), later in (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** brfss (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** set up (1)
@@ -4248,7 +4248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), private (3), this. (1)
+> **Frameworks & Libraries:** data (12), next (6), [[Microsoft Excel|Excel]] (4), business (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** csv (3), asthma4 (1)
 > **Cross-References:** in the last (2), go back to (1), in the next (1)
@@ -4444,7 +4444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (1), private (1), throw (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), next (5), data (4), [[Analytics]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** las (2)
@@ -4542,9 +4542,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (2)
 > **Env Vars:** brfss (9), nhanes (8), sbp (6), aha (4), mmhg (3)
 > **CLI Commands:** make (7), rm (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [lecturer] (1)
@@ -4643,7 +4643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1), this, (1)
+> **Frameworks & Libraries:** next (6), data (2)
 > **Env Vars:** bpxosy1 (3), bp_a (2), aha (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -4655,7 +4655,7 @@ created: 2026-04-29
 
 ### 5. Conducting Descriptive Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing categorical Table 1 shell
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980)
@@ -4800,7 +4800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this: (1), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), next (7), data (5), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (3), for example (1)
 > **Cross-References:** in the next (1), go back to (1), later in (1)
@@ -4868,7 +4868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (4), [[Statistics]] (1), next (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** anova (1)
@@ -5008,7 +5008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14)
+> **Frameworks & Libraries:** data (8), next (4), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** csv (3), alcgrp (2)
 > **Cross-References:** in the next (2), in the last (1), go back to (1), earlier in (1)
 > **CLI Commands:** make (3)
@@ -5128,7 +5128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13)
+> **Frameworks & Libraries:** next (2), data (2)
 > **Env Vars:** csv (5), x_age_g (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (2)
@@ -5204,7 +5204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), continue (1)
+> **Frameworks & Libraries:** data (6), next (1)
 > **Env Vars:** csv (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -5402,7 +5402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), throw (1), private (1)
+> **Frameworks & Libraries:** data (14), next (5), [[Representational State Transfer (REST)|Rest]] (4), hit (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** asthma4 (2), csv (2)
 > **Cross-References:** go back to (2), in the next (1)
@@ -5592,7 +5592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **Env Vars:** csv (4), sleeptim2 (2), alcgrp (1)
 > **CLI Commands:** make (2), find (2)
 > **Versions:** 7.11 (1), 1.4 (1)
@@ -5603,7 +5603,7 @@ created: 2026-04-29
 
 ### 6. Descriptive Analysis: Weights and Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three truths about using weights
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/three-truths-about-using-weights?u=76281980)
@@ -5746,8 +5746,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** brfss (7), cdc (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -5961,7 +5961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (2), function (1)
+> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** brfss (5), brfssa (2), llcpwt (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -6081,8 +6081,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Big Data]] (4), next (3), [[Statistics]] (1)
 > **Env Vars:** anova (3), brfss (2)
-> **Code Keywords:** let (2), finally, (1), if, (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Versions:** 0.05 (1)
 > **Speakers:** - [narrator] (1)
@@ -6304,7 +6304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (4), this. (2), override (1)
+> **Frameworks & Libraries:** next (5), [[Big Data]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** mass (5), asthma4 (1), alcgrp (1)
 > **CLI Commands:** make (5), find (1)
 > **Versions:** 0.0001 (5), 0.05 (1)
@@ -6374,8 +6374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (10), data (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** anova (18), sex (1), asthma (1)
-> **Code Keywords:** match. (1), case, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
@@ -6597,7 +6597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (1), super (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), next (3), [[Representational State Transfer (REST)|Rest]] (3), data (1), [[Statistics]] (1)
 > **Env Vars:** anova (8), anovas (1), sleptim2 (1), alcgrp (1)
 > **Versions:** 0.0001 (5), 0.8891 (1)
 > **UI Navigation:** go to (1), click on (1), scroll up (1), scroll down (1)
@@ -6715,9 +6715,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (4)
 > **Env Vars:** nhanes (6), brfss (4), usborn (3), psu (2), dmdborn4 (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Code Identifiers:** p_demo (1)
 > **Prerequisites:** set up (1)
@@ -6827,7 +6827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (1)
+> **Frameworks & Libraries:** next (3), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 0.70 (1)
 > **Cross-References:** go back to (1)
@@ -6837,7 +6837,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review of the metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980)
@@ -6988,7 +6988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), new, (1), function (1), for. (1)
+> **Frameworks & Libraries:** data (21), [[Metadata]] (8), web (4), next (3), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** brfss (3), sas (3), spss (1)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (3)
@@ -7100,7 +7100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), require (1), new. (1), else, (1)
+> **Frameworks & Libraries:** [[Metadata]] (23), data (5), hit (1), next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** jama (1)
@@ -7200,6 +7200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), next (5), web (2), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** brfss (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -7319,8 +7320,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), data (5), [[Representational State Transfer (REST)|Rest]] (2), [[Public Health]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (8), find (1)
-> **Code Keywords:** let (1), public (1), this. (1), case, (1), finally, (1)
 > **Env Vars:** brfss (4)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)

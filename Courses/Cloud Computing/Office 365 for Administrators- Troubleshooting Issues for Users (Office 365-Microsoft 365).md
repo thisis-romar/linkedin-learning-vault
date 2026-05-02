@@ -31,7 +31,7 @@ tags:
   - skill/software-troubleshooting
   - skill/office-365-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Office%20365%20for%20Administrators-%20Troubleshooting%20Issues%20for%20Users%20(Office%20365-Microsoft%20365).md)
@@ -50,53 +50,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Office 365 administration troubleshooting
-  - What you need to know
+  - [Office 365 administration troubleshooting](#office-365-administration-troubleshooting)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Word**](#1-word) (5 videos)
-  - Troubleshoot: Word startup
-  - Troubleshoot: Lost Word documents
-  - Troubleshoot: Word formatting
-  - Troubleshoot: Damaged Word documents
-  - Troubleshoot: Word printing
+  - [Troubleshoot: Word startup](#troubleshoot-word-startup)
+  - [Troubleshoot: Lost Word documents](#troubleshoot-lost-word-documents)
+  - [Troubleshoot: Word formatting](#troubleshoot-word-formatting)
+  - [Troubleshoot: Damaged Word documents](#troubleshoot-damaged-word-documents)
+  - [Troubleshoot: Word printing](#troubleshoot-word-printing)
 - [**2. PowerPoint**](#2-powerpoint) (5 videos)
-  - Troubleshoot: PowerPoint startup
-  - Troubleshoot: Lost presentations
-  - Troubleshoot: Damaged presentations
-  - Troubleshoot: PowerPoint video and audio
-  - Troubleshoot: PowerPoint printing
+  - [Troubleshoot: PowerPoint startup](#troubleshoot-powerpoint-startup)
+  - [Troubleshoot: Lost presentations](#troubleshoot-lost-presentations)
+  - [Troubleshoot: Damaged presentations](#troubleshoot-damaged-presentations)
+  - [Troubleshoot: PowerPoint video and audio](#troubleshoot-powerpoint-video-and-audio)
+  - [Troubleshoot: PowerPoint printing](#troubleshoot-powerpoint-printing)
 - [**3. Excel and Access**](#3-excel-and-access) (6 videos)
-  - Troubleshoot: Excel startup
-  - Troubleshoot: Lost Excel workbooks
-  - Troubleshoot: Damaged Excel workbooks
-  - Troubleshoot: Excel formatting and compatibility
-  - Troubleshoot: Excel printing
-  - Troubleshoot: Lost and damaged Access databases
+  - [Troubleshoot: Excel startup](#troubleshoot-excel-startup)
+  - [Troubleshoot: Lost Excel workbooks](#troubleshoot-lost-excel-workbooks)
+  - [Troubleshoot: Damaged Excel workbooks](#troubleshoot-damaged-excel-workbooks)
+  - [Troubleshoot: Excel formatting and compatibility](#troubleshoot-excel-formatting-and-compatibility)
+  - [Troubleshoot: Excel printing](#troubleshoot-excel-printing)
+  - [Troubleshoot: Lost and damaged Access databases](#troubleshoot-lost-and-damaged-access-databases)
 - [**4. Teams and OneNote**](#4-teams-and-onenote) (3 videos)
-  - Troubleshoot: Teams audio and video
-  - Recover lost OneNote files
-  - Reset a OneNote notebook
+  - [Troubleshoot: Teams audio and video](#troubleshoot-teams-audio-and-video)
+  - [Recover lost OneNote files](#recover-lost-onenote-files)
+  - [Reset a OneNote notebook](#reset-a-onenote-notebook)
 - [**5. Visio**](#5-visio) (3 videos)
-  - Troubleshoot: Visio printing
-  - Troubleshoot: Visio shapes
-  - Troubleshoot: Visio compatibility
+  - [Troubleshoot: Visio printing](#troubleshoot-visio-printing)
+  - [Troubleshoot: Visio shapes](#troubleshoot-visio-shapes)
+  - [Troubleshoot: Visio compatibility](#troubleshoot-visio-compatibility)
 - [**6. OneDrive and SharePoint**](#6-onedrive-and-sharepoint) (4 videos)
-  - OneDrive synchronization limits
-  - Troubleshoot: OneDrive files
-  - Troubleshoot: OneDrive syncing
-  - Troubleshoot: SharePoint sites
+  - [OneDrive synchronization limits](#onedrive-synchronization-limits)
+  - [Troubleshoot: OneDrive files](#troubleshoot-onedrive-files)
+  - [Troubleshoot: OneDrive syncing](#troubleshoot-onedrive-syncing)
+  - [Troubleshoot: SharePoint sites](#troubleshoot-sharepoint-sites)
 - [**7. Publisher**](#7-publisher) (2 videos)
-  - Troubleshoot: Publisher mail merge
-  - Troubleshoot: Publisher printing
+  - [Troubleshoot: Publisher mail merge](#troubleshoot-publisher-mail-merge)
+  - [Troubleshoot: Publisher printing](#troubleshoot-publisher-printing)
 - [**8. Outlook**](#8-outlook) (3 videos)
-  - Troubleshoot: Damaged Outlook data files
-  - Troubleshoot: Connecting to a mailbox
-  - Interpret and fix non-delivery error codes
+  - [Troubleshoot: Damaged Outlook data files](#troubleshoot-damaged-outlook-data-files)
+  - [Troubleshoot: Connecting to a mailbox](#troubleshoot-connecting-to-a-mailbox)
+  - [Interpret and fix non-delivery error codes](#interpret-and-fix-non-delivery-error-codes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Office 365 administration troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Troubleshooting]] (4), [[Microsoft]] (1), cloud (1), application (1)
 > **Speakers:** - [sharon] (1)
 
 #### What you need to know
@@ -143,13 +143,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Troubleshooting]] (2), application (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Word
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Word startup
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980)
@@ -302,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), switch (3), continue (3), else. (2), super (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (22), data (3), next (3), [[Microsoft]] (3), [[Microsoft Office|Office]] (2)
 > **Exercise Files:** template (6)
 > **UI Navigation:** right-click (2), double-click (2), scroll down (1)
 > **CLI Commands:** find (3), make (1)
@@ -374,7 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), [[Search]] (5), next (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** navigate to (1), scroll down (1)
 > **Definitions:** is a  (1)
@@ -505,8 +506,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (2), feature (1)
 > **UI Navigation:** select the (6), click on (2)
-> **Code Keywords:** this, (1), finally, (1)
 > **Versions:** 1.5 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -710,9 +711,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (18), next (7), data (5), [[Microsoft]] (3), [[Microsoft Office|Office]] (2)
 > **Exercise Files:** template (9)
 > **UI Navigation:** select the (3), open the (2), navigate to (1), scroll down (1), right-click (1)
-> **Code Keywords:** this, (2), delete (2), export. (1), type. (1)
 > **Env Vars:** xps (3), hkey_current_user (1), software (1), lpt (1)
 > **Prerequisites:** you'll need (3), set up (2), install (1)
 > **CLI Commands:** find (3)
@@ -766,8 +767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Troubleshooting]] (2), [[Windows]] (1), [[Microsoft Office|Office]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
 > **Best Practices:** always make sure (1)
@@ -777,7 +778,7 @@ created: 2026-04-29
 
 ### 2. PowerPoint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: PowerPoint startup
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980)
@@ -842,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), case, (1), default. (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (12), [[Troubleshooting]] (3), [[Microsoft Office|Office]] (3), next (2), [[Search]] (2)
 > **Env Vars:** xps (1)
 > **Speakers:** - [instructor] (1)
 
@@ -903,6 +904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (10), [[Search]] (1), next (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (1), scroll up (1), double-click (1)
 > **Definitions:** is a  (1)
@@ -1027,8 +1029,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (17), next (4), application (4), [[Troubleshooting]] (4), [[Microsoft Office|Office]] (2)
 > **UI Navigation:** open the (3), select the (2), navigate to (2), scroll down (1), right-click (1)
-> **Code Keywords:** function (1), this, (1), let (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** rtf (1)
@@ -1095,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (13), [[Windows]] (3), [[Microsoft]] (2), [[Hardware]] (2), web (1)
 > **Env Vars:** mpeg (1), avc (1), acc (1), temp (1)
 > **Analogies:** picture (2), such as (1)
 > **Warnings:** keep in mind (2), note that (1)
@@ -1199,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Windows]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), [[Troubleshooting]] (1)
 > **Env Vars:** pdf (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -1211,7 +1213,7 @@ created: 2026-04-29
 
 ### 3. Excel and Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Excel startup
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980)
@@ -1288,7 +1290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Troubleshooting]] (6), [[Windows]] (3), [[Microsoft Office|Office]] (2), next (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1375,9 +1377,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Search]] (2), next (2), [[Microsoft Office|Office]] (1), [[Windows]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** select the (1), open the (1)
-> **Code Keywords:** default. (1)
 > **Env Vars:** xls (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1460,7 +1462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (2), next (1), hit (1)
 > **Env Vars:** k50 (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
@@ -1524,7 +1526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Office|Office]] (3), next (2), feature (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1609,7 +1611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Office|Office]] (2), [[Troubleshooting]] (2), data (2), application (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1703,7 +1705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), throw (1)
+> **Frameworks & Libraries:** database (17), [[Databases]] (4), data (3), [[Troubleshooting]] (2), [[Microsoft]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** rule of thumb (1)
@@ -1712,7 +1714,7 @@ created: 2026-04-29
 
 ### 4. Teams and OneNote
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Teams audio and video
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980)
@@ -1763,9 +1765,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), business (2), [[IT Help Desk]] (2), [[Microsoft Office|Office]] (1)
 > **Prerequisites:** configure (2), install (1), setup (1), set up (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** usb (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
@@ -1883,7 +1885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), default, (2), for. (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[OneNote]] (12), [[Search]] (4), [[Microsoft Word|Word]] (3), data (1)
 > **UI Navigation:** select the (4), click on (2), dropdown (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2)
@@ -1989,7 +1991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), this. (2), delete (2), require (1)
+> **Frameworks & Libraries:** [[OneNote]] (7), [[Microsoft Office|Office]] (3), [[Microsoft]] (2), [[Troubleshooting]] (2), next (2)
 > **UI Navigation:** select the (2), click on (1), right-click (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** you'll need (2)
@@ -2000,7 +2002,7 @@ created: 2026-04-29
 
 ### 5. Visio
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Visio printing
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-printing?u=76281980)
@@ -2069,7 +2071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), match. (1), this, (1), case. (1), this. (1)
+> **Frameworks & Libraries:** [[Troubleshooting]] (2), next (1), hit (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** setup (2), configure (1), you'll need (1)
 > **UI Navigation:** select the (1)
@@ -2134,7 +2136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), protected (1), case, (1)
+> **Frameworks & Libraries:** [[Troubleshooting]] (1)
 > **UI Navigation:** right-click (1), select the (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -2177,7 +2179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), application (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2185,7 +2187,7 @@ created: 2026-04-29
 
 ### 6. OneDrive and SharePoint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OneDrive synchronization limits
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980)
@@ -2232,8 +2234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), [[Microsoft]] (2), business (2), [[SharePoint]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** icon (1), con (1), prn (1), aux (1), nul (1)
-> **Code Keywords:** this, (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2336,7 +2338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), for. (1), let (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (11), [[Search]] (6), [[Microsoft PowerPoint|Powerpoint]] (2), business (1), next (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -2455,7 +2457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), delete (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (18), [[Microsoft Office|Office]] (8), next (4), [[SharePoint]] (2), [[Microsoft]] (2)
 > **UI Navigation:** right-click (2)
 > **CLI Commands:** find (1)
 > **Warnings:** warning (1)
@@ -2531,7 +2533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3), new, (1), finally, (1), type. (1)
+> **Frameworks & Libraries:** [[SharePoint]] (12), [[Microsoft OneDrive|Onedrive]] (3), next (2), application (1), [[IT Help Desk]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2539,7 +2541,7 @@ created: 2026-04-29
 
 ### 7. Publisher
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Publisher mail merge
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-mail-merge?u=76281980)
@@ -2646,7 +2648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), this. (1), delete (1)
+> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -2717,7 +2719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (2), let (1), this, (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** go back to (1)
@@ -2727,7 +2729,7 @@ created: 2026-04-29
 
 ### 8. Outlook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Damaged Outlook data files
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980)
@@ -2898,7 +2900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), export. (3), from. (2), default. (1), export, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), data (4), [[Search]] (2), next (2), [[Windows]] (1)
 > **UI Navigation:** select the (2), open the (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is called (1)
@@ -2971,7 +2973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), [[Microsoft Office|Office]] (4), next (3), [[Windows]] (1), [[Security]] (1)
 > **UI Navigation:** select the (3)
 > **Cross-References:** earlier in (1)
 > **Warnings:** warning (1)
@@ -3023,8 +3025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ndr (3)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3032,7 +3034,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/next-steps?u=76281980)
@@ -3047,6 +3049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft]] (1), [[Troubleshooting]] (1), [[Microsoft Office]] (1)
 > **Speakers:** - [sharon (1)
 
 

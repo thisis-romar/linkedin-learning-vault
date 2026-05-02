@@ -53,7 +53,7 @@ tags:
   - skill/tech-career-skills
   - skill/technical-communication
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Effective%20Technical%20Communication.md)
@@ -72,32 +72,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Upgrade your technical communication
-  - What you should know
+  - [Upgrade your technical communication](#upgrade-your-technical-communication)
+  - [What you should know](#what-you-should-know)
 - [**1. Establish Standards**](#1-establish-standards) (7 videos)
-  - Why standards are needed
-  - Coding standards: Automation
-  - Coding standards: Performing reviews
-  - System processes: Managing projects
-  - System processes: Testing software
-  - People processes: Onboarding
-  - People processes: Mentoring
+  - [Why standards are needed](#why-standards-are-needed)
+  - [Coding standards: Automation](#coding-standards-automation)
+  - [Coding standards: Performing reviews](#coding-standards-performing-reviews)
+  - [System processes: Managing projects](#system-processes-managing-projects)
+  - [System processes: Testing software](#system-processes-testing-software)
+  - [People processes: Onboarding](#people-processes-onboarding)
+  - [People processes: Mentoring](#people-processes-mentoring)
 - [**2. Effective Meetings**](#2-effective-meetings) (5 videos)
-  - What makes a meeting effective
-  - Agile team meetings: Iteration planning
-  - Agile team meetings: Demo day
-  - Agile team meetings: Retrospectives
-  - Making one-on-ones work
+  - [What makes a meeting effective](#what-makes-a-meeting-effective)
+  - [Agile team meetings: Iteration planning](#agile-team-meetings-iteration-planning)
+  - [Agile team meetings: Demo day](#agile-team-meetings-demo-day)
+  - [Agile team meetings: Retrospectives](#agile-team-meetings-retrospectives)
+  - [Making one-on-ones work](#making-one-on-ones-work)
 - [**3. Handle Challenges to Communication**](#3-handle-challenges-to-communication) (3 videos)
-  - Communicating across cultures
-  - Communicating across time zones
-  - When something goes wrong
+  - [Communicating across cultures](#communicating-across-cultures)
+  - [Communicating across time zones](#communicating-across-time-zones)
+  - [When something goes wrong](#when-something-goes-wrong)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Upgrade your technical communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980)
@@ -126,8 +126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Software Development]] (1), career (1), [[Forms]] (1), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -153,13 +153,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Software Development]] (1), product (1), business (1), teams (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Establish Standards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why standards are needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980)
@@ -224,6 +225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (1), teams (1), [[Decision-Making]] (1), mobile application (1), data (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for instance (1)
@@ -305,7 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (2), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Automation]] (3), [[Code Review]] (2), next (1), [[Android]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1), just like (1), picture (1)
 > **Exercise Files:** template (2)
@@ -483,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), class. (2), catch. (1)
+> **Frameworks & Libraries:** [[Code Review]] (2), [[Slack]] (2), game (1), power (1), next (1)
 > **Speakers:** - okay (3), - during (1), - what (1), - that (1), - much (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** slack (2)
@@ -541,8 +543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), business (1), next (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - now (1)
@@ -630,7 +632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Software Development]] (2), data (1), next (1), teams (1)
 > **CLI Commands:** find (1), make (1)
 > **Ports:** :00 (1), :01 (1)
 > **Exercise Files:** template (2)
@@ -704,8 +706,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (1), hr (1), teams (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (3), finally, (1)
 > **Prerequisites:** set up (3)
 > **Documentation:** the docs (1)
 > **Exercise Files:** template (1)
@@ -785,13 +787,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), leadership (1), management (1), hit (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - many (1)
 
 
 ### 2. Effective Meetings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes a meeting effective
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980)
@@ -876,7 +879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1), require (1)
+> **Frameworks & Libraries:** power (3), next (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** power (3)
 > **Definitions:** is an  (1), stands for (1), is a  (1)
@@ -1013,8 +1016,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), [[Agile Development|Agile]] (3), product (3), next (2), [[Agile Software Development]] (1)
 > **Speakers:** - okay (7), - let (2), - i (2), - wait (1), - now (1)
-> **Code Keywords:** let (10), interface (1), new, (1), case, (1), finally, (1)
 > **Definitions:** known as (1), is an  (1), stands for (1), is a  (1)
 > **Env Vars:** ipm (3)
 > **CLI Commands:** make (1)
@@ -1085,9 +1088,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Agile Development|Agile]] (2), teams (2), database (1), product (1)
 > **CLI Commands:** make (2), rails (1), find (1)
 > **Env Vars:** ipm (1), ios (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1146,6 +1149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), data (3), teams (1), management (1), [[Scrum]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
@@ -1228,8 +1232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Best Practices:** you should never (1)
@@ -1238,7 +1242,7 @@ created: 2026-04-29
 
 ### 3. Handle Challenges to Communication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicating across cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-cultures?u=76281980)
@@ -1299,8 +1303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), teams (1), express (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** from. (1), finally, (1)
 > **Definitions:** known as (1), means that (1)
 > **Env Vars:** gif (1)
 > **Speakers:** - does (1)
@@ -1374,8 +1378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (2), [[Google]] (1), [[Confluence]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (2), this, (1)
 > **Tools:** slack (2), confluence (1)
 > **Speakers:** - when (1)
 
@@ -1510,8 +1514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (6), data (3), next (3), application (1), database (1)
 > **Speakers:** - well (4), - okay (3), - the (2), - great (2), - despite (1)
-> **Code Keywords:** let (4)
 > **Ports:** :00 (2), :30 (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** set up (1)
@@ -1519,7 +1523,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980)
@@ -1554,6 +1558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (1), power (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - communicating (1)
 

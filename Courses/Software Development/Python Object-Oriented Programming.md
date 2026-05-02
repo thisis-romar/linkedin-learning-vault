@@ -35,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/object-oriented-programming-oop
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Object-Oriented%20Programming.md)
@@ -54,43 +54,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Python object-oriented programming
-  - What you should know
-  - Setting up the development environment
-  - Using CoderPad
+  - [Python object-oriented programming](#python-object-oriented-programming)
+  - [What you should know](#what-you-should-know)
+  - [Setting up the development environment](#setting-up-the-development-environment)
+  - [Using CoderPad](#using-coderpad)
 - [**1. Object-Oriented Python**](#1-object-oriented-python) (6 videos)
-  - Object-oriented programming refresher
-  - Basic class definition
-  - Instance methods and attributes
-  - Checking instance types
-  - Class methods and members
-  - Solution: Stocks
+  - [Object-oriented programming refresher](#object-oriented-programming-refresher)
+  - [Basic class definition](#basic-class-definition)
+  - [Instance methods and attributes](#instance-methods-and-attributes)
+  - [Checking instance types](#checking-instance-types)
+  - [Class methods and members](#class-methods-and-members)
+  - [Solution: Stocks](#solution-stocks)
 - [**2. Inheritance and Composition**](#2-inheritance-and-composition) (6 videos)
-  - Understanding inheritance
-  - Abstract base classes
-  - Using multiple inheritance
-  - Interfaces
-  - Understanding composition
-  - Solution: Stocks and bonds
+  - [Understanding inheritance](#understanding-inheritance)
+  - [Abstract base classes](#abstract-base-classes)
+  - [Using multiple inheritance](#using-multiple-inheritance)
+  - [Interfaces](#interfaces)
+  - [Understanding composition](#understanding-composition)
+  - [Solution: Stocks and bonds](#solution-stocks-and-bonds)
 - [**3. "Magic" Object Methods**](#3-magic-object-methods) (6 videos)
-  - What are magic methods?
-  - String representation
-  - Equality and comparison
-  - Attribute access
-  - Callable objects
-  - Solution: Compare objects
+  - [What are magic methods?](#what-are-magic-methods)
+  - [String representation](#string-representation)
+  - [Equality and comparison](#equality-and-comparison)
+  - [Attribute access](#attribute-access)
+  - [Callable objects](#callable-objects)
+  - [Solution: Compare objects](#solution-compare-objects)
 - [**4. Data Classes**](#4-data-classes) (5 videos)
-  - Defining a data class
-  - Using post initialization
-  - Using default values
-  - Immutable data classes
-  - Solution: Data classes
+  - [Defining a data class](#defining-a-data-class)
+  - [Using post initialization](#using-post-initialization)
+  - [Using default values](#using-default-values)
+  - [Immutable data classes](#immutable-data-classes)
+  - [Solution: Data classes](#solution-data-classes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980)
@@ -121,8 +121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (2), power (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (6)
-> **Code Keywords:** abstract (1), let (1)
 > **Speakers:** - in (1)
 
 #### What you should know
@@ -164,6 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Programming]] (2), [[Microsoft]] (1), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** python (9)
 > **Tools:** visual studio (5), github (1)
 > **Analogies:** such as (3)
@@ -273,11 +274,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[GitHub]] (3), [[Search]] (3), [[Codespaces]] (1), prompt (1)
 > **CLI Commands:** python (8), make (5), find (1)
 > **Tools:** terminal (4), github (3), visual studio (2)
 > **Prerequisites:** set up (4), install (3), you'll need (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** this. (1), let (1)
 > **Versions:** version 3 (1), 3.10.8 (1)
 > **Exercise Files:** download the (1), zip file (1)
 > **Cross-References:** go back to (1)
@@ -343,8 +344,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **UI Navigation:** click on (4)
-> **Code Keywords:** case, (1), let (1), function (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
@@ -353,7 +354,7 @@ created: 2026-04-29
 
 ### 1. Object-Oriented Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented programming refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980)
@@ -410,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), implements (1), require (1), continue (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Representational State Transfer (REST)|Rest]] (3), oop (2)
 > **CLI Commands:** python (6)
 > **Definitions:** is a  (1), is an  (1), refers to (1)
 > **Env Vars:** oop (2)
@@ -523,7 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (5), self (5), class. (3), pass (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (4), data (2), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (9), make (2)
 > **Code Identifiers:** definition_start (2), def__init (1)
 > **Definitions:** is called (2), is a  (1)
@@ -691,7 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), self (9), function (9), class. (6), this. (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Java]] (1), feature (1)
 > **CLI Commands:** python (6), make (2)
 > **Tools:** terminal (6)
 > **Versions:** 29.95 (2), 39.95 (1), 0.25 (1), 22.46 (1)
@@ -773,7 +774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (6), this. (2), class. (2), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1), generic (1)
 > **Definitions:** is a  (8), is called (2), is an  (2)
 > **CLI Commands:** python (3)
 > **Code Identifiers:** typecheck_start (1)
@@ -923,7 +924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), static (7), class. (6), function (4), self (3)
+> **Frameworks & Libraries:** application (1), feature (1)
 > **Env Vars:** book_types (3), comic (2), paperback (2), hardcover (1), ebook (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** get_book_types (2), class_start (1), set_title (1)
@@ -973,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), override (1), this. (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ibm (2)
 > **Analogies:** for example (1)
@@ -983,7 +984,7 @@ created: 2026-04-29
 
 ### 2. Inheritance and Composition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980)
@@ -1104,7 +1105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (9), let (9), class. (3), function (3), self (2)
+> **Frameworks & Libraries:** data (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Tools:** terminal (3), notion (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1223,7 +1224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), abstract (7), function (3), self (3), implements (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
 > **Env Vars:** abc (4)
 > **Tools:** terminal (3)
 > **CLI Commands:** python (2)
@@ -1331,7 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), self (4), class. (3), super (3), from, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (2)
 > **CLI Commands:** python (4), make (2)
 > **Tools:** terminal (3)
 > **Definitions:** is called (1), is a  (1)
@@ -1419,7 +1420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (8), let (8), interface (3), function (3), class, (1)
+> **Frameworks & Libraries:** feature (3), [[JSON]] (3), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[Java]] (1)
 > **Code Identifiers:** tojson (5), calcarea (2), interface_start (1)
 > **CLI Commands:** make (5), python (2)
 > **Env Vars:** json (3)
@@ -1572,7 +1573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), self (7), class. (5), function (3), override (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), application (1)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1626,7 +1627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (6), let (2), class, (2), override (2), class. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** abc (2)
 > **Definitions:** means that (1)
@@ -1636,7 +1637,7 @@ created: 2026-04-29
 
 ### 3. "Magic" Object Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are magic methods?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-are-magic-methods?u=76281980)
@@ -1663,8 +1664,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Debugging]] (1), power (1)
 > **CLI Commands:** python (4), make (3)
-> **Code Keywords:** override (1), finally, (1), function (1)
 > **Analogies:** just like (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1745,7 +1746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (11), self (6), override (4), pass (1)
+> **Frameworks & Libraries:** [[Debugging]] (2), [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** python (1), make (1)
 > **Analogies:** for example (1)
@@ -1934,7 +1935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), self (5), raise (2), function (2), this. (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (2), next (1)
 > **CLI Commands:** python (4), make (3)
 > **Versions:** 39.95 (3), 29.5 (1), 29.95 (1), 24.95 (1)
 > **Tools:** terminal (6)
@@ -2096,7 +2097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), function (7), super (5), pass (2), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1)
 > **CLI Commands:** python (3), make (2), find (1)
 > **Tools:** terminal (5)
 > **Versions:** 38.95 (2), 35.005 (1)
@@ -2160,7 +2161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (4), override (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), feature (1), next (1), data (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** magiccall_start (1)
 > **Versions:** 49.95 (1)
@@ -2216,7 +2217,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2224,7 +2224,7 @@ created: 2026-04-29
 
 ### 4. Data Classes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a data class
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/defining-a-data-class?u=76281980)
@@ -2359,7 +2359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), class. (7), function (6), self (4), module (1)
+> **Frameworks & Libraries:** data (21), [[Python (Programming Language)|Python]] (8), feature (1), next (1)
 > **CLI Commands:** python (8), make (1)
 > **Versions:** 3.7 (2), python 3 (1)
 > **Tools:** terminal (3)
@@ -2397,7 +2397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), self (3), override (2), this, (1)
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** postinit_start (1)
 > **Analogies:** for example (1)
@@ -2507,7 +2507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (11), class. (2), this. (2), module (2)
+> **Frameworks & Libraries:** data (6)
 > **Tools:** terminal (4)
 > **Versions:** 10.0 (2), 0.0 (1)
 > **CLI Commands:** make (1)
@@ -2600,7 +2600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (5), self (1), pass (1)
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (5)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** in other words (1)
@@ -2651,7 +2651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (1), override (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -2660,7 +2660,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/next-steps?u=76281980)
@@ -2683,6 +2683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** python (4)
 > **Prerequisites:** required to (1)
 > **Speakers:** - all (1)

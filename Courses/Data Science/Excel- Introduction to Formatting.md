@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Introduction%20to%20Formatting.md)
@@ -47,36 +47,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Save time with effective Excel formatting
+  - [Save time with effective Excel formatting](#save-time-with-effective-excel-formatting)
 - [**1. Cell Formats**](#1-cell-formats) (4 videos)
-  - Formatting with fonts
-  - Cell fill and borders
-  - Alignment options and what to avoid
-  - Important number formats
+  - [Formatting with fonts](#formatting-with-fonts)
+  - [Cell fill and borders](#cell-fill-and-borders)
+  - [Alignment options and what to avoid](#alignment-options-and-what-to-avoid)
+  - [Important number formats](#important-number-formats)
 - [**2. Custom Formats**](#2-custom-formats) (6 videos)
-  - Custom number formats
-  - Scaling
-  - Date and time formats
-  - Symbols in formats
-  - Conditional color formats
-  - Leading and trailing characters
+  - [Custom number formats](#custom-number-formats)
+  - [Scaling](#scaling)
+  - [Date and time formats](#date-and-time-formats)
+  - [Symbols in formats](#symbols-in-formats)
+  - [Conditional color formats](#conditional-color-formats)
+  - [Leading and trailing characters](#leading-and-trailing-characters)
 - [**3. Cell Styles and Themes**](#3-cell-styles-and-themes) (3 videos)
-  - Default styles
-  - Custom styles
-  - Themes
+  - [Default styles](#default-styles)
+  - [Custom styles](#custom-styles)
+  - [Themes](#themes)
 - [**4. Conditional Formatting**](#4-conditional-formatting) (6 videos)
-  - Built-in rules
-  - Data bars
-  - Color scales
-  - Icons
-  - Conditional formatting formulas
-  - Manage rules
+  - [Built-in rules](#built-in-rules)
+  - [Data bars](#data-bars)
+  - [Color scales](#color-scales)
+  - [Icons](#icons)
+  - [Conditional formatting formulas](#conditional-formatting-formulas)
+  - [Manage rules](#manage-rules)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to learn more
+  - [Where to learn more](#where-to-learn-more)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Save time with effective Excel formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/save-time-with-effective-excel-formatting?u=76281980)
@@ -101,14 +101,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** mvp (1)
 
 
 ### 1. Cell Formats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Formatting with fonts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/formatting-with-fonts?u=76281980)
@@ -189,9 +189,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (2), [[Microsoft Excel|Excel]] (2), cloud (1)
 > **CLI Commands:** make (5), find (3)
 > **UI Navigation:** dropdown (4), click on (1), open the (1)
-> **Code Keywords:** let (2), yield (1)
 > **Env Vars:** rgb (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -323,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for. (1), type. (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** dropdown (3), click on (1)
 > **Env Vars:** vba (1), countif (1)
@@ -431,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default, (1), this; (1), break. (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), next (1), hit (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** select the (1), click on (1), dropdown (1)
 > **Analogies:** for example (2)
@@ -499,7 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), from. (1), delete (1), self (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), next (1)
 > **UI Navigation:** dropdown (3), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -510,7 +510,7 @@ created: 2026-04-29
 
 ### 2. Custom Formats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom number formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/custom-number-formats?u=76281980)
@@ -551,7 +551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -629,7 +629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (1), for. (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **UI Navigation:** select the (1), open the (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
@@ -725,9 +725,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this, (1), switch (1)
 > **Ports:** :00 (2)
 > **Versions:** 0.375 (2)
 > **UI Navigation:** open the (1), switch to (1)
@@ -831,8 +831,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** open the (1), select the (1)
 > **Warnings:** watch out (1), keep in mind (1)
 > **Best Practices:** don't forget (1)
@@ -926,7 +926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** next (2), data (1), [[Microsoft]] (1)
 > **UI Navigation:** open the (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -981,15 +981,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Forms]] (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** just like (1)
 
 
 ### 3. Cell Styles and Themes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Default styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980)
@@ -1056,9 +1056,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
@@ -1134,7 +1134,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **UI Navigation:** dropdown (2)
@@ -1251,8 +1250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (1)
 > **UI Navigation:** dropdown (3), click on (2)
-> **Code Keywords:** from. (1), this, (1), let (1), continue (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** rgb (1)
@@ -1260,7 +1259,7 @@ created: 2026-04-29
 
 ### 4. Conditional Formatting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/built-in-rules?u=76281980)
@@ -1339,7 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), default, (1), delete (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1403,7 +1402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from; (1)
+> **Frameworks & Libraries:** data (10)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
@@ -1473,7 +1472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (2), go to (1), open the (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1532,7 +1531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1)
+> **Frameworks & Libraries:** data (2), traffic (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
@@ -1619,7 +1618,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
 > **Env Vars:** false (4), true (1)
 > **UI Navigation:** click on (1), select the (1)
 > **Definitions:** is a  (2)
@@ -1713,14 +1711,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), feature (1)
 > **UI Navigation:** toggle (1)
 > **Prerequisites:** set up (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980)
@@ -1743,7 +1741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[LinkedIn]] (2)
 > **URLs:** [myonlinetraininghub.com](https://myonlinetraininghub.com) (1)
 
 

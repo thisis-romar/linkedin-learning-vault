@@ -51,7 +51,7 @@ tags:
   - skill/statistics
   - skill/probability
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistics%20Foundations%202-%20Probability.md)
@@ -70,34 +70,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The importance of probabilities
+  - [The importance of probabilities](#the-importance-of-probabilities)
 - [**1. Introduction to Probability**](#1-introduction-to-probability) (5 videos)
-  - Probability basics
-  - Examples of probability
-  - Permutations
-  - Combinations
-  - Percentiles
+  - [Probability basics](#probability-basics)
+  - [Examples of probability](#examples-of-probability)
+  - [Permutations](#permutations)
+  - [Combinations](#combinations)
+  - [Percentiles](#percentiles)
 - [**2. Multiple Event Probabilities**](#2-multiple-event-probabilities) (7 videos)
-  - Introduction to multiple events
-  - Probabilities of two events
-  - Conditional probabilities
-  - Probability trees
-  - Multiplication rule
-  - Using probability trees
-  - Bayes theorem
+  - [Introduction to multiple events](#introduction-to-multiple-events)
+  - [Probabilities of two events](#probabilities-of-two-events)
+  - [Conditional probabilities](#conditional-probabilities)
+  - [Probability trees](#probability-trees)
+  - [Multiplication rule](#multiplication-rule)
+  - [Using probability trees](#using-probability-trees)
+  - [Bayes theorem](#bayes-theorem)
 - [**3. Discrete and Continuous Probabilities**](#3-discrete-and-continuous-probabilities) (6 videos)
-  - Discrete vs. continuous
-  - Discrete mean
-  - Binomials
-  - Normal curve
-  - Bell-shaped curve
-  - Z transformation
+  - [Discrete vs. continuous](#discrete-vs-continuous)
+  - [Discrete mean](#discrete-mean)
+  - [Binomials](#binomials)
+  - [Normal curve](#normal-curve)
+  - [Bell-shaped curve](#bell-shaped-curve)
+  - [Z transformation](#z-transformation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of probabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980)
@@ -142,15 +142,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (10), data (1), [[Statistics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - gamblers (1)
 
 
 ### 1. Introduction to Probability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980)
@@ -231,11 +231,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (18), data (2), [[Statistics]] (2), next (1), game (1)
 > **Env Vars:** ceo (4)
 > **CLI Commands:** make (3)
 > **Versions:** 0.50 (1), 0.077 (1), 7.7 (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** throw (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - whenever (1)
@@ -297,7 +297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Probability]] (8), [[Forms]] (1), data (1), business (1)
 > **Analogies:** for example (2)
 > **Speakers:** - probabilities (1)
 
@@ -386,7 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2)
+> **Frameworks & Libraries:** [[Probability]] (2)
 > **Definitions:** we call this (1), means that (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -461,7 +461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), case, (1), class, (1)
+> **Frameworks & Libraries:** teams (4), [[Probability]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Versions:** 9.1 (1)
@@ -558,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), class. (1)
+> **Frameworks & Libraries:** data (2), next (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** gre (1), gmat (1), lsat (1), mcat (1)
 > **Versions:** 32.5 (1), 97.5 (1)
 > **Definitions:** in other words (1)
@@ -568,7 +568,7 @@ created: 2026-04-29
 
 ### 2. Multiple Event Probabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to multiple events
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980)
@@ -621,8 +621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (9), game (1), [[Statistics]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - heads (1)
 
 #### Probabilities of two events
@@ -728,7 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Probability]] (2), game (1)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Versions:** 30.56 (1)
 > **Speakers:** - sometimes (1)
@@ -780,7 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Probability]] (8), [[Microsoft Office|Office]] (1), [[Statistics]] (1)
 > **Versions:** 6.67 (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** find (1)
@@ -874,7 +874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Probability]] (14), next (2), data (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - when (1)
@@ -944,8 +944,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (9)
 > **Versions:** 16.7 (4), 2.79 (2), 6.6 (1)
-> **Code Keywords:** let (6)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - earlier (1)
@@ -1053,8 +1053,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (4), next (1), [[Statistics]] (1)
 > **Versions:** 0.0001 (1), 0.9999 (1), 0.98 (1), 0.02 (1), 0.000099 (1)
-> **Code Keywords:** let (4), this, (1), finally, (1)
 > **Definitions:** in other words (1), means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - disease (1)
@@ -1156,7 +1156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (8), [[Probability]] (8), business (1)
 > **Versions:** 3.8 (3), 0.038 (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1165,7 +1165,7 @@ created: 2026-04-29
 
 ### 3. Discrete and Continuous Probabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discrete vs. continuous
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980)
@@ -1250,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), require (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Microsoft Word|Word]] (1), next (1), data (1)
 > **Versions:** 0.58 (1), 2.35 (1), 4.777 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - for (1)
@@ -1378,9 +1378,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (5), data (2), [[Microsoft Products|Products]] (2), next (1), [[Statistics]] (1)
 > **Versions:** 1.68 (5), 1.03 (4), 0.025 (2), 0.55 (2), 1.07 (2)
 > **CLI Commands:** find (5)
-> **Code Keywords:** let (3), this, (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1491,9 +1491,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (8), [[Calculus]] (1)
 > **Versions:** 0.8 (2), 12.8 (2), 0.20 (2), 0.50 (2), 0.5 (1)
 > **Definitions:** is a  (3), we call this (1), in other words (1)
-> **Code Keywords:** let (2), case. (1), finally, (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - when (1)
 
@@ -1572,7 +1572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Probability]] (14), [[Security]] (5), data (1), [[Calculus]] (1)
 > **Versions:** 1.0 (2), 12.5 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - discrete (1)
@@ -1656,9 +1656,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Probability]] (2), [[Statistics]] (1)
 > **Definitions:** is a  (2), in other words (1), means that (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** extends (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - three (1)
 
@@ -1749,9 +1749,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (6), data (3)
 > **Versions:** 1.98 (5), 0.65 (4), 0.7422 (3), 0.08 (2), 0.78 (2)
 > **CLI Commands:** find (7)
-> **Code Keywords:** let (2), this, (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** means that (1)
@@ -1760,7 +1760,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980)
@@ -1783,7 +1783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Probability]] (3), data (3), [[Statistics]] (2), next (1)
 > **Speakers:** - thank (1)
 
 

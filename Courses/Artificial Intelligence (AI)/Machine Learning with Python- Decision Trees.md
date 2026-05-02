@@ -41,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20Decision%20Trees.md)
@@ -60,31 +60,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Making decisions with Python
-  - What you should know
-  - The tools you need
-  - Using the exercise files
+  - [Making decisions with Python](#making-decisions-with-python)
+  - [What you should know](#what-you-should-know)
+  - [The tools you need](#the-tools-you-need)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Decision Trees**](#1-decision-trees) (6 videos)
-  - What is a decision tree?
-  - How is a classification tree built?
-  - How do classification trees measure impurity?
-  - How is a regression tree built?
-  - How to prune a decision tree
-  - Why and when to use a decision tree
+  - [What is a decision tree?](#what-is-a-decision-tree)
+  - [How is a classification tree built?](#how-is-a-classification-tree-built)
+  - [How do classification trees measure impurity?](#how-do-classification-trees-measure-impurity)
+  - [How is a regression tree built?](#how-is-a-regression-tree-built)
+  - [How to prune a decision tree](#how-to-prune-a-decision-tree)
+  - [Why and when to use a decision tree](#why-and-when-to-use-a-decision-tree)
 - [**2. Working with Classification Trees**](#2-working-with-classification-trees) (3 videos)
-  - How to build a classification tree in Python
-  - How to visualize a classification tree in Python
-  - How to prune a classification tree in Python
+  - [How to build a classification tree in Python](#how-to-build-a-classification-tree-in-python)
+  - [How to visualize a classification tree in Python](#how-to-visualize-a-classification-tree-in-python)
+  - [How to prune a classification tree in Python](#how-to-prune-a-classification-tree-in-python)
 - [**3. Working with Regression Trees**](#3-working-with-regression-trees) (3 videos)
-  - How to build a regression tree in Python
-  - How to visualize a regression tree in Python
-  - How to prune a regression tree in Python
+  - [How to build a regression tree in Python](#how-to-build-a-regression-tree-in-python)
+  - [How to visualize a regression tree in Python](#how-to-visualize-a-regression-tree-in-python)
+  - [How to prune a regression tree in Python](#how-to-prune-a-regression-tree-in-python)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with decision trees
+  - [Next steps with decision trees](#next-steps-with-decision-trees)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making decisions with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980)
@@ -113,8 +113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision Trees]] (3), data (1), ai (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [fred] (1)
 
 #### What you should know
@@ -142,8 +142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), next (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -176,12 +176,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), open-source (1)
 > **CLI Commands:** python (6), make (2)
 > **Tools:** jupyter (3), anaconda (3)
 > **Versions:** python 3 (4), python 2 (1)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** interface (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [man] (1)
 
@@ -230,7 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), while, (1)
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (2), navigate to (1), go to (1)
 > **Tools:** anaconda (2), jupyter (1)
 > **Exercise Files:** exercise files (3)
@@ -242,7 +242,7 @@ created: 2026-04-29
 
 ### 1. Decision Trees
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a decision tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-is-a-decision-tree?u=76281980)
@@ -321,10 +321,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), [[Decision Trees]] (5), next (1)
 > **CLI Commands:** node (8)
 > **Definitions:** is a  (4), is called (2), means that (1), known as (1)
 > **Analogies:** such as (2), just like (1), for example (1), imagine (1)
-> **Code Keywords:** let (4)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
@@ -425,7 +425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (3), let (2), continue (2), class. (1), default, (1)
+> **Frameworks & Libraries:** data (9), node (4), parallel (3), next (1), [[Algorithms]] (1)
 > **CLI Commands:** node (4), find (2), make (1)
 > **Definitions:** known as (1), is a  (1), in other words (1)
 > **Analogies:** imagine (1), for instance (1)
@@ -539,9 +539,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (1), [[Decision Trees]] (1), next (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 0.53 (3), 0.47 (3), 0.967 (3), 0.997 (2), 0.986 (2)
 > **Definitions:** is a  (4), known as (2)
-> **Code Keywords:** let (2), class. (2)
 > **Analogies:** similar to (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cart (1)
@@ -632,10 +632,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Algorithms]] (1), node (1), next (1)
 > **Env Vars:** ssr (12)
 > **Versions:** 27.5 (2), 16.8 (1), 43.9 (1), 50.4 (1), 635.2 (1)
 > **Definitions:** is a  (3), known as (1)
-> **Code Keywords:** let (2), continue (1)
 > **Analogies:** similar to (1), imagine (1), such as (1)
 > **CLI Commands:** node (1)
 > **Warnings:** note that (1)
@@ -750,8 +750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), product (1)
 > **Definitions:** means that (5), known as (4), is a  (4)
-> **Code Keywords:** this. (2), let (1), continue (1), this, (1)
 > **Env Vars:** ssr (4)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** find (1)
@@ -823,16 +823,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision Trees]] (16), data (12), strengths (2), feature (2), business (1)
 > **Definitions:** means that (3), in other words (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [man] (1)
 
 
 ### 2. Working with Classification Trees
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to build a classification tree in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980)
@@ -941,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (2), finally, (2), default. (1), function (1)
+> **Frameworks & Libraries:** data (29), next (4), [[Statistics]] (2), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Warnings:** note that (3)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (2)
@@ -1036,7 +1036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (3), pass (1), class. (1), default. (1)
+> **Frameworks & Libraries:** node (7), next (3), data (1), [[Decision Trees]] (1), feature (1)
 > **CLI Commands:** node (7), make (1)
 > **Code Identifiers:** feature_importance (3), figure_method (1), plot_tree (1)
 > **Definitions:** is a  (2), means that (2), known as (1)
@@ -1150,7 +1150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (5), finally, (1)
+> **Frameworks & Libraries:** data (16), next (2), [[Search]] (2), [[Decision Trees]] (1), node (1)
 > **Definitions:** known as (3), is a  (2), means that (1)
 > **Env Vars:** gcv (3)
 > **CLI Commands:** node (1), find (1)
@@ -1160,7 +1160,7 @@ created: 2026-04-29
 
 ### 3. Working with Regression Trees
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to build a regression tree in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980)
@@ -1297,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), finally, (2), pass (2), class. (1)
+> **Frameworks & Libraries:** data (34), next (5), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** y_test_pred (2), y_test (1)
 > **Versions:** 16.8 (1), 0.6 (1), 58.5 (1)
 > **CLI Commands:** make (1), python (1)
@@ -1405,7 +1405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), pass (1), finally, (1)
+> **Frameworks & Libraries:** feature (6), node (5), data (3), next (2), [[Decision Trees]] (1)
 > **CLI Commands:** node (5), make (2)
 > **Definitions:** is a  (1), in other words (1), known as (1)
 > **Analogies:** for example (2)
@@ -1529,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (2), finally, (2), from . (2), this, (1)
+> **Frameworks & Libraries:** data (18), [[Python (Programming Language)|Python]] (1), [[Decision Trees]] (1), node (1), next (1)
 > **Definitions:** known as (4), means that (1)
 > **CLI Commands:** python (1), node (1)
 > **Code Identifiers:** ccp_alpha (2)
@@ -1541,7 +1541,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with decision trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980)
@@ -1584,8 +1584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[Decision Trees]] (2), next (2), [[Ethics]] (2)
 > **CLI Commands:** python (4), find (2)
-> **Code Keywords:** continue (3), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)

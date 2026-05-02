@@ -24,7 +24,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics%20Foundations-%20Descriptive%2C%20Exploratory%2C%20and%20Explanatory%20Analytics.md)
@@ -43,38 +43,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Getting started with business analytics
-  - What is business analytics (BA)?
-  - Business analytics compared
-  - Stages of business analytics
-  - Business analytics process
-  - Course use cases
+  - [Getting started with business analytics](#getting-started-with-business-analytics)
+  - [What is business analytics (BA)?](#what-is-business-analytics-ba)
+  - [Business analytics compared](#business-analytics-compared)
+  - [Stages of business analytics](#stages-of-business-analytics)
+  - [Business analytics process](#business-analytics-process)
+  - [Course use cases](#course-use-cases)
 - [**1. Descriptive Analytics (DEA)**](#1-descriptive-analytics-dea) (4 videos)
-  - DEA definition
-  - DEA tools and techniques
-  - DEA use case
-  - DEA best practices
+  - [DEA definition](#dea-definition)
+  - [DEA tools and techniques](#dea-tools-and-techniques)
+  - [DEA use case](#dea-use-case)
+  - [DEA best practices](#dea-best-practices)
 - [**2. Exploratory Analytics (EDA)**](#2-exploratory-analytics-eda) (4 videos)
-  - EDA definition
-  - EDA tools and techniques
-  - EDA use case
-  - EDA best practices
+  - [EDA definition](#eda-definition)
+  - [EDA tools and techniques](#eda-tools-and-techniques)
+  - [EDA use case](#eda-use-case)
+  - [EDA best practices](#eda-best-practices)
 - [**3. Explanatory Analytics (EPA)**](#3-explanatory-analytics-epa) (4 videos)
-  - EPA definition
-  - EPA tools and techniques
-  - EPA use case
-  - EPA best practices
+  - [EPA definition](#epa-definition)
+  - [EPA tools and techniques](#epa-tools-and-techniques)
+  - [EPA use case](#epa-use-case)
+  - [EPA best practices](#epa-best-practices)
 - [**4. Emerging Trends in Business Analytics**](#4-emerging-trends-in-business-analytics) (4 videos)
-  - Advanced visualizations
-  - Data discovery
-  - Augmented analytics
-  - Generative AI
+  - [Advanced visualizations](#advanced-visualizations)
+  - [Data discovery](#data-discovery)
+  - [Augmented analytics](#augmented-analytics)
+  - [Generative AI](#generative-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with business analytics
+  - [Continuing on with business analytics](#continuing-on-with-business-analytics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with business analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/getting-started-with-business-analytics?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Analytics]] (8), business (6)
 > **Definitions:** is an  (1)
 > **Speakers:** - [kumaran] (1)
 
@@ -134,6 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11), [[Analytics]] (6), data (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -184,7 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (11), [[Analytics]] (8), business (7), [[Data Engineering]] (4), [[Business Intelligence (BI)|Business intelligence]] (3)
 > **CLI Commands:** find (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
@@ -234,7 +235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Analytics]] (9), business (5), data (2), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -273,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (17), [[Analytics]] (4), business (3), [[Databases]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -324,14 +325,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), finally, (1)
+> **Frameworks & Libraries:** data (9), product (3), business (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Descriptive Analytics (DEA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DEA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980)
@@ -374,6 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (6), data (3), business (2), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** csv (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -427,6 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Analytics]] (2), data (2), next (2), [[SQL]] (1)
 > **Env Vars:** sql (1), group (1)
 > **Definitions:** is an  (1), is a  (1)
 > **SQL:** group by (1)
@@ -489,7 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), finally, (1)
+> **Frameworks & Libraries:** product (6), [[Analytics]] (4), [[Microsoft Products|Products]] (1), next (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** hdmi (1)
@@ -534,13 +537,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Analytics]] (2), business (2), product (1), [[Dashboards]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Exploratory Analytics (EDA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### EDA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-definition-14209449?u=76281980)
@@ -601,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** data (11), [[Analytics]] (9), business (2), [[Dashboards]] (1), [[SQL]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
@@ -664,7 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), finally, (1)
+> **Frameworks & Libraries:** data (12), [[Statistics]] (3), [[Analytics]] (2)
 > **Definitions:** is called (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -720,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (3), next (2), [[Microsoft Products|Products]] (2), product (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** usb (1)
 > **Cross-References:** in the next (1)
@@ -762,14 +765,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** data (2), [[Analytics]] (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - what (1)
 
 
 ### 3. Explanatory Analytics (EPA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### EPA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-definition-14207879?u=76281980)
@@ -816,8 +819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (9), data (6), business (4), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -860,7 +863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Analytics]] (4), data (4), [[Soft Skills]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -931,7 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Analytics]] (2), management (1), data (1), product (1)
 > **Versions:** 14.7 (2), 11.6 (1), 19.3 (1), 19.1 (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
@@ -976,14 +979,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), data (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Emerging Trends in Business Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced visualizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980)
@@ -1030,8 +1033,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (2), [[Dashboards]] (2), business (1), parallel (1), data (1)
 > **Best Practices:** recommended (1), good practice (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Data discovery
@@ -1077,6 +1080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Analytics]] (3), business (2), [[Dashboards]] (2), [[Storytelling]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
@@ -1114,7 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[Analytics]] (9), [[Automation]] (3), business (1), [[Databases]] (1)
 > **Env Vars:** nlp (1), nlg (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1158,13 +1162,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Generative AI]] (4), business (4), [[Analytics]] (3), power (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with business analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980)
@@ -1191,8 +1196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Analytics]] (3), data (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kumaran] (1)
 

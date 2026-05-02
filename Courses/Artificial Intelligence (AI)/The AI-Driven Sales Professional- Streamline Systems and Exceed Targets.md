@@ -30,7 +30,7 @@ tags:
   - skill/sales
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20AI-Driven%20Sales%20Professional-%20Streamline%20Systems%20and%20Exceed%20Targets.md)
@@ -49,23 +49,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How AI is transforming sales
+  - [How AI is transforming sales](#how-ai-is-transforming-sales)
 - [**1. AI Tips for Sales**](#1-ai-tips-for-sales) (10 videos)
-  - What AI can (and cannot) replace in sales
-  - Use AI in lead generation
-  - Efficient and effective pre-call planning
-  - Build authentic relationships
-  - Stand out from competitors
-  - Craft presentations and proposals
-  - Turn rejections into relationships
-  - Risks of using AI in sales
-  - Create thought leadership
-  - Upskill yourself
+  - [What AI can (and cannot) replace in sales](#what-ai-can-and-cannot-replace-in-sales)
+  - [Use AI in lead generation](#use-ai-in-lead-generation)
+  - [Efficient and effective pre-call planning](#efficient-and-effective-pre-call-planning)
+  - [Build authentic relationships](#build-authentic-relationships)
+  - [Stand out from competitors](#stand-out-from-competitors)
+  - [Craft presentations and proposals](#craft-presentations-and-proposals)
+  - [Turn rejections into relationships](#turn-rejections-into-relationships)
+  - [Risks of using AI in sales](#risks-of-using-ai-in-sales)
+  - [Create thought leadership](#create-thought-leadership)
+  - [Upskill yourself](#upskill-yourself)
 - [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How AI is transforming sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/how-ai-is-transforming-sales?u=76281980)
@@ -88,15 +88,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), teams (1), hit (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - a (1)
 
 
 ### 1. AI Tips for Sales
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What AI can (and cannot) replace in sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/what-ai-can-and-cannot-replace-in-sales?u=76281980)
@@ -201,9 +201,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), prompt (3), business (2), chatbot (1), leadership (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), imagine (1), such as (1)
-> **Code Keywords:** let (2), require (1)
 > **Code Identifiers:** esignatures (1)
 > **Env Vars:** svp (1)
 > **Definitions:** is a  (1)
@@ -313,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), public (1)
+> **Frameworks & Libraries:** ai (7), data (4), [[Lead Generation]] (3), prompt (3), [[LinkedIn]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** clv (2), ipc (1)
 > **Analogies:** such as (2)
@@ -401,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (1), for, (1)
+> **Frameworks & Libraries:** prompt (4), leadership (3), ai (3), [[Microsoft Office|Office]] (2), product (2)
 > **Env Vars:** ceo (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -495,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (1), this, (1), public (1), for, (1)
+> **Frameworks & Libraries:** ai (9), data (2), [[Business Development]] (1), generic (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** tmt (1)
 > **Speakers:** - [instructor] (1)
@@ -587,7 +587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
+> **Frameworks & Libraries:** ai (7), business (2), [[Cybersecurity]] (2), feature (1), next (1)
 > **Cross-References:** in the last (1), we talked about (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -680,8 +680,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), prompt (3), business (2), [[Zoom]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** let (1), raise (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -750,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), this. (1), switch (1)
+> **Frameworks & Libraries:** ai (7), next (2), [[ChatGPT]] (1), prompt (1), generic (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** crm (1), cta (1)
 > **UI Navigation:** switch to (1)
@@ -834,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** ai (8), game (4), product (3), [[Financial Planning]] (2), [[Sales Effectiveness]] (1)
 > **Env Vars:** ira (2)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -926,9 +926,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Thought Leadership]] (5), prompt (3), [[Lead Generation]] (1), next (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** this, (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
@@ -993,8 +993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (2), prompt (2), next (2), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** private (1), this: (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - you (1)
@@ -1002,7 +1002,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

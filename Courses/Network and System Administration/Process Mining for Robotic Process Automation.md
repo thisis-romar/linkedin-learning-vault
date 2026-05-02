@@ -35,7 +35,7 @@ tags:
   - skill/robotic-process-automation-rpa
   - skill/process-mining
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Process%20Mining%20for%20Robotic%20Process%20Automation.md)
@@ -54,34 +54,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course overview and benefits
+  - [Course overview and benefits](#course-overview-and-benefits)
 - [**1. Introduction to Process Mining**](#1-introduction-to-process-mining) (3 videos)
-  - Defining process mining
-  - The value of process mining
-  - Achieving process maturity
+  - [Defining process mining](#defining-process-mining)
+  - [The value of process mining](#the-value-of-process-mining)
+  - [Achieving process maturity](#achieving-process-maturity)
 - [**2. Process Capture**](#2-process-capture) (3 videos)
-  - What is process capture?
-  - Event log capture
-  - Task capture
+  - [What is process capture?](#what-is-process-capture)
+  - [Event log capture](#event-log-capture)
+  - [Task capture](#task-capture)
 - [**3. Process Exploration**](#3-process-exploration) (6 videos)
-  - Building a business case
-  - Task mining
-  - Identifying deviations and variations
-  - Conformance checking
-  - Filters and layers
-  - Machine learning and other intelligent features
+  - [Building a business case](#building-a-business-case)
+  - [Task mining](#task-mining)
+  - [Identifying deviations and variations](#identifying-deviations-and-variations)
+  - [Conformance checking](#conformance-checking)
+  - [Filters and layers](#filters-and-layers)
+  - [Machine learning and other intelligent features](#machine-learning-and-other-intelligent-features)
 - [**4. Process Development**](#4-process-development) (2 videos)
-  - Optimizing and redesigning processes
-  - Using robotic process automation
+  - [Optimizing and redesigning processes](#optimizing-and-redesigning-processes)
+  - [Using robotic process automation](#using-robotic-process-automation)
 - [**5. Process Oversight**](#5-process-oversight) (2 videos)
-  - Outcome measurement and auditing
-  - Runtime monitoring
+  - [Outcome measurement and auditing](#outcome-measurement-and-auditing)
+  - [Runtime monitoring](#runtime-monitoring)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course takeaways
+  - [Course takeaways](#course-takeaways)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview and benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-overview-and-benefits?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Process Mining]] (3), career (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Process Mining
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining process mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/defining-process-mining?u=76281980)
@@ -178,8 +178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Process Mining]] (13), data (6)
 > **Definitions:** is a  (1), known as (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - before (1)
@@ -213,6 +213,10 @@ created: 2026-04-29
 >
 > **[1:15](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=75)** In essence, process mining has evolved from an analytical flashlight to an operational nervous system, one that feeds and guides both human decision-makers and AI systems alike.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** data (4), [[Process Mining]] (3), ai (3), [[Automation]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+
 #### Achieving process maturity
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/achieving-process-maturity?u=76281980)
 
@@ -240,14 +244,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** assert (1)
+> **Frameworks & Libraries:** [[Process Mining]] (4), data (1)
 > **Definitions:** means that (1)
 > **Speakers:** - discovering (1)
 
 
 ### 2. Process Capture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is process capture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/what-is-process-capture?u=76281980)
@@ -274,8 +278,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Process Mining]] (2), data (2), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 > **Analogies:** picture (1)
 > **Speakers:** - as (1)
@@ -319,6 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Process Mining]] (3), application (2), data (2), [[Algorithms]] (2), [[Enterprise Software]] (2)
 > **Analogies:** picture (1), such as (1)
 > **Env Vars:** sap (1)
 > **Speakers:** - event (1)
@@ -350,13 +355,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** ai (3), [[Automation]] (2), [[Computer Vision]] (1), data (1), [[Orchestration]] (1)
 > **Definitions:** is a  (1)
 
 
 ### 3. Process Exploration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/building-a-business-case?u=76281980)
@@ -385,6 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), data (2), [[Process Mining]] (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Cross-References:** we discussed (1)
@@ -414,6 +420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), feature (1), data (1), [[Automation]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
 
@@ -444,6 +451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), next (1), data (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), in other words (1)
 > **Speakers:** - the (1)
@@ -477,6 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), next (1), hit (1), [[Process Mining]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -518,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** product (4), [[Process Mining]] (3), [[Technical Support]] (3), [[Microsoft Excel]] (1), data (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - if (1)
@@ -550,14 +559,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Algorithms]] (1), [[Generative AI]] (1), [[Automation]] (1), [[Simulation]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** static (1)
 > **Analogies:** for example (1)
 
 
 ### 4. Process Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing and redesigning processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/optimizing-and-redesigning-processes-30321097?u=76281980)
@@ -584,6 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Process Mining]] (2), data (2), [[Engineering]] (1), next (1)
 > **Env Vars:** roi (1)
 
 #### Using robotic process automation
@@ -617,14 +627,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (5), data (4), ai (3), rpa (2), [[Process Mining]] (2)
 > **Env Vars:** rpa (2)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** require (1)
 
 
 ### 5. Process Oversight
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Outcome measurement and auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/outcome-measurement-and-auditing?u=76281980)
@@ -657,6 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Process Mining]] (2), data (1), feature (1), next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
@@ -686,12 +697,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** ai (3), data (2), [[Real-Time]] (2), [[Process Mining]] (1), business (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980)
@@ -712,6 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Process Mining]] (3), [[Digital Transformation]] (1), career (1)
 > **Speakers:** - congratulations (1)
 
 

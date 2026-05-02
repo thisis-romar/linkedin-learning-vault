@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-gemini
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Programming%20with%20the%20Gemini%20Flash%20API.md)
@@ -53,16 +53,16 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - An affordable, multimodal, low latency, large context model
+  - [An affordable, multimodal, low latency, large context model](#an-affordable-multimodal-low-latency-large-context-model)
 - [**1. Programming with the Gemini Flash API**](#1-programming-with-the-gemini-flash-api) (4 videos)
-  - The technology behind Gemini Flash
-  - Testing the model in Google AI Studio
-  - Large context windows with the Gemini API
-  - Building apps with the API
+  - [The technology behind Gemini Flash](#the-technology-behind-gemini-flash)
+  - [Testing the model in Google AI Studio](#testing-the-model-in-google-ai-studio)
+  - [Large context windows with the Gemini API](#large-context-windows-with-the-gemini-api)
+  - [Building apps with the API](#building-apps-with-the-api)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An affordable, multimodal, low latency, large context model
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980)
@@ -95,7 +95,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** api (2), [[Gemini]] (2), [[Google Gemini]] (1), prompt (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
 > **Versions:** 1.5 (1)
@@ -105,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Programming with the Gemini Flash API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The technology behind Gemini Flash
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980)
@@ -184,8 +184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (14), [[Google]] (5), [[Gemini]] (4), api (2), ai (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** api (2), gpt (1)
 > **Versions:** 1.05 (1), 2.10 (1)
 > **Definitions:** means that (1), is a  (1)
@@ -296,7 +296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (1), switch (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** prompt (8), ai (7), hit (5), [[Gemini]] (3), [[Google]] (2)
 > **CLI Commands:** make (2), find (1), python (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **Env Vars:** json (1)
@@ -420,7 +420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (2), delete (1), switch (1), else. (1)
+> **Frameworks & Libraries:** prompt (6), [[Gemini]] (4), hit (3), [[Google Drive]] (2), [[Tokens]] (2)
 > **Versions:** 1.5 (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -540,8 +540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (9), api (8), [[Python (Programming Language)|Python]] (5), next (4), ai (3)
 > **CLI Commands:** make (10), python (5), git (1), pip (1)
-> **Code Keywords:** let (4), pass (3), finally, (2), this. (1), else, (1)
 > **Env Vars:** api (8), mime (1), img (1), html (1)
 > **Code Identifiers:** load_images (2), alt_tags (1), load_image (1), relative_path (1)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)

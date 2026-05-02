@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Practice-%20Collections.md)
@@ -47,21 +47,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Try your Python programming skills
-  - What you should know
-  - Exploring the Lab environment
+  - [Try your Python programming skills](#try-your-python-programming-skills)
+  - [What you should know](#what-you-should-know)
+  - [Exploring the Lab environment](#exploring-the-lab-environment)
 - [**1. Code Challenges**](#1-code-challenges) (5 videos)
-  - Solution: Deduplicate and sort a list
-  - Solution: Modify a tuple
-  - Solution: At the bakery
-  - Solution: Who won?
-  - Solution: What's that taste like?
+  - [Solution: Deduplicate and sort a list](#solution-deduplicate-and-sort-a-list)
+  - [Solution: Modify a tuple](#solution-modify-a-tuple)
+  - [Solution: At the bakery](#solution-at-the-bakery)
+  - [Solution: Who won?](#solution-who-won)
+  - [Solution: What's that taste like?](#solution-whats-that-taste-like)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try your Python programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980)
@@ -88,8 +88,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (2), [[Programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### What you should know
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), next (1)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
@@ -175,14 +176,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Code Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Deduplicate and sort a list
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/solution-1-deduplicate-and-sort-a-list?u=76281980)
@@ -219,7 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1)
@@ -264,7 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -319,7 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), for. (1), continue (1), switch (1), return. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [speaker] (1)
 
 #### Solution: Who won?
@@ -353,7 +354,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), function (1), return, (1), for. (1), let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -392,14 +392,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), this, (1)
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/next-steps?u=76281980)
@@ -416,6 +416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [scott] (1)
 

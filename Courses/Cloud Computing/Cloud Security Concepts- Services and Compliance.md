@@ -37,7 +37,7 @@ tags:
   - skill/cloud-security
   - skill/it-compliance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Security%20Concepts-%20Services%20and%20Compliance.md)
@@ -56,48 +56,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to cloud security
-  - What you should know
+  - [Introduction to cloud security](#introduction-to-cloud-security)
+  - [What you should know](#what-you-should-know)
 - [**1. Cloud Security Basics**](#1-cloud-security-basics) (10 videos)
-  - Business case for cloud security
-  - Breach scenarios and attack vectors
-  - Infrastructure-level cloud security
-  - Application-level cloud security
-  - Data-level cloud security
-  - Rise of identity and access management
-  - Compliance and security
-  - AI-related cloud security issues
-  - Challenge: Create a cloud security business case for ABC Corp
-  - Solution: Create a cloud security business case for ABC Corp
+  - [Business case for cloud security](#business-case-for-cloud-security)
+  - [Breach scenarios and attack vectors](#breach-scenarios-and-attack-vectors)
+  - [Infrastructure-level cloud security](#infrastructure-level-cloud-security)
+  - [Application-level cloud security](#application-level-cloud-security)
+  - [Data-level cloud security](#data-level-cloud-security)
+  - [Rise of identity and access management](#rise-of-identity-and-access-management)
+  - [Compliance and security](#compliance-and-security)
+  - [AI-related cloud security issues](#ai-related-cloud-security-issues)
+  - [Challenge: Create a cloud security business case for ABC Corp](#challenge-create-a-cloud-security-business-case-for-abc-corp)
+  - [Solution: Create a cloud security business case for ABC Corp](#solution-create-a-cloud-security-business-case-for-abc-corp)
 - [**2. Cloud Security Services**](#2-cloud-security-services) (8 videos)
-  - AWS cloud security services
-  - Microsoft Cloud security services
-  - Third-party cloud security services
-  - Cloud encryption services
-  - Encryption at rest
-  - Encryption in flight
-  - Security as code
-  - Security management services
+  - [AWS cloud security services](#aws-cloud-security-services)
+  - [Microsoft Cloud security services](#microsoft-cloud-security-services)
+  - [Third-party cloud security services](#third-party-cloud-security-services)
+  - [Cloud encryption services](#cloud-encryption-services)
+  - [Encryption at rest](#encryption-at-rest)
+  - [Encryption in flight](#encryption-in-flight)
+  - [Security as code](#security-as-code)
+  - [Security management services](#security-management-services)
 - [**3. Cloud Compliance Services**](#3-cloud-compliance-services) (7 videos)
-  - Cloud compliance services in healthcare
-  - Cloud compliance services in finance
-  - Cloud compliance services in retail
-  - Cloud compliance services in manufacturing
-  - Using generative AI for cloud compliance
-  - Challenge: Is AI-enabled security a good fit for ABC Corp?
-  - Solution: Is AI-enabled security a good fit for ABC Corp?
+  - [Cloud compliance services in healthcare](#cloud-compliance-services-in-healthcare)
+  - [Cloud compliance services in finance](#cloud-compliance-services-in-finance)
+  - [Cloud compliance services in retail](#cloud-compliance-services-in-retail)
+  - [Cloud compliance services in manufacturing](#cloud-compliance-services-in-manufacturing)
+  - [Using generative AI for cloud compliance](#using-generative-ai-for-cloud-compliance)
+  - [Challenge: Is AI-enabled security a good fit for ABC Corp?](#challenge-is-ai-enabled-security-a-good-fit-for-abc-corp)
+  - [Solution: Is AI-enabled security a good fit for ABC Corp?](#solution-is-ai-enabled-security-a-good-fit-for-abc-corp)
 - [**4. Planning Cloud Security**](#4-planning-cloud-security) (4 videos)
-  - Understanding your security requirements
-  - Selecting the right cloud security services
-  - Cloud security architecture guidelines
-  - Reference security architecture to leverage as your guide
+  - [Understanding your security requirements](#understanding-your-security-requirements)
+  - [Selecting the right cloud security services](#selecting-the-right-cloud-security-services)
+  - [Cloud security architecture guidelines](#cloud-security-architecture-guidelines)
+  - [Reference security architecture to leverage as your guide](#reference-security-architecture-to-leverage-as-your-guide)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Current cloud security trends to watch
-  - Learning more about cloud security
+  - [Current cloud security trends to watch](#current-cloud-security-trends-to-watch)
+  - [Learning more about cloud security](#learning-more-about-cloud-security)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/introduction-to-cloud-security?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), data (2), [[Security]] (2)
 > **Speakers:** - the (1)
 
 #### What you should know
@@ -137,12 +138,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Security]] (2), [[Enterprise Architecture]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Cloud Security Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business case for cloud security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/business-case-for-cloud-security?u=76281980)
@@ -181,7 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), private (1)
+> **Frameworks & Libraries:** [[Security]] (11), data (11), cloud (8), business (4), [[Privacy]] (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -239,7 +241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** data (12), cloud (10), [[Security]] (5), application (2), [[Phishing]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** known as (1), means that (1)
 > **Cross-References:** in the last (1)
@@ -285,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), finally, (2), protected (2)
+> **Frameworks & Libraries:** [[Security]] (8), data (4), cloud (3), database (2), [[Cloud Infrastructure]] (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -338,8 +340,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (19), [[Security]] (8), data (7), cloud (3), database (3)
 > **Analogies:** such as (8), for example (1)
-> **Code Keywords:** protected (1), let (1), interface (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -393,9 +395,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), cloud (11), [[Security]] (10), database (6), [[Databases]] (5)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** refers to (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Rise of identity and access management
@@ -459,9 +461,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[Security]] (9), management (4), data (3), aws (3)
 > **CLI Commands:** aws (3), make (1)
 > **Env Vars:** aws (3), iam (1)
-> **Code Keywords:** let (2), require (1)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** keep in mind (2)
 > **Definitions:** is a  (1)
@@ -521,10 +523,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), cloud (5), business (5), [[Security]] (4), [[Accountability]] (1)
 > **Env Vars:** hipaa (3), pci (3), sox (1), gdpr (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -563,7 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** data (8), ai (7), [[Security]] (6), cloud (2), [[Cloud Infrastructure]] (1)
 > **Env Vars:** gdpr (1), hipaa (1), soc (1)
 > **Analogies:** for example (1), for instance (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -595,6 +597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Security]] (3), cloud (2), [[Databases]] (1)
 > **Env Vars:** abc (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -642,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), protected (1)
+> **Frameworks & Libraries:** data (7), [[Security]] (6), business (4), cloud (4), [[Privacy]] (1)
 > **Env Vars:** abc (1)
 > **Cross-References:** previous video (1)
 > **Warnings:** keep in mind (1)
@@ -652,7 +655,7 @@ created: 2026-04-29
 
 ### 2. Cloud Security Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS cloud security services
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/aws-cloud-security-services?u=76281980)
@@ -681,10 +684,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), cloud (7), [[Security]] (5), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[IaaS]] (1)
 > **Env Vars:** aws (9), iam (1), ec2 (1)
 > **CLI Commands:** aws (9), find (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** lambda (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -719,10 +722,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Microsoft]] (5), [[Microsoft Azure|Azure]] (5), cloud (3), aws (2)
 > **Env Vars:** aws (2), ian (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** let (1), public (1)
 > **Speakers:** - [narrator] (1)
 
 #### Third-party cloud security services
@@ -776,8 +779,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[Security]] (7), data (3), management (2), aws (1)
 > **CLI Commands:** find (3), aws (1)
-> **Code Keywords:** public (4)
 > **Env Vars:** iam (2), aws (1)
 > **Analogies:** such as (2)
 > **Cross-References:** we covered (1)
@@ -842,8 +845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Security]] (7), cloud (6), [[Representational State Transfer (REST)|Rest]] (2), [[Algorithms]] (1)
 > **Definitions:** known as (2), is an  (1), is a  (1), means that (1)
-> **Code Keywords:** let (2), public (1)
 > **Env Vars:** rsa (2), des (1)
 > **Warnings:** note that (1), be aware (1)
 > **Analogies:** such as (1)
@@ -892,9 +895,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Representational State Transfer (REST)|Rest]] (9), cloud (9), [[Security]] (3), application (2)
 > **Env Vars:** des (2), rsa (2), api (2), cpu (1)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** interface (2), require (1)
 > **CLI Commands:** find (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [narrator] (1)
@@ -940,7 +943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), protected (1), interface (1)
+> **Frameworks & Libraries:** data (8), cloud (6), [[Network Security]] (2), management (2), application (1)
 > **Env Vars:** hipaa (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -978,9 +981,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), application (12), data (6), cloud (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sac (5)
 > **Definitions:** is a  (2)
-> **Code Keywords:** self (1)
 > **Speakers:** - [instructor] (1)
 
 #### Security management services
@@ -1028,7 +1031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), interface (1), public (1)
+> **Frameworks & Libraries:** [[Security]] (24), cloud (8), management (4), data (4), aws (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -1039,7 +1042,7 @@ created: 2026-04-29
 
 ### 3. Cloud Compliance Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud compliance services in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/cloud-compliance-services-in-healthcare?u=76281980)
@@ -1088,8 +1091,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (7), [[Security]] (4), [[Accountability]] (1), business (1)
 > **Env Vars:** hipaa (10), pii (3)
-> **Code Keywords:** for, (1), public (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1126,7 +1129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2), public (1)
+> **Frameworks & Libraries:** cloud (5), [[Security]] (4), [[Banking]] (3), data (2), [[Privacy]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [educator] (1)
@@ -1178,8 +1181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), cloud (4), data (2)
 > **Env Vars:** pci (7), dss (1)
-> **Code Keywords:** public (1), protected (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1230,8 +1233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), cloud (8), [[Microsoft Products|Products]] (2)
 > **Env Vars:** iso (5), fda (3)
-> **Code Keywords:** public (2), let (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** best practice (1)
@@ -1298,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), protected (1), finally, (1)
+> **Frameworks & Libraries:** ai (9), data (8), cloud (6), [[Security]] (5), next (5)
 > **Best Practices:** make sure to (3), don't forget (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdpr (1), hipaa (1), pcidss (1)
@@ -1319,6 +1322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), cloud (2), business (1), ai (1)
 > **Env Vars:** abc (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -1358,7 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** ai (6), cloud (4), [[Security]] (4), [[Algorithms]] (1), data (1)
 > **CLI Commands:** make (1), find (1)
 > **Non-Speech:** (upbeat music) (1), (upbeat music fades) (1)
 > **Env Vars:** abc (1)
@@ -1368,7 +1372,7 @@ created: 2026-04-29
 
 ### 4. Planning Cloud Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your security requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/understanding-your-security-requirements?u=76281980)
@@ -1409,6 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[Security]] (8), business (2), next (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
@@ -1468,8 +1473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), cloud (8), management (3), business (3), data (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** iam (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** configure (1)
@@ -1510,9 +1515,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), cloud (4), data (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** rsa (1), des (1), hipaa (1)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1539,6 +1544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), cloud (1), business (1), management (1)
 > **Analogies:** such as (2), for instance (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
@@ -1547,7 +1553,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Current cloud security trends to watch
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/current-cloud-security-trends-to-watch?u=76281980)
@@ -1592,7 +1598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** [[Security]] (13), cloud (7), ai (2), data (2), application (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1630,7 +1636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** [[Security]] (5), cloud (4), next (2), aws (1), [[Microsoft]] (1)
 > **Env Vars:** aws (1), iam (1), mfa (1)
 > **CLI Commands:** aws (1), find (1)
 > **Analogies:** such as (1)

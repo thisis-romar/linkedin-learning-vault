@@ -31,7 +31,7 @@ tags:
   - skill/ethical-hacking
   - skill/network-traffic-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Sniffers.md)
@@ -50,55 +50,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Visualizing network traffic
-  - What you should know
-  - Hacking ethically
+  - [Visualizing network traffic](#visualizing-network-traffic)
+  - [What you should know](#what-you-should-know)
+  - [Hacking ethically](#hacking-ethically)
 - [**1. Sniffing Overview**](#1-sniffing-overview) (6 videos)
-  - Sniffing network traffic
-  - Using other sniffing tools
-  - Dissecting the OSI model
-  - Comparing passive and active attacks
-  - Using Wireshark
-  - Tapping into the data stream
+  - [Sniffing network traffic](#sniffing-network-traffic)
+  - [Using other sniffing tools](#using-other-sniffing-tools)
+  - [Dissecting the OSI model](#dissecting-the-osi-model)
+  - [Comparing passive and active attacks](#comparing-passive-and-active-attacks)
+  - [Using Wireshark](#using-wireshark)
+  - [Tapping into the data stream](#tapping-into-the-data-stream)
 - [**2. Spoofing Attacks**](#2-spoofing-attacks) (6 videos)
-  - Launching a macof attack
-  - Exploiting Layer 2 protocols
-  - Spoofing a MAC address
-  - Defending against MAC attacks
-  - VLAN hopping attack
-  - Spoofing IRDP
+  - [Launching a macof attack](#launching-a-macof-attack)
+  - [Exploiting Layer 2 protocols](#exploiting-layer-2-protocols)
+  - [Spoofing a MAC address](#spoofing-a-mac-address)
+  - [Defending against MAC attacks](#defending-against-mac-attacks)
+  - [VLAN hopping attack](#vlan-hopping-attack)
+  - [Spoofing IRDP](#spoofing-irdp)
 - [**3. Dissecting DHCP**](#3-dissecting-dhcp) (6 videos)
-  - Investigating DHCP
-  - Depleting the DHCP pool
-  - Deploying a rogue DHCP server
-  - Defending against DHCP attacks
-  - Challenge: Identifying key elements in a capture
-  - Solution: Identifying key elements in a capture
+  - [Investigating DHCP](#investigating-dhcp)
+  - [Depleting the DHCP pool](#depleting-the-dhcp-pool)
+  - [Deploying a rogue DHCP server](#deploying-a-rogue-dhcp-server)
+  - [Defending against DHCP attacks](#defending-against-dhcp-attacks)
+  - [Challenge: Identifying key elements in a capture](#challenge-identifying-key-elements-in-a-capture)
+  - [Solution: Identifying key elements in a capture](#solution-identifying-key-elements-in-a-capture)
 - [**4. Reviewing ARP**](#4-reviewing-arp) (4 videos)
-  - Describing ARP
-  - Exploring ARP spoofing tools
-  - Detecting ARP spoofing
-  - Defending against ARP attacks
+  - [Describing ARP](#describing-arp)
+  - [Exploring ARP spoofing tools](#exploring-arp-spoofing-tools)
+  - [Detecting ARP spoofing](#detecting-arp-spoofing)
+  - [Defending against ARP attacks](#defending-against-arp-attacks)
 - [**5. Attacking DNS**](#5-attacking-dns) (6 videos)
-  - Summarizing DNS
-  - Caching and forgery
-  - Poisoning DNS
-  - Guarding against DNS attacks
-  - Challenge: Investigate a DNS header
-  - Solution: Investigate a DNS header
+  - [Summarizing DNS](#summarizing-dns)
+  - [Caching and forgery](#caching-and-forgery)
+  - [Poisoning DNS](#poisoning-dns)
+  - [Guarding against DNS attacks](#guarding-against-dns-attacks)
+  - [Challenge: Investigate a DNS header](#challenge-investigate-a-dns-header)
+  - [Solution: Investigate a DNS header](#solution-investigate-a-dns-header)
 - [**6. Sniffing Tools and Techniques**](#6-sniffing-tools-and-techniques) (6 videos)
-  - Capturing images
-  - Examining HTTP headers and URLs
-  - Scooping data with TShark
-  - Sniffing tools for mobile devices
-  - Investigating Omnipeek
-  - Guarding against sniffing
+  - [Capturing images](#capturing-images)
+  - [Examining HTTP headers and URLs](#examining-http-headers-and-urls)
+  - [Scooping data with TShark](#scooping-data-with-tshark)
+  - [Sniffing tools for mobile devices](#sniffing-tools-for-mobile-devices)
+  - [Investigating Omnipeek](#investigating-omnipeek)
+  - [Guarding against sniffing](#guarding-against-sniffing)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing network traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/visualizing-network-traffic?u=76281980)
@@ -121,9 +121,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Security]] (2), dns (1), [[Wireshark]] (1)
 > **Env Vars:** arp (1), dns (1), dhcp (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lisa] (1)
 
@@ -150,7 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (1), [[Ethical Hacking]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -174,12 +174,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Sniffing Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sniffing network traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980)
@@ -252,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3)
+> **Frameworks & Libraries:** traffic (12), [[Wireshark]] (3), [[Intrusion Detection]] (1), [[Statistics]] (1), next (1)
 > **Env Vars:** epan (3), tcp (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1)
@@ -314,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1)
+> **Frameworks & Libraries:** traffic (7), [[Hardware]] (3), [[Linux]] (2), [[Security]] (2), [[Wireshark]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** tcpdump (1)
 > **Tools:** command line (1)
@@ -425,10 +426,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), application (3), next (3), dns (2), [[Wireshark]] (2)
 > **Env Vars:** osi (5), tcp (3), mac (3), dns (2), http (2)
 > **Definitions:** is a  (6), is called (1)
 > **Analogies:** such as (4), for example (2)
-> **Code Keywords:** function (2), let (2), interface (1)
 > **Ports:** port 80 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -509,8 +510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (3), traffic (2), [[Routing]] (1), [[Intrusion Detection]] (1)
 > **Analogies:** for example (4), such as (3)
-> **Code Keywords:** let (3), case, (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -674,8 +675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (13), traffic (10), [[Wireshark]] (8), [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dns (13), espn (3)
-> **Code Keywords:** let (6), interface (4), else. (2), type, (1), this. (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** such as (1), for example (1), imagine (1)
@@ -754,8 +755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (16), data (5), [[Penetration Testing]] (1), lan (1)
 > **Env Vars:** arp (5), mac (3), cam (3), span (1), lan (1)
-> **Code Keywords:** switch (6), let (2), this. (1), else. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
@@ -764,7 +765,7 @@ created: 2026-04-29
 
 ### 2. Spoofing Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Launching a macof attack
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980)
@@ -831,7 +832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (12), let (3), else. (1), continue (1)
+> **Frameworks & Libraries:** traffic (4), [[Wireshark]] (4), data (3), [[Kali Linux]] (2), lan (1)
 > **Env Vars:** cam (6), mac (3), lan (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -907,8 +908,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (3), data (3), [[Intrusion Detection]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Kali Linux]] (1)
 > **Env Vars:** lan (3), bpdu (1), cdp (1), dhcp (1), vlan (1)
-> **Code Keywords:** let (2), switch (2), interface (1)
 > **Tools:** terminal (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -989,8 +990,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Local Area Network (LAN)|Local area network]] (1), [[Linux]] (1), [[Windows]] (1), [[Hardware]] (1)
 > **Env Vars:** mac (12)
-> **Code Keywords:** interface (4), let (3), case, (1)
 > **UI Navigation:** go to (3), select the (1), scroll down (1)
 > **Analogies:** such as (2)
 > **Tools:** command line (1)
@@ -1064,8 +1065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), data (1)
 > **Env Vars:** mac (8), ssh (1), https (1), bpdu (1)
-> **Code Keywords:** switch (3), let (2), interface (1), this, (1)
 > **CLI Commands:** ssh (1), make (1)
 > **Prerequisites:** configure (2)
 > **Definitions:** is a  (1)
@@ -1126,8 +1127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Local Area Network (LAN)|Local area network]] (1), [[Security]] (1), [[Virtual Work]] (1)
 > **Env Vars:** vlan (11)
-> **Code Keywords:** interface (3), let (2), switch (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1172,15 +1173,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Routing]] (1)
 > **Env Vars:** irdp (10), icmp (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Dissecting DHCP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Investigating DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980)
@@ -1283,8 +1284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Local Area Network (LAN)|Local area network]] (1), next (1)
 > **Env Vars:** dhcp (10), udp (3), tcp (1), dora (1), mac (1)
-> **Code Keywords:** interface (4), let (3), static (1)
 > **Ports:** port 68 (1), port 67 (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1), is a  (1)
@@ -1355,8 +1356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (1), next (1), dns (1)
 > **Env Vars:** dhcp (16), discover (4), dns (1), mac (1)
-> **Code Keywords:** let (3), static (1), type, (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1426,8 +1427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (4), traffic (3), [[Phishing]] (1), [[Kali Linux]] (1), [[Wireshark]] (1)
 > **Env Vars:** dhcp (13), dns (4), dora (1)
-> **Code Keywords:** interface (1), switch (1), let (1)
 > **Analogies:** such as (3)
 > **Tools:** terminal (1)
 > **UI Navigation:** select the (1)
@@ -1484,8 +1485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), [[Active Directory]] (1), database (1)
 > **Env Vars:** dhcp (10), vlan (3), arp (3), mac (1)
-> **Code Keywords:** switch (3), interface (1), let (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1517,7 +1518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** traffic (1), [[Wireshark]] (1)
 > **Exercise Files:** download the (1), zip file (1)
 > **Prerequisites:** you'll need (2)
 > **Env Vars:** pcap (1)
@@ -1631,9 +1632,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (3), next (2), [[Security]] (2), [[Wireshark]] (2), traffic (1)
 > **UI Navigation:** go to (4), right-click (3), select the (2), open the (2)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (2), this, (1)
 > **Env Vars:** http (2), imf (1)
 > **Cross-References:** go back to (1), in the last (1)
 > **Prerequisites:** you'll need (1), install (1)
@@ -1643,7 +1644,7 @@ created: 2026-04-29
 
 ### 4. Reviewing ARP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing ARP
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980)
@@ -1734,8 +1735,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (3), traffic (2), [[Local Area Network (LAN)|Local area network]] (1), lan (1), cloud (1)
 > **Env Vars:** arp (14), mac (10), lan (1), icmp (1)
-> **Code Keywords:** let (2), export, (1)
 > **UI Navigation:** go to (3)
 > **Exercise Files:** download the (2)
 > **Warnings:** keep in mind (1)
@@ -1806,9 +1807,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Kali Linux]] (2), [[Python (Programming Language)|Python]] (2), traffic (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** arp (6), dhcp (1)
 > **Tools:** github (3), terminal (2)
-> **Code Keywords:** let (2), continue (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** python (2)
@@ -1892,8 +1893,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (7)
 > **Env Vars:** arp (18), mac (1), zip (1)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **URLs:** [securitysite.com](https://securitysite.com) (1)
 > **Exercise Files:** zip file (1)
@@ -1966,8 +1967,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Intrusion Detection]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** arp (13), mac (4)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **URLs:** [snort.org](https://snort.org) (1)
@@ -1978,7 +1979,7 @@ created: 2026-04-29
 
 ### 5. Attacking DNS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/summarizing-dns?u=76281980)
@@ -2105,9 +2106,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (13), [[Domain Name System (DNS)|Domain name system]] (1), next (1), [[Search]] (1)
 > **Env Vars:** dns (13), udp (3), tcp (2), aaaa (1)
 > **Definitions:** is a  (3), means that (3), is an  (2)
-> **Code Keywords:** let (3), export, (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** version 4 (1), version 6 (1), 72.163.4 (1)
@@ -2207,8 +2208,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (30), traffic (2), data (1), [[Windows]] (1), [[Microsoft]] (1)
 > **Env Vars:** dns (30), sad (3), isp (1)
-> **Code Keywords:** let (4), interface (1), type, (1)
 > **Analogies:** such as (2), for example (1)
 > **Tools:** command line (2)
 > **UI Navigation:** go to (1)
@@ -2264,8 +2265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (15), data (4), traffic (2), lan (1), web (1)
 > **Env Vars:** dns (15), lan (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2327,9 +2328,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (16), data (3), [[Security]] (3), feature (1), [[Windows Server]] (1)
 > **Env Vars:** dns (16)
 > **Definitions:** is a  (3), is an  (2)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [instructor] (1)
@@ -2371,10 +2372,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (4), next (1)
 > **Env Vars:** dns (4)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (intriguing music) (1)
 
@@ -2447,10 +2448,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (4), [[Google]] (1)
 > **Env Vars:** dns (4)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2458,7 +2459,7 @@ created: 2026-04-29
 
 ### 6. Sniffing Tools and Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Capturing images
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/capturing-images?u=76281980)
@@ -2535,7 +2536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), traffic (2), data (2)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
@@ -2625,8 +2626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Wireshark]] (3), application (2), traffic (1)
 > **Env Vars:** http (9), tcp (3)
-> **Code Keywords:** let (2), this, (1), case. (1)
 > **URLs:** [example.com](https://example.com) (3), [websniffer.net](https://websniffer.net) (1)
 > **UI Navigation:** go to (2), scroll down (2)
 > **Definitions:** is an  (2), means that (1)
@@ -2683,7 +2684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (1)
+> **Frameworks & Libraries:** [[Wireshark]] (8), application (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2734,7 +2735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (2)
+> **Frameworks & Libraries:** traffic (8), [[Android]] (2), vpn (1), cloud (1), web (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Code Identifiers:** tpacketcapture (2)
 > **Env Vars:** vpn (1), pcap (1)
@@ -2820,7 +2821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), this, (1)
+> **Frameworks & Libraries:** [[Troubleshooting]] (3), [[Wireshark]] (2), [[Dashboards]] (2), [[Windows]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Analogies:** similar to (1), it's like (1)
@@ -2896,9 +2897,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), dns (3), [[Statistics]] (1), node (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** arp (4), dns (3), ram (1), mac (1), rita (1)
 > **Analogies:** such as (5)
-> **Code Keywords:** let (2)
 > **CLI Commands:** node (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
@@ -2907,7 +2908,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980)
@@ -2934,6 +2935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (3), dns (1), [[Ethical Hacking]] (1), [[Network Security]] (1)
 > **Env Vars:** osi (1), dhcp (1), arp (1), dns (1), ccna (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)

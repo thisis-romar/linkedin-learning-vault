@@ -4,7 +4,7 @@ cssclasses:
   - lle-moc
 tags:
   - moc
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/000%20Map%20of%20Content.md)
@@ -83,3 +83,7 @@ created: 2026-04-29
 - [[Large Language Models (LLM)]] — 24 courses
 - [[Data Visualization]] — 23 courses
 - [[Career Management]] — 21 courses
+
+## Glossary
+
+- [[000 Glossary Index]] — 660 named concepts, frameworks, libraries, and SDKs

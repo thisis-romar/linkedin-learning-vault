@@ -25,7 +25,7 @@ tags:
   - topic/security
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Artificial%20Intelligence%20for%20Cybersecurity.md)
@@ -44,45 +44,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Unleashing the power of AI for cybersecurity
+  - [Unleashing the power of AI for cybersecurity](#unleashing-the-power-of-ai-for-cybersecurity)
 - [**1. Demystifying Artificial Intelligence for Cybersecurity**](#1-demystifying-artificial-intelligence-for-cybersecurity) (6 videos)
-  - Defining artificial intelligence
-  - Applying AI to cybersecurity
-  - Disciplines of artificial intelligence
-  - Role of machine learning in AI
-  - Agentic AI vs. generative AI vs. discriminative AI
-  - AI agents and cybersecurity
+  - [Defining artificial intelligence](#defining-artificial-intelligence)
+  - [Applying AI to cybersecurity](#applying-ai-to-cybersecurity)
+  - [Disciplines of artificial intelligence](#disciplines-of-artificial-intelligence)
+  - [Role of machine learning in AI](#role-of-machine-learning-in-ai)
+  - [Agentic AI vs. generative AI vs. discriminative AI](#agentic-ai-vs-generative-ai-vs-discriminative-ai)
+  - [AI agents and cybersecurity](#ai-agents-and-cybersecurity)
 - [**2. Cybersecurity Gaps and Goals**](#2-cybersecurity-gaps-and-goals) (5 videos)
-  - CIA model of security
-  - Cybersecurity framework
-  - Resource challenges
-  - Prevention, detection, and response
-  - AI agents security goals
+  - [CIA model of security](#cia-model-of-security)
+  - [Cybersecurity framework](#cybersecurity-framework)
+  - [Resource challenges](#resource-challenges)
+  - [Prevention, detection, and response](#prevention-detection-and-response)
+  - [AI agents security goals](#ai-agents-security-goals)
 - [**3. Solving Cybersecurity Problems with AI**](#3-solving-cybersecurity-problems-with-ai) (6 videos)
-  - Intrusion detection at scale
-  - Insider threat
-  - Phishing and decision errors
-  - Speed of incidence response
-  - AI-generated threats
-  - Using AI agents to solve cybersecurity challenges
+  - [Intrusion detection at scale](#intrusion-detection-at-scale)
+  - [Insider threat](#insider-threat)
+  - [Phishing and decision errors](#phishing-and-decision-errors)
+  - [Speed of incidence response](#speed-of-incidence-response)
+  - [AI-generated threats](#ai-generated-threats)
+  - [Using AI agents to solve cybersecurity challenges](#using-ai-agents-to-solve-cybersecurity-challenges)
 - [**4. Applying Machine Learning to Security**](#4-applying-machine-learning-to-security) (5 videos)
-  - Choosing the right ML approach
-  - Prediction by regression
-  - Classification: Intruder or not
-  - Security anomaly detection
-  - GAN, BERT, GPT, and more
+  - [Choosing the right ML approach](#choosing-the-right-ml-approach)
+  - [Prediction by regression](#prediction-by-regression)
+  - [Classification: Intruder or not](#classification-intruder-or-not)
+  - [Security anomaly detection](#security-anomaly-detection)
+  - [GAN, BERT, GPT, and more](#gan-bert-gpt-and-more)
 - [**5. Practical Considerations, Risks, and Limitations**](#5-practical-considerations-risks-and-limitations) (6 videos)
-  - The ways AI can fail you
-  - Limitations and poor design
-  - Attack against your AI
-  - Criminals use AI too
-  - Recipe for a successful AI project
-  - How to choose AI-based security products
+  - [The ways AI can fail you](#the-ways-ai-can-fail-you)
+  - [Limitations and poor design](#limitations-and-poor-design)
+  - [Attack against your AI](#attack-against-your-ai)
+  - [Criminals use AI too](#criminals-use-ai-too)
+  - [Recipe for a successful AI project](#recipe-for-a-successful-ai-project)
+  - [How to choose AI-based security products](#how-to-choose-ai-based-security-products)
 - [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unleashing the power of AI for cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980)
@@ -111,6 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1), [[Engineering]] (1), [[Cybersecurity]] (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - artificial (1)
@@ -118,7 +119,7 @@ created: 2026-04-29
 
 ### 1. Demystifying Artificial Intelligence for Cybersecurity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980)
@@ -195,7 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), finally, (1)
+> **Frameworks & Libraries:** ai (7), data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Security]] (4), [[ChatGPT]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** such as (3), for example (1)
@@ -279,7 +280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1)
+> **Frameworks & Libraries:** [[Security]] (21), ai (8), data (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Threat Modeling]] (3)
 > **Analogies:** for example (2)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -341,8 +342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), ai (4), data (4), [[Intrusion Detection]] (1), [[Google]] (1)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** let (1), this. (1), pass (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), vpn (1)
 > **Ports:** :00 (1)
@@ -403,7 +404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1)
+> **Frameworks & Libraries:** data (7), [[Programming]] (7), [[Security]] (5), ai (2), [[Malware Detection]] (2)
 > **Env Vars:** http (1), sql (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Analogies:** imagine (1), for example (1)
@@ -463,8 +464,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Generative AI]] (3), data (3), [[Algorithms]] (2), [[ChatGPT]] (1)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** knn (1), gpt (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -512,13 +513,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), ai (3), [[Traditional AI]] (2), [[Cybersecurity]] (1), [[Security]] (1)
 > **Analogies:** it's like (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Cybersecurity Gaps and Goals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CIA model of security
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cia-model-of-security?u=76281980)
@@ -551,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1)
+> **Frameworks & Libraries:** [[Security]] (7), data (5), ai (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cia (1)
 > **Speakers:** - [instructor] (1)
@@ -583,8 +585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -623,6 +625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (1), [[Automation]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** isc2 (2)
 > **Cross-References:** we discussed (1), in the last (1)
 > **Versions:** 3.4 (1)
@@ -686,8 +689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), [[Cybersecurity]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Env Vars:** siem (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -777,14 +780,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), this, (1), pass (1)
+> **Frameworks & Libraries:** ai (4), next (3), data (2), prompt (2), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Solving Cybersecurity Problems with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intrusion detection at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980)
@@ -881,7 +884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (1), match. (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** data (12), [[Intrusion Detection]] (5), traffic (4), [[Security]] (2), next (1)
 > **Env Vars:** ids (5)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** find (2)
@@ -971,9 +974,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Security]] (3), business (2), cloud (2), ai (2)
 > **Env Vars:** dlp (11), ceo (1), hipaa (1)
 > **Definitions:** known as (4), is a  (1)
-> **Code Keywords:** let (2), protected (2)
 > **Analogies:** such as (2)
 > **Cross-References:** we discussed (1)
 > **Warnings:** keep in mind (1)
@@ -1096,7 +1099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), static (1), case. (1)
+> **Frameworks & Libraries:** [[Security]] (9), [[Phishing]] (9), ai (1), [[Scripting]] (1), application (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
 > **Env Vars:** url (4)
 > **Definitions:** is a  (2), refers to (1)
@@ -1160,8 +1163,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), teams (2), ai (2), data (1), web (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1235,7 +1238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), function (1), this. (1), new, (1)
+> **Frameworks & Libraries:** data (10), [[Security]] (6), [[ChatGPT]] (4), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (3), for instance (1)
 > **Definitions:** known as (2), is an  (1)
 > **Warnings:** warning (2)
@@ -1281,14 +1284,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Security]] (1), teams (1), next (1)
 > **Analogies:** imagine (1), picture (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Applying Machine Learning to Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right ML approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980)
@@ -1361,10 +1364,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Security]] (6), ai (5), [[Algorithms]] (3), [[Deep Learning]] (2)
 > **Definitions:** is a  (4), known as (4), in other words (3)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prediction by regression
@@ -1402,7 +1405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1), function (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), data (3), [[Linear Regression]] (2), [[Security]] (1), [[IoT]] (1)
 > **Env Vars:** icmp (1), sin (1), ann (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1444,8 +1447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (4), [[Phishing]] (1), [[Supervised Learning]] (1), [[Scripting]] (1)
 > **Definitions:** is a  (3), in other words (1)
-> **Code Keywords:** let (1), require (1)
 > **Env Vars:** knn (1)
 > **Cross-References:** previous chapter (1)
 > **Exercise Files:** source code (1)
@@ -1507,8 +1510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (3), traffic (2), web (1), [[Supervised Learning]] (1)
 > **CLI Commands:** find (2), docker (1)
-> **Code Keywords:** let (2), self (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** dbscan (1)
 > **Tools:** notion (1)
@@ -1594,9 +1597,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Neural Networks]] (3), cnn (2), ai (2), [[Generative AI]] (1)
 > **Env Vars:** gpt (7), cnn (2), rnn (2), gan (2), nlp (1)
 > **Definitions:** is a  (2), refers to (2), in other words (2), known as (1)
-> **Code Keywords:** self (3), public (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1604,7 +1607,7 @@ created: 2026-04-29
 
 ### 5. Practical Considerations, Risks, and Limitations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The ways AI can fail you
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980)
@@ -1629,7 +1632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (7), [[Security]] (2), power (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1672,8 +1675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (5), ai (3), [[Security]] (2), [[Probability]] (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1760,9 +1763,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), ai (9), [[Forms]] (3), [[Algorithms]] (2), [[Phishing]] (1)
 > **Definitions:** known as (3)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), case, (1)
 > **Env Vars:** cia (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** keep in mind (1)
@@ -1819,9 +1822,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (4), [[Security]] (2), [[Phishing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Env Vars:** captcha (2), api (1)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -1930,8 +1933,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (14), [[Security]] (7), next (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), case, (1), finally, (1)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2026,17 +2029,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), product (13), data (11), [[Security]] (5), [[Microsoft Products|Products]] (4)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** just like (1), for example (1), such as (1)
-> **Code Keywords:** module (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

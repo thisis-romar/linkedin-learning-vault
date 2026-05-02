@@ -36,7 +36,7 @@ tags:
   - skill/privacy
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Building%20a%20Privacy%20Program%20in%20the%20Age%20of%20GenAI.md)
@@ -55,32 +55,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What privacy means in the age of GenAI
-  - Who this course is for
+  - [What privacy means in the age of GenAI](#what-privacy-means-in-the-age-of-genai)
+  - [Who this course is for](#who-this-course-is-for)
 - [**1. Introduction to Privacy**](#1-introduction-to-privacy) (5 videos)
-  - The real meaning of "big data"
-  - Privacy and security
-  - Regulations and standards
-  - Privacy and internal stakeholders
-  - Building data governance into organizational operations
+  - [The real meaning of "big data"](#the-real-meaning-of-big-data)
+  - [Privacy and security](#privacy-and-security)
+  - [Regulations and standards](#regulations-and-standards)
+  - [Privacy and internal stakeholders](#privacy-and-internal-stakeholders)
+  - [Building data governance into organizational operations](#building-data-governance-into-organizational-operations)
 - [**2. Privacy and Key Governance Milestones**](#2-privacy-and-key-governance-milestones) (4 videos)
-  - Code governance
-  - Data classification
-  - Data inventory
-  - Third-party risk assessment
+  - [Code governance](#code-governance)
+  - [Data classification](#data-classification)
+  - [Data inventory](#data-inventory)
+  - [Third-party risk assessment](#third-party-risk-assessment)
 - [**3. Building Privacy Tooling, Processes, Hierarchies, and Consolidations**](#3-building-privacy-tooling-processes-hierarchies-and-consolidations) (6 videos)
-  - Data deletion
-  - Data sharing
-  - Build vs. buy
-  - Decentralized vs. centralized
-  - Privacy leadership and the chief privacy officer
-  - Data Subject Access Requests (DSARs) and rights management
+  - [Data deletion](#data-deletion)
+  - [Data sharing](#data-sharing)
+  - [Build vs. buy](#build-vs-buy)
+  - [Decentralized vs. centralized](#decentralized-vs-centralized)
+  - [Privacy leadership and the chief privacy officer](#privacy-leadership-and-the-chief-privacy-officer)
+  - [Data Subject Access Requests (DSARs) and rights management](#data-subject-access-requests-dsars-and-rights-management)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What privacy means in the age of GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** ai (3), [[Privacy]] (2), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), cloud (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - it (1)
 
@@ -158,8 +158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Security]] (2), [[Engineering]] (2), teams (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this. (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - traditionally (1)
@@ -167,7 +167,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Privacy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The real meaning of "big data"
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/the-real-meaning-of-big-data?u=76281980)
@@ -220,9 +220,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), ai (1), [[Security]] (1), teams (1), [[Big Data]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Privacy and security
@@ -320,8 +320,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), [[Privacy]] (8), data (7), vpn (3), web (2)
 > **Env Vars:** hvac (3), vpn (3), pin (1), mfa (1)
-> **Code Keywords:** let (1), case. (1), private (1), if. (1)
 > **Definitions:** known as (2), is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
@@ -379,7 +379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Privacy]] (10), data (3), business (2), ai (2), [[Privacy Protection]] (1)
 > **Env Vars:** vppa (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -457,7 +457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** business (11), [[Privacy]] (8), data (6), teams (5), [[Security]] (4)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (2)
@@ -519,7 +519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** data (24), [[Data Classification]] (2), [[Microsoft Word|Word]] (1), business (1), [[Search]] (1)
 > **Definitions:** refers to (1), is called (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -527,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Privacy and Key Governance Milestones
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Code governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980)
@@ -586,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (18), [[Privacy]] (8), business (2), [[Security]] (1), [[Microservices]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Data classification
@@ -672,7 +672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (30), [[Data Classification]] (4), [[Privacy]] (3), database (3), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** in the next (1)
@@ -768,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (2), delete (2), for. (1), finally, (1)
+> **Frameworks & Libraries:** data (40), [[Privacy]] (7), [[Data Classification]] (2), [[Search]] (2), business (2)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** we covered (1), previous video (1)
@@ -834,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Privacy]] (12), management (5), functional (2), business (2), teams (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -842,7 +842,7 @@ created: 2026-04-29
 
 ### 3. Building Privacy Tooling, Processes, Hierarchies, and Consolidations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data deletion
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980)
@@ -907,7 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), let (2), require (2), else. (1)
+> **Frameworks & Libraries:** data (22), [[Privacy]] (3), teams (3), business (2), [[Databases]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [narrator] (1)
@@ -1007,7 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), this, (1), require (1)
+> **Frameworks & Libraries:** data (38), [[Privacy]] (7), business (2), [[Privacy Issues]] (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
@@ -1092,8 +1092,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (11), teams (4), business (2), [[Automation]] (1), career (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1170,8 +1170,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (18), teams (12), business (4), [[Engineering]] (3), functional (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** grc (1)
 > **Speakers:** - [instructor] (1)
@@ -1247,8 +1247,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (14), [[Security]] (5), data (3), teams (2), [[Executive Leadership]] (2)
 > **Env Vars:** cpo (9), ciso (2)
-> **Code Keywords:** let (3), finally, (1), new, (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1316,7 +1316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), export, (1)
+> **Frameworks & Libraries:** data (27), power (3), [[Privacy]] (1), [[Security]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dsar (2), gdpr (1), cpra (1)
 > **Definitions:** known as (1), basically means (1), in other words (1)
 > **CLI Commands:** make (2)
@@ -1325,7 +1325,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980)
@@ -1352,6 +1352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Privacy]] (2), ai (1), [[LinkedIn]] (1), management (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - thank (1)
 

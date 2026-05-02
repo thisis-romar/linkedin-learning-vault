@@ -33,7 +33,7 @@ tags:
   - skill/data-visualization
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Data%20Visualization.md)
@@ -52,50 +52,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The essence of data visualization
+  - [The essence of data visualization](#the-essence-of-data-visualization)
 - [**1. Big Idea**](#1-big-idea) (3 videos)
-  - What is data visualization?
-  - Ask what makes a good data visualization
-  - Why visualize data?
+  - [What is data visualization?](#what-is-data-visualization)
+  - [Ask what makes a good data visualization](#ask-what-makes-a-good-data-visualization)
+  - [Why visualize data?](#why-visualize-data)
 - [**2. What to Think About**](#2-what-to-think-about) (7 videos)
-  - Three focal points
-  - What your data is saying
-  - What your audience needs to hear
-  - What you really want to say
-  - Explanatory vs. exploratory
-  - The true "so what" and goals
-  - Human visual perception and pre-attentive processing
+  - [Three focal points](#three-focal-points)
+  - [What your data is saying](#what-your-data-is-saying)
+  - [What your audience needs to hear](#what-your-audience-needs-to-hear)
+  - [What you really want to say](#what-you-really-want-to-say)
+  - [Explanatory vs. exploratory](#explanatory-vs-exploratory)
+  - [The true "so what" and goals](#the-true-so-what-and-goals)
+  - [Human visual perception and pre-attentive processing](#human-visual-perception-and-pre-attentive-processing)
 - [**3. Selecting the Visualization Type**](#3-selecting-the-visualization-type) (12 videos)
-  - Choose charts with intention
-  - Cheat sheets
-  - What goes in the chart?
-  - Comparison visualizations
-  - Correlation visualizations
-  - Distribution visualizations
-  - Composition visualizations
-  - Geographic visualizations
-  - Flow visualizations
-  - Hierarchical visualizations
-  - Creative, innovative visualizations
-  - Other factors when choosing visualizations
+  - [Choose charts with intention](#choose-charts-with-intention)
+  - [Cheat sheets](#cheat-sheets)
+  - [What goes in the chart?](#what-goes-in-the-chart)
+  - [Comparison visualizations](#comparison-visualizations)
+  - [Correlation visualizations](#correlation-visualizations)
+  - [Distribution visualizations](#distribution-visualizations)
+  - [Composition visualizations](#composition-visualizations)
+  - [Geographic visualizations](#geographic-visualizations)
+  - [Flow visualizations](#flow-visualizations)
+  - [Hierarchical visualizations](#hierarchical-visualizations)
+  - [Creative, innovative visualizations](#creative-innovative-visualizations)
+  - [Other factors when choosing visualizations](#other-factors-when-choosing-visualizations)
 - [**4. Designing Visualizations for Impact**](#4-designing-visualizations-for-impact) (11 videos)
-  - The importance of sketching
-  - What's the "so what"?
-  - Pre-attentive processing and design
-  - Keeping it fresh and predictable
-  - Thoughtful use of color
-  - Setting scales
-  - Labels and annotations
-  - Making numbers relatable
-  - Accessibility
-  - When and how to use animation and interactivity
-  - Ruthless editing
+  - [The importance of sketching](#the-importance-of-sketching)
+  - [What's the "so what"?](#whats-the-so-what)
+  - [Pre-attentive processing and design](#pre-attentive-processing-and-design)
+  - [Keeping it fresh and predictable](#keeping-it-fresh-and-predictable)
+  - [Thoughtful use of color](#thoughtful-use-of-color)
+  - [Setting scales](#setting-scales)
+  - [Labels and annotations](#labels-and-annotations)
+  - [Making numbers relatable](#making-numbers-relatable)
+  - [Accessibility](#accessibility)
+  - [When and how to use animation and interactivity](#when-and-how-to-use-animation-and-interactivity)
+  - [Ruthless editing](#ruthless-editing)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The essence of data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980)
@@ -138,14 +138,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), type, (1), let (1)
+> **Frameworks & Libraries:** data (7), [[LinkedIn]] (1), [[Storytelling]] (1), [[Sketching]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [bill] (1)
 
 
 ### 1. Big Idea
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data visualization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-is-data-visualization?u=76281980)
@@ -204,6 +204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [narrator] (1)
@@ -255,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1), finally, (1)
+> **Frameworks & Libraries:** data (7)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** ask (1)
 > **Versions:** 8.6 (1)
@@ -304,8 +305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** while. (1), this, (1)
 > **Analogies:** picture (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -313,7 +314,7 @@ created: 2026-04-29
 
 ### 2. What to Think About
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three focal points
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980)
@@ -398,8 +399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (1)
 > **Env Vars:** kwyrwts (2), kwydis (1), kwyanth (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** stands for (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -473,8 +474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [narrator] (1)
@@ -542,6 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -598,7 +600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Best Practices:** don't forget (1)
@@ -639,7 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), require (1)
+> **Frameworks & Libraries:** data (9), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -709,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1), this, (1)
+> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -779,8 +781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** in other words (1), means that (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -788,7 +790,7 @@ created: 2026-04-29
 
 ### 3. Selecting the Visualization Type
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose charts with intention
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/choose-charts-with-intention?u=76281980)
@@ -837,8 +839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), this, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - just (1)
 
@@ -905,7 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), case, (1)
+> **Frameworks & Libraries:** data (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -986,7 +988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this, (1)
+> **Frameworks & Libraries:** data (15), database (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1072,9 +1074,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Sketching]] (1)
 > **Analogies:** for instance (1), imagine (1), just like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1165,8 +1167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), else, (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1272,6 +1274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **Best Practices:** you should always (1)
@@ -1356,8 +1359,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Excel|Excel]] (2), database (1)
 > **Definitions:** is a  (4), in other words (1)
-> **Code Keywords:** this, (1), let (1), this. (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), picture (1)
 > **Versions:** 97.2 (1)
@@ -1434,6 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Office|Office]] (1)
 > **Analogies:** for instance (2), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
@@ -1491,6 +1495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
@@ -1551,7 +1556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this, (1), type, (1), continue (1)
+> **Frameworks & Libraries:** data (4), next (3), node (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1), node (1)
 > **Analogies:** for instance (2)
@@ -1629,6 +1634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), express (2), [[Microsoft Excel|Excel]] (1), [[Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1713,7 +1719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), this. (1), else. (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (7), next (1)
 > **Versions:** 4.5 (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1725,7 +1731,7 @@ created: 2026-04-29
 
 ### 4. Designing Visualizations for Impact
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of sketching
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980)
@@ -1796,6 +1802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (6), data (3), [[Tableau]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Best Practices:** the key is (1)
@@ -1862,7 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (5), next (3)
 > **Cross-References:** earlier in (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** kwyrwts (1)
@@ -1954,9 +1961,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), parallel (1)
 > **CLI Commands:** make (8)
 > **Definitions:** in other words (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [presenter] (1)
@@ -2002,7 +2009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
 > **Env Vars:** der (1), spiegel (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -2070,8 +2077,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2188,7 +2195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), require (1), finally, (1), let (1), default, (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (4), known as (1), means that (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (2), for example (1)
@@ -2298,8 +2305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** else. (1), this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2382,10 +2389,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Versions:** 6.3 (6), 2.5 (1), 137.5 (1)
 > **Env Vars:** covid (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), case. (1)
 > **Analogies:** imagine (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
@@ -2439,8 +2446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[User Experience (UX)|User experience]] (2), [[Google]] (1), web (1)
 > **CLI Commands:** make (6), find (2)
-> **Code Keywords:** continue (2), this, (1)
 > **Analogies:** just like (2), for instance (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
@@ -2496,7 +2503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), static (1)
+> **Frameworks & Libraries:** data (5), feature (1), [[Microsoft PowerPoint|Powerpoint]] (1), web (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
@@ -2535,14 +2542,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2)
+> **Frameworks & Libraries:** data (1)
 > **Tools:** sublime (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980)
@@ -2577,9 +2584,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[LinkedIn]] (3), [[Analytics]] (2), next (1), [[Data Storytelling]] (1)
 > **Analogies:** for instance (1), it's like (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [bill] (1)
 

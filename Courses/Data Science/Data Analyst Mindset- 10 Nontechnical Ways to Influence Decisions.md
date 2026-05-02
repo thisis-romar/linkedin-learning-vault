@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/data-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analyst%20Mindset-%2010%20Nontechnical%20Ways%20to%20Influence%20Decisions.md)
@@ -47,24 +47,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Put away your data and listen carefully
+  - [Put away your data and listen carefully](#put-away-your-data-and-listen-carefully)
 - [**1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions**](#1-data-analyst-mindset-10-non-technical-ways-to-influence-decisions) (10 videos)
-  - Know your role: The guide
-  - Be intelligent: Ask the right questions
-  - Build trust: Listen more than you speak
-  - Trigger congruency: The Three Nods Rule
-  - Show don't tell: Use storyboards
-  - Be memorable: Use visual action words
-  - Focus on change, nothing else really matters
-  - Never say no, or yes for that matter
-  - Be tool agnostic
-  - Avoiding common issues
+  - [Know your role: The guide](#know-your-role-the-guide)
+  - [Be intelligent: Ask the right questions](#be-intelligent-ask-the-right-questions)
+  - [Build trust: Listen more than you speak](#build-trust-listen-more-than-you-speak)
+  - [Trigger congruency: The Three Nods Rule](#trigger-congruency-the-three-nods-rule)
+  - [Show don't tell: Use storyboards](#show-dont-tell-use-storyboards)
+  - [Be memorable: Use visual action words](#be-memorable-use-visual-action-words)
+  - [Focus on change, nothing else really matters](#focus-on-change-nothing-else-really-matters)
+  - [Never say no, or yes for that matter](#never-say-no-or-yes-for-that-matter)
+  - [Be tool agnostic](#be-tool-agnostic)
+  - [Avoiding common issues](#avoiding-common-issues)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your data analyst learning journey
+  - [Continue your data analyst learning journey](#continue-your-data-analyst-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Put away your data and listen carefully
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/put-away-your-data-and-listen-carefully?u=76281980)
@@ -83,14 +83,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** data (6), game (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - do (1)
 
 
 ### 1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Know your role: The guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/know-your-role-the-guide?u=76281980)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), else. (1)
+> **Frameworks & Libraries:** data (9), [[Automation]] (1), cloud (1), next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), think of it as (1)
 > **Env Vars:** pdf (1)
@@ -247,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this: (1), this, (1)
+> **Frameworks & Libraries:** data (6), hit (2), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** such as (2), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - did (1)
@@ -317,6 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -406,7 +407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (6), game (2), career (2), next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - did (1)
@@ -494,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), for, (1)
+> **Frameworks & Libraries:** data (11), [[Real-Time]] (1), hit (1)
 > **Env Vars:** whw (2), kpi (2)
 > **Definitions:** is a  (2), stands for (1), is called (1)
 > **Analogies:** for instance (1)
@@ -597,9 +598,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), power (2), data (2), [[Analytics]] (1)
 > **Env Vars:** whw (6), smart (3), kpi (1)
 > **Definitions:** stands for (4), is a  (1)
-> **Code Keywords:** let (4)
 > **Analogies:** picture (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - did (1)
@@ -672,8 +673,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (3), career (1), [[Dashboards]] (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** kpi (1), okr (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
@@ -751,7 +752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2)
+> **Frameworks & Libraries:** data (13), career (1), teams (1)
 > **Definitions:** known as (3), is a  (2)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1)
@@ -833,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (8), power (3), bi (3), feature (3), [[Tableau]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -905,7 +906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), for, (1), this, (1)
+> **Frameworks & Libraries:** data (17), leadership (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - did (1)
@@ -913,7 +914,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your data analyst learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/continue-your-data-analyst-learning-journey?u=76281980)
@@ -942,7 +943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (5), career (1), [[LinkedIn]] (1), next (1)
 > **Versions:** 2.0 (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)

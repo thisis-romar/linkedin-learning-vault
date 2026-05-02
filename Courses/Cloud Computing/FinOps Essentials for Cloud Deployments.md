@@ -32,7 +32,7 @@ tags:
   - skill/system-deployment
   - skill/financial-operations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/FinOps%20Essentials%20for%20Cloud%20Deployments.md)
@@ -51,71 +51,71 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to FinOps
-  - What you should know
+  - [Introduction to FinOps](#introduction-to-finops)
+  - [What you should know](#what-you-should-know)
 - [**1. FinOps Introduction**](#1-finops-introduction) (8 videos)
-  - Understanding FinOps and its importance
-  - Business need for FinOps for cloud computing
-  - Defining cloud computing value and metrics
-  - Case study: Cloud budget overage
-  - Case study: Multicloud cost mayhem
-  - Introduction to FinOps objectives
-  - Introduction to FinOps technology
-  - Introduction to FinOps best practices
+  - [Understanding FinOps and its importance](#understanding-finops-and-its-importance)
+  - [Business need for FinOps for cloud computing](#business-need-for-finops-for-cloud-computing)
+  - [Defining cloud computing value and metrics](#defining-cloud-computing-value-and-metrics)
+  - [Case study: Cloud budget overage](#case-study-cloud-budget-overage)
+  - [Case study: Multicloud cost mayhem](#case-study-multicloud-cost-mayhem)
+  - [Introduction to FinOps objectives](#introduction-to-finops-objectives)
+  - [Introduction to FinOps technology](#introduction-to-finops-technology)
+  - [Introduction to FinOps best practices](#introduction-to-finops-best-practices)
 - [**2. Establishing FinOps in Your Organization**](#2-establishing-finops-in-your-organization) (8 videos)
-  - Determining your business requirements and business case for FinOps
-  - Single-cloud cost tracking
-  - Multicloud and hybrid cloud cost tracking
-  - Putting your cloud cost data to use
-  - Setting up cloud cost observability
-  - Setting up cloud cost governance
-  - Basic FinOps planning for the enterprise
-  - FinOps and AI
+  - [Determining your business requirements and business case for FinOps](#determining-your-business-requirements-and-business-case-for-finops)
+  - [Single-cloud cost tracking](#single-cloud-cost-tracking)
+  - [Multicloud and hybrid cloud cost tracking](#multicloud-and-hybrid-cloud-cost-tracking)
+  - [Putting your cloud cost data to use](#putting-your-cloud-cost-data-to-use)
+  - [Setting up cloud cost observability](#setting-up-cloud-cost-observability)
+  - [Setting up cloud cost governance](#setting-up-cloud-cost-governance)
+  - [Basic FinOps planning for the enterprise](#basic-finops-planning-for-the-enterprise)
+  - [FinOps and AI](#finops-and-ai)
 - [**3. Externalizing FinOps to the Organization**](#3-externalizing-finops-to-the-organization) (9 videos)
-  - Cloud spending visibility
-  - Cloud spending benchmarks
-  - Communicating the FinOps plan to operators and stakeholders
-  - Identifying the steps in your FinOps plan
-  - Assigning roles in your FinOps plan
-  - FinOps and compliance and agreements
-  - FinOps collaboration and culture
-  - Challenge: Approach cloud spending visibility for Henry's Hammocks
-  - Solution: Review the potential solutions you can leverage
+  - [Cloud spending visibility](#cloud-spending-visibility)
+  - [Cloud spending benchmarks](#cloud-spending-benchmarks)
+  - [Communicating the FinOps plan to operators and stakeholders](#communicating-the-finops-plan-to-operators-and-stakeholders)
+  - [Identifying the steps in your FinOps plan](#identifying-the-steps-in-your-finops-plan)
+  - [Assigning roles in your FinOps plan](#assigning-roles-in-your-finops-plan)
+  - [FinOps and compliance and agreements](#finops-and-compliance-and-agreements)
+  - [FinOps collaboration and culture](#finops-collaboration-and-culture)
+  - [Challenge: Approach cloud spending visibility for Henry's Hammocks](#challenge-approach-cloud-spending-visibility-for-henrys-hammocks)
+  - [Solution: Review the potential solutions you can leverage](#solution-review-the-potential-solutions-you-can-leverage)
 - [**4. Optimizing for FinOps in Your Organization**](#4-optimizing-for-finops-in-your-organization) (10 videos)
-  - Cloud spending observability
-  - Cloud spending analysis
-  - Cloud spending forecasting
-  - Cloud spending optimization processes and metrics
-  - Cloud spending optimization technology
-  - Cloud spending optimization for business value
-  - Cloud spending AI tools
-  - Cloud spending governance using AI
-  - Challenge: Approach cloud spending forecasting for Henry's Hammocks
-  - Solution: Review the potential solutions you can leverage
+  - [Cloud spending observability](#cloud-spending-observability)
+  - [Cloud spending analysis](#cloud-spending-analysis)
+  - [Cloud spending forecasting](#cloud-spending-forecasting)
+  - [Cloud spending optimization processes and metrics](#cloud-spending-optimization-processes-and-metrics)
+  - [Cloud spending optimization technology](#cloud-spending-optimization-technology)
+  - [Cloud spending optimization for business value](#cloud-spending-optimization-for-business-value)
+  - [Cloud spending AI tools](#cloud-spending-ai-tools)
+  - [Cloud spending governance using AI](#cloud-spending-governance-using-ai)
+  - [Challenge: Approach cloud spending forecasting for Henry's Hammocks](#challenge-approach-cloud-spending-forecasting-for-henrys-hammocks)
+  - [Solution: Review the potential solutions you can leverage](#solution-review-the-potential-solutions-you-can-leverage)
 - [**5. Automating for FinOps**](#5-automating-for-finops) (7 videos)
-  - Identifying what you should automate
-  - Automation best practice considerations
-  - FinOps automation technology types and usages
-  - Leveraging AI for better FinOps automation
-  - Creating AI automation processes
-  - Dynmaic automation using AI
-  - Demo: FinOps automation with AWS Cost Explorer
+  - [Identifying what you should automate](#identifying-what-you-should-automate)
+  - [Automation best practice considerations](#automation-best-practice-considerations)
+  - [FinOps automation technology types and usages](#finops-automation-technology-types-and-usages)
+  - [Leveraging AI for better FinOps automation](#leveraging-ai-for-better-finops-automation)
+  - [Creating AI automation processes](#creating-ai-automation-processes)
+  - [Dynmaic automation using AI](#dynmaic-automation-using-ai)
+  - [Demo: FinOps automation with AWS Cost Explorer](#demo-finops-automation-with-aws-cost-explorer)
 - [**6. Operating for FinOps Success**](#6-operating-for-finops-success) (9 videos)
-  - FinOps continuous improvement
-  - FinOps observability
-  - Supporting audits
-  - Supporting compliance
-  - Defining FinOps operational success
-  - Finding value with AI FinOps tools
-  - Creating dynamic processes using AI
-  - Challenge:  Approaching compliance for Henry's Hammocks
-  - Solution:  Review the potential solutions you can leverage
+  - [FinOps continuous improvement](#finops-continuous-improvement)
+  - [FinOps observability](#finops-observability)
+  - [Supporting audits](#supporting-audits)
+  - [Supporting compliance](#supporting-compliance)
+  - [Defining FinOps operational success](#defining-finops-operational-success)
+  - [Finding value with AI FinOps tools](#finding-value-with-ai-finops-tools)
+  - [Creating dynamic processes using AI](#creating-dynamic-processes-using-ai)
+  - [Challenge:  Approaching compliance for Henry's Hammocks](#challenge-approaching-compliance-for-henrys-hammocks)
+  - [Solution:  Review the potential solutions you can leverage](#solution-review-the-potential-solutions-you-can-leverage)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to FinOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980)
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [david] (1)
 
@@ -158,13 +159,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** cloud (6), [[Databases]] (1), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. FinOps Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding FinOps and its importance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980)
@@ -209,10 +210,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), business (4), management (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 #### Business need for FinOps for cloud computing
@@ -264,7 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), finally, (1)
+> **Frameworks & Libraries:** cloud (11), business (4), data (2), power (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** defined as (1), is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -330,8 +331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (21), business (12), [[Hardware]] (1), [[Agile Development|Agile]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2), such as (1), picture (1)
-> **Code Keywords:** public (2)
 > **Warnings:** note that (1), keep in mind (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), this. (1)
+> **Frameworks & Libraries:** cloud (12), data (7), management (4), business (3), hr (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the last (1)
 > **Warnings:** keep in mind (1)
@@ -496,7 +497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), let (2), finally, (2)
+> **Frameworks & Libraries:** cloud (36), data (8), business (5), [[Microsoft Products|Products]] (2), [[Analytics]] (2)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** you'll need (4)
 > **Analogies:** such as (3)
@@ -546,6 +547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), business (4), [[Accountability]] (2), teams (2), data (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
@@ -582,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include: (1)
+> **Frameworks & Libraries:** cloud (17), business (4), data (1), [[Microsoft Office|Office]] (1), management (1)
 > **Env Vars:** cbo (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
@@ -640,18 +642,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), cloud (6), business (6), teams (3), [[Engineering]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** means that (2), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Establishing FinOps in Your Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining your business requirements and business case for FinOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/determining-your-business-requirements-and-business-case-for-finops?u=76281980)
@@ -714,9 +716,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (23), cloud (7), leadership (2)
 > **Analogies:** such as (4), for instance (1), for example (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** eps (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -788,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (2), finally, (1), for, (1), this, (1)
+> **Frameworks & Libraries:** cloud (34), next (2), [[Databases]] (1), ai (1), [[Private Clouds]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** be aware (2)
@@ -840,7 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (8), public (4), continue (1)
+> **Frameworks & Libraries:** cloud (13), [[Private Clouds]] (4), [[Hardware]] (3), data (2), business (2)
 > **Cross-References:** we covered (1), previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -867,6 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), data (7), business (5), [[Forecasting]] (2), [[Analytics]] (1)
 > **Analogies:** such as (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -906,6 +909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), cloud (6), business (2), [[Engineering]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
@@ -940,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), this, (1)
+> **Frameworks & Libraries:** cloud (7), business (2), [[Automation]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
@@ -985,6 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), business (4), data (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1028,14 +1033,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), ai (10), teams (4), business (4), data (3)
 > **Analogies:** such as (2)
-> **Code Keywords:** self (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Externalizing FinOps to the Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud spending visibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980)
@@ -1092,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), finally, (1)
+> **Frameworks & Libraries:** cloud (15), [[Forecasting]] (7), data (3), [[Accountability]] (2), ai (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1137,6 +1142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), data (3), business (3), [[Hardware]] (1)
 > **Analogies:** such as (4), similar to (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1188,6 +1194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), data (2), power (1), business (1), [[Automation]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1233,6 +1240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), business (2), next (1)
 > **Analogies:** such as (1), picture (1), for example (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -1289,9 +1297,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), leadership (1), [[Forecasting]] (1), next (1), teams (1)
 > **Env Vars:** cfo (2), cio (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** interface (1), finally, (1)
 > **Prerequisites:** you need to have (1), you'll need (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1342,8 +1350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), cloud (9), [[Privacy]] (2), express (1), [[Regulatory Compliance]] (1)
 > **Analogies:** for example (2), for instance (1), such as (1)
-> **Code Keywords:** private (2), finally, (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
@@ -1386,7 +1394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1)
+> **Frameworks & Libraries:** business (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [narrator] (1)
@@ -1452,8 +1460,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), management (3), [[Databases]] (2), business (1), data (1)
 > **Env Vars:** d2c (2), cio (1), ceo (1)
-> **Code Keywords:** let (1), public (1)
 > **CLI Commands:** mysql (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1562,7 +1570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), finally, (1)
+> **Frameworks & Libraries:** cloud (39), data (6), [[Forecasting]] (4), [[Accountability]] (3), business (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (2)
@@ -1574,7 +1582,7 @@ created: 2026-04-29
 
 ### 4. Optimizing for FinOps in Your Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud spending observability
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-observability?u=76281980)
@@ -1609,9 +1617,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), data (3), [[Security]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Cloud spending analysis
@@ -1647,9 +1655,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), data (11), [[Forecasting]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), aws (1)
 > **CLI Commands:** find (2), aws (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -1708,9 +1716,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), [[Forecasting]] (11), data (5), business (3), next (2)
 > **Analogies:** such as (3)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1768,8 +1776,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (24), business (4), data (2), [[Microsoft Products|Products]] (1), express (1)
 > **Analogies:** for example (2), picture (1), for instance (1)
-> **Code Keywords:** this. (1)
 > **Versions:** 0.50 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1808,7 +1816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** cloud (17), data (2), [[Cost Management]] (1), [[Forecasting]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1871,10 +1879,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (27), cloud (21)
 > **Versions:** 1.50 (1), 1.2 (1), 1.9 (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), let (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1913,9 +1921,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), cloud (7), business (5), [[Cost Management]] (3), [[Forecasting]] (3)
 > **Analogies:** such as (3)
 > **CLI Commands:** aws (1), make (1)
-> **Code Keywords:** extends (1), self (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1952,6 +1960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), ai (7), data (3), business (2), [[Real-Time]] (2)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1992,6 +2001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Forecasting]] (5), aws (3), data (2), [[Real-Time]] (1)
 > **CLI Commands:** aws (3), make (1), find (1)
 > **Env Vars:** aws (3)
 > **Analogies:** such as (2)
@@ -2028,6 +2038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (3), business (3), aws (2), cloud (2), data (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2)
 > **Analogies:** such as (1)
@@ -2038,7 +2049,7 @@ created: 2026-04-29
 
 ### 5. Automating for FinOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying what you should automate
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/identifying-what-you-should-automate?u=76281980)
@@ -2105,7 +2116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), require (1)
+> **Frameworks & Libraries:** [[Automation]] (4), cloud (1)
 > **Definitions:** means that (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2148,9 +2159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), cloud (6), [[Automation]] (4), [[Analytics]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2215,6 +2226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (31), [[Automation]] (8), [[Forecasting]] (3), management (3), data (3)
 > **Analogies:** such as (7)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -2248,6 +2260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), cloud (4), [[Forecasting]] (2), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (7)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
@@ -2299,8 +2312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (12), ai (8), cloud (4), [[Forecasting]] (4), business (3)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** extends (1), function (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -2350,8 +2363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (10), ai (10), data (4), business (3), [[Algorithms]] (2)
 > **Analogies:** for example (1), such as (1), for instance (1)
-> **Code Keywords:** static (1), self (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -2519,8 +2532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), aws (9), business (4), [[Amazon Web Services (AWS)|Amazon web services]] (3), [[Cost Management]] (2)
 > **CLI Commands:** aws (9), make (2), find (2)
-> **Code Keywords:** case, (5), for. (2), type, (2), this, (1), let (1)
 > **Definitions:** in other words (8), is called (1), is a  (1)
 > **Env Vars:** aws (9)
 > **Prerequisites:** set up (1)
@@ -2529,7 +2542,7 @@ created: 2026-04-29
 
 ### 6. Operating for FinOps Success
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### FinOps continuous improvement
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980)
@@ -2576,9 +2589,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), [[DevOps]] (1), data (1), [[Scrum]] (1), [[Slack]] (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** abi (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
@@ -2621,8 +2634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), cloud (7), [[Security]] (4), database (2), [[Databases]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** include, (1), extends (1)
 > **Cross-References:** we discussed (1), in the last (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
@@ -2663,6 +2676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (4), business (2), aws (1), [[Microsoft]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -2699,8 +2713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), cloud (7), [[Microsoft Office|Office]] (1), [[Financial Operations]] (1)
 > **Env Vars:** cfo (3)
-> **Code Keywords:** include, (1), require (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -2757,9 +2771,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), business (6), [[Automation]] (3), game (1)
 > **Definitions:** is a  (3), refers to (2), means that (1), is an  (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2796,6 +2810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), ai (3), business (3), teams (3), data (3)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2828,6 +2843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Financial Operations]] (2), [[Automation]] (2), cloud (1), data (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2857,7 +2873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), require (1), case, (1)
+> **Frameworks & Libraries:** data (7), cloud (3), business (1)
 > **Env Vars:** cio (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2893,7 +2909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** data (10), cloud (6)
 > **Env Vars:** cio (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2902,7 +2918,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/next-steps?u=76281980)
@@ -2935,6 +2951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), career (2), business (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [finops.org](https://finops.org) (1)

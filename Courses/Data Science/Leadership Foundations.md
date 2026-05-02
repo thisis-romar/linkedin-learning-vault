@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Leadership%20Foundations.md)
@@ -47,36 +47,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to leadership foundations
+  - [Welcome to leadership foundations](#welcome-to-leadership-foundations)
 - [**1. Key Principles of Leadership**](#1-key-principles-of-leadership) (4 videos)
-  - Leading yourself
-  - Demonstrating emotional intelligence
-  - Building a diverse team and maximizing performance
-  - Leadership styles
+  - [Leading yourself](#leading-yourself)
+  - [Demonstrating emotional intelligence](#demonstrating-emotional-intelligence)
+  - [Building a diverse team and maximizing performance](#building-a-diverse-team-and-maximizing-performance)
+  - [Leadership styles](#leadership-styles)
 - [**2. Core Leadership Competencies**](#2-core-leadership-competencies) (7 videos)
-  - Strategic thinking
-  - Establishing trust
-  - Communicating with impact and influence
-  - Building relationships
-  - Developing business acumen
-  - Influencing others
-  - Demonstrating empathy
+  - [Strategic thinking](#strategic-thinking)
+  - [Establishing trust](#establishing-trust)
+  - [Communicating with impact and influence](#communicating-with-impact-and-influence)
+  - [Building relationships](#building-relationships)
+  - [Developing business acumen](#developing-business-acumen)
+  - [Influencing others](#influencing-others)
+  - [Demonstrating empathy](#demonstrating-empathy)
 - [**3. Navigating Leadership Complexity**](#3-navigating-leadership-complexity) (4 videos)
-  - Leading change through agility and resilience
-  - Managing conflict
-  - Having uncomfortable conversations
-  - Cultivating inclusion, equity, and belonging
+  - [Leading change through agility and resilience](#leading-change-through-agility-and-resilience)
+  - [Managing conflict](#managing-conflict)
+  - [Having uncomfortable conversations](#having-uncomfortable-conversations)
+  - [Cultivating inclusion, equity, and belonging](#cultivating-inclusion-equity-and-belonging)
 - [**4. Real-World Leadership Lessons**](#4-real-world-leadership-lessons) (4 videos)
-  - Introducing Richard Davis and Steve Miranda
-  - Leadership lessons from Dr. Shirley and Richard Davis, part 1
-  - Leadership lessons from Dr. Shirley and Steve Miranda, part 2
-  - Summary of learnings
+  - [Introducing Richard Davis and Steve Miranda](#introducing-richard-davis-and-steve-miranda)
+  - [Leadership lessons from Dr. Shirley and Richard Davis, part 1](#leadership-lessons-from-dr-shirley-and-richard-davis-part-1)
+  - [Leadership lessons from Dr. Shirley and Steve Miranda, part 2](#leadership-lessons-from-dr-shirley-and-steve-miranda-part-2)
+  - [Summary of learnings](#summary-of-learnings)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Action planning and next steps to becoming a leader
+  - [Action planning and next steps to becoming a leader](#action-planning-and-next-steps-to-becoming-a-leader)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to leadership foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/welcome-to-leadership-foundations?u=76281980)
@@ -97,13 +97,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), feature (1), career (1)
 > **Env Vars:** ceo (1), chro (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Key Principles of Leadership
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-yourself?u=76281980)
@@ -178,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), for. (1)
+> **Frameworks & Libraries:** leadership (4), [[Organizational Leadership]] (1), next (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
@@ -334,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), for, (1)
+> **Frameworks & Libraries:** strengths (2), [[Microsoft Office|Office]] (1), [[Accountability]] (1), express (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** go to (1)
@@ -416,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** teams (4), leadership (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (1)
 > **Exercise Files:** exercise files (1)
@@ -468,6 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (10)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - effective (1)
@@ -475,7 +477,7 @@ created: 2026-04-29
 
 ### 2. Core Leadership Competencies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980)
@@ -524,6 +526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Strategic Thinking]] (2), career (1), data (1), leadership (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - do (1)
@@ -590,8 +593,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Building Trust]] (2), leadership (1), feature (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - are (1)
@@ -680,8 +683,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1), [[Forms]] (1), feature (1), career (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Non-Speech:** (upbeat music) (1), (bright music) (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -750,6 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), hr (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is an  (1)
@@ -814,8 +818,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1), teams (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - can (1)
@@ -908,6 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), leadership (1), [[Storytelling]] (1), [[Building Trust]] (1), [[Influencing Others]] (1)
 > **Non-Speech:** (upbeat music) (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
@@ -1008,7 +1013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), pass (1)
+> **Frameworks & Libraries:** leadership (2), [[Soft Skills]] (2), feature (1), [[React.js|React]] (1), [[Building Trust]] (1)
 > **Non-Speech:** (upbeat energetic music) (1), (energetic music) (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -1017,7 +1022,7 @@ created: 2026-04-29
 
 ### 3. Navigating Leadership Complexity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading change through agility and resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-change-through-agility-and-resilience?u=76281980)
@@ -1080,8 +1085,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** throw (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - one (1)
@@ -1149,6 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Human Resources (HR)|Human resources]] (1)
 > **Warnings:** be careful (1), warning (1)
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
@@ -1220,9 +1226,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (2), [[Diversity and Inclusion]] (1), [[Building Trust]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** this. (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - think (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1292,8 +1298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), leadership (2), management (1), [[Security]] (1), career (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), continue (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1303,7 +1309,7 @@ created: 2026-04-29
 
 ### 4. Real-World Leadership Lessons
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Richard Davis and Steve Miranda
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/introducing-richard-davis-and-steve-miranda?u=76281980)
@@ -1326,6 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), [[Leadership Development]] (1)
 > **Speakers:** - i (1)
 
 #### Leadership lessons from Dr. Shirley and Richard Davis, part 1
@@ -1357,6 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), leadership (1), power (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1365,7 +1373,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Action planning and next steps to becoming a leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980)
@@ -1420,7 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), if, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), leadership (2), next (2), [[Inclusive Leadership]] (1), business (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Definitions:** in other words (1), is an  (1)
 > **CLI Commands:** make (1)

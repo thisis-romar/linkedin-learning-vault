@@ -31,7 +31,7 @@ tags:
   - skill/generic-programming
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Java-%20Generic%20Classes.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Generics in Java
-  - Prerequisites for this course
+  - [Generics in Java](#generics-in-java)
+  - [Prerequisites for this course](#prerequisites-for-this-course)
 - [**1. Fundamentals of Generics**](#1-fundamentals-of-generics) (5 videos)
-  - Understand the need for generics
-  - Understand generics in Java
-  - Terms in generics
-  - Rules and naming conventions
-  - Advantages of generics
+  - [Understand the need for generics](#understand-the-need-for-generics)
+  - [Understand generics in Java](#understand-generics-in-java)
+  - [Terms in generics](#terms-in-generics)
+  - [Rules and naming conventions](#rules-and-naming-conventions)
+  - [Advantages of generics](#advantages-of-generics)
 - [**2. Generic Classes and Methods**](#2-generic-classes-and-methods) (7 videos)
-  - Generic classes/interface use case
-  - Create a generic class demo
-  - Understand generic methods and constructors
-  - Implement a generic method as a utility
-  - Using bounded types
-  - Challenge: Write code using generic classes/bounded types
-  - Solution: Write code using generic classes/bounded types
+  - [Generic classes/interface use case](#generic-classesinterface-use-case)
+  - [Create a generic class demo](#create-a-generic-class-demo)
+  - [Understand generic methods and constructors](#understand-generic-methods-and-constructors)
+  - [Implement a generic method as a utility](#implement-a-generic-method-as-a-utility)
+  - [Using bounded types](#using-bounded-types)
+  - [Challenge: Write code using generic classes/bounded types](#challenge-write-code-using-generic-classesbounded-types)
+  - [Solution: Write code using generic classes/bounded types](#solution-write-code-using-generic-classesbounded-types)
 - [**3. Generics: Deep Dive**](#3-generics-deep-dive) (7 videos)
-  - Generic class hierarchies
-  - Type argument hierarchies
-  - Understand type erasure in generics
-  - Understand bridge methods
-  - Understand type inference and target types
-  - Applying wildcard arguments
-  - Restrictions on generics
+  - [Generic class hierarchies](#generic-class-hierarchies)
+  - [Type argument hierarchies](#type-argument-hierarchies)
+  - [Understand type erasure in generics](#understand-type-erasure-in-generics)
+  - [Understand bridge methods](#understand-bridge-methods)
+  - [Understand type inference and target types](#understand-type-inference-and-target-types)
+  - [Applying wildcard arguments](#applying-wildcard-arguments)
+  - [Restrictions on generics](#restrictions-on-generics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go from here
+  - [Where to go from here](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generics in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generics-in-java?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (4), feature (2), [[Programming]] (1), application (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [ketkee] (1)
 
@@ -153,8 +153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Env Vars:** ide (2), jdk (1)
-> **Code Keywords:** let (2)
 > **Versions:** version 1 (2)
 > **Tools:** intellij (2)
 > **Definitions:** stands for (2)
@@ -165,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Generics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the need for generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980)
@@ -396,7 +396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (35), type. (17), this, (8), class, (7), class. (6)
+> **Frameworks & Libraries:** [[Java]] (19), data (13), next (7), product (5), application (3)
 > **Definitions:** is a  (5), means that (5), is an  (2)
 > **Env Vars:** ide (4), src (1), api (1)
 > **UI Navigation:** click on (5), go to (1)
@@ -626,7 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), type. (9), public (7), this, (6), this. (5)
+> **Frameworks & Libraries:** generic (15), product (9), [[Java]] (8), feature (6), data (6)
 > **Cross-References:** previous video (3), go back to (1), we talked about (1)
 > **Env Vars:** api (2), jdk (1), ide (1)
 > **Definitions:** is a  (2), means that (1), is called (1)
@@ -806,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), type. (9), pass (5), interface (3), type, (3)
+> **Frameworks & Libraries:** generic (16), [[Java]] (7), next (4), feature (1), data (1)
 > **Definitions:** is called (3), is a  (2), known as (2)
 > **Analogies:** for example (6)
 > **Cross-References:** in the next (1), go back to (1), previous video (1)
@@ -934,7 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), type, (4), this, (3), type. (3), this. (2)
+> **Frameworks & Libraries:** generic (11), [[Java]] (7), next (4), feature (1), api (1)
 > **Env Vars:** ide (2), api (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1), is a  (1)
@@ -971,14 +971,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (1), [[Algorithms]] (1), feature (1), [[Java]] (1)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructors] (1)
 
 
 ### 2. Generic Classes and Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generic classes/interface use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-classes-interface-use-case?u=76281980)
@@ -1083,7 +1083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class. (2), this, (2), type. (2), module (1)
+> **Frameworks & Libraries:** application (4), generic (3), next (2)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -1304,7 +1304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), private (8), class. (7), class, (2), type. (2)
+> **Frameworks & Libraries:** generic (7), next (6), [[Java]] (5)
 > **Code Identifiers:** tostring (6), getname (2), getweight (2), getauthor (1), getcountryoforigin (1)
 > **UI Navigation:** select the (2), go to (2), click on (2)
 > **Env Vars:** ide (3), pojo (1)
@@ -1505,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (34), class. (7), type. (3), this. (3), class, (2)
+> **Frameworks & Libraries:** generic (25), next (4), api (1)
 > **Versions:** 0.5 (2), 0.25 (1), 0.3 (1)
 > **Env Vars:** ide (1), api (1), cis (1)
 > **Analogies:** for example (2), similar to (1)
@@ -1615,7 +1615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), class. (6), this. (2), type. (2), pass (2)
+> **Frameworks & Libraries:** generic (12), next (1)
 > **Code Identifiers:** getcountofitems (5), fruitbox (2), getitems (1), bookbox (1)
 > **Cross-References:** go back to (2), previous video (1), we mentioned (1)
 > **Env Vars:** ide (2)
@@ -1939,7 +1939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (36), interface (17), extends (10), class. (7), implements (7)
+> **Frameworks & Libraries:** generic (8), [[Java]] (8), api (4), next (2), application (1)
 > **Code Identifiers:** getweight (10), gettotalweight (6), getcountofitems (1), bookbox (1)
 > **Versions:** 0.5 (2), 0.0 (1), 0.25 (1), 0.75 (1), 0.3 (1)
 > **Definitions:** is a  (4), is an  (2), means that (1)
@@ -1987,7 +1987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), this, (1), interface (1)
+> **Frameworks & Libraries:** [[Programming]] (1), [[Java]] (1), generic (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
@@ -2164,7 +2164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), interface (6), this, (4), pass (4), class. (4)
+> **Frameworks & Libraries:** next (4), [[Java]] (3), api (3), [[LinkedIn]] (1), generic (1)
 > **Code Identifiers:** getmax (3), sortnumbers (2), numericaloperations (2), longlist (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)
@@ -2176,7 +2176,7 @@ created: 2026-04-29
 
 ### 3. Generics: Deep Dive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generic class hierarchies
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-class-hierarchies?u=76281980)
@@ -2373,7 +2373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (32), class. (18), super (13), class, (12), extends (9)
+> **Frameworks & Libraries:** generic (21), [[Java]] (6), next (5), data (2)
 > **Definitions:** is a  (4), means that (2), is an  (1)
 > **Code Identifiers:** gettotalweight (3)
 > **Env Vars:** ide (1)
@@ -2525,7 +2525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), class, (4), match. (4), pass (3), this, (2)
+> **Frameworks & Libraries:** generic (6), next (3), [[Java]] (1), application (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** ide (1)
 > **Cross-References:** previous video (1)
@@ -2693,7 +2693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), type. (4), this, (3), public (2), class. (2)
+> **Frameworks & Libraries:** generic (8), data (4), [[Metadata]] (4), [[Java]] (3), application (1)
 > **Definitions:** means that (2), is a  (2), is called (1), is an  (1)
 > **Env Vars:** ide (3)
 > **Tools:** intellij (2)
@@ -2761,7 +2761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), this, (6), type. (6), public (4), implements (4)
+> **Frameworks & Libraries:** generic (4), [[Java]] (3), api (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** api (1)
@@ -3177,7 +3177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (55), var (9), pass (9), type. (7), static (5)
+> **Frameworks & Libraries:** generic (6), next (3), [[Java]] (1), feature (1), data (1)
 > **Definitions:** is a  (11), is called (3), is an  (3), means that (1)
 > **Env Vars:** ide (6)
 > **Cross-References:** go back to (6)
@@ -3274,7 +3274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (8), this, (7), let (4), class, (3), private (3)
+> **Frameworks & Libraries:** next (4), generic (2), [[Java]] (2)
 > **Code Identifiers:** fruitbox (5), fruitboxarray (1), bookbox (1)
 > **Definitions:** is an  (5), is a  (1)
 > **CLI Commands:** make (3)
@@ -3285,7 +3285,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/where-to-go-from-here?u=76281980)
@@ -3312,6 +3312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), [[LinkedIn]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** jee (1)
 > **Speakers:** - [ketkee] (1)

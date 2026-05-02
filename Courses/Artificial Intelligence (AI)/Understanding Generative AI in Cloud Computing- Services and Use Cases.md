@@ -47,7 +47,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Understanding%20Generative%20AI%20in%20Cloud%20Computing-%20Services%20and%20Use%20Cases.md)
@@ -66,76 +66,76 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Cloud-based generative AI
+  - [Cloud-based generative AI](#cloud-based-generative-ai)
 - [**1. Generative AI and Cloud Computing Basics**](#1-generative-ai-and-cloud-computing-basics) (5 videos)
-  - Introduction to cloud-based generative AI
-  - The business value of generative AI on cloud platforms
-  - New evolutions of generative AI in the cloud
-  - GenAI business use cases
-  - Where GenAI is most effective
+  - [Introduction to cloud-based generative AI](#introduction-to-cloud-based-generative-ai)
+  - [The business value of generative AI on cloud platforms](#the-business-value-of-generative-ai-on-cloud-platforms)
+  - [New evolutions of generative AI in the cloud](#new-evolutions-of-generative-ai-in-the-cloud)
+  - [GenAI business use cases](#genai-business-use-cases)
+  - [Where GenAI is most effective](#where-genai-is-most-effective)
 - [**2. Cloud-Based Services for Generative AI**](#2-cloud-based-services-for-generative-ai) (7 videos)
-  - Introduction to cloud-based storage and data management
-  - Introduction to cloud-based tools for model training and deployment
-  - Introduction to cloud-based APIs for generative AI
-  - Introduction to cloud-based generative models for image and video data
-  - Introduction to Generative Adversarial Networks (GANs) on the cloud
-  - Challenge: Set up cloud services for generative AI
-  - Solution: Set up cloud services for generative AI
+  - [Introduction to cloud-based storage and data management](#introduction-to-cloud-based-storage-and-data-management)
+  - [Introduction to cloud-based tools for model training and deployment](#introduction-to-cloud-based-tools-for-model-training-and-deployment)
+  - [Introduction to cloud-based APIs for generative AI](#introduction-to-cloud-based-apis-for-generative-ai)
+  - [Introduction to cloud-based generative models for image and video data](#introduction-to-cloud-based-generative-models-for-image-and-video-data)
+  - [Introduction to Generative Adversarial Networks (GANs) on the cloud](#introduction-to-generative-adversarial-networks-gans-on-the-cloud)
+  - [Challenge: Set up cloud services for generative AI](#challenge-set-up-cloud-services-for-generative-ai)
+  - [Solution: Set up cloud services for generative AI](#solution-set-up-cloud-services-for-generative-ai)
 - [**3. Features of Cloud-Based Generative AI**](#3-features-of-cloud-based-generative-ai) (8 videos)
-  - Introduction to cloud-based generative AI models for text data
-  - Overview of natural language processing (NLP) techniques for text generation
-  - Cloud-based tools for training language models
-  - MLOps and cloud-based generative AI on the cloud
-  - Emerging GenAI early success
-  - GenAI case study: Defining the business problem to be solved
-  - GenAI case study: System architecture
-  - GenAI case study: Technology solutions
+  - [Introduction to cloud-based generative AI models for text data](#introduction-to-cloud-based-generative-ai-models-for-text-data)
+  - [Overview of natural language processing (NLP) techniques for text generation](#overview-of-natural-language-processing-nlp-techniques-for-text-generation)
+  - [Cloud-based tools for training language models](#cloud-based-tools-for-training-language-models)
+  - [MLOps and cloud-based generative AI on the cloud](#mlops-and-cloud-based-generative-ai-on-the-cloud)
+  - [Emerging GenAI early success](#emerging-genai-early-success)
+  - [GenAI case study: Defining the business problem to be solved](#genai-case-study-defining-the-business-problem-to-be-solved)
+  - [GenAI case study: System architecture](#genai-case-study-system-architecture)
+  - [GenAI case study: Technology solutions](#genai-case-study-technology-solutions)
 - [**4. Cloud-Based Generative AI Use Cases**](#4-cloud-based-generative-ai-use-cases) (11 videos)
-  - Art and music generation use case
-  - Game development use case
-  - Text generation use case
-  - Image and video generation use case
-  - Data augmentation use case
-  - Personalization use case
-  - Medical diagnosis use case
-  - Robotics use case
-  - Other emerging use cases
-  - Challenge: Get creative with art
-  - Solution: Get creative with art
+  - [Art and music generation use case](#art-and-music-generation-use-case)
+  - [Game development use case](#game-development-use-case)
+  - [Text generation use case](#text-generation-use-case)
+  - [Image and video generation use case](#image-and-video-generation-use-case)
+  - [Data augmentation use case](#data-augmentation-use-case)
+  - [Personalization use case](#personalization-use-case)
+  - [Medical diagnosis use case](#medical-diagnosis-use-case)
+  - [Robotics use case](#robotics-use-case)
+  - [Other emerging use cases](#other-emerging-use-cases)
+  - [Challenge: Get creative with art](#challenge-get-creative-with-art)
+  - [Solution: Get creative with art](#solution-get-creative-with-art)
 - [**5. Cloud-Based Generative AI Tools and Solutions**](#5-cloud-based-generative-ai-tools-and-solutions) (7 videos)
-  - Amazon Bedrock
-  - Google Cloud AI Platform
-  - AI and Microsoft Azure
-  - OpenAI
-  - GenAI-powered tools: Security
-  - GenAI-powered tools: DevOps
-  - GenAI-powered tools: Cloud operations
+  - [Amazon Bedrock](#amazon-bedrock)
+  - [Google Cloud AI Platform](#google-cloud-ai-platform)
+  - [AI and Microsoft Azure](#ai-and-microsoft-azure)
+  - [OpenAI](#openai)
+  - [GenAI-powered tools: Security](#genai-powered-tools-security)
+  - [GenAI-powered tools: DevOps](#genai-powered-tools-devops)
+  - [GenAI-powered tools: Cloud operations](#genai-powered-tools-cloud-operations)
 - [**6. Advanced Considerations**](#6-advanced-considerations) (9 videos)
-  - Edge computing and cloud-based generative AI
-  - Federated learning for distributed generative models on the cloud
-  - Security and privacy issues in cloud-based generative AI
-  - Overview of generative AI ethics in the cloud
-  - Data science and generative AI in the cloud
-  - Gen AI troubleshooting and operations
-  - Bias monitoring and transparency for generative AI in the cloud
-  - Challenge: Generative AI on the edge of clouds
-  - Solution: Generative AI on the edge of clouds
+  - [Edge computing and cloud-based generative AI](#edge-computing-and-cloud-based-generative-ai)
+  - [Federated learning for distributed generative models on the cloud](#federated-learning-for-distributed-generative-models-on-the-cloud)
+  - [Security and privacy issues in cloud-based generative AI](#security-and-privacy-issues-in-cloud-based-generative-ai)
+  - [Overview of generative AI ethics in the cloud](#overview-of-generative-ai-ethics-in-the-cloud)
+  - [Data science and generative AI in the cloud](#data-science-and-generative-ai-in-the-cloud)
+  - [Gen AI troubleshooting and operations](#gen-ai-troubleshooting-and-operations)
+  - [Bias monitoring and transparency for generative AI in the cloud](#bias-monitoring-and-transparency-for-generative-ai-in-the-cloud)
+  - [Challenge: Generative AI on the edge of clouds](#challenge-generative-ai-on-the-edge-of-clouds)
+  - [Solution: Generative AI on the edge of clouds](#solution-generative-ai-on-the-edge-of-clouds)
 - [**7. Agentic AI and Generative AI in the Cloud**](#7-agentic-ai-and-generative-ai-in-the-cloud) (9 videos)
-  - Overview of agentic AI in the cloud
-  - Linked between generative AI and agentic AI
-  - The importance of agentic AI
-  - Agentic AI and GenAI, what changes, and what's the same
-  - Multi-AI agent deployment on the cloud
-  - Agentic AI tools for generative AI development in the cloud
-  - Where agentic AI is a fit, and not
-  - Challenge: Agentic AI use case
-  - Solution: Agentic AI use case
+  - [Overview of agentic AI in the cloud](#overview-of-agentic-ai-in-the-cloud)
+  - [Linked between generative AI and agentic AI](#linked-between-generative-ai-and-agentic-ai)
+  - [The importance of agentic AI](#the-importance-of-agentic-ai)
+  - [Agentic AI and GenAI, what changes, and what's the same](#agentic-ai-and-genai-what-changes-and-whats-the-same)
+  - [Multi-AI agent deployment on the cloud](#multi-ai-agent-deployment-on-the-cloud)
+  - [Agentic AI tools for generative AI development in the cloud](#agentic-ai-tools-for-generative-ai-development-in-the-cloud)
+  - [Where agentic AI is a fit, and not](#where-agentic-ai-is-a-fit-and-not)
+  - [Challenge: Agentic AI use case](#challenge-agentic-ai-use-case)
+  - [Solution: Agentic AI use case](#solution-agentic-ai-use-case)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Trying out cloud-based generative AI
+  - [Trying out cloud-based generative AI](#trying-out-cloud-based-generative-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud-based generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/cloud-based-generative-ai?u=76281980)
@@ -158,13 +158,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (4), cloud (4), power (1), game (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - generative (1)
 
 
 ### 1. Generative AI and Cloud Computing Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud-based generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/introduction-to-cloud-based-generative-ai?u=76281980)
@@ -211,7 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), public (1), continue (1), self (1)
+> **Frameworks & Libraries:** cloud (6), [[Generative AI]] (5), data (1), [[Deep Learning]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gan (1)
 > **Analogies:** such as (1)
@@ -252,6 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Generative AI]] (7), cloud (6), business (3), [[Hardware]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -305,7 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** ai (15), cloud (9), [[Generative AI]] (4), power (2), open-source (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
@@ -376,7 +378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), cloud (6), ai (6), business (3), data (2)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -427,6 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[Generative AI]] (7), ai (3), teams (2), power (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -436,7 +439,7 @@ created: 2026-04-29
 
 ### 2. Cloud-Based Services for Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud-based storage and data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/introduction-to-cloud-based-storage-and-data-management?u=76281980)
@@ -501,8 +504,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (25), [[Generative AI]] (12), data (11), ai (6), [[Databases]] (4)
 > **CLI Commands:** find (1), make (1), aws (1)
-> **Code Keywords:** this, (1), public (1), function (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Env Vars:** aws (1), rds (1)
 > **Analogies:** such as (1)
@@ -570,6 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), ai (6), [[Generative AI]] (6), [[Scalability]] (2), [[Hardware]] (2)
 > **Env Vars:** aws (2), nlp (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** means that (2)
@@ -612,8 +616,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), cloud (6), api (2), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), application (1)
 > **Env Vars:** api (2), ibm (1), aws (1)
-> **Code Keywords:** interface (2), let (1)
 > **CLI Commands:** find (1), aws (1)
 > **Speakers:** - [narrator] (1)
 
@@ -660,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (1), type. (1)
+> **Frameworks & Libraries:** data (4), cloud (3), [[Generative AI]] (3), [[Computer Vision]] (3), ai (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -709,9 +713,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), ai (4), data (3), gcp (3), [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** gan (7), gcp (3), aws (2), asw (1)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** require (1), public (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -750,6 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), power (1), cloud (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright entertaining music) (1)
@@ -803,9 +808,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), aws (6), [[Generative AI]] (3), [[Amazon EC2|Ec2]] (2), ai (2)
 > **Env Vars:** aws (6), ec2 (2)
 > **CLI Commands:** aws (6)
-> **Code Keywords:** case, (2), let (1), this: (1), require (1), this, (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -814,7 +819,7 @@ created: 2026-04-29
 
 ### 3. Features of Cloud-Based Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud-based generative AI models for text data
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/introduction-to-cloud-based-generative-ai-models-for-text-data?u=76281980)
@@ -887,8 +892,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Generative AI]] (7), cloud (4), ai (2), [[ChatGPT]] (2)
 > **Analogies:** such as (4), for example (1), it's like (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Overview of natural language processing (NLP) techniques for text generation
@@ -978,9 +983,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (9), data (5), ai (3), [[Microsoft Word|Word]] (3), cloud (3)
 > **Env Vars:** nlp (9), gpt (2), hmm (1)
 > **Analogies:** such as (3), similar to (1)
-> **Code Keywords:** let (1), public (1), self (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** template (2)
@@ -1048,12 +1053,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), ai (6), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (2)
 > **Env Vars:** aws (2), gpt4 (2), ide (1), gpt3 (1), api (1)
 > **Cross-References:** previous video (1), we mentioned (1), we covered (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** for instance (1), such as (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 
 #### MLOps and cloud-based generative AI on the cloud
@@ -1109,9 +1114,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), ai (6), [[Generative AI]] (6), data (5), [[MLOps]] (4)
 > **Env Vars:** gpu (1), tpu (1)
 > **CLI Commands:** cd (1)
-> **Code Keywords:** extends (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1148,7 +1153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), continue (1)
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (3), cloud (2), power (1), [[Scalability]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### GenAI case study: Defining the business problem to be solved
@@ -1200,7 +1205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1)
+> **Frameworks & Libraries:** business (4), data (4), [[Generative AI]] (2), ai (2), teams (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1248,7 +1253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), finally, (1)
+> **Frameworks & Libraries:** data (6), cloud (4), ai (2), business (2), next (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** rrnn (1)
 > **Analogies:** such as (1)
@@ -1293,16 +1298,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), cloud (4), [[Security]] (2), [[MLOps]] (2), [[Generative AI]] (1)
 > **Env Vars:** aws (1), gpt (1), bert (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Cloud-Based Generative AI Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Art and music generation use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/art-and-music-generation-use-case?u=76281980)
@@ -1359,8 +1364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[Generative AI]] (5), ai (3), data (2), business (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1433,8 +1438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (7), cloud (4), ai (4), [[Generative AI]] (3), data (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Versions:** 91.8 (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1505,6 +1510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), cloud (5), data (3), chatbot (2), [[Customer Support]] (2)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** ivr (1)
@@ -1560,9 +1566,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Generative AI]] (3), cloud (3), ai (2), [[Content Creation]] (2)
 > **Analogies:** for example (1), picture (1), such as (1)
 > **CLI Commands:** cat (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1616,6 +1622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Generative AI]] (5), ai (3), nlp (3), cloud (2)
 > **Env Vars:** nlp (3)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1665,6 +1672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), ai (2), product (2), [[Microsoft Products|Products]] (2), cloud (2)
 > **Definitions:** known as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1716,6 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), data (6), ai (3), cloud (2), [[Algorithms]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1757,6 +1766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), cloud (4), ai (3), [[Algorithms]] (3), application (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1796,7 +1806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), cloud (3), [[Storytelling]] (2), ai (2), data (1)
 > **Env Vars:** cad (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1843,7 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (4), [[Generative AI]] (4), ai (2), [[Algorithms]] (2), power (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1893,13 +1903,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (5), data (2), cloud (2), [[Generative AI Tools]] (1), [[Cloud Infrastructure]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
 
 ### 5. Cloud-Based Generative AI Tools and Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Amazon Bedrock
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/amazon-bedrock?u=76281980)
@@ -1954,10 +1965,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (4), [[Security]] (3), aws (2), cloud (1)
 > **Env Vars:** aws (2), rds (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** for example (1), for instance (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Google Cloud AI Platform
@@ -2005,9 +2016,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Google]] (5), ai (5), [[Generative AI]] (4), management (3)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2054,6 +2065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Azure|Azure]] (5), [[Analytics]] (3), data (3), ai (3)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** apache (1)
@@ -2106,6 +2118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI Tools]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Generative AI]] (2), cloud (1), product (1)
 > **Env Vars:** gpt (9), api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2154,8 +2167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), cloud (3), data (3), teams (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gdpr (1), hipaa (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### GenAI-powered tools: DevOps
@@ -2189,8 +2202,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[DevOps]] (3), ai (3), cloud (3), [[MLOps]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** protected (1)
 > **Env Vars:** cicd (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2229,6 +2242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), data (4), ai (3), management (2), [[Automation]] (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** cd (1)
 > **Env Vars:** tpu (1)
@@ -2237,7 +2251,7 @@ created: 2026-04-29
 
 ### 6. Advanced Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Edge computing and cloud-based generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/edge-computing-and-cloud-based-generative-ai?u=76281980)
@@ -2302,7 +2316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** cloud (11), data (11), [[Generative AI]] (7), power (2), [[IoT]] (2)
 > **Analogies:** such as (3)
 > **Env Vars:** iot (2)
 > **Definitions:** in other words (1)
@@ -2351,7 +2365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), protected (1)
+> **Frameworks & Libraries:** data (15), [[Privacy]] (4), [[Generative AI]] (3), cloud (2), feature (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2405,6 +2419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Privacy]] (5), data (5), [[Security]] (4), cloud (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2453,7 +2468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** data (6), [[Generative AI]] (5), [[Privacy]] (3), [[Ethics]] (2), [[Algorithms]] (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [presenter] (1)
 
@@ -2496,6 +2511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), ai (7), cloud (6), [[Generative AI]] (5), [[Automation]] (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** rag (1)
 > **Speakers:** - [narrator] (1)
@@ -2535,6 +2551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Troubleshooting]] (4), data (3), [[Continuous Monitoring]] (1), [[Dashboards]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Bias monitoring and transparency for generative AI in the cloud
@@ -2576,7 +2593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), this, (1)
+> **Frameworks & Libraries:** ai (6), data (4), [[Accountability]] (3), cloud (1), [[Generative AI]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -2604,8 +2621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), power (2), [[Automation]] (1), product (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** xyz (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2668,7 +2685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), this, (1)
+> **Frameworks & Libraries:** cloud (6), data (4), [[Real-Time]] (3), [[Generative AI]] (3), [[Cloud Infrastructure]] (2)
 > **Env Vars:** xyz (3)
 > **Analogies:** such as (2)
 > **Warnings:** keep in mind (1)
@@ -2679,7 +2696,7 @@ created: 2026-04-29
 
 ### 7. Agentic AI and Generative AI in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of agentic AI in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/overview-of-agentic-ai-in-the-cloud?u=76281980)
@@ -2740,8 +2757,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), cloud (6), [[Generative AI]] (4), business (2), data (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Linked between generative AI and agentic AI
@@ -2789,9 +2806,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Generative AI]] (8), data (3), cloud (2), [[Routing]] (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2832,6 +2849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), business (1), cloud (1), [[React.js|React]] (1), [[Regulatory Compliance]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Agentic AI and GenAI, what changes, and what's the same
@@ -2867,8 +2885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), cloud (2), data (2), [[Decision-Making]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Multi-AI agent deployment on the cloud
@@ -2916,6 +2934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), cloud (2), [[Generative AI]] (2), [[Security]] (2), [[Orchestration]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpu (1), rag (1)
@@ -2956,6 +2975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Security]] (4), [[Generative AI]] (2), cloud (1), [[LangChain]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **URLs:** [fixie.ai](https://fixie.ai) (1)
@@ -2993,7 +3013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3)
+> **Frameworks & Libraries:** ai (7), data (2), [[Supply Chain Management]] (1), cloud (1), [[Orchestration]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -3023,6 +3043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (1), management (1), [[Automation]] (1), business (1), ai (1)
 > **Speakers:** - [narrator] (1)
 
 #### Solution: Agentic AI use case
@@ -3060,13 +3081,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** ai (3), [[Real-Time]] (2), [[Automation]] (1), [[Generative AI]] (1), data (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Trying out cloud-based generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/trying-out-cloud-based-generative-ai?u=76281980)
@@ -3115,7 +3136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), self (1)
+> **Frameworks & Libraries:** cloud (7), [[Generative AI]] (6), data (2), aws (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** aws (1), ibm (1)
 > **CLI Commands:** aws (1)
 > **Exercise Files:** sample code (1)

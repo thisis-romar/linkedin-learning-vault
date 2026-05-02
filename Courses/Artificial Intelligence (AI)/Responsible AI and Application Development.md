@@ -36,7 +36,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20and%20Application%20Development.md)
@@ -55,43 +55,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Responsible AI and application development
+  - [Responsible AI and application development](#responsible-ai-and-application-development)
 - [**1. Designing Responsible AI**](#1-designing-responsible-ai) (2 videos)
-  - Responsible design
-  - Being responsible end to end
+  - [Responsible design](#responsible-design)
+  - [Being responsible end to end](#being-responsible-end-to-end)
 - [**2. Acquiring Data**](#2-acquiring-data) (3 videos)
-  - Ethical data collection
-  - Tools to understand your data
-  - Demo of model cards, nutrition labels, etc.
+  - [Ethical data collection](#ethical-data-collection)
+  - [Tools to understand your data](#tools-to-understand-your-data)
+  - [Demo of model cards, nutrition labels, etc.](#demo-of-model-cards-nutrition-labels-etc)
 - [**3. Preprocessing Data**](#3-preprocessing-data) (3 videos)
-  - Why preprocess data?
-  - Techniques to preprocess data
-  - Demo of data preprocessing
+  - [Why preprocess data?](#why-preprocess-data)
+  - [Techniques to preprocess data](#techniques-to-preprocess-data)
+  - [Demo of data preprocessing](#demo-of-data-preprocessing)
 - [**4. Augmenting Data**](#4-augmenting-data) (3 videos)
-  - What is data augmentation
-  - When data augmentation goes wrong
-  - Demo of image augmentation with PyTorch
+  - [What is data augmentation](#what-is-data-augmentation)
+  - [When data augmentation goes wrong](#when-data-augmentation-goes-wrong)
+  - [Demo of image augmentation with PyTorch](#demo-of-image-augmentation-with-pytorch)
 - [**5. Creating Model Architectures**](#5-creating-model-architectures) (3 videos)
-  - Optimization: Responsible neural architecture design
-  - Loss: Responsible neural architecture design
-  - Others: Responsible neural architecture design
+  - [Optimization: Responsible neural architecture design](#optimization-responsible-neural-architecture-design)
+  - [Loss: Responsible neural architecture design](#loss-responsible-neural-architecture-design)
+  - [Others: Responsible neural architecture design](#others-responsible-neural-architecture-design)
 - [**6. Transfer Learning**](#6-transfer-learning) (4 videos)
-  - What is transfer learning?
-  - The risks of transfer learning: Inheriting bias
-  - The risks of fine-tuning: Inheriting bias
-  - Demonstrate BERT, inherited bias, and fine-tuning to fix
+  - [What is transfer learning?](#what-is-transfer-learning)
+  - [The risks of transfer learning: Inheriting bias](#the-risks-of-transfer-learning-inheriting-bias)
+  - [The risks of fine-tuning: Inheriting bias](#the-risks-of-fine-tuning-inheriting-bias)
+  - [Demonstrate BERT, inherited bias, and fine-tuning to fix](#demonstrate-bert-inherited-bias-and-fine-tuning-to-fix)
 - [**7. Model Training**](#7-model-training) (2 videos)
-  - Responsible practices during training
-  - Training an image classifier
+  - [Responsible practices during training](#responsible-practices-during-training)
+  - [Training an image classifier](#training-an-image-classifier)
 - [**8. Model Deployment and Applications**](#8-model-deployment-and-applications) (2 videos)
-  - Considerations in model deployment
-  - Ops and continuous evaluation
+  - [Considerations in model deployment](#considerations-in-model-deployment)
+  - [Ops and continuous evaluation](#ops-and-continuous-evaluation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your responsible AI journey
+  - [Continue your responsible AI journey](#continue-your-responsible-ai-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI and application development
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-ai-and-application-development?u=76281980)
@@ -110,13 +110,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (2), [[Responsible AI]] (1), power (1), data (1)
 > **Speakers:** - responsible (1)
 
 
 ### 1. Designing Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible design
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), self (1), this. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), ai (2), [[Responsible AI]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ux (1)
 > **Analogies:** picture (2), for example (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (1), this. (1)
+> **Frameworks & Libraries:** data (9), next (4), application (1), prompt (1), ai (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** in the next (1), later in (1)
 > **CLI Commands:** make (1)
@@ -259,7 +259,7 @@ created: 2026-04-29
 
 ### 2. Acquiring Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical data collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980)
@@ -350,7 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else, (2)
+> **Frameworks & Libraries:** data (27), [[Privacy]] (8), next (3), open-source (3), ai (2)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** cddi (1), dvc (1)
 > **CLI Commands:** make (1)
@@ -444,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (17), next (3), [[Responsible AI]] (2), [[GitHub]] (2), [[Google]] (1)
 > **Env Vars:** url (2), bert (1), ibm (1)
 > **Analogies:** kind of like (1), imagine (1), for example (1), such as (1)
 > **CLI Commands:** make (2), find (1)
@@ -500,7 +500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (2), public (1), this. (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** data (11), [[Public Health]] (1)
 > **Analogies:** for example (4), it's like (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
@@ -510,7 +510,7 @@ created: 2026-04-29
 
 ### 3. Preprocessing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why preprocess data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/why-preprocess-data?u=76281980)
@@ -587,7 +587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), if, (1)
+> **Frameworks & Libraries:** data (11), ai (2), [[Image Processing]] (1), next (1)
 > **Analogies:** for example (2), just like (1), imagine (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we mentioned (1), in the next (1)
@@ -680,8 +680,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Feature Engineering]] (6), ai (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3), this. (1)
 > **Analogies:** for example (3), imagine (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -814,7 +814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), this. (1), case, (1), for. (1)
+> **Frameworks & Libraries:** data (22), [[Microsoft Word|Word]] (1)
 > **Env Vars:** csv (3), rgb (2)
 > **Warnings:** warning (4), watch out (1)
 > **Analogies:** for example (2), imagine (2)
@@ -826,7 +826,7 @@ created: 2026-04-29
 
 ### 4. Augmenting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980)
@@ -899,10 +899,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Computer Vision]] (1), [[Zoom]] (1), [[Ethics]] (1), next (1)
 > **CLI Commands:** cat (9)
 > **Definitions:** is a  (6), is an  (1)
 > **Analogies:** picture (3), imagine (1), such as (1), similar to (1), for example (1)
-> **Code Keywords:** this, (1), new, (1), let (1)
 > **Speakers:** - data (1)
 
 #### When data augmentation goes wrong
@@ -972,7 +972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), this. (1)
+> **Frameworks & Libraries:** data (12), power (1), next (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -1241,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (4), switch (1), raise (1)
+> **Frameworks & Libraries:** data (8), next (2), [[PyTorch]] (2), [[Computer Vision]] (1), [[Google]] (1)
 > **Versions:** 1.5 (2), 0.1 (2), 2.5 (2), 0.6 (1), 0.5 (1)
 > **Analogies:** for example (3), picture (2), such as (1), it's like (1), imagine (1)
 > **Definitions:** is a  (6)
@@ -1253,7 +1253,7 @@ created: 2026-04-29
 
 ### 5. Creating Model Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimization: Responsible neural architecture design
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980)
@@ -1306,7 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), function (1)
+> **Frameworks & Libraries:** data (5), [[Neural Networks]] (2), [[Computer Vision]] (1), next (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1383,7 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), class, (1)
+> **Frameworks & Libraries:** data (4), [[Probability]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1)
@@ -1441,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), abstract (1), protected (1), let (1), this, (1)
+> **Frameworks & Libraries:** data (14), feature (2), llm (1)
 > **Analogies:** for example (2)
 > **Env Vars:** llm (1)
 > **Speakers:** - in (1)
@@ -1449,7 +1449,7 @@ created: 2026-04-29
 
 ### 6. Transfer Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is transfer learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980)
@@ -1508,7 +1508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), case, (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[System Architecture]] (1), power (1), [[PyTorch]] (1), [[TensorFlow]] (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
@@ -1578,9 +1578,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Computer Vision]] (2), data (1), [[Fine Tuning]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (3), for example (3)
 > **Env Vars:** bert (3)
-> **Code Keywords:** super (1), let (1)
 > **Best Practices:** good practice (2)
 > **Warnings:** be aware (2)
 > **Speakers:** - so (1)
@@ -1684,7 +1684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), else, (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Fine Tuning]] (2), product (1), data (1), application (1)
 > **Env Vars:** bert (7)
 > **Analogies:** for example (3), kind of like (1)
 > **CLI Commands:** make (1)
@@ -1869,9 +1869,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Python (Programming Language)|Python]] (1), product (1)
 > **Analogies:** for example (5), such as (1)
 > **CLI Commands:** make (3), python (1)
-> **Code Keywords:** let (2), this, (1), this. (1)
 > **File Paths:** 6-3.bertbias.py (1), bertbias.py (1)
 > **Versions:** 2.064 (1), 0.544 (1)
 > **Env Vars:** ch6_3 (1)
@@ -1881,7 +1881,7 @@ created: 2026-04-29
 
 ### 7. Model Training
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible practices during training
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-practices-during-training?u=76281980)
@@ -1946,7 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), for. (2), let (2), function (1), raise (1)
+> **Frameworks & Libraries:** data (4), [[Computer Vision]] (2), ai (1), next (1)
 > **CLI Commands:** find (2)
 > **Versions:** 0.3 (1)
 > **Cross-References:** in the next (1)
@@ -2034,7 +2034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1), for. (1)
+> **Frameworks & Libraries:** data (2), [[Security]] (1)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -2043,7 +2043,7 @@ created: 2026-04-29
 
 ### 8. Model Deployment and Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Considerations in model deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980)
@@ -2108,8 +2108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Hardware]] (3), cloud (3), [[Speech Recognition]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), this. (1), case. (1)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** ios (1)
 > **Analogies:** for example (1)
@@ -2174,14 +2174,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), include, (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[MLOps]] (2), feature (2), next (1), [[User Experience (UX)|User experience]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - training (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your responsible AI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980)
@@ -2230,8 +2230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Fine Tuning]] (1), [[Hardware]] (1), [[MLOps]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1), finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - wow (1)
 

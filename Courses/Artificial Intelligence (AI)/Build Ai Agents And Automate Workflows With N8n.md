@@ -30,7 +30,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20Ai%20Agents%20And%20Automate%20Workflows%20With%20N8n.md)
@@ -49,27 +49,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Making AI agents work for you
+  - [Making AI agents work for you](#making-ai-agents-work-for-you)
 - [**1. Building AI Agents with n8n**](#1-building-ai-agents-with-n8n) (13 videos)
-  - Introducing n8n
-  - The Plan: An AI-powered Slackbot managing a Google Sheet
-  - Creating a new n8n workflow with a trigger
-  - Adding an AI agent and a chat model
-  - Adding a tool to the AI agent
-  - Using a sub-workflow as a tool
-  - Using the filter node to modify data
-  - Creating an MCP server in n8n
-  - Adding tools to the MCP server
-  - Creating a Slackbot
-  - Authenticating Slack
-  - Adding a Slack trigger
-  - Sending messages to Slack
+  - [Introducing n8n](#introducing-n8n)
+  - [The Plan: An AI-powered Slackbot managing a Google Sheet](#the-plan-an-ai-powered-slackbot-managing-a-google-sheet)
+  - [Creating a new n8n workflow with a trigger](#creating-a-new-n8n-workflow-with-a-trigger)
+  - [Adding an AI agent and a chat model](#adding-an-ai-agent-and-a-chat-model)
+  - [Adding a tool to the AI agent](#adding-a-tool-to-the-ai-agent)
+  - [Using a sub-workflow as a tool](#using-a-sub-workflow-as-a-tool)
+  - [Using the filter node to modify data](#using-the-filter-node-to-modify-data)
+  - [Creating an MCP server in n8n](#creating-an-mcp-server-in-n8n)
+  - [Adding tools to the MCP server](#adding-tools-to-the-mcp-server)
+  - [Creating a Slackbot](#creating-a-slackbot)
+  - [Authenticating Slack](#authenticating-slack)
+  - [Adding a Slack trigger](#adding-a-slack-trigger)
+  - [Sending messages to Slack](#sending-messages-to-slack)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making AI agents work for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/making-ai-agents-work-for-you?u=76281980)
@@ -92,7 +92,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), let (1)
+> **Frameworks & Libraries:** [[Automation]] (4), ai (3), [[Slack]] (1), [[Google]] (1)
 > **Tools:** slack (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
@@ -100,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Building AI Agents with n8n
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing n8n
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980)
@@ -147,9 +147,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), ai (4), [[Automation]] (1), [[Orchestration]] (1), application (1)
 > **Prerequisites:** set up (3), install (1)
 > **CLI Commands:** make (1), docker (1)
-> **Code Keywords:** self (2)
 > **URLs:** [n8n.io](https://n8n.io) (2)
 > **Env Vars:** n8n (1), url (1)
 > **Tools:** github (1)
@@ -195,8 +195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (7), ai (4), [[Google]] (4), data (2), [[Automation]] (1)
 > **Tools:** slack (7)
-> **Code Keywords:** interface (1), for. (1), let (1), this. (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** mcp (1)
@@ -265,9 +265,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (3), [[Google]] (1), [[Microsoft 365]] (1), node (1)
 > **Tools:** slack (3)
 > **CLI Commands:** find (1), node (1)
-> **Code Keywords:** let (1), interface (1)
 > **Env Vars:** n8n (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
@@ -385,10 +385,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), node (6), data (3), next (2), [[OpenAI API]] (2)
 > **CLI Commands:** node (6)
 > **Env Vars:** api (3), request (2)
 > **UI Navigation:** click on (2), go to (2), select the (1)
-> **Code Keywords:** let (3), this, (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** set up (2)
 > **Code Identifiers:** chatinput (1)
@@ -529,7 +529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), continue (2), delete (2), else. (1), let (1)
+> **Frameworks & Libraries:** [[Google]] (14), ai (10), data (7), feature (2), database (1)
 > **UI Navigation:** click on (2), select the (2), go to (1), dropdown (1)
 > **Prerequisites:** set up (3), setup (1)
 > **Env Vars:** api (1), json (1)
@@ -638,7 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), this, (1), else. (1), interface (1)
+> **Frameworks & Libraries:** ai (8), [[Google]] (5), data (5), [[Tokens]] (2), database (2)
 > **Code Identifiers:** query_value (4), query_column (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -762,7 +762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), match. (1), for. (1), else. (1)
+> **Frameworks & Libraries:** [[Google]] (8), node (2), next (2), [[Data Transformation]] (1), ai (1)
 > **Cross-References:** go back to (5)
 > **CLI Commands:** node (2), make (1), find (1)
 > **UI Navigation:** go to (1)
@@ -892,11 +892,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (4), ai (3), node (2), [[Search]] (1), web (1)
 > **Env Vars:** mcp (21), url (8)
 > **CLI Commands:** make (3), node (2), find (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** known as (1), is an  (1), in other words (1)
-> **Code Keywords:** delete (1), let (1)
 > **Code Identifiers:** query_column (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
@@ -1020,8 +1020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Google]] (3)
 > **Env Vars:** mcp (11), url (4), false (1)
-> **Code Keywords:** let (6), switch (2), default. (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -1091,8 +1091,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (9), ai (2), api (1), next (1)
 > **Tools:** slack (9)
-> **Code Keywords:** private (3), public (1)
 > **Env Vars:** n8n (2)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (2)
@@ -1207,10 +1207,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (13), [[JSON]] (3), ai (2), api (1), next (1)
 > **Tools:** slack (13)
 > **Env Vars:** url (5), json (3), api (1)
 > **UI Navigation:** go to (4), dropdown (1), select the (1)
-> **Code Keywords:** let (2), pass (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1266,8 +1266,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (8), ai (2), api (1)
 > **Tools:** slack (8)
-> **Code Keywords:** let (3), case, (2), from, (1), type. (1)
 > **Non-Speech:** (typing loudly) (2)
 > **Env Vars:** api (1)
 > **UI Navigation:** dropdown (1)
@@ -1337,18 +1337,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (4), api (1), [[Google]] (1)
 > **Env Vars:** url (6), api (1), mcp (1)
 > **Tools:** slack (4)
 > **UI Navigation:** go to (2), toggle (1), open the (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980)
@@ -1417,10 +1417,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Automation]] (3), [[Google]] (3), [[Slack]] (3), data (1)
 > **CLI Commands:** make (4), go build (2), find (2)
 > **Env Vars:** n8n (4)
 > **Tools:** slack (3), github (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [n8n.io](https://n8n.io) (1)
 > **Cross-References:** in the next (1)

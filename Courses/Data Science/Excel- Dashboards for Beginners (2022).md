@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/excel-dashboards
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Dashboards%20for%20Beginners%20(2022).md)
@@ -47,26 +47,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Transform the way you present data to leaders
-  - What is a dashboard?
-  - What to know before starting
+  - [Transform the way you present data to leaders](#transform-the-way-you-present-data-to-leaders)
+  - [What is a dashboard?](#what-is-a-dashboard)
+  - [What to know before starting](#what-to-know-before-starting)
 - [**1. Excel Dashboard Components**](#1-excel-dashboard-components) (4 videos)
-  - Store data in Excel tables
-  - Create PivotTables for data summaries
-  - Visualize data with PivotCharts
-  - Add interactivity with slicers and timelines
+  - [Store data in Excel tables](#store-data-in-excel-tables)
+  - [Create PivotTables for data summaries](#create-pivottables-for-data-summaries)
+  - [Visualize data with PivotCharts](#visualize-data-with-pivotcharts)
+  - [Add interactivity with slicers and timelines](#add-interactivity-with-slicers-and-timelines)
 - [**2. Creating Your First Dashboard**](#2-creating-your-first-dashboard) (5 videos)
-  - Get familiar with the data
-  - Create a summary table
-  - Build impactful charts
-  - Add interactivity with slicers and timelines
-  - Lay it all out
+  - [Get familiar with the data](#get-familiar-with-the-data)
+  - [Create a summary table](#create-a-summary-table)
+  - [Build impactful charts](#build-impactful-charts)
+  - [Add interactivity with slicers and timelines](#add-interactivity-with-slicers-and-timelines)
+  - [Lay it all out](#lay-it-all-out)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your Excel dashboards journey
+  - [Continue your Excel dashboards journey](#continue-your-excel-dashboards-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform the way you present data to leaders
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980)
@@ -111,9 +111,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3), [[Excel Dashboards]] (2), [[Microsoft Excel]] (2), [[Dashboards]] (2)
 > **Env Vars:** ibm (1), mvp (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** while, (1)
 > **Versions:** 2.7 (1)
 > **Speakers:** - [jordan] (1)
 
@@ -262,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), this. (1), class. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Dashboards]] (8), [[Analytics]] (4), [[Business Intelligence (BI)|Business intelligence]] (1), business (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (1), coming up (1)
@@ -292,8 +292,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel]] (2), [[Microsoft Office|Office]] (1), [[Windows]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -301,7 +301,7 @@ created: 2026-04-29
 
 ### 1. Excel Dashboard Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Store data in Excel tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980)
@@ -442,7 +442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), data (4), hit (4), [[Dashboards]] (2), feature (2)
 > **UI Navigation:** go to (3), select the (1), scroll down (1), click on (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** note that (2)
@@ -586,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), this, (2), class, (1), from, (1)
+> **Frameworks & Libraries:** data (7), [[Pivot Tables]] (3), [[Analytics]] (2), next (1), hit (1)
 > **UI Navigation:** select the (1), dropdown (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -648,7 +648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1)
+> **Frameworks & Libraries:** data (3), next (1), [[Microsoft Excel|Excel]] (1), hit (1), [[Dashboards]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
@@ -781,7 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1)
+> **Frameworks & Libraries:** data (8), [[Dashboards]] (1), [[Microsoft Excel|Excel]] (1), hit (1), [[Pivot Tables]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Warnings:** note that (3)
 > **CLI Commands:** make (2)
@@ -792,7 +792,7 @@ created: 2026-04-29
 
 ### 2. Creating Your First Dashboard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get familiar with the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980)
@@ -851,7 +851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -888,7 +888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (3), hit (2), [[Dashboards]] (1), next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Build impactful charts
@@ -1016,7 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), delete (2), this. (2), let (1), finally, (1)
+> **Frameworks & Libraries:** next (8), data (5), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (4), dropdown (1), right-click (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
@@ -1088,7 +1088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** hit (3), data (3), next (2), [[Pivot Tables]] (2)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1310,8 +1310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), [[Zoom]] (4), hit (4), data (3), [[Dashboards]] (1)
 > **UI Navigation:** click on (7), go to (5), select the (2)
-> **Code Keywords:** let (6), delete (2), case. (2), case, (1), abstract (1)
 > **CLI Commands:** make (8)
 > **Warnings:** note that (2)
 > **Prerequisites:** set up (1)
@@ -1320,7 +1320,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your Excel dashboards journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980)
@@ -1435,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (2), this. (2), case, (1), continue (1)
+> **Frameworks & Libraries:** next (5), [[Dashboards]] (4), data (4), [[Analytics]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), is a  (1)
 > **Exercise Files:** template (1)

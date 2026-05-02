@@ -31,7 +31,7 @@ tags:
   - skill/web-accessibility
   - skill/web-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessible%20Layout%20for%20the%20Web.md)
@@ -50,28 +50,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Creating accessible web layout for a diverse audience
+  - [Creating accessible web layout for a diverse audience](#creating-accessible-web-layout-for-a-diverse-audience)
 - [**1. Understanding Accessibility**](#1-understanding-accessibility) (3 videos)
-  - What is web accessibility?
-  - Making a case for accessibility
-  - Tools for testing accessibility
+  - [What is web accessibility?](#what-is-web-accessibility)
+  - [Making a case for accessibility](#making-a-case-for-accessibility)
+  - [Tools for testing accessibility](#tools-for-testing-accessibility)
 - [**2. Accessibility Standards**](#2-accessibility-standards) (2 videos)
-  - Accessible standards (WCAG)
-  - Guiding principles of web accessibility
+  - [Accessible standards (WCAG)](#accessible-standards-wcag)
+  - [Guiding principles of web accessibility](#guiding-principles-of-web-accessibility)
 - [**3. Creating Accessible Layout**](#3-creating-accessible-layout) (7 videos)
-  - Semantic HTML
-  - Accessible navigation and focus
-  - Accessible forms
-  - Accessible tables
-  - Accessible images and media
-  - Challenge: Build an accessible web page
-  - Solution: Build an accessible web page
+  - [Semantic HTML](#semantic-html)
+  - [Accessible navigation and focus](#accessible-navigation-and-focus)
+  - [Accessible forms](#accessible-forms)
+  - [Accessible tables](#accessible-tables)
+  - [Accessible images and media](#accessible-images-and-media)
+  - [Challenge: Build an accessible web page](#challenge-build-an-accessible-web-page)
+  - [Solution: Build an accessible web page](#solution-build-an-accessible-web-page)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps for improving accessibility in web applications
+  - [Next steps for improving accessibility in web applications](#next-steps-for-improving-accessibility-in-web-applications)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating accessible web layout for a diverse audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980)
@@ -92,13 +92,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [gift (1)
 
 
 ### 1. Understanding Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is web accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/what-is-web-accessibility?u=76281980)
@@ -135,7 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1)
+> **Frameworks & Libraries:** web (2), application (2), [[Web Accessibility]] (1)
 > **Versions:** 98.1 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -182,7 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1)
+> **Frameworks & Libraries:** web (5)
 > **Versions:** 1.3 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -263,10 +264,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), product (2), [[Web Development]] (2), next (2), web (2)
 > **Env Vars:** wave (1), html (1), css (1), wcag (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** case, (1)
 > **Versions:** 2.2 (1)
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
@@ -274,7 +275,7 @@ created: 2026-04-29
 
 ### 2. Accessibility Standards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible standards (WCAG)
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-standards-wcag?u=76281980)
@@ -319,6 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[Web Accessibility]] (1)
 > **Env Vars:** wcag (2), aaa (2), a11y (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 2.2 (1)
@@ -377,7 +379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), finally, (2), let (1)
+> **Frameworks & Libraries:** web (5), application (2), [[Web Accessibility]] (1), next (1)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pour (1)
@@ -387,7 +389,7 @@ created: 2026-04-29
 
 ### 3. Creating Accessible Layout
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Semantic HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980)
@@ -460,8 +462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (8), [[User Experience (UX)|User experience]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Search]] (1), management (1)
 > **Env Vars:** html (8), aria (4), hdml (1)
-> **Code Keywords:** finally, (1), interface (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -546,8 +548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), web (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
-> **Code Keywords:** for. (1), let (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** wcag (1)
 > **UI Navigation:** click on (1)
@@ -617,7 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** [[Forms]] (8), web (2), next (1)
 > **UI Navigation:** dropdown (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -685,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (3), [[HTML]] (2)
 > **Env Vars:** html (2)
 > **Exercise Files:** exercise files (1), starter code (1)
 > **Best Practices:** best practice (1), recommended (1)
@@ -742,10 +744,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), web (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
@@ -772,7 +774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** web (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
@@ -1037,7 +1039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (3), this. (2), this, (1), super (1)
+> **Frameworks & Libraries:** next (8), [[HTML]] (3), css (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Cross-References:** go back to (10)
 > **Env Vars:** wcag (3), html (3), aaa (2), css (1)
@@ -1049,7 +1051,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for improving accessibility in web applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/next-steps-for-improving-accessibility-in-web-applications?u=76281980)
@@ -1068,6 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [gift] (1)
 

@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Mastering%20AI%20Tools%20for%20Efficient%20C-%20Development.md)
@@ -52,27 +52,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What to expect in this course
-  - What you should know
+  - [What to expect in this course](#what-to-expect-in-this-course)
+  - [What you should know](#what-you-should-know)
 - [**1. Using AI for Code Completion**](#1-using-ai-for-code-completion) (4 videos)
-  - Introduction to AI autocomplete tools
-  - Introduction to and installation of GitHub's Copilot
-  - Using comments to guide code completion
-  - Using Copilot for refactoring and cleanup
+  - [Introduction to AI autocomplete tools](#introduction-to-ai-autocomplete-tools)
+  - [Introduction to and installation of GitHub's Copilot](#introduction-to-and-installation-of-githubs-copilot)
+  - [Using comments to guide code completion](#using-comments-to-guide-code-completion)
+  - [Using Copilot for refactoring and cleanup](#using-copilot-for-refactoring-and-cleanup)
 - [**2. Leveraging AI for Documentation**](#2-leveraging-ai-for-documentation) (3 videos)
-  - Documenting your code with AI
-  - Documenting your code with GitHub Copilot
-  - Documenting your code with ChatGPT
+  - [Documenting your code with AI](#documenting-your-code-with-ai)
+  - [Documenting your code with GitHub Copilot](#documenting-your-code-with-github-copilot)
+  - [Documenting your code with ChatGPT](#documenting-your-code-with-chatgpt)
 - [**3. AI-Assisted Technical Writing Based on Code**](#3-ai-assisted-technical-writing-based-on-code) (3 videos)
-  - Technical writing with AI
-  - Best practices for AI technical writing
-  - Building a custom GPT for writing tutorials
+  - [Technical writing with AI](#technical-writing-with-ai)
+  - [Best practices for AI technical writing](#best-practices-for-ai-technical-writing)
+  - [Building a custom GPT for writing tutorials](#building-a-custom-gpt-for-writing-tutorials)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What to expect in this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-to-expect-in-this-course?u=76281980)
@@ -87,6 +87,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Microsoft Copilot|Copilot]] (2), [[ChatGPT]] (2), [[GitHub Copilot]] (2), [[GitHub]] (1)
 > **Tools:** github (3), visual studio (1)
 > **Speakers:** - hi (1)
 
@@ -111,16 +112,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[GitHub]] (2), [[Microsoft Copilot|Copilot]] (2), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Tools:** github (2), command line (1), visual studio (1)
 > **Env Vars:** net (2)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Using AI for Code Completion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI autocomplete tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980)
@@ -193,8 +194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Microsoft Copilot|Copilot]] (5), [[GitHub]] (3), game (2), [[Search]] (1)
 > **Tools:** github (3)
-> **Code Keywords:** let (1), this, (1)
 > **Env Vars:** ide (1), gpt (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -279,9 +280,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[GitHub]] (5), ai (5), [[GitHub Copilot]] (5), [[ChatGPT]] (2)
 > **Tools:** github (10), visual studio (5), command line (1)
 > **Prerequisites:** install (2), you'll need (1), setup (1), getting started (1)
-> **Code Keywords:** let (3), this, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
@@ -523,7 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (32), public (7), case, (6), delete (3), this, (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (23), game (7), prompt (5), next (3), ai (3)
 > **Tools:** visual studio (10), command line (4), terminal (2)
 > **CLI Commands:** make (6), dotnet (1), find (1)
 > **Env Vars:** net (3), ide (1)
@@ -705,7 +706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), enum (11), continue (2), this. (2), class, (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21), game (7), prompt (3), hit (2), oop (1)
 > **CLI Commands:** make (8), find (1)
 > **Cross-References:** previous video (1), in the last (1), go back to (1)
 > **Definitions:** is a  (3)
@@ -716,7 +717,7 @@ created: 2026-04-29
 
 ### 2. Leveraging AI for Documentation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Documenting your code with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980)
@@ -793,7 +794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (3), let (2), public (2), for, (1), for. (1)
+> **Frameworks & Libraries:** ai (5), [[Microsoft Copilot|Copilot]] (5), [[ChatGPT]] (4), [[GitHub]] (3), [[HTML]] (1)
 > **Env Vars:** xml (3), pdf (2), html (1), ide (1)
 > **Documentation:** the documentation (3)
 > **Tools:** github (3)
@@ -912,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), enum (4), continue (4), case, (3), this, (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), hit (6), prompt (3), generic (2), [[GitHub Copilot]] (1)
 > **Env Vars:** xml (6)
 > **CLI Commands:** make (2), node (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -1059,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (4), for. (1), for, (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (23), prompt (9), [[Microsoft Copilot|Copilot]] (5), next (3), game (2)
 > **Env Vars:** xml (2), ascii (2), ide (1)
 > **CLI Commands:** make (3)
 > **Tools:** visual studio (2), github (1)
@@ -1071,7 +1072,7 @@ created: 2026-04-29
 
 ### 3. AI-Assisted Technical Writing Based on Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Technical writing with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980)
@@ -1128,8 +1129,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), game (3), [[GitHub]] (2), [[LinkedIn]] (1), generic (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** new. (1), public (1)
 > **Tools:** github (2)
 > **Prerequisites:** getting started (2)
 > **Cross-References:** in the next (1)
@@ -1184,7 +1185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include: (1), function (1), class, (1), new, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), ai (2), llm (1), [[Custom GPTs]] (1), next (1)
 > **Env Vars:** gpt (2), llm (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), think of it as (1)
@@ -1315,7 +1316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (5), case, (3), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (5), [[ChatGPT]] (4), prompt (4), game (1), ai (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** configure (4)
 > **Env Vars:** gpt (3)
@@ -1326,7 +1327,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/next-steps?u=76281980)
@@ -1341,6 +1342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[GitHub Copilot]] (2), next (1), game (1)
 > **Tools:** github (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)

@@ -30,7 +30,7 @@ tags:
   - skill/debugging
   - skill/react-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Testing%20and%20Debugging.md)
@@ -49,42 +49,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Testing and debugging your React apps
-  - Course prerequisites
-  - Introduction to CoderPad
+  - [Testing and debugging your React apps](#testing-and-debugging-your-react-apps)
+  - [Course prerequisites](#course-prerequisites)
+  - [Introduction to CoderPad](#introduction-to-coderpad)
 - [**1. Setting Up**](#1-setting-up) (6 videos)
-  - Your test project
-  - An overview of your toolset
-  - React Developer Tools
-  - Jest introduction
-  - Type checking with Flow
-  - Linting with ESLint
+  - [Your test project](#your-test-project)
+  - [An overview of your toolset](#an-overview-of-your-toolset)
+  - [React Developer Tools](#react-developer-tools)
+  - [Jest introduction](#jest-introduction)
+  - [Type checking with Flow](#type-checking-with-flow)
+  - [Linting with ESLint](#linting-with-eslint)
 - [**2. Testing with Jest**](#2-testing-with-jest) (8 videos)
-  - Test strings with matchers
-  - Test numbers with matchers
-  - Solution: Test numbers with matchers
-  - Test arrays and objects with matchers
-  - Solution: Test object with matchers
-  - Code coverage reports
-  - Snapshot testing with Jest
-  - Organize your tests with describe()
+  - [Test strings with matchers](#test-strings-with-matchers)
+  - [Test numbers with matchers](#test-numbers-with-matchers)
+  - [Solution: Test numbers with matchers](#solution-test-numbers-with-matchers)
+  - [Test arrays and objects with matchers](#test-arrays-and-objects-with-matchers)
+  - [Solution: Test object with matchers](#solution-test-object-with-matchers)
+  - [Code coverage reports](#code-coverage-reports)
+  - [Snapshot testing with Jest](#snapshot-testing-with-jest)
+  - [Organize your tests with describe()](#organize-your-tests-with-describe)
 - [**3. Debugging with Chrome and Extensions**](#3-debugging-with-chrome-and-extensions) (5 videos)
-  - Debug with Chrome introduction
-  - Debug with React DevTools
-  - Test your network and performance
-  - Run an audit in Chrome
-  - Debug resources to find answers
+  - [Debug with Chrome introduction](#debug-with-chrome-introduction)
+  - [Debug with React DevTools](#debug-with-react-devtools)
+  - [Test your network and performance](#test-your-network-and-performance)
+  - [Run an audit in Chrome](#run-an-audit-in-chrome)
+  - [Debug resources to find answers](#debug-resources-to-find-answers)
 - [**4. ESLint and Types**](#4-eslint-and-types) (3 videos)
-  - Code improvement with ESLint
-  - Solution: Practice ESLint best practices in a component
-  - Type checking with Flow
+  - [Code improvement with ESLint](#code-improvement-with-eslint)
+  - [Solution: Practice ESLint best practices in a component](#solution-practice-eslint-best-practices-in-a-component)
+  - [Type checking with Flow](#type-checking-with-flow)
 - [**Conclusion**](#conclusion) (2 videos)
-  - React StrictMode behaviors
-  - Next steps
+  - [React StrictMode behaviors](#react-strictmode-behaviors)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing and debugging your React apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980)
@@ -113,8 +113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), application (2), [[Debugging]] (1), next (1), [[ESLint]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Prerequisites:** getting started (1), set up (1)
 > **Speakers:** - have (1)
 
@@ -135,6 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[Debugging]] (1), [[JavaScript]] (1), next (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** mpm (1)
 > **Tools:** terminal (1)
@@ -167,7 +168,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1), pass (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -175,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your test project
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980)
@@ -246,7 +246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (2), this, (1), case, (1)
+> **Frameworks & Libraries:** application (6), [[React.js|React]] (5), data (4), [[npm]] (2), [[JSON]] (2)
 > **Tools:** visual studio (3), terminal (3)
 > **Prerequisites:** install (2), you'll need (1), set up (1)
 > **CLI Commands:** npm (2), make (1)
@@ -294,8 +294,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[React.js|React]] (2), next (2), [[Debugging]] (1), [[Web Development]] (1)
 > **Tools:** firefox (2), safari (1)
-> **Code Keywords:** let (1), this, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** source code (1)
 > **Prerequisites:** install (1)
@@ -352,10 +352,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (7), application (2), web (1), [[npm]] (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** find (2), npm (1)
 > **UI Navigation:** go to (2), click on (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** firefox (2)
 > **Env Vars:** npm (1)
 > **Speakers:** - [instructor] (1)
@@ -401,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2)
+> **Frameworks & Libraries:** application (6), [[React.js|React]] (4), [[JSON]] (2), [[npm]] (1), next (1)
 > **File Paths:** package.json (2), app.test.js (1)
 > **CLI Commands:** find (1), npm (1)
 > **Cross-References:** next video (1)
@@ -488,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14)
+> **Frameworks & Libraries:** [[npm]] (5), [[React.js|React]] (1), [[JSON]] (1), next (1)
 > **Tools:** terminal (6), vs code (2)
 > **CLI Commands:** npm (5), find (1), make (1)
 > **Prerequisites:** install (3)
@@ -626,7 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (3), this, (3), else, (2), this. (1)
+> **Frameworks & Libraries:** [[ESLint]] (10), [[React.js|React]] (3), [[JavaScript]] (2), [[JSON]] (2), [[Search]] (1)
 > **Prerequisites:** install (7), set up (2)
 > **UI Navigation:** select the (5), click on (2)
 > **Tools:** vs code (3), terminal (3)
@@ -638,7 +638,7 @@ created: 2026-04-29
 
 ### 2. Testing with Jest
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test strings with matchers
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980)
@@ -711,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (1), continue (1), match, (1), pass (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Angular]] (4), application (3), data (2), [[JSON]] (2)
 > **Code Identifiers:** datatest (2), tobe (1), tomatch (1), tocontain (1)
 > **File Paths:** grid.test.js (1), courses.json (1), course.json (1)
 > **Definitions:** is a  (2)
@@ -831,7 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3), this, (2), from . (1), case, (1)
+> **Frameworks & Libraries:** data (7), application (6), [[npm]] (3), [[JSON]] (2), [[Windows]] (1)
 > **CLI Commands:** make (4), npm (3)
 > **Code Identifiers:** numitems (2), tobe (1), numitem (1), tobegreaterthanorequal (1)
 > **File Paths:** courses.json (2), grid.test.js (1), app.tests.js (1)
@@ -926,7 +926,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4), this. (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Documentation:** the documentation (1)
@@ -1070,7 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), pass (5), function (2), this. (2), this, (2)
+> **Frameworks & Libraries:** data (5), [[React.js|React]] (4), [[React Native]] (3), [[JSON]] (3), application (1)
 > **CLI Commands:** make (4), npm (1)
 > **Code Identifiers:** arraycontaining (3), toequal (1), tohaveproperty (1)
 > **File Paths:** courses.json (2), grid.test.js (1)
@@ -1134,7 +1133,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (9), let (2), for. (1), for, (1), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1194,7 +1192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (3), this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** application (2), [[npm]] (2), [[JSON]] (1), hit (1)
 > **CLI Commands:** npm (2), make (1)
 > **Tools:** terminal (3)
 > **File Paths:** package.json (1), app.js (1)
@@ -1324,7 +1322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), pass (4), this. (2), throw (1), function (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[npm]] (2), [[React.js|React]] (2), data (1), application (1)
 > **CLI Commands:** make (5), npm (2), git (1)
 > **Tools:** terminal (7), vs code (1)
 > **Env Vars:** json (4)
@@ -1450,7 +1448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (3), function (2), continue (1), pass (1)
+> **Frameworks & Libraries:** hit (1), [[npm]] (1), api (1)
 > **CLI Commands:** make (3), npm (1)
 > **Tools:** terminal (2)
 > **UI Navigation:** open the (1), go to (1)
@@ -1462,7 +1460,7 @@ created: 2026-04-29
 
 ### 3. Debugging with Chrome and Extensions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debug with Chrome introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980)
@@ -1525,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), pass (1), case, (1), require (1)
+> **Frameworks & Libraries:** application (7), [[React.js|React]] (2), [[npm]] (2), next (1), web (1)
 > **Cross-References:** go back to (6)
 > **CLI Commands:** npm (2), make (2)
 > **Tools:** terminal (2), chrome devtools (1), vs code (1)
@@ -1633,7 +1631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), pass (1)
+> **Frameworks & Libraries:** application (10), data (2), [[React.js|React]] (1), [[JSON]] (1), database (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Analogies:** for example (3)
 > **File Paths:** app.js (1), courses.json (1)
@@ -1751,8 +1749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (16), css (2), data (1), [[Windows]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (5)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **File Paths:** materialize.css (1), bundle.js (1)
 > **Code Identifiers:** jquery (1)
@@ -1793,7 +1791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** application (8), seo (3), web (3), feature (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** seo (3), https (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
@@ -1872,7 +1870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), throw (1)
+> **Frameworks & Libraries:** [[Google]] (4), application (3), [[React.js|React]] (3), next (2), [[GitHub]] (2)
 > **UI Navigation:** go to (5), open the (1), click on (1)
 > **Tools:** terminal (2), github (2), discord (1)
 > **Analogies:** for example (4)
@@ -1884,7 +1882,7 @@ created: 2026-04-29
 
 ### 4. ESLint and Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Code improvement with ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980)
@@ -1961,7 +1959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), finally, (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), application (3), [[JavaScript]] (1), [[Windows]] (1), [[GitHub]] (1)
 > **Tools:** terminal (3), vs code (1), github (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Analogies:** for example (3)
@@ -2059,7 +2057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (6), this. (3), finally, (2), pass (1)
+> **Frameworks & Libraries:** [[ESLint]] (5)
 > **CLI Commands:** make (8)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -2182,7 +2180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (3), this. (2), match, (1), type. (1)
+> **Frameworks & Libraries:** application (3), [[npm]] (3), data (2), [[React.js|React]] (2), [[JSON]] (1)
 > **Tools:** terminal (4)
 > **File Paths:** single.js (2), package.json (1)
 > **CLI Commands:** npm (3)
@@ -2194,7 +2192,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### React StrictMode behaviors
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/react-strict-behaviors?u=76281980)
@@ -2229,8 +2227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (8), feature (1), api (1), [[Debugging]] (1)
 > **Analogies:** think of it as (1), it's like (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2262,7 +2260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** assert (1)
+> **Frameworks & Libraries:** [[Debugging]] (2), [[React.js|React]] (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
 > **Speakers:** - this (1)

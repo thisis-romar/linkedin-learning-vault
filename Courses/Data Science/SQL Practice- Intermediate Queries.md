@@ -32,7 +32,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Practice-%20Intermediate%20Queries.md)
@@ -51,21 +51,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Try your SQL programming skills
-  - What you should know
-  - Exploring the lab environment
+  - [Try your SQL programming skills](#try-your-sql-programming-skills)
+  - [What you should know](#what-you-should-know)
+  - [Exploring the lab environment](#exploring-the-lab-environment)
 - [**1. Code Challenges**](#1-code-challenges) (5 videos)
-  - Solution: Who are your top customers?
-  - Solution: List items in each order
-  - Solution: Which days did people order pizza?
-  - Solution: Seasonal sale
-  - Solution: Vendor integration
+  - [Solution: Who are your top customers?](#solution-who-are-your-top-customers)
+  - [Solution: List items in each order](#solution-list-items-in-each-order)
+  - [Solution: Which days did people order pizza?](#solution-which-days-did-people-order-pizza)
+  - [Solution: Seasonal sale](#solution-seasonal-sale)
+  - [Solution: Vendor integration](#solution-vendor-integration)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try your SQL programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980)
@@ -90,8 +90,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), data (5), [[Databases]] (1), database (1), management (1)
 > **Env Vars:** sql (6)
-> **Code Keywords:** let (1)
 > **Speakers:** - [scott] (1)
 
 #### What you should know
@@ -127,8 +127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (2), [[LinkedIn]] (2), database (1), next (1)
 > **Env Vars:** sql (2), select (1)
-> **Code Keywords:** interface (1)
 > **SQL:** select (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -168,6 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -175,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Code Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Who are your top customers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-1-who-are-your-top-customers?u=76281980)
@@ -223,7 +224,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** cte (1), having (1)
-> **Code Keywords:** finally, (1)
 > **SQL:** having (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -263,8 +263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (3), [[SQL]] (3), [[Microsoft]] (1)
 > **Env Vars:** sql (3), group (3), group_concat (1), string_agg (1), order (1)
-> **Code Keywords:** function (4), for. (1), for, (1), let (1)
 > **CLI Commands:** mysql (3), make (1)
 > **SQL:** group by (2), order by (1)
 > **Definitions:** short for (1)
@@ -298,7 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** database (2)
 > **Env Vars:** cast (1), count (1)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
@@ -349,8 +349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Versions:** 0.05 (1), 0.1 (1), 0.15 (1), 0.95 (1), 0.9 (1)
-> **Code Keywords:** match, (1), case, (1), for. (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - to (1)
 
@@ -411,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this, (1), include, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** next (1), data (1), [[Databases]] (1)
 > **Env Vars:** lpad (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -419,7 +419,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/next-steps?u=76281980)
@@ -434,6 +434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (1), next (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 

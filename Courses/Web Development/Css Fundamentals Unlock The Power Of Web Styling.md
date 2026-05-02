@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Css%20Fundamentals%20Unlock%20The%20Power%20Of%20Web%20Styling.md)
@@ -43,45 +43,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Time to learn some CSS
+  - [Time to learn some CSS](#time-to-learn-some-css)
 - [**1. CSS Basics**](#1-css-basics) (8 videos)
-  - What is CSS?
-  - What are default browser styles?
-  - What is basic CSS lexicon?
-  - What are basic selector types?
-  - What are CSS combinators?
-  - How does CSS work with HTML?
-  - What options are available to write your styles?
-  - How do browsers render styles?
+  - [What is CSS?](#what-is-css)
+  - [What are default browser styles?](#what-are-default-browser-styles)
+  - [What is basic CSS lexicon?](#what-is-basic-css-lexicon)
+  - [What are basic selector types?](#what-are-basic-selector-types)
+  - [What are CSS combinators?](#what-are-css-combinators)
+  - [How does CSS work with HTML?](#how-does-css-work-with-html)
+  - [What options are available to write your styles?](#what-options-are-available-to-write-your-styles)
+  - [How do browsers render styles?](#how-do-browsers-render-styles)
 - [**2. CSS Concepts**](#2-css-concepts) (7 videos)
-  - Why CSS reset and normalize matter
-  - Working with fonts
-  - Understanding the box model
-  - Setting margins and padding
-  - Working with color
-  - Applying borders and backgrounds
-  - Understanding the units of measurement
+  - [Why CSS reset and normalize matter](#why-css-reset-and-normalize-matter)
+  - [Working with fonts](#working-with-fonts)
+  - [Understanding the box model](#understanding-the-box-model)
+  - [Setting margins and padding](#setting-margins-and-padding)
+  - [Working with color](#working-with-color)
+  - [Applying borders and backgrounds](#applying-borders-and-backgrounds)
+  - [Understanding the units of measurement](#understanding-the-units-of-measurement)
 - [**3. A Closer Look at the Cascade**](#3-a-closer-look-at-the-cascade) (3 videos)
-  - Understanding cascading order
-  - Calculating specificity
-  - Considering the rule !important
+  - [Understanding cascading order](#understanding-cascading-order)
+  - [Calculating specificity](#calculating-specificity)
+  - [Considering the rule !important](#considering-the-rule-important)
 - [**4. Layouts**](#4-layouts) (5 videos)
-  - Structuring a page with CSS
-  - Understanding how flexbox works
-  - Understanding how the CSS Grid works
-  - Understanding CSS frameworks
-  - Creating responsive layouts
+  - [Structuring a page with CSS](#structuring-a-page-with-css)
+  - [Understanding how flexbox works](#understanding-how-flexbox-works)
+  - [Understanding how the CSS Grid works](#understanding-how-the-css-grid-works)
+  - [Understanding CSS frameworks](#understanding-css-frameworks)
+  - [Creating responsive layouts](#creating-responsive-layouts)
 - [**5. Working with CSS**](#5-working-with-css) (4 videos)
-  - Organizing your code
-  - Using browser inspection tools
-  - Using the "Can I use..." for a CSS property
-  - Validating your CSS with tools
+  - [Organizing your code](#organizing-your-code)
+  - [Using browser inspection tools](#using-browser-inspection-tools)
+  - [Using the "Can I use..." for a CSS property](#using-the-can-i-use-for-a-css-property)
+  - [Validating your CSS with tools](#validating-your-css-with-tools)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about CSS
+  - [Learning more about CSS](#learning-more-about-css)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time to learn some CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980)
@@ -106,15 +106,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), web (2), [[HTML]] (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), hit (1)
 > **Env Vars:** css (4), html (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - css (1)
 
 
 ### 1. CSS Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is CSS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980)
@@ -205,6 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (16), [[HTML]] (6), web (5), [[Web Development]] (3), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** css (16), html (6)
 > **Definitions:** means that (2), stands for (1), in other words (1), is a  (1)
 > **Analogies:** picture (2), for instance (2)
@@ -269,8 +270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[HTML]] (3), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Typography]] (1)
 > **Env Vars:** css (5), html (3)
-> **Code Keywords:** this. (1), override (1), this, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Warnings:** be aware (1)
@@ -355,9 +356,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), [[Programming]] (2), [[HTML]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (7), html (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** such as (1)
 > **Best Practices:** general rule (1)
 > **Prerequisites:** you'll need (1)
@@ -440,9 +441,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[HTML]] (3), [[Microsoft Word|Word]] (2), next (1), power (1)
 > **Env Vars:** css (3), html (3)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2), override (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - css (1)
@@ -496,7 +497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), match, (1), match. (1)
+> **Frameworks & Libraries:** css (3), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** css (3)
 > **Definitions:** means that (1)
@@ -593,8 +594,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (12), css (5), next (1), [[Semantic Markup]] (1)
 > **Env Vars:** html (12), css (5), html5 (1)
-> **Code Keywords:** let (5), this. (1), default. (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for instance (2), for example (1)
 > **Best Practices:** rule of thumb (1)
@@ -660,8 +661,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[HTML]] (5)
 > **Env Vars:** html (5), css (4)
-> **Code Keywords:** finally, (2), let (1)
 > **File Paths:** style.css (1), styles.css (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1), means that (1)
@@ -738,7 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), override (1), this, (1)
+> **Frameworks & Libraries:** css (4), next (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** css (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (2)
@@ -748,7 +749,7 @@ created: 2026-04-29
 
 ### 2. CSS Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why CSS reset and normalize matter
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/why-css-reset-and-normalize-matter?u=76281980)
@@ -819,8 +820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), [[CodePen]] (3), [[HTML]] (2), next (1)
 > **Env Vars:** css (6), html (2)
-> **Code Keywords:** let (5), this, (1), case, (1)
 > **Cross-References:** go back to (3)
 > **Tools:** firefox (2)
 > **Definitions:** is a  (2)
@@ -932,8 +933,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), css (7), [[Typography]] (3), next (3), [[Google]] (2)
 > **Env Vars:** css (7), w3c (1)
-> **Code Keywords:** let (2), finally, (1), default, (1), require (1)
 > **Documentation:** specification (2), w3c (1)
 > **Analogies:** just like (1), such as (1)
 > **UI Navigation:** go to (1)
@@ -1029,7 +1030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), default, (1), finally, (1), override (1)
+> **Frameworks & Libraries:** css (2), [[HTML]] (2), web (1), [[Forms]] (1), next (1)
 > **Env Vars:** css (2), html (2), dom (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -1105,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** css (3), next (2), [[Search]] (1)
 > **Env Vars:** css (3)
 > **Warnings:** keep in mind (1), note that (1), be aware (1)
 > **Definitions:** means that (1)
@@ -1217,8 +1218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), next (2)
 > **Env Vars:** rgb (13), hsl (7), css (5), rgba (1), hsla (1)
-> **Code Keywords:** let (3), module (1), case, (1), this, (1)
 > **Definitions:** is a  (3), stands for (2), refers to (1)
 > **Analogies:** similar to (1), such as (1)
 > **Warnings:** note that (2)
@@ -1329,7 +1330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (2), require (1), case, (1)
+> **Frameworks & Libraries:** css (2), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (2), html (1)
 > **Analogies:** similar to (1), imagine (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1397,8 +1398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), next (2), [[HTML]] (2)
 > **Env Vars:** css (5), html (2)
-> **Code Keywords:** finally, (2), let (2)
 > **Analogies:** just like (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -1406,7 +1407,7 @@ created: 2026-04-29
 
 ### 3. A Closer Look at the Cascade
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cascading order
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-cascading-order?u=76281980)
@@ -1505,8 +1506,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), next (3), [[HTML]] (1)
 > **Env Vars:** css (9), html (1)
-> **Code Keywords:** case, (3), this. (1), let (1), from, (1)
 > **Analogies:** for example (3), for instance (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), refers to (1)
@@ -1558,9 +1559,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[HTML]] (2)
 > **Env Vars:** css (3), html (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1611,8 +1612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), power (1), [[Debugging]] (1), next (1)
 > **Env Vars:** css (5)
-> **Code Keywords:** override (2), case, (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
@@ -1622,7 +1623,7 @@ created: 2026-04-29
 
 ### 4. Layouts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring a page with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980)
@@ -1679,9 +1680,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (12), [[HTML]] (9), web (3), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (12), html (9)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** module (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
@@ -1737,8 +1738,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), web (2), [[HTML]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** css (2), html (2)
-> **Code Keywords:** module (1), let (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - flexbox (1)
 
@@ -1795,10 +1796,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), [[HTML]] (2), next (1)
 > **Env Vars:** css (6), html (2)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1829,6 +1830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), [[Typography]] (1), [[Web Development]] (1)
 > **Env Vars:** css (9)
 > **Cross-References:** earlier in (1), we talked about (1)
 > **Analogies:** imagine (1), such as (1)
@@ -1886,8 +1888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), web (4), [[Responsive Web Design]] (2), [[Web Development]] (1), next (1)
 > **Env Vars:** css (5)
-> **Code Keywords:** let (2), this. (1), default. (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1897,7 +1899,7 @@ created: 2026-04-29
 
 ### 5. Working with CSS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/organizing-your-code?u=76281980)
@@ -1986,8 +1988,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (13), next (3), [[Typography]] (2)
 > **Env Vars:** css (13)
-> **Code Keywords:** self (2), let (1), case, (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** the key is (2), general rule (1)
 > **Exercise Files:** source code (1)
@@ -2053,9 +2055,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), [[HTML]] (2), [[WordPress]] (1), [[Microsoft]] (1)
 > **Env Vars:** css (7), html (2), htl (1), url (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (3), else, (1)
 > **Tools:** firefox (3), safari (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (2)
@@ -2115,8 +2117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), feature (2), web (1), [[JavaScript]] (1)
 > **Env Vars:** css (5), html5 (1)
-> **Code Keywords:** module (1), let (1), case. (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (2)
 > **Tools:** firefox (1), safari (1)
 > **Definitions:** is a  (1), means that (1)
@@ -2163,6 +2165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (11), web (1)
 > **Env Vars:** css (11)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [w3c.org](https://w3c.org) (1)
@@ -2172,7 +2175,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980)
@@ -2211,8 +2214,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[HTML]] (3), [[Forms]] (3), next (1), web (1)
 > **Env Vars:** css (5), html (3)
-> **Code Keywords:** continue (1), finally, (1)
 > **Speakers:** - [carrie] (1)
 
 

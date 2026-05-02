@@ -36,7 +36,7 @@ tags:
   - skill/github-copilot
   - skill/capstone
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Capstone-%20Building%20Production%20Features%20with%20Copilot.md)
@@ -55,28 +55,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Capstone project overview
+  - [Capstone project overview](#capstone-project-overview)
 - [**1. Project Planning and Setup**](#1-project-planning-and-setup) (3 videos)
-  - Task 0: The planning phase
-  - Understanding the zero context
-  - Querying internal knowledge bases
+  - [Task 0: The planning phase](#task-0-the-planning-phase)
+  - [Understanding the zero context](#understanding-the-zero-context)
+  - [Querying internal knowledge bases](#querying-internal-knowledge-bases)
 - [**2. Full-Stack Implementation**](#2-full-stack-implementation) (6 videos)
-  - Task 1: The API layer
-  - Implementing data validation
-  - Task 2: The business logic
-  - Handling complex business rules
-  - Task 3: The data layer
-  - Working with ORMs and persistence
+  - [Task 1: The API layer](#task-1-the-api-layer)
+  - [Implementing data validation](#implementing-data-validation)
+  - [Task 2: The business logic](#task-2-the-business-logic)
+  - [Handling complex business rules](#handling-complex-business-rules)
+  - [Task 3: The data layer](#task-3-the-data-layer)
+  - [Working with ORMs and persistence](#working-with-orms-and-persistence)
 - [**3. Testing and Validation**](#3-testing-and-validation) (5 videos)
-  - Task 4: The test suite
-  - End-to-end testing strategies
-  - Reviewing your implementation
-  - Comparing with best practices
-  - Final reflections and next steps
+  - [Task 4: The test suite](#task-4-the-test-suite)
+  - [End-to-end testing strategies](#end-to-end-testing-strategies)
+  - [Reviewing your implementation](#reviewing-your-implementation)
+  - [Comparing with best practices](#comparing-with-best-practices)
+  - [Final reflections and next steps](#final-reflections-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Capstone project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980)
@@ -139,8 +139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), [[Capstone]] (1), [[Unit Testing]] (1), application (1), business (1)
 > **Env Vars:** api (6), crud (1), rfc (1)
-> **Code Keywords:** let (2), finally, (2), abstract (1), pass (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Documentation:** specification (1), rfc (1)
@@ -151,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Project Planning and Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Task 0: The planning phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980)
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), this. (1), let (1), self (1), finally, (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (5), llm (1), [[Generative AI]] (1), ai (1), [[Programming]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** pmat (2), tdd (1), llm (1), yaml (1)
 > **Definitions:** is a  (3), stands for (1), means that (1)
@@ -350,8 +350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Debugging]] (2), next (2), [[GitHub Copilot]] (2), [[Capstone]] (1)
 > **CLI Commands:** make (23)
-> **Code Keywords:** let (3), case, (3)
 > **Analogies:** for example (6)
 > **Env Vars:** readme (3), css (1)
 > **Documentation:** the readme (3)
@@ -444,9 +444,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (1), [[Gemini]] (1), [[Code Review]] (1), [[Red Teaming]] (1), [[End-to-end Testing]] (1)
 > **CLI Commands:** make (5), find (3)
 > **Documentation:** specification (6), spec (1)
-> **Code Keywords:** static (2), while. (1), let (1)
 > **Analogies:** for example (3), it's like (1)
 > **Env Vars:** tdd (2), api (1)
 > **Definitions:** is a  (2)
@@ -456,7 +456,7 @@ created: 2026-04-29
 
 ### 2. Full-Stack Implementation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Task 1: The API layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-1-the-api-layer?u=76281980)
@@ -551,7 +551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (7), case, (7), this, (2), this. (1)
+> **Frameworks & Libraries:** api (3), [[Programming]] (2), application (1), [[JSON]] (1), power (1)
 > **CLI Commands:** make (8), curl (2)
 > **Env Vars:** api (3), json (1), url (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -641,8 +641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), data (4), api (4), [[End-to-end Testing]] (2), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** api (4), mpm (1)
-> **Code Keywords:** pass (2), this, (1), type. (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** curl (1)
 > **Analogies:** for example (1)
@@ -699,7 +699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), case, (2), let (2), class, (1)
+> **Frameworks & Libraries:** [[Programming]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** yaml (3)
 > **Definitions:** is a  (2)
@@ -791,7 +791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (5), let (3), case, (2), self (2), this, (1)
+> **Frameworks & Libraries:** feature (1), [[Manual Testing]] (1), next (1), business (1), product (1)
 > **Env Vars:** bdd (2), yaml (1)
 > **Documentation:** spec (2)
 > **Definitions:** is a  (2)
@@ -911,8 +911,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[Python (Programming Language)|Python]] (5), [[Scripting]] (3), [[CLI]] (3), [[Security]] (2)
 > **CLI Commands:** python (5), make (5), docker (1)
-> **Code Keywords:** let (3), super (1), for. (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (3)
 > **Env Vars:** cli (1), readme (1)
@@ -1016,7 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (7), let (4), abstract (2), class. (1), interface (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (6), database (2), [[SQL]] (2), data (1), feature (1)
 > **Env Vars:** sql (2), tdd (2), yaml (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -1028,7 +1028,7 @@ created: 2026-04-29
 
 ### 3. Testing and Validation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Task 4: The test suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-4-the-test-suite?u=76281980)
@@ -1105,7 +1105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (5), interface (1), function (1)
+> **Frameworks & Libraries:** business (2), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** go to (3)
 > **File Paths:** matcher.ts (1), test.ts (1)
@@ -1194,7 +1194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), case, (1)
+> **Frameworks & Libraries:** application (2), api (2), [[End-to-end Testing]] (1), product (1), [[Unit Testing]] (1)
 > **Env Vars:** api (2), crud (1), post (1)
 > **API Endpoints:** post  (1), get  (1)
 > **File Paths:** tests/e2e/index_page.test.ts (1)
@@ -1269,7 +1269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), case. (1), let (1), function (1), self (1)
+> **Frameworks & Libraries:** next (2), product (1), [[JSON]] (1)
 > **Env Vars:** pmat (5), e2e (1)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (2)
@@ -1360,8 +1360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (3), web (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (3), http (2), url (1), rest (1), rfc (1)
-> **Code Keywords:** this. (1), let (1), case, (1), lambda (1)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1496,8 +1496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), next (2), [[Test-Driven Development]] (2), [[Capstone]] (1), [[Programming]] (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (2), self (1), this. (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** cicd (1)
 > **Cross-References:** we covered (1)

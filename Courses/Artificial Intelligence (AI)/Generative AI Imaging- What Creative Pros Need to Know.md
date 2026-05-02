@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/conditional-image-generation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20Imaging-%20What%20Creative%20Pros%20Need%20to%20Know.md)
@@ -54,23 +54,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Get ready for AI imaging
+  - [Get ready for AI imaging](#get-ready-for-ai-imaging)
 - [**1. The World of AI Imaging**](#1-the-world-of-ai-imaging) (9 videos)
-  - AI in action
-  - Applied AI imaging
-  - AI for people who hire creatives
-  - What AI content generation is not
-  - How an AI Image generator works
-  - You might already be using AI
-  - How can you add an AI media generator to your workflow?
-  - Is this actually legal?
-  - But is it art?
+  - [AI in action](#ai-in-action)
+  - [Applied AI imaging](#applied-ai-imaging)
+  - [AI for people who hire creatives](#ai-for-people-who-hire-creatives)
+  - [What AI content generation is not](#what-ai-content-generation-is-not)
+  - [How an AI Image generator works](#how-an-ai-image-generator-works)
+  - [You might already be using AI](#you-might-already-be-using-ai)
+  - [How can you add an AI media generator to your workflow?](#how-can-you-add-an-ai-media-generator-to-your-workflow)
+  - [Is this actually legal?](#is-this-actually-legal)
+  - [But is it art?](#but-is-it-art)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Some final thoughts on AI
+  - [Some final thoughts on AI](#some-final-thoughts-on-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get ready for AI imaging
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/get-ready-for-ai-imaging?u=76281980)
@@ -123,6 +123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
@@ -130,7 +131,7 @@ created: 2026-04-29
 
 ### 1. The World of AI Imaging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980)
@@ -271,7 +272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), this, (2), for, (1)
+> **Frameworks & Libraries:** ai (13), [[Stable Diffusion]] (6), prompt (5), web (3), [[Windows]] (3)
 > **CLI Commands:** make (4)
 > **Env Vars:** gpu (2), dall (1)
 > **Analogies:** such as (2), picture (1)
@@ -394,8 +395,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[Stable Diffusion]] (4), data (4), [[Midjourney]] (3), prompt (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), public (1), case, (1)
 > **Env Vars:** dall (1), ceo (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
@@ -503,7 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), interface (1), this, (1)
+> **Frameworks & Libraries:** ai (10), prompt (3), [[Microsoft Office|Office]] (1), business (1), next (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - if (1)
@@ -585,8 +586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), ai (3), [[Microsoft Word|Word]] (2), express (1), [[Ethics]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this, (1), continue (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
@@ -686,8 +687,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (9), [[Stable Diffusion]] (3), web (3), [[Neural Networks]] (2)
 > **Definitions:** is a  (2), is an  (2), means that (1), in other words (1)
-> **Code Keywords:** continue (1), while, (1), while. (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** dall (1), gpt (1)
 > **Prerequisites:** install (1)
@@ -766,9 +767,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Stable Diffusion]] (1), [[Content Creation]] (1), power (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is an  (1), in other words (1)
-> **Code Keywords:** this. (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - these (1)
 
@@ -845,10 +846,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), prompt (5)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** don't forget (2)
-> **Code Keywords:** private (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
@@ -969,8 +970,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Microsoft Products|Products]] (3), data (3), web (2), product (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** raise (1)
 > **URLs:** [shutterstock.com](https://shutterstock.com) (1)
 > **Env Vars:** dall (1)
 > **Definitions:** in other words (1)
@@ -1066,7 +1067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while. (1), self (1), require (1), type, (1), function (1)
+> **Frameworks & Libraries:** ai (10), [[Graphic Design]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** picture (1)
@@ -1075,7 +1076,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Some final thoughts on AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980)
@@ -1152,8 +1153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Hardware]] (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** new, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)

@@ -30,7 +30,7 @@ tags:
   - skill/quality-assurance
   - skill/manual-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Understanding%20Manual%20Testing.md)
@@ -49,25 +49,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Mastering manual testing
-  - What you should know
-  - The argument: Automated vs. manual testing
+  - [Mastering manual testing](#mastering-manual-testing)
+  - [What you should know](#what-you-should-know)
+  - [The argument: Automated vs. manual testing](#the-argument-automated-vs-manual-testing)
 - [**1. Overview**](#1-overview) (3 videos)
-  - What is manual testing?
-  - Why is manual testing done?
-  - Types of manual testing
+  - [What is manual testing?](#what-is-manual-testing)
+  - [Why is manual testing done?](#why-is-manual-testing-done)
+  - [Types of manual testing](#types-of-manual-testing)
 - [**2. Execution**](#2-execution) (4 videos)
-  - Test plans and use cases
-  - It's not all black and white: Box testing
-  - Bugs and the output of manual testing
-  - Make manual testing work
+  - [Test plans and use cases](#test-plans-and-use-cases)
+  - [It's not all black and white: Box testing](#its-not-all-black-and-white-box-testing)
+  - [Bugs and the output of manual testing](#bugs-and-the-output-of-manual-testing)
+  - [Make manual testing work](#make-manual-testing-work)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Where do you start?
-  - Be an exceptional manual tester
+  - [Where do you start?](#where-do-you-start)
+  - [Be an exceptional manual tester](#be-an-exceptional-manual-tester)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/mastering-manual-testing?u=76281980)
@@ -94,8 +94,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Manual Testing]] (2), teams (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** pass (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [mike] (1)
 
@@ -154,6 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Manual Testing]] (6), product (6), application (1), data (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
@@ -212,14 +213,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Manual Testing]] (6), [[Automation]] (6), product (2), career (1), application (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** case. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is manual testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/what-is-manual-testing?u=76281980)
@@ -282,6 +283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[Manual Testing]] (7), [[Automation]] (3), data (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [educator] (1)
@@ -375,7 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** [[Manual Testing]] (12), [[Automation]] (5), [[Search]] (4), [[Agile Development|Agile]] (2), product (2)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -474,16 +476,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), application (7), functional (6), [[Manual Testing]] (4), [[Integration Testing]] (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** module (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Execution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test plans and use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980)
@@ -560,8 +562,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[Manual Testing]] (6), feature (3), teams (1), [[Automation]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** function (1), throw (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -629,9 +631,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Manual Testing]] (6), product (5), [[Automation]] (3), [[Forms]] (2), data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -700,9 +702,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Manual Testing]] (2), teams (2), data (2), web (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** function (1)
 > **Documentation:** specification (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -788,16 +790,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), [[Manual Testing]] (7), [[Forms]] (1), [[Product Development]] (1), [[Automation]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2)
 > **Documentation:** specification (1)
 > **Speakers:** - [educator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where do you start?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980)
@@ -862,6 +864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Manual Testing]] (2), [[Quality Assurance]] (1), data (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before you begin (1)
@@ -890,6 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Manual Testing]] (4), product (2), career (1), [[LinkedIn]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [mike] (1)
 

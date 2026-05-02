@@ -34,7 +34,7 @@ tags:
   - topic/software-development
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node%20Js%20Essential%20Training.md)
@@ -53,44 +53,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learning the Node.js basics
-  - What you should know
+  - [Learning the Node.js basics](#learning-the-nodejs-basics)
+  - [What you should know](#what-you-should-know)
 - [**1. What Is Node.js?**](#1-what-is-nodejs) (3 videos)
-  - Node.js history
-  - Installing Node.js
-  - Using Visual Studio Code
+  - [Node.js history](#nodejs-history)
+  - [Installing Node.js](#installing-nodejs)
+  - [Using Visual Studio Code](#using-visual-studio-code)
 - [**2. Node Globals**](#2-node-globals) (8 videos)
-  - Inspecting the global object
-  - Using the require function
-  - Handling argument variables with process.argv
-  - Working with standard input
-  - Using standard output
-  - Creating a delay with setTimeout
-  - Incorporating setInterval
-  - Reporting progress with setInterval
+  - [Inspecting the global object](#inspecting-the-global-object)
+  - [Using the require function](#using-the-require-function)
+  - [Handling argument variables with process.argv](#handling-argument-variables-with-processargv)
+  - [Working with standard input](#working-with-standard-input)
+  - [Using standard output](#using-standard-output)
+  - [Creating a delay with setTimeout](#creating-a-delay-with-settimeout)
+  - [Incorporating setInterval](#incorporating-setinterval)
+  - [Reporting progress with setInterval](#reporting-progress-with-setinterval)
 - [**3. Node Modules**](#3-node-modules) (7 videos)
-  - Understanding core modules
-  - Collecting information with readline
-  - Using readline
-  - Exporting custom modules
-  - Creating a module
-  - Custom events with the EventEmitter
-  - Consuming a module with EventEmitter
+  - [Understanding core modules](#understanding-core-modules)
+  - [Collecting information with readline](#collecting-information-with-readline)
+  - [Using readline](#using-readline)
+  - [Exporting custom modules](#exporting-custom-modules)
+  - [Creating a module](#creating-a-module)
+  - [Custom events with the EventEmitter](#custom-events-with-the-eventemitter)
+  - [Consuming a module with EventEmitter](#consuming-a-module-with-eventemitter)
 - [**4. File Management and Streams**](#4-file-management-and-streams) (8 videos)
-  - Listing directory files
-  - Reading files
-  - Writing and appending files
-  - Creating directories
-  - Renaming and removing files
-  - Renaming and removing directories
-  - Readable file streams
-  - Writable file streams
+  - [Listing directory files](#listing-directory-files)
+  - [Reading files](#reading-files)
+  - [Writing and appending files](#writing-and-appending-files)
+  - [Creating directories](#creating-directories)
+  - [Renaming and removing files](#renaming-and-removing-files)
+  - [Renaming and removing directories](#renaming-and-removing-directories)
+  - [Readable file streams](#readable-file-streams)
+  - [Writable file streams](#writable-file-streams)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More training
+  - [More training](#more-training)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning the Node.js basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980)
@@ -121,9 +121,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), node (4), [[Node.js]] (2), front-end (1), web (1)
 > **CLI Commands:** node (6)
 > **File Paths:** node.js (2)
-> **Code Keywords:** module (1), let (1)
 > **Tools:** command line (1)
 > **Speakers:** - [eve] (1)
 
@@ -146,6 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[Node.js]] (5), [[ECMAScript]] (1)
 > **File Paths:** node.js (5)
 > **CLI Commands:** node (5)
 > **Env Vars:** es6 (1)
@@ -155,7 +156,7 @@ created: 2026-04-29
 
 ### 1. What Is Node.js?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Node.js history
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980)
@@ -182,6 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), node (3), [[JavaScript]] (2), [[npm]] (1), management (1)
 > **CLI Commands:** node (7), npm (1)
 > **File Paths:** node.js (4)
 > **Env Vars:** ibm (1)
@@ -230,19 +232,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (1)
 > **Tools:** visual studio (3), vs code (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** node (1), find (1)
 > **Definitions:** is a  (1), is called (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** this. (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** kind of like (1)
 
 
 ### 2. Node Globals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inspecting the global object
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980)
@@ -347,8 +349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (9), [[JavaScript]] (4), hit (3), node (3), cd (1)
 > **CLI Commands:** node (12), make (2), cd (1), find (1)
-> **Code Keywords:** let (7), this. (3), module (1), function (1), this, (1)
 > **File Paths:** node.js (9), global.js (2)
 > **Definitions:** is called (3), is a  (2), means that (1)
 > **Code Identifiers:** justnode (3)
@@ -435,7 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (3), function (3)
+> **Frameworks & Libraries:** node (3), hit (3), [[Node.js]] (2), cd (1), next (1)
 > **CLI Commands:** node (5), make (3), cd (1)
 > **File Paths:** node.js (2), common.js (1), global.js (1)
 > **Exercise Files:** template (2)
@@ -519,7 +521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), pass (2), module (1), delete (1)
+> **Frameworks & Libraries:** node (5), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (5), make (1)
 > **Tools:** terminal (2), command line (1)
 > **Code Identifiers:** indexafterflag (1)
@@ -610,7 +612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (3), function (3), this. (1), const (1)
+> **Frameworks & Libraries:** data (5), next (3), node (2), prompt (2), feature (1)
 > **CLI Commands:** make (2), node (2)
 > **Tools:** terminal (4)
 > **Exercise Files:** template (2)
@@ -707,7 +709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4)
+> **Frameworks & Libraries:** data (3), [[Programming]] (3), node (2), next (1), [[JavaScript]] (1)
 > **CLI Commands:** node (2), make (1)
 > **Tools:** terminal (2)
 > **Exercise Files:** template (1)
@@ -773,7 +775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (1), const (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[JavaScript]] (1), data (1), node (1)
 > **Code Identifiers:** waittime (3), timerfinished (1)
 > **CLI Commands:** node (3)
 > **File Paths:** node.js (2)
@@ -842,7 +844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), pass (2), continue (1), this, (1)
+> **Frameworks & Libraries:** node (2), hit (1)
 > **Code Identifiers:** waitinterval (2), settimeout (2), setinterval (2), currenttime (1), timerfinished (1)
 > **CLI Commands:** node (2), make (1)
 > **Analogies:** kind of like (1)
@@ -887,7 +889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), for. (1), this. (1)
+> **Frameworks & Libraries:** data (1), [[Node.js]] (1)
 > **Code Identifiers:** currenttime (1), waittime (1), clearline (1), cursorto (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
@@ -896,7 +898,7 @@ created: 2026-04-29
 
 ### 3. Node Modules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding core modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/understanding-core-modules?u=76281980)
@@ -987,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (5), function (5), module (5), let (5), pass (1)
+> **Frameworks & Libraries:** next (2), [[Node.js]] (2), node (2)
 > **CLI Commands:** node (4), make (1)
 > **File Paths:** node.js (2), core.js (1)
 > **Code Identifiers:** diruploads (2), getheapstatistics (1)
@@ -1046,7 +1048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), interface (2), module (1), let (1), require (1)
+> **Frameworks & Libraries:** node (3), prompt (1), next (1)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (2)
 > **File Paths:** ask.js (1)
@@ -1157,7 +1159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (21), let (3), pass (2), this, (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), next (2), node (1)
 > **Code Identifiers:** collectanswers (6), questionanswered (4)
 > **CLI Commands:** node (5), make (3)
 > **File Paths:** node.js (4)
@@ -1237,7 +1239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), module (6), require (4), let (3), this. (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), node (1), [[npm]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** mymodule (5), getcount (3)
 > **CLI Commands:** make (2), node (1), npm (1)
 > **File Paths:** mymodule.js (1)
@@ -1333,7 +1335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), else, (2), pub (1), require (1)
+> **Frameworks & Libraries:** data (4), [[Node.js]] (2), node (2), next (1), [[JavaScript]] (1)
 > **CLI Commands:** node (4), make (1)
 > **Code Identifiers:** customevent (2), tostring (2)
 > **Tools:** terminal (4)
@@ -1402,7 +1404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), module (3), interface (1), return. (1)
+> **Frameworks & Libraries:** next (3), node (1)
 > **CLI Commands:** make (2), node (1)
 > **Speakers:** - earlier (1)
 
@@ -1471,7 +1473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (3), module (2), raise (2), require (1)
+> **Frameworks & Libraries:** node (1), [[Node.js]] (1)
 > **CLI Commands:** make (2), node (2)
 > **Code Identifiers:** collectanswers (2), answerevents (2)
 > **File Paths:** node.js (1)
@@ -1481,7 +1483,7 @@ created: 2026-04-29
 
 ### 4. File Management and Streams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Listing directory files
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980)
@@ -1538,7 +1540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), function (2), import. (1), require (1), pass (1)
+> **Frameworks & Libraries:** node (3), [[Representational State Transfer (REST)|Rest]] (2), [[Node.js]] (1)
 > **CLI Commands:** node (4)
 > **File Paths:** node.js (1), list.js (1)
 > **Code Identifiers:** readdirsync (1)
@@ -1610,7 +1612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), module (2), function (2), let (2), continue (1)
+> **Frameworks & Libraries:** feature (1), node (1)
 > **File Paths:** readme.md (2)
 > **Env Vars:** utf (2)
 > **CLI Commands:** node (1)
@@ -1718,7 +1720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), module (2), this, (1), throw (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), node (2), data (1), [[Node.js]] (1), hit (1)
 > **Code Identifiers:** writefile (4), appendfilesync (2), appendfile (1)
 > **File Paths:** javascript.md (3), node.js (1)
 > **CLI Commands:** node (3)
@@ -1784,8 +1786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2)
 > **CLI Commands:** mkdir (4), make (3), node (2), ls (1)
-> **Code Keywords:** let (4), function (2), module (1), require (1), delete (1)
 > **Code Identifiers:** existssync (2), mkdirsync (1)
 > **File Paths:** directory.js (1)
 > **Exercise Files:** template (1)
@@ -1886,7 +1888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), throw (2), module (1), this. (1)
+> **Frameworks & Libraries:** node (1), business (1)
 > **File Paths:** notes.md (3), config.js (2), rename.js (1), project-config.js (1), lib/notes.md (1)
 > **CLI Commands:** node (1), make (1)
 > **Code Identifiers:** renamesync (1), unlinksync (1)
@@ -1990,7 +1992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), require (1), module (1), delete (1)
+> **Frameworks & Libraries:** node (1), [[CLI]] (1)
 > **Code Identifiers:** renamesync (3), foreach (2), readdiresync (1)
 > **Cross-References:** in the last (2), go back to (1)
 > **CLI Commands:** node (1)
@@ -2108,7 +2110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (8), pass (4), this, (2), finally, (2)
+> **Frameworks & Libraries:** data (20), node (2), [[Node.js]] (1), application (1), cd (1)
 > **CLI Commands:** node (3), make (2), cd (1)
 > **File Paths:** node.js (1), ask.js (1), streams.js (1)
 > **Code Identifiers:** readfile (1), chatlog (1), createreadstream (1)
@@ -2220,7 +2222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (7), this, (3), interface (1), module (1)
+> **Frameworks & Libraries:** data (7), [[JavaScript]] (2), [[Node.js]] (1), node (1), [[Programming]] (1)
 > **Code Identifiers:** answerstream (5), tostring (2), existssync (1), filename (1), unlinksync (1)
 > **CLI Commands:** make (3), node (2), find (1)
 > **File Paths:** node.js (1), name.md (1)
@@ -2232,7 +2234,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More training
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980)
@@ -2267,10 +2269,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (7), web (2), node (2), next (1), [[Express.js]] (1)
 > **CLI Commands:** node (9)
 > **File Paths:** node.js (7), express.js (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 

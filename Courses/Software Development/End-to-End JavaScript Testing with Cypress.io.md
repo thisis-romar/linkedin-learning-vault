@@ -37,7 +37,7 @@ tags:
   - skill/javascript
   - skill/end-to-end-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/End-to-End%20JavaScript%20Testing%20with%20Cypress.io.md)
@@ -56,46 +56,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - It's time to use Cypress.io to do some end-to-end JavaScript testing
-  - What you should know
+  - [It's time to use Cypress.io to do some end-to-end JavaScript testing](#its-time-to-use-cypressio-to-do-some-end-to-end-javascript-testing)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Cypress**](#1-introduction-to-cypress) (2 videos)
-  - What is Cypress?
-  - Advantages of Cypress
+  - [What is Cypress?](#what-is-cypress)
+  - [Advantages of Cypress](#advantages-of-cypress)
 - [**2. The Basics**](#2-the-basics) (10 videos)
-  - Installing and running Cypress
-  - Writing and running Cypress tests
-  - Testing text inputs
-  - Selecting elements
-  - Element aliasing
-  - Working with command results
-  - Using beforeEach
-  - Setting a base URL
-  - Challenge 1: Writing your own tests
-  - Solution 1: Writing your own tests
+  - [Installing and running Cypress](#installing-and-running-cypress)
+  - [Writing and running Cypress tests](#writing-and-running-cypress-tests)
+  - [Testing text inputs](#testing-text-inputs)
+  - [Selecting elements](#selecting-elements)
+  - [Element aliasing](#element-aliasing)
+  - [Working with command results](#working-with-command-results)
+  - [Using beforeEach](#using-beforeeach)
+  - [Setting a base URL](#setting-a-base-url)
+  - [Challenge 1: Writing your own tests](#challenge-1-writing-your-own-tests)
+  - [Solution 1: Writing your own tests](#solution-1-writing-your-own-tests)
 - [**3. Intermediate Concepts**](#3-intermediate-concepts) (9 videos)
-  - Interacting with elements
-  - Triggering other actions
-  - Common assertions
-  - Automatic retries
-  - Debugging Cypress tests
-  - Setting environment variables
-  - Working with test doubles
-  - Challenge 2: Writing your own tests
-  - Solution 2: Writing your own tests
+  - [Interacting with elements](#interacting-with-elements)
+  - [Triggering other actions](#triggering-other-actions)
+  - [Common assertions](#common-assertions)
+  - [Automatic retries](#automatic-retries)
+  - [Debugging Cypress tests](#debugging-cypress-tests)
+  - [Setting environment variables](#setting-environment-variables)
+  - [Working with test doubles](#working-with-test-doubles)
+  - [Challenge 2: Writing your own tests](#challenge-2-writing-your-own-tests)
+  - [Solution 2: Writing your own tests](#solution-2-writing-your-own-tests)
 - [**4. Useful Commands**](#4-useful-commands) (7 videos)
-  - The wrap command
-  - The and command
-  - The filter and not commands
-  - Typing special characters
-  - Activating code completion
-  - Challenge 3: Writing your own tests
-  - Solution 3: Writing your own tests
+  - [The wrap command](#the-wrap-command)
+  - [The and command](#the-and-command)
+  - [The filter and not commands](#the-filter-and-not-commands)
+  - [Typing special characters](#typing-special-characters)
+  - [Activating code completion](#activating-code-completion)
+  - [Challenge 3: Writing your own tests](#challenge-3-writing-your-own-tests)
+  - [Solution 3: Writing your own tests](#solution-3-writing-your-own-tests)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with Cypress.io and JavaScript
+  - [Next steps with Cypress.io and JavaScript](#next-steps-with-cypressio-and-javascript)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### It's time to use Cypress.io to do some end-to-end JavaScript testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/let-s-use-cypress-io-to-do-some-end-to-end-javascript-testing?u=76281980)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (2)
 > **Speakers:** - what (1)
 
 #### What you should know
@@ -142,7 +142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), for, (1), continue (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[End-to-end Testing]] (2), front-end (1), [[HTML]] (1), css (1)
 > **Env Vars:** html (1), css (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** prerequisite (1)
@@ -151,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Cypress
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Cypress?
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980)
@@ -178,8 +178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[End-to-end Testing]] (3), [[JavaScript]] (2), open-source (1), [[Selenium]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** while, (1), finally, (1)
 > **Definitions:** in other words (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -222,7 +222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (5), [[Microsoft]] (1), [[Selenium]] (1), [[Debugging]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (2)
 > **Tools:** firefox (1)
@@ -232,7 +232,7 @@ created: 2026-04-29
 
 ### 2. The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing and running Cypress
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/installing-running-cypress?u=76281980)
@@ -267,7 +267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), for, (1), let (1), continue (1), for. (1)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (5), hit (1), [[Debugging]] (1), cloud (1), next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (1)
@@ -444,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), interface (5), function (2), case, (2), this. (1)
+> **Frameworks & Libraries:** application (5), web application (5), next (2), [[npm]] (2), [[React.js|React]] (1)
 > **Env Vars:** npm (2), ide (2), url (2)
 > **CLI Commands:** npm (2), make (2), git (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -538,7 +538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), type, (2), interface (2), case, (2)
+> **Frameworks & Libraries:** application (3), feature (2), [[Cypress.io]] (1), data (1), hit (1)
 > **CLI Commands:** make (6), find (4)
 > **Analogies:** for example (2), just like (1), imagine (1)
 > **Cross-References:** go back to (3)
@@ -680,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (5), this, (4), interface (1), class. (1)
+> **Frameworks & Libraries:** data (5), [[HTML]] (4), css (3), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Env Vars:** html (4), css (3), ied (1)
 > **UI Navigation:** select the (2), navigate to (1), click on (1)
@@ -818,7 +818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), fn (7), this . (4), this, (3), this. (2)
+> **Frameworks & Libraries:** [[HTML]] (1), css (1), application (1), next (1), data (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** html (1), css (1), eq0 (1)
 > **Definitions:** is called (2)
@@ -915,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this . (3), function (3), this, (3), const (2)
+> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** make (6), find (1)
 > **Code Identifiers:** charsleftspan (2), fninput (1), charsleft (1), jquery (1)
 > **Analogies:** for example (3), just like (1)
@@ -1021,7 +1021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (2), type, (1), case, (1), case. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2)
 > **File Paths:** selecting.cy.js (1)
@@ -1102,9 +1102,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (2), [[End-to-end Testing]] (1), cd (1), hit (1)
 > **Env Vars:** url (8)
 > **CLI Commands:** make (3), npm (2), npx (1), cd (1)
-> **Code Keywords:** let (5), function (1), this, (1)
 > **UI Navigation:** click on (2)
 > **File Paths:** cypress.config.js (1)
 > **Code Identifiers:** baseurl (1)
@@ -1140,8 +1140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** this, (1), this. (1), try, (1)
 > **URLs:** [localhost:5173](https://localhost:5173) (1)
 > **Ports:** :5173 (1)
 > **Cross-References:** next video (1)
@@ -1290,7 +1290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (3), try. (2), this, (1), this. (1)
+> **Frameworks & Libraries:** data (4), next (2), [[React.js|React]] (1), [[Zoom]] (1), hit (1)
 > **CLI Commands:** make (8), find (2)
 > **Env Vars:** url (2), ide (2)
 > **Cross-References:** go back to (3)
@@ -1302,7 +1302,7 @@ created: 2026-04-29
 
 ### 3. Intermediate Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Interacting with elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/interacting-with-elements?u=76281980)
@@ -1415,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), interface (1), this, (1), case, (1)
+> **Frameworks & Libraries:** data (4), next (2), application (2), [[Debugging]] (1), css (1)
 > **CLI Commands:** find (5)
 > **UI Navigation:** click on (2), go to (1), double-click (1)
 > **Analogies:** such as (2), just like (1), for example (1)
@@ -1611,7 +1611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (3), type= (2), try. (2), this. (1)
+> **Frameworks & Libraries:** data (10), hit (2), next (1), generic (1)
 > **UI Navigation:** dropdown (6), checkbox (6), select the (2), click on (1)
 > **CLI Commands:** find (7), make (7)
 > **Analogies:** such as (3), just like (1), imagine (1)
@@ -1780,7 +1780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (2), this, (2), class, (1), else. (1)
+> **Frameworks & Libraries:** data (6), [[React.js|React]] (4), css (4), application (3), [[Debugging]] (1)
 > **CLI Commands:** make (9), find (5)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** is a  (3), we call this (1), is an  (1)
@@ -1836,7 +1836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (3), while, (1), type( (1), if, (1)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (1), application (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** in other words (1)
@@ -1938,7 +1938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), while. (1), this . (1), case, (1)
+> **Frameworks & Libraries:** application (9), hit (3), [[Debugging]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** in other words (3), is a  (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
@@ -2060,8 +2060,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Linux]] (2), [[Microsoft Word|Word]] (2), next (1), [[GitHub]] (1)
 > **Env Vars:** example_2_path (3), cypress_example_2_path (3), e2e (3), cypress (2), example_4_path (1)
-> **Code Keywords:** let (5), this, (2), const (1), except, (1)
 > **Code Identifiers:** e2path (2), e4path (2)
 > **Tools:** terminal (3), github (1)
 > **File Paths:** cypress.env (1), cypress.config.js (1), cypress.env.json (1)
@@ -2124,7 +2124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this, (2), case. (1), let (1), pass (1)
+> **Frameworks & Libraries:** api (8), [[End-to-end Testing]] (4), application (4), next (2), [[Integration Testing]] (2)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** getuser (6)
 > **Analogies:** for example (3), such as (1)
@@ -2162,7 +2162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), try, (1)
+> **Frameworks & Libraries:** css (1), next (1)
 > **Env Vars:** ddd (1), css (1)
 > **Cross-References:** earlier in (1), next video (1)
 > **File Paths:** interactions.cy.js (1)
@@ -2222,7 +2222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), try. (1), case. (1)
+> **Frameworks & Libraries:** css (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** thirditem (6)
 > **File Paths:** have.css (2)
@@ -2234,7 +2234,7 @@ created: 2026-04-29
 
 ### 4. Useful Commands
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The wrap command
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-wrap-command?u=76281980)
@@ -2278,7 +2278,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** function (1), pass (1), let (1)
 > **File Paths:** results.cy.js (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
@@ -2319,7 +2318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** results.cy.js (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -2421,7 +2420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), throw (1), for. (1), this. (1)
+> **Frameworks & Libraries:** next (1), [[React.js|React]] (1), [[JavaScript]] (1), css (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
@@ -2470,7 +2469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (2), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -2508,7 +2507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), for. (1)
+> **Frameworks & Libraries:** next (1), [[HTML]] (1)
 > **Env Vars:** ide (1), html (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2539,8 +2538,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** selecting.cy.js (1)
-> **Code Keywords:** try, (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2606,7 +2605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), try. (1), case. (1), case, (1), function (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -2615,7 +2614,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Cypress.io and JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/next-steps-with-cypress-io-and-javascript?u=76281980)
@@ -2638,7 +2637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Software Development]] (1)
 > **Speakers:** - well (1)
 
 

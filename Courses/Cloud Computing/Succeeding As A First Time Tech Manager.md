@@ -44,7 +44,7 @@ tags:
   - skill/management-development
   - skill/management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Succeeding%20As%20A%20First%20Time%20Tech%20Manager.md)
@@ -63,35 +63,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What it takes to lead
+  - [What it takes to lead](#what-it-takes-to-lead)
 - [**1. Build the Right Team**](#1-build-the-right-team) (7 videos)
-  - Preparing for the leadership role
-  - Understanding your team
-  - Hiring for complementary skills
-  - Always be hiring
-  - Evolving role of tech managers in the era of AI
-  - Managing human-AI collaboration
-  - Preparing for future
+  - [Preparing for the leadership role](#preparing-for-the-leadership-role)
+  - [Understanding your team](#understanding-your-team)
+  - [Hiring for complementary skills](#hiring-for-complementary-skills)
+  - [Always be hiring](#always-be-hiring)
+  - [Evolving role of tech managers in the era of AI](#evolving-role-of-tech-managers-in-the-era-of-ai)
+  - [Managing human-AI collaboration](#managing-human-ai-collaboration)
+  - [Preparing for future](#preparing-for-future)
 - [**2. Implement a Shared Vision**](#2-implement-a-shared-vision) (3 videos)
-  - Communicating organizational vision
-  - Creating the goal for your team
-  - Creating KPIs for the common goal
+  - [Communicating organizational vision](#communicating-organizational-vision)
+  - [Creating the goal for your team](#creating-the-goal-for-your-team)
+  - [Creating KPIs for the common goal](#creating-kpis-for-the-common-goal)
 - [**3. Talking Tech to Any Audience**](#3-talking-tech-to-any-audience) (3 videos)
-  - Integrating your team with the business
-  - Talking tech to a non-tech audience
-  - Talking business to a tech audience
+  - [Integrating your team with the business](#integrating-your-team-with-the-business)
+  - [Talking tech to a non-tech audience](#talking-tech-to-a-non-tech-audience)
+  - [Talking business to a tech audience](#talking-business-to-a-tech-audience)
 - [**4. Working with Global Teams**](#4-working-with-global-teams) (5 videos)
-  - Leading a global team
-  - Communicating across cultures
-  - Implementing a global vision
-  - Working with global teams
-  - Leveraging AI for decision-making
+  - [Leading a global team](#leading-a-global-team)
+  - [Communicating across cultures](#communicating-across-cultures)
+  - [Implementing a global vision](#implementing-a-global-vision)
+  - [Working with global teams](#working-with-global-teams)
+  - [Leveraging AI for decision-making](#leveraging-ai-for-decision-making)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What it takes to lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980)
@@ -118,15 +118,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), teams (2), [[LinkedIn]] (2), business (1), ai (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - congratulations (1)
 
 
 ### 1. Build the Right Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for the leadership role
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980)
@@ -213,8 +213,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), management (2), [[Quality Assurance]] (1), ai (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2), for, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - while (1)
 
@@ -281,9 +281,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), career (1), management (1), [[Representational State Transfer (REST)|Rest]] (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - as (1)
 
 #### Hiring for complementary skills
@@ -361,7 +361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** product (2), teams (1), next (1), [[LinkedIn]] (1)
 > **Prerequisites:** required to (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** it's best to (1)
@@ -434,8 +434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), leadership (1), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (2), for. (2), for, (1)
 > **Best Practices:** make sure to (1), the key is (1)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is a  (1)
@@ -476,6 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), management (1), teams (1), [[Programming]] (1), [[Algorithms]] (1)
 > **Speakers:** - in (1)
 
 #### Managing human-AI collaboration
@@ -521,6 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), leadership (1), [[Continuous Monitoring]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
@@ -571,13 +573,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** teams (2), [[Automation]] (2), application (1), [[Generative AI]] (1), [[Content Creation]] (1)
 > **Speakers:** - to (1)
 
 
 ### 2. Implement a Shared Vision
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicating organizational vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980)
@@ -648,8 +650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), ai (1), nlp (1), [[Microsoft Products|Products]] (1), teams (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), for, (1)
 > **Env Vars:** nlp (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is an  (1)
@@ -715,8 +717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), cloud (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
@@ -797,15 +799,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), data (2), teams (1), next (1)
 > **Env Vars:** kpi (6)
 > **Definitions:** defined as (2), is a  (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - key (1)
 
 
 ### 3. Talking Tech to Any Audience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating your team with the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/integrating-your-team-with-the-business-24920109?u=76281980)
@@ -840,6 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (13), teams (8), product (2), [[Engineering]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
@@ -887,6 +890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), product (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -929,6 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), product (4), [[Microsoft Products|Products]] (3), management (2), leadership (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - as (1)
@@ -936,7 +941,7 @@ created: 2026-04-29
 
 ### 4. Working with Global Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading a global team
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leading-a-global-team-24915135?u=76281980)
@@ -987,6 +992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Microsoft Office|Office]] (2), power (2), business (1)
 > **CLI Commands:** make (3)
 > **Tools:** notion (1)
 > **Speakers:** - in (1)
@@ -1060,6 +1066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (8), hr (1), [[Slack]] (1), business (1), [[SharePoint]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** slack (1)
 > **Definitions:** is an  (1)
@@ -1119,8 +1126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), cloud (1), management (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - implementing (1)
 
@@ -1173,6 +1180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (10), [[Newsletters]] (2), leadership (1), business (1), hit (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
@@ -1225,6 +1233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), data (4), [[Decision-Making]] (3), management (2), leadership (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1233,7 +1242,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/next-steps-24919131?u=76281980)
@@ -1254,6 +1263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (5), career (4), [[LinkedIn]] (2), next (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ewow (1)
 > **Exercise Files:** template (1)

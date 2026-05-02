@@ -32,7 +32,7 @@ tags:
   - skill/microsoft-powerpoint
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20and%20PowerPoint-%20Creating%20High-Impact%20Financial%20Presentations.md)
@@ -51,61 +51,61 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Creating compelling finance presentations
-  - What to know before starting
+  - [Creating compelling finance presentations](#creating-compelling-finance-presentations)
+  - [What to know before starting](#what-to-know-before-starting)
 - [**1. Presenting Financial Data**](#1-presenting-financial-data) (6 videos)
-  - How financial and nonfinancial data differs in Excel
-  - Communicating finance concepts to your audience
-  - Tools for preparing and presenting financial data
-  - Choosing between Excel and PowerPoint for presentations
-  - Choosing a chart or a table
-  - Selecting the right chart to communicate your message
+  - [How financial and nonfinancial data differs in Excel](#how-financial-and-nonfinancial-data-differs-in-excel)
+  - [Communicating finance concepts to your audience](#communicating-finance-concepts-to-your-audience)
+  - [Tools for preparing and presenting financial data](#tools-for-preparing-and-presenting-financial-data)
+  - [Choosing between Excel and PowerPoint for presentations](#choosing-between-excel-and-powerpoint-for-presentations)
+  - [Choosing a chart or a table](#choosing-a-chart-or-a-table)
+  - [Selecting the right chart to communicate your message](#selecting-the-right-chart-to-communicate-your-message)
 - [**2. Cleaning Up Excel Data for Finance Presentations**](#2-cleaning-up-excel-data-for-finance-presentations) (5 videos)
-  - Charting with tables
-  - Summarizing data with PivotTables
-  - Charting with Pivots
-  - Cleaning up data with Power Query
-  - Manipulating data with unpivot in Power Query
+  - [Charting with tables](#charting-with-tables)
+  - [Summarizing data with PivotTables](#summarizing-data-with-pivottables)
+  - [Charting with Pivots](#charting-with-pivots)
+  - [Cleaning up data with Power Query](#cleaning-up-data-with-power-query)
+  - [Manipulating data with unpivot in Power Query](#manipulating-data-with-unpivot-in-power-query)
 - [**3. Dynamic Charting with Formulas and Pivots**](#3-dynamic-charting-with-formulas-and-pivots) (4 videos)
-  - Building charts based on formulas vs. PivotCharts
-  - Making charts dynamic with dynamic arrays and named ranges
-  - Slicing and filtering data for presentations
-  - Deciding between formulas and PivotCharts
+  - [Building charts based on formulas vs. PivotCharts](#building-charts-based-on-formulas-vs-pivotcharts)
+  - [Making charts dynamic with dynamic arrays and named ranges](#making-charts-dynamic-with-dynamic-arrays-and-named-ranges)
+  - [Slicing and filtering data for presentations](#slicing-and-filtering-data-for-presentations)
+  - [Deciding between formulas and PivotCharts](#deciding-between-formulas-and-pivotcharts)
 - [**4. Building Excel Charts for Presentations**](#4-building-excel-charts-for-presentations) (5 videos)
-  - Comparing data with a combo chart on two axes
-  - Show changes over time with a waterfall chart
-  - Displaying model sensitivities with a tornado chart
-  - Building a project schedule visual
-  - Displaying progress with a Gantt chart
+  - [Comparing data with a combo chart on two axes](#comparing-data-with-a-combo-chart-on-two-axes)
+  - [Show changes over time with a waterfall chart](#show-changes-over-time-with-a-waterfall-chart)
+  - [Displaying model sensitivities with a tornado chart](#displaying-model-sensitivities-with-a-tornado-chart)
+  - [Building a project schedule visual](#building-a-project-schedule-visual)
+  - [Displaying progress with a Gantt chart](#displaying-progress-with-a-gantt-chart)
 - [**5. Crafting Graphics for Presentations**](#5-crafting-graphics-for-presentations) (4 videos)
-  - Illustrating trends with sparklines
-  - Mapping geospatial data
-  - Adding images and icons in Excel
-  - Adding emojis in Excel
+  - [Illustrating trends with sparklines](#illustrating-trends-with-sparklines)
+  - [Mapping geospatial data](#mapping-geospatial-data)
+  - [Adding images and icons in Excel](#adding-images-and-icons-in-excel)
+  - [Adding emojis in Excel](#adding-emojis-in-excel)
 - [**6. Communicate Your Message with Conditional Formatting**](#6-communicate-your-message-with-conditional-formatting) (5 videos)
-  - Adding meaning to tables with color scales
-  - Finding and drawing attention to anomalies
-  - Giving numbers meaning with data bars
-  - Creating a heatmap with color scales
-  - Creating an actual vs. budget variance report
+  - [Adding meaning to tables with color scales](#adding-meaning-to-tables-with-color-scales)
+  - [Finding and drawing attention to anomalies](#finding-and-drawing-attention-to-anomalies)
+  - [Giving numbers meaning with data bars](#giving-numbers-meaning-with-data-bars)
+  - [Creating a heatmap with color scales](#creating-a-heatmap-with-color-scales)
+  - [Creating an actual vs. budget variance report](#creating-an-actual-vs-budget-variance-report)
 - [**7. Getting Excel Content into PowerPoint**](#7-getting-excel-content-into-powerpoint) (5 videos)
-  - Applying Office themes in PowerPoint
-  - Options for copying and pasting from Excel
-  - Linking and embedding visuals from Excel
-  - Creating charts and tables natively in PowerPoint
-  - Adding a Power BI report into PowerPoint
+  - [Applying Office themes in PowerPoint](#applying-office-themes-in-powerpoint)
+  - [Options for copying and pasting from Excel](#options-for-copying-and-pasting-from-excel)
+  - [Linking and embedding visuals from Excel](#linking-and-embedding-visuals-from-excel)
+  - [Creating charts and tables natively in PowerPoint](#creating-charts-and-tables-natively-in-powerpoint)
+  - [Adding a Power BI report into PowerPoint](#adding-a-power-bi-report-into-powerpoint)
 - [**8. Finalizing Your PowerPoint Presentation**](#8-finalizing-your-powerpoint-presentation) (5 videos)
-  - Pasting Excel content into PowerPoint
-  - Using the PowerPoint Designer
-  - Animating a chart
-  - Animating a table
-  - Sharing your finalized presentation
+  - [Pasting Excel content into PowerPoint](#pasting-excel-content-into-powerpoint)
+  - [Using the PowerPoint Designer](#using-the-powerpoint-designer)
+  - [Animating a chart](#animating-a-chart)
+  - [Animating a table](#animating-a-table)
+  - [Sharing your finalized presentation](#sharing-your-finalized-presentation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating compelling finance presentations
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-compelling-finance-presentations-that-make-an-impact?u=76281980)
@@ -124,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (4), [[Microsoft PowerPoint|Powerpoint]] (2), business (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -160,8 +161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft PowerPoint|Powerpoint]] (5), [[Microsoft 365]] (1), power (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -169,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Presenting Financial Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How financial and nonfinancial data differs in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980)
@@ -218,6 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Financial Data]] (5), [[Microsoft Excel|Excel]] (4), [[Microsoft PowerPoint|Powerpoint]] (1), [[Financial Analysis]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -267,6 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Infographics]] (1), business (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -292,7 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (3), [[Microsoft Power Query|Power query]] (3), power (2), bi (2)
 > **Analogies:** similar to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -360,8 +363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft PowerPoint|Powerpoint]] (4), [[Real-Time]] (1), data (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (2), let (1), this, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -408,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1), this, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -531,10 +534,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), ai (1), next (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3), select the (1)
 > **Best Practices:** recommended (4)
-> **Code Keywords:** let (3)
 > **Analogies:** such as (1), kind of like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -542,7 +545,7 @@ created: 2026-04-29
 
 ### 2. Cleaning Up Excel Data for Finance Presentations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Charting with tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/charting-with-tables?u=76281980)
@@ -581,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1)
+> **Frameworks & Libraries:** data (4), feature (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [educator] (1)
@@ -663,7 +666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Cross-References:** we discussed (1), in the last (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gbp (1)
@@ -709,6 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1)
@@ -794,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), continue (1)
+> **Frameworks & Libraries:** data (16), [[Microsoft Power Query|Power query]] (4), hit (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (2)
@@ -874,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), data (5), feature (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -883,7 +887,7 @@ created: 2026-04-29
 
 ### 3. Dynamic Charting with Formulas and Pivots
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building charts based on formulas vs. PivotCharts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/building-charts-based-on-formulas-vs-pivotcharts?u=76281980)
@@ -932,8 +936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), data (1)
 > **Env Vars:** unique (2), sumif (2), ctrl (1), sumifs (1)
-> **Code Keywords:** let (5)
 > **Cross-References:** we discussed (1), in the last (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1031,7 +1035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (1), new, (1)
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** cat (3), make (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** go to (1)
@@ -1146,7 +1150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2)
+> **Frameworks & Libraries:** data (4), [[Pivot Tables]] (1)
 > **Env Vars:** unique (3), vic (1), sort (1), sumifs (1)
 > **UI Navigation:** dropdown (4), select the (1), go to (1)
 > **CLI Commands:** make (3)
@@ -1183,8 +1187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), feature (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** function (2)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** as we saw (1)
@@ -1193,7 +1197,7 @@ created: 2026-04-29
 
 ### 4. Building Excel Charts for Presentations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing data with a combo chart on two axes
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/comparing-data-with-a-combo-chart-on-two-axes?u=76281980)
@@ -1238,10 +1242,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -1283,7 +1287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1)
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 4.1 (2), 16.2 (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
@@ -1411,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), this, (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (2), [[Financial Modeling]] (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1525,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** hit (2), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -1593,14 +1597,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1)
+> **Frameworks & Libraries:** data (2), management (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Crafting Graphics for Presentations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Illustrating trends with sparklines
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/illustrating-trends-with-sparklines?u=76281980)
@@ -1633,7 +1637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Mapping geospatial data
@@ -1695,9 +1699,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1758,7 +1762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), function (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft]] (1), [[Search]] (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1801,15 +1805,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this. (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Communicate Your Message with Conditional Formatting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding meaning to tables with color scales
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-meaning-to-tables-with-color-scales?u=76281980)
@@ -1864,8 +1868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), let (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1949,6 +1953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1987,10 +1992,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **UI Navigation:** dropdown (1), go to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2038,7 +2043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), hit (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -2113,7 +2118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** product (1), [[Windows]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4)
 > **Warnings:** warning (3)
 > **Definitions:** is a  (1)
@@ -2122,7 +2127,7 @@ created: 2026-04-29
 
 ### 7. Getting Excel Content into PowerPoint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying Office themes in PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980)
@@ -2183,7 +2188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft PowerPoint|Powerpoint]] (7), [[Microsoft Office|Office]] (6), [[Microsoft Word|Word]] (2), data (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2278,8 +2283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft PowerPoint|Powerpoint]] (6), data (3), next (1)
 > **Analogies:** picture (8)
-> **Code Keywords:** let (7)
 > **CLI Commands:** make (5)
 > **Warnings:** be aware (2), be careful (1)
 > **Cross-References:** in the next (1)
@@ -2351,8 +2356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft PowerPoint|Powerpoint]] (8), data (7), hit (1)
 > **UI Navigation:** double-click (4), go to (1), right-click (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2410,8 +2415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), [[Microsoft PowerPoint|Powerpoint]] (11), data (5), [[Microsoft Products|Products]] (1), product (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3)
 > **Speakers:** - [instructor] (1)
 
 #### Adding a Power BI report into PowerPoint
@@ -2439,9 +2444,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), power (3), bi (3)
 > **UI Navigation:** go to (3)
 > **Env Vars:** url (2)
-> **Code Keywords:** let (1)
 > **URLs:** [powerbi.com](https://powerbi.com) (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -2449,7 +2454,7 @@ created: 2026-04-29
 
 ### 8. Finalizing Your PowerPoint Presentation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pasting Excel content into PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980)
@@ -2612,7 +2617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), [[Microsoft Excel|Excel]] (6), next (3), [[Financial Modeling]] (1), [[Windows]] (1)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** go to (6)
 > **Definitions:** is a  (1)
@@ -2648,8 +2653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), next (1)
 > **UI Navigation:** go to (2), click on (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -2703,7 +2708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -2750,7 +2755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (3), [[Microsoft PowerPoint|Powerpoint]] (2), hit (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -2816,7 +2821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** pdf (5)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -2825,7 +2830,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980)
@@ -2860,6 +2865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[LinkedIn]] (3), [[Microsoft Power Query|Power query]] (1), power (1), bi (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** mvp (1)
 > **Cross-References:** we covered (1)

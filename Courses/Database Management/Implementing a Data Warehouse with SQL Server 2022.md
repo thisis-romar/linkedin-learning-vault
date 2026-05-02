@@ -31,7 +31,7 @@ tags:
   - skill/data-warehousing
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Implementing%20a%20Data%20Warehouse%20with%20SQL%20Server%202022.md)
@@ -50,54 +50,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Storing information in a data warehouse
-  - What you should know
-  - Set up the example databases
+  - [Storing information in a data warehouse](#storing-information-in-a-data-warehouse)
+  - [What you should know](#what-you-should-know)
+  - [Set up the example databases](#set-up-the-example-databases)
 - [**1. Data Warehouse Foundations**](#1-data-warehouse-foundations) (5 videos)
-  - Data warehouse core concepts
-  - Transactional DBs vs. data warehouses
-  - Dimensions and facts
-  - Star and snowflake schemas
-  - Hardware and infrastructure
+  - [Data warehouse core concepts](#data-warehouse-core-concepts)
+  - [Transactional DBs vs. data warehouses](#transactional-dbs-vs-data-warehouses)
+  - [Dimensions and facts](#dimensions-and-facts)
+  - [Star and snowflake schemas](#star-and-snowflake-schemas)
+  - [Hardware and infrastructure](#hardware-and-infrastructure)
 - [**2. Create a Data Warehouse**](#2-create-a-data-warehouse) (4 videos)
-  - Create a data warehouse in SQL Server
-  - Design dimension tables
-  - Design fact tables
-  - Create an indexed view
+  - [Create a data warehouse in SQL Server](#create-a-data-warehouse-in-sql-server)
+  - [Design dimension tables](#design-dimension-tables)
+  - [Design fact tables](#design-fact-tables)
+  - [Create an indexed view](#create-an-indexed-view)
 - [**3. Columnstore Indexes**](#3-columnstore-indexes) (3 videos)
-  - Advantages of columnstore indexes
-  - Memory-optimized columnstore table
-  - Rebuild columnstore indexes
+  - [Advantages of columnstore indexes](#advantages-of-columnstore-indexes)
+  - [Memory-optimized columnstore table](#memory-optimized-columnstore-table)
+  - [Rebuild columnstore indexes](#rebuild-columnstore-indexes)
 - [**4. Extract, Transform, and Load**](#4-extract-transform-and-load) (3 videos)
-  - What are ETL and SSIS?
-  - Understand data flow
-  - Establish control flow
+  - [What are ETL and SSIS?](#what-are-etl-and-ssis)
+  - [Understand data flow](#understand-data-flow)
+  - [Establish control flow](#establish-control-flow)
 - [**5. Implement an Azure Synapse Analytics Dedicated SQL Pool**](#5-implement-an-azure-synapse-analytics-dedicated-sql-pool) (6 videos)
-  - Hosting a DW in the cloud
-  - Create a dedicated SQL Pool
-  - Reserve resources with workload isolation groups
-  - Classify workloads
-  - Load data into a staging table
-  - Pause and remove resources in Azure
+  - [Hosting a DW in the cloud](#hosting-a-dw-in-the-cloud)
+  - [Create a dedicated SQL Pool](#create-a-dedicated-sql-pool)
+  - [Reserve resources with workload isolation groups](#reserve-resources-with-workload-isolation-groups)
+  - [Classify workloads](#classify-workloads)
+  - [Load data into a staging table](#load-data-into-a-staging-table)
+  - [Pause and remove resources in Azure](#pause-and-remove-resources-in-azure)
 - [**6. Enforce Data Quality**](#6-enforce-data-quality) (3 videos)
-  - SQL Server Data Quality Services
-  - Cleanse data with DQS
-  - Create a custom knowledge base
+  - [SQL Server Data Quality Services](#sql-server-data-quality-services)
+  - [Cleanse data with DQS](#cleanse-data-with-dqs)
+  - [Create a custom knowledge base](#create-a-custom-knowledge-base)
 - [**7. Master Data Services**](#7-master-data-services) (6 videos)
-  - Introduction to Master Data Services
-  - Install MDS and IIS
-  - Configure Master Data Services
-  - Deploy a sample MDS model
-  - Install the MDS Excel add-in
-  - Update master data in Excel
+  - [Introduction to Master Data Services](#introduction-to-master-data-services)
+  - [Install MDS and IIS](#install-mds-and-iis)
+  - [Configure Master Data Services](#configure-master-data-services)
+  - [Deploy a sample MDS model](#deploy-a-sample-mds-model)
+  - [Install the MDS Excel add-in](#install-the-mds-excel-add-in)
+  - [Update master data in Excel](#update-master-data-in-excel)
 - [**8. Consume Data from the Warehouse**](#8-consume-data-from-the-warehouse) (1 videos)
-  - Business intelligence applications
+  - [Business intelligence applications](#business-intelligence-applications)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storing information in a data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Business Intelligence (BI)|Business intelligence]] (2), power (1), business (1), bi (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)
@@ -135,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Relational Databases]] (1), management (1), [[SQL]] (1), data (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -226,9 +228,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (7), database (6), [[Microsoft SQL Server|Sql server]] (4), data (4), management (3)
 > **Env Vars:** sql (6), mssql (3)
 > **UI Navigation:** scroll down (3), click on (2), navigate to (1)
-> **Code Keywords:** let (2), case, (1), continue (1)
 > **CLI Commands:** find (3)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -238,7 +240,7 @@ created: 2026-04-29
 
 ### 1. Data Warehouse Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data warehouse core concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980)
@@ -315,8 +317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), database (10), [[Databases]] (8), business (4), etl (3)
 > **Env Vars:** etl (3), sql (2)
-> **Code Keywords:** let (1), case, (1), finally, (1), require (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -405,10 +407,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), database (16), [[Databases]] (5), business (1), etl (1)
 > **Env Vars:** oltp (8), olap (6), etl (1)
 > **Analogies:** for instance (2), picture (1), for example (1)
 > **Definitions:** stands for (2), known as (1)
-> **Code Keywords:** from. (1), this, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -565,9 +567,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), database (9), etl (2), [[Databases]] (2), management (2)
 > **Analogies:** for instance (4), just like (2), imagine (1), such as (1)
 > **UI Navigation:** select the (3), right-click (2), scroll down (1), go to (1)
-> **Code Keywords:** let (6)
 > **Env Vars:** etl (2), csv (1), xml (1), json (1), dim (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is called (1)
@@ -653,8 +655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), data (3), [[Snowflake]] (2), [[Zoom]] (2)
 > **CLI Commands:** find (4)
-> **Code Keywords:** require (1), let (1), type. (1)
 > **Definitions:** is a  (2), known as (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** oltp (1)
@@ -718,8 +720,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Databases]] (5), [[Hardware]] (4), etl (3), database (2)
 > **Env Vars:** etl (3)
-> **Code Keywords:** require (1), finally, (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Warnings:** be careful (1)
@@ -728,7 +730,7 @@ created: 2026-04-29
 
 ### 2. Create a Data Warehouse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a data warehouse in SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980)
@@ -879,8 +881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), database (13), [[Databases]] (4), etl (3), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (3), etl (3), create (2), schema (2), ssd (1)
-> **Code Keywords:** let (7), this, (1), switch (1), default. (1), finally, (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** right-click (2), go to (1)
 > **Analogies:** just like (2), for example (1)
@@ -1049,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from. (2), from, (1)
+> **Frameworks & Libraries:** data (16), database (12), next (5), [[Databases]] (2), etl (2)
 > **UI Navigation:** select the (3), scroll up (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** etl (2), wwi (1)
@@ -1155,7 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (2), case, (1), type. (1)
+> **Frameworks & Libraries:** database (7), data (5), next (1), product (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1), means that (1)
@@ -1241,7 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), new, (1), let (1)
+> **Frameworks & Libraries:** data (10), database (7), business (1), [[SQL]] (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
@@ -1252,7 +1254,7 @@ created: 2026-04-29
 
 ### 3. Columnstore Indexes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advantages of columnstore indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/advantages-of-columnstore-indexes?u=76281980)
@@ -1341,7 +1343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1), ix_cs (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1420,7 +1422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (7), [[Microsoft SQL Server|Sql server]] (3), database (3), next (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -1488,7 +1490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1), continue (1)
+> **Frameworks & Libraries:** data (7), database (3), management (2), [[SQL]] (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** ccx (1), sql (1)
 > **UI Navigation:** click on (2)
@@ -1500,7 +1502,7 @@ created: 2026-04-29
 
 ### 4. Extract, Transform, and Load
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are ETL and SSIS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980)
@@ -1559,10 +1561,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), etl (7), [[Microsoft SQL Server|Sql server]] (6), database (4), [[Control Flow]] (3)
 > **Env Vars:** etl (7), sql (7), ssis (2), csv (1), xml (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Analogies:** such as (1), for instance (1), just like (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** visual studio (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1630,9 +1632,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), [[Microsoft SQL Server|Sql server]] (2), etl (2), [[Microsoft Excel|Excel]] (2), [[Databases]] (1)
 > **Env Vars:** sql (2), etl (2), ssis (2), xml (1), csv (1)
 > **Analogies:** for instance (4), such as (3), just like (1)
-> **Code Keywords:** pass (4), finally, (1), else. (1), from, (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1678,16 +1680,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Control Flow]] (7), database (5), etl (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** ssis (3), sql (2), etl (1), ftp (1), csv (1)
 > **Analogies:** for instance (2), such as (1), just like (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Implement an Azure Synapse Analytics Dedicated SQL Pool
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hosting a DW in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980)
@@ -1786,9 +1788,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Microsoft Azure|Azure]] (10), [[SQL]] (8), cloud (4), database (3)
 > **Env Vars:** sql (10), cpu (2), csv (1), tsv (1), json (1)
 > **CLI Commands:** node (3), make (2)
-> **Code Keywords:** finally, (1), require (1), interface (1), let (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** cdwu (1)
 > **Best Practices:** best practice (1)
@@ -1889,9 +1891,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Azure|Azure]] (7), next (6), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft]] (3)
 > **Env Vars:** sql (11)
 > **UI Navigation:** go to (4), scroll down (2), dropdown (1)
-> **Code Keywords:** let (2), match, (1), public (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** you'll need (1), set up (1), configure (1)
 > **Code Identifiers:** awadmin (1), cdwu (1)
@@ -2005,10 +2007,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), concurrent (4), [[SQL]] (3), [[Microsoft Azure|Azure]] (2), management (2)
 > **Env Vars:** sql (4), cpu (3)
 > **Prerequisites:** configure (4), set up (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), delete (1)
 > **UI Navigation:** go to (1), in the menu (1)
 > **Definitions:** means that (2)
 > **Analogies:** such as (1), for example (1)
@@ -2141,8 +2143,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (8), [[SQL]] (8), management (4), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (10), cpu (2)
-> **Code Keywords:** let (6), this, (1), switch (1), case, (1)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** dropdown (1), scroll down (1)
@@ -2247,7 +2249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), super (1)
+> **Frameworks & Libraries:** data (29), database (6), [[SQL]] (3), cloud (2), next (1)
 > **Env Vars:** sql (3), elt (1), etl (1)
 > **UI Navigation:** select the (1), scroll up (1)
 > **CLI Commands:** make (1)
@@ -2302,7 +2304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (2), while. (1), switch (1)
+> **Frameworks & Libraries:** [[SQL]] (4), database (3), [[Microsoft Azure|Azure]] (2), data (2), next (1)
 > **Env Vars:** sql (4), cpu (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -2312,7 +2314,7 @@ created: 2026-04-29
 
 ### 6. Enforce Data Quality
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL Server Data Quality Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980)
@@ -2417,10 +2419,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Microsoft SQL Server|Sql server]] (11), next (5), database (4), [[Databases]] (4)
 > **Env Vars:** sql (14), dqs (3), cis (1)
 > **Prerequisites:** install (3), setup (3)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** continue (2), let (1)
 > **UI Navigation:** dropdown (1), scroll down (1), click on (1)
 > **Definitions:** is an  (1), is a  (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -2657,7 +2659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case. (1)
+> **Frameworks & Libraries:** data (49), [[Microsoft SQL Server|Sql server]] (7), next (6), management (4), database (3)
 > **Env Vars:** sql (7), dqs (3), csv (1)
 > **UI Navigation:** right-click (3), scroll down (2), go to (2), dropdown (2)
 > **CLI Commands:** make (4), find (3)
@@ -2825,7 +2827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), for. (1), switch (1), continue (1)
+> **Frameworks & Libraries:** data (36), next (5), database (3), business (2), management (2)
 > **Env Vars:** dqs (2), wwi (1), sql (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1), find (1)
@@ -2837,7 +2839,7 @@ created: 2026-04-29
 
 ### 7. Master Data Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Master Data Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980)
@@ -2878,8 +2880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Microsoft Products|Products]] (4), database (4), management (3), product (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** sql (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -2999,9 +3001,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Microsoft SQL Server|Sql server]] (6), next (6), web (4), data (3)
 > **Env Vars:** sql (7), http (4), iis (2), api (2), ftp (1)
 > **CLI Commands:** make (9), find (4), snap (1)
-> **Code Keywords:** let (5), finally, (2), static (2), for . (1)
 > **Versions:** 4.8 (3), 3.5 (2)
 > **UI Navigation:** go to (2), scroll down (1), dropdown (1), navigate to (1)
 > **Prerequisites:** install (4), setup (1)
@@ -3125,9 +3127,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), data (12), [[Microsoft SQL Server|Sql server]] (7), next (7), [[Windows]] (5)
 > **Env Vars:** sql (8), html5 (1)
 > **Prerequisites:** configure (3), set up (2), you'll need (1), install (1)
-> **Code Keywords:** let (4), finally, (1), interface (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** go to (1), click on (1), dropdown (1), navigate to (1)
 > **Warnings:** warning (3)
@@ -3295,8 +3297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), product (8), [[Microsoft SQL Server|Sql server]] (3), prompt (3), [[Microsoft SQL Server]] (2)
 > **UI Navigation:** click on (3), navigate to (2), dropdown (2), scroll down (1), right-click (1)
-> **Code Keywords:** let (4), case, (1), interface (1), class. (1), class, (1)
 > **Env Vars:** sql (5), mds1 (2), cmd (1), mds (1)
 > **CLI Commands:** find (5), make (2), cd (1)
 > **Analogies:** for instance (5), similar to (1)
@@ -3375,11 +3377,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (5), next (3), [[Microsoft Office|Office]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
 > **Prerequisites:** install (5)
 > **Env Vars:** url (1), mds (1), x64 (1), x86 (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Tools:** visual studio (2)
 > **Exercise Files:** download the (2)
 > **Cross-References:** go back to (1)
@@ -3491,8 +3493,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Microsoft Excel|Excel]] (8), database (3), product (3), web (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (4)
 > **Env Vars:** per (2), url (1)
 > **UI Navigation:** dropdown (1), click on (1)
 > **URLs:** [http://localhost/mds](http://localhost/mds) (1)
@@ -3501,7 +3503,7 @@ created: 2026-04-29
 
 ### 8. Consume Data from the Warehouse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business intelligence applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980)
@@ -3568,9 +3570,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Business Intelligence (BI)|Business intelligence]] (6), [[Microsoft SQL Server|Sql server]] (5), [[Dashboards]] (3), power (3)
 > **Env Vars:** sql (6), url (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** function (1), finally, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** picture (1), similar to (1)
 > **Cross-References:** in the next (1)
@@ -3579,7 +3581,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980)
@@ -3608,9 +3610,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (5), [[Business Intelligence (BI)|Business intelligence]] (1), etl (1), [[Databases]] (1)
 > **Env Vars:** sql (5), etl (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [adam] (1)
 

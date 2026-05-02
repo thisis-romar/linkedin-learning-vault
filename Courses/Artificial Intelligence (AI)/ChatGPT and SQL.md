@@ -33,7 +33,7 @@ tags:
   - skill/chatgpt
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT%20and%20SQL.md)
@@ -52,38 +52,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The future is now: Intro to AI for data analytics
-  - Setting expectations
+  - [The future is now: Intro to AI for data analytics](#the-future-is-now-intro-to-ai-for-data-analytics)
+  - [Setting expectations](#setting-expectations)
 - [**1. Why AI for Data Analytics?**](#1-why-ai-for-data-analytics) (2 videos)
-  - Why AI is a game-changer for data analysis
-  - AI use cases for data analytics
+  - [Why AI is a game-changer for data analysis](#why-ai-is-a-game-changer-for-data-analysis)
+  - [AI use cases for data analytics](#ai-use-cases-for-data-analytics)
 - [**2. Intro to AI, LLMs, and ChatGPT**](#2-intro-to-ai-llms-and-chatgpt) (6 videos)
-  - The AI landscape
-  - Generative AI and large language models
-  - The road to ChatGPT
-  - Generative AI tools
-  - Warning: Pitfalls of ChatGPT
-  - Accessing ChatGPT and Google Bard
+  - [The AI landscape](#the-ai-landscape)
+  - [Generative AI and large language models](#generative-ai-and-large-language-models)
+  - [The road to ChatGPT](#the-road-to-chatgpt)
+  - [Generative AI tools](#generative-ai-tools)
+  - [Warning: Pitfalls of ChatGPT](#warning-pitfalls-of-chatgpt)
+  - [Accessing ChatGPT and Google Bard](#accessing-chatgpt-and-google-bard)
 - [**3. Prompt Engineering**](#3-prompt-engineering) (5 videos)
-  - Intro to prompt engineering
-  - Prompt tip: Be clear and specific
-  - Prompt tip: Provide context
-  - Prompt tip: Establish roles
-  - Prompt tip: Set the tone
+  - [Intro to prompt engineering](#intro-to-prompt-engineering)
+  - [Prompt tip: Be clear and specific](#prompt-tip-be-clear-and-specific)
+  - [Prompt tip: Provide context](#prompt-tip-provide-context)
+  - [Prompt tip: Establish roles](#prompt-tip-establish-roles)
+  - [Prompt tip: Set the tone](#prompt-tip-set-the-tone)
 - [**4. ChatGPT for SQL**](#4-chatgpt-for-sql) (7 videos)
-  - Intro to ChatGPT for SQL
-  - Explain fundamental SQL concepts
-  - Explain a SQL query
-  - Add comments to a SQL query
-  - Debug and troubleshoot SQL code
-  - Create a SQL query from scratch
-  - Optimize SQL queries
+  - [Intro to ChatGPT for SQL](#intro-to-chatgpt-for-sql)
+  - [Explain fundamental SQL concepts](#explain-fundamental-sql-concepts)
+  - [Explain a SQL query](#explain-a-sql-query)
+  - [Add comments to a SQL query](#add-comments-to-a-sql-query)
+  - [Debug and troubleshoot SQL code](#debug-and-troubleshoot-sql-code)
+  - [Create a SQL query from scratch](#create-a-sql-query-from-scratch)
+  - [Optimize SQL queries](#optimize-sql-queries)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Key takeaways and next steps
+  - [Key takeaways and next steps](#key-takeaways-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future is now: Intro to AI for data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
@@ -112,9 +112,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), data (4), [[Analytics]] (2), ai (2), next (2)
 > **Warnings:** be aware (1), troubleshoot (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - hey (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -153,7 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (6), data (2), [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (1), next (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
@@ -162,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Why AI for Data Analytics?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why AI is a game-changer for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
@@ -255,8 +255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (8), [[Strategic Thinking]] (4), career (3), business (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -302,6 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), data (2), [[Analytics]] (1), [[Troubleshooting]] (1), [[Debugging]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -309,7 +310,7 @@ created: 2026-04-29
 
 ### 2. Intro to AI, LLMs, and ChatGPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The AI landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980)
@@ -376,8 +377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (4), data (4), [[Algorithms]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
 > **Definitions:** is a  (3), defined as (1)
-> **Code Keywords:** self (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -470,7 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), finally, (1), self (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Generative AI]] (4), [[Deep Learning]] (4), data (4), prompt (3)
 > **Env Vars:** gpt (2), dall (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** stands for (1), known as (1)
@@ -561,8 +562,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[ChatGPT]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Neural Networks]] (4), [[GPT-4]] (4)
 > **Env Vars:** gpt (9), ibm (2), mit (1), eliza (1)
-> **Code Keywords:** let (2), super (1), finally, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -621,7 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Gemini]] (6), ai (5), [[Google]] (4), product (2)
 > **Versions:** 3.5 (1), 2.5 (1)
 > **Definitions:** known as (2)
 > **Env Vars:** gpt (1)
@@ -679,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), data (2), [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **CLI Commands:** make (1), python (1)
 > **Warnings:** be aware (2)
 > **Speakers:** - [narrator] (1)
@@ -690,7 +691,7 @@ created: 2026-04-29
 
 ### 3. Prompt Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980)
@@ -741,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this, (1), try. (1)
+> **Frameworks & Libraries:** prompt (8), ai (4), [[Prompt Engineering]] (3), [[ChatGPT]] (2), [[Google]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
@@ -785,8 +786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Microsoft Excel|Excel]] (3), data (2), [[Prompt Engineering]] (1), prompt (1)
 > **Env Vars:** c100 (1), b100 (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
@@ -814,6 +815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (3), [[ChatGPT]] (2), next (1), [[Prompt Engineering]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prompt tip: Set the tone
@@ -849,13 +851,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), prompt (2), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Google]] (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - in (1)
 
 
 ### 4. ChatGPT for SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to ChatGPT for SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-chatgpt-for-sql?u=76281980)
@@ -902,6 +905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), ai (6), [[ChatGPT]] (2), [[Google]] (2)
 > **Env Vars:** sql (8)
 > **Speakers:** - [instructor] (1)
 
@@ -1054,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (4), case. (1), this. (1), match, (1)
+> **Frameworks & Libraries:** data (13), [[SQL]] (8), [[Google]] (3), ai (3), database (3)
 > **Env Vars:** sql (8)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2), for example (1)
@@ -1232,7 +1236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), function (2), from. (1), finally, (1)
+> **Frameworks & Libraries:** ai (6), [[Google]] (4), [[SQL]] (3), [[ChatGPT]] (2), data (2)
 > **Env Vars:** sql (3)
 > **Definitions:** means that (1), is a  (1)
 > **Warnings:** be careful (2)
@@ -1439,8 +1443,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (13), prompt (4), data (3), ai (3), next (2)
 > **Env Vars:** sql (13), gpt (7)
-> **Code Keywords:** let (5), this. (2), case, (1), super (1)
 > **Definitions:** means that (2), is a  (2), is an  (1), defined as (1)
 > **Best Practices:** best practice (1), good practice (1)
 > **CLI Commands:** mysql (1)
@@ -1671,7 +1675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (3), this, (2), throw (1)
+> **Frameworks & Libraries:** [[SQL]] (6), ai (4), [[ChatGPT]] (3), [[Google]] (2), next (2)
 > **Env Vars:** sql (6), usd (5), gpt (3)
 > **CLI Commands:** make (3), mysql (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1841,9 +1845,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), [[ChatGPT]] (6), next (3), [[Google]] (2), database (1)
 > **Env Vars:** distinct (8), sql (6), where (5), varchar (2), select (1)
 > **Code Identifiers:** student_id (13), attribution_clean (3), studentattribution_clean (1)
-> **Code Keywords:** let (5), function (4), this, (2), catch, (1)
 > **SQL:** where (5), varchar (2), select (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
@@ -1853,7 +1857,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980)
@@ -1930,7 +1934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), finally, (2), let (2), this, (1)
+> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (7), [[Analytics]] (3), [[Google]] (1), data (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** as we saw (2)
 > **Analogies:** just like (1), picture (1)

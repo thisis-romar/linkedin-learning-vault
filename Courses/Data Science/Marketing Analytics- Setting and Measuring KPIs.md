@@ -28,7 +28,7 @@ tags:
   - skill/marketing-analytics
   - skill/kpi-reporting
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Analytics-%20Setting%20and%20Measuring%20KPIs.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Demystifying measurement in business
+  - [Demystifying measurement in business](#demystifying-measurement-in-business)
 - [**1. Setting the Foundation for Your KPIs**](#1-setting-the-foundation-for-your-kpis) (2 videos)
-  - What are KPIs and Why Do They Matter?
-  - How to Set Effective KPIs: SMART Methodology
+  - [What are KPIs and Why Do They Matter?](#what-are-kpis-and-why-do-they-matter)
+  - [How to Set Effective KPIs: SMART Methodology](#how-to-set-effective-kpis-smart-methodology)
 - [**2. Metrics and Relational Metrics**](#2-metrics-and-relational-metrics) (6 videos)
-  - What are metrics and how can we use them?
-  - What's the difference between a KPI and a metric?
-  - Qualitative metrics and quantiative metrics
-  - Avoiding vanity metrics
-  - Proxy metrics
-  - Calculated metrics
+  - [What are metrics and how can we use them?](#what-are-metrics-and-how-can-we-use-them)
+  - [What's the difference between a KPI and a metric?](#whats-the-difference-between-a-kpi-and-a-metric)
+  - [Qualitative metrics and quantiative metrics](#qualitative-metrics-and-quantiative-metrics)
+  - [Avoiding vanity metrics](#avoiding-vanity-metrics)
+  - [Proxy metrics](#proxy-metrics)
+  - [Calculated metrics](#calculated-metrics)
 - [**3. KPIs by Business Vertical**](#3-kpis-by-business-vertical) (5 videos)
-  - Critical Metrics for E-Commerce Success
-  - Critical Metrics for E-Commerce Success Part 2
-  - Key Metrics for subscription businesses
-  - Key Metrics for subscription businesses Part 2
-  - Key metrics in the service industry
+  - [Critical Metrics for E-Commerce Success](#critical-metrics-for-e-commerce-success)
+  - [Critical Metrics for E-Commerce Success Part 2](#critical-metrics-for-e-commerce-success-part-2)
+  - [Key Metrics for subscription businesses](#key-metrics-for-subscription-businesses)
+  - [Key Metrics for subscription businesses Part 2](#key-metrics-for-subscription-businesses-part-2)
+  - [Key metrics in the service industry](#key-metrics-in-the-service-industry)
 - [**4. Measuring Your KPIs**](#4-measuring-your-kpis) (4 videos)
-  - Applying SMART KPIs: Carmen's Bakery Growth Plan
-  - Meeting KPIs: Measuring performance in Sales
-  - Meeting KPIs: Measuring performance in Operations
-  - Meeting KPIs: Measuring performance in Purchasing
+  - [Applying SMART KPIs: Carmen's Bakery Growth Plan](#applying-smart-kpis-carmens-bakery-growth-plan)
+  - [Meeting KPIs: Measuring performance in Sales](#meeting-kpis-measuring-performance-in-sales)
+  - [Meeting KPIs: Measuring performance in Operations](#meeting-kpis-measuring-performance-in-operations)
+  - [Meeting KPIs: Measuring performance in Purchasing](#meeting-kpis-measuring-performance-in-purchasing)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Sharing metrics and KPIs with your organization
+  - [Sharing metrics and KPIs with your organization](#sharing-metrics-and-kpis-with-your-organization)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Demystifying measurement in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980)
@@ -105,13 +105,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Analytics]] (1), [[LinkedIn]] (1), business (1)
 > **Env Vars:** kpi (1), smart (1)
 > **Speakers:** - as (1)
 
 
 ### 1. Setting the Foundation for Your KPIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are KPIs and Why Do They Matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-kpis-and-why-do-they-matter?u=76281980)
@@ -158,7 +159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), raise (1)
+> **Frameworks & Libraries:** business (4), data (1)
 > **Analogies:** picture (2), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** kpi (2)
@@ -245,7 +246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), abstract (1), from, (1), case, (1)
+> **Frameworks & Libraries:** business (2), hit (1)
 > **Env Vars:** smart (3), kpi (2)
 > **Definitions:** is a  (1), known as (1), stands for (1), is an  (1)
 > **CLI Commands:** make (3)
@@ -256,7 +257,7 @@ created: 2026-04-29
 
 ### 2. Metrics and Relational Metrics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are metrics and how can we use them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980)
@@ -319,6 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1), picture (1)
 > **Env Vars:** nps (1)
 > **Speakers:** - [narrator] (1)
@@ -378,6 +380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), business (1), next (1)
 > **Env Vars:** kpi (9)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -443,9 +446,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (1), [[Forms]] (1), business (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** switch (1)
 > **Speakers:** - [instructor] (1)
 
 #### Avoiding vanity metrics
@@ -497,7 +500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** traffic (5), [[E-Commerce]] (1), business (1), product (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** kpi (1)
 > **Definitions:** is a  (1)
@@ -554,8 +557,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** require (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
@@ -623,8 +626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Env Vars:** aov (5)
-> **Code Keywords:** case, (1), this, (1)
 > **Versions:** 1.5 (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
@@ -632,7 +635,7 @@ created: 2026-04-29
 
 ### 3. KPIs by Business Vertical
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Critical Metrics for E-Commerce Success
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980)
@@ -709,8 +712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (3), business (1), traffic (1), [[Probability]] (1)
 > **Code Identifiers:** ecommerce (5)
-> **Code Keywords:** let (1), this, (1), case, (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -768,8 +771,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (5), [[Microsoft Products|Products]] (4), product (2), business (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** case, (1)
 > **Env Vars:** aov (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [narrator] (1)
@@ -875,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), this, (1), return. (1)
+> **Frameworks & Libraries:** product (4), business (1), management (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** dau (2), wau (2), mau (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -941,6 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Cross-References:** previous video (1), we covered (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -988,15 +992,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), data (2), [[Analytics]] (2), [[Google]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), module (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. Measuring Your KPIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying SMART KPIs: Carmen's Bakery Growth Plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/applying-smart-kpis-carmen-s-bakery-growth-plan?u=76281980)
@@ -1071,8 +1075,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), business (2), next (1), hit (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), this, (1)
 > **Env Vars:** smart (2)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
@@ -1126,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), require (1), let (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** kpi (3), aov (1)
 > **Cross-References:** as we saw (1), in the next (1)
 > **Speakers:** - [presenter] (1)
@@ -1184,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1224,7 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), require (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Versions:** 2.70 (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -1232,7 +1236,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sharing metrics and KPIs with your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980)
@@ -1265,6 +1269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Env Vars:** kpi (3)
 > **CLI Commands:** find (2)
 > **Speakers:** - [narrator] (1)

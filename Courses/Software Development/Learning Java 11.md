@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Java%2011.md)
@@ -48,64 +48,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Welcome to learning Java
-  - What you should know
-  - Using the exercise files
-  - Tour of CoderPad
+  - [Welcome to learning Java](#welcome-to-learning-java)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Tour of CoderPad](#tour-of-coderpad)
 - [**1. Getting Started with Java**](#1-getting-started-with-java) (7 videos)
-  - What is Java?
-  - Downloading Java on your computer
-  - Exploring the command line
-  - Your first Java program
-  - Hello World in the command line
-  - Exploring an integrated development environment (IDE)
-  - Hello World in an IDE
+  - [What is Java?](#what-is-java)
+  - [Downloading Java on your computer](#downloading-java-on-your-computer)
+  - [Exploring the command line](#exploring-the-command-line)
+  - [Your first Java program](#your-first-java-program)
+  - [Hello World in the command line](#hello-world-in-the-command-line)
+  - [Exploring an integrated development environment (IDE)](#exploring-an-integrated-development-environment-ide)
+  - [Hello World in an IDE](#hello-world-in-an-ide)
 - [**2. Building Strong Foundations**](#2-building-strong-foundations) (7 videos)
-  - Primitive data types
-  - Data types and variables in Java
-  - Strings in Java
-  - Using indexes with strings
-  - Concatenating strings in Java
-  - Input and output in Java
-  - Solution: Find last character
+  - [Primitive data types](#primitive-data-types)
+  - [Data types and variables in Java](#data-types-and-variables-in-java)
+  - [Strings in Java](#strings-in-java)
+  - [Using indexes with strings](#using-indexes-with-strings)
+  - [Concatenating strings in Java](#concatenating-strings-in-java)
+  - [Input and output in Java](#input-and-output-in-java)
+  - [Solution: Find last character](#solution-find-last-character)
 - [**3. Control Flow**](#3-control-flow) (7 videos)
-  - Mapping out program control flow
-  - Operators in Java
-  - Decision-making with if in Java
-  - Understanding scope in Java
-  - While loops (conceptually)
-  - While loops in Java
-  - Solution: Leap year checker
+  - [Mapping out program control flow](#mapping-out-program-control-flow)
+  - [Operators in Java](#operators-in-java)
+  - [Decision-making with if in Java](#decision-making-with-if-in-java)
+  - [Understanding scope in Java](#understanding-scope-in-java)
+  - [While loops (conceptually)](#while-loops-conceptually)
+  - [While loops in Java](#while-loops-in-java)
+  - [Solution: Leap year checker](#solution-leap-year-checker)
 - [**4. Debugging in Java**](#4-debugging-in-java) (4 videos)
-  - Debugging syntax and logical errors
-  - Debugging with an IDE
-  - Solution: Find the bug in string truncation
-  - Solution: Find the bug in string reversal
+  - [Debugging syntax and logical errors](#debugging-syntax-and-logical-errors)
+  - [Debugging with an IDE](#debugging-with-an-ide)
+  - [Solution: Find the bug in string truncation](#solution-find-the-bug-in-string-truncation)
+  - [Solution: Find the bug in string reversal](#solution-find-the-bug-in-string-reversal)
 - [**5. Functions in Java**](#5-functions-in-java) (7 videos)
-  - What are functions? (conceptually)
-  - Defining functions in Java
-  - Calling functions in Java
-  - Parameters in Java
-  - Return types in Java
-  - Using built-in functions in Java
-  - Solution: Move capital letters
+  - [What are functions? (conceptually)](#what-are-functions-conceptually)
+  - [Defining functions in Java](#defining-functions-in-java)
+  - [Calling functions in Java](#calling-functions-in-java)
+  - [Parameters in Java](#parameters-in-java)
+  - [Return types in Java](#return-types-in-java)
+  - [Using built-in functions in Java](#using-built-in-functions-in-java)
+  - [Solution: Move capital letters](#solution-move-capital-letters)
 - [**6. Classes in Java**](#6-classes-in-java) (9 videos)
-  - Classes in Java
-  - Constructors in Java
-  - Creating a class in Java
-  - Creating instances in Java
-  - Instance methods vs. class methods
-  - Using instance methods in Java
-  - Instance and class variables in Java
-  - Review: Classes vs. instances
-  - Solution: Bank account balance
+  - [Classes in Java](#classes-in-java)
+  - [Constructors in Java](#constructors-in-java)
+  - [Creating a class in Java](#creating-a-class-in-java)
+  - [Creating instances in Java](#creating-instances-in-java)
+  - [Instance methods vs. class methods](#instance-methods-vs-class-methods)
+  - [Using instance methods in Java](#using-instance-methods-in-java)
+  - [Instance and class variables in Java](#instance-and-class-variables-in-java)
+  - [Review: Classes vs. instances](#review-classes-vs-instances)
+  - [Solution: Bank account balance](#solution-bank-account-balance)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Navigating Java documentation
-  - Next steps for learning Java
+  - [Navigating Java documentation](#navigating-java-documentation)
+  - [Next steps for learning Java](#next-steps-for-learning-java)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to learning Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/welcome-to-learning-java?u=76281980)
@@ -134,7 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Programming]] (2), web (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [kathryn] (1)
 
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Programming]] (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -185,6 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Tools:** github (3)
 > **Exercise Files:** exercise files (2), github repo (1)
 > **Env Vars:** url (1)
@@ -229,7 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **Code Identifiers:** showexpectedresult (2), showhints (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -237,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Java?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980)
@@ -278,10 +279,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (17), [[Programming]] (4), web (2), application (1), [[Software Development]] (1)
 > **Env Vars:** jre (3), jdk (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** let (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -318,9 +319,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (8), [[Programming]] (1), next (1), [[Windows]] (1)
 > **Env Vars:** jdk (5), jre (1)
 > **Versions:** 13.0.2 (1), java 8 (1), version 13 (1), 0.2 (1)
-> **Code Keywords:** let (2), continue (1)
 > **Exercise Files:** download the (2)
 > **Prerequisites:** install (2)
 > **UI Navigation:** click on (1)
@@ -402,9 +403,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Windows]] (6), cd (6), [[Java]] (4), [[Search]] (2)
 > **CLI Commands:** cd (6), make (3), ls (2), mkdir (1)
 > **Tools:** command line (7), terminal (2), command prompt (2)
-> **Code Keywords:** interface (3), case, (1)
 > **UI Navigation:** go to (1), open the (1), navigate to (1)
 > **Env Vars:** gui (2)
 > **Definitions:** is a  (1), stands for (1)
@@ -494,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), class, (2), let (2), static (2), class. (1)
+> **Frameworks & Libraries:** [[Java]] (13), [[Programming]] (2), [[Microsoft Word|Word]] (1), next (1)
 > **Tools:** sublime (4), command line (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3)
@@ -574,11 +575,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (21), hit (6), cd (2), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** ls (3), cd (2), make (1)
 > **Exercise Files:** source code (5)
 > **Tools:** command line (2), terminal (1), sublime (1)
 > **File Paths:** helloworld.java (2)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
@@ -663,9 +664,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (9), next (4), [[Metadata]] (1), [[Debugging]] (1)
 > **Env Vars:** ide (8), jdk (3), gui (1), sdk (1), src (1)
 > **Tools:** intellij (3), command line (2), terminal (1)
-> **Code Keywords:** interface (1), let (1), case, (1), this, (1), function (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** just like (2)
 > **Versions:** 13.0.2 (1)
@@ -755,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (8), [[Microsoft Word|Word]] (1), next (1)
 > **Env Vars:** ide (13), src (1)
-> **Code Keywords:** function (4), class, (2), case, (2), let (1), class. (1)
 > **Tools:** intellij (4), sublime (3), command line (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** boilerplate (2), source code (1)
@@ -767,7 +768,7 @@ created: 2026-04-29
 
 ### 2. Building Strong Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Primitive data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/primitive-data-types?u=76281980)
@@ -828,8 +829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Java]] (7), [[Programming]] (2)
 > **Definitions:** is called (2), short for (2), is a  (1)
-> **Code Keywords:** abstract (1), type. (1), let (1)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** gpa (1)
 > **Versions:** 3.4 (1)
@@ -928,7 +929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (3), type, (2), type. (1)
+> **Frameworks & Libraries:** data (21), [[Java]] (8), next (2), hit (1)
 > **Code Identifiers:** studentgpa (2), studentfirstinitial (2), studentlastinitial (1), hasperfectattendence (1), studentage (1)
 > **Versions:** 3.45 (3), 3.4 (1), 2.7 (1), 4.0 (1)
 > **Env Vars:** gpa (5)
@@ -1012,8 +1013,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Java]] (2), [[Microsoft Word|Word]] (1), [[Programming Foundations]] (1), next (1)
 > **Code Identifiers:** studentname (6), studentfirstname (3), studentlastname (2)
-> **Code Keywords:** let (3), type. (2), case, (1), this. (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1085,8 +1086,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (1)
 > **Code Identifiers:** charat (8), studentfirstinitial (4), studentfirstname (3), studentlastinitial (1), studentlastname (1)
-> **Code Keywords:** from. (1), type. (1), let (1), this, (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1127,9 +1128,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** gpa (8)
 > **Code Identifiers:** studentlastname (2), studentfirstname (1), studentgpa (1)
-> **Code Keywords:** this, (3)
 > **Versions:** 3.45 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1218,8 +1219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Java]] (5), next (3), [[Programming]] (1)
 > **Env Vars:** gpa (15)
-> **Code Keywords:** let (3), this, (1), this. (1), class. (1)
 > **Versions:** 3.45 (2), 4.0 (2), 2.75 (1)
 > **Code Identifiers:** nextdouble (2)
 > **Analogies:** think of it as (1), similar to (1)
@@ -1270,7 +1271,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), static (1)
 > **CLI Commands:** find (3)
 > **Code Identifiers:** charat (3)
 > **Non-Speech:** (keyboard faintly clicking) (3)
@@ -1280,7 +1280,7 @@ created: 2026-04-29
 
 ### 3. Control Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mapping out program control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980)
@@ -1369,7 +1369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Control Flow]] (8), [[Java]] (4), data (3), [[Decision-Making]] (1)
 > **Code Identifiers:** inputtednum (4)
 > **Cross-References:** in the last (2)
 > **CLI Commands:** make (1)
@@ -1434,8 +1434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Control Flow]] (2), [[Decision-Making]] (1), [[Java]] (1)
 > **Code Identifiers:** inputtednum (7)
-> **Code Keywords:** case, (1), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1531,8 +1531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Control Flow]] (2)
 > **Code Identifiers:** inputtednum (9), nextint (1)
-> **Code Keywords:** let (4), case, (3), this, (1), else. (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -1578,8 +1578,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1), [[Control Flow]] (1)
 > **Code Identifiers:** favoritefood (4), favoritenumber (1)
-> **Code Keywords:** let (3), function (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1632,7 +1632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), continue (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1724,8 +1724,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (11), [[Java]] (1)
 > **Code Identifiers:** isonrepeat (8), userinput (3)
-> **Code Keywords:** let (4), case, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1798,7 +1798,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -1806,7 +1805,7 @@ created: 2026-04-29
 
 ### 4. Debugging in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging syntax and logical errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/debugging-syntax-and-logical-errors?u=76281980)
@@ -1949,8 +1948,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (1)
 > **Code Identifiers:** correctanswer (8), choicethree (3), choicetwo (2)
-> **Code Keywords:** let (8), this, (1), case, (1), this. (1)
 > **CLI Commands:** find (5), make (2)
 > **UI Navigation:** scroll up (2), click on (1), scroll down (1), go to (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2035,7 +2034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (2)
+> **Frameworks & Libraries:** [[Debugging]] (4), [[Java]] (1), next (1)
 > **Env Vars:** ide (4)
 > **Definitions:** is a  (2), is an  (1), refers to (1)
 > **CLI Commands:** find (2)
@@ -2114,7 +2113,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (1), return. (1), case, (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** thi (2)
@@ -2173,7 +2171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (3), continue (1), case. (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), next (1)
 > **Non-Speech:** (silence) (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2181,7 +2179,7 @@ created: 2026-04-29
 
 ### 5. Functions in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are functions? (conceptually)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980)
@@ -2272,7 +2270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (2), finally, (1), case, (1)
+> **Frameworks & Libraries:** next (4), [[Control Flow]] (1), [[Program Design]] (1), [[Software Development]] (1), [[Java]] (1)
 > **CLI Commands:** make (9)
 > **Code Identifiers:** announcedeveloperteatime (3), makepbandjsandwich (2)
 > **Analogies:** for example (2)
@@ -2356,7 +2354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (3), public (2), static (2), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (3), [[Java]] (2)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** announcedeveloperteatime (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -2477,7 +2475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (31), let (10), continue (7), switch (1)
+> **Frameworks & Libraries:** hit (10), next (5), [[Java]] (3), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** announcedeveloperteatime (11)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -2611,7 +2609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (23), let (7), break, (1), public (1), static (1)
+> **Frameworks & Libraries:** [[Java]] (1), data (1), next (1)
 > **Code Identifiers:** calculatetotalmealprice (6), announcedeveloperteatime (3), listedmealprice (3)
 > **Versions:** 19.2 (1), 31.5 (1)
 > **CLI Commands:** make (1)
@@ -2730,7 +2728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (21), type. (3), let (3), case, (2), public (1)
+> **Frameworks & Libraries:** data (6), [[Java]] (3), hit (2), next (1)
 > **Code Identifiers:** calculatetotalmealprice (5), grouptotalmealprice (4), listedmealprice (2), tiprate (2), taxrate (2)
 > **Versions:** 0.2 (2), 0.08 (2), 25.6 (1)
 > **CLI Commands:** make (4)
@@ -2832,7 +2830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (3), this. (1)
+> **Frameworks & Libraries:** [[Java]] (6), power (4), next (2), data (1), [[Google]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -2888,7 +2886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** capitalindex (2), charat (1), isuppercase (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2897,7 +2895,7 @@ created: 2026-04-29
 
 ### 6. Classes in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classes in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/classes-in-java?u=76281980)
@@ -2990,7 +2988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (8), function (5), static (2), continue (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Program Design]] (1), [[Debugging]] (1)
 > **Code Identifiers:** findarea (3), calculatetriangletype (2)
 > **Definitions:** is a  (3), defined as (1), is an  (1)
 > **CLI Commands:** make (3)
@@ -3120,7 +3118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), class, (6), class. (1), case, (1), type, (1)
+> **Frameworks & Libraries:** data (7), [[Java]] (3), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** trianglea (4), triangleb (3)
 > **Definitions:** is an  (1), we call this (1), is called (1)
 > **Analogies:** just like (3)
@@ -3204,7 +3202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (6), this. (5), function (4), class, (1), for. (1)
+> **Frameworks & Libraries:** [[Java]] (2), next (2)
 > **Cross-References:** we discussed (1), in the last (1), we talked about (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
@@ -3304,7 +3302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (5), class, (3), this. (1), class. (1)
+> **Frameworks & Libraries:** hit (8), next (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** ide (1)
 > **Versions:** 2.598 (1)
@@ -3369,8 +3367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** findarea (9), charat (4), trianglea (2), studentfirstname (2), studentlastname (2)
-> **Code Keywords:** function (6), static (3), let (1), this, (1), class. (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous chapter (1)
@@ -3423,8 +3421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2)
 > **Code Identifiers:** trianglea (10), findarea (10), triangleb (7), trianglebarea (3)
-> **Code Keywords:** continue (5), let (4), function (3), switch (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 3.897 (1)
 > **Speakers:** - [instructor] (1)
@@ -3524,7 +3522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (17), class. (4), let (3), function (2), class, (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Code Identifiers:** findarea (1), println (1), sidelenthree (1), triangleb (1)
 > **Analogies:** just like (1), for example (1), similar to (1)
 > **Definitions:** is a  (1)
@@ -3569,7 +3567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), class. (1)
+> **Frameworks & Libraries:** [[Java]] (2), data (2), [[Debugging]] (1), [[Google]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -3613,14 +3611,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1), return. (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating Java documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/navigating-java-documentation?u=76281980)
@@ -3693,7 +3691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (8), let (4), function (3), class. (1), pass (1)
+> **Frameworks & Libraries:** [[Java]] (10), data (2), [[Search]] (2), [[Programming]] (1), application (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** earlier in (1), go back to (1)
 > **Analogies:** for example (2)
@@ -3728,6 +3726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), data (2), [[Microsoft Word|Word]] (1), game (1), [[Programming]] (1)
 > **Speakers:** - [kathryn (1)
 
 

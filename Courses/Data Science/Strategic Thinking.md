@@ -37,7 +37,7 @@ tags:
   - topic/security
   - skill/strategic-thinking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Thinking.md)
@@ -56,28 +56,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to strategic thinking
+  - [Welcome to strategic thinking](#welcome-to-strategic-thinking)
 - [**1. Setting the Stage for Strategic Thinking**](#1-setting-the-stage-for-strategic-thinking) (4 videos)
-  - Embrace the strategic thinking mindset
-  - Make time to be strategic
-  - Get strategic about your career
-  - Understand the sequence of strategy
+  - [Embrace the strategic thinking mindset](#embrace-the-strategic-thinking-mindset)
+  - [Make time to be strategic](#make-time-to-be-strategic)
+  - [Get strategic about your career](#get-strategic-about-your-career)
+  - [Understand the sequence of strategy](#understand-the-sequence-of-strategy)
 - [**2. Developing Your Strategic Thinking**](#2-developing-your-strategic-thinking) (4 videos)
-  - Consider the future and learn from the past
-  - Create an informed strategy
-  - Practicality: Get real about your strategy
-  - AI and strategic thinking
+  - [Consider the future and learn from the past](#consider-the-future-and-learn-from-the-past)
+  - [Create an informed strategy](#create-an-informed-strategy)
+  - [Practicality: Get real about your strategy](#practicality-get-real-about-your-strategy)
+  - [AI and strategic thinking](#ai-and-strategic-thinking)
 - [**3. Implementing Strategic Thinking**](#3-implementing-strategic-thinking) (4 videos)
-  - Strategic thinking with your team
-  - Measure your success
-  - Strategic thinking is an ongoing process
-  - The limits of strategy
+  - [Strategic thinking with your team](#strategic-thinking-with-your-team)
+  - [Measure your success](#measure-your-success)
+  - [Strategic thinking is an ongoing process](#strategic-thinking-is-an-ongoing-process)
+  - [The limits of strategy](#the-limits-of-strategy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Make strategic thinking a habit
+  - [Make strategic thinking a habit](#make-strategic-thinking-a-habit)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/welcome-strategic-thinking?u=76281980)
@@ -98,14 +98,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** career (1), business (1), game (1)
 > **Analogies:** picture (1)
 > **Speakers:** - as (1)
 
 
 ### 1. Setting the Stage for Strategic Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace the strategic thinking mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980)
@@ -208,7 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (5), career (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Forms]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - we (1)
 
@@ -299,8 +299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Strategic Thinking]] (8), [[Accountability]] (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), else. (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
 > **Analogies:** for instance (1)
@@ -363,8 +363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Strategic Thinking]] (2), career (2), product (1), hr (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** else, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - everyone (1)
 
@@ -437,17 +437,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Strategic Thinking]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** picture (2)
-> **Code Keywords:** require (1)
 > **Ports:** :00 (1)
 > **Speakers:** - what (1)
 
 
 ### 2. Developing Your Strategic Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Consider the future and learn from the past
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/consider-the-future-and-learn-from-the-past-29714002?u=76281980)
@@ -512,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), yield (1)
+> **Frameworks & Libraries:** business (1), product (1), [[Strategic Thinking]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (1), imagine (1)
 > **Warnings:** be aware (2)
@@ -579,8 +579,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2), next (2), product (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** iphone (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - strategy (1)
@@ -656,8 +656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Strategic Thinking]] (1), [[Microsoft Office|Office]] (1), business (1), leadership (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** else, (1), finally, (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - a (1)
@@ -717,14 +717,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), finally, (1)
+> **Frameworks & Libraries:** ai (7), [[Strategic Thinking]] (1), product (1), next (1), career (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 
 
 ### 3. Implementing Strategic Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic thinking with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980)
@@ -781,7 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), let (1), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1), product (1), [[Accountability]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (2), imagine (1)
 > **Prerequisites:** you'll need (1)
@@ -848,7 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), self (1)
+> **Frameworks & Libraries:** hit (2), business (2), [[Strategic Thinking]] (2), product (1), career (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - how (1)
@@ -940,7 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2), [[Probability]] (2), next (1), business (1), prompt (1)
 > **Analogies:** for instance (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -1020,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2), business (1), data (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** you need to have (1)
@@ -1029,7 +1029,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make strategic thinking a habit
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980)
@@ -1050,9 +1050,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Strategic Thinking]] (4), [[LinkedIn]] (1), game (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **URLs:** [dorieclark.com](https://dorieclark.com) (1)
 > **Speakers:** - strategic (1)
 

@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Secure%20Coding%20(2018).md)
@@ -40,44 +40,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Implement secure code with your team
-  - What you need to know
+  - [Implement secure code with your team](#implement-secure-code-with-your-team)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Security and Risk Overview**](#1-security-and-risk-overview) (5 videos)
-  - The goal of secure coding
-  - Understand an attacker
-  - Break what you build
-  - Understand your risks
-  - Document what you understand
+  - [The goal of secure coding](#the-goal-of-secure-coding)
+  - [Understand an attacker](#understand-an-attacker)
+  - [Break what you build](#break-what-you-build)
+  - [Understand your risks](#understand-your-risks)
+  - [Document what you understand](#document-what-you-understand)
 - [**2. Web Client Server Interaction Code Issues**](#2-web-client-server-interaction-code-issues) (3 videos)
-  - Input validation issues
-  - Communication channel issues
-  - Session management issues
+  - [Input validation issues](#input-validation-issues)
+  - [Communication channel issues](#communication-channel-issues)
+  - [Session management issues](#session-management-issues)
 - [**3. Thick App and Client-Server Interaction Issues**](#3-thick-app-and-client-server-interaction-issues) (8 videos)
-  - Error handling issues
-  - Logging and output issues
-  - Internal data management issues
-  - Configuration issues
-  - Database issues
-  - File and I/O issues
-  - Memory management issues
-  - Dependency issues
+  - [Error handling issues](#error-handling-issues)
+  - [Logging and output issues](#logging-and-output-issues)
+  - [Internal data management issues](#internal-data-management-issues)
+  - [Configuration issues](#configuration-issues)
+  - [Database issues](#database-issues)
+  - [File and I/O issues](#file-and-io-issues)
+  - [Memory management issues](#memory-management-issues)
+  - [Dependency issues](#dependency-issues)
 - [**4. Crypto and Security Misuse Issues**](#4-crypto-and-security-misuse-issues) (3 videos)
-  - Authentication and password issues
-  - Authorization and access control issues
-  - Cryptography issues
+  - [Authentication and password issues](#authentication-and-password-issues)
+  - [Authorization and access control issues](#authorization-and-access-control-issues)
+  - [Cryptography issues](#cryptography-issues)
 - [**5. Security in the SDLC**](#5-security-in-the-sdlc) (5 videos)
-  - Embrace security in design
-  - Embrace security in development
-  - Embrace security in testing
-  - Embrace security in deployment
-  - Implement best practices
+  - [Embrace security in design](#embrace-security-in-design)
+  - [Embrace security in development](#embrace-security-in-development)
+  - [Embrace security in testing](#embrace-security-in-testing)
+  - [Embrace security in deployment](#embrace-security-in-deployment)
+  - [Implement best practices](#implement-best-practices)
 - [**Glossaries**](#glossaries) (0 videos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement secure code with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980)
@@ -104,8 +104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Secure Coding]] (2), data (1), [[Agile Development|Agile]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - you (1)
 
 #### What you need to know
@@ -141,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (1), web (1), [[Embedded Software]] (1), [[IoT]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -149,7 +150,7 @@ created: 2026-04-29
 
 ### 1. Security and Risk Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The goal of secure coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980)
@@ -208,6 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), teams (1), [[Code Review]] (1), [[Scrum]] (1), [[Quality Assurance]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - part (1)
@@ -267,6 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), business (1), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
@@ -326,6 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Secure Coding]] (2), application (2), teams (2), data (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - as (1)
 
@@ -384,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), static (1)
+> **Frameworks & Libraries:** [[Software Development]] (3), [[Security]] (2), teams (2), [[Secure Coding]] (2), management (1)
 > **Cross-References:** earlier in (2)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
@@ -461,6 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), application (2), management (1), game (1)
 > **CLI Commands:** make (3), find (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - documenting (1)
@@ -468,7 +473,7 @@ created: 2026-04-29
 
 ### 2. Web Client Server Interaction Code Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Input validation issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980)
@@ -555,8 +560,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scripting]] (4), data (3), [[SQL]] (2), [[Security]] (1), [[Software Development]] (1)
 > **Env Vars:** sql (2), select (1), where (1), owasp (1), xss (1)
-> **Code Keywords:** let (1), require (1), case, (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **CLI Commands:** find (2)
 > **SQL:** select (1), where (1)
@@ -624,9 +629,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (2), traffic (1), seo (1)
 > **Env Vars:** tls (7), ssl (3), https (2), tcpip (1), http (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), case. (1)
 > **Best Practices:** good practice (1), you should always (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -714,8 +719,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), data (2), [[Tokens]] (2), web application (1), web (1)
 > **Env Vars:** http (5), https (2)
-> **Code Keywords:** let (2), else. (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **Warnings:** be aware (1)
@@ -724,7 +729,7 @@ created: 2026-04-29
 
 ### 3. Thick App and Client-Server Interaction Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Error handling issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/error-handling-issues?u=76281980)
@@ -783,8 +788,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Application Development]] (1), [[Troubleshooting]] (1), web (1), database (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** raise (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - error (1)
@@ -852,8 +857,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Troubleshooting]] (3), [[Security]] (2), application (2), [[Databases]] (1)
 > **Analogies:** such as (2), just like (1)
-> **Code Keywords:** protected (1)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - we (1)
@@ -909,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (11), application (5), [[Tokens]] (1), management (1), [[Configuration Management]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** url (1), scm (1)
 > **Definitions:** is a  (1)
@@ -988,10 +993,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (14), feature (6), data (3), database (2), [[Troubleshooting]] (1)
 > **Analogies:** for instance (3), such as (1)
 > **Env Vars:** sans (1), url (1), owasp (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case. (1), type, (1)
 > **Documentation:** the documentation (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - a (1)
@@ -1061,9 +1066,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (9), database (6), application (3), data (3), [[SQL]] (2)
 > **Env Vars:** sql (2), dba (1)
 > **Cross-References:** we talked about (1), we discussed (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - we (1)
@@ -1133,9 +1138,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), data (4), management (1), [[DevOps]] (1), [[Linux]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** yield (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - the (1)
 
@@ -1210,8 +1215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Memory Management]] (1), [[Security]] (1), [[Java]] (1), data (1), next (1)
 > **Analogies:** for instance (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - memory (1)
@@ -1265,7 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (3), data (2), [[Dependency Management]] (1), [[Engineering]] (1), [[OWASP]] (1)
 > **Env Vars:** owasp (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -1274,7 +1279,7 @@ created: 2026-04-29
 
 ### 4. Crypto and Security Misuse Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication and password issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980)
@@ -1357,7 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), case. (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), data (2), next (2), [[Security]] (1), database (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - authentication (1)
@@ -1433,7 +1438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), protected (1), require (1), static (1)
+> **Frameworks & Libraries:** application (3), [[Security]] (2), data (2), [[Troubleshooting]] (1), [[Microservices]] (1)
 > **Definitions:** is called (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** you should always (1)
@@ -1528,8 +1533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (9), [[Cryptography]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Security]] (2), api (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (1), case. (1)
 > **Env Vars:** sha (1), api (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -1539,7 +1544,7 @@ created: 2026-04-29
 
 ### 5. Security in the SDLC
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace security in design
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980)
@@ -1588,6 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), feature (3), database (2), [[Secure Coding]] (1), application (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
@@ -1651,6 +1657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Secure Coding]] (2), [[React.js|React]] (1), hit (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - obviously (1)
@@ -1728,8 +1735,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Penetration Testing]] (2), application (1), next (1), ci (1)
 > **CLI Commands:** make (2), cd (1)
-> **Code Keywords:** this. (1), require (1), self (1)
 > **Warnings:** keep in mind (2), caution (1)
 > **Env Vars:** sdlc (2)
 > **Speakers:** - in (1)
@@ -1777,6 +1784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Automation]] (2), [[Secure Coding]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - deployment (1)
@@ -1834,20 +1842,20 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), management (2), [[Secure Coding]] (1), [[Unit Testing]] (1), web (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** static (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - security (1)
 
 
 ### Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/next-steps?u=76281980)
@@ -1896,8 +1904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Secure Coding]] (4), [[Security]] (3)
 > **Cross-References:** we talked about (4)
-> **Code Keywords:** let (1), public (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sdlc (1)

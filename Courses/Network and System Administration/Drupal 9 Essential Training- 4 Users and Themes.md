@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%204%20Users%20and%20Themes.md)
@@ -47,20 +47,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to the course
+  - [Introduction to the course](#introduction-to-the-course)
 - [**1. Users Explained**](#1-users-explained) (5 videos)
-  - Introduction and the user workflow
-  - Adding a user role and permissions
-  - Adding a user account and testing
-  - User registration and fields
-  - Creating content workflows
+  - [Introduction and the user workflow](#introduction-and-the-user-workflow)
+  - [Adding a user role and permissions](#adding-a-user-role-and-permissions)
+  - [Adding a user account and testing](#adding-a-user-account-and-testing)
+  - [User registration and fields](#user-registration-and-fields)
+  - [Creating content workflows](#creating-content-workflows)
 - [**2. Themes Explained**](#2-themes-explained) (2 videos)
-  - Themes explained
-  - Installing and configuring Breeze
+  - [Themes explained](#themes-explained)
+  - [Installing and configuring Breeze](#installing-and-configuring-breeze)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980)
@@ -91,14 +91,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[Drupal]] (5), [[User Management]] (1)
 > **Speakers:** - hi (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 1. Users Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and the user workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-and-the-user-workflow?u=76281980)
@@ -141,7 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), default, (1), finally, (1), super (1), this. (1)
+> **Frameworks & Libraries:** [[Drupal]] (2), next (1)
 > **Prerequisites:** install (2), set up (2), setup (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -332,7 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), delete (8), module (2), super (1), default, (1)
+> **Frameworks & Libraries:** node (3), [[Drupal]] (2), [[HTML]] (2), next (2), [[Security]] (1)
 > **UI Navigation:** click on (4), scroll down (3), drag and drop (1)
 > **CLI Commands:** node (3), make (1)
 > **Env Vars:** html (2)
@@ -392,7 +392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), delete (1)
+> **Frameworks & Libraries:** hit (1), node (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1), node (1)
 > **Speakers:** - [instructor] (1)
@@ -496,7 +496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (3), delete (2), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Drupal]] (5), [[Tokens]] (3), next (1), hit (1), [[Google]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Analogies:** picture (2), just like (1), for instance (1)
 > **CLI Commands:** make (2)
@@ -648,7 +648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), module (3), public (1), this. (1), case. (1)
+> **Frameworks & Libraries:** node (8)
 > **CLI Commands:** node (8), find (2), make (1)
 > **UI Navigation:** scroll down (3), go to (2), click on (2)
 > **Prerequisites:** set up (2), install (1)
@@ -658,7 +658,7 @@ created: 2026-04-29
 
 ### 2. Themes Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Themes explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980)
@@ -719,8 +719,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (17), database (3), [[HTML]] (2), [[PHP]] (1), css (1)
 > **Env Vars:** html (2), php (1), yaml (1), css (1), zurb (1)
-> **Code Keywords:** override (1), finally, (1), this. (1)
 > **CLI Commands:** php (1), find (1)
 > **URLs:** [drupal.org](https://drupal.org) (2)
 > **Prerequisites:** set up (1), install (1)
@@ -895,7 +895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), require (2), else. (1), class. (1), static (1)
+> **Frameworks & Libraries:** [[Drupal]] (12), [[JavaScript]] (2), next (2), [[Search]] (2), [[Forms]] (1)
 > **Prerequisites:** install (7), you'll need (2)
 > **CLI Commands:** composer (5), node (1)
 > **UI Navigation:** click on (4), scroll down (1)

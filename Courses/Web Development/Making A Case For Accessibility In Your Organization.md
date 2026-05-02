@@ -28,7 +28,7 @@ tags:
   - skill/fostering-inclusivity
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Making%20A%20Case%20For%20Accessibility%20In%20Your%20Organization.md)
@@ -47,29 +47,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building an accessibility program
+  - [Building an accessibility program](#building-an-accessibility-program)
 - [**1. Beginning Your Accessibility Journey**](#1-beginning-your-accessibility-journey) (4 videos)
-  - Focus on culture
-  - Develop your strategy
-  - Develop your accessibility maturity model
-  - Invest in tools and processes
+  - [Focus on culture](#focus-on-culture)
+  - [Develop your strategy](#develop-your-strategy)
+  - [Develop your accessibility maturity model](#develop-your-accessibility-maturity-model)
+  - [Invest in tools and processes](#invest-in-tools-and-processes)
 - [**2. Building Momentum**](#2-building-momentum) (4 videos)
-  - Create good habits and model behavior
-  - Test and validate toward accessibility standards
-  - Scale accessibility
-  - Improve the ecosystem
+  - [Create good habits and model behavior](#create-good-habits-and-model-behavior)
+  - [Test and validate toward accessibility standards](#test-and-validate-toward-accessibility-standards)
+  - [Scale accessibility](#scale-accessibility)
+  - [Improve the ecosystem](#improve-the-ecosystem)
 - [**3. Innovating for Accessibility**](#3-innovating-for-accessibility) (3 videos)
-  - Build inclusive experiences
-  - Product development lifecycle
-  - Focus on usability
+  - [Build inclusive experiences](#build-inclusive-experiences)
+  - [Product development lifecycle](#product-development-lifecycle)
+  - [Focus on usability](#focus-on-usability)
 - [**4. Developing Your Narrative**](#4-developing-your-narrative) (1 videos)
-  - Storytelling for your audience
+  - [Storytelling for your audience](#storytelling-for-your-audience)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Action plan
+  - [Action plan](#action-plan)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building an accessibility program
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980)
@@ -98,13 +98,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), business (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - are (1)
 
 
 ### 1. Beginning Your Accessibility Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Focus on culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-culture?u=76281980)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), this. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), feature (1), teams (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - congratulations (1)
@@ -234,8 +234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Windows]] (1), [[Android]] (1), [[Microsoft Products|Products]] (1), [[Manual Testing]] (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** continue (1)
 > **Code Identifiers:** iphone (1)
 > **Speakers:** - you (1)
 
@@ -306,7 +306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** business (3), [[Microsoft]] (1), game (1), [[Real-Time]] (1), next (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - business (1)
@@ -376,7 +376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), require (1), self (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), management (2), hr (1), business (1), leadership (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
@@ -384,7 +384,7 @@ created: 2026-04-29
 
 ### 2. Building Momentum
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create good habits and model behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980)
@@ -421,8 +421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Teams]] (1), [[Windows]] (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** continue (1), finally, (1)
 > **Speakers:** - once (1)
 
 #### Test and validate toward accessibility standards
@@ -476,8 +476,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), [[Product Development]] (1), [[Manual Testing]] (1), web (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this, (1), let (1), continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
@@ -540,7 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), next (1), product (1), teams (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - if (1)
@@ -588,9 +588,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (3), cloud (1), next (1), web (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1), be aware (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ict (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
@@ -599,7 +599,7 @@ created: 2026-04-29
 
 ### 3. Innovating for Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build inclusive experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980)
@@ -652,8 +652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1), [[Microsoft Teams]] (1), [[Forms]] (1)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** public (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
@@ -701,7 +701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), [[Product Development]] (3), teams (2), [[Digital Accessibility]] (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -754,6 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - assessing (1)
@@ -761,7 +762,7 @@ created: 2026-04-29
 
 ### 4. Developing Your Narrative
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storytelling for your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980)
@@ -836,7 +837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1), abstract (1)
+> **Frameworks & Libraries:** [[Storytelling]] (3), [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** is a  (1)
@@ -846,7 +847,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980)
@@ -869,8 +870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - thank (1)
 
 

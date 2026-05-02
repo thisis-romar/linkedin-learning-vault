@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/react-hooks
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/React%20Hooks.md)
@@ -48,46 +48,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Understanding modern React
+  - [Understanding modern React](#understanding-modern-react)
 - [**1. Intro to React Hooks**](#1-intro-to-react-hooks) (2 videos)
-  - Installing Create React App
-  - Reviewing the project
+  - [Installing Create React App](#installing-create-react-app)
+  - [Reviewing the project](#reviewing-the-project)
 - [**2. The useState Hook**](#2-the-usestate-hook) (7 videos)
-  - Reviewing Array and Object destructuring
-  - Incorporating the useState Hook
-  - Building a checkbox with useState
-  - Working with component trees
-  - Sending interactions up component trees
-  - How to use CoderPad
-  - Solution: Building an interactive to-do list
+  - [Reviewing Array and Object destructuring](#reviewing-array-and-object-destructuring)
+  - [Incorporating the useState Hook](#incorporating-the-usestate-hook)
+  - [Building a checkbox with useState](#building-a-checkbox-with-usestate)
+  - [Working with component trees](#working-with-component-trees)
+  - [Sending interactions up component trees](#sending-interactions-up-component-trees)
+  - [How to use CoderPad](#how-to-use-coderpad)
+  - [Solution: Building an interactive to-do list](#solution-building-an-interactive-to-do-list)
 - [**3. The useEffect Hook**](#3-the-useeffect-hook) (4 videos)
-  - Introducing useEffect
-  - Working with the dependency array
-  - Fetching data with useEffect
-  - Solution: Working with timers
+  - [Introducing useEffect](#introducing-useeffect)
+  - [Working with the dependency array](#working-with-the-dependency-array)
+  - [Fetching data with useEffect](#fetching-data-with-useeffect)
+  - [Solution: Working with timers](#solution-working-with-timers)
 - [**4. Additional Hooks**](#4-additional-hooks) (6 videos)
-  - Handling complex state with useReducer
-  - Refactoring useState to useReducer
-  - Dispatching actions with useReducer
-  - Managing form inputs with useRef
-  - Creating controlled components with useState
-  - Solution: Building a counter
+  - [Handling complex state with useReducer](#handling-complex-state-with-usereducer)
+  - [Refactoring useState to useReducer](#refactoring-usestate-to-usereducer)
+  - [Dispatching actions with useReducer](#dispatching-actions-with-usereducer)
+  - [Managing form inputs with useRef](#managing-form-inputs-with-useref)
+  - [Creating controlled components with useState](#creating-controlled-components-with-usestate)
+  - [Solution: Building a counter](#solution-building-a-counter)
 - [**5. Creating Custom Hooks**](#5-creating-custom-hooks) (7 videos)
-  - Reusing form logic with custom Hooks
-  - Placing data in context
-  - Retrieving data with useContext
-  - Creating a custom Hook with context
-  - Data fetching with a Fetch Hook
-  - Building a fetch component
-  - Solution: Creating a user settings hook
+  - [Reusing form logic with custom Hooks](#reusing-form-logic-with-custom-hooks)
+  - [Placing data in context](#placing-data-in-context)
+  - [Retrieving data with useContext](#retrieving-data-with-usecontext)
+  - [Creating a custom Hook with context](#creating-a-custom-hook-with-context)
+  - [Data fetching with a Fetch Hook](#data-fetching-with-a-fetch-hook)
+  - [Building a fetch component](#building-a-fetch-component)
+  - [Solution: Creating a user settings hook](#solution-creating-a-user-settings-hook)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 - [**Appendix**](#appendix) (1 videos)
-  - React Hooks history
+  - [React Hooks history](#react-hooks-history)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding modern React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980)
@@ -104,14 +104,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Hooks]] (1), [[Fetch]] (1), data (1), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [eve] (1)
 
 
 ### 1. Intro to React Hooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Create React App
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980)
@@ -188,9 +188,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (15), [[npm]] (5), node (2), next (2), [[GitHub]] (2)
 > **CLI Commands:** npm (5), make (3), npx (3), node (2), cd (1)
 > **Env Vars:** npm (5), npx (3), ide (1), url (1)
-> **Code Keywords:** this, (2), let (1), new. (1)
 > **Prerequisites:** install (3), set up (1)
 > **Tools:** github (2), terminal (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -240,7 +240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (2)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[JSON]] (1), next (1)
 > **File Paths:** package.json (1), index.js (1), app.js (1)
 > **Code Identifiers:** serviceworker (2), reactdom (1)
 > **CLI Commands:** find (1)
@@ -251,7 +251,7 @@ created: 2026-04-29
 
 ### 2. The useState Hook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing Array and Object destructuring
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980)
@@ -326,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2), data (1), hit (1), [[React Hooks]] (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -417,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (7), pass (2), case, (1)
+> **Frameworks & Libraries:** application (2), [[React Hooks]] (1), next (1), [[React.js|React]] (1)
 > **Code Identifiers:** usestate (7), setstatus (3), onclick (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -473,8 +473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** usestate (4), setchecked (2), onchange (1)
-> **Code Keywords:** let (3), this, (1), pass (1)
 > **UI Navigation:** checkbox (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** as we saw (1)
@@ -569,7 +569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), pass (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[npm]] (2), next (1)
 > **Code Identifiers:** createarray (4), totalstars (4), usestate (1)
 > **CLI Commands:** make (4), npm (2)
 > **Prerequisites:** install (3)
@@ -655,7 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (5), pass (3), this, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[JavaScript]] (1), [[Zoom]] (1), application (1)
 > **Code Identifiers:** setselectedstars (5), usestate (3), selectedstars (3), onselect (2), createarray (2)
 > **UI Navigation:** scroll down (2), select the (1), click on (1)
 > **CLI Commands:** make (3)
@@ -718,6 +718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -822,8 +823,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[HTML]] (1), data (1), application (1)
 > **Code Identifiers:** onchange (4), settasks (3), ontoggle (3), initialtasks (2), usestate (2)
-> **Code Keywords:** function (4), this, (1), finally, (1), pass (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** toggle (2), checkbox (1)
 > **Best Practices:** make sure to (1)
@@ -833,7 +834,7 @@ created: 2026-04-29
 
 ### 3. The useEffect Hook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing useEffect
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/introducing-useeffect?u=76281980)
@@ -908,8 +909,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), dom (1), api (1), next (1)
 > **Code Identifiers:** useeffect (11), usestate (2), setname (1), onclick (1)
-> **Code Keywords:** function (5), let (1), pass (1), default, (1)
 > **Env Vars:** dom (1), api (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
@@ -994,7 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), function (3), this. (1)
+> **Frameworks & Libraries:** dom (1)
 > **Code Identifiers:** useeffect (7), setadmin (2), onclick (1)
 > **Cross-References:** as we saw (1)
 > **Exercise Files:** template (1)
@@ -1064,8 +1065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), api (7), [[JSON]] (3), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** useeffect (8), setdata (5), usestate (3), useeffects (1)
-> **Code Keywords:** let (5), function (2), pass (2), this. (1)
 > **Env Vars:** api (5), http (2), url (1)
 > **CLI Commands:** make (3)
 > **URLs:** [github.com](https://github.com) (2)
@@ -1198,8 +1199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Fetch]] (1), api (1), application (1)
 > **Code Identifiers:** useeffect (8), usestate (6), setseconds (3), loadtimerdata (2), setloading (2)
-> **Code Keywords:** function (11), let (5), pass (3), this. (2), const (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), jsx (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1210,7 +1211,7 @@ created: 2026-04-29
 
 ### 4. Additional Hooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling complex state with useReducer
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/handling-complex-state-with-usereducer?u=76281980)
@@ -1269,8 +1270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** usereducer (7), setnumber (4), usestate (1), newnumber (1), onclick (1)
-> **Code Keywords:** function (5), let (2), const (1), pass (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -1317,7 +1318,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2), abstract (1), this. (1)
 > **Code Identifiers:** usereducer (5), usestate (2), setchecked (2), onchange (2)
 > **UI Navigation:** toggle (3), checkbox (2), click on (1)
 > **Cross-References:** earlier in (1)
@@ -1434,7 +1434,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), switch (2), type. (1), for. (1)
 > **Code Identifiers:** initialstate (5), usereducer (4), onclick (1)
 > **Env Vars:** hey (3), yell (3), said (2)
 > **CLI Commands:** make (2)
@@ -1544,7 +1543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), const (2), function (2), pass (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[React.js|React]] (1), next (1), database (1)
 > **Code Identifiers:** useref (8), usereducer (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (1)
@@ -1613,8 +1612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** setsound (4), usestate (3), useref (2), setcolor (2), onchange (1)
-> **Code Keywords:** let (4), function (2), const (1), abstract (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
@@ -1681,7 +1680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), return. (2), this. (1), pass (1), let (1)
+> **Frameworks & Libraries:** next (1), application (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** usereducer (2)
 > **Definitions:** is a  (1)
@@ -1692,7 +1691,7 @@ created: 2026-04-29
 
 ### 5. Creating Custom Hooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reusing form logic with custom Hooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980)
@@ -1807,8 +1806,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), next (2), [[Zoom]] (1)
 > **Code Identifiers:** useinput (12), onchange (5), usestate (4), titleprops (4), setvalue (3)
-> **Code Keywords:** function (11), let (4), pass (2), this, (1), return, (1)
 > **Definitions:** is a  (2), is an  (2), means that (1)
 > **File Paths:** useinput.js (1), index.js (1)
 > **CLI Commands:** make (1)
@@ -1881,7 +1880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), const (1), super (1), type: (1), pass (1)
+> **Frameworks & Libraries:** data (12), [[React.js|React]] (3), [[React Hooks]] (1), next (1)
 > **Code Identifiers:** createcontext (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1953,7 +1952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), pass (2), this, (1), from . (1)
+> **Frameworks & Libraries:** data (3), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Warnings:** warning (1), keep in mind (1)
 > **Cross-References:** previous video (1)
@@ -1995,10 +1994,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** usecontext (5), usetrees (4)
 > **File Paths:** index.js (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** from . (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2071,8 +2070,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Fetch]] (5), [[React.js|React]] (1), api (1), [[JSON]] (1)
 > **Code Identifiers:** useeffect (4), usefetch (3), setdata (2), setloading (2), usecontext (1)
-> **Code Keywords:** let (3), function (3), finally, (2), from. (1), return, (1)
 > **Env Vars:** uri (4), api (1), json (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2187,7 +2186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (4), from, (1), return. (1), return, (1)
+> **Frameworks & Libraries:** data (14), [[GitHub]] (5), api (4), [[JSON]] (2), next (1)
 > **Code Identifiers:** usefetch (7), avatar_url (1)
 > **Env Vars:** api (3), json (2), uri (1), http (1)
 > **Tools:** github (5)
@@ -2307,7 +2306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), this. (2), let (2), throw (1), this, (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **UI Navigation:** toggle (9)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
@@ -2316,7 +2315,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/next-steps?u=76281980)
@@ -2339,7 +2338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[React Hooks]] (2), api (1)
 > **URLs:** [usehooks.com](https://usehooks.com) (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
@@ -2347,7 +2346,7 @@ created: 2026-04-29
 
 ### Appendix
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### React Hooks history
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980)
@@ -2386,7 +2385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), this. (1), class, (1), class. (1), abstract (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[JavaScript]] (1), [[React Hooks]] (1), next (1)
 > **Code Identifiers:** createclass (3)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)

@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP-%20Object-Oriented%20Programming.md)
@@ -48,61 +48,61 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - PHP: OOP techniques
-  - How to use the exercise files
+  - [PHP: OOP techniques](#php-oop-techniques)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Overview and Project Set Up**](#1-overview-and-project-set-up) (2 videos)
-  - What is OOP?
-  - Project set up
+  - [What is OOP?](#what-is-oop)
+  - [Project set up](#project-set-up)
 - [**2. Object Basics**](#2-object-basics) (7 videos)
-  - Define a class
-  - Instances
-  - Class properties
-  - Class methods
-  - Refer to an instance
-  - Challenge: Properties and methods
-  - Solution: Properties and methods
+  - [Define a class](#define-a-class)
+  - [Instances](#instances)
+  - [Class properties](#class-properties)
+  - [Class methods](#class-methods)
+  - [Refer to an instance](#refer-to-an-instance)
+  - [Challenge: Properties and methods](#challenge-properties-and-methods)
+  - [Solution: Properties and methods](#solution-properties-and-methods)
 - [**3. Class Inheritance**](#3-class-inheritance) (5 videos)
-  - What is inheritance?
-  - Define a subclass
-  - Extend and override
-  - Challenge: Inheritance
-  - Solution: Inheritance
+  - [What is inheritance?](#what-is-inheritance)
+  - [Define a subclass](#define-a-subclass)
+  - [Extend and override](#extend-and-override)
+  - [Challenge: Inheritance](#challenge-inheritance)
+  - [Solution: Inheritance](#solution-inheritance)
 - [**4. Object Access Control**](#4-object-access-control) (5 videos)
-  - Visibility modifiers
-  - Beware of overloading
-  - Setter and getter methods
-  - Challenge: Access control
-  - Solution: Access control
+  - [Visibility modifiers](#visibility-modifiers)
+  - [Beware of overloading](#beware-of-overloading)
+  - [Setter and getter methods](#setter-and-getter-methods)
+  - [Challenge: Access control](#challenge-access-control)
+  - [Solution: Access control](#solution-access-control)
 - [**5. Static Properties and Methods**](#5-static-properties-and-methods) (7 videos)
-  - The static modifier
-  - Inherited static behaviors
-  - Class constants
-  - Refer to the parent class
-  - Late static bindings
-  - Challenge: Static references
-  - Solution: Static references
+  - [The static modifier](#the-static-modifier)
+  - [Inherited static behaviors](#inherited-static-behaviors)
+  - [Class constants](#class-constants)
+  - [Refer to the parent class](#refer-to-the-parent-class)
+  - [Late static bindings](#late-static-bindings)
+  - [Challenge: Static references](#challenge-static-references)
+  - [Solution: Static references](#solution-static-references)
 - [**6. Magic Methods**](#6-magic-methods) (7 videos)
-  - Constructor method
-  - Constructor arguments
-  - Destructor method
-  - Clone method
-  - Assignment by reference
-  - Compare objects
-  - Autoload undefined classes
+  - [Constructor method](#constructor-method)
+  - [Constructor arguments](#constructor-arguments)
+  - [Destructor method](#destructor-method)
+  - [Clone method](#clone-method)
+  - [Assignment by reference](#assignment-by-reference)
+  - [Compare objects](#compare-objects)
+  - [Autoload undefined classes](#autoload-undefined-classes)
 - [**7. A PHP OOP Project**](#7-a-php-oop-project) (7 videos)
-  - Project introduction
-  - Challenge: The bicycle class
-  - Solution: The bicycle class
-  - From instances to HTML
-  - Read from a CSV file
-  - Improve ParseCSV
-  - From a CSV file to instances
+  - [Project introduction](#project-introduction)
+  - [Challenge: The bicycle class](#challenge-the-bicycle-class)
+  - [Solution: The bicycle class](#solution-the-bicycle-class)
+  - [From instances to HTML](#from-instances-to-html)
+  - [Read from a CSV file](#read-from-a-csv-file)
+  - [Improve ParseCSV](#improve-parsecsv)
+  - [From a CSV file to instances](#from-a-csv-file-to-instances)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Happy Coding
+  - [Happy Coding](#happy-coding)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PHP: OOP techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980)
@@ -135,9 +135,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), oop (1), [[MySQL]] (1)
 > **CLI Commands:** php (6), mysql (1)
 > **Env Vars:** php (6), oop (1)
-> **Code Keywords:** override (1), class. (1), finally, (1), let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [kevin] (1)
 
@@ -174,6 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[PHP]] (1)
 > **Exercise Files:** exercise files (8)
 > **CLI Commands:** make (4), php (1), find (1)
 > **Env Vars:** php (1)
@@ -183,7 +184,7 @@ created: 2026-04-29
 
 ### 1. Overview and Project Set Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is OOP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980)
@@ -316,10 +317,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (9), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (7), product (4), oop (3), data (3)
 > **Env Vars:** php (9), oop (3)
 > **CLI Commands:** php (9), find (1), make (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
-> **Code Keywords:** let (2), function (1)
 > **Analogies:** just like (1), for example (1)
 > **Versions:** php 5 (1)
 > **Best Practices:** rule of thumb (1)
@@ -404,10 +405,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (9), web (5), [[Programming]] (2), [[HTML]] (2)
 > **CLI Commands:** php (9), make (3), find (1)
 > **Env Vars:** php (7), html (1)
 > **Code Identifiers:** oop_sandbox (3), php_test (2)
-> **Code Keywords:** let (3)
 > **File Paths:** php_test.php (2)
 > **Exercise Files:** exercise files (1), template (1)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -416,7 +417,7 @@ created: 2026-04-29
 
 ### 2. Object Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define a class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980)
@@ -579,7 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), class. (10), class, (2), function (1), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Microsoft Word|Word]] (2), product (2), oop (1), next (1)
 > **CLI Commands:** php (9), make (4)
 > **Code Identifiers:** class_exists (3), class_name (3), get_declared_classes (2), class_example (2), class_names (2)
 > **Env Vars:** php (7), oop (1)
@@ -741,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), class. (6), pass (3), function (1), class, (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Microsoft Word|Word]] (3), product (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), oop (1)
 > **Definitions:** is a  (7), is called (1)
 > **CLI Commands:** php (5), make (2)
 > **Env Vars:** php (3), oop (1)
@@ -1013,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), var (5), class. (5), class, (2), pass (2)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), power (1), oop (1), [[HTML]] (1)
 > **Code Identifiers:** first_name (7), property_exists (4), last_name (4), get_class_vars (3), object_vars (3)
 > **CLI Commands:** make (4), php (3)
 > **Env Vars:** php (1), oop (1), pre (1), html (1)
@@ -1167,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (9), class. (3), pass (1), case. (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Programming]] (1)
 > **Code Identifiers:** get_class_methods (1), method_exists (1), class_methods (1), say_hello (1)
 > **CLI Commands:** php (2), make (1)
 > **Definitions:** is a  (2), we call this (1)
@@ -1269,7 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), class, (3), this. (2), this, (1), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
 > **UI Navigation:** go to (1)
@@ -1339,10 +1340,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (1), next (1)
 > **Code Identifiers:** weight_kg (2), weight_lbs (2), set_weight_lbs (2)
 > **CLI Commands:** find (3), php (1), make (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
-> **Code Keywords:** let (1), pass (1)
 > **File Paths:** challenge_01.php (1)
 > **Versions:** 2.2046226218 (1)
 > **Cross-References:** in the next (1)
@@ -1527,7 +1528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), class. (1), case. (1), var (1)
+> **Frameworks & Libraries:** [[PHP]] (3), oop (1), [[Microsoft Word|Word]] (1), [[Programming]] (1), next (1)
 > **Definitions:** is a  (6), short for (3)
 > **CLI Commands:** php (3), make (1), cd (1)
 > **Code Identifiers:** weight_lbs (2), set_weight_lbs (2), weight_kg (1)
@@ -1539,7 +1540,7 @@ created: 2026-04-29
 
 ### 3. Class Inheritance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is inheritance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-inheritance-14622580?u=76281980)
@@ -1632,7 +1633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class, (3), override (3), class. (2)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** make (5), php (2)
 > **Code Identifiers:** download_path (3), file_name (2)
 > **Env Vars:** php (2), pdf (1)
@@ -1786,7 +1787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), class. (7), extends (6), class, (5), pass (2)
+> **Frameworks & Libraries:** [[PHP]] (7), next (1)
 > **CLI Commands:** php (7), make (6), find (1)
 > **Env Vars:** php (6)
 > **Code Identifiers:** is_subclass_of (1), get_parent_class (1), is_sub_class_of (1), class_inheritance (1)
@@ -1910,7 +1911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), class. (5), class, (5), var (4), override (3)
+> **Frameworks & Libraries:** power (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** is_admin (4), full_name (3), is_good_for (1), oop_sandbox (1), admin_user (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **Analogies:** for example (2)
@@ -2004,9 +2005,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** php (3), make (2), find (1)
 > **Analogies:** for example (3), similar to (1)
-> **Code Keywords:** override (1), class, (1), let (1)
 > **Env Vars:** php (2)
 > **File Paths:** challenge_02.php (1)
 > **Prerequisites:** set up (1)
@@ -2176,7 +2177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), class, (5), default, (3), class. (3), function (3)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Programming]] (1)
 > **Code Identifiers:** is_sleeper (5), is_seating (3), is_upholstered (3), depth_opened (3), inspect_class (2)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** php (2), find (1), make (1)
@@ -2188,7 +2189,7 @@ created: 2026-04-29
 
 ### 4. Object Access Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visibility modifiers
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980)
@@ -2477,7 +2478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (31), private (21), public (20), protected (11), function (8)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Microsoft Word|Word]] (2), oop (1)
 > **CLI Commands:** make (6), php (4), find (1)
 > **Env Vars:** php (4), oop (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
@@ -2631,7 +2632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), private (7), class. (2), this. (1), public (1)
+> **Frameworks & Libraries:** [[PHP]] (5), feature (2), [[Programming]] (2), product (2)
 > **CLI Commands:** php (5), make (1), find (1)
 > **Env Vars:** php (4), fmt (1)
 > **Cross-References:** in the last (1), go back to (1)
@@ -2755,7 +2756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (8), let (4), public (4)
+> **Frameworks & Libraries:** product (4), [[PHP]] (1), [[Security]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** php (1), make (1)
 > **Code Identifiers:** set_name (1), get_name (1)
@@ -2817,7 +2818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), return, (2), class. (1), public (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** weight_kg (2), wheel_details (1), weight_lbs (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -3041,7 +3042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), private (10), public (9), protected (8), function (3)
+> **Frameworks & Libraries:** [[PHP]] (7), next (2), parallel (1)
 > **Code Identifiers:** weight_kg (7), bug_test (3), wheel_string (2), wheel_details (1), weight_lbs (1)
 > **CLI Commands:** php (7), make (4)
 > **File Paths:** challenge_01.php (2), challenge_03.php (2)
@@ -3053,7 +3054,7 @@ created: 2026-04-29
 
 ### 5. Static Properties and Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The static modifier
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980)
@@ -3234,7 +3235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (23), let (17), self (8), public (8), private (6)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Microsoft Word|Word]] (1), data (1), oop (1)
 > **CLI Commands:** php (7), make (4)
 > **Env Vars:** php (5), oop (1)
 > **File Paths:** static_modifiers.php (2)
@@ -3392,7 +3393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), static (11), class, (3), public (3), private (3)
+> **Frameworks & Libraries:** [[PHP]] (3), oop (1)
 > **CLI Commands:** php (3), make (2)
 > **Env Vars:** php (3), oop (1)
 > **Definitions:** defined as (1), means that (1)
@@ -3534,7 +3535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), public (6), self (5), static (4), const (2)
+> **Frameworks & Libraries:** [[PHP]] (6)
 > **CLI Commands:** php (6), make (3)
 > **Env Vars:** php (5)
 > **Definitions:** is a  (3)
@@ -3704,7 +3705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (10), let (10), self (6), class, (5), class. (3)
+> **Frameworks & Libraries:** [[PHP]] (3), feature (1), business (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (10), php (3)
 > **Env Vars:** php (3)
 > **Analogies:** just like (2), for example (1)
@@ -3880,7 +3881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (30), self (11), let (11), class. (7), class, (4)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Microsoft Word|Word]] (1), hr (1), next (1)
 > **Code Identifiers:** wheel_details (6), get_class (6), get_called_class (4), identity_test (3), late_static_bindings (1)
 > **CLI Commands:** php (8), make (2)
 > **Env Vars:** php (7)
@@ -3972,7 +3973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (9), class. (2), public (2), for, (1), extends (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Design Patterns]] (1), next (1)
 > **CLI Commands:** make (6), php (4)
 > **Env Vars:** php (2), bmx (1)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
@@ -4192,7 +4193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (19), let (9), self (5), public (4), this. (2)
+> **Frameworks & Libraries:** [[PHP]] (5)
 > **CLI Commands:** make (9), php (5), find (2)
 > **Code Identifiers:** wheel_details (4), get_class (2), get_called_class (2), instance_count (1)
 > **Cross-References:** we talked about (2), as we saw (1), go back to (1)
@@ -4204,7 +4205,7 @@ created: 2026-04-29
 
 ### 6. Magic Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Constructor method
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-method-14622579?u=76281980)
@@ -4339,7 +4340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), let (6), static (4), class. (2), super (1)
+> **Frameworks & Libraries:** [[PHP]] (6), product (1)
 > **CLI Commands:** php (6), find (1), make (1)
 > **Env Vars:** php (4)
 > **File Paths:** constructors.php (1)
@@ -4555,7 +4556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), pass (14), function (3), default. (3), continue (2)
+> **Frameworks & Libraries:** [[PHP]] (4), data (3), product (1)
 > **CLI Commands:** php (4), make (4)
 > **Env Vars:** php (4)
 > **Analogies:** just like (1), for example (1)
@@ -4703,7 +4704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), public (3), class, (1), throw (1), static (1)
+> **Frameworks & Libraries:** [[PHP]] (9), product (2), hit (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (9), make (1), find (1)
 > **Env Vars:** php (9)
 > **Definitions:** refers to (2), is a  (1)
@@ -4903,7 +4904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), new, (2), public (2), new. (1), class. (1)
+> **Frameworks & Libraries:** [[PHP]] (2), hr (2), product (1), parallel (1)
 > **CLI Commands:** make (5), php (2)
 > **Definitions:** is called (3), is a  (1)
 > **File Paths:** cloning.php (1)
@@ -5022,8 +5023,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (8), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), product (1), hr (1), next (1)
 > **CLI Commands:** php (8), make (5)
-> **Code Keywords:** let (8), else, (1)
 > **Env Vars:** php (7)
 > **File Paths:** cloning.php (1)
 > **Definitions:** means that (1)
@@ -5143,7 +5144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), class, (1), super (1)
+> **Frameworks & Libraries:** [[PHP]] (3), next (1)
 > **CLI Commands:** php (3), make (3)
 > **Code Identifiers:** box_reference (2), box_clone (2), compare_objects (1), box_modified (1)
 > **Env Vars:** php (2)
@@ -5312,7 +5313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (17), class. (7), class, (2), pass (2)
+> **Frameworks & Libraries:** [[PHP]] (19), [[Microsoft Word|Word]] (3), [[Security]] (2), next (1)
 > **CLI Commands:** php (19), find (5), make (2)
 > **Env Vars:** php (12), spl (1)
 > **Code Identifiers:** my_autoload (4), spl_autoload_register (2), preg_match (2)
@@ -5324,7 +5325,7 @@ created: 2026-04-29
 
 ### 7. A PHP OOP Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980)
@@ -5483,8 +5484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (20), data (4), [[Programming]] (3), [[HTML]] (3), oop (1)
 > **Env Vars:** php (20), csv (7), html (3), oop (1), url (1)
-> **Code Keywords:** public (8), let (7), private (6), require (2), this. (1)
 > **CLI Commands:** php (20), make (2), find (2)
 > **File Paths:** bicycles.php (4), initialize.php (3), about.php (1), index.php (1), functions.php (1)
 > **Definitions:** is a  (5), stands for (1), is called (1)
@@ -5561,7 +5562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), new. (2), let (1), class, (1), pass (1)
+> **Frameworks & Libraries:** oop (1), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** oop (1), bmx (1)
 > **Code Identifiers:** condition_id (1)
@@ -5723,7 +5724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), protected (4), pass (4), require (3), public (2)
+> **Frameworks & Libraries:** [[PHP]] (11), next (2)
 > **CLI Commands:** php (11), make (3)
 > **Definitions:** is a  (5), is an  (1), means that (1)
 > **File Paths:** class.php (2), bicycle.class.php (1), initialize.php (1), bicycles.php (1), initialized.php (1)
@@ -5947,7 +5948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (34), this, (3), public (2), pass (2), switch (1)
+> **Frameworks & Libraries:** [[PHP]] (10), [[HTML]] (8), data (2), next (2), web (1)
 > **CLI Commands:** make (16), php (10)
 > **Env Vars:** html (8), csv (3)
 > **Code Identifiers:** money_format (2), chain_gang (1)
@@ -6181,7 +6182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), pass (6), function (5), private (4), public (2)
+> **Frameworks & Libraries:** data (10), [[PHP]] (8), business (2), next (1)
 > **CLI Commands:** php (8), make (5), find (1)
 > **Env Vars:** php (5), csv (3)
 > **File Paths:** used_bicycles.csv (2), parsecsv.class.php (1), bicycles.php (1), initialize.php (1)
@@ -6345,7 +6346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), public (5), private (5), function (3), class, (2)
+> **Frameworks & Libraries:** data (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (10)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -6422,8 +6423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), data (1), [[HTML]] (1)
 > **Env Vars:** csv (6), php (4), html (1)
-> **Code Keywords:** let (4), pass (2)
 > **CLI Commands:** php (4)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1)
@@ -6432,7 +6433,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Happy Coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980)
@@ -6455,6 +6456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), data (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), database (2), next (1)
 > **CLI Commands:** php (4), find (1)
 > **Env Vars:** php (4), oop (1)
 > **Definitions:** is a  (1)

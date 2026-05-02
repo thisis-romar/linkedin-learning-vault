@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/data-science-professional-certifica
 course_count: 6
 linkedin_topics:
   - Data Science
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/data-science
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Professional%20Certificates/Data%20Science%20Professional%20Certificate%20by%20KNIME.md)

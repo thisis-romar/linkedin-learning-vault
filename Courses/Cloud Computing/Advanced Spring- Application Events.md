@@ -33,7 +33,7 @@ tags:
   - skill/spring-framework
   - skill/software-architectural-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advanced%20Spring-%20Application%20Events.md)
@@ -52,30 +52,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Take advantage of Spring events
-  - What you need to know
+  - [Take advantage of Spring events](#take-advantage-of-spring-events)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Exploring the Power of Spring Events**](#1-exploring-the-power-of-spring-events) (2 videos)
-  - Spring events vs. direct method calls
-  - Highlights of Spring events
+  - [Spring events vs. direct method calls](#spring-events-vs-direct-method-calls)
+  - [Highlights of Spring events](#highlights-of-spring-events)
 - [**2. Implementing Custom Spring Events**](#2-implementing-custom-spring-events) (4 videos)
-  - Create and publish custom events
-  - Implement a new listener for events
-  - Challenge: Create a new event listener
-  - Solution: Create a new event listener
+  - [Create and publish custom events](#create-and-publish-custom-events)
+  - [Implement a new listener for events](#implement-a-new-listener-for-events)
+  - [Challenge: Create a new event listener](#challenge-create-a-new-event-listener)
+  - [Solution: Create a new event listener](#solution-create-a-new-event-listener)
 - [**3. Async and Filtering Events**](#3-async-and-filtering-events) (2 videos)
-  - Implement asynchronous events
-  - Filter events
+  - [Implement asynchronous events](#implement-asynchronous-events)
+  - [Filter events](#filter-events)
 - [**4. Transactional Events**](#4-transactional-events) (4 videos)
-  - Transaction bound events
-  - Implement custom transaction event listeners
-  - Challenge: Create a custom transaction event listener
-  - Solution: Create a custom transaction event listener
+  - [Transaction bound events](#transaction-bound-events)
+  - [Implement custom transaction event listeners](#implement-custom-transaction-event-listeners)
+  - [Challenge: Create a custom transaction event listener](#challenge-create-a-custom-transaction-event-listener)
+  - [Solution: Create a custom transaction event listener](#solution-create-a-custom-transaction-event-listener)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take advantage of Spring events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/take-advantage-of-spring-events?u=76281980)
@@ -104,6 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1), next (1)
 > **Speakers:** - [terezija] (1)
 
 #### What you need to know
@@ -123,15 +124,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), [[Spring Boot]] (2), [[Spring Framework]] (1)
 > **Versions:** java 15 (1), 2.5 (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Exploring the Power of Spring Events
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spring events vs. direct method calls
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/spring-events-vs-direct-method-calls?u=76281980)
@@ -200,9 +201,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (1), data (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), imagine (1)
-> **Code Keywords:** class, (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - spring (1)
 
@@ -255,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default, (1)
+> **Frameworks & Libraries:** application (7), [[Spring Framework]] (1), data (1), next (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pojo (1)
 > **Cross-References:** in the next (1)
@@ -266,7 +267,7 @@ created: 2026-04-29
 
 ### 2. Implementing Custom Spring Events
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and publish custom events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980)
@@ -345,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (1), class, (1)
+> **Frameworks & Libraries:** application (4), [[Java]] (3), database (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), unzip (1)
 > **Env Vars:** ide (2), crm (1), sdk (1)
 > **Analogies:** imagine (3)
@@ -429,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2), type. (2), class. (1), type, (1)
+> **Frameworks & Libraries:** application (3)
 > **Code Identifiers:** onregisteredevent (1)
 > **Versions:** 4.2 (1)
 > **Warnings:** keep in mind (1)
@@ -468,8 +469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -515,7 +516,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), class. (1), finally, (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** oncustomerremovedevent (1), sendcustomerremovedemail (1)
 > **Env Vars:** pojo (1)
@@ -526,7 +526,7 @@ created: 2026-04-29
 
 ### 3. Async and Filtering Events
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement asynchronous events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/implement-asynchronous-events?u=76281980)
@@ -603,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (6), case. (2), let (2), default, (1), for. (1)
+> **Frameworks & Libraries:** [[Analytics]] (6), application (1), feature (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -663,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1)
 > **Code Identifiers:** mybean (1)
 > **Env Vars:** vip (1)
 > **Speakers:** - [instructor] (1)
@@ -671,7 +671,7 @@ created: 2026-04-29
 
 ### 4. Transactional Events
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transaction bound events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/transaction-bound-events?u=76281980)
@@ -756,7 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1)
+> **Frameworks & Libraries:** database (4), management (1), [[E-Commerce]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -822,7 +822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** database (1), [[Microsoft Products|Products]] (1), [[Simulation]] (1)
 > **Warnings:** keep in mind (1), caveat (1)
 > **Code Identifiers:** placeorder (1)
 > **Definitions:** is a  (1)
@@ -856,7 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** power (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -898,14 +898,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** is a  (1), is called (1)
-> **Code Keywords:** class, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980)
@@ -932,6 +931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Architecture]] (1), [[Integration Testing]] (1), [[Spring Boot]] (1), [[LinkedIn]] (1), next (1)
 > **Speakers:** - [terezija] (1)
 
 

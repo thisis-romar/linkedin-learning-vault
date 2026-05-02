@@ -33,7 +33,7 @@ tags:
   - topic/cloud-computing
   - skill/ip-addressing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Networking%20Foundations-%20IP%20Addressing.md)
@@ -52,48 +52,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to this course
-  - What you should know
+  - [Welcome to this course](#welcome-to-this-course)
+  - [What you should know](#what-you-should-know)
 - [**1. IP Addressing Basics**](#1-ip-addressing-basics) (6 videos)
-  - The IP address and its purpose
-  - Expressing IP addresses
-  - IP addressing structures and functions
-  - IP addressing examples in modern networks
-  - Challenge: Examining IP addresses
-  - Solution: Examining IP addresses
+  - [The IP address and its purpose](#the-ip-address-and-its-purpose)
+  - [Expressing IP addresses](#expressing-ip-addresses)
+  - [IP addressing structures and functions](#ip-addressing-structures-and-functions)
+  - [IP addressing examples in modern networks](#ip-addressing-examples-in-modern-networks)
+  - [Challenge: Examining IP addresses](#challenge-examining-ip-addresses)
+  - [Solution: Examining IP addresses](#solution-examining-ip-addresses)
 - [**2. IP Address Components**](#2-ip-address-components) (8 videos)
-  - Classful addressing
-  - Subnet masks
-  - Subnet addressing
-  - VLSM
-  - Broadcast addressing
-  - IPv6 addresses
-  - Challenge: Subnet masks
-  - Solution: Subnet masks
+  - [Classful addressing](#classful-addressing)
+  - [Subnet masks](#subnet-masks)
+  - [Subnet addressing](#subnet-addressing)
+  - [VLSM](#vlsm)
+  - [Broadcast addressing](#broadcast-addressing)
+  - [IPv6 addresses](#ipv6-addresses)
+  - [Challenge: Subnet masks](#challenge-subnet-masks)
+  - [Solution: Subnet masks](#solution-subnet-masks)
 - [**3. CIDR and Aggregation**](#3-cidr-and-aggregation) (4 videos)
-  - IP address prefixes
-  - IP address aggregation
-  - Challenge: IP address aggregation
-  - Solution: IP address aggregation
+  - [IP address prefixes](#ip-address-prefixes)
+  - [IP address aggregation](#ip-address-aggregation)
+  - [Challenge: IP address aggregation](#challenge-ip-address-aggregation)
+  - [Solution: IP address aggregation](#solution-ip-address-aggregation)
 - [**4. Special Use Addresses**](#4-special-use-addresses) (3 videos)
-  - IPv4 to IPv6 translators
-  - Multicast addressing
-  - Anycast addressing
+  - [IPv4 to IPv6 translators](#ipv4-to-ipv6-translators)
+  - [Multicast addressing](#multicast-addressing)
+  - [Anycast addressing](#anycast-addressing)
 - [**5. Some IP Services**](#5-some-ip-services) (8 videos)
-  - Introducing DHCP
-  - Configuring DHCP
-  - Introducing DNS
-  - Configuring DNS
-  - RFC 1918 addressing
-  - Introducing NAT
-  - Challenge: IP services
-  - Solution: IP services
+  - [Introducing DHCP](#introducing-dhcp)
+  - [Configuring DHCP](#configuring-dhcp)
+  - [Introducing DNS](#introducing-dns)
+  - [Configuring DNS](#configuring-dns)
+  - [RFC 1918 addressing](#rfc-1918-addressing)
+  - [Introducing NAT](#introducing-nat)
+  - [Challenge: IP services](#challenge-ip-services)
+  - [Solution: IP services](#solution-ip-services)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980)
@@ -130,6 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), functional (1), dns (1), [[LinkedIn]] (1), [[IP Addressing]] (1)
 > **Env Vars:** tcpip (1), dhcp (1), dns (1), ccie (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -159,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (1), next (1), management (1), web (1), [[LinkedIn]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** http (1)
 > **Definitions:** is a  (1)
@@ -169,7 +170,7 @@ created: 2026-04-29
 
 ### 1. IP Addressing Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The IP address and its purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980)
@@ -292,7 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (9), let (5), case, (2), this, (1), this. (1)
+> **Frameworks & Libraries:** dns (3), [[Windows]] (3), [[Microsoft]] (1), [[Search]] (1), hit (1)
 > **Env Vars:** ipv4 (5), dhcp (4), dns (3), tcp (1)
 > **Versions:** 172.20.6 (3), 172.20.0 (1), 172.20.15 (1), 127.0.0 (1)
 > **UI Navigation:** go to (5), select the (1)
@@ -414,7 +415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), raise (1), this, (1), for, (1), case, (1)
+> **Frameworks & Libraries:** next (3), power (2), data (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
@@ -549,9 +550,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (14), next (4), [[LinkedIn]] (2), [[IP Addressing]] (1), node (1)
 > **Env Vars:** dns (14), tcp (1)
 > **Versions:** 255.255.255 (2), 192.168.0 (2), 8.8.8 (1), 8.8.4 (1), 127.0.0 (1)
-> **Code Keywords:** let (5), public (1), this, (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2), [example.com](https://example.com) (1)
 > **CLI Commands:** find (1), node (1)
 > **Tools:** command line (1)
@@ -605,8 +606,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), dns (3), [[IP Addressing]] (2)
 > **Versions:** 192.168.1 (5), 255.255.255 (1), 8.8.8 (1), 8.8.4 (1), 203.0.113 (1)
-> **Code Keywords:** finally, (1), interface (1), public (1)
 > **Env Vars:** dns (3)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -640,6 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IP Addressing]] (1), dns (1), next (1)
 > **Env Vars:** dns (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -669,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), prompt (2), dns (1)
 > **Versions:** 192.168.0 (2), 209.18.47 (2), 255.255.255 (1)
-> **Code Keywords:** this. (1), case, (1), public (1), finally, (1)
 > **Tools:** command prompt (2)
 > **Env Vars:** dns (1)
 > **Cross-References:** we covered (1)
@@ -680,7 +682,7 @@ created: 2026-04-29
 
 ### 2. IP Address Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classful addressing
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/classful-addressing?u=76281980)
@@ -765,6 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 0.0.0 (1), 127.255.255 (1), 255.255 (1), 128.0.0 (1), 191.255.255 (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** tcp (1)
@@ -828,9 +831,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IP Addressing]] (1)
 > **Versions:** 255.0.0 (2), 255.255.0 (1), 255.255.255 (1), 255.128.0 (1), 255.192 (1)
 > **Definitions:** is an  (1), is called (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -896,8 +899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Windows]] (1), business (1)
 > **Versions:** 10.0.0 (4), 10.64 (2), 10.128 (2), 10.192 (2), 255.0.0 (1)
-> **Code Keywords:** for. (1), let (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - subnetting (1)
@@ -933,7 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (2)
 > **Versions:** 10.192 (1), 10.192.0 (1), 255.224.0 (1)
 > **Env Vars:** vlsm (2)
 > **Cross-References:** in the last (1)
@@ -971,9 +974,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), node (1), traffic (1)
 > **Versions:** 255.255.255 (1), 10.192.255 (1), 10.192.0 (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** case. (1)
 > **Definitions:** we call this (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1031,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** feature (1), next (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ipv4 (1)
@@ -1064,7 +1067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1101,14 +1104,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Versions:** 255.255.0 (1), 172.16.1 (1), 255.255.240 (1)
-> **Code Keywords:** let (1), default. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 3. CIDR and Aggregation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IP address prefixes
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980)
@@ -1161,8 +1163,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (4), [[IP Addressing]] (2)
 > **Env Vars:** cidr (5), isp (2)
-> **Code Keywords:** public (2), class, (1)
 > **Versions:** 192.168.12 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -1238,8 +1240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (6), [[IP Addressing]] (1)
 > **Versions:** 172.16.1 (3), 172.16 (2), 172.16.0 (1)
-> **Code Keywords:** let (2), case, (1), this. (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ipv6 (1)
 > **Analogies:** for example (1)
@@ -1262,6 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1295,14 +1298,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Special Use Addresses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IPv4 to IPv6 translators
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ipv4-to-ipv6-translators?u=76281980)
@@ -1391,8 +1393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), node (1), power (1)
 > **Definitions:** is an  (2), is a  (1), is called (1), known as (1)
-> **Code Keywords:** let (2), raise (1)
 > **Versions:** 224.0.0 (1), 239.255.255 (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
@@ -1422,16 +1424,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (2)
 > **Env Vars:** dns (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Some IP Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980)
@@ -1476,6 +1478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), [[Windows Server]] (1), dns (1)
 > **Env Vars:** dhcp (13), dns (1), dora (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1647,8 +1650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows Server]] (2), dns (2), [[Windows 10]] (1), [[Google]] (1)
 > **Env Vars:** dhcp (20), dns (2), tcp (1)
-> **Code Keywords:** let (4), static (3), interface (2), this. (2)
 > **Versions:** 10.10.0 (3), 172.31 (1), 58.194 (1), 255.255.240 (1), 172.31.58 (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **Prerequisites:** configure (2), install (2), set up (1)
@@ -1693,8 +1696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[LinkedIn]] (2), web (1), database (1), next (1)
 > **Env Vars:** dns (8), ipv4 (1), ipv6 (1)
-> **Code Keywords:** function (1), type. (1), let (1)
 > **Definitions:** stands for (1), is a  (1), known as (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -1759,9 +1762,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (10), cloud (2), aws (2), [[Windows 10]] (1), [[Linux]] (1)
 > **Env Vars:** dns (10), dhcp (2), aws (2), tcp (1), udp (1)
 > **CLI Commands:** make (3), aws (2)
-> **Code Keywords:** let (2), public (1), private (1), interface (1)
 > **URLs:** [id10ttech.com](https://id10ttech.com) (2), [anthonysequeira.net](https://anthonysequeira.net) (1)
 > **Definitions:** is called (1), is a  (1)
 > **Prerequisites:** configure (2)
@@ -1810,7 +1813,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** rfc1918 (3), nat (3), ipv4 (2), ipv (1)
-> **Code Keywords:** private (5), public (2)
 > **Versions:** 172.16 (2), 172.31 (1), 255.255 (1), 192.168.0 (1), 192.168.255 (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1858,7 +1860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (3), case. (2), let (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[IP Addressing]] (1), [[Google]] (1), [[Search]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rfc (5), nat (4), ipv4 (1)
 > **Documentation:** rfc (5)
 > **CLI Commands:** find (3)
@@ -1894,8 +1896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), dns (1)
 > **Env Vars:** dhcp (1), dns (1), aaaa (1), cname (1), rfc (1)
-> **Code Keywords:** finally, (1), private (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** rfc (1)
 > **Speakers:** - [narrator] (1)
@@ -1944,9 +1946,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (3), next (2), traffic (1)
 > **Env Vars:** dhcp (4), dns (3), aaaa (1), cname (1), rfc (1)
 > **Versions:** 172.16 (1), 172.31 (1), 255.255 (1), 192.168.0 (1), 192.168.255 (1)
-> **Code Keywords:** private (3), finally, (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Documentation:** rfc (1)
 > **Analogies:** just like (1)
@@ -1956,7 +1958,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980)
@@ -1983,8 +1985,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IP Addressing]] (2), dns (2), [[LinkedIn]] (1)
 > **Env Vars:** dns (2), vlsm (1), cidr (1), dhcp (1), nat (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [anthony] (1)
 

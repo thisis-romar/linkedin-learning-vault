@@ -33,7 +33,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/aws-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Security%20and%20Compliance%20Management.md)
@@ -52,167 +52,167 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - AWS security overview
-  - What you should know
+  - [AWS security overview](#aws-security-overview)
+  - [What you should know](#what-you-should-know)
 - [**1. AWS Security Foundations**](#1-aws-security-foundations) (12 videos)
-  - Understanding shared responsibility
-  - Understanding the AWS security landscape
-  - Understanding separation of duties
-  - Implementing separation of duties
-  - Understanding CloudTrail
-  - Enabling CloudTrail
-  - Understanding CloudWatch
-  - Understanding CloudWatch alarms
-  - Configuring Simple Notification Service
-  - Using a CloudWatch alarm
-  - Installing the command line interface (CLI) for Mac
-  - The command line interface (CLI) for Windows
+  - [Understanding shared responsibility](#understanding-shared-responsibility)
+  - [Understanding the AWS security landscape](#understanding-the-aws-security-landscape)
+  - [Understanding separation of duties](#understanding-separation-of-duties)
+  - [Implementing separation of duties](#implementing-separation-of-duties)
+  - [Understanding CloudTrail](#understanding-cloudtrail)
+  - [Enabling CloudTrail](#enabling-cloudtrail)
+  - [Understanding CloudWatch](#understanding-cloudwatch)
+  - [Understanding CloudWatch alarms](#understanding-cloudwatch-alarms)
+  - [Configuring Simple Notification Service](#configuring-simple-notification-service)
+  - [Using a CloudWatch alarm](#using-a-cloudwatch-alarm)
+  - [Installing the command line interface (CLI) for Mac](#installing-the-command-line-interface-cli-for-mac)
+  - [The command line interface (CLI) for Windows](#the-command-line-interface-cli-for-windows)
 - [**2. IAM Concepts in AWS**](#2-iam-concepts-in-aws) (34 videos)
-  - Understanding Identity and Access Management
-  - Understanding IAM policies
-  - Configure IAM policies
-  - Understanding IAM groups
-  - Configure IAM groups
-  - Configuring a password policy
-  - Configure IAM users: Web console
-  - Configure IAM users: CLI
-  - IAM challenge
-  - IAM challenge solution
-  - Configuring IAM roles
-  - Configuring IAM roles
-  - Validating an IAM role
-  - Extending CloudWatch
-  - Install CloudWatch agent
-  - Challenge: IAM roles
-  - Solution: IAM roles
-  - Understanding Security Token Service
-  - Creating a temporary access role
-  - Creating a temporary access policy
-  - Validating temporary access
-  - Challenge: Super admin
-  - Solution: Super admin
-  - Illustrating access restrictions
-  - Exploring IAM policy simulator
-  - Understanding Cognito
-  - Creating a Cognito user pool
-  - Creating a Cognito identity pool
-  - Understanding Verified Permissions
-  - Understanding federated access
-  - Enabling federated access
-  - Validating federated access
-  - Securing financial access
-  - Enabling financial access
+  - [Understanding Identity and Access Management](#understanding-identity-and-access-management)
+  - [Understanding IAM policies](#understanding-iam-policies)
+  - [Configure IAM policies](#configure-iam-policies)
+  - [Understanding IAM groups](#understanding-iam-groups)
+  - [Configure IAM groups](#configure-iam-groups)
+  - [Configuring a password policy](#configuring-a-password-policy)
+  - [Configure IAM users: Web console](#configure-iam-users-web-console)
+  - [Configure IAM users: CLI](#configure-iam-users-cli)
+  - [IAM challenge](#iam-challenge)
+  - [IAM challenge solution](#iam-challenge-solution)
+  - [Configuring IAM roles](#configuring-iam-roles)
+  - [Configuring IAM roles](#configuring-iam-roles)
+  - [Validating an IAM role](#validating-an-iam-role)
+  - [Extending CloudWatch](#extending-cloudwatch)
+  - [Install CloudWatch agent](#install-cloudwatch-agent)
+  - [Challenge: IAM roles](#challenge-iam-roles)
+  - [Solution: IAM roles](#solution-iam-roles)
+  - [Understanding Security Token Service](#understanding-security-token-service)
+  - [Creating a temporary access role](#creating-a-temporary-access-role)
+  - [Creating a temporary access policy](#creating-a-temporary-access-policy)
+  - [Validating temporary access](#validating-temporary-access)
+  - [Challenge: Super admin](#challenge-super-admin)
+  - [Solution: Super admin](#solution-super-admin)
+  - [Illustrating access restrictions](#illustrating-access-restrictions)
+  - [Exploring IAM policy simulator](#exploring-iam-policy-simulator)
+  - [Understanding Cognito](#understanding-cognito)
+  - [Creating a Cognito user pool](#creating-a-cognito-user-pool)
+  - [Creating a Cognito identity pool](#creating-a-cognito-identity-pool)
+  - [Understanding Verified Permissions](#understanding-verified-permissions)
+  - [Understanding federated access](#understanding-federated-access)
+  - [Enabling federated access](#enabling-federated-access)
+  - [Validating federated access](#validating-federated-access)
+  - [Securing financial access](#securing-financial-access)
+  - [Enabling financial access](#enabling-financial-access)
 - [**3. Multi-Account Access**](#3-multi-account-access) (7 videos)
-  - Understanding Organizations
-  - Understanding Control Tower
-  - Understanding IAM Identity Center
-  - Exploring IAM Identity Center
-  - Validating IAM Identity Center
-  - Understanding Resource Access Manager
-  - Exploring Resource Access Manager
+  - [Understanding Organizations](#understanding-organizations)
+  - [Understanding Control Tower](#understanding-control-tower)
+  - [Understanding IAM Identity Center](#understanding-iam-identity-center)
+  - [Exploring IAM Identity Center](#exploring-iam-identity-center)
+  - [Validating IAM Identity Center](#validating-iam-identity-center)
+  - [Understanding Resource Access Manager](#understanding-resource-access-manager)
+  - [Exploring Resource Access Manager](#exploring-resource-access-manager)
 - [**4. Detection and Response**](#4-detection-and-response) (20 videos)
-  - Understanding AWS Config
-  - Enabling AWS Config
-  - Exploring AWS Config results
-  - Exploring conformance packs
-  - Understanding AWS GuardDuty
-  - Exploring AWS GuardDuty
-  - Understand IAM Access Analyzer
-  - Exploring IAM Access Analyzer results
-  - Understanding Amazon Detective
-  - Exploring Amazon Detective
-  - Understanding Amazon Inspector
-  - Exploring Amazon Inspector
-  - Resolving an Inspector finding
-  - Understanding Amazon Security Lake
-  - Understanding IoT Device Defender
-  - Understanding AWS Elastic Disaster Recovery
-  - Configuring Elastic Disaster Recovery
-  - Configuring a source server
-  - Exploring AWS Elastic Disaster Recovery
-  - Removing a source server
+  - [Understanding AWS Config](#understanding-aws-config)
+  - [Enabling AWS Config](#enabling-aws-config)
+  - [Exploring AWS Config results](#exploring-aws-config-results)
+  - [Exploring conformance packs](#exploring-conformance-packs)
+  - [Understanding AWS GuardDuty](#understanding-aws-guardduty)
+  - [Exploring AWS GuardDuty](#exploring-aws-guardduty)
+  - [Understand IAM Access Analyzer](#understand-iam-access-analyzer)
+  - [Exploring IAM Access Analyzer results](#exploring-iam-access-analyzer-results)
+  - [Understanding Amazon Detective](#understanding-amazon-detective)
+  - [Exploring Amazon Detective](#exploring-amazon-detective)
+  - [Understanding Amazon Inspector](#understanding-amazon-inspector)
+  - [Exploring Amazon Inspector](#exploring-amazon-inspector)
+  - [Resolving an Inspector finding](#resolving-an-inspector-finding)
+  - [Understanding Amazon Security Lake](#understanding-amazon-security-lake)
+  - [Understanding IoT Device Defender](#understanding-iot-device-defender)
+  - [Understanding AWS Elastic Disaster Recovery](#understanding-aws-elastic-disaster-recovery)
+  - [Configuring Elastic Disaster Recovery](#configuring-elastic-disaster-recovery)
+  - [Configuring a source server](#configuring-a-source-server)
+  - [Exploring AWS Elastic Disaster Recovery](#exploring-aws-elastic-disaster-recovery)
+  - [Removing a source server](#removing-a-source-server)
 - [**5. Network and Application Protection**](#5-network-and-application-protection) (10 videos)
-  - Understand Web Application Firewall
-  - Exploring Web Application Firewall
-  - Configuring Web Application Firewall
-  - Validating Web Application Firewall
-  - Understand AWS Shield
-  - Understanding AWS Firewall Manager
-  - Understanding AWS Network Firewall
-  - Understand AWS Verified Access
-  - Understanding DNS Firewall
-  - Configuring DNS Firewall
+  - [Understand Web Application Firewall](#understand-web-application-firewall)
+  - [Exploring Web Application Firewall](#exploring-web-application-firewall)
+  - [Configuring Web Application Firewall](#configuring-web-application-firewall)
+  - [Validating Web Application Firewall](#validating-web-application-firewall)
+  - [Understand AWS Shield](#understand-aws-shield)
+  - [Understanding AWS Firewall Manager](#understanding-aws-firewall-manager)
+  - [Understanding AWS Network Firewall](#understanding-aws-network-firewall)
+  - [Understand AWS Verified Access](#understand-aws-verified-access)
+  - [Understanding DNS Firewall](#understanding-dns-firewall)
+  - [Configuring DNS Firewall](#configuring-dns-firewall)
 - [**6. Data Protection and Operations**](#6-data-protection-and-operations) (31 videos)
-  - Understanding Amazon Macie
-  - Configuring a Macie job
-  - Exploring Macie results
-  - Understanding Key Management Service
-  - Creating a KMS key
-  - Creating a multi-region KMS key
-  - Using a KMS in S3
-  - Using KMS and an IAM role
-  - Automating KMS key rotation
-  - Deleting a KMS key
-  - Enabling EBS default encryption
-  - Understanding Secrets Manager
-  - Using Secrets Manager
-  - Enabling autorotation with Secrets Manager
-  - Creating a multi-region secret
-  - Deleting a Secrets Manager secret
-  - Understanding AWS CloudHSM
-  - Understanding Systems Manager
-  - Implementing Systems Manager
-  - Resolving compliance with Systems Manager
-  - Creating Resource Groups
-  - Patching with Systems Manager
-  - Understanding Incident Manager
-  - Using Parameter Store
-  - Understand Certificate Manager
-  - Creating a private certificate authority
-  - Creating a private certificate
-  - Using a private certificate
-  - Understanding Payment Cryptography
-  - Challenge: KMS
-  - Solution: KMS
+  - [Understanding Amazon Macie](#understanding-amazon-macie)
+  - [Configuring a Macie job](#configuring-a-macie-job)
+  - [Exploring Macie results](#exploring-macie-results)
+  - [Understanding Key Management Service](#understanding-key-management-service)
+  - [Creating a KMS key](#creating-a-kms-key)
+  - [Creating a multi-region KMS key](#creating-a-multi-region-kms-key)
+  - [Using a KMS in S3](#using-a-kms-in-s3)
+  - [Using KMS and an IAM role](#using-kms-and-an-iam-role)
+  - [Automating KMS key rotation](#automating-kms-key-rotation)
+  - [Deleting a KMS key](#deleting-a-kms-key)
+  - [Enabling EBS default encryption](#enabling-ebs-default-encryption)
+  - [Understanding Secrets Manager](#understanding-secrets-manager)
+  - [Using Secrets Manager](#using-secrets-manager)
+  - [Enabling autorotation with Secrets Manager](#enabling-autorotation-with-secrets-manager)
+  - [Creating a multi-region secret](#creating-a-multi-region-secret)
+  - [Deleting a Secrets Manager secret](#deleting-a-secrets-manager-secret)
+  - [Understanding AWS CloudHSM](#understanding-aws-cloudhsm)
+  - [Understanding Systems Manager](#understanding-systems-manager)
+  - [Implementing Systems Manager](#implementing-systems-manager)
+  - [Resolving compliance with Systems Manager](#resolving-compliance-with-systems-manager)
+  - [Creating Resource Groups](#creating-resource-groups)
+  - [Patching with Systems Manager](#patching-with-systems-manager)
+  - [Understanding Incident Manager](#understanding-incident-manager)
+  - [Using Parameter Store](#using-parameter-store)
+  - [Understand Certificate Manager](#understand-certificate-manager)
+  - [Creating a private certificate authority](#creating-a-private-certificate-authority)
+  - [Creating a private certificate](#creating-a-private-certificate)
+  - [Using a private certificate](#using-a-private-certificate)
+  - [Understanding Payment Cryptography](#understanding-payment-cryptography)
+  - [Challenge: KMS](#challenge-kms)
+  - [Solution: KMS](#solution-kms)
 - [**7. S3 Access Management**](#7-s3-access-management) (22 videos)
-  - Exploring S3 management options
-  - Accessing S3 privately
-  - Configuring private S3 access
-  - Managing S3 with IAM
-  - Restricting S3 access with IAM
-  - Validating custom IAM S3 policy
-  - Leveraging S3 IAM policies in EC2
-  - Creating an S3 bucket policy
-  - Illustrating S3 bucket policies with CLI
-  - Understanding S3 access control lists
-  - Understanding public access in S3
-  - S3 public access best practices
-  - Exploring pre-signed URLs
-  - Understanding S3 Access Grants
-  - Understanding S3 Access Points
-  - Exploring S3 Access Points
-  - Understanding data protection schemes
-  - S3 security and compliance best practices
-  - Challenge: S3 replication challenge
-  - Solution: S3 replication challenge
-  - Challenge: S3 lifecycle challenge
-  - Solution: S3 lifecycle challenge
+  - [Exploring S3 management options](#exploring-s3-management-options)
+  - [Accessing S3 privately](#accessing-s3-privately)
+  - [Configuring private S3 access](#configuring-private-s3-access)
+  - [Managing S3 with IAM](#managing-s3-with-iam)
+  - [Restricting S3 access with IAM](#restricting-s3-access-with-iam)
+  - [Validating custom IAM S3 policy](#validating-custom-iam-s3-policy)
+  - [Leveraging S3 IAM policies in EC2](#leveraging-s3-iam-policies-in-ec2)
+  - [Creating an S3 bucket policy](#creating-an-s3-bucket-policy)
+  - [Illustrating S3 bucket policies with CLI](#illustrating-s3-bucket-policies-with-cli)
+  - [Understanding S3 access control lists](#understanding-s3-access-control-lists)
+  - [Understanding public access in S3](#understanding-public-access-in-s3)
+  - [S3 public access best practices](#s3-public-access-best-practices)
+  - [Exploring pre-signed URLs](#exploring-pre-signed-urls)
+  - [Understanding S3 Access Grants](#understanding-s3-access-grants)
+  - [Understanding S3 Access Points](#understanding-s3-access-points)
+  - [Exploring S3 Access Points](#exploring-s3-access-points)
+  - [Understanding data protection schemes](#understanding-data-protection-schemes)
+  - [S3 security and compliance best practices](#s3-security-and-compliance-best-practices)
+  - [Challenge: S3 replication challenge](#challenge-s3-replication-challenge)
+  - [Solution: S3 replication challenge](#solution-s3-replication-challenge)
+  - [Challenge: S3 lifecycle challenge](#challenge-s3-lifecycle-challenge)
+  - [Solution: S3 lifecycle challenge](#solution-s3-lifecycle-challenge)
 - [**8. Security Audits in AWS**](#8-security-audits-in-aws) (9 videos)
-  - Understanding AWS Security Hub
-  - Using AWS Security Hub
-  - Rotating access keys
-  - Understand AWS Artifact
-  - Understanding Trusted Advisor
-  - Exploring Trusted Advisor
-  - Understanding Audit Manager
-  - Exploring Audit Manager
-  - Prepare for a security audit
+  - [Understanding AWS Security Hub](#understanding-aws-security-hub)
+  - [Using AWS Security Hub](#using-aws-security-hub)
+  - [Rotating access keys](#rotating-access-keys)
+  - [Understand AWS Artifact](#understand-aws-artifact)
+  - [Understanding Trusted Advisor](#understanding-trusted-advisor)
+  - [Exploring Trusted Advisor](#exploring-trusted-advisor)
+  - [Understanding Audit Manager](#understanding-audit-manager)
+  - [Exploring Audit Manager](#exploring-audit-manager)
+  - [Prepare for a security audit](#prepare-for-a-security-audit)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/aws-security-overview?u=76281980)
@@ -235,7 +235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), public (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (3), cloud (3), data (2), aws (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [sharif] (1)
@@ -275,16 +275,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Security]] (4), business (1), database (1), [[Virtualization]] (1)
 > **Env Vars:** aws (7), iam (1)
 > **CLI Commands:** aws (7)
-> **Code Keywords:** implements (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. AWS Security Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding shared responsibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980)
@@ -405,10 +405,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (21), [[Security]] (8), database (7), data (6), cloud (6)
 > **Env Vars:** aws (21), ec2 (6), rds (3), ebs (1), efs (1)
 > **CLI Commands:** aws (21), az (1), make (1), mysql (1), find (1)
 > **Definitions:** is a  (6), known as (1), is an  (1)
-> **Code Keywords:** let (2), lambda (1), private (1), require (1), static (1)
 > **Analogies:** for example (3), such as (1)
 > **Tools:** aws console (1)
 > **Prerequisites:** configure (1)
@@ -449,10 +449,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), [[Security]] (6), management (3), traffic (3), application (2)
 > **Env Vars:** aws (9), iam (1), ssl (1), tls (1), ec2 (1)
 > **CLI Commands:** aws (9)
 > **Prerequisites:** configure (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Understanding separation of duties
@@ -520,9 +520,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), aws (5), [[Engineering]] (4), [[IT Audit]] (1), [[LinkedIn]] (1)
 > **Env Vars:** mfa (9), aws (5)
 > **CLI Commands:** aws (5), make (1)
-> **Code Keywords:** let (4), protected (1), case, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** best practice (2)
 > **Prerequisites:** configure (1)
@@ -633,9 +633,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), [[Security]] (5), next (4), web (3), management (2)
 > **Env Vars:** mfa (15), aws (9), iam (5)
 > **CLI Commands:** aws (9)
-> **Code Keywords:** let (3), pass (1), case, (1), continue (1), require (1)
 > **Tools:** aws console (3)
 > **Code Identifiers:** iphone (2)
 > **UI Navigation:** scroll down (1)
@@ -712,9 +712,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), [[Amazon EC2|Ec2]] (5), data (5), api (4), web (2)
 > **Env Vars:** aws (13), ec2 (5), api (4), mfa (1), iam (1)
 > **CLI Commands:** aws (13), ruby (1), python (1), php (1)
-> **Code Keywords:** let (2), lambda (1), function (1), interface (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1), imagine (1), for instance (1)
 > **URLs:** [microsoft.net](https://microsoft.net) (1)
@@ -838,8 +838,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), aws (4), next (4), api (4), management (3)
 > **Env Vars:** aws (4), api (4), kms (3), iam (1), mfa (1)
-> **Code Keywords:** let (5), case, (3), default. (2), type. (1)
 > **CLI Commands:** aws (4), make (1)
 > **Analogies:** imagine (2), for example (2)
 > **UI Navigation:** scroll down (1), select the (1), go to (1)
@@ -946,8 +946,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), [[Amazon EC2|Ec2]] (6), [[Security]] (2), data (1), api (1)
 > **Env Vars:** aws (8), ec2 (6), cpu (3), api (1)
-> **Code Keywords:** let (4), function (2), default. (1), raise (1), pass (1)
 > **CLI Commands:** aws (8), make (1)
 > **Prerequisites:** configure (6), install (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1034,11 +1034,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), feature (2), aws (1), next (1)
 > **Env Vars:** cpu (7), ec2 (7), alarm (5), insufficient_data (4), sns (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** aws (1), find (1)
-> **Code Keywords:** this, (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1182,8 +1182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Security]] (5), [[Forms]] (1), web (1), [[Search]] (1)
 > **Env Vars:** sns (9), aws (5), http (1), sms (1), fifo (1)
-> **Code Keywords:** let (4), case, (4), default. (2), lambda (1), type. (1)
 > **CLI Commands:** aws (5)
 > **Warnings:** note that (4), warning (1)
 > **UI Navigation:** select the (3), toggle (1)
@@ -1322,8 +1322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), web (5), next (5), traffic (2), aws (1)
 > **Env Vars:** cpu (17), ec2 (6), sns (3), aws (1), ssh (1)
-> **Code Keywords:** let (6), case, (4), raise (1), static (1), lambda (1)
 > **UI Navigation:** scroll down (2), navigate to (1), checkbox (1), scroll up (1)
 > **CLI Commands:** make (1), aws (1), find (1), ssh (1)
 > **Versions:** 0.75 (3)
@@ -1422,9 +1422,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (18), aws (11), web (4), [[Automation]] (2), next (2)
 > **Env Vars:** cli (18), aws (9), json (2), gui (1)
 > **CLI Commands:** aws (11), find (1), curl (1), sudo (1)
-> **Code Keywords:** let (5), interface (2), finally, (1), case, (1)
 > **Tools:** terminal (5), command line (3)
 > **Prerequisites:** install (5), configure (2), setup (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1530,10 +1530,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (7), aws (7), [[Windows]] (4), next (4), prompt (2)
 > **Env Vars:** cli (7), aws (5), msi (1), iam (1), use_named_profile (1)
 > **CLI Commands:** aws (7), find (2)
 > **Prerequisites:** install (4), configure (3), set up (1)
-> **Code Keywords:** let (5), interface (1), public (1)
 > **Tools:** command line (2), command prompt (1)
 > **UI Navigation:** open the (2), scroll down (1)
 > **Cross-References:** next chapter (1)
@@ -1542,7 +1542,7 @@ created: 2026-04-29
 
 ### 2. IAM Concepts in AWS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Identity and Access Management
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980)
@@ -1659,9 +1659,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (14), [[Amazon EC2|Ec2]] (3), management (2), [[Security]] (2), [[Active Directory]] (2)
 > **Env Vars:** iam (27), aws (14), ec2 (3)
 > **CLI Commands:** aws (14)
-> **Code Keywords:** function (3), let (2), default, (2)
 > **Definitions:** is an  (3), is a  (2), means that (1)
 > **Analogies:** for example (4), for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1735,10 +1735,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Amazon EC2|Ec2]] (3), [[JSON]] (2), management (1), [[DevOps]] (1)
 > **Env Vars:** iam (7), aws (7), ec2 (3), json (2)
 > **CLI Commands:** aws (7), find (1)
 > **Analogies:** for example (3), similar to (2)
-> **Code Keywords:** finally, (1), default. (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Configure IAM policies
@@ -1906,8 +1906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (12), [[Amazon EC2|Ec2]] (8), [[JSON]] (6), [[Search]] (2), next (2)
 > **Env Vars:** aws (12), iam (9), ec2 (8), json (6), mfa (2)
-> **Code Keywords:** let (10), finally, (2), type, (1), function (1), continue (1)
 > **CLI Commands:** aws (12), make (4)
 > **UI Navigation:** dropdown (2), click on (1), scroll down (1)
 > **Warnings:** warning (3), note that (1)
@@ -1960,8 +1960,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (5), [[Amazon EC2|Ec2]] (2), aws (1), management (1), [[Quality Assurance]] (1)
 > **Env Vars:** iam (6), ec2 (2), aws (1), vpc (1)
-> **Code Keywords:** let (2), require (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
@@ -2043,9 +2043,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), management (2), [[Amazon EC2|Ec2]] (2), [[Engineering]] (1), application (1)
 > **Env Vars:** aws (10), iam (6), ec2 (2)
 > **CLI Commands:** aws (10), find (1)
-> **Code Keywords:** let (2), function (2), case, (1), type, (1), for, (1)
 > **UI Navigation:** checkbox (2), click on (1), dropdown (1), select the (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous video (1)
@@ -2135,9 +2135,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), management (2), [[Slack]] (1)
 > **Env Vars:** iam (5), aws (3), url (2)
 > **CLI Commands:** aws (3), make (1)
-> **Code Keywords:** let (1), require (1), case, (1)
 > **Tools:** aws console (1), slack (1)
 > **UI Navigation:** click on (1), select the (1)
 > **Analogies:** for example (2)
@@ -2275,8 +2275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (12), [[Engineering]] (8), [[CLI]] (4), next (4), web (3)
 > **Env Vars:** aws (12), iam (8), csv (5), cli (4), http (1)
-> **Code Keywords:** let (5), interface (3), case. (2), case, (1), require (1)
 > **CLI Commands:** aws (12)
 > **Tools:** command line (3), powershell (2)
 > **UI Navigation:** checkbox (3), select the (1)
@@ -2343,7 +2343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), case, (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** [[Engineering]] (4), aws (3), web (2), [[Automation]] (1), [[CLI]] (1)
 > **Env Vars:** aws (3), iam (3), cli (1), mfa (1)
 > **CLI Commands:** aws (3), make (1)
 > **Tools:** command line (2), terminal (1), aws console (1)
@@ -2372,9 +2372,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Engineering]] (1), [[Amazon EC2|Ec2]] (1), aws (1), web (1)
 > **Env Vars:** iam (1), ec2 (1), vpc (1), aws (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2440,7 +2440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[Engineering]] (5), [[Amazon EC2|Ec2]] (1), web (1), management (1)
 > **Env Vars:** ec2 (1), iam (1)
 > **Tools:** command line (1), terminal (1)
 > **UI Navigation:** open the (1), click on (1)
@@ -2518,8 +2518,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), aws (4), web (2), [[JSON]] (2), next (2)
 > **Env Vars:** ec2 (5), aws (4), iam (2), json (2), saml (1)
-> **Code Keywords:** case, (3), let (2), lambda (1), finally, (1)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** click on (1), select the (1), scroll down (1)
 > **Warnings:** note that (3)
@@ -2586,9 +2586,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), aws (7), web (2), management (2), next (2)
 > **Env Vars:** ec2 (7), aws (7), iam (1), saml (1), json (1)
 > **CLI Commands:** aws (7)
-> **Code Keywords:** case, (3), let (1)
 > **UI Navigation:** click on (1), select the (1)
 > **Versions:** 2.0 (1)
 > **Prerequisites:** set up (1)
@@ -2663,8 +2663,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), aws (3), [[CLI]] (2), [[Search]] (1), [[Linux]] (1)
 > **Env Vars:** iam (11), ec2 (8), aws (3), ssh (2), cli (2)
-> **Code Keywords:** let (6)
 > **CLI Commands:** aws (3), ssh (2)
 > **Prerequisites:** configure (2), set up (1)
 > **UI Navigation:** select the (1), go to (1)
@@ -2732,9 +2732,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), application (4), aws (3), [[Java]] (2), api (2)
 > **Env Vars:** ec2 (12), aws (3), api (2), iam (2)
 > **CLI Commands:** aws (3)
-> **Code Keywords:** let (3)
 > **Prerequisites:** install (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2884,7 +2884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (4), case, (1), default. (1), case. (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), data (3), [[Linux]] (3), feature (3), web (2)
 > **Env Vars:** ec2 (6), aws (2), cpu (1), json (1), iam (1)
 > **Prerequisites:** set up (2), install (1), configure (1)
 > **CLI Commands:** aws (2), make (1)
@@ -2914,8 +2914,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Linux]] (1), management (1)
 > **Env Vars:** ec2 (3), iam (1), ssm (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -3000,8 +3000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), [[Search]] (3), next (2), management (1), [[Linux]] (1)
 > **Env Vars:** iam (9), ec2 (9), ssm (1)
-> **Code Keywords:** let (5), case, (1), for, (1)
 > **UI Navigation:** go to (2), click on (1), dropdown (1), scroll down (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -3042,9 +3042,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), [[Security]] (2), [[Engineering]] (2), web (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** iam (5), aws (4), sts (4), rds (3), vpc (1)
 > **CLI Commands:** aws (4), mysql (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -3121,9 +3121,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), next (2), [[Security]] (1), [[Engineering]] (1), [[MySQL]] (1)
 > **Env Vars:** rds (9), aws (5), iam (5), sts (1), dba (1)
 > **CLI Commands:** aws (5), make (1), mysql (1)
-> **Code Keywords:** let (2), case, (2), finally, (1), switch (1), require (1)
 > **UI Navigation:** select the (1), go to (1), switch to (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
@@ -3216,8 +3216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (1), [[Amazon EC2|Ec2]] (1), next (1), management (1), [[Engineering]] (1)
 > **Env Vars:** arn (7), iam (2), sts (2), dba (2), aws (1)
-> **Code Keywords:** let (3), case, (3), require (1)
 > **CLI Commands:** make (2), aws (1)
 > **UI Navigation:** dropdown (1), checkbox (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -3296,7 +3296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (10), let (6)
+> **Frameworks & Libraries:** aws (2), management (1), [[Databases]] (1), [[MySQL]] (1)
 > **Env Vars:** rds (6), dba (5), aws (2), iam (2), url (1)
 > **CLI Commands:** aws (2), make (1), mysql (1)
 > **UI Navigation:** select the (2), click on (1), go to (1)
@@ -3324,7 +3324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (3)
+> **Frameworks & Libraries:** aws (1), [[Engineering]] (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
@@ -3423,8 +3423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (4), next (4), aws (3), management (1), [[JSON]] (1)
 > **Env Vars:** arn (4), aws (3), iam (3), mfa (2), sts (1)
-> **Code Keywords:** super (3), let (2), finally, (1), case, (1), default, (1)
 > **CLI Commands:** aws (3), make (2)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Tools:** aws console (1)
@@ -3473,8 +3473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), aws (2), api (1), [[Hardware]] (1), [[Security]] (1)
 > **Env Vars:** iam (5), aws (2), hsm (2), api (1)
-> **Code Keywords:** super (2), delete (2), module (1), let (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
@@ -3620,7 +3620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), super (8), let (4), case, (2), for, (1)
+> **Frameworks & Libraries:** [[Simulation]] (6), data (2), aws (2), management (1), [[Engineering]] (1)
 > **Env Vars:** iam (9), aws (2), dba (1), ec2 (1), vpc (1)
 > **CLI Commands:** make (3), aws (2)
 > **UI Navigation:** dropdown (3), select the (1), open the (1)
@@ -3701,7 +3701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (1), lambda (1)
+> **Frameworks & Libraries:** application (5), [[Security]] (3), aws (3), [[User Management]] (2), management (2)
 > **Env Vars:** aws (3), iam (1), api (1)
 > **CLI Commands:** aws (3), make (1)
 > **Analogies:** such as (2), for example (1)
@@ -3867,8 +3867,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), application (3), [[Search]] (2), aws (1), [[Security]] (1)
 > **Env Vars:** sms (7), ses (4), iam (3), url (3), mfa (2)
-> **Code Keywords:** let (3), case, (3), self (3), type, (1), default, (1)
 > **Warnings:** note that (11), warning (1)
 > **UI Navigation:** checkbox (2), navigate to (1), open the (1), dropdown (1), scroll down (1)
 > **Prerequisites:** configure (4), setup (1)
@@ -3973,7 +3973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1), public (1), else. (1)
+> **Frameworks & Libraries:** next (5), application (3), aws (1)
 > **Env Vars:** iam (4), aws (1)
 > **Prerequisites:** configure (4)
 > **Warnings:** warning (1), note that (1)
@@ -4041,8 +4041,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (13), data (1), [[Software Development]] (1), api (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (2)
 > **Env Vars:** api (1)
@@ -4091,9 +4091,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), [[Active Directory]] (5), [[Security]] (2), business (2), management (2)
 > **Env Vars:** aws (11), iam (3), saml (1)
 > **CLI Commands:** aws (11)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for instance (1), such as (1)
 > **Tools:** aws console (1)
@@ -4197,9 +4197,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), [[Active Directory]] (5), management (5), next (4), application (2)
 > **Env Vars:** aws (11), iam (4)
 > **CLI Commands:** aws (11), find (2)
-> **Code Keywords:** let (4), case, (1), function (1), switch (1)
 > **UI Navigation:** scroll down (2), open the (1), click on (1), dropdown (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Tools:** aws console (2)
@@ -4269,9 +4269,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), web (3), [[Active Directory]] (3), application (2), management (2)
 > **Env Vars:** aws (6), iam (5), url (3), ec2 (2), api (1)
 > **CLI Commands:** aws (6)
-> **Code Keywords:** let (4), finally, (1)
 > **Tools:** aws console (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
@@ -4343,9 +4343,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (15), [[Engineering]] (2), [[Cost Management]] (2), data (1), management (1)
 > **Env Vars:** aws (15), iam (3)
 > **CLI Commands:** aws (15), make (2)
-> **Code Keywords:** let (4), for. (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
@@ -4424,9 +4424,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Engineering]] (2), management (1), [[Cost Management]] (1), [[Security]] (1)
 > **Env Vars:** iam (10), aws (7)
 > **CLI Commands:** aws (7), find (1)
-> **Code Keywords:** let (4), default, (1)
 > **UI Navigation:** click on (1), dropdown (1), checkbox (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** aws console (2)
@@ -4436,7 +4436,7 @@ created: 2026-04-29
 
 ### 3. Multi-Account Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-organizations?u=76281980)
@@ -4481,9 +4481,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Security]] (4), api (1), application (1)
 > **Env Vars:** aws (7), scp (1), api (1)
 > **CLI Commands:** aws (7), make (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4534,11 +4534,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Security]] (3), management (1)
 > **CLI Commands:** aws (5), make (1)
 > **Env Vars:** aws (5), iam (1)
 > **Analogies:** for example (4)
 > **Prerequisites:** set up (1), configure (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4607,10 +4607,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), web (2), management (1), [[Microsoft]] (1), [[Active Directory]] (1)
 > **Env Vars:** aws (10), iam (9), saml (1)
 > **CLI Commands:** aws (10)
 > **Analogies:** similar to (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
@@ -4768,8 +4768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), next (5), [[Multi-factor Authentication]] (1)
 > **Env Vars:** aws (13), url (3), iam (1)
-> **Code Keywords:** let (9), case, (5), finally, (1)
 > **CLI Commands:** aws (13), make (1)
 > **UI Navigation:** click on (3), checkbox (2), scroll down (2)
 > **Definitions:** means that (2)
@@ -4830,8 +4830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), next (1), application (1)
 > **Env Vars:** iam (4), aws (3), url (3), mfa (2), saml (1)
-> **Code Keywords:** let (6)
 > **CLI Commands:** aws (3), make (1)
 > **Warnings:** note that (2)
 > **UI Navigation:** navigate to (1)
@@ -4884,10 +4884,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), database (1), data (1), management (1), web (1)
 > **Env Vars:** aws (9), ram (5), iam (3), vpc (1), api (1)
 > **CLI Commands:** aws (9), make (1)
 > **Analogies:** for example (2), similar to (1)
-> **Code Keywords:** type, (1), interface (1)
 > **Definitions:** is a  (2)
 > **Tools:** command line (1)
 > **Prerequisites:** configure (1)
@@ -5012,7 +5012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (10), let (7), case, (2)
+> **Frameworks & Libraries:** aws (7), next (4), [[Search]] (1), prompt (1)
 > **Env Vars:** aws (7), ram (6)
 > **CLI Commands:** aws (7), make (1)
 > **UI Navigation:** dropdown (3), checkbox (2), click on (1), navigate to (1)
@@ -5024,7 +5024,7 @@ created: 2026-04-29
 
 ### 4. Detection and Response
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AWS Config
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980)
@@ -5113,8 +5113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), [[Amazon EC2|Ec2]] (4), web application (1), application (1), [[Slack]] (1)
 > **Env Vars:** aws (8), ec2 (4), vpc (3), ebs (1), tcp (1)
-> **Code Keywords:** public (7), let (4), raise (1), continue (1)
 > **CLI Commands:** aws (8)
 > **Definitions:** is an  (3), is a  (1)
 > **Tools:** slack (1)
@@ -5203,8 +5203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Amazon EC2|Ec2]] (3), web (2), [[Search]] (2), next (2)
 > **Env Vars:** aws (5), iam (3), ec2 (3), sns (1)
-> **Code Keywords:** public (5), let (2)
 > **CLI Commands:** aws (5), find (1)
 > **Warnings:** note that (2)
 > **Prerequisites:** set up (2)
@@ -5336,7 +5336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), public (6), interface (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[JSON]] (3), aws (3)
 > **Env Vars:** ec2 (4), json (3), aws (3), eip (2), iam (2)
 > **CLI Commands:** aws (3)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
@@ -5414,11 +5414,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), next (2), power (1), data (1), aws (1)
 > **Env Vars:** hipaa (1), aws (1), kms (1)
 > **Exercise Files:** template (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** from. (1)
 > **UI Navigation:** dropdown (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
@@ -5512,9 +5512,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Amazon EC2|Ec2]] (3), data (2), api (2), web (2)
 > **Env Vars:** aws (5), ec2 (3), api (2), vpc (1), dns (1)
 > **CLI Commands:** aws (5), find (1), make (1)
-> **Code Keywords:** let (4), this, (1), raise (1)
 > **Analogies:** for instance (2), for example (2)
 > **Prerequisites:** set up (2), install (1), configure (1)
 > **Definitions:** is a  (2)
@@ -5588,8 +5588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), node (3), [[Amazon EC2|Ec2]] (2), api (2), vpn (2)
 > **Env Vars:** aws (4), ec2 (2), api (2), vpn (2), iam (1)
-> **Code Keywords:** let (6), case, (1), from, (1), if, (1)
 > **CLI Commands:** aws (4), node (3)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -5649,8 +5649,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), feature (1), aws (1), web (1)
 > **Env Vars:** iam (8), aws (1), kms (1), sqs (1)
-> **Code Keywords:** let (2), lambda (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** aws (1)
 > **Warnings:** keep in mind (1)
@@ -5743,7 +5743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (4), case, (3)
+> **Frameworks & Libraries:** aws (1), next (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** iam (4), aws (1), ec2 (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -5784,9 +5784,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), aws (4), [[Generative AI]] (1)
 > **Env Vars:** aws (4), vpc (1)
 > **CLI Commands:** aws (4)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** you'll need (1)
@@ -5887,7 +5887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** api (4), aws (3), [[Search]] (1)
 > **Env Vars:** api (4), aws (3), iam (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** aws (3)
@@ -5949,8 +5949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Amazon EC2|Ec2]] (3), web (3), [[Security]] (3), data (2)
 > **Env Vars:** ec2 (3), aws (1), dns (1), rds (1), mitre (1)
-> **Code Keywords:** let (2), implements (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** for example (1)
@@ -6031,7 +6031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), case, (2), switch (1), while. (1)
+> **Frameworks & Libraries:** web (5), [[Security]] (5), [[Amazon EC2|Ec2]] (2), [[Search]] (1)
 > **Env Vars:** ec2 (2), vpc (1), ami (1)
 > **Ports:** port 80 (1), port 443 (1)
 > **UI Navigation:** switch to (1), scroll down (1)
@@ -6129,7 +6129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2)
+> **Frameworks & Libraries:** [[Security]] (16), web (2), hit (1)
 > **Env Vars:** http (2), https (2)
 > **UI Navigation:** dropdown (2), click on (1)
 > **Ports:** port 80 (2)
@@ -6165,10 +6165,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (17), data (8), aws (2), [[Kubernetes]] (1), web application (1)
 > **Env Vars:** aws (2), vpc (1), eks (1), iam (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** lambda (1)
 > **Speakers:** - [instructor] (1)
 
 #### Understanding IoT Device Defender
@@ -6342,7 +6342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (6), let (4), raise (1), case. (1), switch (1)
+> **Frameworks & Libraries:** [[Security]] (13), [[IoT]] (11), [[Microsoft Defender|Defender]] (10), next (7), [[Internet of Things (IoT)|Internet of things]] (2)
 > **Env Vars:** sns (4), x509 (2), tcp (1)
 > **UI Navigation:** dropdown (3), go to (2), navigate to (1)
 > **Prerequisites:** configure (4), setup (1)
@@ -6406,10 +6406,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), aws (3), cloud (2), [[Databases]] (1), application (1)
 > **Env Vars:** aws (3), edr (3), ec2 (1)
 > **Prerequisites:** configure (3), install (1)
 > **CLI Commands:** aws (3)
-> **Code Keywords:** let (1), finally, (1), from. (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** select the (1)
 > **Analogies:** similar to (1)
@@ -6508,8 +6508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), aws (3), data (3), [[Amazon EC2|Ec2]] (3), [[Security]] (2)
 > **Env Vars:** aws (3), ec2 (3), ebs (1), iam (1)
-> **Code Keywords:** case, (2), let (1), type. (1), private (1), protected (1)
 > **Prerequisites:** configure (5), set up (1)
 > **CLI Commands:** aws (3), make (2)
 > **Warnings:** note that (4)
@@ -6614,7 +6614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (3), protected (1), this, (1), return, (1)
+> **Frameworks & Libraries:** application (4), data (3), [[Linux]] (2), [[Amazon EC2|Ec2]] (2), hit (1)
 > **Env Vars:** edr (2), ec2 (2), eta (1)
 > **Prerequisites:** install (3), configure (1), set up (1)
 > **UI Navigation:** open the (1), navigate to (1)
@@ -6782,7 +6782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), type, (1), from. (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Linux]] (4), [[Security]] (2), data (1), next (1)
 > **Env Vars:** ec2 (4), vpc (3), iam (1), utc (1), edr (1)
 > **Ports:** :30 (1), :35 (1), :22 (1), :15 (1)
 > **UI Navigation:** click on (1), go to (1), open the (1), select the (1)
@@ -6822,7 +6822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), delete (2)
+> **Frameworks & Libraries:** aws (1)
 > **UI Navigation:** select the (1), go to (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -6832,7 +6832,7 @@ created: 2026-04-29
 
 ### 5. Network and Application Protection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Web Application Firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980)
@@ -6911,10 +6911,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), aws (5), web application (4), traffic (2), [[SQL]] (2)
 > **Env Vars:** waf (16), aws (5), acl (4), sql (2), owasp (2)
 > **CLI Commands:** aws (5)
 > **Definitions:** is a  (5)
-> **Code Keywords:** public (1), protected (1), let (1), from, (1)
 > **Analogies:** such as (1), for example (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6997,8 +6997,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), traffic (2), [[Amazon EC2|Ec2]] (2), application (1), dns (1)
 > **Env Vars:** waf (5), ec2 (2), dns (1), aws (1)
-> **Code Keywords:** let (3), public (1), finally, (1)
 > **Warnings:** note that (2)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** aws (1)
@@ -7133,8 +7133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), next (5), aws (4), traffic (4), application (2)
 > **Env Vars:** acl (9), aws (4), waf (2), captcha (1)
-> **Code Keywords:** case, (6), let (2)
 > **CLI Commands:** aws (4)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **UI Navigation:** scroll down (1), scroll up (1), dropdown (1)
@@ -7211,8 +7211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (12), web (7), [[Amazon EC2|Ec2]] (2), hit (1)
 > **Env Vars:** waf (6), acl (4), ec2 (2)
-> **Code Keywords:** let (4)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Analogies:** for example (1)
@@ -7307,9 +7307,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), application (1), web application (1), [[Hardware]] (1), business (1)
 > **Env Vars:** aws (7), waf (3), udp (1), tcp (1), syn (1)
 > **CLI Commands:** aws (7)
-> **Code Keywords:** extends (1), let (1), from. (1), public (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** you'll need (1), configure (1), getting started (1)
 > **API Endpoints:** get  (1), post  (1)
@@ -7371,9 +7371,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), aws (4), management (3), dns (3), web (2)
 > **Env Vars:** aws (4), dns (3), waf (1)
 > **CLI Commands:** aws (4)
-> **Code Keywords:** let (3)
 > **Prerequisites:** set up (1), configure (1), getting started (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -7440,9 +7440,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), aws (4), [[Scalability]] (1), [[Security]] (1), [[Routing]] (1)
 > **Env Vars:** vpc (6), aws (4), htp (1), iam (1)
 > **CLI Commands:** aws (4)
-> **Code Keywords:** pass (1), let (1), abstract (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1), similar to (1)
 > **Warnings:** note that (1), be aware (1)
@@ -7528,9 +7528,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (4), [[Security]] (3), application (2), business (1), aws (1)
 > **Env Vars:** vpn (4), crm (2), aws (1), vpc (1), erp (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** function (1), case. (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
@@ -7568,11 +7568,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (12), aws (3), [[Amazon EC2|Ec2]] (2), traffic (2), data (1)
 > **Env Vars:** dns (12), aws (3), ec2 (2), vpc (1)
 > **CLI Commands:** aws (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** raise (1)
 > **Speakers:** - [instructor] (1)
 
 #### Configuring DNS Firewall
@@ -7706,8 +7706,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[Windows]] (4), [[Google]] (4), traffic (3), next (2)
 > **Env Vars:** vpc (12), dns (8), aws (2), ec2 (1)
-> **Code Keywords:** let (10), case, (3), return. (1)
 > **UI Navigation:** dropdown (2), click on (1), scroll down (1), open the (1)
 > **Prerequisites:** set up (2), setup (1), configure (1)
 > **CLI Commands:** aws (2)
@@ -7717,7 +7717,7 @@ created: 2026-04-29
 
 ### 6. Data Protection and Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Amazon Macie
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980)
@@ -7778,11 +7778,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Security]] (3), aws (2), [[Microsoft Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** aws (2), pdf (1), hipaa (1), api (1), iam (1)
 > **CLI Commands:** find (3), aws (2)
 > **Definitions:** is a  (5)
 > **Analogies:** similar to (3), for example (1), such as (1)
-> **Code Keywords:** protected (1), let (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
@@ -7969,7 +7969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (2), public (2), for. (2), default, (1)
+> **Frameworks & Libraries:** next (7), data (5), aws (2), [[Security]] (1), job description (1)
 > **Env Vars:** kms (5), aws (2)
 > **UI Navigation:** select the (2), open the (2), dropdown (1)
 > **CLI Commands:** aws (2), make (1), find (1)
@@ -8031,7 +8031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), public (1)
+> **Frameworks & Libraries:** aws (2), data (2), [[JSON]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** aws (2), find (2)
 > **Env Vars:** aws (2), json (1)
 > **UI Navigation:** click on (1)
@@ -8102,9 +8102,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), [[Hardware]] (3), [[Security]] (3), data (3), management (2)
 > **Env Vars:** kms (18), aws (7), iam (2), fips (1), ebs (1)
 > **CLI Commands:** aws (8), make (1)
-> **Code Keywords:** let (2), default, (1), require (1)
 > **Analogies:** for example (2)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Definitions:** is a  (1)
@@ -8211,8 +8211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Engineering]] (4), aws (4), management (3), power (1)
 > **Env Vars:** kms (6), aws (4), ebs (1), iam (1)
-> **Code Keywords:** let (5), case, (3), default. (1), delete (1)
 > **CLI Commands:** aws (4), make (4)
 > **Warnings:** note that (3), be careful (1)
 > **UI Navigation:** click on (1), checkbox (1)
@@ -8303,7 +8303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** next (4), [[Engineering]] (2), data (1), api (1)
 > **Env Vars:** kms (4), api (1)
 > **Warnings:** note that (2)
 > **UI Navigation:** go to (1)
@@ -8416,8 +8416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (3), aws (2), [[Windows]] (1), next (1)
 > **Env Vars:** kms (11), aws (2), arn (2)
-> **Code Keywords:** let (7), public (2), private (1), override (1), type, (1)
 > **CLI Commands:** make (4), aws (2), find (2)
 > **UI Navigation:** scroll down (2), dropdown (1)
 > **Tools:** aws console (1)
@@ -8560,8 +8560,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), [[Engineering]] (6), [[Security]] (3), web (2), [[Search]] (1)
 > **Env Vars:** kms (14), ec2 (11), iam (6), arn (3), ssh (1)
-> **Code Keywords:** let (15), case, (1)
 > **UI Navigation:** scroll down (2), click on (1), select the (1), go to (1), open the (1)
 > **CLI Commands:** ssh (1), cat (1)
 > **Warnings:** note that (1), keep in mind (1)
@@ -8654,7 +8654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** data (4), aws (1), [[Engineering]] (1)
 > **Env Vars:** kms (3), aws (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** aws (1)
@@ -8776,7 +8776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (4), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[Engineering]] (2), data (2), web (2), [[Amazon EC2|Ec2]] (2), [[CLI]] (1)
 > **Env Vars:** kms (5), ec2 (2), iam (1), cli (1), aws (1)
 > **UI Navigation:** go to (2), scroll down (1), switch to (1)
 > **Best Practices:** the key is (3)
@@ -8894,8 +8894,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), data (4), [[Amazon EC2|Ec2]] (2), [[Security]] (2), web (1)
 > **Env Vars:** ebs (15), aws (5), kms (3), ec2 (2), ami (1)
-> **Code Keywords:** let (6), public (5), default, (4), default. (2), this. (1)
 > **CLI Commands:** aws (5), make (1)
 > **Warnings:** note that (5)
 > **Definitions:** is a  (3), is an  (1)
@@ -8946,10 +8946,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), management (4), api (1), database (1), [[CLI]] (1)
 > **Env Vars:** kms (8), aws (4), iam (2), api (1), rds (1)
 > **CLI Commands:** aws (4)
 > **Analogies:** similar to (3)
-> **Code Keywords:** default. (1), case, (1)
 > **Prerequisites:** configure (2)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
@@ -9062,8 +9062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[PostgreSQL|Postgres]] (4), next (4), application (2), aws (2)
 > **Env Vars:** rds (5), kms (2), aws (2), api (1)
-> **Code Keywords:** let (3), function (2), case, (1)
 > **CLI Commands:** aws (2), find (1), python (1)
 > **Warnings:** note that (3), watch out (1)
 > **Analogies:** for example (2), similar to (1)
@@ -9220,7 +9220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5), case, (2), lambda (2), require (1)
+> **Frameworks & Libraries:** database (15), [[Amazon EC2|Ec2]] (4), aws (3), [[PostgreSQL|Postgres]] (2), cloud (2)
 > **Env Vars:** ec2 (4), aws (3), iam (3), rds (2), json (1)
 > **Code Identifiers:** dbconnect (2), getsecret (2)
 > **CLI Commands:** aws (3)
@@ -9302,9 +9302,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), aws (2), [[PostgreSQL|Postgres]] (1), [[Engineering]] (1)
 > **Env Vars:** arn (3), aws (2), kms (2)
 > **Warnings:** note that (4)
-> **Code Keywords:** let (3)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** getsecret (1)
@@ -9436,7 +9436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (4), super (1), continue (1), function (1)
+> **Frameworks & Libraries:** database (3), [[PostgreSQL|Postgres]] (2)
 > **UI Navigation:** go to (1), checkbox (1), click on (1)
 > **Warnings:** note that (2), keep in mind (1)
 > **CLI Commands:** find (1)
@@ -9492,9 +9492,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), cloud (3), [[Hardware]] (3), [[Security]] (3), management (3)
 > **Env Vars:** kms (10), aws (4), hsm (1), fips (1), vpc (1)
 > **CLI Commands:** aws (4), node (1)
-> **Code Keywords:** module (2), let (1), public (1), require (1)
 > **Definitions:** is a  (3)
 > **Tools:** command line (1)
 > **Exercise Files:** download the (1)
@@ -9562,7 +9562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), lambda (1), function (1), case. (1)
+> **Frameworks & Libraries:** feature (3), application (2), [[Hybrid Cloud]] (1), [[Security]] (1), aws (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** aws (1), kms (1), iem (1)
 > **Analogies:** for example (2)
@@ -9639,8 +9639,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), web (1), [[Amazon EC2|Ec2]] (1)
 > **Prerequisites:** setup (8), configure (2), install (1)
-> **Code Keywords:** case, (3), let (2), include. (1)
 > **Env Vars:** ec2 (1), iam (1)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** similar to (1)
@@ -9735,7 +9735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), interface (1)
+> **Frameworks & Libraries:** node (3), management (3), [[Amazon EC2|Ec2]] (2), [[Search]] (2), web (1)
 > **UI Navigation:** scroll down (4)
 > **CLI Commands:** node (3)
 > **Env Vars:** ec2 (2), ssm (1)
@@ -9803,7 +9803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), require (1)
+> **Frameworks & Libraries:** web (3), node (2), web application (1), application (1), [[Search]] (1)
 > **CLI Commands:** node (2), aws (1)
 > **Tools:** terminal (2)
 > **Warnings:** note that (2)
@@ -9872,7 +9872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (2), require (1)
+> **Frameworks & Libraries:** web (1), node (1), management (1)
 > **Warnings:** note that (4)
 > **Prerequisites:** install (2), configure (1)
 > **UI Navigation:** scroll down (1), dropdown (1)
@@ -9924,6 +9924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Automation]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** configure (1)
@@ -10006,7 +10007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3), finally, (1), case, (1), default. (1)
+> **Frameworks & Libraries:** database (4), aws (3), [[Amazon EC2|Ec2]] (2), [[Search]] (1), application (1)
 > **Env Vars:** aws (3), kms (3), ec2 (2)
 > **CLI Commands:** aws (3)
 > **Analogies:** imagine (1), similar to (1), for example (1)
@@ -10074,7 +10075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (14), public (3), self (1), let (1)
+> **Frameworks & Libraries:** aws (3), dns (3), [[Security]] (2), api (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** aws (3), dns (3), api (2), ec2 (2), ssl (1)
 > **CLI Commands:** aws (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -10166,7 +10167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), let (1), public (1)
+> **Frameworks & Libraries:** aws (2), management (2), web (1), [[Search]] (1), [[Engineering]] (1)
 > **Env Vars:** aws (2), rsa (1), sha256 (1)
 > **Warnings:** note that (3)
 > **Prerequisites:** install (3)
@@ -10223,7 +10224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), case, (2), let (1), type. (1), public (1)
+> **Frameworks & Libraries:** aws (2), next (1), [[Algorithms]] (1)
 > **Env Vars:** aws (2), rsa (1), acm (1)
 > **CLI Commands:** aws (2)
 > **UI Navigation:** select the (1), scroll down (1)
@@ -10344,7 +10345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (11), let (6), finally, (1), case, (1), switch (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), web (4), application (3), dns (2), traffic (1)
 > **Env Vars:** https (6), ec2 (4), dns (2), http (2), acm (2)
 > **UI Navigation:** scroll down (3), dropdown (2), navigate to (1), open the (1)
 > **Prerequisites:** install (4), set up (1)
@@ -10420,9 +10421,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Cryptography]] (11), [[Security]] (4), aws (4), [[Hardware]] (4)
 > **Env Vars:** pci (8), dss (8), aws (4), cvv (1), fips (1)
 > **CLI Commands:** aws (4)
-> **Code Keywords:** require (1), module (1)
 > **Definitions:** is an  (1), known as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -10461,9 +10462,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** kms (5), iam (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -10580,8 +10581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[JSON]] (3), [[Search]] (2), management (1), prompt (1)
 > **Env Vars:** kms (5), iam (4), arn (3), json (3)
-> **Code Keywords:** let (3), case, (3), default, (1), delete (1), switch (1)
 > **UI Navigation:** navigate to (1), select the (1), checkbox (1), open the (1), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
@@ -10591,7 +10592,7 @@ created: 2026-04-29
 
 ### 7. S3 Access Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring S3 management options
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980)
@@ -10678,8 +10679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), data (4), [[Security]] (3), web (2), management (2)
 > **Env Vars:** aws (10), vpc (4), iam (3), cli (1), ec2 (1)
-> **Code Keywords:** public (5), private (4), let (3), protected (1)
 > **CLI Commands:** aws (10), make (2)
 > **Analogies:** such as (1), analogous to (1), imagine (1)
 > **Warnings:** note that (1)
@@ -10740,8 +10741,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), traffic (3), [[Amazon EC2|Ec2]] (2), [[CLI]] (1), cloud (1)
 > **Env Vars:** aws (9), vpc (6), https (2), ec2 (2), cli (1)
-> **Code Keywords:** public (6), private (6), interface (2), let (1)
 > **CLI Commands:** aws (9)
 > **Prerequisites:** install (2), configure (2)
 > **Definitions:** is a  (2)
@@ -10859,7 +10860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (10), interface (9), let (7), case, (3), public (1)
+> **Frameworks & Libraries:** aws (5), cloud (3), [[Search]] (3), traffic (2), express (2)
 > **Env Vars:** vpc (10), aws (5)
 > **UI Navigation:** navigate to (2), click on (2), go to (1), scroll down (1)
 > **CLI Commands:** aws (5)
@@ -10929,10 +10930,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), aws (2), leadership (2), management (1), [[Security]] (1)
 > **Env Vars:** iam (8), ec2 (4), ceo (3), aws (2), cli (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** lambda (1), let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
@@ -11143,8 +11144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), management (4), [[Search]] (3), next (3), web (2)
 > **UI Navigation:** click on (5), dropdown (3), scroll down (3), checkbox (3), open the (1)
-> **Code Keywords:** let (8), case, (3), finally, (1), delete (1)
 > **Env Vars:** arn (4), iam (2), json (2), mfa (2), vpn (1)
 > **Warnings:** note that (3)
 > **Definitions:** is a  (2)
@@ -11231,7 +11232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (4), case, (1), switch (1)
+> **Frameworks & Libraries:** web (2), data (2), business (1), aws (1)
 > **UI Navigation:** navigate to (3), click on (2), scroll down (1)
 > **Env Vars:** iam (2), url (2), aws (1)
 > **CLI Commands:** aws (1)
@@ -11342,8 +11343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), business (3), aws (2), [[Git]] (1), management (1)
 > **Env Vars:** iam (9), ec2 (6), aws (2), iem (1)
-> **Code Keywords:** let (8), delete (2)
 > **CLI Commands:** aws (2), git (1), cat (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
@@ -11491,8 +11492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Security]] (3), [[JSON]] (2), feature (1), management (1)
 > **Env Vars:** arn (10), aws (5), iam (4), json (2), ec2 (1)
-> **Code Keywords:** let (4), case, (2), switch (2), case. (1), public (1)
 > **CLI Commands:** aws (5), nginx (1), find (1)
 > **UI Navigation:** go to (1), scroll down (1), select the (1)
 > **Warnings:** note that (2)
@@ -11577,7 +11578,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), finally, (1), this, (1)
 > **Env Vars:** arn (2), iam (1), mfa (1)
 > **CLI Commands:** make (1)
 > **Tools:** command line (1)
@@ -11686,7 +11686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (5), default, (1), private (1), switch (1)
+> **Frameworks & Libraries:** aws (3), web (2)
 > **Env Vars:** acl (4), aws (3), url (3), iam (1)
 > **CLI Commands:** aws (3), make (3)
 > **UI Navigation:** click on (2), checkbox (2), scroll up (1), open the (1)
@@ -11822,7 +11822,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (25), let (5), override (1)
 > **UI Navigation:** checkbox (2), select the (2), scroll down (2), click on (1), navigate to (1)
 > **Warnings:** note that (4), warning (4)
 > **Env Vars:** acl (3)
@@ -11830,6 +11829,7 @@ created: 2026-04-29
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
+> **Speakers:** - [instructor] (1)
 
 #### S3 public access best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-public-access-best-practices?u=76281980)
@@ -11910,7 +11910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (8), let (4), private (2), switch (1), case, (1)
+> **Frameworks & Libraries:** aws (2)
 > **UI Navigation:** click on (3), scroll down (1), select the (1), open the (1)
 > **Env Vars:** aws (2), acl (2), url (1)
 > **CLI Commands:** aws (2), make (1)
@@ -12097,8 +12097,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), next (3), [[Security]] (2), [[Microsoft]] (1), [[Search]] (1)
 > **Env Vars:** url (21), aws (13), iam (2), sso (1)
-> **Code Keywords:** let (7), case, (5), private (3), switch (1)
 > **CLI Commands:** aws (13)
 > **Tools:** visual studio (10)
 > **UI Navigation:** go to (5), click on (2), open the (1), scroll down (1)
@@ -12175,8 +12175,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Security]] (2), application (2), [[System Configuration]] (1), web (1)
 > **Env Vars:** iam (4), aws (1)
-> **Code Keywords:** continue (1), let (1), interface (1)
 > **CLI Commands:** find (1), aws (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (1), you'll need (1)
@@ -12267,7 +12267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (6), function (4), for, (1)
+> **Frameworks & Libraries:** data (3), traffic (2), application (2), [[Security]] (1), power (1)
 > **Env Vars:** vpc (7)
 > **Prerequisites:** setup (2), configure (1)
 > **Definitions:** is a  (2)
@@ -12428,7 +12428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), switch (2), case, (1), private (1)
+> **Frameworks & Libraries:** business (4), aws (2), management (1), web (1), cloud (1)
 > **UI Navigation:** click on (6), go to (3), scroll down (1), switch to (1), open the (1)
 > **Env Vars:** aws (2), arn (2), vpc (2), iam (1)
 > **CLI Commands:** aws (2)
@@ -12546,7 +12546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), switch (1), case, (1), interface (1)
+> **Frameworks & Libraries:** data (3), management (2), [[Security]] (1), feature (1), api (1)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (2)
@@ -12630,7 +12630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), lambda (2), let (1), default. (1), delete (1)
+> **Frameworks & Libraries:** data (10), [[Security]] (6), aws (3), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Env Vars:** aws (3), iam (2), kms (1), api (1), vpc (1)
 > **CLI Commands:** aws (3), make (1)
 > **Prerequisites:** set up (2)
@@ -12871,8 +12871,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), management (2), next (1)
 > **Env Vars:** kms (15), arn (6), iam (2), url (1)
-> **Code Keywords:** let (7), case, (3), switch (1), for. (1), class. (1)
 > **UI Navigation:** navigate to (1), toggle (1), scroll down (1), switch to (1)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
@@ -12989,7 +12989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (1), case, (1), case. (1)
+> **Frameworks & Libraries:** data (2), management (1)
 > **UI Navigation:** navigate to (1), checkbox (1), select the (1)
 > **Analogies:** just like (1), for example (1)
 > **Prerequisites:** setup (1), configure (1)
@@ -13001,7 +13001,7 @@ created: 2026-04-29
 
 ### 8. Security Audits in AWS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AWS Security Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980)
@@ -13060,11 +13060,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (21), aws (10), management (2), [[Orchestration]] (1), [[Automation]] (1)
 > **CLI Commands:** aws (10), make (3)
 > **Env Vars:** aws (10), iam (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** you'll need (3), set up (1)
-> **Code Keywords:** from, (1), let (1), for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using AWS Security Hub
@@ -13156,8 +13156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (27), aws (5), web (1), [[Search]] (1), [[Hardware]] (1)
 > **Env Vars:** aws (5), cis (3), mfa (2), arn (2), ec2 (1)
-> **Code Keywords:** let (3), switch (2), continue (1), case, (1)
 > **CLI Commands:** aws (5)
 > **UI Navigation:** navigate to (1), go to (1), switch to (1), click on (1)
 > **Analogies:** for example (2)
@@ -13312,7 +13312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (4), case, (2), interface (1), while, (1)
+> **Frameworks & Libraries:** web (6), aws (3), [[Security]] (1), functional (1), [[CLI]] (1)
 > **Env Vars:** iam (3), csv (3), aws (3), cli (1)
 > **CLI Commands:** aws (3), make (1)
 > **Warnings:** note that (3), warning (1)
@@ -13430,9 +13430,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (16), data (5), business (5), [[Search]] (2), cloud (1)
 > **Env Vars:** aws (16), nda (4), iam (1), soc (1)
 > **CLI Commands:** aws (16), make (1)
-> **Code Keywords:** let (4), protected (1), delete (1)
 > **UI Navigation:** checkbox (1), select the (1)
 > **Exercise Files:** download the (2)
 > **Analogies:** for example (1), just like (1)
@@ -13560,10 +13560,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), [[Security]] (5), [[Amazon EC2|Ec2]] (4), [[Operational Excellence]] (3), database (3)
 > **Env Vars:** aws (11), cpu (4), ec2 (4), iam (3), rds (3)
 > **CLI Commands:** aws (11), make (2), ssh (1)
 > **Analogies:** for example (8), such as (2), similar to (1)
-> **Code Keywords:** let (3), case, (2), protected (1), private (1)
 > **Definitions:** is a  (1), known as (1)
 > **Best Practices:** best practice (1)
 > **Prerequisites:** configure (1)
@@ -13690,7 +13690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (1), this, (1), case, (1), private (1)
+> **Frameworks & Libraries:** [[Security]] (18), web (3), [[Search]] (2), [[Amazon EC2|Ec2]] (2), aws (2)
 > **Env Vars:** vpc (3), ec2 (2), aws (2), ssh (1)
 > **CLI Commands:** aws (2), make (2), ssh (1)
 > **UI Navigation:** navigate to (1), scroll up (1), click on (1)
@@ -13757,6 +13757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), data (5), [[Security]] (3), business (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** aws (9), ec2 (2), pci (1), dss (1), vpc (1)
 > **CLI Commands:** aws (9)
 > **Definitions:** known as (2), is a  (1)
@@ -13917,7 +13918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (2), while. (1), case. (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (13), [[Amazon EC2|Ec2]] (6), aws (3), data (3), hit (2)
 > **Env Vars:** ec2 (6), aws (3), json (2), pci (1), dss (1)
 > **Prerequisites:** set up (4), setup (1)
 > **CLI Commands:** aws (3)
@@ -14001,6 +14002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (14), [[Security]] (8), data (6), cloud (5), management (2)
 > **Env Vars:** aws (14), iam (2), pci (1), dss (1), gdpr (1)
 > **CLI Commands:** aws (14), make (2)
 > **Best Practices:** don't forget (2), make sure to (1)
@@ -14010,7 +14012,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/next-steps?u=76281980)
@@ -14067,9 +14069,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), [[Security]] (7), [[Debugging]] (1), data (1), management (1)
 > **Env Vars:** aws (10), iam (1)
 > **CLI Commands:** aws (10)
-> **Code Keywords:** continue (1)
 > **Documentation:** stack overflow (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)

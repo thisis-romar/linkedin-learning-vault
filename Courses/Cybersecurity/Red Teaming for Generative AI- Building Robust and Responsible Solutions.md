@@ -25,7 +25,7 @@ tags:
   - topic/security
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Red%20Teaming%20for%20Generative%20AI-%20Building%20Robust%20and%20Responsible%20Solutions.md)
@@ -44,30 +44,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Leverage red teaming to build generative AI solutions
+  - [Leverage red teaming to build generative AI solutions](#leverage-red-teaming-to-build-generative-ai-solutions)
 - [**1. Introduction to Red Teaming for Generative AI**](#1-introduction-to-red-teaming-for-generative-ai) (3 videos)
-  - Why red teaming for GenAI
-  - Understanding common attack vectors in generative AI systems
-  - Recognizing vulnerability implications
+  - [Why red teaming for GenAI](#why-red-teaming-for-genai)
+  - [Understanding common attack vectors in generative AI systems](#understanding-common-attack-vectors-in-generative-ai-systems)
+  - [Recognizing vulnerability implications](#recognizing-vulnerability-implications)
 - [**2. Red Teaming Techniques for GenAI**](#2-red-teaming-techniques-for-genai) (2 videos)
-  - Explore red teaming options for generative AI
-  - Tools and resources for red teaming
+  - [Explore red teaming options for generative AI](#explore-red-teaming-options-for-generative-ai)
+  - [Tools and resources for red teaming](#tools-and-resources-for-red-teaming)
 - [**3. Red Teaming Process**](#3-red-teaming-process) (4 videos)
-  - Building a red team
-  - Planning the test
-  - Conducting the test
-  - Reporting on the test
+  - [Building a red team](#building-a-red-team)
+  - [Planning the test](#planning-the-test)
+  - [Conducting the test](#conducting-the-test)
+  - [Reporting on the test](#reporting-on-the-test)
 - [**4. Mitigating Risks and Building Responsible AI**](#4-mitigating-risks-and-building-responsible-ai) (4 videos)
-  - Leveraging best practices for enhancing robustness
-  - Including security measures into the development lifecycle
-  - Leveraging continuous learning
-  - Understanding ethical implications of red teaming
+  - [Leveraging best practices for enhancing robustness](#leveraging-best-practices-for-enhancing-robustness)
+  - [Including security measures into the development lifecycle](#including-security-measures-into-the-development-lifecycle)
+  - [Leveraging continuous learning](#leveraging-continuous-learning)
+  - [Understanding ethical implications of red teaming](#understanding-ethical-implications-of-red-teaming)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage red teaming to build generative AI solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leverage-red-teaming-to-build-generative-ai-solutions?u=76281980)
@@ -92,8 +92,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), ai (2), business (2), [[Red Teaming]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ewow (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - we (1)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Red Teaming for Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why red teaming for GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/why-red-teaming-for-gen-ai?u=76281980)
@@ -136,8 +136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Red Teaming]] (5), [[Generative AI]] (3), data (3), [[Security]] (3), ai (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** static (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - generative (1)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (7), data (4), [[Generative AI]] (3), prompt (3), [[Security]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - to (1)
@@ -219,13 +219,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Security]] (2), [[Privacy]] (2), data (2), application (1)
 > **Analogies:** for example (1)
 > **Speakers:** - recognizing (1)
 
 
 ### 2. Red Teaming Techniques for GenAI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore red teaming options for generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/explore-red-teaming-options-for-generative-ai?u=76281980)
@@ -256,6 +257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Red Teaming]] (6), data (3), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -307,16 +309,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Red Teaming]] (3), [[Responsible AI]] (3), [[Security]] (2), [[Generative AI]] (1)
 > **Env Vars:** ibm (2), art (1), zap (1), afl (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - red (1)
 
 
 ### 3. Red Teaming Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a red team
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/building-a-red-team?u=76281980)
@@ -367,8 +369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), ai (3), [[Cybersecurity]] (2), [[Red Teaming]] (1), prompt (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
-> **Code Keywords:** require (2), let (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -424,10 +426,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Red Teaming]] (4), ai (2), application (2), product (2), [[Security]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** template (2)
 > **Best Practices:** make sure to (1), best practice (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - red (1)
 
@@ -468,7 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (4), [[Red Teaming]] (2), [[Cybersecurity]] (1)
 > **Speakers:** - conducting (1)
 
 #### Reporting on the test
@@ -520,6 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Red Teaming]] (3), data (2), [[Generative AI]] (1), [[Security]] (1)
 > **Best Practices:** it's best to (1)
 > **Warnings:** warning (1)
 > **Prerequisites:** set up (1)
@@ -528,7 +531,7 @@ created: 2026-04-29
 
 ### 4. Mitigating Risks and Building Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging best practices for enhancing robustness
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leveraging-best-practices-for-enhancing-robustness?u=76281980)
@@ -563,6 +566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Red Teaming]] (3), ai (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
@@ -592,6 +596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Red Teaming]] (6), ai (5), [[Security]] (2), data (1)
 > **Speakers:** - as (1)
 
 #### Leveraging continuous learning
@@ -629,8 +634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Red Teaming]] (4), data (1), chatbot (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
@@ -675,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** [[Red Teaming]] (9), [[Security]] (3), data (2), [[Privacy]] (2), ai (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - while (1)
@@ -683,7 +688,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980)
@@ -702,6 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Red Teaming]] (2), [[LinkedIn]] (2), next (1), [[Cybersecurity]] (1)
 > **Speakers:** - secure (1)
 
 

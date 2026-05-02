@@ -27,7 +27,7 @@ tags:
   - skill/devops
   - skill/devsecops
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Devops%20Foundations%20Devsecops.md)
@@ -46,35 +46,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to the DevSecOps course
-  - What you should know
+  - [Introduction to the DevSecOps course](#introduction-to-the-devsecops-course)
+  - [What you should know](#what-you-should-know)
 - [**1. DevOps Basics**](#1-devops-basics) (4 videos)
-  - What is DevOps?
-  - Security is different in a DevOps world
-  - Introduction to DevSecOps
-  - Shifting security to the left
+  - [What is DevOps?](#what-is-devops)
+  - [Security is different in a DevOps world](#security-is-different-in-a-devops-world)
+  - [Introduction to DevSecOps](#introduction-to-devsecops)
+  - [Shifting security to the left](#shifting-security-to-the-left)
 - [**2. Getting Started with DevSecOps**](#2-getting-started-with-devsecops) (11 videos)
-  - Cloud and DevOps
-  - APIs are essential
-  - Finding the right toolset
-  - Continuous integration and delivery
-  - Containers and DevOps
-  - Securing infrastructure as code in the pipeline
-  - Security as code
-  - Application security in DevSecOps
-  - Leverage your existing processes
-  - The Ops in DevSecOps
-  - Continuous improvement and feedback
+  - [Cloud and DevOps](#cloud-and-devops)
+  - [APIs are essential](#apis-are-essential)
+  - [Finding the right toolset](#finding-the-right-toolset)
+  - [Continuous integration and delivery](#continuous-integration-and-delivery)
+  - [Containers and DevOps](#containers-and-devops)
+  - [Securing infrastructure as code in the pipeline](#securing-infrastructure-as-code-in-the-pipeline)
+  - [Security as code](#security-as-code)
+  - [Application security in DevSecOps](#application-security-in-devsecops)
+  - [Leverage your existing processes](#leverage-your-existing-processes)
+  - [The Ops in DevSecOps](#the-ops-in-devsecops)
+  - [Continuous improvement and feedback](#continuous-improvement-and-feedback)
 - [**3. Starting Your DevSecOps Journey**](#3-starting-your-devsecops-journey) (3 videos)
-  - Open source DevSecOps tools
-  - Helpful DevSecOps resources
-  - Real-life example
+  - [Open source DevSecOps tools](#open-source-devsecops-tools)
+  - [Helpful DevSecOps resources](#helpful-devsecops-resources)
+  - [Real-life example](#real-life-example)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Grow and expand
+  - [Grow and expand](#grow-and-expand)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the DevSecOps course
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980)
@@ -105,7 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (8), data (3), [[DevSecOps]] (2), [[DevOps]] (2), application (1)
 > **Speakers:** - [tim (1)
 
 #### What you should know
@@ -119,13 +119,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), application (1), [[Software Development]] (1), [[DevOps]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 1. DevOps Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980)
@@ -258,9 +259,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (13), [[Agile Development|Agile]] (8), teams (6), application (6), business (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 
 #### Security is different in a DevOps world
@@ -344,7 +345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), static (1)
+> **Frameworks & Libraries:** [[Security]] (19), [[DevOps]] (8), next (4), teams (4), [[DevSecOps]] (2)
 > **Cross-References:** in the next (2), next video (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -436,8 +437,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), [[DevOps]] (7), [[DevSecOps]] (6), [[Automation]] (6), teams (4)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (3), this, (1), static (1), for. (1)
 > **Env Vars:** sql (2), pdf (1), ide (1)
 > **Tools:** jira (1), slack (1)
 > **Analogies:** just like (1)
@@ -544,7 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (15), application (5), [[DevOps]] (4), [[DevSecOps]] (4), teams (1)
 > **Cross-References:** we talked about (2), later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -553,7 +554,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with DevSecOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud and DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980)
@@ -616,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), public (1), private (1)
+> **Frameworks & Libraries:** cloud (19), [[DevOps]] (8), [[Agile Development|Agile]] (3), business (3), [[DevSecOps]] (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -682,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), for, (1), static (1), function (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (6), application (5), api (4), [[DevOps]] (3), [[Security]] (3)
 > **Env Vars:** api (4), dast (1), jira (1)
 > **Definitions:** is a  (2), is an  (1), stands for (1)
 > **Tools:** command line (2), jira (1)
@@ -860,9 +861,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), application (11), data (4), [[DevSecOps]] (3), [[DevOps]] (3)
 > **CLI Commands:** make (14), find (3), node (1), docker (1)
 > **Env Vars:** iast (4), net (2), sast (1), cicd (1), pmd (1)
-> **Code Keywords:** throw (1), let (1), while, (1), static (1)
 > **Definitions:** is a  (2), known as (2)
 > **File Paths:** node.js (1)
 > **Exercise Files:** source code (1)
@@ -926,8 +927,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (7), ci (6), [[Continuous Integration (CI)|Continuous integration]] (4), application (3), [[DevOps]] (2)
 > **CLI Commands:** cd (7), find (1)
-> **Code Keywords:** pass (2), this, (1), static (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
@@ -1008,9 +1009,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), [[Security]] (8), [[Automation]] (4), [[DevSecOps]] (3), teams (2)
 > **CLI Commands:** make (3), apache (1), docker (1)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** let (1), for . (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - one (1)
@@ -1102,11 +1103,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (8), [[DevOps]] (5), [[Terraform]] (1), aws (1), [[Security]] (1)
 > **CLI Commands:** terraform (1), aws (1), make (1)
 > **Exercise Files:** source code (3)
 > **Definitions:** stands for (1), is an  (1), is a  (1)
 > **Analogies:** just like (3)
-> **Code Keywords:** static (2)
 > **Env Vars:** aws (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -1178,9 +1179,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[DevOps]] (2), [[Automation]] (2), api (1), [[DevSecOps]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** gui (1), api (1), hipaa (1), sox (1)
-> **Code Keywords:** let (1), static (1), finally, (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1269,7 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (16), [[DevOps]] (6), application (5), teams (5), [[DevSecOps]] (4)
 > **Env Vars:** pdf (1), jira (1)
 > **Tools:** jira (1), slack (1)
 > **Best Practices:** the key is (2)
@@ -1413,10 +1414,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevSecOps]] (12), teams (11), [[Security]] (10), application (7), [[Jira]] (3)
 > **CLI Commands:** make (7), find (3), cd (2), ansible (1)
 > **Env Vars:** iast (5), net (2), pdf (1), zap (1), tfs (1)
 > **Tools:** jira (3), bitbucket (1)
-> **Code Keywords:** let (1), finally, (1), static (1)
 > **Warnings:** keep in mind (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1476,8 +1477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Automation]] (6), [[DevSecOps]] (5), cloud (5), [[DevOps]] (4)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nesis (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -1531,9 +1532,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (7), [[DevSecOps]] (5), next (1), product (1), [[Security]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** static (2)
 > **Cross-References:** go back to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1541,7 +1542,7 @@ created: 2026-04-29
 
 ### 3. Starting Your DevSecOps Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Open source DevSecOps tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980)
@@ -1602,9 +1603,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Java]] (2), [[Jenkins]] (2), [[Automation]] (2), application (2)
 > **Env Vars:** sqlmap (2), sql (2), owap (1), cve (1), ide (1)
 > **CLI Commands:** find (4), docker (1)
-> **Code Keywords:** static (1), finally, (1), public (1)
 > **Tools:** github (2)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (1)
@@ -1651,7 +1652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (7), [[DevOps]] (3), [[GitHub]] (1), [[Security]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -1772,10 +1773,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[JSON]] (3), next (2), [[GitHub]] (2), database (2)
 > **CLI Commands:** docker (9), brew (3), make (3)
 > **Prerequisites:** install (4), set up (2), prerequisite (1)
 > **Env Vars:** json (3), osp (1), cve (1)
-> **Code Keywords:** switch (2), this, (1), let (1)
 > **Tools:** command line (2), github (2)
 > **Definitions:** is a  (2), is an  (2)
 > **UI Navigation:** go to (2), click on (1)
@@ -1784,7 +1785,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Grow and expand
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980)
@@ -1859,7 +1860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), try. (1), public (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (8), [[DevSecOps]] (6), teams (6), next (3), [[DevOps]] (2)
 > **CLI Commands:** make (1), node (1), find (1)
 > **Env Vars:** nacl (1), cicd (1), rasp (1)
 > **Exercise Files:** source code (2)

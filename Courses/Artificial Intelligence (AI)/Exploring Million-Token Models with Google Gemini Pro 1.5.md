@@ -33,7 +33,7 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Exploring%20Million-Token%20Models%20with%20Google%20Gemini%20Pro%201.5.md)
@@ -52,16 +52,16 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The future of AI is huge
+  - [The future of AI is huge](#the-future-of-ai-is-huge)
 - [**1. One Million Tokens with Google Gemini Pro 1.5**](#1-one-million-tokens-with-google-gemini-pro-15) (4 videos)
-  - Google Gemini Pro and the Gemini Family
-  - Why larger context sizes make a difference
-  - Using Google AI Studio for testing large context windows
-  - Exploring large context assets: Audio, Video, Text
+  - [Google Gemini Pro and the Gemini Family](#google-gemini-pro-and-the-gemini-family)
+  - [Why larger context sizes make a difference](#why-larger-context-sizes-make-a-difference)
+  - [Using Google AI Studio for testing large context windows](#using-google-ai-studio-for-testing-large-context-windows)
+  - [Exploring large context assets: Audio, Video, Text](#exploring-large-context-assets-audio-video-text)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of AI is huge
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980)
@@ -86,7 +86,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Google Gemini]] (1), [[Gemini]] (1)
 > **CLI Commands:** find (1)
 > **Versions:** 1.5 (1)
 > **Definitions:** in other words (1)
@@ -95,7 +95,7 @@ created: 2026-04-29
 
 ### 1. One Million Tokens with Google Gemini Pro 1.5
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Gemini Pro and the Gemini Family
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980)
@@ -180,8 +180,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (17), [[Gemini]] (5), ai (3), [[Google Gemini]] (2), api (2)
 > **Definitions:** is a  (4), means that (1), refers to (1)
-> **Code Keywords:** let (3), default, (1), default. (1)
 > **Versions:** 1.0 (2), 1.5 (2), version 1 (1)
 > **Env Vars:** api (2), gpt (1)
 > **CLI Commands:** python (1)
@@ -256,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Gemini]] (7), [[Tokens]] (6), next (3), data (2), [[Neural Networks]] (1)
 > **Env Vars:** gpt (3), motb (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -374,7 +374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (3), finally, (1), type. (1), type, (1)
+> **Frameworks & Libraries:** prompt (15), [[Gemini]] (6), ai (4), api (4), [[Google]] (2)
 > **Versions:** 1.5 (4), 1.0 (2), version 1 (1)
 > **Env Vars:** api (4), llm (1), csv (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
@@ -476,7 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), for. (1)
+> **Frameworks & Libraries:** prompt (3), [[Search]] (3), [[Gemini]] (2), [[Google Drive]] (2), feature (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** pdf (1)
 > **Versions:** 1.5 (1)

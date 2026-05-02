@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20AI.md)
@@ -54,26 +54,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Cybersecurity and AI
+  - [Cybersecurity and AI](#cybersecurity-and-ai)
 - [**1. Understanding AI and AI-Enhanced Threats**](#1-understanding-ai-and-ai-enhanced-threats) (4 videos)
-  - AI's impact on cybersecurity
-  - Identifying AI-enhanced phishing attacks
-  - Deepfakes and misinformation
-  - Spotting other AI-enhanced threats
+  - [AI's impact on cybersecurity](#ais-impact-on-cybersecurity)
+  - [Identifying AI-enhanced phishing attacks](#identifying-ai-enhanced-phishing-attacks)
+  - [Deepfakes and misinformation](#deepfakes-and-misinformation)
+  - [Spotting other AI-enhanced threats](#spotting-other-ai-enhanced-threats)
 - [**2. Ethics, Privacy, and Responsible Use**](#2-ethics-privacy-and-responsible-use) (3 videos)
-  - Summarizing data privacy, compliance, and AI
-  - Using AI ethically and responsibly
-  - Considering the fine line companies walk with AI
+  - [Summarizing data privacy, compliance, and AI](#summarizing-data-privacy-compliance-and-ai)
+  - [Using AI ethically and responsibly](#using-ai-ethically-and-responsibly)
+  - [Considering the fine line companies walk with AI](#considering-the-fine-line-companies-walk-with-ai)
 - [**3. Defending against AI-Enhanced Threats**](#3-defending-against-ai-enhanced-threats) (3 videos)
-  - Implementing AI tool usage
-  - Developing a security-focused approach
-  - Reporting suspicious AI content
+  - [Implementing AI tool usage](#implementing-ai-tool-usage)
+  - [Developing a security-focused approach](#developing-a-security-focused-approach)
+  - [Reporting suspicious AI content](#reporting-suspicious-ai-content)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980)
@@ -100,13 +100,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (7), [[Cybersecurity]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Phishing]] (1)
 > **Speakers:** - do (1)
 
 
 ### 1. Understanding AI and AI-Enhanced Threats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI's impact on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (3), let (1), private (1), catch. (1)
+> **Frameworks & Libraries:** ai (11), [[Security]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Cybersecurity]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - let (1)
@@ -269,7 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), finally, (1)
+> **Frameworks & Libraries:** ai (10), [[Phishing]] (6), generic (1), game (1), next (1)
 > **Analogies:** think of it like (1), just like (1), picture (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - in (1)
@@ -347,6 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Word|Word]] (1), [[Phishing]] (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -438,7 +439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), pass (1)
+> **Frameworks & Libraries:** ai (14), [[Security]] (1), [[Cybersecurity]] (1), next (1), [[Phishing]] (1)
 > **Cross-References:** in the last (1), we talked about (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
@@ -448,7 +449,7 @@ created: 2026-04-29
 
 ### 2. Ethics, Privacy, and Responsible Use
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing data privacy, compliance, and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980)
@@ -555,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2)
+> **Frameworks & Libraries:** ai (15), data (15), [[Privacy]] (7), [[Security]] (3), [[Accountability]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - all (1)
@@ -655,7 +656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2)
+> **Frameworks & Libraries:** ai (23), data (7), [[Privacy]] (2), [[Accountability]] (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -736,7 +737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), public (1), protected (1)
+> **Frameworks & Libraries:** ai (13), [[Security]] (6), data (3), [[Ethics]] (2), power (1)
 > **Analogies:** just like (1), kind of like (1), it's like (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** roi (1)
@@ -745,7 +746,7 @@ created: 2026-04-29
 
 ### 3. Defending against AI-Enhanced Threats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing AI tool usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980)
@@ -830,8 +831,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (22), data (7), [[Security]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Content Creation]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1), this, (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - we (1)
@@ -957,7 +958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), break, (1), this, (1)
+> **Frameworks & Libraries:** ai (9), [[Security]] (7), teams (2), hr (2), application (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1058,7 +1059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), for, (1), finally, (1)
+> **Frameworks & Libraries:** ai (7), [[Security]] (2), [[Google]] (1), [[Gemini]] (1), [[Search]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** stands for (1), in other words (1)
 > **Env Vars:** sift (1)
@@ -1067,7 +1068,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980)
@@ -1128,7 +1129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), function (1)
+> **Frameworks & Libraries:** ai (5), [[Security]] (3), [[Cybersecurity]] (3), next (1), [[Phishing]] (1)
 > **URLs:** [stephandsec.com](https://stephandsec.com) (1)
 > **Env Vars:** sift (1)
 > **Definitions:** is a  (1)

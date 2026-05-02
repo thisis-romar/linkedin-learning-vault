@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/How%20to%20Be%20an%20Agent%20Boss-%20Leading%20AI%20Agents%20at%20Work.md)
@@ -50,22 +50,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Lead AI agents with confidence
+  - [Lead AI agents with confidence](#lead-ai-agents-with-confidence)
 - [**1. Discover and Build Agents**](#1-discover-and-build-agents) (2 videos)
-  - Discover agents: Find the best match for your needs
-  - Build agents with purpose: Define scope and choose the right tools
+  - [Discover agents: Find the best match for your needs](#discover-agents-find-the-best-match-for-your-needs)
+  - [Build agents with purpose: Define scope and choose the right tools](#build-agents-with-purpose-define-scope-and-choose-the-right-tools)
 - [**2. Delegate and Manage Agents**](#2-delegate-and-manage-agents) (2 videos)
-  - Delegate tasks to agents: Calibrate autonomy and oversight
-  - Manage agents: Metrics, reviews, and lifecycle decisions
+  - [Delegate tasks to agents: Calibrate autonomy and oversight](#delegate-tasks-to-agents-calibrate-autonomy-and-oversight)
+  - [Manage agents: Metrics, reviews, and lifecycle decisions](#manage-agents-metrics-reviews-and-lifecycle-decisions)
 - [**3. Optimize and Improve Agents**](#3-optimize-and-improve-agents) (2 videos)
-  - Improve your agent: Enhance and evolve over time
-  - Control agent costs: Forecast, monitor, and optimize for ROI
+  - [Improve your agent: Enhance and evolve over time](#improve-your-agent-enhance-and-evolve-over-time)
+  - [Control agent costs: Forecast, monitor, and optimize for ROI](#control-agent-costs-forecast-monitor-and-optimize-for-roi)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The future: Your impact as a leader
+  - [The future: Your impact as a leader](#the-future-your-impact-as-a-leader)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lead AI agents with confidence
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980)
@@ -86,12 +86,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), product (1), [[Microsoft]] (1)
 > **Definitions:** is a  (1)
 
 
 ### 1. Discover and Build Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover agents: Find the best match for your needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980)
@@ -230,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** business (4), [[Microsoft 365]] (2), [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (2), ai (1)
 > **UI Navigation:** select the (3), navigate to (1), go to (1), scroll down (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -486,7 +487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (2), finally, (1)
+> **Frameworks & Libraries:** next (9), [[Microsoft Copilot|Copilot]] (7), [[SharePoint]] (7), business (3), [[Microsoft 365]] (3)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Analogies:** for example (2), it's like (1), picture (1)
@@ -495,7 +496,7 @@ created: 2026-04-29
 
 ### 2. Delegate and Manage Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Delegate tasks to agents: Calibrate autonomy and oversight
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980)
@@ -650,7 +651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), ai (2), [[Security]] (2), prompt (2), strengths (2)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Env Vars:** m365 (1)
@@ -758,7 +759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (3), continue (1), this. (1)
+> **Frameworks & Libraries:** business (5), [[Analytics]] (4), [[Microsoft Copilot|Copilot]] (3), [[Performance Metrics]] (1), ai (1)
 > **Analogies:** for example (5), picture (1)
 > **Env Vars:** bxt (1)
 > **Cross-References:** previous video (1)
@@ -766,7 +767,7 @@ created: 2026-04-29
 
 ### 3. Optimize and Improve Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your agent: Enhance and evolve over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980)
@@ -879,8 +880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (5), next (3), business (3), [[Microsoft Copilot|Copilot]] (1), [[SharePoint]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), case. (2), require (1)
 > **Versions:** 4.2 (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is an  (1)
@@ -974,7 +975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (1), let (1), this, (1), require (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3), next (3), [[Microsoft Copilot|Copilot]] (2), traffic (2), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** means that (1)
@@ -983,7 +984,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future: Your impact as a leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980)
@@ -1018,6 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), next (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 
 

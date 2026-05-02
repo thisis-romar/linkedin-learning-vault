@@ -26,7 +26,7 @@ tags:
   - topic/it-help-desk
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Transforming%20Your%20Organization.md)
@@ -45,45 +45,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Ignite your teams with agile
+  - [Ignite your teams with agile](#ignite-your-teams-with-agile)
 - [**1. Your Transformation**](#1-your-transformation) (2 videos)
-  - Your current state
-  - Troubleshooting transformation
+  - [Your current state](#your-current-state)
+  - [Troubleshooting transformation](#troubleshooting-transformation)
 - [**2. Your Customers**](#2-your-customers) (3 videos)
-  - Internal customer engagement
-  - External customer guidance
-  - Customer needs drive change
+  - [Internal customer engagement](#internal-customer-engagement)
+  - [External customer guidance](#external-customer-guidance)
+  - [Customer needs drive change](#customer-needs-drive-change)
 - [**3. Agile Portfolio of Work**](#3-agile-portfolio-of-work) (3 videos)
-  - Your portfolio today
-  - Portfolio management: Case study
-  - Apply portfolio management
+  - [Your portfolio today](#your-portfolio-today)
+  - [Portfolio management: Case study](#portfolio-management-case-study)
+  - [Apply portfolio management](#apply-portfolio-management)
 - [**4. The Agile Framework**](#4-the-agile-framework) (3 videos)
-  - It's a mindset
-  - Overview of agile methods
-  - Selecting a framework that fits
+  - [It's a mindset](#its-a-mindset)
+  - [Overview of agile methods](#overview-of-agile-methods)
+  - [Selecting a framework that fits](#selecting-a-framework-that-fits)
 - [**5. Team Transformation**](#5-team-transformation) (3 videos)
-  - Changing leaders' mindset
-  - Partner with human resources
-  - Start with your teams
+  - [Changing leaders' mindset](#changing-leaders-mindset)
+  - [Partner with human resources](#partner-with-human-resources)
+  - [Start with your teams](#start-with-your-teams)
 - [**6. Scaling Models**](#6-scaling-models) (4 videos)
-  - What is "scaling agile"?
-  - Scrum@Scale (S@S)
-  - Scaled Agile Framework (SAFe)
-  - Selecting unFix
+  - [What is "scaling agile"?](#what-is-scaling-agile)
+  - [Scrum@Scale (S@S)](#scrumscale-ss)
+  - [Scaled Agile Framework (SAFe)](#scaled-agile-framework-safe)
+  - [Selecting unFix](#selecting-unfix)
 - [**7. Technical Excellence**](#7-technical-excellence) (3 videos)
-  - Technical architecture and your portfolio
-  - Unlock DevOps
-  - Connect IT silos
+  - [Technical architecture and your portfolio](#technical-architecture-and-your-portfolio)
+  - [Unlock DevOps](#unlock-devops)
+  - [Connect IT silos](#connect-it-silos)
 - [**8. Measurement and Growth**](#8-measurement-and-growth) (3 videos)
-  - Measure your transformation
-  - Measure portfolio agility
-  - Measure team agility
+  - [Measure your transformation](#measure-your-transformation)
+  - [Measure portfolio agility](#measure-portfolio-agility)
+  - [Measure team agility](#measure-team-agility)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Resources for your agile journey
+  - [Resources for your agile journey](#resources-for-your-agile-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ignite your teams with agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/ignite-your-teams-with-agile?u=76281980)
@@ -100,12 +100,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), teams (1)
 > **Speakers:** - do (1)
 
 
 ### 1. Your Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your current state
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-current-state?u=76281980)
@@ -184,7 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), try. (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (17), next (1), management (1), teams (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -270,15 +271,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), business (1), [[Agile Development|Agile]] (1), management (1), teams (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (4)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Your Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Internal customer engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/internal-customer-engagement?u=76281980)
@@ -337,7 +338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), data (2)
 > **Env Vars:** cio (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -405,6 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (3), [[Product Development]] (1), teams (1), data (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
@@ -486,8 +488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11), leadership (1), [[Technical Leadership]] (1), next (1), teams (1)
 > **Env Vars:** pace (5), roi (2)
-> **Code Keywords:** this. (2), finally, (2), require (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
 > **Prerequisites:** you'll need (2)
@@ -497,7 +499,7 @@ created: 2026-04-29
 
 ### 3. Agile Portfolio of Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your portfolio today
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-portfolio-today?u=76281980)
@@ -562,7 +564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** business (12), teams (2), next (1)
 > **Env Vars:** wsjf (2), pace (1)
 > **Definitions:** is an  (1), known as (1)
 > **Speakers:** - [instructor] (1)
@@ -626,8 +628,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (8), product (4), [[Agile Development|Agile]] (3), [[Scrum]] (2), business (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -715,6 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Agile Development|Agile]] (3), next (3), teams (2), business (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** pace (2)
 > **Definitions:** is a  (1), known as (1)
@@ -723,7 +726,7 @@ created: 2026-04-29
 
 ### 4. The Agile Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### It's a mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980)
@@ -792,9 +795,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Scrum]] (2), next (1), leadership (1)
 > **Definitions:** means that (2), known as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Overview of agile methods
@@ -868,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Scrum]] (6), business (3), product (2), functional (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -931,7 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), finally, (1)
+> **Frameworks & Libraries:** teams (9), [[Agile Development|Agile]] (3), [[Scrum]] (3), [[Software Development]] (2), [[Telecommunications]] (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [educator] (1)
@@ -939,7 +942,7 @@ created: 2026-04-29
 
 ### 5. Team Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Changing leaders' mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/changing-leaders-mindset?u=76281980)
@@ -1004,6 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), leadership (5), next (3), teams (2), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1063,7 +1067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** hr (15), [[Agile Development|Agile]] (3), [[Human Resources (HR)|Human resources]] (1), management (1), leadership (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1139,6 +1143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (9), functional (4), product (4), [[Agile Development|Agile]] (2), management (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** dba (1)
@@ -1148,7 +1153,7 @@ created: 2026-04-29
 
 ### 6. Scaling Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is "scaling agile"?
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/what-is-scaling-agile?u=76281980)
@@ -1199,7 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), this, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (16), teams (6), product (3), feature (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1254,6 +1259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (15), teams (5), product (3), [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1316,8 +1322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (4), product (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Agile Software Development]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** art (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1382,7 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1), for, (1)
+> **Frameworks & Libraries:** teams (3), [[Agile Development|Agile]] (2), product (2), [[E-Commerce]] (1), functional (1)
 > **Code Identifiers:** unfix (5)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
@@ -1391,7 +1397,7 @@ created: 2026-04-29
 
 ### 7. Technical Excellence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Technical architecture and your portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/technical-architecture-and-your-portfolio?u=76281980)
@@ -1452,9 +1458,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (7), product (6), management (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Unlock DevOps
@@ -1516,7 +1522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (8), [[DevOps]] (8), [[Software Development]] (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1601,18 +1607,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Java]] (1), [[Agile Development|Agile]] (1), functional (1), teams (1)
 > **Prerequisites:** you'll need (2), getting started (1)
 > **Env Vars:** net (1), kpi (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** class. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Measurement and Growth
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measure your transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-your-transformation?u=76281980)
@@ -1683,9 +1689,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (4)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -1765,7 +1771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), finally, (1), this, (1), case, (1)
+> **Frameworks & Libraries:** feature (4), business (2), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), teams (1)
 > **Env Vars:** nps (4)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [narrator] (1)
@@ -1849,8 +1855,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), [[Agile Development|Agile]] (3), next (2), hit (1), product (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** self (1), this, (1), finally, (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1858,7 +1864,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resources for your agile journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980)
@@ -1881,8 +1887,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[LinkedIn]] (1), teams (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - thank (1)
 
 

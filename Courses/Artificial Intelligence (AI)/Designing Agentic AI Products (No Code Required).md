@@ -35,7 +35,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Designing%20Agentic%20AI%20Products%20(No%20Code%20Required).md)
@@ -54,43 +54,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Designing autonomous agentic products
+  - [Designing autonomous agentic products](#designing-autonomous-agentic-products)
 - [**1. Introduction to Agentic AI**](#1-introduction-to-agentic-ai) (4 videos)
-  - What is an autonomous Agent AI?
-  - Why do we need Agent AI?
-  - How does Agent AI work?
-  - Types of Agent AI
+  - [What is an autonomous Agent AI?](#what-is-an-autonomous-agent-ai)
+  - [Why do we need Agent AI?](#why-do-we-need-agent-ai)
+  - [How does Agent AI work?](#how-does-agent-ai-work)
+  - [Types of Agent AI](#types-of-agent-ai)
 - [**2. Agent AI Tools Landscape and Applications**](#2-agent-ai-tools-landscape-and-applications) (5 videos)
-  - Agent AI ecosystem
-  - Lead generation marketing applications
-  - Campaign management marketing applications
-  - Enterprise growth applications
-  - Enterprise customer experience applications
+  - [Agent AI ecosystem](#agent-ai-ecosystem)
+  - [Lead generation marketing applications](#lead-generation-marketing-applications)
+  - [Campaign management marketing applications](#campaign-management-marketing-applications)
+  - [Enterprise growth applications](#enterprise-growth-applications)
+  - [Enterprise customer experience applications](#enterprise-customer-experience-applications)
 - [**3. Building Agentic AI Products with No-Code**](#3-building-agentic-ai-products-with-no-code) (5 videos)
-  - What is reasoning in LLM?
-  - Agent AI reasoning approaches
-  - Building an Agent AI with AgentGPT for user research
-  - Challenge: Build an Agent AI for user research
-  - Solution: Build an Agent AI for user research
+  - [What is reasoning in LLM?](#what-is-reasoning-in-llm)
+  - [Agent AI reasoning approaches](#agent-ai-reasoning-approaches)
+  - [Building an Agent AI with AgentGPT for user research](#building-an-agent-ai-with-agentgpt-for-user-research)
+  - [Challenge: Build an Agent AI for user research](#challenge-build-an-agent-ai-for-user-research)
+  - [Solution: Build an Agent AI for user research](#solution-build-an-agent-ai-for-user-research)
 - [**4. Designing Human Computer Interface (HCI) for Agent AI Products**](#4-designing-human-computer-interface-hci-for-agent-ai-products) (5 videos)
-  - Job roles in designing agentic products
-  - Agentic design frameworks
-  - Design an Agent AI to create a marketing plan with Promptly
-  - Challenge: Building an Agent AI with Promptly
-  - Solution: Building an Agent AI with Promptly
+  - [Job roles in designing agentic products](#job-roles-in-designing-agentic-products)
+  - [Agentic design frameworks](#agentic-design-frameworks)
+  - [Design an Agent AI to create a marketing plan with Promptly](#design-an-agent-ai-to-create-a-marketing-plan-with-promptly)
+  - [Challenge: Building an Agent AI with Promptly](#challenge-building-an-agent-ai-with-promptly)
+  - [Solution: Building an Agent AI with Promptly](#solution-building-an-agent-ai-with-promptly)
 - [**5. Top Business Questions around Agentic AI**](#5-top-business-questions-around-agentic-ai) (6 videos)
-  - The cost of agentic AI applications
-  - AI hallucinations and agents
-  - AI ethics: Ecological consideration
-  - AI ethics: Business risks
-  - AI ethics: Bringing human ethics to AI
-  - AI ethics: Data privacy
+  - [The cost of agentic AI applications](#the-cost-of-agentic-ai-applications)
+  - [AI hallucinations and agents](#ai-hallucinations-and-agents)
+  - [AI ethics: Ecological consideration](#ai-ethics-ecological-consideration)
+  - [AI ethics: Business risks](#ai-ethics-business-risks)
+  - [AI ethics: Bringing human ethics to AI](#ai-ethics-bringing-human-ethics-to-ai)
+  - [AI ethics: Data privacy](#ai-ethics-data-privacy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing autonomous agentic products
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980)
@@ -117,13 +117,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), business (2), power (1), [[Large Language Models (LLM)|Large language models]] (1), product (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - wouldn (1)
 
 
 ### 1. Introduction to Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an autonomous Agent AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980)
@@ -180,8 +181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), power (2), chatbot (2), [[Large Language Models (LLM)|Large language models]] (1), llm (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -232,10 +233,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), chatbot (3), [[Search]] (3), [[Automation]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### How does Agent AI work?
@@ -301,8 +302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), product (6), llm (5), prompt (3), power (1)
 > **Env Vars:** llm (5), gpt (1)
-> **Code Keywords:** case, (2), let (1), finally, (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
@@ -376,7 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), self (1), this. (1), function (1)
+> **Frameworks & Libraries:** ai (15), [[Microsoft Products|Products]] (1), chatbot (1), data (1)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -385,7 +386,7 @@ created: 2026-04-29
 
 ### 2. Agent AI Tools Landscape and Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agent AI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980)
@@ -468,8 +469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[Microsoft Products|Products]] (11), llm (10), data (7), business (3)
 > **Env Vars:** llm (10), api (1)
-> **Code Keywords:** interface (3), let (1), this, (1), this. (1), case. (1)
 > **Definitions:** is an  (3), is a  (3)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
@@ -533,7 +534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (13), data (4), next (2), power (1), management (1)
 > **Cross-References:** later in (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -587,10 +588,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (6), [[Traditional AI]] (2), next (2), power (2)
 > **Env Vars:** b2b (1), llm (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - campaign (1)
 
@@ -647,10 +648,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (4), llm (3), power (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** llm (3)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Enterprise customer experience applications
@@ -682,13 +683,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), chatbot (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - agent (1)
 
 
 ### 3. Building Agentic AI Products with No-Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is reasoning in LLM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980)
@@ -739,9 +741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** chatbot (8), ai (4), llm (4), [[Automation]] (1), power (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -780,8 +782,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), prompt (4), llm (2), [[React.js|React]] (2), power (1)
 > **Definitions:** is an  (1), is a  (1), is called (1), means that (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** llm (2)
 > **Speakers:** - [instructor] (1)
 
@@ -858,7 +860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (2), llm (2), next (1), web (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** we discussed (1), in the last (1)
 > **URLs:** [reworkd.ai](https://reworkd.ai) (1)
@@ -902,7 +904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** prompt (4), ai (1), llm (1), [[Tokens]] (1), next (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -947,6 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), [[LinkedIn]] (1), llm (1), [[Tokens]] (1)
 > **Env Vars:** llm (1), gpt (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -955,7 +958,7 @@ created: 2026-04-29
 
 ### 4. Designing Human Computer Interface (HCI) for Agent AI Products
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Job roles in designing agentic products
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980)
@@ -994,7 +997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** ai (12), data (5), ux (3), product (2), business (2)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [lecturer] (1)
@@ -1034,9 +1037,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), llm (3), web (1), [[Search]] (1), data (1)
 > **Env Vars:** llm (3)
 > **Definitions:** is called (1), is an  (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [narrator] (1)
 
 #### Design an Agent AI to create a marketing plan with Promptly
@@ -1184,8 +1187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (9), data (9), [[Microsoft Office|Office]] (6), ai (4), prompt (4)
 > **Env Vars:** llm (9), api (3), dall (1), pdf (1), url (1)
-> **Code Keywords:** let (6), static (1), throw (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
 > **CLI Commands:** make (4), find (1)
 > **URLs:** [trypromptly.com](https://trypromptly.com) (1), [sudhajamthe.com](https://sudhajamthe.com) (1), [businessschoolofai.com](https://businessschoolofai.com) (1)
@@ -1228,7 +1231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (3)
+> **Frameworks & Libraries:** prompt (4), ai (3), product (1), next (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **URLs:** [trypromptly.com](https://trypromptly.com) (1)
@@ -1334,8 +1337,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), ai (2), data (2), product (1), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (10)
-> **Code Keywords:** super (2), for, (1), let (1), this. (1), this, (1)
 > **CLI Commands:** make (1)
 > **URLs:** [trypromptly.com](https://trypromptly.com) (1)
 > **Definitions:** is a  (1)
@@ -1345,7 +1348,7 @@ created: 2026-04-29
 
 ### 5. Top Business Questions around Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The cost of agentic AI applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980)
@@ -1378,6 +1381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), llm (3), [[Microsoft Products|Products]] (3), business (2), api (2)
 > **Env Vars:** llm (3), roi (2), api (2)
 > **URLs:** [agent.ai](https://agent.ai) (4)
 > **Speakers:** - [instructor] (1)
@@ -1407,6 +1411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), ai (3), business (2), chatbot (1)
 > **Env Vars:** llm (5)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1457,6 +1462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), ai (4), [[Automation]] (1), parallel (1), [[Ethics]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
@@ -1507,9 +1513,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), chatbot (3), [[Automation]] (2), business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** for, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - mitigating (1)
 
@@ -1562,8 +1568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Ethics]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Products|Products]] (2), [[Generative AI]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1606,7 +1612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1)
+> **Frameworks & Libraries:** data (7), ai (6), [[Privacy]] (2), [[Privacy Issues]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
@@ -1614,7 +1620,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980)
@@ -1649,8 +1655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), business (3), [[Microsoft Products|Products]] (2), [[Generative AI]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** continue (2)
 > **Speakers:** - [instructor] (1)
 
 

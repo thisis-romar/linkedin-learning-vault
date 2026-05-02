@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Tips%20and%20Tricks%20for%20Data%20Science.md)
@@ -47,28 +47,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Extract meaning from data
-  - What you should know before watching this course
-  - Using the exercise files
+  - [Extract meaning from data](#extract-meaning-from-data)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. SQL Tips and Tricks**](#1-sql-tips-and-tricks) (12 videos)
-  - Retrieve data using SQL
-  - Join tables
-  - Filter data
-  - Aggregate data
-  - Window functions
-  - Subqueries
-  - Rolling calculations
-  - Analyze employee data
-  - Date and time functions
-  - Common table expressions
-  - Year-over-year calculations
-  - Finding ranks
+  - [Retrieve data using SQL](#retrieve-data-using-sql)
+  - [Join tables](#join-tables)
+  - [Filter data](#filter-data)
+  - [Aggregate data](#aggregate-data)
+  - [Window functions](#window-functions)
+  - [Subqueries](#subqueries)
+  - [Rolling calculations](#rolling-calculations)
+  - [Analyze employee data](#analyze-employee-data)
+  - [Date and time functions](#date-and-time-functions)
+  - [Common table expressions](#common-table-expressions)
+  - [Year-over-year calculations](#year-over-year-calculations)
+  - [Finding ranks](#finding-ranks)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Becoming a powerful data scientist
+  - [Becoming a powerful data scientist](#becoming-a-powerful-data-scientist)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extract meaning from data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980)
@@ -93,9 +93,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (2), [[SQL]] (2), [[Decision-Making]] (1), [[Analytics]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** sql (3)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [ben] (1)
 
@@ -124,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Microsoft]] (1), database (1), management (1), [[SQL]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [instructor] (1)
 
@@ -140,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Exercise Files:** exercise files (2), exercise file (1)
 > **Env Vars:** sql (2)
 > **Documentation:** the documentation (1)
@@ -149,7 +151,7 @@ created: 2026-04-29
 
 ### 1. SQL Tips and Tricks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieve data using SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980)
@@ -260,8 +262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (15), data (10), [[Databases]] (9), database (6), [[NoSQL]] (2)
 > **Env Vars:** sql (15)
-> **Code Keywords:** let (5), delete (1), this. (1), for. (1), switch (1)
 > **Definitions:** stands for (2), is a  (2), known as (1), means that (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -373,7 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), type, (1), type. (1), else, (1)
+> **Frameworks & Libraries:** product (16), data (11), database (6), [[SQL]] (3), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), means that (2), known as (1), is called (1)
 > **Env Vars:** sql (3)
 > **Analogies:** for example (1), such as (1), imagine (1)
@@ -506,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), else. (2), return. (1), this, (1)
+> **Frameworks & Libraries:** product (8), data (7), database (6), [[Microsoft Products|Products]] (5), [[Microsoft Word|Word]] (3)
 > **Env Vars:** where (2), between (2), sql (2)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), similar to (1), just like (1)
@@ -662,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** data (10), database (6), product (4), [[Microsoft Products|Products]] (2), [[SQL]] (1)
 > **Analogies:** just like (3), picture (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), known as (1)
@@ -713,6 +715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), feature (1), next (1)
 > **Analogies:** such as (1), just like (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
@@ -797,7 +800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), from, (1), for, (1), this. (1)
+> **Frameworks & Libraries:** data (3), database (3), product (3), [[Databases]] (2), [[Real-Time]] (1)
 > **Env Vars:** exists (3), sql (1), ansi (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** for example (1), similar to (1)
@@ -927,8 +930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Outlook|Outlook]] (1), next (1)
 > **Env Vars:** order (4), sum (2), group (2), datepart (1), avg (1)
-> **Code Keywords:** let (6), function (3), this, (1), from. (1)
 > **SQL:** order by (4), group by (2), where (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -1037,7 +1040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), function (2)
+> **Frameworks & Libraries:** data (8), hit (2), database (1), [[Microsoft SQL Server|Sql server]] (1)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
@@ -1133,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), pass (3), let (1), case, (1), self (1)
+> **Frameworks & Libraries:** data (13), [[Microsoft SQL Server|Sql server]] (4), database (4), [[Databases]] (2), next (2)
 > **Env Vars:** sql (5), eomonth (1), datediff (1), group (1), order (1)
 > **Definitions:** is a  (9)
 > **CLI Commands:** find (3), make (1)
@@ -1289,8 +1292,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (3), database (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cte (15), sql (3), select (2), ceo (1)
-> **Code Keywords:** self (4), pass (1), function (1), let (1), this, (1)
 > **Definitions:** is a  (4), means that (1)
 > **Analogies:** similar to (2), such as (1), just like (1)
 > **SQL:** select (2)
@@ -1360,8 +1363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cte (4), nasa (1)
-> **Code Keywords:** let (1), this, (1), public (1), case, (1)
 > **CLI Commands:** find (2)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -1465,7 +1468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), this, (2), let (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (4), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2), database (1)
 > **Env Vars:** sql (4), row_number (4), rank (2), dense_rank (2), percent_rank (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (3)
@@ -1477,7 +1480,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a powerful data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980)
@@ -1502,6 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (3), [[Programming]] (2), database (1), [[Databases]] (1)
 > **Env Vars:** sql (3)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** you'll need (1)

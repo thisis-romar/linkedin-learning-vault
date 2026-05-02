@@ -19,7 +19,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/A%20First%20Look%20at%20the%20LinkedIn%20Hiring%20Assistant%20in%20Recruiter.md)
@@ -38,18 +38,18 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Launching your hiring journey with Hiring Assistant
+  - [Launching your hiring journey with Hiring Assistant](#launching-your-hiring-journey-with-hiring-assistant)
 - [**1. Leveraging the LinkedIn AI Agent Hiring Assistant**](#1-leveraging-the-linkedin-ai-agent-hiring-assistant) (6 videos)
-  - Setting up your first Hiring Assistant project
-  - Writing job qualifications that drive results
-  - Evaluating candidates sourced by Hiring Assistant
-  - Engaging candidates with smart outreach
-  - Optimizing your hiring strategy with Hiring Assistant
-  - Keep learning and stay supported with LinkedIn Recruiter resources
+  - [Setting up your first Hiring Assistant project](#setting-up-your-first-hiring-assistant-project)
+  - [Writing job qualifications that drive results](#writing-job-qualifications-that-drive-results)
+  - [Evaluating candidates sourced by Hiring Assistant](#evaluating-candidates-sourced-by-hiring-assistant)
+  - [Engaging candidates with smart outreach](#engaging-candidates-with-smart-outreach)
+  - [Optimizing your hiring strategy with Hiring Assistant](#optimizing-your-hiring-strategy-with-hiring-assistant)
+  - [Keep learning and stay supported with LinkedIn Recruiter resources](#keep-learning-and-stay-supported-with-linkedin-recruiter-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Launching your hiring journey with Hiring Assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980)
@@ -78,14 +78,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), for. (1), let (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Leveraging the LinkedIn AI Agent Hiring Assistant
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up your first Hiring Assistant project
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980)
@@ -184,8 +184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Search]] (1), job description (1), career (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (5), select the (3), dropdown (1), open the (1)
-> **Code Keywords:** let (2), continue (1), from. (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
@@ -260,7 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), case. (1), require (1)
+> **Frameworks & Libraries:** prompt (3), next (2), job description (1)
 > **UI Navigation:** click on (4)
 > **Env Vars:** pdf (2)
 > **Cross-References:** in the next (2)
@@ -340,9 +340,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), ai (1)
 > **Definitions:** is a  (6), means that (1)
 > **UI Navigation:** click on (3)
-> **Code Keywords:** continue (1), for. (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Warnings:** note that (1)
@@ -395,7 +395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (2), feature (1), next (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -461,8 +461,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), power (2), next (1)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
-> **Code Keywords:** while, (1), for, (1), let (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -501,8 +501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (1), feature (1), next (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** continue (1)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise file (1)

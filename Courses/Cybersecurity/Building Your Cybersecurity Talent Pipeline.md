@@ -32,7 +32,7 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Building%20Your%20Cybersecurity%20Talent%20Pipeline.md)
@@ -51,27 +51,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Your cybersecurity pipeline
+  - [Your cybersecurity pipeline](#your-cybersecurity-pipeline)
 - [**1. Why Is Building a Pipeline Important?**](#1-why-is-building-a-pipeline-important) (3 videos)
-  - The cybersecurity skills gap: Fact or fiction?
-  - Hiring doesn't have to be hard
-  - Retention is critical
+  - [The cybersecurity skills gap: Fact or fiction?](#the-cybersecurity-skills-gap-fact-or-fiction)
+  - [Hiring doesn't have to be hard](#hiring-doesnt-have-to-be-hard)
+  - [Retention is critical](#retention-is-critical)
 - [**2. Where to Start**](#2-where-to-start) (3 videos)
-  - Defining roles and responsibilities
-  - Putting in the work
-  - Job descriptions: The good, the bad, and the ugly
+  - [Defining roles and responsibilities](#defining-roles-and-responsibilities)
+  - [Putting in the work](#putting-in-the-work)
+  - [Job descriptions: The good, the bad, and the ugly](#job-descriptions-the-good-the-bad-and-the-ugly)
 - [**3. The Pipeline Mentality**](#3-the-pipeline-mentality) (4 videos)
-  - Maintaining your pipeline
-  - Career progression as a program strategy
-  - Defining career progression requirements
-  - Creating growth plans and investing in your team
+  - [Maintaining your pipeline](#maintaining-your-pipeline)
+  - [Career progression as a program strategy](#career-progression-as-a-program-strategy)
+  - [Defining career progression requirements](#defining-career-progression-requirements)
+  - [Creating growth plans and investing in your team](#creating-growth-plans-and-investing-in-your-team)
 - [**4. Additional Outcomes**](#4-additional-outcomes) (2 videos)
-  - Boosting your corporate brand
-  - Return on investment
+  - [Boosting your corporate brand](#boosting-your-corporate-brand)
+  - [Return on investment](#return-on-investment)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your cybersecurity pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980)
@@ -112,13 +112,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security]] (2), career (2), [[LinkedIn]] (1)
 > **Env Vars:** dsl (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Why Is Building a Pipeline Important?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The cybersecurity skills gap: Fact or fiction?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/the-cybersecurity-skills-gap-fact-or-fiction?u=76281980)
@@ -181,7 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (18), teams (4), [[Cybersecurity]] (3), functional (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** isc (1), cso (1), soc (1)
 > **Definitions:** is a  (1)
@@ -274,7 +275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1), super (1), break, (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Cybersecurity]] (3), hit (1), [[Search]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -358,14 +359,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), new, (1)
+> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (2), business (2), teams (1), [[Regulatory Compliance]] (1)
 > **CLI Commands:** snap (2)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Where to Start
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining roles and responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-roles-and-responsibilities?u=76281980)
@@ -426,8 +427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), business (3), teams (2), hit (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -518,7 +519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (1), continue (1)
+> **Frameworks & Libraries:** next (3), [[Security]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** soc (2), leaders (2)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** previous video (1), next video (1)
@@ -634,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (2), this, (1), this. (1), pass (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), job description (2), [[Security]] (2), [[Team Collaboration]] (1), next (1)
 > **Env Vars:** soc (1), cisa (1), cissp (1), crisc (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -644,7 +645,7 @@ created: 2026-04-29
 
 ### 3. The Pipeline Mentality
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintaining your pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/maintaining-your-pipeline?u=76281980)
@@ -717,8 +718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), web (1), traffic (1), [[Security]] (1), [[Search]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this, (1), let (1), this. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1), similar to (1)
 > **Cross-References:** as we saw (1)
@@ -805,9 +806,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), career (3), [[Search]] (1), [[Cybersecurity]] (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** case, (1)
 > **Warnings:** don't make the mistake (1)
 > **Speakers:** - [narrator] (1)
 
@@ -892,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (7), career (5), teams (2), next (2), functional (1)
 > **Analogies:** for example (2)
 > **Warnings:** be careful (1), note that (1)
 > **CLI Commands:** make (1)
@@ -975,7 +976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), finally, (1)
+> **Frameworks & Libraries:** career (3), game (3), next (3), teams (1), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -985,7 +986,7 @@ created: 2026-04-29
 
 ### 4. Additional Outcomes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Boosting your corporate brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/boosting-your-corporate-brand?u=76281980)
@@ -1054,7 +1055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** teams (3), leadership (2), career (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
@@ -1115,7 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** [[Security]] (9), business (2), [[Cybersecurity]] (1), teams (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** roi (1)
 > **Analogies:** imagine (1)

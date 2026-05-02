@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Five%20Advanced%20Challenges%20and%20Concepts.md)
@@ -48,44 +48,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Advance your skills with JavaScript
-  - How this course works
+  - [Advance your skills with JavaScript](#advance-your-skills-with-javascript)
+  - [How this course works](#how-this-course-works)
 - [**1. Nested Relationships**](#1-nested-relationships) (5 videos)
-  - Managing nested comments
-  - Using a data map to turn flat arrays into trees
-  - Creating a recursive function to generate a nested array
-  - Solution: Make a nested array
-  - Advanced solution: Add nested comments
+  - [Managing nested comments](#managing-nested-comments)
+  - [Using a data map to turn flat arrays into trees](#using-a-data-map-to-turn-flat-arrays-into-trees)
+  - [Creating a recursive function to generate a nested array](#creating-a-recursive-function-to-generate-a-nested-array)
+  - [Solution: Make a nested array](#solution-make-a-nested-array)
+  - [Advanced solution: Add nested comments](#advanced-solution-add-nested-comments)
 - [**2. Classes and Inheritance**](#2-classes-and-inheritance) (5 videos)
-  - Managing users and capabilities
-  - Creating a class with capabilities
-  - Extending a class with new capabilities
-  - Solution: Create a library with books
-  - Advanced Solution: Users managing other users
+  - [Managing users and capabilities](#managing-users-and-capabilities)
+  - [Creating a class with capabilities](#creating-a-class-with-capabilities)
+  - [Extending a class with new capabilities](#extending-a-class-with-new-capabilities)
+  - [Solution: Create a library with books](#solution-create-a-library-with-books)
+  - [Advanced Solution: Users managing other users](#advanced-solution-users-managing-other-users)
 - [**3. Singletons and Proxy Objects**](#3-singletons-and-proxy-objects) (5 videos)
-  - Building robust applications
-  - Using singletons to create unique functions
-  - Using proxy objects to intercept calls to an object or class
-  - Solution: Create a logging system
-  - Advanced solution: Create a data validation system
+  - [Building robust applications](#building-robust-applications)
+  - [Using singletons to create unique functions](#using-singletons-to-create-unique-functions)
+  - [Using proxy objects to intercept calls to an object or class](#using-proxy-objects-to-intercept-calls-to-an-object-or-class)
+  - [Solution: Create a logging system](#solution-create-a-logging-system)
+  - [Advanced solution: Create a data validation system](#advanced-solution-create-a-data-validation-system)
 - [**4. Observer Pattern**](#4-observer-pattern) (5 videos)
-  - Push info to many nodes
-  - Setting up a basic Observer pattern
-  - Managing observers
-  - Solution: Temperature display
-  - Advanced solution: Stock information
+  - [Push info to many nodes](#push-info-to-many-nodes)
+  - [Setting up a basic Observer pattern](#setting-up-a-basic-observer-pattern)
+  - [Managing observers](#managing-observers)
+  - [Solution: Temperature display](#solution-temperature-display)
+  - [Advanced solution: Stock information](#advanced-solution-stock-information)
 - [**5. Reactive Objects and Factories**](#5-reactive-objects-and-factories) (5 videos)
-  - Keeping a shopping cart up to date
-  - The basic Reactive pattern
-  - Adding advanced functionality
-  - Solution: Create a Reactive shopping cart
-  - Advanced solution: Create a Reactive object
+  - [Keeping a shopping cart up to date](#keeping-a-shopping-cart-up-to-date)
+  - [The basic Reactive pattern](#the-basic-reactive-pattern)
+  - [Adding advanced functionality](#adding-advanced-functionality)
+  - [Solution: Create a Reactive shopping cart](#solution-create-a-reactive-shopping-cart)
+  - [Advanced solution: Create a Reactive object](#advanced-solution-create-a-reactive-object)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Wrapping up
+  - [Wrapping up](#wrapping-up)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advance your skills with JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advance-your-skills-with-javascript?u=76281980)
@@ -106,7 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - learning (1)
 
@@ -183,7 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), this, (2), case, (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (3), [[JavaScript]] (2), next (2), cloud (1)
 > **Tools:** github (3)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** node (1)
@@ -195,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Nested Relationships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing nested comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-nested-comments?u=76281980)
@@ -224,7 +224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
@@ -336,8 +336,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), cd (1), node (1)
 > **Code Identifiers:** datamap (8), foreach (2)
-> **Code Keywords:** function (3), this. (2), let (2), new. (1)
 > **CLI Commands:** find (1), cd (1), node (1)
 > **File Paths:** script.js (1)
 > **Definitions:** is a  (1)
@@ -478,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (6), else, (1), case, (1), const (1)
+> **Frameworks & Libraries:** [[HTML]] (2), next (1), data (1), node (1)
 > **CLI Commands:** find (2), make (2), node (1)
 > **Prerequisites:** set up (4), make sure you have (1)
 > **Env Vars:** html (2)
@@ -544,7 +544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), const (1)
+> **Frameworks & Libraries:** data (12), next (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -640,7 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), pass (3), let (2), const (2), new, (1)
+> **Frameworks & Libraries:** [[Document Object Model (DOM)|Document object model]] (1), [[HTML]] (1)
 > **Code Identifiers:** appendchild (2), comment_text (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -651,7 +651,7 @@ created: 2026-04-29
 
 ### 2. Classes and Inheritance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing users and capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-users-and-capabilities?u=76281980)
@@ -682,7 +682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), class, (1)
+> **Frameworks & Libraries:** data (4), [[JavaScript]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -796,7 +796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (6), let (4), type. (3), class. (2), extends (2)
+> **Frameworks & Libraries:** node (1), next (1)
 > **Code Identifiers:** getdescription (3), mycar (1), mybike (1)
 > **Prerequisites:** set up (3), setup (1)
 > **File Paths:** script.js (1)
@@ -872,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), let (2), super (2), this. (2), return, (1)
+> **Frameworks & Libraries:** feature (1), data (1), node (1), next (1)
 > **Code Identifiers:** getdescription (6)
 > **Definitions:** is an  (3)
 > **File Paths:** script.js (1)
@@ -1041,7 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), super (4), let (3), finally, (3), class, (3)
+> **Frameworks & Libraries:** management (2), data (1)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -1207,8 +1207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), management (1)
 > **CLI Commands:** find (11), make (3)
-> **Code Keywords:** pass (3), let (3), this, (2), extends (1), class, (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (2)
 > **Cross-References:** previous chapter (1)
@@ -1218,7 +1218,7 @@ created: 2026-04-29
 
 ### 3. Singletons and Proxy Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building robust applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/building-robust-applications?u=76281980)
@@ -1247,7 +1247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1), from, (1), function (1), class. (1)
+> **Frameworks & Libraries:** data (3)
 > **Analogies:** for example (2)
 > **Speakers:** - sometimes (1)
 
@@ -1338,7 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), class. (2), let (2), else. (2), class, (1)
+> **Frameworks & Libraries:** data (9), node (1)
 > **CLI Commands:** make (3), node (1)
 > **UI Navigation:** go to (2)
 > **Tools:** terminal (1)
@@ -1490,7 +1490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (7), class. (4), pass (3), let (3), throw (2)
+> **Frameworks & Libraries:** traffic (1), next (1), data (1)
 > **Ports:** :00 (8)
 > **CLI Commands:** make (5)
 > **Prerequisites:** set up (3), setup (1)
@@ -1622,7 +1622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), class, (2), class. (2), const (2)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** earlier in (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1737,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), finally, (2), class, (2), class. (2), function (2)
+> **Frameworks & Libraries:** next (4), data (2), [[GitHub]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Ports:** :00 (2)
@@ -1748,7 +1748,7 @@ created: 2026-04-29
 
 ### 4. Observer Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Push info to many nodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/push-info-to-many-nodes?u=76281980)
@@ -1775,7 +1775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), application (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
@@ -1859,7 +1859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (6), let (4), class, (3), function (3), class. (1)
+> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** productmessage (4), notifyobservers (4), backinstock (3), registerobserver (1), foreach (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (2)
@@ -1942,7 +1942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (2), finally, (2), this. (1)
+> **Frameworks & Libraries:** product (1), next (1), data (1), application (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
@@ -2071,7 +2071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), finally, (2), class. (1), this. (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** before we start (1), set up (1)
 > **Warnings:** note that (1)
@@ -2171,7 +2171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), class, (5), this. (3), extends (1), else. (1)
+> **Frameworks & Libraries:** data (3), generic (2), next (2)
 > **Code Identifiers:** pricedisplay (4), pricethresholdnotifier (2), percentagechangenotifier (2), updateprice (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (3)
@@ -2183,7 +2183,7 @@ created: 2026-04-29
 
 ### 5. Reactive Objects and Factories
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping a shopping cart up to date
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980)
@@ -2208,7 +2208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Microsoft Products|Products]] (1), [[Vue.js]] (1), application (1)
 > **File Paths:** vue.js (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - let (1)
@@ -2304,8 +2304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (2), [[JavaScript]] (1)
 > **Code Identifiers:** alerttemperature (4), settemperature (3), newtemperature (2), updatesubscribers (2), foreach (1)
-> **Code Keywords:** case, (2), let (2), this, (2), class. (1), extends (1)
 > **Env Vars:** warning (2)
 > **Cross-References:** previous chapter (2)
 > **Warnings:** warning (2)
@@ -2404,7 +2404,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), let (1), extends (1), super (1), else. (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** go run (1)
 > **Cross-References:** previous chapter (1)
@@ -2500,7 +2499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), class. (3), function (1), let (1), extends (1)
+> **Frameworks & Libraries:** data (1), application (1), product (1)
 > **Env Vars:** gst (5), pst (4)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1), make (1)
@@ -2634,8 +2633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** actualfruitingtime (5), sowingdate (4), estimatedfruitingtime (4), updatesubscribers (3), sowplant (2)
-> **Code Keywords:** function (4), finally, (3), pass (3), class. (2), class, (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** boilerplate (1)
 > **Definitions:** is called (1)
@@ -2645,7 +2644,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980)
@@ -2668,6 +2667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[GitHub]] (1), [[ITIL]] (1), next (1)
 > **Env Vars:** itil (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)

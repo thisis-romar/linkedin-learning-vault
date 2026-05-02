@@ -49,7 +49,7 @@ tags:
   - skill/front-end-development
   - skill/react-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React%20Essential%20Training.md)
@@ -68,51 +68,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Building modern user interfaces with React
-  - How to use Codespaces and what you should know
+  - [Building modern user interfaces with React](#building-modern-user-interfaces-with-react)
+  - [How to use Codespaces and what you should know](#how-to-use-codespaces-and-what-you-should-know)
 - [**1. React Fundamentals**](#1-react-fundamentals) (5 videos)
-  - What is React?
-  - How React works
-  - Understanding the React compiler
-  - Setting up Chrome tools for React
-  - Working with VS Code
+  - [What is React?](#what-is-react)
+  - [How React works](#how-react-works)
+  - [Understanding the React compiler](#understanding-the-react-compiler)
+  - [Setting up Chrome tools for React](#setting-up-chrome-tools-for-react)
+  - [Working with VS Code](#working-with-vs-code)
 - [**2. Creating React Elements**](#2-creating-react-elements) (6 videos)
-  - Initializing a project with Vite
-  - Creating React elements
-  - Working with JSX syntax
-  - Creating a React component
-  - Adding component properties
-  - Destructuring component properties
+  - [Initializing a project with Vite](#initializing-a-project-with-vite)
+  - [Creating React elements](#creating-react-elements)
+  - [Working with JSX syntax](#working-with-jsx-syntax)
+  - [Creating a React component](#creating-a-react-component)
+  - [Adding component properties](#adding-component-properties)
+  - [Destructuring component properties](#destructuring-component-properties)
 - [**3. Writing React Components**](#3-writing-react-components) (4 videos)
-  - Working with lists
-  - Adding keys to list items
-  - Displaying images with React
-  - Using Fragments
+  - [Working with lists](#working-with-lists)
+  - [Adding keys to list items](#adding-keys-to-list-items)
+  - [Displaying images with React](#displaying-images-with-react)
+  - [Using Fragments](#using-fragments)
 - [**4. Handling State in a React Project**](#4-handling-state-in-a-react-project) (6 videos)
-  - Destructuring arrays
-  - Understanding the useState hook
-  - Toggling state with a button
-  - Handling state with nested components
-  - Managing state with useReducer
-  - Working with the useEffect hook
+  - [Destructuring arrays](#destructuring-arrays)
+  - [Understanding the useState hook](#understanding-the-usestate-hook)
+  - [Toggling state with a button](#toggling-state-with-a-button)
+  - [Handling state with nested components](#handling-state-with-nested-components)
+  - [Managing state with useReducer](#managing-state-with-usereducer)
+  - [Working with the useEffect hook](#working-with-the-useeffect-hook)
 - [**5. React Server Components**](#5-react-server-components) (5 videos)
-  - Creating a project with Next.js
-  - Using the App Router
-  - Building a server component
-  - Challenge: Creating a route
-  - Solution: Creating a route
+  - [Creating a project with Next.js](#creating-a-project-with-nextjs)
+  - [Using the App Router](#using-the-app-router)
+  - [Building a server component](#building-a-server-component)
+  - [Challenge: Creating a route](#challenge-creating-a-route)
+  - [Solution: Creating a route](#solution-creating-a-route)
 - [**6. Asynchronous React in Next.js**](#6-asynchronous-react-in-nextjs) (5 videos)
-  - Fetching data in React applications
-  - Passing data as props
-  - Creating a client component
-  - Building a form
-  - Creating a server action
+  - [Fetching data in React applications](#fetching-data-in-react-applications)
+  - [Passing data as props](#passing-data-as-props)
+  - [Creating a client component](#creating-a-client-component)
+  - [Building a form](#building-a-form)
+  - [Creating a server action](#creating-a-server-action)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Designing performant apps with React Server Components
+  - [Designing performant apps with React Server Components](#designing-performant-apps-with-react-server-components)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building modern user interfaces with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980)
@@ -131,8 +131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), power (1), [[React Native]] (1), [[Next.js]] (1), data (1)
 > **File Paths:** next.js (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - react (1)
 
 #### How to use Codespaces and what you should know
@@ -182,9 +182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[GitHub]] (2), [[Git]] (2), [[Codespaces]] (1), cd (1)
 > **CLI Commands:** git (2), make (2), cd (1), npm (1)
 > **Tools:** github (2), vs code (1), terminal (1)
-> **Code Keywords:** let (2), for, (1)
 > **Env Vars:** npmi (1), npm (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** install (2)
@@ -194,7 +194,7 @@ created: 2026-04-29
 
 ### 1. React Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980)
@@ -219,6 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (7), web (2), [[JavaScript]] (1), [[React Native]] (1), [[GitHub]] (1)
 > **Definitions:** is a  (2)
 > **Tools:** github (1)
 > **UI Navigation:** click on (1)
@@ -271,7 +272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), function (3), case, (2), let (1), this, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (11), dom (2), data (2), application (1), [[HTML]] (1)
 > **Env Vars:** dom (2), html (1), jsx (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** node (1), make (1)
@@ -315,7 +316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), return, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (14), [[Git]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** usememo (1), usecallback (1)
 > **Env Vars:** jsx (1), xml (1)
 > **Versions:** react 19 (2)
@@ -377,9 +378,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (10), web (1), [[Search]] (1), [[Debugging]] (1)
 > **Tools:** firefox (3)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** this. (1), continue (1)
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
 
@@ -442,11 +443,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[React.js|React]] (2), [[Zoom]] (1), [[GitHub]] (1), [[Google]] (1)
 > **UI Navigation:** go to (5), click on (1)
 > **Tools:** vs code (2), github (1)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), new. (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -454,7 +455,7 @@ created: 2026-04-29
 
 ### 2. Creating React Elements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Initializing a project with Vite
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980)
@@ -525,10 +526,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (14), [[npm]] (4), cd (2), hit (2), [[JSON]] (2)
 > **CLI Commands:** npm (4), make (2), cd (2)
 > **UI Navigation:** open the (4), go to (3)
 > **Prerequisites:** set up (2), install (2)
-> **Code Keywords:** let (2), delete (1)
 > **Tools:** terminal (2), vs code (1)
 > **URLs:** [localhost:5173](https://localhost:5173) (2)
 > **Ports:** :5173 (2)
@@ -593,7 +594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), delete (2), this < (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[HTML]] (1), [[JavaScript]] (1), [[npm]] (1), next (1)
 > **File Paths:** main.jsx (3), app.jsx (1), index.html (1)
 > **CLI Commands:** make (3), find (1), npm (1)
 > **Env Vars:** react (4), jsx (1)
@@ -647,8 +648,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[React.js|React]] (2), [[HTML]] (1), [[npm]] (1), hit (1)
 > **Env Vars:** jsx (3), xml (1), html (1)
-> **Code Keywords:** let (2), function (1)
 > **CLI Commands:** npm (1)
 > **Code Identifiers:** touppercase (1)
 > **Definitions:** is a  (1)
@@ -727,7 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (4), interface (1), return. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), application (1), [[HTML]] (1), cd (1), [[npm]] (1)
 > **CLI Commands:** make (1), cd (1), npm (1)
 > **Env Vars:** jsx (2), html (1)
 > **UI Navigation:** go to (2), right-click (1)
@@ -804,7 +805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (4), function (2), this. (1), this, (1)
+> **Frameworks & Libraries:** data (3), [[npm]] (1), business (1)
 > **CLI Commands:** npm (1), make (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **Code Identifiers:** getfullyear (1)
@@ -834,14 +835,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Writing React Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/working-with-lists?u=76281980)
@@ -914,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4), function (1), finally, (1)
+> **Frameworks & Libraries:** data (2), [[npm]] (1), application (1), css (1), next (1)
 > **Env Vars:** npm (1), jsx (1), css (1)
 > **CLI Commands:** make (1), npm (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -993,7 +994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), pass (1)
+> **Frameworks & Libraries:** data (4), [[React.js|React]] (2), dom (1)
 > **Code Identifiers:** dishobjects (4)
 > **Cross-References:** previous video (1), go back to (1)
 > **Env Vars:** dom (1)
@@ -1069,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[React.js|React]] (1), application (1), [[HTML]] (1)
 > **Env Vars:** jsx (2), html (1), url (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (2)
@@ -1147,15 +1148,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (9), dom (3), [[HTML]] (1), [[npm]] (1)
 > **Env Vars:** jsx (8), dom (3), html (1), npm (1)
-> **Code Keywords:** let (2), this. (2), require (1)
 > **CLI Commands:** make (2), npm (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Handling State in a React Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Destructuring arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980)
@@ -1216,7 +1217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), super (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), management (1), [[npm]] (1), [[JavaScript]] (1), next (1)
 > **CLI Commands:** make (1), npm (1)
 > **Code Identifiers:** firstanimal (2)
 > **Documentation:** spec (2)
@@ -1300,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (9), this, (2), pass (1), this. (1)
+> **Frameworks & Libraries:** application (3), [[React.js|React]] (2), hit (1)
 > **Code Identifiers:** usestate (6), setstatus (3), onclick (2), dishobjects (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -1364,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), pass (1), this. (1)
+> **Frameworks & Libraries:** hit (1)
 > **UI Navigation:** click on (4), toggle (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** jsx (1)
@@ -1461,8 +1462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[React.js|React]] (1)
 > **Code Identifiers:** openstatus (5), onstatus (4), usestate (2), onclick (2), setstatus (1)
-> **Code Keywords:** pass (5), let (4), this. (2), function (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1521,7 +1522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), pass (4), let (2), case, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), management (1)
 > **Code Identifiers:** usereducer (6), usestate (1), onstatus (1), setstatus (1)
 > **UI Navigation:** toggle (3)
 > **File Paths:** app.jsx (1)
@@ -1597,7 +1598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), this. (2), case, (1), default, (1)
+> **Frameworks & Libraries:** hit (2), [[React.js|React]] (1), data (1)
 > **Code Identifiers:** useeffect (7), usereducer (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -1605,7 +1606,7 @@ created: 2026-04-29
 
 ### 5. React Server Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a project with Next.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980)
@@ -1694,8 +1695,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[Next.js]] (8), next (4), application (2), [[ESLint]] (1)
 > **File Paths:** next.js (8), layout.js (1), page.js (1)
-> **Code Keywords:** let (6), default. (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** make (1), npx (1), npm (1)
@@ -1782,7 +1783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), function (1), this, (1)
+> **Frameworks & Libraries:** [[Next.js]] (3), next (2), application (1), [[Routing]] (1), hit (1)
 > **File Paths:** next.js (3), page.js (2)
 > **CLI Commands:** make (3), npm (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -1890,7 +1891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), class= (2), default, (1), export. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (3), data (2), next (1), [[Next.js]] (1)
 > **CLI Commands:** make (6)
 > **File Paths:** page.js (2), next.js (1)
 > **Env Vars:** html (1), css (1)
@@ -1924,6 +1925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[React.js|React]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** readme (1)
 > **Cross-References:** in the next (1)
@@ -2001,9 +2003,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Next.js]] (1), node (1), [[npm]] (1)
 > **CLI Commands:** make (3), node (1), npm (1)
 > **UI Navigation:** go to (4), click on (1)
-> **Code Keywords:** let (3)
 > **File Paths:** next.js (1), layout.js (1)
 > **Cross-References:** go back to (2)
 > **Non-Speech:** (upbeat rhythmic music) (1), (keys clicking) (1)
@@ -2013,7 +2015,7 @@ created: 2026-04-29
 
 ### 6. Asynchronous React in Next.js
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fetching data in React applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980)
@@ -2114,7 +2116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), await (2), pass (1), const (1)
+> **Frameworks & Libraries:** data (17), [[Fetch]] (10), api (4), [[JSON]] (4), [[Representational State Transfer (REST)|Rest]] (3)
 > **Env Vars:** api (3), json (3), rest (2)
 > **CLI Commands:** make (3), node (1)
 > **File Paths:** next.js (2), response.json (1)
@@ -2266,7 +2268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (4), function (3), const (1), await (1)
+> **Frameworks & Libraries:** data (11), [[JSON]] (3), [[HTML]] (2), [[Fetch]] (2), next (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** html (2), json (2), xjs (1), jsx (1)
 > **Code Identifiers:** getdata (1), classname (1)
@@ -2358,7 +2360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), function (2), delete (1)
+> **Frameworks & Libraries:** data (5), [[Next.js]] (3), next (3), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** next.js (3), hotelblock.js (1)
 > **Env Vars:** url (2), rest (1), api (1)
 > **CLI Commands:** make (3)
@@ -2506,7 +2508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), data (1), next (1), [[React.js|React]] (1), [[Next.js]] (1)
 > **Env Vars:** html (3)
 > **Prerequisites:** configure (2)
 > **File Paths:** next.js (1)
@@ -2597,7 +2599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), this. (2), this, (2), let (1), pass (1)
+> **Frameworks & Libraries:** [[Next.js]] (2), data (1), application (1), api (1), database (1)
 > **Code Identifiers:** submitform (3), formdata (2), formfields (2), useserver (1)
 > **File Paths:** next.js (2), page.js (1)
 > **Env Vars:** todo (1), api (1)
@@ -2609,7 +2611,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing performant apps with React Server Components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980)
@@ -2642,6 +2644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Next.js]] (7), [[React.js|React]] (5), data (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** next.js (7)
 > **CLI Commands:** make (1)
 > **Env Vars:** rest (1)

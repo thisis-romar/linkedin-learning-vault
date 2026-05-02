@@ -32,7 +32,7 @@ tags:
   - topic/devops
   - skill/agile-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Agile%20Testing.md)
@@ -51,37 +51,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Testing agile projects
+  - [Testing agile projects](#testing-agile-projects)
 - [**1. What Is Agile Testing?**](#1-what-is-agile-testing) (5 videos)
-  - Testing in the agile context
-  - The role of the tester
-  - Shifting left
-  - Test collaborations
-  - Fundamental QA methods
+  - [Testing in the agile context](#testing-in-the-agile-context)
+  - [The role of the tester](#the-role-of-the-tester)
+  - [Shifting left](#shifting-left)
+  - [Test collaborations](#test-collaborations)
+  - [Fundamental QA methods](#fundamental-qa-methods)
 - [**2. The Agile Testing Approach**](#2-the-agile-testing-approach) (8 videos)
-  - Backlog grooming
-  - Sprint planning
-  - The "three amigos"
-  - Story kickoff
-  - Retrospective
-  - Action outcomes
-  - Challenge: Testing estimations
-  - Solution: Testing estimations
+  - [Backlog grooming](#backlog-grooming)
+  - [Sprint planning](#sprint-planning)
+  - [The "three amigos"](#the-three-amigos)
+  - [Story kickoff](#story-kickoff)
+  - [Retrospective](#retrospective)
+  - [Action outcomes](#action-outcomes)
+  - [Challenge: Testing estimations](#challenge-testing-estimations)
+  - [Solution: Testing estimations](#solution-testing-estimations)
 - [**3. Testing Process and Responsibilities**](#3-testing-process-and-responsibilities) (4 videos)
-  - Bug tracking
-  - Workflow
-  - Bug advocacy
-  - Test matrices
+  - [Bug tracking](#bug-tracking)
+  - [Workflow](#workflow)
+  - [Bug advocacy](#bug-advocacy)
+  - [Test matrices](#test-matrices)
 - [**4. Agile Testing In Action**](#4-agile-testing-in-action) (3 videos)
-  - Manual testing
-  - Test automation
-  - Continuous integration
+  - [Manual testing](#manual-testing)
+  - [Test automation](#test-automation)
+  - [Continuous integration](#continuous-integration)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing agile projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/testing-agile-projects?u=76281980)
@@ -106,12 +106,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5)
 > **Speakers:** - testing (1)
 
 
 ### 1. What Is Agile Testing?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing in the agile context
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/testing-in-the-agile-context-19300571?u=76281980)
@@ -142,9 +143,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), product (2)
 > **Definitions:** is called (1), is an  (1)
 > **Analogies:** imagine (2)
-> **Code Keywords:** self (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - testing (1)
 
@@ -199,7 +200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), implements (1), this. (1)
+> **Frameworks & Libraries:** product (15), business (4), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -260,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** product (2), [[Product Development]] (1), [[Agile Development|Agile]] (1), feature (1), [[Engineering]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
@@ -309,6 +310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Agile Development|Agile]] (7), data (3), [[Real-Time]] (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - as (1)
 
@@ -373,17 +375,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Scrum]] (1), power (1), functional (1), [[Security]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - being (1)
 
 
 ### 2. The Agile Testing Approach
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Backlog grooming
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/backlog-grooming-19801484?u=76281980)
@@ -416,6 +418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - in (1)
 
@@ -473,6 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), for example (1)
@@ -579,7 +583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Scrum]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - when (1)
 
@@ -624,6 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Agile Development|Agile]] (3), teams (1), [[Scrum]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - agile (1)
 
 #### Challenge: Testing estimations
@@ -655,6 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), next (1)
 > **Speakers:** - it (1)
 
 #### Solution: Testing estimations
@@ -708,14 +714,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** next (1), data (1), [[Automation]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
 
 
 ### 3. Testing Process and Responsibilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bug tracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/bug-tracking-19295906?u=76281980)
@@ -786,8 +792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), web (2), [[Agile Development|Agile]] (1), game (1), feature (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - organization (1)
@@ -845,6 +851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), teams (1), next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
@@ -908,8 +915,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), career (1), product (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
@@ -986,19 +993,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (12), application (3), next (1), [[Google]] (1), [[Analytics]] (1)
 > **Code Identifiers:** ipad (2), iphone (2)
 > **Analogies:** such as (2), for example (2)
 > **Tools:** safari (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), for, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
 
 ### 4. Agile Testing In Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/manual-testing-19295905?u=76281980)
@@ -1045,8 +1052,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Manual Testing]] (3), product (1), strengths (1)
 > **Definitions:** is a  (3), means that (1), is called (1)
-> **Code Keywords:** pass (1)
 > **Analogies:** for example (1)
 > **Speakers:** - testing (1)
 
@@ -1091,9 +1098,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test Automation]] (3), application (2), [[Load Testing]] (1), product (1), [[Manual Testing]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - people (1)
 
@@ -1134,12 +1141,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (4), feature (1)
 > **Speakers:** - continuous (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/next-steps-23016445?u=76281980)
@@ -1158,6 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - thanks (1)

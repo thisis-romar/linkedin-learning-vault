@@ -28,7 +28,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Vba%20Managing%20Files%20And%20Data.md)
@@ -47,75 +47,75 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Automate repetitive tasks using Excel VBA
-  - Manage files and data using Excel VBA
+  - [Automate repetitive tasks using Excel VBA](#automate-repetitive-tasks-using-excel-vba)
+  - [Manage files and data using Excel VBA](#manage-files-and-data-using-excel-vba)
 - [**1. Focusing Data Using Filters**](#1-focusing-data-using-filters) (6 videos)
-  - Select the active region
-  - Create a filter
-  - Filter based on more than one field
-  - Combine criteria using OR
-  - Find unique items using xlFilter
-  - Restore a range or worksheet to an unfiltered state
+  - [Select the active region](#select-the-active-region)
+  - [Create a filter](#create-a-filter)
+  - [Filter based on more than one field](#filter-based-on-more-than-one-field)
+  - [Combine criteria using OR](#combine-criteria-using-or)
+  - [Find unique items using xlFilter](#find-unique-items-using-xlfilter)
+  - [Restore a range or worksheet to an unfiltered state](#restore-a-range-or-worksheet-to-an-unfiltered-state)
 - [**2. Managing Files Using VBA**](#2-managing-files-using-vba) (7 videos)
-  - Determine if a workbook exists
-  - Determine if a folder (directory) exists
-  - Detect whether a file is open
-  - Open a workbook
-  - Close a workbook
-  - Save a workbook under a new name
-  - Save a workbook as a CSV file
+  - [Determine if a workbook exists](#determine-if-a-workbook-exists)
+  - [Determine if a folder (directory) exists](#determine-if-a-folder-directory-exists)
+  - [Detect whether a file is open](#detect-whether-a-file-is-open)
+  - [Open a workbook](#open-a-workbook)
+  - [Close a workbook](#close-a-workbook)
+  - [Save a workbook under a new name](#save-a-workbook-under-a-new-name)
+  - [Save a workbook as a CSV file](#save-a-workbook-as-a-csv-file)
 - [**3. Managing Worksheets Using VBA**](#3-managing-worksheets-using-vba) (8 videos)
-  - Check if a worksheet exists
-  - Create and rename worksheets
-  - Copy a worksheet within the active workbook
-  - Copy a worksheet to a new workbook
-  - Copy a worksheet to an existing workbook
-  - Move a worksheet within the active workbook
-  - Move a worksheet to a new workbook
-  - Move a worksheet to an existing workbook
+  - [Check if a worksheet exists](#check-if-a-worksheet-exists)
+  - [Create and rename worksheets](#create-and-rename-worksheets)
+  - [Copy a worksheet within the active workbook](#copy-a-worksheet-within-the-active-workbook)
+  - [Copy a worksheet to a new workbook](#copy-a-worksheet-to-a-new-workbook)
+  - [Copy a worksheet to an existing workbook](#copy-a-worksheet-to-an-existing-workbook)
+  - [Move a worksheet within the active workbook](#move-a-worksheet-within-the-active-workbook)
+  - [Move a worksheet to a new workbook](#move-a-worksheet-to-a-new-workbook)
+  - [Move a worksheet to an existing workbook](#move-a-worksheet-to-an-existing-workbook)
 - [**4. Taking Advantage of Built-In Functions**](#4-taking-advantage-of-built-in-functions) (5 videos)
-  - Use the built-in Open dialog box
-  - Suppress and restore alerts
-  - Calculate data using Excel worksheet functions
-  - Use the current date and time
-  - Remove spaces from before or after a string
+  - [Use the built-in Open dialog box](#use-the-built-in-open-dialog-box)
+  - [Suppress and restore alerts](#suppress-and-restore-alerts)
+  - [Calculate data using Excel worksheet functions](#calculate-data-using-excel-worksheet-functions)
+  - [Use the current date and time](#use-the-current-date-and-time)
+  - [Remove spaces from before or after a string](#remove-spaces-from-before-or-after-a-string)
 - [**5. Managing Charts in VBA**](#5-managing-charts-in-vba) (8 videos)
-  - Create a chart
-  - Move a chart to a chart sheet
-  - Add or remove data series from a chart
-  - Export a chart as an image
-  - Create a line sparkline
-  - Create a column sparkline
-  - Create a win/loss sparkline
-  - Delete a sparkline
+  - [Create a chart](#create-a-chart)
+  - [Move a chart to a chart sheet](#move-a-chart-to-a-chart-sheet)
+  - [Add or remove data series from a chart](#add-or-remove-data-series-from-a-chart)
+  - [Export a chart as an image](#export-a-chart-as-an-image)
+  - [Create a line sparkline](#create-a-line-sparkline)
+  - [Create a column sparkline](#create-a-column-sparkline)
+  - [Create a win/loss sparkline](#create-a-winloss-sparkline)
+  - [Delete a sparkline](#delete-a-sparkline)
 - [**6. Creating UserForms**](#6-creating-userforms) (10 videos)
-  - Create a UserForm
-  - Add a TextBox to a UserForm
-  - Add a ListBox to a UserForm
-  - Add a ComboBox to a UserForm
-  - Add an option button to a UserForm
-  - Add graphics to a UserForm
-  - Add a SpinButton to a UserForm
-  - Create a multipage or multitab UserForm
-  - Write UserForm data to a worksheet
-  - Run a UserForm
+  - [Create a UserForm](#create-a-userform)
+  - [Add a TextBox to a UserForm](#add-a-textbox-to-a-userform)
+  - [Add a ListBox to a UserForm](#add-a-listbox-to-a-userform)
+  - [Add a ComboBox to a UserForm](#add-a-combobox-to-a-userform)
+  - [Add an option button to a UserForm](#add-an-option-button-to-a-userform)
+  - [Add graphics to a UserForm](#add-graphics-to-a-userform)
+  - [Add a SpinButton to a UserForm](#add-a-spinbutton-to-a-userform)
+  - [Create a multipage or multitab UserForm](#create-a-multipage-or-multitab-userform)
+  - [Write UserForm data to a worksheet](#write-userform-data-to-a-worksheet)
+  - [Run a UserForm](#run-a-userform)
 - [**7. Managing PivotTables Using VBA**](#7-managing-pivottables-using-vba) (4 videos)
-  - Record a PivotTable configuration
-  - Assign a PivotTable macro to the Quick Access Toolbar
-  - Advance one step forward in a PivotTable playlist
-  - Move to any PivotTable playlist position
+  - [Record a PivotTable configuration](#record-a-pivottable-configuration)
+  - [Assign a PivotTable macro to the Quick Access Toolbar](#assign-a-pivottable-macro-to-the-quick-access-toolbar)
+  - [Advance one step forward in a PivotTable playlist](#advance-one-step-forward-in-a-pivottable-playlist)
+  - [Move to any PivotTable playlist position](#move-to-any-pivottable-playlist-position)
 - [**8. Incorporating New Excel Functions**](#8-incorporating-new-excel-functions) (5 videos)
-  - List unique values from a data set using UNIQUE
-  - Limit data displayed in a worksheet using FILTER
-  - Change the order of data using SORT and SORTBY
-  - Copy data from a list using TAKE
-  - Delete data from a list using DROP
+  - [List unique values from a data set using UNIQUE](#list-unique-values-from-a-data-set-using-unique)
+  - [Limit data displayed in a worksheet using FILTER](#limit-data-displayed-in-a-worksheet-using-filter)
+  - [Change the order of data using SORT and SORTBY](#change-the-order-of-data-using-sort-and-sortby)
+  - [Copy data from a list using TAKE](#copy-data-from-a-list-using-take)
+  - [Delete data from a list using DROP](#delete-data-from-a-list-using-drop)
 - [**9. Continuing Your Excel VBA Learning Journey**](#9-continuing-your-excel-vba-learning-journey) (1 videos)
-  - Further resources
+  - [Further resources](#further-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automate repetitive tasks using Excel VBA
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980)
@@ -134,8 +134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), power (2), [[LinkedIn]] (1)
 > **Env Vars:** vba (4)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [curt] (1)
 
@@ -208,7 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), protected (2), switch (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (8), [[Microsoft Excel|Excel]] (5), [[Microsoft Office]] (2), [[Programming]] (1), game (1)
 > **Exercise Files:** exercise files (2)
 > **Warnings:** be careful (1), warning (1)
 > **CLI Commands:** make (1)
@@ -220,7 +220,7 @@ created: 2026-04-29
 
 ### 1. Focusing Data Using Filters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Select the active region
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/select-the-active-region?u=76281980)
@@ -287,9 +287,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (4), [[Microsoft Excel]] (1)
 > **Env Vars:** c15 (3), f11 (3), vba (2), ctrl (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** module (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
@@ -379,8 +379,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (1), database (1)
 > **Env Vars:** f11 (16), vba (1), alt (1), b12 (1)
-> **Code Keywords:** let (3), switch (1), if, (1), for. (1), delete (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (4)
 > **Exercise Files:** exercise files (1)
@@ -431,9 +431,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1)
 > **Env Vars:** f11 (4), vba (2), c15 (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** module (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -548,9 +548,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), next (1)
 > **Env Vars:** f11 (6), vba (3), alt (3), c15 (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
-> **Code Keywords:** let (3), continue (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -652,8 +652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel]] (2), next (2)
 > **Env Vars:** f11 (6), vba (2)
-> **Code Keywords:** let (3), from. (1), require (1), interface (1), function (1)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** xlfilterinplace (1)
 > **UI Navigation:** go to (1)
@@ -718,9 +718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** f11 (8), vba (3), c15 (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** straddress (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -728,7 +728,7 @@ created: 2026-04-29
 
 ### 2. Managing Files Using VBA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine if a workbook exists
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980)
@@ -821,7 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), module (1), let (1), for. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1), [[Windows]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** vba (2), f11 (1)
 > **Code Identifiers:** strfilename (1), bisthere (1)
@@ -920,7 +920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), case, (1), let (1), this, (1), switch (1)
+> **Frameworks & Libraries:** next (2), data (1), [[Windows]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** strpathname (2), vbdirectory (1)
 > **Env Vars:** f11 (1), vba (1)
@@ -1024,7 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), continue (1), else, (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft Excel|Excel]] (1), data (1)
 > **Definitions:** is a  (4), is called (2), is an  (1)
 > **Env Vars:** f11 (2), vba (1)
 > **CLI Commands:** make (1), find (1)
@@ -1078,9 +1078,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** module (1)
 > **Env Vars:** f11 (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1206,8 +1206,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Microsoft Excel|Excel]] (2), application (2), data (1), [[Debugging]] (1)
 > **Env Vars:** vba (3), f11 (3)
-> **Code Keywords:** let (4), module (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1304,8 +1304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (1), [[Windows]] (1), application (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** case, (1), let (1)
 > **Env Vars:** vba (1), alt (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -1400,8 +1400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (4), application (3), [[Windows]] (1), [[Debugging]] (1)
 > **Env Vars:** csv (6), f11 (2), vba (1)
-> **Code Keywords:** module (2), switch (1), let (1)
 > **Exercise Files:** exercise files (3)
 > **File Paths:** saveascsv.csv (2)
 > **Code Identifiers:** xlcsv (2)
@@ -1412,7 +1412,7 @@ created: 2026-04-29
 
 ### 3. Managing Worksheets Using VBA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Check if a worksheet exists
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/check-if-a-worksheet-exists?u=76281980)
@@ -1481,7 +1481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), continue (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (1)
 > **Env Vars:** vba (2), f11 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -1544,8 +1544,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), next (1)
 > **Env Vars:** f11 (6), vba (4)
-> **Code Keywords:** let (4), switch (1), module (1), for. (1), case, (1)
 > **UI Navigation:** in the tab (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -1722,8 +1722,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **Env Vars:** f11 (4), vba (2)
-> **Code Keywords:** this. (1), let (1), case, (1)
 > **UI Navigation:** right-click (2), select the (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** find (1)
@@ -1833,7 +1833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), [[Windows]] (1)
 > **Definitions:** is called (2), is a  (1), is an  (1)
 > **Env Vars:** vba (1), f11 (1)
 > **UI Navigation:** open the (1), select the (1)
@@ -1879,8 +1879,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** f11 (4), vba (2)
-> **Code Keywords:** let (1), case, (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
@@ -1973,6 +1973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** vba (2), f11 (2), vpa (1)
 > **UI Navigation:** right-click (3), double-click (1)
 > **CLI Commands:** make (1)
@@ -2093,7 +2094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), continue (1), switch (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), [[Windows]] (2), next (1)
 > **Definitions:** is an  (2), is called (1), means that (1)
 > **Env Vars:** f11 (2), alt (1)
 > **CLI Commands:** find (1), make (1)
@@ -2105,7 +2106,7 @@ created: 2026-04-29
 
 ### 4. Taking Advantage of Built-In Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the built-in Open dialog box
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-built-in-open-dialog-box?u=76281980)
@@ -2146,8 +2147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Windows]] (1), [[Microsoft Excel|Excel]] (1), data (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** module (1), for. (1)
 > **Env Vars:** vba (1), f11 (1)
 > **Cross-References:** go back to (1), later in (1)
 > **UI Navigation:** select the (2)
@@ -2217,7 +2218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (11), continue (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), application (2), [[Microsoft Excel]] (1), [[Programming]] (1), next (1)
 > **Env Vars:** vba (3), f11 (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), in other words (1)
@@ -2323,8 +2324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), application (2), [[Microsoft Excel]] (1), next (1)
 > **Env Vars:** vba (3), cpv (2), ctrl (1), alt (1), f11 (1)
-> **Code Keywords:** function (2), case, (1), let (1), switch (1), module (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Versions:** 0.1957 (1)
@@ -2435,7 +2436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), function (2), module (1), switch (1), pass (1)
+> **Frameworks & Libraries:** business (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** vba (2), alt (2), f11 (2)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), such as (1)
@@ -2513,7 +2514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), function (1), continue (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** vba (2), f11 (1)
 > **Code Identifiers:** stext1 (1), stext3 (1)
 > **CLI Commands:** find (1)
@@ -2523,7 +2524,7 @@ created: 2026-04-29
 
 ### 5. Managing Charts in VBA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-chart?u=76281980)
@@ -2616,8 +2617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (5), next (4), [[Microsoft Excel]] (1)
 > **Env Vars:** vba (4), f11 (4), alt (1)
-> **Code Keywords:** type. (1), switch (1), let (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** xlcolumnclustered (2)
@@ -2708,9 +2709,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), next (1)
 > **Env Vars:** f11 (3), vba (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** switch (2)
 > **UI Navigation:** go to (1), select the (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -2820,6 +2821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** f11 (4), vba (2)
 > **CLI Commands:** find (2), make (2)
 > **Code Identifiers:** intseriescount (2)
@@ -2905,6 +2907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** f11 (2), vba (1)
 > **Cross-References:** go back to (1)
@@ -2960,6 +2963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** xlsparkline (2)
 > **Env Vars:** f11 (2)
@@ -3008,9 +3012,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** f11 (2), vba (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case, (1), type, (1)
 > **Code Identifiers:** xlsparkcolumn (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -3095,7 +3099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type: (1), continue (1), module (1)
+> **Frameworks & Libraries:** data (3), hit (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** f11 (2)
 > **Code Identifiers:** xlsparkcolumnstacked100 (1)
@@ -3144,7 +3148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** f11 (2), vba (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** earlier in (1)
@@ -3155,7 +3159,7 @@ created: 2026-04-29
 
 ### 6. Creating UserForms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a UserForm
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980)
@@ -3200,6 +3204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[Forms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** vba (1), f11 (1)
 > **Cross-References:** later in (1)
@@ -3273,11 +3278,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Definitions:** is a  (1), means that (1), refers to (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), case, (1)
 > **Env Vars:** f11 (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -3357,8 +3362,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **UI Navigation:** open the (1), scroll down (1), click on (1)
-> **Code Keywords:** let (1), continue (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** f11 (1)
@@ -3439,8 +3444,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), continue (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** just like (1), for example (1)
 > **Env Vars:** f11 (1)
@@ -3568,7 +3573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), delete (1)
+> **Frameworks & Libraries:** data (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** f11 (1), vba (1)
 > **Cross-References:** go back to (2)
@@ -3660,9 +3665,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Zoom]] (2), [[Microsoft Office|Office]] (1), management (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** picture (4), for example (2), such as (1)
-> **Code Keywords:** default, (1), this, (1), case, (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (2)
 > **Env Vars:** f11 (1)
@@ -3764,10 +3769,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** switch (1), let (1)
 > **Env Vars:** f11 (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -3892,7 +3897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (1)
+> **Frameworks & Libraries:** [[Forms]] (2), data (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
 > **Warnings:** note that (2)
@@ -4038,9 +4043,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[Search]] (1)
 > **Code Identifiers:** lngrow (7), txtfirstname (1), txtlastname (1), txtcountry (1), chknew (1)
 > **Env Vars:** txt (4), f11 (1), a1048576 (1), r1c1 (1), vba (1)
-> **Code Keywords:** let (2), finally, (2), new, (1), new. (1), switch (1)
 > **UI Navigation:** checkbox (4), go to (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (1), make (1)
@@ -4120,8 +4125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** vba (2), usa (2), alt (1), f11 (1)
-> **Code Keywords:** module (4), switch (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** frmcustomerinfo (1)
@@ -4132,7 +4137,7 @@ created: 2026-04-29
 
 ### 7. Managing PivotTables Using VBA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Record a PivotTable configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980)
@@ -4221,7 +4226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1), type. (1), type, (1)
+> **Frameworks & Libraries:** data (2), [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -4293,6 +4298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -4431,7 +4437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (1), switch (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), next (4), data (1), [[Microsoft Word|Word]] (1), [[Programming]] (1)
 > **Env Vars:** f11 (4), vba (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **UI Navigation:** go to (3), open the (1)
@@ -4589,7 +4595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (1), case. (1), finally, (1), switch (1)
+> **Frameworks & Libraries:** next (3), [[Programming]] (2), data (1)
 > **Code Identifiers:** imove (3), iposition (2), ispecific (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -4601,7 +4607,7 @@ created: 2026-04-29
 
 ### 8. Incorporating New Excel Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### List unique values from a data set using UNIQUE
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980)
@@ -4684,8 +4690,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** function (2), case, (1)
 > **Analogies:** such as (2)
 > **Env Vars:** a10 (1)
 > **Exercise Files:** exercise files (1)
@@ -4782,7 +4788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), for. (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1)
 > **Env Vars:** c15 (2), a15 (2), vba (1), e11 (1), b15 (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (1)
@@ -4849,7 +4855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), type = (2), case, (2), delete (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (1), hit (1)
 > **Env Vars:** c15 (3), vba (1), a15 (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -4953,7 +4959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), type = (1), new, (1), case, (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** countif (3), b10 (2), a10 (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** double-click (1)
@@ -5043,8 +5049,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** drop (4), a10 (3), b10 (3), countif (2)
-> **Code Keywords:** function (3), let (3), type = (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -5054,7 +5060,7 @@ created: 2026-04-29
 
 ### 9. Continuing Your Excel VBA Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980)
@@ -5085,9 +5091,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Programming]] (3), power (1), [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** vba (3)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 

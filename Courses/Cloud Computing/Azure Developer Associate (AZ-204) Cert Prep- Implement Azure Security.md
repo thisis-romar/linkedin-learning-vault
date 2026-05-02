@@ -23,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Developer%20Associate%20(AZ-204)%20Cert%20Prep-%20Implement%20Azure%20Security.md)
@@ -42,42 +42,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why security matters for developers
-  - What you should know
+  - [Why security matters for developers](#why-security-matters-for-developers)
+  - [What you should know](#what-you-should-know)
 - [**1. Control access to Azure**](#1-control-access-to-azure) (10 videos)
-  - Azure Role Based Access Control (RBAC)
-  - Grant role based access to a user
-  - Azure RBAC roles for development
-  - The contributor role
-  - The User Access Administrator and Owner roles
-  - Custom Azure RBAC roles
-  - Create custom Azure RBAC roles
-  - Management pane vs data pane RBAC roles
-  - Challenge: Design Azure access control
-  - Solution: Design Azure access control design
+  - [Azure Role Based Access Control (RBAC)](#azure-role-based-access-control-rbac)
+  - [Grant role based access to a user](#grant-role-based-access-to-a-user)
+  - [Azure RBAC roles for development](#azure-rbac-roles-for-development)
+  - [The contributor role](#the-contributor-role)
+  - [The User Access Administrator and Owner roles](#the-user-access-administrator-and-owner-roles)
+  - [Custom Azure RBAC roles](#custom-azure-rbac-roles)
+  - [Create custom Azure RBAC roles](#create-custom-azure-rbac-roles)
+  - [Management pane vs data pane RBAC roles](#management-pane-vs-data-pane-rbac-roles)
+  - [Challenge: Design Azure access control](#challenge-design-azure-access-control)
+  - [Solution: Design Azure access control design](#solution-design-azure-access-control-design)
 - [**2. Control user access to your apps**](#2-control-user-access-to-your-apps) (6 videos)
-  - Register an application to Azure AD
-  - Web application sign in with Azure AD
-  - Securing web application authentication with Azure AD Conditional Access
-  - The Microsoft Authentication Library
-  - Challenge: Internal web app with Azure AD
-  - Solution: Internal web application with Azure AD
+  - [Register an application to Azure AD](#register-an-application-to-azure-ad)
+  - [Web application sign in with Azure AD](#web-application-sign-in-with-azure-ad)
+  - [Securing web application authentication with Azure AD Conditional Access](#securing-web-application-authentication-with-azure-ad-conditional-access)
+  - [The Microsoft Authentication Library](#the-microsoft-authentication-library)
+  - [Challenge: Internal web app with Azure AD](#challenge-internal-web-app-with-azure-ad)
+  - [Solution: Internal web application with Azure AD](#solution-internal-web-application-with-azure-ad)
 - [**3. Control app access to your data**](#3-control-app-access-to-your-data) (9 videos)
-  - Manage Azure application secrets
-  - Shared Access Signatures in Azure
-  - Azure Key Vault service
-  - Adding secrets to an Azure Key Vault
-  - Azure Key Vault Access Policies
-  - Audit logs
-  - Managed Identity for Azure Resources
-  - Challenge: Design data access controls
-  - Solution: Design data access controls
+  - [Manage Azure application secrets](#manage-azure-application-secrets)
+  - [Shared Access Signatures in Azure](#shared-access-signatures-in-azure)
+  - [Azure Key Vault service](#azure-key-vault-service)
+  - [Adding secrets to an Azure Key Vault](#adding-secrets-to-an-azure-key-vault)
+  - [Azure Key Vault Access Policies](#azure-key-vault-access-policies)
+  - [Audit logs](#audit-logs)
+  - [Managed Identity for Azure Resources](#managed-identity-for-azure-resources)
+  - [Challenge: Design data access controls](#challenge-design-data-access-controls)
+  - [Solution: Design data access controls](#solution-design-data-access-controls)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Developing solutions for Azure and beyond
+  - [Developing solutions for Azure and beyond](#developing-solutions-for-azure-and-beyond)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why security matters for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Security]] (5), application (2), [[Application Development]] (1), [[LinkedIn]] (1)
 > **Env Vars:** mvp (1), cissp (1)
 > **Speakers:** - [karl] (1)
 
@@ -136,6 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Security]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
 > **Warnings:** note that (1)
@@ -144,7 +146,7 @@ created: 2026-04-29
 
 ### 1. Control access to Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Role Based Access Control (RBAC)
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980)
@@ -211,9 +213,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microsoft]] (6), [[Virtual Machines]] (3), [[Microsoft Entra ID|Azure ad]] (3), next (3)
 > **Definitions:** is called (2), is a  (2), is an  (2), means that (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (1), finally, (1), case, (1)
 > **Env Vars:** rbac (1), api (1), sql (1)
 > **Code Identifiers:** virtualmachines (2)
 > **URLs:** [onmicrosoft.com](https://onmicrosoft.com) (1)
@@ -279,7 +281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), while, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), next (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft Entra ID|Azure ad]] (1), business (1)
 > **UI Navigation:** select the (1), click on (1), navigate to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -324,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), next (1), management (1), data (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rbac (1)
@@ -371,7 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), business (1), application (1), [[Search]] (1), hit (1)
 > **UI Navigation:** navigate to (2), go to (2), click on (1)
 > **Env Vars:** snl (1)
 > **Definitions:** is a  (1)
@@ -412,10 +414,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (6), application (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Best Practices:** rule of thumb (1), you should always (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Custom Azure RBAC roles
@@ -469,9 +471,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (3), web (3), [[Security]] (1), management (1)
 > **Analogies:** for example (4), just like (1), similar to (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -549,8 +551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (10), database (7), [[Microsoft]] (5), [[Microsoft Azure|Azure]] (4), [[Search]] (3)
 > **Env Vars:** sql (8), cli (1)
-> **Code Keywords:** let (2), delete (2)
 > **File Paths:** microsoft.sql (3)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** az (1)
@@ -621,7 +623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (1), switch (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Azure|Azure]] (8), management (3), [[SQL]] (1), next (1)
 > **Env Vars:** sql (1), pdf (1)
 > **UI Navigation:** navigate to (1), drag and drop (1)
 > **Definitions:** is called (1)
@@ -662,8 +664,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), web application (1), [[SQL]] (1), database (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (1), pdf (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** next video (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -692,6 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (3), application (2), business (1), next (1), data (1)
 > **Env Vars:** rbac (1), sql (1)
 > **Analogies:** just like (1)
 > **Speakers:** - and (1)
@@ -700,7 +703,7 @@ created: 2026-04-29
 
 ### 2. Control user access to your apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Register an application to Azure AD
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980)
@@ -765,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** application (13), [[Microsoft Entra ID|Azure active directory]] (6), [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft Azure|Azure]] (4), feature (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** navigate to (1), scroll down (1), click on (1)
 > **Tools:** azure portal (2)
@@ -889,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (3), from. (2), match. (1), this. (1)
+> **Frameworks & Libraries:** application (12), [[Microsoft Entra ID|Azure ad]] (8), [[Microsoft Entra ID|Azure active directory]] (4), web (3), [[Microsoft Azure|Azure]] (3)
 > **Prerequisites:** configure (4), set up (2)
 > **Env Vars:** url (3)
 > **UI Navigation:** scroll down (1), navigate to (1)
@@ -986,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), continue (1), finally, (1)
+> **Frameworks & Libraries:** application (7), [[Microsoft Entra ID|Azure ad]] (4), web application (3), [[Microsoft Office|Office]] (1), [[Security]] (1)
 > **UI Navigation:** click on (2), select the (2), scroll down (1)
 > **Prerequisites:** set up (2), configure (2)
 > **URLs:** [azurewebsites.net](https://azurewebsites.net) (1)
@@ -1016,9 +1019,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (4), application (3), [[Microsoft Azure|Azure]] (1), web application (1), [[Windows]] (1)
 > **Env Vars:** msal (1), net (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for . (1)
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1047,6 +1050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web application (2), [[Microsoft Azure|Azure]] (1), cloud (1), [[Security]] (1), [[Active Directory]] (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (upbeat intro music) (1)
 
@@ -1075,7 +1079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** web application (2), next (2)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1083,7 +1087,7 @@ created: 2026-04-29
 
 ### 3. Control app access to your data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage Azure application secrets
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980)
@@ -1172,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (2), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Products|Products]] (2), hit (2), feature (1), web application (1)
 > **Env Vars:** sql (1), pdf (1)
 > **UI Navigation:** navigate to (1), select the (1)
 > **Analogies:** just like (1), for example (1)
@@ -1293,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (5), private (4), delete (3), this, (3)
+> **Frameworks & Libraries:** [[Tokens]] (13), [[Microsoft Azure|Azure]] (13), web application (1), data (1), hit (1)
 > **Env Vars:** sas (18), url (3)
 > **UI Navigation:** click on (3), drag and drop (1), navigate to (1), right-click (1)
 > **Analogies:** for example (5)
@@ -1347,9 +1351,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (3), [[Microsoft]] (1), [[Hardware]] (1), [[Security]] (1)
 > **Analogies:** such as (1), just like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** new, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1425,7 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), finally, (1), import. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), application (4), web application (1), business (1), next (1)
 > **Env Vars:** sas (2), tls (1), ssl (1), url (1)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Prerequisites:** set up (2), configure (2)
@@ -1473,7 +1477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), finally, (1)
+> **Frameworks & Libraries:** management (1), [[Microsoft Azure|Azure]] (1), data (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **UI Navigation:** click on (1), navigate to (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Cross-References:** we discussed (1)
@@ -1513,7 +1517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft Azure|Azure]] (1), web application (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
@@ -1603,7 +1607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Microsoft Entra ID|Azure ad]] (7), application (7), web application (3), data (3)
 > **UI Navigation:** click on (4), navigate to (2), select the (2)
 > **Env Vars:** aks (3), uri (1)
 > **Analogies:** for example (3), just like (1)
@@ -1635,7 +1639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** application (1), web (1), database (1), [[Microsoft Azure|Azure]] (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1663,8 +1667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft Azure|Azure]] (4), database (2), web (2), data (2)
 > **Env Vars:** sql (6)
-> **Code Keywords:** case, (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1673,7 +1677,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing solutions for Azure and beyond
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980)
@@ -1778,7 +1782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), this. (2), case, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Security]] (10), application (3), web (2), data (2)
 > **Env Vars:** http (5), https (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** az (1), find (1)

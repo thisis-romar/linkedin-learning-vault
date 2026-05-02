@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/pandas-software
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Advanced%20Pandas.md)
@@ -46,36 +46,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Take pandas to the next level
+  - [Take pandas to the next level](#take-pandas-to-the-next-level)
 - [**1. From Beginner to Advanced pandas**](#1-from-beginner-to-advanced-pandas) (4 videos)
-  - Getting started with pandas
-  - Intro to DataFrames using pandas
-  - Top functions using pandas
-  - Configuring options using pandas
+  - [Getting started with pandas](#getting-started-with-pandas)
+  - [Intro to DataFrames using pandas](#intro-to-dataframes-using-pandas)
+  - [Top functions using pandas](#top-functions-using-pandas)
+  - [Configuring options using pandas](#configuring-options-using-pandas)
 - [**2. Advanced Calculations**](#2-advanced-calculations) (5 videos)
-  - Data type conversions using pandas
-  - Working with strings using pandas
-  - Working with dates using pandas
-  - Dealing with missing data using pandas
-  - Using the apply, map, and applymap functions
+  - [Data type conversions using pandas](#data-type-conversions-using-pandas)
+  - [Working with strings using pandas](#working-with-strings-using-pandas)
+  - [Working with dates using pandas](#working-with-dates-using-pandas)
+  - [Dealing with missing data using pandas](#dealing-with-missing-data-using-pandas)
+  - [Using the apply, map, and applymap functions](#using-the-apply-map-and-applymap-functions)
 - [**3. Transforming DataFrames**](#3-transforming-dataframes) (4 videos)
-  - Groupby and aggregations using pandas
-  - Reshaping DataFrames with pivot or stack
-  - Merging (merge, join) and concatenating (concat) DataFrames
-  - Mapping variables into groups
+  - [Groupby and aggregations using pandas](#groupby-and-aggregations-using-pandas)
+  - [Reshaping DataFrames with pivot or stack](#reshaping-dataframes-with-pivot-or-stack)
+  - [Merging (merge, join) and concatenating (concat) DataFrames](#merging-merge-join-and-concatenating-concat-dataframes)
+  - [Mapping variables into groups](#mapping-variables-into-groups)
 - [**4. Exploratory Data Analysis and Visualization**](#4-exploratory-data-analysis-and-visualization) (2 videos)
-  - Plotting with pandas
-  - Correlations and statistical functions
+  - [Plotting with pandas](#plotting-with-pandas)
+  - [Correlations and statistical functions](#correlations-and-statistical-functions)
 - [**5. Beyond pandas**](#5-beyond-pandas) (3 videos)
-  - Accelerate exploratory data analysis with pandas-profiling
-  - Explore geographic data with GeoPandas
-  - Beyond pandas with Dask and Koalas (Spark)
+  - [Accelerate exploratory data analysis with pandas-profiling](#accelerate-exploratory-data-analysis-with-pandas-profiling)
+  - [Explore geographic data with GeoPandas](#explore-geographic-data-with-geopandas)
+  - [Beyond pandas with Dask and Koalas (Spark)](#beyond-pandas-with-dask-and-koalas-spark)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your path forward using advanced pandas functions
+  - [Your path forward using advanced pandas functions](#your-path-forward-using-advanced-pandas-functions)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take pandas to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980)
@@ -100,14 +100,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), data (5), [[Python (Programming Language)|Python]] (1), next (1), [[Analytics]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [brett] (1)
 
 
 ### 1. From Beginner to Advanced pandas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/getting-started-with-pandas?u=76281980)
@@ -140,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (5), data (3), next (1)
 > **CLI Commands:** python (5), find (1), make (1), pip (1)
 > **Tools:** jupyter (2), command line (1), anaconda (1)
 > **Prerequisites:** install (3)
@@ -200,7 +201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (4), database (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), python (1)
 > **Code Identifiers:** name_city (1)
@@ -275,7 +276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), try. (1)
+> **Frameworks & Libraries:** data (32), [[Pandas (Software)|Pandas]] (9), [[Microsoft Excel|Excel]] (1), [[Databases]] (1), next (1)
 > **Env Vars:** csv (5)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** sepal_length (1)
@@ -326,16 +327,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), data (5), feature (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** default. (1)
 > **Code Identifiers:** float_format (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Advanced Calculations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data type conversions using pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/data-type-conversions-using-pandas?u=76281980)
@@ -390,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), for. (1), case, (1)
+> **Frameworks & Libraries:** data (16), [[Pandas (Software)|Pandas]] (6)
 > **Env Vars:** csv (1), str (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** find (1)
@@ -448,7 +449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (3), next (2)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -515,7 +516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), pass (1), type. (1)
+> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (4), [[SQL]] (2)
 > **Code Identifiers:** period_range (1), to_timestamp (1), dt_day_name (1)
 > **Env Vars:** sql (2)
 > **Analogies:** similar to (2)
@@ -611,7 +612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default. (1), default, (1), pass (1)
+> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (3)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
@@ -704,7 +705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), lambda (4), this. (1)
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (3), application (3), teams (2), next (2)
 > **Definitions:** known as (1), is an  (1), is called (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -712,7 +713,7 @@ created: 2026-04-29
 
 ### 3. Transforming DataFrames
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Groupby and aggregations using pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980)
@@ -795,7 +796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), pass (2), lambda (1)
+> **Frameworks & Libraries:** data (8), [[SQL]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** sepal_length (3), sepal_width (1), get_group (1), petal_length (1)
 > **Env Vars:** sql (2), where (1), having (1)
 > **SQL:** where (1), having (1)
@@ -905,7 +906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (2), require (1), default, (1)
+> **Frameworks & Libraries:** data (13), [[Pandas (Software)|Pandas]] (2), teams (2), next (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1)
@@ -1020,7 +1021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (3), this, (2), let (1), type. (1)
+> **Frameworks & Libraries:** data (30), [[Pandas (Software)|Pandas]] (3), next (2), [[SQL]] (1)
 > **Definitions:** is called (1), is an  (1), refers to (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (1)
@@ -1088,7 +1089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), pass (2), let (1), from, (1), return. (1)
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (4), next (2), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** get_dummies (1)
 > **Definitions:** is called (1)
@@ -1097,7 +1098,7 @@ created: 2026-04-29
 
 ### 4. Exploratory Data Analysis and Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Plotting with pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/plotting-with-pandas?u=76281980)
@@ -1180,7 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), pass (1)
+> **Frameworks & Libraries:** data (8), next (3), [[Pandas (Software)|Pandas]] (2)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 0.5 (1)
@@ -1277,7 +1278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), yield (1)
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (6), [[Statistics]] (3), ai (1), next (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** background_gradient (1)
 > **Definitions:** is a  (1)
@@ -1286,7 +1287,7 @@ created: 2026-04-29
 
 ### 5. Beyond pandas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate exploratory data analysis with pandas-profiling
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980)
@@ -1377,7 +1378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), pass (1), this, (1)
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (7), [[Statistics]] (3), [[Python (Programming Language)|Python]] (2), [[HTML]] (2)
 > **CLI Commands:** python (2), pip (1), find (1)
 > **Code Identifiers:** sepal_length (2), sepal_width (1), to_file (1)
 > **Env Vars:** html (2)
@@ -1449,7 +1450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), function (1)
+> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (4), next (1), express (1), api (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** points_from_xy (1)
 > **Env Vars:** api (1)
@@ -1512,8 +1513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (9), [[Big Data]] (3), [[Python (Programming Language)|Python]] (3), data (2), [[Apache Spark]] (2)
 > **CLI Commands:** python (3), apache (2), find (1)
-> **Code Keywords:** let (2), function (2)
 > **Code Identifiers:** read_csv (1), from_pandas (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -1523,7 +1524,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your path forward using advanced pandas functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980)
@@ -1550,8 +1551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (2), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Big Data]] (1)
 > **CLI Commands:** find (1), python (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [brett] (1)

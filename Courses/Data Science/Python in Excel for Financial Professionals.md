@@ -35,7 +35,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20in%20Excel%20for%20Financial%20Professionals.md)
@@ -54,40 +54,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome to Python in Excel
-  - What you should know
-  - Introduction to Python in Excel
+  - [Welcome to Python in Excel](#welcome-to-python-in-excel)
+  - [What you should know](#what-you-should-know)
+  - [Introduction to Python in Excel](#introduction-to-python-in-excel)
 - [**1. Getting Started with Python in Excel**](#1-getting-started-with-python-in-excel) (6 videos)
-  - Integration of Python in Excel
-  - Installation
-  - Introduction to basic Python functions
-  - How to use your data with Python in Excel
-  - Challenge: Load three financial statements
-  - Solution: Load three financial statements
+  - [Integration of Python in Excel](#integration-of-python-in-excel)
+  - [Installation](#installation)
+  - [Introduction to basic Python functions](#introduction-to-basic-python-functions)
+  - [How to use your data with Python in Excel](#how-to-use-your-data-with-python-in-excel)
+  - [Challenge: Load three financial statements](#challenge-load-three-financial-statements)
+  - [Solution: Load three financial statements](#solution-load-three-financial-statements)
 - [**2. Financial Modeling**](#2-financial-modeling) (7 videos)
-  - Discounted cash flow, part 1
-  - Discounted cash flow, part 2
-  - Forecasting
-  - Budgeting
-  - Other financial models
-  - Challenge: Forecast sales for Company ABC
-  - Solution: Forecast sales for Company ABC
+  - [Discounted cash flow, part 1](#discounted-cash-flow-part-1)
+  - [Discounted cash flow, part 2](#discounted-cash-flow-part-2)
+  - [Forecasting](#forecasting)
+  - [Budgeting](#budgeting)
+  - [Other financial models](#other-financial-models)
+  - [Challenge: Forecast sales for Company ABC](#challenge-forecast-sales-for-company-abc)
+  - [Solution: Forecast sales for Company ABC](#solution-forecast-sales-for-company-abc)
 - [**3. Automation**](#3-automation) (4 videos)
-  - Automate consolidation of data
-  - Automate cleaning data
-  - Challenge: Automation
-  - Solution: Automation
+  - [Automate consolidation of data](#automate-consolidation-of-data)
+  - [Automate cleaning data](#automate-cleaning-data)
+  - [Challenge: Automation](#challenge-automation)
+  - [Solution: Automation](#solution-automation)
 - [**4. Data Visualization**](#4-data-visualization) (4 videos)
-  - Basic charts and graphs for finance
-  - Advanced charts and graphs for finance
-  - Challenge: Create five graphs
-  - Solution: Create five graphs
+  - [Basic charts and graphs for finance](#basic-charts-and-graphs-for-finance)
+  - [Advanced charts and graphs for finance](#advanced-charts-and-graphs-for-finance)
+  - [Challenge: Create five graphs](#challenge-create-five-graphs)
+  - [Solution: Create five graphs](#solution-create-five-graphs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/welcome-to-python-in-excel?u=76281980)
@@ -112,9 +112,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Financial Analysis]] (1), power (1), career (1)
 > **CLI Commands:** python (3)
 > **Non-Speech:** (pleasant music) (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [christian] (1)
 
 #### What you should know
@@ -136,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2), [[Banking]] (1)
 > **CLI Commands:** python (2)
 > **Exercise Files:** exercise file (1), download the (1)
 > **Definitions:** is an  (1)
@@ -170,6 +171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Financial Analysis]] (3), data (2), [[Microsoft Excel|Excel]] (2), [[Programming]] (1)
 > **CLI Commands:** python (8)
 > **Definitions:** is a  (2)
 > **Analogies:** it's like (1)
@@ -178,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Python in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integration of Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/integration-of-python-in-excel?u=76281980)
@@ -225,8 +227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Python (Programming Language)|Python]] (10), data (8), [[Microsoft 365]] (1), [[Forecasting]] (1)
 > **CLI Commands:** python (10), make (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** dcf (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** you'll need (1)
@@ -279,6 +281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Python (Programming Language)|Python]] (10), feature (5), [[Microsoft 365]] (4), data (2)
 > **CLI Commands:** python (10)
 > **UI Navigation:** click on (2), navigate to (1), go to (1), select the (1)
 > **Prerequisites:** install (1), set up (1)
@@ -351,9 +354,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Microsoft Excel|Excel]] (7), data (6), [[Pandas (Software)|Pandas]] (2), [[Financial Analysis]] (2)
 > **CLI Commands:** python (10)
 > **Analogies:** it's like (2), imagine (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ctrl (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is a  (1)
@@ -403,8 +406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), [[Python (Programming Language)|Python]] (13), data (12), power (2), [[Financial Data]] (2)
 > **CLI Commands:** python (13)
-> **Code Keywords:** function (2), let (1), this. (1), extends (1)
 > **Env Vars:** sql (1), csv (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -436,6 +439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), [[Financial Statements]] (3), data (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (3)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
@@ -471,7 +475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), career (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic electronic music) (1)
@@ -479,7 +483,7 @@ created: 2026-04-29
 
 ### 2. Financial Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discounted cash flow, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/discounted-cash-flow-part-1?u=76281980)
@@ -516,6 +520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Analysis]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1), business (1)
 > **Env Vars:** dcf (5), vcf (1)
 > **Definitions:** is a  (4), means that (1), is an  (1)
 > **CLI Commands:** python (1)
@@ -571,8 +576,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (2), application (1), power (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** dcf (8), waac (2)
-> **Code Keywords:** function (4), let (1)
 > **CLI Commands:** python (4)
 > **Tools:** terminal (3)
 > **Cross-References:** previous video (1)
@@ -666,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (6), [[Linear Regression]] (4), next (3)
 > **CLI Commands:** python (6), make (2)
-> **Code Keywords:** let (4), function (1), finally, (1)
 > **Analogies:** think of it as (1), it's like (1)
 > **Env Vars:** arima (1)
 > **Prerequisites:** set up (1)
@@ -718,8 +723,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (6), data (4), [[Financial Data]] (2), business (2)
 > **CLI Commands:** python (11), make (1)
-> **Code Keywords:** this, (1), static (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -770,6 +775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (5), data (2), [[Financial Modeling]] (1), [[Forecasting]] (1)
 > **CLI Commands:** python (7)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -801,7 +807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (3), next (2), [[Forecasting]] (1), [[Financial Planning]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -833,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (2), next (2), [[Forecasting]] (1), [[Pandas (Software)|Pandas]] (1), [[Linear Regression]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -841,7 +847,7 @@ created: 2026-04-29
 
 ### 3. Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automate consolidation of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/automate-consolidation-of-data?u=76281980)
@@ -902,9 +908,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (6), [[Financial Data]] (3), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (8)
 > **Env Vars:** nsv (2), nsb (1)
-> **Code Keywords:** this, (1), function (1)
 > **Analogies:** picture (2)
 > **Speakers:** - [christian] (1)
 
@@ -949,6 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), [[Financial Data]] (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (5), find (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -972,6 +979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1009,7 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), new, (1)
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1018,7 +1026,7 @@ created: 2026-04-29
 
 ### 4. Data Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic charts and graphs for finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/basic-charts-and-graphs-for-finance?u=76281980)
@@ -1077,8 +1085,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), [[Financial Data]] (3), power (1)
 > **CLI Commands:** python (5), make (2), find (1)
-> **Code Keywords:** let (1), this, (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1127,8 +1135,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (2), [[Financial Data]] (2), game (1)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** function (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Create five graphs
@@ -1156,6 +1164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Financial Data]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1196,8 +1205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Financial Data]] (1), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1206,7 +1215,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/next-steps?u=76281980)
@@ -1237,6 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), data (2), [[LinkedIn]] (2), [[Financial Data]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

@@ -28,7 +28,7 @@ tags:
   - skill/business-communications
   - skill/email-etiquette
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tips%20for%20Writing%20Business%20Emails.md)
@@ -47,27 +47,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Email: An extension of your brand
+  - [Email: An extension of your brand](#email-an-extension-of-your-brand)
 - [**1. Quick Tips for Effective Emails**](#1-quick-tips-for-effective-emails) (13 videos)
-  - Select the audience for your email thoughtfully
-  - Time your email message intentionally
-  - Avoid BCC mistakes
-  - Use Reply All with caution
-  - Three tips for a great subject line
-  - Help email readers communicate
-  - Edit your email
-  - Four grammar tips for emails
-  - Using clear and simple language in email
-  - Format your email for clarity
-  - Strike the right tone in emails
-  - Phrases to avoid in email
-  - Avoid these email mistakes
+  - [Select the audience for your email thoughtfully](#select-the-audience-for-your-email-thoughtfully)
+  - [Time your email message intentionally](#time-your-email-message-intentionally)
+  - [Avoid BCC mistakes](#avoid-bcc-mistakes)
+  - [Use Reply All with caution](#use-reply-all-with-caution)
+  - [Three tips for a great subject line](#three-tips-for-a-great-subject-line)
+  - [Help email readers communicate](#help-email-readers-communicate)
+  - [Edit your email](#edit-your-email)
+  - [Four grammar tips for emails](#four-grammar-tips-for-emails)
+  - [Using clear and simple language in email](#using-clear-and-simple-language-in-email)
+  - [Format your email for clarity](#format-your-email-for-clarity)
+  - [Strike the right tone in emails](#strike-the-right-tone-in-emails)
+  - [Phrases to avoid in email](#phrases-to-avoid-in-email)
+  - [Avoid these email mistakes](#avoid-these-email-mistakes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Happy emailing
+  - [Happy emailing](#happy-emailing)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Email: An extension of your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980)
@@ -88,6 +88,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Email Etiquette]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -95,7 +96,7 @@ created: 2026-04-29
 
 ### 1. Quick Tips for Effective Emails
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Select the audience for your email thoughtfully
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/select-the-audience-for-your-email-thoughtfully?u=76281980)
@@ -150,7 +151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), function (1), else. (1)
+> **Frameworks & Libraries:** business (1)
 > **UI Navigation:** select the (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - before (1)
@@ -212,7 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), business (3), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - just (1)
 
@@ -287,8 +288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), hit (1)
 > **Env Vars:** bcc (5), fyi (1)
-> **Code Keywords:** this, (1), raise (1), private (1), function (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** general rule (1)
@@ -353,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** hit (3)
 > **Definitions:** known as (1)
 > **Analogies:** picture (1)
 > **Speakers:** - picture (1)
@@ -413,7 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (1), business (1)
 > **UI Navigation:** go to (1), open the (1)
 > **CLI Commands:** make (1)
 > **Ports:** :00 (1)
@@ -474,8 +475,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), finally, (1), else. (1)
 > **Analogies:** for example (2)
 > **Definitions:** is an  (1)
 > **Best Practices:** make sure to (1)
@@ -536,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), hit (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - at (1)
@@ -602,8 +603,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Word|Word]] (1), parallel (1)
 > **Analogies:** for example (3), picture (1)
-> **Code Keywords:** case, (1), finally, (1)
 > **Speakers:** - knowing (1)
 
 #### Using clear and simple language in email
@@ -667,6 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - want (1)
 
@@ -789,8 +791,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - most (1)
 
@@ -865,7 +867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - there (1)
@@ -941,15 +943,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), cloud (1), next (1), business (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (1), delete (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - most (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Happy emailing
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/happy-emailing-22822193?u=76281980)
@@ -976,6 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.6 (1)
 > **Speakers:** - according (1)

@@ -26,7 +26,7 @@ tags:
   - skill/software-design-patterns
   - skill/spring-framework
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%206%20Design%20Patterns.md)
@@ -45,46 +45,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Solving problems with patterns in Spring
-  - What you need to know
-  - Creating a skeleton project
+  - [Solving problems with patterns in Spring](#solving-problems-with-patterns-in-spring)
+  - [What you need to know](#what-you-need-to-know)
+  - [Creating a skeleton project](#creating-a-skeleton-project)
 - [**1. Design Patterns and Spring**](#1-design-patterns-and-spring) (4 videos)
-  - What design patterns are
-  - Gang of Four
-  - The patterns of the Spring framework
-  - Inversion of control: The core pattern
+  - [What design patterns are](#what-design-patterns-are)
+  - [Gang of Four](#gang-of-four)
+  - [The patterns of the Spring framework](#the-patterns-of-the-spring-framework)
+  - [Inversion of control: The core pattern](#inversion-of-control-the-core-pattern)
 - [**2. Creation Patterns in Spring**](#2-creation-patterns-in-spring) (8 videos)
-  - The factory pattern
-  - Factory pattern in action
-  - The builder pattern
-  - The builder pattern in action
-  - The singleton pattern
-  - The singleton pattern in action
-  - The prototype pattern
-  - Prototype pattern in action
+  - [The factory pattern](#the-factory-pattern)
+  - [Factory pattern in action](#factory-pattern-in-action)
+  - [The builder pattern](#the-builder-pattern)
+  - [The builder pattern in action](#the-builder-pattern-in-action)
+  - [The singleton pattern](#the-singleton-pattern)
+  - [The singleton pattern in action](#the-singleton-pattern-in-action)
+  - [The prototype pattern](#the-prototype-pattern)
+  - [Prototype pattern in action](#prototype-pattern-in-action)
 - [**3. Structural Patterns in Spring**](#3-structural-patterns-in-spring) (5 videos)
-  - The adapter pattern
-  - The adapter pattern in action
-  - The decorator pattern
-  - The decorator pattern in action
-  - The proxy pattern
+  - [The adapter pattern](#the-adapter-pattern)
+  - [The adapter pattern in action](#the-adapter-pattern-in-action)
+  - [The decorator pattern](#the-decorator-pattern)
+  - [The decorator pattern in action](#the-decorator-pattern-in-action)
+  - [The proxy pattern](#the-proxy-pattern)
 - [**4. Operational Patterns in Spring**](#4-operational-patterns-in-spring) (5 videos)
-  - The repository pattern
-  - The repository pattern in action
-  - The template pattern
-  - The model-view-controller pattern (MVC)
-  - The MVC and template patterns in action
+  - [The repository pattern](#the-repository-pattern)
+  - [The repository pattern in action](#the-repository-pattern-in-action)
+  - [The template pattern](#the-template-pattern)
+  - [The model-view-controller pattern (MVC)](#the-model-view-controller-pattern-mvc)
+  - [The MVC and template patterns in action](#the-mvc-and-template-patterns-in-action)
 - [**5. Other Framework Patterns in Spring**](#5-other-framework-patterns-in-spring) (4 videos)
-  - The observer pattern
-  - The command pattern
-  - The mediator pattern
-  - The interpreter pattern
+  - [The observer pattern](#the-observer-pattern)
+  - [The command pattern](#the-command-pattern)
+  - [The mediator pattern](#the-mediator-pattern)
+  - [The interpreter pattern](#the-interpreter-pattern)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving problems with patterns in Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/solving-problems-with-patterns-in-spring?u=76281980)
@@ -107,6 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [frank] (1)
 
@@ -153,9 +154,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), [[Design Patterns]] (3), [[Spring Framework]] (1), [[Kotlin]] (1), [[Spring Boot]] (1)
 > **Env Vars:** jdk (3), jre (1), oop (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Versions:** java 8 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -222,7 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), this. (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (2), web (1), [[Spring Boot]] (1)
 > **CLI Commands:** make (1), unzip (1), ls (1)
 > **Env Vars:** ide (2)
 > **Versions:** 3.3.0 (1), java 17 (1)
@@ -234,7 +235,7 @@ created: 2026-04-29
 
 ### 1. Design Patterns and Spring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What design patterns are
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/what-design-patterns-are?u=76281980)
@@ -253,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Design Patterns]] (7), oop (2), [[Spring Framework]] (1), [[Programming]] (1), application (1)
 > **Env Vars:** oop (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
@@ -346,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), abstract (1), from. (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Java]] (5), oop (2), [[Software Development]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** oop (2)
 > **Exercise Files:** template (2)
@@ -423,9 +424,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (5), web (3), [[Representational State Transfer (REST)|Rest]] (2), [[Spring Framework]] (1), next (1)
 > **Exercise Files:** template (4), boilerplate (2)
 > **Env Vars:** mvc (3), jdbc (1)
-> **Code Keywords:** interface (1), from. (1), this. (1)
 > **Definitions:** is a  (2)
 > **Versions:** 4.0 (1)
 > **Speakers:** - [instructor] (1)
@@ -531,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), interface (3), let (2), pass (2), new, (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (2), [[Dependency Injection]] (2), application (2), [[Java]] (2), management (1)
 > **Env Vars:** xml (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -541,7 +542,7 @@ created: 2026-04-29
 
 ### 2. Creation Patterns in Spring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The factory pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980)
@@ -622,7 +623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (13), let (3), this, (2), abstract (2), static (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Spring Framework]] (1), generic (1), [[Java]] (1)
 > **CLI Commands:** cat (3)
 > **Env Vars:** ioc (2), pet (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -761,7 +762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (4), interface (4), type. (4), throw (3)
+> **Frameworks & Libraries:** [[Java]] (4), application (3), [[Representational State Transfer (REST)|Rest]] (1), web (1), api (1)
 > **Env Vars:** ide (2), htt (2), http (1), api (1)
 > **Code Identifiers:** adoptpet (2), gettype (1), ishungry (1), tolowercase (1)
 > **CLI Commands:** cat (2), curl (1)
@@ -843,7 +844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class, (3), class. (2), from. (1), static (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Engineering]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rest (1)
@@ -948,7 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (7), private (6), class, (4), public (4), let (3)
+> **Frameworks & Libraries:** [[Java]] (2), application (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ide (1), http (1)
 > **Definitions:** is a  (1)
@@ -1037,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), private (3), let (2), default, (1), self (1)
+> **Frameworks & Libraries:** [[Java]] (6), application (2), next (1), concurrent (1), database (1)
 > **Code Identifiers:** getinstance (3)
 > **Env Vars:** ioc (3)
 > **Definitions:** is a  (3)
@@ -1139,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class, (2), private (2), static (2), public (2)
+> **Frameworks & Libraries:** [[Java]] (4), application (1)
 > **Code Identifiers:** getinstance (2), singletona1 (2), singletonb1 (1), testsingleton (1), singletona2 (1)
 > **Warnings:** warning (1), keep in mind (1)
 > **Env Vars:** ide (1)
@@ -1227,7 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), class. (1), from. (1), interface (1)
+> **Frameworks & Libraries:** [[Java]] (6), next (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -1294,8 +1295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), [[Design Patterns]] (1)
 > **Code Identifiers:** protoa (1), protob (1), notprotoa (1), notprotob (1), testprototype (1)
-> **Code Keywords:** let (3), public (1), this. (1)
 > **Env Vars:** ide (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
@@ -1305,7 +1306,7 @@ created: 2026-04-29
 
 ### 3. Structural Patterns in Spring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern?u=76281980)
@@ -1356,7 +1357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), implements (1), this. (1), extends (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1433,7 +1434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (5), class, (3), this. (1), public (1)
+> **Frameworks & Libraries:** [[Java]] (2), power (1)
 > **Code Identifiers:** getvariety (4), testadapter (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
@@ -1496,7 +1497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (4), let (2), class. (2), class, (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1605,7 +1606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (6), abstract (5), public (4), pass (3)
+> **Frameworks & Libraries:** [[Java]] (1), power (1)
 > **Code Identifiers:** getcost (7), getdescription (6), pepperonipizza (4), doublepepperonipizza (3), bigdecimal (2)
 > **Versions:** 15.00 (1), 1.50 (1), 16.50 (1)
 > **UI Navigation:** go to (2), navigate to (1)
@@ -1689,7 +1690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3), class. (2), protected (1), this, (1)
+> **Frameworks & Libraries:** [[Programming]] (7), database (1), [[Java]] (1), [[Spring Framework]] (1)
 > **Env Vars:** aop (1)
 > **Versions:** 4.0 (1)
 > **Definitions:** is called (1)
@@ -1699,7 +1700,7 @@ created: 2026-04-29
 
 ### 4. Operational Patterns in Spring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The repository pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980)
@@ -1754,7 +1755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (1), this, (1)
+> **Frameworks & Libraries:** [[Spring Data]] (6), data (6), business (4), database (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
 > **Env Vars:** jdbc (2), jpa (1), dao (1)
 > **CLI Commands:** mongo (1)
 > **UI Navigation:** go to (1)
@@ -1834,7 +1835,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), pass (2), private (1), interface (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), data (3), database (3), application (2), [[SQL]] (2)
 > **Env Vars:** sql (2), jpa (2), crud (2), ddl (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
@@ -1896,8 +1897,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **Exercise Files:** template (10), boilerplate (1)
-> **Code Keywords:** class. (4), abstract (4), let (1)
 > **Env Vars:** jdbc (2), jms (1), dry (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1973,8 +1974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[HTML]] (7), web (6), business (4), [[JSON]] (2)
 > **Env Vars:** html (7), mvc (3), json (2), xml (1), api (1)
-> **Code Keywords:** let (2), this, (1)
 > **Exercise Files:** template (3)
 > **Documentation:** spec (1)
 > **Definitions:** known as (1)
@@ -2048,7 +2049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (2), pass (2), private (1), this. (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[JSON]] (3), application (2), [[Spring Boot]] (1), web (1)
 > **CLI Commands:** git (4), find (1)
 > **Env Vars:** json (3), mvc (1), http (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2060,7 +2061,7 @@ created: 2026-04-29
 
 ### 5. Other Framework Patterns in Spring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The observer pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-observer-pattern?u=76281980)
@@ -2111,7 +2112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (1), function (1)
+> **Frameworks & Libraries:** application (2), [[Spring Framework]] (1), business (1)
 > **Env Vars:** ioc (1), jms (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2176,7 +2177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), abstract (1), function (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** mvc (1)
 > **Speakers:** - the (1)
 
@@ -2249,7 +2250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** mvc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2297,8 +2298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Framework]] (1)
 > **Tools:** terminal (4)
-> **Code Keywords:** function (1), interface (1), finally, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** dsl (1)
@@ -2307,7 +2308,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980)
@@ -2374,8 +2375,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), next (3), [[Spring Framework]] (2), [[Design Patterns]] (2), [[GitHub]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Documentation:** stack overflow (1)
 > **Tools:** github (1)

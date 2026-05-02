@@ -26,7 +26,7 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep%20Unity%20Certified%20Associate%20Game%20Developer%20Fundamentals.md)
@@ -45,41 +45,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Fundamentals 
-  - Companion files
+  - [Fundamentals ](#fundamentals)
+  - [Companion files](#companion-files)
 - [**1. Editor Interface**](#1-editor-interface) (6 videos)
-  - Introducing Unity
-  - Installing Unity
-  - Creating projects
-  - Render pipelines 
-  - Working with the interface
-  - Scene vs. game mode
+  - [Introducing Unity](#introducing-unity)
+  - [Installing Unity](#installing-unity)
+  - [Creating projects](#creating-projects)
+  - [Render pipelines ](#render-pipelines)
+  - [Working with the interface](#working-with-the-interface)
+  - [Scene vs. game mode](#scene-vs-game-mode)
 - [**2. Level Design**](#2-level-design) (7 videos)
-  - Adding and removing GameObjects
-  - Viewing in the Scene Tab
-  - Transforming game objects
-  - Object Inspector and components 
-  - Hierarchies
-  - Snapping
-  - Play Mode tint
+  - [Adding and removing GameObjects](#adding-and-removing-gameobjects)
+  - [Viewing in the Scene Tab](#viewing-in-the-scene-tab)
+  - [Transforming game objects](#transforming-game-objects)
+  - [Object Inspector and components ](#object-inspector-and-components)
+  - [Hierarchies](#hierarchies)
+  - [Snapping](#snapping)
+  - [Play Mode tint](#play-mode-tint)
 - [**3. Project Management**](#3-project-management) (4 videos)
-  - Packages
-  - Asset Store
-  - Importing assets
-  - Folders and organization
+  - [Packages](#packages)
+  - [Asset Store](#asset-store)
+  - [Importing assets](#importing-assets)
+  - [Folders and organization](#folders-and-organization)
 - [**4. Asset Management**](#4-asset-management) (6 videos)
-  - Creating a project
-  - Adding controls
-  - Building a scene
-  - Testing and prefabs
-  - Post-processing with volumes
-  - Building and deployment
+  - [Creating a project](#creating-a-project)
+  - [Adding controls](#adding-controls)
+  - [Building a scene](#building-a-scene)
+  - [Testing and prefabs](#testing-and-prefabs)
+  - [Post-processing with volumes](#post-processing-with-volumes)
+  - [Building and deployment](#building-and-deployment)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/fundamentals?u=76281980)
@@ -112,9 +112,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (10), career (2), [[LinkedIn]] (1), game (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1), let (1)
 > **Speakers:** - [allen (1)
 
 #### Companion files
@@ -138,13 +138,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (1), [[Microsoft Products|Products]] (1), [[Mesh]] (1)
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Editor Interface
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Unity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980)
@@ -213,7 +214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (2), default, (1), this, (1)
+> **Frameworks & Libraries:** [[Unity]] (21), application (2), business (2), [[Windows]] (2), next (2)
 > **CLI Commands:** find (3)
 > **Prerequisites:** setup (2), install (1)
 > **URLs:** [unity.com](https://unity.com) (2)
@@ -333,9 +334,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (27), next (4), [[Android]] (2), application (1)
 > **Prerequisites:** install (9)
 > **Versions:** 2020.1.5 (3), 0.1 (2), 0.5 (2)
-> **Code Keywords:** case, (2), switch (1), continue (1)
 > **Env Vars:** lts (1), ios (1)
 > **UI Navigation:** click on (1), dropdown (1)
 > **CLI Commands:** make (1)
@@ -507,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), import. (2), default, (1), while. (1), let (1)
+> **Frameworks & Libraries:** [[Unity]] (29), game (7), hit (6), [[Hardware]] (2), application (1)
 > **UI Navigation:** click on (2), double-click (2), select the (1), navigate to (1), toggle (1)
 > **Env Vars:** fps (6)
 > **CLI Commands:** make (3), find (1)
@@ -587,8 +588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (8), [[Hardware]] (4), next (2), game (1), web (1)
 > **Exercise Files:** template (6)
-> **Code Keywords:** interface (3), let (1)
 > **Env Vars:** urp (3), dna (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** for example (2)
@@ -780,7 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (12), default, (2), this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Unity]] (14), next (1), data (1), [[Windows]] (1), game (1)
 > **UI Navigation:** select the (4), click on (4), toggle (3)
 > **Analogies:** for example (8)
 > **Definitions:** is a  (4)
@@ -864,7 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), interface (1)
+> **Frameworks & Libraries:** game (18), [[Unity]] (3), [[Windows]] (1)
 > **UI Navigation:** click on (2), switch to (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -874,7 +875,7 @@ created: 2026-04-29
 
 ### 2. Level Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding and removing GameObjects
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980)
@@ -1013,8 +1014,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (7), [[Unity]] (4), [[Mesh]] (2), [[Zoom]] (1), next (1)
 > **UI Navigation:** select the (4), double-click (3), click on (3), right-click (2)
-> **Code Keywords:** let (5), delete (2), this. (1)
 > **Env Vars:** fps (6), unt (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
@@ -1184,9 +1185,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (7), next (3), game (1), [[Windows]] (1), power (1)
 > **Analogies:** for example (8)
 > **UI Navigation:** click on (3), double-click (3)
-> **Code Keywords:** let (3)
 > **Env Vars:** fps (2), wasd (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
@@ -1472,8 +1473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), [[Zoom]] (3), [[Unity]] (2)
 > **CLI Commands:** make (10)
-> **Code Keywords:** case, (3), let (2), this, (1), switch (1)
 > **Analogies:** for example (4)
 > **Versions:** 0.5 (3)
 > **UI Navigation:** select the (2), toggle (1)
@@ -1734,8 +1735,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (29), game (16), [[Unity]] (6), [[Microsoft Word|Word]] (1), data (1)
 > **UI Navigation:** select the (10), click on (2), dropdown (1), scroll down (1)
-> **Code Keywords:** let (4), this, (3), else. (1), for. (1), from. (1)
 > **Analogies:** for example (5), just like (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (4)
@@ -2018,8 +2019,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (8), [[Unity]] (2), next (2), [[Mesh]] (1)
 > **UI Navigation:** select the (8), drag and drop (3), switch to (2), double-click (1), click on (1)
-> **Code Keywords:** let (6), this, (2), case, (2), switch (2), this. (1)
 > **Analogies:** for example (10)
 > **CLI Commands:** make (6), find (3)
 > **Env Vars:** fps (2), mpc (1)
@@ -2180,9 +2181,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vertex]] (5), [[Windows]] (3), game (1), [[Zoom]] (1), [[Mesh]] (1)
 > **CLI Commands:** snap (11), make (1), find (1)
 > **UI Navigation:** drag and drop (3), select the (3)
-> **Code Keywords:** case, (3), delete (1), let (1)
 > **Env Vars:** fps (4)
 > **Speakers:** - [instructor] (1)
 
@@ -2287,7 +2288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), case, (1)
+> **Frameworks & Libraries:** game (6), [[Unity]] (3), power (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** double-click (3), drag and drop (3), click on (1)
 > **Analogies:** for example (3), kind of like (1)
@@ -2299,7 +2300,7 @@ created: 2026-04-29
 
 ### 3. Project Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Packages
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980)
@@ -2508,7 +2509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), switch (2), default, (1), let (1), pass (1)
+> **Frameworks & Libraries:** [[Unity]] (17), [[Mesh]] (14), [[Vertex]] (5), feature (3), game (1)
 > **Analogies:** for example (7), such as (1)
 > **UI Navigation:** scroll down (2), select the (2), click on (2), dropdown (1)
 > **Definitions:** is a  (4), means that (1)
@@ -2632,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), import, (3), switch (2), this, (1), default, (1)
+> **Frameworks & Libraries:** [[Unity]] (12), [[Search]] (4), [[Mesh]] (3), product (3), [[Vertex]] (3)
 > **UI Navigation:** scroll down (3), select the (3), switch to (1)
 > **CLI Commands:** find (1), make (1), snap (1)
 > **Prerequisites:** you'll need (2)
@@ -2730,9 +2731,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (11), [[Mesh]] (10), [[LinkedIn]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** fbx (4), png (2)
 > **Definitions:** is a  (3), is an  (2)
-> **Code Keywords:** default, (1), let (1), import, (1)
 > **UI Navigation:** drag and drop (3)
 > **URLs:** [blender.org](https://blender.org) (1)
 > **Exercise Files:** exercise files (1)
@@ -2894,8 +2895,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (9), [[Unity]] (8), game (7), [[Mesh]] (6), [[Microsoft Word|Word]] (5)
 > **CLI Commands:** find (12), make (1)
-> **Code Keywords:** let (8), delete (2), type. (1), type, (1)
 > **UI Navigation:** drag and drop (3), select the (3), go to (1), click on (1)
 > **Analogies:** for example (5)
 > **Env Vars:** fps (3)
@@ -2906,7 +2907,7 @@ created: 2026-04-29
 
 ### 4. Asset Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-a-project?u=76281980)
@@ -2995,7 +2996,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (2), this, (1), case, (1), new, (1)
+> **Frameworks & Libraries:** [[Unity]] (7), game (3), next (2), data (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **UI Navigation:** dropdown (1), scroll down (1)
 > **Prerequisites:** install (2)
@@ -3153,7 +3154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3), case, (2), import, (1), import. (1)
+> **Frameworks & Libraries:** [[Unity]] (8), game (6), feature (1), hit (1), [[Mesh]] (1)
 > **UI Navigation:** drag and drop (2), click on (1), select the (1), go to (1), switch to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** fps (1), aio (1)
@@ -3323,8 +3324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Unity]] (1), game (1)
 > **UI Navigation:** select the (6), switch to (2), drag and drop (1), click on (1), double-click (1)
-> **Code Keywords:** raise (3), let (2), switch (2), continue (1), delete (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -3553,7 +3554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (1), try. (1)
+> **Frameworks & Libraries:** [[Unity]] (3), next (2), product (1), game (1), [[Mesh]] (1)
 > **UI Navigation:** drag and drop (5), select the (2), go to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -3680,7 +3681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (2), override (2), raise (1)
+> **Frameworks & Libraries:** game (5), [[Unity]] (3), data (3), next (2)
 > **UI Navigation:** select the (4), switch to (2), toggle (1)
 > **Versions:** 0.3 (1), 1.6 (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -3796,7 +3797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), delete (1), let (1), module (1), default, (1)
+> **Frameworks & Libraries:** [[Unity]] (11), game (9), application (4), [[Android]] (2), hit (1)
 > **UI Navigation:** select the (2), go to (1), drag and drop (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** install (2), you'll need (1)
@@ -3808,7 +3809,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980)
@@ -3839,6 +3840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (4), [[Jetpack Compose|Compose]] (1), next (1), [[LinkedIn]] (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 

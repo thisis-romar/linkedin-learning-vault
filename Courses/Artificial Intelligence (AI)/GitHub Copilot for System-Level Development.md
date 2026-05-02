@@ -38,7 +38,7 @@ tags:
   - skill/infrastructure-as-code-iac
   - skill/code-refactoring
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GitHub%20Copilot%20for%20System-Level%20Development.md)
@@ -57,30 +57,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course introduction
+  - [Course introduction](#course-introduction)
 - [**Module 1: AI-Augmented Test-Driven Development (TDD)**](#module-1-ai-augmented-test-driven-development-tdd) (6 videos)
-  - Introduction to AI-assisted TDD
-  - Generating complex test suites
-  - Mocking dependencies with Copilot
-  - Challenge: TDD for a new feature
-  - Solution: TDD for a new feature
-  - Evaluating test coverage
+  - [Introduction to AI-assisted TDD](#introduction-to-ai-assisted-tdd)
+  - [Generating complex test suites](#generating-complex-test-suites)
+  - [Mocking dependencies with Copilot](#mocking-dependencies-with-copilot)
+  - [Challenge: TDD for a new feature](#challenge-tdd-for-a-new-feature)
+  - [Solution: TDD for a new feature](#solution-tdd-for-a-new-feature)
+  - [Evaluating test coverage](#evaluating-test-coverage)
 - [**Module 2: Large-Scale Refactoring**](#module-2-large-scale-refactoring) (6 videos)
-  - Strategic use of workspace
-  - Analyzing cross-file dependencies
-  - Challenge: System-wide code cleanup
-  - Solution: System-wide code cleanup
-  - Enforcing styles and constraints
-  - Generating guidelines for specific tasks
+  - [Strategic use of workspace](#strategic-use-of-workspace)
+  - [Analyzing cross-file dependencies](#analyzing-cross-file-dependencies)
+  - [Challenge: System-wide code cleanup](#challenge-system-wide-code-cleanup)
+  - [Solution: System-wide code cleanup](#solution-system-wide-code-cleanup)
+  - [Enforcing styles and constraints](#enforcing-styles-and-constraints)
+  - [Generating guidelines for specific tasks](#generating-guidelines-for-specific-tasks)
 - [**Module 3: Infrastructure as Code (IaC) with Copilot**](#module-3-infrastructure-as-code-iac-with-copilot) (4 videos)
-  - Generating IaC configurations
-  - Creating Dockerfiles with AI
-  - Terraform configuration generation
-  - Course wrap-up
+  - [Generating IaC configurations](#generating-iac-configurations)
+  - [Creating Dockerfiles with AI](#creating-dockerfiles-with-ai)
+  - [Terraform configuration generation](#terraform-configuration-generation)
+  - [Course wrap-up](#course-wrap-up)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980)
@@ -103,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[Automation]] (2), [[Test-Driven Development]] (1), [[Debugging]] (1)
 > **Tools:** github (2)
 > **Analogies:** for example (1)
 > **Speakers:** - welcome (1)
@@ -110,7 +111,7 @@ created: 2026-04-29
 
 ### Module 1: AI-Augmented Test-Driven Development (TDD)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI-assisted TDD
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980)
@@ -171,7 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), case, (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (3), [[Microsoft Copilot|Copilot]] (3), feature (2), ai (1)
 > **Env Vars:** tdd (4)
 > **Analogies:** for example (2), kind of like (2)
 > **CLI Commands:** make (3)
@@ -337,8 +338,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (7), [[JSON]] (6), [[GitHub Copilot]] (3), ai (2), [[Microsoft Copilot|Copilot]] (2)
 > **Env Vars:** cli (7), json (5), example (2)
-> **Code Keywords:** let (5), case, (2), interface (1), this. (1), pass (1)
 > **CLI Commands:** make (7), python (1)
 > **Tools:** github (3), command line (2), terminal (1)
 > **UI Navigation:** toggle (3)
@@ -437,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), let (2), pass (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[CLI]] (3), prompt (1)
 > **CLI Commands:** python (6), make (2)
 > **Versions:** python 3 (4)
 > **Analogies:** for example (2), kind of like (1)
@@ -491,7 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (2), raise (1), this, (1), let (1)
+> **Frameworks & Libraries:** prompt (3), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** str_to_bool (1), test_zero_is_false (1)
 > **Env Vars:** tdd (1)
@@ -621,7 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), pass (3), case, (3), for, (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), prompt (1), ai (1), [[Python (Programming Language)|Python]] (1), feature (1)
 > **CLI Commands:** make (4), python (1)
 > **Tools:** terminal (3), github (2)
 > **Code Identifiers:** str_to_bool (2), test_main (1)
@@ -725,7 +726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), this. (1), this, (1), for, (1)
+> **Frameworks & Libraries:** prompt (4), [[Python (Programming Language)|Python]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Definitions:** is a  (2), means that (2)
 > **File Paths:** main.py (2), reformat.py (1)
 > **Analogies:** for example (2), kind of like (1)
@@ -737,7 +738,7 @@ created: 2026-04-29
 
 ### Module 2: Large-Scale Refactoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic use of workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980)
@@ -828,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case, (1), for, (1), default, (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Engineering]] (1), ai (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), generic (1)
 > **CLI Commands:** python (3), make (2)
 > **Analogies:** for example (3), kind of like (1)
 > **Definitions:** in other words (1), basically means (1), is a  (1)
@@ -915,7 +916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), case, (2), module (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Copilot|Copilot]] (2), ai (2), power (1)
 > **CLI Commands:** python (5), make (1)
 > **Versions:** python 3 (2), python 2 (1)
 > **Definitions:** is a  (1)
@@ -1001,7 +1002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (2), pass (2), this, (1), case. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), feature (1)
 > **CLI Commands:** make (3), python (2)
 > **Versions:** python 3 (2)
 > **UI Navigation:** go to (1)
@@ -1152,7 +1153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), super (1), for. (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Copilot|Copilot]] (1), ai (1)
 > **CLI Commands:** make (7), python (3), find (1)
 > **Code Identifiers:** ceph_volume (2), test_decorators (2), test_main_shows_full_help (1)
 > **Env Vars:** mcp (1)
@@ -1310,7 +1311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (8), module (5), this, (5), this. (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[CLI]] (1), prompt (1)
 > **CLI Commands:** python (3), make (2), systemctl (1)
 > **File Paths:** instructions.md (2), lvm.py (1), main.py (1)
 > **Analogies:** for example (4)
@@ -1412,7 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), function (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Test-Driven Development]] (1), [[GitHub Copilot]] (1), prompt (1), [[Web Development]] (1)
 > **Code Identifiers:** arg_validator (1), arg_validators (1), dev_path_validator (1)
 > **Env Vars:** tdd (3)
 > **CLI Commands:** make (2)
@@ -1423,7 +1424,7 @@ created: 2026-04-29
 
 ### Module 3: Infrastructure as Code (IaC) with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating IaC configurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980)
@@ -1506,8 +1507,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[JSON]] (3), application (3), [[Linux]] (2)
 > **CLI Commands:** ansible (4), git (1), cargo (1), python (1)
-> **Code Keywords:** case, (3), let (2), this. (1), pass (1)
 > **Env Vars:** json (3), api (1), http (1)
 > **UI Navigation:** toggle (2), click on (1)
 > **Definitions:** is a  (2)
@@ -1599,8 +1600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), application (1), [[Google]] (1)
 > **CLI Commands:** cargo (3), make (2), python (1), ruby (1), docker (1)
-> **Code Keywords:** case, (3), let (3), this. (1), this, (1)
 > **Definitions:** is a  (5)
 > **Versions:** 1.90 (3), 1.75 (1)
 > **URLs:** [gcr.io](https://gcr.io) (1)
@@ -1687,8 +1688,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Terraform]] (8), cloud (4), [[GitHub]] (3), [[GitHub Copilot]] (2)
 > **CLI Commands:** terraform (8), make (2), docker (1), rm (1)
-> **Code Keywords:** let (2), this, (2), finally, (1), case, (1), require (1)
 > **Tools:** github (5)
 > **Prerequisites:** set up (2), setup (1)
 > **Analogies:** for example (1), kind of like (1)
@@ -1721,7 +1722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), finally, (1)
+> **Frameworks & Libraries:** next (3), ai (3), [[Automation]] (2), [[GitHub]] (1), [[GitHub Copilot]] (1)
 > **Tools:** github (2)
 > **Speakers:** - okay (1)
 

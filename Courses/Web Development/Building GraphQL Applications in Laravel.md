@@ -30,7 +30,7 @@ tags:
   - skill/graphql
   - skill/laravel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20GraphQL%20Applications%20in%20Laravel.md)
@@ -49,40 +49,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Build GraphQL apps in Laravel
+  - [Build GraphQL apps in Laravel](#build-graphql-apps-in-laravel)
 - [**1. Understanding GraphQL**](#1-understanding-graphql) (3 videos)
-  - What is GraphQL?
-  - GraphQL versus REST
-  - Why GraphQL?
+  - [What is GraphQL?](#what-is-graphql)
+  - [GraphQL versus REST](#graphql-versus-rest)
+  - [Why GraphQL?](#why-graphql)
 - [**2. Introduction to GraphQL Schemas and Types**](#2-introduction-to-graphql-schemas-and-types) (5 videos)
-  - The type system
-  - The object types and fields
-  - The query and mutation types
-  - The scalar type
-  - The enum type
+  - [The type system](#the-type-system)
+  - [The object types and fields](#the-object-types-and-fields)
+  - [The query and mutation types](#the-query-and-mutation-types)
+  - [The scalar type](#the-scalar-type)
+  - [The enum type](#the-enum-type)
 - [**3. Development Environment Setup**](#3-development-environment-setup) (5 videos)
-  - Prerequisite and development environment checklist
-  - Setting up Laravel
-  - Setting up a database with users
-  - Setting up Lighthouse
-  - A Hello World GraphQL endpoint
+  - [Prerequisite and development environment checklist](#prerequisite-and-development-environment-checklist)
+  - [Setting up Laravel](#setting-up-laravel)
+  - [Setting up a database with users](#setting-up-a-database-with-users)
+  - [Setting up Lighthouse](#setting-up-lighthouse)
+  - [A Hello World GraphQL endpoint](#a-hello-world-graphql-endpoint)
 - [**4. GraphQL Queries**](#4-graphql-queries) (5 videos)
-  - Diving into GraphQL queries with Lighthouse
-  - Querying fields in GraphQL
-  - Querying with arguments
-  - Querying with aliases
-  - Using the Lighthouse paginate directive
+  - [Diving into GraphQL queries with Lighthouse](#diving-into-graphql-queries-with-lighthouse)
+  - [Querying fields in GraphQL](#querying-fields-in-graphql)
+  - [Querying with arguments](#querying-with-arguments)
+  - [Querying with aliases](#querying-with-aliases)
+  - [Using the Lighthouse paginate directive](#using-the-lighthouse-paginate-directive)
 - [**5. GraphQL Mutations**](#5-graphql-mutations) (4 videos)
-  - Diving into GraphQL mutations with Lighthouse
-  - Creating a user
-  - Updating a user
-  - Deleting a user
+  - [Diving into GraphQL mutations with Lighthouse](#diving-into-graphql-mutations-with-lighthouse)
+  - [Creating a user](#creating-a-user)
+  - [Updating a user](#updating-a-user)
+  - [Deleting a user](#deleting-a-user)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Exploring more Lighthouse and GraphQL functionalities
+  - [Exploring more Lighthouse and GraphQL functionalities](#exploring-more-lighthouse-and-graphql-functionalities)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build GraphQL apps in Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980)
@@ -107,6 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (7), api (4), data (3), application (2), [[PHP]] (2)
 > **Env Vars:** api (4), php (2), crud (1)
 > **CLI Commands:** php (2)
 > **Speakers:** - [mandeeya] (1)
@@ -114,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Understanding GraphQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GraphQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/what-is-graphql?u=76281980)
@@ -141,8 +142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[GraphQL]] (7), api (3), database (2)
 > **Env Vars:** api (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -208,9 +209,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (14), api (12), [[GraphQL]] (8), data (2), [[Representational State Transfer (REST)|Representational state transfer]] (1)
 > **Env Vars:** rest (14), api (12), post (4), put (3), delete (3)
 > **API Endpoints:** put  (3), get  (2), post  (2), delete  (1)
-> **Code Keywords:** delete (4), let (1), require (1)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -253,6 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (13), data (6), api (4), product (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (4), rest (1), json (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -263,7 +265,7 @@ created: 2026-04-29
 
 ### 2. Introduction to GraphQL Schemas and Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The type system
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-type-system?u=76281980)
@@ -290,9 +292,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (7), data (3), api (2), next (2)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -346,7 +348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (5), let (2)
+> **Frameworks & Libraries:** [[GraphQL]] (7), data (1), [[Fetch]] (1), api (1), [[Programming]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** api (1)
 > **Analogies:** similar to (1)
@@ -405,7 +407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1), delete (1)
+> **Frameworks & Libraries:** [[GraphQL]] (8), api (3), [[Representational State Transfer (REST)|Rest]] (3), data (3), [[Fetch]] (2)
 > **Env Vars:** api (3), rest (1)
 > **Analogies:** just like (1), similar to (1), for example (1)
 > **API Endpoints:** get  (1)
@@ -441,8 +443,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[Programming]] (1), data (1)
 > **Analogies:** just like (2), such as (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -463,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (7), type, (1)
+> **Frameworks & Libraries:** [[Programming]] (1), [[Java]] (1)
 > **Analogies:** similar to (1), such as (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
@@ -471,7 +473,7 @@ created: 2026-04-29
 
 ### 3. Development Environment Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisite and development environment checklist
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980)
@@ -510,9 +512,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[Laravel]] (3), [[GraphQL]] (2), database (2), [[Programming]] (1)
 > **CLI Commands:** php (3), mysql (1)
 > **Env Vars:** php (3), ide (1)
-> **Code Keywords:** let (1), this. (1)
 > **Tools:** terminal (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -556,8 +558,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (7), [[PHP]] (1), [[GraphQL]] (1), cd (1)
 > **CLI Commands:** composer (6), php (1), cd (1)
-> **Code Keywords:** let (4), type, (1)
 > **Prerequisites:** setup (2), install (2), configure (1)
 > **Non-Speech:** (typing sound) (2)
 > **Code Identifiers:** macos (1)
@@ -646,7 +648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), case. (1)
+> **Frameworks & Libraries:** database (13), [[Laravel]] (8), data (7), next (3), [[GraphQL]] (2)
 > **Env Vars:** api (2), db_database (1), username (1), password (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Tools:** vs code (1), terminal (1)
@@ -698,8 +700,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (8), [[Laravel]] (3), api (2), [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (2), php (1), ide (1), rest (1)
-> **Code Keywords:** let (2), require (1)
 > **Tools:** terminal (2), postman (1)
 > **Prerequisites:** install (2), set up (1)
 > **CLI Commands:** php (1), composer (1)
@@ -754,7 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), new, (1), class. (1), class, (1), this. (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), api (2), [[Engineering]] (1), next (1), [[PHP]] (1)
 > **Env Vars:** api (2), php (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** php (1)
@@ -765,7 +767,7 @@ created: 2026-04-29
 
 ### 4. GraphQL Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into GraphQL queries with Lighthouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-queries-with-lighthouse?u=76281980)
@@ -826,7 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), type. (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), data (2), database (2), next (2)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -865,7 +867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** data (3), [[Fetch]] (1), [[GraphQL]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -912,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (2), finally, (1)
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (2), [[Fetch]] (2), [[GraphQL]] (2), api (1)
 > **Env Vars:** rest (2), api (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), similar to (1)
@@ -949,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), try. (1), this. (1)
+> **Frameworks & Libraries:** data (2), hit (1)
 > **Code Identifiers:** userone (1), usertwo (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1018,8 +1020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[GraphQL]] (2), api (1), [[Fetch]] (1), hit (1)
 > **Code Identifiers:** paginatorinfo (3), currentpage (1), lastpage (1), hasmorepages (1), lastitem (1)
-> **Code Keywords:** let (4)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
@@ -1029,7 +1031,7 @@ created: 2026-04-29
 
 ### 5. GraphQL Mutations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into GraphQL mutations with Lighthouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980)
@@ -1064,7 +1066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (1), finally, (1)
+> **Frameworks & Libraries:** data (3), api (2), [[Representational State Transfer (REST)|Rest]] (1), [[GraphQL]] (1), generic (1)
 > **Env Vars:** api (2), crud (1), rest (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -1128,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), finally, (1)
+> **Frameworks & Libraries:** next (2), application (1), database (1)
 > **Code Identifiers:** createuser (2)
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Env Vars:** crud (1)
@@ -1179,7 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1), throw (1), this. (1), delete (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **Code Identifiers:** updateuser (2)
 > **Analogies:** similar to (2)
 > **Speakers:** - [instructor] (1)
@@ -1237,13 +1239,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), let (7)
+> **Frameworks & Libraries:** [[GraphQL]] (2), next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring more Lighthouse and GraphQL functionalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980)
@@ -1266,7 +1268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[Laravel]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1), data (1)
 > **Env Vars:** rest (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

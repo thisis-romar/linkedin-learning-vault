@@ -34,7 +34,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20in%20Excel-%20Data%20Outputs%20in%20Custom%20Data%20Visualizations%20and%20Algorithms.md)
@@ -53,47 +53,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introducing the power of Python in Excel
-  - What you should know
-  - Enabling Python in Excel
+  - [Introducing the power of Python in Excel](#introducing-the-power-of-python-in-excel)
+  - [What you should know](#what-you-should-know)
+  - [Enabling Python in Excel](#enabling-python-in-excel)
 - [**1. Introducing Excel and Python**](#1-introducing-excel-and-python) (11 videos)
-  - Breaking down Excel and Python processes
-  - Leveraging Power Query
-  - Using the PY Excel function
-  - Using the XL Excel function and Python variables
-  - Determining calculation order
-  - Importing Python libraries into Excel
-  - Managing errors
-  - Working with Python objects
-  - Transforming DataFrame objects
-  - Challenge: Creating table objects in Excel
-  - Solution: Creating table objects in Excel
+  - [Breaking down Excel and Python processes](#breaking-down-excel-and-python-processes)
+  - [Leveraging Power Query](#leveraging-power-query)
+  - [Using the PY Excel function](#using-the-py-excel-function)
+  - [Using the XL Excel function and Python variables](#using-the-xl-excel-function-and-python-variables)
+  - [Determining calculation order](#determining-calculation-order)
+  - [Importing Python libraries into Excel](#importing-python-libraries-into-excel)
+  - [Managing errors](#managing-errors)
+  - [Working with Python objects](#working-with-python-objects)
+  - [Transforming DataFrame objects](#transforming-dataframe-objects)
+  - [Challenge: Creating table objects in Excel](#challenge-creating-table-objects-in-excel)
+  - [Solution: Creating table objects in Excel](#solution-creating-table-objects-in-excel)
 - [**2. Applying Algorithms**](#2-applying-algorithms) (9 videos)
-  - Introducing AI and machine learning algorithms
-  - Determining trends for linear regression with Excel functions
-  - Leveraging Excel Solver for logistic regression
-  - Determining trends for logistic regression with Python code
-  - Grouping data with hierarchical clustering
-  - Grouping data with the K-Means algorithm
-  - Determining anomalies with anomaly detection algorithms
-  - Challenge: Running algorithms with Python in Excel
-  - Solution: Running algorithms with Python in Excel
+  - [Introducing AI and machine learning algorithms](#introducing-ai-and-machine-learning-algorithms)
+  - [Determining trends for linear regression with Excel functions](#determining-trends-for-linear-regression-with-excel-functions)
+  - [Leveraging Excel Solver for logistic regression](#leveraging-excel-solver-for-logistic-regression)
+  - [Determining trends for logistic regression with Python code](#determining-trends-for-logistic-regression-with-python-code)
+  - [Grouping data with hierarchical clustering](#grouping-data-with-hierarchical-clustering)
+  - [Grouping data with the K-Means algorithm](#grouping-data-with-the-k-means-algorithm)
+  - [Determining anomalies with anomaly detection algorithms](#determining-anomalies-with-anomaly-detection-algorithms)
+  - [Challenge: Running algorithms with Python in Excel](#challenge-running-algorithms-with-python-in-excel)
+  - [Solution: Running algorithms with Python in Excel](#solution-running-algorithms-with-python-in-excel)
 - [**3. Creating Visuals**](#3-creating-visuals) (9 videos)
-  - Visualizing data
-  - Leveraging Excel line charts
-  - Leveraging Excel scatter plots
-  - Configuring Python in Excel with dynamic parameters
-  - Creating Python visuals
-  - Visualizing hierarchical clustering with dendrograms
-  - Breaking down time series models into components
-  - Challenge: Comparing time series components to anomalies
-  - Solution: Comparing time series components to anomalies
+  - [Visualizing data](#visualizing-data)
+  - [Leveraging Excel line charts](#leveraging-excel-line-charts)
+  - [Leveraging Excel scatter plots](#leveraging-excel-scatter-plots)
+  - [Configuring Python in Excel with dynamic parameters](#configuring-python-in-excel-with-dynamic-parameters)
+  - [Creating Python visuals](#creating-python-visuals)
+  - [Visualizing hierarchical clustering with dendrograms](#visualizing-hierarchical-clustering-with-dendrograms)
+  - [Breaking down time series models into components](#breaking-down-time-series-models-into-components)
+  - [Challenge: Comparing time series components to anomalies](#challenge-comparing-time-series-components-to-anomalies)
+  - [Solution: Comparing time series components to anomalies](#solution-comparing-time-series-components-to-anomalies)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with Python in Excel
+  - [Continuing on with Python in Excel](#continuing-on-with-python-in-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the power of Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980)
@@ -114,8 +114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), data (2), business (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** super (1), let (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - excel (1)
@@ -131,6 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Power Query|Power query]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), data (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -165,14 +166,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Python (Programming Language)|Python]] (4), application (2), [[Windows]] (2), feature (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** this, (1), function (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introducing Excel and Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking down Excel and Python processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980)
@@ -213,8 +214,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Microsoft Excel|Excel]] (9), data (5), business (2), cloud (2)
 > **CLI Commands:** python (14)
-> **Code Keywords:** let (2), extends (1), for, (1)
 > **Speakers:** - the (1)
 
 #### Leveraging Power Query
@@ -330,8 +331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), [[Microsoft Excel|Excel]] (10), [[Microsoft Power Query|Power query]] (8), etl (3), web (3)
 > **Env Vars:** etl (3), noaa (3), csv (3), url (2), api (1)
-> **Code Keywords:** let (4), function (2), from. (1), this, (1), finally, (1)
 > **CLI Commands:** make (4), python (2)
 > **UI Navigation:** click on (4), dropdown (1), select the (1)
 > **Prerequisites:** set up (5)
@@ -410,8 +411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (21), [[Microsoft Excel|Excel]] (9), next (2), hit (1), [[Programming]] (1)
 > **CLI Commands:** python (21)
-> **Code Keywords:** function (8), let (5), type. (1), default, (1)
 > **UI Navigation:** toggle (2), open the (1), dropdown (1)
 > **Env Vars:** formulatext (3)
 > **Cross-References:** in the next (1)
@@ -491,8 +492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Microsoft Excel|Excel]] (12), hit (1)
 > **CLI Commands:** python (20), make (2)
-> **Code Keywords:** let (5), function (4), override (2)
 > **UI Navigation:** dropdown (1), navigate to (1)
 > **Env Vars:** ide (1)
 > **Cross-References:** in the last (1)
@@ -573,8 +574,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Microsoft Excel|Excel]] (12), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (18)
-> **Code Keywords:** let (6), function (2), this, (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Prerequisites:** set up (2)
 > **Warnings:** be careful (1)
@@ -635,8 +636,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Pandas (Software)|Pandas]] (3), [[Microsoft Excel|Excel]] (3), data (2), hit (1)
 > **CLI Commands:** python (12), find (1), make (1)
-> **Code Keywords:** let (3)
 > **Prerequisites:** initialization (2), setup (1)
 > **UI Navigation:** navigate to (2)
 > **Analogies:** similar to (1)
@@ -721,8 +722,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Microsoft Excel|Excel]] (10), data (2), feature (1), [[Microsoft]] (1)
 > **CLI Commands:** python (17)
-> **Code Keywords:** let (10), delete (1), case, (1)
 > **Env Vars:** calc (2), spill (2), connect (1)
 > **UI Navigation:** select the (1), checkbox (1), go to (1), dropdown (1)
 > **Warnings:** warning (1), troubleshoot (1)
@@ -847,8 +848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), [[Python (Programming Language)|Python]] (18), [[Microsoft Excel|Excel]] (14), [[Codespaces]] (4), [[Microsoft Power Query|Power query]] (4)
 > **CLI Commands:** python (18), make (1), find (1)
-> **Code Keywords:** let (10), function (6), default, (1)
 > **Env Vars:** etl (2)
 > **Tools:** github (1)
 > **UI Navigation:** select the (1)
@@ -979,7 +980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (3), this, (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), data (11), [[Python (Programming Language)|Python]] (10), [[Microsoft Power Query|Power query]] (3), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (10)
 > **Cross-References:** previous video (1), earlier in (1), later in (1)
 > **Definitions:** refers to (1), in other words (1), is a  (1)
@@ -1029,8 +1030,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), api (5), [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** api (5), nws (1), pandas (1), utc (1)
-> **Code Keywords:** let (1), continue (1), this. (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Versions:** 1.8 (1)
 > **Cross-References:** in the next (1)
@@ -1091,7 +1092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), type. (1), continue (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (5), [[Microsoft Power Query|Power query]] (4), [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (3)
 > **Env Vars:** api (2), url (1), json (1), ucc (1), utc (1)
 > **CLI Commands:** python (4)
 > **Speakers:** - [instructor] (1)
@@ -1100,7 +1101,7 @@ created: 2026-04-29
 
 ### 2. Applying Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing AI and machine learning algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-ai-and-machine-learning-algorithms?u=76281980)
@@ -1155,8 +1156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (8), [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (5), ai (2), data (2)
 > **CLI Commands:** python (5), make (2), find (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - let (1)
@@ -1248,7 +1249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), this. (1), case, (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (11), [[Linear Regression]] (8), [[Python (Programming Language)|Python]] (2), hit (2)
 > **UI Navigation:** select the (3), navigate to (1)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1310,6 +1311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Logistic Regression]] (10), data (6), [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2), next (1)
 > **CLI Commands:** find (3), python (1)
 > **UI Navigation:** navigate to (1), open the (1)
 > **Definitions:** is a  (2)
@@ -1380,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (4)
+> **Frameworks & Libraries:** data (9), [[Logistic Regression]] (8), [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (7), [[Probability]] (6)
 > **CLI Commands:** python (8), make (1)
 > **Env Vars:** c19 (2), c21 (2), c12 (1), c20 (1), c22 (1)
 > **Cross-References:** as we saw (1)
@@ -1465,7 +1467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), pass (1)
+> **Frameworks & Libraries:** data (23), [[Python (Programming Language)|Python]] (6), [[Algorithms]] (4), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3)
 > **CLI Commands:** python (6)
 > **Env Vars:** c20 (1)
 > **Cross-References:** in the next (1)
@@ -1521,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3)
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), ai (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (3), python (3)
 > **Env Vars:** etl (1), c11 (1), c13 (1)
 > **Cross-References:** in the next (1)
@@ -1625,7 +1627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4)
+> **Frameworks & Libraries:** data (16), [[Algorithms]] (4), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2), [[Codespaces]] (1)
 > **Env Vars:** dbscan (3), etl (1), c12 (1), eps (1)
 > **CLI Commands:** python (2), make (2)
 > **Analogies:** for example (4)
@@ -1657,7 +1659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), continue (1)
+> **Frameworks & Libraries:** data (7), [[Codespaces]] (2), [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1), api (1)
 > **Env Vars:** dbscan (1), ecl (1), api (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** earlier in (1)
@@ -1746,7 +1748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (7)
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (8), [[Codespaces]] (4), next (3)
 > **CLI Commands:** python (11), make (2)
 > **Env Vars:** dbscan (4), utc (3), etl (1), api (1)
 > **Prerequisites:** set up (2)
@@ -1758,7 +1760,7 @@ created: 2026-04-29
 
 ### 3. Creating Visuals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980)
@@ -1789,6 +1791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (2), [[Algorithms]] (1), ai (1)
 > **CLI Commands:** python (3), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - data (1)
@@ -1864,7 +1867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (1), this. (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), data (7), [[Python (Programming Language)|Python]] (1), feature (1)
 > **CLI Commands:** make (4), python (1)
 > **UI Navigation:** select the (2), dropdown (1)
 > **Analogies:** for example (2)
@@ -1946,7 +1949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5), continue (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), next (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** g17 (1), f17 (1)
 > **UI Navigation:** select the (1)
@@ -2032,7 +2035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (3), [[Algorithms]] (1), data (1), next (1)
 > **CLI Commands:** python (3), make (2)
 > **Env Vars:** eps (3), c10 (1), c13 (1)
 > **Analogies:** for example (2), similar to (1)
@@ -2090,8 +2093,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (4), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (2), etl (1)
 > **CLI Commands:** python (5), make (1)
-> **Code Keywords:** let (4), function (2)
 > **Env Vars:** etl (1), matlab (1)
 > **Cross-References:** as we saw (1), earlier in (1)
 > **Prerequisites:** set up (1)
@@ -2210,7 +2213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (5), from. (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (7), data (6), [[Codespaces]] (2), next (1)
 > **CLI Commands:** python (8), find (1), make (1)
 > **Env Vars:** c29 (1), c17 (1), i40 (1), i29 (1)
 > **UI Navigation:** click on (2)
@@ -2310,7 +2313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (8), this. (3), finally, (1)
+> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (1), etl (1)
 > **CLI Commands:** python (5), find (1)
 > **Code Identifiers:** seasonal_decompose (2)
 > **Env Vars:** etl (1), plt (1)
@@ -2340,8 +2343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Cross-References:** in the last (1), as we saw (1), previous chapter (1)
-> **Code Keywords:** let (1), continue (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2418,7 +2421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), this. (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (2), next (2), [[Algorithms]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** kind of like (1), for example (1)
 > **Env Vars:** utc (1)
@@ -2430,7 +2433,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980)
@@ -2451,6 +2454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), [[Algorithms]] (1), data (1)
 > **CLI Commands:** python (4), make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - now (1)

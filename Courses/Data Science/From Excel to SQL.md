@@ -35,7 +35,7 @@ tags:
   - skill/microsoft-excel
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/From%20Excel%20to%20SQL.md)
@@ -54,40 +54,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Moving from Excel to SQL
-  - Setting up your environment for SQL
+  - [Moving from Excel to SQL](#moving-from-excel-to-sql)
+  - [Setting up your environment for SQL](#setting-up-your-environment-for-sql)
 - [**1. Comparing Excel and SQL**](#1-comparing-excel-and-sql) (2 videos)
-  - Spreadsheets vs. databases
-  - What is SQL?
+  - [Spreadsheets vs. databases](#spreadsheets-vs-databases)
+  - [What is SQL?](#what-is-sql)
 - [**2. SQL Basics**](#2-sql-basics) (7 videos)
-  - Viewing data in SQL
-  - Identifying columns in SQL
-  - Filtering rows in SQL
-  - Combining filters in SQL
-  - Limiting results in SQL
-  - Comparison operators in SQL
-  - The LIKE operator in SQL
+  - [Viewing data in SQL](#viewing-data-in-sql)
+  - [Identifying columns in SQL](#identifying-columns-in-sql)
+  - [Filtering rows in SQL](#filtering-rows-in-sql)
+  - [Combining filters in SQL](#combining-filters-in-sql)
+  - [Limiting results in SQL](#limiting-results-in-sql)
+  - [Comparison operators in SQL](#comparison-operators-in-sql)
+  - [The LIKE operator in SQL](#the-like-operator-in-sql)
 - [**3. Working with Functions**](#3-working-with-functions) (4 videos)
-  - Using SUM in SQL
-  - AVG, MIN, MAX, and COUNT in SQL
-  - Finding unique values in SQL
-  - UPPER, LOWER, and LENGTH in SQL
+  - [Using SUM in SQL](#using-sum-in-sql)
+  - [AVG, MIN, MAX, and COUNT in SQL](#avg-min-max-and-count-in-sql)
+  - [Finding unique values in SQL](#finding-unique-values-in-sql)
+  - [UPPER, LOWER, and LENGTH in SQL](#upper-lower-and-length-in-sql)
 - [**4. Organizing Data**](#4-organizing-data) (5 videos)
-  - Sorting data
-  - Grouping data
-  - Using a pivot table in SQL
-  - Subqueries in SQL
-  - Advanced subqueries in SQL
+  - [Sorting data](#sorting-data)
+  - [Grouping data](#grouping-data)
+  - [Using a pivot table in SQL](#using-a-pivot-table-in-sql)
+  - [Subqueries in SQL](#subqueries-in-sql)
+  - [Advanced subqueries in SQL](#advanced-subqueries-in-sql)
 - [**5. Combining Data**](#5-combining-data) (3 videos)
-  - Using joins
-  - The different types of joins
-  - Using VLOOKUP, HLOOKUP, and XLOOKUP in SQL
+  - [Using joins](#using-joins)
+  - [The different types of joins](#the-different-types-of-joins)
+  - [Using VLOOKUP, HLOOKUP, and XLOOKUP in SQL](#using-vlookup-hlookup-and-xlookup-in-sql)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Taking your SQL skills to the next level
+  - [Taking your SQL skills to the next level](#taking-your-sql-skills-to-the-next-level)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving from Excel to SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980)
@@ -120,9 +120,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (6), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (1), business (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
@@ -195,19 +195,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), [[SQL]] (6), next (3), data (3), [[Microsoft Excel]] (2)
 > **Env Vars:** sql (7)
 > **Exercise Files:** exercise files (4), download the (2)
 > **Prerequisites:** set up (2), setup (1), you'll need (1), make sure you have (1)
 > **UI Navigation:** go to (1), navigate to (1), dropdown (1), open the (1)
 > **Definitions:** is called (2), is an  (1), is a  (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** mysql (1), make (1)
 > **URLs:** [sqlitebrowser.org](https://sqlitebrowser.org) (1)
 
 
 ### 1. Comparing Excel and SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spreadsheets vs. databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/spreadsheets-vs-databases?u=76281980)
@@ -280,7 +280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), switch (1), type. (1)
+> **Frameworks & Libraries:** data (14), database (9), [[Databases]] (5), [[SQL]] (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** sql (3)
 > **Definitions:** defined as (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
@@ -365,9 +365,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (14), database (10), data (3), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (14), where (5), select (4), crud (1)
 > **SQL:** where (5), select (4)
-> **Code Keywords:** let (3), delete (2)
 > **Definitions:** is a  (2), known as (2), stands for (1)
 > **Code Identifiers:** tshirt_size (4)
 > **CLI Commands:** find (1)
@@ -377,7 +377,7 @@ created: 2026-04-29
 
 ### 2. SQL Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Viewing data in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980)
@@ -462,7 +462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), from, (1), case, (1)
+> **Frameworks & Libraries:** database (13), data (11), [[SQL]] (6), next (3), hit (2)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** imagine (1), for instance (1)
@@ -543,9 +543,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (2), database (2), [[Microsoft Excel|Excel]] (1), next (1)
 > **Code Identifiers:** last_name (6), first_name (5), last_names (1)
 > **Env Vars:** select (4), sql (2)
-> **Code Keywords:** let (4), case, (1)
 > **SQL:** select (4)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
@@ -650,10 +650,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[SQL]] (3), [[Microsoft Excel|Excel]] (2), database (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** where (10), select (9), sql (3)
 > **SQL:** where (10), select (9)
 > **Code Identifiers:** first_name (4), last_name (4), tshirt_size (2)
-> **Code Keywords:** let (5), case, (2), from. (1)
 > **CLI Commands:** find (3), make (3)
 > **Warnings:** be careful (1), keep in mind (1)
 > **Analogies:** for example (1)
@@ -788,7 +788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[SQL]] (7), data (5), [[Microsoft Excel|Excel]] (5), database (3), teams (2)
 > **Env Vars:** sql (7)
 > **Analogies:** for instance (3), for example (2)
 > **CLI Commands:** find (3)
@@ -861,7 +861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), return. (1), case, (1)
+> **Frameworks & Libraries:** database (4), data (4), [[Search]] (2), [[SQL]] (1), [[Google]] (1)
 > **Non-Speech:** (computer mouse clicking) (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
@@ -911,6 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** where (2), is_not (1)
 > **SQL:** where (2)
@@ -960,8 +961,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[SQL]] (1), power (1), next (1), data (1)
 > **CLI Commands:** find (5), make (1)
-> **Code Keywords:** this, (1), let (1), this. (1), function (1)
 > **Env Vars:** where (2), sql (1)
 > **SQL:** where (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -972,7 +973,7 @@ created: 2026-04-29
 
 ### 3. Working with Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using SUM in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980)
@@ -1037,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[SQL]] (5), hit (2), next (2), data (1)
 > **Env Vars:** sql (5), sum (1), e11 (1)
 > **Code Identifiers:** num_desks (3)
 > **Definitions:** is a  (2)
@@ -1136,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (8), case, (4), type = (1), this, (1)
+> **Frameworks & Libraries:** [[SQL]] (4), data (3), [[Microsoft Excel|Excel]] (2), database (1), next (1)
 > **Env Vars:** sql (4), g101 (1), avg (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is called (1), is a  (1)
@@ -1221,8 +1222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[SQL]] (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** null (6), distinct (4), sql (3), where (2), select (1)
-> **Code Keywords:** function (4), let (2), switch (1), from. (1), case, (1)
 > **Code Identifiers:** tshirt_size (6)
 > **CLI Commands:** find (3), make (1)
 > **SQL:** where (2), select (1)
@@ -1251,8 +1252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[SQL]] (2), [[Search]] (1)
 > **Env Vars:** length (6), upper (5), lower (4), sql (2), where (2)
-> **Code Keywords:** let (2), function (2), pass (1)
 > **CLI Commands:** find (3), make (1)
 > **SQL:** where (2), select (1)
 > **Code Identifiers:** first_name (1)
@@ -1262,7 +1263,7 @@ created: 2026-04-29
 
 ### 4. Organizing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sorting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980)
@@ -1355,7 +1356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default, (3), from. (1), case, (1), this. (1)
+> **Frameworks & Libraries:** data (5), database (4), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
 > **Env Vars:** order (6), desc (2), sql (1), asc (1)
 > **Code Identifiers:** first_name (5), tshirt_size (4)
 > **SQL:** order by (6)
@@ -1444,9 +1445,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), power (2), [[SQL]] (2), database (1), next (1)
 > **Env Vars:** group (9), having (7), count (5), order (3), select (2)
 > **SQL:** group by (9), having (7), order by (3), select (2), where (1)
-> **Code Keywords:** let (8), for. (1)
 > **Analogies:** imagine (2), similar to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1521,8 +1522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), database (2), [[Microsoft Excel|Excel]] (1), data (1), [[Pivot Tables]] (1)
 > **Env Vars:** sql (6), group (3), count (2), having (2), select (1)
-> **Code Keywords:** let (6), function (1), try. (1), case, (1), require (1)
 > **SQL:** group by (3), having (2), select (1)
 > **Code Identifiers:** tshirt_size (3)
 > **CLI Commands:** find (1), make (1)
@@ -1607,7 +1608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type, (1)
+> **Frameworks & Libraries:** [[SQL]] (2), data (2), next (1), database (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** sql (2), desc (1)
 > **Definitions:** is a  (1)
@@ -1717,7 +1718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), switch (1)
+> **Frameworks & Libraries:** data (6), [[SQL]] (4), [[Business Development]] (2), [[Engineering]] (2), next (1)
 > **Env Vars:** sql (4), select (2), where (2), order (2)
 > **SQL:** select (2), where (2), order by (2)
 > **CLI Commands:** make (3), find (2)
@@ -1729,7 +1730,7 @@ created: 2026-04-29
 
 ### 5. Combining Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980)
@@ -1790,7 +1791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (2), for. (1)
+> **Frameworks & Libraries:** database (4), [[Microsoft Office|Office]] (4), data (1), [[SQL]] (1)
 > **Env Vars:** join (6), sql (1), select (1)
 > **SQL:** join (6), select (1)
 > **Code Identifiers:** office_manager (3), first_name (1), last_name (1), office_manager_id (1)
@@ -1890,7 +1891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Office|Office]] (2), database (2), next (1), [[SQL]] (1)
 > **Env Vars:** sql (1), select (1), left (1), join (1)
 > **Code Identifiers:** first_name (1), last_name (1), date_complete (1)
 > **SQL:** select (1), left join (1)
@@ -1952,8 +1953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), [[SQL]] (4), power (1)
 > **Env Vars:** vlookup (6), sql (4), join (4), hlookup (3), xlookup (3)
-> **Code Keywords:** let (3), this. (2), function (1), finally, (1), case, (1)
 > **SQL:** join (4)
 > **Analogies:** similar to (1), just like (1)
 > **UI Navigation:** click on (1)
@@ -1962,7 +1963,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking your SQL skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980)
@@ -2005,8 +2006,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (10), data (3), [[Microsoft Excel|Excel]] (1), [[Programming]] (1), database (1)
 > **Env Vars:** sql (10), sqr (2)
-> **Code Keywords:** continue (1)
 > **URLs:** [w3schools.com](https://w3schools.com) (1)
 > **Speakers:** - congratulations (1)
 

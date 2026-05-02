@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20for%20Small%20and%20Medium%20Business%20Growth.md)
@@ -40,36 +40,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - AI: The secret weapon for small business
-  - What to know before starting this course
+  - [AI: The secret weapon for small business](#ai-the-secret-weapon-for-small-business)
+  - [What to know before starting this course](#what-to-know-before-starting-this-course)
 - [**1. Think Strategically about AI for Your Company**](#1-think-strategically-about-ai-for-your-company) (4 videos)
-  - The four categories of AI
-  - Three AI success drivers
-  - Are you an AI taker, maker, or creator?
-  - Estimating ROI for an AI use case
+  - [The four categories of AI](#the-four-categories-of-ai)
+  - [Three AI success drivers](#three-ai-success-drivers)
+  - [Are you an AI taker, maker, or creator?](#are-you-an-ai-taker-maker-or-creator)
+  - [Estimating ROI for an AI use case](#estimating-roi-for-an-ai-use-case)
 - [**2. Identify AI Use Cases**](#2-identify-ai-use-cases) (5 videos)
-  - Describing AI use cases with the AI canvas
-  - AI-powered inventory management
-  - AI-enabled content marketing in multiple languages
-  - Enhancing customer experience with chatbots
-  - Improving HR management with AI
+  - [Describing AI use cases with the AI canvas](#describing-ai-use-cases-with-the-ai-canvas)
+  - [AI-powered inventory management](#ai-powered-inventory-management)
+  - [AI-enabled content marketing in multiple languages](#ai-enabled-content-marketing-in-multiple-languages)
+  - [Enhancing customer experience with chatbots](#enhancing-customer-experience-with-chatbots)
+  - [Improving HR management with AI](#improving-hr-management-with-ai)
 - [**3. Implement AI in Your Company**](#3-implement-ai-in-your-company) (5 videos)
-  - Starting with problems, ideas, or data
-  - Strategy as a learning process
-  - Boosting AI literacy on your team
-  - Creating teams of explorers for the future of AI
-  - Scaling AI use cases beyond proof of concept
+  - [Starting with problems, ideas, or data](#starting-with-problems-ideas-or-data)
+  - [Strategy as a learning process](#strategy-as-a-learning-process)
+  - [Boosting AI literacy on your team](#boosting-ai-literacy-on-your-team)
+  - [Creating teams of explorers for the future of AI](#creating-teams-of-explorers-for-the-future-of-ai)
+  - [Scaling AI use cases beyond proof of concept](#scaling-ai-use-cases-beyond-proof-of-concept)
 - [**4. Ethics, Responsible AI, and Risk Management**](#4-ethics-responsible-ai-and-risk-management) (4 videos)
-  - AI ethics for small and medium business
-  - Understanding AI systems' biases
-  - Data privacy and security considerations
-  - Risk management for AI projects
+  - [AI ethics for small and medium business](#ai-ethics-for-small-and-medium-business)
+  - [Understanding AI systems' biases](#understanding-ai-systems-biases)
+  - [Data privacy and security considerations](#data-privacy-and-security-considerations)
+  - [Risk management for AI projects](#risk-management-for-ai-projects)
 - [**Conclusion**](#conclusion) (1 videos)
-  - AI: Your future AI roadmap for growth
+  - [AI: Your future AI roadmap for growth](#ai-your-future-ai-roadmap-for-growth)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI: The secret weapon for small business
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-the-secret-weapon-for-small-business?u=76281980)
@@ -92,6 +92,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), management (1), business (1)
 > **Env Vars:** imd (1)
 > **Speakers:** - [instructor] (1)
 
@@ -120,7 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6), [[Generative AI]] (1), [[ChatGPT]] (1), [[Google]] (1), [[Gemini]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -128,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Think Strategically about AI for Your Company
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The four categories of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980)
@@ -193,9 +194,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), business (5), [[ChatGPT]] (2), [[Algorithms]] (2), data (2)
 > **Analogies:** for example (3), picture (1)
 > **Definitions:** is a  (1), in other words (1), stands for (1)
-> **Code Keywords:** continue (1), interface (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Warnings:** be aware (1)
@@ -270,9 +271,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), business (7), data (3), [[Microsoft Products|Products]] (3), [[Customer Support]] (2)
 > **Env Vars:** gpt (1), roi (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -327,10 +328,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), data (4), [[Microsoft]] (2), business (2), [[Microsoft Copilot|Copilot]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** pass (1)
 > **Env Vars:** ibm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -387,8 +388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), business (3), chatbot (2), game (1)
 > **Env Vars:** roi (11), roe (1)
-> **Code Keywords:** let (2), this. (1)
 > **Analogies:** for example (2), for instance (1)
 > **Versions:** 33.3 (1)
 > **Prerequisites:** set up (1)
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 ### 2. Identify AI Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing AI use cases with the AI canvas
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980)
@@ -500,7 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), implements (1), type, (1), require (1), finally, (1)
+> **Frameworks & Libraries:** ai (26), data (7), [[Hardware]] (3), leadership (1), teams (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Prerequisites:** required to (1), set up (1)
 > **Speakers:** - [narrator] (1)
@@ -594,8 +595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), data (9), management (3), [[Hardware]] (3), teams (1)
 > **Env Vars:** erp (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -693,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** ai (13), data (3), business (2), [[Generative AI]] (2), next (2)
 > **Env Vars:** api (2), nlp (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -782,9 +783,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), chatbot (10), data (5), business (2), next (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Improving HR management with AI
@@ -900,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), require (1)
+> **Frameworks & Libraries:** ai (29), hr (14), data (11), [[Generative AI]] (4), next (2)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -909,7 +910,7 @@ created: 2026-04-29
 
 ### 3. Implement AI in Your Company
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting with problems, ideas, or data
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980)
@@ -984,8 +985,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), data (7), business (1), chatbot (1), [[E-Commerce]] (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Strategy as a learning process
@@ -1047,7 +1048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3)
+> **Frameworks & Libraries:** ai (13), business (3), strengths (1), [[Decision-Making]] (1), [[Market Research]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Boosting AI literacy on your team
@@ -1107,7 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (1)
+> **Frameworks & Libraries:** ai (19), teams (4), data (2), [[Deep Learning]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** crm (1)
@@ -1170,7 +1171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (13), teams (4), business (1), [[Forecasting]] (1), management (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1227,7 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), case. (1), yield (1), require (1)
+> **Frameworks & Libraries:** ai (18), data (4), [[Scalability]] (2), business (1), next (1)
 > **Analogies:** it's like (1), such as (1)
 > **Env Vars:** poc (1)
 > **Speakers:** - [instructor] (1)
@@ -1235,7 +1236,7 @@ created: 2026-04-29
 
 ### 4. Ethics, Responsible AI, and Risk Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI ethics for small and medium business
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980)
@@ -1298,8 +1299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), [[Ethics]] (7), [[Legal Compliance]] (7), [[Accountability]] (4), [[Privacy]] (1)
 > **Definitions:** is a  (2), refers to (1), means that (1)
-> **Code Keywords:** self (1), public (1), finally, (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1381,8 +1382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), ai (15), [[Algorithms]] (2), [[Microsoft]] (1), [[Google]] (1)
 > **Analogies:** for example (5), imagine (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ibm (1)
 > **Definitions:** in other words (1)
 > **Warnings:** be aware (1)
@@ -1468,7 +1469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), delete (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (26), [[Privacy]] (6), [[Security]] (6), ai (5), [[Forms]] (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** you need to have (2)
 > **Env Vars:** gdpr (1)
@@ -1604,7 +1605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), case. (1), let (1), protected (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (22), ai (20), data (9), management (5), [[Microsoft Copilot]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** gdpr (1)
@@ -1614,7 +1615,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI: Your future AI roadmap for growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-your-future-ai-roadmap-for-growth?u=76281980)
@@ -1637,7 +1638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (3)
 > **Speakers:** - [instructor] (1)
 
 

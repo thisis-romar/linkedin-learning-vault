@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/six-sigma
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Six%20Sigma%20Foundations.md)
@@ -47,55 +47,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Improve performance with Six Sigma
+  - [Improve performance with Six Sigma](#improve-performance-with-six-sigma)
 - [**1. Introduction to Six Sigma**](#1-introduction-to-six-sigma) (4 videos)
-  - What is Six Sigma?
-  - An overview of DMAIC
-  - Key roles of executives and champions
-  - Levels of expertise
+  - [What is Six Sigma?](#what-is-six-sigma)
+  - [An overview of DMAIC](#an-overview-of-dmaic)
+  - [Key roles of executives and champions](#key-roles-of-executives-and-champions)
+  - [Levels of expertise](#levels-of-expertise)
 - [**2. Key Concepts in Six Sigma**](#2-key-concepts-in-six-sigma) (4 videos)
-  - Critical to quality metrics
-  - Variation and the normal curve
-  - Defects per million opportunities
-  - Sigma levels
+  - [Critical to quality metrics](#critical-to-quality-metrics)
+  - [Variation and the normal curve](#variation-and-the-normal-curve)
+  - [Defects per million opportunities](#defects-per-million-opportunities)
+  - [Sigma levels](#sigma-levels)
 - [**3. Selection of Six Sigma Projects**](#3-selection-of-six-sigma-projects) (2 videos)
-  - Identify potential projects
-  - Select the Six Sigma team
+  - [Identify potential projects](#identify-potential-projects)
+  - [Select the Six Sigma team](#select-the-six-sigma-team)
 - [**4. Define Phase**](#4-define-phase) (4 videos)
-  - Steps in the Define phase
-  - Problem and goal statements
-  - Complete the project charter
-  - How to use SIPOC diagrams
+  - [Steps in the Define phase](#steps-in-the-define-phase)
+  - [Problem and goal statements](#problem-and-goal-statements)
+  - [Complete the project charter](#complete-the-project-charter)
+  - [How to use SIPOC diagrams](#how-to-use-sipoc-diagrams)
 - [**5. Measure Phase**](#5-measure-phase) (6 videos)
-  - Steps in the Measure phase
-  - How to map the current process
-  - Plan for data collection
-  - Types of data and graphs
-  - Measurement system analysis
-  - Process capability and sigma level
+  - [Steps in the Measure phase](#steps-in-the-measure-phase)
+  - [How to map the current process](#how-to-map-the-current-process)
+  - [Plan for data collection](#plan-for-data-collection)
+  - [Types of data and graphs](#types-of-data-and-graphs)
+  - [Measurement system analysis](#measurement-system-analysis)
+  - [Process capability and sigma level](#process-capability-and-sigma-level)
 - [**6. Analyze Phase**](#6-analyze-phase) (6 videos)
-  - Steps in the Analyze phase
-  - How to use the cause-effect diagram
-  - Introduction to hypothesis testing
-  - Data collection in the Analyze phase
-  - How to analyze graphs and charts
-  - How to analyze process maps
+  - [Steps in the Analyze phase](#steps-in-the-analyze-phase)
+  - [How to use the cause-effect diagram](#how-to-use-the-cause-effect-diagram)
+  - [Introduction to hypothesis testing](#introduction-to-hypothesis-testing)
+  - [Data collection in the Analyze phase](#data-collection-in-the-analyze-phase)
+  - [How to analyze graphs and charts](#how-to-analyze-graphs-and-charts)
+  - [How to analyze process maps](#how-to-analyze-process-maps)
 - [**7. Improve Phase**](#7-improve-phase) (5 videos)
-  - Steps in the Improve phase
-  - Generate, evaluate, and select solutions
-  - Reduce the risk of failure through FMEA
-  - Mistake proofing
-  - Pilot test and implement
+  - [Steps in the Improve phase](#steps-in-the-improve-phase)
+  - [Generate, evaluate, and select solutions](#generate-evaluate-and-select-solutions)
+  - [Reduce the risk of failure through FMEA](#reduce-the-risk-of-failure-through-fmea)
+  - [Mistake proofing](#mistake-proofing)
+  - [Pilot test and implement](#pilot-test-and-implement)
 - [**8. Control Phase**](#8-control-phase) (3 videos)
-  - Steps in the Control phase
-  - How to use SPC charts
-  - The control plan
+  - [Steps in the Control phase](#steps-in-the-control-phase)
+  - [How to use SPC charts](#how-to-use-spc-charts)
+  - [The control plan](#the-control-plan)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Engage in Six Sigma projects
+  - [Engage in Six Sigma projects](#engage-in-six-sigma-projects)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve performance with Six Sigma
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980)
@@ -130,15 +130,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (6), [[Microsoft Products|Products]] (2), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - we (1)
 
 
 ### 1. Introduction to Six Sigma
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Six Sigma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980)
@@ -201,11 +201,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (14), data (2), [[Microsoft Products|Products]] (2), business (1), next (1)
 > **Ports:** :00 (5), :30 (1)
 > **Definitions:** is a  (4), refers to (1)
 > **Versions:** 3.4 (2)
 > **Documentation:** specification (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** dmaic (1)
 > **Speakers:** - what (1)
 
@@ -288,7 +288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (3), data (3), [[Engineering]] (2), management (1), next (1)
 > **Definitions:** known as (1), in other words (1)
 > **Env Vars:** dmaic (1)
 > **Speakers:** - every (1)
@@ -350,8 +350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (6), management (3)
 > **Env Vars:** ceo (1), coo (1), cfo (1), cio (1)
-> **Code Keywords:** let (2), implements (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
@@ -442,7 +442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), require (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (13), management (3), [[Statistics]] (2), [[Statistical Analysis]] (2), [[Customer Analysis]] (1)
 > **Env Vars:** dmaic (5)
 > **Analogies:** for example (2), analogous to (1), similar to (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -451,7 +451,7 @@ created: 2026-04-29
 
 ### 2. Key Concepts in Six Sigma
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Critical to quality metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/critical-to-quality-metrics-2?u=76281980)
@@ -524,10 +524,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Six Sigma]] (2)
 > **Env Vars:** voc (3), ctq (2)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - when (1)
 
 #### Variation and the normal curve
@@ -615,8 +615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), [[Six Sigma]] (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** let (2)
 > **Versions:** 99.7 (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - remember (1)
@@ -686,8 +686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (1)
 > **Env Vars:** dpmo (10), dpo (3), ceo (2)
-> **Code Keywords:** let (5), continue (1)
 > **Versions:** 0.4 (2), 0.002 (2)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** is a  (1)
@@ -754,6 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (4), [[Microsoft Products|Products]] (2), product (1)
 > **Documentation:** specification (4)
 > **Env Vars:** dpmo (3)
 > **Definitions:** is a  (2), means that (1)
@@ -764,7 +765,7 @@ created: 2026-04-29
 
 ### 3. Selection of Six Sigma Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify potential projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980)
@@ -867,7 +868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), pass (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (8), management (3), data (2), product (2), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - at (1)
@@ -967,8 +968,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), [[Six Sigma]] (2), business (2), functional (2), teams (1)
 > **UI Navigation:** select the (4)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -977,7 +978,7 @@ created: 2026-04-29
 
 ### 4. Define Phase
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps in the Define phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-define-phase-2?u=76281980)
@@ -1044,9 +1045,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (1), management (1)
 > **Env Vars:** sipoc (4)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
-> **Code Keywords:** let (1), function (1)
 > **Speakers:** - the (1)
 
 #### Problem and goal statements
@@ -1132,9 +1133,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (2), business (2), product (1), [[IT Help Desk]] (1), next (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** sla (1), smart (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
 
@@ -1203,9 +1204,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Six Sigma]] (2)
 > **Env Vars:** smart (1), dmaic (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** function (1)
 > **Speakers:** - how (1)
 
 #### How to use SIPOC diagrams
@@ -1269,8 +1270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (2), next (2), data (1), [[Forms]] (1), product (1)
 > **Env Vars:** sipoc (7)
-> **Code Keywords:** include, (1), finally, (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - would (1)
@@ -1278,7 +1279,7 @@ created: 2026-04-29
 
 ### 5. Measure Phase
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps in the Measure phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980)
@@ -1383,7 +1384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** data (9), [[Six Sigma]] (2), teams (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Env Vars:** dmaic (1)
 > **Analogies:** for example (1)
@@ -1472,10 +1473,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Six Sigma]] (1), power (1), data (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** think of it as (1), picture (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - if (1)
 
 #### Plan for data collection
@@ -1531,8 +1532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Six Sigma]] (2), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
@@ -1613,9 +1614,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Six Sigma]] (3)
 > **Analogies:** such as (5), for example (4)
 > **Definitions:** is a  (2), in other words (1)
-> **Code Keywords:** let (1), case, (1)
 > **Versions:** 2.2 (1), 175.6 (1)
 > **Speakers:** - throughout (1)
 
@@ -1680,8 +1681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Office|Office]] (2), [[Six Sigma]] (1)
 > **Env Vars:** msa (6)
-> **Code Keywords:** case, (2), let (1)
 > **Definitions:** means that (2), in other words (1)
 > **Analogies:** such as (2)
 > **Cross-References:** go back to (1)
@@ -1758,8 +1759,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), express (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
-> **Code Keywords:** yield (2), this. (1)
 > **Documentation:** specification (3)
 > **CLI Commands:** make (1)
 > **Versions:** 2.5 (1)
@@ -1769,7 +1770,7 @@ created: 2026-04-29
 
 ### 6. Analyze Phase
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps in the Analyze phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980)
@@ -1848,7 +1849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (9), [[Six Sigma]] (2), [[Microsoft Word|Word]] (1), next (1), [[Statistics]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** such as (2)
@@ -1934,8 +1935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), traffic (1), [[Six Sigma]] (1), [[Microsoft Excel|Excel]] (1), next (1)
 > **Definitions:** is a  (3), is called (1), known as (1)
-> **Code Keywords:** this. (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2008,9 +2009,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (1), [[Six Sigma]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - if (1)
 
@@ -2073,7 +2074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (14), [[Six Sigma]] (1), database (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - if (1)
@@ -2139,7 +2140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Six Sigma]] (2), data (2), next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - customers (1)
 
@@ -2218,8 +2219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), self (1)
 > **CLI Commands:** snap (1)
 > **Env Vars:** nva (1)
 > **Analogies:** for example (1)
@@ -2228,7 +2229,7 @@ created: 2026-04-29
 
 ### 7. Improve Phase
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps in the Improve phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980)
@@ -2279,8 +2280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (1), [[Simulation]] (1), management (1)
 > **Env Vars:** doe (2), fmea (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** select the (2)
 > **Analogies:** such as (1), for example (1)
 > **Versions:** 11.2 (1)
@@ -2356,7 +2357,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1), require (1)
 > **Env Vars:** doe (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -2438,10 +2438,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (3), product (1), next (1)
 > **Env Vars:** fmea (11), rpn (2), dmaic (1)
 > **Definitions:** is called (4)
 > **Analogies:** imagine (1), such as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - think (1)
 
 #### Mistake proofing
@@ -2517,9 +2517,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Six Sigma]] (1)
 > **Env Vars:** atm (2), pin (1)
 > **Analogies:** picture (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### Pilot test and implement
@@ -2589,16 +2589,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Six Sigma]] (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - how (1)
 
 
 ### 8. Control Phase
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps in the Control phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-control-phase-2?u=76281980)
@@ -2667,7 +2667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1), next (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
@@ -2749,8 +2749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Statistics]] (1), management (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** spc (12)
-> **Code Keywords:** let (3)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** stands for (1)
@@ -2824,15 +2824,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Six Sigma]] (1)
 > **Documentation:** specification (2)
 > **Definitions:** is a  (1), is called (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - how (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Engage in Six Sigma projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/engage-in-six-sigma-projects?u=76281980)
@@ -2861,6 +2861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (4), data (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)
 

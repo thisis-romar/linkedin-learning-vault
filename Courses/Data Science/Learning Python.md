@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Python.md)
@@ -49,52 +49,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learning Python
-  - Before you get started
+  - [Learning Python](#learning-python)
+  - [Before you get started](#before-you-get-started)
 - [**1. Getting Started**](#1-getting-started) (3 videos)
-  - Using the course resources
-  - Installing Python on your computer
-  - CoderPad Challenges
+  - [Using the course resources](#using-the-course-resources)
+  - [Installing Python on your computer](#installing-python-on-your-computer)
+  - [CoderPad Challenges](#coderpad-challenges)
 - [**2. Basics of Python**](#2-basics-of-python) (8 videos)
-  - Building "Hello World"
-  - Variables and simple data types
-  - Sequence data types
-  - Dictionary data types
-  - Conditional decisions
-  - Loops
-  - Defining functions
-  - Solution: Number counter
+  - [Building "Hello World"](#building-hello-world)
+  - [Variables and simple data types](#variables-and-simple-data-types)
+  - [Sequence data types](#sequence-data-types)
+  - [Dictionary data types](#dictionary-data-types)
+  - [Conditional decisions](#conditional-decisions)
+  - [Loops](#loops)
+  - [Defining functions](#defining-functions)
+  - [Solution: Number counter](#solution-number-counter)
 - [**3. Beyond the Basics**](#3-beyond-the-basics) (6 videos)
-  - Built-in functions
-  - Solution: Find the longest string
-  - Classes and objects
-  - Importing and using modules
-  - Using exceptions
-  - Solution: Palindromes
+  - [Built-in functions](#built-in-functions)
+  - [Solution: Find the longest string](#solution-find-the-longest-string)
+  - [Classes and objects](#classes-and-objects)
+  - [Importing and using modules](#importing-and-using-modules)
+  - [Using exceptions](#using-exceptions)
+  - [Solution: Palindromes](#solution-palindromes)
 - [**4. Welcome to Part 2**](#4-welcome-to-part-2) (1 videos)
-  - Applying what you've learned
+  - [Applying what you've learned](#applying-what-youve-learned)
 - [**5. Using Dates and Times**](#5-using-dates-and-times) (5 videos)
-  - The date, time, and datetime classes
-  - Formatting time output
-  - Using timedelta objects
-  - Working with calendars
-  - Solution: Dates and times
+  - [The date, time, and datetime classes](#the-date-time-and-datetime-classes)
+  - [Formatting time output](#formatting-time-output)
+  - [Using timedelta objects](#using-timedelta-objects)
+  - [Working with calendars](#working-with-calendars)
+  - [Solution: Dates and times](#solution-dates-and-times)
 - [**6. Working with Files**](#6-working-with-files) (5 videos)
-  - Writing files
-  - Reading files
-  - Working with the operating system
-  - Using the filesystem
-  - Solution: Files
+  - [Writing files](#writing-files)
+  - [Reading files](#reading-files)
+  - [Working with the operating system](#working-with-the-operating-system)
+  - [Using the filesystem](#using-the-filesystem)
+  - [Solution: Files](#solution-files)
 - [**7. Working with the Internet**](#7-working-with-the-internet) (3 videos)
-  - Retrieving internet data
-  - Working with JSON data
-  - Manipulating XML
+  - [Retrieving internet data](#retrieving-internet-data)
+  - [Working with JSON data](#working-with-json-data)
+  - [Manipulating XML](#manipulating-xml)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/learning-python?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (3), cloud (2), data (1)
 > **CLI Commands:** python (7)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
@@ -164,10 +164,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (9), [[Python (Programming Language)|Python]] (7), [[Programming Foundations]] (1), feature (1), data (1)
 > **CLI Commands:** python (7), find (1)
 > **Tools:** visual studio (1), colab (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - this (1)
@@ -175,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the course resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/using-the-course-resources?u=76281980)
@@ -286,11 +286,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[GitHub]] (8), [[Google]] (7), [[Search]] (2), [[Codespaces]] (1)
 > **Tools:** github (8), colab (6), terminal (3), visual studio (2)
 > **CLI Commands:** python (10), make (3), find (2)
 > **Prerequisites:** install (3), setup (3), set up (1), you'll need (1)
 > **UI Navigation:** click on (4), go to (2), in the sidebar (1)
-> **Code Keywords:** let (3), require (1)
 > **Exercise Files:** exercise files (2), download the (1), zip file (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -362,8 +362,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Windows]] (3), [[Linux]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (9), make (2), python3 (2)
-> **Code Keywords:** this, (2), let (1), continue (1)
 > **Prerequisites:** install (2), you'll need (1)
 > **Versions:** python 3 (1), 3.13 (1)
 > **Tools:** terminal (2)
@@ -432,8 +432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **UI Navigation:** click on (4)
-> **Code Keywords:** case, (1), let (1), function (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
@@ -442,7 +442,7 @@ created: 2026-04-29
 
 ### 2. Basics of Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building "Hello World"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/building-hello-world?u=76281980)
@@ -645,8 +645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (29), hit (3), data (2), [[Google]] (2), [[GitHub]] (2)
 > **CLI Commands:** python (29), make (2)
-> **Code Keywords:** let (15), function (5), this, (3), interface (1), from. (1)
 > **Tools:** terminal (6), colab (4), visual studio (2), github (2), command line (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Env Vars:** repl (4)
@@ -889,7 +889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), this. (3), this, (1), function (1), type. (1)
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (10), [[Programming]] (1), next (1)
 > **CLI Commands:** python (10)
 > **Analogies:** for example (5), such as (2), just like (1)
 > **Tools:** colab (4), terminal (3)
@@ -1137,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), this, (5), function (3), type. (1), continue (1)
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), python (2)
 > **Analogies:** for example (3), just like (2), similar to (1)
 > **Definitions:** is a  (4), in other words (1)
@@ -1329,7 +1329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), function (3), this. (2), type. (1), case, (1)
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (6), [[Microsoft Word|Word]] (1), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (6), make (5)
 > **Code Identifiers:** dict_keys (2), dict_values (2), dict_start (1)
 > **Analogies:** for example (2), kind of like (1), just like (1)
@@ -1509,7 +1509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (4), else, (3), elif (3), if, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), hit (2), [[Programming]] (1), [[JavaScript]] (1), next (1)
 > **CLI Commands:** make (7), python (6)
 > **Tools:** colab (6)
 > **Code Identifiers:** conditionals_start (1)
@@ -1720,7 +1720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), this, (7), continue (6), case, (2), function (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (5), [[Representational State Transfer (REST)|Rest]] (4), [[Programming]] (3), next (1)
 > **CLI Commands:** python (7), make (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **Cross-References:** previous video (1), earlier in (1), we talked about (1)
@@ -2014,7 +2014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (39), let (26), case, (6), this. (5), pass (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Google]] (1), [[Zoom]] (1), data (1)
 > **CLI Commands:** python (4), make (4)
 > **Tools:** colab (6), terminal (1)
 > **Definitions:** known as (1), means that (1)
@@ -2084,7 +2084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **UI Navigation:** scroll up (1), click on (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -2093,7 +2093,7 @@ created: 2026-04-29
 
 ### 3. Beyond the Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/built-in-functions?u=76281980)
@@ -2168,7 +2168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (15), this, (5), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), next (1), data (1)
 > **CLI Commands:** python (9), make (3), find (1)
 > **Tools:** colab (5)
 > **UI Navigation:** click on (3), scroll down (2)
@@ -2214,7 +2214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** next (1), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -2461,7 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), class, (13), let (11), case, (6), class. (6)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (8), [[Programming]] (2), application (1), next (1)
 > **CLI Commands:** python (9)
 > **Definitions:** is an  (3), is a  (3), means that (1)
 > **Analogies:** just like (1), imagine (1), it's like (1), for example (1)
@@ -2665,7 +2665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), module (15), function (6), this. (2), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (5), hit (1), product (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** python (6), make (5), pip (2), find (2)
 > **Tools:** colab (5), terminal (3), visual studio (1)
 > **Analogies:** for example (4), such as (1), it's like (1)
@@ -2809,7 +2809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (5), this, (2), except, (2), case, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (4), python (3)
 > **Tools:** colab (4)
 > **Definitions:** is a  (3)
@@ -2899,7 +2899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2)
+> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -2907,7 +2907,7 @@ created: 2026-04-29
 
 ### 4. Welcome to Part 2
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/applying-what-we-ve-learned?u=76281980)
@@ -2928,16 +2928,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (3), next (1), [[JSON]] (1), web (1)
 > **CLI Commands:** python (3), make (1)
 > **Env Vars:** xml (1), json (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - welcome (1)
 
 
 ### 5. Using Dates and Times
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The date, time, and datetime classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/the-date-time-and-datetime-classes?u=76281980)
@@ -3072,7 +3072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (6), module (2), class, (2), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (1), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), python (2)
 > **Tools:** colab (3)
 > **Analogies:** for example (2), just like (1)
@@ -3234,7 +3234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (5), this. (2), class. (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (2), application (1)
 > **CLI Commands:** python (6), find (1)
 > **Documentation:** the docs (3), the documentation (1)
 > **Ports:** :17 (1), :15 (1)
@@ -3448,7 +3448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), this. (7), case, (2), function (2), pass (1)
+> **Frameworks & Libraries:** next (7), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (6), python (1)
 > **Tools:** colab (5)
 > **Code Identifiers:** time_to_afd (2)
@@ -3662,7 +3662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), module (5), this. (4), function (3), class. (2)
+> **Frameworks & Libraries:** [[HTML]] (9), [[Python (Programming Language)|Python]] (3), next (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (9)
 > **CLI Commands:** python (3), make (3)
 > **Analogies:** for example (3)
@@ -3733,7 +3733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (2), function (2), class, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** click on (1)
@@ -3744,7 +3744,7 @@ created: 2026-04-29
 
 ### 6. Working with Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/writing-files?u=76281980)
@@ -3875,7 +3875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (7), pass (1), case, (1)
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (3), next (2)
 > **CLI Commands:** python (3), make (2)
 > **UI Navigation:** open the (3), double-click (2)
 > **Tools:** colab (4)
@@ -3981,7 +3981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (3), else, (2), case, (1), this. (1)
+> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (5), python (1)
 > **Code Identifiers:** readfile_start (1), sample_file (1), file_lines (1)
 > **Analogies:** just like (2), similar to (1)
@@ -4177,7 +4177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), function (9), module (3), class. (3), this. (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1), [[Linux]] (1), [[Windows]] (1)
 > **Tools:** colab (7)
 > **CLI Commands:** python (2), make (2), go run (1)
 > **Definitions:** is a  (5)
@@ -4395,7 +4395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (33), module (11), function (9), class. (2), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), [[Metadata]] (1)
 > **CLI Commands:** make (9), python (2)
 > **File Paths:** textfile.txt (5), newfile.txt (4), file.txt (1)
 > **Exercise Files:** zip file (10)
@@ -4463,14 +4463,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), module (4), let (1)
+> **Frameworks & Libraries:** next (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (5), python (1)
 > **Speakers:** - okay (1)
 
 
 ### 7. Working with the Internet
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieving internet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/retrieving-internet-data?u=76281980)
@@ -4553,8 +4553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), web (4), [[Python (Programming Language)|Python]] (3), [[HTML]] (3), [[JSON]] (1)
 > **Env Vars:** url (9), http (3), html (3), json (1), xml (1)
-> **Code Keywords:** let (7), function (4), module (3)
 > **CLI Commands:** python (3), make (3)
 > **URLs:** [example.com](https://example.com) (3)
 > **Tools:** colab (2)
@@ -4713,8 +4713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[JSON]] (17), [[Python (Programming Language)|Python]] (4), api (2), [[Real-Time]] (1)
 > **Env Vars:** json (15), url (4), api (2), http (1)
-> **Code Keywords:** let (14), module (4), case, (1), function (1), pass (1)
 > **CLI Commands:** python (4), make (2)
 > **Code Identifiers:** thejson (3), web_url (2), jsondata_start (1)
 > **Tools:** colab (3), terminal (1)
@@ -4937,7 +4937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), function (5), module (4), this. (2), case, (1)
+> **Frameworks & Libraries:** data (5), dom (5), node (4), [[Python (Programming Language)|Python]] (3), [[GitHub]] (3)
 > **Env Vars:** xml (28), html (2), xlm (1)
 > **CLI Commands:** make (5), node (4), python (3), find (1)
 > **Tools:** colab (7), github (3), vs code (1), terminal (1)
@@ -4949,7 +4949,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/conclusion?u=76281980)
@@ -4992,8 +4992,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), data (5), [[Microsoft Excel|Excel]] (3), next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** python (19)
-> **Code Keywords:** continue (1), finally, (1)
 > **Env Vars:** json (1), xml (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Best Practices:** don't forget (1)

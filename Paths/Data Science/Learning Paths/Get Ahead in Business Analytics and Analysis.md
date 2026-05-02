@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/get-ahead-in-business-analytics-and
 course_count: 19
 linkedin_topics:
   - Data Science
-louvain_cluster: 9
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/data-science
@@ -93,7 +93,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Get%20Ahead%20in%20Business%20Analytics%20and%20Analysis.md)

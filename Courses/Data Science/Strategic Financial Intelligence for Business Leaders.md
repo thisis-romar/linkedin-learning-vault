@@ -28,7 +28,7 @@ tags:
   - skill/corporate-finance
   - skill/strategic-financial-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Financial%20Intelligence%20for%20Business%20Leaders.md)
@@ -47,42 +47,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Financial intelligence
-  - What you should know
+  - [Financial intelligence](#financial-intelligence)
+  - [What you should know](#what-you-should-know)
 - [**1. How to Use Financial Intelligence in Leadership**](#1-how-to-use-financial-intelligence-in-leadership) (2 videos)
-  - Why financial intelligence is every leader’s secret weapon
-  - How leaders use financial insights to drive strategic decisions
+  - [Why financial intelligence is every leader’s secret weapon](#why-financial-intelligence-is-every-leaders-secret-weapon)
+  - [How leaders use financial insights to drive strategic decisions](#how-leaders-use-financial-insights-to-drive-strategic-decisions)
 - [**2. How to Ensure Your Business Health**](#2-how-to-ensure-your-business-health) (9 videos)
-  - Connecting the dots: How key financial statements reveal business health
-  - The income statement
-  - The balance sheet
-  - The cash flow statement
-  - Let's talk about financial health
-  - Red flags in the income statement
-  - Red flags in the balance sheet
-  - Red flags in the cash flow statement
-  - Red flags cheat sheet
+  - [Connecting the dots: How key financial statements reveal business health](#connecting-the-dots-how-key-financial-statements-reveal-business-health)
+  - [The income statement](#the-income-statement)
+  - [The balance sheet](#the-balance-sheet)
+  - [The cash flow statement](#the-cash-flow-statement)
+  - [Let's talk about financial health](#lets-talk-about-financial-health)
+  - [Red flags in the income statement](#red-flags-in-the-income-statement)
+  - [Red flags in the balance sheet](#red-flags-in-the-balance-sheet)
+  - [Red flags in the cash flow statement](#red-flags-in-the-cash-flow-statement)
+  - [Red flags cheat sheet](#red-flags-cheat-sheet)
 - [**3. How to Make Smart Capital Allocation Decisions**](#3-how-to-make-smart-capital-allocation-decisions) (4 videos)
-  - How to use capital allocation as a strategic
-  - Where capital comes from and where it goes
-  - How to turn strategy into a capital plan
-  - How to pick the right investments
+  - [How to use capital allocation as a strategic](#how-to-use-capital-allocation-as-a-strategic)
+  - [Where capital comes from and where it goes](#where-capital-comes-from-and-where-it-goes)
+  - [How to turn strategy into a capital plan](#how-to-turn-strategy-into-a-capital-plan)
+  - [How to pick the right investments](#how-to-pick-the-right-investments)
 - [**4. How to Monitor Performance**](#4-how-to-monitor-performance) (4 videos)
-  - How to translate strategy into measurable execution
-  - How to use long-range plans, budgets, and forecasts
-  - How to spot the gaps before they become problems
-  - What good financial performance really means
+  - [How to translate strategy into measurable execution](#how-to-translate-strategy-into-measurable-execution)
+  - [How to use long-range plans, budgets, and forecasts](#how-to-use-long-range-plans-budgets-and-forecasts)
+  - [How to spot the gaps before they become problems](#how-to-spot-the-gaps-before-they-become-problems)
+  - [What good financial performance really means](#what-good-financial-performance-really-means)
 - [**5. How to Tell Compelling Financial Stories**](#5-how-to-tell-compelling-financial-stories) (4 videos)
-  - How to make numbers make sense
-  - How to frame impactful executive updates
-  - How to tailor your message to your audience
-  - How to end your executive updates
+  - [How to make numbers make sense](#how-to-make-numbers-make-sense)
+  - [How to frame impactful executive updates](#how-to-frame-impactful-executive-updates)
+  - [How to tailor your message to your audience](#how-to-tailor-your-message-to-your-audience)
+  - [How to end your executive updates](#how-to-end-your-executive-updates)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/financial-intelligence?u=76281980)
@@ -105,9 +105,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), leadership (1), [[LinkedIn]] (1)
 > **Env Vars:** cpa (1), ceo (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### What you should know
@@ -137,6 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), ai (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mba (1)
 > **Speakers:** - if (1)
@@ -144,7 +145,7 @@ created: 2026-04-29
 
 ### 1. How to Use Financial Intelligence in Leadership
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why financial intelligence is every leader’s secret weapon
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/why-financial-intelligence-is-every-leader-s-secret-weapon?u=76281980)
@@ -195,8 +196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), leadership (1), management (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** break. (1), raise (1)
 > **Env Vars:** cfo (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - if (1)
@@ -316,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), catch. (1), else. (1), return. (1), finally, (1)
+> **Frameworks & Libraries:** business (4), strengths (1)
 > **Env Vars:** ceo (4), cfo (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -326,7 +327,7 @@ created: 2026-04-29
 
 ### 2. How to Ensure Your Business Health
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting the dots: How key financial statements reveal business health
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/connecting-the-dots-how-key-financial-statements-reveal-business-health?u=76281980)
@@ -377,8 +378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (13), [[Financial Statements]] (3), data (1), hit (1), product (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** picture (1), just like (1)
 > **Warnings:** warning (1)
 > **Speakers:** - the (1)
@@ -410,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (2), next (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - to (1)
@@ -454,6 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -531,8 +533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), next (2), hit (1), game (1), [[Financial Statements]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1), this: (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - all (1)
@@ -590,7 +592,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), catch, (1)
 > **CLI Commands:** find (1)
 > **Warnings:** warning (1)
 > **Speakers:** - let (1)
@@ -634,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** next (2), product (1), business (1), management (1)
 > **Speakers:** - let (1)
 
 #### Red flags in the balance sheet
@@ -710,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), yield (1), this, (1)
+> **Frameworks & Libraries:** business (9), next (4), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - all (1)
 
@@ -789,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1), self (1)
+> **Frameworks & Libraries:** business (7), next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - alright (1)
@@ -817,6 +818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (2), next (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - to (1)
@@ -824,7 +826,7 @@ created: 2026-04-29
 
 ### 3. How to Make Smart Capital Allocation Decisions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to use capital allocation as a strategic
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-capital-allocation-as-a-strategic?u=76281980)
@@ -889,7 +891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** next (2), leadership (1), business (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -940,7 +942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1)
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1017,7 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), for. (1), break. (1), static (1)
+> **Frameworks & Libraries:** next (6), strengths (1), [[Automation]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** swot (1)
 > **Cross-References:** in the next (1)
@@ -1100,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return, (2), finally, (2), let (1), return. (1)
+> **Frameworks & Libraries:** business (1), [[React.js|React]] (1)
 > **Env Vars:** npv (2), irr (2), roi (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - your (1)
@@ -1108,7 +1110,7 @@ created: 2026-04-29
 
 ### 4. How to Monitor Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to translate strategy into measurable execution
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-translate-strategy-into-measurable-execution?u=76281980)
@@ -1189,7 +1191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** business (3), teams (3), next (2), product (1), [[Zoom]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Env Vars:** ebitda (1)
 > **Cross-References:** in the next (1)
@@ -1244,6 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1), [[Zoom]] (1), data (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** gps (1)
 > **Cross-References:** as we saw (1)
 > **Analogies:** for example (1)
@@ -1359,7 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1)
+> **Frameworks & Libraries:** business (4), next (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** ebitda (1)
 > **Cross-References:** earlier in (1)
@@ -1405,7 +1408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** teams (1), data (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** for instance (1)
@@ -1414,7 +1417,7 @@ created: 2026-04-29
 
 ### 5. How to Tell Compelling Financial Stories
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make numbers make sense
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980)
@@ -1475,8 +1478,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), teams (2), [[Financial Statements]] (1), [[Storytelling]] (1), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** ceo (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - so (1)
@@ -1566,7 +1569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (2)
+> **Frameworks & Libraries:** business (3), teams (3), next (1), [[Zoom]] (1)
 > **Env Vars:** kpi (2), cfo (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
@@ -1634,8 +1637,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1), teams (1), [[Storytelling]] (1), data (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this. (1)
 > **Speakers:** - let (1)
 
 #### How to end your executive updates
@@ -1693,8 +1696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), leadership (2), business (1), product (1), [[Automation]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ebitda (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** make sure to (1)
@@ -1703,7 +1706,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980)
@@ -1752,7 +1755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), this, (1)
+> **Frameworks & Libraries:** leadership (4), [[Executive Leadership]] (1), business (1), [[Financial Data]] (1), teams (1)
 > **Cross-References:** we covered (1), as you saw (1)
 > **URLs:** [oanalabes.com](https://oanalabes.com) (1)
 > **Env Vars:** ceo (1)

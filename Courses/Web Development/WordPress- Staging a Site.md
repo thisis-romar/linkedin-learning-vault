@@ -30,7 +30,7 @@ tags:
   - skill/staging-to-live
   - skill/wordpress-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress-%20Staging%20a%20Site.md)
@@ -49,42 +49,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Curtain call for WordPress: Why staging your site matters
+  - [Curtain call for WordPress: Why staging your site matters](#curtain-call-for-wordpress-why-staging-your-site-matters)
 - [**1. What Is a WordPress Staging Site?**](#1-what-is-a-wordpress-staging-site) (3 videos)
-  - Defining a staging site
-  - Pros of using a staging site
-  - Cons of using a staging site
+  - [Defining a staging site](#defining-a-staging-site)
+  - [Pros of using a staging site](#pros-of-using-a-staging-site)
+  - [Cons of using a staging site](#cons-of-using-a-staging-site)
 - [**2. How to Create a WordPress Staging Site with Plug-Ins**](#2-how-to-create-a-wordpress-staging-site-with-plug-ins) (4 videos)
-  - WP Staging
-  - WPVivid Backup
-  - All-in-One WP Migration plug-in
-  - Duplicator
+  - [WP Staging](#wp-staging)
+  - [WPVivid Backup](#wpvivid-backup)
+  - [All-in-One WP Migration plug-in](#all-in-one-wp-migration-plug-in)
+  - [Duplicator](#duplicator)
 - [**3. How to Create a WordPress Staging Site with Local Tools**](#3-how-to-create-a-wordpress-staging-site-with-local-tools) (2 videos)
-  - Local by Flywheel
-  - DevKinsta
+  - [Local by Flywheel](#local-by-flywheel)
+  - [DevKinsta](#devkinsta)
 - [**4. How to Create a Staging Site with Hosting**](#4-how-to-create-a-staging-site-with-hosting) (3 videos)
-  - SiteGround
-  - Bluehost
-  - WP Engine
+  - [SiteGround](#siteground)
+  - [Bluehost](#bluehost)
+  - [WP Engine](#wp-engine)
 - [**5. How to Manually Create a Staging Site**](#5-how-to-manually-create-a-staging-site) (2 videos)
-  - Warnings and precautions
-  - Walk-through
+  - [Warnings and precautions](#warnings-and-precautions)
+  - [Walk-through](#walk-through)
 - [**6. Using a Staging Site**](#6-using-a-staging-site) (5 videos)
-  - Staging site best practices
-  - Preflight checklist
-  - Syncing content
-  - Switching from staging to production
-  - Post-switch checklist
+  - [Staging site best practices](#staging-site-best-practices)
+  - [Preflight checklist](#preflight-checklist)
+  - [Syncing content](#syncing-content)
+  - [Switching from staging to production](#switching-from-staging-to-production)
+  - [Post-switch checklist](#post-switch-checklist)
 - [**7. Troubleshooting Common Issues with Staging Sites**](#7-troubleshooting-common-issues-with-staging-sites) (3 videos)
-  - Caching issues
-  - Error page when viewing staging site
-  - Staging redirects to live site
+  - [Caching issues](#caching-issues)
+  - [Error page when viewing staging site](#error-page-when-viewing-staging-site)
+  - [Staging redirects to live site](#staging-redirects-to-live-site)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Curtain call for WordPress: Why staging your site matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/curtain-call-for-wordpress-why-staging-your-site-matters-25337663?u=76281980)
@@ -107,15 +107,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), cms (1), web (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cms (1)
 > **Speakers:** - wordpress (1)
 
 
 ### 1. What Is a WordPress Staging Site?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a staging site
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/defining-a-staging-site?u=76281980)
@@ -146,6 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), database (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -198,8 +199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Troubleshooting]] (1), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** else. (1), switch (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** url (1)
 > **Warnings:** troubleshoot (1)
@@ -232,14 +233,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. How to Create a WordPress Staging Site with Plug-Ins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### WP Staging
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/wp-staging?u=76281980)
@@ -294,9 +295,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (1), feature (1), [[Search]] (1), database (1)
 > **Env Vars:** staging (6)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (2), delete (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (1), install (1)
 > **Cross-References:** go back to (1)
@@ -350,7 +351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), feature (1), [[Staging to Live]] (1), [[Search]] (1)
 > **Prerequisites:** you'll need (2), install (2)
 > **CLI Commands:** find (3)
 > **Env Vars:** url (1)
@@ -402,11 +403,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), database (1)
 > **UI Navigation:** go to (3), drag and drop (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Prerequisites:** install (3)
-> **Code Keywords:** interface (1), let (1)
 > **Env Vars:** url (2)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -480,10 +481,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[WordPress]] (2), database (2), [[Search]] (1), [[PHP]] (1)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (1), php (1)
-> **Code Keywords:** new. (1), public (1)
 > **File Paths:** installer.php (1)
 > **Env Vars:** url (1)
 > **Analogies:** for example (1)
@@ -492,7 +493,7 @@ created: 2026-04-29
 
 ### 3. How to Create a WordPress Staging Site with Local Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Local by Flywheel
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/local-by-flywheel?u=76281980)
@@ -541,8 +542,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[PHP]] (1), web (1), database (1)
 > **Env Vars:** create (1), site (1), php (1), admin (1)
-> **Code Keywords:** this. (2), let (1)
 > **CLI Commands:** php (1), make (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
@@ -603,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new, (1), this. (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Wordpress Development]] (1), application (1)
 > **UI Navigation:** open the (1), go to (1), select the (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
@@ -613,7 +614,7 @@ created: 2026-04-29
 
 ### 4. How to Create a Staging Site with Hosting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SiteGround
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/siteground-25333732?u=76281980)
@@ -654,9 +655,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **UI Navigation:** navigate to (1), go to (1), click on (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -693,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), match, (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -752,7 +753,7 @@ created: 2026-04-29
 
 ### 5. How to Manually Create a Staging Site
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Warnings and precautions
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/warnings-and-precautions?u=76281980)
@@ -786,7 +787,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Walk-through
@@ -926,10 +926,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[WordPress]] (5), next (5), [[Search]] (2), [[Google]] (2)
 > **CLI Commands:** find (7), make (5), mysql (1)
 > **UI Navigation:** go to (7), navigate to (2)
 > **Env Vars:** ftp (5), url (1)
-> **Code Keywords:** this. (1), new, (1), export. (1), finally, (1), import. (1)
 > **Code Identifiers:** phpmyadmin (2), cpanel (1)
 > **Prerequisites:** set up (1), you'll need (1), install (1)
 > **Cross-References:** go back to (2)
@@ -938,7 +938,7 @@ created: 2026-04-29
 
 ### 6. Using a Staging Site
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Staging site best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980)
@@ -1027,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), public (1), private (1), finally, (1), while, (1)
+> **Frameworks & Libraries:** database (4), [[WordPress]] (2), data (2), [[E-Commerce]] (1), [[Search]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Best Practices:** always make sure (1), remember to (1)
@@ -1066,8 +1066,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), switch (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1108,8 +1108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (4), database (2), [[Staging to Live]] (1), data (1), management (1)
 > **CLI Commands:** mysql (4), find (1)
-> **Code Keywords:** import, (1), export, (1)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1206,10 +1206,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (11), database (9), [[Search]] (4), [[Databases]] (2), [[HTML]] (2)
 > **CLI Commands:** make (3), find (3)
 > **Env Vars:** ftp (2), html (2), url (2)
 > **UI Navigation:** click on (1), open the (1), select the (1), navigate to (1), go to (1)
-> **Code Keywords:** public (2), let (1), export, (1), import, (1)
 > **Code Identifiers:** phpmyadmin (2), cpanel (1)
 > **Exercise Files:** download the (3)
 > **Prerequisites:** before you begin (1), install (1)
@@ -1254,15 +1254,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (1), case. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Troubleshooting Common Issues with Staging Sites
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Caching issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/caching-issues-25339675?u=76281980)
@@ -1315,7 +1315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (2)
+> **Frameworks & Libraries:** next (1), css (1), [[Google]] (1), data (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Analogies:** for example (2)
@@ -1363,9 +1363,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[WordPress]] (1)
 > **Env Vars:** cdn (4), faq (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** function (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1407,7 +1407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), next (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** go to (2)
 > **Env Vars:** ftp (1)
@@ -1416,7 +1416,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/next-steps-25334693?u=76281980)
@@ -1435,6 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **Speakers:** - great (1)
 
 

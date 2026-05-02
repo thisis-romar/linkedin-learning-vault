@@ -40,7 +40,7 @@ tags:
   - skill/cloud-security
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Security%20Architecture%20for%20the%20Enterprise.md)
@@ -59,42 +59,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Importance of cloud security architecture
-  - What you should know
+  - [Importance of cloud security architecture](#importance-of-cloud-security-architecture)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Cloud Security Architecture**](#1-introduction-to-cloud-security-architecture) (4 videos)
-  - Cloud security architecture components
-  - Shared responsibility model
-  - Cloud security frameworks
-  - Multicloud security architecture
+  - [Cloud security architecture components](#cloud-security-architecture-components)
+  - [Shared responsibility model](#shared-responsibility-model)
+  - [Cloud security frameworks](#cloud-security-frameworks)
+  - [Multicloud security architecture](#multicloud-security-architecture)
 - [**2. Identity and Access Management**](#2-identity-and-access-management) (6 videos)
-  - Cloud identity providers
-  - Control plane authorization
-  - Data plane authorization
-  - Cloud permission creep
-  - Cloud Infrastructure Entitlement Management (CIEM)
-  - Zero Trust identity architecture
+  - [Cloud identity providers](#cloud-identity-providers)
+  - [Control plane authorization](#control-plane-authorization)
+  - [Data plane authorization](#data-plane-authorization)
+  - [Cloud permission creep](#cloud-permission-creep)
+  - [Cloud Infrastructure Entitlement Management (CIEM)](#cloud-infrastructure-entitlement-management-ciem)
+  - [Zero Trust identity architecture](#zero-trust-identity-architecture)
 - [**3. Logging and Monitoring**](#3-logging-and-monitoring) (6 videos)
-  - Cloud security posture monitoring
-  - Cloud-native application protection (CNAPP)
-  - Cloud compliance monitoring
-  - Cloud-native incident management
-  - Logging and monitoring architecture
-  - Cloud drift detection
+  - [Cloud security posture monitoring](#cloud-security-posture-monitoring)
+  - [Cloud-native application protection (CNAPP)](#cloud-native-application-protection-cnapp)
+  - [Cloud compliance monitoring](#cloud-compliance-monitoring)
+  - [Cloud-native incident management](#cloud-native-incident-management)
+  - [Logging and monitoring architecture](#logging-and-monitoring-architecture)
+  - [Cloud drift detection](#cloud-drift-detection)
 - [**4. Cloud Network Security**](#4-cloud-network-security) (4 videos)
-  - IaaS network controls
-  - PaaS network controls
-  - Zero Trust cloud network security architecture
-  - Securing multicloud networks
+  - [IaaS network controls](#iaas-network-controls)
+  - [PaaS network controls](#paas-network-controls)
+  - [Zero Trust cloud network security architecture](#zero-trust-cloud-network-security-architecture)
+  - [Securing multicloud networks](#securing-multicloud-networks)
 - [**5. Communicating Across Teams**](#5-communicating-across-teams) (3 videos)
-  - Effective communication of cloud security designs
-  - Tailoring technical communication for different stakeholders
-  - Documenting architectural decisions
+  - [Effective communication of cloud security designs](#effective-communication-of-cloud-security-designs)
+  - [Tailoring technical communication for different stakeholders](#tailoring-technical-communication-for-different-stakeholders)
+  - [Documenting architectural decisions](#documenting-architectural-decisions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about cloud security architecture
+  - [Learning more about cloud security architecture](#learning-more-about-cloud-security-architecture)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of cloud security architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/importance-of-cloud-security-architecture?u=76281980)
@@ -121,7 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** cloud (8), [[Security]] (6), data (1)
 > **Speakers:** - let (1)
 
 #### What you should know
@@ -143,7 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** [[Security]] (7), cloud (7), aws (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** picture (1)
@@ -152,7 +152,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Cloud Security Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud security architecture components
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980)
@@ -237,8 +237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (25), [[Security]] (16), [[Microsoft Products|Products]] (5), [[SaaS|Software as a service]] (2), data (2)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** public (1), require (1), static (1)
 > **CLI Commands:** terraform (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -294,8 +294,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), [[Security]] (11), [[Kubernetes]] (5), business (2), teams (2)
 > **Env Vars:** csp (1), eks (1), aks (1), gke (1), api (1)
-> **Code Keywords:** public (2), require (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
@@ -346,10 +346,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), cloud (14), business (1), aws (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** cis (5), aws (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** aws (1), find (1)
-> **Code Keywords:** continue (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - to (1)
@@ -403,10 +403,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[Security]] (3), management (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Kubernetes]] (2)
 > **CLI Commands:** make (2), terraform (1)
 > **Analogies:** such as (2), just like (1)
 > **Warnings:** be careful (2)
-> **Code Keywords:** implements (1)
 > **Env Vars:** iam (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -414,7 +414,7 @@ created: 2026-04-29
 
 ### 2. Identity and Access Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud identity providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980)
@@ -469,8 +469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), [[Security]] (4), management (4), [[Active Directory]] (4), [[Microsoft Entra ID|Azure active directory]] (3)
 > **Env Vars:** idp (3), mfa (2), ldap (1), sso (1), oidc (1)
-> **Code Keywords:** require (2), public (1), let (1), finally, (1)
 > **Prerequisites:** you'll need (1), configure (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** such as (1)
@@ -531,7 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), interface (1), this, (1)
+> **Frameworks & Libraries:** cloud (12), management (3), database (3), data (2), web (1)
 > **Analogies:** such as (3), similar to (1), for example (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** aws (1)
@@ -579,7 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1), require (1)
+> **Frameworks & Libraries:** data (12), cloud (4), database (1), [[Kubernetes]] (1), [[Virtual Machines]] (1)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -641,9 +641,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), management (6), aws (4), [[Terraform]] (4), [[CLI]] (1)
 > **Env Vars:** iam (4), aws (4), cli (1)
 > **CLI Commands:** aws (4), terraform (4)
-> **Code Keywords:** let (2), delete (1)
 > **Code Identifiers:** find_unused (1)
 > **Tools:** visual studio (1)
 > **Definitions:** is an  (1)
@@ -678,6 +678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), [[Security]] (3), management (3), [[Kubernetes]] (1), [[Cloud Infrastructure]] (1)
 > **Env Vars:** ciem (9)
 > **Speakers:** - [instructor] (1)
 
@@ -760,7 +761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), case, (1), implements (1), private (1)
+> **Frameworks & Libraries:** [[Security]] (9), cloud (7), [[Network Security]] (2), application (1), [[SaaS|Software as a service]] (1)
 > **Env Vars:** casb (3), mfa (1), swg (1), sase (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -771,7 +772,7 @@ created: 2026-04-29
 
 ### 3. Logging and Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud security posture monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980)
@@ -884,7 +885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (3), case, (3), finally, (2), pass (1)
+> **Frameworks & Libraries:** [[Security]] (27), cloud (22), data (6), aws (6), management (5)
 > **Env Vars:** aws (6), cisa (1), freda (1), cspm (1), siem (1)
 > **CLI Commands:** aws (6), find (1)
 > **Definitions:** is a  (3), means that (1)
@@ -956,10 +957,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (18), [[Security]] (10), management (6), application (5), [[Virtual Machines]] (2)
 > **Env Vars:** cnapp (5), api (1), aws (1)
 > **Analogies:** such as (3), just like (1), for example (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [wiz.io](https://wiz.io) (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** install (1)
@@ -1012,9 +1013,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (14), [[Security]] (14), management (6), [[Dashboards]] (2), data (1)
 > **Definitions:** means that (1), is called (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** implements (1)
 > **Env Vars:** aws (1)
 > **Analogies:** picture (1)
 > **Warnings:** caveat (1)
@@ -1089,7 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (1), private (1)
+> **Frameworks & Libraries:** [[Security]] (11), cloud (11), management (6), data (2), [[Incident Response]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
@@ -1156,10 +1157,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[Security]] (7), data (5), management (4), application (3)
 > **Env Vars:** cspm (5), aws (1), gcp (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (2), aws (1)
-> **Code Keywords:** finally, (1), type, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Cloud drift detection
@@ -1219,9 +1220,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), [[Infrastructure as code (IaC)|Infrastructure as code]] (6), [[Security]] (5), teams (3), [[Kubernetes]] (3)
 > **Analogies:** such as (4), similar to (1)
 > **CLI Commands:** aws (2), terraform (1), find (1)
-> **Code Keywords:** implements (1), finally, (1)
 > **Env Vars:** aws (2)
 > **Tools:** github (1)
 > **Exercise Files:** template (1)
@@ -1231,7 +1232,7 @@ created: 2026-04-29
 
 ### 4. Cloud Network Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IaaS network controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980)
@@ -1300,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), default. (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** cloud (9), [[IaaS|Infrastructure as a service]] (2), management (2), teams (2), [[Application Development]] (2)
 > **Env Vars:** iam (2), osi (1), csp (1)
 > **Definitions:** means that (2), is a  (2)
 > **CLI Commands:** make (1)
@@ -1322,7 +1323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (2), [[Hardware]] (1), cloud (1)
 > **Speakers:** - [instructor] (1)
 
 #### Zero Trust cloud network security architecture
@@ -1384,7 +1385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), finally, (1), private (1), extends (1)
+> **Frameworks & Libraries:** cloud (8), [[Network Security]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[Security]] (2), [[Real-Time]] (1)
 > **Code Identifiers:** ebpf (3)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -1474,9 +1475,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), traffic (7), data (3), aws (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3)
 > **Env Vars:** aws (3), mpls (3), gcp (2), api (1), vpn (1)
 > **CLI Commands:** aws (3), make (1)
-> **Code Keywords:** let (2), private (1), pass (1)
 > **Analogies:** such as (2), for example (1)
 > **Warnings:** be careful (2)
 > **Cross-References:** go back to (1)
@@ -1486,7 +1487,7 @@ created: 2026-04-29
 
 ### 5. Communicating Across Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Effective communication of cloud security designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980)
@@ -1533,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), public (1), this, (1)
+> **Frameworks & Libraries:** cloud (4), [[Security]] (3), teams (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), management (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** vpc (2), vvc (1)
 > **Analogies:** picture (2), such as (1)
@@ -1586,9 +1587,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), management (6), teams (4), [[Security]] (3), next (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** you should always (1)
 > **Warnings:** keep in mind (1)
@@ -1651,7 +1652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), finally, (1), let (1), module (1)
+> **Frameworks & Libraries:** cloud (14), [[Security]] (6), business (1), [[Microsoft Entra ID|Entra id]] (1), management (1)
 > **Env Vars:** adr (3), idp (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -1663,7 +1664,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about cloud security architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980)
@@ -1702,8 +1703,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), cloud (11), [[LinkedIn]] (1), next (1), [[Cybersecurity]] (1)
 > **Env Vars:** samhsa (2), cisa (1), nist (1)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - congratulations (1)
 

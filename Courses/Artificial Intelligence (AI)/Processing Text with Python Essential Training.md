@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/text-mining
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Processing%20Text%20with%20Python%20Essential%20Training.md)
@@ -50,39 +50,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The need for text mining skills in data science
+  - [The need for text mining skills in data science](#the-need-for-text-mining-skills-in-data-science)
 - [**1. Text Mining**](#1-text-mining) (5 videos)
-  - Text mining today
-  - Document concepts
-  - Corpus concepts
-  - Introduction to the NLTK library
-  - Setting up the environment
+  - [Text mining today](#text-mining-today)
+  - [Document concepts](#document-concepts)
+  - [Corpus concepts](#corpus-concepts)
+  - [Introduction to the NLTK library](#introduction-to-the-nltk-library)
+  - [Setting up the environment](#setting-up-the-environment)
 - [**2. Reading Text**](#2-reading-text) (4 videos)
-  - Reading raw files
-  - Reading files with corpus reader
-  - Exploring the corpus
-  - Analyzing the corpus
+  - [Reading raw files](#reading-raw-files)
+  - [Reading files with corpus reader](#reading-files-with-corpus-reader)
+  - [Exploring the corpus](#exploring-the-corpus)
+  - [Analyzing the corpus](#analyzing-the-corpus)
 - [**3. Text Cleansing and Extraction**](#3-text-cleansing-and-extraction) (5 videos)
-  - Tokenization
-  - Cleansing text
-  - Stop word removal
-  - Stemming
-  - Lemmatization
+  - [Tokenization](#tokenization)
+  - [Cleansing text](#cleansing-text)
+  - [Stop word removal](#stop-word-removal)
+  - [Stemming](#stemming)
+  - [Lemmatization](#lemmatization)
 - [**4. Advanced Text Processing**](#4-advanced-text-processing) (4 videos)
-  - Building n-grams
-  - Tagging parts of speech
-  - Term frequency-inverse document frequency (TF-IDF)
-  - Building a TF-IDF matrix
+  - [Building n-grams](#building-n-grams)
+  - [Tagging parts of speech](#tagging-parts-of-speech)
+  - [Term frequency-inverse document frequency (TF-IDF)](#term-frequency-inverse-document-frequency-tf-idf)
+  - [Building a TF-IDF matrix](#building-a-tf-idf-matrix)
 - [**5. Best Practices**](#5-best-practices) (3 videos)
-  - Storing text
-  - Processing text data
-  - Scalable processing of text data
+  - [Storing text](#storing-text)
+  - [Processing text data](#processing-text-data)
+  - [Scalable processing of text data](#scalable-processing-of-text-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for text mining skills in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/the-need-for-text-mining-skills-in-data-science?u=76281980)
@@ -111,8 +111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), [[Analytics]] (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (2)
 > **Tools:** jupyter (2)
 > **Env Vars:** nltk (1)
 > **Versions:** python 3 (1)
@@ -122,7 +122,7 @@ created: 2026-04-29
 
 ### 1. Text Mining
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Text mining today
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/text-mining-today?u=76281980)
@@ -159,6 +159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Analytics]] (2), business (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -195,7 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** [[Text Mining]] (1), product (1), database (1), data (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -225,8 +226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Text Mining]] (2), product (2), next (1), database (1), data (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** case. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -261,6 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Analytics]] (2), data (1), [[Algorithms]] (1)
 > **Env Vars:** nltk (6)
 > **CLI Commands:** python (2)
 > **URLs:** [nltk.org](https://nltk.org) (1)
@@ -309,8 +311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** jupyter (7), anaconda (4)
-> **Code Keywords:** this, (1), default, (1), let (1), case, (1), continue (1)
 > **CLI Commands:** python (2), make (2)
 > **UI Navigation:** right-click (2), dropdown (1), go to (1)
 > **Env Vars:** userprofile (2)
@@ -321,7 +323,7 @@ created: 2026-04-29
 
 ### 2. Reading Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading raw files
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980)
@@ -360,8 +362,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3), [[Apache Spark]] (1), [[Databases]] (1)
 > **CLI Commands:** python (3), apache (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** nltk (1)
 > **Speakers:** - [instructor] (1)
 
@@ -394,11 +396,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Tokens]] (1)
 > **Env Vars:** nltk (4)
 > **Prerequisites:** install (2)
 > **File Paths:** spark-course-description.txt (1)
 > **CLI Commands:** pip (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [narrator] (1)
@@ -456,7 +458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), case. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (1), next (1), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **File Paths:** description.txt (1)
 > **CLI Commands:** make (1)
@@ -490,6 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), data (2)
 > **Env Vars:** nltk (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -497,7 +500,7 @@ created: 2026-04-29
 
 ### 3. Text Cleansing and Extraction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tokenization
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980)
@@ -530,8 +533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Microsoft Word|Word]] (1)
 > **File Paths:** spark-course-description.txt (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nltk (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
@@ -589,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), lambda (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), data (1), [[Analytics]] (1), next (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** nltk (1)
 > **Cross-References:** previous video (1)
@@ -633,7 +636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** import. (1), function (1), let (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Microsoft Word|Word]] (2), data (1), [[Analytics]] (1)
 > **Env Vars:** nltk (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -680,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Text Mining]] (1), next (1)
 > **Env Vars:** nltk (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -724,15 +727,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Text Mining]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Advanced Text Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building n-grams
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-n-grams?u=76281980)
@@ -781,7 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (1)
+> **Frameworks & Libraries:** next (2), data (1), [[Big Data]] (1)
 > **Env Vars:** nldk (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous chapter (1)
@@ -822,8 +825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1), [[Text Mining]] (1), data (1), feature (1)
 > **Env Vars:** pos (7), nltk (3), vbp (1)
-> **Code Keywords:** let (2), pass (1)
 > **Code Identifiers:** averaged_perceptron_tagger (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -891,8 +894,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), next (4), [[Algorithms]] (1)
 > **Env Vars:** idf (10)
-> **Code Keywords:** this, (2), let (1), finally, (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (3)
 > **Cross-References:** previous chapter (1), in the next (1)
@@ -948,8 +951,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (4), next (2), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** idf (8), nba (2), nltk (1)
-> **Code Keywords:** finally, (2), function (1), let (1)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** fit_transform (1)
 > **Definitions:** is a  (1)
@@ -958,7 +961,7 @@ created: 2026-04-29
 
 ### 5. Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storing text
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980)
@@ -985,6 +988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Text Mining]] (1), [[Big Data]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), database (1)
 > **Env Vars:** rdbms (2), hdfs (1), idf (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1017,6 +1021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1), product (1), [[Tokens]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** idf (1)
 > **Speakers:** - [instructor] (1)
@@ -1050,14 +1055,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** data (4), [[Big Data]] (2), parallel (2), [[MongoDB]] (1)
 > **Env Vars:** hdfs (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/next-steps?u=76281980)
@@ -1072,8 +1077,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (2), data (2), [[Big Data]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [kumaran] (1)
 
 

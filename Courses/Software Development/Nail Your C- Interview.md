@@ -30,7 +30,7 @@ tags:
   - skill/interview-preparation
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Nail%20Your%20C-%20Interview.md)
@@ -49,52 +49,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - The secret to nailing your C# interview
-  - Understand the different types of technical interviews
-  - Get ready for your technical interview
-  - How to use CoderPad
+  - [The secret to nailing your C# interview](#the-secret-to-nailing-your-c-interview)
+  - [Understand the different types of technical interviews](#understand-the-different-types-of-technical-interviews)
+  - [Get ready for your technical interview](#get-ready-for-your-technical-interview)
+  - [How to use CoderPad](#how-to-use-coderpad)
 - [**1. Answering Foundational C# and .NET Questions**](#1-answering-foundational-c-and-net-questions) (4 videos)
-  - How is C# different from other languages?
-  - What's the difference between C# and .NET?
-  - What is Common Language Runtime (CLR)?
-  - Managed vs. unmanaged code
+  - [How is C# different from other languages?](#how-is-c-different-from-other-languages)
+  - [What's the difference between C# and .NET?](#whats-the-difference-between-c-and-net)
+  - [What is Common Language Runtime (CLR)?](#what-is-common-language-runtime-clr)
+  - [Managed vs. unmanaged code](#managed-vs-unmanaged-code)
 - [**2. Answering C# Language-Specific Questions**](#2-answering-c-language-specific-questions) (5 videos)
-  - What are classes, instances, and constructors?
-  - What's the difference between static and non-static members?
-  - Boxing vs. unboxing
-  - Pass by reference vs. pass by value
-  - Readonly versus const
+  - [What are classes, instances, and constructors?](#what-are-classes-instances-and-constructors)
+  - [What's the difference between static and non-static members?](#whats-the-difference-between-static-and-non-static-members)
+  - [Boxing vs. unboxing](#boxing-vs-unboxing)
+  - [Pass by reference vs. pass by value](#pass-by-reference-vs-pass-by-value)
+  - [Readonly versus const](#readonly-versus-const)
 - [**3. Solving Technical Interview Questions: String Manipulation**](#3-solving-technical-interview-questions-string-manipulation) (7 videos)
-  - Concatenate strings with different methods
-  - Normalize string input
-  - Validate string input
-  - Access data from strings
-  - Create algorithm-driven strings in C#
-  - Solution: Developing a palindrome checker
-  - Solution: Reverse each word
+  - [Concatenate strings with different methods](#concatenate-strings-with-different-methods)
+  - [Normalize string input](#normalize-string-input)
+  - [Validate string input](#validate-string-input)
+  - [Access data from strings](#access-data-from-strings)
+  - [Create algorithm-driven strings in C#](#create-algorithm-driven-strings-in-c)
+  - [Solution: Developing a palindrome checker](#solution-developing-a-palindrome-checker)
+  - [Solution: Reverse each word](#solution-reverse-each-word)
 - [**4. Solving Technical Interview Questions: Arrays and Linked Lists**](#4-solving-technical-interview-questions-arrays-and-linked-lists) (4 videos)
-  - Review arrays for technical interviews
-  - Solution: Maximum product of two numbers
-  - Mastering linked lists for whiteboard coding interviews
-  - Solution: Delete the middle of a linked list
+  - [Review arrays for technical interviews](#review-arrays-for-technical-interviews)
+  - [Solution: Maximum product of two numbers](#solution-maximum-product-of-two-numbers)
+  - [Mastering linked lists for whiteboard coding interviews](#mastering-linked-lists-for-whiteboard-coding-interviews)
+  - [Solution: Delete the middle of a linked list](#solution-delete-the-middle-of-a-linked-list)
 - [**5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures**](#5-solving-technical-interview-questions-stacks-queues-and-hash-based-structures) (6 videos)
-  - Leverage stacks as a data structure
-  - Use queues in technical interviews
-  - Master hash-based structures
-  - Solution: Generate binary numbers
-  - Solution: Matching parentheses
-  - Solution: Find the most repeated word
+  - [Leverage stacks as a data structure](#leverage-stacks-as-a-data-structure)
+  - [Use queues in technical interviews](#use-queues-in-technical-interviews)
+  - [Master hash-based structures](#master-hash-based-structures)
+  - [Solution: Generate binary numbers](#solution-generate-binary-numbers)
+  - [Solution: Matching parentheses](#solution-matching-parentheses)
+  - [Solution: Find the most repeated word](#solution-find-the-most-repeated-word)
 - [**6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism**](#6-solving-technical-interview-questions-abstraction-encapsulation-inheritance-and-polymorphism) (4 videos)
-  - Master abstraction for technical interviews
-  - Add encapsulation to your programs to impress interviewers
-  - Leverage inheritance in your technical interview solutions
-  - Explore the polymorphism built into C#
+  - [Master abstraction for technical interviews](#master-abstraction-for-technical-interviews)
+  - [Add encapsulation to your programs to impress interviewers](#add-encapsulation-to-your-programs-to-impress-interviewers)
+  - [Leverage inheritance in your technical interview solutions](#leverage-inheritance-in-your-technical-interview-solutions)
+  - [Explore the polymorphism built into C#](#explore-the-polymorphism-built-into-c)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Good luck with your interview
+  - [Good luck with your interview](#good-luck-with-your-interview)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The secret to nailing your C# interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980)
@@ -127,6 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (3), [[Programming]] (2), hr (1), [[Algorithms]] (1), career (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - do (1)
 
@@ -165,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Software Development]] (2), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
@@ -196,7 +198,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** while. (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - for (1)
 
@@ -251,7 +252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -259,7 +260,7 @@ created: 2026-04-29
 
 ### 1. Answering Foundational C# and .NET Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How is C# different from other languages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980)
@@ -300,6 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Programming]] (2), [[Microsoft]] (2), [[Memory Management]] (2), [[Java]] (1)
 > **Env Vars:** net (2), asp (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Cross-References:** later in (1)
@@ -355,9 +357,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Microsoft]] (2), data (1)
 > **Env Vars:** net (15)
 > **Definitions:** is a  (4), refers to (2), means that (1)
-> **Code Keywords:** require (1), while . (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - many (1)
@@ -399,9 +401,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Memory Management]] (1)
 > **Env Vars:** net (4), clr (2), msil (1), cil (1), cpu (1)
 > **Exercise Files:** source code (2)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - one (1)
 
@@ -468,7 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), pass (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (4), application (1), [[Memory Management]] (1)
 > **Env Vars:** clr (2), cpu (1)
 > **Warnings:** caution (1), note that (1)
 > **Cross-References:** we discussed (1)
@@ -480,7 +482,7 @@ created: 2026-04-29
 
 ### 2. Answering C# Language-Specific Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are classes, instances, and constructors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-are-classes-instances-and-constructors?u=76281980)
@@ -535,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), class, (2), let (1), enum (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -672,7 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (22), class. (5), let (5)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** changenumsidesofdice (3), sidesofdice (1), getfacevalue (1), facevalue (1)
 > **Definitions:** is an  (4), is a  (2)
 > **CLI Commands:** make (2)
@@ -742,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), type, (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Best Practices:** bad practice (1), recommended (1)
 > **Env Vars:** clr (1)
@@ -841,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), pass (9), let (2), default, (1)
+> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** similar to (1)
@@ -935,7 +937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (9), let (6), function (2), pass (2), static (1)
+> **Frameworks & Libraries:** data (3), [[Programming]] (1)
 > **Prerequisites:** initialization (3)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** similar to (1)
@@ -944,7 +946,7 @@ created: 2026-04-29
 
 ### 3. Solving Technical Interview Questions: String Manipulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Concatenate strings with different methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/concatenate-strings-with-different-methods?u=76281980)
@@ -1001,7 +1003,6 @@ created: 2026-04-29
 >
 > **Code Identifiers:** firstname (3), lastname (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (1), class. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
@@ -1096,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), case. (2), case, (1), type. (1)
+> **Frameworks & Libraries:** data (9), [[Search]] (4), [[Forms]] (2), [[Algorithms]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -1228,7 +1229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (8), static (2), struct (1), return. (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (4), data (3), [[Algorithms]] (3)
 > **Code Identifiers:** isuppercase (2), islowercase (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -1357,7 +1358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (7), for. (3), match. (1)
+> **Frameworks & Libraries:** data (6), [[Search]] (4), [[Programming]] (1)
 > **CLI Commands:** ls (5), find (3), make (2)
 > **Code Identifiers:** isatevenindex (1)
 > **Definitions:** is an  (1)
@@ -1491,7 +1492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (5), continue (2), pass (1)
+> **Frameworks & Libraries:** data (7), [[Programming]] (2), [[Software Development]] (1), [[Engineering]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** chararray (4), tolower (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -1569,7 +1570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), case, (1), match. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1636,14 +1637,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), return, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), technical solution (1), data (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Solving Technical Interview Questions: Arrays and Linked Lists
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review arrays for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/review-arrays-for-technical-interviews?u=76281980)
@@ -1758,7 +1759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), case, (2), delete (2), case. (2)
+> **Frameworks & Libraries:** data (11), next (4), [[Programming]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** cat (1), make (1)
 > **Cross-References:** in the next (1)
@@ -1922,8 +1923,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), node (15), next (11), generic (2), game (1)
 > **CLI Commands:** node (15), make (1)
-> **Code Keywords:** let (6), class. (2), type, (1), class, (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2), such as (1)
 > **Code Identifiers:** addafter (1)
@@ -1964,7 +1965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (2), next (2)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1972,7 +1973,7 @@ created: 2026-04-29
 
 ### 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage stacks as a data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-stacks-as-a-data-structure?u=76281980)
@@ -2081,7 +2082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (1), type. (1), throw (1), this. (1)
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** removeditem (2)
@@ -2191,7 +2192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), class, (1), continue (1)
+> **Frameworks & Libraries:** data (4), next (2), generic (1)
 > **Analogies:** just like (2), similar to (1)
 > **Env Vars:** fifo (2)
 > **Definitions:** is a  (1)
@@ -2306,7 +2307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), class. (1), type, (1), type. (1)
+> **Frameworks & Libraries:** data (4), [[Algorithms]] (1), next (1), generic (1), technical solution (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **Best Practices:** the key is (1), recommended (1)
@@ -2397,7 +2398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), match. (2), type. (1), continue (1)
+> **Frameworks & Libraries:** next (2), data (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1)
@@ -2409,7 +2410,7 @@ created: 2026-04-29
 
 ### 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Master abstraction for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980)
@@ -2528,7 +2529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (22), class, (5), let (4), class. (4), this, (1)
+> **Frameworks & Libraries:** data (9), cloud (6), [[Algorithms]] (3), generic (2), database (2)
 > **Code Identifiers:** gettablename (4), putitem (3), getdbclient (1)
 > **Env Vars:** api (1)
 > **Exercise Files:** template (1)
@@ -2622,7 +2623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), class. (6), private (4), let (2), this, (1)
+> **Frameworks & Libraries:** data (22), [[Unit Testing]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** getname (1), gethouse (1)
 > **Definitions:** known as (1)
@@ -2791,7 +2792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), class, (7), class. (6), abstract (3), super (3)
+> **Frameworks & Libraries:** hit (2), [[Algorithms]] (1), generic (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -2859,7 +2860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), class, (3), function (1), let (1), class. (1)
+> **Frameworks & Libraries:** data (4), [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Documentation:** specification (1)
@@ -2870,7 +2871,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Good luck with your interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980)
@@ -2893,6 +2894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (1), data (1), [[Programming]] (1)
 > **Speakers:** - congratulations (1)
 
 

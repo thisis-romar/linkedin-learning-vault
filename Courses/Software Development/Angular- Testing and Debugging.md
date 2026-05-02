@@ -34,7 +34,7 @@ tags:
   - skill/debugging-code
   - skill/angular
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Angular-%20Testing%20and%20Debugging.md)
@@ -53,64 +53,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Angular: Testing and debugging
-  - What you should know
-  - Exercise files
+  - [Angular: Testing and debugging](#angular-testing-and-debugging)
+  - [What you should know](#what-you-should-know)
+  - [Exercise files](#exercise-files)
 - [**1. Getting Started**](#1-getting-started) (3 videos)
-  - Application overview
-  - Installing project dependencies
-  - Installing Angular CLI
+  - [Application overview](#application-overview)
+  - [Installing project dependencies](#installing-project-dependencies)
+  - [Installing Angular CLI](#installing-angular-cli)
 - [**2. How Angular Reports Errors**](#2-how-angular-reports-errors) (6 videos)
-  - Error handling in Angular
-  - Understanding zones in Angular apps
-  - Angular without ZoneJS (Zoneless)
-  - Add a new file using Angular CLI
-  - Writing a custom error handler class
-  - Changes for Angular v16
+  - [Error handling in Angular](#error-handling-in-angular)
+  - [Understanding zones in Angular apps](#understanding-zones-in-angular-apps)
+  - [Angular without ZoneJS (Zoneless)](#angular-without-zonejs-zoneless)
+  - [Add a new file using Angular CLI](#add-a-new-file-using-angular-cli)
+  - [Writing a custom error handler class](#writing-a-custom-error-handler-class)
+  - [Changes for Angular v16](#changes-for-angular-v16)
 - [**3. Common Syntax Errors**](#3-common-syntax-errors) (10 videos)
-  - Adding a local storage service
-  - Fixing dependency injection errors
-  - Getting and setting data in local storage
-  - Adding a custom Angular pipe
-  - Using regular expressions to find content
-  - Using a pipe to change HTML content
-  - Common pipe errors
-  - Understanding Angular decorators
-  - Challenge: Filter the array of users by locationId
-  - Solution: Filter the array of users by locationId
+  - [Adding a local storage service](#adding-a-local-storage-service)
+  - [Fixing dependency injection errors](#fixing-dependency-injection-errors)
+  - [Getting and setting data in local storage](#getting-and-setting-data-in-local-storage)
+  - [Adding a custom Angular pipe](#adding-a-custom-angular-pipe)
+  - [Using regular expressions to find content](#using-regular-expressions-to-find-content)
+  - [Using a pipe to change HTML content](#using-a-pipe-to-change-html-content)
+  - [Common pipe errors](#common-pipe-errors)
+  - [Understanding Angular decorators](#understanding-angular-decorators)
+  - [Challenge: Filter the array of users by locationId](#challenge-filter-the-array-of-users-by-locationid)
+  - [Solution: Filter the array of users by locationId](#solution-filter-the-array-of-users-by-locationid)
 - [**4. Common Async Errors**](#4-common-async-errors) (4 videos)
-  - Getting data using REST requests
-  - Updating data using REST requests
-  - Working with observables
-  - Catching errors from an observable
+  - [Getting data using REST requests](#getting-data-using-rest-requests)
+  - [Updating data using REST requests](#updating-data-using-rest-requests)
+  - [Working with observables](#working-with-observables)
+  - [Catching errors from an observable](#catching-errors-from-an-observable)
 - [**5. Unit Testing in Angular**](#5-unit-testing-in-angular) (8 videos)
-  - Testing overview
-  - Basic Karma configuration
-  - Testing services
-  - Fixing injection dependency errors
-  - Testing pipes
-  - Testing components
-  - Challenge: Custom test bed wrapper
-  - Solution: Custom test bed wrapper
+  - [Testing overview](#testing-overview)
+  - [Basic Karma configuration](#basic-karma-configuration)
+  - [Testing services](#testing-services)
+  - [Fixing injection dependency errors](#fixing-injection-dependency-errors)
+  - [Testing pipes](#testing-pipes)
+  - [Testing components](#testing-components)
+  - [Challenge: Custom test bed wrapper](#challenge-custom-test-bed-wrapper)
+  - [Solution: Custom test bed wrapper](#solution-custom-test-bed-wrapper)
 - [**6. End-to-End Testing in Angular**](#6-end-to-end-testing-in-angular) (6 videos)
-  - Basic Protractor configuration
-  - End-to-end testing without page objects
-  - End-to-end testing with page objects
-  - Changes for Angular v12
-  - Challenge: Testing filter input
-  - Solution: Testing filter input
+  - [Basic Protractor configuration](#basic-protractor-configuration)
+  - [End-to-end testing without page objects](#end-to-end-testing-without-page-objects)
+  - [End-to-end testing with page objects](#end-to-end-testing-with-page-objects)
+  - [Changes for Angular v12](#changes-for-angular-v12)
+  - [Challenge: Testing filter input](#challenge-testing-filter-input)
+  - [Solution: Testing filter input](#solution-testing-filter-input)
 - [**7. Static Code Linting in Angular**](#7-static-code-linting-in-angular) (5 videos)
-  - Installing and running ESLint
-  - Basic ESLint configuration
-  - Fixing lint errors
-  - Installing EditorConfig
-  - Basic EditorConfig configuration
+  - [Installing and running ESLint](#installing-and-running-eslint)
+  - [Basic ESLint configuration](#basic-eslint-configuration)
+  - [Fixing lint errors](#fixing-lint-errors)
+  - [Installing EditorConfig](#installing-editorconfig)
+  - [Basic EditorConfig configuration](#basic-editorconfig-configuration)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Angular: Testing and debugging
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980)
@@ -135,7 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[Debugging]] (3), [[Google]] (1), [[Debugging Code]] (1), web (1)
 > **Versions:** version 1 (1)
 > **Tools:** command line (1)
 > **Warnings:** common error (1)
@@ -186,13 +186,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (6), [[npm]] (3), node (3), web (2), [[Windows]] (1)
 > **CLI Commands:** npm (3), node (3), make (1)
 > **Tools:** vs code (2), command line (1), visual studio (1)
 > **Versions:** version 14 (1), 15.5 (1), version 1 (1)
 > **Exercise Files:** source code (1), download the (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), make sure you have (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** lts (1)
 
 #### Exercise files
@@ -228,6 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (2), [[GitHub]] (1), [[Angular]] (1)
 > **Exercise Files:** clone the repo (2), zip file (2), exercise files (1), download the (1)
 > **Env Vars:** npm (2), url (1)
 > **CLI Commands:** npm (2)
@@ -235,12 +236,11 @@ created: 2026-04-29
 > **Documentation:** the readme (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
-> **Speakers:** - [tutor] (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980)
@@ -327,7 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), let (2), for, (1), pass (1), class. (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[Search]] (5), data (4), [[HTML]] (3), dom (3)
 > **Env Vars:** html (3), dom (3), api (2)
 > **Exercise Files:** template (6)
 > **Definitions:** is a  (4)
@@ -415,10 +415,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (12), hit (2), [[Angular]] (1), [[JSON]] (1), [[GitHub]] (1)
 > **CLI Commands:** npm (12), make (2)
 > **Tools:** terminal (4), vs code (2), visual studio (1), github (1)
 > **Prerequisites:** install (7)
-> **Code Keywords:** let (3)
 > **Versions:** version 6 (1), 14.11 (1)
 > **Exercise Files:** exercise files (2)
 > **File Paths:** package.json (1)
@@ -463,19 +463,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (5), [[Angular]] (4), [[Angular CLI]] (4), hit (2), [[CLI]] (1)
 > **Env Vars:** cli (4), npm (4)
 > **CLI Commands:** npm (5)
 > **Prerequisites:** install (5)
 > **Tools:** terminal (2), visual studio (1)
 > **Versions:** version 11 (1), 0.7 (1)
 > **Definitions:** is a  (1), is called (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** earlier in (1)
 
 
 ### 2. How Angular Reports Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Error handling in Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/error-handling-in-angular?u=76281980)
@@ -502,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), class. (1), module (1), class, (1)
+> **Frameworks & Libraries:** [[Angular]] (5), data (2), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -557,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), pass (1)
+> **Frameworks & Libraries:** [[Angular]] (3), business (1), [[Application Development]] (1), application (1)
 > **File Paths:** zone.js (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -583,11 +583,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (5), api (2), [[Debugging]] (1), feature (1)
 > **Env Vars:** api (2)
 > **Versions:** version 18 (1), version 2 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [trainer] (1)
 
 #### Add a new file using Angular CLI
@@ -633,7 +633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), case. (1), case, (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[Metadata]] (3), [[Angular CLI]] (2), hit (2), next (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** cli (2)
@@ -803,7 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (5), module (4), pass (2), implements (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[npm]] (5), [[Metadata]] (3), [[Angular CLI]] (2), hit (2)
 > **CLI Commands:** make (9), npm (5), find (1)
 > **UI Navigation:** click on (4), go to (2), scroll down (2), in the sidebar (1)
 > **Tools:** terminal (5), vs code (3)
@@ -827,12 +827,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (4)
 > **Analogies:** just like (1)
 
 
 ### 3. Common Syntax Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding a local storage service
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980)
@@ -927,7 +928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2), public (2), case. (1), case, (1)
+> **Frameworks & Libraries:** data (13), [[Angular]] (3), web (3), [[Angular CLI]] (2), hit (2)
 > **Env Vars:** cli (4), vsa (1), npm (1)
 > **CLI Commands:** make (3), npm (1), find (1)
 > **UI Navigation:** go to (2), click on (2)
@@ -1013,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (3), delete (2), from . (1), class. (1)
+> **Frameworks & Libraries:** web (10), [[Angular]] (3), [[Angular CLI]] (2), [[Dependency Injection]] (1), hit (1)
 > **Tools:** visual studio (5), vs code (3), terminal (1)
 > **UI Navigation:** click on (2), go to (1), open the (1)
 > **CLI Commands:** find (2), make (1)
@@ -1111,7 +1112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (2), private (1), const (1), return. (1)
+> **Frameworks & Libraries:** web (7), [[JSON]] (4), next (1), application (1), data (1)
 > **UI Navigation:** go to (2), click on (2), scroll down (1), navigate to (1)
 > **Env Vars:** json (4), dav (1)
 > **CLI Commands:** make (3), find (1)
@@ -1276,7 +1277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (3), case. (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[Angular CLI]] (3), feature (2), data (1), hit (1)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** find (3), make (1)
@@ -1398,7 +1399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (2), case. (2), else. (1), type . (1)
+> **Frameworks & Libraries:** [[Search]] (16), next (2), [[HTML]] (2), [[Angular CLI]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** html (2), cli (1)
 > **Definitions:** stands for (2), is a  (1)
@@ -1520,8 +1521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (12), [[HTML]] (11), css (10), [[Search]] (7), [[Security]] (4)
 > **Env Vars:** html (11), css (10), haro (1)
-> **Code Keywords:** function (4), let (4), this, (2), pass (2), delete (2)
 > **Exercise Files:** template (7)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** click on (2)
@@ -1574,8 +1575,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (6), data (3), [[Angular CLI]] (2), [[JavaScript]] (1)
 > **Warnings:** be aware (2), pitfall (1)
-> **Code Keywords:** module (1), default. (1)
 > **Env Vars:** cli (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -1623,6 +1624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (8), [[Metadata]] (1), [[Dependency Injection]] (1), dom (1), [[Angular CLI]] (1)
 > **Env Vars:** dom (1), cli (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
@@ -1689,7 +1691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), this. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** html (1)
 > **Exercise Files:** template (1)
@@ -1700,7 +1702,7 @@ created: 2026-04-29
 
 ### 4. Common Async Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting data using REST requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980)
@@ -1853,8 +1855,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Angular]] (7), web (5), [[Representational State Transfer (REST)|Rest]] (4), next (4)
 > **Env Vars:** http (17), url (11), rest (4), put (3), mock_api_filter (2)
-> **Code Keywords:** pass (5), let (4), private (2), self (2), public (1)
 > **Code Identifiers:** getremote (3), getfilter (3), setfilter (1)
 > **CLI Commands:** make (5)
 > **API Endpoints:** put  (2), /api/filter (1)
@@ -1919,8 +1921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (2), generic (2), web (1), next (1)
 > **Env Vars:** http (4), url (4), put (2), html (1), rest (1)
-> **Code Keywords:** finally, (2), public (1), this, (1), case, (1)
 > **API Endpoints:** get  (3), put  (2)
 > **Code Identifiers:** setremote (2), getremote (1)
 > **Analogies:** just like (3)
@@ -2083,7 +2085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (13), let (8), pass (6), async (6), await (4)
+> **Frameworks & Libraries:** [[Angular]] (9), web (5), [[HTML]] (4), data (2), [[JavaScript]] (1)
 > **Env Vars:** http (10), html (4), npm (1), api (1)
 > **Exercise Files:** template (6)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
@@ -2135,7 +2137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), delete (1)
+> **Frameworks & Libraries:** web (3), [[Git]] (2), api (2), generic (2), data (1)
 > **Env Vars:** url (3)
 > **CLI Commands:** git (2)
 > **Code Identifiers:** ngoniniterror (2)
@@ -2147,7 +2149,7 @@ created: 2026-04-29
 
 ### 5. Unit Testing in Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980)
@@ -2194,8 +2196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Angular]] (3), data (1), [[Unit Testing]] (1), [[CLI]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** function (2), interface (1)
 > **Env Vars:** cli (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
@@ -2298,8 +2300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (5), [[HTML]] (4), [[npm]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), ci (1)
 > **Code Identifiers:** basepath (1), jasminehtmlreporter (1), coveragereporter (1), loglevel (1), autowatch (1)
-> **Code Keywords:** case. (1), default. (1), pass (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** karma.conf.js (1), test.ts (1)
 > **Env Vars:** html (1), cli (1)
@@ -2458,7 +2460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (5), pass (5), class. (2), delete (2)
+> **Frameworks & Libraries:** [[Angular]] (5), [[Angular CLI]] (2), [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
 > **CLI Commands:** make (6), npm (2)
 > **Code Identifiers:** tobe (3), getall (2), beforeeach (1)
 > **Definitions:** is a  (6)
@@ -2598,8 +2600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (12), [[Angular]] (4), [[npm]] (3), hit (2), next (1)
 > **Env Vars:** http (11), npm (3)
-> **Code Keywords:** module (3), pass (3), this, (1), static (1), case, (1)
 > **CLI Commands:** make (8), npm (3)
 > **Documentation:** spec (7)
 > **Prerequisites:** configure (5)
@@ -2724,7 +2726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (3), function (2), static (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[Angular CLI]] (1), [[Angular]] (1), data (1), [[npm]] (1)
 > **Env Vars:** foo (6), bar (3), foobar (2), cli (1)
 > **CLI Commands:** make (2), npm (1)
 > **Code Identifiers:** tobe (3)
@@ -2882,7 +2884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (5), this. (4), await (3), delete (2)
+> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (2), [[JavaScript]] (2), [[Angular CLI]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** createcomponent (3), queryselector (3), beforeeach (2), nativeelement (2), tobe (2)
 > **CLI Commands:** make (10), find (1), npm (1)
 > **Definitions:** is a  (6)
@@ -2908,6 +2910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (2), web (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
@@ -2961,7 +2964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), implements (1), this, (1), module (1), class, (1)
+> **Frameworks & Libraries:** [[Angular]] (3), next (1), data (1), [[npm]] (1), hit (1)
 > **Code Identifiers:** configuretestingmodule (2), compilecomponents (2), createcomponent (2), beforeeach (1)
 > **CLI Commands:** make (1), npm (1)
 > **Documentation:** spec (1)
@@ -2973,7 +2976,7 @@ created: 2026-04-29
 
 ### 6. End-to-End Testing in Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic Protractor configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980)
@@ -3062,7 +3065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), export. (1), async (1), await (1), pass (1)
+> **Frameworks & Libraries:** [[Angular]] (8), [[End-to-end Testing]] (1), dom (1), [[CLI]] (1), [[GitHub]] (1)
 > **Env Vars:** dom (1), cli (1), url (1)
 > **Tools:** github (1), firefox (1), terminal (1)
 > **Prerequisites:** configure (1), you'll need (1), setup (1)
@@ -3268,7 +3271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (8), pass (5), async (4), await (4)
+> **Frameworks & Libraries:** css (5), dom (4), [[HTML]] (3), [[Angular]] (2), next (2)
 > **CLI Commands:** make (8), find (3), npm (2)
 > **Env Vars:** dom (4), html (3), css (2), cli (1)
 > **Code Identifiers:** beforeeach (2), gettext (2), tobe (2)
@@ -3388,7 +3391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (4), function (3), public (2), async (2)
+> **Frameworks & Libraries:** css (3), dom (2), [[Angular]] (2), next (2), [[Angular CLI]] (1)
 > **CLI Commands:** make (10)
 > **Env Vars:** css (3), dom (2), e2e (2), cli (1), url (1)
 > **UI Navigation:** go to (2), navigate to (1), in the sidebar (1), click on (1)
@@ -3420,8 +3423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (7), [[End-to-end Testing]] (2)
 > **Versions:** version 12 (1), version 16 (1)
-> **Code Keywords:** continue (1)
 > **Tools:** command line (1)
 
 #### Challenge: Testing filter input
@@ -3441,6 +3444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Search]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -3496,7 +3500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), function (1), async (1), await (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (4), dom (2), css (1), next (1), [[npm]] (1)
 > **CLI Commands:** make (1), npm (1)
 > **Env Vars:** css (1)
 > **Documentation:** spec (1)
@@ -3508,7 +3512,7 @@ created: 2026-04-29
 
 ### 7. Static Code Linting in Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing and running ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980)
@@ -3637,8 +3641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (10), [[npm]] (4), hit (4), [[JavaScript]] (4), [[Angular]] (3)
 > **CLI Commands:** npm (4), make (1), npx (1), find (1)
-> **Code Keywords:** static (2), let (2), require (1), delete (1)
 > **File Paths:** eslintrc.js (1), app.component.ts (1), source/app/app.component.ts (1)
 > **Env Vars:** cli (1), yaml (1), json (1)
 > **Tools:** command line (2), terminal (1)
@@ -3745,7 +3749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), extends (1), from. (1), import, (1), type, (1)
+> **Frameworks & Libraries:** [[ESLint]] (8), [[npm]] (4), [[JavaScript]] (3), hit (3), node (2)
 > **CLI Commands:** npm (4), node (2), make (1), npx (1)
 > **Env Vars:** npm (4), env (1), jsx (1), npx (1)
 > **Tools:** terminal (5)
@@ -3855,7 +3859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), case, (1), delete (1), this, (1)
+> **Frameworks & Libraries:** [[ESLint]] (15), hit (1), next (1), [[Angular]] (1), [[Search]] (1)
 > **UI Navigation:** click on (4), open the (1), go to (1)
 > **Tools:** terminal (2), command line (1), visual studio (1), vs code (1)
 > **Prerequisites:** install (4)
@@ -3915,7 +3919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), for. (1)
+> **Frameworks & Libraries:** [[Programming]] (1), [[Version Control]] (1), [[Angular]] (1), [[Search]] (1), next (1)
 > **Tools:** terminal (1), visual studio (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** find (1)
@@ -3995,7 +3999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (3), let (1), type , (1), default. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Angular]] (1), [[CLI]] (1)
 > **Env Vars:** jsx (2), cli (1), utf8 (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1), earlier in (1)
@@ -4005,7 +4009,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/next-steps?u=76281980)
@@ -4032,6 +4036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (6), [[Debugging]] (1), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - we (1)
 

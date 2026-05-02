@@ -35,7 +35,7 @@ tags:
   - skill/large-language-models-llm
   - skill/fine-tuning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Fine-Tuning%20for%20LLMs-%20from%20Beginner%20to%20Advanced.md)
@@ -54,53 +54,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Beginning to fine-tune your LLMs
-  - Getting the most out of this course
-  - Version check
+  - [Beginning to fine-tune your LLMs](#beginning-to-fine-tune-your-llms)
+  - [Getting the most out of this course](#getting-the-most-out-of-this-course)
+  - [Version check](#version-check)
 - [**1. Introduction to Large Language Models (LLMs)**](#1-introduction-to-large-language-models-llms) (6 videos)
-  - LLMs: Revolutionizing AI
-  - The architecture of LLMs
-  - Applications of LLMs
-  - Ethical considerations in LLMs
-  - Comparing LLMs
-  - FLAN-T5 in focus
+  - [LLMs: Revolutionizing AI](#llms-revolutionizing-ai)
+  - [The architecture of LLMs](#the-architecture-of-llms)
+  - [Applications of LLMs](#applications-of-llms)
+  - [Ethical considerations in LLMs](#ethical-considerations-in-llms)
+  - [Comparing LLMs](#comparing-llms)
+  - [FLAN-T5 in focus](#flan-t5-in-focus)
 - [**2. Utilizing LLMs with Prompt Engineering**](#2-utilizing-llms-with-prompt-engineering) (7 videos)
-  - Basics of prompt engineering
-  - Crafting effective prompts
-  - Prompt engineering with FLAN-T5
-  - Demo: Prompt engineering with FLAN-T5
-  - Demo: Using ICL and Patterns while prompting
-  - Case studies in prompt engineering
-  - Solution: Designing a translation prompt
+  - [Basics of prompt engineering](#basics-of-prompt-engineering)
+  - [Crafting effective prompts](#crafting-effective-prompts)
+  - [Prompt engineering with FLAN-T5](#prompt-engineering-with-flan-t5)
+  - [Demo: Prompt engineering with FLAN-T5](#demo-prompt-engineering-with-flan-t5)
+  - [Demo: Using ICL and Patterns while prompting](#demo-using-icl-and-patterns-while-prompting)
+  - [Case studies in prompt engineering](#case-studies-in-prompt-engineering)
+  - [Solution: Designing a translation prompt](#solution-designing-a-translation-prompt)
 - [**3. Transfer Learning for NLP Tasks**](#3-transfer-learning-for-nlp-tasks) (6 videos)
-  - Transfer learning in LLMs
-  - Choosing models for transfer learning
-  - Demo: Transfer learning with FLAN-T5
-  - Evaluating transfer learning outcomes
-  - Demo: Evaluating translations
-  - Solution: Enhancing translation with transfer learning
+  - [Transfer learning in LLMs](#transfer-learning-in-llms)
+  - [Choosing models for transfer learning](#choosing-models-for-transfer-learning)
+  - [Demo: Transfer learning with FLAN-T5](#demo-transfer-learning-with-flan-t5)
+  - [Evaluating transfer learning outcomes](#evaluating-transfer-learning-outcomes)
+  - [Demo: Evaluating translations](#demo-evaluating-translations)
+  - [Solution: Enhancing translation with transfer learning](#solution-enhancing-translation-with-transfer-learning)
 - [**4. PEFT Fine-Tuning with LoRA**](#4-peft-fine-tuning-with-lora) (7 videos)
-  - Introduction to PEFT
-  - LoRA adapters
-  - LoRA in depth: Technical analysis
-  - Demo: LoRA fine-tuning on FLAN-T5
-  - Implementing LoRA in LLMs
-  - Demo: Challenges in LoRA
-  - Solution: Fine-tuning FLAN-T5 for translation
+  - [Introduction to PEFT](#introduction-to-peft)
+  - [LoRA adapters](#lora-adapters)
+  - [LoRA in depth: Technical analysis](#lora-in-depth-technical-analysis)
+  - [Demo: LoRA fine-tuning on FLAN-T5](#demo-lora-fine-tuning-on-flan-t5)
+  - [Implementing LoRA in LLMs](#implementing-lora-in-llms)
+  - [Demo: Challenges in LoRA](#demo-challenges-in-lora)
+  - [Solution: Fine-tuning FLAN-T5 for translation](#solution-fine-tuning-flan-t5-for-translation)
 - [**5. Project: Creating a Full NLP Solution**](#5-project-creating-a-full-nlp-solution) (4 videos)
-  - Solution: Fine-tuning the sentiment analysis model
-  - Solution: Fine-tuning the Q&A model
-  - Solution: Fine-tuning the summarization model
-  - Demo: Integrating everything into our solution
+  - [Solution: Fine-tuning the sentiment analysis model](#solution-fine-tuning-the-sentiment-analysis-model)
+  - [Solution: Fine-tuning the Q&A model](#solution-fine-tuning-the-qa-model)
+  - [Solution: Fine-tuning the summarization model](#solution-fine-tuning-the-summarization-model)
+  - [Demo: Integrating everything into our solution](#demo-integrating-everything-into-our-solution)
 - [**Conclusion**](#conclusion) (4 videos)
-  - Course recap and key takeaways
-  - Advanced topics and future trends in LLMs
-  - Leveraging LLMs for future projects
-  - Continuous learning in the field of LLMs
+  - [Course recap and key takeaways](#course-recap-and-key-takeaways)
+  - [Advanced topics and future trends in LLMs](#advanced-topics-and-future-trends-in-llms)
+  - [Leveraging LLMs for future projects](#leveraging-llms-for-future-projects)
+  - [Continuous learning in the field of LLMs](#continuous-learning-in-the-field-of-llms)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beginning to fine-tune your LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980)
@@ -121,8 +121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Fine Tuning]] (2), [[Prompt Engineering]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - llms (1)
 
 #### Getting the most out of this course
@@ -158,8 +158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Python (Programming Language)|Python]] (2), nlp (2), ai (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** nlp (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -192,15 +192,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[TensorFlow]] (2), [[Google]] (1)
 > **Versions:** 1.0 (3), 2.15 (2), 2.0 (2), python 3 (1), 10.12 (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Introduction to Large Language Models (LLMs)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LLMs: Revolutionizing AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980)
@@ -247,9 +247,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[Customer Support]] (1), data (1)
 > **Env Vars:** llms (4), llm (1)
 > **Analogies:** imagine (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - today (1)
 
@@ -306,7 +306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (2)
+> **Frameworks & Libraries:** data (3), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1), parallel (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** imagine (1), picture (1), for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -350,7 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), case, (1)
+> **Frameworks & Libraries:** data (3), management (1), ai (1), [[Software Development]] (1), llm (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - so (1)
@@ -402,7 +402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), continue (1), let (1)
+> **Frameworks & Libraries:** data (4), ai (1), llm (1), [[Building Trust]] (1), [[Accountability]] (1)
 > **Analogies:** think of it as (1), for instance (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
@@ -483,9 +483,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), data (3), next (3), [[Microsoft Word|Word]] (2), [[Prompt Engineering]] (2)
 > **Env Vars:** llm (4), bert (3), gpt (3), ram (1)
 > **Analogies:** such as (2), it's like (1), for example (1), imagine (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -539,8 +539,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (2), data (2), prompt (1), strengths (1), next (1)
 > **Env Vars:** flan (12), nlp (2)
-> **Code Keywords:** let (2), finally, (1), continue (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - now (1)
@@ -548,7 +548,7 @@ created: 2026-04-29
 
 ### 2. Utilizing LLMs with Prompt Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980)
@@ -597,7 +597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), this, (1)
+> **Frameworks & Libraries:** prompt (4), [[Prompt Engineering]] (3), [[Large Language Models (LLM)|Large language models]] (1), ai (1), llm (1)
 > **Analogies:** imagine (1), think of it as (1), it's like (1)
 > **Env Vars:** llm (1)
 > **Prerequisites:** setup (1)
@@ -664,8 +664,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (10), llm (6), ai (2), [[Prompt Engineering]] (2), next (1)
 > **Env Vars:** llm (6)
-> **Code Keywords:** let (2), type, (1), for. (1), finally, (1)
 > **Analogies:** for example (3), for instance (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -765,7 +765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), case, (3), finally, (2), from. (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[TensorFlow]] (4), [[Tokens]] (3), prompt (3), [[PyTorch]] (2)
 > **Env Vars:** flan (9)
 > **Code Identifiers:** early_stopping (2), return_tensors (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -948,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), case, (2), pass (2), super (1)
+> **Frameworks & Libraries:** llm (6), prompt (6), [[Google]] (4), [[TensorFlow]] (4), next (3)
 > **Env Vars:** llm (6), gpu (4), url (1), ram (1)
 > **Definitions:** is a  (5), means that (2)
 > **Tools:** colab (3), jupyter (1)
@@ -1064,7 +1064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), pass (1), this. (1)
+> **Frameworks & Libraries:** prompt (3), [[TensorFlow]] (1), llm (1), power (1)
 > **Env Vars:** gpu (2), llm (1), gpt4 (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** for example (2)
@@ -1136,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** ai (9), prompt (5), [[Prompt Engineering]] (3), [[Google]] (2), generic (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ibm (1)
@@ -1263,7 +1263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), super (3), finally, (1)
+> **Frameworks & Libraries:** prompt (4), cnn (3), ai (1), [[Hugging Face]] (1)
 > **Env Vars:** gpu (4), cnn (3), flan (1), ram (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (2), pip (1)
@@ -1275,7 +1275,7 @@ created: 2026-04-29
 
 ### 3. Transfer Learning for NLP Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transfer learning in LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980)
@@ -1326,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), new, (1)
+> **Frameworks & Libraries:** data (4), ai (2), [[Large Language Models (LLM)|Large language models]] (1), [[Representational State Transfer (REST)|Rest]] (1), management (1)
 > **Analogies:** imagine (2), similar to (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** lms (1)
@@ -1419,8 +1419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), product (2)
 > **Env Vars:** vgg (6), bert (5)
-> **Code Keywords:** let (3), finally, (1), case, (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), such as (1), picture (1)
 > **Code Identifiers:** base_model (3)
@@ -1590,7 +1590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (4), pass (3), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (9), [[TensorFlow]] (4), [[Microsoft Word|Word]] (3), nlp (1), next (1)
 > **Definitions:** is a  (7), means that (3)
 > **Env Vars:** gpu (5), ram (2), nlp (1)
 > **CLI Commands:** pip (2), make (2)
@@ -1682,10 +1682,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (1), ai (1)
 > **Env Vars:** rouge (17), bleu (15)
 > **CLI Commands:** cat (7)
 > **Analogies:** such as (2), similar to (2), analogous to (1), imagine (1), for example (1)
-> **Code Keywords:** let (4), case, (1), pass (1)
 > **Definitions:** stands for (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1797,8 +1797,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (2), [[TensorFlow]] (1), generic (1), [[Tokens]] (1)
 > **Env Vars:** rouge (12), bleu (8), gpu (3), nltk (1)
-> **Code Keywords:** function (4), let (3), pass (2), super (2), case, (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** pip (1)
 > **Versions:** 0.4 (1)
@@ -1908,7 +1908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (4), new, (1), while. (1), for. (1)
+> **Frameworks & Libraries:** ai (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpu (2), pip (1), wmt16 (1)
 > **Code Identifiers:** max_length (1), return_tensors (1)
 > **CLI Commands:** pip (1)
@@ -1920,7 +1920,7 @@ created: 2026-04-29
 
 ### 4. PEFT Fine-Tuning with LoRA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to PEFT
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980)
@@ -1989,9 +1989,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Prompt Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1), power (1), ai (1)
 > **Env Vars:** peft (10)
 > **Analogies:** similar to (2), imagine (1), it's like (1), for instance (1)
-> **Code Keywords:** require (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
@@ -2092,7 +2092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), require (1)
+> **Frameworks & Libraries:** data (4), [[Fine Tuning]] (2), [[Linear Algebra]] (1)
 > **Env Vars:** peft (2), a100 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1), means that (1)
@@ -2174,9 +2174,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (1), [[Performance Metrics]] (1)
 > **Analogies:** it's like (2), similar to (2), imagine (1), just like (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2421,7 +2421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (4), this, (3), this. (3), finally, (3)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[TensorFlow]] (2), [[PyTorch]] (1), prompt (1), parallel (1)
 > **Env Vars:** gpu (9), ram (3), tft5 (2), peft (1), wmt16 (1)
 > **Definitions:** means that (3), is a  (2), is an  (2), we call this (1)
 > **Analogies:** for example (4)
@@ -2515,7 +2515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), class, (1), finally, (1), lambda (1)
+> **Frameworks & Libraries:** data (4), [[TensorFlow]] (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** python (1), make (1)
 > **Code Identifiers:** from_pretrained (2)
 > **Env Vars:** bert (1), wmt16 (1)
@@ -2631,7 +2631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), super (1), continue (1)
+> **Frameworks & Libraries:** data (3), [[TensorFlow]] (1)
 > **Env Vars:** gpu (3), pip (1), ram (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** pip (1)
@@ -2801,8 +2801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** bleu (6), gpu (2), wmt16 (2), eta (1), ram (1)
-> **Code Keywords:** super (3), let (2), interface (1), case. (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (2), pip (1)
 > **Versions:** 0.11 (1), 0.3 (1), 0.4 (1)
@@ -2813,7 +2813,7 @@ created: 2026-04-29
 
 ### 5. Project: Creating a Full NLP Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Fine-tuning the sentiment analysis model
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980)
@@ -2986,7 +2986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), let (4), super (3), break. (1), pass (1)
+> **Frameworks & Libraries:** chatbot (4), [[TensorFlow]] (3), nlp (1), [[Tokens]] (1)
 > **Env Vars:** gpu (4), sst2 (2), nlp (1), ram (1)
 > **Code Identifiers:** max_length (2), return_tensors (2), sparse_categorical_accuracy (1), save_pretrained (1)
 > **Definitions:** is a  (3), means that (2)
@@ -3184,7 +3184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), case, (3), function (2), super (2)
+> **Frameworks & Libraries:** data (4), chatbot (3), next (2), prompt (2), application (1)
 > **Code Identifiers:** rouge_scorer (3), decoder_input_ids (2), input_ids (1), save_pretrained (1), reference_text (1)
 > **Definitions:** means that (5), is a  (3)
 > **CLI Commands:** pip (2), python (1)
@@ -3310,8 +3310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cnn (3), data (3), chatbot (2), [[Fine Tuning]] (1), [[TensorFlow]] (1)
 > **Env Vars:** bleu (6), cnn (3), gpu (2)
-> **Code Keywords:** let (2), case, (2), pass (1), super (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** pip (1), make (1)
 > **Versions:** 0.03 (1)
@@ -3499,7 +3499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (5), this, (2), interface (2), pass (1)
+> **Frameworks & Libraries:** chatbot (17), prompt (2), llm (2), data (1), generic (1)
 > **Code Identifiers:** sentiment_model (3), qa_model (1), my_model_directory (1), summarization_model (1), generated_text (1)
 > **Env Vars:** gpu (2), gpt (2), llm (2), ss2 (1), listen (1)
 > **CLI Commands:** make (3), pip (1), grep (1)
@@ -3511,7 +3511,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course recap and key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/course-recap-and-key-takeaways?u=76281980)
@@ -3556,7 +3556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), strengths (1)
 > **Env Vars:** bert (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3600,7 +3600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** ai (5), nlp (1), [[Privacy]] (1), data (1)
 > **Env Vars:** nlp (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
@@ -3646,8 +3646,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Newsletters]] (1), [[Real-Time]] (1)
 > **Tools:** discord (1), slack (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** arxiv (1)
 > **Env Vars:** nlp (1)
 > **Documentation:** stack overflow (1)
@@ -3681,8 +3681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), llm (2), [[Large Language Models (LLM)|Large language models]] (1), chatbot (1), cloud (1)
 > **Env Vars:** llm (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - as (1)
 

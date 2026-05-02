@@ -29,7 +29,7 @@ tags:
   - skill/cloud-computing
   - skill/quantum-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Quantum%20Computing%20Essentials.md)
@@ -48,45 +48,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Creating solutions with cloud quantum computing
-  - Using cloud services
-  - What you should know
+  - [Creating solutions with cloud quantum computing](#creating-solutions-with-cloud-quantum-computing)
+  - [Using cloud services](#using-cloud-services)
+  - [What you should know](#what-you-should-know)
 - [**1. Cloud Quantum Computing Services Overview**](#1-cloud-quantum-computing-services-overview) (4 videos)
-  - Why use cloud quantum computing services
-  - Understand key quantum computing concepts
-  - How to start using cloud quantum computing services
-  - Preview applications using QPUs today
+  - [Why use cloud quantum computing services](#why-use-cloud-quantum-computing-services)
+  - [Understand key quantum computing concepts](#understand-key-quantum-computing-concepts)
+  - [How to start using cloud quantum computing services](#how-to-start-using-cloud-quantum-computing-services)
+  - [Preview applications using QPUs today](#preview-applications-using-qpus-today)
 - [**2. Cloud Quantum Vendors**](#2-cloud-quantum-vendors) (6 videos)
-  - Cloud quantum computing vendor choices
-  - Quantum learning libraries
-  - Explore IBM OpenQASM and Qiskit
-  - Explore Google Cirq
-  - Explore Azure Q#
-  - Explore AWS Braket
+  - [Cloud quantum computing vendor choices](#cloud-quantum-computing-vendor-choices)
+  - [Quantum learning libraries](#quantum-learning-libraries)
+  - [Explore IBM OpenQASM and Qiskit](#explore-ibm-openqasm-and-qiskit)
+  - [Explore Google Cirq](#explore-google-cirq)
+  - [Explore Azure Q#](#explore-azure-q)
+  - [Explore AWS Braket](#explore-aws-braket)
 - [**3. Core Quantum Computing Gates and Operations**](#3-core-quantum-computing-gates-and-operations) (6 videos)
-  - Quantum NOT gate
-  - Quantum superposition with Hadamard (H) gate
-  - Quantum entanglement with CNOT gate
-  - Quantum amplitude amplification (AA)
-  - Quantum Fourier transform (QFT)
-  - Quantum phase estimation (PE)
+  - [Quantum NOT gate](#quantum-not-gate)
+  - [Quantum superposition with Hadamard (H) gate](#quantum-superposition-with-hadamard-h-gate)
+  - [Quantum entanglement with CNOT gate](#quantum-entanglement-with-cnot-gate)
+  - [Quantum amplitude amplification (AA)](#quantum-amplitude-amplification-aa)
+  - [Quantum Fourier transform (QFT)](#quantum-fourier-transform-qft)
+  - [Quantum phase estimation (PE)](#quantum-phase-estimation-pe)
 - [**4. Quantum Algorithms and Applications**](#4-quantum-algorithms-and-applications) (4 videos)
-  - Quantum random number generator
-  - Qubit gate operations detailed for cQASM
-  - Cloud quantum Shor's algorithm: Part 1
-  - Cloud quantum Shor's algorithm: Part 2
+  - [Quantum random number generator](#quantum-random-number-generator)
+  - [Qubit gate operations detailed for cQASM](#qubit-gate-operations-detailed-for-cqasm)
+  - [Cloud quantum Shor's algorithm: Part 1](#cloud-quantum-shors-algorithm-part-1)
+  - [Cloud quantum Shor's algorithm: Part 2](#cloud-quantum-shors-algorithm-part-2)
 - [**5. Quantum Machine Learning**](#5-quantum-machine-learning) (5 videos)
-  - Cloud quantum computing machine learning basics
-  - Explore quantum ML methods: Classification
-  - Cloud quantum neural networks: Hello worlds
-  - Cloud quantum neural networks: MNIST
-  - Review applied cloud quantum computing ML
+  - [Cloud quantum computing machine learning basics](#cloud-quantum-computing-machine-learning-basics)
+  - [Explore quantum ML methods: Classification](#explore-quantum-ml-methods-classification)
+  - [Cloud quantum neural networks: Hello worlds](#cloud-quantum-neural-networks-hello-worlds)
+  - [Cloud quantum neural networks: MNIST](#cloud-quantum-neural-networks-mnist)
+  - [Review applied cloud quantum computing ML](#review-applied-cloud-quantum-computing-ml)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about cloud quantum computing
+  - [Learning more about cloud quantum computing](#learning-more-about-cloud-quantum-computing)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating solutions with cloud quantum computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/creating-solutions-with-cloud-quantum-computing?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** cloud (6), [[Programming]] (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [lynn] (1)
 
@@ -138,7 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** cloud (5), [[Microsoft Azure|Azure]] (2), [[Programming]] (1), [[Google]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** ibm (1), mfa (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -192,8 +192,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (7), cloud (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Azure]] (1), oop (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** this. (1), abstract (1)
 > **Env Vars:** oop (1), ibm (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** prerequisite (1)
@@ -202,7 +202,7 @@ created: 2026-04-29
 
 ### 1. Cloud Quantum Computing Services Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use cloud quantum computing services
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/why-use-cloud-quantum-computing-services?u=76281980)
@@ -271,10 +271,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (6), [[Programming]] (2), cloud (1), application (1), data (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** covid (2)
-> **Code Keywords:** super (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
@@ -358,8 +358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Quantum Computing]] (1), [[Algorithms]] (1), cloud (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** this, (2), let (1)
 > **Env Vars:** ascii (1), ibm (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** such as (1)
@@ -448,10 +448,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Programming]] (5), [[Hardware]] (3), generic (1), [[Quantum Computing]] (1)
 > **Env Vars:** qpu (2), ibm (2), ide (1), gcp (1)
 > **Definitions:** is a  (6)
 > **Analogies:** such as (3), think of it like (1), similar to (1), for example (1)
-> **Code Keywords:** public (2), this. (1), super (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
@@ -516,9 +516,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (3), business (2), [[Routing]] (2), [[TensorFlow]] (1), [[Neural Networks]] (1)
 > **Analogies:** for example (5), such as (1)
 > **Env Vars:** qpu (2), gpu (1), tpu (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous video (1)
@@ -527,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Cloud Quantum Vendors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud quantum computing vendor choices
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980)
@@ -604,12 +604,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), aws (6), [[Hardware]] (4), [[Python (Programming Language)|Python]] (4), [[Microsoft]] (3)
 > **Env Vars:** aws (6), ibm (5), gcp (1), ide (1)
 > **CLI Commands:** aws (6), python (4)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3), such as (1)
 > **Tools:** github (1), aws console (1)
-> **Code Keywords:** from. (1)
 > **Cross-References:** previous video (1)
 > **Exercise Files:** github repo (1)
 
@@ -708,8 +708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[JavaScript]] (3), [[GitHub]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), hit (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** let (1), super (1)
 > **Tools:** github (2)
 > **Analogies:** for example (1), think of it as (1)
 > **CLI Commands:** find (1)
@@ -819,11 +819,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), [[Quantum Computing]] (2), [[GitHub]] (1)
 > **Env Vars:** ibm (7), ide (1)
 > **CLI Commands:** composer (5), python (2)
 > **Tools:** jupyter (4), github (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** public (1), interface (1), this. (1), default. (1)
 > **Prerequisites:** set up (3), install (1)
 > **Analogies:** for example (2), just like (1)
 > **UI Navigation:** click on (2)
@@ -891,9 +891,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (8), [[Programming]] (3), cloud (2), next (1), ai (1)
 > **UI Navigation:** go to (3), scroll down (2)
 > **Tools:** colab (2), jupyter (1), github (1)
-> **Code Keywords:** case, (1), this, (1), let (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** source code (1), download the (1)
 > **CLI Commands:** make (1)
@@ -969,9 +969,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft]] (5), [[Google]] (2), [[Hardware]] (1), cloud (1)
 > **Env Vars:** ibm (2), cnot (1), sdk (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** this, (2), this. (1)
 > **Prerequisites:** set up (1), getting started (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
@@ -1046,7 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), delete (2)
+> **Frameworks & Libraries:** aws (1), [[Hardware]] (1), [[Security]] (1), next (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Env Vars:** aws (1), url (1), ibm (1)
 > **Analogies:** for example (2), such as (1)
@@ -1058,7 +1058,7 @@ created: 2026-04-29
 
 ### 3. Core Quantum Computing Gates and Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Quantum NOT gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980)
@@ -1161,7 +1161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), this, (2), public (1), case, (1), let (1)
+> **Frameworks & Libraries:** cloud (4), [[Programming]] (2), [[Debugging]] (2), [[Probability]] (2), [[JavaScript]] (1)
 > **Env Vars:** ibm (3), ide (1), qasm (1)
 > **Definitions:** is a  (3), is an  (1), in other words (1)
 > **CLI Commands:** python (1), composer (1)
@@ -1235,7 +1235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), super (1), this. (1), case. (1)
+> **Frameworks & Libraries:** next (2), [[GitHub]] (1), cloud (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (2), composer (2)
 > **Env Vars:** ibm (2), qasm (1)
@@ -1339,10 +1339,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** it's like (1), similar to (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ibm (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -1415,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** [[Programming]] (3), cloud (1), business (1), [[GitHub]] (1)
 > **Env Vars:** ibm (1), qpu (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1571,8 +1571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), application (1), business (1), [[Programming]] (1), [[Orchestration]] (1)
 > **Env Vars:** qft (9), ibm (1), qpu (1)
-> **Code Keywords:** pass (2), function (1), let (1), this. (1), this, (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** it's like (1), just like (1)
@@ -1621,15 +1621,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Env Vars:** qft (4), qpu (3)
-> **Code Keywords:** super (2)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Quantum Algorithms and Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Quantum random number generator
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-random-number-generator?u=76281980)
@@ -1720,7 +1720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), super (1), case. (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** cnot (2)
 > **Prerequisites:** set up (1), getting started (1)
 > **CLI Commands:** find (1)
@@ -1806,11 +1806,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Programming]] (1), [[GitHub]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** url (1), ibm (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Code Identifiers:** cqasm (1)
 > **Cross-References:** previous video (1)
 > **Tools:** github (1)
@@ -1904,7 +1904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (2), let (1), this. (1), public (1)
+> **Frameworks & Libraries:** [[Programming]] (5), next (4), [[Hardware]] (2), [[Microsoft Word|Word]] (1), [[Algorithms]] (1)
 > **Env Vars:** ibm (4), qft (2), url (1), rsa (1), qpu (1)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** in the next (3)
@@ -2067,9 +2067,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Hardware]] (2), [[Programming]] (2), next (1), product (1)
 > **CLI Commands:** find (4), python (2), composer (1), make (1)
 > **Env Vars:** qft (3), ibm (2), qpu (1), cpu (1)
-> **Code Keywords:** this, (3), function (1), case, (1)
 > **Definitions:** is a  (3), known as (1)
 > **Cross-References:** go back to (1), we covered (1), previous video (1)
 > **Documentation:** the documentation (1)
@@ -2079,7 +2079,7 @@ created: 2026-04-29
 
 ### 5. Quantum Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud quantum computing machine learning basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980)
@@ -2196,9 +2196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (7), [[Neural Networks]] (5), [[Hardware]] (4), cloud (3), [[TensorFlow]] (3)
 > **Env Vars:** qml (4), ibm (2), gpu (2), qpu (2), covid (1)
 > **Definitions:** is a  (6), is an  (1)
-> **Code Keywords:** public (2), this. (1), case, (1), this, (1)
 > **Analogies:** for example (2), similar to (2), such as (1)
 > **Cross-References:** in the last (1)
 > **Tools:** github (1)
@@ -2304,9 +2304,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Algorithms]] (2), [[Neural Networks]] (1)
 > **Env Vars:** qml (6), ram (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** this, (2)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** cat (1)
 > **Warnings:** caveat (1)
@@ -2449,7 +2449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), this, (1), module (1), interface (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (8), [[Google]] (5), data (3), [[Programming]] (1), [[Neural Networks]] (1)
 > **Env Vars:** nisp (1), ibm (1), cnot (1)
 > **Prerequisites:** install (2), setup (1)
 > **Definitions:** is a  (2)
@@ -2516,11 +2516,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Google]] (4), [[Neural Networks]] (4), [[TensorFlow]] (4), cnn (3)
 > **Env Vars:** mnist (4), qnn (4), cnn (3), ibm (1), aws (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** make (1), aws (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review applied cloud quantum computing ML
@@ -2610,10 +2610,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cnn (4), [[Programming]] (2), data (2), [[GitHub]] (1), [[Quantum Computing]] (1)
 > **Env Vars:** cnn (4), qcnn (4), ibm (3), nest (1), qsam (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** composer (1)
-> **Code Keywords:** continue (1)
 > **Tools:** github (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -2622,7 +2622,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about cloud quantum computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980)
@@ -2687,7 +2687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), implements (1), abstract (1), let (1)
+> **Frameworks & Libraries:** cloud (4), [[Programming]] (4), [[Google]] (2), [[GitHub]] (2), [[Algorithms]] (1)
 > **Env Vars:** ibm (2), cnot (1), qft (1)
 > **Tools:** github (2), jupyter (1)
 > **Definitions:** is a  (3)

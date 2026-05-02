@@ -29,7 +29,7 @@ tags:
   - skill/sql-injection
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20SQL%20Injection.md)
@@ -48,38 +48,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Understanding how SQL injections work
-  - What you should know
-  - Disclaimer
+  - [Understanding how SQL injections work](#understanding-how-sql-injections-work)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. SQL Basics**](#1-sql-basics) (4 videos)
-  - Starting with SQL
-  - Creating a MySQL database
-  - Using SQL
-  - Finding the SQL password
+  - [Starting with SQL](#starting-with-sql)
+  - [Creating a MySQL database](#creating-a-mysql-database)
+  - [Using SQL](#using-sql)
+  - [Finding the SQL password](#finding-the-sql-password)
 - [**2. Testing for SQL Injections**](#2-testing-for-sql-injections) (6 videos)
-  - Checking out the Security Shepherd
-  - Injecting Mutillidae
-  - Deep diving the target with SQLi
-  - Cracking the MySQL hash
-  - Injecting Microsoft SQL Server
-  - Injecting Oracle SQL Server
+  - [Checking out the Security Shepherd](#checking-out-the-security-shepherd)
+  - [Injecting Mutillidae](#injecting-mutillidae)
+  - [Deep diving the target with SQLi](#deep-diving-the-target-with-sqli)
+  - [Cracking the MySQL hash](#cracking-the-mysql-hash)
+  - [Injecting Microsoft SQL Server](#injecting-microsoft-sql-server)
+  - [Injecting Oracle SQL Server](#injecting-oracle-sql-server)
 - [**3. Automating SQL Injection Exploits**](#3-automating-sql-injection-exploits) (10 videos)
-  - Inferring TRUE when blind
-  - Using prepared SQL queries
-  - Getting our first sqlmap injection
-  - Sanitizing input to SQL
-  - Inserting an SQL injection via Burp Suite
-  - Following up with a second injection
-  - Defeating the WAF
-  - Navigating a complex injection
-  - Using request messages to inject SQL
-  - Checking out SQLI Labs
+  - [Inferring TRUE when blind](#inferring-true-when-blind)
+  - [Using prepared SQL queries](#using-prepared-sql-queries)
+  - [Getting our first sqlmap injection](#getting-our-first-sqlmap-injection)
+  - [Sanitizing input to SQL](#sanitizing-input-to-sql)
+  - [Inserting an SQL injection via Burp Suite](#inserting-an-sql-injection-via-burp-suite)
+  - [Following up with a second injection](#following-up-with-a-second-injection)
+  - [Defeating the WAF](#defeating-the-waf)
+  - [Navigating a complex injection](#navigating-a-complex-injection)
+  - [Using request messages to inject SQL](#using-request-messages-to-inject-sql)
+  - [Checking out SQLI Labs](#checking-out-sqli-labs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding how SQL injections work
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980)
@@ -100,8 +100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), cloud (1), [[SaaS|Software as a service]] (1), web (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (6)
-> **Code Keywords:** let (1)
 > **Speakers:** - with (1)
 
 #### What you should know
@@ -127,6 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Kali Linux]] (1), [[Security]] (1), [[Penetration Testing]] (1), [[Windows]] (1)
 > **Env Vars:** http (1), sql (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -159,13 +160,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Kali Linux]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. SQL Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980)
@@ -250,8 +251,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (8), database (6), [[SQL]] (5), data (4), [[Relational Databases]] (3)
 > **Env Vars:** sql (5), isam (2), inodb (2), sys (2), cobol (1)
-> **Code Keywords:** let (8), from, (2)
 > **CLI Commands:** mysql (8)
 > **Speakers:** - [instructor] (1), - u (1)
 > **Definitions:** is a  (1)
@@ -328,9 +329,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[SQL]] (3), data (3), power (2), next (1)
 > **Env Vars:** int (5), sql (3)
 > **Definitions:** is an  (5), is a  (3)
-> **Code Keywords:** let (4), case. (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - let (1)
@@ -428,7 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (2)
+> **Frameworks & Libraries:** [[SQL]] (4), database (2), [[Windows]] (1)
 > **Env Vars:** sql (4)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** ls (1)
@@ -473,8 +474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (1)
 > **File Paths:** rockyou.txt (3), names.txt (2), catnames.txt (1)
-> **Code Keywords:** let (3), case, (1)
 > **Env Vars:** sql (4)
 > **Ports:** port 3306 (3)
 > **Versions:** 127.0.0 (3)
@@ -484,7 +485,7 @@ created: 2026-04-29
 
 ### 2. Testing for SQL Injections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Checking out the Security Shepherd
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980)
@@ -597,7 +598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), module (2), switch (1), continue (1), try. (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Security]] (3), [[Burp Suite]] (2), [[NoSQL]] (2), [[OWASP]] (1)
 > **Env Vars:** sql (4), owasp (1), url (1)
 > **CLI Commands:** mongo (2), find (1)
 > **UI Navigation:** select the (2), go to (1)
@@ -789,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), case, (3), var (1), this. (1), this, (1)
+> **Frameworks & Libraries:** database (12), [[MySQL]] (5), [[Databases]] (2), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** mysql (5), find (2), sudo (1)
 > **Env Vars:** sql (2), dvwa (2), owasp (1), md5 (1)
 > **Code Identifiers:** information_schema (3)
@@ -846,9 +847,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (6), data (3), web (2)
 > **CLI Commands:** php (6), cat (2)
 > **Env Vars:** php (6)
-> **Code Keywords:** let (3), function (1)
 > **Ports:** port 2 (1)
 > **Tools:** bash (1)
 > **Analogies:** for example (1)
@@ -919,9 +920,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), database (1)
 > **Env Vars:** sql (6), nsm (1)
 > **CLI Commands:** cat (3), find (2)
-> **Code Keywords:** let (3), this. (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
@@ -1040,8 +1041,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (5), express (5), database (5), [[Databases]] (5)
 > **Env Vars:** sql (12), sqlcmd (1), mssql (1), dmos (1)
-> **Code Keywords:** let (7), default, (2), this. (1), case, (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (2), configure (2)
 > **UI Navigation:** go to (1), dropdown (1)
@@ -1123,8 +1124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[SQL]] (4), [[Databases]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** sql (5), sys (3), des (1), sha (1), concat (1)
-> **Code Keywords:** let (4), this, (2), function (1)
 > **Code Identifiers:** table_name (2), con_name (1), all_tables (1), user_tables (1), password_versions (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** mysql (1)
@@ -1135,7 +1136,7 @@ created: 2026-04-29
 
 ### 3. Automating SQL Injection Exploits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inferring TRUE when blind
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980)
@@ -1194,7 +1195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), continue (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[MySQL]] (3), next (2), data (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** mysql (3), sudo (1)
 > **Analogies:** such as (2)
@@ -1252,7 +1253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Python (Programming Language)|Python]] (2), database (1)
 > **CLI Commands:** python (2), python3 (2), find (1), make (1)
 > **File Paths:** sql1.py (2), safesql1.py (2)
 > **Env Vars:** sql (4)
@@ -1346,7 +1347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (1), switch (1)
+> **Frameworks & Libraries:** [[SQL]] (9), data (4), web (3), [[MySQL]] (2), database (2)
 > **Env Vars:** sql (9), ssl (1), php (1)
 > **CLI Commands:** mysql (2), php (2), ssh (1), apache (1), sudo (1)
 > **Ports:** port 22 (1), port 80 (1), port 443 (1)
@@ -1418,7 +1419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), this. (1), case, (1)
+> **Frameworks & Libraries:** [[SQL]] (6), database (3), [[MySQL]] (2)
 > **Env Vars:** sql (6)
 > **CLI Commands:** python3 (2), mysql (2), make (1)
 > **File Paths:** sql2.py (2), safesql2.py (2)
@@ -1447,7 +1448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (1), [[SQL]] (1)
 > **UI Navigation:** right-click (1), go to (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** go back to (1)
@@ -1560,7 +1561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Databases]] (2), [[LinkedIn]] (1), [[Burp Suite]] (1), web (1)
 > **Env Vars:** sql (8), rab (1), php (1)
 > **File Paths:** b.c (1), 42968.txt (1), complain.txt (1), complaint.txt (1), user/share/wordlists/rockyou.txt (1)
 > **CLI Commands:** find (4), php (1)
@@ -1648,8 +1649,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (7), [[MySQL]] (4), [[SQL]] (4), [[HTML]] (2), [[Databases]] (1)
 > **Env Vars:** php (7), sql (4), html (2), sqlmap (1), var (1)
-> **Code Keywords:** let (10), switch (2), var (1)
 > **CLI Commands:** php (7), mysql (4)
 > **Code Identifiers:** information_schema (1), performance_schema (1), phpmyadmin (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1784,8 +1785,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), cms (4), [[SQL]] (4), data (2), [[PHP]] (1)
 > **URLs:** [b.com](https://b.com) (19)
-> **Code Keywords:** let (11), super (3), this, (2), case. (1), function (1)
 > **File Paths:** b.c (13), cmsdata/login.php (1)
 > **CLI Commands:** find (7), php (1)
 > **Env Vars:** cms (4), sql (4)
@@ -1906,7 +1907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), try. (2), this. (1), pass (1), for, (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Word|Word]] (1), [[PHP]] (1), [[Burp Suite]] (1), [[Databases]] (1)
 > **CLI Commands:** find (4), php (1), make (1)
 > **Env Vars:** sql (3), dbs (2), user (1)
 > **Non-Speech:** (computer mouse clicking) (5)
@@ -2022,9 +2023,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), [[MySQL]] (3), [[Git]] (2), database (2), [[PHP]] (1)
 > **CLI Commands:** sudo (4), mysql (3), git (2), php (1), mv (1)
 > **Env Vars:** sql (5), sqli (3), php (1), null (1)
-> **Code Keywords:** let (8), var (1)
 > **Prerequisites:** set up (4), install (2)
 > **Definitions:** known as (1), is a  (1)
 > **URLs:** [https://github.com/skyblueee/sqli-labs-php7.git](https://github.com/skyblueee/sqli-labs-php7.git) (1)
@@ -2034,7 +2035,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980)
@@ -2069,6 +2070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (4), [[SQL]] (2), web (2), [[Android]] (2)
 > **CLI Commands:** find (3)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (1), is a  (1)

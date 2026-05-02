@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20GitHub%20Copilot-%20Creating%20Reliable%20Code%20Ethically.md)
@@ -56,21 +56,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - GenAI and creating code responsibly
+  - [GenAI and creating code responsibly](#genai-and-creating-code-responsibly)
 - [**1. Using GitHub Copilot Responsibly**](#1-using-github-copilot-responsibly) (7 videos)
-  - Controlling the Skies: Your role as a Copilot
-  - Keeping things current: Data freshness
-  - Unravelling the bias: Model prejudices
-  - Crafting excellence: Development best practices
-  - Trust but verify: Validate everything
-  - Bulletproof your code: Unit and regression testing
-  - Guarding your gates: Security testing essentials
+  - [Controlling the Skies: Your role as a Copilot](#controlling-the-skies-your-role-as-a-copilot)
+  - [Keeping things current: Data freshness](#keeping-things-current-data-freshness)
+  - [Unravelling the bias: Model prejudices](#unravelling-the-bias-model-prejudices)
+  - [Crafting excellence: Development best practices](#crafting-excellence-development-best-practices)
+  - [Trust but verify: Validate everything](#trust-but-verify-validate-everything)
+  - [Bulletproof your code: Unit and regression testing](#bulletproof-your-code-unit-and-regression-testing)
+  - [Guarding your gates: Security testing essentials](#guarding-your-gates-security-testing-essentials)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI and creating code responsibly
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980)
@@ -93,6 +93,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (4), [[Responsible AI]] (2), [[Generative AI]] (2), [[Microsoft Copilot|Copilot]] (2), data (1)
 > **Tools:** github (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - welcome (1)
@@ -100,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Using GitHub Copilot Responsibly
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Controlling the Skies: Your role as a Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980)
@@ -173,8 +174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[GitHub Copilot]] (8), data (3), [[Large Language Models (LLM)|Large language models]] (2), [[GitHub]] (1)
 > **Tools:** github (9)
-> **Code Keywords:** for. (3), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
@@ -235,12 +236,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (3), data (2), [[ChatGPT]] (2), next (2), [[Search]] (2)
 > **Tools:** github (4)
 > **Code Identifiers:** chatgpt (2)
 > **Definitions:** means that (1), known as (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** node (1)
-> **Code Keywords:** static (1)
 > **Versions:** version 3 (1)
 > **Speakers:** - one (1)
 
@@ -293,9 +294,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Copilot|Copilot]] (3), [[Large Language Models (LLM)|Large language models]] (2), prompt (2), [[GitHub Copilot]] (2)
 > **Analogies:** for example (4)
 > **Tools:** github (3)
-> **Code Keywords:** let (1), super (1)
 > **Definitions:** means that (1), is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - all (1)
@@ -355,6 +356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[GitHub Copilot]] (3), next (2), [[Generative AI]] (1), [[DevOps]] (1)
 > **Tools:** github (3)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** cd (1)
@@ -396,7 +398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), data (2), prompt (2), [[Microsoft Word|Word]] (1), [[GitHub Copilot]] (1)
 > **Tools:** github (1)
 > **Speakers:** - we (1)
 
@@ -459,8 +461,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), business (2), api (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
 > **Analogies:** for example (3), just like (1)
-> **Code Keywords:** case, (1), throw (1), let (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** api (2)
 > **Prerequisites:** set up (1)
@@ -511,8 +513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Microsoft Copilot|Copilot]] (7), [[GitHub Copilot]] (3), application (2), [[Unit Testing]] (1)
 > **Tools:** github (4)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** api (1), obo (1)
 > **Warnings:** warning (1), keep in mind (1)
 > **CLI Commands:** make (1)
@@ -523,7 +525,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980)
@@ -560,6 +562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (4), [[Generative AI]] (2), [[Responsible AI]] (1), data (1), [[Unit Testing]] (1)
 > **Tools:** github (4)
 > **Cross-References:** we talked about (2)
 > **Analogies:** for example (1), just like (1)

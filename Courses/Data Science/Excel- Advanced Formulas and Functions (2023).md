@@ -34,7 +34,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Advanced%20Formulas%20and%20Functions%20(2023).md)
@@ -53,81 +53,81 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learning advanced formulas and functions using Excel
-  - Developing your own style with formulas and functions
-  - Challenges
+  - [Learning advanced formulas and functions using Excel](#learning-advanced-formulas-and-functions-using-excel)
+  - [Developing your own style with formulas and functions](#developing-your-own-style-with-formulas-and-functions)
+  - [Challenges](#challenges)
 - [**1. Using Tables and Dynamic Arrays for Data Integrity and Consistency**](#1-using-tables-and-dynamic-arrays-for-data-integrity-and-consistency) (3 videos)
-  - Tables
-  - Tables and absolute cell references
-  - Dynamic arrays introduction
+  - [Tables](#tables)
+  - [Tables and absolute cell references](#tables-and-absolute-cell-references)
+  - [Dynamic arrays introduction](#dynamic-arrays-introduction)
 - [**2. The World of IF Statements and Conditions**](#2-the-world-of-if-statements-and-conditions) (3 videos)
-  - IF function
-  - SUMIFS and COUNTIFS
-  - MAXIFS, MINIFS, and AVERAGEIFS
+  - [IF function](#if-function)
+  - [SUMIFS and COUNTIFS](#sumifs-and-countifs)
+  - [MAXIFS, MINIFS, and AVERAGEIFS](#maxifs-minifs-and-averageifs)
 - [**3. Looking Up, Down, and All Around: Comparing and Combining with Lookups**](#3-looking-up-down-and-all-around-comparing-and-combining-with-lookups) (8 videos)
-  - VLOOKUP
-  - XLOOKUP
-  - VLOOKUP and XLOOKUP comparison
-  - INDEX/MATCH
-  - The INDEX/MATCH vs. VLOOKUP controversy
-  - Two-way lookups
-  - Approximate and tiered matches
-  - INDIRECT
+  - [VLOOKUP](#vlookup)
+  - [XLOOKUP](#xlookup)
+  - [VLOOKUP and XLOOKUP comparison](#vlookup-and-xlookup-comparison)
+  - [INDEX/MATCH](#indexmatch)
+  - [The INDEX/MATCH vs. VLOOKUP controversy](#the-indexmatch-vs-vlookup-controversy)
+  - [Two-way lookups](#two-way-lookups)
+  - [Approximate and tiered matches](#approximate-and-tiered-matches)
+  - [INDIRECT](#indirect)
 - [**4. Formula Tips and Strategies**](#4-formula-tips-and-strategies) (10 videos)
-  - Use Alt+Enter to make formulas more readable
-  - Formula vs. lookup table
-  - Formula vs. helper columns
-  - Build complex formulas in steps
-  - Writing formulas for "future you"
-  - Compatibility functions
-  - Writing 3D formulas
-  - Volatile functions
-  - LET function overview
-  - Error handling: IFNA and IFERROR
+  - [Use Alt+Enter to make formulas more readable](#use-altenter-to-make-formulas-more-readable)
+  - [Formula vs. lookup table](#formula-vs-lookup-table)
+  - [Formula vs. helper columns](#formula-vs-helper-columns)
+  - [Build complex formulas in steps](#build-complex-formulas-in-steps)
+  - [Writing formulas for "future you"](#writing-formulas-for-future-you)
+  - [Compatibility functions](#compatibility-functions)
+  - [Writing 3D formulas](#writing-3d-formulas)
+  - [Volatile functions](#volatile-functions)
+  - [LET function overview](#let-function-overview)
+  - [Error handling: IFNA and IFERROR](#error-handling-ifna-and-iferror)
 - [**5. Mid-Term Challenges**](#5-mid-term-challenges) (3 videos)
-  - Challenge 1: Course completions
-  - Challenge 2: Two-way lookup
-  - Challenge 3: Guitars
+  - [Challenge 1: Course completions](#challenge-1-course-completions)
+  - [Challenge 2: Two-way lookup](#challenge-2-two-way-lookup)
+  - [Challenge 3: Guitars](#challenge-3-guitars)
 - [**6. Date and Time Functions**](#6-date-and-time-functions) (3 videos)
-  - Time, rounding, and converting to decimals
-  - EOMONTH
-  - YEARFRAC
+  - [Time, rounding, and converting to decimals](#time-rounding-and-converting-to-decimals)
+  - [EOMONTH](#eomonth)
+  - [YEARFRAC](#yearfrac)
 - [**7. Working with Text and Arrays**](#7-working-with-text-and-arrays) (8 videos)
-  - LEFT, RIGHT, and MID
-  - UPPER, LOWER, and PROPER
-  - TEXTJOIN
-  - FILTER
-  - UNIQUE
-  - TOCOL
-  - TEXTBEFORE and TEXTAFTER
-  - RANDARRY
+  - [LEFT, RIGHT, and MID](#left-right-and-mid)
+  - [UPPER, LOWER, and PROPER](#upper-lower-and-proper)
+  - [TEXTJOIN](#textjoin)
+  - [FILTER](#filter)
+  - [UNIQUE](#unique)
+  - [TOCOL](#tocol)
+  - [TEXTBEFORE and TEXTAFTER](#textbefore-and-textafter)
+  - [RANDARRY](#randarry)
 - [**8. Statistical Functions**](#8-statistical-functions) (4 videos)
-  - LARGE and SMALL
-  - MEDIAN and MODE
-  - FACT
-  - COMBIN COMBINA
+  - [LARGE and SMALL](#large-and-small)
+  - [MEDIAN and MODE](#median-and-mode)
+  - [FACT](#fact)
+  - [COMBIN COMBINA](#combin-combina)
 - [**9. Math Functions**](#9-math-functions) (3 videos)
-  - Rounding
-  - MROUND, CEILING, and FLOOR
-  - MOD
+  - [Rounding](#rounding)
+  - [MROUND, CEILING, and FLOOR](#mround-ceiling-and-floor)
+  - [MOD](#mod)
 - [**10. Wild Cards**](#10-wild-cards) (2 videos)
-  - Wildcards
-  - XLOOKUP with wildcards
+  - [Wildcards](#wildcards)
+  - [XLOOKUP with wildcards](#xlookup-with-wildcards)
 - [**11. New, Handy, and Fun Functions**](#11-new-handy-and-fun-functions) (3 videos)
-  - ROMAN and ARABIC
-  - IMAGE
-  - CHAR and CODE
+  - [ROMAN and ARABIC](#roman-and-arabic)
+  - [IMAGE](#image)
+  - [CHAR and CODE](#char-and-code)
 - [**12. Final Challenges**](#12-final-challenges) (4 videos)
-  - Challenge 1: Towers
-  - Challenge 2: Donations
-  - Challenge 3: Assignment
-  - Challenge 4: Course order
+  - [Challenge 1: Towers](#challenge-1-towers)
+  - [Challenge 2: Donations](#challenge-2-donations)
+  - [Challenge 3: Assignment](#challenge-3-assignment)
+  - [Challenge 4: Course order](#challenge-4-course-order)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Take your Excel skills to the next level
+  - [Take your Excel skills to the next level](#take-your-excel-skills-to-the-next-level)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning advanced formulas and functions using Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/learning-advanced-formulas-and-functions-using-excel?u=76281980)
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Speakers:** - so (1)
 > **Non-Speech:** (chill jazzy music) (1)
 
@@ -204,7 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - okay (1)
 
@@ -241,6 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - say (1)
@@ -248,7 +250,7 @@ created: 2026-04-29
 
 ### 1. Using Tables and Dynamic Arrays for Data Integrity and Consistency
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980)
@@ -445,7 +447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), if, (2)
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (2), [[Troubleshooting]] (1), next (1)
 > **Versions:** 144.91 (1), 161.41 (1), 3.20 (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** toggle (1)
@@ -600,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), case, (1)
+> **Frameworks & Libraries:** data (4), [[Search]] (1)
 > **UI Navigation:** open the (2), go to (1)
 > **Env Vars:** xlookup (2)
 > **Versions:** 105.7 (1), 5.7 (1)
@@ -756,7 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1), data (1), [[Microsoft]] (1), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** tocol (1), choosecols (1), wraprows (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -766,7 +768,7 @@ created: 2026-04-29
 
 ### 2. The World of IF Statements and Conditions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IF function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980)
@@ -895,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), if. (3), this. (1), if, (1)
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** w0026 (3), m2115 (2), w0252 (1), w0019b1212 (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -1192,8 +1194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), data (5), next (1), [[Pivot Tables]] (1), power (1)
 > **Env Vars:** countifs (8), sumifs (8), maxifs (1), minifs (1)
-> **Code Keywords:** let (14), for. (1), type. (1), function (1)
 > **Cross-References:** go back to (7)
 > **UI Navigation:** go to (5), scroll down (1), select the (1)
 > **Definitions:** is a  (2)
@@ -1324,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** hit (3), next (1)
 > **Env Vars:** int (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - here (1)
@@ -1332,7 +1334,7 @@ created: 2026-04-29
 
 ### 3. Looking Up, Down, and All Around: Comparing and Combining with Lookups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### VLOOKUP
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980)
@@ -1477,8 +1479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Electronics]] (4), [[Microsoft Excel|Excel]] (2), hit (1), next (1)
 > **Env Vars:** vlookup (15), xlookup (1), h2vuki (1)
-> **Code Keywords:** let (11), match. (2), function (1), match, (1)
 > **Cross-References:** go back to (3)
 > **Versions:** 736.66 (1)
 > **UI Navigation:** go to (1)
@@ -1705,8 +1707,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), data (3), next (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** xlookup (15), vlookup (7)
-> **Code Keywords:** let (8), return, (2), delete (1), this, (1), this. (1)
 > **UI Navigation:** double-click (4), go to (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1775,8 +1777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2)
 > **Env Vars:** vlookup (14), xlookup (12)
-> **Code Keywords:** let (1), break, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1916,8 +1918,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), hit (1)
 > **Env Vars:** index (8), match (8), vlookup (5), xlookup (3), ct3tk2 (1)
-> **Code Keywords:** match. (7), let (4), match, (2), function (1), case, (1)
 > **SQL:** index (8)
 > **UI Navigation:** go to (2), dropdown (1)
 > **Cross-References:** go back to (2)
@@ -1950,7 +1952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), match, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** you should never (1)
@@ -2133,7 +2135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), case, (1), continue (1)
+> **Frameworks & Libraries:** hit (3), data (1), [[Search]] (1), next (1)
 > **Env Vars:** xlookup (8), i10 (1)
 > **Versions:** 0.8 (1), 0.7 (1), 10.80 (1), 0.65 (1), 439.08 (1)
 > **UI Navigation:** go to (3)
@@ -2387,7 +2389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), match, (2), switch (1)
+> **Frameworks & Libraries:** data (5), next (2), product (2)
 > **Env Vars:** xlookup (5), vlookup (3), vlook (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2588,7 +2590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (1), this. (1)
+> **Frameworks & Libraries:** data (3), hit (2), next (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (8)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** find (1), make (1)
@@ -2599,7 +2601,7 @@ created: 2026-04-29
 
 ### 4. Formula Tips and Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Alt+Enter to make formulas more readable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/use-alt-plus-enter-to-make-formulas-more-readable?u=76281980)
@@ -2712,7 +2714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (2), continue (1), this, (1), pass (1)
+> **Frameworks & Libraries:** hit (3), data (1), next (1)
 > **Versions:** 45.70 (2), 1.5 (2), 51.5 (1), 11.5 (1), 91.40 (1)
 > **UI Navigation:** open the (1), click on (1)
 > **CLI Commands:** make (1)
@@ -2811,7 +2813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), if. (3), function (1), if, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2)
 > **Env Vars:** lookup (4), formulatext (1), xlookup (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
@@ -2958,8 +2960,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** convert (6), textafter (4), counta (3), textbefore (3)
-> **Code Keywords:** let (8), this, (2), if, (1), this. (1), pass (1)
 > **UI Navigation:** double-click (5), go to (3)
 > **Warnings:** troubleshoot (4), be careful (1)
 > **CLI Commands:** make (2)
@@ -3104,7 +3106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), this, (1)
+> **Frameworks & Libraries:** next (2), data (1)
 > **Versions:** 37.28 (1), 337.28 (1), 327.96 (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -3151,6 +3153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Warnings:** keep in mind (1), troubleshoot (1)
 > **Speakers:** - something (1)
 
@@ -3341,7 +3344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2), this. (1), else. (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), hit (2)
 > **UI Navigation:** double-click (3), go to (1)
 > **Versions:** 1.5 (1), 6.5 (1)
 > **CLI Commands:** find (1)
@@ -3447,7 +3450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (4), select the (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -3544,7 +3547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), this, (1)
+> **Frameworks & Libraries:** data (11), hit (2)
 > **Warnings:** be aware (4), watch out (1)
 > **CLI Commands:** make (1)
 > **Ports:** :23 (1)
@@ -3855,7 +3858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (3), this. (2), this, (2), new. (1)
+> **Frameworks & Libraries:** next (4), hit (4), data (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** mpg (3), h10 (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -3944,8 +3947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** iferror (7), ifna (4), xlookup (2), xmatch (1), match (1)
-> **Code Keywords:** let (5), match, (3), this. (2), else. (1), delete (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Warnings:** be careful (2), warning (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -3956,7 +3959,7 @@ created: 2026-04-29
 
 ### 5. Mid-Term Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge 1: Course completions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-1-subtitle-to-come-18460103?u=76281980)
@@ -4085,7 +4088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), this. (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** pip (2), make (1)
 > **Speakers:** - welcome (1), - okay (1)
 > **Cross-References:** go back to (1)
@@ -4150,7 +4153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** xlookup (4)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -4235,7 +4238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), match. (1)
+> **Frameworks & Libraries:** data (2), [[Search]] (1)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (upbeat energetic music) (1), (upbeat energetic guitar music) (1)
 > **CLI Commands:** make (1)
@@ -4245,7 +4248,7 @@ created: 2026-04-29
 
 ### 6. Date and Time Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time, rounding, and converting to decimals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980)
@@ -4352,8 +4355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Ports:** :00 (5), :15 (2), :17 (1), :04 (1)
-> **Code Keywords:** let (4), this. (1), finally, (1)
 > **UI Navigation:** go to (6)
 > **Versions:** 4.25 (2), 13.93 (1), 18.26 (1), 22.0 (1)
 > **Definitions:** is a  (1)
@@ -4414,8 +4417,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** eomonth (5)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [instructor] (1)
@@ -4493,7 +4496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), super (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Engineering]] (1), career (1)
 > **Env Vars:** yearfrac (3)
 > **Versions:** 14.086 (1), 0.18 (1)
 > **Code Identifiers:** end_date (1)
@@ -4504,7 +4507,7 @@ created: 2026-04-29
 
 ### 7. Working with Text and Arrays
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LEFT, RIGHT, and MID
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980)
@@ -4993,7 +4996,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (5), delete (2), this, (1), new. (1)
+> **Frameworks & Libraries:** data (8), product (6), hit (4), next (3), [[Windows]] (2)
 > **Env Vars:** las (3), elas (2), a12014 (1), pql3 (1), eelas (1)
 > **UI Navigation:** go to (8), scroll down (1)
 > **CLI Commands:** make (1), find (1)
@@ -5079,7 +5082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), for. (2), case, (2), require (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Office|Office]] (1)
 > **Warnings:** watch out (2)
 > **Env Vars:** keyes (1)
 > **UI Navigation:** double-click (1)
@@ -5287,7 +5290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), this. (2), function (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -5437,7 +5440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), this. (3), include. (2), this, (1)
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -5595,8 +5598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** unique (6), vlookup (2), sumproduct (2), fcn (2), counta (2)
-> **Code Keywords:** function (8), let (7), continue (1), lambda (1), this. (1)
 > **UI Navigation:** scroll down (3)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
@@ -5673,8 +5676,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2)
 > **Env Vars:** unique (7), tocol (3)
-> **Code Keywords:** let (3), this, (1)
 > **Cross-References:** previous video (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -5833,7 +5836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** ccj (1)
@@ -6005,7 +6008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3)
+> **Frameworks & Libraries:** data (19), [[Microsoft Excel|Excel]] (2), feature (2), next (2), hit (1)
 > **Env Vars:** randarray (5), counta (2), randerray (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2)
@@ -6016,7 +6019,7 @@ created: 2026-04-29
 
 ### 8. Statistical Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LARGE and SMALL
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/large-and-small?u=76281980)
@@ -6107,7 +6110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6238,7 +6241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -6352,7 +6355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), function (1), this, (1)
+> **Frameworks & Libraries:** product (4), [[Statistics]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3)
 > **Speakers:** - [instructor] (1)
 
@@ -6465,7 +6468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -6473,7 +6476,7 @@ created: 2026-04-29
 
 ### 9. Math Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rounding
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/rounding?u=76281980)
@@ -6596,9 +6599,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** rounddown (5), roundup (5), mod (5), round (1), trunc (1)
 > **Versions:** 10.095 (3), 12.5 (3), 12.7734 (2), 12.8 (2), 10.1 (1)
-> **Code Keywords:** let (8), function (3), this, (1), if, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), stands for (1)
 > **Speakers:** - excel (1)
@@ -6698,8 +6701,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.65 (2), 0.55 (2), 3.19 (1), 3.25 (1), 2.99 (1)
-> **Code Keywords:** let (7), function (1)
 > **UI Navigation:** select the (1), go to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -6889,7 +6892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (5), if, (3), else. (1), this. (1)
+> **Frameworks & Libraries:** [[Windows]] (2), data (1), hit (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.2 (1)
@@ -6899,7 +6902,7 @@ created: 2026-04-29
 
 ### 10. Wild Cards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wildcards
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/wildcards?u=76281980)
@@ -7048,7 +7051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), this, (1), match. (1), function (1)
+> **Frameworks & Libraries:** teams (6), data (5), [[Microsoft Excel|Excel]] (1), next (1), [[Search]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -7179,7 +7182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), return, (1), match. (1), this. (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** xlookup (5)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -7188,7 +7191,7 @@ created: 2026-04-29
 
 ### 11. New, Handy, and Fun Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ROMAN and ARABIC
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/roman-and-arabic?u=76281980)
@@ -7299,7 +7302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), function (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** mcmlix (1)
 > **Cross-References:** go back to (1)
@@ -7507,7 +7510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (3), function (2), this: (2), break, (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), next (1), hit (1)
 > **Env Vars:** url (5)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -7650,7 +7653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), function (2), break. (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** char (7), code (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** click on (1)
@@ -7659,7 +7662,7 @@ created: 2026-04-29
 
 ### 12. Final Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge 1: Towers
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-1-subtitle-to-come?u=76281980)
@@ -7748,7 +7751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Non-Speech:** (intro music) (1), (uplifting music) (1)
 > **CLI Commands:** find (1)
@@ -7869,7 +7872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[Calculus]] (1)
 > **Versions:** 581.36 (1), 654.42 (1)
 > **Non-Speech:** (upbeat music) (2)
 > **CLI Commands:** make (1)
@@ -8009,7 +8012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), delete (1)
+> **Frameworks & Libraries:** data (4), hit (1)
 > **Env Vars:** tocol (1), textbefore (1)
 > **Non-Speech:** (energetic music) (1), (lively music) (1)
 > **Speakers:** - [teacher] (1)
@@ -8065,14 +8068,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), this. (1), this, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (modern techy music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take your Excel skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980)
@@ -8099,6 +8101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

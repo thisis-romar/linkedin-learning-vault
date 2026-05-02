@@ -30,7 +30,7 @@ tags:
   - skill/functional-programming
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Introducing%20Functional%20Programming%20in%20C%2B%2B.md)
@@ -49,41 +49,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Unleash the power functional programming in C++
-  - What you should know
+  - [Unleash the power functional programming in C++](#unleash-the-power-functional-programming-in-c)
+  - [What you should know](#what-you-should-know)
 - [**1. Overview**](#1-overview) (2 videos)
-  - Benefits of functional programming
-  - Unit testing functional programming
+  - [Benefits of functional programming](#benefits-of-functional-programming)
+  - [Unit testing functional programming](#unit-testing-functional-programming)
 - [**2. Functional Programming in Modern C++**](#2-functional-programming-in-modern-c) (10 videos)
-  - Enabling C++ 17
-  - transform instead of map
-  - copy_if instead of filter
-  - accumulate instead of reduce
-  - bind
-  - Functions
-  - Lambda functions: Curry
-  - Lambda functions: Closures
-  - Challenge: Factorial continuous add
-  - Solution: Factorial continuous add
+  - [Enabling C++ 17](#enabling-c-17)
+  - [transform instead of map](#transform-instead-of-map)
+  - [copy_if instead of filter](#copy_if-instead-of-filter)
+  - [accumulate instead of reduce](#accumulate-instead-of-reduce)
+  - [bind](#bind)
+  - [Functions](#functions)
+  - [Lambda functions: Curry](#lambda-functions-curry)
+  - [Lambda functions: Closures](#lambda-functions-closures)
+  - [Challenge: Factorial continuous add](#challenge-factorial-continuous-add)
+  - [Solution: Factorial continuous add](#solution-factorial-continuous-add)
 - [**3. Template Metaprogramming**](#3-template-metaprogramming) (7 videos)
-  - C++ templates
-  - Factorial
-  - The Standard Template Library
-  - Functional programming libraries
-  - Boost.Hana
-  - Challenge: Fibonacci generator
-  - Solution: Fibonacci generator
+  - [C++ templates](#c-templates)
+  - [Factorial](#factorial)
+  - [The Standard Template Library](#the-standard-template-library)
+  - [Functional programming libraries](#functional-programming-libraries)
+  - [Boost.Hana](#boosthana)
+  - [Challenge: Fibonacci generator](#challenge-fibonacci-generator)
+  - [Solution: Fibonacci generator](#solution-fibonacci-generator)
 - [**4. Functional Reactive Programming**](#4-functional-reactive-programming) (4 videos)
-  - Intro to Reactive Extensions
-  - RxCpp library
-  - Challenge: Word frequency counter
-  - Solution: Word frequency counter
+  - [Intro to Reactive Extensions](#intro-to-reactive-extensions)
+  - [RxCpp library](#rxcpp-library)
+  - [Challenge: Word frequency counter](#challenge-word-frequency-counter)
+  - [Solution: Word frequency counter](#solution-word-frequency-counter)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unleash the power functional programming in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unleash-the-power-functional-programming-in-c-plus-plus?u=76281980)
@@ -100,8 +100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Functional Programming]] (2), functional (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [troy] (1)
 
 #### What you should know
@@ -133,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), next (1), [[Microsoft]] (1)
 > **Tools:** visual studio (2), command line (1)
 > **Env Vars:** gcc (1)
 > **Definitions:** is a  (1)
@@ -142,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980)
@@ -191,7 +192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (4), functional (2), data (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -246,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** catch. (4), function (4), let (2), case, (1), default, (1)
+> **Frameworks & Libraries:** next (2), [[Functional Programming]] (1), [[Unit Testing]] (1)
 > **Tools:** visual studio (2), terminal (2)
 > **File Paths:** main.cpp (3)
 > **UI Navigation:** scroll down (1), go to (1), right-click (1)
@@ -258,7 +259,7 @@ created: 2026-04-29
 
 ### 2. Functional Programming in Modern C++
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enabling C++ 17
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980)
@@ -303,7 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), default, (1)
+> **Frameworks & Libraries:** functional (1), [[Microsoft]] (1), next (1), feature (1)
 > **Tools:** command line (2), terminal (2), visual studio (1)
 > **Env Vars:** gcc (1), cxx (1)
 > **Warnings:** warning (2)
@@ -390,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), lambda (3), const (2), if, (1)
+> **Frameworks & Libraries:** functional (2), [[Databases]] (1), [[Algorithms]] (1), data (1)
 > **Speakers:** - [instructor] (1), - std (1), - wall (1)
 > **File Paths:** main.cpp (2)
 > **Tools:** visual studio (1), terminal (1)
@@ -448,8 +449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** copy_if (5), filteredcollection (3), back_inserter (2), outcollection (2)
-> **Code Keywords:** let (2), finally, (2), lambda (2), return, (1)
 > **Speakers:** - [instructor] (1), - std (1), - wall (1)
 > **File Paths:** main.cpp (1)
 > **Tools:** terminal (1)
@@ -497,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (1), lambda (1)
+> **Frameworks & Libraries:** next (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -618,7 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (5), pass (4), if. (2), case, (2)
+> **Frameworks & Libraries:** next (2), [[Functional Programming]] (1), application (1), functional (1), hit (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -777,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (8), lambda (3), pass (2), finally, (1)
+> **Frameworks & Libraries:** functional (2), next (1)
 > **Code Identifiers:** demofunction (5), push_back (4)
 > **Definitions:** is a  (7), known as (1)
 > **Tools:** terminal (1)
@@ -833,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), lambda (3), pass (3), return, (2)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** addcurry (4)
 > **Prerequisites:** set up (2)
 > **File Paths:** main.cpp (1)
@@ -890,7 +891,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (6), function (5), let (2), this, (1)
 > **Tools:** terminal (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -916,7 +916,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (2), let (1)
 > **Code Identifiers:** addby (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno sound effects) (1)
@@ -1002,7 +1001,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), lambda (1), return. (1), function (1), pass (1)
 > **Code Identifiers:** addby (4), continuousadd (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -1011,7 +1009,7 @@ created: 2026-04-29
 
 ### 3. Template Metaprogramming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### C++ templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980)
@@ -1114,7 +1112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), struct (3), let (2), const (1), enum (1)
+> **Frameworks & Libraries:** [[Generic Programming]] (3), [[Programming]] (1), [[Functional Programming]] (1), generic (1), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (10)
 > **Code Identifiers:** tocube (9)
 > **Env Vars:** tmp (6)
@@ -1219,7 +1217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), struct (3), this. (3), function (2), const (2)
+> **Frameworks & Libraries:** product (1), generic (1)
 > **Exercise Files:** template (10)
 > **File Paths:** main.cpp (1)
 > **Cross-References:** go back to (1)
@@ -1249,10 +1247,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generic Programming]] (1), [[Algorithms]] (1)
 > **Env Vars:** stl (4)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1283,8 +1281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (1), data (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** super (1), function (1)
 > **Env Vars:** mpl (2)
 > **Exercise Files:** template (1)
 > **Warnings:** keep in mind (1)
@@ -1395,7 +1393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (5), lambda (3), pass (2), case. (1)
+> **Frameworks & Libraries:** next (4), [[Jetpack Compose|Compose]] (4), functional (3), power (1)
 > **Code Identifiers:** bed_length (7), has_bed_length (3), make_tuple (1), is_valid (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** mpl (1), stl (1)
@@ -1425,7 +1423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno sound effects) (1)
@@ -1485,7 +1483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), struct (3), enum (3), function (1), this. (1)
+> **Frameworks & Libraries:** next (1), [[Programming]] (1)
 > **Exercise Files:** template (5)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1), - capital (1)
@@ -1497,7 +1495,7 @@ created: 2026-04-29
 
 ### 4. Functional Reactive Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Reactive Extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/intro-to-reactive-extensions?u=76281980)
@@ -1518,6 +1516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Programming]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### RxCpp library
@@ -1625,7 +1624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), pass (3), let (2), lambda (1), return, (1)
+> **Frameworks & Libraries:** next (3), [[GitHub]] (1), [[Programming]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** github (1), terminal (1)
 > **Speakers:** - [instructor] (1), - capital (1)
@@ -1651,7 +1650,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno sound effects) (1)
 
@@ -1722,7 +1720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), lambda (3)
+> **Frameworks & Libraries:** next (1)
 > **Tools:** visual studio (1), terminal (1)
 > **File Paths:** main.cpp (1)
 > **UI Navigation:** go to (1)
@@ -1732,7 +1730,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980)
@@ -1759,7 +1757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Programming]] (1), [[LinkedIn]] (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)

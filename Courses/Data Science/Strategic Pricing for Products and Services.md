@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/pricing-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Pricing%20for%20Products%20and%20Services.md)
@@ -45,33 +45,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - The power of strategic pricing
-  - Set the best pricing with the 4C marketing framework
-  - Define your pricing challenge
+  - [The power of strategic pricing](#the-power-of-strategic-pricing)
+  - [Set the best pricing with the 4C marketing framework](#set-the-best-pricing-with-the-4c-marketing-framework)
+  - [Define your pricing challenge](#define-your-pricing-challenge)
 - [**1. Define Your Business Model and Strategy**](#1-define-your-business-model-and-strategy) (4 videos)
-  - Business model first, then pricing strategy
-  - Define your pricing objectives and constraints
-  - Identify your price carriers
-  - Calculate variable costs, fixed costs, and break-even point
+  - [Business model first, then pricing strategy](#business-model-first-then-pricing-strategy)
+  - [Define your pricing objectives and constraints](#define-your-pricing-objectives-and-constraints)
+  - [Identify your price carriers](#identify-your-price-carriers)
+  - [Calculate variable costs, fixed costs, and break-even point](#calculate-variable-costs-fixed-costs-and-break-even-point)
 - [**2. Create a Price/Value Positioning Map**](#2-create-a-pricevalue-positioning-map) (3 videos)
-  - Identify the job-to-be-done to articulate your value proposition
-  - Define your value proposition
-  - Create a price/value positioning map
+  - [Identify the job-to-be-done to articulate your value proposition](#identify-the-job-to-be-done-to-articulate-your-value-proposition)
+  - [Define your value proposition](#define-your-value-proposition)
+  - [Create a price/value positioning map](#create-a-pricevalue-positioning-map)
 - [**3. Research Your Customer's Willingness to Pay**](#3-research-your-customers-willingness-to-pay) (3 videos)
-  - Analyze customer price sensitivity
-  - Analyze customer trade-offs in pricing a product or service
-  - Observe and experiment to find your best price
+  - [Analyze customer price sensitivity](#analyze-customer-price-sensitivity)
+  - [Analyze customer trade-offs in pricing a product or service](#analyze-customer-trade-offs-in-pricing-a-product-or-service)
+  - [Observe and experiment to find your best price](#observe-and-experiment-to-find-your-best-price)
 - [**4. Identify the Best Price and Communicate It Effectively**](#4-identify-the-best-price-and-communicate-it-effectively) (3 videos)
-  - Run what-if scenarios with three different prices
-  - Decide on the best price based on impact
-  - Communicate your price effectively
+  - [Run what-if scenarios with three different prices](#run-what-if-scenarios-with-three-different-prices)
+  - [Decide on the best price based on impact](#decide-on-the-best-price-based-on-impact)
+  - [Communicate your price effectively](#communicate-your-price-effectively)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Value-based pricing is both customer and profit oriented
-  - Pricing excellence is an organizational capability
+  - [Value-based pricing is both customer and profit oriented](#value-based-pricing-is-both-customer-and-profit-oriented)
+  - [Pricing excellence is an organizational capability](#pricing-excellence-is-an-organizational-capability)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of strategic pricing
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/the-power-of-strategic-pricing?u=76281980)
@@ -94,6 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Pricing Strategy]] (2), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [sefan] (1)
@@ -187,6 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), product (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** general rule (1), make sure to (1)
@@ -280,7 +282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (1), finally, (1)
+> **Frameworks & Libraries:** business (2), product (2), [[Microsoft Products|Products]] (2), [[React.js|React]] (1), next (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** find (1)
 > **Env Vars:** b2b (1)
@@ -291,7 +293,7 @@ created: 2026-04-29
 
 ### 1. Define Your Business Model and Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business model first, then pricing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980)
@@ -342,6 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), management (1), [[Marketing Strategy]] (1)
 > **Versions:** 9.50 (1), 9.99 (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Env Vars:** stp (1)
@@ -422,7 +425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this, (1)
+> **Frameworks & Libraries:** business (4), product (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -493,8 +496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), application (1), product (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Calculate variable costs, fixed costs, and break-even point
@@ -580,9 +583,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), data (1), next (1), business (1)
 > **Versions:** 26.44 (2), 5.78 (2), 14.44 (1), 27.50 (1)
 > **Definitions:** means that (2), in other words (1), is called (1), is an  (1), is a  (1)
-> **Code Keywords:** let (3), function (1), case ( (1)
 > **Analogies:** for example (1)
 > **Best Practices:** general rule (1)
 > **Warnings:** note that (1)
@@ -591,7 +594,7 @@ created: 2026-04-29
 
 ### 2. Create a Price/Value Positioning Map
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify the job-to-be-done to articulate your value proposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980)
@@ -662,8 +665,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2), [[Financial Statements]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
-> **Code Keywords:** this. (1), let (1)
 > **Env Vars:** b2b (2)
 > **Speakers:** - [presenter] (1)
 
@@ -744,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** product (9), [[Climate Change]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** co2 (1)
@@ -868,9 +871,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), data (5), next (4), [[Microsoft Products|Products]] (2), [[Search]] (1)
 > **Code Identifiers:** iwatch (5)
 > **Definitions:** means that (3), is a  (1), is called (1)
-> **Code Keywords:** let (1), finally, (1), for. (1)
 > **Env Vars:** v650 (2), vo2 (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **CLI Commands:** find (1)
@@ -880,7 +883,7 @@ created: 2026-04-29
 
 ### 3. Research Your Customer's Willingness to Pay
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze customer price sensitivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/analyze-customer-price-sensitivity?u=76281980)
@@ -1023,7 +1026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), case, (1), let (1)
+> **Frameworks & Libraries:** product (1), business (1), data (1)
 > **Env Vars:** imd (2), b2b (1)
 > **Definitions:** means that (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
@@ -1109,6 +1112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1), product (1)
 > **Versions:** 0.19 (2), 9.99 (1), 0.45 (1), 7.99 (1), 0.43 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1211,16 +1215,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1), business (1), application (1), product (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Versions:** 11.5 (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Identify the Best Price and Communicate It Effectively
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Run what-if scenarios with three different prices
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/run-what-if-scenarios-with-three-different-prices?u=76281980)
@@ -1291,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), case. (1)
+> **Frameworks & Libraries:** business (3), [[Pricing Strategy]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2), such as (1)
 > **Exercise Files:** download the (1), exercise file (1)
@@ -1361,9 +1365,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), [[Search]] (1), business (1)
 > **Definitions:** is an  (1), is a  (1), defined as (1), means that (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1448,6 +1452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Microsoft Products|Products]] (1), [[Management Development]] (1)
 > **Definitions:** in other words (2), is an  (1), known as (1)
 > **Env Vars:** imd (3)
 > **Analogies:** for example (1)
@@ -1457,7 +1462,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Value-based pricing is both customer and profit oriented
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980)
@@ -1520,8 +1525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), product (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), class. (1)
 > **Analogies:** for example (2)
 > **Env Vars:** b2b (1)
 > **Definitions:** is a  (1)
@@ -1626,6 +1631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (4), [[Microsoft Products|Products]] (3), application (1), next (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Versions:** 4.5 (1), 4.0 (1)
 > **Exercise Files:** download the (1), exercise files (1)

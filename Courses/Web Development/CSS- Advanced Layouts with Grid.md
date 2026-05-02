@@ -35,7 +35,7 @@ tags:
   - skill/front-end-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Advanced%20Layouts%20with%20Grid.md)
@@ -54,63 +54,63 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome to CSS Grid
-  - What you should know
-  - Using GitHub Codespaces with this course
+  - [Welcome to CSS Grid](#welcome-to-css-grid)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. CSS Grid: Core Concepts**](#1-css-grid-core-concepts) (9 videos)
-  - What is CSS Grid?
-  - Grid terminology
-  - Create a grid
-  - Grid lines and units
-  - Placing grid items
-  - Grid areas
-  - Named grid lines
-  - Grid gap
-  - Grid alignment
+  - [What is CSS Grid?](#what-is-css-grid)
+  - [Grid terminology](#grid-terminology)
+  - [Create a grid](#create-a-grid)
+  - [Grid lines and units](#grid-lines-and-units)
+  - [Placing grid items](#placing-grid-items)
+  - [Grid areas](#grid-areas)
+  - [Named grid lines](#named-grid-lines)
+  - [Grid gap](#grid-gap)
+  - [Grid alignment](#grid-alignment)
 - [**2. Planning for Grid Layouts**](#2-planning-for-grid-layouts) (5 videos)
-  - When to use Grid?
-  - Drawing layouts with pen and paper
-  - Using Grid generators
-  - Mobile-first approach
-  - Accessibility considerations
+  - [When to use Grid?](#when-to-use-grid)
+  - [Drawing layouts with pen and paper](#drawing-layouts-with-pen-and-paper)
+  - [Using Grid generators](#using-grid-generators)
+  - [Mobile-first approach](#mobile-first-approach)
+  - [Accessibility considerations](#accessibility-considerations)
 - [**3. Multi-Column Layout**](#3-multi-column-layout) (7 videos)
-  - What you're creating: A multi-column layout
-  - Overview of the starting point
-  - Create the main grid
-  - Manual grid item placement
-  - Add third column for wider viewports
-  - Justify the grid
-  - Bonus: Refactor using grid areas
+  - [What you're creating: A multi-column layout](#what-youre-creating-a-multi-column-layout)
+  - [Overview of the starting point](#overview-of-the-starting-point)
+  - [Create the main grid](#create-the-main-grid)
+  - [Manual grid item placement](#manual-grid-item-placement)
+  - [Add third column for wider viewports](#add-third-column-for-wider-viewports)
+  - [Justify the grid](#justify-the-grid)
+  - [Bonus: Refactor using grid areas](#bonus-refactor-using-grid-areas)
 - [**4. Full-Bleed Layout**](#4-full-bleed-layout) (4 videos)
-  - What you're creating: A full-bleed layout
-  - Overview of the starting point
-  - Create the shared grid
-  - Define columns and position grid items
+  - [What you're creating: A full-bleed layout](#what-youre-creating-a-full-bleed-layout)
+  - [Overview of the starting point](#overview-of-the-starting-point)
+  - [Create the shared grid](#create-the-shared-grid)
+  - [Define columns and position grid items](#define-columns-and-position-grid-items)
 - [**5. A Very Uniform Card Layout**](#5-a-very-uniform-card-layout) (4 videos)
-  - What you're creating: A uniform card layout
-  - Overview of card markup and starter styles
-  - Define the main grid
-  - Create grid for each card
+  - [What you're creating: A uniform card layout](#what-youre-creating-a-uniform-card-layout)
+  - [Overview of card markup and starter styles](#overview-of-card-markup-and-starter-styles)
+  - [Define the main grid](#define-the-main-grid)
+  - [Create grid for each card](#create-grid-for-each-card)
 - [**6. A Variable Card Layout**](#6-a-variable-card-layout) (7 videos)
-  - What you're creating: A variable card layout
-  - Overview of card markup
-  - Define the main grid
-  - Place cards on the grid
-  - Create grid for each card
-  - Position items within the card grid
-  - Make sure it's responsive
+  - [What you're creating: A variable card layout](#what-youre-creating-a-variable-card-layout)
+  - [Overview of card markup](#overview-of-card-markup)
+  - [Define the main grid](#define-the-main-grid)
+  - [Place cards on the grid](#place-cards-on-the-grid)
+  - [Create grid for each card](#create-grid-for-each-card)
+  - [Position items within the card grid](#position-items-within-the-card-grid)
+  - [Make sure it's responsive](#make-sure-its-responsive)
 - [**7. Asymmetrical or Broken Layout**](#7-asymmetrical-or-broken-layout) (5 videos)
-  - What you're creating: An asymmetrical layout
-  - Overview of the starting point
-  - Define the primary grid layout
-  - Create the first nested grid
-  - Create the second nested grid
+  - [What you're creating: An asymmetrical layout](#what-youre-creating-an-asymmetrical-layout)
+  - [Overview of the starting point](#overview-of-the-starting-point)
+  - [Define the primary grid layout](#define-the-primary-grid-layout)
+  - [Create the first nested grid](#create-the-first-nested-grid)
+  - [Create the second nested grid](#create-the-second-nested-grid)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to CSS Grid
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980)
@@ -141,8 +141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), web (2), [[Figma (Software)|Figma]] (1), hit (1)
 > **Env Vars:** css (3)
-> **Code Keywords:** module (1), let (1)
 > **Documentation:** specification (1)
 > **Tools:** figma (1)
 > **Speakers:** - have (1)
@@ -166,8 +166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), [[HTML]] (2), next (1)
 > **Env Vars:** css (7), html (2)
-> **Code Keywords:** module (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -221,11 +221,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (4), feature (1)
 > **Tools:** github (4)
 > **UI Navigation:** go to (2), navigate to (1)
 > **Definitions:** stands for (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** url (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -233,7 +233,7 @@ created: 2026-04-29
 
 ### 1. CSS Grid: Core Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is CSS Grid?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980)
@@ -260,8 +260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[HTML]] (2), web (1)
 > **Env Vars:** css (5), html (2)
-> **Code Keywords:** finally, (1), module (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -340,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (2)
+> **Frameworks & Libraries:** css (2), next (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
@@ -428,7 +428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Codespaces]] (1), [[Representational State Transfer (REST)|Rest]] (1), css (1), dom (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** right-click (1), click on (1), toggle (1)
 > **File Paths:** index.html (1), style-grid.css (1)
@@ -564,7 +564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), default, (2), function (2), case, (1)
+> **Frameworks & Libraries:** css (2), next (2), [[Codespaces]] (1)
 > **Exercise Files:** template (11)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** css (2)
@@ -716,7 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), default, (1), class. (1), this. (1)
+> **Frameworks & Libraries:** css (3), feature (1), dom (1), power (1), next (1)
 > **Exercise Files:** template (6)
 > **Env Vars:** css (3)
 > **UI Navigation:** scroll up (1)
@@ -895,8 +895,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), next (3), power (1)
 > **Exercise Files:** template (18)
-> **Code Keywords:** let (10), this, (1), case, (1), continue (1), finally, (1)
 > **Env Vars:** css (6)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1), in the last (1), go back to (1)
@@ -1009,7 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (1), case, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** template (5)
 > **Analogies:** imagine (1), for instance (1), for example (1)
 > **CLI Commands:** find (1), make (1)
@@ -1077,7 +1077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** feature (1), css (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [speaker] (1)
@@ -1139,7 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (12), this, (1), let (1), function (1)
+> **Frameworks & Libraries:** feature (1), css (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** css (1), mdn (1)
 > **CLI Commands:** find (1)
@@ -1150,7 +1150,7 @@ created: 2026-04-29
 
 ### 2. Planning for Grid Layouts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to use Grid?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/when-to-use-grid?u=76281980)
@@ -1197,10 +1197,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), web (1), feature (1)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** module (1)
 > **Speakers:** - [instructor] (1)
 
 #### Drawing layouts with pen and paper
@@ -1244,9 +1244,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), web (1), [[HTML]] (1), next (1)
 > **Env Vars:** css (2), html (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using Grid generators
@@ -1304,6 +1304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[Search]] (1)
 > **Env Vars:** css (3)
 > **Exercise Files:** template (2)
 > **Definitions:** defined as (1), is a  (1)
@@ -1349,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** css (3), web (2), product (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
@@ -1387,6 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), css (4), dom (3), [[HTML]] (2), next (1)
 > **Env Vars:** css (4), dom (3), html (2), wcag (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
@@ -1396,7 +1398,7 @@ created: 2026-04-29
 
 ### 3. Multi-Column Layout
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What you're creating: A multi-column layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-multi-column-layout?u=76281980)
@@ -1415,7 +1417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** css (1), [[HTML]] (1)
 > **Env Vars:** css (1), html (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1489,7 +1491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), pass (1)
+> **Frameworks & Libraries:** [[HTML]] (2), next (2), [[Codespaces]] (1), [[Typography]] (1), feature (1)
 > **Env Vars:** html (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
@@ -1586,7 +1588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** next (5), [[Representational State Transfer (REST)|Rest]] (2), web (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (2)
 > **Exercise Files:** template (2)
@@ -1690,7 +1692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (1)
+> **Frameworks & Libraries:** [[HTML]] (1), css (1), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** as we saw (1), in the next (1)
@@ -1798,7 +1800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (1), css (1), web (1)
 > **Env Vars:** html (1), css (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
@@ -1863,7 +1865,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), for, (1), this, (1), default, (1)
 > **Cross-References:** earlier in (1), we talked about (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1975,7 +1976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** css (3)
 > **Exercise Files:** template (4)
 > **Env Vars:** css (3)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1985,7 +1986,7 @@ created: 2026-04-29
 
 ### 4. Full-Bleed Layout
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What you're creating: A full-bleed layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-full-bleed-layout?u=76281980)
@@ -2016,9 +2017,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[HTML]] (2)
 > **Env Vars:** css (3), html (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
@@ -2083,7 +2084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** next (4), [[HTML]] (3), [[Codespaces]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** html (2)
 > **File Paths:** index.html (1)
@@ -2155,7 +2156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), override (1), class, (1)
+> **Frameworks & Libraries:** feature (2), [[HTML]] (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the next (1)
@@ -2285,7 +2286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), class. (1), case. (1), finally, (1)
+> **Frameworks & Libraries:** next (3), feature (3), [[HTML]] (2), hit (1), css (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (1), css (1)
 > **File Paths:** index.html (1)
@@ -2297,7 +2298,7 @@ created: 2026-04-29
 
 ### 5. A Very Uniform Card Layout
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What you're creating: A uniform card layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-uniform-card-layout?u=76281980)
@@ -2322,7 +2323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** web (1), product (1), [[Search]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** grid (1)
@@ -2385,7 +2386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[HTML]] (1), next (1)
 > **File Paths:** index.html (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** hsl (1)
@@ -2475,7 +2476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), try. (1), case, (1), self (1)
+> **Frameworks & Libraries:** next (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -2574,7 +2575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), self (1)
+> **Frameworks & Libraries:** dom (2), next (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
@@ -2582,7 +2583,7 @@ created: 2026-04-29
 
 ### 6. A Variable Card Layout
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What you're creating: A variable card layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-variable-card-layout?u=76281980)
@@ -2607,8 +2608,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1), next (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** case, (1)
 > **Env Vars:** css (1)
 > **Cross-References:** previous chapter (1)
 > **Analogies:** for instance (1)
@@ -2695,8 +2696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), [[Typography]] (1), next (1)
 > **Cross-References:** previous chapter (3), in the next (1)
-> **Code Keywords:** case, (2), let (1)
 > **File Paths:** index.html (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -2799,7 +2800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), case, (1)
+> **Frameworks & Libraries:** next (6), css (1)
 > **Exercise Files:** template (6)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -2905,7 +2906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (1), finally, (1)
+> **Frameworks & Libraries:** [[HTML]] (2), next (2)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (2)
 > **File Paths:** index.html (1)
@@ -3006,7 +3007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), self (5), type( (1)
+> **Frameworks & Libraries:** next (1), [[HTML]] (1)
 > **UI Navigation:** go to (2), click on (1), toggle (1)
 > **Cross-References:** go back to (2)
 > **Env Vars:** html (1)
@@ -3075,7 +3076,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** htl (1)
@@ -3087,7 +3087,7 @@ created: 2026-04-29
 
 ### 7. Asymmetrical or Broken Layout
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What you're creating: An asymmetrical layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-an-asymmetrical-layout?u=76281980)
@@ -3107,7 +3107,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Overview of the starting point
@@ -3163,7 +3162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[HTML]] (1), generic (1), [[Typography]] (1), css (1), next (1)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -3226,7 +3225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), case. (1), continue (1)
+> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
 
@@ -3349,7 +3348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), self (3), for, (1), default. (1)
+> **Frameworks & Libraries:** next (2), business (1)
 > **Exercise Files:** template (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** we call this (1)
@@ -3481,7 +3480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), self (4), this, (2), default, (1), case, (1)
+> **Frameworks & Libraries:** dom (3)
 > **CLI Commands:** make (5)
 > **Env Vars:** dom (3)
 > **Cross-References:** previous chapter (1), earlier in (1)
@@ -3493,7 +3492,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980)
@@ -3514,8 +3513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[GitHub]] (1), [[Codespaces]] (1), [[JavaScript]] (1), next (1)
 > **Env Vars:** css (4)
-> **Code Keywords:** continue (1)
 > **Tools:** github (1)
 > **Speakers:** - great (1)
 

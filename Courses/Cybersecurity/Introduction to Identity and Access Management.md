@@ -36,7 +36,7 @@ tags:
   - topic/network-and-system-administration
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Introduction%20to%20Identity%20and%20Access%20Management.md)
@@ -55,32 +55,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The importance of identity and access management
-  - What you should know
+  - [The importance of identity and access management](#the-importance-of-identity-and-access-management)
+  - [What you should know](#what-you-should-know)
 - [**1. Key Concepts for Identity**](#1-key-concepts-for-identity) (4 videos)
-  - Authentication, authorization, and accounting
-  - Authentication deep dive
-  - Users, groups, systems, assets, and permissions
-  - Access control principles
+  - [Authentication, authorization, and accounting](#authentication-authorization-and-accounting)
+  - [Authentication deep dive](#authentication-deep-dive)
+  - [Users, groups, systems, assets, and permissions](#users-groups-systems-assets-and-permissions)
+  - [Access control principles](#access-control-principles)
 - [**2. Applying Authentication in Your Organization**](#2-applying-authentication-in-your-organization) (3 videos)
-  - Better together: Identity providers and identity governance
-  - Single sign-on
-  - Federation
+  - [Better together: Identity providers and identity governance](#better-together-identity-providers-and-identity-governance)
+  - [Single sign-on](#single-sign-on)
+  - [Federation](#federation)
 - [**3. Applying Authorization in Your Organization**](#3-applying-authorization-in-your-organization) (3 videos)
-  - Least privilege
-  - Provisioning
-  - Identity lifecycle
+  - [Least privilege](#least-privilege)
+  - [Provisioning](#provisioning)
+  - [Identity lifecycle](#identity-lifecycle)
 - [**4. Advanced Tips and Tricks**](#4-advanced-tips-and-tricks) (4 videos)
-  - Zero trust
-  - Role mining
-  - Conditional access and just-in-time access
-  - An important side note on passwords
+  - [Zero trust](#zero-trust)
+  - [Role mining](#role-mining)
+  - [Conditional access and just-in-time access](#conditional-access-and-just-in-time-access)
+  - [An important side note on passwords](#an-important-side-note-on-passwords)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of identity and access management
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/the-importance-of-identity-and-access-management?u=76281980)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2), management (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - according (1)
 
@@ -126,12 +126,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), management (2), career (1), data (1), business (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Key Concepts for Identity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication, authorization, and accounting
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-authorization-and-accounting?u=76281980)
@@ -210,7 +211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1)
+> **Frameworks & Libraries:** management (3), data (2), [[Security]] (2), next (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), defined as (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
@@ -286,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -379,9 +380,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), data (1), [[Banking]] (1), [[Microsoft Word|Word]] (1), [[Security]] (1)
 > **Analogies:** for example (5), similar to (1)
 > **Definitions:** is a  (2), is an  (2), is called (1)
-> **Code Keywords:** finally, (2), let (1), type. (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
@@ -458,17 +459,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), next (1), teams (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** rbac (3), mac (1), dac (1)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (3)
-> **Code Keywords:** function (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
 
 ### 2. Applying Authentication in Your Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Better together: Identity providers and identity governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/better-together-identity-providers-and-identity-governance?u=76281980)
@@ -545,8 +546,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), business (1), [[Security]] (1), next (1)
 > **Definitions:** is a  (2), is an  (2)
-> **Code Keywords:** let (3)
 > **Env Vars:** idp (2), iga (1)
 > **Speakers:** - as (1)
 
@@ -631,8 +632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), [[Network Security]] (1), application (1), [[Tokens]] (1), [[Security]] (1)
 > **Definitions:** is a  (3), is called (1)
-> **Code Keywords:** let (2), pass (1)
 > **Env Vars:** sso (1)
 > **Analogies:** such as (1)
 > **Warnings:** important note (1)
@@ -708,9 +709,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[User Experience (UX)|User experience]] (3), data (3), [[Security]] (2), web (2)
 > **Env Vars:** saml (5), oidc (5), xml (1), json (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (2), pass (1), extends (1)
 > **Versions:** 2.0 (4)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -718,7 +719,7 @@ created: 2026-04-29
 
 ### 3. Applying Authorization in Your Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/least-privilege?u=76281980)
@@ -771,7 +772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), extends (1)
+> **Frameworks & Libraries:** hr (1), application (1), [[Security]] (1), data (1), cloud (1)
 > **Definitions:** is an  (2), is called (1)
 > **Warnings:** important note (1)
 > **Prerequisites:** required to (1)
@@ -824,7 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** management (2), application (1), [[Security]] (1)
 > **Definitions:** is called (1), is an  (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** imagine (1)
@@ -876,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), finally, (1)
+> **Frameworks & Libraries:** hr (5), next (1), application (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -884,7 +885,7 @@ created: 2026-04-29
 
 ### 4. Advanced Tips and Tricks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Zero trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/zero-trust?u=76281980)
@@ -941,8 +942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), application (2), next (1), hr (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), this, (1), finally, (1), require (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (2)
 > **Best Practices:** make sure to (1)
@@ -994,7 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), case, (1)
+> **Frameworks & Libraries:** management (2), data (2), application (2), [[Security]] (1)
 > **Definitions:** is an  (2), in other words (1), is a  (1)
 > **Speakers:** - [speaker] (1)
 
@@ -1059,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2), case. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), product (1), [[Security]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1173,7 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2), private (2), this, (1)
+> **Frameworks & Libraries:** [[Security]] (3), web application (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** fido2 (2), pin (2), nist (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), means that (1)
@@ -1185,7 +1186,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/next-steps?u=76281980)
@@ -1242,7 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[NIST]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Env Vars:** nist (1)

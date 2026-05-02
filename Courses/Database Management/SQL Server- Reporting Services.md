@@ -29,7 +29,7 @@ tags:
   - skill/sql-server-reporting-services-ssrs
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/SQL%20Server-%20Reporting%20Services.md)
@@ -48,70 +48,70 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Present SQL data with Reporting Services
-  - What you should know
+  - [Present SQL data with Reporting Services](#present-sql-data-with-reporting-services)
+  - [What you should know](#what-you-should-know)
 - [**1. Get Started with SSRS**](#1-get-started-with-ssrs) (7 videos)
-  - What is SQL Server Reporting Services (SSRS)?
-  - Installing SSRS
-  - Install a SQL Server instance for the report server
-  - Configure the report server
-  - Set up the example database
-  - Access the web portal
-  - Install Report Builder
+  - [What is SQL Server Reporting Services (SSRS)?](#what-is-sql-server-reporting-services-ssrs)
+  - [Installing SSRS](#installing-ssrs)
+  - [Install a SQL Server instance for the report server](#install-a-sql-server-instance-for-the-report-server)
+  - [Configure the report server](#configure-the-report-server)
+  - [Set up the example database](#set-up-the-example-database)
+  - [Access the web portal](#access-the-web-portal)
+  - [Install Report Builder](#install-report-builder)
 - [**2. Build Your First Report**](#2-build-your-first-report) (8 videos)
-  - Components of a report
-  - Create a report data source
-  - Create a dataset
-  - Add a data table with the wizard
-  - Joining data tables
-  - Format a report
-  - Reviewing report properties
-  - View, print, and export a report
+  - [Components of a report](#components-of-a-report)
+  - [Create a report data source](#create-a-report-data-source)
+  - [Create a dataset](#create-a-dataset)
+  - [Add a data table with the wizard](#add-a-data-table-with-the-wizard)
+  - [Joining data tables](#joining-data-tables)
+  - [Format a report](#format-a-report)
+  - [Reviewing report properties](#reviewing-report-properties)
+  - [View, print, and export a report](#view-print-and-export-a-report)
 - [**3. Work with Data**](#3-work-with-data) (6 videos)
-  - Create a shared data source
-  - Create a shared dataset
-  - Filtering data
-  - Grouping data in a report
-  - Understand matrixes
-  - Use aggregate functions
+  - [Create a shared data source](#create-a-shared-data-source)
+  - [Create a shared dataset](#create-a-shared-dataset)
+  - [Filtering data](#filtering-data)
+  - [Grouping data in a report](#grouping-data-in-a-report)
+  - [Understand matrixes](#understand-matrixes)
+  - [Use aggregate functions](#use-aggregate-functions)
 - [**4. Build Interactive Reports**](#4-build-interactive-reports) (6 videos)
-  - Convert filters into parameters
-  - Report parameter properties
-  - Make a dynamic report title
-  - Add a parameter manually
-  - Report actions
-  - Sort records in a table
+  - [Convert filters into parameters](#convert-filters-into-parameters)
+  - [Report parameter properties](#report-parameter-properties)
+  - [Make a dynamic report title](#make-a-dynamic-report-title)
+  - [Add a parameter manually](#add-a-parameter-manually)
+  - [Report actions](#report-actions)
+  - [Sort records in a table](#sort-records-in-a-table)
 - [**5. Create Charts**](#5-create-charts) (4 videos)
-  - Introduction to charts
-  - Create a chart
-  - Add additional data series
-  - Format charts
+  - [Introduction to charts](#introduction-to-charts)
+  - [Create a chart](#create-a-chart)
+  - [Add additional data series](#add-additional-data-series)
+  - [Format charts](#format-charts)
 - [**6. Additional Data Visualizations**](#6-additional-data-visualizations) (6 videos)
-  - Gauges
-  - Indicators
-  - Data bars
-  - Create a sparkline dataset
-  - Display a sparkline
-  - Maps
+  - [Gauges](#gauges)
+  - [Indicators](#indicators)
+  - [Data bars](#data-bars)
+  - [Create a sparkline dataset](#create-a-sparkline-dataset)
+  - [Display a sparkline](#display-a-sparkline)
+  - [Maps](#maps)
 - [**7. Improve the Presentation**](#7-improve-the-presentation) (4 videos)
-  - Include header and footer details
-  - Add graphics and logos
-  - Align page elements
-  - Insert page breaks
+  - [Include header and footer details](#include-header-and-footer-details)
+  - [Add graphics and logos](#add-graphics-and-logos)
+  - [Align page elements](#align-page-elements)
+  - [Insert page breaks](#insert-page-breaks)
 - [**8. Build a Web Portal Dashboard**](#8-build-a-web-portal-dashboard) (7 videos)
-  - Add a key performance indicator (KPI)
-  - Create a dynamic KPI
-  - Organize the web portal with folders
-  - Customize the web portal branding
-  - Create an SSRS user account
-  - Subscribe to a report
-  - Save report snapshots with historical data
+  - [Add a key performance indicator (KPI)](#add-a-key-performance-indicator-kpi)
+  - [Create a dynamic KPI](#create-a-dynamic-kpi)
+  - [Organize the web portal with folders](#organize-the-web-portal-with-folders)
+  - [Customize the web portal branding](#customize-the-web-portal-branding)
+  - [Create an SSRS user account](#create-an-ssrs-user-account)
+  - [Subscribe to a report](#subscribe-to-a-report)
+  - [Save report snapshots with historical data](#save-report-snapshots-with-historical-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Present SQL data with Reporting Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/present-sql-data-with-reporting-services?u=76281980)
@@ -132,6 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2), tql (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [adam] (1)
@@ -153,13 +154,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), database (3), [[Databases]] (2), data (2), [[SQL]] (1)
 > **Env Vars:** sql (4)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Get Started with SSRS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SQL Server Reporting Services (SSRS)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980)
@@ -216,6 +218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft SQL Server|Sql server]] (6), database (4), [[Databases]] (2), [[Windows]] (1)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (1)
@@ -276,11 +279,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), next (7), database (3), product (1), express (1)
 > **Prerequisites:** install (7), configure (4), required to (1), set up (1)
 > **Env Vars:** sql (9)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), continue (1)
 > **Cross-References:** in the next (2)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -340,11 +343,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), management (2), web (2), database (1), express (1)
 > **Env Vars:** sql (10), ssms (4), mssql (2), ssrs (1)
 > **Prerequisites:** install (8), set up (1), configure (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** scroll down (2), click on (1)
-> **Code Keywords:** interface (1)
 > **Versions:** 20.2 (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
@@ -496,10 +499,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (17), [[Microsoft SQL Server|Sql server]] (11), data (7), next (6), web (6)
 > **Env Vars:** sql (12), url (6), windows (1), https (1)
 > **CLI Commands:** make (7), find (3)
 > **Prerequisites:** configure (4), set up (2), setup (1), you'll need (1)
-> **Code Keywords:** let (2), interface (1), finally, (1), switch (1), require (1)
 > **UI Navigation:** go to (2), switch to (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (2)
@@ -564,11 +567,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[Microsoft SQL Server|Sql server]] (2), data (1), [[Microsoft]] (1), [[GitHub]] (1)
 > **Env Vars:** sql (3), mssql (3), url (1)
 > **UI Navigation:** click on (2), scroll down (1), select the (1), in the toolbar (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** install (1), you'll need (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -671,8 +674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (10), web (6), next (4), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Defender|Defender]] (2)
 > **Env Vars:** tcp (3), sql (2), url (2), ssl (1), https (1)
-> **Code Keywords:** let (3), private (1), public (1), finally, (1)
 > **Prerequisites:** set up (2), you'll need (2), setup (1)
 > **CLI Commands:** make (2)
 > **Tools:** safari (2)
@@ -751,18 +754,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), application (5), next (5), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** url (1), sql (1)
 > **Prerequisites:** install (1), set up (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [adam] (1)
 
 
 ### 2. Build Your First Report
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of a report
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980)
@@ -813,8 +816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), database (3), next (1), [[SQL]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** from. (1), interface (1)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** sql (1)
 > **Analogies:** such as (1)
@@ -980,7 +983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), from. (2), finally, (1), else. (1)
+> **Frameworks & Libraries:** data (22), database (10), [[Microsoft SQL Server|Sql server]] (6), next (5), application (4)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** right-click (2), toggle (1), dropdown (1), double-click (1)
@@ -1116,8 +1119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), database (12), application (5), [[SQL]] (2), [[Fetch]] (1)
 > **UI Navigation:** click on (4), open the (1), select the (1)
-> **Code Keywords:** interface (4), return. (1)
 > **Env Vars:** tsql (2), sql (2), ssms (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1264,8 +1267,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), next (4), database (2), web (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (6), drag and drop (1), go to (1)
-> **Code Keywords:** let (5)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [adam] (1)
@@ -1407,7 +1410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** data (11), database (5), next (3), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
 > **UI Navigation:** click on (3), select the (2), dropdown (1), toggle (1), go to (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** sql (3)
@@ -1605,7 +1608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), finally, (3), switch (3), type. (1), this, (1)
+> **Frameworks & Libraries:** data (10), next (4)
 > **CLI Commands:** make (15)
 > **UI Navigation:** select the (5), click on (2), switch to (2), double-click (1), dropdown (1)
 > **Definitions:** is a  (2)
@@ -1749,7 +1752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), interface (1), switch (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (5), power (1)
 > **UI Navigation:** click on (4), select the (4), scroll up (2), scroll down (2), dropdown (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (4)
@@ -1807,9 +1810,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), data (1)
 > **Env Vars:** pdf (6), tiff (1), xml (1), csv (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (3), function (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -1817,7 +1820,7 @@ created: 2026-04-29
 
 ### 3. Work with Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a shared data source
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980)
@@ -1946,7 +1949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), pass (1), require (1), finally, (1)
+> **Frameworks & Libraries:** data (25), database (8), [[Microsoft SQL Server|Sql server]] (5), [[Windows]] (2), [[Fetch]] (1)
 > **Env Vars:** sql (6)
 > **UI Navigation:** scroll down (3), click on (3)
 > **CLI Commands:** make (4), find (1)
@@ -2033,9 +2036,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), database (8), management (2), next (2), feature (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** switch (1), require (1)
 > **Analogies:** just like (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -2193,8 +2196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Products|Products]] (4), next (3), database (3)
 > **UI Navigation:** select the (7), click on (3), go to (2), double-click (2)
-> **Code Keywords:** let (4), switch (1), from: (1), delete (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -2296,7 +2299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1)
+> **Frameworks & Libraries:** next (3), data (2), product (1), [[Microsoft Products|Products]] (1), hit (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** drag and drop (1), checkbox (1)
 > **Speakers:** - [instructor] (1)
@@ -2428,7 +2431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), interface (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Products|Products]] (6), next (4), product (2), [[Pivot Tables]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for instance (3)
 > **UI Navigation:** select the (1), drag and drop (1)
@@ -2591,7 +2594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), interface (2), default, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), data (4), product (3), next (2), [[Transact-SQL (T-SQL)|Transact-sql]] (2)
 > **UI Navigation:** select the (7), click on (2), dropdown (1)
 > **CLI Commands:** make (5), find (4)
 > **Env Vars:** sql (4), tsql (1)
@@ -2603,7 +2606,7 @@ created: 2026-04-29
 
 ### 4. Build Interactive Reports
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Convert filters into parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980)
@@ -2736,7 +2739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), next (6), data (6), database (2), [[SQL]] (2)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** where (5), sql (2)
 > **SQL:** where (5)
@@ -2929,7 +2932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (4), case, (2), from. (1)
+> **Frameworks & Libraries:** data (7), database (5), product (3), prompt (2), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** dropdown (5), click on (3), checkbox (1), select the (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (2)
@@ -2984,7 +2987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), static (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), data (2)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Cross-References:** go back to (1)
@@ -3117,7 +3120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type, (1), switch (1), function (1), this. (1)
+> **Frameworks & Libraries:** next (6), data (5), prompt (1)
 > **UI Navigation:** click on (5), dropdown (2), select the (1), checkbox (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the next (1)
@@ -3256,7 +3259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (2), function (2), pass (2), this, (1)
+> **Frameworks & Libraries:** next (5), data (2), database (1), web (1)
 > **UI Navigation:** click on (6), go to (3), drag and drop (1), scroll up (1), select the (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** go back to (4)
@@ -3413,7 +3416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** data (10), database (1), next (1)
 > **UI Navigation:** click on (5), select the (4), go to (2)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (2)
@@ -3424,7 +3427,7 @@ created: 2026-04-29
 
 ### 5. Create Charts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/introduction-to-charts?u=76281980)
@@ -3495,8 +3498,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (2), case, (1)
 > **Analogies:** picture (1), just like (1)
 > **Speakers:** - [presenter] (1)
 
@@ -3581,7 +3584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), continue (1), switch (1), interface (1)
+> **Frameworks & Libraries:** data (10), next (3), database (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** just like (1)
@@ -3726,7 +3729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), delete (1), switch (1), from = (1)
+> **Frameworks & Libraries:** data (13), database (2), [[Fetch]] (1), product (1), business (1)
 > **UI Navigation:** click on (2), double-click (2), select the (2), go to (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (2)
@@ -3927,8 +3930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (5), [[Windows]] (1)
 > **UI Navigation:** right-click (12), select the (4), click on (1), in the menu (1), dropdown (1)
-> **Code Keywords:** let (6), finally, (3), switch (1), type. (1), else, (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **Analogies:** for example (2)
@@ -3938,7 +3941,7 @@ created: 2026-04-29
 
 ### 6. Additional Data Visualizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gauges
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980)
@@ -4121,8 +4124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), next (9), database (1), [[Windows]] (1)
 > **CLI Commands:** make (8), find (3)
-> **Code Keywords:** let (6), function (1), from. (1), continue (1)
 > **UI Navigation:** dropdown (1), click on (1), select the (1)
 > **Analogies:** for instance (1), just like (1)
 > **Cross-References:** in the next (1)
@@ -4240,7 +4243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), switch (1)
+> **Frameworks & Libraries:** data (6), traffic (3), next (1)
 > **UI Navigation:** dropdown (3), click on (2), switch to (1), checkbox (1)
 > **Versions:** 3.9 (3), 3.6 (2)
 > **CLI Commands:** find (1), make (1)
@@ -4342,7 +4345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), function (1), default. (1)
+> **Frameworks & Libraries:** data (18), next (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **Analogies:** just like (2), similar to (1)
@@ -4497,7 +4500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (3), finally, (1)
+> **Frameworks & Libraries:** data (11), next (9), database (1), [[SQL]] (1)
 > **UI Navigation:** go to (5), select the (4), click on (3), drag and drop (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -4577,9 +4580,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (1), next (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** right-click (3), click on (2)
-> **Code Keywords:** from: (1), let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -4745,9 +4748,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), next (9), database (8), [[Microsoft SQL Server|Sql server]] (6), [[Zoom]] (1)
 > **Env Vars:** sql (6), usa (2), esri (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** let (2), this. (1), from. (1), switch (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Analogies:** just like (1)
@@ -4756,7 +4759,7 @@ created: 2026-04-29
 
 ### 7. Improve the Presentation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Include header and footer details
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/include-header-and-footer-details?u=76281980)
@@ -4927,7 +4930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (3), switch (1), static (1), require (1)
+> **Frameworks & Libraries:** next (4), data (2), web (1), [[Zoom]] (1)
 > **CLI Commands:** make (10)
 > **UI Navigation:** click on (3), go to (2), select the (2), scroll down (2), drag and drop (1)
 > **Env Vars:** url (1), pdf (1)
@@ -4999,8 +5002,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), database (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (2), delete (1)
 > **Env Vars:** png (2)
 > **UI Navigation:** dropdown (2)
 > **Exercise Files:** exercise files (1)
@@ -5045,7 +5048,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -5175,16 +5177,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), data (3), web (1)
 > **UI Navigation:** go to (3), click on (2), select the (1), drag and drop (1), scroll down (1)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** let (4)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Build a Web Portal Dashboard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add a key performance indicator (KPI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-key-performance-indicator-kpi?u=76281980)
@@ -5283,8 +5285,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), database (2), web (1), next (1)
 > **Env Vars:** kpi (12), url (1)
-> **Code Keywords:** static (1), let (1), type. (1), this. (1)
 > **Definitions:** is called (1), is an  (1), in other words (1), is a  (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (1)
@@ -5395,9 +5397,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (3), hit (1)
 > **Env Vars:** kpi (7), kpi_2016 (3)
 > **UI Navigation:** scroll down (3), dropdown (1), click on (1)
-> **Code Keywords:** static (1), finally, (1), let (1)
 > **Non-Speech:** (keyboard clicking) (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -5471,7 +5473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), finally, (1), interface (1), for. (1)
+> **Frameworks & Libraries:** data (14), web (2), [[Search]] (2), next (1)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** scroll down (1), select the (1), click on (1)
 > **Cross-References:** go back to (1)
@@ -5585,7 +5587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3), switch (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[JSON]] (4), web (3), [[Metadata]] (3), functional (1), [[Search]] (1)
 > **File Paths:** colors.json (3), metadata.xml (2)
 > **Env Vars:** https (2), http (1), json (1)
 > **CLI Commands:** find (2), make (1)
@@ -5681,7 +5683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), require (2), pass (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), data (4), [[Security]] (4), database (2), [[Fetch]] (1)
 > **Env Vars:** sql (5), ssrs (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), switch to (1)
@@ -5760,8 +5762,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (2), [[Windows]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (1), ssrs (1), unc (1), pdf (1)
-> **Code Keywords:** switch (1), finally, (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **CLI Commands:** make (1)
 > **Ports:** :00 (1)
@@ -5803,14 +5805,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), business (3), [[Fetch]] (1), [[Microsoft SQL Server|Sql server]] (1), database (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980)
@@ -5841,9 +5843,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (4), [[Analytics]] (1), [[Databases]] (1), [[Automation]] (1)
 > **Env Vars:** sql (4), ssis (1)
 > **CLI Commands:** find (1), python (1), mysql (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [adam] (1)

@@ -19,7 +19,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Using%20AI%20for%20Accessible%20Design%20Workflows.md)
@@ -38,47 +38,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Leverage AI in accessible design workflow
-  - Create a roadmap to improving existing accessibility in designs
+  - [Leverage AI in accessible design workflow](#leverage-ai-in-accessible-design-workflow)
+  - [Create a roadmap to improving existing accessibility in designs](#create-a-roadmap-to-improving-existing-accessibility-in-designs)
 - [**1. Create a Community Cohort and Culture**](#1-create-a-community-cohort-and-culture) (2 videos)
-  - Train your cohort in basic accessibility principles
-  - Lead your cohort with collaborative discussions
+  - [Train your cohort in basic accessibility principles](#train-your-cohort-in-basic-accessibility-principles)
+  - [Lead your cohort with collaborative discussions](#lead-your-cohort-with-collaborative-discussions)
 - [**2. Review and Critique Existing Materials**](#2-review-and-critique-existing-materials) (8 videos)
-  - Organize accessibility testing
-  - Survey designs for audio and visual accessibility issues
-  - Evaluate designs for cognitive and inclusive obstacles
-  - Identify potential medical triggers in designs
-  - Document accessibility issues objectively
-  - Identify foci for improvement
-  - Process and organize results of investigation
-  - Organize a revision workflow
+  - [Organize accessibility testing](#organize-accessibility-testing)
+  - [Survey designs for audio and visual accessibility issues](#survey-designs-for-audio-and-visual-accessibility-issues)
+  - [Evaluate designs for cognitive and inclusive obstacles](#evaluate-designs-for-cognitive-and-inclusive-obstacles)
+  - [Identify potential medical triggers in designs](#identify-potential-medical-triggers-in-designs)
+  - [Document accessibility issues objectively](#document-accessibility-issues-objectively)
+  - [Identify foci for improvement](#identify-foci-for-improvement)
+  - [Process and organize results of investigation](#process-and-organize-results-of-investigation)
+  - [Organize a revision workflow](#organize-a-revision-workflow)
 - [**3. Create an Accessibility Style Guide**](#3-create-an-accessibility-style-guide) (9 videos)
-  - Supplement existing style guides
-  - Cohere policies into guidance on tone
-  - Document audience
-  - Implement a testing process
-  - Use AI to shortcut audio accessibility solutions
-  - Use AI to shortcut visual accessibility solutions
-  - Minimize obstacles for motor impaired audiences
-  - Avoid triggering seizures
-  - Define and implement inclusivity and avoid cognitive bandwidth overload in designs
+  - [Supplement existing style guides](#supplement-existing-style-guides)
+  - [Cohere policies into guidance on tone](#cohere-policies-into-guidance-on-tone)
+  - [Document audience](#document-audience)
+  - [Implement a testing process](#implement-a-testing-process)
+  - [Use AI to shortcut audio accessibility solutions](#use-ai-to-shortcut-audio-accessibility-solutions)
+  - [Use AI to shortcut visual accessibility solutions](#use-ai-to-shortcut-visual-accessibility-solutions)
+  - [Minimize obstacles for motor impaired audiences](#minimize-obstacles-for-motor-impaired-audiences)
+  - [Avoid triggering seizures](#avoid-triggering-seizures)
+  - [Define and implement inclusivity and avoid cognitive bandwidth overload in designs](#define-and-implement-inclusivity-and-avoid-cognitive-bandwidth-overload-in-designs)
 - [**4. Apply Your Style Guide**](#4-apply-your-style-guide) (3 videos)
-  - Implement changes in teams with content creators and designers
-  - Create templates and models
-  - Create libraries of accessible material
+  - [Implement changes in teams with content creators and designers](#implement-changes-in-teams-with-content-creators-and-designers)
+  - [Create templates and models](#create-templates-and-models)
+  - [Create libraries of accessible material](#create-libraries-of-accessible-material)
 - [**5. Promote Your Style Guide**](#5-promote-your-style-guide) (6 videos)
-  - Prepare detailed reports for tech and design
-  - Prepare high-level reports for stakeholders
-  - Create buy-in with effective presentations
-  - Share models of AI-generated solutions
-  - Provide accessible templates
-  - Generate a culture of iterative accessibility
+  - [Prepare detailed reports for tech and design](#prepare-detailed-reports-for-tech-and-design)
+  - [Prepare high-level reports for stakeholders](#prepare-high-level-reports-for-stakeholders)
+  - [Create buy-in with effective presentations](#create-buy-in-with-effective-presentations)
+  - [Share models of AI-generated solutions](#share-models-of-ai-generated-solutions)
+  - [Provide accessible templates](#provide-accessible-templates)
+  - [Generate a culture of iterative accessibility](#generate-a-culture-of-iterative-accessibility)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage AI in accessible design workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/leverage-ai-in-accessible-design-workflow?u=76281980)
@@ -97,8 +97,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Accessible Design]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
 #### Create a roadmap to improving existing accessibility in designs
@@ -170,7 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), this. (2), case, (1)
+> **Frameworks & Libraries:** ai (2), [[Accessible Design]] (1), traffic (1), [[Web Accessibility]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** wave (1), ikea (1)
 > **Analogies:** picture (1)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Create a Community Cohort and Culture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Train your cohort in basic accessibility principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/train-your-cohort-in-basic-accessibility-principles?u=76281980)
@@ -252,8 +252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), strengths (1), [[Accessible Design]] (1)
 > **Env Vars:** pour (2), adhd (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** in other words (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -289,13 +289,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), web (1)
 > **Env Vars:** wcag (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 2. Review and Critique Existing Materials
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organize accessibility testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980)
@@ -372,8 +373,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), data (2), web (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** finally, (3), let (1)
 > **Env Vars:** tray (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
@@ -431,8 +432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Search]] (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Evaluate designs for cognitive and inclusive obstacles
@@ -512,6 +513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** adhd (1), tray (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -561,9 +563,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Canva]] (2), [[Forms]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** wave (2), wcag (1)
-> **Code Keywords:** this. (1), static (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -610,9 +612,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** wcag (2)
-> **Code Keywords:** this. (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -653,6 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Forms]] (1), [[Content Management]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
 > **Definitions:** means that (1)
@@ -729,7 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), raise (2)
+> **Frameworks & Libraries:** [[Real-Time]] (5), data (2), [[Forms]] (1), [[Accountability]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -789,7 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), switch (1)
+> **Frameworks & Libraries:** ai (5)
 > **Env Vars:** wave (1), aria (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -798,7 +801,7 @@ created: 2026-04-29
 
 ### 3. Create an Accessibility Style Guide
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supplement existing style guides
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/supplement-existing-style-guides?u=76281980)
@@ -835,7 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (2)
 > **Env Vars:** nyu (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -882,7 +885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (1)
+> **Frameworks & Libraries:** ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Canva]] (1), [[Accessible Design]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -928,7 +931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [lecturer] (1)
@@ -982,9 +985,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (3), ai (2), [[Generative AI]] (2), [[Forms]] (2)
 > **Env Vars:** igt (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** interface (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1029,7 +1032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (1), [[Jetpack Compose|Compose]] (1), web (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** cspan (1)
@@ -1087,8 +1090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Accessible Design]] (2), [[Search]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** picture (3), for example (2)
-> **Code Keywords:** this. (1), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1132,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (2), hit (1), [[Accessible Design]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Avoid triggering seizures
@@ -1180,10 +1183,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3)
 > **CLI Commands:** make (5)
 > **Warnings:** warning (4), be aware (1)
 > **Env Vars:** peat (3), wcag (1)
-> **Code Keywords:** static (1), this, (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1243,7 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1), finally, (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** tray (2)
 > **Tools:** github (1)
@@ -1253,7 +1256,7 @@ created: 2026-04-29
 
 ### 4. Apply Your Style Guide
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement changes in teams with content creators and designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980)
@@ -1306,6 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (2), [[LinkedIn]] (1), teams (1), web (1), [[Mesh]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Speakers:** - [host] (1)
 
@@ -1350,8 +1354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from, (1)
 > **Env Vars:** wcag (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1399,7 +1403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), switch (2), let (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (3), feature (1), [[Google]] (1), teams (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1407,7 +1411,7 @@ created: 2026-04-29
 
 ### 5. Promote Your Style Guide
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare detailed reports for tech and design
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-detailed-reports-for-tech-and-design?u=76281980)
@@ -1505,7 +1509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), case, (1)
+> **Frameworks & Libraries:** data (8), [[ChatGPT]] (7), ai (6), next (2)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
@@ -1563,6 +1567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Accessible Design]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [host] (1)
@@ -1624,9 +1629,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[ChatGPT]] (2), web (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** tray (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -1659,6 +1664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Accessible Design]] (1), [[Forms]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (2)
@@ -1735,9 +1741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** wcag (2)
-> **Code Keywords:** this. (1)
 > **Versions:** 3.1 (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1745,7 +1751,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980)
@@ -1766,6 +1772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Accessible Design]] (2), ai (1)
 > **Speakers:** - congratulations (1)
 
 

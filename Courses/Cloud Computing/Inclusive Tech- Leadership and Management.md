@@ -33,7 +33,7 @@ tags:
   - skill/diversity-and-inclusion
   - skill/technology-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Inclusive%20Tech-%20Leadership%20and%20Management.md)
@@ -52,25 +52,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why inclusivity matters in a tech team
+  - [Why inclusivity matters in a tech team](#why-inclusivity-matters-in-a-tech-team)
 - [**1. What Qualities Do Organizations Look for in a Leader?**](#1-what-qualities-do-organizations-look-for-in-a-leader) (7 videos)
-  - Help make you a multidimensional leader
-  - Bring out the entrepreneur in you
-  - Helps you build trust and overcome unforeseen challenges
-  - Build your confidence as you manage expectations
-  - Build your empathy as you nurture new leaders
-  - Help you create a more attractive workplace
-  - Champion diversity and inclusivity
+  - [Help make you a multidimensional leader](#help-make-you-a-multidimensional-leader)
+  - [Bring out the entrepreneur in you](#bring-out-the-entrepreneur-in-you)
+  - [Helps you build trust and overcome unforeseen challenges](#helps-you-build-trust-and-overcome-unforeseen-challenges)
+  - [Build your confidence as you manage expectations](#build-your-confidence-as-you-manage-expectations)
+  - [Build your empathy as you nurture new leaders](#build-your-empathy-as-you-nurture-new-leaders)
+  - [Help you create a more attractive workplace](#help-you-create-a-more-attractive-workplace)
+  - [Champion diversity and inclusivity](#champion-diversity-and-inclusivity)
 - [**2. The Challenge of Inclusivity**](#2-the-challenge-of-inclusivity) (3 videos)
-  - Inclusivity and the recruitment process
-  - Inclusivity and the interview process
-  - Inclusivity and the promotion process
+  - [Inclusivity and the recruitment process](#inclusivity-and-the-recruitment-process)
+  - [Inclusivity and the interview process](#inclusivity-and-the-interview-process)
+  - [Inclusivity and the promotion process](#inclusivity-and-the-promotion-process)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps for inclusive leadership
+  - [Next steps for inclusive leadership](#next-steps-for-inclusive-leadership)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why inclusivity matters in a tech team
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980)
@@ -149,6 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), feature (1), product (1), [[Customer Analysis]] (1)
 > **CLI Commands:** make (7), find (3)
 > **Definitions:** is a  (2), in other words (2), is called (1)
 > **Analogies:** imagine (1), just like (1)
@@ -157,7 +158,7 @@ created: 2026-04-29
 
 ### 1. What Qualities Do Organizations Look for in a Leader?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Help make you a multidimensional leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980)
@@ -252,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), product (4), [[Google]] (3), teams (2), business (2)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -350,8 +351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (5), business (2), career (1), [[Entrepreneurship]] (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -460,7 +461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), protected (1)
+> **Frameworks & Libraries:** product (5), [[Security]] (5), [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (4), teams (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -563,9 +564,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Inclusive Leadership]] (5), leadership (3), management (1), business (1), next (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is an  (2), is a  (1), in other words (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - a (1)
 
 #### Build your empathy as you nurture new leaders
@@ -675,9 +676,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), leadership (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (5), in other words (1)
-> **Code Keywords:** new, (3), case, (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)
 
@@ -780,9 +781,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Human Resources (HR)|Human resources]] (1), teams (1), [[Microsoft Office|Office]] (1), hit (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), basically means (1), in other words (1)
-> **Code Keywords:** this, (1), let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Champion diversity and inclusivity
@@ -878,8 +879,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Human Resources (HR)|Human resources]] (1), product (1)
 > **CLI Commands:** make (6), find (2)
-> **Code Keywords:** let (6)
 > **Definitions:** in other words (1), is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
@@ -887,7 +888,7 @@ created: 2026-04-29
 
 ### 2. The Challenge of Inclusivity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusivity and the recruitment process
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980)
@@ -980,9 +981,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1), product (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** in other words (3), means that (1)
-> **Code Keywords:** let (1), self (1), for. (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** nasdaq (1)
 > **Cross-References:** in the last (1)
@@ -1097,6 +1098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), hit (1), management (1), [[Interviewing]] (1)
 > **Definitions:** is a  (3), is an  (2), in other words (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** svp (1)
@@ -1193,16 +1195,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Programming]] (1), business (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** in other words (3), is a  (1)
-> **Code Keywords:** let (1), else, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for inclusive leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/next-steps-for-inclusive-leadership?u=76281980)
@@ -1253,8 +1255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1), career (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), for, (1)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [nishant] (1)

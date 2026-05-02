@@ -30,7 +30,7 @@ tags:
   - skill/program-design
   - skill/data-governance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Designing%20Data%20Governance.md)
@@ -49,32 +49,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building a data-driven culture
+  - [Building a data-driven culture](#building-a-data-driven-culture)
 - [**1. Find Your Data Framework**](#1-find-your-data-framework) (3 videos)
-  - Clarifying your company's mission statement
-  - Writing your data governance mission statement
-  - What are frameworks, and how can they help data governance?
+  - [Clarifying your company's mission statement](#clarifying-your-companys-mission-statement)
+  - [Writing your data governance mission statement](#writing-your-data-governance-mission-statement)
+  - [What are frameworks, and how can they help data governance?](#what-are-frameworks-and-how-can-they-help-data-governance)
 - [**2. Select Data Stewards**](#2-select-data-stewards) (4 videos)
-  - What are data stewards?
-  - Key tasks that data stewards perform
-  - Differences between business and technical data stewards
-  - Motivating data stewards to help
+  - [What are data stewards?](#what-are-data-stewards)
+  - [Key tasks that data stewards perform](#key-tasks-that-data-stewards-perform)
+  - [Differences between business and technical data stewards](#differences-between-business-and-technical-data-stewards)
+  - [Motivating data stewards to help](#motivating-data-stewards-to-help)
 - [**3. Build Your Data Governance Council**](#3-build-your-data-governance-council) (4 videos)
-  - What is a data governance council?
-  - Finding an effective sponsor for data governance council
-  - Convincing colleagues to join your data governance council
-  - Prioritizing actions for your data governance council
+  - [What is a data governance council?](#what-is-a-data-governance-council)
+  - [Finding an effective sponsor for data governance council](#finding-an-effective-sponsor-for-data-governance-council)
+  - [Convincing colleagues to join your data governance council](#convincing-colleagues-to-join-your-data-governance-council)
+  - [Prioritizing actions for your data governance council](#prioritizing-actions-for-your-data-governance-council)
 - [**4. Tackle Your First Data Governance Tasks**](#4-tackle-your-first-data-governance-tasks) (4 videos)
-  - Defining data domains
-  - Data dictionaries
-  - Writing data dictionaries
-  - Prioritizing projects for your data governance council
+  - [Defining data domains](#defining-data-domains)
+  - [Data dictionaries](#data-dictionaries)
+  - [Writing data dictionaries](#writing-data-dictionaries)
+  - [Prioritizing projects for your data governance council](#prioritizing-projects-for-your-data-governance-council)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a data-driven culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980)
@@ -97,12 +97,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (7), business (4), [[Big Data]] (1)
 
 
 ### 1. Find Your Data Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Clarifying your company's mission statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980)
@@ -153,8 +153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), business (4), [[Big Data]] (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### Writing your data governance mission statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/writing-your-data-governance-mission-statement?u=76281980)
@@ -233,7 +233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (35), business (4), [[Zoom]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), teams (1)
 > **CLI Commands:** make (1)
 
 #### What are frameworks, and how can they help data governance?
@@ -299,16 +299,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Security]] (4), next (2), business (2), [[Statistics]] (2)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ciso (1)
 > **Definitions:** is a  (1)
 
 
 ### 2. Select Data Stewards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are data stewards?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980)
@@ -379,7 +379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), public (1)
+> **Frameworks & Libraries:** data (35), database (6), business (4), [[Microsoft Products|Products]] (2), product (1)
 > **Env Vars:** bmw (2), cto (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -451,8 +451,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), [[Metadata]] (4), database (3), business (2), product (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** for. (1)
 > **Analogies:** for example (1)
 
 #### Differences between business and technical data stewards
@@ -492,6 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), business (4), [[Metadata]] (4), database (2), [[Data Classification]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Documentation:** the documentation (1)
@@ -559,6 +560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), business (3), functional (1), [[Engineering]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
@@ -566,7 +568,7 @@ created: 2026-04-29
 
 ### 3. Build Your Data Governance Council
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a data governance council?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-is-a-data-governance-council?u=76281980)
@@ -603,9 +605,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), business (2), power (1), next (1), management (1)
 > **Prerequisites:** you'll need (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** later in (1)
 > **Warnings:** be aware (1)
 
@@ -658,9 +660,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), business (2), power (1), [[Security]] (1)
 > **Env Vars:** cio (2), ceo (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 
 #### Convincing colleagues to join your data governance council
@@ -718,8 +720,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), business (3), [[Big Data]] (1), ai (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Versions:** 37.8 (1)
 > **Cross-References:** earlier in (1)
 
@@ -782,6 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), business (2), leadership (2), [[Google]] (1), [[Analytics]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** cio (1)
 > **Versions:** 48.5 (1)
@@ -791,7 +794,7 @@ created: 2026-04-29
 
 ### 4. Tackle Your First Data Governance Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980)
@@ -856,9 +859,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (41), business (4), [[Human Resources (HR)|Human resources]] (1), hr (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 
@@ -909,7 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1)
+> **Frameworks & Libraries:** data (27), business (3), teams (2), [[Metadata]] (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 
@@ -958,8 +961,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), database (4), [[Databases]] (2), [[Analytics]] (1), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Prerequisites:** you'll need (1)
 
 #### Prioritizing projects for your data governance council
@@ -1029,16 +1032,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), business (4), next (1), [[Data Architecture]] (1), [[Data Engineering]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** else. (1)
 > **Warnings:** note that (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980)
@@ -1075,7 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (10), teams (1), [[LinkedIn]] (1), next (1), feature (1)
 > **Env Vars:** cdo (1)
 > **Cross-References:** we discussed (1)
 

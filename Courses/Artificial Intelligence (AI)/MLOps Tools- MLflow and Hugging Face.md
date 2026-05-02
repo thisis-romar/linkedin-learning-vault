@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/hugging-face-products
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/MLOps%20Tools-%20MLflow%20and%20Hugging%20Face.md)
@@ -56,73 +56,73 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - MLOps platforms introduction
+  - [MLOps platforms introduction](#mlops-platforms-introduction)
 - [**1. Introduction to MLflow**](#1-introduction-to-mlflow) (4 videos)
-  - Overview of MLflow
-  - Installing and using MLflow
-  - Introduction to the tracking UI
-  - Parameters, version, artifacts, and metrics
+  - [Overview of MLflow](#overview-of-mlflow)
+  - [Installing and using MLflow](#installing-and-using-mlflow)
+  - [Introduction to the tracking UI](#introduction-to-the-tracking-ui)
+  - [Parameters, version, artifacts, and metrics](#parameters-version-artifacts-and-metrics)
 - [**2. MLflow Projects**](#2-mlflow-projects) (4 videos)
-  - Working with MLflow projects
-  - Create an MLflow project
-  - Run projects from remote Git repositories
-  - Connecting MLflow to Databricks
+  - [Working with MLflow projects](#working-with-mlflow-projects)
+  - [Create an MLflow project](#create-an-mlflow-project)
+  - [Run projects from remote Git repositories](#run-projects-from-remote-git-repositories)
+  - [Connecting MLflow to Databricks](#connecting-mlflow-to-databricks)
 - [**3. MLflow Models**](#3-mlflow-models) (4 videos)
-  - Components of the MLflow package
-  - Use a registry with an MLflow model
-  - Referencing artifacts with the API
-  - Saving and serving MLflow models
+  - [Components of the MLflow package](#components-of-the-mlflow-package)
+  - [Use a registry with an MLflow model](#use-a-registry-with-an-mlflow-model)
+  - [Referencing artifacts with the API](#referencing-artifacts-with-the-api)
+  - [Saving and serving MLflow models](#saving-and-serving-mlflow-models)
 - [**4. Introduction to Hugging Face**](#4-introduction-to-hugging-face) (5 videos)
-  - What is Hugging Face?
-  - Overview of the Hugging Face Hub
-  - Introduction to the Hugging Face Hub
-  - Using Hugging Face repositories
-  - Using Hugging Face Spaces
+  - [What is Hugging Face?](#what-is-hugging-face)
+  - [Overview of the Hugging Face Hub](#overview-of-the-hugging-face-hub)
+  - [Introduction to the Hugging Face Hub](#introduction-to-the-hugging-face-hub)
+  - [Using Hugging Face repositories](#using-hugging-face-repositories)
+  - [Using Hugging Face Spaces](#using-hugging-face-spaces)
 - [**5. Introduction to Applied Hugging Face**](#5-introduction-to-applied-hugging-face) (3 videos)
-  - Introduction to applied Hugging Face
-  - Using GPU-enabled Codespaces
-  - Using the Hugging Face CLI
+  - [Introduction to applied Hugging Face](#introduction-to-applied-hugging-face)
+  - [Using GPU-enabled Codespaces](#using-gpu-enabled-codespaces)
+  - [Using the Hugging Face CLI](#using-the-hugging-face-cli)
 - [**6. Using Hugging Face**](#6-using-hugging-face) (6 videos)
-  - Using the Model Hub
-  - Downloading models
-  - Working with models
-  - Adding datasets
-  - Using datasets
-  - Working with datasets
+  - [Using the Model Hub](#using-the-model-hub)
+  - [Downloading models](#downloading-models)
+  - [Working with models](#working-with-models)
+  - [Adding datasets](#adding-datasets)
+  - [Using datasets](#using-datasets)
+  - [Working with datasets](#working-with-datasets)
 - [**7. Packaging Hugging Face**](#7-packaging-hugging-face) (4 videos)
-  - Hugging Face and FastAPI
-  - Containerizing Hugging Face
-  - Running FastAPI with Hugging Face
-  - CI/CD packaging with GitHub Actions
+  - [Hugging Face and FastAPI](#hugging-face-and-fastapi)
+  - [Containerizing Hugging Face](#containerizing-hugging-face)
+  - [Running FastAPI with Hugging Face](#running-fastapi-with-hugging-face)
+  - [CI/CD packaging with GitHub Actions](#cicd-packaging-with-github-actions)
 - [**8. Hugging Face and Azure ML Studio**](#8-hugging-face-and-azure-ml-studio) (5 videos)
-  - Hugging Face and Azure ML Studio
-  - Registering a Hugging Face dataset on Azure
-  - Registering a Hugging Face model on Azure
-  - Inspecting a Hugging Face dataset on Azure
-  - Azure ML Python SDK
+  - [Hugging Face and Azure ML Studio](#hugging-face-and-azure-ml-studio)
+  - [Registering a Hugging Face dataset on Azure](#registering-a-hugging-face-dataset-on-azure)
+  - [Registering a Hugging Face model on Azure](#registering-a-hugging-face-model-on-azure)
+  - [Inspecting a Hugging Face dataset on Azure](#inspecting-a-hugging-face-dataset-on-azure)
+  - [Azure ML Python SDK](#azure-ml-python-sdk)
 - [**9. Hugging Face Automation**](#9-hugging-face-automation) (4 videos)
-  - Using GitHub Actions for model deployments
-  - Using Azure Container Registry
-  - Automating packaging with Azure Container Registry
-  - Automating packaging Docker Hub
+  - [Using GitHub Actions for model deployments](#using-github-actions-for-model-deployments)
+  - [Using Azure Container Registry](#using-azure-container-registry)
+  - [Automating packaging with Azure Container Registry](#automating-packaging-with-azure-container-registry)
+  - [Automating packaging Docker Hub](#automating-packaging-docker-hub)
 - [**10. Hugging Face with Azure Containers**](#10-hugging-face-with-azure-containers) (4 videos)
-  - Create an Azure container application
-  - Configure an Azure container application
-  - Deploy Hugging Face to Azure
-  - Troubleshooting container deployment
+  - [Create an Azure container application](#create-an-azure-container-application)
+  - [Configure an Azure container application](#configure-an-azure-container-application)
+  - [Deploy Hugging Face to Azure](#deploy-hugging-face-to-azure)
+  - [Troubleshooting container deployment](#troubleshooting-container-deployment)
 - [**11. Fine-Tuning and ONNX Exporting**](#11-fine-tuning-and-onnx-exporting) (4 videos)
-  - Introduction to fine-tuning theory
-  - Performing fine-tuning
-  - Introduction to ONNX and Hugging Face
-  - Exporting Hugging Face models to ONNX
+  - [Introduction to fine-tuning theory](#introduction-to-fine-tuning-theory)
+  - [Performing fine-tuning](#performing-fine-tuning)
+  - [Introduction to ONNX and Hugging Face](#introduction-to-onnx-and-hugging-face)
+  - [Exporting Hugging Face models to ONNX](#exporting-hugging-face-models-to-onnx)
 - [**12. Hugging Face Spaces**](#12-hugging-face-spaces) (3 videos)
-  - Introduction to Hugging Face Spaces
-  - Hugging Face Spaces walkthrough
-  - Deploying to Hugging Face Spaces
+  - [Introduction to Hugging Face Spaces](#introduction-to-hugging-face-spaces)
+  - [Hugging Face Spaces walkthrough](#hugging-face-spaces-walkthrough)
+  - [Deploying to Hugging Face Spaces](#deploying-to-hugging-face-spaces)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MLOps platforms introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980)
@@ -165,7 +165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), from, (1), for, (1), let (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), cloud (3), [[MLOps]] (2), [[Microsoft Azure|Azure]] (2), [[TensorFlow]] (2)
 > **Env Vars:** gcp (1), aws (1), gpu (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** aws (1)
@@ -174,7 +174,7 @@ created: 2026-04-29
 
 ### 1. Introduction to MLflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of MLflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980)
@@ -249,11 +249,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLflow]] (3), [[Version Control]] (2), [[Python (Programming Language)|Python]] (2), product (1), next (1)
 > **CLI Commands:** python (2), make (2)
 > **Versions:** 0.1 (2), version 19 (1)
 > **Definitions:** stands for (1), is a  (1), means that (1)
 > **Analogies:** kind of like (2), for example (1)
-> **Code Keywords:** finally, (1), case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Installing and using MLflow
@@ -381,7 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), else. (1), case, (1), return. (1), interface (1)
+> **Frameworks & Libraries:** [[MLflow]] (12), [[Python (Programming Language)|Python]] (5), web (1), [[Metadata]] (1)
 > **CLI Commands:** python (5), pip (3), make (1)
 > **Code Identifiers:** log_artifact (2), log_metric (1), log_param (1), if_name (1)
 > **Analogies:** for example (5)
@@ -601,8 +601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLflow]] (10), [[Python (Programming Language)|Python]] (2), hit (1), [[SQL]] (1)
 > **Env Vars:** cpu (12), ram (4), mlflow (1), experiment (1), sql (1)
-> **Code Keywords:** let (10), new. (1), this. (1), this, (1)
 > **Cross-References:** go back to (6)
 > **CLI Commands:** python (2), make (2), ls (1)
 > **Analogies:** kind of like (3), for example (1), imagine (1)
@@ -829,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (1), interface (1), case, (1), override (1)
+> **Frameworks & Libraries:** [[MLflow]] (8), data (3), [[Pandas (Software)|Pandas]] (3), [[Fetch]] (2), [[Python (Programming Language)|Python]] (2)
 > **Versions:** 5.0 (2), 2.4 (2), 0.5 (1), 0.1 (1), 0.85 (1)
 > **File Paths:** train.py (3), example.py (1), con.yaml (1)
 > **CLI Commands:** make (3), python (2)
@@ -841,7 +841,7 @@ created: 2026-04-29
 
 ### 2. MLflow Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with MLflow projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980)
@@ -938,8 +938,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Azure|Azure]] (4), [[MLflow]] (2), data (2), next (1)
 > **Env Vars:** yaml (5), csv (3)
-> **Code Keywords:** let (3), case, (3), this, (1)
 > **CLI Commands:** python (6)
 > **Definitions:** is a  (4)
 > **Analogies:** kind of like (3), similar to (1)
@@ -1122,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (6), this. (1), require (1), default, (1)
+> **Frameworks & Libraries:** [[MLflow]] (11), [[Python (Programming Language)|Python]] (5), [[GitHub]] (1), data (1), [[PyTorch]] (1)
 > **File Paths:** carriage.csv (7), conda_env.yaml (3), validate.py (3), fake.csv (2), wine.ratings.csv (1)
 > **CLI Commands:** python (5), pip (4), make (2)
 > **Code Identifiers:** max_errors (4), conda_env (3), max_error (1)
@@ -1202,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (3), this. (2)
+> **Frameworks & Libraries:** [[MLflow]] (9), [[GitHub]] (3), [[Fetch]] (2), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (3), terminal (2)
 > **Versions:** 0.5 (2), 0.1 (2)
 > **Env Vars:** url (2), ssh (1)
@@ -1308,7 +1308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), case. (1), case, (1)
+> **Frameworks & Libraries:** [[MLflow]] (15), [[Microsoft Azure|Azure]] (8), [[Representational State Transfer (REST)|Rest]] (2), api (2), next (2)
 > **Env Vars:** uri (5), api (2)
 > **Documentation:** the docs (2), the documentation (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1320,7 +1320,7 @@ created: 2026-04-29
 
 ### 3. MLflow Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of the MLflow package
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980)
@@ -1435,8 +1435,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[MLflow]] (9), next (3), data (1), [[Hugging Face]] (1)
 > **CLI Commands:** python (14), find (2)
-> **Code Keywords:** let (6), function (4), from, (1), case, (1), this. (1)
 > **Code Identifiers:** python_model (1), cloudpickle_version (1), mlflow_version (1), run_id (1), python_env (1)
 > **Env Vars:** yaml (4), onnx (1), uuid (1)
 > **File Paths:** conda.yaml (3), python_env.yaml (1)
@@ -1541,7 +1541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), this, (1)
+> **Frameworks & Libraries:** [[MLflow]] (6), feature (2), api (2), cloud (1), database (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2), dsdk (1)
 > **Code Identifiers:** log_model (1), run_id (1)
@@ -1697,7 +1697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (4), this, (3), delete (2), while. (1)
+> **Frameworks & Libraries:** [[MLflow]] (3), api (3), [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (3), web (2)
 > **Env Vars:** uri (8), api (3), onnx (2)
 > **CLI Commands:** python (3), make (3)
 > **Versions:** version 1 (6)
@@ -1841,8 +1841,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), api (2), data (1), [[Automation]] (1)
 > **CLI Commands:** curl (4), find (3), python (2), make (2)
-> **Code Keywords:** let (4), class, (1), class. (1), case, (1), this, (1)
 > **Analogies:** kind of like (5), for example (2)
 > **Ports:** port 5 (5)
 > **Env Vars:** api (2), uri (2), url (1)
@@ -1853,7 +1853,7 @@ created: 2026-04-29
 
 ### 4. Introduction to Hugging Face
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Hugging Face?
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980)
@@ -1938,7 +1938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this, (2), this. (1), return, (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (9), [[Python (Programming Language)|Python]] (4), [[GitHub]] (2), [[Search]] (2), api (2)
 > **Env Vars:** gpt (4), api (2), pip (1)
 > **CLI Commands:** python (4), pip (1)
 > **Analogies:** kind of like (1), just like (1), for example (1), it's like (1)
@@ -2042,7 +2042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), public (1), private (1), continue (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (6), [[GitHub]] (6), data (4), [[Git]] (4), [[Google]] (3)
 > **Tools:** github (6), command line (2)
 > **Env Vars:** lfs (4), mit (2), cli (1)
 > **CLI Commands:** git (4), make (1)
@@ -2152,9 +2152,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (8), data (8), application (3), [[Speech Recognition]] (3), next (2)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** case, (1), finally, (1), static (1)
 > **Env Vars:** api (2)
 > **Tools:** github (1), terminal (1)
 > **Analogies:** for example (2)
@@ -2350,7 +2350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (3), this. (2), module (1), delete (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), next (3), [[Hugging Face|Huggingface]] (3), [[CLI]] (3), [[Git]] (3)
 > **CLI Commands:** git (3), make (3)
 > **Env Vars:** url (2), readme (2), cli (1), lfs (1)
 > **Tools:** terminal (4), command line (1)
@@ -2620,7 +2620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), interface (4), public (3), this, (3), function (3)
+> **Frameworks & Libraries:** application (10), [[Hugging Face]] (3), next (3), [[TensorFlow]] (2), [[MLOps]] (2)
 > **File Paths:** app.py (5), requirements.txt (5)
 > **CLI Commands:** make (5), docker (2), python (1)
 > **Env Vars:** mit (1), sdk (1), readme (1), cpu (1), css (1)
@@ -2632,7 +2632,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Applied Hugging Face
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to applied Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980)
@@ -2657,7 +2657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), data (3), [[Microsoft Products|Products]] (2), [[GitHub]] (2), [[Codespaces]] (2)
 > **Env Vars:** gpu (2)
 > **Tools:** github (2)
 > **Cross-References:** later in (1)
@@ -2775,8 +2775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face|Huggingface]] (5), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), power (2), [[Speech Recognition]] (2)
 > **Env Vars:** gpu (15), nvidia (3), cuda (2), gcc (1), cpu (1)
-> **Code Keywords:** let (8), this, (2), public (1), type, (1), case, (1)
 > **Prerequisites:** set up (4), install (3), configure (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** python (3), docker (1), make (1)
@@ -2831,7 +2831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), pass (1), this. (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), [[CLI]] (2), [[Tokens]] (2), next (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** cli (2)
 > **Tools:** command line (2)
@@ -2843,7 +2843,7 @@ created: 2026-04-29
 
 ### 6. Using Hugging Face
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Model Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980)
@@ -2984,7 +2984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (2), for. (1), class, (1)
+> **Frameworks & Libraries:** data (9), [[Hugging Face]] (5), [[Python (Programming Language)|Python]] (3), next (2), [[GitHub]] (2)
 > **Analogies:** kind of like (4), for example (4), just like (2)
 > **Env Vars:** api (2), cpu (1), lfs (1), readme (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -3166,7 +3166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (4), case, (2), pass (1), for, (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (11), [[Git]] (6), [[Python (Programming Language)|Python]] (2), [[MLflow]] (2), [[TensorFlow]] (1)
 > **Code Identifiers:** tf_model (6), repo_id (3), hf_hub_download (1), pytorch_model (1)
 > **Env Vars:** model (4), url (4), lfs (2)
 > **CLI Commands:** git (6), python (2), make (1)
@@ -3332,7 +3332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (6), this, (4), case, (4), default, (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (12), [[Python (Programming Language)|Python]] (6), [[GitHub]] (3), [[Programming]] (3), web (2)
 > **CLI Commands:** python (6), make (1), unzip (1)
 > **Tools:** command line (4), github (3)
 > **Env Vars:** gpu (4), api (1), gpu2 (1)
@@ -3502,7 +3502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), require (1), this, (1), this. (1), from, (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Git]] (2), api (2), data (2), [[Fetch]] (2)
 > **CLI Commands:** make (4), git (2), apache (1), curl (1)
 > **Env Vars:** csv (4), api (2), readme (1), cli (1)
 > **Code Identifiers:** as_pandas (2), test_dataset (2), load_dataset (1), to_pandas (1)
@@ -3740,7 +3740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), super (3), this. (2), case. (1), continue (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), data (5), [[Git]] (2), [[JSON]] (1), api (1)
 > **Env Vars:** csv (5), lfs (4), json (1), api (1), url (1)
 > **Code Identifiers:** wine_ratings (4), downloaded_file (1), downloaded_urls (1), dataset_info (1), test_dataset (1)
 > **Tools:** command line (2), jupyter (2), terminal (1), github (1)
@@ -3858,7 +3858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (3), case, (2), super (1), this, (1)
+> **Frameworks & Libraries:** data (10), [[Hugging Face]] (4), api (2), next (2), power (1)
 > **UI Navigation:** go to (10)
 > **CLI Commands:** curl (3), make (1), find (1), python (1)
 > **Analogies:** for example (4)
@@ -3870,7 +3870,7 @@ created: 2026-04-29
 
 ### 7. Packaging Hugging Face
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hugging Face and FastAPI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980)
@@ -3941,8 +3941,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face|Huggingface]] (4), api (4), [[HTML]] (4), web (2), [[JSON]] (2)
 > **Env Vars:** api (4), html (4), gpt2 (2), json (2), http (1)
-> **Code Keywords:** let (3), super (1), case, (1), for, (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** main.py (1)
@@ -4007,8 +4007,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Hugging Face|Huggingface]] (4), web application (3), next (3), application (1)
 > **CLI Commands:** python (6), docker (5), find (2), make (1)
-> **Code Keywords:** let (2), finally, (2)
 > **Versions:** python 3 (4)
 > **Prerequisites:** install (1), configure (1)
 > **File Paths:** main.py (1)
@@ -4183,8 +4183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Hugging Face]] (3), api (2), [[Hugging Face|Huggingface]] (2), [[MLOps]] (2)
 > **CLI Commands:** make (10), docker (8), python3 (1), pip (1), python (1)
-> **Code Keywords:** let (5), this. (3), module (2), case, (2), self (1)
 > **Ports:** port 8000 (5)
 > **Env Vars:** api (2), gpt2 (1)
 > **Tools:** terminal (3)
@@ -4369,8 +4369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Automation]] (3), next (3), [[Microsoft Azure|Azure]] (2), ci (2)
 > **CLI Commands:** docker (8), make (4), aws (1)
-> **Code Keywords:** let (6), this. (3), private (1), finally, (1)
 > **Tools:** github (8)
 > **UI Navigation:** click on (2), go to (2), open the (1)
 > **Code Identifiers:** workflow_dispatch (3), pull_request (1)
@@ -4381,7 +4381,7 @@ created: 2026-04-29
 
 ### 8. Hugging Face and Azure ML Studio
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hugging Face and Azure ML Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980)
@@ -4488,7 +4488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), while. (1), finally, (1), new, (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Azure|Azure]] (8), [[Hugging Face]] (4), next (3), web (3)
 > **UI Navigation:** go to (5), select the (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** url (1), sdk (1)
@@ -4684,8 +4684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (7), next (6), [[Hugging Face]] (4), [[Pandas (Software)|Pandas]] (4)
 > **CLI Commands:** make (4), pip (2), python (1)
-> **Code Keywords:** let (3), from, (1), this, (1), if, (1), this. (1)
 > **Env Vars:** pip (2), utf (1), cli (1), api (1)
 > **Definitions:** is a  (2), stands for (1), means that (1)
 > **UI Navigation:** go to (2), select the (1)
@@ -4816,8 +4816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[PyTorch]] (4), [[Hugging Face]] (3), [[Metadata]] (2), data (2)
 > **Env Vars:** gpt (7), sdk (2), api (1), cli (1), csv (1)
-> **Code Keywords:** let (3), this, (2), this. (1), type, (1)
 > **CLI Commands:** find (2), python (2), git (1)
 > **Versions:** 3.8 (1), 486.75 (1)
 > **File Paths:** config.json (1)
@@ -4870,8 +4870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Hugging Face]] (2), [[Microsoft Azure|Azure]] (1), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** interface (1), override (1)
 > **Env Vars:** sdk (2)
 > **Analogies:** kind of like (1), picture (1)
 > **UI Navigation:** go to (1)
@@ -4980,10 +4980,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (3), cloud (3), data (2)
 > **Env Vars:** sdk (4), url (1)
 > **Definitions:** is a  (2), stands for (1), known as (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (1), delete (1), case, (1)
 > **Analogies:** kind of like (3)
 > **Cross-References:** coming up (1)
 > **Documentation:** the docs (1)
@@ -4992,7 +4992,7 @@ created: 2026-04-29
 
 ### 9. Hugging Face Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using GitHub Actions for model deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980)
@@ -5109,9 +5109,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (10), [[Microsoft Azure|Azure]] (9), [[Hugging Face|Huggingface]] (2), web application (2), next (2)
 > **CLI Commands:** docker (8), make (4)
 > **Tools:** github (10)
-> **Code Keywords:** let (7), case, (2)
 > **Definitions:** is a  (4), is called (1), means that (1)
 > **Analogies:** similar to (1), kind of like (1), for example (1)
 > **Env Vars:** gpt (1), cli (1)
@@ -5189,7 +5189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), this. (2), let (2), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6)
 > **CLI Commands:** make (4)
 > **UI Navigation:** select the (1), go to (1)
 > **Env Vars:** sku (1)
@@ -5404,7 +5404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (1), interface (1), this. (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[GitHub]] (5), next (2), [[Automation]] (2), web (1)
 > **Env Vars:** acr (8), yaml (1), yam (1), sha (1)
 > **CLI Commands:** make (4), docker (3)
 > **UI Navigation:** go to (5), open the (1)
@@ -5530,10 +5530,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Hugging Face|Huggingface]] (2), [[Tokens]] (2), [[Security]] (1), ci (1)
 > **CLI Commands:** docker (13), make (3)
 > **UI Navigation:** go to (8), click on (6), scroll down (1)
 > **Tools:** github (8)
-> **Code Keywords:** let (2), case, (2), this. (2), delete (1)
 > **Cross-References:** go back to (3), coming up (1)
 > **Env Vars:** yaml (1), docker_hub_access_token (1), docker_hub_username (1)
 > **URLs:** [docker.com](https://docker.com) (2)
@@ -5542,7 +5542,7 @@ created: 2026-04-29
 
 ### 10. Hugging Face with Azure Containers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an Azure container application
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980)
@@ -5655,7 +5655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), else. (1), this, (1), pass (1), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Hugging Face]] (3), application (3), [[Automation]] (1), traffic (1)
 > **CLI Commands:** make (3), docker (1)
 > **Ports:** port 8 (3)
 > **Env Vars:** url (1), http (1)
@@ -5759,7 +5759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), this, (1), from, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), application (3), traffic (2), next (2), [[GitHub]] (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** ssl (1), cpu (1), ram (1), api (1)
 > **Ports:** port 8000 (2)
@@ -6011,9 +6011,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (26), [[GitHub]] (10), application (6), [[Hugging Face]] (4), cloud (4)
 > **CLI Commands:** make (8), docker (6), find (1), az (1), curl (1)
 > **Env Vars:** sha (4), cli (2), ram (2), pat (1), json (1)
-> **Code Keywords:** let (7), this. (2), this, (1), case, (1), pass (1)
 > **Tools:** github (10), terminal (2), command line (2)
 > **URLs:** [azurecr.io](https://azurecr.io) (4), [demoalfredoazurecr.io](https://demoalfredoazurecr.io) (1), [azurecontainerapps.io](https://azurecontainerapps.io) (1)
 > **UI Navigation:** go to (5)
@@ -6125,7 +6125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (1), this, (1), while. (1), catch. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Automation]] (1), [[GitHub]] (1)
 > **Ports:** port 8000 (3), port 80 (2)
 > **CLI Commands:** make (3), docker (1)
 > **UI Navigation:** click on (3)
@@ -6137,7 +6137,7 @@ created: 2026-04-29
 
 ### 11. Fine-Tuning and ONNX Exporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to fine-tuning theory
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-fine-tuning-theory?u=76281980)
@@ -6178,8 +6178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), nlp (2), [[Hugging Face]] (2)
 > **Env Vars:** head (3), nlp (2)
-> **Code Keywords:** let (2), case, (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **API Endpoints:** head  (1)
@@ -6326,7 +6326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), function (2), this, (2), type. (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (9), data (7), next (5), [[Hugging Face]] (4), [[Hardware]] (2)
 > **Env Vars:** gpu (7), cpu (4), v100 (1)
 > **Tools:** colab (6), github (2)
 > **Cross-References:** go back to (3)
@@ -6492,7 +6492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (2), this, (2), module (2), from, (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (7), [[PyTorch]] (4), [[GitHub]] (4), [[Python (Programming Language)|Python]] (2), cloud (1)
 > **Code Identifiers:** roberta (8)
 > **Env Vars:** yml (2), gpt (2), bart (1), bert (1), lfs (1)
 > **Prerequisites:** install (4), you'll need (3)
@@ -6604,7 +6604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (4), case, (3), pass (2), else, (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (1), next (1), feature (1)
 > **Env Vars:** onnx (9)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Tools:** command line (2), jupyter (1)
@@ -6616,7 +6616,7 @@ created: 2026-04-29
 
 ### 12. Hugging Face Spaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Hugging Face Spaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980)
@@ -6713,8 +6713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Hugging Face]] (4), [[Stable Diffusion]] (2), [[DALL-E]] (1), prompt (1)
 > **UI Navigation:** go to (5), scroll down (1)
-> **Code Keywords:** let (3), this, (1), static (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), python (1)
@@ -6832,7 +6832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (10), let (5), this. (2), case, (2), pass (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Python (Programming Language)|Python]] (2), application (2), data (2), [[PyTorch]] (1)
 > **CLI Commands:** make (4), python (2), cd (1), find (1)
 > **Env Vars:** gpu (3), jax (1), gpt2 (1), espn (1)
 > **Definitions:** is a  (5)
@@ -6900,7 +6900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), interface (2)
+> **Frameworks & Libraries:** application (7), [[Hugging Face]] (6), [[GitHub]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (5), [[Python (Programming Language)|Python]] (2)
 > **Tools:** github (6)
 > **CLI Commands:** make (2), python (2)
 > **UI Navigation:** go to (1), toggle (1)

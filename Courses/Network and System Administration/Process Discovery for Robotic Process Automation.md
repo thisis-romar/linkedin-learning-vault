@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/robotic-process-automation-rpa
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Process%20Discovery%20for%20Robotic%20Process%20Automation.md)
@@ -48,30 +48,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - A leading enterprise technology
-  - Generative AI reinforces process fundamentals
-  - Course overview
+  - [A leading enterprise technology](#a-leading-enterprise-technology)
+  - [Generative AI reinforces process fundamentals](#generative-ai-reinforces-process-fundamentals)
+  - [Course overview](#course-overview)
 - [**1. Approaches to Process Discovery**](#1-approaches-to-process-discovery) (5 videos)
-  - Laying the groundwork
-  - A modern approach to discovery
-  - Process discovery vs. process mining
-  - Synergies with automation
-  - The new frontier of automation and AI
+  - [Laying the groundwork](#laying-the-groundwork)
+  - [A modern approach to discovery](#a-modern-approach-to-discovery)
+  - [Process discovery vs. process mining](#process-discovery-vs-process-mining)
+  - [Synergies with automation](#synergies-with-automation)
+  - [The new frontier of automation and AI](#the-new-frontier-of-automation-and-ai)
 - [**2. Automating Business Automation**](#2-automating-business-automation) (7 videos)
-  - Setting an initial scope for automation
-  - Challenge: Process complexity
-  - Solution: Process complexity
-  - Challenge: Benefit estimation
-  - Solution: Benefit estimation
-  - Challenge: Prioritization and scope-setting
-  - Solution: Prioritization of scope-setting
+  - [Setting an initial scope for automation](#setting-an-initial-scope-for-automation)
+  - [Challenge: Process complexity](#challenge-process-complexity)
+  - [Solution: Process complexity](#solution-process-complexity)
+  - [Challenge: Benefit estimation](#challenge-benefit-estimation)
+  - [Solution: Benefit estimation](#solution-benefit-estimation)
+  - [Challenge: Prioritization and scope-setting](#challenge-prioritization-and-scope-setting)
+  - [Solution: Prioritization of scope-setting](#solution-prioritization-of-scope-setting)
 - [**Conclusion**](#conclusion) (2 videos)
-  - A summary of hurdles
-  - The automation ecosystem
+  - [A summary of hurdles](#a-summary-of-hurdles)
+  - [The automation ecosystem](#the-automation-ecosystem)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A leading enterprise technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-leading-enterprise-technology-25742338?u=76281980)
@@ -98,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), business (1)
 > **Speakers:** - companies (1)
 
 #### Generative AI reinforces process fundamentals
@@ -123,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), rpa (2), business (1), data (1), next (1)
 > **Env Vars:** rpa (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - since (1)
@@ -156,16 +158,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (2), rpa (2), career (1), [[Automation]] (1), [[Digital Transformation]] (1)
 > **Env Vars:** rpa (2)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - my (1)
 
 
 ### 1. Approaches to Process Discovery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Laying the groundwork
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980)
@@ -190,7 +192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** management (2), [[Automation]] (2), application (1), [[Business Process Management]] (1), business (1)
 > **Env Vars:** bpm (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - before (1)
@@ -250,6 +252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** picture (1)
@@ -300,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), class. (1)
+> **Frameworks & Libraries:** [[Process Mining]] (11), data (5), [[Automation]] (2), [[Computer Vision]] (1), next (1)
 > **Definitions:** in other words (1), is a  (1), known as (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -332,6 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (5), [[Automation]] (3), [[Robotic Process Automation (RPA)|Robotic process automation]] (2), data (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** rpa (5)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -364,16 +368,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (3), [[Automation]] (1), [[Conversational AI]] (1), data (1), ai (1)
 > **Env Vars:** rpa (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
 
 
 ### 2. Automating Business Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting an initial scope for automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/setting-an-initial-scope-for-automation?u=76281980)
@@ -406,7 +410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Automation]] (6), data (2)
 > **Speakers:** - let (1)
 
 #### Challenge: Process complexity
@@ -454,7 +458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), type, (1)
+> **Frameworks & Libraries:** data (5), teams (2), [[Unstructured Data]] (2), rpa (2), next (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** rpa (2)
 > **CLI Commands:** make (1)
@@ -497,7 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** database (1), application (1), data (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
@@ -538,7 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), require (1)
+> **Frameworks & Libraries:** business (1), [[Automation]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - with (1)
 > **Non-Speech:** (bright music) (1)
@@ -580,6 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), application (1), business (1)
 > **Versions:** 1.8 (1)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
@@ -616,7 +621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), case. (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Automation]] (1), teams (1)
 > **Speakers:** - using (1)
 > **Non-Speech:** (energetic electronic music) (1)
 
@@ -679,7 +684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1), this, (1)
+> **Frameworks & Libraries:** [[Automation]] (5), [[Digital Transformation]] (2), rpa (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rpa (1)
 > **Definitions:** is a  (1)
@@ -689,7 +694,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A summary of hurdles
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-summary-of-hurdles?u=76281980)
@@ -720,7 +725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), public (1)
+> **Frameworks & Libraries:** data (2), [[Automation]] (2), next (1), rpa (1), [[Digital Transformation]] (1)
 > **Env Vars:** rpa (1)
 > **Speakers:** - so (1)
 
@@ -749,6 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (4), rpa (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), ai (1), [[Generative AI]] (1)
 > **Env Vars:** rpa (2)
 > **Speakers:** - i (1)
 

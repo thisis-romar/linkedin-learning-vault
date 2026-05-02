@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/social-media-marketing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Social%20Media%20Marketing%20Foundations.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What is social media marketing?
-  - Use the provided handouts
+  - [What is social media marketing?](#what-is-social-media-marketing)
+  - [Use the provided handouts](#use-the-provided-handouts)
 - [**1. Create a Social Media Strategy**](#1-create-a-social-media-strategy) (4 videos)
-  - Produce an actionable social media strategy
-  - Focus on social media measurement
-  - Develop marketing personas for your audience
-  - Hire a social media manager
+  - [Produce an actionable social media strategy](#produce-an-actionable-social-media-strategy)
+  - [Focus on social media measurement](#focus-on-social-media-measurement)
+  - [Develop marketing personas for your audience](#develop-marketing-personas-for-your-audience)
+  - [Hire a social media manager](#hire-a-social-media-manager)
 - [**2. Choose the Right Social Networks**](#2-choose-the-right-social-networks) (4 videos)
-  - Community-based social networks
-  - Discovery-focused social platforms
-  - Social messaging apps
-  - Review sites and discussion forums
+  - [Community-based social networks](#community-based-social-networks)
+  - [Discovery-focused social platforms](#discovery-focused-social-platforms)
+  - [Social messaging apps](#social-messaging-apps)
+  - [Review sites and discussion forums](#review-sites-and-discussion-forums)
 - [**3. Publish Engaging Social Content**](#3-publish-engaging-social-content) (3 videos)
-  - Create organic content for social media
-  - Produce engaging paid social campaigns
-  - Humanize your content
+  - [Create organic content for social media](#create-organic-content-for-social-media)
+  - [Produce engaging paid social campaigns](#produce-engaging-paid-social-campaigns)
+  - [Humanize your content](#humanize-your-content)
 - [**4. Interact with Customers**](#4-interact-with-customers) (3 videos)
-  - Embrace social listening and monitoring
-  - Proactive engagement to earn attention
-  - Reactive engagement for customer service
+  - [Embrace social listening and monitoring](#embrace-social-listening-and-monitoring)
+  - [Proactive engagement to earn attention](#proactive-engagement-to-earn-attention)
+  - [Reactive engagement for customer service](#reactive-engagement-for-customer-service)
 - [**5. Foster Social Media Partnerships**](#5-foster-social-media-partnerships) (3 videos)
-  - Coordinate teams with a social media policy
-  - Set up successful creator campaigns
-  - Experiment beyond best practices in social
+  - [Coordinate teams with a social media policy](#coordinate-teams-with-a-social-media-policy)
+  - [Set up successful creator campaigns](#set-up-successful-creator-campaigns)
+  - [Experiment beyond best practices in social](#experiment-beyond-best-practices-in-social)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Stay updated on social media marketing
+  - [Stay updated on social media marketing](#stay-updated-on-social-media-marketing)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is social media marketing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980)
@@ -98,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Social Media Marketing]] (3), [[Microsoft Products|Products]] (1), career (1)
 > **Speakers:** - social (1)
 
 #### Use the provided handouts
@@ -125,7 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (2), business (1), next (1)
 > **Documentation:** reference guide (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -135,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Create a Social Media Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Produce an actionable social media strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980)
@@ -204,8 +205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Social Media Marketing]] (3), teams (1), traffic (1), career (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** for. (1), require (1)
 > **Analogies:** for example (1), for instance (1)
 > **Prerequisites:** getting started (1), you'll need (1)
 > **Warnings:** common mistake (1)
@@ -272,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Social Media Marketing]] (2), data (1), business (1), [[Analytics]] (1)
 > **Analogies:** for example (2), for instance (1)
-> **Code Keywords:** from, (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -330,6 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (1), data (1), [[Market Research]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** crm (1)
@@ -398,6 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), business (2), [[Content Creation]] (2), [[Social Media Marketing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -405,7 +408,7 @@ created: 2026-04-29
 
 ### 2. Choose the Right Social Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Community-based social networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980)
@@ -466,8 +469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), business (2), [[Microsoft Products|Products]] (2), strengths (1), [[Algorithms]] (1)
 > **Definitions:** is a  (4), known as (1)
-> **Code Keywords:** let (2), for. (1), interface (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** b2b (1)
 > **Speakers:** - [instructor] (1)
@@ -523,7 +526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (5), [[Google]] (2), [[Algorithms]] (1), next (1), [[Programming]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** esports (1)
@@ -570,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (2), let (1), super (1), finally, (1)
+> **Frameworks & Libraries:** chatbot (2), [[Security]] (1), [[Microsoft Products|Products]] (1), next (1), business (1)
 > **Definitions:** is a  (1), known as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - not (1)
@@ -624,8 +627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Microsoft Products|Products]] (3), product (1), feature (1), [[Google]] (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (1), finally, (1)
 > **Documentation:** stack overflow (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -634,7 +637,7 @@ created: 2026-04-29
 
 ### 3. Publish Engaging Social Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create organic content for social media
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980)
@@ -695,9 +698,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1), [[React.js|React]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** throw (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - what (1)
 
@@ -762,8 +765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Social Media Marketing]] (1), [[Forms]] (1), business (1), product (1), traffic (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from, (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
@@ -820,15 +823,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Building Trust]] (1), [[Climate Change]] (1), [[Forms]] (1), feature (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** self (1), finally, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - authenticity (1)
 
 
 ### 4. Interact with Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace social listening and monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980)
@@ -887,9 +890,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Microsoft Products|Products]] (2), [[Forms]] (1), business (1), [[Search]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - listening (1), - there (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -955,6 +958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (1), leadership (1), [[LinkedIn]] (1), [[Building Trust]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - starting (1)
@@ -1018,7 +1022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), private (2), public (1), from. (1)
+> **Frameworks & Libraries:** business (2), [[Privacy]] (1), [[Google]] (1), next (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (2)
 > **Warnings:** troubleshoot (1), keep in mind (1)
@@ -1027,7 +1031,7 @@ created: 2026-04-29
 
 ### 5. Foster Social Media Partnerships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coordinate teams with a social media policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/coordinate-teams-with-a-social-media-policy?u=76281980)
@@ -1080,7 +1084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), finally, (1)
+> **Frameworks & Libraries:** teams (3), [[Social Media Marketing]] (1), leadership (1), [[Engineering]] (1), next (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1)
 
@@ -1129,8 +1133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** yield (1), self (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** mac (1)
 > **Analogies:** for instance (1)
@@ -1189,15 +1193,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Microsoft Products|Products]] (1), [[Sustainability]] (1), product (1), next (1)
 > **Analogies:** for example (1), for instance (1)
-> **Code Keywords:** new, (1)
 > **Env Vars:** b2b (1)
 > **Speakers:** - you (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay updated on social media marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980)
@@ -1234,7 +1238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (2), [[LinkedIn]] (2), business (1), [[Microsoft Excel|Excel]] (1), leadership (1)
 > **URLs:** [brianhonigman.com](https://brianhonigman.com) (1)
 > **Speakers:** - thank (1)
 

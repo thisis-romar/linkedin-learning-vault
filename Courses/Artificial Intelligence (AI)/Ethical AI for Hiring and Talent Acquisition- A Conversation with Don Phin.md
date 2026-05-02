@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Ethical%20AI%20for%20Hiring%20and%20Talent%20Acquisition-%20A%20Conversation%20with%20Don%20Phin.md)
@@ -40,29 +40,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Embracing responsible AI practices in hiring
-  - Meet Don Phin
-  - What is ethical AI in hiring, and why does it matter?
+  - [Embracing responsible AI practices in hiring](#embracing-responsible-ai-practices-in-hiring)
+  - [Meet Don Phin](#meet-don-phin)
+  - [What is ethical AI in hiring, and why does it matter?](#what-is-ethical-ai-in-hiring-and-why-does-it-matter)
 - [**1. Bias and Fairness**](#1-bias-and-fairness) (3 videos)
-  - When is hiring bias problematic?
-  - What are some examples of how AI creates hiring bias?
-  - What is AI gatekeeping in talent acquisition?
+  - [When is hiring bias problematic?](#when-is-hiring-bias-problematic)
+  - [What are some examples of how AI creates hiring bias?](#what-are-some-examples-of-how-ai-creates-hiring-bias)
+  - [What is AI gatekeeping in talent acquisition?](#what-is-ai-gatekeeping-in-talent-acquisition)
 - [**2. Accuracy and Reliability**](#2-accuracy-and-reliability) (2 videos)
-  - How do we ensure AI makes fair, accurate hiring decisions?
-  - How can customzing AI tools improve accuracy?
+  - [How do we ensure AI makes fair, accurate hiring decisions?](#how-do-we-ensure-ai-makes-fair-accurate-hiring-decisions)
+  - [How can customzing AI tools improve accuracy?](#how-can-customzing-ai-tools-improve-accuracy)
 - [**3. Transparency and Explainability**](#3-transparency-and-explainability) (2 videos)
-  - Why are transparency in AI hiring tools so important?
-  - What can candidates do if they want to challenge AI hiring?
+  - [Why are transparency in AI hiring tools so important?](#why-are-transparency-in-ai-hiring-tools-so-important)
+  - [What can candidates do if they want to challenge AI hiring?](#what-can-candidates-do-if-they-want-to-challenge-ai-hiring)
 - [**4. Privacy and Security**](#4-privacy-and-security) (2 videos)
-  - How is candidate data handled by AI, and what are the risks?
-  - What are the concerns about using biometrics in hiring?
+  - [How is candidate data handled by AI, and what are the risks?](#how-is-candidate-data-handled-by-ai-and-what-are-the-risks)
+  - [What are the concerns about using biometrics in hiring?](#what-are-the-concerns-about-using-biometrics-in-hiring)
 - [**5. Best Practices and Future Trends**](#5-best-practices-and-future-trends) (2 videos)
-  - What is key when using AI in hiring ethically and wisely?
-  - How will AI evolve and what trends are coming?
+  - [What is key when using AI in hiring ethically and wisely?](#what-is-key-when-using-ai-in-hiring-ethically-and-wisely)
+  - [How will AI evolve and what trends are coming?](#how-will-ai-evolve-and-what-trends-are-coming)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embracing responsible AI practices in hiring
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980)
@@ -93,7 +93,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), [[Privacy]] (2), hr (2), data (1)
 > **Speakers:** - hiring (1)
 
 #### Meet Don Phin
@@ -139,8 +139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[LinkedIn]] (1), [[Career Development]] (1), management (1), career (1)
 > **Speakers:** - don (1), - hi (1), - and (1), - ai (1)
-> **Code Keywords:** this, (1), let (1)
 
 #### What is ethical AI in hiring, and why does it matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-ethical-ai-in-hiring-and-why-does-it-matter?u=76281980)
@@ -193,13 +193,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Ethics]] (2), data (2), business (1), [[Privacy]] (1)
 > **Speakers:** - what (1), - ethics (1)
-> **Code Keywords:** private (1)
 
 
 ### 1. Bias and Fairness
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When is hiring bias problematic?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/when-is-hiring-bias-problematic?u=76281980)
@@ -234,6 +234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2)
 > **Speakers:** - you (1), - human (1)
 > **Definitions:** is called (1)
 
@@ -336,6 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), ai (7), [[Interviewing]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - how (1)
@@ -393,8 +395,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Decision-Making]] (1)
 > **Speakers:** - so (2), - don (1), - yeah (1)
-> **Code Keywords:** pass (2), case. (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), it's like (1)
 > **Env Vars:** eeoc (1)
@@ -402,7 +404,7 @@ created: 2026-04-29
 
 ### 2. Accuracy and Reliability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do we ensure AI makes fair, accurate hiring decisions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-do-we-ensure-ai-makes-fair-accurate-hiring-decisions?u=76281980)
@@ -445,9 +447,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3)
 > **CLI Commands:** make (3)
 > **Speakers:** - don (1), - ai (1), - yeah (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is an  (1)
 
 #### How can customzing AI tools improve accuracy?
@@ -485,14 +487,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (1)
+> **Frameworks & Libraries:** ai (4)
 > **Speakers:** - don (1), - one (1)
 > **CLI Commands:** make (1)
 
 
 ### 3. Transparency and Explainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why are transparency in AI hiring tools so important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/why-are-transparency-in-ai-hiring-tools-so-important?u=76281980)
@@ -557,8 +559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (6), [[Security]] (1), [[Microsoft Word|Word]] (1), teams (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (1), else, (1), pass (1), this, (1)
 > **Speakers:** - i (2), - how (1), - so (1)
 > **Env Vars:** ibm (1)
 
@@ -599,14 +601,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Decision-Making]] (1)
 > **Speakers:** - what (1), - people (1), - that (1), - these (1), - yeah (1)
-> **Code Keywords:** pass (1)
 > **Definitions:** is a  (1)
 
 
 ### 4. Privacy and Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How is candidate data handled by AI, and what are the risks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980)
@@ -665,6 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (3), [[Privacy]] (2), hr (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - don (1), - the (1), - do (1), - it (1)
 > **Env Vars:** eeoc (1)
@@ -709,14 +712,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), data (1)
 > **Env Vars:** fbi (1), cia (1), dna (1)
 > **Speakers:** - don (1), - so (1)
-> **Code Keywords:** require (1)
 
 
 ### 5. Best Practices and Future Trends
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is key when using AI in hiring ethically and wisely?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-key-when-using-ai-in-hiring-ethically-and-wisely?u=76281980)
@@ -775,10 +778,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (3)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Speakers:** - don (1), - yeah (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from, (1)
 
 #### How will AI evolve and what trends are coming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-will-ai-evolve-and-what-trends-are-coming?u=76281980)
@@ -831,8 +834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (2), next (1), prompt (1)
 > **Speakers:** - don (1), - one (1)
-> **Code Keywords:** if. (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)
 

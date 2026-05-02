@@ -42,7 +42,7 @@ tags:
   - skill/jira
   - skill/software-development-life-cycle-sdlc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Planning%20and%20Releasing%20Software%20with%20Jira.md)
@@ -61,36 +61,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Planning and releasing software with Jira
-  - Who is this course for?
-  - What do you need for this course?
-  - Adapting the software development process
-  - Using software development tools
-  - Course use case
+  - [Planning and releasing software with Jira](#planning-and-releasing-software-with-jira)
+  - [Who is this course for?](#who-is-this-course-for)
+  - [What do you need for this course?](#what-do-you-need-for-this-course)
+  - [Adapting the software development process](#adapting-the-software-development-process)
+  - [Using software development tools](#using-software-development-tools)
+  - [Course use case](#course-use-case)
 - [**1. Planning Projects and Releases**](#1-planning-projects-and-releases) (3 videos)
-  - Crafting requirements in Confluence
-  - Connecting Confluence spaces to Jira projects
-  - Planning and forecasting in Jira
+  - [Crafting requirements in Confluence](#crafting-requirements-in-confluence)
+  - [Connecting Confluence spaces to Jira projects](#connecting-confluence-spaces-to-jira-projects)
+  - [Planning and forecasting in Jira](#planning-and-forecasting-in-jira)
 - [**2. Developing Software**](#2-developing-software) (5 videos)
-  - Tracking development work in Jira
-  - Using Jira Software features
-  - Configuring boards
-  - Connecting Jira to Bitbucket
-  - Using common Bitbucket features
+  - [Tracking development work in Jira](#tracking-development-work-in-jira)
+  - [Using Jira Software features](#using-jira-software-features)
+  - [Configuring boards](#configuring-boards)
+  - [Connecting Jira to Bitbucket](#connecting-jira-to-bitbucket)
+  - [Using common Bitbucket features](#using-common-bitbucket-features)
 - [**3. Testing Software**](#3-testing-software) (3 videos)
-  - Managing test cases in Jira
-  - Executing manual and automated tests
-  - Fixing bugs in Jira
+  - [Managing test cases in Jira](#managing-test-cases-in-jira)
+  - [Executing manual and automated tests](#executing-manual-and-automated-tests)
+  - [Fixing bugs in Jira](#fixing-bugs-in-jira)
 - [**4. Releasing Software**](#4-releasing-software) (3 videos)
-  - Releasing versions in Jira
-  - Releasing code in Bitbucket
-  - Conducting retrospectives in Confluence
+  - [Releasing versions in Jira](#releasing-versions-in-jira)
+  - [Releasing code in Bitbucket](#releasing-code-in-bitbucket)
+  - [Conducting retrospectives in Confluence](#conducting-retrospectives-in-confluence)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional resources for Jira learning
+  - [Additional resources for Jira learning](#additional-resources-for-jira-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning and releasing software with Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980)
@@ -125,9 +125,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), teams (4), [[Atlassian]] (3), [[Confluence]] (3), [[Software Development]] (3)
 > **Tools:** jira (6), confluence (3), bitbucket (2)
 > **Env Vars:** jira (4)
-> **Code Keywords:** let (1)
 > **Speakers:** - [rachel (1)
 
 #### Who is this course for?
@@ -189,8 +189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), [[Atlassian]] (4), application (4), cloud (4), teams (3)
 > **Tools:** jira (9), bitbucket (1)
-> **Code Keywords:** finally, (1), type, (1), type. (1), interface (1)
 > **Env Vars:** aws (1), jira (1)
 > **CLI Commands:** aws (1)
 > **Warnings:** be aware (1)
@@ -243,11 +243,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), application (4), [[Atlassian]] (3), [[Confluence]] (2), data (2)
 > **Tools:** jira (6), confluence (2), bitbucket (1)
 > **Env Vars:** jira (6), jsm (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** you'll need (1), install (1), configure (1)
-> **Code Keywords:** finally, (1), require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [rachel] (1)
 
@@ -294,8 +294,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Software Development]] (1), [[Web Development]] (1), business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sdlc (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -386,9 +386,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (11), [[Atlassian]] (10), [[Confluence]] (8), teams (4), management (3)
 > **Tools:** jira (11), confluence (8), bitbucket (2)
 > **CLI Commands:** find (3), git (1)
-> **Code Keywords:** from. (1), type. (1), interface (1), finally, (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Definitions:** is a  (2)
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
@@ -431,14 +431,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (2), [[Web Development]] (2), business (2), web (2), [[E-Commerce]] (1)
 > **Tools:** jira (2), confluence (1), bitbucket (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Planning Projects and Releases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Crafting requirements in Confluence
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980)
@@ -557,9 +557,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Confluence]] (15), [[Jira]] (5), application (4), product (3), next (2)
 > **Tools:** confluence (15), jira (5)
 > **Env Vars:** jira (5), rebrand (1)
-> **Code Keywords:** let (2), case, (1), from. (1), case. (1)
 > **UI Navigation:** select the (2), go to (1), scroll down (1)
 > **Exercise Files:** template (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -683,9 +683,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (31), [[Confluence]] (21), application (8), cloud (4), next (3)
 > **Tools:** jira (31), confluence (21)
 > **UI Navigation:** select the (3), scroll down (2), go to (1), in the sidebar (1)
-> **Code Keywords:** let (3), case, (1), type, (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
 > **Cross-References:** later in (1)
@@ -939,8 +939,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (44), data (12), [[Confluence]] (11), feature (8), [[Atlassian]] (5)
 > **Tools:** jira (44), confluence (11)
-> **Code Keywords:** let (10), finally, (5), static (2), for. (1), interface (1)
 > **Env Vars:** csv (4), jql (1), cql (1)
 > **UI Navigation:** go to (2), click on (2), in the menu (1), toggle (1)
 > **CLI Commands:** make (5)
@@ -951,7 +951,7 @@ created: 2026-04-29
 
 ### 2. Developing Software
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tracking development work in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980)
@@ -1010,8 +1010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (18), management (5), teams (5), [[Software Development]] (4), feature (2)
 > **Tools:** jira (18), bitbucket (1)
-> **Code Keywords:** case, (1), type. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** assuming you have (1)
@@ -1120,9 +1120,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (11), teams (2), [[Scrum]] (2), feature (2), [[Software Projects]] (2)
 > **Tools:** jira (11), github (1), bitbucket (1)
 > **Exercise Files:** template (7)
-> **Code Keywords:** finally, (2), extends (1), require (1), type. (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** url (1)
 > **Cross-References:** we discussed (1)
@@ -1252,7 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (4), default, (2), type. (1), type, (1)
+> **Frameworks & Libraries:** next (7), [[Scrum]] (3), [[Jira]] (2), teams (2), cloud (2)
 > **UI Navigation:** select the (2), in the sidebar (1), scroll down (1), click on (1), dropdown (1)
 > **CLI Commands:** make (3)
 > **Tools:** jira (2)
@@ -1370,9 +1370,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (17), [[Jira]] (14), application (6), [[Atlassian]] (4), [[Git]] (3)
 > **Tools:** bitbucket (17), jira (14), confluence (2), github (1)
 > **Env Vars:** dvcs (2), vcs (1), scm (1), rcs (1), cvs (1)
-> **Code Keywords:** let (3), finally, (1), switch (1)
 > **CLI Commands:** git (3), find (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (2), it's like (1), just like (1)
@@ -1506,8 +1506,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), [[Bitbucket]] (5), next (4), [[Git]] (1), [[Atlassian]] (1)
 > **Tools:** jira (9), bitbucket (5), command line (3), vs code (1)
-> **Code Keywords:** let (2), case. (1), require (1)
 > **Definitions:** is a  (3), refers to (1)
 > **CLI Commands:** make (2), git (1)
 > **UI Navigation:** select the (2), click on (1)
@@ -1517,7 +1517,7 @@ created: 2026-04-29
 
 ### 3. Testing Software
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing test cases in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980)
@@ -1556,7 +1556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), type, (1), case. (1), finally, (1)
+> **Frameworks & Libraries:** [[Jira]] (6), management (2), [[Software Development]] (1), next (1), data (1)
 > **Tools:** jira (6)
 > **Env Vars:** csv (2)
 > **Speakers:** - [tutor] (1)
@@ -1632,8 +1632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), [[Automation]] (3), application (2), [[Manual Testing]] (1), [[Programming]] (1)
 > **Tools:** jira (5)
-> **Code Keywords:** require (2), for. (1), interface (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** for example (1)
@@ -1697,7 +1697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), case, (1), let (1), finally, (1), type; (1)
+> **Frameworks & Libraries:** [[Jira]] (4)
 > **Env Vars:** jira (4), rebrand (2)
 > **Tools:** jira (4)
 > **Definitions:** is a  (1)
@@ -1706,7 +1706,7 @@ created: 2026-04-29
 
 ### 4. Releasing Software
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Releasing versions in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980)
@@ -1805,7 +1805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), this, (1), finally, (1), switch (1)
+> **Frameworks & Libraries:** [[Jira]] (4), next (4), [[Software Development]] (1), feature (1), [[HTML]] (1)
 > **Tools:** jira (4)
 > **Code Identifiers:** fixversion (2)
 > **Env Vars:** html (1), jql (1)
@@ -1919,6 +1919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (12), [[Jira]] (7), feature (4), ci (3), application (2)
 > **Tools:** bitbucket (12), jira (7), gitlab (1), github (1)
 > **CLI Commands:** cd (2), git (1), ssh (1)
 > **Env Vars:** yml (2), ssh (1), yaml (1)
@@ -1926,7 +1927,6 @@ created: 2026-04-29
 > **Prerequisites:** set up (2), configure (1)
 > **Documentation:** the documentation (2)
 > **Exercise Files:** source code (1), template (1)
-> **Definitions:** is a  (2)
 
 #### Conducting retrospectives in Confluence
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980)
@@ -1987,10 +1987,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Confluence]] (3), next (2), [[Atlassian]] (2), [[Jira]] (2), [[Software Development]] (1)
 > **Tools:** confluence (3), jira (2)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is called (1)
@@ -1999,7 +1999,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980)
@@ -2082,11 +2082,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Atlassian]] (10), [[Jira]] (7), [[Software Development]] (2), [[Bitbucket]] (2), [[Git]] (2)
 > **Tools:** jira (7), bitbucket (2), confluence (1)
 > **Env Vars:** jira (7), url (2)
 > **CLI Commands:** git (2), make (1), find (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (2), [jirastrategy.com](https://jirastrategy.com) (1)
-> **Code Keywords:** continue (1), type, (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [rachel] (1)

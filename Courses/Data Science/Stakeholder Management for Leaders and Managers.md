@@ -32,7 +32,7 @@ tags:
   - skill/stakeholder-management
   - skill/team-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Stakeholder%20Management%20for%20Leaders%20and%20Managers.md)
@@ -51,29 +51,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of stakeholder management
+  - [The power of stakeholder management](#the-power-of-stakeholder-management)
 - [**1. Introduction to Stakeholder Management**](#1-introduction-to-stakeholder-management) (4 videos)
-  - Identifying your stakeholders
-  - Internal stakeholders: Employees and management
-  - Shareholders and owners
-  - External stakeholders: Customers, suppliers, and communities
+  - [Identifying your stakeholders](#identifying-your-stakeholders)
+  - [Internal stakeholders: Employees and management](#internal-stakeholders-employees-and-management)
+  - [Shareholders and owners](#shareholders-and-owners)
+  - [External stakeholders: Customers, suppliers, and communities](#external-stakeholders-customers-suppliers-and-communities)
 - [**2. Stakeholder Analysis and Prioritization**](#2-stakeholder-analysis-and-prioritization) (4 videos)
-  - The power/interest stakeholder matrix
-  - Balancing competing interests and managing trade-offs
-  - Understanding stakeholder motivations and behaviors
-  - Navigating stakeholder power dynamics
+  - [The power/interest stakeholder matrix](#the-powerinterest-stakeholder-matrix)
+  - [Balancing competing interests and managing trade-offs](#balancing-competing-interests-and-managing-trade-offs)
+  - [Understanding stakeholder motivations and behaviors](#understanding-stakeholder-motivations-and-behaviors)
+  - [Navigating stakeholder power dynamics](#navigating-stakeholder-power-dynamics)
 - [**3. Coordinating Stakeholder Relationships**](#3-coordinating-stakeholder-relationships) (5 videos)
-  - Aligning stakeholders with organization strategy
-  - Managing stakeholder expectations
-  - KPIs for stakeholder management
-  - Continuous improvement stakeholder strategies
-  - Managing stakeholders during a crisis
+  - [Aligning stakeholders with organization strategy](#aligning-stakeholders-with-organization-strategy)
+  - [Managing stakeholder expectations](#managing-stakeholder-expectations)
+  - [KPIs for stakeholder management](#kpis-for-stakeholder-management)
+  - [Continuous improvement stakeholder strategies](#continuous-improvement-stakeholder-strategies)
+  - [Managing stakeholders during a crisis](#managing-stakeholders-during-a-crisis)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Never stop communicating
+  - [Never stop communicating](#never-stop-communicating)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of stakeholder management
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-of-stakeholder-management?u=76281980)
@@ -96,13 +96,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), teams (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - have (1)
 
 
 ### 1. Introduction to Stakeholder Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying your stakeholders
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/identifying-your-stakeholders?u=76281980)
@@ -175,7 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** product (4), management (2), leadership (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
@@ -265,7 +266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** management (2), leadership (2), business (2), power (1), [[Google]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - when (1)
@@ -339,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), finally, (1), require (1)
+> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (1), [[Decision-Making]] (1), leadership (1), product (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
@@ -424,15 +425,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), business (2), next (2), hit (1), [[Environmental Sustainability]] (1)
 > **Analogies:** imagine (1), such as (1)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - imagine (1)
 
 
 ### 2. Stakeholder Analysis and Prioritization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power/interest stakeholder matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980)
@@ -545,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), throw (1), finally, (1), require (1)
+> **Frameworks & Libraries:** power (12), product (8), next (2), game (1), [[Market Research]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
@@ -613,9 +614,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), [[Product Development]] (1), product (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - so (1)
 
 #### Understanding stakeholder motivations and behaviors
@@ -683,8 +684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Environmental Sustainability]] (1)
 > **Analogies:** such as (2), for instance (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - stakeholders (1)
 
 #### Navigating stakeholder power dynamics
@@ -778,7 +779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), finally, (1)
+> **Frameworks & Libraries:** power (14), management (2), data (1), [[Security]] (1), web (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -789,7 +790,7 @@ created: 2026-04-29
 
 ### 3. Coordinating Stakeholder Relationships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Aligning stakeholders with organization strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980)
@@ -856,7 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), override (1), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), product (1), leadership (1), [[Product Development]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
@@ -935,8 +936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), prompt (1), [[React.js|React]] (1), product (1)
 > **Analogies:** imagine (1), such as (1)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - imagine (1)
@@ -1012,7 +1013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1)
+> **Frameworks & Libraries:** business (3), [[Decision-Making]] (1), data (1), product (1), [[Executive Leadership]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** kpi (1)
 > **Prerequisites:** set up (1)
@@ -1089,7 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), implements (1)
+> **Frameworks & Libraries:** management (2), [[Stakeholder Engagement]] (1), functional (1), teams (1), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
@@ -1167,8 +1168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), management (2), [[Security]] (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -1176,7 +1177,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Never stop communicating
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/never-stop-communicating?u=76281980)
@@ -1217,6 +1218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Building Trust]] (1)
 > **Warnings:** warning (1)
 > **Speakers:** - have (1)
 

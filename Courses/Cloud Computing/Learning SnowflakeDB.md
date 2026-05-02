@@ -33,7 +33,7 @@ tags:
   - skill/databases
   - skill/snowflake
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20SnowflakeDB.md)
@@ -52,46 +52,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Driving maximum results with a flexible data cloud
-  - What you should know
-  - Use cloud services
+  - [Driving maximum results with a flexible data cloud](#driving-maximum-results-with-a-flexible-data-cloud)
+  - [What you should know](#what-you-should-know)
+  - [Use cloud services](#use-cloud-services)
 - [**1. SnowflakeDB Overview**](#1-snowflakedb-overview) (6 videos)
-  - Meet SnowflakeDB
-  - Understand SnowflakeDB data platform
-  - Compare cloud data warehouse solutions
-  - Review SnowflakeDB architecture
-  - Use SnowflakeDB cloud tools
-  - Use Snowpark Python worksheets
+  - [Meet SnowflakeDB](#meet-snowflakedb)
+  - [Understand SnowflakeDB data platform](#understand-snowflakedb-data-platform)
+  - [Compare cloud data warehouse solutions](#compare-cloud-data-warehouse-solutions)
+  - [Review SnowflakeDB architecture](#review-snowflakedb-architecture)
+  - [Use SnowflakeDB cloud tools](#use-snowflakedb-cloud-tools)
+  - [Use Snowpark Python worksheets](#use-snowpark-python-worksheets)
 - [**2. SnowflakeDB Data Storage and Files**](#2-snowflakedb-data-storage-and-files) (6 videos)
-  - See SnowflakeDB queries
-  - Learn SnowflakeDB file ingest
-  - Load SnowflakeDB using web UI
-  - Load SnowflakeDB from S3
-  - Load SnowflakeDB using Snowpipe streams
-  - Scenario: Import files and data into SnowflakeDB
+  - [See SnowflakeDB queries](#see-snowflakedb-queries)
+  - [Learn SnowflakeDB file ingest](#learn-snowflakedb-file-ingest)
+  - [Load SnowflakeDB using web UI](#load-snowflakedb-using-web-ui)
+  - [Load SnowflakeDB from S3](#load-snowflakedb-from-s3)
+  - [Load SnowflakeDB using Snowpipe streams](#load-snowflakedb-using-snowpipe-streams)
+  - [Scenario: Import files and data into SnowflakeDB](#scenario-import-files-and-data-into-snowflakedb)
 - [**3. SnowflakeDB Query Processing**](#3-snowflakedb-query-processing) (5 videos)
-  - Use SnowflakeDB for SQL queries
-  - Understand SnowflakeDB dashboards
-  - Create and use user-defined functions
-  - Optimize virtual warehouses
-  - Scenario: Optimize SnowflakeDB compute
+  - [Use SnowflakeDB for SQL queries](#use-snowflakedb-for-sql-queries)
+  - [Understand SnowflakeDB dashboards](#understand-snowflakedb-dashboards)
+  - [Create and use user-defined functions](#create-and-use-user-defined-functions)
+  - [Optimize virtual warehouses](#optimize-virtual-warehouses)
+  - [Scenario: Optimize SnowflakeDB compute](#scenario-optimize-snowflakedb-compute)
 - [**4. SnowflakeDB Data Services**](#4-snowflakedb-data-services) (5 videos)
-  - Understand SnowflakeDB account usage
-  - Learn SnowflakeDB authentication and authorization
-  - Review Snowflake DB sessions
-  - Implement SnowflakeDB policies
-  - Scenario: Secure data on SnowflakeDB
+  - [Understand SnowflakeDB account usage](#understand-snowflakedb-account-usage)
+  - [Learn SnowflakeDB authentication and authorization](#learn-snowflakedb-authentication-and-authorization)
+  - [Review Snowflake DB sessions](#review-snowflake-db-sessions)
+  - [Implement SnowflakeDB policies](#implement-snowflakedb-policies)
+  - [Scenario: Secure data on SnowflakeDB](#scenario-secure-data-on-snowflakedb)
 - [**5. SnowflakeDB Partners and Architectures**](#5-snowflakedb-partners-and-architectures) (4 videos)
-  - Learn the Snowflake data life cycle
-  - Use SnowflakeDB Data Marketplace
-  - Use SnowflakeDB Partner Connect
-  - Scenario: Design and build solutions with SnowflakeDB
+  - [Learn the Snowflake data life cycle](#learn-the-snowflake-data-life-cycle)
+  - [Use SnowflakeDB Data Marketplace](#use-snowflakedb-data-marketplace)
+  - [Use SnowflakeDB Partner Connect](#use-snowflakedb-partner-connect)
+  - [Scenario: Design and build solutions with SnowflakeDB](#scenario-design-and-build-solutions-with-snowflakedb)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Keep learning
+  - [Keep learning](#keep-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Driving maximum results with a flexible data cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (6), cloud (2), [[Hardware]] (1), [[Snowflake]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
@@ -141,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Snowflake]] (2), database (2)
 > **Env Vars:** sql (5)
 > **Analogies:** such as (2)
 > **CLI Commands:** mysql (1)
@@ -171,6 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (5), cloud (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -180,7 +182,7 @@ created: 2026-04-29
 
 ### 1. SnowflakeDB Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet SnowflakeDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980)
@@ -301,8 +303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Snowflake]] (15), cloud (8), [[SaaS]] (3), [[GitHub]] (3)
 > **Env Vars:** sql (2), aws (2), etl (1), gcp (1), api (1)
-> **Code Keywords:** let (3), interface (2), super (1), from, (1)
 > **Definitions:** is a  (4), means that (1)
 > **Prerequisites:** install (3), getting started (1)
 > **Tools:** github (3)
@@ -366,10 +368,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Snowflake]] (9), feature (2), [[JSON]] (2), [[SQL]] (1)
 > **Env Vars:** json (2), sql (1), oltp (1), csv (1), xml (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), apache (1)
-> **Code Keywords:** public (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -522,8 +524,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), [[Snowflake]] (11), cloud (7), [[SQL]] (2), database (2)
 > **Env Vars:** sql (3), oltp (1), dna (1), rna (1), json (1)
-> **Code Keywords:** let (1), for. (1), case, (1), for, (1), from. (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1)
@@ -577,9 +579,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (8), data (7), [[Security]] (7), cloud (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** tco (3), aws (1), gcp (1), etl (1)
 > **CLI Commands:** find (2), aws (1), make (1)
-> **Code Keywords:** this, (1), default, (1), super (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2), similar to (1)
 > **Prerequisites:** set up (2)
@@ -711,7 +713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), interface (2), let (1), new. (1), default, (1)
+> **Frameworks & Libraries:** [[Snowflake]] (7), data (6), web (3), [[SQL]] (3), [[Databases]] (3)
 > **Env Vars:** sql (3), etl (1), aws (1), covid (1)
 > **CLI Commands:** python (1), aws (1), make (1)
 > **Definitions:** is a  (2)
@@ -726,7 +728,7 @@ created: 2026-04-29
 
 ### 2. SnowflakeDB Data Storage and Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### See SnowflakeDB queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980)
@@ -857,7 +859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (4), this, (2), pass (1), super (1)
+> **Frameworks & Libraries:** data (34), database (6), [[Snowflake]] (3), [[Analytics]] (2), [[Scalability]] (1)
 > **Env Vars:** covid (4), sql (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -939,9 +941,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Snowflake]] (8), cloud (5), [[CLI]] (2), aws (1)
 > **Env Vars:** cli (2), aws (1), gcp (1), gcs (1), csv (1)
 > **Definitions:** is a  (4), is an  (2), is called (1)
-> **Code Keywords:** let (2), default, (1), this. (1), case, (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1020,7 +1022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), this, (1), let (1), default. (1), throw (1)
+> **Frameworks & Libraries:** data (5), database (3), [[JSON]] (2), next (2), web (1)
 > **Env Vars:** json (2), csv (2), xml (1), orc (1), etl (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (1), such as (1)
@@ -1086,9 +1088,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (6), [[Snowflake]] (5), [[CLI]] (3), [[JSON]] (2)
 > **Env Vars:** cli (3), json (2), copy (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** best practice (1)
@@ -1159,8 +1161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), case, (1)
 > **Documentation:** the documentation (2)
 > **Analogies:** for example (2)
 > **Env Vars:** on_error (1)
@@ -1233,7 +1235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), this. (1), type. (1), type, (1)
+> **Frameworks & Libraries:** data (11), [[Snowflake]] (9), cloud (2), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **Env Vars:** aws (2), sql (1), gcp (1)
 > **CLI Commands:** aws (2), find (1)
 > **Definitions:** is a  (2)
@@ -1243,7 +1245,7 @@ created: 2026-04-29
 
 ### 3. SnowflakeDB Query Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use SnowflakeDB for SQL queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980)
@@ -1372,7 +1374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (4), this, (4), switch (1), default. (1)
+> **Frameworks & Libraries:** data (8), [[Snowflake]] (6), [[SQL]] (5), database (2), feature (2)
 > **Env Vars:** sql (5), covid (2), tco (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Cross-References:** go back to (2)
@@ -1472,7 +1474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), switch (1), interface (1), this, (1), delete (1)
+> **Frameworks & Libraries:** feature (4), web (3), next (1), [[Tableau]] (1), power (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
@@ -1601,7 +1603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), interface (3), this. (1), let (1), super (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Snowflake]] (2), [[JavaScript]] (2), [[Java]] (2), next (1)
 > **Env Vars:** sql (8), udf (2), ansi (1), dba (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Documentation:** the documentation (2)
@@ -1766,7 +1768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (2), interface (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Virtual Machines]] (2), data (2), management (1), [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** think of it as (1), for example (1)
 > **Code Identifiers:** my_big (1)
@@ -1846,8 +1848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (11), data (2), [[GitHub]] (1), concurrent (1)
 > **Definitions:** is a  (5), is an  (1)
-> **Code Keywords:** this, (2), continue (1), case. (1), else, (1)
 > **Documentation:** the documentation (2)
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
@@ -1858,7 +1860,7 @@ created: 2026-04-29
 
 ### 4. SnowflakeDB Data Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand SnowflakeDB account usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-account-usage?u=76281980)
@@ -1923,7 +1925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (3), this, (2)
+> **Frameworks & Libraries:** data (4), database (1), [[Security]] (1), management (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2016,7 +2018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), for, (1), let (1), switch (1)
+> **Frameworks & Libraries:** next (1), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** accountadmin (2), my_role (1), sql (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
@@ -2049,6 +2051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), next (1), data (1), [[Snowflake]] (1)
 > **Env Vars:** mfa (4)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1)
@@ -2094,9 +2097,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Snowflake]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2156,7 +2159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), case, (1), super (1)
+> **Frameworks & Libraries:** [[Security]] (9), [[Snowflake]] (8), [[Microsoft Azure|Azure]] (3), aws (2), [[GitHub]] (1)
 > **Env Vars:** aws (2), hipaa (1), pci (1)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** for example (2)
@@ -2168,7 +2171,7 @@ created: 2026-04-29
 
 ### 5. SnowflakeDB Partners and Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the Snowflake data life cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980)
@@ -2241,8 +2244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Snowflake]] (9), [[Microsoft Azure|Azure]] (5), [[Python (Programming Language)|Python]] (4), [[Databases]] (2)
 > **CLI Commands:** python (4), node (1), docker (1)
-> **Code Keywords:** this, (2), delete (1), let (1), case, (1)
 > **Env Vars:** ec2 (2), sql (1), sns (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (3), for example (1)
@@ -2302,7 +2305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), case, (1)
+> **Frameworks & Libraries:** data (13), [[Snowflake]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** covid (1)
 > **Cross-References:** earlier in (1)
@@ -2351,7 +2354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3), this, (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), etl (4), data (4), management (1), database (1)
 > **Env Vars:** etl (4)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -2425,7 +2428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), require (1), case, (1), type, (1), continue (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), data (3), aws (1), [[IoT]] (1), [[JSON]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2), for example (2)
 > **Env Vars:** aws (1), mqtt (1), json (1)
@@ -2437,7 +2440,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/keep-learning?u=76281980)
@@ -2458,7 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[GitHub]] (3), [[LinkedIn]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** find (1)
 > **Exercise Files:** github repo (1)

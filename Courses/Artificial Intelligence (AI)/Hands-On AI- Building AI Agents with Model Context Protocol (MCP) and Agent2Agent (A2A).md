@@ -30,7 +30,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20Building%20AI%20Agents%20with%20Model%20Context%20Protocol%20(MCP)%20and%20Agent2Agent%20(A2A).md)
@@ -49,49 +49,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why MCP and A2A?
+  - [Why MCP and A2A?](#why-mcp-and-a2a)
 - [**1. Introduction to Model Context Protocol**](#1-introduction-to-model-context-protocol) (6 videos)
-  - What is Model Context Protocol?
-  - MCP architecture
-  - Resources, tools, and prompt templates
-  - Transport in MCP
-  - Messaging flow in MCP
-  - Prebuilt MCP servers
+  - [What is Model Context Protocol?](#what-is-model-context-protocol)
+  - [MCP architecture](#mcp-architecture)
+  - [Resources, tools, and prompt templates](#resources-tools-and-prompt-templates)
+  - [Transport in MCP](#transport-in-mcp)
+  - [Messaging flow in MCP](#messaging-flow-in-mcp)
+  - [Prebuilt MCP servers](#prebuilt-mcp-servers)
 - [**2. A Simple MCP App**](#2-a-simple-mcp-app) (5 videos)
-  - MCP SDKs
-  - Simple MCP app design
-  - Build the code-of-conduct MCP server
-  - Build the code-of-conduct MCP client
-  - Execute the code-of-conduct app with MCP
+  - [MCP SDKs](#mcp-sdks)
+  - [Simple MCP app design](#simple-mcp-app-design)
+  - [Build the code-of-conduct MCP server](#build-the-code-of-conduct-mcp-server)
+  - [Build the code-of-conduct MCP client](#build-the-code-of-conduct-mcp-client)
+  - [Execute the code-of-conduct app with MCP](#execute-the-code-of-conduct-app-with-mcp)
 - [**3. HR Policy Agent with MCP**](#3-hr-policy-agent-with-mcp) (4 videos)
-  - HR policy agent design
-  - Build the HR policy MCP server
-  - Build the HR policy agent with MCP client
-  - Execute the HR policy agent with MCP
+  - [HR policy agent design](#hr-policy-agent-design)
+  - [Build the HR policy MCP server](#build-the-hr-policy-mcp-server)
+  - [Build the HR policy agent with MCP client](#build-the-hr-policy-agent-with-mcp-client)
+  - [Execute the HR policy agent with MCP](#execute-the-hr-policy-agent-with-mcp)
 - [**4. HR Timeoff Agent with MCP**](#4-hr-timeoff-agent-with-mcp) (4 videos)
-  - HR timeoff agent design
-  - Build the HR timeoff MCP server
-  - Build the HR Timeoff Agent with MCP Client
-  - Execute the HR timeoff agent with MCP
+  - [HR timeoff agent design](#hr-timeoff-agent-design)
+  - [Build the HR timeoff MCP server](#build-the-hr-timeoff-mcp-server)
+  - [Build the HR Timeoff Agent with MCP Client](#build-the-hr-timeoff-agent-with-mcp-client)
+  - [Execute the HR timeoff agent with MCP](#execute-the-hr-timeoff-agent-with-mcp)
 - [**5. Introduction to Agent2Agent Protocol**](#5-introduction-to-agent2agent-protocol) (6 videos)
-  - What is A2A?
-  - Architecture of A2A
-  - A2A communication elements
-  - A2A protocols
-  - A2A discovery strategies
-  - A2A client and server communication flow
+  - [What is A2A?](#what-is-a2a)
+  - [Architecture of A2A](#architecture-of-a2a)
+  - [A2A communication elements](#a2a-communication-elements)
+  - [A2A protocols](#a2a-protocols)
+  - [A2A discovery strategies](#a2a-discovery-strategies)
+  - [A2A client and server communication flow](#a2a-client-and-server-communication-flow)
 - [**6. Build a Multi-Agent HR App with A2A**](#6-build-a-multi-agent-hr-app-with-a2a) (5 videos)
-  - HR multi-agent assistant design
-  - Implement A2A Server for agents
-  - Implement a A2A client
-  - Create a multi-agent router agent
-  - Execute the multi-agent HR App with A2A
+  - [HR multi-agent assistant design](#hr-multi-agent-assistant-design)
+  - [Implement A2A Server for agents](#implement-a2a-server-for-agents)
+  - [Implement a A2A client](#implement-a-a2a-client)
+  - [Create a multi-agent router agent](#create-a-multi-agent-router-agent)
+  - [Execute the multi-agent HR App with A2A](#execute-the-multi-agent-hr-app-with-a2a)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Recommended next steps
+  - [Recommended next steps](#recommended-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why MCP and A2A?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980)
@@ -110,14 +110,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), data (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** mcp (3), a2a (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Introduction to Model Context Protocol
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Model Context Protocol?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980)
@@ -184,8 +184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Orchestration]] (3), prompt (3), application (2), [[Databases]] (2)
 > **Env Vars:** mcp (7), sql (1), rest (1)
-> **Code Keywords:** let (2), interface (2)
 > **Code Identifiers:** grpc (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** setup (1)
@@ -280,8 +280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), application (4), [[Microsoft Products|Products]] (3), database (3), [[Search]] (3)
 > **Env Vars:** mcp (37), rag (2), sql (2), rest (1)
-> **Code Keywords:** let (2), finally, (1), module (1), function (1), interface (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -366,8 +366,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (6), data (6), ai (4), application (3), [[Search]] (2)
 > **Env Vars:** mcp (15), uri (2)
-> **Code Keywords:** interface (3), let (1), delete (1)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -451,8 +451,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[JSON]] (2), ai (2), next (1), [[Server-Sent Events|Sse]] (1)
 > **Env Vars:** mcp (15), stdio (3), http (3), json (2), url (2)
-> **Code Keywords:** let (2), self (1), public (1), interface (1)
 > **Definitions:** is a  (3)
 > **Versions:** 2.0 (1)
 > **Cross-References:** we discussed (1)
@@ -491,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), prompt (1)
 > **Env Vars:** mcp (12)
-> **Code Keywords:** let (1), continue (1)
 > **Prerequisites:** initialization (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -530,9 +530,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Databases]] (2), open-source (2), [[Microsoft Products|Products]] (1), [[SaaS]] (1)
 > **Env Vars:** mcp (7)
 > **Best Practices:** recommended (2)
-> **Code Keywords:** case. (1)
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [instructor] (1)
@@ -540,7 +540,7 @@ created: 2026-04-29
 
 ### 2. A Simple MCP App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MCP SDKs
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980)
@@ -573,10 +573,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LangChain]] (1), [[LlamaIndex]] (1)
 > **Env Vars:** mcp (13), sdk (3)
 > **CLI Commands:** python (2)
 > **Best Practices:** recommended (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -625,8 +625,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Human Resources (HR)|Human resources]] (1), llm (1), application (1)
 > **Env Vars:** mcp (10), pdf (2), llm (1), stdio (1)
-> **Code Keywords:** let (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -712,8 +712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (2), [[GitHub]] (1), data (1), next (1), database (1)
 > **Env Vars:** mcp (8), pdf (4), ura (3), sdk (2), env (1)
-> **Code Keywords:** function (6), this, (2), let (1), case. (1)
 > **Prerequisites:** set up (2), install (1), setup (1)
 > **Tools:** github (1)
 > **Best Practices:** good practice (1)
@@ -802,8 +802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft Azure|Azure]] (2), llm (2), data (2), application (1)
 > **Env Vars:** mcp (13), std (4), llm (2), sdk (1)
-> **Code Keywords:** let (3), this, (1), function (1), await (1), type, (1)
 > **Prerequisites:** initialization (3), configure (1), set up (1)
 > **Code Identifiers:** code_of_conduct_client (1), langchain_mcp_adapters (1), api_versions (1), fetch_resource_content (1)
 > **Exercise Files:** boilerplate (2)
@@ -836,8 +836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Metadata]] (1)
 > **Env Vars:** mcp (6), uri (1)
-> **Code Keywords:** let (1), function (1)
 > **CLI Commands:** python (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -847,7 +847,7 @@ created: 2026-04-29
 
 ### 3. HR Policy Agent with MCP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### HR policy agent design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980)
@@ -904,8 +904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (6), database (4), prompt (3), ai (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** mcp (12), pdf (2), rag (1), llm (1), stdio (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (2)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -965,8 +965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (6), database (3), hr (2), next (1), [[Search]] (1)
 > **Env Vars:** mcp (7), pdf (1), pypdf (1), mll6v2 (1), llm (1)
-> **Code Keywords:** function (4), let (1), finally, (1)
 > **Prerequisites:** set up (3)
 > **Exercise Files:** template (1)
 > **Warnings:** note that (1)
@@ -1035,8 +1035,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Fetch]] (3), prompt (3), next (2), llm (2)
 > **Env Vars:** mcp (7), llm (2)
-> **Code Keywords:** function (2), pass (2), this, (1)
 > **CLI Commands:** python (3)
 > **Code Identifiers:** hr_policy_agent (1), hr_policy_server (1), run_hr_policy_agent (1)
 > **File Paths:** hr_policy_agent.py (1), hr_policy_server.py (1)
@@ -1073,15 +1073,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (3), prompt (2), [[React.js|React]] (1)
 > **Env Vars:** mcp (6)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [speaker] (1)
 
 
 ### 4. HR Timeoff Agent with MCP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### HR timeoff agent design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980)
@@ -1138,8 +1138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (6), database (4), data (3), prompt (2), management (2)
 > **Env Vars:** mcp (10), http (2), sse (1), sgbao (1)
-> **Code Keywords:** let (2)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
@@ -1242,8 +1242,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), next (3), data (3), [[Python (Programming Language)|Python]] (2), llm (2)
 > **Env Vars:** mcp (6), http (2), llm (1), url (1)
-> **Code Keywords:** let (2), finally, (2), function (2)
 > **Cross-References:** we discussed (1), previous video (1), in the next (1)
 > **File Paths:** timeoff_datastore.py (1), server.py (1)
 > **CLI Commands:** python (2)
@@ -1316,8 +1316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), prompt (2), hr (1), [[Microsoft Azure|Azure]] (1), llm (1)
 > **Env Vars:** mcp (3), http (3), url (2), llm (1)
-> **Code Keywords:** let (2), function (2), interface (2)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **Analogies:** similar to (2)
 > **File Paths:** timeoff_agent.py (1)
@@ -1377,9 +1377,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), database (2), [[React.js|React]] (2), hr (1), next (1)
 > **Env Vars:** mcp (4), post (1), http (1)
 > **File Paths:** timeoff_db_server.py (1), timeoff_agent.py (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** timeoff_db_server (1), timeoff_agent (1)
 > **API Endpoints:** post  (1), get  (1)
 > **Ports:** port 8000 (1)
@@ -1388,7 +1388,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Agent2Agent Protocol
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is A2A?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980)
@@ -1453,8 +1453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), product (2), next (1), [[Technical Support]] (1), cloud (1)
 > **Env Vars:** a2a (9), mcp (1), lama (1), aws (1), gcp (1)
-> **Code Keywords:** function (2), require (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** aws (1)
@@ -1542,8 +1542,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (1), application (1)
 > **Env Vars:** a2a (23), mcp (7), llm (1)
-> **Code Keywords:** finally, (1), interface (1), let (1)
 > **Prerequisites:** setup (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1621,9 +1621,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[JSON]] (1), [[Metadata]] (1), next (1)
 > **Env Vars:** a2a (11), json (1)
 > **Definitions:** is a  (4), is an  (1), is called (1)
-> **Code Keywords:** let (1), require (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### A2A protocols
@@ -1695,8 +1695,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** a2a (18), url (3)
-> **Code Keywords:** let (2), continue (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1759,6 +1759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Google]] (1), api (1), [[Security]] (1)
 > **Env Vars:** uri (6), a2a (3), api (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** previous video (1), we discussed (1)
@@ -1829,15 +1830,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Fetch]] (1), [[Search]] (1), [[Server-Sent Events|Sse]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** a2a (20), url (6), uri (1), sse (1), rest (1)
-> **Code Keywords:** interface (4), let (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Build a Multi-Agent HR App with A2A
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### HR multi-agent assistant design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-multi-agent-assistant-design?u=76281980)
@@ -1906,9 +1907,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (21), front-end (1)
 > **Env Vars:** a2a (14), mcp (5), http (2), stdio (1), grpc (1)
 > **Warnings:** note that (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** previous chapter (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
@@ -2024,7 +2025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), finally, (2), let (1), class. (1), override (1)
+> **Frameworks & Libraries:** hr (7), next (3), application (2), prompt (1)
 > **Code Identifiers:** wrapper_hr_policy_agent (1), run_hr_policy_agent (1), wrapper_timeoff_agent (1)
 > **Env Vars:** url (3)
 > **File Paths:** a2a.wrapper_hr_policy_agent.py (1), a2a.wrapper_timeoff_agent.py (1)
@@ -2089,10 +2090,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), llm (3), prompt (3), [[Routing]] (1), next (1)
 > **Code Identifiers:** router_agent (1), call_llm (1), policy_agent_node (1), timeoff_agent_node (1), timeoff_agent (1)
 > **Env Vars:** llm (3), url (2)
 > **CLI Commands:** node (3)
-> **Code Keywords:** let (2), continue (1)
 > **Definitions:** is called (2)
 > **File Paths:** a2a_client_router_agent.py (1)
 > **Cross-References:** in the next (1)
@@ -2187,8 +2188,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), node (3), [[Python (Programming Language)|Python]] (1), [[JSON]] (1), prompt (1)
 > **Env Vars:** mcp (3), url (2), http (1), policy (1), timeoff (1)
-> **Code Keywords:** let (2), this, (1), finally, (1), switch (1), for . (1)
 > **Ports:** port 9 (4), port 8 (1)
 > **CLI Commands:** node (3), python (1)
 > **File Paths:** well-known/agent.json (1)
@@ -2199,7 +2200,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recommended next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/recommended-next-steps?u=76281980)
@@ -2226,8 +2227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LlamaIndex]] (1), data (1)
 > **Env Vars:** mcp (3), a2a (3)
-> **Code Keywords:** case. (1), let (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

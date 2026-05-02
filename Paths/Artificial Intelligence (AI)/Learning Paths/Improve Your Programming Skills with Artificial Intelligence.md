@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - DevOps
   - Software Development
-louvain_cluster: 14
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Improve%20Your%20Programming%20Skills%20with%20Artificial%20Intelligence.md)

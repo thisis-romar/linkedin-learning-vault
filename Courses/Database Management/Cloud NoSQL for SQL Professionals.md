@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/nosql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Cloud%20NoSQL%20for%20SQL%20Professionals.md)
@@ -46,60 +46,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Simplify the NoSQL ecosystem
-  - Use cloud services
+  - [Simplify the NoSQL ecosystem](#simplify-the-nosql-ecosystem)
+  - [Use cloud services](#use-cloud-services)
 - [**1. The Road to NoSQL**](#1-the-road-to-nosql) (4 videos)
-  - Manage data as file or tables
-  - Add behavioral data
-  - Add web-scale data
-  - Add NoSQL databases
+  - [Manage data as file or tables](#manage-data-as-file-or-tables)
+  - [Add behavioral data](#add-behavioral-data)
+  - [Add web-scale data](#add-web-scale-data)
+  - [Add NoSQL databases](#add-nosql-databases)
 - [**2. Understanding NoSQL Databases**](#2-understanding-nosql-databases) (5 videos)
-  - Store data, query information including NoSQL
-  - Overcome file system limits including NoSQL
-  - Overcome RDBMS limits using NoSQL
-  - Understand CAP Theorem and data
-  - Apply CAP Theorem with NoSQL
+  - [Store data, query information including NoSQL](#store-data-query-information-including-nosql)
+  - [Overcome file system limits including NoSQL](#overcome-file-system-limits-including-nosql)
+  - [Overcome RDBMS limits using NoSQL](#overcome-rdbms-limits-using-nosql)
+  - [Understand CAP Theorem and data](#understand-cap-theorem-and-data)
+  - [Apply CAP Theorem with NoSQL](#apply-cap-theorem-with-nosql)
 - [**3. Use Key-Value NoSQL**](#3-use-key-value-nosql) (4 videos)
-  - Store huge, in-memory lookup lists on NoSQL
-  - Use Cloud Memorystore for Redis on GCP
-  - Use AWS ElastiCache for Redis
-  - Review NoSQL key-value architecture
+  - [Store huge, in-memory lookup lists on NoSQL](#store-huge-in-memory-lookup-lists-on-nosql)
+  - [Use Cloud Memorystore for Redis on GCP](#use-cloud-memorystore-for-redis-on-gcp)
+  - [Use AWS ElastiCache for Redis](#use-aws-elasticache-for-redis)
+  - [Review NoSQL key-value architecture](#review-nosql-key-value-architecture)
 - [**4. Use Columnar NoSQL**](#4-use-columnar-nosql) (5 videos)
-  - Store events on NoSQL
-  - Use Cloud Cassandra on AWS
-  - Use GCP BigTable
-  - Use GCP BigQuery
-  - Review NoSQL columnar architecture
+  - [Store events on NoSQL](#store-events-on-nosql)
+  - [Use Cloud Cassandra on AWS](#use-cloud-cassandra-on-aws)
+  - [Use GCP BigTable](#use-gcp-bigtable)
+  - [Use GCP BigQuery](#use-gcp-bigquery)
+  - [Review NoSQL columnar architecture](#review-nosql-columnar-architecture)
 - [**5. Use Document NoSQL**](#5-use-document-nosql) (5 videos)
-  - Store customer activity using NoSQL
-  - Use Cloud MongoDB on GCP
-  - Use AWS DocumentDB
-  - Use AWS DynamoDB
-  - Review NoSQL document architecture
+  - [Store customer activity using NoSQL](#store-customer-activity-using-nosql)
+  - [Use Cloud MongoDB on GCP](#use-cloud-mongodb-on-gcp)
+  - [Use AWS DocumentDB](#use-aws-documentdb)
+  - [Use AWS DynamoDB](#use-aws-dynamodb)
+  - [Review NoSQL document architecture](#review-nosql-document-architecture)
 - [**6. Use Graph NoSQL**](#6-use-graph-nosql) (4 videos)
-  - Store customer relations using NoSQL
-  - Use Neo4j on Kubernetes
-  - Use AWS Neptune
-  - Review NoSQL Graph architecture
+  - [Store customer relations using NoSQL](#store-customer-relations-using-nosql)
+  - [Use Neo4j on Kubernetes](#use-neo4j-on-kubernetes)
+  - [Use AWS Neptune](#use-aws-neptune)
+  - [Review NoSQL Graph architecture](#review-nosql-graph-architecture)
 - [**7. Use Specialty NoSQL**](#7-use-specialty-nosql) (8 videos)
-  - Store real-time events using NoSQL
-  - Use GCP Firestore
-  - Store IoT events
-  - Use AWS IoT events
-  - Use AWS TimeStream
-  - Store blockchain entries using NoSQL
-  - Use AWS QLDB
-  - Google Cloud Vertex AI Vector Search
+  - [Store real-time events using NoSQL](#store-real-time-events-using-nosql)
+  - [Use GCP Firestore](#use-gcp-firestore)
+  - [Store IoT events](#store-iot-events)
+  - [Use AWS IoT events](#use-aws-iot-events)
+  - [Use AWS TimeStream](#use-aws-timestream)
+  - [Store blockchain entries using NoSQL](#store-blockchain-entries-using-nosql)
+  - [Use AWS QLDB](#use-aws-qldb)
+  - [Google Cloud Vertex AI Vector Search](#google-cloud-vertex-ai-vector-search)
 - [**8. Understand NoSQL Trends**](#8-understand-nosql-trends) (3 videos)
-  - Consolidation and cloud for NoSQL
-  - Multifunction NoSQL databases
-  - DataLake NoSQL alternatives
+  - [Consolidation and cloud for NoSQL](#consolidation-and-cloud-for-nosql)
+  - [Multifunction NoSQL databases](#multifunction-nosql-databases)
+  - [DataLake NoSQL alternatives](#datalake-nosql-alternatives)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with NoSQL
+  - [Next steps with NoSQL](#next-steps-with-nosql)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simplify the NoSQL ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980)
@@ -120,8 +120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (3), [[Databases]] (3), database (2), cloud (2), data (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [lynn] (1)
 
 #### Use cloud services
@@ -151,8 +151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Microsoft Azure|Azure]] (1), business (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** public (1), delete (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 ### 1. The Road to NoSQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage data as file or tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980)
@@ -233,8 +233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), database (5), [[NoSQL]] (4), [[Hardware]] (3), management (2)
 > **Env Vars:** sql (2), crud (2), olap (1), oltp (1), join (1)
-> **Code Keywords:** let (1), from, (1), delete (1), this, (1), from. (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** mysql (1)
 > **SQL:** join (1)
@@ -311,8 +311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Google]] (3), database (1), traffic (1), feature (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), this, (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** json (1)
 > **Prerequisites:** set up (1)
@@ -353,8 +353,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Google]] (5), [[NoSQL]] (4), web (3), [[Search]] (1)
 > **Analogies:** picture (2), such as (1)
-> **Code Keywords:** from. (1), public (1)
 > **Speakers:** - [narrator] (1)
 
 #### Add NoSQL databases
@@ -412,8 +412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[NoSQL]] (11), [[Databases]] (5), database (5), web (2)
 > **Env Vars:** json (1), xml (1)
-> **Code Keywords:** type. (1)
 > **Versions:** 38.6 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - to (1)
@@ -421,7 +421,7 @@ created: 2026-04-29
 
 ### 2. Understanding NoSQL Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Store data, query information including NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980)
@@ -494,7 +494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), type. (2), let (1), case, (1), new. (1)
+> **Frameworks & Libraries:** [[NoSQL]] (21), data (10), database (9), [[SQL]] (5), teams (3)
 > **Env Vars:** sql (5), cql (1)
 > **Analogies:** for example (2), such as (1), it's like (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -529,10 +529,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Hadoop]] (5), [[NoSQL]] (3), cloud (3), web (1)
 > **Env Vars:** ntfs (1), aws (1)
 > **Definitions:** is an  (1), is called (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -579,8 +579,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (15), data (10), [[SQL]] (1), database (1), [[Hardware]] (1)
 > **Env Vars:** crud (2), rdbms (1), sql (1), joins (1)
-> **Code Keywords:** this, (1), delete (1), this. (1), case. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -651,8 +651,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Google]] (3), database (2), [[Banking]] (2), [[NoSQL]] (2)
 > **Definitions:** is a  (2), stands for (1), means that (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** cap (2)
 > **Cross-References:** we mentioned (1)
 > **Analogies:** imagine (1)
@@ -739,9 +739,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (20), cloud (10), [[Databases]] (7), data (7), database (6)
 > **Env Vars:** cap (1), ntfs (1), olap (1), gcp (1), orm (1)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** let (1), else. (1), type, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
@@ -749,7 +749,7 @@ created: 2026-04-29
 
 ### 3. Use Key-Value NoSQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Store huge, in-memory lookup lists on NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980)
@@ -834,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (2), default, (1), let (1)
+> **Frameworks & Libraries:** [[Redis]] (10), data (10), [[NoSQL]] (9), cloud (8), database (7)
 > **Env Vars:** gcp (3), cap (1), sql (1), aws (1)
 > **Analogies:** for example (3), such as (2), picture (1)
 > **Definitions:** is a  (4), is called (1)
@@ -935,8 +935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (17), [[Google]] (8), cloud (4), data (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (3)
 > **Prerequisites:** set up (10), install (3), setup (1)
-> **Code Keywords:** let (5), switch (1), this, (1), new. (1), this. (1)
 > **CLI Commands:** gcloud (2), apt (2), make (1), ssh (1)
 > **Env Vars:** api (2), sql (1), ssh (1), cli (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1079,7 +1079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), delete (3), type. (2), this. (1), else, (1)
+> **Frameworks & Libraries:** [[Redis]] (20), [[Google]] (11), node (6), data (4), cloud (3)
 > **CLI Commands:** node (6), make (2), az (1), gcloud (1), aws (1)
 > **Env Vars:** ec2 (2), vpc (1), api (1), cpu (1), aws (1)
 > **Prerequisites:** set up (6), getting started (1), install (1)
@@ -1157,7 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pub (3), let (1), default. (1)
+> **Frameworks & Libraries:** [[Security]] (7), [[NoSQL]] (6), cloud (5), [[Redis]] (4), [[Node.js]] (3)
 > **CLI Commands:** node (3), make (1)
 > **File Paths:** node.js (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1169,7 +1169,7 @@ created: 2026-04-29
 
 ### 4. Use Columnar NoSQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Store events on NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980)
@@ -1268,12 +1268,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[NoSQL]] (6), [[Google]] (6), gcp (5), database (4)
 > **Env Vars:** gcp (5), cap (1)
 > **Cross-References:** earlier in (2), we talked about (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2), kind of like (1)
 > **CLI Commands:** make (1), mongo (1)
-> **Code Keywords:** let (1), default, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Use Cloud Cassandra on AWS
@@ -1379,7 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), type. (1), case, (1)
+> **Frameworks & Libraries:** [[NoSQL]] (3), data (3), next (2), aws (1), [[Search]] (1)
 > **Env Vars:** aws (1), cql (1), json (1)
 > **CLI Commands:** aws (1)
 > **UI Navigation:** go to (1)
@@ -1499,8 +1499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (6), cloud (5), [[NoSQL]] (3), data (3), [[GitHub]] (2)
 > **Env Vars:** ssd (1), hdd (1), gcp (1), cbttrc (1), stk (1)
-> **Code Keywords:** this, (2), type, (1), case, (1)
 > **Code Identifiers:** nosql (2), nosgl (1)
 > **Tools:** github (2), terminal (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1615,8 +1615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[SQL]] (13), [[NoSQL]] (9), [[Google]] (5), database (2)
 > **Env Vars:** sql (13), noaa (3), json (1), ansi (1)
-> **Code Keywords:** public (3), this, (3), this. (2), let (1), new. (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1657,7 +1657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pub (3), let (1)
+> **Frameworks & Libraries:** [[Google]] (3), cloud (2), [[NoSQL]] (2), [[Analytics]] (2), data (2)
 > **Env Vars:** gcp (1), sql (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** is a  (1)
@@ -1667,7 +1667,7 @@ created: 2026-04-29
 
 ### 5. Use Document NoSQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Store customer activity using NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980)
@@ -1750,11 +1750,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (11), [[Databases]] (7), [[MongoDB]] (6), database (5), aws (3)
 > **Env Vars:** aws (3), cto (1), json (1), bson (1), xml (1)
 > **Definitions:** is a  (3), in other words (1), stands for (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** aws (3)
-> **Code Keywords:** case, (1), case. (1), require (1)
 > **Code Identifiers:** db (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1824,8 +1824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (8), cloud (4), database (4), [[Search]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3)
 > **CLI Commands:** mongo (11), gcloud (1), make (1)
-> **Code Keywords:** this, (4), delete (3), let (1), case, (1), case. (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), similar to (1)
 > **Env Vars:** gcp (1), cpu (1)
@@ -1878,8 +1878,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (6), database (3), [[Databases]] (3), aws (2), [[MongoDB]] (2)
 > **CLI Commands:** mongo (8), aws (2), make (1), find (1)
-> **Code Keywords:** case, (3), class, (1), this. (1), this, (1), delete (1)
 > **Env Vars:** aws (2), ec2 (2), seo (1), json (1), sql (1)
 > **Prerequisites:** set up (3), install (2)
 > **Definitions:** is a  (1), is called (1)
@@ -2025,7 +2025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), this, (1), default, (1), type. (1)
+> **Frameworks & Libraries:** [[NoSQL]] (10), data (7), [[Databases]] (3), database (3), cloud (3)
 > **Env Vars:** dax (3), ttl (2), cto (1), aws (1), cli (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Definitions:** is a  (3), in other words (1)
@@ -2109,7 +2109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), interface (1)
+> **Frameworks & Libraries:** [[NoSQL]] (5), application (5), cloud (3), database (2), [[Databases]] (2)
 > **Definitions:** is called (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dax (1)
@@ -2119,7 +2119,7 @@ created: 2026-04-29
 
 ### 6. Use Graph NoSQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Store customer relations using NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980)
@@ -2190,9 +2190,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (5), [[Neo4j]] (4), [[NoSQL]] (3), [[Databases]] (3)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** csv (1), sparql (1), rdf (1), aws (1)
-> **Code Keywords:** default, (1), case. (1), new, (1)
 > **Definitions:** defined as (1), is a  (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
@@ -2304,7 +2304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), from. (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Neo4j]] (8), [[Google]] (5), [[Databases]] (4), gcp (3)
 > **Prerequisites:** set up (5), setup (2), configure (1)
 > **Env Vars:** gcp (3), csv (2), a81 (1), ctl (1)
 > **Definitions:** is a  (5)
@@ -2426,7 +2426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (2), type, (1), this. (1), default, (1)
+> **Frameworks & Libraries:** data (6), database (4), [[Neo4j]] (3), [[Amazon EC2|Ec2]] (3), next (2)
 > **Env Vars:** rdf (5), ec2 (3), vpc (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **CLI Commands:** find (3), make (1)
@@ -2478,9 +2478,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[NoSQL]] (3), database (3), application (3), cloud (2)
 > **Env Vars:** ec2 (1), vpc (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -2490,7 +2490,7 @@ created: 2026-04-29
 
 ### 7. Use Specialty NoSQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Store real-time events using NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980)
@@ -2539,8 +2539,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[NoSQL]] (5), gcp (5), [[Firebase]] (5), [[Databases]] (3)
 > **Env Vars:** gcp (5), json (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2617,7 +2617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), interface (1), this. (1), export. (1), case, (1)
+> **Frameworks & Libraries:** gcp (4), cloud (3), data (3), database (3), web (2)
 > **Env Vars:** gcp (4), api (1)
 > **Tools:** gcp console (3)
 > **Definitions:** is a  (2), in other words (1)
@@ -2710,8 +2710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (17), data (10), [[NoSQL]] (9), aws (4), cloud (2)
 > **Definitions:** is a  (4), is an  (3)
-> **Code Keywords:** new, (2), this. (2), abstract (1), this, (1)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (4)
 > **Cross-References:** in the last (1)
@@ -2758,10 +2758,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (11), [[NoSQL]] (6), database (3), management (2), cloud (2)
 > **Env Vars:** iot (11), aws (1), api (1), mqtt (1), tcpip (1)
 > **Code Identifiers:** nosql (6)
 > **Definitions:** is a  (2), is called (1), is an  (1)
-> **Code Keywords:** interface (2), lambda (1)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -2824,8 +2824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (7), data (7), [[IoT]] (5), database (4), aws (3)
 > **Env Vars:** iot (5), aws (3)
-> **Code Keywords:** private (2), this, (1), while. (1)
 > **CLI Commands:** aws (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Documentation:** the documentation (1)
@@ -2873,10 +2873,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (9), data (3), next (2), aws (2), [[NoSQL]] (1)
 > **Env Vars:** qldb (7), aws (2)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** protected (1)
 > **Speakers:** - [woman] (1)
 
 #### Use AWS QLDB
@@ -2940,10 +2940,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Blockchain]] (1)
 > **Env Vars:** qldb (2), vin (1), sha (1)
 > **UI Navigation:** open the (1), go to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** go back to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - here (1)
@@ -3057,7 +3057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), public (2), let (1), this. (1)
+> **Frameworks & Libraries:** data (13), [[Google]] (6), database (4), ai (4), [[Databases]] (3)
 > **Env Vars:** api (3), sql (1), gcp (1), json (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Tools:** colab (2), jupyter (1)
@@ -3069,7 +3069,7 @@ created: 2026-04-29
 
 ### 8. Understand NoSQL Trends
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Consolidation and cloud for NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980)
@@ -3138,10 +3138,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (19), cloud (9), [[Google]] (5), open-source (4), [[SQL]] (4)
 > **Env Vars:** sql (4), qldb (1), cql (1), ansi (1), gcp (1)
 > **Analogies:** such as (4), for example (2)
 > **CLI Commands:** mongo (2), find (2)
-> **Code Keywords:** class, (1), this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -3248,9 +3248,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (6), [[NoSQL]] (5), [[Redis]] (5), [[MongoDB]] (5), data (4)
 > **Env Vars:** gcp (4), aws (2), sql (1), sparql (1), qldb (1)
 > **CLI Commands:** aws (2), find (1), mongo (1)
-> **Code Keywords:** let (2), case, (1), abstract (1)
 > **Analogies:** such as (1), for example (1), similar to (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** note that (1)
@@ -3309,17 +3309,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[NoSQL]] (11), [[Hadoop]] (4), [[Google]] (4), [[SQL]] (3)
 > **Env Vars:** sql (3), hdfs (1), api (1), gcs (1), gcp (1)
 > **Definitions:** is called (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980)
@@ -3362,10 +3362,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (3), aws (3), [[Google]] (3), data (3), cloud (2)
 > **CLI Commands:** aws (3), find (2)
 > **Env Vars:** aws (3), gcp (2)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** continue (1)
 > **Tools:** github (1)
 > **Speakers:** - [lynn] (1)
 

@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/cyber-security-risk
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Demystifying%20Advanced%20and%20Complex%20Security%20Topics.md)
@@ -47,31 +47,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Advanced cyber concepts simplified
+  - [Advanced cyber concepts simplified](#advanced-cyber-concepts-simplified)
 - [**1. Foundational Concepts**](#1-foundational-concepts) (2 videos)
-  - Threats, risks, and vulnerabilities
-  - Defense in depth
+  - [Threats, risks, and vulnerabilities](#threats-risks-and-vulnerabilities)
+  - [Defense in depth](#defense-in-depth)
 - [**2. Threats and Attacks**](#2-threats-and-attacks) (3 videos)
-  - Insider threat
-  - Ransomware
-  - Denial of service attacks
+  - [Insider threat](#insider-threat)
+  - [Ransomware](#ransomware)
+  - [Denial of service attacks](#denial-of-service-attacks)
 - [**3. Modern Security Approaches**](#3-modern-security-approaches) (5 videos)
-  - Passwordless authentication
-  - Zero Trust model
-  - Threat modeling
-  - Web application firewall vs. traditional firewall
-  - Shifting left
+  - [Passwordless authentication](#passwordless-authentication)
+  - [Zero Trust model](#zero-trust-model)
+  - [Threat modeling](#threat-modeling)
+  - [Web application firewall vs. traditional firewall](#web-application-firewall-vs-traditional-firewall)
+  - [Shifting left](#shifting-left)
 - [**4. Cloud and Compliance**](#4-cloud-and-compliance) (2 videos)
-  - Compliance vs. security
-  - Native vs. third-party security services
+  - [Compliance vs. security](#compliance-vs-security)
+  - [Native vs. third-party security services](#native-vs-third-party-security-services)
 - [**5. Topics of the Future**](#5-topics-of-the-future) (1 videos)
-  - Post-quantum cryptography
+  - [Post-quantum cryptography](#post-quantum-cryptography)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Spread your new found expertise
+  - [Spread your new found expertise](#spread-your-new-found-expertise)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced cyber concepts simplified
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/advanced-cyber-concepts-simplified?u=76281980)
@@ -96,15 +96,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ciso (1)
 > **Speakers:** - are (1)
 
 
 ### 1. Foundational Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Threats, risks, and vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980)
@@ -173,7 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Cybersecurity]] (2), management (1), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - first (1)
 
@@ -240,16 +240,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), cloud (2), [[Cybersecurity]] (2), [[Intrusion Detection]] (1), next (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** it's like (1), similar to (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** edr (1)
 > **Speakers:** - defense (1)
 
 
 ### 2. Threats and Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Insider threat
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980)
@@ -290,8 +290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), data (3), [[Phishing]] (1), [[Engineering]] (1), management (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
-> **Code Keywords:** let (1), public (1)
 > **Speakers:** - one (1)
 
 #### Ransomware
@@ -349,7 +349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** data (4), [[Phishing]] (2), [[Cybersecurity]] (2), [[Security]] (1), [[Cryptocurrency]] (1)
 > **Analogies:** similar to (1)
 > **Warnings:** warning (1)
 > **Speakers:** - one (1)
@@ -399,6 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), traffic (3), next (1), data (1)
 > **Env Vars:** osi (1), icmp (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -407,7 +408,7 @@ created: 2026-04-29
 
 ### 3. Modern Security Approaches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Passwordless authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980)
@@ -458,9 +459,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), application (2), data (1), [[Tokens]] (1), [[Cryptography]] (1)
 > **Env Vars:** fido2 (4), pin (1), fido (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
-> **Code Keywords:** let (1), public (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - now (1)
 
@@ -531,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (1)
+> **Frameworks & Libraries:** [[Security]] (6), data (3), application (2), cloud (1), [[Analytics]] (1)
 > **Analogies:** imagine (2), it's like (1), similar to (1)
 > **Cross-References:** we discussed (1)
 > **UI Navigation:** open the (1)
@@ -604,9 +605,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (6), data (2), game (1), [[Security]] (1), next (1)
 > **Env Vars:** stride (4), mitre (2), att (1), vip (1)
 > **Analogies:** imagine (3), it's like (2), picture (1), just like (1)
-> **Code Keywords:** let (1), for. (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - shifting (1)
@@ -652,8 +653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), traffic (2), [[Forms]] (2), [[Security]] (2), web application (1)
 > **Env Vars:** http (2), https (2), sql (1)
-> **Code Keywords:** public (1), function (1), protected (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -696,6 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Software Development]] (2), [[Microsoft Products|Products]] (1), [[Cybersecurity]] (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
@@ -703,7 +705,7 @@ created: 2026-04-29
 
 ### 4. Cloud and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compliance vs. security
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980)
@@ -768,10 +770,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), [[Cybersecurity]] (2), [[React.js|React]] (1)
 > **Analogies:** it's like (2), imagine (1)
 > **Env Vars:** edr (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - compliance (1)
 
 #### Native vs. third-party security services
@@ -815,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), interface (1)
+> **Frameworks & Libraries:** [[Security]] (17), cloud (13), strengths (2), aws (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)
@@ -825,7 +827,7 @@ created: 2026-04-29
 
 ### 5. Topics of the Future
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Post-quantum cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980)
@@ -876,8 +878,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (3), [[Cryptography]] (2), game (1), [[Quantum Computing]] (1)
 > **Env Vars:** pqc (2), https (2), rsa (1), ecc (1), nist (1)
-> **Code Keywords:** case. (1), break. (1), break, (1), let (1)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
@@ -885,7 +887,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spread your new found expertise
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/spread-your-new-found-expertise?u=76281980)
@@ -922,8 +924,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), leadership (2), career (1), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - as (1)
 

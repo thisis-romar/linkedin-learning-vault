@@ -27,7 +27,7 @@ tags:
   - skill/react-js
   - skill/user-interface-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Modern%20Uis%20With%20React%20Router%20V6.md)
@@ -46,36 +46,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Building modern UIs
-  - What you should know about React
-  - Set up the project
+  - [Building modern UIs](#building-modern-uis)
+  - [What you should know about React](#what-you-should-know-about-react)
+  - [Set up the project](#set-up-the-project)
 - [**1. Routing Basics**](#1-routing-basics) (6 videos)
-  - The fundamentals of routing
-  - Install React Router DOM and connect to the browser's URL
-  - Configure your first route
-  - Use Link to navigate between pages
-  - Challenge: Create a navigation with Link and Route
-  - Solution: Create a navigation with Link and Route
+  - [The fundamentals of routing](#the-fundamentals-of-routing)
+  - [Install React Router DOM and connect to the browser's URL](#install-react-router-dom-and-connect-to-the-browsers-url)
+  - [Configure your first route](#configure-your-first-route)
+  - [Use Link to navigate between pages](#use-link-to-navigate-between-pages)
+  - [Challenge: Create a navigation with Link and Route](#challenge-create-a-navigation-with-link-and-route)
+  - [Solution: Create a navigation with Link and Route](#solution-create-a-navigation-with-link-and-route)
 - [**2. Nested Routes and URL Parameters**](#2-nested-routes-and-url-parameters) (7 videos)
-  - How nested routing works
-  - Create a 404 or No Match Route
-  - Define placeholders to create dynamic routes
-  - Read and display URL parameters
-  - Display active links
-  - Challenge: Render a nested UI from route matches
-  - Solution: Render a nested UI from route matches
+  - [How nested routing works](#how-nested-routing-works)
+  - [Create a 404 or No Match Route](#create-a-404-or-no-match-route)
+  - [Define placeholders to create dynamic routes](#define-placeholders-to-create-dynamic-routes)
+  - [Read and display URL parameters](#read-and-display-url-parameters)
+  - [Display active links](#display-active-links)
+  - [Challenge: Render a nested UI from route matches](#challenge-render-a-nested-ui-from-route-matches)
+  - [Solution: Render a nested UI from route matches](#solution-render-a-nested-ui-from-route-matches)
 - [**3. Take Routing Further**](#3-take-routing-further) (5 videos)
-  - Index routes
-  - Navigate programmatically
-  - Pass data when navigating programmatically
-  - Challenge: Pass location state
-  - Solution: Pass location state
+  - [Index routes](#index-routes)
+  - [Navigate programmatically](#navigate-programmatically)
+  - [Pass data when navigating programmatically](#pass-data-when-navigating-programmatically)
+  - [Challenge: Pass location state](#challenge-pass-location-state)
+  - [Solution: Pass location state](#solution-pass-location-state)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building modern UIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/building-modern-uis?u=76281980)
@@ -102,6 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[Routing]] (6), web application (1), [[Software Development]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (1)
 > **Speakers:** - [guil] (1)
@@ -123,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (7), next (1)
 > **Env Vars:** jsx (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
@@ -161,19 +163,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), css (3), [[npm]] (2), [[Routing]] (1), node (1)
 > **Prerequisites:** install (3), set up (2), getting started (1)
 > **CLI Commands:** npm (2), make (1), node (1)
 > **File Paths:** index.css (1), api.js (1)
 > **Env Vars:** css (2)
 > **Tools:** vs code (1), terminal (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Routing Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The fundamentals of routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/the-fundamentals-of-routing?u=76281980)
@@ -230,8 +232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (13), [[Routing]] (12), application (4), web (1), [[Search]] (1)
 > **Env Vars:** url (8)
-> **Code Keywords:** let (1), case, (1), require (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -284,13 +286,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (14), dom (5), web (2), [[npm]] (2), node (1)
 > **Env Vars:** dom (4), url (3), npm (1)
 > **CLI Commands:** npm (2), node (1)
 > **Prerequisites:** install (2), you'll need (1)
 > **Tools:** vs code (1), terminal (1)
 > **Analogies:** for example (2)
 > **File Paths:** index.js (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Configure your first route
@@ -398,7 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (5), function (4), from . (3), default. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (8), api (4), data (2), css (2), dom (1)
 > **Env Vars:** url (8), css (2), api (1)
 > **File Paths:** app.js (2), api.js (2), categories.js (1)
 > **Code Identifiers:** getcategories (3), classname (1)
@@ -452,7 +454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), web (2), application (1), [[Routing]] (1), dom (1)
 > **Env Vars:** url (2)
 > **UI Navigation:** navigate to (1), click on (1)
 > **File Paths:** app.js (1)
@@ -490,8 +492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Routing]] (1)
 > **Prerequisites:** you'll need (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -567,7 +569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), from . (1), default. (1), module (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), next (1), dom (1), web (1)
 > **File Paths:** app.js (2), header.js (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -576,7 +578,7 @@ created: 2026-04-29
 
 ### 2. Nested Routes and URL Parameters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How nested routing works
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/how-nested-routing-works?u=76281980)
@@ -651,8 +653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (7), ai (3), feature (1), [[Routing]] (1), dom (1)
 > **Env Vars:** url (10)
-> **Code Keywords:** let (3), this, (1), pass (1), from . (1)
 > **Analogies:** for example (4)
 > **File Paths:** app.js (1), categories.js (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -711,8 +713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), css (1)
 > **Env Vars:** url (9), css (1)
-> **Code Keywords:** match, (1), pass (1), let (1), this, (1)
 > **UI Navigation:** navigate to (1)
 > **Best Practices:** good practice (1)
 > **Warnings:** warning (1)
@@ -787,9 +789,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), ai (4), business (3), dom (1), [[LinkedIn]] (1)
 > **Env Vars:** url (14)
 > **Analogies:** for example (6), for instance (1)
-> **Code Keywords:** let (5), this, (1)
 > **UI Navigation:** click on (2), open the (1)
 > **Code Identifiers:** catid (2)
 > **Prerequisites:** set up (2)
@@ -885,8 +887,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (4), api (3), [[React.js|React]] (3), next (2)
 > **Code Identifiers:** catid (7), useparams (6), getcategory (4), usestate (1), useeffect (1)
-> **Code Keywords:** function (8), let (6), case, (1), from . (1), pass (1)
 > **Env Vars:** url (13), css (2)
 > **Analogies:** for example (4), just like (1), for instance (1)
 > **File Paths:** category.js (3), api.js (2)
@@ -983,7 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), case, (2), finally, (1), return. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), css (3), dom (1), next (1)
 > **Code Identifiers:** isactive (4), classname (4), getclass (2), classnames (1)
 > **Env Vars:** css (3), url (1)
 > **UI Navigation:** open the (2), select the (1)
@@ -1045,10 +1047,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), ai (1), next (1), api (1)
 > **Code Identifiers:** catid (4), sessionid (3)
 > **Env Vars:** url (6), api (1)
 > **Prerequisites:** you'll need (4), set up (2)
-> **Code Keywords:** let (2), function (2), static (1)
 > **Analogies:** for example (3), similar to (1)
 > **UI Navigation:** navigate to (2)
 > **CLI Commands:** make (1)
@@ -1119,8 +1121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), dom (3), next (2), css (1)
 > **Code Identifiers:** catid (4), sessionid (4), isactive (2), useparams (2), classname (1)
-> **Code Keywords:** let (3), function (2), pass (1), finally, (1)
 > **Env Vars:** url (6), css (1)
 > **UI Navigation:** click on (3), navigate to (2)
 > **File Paths:** app.js (1), session.js (1)
@@ -1131,7 +1133,7 @@ created: 2026-04-29
 
 ### 3. Take Routing Further
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Index routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/index-routes?u=76281980)
@@ -1172,8 +1174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Env Vars:** url (5)
-> **Code Keywords:** pass (1), match. (1)
 > **UI Navigation:** click on (1), navigate to (1)
 > **Analogies:** for example (1), think of it as (1)
 > **File Paths:** app.js (1)
@@ -1238,7 +1240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), pass (4), from . (1), const (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), next (2), data (1)
 > **Code Identifiers:** usenavigate (6), handlesubmit (3), useref (1)
 > **File Paths:** register.js (2), app.js (2), header.js (1)
 > **Env Vars:** url (5)
@@ -1312,7 +1314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (9), function (3), let (2), case, (1), throw (1)
+> **Frameworks & Libraries:** data (10), [[React.js|React]] (3), dom (1), [[Search]] (1), application (1)
 > **Code Identifiers:** uselocation (7), usenavigate (3), useref (1), emailref (1)
 > **Env Vars:** url (2), dom (1)
 > **Analogies:** for example (2), for instance (1)
@@ -1352,7 +1354,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1), finally, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1391,15 +1392,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[React.js|React]] (1)
 > **Code Identifiers:** nameref (3), useref (2), emailref (1)
-> **Code Keywords:** pass (2), let (1), function (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/next-steps?u=76281980)
@@ -1426,6 +1427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[Routing]] (3), [[Application Development]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [guil] (1)
 

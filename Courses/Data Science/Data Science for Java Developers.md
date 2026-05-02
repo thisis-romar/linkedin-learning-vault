@@ -31,7 +31,7 @@ tags:
   - skill/data-science
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20for%20Java%20Developers.md)
@@ -50,65 +50,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Data science: Making sense out of chaos
+  - [Data science: Making sense out of chaos](#data-science-making-sense-out-of-chaos)
 - [**1. Data Science Basics**](#1-data-science-basics) (5 videos)
-  - What is data science anyway?
-  - Data science examples
-  - Data as a business asset
-  - CRISP-DM: The data science cycle
-  - Types of problems in data science
+  - [What is data science anyway?](#what-is-data-science-anyway)
+  - [Data science examples](#data-science-examples)
+  - [Data as a business asset](#data-as-a-business-asset)
+  - [CRISP-DM: The data science cycle](#crisp-dm-the-data-science-cycle)
+  - [Types of problems in data science](#types-of-problems-in-data-science)
 - [**2. Representing Data in Java**](#2-representing-data-in-java) (3 videos)
-  - Data formatting in Java
-  - More data formatting
-  - Real-life data difficulties
+  - [Data formatting in Java](#data-formatting-in-java)
+  - [More data formatting](#more-data-formatting)
+  - [Real-life data difficulties](#real-life-data-difficulties)
 - [**3. Data Manipulation Techniques**](#3-data-manipulation-techniques) (6 videos)
-  - Mapping
-  - Filtering
-  - Collecting
-  - Sorting
-  - Challenge: Combining data operations
-  - Solution: Combining data operations
+  - [Mapping](#mapping)
+  - [Filtering](#filtering)
+  - [Collecting](#collecting)
+  - [Sorting](#sorting)
+  - [Challenge: Combining data operations](#challenge-combining-data-operations)
+  - [Solution: Combining data operations](#solution-combining-data-operations)
 - [**4. Loading Data in Java**](#4-loading-data-in-java) (9 videos)
-  - Reducing file size
-  - Loading data from text files
-  - Creating a person data class
-  - Converting strings to data objects
-  - Loading tab-separated files
-  - Loading CSVs
-  - Converting CSVs to data objects
-  - Challenge: Manipulating data
-  - Solution: Manipulating data
+  - [Reducing file size](#reducing-file-size)
+  - [Loading data from text files](#loading-data-from-text-files)
+  - [Creating a person data class](#creating-a-person-data-class)
+  - [Converting strings to data objects](#converting-strings-to-data-objects)
+  - [Loading tab-separated files](#loading-tab-separated-files)
+  - [Loading CSVs](#loading-csvs)
+  - [Converting CSVs to data objects](#converting-csvs-to-data-objects)
+  - [Challenge: Manipulating data](#challenge-manipulating-data)
+  - [Solution: Manipulating data](#solution-manipulating-data)
 - [**5. Data Visualization with JavaFX**](#5-data-visualization-with-javafx) (8 videos)
-  - Setting up JavaFX
-  - Formatting data for a scatterplot
-  - Displaying a scatterplot
-  - Multiple datasets on a scatterplot
-  - Calculating average MPG
-  - Displaying a bar chart
-  - Challenge: Displaying data on a bar chart
-  - Solution: Displaying data on a bar chart
+  - [Setting up JavaFX](#setting-up-javafx)
+  - [Formatting data for a scatterplot](#formatting-data-for-a-scatterplot)
+  - [Displaying a scatterplot](#displaying-a-scatterplot)
+  - [Multiple datasets on a scatterplot](#multiple-datasets-on-a-scatterplot)
+  - [Calculating average MPG](#calculating-average-mpg)
+  - [Displaying a bar chart](#displaying-a-bar-chart)
+  - [Challenge: Displaying data on a bar chart](#challenge-displaying-data-on-a-bar-chart)
+  - [Solution: Displaying data on a bar chart](#solution-displaying-data-on-a-bar-chart)
 - [**6. Modeling and Machine Learning**](#6-modeling-and-machine-learning) (3 videos)
-  - Building machine learning models
-  - Supervised vs. unsupervised learning
-  - Overfitting and how to avoid it
+  - [Building machine learning models](#building-machine-learning-models)
+  - [Supervised vs. unsupervised learning](#supervised-vs-unsupervised-learning)
+  - [Overfitting and how to avoid it](#overfitting-and-how-to-avoid-it)
 - [**7. K-Nearest Neighbors (KNN)**](#7-k-nearest-neighbors-knn) (7 videos)
-  - K-nearest neighbor basics
-  - Loading flower data
-  - Creating a DataItem interface
-  - Calculating the closest data points
-  - Implementing the DataItem interface
-  - Letting your data points vote
-  - Finishing your KNN classifier
+  - [K-nearest neighbor basics](#k-nearest-neighbor-basics)
+  - [Loading flower data](#loading-flower-data)
+  - [Creating a DataItem interface](#creating-a-dataitem-interface)
+  - [Calculating the closest data points](#calculating-the-closest-data-points)
+  - [Implementing the DataItem interface](#implementing-the-dataitem-interface)
+  - [Letting your data points vote](#letting-your-data-points-vote)
+  - [Finishing your KNN classifier](#finishing-your-knn-classifier)
 - [**8. Naive Bayes**](#8-naive-bayes) (5 videos)
-  - Naive Bayes basics
-  - Calculating the possible labels
-  - Splitting your dataset by label
-  - Calculating mean and standard deviation
-  - Calculating datapoint probabilities
+  - [Naive Bayes basics](#naive-bayes-basics)
+  - [Calculating the possible labels](#calculating-the-possible-labels)
+  - [Splitting your dataset by label](#splitting-your-dataset-by-label)
+  - [Calculating mean and standard deviation](#calculating-mean-and-standard-deviation)
+  - [Calculating datapoint probabilities](#calculating-datapoint-probabilities)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science: Making sense out of chaos
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980)
@@ -135,15 +135,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), career (2), [[LinkedIn]] (2), [[Java]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)
 
 
 ### 1. Data Science Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data science anyway?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980)
@@ -220,10 +220,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (39), [[Analytics]] (5), [[Big Data]] (3), [[Statistics]] (2), [[Algorithms]] (1)
 > **CLI Commands:** make (2), python (1), apache (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** such as (1), think of it as (1)
-> **Code Keywords:** this. (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [narrator] (1)
 
@@ -308,7 +308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), self (1)
+> **Frameworks & Libraries:** data (12), next (1), application (1), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (3), similar to (1)
 > **Env Vars:** dna (1)
 > **Speakers:** - so (1)
@@ -372,9 +372,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Google]] (3), business (1), power (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), imagine (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
@@ -489,7 +489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), for. (1), finally, (1)
+> **Frameworks & Libraries:** data (39), business (13), next (5), [[CRISP-DM]] (3), [[Software Development]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), stands for (1), in other words (1)
 > **Analogies:** just like (2), picture (1), such as (1)
@@ -620,7 +620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), this, (3), let (2)
+> **Frameworks & Libraries:** data (16), next (8), [[Algorithms]] (4), business (2), application (2)
 > **Definitions:** is a  (3), is called (2), in other words (2), known as (2)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)
@@ -628,7 +628,7 @@ created: 2026-04-29
 
 ### 2. Representing Data in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data formatting in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980)
@@ -745,7 +745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), this, (1), type, (1), new, (1)
+> **Frameworks & Libraries:** data (35), [[Java]] (4), next (3), application (1), [[SQL]] (1)
 > **Definitions:** in other words (5)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** apache (1)
@@ -831,7 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), static (3), this. (3), class. (2), class, (2)
+> **Frameworks & Libraries:** data (22), [[JSON]] (7), [[Functional Programming]] (2), [[Java]] (2)
 > **Env Vars:** json (7)
 > **Code Identifiers:** myperson (2), firstname (1), personutils (1), getfirstname (1), peoplelist (1)
 > **CLI Commands:** make (2), find (1)
@@ -925,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (2), delete (1), finally, (1)
+> **Frameworks & Libraries:** data (34), [[Java]] (1), [[Microsoft Word|Word]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Warnings:** keep in mind (3), be aware (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -937,7 +937,7 @@ created: 2026-04-29
 
 ### 3. Data Manipulation Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980)
@@ -1040,7 +1040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2), this, (2), class. (1), public (1)
+> **Frameworks & Libraries:** data (7), [[Java]] (3), next (2), [[Microsoft Word|Word]] (2)
 > **Warnings:** keep in mind (3)
 > **Definitions:** is a  (1), defined as (1)
 > **CLI Commands:** make (1)
@@ -1126,7 +1126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), pass (3), function (3), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (2), next (1), [[Data Manipulation]] (1)
 > **Code Identifiers:** collectcollectors (1), tolist (1), smallnumbers (1), wellpaidemployees (1), jobtitle (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for instance (1)
@@ -1201,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1), static (1), case, (1), for, (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** csv (1)
@@ -1292,7 +1292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), this, (2), case, (2), let (1), this . (1)
+> **Frameworks & Libraries:** data (4), game (1), [[Java]] (1)
 > **Code Identifiers:** compareto (3), jobtitle (1)
 > **Analogies:** for example (2), for instance (1)
 > **Speakers:** - [speaker] (1)
@@ -1312,7 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try, (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1), [[Java]] (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle upbeat music) (1)
@@ -1358,7 +1358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1366,7 +1366,7 @@ created: 2026-04-29
 
 ### 4. Loading Data in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reducing file size
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980)
@@ -1457,8 +1457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), [[Java]] (4), next (2), [[Microsoft Excel|Excel]] (1), [[JSON]] (1)
 > **CLI Commands:** find (3), make (3)
-> **Code Keywords:** this. (1), this, (1), case, (1), let (1)
 > **Env Vars:** csv (1), json (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (2)
@@ -1529,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), public (1), from. (1), pass (1), this. (1)
+> **Frameworks & Libraries:** next (5), data (3), business (1), [[Java]] (1)
 > **Code Identifiers:** getlines (2), readline (1), getmessage (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1602,7 +1602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), class, (3), static (2), let (1), this. (1)
+> **Frameworks & Libraries:** data (9), next (2)
 > **Code Identifiers:** getlines (3), employmentstatus (1), tostring (1), parseperson (1), datastring (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
@@ -1707,7 +1707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), static (1), case. (1), catch ( (1)
+> **Frameworks & Libraries:** data (2), next (2)
 > **Code Identifiers:** parseint (2), datastring (1), aslist (1), parseperson (1), foreach (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -1841,7 +1841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), this, (2), class. (2), let (2), static (2)
+> **Frameworks & Libraries:** data (19), next (3)
 > **Analogies:** just like (5), similar to (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (2), warning (1)
@@ -1954,8 +1954,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (3), hit (1), generic (1)
 > **Env Vars:** csv (22), mpg (1), ide (1), rfc4180 (1)
-> **Code Keywords:** public (3), static (3), class, (1), return, (1), function (1)
 > **CLI Commands:** apache (3), make (1)
 > **Analogies:** such as (1), for instance (1), just like (1)
 > **File Paths:** dataset.csv (1)
@@ -2080,7 +2080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (3), case. (2), class. (1), static (1)
+> **Frameworks & Libraries:** data (11), next (2), [[Java]] (1), generic (1)
 > **Env Vars:** csv (12)
 > **Code Identifiers:** parsecsv (2), foreach (1)
 > **Analogies:** just like (3)
@@ -2147,8 +2147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[JavaScript]] (1), data (1)
 > **Code Identifiers:** membernumber (9), membernumbers (6), groceryrecordsbymember (3), allmembernumbers (2), toset (1)
-> **Code Keywords:** let (2), this. (1), return, (1), function (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft music) (1)
@@ -2156,7 +2156,7 @@ created: 2026-04-29
 
 ### 5. Data Visualization with JavaFX
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up JavaFX
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980)
@@ -2269,9 +2269,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (14), data (9), application (3), next (2)
 > **Env Vars:** ide (5), sdk (4), csv (1), xml (1)
 > **UI Navigation:** go to (4), click on (3)
-> **Code Keywords:** let (1), this, (1), new, (1), this. (1), module (1)
 > **Exercise Files:** download the (3), zip file (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 0.2 (1)
@@ -2417,8 +2417,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), next (6), application (6), [[Java]] (1)
 > **Env Vars:** mpg (5)
-> **Code Keywords:** extends (2), class. (1), case. (1)
 > **Definitions:** is called (1), in other words (1), means that (1)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** make (1)
@@ -2516,8 +2516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), next (1), power (1)
 > **Code Identifiers:** scatterchart (8), datapointseries (6), primarystage (3), newdatapoint (2), xvalues (2)
-> **Code Keywords:** let (2), this, (1), case, (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** ide (1)
 > **Prerequisites:** set up (1)
@@ -2630,8 +2630,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13)
 > **Code Identifiers:** oldercarseries (3), newercarseries (3), oldercars (2), newercars (2), foreach (2)
-> **Code Keywords:** let (5), this. (2), function (1), public (1), pass (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2724,7 +2724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), let (2), case, (1), public (1), finally, (1)
+> **Frameworks & Libraries:** data (8), application (4), [[Java]] (2), next (1)
 > **Env Vars:** mpg (3)
 > **Analogies:** just like (2)
 > **Code Identifiers:** getdata (1)
@@ -2775,6 +2775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1), generic (1), application (1)
 > **Code Identifiers:** barchart (8), yaxis (4), xaxis (3), primarystage (2), setlabel (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2814,6 +2815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **Warnings:** keep in mind (2)
 > **Cross-References:** next video (1)
 > **Definitions:** stands for (1)
@@ -2877,7 +2879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), public (1), this. (1), static (1), let (1)
+> **Frameworks & Libraries:** data (4), next (3), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** parsecar (1), parseint (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [speaker] (1)
@@ -2886,7 +2888,7 @@ created: 2026-04-29
 
 ### 6. Modeling and Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building machine learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980)
@@ -2965,9 +2967,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Java]] (2), [[Google]] (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3034,7 +3036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), switch (1)
+> **Frameworks & Libraries:** data (7), [[Supervised Learning]] (6), product (2), next (1), business (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** notion (2)
 > **Warnings:** keep in mind (2)
@@ -3144,7 +3146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), public (1)
+> **Frameworks & Libraries:** data (28), [[Java]] (1), [[Linear Regression]] (1), [[Neural Networks]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (3), in other words (2), is an  (1)
 > **Analogies:** such as (1)
@@ -3154,7 +3156,7 @@ created: 2026-04-29
 
 ### 7. K-Nearest Neighbors (KNN)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### K-nearest neighbor basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980)
@@ -3261,8 +3263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Representational State Transfer (REST)|Rest]] (2), [[Neural Networks]] (2), [[Java]] (1), power (1)
 > **Env Vars:** knn (12), java (1)
-> **Code Keywords:** let (5), case, (1)
 > **Definitions:** is a  (3), is called (1), in other words (1), is an  (1)
 > **Warnings:** keep in mind (5)
 > **Analogies:** picture (1), for example (1)
@@ -3387,7 +3389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), class. (2), delete (2), let (2), this, (1)
+> **Frameworks & Libraries:** data (15)
 > **Code Identifiers:** sepalwidth (2), sepallength (1), petalwidth (1), petallength (1), parseflower (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), in other words (1)
@@ -3481,7 +3483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), let (1), class. (1), class, (1), static (1)
+> **Frameworks & Libraries:** data (14), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** knn (3)
 > **Definitions:** is a  (1)
@@ -3550,8 +3552,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2), generic (1)
 > **Code Identifiers:** dataitems (4), unlabeledpoint (4), adddataitem (2), classifypoint (2), numberofneighbors (2)
-> **Code Keywords:** this. (4), pass (2), public (1), function (1), let (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3596,7 +3598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), implements (1), this, (1)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** getcoordinates (2), getclassifier (2), classifypoint (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** knn (2)
@@ -3673,7 +3675,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** in other words (2), is a  (1), means that (1)
-> **Code Keywords:** private (2), this, (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -3733,11 +3734,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** knn (2)
 > **Versions:** 2.5 (1), 0.75 (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [speaker] (1)
@@ -3745,7 +3746,7 @@ created: 2026-04-29
 
 ### 8. Naive Bayes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Naive Bayes basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980)
@@ -3856,7 +3857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1), case, (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (14), [[Probability]] (13), [[Microsoft Word|Word]] (9), next (4), [[Statistics]] (3)
 > **Analogies:** imagine (3), for example (2), just like (1)
 > **Warnings:** keep in mind (4)
 > **CLI Commands:** make (3)
@@ -3946,8 +3947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Java]] (3), next (2)
 > **Code Identifiers:** dataitems (7), classifypoint (3), unlabeledpoint (2), adddataitem (1), alllabels (1)
-> **Code Keywords:** public (3), this. (3), case, (2), class. (1), private (1)
 > **Analogies:** just like (3), similar to (1)
 > **Env Vars:** knn (2)
 > **CLI Commands:** find (1)
@@ -4062,7 +4063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), super (1), case, (1), finally, (1), pass (1)
+> **Frameworks & Libraries:** data (12), [[Probability]] (4), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** groupdataitems (2), getcolumnmeans (1), getlabelprobabilityforpoint (1), groupcolumnmeans (1), groupcolumnstandarddeviations (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Best Practices:** the key is (2)
@@ -4152,7 +4153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (2), class, (1), pass (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** apache (1), make (1)
 > **Code Identifiers:** toarray (1), statutils (1)
 > **Best Practices:** make sure to (1)
@@ -4235,7 +4236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), this, (1), case, (1), from. (1)
+> **Frameworks & Libraries:** [[Probability]] (10), data (6), next (1), [[Statistics]] (1)
 > **CLI Commands:** apache (1), make (1)
 > **Env Vars:** knn (1)
 > **Versions:** 1.0 (1)

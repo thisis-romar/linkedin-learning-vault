@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Visual%20Communication%20For%20Business%20The%20Marketer%20S%20Secret%20Weapon.md)
@@ -41,25 +41,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Visual Communication Tips**](#1-visual-communication-tips) (15 videos)
-  - What is visual communication?
-  - Visual communication is all around us
-  - Visual communication can share broad ideas
-  - Data visualization
-  - Visual communication can drive quick conclusions
-  - Why marketers need visual communication
-  - Visual communication can share key data
-  - People care less than goldfish and dogs
-  - Is text dead?
-  - Internal coms need visual communication
-  - What is visual storytelling?
-  - Tiny visual changes can communicate volumes
-  - Keep audience top of mind
-  - Don't make this mistake in your visuals
-  - Quality matters in visual communication
+  - [What is visual communication?](#what-is-visual-communication)
+  - [Visual communication is all around us](#visual-communication-is-all-around-us)
+  - [Visual communication can share broad ideas](#visual-communication-can-share-broad-ideas)
+  - [Data visualization](#data-visualization)
+  - [Visual communication can drive quick conclusions](#visual-communication-can-drive-quick-conclusions)
+  - [Why marketers need visual communication](#why-marketers-need-visual-communication)
+  - [Visual communication can share key data](#visual-communication-can-share-key-data)
+  - [People care less than goldfish and dogs](#people-care-less-than-goldfish-and-dogs)
+  - [Is text dead?](#is-text-dead)
+  - [Internal coms need visual communication](#internal-coms-need-visual-communication)
+  - [What is visual storytelling?](#what-is-visual-storytelling)
+  - [Tiny visual changes can communicate volumes](#tiny-visual-changes-can-communicate-volumes)
+  - [Keep audience top of mind](#keep-audience-top-of-mind)
+  - [Don't make this mistake in your visuals](#dont-make-this-mistake-in-your-visuals)
+  - [Quality matters in visual communication](#quality-matters-in-visual-communication)
 
 ### 1. Visual Communication Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is visual communication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-communication?u=76281980)
@@ -100,6 +100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - have (1), - visual (1), - but (1)
 > **Non-Speech:** (upbeat music) (2)
 
@@ -192,7 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1)
+> **Frameworks & Libraries:** power (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -228,7 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Non-Speech:** (upbeat music) (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - visual (1)
@@ -358,7 +359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), from. (2), this, (1)
+> **Frameworks & Libraries:** data (14), [[Analytics]] (1), product (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (5)
 > **Best Practices:** rule of thumb (1), you should always (1)
 > **Analogies:** imagine (1)
@@ -413,7 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), else. (1), let (1)
+> **Frameworks & Libraries:** data (1)
 > **Non-Speech:** (upbeat music) (3)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
@@ -470,6 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), [[Thought Leadership]] (1), [[Infographics]] (1)
 > **Non-Speech:** (light music) (2)
 > **Warnings:** caveat (1)
 > **Speakers:** - did (1)
@@ -509,9 +511,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (5), data (3), [[Storytelling]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (upbeat music) (2)
-> **Code Keywords:** this, (1)
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
 
@@ -552,9 +554,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Non-Speech:** (upbeat music) (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else, (1)
 > **Speakers:** - did (1)
 
 #### Is text dead?
@@ -623,7 +625,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - hmm (1), - man (1), - mm (1), - yeah (1), - that (1)
-> **Code Keywords:** let (2), this. (2)
 > **Non-Speech:** (upbeat music) (2), (organ music) (2)
 > **CLI Commands:** make (3)
 > **Best Practices:** rule of thumb (1)
@@ -717,8 +718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Thought Leadership]] (1), hr (1), [[Microsoft]] (1), business (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), this. (1)
 > **Versions:** 13.9 (2)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (upbeat music snippet) (2)
@@ -784,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Storytelling]] (6), [[Infographics]] (2), [[Microsoft Products|Products]] (1), product (1), data (1)
 > **Non-Speech:** (upbeat music) (1), (fanfare sounds) (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
@@ -858,6 +859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Microsoft Word|Word]] (1), hit (1), [[Storytelling]] (1)
 > **UI Navigation:** click on (2)
 > **Non-Speech:** (upbeat music) (2)
 > **Definitions:** in other words (1)
@@ -949,11 +951,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2)
 > **Speakers:** - when (1), - you (1), - yeah (1), - hey (1), - oh (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2), for example (1)
 > **Non-Speech:** (upbeat music) (2), (light music) (1)
-> **Code Keywords:** require (1)
 
 #### Don't make this mistake in your visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980)
@@ -1044,7 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), throw (1)
+> **Frameworks & Libraries:** [[Infographics]] (4), product (2), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - you (1), - stop (1), - now (1)
 > **Non-Speech:** (electronic music) (2), (aww sound effect) (1)
 > **CLI Commands:** make (2)
@@ -1143,8 +1145,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **Speakers:** - you (1), - hey (1), - sure (1), - could (1), - oh (1)
-> **Code Keywords:** let (1), this. (1)
 > **Code Identifiers:** iphone (2)
 > **Non-Speech:** (upbeat music) (2)
 > **Env Vars:** diy (1)

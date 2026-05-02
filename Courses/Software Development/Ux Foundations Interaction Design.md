@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Ux%20Foundations%20Interaction%20Design.md)
@@ -42,72 +42,72 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Interaction design
-  - What is interaction design?
+  - [Interaction design](#interaction-design)
+  - [What is interaction design?](#what-is-interaction-design)
 - [**1. Today's Interaction Designer**](#1-todays-interaction-designer) (4 videos)
-  - Project types and deliverables
-  - Technical and software skills
-  - Related disciplines and fields of study
-  - Resources and communities
+  - [Project types and deliverables](#project-types-and-deliverables)
+  - [Technical and software skills](#technical-and-software-skills)
+  - [Related disciplines and fields of study](#related-disciplines-and-fields-of-study)
+  - [Resources and communities](#resources-and-communities)
 - [**2. A Model of Psychology and Interaction Design**](#2-a-model-of-psychology-and-interaction-design) (4 videos)
-  - Why psychology?
-  - Introducing the interaction design model
-  - Context
-  - Goals
+  - [Why psychology?](#why-psychology)
+  - [Introducing the interaction design model](#introducing-the-interaction-design-model)
+  - [Context](#context)
+  - [Goals](#goals)
 - [**3. Introductory Psychology**](#3-introductory-psychology) (17 videos)
-  - Sensation
-  - Perception
-  - Gestalt principles
-  - Affordances
-  - Motivation
-  - Attention and memory
-  - Reasoning and logic
-  - Mental models
-  - Cognitive load
-  - Theories of emotion
-  - Designing for delight
-  - Empathy
-  - Learning behaviors
-  - Classical conditioning
-  - Operant conditioning
-  - Social learning theory
-  - Using learned behavior
+  - [Sensation](#sensation)
+  - [Perception](#perception)
+  - [Gestalt principles](#gestalt-principles)
+  - [Affordances](#affordances)
+  - [Motivation](#motivation)
+  - [Attention and memory](#attention-and-memory)
+  - [Reasoning and logic](#reasoning-and-logic)
+  - [Mental models](#mental-models)
+  - [Cognitive load](#cognitive-load)
+  - [Theories of emotion](#theories-of-emotion)
+  - [Designing for delight](#designing-for-delight)
+  - [Empathy](#empathy)
+  - [Learning behaviors](#learning-behaviors)
+  - [Classical conditioning](#classical-conditioning)
+  - [Operant conditioning](#operant-conditioning)
+  - [Social learning theory](#social-learning-theory)
+  - [Using learned behavior](#using-learned-behavior)
 - [**4. The Interaction Design Model**](#4-the-interaction-design-model) (6 videos)
-  - Overview of the IxD model
-  - Perceive
-  - Predict
-  - Feedback
-  - Learn
-  - Remember
+  - [Overview of the IxD model](#overview-of-the-ixd-model)
+  - [Perceive](#perceive)
+  - [Predict](#predict)
+  - [Feedback](#feedback)
+  - [Learn](#learn)
+  - [Remember](#remember)
 - [**5. Interaction Design**](#5-interaction-design) (22 videos)
-  - Dimensions of interaction design
-  - Design thinking
-  - Levels of design: Structure
-  - Levels of design: Flow
-  - Levels of design: Interface
-  - Design patterns
-  - Anti-patterns
-  - Dark patterns
-  - Navigation structure
-  - Navigation systems
-  - Content
-  - Inputs
-  - Gestures
-  - Voice
-  - Sensors
-  - Defining microinteractions
-  - Microinteractions: Motion
-  - Microinteractions: Sound
-  - Microinteractions: Haptics
-  - Error handling
-  - Mistakes
-  - Usability and accessibility
+  - [Dimensions of interaction design](#dimensions-of-interaction-design)
+  - [Design thinking](#design-thinking)
+  - [Levels of design: Structure](#levels-of-design-structure)
+  - [Levels of design: Flow](#levels-of-design-flow)
+  - [Levels of design: Interface](#levels-of-design-interface)
+  - [Design patterns](#design-patterns)
+  - [Anti-patterns](#anti-patterns)
+  - [Dark patterns](#dark-patterns)
+  - [Navigation structure](#navigation-structure)
+  - [Navigation systems](#navigation-systems)
+  - [Content](#content)
+  - [Inputs](#inputs)
+  - [Gestures](#gestures)
+  - [Voice](#voice)
+  - [Sensors](#sensors)
+  - [Defining microinteractions](#defining-microinteractions)
+  - [Microinteractions: Motion](#microinteractions-motion)
+  - [Microinteractions: Sound](#microinteractions-sound)
+  - [Microinteractions: Haptics](#microinteractions-haptics)
+  - [Error handling](#error-handling)
+  - [Mistakes](#mistakes)
+  - [Usability and accessibility](#usability-and-accessibility)
 - [**Conclusion**](#conclusion) (1 videos)
-  - A solid foundation
+  - [A solid foundation](#a-solid-foundation)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980)
@@ -144,7 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Privacy]] (1), management (1), ux (1), product (1)
 > **Speakers:** - technology (1)
 
 #### What is interaction design?
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (2), [[User Experience (UX)|User experience]] (1), ux (1), [[Software Design]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [interactiondesign.org](https://interactiondesign.org) (1)
 > **Speakers:** - interaction (1)
@@ -186,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Today's Interaction Designer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project types and deliverables
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), finally, (1)
+> **Frameworks & Libraries:** product (6), web (1), [[Microsoft Products|Products]] (1), business (1)
 > **Speakers:** - [narrator] (1)
 
 #### Technical and software skills
@@ -273,7 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** next (1), [[Diagramming]] (1), web (1), product (1)
 > **Speakers:** - [narrator] (1)
 
 #### Related disciplines and fields of study
@@ -305,6 +305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (1), product (1), teams (1), [[Microsoft Products|Products]] (1), career (1)
 > **Speakers:** - [presenter] (1)
 
 #### Resources and communities
@@ -340,8 +341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2)
 > **CLI Commands:** find (5), make (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -349,7 +350,7 @@ created: 2026-04-29
 
 ### 2. A Model of Psychology and Interaction Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why psychology?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980)
@@ -422,8 +423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (12), data (4), [[Microsoft Products|Products]] (2), [[Prototyping]] (2), [[Analytics]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** interface (1), let (1)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -481,9 +482,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3)
 > **Definitions:** refers to (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
@@ -572,8 +573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (4), [[Search]] (2), [[Privacy]] (1), ux (1)
 > **Analogies:** for example (4), picture (1)
-> **Code Keywords:** public (2), private (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - context (1)
 
@@ -656,6 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), game (1), product (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -664,7 +666,7 @@ created: 2026-04-29
 
 ### 3. Introductory Psychology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sensation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensation-14242595?u=76281980)
@@ -773,7 +775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -827,9 +829,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - let (1)
 
 #### Gestalt principles
@@ -885,8 +887,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), product (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (1), interface (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -975,7 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), require (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (1), is a  (1)
@@ -1098,8 +1100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Microsoft Products|Products]] (2), [[Influencing Others]] (1)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** let (3), finally, (1), self (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Env Vars:** erg (1)
@@ -1254,9 +1256,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2)
 > **CLI Commands:** make (7), find (4)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** require (2), pass (1), new, (1)
 > **Definitions:** is called (2), is a  (1)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [instructor] (1)
@@ -1350,7 +1352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case. (1)
+> **Frameworks & Libraries:** product (6), [[Decision-Making]] (2), next (2), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1421,10 +1423,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** interface (1)
 > **Speakers:** - we (1)
 
 #### Cognitive load
@@ -1526,9 +1528,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (3), [[Design Patterns]] (1), [[Banking]] (1), [[Search]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** require (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - thinking (1)
@@ -1576,9 +1578,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[React.js|React]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Designing for delight
@@ -1656,8 +1658,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (2), teams (2), next (1), functional (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** interface (1), let (1), this, (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1701,6 +1703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), business (1), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1756,8 +1759,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is called (3), is a  (2), in other words (1)
-> **Code Keywords:** let (2), this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Classical conditioning
@@ -1898,6 +1901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (2), next (1), product (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -1977,7 +1981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), self (1)
+> **Frameworks & Libraries:** web (1), data (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** sim (1)
 > **Analogies:** for example (1)
@@ -2033,8 +2037,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[Probability]] (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2043,7 +2047,7 @@ created: 2026-04-29
 
 ### 4. The Interaction Design Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the IxD model
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/overview-of-the-ixd-model-14238700?u=76281980)
@@ -2062,8 +2066,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2146,7 +2150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), abstract (1), new, (1)
+> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (2), [[Probability]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
@@ -2203,8 +2207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (11), [[Probability]] (6), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** for, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Feedback
@@ -2310,7 +2314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), continue (1)
+> **Frameworks & Libraries:** product (20), [[Microsoft Products|Products]] (2), [[Probability]] (2), [[React.js|React]] (1), [[Forms]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (3)
@@ -2425,7 +2429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), interface (1), this, (1), new, (1)
+> **Frameworks & Libraries:** product (17), [[Microsoft Products|Products]] (6), [[Probability]] (1), web (1), [[Banking]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -2537,7 +2541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), new. (1), require (1), new, (1)
+> **Frameworks & Libraries:** product (15), [[Microsoft Products|Products]] (9), [[Banking]] (2), [[Design Patterns]] (2), parallel (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (2), similar to (2)
 > **Definitions:** is a  (2)
@@ -2546,7 +2550,7 @@ created: 2026-04-29
 
 ### 5. Interaction Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimensions of interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980)
@@ -2581,6 +2585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), data (1), [[Hardware]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2627,6 +2632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), product (5), [[Design Thinking]] (4), business (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - design (1)
 
@@ -2705,9 +2711,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (14), [[Microsoft Products|Products]] (2), management (1), [[Forms]] (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** interface (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2790,8 +2796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (8), [[Banking]] (1), [[Microsoft Office|Office]] (1), next (1)
 > **Analogies:** for example (4), such as (2)
-> **Code Keywords:** interface (2), function (1)
 > **UI Navigation:** select the (2)
 > **Env Vars:** irs (1)
 > **Warnings:** caution (1)
@@ -2833,7 +2839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), function (1)
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (1), [[Typography]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -2883,7 +2889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), for: (1), require (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (7), [[Microsoft Products|Products]] (4), product (1), application (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
@@ -2942,8 +2948,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3018,6 +3024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (4), business (2), [[Privacy]] (1), management (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -3057,8 +3064,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), [[Search]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** interface (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
@@ -3159,10 +3166,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), [[Search]] (2), [[Google]] (1), [[Algorithms]] (1), feature (1)
 > **Analogies:** such as (6), for example (2)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** type. (1), match, (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
@@ -3271,8 +3278,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[Forms]] (2), ux (2), [[Content Creation]] (1), [[Typography]] (1)
 > **Analogies:** such as (6), for example (1)
-> **Code Keywords:** interface (6)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** faq (1), html (1)
 > **Definitions:** is an  (1), refers to (1)
@@ -3381,9 +3388,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), hit (1)
 > **Analogies:** such as (7)
 > **CLI Commands:** make (4)
-> **Code Keywords:** require (2), this. (1), interface (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** gps (1)
 > **Best Practices:** recommended (1)
@@ -3452,8 +3459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Forms]] (1), product (1), [[Design Patterns]] (1)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** function (1), return. (1), case, (1), continue (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** right-click (1)
@@ -3522,7 +3529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), public (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (3), [[Speech Recognition]] (1), [[React.js|React]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** led (1)
 > **Definitions:** is a  (1)
@@ -3549,9 +3556,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (1), [[Privacy]] (1), [[Security]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** private (1)
 > **Speakers:** - [instructor] (1)
 
 #### Defining microinteractions
@@ -3619,10 +3626,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), next (1), [[React.js|React]] (1), feature (1)
 > **Analogies:** for example (3), such as (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - microinteractions (1), - smartphones (1)
-> **Code Keywords:** interface (1)
 
 #### Microinteractions: Motion
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-motion-14238699?u=76281980)
@@ -3687,8 +3694,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** static (1)
 > **Speakers:** - [instructor] (1)
 
 #### Microinteractions: Sound
@@ -3754,8 +3761,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (2), game (2), [[Microsoft]] (1), [[Windows]] (1)
 > **Analogies:** such as (3), analogous to (1), for example (1)
-> **Code Keywords:** let (1), abstract (1)
 > **Warnings:** warning (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -3836,6 +3843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), power (2), product (2), [[Forms]] (1)
 > **Analogies:** such as (4), for example (3)
 > **CLI Commands:** make (2), snap (2)
 > **Definitions:** refers to (1)
@@ -3890,6 +3898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), generic (1), product (1)
 > **Definitions:** means that (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -3934,9 +3943,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (1), product (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -4033,7 +4042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), override (1), continue (1)
+> **Frameworks & Libraries:** product (26), [[Microsoft Products|Products]] (2), web (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iso (1)
@@ -4042,7 +4051,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A solid foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980)
@@ -4075,7 +4084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (1), [[React.js|React]] (1), ux (1), [[LinkedIn]] (1)
 > **Speakers:** - we (1)
 
 

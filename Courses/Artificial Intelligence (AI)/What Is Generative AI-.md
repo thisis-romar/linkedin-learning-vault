@@ -58,7 +58,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/What%20Is%20Generative%20AI-.md)
@@ -77,36 +77,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Generative AI is a tool in service of humanity
-  - What's new?
+  - [Generative AI is a tool in service of humanity](#generative-ai-is-a-tool-in-service-of-humanity)
+  - [What's new?](#whats-new)
 - [**1. What Is Generative AI?**](#1-what-is-generative-ai) (4 videos)
-  - The importance of generative AI
-  - How generative AI is different than other types of AI
-  - How generative AI works
-  - Creating your own content
+  - [The importance of generative AI](#the-importance-of-generative-ai)
+  - [How generative AI is different than other types of AI](#how-generative-ai-is-different-than-other-types-of-ai)
+  - [How generative AI works](#how-generative-ai-works)
+  - [Creating your own content](#creating-your-own-content)
 - [**2. Main Models**](#2-main-models) (5 videos)
-  - The most famous tools for generative AI
-  - Natural language models
-  - Text to image applications
-  - Generative Adversarial Networks (GANs)
-  - VAE and Anomaly Detection
+  - [The most famous tools for generative AI](#the-most-famous-tools-for-generative-ai)
+  - [Natural language models](#natural-language-models)
+  - [Text to image applications](#text-to-image-applications)
+  - [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
+  - [VAE and Anomaly Detection](#vae-and-anomaly-detection)
 - [**3. The Future of AI**](#3-the-future-of-ai) (2 videos)
-  - Future predictions
-  - The future of jobs
+  - [Future predictions](#future-predictions)
+  - [The future of jobs](#the-future-of-jobs)
 - [**4. Ethics and Responsibility**](#4-ethics-and-responsibility) (2 videos)
-  - Moral and executive skill set required to work with GenAI
-  - Caution when working with Gen AI
+  - [Moral and executive skill set required to work with GenAI](#moral-and-executive-skill-set-required-to-work-with-genai)
+  - [Caution when working with Gen AI](#caution-when-working-with-gen-ai)
 - [**5. Working with Generative AI**](#5-working-with-generative-ai) (4 videos)
-  - Productivity enhancements in large language models (LLMs) through APIs and real-time interactions
-  - From technical demos to professional productions
-  - Wider adoption of generative AI
-  - Legal frameworks and intellectual property in the age of AI
+  - [Productivity enhancements in large language models (LLMs) through APIs and real-time interactions](#productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions)
+  - [From technical demos to professional productions](#from-technical-demos-to-professional-productions)
+  - [Wider adoption of generative AI](#wider-adoption-of-generative-ai)
+  - [Legal frameworks and intellectual property in the age of AI](#legal-frameworks-and-intellectual-property-in-the-age-of-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI is a tool in service of humanity
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), ai (1), [[LinkedIn]] (1)
 > **Speakers:** - generative (1)
 > **Non-Speech:** (light music) (1)
 
@@ -172,15 +172,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[LinkedIn]] (1), ai (1), cloud (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - hello (1)
 
 
 ### 1. What Is Generative AI?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980)
@@ -229,6 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (5), data (3), [[Algorithms]] (2), ai (2), product (1)
 > **Env Vars:** dall (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
@@ -272,7 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), function (1), let (1)
+> **Frameworks & Libraries:** ai (8), [[Generative AI]] (7), product (2), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - generative (1)
@@ -368,7 +369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), private (1), public (1), this, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (13), ai (9), business (3), [[ChatGPT]] (2), [[Midjourney]] (2)
 > **Analogies:** just like (2), imagine (1), picture (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** nvidia (1), lmu (1), dall (1)
@@ -420,16 +421,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[GitHub]] (2), [[Google]] (2), [[Midjourney]] (1), [[Stable Diffusion]] (1)
 > **Tools:** github (2), colab (2)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** super (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - so (1)
 
 
 ### 2. Main Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The most famous tools for generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/the-most-famous-tools-for-generative-ai?u=76281980)
@@ -454,8 +455,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (4)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2), for. (1)
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - during (1)
@@ -523,7 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), new. (1), continue (1), public (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Generative AI]] (4), prompt (2), [[GitHub]] (2), [[Search]] (2)
 > **Env Vars:** gpt (6)
 > **Tools:** github (3)
 > **Definitions:** is a  (2), stands for (1)
@@ -590,8 +591,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[Generative AI]] (4), [[Midjourney]] (3), [[Stable Diffusion]] (3), api (2)
 > **Env Vars:** dall (4), api (2)
-> **Code Keywords:** let (1), finally, (1), continue (1)
 > **Analogies:** picture (1), just like (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** macos (1)
@@ -654,7 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (4), ai (4), [[Generative AI]] (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), game (2)
 > **Env Vars:** gan (3)
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** make (1)
@@ -692,15 +693,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), application (3), [[Generative AI]] (3), [[Microsoft Products|Products]] (3), [[Security]] (1)
 > **Env Vars:** vae (6), mri (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - let (1)
 
 
 ### 3. The Future of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Future predictions
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980)
@@ -735,7 +736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1), continue (1), yield (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), traffic (1), next (1), [[Engineering]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (5)
 > **Speakers:** - the (1)
 
@@ -794,14 +795,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Windows]] (1), leadership (1), cloud (1), [[Customer Relations]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
 
 ### 4. Ethics and Responsibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Moral and executive skill set required to work with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980)
@@ -842,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2)
+> **Frameworks & Libraries:** [[Generative AI]] (7), ai (3), business (1), [[Generative AI Tools]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** caution (1)
 > **Speakers:** - any (1)
@@ -880,14 +881,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1)
+> **Frameworks & Libraries:** ai (12), [[Algorithms]] (2), [[Generative AI]] (2), power (1), [[Decision-Making]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
 
 
 ### 5. Working with Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Productivity enhancements in large language models (LLMs) through APIs and real-time interactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980)
@@ -972,9 +973,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), ai (6), llm (5), application (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** gpt (10), api (7), llm (5)
 > **Analogies:** picture (1), imagine (1), for example (1), just like (1)
-> **Code Keywords:** public (1), interface (1), this, (1)
 > **Definitions:** known as (1), is an  (1), short for (1)
 > **Warnings:** caution (2)
 > **CLI Commands:** make (1)
@@ -1044,6 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), ai (5), [[Adobe Photoshop]] (1), feature (1), product (1)
 > **Definitions:** known as (1), means that (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1105,7 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), self (1), continue (1)
+> **Frameworks & Libraries:** ai (13), [[Generative AI]] (10), cloud (2), [[Stable Diffusion]] (1), [[Hardware]] (1)
 > **Analogies:** for instance (2), for example (1), such as (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **Env Vars:** vfx (1)
@@ -1170,8 +1172,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (10), [[Generative AI]] (6), [[Stable Diffusion]] (2), [[Algorithms]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** from. (1)
 > **Env Vars:** laion (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -1180,7 +1182,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980)
@@ -1247,7 +1249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** ai (9), [[Generative AI]] (5), next (3), power (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)

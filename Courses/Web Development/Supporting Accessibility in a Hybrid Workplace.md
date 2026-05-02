@@ -30,7 +30,7 @@ tags:
   - skill/workplace-organization
   - skill/diversity-equity-inclusion-and-belonging-deib
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Supporting%20Accessibility%20in%20a%20Hybrid%20Workplace.md)
@@ -49,31 +49,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Inclusive workplace basics
+  - [Inclusive workplace basics](#inclusive-workplace-basics)
 - [**1. Basic Inclusion Principles**](#1-basic-inclusion-principles) (5 videos)
-  - Pillars of success
-  - Fundamental content needs
-  - Vision considerations
-  - Hearing considerations
-  - Learning and neurodiversity
+  - [Pillars of success](#pillars-of-success)
+  - [Fundamental content needs](#fundamental-content-needs)
+  - [Vision considerations](#vision-considerations)
+  - [Hearing considerations](#hearing-considerations)
+  - [Learning and neurodiversity](#learning-and-neurodiversity)
 - [**2. Inclusive Content Practices**](#2-inclusive-content-practices) (4 videos)
-  - Formatting matters
-  - Images and links
-  - Texture vs. color
-  - Spreadsheet tips
+  - [Formatting matters](#formatting-matters)
+  - [Images and links](#images-and-links)
+  - [Texture vs. color](#texture-vs-color)
+  - [Spreadsheet tips](#spreadsheet-tips)
 - [**3. Inclusive Meeting Technology**](#3-inclusive-meeting-technology) (6 videos)
-  - Agenda and materials
-  - Creating descriptive introductions
-  - Using webcams
-  - Live captioning
-  - Reading order
-  - Chat and reactions
+  - [Agenda and materials](#agenda-and-materials)
+  - [Creating descriptive introductions](#creating-descriptive-introductions)
+  - [Using webcams](#using-webcams)
+  - [Live captioning](#live-captioning)
+  - [Reading order](#reading-order)
+  - [Chat and reactions](#chat-and-reactions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Review and assess
+  - [Review and assess](#review-and-assess)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusive workplace basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/inclusive-workplace-basics?u=76281980)
@@ -104,13 +104,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), this. (1)
+> **Frameworks & Libraries:** business (1)
 > **Speakers:** - as (1)
 
 
 ### 1. Basic Inclusion Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pillars of success
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/pillars-of-success?u=76281980)
@@ -191,10 +191,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), web (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** it's like (1), just like (1)
 > **Prerequisites:** set up (1), you'll need (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [section508.gov](https://section508.gov) (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - do (1)
@@ -260,7 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** teams (1)
 > **Analogies:** similar to (1), such as (1)
 > **Env Vars:** pdf (1)
 > **Prerequisites:** you'll need (1)
@@ -303,6 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), [[Microsoft]] (1), [[Windows]] (1), next (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
@@ -372,7 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** next (1), [[Zoom]] (1), teams (1), [[Google]] (1), feature (1)
 > **Env Vars:** asl (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
@@ -432,16 +433,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), feature (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), select the (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** adhd (1)
 > **Speakers:** - if (1)
 
 
 ### 2. Inclusive Content Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Formatting matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/formatting-matters?u=76281980)
@@ -510,8 +511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), next (1), application (1)
 > **UI Navigation:** select the (5), right-click (1)
-> **Code Keywords:** let (4), type, (1)
 > **Analogies:** such as (3), similar to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -613,10 +614,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office]] (2), next (1), [[Google]] (1), generic (1)
 > **UI Navigation:** select the (3), click on (2)
 > **Analogies:** picture (2), imagine (1), such as (1), for instance (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (1), this. (1), finally, (1)
 > **Definitions:** is called (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - let (1)
@@ -670,6 +671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - are (1)
@@ -745,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1), next (1)
 > **Analogies:** for example (2), such as (2), imagine (1)
-> **Code Keywords:** delete (2), type, (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **UI Navigation:** go to (1)
@@ -756,7 +758,7 @@ created: 2026-04-29
 
 ### 3. Inclusive Meeting Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agenda and materials
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980)
@@ -817,7 +819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** cloud (2), [[Google]] (2), [[Microsoft Office]] (1), [[SharePoint]] (1), next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
 
@@ -872,6 +874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), [[Newsletters]] (1)
 > **Analogies:** picture (1), imagine (1), such as (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -926,8 +929,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), let (1)
 > **Analogies:** such as (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - you (1)
@@ -1005,8 +1008,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft PowerPoint]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1), application (1)
 > **UI Navigation:** go to (4), dropdown (2), select the (2), toggle (1), in the toolbar (1)
-> **Code Keywords:** function (1), finally, (1), try. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
 
@@ -1091,9 +1094,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), [[Google]] (1), next (1), [[Microsoft PowerPoint]] (1)
 > **UI Navigation:** select the (2), dropdown (2), click on (1), drag and drop (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** known as (1), is a  (1)
 > **Warnings:** keep in mind (1), warning (1)
 > **Analogies:** picture (1)
@@ -1149,15 +1152,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), web (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), raise (1), finally, (1)
 > **Best Practices:** make sure to (2)
 > **Speakers:** - have (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review and assess
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980)
@@ -1218,8 +1221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), continue (1)
 > **URLs:** [accessibilityassociation.org](https://accessibilityassociation.org) (1), [jessicacwilliams.com](https://jessicacwilliams.com) (1)
 > **Env Vars:** iaap (1)
 > **Exercise Files:** exercise files (1)

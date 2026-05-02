@@ -30,7 +30,7 @@ tags:
   - skill/penetration-testing
   - skill/active-directory
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Advanced%20Pen%20Testing%20Techniques%20for%20Active%20Directory.md)
@@ -49,44 +49,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Understand and test the security of identity providers
-  - What you should know
-  - Disclaimer
+  - [Understand and test the security of identity providers](#understand-and-test-the-security-of-identity-providers)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. Introduction to Identities**](#1-introduction-to-identities) (9 videos)
-  - Understand Active Directory's role in security
-  - The LDAP protocol
-  - Interact with LDAP at the command line
-  - The LDAPAdmin tool
-  - What is Active Directory?
-  - Interact with Active Directory at the command line
-  - Access LDAP services with a GUI client
-  - Add users and computers to a domain
-  - Active Directory security audit
+  - [Understand Active Directory's role in security](#understand-active-directorys-role-in-security)
+  - [The LDAP protocol](#the-ldap-protocol)
+  - [Interact with LDAP at the command line](#interact-with-ldap-at-the-command-line)
+  - [The LDAPAdmin tool](#the-ldapadmin-tool)
+  - [What is Active Directory?](#what-is-active-directory)
+  - [Interact with Active Directory at the command line](#interact-with-active-directory-at-the-command-line)
+  - [Access LDAP services with a GUI client](#access-ldap-services-with-a-gui-client)
+  - [Add users and computers to a domain](#add-users-and-computers-to-a-domain)
+  - [Active Directory security audit](#active-directory-security-audit)
 - [**2. Testing Active Directory**](#2-testing-active-directory) (7 videos)
-  - Set up for testing
-  - Extract the AD hashes
-  - Password spraying Active Directory
-  - Kerberos brute-forcing attacks
-  - Use CrackMapExec to access and enumerate AD
-  - Investigate the SYSVOL share
-  - Take advantage of legacy data
+  - [Set up for testing](#set-up-for-testing)
+  - [Extract the AD hashes](#extract-the-ad-hashes)
+  - [Password spraying Active Directory](#password-spraying-active-directory)
+  - [Kerberos brute-forcing attacks](#kerberos-brute-forcing-attacks)
+  - [Use CrackMapExec to access and enumerate AD](#use-crackmapexec-to-access-and-enumerate-ad)
+  - [Investigate the SYSVOL share](#investigate-the-sysvol-share)
+  - [Take advantage of legacy data](#take-advantage-of-legacy-data)
 - [**3. Advanced Penetration Testing**](#3-advanced-penetration-testing) (10 videos)
-  - Specific Active Directory attacks
-  - Remote extraction of AD hashes
-  - Carry out a Kerberos roasting
-  - Run a no-preauthentication attack
-  - Forge a golden ticket
-  - Running a shadow attack
-  - Using rubeus to take over the domain
-  - Relaying attacks to get a certificate
-  - Using smartcards to gain privileged access
-  - Set the BloodHound loose
+  - [Specific Active Directory attacks](#specific-active-directory-attacks)
+  - [Remote extraction of AD hashes](#remote-extraction-of-ad-hashes)
+  - [Carry out a Kerberos roasting](#carry-out-a-kerberos-roasting)
+  - [Run a no-preauthentication attack](#run-a-no-preauthentication-attack)
+  - [Forge a golden ticket](#forge-a-golden-ticket)
+  - [Running a shadow attack](#running-a-shadow-attack)
+  - [Using rubeus to take over the domain](#using-rubeus-to-take-over-the-domain)
+  - [Relaying attacks to get a certificate](#relaying-attacks-to-get-a-certificate)
+  - [Using smartcards to gain privileged access](#using-smartcards-to-gain-privileged-access)
+  - [Set the BloodHound loose](#set-the-bloodhound-loose)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand and test the security of identity providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Security]] (1), [[Microsoft]] (1), career (1), [[Penetration Testing]] (1)
 > **Speakers:** - [malcolm] (1)
 
 #### What you should know
@@ -127,6 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (4), [[Penetration Testing]] (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -154,13 +155,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Kali Linux]] (1)
 > **Speakers:** - [malcolm] (1)
 
 
 ### 1. Introduction to Identities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Active Directory's role in security
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980)
@@ -233,10 +234,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), management (4), [[Security]] (4), [[Active Directory]] (4), business (3)
 > **Env Vars:** iam (3), ldap (3), sam (2)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** interface (1), continue (1)
 > **Tools:** powershell (1), command line (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
@@ -283,8 +284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), [[Search]] (1)
 > **Env Vars:** ldap (8), tcp (1), osi (1), ldaps (1)
-> **Code Keywords:** case, (2), default, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -350,10 +351,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), database (3), [[Ubuntu]] (1), [[Linux]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ldap (10), ssh (2)
 > **CLI Commands:** ssh (2), find (1), cat (1), sudo (1)
 > **Versions:** 10.0.2 (4)
-> **Code Keywords:** let (2), case, (1)
 > **Tools:** terminal (1), command line (1)
 > **Ports:** port 389 (1)
 > **Definitions:** in other words (1)
@@ -396,8 +397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (1), dns (1)
 > **Env Vars:** ldap (4), dns (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 1.8.3 (1), 10.0.2 (1)
 > **Exercise Files:** download the (1), zip file (1)
@@ -513,9 +514,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (27), [[Windows Server]] (4), [[Microsoft]] (3), management (2), [[Security]] (2)
 > **URLs:** [yahoo.com](https://yahoo.com) (6)
 > **Prerequisites:** set up (4), install (1), configure (1)
-> **Code Keywords:** let (2), switch (1), this. (1), public (1)
 > **Env Vars:** ldap (4)
 > **Definitions:** known as (3)
 > **Analogies:** such as (1), for example (1)
@@ -555,8 +556,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Search]] (3), database (1)
 > **Env Vars:** ldap (7)
-> **Code Keywords:** let (1), case, (1)
 > **Versions:** 192.168.1 (2)
 > **CLI Commands:** make (1)
 > **URLs:** [cybex.com](https://cybex.com) (1)
@@ -664,8 +665,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (11), [[Active Directory]] (4), dns (3), [[Java]] (1), [[Microsoft]] (1)
 > **Env Vars:** ldap (5), dns (3), gui (1), apt (1), desktop (1)
-> **Code Keywords:** let (6), interface (1), switch (1), this. (1)
 > **Code Identifiers:** admincount (3), organizationalunit (2), samaccountname (1), userprinciplename (1), memberof (1)
 > **UI Navigation:** click on (3), select the (1), scroll down (1)
 > **URLs:** [cybex.com](https://cybex.com) (4)
@@ -756,7 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new, (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), dns (2), [[Windows]] (2), [[Windows 10]] (1), business (1)
 > **Env Vars:** dns (2), desktop (1)
 > **UI Navigation:** right-click (1), select the (1), click on (1)
 > **URLs:** [cybex.com](https://cybex.com) (2)
@@ -797,15 +798,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Security]] (1)
 > **URLs:** [cybex.com](https://cybex.com) (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Testing Active Directory
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980)
@@ -892,9 +893,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (8), [[Python (Programming Language)|Python]] (4), [[Microsoft]] (2), [[Powershell]] (2), [[Windows Server]] (1)
 > **Prerequisites:** install (12), set up (2), configure (1)
 > **CLI Commands:** python (4), apt (4), sudo (3), make (1), pip (1)
-> **Code Keywords:** let (4), module (2), while. (1)
 > **Tools:** powershell (2), github (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1), - okay (1)
@@ -959,9 +960,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows]] (3), database (1)
 > **Env Vars:** hklm (2), addb (2), save (1), vss (1), global (1)
 > **Speakers:** - windows (1), - and (1), - bootkey (1), - we (1)
-> **Code Keywords:** for= (1), pass (1)
 > **Tools:** command line (2)
 > **CLI Commands:** make (1)
 
@@ -1014,7 +1015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while. (2), this. (1), module (1), this, (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Active Directory]] (1), [[GitHub]] (1), hit (1)
 > **Tools:** powershell (2), github (1)
 > **File Paths:** adpass.txt (1)
 > **CLI Commands:** find (1)
@@ -1086,7 +1087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2)
+> **Frameworks & Libraries:** [[Active Directory]] (2), business (1)
 > **CLI Commands:** find (3)
 > **URLs:** [cybex.com](https://cybex.com) (2)
 > **Versions:** 192.168.1 (2)
@@ -1140,10 +1141,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Search]] (1)
 > **Env Vars:** smb (5), ldap (2), ssh (1), mssql (1)
 > **Versions:** 192.168.1 (4)
 > **CLI Commands:** ssh (1), find (1)
-> **Code Keywords:** let (2)
 > **Non-Speech:** (keyboard typing) (2)
 > **URLs:** [cybex.com](https://cybex.com) (1)
 > **Definitions:** is a  (1)
@@ -1206,8 +1207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (4), data (1), prompt (1), [[Windows]] (1)
 > **Env Vars:** sysvol (5), smb (4), dfsr (1), ogb (1)
-> **Code Keywords:** let (6), case, (1), private (1), continue (1)
 > **URLs:** [cybex.com](https://cybex.com) (4)
 > **CLI Commands:** find (2)
 > **Versions:** 192.168.1 (1)
@@ -1248,7 +1249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Active Directory]] (1), application (1)
 > **CLI Commands:** find (2)
 > **Versions:** 192.168.1 (1)
 > **Speakers:** - [instructor] (1)
@@ -1256,7 +1257,7 @@ created: 2026-04-29
 
 ### 3. Advanced Penetration Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Specific Active Directory attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/specific-active-directory-attacks?u=76281980)
@@ -1277,7 +1278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1325,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows]] (1), [[Powershell]] (1)
 > **Env Vars:** jdpass2021 (1), tcp (1)
 > **Versions:** 192.168.1 (1)
 > **Tools:** powershell (1)
@@ -1360,7 +1361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), return. (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), cd (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python3 (2), cd (1)
 > **File Paths:** getnpusers.py (1), wordlists/rockyou.txt (1)
 > **Versions:** 192.168.1 (1)
@@ -1434,10 +1435,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (5)
 > **Env Vars:** spn (3), http (3)
 > **File Paths:** getuserspns.py (1), usr/share/wordlists/rockyou.txt (1)
 > **CLI Commands:** python3 (2)
-> **Code Keywords:** let (2)
 > **URLs:** [service.com](https://service.com) (1), [cybex.com](https://cybex.com) (1)
 > **Prerequisites:** set up (2)
 > **Versions:** 192.168.1 (1)
@@ -1524,9 +1525,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows]] (1), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** sid (4), win (2), krb (1), tgt (1), krb5ccname (1)
 > **CLI Commands:** sudo (4), python3 (4)
-> **Code Keywords:** let (5), for. (1), case, (1), pass (1)
 > **File Paths:** psexec.py (2), secretsdump.py (1), lookupsid.py (1), ticketer.py (1)
 > **Versions:** 192.168.1 (4)
 > **Speakers:** - [lecturer] (1), - domain (1), - target (1), - dc (1)
@@ -1604,7 +1605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (2), pass (2)
+> **Frameworks & Libraries:** [[Active Directory]] (8), [[Microsoft]] (1), [[Cryptography]] (1), [[Security]] (1), management (1)
 > **CLI Commands:** find (1), make (1), sudo (1), pip3 (1)
 > **UI Navigation:** click on (3)
 > **Code Identifiers:** msds (2)
@@ -1710,8 +1711,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Windows]] (2), [[Microsoft]] (1), [[Microsoft Defender|Defender]] (1), [[Active Directory]] (1)
 > **Env Vars:** pfx (4), ca01 (2), cve (1), begin (1), rsa (1)
-> **Code Keywords:** let (5), private (3), switch (1), case, (1), this, (1)
 > **URLs:** [cybex.com](https://cybex.com) (3)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** template (2)
@@ -1771,8 +1772,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (1)
 > **Env Vars:** pfx (2), ntlm (1), rpc (1), asp (1), smb (1)
-> **Code Keywords:** let (2), this, (1), this. (1), private (1)
 > **CLI Commands:** cd (1), python3 (1), cat (1)
 > **Versions:** 192.168.1 (3)
 > **File Paths:** dfscoerce.py (1)
@@ -1879,10 +1880,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), [[Windows]] (3), [[Powershell]] (3), data (1), [[Active Directory]] (1)
 > **Env Vars:** pin (5), vsc (3), adcs (3), tpm (2), acl (1)
 > **Non-Speech:** (keys clicking) (7)
 > **Exercise Files:** template (6)
-> **Code Keywords:** let (5)
 > **CLI Commands:** cat (2), find (1)
 > **Tools:** powershell (3)
 > **Definitions:** is a  (2), is called (1)
@@ -2003,9 +2004,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (6), data (6), [[Neo4j]] (6), [[Python (Programming Language)|Python]] (3), [[JSON]] (2)
 > **Env Vars:** domain (3), admins (3), akatt42 (3), json (2), nstove07 (2)
 > **CLI Commands:** find (4), python (3), node (2), sudo (1)
-> **Code Keywords:** let (7), require (1)
 > **Definitions:** is a  (3)
 > **Versions:** 192.168.1 (1), 127.0.0 (1)
 > **Code Identifiers:** bloodhound (1)
@@ -2015,7 +2016,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980)
@@ -2040,6 +2041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[LinkedIn]] (2), [[Penetration Testing]] (2), [[Cybersecurity]] (2), cloud (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

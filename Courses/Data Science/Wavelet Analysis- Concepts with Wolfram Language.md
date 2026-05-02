@@ -32,7 +32,7 @@ tags:
   - skill/data-analysis
   - skill/wavelets
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Wavelet%20Analysis-%20Concepts%20with%20Wolfram%20Language.md)
@@ -51,25 +51,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction
+  - [Introduction](#introduction)
 - [**1. Continuous Wavelet Transform**](#1-continuous-wavelet-transform) (1 videos)
-  - Continuous wavelet transform
+  - [Continuous wavelet transform](#continuous-wavelet-transform)
 - [**2. Discrete Wavelets**](#2-discrete-wavelets) (1 videos)
-  - Discrete wavelets
+  - [Discrete wavelets](#discrete-wavelets)
 - [**3. Wavelet Filter Bank**](#3-wavelet-filter-bank) (1 videos)
-  - Wavelet filter bank
+  - [Wavelet filter bank](#wavelet-filter-bank)
 - [**4. Discrete Wavelet Data**](#4-discrete-wavelet-data) (1 videos)
-  - Discrete wavelet data
+  - [Discrete wavelet data](#discrete-wavelet-data)
 - [**5. Wavelet Best Basis**](#5-wavelet-best-basis) (1 videos)
-  - Wavelet best basis
+  - [Wavelet best basis](#wavelet-best-basis)
 - [**6. Wavelet Thresholding**](#6-wavelet-thresholding) (1 videos)
-  - Wavelet thresholding
+  - [Wavelet thresholding](#wavelet-thresholding)
 - [**References**](#references) (1 videos)
-  - References
+  - [References](#references)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980)
@@ -234,7 +234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), case, (3), finally, (2), this. (1)
+> **Frameworks & Libraries:** [[Wavelets]] (12), data (6), [[Time Series Analysis]] (2), [[Algorithms]] (1), application (1)
 > **Definitions:** is a  (3), is called (2), is an  (1), means that (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** as you saw (1)
@@ -243,7 +243,7 @@ created: 2026-04-29
 
 ### 1. Continuous Wavelet Transform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous wavelet transform
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/continuous-wavelet-transform?u=76281980)
@@ -402,7 +402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (7), this, (3), case, (3), this. (2)
+> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (5)
 > **Versions:** 0.2 (1), 2.2 (1), 2.4 (1), 2.6 (1), 2.8 (1)
 > **Definitions:** means that (1), is called (1), is an  (1)
@@ -413,7 +413,7 @@ created: 2026-04-29
 
 ### 2. Discrete Wavelets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discrete wavelets
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980)
@@ -496,7 +496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), pass (8), case, (2), let (1)
+> **Frameworks & Libraries:** [[Unity]] (1), [[Wavelets]] (1), [[Microsoft Products|Products]] (1), product (1)
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -504,7 +504,7 @@ created: 2026-04-29
 
 ### 3. Wavelet Filter Bank
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wavelet filter bank
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-filter-bank?u=76281980)
@@ -561,13 +561,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (13), function (12), let (2), this. (2), this, (1)
 > **CLI Commands:** make (3)
 
 
 ### 4. Discrete Wavelet Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discrete wavelet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelet-data?u=76281980)
@@ -666,7 +665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), pass (4), require (2), case, (1)
+> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
@@ -675,7 +674,7 @@ created: 2026-04-29
 
 ### 5. Wavelet Best Basis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wavelet best basis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-best-basis?u=76281980)
@@ -746,7 +745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), case, (3)
+> **Frameworks & Libraries:** data (3), next (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (1)
@@ -754,7 +753,7 @@ created: 2026-04-29
 
 ### 6. Wavelet Thresholding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wavelet thresholding
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-thresholding?u=76281980)
@@ -883,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), case, (2), this. (1), switch (1)
+> **Frameworks & Libraries:** data (6), feature (2), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Documentation:** the documentation (3)
 > **Env Vars:** sure (1), fdr (1)
@@ -894,7 +893,7 @@ created: 2026-04-29
 
 ### References
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### References
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/references?u=76281980)
@@ -917,8 +916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wavelets]] (1), application (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **URLs:** [wolfram.com](https://wolfram.com) (1)
 
 

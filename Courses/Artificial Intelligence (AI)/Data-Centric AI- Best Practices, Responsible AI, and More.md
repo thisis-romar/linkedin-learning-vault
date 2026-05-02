@@ -35,7 +35,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Data-Centric%20AI-%20Best%20Practices%2C%20Responsible%20AI%2C%20and%20More.md)
@@ -54,52 +54,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - A different approach to AI
-  - Overview of the course objectives and agenda
+  - [A different approach to AI](#a-different-approach-to-ai)
+  - [Overview of the course objectives and agenda](#overview-of-the-course-objectives-and-agenda)
 - [**1. What Is Data-Centric AI?**](#1-what-is-data-centric-ai) (3 videos)
-  - Introduction to data-centric AI
-  - Understanding the role of data in AI and machine learning
-  - Data quality and reliability in AI applications
+  - [Introduction to data-centric AI](#introduction-to-data-centric-ai)
+  - [Understanding the role of data in AI and machine learning](#understanding-the-role-of-data-in-ai-and-machine-learning)
+  - [Data quality and reliability in AI applications](#data-quality-and-reliability-in-ai-applications)
 - [**2. Why Is Data-Centric AI Important?**](#2-why-is-data-centric-ai-important) (3 videos)
-  - Significance of data-centric AI in real-world scenarios
-  - Benefits of adopting a data-centric approach in AI projects
-  - Case studies highlighting the impact of data-centric AI
+  - [Significance of data-centric AI in real-world scenarios](#significance-of-data-centric-ai-in-real-world-scenarios)
+  - [Benefits of adopting a data-centric approach in AI projects](#benefits-of-adopting-a-data-centric-approach-in-ai-projects)
+  - [Case studies highlighting the impact of data-centric AI](#case-studies-highlighting-the-impact-of-data-centric-ai)
 - [**3. Workflow of Data-Centric AI**](#3-workflow-of-data-centric-ai) (3 videos)
-  - End-to-end workflow of data-centric AI
-  - Deep dive into data-centric AI components
-  - Iterative nature of the workflow for ML applications
+  - [End-to-end workflow of data-centric AI](#end-to-end-workflow-of-data-centric-ai)
+  - [Deep dive into data-centric AI components](#deep-dive-into-data-centric-ai-components)
+  - [Iterative nature of the workflow for ML applications](#iterative-nature-of-the-workflow-for-ml-applications)
 - [**4. MLOps: Introduction and Importance**](#4-mlops-introduction-and-importance) (2 videos)
-  - Purpose of MLOps (Machine Learning Operations)
-  - Challenges faced in deploying and maintaining ML models
+  - [Purpose of MLOps (Machine Learning Operations)](#purpose-of-mlops-machine-learning-operations)
+  - [Challenges faced in deploying and maintaining ML models](#challenges-faced-in-deploying-and-maintaining-ml-models)
 - [**5. Building Optimized MLOps with Data-Centric AI**](#5-building-optimized-mlops-with-data-centric-ai) (4 videos)
-  - Adding data-centric AI principles into the MLOps workflow
-  - Data personas in MLOps workflow
-  - Optimizing the MLOps process: Development
-  - Optimizing the MLOps process: Productionalizing
+  - [Adding data-centric AI principles into the MLOps workflow](#adding-data-centric-ai-principles-into-the-mlops-workflow)
+  - [Data personas in MLOps workflow](#data-personas-in-mlops-workflow)
+  - [Optimizing the MLOps process: Development](#optimizing-the-mlops-process-development)
+  - [Optimizing the MLOps process: Productionalizing](#optimizing-the-mlops-process-productionalizing)
 - [**6. Data-Centric AI in Action**](#6-data-centric-ai-in-action) (3 videos)
-  - Data validation, train-test validation, and model validation
-  - Best practices
-  - Code example: Exploration
+  - [Data validation, train-test validation, and model validation](#data-validation-train-test-validation-and-model-validation)
+  - [Best practices](#best-practices)
+  - [Code example: Exploration](#code-example-exploration)
 - [**7. Explainability and Interpretability**](#7-explainability-and-interpretability) (3 videos)
-  - Importance of model explainability and interpretability
-  - Techniques for understanding and interpreting ML models
-  - Code example: Model validation
+  - [Importance of model explainability and interpretability](#importance-of-model-explainability-and-interpretability)
+  - [Techniques for understanding and interpreting ML models](#techniques-for-understanding-and-interpreting-ml-models)
+  - [Code example: Model validation](#code-example-model-validation)
 - [**8. Bias Detection and Mitigation**](#8-bias-detection-and-mitigation) (3 videos)
-  - Discussion on the challenges of bias in AI systems
-  - Detecting and mitigating bias in data-centric AI projects
-  - Code example: Bias detection and mitigation
+  - [Discussion on the challenges of bias in AI systems](#discussion-on-the-challenges-of-bias-in-ai-systems)
+  - [Detecting and mitigating bias in data-centric AI projects](#detecting-and-mitigating-bias-in-data-centric-ai-projects)
+  - [Code example: Bias detection and mitigation](#code-example-bias-detection-and-mitigation)
 - [**9. Data Drift and Model Drift**](#9-data-drift-and-model-drift) (2 videos)
-  - Monitoring and maintaining ML models in production
-  - Understanding data drift and model drift
+  - [Monitoring and maintaining ML models in production](#monitoring-and-maintaining-ml-models-in-production)
+  - [Understanding data drift and model drift](#understanding-data-drift-and-model-drift)
 - [**10. Responsible AI**](#10-responsible-ai) (2 videos)
-  - Introduction to ethical considerations in AI
-  - Principles for responsible AI development and deployment
+  - [Introduction to ethical considerations in AI](#introduction-to-ethical-considerations-in-ai)
+  - [Principles for responsible AI development and deployment](#principles-for-responsible-ai-development-and-deployment)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Closing remarks and next steps for further learning
+  - [Closing remarks and next steps for further learning](#closing-remarks-and-next-steps-for-further-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A different approach to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (8), data (6), [[MLOps]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Speakers:** - in (1)
 
 #### Overview of the course objectives and agenda
@@ -146,15 +146,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), ai (2), [[Programming]] (1), [[Probability]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [lecturer] (1)
 
 
 ### 1. What Is Data-Centric AI?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data-centric AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980)
@@ -233,7 +233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1), for. (1)
+> **Frameworks & Libraries:** data (17), ai (7), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (1), similar to (1)
@@ -315,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1), finally, (1)
+> **Frameworks & Libraries:** data (30), ai (8), next (1)
 > **Analogies:** picture (2), for instance (1)
 > **CLI Commands:** make (1), cat (1)
 > **Definitions:** is an  (1)
@@ -390,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (23), ai (3), [[Analytics]] (2), functional (1), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -399,7 +399,7 @@ created: 2026-04-29
 
 ### 2. Why Is Data-Centric AI Important?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Significance of data-centric AI in real-world scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980)
@@ -500,7 +500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (41), ai (21), [[Engineering]] (2), power (2), business (2)
 > **Cross-References:** previous chapter (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** keep in mind (1)
@@ -553,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (2), case, (1)
+> **Frameworks & Libraries:** data (15), ai (5), [[Sustainability]] (1), [[Engineering]] (1), business (1)
 > **Speakers:** - [instructor] (1)
 
 #### Case studies highlighting the impact of data-centric AI
@@ -655,14 +655,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), case, (2), case. (1), pass (1)
+> **Frameworks & Libraries:** data (31), ai (8), [[Algorithms]] (4), [[Privacy]] (2), [[Security]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Workflow of Data-Centric AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### End-to-end workflow of data-centric AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980)
@@ -731,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), this, (1), from, (1)
+> **Frameworks & Libraries:** data (31), ai (16), [[MLOps]] (3), next (2), [[Feature Engineering]] (2)
 > **Definitions:** is a  (2), is an  (2)
 > **Cross-References:** in the next (1), in the last (1)
 > **UI Navigation:** go to (1)
@@ -820,8 +820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Automation]] (3), ai (3), database (2), next (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** auc (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** similar to (1)
@@ -868,7 +868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** data (8), [[Continuous Monitoring]] (2), business (1), ai (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -876,7 +876,7 @@ created: 2026-04-29
 
 ### 4. MLOps: Introduction and Importance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose of MLOps (Machine Learning Operations)
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980)
@@ -989,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[MLOps]] (20), data (9), ai (4), [[Automation]] (2), [[DevOps]] (2)
 > **Env Vars:** cicd (1), gpu (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1077,7 +1077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), return. (1)
+> **Frameworks & Libraries:** ai (10), application (2), power (1), data (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1088,7 +1088,7 @@ created: 2026-04-29
 
 ### 5. Building Optimized MLOps with Data-Centric AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding data-centric AI principles into the MLOps workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980)
@@ -1177,8 +1177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), [[MLOps]] (10), ai (8), [[Feature Engineering]] (2), feature (2)
 > **Cross-References:** in the last (1), we covered (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
@@ -1260,7 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), extends (1)
+> **Frameworks & Libraries:** data (57), ai (6), business (1)
 > **Speakers:** - [tutor] (1)
 
 #### Optimizing the MLOps process: Development
@@ -1410,7 +1410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), try. (2), from, (1), module (1)
+> **Frameworks & Libraries:** data (40), [[Microsoft Azure|Azure]] (17), next (4), etl (3), cloud (3)
 > **Env Vars:** etl (3), sql (2), rest (1), grpc (1), rbac (1)
 > **CLI Commands:** apache (5), python (1), find (1), docker (1)
 > **UI Navigation:** drag and drop (1)
@@ -1542,7 +1542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (13), cloud (6), [[Kubernetes]] (4), [[Scalability]] (4)
 > **Env Vars:** aks (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
@@ -1551,7 +1551,7 @@ created: 2026-04-29
 
 ### 6. Data-Centric AI in Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data validation, train-test validation, and model validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980)
@@ -1610,7 +1610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (22), ai (3), [[MLOps]] (1), [[TensorFlow]] (1), [[Statistics]] (1)
 > **Speakers:** - so (1)
 
 #### Best practices
@@ -1944,7 +1944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), require (1), finally, (1), protected (1), private (1)
+> **Frameworks & Libraries:** data (96), feature (6), [[Security]] (4), ai (2), [[Statistics]] (1)
 > **Env Vars:** auc (6), roc (4), etl (1)
 > **Definitions:** is a  (6), known as (2), is an  (1), refers to (1)
 > **Analogies:** for example (1), such as (1), picture (1)
@@ -2087,7 +2087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** data (29), [[Statistics]] (7), next (7), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** tfdv (2), auc (2), uci (1), ruc (1), roc (1)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (2)
@@ -2098,7 +2098,7 @@ created: 2026-04-29
 
 ### 7. Explainability and Interpretability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of model explainability and interpretability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980)
@@ -2161,8 +2161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (2), [[Deep Learning]] (1), [[Responsible AI]] (1), [[Legal Compliance]] (1)
 > **Env Vars:** lime (2), shap (1), xai (1), iai (1), gdpr (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2221,8 +2221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), feature (2), [[Debugging]] (1), [[Building Trust]] (1), [[Accountability]] (1)
 > **Definitions:** refers to (2), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [presenter] (1)
 
 #### Code example: Model validation
@@ -2290,7 +2290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), function (1)
+> **Frameworks & Libraries:** data (5), [[Probability]] (4), feature (3), next (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** lime (2)
 > **CLI Commands:** make (1)
@@ -2301,7 +2301,7 @@ created: 2026-04-29
 
 ### 8. Bias Detection and Mitigation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discussion on the challenges of bias in AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/discussion-on-the-challenges-of-bias-in-ai-systems?u=76281980)
@@ -2370,7 +2370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (9), ai (5), [[Algorithms]] (3), [[Debugging]] (1)
 > **Env Vars:** zip (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
@@ -2457,7 +2457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** data (13), [[Algorithms]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2543,7 +2543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), case, (1), this. (1), for, (1)
+> **Frameworks & Libraries:** data (5), feature (5), next (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 0.24 (2), 0.21 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -2553,7 +2553,7 @@ created: 2026-04-29
 
 ### 9. Data Drift and Model Drift
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring and maintaining ML models in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980)
@@ -2722,8 +2722,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), traffic (3), ai (2), [[Continuous Monitoring]] (1), [[Forms]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), case. (1), static (1)
 > **Analogies:** for example (1), it's like (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -2863,8 +2863,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), feature (2), [[Statistics]] (2), [[React.js|React]] (1), [[IoT]] (1)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** let (1), static (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** covid (1)
 > **Prerequisites:** set up (1)
@@ -2873,7 +2873,7 @@ created: 2026-04-29
 
 ### 10. Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ethical considerations in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980)
@@ -2974,7 +2974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** ai (9), [[Responsible AI]] (5), data (4), [[Accountability]] (4), [[Privacy]] (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** github (1)
@@ -3078,7 +3078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), finally, (1)
+> **Frameworks & Libraries:** ai (25), data (7), [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), application (2)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **Warnings:** keep in mind (1)
@@ -3087,7 +3087,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Closing remarks and next steps for further learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980)
@@ -3138,6 +3138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Microsoft Azure|Azure]] (5), data (3), [[GitHub]] (3), cloud (2)
 > **Tools:** github (3)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - as (1)

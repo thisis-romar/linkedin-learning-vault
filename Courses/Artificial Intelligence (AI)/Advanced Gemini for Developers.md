@@ -35,7 +35,7 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Gemini%20for%20Developers.md)
@@ -54,33 +54,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Creating enterprise GenAI apps with Google Gemini
+  - [Creating enterprise GenAI apps with Google Gemini](#creating-enterprise-genai-apps-with-google-gemini)
 - [**1. Test Prompts**](#1-test-prompts) (4 videos)
-  - Test prompts with Prompt Tool
-  - Configure Prompt Tool
-  - Use Colab Enterprise with the Gemini API
-  - Use CloudRun with the Gemini API
+  - [Test prompts with Prompt Tool](#test-prompts-with-prompt-tool)
+  - [Configure Prompt Tool](#configure-prompt-tool)
+  - [Use Colab Enterprise with the Gemini API](#use-colab-enterprise-with-the-gemini-api)
+  - [Use CloudRun with the Gemini API](#use-cloudrun-with-the-gemini-api)
 - [**2. Manage Prompts**](#2-manage-prompts) (4 videos)
-  - Use Prompt Management to write prompts
-  - Use Prompt Management to compare prompts
-  - Use Prompt Management to optimize prompts
-  - Use Prompt Management to evaluate prompts
+  - [Use Prompt Management to write prompts](#use-prompt-management-to-write-prompts)
+  - [Use Prompt Management to compare prompts](#use-prompt-management-to-compare-prompts)
+  - [Use Prompt Management to optimize prompts](#use-prompt-management-to-optimize-prompts)
+  - [Use Prompt Management to evaluate prompts](#use-prompt-management-to-evaluate-prompts)
 - [**3. Use Model Garden**](#3-use-model-garden) (4 videos)
-  - Test Gemini and Gemma models
-  - Test open source models
-  - Test Hugging Face
-  - Test medical open source models
+  - [Test Gemini and Gemma models](#test-gemini-and-gemma-models)
+  - [Test open source models](#test-open-source-models)
+  - [Test Hugging Face](#test-hugging-face)
+  - [Test medical open source models](#test-medical-open-source-models)
 - [**4. Build AI Applications**](#4-build-ai-applications) (4 videos)
-  - Explore AI applications and Vertex AI Search
-  - Set up datastore for Vertex AI Search custom app
-  - Build Vertex AI Search custom app
-  - Explore Agent Garden capabilities
+  - [Explore AI applications and Vertex AI Search](#explore-ai-applications-and-vertex-ai-search)
+  - [Set up datastore for Vertex AI Search custom app](#set-up-datastore-for-vertex-ai-search-custom-app)
+  - [Build Vertex AI Search custom app](#build-vertex-ai-search-custom-app)
+  - [Explore Agent Garden capabilities](#explore-agent-garden-capabilities)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating enterprise GenAI apps with Google Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980)
@@ -105,13 +105,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Vertex]] (2), [[Gemini]] (2), [[Google Gemini]] (1)
 > **Speakers:** - [lynn] (1)
 
 
 ### 1. Test Prompts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test prompts with Prompt Tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980)
@@ -198,8 +198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Google]] (7), [[Google Cloud Platform (GCP)|Google cloud]] (7), data (6), [[Gemini]] (6)
 > **Prerequisites:** set up (4), prerequisite (1)
-> **Code Keywords:** pass (1), new, (1), new. (1), interface (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** just like (1), similar to (1)
 > **CLI Commands:** make (1)
@@ -290,7 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), case. (1), switch (1), for. (1)
+> **Frameworks & Libraries:** prompt (7), ai (6), [[Vertex]] (5), application (4), [[Google]] (3)
 > **Env Vars:** api (3), llm (2)
 > **Tools:** colab (2), github (1)
 > **Definitions:** is a  (2)
@@ -354,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), interface (2), public (1), case, (1), this. (1)
+> **Frameworks & Libraries:** ai (5), prompt (4), [[Google]] (4), [[Vertex]] (4), application (2)
 > **Tools:** colab (5), jupyter (2)
 > **CLI Commands:** make (1), pip (1)
 > **Code Identifiers:** from_text (1), max_tokens (1)
@@ -430,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new; (1), super (1), interface (1)
+> **Frameworks & Libraries:** cloud (7), [[Vertex]] (5), ai (5), prompt (4), business (3)
 > **Prerequisites:** set up (3)
 > **Env Vars:** url (2)
 > **UI Navigation:** open the (1), go to (1)
@@ -442,7 +442,7 @@ created: 2026-04-29
 
 ### 2. Manage Prompts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Prompt Management to write prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980)
@@ -541,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), module (1), this. (1), let (1)
+> **Frameworks & Libraries:** prompt (26), management (5), [[Vertex]] (4), ai (4), web (3)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sdk (1)
 > **Documentation:** the documentation (1)
@@ -602,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), continue (1), this. (1), this, (1)
+> **Frameworks & Libraries:** prompt (13), management (4), web (2), [[Google]] (2), next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [host] (1)
@@ -662,7 +662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (2), super (1), case. (1), function (1)
+> **Frameworks & Libraries:** prompt (11), management (2), [[Vertex]] (2), ai (2), [[Gemini]] (2)
 > **Exercise Files:** template (3), github repo (1)
 > **Prerequisites:** configure (2), install (1)
 > **Documentation:** the documentation (1), the docs (1)
@@ -860,7 +860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), case, (2), this, (1), type, (1), class. (1)
+> **Frameworks & Libraries:** prompt (7), [[Gemini]] (7), data (6), ai (6), llm (3)
 > **Env Vars:** llm (3), sdk (2), gpt (2), flan (1)
 > **Versions:** 2.0 (3), 3.5 (2), 3.2 (1), 2.5 (1)
 > **CLI Commands:** python (2), find (1), pip (1)
@@ -872,7 +872,7 @@ created: 2026-04-29
 
 ### 3. Use Model Garden
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test Gemini and Gemma models
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980)
@@ -947,7 +947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (3), this. (1), delete (1)
+> **Frameworks & Libraries:** [[Gemini]] (8), [[Vertex]] (2), ai (2), [[Google]] (2), api (2)
 > **UI Navigation:** go to (2), select the (2), click on (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (2), llm (1)
@@ -1063,7 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), this. (2), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[LLaMA]] (5), open-source (3), llm (2), [[Gemini]] (2)
 > **Prerequisites:** set up (4)
 > **Env Vars:** llm (2), api (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -1173,7 +1173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (1), case, (1), public (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (9), application (2), [[Search]] (2), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** llm (1), rest (1)
 > **Analogies:** for example (1), such as (1)
@@ -1263,7 +1263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1), import. (1), require (1)
+> **Frameworks & Libraries:** [[Gemini]] (7), data (6), llm (2), application (2), cloud (2)
 > **Env Vars:** dicom (3), llm (2), phi (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1), setup (1)
@@ -1273,7 +1273,7 @@ created: 2026-04-29
 
 ### 4. Build AI Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore AI applications and Vertex AI Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980)
@@ -1376,7 +1376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), super (2), let (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (21), ai (18), [[Vertex]] (8), data (8), [[Google]] (7)
 > **Env Vars:** fhir (3), rag (2), api (1), llm (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1), find (1)
@@ -1489,8 +1489,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), ai (4), [[Search]] (3), cloud (3), [[Google]] (2)
 > **Env Vars:** fhir (2), json (2), llm (1), create (1), data (1)
-> **Code Keywords:** let (4), interface (2), this, (1), case, (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1575,7 +1575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2)
+> **Frameworks & Libraries:** [[Search]] (5), data (4), next (3), [[Gemini]] (3), generic (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** json (1)
@@ -1653,19 +1653,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Vertex]] (5), rag (4), next (3), data (3)
 > **Env Vars:** rag (4), adk (3), pip (2), llm (1)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** pip (2)
 > **Tools:** github (2)
 > **Prerequisites:** install (2)
-> **Code Keywords:** else, (1)
 > **Analogies:** for example (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980)
@@ -1700,9 +1700,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Gemini]] (2), [[Vertex]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), api (1)
 > **Tools:** colab (2), github (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** api (1)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [narrator] (1)

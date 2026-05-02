@@ -29,7 +29,7 @@ tags:
   - topic/database-management
   - skill/data-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Management%20Essential%20Training.md)
@@ -48,88 +48,88 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Dive into data management
-  - What you should know
+  - [Dive into data management](#dive-into-data-management)
+  - [What you should know](#what-you-should-know)
 - [**1. Fundamentals of Data Management**](#1-fundamentals-of-data-management) (8 videos)
-  - Introduction to data management
-  - Benefits of effective data management
-  - Data lifecycle management
-  - Key concepts in data management
-  - Data quality assurance and data cleansing
-  - Roles and responsibilities in data management
-  - Common challenges in data management
-  - Emerging trends and technologies in data management
+  - [Introduction to data management](#introduction-to-data-management)
+  - [Benefits of effective data management](#benefits-of-effective-data-management)
+  - [Data lifecycle management](#data-lifecycle-management)
+  - [Key concepts in data management](#key-concepts-in-data-management)
+  - [Data quality assurance and data cleansing](#data-quality-assurance-and-data-cleansing)
+  - [Roles and responsibilities in data management](#roles-and-responsibilities-in-data-management)
+  - [Common challenges in data management](#common-challenges-in-data-management)
+  - [Emerging trends and technologies in data management](#emerging-trends-and-technologies-in-data-management)
 - [**2. Data Collection and Acquisition**](#2-data-collection-and-acquisition) (9 videos)
-  - Introduction to data collection
-  - Types of data sources
-  - Practical examples of data sources
-  - Data collection methods
-  - Efficient data management with data sampling
-  - Data validation: Ensuring accurate data
-  - Data acquisition best practices
-  - Challenges in data collection
-  - Ethics with data collection
+  - [Introduction to data collection](#introduction-to-data-collection)
+  - [Types of data sources](#types-of-data-sources)
+  - [Practical examples of data sources](#practical-examples-of-data-sources)
+  - [Data collection methods](#data-collection-methods)
+  - [Efficient data management with data sampling](#efficient-data-management-with-data-sampling)
+  - [Data validation: Ensuring accurate data](#data-validation-ensuring-accurate-data)
+  - [Data acquisition best practices](#data-acquisition-best-practices)
+  - [Challenges in data collection](#challenges-in-data-collection)
+  - [Ethics with data collection](#ethics-with-data-collection)
 - [**3. Data Processing and Integration**](#3-data-processing-and-integration) (9 videos)
-  - Introduction to data processing
-  - Data cleaning and preprocessing
-  - Data transformation techniques
-  - Extract, transform, load (ETL) processes
-  - Data integration approaches
-  - Real-time data processing
-  - Big data processing
-  - Challenges in data processing and integration
-  - Practical look at pipelines
+  - [Introduction to data processing](#introduction-to-data-processing)
+  - [Data cleaning and preprocessing](#data-cleaning-and-preprocessing)
+  - [Data transformation techniques](#data-transformation-techniques)
+  - [Extract, transform, load (ETL) processes](#extract-transform-load-etl-processes)
+  - [Data integration approaches](#data-integration-approaches)
+  - [Real-time data processing](#real-time-data-processing)
+  - [Big data processing](#big-data-processing)
+  - [Challenges in data processing and integration](#challenges-in-data-processing-and-integration)
+  - [Practical look at pipelines](#practical-look-at-pipelines)
 - [**4. Data Storage and Management**](#4-data-storage-and-management) (8 videos)
-  - Introduction to data storage
-  - Types of data storage
-  - Database management systems (DBMS)
-  - Data warehousing
-  - Data archiving and backups
-  - Practical look at blob storage lifecycle management
-  - Data retention and compliance
-  - Data storage optimization
+  - [Introduction to data storage](#introduction-to-data-storage)
+  - [Types of data storage](#types-of-data-storage)
+  - [Database management systems (DBMS)](#database-management-systems-dbms)
+  - [Data warehousing](#data-warehousing)
+  - [Data archiving and backups](#data-archiving-and-backups)
+  - [Practical look at blob storage lifecycle management](#practical-look-at-blob-storage-lifecycle-management)
+  - [Data retention and compliance](#data-retention-and-compliance)
+  - [Data storage optimization](#data-storage-optimization)
 - [**5. Data Analysis and Interpretation**](#5-data-analysis-and-interpretation) (8 videos)
-  - Introduction to data analysis
-  - Exploratory data analysis (EDA)
-  - Predictive analytics and modeling
-  - Machine learning for data analysis
-  - Text and sentiment analysis
-  - A practical look at Azure AI Sentiment Analysis
-  - Time series analysis
-  - Interpreting and communicating results
+  - [Introduction to data analysis](#introduction-to-data-analysis)
+  - [Exploratory data analysis (EDA)](#exploratory-data-analysis-eda)
+  - [Predictive analytics and modeling](#predictive-analytics-and-modeling)
+  - [Machine learning for data analysis](#machine-learning-for-data-analysis)
+  - [Text and sentiment analysis](#text-and-sentiment-analysis)
+  - [A practical look at Azure AI Sentiment Analysis](#a-practical-look-at-azure-ai-sentiment-analysis)
+  - [Time series analysis](#time-series-analysis)
+  - [Interpreting and communicating results](#interpreting-and-communicating-results)
 - [**6. Data Visualization and Reporting**](#6-data-visualization-and-reporting) (9 videos)
-  - Introduction to data visualization
-  - Principles of effective data visualization
-  - Data visualization tools and techniques
-  - Practical look at Power BI within Microsoft Fabric
-  - Dashboard design and development
-  - Interactive data visualization
-  - Storytelling with data
-  - Reporting best practices
-  - Common data visualization challenges
+  - [Introduction to data visualization](#introduction-to-data-visualization)
+  - [Principles of effective data visualization](#principles-of-effective-data-visualization)
+  - [Data visualization tools and techniques](#data-visualization-tools-and-techniques)
+  - [Practical look at Power BI within Microsoft Fabric](#practical-look-at-power-bi-within-microsoft-fabric)
+  - [Dashboard design and development](#dashboard-design-and-development)
+  - [Interactive data visualization](#interactive-data-visualization)
+  - [Storytelling with data](#storytelling-with-data)
+  - [Reporting best practices](#reporting-best-practices)
+  - [Common data visualization challenges](#common-data-visualization-challenges)
 - [**7. Data Governance and Compliance**](#7-data-governance-and-compliance) (8 videos)
-  - Introduction to data governance
-  - Establishing data policies and standards
-  - Regulatory compliance requirements
-  - Data privacy regulations
-  - Data security frameworks
-  - Applying CIS with Azure Policy
-  - Risk management
-  - Continuous monitoring and auditing for compliance
+  - [Introduction to data governance](#introduction-to-data-governance)
+  - [Establishing data policies and standards](#establishing-data-policies-and-standards)
+  - [Regulatory compliance requirements](#regulatory-compliance-requirements)
+  - [Data privacy regulations](#data-privacy-regulations)
+  - [Data security frameworks](#data-security-frameworks)
+  - [Applying CIS with Azure Policy](#applying-cis-with-azure-policy)
+  - [Risk management](#risk-management)
+  - [Continuous monitoring and auditing for compliance](#continuous-monitoring-and-auditing-for-compliance)
 - [**8. Data Management Meets AI**](#8-data-management-meets-ai) (7 videos)
-  - Introduction to AI in data management
-  - AI-assisted data collection
-  - Impact of AI on data processing and data analysis
-  - AI-driven data visualization
-  - AI-assisted governance and compliance
-  - Future trends in data management AI integration
-  - Practical example of Azure SQL Server automatic tuning
+  - [Introduction to AI in data management](#introduction-to-ai-in-data-management)
+  - [AI-assisted data collection](#ai-assisted-data-collection)
+  - [Impact of AI on data processing and data analysis](#impact-of-ai-on-data-processing-and-data-analysis)
+  - [AI-driven data visualization](#ai-driven-data-visualization)
+  - [AI-assisted governance and compliance](#ai-assisted-governance-and-compliance)
+  - [Future trends in data management AI integration](#future-trends-in-data-management-ai-integration)
+  - [Practical example of Azure SQL Server automatic tuning](#practical-example-of-azure-sql-server-automatic-tuning)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dive into data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/dive-into-data-management?u=76281980)
@@ -154,6 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), management (4), business (1), ai (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - ever (1)
 
@@ -190,8 +191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Databases]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Azure|Azure]] (1), [[MySQL]] (1)
 > **CLI Commands:** make (1), mysql (1), aws (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** sql (1), aws (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
@@ -199,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Data Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-management?u=76281980)
@@ -238,7 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** data (9), management (6), ai (2), next (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -291,8 +292,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), management (5), [[Dashboards]] (1), business (1), teams (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
@@ -357,6 +358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), management (4), business (3), ai (3), teams (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -415,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (21), management (5), [[Security]] (3), business (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pii (1), gdpr (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), such as (1)
@@ -467,8 +469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Real-Time]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else. (1), finally, (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -524,8 +526,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), teams (3), management (2), next (1), database (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -580,7 +582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (14), management (5), business (3), [[Security]] (2), web (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gdpr (1)
 > **Cross-References:** we discussed (1)
@@ -643,10 +645,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), management (9), ai (5), [[Big Data]] (3), cloud (3)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** for example (1), picture (1), such as (1)
 > **CLI Commands:** find (1), aws (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** iot (1), aws (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - data (1)
@@ -654,7 +656,7 @@ created: 2026-04-29
 
 ### 2. Data Collection and Acquisition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-collection?u=76281980)
@@ -699,9 +701,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), management (4), next (2), [[Ethics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -784,10 +786,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Real-Time]] (3), [[Databases]] (2), management (2), [[IoT]] (2)
 > **Env Vars:** crm (2), erp (2), sql (1), api (1), xml (1)
 > **Analogies:** such as (3), imagine (1)
 > **CLI Commands:** mysql (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -880,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), pass (1)
+> **Frameworks & Libraries:** data (22), [[Microsoft Azure|Azure]] (7), database (5), [[Unstructured Data]] (4), [[JSON]] (4)
 > **Env Vars:** json (4), sql (3)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** right-click (1), navigate to (1)
@@ -943,7 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (20), api (2), next (1), database (1), application (1)
 > **Env Vars:** api (2), iot (1)
 > **Cross-References:** previous video (1), we covered (1)
 > **CLI Commands:** make (1)
@@ -992,8 +994,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Statistics]] (1), [[LinkedIn]] (1), business (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1068,9 +1070,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), management (2), [[Representational State Transfer (REST)|Rest]] (1), business (1), product (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (1), require (1), continue (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
@@ -1136,8 +1138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), business (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), from, (1), finally, (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** gdpr (1)
 > **Cross-References:** in the last (1)
@@ -1195,8 +1197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Security]] (2), management (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1251,6 +1253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Privacy]] (2), [[Ethics]] (1), next (1)
 > **Env Vars:** pii (1), gdpr (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1261,7 +1264,7 @@ created: 2026-04-29
 
 ### 3. Data Processing and Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-processing?u=76281980)
@@ -1294,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** data (15), next (2), [[Representational State Transfer (REST)|Rest]] (1), management (1), [[Data Transformation]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** etl (1)
@@ -1352,6 +1355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), business (1), [[Microsoft Excel]] (1), [[Pivot Tables]] (1), management (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Analogies:** such as (3)
 > **Cross-References:** previous chapter (1)
@@ -1425,7 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** data (19), next (1), [[Unstructured Data]] (1), etl (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** usa (1), etl (1)
@@ -1500,10 +1504,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), etl (6), [[Data Transformation]] (2), [[Databases]] (1), [[Troubleshooting]] (1)
 > **Env Vars:** etl (6), cdc (1), usd (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** previous video (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1573,11 +1577,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), next (3), etl (2), [[Real-Time]] (2), business (1)
 > **Analogies:** picture (2), imagine (1), such as (1), for example (1)
 > **Env Vars:** etl (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1616,6 +1620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Real-Time]] (6), [[IoT]] (3), management (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
@@ -1675,8 +1680,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Big Data]] (6), [[Scalability]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** type. (1), case. (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1723,9 +1728,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), next (1), business (1), [[Security]] (1), product (1)
 > **Cross-References:** coming up (1), later in (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [narrator] (1)
 
 #### Practical look at pipelines
@@ -1805,7 +1810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1), finally, (1)
+> **Frameworks & Libraries:** data (17), [[Analytics]] (2), [[LinkedIn]] (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** csv (3), top (1)
 > **Definitions:** is a  (3), is an  (1)
 > **File Paths:** new_york_events_2010_2015.csv (1)
@@ -1816,7 +1821,7 @@ created: 2026-04-29
 
 ### 4. Data Storage and Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-storage?u=76281980)
@@ -1853,8 +1858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), database (2), next (1), management (1), cloud (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1904,8 +1909,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), cloud (4), [[NoSQL]] (2), [[Databases]] (2), [[Relational Databases]] (1)
 > **CLI Commands:** make (3), aws (1)
-> **Code Keywords:** from, (1), finally, (1), let (1)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** aws (1), sql (1)
 > **Definitions:** is a  (2)
@@ -1953,9 +1958,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), database (6), management (4), [[Relational Databases]] (2), [[Databases]] (2)
 > **Env Vars:** dbms (6), sql (1), oltp (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** case. (2), let (1)
 > **CLI Commands:** mysql (1), apache (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -2011,6 +2016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), business (3), management (2), database (1), product (1)
 > **Env Vars:** olap (2), oltp (1), etl (1)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -2075,10 +2081,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), management (2), database (1), next (1), cloud (1)
 > **Env Vars:** san (1), ssd (1), aws (1), rpo (1)
 > **CLI Commands:** make (2), aws (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** delete (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -2142,7 +2148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2)
+> **Frameworks & Libraries:** management (5), data (3), [[Microsoft Azure|Azure]] (2), next (2), [[Search]] (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
@@ -2186,6 +2192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Financial Data]] (2), database (2), management (1)
 > **Env Vars:** gdpr (4), oltp (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **CLI Commands:** make (1)
@@ -2243,6 +2250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), cloud (3), application (2), feature (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **Cross-References:** we talked about (2)
 > **Env Vars:** sql (1)
@@ -2253,7 +2261,7 @@ created: 2026-04-29
 
 ### 5. Data Analysis and Interpretation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-analysis?u=76281980)
@@ -2288,8 +2296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), next (2), management (1), business (1), [[Algorithms]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** eda (1)
 > **Analogies:** such as (1)
 > **Speakers:** - welcome (1)
@@ -2329,9 +2337,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), management (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** eda (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -2373,6 +2381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Predictive Analytics]] (1), [[Decision Trees]] (1), [[Algorithms]] (1), management (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2423,9 +2432,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Algorithms]] (4), business (2), power (1), [[Predictive Modeling]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (1), for example (1), similar to (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2460,9 +2469,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Unstructured Data]] (2), product (2), business (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### A practical look at Azure AI Sentiment Analysis
@@ -2516,8 +2525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (3), api (3), [[Microsoft Azure|Azure]] (2), management (2)
 > **Env Vars:** api (3), url (2), rest (1), json (1)
-> **Code Keywords:** let (2), this, (1), return, (1), pass (1)
 > **CLI Commands:** python (1), apache (1), find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -2558,6 +2567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Time Series Analysis]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2596,17 +2606,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (4), management (1)
 > **Cross-References:** next chapter (2), in the next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for, (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 6. Data Visualization and Reporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-visualization?u=76281980)
@@ -2635,8 +2645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), management (1), [[Dashboards]] (1), business (1), power (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2669,7 +2679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (6), business (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2736,8 +2746,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), power (3), bi (3), [[Tableau]] (3), management (2)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -2779,7 +2789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1)
+> **Frameworks & Libraries:** data (14), power (5), bi (5), [[Dashboards]] (1), [[Tableau]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gold (1)
 > **Cross-References:** previous video (1)
@@ -2844,9 +2854,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Dashboards]] (4), database (2), next (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -2898,9 +2908,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Dashboards]] (5), business (3), power (1), product (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** static (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2971,7 +2981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), case, (1), continue (1)
+> **Frameworks & Libraries:** data (14), [[Data Storytelling]] (3), [[Dashboards]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3038,6 +3048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (2), next (1), [[Dashboards]] (1), [[Automation]] (1)
 > **Ports:** :30 (1), :25 (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -3095,6 +3106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Dashboards]] (1), next (1), business (1), management (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Definitions:** is a  (1)
@@ -3104,7 +3116,7 @@ created: 2026-04-29
 
 ### 7. Data Governance and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-governance?u=76281980)
@@ -3147,8 +3159,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), management (2), [[Security]] (2), [[Privacy]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
@@ -3219,8 +3231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), management (3), [[Security]] (2), [[Microsoft]] (1), cloud (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** protected (1), require (1)
 > **Cross-References:** we mentioned (1), earlier in (1)
 > **Speakers:** - [presenter] (1)
 
@@ -3273,11 +3285,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Security]] (2), [[Accountability]] (1), [[Privacy]] (1), [[Incident Response]] (1)
 > **Env Vars:** gdpr (2), hipaa (1), usa (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1), previous video (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3332,9 +3344,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Privacy]] (5), [[Financial Data]] (1), management (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pii (2)
-> **Code Keywords:** for. (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -3403,9 +3415,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), data (7), management (4), [[NIST]] (3), [[Cybersecurity]] (3)
 > **Env Vars:** iso (4), cis (4), nist (3), usa (1)
 > **Definitions:** is a  (4), stands for (1)
-> **Code Keywords:** let (2), protected (1), continue (1)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** as we saw (1)
 > **Best Practices:** recommended (1)
@@ -3460,8 +3472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), business (3), data (2), [[LinkedIn]] (2), [[Security]] (1)
 > **Env Vars:** cis (7), sql (1), json (1)
-> **Code Keywords:** let (2), this. (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -3522,10 +3534,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), management (5), [[Privacy]] (1), business (1), [[Security]] (1)
 > **Env Vars:** gdpr (1), etl (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3567,6 +3579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), cloud (1), [[React.js|React]] (1), [[Continuous Monitoring]] (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
@@ -3575,7 +3588,7 @@ created: 2026-04-29
 
 ### 8. Data Management Meets AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI in data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-ai-in-data-management?u=76281980)
@@ -3606,6 +3619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (7), management (4), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Cross-References:** next chapter (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -3663,11 +3677,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), ai (12), [[Unstructured Data]] (2), [[Automation]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rpa (1), nlp (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3728,9 +3742,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), ai (14), management (2), [[Unstructured Data]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** previous video (1), in the next (1)
-> **Code Keywords:** continue (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
@@ -3771,8 +3785,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), data (6), bi (5), ai (4), [[Microsoft Copilot|Copilot]] (4)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -3812,6 +3826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (2), [[Automation]] (1), management (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous chapter (1)
@@ -3864,7 +3879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), finally, (1)
+> **Frameworks & Libraries:** data (9), ai (6), management (6), database (4), cloud (1)
 > **CLI Commands:** aws (1), make (1), find (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is a  (1)
@@ -3933,8 +3948,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), database (5), ai (3), [[Microsoft SQL Server|Sql server]] (3), management (2)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (2), default. (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Definitions:** is a  (2)
 > **Tools:** azure portal (1)
@@ -3944,7 +3959,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/next-steps?u=76281980)
@@ -3979,7 +3994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (5), management (4), next (2), [[LinkedIn]] (2), ai (1)
 > **Env Vars:** etl (1)
 > **Analogies:** for example (1)
 > **Speakers:** - well (1)

@@ -30,7 +30,7 @@ tags:
   - skill/email-etiquette
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Writing%20Customer%20Service%20Emails.md)
@@ -49,42 +49,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Customer service email is not dead
+  - [Customer service email is not dead](#customer-service-email-is-not-dead)
 - [**1. Answer the Customer's Question**](#1-answer-the-customers-question) (6 videos)
-  - Read emails analytically
-  - Anticipate follow-up questions
-  - Answer all of the customer's questions
-  - Answer difficult questions confidently
-  - Challenge: Answer a difficult question
-  - Solution: Answer a difficult question
+  - [Read emails analytically](#read-emails-analytically)
+  - [Anticipate follow-up questions](#anticipate-follow-up-questions)
+  - [Answer all of the customer's questions](#answer-all-of-the-customers-questions)
+  - [Answer difficult questions confidently](#answer-difficult-questions-confidently)
+  - [Challenge: Answer a difficult question](#challenge-answer-a-difficult-question)
+  - [Solution: Answer a difficult question](#solution-answer-a-difficult-question)
 - [**2. Show Customers You've Read Their Email**](#2-show-customers-youve-read-their-email) (5 videos)
-  - Explain your process to the customer
-  - Paraphrase the customer's situation
-  - Acknowledge the customer's feelings
-  - Challenge: Demonstrate you've read the customer's email
-  - Solution: Demonstrate you've read the customer's email
+  - [Explain your process to the customer](#explain-your-process-to-the-customer)
+  - [Paraphrase the customer's situation](#paraphrase-the-customers-situation)
+  - [Acknowledge the customer's feelings](#acknowledge-the-customers-feelings)
+  - [Challenge: Demonstrate you've read the customer's email](#challenge-demonstrate-youve-read-the-customers-email)
+  - [Solution: Demonstrate you've read the customer's email](#solution-demonstrate-youve-read-the-customers-email)
 - [**3. Use an Engaging Tone with Customers**](#3-use-an-engaging-tone-with-customers) (2 videos)
-  - Use personal pronouns
-  - Make your writing more like speaking
+  - [Use personal pronouns](#use-personal-pronouns)
+  - [Make your writing more like speaking](#make-your-writing-more-like-speaking)
 - [**4. If You Must Apologize, Be Sincere**](#4-if-you-must-apologize-be-sincere) (6 videos)
-  - When and how to apologize
-  - What to write after you apologize
-  - Avoid insincere wording
-  - When to empathize
-  - Challenge: Write an apology email
-  - Solution: Write an apology email
+  - [When and how to apologize](#when-and-how-to-apologize)
+  - [What to write after you apologize](#what-to-write-after-you-apologize)
+  - [Avoid insincere wording](#avoid-insincere-wording)
+  - [When to empathize](#when-to-empathize)
+  - [Challenge: Write an apology email](#challenge-write-an-apology-email)
+  - [Solution: Write an apology email](#solution-write-an-apology-email)
 - [**5. Customize Templates to Avoid Sounding Robotic**](#5-customize-templates-to-avoid-sounding-robotic) (5 videos)
-  - Use the template as a starting point
-  - Make templates customizable
-  - Build rapport
-  - Challenge: Use a template to write a customized reply
-  - Solution: Use a template to write a customized reply
+  - [Use the template as a starting point](#use-the-template-as-a-starting-point)
+  - [Make templates customizable](#make-templates-customizable)
+  - [Build rapport](#build-rapport)
+  - [Challenge: Use a template to write a customized reply](#challenge-use-a-template-to-write-a-customized-reply)
+  - [Solution: Use a template to write a customized reply](#solution-use-a-template-to-write-a-customized-reply)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue to sharpen customer service email skills
+  - [Continue to sharpen customer service email skills](#continue-to-sharpen-customer-service-email-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Customer service email is not dead
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/customer-service-email-is-not-dead?u=76281980)
@@ -105,13 +105,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** express (1)
 > **Speakers:** - contrary (1)
 
 
 ### 1. Answer the Customer's Question
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Read emails analytically
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/read-emails-analytically?u=76281980)
@@ -183,7 +183,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), for. (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -268,8 +267,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Versions:** version 6 (3), version 7 (2), 7.1 (2), 6.1 (2)
-> **Code Keywords:** case, (2), let (1), type. (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -361,7 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Agile Development|Agile]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - all (1)
@@ -445,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include, (1), type, (1), continue (1)
+> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -513,7 +512,7 @@ created: 2026-04-29
 
 ### 2. Show Customers You've Read Their Email
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explain your process to the customer
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/explain-your-process-to-the-customer?u=76281980)
@@ -582,7 +581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (4), business (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -656,6 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** best practice (2)
 > **Exercise Files:** download the (1)
@@ -761,7 +761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), case, (1), let (1)
+> **Frameworks & Libraries:** express (3), [[Microsoft Products|Products]] (1), [[Hardware]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -788,6 +788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (bright, upbeat music) (1)
@@ -821,13 +822,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - so (1)
 > **Non-Speech:** (upbeat lively music) (1)
 
 
 ### 3. Use an Engaging Tone with Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use personal pronouns
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980)
@@ -924,7 +926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Product Development]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** abc (3)
 > **UI Navigation:** open the (2)
 > **CLI Commands:** make (1)
@@ -1032,8 +1034,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), business (1)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** this. (1), let (1)
 > **Versions:** version 9 (2)
 > **Env Vars:** abc (1)
 > **Definitions:** is a  (1)
@@ -1043,7 +1045,7 @@ created: 2026-04-29
 
 ### 4. If You Must Apologize, Be Sincere
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When and how to apologize
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/when-and-how-to-apologize?u=76281980)
@@ -1126,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** game (2), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
@@ -1180,7 +1182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** application (1), product (1)
 > **Env Vars:** sms (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
@@ -1266,7 +1268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - remember (1)
@@ -1366,7 +1368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), finally, (1)
+> **Frameworks & Libraries:** product (2), next (1)
 > **CLI Commands:** find (1)
 > **Versions:** 3.99 (1)
 > **Exercise Files:** download the (1)
@@ -1399,6 +1401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1436,14 +1439,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - so (1)
 > **Non-Speech:** (upbeat lively music) (1)
 
 
 ### 5. Customize Templates to Avoid Sounding Robotic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the template as a starting point
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-the-template-as-a-starting-point?u=76281980)
@@ -1528,9 +1531,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), next (1), generic (1)
 > **Exercise Files:** template (13)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), for. (1)
 > **Best Practices:** best practice (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - you (1)
@@ -1610,8 +1613,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), database (1)
 > **Exercise Files:** template (8), boilerplate (1)
-> **Code Keywords:** delete (4), let (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (2)
 > **URLs:** [homeappliance.com](https://homeappliance.com) (1)
@@ -1672,7 +1675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Banking]] (1), business (1)
 > **Definitions:** means that (1), is a  (1)
 > **URLs:** [globebank.com](https://globebank.com) (1)
 > **Exercise Files:** template (1)
@@ -1701,6 +1704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Exercise Files:** template (3), download the (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1744,8 +1748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **Exercise Files:** template (7)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - how (1)
@@ -1754,7 +1758,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue to sharpen customer service email skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/continue-to-sharpen-customer-service-email-skills?u=76281980)
@@ -1805,7 +1809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), next (1), [[Microsoft Office|Office]] (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is called (1)
 > **Speakers:** - congratulations (1)

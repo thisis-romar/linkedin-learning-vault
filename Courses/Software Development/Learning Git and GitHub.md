@@ -45,7 +45,7 @@ tags:
   - skill/git
   - skill/github
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Git%20and%20GitHub.md)
@@ -64,50 +64,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Travel the multiverse with Git and GitHub
-  - Exercise files
+  - [Travel the multiverse with Git and GitHub](#travel-the-multiverse-with-git-and-github)
+  - [Exercise files](#exercise-files)
 - [**1. Working with Git**](#1-working-with-git) (11 videos)
-  - Understanding version control
-  - What is Git?
-  - Setting up Git
-  - Understanding Git environments
-  - Ignoring files
-  - Deleting and renaming files
-  - Differences
-  - Changing history
-  - Branches
-  - Merge conflicts
-  - Git stash and clean
+  - [Understanding version control](#understanding-version-control)
+  - [What is Git?](#what-is-git)
+  - [Setting up Git](#setting-up-git)
+  - [Understanding Git environments](#understanding-git-environments)
+  - [Ignoring files](#ignoring-files)
+  - [Deleting and renaming files](#deleting-and-renaming-files)
+  - [Differences](#differences)
+  - [Changing history](#changing-history)
+  - [Branches](#branches)
+  - [Merge conflicts](#merge-conflicts)
+  - [Git stash and clean](#git-stash-and-clean)
 - [**2. Working with GitHub**](#2-working-with-github) (7 videos)
-  - What is GitHub?
-  - Pushing to GitHub
-  - GitHub options
-  - Understanding GitHub flow
-  - Learning Markdown
-  - GitHub Markdown additions
-  - Repo essential files
+  - [What is GitHub?](#what-is-github)
+  - [Pushing to GitHub](#pushing-to-github)
+  - [GitHub options](#github-options)
+  - [Understanding GitHub flow](#understanding-github-flow)
+  - [Learning Markdown](#learning-markdown)
+  - [GitHub Markdown additions](#github-markdown-additions)
+  - [Repo essential files](#repo-essential-files)
 - [**3. GitHub Repos and Projects**](#3-github-repos-and-projects) (9 videos)
-  - Issues
-  - Pull requests
-  - Pull request features
-  - Finishing your code review
-  - Using a CODEOWNERS file
-  - Organizing projects
-  - Syncing GitHub
-  - Repository insights
-  - GitHub shortcut features
+  - [Issues](#issues)
+  - [Pull requests](#pull-requests)
+  - [Pull request features](#pull-request-features)
+  - [Finishing your code review](#finishing-your-code-review)
+  - [Using a CODEOWNERS file](#using-a-codeowners-file)
+  - [Organizing projects](#organizing-projects)
+  - [Syncing GitHub](#syncing-github)
+  - [Repository insights](#repository-insights)
+  - [GitHub shortcut features](#github-shortcut-features)
 - [**4. GitHub Social and Publishing**](#4-github-social-and-publishing) (5 videos)
-  - GitHub discussions
-  - GitHub notifications
-  - GitHub gists
-  - GitHub wikis
-  - GitHub pages
+  - [GitHub discussions](#github-discussions)
+  - [GitHub notifications](#github-notifications)
+  - [GitHub gists](#github-gists)
+  - [GitHub wikis](#github-wikis)
+  - [GitHub pages](#github-pages)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Travel the multiverse with Git and GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980)
@@ -126,8 +126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (1), cloud (1), [[GitHub]] (1)
 > **CLI Commands:** git (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** git (1)
 > **Tools:** github (1)
 > **Speakers:** - i (1)
@@ -156,7 +156,7 @@ created: 2026-04-29
 
 ### 1. Working with Git
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-version-control?u=76281980)
@@ -203,9 +203,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (6), [[Git]] (1)
 > **CLI Commands:** make (3), git (1), apache (1)
 > **Definitions:** is called (2), means that (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** svn (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -269,9 +269,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (9), [[Windows]] (4), application (2), [[Linux]] (2), web (2)
 > **CLI Commands:** git (9), make (1), find (1), ls (1), node (1)
 > **Tools:** terminal (4), github (1), visual studio (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** url (1), dir (1)
 > **Definitions:** is a  (1), is called (1)
 > **Prerequisites:** install (2)
@@ -399,9 +399,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (23), [[GitHub]] (4), next (3), [[Linux]] (2), cd (2)
 > **CLI Commands:** git (23), make (4), ls (2), cd (2), find (1)
 > **Tools:** terminal (5), github (4), bash (2), visual studio (2)
-> **Code Keywords:** let (6), switch (2), this. (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Definitions:** means that (1), is a  (1)
@@ -571,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (23), next (5)
 > **CLI Commands:** git (23), make (3)
-> **Code Keywords:** let (13), this. (2), delete (2), default, (1), else. (1)
 > **Definitions:** is a  (2), is called (2), means that (1), is an  (1)
 > **File Paths:** readme.md (1), notes.md (1)
 > **Tools:** terminal (2)
@@ -653,6 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), [[Tokens]] (2), api (2), [[GitHub]] (1), [[npm]] (1)
 > **CLI Commands:** git (7), npm (1), rm (1), make (1)
 > **Code Identifiers:** macos (2), node_modules (1)
 > **Env Vars:** api (2), npm (1)
@@ -660,7 +661,6 @@ created: 2026-04-29
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **Analogies:** for example (3)
 > **File Paths:** authentication.js (1), project-todo.md (1)
-> **Code Keywords:** let (1), delete (1)
 
 #### Deleting and renaming files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980)
@@ -811,8 +811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (26), [[HTML]] (10), [[Linux]] (2), hit (1)
 > **CLI Commands:** git (26), mv (6), make (2), rm (1)
-> **Code Keywords:** let (11), delete (9), function (2), this. (1), else. (1)
 > **File Paths:** home.html (2), index.html (2)
 > **Tools:** visual studio (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -911,8 +911,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (10), [[HTML]] (1), hit (1)
 > **CLI Commands:** git (10)
-> **Code Keywords:** let (8), delete (1), interface (1)
 > **Tools:** visual studio (2), terminal (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1249,7 +1249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), delete (4), this, (4), this. (2), finally, (1)
+> **Frameworks & Libraries:** [[Git]] (20), [[HTML]] (1), application (1), feature (1), hit (1)
 > **CLI Commands:** git (20), make (10)
 > **Cross-References:** go back to (2), in the last (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1395,7 +1395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), switch (6), delete (5), class, (2), class. (2)
+> **Frameworks & Libraries:** [[Git]] (21), feature (2), [[Search]] (1), hit (1)
 > **CLI Commands:** git (21), make (4), find (1)
 > **Definitions:** is called (1), is a  (1)
 > **Tools:** visual studio (1)
@@ -1642,7 +1642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), switch (4), this. (4), this, (3), class, (3)
+> **Frameworks & Libraries:** [[Git]] (13), [[HTML]] (6), feature (3), hit (2), [[Search]] (1)
 > **CLI Commands:** git (13), make (10)
 > **UI Navigation:** go to (2), switch to (2), open the (1)
 > **Code Identifiers:** oneline (2), online (1), fixheadline (1)
@@ -1848,8 +1848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (36), hit (4), [[GitHub]] (2), [[Search]] (1)
 > **CLI Commands:** git (36), make (1)
-> **Code Keywords:** let (20), super (2), else. (1), continue (1), class, (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **Tools:** github (2)
 > **UI Navigation:** go to (2)
@@ -1859,7 +1859,7 @@ created: 2026-04-29
 
 ### 2. Working with GitHub
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980)
@@ -1984,8 +1984,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (14), cloud (3), next (3), [[Git]] (2), management (1)
 > **Tools:** github (14)
-> **Code Keywords:** private (3), let (2), this. (2), this, (1), finally, (1)
 > **Prerequisites:** you'll need (4), set up (2), setup (1)
 > **Definitions:** is a  (2), is an  (1), known as (1), means that (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -2136,10 +2136,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (17), [[Git]] (17), next (2)
 > **CLI Commands:** git (17), make (1)
 > **Tools:** github (17)
 > **Env Vars:** url (10), readme (2)
-> **Code Keywords:** let (5), pass (1), else, (1), self (1), this. (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **Documentation:** the readme (2)
 > **Definitions:** means that (1), is an  (1)
@@ -2410,8 +2410,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (20), [[Search]] (4), [[Codespaces]] (4), [[Microsoft Copilot|Copilot]] (3), [[Security]] (3)
 > **Tools:** github (21), terminal (2), command line (1), visual studio (1)
-> **Code Keywords:** let (7), delete (4), this, (3), finally, (3), interface (1)
 > **UI Navigation:** click on (6), go to (5), dropdown (2), drag and drop (1), in the menu (1)
 > **CLI Commands:** make (7), find (3), git (1), ssh (1)
 > **Env Vars:** readme (3), url (2), mit (2), zip (1), htps (1)
@@ -2522,7 +2522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2), continue (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** feature (8), [[GitHub]] (6), hit (6), [[Git]] (1)
 > **Tools:** github (6)
 > **CLI Commands:** make (3), git (1)
 > **Definitions:** is a  (2)
@@ -2780,7 +2780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (4), this, (2), switch (1), delete (1)
+> **Frameworks & Libraries:** hit (11), [[Microsoft Word|Word]] (6), [[GitHub]] (3), [[LinkedIn]] (3), [[HTML]] (2)
 > **Env Vars:** url (6), html (2), https (2), http (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -2944,7 +2944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (4), super (1), interface (1)
+> **Frameworks & Libraries:** hit (9), [[GitHub]] (8), [[HTML]] (2), [[JavaScript]] (1)
 > **Tools:** github (8)
 > **Definitions:** is a  (4), known as (2), refers to (1)
 > **UI Navigation:** drag and drop (3), click on (2), go to (1)
@@ -3096,8 +3096,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[GitHub]] (5), [[JavaScript]] (3), hit (1), [[Automation]] (1)
 > **Documentation:** the readme (7), the docs (3)
-> **Code Keywords:** let (2), this, (2), public (1), else. (1), super (1)
 > **CLI Commands:** find (3), make (3)
 > **UI Navigation:** go to (4), click on (1), dropdown (1)
 > **Tools:** github (5)
@@ -3108,7 +3108,7 @@ created: 2026-04-29
 
 ### 3. GitHub Repos and Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980)
@@ -3257,7 +3257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (1), this. (1), if, (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), feature (3), hit (3), [[Forms]] (1), next (1)
 > **Tools:** github (6)
 > **UI Navigation:** go to (2), click on (2)
 > **Analogies:** for example (2), similar to (1)
@@ -3387,7 +3387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), interface (1), from. (1), continue (1)
+> **Frameworks & Libraries:** hit (6), [[GitHub]] (4), [[HTML]] (2), management (2), [[Git]] (1)
 > **CLI Commands:** make (4), git (1)
 > **Tools:** github (4)
 > **UI Navigation:** click on (2), go to (1)
@@ -3569,7 +3569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (3), this, (3), this. (2), while. (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Security]] (2), hit (2), [[Git]] (1), [[HTML]] (1)
 > **Definitions:** is a  (5), means that (1), is an  (1)
 > **CLI Commands:** make (5), git (1)
 > **Tools:** github (3), visual studio (2)
@@ -3653,7 +3653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (3), catch. (1), this. (1)
+> **Frameworks & Libraries:** hit (4)
 > **Code Identifiers:** jquery (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -3777,7 +3777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), public (1), protected (1), require (1)
+> **Frameworks & Libraries:** hit (5), [[Codespaces]] (1), [[GitHub]] (1)
 > **Env Vars:** codeowners (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -4021,7 +4021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (2), switch (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[GitHub]] (9), hit (6), management (4), web (1), [[Microsoft Excel|Excel]] (1)
 > **Tools:** github (9)
 > **UI Navigation:** select the (2), go to (2), click on (2), dropdown (1)
 > **CLI Commands:** find (2), make (2)
@@ -4211,7 +4211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (5), switch (3), this. (2), finally, (1)
+> **Frameworks & Libraries:** [[Git]] (17), [[GitHub]] (15), [[Fetch]] (4), data (2), hit (1)
 > **CLI Commands:** git (17), make (5)
 > **Tools:** github (15), visual studio (4), terminal (2)
 > **UI Navigation:** go to (4), click on (2)
@@ -4373,7 +4373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (3), private (2), while, (1), super (1), self (1)
+> **Frameworks & Libraries:** [[GitHub]] (9), traffic (3), [[JSON]] (1), [[Node.js]] (1), [[HTML]] (1)
 > **Tools:** github (9)
 > **Definitions:** is a  (3), refers to (1)
 > **CLI Commands:** node (1), ruby (1), make (1)
@@ -4511,7 +4511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), else, (1), for, (1), for. (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), hit (6), [[Search]] (4), [[Codespaces]] (2), feature (2)
 > **Tools:** github (7), jupyter (1)
 > **Definitions:** is a  (3), means that (1), known as (1)
 > **URLs:** [github.dev](https://github.dev) (3), [github.com](https://github.com) (1)
@@ -4523,7 +4523,7 @@ created: 2026-04-29
 
 ### 4. GitHub Social and Publishing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub discussions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-discussions?u=76281980)
@@ -4712,7 +4712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), default, (2), new, (2), delete (2), this, (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), feature (4), [[Search]] (4), hit (2), power (1)
 > **Tools:** github (4)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
@@ -4848,8 +4848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (9), [[CLI]] (2), mobile application (1)
 > **Tools:** github (9)
-> **Code Keywords:** interface (3), let (2), finally, (1), default, (1), this, (1)
 > **UI Navigation:** click on (2), dropdown (1)
 > **Env Vars:** cli (2)
 > **CLI Commands:** find (1)
@@ -4981,7 +4981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (3), new, (1), this, (1), delete (1)
+> **Frameworks & Libraries:** [[GitHub]] (10), [[HTML]] (5), feature (1), [[LinkedIn]] (1), css (1)
 > **Tools:** github (10)
 > **Env Vars:** html (3), css (1), zip (1)
 > **UI Navigation:** go to (2), click on (2)
@@ -5101,7 +5101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), super (2), private (1), this, (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), hit (2), [[Search]] (1)
 > **UI Navigation:** click on (2), go to (2), drag and drop (1), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** github (2)
@@ -5181,8 +5181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (12), [[HTML]] (4)
 > **Tools:** github (12)
-> **Code Keywords:** static (3), private (2), default, (1), this, (1), let (1)
 > **URLs:** [raybo.org](https://raybo.org) (6), [github.io](https://github.io) (3)
 > **UI Navigation:** go to (4), click on (1)
 > **Env Vars:** html (2), https (1), url (1)
@@ -5193,7 +5193,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980)
@@ -5212,6 +5212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Git]] (1), [[LinkedIn]] (1), next (1)
 > **Tools:** github (2)
 > **CLI Commands:** git (1)
 > **URLs:** [raybo.org](https://raybo.org) (1)

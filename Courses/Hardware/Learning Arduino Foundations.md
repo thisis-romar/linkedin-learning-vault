@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Arduino%20Foundations.md)
@@ -45,45 +45,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with Arduino
-  - Arduino hardware for this course
+  - [Getting started with Arduino](#getting-started-with-arduino)
+  - [Arduino hardware for this course](#arduino-hardware-for-this-course)
 - [**1. Introduction to Arduino**](#1-introduction-to-arduino) (5 videos)
-  - What is an Arduino?
-  - The Arduino layout
-  - Digital interfaces
-  - Analog interfaces
-  - The power pins
+  - [What is an Arduino?](#what-is-an-arduino)
+  - [The Arduino layout](#the-arduino-layout)
+  - [Digital interfaces](#digital-interfaces)
+  - [Analog interfaces](#analog-interfaces)
+  - [The power pins](#the-power-pins)
 - [**2. Creating an Arduino Program**](#2-creating-an-arduino-program) (8 videos)
-  - Download the Arduino software
-  - A tour of the Arduino IDE
-  - The setup() and loop() functions
-  - pinMode()
-  - digitalWrite()
-  - Creating your first sketch
-  - Serial Monitor
-  - Testing blink LED and Serial Monitor
+  - [Download the Arduino software](#download-the-arduino-software)
+  - [A tour of the Arduino IDE](#a-tour-of-the-arduino-ide)
+  - [The setup() and loop() functions](#the-setup-and-loop-functions)
+  - [pinMode()](#pinmode)
+  - [digitalWrite()](#digitalwrite)
+  - [Creating your first sketch](#creating-your-first-sketch)
+  - [Serial Monitor](#serial-monitor)
+  - [Testing blink LED and Serial Monitor](#testing-blink-led-and-serial-monitor)
 - [**3. Interface with Output (LED)**](#3-interface-with-output-led) (6 videos)
-  - Light-emitting diodes (LEDs)
-  - Deep dive: Calculating a current limiting resistor
-  - Wire an LED to Arduino
-  - Code to blink an LED
-  - Example: Wiring a digital traffic signal
-  - Example: Coding a digital traffic signal
+  - [Light-emitting diodes (LEDs)](#light-emitting-diodes-leds)
+  - [Deep dive: Calculating a current limiting resistor](#deep-dive-calculating-a-current-limiting-resistor)
+  - [Wire an LED to Arduino](#wire-an-led-to-arduino)
+  - [Code to blink an LED](#code-to-blink-an-led)
+  - [Example: Wiring a digital traffic signal](#example-wiring-a-digital-traffic-signal)
+  - [Example: Coding a digital traffic signal](#example-coding-a-digital-traffic-signal)
 - [**4. Interface with Input (Pushbutton)**](#4-interface-with-input-pushbutton) (6 videos)
-  - Pushbutton
-  - Active low, active high
-  - Wire a pushbutton to Arduino
-  - Code for the pushbutton
-  - Activate an LED with a pushbutton
-  - Using the built-in LED with INPUT_PULLUP
+  - [Pushbutton](#pushbutton)
+  - [Active low, active high](#active-low-active-high)
+  - [Wire a pushbutton to Arduino](#wire-a-pushbutton-to-arduino)
+  - [Code for the pushbutton](#code-for-the-pushbutton)
+  - [Activate an LED with a pushbutton](#activate-an-led-with-a-pushbutton)
+  - [Using the built-in LED with INPUT_PULLUP](#using-the-built-in-led-with-input_pullup)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Next steps
-  - Troubleshooting
-  - Troubleshooting: Arduino wiring
+  - [Next steps](#next-steps)
+  - [Troubleshooting](#troubleshooting)
+  - [Troubleshooting: Arduino wiring](#troubleshooting-arduino-wiring)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1)
+> **Frameworks & Libraries:** [[Arduino]] (5), [[Electronics]] (2), [[Programming]] (2), [[Hardware]] (1)
 > **Speakers:** - have (1)
 
 #### Arduino hardware for this course
@@ -136,8 +136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Arduino]] (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -145,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Arduino
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Arduino?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/what-is-an-arduino-14276604?u=76281980)
@@ -178,6 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (15), power (1), [[Programming]] (1)
 > **Definitions:** is called (2), is a  (2), is an  (1)
 > **Env Vars:** ide (2), led (1)
 > **Speakers:** - [instructor] (1)
@@ -245,9 +246,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (14), power (5), [[Debugging]] (3), data (1)
 > **Env Vars:** usb (3), led (2), crl (1), ide (1), avr (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), require (1)
 > **CLI Commands:** find (1)
 > **Versions:** 3.3 (1)
 > **Analogies:** for example (1)
@@ -296,8 +297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (7)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** led (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
@@ -345,8 +346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (10)
 > **Env Vars:** adc (2), dac (2)
-> **Code Keywords:** interface (1), let (1), function (1)
 > **Definitions:** in other words (1), is a  (1), is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -382,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** power (2), [[Arduino]] (2)
 > **Env Vars:** usb (1)
 > **Cross-References:** later in (1)
 > **Documentation:** the documentation (1)
@@ -393,7 +394,7 @@ created: 2026-04-29
 
 ### 2. Creating an Arduino Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Download the Arduino software
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/download-the-arduino-software-14278392?u=76281980)
@@ -414,6 +415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (5)
 > **Env Vars:** ide (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
@@ -502,9 +504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (14), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (5), click on (5), select the (2), open the (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), interface (1), case. (1)
 > **Env Vars:** ide (4)
 > **Definitions:** is an  (1), is a  (1)
 > **Exercise Files:** download the (1)
@@ -546,7 +548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9)
+> **Frameworks & Libraries:** [[Arduino]] (5)
 > **Prerequisites:** setup (5)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
@@ -607,7 +609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), interface (3), let (2), finally, (1)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **Code Identifiers:** pinmode (6)
 > **Env Vars:** ide (1), input (1), input_pullup (1), output (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -651,7 +653,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7)
 > **Code Identifiers:** digitalwrite (6)
 > **Env Vars:** led (2), high (1), low (1)
 > **Speakers:** - all (1)
@@ -711,8 +712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** function (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** led (1)
 > **Best Practices:** recommended (1)
@@ -758,8 +759,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), feature (1), [[Troubleshooting]] (1), [[Forms]] (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** function (2)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)
@@ -819,7 +820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4)
+> **Frameworks & Libraries:** [[Arduino]] (4), next (3)
 > **Prerequisites:** setup (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -828,7 +829,7 @@ created: 2026-04-29
 
 ### 3. Interface with Output (LED)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Light-emitting diodes (LEDs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/light-emitting-diodes-leds?u=76281980)
@@ -881,9 +882,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2), application (1)
 > **Env Vars:** led (9)
 > **Definitions:** is a  (3), means that (1), is called (1)
-> **Code Keywords:** case. (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
@@ -946,10 +947,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Arduino]] (4)
 > **Env Vars:** led (13), high (1)
 > **Versions:** 1.8 (4), 2.2 (1)
 > **UI Navigation:** scroll down (2), go to (1)
-> **Code Keywords:** this. (1), let (1)
 > **CLI Commands:** find (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
@@ -1007,7 +1008,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** make (3)
 > **Env Vars:** led (3)
-> **Code Keywords:** else. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - all (1)
 
@@ -1064,10 +1064,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** led (6)
 > **UI Navigation:** open the (1), scroll down (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - all (1)
 
 #### Example: Wiring a digital traffic signal
@@ -1111,9 +1111,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2), traffic (1)
 > **Env Vars:** led (7)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - all (1)
 
 #### Example: Coding a digital traffic signal
@@ -1215,7 +1215,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), yield (2), finally, (1), case, (1)
 > **Env Vars:** led (8)
 > **Prerequisites:** setup (4)
 > **CLI Commands:** make (3)
@@ -1226,7 +1225,7 @@ created: 2026-04-29
 
 ### 4. Interface with Input (Pushbutton)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pushbutton
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/pushbutton-14277375?u=76281980)
@@ -1269,7 +1268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), pass (1)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
@@ -1342,7 +1341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (10), let (1)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** vcc (2)
 > **Speakers:** - [instructor] (1)
@@ -1372,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), power (1)
 > **Env Vars:** vcc (1)
 > **Speakers:** - all (1)
 
@@ -1445,7 +1444,6 @@ created: 2026-04-29
 >
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1509,7 +1507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), finally, (1), else, (1)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** led (2), output (1), high (1), low (1)
 > **Code Identifiers:** pinmode (1)
 > **Prerequisites:** setup (1)
@@ -1566,7 +1564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), interface (1)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
@@ -1574,7 +1572,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980)
@@ -1595,6 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (8), [[Hardware]] (1), [[LinkedIn]] (1), [[Prototyping]] (1)
 > **Env Vars:** led (1), lcd (1), ldr (1)
 > **Speakers:** - thanks (1)
 
@@ -1631,10 +1630,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (2)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** com (2), usb (1)
-> **Code Keywords:** let (1), this, (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -1680,6 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), power (1)
 > **Env Vars:** led (3), vcc (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)

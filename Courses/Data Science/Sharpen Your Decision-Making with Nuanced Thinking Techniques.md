@@ -30,7 +30,7 @@ tags:
   - skill/decision-making
   - skill/critical-thinking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Sharpen%20Your%20Decision-Making%20with%20Nuanced%20Thinking%20Techniques.md)
@@ -49,27 +49,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why nuanced thinking matters
+  - [Why nuanced thinking matters](#why-nuanced-thinking-matters)
 - [**1. Make Decisions and Solve Problems with Nuanced Thinking**](#1-make-decisions-and-solve-problems-with-nuanced-thinking) (4 videos)
-  - Learn the qualities of nuanced thinking
-  - Learn the qualities of nuanced decision-making
-  - Learn to differentiate problem solving and decision-making
-  - Face the challenges of nuanced decision-making in groups
+  - [Learn the qualities of nuanced thinking](#learn-the-qualities-of-nuanced-thinking)
+  - [Learn the qualities of nuanced decision-making](#learn-the-qualities-of-nuanced-decision-making)
+  - [Learn to differentiate problem solving and decision-making](#learn-to-differentiate-problem-solving-and-decision-making)
+  - [Face the challenges of nuanced decision-making in groups](#face-the-challenges-of-nuanced-decision-making-in-groups)
 - [**2. Overcoming Barriers to Nuanced Thinking**](#2-overcoming-barriers-to-nuanced-thinking) (3 videos)
-  - Address the goodness binary with gray thinking
-  - Address the truth binary with probabilistic thinking
-  - Using probabilistic thinking to make better decisions
+  - [Address the goodness binary with gray thinking](#address-the-goodness-binary-with-gray-thinking)
+  - [Address the truth binary with probabilistic thinking](#address-the-truth-binary-with-probabilistic-thinking)
+  - [Using probabilistic thinking to make better decisions](#using-probabilistic-thinking-to-make-better-decisions)
 - [**3. Overcoming Barriers to Nuanced Decision-Making**](#3-overcoming-barriers-to-nuanced-decision-making) (4 videos)
-  - Recognize how emotions impact decision-making
-  - Recognize hidden Incentives in decision-making
-  - Avoid attachment to a particular option for better outcomes
-  - Alternate divergent and convergent thinking
+  - [Recognize how emotions impact decision-making](#recognize-how-emotions-impact-decision-making)
+  - [Recognize hidden Incentives in decision-making](#recognize-hidden-incentives-in-decision-making)
+  - [Avoid attachment to a particular option for better outcomes](#avoid-attachment-to-a-particular-option-for-better-outcomes)
+  - [Alternate divergent and convergent thinking](#alternate-divergent-and-convergent-thinking)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Apply these techniques to your next decision
+  - [Apply these techniques to your next decision](#apply-these-techniques-to-your-next-decision)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why nuanced thinking matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/why-nuanced-thinking-matters?u=76281980)
@@ -94,7 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), let (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), teams (1)
 > **CLI Commands:** make (1)
 > **URLs:** [clearerthinking.org](https://clearerthinking.org) (1)
 > **Speakers:** - your (1)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Make Decisions and Solve Problems with Nuanced Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the qualities of nuanced thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-thinking?u=76281980)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), product (2), feature (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - have (1)
@@ -273,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (5), next (1), [[Scalability]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** for. (1), let (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** in other words (1), means that (1)
 > **Best Practices:** general rule (1)
@@ -363,6 +363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (14), game (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (3)
 > **Analogies:** for instance (3)
@@ -436,6 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (1), product (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - it (1)
@@ -444,7 +446,7 @@ created: 2026-04-29
 
 ### 2. Overcoming Barriers to Nuanced Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Address the goodness binary with gray thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/address-the-goodness-binary-with-gray-thinking?u=76281980)
@@ -513,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), business (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
@@ -586,6 +588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (6)
 > **Analogies:** for instance (2), such as (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -686,8 +689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Probability]] (1)
 > **Definitions:** is a  (3), means that (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** we talked about (1)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
@@ -697,7 +700,7 @@ created: 2026-04-29
 
 ### 3. Overcoming Barriers to Nuanced Decision-Making
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognize how emotions impact decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-how-emotions-impact-decision-making?u=76281980)
@@ -782,6 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2), for instance (2)
 > **Speakers:** - have (1)
@@ -855,8 +859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), [[Decision-Making]] (1), strengths (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** case, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - a (1)
 
@@ -933,7 +937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), this. (1), if, (1)
+> **Frameworks & Libraries:** strengths (4), product (1), [[Search]] (1), express (1)
 > **Non-Speech:** (gentle music) (2)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - suppose (1)
@@ -1017,7 +1021,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** go back to (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 > **Non-Speech:** (lively music) (1)
@@ -1025,7 +1028,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply these techniques to your next decision
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/apply-these-techniques-to-your-next-decision?u=76281980)
@@ -1056,6 +1059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [clearerthinking.org](https://clearerthinking.org) (1)
 > **UI Navigation:** go to (1)

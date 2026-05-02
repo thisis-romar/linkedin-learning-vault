@@ -32,7 +32,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Python%20Projects-%20Build%20AI%20Applications.md)
@@ -51,48 +51,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Elevate Your Python portfolio with advanced AI applications
-  - What should you know before taking this course
-  - Using GitHub Codespaces with this course
-  - A refresher of object-oriented programming concepts
+  - [Elevate Your Python portfolio with advanced AI applications](#elevate-your-python-portfolio-with-advanced-ai-applications)
+  - [What should you know before taking this course](#what-should-you-know-before-taking-this-course)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
+  - [A refresher of object-oriented programming concepts](#a-refresher-of-object-oriented-programming-concepts)
 - [**1.  NLP: Build a Chatbot with Sentiment Analyzer**](#1-nlp-build-a-chatbot-with-sentiment-analyzer) (5 videos)
-  - Processing user input
-  - Analyzing sentiment
-  - Displaying automated chatbot responses based on sentiment
-  - Tailoring chatbot response based on sentiment score
-  - Intiating the chatbot and printing sentiment-based responses
+  - [Processing user input](#processing-user-input)
+  - [Analyzing sentiment](#analyzing-sentiment)
+  - [Displaying automated chatbot responses based on sentiment](#displaying-automated-chatbot-responses-based-on-sentiment)
+  - [Tailoring chatbot response based on sentiment score](#tailoring-chatbot-response-based-on-sentiment-score)
+  - [Intiating the chatbot and printing sentiment-based responses](#intiating-the-chatbot-and-printing-sentiment-based-responses)
 - [**2. Machine Learning: Using Python to Find Your Next Business Opportunity**](#2-machine-learning-using-python-to-find-your-next-business-opportunity) (6 videos)
-  - Data analytics using pandas, matplotlib, and scikit-learn
-  - Data preprocessing and scaling
-  - Model selection
-  - Hyperparameter tuning
-  - Linear regression, random forest, and gradient boosting
-  - Predicting price based on model evaluation results
+  - [Data analytics using pandas, matplotlib, and scikit-learn](#data-analytics-using-pandas-matplotlib-and-scikit-learn)
+  - [Data preprocessing and scaling](#data-preprocessing-and-scaling)
+  - [Model selection](#model-selection)
+  - [Hyperparameter tuning](#hyperparameter-tuning)
+  - [Linear regression, random forest, and gradient boosting](#linear-regression-random-forest-and-gradient-boosting)
+  - [Predicting price based on model evaluation results](#predicting-price-based-on-model-evaluation-results)
 - [**3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI**](#3-chat-with-your-documents-using-llm-back-end-with-openai-python-aws-and-fastapi) (9 videos)
-  - Setting up MongoDB
-  - Generate chat responses using GPT-3.5 and Langchain
-  - Load conversation history for a given session ID
-  - Create new sessions and add chat history to existing sessions
-  - Setup FastAPI app, CORS, S3 session, and obtain a chat response
-  - Upload files to Amazon S3 storage bucket
-  - Deploy and run the chatbot
-  - Challenge: Complete the backend code for file upload
-  - Solution: Complete the backend code for file upload
+  - [Setting up MongoDB](#setting-up-mongodb)
+  - [Generate chat responses using GPT-3.5 and Langchain](#generate-chat-responses-using-gpt-35-and-langchain)
+  - [Load conversation history for a given session ID](#load-conversation-history-for-a-given-session-id)
+  - [Create new sessions and add chat history to existing sessions](#create-new-sessions-and-add-chat-history-to-existing-sessions)
+  - [Setup FastAPI app, CORS, S3 session, and obtain a chat response](#setup-fastapi-app-cors-s3-session-and-obtain-a-chat-response)
+  - [Upload files to Amazon S3 storage bucket](#upload-files-to-amazon-s3-storage-bucket)
+  - [Deploy and run the chatbot](#deploy-and-run-the-chatbot)
+  - [Challenge: Complete the backend code for file upload](#challenge-complete-the-backend-code-for-file-upload)
+  - [Solution: Complete the backend code for file upload](#solution-complete-the-backend-code-for-file-upload)
 - [**4. Chat with Your Documents Using LLM: Front-end with Streamlit**](#4-chat-with-your-documents-using-llm-front-end-with-streamlit) (8 videos)
-  - Introduction to API communication with Python
-  - File uploads and advanced API interactions
-  - Streamlit app basics and file handling
-  - Uploading files to API endpoints with Streamlit
-  - Building a chat interface with Streamlit
-  - How to run the front end of the chatbot
-  - Challenge: Create a front-end UI for file upload
-  - Solution: Create a front-end UI for file upload
+  - [Introduction to API communication with Python](#introduction-to-api-communication-with-python)
+  - [File uploads and advanced API interactions](#file-uploads-and-advanced-api-interactions)
+  - [Streamlit app basics and file handling](#streamlit-app-basics-and-file-handling)
+  - [Uploading files to API endpoints with Streamlit](#uploading-files-to-api-endpoints-with-streamlit)
+  - [Building a chat interface with Streamlit](#building-a-chat-interface-with-streamlit)
+  - [How to run the front end of the chatbot](#how-to-run-the-front-end-of-the-chatbot)
+  - [Challenge: Create a front-end UI for file upload](#challenge-create-a-front-end-ui-for-file-upload)
+  - [Solution: Create a front-end UI for file upload](#solution-create-a-front-end-ui-for-file-upload)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your next steps
+  - [Your next steps](#your-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elevate Your Python portfolio with advanced AI applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980)
@@ -119,10 +119,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Python (Programming Language)|Python]] (2), nlp (1), [[Feature Engineering]] (1), data (1)
 > **CLI Commands:** python (2), aws (1)
 > **Env Vars:** nlp (1), aws (1), api (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - there (1)
 
 #### What should you know before taking this course
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[GitHub]] (2), [[Codespaces]] (2), [[Python (Programming Language)|Python]] (1), [[Control Flow]] (1)
 > **Tools:** github (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** ide (1)
@@ -222,12 +223,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (8), [[GitHub]] (7), next (2), [[Python (Programming Language)|Python]] (1), cloud (1)
 > **Tools:** github (7), visual studio (2)
 > **CLI Commands:** make (2), python (1)
 > **Exercise Files:** download the (1), zip file (1), source code (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** similar to (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is an  (1)
 
@@ -314,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), self (8), class. (3), function (1)
+> **Frameworks & Libraries:** next (7), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** start_engine (4)
 > **Definitions:** is a  (2)
@@ -325,7 +326,7 @@ created: 2026-04-29
 
 ### 1.  NLP: Build a Chatbot with Sentiment Analyzer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Processing user input
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980)
@@ -398,8 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), return, (2), type
-( (1), module (1), return. (1)
+> **Frameworks & Libraries:** chatbot (6), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** python (1), pip (1), find (1)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **Ports:** :00 (2)
@@ -445,7 +445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), return. (2), let (1), match, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2)
 > **Code Identifiers:** intent_data (2), get_response (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
@@ -498,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (2), type, (1), return. (1)
+> **Frameworks & Libraries:** chatbot (2), next (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -548,7 +548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), while, (1)
+> **Frameworks & Libraries:** chatbot (2), next (1)
 > **Code Identifiers:** user_message (2), get_response (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -593,14 +593,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), return. (1)
+> **Frameworks & Libraries:** product (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Machine Learning: Using Python to Find Your Next Business Opportunity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data analytics using pandas, matplotlib, and scikit-learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980)
@@ -703,7 +703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1)
+> **Frameworks & Libraries:** data (23), next (7), [[Python (Programming Language)|Python]] (3), business (2), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (3), pip (1)
 > **Prerequisites:** install (3), set up (1)
 > **Env Vars:** csv (2)
@@ -865,7 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (6), this. (5), finally, (2), case, (1)
+> **Frameworks & Libraries:** data (33), next (9), feature (4), [[Algorithms]] (2), business (1)
 > **Code Identifiers:** sorted_df (3), cafe_data (2)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** lsd (2)
@@ -947,10 +947,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (5), next (3), [[Decision Trees]] (2), feature (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Hyperparameter tuning
@@ -1024,7 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), include, (1)
+> **Frameworks & Libraries:** [[Search]] (7), next (2), data (1), [[Linear Regression]] (1)
 > **CLI Commands:** find (3)
 > **Code Identifiers:** neg_mean_squared_error (1), grid_search (1), best_estimator (1)
 > **Versions:** 0.01 (1), 0.1 (1), 0.2 (1)
@@ -1133,8 +1133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (7), next (5), data (4)
 > **Versions:** 0.22 (1), 0.235 (1), 0.218 (1), 0.065 (1), 0.066 (1)
-> **Code Keywords:** let (5), this. (1)
 > **Code Identifiers:** model_name (1), mean_absolute_error (1), mean_squared_error (1)
 > **Env Vars:** mae (2)
 > **CLI Commands:** make (1)
@@ -1225,7 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), function (1)
+> **Frameworks & Libraries:** data (9), next (7), [[Linear Regression]] (2)
 > **Prerequisites:** set up (3)
 > **Code Identifiers:** predictions_df (2)
 > **Versions:** 4.785 (1), 4.77 (1)
@@ -1235,7 +1235,7 @@ created: 2026-04-29
 
 ### 3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980)
@@ -1320,10 +1320,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (10), next (6), [[LangChain]] (6), [[Python (Programming Language)|Python]] (4), aws (4)
 > **CLI Commands:** python (4), aws (4), pip (1), make (1)
 > **Env Vars:** aws (4), url (2), pdf (1), json (1), cors (1)
 > **Prerequisites:** install (4), set up (4)
-> **Code Keywords:** let (4), module (1), this, (1)
 > **Code Identifiers:** chat_with_doc (1), session_id (1)
 > **Definitions:** is a  (2)
 > **File Paths:** requirements.txt (1)
@@ -1384,7 +1384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), class. (1), from. (1), type, (1), let (1)
+> **Frameworks & Libraries:** data (6), ai (3), database (3), [[Tokens]] (3), next (2)
 > **Env Vars:** gpt (3), pdf (2)
 > **Versions:** 3.5 (2)
 > **Prerequisites:** set up (1)
@@ -1415,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), pass (1), let (1), extends (1), finally, (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), data (2), [[Python (Programming Language)|Python]] (1), next (1), ai (1)
 > **CLI Commands:** python (1), find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1444,7 +1444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), module (1)
+> **Frameworks & Libraries:** next (2), [[MongoDB]] (2), data (1)
 > **Code Identifiers:** get_session (1), find_one (1)
 > **Env Vars:** uuid (1)
 > **Speakers:** - [instructor] (1)
@@ -1532,8 +1532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), data (5), [[JSON]] (5), aws (4), application (2)
 > **Env Vars:** json (5), aws (4), http (3), cors (1)
-> **Code Keywords:** function (5), let (1)
 > **Code Identifiers:** session_id (3), create_chat_message (1), get_session (1)
 > **CLI Commands:** aws (4)
 > **Definitions:** is called (2), is an  (1)
@@ -1598,7 +1598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), type. (1), require (1), finally, (1)
+> **Frameworks & Libraries:** application (6), next (3), [[JSON]] (3), aws (1)
 > **Env Vars:** json (3), http (2), aws (1)
 > **Code Identifiers:** uploadfile (2)
 > **CLI Commands:** aws (1)
@@ -1708,8 +1708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), ai (3), next (2), [[Microsoft Office|Office]] (2), data (1)
 > **UI Navigation:** go to (4), click on (4), navigate to (1), scroll down (1)
-> **Code Keywords:** let (7), interface (1)
 > **Ports:** :00 (4), port 8000 (1)
 > **Env Vars:** url (2)
 > **Tools:** terminal (1)
@@ -1756,10 +1756,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), [[MongoDB]] (3), next (2), [[Metadata]] (2), database (1)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (4)
 > **Prerequisites:** set up (1), install (1), configure (1)
-> **Code Keywords:** try, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [person] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -1933,8 +1933,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), next (7), [[MongoDB]] (6), [[JSON]] (4), database (3)
 > **Env Vars:** aws (13), json (4), http (3), url (3), api (1)
-> **Code Keywords:** let (10), function (3), raise (3), await (1), pass (1)
 > **CLI Commands:** aws (13), python (1)
 > **Code Identifiers:** file_name (4), out_file (2), uploadfile (1), data_file (1), local_file (1)
 > **UI Navigation:** click on (3), select the (2), open the (1), go to (1)
@@ -1945,7 +1945,7 @@ created: 2026-04-29
 
 ### 4. Chat with Your Documents Using LLM: Front-end with Streamlit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to API communication with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980)
@@ -2032,8 +2032,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), [[JSON]] (7), next (3), [[Debugging]] (3), application (2)
 > **Env Vars:** api (8), json (7), url (4), http (2), pdf (1)
-> **Code Keywords:** let (3), this, (1), delete (1), module (1), function (1)
 > **Code Identifiers:** session_id (3), user_input (1), data_source (1)
 > **CLI Commands:** make (3), pip (1)
 > **Cross-References:** previous chapter (1), in the last (1), go back to (1)
@@ -2078,8 +2078,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (4), next (4), api (3), [[JSON]] (2), data (1)
 > **Env Vars:** api (3), http (3), url (2), json (2), backend_url (1)
-> **Code Keywords:** function (2), module (2), let (1), case, (1), type. (1)
 > **Code Identifiers:** upload_file (2), file_path (1), uploadfile (1), data_file (1)
 > **CLI Commands:** make (1)
 > **API Endpoints:** post  (1)
@@ -2148,8 +2148,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), next (4), [[Python (Programming Language)|Python]] (4), data (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** interface (2), module (1), function (1)
 > **Code Identifiers:** session_state (2), file_uploader (1)
 > **Analogies:** imagine (1), just like (1), it's like (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2189,7 +2189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), function (1)
+> **Frameworks & Libraries:** api (2)
 > **Code Identifiers:** data_file (1), upload_file (1), chat_message (1)
 > **Env Vars:** api (2), url (1)
 > **Speakers:** - [instructor] (1)
@@ -2247,7 +2247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), continue (1), this. (1)
+> **Frameworks & Libraries:** prompt (2), next (2), application (2), data (1)
 > **Code Identifiers:** chat_message (1), message_placeholder (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2328,7 +2328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), this. (1), private (1), public (1)
+> **Frameworks & Libraries:** next (2), application (2), cd (1), business (1), hr (1)
 > **CLI Commands:** make (3), cd (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2376,7 +2376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** aws (1), next (1)
 > **Env Vars:** aws (1), url (1)
 > **Prerequisites:** set up (1), configure (1)
 > **File Paths:** ch_4a_challenge.py (1)
@@ -2530,7 +2530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), interface (1), finally, (1)
+> **Frameworks & Libraries:** web (2), next (2), [[JSON]] (2), [[Python (Programming Language)|Python]] (1), aws (1)
 > **Env Vars:** pdf (4), url (3), http (1), post (1), aws (1)
 > **Code Identifiers:** uploaded_file (2), data_file (1), status_code (1), set_page_config (1), page_title (1)
 > **CLI Commands:** python (1), aws (1)
@@ -2542,7 +2542,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980)
@@ -2573,9 +2573,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), ai (3), data (2), aws (2), [[Analytics]] (1)
 > **CLI Commands:** python (3), aws (2)
 > **Env Vars:** aws (2), cors (1), api (1)
-> **Code Keywords:** interface (1), continue (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - congratulations (1)
 

@@ -29,7 +29,7 @@ tags:
   - skill/tech-career-skills
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Future%20Proofing%20Your%20Data%20Science%20Career.md)
@@ -48,53 +48,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Data science is disrupting every business
-  - The new workplace
+  - [Data science is disrupting every business](#data-science-is-disrupting-every-business)
+  - [The new workplace](#the-new-workplace)
 - [**1. Socio-Historical Perspective**](#1-socio-historical-perspective) (2 videos)
-  - A brief history of machines helping humans
-  - Data throughout history
+  - [A brief history of machines helping humans](#a-brief-history-of-machines-helping-humans)
+  - [Data throughout history](#data-throughout-history)
 - [**2. The Data Science Workplace**](#2-the-data-science-workplace) (3 videos)
-  - Data science drives Wall Street and Main Street
-  - Where is all the data coming from?
-  - Businesses of the future
+  - [Data science drives Wall Street and Main Street](#data-science-drives-wall-street-and-main-street)
+  - [Where is all the data coming from?](#where-is-all-the-data-coming-from)
+  - [Businesses of the future](#businesses-of-the-future)
 - [**3. Future Career Toolkit**](#3-future-career-toolkit) (2 videos)
-  - Managing the emerging data science job market
-  - Three tools to navigate your career(s)
+  - [Managing the emerging data science job market](#managing-the-emerging-data-science-job-market)
+  - [Three tools to navigate your career(s)](#three-tools-to-navigate-your-careers)
 - [**4. Finding Your VOICE**](#4-finding-your-voice) (7 videos)
-  - What is your VOICE?
-  - The importance of brand
-  - Your personal brand
-  - Identify your interests
-  - Identify your triggers
-  - Building your VOICE table
-  - That is what I can do, that nobody else can do
+  - [What is your VOICE?](#what-is-your-voice)
+  - [The importance of brand](#the-importance-of-brand)
+  - [Your personal brand](#your-personal-brand)
+  - [Identify your interests](#identify-your-interests)
+  - [Identify your triggers](#identify-your-triggers)
+  - [Building your VOICE table](#building-your-voice-table)
+  - [That is what I can do, that nobody else can do](#that-is-what-i-can-do-that-nobody-else-can-do)
 - [**5. Developing Your ANTENNA**](#5-developing-your-antenna) (6 videos)
-  - ANTENNA overview
-  - Where are the conversations happening?
-  - Building the new career grid
-  - Start developing your ANTENNA
-  - Keep a journal
-  - How ANTENNA helped me
+  - [ANTENNA overview](#antenna-overview)
+  - [Where are the conversations happening?](#where-are-the-conversations-happening)
+  - [Building the new career grid](#building-the-new-career-grid)
+  - [Start developing your ANTENNA](#start-developing-your-antenna)
+  - [Keep a journal](#keep-a-journal)
+  - [How ANTENNA helped me](#how-antenna-helped-me)
 - [**6. Connecting via Your MESH**](#6-connecting-via-your-mesh) (11 videos)
-  - It is not what you know, but who you know
-  - The office of the future
-  - Cast a wide net
-  - Following thought leaders and leading-edge groups
-  - Start building your MESH on LinkedIn
-  - Connect with people on LinkedIn
-  - Connect with groups on LinkedIn
-  - In-person interactions
-  - Keeping track of your connections with a CRM
-  - Connecting is an equal exchange
-  - How to start building your MESH by cold-calling
+  - [It is not what you know, but who you know](#it-is-not-what-you-know-but-who-you-know)
+  - [The office of the future](#the-office-of-the-future)
+  - [Cast a wide net](#cast-a-wide-net)
+  - [Following thought leaders and leading-edge groups](#following-thought-leaders-and-leading-edge-groups)
+  - [Start building your MESH on LinkedIn](#start-building-your-mesh-on-linkedin)
+  - [Connect with people on LinkedIn](#connect-with-people-on-linkedin)
+  - [Connect with groups on LinkedIn](#connect-with-groups-on-linkedin)
+  - [In-person interactions](#in-person-interactions)
+  - [Keeping track of your connections with a CRM](#keeping-track-of-your-connections-with-a-crm)
+  - [Connecting is an equal exchange](#connecting-is-an-equal-exchange)
+  - [How to start building your MESH by cold-calling](#how-to-start-building-your-mesh-by-cold-calling)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Prepare for future data-science careers
-  - It's not about the tools
-  - Next steps
+  - [Prepare for future data-science careers](#prepare-for-future-data-science-careers)
+  - [It's not about the tools](#its-not-about-the-tools)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science is disrupting every business
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-is-disrupting-every-business?u=76281980)
@@ -131,8 +131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), career (6), business (1)
 > **Non-Speech:** (upbeat music) (5)
-> **Code Keywords:** let (1)
 > **Env Vars:** ibm (1)
 > **Speakers:** - to (1)
 
@@ -179,16 +179,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (2), [[Statistics]] (1), next (1), career (1)
 > **Env Vars:** mit (1), cio (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** case, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - research (1)
 
 
 ### 1. Socio-Historical Perspective
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A brief history of machines helping humans
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/a-brief-history-of-machines-helping-humans?u=76281980)
@@ -223,7 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1)
+> **Frameworks & Libraries:** business (1), ai (1)
 > **Speakers:** - technology (1)
 
 #### Data throughout history
@@ -285,6 +285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), application (2), business (2)
 > **File Paths:** b.c (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** arpanet (1)
@@ -295,7 +296,7 @@ created: 2026-04-29
 
 ### 2. The Data Science Workplace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science drives Wall Street and Main Street
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980)
@@ -334,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), business (2), cloud (1), [[Big Data]] (1), ai (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Definitions:** means that (1)
 > **Speakers:** - data (1)
 
@@ -378,7 +379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), yield (1)
+> **Frameworks & Libraries:** data (8), business (1), [[Internet of Things (IoT)|Internet of things]] (1), [[IoT]] (1), [[Forecasting]] (1)
 > **Env Vars:** ibm (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - numerous (1)
@@ -414,13 +415,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (1)
 > **Env Vars:** nasa (3)
 > **Speakers:** - as (1)
 
 
 ### 3. Future Career Toolkit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing the emerging data science job market
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/managing-the-emerging-data-science-job-market?u=76281980)
@@ -453,7 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** data (4), career (2), business (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - since (1)
@@ -493,14 +495,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (7), data (6), next (4), [[Mesh]] (3), strengths (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - the (1)
 
 
 ### 4. Finding Your VOICE
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is your VOICE?
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/what-is-your-voice?u=76281980)
@@ -531,8 +533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), career (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** raise (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - i (1)
@@ -572,7 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** data (3), career (2), [[Personal Branding]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - this (1)
 
 #### Your personal brand
@@ -598,6 +600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - here (1)
@@ -633,6 +636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), career (1), game (1)
 > **Definitions:** defined as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
@@ -666,6 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), next (1), data (1), career (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -707,7 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), include, (1)
+> **Frameworks & Libraries:** data (4), career (2), next (2), business (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
@@ -751,7 +756,7 @@ created: 2026-04-29
 
 ### 5. Developing Your ANTENNA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ANTENNA overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/antenna-overview?u=76281980)
@@ -792,8 +797,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), career (4), next (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - based (1)
 
@@ -842,9 +847,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), career (3), business (2), [[Microsoft Products|Products]] (1), [[Engineering]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** mit (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -897,7 +902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -936,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), super (1)
+> **Frameworks & Libraries:** data (3), next (2), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -972,6 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (1), career (1), [[Mesh]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** mesh (1)
 > **Warnings:** keep in mind (1)
@@ -1022,16 +1028,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), career (1), [[HTML]] (1)
 > **Env Vars:** ibm (2), html (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - i (1)
 
 
 ### 6. Connecting via Your MESH
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### It is not what you know, but who you know
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980)
@@ -1086,7 +1092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** data (7), [[Mesh]] (4), career (3), business (1), next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - there (1)
 
@@ -1123,6 +1129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), next (2), business (2), [[Microsoft Office|Office]] (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mit (1)
 > **UI Navigation:** go to (1)
@@ -1174,6 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Mesh]] (3), career (2), next (1), game (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - working (1)
@@ -1221,6 +1229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Mesh]] (3), business (1), [[LinkedIn]] (1), career (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
@@ -1257,6 +1266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (3), [[LinkedIn]] (3), data (3), business (1), [[GitHub]] (1)
 > **Tools:** github (1)
 > **Speakers:** - even (1)
 
@@ -1317,8 +1327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (2), [[LinkedIn]] (2), [[Search]] (2), data (1), career (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** remember to (1)
 > **Speakers:** - here (1)
@@ -1370,7 +1380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** [[Mesh]] (2), [[Search]] (2), [[LinkedIn]] (2), power (1), business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - for (1)
@@ -1406,8 +1416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[Forms]] (1), [[Google]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** super (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - even (1)
 
@@ -1432,6 +1442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), cloud (1), management (1), [[Mesh]] (1), next (1)
 > **Env Vars:** crm (2)
 > **Speakers:** - as (1)
 
@@ -1464,6 +1475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Mesh]] (3), career (3), next (2), game (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1517,6 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[LinkedIn]] (1), [[Mesh]] (1)
 > **CLI Commands:** composer (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - so (1)
@@ -1524,7 +1537,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare for future data-science careers
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/prepare-for-future-data-science-careers?u=76281980)
@@ -1571,8 +1584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - now (1)
 
 #### It's not about the tools
@@ -1610,7 +1623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** data (4), [[Programming]] (1), next (1), career (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** cobol (1)
 > **Speakers:** - i (1)
@@ -1646,8 +1659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[LinkedIn]] (1), career (1), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **URLs:** [improvisingcareers.com](https://improvisingcareers.com) (1)
 > **Speakers:** - as (1)
 

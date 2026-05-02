@@ -36,7 +36,7 @@ tags:
   - skill/database-design
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Practical%20Database%20Design-%20Implementing%20Responsible%20Data%20Solutions%20with%20SQL%20Querying.md)
@@ -55,49 +55,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Designing and implementing a data model
-  - What you should know
+  - [Designing and implementing a data model](#designing-and-implementing-a-data-model)
+  - [What you should know](#what-you-should-know)
 - [**1. Business Rule Development**](#1-business-rule-development) (7 videos)
-  - How databases help businesses
-  - The DIKW Model
-  - What's a business rule?
-  - A business rule vs. a business operation
-  - A business rule vs. a business practice
-  - A business rule vs. a business policy
-  - Example business rules
+  - [How databases help businesses](#how-databases-help-businesses)
+  - [The DIKW Model](#the-dikw-model)
+  - [What's a business rule?](#whats-a-business-rule)
+  - [A business rule vs. a business operation](#a-business-rule-vs-a-business-operation)
+  - [A business rule vs. a business practice](#a-business-rule-vs-a-business-practice)
+  - [A business rule vs. a business policy](#a-business-rule-vs-a-business-policy)
+  - [Example business rules](#example-business-rules)
 - [**2. Database Design**](#2-database-design) (6 videos)
-  - Entities and relationships
-  - Cardinalities
-  - Scoping the database requirements
-  - Analyzing the overall data requirements
-  - Connecting entities, relationships, and business rules
-  - Identifying data integrity requirements
+  - [Entities and relationships](#entities-and-relationships)
+  - [Cardinalities](#cardinalities)
+  - [Scoping the database requirements](#scoping-the-database-requirements)
+  - [Analyzing the overall data requirements](#analyzing-the-overall-data-requirements)
+  - [Connecting entities, relationships, and business rules](#connecting-entities-relationships-and-business-rules)
+  - [Identifying data integrity requirements](#identifying-data-integrity-requirements)
 - [**3. Data Generation and Datasets**](#3-data-generation-and-datasets) (4 videos)
-  - The data you're given: Now what?
-  - Asking questions of the data
-  - The data you're creating: Pros and cons
-  - Asking questions of your made-up data
+  - [The data you're given: Now what?](#the-data-youre-given-now-what)
+  - [Asking questions of the data](#asking-questions-of-the-data)
+  - [The data you're creating: Pros and cons](#the-data-youre-creating-pros-and-cons)
+  - [Asking questions of your made-up data](#asking-questions-of-your-made-up-data)
 - [**4. Database Implementation**](#4-database-implementation) (5 videos)
-  - Overview of MySQL Workbench
-  - Creating entities in MySQL Workbench
-  - Creating relationships in MySQL Workbench
-  - Confirming identifying and non-identifying relationships
-  - Creating the database schema
+  - [Overview of MySQL Workbench](#overview-of-mysql-workbench)
+  - [Creating entities in MySQL Workbench](#creating-entities-in-mysql-workbench)
+  - [Creating relationships in MySQL Workbench](#creating-relationships-in-mysql-workbench)
+  - [Confirming identifying and non-identifying relationships](#confirming-identifying-and-non-identifying-relationships)
+  - [Creating the database schema](#creating-the-database-schema)
 - [**5. SQL Querying**](#5-sql-querying) (5 videos)
-  - Overview of the SELECT statement
-  - Another toy dataset
-  - SELECT-FROM clauses
-  - SELECT-FROM-WHERE clauses
-  - GROUP BY and ORDER BY clauses
+  - [Overview of the SELECT statement](#overview-of-the-select-statement)
+  - [Another toy dataset](#another-toy-dataset)
+  - [SELECT-FROM clauses](#select-from-clauses)
+  - [SELECT-FROM-WHERE clauses](#select-from-where-clauses)
+  - [GROUP BY and ORDER BY clauses](#group-by-and-order-by-clauses)
 - [**6. Final Project**](#6-final-project) (2 videos)
-  - Bringing it all together
-  - Final project: The Brainery
+  - [Bringing it all together](#bringing-it-all-together)
+  - [Final project: The Brainery](#final-project-the-brainery)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing and implementing a data model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (7), [[MySQL]] (1), database (1), business (1), [[SQL]] (1)
 > **CLI Commands:** mysql (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - have (1)
@@ -166,11 +166,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (3), [[MySQL]] (3), database (2), management (1)
 > **Env Vars:** sql (3), fyi (2)
 > **CLI Commands:** mysql (3), make (1)
 > **Versions:** 8.0.31 (2), 8.0.36 (2)
 > **UI Navigation:** go to (1), select the (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Business Rule Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How databases help businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980)
@@ -235,7 +235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), protected (1)
+> **Frameworks & Libraries:** data (31), [[Databases]] (6), database (4), [[Microsoft Products|Products]] (3), business (3)
 > **Env Vars:** ceo (1)
 > **Cross-References:** in the next (1)
 > **Tools:** slack (1)
@@ -311,8 +311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), next (3), business (2), [[Generative AI]] (1), product (1)
 > **Env Vars:** dikw (6), dikm (1), ceo (1)
-> **Code Keywords:** public (2), pass (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -382,7 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), else, (1), if, (1), let (1)
+> **Frameworks & Libraries:** business (23), data (10), product (2), application (1), [[Dashboards]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -444,6 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (14), data (12), leadership (2), [[Forecasting]] (1), [[Supply Chain Management]] (1)
 > **Analogies:** for instance (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
@@ -503,6 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (17), data (10), database (2), management (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** we discussed (1)
@@ -551,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), public (1)
+> **Frameworks & Libraries:** business (17), data (9), management (2), [[Forms]] (1), [[Banking]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [host] (1)
 
@@ -594,7 +596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), this, (1)
+> **Frameworks & Libraries:** business (6), data (3), product (1), next (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
@@ -602,7 +604,7 @@ created: 2026-04-29
 
 ### 2. Database Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Entities and relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980)
@@ -661,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), let (2)
+> **Frameworks & Libraries:** database (5), [[Databases]] (4), business (2), [[SQL]] (1), cloud (1)
 > **Analogies:** for example (2), for instance (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -721,8 +723,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (2), business (1), next (1)
 > **Analogies:** for instance (2), for example (1)
-> **Code Keywords:** require (1), type, (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -774,8 +776,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), data (4), leadership (2), business (2)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (1), for. (1), this, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Analyzing the overall data requirements
@@ -845,10 +847,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), business (5), database (3), [[Software Development]] (2), management (2)
 > **Analogies:** for example (2), for instance (1), picture (1)
 > **CLI Commands:** find (1), make (1)
 > **Documentation:** the documentation (1), specification (1)
-> **Code Keywords:** else, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -934,7 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1)
+> **Frameworks & Libraries:** database (6), business (6), data (1), [[Microsoft Word|Word]] (1), next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1017,7 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1)
+> **Frameworks & Libraries:** database (3), data (3), business (1), management (1)
 > **Env Vars:** dbms (2)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [lecturer] (1)
@@ -1025,7 +1027,7 @@ created: 2026-04-29
 
 ### 3. Data Generation and Datasets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The data you're given: Now what?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980)
@@ -1096,9 +1098,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), database (3), [[Search]] (3), [[Privacy]] (2), [[Sketching]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** zip file (1)
 > **Definitions:** is a  (1)
@@ -1173,9 +1175,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (2), next (2), [[Statistics]] (2), database (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** pass (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1238,7 +1240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include, (3), let (1)
+> **Frameworks & Libraries:** data (22), [[Banking]] (1), [[Financial Data]] (1), ai (1), feature (1)
 > **Speakers:** - [instructor] (1)
 
 #### Asking questions of your made-up data
@@ -1306,13 +1308,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include: (1)
+> **Frameworks & Libraries:** data (13), strengths (1), business (1), open-source (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 4. Database Implementation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of MySQL Workbench
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980)
@@ -1383,13 +1385,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (8), data (7), database (5), [[SQL]] (3), management (1)
 > **CLI Commands:** mysql (8), find (1)
 > **Env Vars:** sql (3), eer (3)
 > **UI Navigation:** click on (3)
 > **Versions:** version 8 (1), 0.32 (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), configure (1)
-> **Code Keywords:** interface (1)
 > **Best Practices:** don't forget (1)
 
 #### Creating entities in MySQL Workbench
@@ -1493,9 +1495,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (3), [[MySQL]] (2), database (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), mysql (2)
 > **UI Navigation:** double-click (3), open the (1), click on (1)
-> **Code Keywords:** let (2), default, (1)
 > **SQL:** varchar (2)
 > **Env Vars:** varchar (2)
 > **Definitions:** is a  (2)
@@ -1677,7 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), type. (1), type, (1), delete (1)
+> **Frameworks & Libraries:** data (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (5), click on (1)
 > **Definitions:** is a  (4), means that (2)
@@ -1765,8 +1767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[MySQL]] (2), data (1)
 > **CLI Commands:** mysql (2), make (2)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** fyi (1)
 > **UI Navigation:** select the (1)
@@ -1834,7 +1836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), this. (1), type, (1), export, (1)
+> **Frameworks & Libraries:** database (6), [[MySQL]] (5), [[SQL]] (4), data (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** mysql (5), make (1)
 > **Env Vars:** sql (4), drop (1), create (1)
 > **UI Navigation:** go to (1)
@@ -1843,7 +1845,7 @@ created: 2026-04-29
 
 ### 5. SQL Querying
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the SELECT statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980)
@@ -1910,9 +1912,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (9), data (4), database (2), next (2), [[Decision-Making]] (1)
 > **Env Vars:** sql (9)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1), from, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Another toy dataset
@@ -2060,10 +2062,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (11), database (9), data (6), [[MySQL]] (5), next (2)
 > **Env Vars:** sql (11)
 > **UI Navigation:** select the (4), go to (2), scroll up (2)
 > **CLI Commands:** mysql (5), make (2)
-> **Code Keywords:** let (4), continue (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (1), just like (1), for instance (1)
 > **Prerequisites:** you'll need (1)
@@ -2182,8 +2184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (11), data (9), database (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (11), select (8), where (1)
-> **Code Keywords:** let (8), function (2), type, (1), super (1), from, (1)
 > **SQL:** select (8), where (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2310,9 +2312,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (9), data (3), [[Microsoft Word|Word]] (3), next (2), [[Scripting]] (1)
 > **Env Vars:** sql (9), where (4), select (4)
 > **SQL:** where (4), select (4)
-> **Code Keywords:** let (3), for. (2), require (1), delete (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** means that (2), is called (1), is a  (1)
 > **Best Practices:** don't forget (2)
@@ -2420,9 +2422,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), database (3), [[Scripting]] (2), data (1)
 > **Env Vars:** group (10), sql (5), order (4), select (4), having (4)
 > **SQL:** group by (10), order by (4), select (4), having (4), where (3)
-> **Code Keywords:** let (5), return, (1), default, (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** earlier in (1)
 > **Best Practices:** don't forget (1)
@@ -2431,7 +2433,7 @@ created: 2026-04-29
 
 ### 6. Final Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bringing it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/bringing-it-all-together?u=76281980)
@@ -2468,8 +2470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
@@ -2510,7 +2512,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980)
@@ -2535,6 +2537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), data (2), [[Responsible AI]] (1), [[Ethics]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **URLs:** [dataedx.com](https://dataedx.com) (1)
 > **Speakers:** - congratulations (1)

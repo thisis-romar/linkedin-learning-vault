@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/XAI%20and%20Interpretability%20in%20Cybersecurity.md)
@@ -52,44 +52,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Unlock the power of explainable AI
-  - Course tools and resources
-  - Explaining the importance of explainable AI (XAI) in cybersecurity
-  - Highlighting the brief history of XAI
+  - [Unlock the power of explainable AI](#unlock-the-power-of-explainable-ai)
+  - [Course tools and resources](#course-tools-and-resources)
+  - [Explaining the importance of explainable AI (XAI) in cybersecurity](#explaining-the-importance-of-explainable-ai-xai-in-cybersecurity)
+  - [Highlighting the brief history of XAI](#highlighting-the-brief-history-of-xai)
 - [**1. XAI Basics and Techniques**](#1-xai-basics-and-techniques) (5 videos)
-  - Brief introduction to model-agnostic methods
-  - Exploring model-specific techniques
-  - Applying LIME in a cybersecurity scenario
-  - Using SHAP for cybersecurity insights
-  - Understanding the limitations of model-agnostic and model-specific XAI
+  - [Brief introduction to model-agnostic methods](#brief-introduction-to-model-agnostic-methods)
+  - [Exploring model-specific techniques](#exploring-model-specific-techniques)
+  - [Applying LIME in a cybersecurity scenario](#applying-lime-in-a-cybersecurity-scenario)
+  - [Using SHAP for cybersecurity insights](#using-shap-for-cybersecurity-insights)
+  - [Understanding the limitations of model-agnostic and model-specific XAI](#understanding-the-limitations-of-model-agnostic-and-model-specific-xai)
 - [**2. Integrating XAI in Cybersecurity Frameworks**](#2-integrating-xai-in-cybersecurity-frameworks) (6 videos)
-  - Cybersecurity framework fundamentals applicable to XAI
-  - Mapping XAI to cybersecurity domains
-  - Case study: How can you enhance the NIST framework with XAI?
-  - XAI techniques for cybersecurity framework integration
-  - How can XAI enhance Operations Security?
-  - Case study: Enhanced anomaly and threat detection
+  - [Cybersecurity framework fundamentals applicable to XAI](#cybersecurity-framework-fundamentals-applicable-to-xai)
+  - [Mapping XAI to cybersecurity domains](#mapping-xai-to-cybersecurity-domains)
+  - [Case study: How can you enhance the NIST framework with XAI?](#case-study-how-can-you-enhance-the-nist-framework-with-xai)
+  - [XAI techniques for cybersecurity framework integration](#xai-techniques-for-cybersecurity-framework-integration)
+  - [How can XAI enhance Operations Security?](#how-can-xai-enhance-operations-security)
+  - [Case study: Enhanced anomaly and threat detection](#case-study-enhanced-anomaly-and-threat-detection)
 - [**3. XAI for AI-Powered Threat Identification**](#3-xai-for-ai-powered-threat-identification) (4 videos)
-  - What is the role of AI in threat identification?
-  - Applying XAI for transparent threat analysis
-  - Hands-on: Simulating AI threats with MITRE Caldera
-  - Interpreting XAI outputs for threat identification
+  - [What is the role of AI in threat identification?](#what-is-the-role-of-ai-in-threat-identification)
+  - [Applying XAI for transparent threat analysis](#applying-xai-for-transparent-threat-analysis)
+  - [Hands-on: Simulating AI threats with MITRE Caldera](#hands-on-simulating-ai-threats-with-mitre-caldera)
+  - [Interpreting XAI outputs for threat identification](#interpreting-xai-outputs-for-threat-identification)
 - [**4. Decision-Making with XAI in Cybersecurity**](#4-decision-making-with-xai-in-cybersecurity) (4 videos)
-  - The importance of decision-making in cybersecurity
-  - XAI for strategic Cybersecurity decisions
-  - XAI for operational decisions
-  - Case studies: Success stories and lessons learned
+  - [The importance of decision-making in cybersecurity](#the-importance-of-decision-making-in-cybersecurity)
+  - [XAI for strategic Cybersecurity decisions](#xai-for-strategic-cybersecurity-decisions)
+  - [XAI for operational decisions](#xai-for-operational-decisions)
+  - [Case studies: Success stories and lessons learned](#case-studies-success-stories-and-lessons-learned)
 - [**5. Ethical Implications of AI in Cybersecurity**](#5-ethical-implications-of-ai-in-cybersecurity) (3 videos)
-  - The importance of ethics in XAI
-  - Privacy concerns with XAI
-  - Transparency vs. security
+  - [The importance of ethics in XAI](#the-importance-of-ethics-in-xai)
+  - [Privacy concerns with XAI](#privacy-concerns-with-xai)
+  - [Transparency vs. security](#transparency-vs-security)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Next steps
-  - XAI course recap and key takeaways
+  - [Next steps](#next-steps)
+  - [XAI course recap and key takeaways](#xai-course-recap-and-key-takeaways)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock the power of explainable AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/unlock-the-power-of-explainable-ai?u=76281980)
@@ -104,6 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Security]] (3), career (2), [[Cybersecurity]] (1)
 > **Env Vars:** xai (1)
 > **Speakers:** - [stephanie] (1)
 
@@ -148,11 +149,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Cybersecurity]] (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **Env Vars:** xai (6), shap (1), lime (1), mitre (1)
 > **CLI Commands:** python (2), make (2)
 > **Prerequisites:** getting started (1), make sure you have (1), prerequisite (1)
 > **Definitions:** is an  (2)
-> **Code Keywords:** let (1)
 > **Tools:** jupyter (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -244,11 +245,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Cybersecurity]] (8), [[Decision-Making]] (5), [[Security]] (4), teams (3)
 > **Env Vars:** xai (14), lime (3), shap (3)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for instance (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Highlighting the brief history of XAI
@@ -330,6 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Cybersecurity]] (8), [[Security]] (5), data (2), teams (2)
 > **Env Vars:** xai (6), darpa (1), gdpr (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **CLI Commands:** make (2)
@@ -339,7 +341,7 @@ created: 2026-04-29
 
 ### 1. XAI Basics and Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Brief introduction to model-agnostic methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/brief-introduction-to-model-agnostic-methods?u=76281980)
@@ -432,9 +434,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), data (4), game (2), chatbot (1), hit (1)
 > **Env Vars:** lime (8), shap (8)
 > **Analogies:** imagine (2), just like (1)
-> **Code Keywords:** require (1), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** short for (1)
 > **Best Practices:** recommended (1)
@@ -527,7 +529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), case, (1), type. (1)
+> **Frameworks & Libraries:** data (2), [[Neural Networks]] (2), [[Decision Trees]] (1), [[Decision-Making]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -622,8 +624,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), data (4), ai (3), traffic (2), feature (1)
 > **Env Vars:** lime (16)
-> **Code Keywords:** let (5), this. (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (2), imagine (1)
 > **Prerequisites:** set up (1)
@@ -734,8 +736,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (10), [[Cybersecurity]] (4), game (3), ai (3), [[Real-Time]] (1)
 > **Env Vars:** shap (19)
-> **Code Keywords:** let (5), this. (1)
 > **Definitions:** is a  (1), stands for (1), means that (1)
 > **Code Identifiers:** num_failed_logins (1), data_exfiltration_rate (1)
 > **Prerequisites:** install (1), setup (1)
@@ -822,8 +824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (2), feature (2), next (2), ai (1), [[Neural Networks]] (1)
 > **Env Vars:** xai (6), lime (5), shap (5)
-> **Code Keywords:** let (4)
 > **Analogies:** such as (2), imagine (1), for instance (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [presenter] (1)
@@ -831,7 +833,7 @@ created: 2026-04-29
 
 ### 2. Integrating XAI in Cybersecurity Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity framework fundamentals applicable to XAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980)
@@ -932,8 +934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), [[Security]] (8), [[Incident Response]] (4), data (2), ai (1)
 > **Env Vars:** xai (16), nist (1), iso (1)
-> **Code Keywords:** let (2), finally, (1), require (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** for example (1), such as (1), imagine (1), for instance (1)
 > **Warnings:** caution (1), note that (1)
@@ -1055,8 +1057,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Decision-Making]] (4), [[Security]] (3), ai (2), [[Intrusion Detection]] (2)
 > **Env Vars:** xai (23), shap (5), ids (4), soc (2)
-> **Code Keywords:** let (2), case, (1), for. (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1128,8 +1130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), teams (5), [[NIST]] (4), ai (4), [[Security]] (3)
 > **Env Vars:** xai (11), nist (4), csf (3)
-> **Code Keywords:** let (2), function (1), require (1)
 > **Definitions:** known as (1), is a  (1), refers to (1)
 > **Analogies:** imagine (1), similar to (1)
 > **CLI Commands:** make (1)
@@ -1228,8 +1230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), data (2), ai (2), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **Env Vars:** shap (17), url (2)
-> **Code Keywords:** let (5), this, (1), finally, (1), case, (1)
 > **Analogies:** for example (2), for instance (1), such as (1), imagine (1)
 > **Code Identifiers:** xai (3)
 > **CLI Commands:** make (1)
@@ -1306,8 +1308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), management (8), ai (4), teams (2), data (2)
 > **Env Vars:** xai (23), iso (3)
-> **Code Keywords:** finally, (2), protected (1), let (1)
 > **Versions:** 8.12 (3)
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
@@ -1434,15 +1436,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Security]] (5), [[Privacy]] (3), [[Cybersecurity]] (2), traffic (1)
 > **Env Vars:** shap (9)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. XAI for AI-Powered Threat Identification
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the role of AI in threat identification?
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980)
@@ -1529,9 +1531,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Security]] (5), [[Cybersecurity]] (4), next (4), [[Real-Time]] (2)
 > **Env Vars:** xai (18)
 > **Analogies:** it's like (3), imagine (2), think of it as (1)
-> **Code Keywords:** super (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1644,8 +1646,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), feature (6), data (5), [[Security]] (4), traffic (2)
 > **Env Vars:** xai (14), shap (9), lime (3)
-> **Code Keywords:** let (5)
 > **CLI Commands:** python (2), find (1)
 > **Exercise Files:** exercise files (2)
 > **Analogies:** imagine (1), picture (1)
@@ -1743,7 +1745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), continue (1)
+> **Frameworks & Libraries:** ai (16), [[Simulation]] (9), [[Cybersecurity]] (5), web (2), [[Linux]] (1)
 > **Prerequisites:** install (1), setup (1), configure (1), set up (1)
 > **Env Vars:** mitre (3)
 > **Analogies:** imagine (1), it's like (1), for example (1)
@@ -1867,9 +1869,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (5), traffic (2), [[Cybersecurity]] (1), ai (1)
 > **Env Vars:** lime (6), shap (6), xai (3)
 > **Versions:** 0.15 (3), 0.3 (2), 0.05 (2), 0.65 (2), 0.35 (1)
-> **Code Keywords:** let (7)
 > **Analogies:** for example (2), imagine (1)
 > **Speakers:** - [instructor] (1), - 0 (1)
 > **CLI Commands:** make (1)
@@ -1878,7 +1880,7 @@ created: 2026-04-29
 
 ### 4. Decision-Making with XAI in Cybersecurity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of decision-making in cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980)
@@ -1999,8 +2001,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Decision-Making]] (3), data (2), [[Incident Response]] (1), [[Intrusion Detection]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (3), match. (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you need to have (1)
@@ -2077,11 +2079,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (5), data (2), ai (2), traffic (1)
 > **Env Vars:** xai (9), siem (2)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), implements (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2178,8 +2180,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), data (3), feature (2), [[Cybersecurity]] (2), [[Engineering]] (1)
 > **Env Vars:** shap (22), soc (3), xai (1)
-> **Code Keywords:** require (2)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -2258,16 +2260,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Banking]] (2), ai (2), [[Building Trust]] (1), prompt (1)
 > **Env Vars:** shap (18), xai (2)
 > **Analogies:** such as (3)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Ethical Implications of AI in Cybersecurity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of ethics in XAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980)
@@ -2364,8 +2366,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[Cybersecurity]] (7), [[Accountability]] (5), [[Security]] (4), [[Decision-Making]] (4)
 > **Env Vars:** xai (16), gdpr (1)
-> **Code Keywords:** this, (2), let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -2469,8 +2471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (17), data (12), [[Cybersecurity]] (7), ai (4), [[Privacy Protection]] (2)
 > **Env Vars:** xai (16), gdpr (1), ccpa (1), pets (1)
-> **Code Keywords:** let (1), interface (1), finally, (1), this, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2537,9 +2539,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Cybersecurity]] (4), [[Security]] (4), [[Decision-Making]] (1), management (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this. (1), abstract (1)
 > **Env Vars:** xai (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -2547,7 +2549,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980)
@@ -2612,9 +2614,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), ai (7), [[Cybersecurity]] (5), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** xai (14), ipc (1), acm (1), facct (1), lime (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2683,8 +2685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (16), ai (5), [[Security]] (5), [[Decision-Making]] (4), [[Privacy]] (3)
 > **Env Vars:** xai (26), lime (2), shap (2), nist (1), iso (1)
-> **Code Keywords:** let (1), type. (1), continue (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [stephanie] (1)

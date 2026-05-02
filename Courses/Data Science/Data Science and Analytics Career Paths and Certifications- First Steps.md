@@ -40,7 +40,7 @@ tags:
   - skill/career-path-planning
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20and%20Analytics%20Career%20Paths%20and%20Certifications-%20First%20Steps.md)
@@ -59,68 +59,68 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - An expanding universe of data science career options
-  - What you should know
+  - [An expanding universe of data science career options](#an-expanding-universe-of-data-science-career-options)
+  - [What you should know](#what-you-should-know)
 - [**1. Defining Data Science**](#1-defining-data-science) (6 videos)
-  - Introduction
-  - A brief history
-  - Fundamentals
-  - Big data analytics
-  - Enabling technologies
-  - Artificial intelligence (AI) and data science
+  - [Introduction](#introduction)
+  - [A brief history](#a-brief-history)
+  - [Fundamentals](#fundamentals)
+  - [Big data analytics](#big-data-analytics)
+  - [Enabling technologies](#enabling-technologies)
+  - [Artificial intelligence (AI) and data science](#artificial-intelligence-ai-and-data-science)
 - [**2. Marketplaces**](#2-marketplaces) (8 videos)
-  - Introduction to marketplaces
-  - Fraud detection
-  - Social media analytics
-  - Disease control
-  - Dating services
-  - Simulations
-  - Climate research
-  - Network security
+  - [Introduction to marketplaces](#introduction-to-marketplaces)
+  - [Fraud detection](#fraud-detection)
+  - [Social media analytics](#social-media-analytics)
+  - [Disease control](#disease-control)
+  - [Dating services](#dating-services)
+  - [Simulations](#simulations)
+  - [Climate research](#climate-research)
+  - [Network security](#network-security)
 - [**3. Skills**](#3-skills) (7 videos)
-  - Required skills
-  - Data mining and analytics
-  - Machine learning
-  - Natural language processing
-  - Statistics
-  - Visualization
-  - Large language models (LLMs)
+  - [Required skills](#required-skills)
+  - [Data mining and analytics](#data-mining-and-analytics)
+  - [Machine learning](#machine-learning)
+  - [Natural language processing](#natural-language-processing)
+  - [Statistics](#statistics)
+  - [Visualization](#visualization)
+  - [Large language models (LLMs)](#large-language-models-llms)
 - [**4. Roles**](#4-roles) (8 videos)
-  - Introduction to roles
-  - Data scientist or engineer
-  - Business intelligence architect
-  - Machine learning scientist
-  - Business analytics specialist
-  - Data visualization developer
-  - AI engineer
-  - Salaries
+  - [Introduction to roles](#introduction-to-roles)
+  - [Data scientist or engineer](#data-scientist-or-engineer)
+  - [Business intelligence architect](#business-intelligence-architect)
+  - [Machine learning scientist](#machine-learning-scientist)
+  - [Business analytics specialist](#business-analytics-specialist)
+  - [Data visualization developer](#data-visualization-developer)
+  - [AI engineer](#ai-engineer)
+  - [Salaries](#salaries)
 - [**5. Certifications**](#5-certifications) (7 videos)
-  - Introduction to certifications
-  - Azure Data Scientist Associate certification
-  - Cloudera Data Platform certification
-  - Dell Data Science track
-  - AWS and Google certification
-  - SAS big data and data scientist certifications
-  - Certified Analytics Professional (CAP)
+  - [Introduction to certifications](#introduction-to-certifications)
+  - [Azure Data Scientist Associate certification](#azure-data-scientist-associate-certification)
+  - [Cloudera Data Platform certification](#cloudera-data-platform-certification)
+  - [Dell Data Science track](#dell-data-science-track)
+  - [AWS and Google certification](#aws-and-google-certification)
+  - [SAS big data and data scientist certifications](#sas-big-data-and-data-scientist-certifications)
+  - [Certified Analytics Professional (CAP)](#certified-analytics-professional-cap)
 - [**6. Future of Data Science**](#6-future-of-data-science) (5 videos)
-  - Introduction to the future of data science
-  - Emerging technologies
-  - Emerging careers
-  - Ethics
-  - Professional development
+  - [Introduction to the future of data science](#introduction-to-the-future-of-data-science)
+  - [Emerging technologies](#emerging-technologies)
+  - [Emerging careers](#emerging-careers)
+  - [Ethics](#ethics)
+  - [Professional development](#professional-development)
 - [**7. Voices from the Field**](#7-voices-from-the-field) (6 videos)
-  - Introduction to voices from the field
-  - Senior data scientist
-  - College senior
-  - Graduate student
-  - Employer
-  - How to start
+  - [Introduction to voices from the field](#introduction-to-voices-from-the-field)
+  - [Senior data scientist](#senior-data-scientist)
+  - [College senior](#college-senior)
+  - [Graduate student](#graduate-student)
+  - [Employer](#employer)
+  - [How to start](#how-to-start)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your data science and analytics career journey
+  - [Continue your data science and analytics career journey](#continue-your-data-science-and-analytics-career-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An expanding universe of data science career options
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/an-expanding-universe-of-data-science-career-options-31358107?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), await (1), let (1)
+> **Frameworks & Libraries:** data (4), [[Analytics]] (2), career (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
@@ -166,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Analytics]] (1), [[Big Data]] (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -173,7 +174,7 @@ created: 2026-04-29
 
 ### 1. Defining Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction?u=76281980)
@@ -204,6 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Analytics]] (6), career (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
@@ -234,6 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (3), [[Statistics]] (2), management (2), [[Big Data]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** acm (1)
 > **Analogies:** such as (1)
@@ -296,10 +299,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Big Data]] (8), [[Analytics]] (3), [[Algorithms]] (2), [[Search]] (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [tutor] (1)
 
 #### Big data analytics
@@ -331,6 +334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Big Data]] (3), [[Analytics]] (2), cloud (2), [[Hardware]] (2)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -382,6 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), management (4), cloud (2), [[Virtualization]] (1), [[Hadoop]] (1)
 > **Env Vars:** dbms (3), raid (1), hdfs (1), sql (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -421,6 +426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), ai (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Deep Learning]] (1), [[Automation]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -428,7 +434,7 @@ created: 2026-04-29
 
 ### 2. Marketplaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to marketplaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980)
@@ -459,6 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (1), [[Analytics]] (1), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
 
@@ -501,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** data (3), [[Banking]] (1), [[Big Data Analytics]] (1), [[Big Data]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -543,10 +550,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Analytics]] (2), api (2), [[Professional Networking]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (2), json (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [narrator] (1)
 
@@ -573,6 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (1), [[Big Data Analytics]] (1), data (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -607,7 +615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (2), case, (1)
+> **Frameworks & Libraries:** [[Big Data Analytics]] (2), data (1), [[Algorithms]] (1)
 > **Analogies:** for instance (1), for example (1), such as (1)
 > **CLI Commands:** find (2)
 > **URLs:** [match.com](https://match.com) (2)
@@ -639,7 +647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[Simulation]] (6), data (3), power (2), [[Big Data Analytics]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
@@ -666,6 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Predictive Modeling]] (1), power (1), [[Climate Change]] (1), [[Analytics]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -690,12 +699,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (4), [[Big Data Analytics]] (2), product (2), [[Microsoft]] (2), [[Security]] (1)
 > **Definitions:** is a  (1)
 
 
 ### 3. Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Required skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980)
@@ -734,6 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Analytics]] (8), [[Statistics]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -773,9 +784,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Analytics]] (1), [[Data Manipulation]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1)
 > **Analogies:** for instance (2), for example (1)
 > **Env Vars:** nlp (1), mttf (1)
-> **Code Keywords:** class. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -814,7 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), case, (1)
+> **Frameworks & Libraries:** data (4), [[Supervised Learning]] (2), [[Algorithms]] (1), [[Analytics]] (1)
 > **Speakers:** - machine (1)
 
 #### Natural language processing
@@ -846,6 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), nlp (4), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), database (1)
 > **Env Vars:** nlp (4), hci (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (1), python (1)
@@ -873,6 +885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Statistics]] (4), [[Probability]] (1), [[Statistical Analysis]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** anova (1), sas (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -901,6 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Analytics]] (1), [[Tableau]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -941,6 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), ai (2), [[Large Language Models (LLM)|Large language models]] (2), application (2), nlp (2)
 > **Analogies:** such as (3)
 > **Env Vars:** nlp (2)
 > **Definitions:** refers to (1), we call this (1)
@@ -949,7 +964,7 @@ created: 2026-04-29
 
 ### 4. Roles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980)
@@ -982,8 +997,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Analytics]] (4), [[Network Security]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Big Data]] (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - there (1)
 
 #### Data scientist or engineer
@@ -1021,8 +1036,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), leadership (2), [[Analytics]] (1), [[Statistics]] (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1051,9 +1066,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** bi (6), data (3), [[Business Intelligence (BI)|Business intelligence]] (1), leadership (1), [[Analytics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1110,8 +1125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), career (1), [[Statistics]] (1), [[Probability]] (1), next (1)
 > **CLI Commands:** python (1), sed (1), awk (1), grep (1), find (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -1147,6 +1162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), [[Analytics]] (7), bi (6), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), in other words (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1187,7 +1203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), finally, (1)
+> **Frameworks & Libraries:** data (13), [[Analytics]] (3), business (2), database (2), [[Infographics]] (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1231,6 +1247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (12), [[Engineering]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 
@@ -1267,14 +1284,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Analytics]] (6), ai (2), [[Statistics]] (1), career (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 
 ### 5. Certifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980)
@@ -1315,7 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2)
+> **Frameworks & Libraries:** data (6), [[Analytics]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Azure]] (1), aws (1)
 > **Env Vars:** aws (1), sas (1)
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** aws (1)
@@ -1333,6 +1350,10 @@ created: 2026-04-29
 > **[0:31](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/azure-data-scientist-associate-certification-31372054?u=76281980&t=31)** Other expected competencies include running data experiments and training predictive models.
 >
 > **[0:38](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/azure-data-scientist-associate-certification-31372054?u=76281980&t=38)** Managing, optimizing, and deploying scalable machine learning models to production are also expected.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** data (3), [[Microsoft Azure|Azure]] (2), ai (2), [[Microsoft Azure]] (1), [[Microsoft]] (1)
 
 #### Cloudera Data Platform certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/cloudera-data-platform-certification-31362126?u=76281980)
@@ -1361,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** data (5), cloud (3), [[Security]] (1), [[Troubleshooting]] (1)
 
 #### Dell Data Science track
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dell-data-science-track?u=76281980)
@@ -1380,7 +1401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** data (7), [[Data Engineering]] (1), [[Virtualization]] (1), [[Analytics]] (1), product (1)
 
 #### AWS and Google certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980)
@@ -1413,9 +1434,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), aws (5), [[Analytics]] (4), [[Google]] (4), cloud (3)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (5)
-> **Code Keywords:** let (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
@@ -1448,6 +1469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Analytics]] (2), ai (2), [[Big Data]] (2), business (1)
 > **Env Vars:** sas (12)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -1478,14 +1500,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (8), management (2), data (2), product (1), business (1)
 > **Env Vars:** cap (8), informs (1), pdu (1)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** self (1)
 
 
 ### 6. Future of Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the future of data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-the-future-of-data-science?u=76281980)
@@ -1520,8 +1542,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Analytics]] (5), career (1), power (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - the (1)
 
 #### Emerging technologies
@@ -1551,7 +1573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** data (10), cloud (4), [[Big Data Analytics]] (2), [[Hadoop]] (1), [[Analytics]] (1)
 > **Env Vars:** ibm (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1586,8 +1608,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Outlook|Outlook]] (1), next (1), [[Lifelong Learning]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** new, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1622,6 +1644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Security]] (6), [[Privacy]] (3), product (1), [[Ethics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1651,16 +1674,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Analytics]] (3), management (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** while. (1)
 > **Env Vars:** cap (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Voices from the Field
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to voices from the field
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-voices-from-the-field?u=76281980)
@@ -1701,8 +1724,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), career (8), [[Analytics]] (2)
 > **Analogies:** it's like (2)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Senior data scientist
@@ -1750,6 +1773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), career (3), product (3), [[Software Development]] (3), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** earlier in (1)
@@ -1810,8 +1834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), [[Banking]] (1), leadership (1), [[Soft Skills]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** pass (1), case. (1), for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1868,7 +1892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), continue (1)
+> **Frameworks & Libraries:** data (3), career (2), generic (1), product (1), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1923,7 +1947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Soft Skills]] (2), [[Interviewing]] (1), business (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Cross-References:** coming up (1)
 > **Warnings:** be aware (1)
@@ -1972,7 +1996,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), self (1), continue (1)
+> **Frameworks & Libraries:** data (10), [[Security]] (2), [[Python (Programming Language)|Python]] (2), career (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1981,7 +2005,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your data science and analytics career journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980)
@@ -2000,6 +2024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Big Data]] (1), [[Analytics]] (1)
 > **CLI Commands:** python (1)
 
 

@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20and%20Application%20Security.md)
@@ -52,26 +52,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Implications of AI on cybersecurity
-  - What you should know
-  - AI models and software applications
-  - Garbage in = garbage out
-  - Generative AI
+  - [Implications of AI on cybersecurity](#implications-of-ai-on-cybersecurity)
+  - [What you should know](#what-you-should-know)
+  - [AI models and software applications](#ai-models-and-software-applications)
+  - [Garbage in = garbage out](#garbage-in-garbage-out)
+  - [Generative AI](#generative-ai)
 - [**1. Benefits and Advantages**](#1-benefits-and-advantages) (3 videos)
-  - AI improvements for corporate applications
-  - Improvements for software development
-  - Improvements for application security
+  - [AI improvements for corporate applications](#ai-improvements-for-corporate-applications)
+  - [Improvements for software development](#improvements-for-software-development)
+  - [Improvements for application security](#improvements-for-application-security)
 - [**2. Increased Risks**](#2-increased-risks) (4 videos)
-  - Evolution of application security risk
-  - Better impersonation using AI
-  - Security problems in AI applications
-  - Security controls for AI applications
+  - [Evolution of application security risk](#evolution-of-application-security-risk)
+  - [Better impersonation using AI](#better-impersonation-using-ai)
+  - [Security problems in AI applications](#security-problems-in-ai-applications)
+  - [Security controls for AI applications](#security-controls-for-ai-applications)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implications of AI on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980)
@@ -96,6 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Security]] (3), [[Cybersecurity]] (2), [[Software Development]] (1)
 > **Speakers:** - all (1)
 
 #### What you should know
@@ -149,8 +150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (7), ai (7), [[Security]] (6), [[Cybersecurity]] (2)
 > **Definitions:** short for (3), is a  (2)
-> **Code Keywords:** pass (1), public (1), let (1)
 > **Env Vars:** apsec (1)
 > **Speakers:** - the (1)
 
@@ -241,9 +242,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (31), web application (6), [[OWASP]] (4), web (3), [[Security]] (3)
 > **Env Vars:** owasp (4), http (1), api (1), llm (1)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** private (1), public (1), require (1), function (1), let (1)
 > **Tools:** slack (1), command line (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - the (1)
@@ -287,8 +288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (5), application (3), [[Security]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Warnings:** note that (1), be aware (1)
-> **Code Keywords:** for. (1)
 > **Tools:** notion (1)
 > **Definitions:** means that (1)
 > **Speakers:** - despite (1)
@@ -354,16 +355,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (18), data (6), ai (5), [[Security]] (2), [[Probability]] (1)
 > **Analogies:** for example (3), such as (1), imagine (1), think of it as (1)
 > **CLI Commands:** find (1), cat (1), make (1)
-> **Code Keywords:** new. (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - so (1)
 
 
 ### 1. Benefits and Advantages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI improvements for corporate applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980)
@@ -418,8 +419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Software Development]] (3), [[Search]] (3), [[Slack]] (3), data (3)
 > **Tools:** slack (3), jira (2), confluence (2)
-> **Code Keywords:** let (1), case, (1)
 > **Env Vars:** jira (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -495,10 +496,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[GitHub Copilot]] (5), [[GitHub]] (5), feature (3), power (1)
 > **Tools:** github (10)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), require (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
@@ -565,8 +566,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), application (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (8), [[Automation]] (6), [[Penetration Testing]] (2)
 > **Env Vars:** zap (1), http (1), dast (1), sast (1), pci (1)
-> **Code Keywords:** case, (1), require (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - fundamentally (1)
@@ -574,7 +575,7 @@ created: 2026-04-29
 
 ### 2. Increased Risks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evolution of application security risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980)
@@ -619,9 +620,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (9), [[Security]] (7), application (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Cybersecurity]] (3)
 > **Env Vars:** captcha (3)
 > **Definitions:** is a  (2), stands for (1)
-> **Code Keywords:** public (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - application (1)
 
@@ -682,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1), private (1), case, (1)
+> **Frameworks & Libraries:** ai (6), [[Engineering]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Security]] (2), application (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -755,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), prompt (11), data (8), [[Security]] (4), application (3)
 > **Env Vars:** owasp (2), llm (1)
-> **Code Keywords:** let (1), function (1)
 > **Analogies:** kind of like (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -826,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), finally, (1)
+> **Frameworks & Libraries:** ai (25), [[Security]] (16), application (4), business (4), management (3)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - cobalt (1)
@@ -834,7 +835,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980)
@@ -857,6 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), application (2), ai (1), game (1)
 > **Env Vars:** owasps (1)
 > **Speakers:** - we (1)
 

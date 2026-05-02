@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Print%20Style%20Sheets.md)
@@ -45,41 +45,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to CSS print style sheets
+  - [Welcome to CSS print style sheets](#welcome-to-css-print-style-sheets)
 - [**1. Mechanics of Print-Based CSS**](#1-mechanics-of-print-based-css) (6 videos)
-  - Print style sheets and media queries
-  - Creating a print style sheet and linking it to your document
-  - Creating a print media query
-  - Previewing print style sheets without printing
-  - The pitfalls of using dev tools for previewing printing
-  - Understanding screen, print, aural, and the cascade
+  - [Print style sheets and media queries](#print-style-sheets-and-media-queries)
+  - [Creating a print style sheet and linking it to your document](#creating-a-print-style-sheet-and-linking-it-to-your-document)
+  - [Creating a print media query](#creating-a-print-media-query)
+  - [Previewing print style sheets without printing](#previewing-print-style-sheets-without-printing)
+  - [The pitfalls of using dev tools for previewing printing](#the-pitfalls-of-using-dev-tools-for-previewing-printing)
+  - [Understanding screen, print, aural, and the cascade](#understanding-screen-print-aural-and-the-cascade)
 - [**2. Best Practices for Print-Based Styling**](#2-best-practices-for-print-based-styling) (10 videos)
-  - Best practices for styling for print
-  - Touring your example page
-  - Hiding irrelevant information for print
-  - Changing webpage layouts for print
-  - Overriding styles intended for screen display
-  - Adding print-only information that is hidden from screens
-  - Writing URLs after links and social media icons
-  - Complex media queries for print and page orientation
-  - Challenge
-  - Solution
+  - [Best practices for styling for print](#best-practices-for-styling-for-print)
+  - [Touring your example page](#touring-your-example-page)
+  - [Hiding irrelevant information for print](#hiding-irrelevant-information-for-print)
+  - [Changing webpage layouts for print](#changing-webpage-layouts-for-print)
+  - [Overriding styles intended for screen display](#overriding-styles-intended-for-screen-display)
+  - [Adding print-only information that is hidden from screens](#adding-print-only-information-that-is-hidden-from-screens)
+  - [Writing URLs after links and social media icons](#writing-urls-after-links-and-social-media-icons)
+  - [Complex media queries for print and page orientation](#complex-media-queries-for-print-and-page-orientation)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**3. Beautiful Formatting for Print**](#3-beautiful-formatting-for-print) (9 videos)
-  - Understanding paged media and CSS fragmentation properties
-  - Setting printing page breaks
-  - Creating columns within longer documents
-  - Adding hyphenation
-  - Controlling widows and orphans
-  - Using @page to create page margins
-  - Coming soon: Additional @page properties
-  - Challenge
-  - Solution
+  - [Understanding paged media and CSS fragmentation properties](#understanding-paged-media-and-css-fragmentation-properties)
+  - [Setting printing page breaks](#setting-printing-page-breaks)
+  - [Creating columns within longer documents](#creating-columns-within-longer-documents)
+  - [Adding hyphenation](#adding-hyphenation)
+  - [Controlling widows and orphans](#controlling-widows-and-orphans)
+  - [Using @page to create page margins](#using-page-to-create-page-margins)
+  - [Coming soon: Additional @page properties](#coming-soon-additional-page-properties)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to CSS print style sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/welcome?u=76281980)
@@ -108,15 +108,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), next (2), [[Forms]] (1)
 > **Env Vars:** css (3)
-> **Code Keywords:** finally, (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - sometimes (1)
 
 
 ### 1. Mechanics of Print-Based CSS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Print style sheets and media queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/print-style-sheets-and-media-queries?u=76281980)
@@ -169,7 +169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), finally, (2), let (1)
+> **Frameworks & Libraries:** css (2), [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -274,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), override (1)
+> **Frameworks & Libraries:** [[HTML]] (5), css (4), [[Microsoft]] (1), web (1)
 > **Env Vars:** html (4), css (4)
 > **CLI Commands:** make (2)
 > **Tools:** vs code (2)
@@ -318,8 +318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), css (1), web (1)
 > **Prerequisites:** set up (5)
-> **Code Keywords:** let (1), default, (1), this, (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** previous video (1)
@@ -460,10 +460,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Windows]] (2), css (1), [[Simulation]] (1)
 > **Tools:** firefox (12), safari (1)
 > **UI Navigation:** go to (6), toggle (3), scroll down (2)
 > **Env Vars:** pdf (8), css (1)
-> **Code Keywords:** let (2), this. (2), switch (2), default, (1), type. (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** just like (3), similar to (1)
 > **Prerequisites:** setup (2)
@@ -524,11 +524,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[HTML]] (1), web (1), [[Simulation]] (1)
 > **Env Vars:** pdf (3), css (2), html (1)
 > **Tools:** firefox (3)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), switch (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
@@ -676,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), this. (2), override (1)
+> **Frameworks & Libraries:** web (11), css (2), [[HTML]] (1), generic (1)
 > **UI Navigation:** go to (5), toggle (2)
 > **Env Vars:** css (2), pdf (1), html (1)
 > **Cross-References:** go back to (2)
@@ -688,7 +688,7 @@ created: 2026-04-29
 
 ### 2. Best Practices for Print-Based Styling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Best practices for styling for print
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/best-practices-for-styling-for-print?u=76281980)
@@ -747,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** for example (2)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
@@ -869,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1), switch (1), try. (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Google]] (1), css (1), web (1)
 > **Env Vars:** html (5), css (1)
 > **Analogies:** picture (4)
 > **CLI Commands:** make (3)
@@ -999,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** css (2), data (2), [[Microsoft Products|Products]] (1), next (1), [[Google]] (1)
 > **Env Vars:** css (2), html (1), usb (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
@@ -1057,8 +1057,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), next (1), web (1), [[HTML]] (1)
 > **Env Vars:** css (4), html (1)
-> **Code Keywords:** super (1), default, (1), function (1), let (1)
 > **Tools:** firefox (3)
 > **Code Identifiers:** footerclass (1)
 > **Cross-References:** earlier in (1)
@@ -1252,7 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), default. (1), class, (1), this: (1)
+> **Frameworks & Libraries:** next (3), css (3), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **CLI Commands:** make (8)
 > **Versions:** 0.25 (2), 0.8 (1), 1.25 (1), 0.5 (1)
 > **Env Vars:** css (3)
@@ -1368,8 +1368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), css (1), next (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), case, (1), this. (1), class. (1)
 > **Cross-References:** go back to (2), previous video (1)
 > **Env Vars:** html (1), css (1)
 > **Exercise Files:** exercise files (2)
@@ -1496,7 +1496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), if, (1), default, (1)
+> **Frameworks & Libraries:** css (2), [[LinkedIn]] (2), [[JavaScript]] (1), [[HTML]] (1), next (1)
 > **Env Vars:** url (2), css (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
@@ -1642,7 +1642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (3), this. (2), else. (2), this, (1)
+> **Frameworks & Libraries:** css (2), hit (1), generic (1), web (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **Tools:** firefox (6)
 > **CLI Commands:** make (3), find (1)
@@ -1688,7 +1688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), css (1), ai (1), next (1)
 > **Env Vars:** css (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1761,8 +1761,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** css (3), html (2)
-> **Code Keywords:** case, (2), let (1), this. (1)
 > **Analogies:** picture (2), just like (1)
 > **CLI Commands:** make (1)
 > **URLs:** [red30tech.com](https://red30tech.com) (1)
@@ -1773,7 +1773,7 @@ created: 2026-04-29
 
 ### 3. Beautiful Formatting for Print
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding paged media and CSS fragmentation properties
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/understanding-paged-media-and-css-fragmentation-properties?u=76281980)
@@ -1864,8 +1864,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (10), next (1)
 > **Env Vars:** css (10), mdn (2)
-> **Code Keywords:** let (2), super (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Documentation:** mdn (2)
 > **Analogies:** for example (2)
@@ -1980,7 +1980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), break, (3), switch (1), break. (1), this: (1)
+> **Frameworks & Libraries:** next (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[HTML]] (1), css (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** switch to (1), scroll down (1), go to (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -2074,8 +2074,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), product (1)
 > **Env Vars:** css (3), html (2)
-> **Code Keywords:** else, (1), let (1), this. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Tools:** vs code (1)
@@ -2196,9 +2196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), rag (2), [[Microsoft Word|Word]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** means that (4), is called (3), is a  (3), in other words (1)
 > **Tools:** firefox (4), safari (3)
-> **Code Keywords:** this, (1), let (1), this. (1)
 > **Env Vars:** mdn (2), html (1)
 > **Documentation:** mdn (2)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -2296,8 +2296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), css (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3), default, (1), this. (1)
 > **Definitions:** in other words (3), is an  (1)
 > **Env Vars:** css (2)
 > **Tools:** firefox (2)
@@ -2428,7 +2428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** next (4), web (2)
 > **Cross-References:** in the next (3)
 > **Tools:** safari (2), firefox (1)
 > **Analogies:** just like (2)
@@ -2515,7 +2515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), default, (1)
+> **Frameworks & Libraries:** css (2), web (1), next (1)
 > **Env Vars:** css (2)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** coming up (1)
@@ -2551,6 +2551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), next (1)
 > **Env Vars:** css (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2648,8 +2649,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1), web (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), class, (1), class. (1), case, (1)
 > **Tools:** firefox (4)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Env Vars:** css (1)
@@ -2660,7 +2661,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/next-steps-25762079?u=76281980)
@@ -2695,9 +2696,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), next (1)
 > **Env Vars:** css (6)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - hey (1)
 
 

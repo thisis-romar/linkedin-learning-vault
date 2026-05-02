@@ -28,7 +28,7 @@ tags:
   - topic/devops
   - topic/database-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/DevOps%20Foundations-%20Infrastructure%20as%20Code.md)
@@ -47,48 +47,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Make your systems better with infrastructure as code
-  - What you need to know
+  - [Make your systems better with infrastructure as code](#make-your-systems-better-with-infrastructure-as-code)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. The Wide World of Infrastructure**](#1-the-wide-world-of-infrastructure) (8 videos)
-  - It's all about the cloud
-  - Bare metal vs. cloud
-  - Not your mother's cloud
-  - Managed services vs. bare cloud
-  - Containers galore
-  - VMs vs. containers
-  - Where'd my server go?
-  - Serverless vs. servers
+  - [It's all about the cloud](#its-all-about-the-cloud)
+  - [Bare metal vs. cloud](#bare-metal-vs-cloud)
+  - [Not your mother's cloud](#not-your-mothers-cloud)
+  - [Managed services vs. bare cloud](#managed-services-vs-bare-cloud)
+  - [Containers galore](#containers-galore)
+  - [VMs vs. containers](#vms-vs-containers)
+  - [Where'd my server go?](#whered-my-server-go)
+  - [Serverless vs. servers](#serverless-vs-servers)
 - [**2. Adventures in Automation**](#2-adventures-in-automation) (5 videos)
-  - Building the boxes and lines
-  - Everything vs. Terraform
-  - What's in the box?
-  - Declarative vs. imperative
-  - Everything vs. immutable
+  - [Building the boxes and lines](#building-the-boxes-and-lines)
+  - [Everything vs. Terraform](#everything-vs-terraform)
+  - [What's in the box?](#whats-in-the-box)
+  - [Declarative vs. imperative](#declarative-vs-imperative)
+  - [Everything vs. immutable](#everything-vs-immutable)
 - [**3. Bringing It All Together**](#3-bringing-it-all-together) (7 videos)
-  - Provisioning lab overview
-  - AWS
-  - Terraform
-  - Ansible
-  - Docker
-  - Helm charts
-  - Serverless
+  - [Provisioning lab overview](#provisioning-lab-overview)
+  - [AWS](#aws)
+  - [Terraform](#terraform)
+  - [Ansible](#ansible)
+  - [Docker](#docker)
+  - [Helm charts](#helm-charts)
+  - [Serverless](#serverless)
 - [**4. With Great Power Comes Great Responsibility**](#4-with-great-power-comes-great-responsibility) (10 videos)
-  - What is infrastructure as code?
-  - Continuous integration for infrastructure
-  - Testing infrastructure
-  - Works on my machine
-  - You write it, you run it
-  - Automate all the things
-  - CI for my IaC
-  - The GitOps model
-  - Security and compliance as code
-  - Using AI to create your IaC
+  - [What is infrastructure as code?](#what-is-infrastructure-as-code)
+  - [Continuous integration for infrastructure](#continuous-integration-for-infrastructure)
+  - [Testing infrastructure](#testing-infrastructure)
+  - [Works on my machine](#works-on-my-machine)
+  - [You write it, you run it](#you-write-it-you-run-it)
+  - [Automate all the things](#automate-all-the-things)
+  - [CI for my IaC](#ci-for-my-iac)
+  - [The GitOps model](#the-gitops-model)
+  - [Security and compliance as code](#security-and-compliance-as-code)
+  - [Using AI to create your IaC](#using-ai-to-create-your-iac)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go from here
+  - [Where to go from here](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make your systems better with infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980)
@@ -127,8 +127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[DevOps]] (2)
 > **Speakers:** - and (2), - if (1), - or (1), - slow (1), - well (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** iac (1)
 
 #### What you need to know
@@ -160,6 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[DevOps]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Engineering]] (1), [[Programming]] (1)
 > **Tools:** command line (2), github (1)
 > **CLI Commands:** ssh (1), aws (1)
 > **Env Vars:** ssh (1), aws (1)
@@ -169,7 +170,7 @@ created: 2026-04-29
 
 ### 1. The Wide World of Infrastructure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### It's all about the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980)
@@ -242,8 +243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), data (4), [[SaaS]] (2), [[Google]] (2), [[Microsoft Azure]] (2)
 > **Env Vars:** ec2 (2), aws (1), api (1)
-> **Code Keywords:** self (1), public (1), this, (1)
 > **CLI Commands:** make (1), aws (1)
 > **Cross-References:** in the last (1), next video (1)
 > **Tools:** command line (1)
@@ -343,9 +344,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), [[Hardware]] (6), data (4), api (2), power (2)
 > **Speakers:** - okay (7), - well (2), - the (1), - [announcer] (1), - you (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** new, (1), super (1)
 > **Env Vars:** api (2)
 > **Versions:** 1.50 (1)
 > **Documentation:** spec (1)
@@ -401,9 +402,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), cloud (5), [[Microsoft Azure|Azure]] (5), [[Databases]] (3), [[Analytics]] (3)
 > **Env Vars:** dns (1), aws (1), gcp (1), oci (1), sql (1)
 > **CLI Commands:** mysql (1), aws (1), apache (1)
-> **Code Keywords:** let (1), require (1)
 > **Best Practices:** you should always (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - the (1)
@@ -481,8 +482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), database (6), [[Kubernetes]] (3), [[Engineering]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Speakers:** - okay (8), - but (3), - well (2), - managed (1), - [narrator] (1)
-> **Code Keywords:** let (1), super (1), public (1), case. (1)
 > **Env Vars:** api (1), faang (1), eks (1)
 > **Cross-References:** in the last (2)
 > **Analogies:** for example (2)
@@ -544,10 +545,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), web (2), cloud (1), application (1)
 > **CLI Commands:** docker (6), python (1), nginx (1)
 > **Definitions:** is a  (3), in other words (2), is an  (1)
 > **Env Vars:** posix (1), cri (1), nginx (1)
-> **Code Keywords:** this, (1)
 > **Ports:** port 80 (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
@@ -670,10 +671,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), application (3), [[Security]] (2), data (1), [[Java]] (1)
 > **Speakers:** - okay (6), - well (3), - right (2), - i (1), - [speaker] (1)
 > **CLI Commands:** docker (3), python (1), snap (1), find (1)
 > **Cross-References:** later in (1), next video (1)
-> **Code Keywords:** super (1)
 
 #### Where'd my server go?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980)
@@ -750,7 +751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), public (1), lambda (1), this. (1)
+> **Frameworks & Libraries:** web (5), application (3), [[Serverless Computing]] (2), cloud (2), api (2)
 > **Env Vars:** api (2), http (1), aws (1)
 > **CLI Commands:** apache (1), find (1), aws (1)
 > **Definitions:** is a  (2), means that (1)
@@ -888,8 +889,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), web (3), application (3), aws (2), [[Kubernetes]] (2)
 > **Speakers:** - okay (6), - well (4), - i (2), - [speaker] (1), - oh (1)
-> **Code Keywords:** let (3), lambda (2), this, (1)
 > **CLI Commands:** aws (2), make (1), node (1)
 > **Env Vars:** aws (2), api (1), http (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -897,7 +898,7 @@ created: 2026-04-29
 
 ### 2. Adventures in Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the boxes and lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980)
@@ -972,12 +973,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Amazon EC2|Ec2]] (4), aws (3), [[Automation]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** ec2 (4), aws (3), json (1), yaml (1), api (1)
 > **CLI Commands:** aws (3), python (2), nginx (1), terraform (1), make (1)
 > **Prerequisites:** configure (3)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), just like (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** next video (1)
 > **Tools:** command line (1)
 
@@ -1096,10 +1097,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (16), cloud (9), aws (3), api (2), [[Microsoft]] (1)
 > **CLI Commands:** terraform (16), aws (3), snap (2), make (1), find (1)
 > **Speakers:** - but (3), - so (3), - i (3), - ah (2), - well (2)
 > **Env Vars:** aws (3), api (2), cdk (1)
-> **Code Keywords:** module (2), public (1)
 > **Analogies:** for example (1)
 > **Warnings:** gotcha (1)
 
@@ -1176,8 +1177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Orchestration]] (4), cloud (3), [[Configuration Management]] (3), node (2)
 > **CLI Commands:** node (2), make (1), apache (1), yum (1), ansible (1)
-> **Code Keywords:** let (2), case, (1)
 > **Prerequisites:** install (3)
 > **Definitions:** known as (1), is a  (1)
 > **Env Vars:** rpm (1)
@@ -1330,9 +1331,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Configuration Management]] (4), [[Ansible]] (2), [[Orchestration]] (2), [[DevOps]] (1), database (1)
 > **Speakers:** - ah (4), - it (3), - i (2), - okay (2), - you (2)
 > **CLI Commands:** ansible (2), make (2), find (2), terraform (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
 
@@ -1509,9 +1510,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), database (3), [[DevOps]] (1), [[Microservices]] (1), [[MongoDB]] (1)
 > **Speakers:** - well (5), - okay (4), - i (3), - but (3), - and (2)
 > **CLI Commands:** make (6), docker (2), apache (2), snap (1), node (1)
-> **Code Keywords:** throw (4), let (2), this. (2), from. (1), case, (1)
 > **Env Vars:** vpc (2)
 > **Analogies:** for example (1), just like (1)
 > **Prerequisites:** install (2)
@@ -1521,7 +1522,7 @@ created: 2026-04-29
 
 ### 3. Bringing It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Provisioning lab overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980)
@@ -1566,10 +1567,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (3), cloud (3), [[Terraform]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Linux]] (2)
 > **CLI Commands:** ansible (3), terraform (2), ssh (2), aws (2)
 > **Prerequisites:** install (3), set up (2), configure (1), you'll need (1), setup (1)
 > **Env Vars:** ssh (2), aws (2), wsl2 (1)
-> **Code Keywords:** let (1), case, (1)
 > **Tools:** github (1)
 > **Speakers:** - in (1)
 
@@ -1692,9 +1693,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), [[Security]] (5), next (4), cloud (4), [[Amazon Web Services (AWS)|Amazon web services]] (2)
 > **CLI Commands:** aws (10), make (6), ssh (3), terraform (2)
 > **Env Vars:** aws (9), ssh (3), api (2), ec2 (2), cli (1)
-> **Code Keywords:** let (2), case, (1), interface (1), switch (1), from. (1)
 > **UI Navigation:** go to (2), in the sidebar (1), switch to (1), click on (1)
 > **Tools:** command line (2), aws console (1), terminal (1)
 > **Prerequisites:** set up (4)
@@ -1802,8 +1803,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (19), [[Kubernetes]] (6), aws (6), cloud (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2)
 > **CLI Commands:** terraform (19), aws (6), make (5)
-> **Code Keywords:** let (7), this, (2), finally, (1), public (1), this. (1)
 > **Env Vars:** aws (5), vpc (2), ec2 (1)
 > **Tools:** aws console (2), command line (1)
 > **Prerequisites:** set up (2), required to (1)
@@ -1934,8 +1935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (13), [[Kubernetes]] (11), [[Python (Programming Language)|Python]] (3), [[Terraform]] (3), [[Configuration Management]] (1)
 > **CLI Commands:** ansible (13), python (3), terraform (3), make (1), apt (1)
-> **Code Keywords:** let (12), pass (1), finally, (1)
 > **Prerequisites:** install (7), set up (3)
 > **Tools:** command line (2)
 > **Cross-References:** in the last (1)
@@ -2092,8 +2093,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), cloud (6), application (5), web application (3), next (3)
 > **CLI Commands:** docker (31), make (6)
-> **Code Keywords:** let (14), public (2), else, (1), this, (1), for. (1)
 > **Tools:** docker desktop (3), command line (3), vim (3), github (2)
 > **Env Vars:** arm (2), amd (2), amd64 (1)
 > **Cross-References:** go back to (3), in the next (1), we mentioned (1)
@@ -2278,8 +2279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Helm]] (23), cloud (7), application (5), [[Kubernetes]] (5), [[Microsoft Word|Word]] (5)
 > **CLI Commands:** nginx (7), make (7), docker (2), terraform (2), find (1)
-> **Code Keywords:** let (14), this, (2), this. (1)
 > **File Paths:** values.yaml (2), helm.sh (1), deployment.yaml (1)
 > **Env Vars:** iac (1), tar (1), amd (1), elb (1)
 > **Prerequisites:** configure (1), required to (1), install (1), set up (1)
@@ -2406,7 +2407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), lambda (3), function (2), this, (1), switch (1)
+> **Frameworks & Libraries:** application (9), aws (4), api (4), traffic (2), [[LinkedIn]] (2)
 > **Env Vars:** aws (4), api (3), http (3), url (2), sam (1)
 > **CLI Commands:** aws (4), node (1), terraform (1)
 > **Tools:** command line (3)
@@ -2418,7 +2419,7 @@ created: 2026-04-29
 
 ### 4. With Great Power Comes Great Responsibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is infrastructure as code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980)
@@ -2499,9 +2500,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (7), cloud (2), web (2), next (2), [[Automation]] (2)
 > **Speakers:** - we (3), - in (3), - so (3), - yeah (2), - by (1)
 > **CLI Commands:** docker (1), aws (1), terraform (1), cd (1)
-> **Code Keywords:** while, (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
 
@@ -2584,10 +2585,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (2), [[Java]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), application (1)
 > **CLI Commands:** docker (4), make (2), git (2), python (1), terraform (1)
 > **Tools:** bash (1), bitbucket (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** zip (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -2634,11 +2635,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (17), cloud (4), aws (3)
 > **CLI Commands:** terraform (17), make (4), aws (3)
 > **Env Vars:** aws (3), iac (1)
 > **Versions:** version 1 (2), version
 1 (1)
-> **Code Keywords:** let (1), module (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
@@ -2753,9 +2754,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), ci (1), cd (1), [[Troubleshooting]] (1), [[Git]] (1)
 > **Speakers:** - and (6), - ah (3), - yeah (3), - okay (3), - well (2)
 > **CLI Commands:** make (3), docker (2), cd (1), git (1)
-> **Code Keywords:** let (2), finally, (1), this. (1)
 > **Env Vars:** rpm (1), git (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -2854,8 +2855,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[DevOps]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Engineering]] (1), [[Google]] (1)
 > **Speakers:** - now (2), - that (2), - but (2), - yeah (2), - this (1)
-> **Code Keywords:** let (2), else. (1), case, (1)
 > **Env Vars:** sre (2), cicd (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** best practice (1)
@@ -2932,9 +2933,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[SaaS]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Dashboards]] (2), [[Security]] (1)
 > **Speakers:** - well (3), - the (2), - okay (1), - have (1), - all (1)
 > **Env Vars:** api (2), dns (1), cis (1)
-> **Code Keywords:** for, (1), let (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** terraform (1)
 > **Tools:** bash (1)
@@ -3080,8 +3081,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Microsoft Word|Word]] (3), cloud (3), ci (2), next (2)
 > **CLI Commands:** docker (16), make (3), terraform (1)
-> **Code Keywords:** let (10), this. (1)
 > **Tools:** github (8), slack (1), command line (1)
 > **Versions:** 3.17 (2), 3.16 (1)
 > **Documentation:** the documentation (1)
@@ -3184,10 +3185,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Kubernetes]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Orchestration]] (1)
 > **Speakers:** - gitops (4), - yeah (3), - [james] (3), - no (2), - okay (1)
 > **CLI Commands:** git (4), make (2), terraform (1), docker (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** ipads (1)
 > **Env Vars:** yaml (1)
 > **Analogies:** for example (1)
@@ -3314,9 +3315,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), [[Infrastructure as code (IaC)|Infrastructure as code]] (5), [[Terraform]] (4), teams (3), cloud (3)
 > **Env Vars:** ssh (4), opa (3), iac (2), dns (2), aws (2)
 > **CLI Commands:** terraform (4), ssh (4), make (2), aws (2), find (1)
-> **Code Keywords:** public (3), let (1), raise (1), module (1), case. (1)
 > **Analogies:** just like (2), for example (1), for instance (1), such as (1), picture (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Versions:** 0.0.0 (1)
@@ -3512,9 +3513,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[Security]] (9), [[Terraform]] (7), api (6), [[Microsoft Copilot|Copilot]] (5)
 > **CLI Commands:** docker (11), make (9), terraform (7), aws (2)
 > **Env Vars:** readme (8), api (6), mcp (3), aws (2), json (2)
-> **Code Keywords:** let (14), case, (2), this, (1)
 > **Documentation:** the readme (5)
 > **Prerequisites:** setup (3), set up (2)
 > **Tools:** vs code (3), github (1)
@@ -3524,7 +3525,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980)
@@ -3623,9 +3624,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (7), [[DevOps]] (2), [[Python (Programming Language)|Python]] (1), teams (1), product (1)
 > **Speakers:** - we (3), - yeah (2), - the (2), - but (2), - and (2)
 > **CLI Commands:** ruby (2), python (1), find (1)
-> **Code Keywords:** let (1), this. (1)
 > **Prerequisites:** required to (1), set up (1)
 > **Env Vars:** cis (1)
 > **Definitions:** is called (1)

@@ -28,7 +28,7 @@ tags:
   - skill/user-interface-prototyping
   - skill/figma-software
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Lo-Fi%20to%20Hi-Fi-%20Prototyping%20in%20Figma.md)
@@ -47,32 +47,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Going from wireframes to prototypes in Figma
-  - What you need to know
-  - Defining a problem statement
+  - [Going from wireframes to prototypes in Figma](#going-from-wireframes-to-prototypes-in-figma)
+  - [What you need to know](#what-you-need-to-know)
+  - [Defining a problem statement](#defining-a-problem-statement)
 - [**1. Low Fidelity**](#1-low-fidelity) (4 videos)
-  - Digital vs. physical wireframing mediums
-  - Selecting color schemes and visual elements
-  - Sketching for wireframing
-  - Finalizing low-fidelity wireframes
+  - [Digital vs. physical wireframing mediums](#digital-vs-physical-wireframing-mediums)
+  - [Selecting color schemes and visual elements](#selecting-color-schemes-and-visual-elements)
+  - [Sketching for wireframing](#sketching-for-wireframing)
+  - [Finalizing low-fidelity wireframes](#finalizing-low-fidelity-wireframes)
 - [**2. Medium Fidelity**](#2-medium-fidelity) (5 videos)
-  - Brush up on the basics
-  - Creating mid-fidelity mock-up
-  - Creating a prototype
-  - Usability testing
-  - Iterating with the help of key findings
+  - [Brush up on the basics](#brush-up-on-the-basics)
+  - [Creating mid-fidelity mock-up](#creating-mid-fidelity-mock-up)
+  - [Creating a prototype](#creating-a-prototype)
+  - [Usability testing](#usability-testing)
+  - [Iterating with the help of key findings](#iterating-with-the-help-of-key-findings)
 - [**3. High-Fidelity**](#3-high-fidelity) (5 videos)
-  - Preparing the layout for your high-fidelity mock-up
-  - Applying the key findings to your high-fidelity mock-up
-  - Designing your high-fidelity mock-up
-  - Developing functional prototypes
-  - Another round of usability testing
+  - [Preparing the layout for your high-fidelity mock-up](#preparing-the-layout-for-your-high-fidelity-mock-up)
+  - [Applying the key findings to your high-fidelity mock-up](#applying-the-key-findings-to-your-high-fidelity-mock-up)
+  - [Designing your high-fidelity mock-up](#designing-your-high-fidelity-mock-up)
+  - [Developing functional prototypes](#developing-functional-prototypes)
+  - [Another round of usability testing](#another-round-of-usability-testing)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and helpful resources
+  - [Next steps and helpful resources](#next-steps-and-helpful-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going from wireframes to prototypes in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** ux (2), product (2), [[Design Thinking]] (1), [[Prototyping]] (1), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
 > **Speakers:** - [tanvi] (1)
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Figma (Software)|Figma]] (2), [[Design Thinking]] (2), data (1), next (1)
 > **Tools:** figma (2)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -171,15 +172,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Thinking]] (2), data (2), ux (1)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Low Fidelity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital vs. physical wireframing mediums
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980)
@@ -242,8 +243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (4), product (3), ux (1), [[Design Thinking]] (1), teams (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Tools:** figma (1)
 > **Analogies:** think of it as (1)
@@ -468,7 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), interface (1), this. (1)
+> **Frameworks & Libraries:** product (29), next (7), [[Typography]] (7), business (2), ux (2)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Analogies:** for example (2), imagine (2), picture (1)
@@ -584,7 +585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), switch (1)
+> **Frameworks & Libraries:** [[Sketching]] (4), product (2), next (2), [[Figma (Software)|Figma]] (1), [[Search]] (1)
 > **Prerequisites:** you'll need (1), before you begin (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
@@ -756,7 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), [[Search]] (6), hit (4), [[Android]] (3), product (2)
 > **UI Navigation:** click on (3), select the (3), go to (3)
 > **Tools:** figma (7)
 > **CLI Commands:** make (4)
@@ -766,7 +767,7 @@ created: 2026-04-29
 
 ### 2. Medium Fidelity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Brush up on the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/brush-up-on-the-basics?u=76281980)
@@ -881,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), throw (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), feature (3), next (2), [[Search]] (1)
 > **UI Navigation:** select the (2), drag and drop (1), click on (1), go to (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** figma (3)
@@ -1158,7 +1159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), this, (3), super (2), this. (1), delete (1)
+> **Frameworks & Libraries:** next (7), [[Search]] (7), hit (2), [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
 > **UI Navigation:** go to (9), select the (5), click on (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -1368,7 +1369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), this. (2), case, (1)
+> **Frameworks & Libraries:** next (10), [[Search]] (5), hit (2), product (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (11), select the (4), go to (3), checkbox (2), navigate to (2)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3)
@@ -1488,8 +1489,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), product (4), [[Usability Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** this, (1), let (1), finally, (1)
 > **Definitions:** is a  (3)
 > **URLs:** [usertesting.com](https://usertesting.com) (1)
 > **Cross-References:** we discussed (1)
@@ -1586,8 +1587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), next (3)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1), is a  (1)
 > **Best Practices:** you should always (1), good practice (1)
@@ -1598,7 +1599,7 @@ created: 2026-04-29
 
 ### 3. High-Fidelity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing the layout for your high-fidelity mock-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980)
@@ -1641,7 +1642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Sketching]] (1), data (1), product (1), [[Figma (Software)|Figma]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Tools:** figma (1)
 > **UI Navigation:** go to (1)
@@ -1701,7 +1702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1), this, (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1), product (1)
 > **UI Navigation:** double-click (1), click on (1), go to (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
@@ -1906,7 +1907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (33), this, (8), delete (4), super (1), this. (1)
+> **Frameworks & Libraries:** product (2), next (2), [[Zoom]] (1), [[Microsoft Products|Products]] (1), [[Search]] (1)
 > **CLI Commands:** make (21), find (1)
 > **UI Navigation:** select the (9), go to (6), click on (3), scroll down (1)
 > **Non-Speech:** (keyboard typing) (6)
@@ -2145,7 +2146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), finally, (1), super (1), this. (1), function (1)
+> **Frameworks & Libraries:** next (7), [[Search]] (5), product (2), [[Figma (Software)|Figma]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **UI Navigation:** select the (8), checkbox (3), go to (2), navigate to (2), open the (1)
 > **CLI Commands:** make (6)
 > **Cross-References:** we discussed (1), go back to (1)
@@ -2192,7 +2193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), continue (1)
+> **Frameworks & Libraries:** product (8), next (1), feature (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** mvp (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2201,7 +2202,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and helpful resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980)
@@ -2290,7 +2291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (2), self (1)
+> **Frameworks & Libraries:** ux (5), next (3), [[Microsoft Products|Products]] (2), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** nng (1)

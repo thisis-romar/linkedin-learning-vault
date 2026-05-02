@@ -28,7 +28,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Introduction%20To%20Career%20Skills%20In%20Software%20Development.md)
@@ -47,65 +47,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Beginning your programming journey
+  - [Beginning your programming journey](#beginning-your-programming-journey)
 - [**1. Life as a Programmer**](#1-life-as-a-programmer) (4 videos)
-  - What do programmers do?
-  - A week in the life
-  - The biggest challenges
-  - Keeping your skills sharp
+  - [What do programmers do?](#what-do-programmers-do)
+  - [A week in the life](#a-week-in-the-life)
+  - [The biggest challenges](#the-biggest-challenges)
+  - [Keeping your skills sharp](#keeping-your-skills-sharp)
 - [**2. Software Development**](#2-software-development) (5 videos)
-  - What is software development?
-  - The software development process
-  - Explore the various roles in software development
-  - Tools used for software development
-  - Getting software to customers
+  - [What is software development?](#what-is-software-development)
+  - [The software development process](#the-software-development-process)
+  - [Explore the various roles in software development](#explore-the-various-roles-in-software-development)
+  - [Tools used for software development](#tools-used-for-software-development)
+  - [Getting software to customers](#getting-software-to-customers)
 - [**3. Tools of the Trade**](#3-tools-of-the-trade) (6 videos)
-  - Explore version control systems
-  - Tour various code repository services
-  - Introduction to libraries and frameworks
-  - Survey different types of IDEs
-  - How programmers use AI in their work
-  - Learn where to get help
+  - [Explore version control systems](#explore-version-control-systems)
+  - [Tour various code repository services](#tour-various-code-repository-services)
+  - [Introduction to libraries and frameworks](#introduction-to-libraries-and-frameworks)
+  - [Survey different types of IDEs](#survey-different-types-of-ides)
+  - [How programmers use AI in their work](#how-programmers-use-ai-in-their-work)
+  - [Learn where to get help](#learn-where-to-get-help)
 - [**4. Programming Languages**](#4-programming-languages) (6 videos)
-  - What is a programming language?
-  - Basic components of a programming language
-  - What is source code?
-  - Running source code
-  - Exploring variables
-  - Basic statements and expressions
+  - [What is a programming language?](#what-is-a-programming-language)
+  - [Basic components of a programming language](#basic-components-of-a-programming-language)
+  - [What is source code?](#what-is-source-code)
+  - [Running source code](#running-source-code)
+  - [Exploring variables](#exploring-variables)
+  - [Basic statements and expressions](#basic-statements-and-expressions)
 - [**5. Python Show and Tell**](#5-python-show-and-tell) (7 videos)
-  - Introduction to Python
-  - Basic Python syntax
-  - Saving data with Python
-  - Making decisions with Python
-  - Functions in Python
-  - Challenge: What's the output?
-  - Solution: What's the output?
+  - [Introduction to Python](#introduction-to-python)
+  - [Basic Python syntax](#basic-python-syntax)
+  - [Saving data with Python](#saving-data-with-python)
+  - [Making decisions with Python](#making-decisions-with-python)
+  - [Functions in Python](#functions-in-python)
+  - [Challenge: What's the output?](#challenge-whats-the-output)
+  - [Solution: What's the output?](#solution-whats-the-output)
 - [**6. Working with Python**](#6-working-with-python) (5 videos)
-  - Introduction to object-oriented programming
-  - Creating and using a class
-  - How to organize your code
-  - Adding modules to your programs
-  - How Python is used in the real world
+  - [Introduction to object-oriented programming](#introduction-to-object-oriented-programming)
+  - [Creating and using a class](#creating-and-using-a-class)
+  - [How to organize your code](#how-to-organize-your-code)
+  - [Adding modules to your programs](#adding-modules-to-your-programs)
+  - [How Python is used in the real world](#how-python-is-used-in-the-real-world)
 - [**7. Exploring Different Languages**](#7-exploring-different-languages) (6 videos)
-  - Statements and expressions across languages
-  - Exploring variables across languages
-  - Making decisions in code across languages
-  - Tech careers and their associated programming languages
-  - Challenge: Pick the language
-  - Solution: Pick the language
+  - [Statements and expressions across languages](#statements-and-expressions-across-languages)
+  - [Exploring variables across languages](#exploring-variables-across-languages)
+  - [Making decisions in code across languages](#making-decisions-in-code-across-languages)
+  - [Tech careers and their associated programming languages](#tech-careers-and-their-associated-programming-languages)
+  - [Challenge: Pick the language](#challenge-pick-the-language)
+  - [Solution: Pick the language](#solution-pick-the-language)
 - [**8. Your First Programming Job**](#8-your-first-programming-job) (5 videos)
-  - Explore the hiring process
-  - Building up your technical portfolio
-  - Writing your résumé
-  - Preparing for technical interviews
-  - How to be successful starting out
+  - [Explore the hiring process](#explore-the-hiring-process)
+  - [Building up your technical portfolio](#building-up-your-technical-portfolio)
+  - [Writing your résumé](#writing-your-rsum)
+  - [Preparing for technical interviews](#preparing-for-technical-interviews)
+  - [How to be successful starting out](#how-to-be-successful-starting-out)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beginning your programming journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/beginning-your-programming-journey?u=76281980)
@@ -142,6 +142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), game (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
@@ -149,7 +150,7 @@ created: 2026-04-29
 
 ### 1. Life as a Programmer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What do programmers do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980)
@@ -220,7 +221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** game (1), [[Security]] (1), [[Banking]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** y2k (2)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -309,7 +310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include, (1), let (1), finally, (1), require (1)
+> **Frameworks & Libraries:** feature (5), [[Debugging]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - a (1)
 
@@ -394,8 +395,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Programming]] (2), career (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** class, (1), let (1)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - programming (1)
@@ -467,7 +468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), continue (1)
+> **Frameworks & Libraries:** [[Programming]] (3), career (1), [[Cybersecurity]] (1), [[Mobile Development]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - marc (1)
@@ -475,7 +476,7 @@ created: 2026-04-29
 
 ### 2. Software Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is software development?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980)
@@ -530,8 +531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (4), [[Programming]] (3), [[Windows]] (2), application (2), [[Software Design]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), this, (1)
 > **Analogies:** such as (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - software (1)
@@ -631,9 +632,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (4), next (3), [[Microsoft]] (1), [[Windows]] (1), [[Requirements Gathering]] (1)
 > **Env Vars:** sdlc (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** known as (2)
 > **Analogies:** think of it as (1)
 > **Speakers:** - did (1)
@@ -701,7 +702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), business (2), product (2), [[User Experience (UX)|User experience]] (2), next (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - programmers (1)
 
@@ -756,7 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** management (5), [[Software Projects]] (3), next (2), [[Software Development]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - various (1)
 
@@ -829,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), this. (1), let (1)
+> **Frameworks & Libraries:** web (3), next (2), [[Software Development]] (2), mobile application (2), [[Software Deployment]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Env Vars:** url (1)
 > **UI Navigation:** go to (1)
@@ -839,7 +840,7 @@ created: 2026-04-29
 
 ### 3. Tools of the Trade
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore version control systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980)
@@ -912,10 +913,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (9), [[Git]] (4), teams (2), database (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (4), git (4), find (1)
 > **Env Vars:** vcs (3)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - programmers (1)
 
@@ -976,8 +977,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Code Review]] (4), [[Bitbucket]] (4), [[Version Control]] (2), [[Git]] (2)
 > **Tools:** github (7), bitbucket (4), jira (1)
-> **Code Keywords:** let (2), pass (1), finally, (1)
 > **CLI Commands:** git (2), find (1)
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - repository (1)
@@ -1045,8 +1046,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), [[Ktor]] (3), business (1), [[Software Development]] (1), [[Kotlin]] (1)
 > **CLI Commands:** make (3), python (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **File Paths:** next.js (1)
 > **Analogies:** think of it as (1)
@@ -1111,9 +1112,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Programming]] (2), application (1), [[Microsoft Word]] (1), [[JavaScript]] (1)
 > **Tools:** sublime (3), vs code (2), intellij (2), visual studio (1)
 > **Env Vars:** ide (4), idea (1)
-> **Code Keywords:** let (1), finally, (1), require (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** source code (1)
@@ -1152,7 +1153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[GitHub Copilot]] (1), [[ChatGPT]] (1), [[Debugging]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -1206,9 +1207,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Python (Programming Language)|Python]] (1), [[Kotlin]] (1), [[Slack]] (1)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Analogies:** for example (2), for instance (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [stackoverflow.com](https://stackoverflow.com) (1)
 > **Documentation:** the documentation (1)
 > **Tools:** slack (1)
@@ -1218,7 +1219,7 @@ created: 2026-04-29
 
 ### 4. Programming Languages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a programming language?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980)
@@ -1261,6 +1262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (9), [[JavaScript]] (1), [[Android]] (1), [[Kotlin]] (1), strengths (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
@@ -1334,7 +1336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Programming]] (7), [[JavaScript]] (3), [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (2), next (1)
 > **CLI Commands:** python (2)
 > **Analogies:** for instance (1), similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1384,8 +1386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Kotlin]] (1), [[Programming]] (1), [[Android]] (1)
 > **Exercise Files:** source code (3)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - programmers (1)
 
@@ -1430,8 +1432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Kotlin]] (1)
 > **Analogies:** for example (1), think of it as (1), just like (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - this (1)
 
 #### Exploring variables
@@ -1485,8 +1487,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), game (3), data (2), [[Microsoft Word|Word]] (2)
 > **Analogies:** for example (2), imagine (2)
-> **Code Keywords:** class, (1), this, (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
@@ -1550,7 +1552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Programming]] (4), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** ruby (1), make (1)
 > **Analogies:** for example (2)
@@ -1559,7 +1561,7 @@ created: 2026-04-29
 
 ### 5. Python Show and Tell
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-python?u=76281980)
@@ -1590,6 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (2), [[Java]] (1), [[JavaScript]] (1), web (1)
 > **CLI Commands:** python (7)
 > **Speakers:** - at (1)
 
@@ -1688,7 +1691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), next (3), [[Programming]] (2), hit (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1786,7 +1789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), for. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** python (4)
 > **Code Identifiers:** favorite_snack (2)
 > **Definitions:** means that (1)
@@ -1845,8 +1848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (5), make (2)
-> **Code Keywords:** if, (2), let (2), finally, (1), this, (1), switch (1)
 > **Code Identifiers:** having_fun (3)
 > **Analogies:** for example (1), think of it as (1)
 > **Definitions:** is called (1)
@@ -1971,7 +1974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (9), this. (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (4), [[Programming]] (2), [[Software Development]] (1), feature (1)
 > **Definitions:** is a  (3), stands for (1), short for (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** ide (2), dry (1)
@@ -1998,8 +2001,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (electronic music) (1)
 
@@ -2092,7 +2095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (2)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - are (1)
@@ -2101,7 +2104,7 @@ created: 2026-04-29
 
 ### 6. Working with Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-object-oriented-programming?u=76281980)
@@ -2160,7 +2163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (5), [[Programming]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1)
@@ -2293,7 +2296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (9), self (8), class. (6), class, (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** python (5), make (2)
 > **Code Identifiers:** favorite_toy (3)
 > **Definitions:** is a  (2)
@@ -2336,8 +2339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), application (2)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** module (2), finally, (1)
 > **Env Vars:** dry (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
@@ -2419,7 +2422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (6), let (4), function (3), import. (1), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), [[Programming]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), functional (1)
 > **CLI Commands:** python (3), make (2)
 > **Definitions:** is a  (1), means that (1)
 > **File Paths:** random.py (1)
@@ -2471,16 +2474,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Software Development]] (2), web (2), [[Django]] (2), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (9), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - python (1)
 
 
 ### 7. Exploring Different Languages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Statements and expressions across languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980)
@@ -2575,7 +2578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), finally, (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Programming]] (7), [[Python (Programming Language)|Python]] (2), next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** go to (1)
@@ -2628,7 +2631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1), const (1)
+> **Frameworks & Libraries:** [[Programming]] (3), [[JavaScript]] (3), [[Java]] (2), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), compare this to (1)
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -2670,8 +2673,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (3), [[Java]] (2), next (1), web (1)
 > **CLI Commands:** ruby (4), python (3)
-> **Code Keywords:** if. (1), let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2736,6 +2739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), career (4), [[Python (Programming Language)|Python]] (4), [[Java]] (3), web (3)
 > **CLI Commands:** python (4), ruby (1), php (1), find (1)
 > **Definitions:** is a  (3)
 > **Tools:** bash (1), powershell (1)
@@ -2766,8 +2770,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ruby (1), python (1), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -2829,14 +2833,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), const (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** [[Programming]] (3), next (2), [[Java]] (1), [[JavaScript]] (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (electronic music) (1)
 
 
 ### 8. Your First Programming Job
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the hiring process
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-hiring-process?u=76281980)
@@ -2904,7 +2908,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), public (1)
 > **Speakers:** - before (1)
 
 #### Building up your technical portfolio
@@ -2990,7 +2993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), public (1), require (1), new, (1)
+> **Frameworks & Libraries:** [[Programming]] (1), game (1), next (1), [[GitHub]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -3064,7 +3067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), try: (1)
+> **Frameworks & Libraries:** [[Android]] (3), [[Programming]] (2), job description (2), [[GitHub]] (2), [[LinkedIn]] (2)
 > **Env Vars:** url (2)
 > **Tools:** github (2)
 > **CLI Commands:** make (1)
@@ -3135,9 +3138,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), data (1), career (1), next (1), api (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Warnings:** heads up (1)
@@ -3205,15 +3208,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), career (2), [[Software Development]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** self (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980)
@@ -3242,6 +3245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - we (1)
 

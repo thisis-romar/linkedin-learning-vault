@@ -34,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/financial-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Getting%20Started%20with%20Python%20for%20Finance.md)
@@ -53,39 +53,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction
-  - What you should know
+  - [Introduction](#introduction)
+  - [What you should know](#what-you-should-know)
 - [**1. Loading Data and Visualizations**](#1-loading-data-and-visualizations) (6 videos)
-  - Loading data
-  - Line plots
-  - Resampling data
-  - Candlestick plot from scratch
-  - Challenge: Candlestick plot for 2019
-  - Solution: Candlestick plot for 2019
+  - [Loading data](#loading-data)
+  - [Line plots](#line-plots)
+  - [Resampling data](#resampling-data)
+  - [Candlestick plot from scratch](#candlestick-plot-from-scratch)
+  - [Challenge: Candlestick plot for 2019](#challenge-candlestick-plot-for-2019)
+  - [Solution: Candlestick plot for 2019](#solution-candlestick-plot-for-2019)
 - [**2. Calculations**](#2-calculations) (6 videos)
-  - Returns
-  - Plotting returns
-  - Cumulative returns
-  - Volatility
-  - Challenge: Plotting 30-day volatility
-  - Solution: Plotting 30-day volatility
+  - [Returns](#returns)
+  - [Plotting returns](#plotting-returns)
+  - [Cumulative returns](#cumulative-returns)
+  - [Volatility](#volatility)
+  - [Challenge: Plotting 30-day volatility](#challenge-plotting-30-day-volatility)
+  - [Solution: Plotting 30-day volatility](#solution-plotting-30-day-volatility)
 - [**3. Rolling Windows**](#3-rolling-windows) (4 videos)
-  - Creating moving averages
-  - Plotting moving averages
-  - Challenge: Exponential moving average
-  - Solution: Exponential moving average
+  - [Creating moving averages](#creating-moving-averages)
+  - [Plotting moving averages](#plotting-moving-averages)
+  - [Challenge: Exponential moving average](#challenge-exponential-moving-average)
+  - [Solution: Exponential moving average](#solution-exponential-moving-average)
 - [**4. Technical Analysis**](#4-technical-analysis) (5 videos)
-  - OBV
-  - Accumulation/distribution indicator
-  - Challenge: RSI
-  - Basic solution: RSI
-  - Optimized solution: RSI
+  - [OBV](#obv)
+  - [Accumulation/distribution indicator](#accumulationdistribution-indicator)
+  - [Challenge: RSI](#challenge-rsi)
+  - [Basic solution: RSI](#basic-solution-rsi)
+  - [Optimized solution: RSI](#optimized-solution-rsi)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980)
@@ -110,8 +110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (3), [[Financial Analysis]] (1), career (1), next (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
 #### What you should know
@@ -139,16 +139,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (4), [[Programming Concepts]] (1), web (1)
 > **CLI Commands:** python (4)
 > **Tools:** jupyter (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Loading Data and Visualizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980)
@@ -311,7 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (8), this. (1), pass (1)
+> **Frameworks & Libraries:** data (24), [[Pandas (Software)|Pandas]] (8), next (4), [[Python (Programming Language)|Python]] (2)
 > **Tools:** jupyter (6), colab (1)
 > **CLI Commands:** make (4), python (2)
 > **Documentation:** the documentation (3)
@@ -391,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), this. (2), this, (2), pass (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), data (4), next (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** spy (1)
@@ -488,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), this. (3), this, (1)
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (5), next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -664,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), pass (4), case, (4), super (1)
+> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (3), next (1), feature (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (4)
 > **Env Vars:** iloc (2), loc (2)
@@ -764,7 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), this, (2), case, (1)
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** loc (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -774,7 +774,7 @@ created: 2026-04-29
 
 ### 2. Calculations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Returns
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980)
@@ -843,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), function (1), this. (1), super (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), data (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** aapl (2), appl (1), pct (1)
 > **CLI Commands:** make (1), python (1), find (1)
 > **Documentation:** the documentation (3)
@@ -1014,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (4), function (3), pass (2), this. (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (12), next (2), data (1), feature (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Definitions:** is a  (3)
@@ -1212,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (11), this. (6), lambda (5), case, (3)
+> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (8), generic (3), product (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), find (1), python (1)
 > **Exercise Files:** source code (4)
 > **Versions:** 8.5 (2), 7.64 (1)
@@ -1382,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (6), this, (5), this. (2), super (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (4), [[Windows]] (2), next (2)
 > **Definitions:** is a  (7), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), such as (1)
@@ -1406,6 +1406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1501,7 +1502,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), this, (2), case, (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Documentation:** the documentation (1)
@@ -1512,7 +1512,7 @@ created: 2026-04-29
 
 ### 3. Rolling Windows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating moving averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980)
@@ -1611,7 +1611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), lambda (4), this, (1), let (1), interface (1)
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (4), [[Financial Data]] (1), next (1)
 > **Versions:** 7.64 (5), 7.65 (2), 6.74 (1), 7.649 (1), 7.611 (1)
 > **Env Vars:** nan (3), ma3 (3)
 > **CLI Commands:** make (1)
@@ -1712,7 +1712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), pass (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Pandas (Software)|Pandas]] (2), next (2), data (1)
 > **Env Vars:** iloc (3), ma3 (2), covid (1), ma200 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1746,6 +1746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 0.0392 (1), 0.00995 (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** ewm (1)
@@ -1903,7 +1904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (3), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (1), web (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** ewm (11), aapl (2)
 > **Versions:** 0.03 (1), 0.009 (1), 0.0392 (1), 0.0095 (1), 0.00995 (1)
 > **CLI Commands:** make (4)
@@ -1915,7 +1916,7 @@ created: 2026-04-29
 
 ### 4. Technical Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OBV
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980)
@@ -2120,7 +2121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (5), pass (4), function (4), this. (3)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), data (6), [[Python (Programming Language)|Python]] (4), next (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** obv (15)
 > **CLI Commands:** make (9), python (4)
 > **Versions:** 7.55 (4), 7.64 (2), 7.6 (2), 7.65 (1), 2.2 (1)
@@ -2226,7 +2227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (7), let (5), function (5), this. (4)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (4), next (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** mfm (6), cmfv (2), mfv (2)
 > **CLI Commands:** make (6), python (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2324,8 +2325,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Microsoft Excel|Excel]] (1), next (1)
 > **Env Vars:** rsi (4)
-> **Code Keywords:** function (1), let (1)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -2506,8 +2507,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (3), [[Python (Programming Language)|Python]] (2)
 > **Versions:** 0.06 (4), 0.24 (3), 0.25 (2), 0.22 (2), 0.10 (2)
-> **Code Keywords:** let (14), function (2), lambda (1), this. (1), pass (1)
 > **CLI Commands:** make (3), python (2)
 > **Env Vars:** rsi (3), qqq (2)
 > **Definitions:** is a  (2)
@@ -2630,7 +2631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), this, (3), function (2), throw (1)
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (4), [[Big Data]] (1)
 > **CLI Commands:** python (7), make (4)
 > **Versions:** 5.93 (3), 4.5 (2), 3.95 (1), python 3 (1), 4.52 (1)
 > **Definitions:** is a  (2), we call this (1)
@@ -2642,7 +2643,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980)
@@ -2683,8 +2684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (2), data (2), next (1), [[Financial Data]] (1)
 > **CLI Commands:** python (2), find (2), make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [matt] (1)
 
 

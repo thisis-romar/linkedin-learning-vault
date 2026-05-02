@@ -31,7 +31,7 @@ tags:
   - skill/itil
   - skill/problem-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20Problem%20Management%20Techniques.md)
@@ -50,67 +50,67 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Stand apart as a problem practitioner
-  - What is problem management?
-  - A consistent set of techniques
-  - What you'll learn
-  - How you'll learn it
-  - Building capacity
+  - [Stand apart as a problem practitioner](#stand-apart-as-a-problem-practitioner)
+  - [What is problem management?](#what-is-problem-management)
+  - [A consistent set of techniques](#a-consistent-set-of-techniques)
+  - [What you'll learn](#what-youll-learn)
+  - [How you'll learn it](#how-youll-learn-it)
+  - [Building capacity](#building-capacity)
 - [**1. Brainstorming**](#1-brainstorming) (6 videos)
-  - What is brainstorming, and why use it?
-  - Where and when to use brainstorming
-  - Brainstorming steps
-  - Brainstorming example
-  - You do it: Brainstorming
-  - Review it: Brainstorming
+  - [What is brainstorming, and why use it?](#what-is-brainstorming-and-why-use-it)
+  - [Where and when to use brainstorming](#where-and-when-to-use-brainstorming)
+  - [Brainstorming steps](#brainstorming-steps)
+  - [Brainstorming example](#brainstorming-example)
+  - [You do it: Brainstorming](#you-do-it-brainstorming)
+  - [Review it: Brainstorming](#review-it-brainstorming)
 - [**2. Cause-Effect Analysis**](#2-cause-effect-analysis) (6 videos)
-  - What is cause-effect analysis, and why use it?
-  - Where and when to use cause-effect analysis
-  - Steps in cause-effect analysis
-  - Example of cause-effect analysis
-  - You do it: Cause-effect analysis
-  - Review it: Cause-effect analysis
+  - [What is cause-effect analysis, and why use it?](#what-is-cause-effect-analysis-and-why-use-it)
+  - [Where and when to use cause-effect analysis](#where-and-when-to-use-cause-effect-analysis)
+  - [Steps in cause-effect analysis](#steps-in-cause-effect-analysis)
+  - [Example of cause-effect analysis](#example-of-cause-effect-analysis)
+  - [You do it: Cause-effect analysis](#you-do-it-cause-effect-analysis)
+  - [Review it: Cause-effect analysis](#review-it-cause-effect-analysis)
 - [**3. Kepner-Tregoe Root Cause Analysis (RCA)**](#3-kepner-tregoe-root-cause-analysis-rca) (6 videos)
-  - What is Kepner-Tregoe RCA, and why use it?
-  - Where and when to use Kepner-Tregoe RCA
-  - Steps in Kepner-Tregoe RCA
-  - Example of Kepner-Tregoe RCA
-  - You do it: Kepner-Tregoe RCA
-  - Review it: Kepner-Tregoe RCA
+  - [What is Kepner-Tregoe RCA, and why use it?](#what-is-kepner-tregoe-rca-and-why-use-it)
+  - [Where and when to use Kepner-Tregoe RCA](#where-and-when-to-use-kepner-tregoe-rca)
+  - [Steps in Kepner-Tregoe RCA](#steps-in-kepner-tregoe-rca)
+  - [Example of Kepner-Tregoe RCA](#example-of-kepner-tregoe-rca)
+  - [You do it: Kepner-Tregoe RCA](#you-do-it-kepner-tregoe-rca)
+  - [Review it: Kepner-Tregoe RCA](#review-it-kepner-tregoe-rca)
 - [**4. Fault Tree Analysis (FTA)**](#4-fault-tree-analysis-fta) (6 videos)
-  - What is fault tree analysis, and why use it?
-  - Where and when to use fault tree analysis
-  - Steps in fault tree analysis
-  - Example of fault tree analysis
-  - You do it: Fault tree analysis
-  - Review it: Fault tree analysis
+  - [What is fault tree analysis, and why use it?](#what-is-fault-tree-analysis-and-why-use-it)
+  - [Where and when to use fault tree analysis](#where-and-when-to-use-fault-tree-analysis)
+  - [Steps in fault tree analysis](#steps-in-fault-tree-analysis)
+  - [Example of fault tree analysis](#example-of-fault-tree-analysis)
+  - [You do it: Fault tree analysis](#you-do-it-fault-tree-analysis)
+  - [Review it: Fault tree analysis](#review-it-fault-tree-analysis)
 - [**5. Component Failure Impact Analysis (CFIA)**](#5-component-failure-impact-analysis-cfia) (6 videos)
-  - What is CFIA, and why use it?
-  - Where and when to use CFIA
-  - Steps in CFIA
-  - Example of CFIA
-  - You do it: CFIA
-  - Review it: CFIA
+  - [What is CFIA, and why use it?](#what-is-cfia-and-why-use-it)
+  - [Where and when to use CFIA](#where-and-when-to-use-cfia)
+  - [Steps in CFIA](#steps-in-cfia)
+  - [Example of CFIA](#example-of-cfia)
+  - [You do it: CFIA](#you-do-it-cfia)
+  - [Review it: CFIA](#review-it-cfia)
 - [**6. Service Outage Analysis (SOA)**](#6-service-outage-analysis-soa) (6 videos)
-  - What is SOA, and why use it?
-  - Where and when to use SOA
-  - Steps in SOA
-  - Example of SOA
-  - You do it: SOA
-  - Review it: SOA
+  - [What is SOA, and why use it?](#what-is-soa-and-why-use-it)
+  - [Where and when to use SOA](#where-and-when-to-use-soa)
+  - [Steps in SOA](#steps-in-soa)
+  - [Example of SOA](#example-of-soa)
+  - [You do it: SOA](#you-do-it-soa)
+  - [Review it: SOA](#review-it-soa)
 - [**7. Problem Review (PIR)**](#7-problem-review-pir) (6 videos)
-  - What is a problem review, and why use one?
-  - Where and when to use a problem review
-  - Steps in a problem review
-  - Example of a problem review
-  - You do it: Problem review
-  - Review it: Problem review
+  - [What is a problem review, and why use one?](#what-is-a-problem-review-and-why-use-one)
+  - [Where and when to use a problem review](#where-and-when-to-use-a-problem-review)
+  - [Steps in a problem review](#steps-in-a-problem-review)
+  - [Example of a problem review](#example-of-a-problem-review)
+  - [You do it: Problem review](#you-do-it-problem-review)
+  - [Review it: Problem review](#review-it-problem-review)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further your problem management journey
+  - [Further your problem management journey](#further-your-problem-management-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stand apart as a problem practitioner
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980)
@@ -133,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (2), teams (1), [[ITIL]] (1), career (1)
 > **Env Vars:** itil (1)
 > **Speakers:** - isn (1)
 
@@ -193,9 +194,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (2), [[Problem Management]] (2), [[React.js|React]] (1), [[Microsoft Word|Word]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** itil (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** caution (1)
@@ -250,7 +251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), require (1)
+> **Frameworks & Libraries:** [[Probability]] (2), business (1), [[Problem Management]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -316,9 +317,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (2), next (1), power (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -375,8 +376,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), power (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Building capacity
@@ -430,13 +431,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (3), teams (1), power (1), hit (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Brainstorming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is brainstorming, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-brainstorming-and-why-use-it?u=76281980)
@@ -473,7 +475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - brainstorming (1)
 
@@ -538,6 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Problem Management]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -720,6 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Accountability]] (1), teams (1), [[Dashboards]] (1), [[Trello]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -826,8 +830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Problem Management]] (2), leadership (2), [[DevOps]] (1), database (1)
 > **Env Vars:** sla (3), api (1), dns (1), dhcp (1)
-> **Code Keywords:** case, (2), let (1), class. (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
@@ -863,7 +867,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review it: Brainstorming
@@ -939,6 +942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Problem Management]] (2), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -947,7 +951,7 @@ created: 2026-04-29
 
 ### 2. Cause-Effect Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cause-effect analysis, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cause-effect-analysis-and-why-use-it?u=76281980)
@@ -1042,9 +1046,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), teams (1), strengths (1), [[React.js|React]] (1)
 > **Analogies:** picture (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1195,6 +1199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), hit (1), [[Accountability]] (1), management (1), [[Trello]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -1322,9 +1327,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), next (2), [[DevOps]] (1), database (1), [[Dashboards]] (1)
 > **Code Identifiers:** iscsi (3)
 > **Env Vars:** san (2), cto (1)
-> **Code Keywords:** let (1), case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### You do it: Cause-effect analysis
@@ -1372,6 +1377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2)
 > **Speakers:** - [narrator] (1)
 
 #### Review it: Cause-effect analysis
@@ -1473,8 +1479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
@@ -1482,7 +1488,7 @@ created: 2026-04-29
 
 ### 3. Kepner-Tregoe Root Cause Analysis (RCA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Kepner-Tregoe RCA, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-kepner-tregoe-rca-and-why-use-it?u=76281980)
@@ -1525,8 +1531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** return. (1)
 > **Speakers:** - you (1)
 
 #### Where and when to use Kepner-Tregoe RCA
@@ -1582,6 +1588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), data (1), management (1)
 > **Speakers:** - [instructor] (1)
 
 #### Steps in Kepner-Tregoe RCA
@@ -1799,7 +1806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), finally, (1), function (1)
+> **Frameworks & Libraries:** next (2), data (2)
 > **CLI Commands:** find (2), make (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -1907,8 +1914,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[Hardware]] (3), business (2), leadership (2), [[Engineering]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** swat (1)
 > **Tools:** colab (1)
 > **Exercise Files:** template (1)
@@ -2034,6 +2041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), next (4), [[Problem Management]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2041,7 +2049,7 @@ created: 2026-04-29
 
 ### 4. Fault Tree Analysis (FTA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is fault tree analysis, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-fault-tree-analysis-and-why-use-it?u=76281980)
@@ -2074,6 +2082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
@@ -2158,7 +2167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (1)
+> **Frameworks & Libraries:** [[Troubleshooting]] (1), [[Automation]] (1)
 > **Analogies:** for instance (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -2356,7 +2365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), continue (1), break. (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[Probability]] (7), power (5), next (3), teams (2), [[Dashboards]] (2)
 > **Analogies:** for example (5), such as (2), for instance (1)
 > **Env Vars:** san (1), lan (1), xor (1), inhibit (1)
 > **Prerequisites:** required to (1), set up (1)
@@ -2492,7 +2501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), require (1), interface (1), this. (1)
+> **Frameworks & Libraries:** [[SharePoint]] (4), dns (4), [[Probability]] (3), teams (2), [[Security]] (1)
 > **Env Vars:** dns (4), sql (1), roi (1)
 > **CLI Commands:** make (1)
 > **Tools:** colab (1)
@@ -2622,8 +2631,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Troubleshooting]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
@@ -2631,7 +2640,7 @@ created: 2026-04-29
 
 ### 5. Component Failure Impact Analysis (CFIA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is CFIA, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cfia-and-why-use-it?u=76281980)
@@ -2672,6 +2681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Env Vars:** cfia (1)
 > **Speakers:** - look (1)
 
@@ -2742,6 +2752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Databases]] (2), power (1), business (1), [[Prototyping]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2906,9 +2917,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (8), data (4), ci (1), [[Hardware]] (1), next (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Prerequisites:** setup (1), required to (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** make sure to (1)
@@ -3035,8 +3046,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), teams (2), [[SharePoint]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **Env Vars:** scs (1), erp (1), sql (1), dns (1), roi (1)
-> **Code Keywords:** let (1), this, (1), require (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** earlier in (1)
 > **Tools:** colab (1)
@@ -3170,9 +3181,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** cfia (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** reference guide (1)
 > **Speakers:** - [instructor] (1)
@@ -3180,7 +3191,7 @@ created: 2026-04-29
 
 ### 6. Service Outage Analysis (SOA)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SOA, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-soa-and-why-use-it?u=76281980)
@@ -3221,6 +3232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), business (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - service (1)
 
@@ -3273,6 +3285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Incident Response]] (1), next (1), [[Automation]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
@@ -3407,9 +3420,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (3), functional (1), product (1), application (1)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** require (1), let (1)
 > **Best Practices:** good practice (1), rule of thumb (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** select the (1)
@@ -3532,8 +3545,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[Microsoft Azure|Azure]] (7), [[Microsoft Entra ID|Azure ad]] (6), next (4), [[SharePoint]] (2)
 > **Env Vars:** dns (8), vlan (1)
-> **Code Keywords:** let (1), switch (1)
 > **Tools:** colab (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -3574,6 +3587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [narrator] (1)
 
 #### Review it: SOA
@@ -3669,8 +3683,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), teams (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** soa (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -3680,7 +3694,7 @@ created: 2026-04-29
 
 ### 7. Problem Review (PIR)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a problem review, and why use one?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-a-problem-review-and-why-use-one?u=76281980)
@@ -3723,6 +3737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), teams (2), strengths (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
 
@@ -3825,8 +3840,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (2), teams (1), strengths (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **Speakers:** - [narrator] (1)
 
 #### Steps in a problem review
@@ -4002,8 +4017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (5), teams (2), business (1), [[Accountability]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** for. (1), require (1), finally, (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -4199,8 +4214,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), teams (5), [[Microsoft Entra ID|Azure ad]] (4), business (3), next (3)
 > **Env Vars:** vlan (11), cmdv (1)
-> **Code Keywords:** finally, (2), let (1), switch (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -4233,6 +4248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (2), data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4317,14 +4333,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** teams (3), data (2), management (1), next (1), [[Problem Management]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further your problem management journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980)
@@ -4405,9 +4421,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (4), business (2), [[LinkedIn]] (2), next (1), teams (1)
 > **Env Vars:** ideo (1), asq (1), nasa (1), mit (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - congratulations (1)
 
 

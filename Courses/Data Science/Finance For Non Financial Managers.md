@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/finance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Finance%20For%20Non%20Financial%20Managers.md)
@@ -43,43 +43,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - How to make wiser business decisions
-  - Don’t fear the numbers
+  - [How to make wiser business decisions](#how-to-make-wiser-business-decisions)
+  - [Don’t fear the numbers](#dont-fear-the-numbers)
 - [**1. Finance and Accounting Basics**](#1-finance-and-accounting-basics) (3 videos)
-  - The purpose of finance
-  - Entrepreneurs, investors, and facilitators
-  - What is accounting?
+  - [The purpose of finance](#the-purpose-of-finance)
+  - [Entrepreneurs, investors, and facilitators](#entrepreneurs-investors-and-facilitators)
+  - [What is accounting?](#what-is-accounting)
 - [**2. Most Common Financial Reports**](#2-most-common-financial-reports) (4 videos)
-  - Overview of the financial statements
-  - What to look for in a balance sheet
-  - Overview of the income statement
-  - Interpreting the statement of cash flows
+  - [Overview of the financial statements](#overview-of-the-financial-statements)
+  - [What to look for in a balance sheet](#what-to-look-for-in-a-balance-sheet)
+  - [Overview of the income statement](#overview-of-the-income-statement)
+  - [Interpreting the statement of cash flows](#interpreting-the-statement-of-cash-flows)
 - [**3. Techniques for Using Financial Reports**](#3-techniques-for-using-financial-reports) (5 videos)
-  - What is financial ratio analysis?
-  - Calculating return on equity
-  - A deeper look at the DuPont framework’s three components
-  - The DuPont framework: Walmart and Target
-  - What is the next step in the analysis?
+  - [What is financial ratio analysis?](#what-is-financial-ratio-analysis)
+  - [Calculating return on equity](#calculating-return-on-equity)
+  - [A deeper look at the DuPont framework’s three components](#a-deeper-look-at-the-dupont-frameworks-three-components)
+  - [The DuPont framework: Walmart and Target](#the-dupont-framework-walmart-and-target)
+  - [What is the next step in the analysis?](#what-is-the-next-step-in-the-analysis)
 - [**4. Short-Term Financial Management**](#4-short-term-financial-management) (3 videos)
-  - Managing cash through the operating cycle
-  - Strategies for cash management
-  - Managing receivables and inventory
+  - [Managing cash through the operating cycle](#managing-cash-through-the-operating-cycle)
+  - [Strategies for cash management](#strategies-for-cash-management)
+  - [Managing receivables and inventory](#managing-receivables-and-inventory)
 - [**5. Costing a Product or Service**](#5-costing-a-product-or-service) (2 videos)
-  - Considering costs: Fixed, variable, and contribution margin
-  - How to calculate your break-even point
+  - [Considering costs: Fixed, variable, and contribution margin](#considering-costs-fixed-variable-and-contribution-margin)
+  - [How to calculate your break-even point](#how-to-calculate-your-break-even-point)
 - [**6. Creating a Budget**](#6-creating-a-budget) (2 videos)
-  - Drafting a budget
-  - Review of the budgeting steps
+  - [Drafting a budget](#drafting-a-budget)
+  - [Review of the budgeting steps](#review-of-the-budgeting-steps)
 - [**7. Income Tax Basics**](#7-income-tax-basics) (3 videos)
-  - Understanding income taxes
-  - Tax brackets, average tax rate, and marginal tax rate
-  - Tax deductions and tax credits
+  - [Understanding income taxes](#understanding-income-taxes)
+  - [Tax brackets, average tax rate, and marginal tax rate](#tax-brackets-average-tax-rate-and-marginal-tax-rate)
+  - [Tax deductions and tax credits](#tax-deductions-and-tax-credits)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make wiser business decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/how-to-make-wiser-business-decisions?u=76281980)
@@ -114,8 +114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3)
 > **Speakers:** - and (2), - do (1), - some (1), - well (1), - but (1)
-> **Code Keywords:** let (1)
 
 #### Don’t fear the numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/don-t-fear-the-numbers?u=76281980)
@@ -164,7 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), while. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), power (1), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
@@ -172,7 +172,7 @@ created: 2026-04-29
 
 ### 1. Finance and Accounting Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/the-purpose-of-finance?u=76281980)
@@ -273,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (1), business (1)
 > **Speakers:** - [instructor (9), - numbers (3), - and (3), - you (2), - now (2)
-> **Code Keywords:** let (6), this. (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1)
 
@@ -351,7 +351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), else. (1), private (1), function (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
@@ -459,8 +459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** public (1), let (1), raise (1), finally, (1), for. (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** aicpa (1)
 > **Analogies:** such as (1)
@@ -469,7 +469,7 @@ created: 2026-04-29
 
 ### 2. Most Common Financial Reports
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980)
@@ -550,9 +550,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Financial Statements]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Speakers:** - [speaker (15), - finance (1), - to (1), - now (1), - for (1)
 > **Definitions:** is a  (4), is called (2), defined as (1)
-> **Code Keywords:** let (1), private (1)
 > **Analogies:** for example (1), such as (1)
 
 #### What to look for in a balance sheet
@@ -680,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), this. (1)
+> **Frameworks & Libraries:** business (7)
 > **Definitions:** is a  (2), is called (2), is an  (1), we call this (1)
 > **Versions:** 2.5 (1)
 > **Analogies:** such as (1)
@@ -811,8 +811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), [[Microsoft]] (2), [[Hardware]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1), defined as (1)
 > **Speakers:** - the (1)
 
@@ -927,14 +927,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** business (5), [[Financial Statements]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - the (1)
 
 
 ### 3. Techniques for Using Financial Reports
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is financial ratio analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980)
@@ -1027,9 +1027,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ratio Analysis]] (3), [[Financial Statements]] (3)
 > **Speakers:** - [instructor] (5), - [instructor (5), - when (2), - we (2), - so (2)
 > **Versions:** 1.8 (3), 2.5 (2), 11.3 (1), 243.2 (1), 159.4 (1)
-> **Code Keywords:** let (5), continue (1), this, (1), this. (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1122,9 +1122,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Financial Statement Analysis]] (1), [[Microsoft]] (1)
 > **Versions:** 9.3 (2), 20.3 (2), 9.30 (1), 20.30 (1), 13.5 (1)
 > **Definitions:** is a  (4), in other words (2), known as (1), means that (1)
-> **Code Keywords:** let (5), return. (1), module (1)
 > **Env Vars:** roe (6)
 > **Cross-References:** in the next (1)
 > **Speakers:** - return (1)
@@ -1220,9 +1220,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Financial Statement Analysis]] (1), [[LinkedIn]] (1)
 > **Versions:** 9.3 (2), 20.3 (2), 1.38 (1), 1.70 (1), 3.50 (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (2), module (1)
 > **Env Vars:** roe (3)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - the (1)
@@ -1296,8 +1296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (1), business (1)
 > **Versions:** 13.5 (2), 24.8 (2), 13.50 (1), 24.80 (1), 1.80 (1)
-> **Code Keywords:** let (2), this. (1), finally, (1)
 > **Env Vars:** roe (4)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** find (1)
@@ -1382,9 +1382,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Financial Statements]] (1), business (1), data (1)
 > **Versions:** 9.3 (1), 20.3 (1), 3.5 (1), 6.2 (1)
 > **Env Vars:** roe (3)
-> **Code Keywords:** let (1), this. (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
@@ -1392,7 +1392,7 @@ created: 2026-04-29
 
 ### 4. Short-Term Financial Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing cash through the operating cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/managing-cash-through-the-operating-cycle?u=76281980)
@@ -1479,9 +1479,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), product (1), management (1), data (1), prompt (1)
 > **Speakers:** - [host (4), - now (3), - if (2), - so (2), - numbers (1)
 > **Definitions:** in other words (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 
@@ -1574,11 +1574,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), management (2), next (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), such as (2)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - why (1)
 
 #### Managing receivables and inventory
@@ -1672,8 +1672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (2), continue (1), else, (1), case, (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - consider (1)
@@ -1681,7 +1681,7 @@ created: 2026-04-29
 
 ### 5. Costing a Product or Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Considering costs: Fixed, variable, and contribution margin
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/considering-costs-fixed-variable-and-contribution-margin?u=76281980)
@@ -1782,9 +1782,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), product (3)
 > **Speakers:** - the (3), - well (3), - now (2), - and (2), - that (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), raise (1)
 > **Versions:** 1.50 (3)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
@@ -1879,8 +1879,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9)
 > **Versions:** 1.50 (4), 0.50 (1), 8.4 (1)
-> **Code Keywords:** let (3), this, (1)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
@@ -1888,7 +1888,7 @@ created: 2026-04-29
 
 ### 6. Creating a Budget
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Drafting a budget
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/drafting-a-budget?u=76281980)
@@ -1975,8 +1975,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **Speakers:** - [host (10), - but (2), - nobody (1), - how (1), - let (1)
-> **Code Keywords:** let (8)
 > **Versions:** 4.25 (2)
 > **CLI Commands:** make (1)
 
@@ -2037,15 +2037,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
 
 ### 7. Income Tax Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding income taxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/understanding-income-taxes?u=76281980)
@@ -2110,11 +2110,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [earl] (3), - now (2), - even (1), - taxes (1), - it (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** finally, (1)
 
 #### Tax brackets, average tax rate, and marginal tax rate
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/tax-brackets?u=76281980)
@@ -2225,8 +2225,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), feature (1)
 > **CLI Commands:** make (12)
-> **Code Keywords:** case, (3), raise (2), let (1)
 > **Tools:** notion (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -2333,7 +2333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), return, (1)
+> **Frameworks & Libraries:** business (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ira (1)
 > **Definitions:** is a  (1)
@@ -2342,7 +2342,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/next-steps?u=76281980)
@@ -2383,9 +2383,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (1), [[Human Resources (HR)|Human resources]] (1), application (1)
 > **Speakers:** - numbers (2), - whew (1), - yeah (1), - okay (1), - first (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 
 
 ## Resources

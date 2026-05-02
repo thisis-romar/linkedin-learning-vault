@@ -32,7 +32,7 @@ tags:
   - skill/confluence
   - skill/jira
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Increasing%20Efficiency%20with%20Jira%20and%20Confluence%20Integrations.md)
@@ -51,38 +51,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Using Jira and Confluence together
-  - Who is this course for?
-  - What do you need for this course?
-  - Important terms and definitions
+  - [Using Jira and Confluence together](#using-jira-and-confluence-together)
+  - [Who is this course for?](#who-is-this-course-for)
+  - [What do you need for this course?](#what-do-you-need-for-this-course)
+  - [Important terms and definitions](#important-terms-and-definitions)
 - [**1. Managing Work in Jira and Confluence**](#1-managing-work-in-jira-and-confluence) (5 videos)
-  - Tracking work in Jira
-  - Collaborating in Confluence
-  - Application similarities and differences
-  - Benefits and common connection points
-  - Course use case
+  - [Tracking work in Jira](#tracking-work-in-jira)
+  - [Collaborating in Confluence](#collaborating-in-confluence)
+  - [Application similarities and differences](#application-similarities-and-differences)
+  - [Benefits and common connection points](#benefits-and-common-connection-points)
+  - [Course use case](#course-use-case)
 - [**2. Setting Up and Connecting Applications**](#2-setting-up-and-connecting-applications) (6 videos)
-  - Creating applications
-  - Connecting applications
-  - Organizing information
-  - Creating Jira projects
-  - Creating Confluence spaces
-  - Connecting projects and spaces
+  - [Creating applications](#creating-applications)
+  - [Connecting applications](#connecting-applications)
+  - [Organizing information](#organizing-information)
+  - [Creating Jira projects](#creating-jira-projects)
+  - [Creating Confluence spaces](#creating-confluence-spaces)
+  - [Connecting projects and spaces](#connecting-projects-and-spaces)
 - [**3. Using Confluence and Jira Together**](#3-using-confluence-and-jira-together) (8 videos)
-  - Course use case set up
-  - Linking issues to pages
-  - Linking pages to issues
-  - Creating issues from pages
-  - Creating issues from tables
-  - Creating Jira reports in Confluence
-  - Configuring a knowledge base
-  - Using Atlassian Intelligence
+  - [Course use case set up](#course-use-case-set-up)
+  - [Linking issues to pages](#linking-issues-to-pages)
+  - [Linking pages to issues](#linking-pages-to-issues)
+  - [Creating issues from pages](#creating-issues-from-pages)
+  - [Creating issues from tables](#creating-issues-from-tables)
+  - [Creating Jira reports in Confluence](#creating-jira-reports-in-confluence)
+  - [Configuring a knowledge base](#configuring-a-knowledge-base)
+  - [Using Atlassian Intelligence](#using-atlassian-intelligence)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional resources for Jira and Confluence learning
+  - [Additional resources for Jira and Confluence learning](#additional-resources-for-jira-and-confluence-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Jira and Confluence together
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980)
@@ -101,6 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), [[Atlassian]] (1), [[Confluence]] (1), teams (1), [[LinkedIn]] (1)
 > **Tools:** jira (3), confluence (1)
 > **Speakers:** - the (1)
 
@@ -141,9 +142,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (4), cloud (3), application (2), [[Microsoft Products|Products]] (2)
 > **Tools:** jira (10), confluence (4), bitbucket (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** type. (1)
 > **Speakers:** - you (1)
 
 #### What do you need for this course?
@@ -197,6 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (4), [[Confluence]] (4), next (2), application (2), [[User Experience (UX)|User experience]] (1)
 > **Tools:** jira (4), confluence (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
@@ -427,10 +429,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (37), [[Atlassian]] (17), [[Confluence]] (15), application (8), [[Microsoft Products|Products]] (8)
 > **Tools:** jira (37), confluence (15), bitbucket (1)
 > **Definitions:** is a  (14), is an  (1), in other words (1)
 > **Env Vars:** jql (4), jsm (3), jira (3), url (3)
-> **Code Keywords:** finally, (3), type. (2), self (2), interface (1), function (1)
 > **URLs:** [atlassian.net](https://atlassian.net) (2), [company.com](https://company.com) (2), [external-vendor.com](https://external-vendor.com) (2), [atlassian.com](https://atlassian.com) (1)
 > **Analogies:** for example (4), similar to (1)
 > **Cross-References:** later in (1), in the next (1)
@@ -439,7 +441,7 @@ created: 2026-04-29
 
 ### 1. Managing Work in Jira and Confluence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tracking work in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980)
@@ -544,8 +546,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (19), management (9), teams (8), [[Software Development]] (3), hr (3)
 > **Tools:** jira (19)
-> **Code Keywords:** type, (1), finally, (1), function (1), self (1), interface (1)
 > **Env Vars:** jsm (4)
 > **Analogies:** for example (3), just like (1)
 > **UI Navigation:** select the (3)
@@ -611,9 +613,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Confluence]] (10), [[Jira]] (2), [[Google]] (1), hr (1), product (1)
 > **Tools:** confluence (10), jira (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** type. (1)
 > **Env Vars:** jsm (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - in (1)
@@ -775,8 +777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (22), [[Confluence]] (14), application (13), management (7), teams (6)
 > **Tools:** jira (22), confluence (14), bitbucket (1)
-> **Code Keywords:** finally, (3), let (1), switch (1)
 > **Analogies:** for example (4)
 > **Env Vars:** jsm (3)
 > **CLI Commands:** find (1), make (1)
@@ -897,8 +899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (19), [[Confluence]] (15), application (5), [[Atlassian]] (2), next (2)
 > **Tools:** jira (19), confluence (15)
-> **Code Keywords:** let (2), finally, (2), switch (2), else. (1), self (1)
 > **Analogies:** just like (2)
 > **Env Vars:** jsm (1)
 > **Exercise Files:** template (1)
@@ -937,9 +939,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Customer Support]] (1), [[Jira]] (1), [[Confluence]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** jira (1), confluence (1)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** jsm (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -948,7 +950,7 @@ created: 2026-04-29
 
 ### 2. Setting Up and Connecting Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980)
@@ -1039,8 +1041,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), next (9), cloud (5), [[Confluence]] (4), product (4)
 > **Tools:** jira (10), confluence (4)
-> **Code Keywords:** delete (1), case, (1), else, (1)
 > **Env Vars:** jsm (3)
 > **Prerequisites:** set up (1), install (1), you'll need (1)
 > **URLs:** [jirastrategy.com](https://jirastrategy.com) (1), [atlassian.com](https://atlassian.com) (1)
@@ -1111,7 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), case, (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** application (12), [[Microsoft Products|Products]] (8), [[Jira]] (6), cloud (5), data (4)
 > **Tools:** jira (6), confluence (1)
 > **Env Vars:** url (3), jsm (1)
 > **CLI Commands:** find (1)
@@ -1197,8 +1199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), management (5), [[Confluence]] (5), application (3), business (2)
 > **Tools:** jira (9), confluence (5)
-> **Code Keywords:** let (2), self (2), case. (1), continue (1), case, (1)
 > **Exercise Files:** template (3), exercise files (1)
 > **Env Vars:** jsm (1), faq (1)
 > **Cross-References:** in the next (1)
@@ -1285,8 +1287,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), next (8), business (3), management (3), application (2)
 > **Tools:** jira (9), confluence (1)
-> **Code Keywords:** let (3), finally, (2), type. (2), case. (1), type, (1)
 > **UI Navigation:** select the (5)
 > **Exercise Files:** template (4), exercise files (1)
 > **Env Vars:** jsm (1)
@@ -1311,7 +1313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), type, (1)
+> **Frameworks & Libraries:** next (3), [[Confluence]] (2), [[Jira]] (1), application (1)
 > **Tools:** confluence (2), jira (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1412,8 +1414,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Confluence]] (13), [[Jira]] (10), management (4), next (3), [[Atlassian]] (1)
 > **Tools:** confluence (13), jira (10)
-> **Code Keywords:** let (6), self (1), type. (1), for. (1), case. (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** jsm (3), url (2)
 > **UI Navigation:** go to (3), select the (1)
@@ -1424,7 +1426,7 @@ created: 2026-04-29
 
 ### 3. Using Confluence and Jira Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course use case set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980)
@@ -1467,7 +1469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** [[Jira]] (4), data (1), [[LinkedIn]] (1), next (1)
 > **Tools:** jira (4)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -1524,8 +1526,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (8), next (2), business (1), feature (1)
 > **Tools:** jira (10), confluence (8)
-> **Code Keywords:** let (4), finally, (1)
 > **UI Navigation:** scroll down (1), open the (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** remember to (1)
@@ -1602,9 +1604,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (11), [[Confluence]] (6), [[Atlassian]] (2), application (2), next (1)
 > **Tools:** jira (11), confluence (6)
 > **Env Vars:** url (5), jira (1), jql (1)
-> **Code Keywords:** let (3), type, (1), static (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
@@ -1652,8 +1654,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (9), [[Confluence]] (5), [[Microsoft Word|Word]] (1)
 > **Tools:** jira (9), confluence (5)
-> **Code Keywords:** let (2)
 > **Speakers:** - i (1)
 
 #### Creating issues from tables
@@ -1703,9 +1705,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (7), next (1), feature (1), product (1)
 > **Tools:** jira (10), confluence (7)
 > **UI Navigation:** select the (2)
-> **Code Keywords:** type. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
@@ -1772,9 +1774,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (7), data (5), [[Dashboards]] (4), [[Real-Time]] (2), [[Statistics]] (2)
 > **Tools:** jira (7), confluence (1)
 > **Env Vars:** url (3), jql (1)
-> **Code Keywords:** let (1), finally, (1)
 > **UI Navigation:** in the toolbar (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1873,8 +1875,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), [[Confluence]] (4), next (3), [[Atlassian]] (1), [[Automation]] (1)
 > **Tools:** jira (5), confluence (4)
-> **Code Keywords:** let (5), switch (1), case. (1)
 > **Env Vars:** jsm (5), url (1), faq (1)
 > **UI Navigation:** go to (1), open the (1)
 > **CLI Commands:** find (1)
@@ -1921,6 +1923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Atlassian]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), cloud (1), [[Automation]] (1)
 > **Env Vars:** jql (2), jsm (1)
 > **Tools:** jira (1), confluence (1)
 > **CLI Commands:** find (1)
@@ -1931,7 +1934,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources for Jira and Confluence learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980)
@@ -1980,9 +1983,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (8), [[Confluence]] (6), [[Atlassian]] (5), application (2), next (1)
 > **Tools:** jira (8), confluence (6)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** continue (2), type, (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
 > **Best Practices:** always make sure (1)
 > **Speakers:** - congrats (1)

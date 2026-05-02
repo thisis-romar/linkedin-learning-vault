@@ -34,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/open-source-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Create%20an%20Open-Source%20Project%20in%20Python.md)
@@ -53,50 +53,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Create an open-source project in Python
-  - What you should know
+  - [Create an open-source project in Python](#create-an-open-source-project-in-python)
+  - [What you should know](#what-you-should-know)
 - [**1. Starting a Project with Poetry**](#1-starting-a-project-with-poetry) (7 videos)
-  - What is Poetry?
-  - Install Poetry
-  - Starting a project
-  - What is pyproject.toml?
-  - Adding dependencies
-  - Poetry lock and install
-  - Checkpoint: What you have so far
+  - [What is Poetry?](#what-is-poetry)
+  - [Install Poetry](#install-poetry)
+  - [Starting a project](#starting-a-project)
+  - [What is pyproject.toml?](#what-is-pyprojecttoml)
+  - [Adding dependencies](#adding-dependencies)
+  - [Poetry lock and install](#poetry-lock-and-install)
+  - [Checkpoint: What you have so far](#checkpoint-what-you-have-so-far)
 - [**2. Power Up Your Tests**](#2-power-up-your-tests) (9 videos)
-  - What is pytest?
-  - Introduction to your project
-  - Writing simple tests
-  - Testing with multiple parameters
-  - Test if an exception is raised
-  - What is a fixture?
-  - Using fixture
-  - Skipping a test, with good reasons
-  - Checkpoint: What you have so far
+  - [What is pytest?](#what-is-pytest)
+  - [Introduction to your project](#introduction-to-your-project)
+  - [Writing simple tests](#writing-simple-tests)
+  - [Testing with multiple parameters](#testing-with-multiple-parameters)
+  - [Test if an exception is raised](#test-if-an-exception-is-raised)
+  - [What is a fixture?](#what-is-a-fixture)
+  - [Using fixture](#using-fixture)
+  - [Skipping a test, with good reasons](#skipping-a-test-with-good-reasons)
+  - [Checkpoint: What you have so far](#checkpoint-what-you-have-so-far)
 - [**3. Tidy Up Your Code**](#3-tidy-up-your-code) (7 videos)
-  - What is PEP 8?
-  - What is Black?
-  - Formatting your code with Black
-  - What is a linter?
-  - Linting your code with Flake8
-  - Using pre-commit to clean up automatically
-  - Checkpoint: What you have so far
+  - [What is PEP 8?](#what-is-pep-8)
+  - [What is Black?](#what-is-black)
+  - [Formatting your code with Black](#formatting-your-code-with-black)
+  - [What is a linter?](#what-is-a-linter)
+  - [Linting your code with Flake8](#linting-your-code-with-flake8)
+  - [Using pre-commit to clean up automatically](#using-pre-commit-to-clean-up-automatically)
+  - [Checkpoint: What you have so far](#checkpoint-what-you-have-so-far)
 - [**4. Standardize Testing Using tox**](#4-standardize-testing-using-tox) (4 videos)
-  - What is tox?
-  - tox basic usage
-  - tox advance usage
-  - Checkpoint: What you have so far
+  - [What is tox?](#what-is-tox)
+  - [tox basic usage](#tox-basic-usage)
+  - [tox advance usage](#tox-advance-usage)
+  - [Checkpoint: What you have so far](#checkpoint-what-you-have-so-far)
 - [**5. Setting up a Workflow on GitHub Action**](#5-setting-up-a-workflow-on-github-action) (4 videos)
-  - What is GitHub Action?
-  - Setting up a workflow for testing
-  - Why do you need code coverage?
-  - Adding code coverage to workflow
+  - [What is GitHub Action?](#what-is-github-action)
+  - [Setting up a workflow for testing](#setting-up-a-workflow-for-testing)
+  - [Why do you need code coverage?](#why-do-you-need-code-coverage)
+  - [Adding code coverage to workflow](#adding-code-coverage-to-workflow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Open-source project with good practice
+  - [Open-source project with good practice](#open-source-project-with-good-practice)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an open-source project in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980)
@@ -121,8 +121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (4), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
-> **Code Keywords:** require (1)
 > **Exercise Files:** source code (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [cheuk] (1)
@@ -144,6 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Git]] (1)
 > **CLI Commands:** python (1), git (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -151,7 +152,7 @@ created: 2026-04-29
 
 ### 1. Starting a Project with Poetry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Poetry?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-poetry?u=76281980)
@@ -206,8 +207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Dependency Management]] (2)
 > **CLI Commands:** python (6), make (3), pip (1), find (1)
-> **Code Keywords:** from. (3), finally, (1), let (1)
 > **Prerequisites:** install (2), setup (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -258,9 +259,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Powershell]] (1), [[Windows]] (1)
 > **CLI Commands:** python (12), pip (2), curl (2), make (1)
 > **Prerequisites:** install (8)
-> **Code Keywords:** finally, (1), self (1)
 > **URLs:** [python-poetry.org](https://python-poetry.org) (1), [poetry.org](https://poetry.org) (1)
 > **Env Vars:** pip (2)
 > **Definitions:** means that (1), is a  (1)
@@ -340,9 +341,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), next (5), [[GitHub]] (1), open-source (1)
 > **CLI Commands:** python (10), ls (1), apache (1), pip (1)
 > **Versions:** python 3 (4), python 4 (2), version 1 (1), 1.13 (1), version 0 (1)
-> **Code Keywords:** let (3), case, (1), default, (1), else. (1)
 > **File Paths:** pyproject.toml (5)
 > **Env Vars:** mit (2)
 > **Tools:** github (1)
@@ -400,10 +401,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[JSON]] (1)
 > **File Paths:** pyproject.toml (5), setup.py (4)
 > **CLI Commands:** python (7), make (1)
 > **Prerequisites:** setup (4), required to (2)
-> **Code Keywords:** let (1), require (1), finally, (1)
 > **Env Vars:** pep (2), toml (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
@@ -450,7 +451,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), interface (1), let (1)
 > **Analogies:** for example (3)
 > **Versions:** version 8 (1), 1.0 (1)
 > **CLI Commands:** pip (1)
@@ -496,10 +496,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (1), [[Version Control]] (1)
 > **File Paths:** poetry.lock (7), pyproject.toml (1)
 > **Prerequisites:** install (5), set up (2)
 > **CLI Commands:** make (1), git (1)
-> **Code Keywords:** case, (1), let (1)
 > **Best Practices:** recommended (1), make sure to (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
@@ -536,7 +536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), next (1)
 > **File Paths:** pyproject.toml (1), poetry.lock (1)
 > **Prerequisites:** install (1), setup (1)
 > **Cross-References:** in the next (1)
@@ -547,7 +547,7 @@ created: 2026-04-29
 
 ### 2. Power Up Your Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is pytest?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980)
@@ -594,9 +594,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Django]] (2), [[GitHub]] (1), open-source (1), web (1)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** is called (2), is a  (2)
-> **Code Keywords:** assert (1), finally, (1), let (1)
 > **Analogies:** such as (2)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -654,8 +654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), this: (1), finally, (1), this
-( (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Non-Speech:** (typing) (4)
 > **Tools:** command line (1), vim (1)
@@ -745,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), assert (3)
+> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **CLI Commands:** find (2), make (2)
 > **Non-Speech:** (typing) (4)
 > **Cross-References:** go back to (2), in the next (1)
@@ -841,7 +840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (8), assert (1), return. (1), finally, (1)
+> **Frameworks & Libraries:** feature (2), next (2)
 > **CLI Commands:** make (3), find (2)
 > **Code Identifiers:** test_input (2), test_find_task (1)
 > **Cross-References:** go back to (1), next video (1), in the next (1)
@@ -904,7 +903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), raise (3), function (2), pass (2), assert (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Non-Speech:** (keyboard typing) (10)
 > **CLI Commands:** python (2), make (2)
 > **Code Identifiers:** test_to_date (1)
@@ -970,7 +969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), module (2), finally, (1), pass (1)
+> **Frameworks & Libraries:** feature (2), data (2), api (1), database (1), application (1)
 > **CLI Commands:** make (2), docker (1)
 > **Prerequisites:** set up (3)
 > **File Paths:** conftest.py (1)
@@ -1044,7 +1043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (2), this. (1), delete (1), pass (1)
+> **Frameworks & Libraries:** power (1)
 > **Non-Speech:** (typing) (3), (energetic music) (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
@@ -1126,8 +1125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), feature (3), application (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** function (1), let (1), pass (1), this. (1)
 > **Versions:** 3.8 (1)
 > **Analogies:** for example (1)
 > **Best Practices:** good practice (1)
@@ -1177,8 +1176,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[GitHub]] (1), next (1)
 > **File Paths:** pyproject.toml (1), poetry.lock (1), reminder.py (1), tests.py (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Cross-References:** previous chapter (1), next chapter (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -1189,7 +1188,7 @@ created: 2026-04-29
 
 ### 3. Tidy Up Your Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is PEP 8?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980)
@@ -1318,9 +1317,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), feature (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (13), find (3), make (3)
 > **Env Vars:** pep (19)
-> **Code Keywords:** class, (2), let (1), else. (1), super (1), module (1)
 > **Definitions:** is a  (6), in other words (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** best practice (1)
@@ -1391,11 +1390,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (2), [[Python (Programming Language)|Python]] (1), [[Debugging]] (1), next (1)
 > **Env Vars:** pep (5)
 > **Definitions:** is a  (4)
 > **Cross-References:** we talked about (1), later in (1), in the next (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** super (2)
 > **Documentation:** the documentation (1)
 > **Tools:** command line (1)
 > **Warnings:** be aware (1)
@@ -1459,7 +1458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** prompt (2), [[Git]] (2), ci (1), [[GitHub]] (1), next (1)
 > **CLI Commands:** make (2), git (2)
 > **Tools:** vim (2), github (1)
 > **Env Vars:** pla (1)
@@ -1510,8 +1509,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5)
-> **Code Keywords:** let (1), from. (1)
 > **Env Vars:** pep (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -1619,7 +1618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), pass (2), case, (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** pep (3), fh21 (1), e501 (1)
 > **File Paths:** reminder.py (3), tests.py (1)
 > **CLI Commands:** find (2)
@@ -1707,7 +1706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), pass (1), this, (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1), next (1)
 > **CLI Commands:** git (3), make (1), python (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (2), install (1)
@@ -1749,10 +1748,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), open-source (1), next (1), [[Git]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (2), make (2), git (1)
 > **File Paths:** tests.py (1), reminder.py (1), tox.ini (1), pre-commit-config.yaml (1)
 > **Env Vars:** pep (2)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
 > **Prerequisites:** install (1)
@@ -1761,7 +1760,7 @@ created: 2026-04-29
 
 ### 4. Standardize Testing Using tox
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is tox?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980)
@@ -1800,6 +1799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), management (1), ci (1), [[GitHub]] (1), next (1)
 > **CLI Commands:** python (8), make (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
@@ -1874,7 +1874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (3), prompt (1)
 > **CLI Commands:** python (6), find (1)
 > **File Paths:** pyproject.toml (2), tox.ini (1), setup.py (1), setup.config (1), reminder.py (1)
 > **Prerequisites:** setup (3), set up (1)
@@ -1930,9 +1930,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (3), [[GitHub]] (1)
 > **CLI Commands:** python (6), make (1)
 > **Versions:** python 3 (2), 3.9 (2), 3.10 (2)
-> **Code Keywords:** let (3), finally, (2)
 > **File Paths:** tox.ini (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **UI Navigation:** open the (2)
@@ -1968,10 +1968,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Python (Programming Language)|Python]] (2), next (2), [[GitHub]] (1)
 > **File Paths:** tox.ini (3), pyproject.toml (1)
 > **Prerequisites:** setup (2), set up (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -1979,7 +1979,7 @@ created: 2026-04-29
 
 ### 5. Setting up a Workflow on GitHub Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub Action?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980)
@@ -2020,10 +2020,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), ci (5), cd (5), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2)
 > **Tools:** github (7)
 > **CLI Commands:** cd (5)
 > **Definitions:** is a  (2), stands for (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** source code (1)
 > **Analogies:** for example (1)
@@ -2112,9 +2112,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Git]] (5), [[Python (Programming Language)|Python]] (4), next (3)
 > **CLI Commands:** git (5), python (4), make (2), pip (1)
 > **Tools:** github (7), command line (2)
-> **Code Keywords:** let (5), public (1), finally, (1), case, (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** readme (1), mit (1), yaml (1)
 > **Versions:** 3.8 (1), 3.9 (1), 3.10 (1)
@@ -2150,8 +2150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (3), next (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2246,7 +2246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Python (Programming Language)|Python]] (2), web (1), [[Git]] (1), next (1)
 > **Tools:** github (7)
 > **File Paths:** tox.ini (2), coverage.xml (1), check.yml (1), test.py (1)
 > **CLI Commands:** python (2), make (1), git (1)
@@ -2258,7 +2258,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Open-source project with good practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980)
@@ -2301,9 +2301,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (5), [[Python (Programming Language)|Python]] (1), application (1), ci (1), cd (1)
 > **CLI Commands:** make (3), python (1), cd (1)
 > **Cross-References:** we covered (3)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)

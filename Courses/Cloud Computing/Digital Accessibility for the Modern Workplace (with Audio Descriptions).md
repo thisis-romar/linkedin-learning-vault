@@ -26,7 +26,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Accessibility%20for%20the%20Modern%20Workplace%20(with%20Audio%20Descriptions).md)
@@ -45,30 +45,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Accessibility at work
+  - [Accessibility at work](#accessibility-at-work)
 - [**1. Understanding Accessibility**](#1-understanding-accessibility) (4 videos)
-  - Importance of accessibility
-  - Remote work and accessibility
-  - Disclosure and disability
-  - Common disabilities
+  - [Importance of accessibility](#importance-of-accessibility)
+  - [Remote work and accessibility](#remote-work-and-accessibility)
+  - [Disclosure and disability](#disclosure-and-disability)
+  - [Common disabilities](#common-disabilities)
 - [**2. Disability Types and Solutions**](#2-disability-types-and-solutions) (4 videos)
-  - Hearing accessibility
-  - Mobility and dexterity accessibility
-  - Mental health accessibility
-  - Cognition accessibility
+  - [Hearing accessibility](#hearing-accessibility)
+  - [Mobility and dexterity accessibility](#mobility-and-dexterity-accessibility)
+  - [Mental health accessibility](#mental-health-accessibility)
+  - [Cognition accessibility](#cognition-accessibility)
 - [**3. Developing Accessible Experiences**](#3-developing-accessible-experiences) (5 videos)
-  - Developing accessible experiences
-  - Tips for more accessible social media
-  - Tips for more accessible meetings
-  - Tips for more accessible email
-  - Tips for more accessible presentations
+  - [Developing accessible experiences](#developing-accessible-experiences)
+  - [Tips for more accessible social media](#tips-for-more-accessible-social-media)
+  - [Tips for more accessible meetings](#tips-for-more-accessible-meetings)
+  - [Tips for more accessible email](#tips-for-more-accessible-email)
+  - [Tips for more accessible presentations](#tips-for-more-accessible-presentations)
 - [**4. Accessibility Best Practices**](#4-accessibility-best-practices) (2 videos)
-  - Accessibility best practices
-  - Enhancing your accessibility skills
+  - [Accessibility best practices](#accessibility-best-practices)
+  - [Enhancing your accessibility skills](#enhancing-your-accessibility-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/accessibility-at-work?u=76281980)
@@ -119,16 +119,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Microsoft Office|Office]] (1), [[Microsoft]] (1), data (1)
 > **Speakers:** - [narrator] (3), - the (1), - that (1), - i (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** extends (1)
 > **Definitions:** is an  (1)
 > **Non-Speech:** (gentle music) (1)
 
 
 ### 1. Understanding Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/importance-of-accessibility?u=76281980)
@@ -205,9 +205,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), feature (3), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Windows]] (1)
 > **Speakers:** - [narrator] (6), - accessibility (1), - this (1), - as (1), - if (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** delete (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** required to (1)
 
@@ -302,8 +302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Office|Office]] (3), [[Automation]] (1), [[Windows]] (1), web (1)
 > **Speakers:** - [presenter] (7), - i (3), - you (1), - low (1), - eight (1)
-> **Code Keywords:** this. (2), self (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1)
 
@@ -372,6 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [automated (5), - [instructor] (1), - they (1), - but (1), - from (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -450,8 +451,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (3), [[Microsoft Teams]] (2), [[Microsoft Office|Office]] (1), product (1), next (1)
 > **Speakers:** - [narrator] (5), - a (2), - the (1), - voice (1), - i (1)
-> **Code Keywords:** super (1), this, (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -460,7 +461,7 @@ created: 2026-04-29
 
 ### 2. Disability Types and Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hearing accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980)
@@ -587,10 +588,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft]] (4), teams (3), [[Windows]] (3), next (2)
 > **Speakers:** - [narrator] (14), - [hector] (7), - it (1), - many (1), - if (1)
 > **Env Vars:** vtt (2), efoh (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** such as (1)
@@ -767,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), [[Microsoft Word|Word]] (4), [[Search]] (4), [[Microsoft Word]] (3), web (3)
 > **Speakers:** - [announcer] (19), - [hector] (12), - so (1), - i (1), - turn (1)
-> **Code Keywords:** let (5), type. (1), finally, (1), this, (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** icontrol (1)
 
@@ -869,8 +870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft Outlook]] (2), [[Statistics]] (1), [[Microsoft Teams]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [narrator] (7), - we (2), - [man] (2), - the (1), - monitor (1)
-> **Code Keywords:** let (2), break. (1), finally, (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** ptsd (1)
 > **Cross-References:** in the last (1)
@@ -1016,8 +1017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Microsoft Word]] (3), [[Microsoft Office|Office]] (3), management (2), next (2)
 > **Speakers:** - [female (15), - [hector] (7), - even (1), - as (1), - put (1)
-> **Code Keywords:** from: (2), let (1), pass (1)
 > **Analogies:** picture (1), for example (1), imagine (1), such as (1)
 > **CLI Commands:** find (2)
 > **URLs:** [seeavoice.org](https://seeavoice.org) (1)
@@ -1027,7 +1028,7 @@ created: 2026-04-29
 
 ### 3. Developing Accessible Experiences
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing accessible experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/developing-accessible-experiences?u=76281980)
@@ -1102,8 +1103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Vision]] (1), [[Digital Accessibility]] (1), [[Newsletters]] (1)
 > **Speakers:** - [narrator] (3), - there (1), - let (1), - here (1)
-> **Code Keywords:** let (2), continue (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** picture (1)
 
@@ -1194,9 +1195,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (3), ai (1), [[Android]] (1), hit (1)
 > **Speakers:** - [narrator] (6), - [hector] (6)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), super (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** srt (1)
 > **Definitions:** is a  (1)
@@ -1278,8 +1279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Forms]] (1), teams (1), feature (1)
 > **Speakers:** - [narrator] (4), - the (1), - if (1), - next (1), - finally (1)
-> **Code Keywords:** default. (1), super (1), function (1), for. (1), finally, (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** adhd (1)
 > **Warnings:** be careful (1)
@@ -1358,8 +1359,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Outlook|Outlook]] (2), [[Computer Vision]] (1), ai (1), web (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), this, (1), default. (1)
 > **URLs:** [office.com](https://office.com) (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - did (1)
@@ -1485,8 +1486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), teams (3), [[Microsoft]] (2), business (1), next (1)
 > **Speakers:** - [narrator] (10), - [hector] (6), - creating (1), - what (1), - ensure (1)
-> **Code Keywords:** finally, (2), public (1), for. (1), this. (1), this, (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** pdf (1)
@@ -1497,7 +1498,7 @@ created: 2026-04-29
 
 ### 4. Accessibility Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/accessibility-best-practices?u=76281980)
@@ -1570,9 +1571,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), business (1), [[Digital Accessibility]] (1)
 > **Speakers:** - [narrator] (2), - you (1), - it (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** public (1), this, (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
@@ -1646,12 +1647,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[LinkedIn]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Products]] (1)
 > **Speakers:** - [narrator] (5), - if (2), - [hector] (1), - here (1), - this (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [https://docs.microsoft.com/en-us](https://docs.microsoft.com/en-us) (1), [linkedin.com](https://linkedin.com) (1)
 > **Env Vars:** dna (1), dad (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 
 

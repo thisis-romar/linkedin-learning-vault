@@ -36,7 +36,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Getting%20Promoted.md)
@@ -55,41 +55,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Get promoted in your tech job
+  - [Get promoted in your tech job](#get-promoted-in-your-tech-job)
 - [**1. Understanding the Promotion Process**](#1-understanding-the-promotion-process) (4 videos)
-  - How promotion cycles work
-  - Promotion ladders, competencies, and levels
-  - Promotion committees
-  - Role of the manager and the engineers
+  - [How promotion cycles work](#how-promotion-cycles-work)
+  - [Promotion ladders, competencies, and levels](#promotion-ladders-competencies-and-levels)
+  - [Promotion committees](#promotion-committees)
+  - [Role of the manager and the engineers](#role-of-the-manager-and-the-engineers)
 - [**2. Execution and Results**](#2-execution-and-results) (2 videos)
-  - What the committee is looking for by way of impact
-  - How engineers can show impact
+  - [What the committee is looking for by way of impact](#what-the-committee-is-looking-for-by-way-of-impact)
+  - [How engineers can show impact](#how-engineers-can-show-impact)
 - [**3. Creating Efficiency**](#3-creating-efficiency) (2 videos)
-  - What the committee is looking for by way of efficiency
-  - How engineers can show efficiency
+  - [What the committee is looking for by way of efficiency](#what-the-committee-is-looking-for-by-way-of-efficiency)
+  - [How engineers can show efficiency](#how-engineers-can-show-efficiency)
 - [**4. Software Engineering**](#4-software-engineering) (2 videos)
-  - What the committee is looking for in this key competency
-  - How engineers can demonstrate coding chops
+  - [What the committee is looking for in this key competency](#what-the-committee-is-looking-for-in-this-key-competency)
+  - [How engineers can demonstrate coding chops](#how-engineers-can-demonstrate-coding-chops)
 - [**5. Design and Architecture**](#5-design-and-architecture) (2 videos)
-  - What the committee is looking for by way of design skill
-  - How engineers can show design vision
+  - [What the committee is looking for by way of design skill](#what-the-committee-is-looking-for-by-way-of-design-skill)
+  - [How engineers can show design vision](#how-engineers-can-show-design-vision)
 - [**6. Collaboration**](#6-collaboration) (2 videos)
-  - What the committee is looking for in collaboration
-  - How engineers can show collaboration
+  - [What the committee is looking for in collaboration](#what-the-committee-is-looking-for-in-collaboration)
+  - [How engineers can show collaboration](#how-engineers-can-show-collaboration)
 - [**7. Citizenship**](#7-citizenship) (2 videos)
-  - What the committee is looking for by way of citizenship
-  - How engineers can show citizenship
+  - [What the committee is looking for by way of citizenship](#what-the-committee-is-looking-for-by-way-of-citizenship)
+  - [How engineers can show citizenship](#how-engineers-can-show-citizenship)
 - [**8. Specific Promotion-Related Activities**](#8-specific-promotion-related-activities) (4 videos)
-  - Creating an impact resume
-  - How to cultivate references
-  - How to prep for promotion interviews
-  - How to process promotion-related feedback
+  - [Creating an impact resume](#creating-an-impact-resume)
+  - [How to cultivate references](#how-to-cultivate-references)
+  - [How to prep for promotion interviews](#how-to-prep-for-promotion-interviews)
+  - [How to process promotion-related feedback](#how-to-process-promotion-related-feedback)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Boost your career
+  - [Boost your career](#boost-your-career)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get promoted in your tech job
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/get-promoted-in-your-tech-job?u=76281980)
@@ -116,13 +116,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), career (1), teams (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [nishant] (1)
 
 
 ### 1. Understanding the Promotion Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How promotion cycles work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980)
@@ -221,9 +222,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), career (2), [[Human Resources (HR)|Human resources]] (2), next (2), data (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** cto (2), ceo (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
@@ -306,9 +307,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (4), [[Engineering]] (3), business (2), product (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (5)
-> **Code Keywords:** let (2)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [presenter] (1)
 
@@ -391,8 +392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), [[Microservices]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -487,8 +488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Engineering]] (1), [[Microsoft Products|Products]] (1), career (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** case. (1), require (1)
 > **Env Vars:** cto (1), ceo (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (1)
@@ -498,7 +499,7 @@ created: 2026-04-29
 
 ### 2. Execution and Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for by way of impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980)
@@ -569,8 +570,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (5), [[Engineering]] (2), next (2), functional (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### How engineers can show impact
@@ -632,14 +633,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (2), this, (1), case, (1)
+> **Frameworks & Libraries:** teams (4), data (2), business (1), leadership (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Creating Efficiency
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for by way of efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980)
@@ -716,7 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Engineering]] (5), data (3), business (2), [[Microsoft Products|Products]] (2), [[Google]] (1)
 > **Definitions:** is a  (1), refers to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -779,8 +780,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), teams (2), product (1), [[Engineering]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** finally, (2), case, (1), new, (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [presenter] (1)
@@ -788,7 +789,7 @@ created: 2026-04-29
 
 ### 4. Software Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for in this key competency
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-this-key-competency?u=76281980)
@@ -847,8 +848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (6), next (1), [[Scalability]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** prerequisite (1)
@@ -919,15 +920,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (8), [[Code Review]] (1), management (1), [[Incident Response]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (2)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Design and Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for by way of design skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-design-skill?u=76281980)
@@ -1004,7 +1005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** product (2), teams (1), next (1), data (1), [[Engineering]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1063,8 +1064,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), product (4), teams (3), [[Engineering]] (1), feature (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (2), require (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1073,7 +1074,7 @@ created: 2026-04-29
 
 ### 6. Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for in collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980)
@@ -1144,8 +1145,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Engineering]] (1), feature (1), power (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
 
@@ -1210,13 +1211,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (2), business (1), game (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 7. Citizenship
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for by way of citizenship
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-citizenship?u=76281980)
@@ -1277,8 +1278,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), product (2), [[Programming]] (1), [[Design Systems]] (1), cloud (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** from, (1), else. (1)
 > **Speakers:** - [instructor] (1)
 
 #### How engineers can show citizenship
@@ -1342,13 +1343,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), raise (1)
+> **Frameworks & Libraries:** data (1), [[Engineering]] (1), teams (1), product (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 8. Specific Promotion-Related Activities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an impact resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980)
@@ -1411,8 +1412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), product (2), [[Microsoft Products|Products]] (1), feature (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** for, (1), let (1), include, (1), case, (1), this, (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** similar to (1)
@@ -1497,9 +1498,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), next (2), [[Code Review]] (1), business (1), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1570,7 +1571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** next (3), data (2), [[Soft Skills]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1642,8 +1643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (1), career (1), product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1651,7 +1652,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Boost your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/boost-your-career?u=76281980)
@@ -1674,6 +1675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), leadership (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 

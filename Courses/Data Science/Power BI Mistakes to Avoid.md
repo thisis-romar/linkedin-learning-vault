@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Mistakes%20to%20Avoid.md)
@@ -45,38 +45,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Improve your Power BI skills
+  - [Improve your Power BI skills](#improve-your-power-bi-skills)
 - [**1. Next-Level Power BI**](#1-next-level-power-bi) (4 videos)
-  - Main challenges of Power BI?
-  - Systems thinking vs. ad hoc analysis
-  - Being an effective analyst
-  - Keys to effective data visualization
+  - [Main challenges of Power BI?](#main-challenges-of-power-bi)
+  - [Systems thinking vs. ad hoc analysis](#systems-thinking-vs-ad-hoc-analysis)
+  - [Being an effective analyst](#being-an-effective-analyst)
+  - [Keys to effective data visualization](#keys-to-effective-data-visualization)
 - [**2. Connecting to Data**](#2-connecting-to-data) (4 videos)
-  - Don't pull in too much data
-  - Eliminate extra applied steps
-  - Remember to profile your data sources
-  - Remove unnecessary rows and columns
+  - [Don't pull in too much data](#dont-pull-in-too-much-data)
+  - [Eliminate extra applied steps](#eliminate-extra-applied-steps)
+  - [Remember to profile your data sources](#remember-to-profile-your-data-sources)
+  - [Remove unnecessary rows and columns](#remove-unnecessary-rows-and-columns)
 - [**3. Modeling Data**](#3-modeling-data) (5 videos)
-  - Create a lookup table
-  - Use star schema
-  - Eliminate two-way relationships
-  - Apply user-friendly value replacements
-  - Define the right level of granularity
+  - [Create a lookup table](#create-a-lookup-table)
+  - [Use star schema](#use-star-schema)
+  - [Eliminate two-way relationships](#eliminate-two-way-relationships)
+  - [Apply user-friendly value replacements](#apply-user-friendly-value-replacements)
+  - [Define the right level of granularity](#define-the-right-level-of-granularity)
 - [**4. Visualizing and Analyzing Data**](#4-visualizing-and-analyzing-data) (8 videos)
-  - Visualizing time series data
-  - Use groups to break up the analysis
-  - Use slicers to improve usability
-  - Use a custom tooltip to add detail
-  - Be careful with pie charts
-  - When to use Top-N analysis
-  - The full potential of visualizations
-  - Use color sparingly
+  - [Visualizing time series data](#visualizing-time-series-data)
+  - [Use groups to break up the analysis](#use-groups-to-break-up-the-analysis)
+  - [Use slicers to improve usability](#use-slicers-to-improve-usability)
+  - [Use a custom tooltip to add detail](#use-a-custom-tooltip-to-add-detail)
+  - [Be careful with pie charts](#be-careful-with-pie-charts)
+  - [When to use Top-N analysis](#when-to-use-top-n-analysis)
+  - [The full potential of visualizations](#the-full-potential-of-visualizations)
+  - [Use color sparingly](#use-color-sparingly)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional resources
+  - [Additional resources](#additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your Power BI skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980)
@@ -99,14 +99,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** power (4), bi (4), [[Analytics]] (4), data (3), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - power (1)
 
 
 ### 1. Next-Level Power BI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Main challenges of Power BI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980)
@@ -157,8 +157,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), power (10), bi (10), management (2), [[Unstructured Data]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Best Practices:** best practice (1), remember to (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
@@ -209,6 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Business Intelligence (BI)|Business intelligence]] (1), power (1), bi (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -271,9 +272,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (9), bi (9), data (8), business (7), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** dax (2), ceo (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Prerequisites:** you need to have (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -342,7 +343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1), this, (1)
+> **Frameworks & Libraries:** data (10), hit (1), next (1), business (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -352,7 +353,7 @@ created: 2026-04-29
 
 ### 2. Connecting to Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Don't pull in too much data
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/don-t-pull-in-too-much-data?u=76281980)
@@ -387,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** data (12), power (4), bi (4), [[Microsoft Power Query|Power query]] (2), hit (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
@@ -445,7 +446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (9), power (1), bi (1), database (1), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -507,8 +508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), power (2), bi (2), [[Microsoft Power Query|Power query]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
 > **Best Practices:** remember to (1)
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), this. (1)
+> **Frameworks & Libraries:** data (16), power (4), bi (4), [[Microsoft Power Query|Power query]] (1), hit (1)
 > **Definitions:** means that (1), is an  (1), in other words (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -602,7 +603,7 @@ created: 2026-04-29
 
 ### 3. Modeling Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a lookup table
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980)
@@ -693,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), finally, (1)
+> **Frameworks & Libraries:** data (25), [[Microsoft Excel|Excel]] (3), power (2), bi (2), [[Microsoft Power Query|Power query]] (2)
 > **UI Navigation:** right-click (2), double-click (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -744,7 +745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Snowflake]] (3), power (1), bi (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** you should always (1)
@@ -857,7 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (2)
+> **Frameworks & Libraries:** data (9), next (3), [[Microsoft Power Query|Power query]] (1), hit (1)
 > **Definitions:** is a  (5)
 > **Versions:** 4.2 (1)
 > **Prerequisites:** set up (1)
@@ -896,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (6), [[Microsoft Power Query|Power query]] (2), power (2), bi (2), [[Electronics]] (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** right-click (1)
 > **Definitions:** is a  (1)
@@ -963,7 +964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), let (1), case. (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** data (10), power (1), bi (1), business (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -971,7 +972,7 @@ created: 2026-04-29
 
 ### 4. Visualizing and Analyzing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing time series data
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980)
@@ -1004,7 +1005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1)
+> **Frameworks & Libraries:** data (6), [[Time Series Analysis]] (2), power (1), bi (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** best practice (2)
 > **Env Vars:** ceo (1)
@@ -1067,7 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (3), business (1), hr (1)
 > **Analogies:** for example (1), kind of like (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -1116,7 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2), this, (1)
+> **Frameworks & Libraries:** power (2), bi (2), data (2), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1)
@@ -1164,8 +1165,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), bi (1), data (1), next (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (3)
 > **UI Navigation:** toggle (1), scroll down (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [narrator] (1)
@@ -1213,7 +1214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (6), power (1), bi (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** toggle (1)
 > **Exercise Files:** exercise files (1)
@@ -1266,7 +1267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), while, (1), this, (1), type, (1)
+> **Frameworks & Libraries:** data (8), power (2), bi (2), next (1), hit (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
@@ -1325,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1)
+> **Frameworks & Libraries:** business (6), data (5), power (1), bi (1), [[Forms]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Warnings:** common mistake (1)
@@ -1384,7 +1385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (1)
+> **Frameworks & Libraries:** data (2), power (1), bi (1), hit (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Warnings:** common mistake (1)
@@ -1393,7 +1394,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980)
@@ -1424,6 +1425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (6), power (6), bi (6), [[LinkedIn]] (1), [[Dashboards]] (1)
 > **Speakers:** - congratulations (1)
 
 

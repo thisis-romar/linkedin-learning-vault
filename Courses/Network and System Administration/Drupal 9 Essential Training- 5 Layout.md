@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%205%20Layout.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to the course
+  - [Introduction to the course](#introduction-to-the-course)
 - [**1. Layout Explained**](#1-layout-explained) (10 videos)
-  - Layout explained
-  - Managing displays
-  - Blocks explained
-  - Creating a custom block type
-  - Creating a custom block type: Media
-  - Layout builder explained
-  - Managing the layout for the article content type
-  - Managing the layout for the business directory
-  - Adding a custom block in the layout builder
-  - Creating landing pages
+  - [Layout explained](#layout-explained)
+  - [Managing displays](#managing-displays)
+  - [Blocks explained](#blocks-explained)
+  - [Creating a custom block type](#creating-a-custom-block-type)
+  - [Creating a custom block type: Media](#creating-a-custom-block-type-media)
+  - [Layout builder explained](#layout-builder-explained)
+  - [Managing the layout for the article content type](#managing-the-layout-for-the-article-content-type)
+  - [Managing the layout for the business directory](#managing-the-layout-for-the-business-directory)
+  - [Adding a custom block in the layout builder](#adding-a-custom-block-in-the-layout-builder)
+  - [Creating landing pages](#creating-landing-pages)
 - [**2. Views Explained**](#2-views-explained) (8 videos)
-  - Views explained
-  - Adding the business directory view
-  - Adding the news and press release view
-  - Exposing filters for visitor interaction
-  - Adding an events calendar view
-  - Creating a related content view
-  - Image styles explained
-  - Image styles for media
+  - [Views explained](#views-explained)
+  - [Adding the business directory view](#adding-the-business-directory-view)
+  - [Adding the news and press release view](#adding-the-news-and-press-release-view)
+  - [Exposing filters for visitor interaction](#exposing-filters-for-visitor-interaction)
+  - [Adding an events calendar view](#adding-an-events-calendar-view)
+  - [Creating a related content view](#creating-a-related-content-view)
+  - [Image styles explained](#image-styles-explained)
+  - [Image styles for media](#image-styles-for-media)
 - [**3. Menus Explained**](#3-menus-explained) (2 videos)
-  - Modify the main menu
-  - Creating a new menu
+  - [Modify the main menu](#modify-the-main-menu)
+  - [Creating a new menu](#creating-a-new-menu)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/introduction-to-the-course?u=76281980)
@@ -145,13 +145,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1)
+> **Frameworks & Libraries:** [[Drupal]] (8), management (1), next (1)
 > **Speakers:** - hi (1)
 
 
 ### 1. Layout Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Layout explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-explained?u=76281980)
@@ -190,7 +190,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** best practice (1)
 > **Prerequisites:** set up (1)
@@ -293,7 +292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (2), type, (2), this, (1)
+> **Frameworks & Libraries:** business (8), [[Drupal]] (3), node (3)
 > **CLI Commands:** node (3), make (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is an  (1), is a  (1)
@@ -443,8 +442,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (5), [[Search]] (2), feature (1)
 > **Definitions:** is a  (5), is an  (1)
-> **Code Keywords:** let (4), type. (1)
 > **UI Navigation:** scroll down (3), click on (2)
 > **Cross-References:** go back to (2), we talked about (1)
 > **Analogies:** for instance (1)
@@ -577,7 +576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (2), this. (1), continue (1), case, (1)
+> **Frameworks & Libraries:** node (7), business (2), [[Version Control]] (1), [[Search]] (1)
 > **Env Vars:** pdf (9), url (1)
 > **CLI Commands:** node (7)
 > **UI Navigation:** click on (3), go to (2)
@@ -623,7 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (1), type, (1), continue (1)
+> **Frameworks & Libraries:** css (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pdf (1), css (1)
 > **Cross-References:** later in (1), go back to (1)
@@ -707,7 +706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), default. (1), module (1)
+> **Frameworks & Libraries:** [[Drupal]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (2), scroll down (2), drag and drop (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** install (2)
@@ -847,7 +846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type, (4), switch (3), default, (1), module (1)
+> **Frameworks & Libraries:** node (4), next (2)
 > **UI Navigation:** click on (10), scroll down (1), scroll up (1)
 > **CLI Commands:** node (4), make (2), find (1)
 > **Env Vars:** pdf (3), rss (2)
@@ -1040,7 +1039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), module (2), type, (1), require (1), switch (1)
+> **Frameworks & Libraries:** business (23), [[Google]] (3), node (2), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **UI Navigation:** click on (3), open the (2), go to (1), scroll down (1)
 > **CLI Commands:** node (2), make (1), find (1)
 > **Cross-References:** go back to (3)
@@ -1108,8 +1107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), node (2), next (1)
 > **CLI Commands:** node (2), make (1)
-> **Code Keywords:** let (2), type. (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Env Vars:** pdf (2)
@@ -1285,7 +1284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), type, (1), type. (1), public (1), switch (1)
+> **Frameworks & Libraries:** css (4), [[Drupal]] (2), next (1), [[Search]] (1)
 > **Env Vars:** css (4), url (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), go to (1)
@@ -1296,7 +1295,7 @@ created: 2026-04-29
 
 ### 2. Views Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Views explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/views-explained?u=76281980)
@@ -1361,7 +1360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), type, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** business (3), node (2), [[Drupal]] (1), database (1), next (1)
 > **CLI Commands:** node (2), find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -1522,7 +1521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1), delete (1), module (1)
+> **Frameworks & Libraries:** business (17), css (3)
 > **UI Navigation:** click on (3), scroll down (2), go to (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** css (3)
@@ -1630,7 +1629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), default, (1), type, (1), continue (1)
+> **Frameworks & Libraries:** next (3), [[Drupal]] (3), business (2), [[Microsoft Word|Word]] (2), [[Search]] (1)
 > **UI Navigation:** click on (3), scroll down (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1737,8 +1736,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Drupal]] (2), [[HTML]] (1)
 > **UI Navigation:** click on (4), scroll down (1), dropdown (1)
-> **Code Keywords:** let (2), override (1), type, (1), continue (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (1)
 > **Definitions:** is a  (1)
@@ -1870,7 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), module (7), type, (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Drupal]] (5), next (2), [[Microsoft Word|Word]] (2), node (2), [[Search]] (1)
 > **UI Navigation:** click on (7), scroll down (2), go to (1), scroll up (1)
 > **CLI Commands:** find (2), make (2), node (2), composer (1)
 > **Prerequisites:** install (3), configure (1)
@@ -2071,7 +2070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), override (4), this, (2), type. (2), case, (1)
+> **Frameworks & Libraries:** business (15), node (4), [[Drupal]] (2), [[Microsoft Word|Word]] (1), [[Search]] (1)
 > **UI Navigation:** click on (9), scroll down (3), go to (1)
 > **CLI Commands:** node (4), make (3), find (1)
 > **Env Vars:** url (6)
@@ -2169,8 +2168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[Drupal]] (2), hit (1)
 > **UI Navigation:** click on (10), scroll down (3), go to (2)
-> **Code Keywords:** let (3), switch (1), this. (1)
 > **Cross-References:** go back to (5)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
@@ -2263,7 +2262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), type. (1), continue (1), this, (1), default, (1)
+> **Frameworks & Libraries:** node (1)
 > **UI Navigation:** click on (3), scroll down (2), go to (1)
 > **CLI Commands:** make (2), node (1), find (1)
 > **Cross-References:** go back to (3)
@@ -2275,7 +2274,7 @@ created: 2026-04-29
 
 ### 3. Menus Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modify the main menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980)
@@ -2372,8 +2371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (3), business (1), [[Forms]] (1)
 > **UI Navigation:** dropdown (4), scroll down (2), go to (1), click on (1)
-> **Code Keywords:** let (3), override (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (2)
 > **Warnings:** note that (1)
@@ -2421,7 +2420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), module (1)
+> **Frameworks & Libraries:** [[Drupal]] (3), node (2), [[Google]] (2), business (1)
 > **CLI Commands:** node (2), make (2), find (1)
 > **Env Vars:** url (1), cool (1), menu (1), items (1)
 > **Cross-References:** go back to (1)

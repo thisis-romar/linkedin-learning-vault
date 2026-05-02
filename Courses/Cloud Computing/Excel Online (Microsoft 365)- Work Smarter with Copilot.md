@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Excel%20Online%20(Microsoft%20365)-%20Work%20Smarter%20with%20Copilot.md)
@@ -48,37 +48,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Kickstart your Excel Online journey
+  - [Kickstart your Excel Online journey](#kickstart-your-excel-online-journey)
 - [**1. Getting Started with Excel Online**](#1-getting-started-with-excel-online) (6 videos)
-  - Getting acquainted with Excel Online
-  - Exploring essential features in Excel
-  - Personalizing your view with Sheet View
-  - Using version history in Excel to fix mistakes
-  - Challenge: Use Excel Online to undo mistakes
-  - Solution: Use Excel Online to undo mistakes
+  - [Getting acquainted with Excel Online](#getting-acquainted-with-excel-online)
+  - [Exploring essential features in Excel](#exploring-essential-features-in-excel)
+  - [Personalizing your view with Sheet View](#personalizing-your-view-with-sheet-view)
+  - [Using version history in Excel to fix mistakes](#using-version-history-in-excel-to-fix-mistakes)
+  - [Challenge: Use Excel Online to undo mistakes](#challenge-use-excel-online-to-undo-mistakes)
+  - [Solution: Use Excel Online to undo mistakes](#solution-use-excel-online-to-undo-mistakes)
 - [**2. Collaborating Effectively in Excel Online**](#2-collaborating-effectively-in-excel-online) (3 videos)
-  - Sharing your work and collaborating with others
-  - Securing your files with permission settings
-  - Tracking edits in Excel with Show Changes
+  - [Sharing your work and collaborating with others](#sharing-your-work-and-collaborating-with-others)
+  - [Securing your files with permission settings](#securing-your-files-with-permission-settings)
+  - [Tracking edits in Excel with Show Changes](#tracking-edits-in-excel-with-show-changes)
 - [**3. Visualizing Data with Charts in Excel Online**](#3-visualizing-data-with-charts-in-excel-online) (3 videos)
-  - What you need to know before creating charts
-  - Creating eye-catching Excel charts for stakeholders
-  - Customizing charts with advanced Excel tools
+  - [What you need to know before creating charts](#what-you-need-to-know-before-creating-charts)
+  - [Creating eye-catching Excel charts for stakeholders](#creating-eye-catching-excel-charts-for-stakeholders)
+  - [Customizing charts with advanced Excel tools](#customizing-charts-with-advanced-excel-tools)
 - [**4. Supercharging Your Data with Copilot**](#4-supercharging-your-data-with-copilot) (5 videos)
-  - Getting started with Copilot in Excel
-  - Using Copilot to analyze your data
-  - Partnering with Copilot for enhanced productivity
-  - Challenge: Use Copilot to create a chart
-  - Solution: Use Copilot to create a chart
+  - [Getting started with Copilot in Excel](#getting-started-with-copilot-in-excel)
+  - [Using Copilot to analyze your data](#using-copilot-to-analyze-your-data)
+  - [Partnering with Copilot for enhanced productivity](#partnering-with-copilot-for-enhanced-productivity)
+  - [Challenge: Use Copilot to create a chart](#challenge-use-copilot-to-create-a-chart)
+  - [Solution: Use Copilot to create a chart](#solution-use-copilot-to-create-a-chart)
 - [**5. Taking Your Excel Skills to the Next Level**](#5-taking-your-excel-skills-to-the-next-level) (2 videos)
-  - Streamlining your layout with modern grids
-  - Adding interactive elements with checkboxes
+  - [Streamlining your layout with modern grids](#streamlining-your-layout-with-modern-grids)
+  - [Adding interactive elements with checkboxes](#adding-interactive-elements-with-checkboxes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Getting the most out of Excel Online
+  - [Getting the most out of Excel Online](#getting-the-most-out-of-excel-online)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kickstart your Excel Online journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980)
@@ -101,14 +101,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), business (2), ai (1), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [joshua] (1)
 
 
 ### 1. Getting Started with Excel Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting acquainted with Excel Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980)
@@ -143,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), web (2), [[Microsoft 365]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Env Vars:** url (1)
@@ -203,9 +204,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (4), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (7), select the (3), dropdown (3)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** let (5), this, (1)
 > **Exercise Files:** exercise file (2), zip file (1), exercise files (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -267,8 +268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), feature (1)
 > **UI Navigation:** click on (6), select the (3), dropdown (3)
-> **Code Keywords:** let (3), default. (2), new, (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -333,9 +334,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (3), [[Microsoft OneDrive|Onedrive]] (1), data (1)
 > **UI Navigation:** click on (2), select the (2), open the (1), checkbox (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -354,7 +355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - okay (1)
 
@@ -395,8 +396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), next (2)
 > **Versions:** version 1 (1), version 3 (1)
-> **Code Keywords:** delete (1)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -404,7 +405,7 @@ created: 2026-04-29
 
 ### 2. Collaborating Effectively in Excel Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sharing your work and collaborating with others
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/sharing-your-work-and-collaborating-with-others?u=76281980)
@@ -457,7 +458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), super (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft OneDrive|Onedrive]] (3), next (1)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
@@ -497,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (2), private (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft OneDrive|Onedrive]] (2)
 > **UI Navigation:** click on (2), select the (1), dropdown (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -542,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1), feature (1), hit (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **UI Navigation:** click on (1), select the (1)
 > **Exercise Files:** exercise file (1)
@@ -552,7 +553,7 @@ created: 2026-04-29
 
 ### 3. Visualizing Data with Charts in Excel Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What you need to know before creating charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/what-you-need-to-know-before-creating-charts?u=76281980)
@@ -583,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -639,7 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), business (1)
 > **UI Navigation:** select the (2), click on (1), dropdown (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Cross-References:** go back to (1)
@@ -686,16 +687,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (1)
 > **UI Navigation:** click on (3), dropdown (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Supercharging Your Data with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Copilot in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980)
@@ -730,6 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft Excel|Excel]] (2), data (2), [[Microsoft]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** click on (2), select the (1), dropdown (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [presenter] (1)
@@ -775,7 +777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), include. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), data (4), [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -847,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), data (4), [[Microsoft Excel|Excel]] (1), [[Search]] (1)
 > **Analogies:** such as (2), just like (1), imagine (1)
 > **UI Navigation:** select the (1), click on (1)
 > **CLI Commands:** find (1)
@@ -877,6 +879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Copilot|Copilot]] (1), prompt (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [narrator] (1)
@@ -912,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Excel|Excel]] (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -921,7 +924,7 @@ created: 2026-04-29
 
 ### 5. Taking Your Excel Skills to the Next Level
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Streamlining your layout with modern grids
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/streamlining-your-layout-with-modern-grids?u=76281980)
@@ -970,8 +973,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), feature (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1011,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), super (1)
+> **Frameworks & Libraries:** data (2), feature (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** c12 (1)
 > **Definitions:** is a  (1)
@@ -1021,7 +1024,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the most out of Excel Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980)
@@ -1052,7 +1055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft]] (2), [[LinkedIn]] (2), data (1)
 > **Speakers:** - [joshua] (1)
 
 

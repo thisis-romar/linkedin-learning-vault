@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/web-application-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-3%20Injection%20and%20-4%20Insecure%20Design.md)
@@ -47,28 +47,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - 2021 OWASP Top 10
-  - What you should know
+  - [2021 OWASP Top 10](#2021-owasp-top-10)
+  - [What you should know](#what-you-should-know)
 - [**1. Injection**](#1-injection) (6 videos)
-  - What is injection?
-  - Example #1: 2008 Heartland data breach
-  - Example #2: 2020 Accellion data breach
-  - Prevention technique #1: Prepared statements
-  - Prevention technique #2: Input validation
-  - Prevention technique #3: Escape special characters
+  - [What is injection?](#what-is-injection)
+  - [Example #1: 2008 Heartland data breach](#example-1-2008-heartland-data-breach)
+  - [Example #2: 2020 Accellion data breach](#example-2-2020-accellion-data-breach)
+  - [Prevention technique #1: Prepared statements](#prevention-technique-1-prepared-statements)
+  - [Prevention technique #2: Input validation](#prevention-technique-2-input-validation)
+  - [Prevention technique #3: Escape special characters](#prevention-technique-3-escape-special-characters)
 - [**2. Insecure Design**](#2-insecure-design) (6 videos)
-  - What is insecure design?
-  - Real-world example #1: G Suite accounts in 2018
-  - Real-world example #2: 2021 manufacturing data risk report
-  - Prevention technique #1: Threat modeling
-  - Prevention technique #2: Secure design patterns and principles
-  - Prevention technique #3: Secure development lifecycle
+  - [What is insecure design?](#what-is-insecure-design)
+  - [Real-world example #1: G Suite accounts in 2018](#real-world-example-1-g-suite-accounts-in-2018)
+  - [Real-world example #2: 2021 manufacturing data risk report](#real-world-example-2-2021-manufacturing-data-risk-report)
+  - [Prevention technique #1: Threat modeling](#prevention-technique-1-threat-modeling)
+  - [Prevention technique #2: Secure design patterns and principles](#prevention-technique-2-secure-design-patterns-and-principles)
+  - [Prevention technique #3: Secure development lifecycle](#prevention-technique-3-secure-development-lifecycle)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980)
@@ -107,10 +107,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[Security]] (5), [[OWASP]] (2), web application (1), [[Cybersecurity]] (1)
 > **Env Vars:** owasp (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### What you should know
@@ -134,15 +134,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (2), web (1), product (1), [[Security]] (1)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Injection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is injection?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980)
@@ -187,7 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2)
+> **Frameworks & Libraries:** database (9), web (7), data (4), web application (2), [[Databases]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** set up (1), required to (1)
 > **Speakers:** - [instructor] (1)
@@ -235,6 +235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (2), [[SQL]] (2), database (1)
 > **Env Vars:** sql (2), pci (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -278,9 +279,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (3), web (3), product (3), [[SQL]] (3)
 > **Env Vars:** sql (3), cisa (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** new. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prevention technique #1: Prepared statements
@@ -326,11 +327,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), database (4), [[OWASP]] (2), data (2), [[Java]] (1)
 > **Env Vars:** sql (5), owasp (2), net (1), php (1)
 > **CLI Commands:** php (1), make (1)
 > **Definitions:** is called (1), known as (1)
 > **Analogies:** kind of like (2)
-> **Code Keywords:** pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prevention technique #2: Input validation
@@ -374,9 +375,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), web (2), application (2), web application (1), [[OWASP]] (1)
 > **Analogies:** kind of like (1), for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type, (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -417,16 +418,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[SQL]] (2), web application (1), data (1), [[OWASP]] (1)
 > **Env Vars:** sql (2), owasp (1)
 > **CLI Commands:** find (1), mysql (1)
-> **Code Keywords:** type. (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Insecure Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is insecure design?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980)
@@ -459,6 +460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (4), teams (4), [[Security]] (3), web (2), data (1)
 > **Env Vars:** owasp (4)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -496,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (7), private (1), public (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Security]] (1), [[Google Drive]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -555,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1)
+> **Frameworks & Libraries:** data (10), [[Statistics]] (2), [[Programming]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [presenter] (1)
 
@@ -626,6 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (5), [[Cybersecurity]] (1), [[Microsoft Word|Word]] (1), data (1), application (1)
 > **Env Vars:** stride (3), pasta (1), trike (1), vast (1), dread (1)
 > **Definitions:** stands for (4), is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -671,8 +674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Security]] (3), management (2), web (1), [[Cryptography]] (1)
 > **Env Vars:** bsimm (2)
-> **Code Keywords:** function (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
@@ -729,14 +732,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), web (5), [[Software Development]] (2), [[Threat Modeling]] (2), web application (2)
 > **Definitions:** is an  (3), is a  (1)
-> **Code Keywords:** case, (1), finally, (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/next-steps?u=76281980)
@@ -763,7 +766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[OWASP]] (2), data (1), web (1), next (1)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)

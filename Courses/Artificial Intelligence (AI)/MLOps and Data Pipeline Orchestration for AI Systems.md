@@ -38,7 +38,7 @@ tags:
   - skill/data-pipelines
   - skill/orchestration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/MLOps%20and%20Data%20Pipeline%20Orchestration%20for%20AI%20Systems.md)
@@ -57,34 +57,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Importance of MLOps
-  - Prerequisites
+  - [Importance of MLOps](#importance-of-mlops)
+  - [Prerequisites](#prerequisites)
 - [**1. The Need for MLOps**](#1-the-need-for-mlops) (4 videos)
-  - Agile development and DevOps
-  - Introducing MLOps
-  - The MLOps lifecycle
-  - Tracking artifacts in MLOps
+  - [Agile development and DevOps](#agile-development-and-devops)
+  - [Introducing MLOps](#introducing-mlops)
+  - [The MLOps lifecycle](#the-mlops-lifecycle)
+  - [Tracking artifacts in MLOps](#tracking-artifacts-in-mlops)
 - [**2. MLOps with MLflow**](#2-mlops-with-mlflow) (4 videos)
-  - Introducing MLflow
-  - Install MLflow and prepare data for machine learning
-  - Track a model run and register a model
-  - Multiple model versions and predictions using registered models
+  - [Introducing MLflow](#introducing-mlflow)
+  - [Install MLflow and prepare data for machine learning](#install-mlflow-and-prepare-data-for-machine-learning)
+  - [Track a model run and register a model](#track-a-model-run-and-register-a-model)
+  - [Multiple model versions and predictions using registered models](#multiple-model-versions-and-predictions-using-registered-models)
 - [**3. LLMOps for Large Language Models**](#3-llmops-for-large-language-models) (5 videos)
-  - Introducing LLMOps
-  - LLMOps vs. MLOps
-  - LLM model development and evaluation
-  - LLM model deployment and operations
-  - Benefits, best practices, and considerations for LLMOps
+  - [Introducing LLMOps](#introducing-llmops)
+  - [LLMOps vs. MLOps](#llmops-vs-mlops)
+  - [LLM model development and evaluation](#llm-model-development-and-evaluation)
+  - [LLM model deployment and operations](#llm-model-deployment-and-operations)
+  - [Benefits, best practices, and considerations for LLMOps](#benefits-best-practices-and-considerations-for-llmops)
 - [**4. Data Orchestration Pipelines**](#4-data-orchestration-pipelines) (3 videos)
-  - Components of a data orchestration pipeline
-  - Detailed overview of pipeline components
-  - Data orchestration pipeline best practices and dos and don'ts
+  - [Components of a data orchestration pipeline](#components-of-a-data-orchestration-pipeline)
+  - [Detailed overview of pipeline components](#detailed-overview-of-pipeline-components)
+  - [Data orchestration pipeline best practices and dos and don'ts](#data-orchestration-pipeline-best-practices-and-dos-and-donts)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and further study
+  - [Summary and further study](#summary-and-further-study)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980)
@@ -127,7 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** [[MLOps]] (5), data (4), ai (2), teams (2), llm (2)
 > **Env Vars:** llm (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** ai (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -155,7 +155,7 @@ created: 2026-04-29
 
 ### 1. The Need for MLOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile development and DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980)
@@ -256,9 +256,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (11), [[Agile Development|Agile]] (8), data (8), teams (6), [[MLOps]] (4)
 > **Definitions:** is an  (1), is a  (1), refers to (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Introducing MLOps
@@ -322,7 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (2)
+> **Frameworks & Libraries:** data (11), [[MLOps]] (7), teams (4), [[Engineering]] (2), management (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -426,9 +426,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[MLOps]] (12), [[Continuous Integration (CI)|Continuous integration]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (6), [[Feature Engineering]] (2)
 > **CLI Commands:** cd (2), find (1), make (1)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** let (2)
 > **Definitions:** refers to (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
@@ -563,7 +563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2)
+> **Frameworks & Libraries:** data (22), [[MLOps]] (8), [[Git]] (3), [[Metadata]] (3), teams (3)
 > **CLI Commands:** git (3), docker (1)
 > **Analogies:** such as (3)
 > **Env Vars:** onnx (1), dvc (1)
@@ -575,7 +575,7 @@ created: 2026-04-29
 
 ### 2. MLOps with MLflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing MLflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980)
@@ -672,8 +672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLflow]] (25), next (3), data (3), management (2), [[Metadata]] (2)
 > **CLI Commands:** make (2), docker (2), python (1)
-> **Code Keywords:** let (2), interface (2)
 > **Env Vars:** cli (1), rest (1), api (1)
 > **Definitions:** is an  (1), is a  (1), known as (1)
 > **Analogies:** such as (3)
@@ -767,8 +767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Python (Programming Language)|Python]] (3), [[MLflow]] (1), web (1)
 > **CLI Commands:** python (3), find (2), make (1), pip (1)
-> **Code Keywords:** let (5), interface (1), this, (1)
 > **Env Vars:** int (2), uint8 (2), csv (1), uci (1)
 > **Prerequisites:** install (3), make sure you have (1)
 > **Versions:** python 3 (1), 2.2 (1), 1.3 (1)
@@ -869,9 +869,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLflow]] (18), data (5), [[Logistic Regression]] (2), cd (2), hit (1)
 > **Code Identifiers:** bank_marketing (3), logistic_regression (3), run_id (2), model_artifact (2), set_tracking_uri (1)
 > **CLI Commands:** find (3), cd (2), make (1)
-> **Code Keywords:** let (2), this, (1), from. (1)
 > **File Paths:** conda.yaml (1), python_env.yaml (1), requirements.txt (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -959,9 +959,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLflow]] (4), [[Logistic Regression]] (2), data (1)
 > **Code Identifiers:** bank_marketing_model (5), random_forest (4), bank_marketing_production_model (4), start_run (1), model_name (1)
 > **Versions:** version 2 (5), version 1 (2)
-> **Code Keywords:** let (5), this, (1)
 > **Env Vars:** uri (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
@@ -970,7 +970,7 @@ created: 2026-04-29
 
 ### 3. LLMOps for Large Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing LLMOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980)
@@ -1045,8 +1045,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (5), llm (5), data (5), [[MLOps]] (4), prompt (3)
 > **Env Vars:** llm (5), mops (1)
-> **Code Keywords:** require (3), let (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1152,8 +1152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), llm (5), [[Prompt Engineering]] (5), [[MLOps]] (2), next (2)
 > **Env Vars:** llm (5), rlhf (1), bleu (1), rouge (1), gpt (1)
-> **Code Keywords:** let (2), require (2), finally, (1), switch (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** set up (1)
@@ -1246,8 +1246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), llm (5), [[Prompt Engineering]] (5), [[Reinforcement Learning]] (3), [[Privacy]] (3)
 > **Env Vars:** llm (5), rlhf (2)
-> **Code Keywords:** let (3), finally, (1), from, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - [presenter] (1)
@@ -1357,8 +1357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (8), prompt (5), [[Fine Tuning]] (4), [[Metadata]] (2), [[User Experience (UX)|User experience]] (2)
 > **Env Vars:** llm (8), gpu (1), cpu (1)
-> **Code Keywords:** let (4), case. (1), finally, (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (1), configure (1)
 > **Code Identifiers:** vllm (1)
@@ -1444,16 +1444,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), llm (5), [[Fine Tuning]] (4), [[Version Control]] (3), ai (2)
 > **Env Vars:** llm (5), dvc (1), cicd (1)
 > **CLI Commands:** make (4), git (1)
 > **Warnings:** watch out (1), keep in mind (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Data Orchestration Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of a data orchestration pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980)
@@ -1512,7 +1512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** data (22), [[Orchestration]] (5), ai (2), [[Databases]] (1), cloud (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1620,9 +1620,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (39), etl (3), [[SQL]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** etl (3), elt (3), sql (2), rest (1), csv (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Analogies:** such as (2)
@@ -1720,17 +1720,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Orchestration]] (8), open-source (3), llm (2), [[Debugging]] (2)
 > **CLI Commands:** make (6), aws (2), git (1), apache (1), python (1)
 > **Env Vars:** llm (2), aws (2), api (1)
 > **Definitions:** is an  (2), refers to (1), is a  (1)
-> **Code Keywords:** self (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and further study
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980)
@@ -1765,7 +1765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[MLOps]] (5), ai (4), data (3), [[Orchestration]] (2), [[DevOps]] (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)

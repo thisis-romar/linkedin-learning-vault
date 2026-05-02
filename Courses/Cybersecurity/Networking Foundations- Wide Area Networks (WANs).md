@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Networking%20Foundations-%20Wide%20Area%20Networks%20(WANs).md)
@@ -48,38 +48,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction
-  - What you should know
+  - [Introduction](#introduction)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to WAN**](#1-introduction-to-wan) (5 videos)
-  - What is WAN?
-  - WAN topologies
-  - WAN terminologies
-  - WAN devices
-  - WAN provider links
+  - [What is WAN?](#what-is-wan)
+  - [WAN topologies](#wan-topologies)
+  - [WAN terminologies](#wan-terminologies)
+  - [WAN devices](#wan-devices)
+  - [WAN provider links](#wan-provider-links)
 - [**2. Private WAN**](#2-private-wan) (4 videos)
-  - T1/E1 and T3/E3 leased lines for WAN
-  - Circuit-switched WAN connectivity
-  - Packet-switched WAN connectivity
-  - WAN via MPLS
+  - [T1/E1 and T3/E3 leased lines for WAN](#t1e1-and-t3e3-leased-lines-for-wan)
+  - [Circuit-switched WAN connectivity](#circuit-switched-wan-connectivity)
+  - [Packet-switched WAN connectivity](#packet-switched-wan-connectivity)
+  - [WAN via MPLS](#wan-via-mpls)
 - [**3. Public WAN**](#3-public-wan) (4 videos)
-  - WAN via DSL
-  - WAN via cable
-  - Wireless WAN via 4G/ 5G
-  - Wireless WAN via Satellite
+  - [WAN via DSL](#wan-via-dsl)
+  - [WAN via cable](#wan-via-cable)
+  - [Wireless WAN via 4G/ 5G](#wireless-wan-via-4g-5g)
+  - [Wireless WAN via Satellite](#wireless-wan-via-satellite)
 - [**4. Modern WAN**](#4-modern-wan) (5 videos)
-  - Dedicated internet access (DIA)
-  - WAN via Fiber Optics
-  - Ethernet WAN and Dark Fiber
-  - Software-defined WAN (SD-WAN)
-  - LoRaWAN
+  - [Dedicated internet access (DIA)](#dedicated-internet-access-dia)
+  - [WAN via Fiber Optics](#wan-via-fiber-optics)
+  - [Ethernet WAN and Dark Fiber](#ethernet-wan-and-dark-fiber)
+  - [Software-defined WAN (SD-WAN)](#software-defined-wan-sd-wan)
+  - [LoRaWAN](#lorawan)
 - [**Conclusion**](#conclusion) (3 videos)
-  - WAN consideration
-  - WAN security and optimization
-  - Next steps
+  - [WAN consideration](#wan-consideration)
+  - [WAN security and optimization](#wan-security-and-optimization)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/introduction?u=76281980)
@@ -104,8 +104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), vpn (1), [[Security]] (1)
 > **Env Vars:** wan (2), dsl (1), vpn (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [jarrel] (1)
 
 #### What you should know
@@ -127,14 +127,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** cloud (1)
 > **Env Vars:** isp (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to WAN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is WAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-is-wan?u=76281980)
@@ -197,10 +197,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[Telecommunications]] (1), [[Electronics]] (1), data (1), [[Search]] (1)
 > **Env Vars:** wan (16), tia (1), eia (1), iso (1), ieee (1)
 > **Definitions:** refers to (1), is a  (1), is called (1)
 > **Analogies:** think of it as (1), imagine (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### WAN topologies
@@ -306,9 +306,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (6), vpn (2), [[Microsoft Office|Office]] (2), business (1)
 > **Definitions:** refers to (3), is a  (2), known as (1), means that (1)
 > **Env Vars:** wan (4), vpn (2)
-> **Code Keywords:** private (2), let (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
@@ -370,9 +370,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft Office|Office]] (2), business (1), next (1)
 > **Env Vars:** wan (3), isp (2), cpe (1), mpoe (1)
 > **Definitions:** known as (5), is an  (1)
-> **Code Keywords:** this, (1), let (1), case. (1)
 > **Speakers:** - [instructor] (1)
 
 #### WAN devices
@@ -456,8 +456,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Office|Office]] (2), [[Zoom]] (1), [[Telecommunications]] (1), lan (1)
 > **Env Vars:** wan (11), dte (4), dce (3), csu (2), dsu (2)
-> **Code Keywords:** switch (4), let (3), public (1), interface (1), while. (1)
 > **Definitions:** known as (2), is a  (2), stands for (1)
 > **Warnings:** be aware (1), note that (1), be careful (1)
 > **Analogies:** such as (2)
@@ -496,15 +496,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[5G]] (1), [[Agile Development|Agile]] (1), business (1)
 > **Env Vars:** wan (9), psdn (1), isdn (1), mpls (1), dsl (1)
-> **Code Keywords:** public (3), private (2), switch (2)
 > **Analogies:** such as (6)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Private WAN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### T1/E1 and T3/E3 leased lines for WAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/t1-e1-and-t3-e3-leased-lines-for-wan?u=76281980)
@@ -559,7 +559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), let (2), interface (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), data (1)
 > **Versions:** 1.544 (1), 43.736 (1), 2.048 (1), 34.368 (1)
 > **Env Vars:** wan (1), dce (1), dte (1)
 > **Analogies:** such as (1)
@@ -632,8 +632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), data (1)
 > **Env Vars:** pstn (3), wan (2), isdn (2), pots (1), kbps (1)
-> **Code Keywords:** let (2), public (1), else. (1)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -710,7 +710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (1), break, (1), private (1)
+> **Frameworks & Libraries:** traffic (4), data (2), next (1)
 > **Env Vars:** atm (5)
 > **Definitions:** is an  (3), means that (1), known as (1)
 > **CLI Commands:** find (1)
@@ -775,9 +775,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (15), data (5), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1), traffic (1), cloud (1)
 > **Env Vars:** mpls (15), atm (1), dsl (1), ietf (1), rfc (1)
 > **Definitions:** means that (3), is a  (2), stands for (1)
-> **Code Keywords:** let (1)
 > **Documentation:** rfc (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -786,7 +786,7 @@ created: 2026-04-29
 
 ### 3. Public WAN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### WAN via DSL
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-dsl?u=76281980)
@@ -903,9 +903,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), lan (1), [[5G]] (1)
 > **Env Vars:** dsl (18), adsl (5), mbps (5), wan (3), vdsl (2)
 > **Definitions:** means that (2), is a  (2), is an  (1), stands for (1), refers to (1)
-> **Code Keywords:** private (1), let (1), public (1), case, (1)
 > **Analogies:** such as (2), for example (1)
 > **Versions:** 1.5 (1)
 > **Prerequisites:** setup (1)
@@ -950,9 +950,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Office|Office]] (1), next (1)
 > **Env Vars:** wan (2), docsis (1), dsl (1), cmts (1)
 > **Definitions:** is a  (1), known as (1)
-> **Code Keywords:** interface (1)
 > **Documentation:** specification (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** you'll need (1)
@@ -1041,9 +1041,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[5G]] (4), next (2), [[Telecommunications]] (1), lan (1)
 > **Env Vars:** sim (8), wan (6), rssi (1), lan (1)
 > **Definitions:** known as (2), is a  (2)
-> **Code Keywords:** let (3)
 > **Code Identifiers:** esim (1), isim (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
@@ -1145,10 +1145,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Mesh]] (1), next (1)
 > **Env Vars:** leo (7), wan (6), geo (4), dvb (2), vsat (2)
 > **Analogies:** for example (2), such as (1), similar to (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
-> **Code Keywords:** private (1)
 > **Tools:** terminal (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -1156,7 +1156,7 @@ created: 2026-04-29
 
 ### 4. Modern WAN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dedicated internet access (DIA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/dedicated-internet-access-dia?u=76281980)
@@ -1251,8 +1251,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Security]] (1), data (1)
 > **Env Vars:** dia (6), wan (1), adsl (1), sla (1), isp (1)
-> **Code Keywords:** public (4), private (2), let (1), else, (1), pass (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** such as (1), it's like (1)
 > **Cross-References:** we covered (1)
@@ -1373,10 +1373,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (10), next (2), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** wan (9), fttp (5), fttn (4), fttb (3), sonet (3)
 > **CLI Commands:** node (10)
 > **Definitions:** is a  (3), known as (1), refers to (1), is called (1), stands for (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Cross-References:** in the next (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** click on (1)
@@ -1471,8 +1471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), lan (1), traffic (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Env Vars:** wan (10), atm (2), ieee (1), lan (1), tdm (1)
-> **Code Keywords:** let (1), continue (1), private (1)
 > **Definitions:** means that (1), known as (1), is a  (1)
 > **Versions:** 802.3 (1)
 > **Prerequisites:** install (1)
@@ -1537,9 +1537,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), business (2), power (1), traffic (1), game (1)
 > **Env Vars:** wan (8)
 > **Definitions:** is a  (3), stands for (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1624,16 +1624,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), data (2), application (2), [[Telecommunications]] (1), [[IoT]] (1)
 > **Env Vars:** wan (5), ism (1)
 > **Versions:** 2.4 (2)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### WAN consideration
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980)
@@ -1792,8 +1792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), business (5), traffic (3), node (2), [[5G]] (1)
 > **Env Vars:** wan (9), dsl (2), fttp (1), fttc (1), fttb (1)
-> **Code Keywords:** let (2), private (1), public (1)
 > **CLI Commands:** node (2)
 > **Versions:** 99.99 (1)
 > **Definitions:** is an  (1)
@@ -1933,8 +1933,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (14), data (8), [[Security]] (7), vpn (5), next (4)
 > **Env Vars:** wan (8), vpn (5), cia (1), ups (1), mac (1)
-> **Code Keywords:** let (3), private (2), pass (1), finally, (1)
 > **Analogies:** think of it like (1), for example (1), such as (1), think of it as (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -1963,7 +1963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), next (1), career (1)
 > **Env Vars:** wan (2)
 > **Speakers:** - [instructor] (1)
 

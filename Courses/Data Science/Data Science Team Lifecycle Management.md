@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Team%20Lifecycle%20Management.md)
@@ -41,62 +41,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How to recruit, develop, and retain data scientists
+  - [How to recruit, develop, and retain data scientists](#how-to-recruit-develop-and-retain-data-scientists)
 - [**1. Start with Business Goals**](#1-start-with-business-goals) (3 videos)
-  - How to determine the need for data scientists
-  - Practical examples of the types of projects data scientists work on
-  - How to justify increasing the headcount for your company
+  - [How to determine the need for data scientists](#how-to-determine-the-need-for-data-scientists)
+  - [Practical examples of the types of projects data scientists work on](#practical-examples-of-the-types-of-projects-data-scientists-work-on)
+  - [How to justify increasing the headcount for your company](#how-to-justify-increasing-the-headcount-for-your-company)
 - [**2. Recruiting**](#2-recruiting) (6 videos)
-  - How to determine what level of data scientist you need and how many
-  - What are the skills to prioritize when hiring data scientists
-  - Recruit with DEI in mind
-  - How to craft a job description that resonates
-  - How to create a more robust and efficient interview process
-  - How to decide on hiring vs. using automation software
+  - [How to determine what level of data scientist you need and how many](#how-to-determine-what-level-of-data-scientist-you-need-and-how-many)
+  - [What are the skills to prioritize when hiring data scientists](#what-are-the-skills-to-prioritize-when-hiring-data-scientists)
+  - [Recruit with DEI in mind](#recruit-with-dei-in-mind)
+  - [How to craft a job description that resonates](#how-to-craft-a-job-description-that-resonates)
+  - [How to create a more robust and efficient interview process](#how-to-create-a-more-robust-and-efficient-interview-process)
+  - [How to decide on hiring vs. using automation software](#how-to-decide-on-hiring-vs-using-automation-software)
 - [**3. Onboarding**](#3-onboarding) (5 videos)
-  - How to onboard new employees
-  - How to announce a new employee hire
-  - Get your hands dirty: Which activities to focus on in the first 30 days
-  - How to create a skills rubric and assess skills
-  - How to choose an onboarding model: The surveyor vs. the understudy
+  - [How to onboard new employees](#how-to-onboard-new-employees)
+  - [How to announce a new employee hire](#how-to-announce-a-new-employee-hire)
+  - [Get your hands dirty: Which activities to focus on in the first 30 days](#get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days)
+  - [How to create a skills rubric and assess skills](#how-to-create-a-skills-rubric-and-assess-skills)
+  - [How to choose an onboarding model: The surveyor vs. the understudy](#how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy)
 - [**4. Day-To-Day Management**](#4-day-to-day-management) (8 videos)
-  - How to choose a management model that works for you
-  - How to manage in-office workers vs. remote workers
-  - Key principles for managing data scientists for a small company
-  - Key principles for managing data scientists for a mid-sized company
-  - Key principles for managing data scientists for a large company
-  - How to determine the appropriate processes to incorporate
-  - How to avoid the Player/Coach trap
-  - How to set priorities for the team: A three-layer approach
+  - [How to choose a management model that works for you](#how-to-choose-a-management-model-that-works-for-you)
+  - [How to manage in-office workers vs. remote workers](#how-to-manage-in-office-workers-vs-remote-workers)
+  - [Key principles for managing data scientists for a small company](#key-principles-for-managing-data-scientists-for-a-small-company)
+  - [Key principles for managing data scientists for a mid-sized company](#key-principles-for-managing-data-scientists-for-a-mid-sized-company)
+  - [Key principles for managing data scientists for a large company](#key-principles-for-managing-data-scientists-for-a-large-company)
+  - [How to determine the appropriate processes to incorporate](#how-to-determine-the-appropriate-processes-to-incorporate)
+  - [How to avoid the Player/Coach trap](#how-to-avoid-the-playercoach-trap)
+  - [How to set priorities for the team: A three-layer approach](#how-to-set-priorities-for-the-team-a-three-layer-approach)
 - [**5. Career Pathing and Development**](#5-career-pathing-and-development) (5 videos)
-  - Align an employee's personal goals to the goals of the business
-  - How to help data scientists improve soft skills and hard skills
-  - How to determine when a data scientist should acquire more schooling
-  - Develop an individual data scientist vs. the team as a whole
-  - When to move a data scientist into a different role
+  - [Align an employee's personal goals to the goals of the business](#align-an-employees-personal-goals-to-the-goals-of-the-business)
+  - [How to help data scientists improve soft skills and hard skills](#how-to-help-data-scientists-improve-soft-skills-and-hard-skills)
+  - [How to determine when a data scientist should acquire more schooling](#how-to-determine-when-a-data-scientist-should-acquire-more-schooling)
+  - [Develop an individual data scientist vs. the team as a whole](#develop-an-individual-data-scientist-vs-the-team-as-a-whole)
+  - [When to move a data scientist into a different role](#when-to-move-a-data-scientist-into-a-different-role)
 - [**6. Promotions**](#6-promotions) (3 videos)
-  - How to create a pathway to promotion
-  - How to assess whether or not an employee deserves a promotion
-  - How to communicate your plans to promote to the larger organization
+  - [How to create a pathway to promotion](#how-to-create-a-pathway-to-promotion)
+  - [How to assess whether or not an employee deserves a promotion](#how-to-assess-whether-or-not-an-employee-deserves-a-promotion)
+  - [How to communicate your plans to promote to the larger organization](#how-to-communicate-your-plans-to-promote-to-the-larger-organization)
 - [**7. Retention**](#7-retention) (4 videos)
-  - How to prevent burnout
-  - When to fight for an employee and when to let go
-  - Make space for new ideas
-  - What to do when all else fails
+  - [How to prevent burnout](#how-to-prevent-burnout)
+  - [When to fight for an employee and when to let go](#when-to-fight-for-an-employee-and-when-to-let-go)
+  - [Make space for new ideas](#make-space-for-new-ideas)
+  - [What to do when all else fails](#what-to-do-when-all-else-fails)
 - [**8. Mentoring vs. Teaching**](#8-mentoring-vs-teaching) (3 videos)
-  - Mentorship and teaching
-  - How to determine when to mentor and when to teach
-  - Mentor outside of your immediate team
+  - [Mentorship and teaching](#mentorship-and-teaching)
+  - [How to determine when to mentor and when to teach](#how-to-determine-when-to-mentor-and-when-to-teach)
+  - [Mentor outside of your immediate team](#mentor-outside-of-your-immediate-team)
 - [**9. Employee Termination**](#9-employee-termination) (3 videos)
-  - How to avoid unnecessary termination
-  - Which steps should you take before considering terminating an employee
-  - Tips for terminating employees confidently and humanely
+  - [How to avoid unnecessary termination](#how-to-avoid-unnecessary-termination)
+  - [Which steps should you take before considering terminating an employee](#which-steps-should-you-take-before-considering-terminating-an-employee)
+  - [Tips for terminating employees confidently and humanely](#tips-for-terminating-employees-confidently-and-humanely)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to recruit, develop, and retain data scientists
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980)
@@ -131,15 +131,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), teams (3), [[Soft Skills]] (2), [[Engineering]] (1), [[Technical Leadership]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - data (1)
 
 
 ### 1. Start with Business Goals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine the need for data scientists
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980)
@@ -198,9 +198,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), business (4), [[E-Commerce]] (1), product (1), [[Statistics]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
 
@@ -265,10 +265,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), product (2), [[Microsoft Products|Products]] (1), ai (1), [[Feature Engineering]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** mvp (1), aws (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** module (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -327,7 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1), case, (1), if, (1)
+> **Frameworks & Libraries:** data (10), product (2), business (1), next (1), [[E-Commerce]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** roi (1), sql (1)
 > **CLI Commands:** make (1)
@@ -339,7 +339,7 @@ created: 2026-04-29
 
 ### 2. Recruiting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine what level of data scientist you need and how many
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-what-level-of-data-scientist-you-need-and-how-many?u=76281980)
@@ -404,8 +404,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), business (3), leadership (3), [[Statistics]] (1), management (1)
 > **Cross-References:** we covered (1), previous video (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
 
@@ -466,11 +466,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Programming]] (11), [[Python (Programming Language)|Python]] (5), [[Statistics]] (4), [[Linear Algebra]] (3)
 > **CLI Commands:** python (5), make (2)
 > **Cross-References:** previous video (1), we mentioned (1)
 > **Definitions:** is a  (2)
 > **File Paths:** no.js (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** prerequisite (1)
@@ -528,6 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), job description (1), product (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (2)
 > **Analogies:** for example (1)
@@ -599,9 +600,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** job description (7), data (3), business (2), [[Soft Skills]] (1), leadership (1)
 > **CLI Commands:** make (6)
 > **Speakers:** - [instructor] (2), - there (1), - invest (1), - and (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** we discussed (1)
 
 #### How to create a more robust and efficient interview process
@@ -667,11 +668,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (2), next (2), [[Programming]] (2), [[Statistics]] (2)
 > **CLI Commands:** make (2), python (1)
 > **Speakers:** - setting (1), - [instructor] (1), - so (1)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (1), make sure to (1)
-> **Code Keywords:** let (1)
 > **Non-Speech:** (computer chimes) (1)
 
 #### How to decide on hiring vs. using automation software
@@ -741,8 +742,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), product (3), feature (2), [[Automation]] (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), throw (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - there (1)
@@ -750,7 +751,7 @@ created: 2026-04-29
 
 ### 3. Onboarding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to onboard new employees
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-onboard-new-employees?u=76281980)
@@ -833,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), finally, (1), function (1)
+> **Frameworks & Libraries:** business (5), data (5), teams (2), next (2), ci (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** cd (1)
 > **Definitions:** is a  (1)
@@ -904,8 +905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** you should always (1)
@@ -965,6 +966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[SQL]] (2), [[Python (Programming Language)|Python]] (2), database (2), [[Programming]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - one (1), - learn (1)
@@ -1030,8 +1032,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Soft Skills]] (2), job description (1), career (1), [[Statistics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** for example (1)
 > **Best Practices:** rule of thumb (1)
@@ -1099,7 +1101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** data (8), [[Deep Learning]] (2), open-source (1), [[Debugging]] (1), career (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Analogies:** for example (1), kind of like (1)
 > **Prerequisites:** required to (2)
@@ -1111,7 +1113,7 @@ created: 2026-04-29
 
 ### 4. Day-To-Day Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to choose a management model that works for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-a-management-model-that-works-for-you?u=76281980)
@@ -1176,7 +1178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (17), teams (4), business (2)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
@@ -1255,8 +1257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), management (1), data (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - managing (1)
 
@@ -1315,8 +1317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), management (1), teams (1), [[Agile Development|Agile]] (1), [[Soft Skills]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - leading (1)
@@ -1370,7 +1372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), else, (1)
+> **Frameworks & Libraries:** data (7), management (2), business (1), teams (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - leading (1)
@@ -1424,8 +1426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), management (1), [[Big Data]] (1), [[Interviewing]] (1), [[Soft Skills]] (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - leading (1)
 
@@ -1496,9 +1498,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), management (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - whether (1)
 
@@ -1563,8 +1565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), teams (2), business (1), strengths (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - if (1)
 
@@ -1653,7 +1655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (6), business (6), strengths (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Warnings:** keep in mind (2)
 > **Analogies:** for example (1)
@@ -1662,7 +1664,7 @@ created: 2026-04-29
 
 ### 5. Career Pathing and Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Align an employee's personal goals to the goals of the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980)
@@ -1715,9 +1717,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), business (6), [[SQL]] (2), [[Statistics]] (1), [[Soft Skills]] (1)
 > **Env Vars:** sql (2), hql (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), if, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - data (1)
 
@@ -1770,7 +1772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** data (9), [[Soft Skills]] (9), business (3), [[Statistics]] (1), ai (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** stem (1)
@@ -1837,7 +1839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), self (1)
+> **Frameworks & Libraries:** data (11), job description (2), [[Deep Learning]] (2), [[Algorithms]] (2), [[Linear Algebra]] (2)
 > **Cross-References:** previous video (2), we discussed (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -1914,8 +1916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), teams (4), [[Soft Skills]] (2), business (2), [[Statistics]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), case, (1)
 > **Analogies:** for example (1)
 > **Warnings:** important note (1)
 > **Prerequisites:** make sure you have (1)
@@ -1980,9 +1982,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Soft Skills]] (3), business (2), [[Statistics]] (1), management (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), case, (1)
 > **Warnings:** don't make the mistake (1)
 > **Speakers:** - data (1)
 > **Non-Speech:** (bell chimes) (1)
@@ -1990,7 +1992,7 @@ created: 2026-04-29
 
 ### 6. Promotions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create a pathway to promotion
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980)
@@ -2053,9 +2055,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Probability]] (2), hr (2), business (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - for (1)
 
@@ -2118,9 +2120,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), business (5)
 > **Cross-References:** previous video (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** eda (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -2187,14 +2189,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), data (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), finally, (1), this. (1)
 > **Speakers:** - job (1)
 
 
 ### 7. Retention
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to prevent burnout
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-prevent-burnout?u=76281980)
@@ -2253,7 +2255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - job (1)
@@ -2306,7 +2308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - it (1)
 
@@ -2377,8 +2379,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (4), [[Prototyping]] (4), product (2), teams (1)
 > **Analogies:** just like (2), for example (2), such as (1)
-> **Code Keywords:** let (1), require (1)
 > **Warnings:** keep in mind (1), watch out (1)
 > **Env Vars:** mvp (1)
 > **Cross-References:** coming up (1)
@@ -2451,7 +2453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), if, (1), case, (1)
+> **Frameworks & Libraries:** data (4), [[Forms]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - dealing (1)
@@ -2459,7 +2461,7 @@ created: 2026-04-29
 
 ### 8. Mentoring vs. Teaching
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mentorship and teaching
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentorship-and-teaching?u=76281980)
@@ -2530,8 +2532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (3), career (1), [[Forms]] (1)
 > **Definitions:** is an  (2), is a  (2)
-> **Code Keywords:** let (2), this. (1)
 > **Speakers:** - at (1)
 
 #### How to determine when to mentor and when to teach
@@ -2583,7 +2585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** data (5), teams (1), [[Feature Engineering]] (1), [[Soft Skills]] (1), career (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -2646,16 +2648,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Diversity and Inclusion]] (1), career (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dei (1)
 > **Speakers:** - mentoring (1)
 
 
 ### 9. Employee Termination
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to avoid unnecessary termination
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980)
@@ -2720,7 +2722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (5), management (4), [[Soft Skills]] (1), next (1), job description (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
@@ -2789,7 +2791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), break. (1), finally, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), data (2), next (2), hr (2), business (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (3)
 > **Warnings:** warning (1), be aware (1)
@@ -2850,7 +2852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), include, (1), finally, (1)
+> **Frameworks & Libraries:** data (1), [[Security]] (1)
 > **Best Practices:** remember to (2), it's best to (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (2)
@@ -2860,7 +2862,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980)
@@ -2893,6 +2895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[LinkedIn]] (3), business (2), [[Engineering]] (1), teams (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

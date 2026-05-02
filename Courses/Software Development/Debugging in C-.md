@@ -30,7 +30,7 @@ tags:
   - skill/debugging-code
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Debugging%20in%20C-.md)
@@ -49,40 +49,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Debugging in C#
-  - What you should know
-  - How to use CoderPad
+  - [Debugging in C#](#debugging-in-c)
+  - [What you should know](#what-you-should-know)
+  - [How to use CoderPad](#how-to-use-coderpad)
 - [**1. Basics of Debugging**](#1-basics-of-debugging) (7 videos)
-  - What is debugging?
-  - What is a print statement?
-  - What is a breakpoint?
-  - Inspecting values of variables
-  - Execution in debug mode
-  - The debugging process
-  - Solution: Find the bug in string truncation
+  - [What is debugging?](#what-is-debugging)
+  - [What is a print statement?](#what-is-a-print-statement)
+  - [What is a breakpoint?](#what-is-a-breakpoint)
+  - [Inspecting values of variables](#inspecting-values-of-variables)
+  - [Execution in debug mode](#execution-in-debug-mode)
+  - [The debugging process](#the-debugging-process)
+  - [Solution: Find the bug in string truncation](#solution-find-the-bug-in-string-truncation)
 - [**2. More Debugging Tips and Tricks**](#2-more-debugging-tips-and-tricks) (4 videos)
-  - Covering edge cases
-  - Defensive programming
-  - Side effects
-  - Solution: Discount calculator
+  - [Covering edge cases](#covering-edge-cases)
+  - [Defensive programming](#defensive-programming)
+  - [Side effects](#side-effects)
+  - [Solution: Discount calculator](#solution-discount-calculator)
 - [**3. Common Errors in C#**](#3-common-errors-in-c) (5 videos)
-  - NullReferenceException
-  - IndexOutOfRangeException
-  - Logical errors
-  - Using a reference like a value
-  - Solution: Library management system
+  - [NullReferenceException](#nullreferenceexception)
+  - [IndexOutOfRangeException](#indexoutofrangeexception)
+  - [Logical errors](#logical-errors)
+  - [Using a reference like a value](#using-a-reference-like-a-value)
+  - [Solution: Library management system](#solution-library-management-system)
 - [**4. Practice Debugging C# Programs**](#4-practice-debugging-c-programs) (5 videos)
-  - Basic code challenge
-  - Basic code challenge: Solution
-  - Logical code challenge
-  - Logical code challenge: Solution
-  - Solution: Find bug in factorial function
+  - [Basic code challenge](#basic-code-challenge)
+  - [Basic code challenge: Solution](#basic-code-challenge-solution)
+  - [Logical code challenge](#logical-code-challenge)
+  - [Logical code challenge: Solution](#logical-code-challenge-solution)
+  - [Solution: Find bug in factorial function](#solution-find-bug-in-factorial-function)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/debugging-in-c-sharp?u=76281980)
@@ -103,8 +103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (2), [[LinkedIn]] (1), [[Programming]] (1)
 > **Tools:** visual studio (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Warnings:** common error (1)
 > **Speakers:** - [kathryn] (1)
@@ -132,9 +132,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** ide (2), cli (1)
 > **Tools:** visual studio (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -189,7 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -198,7 +198,7 @@ created: 2026-04-29
 
 ### 1. Basics of Debugging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is debugging?
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-debugging?u=76281980)
@@ -243,6 +243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (3), [[Software Testing]] (1), [[Software Development]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is an  (3)
 > **Analogies:** just like (1)
@@ -289,7 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), super (1)
+> **Frameworks & Libraries:** [[Debugging]] (3), data (1), application (1)
 > **Tools:** terminal (1), visual studio (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kathryn] (1)
@@ -445,7 +446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (6), case, (2), function (1), this. (1)
+> **Frameworks & Libraries:** hit (7), [[Debugging]] (2), application (1), node (1), [[JavaScript]] (1)
 > **CLI Commands:** make (1), node (1)
 > **Code Identifiers:** triplenumber (1)
 > **Tools:** visual studio (1)
@@ -560,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7), switch (1), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **CLI Commands:** find (7)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -640,7 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), continue (7), let (4)
+> **Frameworks & Libraries:** next (5), [[Debugging Code]] (1), hit (1)
 > **Cross-References:** go back to (1), later in (1)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** make (1)
@@ -698,6 +699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (4), next (3)
 > **CLI Commands:** find (5), make (1)
 > **Exercise Files:** source code (1)
 > **Prerequisites:** you'll need (1)
@@ -788,7 +790,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (1), return. (1), case, (1)
 > **Code Identifiers:** maxlength (10)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1), make (1)
@@ -798,7 +799,7 @@ created: 2026-04-29
 
 ### 2. More Debugging Tips and Tricks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Covering edge cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/covering-edge-cases?u=76281980)
@@ -889,7 +890,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), function (1), for, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - just (1)
@@ -967,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case, (2), let (2), throw (2), enum (1)
+> **Frameworks & Libraries:** [[Programming]] (7), data (2), application (1), hit (1), generic (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** testshape (4)
 > **Definitions:** is a  (2)
@@ -1047,7 +1047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (3), this, (1), case, (1)
+> **Frameworks & Libraries:** data (3), next (1), generic (1)
 > **Code Identifiers:** fullname (3), addgenericlastname (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** visual studio (1)
@@ -1093,7 +1093,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Non-Speech:** (silence) (4), (typing) (2), (upbeat music) (1)
-> **Code Keywords:** let (6)
 > **Versions:** 0.9 (3)
 > **Definitions:** is an  (2), means that (1)
 > **CLI Commands:** find (1), make (1)
@@ -1102,7 +1101,7 @@ created: 2026-04-29
 
 ### 3. Common Errors in C#
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### NullReferenceException
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/nullreferenceexception?u=76281980)
@@ -1187,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), type, (3), case, (1), type. (1), continue (1)
+> **Frameworks & Libraries:** [[Programming]] (1), data (1), hit (1), next (1)
 > **Definitions:** is a  (3), means that (2)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
@@ -1275,7 +1274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), continue (2), case, (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (2), [[Programming]] (1), hit (1)
 > **Warnings:** common error (1), be careful (1)
 > **Env Vars:** linq (1)
 > **Speakers:** - [instructor] (1)
@@ -1391,7 +1390,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (4), function (3), throw (2), try, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** finished (1)
 
@@ -1454,7 +1452,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (5), let (1), type, (1), class. (1), type. (1)
 > **Definitions:** is a  (6), means that (1), in other words (1)
 > **Warnings:** pitfall (1)
 > **Speakers:** - [instructor] (1)
@@ -1520,7 +1517,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (1)
 > **Code Identifiers:** availablebooks (5)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1528,7 +1524,7 @@ created: 2026-04-29
 
 ### 4. Practice Debugging C# Programs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic code challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge?u=76281980)
@@ -1557,7 +1553,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
@@ -1664,7 +1659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** hit (7), next (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** scroll down (1), go to (1), scroll up (1)
 > **CLI Commands:** find (1)
@@ -1730,8 +1725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging Code]] (1), next (1), [[Debugging]] (1)
 > **Env Vars:** bmi (13)
-> **Code Keywords:** let (2), function (2), if, (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [woman] (1)
@@ -1922,7 +1917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (3), continue (2), this, (2), function (1)
+> **Frameworks & Libraries:** next (2), data (1), [[Google]] (1)
 > **Env Vars:** bmi (12)
 > **Versions:** 6.44 (2), 77.3 (1), 142.65 (1), 16.78 (1), 16.8 (1)
 > **CLI Commands:** find (3), make (2)
@@ -1988,7 +1983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (4), function (2), case. (2), return. (1)
+> **Frameworks & Libraries:** hit (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1996,7 +1991,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/next-steps?u=76281980)
@@ -2017,6 +2012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ide (1)
 > **Tools:** visual studio (1)

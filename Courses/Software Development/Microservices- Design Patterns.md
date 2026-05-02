@@ -34,7 +34,7 @@ tags:
   - skill/software-design-patterns
   - skill/microservices
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Microservices-%20Design%20Patterns.md)
@@ -53,39 +53,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Solving microservices problems with patterns
-  - Vernacular of microservices
-  - Microservices and cloud native
+  - [Solving microservices problems with patterns](#solving-microservices-problems-with-patterns)
+  - [Vernacular of microservices](#vernacular-of-microservices)
+  - [Microservices and cloud native](#microservices-and-cloud-native)
 - [**1. Decomposition Patterns**](#1-decomposition-patterns) (6 videos)
-  - Decomposition of a system
-  - Domain-based microservices
-  - Business process-based microservices
-  - Atomic transaction-based microservices
-  - Strangler pattern
-  - Sidecar pattern
+  - [Decomposition of a system](#decomposition-of-a-system)
+  - [Domain-based microservices](#domain-based-microservices)
+  - [Business process-based microservices](#business-process-based-microservices)
+  - [Atomic transaction-based microservices](#atomic-transaction-based-microservices)
+  - [Strangler pattern](#strangler-pattern)
+  - [Sidecar pattern](#sidecar-pattern)
 - [**2. Integration Patterns**](#2-integration-patterns) (3 videos)
-  - Gateway pattern
-  - Process aggregator pattern
-  - Edge pattern
+  - [Gateway pattern](#gateway-pattern)
+  - [Process aggregator pattern](#process-aggregator-pattern)
+  - [Edge pattern](#edge-pattern)
 - [**3. Data Patterns**](#3-data-patterns) (4 videos)
-  - Single service database
-  - Shared service database
-  - Command Query Responsibility Segregation
-  - Asynchronous eventing
+  - [Single service database](#single-service-database)
+  - [Shared service database](#shared-service-database)
+  - [Command Query Responsibility Segregation](#command-query-responsibility-segregation)
+  - [Asynchronous eventing](#asynchronous-eventing)
 - [**4. Operational Patterns**](#4-operational-patterns) (7 videos)
-  - Log aggregation patterns
-  - Metrics aggregation patterns
-  - Tracing patterns
-  - External configuration
-  - Service discovery
-  - Continuous delivery
-  - Documentation
+  - [Log aggregation patterns](#log-aggregation-patterns)
+  - [Metrics aggregation patterns](#metrics-aggregation-patterns)
+  - [Tracing patterns](#tracing-patterns)
+  - [External configuration](#external-configuration)
+  - [Service discovery](#service-discovery)
+  - [Continuous delivery](#continuous-delivery)
+  - [Documentation](#documentation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving microservices problems with patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Engineering]] (1), [[Design Patterns]] (1), cloud (1), business (1)
 > **Speakers:** - as (1)
 
 #### Vernacular of microservices
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (4), [[Microservices]] (3), [[Design Patterns]] (1), [[Databases]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
@@ -232,7 +233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), this. (1)
+> **Frameworks & Libraries:** cloud (18), [[Microservices]] (10), [[Scalability]] (4), application (2), [[Application Development]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
@@ -241,7 +242,7 @@ created: 2026-04-29
 
 ### 1. Decomposition Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Decomposition of a system
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/decomposition-of-a-system?u=76281980)
@@ -296,7 +297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1), let (1)
+> **Frameworks & Libraries:** [[Microservices]] (6), business (4), functional (3), traffic (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - we (1)
 
@@ -387,8 +388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Microservices]] (2), next (2), api (2), [[Design Patterns]] (1)
 > **Env Vars:** api (2), crud (1), rest (1)
-> **Code Keywords:** yield (1), let (1), finally, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -480,7 +481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), finally, (2), module (1), let (1)
+> **Frameworks & Libraries:** business (17), data (5), api (3), [[Microservices]] (2), functional (2)
 > **Env Vars:** api (3)
 > **Analogies:** picture (1), for instance (1)
 > **CLI Commands:** find (1)
@@ -555,9 +556,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), api (2), database (2), [[Microservices]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** api (2), acid (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), function (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - there (1)
@@ -619,7 +620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (10), database (6), api (2), business (2), next (1)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (1), defined as (1)
 > **Speakers:** - now (1)
@@ -693,13 +694,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), else. (1), let (1), case, (1)
+> **Frameworks & Libraries:** [[Microservices]] (3), generic (2), power (2), next (1), application (1)
 > **Speakers:** - the (1)
 
 
 ### 2. Integration Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gateway pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980)
@@ -816,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), static (3), interface (1), this. (1), let (1)
+> **Frameworks & Libraries:** api (4), data (4), [[Orchestration]] (1), [[Security]] (1), business (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -905,10 +906,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12), api (4), data (3), next (2), [[Orchestration]] (1)
 > **Env Vars:** api (4), dry (1), rest (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** pass (1), finally, (1)
 > **Warnings:** caution (1)
 > **Speakers:** - the (1)
 
@@ -1011,8 +1012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), application (2), [[Scalability]] (1), business (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** the key is (1)
@@ -1021,7 +1022,7 @@ created: 2026-04-29
 
 ### 3. Data Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Single service database
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980)
@@ -1076,7 +1077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else, (1)
+> **Frameworks & Libraries:** data (11), database (9), [[Microservices]] (2), [[Databases]] (2), [[Scalability]] (2)
 > **Env Vars:** iops (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - we (1)
@@ -1138,7 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), new, (1)
+> **Frameworks & Libraries:** database (15), data (10), [[Databases]] (5), [[Application Development]] (1), [[Microservices]] (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - while (1), - in (1)
 > **Env Vars:** wan (1)
@@ -1200,9 +1201,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microservices]] (1), management (1), business (1)
 > **Env Vars:** cqrs (6), crud (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** case. (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - of (1)
@@ -1250,8 +1251,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[Microservices]] (3), data (2), power (1), business (1)
 > **Env Vars:** api (4)
-> **Code Keywords:** this, (1), this. (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1260,7 +1261,7 @@ created: 2026-04-29
 
 ### 4. Operational Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Log aggregation patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980)
@@ -1345,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** data (4), [[Microservices]] (2), [[Programming]] (1), [[Forms]] (1), [[Metadata]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1437,8 +1438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (11), data (2), [[Troubleshooting]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
@@ -1493,6 +1494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (3), database (3), etl (1), application (1)
 > **Env Vars:** etl (1), apm (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
@@ -1552,6 +1554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (2), cloud (1), [[Kubernetes]] (1), application (1), [[Troubleshooting]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - externalized (1)
 
@@ -1612,6 +1615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** uri (3)
 > **CLI Commands:** find (2)
 > **Analogies:** picture (1), for instance (1)
@@ -1693,8 +1697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Microservices]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Automation]] (2), [[Penetration Testing]] (2)
 > **CLI Commands:** cd (2), find (1)
-> **Code Keywords:** this. (1), this, (1), pass (1)
 > **Env Vars:** api (1), owasp (1), uat (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (1)
@@ -1759,8 +1763,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Microservices]] (1), teams (1), [[HTML]] (1), [[Automation]] (1)
 > **Env Vars:** url (3), api (3), http (1), html (1)
-> **Code Keywords:** new, (1), let (1), yield (1), switch (1), this. (1)
 > **Documentation:** the documentation (4)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **UI Navigation:** switch to (1)
@@ -1770,7 +1774,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/next-steps?u=76281980)
@@ -1819,7 +1823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), next (2), data (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - building (1)
 

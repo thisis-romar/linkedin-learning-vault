@@ -26,7 +26,7 @@ tags:
   - topic/devops
   - skill/agile-project-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Mistakes%20to%20Avoid%20in%20Agile%20Project%20Management.md)
@@ -45,41 +45,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting started
+  - [Getting started](#getting-started)
 - [**1. Launching Agile Project Management**](#1-launching-agile-project-management) (4 videos)
-  - Misunderstanding agile
-  - Don't over-promise results
-  - Set the right pace
-  - Consistent project titles
+  - [Misunderstanding agile](#misunderstanding-agile)
+  - [Don't over-promise results](#dont-over-promise-results)
+  - [Set the right pace](#set-the-right-pace)
+  - [Consistent project titles](#consistent-project-titles)
 - [**2. Mistakes When Gaining Buy-In**](#2-mistakes-when-gaining-buy-in) (3 videos)
-  - Not setting the tone
-  - Too much regulation
-  - Lack of transparency
+  - [Not setting the tone](#not-setting-the-tone)
+  - [Too much regulation](#too-much-regulation)
+  - [Lack of transparency](#lack-of-transparency)
 - [**3. Mistakes When Building Teams**](#3-mistakes-when-building-teams) (4 videos)
-  - Assigning tasks
-  - Overlooking values
-  - Predicting, not estimating
-  - Managing change incorrectly
+  - [Assigning tasks](#assigning-tasks)
+  - [Overlooking values](#overlooking-values)
+  - [Predicting, not estimating](#predicting-not-estimating)
+  - [Managing change incorrectly](#managing-change-incorrectly)
 - [**4. Mistakes When Setting Cadence**](#4-mistakes-when-setting-cadence) (4 videos)
-  - Not planning
-  - Not releasing frequently
-  - Avoiding stakeholders
-  - Missing feedback
+  - [Not planning](#not-planning)
+  - [Not releasing frequently](#not-releasing-frequently)
+  - [Avoiding stakeholders](#avoiding-stakeholders)
+  - [Missing feedback](#missing-feedback)
 - [**5. Mistakes When Making Improvements**](#5-mistakes-when-making-improvements) (4 videos)
-  - Starting too large
-  - Avoiding metrics
-  - Sitting still
-  - Overlooking handoffs
+  - [Starting too large](#starting-too-large)
+  - [Avoiding metrics](#avoiding-metrics)
+  - [Sitting still](#sitting-still)
+  - [Overlooking handoffs](#overlooking-handoffs)
 - [**6. Mistakes When Managing Work**](#6-mistakes-when-managing-work) (3 videos)
-  - Unclear priorities
-  - Finishing vs. starting
-  - Adding work
+  - [Unclear priorities](#unclear-priorities)
+  - [Finishing vs. starting](#finishing-vs-starting)
+  - [Adding work](#adding-work)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Setting yourself up for long-term success
+  - [Setting yourself up for long-term success](#setting-yourself-up-for-long-term-success)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980)
@@ -118,15 +118,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), management (2), career (2), teams (2), [[Scrum]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** mit (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Launching Agile Project Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Misunderstanding agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980)
@@ -187,7 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** management (19), [[Agile Development|Agile]] (16), [[Decision-Making]] (3), [[Scrum]] (2), teams (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - your (1)
@@ -263,7 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), finally, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), management (2), [[Microsoft Products|Products]] (1), teams (1), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - maybe (1)
 
@@ -342,8 +342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), management (6), next (2), teams (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -404,7 +404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Scrum]] (3), next (3), product (2), teams (1)
 > **URLs:** [agilemanifesto.org](https://agilemanifesto.org) (1), [scrumguides.org](https://scrumguides.org) (1)
 > **Warnings:** watch out (2)
 > **CLI Commands:** make (1)
@@ -416,7 +416,7 @@ created: 2026-04-29
 
 ### 2. Mistakes When Gaining Buy-In
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Not setting the tone
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980)
@@ -481,8 +481,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (5), [[Agile Development|Agile]] (4), management (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - have (1)
@@ -548,8 +548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), [[Agile Development|Agile]] (6), teams (5), next (3), power (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** self (2), finally, (1)
 > **Ports:** :00 (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -630,9 +630,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), next (3), [[Strategic Thinking]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1), stands for (1)
-> **Code Keywords:** self (1), finally, (1)
 > **Env Vars:** ceo (1), vast (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - have (1)
@@ -640,7 +640,7 @@ created: 2026-04-29
 
 ### 3. Mistakes When Building Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assigning tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980)
@@ -705,7 +705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), continue (1), finally, (1), self (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), next (4), teams (1), [[Decision-Making]] (1), career (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** pro tip (1), make sure to (1)
@@ -792,7 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), switch (1), this, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), [[Software Development]] (5), management (1), [[Agile Software Development]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Definitions:** means that (2), in other words (1), is a  (1)
 > **Speakers:** - there (1)
 
@@ -887,9 +887,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), data (3), [[Agile Development|Agile]] (2), [[Security]] (2), teams (2)
 > **Versions:** 8.7 (1), 5.2 (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
@@ -953,7 +953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), next (3), teams (2), [[Engineering]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
@@ -961,7 +961,7 @@ created: 2026-04-29
 
 ### 4. Mistakes When Setting Cadence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Not planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-planning?u=76281980)
@@ -1040,8 +1040,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), teams (4), product (4), next (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Definitions:** refers to (1)
@@ -1105,9 +1105,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (5), [[Agile Development|Agile]] (4), next (3), teams (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - how (1)
 
@@ -1180,7 +1180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), next (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** make sure to (1)
@@ -1257,15 +1257,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), product (2), [[Agile Development|Agile]] (1), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Speakers:** - feedback (1)
 
 
 ### 5. Mistakes When Making Improvements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting too large
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/starting-too-large?u=76281980)
@@ -1340,9 +1340,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), next (4), teams (1), management (1), leadership (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - when (1)
 
@@ -1419,9 +1419,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), teams (4), feature (4), business (1), prompt (1)
 > **Analogies:** for example (4), such as (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
 
@@ -1504,8 +1504,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), teams (2), next (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** while, (1), continue (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1568,9 +1568,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), teams (2), [[Dependency Management]] (1)
 > **Prerequisites:** required to (1), you'll need (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for, (1)
 > **Versions:** 37.5 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1579,7 +1579,7 @@ created: 2026-04-29
 
 ### 6. Mistakes When Managing Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unclear priorities
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/unclear-priorities?u=76281980)
@@ -1664,7 +1664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1)
+> **Frameworks & Libraries:** product (11), [[Agile Development|Agile]] (5), teams (2), next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** roi (3)
 > **Definitions:** is a  (3)
@@ -1736,6 +1736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Agile Development|Agile]] (3), product (2), teams (1), next (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - what (1)
 
@@ -1798,6 +1799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Agile Development|Agile]] (2), data (1), business (1), [[Product Development]] (1)
 > **Definitions:** is a  (5), means that (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
@@ -1806,7 +1808,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting yourself up for long-term success
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980)
@@ -1845,7 +1847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1), from. (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Scrum]] (3), teams (2), management (2), [[Search]] (1)
 > **URLs:** [scrumguides.org](https://scrumguides.org) (1), [meetup.com](https://meetup.com) (1), [hearthealthyscrum.com](https://hearthealthyscrum.com) (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)

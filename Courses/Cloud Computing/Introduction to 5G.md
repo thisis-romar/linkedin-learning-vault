@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/5g
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20to%205G.md)
@@ -48,30 +48,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Develop a solid understanding of 5G
+  - [Develop a solid understanding of 5G](#develop-a-solid-understanding-of-5g)
 - [**1. Setting the Scene**](#1-setting-the-scene) (4 videos)
-  - Setting the scene
-  - Key performance indicators
-  - Technical enablers
-  - Standardization
+  - [Setting the scene](#setting-the-scene)
+  - [Key performance indicators](#key-performance-indicators)
+  - [Technical enablers](#technical-enablers)
+  - [Standardization](#standardization)
 - [**2. 5G Technologies**](#2-5g-technologies) (6 videos)
-  - Reviewing 5G technologies
-  - 5G spectrum
-  - New 5G technologies
-  - Unified Air Interface
-  - 5G access network
-  - 5G Core and architecture
+  - [Reviewing 5G technologies](#reviewing-5g-technologies)
+  - [5G spectrum](#5g-spectrum)
+  - [New 5G technologies](#new-5g-technologies)
+  - [Unified Air Interface](#unified-air-interface)
+  - [5G access network](#5g-access-network)
+  - [5G Core and architecture](#5g-core-and-architecture)
 - [**3. Existing 5G Use Cases**](#3-existing-5g-use-cases) (4 videos)
-  - 5G use cases
-  - Deployment modes
-  - 5G applications
-  - Some early 5G trials
+  - [5G use cases](#5g-use-cases)
+  - [Deployment modes](#deployment-modes)
+  - [5G applications](#5g-applications)
+  - [Some early 5G trials](#some-early-5g-trials)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Concluding remarks
+  - [Concluding remarks](#concluding-remarks)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop a solid understanding of 5G
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980)
@@ -168,7 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (1), case, (1)
+> **Frameworks & Libraries:** [[5G]] (9), [[Hardware]] (3), cloud (2), next (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** bbc (1)
 > **Definitions:** is a  (1)
@@ -177,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Setting the Scene
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting the scene
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/setting-the-scene?u=76281980)
@@ -204,7 +204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[5G]] (5)
 > **Speakers:** - welcome (1)
 
 #### Key performance indicators
@@ -270,7 +270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), new, (1)
+> **Frameworks & Libraries:** [[5G]] (10), data (4), [[IoT]] (2), game (1), application (1)
 > **Env Vars:** ppp (1), urllc (1)
 > **Definitions:** is a  (1), basically means (1)
 > **Analogies:** imagine (1), think of it like (1)
@@ -393,7 +393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), new, (2), interface (1), from. (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[5G]] (4), data (3), [[Virtualization]] (3), traffic (2)
 > **Env Vars:** vnf (4), mimo (2), ran (1), sdn (1)
 > **Definitions:** means that (2), is a  (2)
 > **Versions:** 3.5 (2)
@@ -573,8 +573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[5G]] (8), cloud (1), game (1), [[Security]] (1), next (1)
 > **Env Vars:** itu (6), tsg (4), iut (3), ran (2), ngmn (2)
-> **Code Keywords:** let (5), case. (2), finally, (1), for, (1)
 > **Definitions:** is a  (4), is an  (3), stands for (1)
 > **Speakers:** - [presentor (1), - now (1)
 > **CLI Commands:** make (1)
@@ -585,7 +585,7 @@ created: 2026-04-29
 
 ### 2. 5G Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing 5G technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980)
@@ -620,7 +620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[5G]] (5)
 > **Env Vars:** sdn (1), nfv (1)
 > **Speakers:** - congratulations (1)
 
@@ -691,8 +691,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[5G]] (3), [[Hardware]] (1), application (1)
 > **Env Vars:** embb (1), iut (1), mmtc (1), url (1), llc (1)
-> **Code Keywords:** let (3), case, (1)
 > **Versions:** 3.5 (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
@@ -780,9 +780,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Windows]] (1), [[Security]] (1), game (1)
 > **Code Identifiers:** mmwave (10)
 > **Env Vars:** mimo (9)
-> **Code Keywords:** let (5), from, (1)
 > **CLI Commands:** find (1)
 > **Tools:** terminal (1)
 > **Speakers:** - so (1)
@@ -876,8 +876,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[5G]] (2), generic (1), [[IoT]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** arq (2), ofdm (1), mimo (1), urllc (1), tti (1)
-> **Code Keywords:** let (3), interface (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** similar to (1), such as (1), for instance (1)
@@ -974,8 +974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[5G]] (10), cloud (8), functional (2), data (2), node (1)
 > **Code Identifiers:** gnb (4), enb (4), gnbs (2)
-> **Code Keywords:** let (5), interface (3)
 > **CLI Commands:** node (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -1149,8 +1149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[5G]] (16), data (9), cloud (9), management (6), [[IoT]] (4)
 > **Env Vars:** iot (4), sdn (3), ran (2), gnb (2), mmtc (1)
-> **Code Keywords:** let (4), function (3), this. (1), case, (1), match. (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -1160,7 +1160,7 @@ created: 2026-04-29
 
 ### 3. Existing 5G Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 5G use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/5g-use-cases?u=76281980)
@@ -1189,7 +1189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (2)
+> **Frameworks & Libraries:** [[5G]] (3), application (1), next (1)
 > **Speakers:** - welcome (1)
 
 #### Deployment modes
@@ -1253,8 +1253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[5G]] (2), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), switch (1)
 > **Speakers:** - let (1)
 
 #### 5G applications
@@ -1284,8 +1284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[5G]] (3), application (2)
 > **Env Vars:** ceo (1), ngmn (1), igu (1)
-> **Code Keywords:** let (2)
 > **Versions:** 38.913 (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1508,8 +1508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[5G]] (13), [[Real-Time]] (4), next (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** imagine (5), picture (2), for instance (1)
-> **Code Keywords:** let (5), for, (1)
 > **Speakers:** - the (2), - [presenter] (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** edj (2)
@@ -1518,7 +1518,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Concluding remarks
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980)
@@ -1585,7 +1585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** [[5G]] (3), next (3), [[Internet of Things (IoT)|Internet of things]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - and (1)
 
 

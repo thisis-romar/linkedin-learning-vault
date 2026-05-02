@@ -28,7 +28,7 @@ tags:
   - topic/mobile-development
   - skill/react-native
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/From%20React%20to%20React%20Native.md)
@@ -47,31 +47,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - From React to React Native
-  - Course prerequisites
+  - [From React to React Native](#from-react-to-react-native)
+  - [Course prerequisites](#course-prerequisites)
 - [**1. Overview of This Course**](#1-overview-of-this-course) (4 videos)
-  - Introduction to the React project
-  - Initiate a React Native project
-  - Overview of the React web code
-  - Overview of the React Native structure
+  - [Introduction to the React project](#introduction-to-the-react-project)
+  - [Initiate a React Native project](#initiate-a-react-native-project)
+  - [Overview of the React web code](#overview-of-the-react-web-code)
+  - [Overview of the React Native structure](#overview-of-the-react-native-structure)
 - [**2. Conversion of Views**](#2-conversion-of-views) (5 videos)
-  - Initial setup of extra libraries
-  - Create a FlatList component
-  - Create the action and button link
-  - Challenge: Add new element in the listing
-  - Solution: Add new element in the listing
+  - [Initial setup of extra libraries](#initial-setup-of-extra-libraries)
+  - [Create a FlatList component](#create-a-flatlist-component)
+  - [Create the action and button link](#create-the-action-and-button-link)
+  - [Challenge: Add new element in the listing](#challenge-add-new-element-in-the-listing)
+  - [Solution: Add new element in the listing](#solution-add-new-element-in-the-listing)
 - [**3. Conversion of Styles**](#3-conversion-of-styles) (3 videos)
-  - Options for styling
-  - Add a bar and update card listing
-  - Finalize the styles
+  - [Options for styling](#options-for-styling)
+  - [Add a bar and update card listing](#add-a-bar-and-update-card-listing)
+  - [Finalize the styles](#finalize-the-styles)
 - [**4. Debugging in React Native**](#4-debugging-in-react-native) (1 videos)
-  - Debug options
+  - [Debug options](#debug-options)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From React to React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while. (1), let (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[React Native]] (6), application (3), [[Android]] (1), web (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -124,16 +124,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[React Native]] (1), application (1), [[JavaScript]] (1), [[npm]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** npm (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Overview of This Course
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the React project
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980)
@@ -242,8 +242,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (15), [[React.js|React]] (13), data (6), [[npm]] (5), [[React Native]] (2)
 > **CLI Commands:** npm (5), npx (5), node (2), make (2), cd (1)
-> **Code Keywords:** let (7), delete (3), this, (3), case, (2)
 > **Tools:** terminal (8), visual studio (3)
 > **Env Vars:** npx (4), lts (2), mpx (2), html (1), css (1)
 > **Prerequisites:** install (8)
@@ -406,7 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (4), case, (3), this. (1), else. (1)
+> **Frameworks & Libraries:** application (22), [[React Native]] (8), [[Xcode]] (4), [[Android]] (3), mobile application (2)
 > **CLI Commands:** make (8), npx (5), node (1)
 > **UI Navigation:** go to (5), select the (2), click on (2), scroll down (1)
 > **Code Identifiers:** ios (6), newsnative (1)
@@ -582,8 +582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), web (5), [[React Native]] (4), [[React.js|React]] (4), data (3)
 > **CLI Commands:** make (17), npm (1)
-> **Code Keywords:** let (10), this. (3), case, (1), public (1), finally, (1)
 > **File Paths:** app.css (4), index.css (2), app.js (2), index.html (1), index.js (1)
 > **Code Identifiers:** release_date (1), released_date (1)
 > **Env Vars:** css (2)
@@ -714,7 +714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (3), this, (1), from. (1)
+> **Frameworks & Libraries:** data (5), application (4), web (3), [[React Native]] (2), css (2)
 > **File Paths:** app.js (2), app.css (1), index.css (1)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (1)
@@ -725,7 +725,7 @@ created: 2026-04-29
 
 ### 2. Conversion of Views
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Initial setup of extra libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980)
@@ -860,7 +860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (4), while. (1), else, (1), this. (1)
+> **Frameworks & Libraries:** application (23), [[React Native]] (11), next (3), [[Android]] (1), web application (1)
 > **Prerequisites:** install (7), set up (5)
 > **CLI Commands:** make (4), npx (1)
 > **Tools:** terminal (5)
@@ -1000,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (4), case, (3), pass (3), else. (1)
+> **Frameworks & Libraries:** data (15), application (11), [[React Native]] (3), [[React.js|React]] (2), functional (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** json (2)
 > **Cross-References:** in the next (1), next chapter (1)
@@ -1096,7 +1096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (9), pass (4), this. (2), continue (1)
+> **Frameworks & Libraries:** [[React Native]] (6), application (5), web application (1), [[Android]] (1)
 > **UI Navigation:** open the (3), click on (2)
 > **Code Identifiers:** handleclick (2), ios (1)
 > **Env Vars:** url (3)
@@ -1125,6 +1125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[React Native]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1156,7 +1157,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
 > **Prerequisites:** you need to have (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -1165,7 +1165,7 @@ created: 2026-04-29
 
 ### 3. Conversion of Styles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Options for styling
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980)
@@ -1242,7 +1242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), delete (2), this. (1)
+> **Frameworks & Libraries:** [[React Native]] (4), css (3), application (2), web (1), [[React.js|React]] (1)
 > **File Paths:** index.css (2), app.css (1), appstyles.js (1), app.js (1)
 > **Env Vars:** css (3), jss (1)
 > **CLI Commands:** make (2)
@@ -1418,7 +1418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), case, (2), this, (2), case. (1)
+> **Frameworks & Libraries:** application (2), [[GitHub]] (1), [[React.js|React]] (1), web (1), next (1)
 > **Env Vars:** url (2), uri (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** find (1)
@@ -1536,7 +1536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (2), delete (1)
+> **Frameworks & Libraries:** application (6), css (6), [[React Native]] (5), [[React.js|React]] (3), web (1)
 > **Env Vars:** css (6), ncss (1), npx (1)
 > **Code Identifiers:** margintop (2), ios (1)
 > **File Paths:** app.css (2)
@@ -1547,7 +1547,7 @@ created: 2026-04-29
 
 ### 4. Debugging in React Native
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debug options
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980)
@@ -1606,8 +1606,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), [[Debugging]] (2), web (2), [[Android]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), finally, (1)
 > **UI Navigation:** click on (3)
 > **Code Identifiers:** ios (1)
 > **Analogies:** such as (1)
@@ -1617,7 +1617,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980)
@@ -1660,9 +1660,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (5), [[React.js|React]] (4), next (1), management (1), data (1)
 > **CLI Commands:** find (2)
 > **Tools:** discord (1), github (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** ios (1)
 > **Documentation:** stack overflow (1)
 > **UI Navigation:** click on (1)

@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/wireshark
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Wireshark-%20Functionality.md)
@@ -48,41 +48,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Improve your Wireshark workflow
-  - What you need to know
+  - [Improve your Wireshark workflow](#improve-your-wireshark-workflow)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Menus and Toolbars**](#1-menus-and-toolbars) (8 videos)
-  - File: Open, Import, and Save
-  - Export packets or objects and print
-  - Edit menu
-  - View menu
-  - Statistics menu
-  - Using graphs
-  - Additional menu choices
-  - Exploring the Telephony menu
+  - [File: Open, Import, and Save](#file-open-import-and-save)
+  - [Export packets or objects and print](#export-packets-or-objects-and-print)
+  - [Edit menu](#edit-menu)
+  - [View menu](#view-menu)
+  - [Statistics menu](#statistics-menu)
+  - [Using graphs](#using-graphs)
+  - [Additional menu choices](#additional-menu-choices)
+  - [Exploring the Telephony menu](#exploring-the-telephony-menu)
 - [**2. Capturing Traffic**](#2-capturing-traffic) (9 videos)
-  - Capture options
-  - Use a ring buffer
-  - Challenge: Ring buffer with coloring rules
-  - Solution: Ring buffer with coloring rules
-  - Capture filters
-  - Display filters
-  - Find packets
-  - Mark packets
-  - Fine-tune columns
+  - [Capture options](#capture-options)
+  - [Use a ring buffer](#use-a-ring-buffer)
+  - [Challenge: Ring buffer with coloring rules](#challenge-ring-buffer-with-coloring-rules)
+  - [Solution: Ring buffer with coloring rules](#solution-ring-buffer-with-coloring-rules)
+  - [Capture filters](#capture-filters)
+  - [Display filters](#display-filters)
+  - [Find packets](#find-packets)
+  - [Mark packets](#mark-packets)
+  - [Fine-tune columns](#fine-tune-columns)
 - [**3. Personalizing the Interface**](#3-personalizing-the-interface) (7 videos)
-  - File and packet comments
-  - Configuration profiles
-  - Appearance and layout
-  - Columns, font, and colors
-  - Name resolution
-  - Challenge: Create a button
-  - Solution: Create a button
+  - [File and packet comments](#file-and-packet-comments)
+  - [Configuration profiles](#configuration-profiles)
+  - [Appearance and layout](#appearance-and-layout)
+  - [Columns, font, and colors](#columns-font-and-colors)
+  - [Name resolution](#name-resolution)
+  - [Challenge: Create a button](#challenge-create-a-button)
+  - [Solution: Create a button](#solution-create-a-button)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your Wireshark workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/improve-your-wireshark-workflow?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), super (1), let (1)
+> **Frameworks & Libraries:** [[Wireshark]] (8), traffic (2), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lisa] (1)
@@ -135,6 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), [[Wireshark]] (1)
 > **Definitions:** is an  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [lecturer] (1)
@@ -142,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Menus and Toolbars
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File: Open, Import, and Save
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/file-open-import-and-save?u=76281980)
@@ -217,7 +218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), type, (1), import. (1), else. (1)
+> **Frameworks & Libraries:** next (4), [[Wireshark]] (3), [[Troubleshooting]] (1)
 > **UI Navigation:** go to (5)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -353,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (3), export. (2), default. (1), else, (1)
+> **Frameworks & Libraries:** traffic (4), data (1), [[Security]] (1), web (1), [[Search]] (1)
 > **Env Vars:** pdf (4), http (1), jpeg (1), smb (1), ssl (1)
 > **UI Navigation:** go to (7)
 > **Analogies:** for example (2), such as (1)
@@ -502,7 +503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), case, (1), while, (1), else, (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), next (2), [[Wireshark]] (2), data (1), [[Search]] (1)
 > **Analogies:** for example (4), picture (2)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -625,7 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), while, (3), this, (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), [[Zoom]] (3)
 > **Analogies:** for example (5)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** find (1)
@@ -757,9 +758,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (12), [[Wireshark]] (3), traffic (2), dns (2), [[IoT]] (1)
 > **Env Vars:** udp (2), dhcp (2), dns (2), tcp (1), ldap (1)
 > **Analogies:** for example (5), such as (2)
-> **Code Keywords:** this, (2), for, (1), let (1), type, (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Definitions:** refers to (1), is an  (1)
@@ -885,8 +886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (9), [[Wireshark]] (3), [[Troubleshooting]] (3), [[Statistics]] (3), [[Zoom]] (3)
 > **Env Vars:** tcp (13), icmp (2)
-> **Code Keywords:** let (3), this, (2), type. (1), type, (1), switch (1)
 > **Analogies:** for example (5)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (3)
@@ -981,7 +982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), while, (1), interface (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), traffic (4), [[Statistics]] (1), [[Security]] (1), functional (1)
 > **Env Vars:** tcp (1), udp (1), http (1), wlan (1), acl (1)
 > **Analogies:** for example (4), such as (2)
 > **UI Navigation:** go to (4), right-click (1)
@@ -1140,7 +1141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (2), case, (2), export, (1), this. (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), [[Statistics]] (5), [[Search]] (1), data (1)
 > **Env Vars:** sip (6)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (2)
@@ -1152,7 +1153,7 @@ created: 2026-04-29
 
 ### 2. Capturing Traffic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Capture options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980)
@@ -1287,7 +1288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), case, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** next (3), [[Wireshark]] (2), traffic (1), [[Real-Time]] (1)
 > **UI Navigation:** go to (5)
 > **Ports:** :32 (2), :10 (1)
 > **CLI Commands:** make (2)
@@ -1372,7 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default. (1), case, (1), interface (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), traffic (2), next (1)
 > **Env Vars:** vss (6), pcap (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
@@ -1408,9 +1409,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Domain Name System (DNS)|Domain name system]] (1), dns (1), lan (1)
 > **Env Vars:** dns (1), lan (1), mdns (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Code Identifiers:** mdns (2)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
@@ -1509,8 +1510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Wireshark]] (2), next (1)
 > **UI Navigation:** go to (5), select the (1), navigate to (1)
-> **Code Keywords:** let (2), this, (1), continue (1), finally, (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** mdns (1)
 > **Env Vars:** mdns (1)
@@ -1605,7 +1606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), traffic (4)
 > **UI Navigation:** go to (4), select the (1)
 > **Env Vars:** icmp (3)
 > **CLI Commands:** find (1), make (1)
@@ -1676,9 +1677,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), [[Wireshark]] (3), [[Statistics]] (1)
 > **Env Vars:** ssdp (7), tcp (1), udp (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1762,8 +1763,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Wireshark]] (2), [[Security]] (1), [[Microsoft Word|Word]] (1), traffic (1)
 > **CLI Commands:** find (16)
-> **Code Keywords:** let (8), this, (1)
 > **Env Vars:** utf (2), png (2), asci (1), http (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** just like (1)
@@ -1860,9 +1861,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Wireshark]] (2), feature (1)
 > **UI Navigation:** go to (11)
 > **CLI Commands:** find (6)
-> **Code Keywords:** case, (4)
 > **Prerequisites:** setup (1), set up (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -1945,7 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), next (1), hit (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** for example (2), just like (1)
 > **Env Vars:** tcp (1)
@@ -1955,7 +1956,7 @@ created: 2026-04-29
 
 ### 3. Personalizing the Interface
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File and packet comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980)
@@ -2070,8 +2071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Wireshark]] (1), [[Search]] (1), [[Statistics]] (1), traffic (1)
 > **Ports:** port 44 (4)
-> **Code Keywords:** this. (2), let (1)
 > **Env Vars:** pcap (2), tcp (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -2160,7 +2161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), default. (2), let (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), open the (1)
 > **Cross-References:** go back to (2)
@@ -2309,7 +2310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default. (2), interface (1)
+> **Frameworks & Libraries:** next (2), feature (2), [[Wireshark]] (2), traffic (1)
 > **UI Navigation:** go to (4), checkbox (1)
 > **Cross-References:** go back to (4)
 > **Analogies:** for example (2)
@@ -2410,7 +2411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), this, (1), from. (1), this. (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), hit (1), [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** tcp (1)
@@ -2477,8 +2478,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), [[Wireshark]] (4), traffic (1)
 > **Env Vars:** mac (5), dns (5), dns_name (1)
-> **Code Keywords:** let (6), this, (2)
 > **UI Navigation:** go to (3), select the (1)
 > **Versions:** 6.1 (1), 23.2 (1)
 > **Definitions:** is a  (1)
@@ -2532,8 +2533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (1), [[Domain Name System (DNS)|Domain name system]] (1), dns (1), lan (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** dns (1), lan (1)
 > **UI Navigation:** select the (1), open the (1)
 > **Definitions:** is called (1)
@@ -2569,7 +2570,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
 > **UI Navigation:** select the (1), open the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2577,7 +2577,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980)
@@ -2606,7 +2606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Security]] (2), [[IoT]] (2), [[Privacy]] (2), traffic (1)
 > **Env Vars:** ccna (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)

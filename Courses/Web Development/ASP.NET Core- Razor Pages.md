@@ -31,7 +31,7 @@ tags:
   - skill/asp-net-core
   - skill/asp-net-razor
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ASP.NET%20Core-%20Razor%20Pages.md)
@@ -50,38 +50,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why use Razor Pages?
-  - What you should know
+  - [Why use Razor Pages?](#why-use-razor-pages)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Started with Razor Pages**](#1-getting-started-with-razor-pages) (4 videos)
-  - What is ASP.NET Razor Pages?
-  - ASP.NET Razor Pages vs. ASP.NET MVC
-  - Creating an empty ASP.NET Razor Pages project
-  - Key ASP.NET Razor Pages concepts
+  - [What is ASP.NET Razor Pages?](#what-is-aspnet-razor-pages)
+  - [ASP.NET Razor Pages vs. ASP.NET MVC](#aspnet-razor-pages-vs-aspnet-mvc)
+  - [Creating an empty ASP.NET Razor Pages project](#creating-an-empty-aspnet-razor-pages-project)
+  - [Key ASP.NET Razor Pages concepts](#key-aspnet-razor-pages-concepts)
 - [**2. Working with Forms in Razor Pages**](#2-working-with-forms-in-razor-pages) (7 videos)
-  - Data binding in ASP.NET Razor Pages
-  - ASP.NET Razor Pages application overview
-  - One-way data binding in ASP.NET Razor Pages
-  - Two-way data binding in ASP.NET Razor Pages
-  - Event binding in ASP.NET Razor Pages
-  - Model binding ASP.NET Razor Pages
-  - Form data validation in ASP.NET Razor Pages
+  - [Data binding in ASP.NET Razor Pages](#data-binding-in-aspnet-razor-pages)
+  - [ASP.NET Razor Pages application overview](#aspnet-razor-pages-application-overview)
+  - [One-way data binding in ASP.NET Razor Pages](#one-way-data-binding-in-aspnet-razor-pages)
+  - [Two-way data binding in ASP.NET Razor Pages](#two-way-data-binding-in-aspnet-razor-pages)
+  - [Event binding in ASP.NET Razor Pages](#event-binding-in-aspnet-razor-pages)
+  - [Model binding ASP.NET Razor Pages](#model-binding-aspnet-razor-pages)
+  - [Form data validation in ASP.NET Razor Pages](#form-data-validation-in-aspnet-razor-pages)
 - [**3. Working with Data in Razor Pages**](#3-working-with-data-in-razor-pages) (5 videos)
-  - Setting up Entity Framework Core in ASP.NET Razor Pages
-  - Adding and storing data in a database
-  - Getting data from a database
-  - Getting data by ID from a database
-  - Service configuration in ASP.NET Razor Pages
+  - [Setting up Entity Framework Core in ASP.NET Razor Pages](#setting-up-entity-framework-core-in-aspnet-razor-pages)
+  - [Adding and storing data in a database](#adding-and-storing-data-in-a-database)
+  - [Getting data from a database](#getting-data-from-a-database)
+  - [Getting data by ID from a database](#getting-data-by-id-from-a-database)
+  - [Service configuration in ASP.NET Razor Pages](#service-configuration-in-aspnet-razor-pages)
 - [**4. Securing Razor Pages Applications**](#4-securing-razor-pages-applications) (4 videos)
-  - Authentication vs. authorization
-  - Simple authorization in ASP.NET Razor Pages
-  - Role-based authorization in ASP.NET Razor Pages
-  - Claims-based authorization in ASP.NET Razor Pages
+  - [Authentication vs. authorization](#authentication-vs-authorization)
+  - [Simple authorization in ASP.NET Razor Pages](#simple-authorization-in-aspnet-razor-pages)
+  - [Role-based authorization in ASP.NET Razor Pages](#role-based-authorization-in-aspnet-razor-pages)
+  - [Claims-based authorization in ASP.NET Razor Pages](#claims-based-authorization-in-aspnet-razor-pages)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps for learning more about Razor Pages
+  - [Next steps for learning more about Razor Pages](#next-steps-for-learning-more-about-razor-pages)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use Razor Pages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), application (2), web (1), next (1), [[Forms]] (1)
 > **Env Vars:** mvc (1), sql (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -132,8 +133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Programming]] (1)
 > **Env Vars:** net (3), anp (1), npc (1)
-> **Code Keywords:** let (1)
 > **URLs:** [anp.net](https://anp.net) (1)
 > **Versions:** 6.0 (1)
 > **Tools:** visual studio (1)
@@ -143,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Razor Pages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ASP.NET Razor Pages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980)
@@ -182,6 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[ASP.NET Razor]] (2), cross-platform (2), [[ASP.NET]] (2), web (2)
 > **Env Vars:** net (7), asp (4), html (3), php (1), sdk (1)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **Definitions:** is a  (2)
@@ -189,7 +191,6 @@ created: 2026-04-29
 > **Versions:** version 2 (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** you need to have (1)
-> **Speakers:** - [narrator] (1)
 
 #### ASP.NET Razor Pages vs. ASP.NET MVC
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980)
@@ -314,8 +315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (7), data (5), [[ASP.NET]] (5), application (4), [[Search]] (3)
 > **Env Vars:** mvc (14), asp (6), net (6), hdml (4), http (1)
-> **Code Keywords:** let (5), this. (2), type. (1), class. (1), static (1)
 > **URLs:** [asp.net](https://asp.net) (6)
 > **Analogies:** for example (4), similar to (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -495,8 +496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), [[JavaScript]] (4), css (4), [[ASP.NET Core]] (3), web (3)
 > **Env Vars:** net (12), asp (7), css (3), https (2), iis (2)
-> **Code Keywords:** static (4), let (2), new. (1), default, (1), case, (1)
 > **UI Navigation:** select the (4), go to (3), dropdown (3)
 > **URLs:** [asp.net](https://asp.net) (7), [netcore.app](https://netcore.app) (1), [aspnetcore.app](https://aspnetcore.app) (1)
 > **Analogies:** for example (3), such as (1)
@@ -549,9 +550,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), data (4), application (1)
 > **Env Vars:** html (4)
 > **UI Navigation:** go to (2), navigate to (1)
-> **Code Keywords:** pass (2)
 > **Analogies:** for instance (1), for example (1)
 > **Cross-References:** go back to (1)
 > **Tools:** visual studio (1)
@@ -561,7 +562,7 @@ created: 2026-04-29
 
 ### 2. Working with Forms in Razor Pages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data binding in ASP.NET Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/data-binding-in-asp-dot-net-razor-pages?u=76281980)
@@ -614,7 +615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** data (20), application (2), business (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -698,7 +699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (1)
+> **Frameworks & Libraries:** application (2), data (2), [[HTML]] (2), database (1), [[Privacy]] (1)
 > **UI Navigation:** go to (7), navigate to (1)
 > **Tools:** visual studio (5)
 > **Env Vars:** html (2), crud (1)
@@ -876,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), pass (3), class. (1), public (1)
+> **Frameworks & Libraries:** data (15), next (2), database (2), [[SQL]] (1), [[Routing]] (1)
 > **UI Navigation:** go to (10)
 > **Cross-References:** next chapter (2), go back to (2)
 > **Tools:** visual studio (3)
@@ -1000,7 +1001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), public (1), case. (1), return, (1), type. (1)
+> **Frameworks & Libraries:** data (9), [[Forms]] (1), [[HTML]] (1), database (1)
 > **UI Navigation:** go to (9), right-click (2)
 > **Tools:** visual studio (2)
 > **Env Vars:** html (1)
@@ -1070,7 +1071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), public (1), new. (1), continue (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **UI Navigation:** go to (4)
 > **Tools:** visual studio (2)
 > **Env Vars:** html (1)
@@ -1173,7 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), new. (2), public (1), pass (1), type, (1)
+> **Frameworks & Libraries:** data (4), application (2)
 > **UI Navigation:** go to (6), scroll up (1)
 > **Tools:** visual studio (2)
 > **Cross-References:** go back to (1)
@@ -1350,7 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), continue (3), type, (1), case, (1), class, (1)
+> **Frameworks & Libraries:** data (4), [[Forms]] (3), database (1), [[JavaScript]] (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** hdml (1), asp (1)
@@ -1362,7 +1363,7 @@ created: 2026-04-29
 
 ### 3. Working with Data in Razor Pages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Entity Framework Core in ASP.NET Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980)
@@ -1613,9 +1614,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (21), [[Microsoft SQL Server|Sql server]] (11), data (9), [[Microsoft]] (6), [[JSON]] (4)
 > **Env Vars:** sql (15), json (3)
 > **UI Navigation:** go to (12), select the (2), open the (1)
-> **Code Keywords:** let (9), class. (2), class, (1), pass (1), public (1)
 > **Prerequisites:** install (5), configure (3)
 > **File Paths:** appsettings.json (1)
 > **Tools:** visual studio (1)
@@ -1703,7 +1704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), private (1), var (1), new. (1)
+> **Frameworks & Libraries:** data (5), database (5), next (2)
 > **UI Navigation:** go to (6), scroll up (1), click on (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
@@ -1786,7 +1787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), private (1), new. (1), continue (1)
+> **Frameworks & Libraries:** data (7), database (5), next (2)
 > **UI Navigation:** go to (4), click on (1)
 > **Tools:** visual studio (2)
 > **Analogies:** for example (1)
@@ -1961,7 +1962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), default, (2), continue (2), throw (1), pass (1)
+> **Frameworks & Libraries:** data (7), database (4), application (2)
 > **UI Navigation:** go to (9), open the (2), click on (1)
 > **Env Vars:** url (2), htm (1), http (1)
 > **Analogies:** for example (2), just like (1)
@@ -2223,7 +2224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (35), interface (6), class. (2), class, (1), private (1)
+> **Frameworks & Libraries:** database (9), data (8), application (2), [[Microsoft SQL Server|Sql server]] (1)
 > **UI Navigation:** go to (12), click on (1), scroll down (1)
 > **Prerequisites:** configure (4)
 > **Env Vars:** sql (1)
@@ -2235,7 +2236,7 @@ created: 2026-04-29
 
 ### 4. Securing Razor Pages Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication vs. authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/authentication-vs-authorization?u=76281980)
@@ -2292,7 +2293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** application (4), [[Security]] (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2379,7 +2380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), new. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **UI Navigation:** go to (6)
 > **Prerequisites:** set up (2), configure (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -2458,7 +2459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), new, (1), case, (1)
+> **Frameworks & Libraries:** [[C#]] (1), [[HTML]] (1)
 > **UI Navigation:** go to (8)
 > **Tools:** visual studio (3)
 > **File Paths:** addmovie.c (1), html.c (1)
@@ -2528,7 +2529,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), case, (1), pass (1)
 > **Analogies:** for example (4)
 > **UI Navigation:** go to (3)
 > **Tools:** visual studio (1)
@@ -2538,7 +2538,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for learning more about Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980)
@@ -2569,8 +2569,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (5), next (4), [[LinkedIn]] (2), [[Forms]] (1)
 > **Env Vars:** net (3), sql (1)
-> **Code Keywords:** new . (1), delete (1), case, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - if (1)

@@ -31,7 +31,7 @@ tags:
   - skill/dynamic-host-configuration-protocol-dhcp
   - skill/windows-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%20Server%202022-%20DHCP%20and%20DNS.md)
@@ -50,66 +50,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Install and configure Windows Server 2022 DHCP and DNS
+  - [Install and configure Windows Server 2022 DHCP and DNS](#install-and-configure-windows-server-2022-dhcp-and-dns)
 - [**1. DHCP Overview**](#1-dhcp-overview) (3 videos)
-  - What is DHCP?
-  - DHCP on various devices
-  - The importance of DHCP in the enterprise
+  - [What is DHCP?](#what-is-dhcp)
+  - [DHCP on various devices](#dhcp-on-various-devices)
+  - [The importance of DHCP in the enterprise](#the-importance-of-dhcp-in-the-enterprise)
 - [**2. Setting Up DHCP**](#2-setting-up-dhcp) (6 videos)
-  - Installing the DHCP server role
-  - DHCP authorization
-  - Creating scopes
-  - Configuring DHCP options
-  - Scope activation
-  - Client configuration for DHCP
+  - [Installing the DHCP server role](#installing-the-dhcp-server-role)
+  - [DHCP authorization](#dhcp-authorization)
+  - [Creating scopes](#creating-scopes)
+  - [Configuring DHCP options](#configuring-dhcp-options)
+  - [Scope activation](#scope-activation)
+  - [Client configuration for DHCP](#client-configuration-for-dhcp)
 - [**3. Managing DHCP**](#3-managing-dhcp) (6 videos)
-  - Setting up reservations
-  - Setting up exclusions
-  - Import and export databases
-  - Scope reconciliation
-  - DHCP troubleshooting
-  - DHCP filters
+  - [Setting up reservations](#setting-up-reservations)
+  - [Setting up exclusions](#setting-up-exclusions)
+  - [Import and export databases](#import-and-export-databases)
+  - [Scope reconciliation](#scope-reconciliation)
+  - [DHCP troubleshooting](#dhcp-troubleshooting)
+  - [DHCP filters](#dhcp-filters)
 - [**4. Advanced DHCP**](#4-advanced-dhcp) (6 videos)
-  - DHCP failover and high availability
-  - DHCP failover setup
-  - DHCP relay using switches and routers
-  - Routing using DHCP
-  - DHCP policies
-  - Split scope
+  - [DHCP failover and high availability](#dhcp-failover-and-high-availability)
+  - [DHCP failover setup](#dhcp-failover-setup)
+  - [DHCP relay using switches and routers](#dhcp-relay-using-switches-and-routers)
+  - [Routing using DHCP](#routing-using-dhcp)
+  - [DHCP policies](#dhcp-policies)
+  - [Split scope](#split-scope)
 - [**5. DNS Overview**](#5-dns-overview) (3 videos)
-  - DNS importance with Active Directory
-  - DNS manager overview
-  - Important Active Directory DNS records
+  - [DNS importance with Active Directory](#dns-importance-with-active-directory)
+  - [DNS manager overview](#dns-manager-overview)
+  - [Important Active Directory DNS records](#important-active-directory-dns-records)
 - [**6. Deploying DNS**](#6-deploying-dns) (3 videos)
-  - Install DNS on a member server
-  - Client DNS configuration
-  - DNS forwarders
+  - [Install DNS on a member server](#install-dns-on-a-member-server)
+  - [Client DNS configuration](#client-dns-configuration)
+  - [DNS forwarders](#dns-forwarders)
 - [**7. DNS Zones**](#7-dns-zones) (4 videos)
-  - Forward DNS zones and AD integration
-  - Reverse DNS zones and AD integration
-  - Secondary zone creation
-  - Stub zone creation
+  - [Forward DNS zones and AD integration](#forward-dns-zones-and-ad-integration)
+  - [Reverse DNS zones and AD integration](#reverse-dns-zones-and-ad-integration)
+  - [Secondary zone creation](#secondary-zone-creation)
+  - [Stub zone creation](#stub-zone-creation)
 - [**8. DNS Resource Records**](#8-dns-resource-records) (4 videos)
-  - Forward and reverse zone records
-  - Alias (CNAME) records
-  - Mail (MX) records
-  - Other record types
+  - [Forward and reverse zone records](#forward-and-reverse-zone-records)
+  - [Alias (CNAME) records](#alias-cname-records)
+  - [Mail (MX) records](#mail-mx-records)
+  - [Other record types](#other-record-types)
 - [**9. Advanced DNS**](#9-advanced-dns) (3 videos)
-  - DNS queries
-  - DNS cache
-  - Conditional forwarders
+  - [DNS queries](#dns-queries)
+  - [DNS cache](#dns-cache)
+  - [Conditional forwarders](#conditional-forwarders)
 - [**10. DNS Security**](#10-dns-security) (4 videos)
-  - DNS cache locking
-  - DNS socket pool
-  - DNS zone signing
-  - DNS security extensions
+  - [DNS cache locking](#dns-cache-locking)
+  - [DNS socket pool](#dns-socket-pool)
+  - [DNS zone signing](#dns-zone-signing)
+  - [DNS security extensions](#dns-security-extensions)
 - [**11. DHCP and DNS Management**](#11-dhcp-and-dns-management) (2 videos)
-  - Managing DNS and DHCP using Admin Center
-  - Managing DNS and DHCP using IPAM
+  - [Managing DNS and DHCP using Admin Center](#managing-dns-and-dhcp-using-admin-center)
+  - [Managing DNS and DHCP using IPAM](#managing-dns-and-dhcp-using-ipam)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and configure Windows Server 2022 DHCP and DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980)
@@ -136,9 +136,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), [[Windows Server]] (3), [[Active Directory]] (2), [[Microsoft]] (2), [[Troubleshooting]] (1)
 > **Env Vars:** dns (5), dhcp (4), ipam (1)
 > **Prerequisites:** you'll need (1), install (1)
-> **Code Keywords:** switch (1)
 > **Tools:** powershell (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [robert] (1)
@@ -146,7 +146,7 @@ created: 2026-04-29
 
 ### 1. DHCP Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DHCP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980)
@@ -215,8 +215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Engineering]] (1), [[IP Addressing]] (1), [[Routing]] (1), [[Databases]] (1)
 > **Env Vars:** dhcp (31), rfc (1), bootp (1)
-> **Code Keywords:** default. (1), static (1), let (1), finally, (1)
 > **Definitions:** known as (2), is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -257,9 +257,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (8), [[Windows Server]] (1), feature (1)
 > **Env Vars:** dhcp (18)
 > **Analogies:** such as (2)
-> **Code Keywords:** switch (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
@@ -318,10 +318,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows Server]] (2), dns (1), [[Databases]] (1), feature (1)
 > **Env Vars:** dhcp (17), dns (1), mac (1), vpn (1), mpls (1)
 > **Prerequisites:** set up (4), you need to have (1), you'll need (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** throw (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -329,7 +329,7 @@ created: 2026-04-29
 
 ### 2. Setting Up DHCP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing the DHCP server role
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980)
@@ -414,11 +414,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Powershell]] (4), management (3), feature (3), [[Windows Server]] (2)
 > **Env Vars:** dhcp (17)
 > **Prerequisites:** install (5), configure (3)
 > **Tools:** powershell (4)
 > **UI Navigation:** go to (2), right-click (1)
-> **Code Keywords:** continue (1), switch (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -462,6 +462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (1), [[Windows Server]] (1), [[Security]] (1)
 > **Env Vars:** dhcp (6)
 > **CLI Commands:** make (1)
 > **Tools:** powershell (1)
@@ -547,8 +548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (4), next (3), power (1), [[Microsoft Office|Office]] (1), hit (1)
 > **UI Navigation:** right-click (2), click on (2), double-click (1)
-> **Code Keywords:** delete (2), let (1), interface (1)
 > **Tools:** powershell (4)
 > **Env Vars:** dhcp (3)
 > **Definitions:** means that (2), is a  (1)
@@ -615,6 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (4), [[Active Directory]] (1)
 > **Env Vars:** dns (4), dhcp (3)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Versions:** 192.168.21 (1), 6821.195 (1)
@@ -622,7 +624,6 @@ created: 2026-04-29
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
-> **Speakers:** - [instructor] (1)
 
 #### Scope activation
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/scope-activation?u=76281980)
@@ -690,10 +691,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), [[Search]] (1), next (1)
 > **Env Vars:** dhcp (8)
 > **UI Navigation:** go to (2), click on (2), open the (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** static (2)
 > **Tools:** command prompt (2)
 > **Versions:** 192.168.21 (1)
 > **Cross-References:** go back to (1)
@@ -702,7 +703,7 @@ created: 2026-04-29
 
 ### 3. Managing DHCP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up reservations
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980)
@@ -787,8 +788,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (2), hit (2), [[Microsoft Office|Office]] (1), management (1), prompt (1)
 > **Env Vars:** dhcp (4), mac (3), dns (1)
-> **Code Keywords:** static (1), require (1), let (1), this, (1)
 > **Tools:** powershell (2), command prompt (1)
 > **UI Navigation:** right-click (2), double-click (1)
 > **Prerequisites:** set up (2), you need to have (1)
@@ -834,7 +835,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), this, (1)
 > **Versions:** 192.168.21 (2)
 > **UI Navigation:** right-click (2)
 > **Prerequisites:** set up (2)
@@ -882,9 +882,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), management (1)
 > **Env Vars:** dhcp (7), dc2 (3), dc01 (2)
 > **UI Navigation:** right-click (2), click on (1), go to (1)
-> **Code Keywords:** let (1), else. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -915,10 +915,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), management (1), [[Databases]] (1)
 > **Env Vars:** dhcp (4)
 > **UI Navigation:** go to (1), right-click (1), click on (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1003,10 +1003,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), next (1), [[Android]] (1), dns (1), [[Microsoft Defender|Defender]] (1)
 > **UI Navigation:** go to (12), click on (2)
 > **CLI Commands:** make (8), find (1)
 > **Env Vars:** dhcp (6), udp (2), dns (1)
-> **Code Keywords:** static (2), case, (1), delete (1)
 > **Analogies:** such as (2)
 > **Code Identifiers:** ios (1)
 > **Prerequisites:** you need to have (1)
@@ -1083,10 +1083,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), [[Powershell]] (1), [[Network Security]] (1)
 > **Env Vars:** dhcp (8), mac (7)
 > **UI Navigation:** go to (4), click on (1)
 > **Definitions:** means that (2), known as (1), is called (1), is an  (1)
-> **Code Keywords:** delete (2), let (1), case, (1)
 > **Tools:** command prompt (1), powershell (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1095,7 +1095,7 @@ created: 2026-04-29
 
 ### 4. Advanced DHCP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DHCP failover and high availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-failover-and-high-availability?u=76281980)
@@ -1118,6 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** dhcp (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1193,8 +1194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), hit (1)
 > **Env Vars:** dc2 (4), dhcp (3), dc01 (1), dc1 (1)
-> **Code Keywords:** switch (2), default, (1), this, (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is called (1), means that (1), is a  (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -1279,8 +1280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (9), [[Windows]] (6), next (5), [[Local Area Network (LAN)|Local area network]] (3), lan (3)
 > **Env Vars:** dhcp (20), lan (3), dns (2), vlan (1), wins (1)
-> **Code Keywords:** switch (4), interface (2), continue (1)
 > **UI Navigation:** go to (4), click on (2)
 > **Prerequisites:** configure (2), set up (2), install (1)
 > **CLI Commands:** make (1)
@@ -1345,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (6), switch (2), case, (1)
+> **Frameworks & Libraries:** [[Routing]] (3)
 > **Env Vars:** dhcp (6), vlan (1)
 > **Versions:** 192.168.22 (2), 21.1 (2), 22.100 (1), 192.168 (1), 255.255.0 (1)
 > **UI Navigation:** switch to (1), click on (1)
@@ -1429,10 +1430,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), next (3), hit (2)
 > **Env Vars:** dhcp (4), i2004 (1)
 > **Prerequisites:** you'll need (3), configure (2)
 > **UI Navigation:** dropdown (2), go to (1), click on (1)
-> **Code Keywords:** class. (1), require (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1501,7 +1502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** next (2), management (1)
 > **Env Vars:** dhcp (1)
 > **Versions:** 192.168.21 (1)
 > **UI Navigation:** go to (1)
@@ -1512,7 +1513,7 @@ created: 2026-04-29
 
 ### 5. DNS Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DNS importance with Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980)
@@ -1537,6 +1538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (9), [[Active Directory]] (7), [[Domain Name System (DNS)|Domain name system]] (1), [[Windows Server]] (1)
 > **Env Vars:** dns (9)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** make (1)
@@ -1615,10 +1617,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (10), [[Active Directory]] (5), traffic (3), [[Windows]] (2), management (1)
 > **Env Vars:** dns (10), msdcs (1)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** public (2), delete (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1722,8 +1724,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (4), dns (3), application (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** ldap (7), dns (3), lil (3), dc2 (3), dc01 (3)
-> **Code Keywords:** let (2), default, (2), delete (1), if, (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** means that (1), is called (1), stands for (1), is a  (1)
 > **Analogies:** for instance (3)
@@ -1734,7 +1736,7 @@ created: 2026-04-29
 
 ### 6. Deploying DNS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install DNS on a member server
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-dns-on-a-member-server?u=76281980)
@@ -1775,6 +1777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (13), next (2), traffic (1), [[Windows]] (1)
 > **Env Vars:** dns (13)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** find (1)
@@ -1848,9 +1851,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[Google]] (4), [[Local Area Network (LAN)|Local area network]] (1), next (1)
 > **Env Vars:** dns (8)
 > **UI Navigation:** go to (3), click on (2)
-> **Code Keywords:** public (2), let (1), case, (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 8.8.8 (2)
 > **Definitions:** is an  (1)
@@ -1938,10 +1941,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (4), traffic (2), web (1), [[Search]] (1), management (1)
 > **Env Vars:** dns (4), tcp (1), udp (1), dco1 (1), soa (1)
 > **UI Navigation:** go to (3), right-click (1)
 > **Analogies:** for instance (2), such as (2)
-> **Code Keywords:** let (1), case, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
@@ -1950,7 +1953,7 @@ created: 2026-04-29
 
 ### 7. DNS Zones
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Forward DNS zones and AD integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-dns-zones-and-ad-integration?u=76281980)
@@ -2025,10 +2028,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (5), dns (4), next (3)
 > **Env Vars:** dns (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for instance (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** as you saw (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -2129,8 +2132,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (5), dns (3), next (3)
 > **Env Vars:** dns (3), dc2 (1)
-> **Code Keywords:** default. (2), let (1)
 > **UI Navigation:** right-click (1), go to (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1), similar to (1)
@@ -2237,9 +2240,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), dns (1)
 > **UI Navigation:** go to (5), right-click (2)
 > **CLI Commands:** make (6)
-> **Code Keywords:** delete (2), from. (1)
 > **Env Vars:** dns (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2314,9 +2317,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Microsoft Office|Office]] (2), dns (1)
 > **Env Vars:** dc01 (7), dns (1)
 > **UI Navigation:** go to (7)
-> **Code Keywords:** case, (2), let (1), for, (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -2326,7 +2329,7 @@ created: 2026-04-29
 
 ### 8. DNS Resource Records
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Forward and reverse zone records
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-and-reverse-zone-records?u=76281980)
@@ -2415,6 +2418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (1), prompt (1), next (1), hit (1), dns (1)
 > **Env Vars:** ptr (1), dns (1)
 > **Versions:** 21.200 (2)
 > **Analogies:** for instance (2)
@@ -2530,7 +2534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), delete (1)
+> **Frameworks & Libraries:** web (8), prompt (2), [[Powershell]] (1), career (1)
 > **Env Vars:** cname (4)
 > **Definitions:** known as (3), stands for (1)
 > **Tools:** command prompt (2), powershell (1)
@@ -2632,9 +2636,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), next (2), [[Microsoft Azure]] (1), [[Microsoft 365]] (1), [[Google]] (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
 > **UI Navigation:** go to (2), click on (1)
-> **Code Keywords:** public (1), let (1)
 > **Env Vars:** dns (1), acd (1)
 > **Versions:** 21.207 (1)
 > **Definitions:** is a  (1)
@@ -2676,10 +2680,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (2), next (2), [[Windows Server]] (1), [[Windows]] (1)
 > **Env Vars:** dns (2), txt (2), nxt (2)
 > **CLI Commands:** find (3)
 > **Analogies:** for instance (1), just like (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -2688,7 +2692,7 @@ created: 2026-04-29
 
 ### 9. Advanced DNS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DNS queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-queries?u=76281980)
@@ -2717,6 +2721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6)
 > **Env Vars:** dns (6)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (1), find (1)
@@ -2770,6 +2775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (6), dns (5), next (3), [[Windows]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (8), right-click (1)
 > **Env Vars:** dns (5), isp (1)
 > **URLs:** [google.com](https://google.com) (3)
@@ -2777,7 +2783,6 @@ created: 2026-04-29
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
-> **Speakers:** - [instructor] (1)
 
 #### Conditional forwarders
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980)
@@ -2818,9 +2823,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[Active Directory]] (2), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** dns (8)
 > **URLs:** [kentoso.com](https://kentoso.com) (4)
-> **Code Keywords:** public (1), this. (1)
 > **CLI Commands:** make (1)
 > **Versions:** 192.168.21 (1)
 > **UI Navigation:** right-click (1)
@@ -2829,7 +2834,7 @@ created: 2026-04-29
 
 ### 10. DNS Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DNS cache locking
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980)
@@ -2888,9 +2893,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (26), [[Security]] (10), [[Windows Server]] (2), management (2), data (1)
 > **Env Vars:** dns (25), dnssec (3), rrsig (2), dnskey (2)
 > **Definitions:** is a  (3), is called (2)
-> **Code Keywords:** public (2), delete (1), default, (1)
 > **CLI Commands:** make (1)
 > **Tools:** powershell (1)
 > **Prerequisites:** you'll need (1)
@@ -2955,11 +2960,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (4), prompt (2), data (1), traffic (1), feature (1)
 > **Env Vars:** dns (4)
 > **CLI Commands:** make (3)
 > **Tools:** command prompt (2), powershell (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3020,11 +3025,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), [[Powershell]] (3), hit (2), [[Security]] (1), prompt (1)
 > **Env Vars:** dns (5)
 > **Tools:** powershell (3), command line (1), command prompt (1)
 > **File Paths:** dns2.txt (2), dns.txt (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** else, (1), default, (1), let (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3127,8 +3132,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (10), dns (8), [[Security]] (2), data (1)
 > **Env Vars:** dns (8), dnssec (4), ksk (2), nsec (1)
-> **Code Keywords:** public (3), private (1)
 > **Definitions:** short for (1), is an  (1)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** make (1)
@@ -3139,7 +3144,7 @@ created: 2026-04-29
 
 ### 11. DHCP and DNS Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing DNS and DHCP using Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980)
@@ -3258,10 +3263,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (11), dns (8), next (4), web (3), [[Microsoft]] (3)
 > **Env Vars:** dns (8), dhcp (8), ssl (1), dc01 (1), ptr (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Prerequisites:** install (5)
-> **Code Keywords:** self (1), public (1), default, (1), this, (1)
 > **CLI Commands:** make (3)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Ports:** port 80 (1)
@@ -3436,11 +3441,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (10), next (7), management (5), database (4), data (4)
 > **Env Vars:** dhcp (14), ipam (13), dns (10), sql (3), dc01 (2)
 > **UI Navigation:** click on (4), go to (4), right-click (3), select the (1)
 > **Analogies:** similar to (1), such as (1), for instance (1), just like (1)
 > **Prerequisites:** install (1), configure (1), set up (1)
-> **Code Keywords:** require (1), this, (1)
 > **Versions:** 21.0 (1)
 > **Tools:** powershell (1)
 > **Definitions:** is a  (1)

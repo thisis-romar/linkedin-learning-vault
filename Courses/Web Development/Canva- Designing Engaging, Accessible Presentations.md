@@ -30,7 +30,7 @@ tags:
   - skill/presentation-design
   - skill/canva
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Canva-%20Designing%20Engaging%2C%20Accessible%20Presentations.md)
@@ -49,33 +49,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Design better presentations in Canva
-  - What you should know
-  - Exercise files
+  - [Design better presentations in Canva](#design-better-presentations-in-canva)
+  - [What you should know](#what-you-should-know)
+  - [Exercise files](#exercise-files)
 - [**1. Design for Non-Designers**](#1-design-for-non-designers) (3 videos)
-  - Design pillars
-  - Key Gestalt design principles
-  - Designing for everyone
+  - [Design pillars](#design-pillars)
+  - [Key Gestalt design principles](#key-gestalt-design-principles)
+  - [Designing for everyone](#designing-for-everyone)
 - [**2. Designing Presentations in Canva**](#2-designing-presentations-in-canva) (4 videos)
-  - Starting from a template
-  - Using proximity to group related elements
-  - Creating space to make your message clear
-  - Using similarity and contrast to create a visual hierarchy
+  - [Starting from a template](#starting-from-a-template)
+  - [Using proximity to group related elements](#using-proximity-to-group-related-elements)
+  - [Creating space to make your message clear](#creating-space-to-make-your-message-clear)
+  - [Using similarity and contrast to create a visual hierarchy](#using-similarity-and-contrast-to-create-a-visual-hierarchy)
 - [**3. Designing with Your Brand in Mind**](#3-designing-with-your-brand-in-mind) (4 videos)
-  - Why branding matters
-  - Choosing accessible brand colors
-  - Creating your brand kit
-  - Designing a brand template
+  - [Why branding matters](#why-branding-matters)
+  - [Choosing accessible brand colors](#choosing-accessible-brand-colors)
+  - [Creating your brand kit](#creating-your-brand-kit)
+  - [Designing a brand template](#designing-a-brand-template)
 - [**4. Designing for Accessibility**](#4-designing-for-accessibility) (3 videos)
-  - Checking presentations for accessibility
-  - Checking for color contrast
-  - Writing alternative text
+  - [Checking presentations for accessibility](#checking-presentations-for-accessibility)
+  - [Checking for color contrast](#checking-for-color-contrast)
+  - [Writing alternative text](#writing-alternative-text)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design better presentations in Canva
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva?u=76281980)
@@ -94,6 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Canva]] (2), business (1), web (1), next (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -111,6 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Canva]] (3), [[Windows]] (1), application (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -135,6 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Canva]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Exercise Files:** exercise files (1), download the (1)
 > **Speakers:** - [narrator] (1)
@@ -142,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Design for Non-Designers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design pillars
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980)
@@ -203,6 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Canva]] (2), [[Microsoft Word|Word]] (1), next (1), [[Presentation Design]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [instructor] (1)
@@ -249,6 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Presentation Design]] (2), [[Canva]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Web Accessibility]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [seewritehear.com](https://seewritehear.com) (1)
 > **Analogies:** for example (1)
@@ -257,7 +262,7 @@ created: 2026-04-29
 
 ### 2. Designing Presentations in Canva
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting from a template
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980)
@@ -412,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), delete (5), case, (1), from. (1), for. (1)
+> **Frameworks & Libraries:** [[Canva]] (6), hit (3), [[Search]] (2), next (2), game (1)
 > **Exercise Files:** template (13)
 > **UI Navigation:** click on (3), scroll down (2)
 > **Analogies:** kind of like (2), similar to (1)
@@ -506,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), else. (1)
+> **Frameworks & Libraries:** [[Search]] (1), [[Canva]] (1), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** double-click (2), go to (1), right-click (1)
 > **Exercise Files:** template (3)
@@ -600,8 +605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), ai (1), hit (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3), this. (1), delete (1)
 > **Env Vars:** ing (2)
 > **UI Navigation:** select the (1), click on (1)
 > **Exercise Files:** template (1)
@@ -703,7 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), else. (1), case, (1)
+> **Frameworks & Libraries:** [[Canva]] (2), [[Representational State Transfer (REST)|Rest]] (2), next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), double-click (1)
 > **Analogies:** for example (2)
@@ -713,7 +718,7 @@ created: 2026-04-29
 
 ### 3. Designing with Your Brand in Mind
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why branding matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980)
@@ -738,6 +743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), business (1), [[Search]] (1), [[Canva]] (1), next (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** in the menu (1)
 > **Prerequisites:** you'll need (1)
@@ -780,7 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (2)
+> **Frameworks & Libraries:** web (1), [[Canva]] (1)
 > **URLs:** [canva.com](https://canva.com) (1), [adobe.com](https://adobe.com) (1)
 > **Env Vars:** wcag (1)
 > **Speakers:** - [instructor] (1)
@@ -992,7 +998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2), new, (1), continue (1), throw (1)
+> **Frameworks & Libraries:** [[Canva]] (6), [[Typography]] (3), [[Microsoft 365|M365]] (1), [[LinkedIn]] (1), feature (1)
 > **UI Navigation:** scroll down (5), click on (2), scroll up (1), drag and drop (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
@@ -1122,8 +1128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Canva]] (4), next (2), hit (1)
 > **UI Navigation:** click on (7), drag and drop (2), dropdown (1), select the (1), go to (1)
-> **Code Keywords:** let (4), this, (1), this. (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
@@ -1132,7 +1138,7 @@ created: 2026-04-29
 
 ### 4. Designing for Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Checking presentations for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980)
@@ -1187,7 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Canva]] (5), [[Typography]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
 > **Cross-References:** previous chapter (1), go back to (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1246,7 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), require (1), interface (1), let (1), default, (1)
+> **Frameworks & Libraries:** [[Canva]] (3)
 > **Versions:** 2.1 (1), 3.1 (1), 7.1 (1), 4.5 (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** aaa (3)
@@ -1428,8 +1434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (11), [[Canva]] (4), web (1), next (1), ai (1)
 > **Analogies:** picture (6), for example (2), kind of like (1)
-> **Code Keywords:** let (7), this, (1)
 > **UI Navigation:** go to (4), checkbox (1), click on (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -1440,7 +1446,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980)
@@ -1459,6 +1465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Canva]] (4), [[LinkedIn]] (2), [[Search]] (1), [[Graphic Design]] (1), [[Design Thinking]] (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Speakers:** - [instructor] (1)
 

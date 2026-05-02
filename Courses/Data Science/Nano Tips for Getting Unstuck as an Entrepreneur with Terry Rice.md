@@ -28,7 +28,7 @@ tags:
   - skill/business-development
   - skill/entrepreneurship
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20for%20Getting%20Unstuck%20as%20an%20Entrepreneur%20with%20Terry%20Rice.md)
@@ -47,20 +47,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. How to Get Unstuck as an Entrepreneur**](#1-how-to-get-unstuck-as-an-entrepreneur) (10 videos)
-  - How to determine the vision and mission of your business
-  - Three steps to developing a high-performance mindset
-  - Optimizing your business model and revenue potential
-  - How to create the perfect offer for your audience
-  - Best practices for developing your personal brand
-  - How to get clients for your business
-  - How to manage clients and reduce stress
-  - How to increase your productivity and efficiency
-  - Best practices for building and nurturing a powerful network
-  - How to improve processes and scale your business
+  - [How to determine the vision and mission of your business](#how-to-determine-the-vision-and-mission-of-your-business)
+  - [Three steps to developing a high-performance mindset](#three-steps-to-developing-a-high-performance-mindset)
+  - [Optimizing your business model and revenue potential](#optimizing-your-business-model-and-revenue-potential)
+  - [How to create the perfect offer for your audience](#how-to-create-the-perfect-offer-for-your-audience)
+  - [Best practices for developing your personal brand](#best-practices-for-developing-your-personal-brand)
+  - [How to get clients for your business](#how-to-get-clients-for-your-business)
+  - [How to manage clients and reduce stress](#how-to-manage-clients-and-reduce-stress)
+  - [How to increase your productivity and efficiency](#how-to-increase-your-productivity-and-efficiency)
+  - [Best practices for building and nurturing a powerful network](#best-practices-for-building-and-nurturing-a-powerful-network)
+  - [How to improve processes and scale your business](#how-to-improve-processes-and-scale-your-business)
 
 ### 1. How to Get Unstuck as an Entrepreneur
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine the vision and mission of your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-determine-the-vision-and-mission-of-your-business?u=76281980)
@@ -119,8 +119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this, (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** it's like (1)
 
@@ -185,9 +185,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1), [[LinkedIn]] (1), traffic (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 #### Optimizing your business model and revenue potential
@@ -247,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), while, (1), continue (1)
+> **Frameworks & Libraries:** business (1), next (1), [[Forms]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -319,8 +319,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), express (1), business (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (2)
 > **URLs:** [terryris.co](https://terryris.co) (1)
@@ -391,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** [[Entrepreneurship]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
@@ -456,10 +456,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Business Development]] (1), [[Entrepreneurship]] (1), next (1), [[Search]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Best Practices:** rule of thumb (1)
 
 #### How to manage clients and reduce stress
@@ -517,7 +517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include. (1), let (1)
+> **Frameworks & Libraries:** management (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -581,7 +581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (1)
+> **Frameworks & Libraries:** business (1), [[LinkedIn]] (1), [[Content Creation]] (1)
 
 #### Best practices for building and nurturing a powerful network
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/best-practices-for-building-and-nurturing-a-powerful-network?u=76281980)
@@ -638,8 +638,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (1), public (1), super (1)
 > **Analogies:** for example (1)
 
 #### How to improve processes and scale your business
@@ -707,7 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), finally, (1)
+> **Frameworks & Libraries:** next (3), [[LinkedIn]] (2), business (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)

@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/graphql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/GraphQL%20Essential%20Training.md)
@@ -48,40 +48,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn GraphQL essentials
-  - Course prerequisites
+  - [Learn GraphQL essentials](#learn-graphql-essentials)
+  - [Course prerequisites](#course-prerequisites)
 - [**1. Setup and Introduction**](#1-setup-and-introduction) (5 videos)
-  - IDE and required tools
-  - GraphQL overview
-  - Server setup
-  - The initial GraphQL setup
-  - Basic GraphQL schema
+  - [IDE and required tools](#ide-and-required-tools)
+  - [GraphQL overview](#graphql-overview)
+  - [Server setup](#server-setup)
+  - [The initial GraphQL setup](#the-initial-graphql-setup)
+  - [Basic GraphQL schema](#basic-graphql-schema)
 - [**2. Types and Schemas**](#2-types-and-schemas) (6 videos)
-  - Object types and fields
-  - Query and mutation types
-  - What is the resolver and its role?
-  - Scalar types
-  - Enumeration types
-  - List of types inside another
+  - [Object types and fields](#object-types-and-fields)
+  - [Query and mutation types](#query-and-mutation-types)
+  - [What is the resolver and its role?](#what-is-the-resolver-and-its-role)
+  - [Scalar types](#scalar-types)
+  - [Enumeration types](#enumeration-types)
+  - [List of types inside another](#list-of-types-inside-another)
 - [**3. Setting Up Persistence**](#3-setting-up-persistence) (4 videos)
-  - Installing MongoDB for GraphQL
-  - Finalize the database connectors
-  - Update resolvers for MongoDB
-  - Data persistence with SQL
+  - [Installing MongoDB for GraphQL](#installing-mongodb-for-graphql)
+  - [Finalize the database connectors](#finalize-the-database-connectors)
+  - [Update resolvers for MongoDB](#update-resolvers-for-mongodb)
+  - [Data persistence with SQL](#data-persistence-with-sql)
 - [**4. Mutations**](#4-mutations) (3 videos)
-  - Add new items with mutations
-  - Update items with mutations
-  - Delete items with mutations
+  - [Add new items with mutations](#add-new-items-with-mutations)
+  - [Update items with mutations](#update-items-with-mutations)
+  - [Delete items with mutations](#delete-items-with-mutations)
 - [**5. Queries in Depth**](#5-queries-in-depth) (3 videos)
-  - Querying all products
-  - Querying with aliases
-  - Querying with fragments
+  - [Querying all products](#querying-all-products)
+  - [Querying with aliases](#querying-with-aliases)
+  - [Querying with fragments](#querying-with-fragments)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn GraphQL essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[Fetch]] (1), data (1), next (1), [[MongoDB]] (1)
 > **Env Vars:** sql (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -128,6 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (2), [[JavaScript]] (1), next (1), [[npm]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** npm (1)
 > **Tools:** terminal (1)
@@ -136,7 +137,7 @@ created: 2026-04-29
 
 ### 1. Setup and Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IDE and required tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/ide-and-required-tools?u=76281980)
@@ -169,9 +170,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (7)
 > **Tools:** vs code (3)
 > **Analogies:** for example (3)
-> **Code Keywords:** require (1), let (1)
 > **Env Vars:** ide (2)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
@@ -233,8 +234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (8), database (3), [[Databases]] (1), data (1)
 > **Definitions:** is a  (2), in other words (1)
-> **Code Keywords:** else. (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (9), this, (2), this. (1), delete (1)
+> **Frameworks & Libraries:** [[GraphQL]] (9), express (5), [[npm]] (4), node (3), [[JavaScript]] (3)
 > **Prerequisites:** install (11), set up (1)
 > **CLI Commands:** npm (4), make (4), node (3)
 > **Env Vars:** npm (4), json (2), npmi (2), url (2), cli (1)
@@ -571,7 +572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (5), function (5), case, (3), interface (1)
+> **Frameworks & Libraries:** [[GraphQL]] (23), data (8), database (5), express (4), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** buildschema (3), graphiql (2)
 > **Definitions:** is a  (4)
 > **Prerequisites:** install (3), set up (1)
@@ -695,7 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), type. (2), function (1), this. (1), return. (1)
+> **Frameworks & Libraries:** product (17), data (8), database (5), [[GraphQL]] (4), api (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -707,7 +708,7 @@ created: 2026-04-29
 
 ### 2. Types and Schemas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Object types and fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980)
@@ -782,7 +783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type, (3), this, (2), this. (1), case, (1)
+> **Frameworks & Libraries:** product (6), data (4), [[GraphQL]] (3), [[JavaScript]] (1), database (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -922,7 +923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (2), this, (2), type. (1), case, (1)
+> **Frameworks & Libraries:** product (13), [[Microsoft Products|Products]] (5), database (3), [[GraphQL]] (2), data (2)
 > **CLI Commands:** make (5), find (1), npm (1)
 > **Code Identifiers:** createproduct (2), tostring (1)
 > **Cross-References:** go back to (2)
@@ -1134,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), this. (5), function (2), pass (2), case, (1)
+> **Frameworks & Libraries:** product (16), data (2), database (2), application (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** getproduct (4), createproduct (4)
 > **Versions:** 40.99 (2), 23.99 (1)
 > **File Paths:** index.js (1), resolvers.js (1)
@@ -1220,7 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), type, (2), type. (1), finally, (1)
+> **Frameworks & Libraries:** [[Scala]] (4), [[GraphQL]] (4), product (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Versions:** 52.99 (1)
@@ -1283,7 +1284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), enum (6), type. (3), type, (1), this. (1)
+> **Frameworks & Libraries:** product (5), data (2), [[Scala]] (1), [[GraphQL]] (1)
 > **Env Vars:** soldout (4), onsale (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -1328,14 +1329,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), type. (1), let (1)
+> **Frameworks & Libraries:** product (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Setting Up Persistence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing MongoDB for GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980)
@@ -1410,9 +1411,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (12), data (3), [[GraphQL]] (2), application (2), database (2)
 > **Prerequisites:** install (14)
 > **CLI Commands:** make (5), docker (2)
-> **Code Keywords:** let (4), this, (1), this. (1)
 > **Tools:** terminal (4)
 > **Ports:** port 27017 (1)
 > **Documentation:** the documentation (1)
@@ -1500,7 +1501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), async (2), await (1), while, (1)
+> **Frameworks & Libraries:** [[MongoDB]] (7), database (6), [[GraphQL]] (3), data (2), next (2)
 > **CLI Commands:** make (3), mongo (1)
 > **Code Identifiers:** dbconnectors (2), connectmongo (2)
 > **Cross-References:** previous video (1), next video (1)
@@ -1645,7 +1646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (4), function (3), throw (3), async (2)
+> **Frameworks & Libraries:** database (8), product (7), [[MongoDB]] (5), [[GraphQL]] (3), data (1)
 > **CLI Commands:** make (7), find (6)
 > **Code Identifiers:** getproduct (3), createproduct (1), findbyid (1)
 > **Definitions:** means that (2), is a  (2)
@@ -1833,7 +1834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), await (7), this. (4), this, (3), async (3)
+> **Frameworks & Libraries:** database (10), data (10), [[npm]] (2), next (2), [[Databases]] (1)
 > **CLI Commands:** make (5), npm (2), sqlite3 (2), node (1)
 > **Env Vars:** string (3), fyi (2), sql (1)
 > **Code Identifiers:** syncandseedcategories (2), dbconnectors (1)
@@ -1845,7 +1846,7 @@ created: 2026-04-29
 
 ### 4. Mutations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add new items with mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980)
@@ -1952,7 +1953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), this, (4), pass (2), throw (2)
+> **Frameworks & Libraries:** product (7), database (4), [[GraphQL]] (3), [[MongoDB]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** newwidget (5), createproduct (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1), go to (1)
@@ -2091,7 +2092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (3), pass (3), async (1), function (1)
+> **Frameworks & Libraries:** product (8), [[GraphQL]] (5), database (4), data (1)
 > **Code Identifiers:** updateproduct (7), createproduct (3), findoneandupdate (1), updatewidget (1)
 > **CLI Commands:** make (6), find (2)
 > **Versions:** 50.99 (2), 24.99 (1)
@@ -2177,7 +2178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (3), function (2), this, (2), async (1)
+> **Frameworks & Libraries:** database (6), product (3), [[GraphQL]] (2), data (1)
 > **Code Identifiers:** deleteproduct (1), deleteone (1)
 > **Env Vars:** ee2 (2)
 > **Definitions:** is an  (2)
@@ -2188,7 +2189,7 @@ created: 2026-04-29
 
 ### 5. Queries in Depth
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying all products
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980)
@@ -2263,7 +2264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), await (1), throw (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[GraphQL]] (2), product (2), database (2)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2348,7 +2349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (2), require (1), type. (1), this. (1)
+> **Frameworks & Libraries:** product (5), feature (2), [[GraphQL]] (2), [[Microsoft Products|Products]] (2), [[JSON]] (1)
 > **Code Identifiers:** getproduct (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** json (1)
@@ -2433,7 +2434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), this. (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (2), feature (1), [[GraphQL]] (1), data (1)
 > **Code Identifiers:** productfragment (3)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -2441,7 +2442,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980)
@@ -2462,6 +2463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[Slack]] (2)
 > **Tools:** slack (2)
 > **URLs:** [graphql-slack.com](https://graphql-slack.com) (1)
 > **Documentation:** the docs (1)

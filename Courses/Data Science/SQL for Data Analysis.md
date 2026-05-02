@@ -42,7 +42,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20for%20Data%20Analysis.md)
@@ -61,35 +61,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Using SQL for data analysis
-  - What you should know
-  - Setting up Codespaces
-  - Getting started with a database in Codespaces
+  - [Using SQL for data analysis](#using-sql-for-data-analysis)
+  - [What you should know](#what-you-should-know)
+  - [Setting up Codespaces](#setting-up-codespaces)
+  - [Getting started with a database in Codespaces](#getting-started-with-a-database-in-codespaces)
 - [**1. SQL Introduction and Asking the Right Questions**](#1-sql-introduction-and-asking-the-right-questions) (3 videos)
-  - A quick review of Structured Query Language (SQL)
-  - What is a relational database?
-  - Common SQL structures
+  - [A quick review of Structured Query Language (SQL)](#a-quick-review-of-structured-query-language-sql)
+  - [What is a relational database?](#what-is-a-relational-database)
+  - [Common SQL structures](#common-sql-structures)
 - [**2. Using Data Types**](#2-using-data-types) (4 videos)
-  - Using data types and identifying the wrong data types
-  - Finding missing values
-  - Finding possible inaccurate data values
-  - Finding duplicate rows
+  - [Using data types and identifying the wrong data types](#using-data-types-and-identifying-the-wrong-data-types)
+  - [Finding missing values](#finding-missing-values)
+  - [Finding possible inaccurate data values](#finding-possible-inaccurate-data-values)
+  - [Finding duplicate rows](#finding-duplicate-rows)
 - [**3. Working with Dates**](#3-working-with-dates) (2 videos)
-  - Working with dates
-  - Filtering data by dates
+  - [Working with dates](#working-with-dates)
+  - [Filtering data by dates](#filtering-data-by-dates)
 - [**4. Easy SQL Functions**](#4-easy-sql-functions) (3 videos)
-  - Common SQL string functions
-  - Common SQL aggregate functions
-  - Introduction to data manipulation
+  - [Common SQL string functions](#common-sql-string-functions)
+  - [Common SQL aggregate functions](#common-sql-aggregate-functions)
+  - [Introduction to data manipulation](#introduction-to-data-manipulation)
 - [**5. Presenting Your SQL Results in Data Visualization**](#5-presenting-your-sql-results-in-data-visualization) (2 videos)
-  - Getting started with data visualization
-  - Creating data visualization
+  - [Getting started with data visualization](#getting-started-with-data-visualization)
+  - [Creating data visualization](#creating-data-visualization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Leveling up SQL
+  - [Leveling up SQL](#leveling-up-sql)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using SQL for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980)
@@ -110,6 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (3), database (1), business (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - sql (1)
 
@@ -142,9 +143,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), management (3), [[Codespaces]] (2), [[Relational Databases]] (1), data (1)
 > **Tools:** visual studio (1), github (1)
 > **CLI Commands:** mysql (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -260,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (4), hit (4), [[LinkedIn]] (2), cloud (2)
 > **Tools:** github (4), visual studio (2)
 > **Definitions:** is a  (4), known as (1), is an  (1)
 > **CLI Commands:** make (2), find (1), git (1)
@@ -294,8 +295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Codespaces]] (2), [[SQL]] (2), [[GitHub]] (1), next (1)
 > **UI Navigation:** click on (3), go to (2)
-> **Code Keywords:** let (3)
 > **Env Vars:** sql (2)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -303,7 +304,7 @@ created: 2026-04-29
 
 ### 1. SQL Introduction and Asking the Right Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick review of Structured Query Language (SQL)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980)
@@ -384,9 +385,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), data (12), [[SQL]] (7), product (5), management (4)
 > **Env Vars:** sql (7), dbms (2), ibm (1), db2 (1), html (1)
 > **Definitions:** is a  (4), known as (3), is an  (1)
-> **Code Keywords:** let (2), this. (1), require (1)
 > **Cross-References:** later in (1)
 > **Documentation:** stack overflow (1)
 > **Analogies:** such as (1)
@@ -547,8 +548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (6), product (6), [[GitHub]] (1)
 > **Definitions:** is a  (3), known as (2)
-> **Code Keywords:** let (4)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** erd (3)
 > **Tools:** github (1)
@@ -671,7 +672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), from, (1), match. (1)
+> **Frameworks & Libraries:** [[SQL]] (10), data (8), database (3), product (1), hit (1)
 > **Env Vars:** sql (10)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **CLI Commands:** make (2), find (1)
@@ -682,7 +683,7 @@ created: 2026-04-29
 
 ### 2. Using Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using data types and identifying the wrong data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980)
@@ -823,8 +824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), database (3), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Programming]] (1)
 > **Env Vars:** sql (5), sum (4), int (3), varchar (2), null (2)
-> **Code Keywords:** let (8), function (4), type. (3), from, (1), type, (1)
 > **SQL:** varchar (2), create table (1), group by (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** cat (1), make (1), mysql (1)
@@ -947,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), for. (1), this. (1)
+> **Frameworks & Libraries:** data (8), [[SQL]] (7), product (7), next (3), database (3)
 > **UI Navigation:** go to (5), click on (5)
 > **File Paths:** selectnewproduct.sql (2), addnewproduct.sql (1), selectblankproduct.sql (1), stateisnull.sql (1), stateisnotnull.sql (1)
 > **Env Vars:** where (4), sql (1)
@@ -1033,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), function (1)
+> **Frameworks & Libraries:** data (11), product (7), [[SQL]] (5), next (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
@@ -1138,8 +1139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (5), next (2), application (2), database (1)
 > **Env Vars:** sql (5), count (5), group (4), having (4), sum (2)
-> **Code Keywords:** let (10), function (3), this, (1), case, (1)
 > **SQL:** group by (4), having (4), where (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** later in (1)
@@ -1149,7 +1150,7 @@ created: 2026-04-29
 
 ### 3. Working with Dates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with dates
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980)
@@ -1222,8 +1223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[SQL]] (5), data (4), management (3), [[MySQL]] (3)
 > **Env Vars:** date (2), timestamp (2), datetime (1), year (1), yyyy (1)
-> **Code Keywords:** let (7), function (1)
 > **CLI Commands:** make (4), mysql (3)
 > **UI Navigation:** open the (4), click on (1)
 > **File Paths:** selectorderdate.sql (1), separatedates.sql (1), separatedatesalias.sql (1), currentdatetime.sql (1)
@@ -1329,7 +1330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (3), this. (1), pass (1)
+> **Frameworks & Libraries:** [[SQL]] (6), data (4), database (1), next (1)
 > **Env Vars:** order (4), between (3), select (1), where (1), descending (1)
 > **UI Navigation:** open the (5), click on (2)
 > **SQL:** order by (4), select (1), where (1)
@@ -1340,7 +1341,7 @@ created: 2026-04-29
 
 ### 4. Easy SQL Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common SQL string functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980)
@@ -1439,7 +1440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (11)
+> **Frameworks & Libraries:** [[SQL]] (6), product (6), data (5), database (3), management (1)
 > **Env Vars:** sql (6), concat (4), replace (2), substring (2), min (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** find (3), mysql (1)
@@ -1529,7 +1530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5)
+> **Frameworks & Libraries:** [[SQL]] (8), data (2), database (2), web (1)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** open the (3), go to (1), click on (1), scroll down (1)
 > **File Paths:** customers.sql (1), orders.sql (1), distinct.sql (1), functions.sql (1), views.sql (1)
@@ -1653,7 +1654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (12), let (10), default, (1), continue (1)
+> **Frameworks & Libraries:** data (9), [[SQL]] (9), database (8), [[Data Manipulation]] (3), business (1)
 > **Env Vars:** sql (5), dml (1), crud (1)
 > **UI Navigation:** click on (5), open the (2)
 > **File Paths:** insert.sql (1), confirm.sql (1), update.sql (1), delete.sql (1)
@@ -1665,7 +1666,7 @@ created: 2026-04-29
 
 ### 5. Presenting Your SQL Results in Data Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980)
@@ -1746,8 +1747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), data (6), application (3), database (2), web (1)
 > **CLI Commands:** python (11)
-> **Code Keywords:** let (9), delete (1)
 > **URLs:** [http://127.0.0.1](http://127.0.0.1) (1), [python.org](https://python.org) (1), [plotly.com](https://plotly.com) (1)
 > **Ports:** port 8050 (2)
 > **Env Vars:** crud (1), ipynb (1)
@@ -1780,6 +1781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), web (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), power (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** sql (2)
 > **UI Navigation:** click on (1)
@@ -1789,7 +1791,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveling up SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980)
@@ -1836,9 +1838,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), data (5), [[Web Development]] (4), web (3), database (3)
 > **Env Vars:** sql (9), crud (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)

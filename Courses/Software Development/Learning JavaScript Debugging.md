@@ -30,7 +30,7 @@ tags:
   - skill/debugging-code
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20JavaScript%20Debugging.md)
@@ -49,50 +49,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Welcome
-  - What you should know
-  - Exercise files
-  - What's new in this update
-  - Using challenges
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [Exercise files](#exercise-files)
+  - [What's new in this update](#whats-new-in-this-update)
+  - [Using challenges](#using-challenges)
 - [**1. Understanding the Need for a Debugger**](#1-understanding-the-need-for-a-debugger) (5 videos)
-  - Introducing our friend, the debugger
-  - Important jargon and concepts
-  - Debuggers in web browsers
-  - The importance of a good editor and IDE
-  - Why debugging AJAX can be tricky
+  - [Introducing our friend, the debugger](#introducing-our-friend-the-debugger)
+  - [Important jargon and concepts](#important-jargon-and-concepts)
+  - [Debuggers in web browsers](#debuggers-in-web-browsers)
+  - [The importance of a good editor and IDE](#the-importance-of-a-good-editor-and-ide)
+  - [Why debugging AJAX can be tricky](#why-debugging-ajax-can-be-tricky)
 - [**2. Debugger Basics**](#2-debugger-basics) (12 videos)
-  - Debugging without a debugger
-  - Leverage more of the Console API
-  - Stop and look around: Simple breakpoints
-  - Explore other breakpoint options
-  - Challenge: Knowing when to stop
-  - Solution: Knowing when to stop
-  - Step into, over, and out of functions
-  - Find out where you are using the call stack
-  - Monitor variables with watches
-  - Source maps to debug minified files
-  - Challenge: Putting it all together
-  - Solution: Putting it all together
+  - [Debugging without a debugger](#debugging-without-a-debugger)
+  - [Leverage more of the Console API](#leverage-more-of-the-console-api)
+  - [Stop and look around: Simple breakpoints](#stop-and-look-around-simple-breakpoints)
+  - [Explore other breakpoint options](#explore-other-breakpoint-options)
+  - [Challenge: Knowing when to stop](#challenge-knowing-when-to-stop)
+  - [Solution: Knowing when to stop](#solution-knowing-when-to-stop)
+  - [Step into, over, and out of functions](#step-into-over-and-out-of-functions)
+  - [Find out where you are using the call stack](#find-out-where-you-are-using-the-call-stack)
+  - [Monitor variables with watches](#monitor-variables-with-watches)
+  - [Source maps to debug minified files](#source-maps-to-debug-minified-files)
+  - [Challenge: Putting it all together](#challenge-putting-it-all-together)
+  - [Solution: Putting it all together](#solution-putting-it-all-together)
 - [**3. Debugging in Practice**](#3-debugging-in-practice) (12 videos)
-  - Debugging the use of a jQuery plugin
-  - Debugging a React application in Chrome
-  - Debugging on iOS using Simulator
-  - Remote debugging on an Android device
-  - Challenge: Other people's code
-  - Solution: Other people's code
-  - Debugging a Node.js application in WebStorm
-  - Setting up the WordPress example
-  - Challenge: Debugging with an IDE
-  - Solution: Debugging with an IDE
-  - Debug a WordPress theme in Visual Studio Code
-  - Use a debugger as a learning tool on a live site
+  - [Debugging the use of a jQuery plugin](#debugging-the-use-of-a-jquery-plugin)
+  - [Debugging a React application in Chrome](#debugging-a-react-application-in-chrome)
+  - [Debugging on iOS using Simulator](#debugging-on-ios-using-simulator)
+  - [Remote debugging on an Android device](#remote-debugging-on-an-android-device)
+  - [Challenge: Other people's code](#challenge-other-peoples-code)
+  - [Solution: Other people's code](#solution-other-peoples-code)
+  - [Debugging a Node.js application in WebStorm](#debugging-a-nodejs-application-in-webstorm)
+  - [Setting up the WordPress example](#setting-up-the-wordpress-example)
+  - [Challenge: Debugging with an IDE](#challenge-debugging-with-an-ide)
+  - [Solution: Debugging with an IDE](#solution-debugging-with-an-ide)
+  - [Debug a WordPress theme in Visual Studio Code](#debug-a-wordpress-theme-in-visual-studio-code)
+  - [Use a debugger as a learning tool on a live site](#use-a-debugger-as-a-learning-tool-on-a-live-site)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Next steps
-  - Extra JavaScript resources
+  - [Next steps](#next-steps)
+  - [Extra JavaScript resources](#extra-javascript-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980)
@@ -131,8 +131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Debugging]] (2), [[Microsoft Products|Products]] (1), job description (1), feature (1)
 > **CLI Commands:** find (2), node (1), make (1)
-> **Code Keywords:** for. (1), let (1)
 > **File Paths:** node.js (1)
 > **Code Identifiers:** jquery (1)
 > **Env Vars:** ide (1)
@@ -164,9 +164,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (2), css (1), [[Debugging]] (1), [[Vanilla]] (1)
 > **Env Vars:** html (2), css (1), es5 (1), es6 (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** jquery (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -214,6 +214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Windows]] (2), [[Debugging]] (1), [[Node.js]] (1), [[HTML]] (1)
 > **UI Navigation:** open the (2), in the toolbar (1)
 > **Exercise Files:** exercise files (2), exercise file (1)
 > **File Paths:** node.js (1), index.html (1)
@@ -221,7 +222,6 @@ created: 2026-04-29
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** you'll need (1)
-> **Speakers:** - [instructor] (1)
 
 #### What's new in this update
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-s-new-in-this-update?u=76281980)
@@ -242,6 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** visual studio (1)
 > **Warnings:** note that (1)
@@ -279,7 +280,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Need for a Debugger
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing our friend, the debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980)
@@ -328,7 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), for, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), web (2), [[Programming]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** php (1), python (1)
 > **Env Vars:** php (1)
 > **Definitions:** is called (1)
@@ -384,7 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), finally, (1)
+> **Frameworks & Libraries:** next (7), [[Responsive Web Design]] (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Env Vars:** ide (2)
 > **Cross-References:** later in (1), coming up (1)
@@ -485,11 +486,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (5), [[Android]] (4), [[Java]] (4), web (3), [[Microsoft]] (3)
 > **Tools:** firefox (7), safari (6), visual studio (1)
 > **Definitions:** is called (3), is a  (3)
 > **Code Identifiers:** ios (5)
 > **Env Vars:** f12 (2), usb (1)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **URLs:** [browserstack.com](https://browserstack.com) (1)
 > **Analogies:** just like (1)
@@ -685,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), switch (2), this. (2), finally, (2)
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[Search]] (8), [[Debugging]] (4), [[HTML]] (3), css (3)
 > **Env Vars:** ide (9), html (3), css (3), http (2), https (2)
 > **Tools:** visual studio (6), sublime (3), command line (2), atom (1), github (1)
 > **CLI Commands:** make (3), find (2), php (2), grep (1), apache (1)
@@ -747,8 +748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), data (5), [[Security]] (3), [[Debugging]] (2), [[AJAX]] (2)
 > **Env Vars:** ajax (2), cors (2), html (1), url (1), http (1)
-> **Code Keywords:** let (1), super (1), this. (1), while, (1)
 > **Tools:** firefox (1), safari (1)
 > **Definitions:** means that (1), is an  (1)
 > **Prerequisites:** getting started (1), install (1)
@@ -759,7 +760,7 @@ created: 2026-04-29
 
 ### 2. Debugger Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging without a debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-without-a-debugger?u=76281980)
@@ -876,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (4), var (2), default, (2), this, (1)
+> **Frameworks & Libraries:** [[Debugging]] (4), [[JavaScript]] (3), api (2), business (2), web (1)
 > **UI Navigation:** go to (3), open the (2), switch to (2), toggle (1)
 > **Code Identifiers:** jquery (2), swipeleft (1), swiperight (1)
 > **CLI Commands:** make (2), find (1)
@@ -1044,7 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (6), let (5), pass (4), this. (3), case, (1)
+> **Frameworks & Libraries:** api (7), [[JavaScript]] (6), next (3), css (3), feature (2)
 > **Env Vars:** api (7), css (3)
 > **Tools:** safari (2), visual studio (1), firefox (1)
 > **Code Identifiers:** bigerrorstyle (2), jquery (1)
@@ -1192,7 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (5), switch (3), this. (2), this, (2)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[HTML]] (3), [[Debugging]] (3), next (2)
 > **Env Vars:** es5 (2), ide (1)
 > **Definitions:** in other words (1), is called (1), is a  (1)
 > **Warnings:** watch out (2), note that (1)
@@ -1374,7 +1375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (4), case, (2), this, (2), switch (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), dom (4), next (2), [[HTML]] (1), generic (1)
 > **Env Vars:** dom (4), xhr (1)
 > **Analogies:** just like (3), for example (1)
 > **CLI Commands:** make (1), node (1), find (1)
@@ -1454,7 +1455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), this, (1)
+> **Frameworks & Libraries:** dom (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** open the (2), scroll down (1)
 > **Definitions:** is a  (2)
@@ -1551,7 +1552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), function (4), let (3), this, (2), class, (1)
+> **Frameworks & Libraries:** dom (2), node (2)
 > **CLI Commands:** node (2)
 > **Env Vars:** dom (2)
 > **Prerequisites:** set up (1)
@@ -1683,7 +1684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (9), case, (1), this, (1), switch (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), next (4), hit (3), [[HTML]] (2), [[Debugging]] (1)
 > **Code Identifiers:** fadeto (7), jquery (6), flowerlinks (4), floweropacity (1), touchswipe (1)
 > **Tools:** firefox (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1825,7 +1826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (9), super (1), this. (1), else. (1)
+> **Frameworks & Libraries:** data (4), [[JavaScript]] (2), next (2), [[Debugging]] (1), [[AJAX]] (1)
 > **Code Identifiers:** gogetsomedata (6), getmyreturnables (3), jquery (2), myreadyfunction (2)
 > **UI Navigation:** scroll down (2)
 > **Cross-References:** go back to (1)
@@ -1955,7 +1956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), this. (2), this, (1), pass (1)
+> **Frameworks & Libraries:** data (5), [[JavaScript]] (2), hit (2), [[HTML]] (1), [[Debugging]] (1)
 > **Code Identifiers:** actiontime (5), gogetsomedata (3), getmyreturnables (3), tolocaletimestring (1)
 > **CLI Commands:** find (5)
 > **Analogies:** for example (2), just like (1)
@@ -2071,7 +2072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (2), function (1), else. (1), for. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), feature (1), [[Debugging]] (1)
 > **CLI Commands:** find (6), make (1)
 > **Code Identifiers:** jquery (7)
 > **Definitions:** is a  (2), is called (2)
@@ -2186,7 +2187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), this, (2), let (2), switch (1), else. (1)
+> **Frameworks & Libraries:** css (3), api (2), data (2), hit (2), web (1)
 > **Code Identifiers:** sessionstorage (5), modalviewed (1)
 > **Env Vars:** css (3), api (2)
 > **CLI Commands:** make (4)
@@ -2404,7 +2405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (5), this, (5), this. (5), delete (3)
+> **Frameworks & Libraries:** application (4), css (1), data (1), next (1), [[Debugging]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** scroll down (2), open the (1), toggle (1), scroll up (1)
 > **Definitions:** is a  (3), in other words (1)
@@ -2416,7 +2417,7 @@ created: 2026-04-29
 
 ### 3. Debugging in Practice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging the use of a jQuery plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980)
@@ -2535,7 +2536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), this. (3), case, (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), css (2), [[HTML]] (2), [[Troubleshooting]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** jquery (14)
 > **File Paths:** lettering.js (5), main.js (3), index.html (2)
 > **UI Navigation:** open the (2), scroll down (2), in the sidebar (1)
@@ -2735,7 +2736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (3), switch (3), this, (2), function (2)
+> **Frameworks & Libraries:** [[React.js|React]] (9), data (8), web (7), [[JavaScript]] (3), [[AJAX]] (2)
 > **Env Vars:** mamp (7), url (1), es6 (1), xml (1), http (1)
 > **Code Identifiers:** isloaded (4), macos (1), postmessage (1), visiblepeople (1), setisloaded (1)
 > **File Paths:** directory.js (3), index.html (1), directorydata.json (1)
@@ -2925,7 +2926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), switch (4), delete (1), class. (1), this. (1)
+> **Frameworks & Libraries:** web (6), [[JavaScript]] (3), dom (2), [[Debugging]] (1)
 > **Tools:** safari (12)
 > **Code Identifiers:** jquery (8), ios (3)
 > **CLI Commands:** make (4), find (3)
@@ -3059,7 +3060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Android]] (8), [[Debugging]] (4), web (3), prompt (1), [[JavaScript]] (1)
 > **Env Vars:** usb (3), url (1), ide (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** firefox (3)
@@ -3243,7 +3244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), for. (1), throw (1), case, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (13), data (3), web (2), [[Debugging]] (1), [[Vanilla]] (1)
 > **Definitions:** is a  (2), stands for (2), means that (1), is an  (1)
 > **UI Navigation:** scroll down (2), open the (1)
 > **CLI Commands:** pip (1), make (1)
@@ -3429,7 +3430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (3), return. (1), else. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), hit (1), [[Representational State Transfer (REST)|Rest]] (1), [[Debugging]] (1), web (1)
 > **UI Navigation:** go to (1), scroll down (1), scroll up (1)
 > **Tools:** visual studio (2)
 > **File Paths:** cards.js (1)
@@ -3707,7 +3708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), module (5), function (3), this, (3), interface (1)
+> **Frameworks & Libraries:** data (14), node (11), [[JSON]] (8), [[Node.js]] (3), [[Search]] (2)
 > **CLI Commands:** node (14), make (6), git (2), find (1)
 > **Env Vars:** json (7), ide (6), https (3), api (1), http (1)
 > **File Paths:** node.js (3), gitlipsum.js (2), feed.json (1)
@@ -3791,10 +3792,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (7), database (5), next (3), web (3), [[PHP]] (3)
 > **Env Vars:** mamp (7), php (2), dbgwp (1), dbgjs_wp (1)
 > **UI Navigation:** go to (5), open the (2), scroll down (1)
 > **CLI Commands:** make (4), php (3)
-> **Code Keywords:** import. (2), this, (2), require (1), let (1)
 > **Prerequisites:** setup (3)
 > **File Paths:** _database.sql (1), wpconfig.php (1)
 > **Tools:** visual studio (1), command line (1)
@@ -3853,7 +3854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** [[Debugging]] (4), web (2), hit (1)
 > **Tools:** visual studio (2)
 > **Prerequisites:** configure (2)
 > **Env Vars:** ide (1)
@@ -3966,7 +3967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (4), this, (2)
+> **Frameworks & Libraries:** [[Debugging]] (4), [[Microsoft Word|Word]] (3), [[JSON]] (1), [[Search]] (1), [[Microsoft]] (1)
 > **Tools:** visual studio (2), firefox (1)
 > **File Paths:** launch.json (1), main.js (1)
 > **Env Vars:** url (2)
@@ -4122,7 +4123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3), this, (1), for. (1)
+> **Frameworks & Libraries:** hit (6), [[Debugging]] (5), web (3), [[JavaScript]] (3), next (3)
 > **Tools:** visual studio (9)
 > **Env Vars:** url (5), ide (1)
 > **CLI Commands:** make (1), node (1)
@@ -4262,7 +4263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), function (1), this. (1), self (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), business (1), css (1), web (1)
 > **Code Identifiers:** jquery (2)
 > **Definitions:** is a  (2)
 > **File Paths:** improved.js (1)
@@ -4274,7 +4275,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980)
@@ -4337,8 +4338,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (11), web (3), node (2), [[React.js|React]] (2), [[Search]] (1)
 > **CLI Commands:** node (2), find (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** es6 (2)
 > **Documentation:** specification (1)
@@ -4433,9 +4434,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (10), [[GitHub]] (6), web (5), [[Test-Driven Development]] (5), [[JavaScript]] (4)
 > **Tools:** github (6), command line (1)
 > **CLI Commands:** git (3), node (2)
-> **Code Keywords:** pass (2), let (1), implements (1), interface (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** tdd (2)
 > **Analogies:** kind of like (1), for example (1)

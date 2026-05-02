@@ -26,7 +26,7 @@ tags:
   - topic/artificial-intelligence
   - topic/security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Your%20Top%20Ai%20Questions%20Answered%20Ai%20Literacy%20For%20Everyone.md)
@@ -45,32 +45,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Answers to your most common AI questions
+  - [Answers to your most common AI questions](#answers-to-your-most-common-ai-questions)
 - [**1. Understanding AI and GenAI's Unique Capabilities**](#1-understanding-ai-and-genais-unique-capabilities) (3 videos)
-  - A quick history of AI
-  - What's the difference between traditional AI and generative AI?
-  - Why does AI cost so much to create?
+  - [A quick history of AI](#a-quick-history-of-ai)
+  - [What's the difference between traditional AI and generative AI?](#whats-the-difference-between-traditional-ai-and-generative-ai)
+  - [Why does AI cost so much to create?](#why-does-ai-cost-so-much-to-create)
 - [**2. Generative AI Technical Concepts**](#2-generative-ai-technical-concepts) (4 videos)
-  - What's an LLM?
-  - What does it mean to train an AI model?
-  - What is a GPU?
-  - What is an AI agent and how can it help you?
+  - [What's an LLM?](#whats-an-llm)
+  - [What does it mean to train an AI model?](#what-does-it-mean-to-train-an-ai-model)
+  - [What is a GPU?](#what-is-a-gpu)
+  - [What is an AI agent and how can it help you?](#what-is-an-ai-agent-and-how-can-it-help-you)
 - [**3. Working with Generative AI Tools**](#3-working-with-generative-ai-tools) (2 videos)
-  - What makes an effective prompt?
-  - What is "Chain of Thought" prompting?
+  - [What makes an effective prompt?](#what-makes-an-effective-prompt)
+  - [What is "Chain of Thought" prompting?](#what-is-chain-of-thought-prompting)
 - [**4. Data and Quality Considerations**](#4-data-and-quality-considerations) (3 videos)
-  - Why does quality matter in AI?
-  - How can we ensure data integrity in AI?
-  - How does data quality impact AI outcomes?
+  - [Why does quality matter in AI?](#why-does-quality-matter-in-ai)
+  - [How can we ensure data integrity in AI?](#how-can-we-ensure-data-integrity-in-ai)
+  - [How does data quality impact AI outcomes?](#how-does-data-quality-impact-ai-outcomes)
 - [**5. Ethics and Compliance**](#5-ethics-and-compliance) (4 videos)
-  - What are the ethical considerations in AI?
-  - How can we practice responsible AI?
-  - What are the regulations and compliance requirements for AI?
-  - The environmental impact of AI: When shouldn't we use it?
+  - [What are the ethical considerations in AI?](#what-are-the-ethical-considerations-in-ai)
+  - [How can we practice responsible AI?](#how-can-we-practice-responsible-ai)
+  - [What are the regulations and compliance requirements for AI?](#what-are-the-regulations-and-compliance-requirements-for-ai)
+  - [The environmental impact of AI: When shouldn't we use it?](#the-environmental-impact-of-ai-when-shouldnt-we-use-it)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Answers to your most common AI questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980)
@@ -97,13 +97,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), product (1), [[Google]] (1), [[Traditional AI]] (1), [[Generative AI]] (1)
 > **Speakers:** - it (1)
 
 
 ### 1. Understanding AI and GenAI's Unique Capabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick history of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980)
@@ -186,9 +186,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), power (2), [[Generative AI]] (2), data (2)
 > **Env Vars:** eliza (1), mycin (1), ibm (1), gpu (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** abstract (1)
 > **Cross-References:** next video (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -276,8 +276,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), data (7), ai (6), [[Traditional AI]] (5), next (2)
 > **CLI Commands:** make (2), cat (2), find (1)
-> **Code Keywords:** let (3), from. (1), switch (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -342,7 +342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1)
+> **Frameworks & Libraries:** ai (9), data (6), [[Hardware]] (3), next (2), power (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
@@ -352,7 +352,7 @@ created: 2026-04-29
 
 ### 2. Generative AI Technical Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's an LLM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980)
@@ -411,9 +411,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), [[Microsoft Word|Word]] (6), next (4), ai (1), data (1)
 > **Env Vars:** llm (6)
 > **Definitions:** is a  (3), stands for (2), refers to (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What does it mean to train an AI model?
@@ -465,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** ai (5), data (3), [[Microsoft Word|Word]] (1), [[Traditional AI]] (1), [[Generative AI]] (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
 
@@ -520,9 +520,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), parallel (5), [[Hardware]] (3), next (1), data (1)
 > **Env Vars:** gpu (9), cpu (4)
 > **Definitions:** is a  (2), stands for (1), is called (1)
-> **Code Keywords:** let (1), for. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Prerequisites:** required to (1)
@@ -583,7 +583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), finally, (1), let (1), extends (1), require (1)
+> **Frameworks & Libraries:** ai (8), next (2), web (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** think of it like (1), imagine (1), for example (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -594,7 +594,7 @@ created: 2026-04-29
 
 ### 3. Working with Generative AI Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes an effective prompt?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-makes-an-effective-prompt?u=76281980)
@@ -671,7 +671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), finally, (1), let (1)
+> **Frameworks & Libraries:** prompt (7), ai (4), generic (1), next (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -726,7 +726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (8), prompt (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -734,7 +734,7 @@ created: 2026-04-29
 
 ### 4. Data and Quality Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why does quality matter in AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980)
@@ -787,7 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (9), ai (7), [[Hardware]] (1), next (1)
 > **Speakers:** - [instructor] (1)
 
 #### How can we ensure data integrity in AI?
@@ -827,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (15), ai (4), next (2), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -877,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (9), ai (9), next (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -885,7 +885,7 @@ created: 2026-04-29
 
 ### 5. Ethics and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the ethical considerations in AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980)
@@ -920,6 +920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Ethics]] (4), [[Responsible AI]] (2), data (2), [[Privacy]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### How can we practice responsible AI?
@@ -963,8 +964,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Responsible AI]] (3), [[Ethics]] (1), [[Accountability]] (1), [[Engineering]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1015,7 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), finally, (1), public (1)
+> **Frameworks & Libraries:** ai (11), [[Responsible AI]] (1), data (1), [[Privacy]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1067,6 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Ethics]] (1), cloud (1), data (1), power (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)

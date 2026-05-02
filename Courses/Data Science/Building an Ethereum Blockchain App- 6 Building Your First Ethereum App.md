@@ -34,7 +34,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%206%20Building%20Your%20First%20Ethereum%20App.md)
@@ -53,14 +53,14 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Building Your First Ethereum App**](#1-building-your-first-ethereum-app) (4 videos)
-  - Preparing your first Truffle project
-  - Writing a simple smart contract
-  - Compiling your simple smart contract
-  - Deploying code and invoking functions
+  - [Preparing your first Truffle project](#preparing-your-first-truffle-project)
+  - [Writing a simple smart contract](#writing-a-simple-smart-contract)
+  - [Compiling your simple smart contract](#compiling-your-simple-smart-contract)
+  - [Deploying code and invoking functions](#deploying-code-and-invoking-functions)
 
 ### 1. Building Your First Ethereum App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing your first Truffle project
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980)
@@ -239,7 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), for. (1), delete (1), default, (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Blockchain]] (4), [[Solidity]] (3), [[JavaScript]] (2), cd (2)
 > **Tools:** powershell (4), visual studio (4)
 > **CLI Commands:** make (4), cd (2)
 > **File Paths:** truffle-config.js (5)
@@ -489,7 +489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7), public (5), pass (3), private (2)
+> **Frameworks & Libraries:** data (12), [[Solidity]] (11), [[Blockchain]] (10), next (4), application (3)
 > **Code Identifiers:** hellomessage (7), gethellomessage (2)
 > **Versions:** 0.5.0 (2), 5.0 (2), 0.5.8 (2), 5.1 (1), 5.3 (1)
 > **Definitions:** is a  (5), means that (3), basically means (1)
@@ -737,7 +737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (1), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Solidity]] (8), [[Blockchain]] (4), [[JSON]] (4), next (3), [[GitHub]] (3)
 > **Versions:** 0.5.8 (6), 0.5.11 (4), v0.5.8 (2), version 0 (1), 5.11 (1)
 > **Tools:** visual studio (8), github (3), powershell (2), terminal (1)
 > **UI Navigation:** click on (9), go to (1), navigate to (1), scroll down (1)
@@ -939,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (7), type, (1), continue (1), this. (1)
+> **Frameworks & Libraries:** [[Blockchain]] (13), next (2), [[Metadata]] (2), data (2), prompt (1)
 > **Definitions:** is a  (2), is called (2), basically means (1), in other words (1)
 > **CLI Commands:** find (3), make (2)
 > **Code Identifiers:** hellomessage (2)

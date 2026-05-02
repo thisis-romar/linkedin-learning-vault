@@ -36,7 +36,7 @@ tags:
   - skill/apache-airflow
   - skill/it-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Apache%20Airflow.md)
@@ -55,47 +55,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - An overview of Apache Airflow
+  - [An overview of Apache Airflow](#an-overview-of-apache-airflow)
 - [**1. Introducing Apache Airflow**](#1-introducing-apache-airflow) (4 videos)
-  - Apache Airflow concepts and architecture
-  - Initial setup: macOS and Windows
-  - Understanding Airflow configuration
-  - Running Airflow
+  - [Apache Airflow concepts and architecture](#apache-airflow-concepts-and-architecture)
+  - [Initial setup: macOS and Windows](#initial-setup-macos-and-windows)
+  - [Understanding Airflow configuration](#understanding-airflow-configuration)
+  - [Running Airflow](#running-airflow)
 - [**2. Running Workflows on Airflow**](#2-running-workflows-on-airflow) (4 videos)
-  - Navigating and exploring the Airflow UI
-  - Creating your first DAG
-  - Running your first DAG
-  - Creating a DAG using the with keyword
+  - [Navigating and exploring the Airflow UI](#navigating-and-exploring-the-airflow-ui)
+  - [Creating your first DAG](#creating-your-first-dag)
+  - [Running your first DAG](#running-your-first-dag)
+  - [Creating a DAG using the with keyword](#creating-a-dag-using-the-with-keyword)
 - [**3. Defining Tasks and Dependencies**](#3-defining-tasks-and-dependencies) (3 videos)
-  - Specifying task dependencies
-  - Using the Bitshift operators for dependency specification
-  - Using bash scripts in the DAG
+  - [Specifying task dependencies](#specifying-task-dependencies)
+  - [Using the Bitshift operators for dependency specification](#using-the-bitshift-operators-for-dependency-specification)
+  - [Using bash scripts in the DAG](#using-bash-scripts-in-the-dag)
 - [**4. Using the Python Operator and XCom**](#4-using-the-python-operator-and-xcom) (7 videos)
-  - Introducing the Python operator
-  - Python operators and dependencies
-  - Passing parameters to Python callables
-  - Introducing XCom
-  - Using XCom to pass values
-  - Implementing a data transformation DAG pipeline, part 1
-  - Implementing a data transformation DAG pipeline, part 2
+  - [Introducing the Python operator](#introducing-the-python-operator)
+  - [Python operators and dependencies](#python-operators-and-dependencies)
+  - [Passing parameters to Python callables](#passing-parameters-to-python-callables)
+  - [Introducing XCom](#introducing-xcom)
+  - [Using XCom to pass values](#using-xcom-to-pass-values)
+  - [Implementing a data transformation DAG pipeline, part 1](#implementing-a-data-transformation-dag-pipeline-part-1)
+  - [Implementing a data transformation DAG pipeline, part 2](#implementing-a-data-transformation-dag-pipeline-part-2)
 - [**5. Using the SQLite Operator for SQL Operations**](#5-using-the-sqlite-operator-for-sql-operations) (4 videos)
-  - Setting up the SQLite DB and connection
-  - Introducing the SQLite operator
-  - Implementing a SQL-based DAG pipeline, part 1
-  - Implementing a SQL-based DAG pipeline, part 2
+  - [Setting up the SQLite DB and connection](#setting-up-the-sqlite-db-and-connection)
+  - [Introducing the SQLite operator](#introducing-the-sqlite-operator)
+  - [Implementing a SQL-based DAG pipeline, part 1](#implementing-a-sql-based-dag-pipeline-part-1)
+  - [Implementing a SQL-based DAG pipeline, part 2](#implementing-a-sql-based-dag-pipeline-part-2)
 - [**6. Conditional Branching and TaskGroups**](#6-conditional-branching-and-taskgroups) (3 videos)
-  - Introducing branching
-  - Conditional branching with variables
-  - Task groups and edge labels
+  - [Introducing branching](#introducing-branching)
+  - [Conditional branching with variables](#conditional-branching-with-variables)
+  - [Task groups and edge labels](#task-groups-and-edge-labels)
 - [**7. Catch Up, Backfill, and CRON Expressions**](#7-catch-up-backfill-and-cron-expressions) (2 videos)
-  - Catch up with all previously scheduled runs
-  - Backfill scheduled runs
+  - [Catch up with all previously scheduled runs](#catch-up-with-all-previously-scheduled-runs)
+  - [Backfill scheduled runs](#backfill-scheduled-runs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of Apache Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980)
@@ -198,9 +198,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Airflow]] (7), data (7), [[Python (Programming Language)|Python]] (5), [[Programming]] (2), [[Linux]] (2)
 > **CLI Commands:** apache (8), python (5), make (2), aws (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** sql (1), aws (1)
 > **Tools:** terminal (1), bash (1)
 > **Analogies:** such as (2)
@@ -209,7 +209,7 @@ created: 2026-04-29
 
 ### 1. Introducing Apache Airflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apache Airflow concepts and architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980)
@@ -342,9 +342,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Kubernetes]] (3), web (3), node (2), [[Metadata]] (2)
 > **Definitions:** is a  (5), is an  (1), stands for (1)
 > **CLI Commands:** node (2), python (2), apache (1), make (1)
-> **Code Keywords:** let (1), interface (1), finally, (1), pass (1)
 > **Env Vars:** dag (2)
 > **Analogies:** for example (1), picture (1)
 > **Tools:** bash (1)
@@ -519,12 +519,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Windows]] (12), [[Linux]] (10), [[Apache Airflow]] (7), [[Search]] (4)
 > **CLI Commands:** python (15), apache (7), docker (2), find (2), sudo (2)
 > **Prerequisites:** set up (9), install (7), setup (3), you'll need (2)
 > **Versions:** python 3 (5), 3.10 (2), 3.7 (2), 7.16 (2), 9.13 (1)
 > **Tools:** terminal (5), anaconda (4)
 > **UI Navigation:** click on (9)
-> **Code Keywords:** switch (2), let (2), require (1), continue (1)
 > **Env Vars:** wsl (3), posix (1)
 > **Code Identifiers:** macos (2)
 
@@ -623,9 +623,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[Apache Airflow]] (4), database (3), [[Windows]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** apache (4), pip (2), python (1), cd (1), ls (1)
 > **Prerequisites:** install (5), setup (1), configure (1)
-> **Code Keywords:** let (2), this. (1), default. (1), continue (1)
 > **Env Vars:** utc (2), url (1)
 > **File Paths:** airflow.cfg (1), config.py (1)
 > **Versions:** 2.5.3 (1)
@@ -719,7 +719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (2), interface (1), pass (1)
+> **Frameworks & Libraries:** database (8), web (4), cloud (3), [[PostgreSQL]] (1), [[SQL]] (1)
 > **CLI Commands:** find (2), ls (1), make (1), python (1)
 > **Versions:** 2.0 (3), python 3 (1)
 > **Prerequisites:** configure (2), you'll need (2)
@@ -731,7 +731,7 @@ created: 2026-04-29
 
 ### 2. Running Workflows on Airflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating and exploring the Airflow UI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980)
@@ -900,9 +900,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1), next (1), [[Metadata]] (1), [[Search]] (1)
 > **Env Vars:** dag (25)
 > **UI Navigation:** click on (4), go to (2), scroll down (2), select the (1)
-> **Code Keywords:** let (3), default. (1), super (1), case. (1)
 > **Code Identifiers:** example_branch_operator (2), run_this_first (1), follow_branch (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** python (1), make (1), find (1)
@@ -1036,9 +1036,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), next (2), [[Python (Programming Language)|Python]] (1), hit (1)
 > **Env Vars:** dag (23), utc (1)
 > **Code Identifiers:** start_date (3), load_examples (2), default_args (2), hello_world (2), simple_hello_world (1)
-> **Code Keywords:** let (3), switch (2), class. (2), default. (1), this, (1)
 > **Tools:** terminal (5), bash (2), vs code (1)
 > **CLI Commands:** find (2), python (1), make (1)
 > **File Paths:** airflow.cfg (1), simple_hello_world.py (1)
@@ -1196,9 +1196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **Env Vars:** dag (24)
 > **UI Navigation:** click on (7), go to (2), scroll down (1), select the (1)
-> **Code Keywords:** let (10)
 > **Tools:** bash (5), vs code (1), terminal (1)
 > **Cross-References:** go back to (2)
 > **Exercise Files:** template (2)
@@ -1264,8 +1264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), api (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dag (19), api (2)
-> **Code Keywords:** let (4), this. (1)
 > **CLI Commands:** python (1), make (1), ls (1)
 > **Tools:** bash (2)
 > **Definitions:** is a  (1), known as (1)
@@ -1276,7 +1276,7 @@ created: 2026-04-29
 
 ### 3. Defining Tasks and Dependencies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Specifying task dependencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/specifying-task-dependencies?u=76281980)
@@ -1381,7 +1381,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (2)
 > **UI Navigation:** click on (3), scroll down (1), go to (1)
 > **Ports:** :17 (2), :29 (1), :33 (1)
 > **Env Vars:** utc (2)
@@ -1389,6 +1388,7 @@ created: 2026-04-29
 > **Prerequisites:** make sure you have (1), you'll need (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - [instructor] (1)
 
 #### Using the Bitshift operators for dependency specification
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/using-the-bitshift-operators-for-dependency-specification?u=76281980)
@@ -1505,7 +1505,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), finally, (1), this, (1)
 > **Env Vars:** dag (8)
 > **Prerequisites:** set up (7)
 > **Definitions:** is a  (4), means that (2)
@@ -1625,9 +1624,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), application (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** bash (8)
 > **Env Vars:** dag (7)
-> **Code Keywords:** let (3), switch (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** python (1)
 > **UI Navigation:** click on (1)
@@ -1637,7 +1636,7 @@ created: 2026-04-29
 
 ### 4. Using the Python Operator and XCom
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the Python operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-python-operator?u=76281980)
@@ -1722,9 +1721,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14)
 > **CLI Commands:** python (14), make (1)
 > **Env Vars:** dag (12)
-> **Code Keywords:** function (6), let (4), module (1)
 > **Code Identifiers:** execute_python_operators (2), python_callable (2), python_task (2), default_args (1), start_date (1)
 > **File Paths:** execute_python_operators.py (1)
 > **Definitions:** is a  (1)
@@ -1799,8 +1798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10)
 > **CLI Commands:** python (10), make (1)
-> **Code Keywords:** let (4), function (1), finally, (1)
 > **Env Vars:** dag (6)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Prerequisites:** set up (2)
@@ -1895,9 +1894,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Grit]] (1)
 > **CLI Commands:** python (14), make (1)
 > **Code Identifiers:** greet_hello (5), greet_hello_with_city (4), hello_name_from_city (1), op_kwargs (1)
-> **Code Keywords:** function (3), pass (2)
 > **Env Vars:** dag (4)
 > **UI Navigation:** click on (1), navigate to (1)
 > **Warnings:** note that (1)
@@ -1990,8 +1989,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), data (2), feature (1), [[Metadata]] (1)
 > **CLI Commands:** python (10), find (1)
-> **Code Keywords:** let (5), function (2), switch (1)
 > **Env Vars:** dag (6)
 > **UI Navigation:** click on (2)
 > **Definitions:** stands for (1), means that (1)
@@ -2154,7 +2153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), pass (4), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), next (4)
 > **CLI Commands:** python (9), make (2)
 > **Code Identifiers:** print_value (4), xcom_pull (3)
 > **Env Vars:** dag (7)
@@ -2294,8 +2293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[JSON]] (10), [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (7), web (2)
 > **Env Vars:** csv (12), json (10), dag (6)
-> **Code Keywords:** let (13), switch (3), pass (2), function (2), module (1)
 > **CLI Commands:** python (8), make (2), pip (1), find (1)
 > **File Paths:** insurance.csv (3)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
@@ -2396,8 +2395,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[JSON]] (4), [[Python (Programming Language)|Python]] (3), [[Data Transformation]] (1)
 > **Code Identifiers:** remove_null_values (6), groupby_smoker (5), groupby_region (5), xcom_pull (2), read_json (2)
-> **Code Keywords:** let (9), function (2)
 > **Env Vars:** json (4), bmi (4), csv (3)
 > **CLI Commands:** python (3), find (2), make (1)
 > **Prerequisites:** set up (3)
@@ -2408,7 +2407,7 @@ created: 2026-04-29
 
 ### 5. Using the SQLite Operator for SQL Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the SQLite DB and connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/setting-up-the-sqlite-db-and-connection?u=76281980)
@@ -2487,7 +2486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (1), type. (1)
+> **Frameworks & Libraries:** database (12), [[Databases]] (3), [[SQL]] (2), data (2), next (2)
 > **Env Vars:** sql (2), dag (2)
 > **CLI Commands:** cd (1), find (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -2565,8 +2564,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), database (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dag (5), sql (4), create (1), table (1), exists (1)
-> **Code Keywords:** let (6), switch (2), for. (1), case. (1)
 > **Code Identifiers:** create_table (4), is_active (1), created_at (1), my_sqlite_conn (1), executing_sql_pipeline (1)
 > **SQL:** create table (1), select (1)
 > **Definitions:** defined as (1), is a  (1)
@@ -2675,8 +2674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), data (3), database (1), next (1)
 > **Env Vars:** dag (7), sql (3)
-> **Code Keywords:** let (6), switch (1), finally, (1), interface (1)
 > **Code Identifiers:** executing_sql_pipeline (1), create_table (1), my_sqlite (1), display_result (1), do_xcom_push (1)
 > **UI Navigation:** switch to (1), click on (1)
 > **File Paths:** executing_sql_pipeline.py (1)
@@ -2733,7 +2732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (5), finally, (1), switch (1)
+> **Frameworks & Libraries:** data (2), [[SQL]] (1)
 > **Code Identifiers:** delete_values (2), update_values (2), display_result (2), is_active (1), do_xcom_push (1)
 > **Env Vars:** select (2), sql (1), delete (1), where (1)
 > **SQL:** select (2), delete from (1), where (1)
@@ -2745,7 +2744,7 @@ created: 2026-04-29
 
 ### 6. Conditional Branching and TaskGroups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing branching
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-branching?u=76281980)
@@ -2856,9 +2855,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (3)
 > **Code Identifiers:** eligible_to_drive (9), not_eligible_to_drive (9), has_driving_license (8), executing_branching (2), python_callable (2)
 > **Env Vars:** dag (11)
-> **Code Keywords:** let (5), function (4), switch (1)
 > **CLI Commands:** python (4), find (1), make (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **File Paths:** executing_branching.py (1)
@@ -3043,9 +3042,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (3), [[JSON]] (2), [[Apache Airflow]] (1)
 > **Code Identifiers:** transform_action (12), filter_by_southwest (7), groupby_region_smoker (5), remove_null_values (2), determine_branch (2)
 > **Env Vars:** dag (11), csv (5), json (2), datasets_path (1), bmi (1)
-> **Code Keywords:** let (6), function (3), switch (1), class. (1), this, (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **File Paths:** executing_branching.py (1), insurance.csv (1), southwest.csv (1)
 > **CLI Commands:** find (2), apache (1)
@@ -3183,9 +3182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (2), [[JSON]] (1)
 > **Code Identifiers:** read_csv_file (4), remove_null_values (4), reading_and_preprocessing (4), xcom_push (3), my_csv (2)
 > **Env Vars:** dag (9), csv (2), json (1)
-> **Code Keywords:** let (7), function (1), pass (1), finally, (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** python (2), make (1)
 > **File Paths:** northwest.csv (1)
@@ -3195,7 +3194,7 @@ created: 2026-04-29
 
 ### 7. Catch Up, Backfill, and CRON Expressions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Catch up with all previously scheduled runs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980)
@@ -3352,8 +3351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (2), [[Apache Airflow]] (1)
 > **Env Vars:** dag (23)
-> **Code Keywords:** let (7), delete (2), function (1), default. (1), while. (1)
 > **CLI Commands:** python (6), make (2), apache (1)
 > **Definitions:** is a  (7), refers to (1), means that (1)
 > **Cross-References:** go back to (2), in the last (1), in the next (1)
@@ -3444,8 +3443,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Airflow]] (1), hit (1)
 > **Env Vars:** dag (15)
-> **Code Keywords:** let (8), switch (1)
 > **CLI Commands:** apache (1)
 > **Code Identifiers:** cron_catchup_backfill (1)
 > **Tools:** terminal (1)
@@ -3454,7 +3453,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980)
@@ -3493,8 +3492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), data (2), [[Apache Airflow]] (1), [[Workflow Management]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** apache (3), python (1)
-> **Code Keywords:** let (1), pass (1), finally, (1)
 > **Env Vars:** sql (3)
 > **Cross-References:** we covered (1)
 > **Prerequisites:** set up (1)

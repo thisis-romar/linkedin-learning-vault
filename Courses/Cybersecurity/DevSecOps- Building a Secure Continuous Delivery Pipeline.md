@@ -29,7 +29,7 @@ tags:
   - skill/devsecops
   - skill/continuous-delivery-cd
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/DevSecOps-%20Building%20a%20Secure%20Continuous%20Delivery%20Pipeline.md)
@@ -48,43 +48,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Securing your CI/CD pipeline
-  - What you should know
+  - [Securing your CI/CD pipeline](#securing-your-cicd-pipeline)
+  - [What you should know](#what-you-should-know)
 - [**1. The DevSecOps Toolchain**](#1-the-devsecops-toolchain) (4 videos)
-  - Traditional InfoSec is in crisis
-  - Introducing DevSecOps
-  - The continuous delivery pipeline
-  - Goals for a DevSecOps toolchain approach
+  - [Traditional InfoSec is in crisis](#traditional-infosec-is-in-crisis)
+  - [Introducing DevSecOps](#introducing-devsecops)
+  - [The continuous delivery pipeline](#the-continuous-delivery-pipeline)
+  - [Goals for a DevSecOps toolchain approach](#goals-for-a-devsecops-toolchain-approach)
 - [**2. Development Tools**](#2-development-tools) (4 videos)
-  - Secure development practices
-  - Static code analysis
-  - Tool: Keeping secrets with git-secrets
-  - Tool: Rapid Risk Assessment
+  - [Secure development practices](#secure-development-practices)
+  - [Static code analysis](#static-code-analysis)
+  - [Tool: Keeping secrets with git-secrets](#tool-keeping-secrets-with-git-secrets)
+  - [Tool: Rapid Risk Assessment](#tool-rapid-risk-assessment)
 - [**3. Inherit Tools**](#3-inherit-tools) (5 videos)
-  - What's in your app?
-  - OWASP Dependency Check in practice
-  - JavaScript security with Retire.js: Installation
-  - JavaScript security with Retire.js: Testing
-  - Options for software composition analysis
+  - [What's in your app?](#whats-in-your-app)
+  - [OWASP Dependency Check in practice](#owasp-dependency-check-in-practice)
+  - [JavaScript security with Retire.js: Installation](#javascript-security-with-retirejs-installation)
+  - [JavaScript security with Retire.js: Testing](#javascript-security-with-retirejs-testing)
+  - [Options for software composition analysis](#options-for-software-composition-analysis)
 - [**4. Build Tools**](#4-build-tools) (3 videos)
-  - Security testing in the build stage
-  - AppSec scanning with DAST tools
-  - Gauntlt in practice
+  - [Security testing in the build stage](#security-testing-in-the-build-stage)
+  - [AppSec scanning with DAST tools](#appsec-scanning-with-dast-tools)
+  - [Gauntlt in practice](#gauntlt-in-practice)
 - [**5. Deploy Tools**](#5-deploy-tools) (3 videos)
-  - Security in the deploy phase
-  - Rundeck for deployments
-  - Tricks for making compliance happy
+  - [Security in the deploy phase](#security-in-the-deploy-phase)
+  - [Rundeck for deployments](#rundeck-for-deployments)
+  - [Tricks for making compliance happy](#tricks-for-making-compliance-happy)
 - [**6. Operation Tools**](#6-operation-tools) (4 videos)
-  - Keeping security in operate
-  - Modern application security
-  - Signal Sciences in practice
-  - Cloud security monitoring
+  - [Keeping security in operate](#keeping-security-in-operate)
+  - [Modern application security](#modern-application-security)
+  - [Signal Sciences in practice](#signal-sciences-in-practice)
+  - [Cloud security monitoring](#cloud-security-monitoring)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your CI/CD pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (2), teams (1), web (1), [[Microservices]] (1)
 > **Speakers:** - [james] (1)
 
 #### What you should know
@@ -131,15 +131,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (1), [[DevSecOps]] (1), [[Git]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** docker (1), git (1)
-> **Code Keywords:** this, (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. The DevSecOps Toolchain
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Traditional InfoSec is in crisis
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980)
@@ -210,11 +210,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), business (2), [[DevSecOps]] (2), [[DevOps]] (2), teams (1)
 > **Env Vars:** pci (1), isc (1), cssip (1)
 > **Definitions:** is an  (1), means that (1), is called (1)
 > **CLI Commands:** find (2)
 > **Ports:** :10 (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Introducing DevSecOps
@@ -278,7 +278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (11), [[DevOps]] (11), [[DevSecOps]] (6), [[Software Development]] (1), [[Automation]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -340,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** application (4), [[Security]] (3), [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), ci (2)
 > **CLI Commands:** cd (1)
 > **Env Vars:** cicd (1)
 > **Definitions:** is an  (1)
@@ -425,8 +425,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (7), cd (7), [[Security]] (3), [[DevSecOps]] (2), [[DevOps]] (1)
 > **CLI Commands:** cd (7), find (2), apt (1)
-> **Code Keywords:** function (1), class. (1), let (1)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** note that (1), keep in mind (1), warning (1)
 > **Prerequisites:** you'll need (1)
@@ -435,7 +435,7 @@ created: 2026-04-29
 
 ### 2. Development Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure development practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980)
@@ -510,7 +510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (2), this, (1), else. (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (7), [[Git]] (3), [[Security]] (2), data (2), [[OWASP]] (2)
 > **CLI Commands:** git (3)
 > **Env Vars:** owasp (2)
 > **Definitions:** is a  (2)
@@ -578,9 +578,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), open-source (2), application (1), data (1), [[Control Flow]] (1)
 > **CLI Commands:** find (6), ruby (1), php (1), node (1)
 > **Env Vars:** sast (5), php (1), ide (1)
-> **Code Keywords:** static (4), let (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -694,8 +694,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (20), aws (4), [[Version Control]] (4), [[GitHub]] (2), application (1)
 > **CLI Commands:** git (20), aws (4)
-> **Code Keywords:** let (8), this, (2)
 > **Env Vars:** aws (4), cicd (2), cidc (1)
 > **Tools:** github (2), vim (2), terminal (1), command line (1)
 > **Prerequisites:** install (2), set up (1)
@@ -796,7 +796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (3), [[Agile Development|Agile]] (2), teams (2), [[Software Development]] (1)
 > **Exercise Files:** template (3)
 > **Env Vars:** rra (2)
 > **Definitions:** is a  (2)
@@ -808,7 +808,7 @@ created: 2026-04-29
 
 ### 3. Inherit Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's in your app?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980)
@@ -865,11 +865,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), ci (3), cd (2), [[DevSecOps]] (2), [[Jenkins]] (1)
 > **Env Vars:** bom (4), loc (2), cve (1), owasp (1)
 > **CLI Commands:** cd (2), ruby (1), find (1), make (1)
 > **Definitions:** is a  (4)
 > **File Paths:** retire.js (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Tools:** slack (1)
 > **Speakers:** - [narrator] (1)
@@ -955,8 +955,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (7), application (3), next (3), [[HTML]] (3), [[CLI]] (2)
 > **Env Vars:** owasp (7), jar (3), nvd (2), cli (1)
-> **Code Keywords:** let (7), this. (1)
 > **Tools:** command line (3)
 > **Prerequisites:** install (2), setup (1)
 > **File Paths:** dependency-check-cli/index.html (1), dep-check-out.html (1)
@@ -1007,8 +1007,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Git]] (2), [[JavaScript]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), ci (1)
 > **CLI Commands:** docker (5), git (2), cat (1), node (1)
-> **Code Keywords:** let (5), throw (1), pass (1)
 > **File Paths:** retire.js (5), github.com/wickett/docker-retire.js (1)
 > **Tools:** command line (1), github (1)
 > **Code Identifiers:** jquery (1)
@@ -1075,7 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), static (2), throw (1), this, (1)
+> **Frameworks & Libraries:** ci (3), [[JavaScript]] (2), application (2), [[Microsoft Word|Word]] (1), cloud (1)
 > **CLI Commands:** docker (1), rm (1), find (1), wget (1), cd (1)
 > **Tools:** firefox (1)
 > **Prerequisites:** set up (1)
@@ -1136,17 +1136,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[OWASP]] (1), [[PHP]] (1), data (1), [[Kubernetes]] (1)
 > **CLI Commands:** ruby (1), php (1), docker (1), find (1)
 > **Env Vars:** owasp (1), php (1)
 > **File Paths:** retire.js (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Build Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security testing in the build stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980)
@@ -1229,10 +1229,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), next (5), [[Continuous Integration (CI)|Continuous integration]] (2), application (2), [[Automation]] (2)
 > **Env Vars:** bdd (2), ssh (2), html (1), dast (1)
 > **CLI Commands:** ssh (2), make (1)
 > **Cross-References:** we talked about (1), earlier in (1), in the next (1)
-> **Code Keywords:** let (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [man] (1)
@@ -1314,8 +1314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), application (8), [[OWASP]] (7), [[Scripting]] (4), api (3)
 > **Env Vars:** owasp (6), dast (4), api (3), ssl (3), tls (2)
-> **Code Keywords:** for. (1), pass (1), throw (1)
 > **Definitions:** is a  (2), known as (1)
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Cross-References:** in the next (1)
@@ -1432,8 +1432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Scripting]] (5), next (3), [[DevSecOps]] (2), teams (1)
 > **CLI Commands:** docker (7), make (2), rm (1), find (1)
-> **Code Keywords:** let (5), pass (1), finally, (1), this. (1), for. (1)
 > **Env Vars:** dast (4), cicd (1), url (1)
 > **Tools:** vim (3), command line (1)
 > **URLs:** [example.com](https://example.com) (2), [gauntlt.org](https://gauntlt.org) (1)
@@ -1444,7 +1444,7 @@ created: 2026-04-29
 
 ### 5. Deploy Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security in the deploy phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980)
@@ -1505,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (2), application (2), [[Agile Development|Agile]] (2), [[Accountability]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1572,7 +1572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), else. (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Security]] (3), open-source (2), [[Automation]] (2), [[Jenkins]] (2)
 > **Env Vars:** dto (2), sans (1)
 > **CLI Commands:** make (2)
 > **URLs:** [rundeck.org](https://rundeck.org) (1)
@@ -1666,8 +1666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (6), ci (3), [[DevSecOps]] (2), [[Security]] (2), cd (2)
 > **CLI Commands:** cd (2), ssh (2)
-> **Code Keywords:** let (2), for. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [dearauditor.org](https://dearauditor.org) (1)
 > **Env Vars:** pci (1)
@@ -1678,7 +1678,7 @@ created: 2026-04-29
 
 ### 6. Operation Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping security in operate
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980)
@@ -1765,9 +1765,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), [[Security]] (7), api (4), [[DevSecOps]] (3), next (3)
 > **Env Vars:** api (4), ids (1), waf (1), cicd (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1850,9 +1850,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Security]] (2), next (2), [[Google]] (1), web application (1)
 > **Env Vars:** waf (2), rasp (1), owasp (1), elk (1), net (1)
 > **CLI Commands:** find (2), php (1), python (1), ruby (1)
-> **Code Keywords:** case. (1), let (1), switch (1), self (1), for. (1)
 > **Code Identifiers:** tcell (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -1943,9 +1943,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), product (3), [[OWASP]] (2), [[Security]] (2), next (1)
 > **Env Vars:** owasp (2), http (2), rasp (1), waf (1)
 > **Prerequisites:** set up (2), setup (1), configure (1)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -2001,17 +2001,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (6), cloud (4), [[Microsoft Products|Products]] (3), aws (3), application (1)
 > **CLI Commands:** aws (3), make (1)
 > **Env Vars:** aws (3)
 > **Analogies:** similar to (1), such as (1)
-> **Code Keywords:** assert (1)
 > **URLs:** [evident.io](https://evident.io) (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980)
@@ -2064,7 +2064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (9), next (2), [[DevSecOps]] (2), [[DevOps]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** owasp (1)
 > **Definitions:** means that (1)

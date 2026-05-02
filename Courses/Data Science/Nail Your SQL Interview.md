@@ -32,7 +32,7 @@ tags:
   - skill/interview-preparation
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nail%20Your%20SQL%20Interview.md)
@@ -51,30 +51,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Build confidence for your SQL interview
-  - Common SQL terminology
-  - What an SQL interview is like
+  - [Build confidence for your SQL interview](#build-confidence-for-your-sql-interview)
+  - [Common SQL terminology](#common-sql-terminology)
+  - [What an SQL interview is like](#what-an-sql-interview-is-like)
 - [**1. Data Definition Language Review**](#1-data-definition-language-review) (3 videos)
-  - Create and seed a table with data
-  - Modify existing tables with ALTER
-  - Working with the TRUNCATE and DROP command
+  - [Create and seed a table with data](#create-and-seed-a-table-with-data)
+  - [Modify existing tables with ALTER](#modify-existing-tables-with-alter)
+  - [Working with the TRUNCATE and DROP command](#working-with-the-truncate-and-drop-command)
 - [**2. Data Query Language Review and Logical Operators**](#2-data-query-language-review-and-logical-operators) (5 videos)
-  - Querying the table with logical operator LIKE
-  - Querying the table with logical operators IN and BETWEEN
-  - Working with the COALESCE command
-  - Challenge: End of year raises with COALESCE
-  - Solution: End of year raises with COALESCE
+  - [Querying the table with logical operator LIKE](#querying-the-table-with-logical-operator-like)
+  - [Querying the table with logical operators IN and BETWEEN](#querying-the-table-with-logical-operators-in-and-between)
+  - [Working with the COALESCE command](#working-with-the-coalesce-command)
+  - [Challenge: End of year raises with COALESCE](#challenge-end-of-year-raises-with-coalesce)
+  - [Solution: End of year raises with COALESCE](#solution-end-of-year-raises-with-coalesce)
 - [**3. Data Manipulation Language Review**](#3-data-manipulation-language-review) (2 videos)
-  - Update the table with UPDATE or ALTER
-  - Delete data using transactions
+  - [Update the table with UPDATE or ALTER](#update-the-table-with-update-or-alter)
+  - [Delete data using transactions](#delete-data-using-transactions)
 - [**4. Transaction Control Language**](#4-transaction-control-language) (1 videos)
-  - Creating savepoints and commits in SQL
+  - [Creating savepoints and commits in SQL](#creating-savepoints-and-commits-in-sql)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Be prepared for your interview
+  - [Be prepared for your interview](#be-prepared-for-your-interview)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build confidence for your SQL interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/build-confidence-for-your-sql-interview?u=76281980)
@@ -105,8 +105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6)
 > **Env Vars:** sql (6)
-> **Code Keywords:** let (2), this. (1), self (1)
 > **Speakers:** - whether (1)
 
 #### Common SQL terminology
@@ -308,9 +308,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[SQL]] (11), next (4), [[Data Manipulation]] (2), database (1)
 > **Env Vars:** sql (11), select (3), where (3), order (3), having (3)
 > **SQL:** select (3), where (3), order by (3), having (3), group by (3)
-> **Code Keywords:** let (4), function (3), from, (3), continue (2), from. (1)
 > **Non-Speech:** (upbeat music) (8)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (3)
@@ -420,6 +420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (1), [[MySQL]] (1), [[Microsoft SQL Server]] (1)
 > **CLI Commands:** find (2), make (2), mysql (1)
 > **Env Vars:** sql (3)
 > **Cross-References:** we covered (1)
@@ -430,7 +431,7 @@ created: 2026-04-29
 
 ### 1. Data Definition Language Review
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and seed a table with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980)
@@ -555,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), continue (2), this. (1), function (1)
+> **Frameworks & Libraries:** data (14), [[SQL]] (2), [[Microsoft SQL Server]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (3)
 > **Code Identifiers:** employee_info (1)
@@ -646,7 +647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (2), continue (2), type, (2), this, (1)
+> **Frameworks & Libraries:** data (8), next (2), [[SQL]] (1)
 > **Env Vars:** alter (7), sql (1), drop (1)
 > **Code Identifiers:** employee_info (1)
 > **Definitions:** is a  (1)
@@ -780,7 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), finally, (2)
+> **Frameworks & Libraries:** data (7), database (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
@@ -789,7 +790,7 @@ created: 2026-04-29
 
 ### 2. Data Query Language Review and Logical Operators
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying the table with logical operator LIKE
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operator-like?u=76281980)
@@ -934,7 +935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), match. (1), else. (1)
+> **Frameworks & Libraries:** data (9), next (1)
 > **Env Vars:** between (2), null (1), exists (1), ames (1)
 > **UI Navigation:** select the (3), scroll down (1)
 > **Non-Speech:** (upbeat music) (3)
@@ -1050,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), finally, (2), continue (1), else. (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), next (1)
 > **Env Vars:** between (2), xxl (2), datename (2)
 > **Non-Speech:** (upbeat music) (3)
 > **UI Navigation:** select the (2)
@@ -1139,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), default. (1), this. (1)
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** analogous to (1)
 > **Prerequisites:** set up (1)
@@ -1182,8 +1183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[SQL]] (1)
 > **Env Vars:** coalesce (3), aka (1), sql (1)
-> **Code Keywords:** function (3), raise (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
@@ -1267,7 +1268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3), function (2), raise (2)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1275,7 +1276,7 @@ created: 2026-04-29
 
 ### 3. Data Manipulation Language Review
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Update the table with UPDATE or ALTER
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/update-the-table-with-update-or-alter?u=76281980)
@@ -1382,7 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (1), this. (1), case, (1)
+> **Frameworks & Libraries:** data (4)
 > **Non-Speech:** (jazzy piano music) (2), (jazzy upbeat music) (1), (jazzy music) (1)
 > **Env Vars:** usa (3)
 > **CLI Commands:** make (1)
@@ -1495,7 +1496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (5), try. (3), from. (1), continue (1)
+> **Frameworks & Libraries:** [[SQL]] (2), database (2), next (2), [[Microsoft SQL Server]] (1), [[MySQL]] (1)
 > **CLI Commands:** make (7), find (1), mysql (1)
 > **Non-Speech:** (cheerful music) (3), (keyboard clicking) (3)
 > **Env Vars:** sql (3), select (2)
@@ -1507,7 +1508,7 @@ created: 2026-04-29
 
 ### 4. Transaction Control Language
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating savepoints and commits in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/creating-savepoints-and-commits-in-sql?u=76281980)
@@ -1588,7 +1589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (3), try. (1), module (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (upbeat music) (2)
 > **Env Vars:** sql (1)
@@ -1597,7 +1598,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be prepared for your interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980)
@@ -1650,6 +1651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), [[LinkedIn]] (1), database (1), [[Databases]] (1)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)

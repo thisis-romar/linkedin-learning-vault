@@ -32,7 +32,7 @@ tags:
   - skill/openai-api
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Function%20Calling%20(2023).md)
@@ -51,13 +51,13 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Function calling with the OpenAI API
+  - [Function calling with the OpenAI API](#function-calling-with-the-openai-api)
 - [**1. Function Calling**](#1-function-calling) (1 videos)
-  - Understanding function calling with the OpenAI API
+  - [Understanding function calling with the OpenAI API](#understanding-function-calling-with-the-openai-api)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Function calling with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-function-calling-2023/function-calling-with-the-openai-api?u=76281980)
@@ -76,7 +76,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1)
+> **Frameworks & Libraries:** ai (2), api (1), [[OpenAI API]] (1)
 > **Env Vars:** api (2)
 > **Analogies:** imagine (2)
 > **Speakers:** - imagine (1)
@@ -84,7 +84,7 @@ created: 2026-04-29
 
 ### 1. Function Calling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding function calling with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980)
@@ -469,7 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (55), let (7), pass (3), for. (2), case, (2)
+> **Frameworks & Libraries:** prompt (10), [[OpenAI API]] (7), api (7), data (6), [[Representational State Transfer (REST)|Rest]] (5)
 > **Env Vars:** api (13), gpt (11), rest (5), json (2), iso (1)
 > **UI Navigation:** go to (5), scroll down (5), open the (2), click on (1)
 > **Definitions:** is a  (9), is called (1)

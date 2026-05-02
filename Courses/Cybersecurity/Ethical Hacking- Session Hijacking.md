@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Session%20Hijacking.md)
@@ -48,40 +48,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Understanding session hijacking
-  - What you should know before watching this course
-  - Disclaimer
+  - [Understanding session hijacking](#understanding-session-hijacking)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
+  - [Disclaimer](#disclaimer)
 - [**1. Network Session Hijacking**](#1-network-session-hijacking) (3 videos)
-  - Understanding TCP sequence numbers
-  - Hijacking a Telnet session
-  - Real-world hijacks
+  - [Understanding TCP sequence numbers](#understanding-tcp-sequence-numbers)
+  - [Hijacking a Telnet session](#hijacking-a-telnet-session)
+  - [Real-world hijacks](#real-world-hijacks)
 - [**2. Web Session Hijacking**](#2-web-session-hijacking) (10 videos)
-  - Understanding web sessions
-  - Understanding WebSockets
-  - Banking on Zero
-  - Hijacking sessions using man-in-the-browser
-  - Intercepting sessions through man-in-the-middle
-  - Stripping SSL to downgrade the session
-  - Hijacking an HTTP session through cookies
-  - Using Subterfuge to hijack sessions through ARP poisoning
-  - Using Webscarab-NG as a web proxy
-  - Defeating the Hijack
+  - [Understanding web sessions](#understanding-web-sessions)
+  - [Understanding WebSockets](#understanding-websockets)
+  - [Banking on Zero](#banking-on-zero)
+  - [Hijacking sessions using man-in-the-browser](#hijacking-sessions-using-man-in-the-browser)
+  - [Intercepting sessions through man-in-the-middle](#intercepting-sessions-through-man-in-the-middle)
+  - [Stripping SSL to downgrade the session](#stripping-ssl-to-downgrade-the-session)
+  - [Hijacking an HTTP session through cookies](#hijacking-an-http-session-through-cookies)
+  - [Using Subterfuge to hijack sessions through ARP poisoning](#using-subterfuge-to-hijack-sessions-through-arp-poisoning)
+  - [Using Webscarab-NG as a web proxy](#using-webscarab-ng-as-a-web-proxy)
+  - [Defeating the Hijack](#defeating-the-hijack)
 - [**3. Additional Tools**](#3-additional-tools) (2 videos)
-  - Using Zed Attack Proxy (ZAP)
-  - Using Cain
+  - [Using Zed Attack Proxy (ZAP)](#using-zed-attack-proxy-zap)
+  - [Using Cain](#using-cain)
 - [**4. Service Hijacking**](#4-service-hijacking) (3 videos)
-  - Hijacking SSH sessions
-  - DNS hijacking
-  - Cloud hijacking
+  - [Hijacking SSH sessions](#hijacking-ssh-sessions)
+  - [DNS hijacking](#dns-hijacking)
+  - [Cloud hijacking](#cloud-hijacking)
 - [**5. Hijacking in the Physical World**](#5-hijacking-in-the-physical-world) (2 videos)
-  - Going physical: Hijacking cars and drones
-  - Getting more physical with drones
+  - [Going physical: Hijacking cars and drones](#going-physical-hijacking-cars-and-drones)
+  - [Getting more physical with drones](#getting-more-physical-with-drones)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding session hijacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980)
@@ -104,8 +104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), career (1), web (1), dns (1), [[LinkedIn]] (1)
 > **Env Vars:** tcp (1), dns (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [malcolm] (1)
@@ -131,6 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Virtualization]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Prerequisites:** install (1), required to (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
@@ -159,13 +160,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), open-source (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Network Session Hijacking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding TCP sequence numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980)
@@ -274,8 +275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (6), web (5), next (4), data (3), dns (1)
 > **Env Vars:** tcp (9), ack (6), syn (3), http (3), dns (1)
-> **Code Keywords:** let (5), function (1), this, (1)
 > **UI Navigation:** click on (3), select the (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -374,7 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1)
+> **Frameworks & Libraries:** traffic (4), [[Wireshark]] (3), web (1), [[Security]] (1), [[Windows]] (1)
 > **Env Vars:** tcp (2), arp (2), udp (1)
 > **Versions:** 10.0.2 (4)
 > **Tools:** terminal (2), command line (1)
@@ -410,6 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (3), [[Tokens]] (1), [[Security]] (1), web (1)
 > **Tools:** slack (3), gitlab (2)
 > **Env Vars:** http (2), url (1)
 > **Speakers:** - [presenter] (1)
@@ -417,7 +419,7 @@ created: 2026-04-29
 
 ### 2. Web Session Hijacking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding web sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980)
@@ -496,9 +498,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[PHP]] (5), data (3), [[HTML]] (2), management (1)
 > **Env Vars:** url (7), html (2), php (2), http (1)
 > **CLI Commands:** php (5), apache (1)
-> **Code Keywords:** let (4), private (1), this, (1)
 > **Code Identifiers:** session_hijack_course (2), private_id (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1)
@@ -538,8 +540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WebSocket]] (10), web (3), [[WebSocket|Websockets]] (3), management (1), api (1)
 > **Env Vars:** http (3), html5 (1), https (1), wss (1), api (1)
-> **Code Keywords:** let (3)
 > **Tools:** bash (2), github (1)
 > **Ports:** port 80 (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -572,6 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Banking]] (1), [[Security]] (1)
 > **Env Vars:** hp450 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -670,9 +673,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), [[Windows]] (3), api (1), [[JavaScript]] (1), web application (1)
 > **Env Vars:** html (3), url (2), mitb (1), api (1), ssl (1)
 > **UI Navigation:** click on (6), navigate to (2), go to (1)
-> **Code Keywords:** let (5), interface (1)
 > **Ports:** :3000 (2)
 > **Versions:** 127.0.0 (2)
 > **File Paths:** 3000/demosbutcherindex.html (1)
@@ -764,7 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1), this, (1), this. (1)
+> **Frameworks & Libraries:** traffic (3), [[Cryptography]] (2), web (2), business (1), [[Routing]] (1)
 > **Env Vars:** ssl (3), mitm (1), arp (1)
 > **Prerequisites:** set up (3), setup (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -819,8 +822,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Banking]] (2)
 > **Env Vars:** http (4), ssl (2), https (2), url (1)
-> **Code Keywords:** public (1), this, (1), let (1)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -899,9 +902,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Wireshark]] (3), [[Banking]] (3), traffic (1), hit (1)
 > **Env Vars:** http (4), jsession (2)
 > **UI Navigation:** select the (2), open the (1), right-click (1), go to (1), click on (1)
-> **Code Keywords:** this, (1), interface (1), this. (1), let (1), public (1)
 > **Prerequisites:** install (3)
 > **File Paths:** inject.txt (1)
 > **CLI Commands:** find (1)
@@ -1045,8 +1048,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), [[Linux]] (2), [[Security]] (2), data (2), [[GitHub]] (1)
 > **Env Vars:** arp (14), mac (8), ssl (4), mitm (2), http (1)
-> **Code Keywords:** let (7), module (4), default, (1), default. (1), finally, (1)
 > **Versions:** 192.168.1 (3), 127.0.0 (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Ports:** port 80 (1)
@@ -1119,8 +1122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[Security]] (2), [[OWASP]] (2), [[Java]] (2), [[Banking]] (2)
 > **UI Navigation:** click on (3), double-click (2), navigate to (1), right-click (1), select the (1)
-> **Code Keywords:** interface (1), let (1)
 > **Env Vars:** owasp (2)
 > **File Paths:** signin.html (1)
 > **Ports:** port 8008 (1)
@@ -1187,14 +1190,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Tokens]] (2), [[Forms]] (1), web application (1), [[Security]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Additional Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Zed Attack Proxy (ZAP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980)
@@ -1255,7 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), break, (1), continue (1), for, (1)
+> **Frameworks & Libraries:** [[Banking]] (2), web (1), web application (1), [[OWASP]] (1)
 > **Env Vars:** zap (5), post (1)
 > **Ports:** port 8080 (2)
 > **API Endpoints:** post  (1), get  (1)
@@ -1323,8 +1326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), traffic (2), web (1), [[Security]] (1)
 > **Env Vars:** apr (3), arp (3), https (1), http (1), ssl (1)
-> **Code Keywords:** let (3), self (3), while, (1), switch (1), public (1)
 > **UI Navigation:** click on (5), select the (1)
 > **Versions:** 10.0.2 (4)
 > **Definitions:** is a  (2)
@@ -1335,7 +1338,7 @@ created: 2026-04-29
 
 ### 4. Service Hijacking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hijacking SSH sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980)
@@ -1406,9 +1409,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Penetration Testing]] (1), [[Cybersecurity]] (1), next (1), [[Real-Time]] (1)
 > **Env Vars:** ssh (4), dll (2), msf (1), pid (1)
 > **CLI Commands:** ssh (4)
-> **Code Keywords:** let (3), switch (1)
 > **Tools:** terminal (2), insomnia (1)
 > **Ports:** port 8080 (1)
 > **Versions:** version 0 (1)
@@ -1466,8 +1469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[Windows]] (3), [[Linux]] (1), web (1), [[Banking]] (1)
 > **Env Vars:** dns (8), url (1)
-> **Code Keywords:** let (2), interface (1)
 > **URLs:** [cbs.gov](https://cbs.gov) (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -1511,6 +1514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), api (5), traffic (2), [[Security]] (2), business (1)
 > **Env Vars:** api (5), ec2 (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
@@ -1520,7 +1524,7 @@ created: 2026-04-29
 
 ### 5. Hijacking in the Physical World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going physical: Hijacking cars and drones
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980)
@@ -1647,8 +1651,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Real-Time]] (2), application (2), web (1), [[Security]] (1)
 > **Env Vars:** udp (3), tcp (2), ipv4 (2), bus (1), mos (1)
-> **Code Keywords:** let (5), public (1), this, (1), default, (1)
 > **UI Navigation:** go to (2), select the (2), click on (2)
 > **Ports:** port 5554 (1), port 5555 (1), port 5556 (1), port 5559 (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
@@ -1694,6 +1698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Security]] (1), application (1), [[Wireshark]] (1), [[Hardware]] (1)
 > **Env Vars:** mac (2), api (1)
 > **Versions:** 192.168.1 (1), 2.4 (1), 5.8 (1)
 > **Ports:** port 23 (1), port 5555 (1)
@@ -1702,7 +1707,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980)
@@ -1729,6 +1734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Ethical Hacking]] (2), [[Security]] (2), [[Kali Linux]] (2), cloud (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

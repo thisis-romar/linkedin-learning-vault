@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20Foundations-%20Competencies.md)
@@ -47,44 +47,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to business analysis competencies
+  - [Welcome to business analysis competencies](#welcome-to-business-analysis-competencies)
 - [**1. Relationship Building and Management Skills for Business Analysts**](#1-relationship-building-and-management-skills-for-business-analysts) (3 videos)
-  - Cocreating: Business analyst skills
-  - Establishing rapport and empathy as a business analyst
-  - Conflict management skills for business analysts
+  - [Cocreating: Business analyst skills](#cocreating-business-analyst-skills)
+  - [Establishing rapport and empathy as a business analyst](#establishing-rapport-and-empathy-as-a-business-analyst)
+  - [Conflict management skills for business analysts](#conflict-management-skills-for-business-analysts)
 - [**2. Leadership Skills for Business Analysts**](#2-leadership-skills-for-business-analysts) (3 videos)
-  - Influence without authority as a business analyst
-  - Decision-making skills for business analysts
-  - Change-management skills for business analysts
+  - [Influence without authority as a business analyst](#influence-without-authority-as-a-business-analyst)
+  - [Decision-making skills for business analysts](#decision-making-skills-for-business-analysts)
+  - [Change-management skills for business analysts](#change-management-skills-for-business-analysts)
 - [**3. Facilitation Skills for Business Analysts**](#3-facilitation-skills-for-business-analysts) (3 videos)
-  - Facilitating meetings as a business analyst
-  - Facilitating the conversation as a business analyst
-  - Facilitating the requirements process as a business analyst
+  - [Facilitating meetings as a business analyst](#facilitating-meetings-as-a-business-analyst)
+  - [Facilitating the conversation as a business analyst](#facilitating-the-conversation-as-a-business-analyst)
+  - [Facilitating the requirements process as a business analyst](#facilitating-the-requirements-process-as-a-business-analyst)
 - [**4. Communication Skills for Business Analysts**](#4-communication-skills-for-business-analysts) (4 videos)
-  - Verbal skills for business analysts
-  - Listening skills for business analysts
-  - Visual skills for business analysts
-  - Written skills for business analysts
+  - [Verbal skills for business analysts](#verbal-skills-for-business-analysts)
+  - [Listening skills for business analysts](#listening-skills-for-business-analysts)
+  - [Visual skills for business analysts](#visual-skills-for-business-analysts)
+  - [Written skills for business analysts](#written-skills-for-business-analysts)
 - [**5. Business Skills for Business Analysts**](#5-business-skills-for-business-analysts) (3 videos)
-  - Business acumen skills for business analysts
-  - Innovation skills for business analysts
-  - Architecture and process skills for business analysts
+  - [Business acumen skills for business analysts](#business-acumen-skills-for-business-analysts)
+  - [Innovation skills for business analysts](#innovation-skills-for-business-analysts)
+  - [Architecture and process skills for business analysts](#architecture-and-process-skills-for-business-analysts)
 - [**6. Analytical Skills for Business Analysts**](#6-analytical-skills-for-business-analysts) (5 videos)
-  - Systems thinking skills for business analysts
-  - Creative thinking skills for business analysts
-  - Visual modeling and diagrams skills for business analysts
-  - Data analysis skills for business analysts
-  - Curiosity for business analysts
+  - [Systems thinking skills for business analysts](#systems-thinking-skills-for-business-analysts)
+  - [Creative thinking skills for business analysts](#creative-thinking-skills-for-business-analysts)
+  - [Visual modeling and diagrams skills for business analysts](#visual-modeling-and-diagrams-skills-for-business-analysts)
+  - [Data analysis skills for business analysts](#data-analysis-skills-for-business-analysts)
+  - [Curiosity for business analysts](#curiosity-for-business-analysts)
 - [**7. Technical Skills for Business Analysts**](#7-technical-skills-for-business-analysts) (3 videos)
-  - Productivity tools for business analysts
-  - Understanding the technology landscape as a business analyst
-  - Understanding data, process, and rules as a business analyst
+  - [Productivity tools for business analysts](#productivity-tools-for-business-analysts)
+  - [Understanding the technology landscape as a business analyst](#understanding-the-technology-landscape-as-a-business-analyst)
+  - [Understanding data, process, and rules as a business analyst](#understanding-data-process-and-rules-as-a-business-analyst)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to grow your business analyst skills
+  - [Continuing to grow your business analyst skills](#continuing-to-grow-your-business-analyst-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to business analysis competencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/welcome-to-business-analysis-competencies-16436628?u=76281980)
@@ -123,13 +123,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** business (6), leadership (1), teams (1), [[Microsoft Products|Products]] (1), management (1)
 > **Speakers:** - business (1)
 
 
 ### 1. Relationship Building and Management Skills for Business Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cocreating: Business analyst skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/cocreating-business-analyst-skills?u=76281980)
@@ -190,9 +190,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), leadership (2), teams (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** picture (4)
-> **Code Keywords:** let (1), continue (1)
 > **Speakers:** - brady (1)
 
 #### Establishing rapport and empathy as a business analyst
@@ -272,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
@@ -383,8 +383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), teams (3), next (3), business (3), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** this, (2), let (2)
 > **Env Vars:** bas (1)
 > **Analogies:** for example (1)
 > **Speakers:** - conflict (1)
@@ -392,7 +392,7 @@ created: 2026-04-29
 
 ### 2. Leadership Skills for Business Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Influence without authority as a business analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/influence-without-authority-as-a-business-analyst?u=76281980)
@@ -457,9 +457,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), power (1), next (1), cloud (1), [[Building Trust]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - great (1)
 
@@ -536,8 +536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (4), teams (1), next (1), business (1)
 > **CLI Commands:** make (11)
-> **Code Keywords:** for, (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
@@ -591,6 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), teams (1), data (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -599,7 +600,7 @@ created: 2026-04-29
 
 ### 3. Facilitation Skills for Business Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Facilitating meetings as a business analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-meetings-as-a-business-analyst?u=76281980)
@@ -676,10 +677,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), product (1), next (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - bas (1)
 
@@ -742,7 +743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), this, (1)
+> **Frameworks & Libraries:** power (1), leadership (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - brady (1)
@@ -802,6 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (3), next (2), management (2), teams (1), data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -809,7 +811,7 @@ created: 2026-04-29
 
 ### 4. Communication Skills for Business Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Verbal skills for business analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/verbal-skills-for-business-analysts?u=76281980)
@@ -874,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1)
+> **Frameworks & Libraries:** business (1), next (1), express (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
@@ -934,7 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1)
+> **Frameworks & Libraries:** [[Relationship Building]] (1), next (1), business (1), data (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - listening (1)
 
@@ -991,7 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (5), business (1), next (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -1064,15 +1066,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** picture (2), for example (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - i (1)
 
 
 ### 5. Business Skills for Business Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business acumen skills for business analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980)
@@ -1139,6 +1141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12), product (2), teams (1), next (1), leadership (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1195,8 +1198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** include: (1)
 > **Speakers:** - innovation (1)
 
 #### Architecture and process skills for business analysts
@@ -1262,7 +1265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1)
+> **Frameworks & Libraries:** business (17), [[Microsoft Products|Products]] (2), data (2), [[Probability]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - wouldn (1)
@@ -1270,7 +1273,7 @@ created: 2026-04-29
 
 ### 6. Analytical Skills for Business Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Systems thinking skills for business analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/systems-thinking-skills-for-business-analysts?u=76281980)
@@ -1339,7 +1342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (3), let (1)
+> **Frameworks & Libraries:** [[Thinking Skills]] (1), next (1), product (1), data (1), functional (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
@@ -1398,9 +1401,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Creativity Skills]] (1), teams (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
@@ -1473,7 +1476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** teams (1), product (1)
 > **Speakers:** - when (1)
 
 #### Data analysis skills for business analysts
@@ -1555,6 +1558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (46), [[Data Architecture]] (3), product (2), next (2), [[Microsoft Products|Products]] (2)
 > **Analogies:** it's like (2), for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -1622,7 +1626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (2)
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (2), cat (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - i (1)
@@ -1630,7 +1634,7 @@ created: 2026-04-29
 
 ### 7. Technical Skills for Business Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Productivity tools for business analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980)
@@ -1691,8 +1695,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), next (1), [[Diagramming]] (1)
 > **Warnings:** be aware (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - work (1)
 
 #### Understanding the technology landscape as a business analyst
@@ -1760,7 +1764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (2), this, (1)
+> **Frameworks & Libraries:** business (5), [[Microsoft Products|Products]] (1), product (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1814,14 +1818,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (4), business (1), next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - over (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to grow your business analyst skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/continuing-to-grow-your-business-analyst-skills?u=76281980)
@@ -1848,7 +1852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3)
+> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - business (1)
 

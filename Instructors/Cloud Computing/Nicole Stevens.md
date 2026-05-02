@@ -9,7 +9,7 @@ linkedin_topics:
 tags:
   - instructor
   - topic/cloud-computing
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Cloud%20Computing/Nicole%20Stevens.md)

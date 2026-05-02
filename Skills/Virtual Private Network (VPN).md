@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/virtual-private-network-vpn
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Virtual%20Private%20Network%20(VPN).md)

@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/redis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Redis%20Essential%20Training.md)
@@ -48,60 +48,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Understanding Redis
-  - Installing Redis
-  - Overview of the terminal CLI
-  - Understanding Redis docs
+  - [Understanding Redis](#understanding-redis)
+  - [Installing Redis](#installing-redis)
+  - [Overview of the terminal CLI](#overview-of-the-terminal-cli)
+  - [Understanding Redis docs](#understanding-redis-docs)
 - [**1. Basics of Redis**](#1-basics-of-redis) (5 videos)
-  - What is Redis?
-  - Data types
-  - Your first command: SET
-  - Testing GET
-  - Playing around with strings
+  - [What is Redis?](#what-is-redis)
+  - [Data types](#data-types)
+  - [Your first command: SET](#your-first-command-set)
+  - [Testing GET](#testing-get)
+  - [Playing around with strings](#playing-around-with-strings)
 - [**2. Representing Complex Data Structures: Hashes**](#2-representing-complex-data-structures-hashes) (3 videos)
-  - What are hashes?
-  - Writing and reading from hashes
-  - Exploring hashes
+  - [What are hashes?](#what-are-hashes)
+  - [Writing and reading from hashes](#writing-and-reading-from-hashes)
+  - [Exploring hashes](#exploring-hashes)
 - [**3. Lists and Sets in Redis**](#3-lists-and-sets-in-redis) (11 videos)
-  - Introduction to lists
-  - Understanding the pop and push mechanics
-  - Practical example: Building a queuing system with lists
-  - Adding people to the queue
-  - Getting people out of the queue
-  - Checking who's there
-  - Putting someone in the middle
-  - Checking who's the last one in the queue
-  - Analyzing the solution: Problems with repeated members
-  - Sets compared to lists
-  - Running a queuing example using sets
+  - [Introduction to lists](#introduction-to-lists)
+  - [Understanding the pop and push mechanics](#understanding-the-pop-and-push-mechanics)
+  - [Practical example: Building a queuing system with lists](#practical-example-building-a-queuing-system-with-lists)
+  - [Adding people to the queue](#adding-people-to-the-queue)
+  - [Getting people out of the queue](#getting-people-out-of-the-queue)
+  - [Checking who's there](#checking-whos-there)
+  - [Putting someone in the middle](#putting-someone-in-the-middle)
+  - [Checking who's the last one in the queue](#checking-whos-the-last-one-in-the-queue)
+  - [Analyzing the solution: Problems with repeated members](#analyzing-the-solution-problems-with-repeated-members)
+  - [Sets compared to lists](#sets-compared-to-lists)
+  - [Running a queuing example using sets](#running-a-queuing-example-using-sets)
 - [**4. Sorted Sets**](#4-sorted-sets) (2 videos)
-  - Explaining what a sorted set is
-  - Leader board example using a sorted set
+  - [Explaining what a sorted set is](#explaining-what-a-sorted-set-is)
+  - [Leader board example using a sorted set](#leader-board-example-using-a-sorted-set)
 - [**5. Key Naming Strategies**](#5-key-naming-strategies) (3 videos)
-  - Comparing Redis to relational databases
-  - Relating keys to each other
-  - Representing multi-key models
+  - [Comparing Redis to relational databases](#comparing-redis-to-relational-databases)
+  - [Relating keys to each other](#relating-keys-to-each-other)
+  - [Representing multi-key models](#representing-multi-key-models)
 - [**6. Beyond Data Storage**](#6-beyond-data-storage) (5 videos)
-  - What else can you do with Redis?
-  - Exploring Pub/Sub
-  - Exploring streams: Adding data
-  - Exploring streams: Reading data
-  - Example: Real-time message bus using Pub/Sub
+  - [What else can you do with Redis?](#what-else-can-you-do-with-redis)
+  - [Exploring Pub/Sub](#exploring-pubsub)
+  - [Exploring streams: Adding data](#exploring-streams-adding-data)
+  - [Exploring streams: Reading data](#exploring-streams-reading-data)
+  - [Example: Real-time message bus using Pub/Sub](#example-real-time-message-bus-using-pubsub)
 - [**7. Watching Keys for Updates**](#7-watching-keys-for-updates) (4 videos)
-  - Introduction to key-space notifications
-  - Practical example: Building a session timeout feature
-  - Resolution
-  - Explanation overview
+  - [Introduction to key-space notifications](#introduction-to-key-space-notifications)
+  - [Practical example: Building a session timeout feature](#practical-example-building-a-session-timeout-feature)
+  - [Resolution](#resolution)
+  - [Explanation overview](#explanation-overview)
 - [**8. An introduction to Redis at Scale**](#8-an-introduction-to-redis-at-scale) (3 videos)
-  - What's missing for a production-ready architecture?
-  - An introduction to Redis Cluster
-  - An introduction to Redis Sentinel
+  - [What's missing for a production-ready architecture?](#whats-missing-for-a-production-ready-architecture)
+  - [An introduction to Redis Cluster](#an-introduction-to-redis-cluster)
+  - [An introduction to Redis Sentinel](#an-introduction-to-redis-sentinel)
 - [**Conclusion**](#conclusion) (1 videos)
-  - How to learn more about Redis
+  - [How to learn more about Redis](#how-to-learn-more-about-redis)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980)
@@ -134,8 +134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (6), database (4), [[NoSQL]] (2), [[SQL]] (2), data (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2)
+> **Frameworks & Libraries:** [[Redis]] (9), application (2), feature (1), [[Linux]] (1), [[Windows]] (1)
 > **Prerequisites:** install (4)
 > **CLI Commands:** find (1), redis-cli (1)
 > **Tools:** command line (1), terminal (1)
@@ -212,9 +212,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (4), [[Redis]] (3), [[Windows]] (1)
 > **Env Vars:** cli (3)
 > **Tools:** terminal (2), command line (1)
-> **Code Keywords:** let (1), interface (1)
 > **CLI Commands:** redis-cli (1)
 > **Speakers:** - [instructor] (1)
 
@@ -259,8 +259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (6), data (3), application (1), next (1), feature (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Code Identifiers:** ios (1)
 > **URLs:** [redis.io](https://redis.io) (1)
 > **Env Vars:** acl (1)
@@ -271,7 +271,7 @@ created: 2026-04-29
 
 ### 1. Basics of Redis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Redis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980)
@@ -320,10 +320,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (8), data (7), database (4), [[NoSQL]] (2), [[SQL]] (2)
 > **Definitions:** is a  (4), means that (2), known as (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** else, (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -426,7 +426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (7), database (4), [[Redis]] (3), next (1), business (1)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -495,8 +495,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Redis]] (5), next (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** set (7)
-> **Code Keywords:** let (2), case, (2)
 > **Definitions:** means that (1)
 > **Analogies:** think of it as (1)
 > **Best Practices:** the key is (1)
@@ -539,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** data (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -671,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (5), data (1), database (1), strengths (1)
 > **Env Vars:** append (6), strlen (5), incr (4), decr (3), decrby (3)
-> **Code Keywords:** let (6), else. (2), this. (2), finally, (1)
 > **Analogies:** for instance (2), such as (1), imagine (1), similar to (1)
 > **Documentation:** the documentation (2)
 > **CLI Commands:** find (1)
@@ -683,7 +683,7 @@ created: 2026-04-29
 
 ### 2. Representing Complex Data Structures: Hashes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are hashes?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-are-hashes?u=76281980)
@@ -708,6 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Redis]] (3), [[Software Development]] (1)
 > **Definitions:** is a  (2), in other words (1), known as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -785,8 +786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9)
 > **Env Vars:** url (4), hget (3), hmget (3), hset (2), set (1)
-> **Code Keywords:** case. (2), let (2), this, (1), this. (1)
 > **API Endpoints:** get  (1)
 > **SQL:** select (1)
 > **Analogies:** imagine (1)
@@ -909,7 +910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (2), case. (1), case, (1)
+> **Frameworks & Libraries:** data (6), product (6), [[Microsoft Products|Products]] (5), [[Redis]] (3), database (1)
 > **Env Vars:** hset (2), hincrby (1), hgetall (1), hlen (1), hget (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -917,7 +918,7 @@ created: 2026-04-29
 
 ### 3. Lists and Sets in Redis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-lists?u=76281980)
@@ -950,6 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), node (2), next (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** node (2)
 > **Speakers:** - [instructor] (1)
@@ -1047,8 +1049,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Redis]] (2)
 > **Env Vars:** lpop (4), rpush (2), mylist (2), lpush (1), rpop (1)
-> **Code Keywords:** let (4), case, (1), this: (1), this. (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** as you saw (1)
 > **Documentation:** the documentation (1)
@@ -1089,8 +1091,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Env Vars:** fifo (2), lifo (2), lpop (2), pop (1), push (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
@@ -1125,7 +1127,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1), continue (1)
 > **Env Vars:** rpush (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1155,7 +1156,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** lpop (2)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1200,7 +1200,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **Env Vars:** lrange (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1261,7 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (3), this. (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** linsert (4), lrange (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
@@ -1321,7 +1320,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** lrange (4), llen (1)
-> **Code Keywords:** let (2), case, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1355,8 +1353,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** lrange (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1393,7 +1391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Redis]] (1)
 > **Env Vars:** pop (2), srem (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1452,7 +1450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), yield (1), this. (1)
+> **Frameworks & Libraries:** feature (2)
 > **Env Vars:** smembers (2), sadd (1), lrange (1), fifa (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
@@ -1460,7 +1458,7 @@ created: 2026-04-29
 
 ### 4. Sorted Sets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining what a sorted set is
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/explaining-what-a-sorted-set-is?u=76281980)
@@ -1489,7 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** feature (1), next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1586,7 +1584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (4)
+> **Frameworks & Libraries:** data (1), [[Redis]] (1)
 > **Env Vars:** zrange (4), zadd (2), zrevrange (2), lrange (1), zincrby (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1595,7 +1593,7 @@ created: 2026-04-29
 
 ### 5. Key Naming Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing Redis to relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980)
@@ -1622,7 +1620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1)
+> **Frameworks & Libraries:** [[Redis]] (4), database (3), [[SQL]] (1), data (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1663,8 +1661,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[Redis]] (1), database (1), [[Databases]] (1), data (1)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (2), type, (1)
 > **API Endpoints:** get  (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - so (1)
@@ -1710,14 +1708,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (4), [[Redis]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Beyond Data Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What else can you do with Redis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980)
@@ -1750,8 +1748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Redis]] (3), database (1), feature (1), next (1)
 > **Definitions:** is a  (2), is an  (2)
-> **Code Keywords:** function (1), while, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1816,7 +1814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pub (4), let (3), super (1)
+> **Frameworks & Libraries:** data (8), feature (2), [[Redis]] (2), database (1), [[Real-Time]] (1)
 > **Env Vars:** publish (2), subscribe (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -1931,7 +1929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (1), pub (1), type, (1)
+> **Frameworks & Libraries:** data (9), [[Redis]] (4), feature (2), power (1), [[Linux]] (1)
 > **Env Vars:** xadd (3), csv (1), sql (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
@@ -2023,8 +2021,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Redis]] (1), [[Windows]] (1)
 > **Env Vars:** xrange (5), xread (2), block (2), lrange (1), crange (1)
-> **Code Keywords:** let (6), this. (1), case. (1), case, (1), pub (1)
 > **Code Identifiers:** event_type (1)
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
@@ -2057,14 +2055,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pub (2), let (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Windows]] (1), [[Redis]] (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [presenter] (1)
 
 
 ### 7. Watching Keys for Updates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to key-space notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-key-space-notifications?u=76281980)
@@ -2085,7 +2083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Redis]] (3), feature (1), data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Practical example: Building a session timeout feature
@@ -2107,7 +2105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** web application (2), [[Redis]] (2), feature (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2170,7 +2168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1), pass (1)
+> **Frameworks & Libraries:** [[Redis]] (6), [[Windows]] (1)
 > **Code Identifiers:** logged_in_users (1), logged_in_user (1)
 > **Env Vars:** set (1), csv (1)
 > **CLI Commands:** make (1)
@@ -2219,15 +2217,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Redis]] (2), database (1), [[Performance Metrics]] (1)
 > **Env Vars:** set (3), raids (1), redis (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** we covered (1), previous video (1)
 > **Speakers:** - let (1)
 
 
 ### 8. An introduction to Redis at Scale
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's missing for a production-ready architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980)
@@ -2330,8 +2328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (23), data (7), traffic (2), database (2), next (1)
 > **Definitions:** is a  (2), is an  (2), in other words (1)
-> **Code Keywords:** let (1), for, (1), case, (1), case. (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** be aware (2)
 > **Prerequisites:** install (1)
@@ -2482,9 +2480,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (12), node (10), data (6), hit (2), [[Algorithms]] (1)
 > **Prerequisites:** set up (9), setup (3)
 > **CLI Commands:** node (10), find (1)
-> **Code Keywords:** let (2), else. (2), this. (1), this, (1), if, (1)
 > **Definitions:** is a  (2), means that (1)
 > **URLs:** [redis.io](https://redis.io) (2)
 > **Documentation:** the documentation (2)
@@ -2672,10 +2670,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (19), node (11), feature (2), [[React.js|React]] (1), database (1)
 > **Prerequisites:** set up (14), setup (2)
 > **CLI Commands:** node (11), make (4)
 > **Definitions:** is a  (11), means that (1)
-> **Code Keywords:** let (2), this. (2), raise (1), this, (1), finally, (1)
 > **URLs:** [redis.io](https://redis.io) (1), [redis.com](https://redis.com) (1)
 > **Ports:** port 7011 (1), port 7010 (1)
 > **Documentation:** the documentation (1)
@@ -2684,7 +2682,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to learn more about Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980)
@@ -2735,9 +2733,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (4), [[NoSQL]] (4), [[Node.js]] (4), [[MongoDB]] (2), next (2)
 > **CLI Commands:** node (4), make (1)
 > **File Paths:** node.js (4)
-> **Code Keywords:** finally, (2)
 > **Speakers:** - [instructor] (1)
 
 

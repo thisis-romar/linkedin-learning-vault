@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/powershell-automate-it-tasks-and-mi
 course_count: 3
 linkedin_topics:
   - Network and System Administration
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/network-and-system-administration
@@ -29,7 +29,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Network%20and%20System%20Administration/Learning%20Paths/Powershell-%20Automate%20IT%20Tasks%20and%20Microsoft%20365%20Administration.md)

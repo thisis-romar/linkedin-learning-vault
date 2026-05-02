@@ -24,7 +24,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Learning%20Pc%20Maintenance%20And%20Performance.md)
@@ -43,36 +43,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Keeping your computer in tiptop shape
+  - [Keeping your computer in tiptop shape](#keeping-your-computer-in-tiptop-shape)
 - [**1. PC Security**](#1-pc-security) (7 videos)
-  - Applying account security
-  - Fighting malware
-  - Using a firewall
-  - Setting internet security
-  - Applying data encryption
-  - Challenge: Encrypting a thumb drive
-  - Solution: Encrypting a thumb drive
+  - [Applying account security](#applying-account-security)
+  - [Fighting malware](#fighting-malware)
+  - [Using a firewall](#using-a-firewall)
+  - [Setting internet security](#setting-internet-security)
+  - [Applying data encryption](#applying-data-encryption)
+  - [Challenge: Encrypting a thumb drive](#challenge-encrypting-a-thumb-drive)
+  - [Solution: Encrypting a thumb drive](#solution-encrypting-a-thumb-drive)
 - [**2. PC Backup**](#2-pc-backup) (6 videos)
-  - Configuring Windows Backup
-  - Recovering files and folders
-  - Challenge: Restoring a file
-  - Solution: Restoring a file
-  - Creating a system image
-  - Restoring the system
+  - [Configuring Windows Backup](#configuring-windows-backup)
+  - [Recovering files and folders](#recovering-files-and-folders)
+  - [Challenge: Restoring a file](#challenge-restoring-a-file)
+  - [Solution: Restoring a file](#solution-restoring-a-file)
+  - [Creating a system image](#creating-a-system-image)
+  - [Restoring the system](#restoring-the-system)
 - [**3. Windows Update**](#3-windows-update) (3 videos)
-  - Configuring Windows Update
-  - Updating Windows
-  - Rolling back a recent update
+  - [Configuring Windows Update](#configuring-windows-update)
+  - [Updating Windows](#updating-windows)
+  - [Rolling back a recent update](#rolling-back-a-recent-update)
 - [**4. Improving PC Performance**](#4-improving-pc-performance) (3 videos)
-  - Monitoring system resources
-  - Upgrading hardware
-  - Adjusting performance options
+  - [Monitoring system resources](#monitoring-system-resources)
+  - [Upgrading hardware](#upgrading-hardware)
+  - [Adjusting performance options](#adjusting-performance-options)
 - [**5. Conclusion**](#5-conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping your computer in tiptop shape
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980)
@@ -97,13 +97,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [dan] (1)
 
 
 ### 1. PC Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying account security
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-account-security?u=76281980)
@@ -201,10 +202,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Security]] (6), [[Engineering]] (2), feature (1), [[Microsoft Defender]] (1)
 > **UI Navigation:** open the (1), click on (1)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** warning (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -261,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), default. (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Windows]] (3), traffic (1), web (1), cloud (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Warnings:** warning (2)
@@ -340,9 +341,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Phishing]] (3), web (3), [[Security]] (3), [[Search]] (2)
 > **Env Vars:** https (2), url (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** type. (1), finally, (1)
 > **UI Navigation:** open the (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** install (1)
@@ -449,8 +450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Windows]] (3), next (2), [[Windows 10]] (1), [[Microsoft]] (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
-> **Code Keywords:** protected (1), let (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
@@ -489,6 +490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Windows]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -550,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** next (3), [[Windows]] (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -559,7 +561,7 @@ created: 2026-04-29
 
 ### 2. PC Backup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring Windows Backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980)
@@ -656,9 +658,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[Windows]] (3), [[Security]] (2), [[Windows 10]] (2), feature (2)
 > **Env Vars:** ssd (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 > **Warnings:** be aware (1)
@@ -744,8 +746,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), [[Windows]] (2), [[Windows 10]] (1)
 > **UI Navigation:** right-click (1), go to (1), click on (1)
-> **Code Keywords:** continue (1), this, (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -801,7 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), let (1)
+> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -874,8 +876,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), feature (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** continue (1), let (1)
 > **UI Navigation:** click on (1), open the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -961,7 +963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), type, (1)
+> **Frameworks & Libraries:** [[Windows]] (7), management (5), next (2), [[Windows 10]] (1)
 > **Env Vars:** efi (1), recovery (1)
 > **Warnings:** troubleshoot (1), be aware (1)
 > **UI Navigation:** open the (1)
@@ -1024,7 +1026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), finally, (1)
+> **Frameworks & Libraries:** [[Windows]] (4)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** configure (2)
 > **Env Vars:** f12 (1)
@@ -1035,7 +1037,7 @@ created: 2026-04-29
 
 ### 3. Windows Update
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring Windows Update
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980)
@@ -1124,10 +1126,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (10), [[Security]] (3), [[Microsoft]] (1), next (1), [[Adobe Creative Cloud]] (1)
 > **Ports:** :00 (5), :19 (1)
 > **Analogies:** for example (3), kind of like (1)
 > **UI Navigation:** open the (1), toggle (1)
-> **Code Keywords:** this, (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1227,7 +1229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), require (1), continue (1)
+> **Frameworks & Libraries:** [[Windows]] (13), [[Security]] (3), [[Windows 10]] (3), [[Microsoft]] (1), prompt (1)
 > **Prerequisites:** install (4)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
@@ -1309,8 +1311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (3), [[Security]] (1), feature (1), database (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** type, (1)
 > **Env Vars:** kb5037768 (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** stands for (1)
@@ -1319,7 +1321,7 @@ created: 2026-04-29
 
 ### 4. Improving PC Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring system resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980)
@@ -1412,8 +1414,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** cpu (4), gpu (1)
-> **Code Keywords:** this, (1), else, (1), delete (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** kind of like (1), for example (1), such as (1)
 > **CLI Commands:** find (1)
@@ -1491,8 +1493,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Windows]] (1)
 > **Env Vars:** gpu (2), vram (2), ram (1), usb (1), cpu (1)
-> **Code Keywords:** case. (1), default. (1), finally, (1), require (1)
 > **Definitions:** is an  (1), is a  (1), known as (1)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** remember to (1), it's best to (1)
@@ -1563,7 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default. (1), from. (1), protected (1)
+> **Frameworks & Libraries:** [[Windows]] (7), power (2), data (1), [[Security]] (1), feature (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dep (1)
 > **Analogies:** for example (1)
@@ -1572,7 +1574,7 @@ created: 2026-04-29
 
 ### 5. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/next-steps?u=76281980)
@@ -1605,8 +1607,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (3), [[Search]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - i (1)
 
 

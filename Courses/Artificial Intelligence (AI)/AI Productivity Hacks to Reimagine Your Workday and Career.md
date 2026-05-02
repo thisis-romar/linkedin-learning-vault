@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Productivity%20Hacks%20to%20Reimagine%20Your%20Workday%20and%20Career.md)
@@ -40,21 +40,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Improve productivity with AI
+  - [Improve productivity with AI](#improve-productivity-with-ai)
 - [**1. AI Productivity Hacks**](#1-ai-productivity-hacks) (9 videos)
-  - Adopt an AI-augmented mindset
-  - The seven work tasks where AI can help you do more
-  - AI can help you advance in your career
-  - Think smarter and focus better with AI
-  - Communicate and influence better with AI
-  - Collaborate better with AI
-  - Generate content with AI
-  - Make decisions with AI
-  - Futureproof your work with AI
+  - [Adopt an AI-augmented mindset](#adopt-an-ai-augmented-mindset)
+  - [The seven work tasks where AI can help you do more](#the-seven-work-tasks-where-ai-can-help-you-do-more)
+  - [AI can help you advance in your career](#ai-can-help-you-advance-in-your-career)
+  - [Think smarter and focus better with AI](#think-smarter-and-focus-better-with-ai)
+  - [Communicate and influence better with AI](#communicate-and-influence-better-with-ai)
+  - [Collaborate better with AI](#collaborate-better-with-ai)
+  - [Generate content with AI](#generate-content-with-ai)
+  - [Make decisions with AI](#make-decisions-with-ai)
+  - [Futureproof your work with AI](#futureproof-your-work-with-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve productivity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980)
@@ -87,13 +87,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), career (4), next (1), product (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - ever (1)
 
 
 ### 1. AI Productivity Hacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adopt an AI-augmented mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980)
@@ -186,8 +187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), career (1), [[Lifelong Learning]] (1), [[Newsletters]] (1)
 > **Analogies:** just like (1), picture (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - in (1)
 
 #### The seven work tasks where AI can help you do more
@@ -261,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** ai (23), game (1), career (1), power (1), teams (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - interested (1)
@@ -357,9 +358,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (8), career (7), ai (7), prompt (3), product (3)
 > **Analogies:** for example (2), for instance (1), it's like (1)
 > **CLI Commands:** mysql (1), python (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - in (1)
 
 #### Think smarter and focus better with AI
@@ -413,8 +414,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), career (2), [[Generative AI]] (2), next (2), management (1)
 > **Analogies:** imagine (1), it's like (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - ever (1)
 
 #### Communicate and influence better with AI
@@ -490,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), prompt (6), [[LinkedIn]] (2), power (1), strengths (1)
 > **Analogies:** imagine (1), picture (1), it's like (1), such as (1)
-> **Code Keywords:** this: (1), let (1), extends (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Speakers:** - the (1)
@@ -565,7 +566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), break, (1)
+> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (2), prompt (2), power (1), management (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
@@ -651,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (7), [[Content Creation]] (2), prompt (2), next (2)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), such as (1), just like (1)
 > **Code Identifiers:** iphone (2)
@@ -728,7 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (5), data (3), product (2), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpo (1)
 > **Definitions:** is a  (1)
@@ -783,7 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** ai (11), next (3), career (3), [[ChatGPT]] (2), data (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)

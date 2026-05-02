@@ -37,7 +37,7 @@ tags:
   - skill/data-driven-decision-making
   - skill/decision-making
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Decision%20Intelligence.md)
@@ -56,35 +56,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The steering wheel for your life
-  - A map of decision-making
+  - [The steering wheel for your life](#the-steering-wheel-for-your-life)
+  - [A map of decision-making](#a-map-of-decision-making)
 - [**1. The Decision-Maker in Isolation**](#1-the-decision-maker-in-isolation) (8 videos)
-  - The most important lesson in decision-making
-  - The dangers of outcome bias
-  - Why are some decisions so difficult?
-  - How to set goals
-  - Intuition and the value of clairvoyance
-  - The hackable human
-  - Decisiveness
-  - Objective decision-making
+  - [The most important lesson in decision-making](#the-most-important-lesson-in-decision-making)
+  - [The dangers of outcome bias](#the-dangers-of-outcome-bias)
+  - [Why are some decisions so difficult?](#why-are-some-decisions-so-difficult)
+  - [How to set goals](#how-to-set-goals)
+  - [Intuition and the value of clairvoyance](#intuition-and-the-value-of-clairvoyance)
+  - [The hackable human](#the-hackable-human)
+  - [Decisiveness](#decisiveness)
+  - [Objective decision-making](#objective-decision-making)
 - [**2. Decision Intelligence**](#2-decision-intelligence) (5 videos)
-  - Upgrade 1: Using data and technology
-  - Upgrade 2: Better questions
-  - Upgrade 3: Data-driven decisions
-  - Upgrade 4: Better answers
-  - Upgrade 5: Decision automation
+  - [Upgrade 1: Using data and technology](#upgrade-1-using-data-and-technology)
+  - [Upgrade 2: Better questions](#upgrade-2-better-questions)
+  - [Upgrade 3: Data-driven decisions](#upgrade-3-data-driven-decisions)
+  - [Upgrade 4: Better answers](#upgrade-4-better-answers)
+  - [Upgrade 5: Decision automation](#upgrade-5-decision-automation)
 - [**3. Data-Driven Leadership**](#3-data-driven-leadership) (5 videos)
-  - Group decisions
-  - The career-making question
-  - Building a data-driven culture
-  - Barriers to organizational decision-making
-  - Delivering value in a large organization
+  - [Group decisions](#group-decisions)
+  - [The career-making question](#the-career-making-question)
+  - [Building a data-driven culture](#building-a-data-driven-culture)
+  - [Barriers to organizational decision-making](#barriers-to-organizational-decision-making)
+  - [Delivering value in a large organization](#delivering-value-in-a-large-organization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Are you a good decision-maker?
+  - [Are you a good decision-maker?](#are-you-a-good-decision-maker)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The steering wheel for your life
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-steering-wheel-for-your-life?u=76281980)
@@ -157,13 +157,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** in other words (1)
 > **Speakers:** - what (1)
 
 
 ### 1. The Decision-Maker in Isolation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The most important lesson in decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-most-important-lesson-in-decision-making?u=76281980)
@@ -276,9 +277,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (11), next (2), [[Forms]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for, (1), let (1)
 > **Analogies:** imagine (2)
 > **Warnings:** watch out (1)
 > **Speakers:** - i (1)
@@ -350,7 +351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** game (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -489,8 +490,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (9), find (1)
-> **Code Keywords:** else, (2), let (1), super (1), require (1), finally, (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
@@ -628,7 +629,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), else. (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -760,10 +760,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Decision-Making]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** imagine (2), kind of like (1), for example (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Speakers:** - let (1)
 
 #### The hackable human
@@ -865,8 +865,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (7), business (4)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** try. (1), this, (1), break. (1), let (1), while, (1)
 > **Definitions:** is a  (1), is called (1), in other words (1)
 > **Analogies:** for example (3)
 > **Speakers:** - this (1)
@@ -954,6 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1016,14 +1017,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), in other words (1), means that (1)
-> **Code Keywords:** new. (1)
 > **Speakers:** - we (1)
 
 
 ### 2. Decision Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Upgrade 1: Using data and technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/upgrade-1-using-data-and-technology?u=76281980)
@@ -1126,7 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (1)
+> **Frameworks & Libraries:** data (19), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - making (1)
@@ -1242,9 +1243,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Analytics]] (6), next (1)
 > **Analogies:** imagine (2), just like (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is called (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - where (1)
@@ -1388,11 +1389,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Data-driven Decision Making]] (2), [[Search]] (1), game (1), next (1)
 > **Versions:** 4.2 (7), 4.0 (2), 4.5 (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Warnings:** gotcha (1), warning (1)
-> **Code Keywords:** yield (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - businesses (1)
@@ -1524,8 +1525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Statistics]] (4), next (3), [[Analytics]] (1), career (1)
 > **Analogies:** imagine (3)
-> **Code Keywords:** let (1), else, (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1641,8 +1642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), ai (7), [[Statistics]] (3), [[Automation]] (2), [[Analytics]] (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2), this. (1), this, (1), from. (1)
 > **Cross-References:** as we saw (1), previous video (1), go back to (1)
 > **Definitions:** is called (1), in other words (1)
 > **Speakers:** - as (1)
@@ -1650,7 +1651,7 @@ created: 2026-04-29
 
 ### 3. Data-Driven Leadership
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Group decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/group-decisions?u=76281980)
@@ -1767,7 +1768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), private (1)
+> **Frameworks & Libraries:** power (2), business (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** note that (1), watch out (1), keep in mind (1)
 > **Analogies:** such as (1)
@@ -1863,9 +1864,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (6), data (4), [[Decision-Making]] (3), business (1)
 > **Cross-References:** previous video (2), as we saw (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), pass (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1968,9 +1969,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (34), [[Data-driven Decision Making]] (2), power (1)
 > **CLI Commands:** make (8)
 > **Definitions:** means that (2), is an  (2)
-> **Code Keywords:** let (2), for, (1)
 > **Cross-References:** we talked about (1), as we saw (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - how (1)
@@ -2042,7 +2043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2), power (2), [[Data-driven Decision Making]] (1)
 > **Prerequisites:** prerequisite (1), you'll need (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2119,14 +2120,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Automation]] (2), [[Decision-Making]] (2), ai (1), [[Data Engineering]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - now (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Are you a good decision-maker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/are-you-a-good-decision-maker?u=76281980)
@@ -2177,8 +2178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), career (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
 

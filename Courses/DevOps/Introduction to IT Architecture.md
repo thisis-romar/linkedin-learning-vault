@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-architectures
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Introduction%20to%20IT%20Architecture.md)
@@ -48,50 +48,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Stand apart with IT architecture know-how
+  - [Stand apart with IT architecture know-how](#stand-apart-with-it-architecture-know-how)
 - [**1. Overview of IT Architecture**](#1-overview-of-it-architecture) (6 videos)
-  - IT infrastructure: The product of IT architecture
-  - Configuration, functionality, and qualities
-  - What is IT architecture?
-  - Why IT architecture?
-  - Traditional vs. modern IT architecture
-  - IT architecture vs. enterprise IT architecture
+  - [IT infrastructure: The product of IT architecture](#it-infrastructure-the-product-of-it-architecture)
+  - [Configuration, functionality, and qualities](#configuration-functionality-and-qualities)
+  - [What is IT architecture?](#what-is-it-architecture)
+  - [Why IT architecture?](#why-it-architecture)
+  - [Traditional vs. modern IT architecture](#traditional-vs-modern-it-architecture)
+  - [IT architecture vs. enterprise IT architecture](#it-architecture-vs-enterprise-it-architecture)
 - [**2. Context, Roles, Activities, and Frameworks**](#2-context-roles-activities-and-frameworks) (5 videos)
-  - IT architecture in context
-  - The role of the IT architect
-  - Characteristics of successful IT architects
-  - The activities of the IT architecture practice
-  - IT architecture frameworks and methodologies
+  - [IT architecture in context](#it-architecture-in-context)
+  - [The role of the IT architect](#the-role-of-the-it-architect)
+  - [Characteristics of successful IT architects](#characteristics-of-successful-it-architects)
+  - [The activities of the IT architecture practice](#the-activities-of-the-it-architecture-practice)
+  - [IT architecture frameworks and methodologies](#it-architecture-frameworks-and-methodologies)
 - [**3. Achieving the Goals of IT Architecture**](#3-achieving-the-goals-of-it-architecture) (4 videos)
-  - Reducing unnecessary complexity
-  - Standardization
-  - Consolidation
-  - Invest in existing IT infrastructure or start fresh?
+  - [Reducing unnecessary complexity](#reducing-unnecessary-complexity)
+  - [Standardization](#standardization)
+  - [Consolidation](#consolidation)
+  - [Invest in existing IT infrastructure or start fresh?](#invest-in-existing-it-infrastructure-or-start-fresh)
 - [**4. Contribution to IT Practices**](#4-contribution-to-it-practices) (7 videos)
-  - IT risk management
-  - IT security management
-  - IT compliance management
-  - IT identity and access management
-  - IT storage management
-  - IT update management
-  - IT disaster recovery management
+  - [IT risk management](#it-risk-management)
+  - [IT security management](#it-security-management)
+  - [IT compliance management](#it-compliance-management)
+  - [IT identity and access management](#it-identity-and-access-management)
+  - [IT storage management](#it-storage-management)
+  - [IT update management](#it-update-management)
+  - [IT disaster recovery management](#it-disaster-recovery-management)
 - [**5. Advances in IT Architecture**](#5-advances-in-it-architecture) (10 videos)
-  - Hybrid and multicloud IT architectures
-  - Edge computing
-  - Microservices and containerization
-  - Serverless computing
-  - Zero trust security
-  - Artificial intelligence and machine learning
-  - Data mesh
-  - Observability and monitoring
-  - Quantum computing
-  - Sustainability and green IT
+  - [Hybrid and multicloud IT architectures](#hybrid-and-multicloud-it-architectures)
+  - [Edge computing](#edge-computing)
+  - [Microservices and containerization](#microservices-and-containerization)
+  - [Serverless computing](#serverless-computing)
+  - [Zero trust security](#zero-trust-security)
+  - [Artificial intelligence and machine learning](#artificial-intelligence-and-machine-learning)
+  - [Data mesh](#data-mesh)
+  - [Observability and monitoring](#observability-and-monitoring)
+  - [Quantum computing](#quantum-computing)
+  - [Sustainability and green IT](#sustainability-and-green-it)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further your journey into IT architecture
+  - [Further your journey into IT architecture](#further-your-journey-into-it-architecture)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stand apart with IT architecture know-how
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/stand-apart-with-it-architecture-know-how?u=76281980)
@@ -116,15 +116,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), [[Security]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (2)
 > **Analogies:** picture (1)
 > **Speakers:** - picture (1)
 
 
 ### 1. Overview of IT Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IT infrastructure: The product of IT architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980)
@@ -211,7 +211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (9), cloud (4), [[Hardware]] (3), management (2), [[Security]] (2)
 > **Analogies:** imagine (2), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -279,7 +279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (1), functional (1), [[Security]] (1), [[Internationalization]] (1), [[Scalability]] (1)
 > **Definitions:** refers to (2)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
@@ -353,6 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (4), [[Data Architecture]] (2), [[Hardware]] (1), [[Databases]] (1)
 > **Env Vars:** gdpr (1), hipaa (1)
 > **Analogies:** imagine (1), think of it as (1)
 > **Definitions:** is an  (1)
@@ -451,8 +452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Scalability]] (2), [[Security]] (1), web (1), data (1)
 > **Analogies:** imagine (1), picture (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cio (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - why (1)
@@ -538,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** management (7), data (4), [[Hardware]] (3), cloud (3), [[Security]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - traditional (1)
 
@@ -619,7 +620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), catch. (1), require (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), business (2), application (2), [[Enterprise Architecture]] (2), [[Scalability]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** togaf (1)
 > **Analogies:** such as (1)
@@ -628,7 +629,7 @@ created: 2026-04-29
 
 ### 2. Context, Roles, Activities, and Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IT architecture in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980)
@@ -707,7 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), this. (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), data (2), power (1), [[Software Development]] (1), management (1)
 > **Speakers:** - have (1)
 
 #### The role of the IT architect
@@ -783,7 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1), finally, (1)
+> **Frameworks & Libraries:** data (5), cloud (5), [[Security]] (2), [[Enterprise Architecture]] (2), management (1)
 > **Analogies:** such as (1)
 > **Speakers:** - have (1)
 
@@ -854,7 +855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), leadership (1), [[Flux]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
@@ -930,7 +931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), implements (1)
+> **Frameworks & Libraries:** [[Security]] (2), business (2), data (2), [[Microsoft Excel|Excel]] (2), management (2)
 > **Definitions:** means that (1), is a  (1)
 > **Documentation:** specification (1)
 > **Analogies:** imagine (1)
@@ -997,9 +998,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Enterprise Architecture]] (3), [[Agile Development|Agile]] (3), power (1), [[IT Governance]] (1)
 > **Env Vars:** iso (2), iec (2), cobit (1), itil (1), togaf (1)
 > **Analogies:** such as (2), imagine (1), for instance (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - imagine (1)
@@ -1007,7 +1008,7 @@ created: 2026-04-29
 
 ### 3. Achieving the Goals of IT Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reducing unnecessary complexity
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980)
@@ -1084,7 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), require (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[Scalability]] (3), web (1), data (1), [[Automation]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), picture (1), for example (1)
 > **Definitions:** is a  (1)
@@ -1153,7 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (5), management (4), [[Agile Development|Agile]] (2), [[Scalability]] (2), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - we (1)
 
@@ -1230,7 +1231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (9), [[Security]] (5), management (4), business (1), [[Troubleshooting]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1311,7 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** management (1), [[Regulatory Compliance]] (1), [[Performance Metrics]] (1), [[Scalability]] (1), business (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** setup (2)
@@ -1320,7 +1321,7 @@ created: 2026-04-29
 
 ### 4. Contribution to IT Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IT risk management
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980)
@@ -1377,8 +1378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), data (5), [[IT Risk Management]] (3), [[Security]] (3), [[React.js|React]] (1)
 > **Analogies:** picture (1), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - picture (1)
 
 #### IT security management
@@ -1438,7 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (24), management (7), data (3), [[IT Risk Management]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -1492,7 +1493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1)
+> **Frameworks & Libraries:** management (4), [[IT Compliance]] (3), [[Design Systems]] (2), data (2), [[Compliance Management]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
@@ -1545,6 +1546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), [[Security]] (2), [[Scalability]] (2), [[Multi-factor Authentication]] (1), [[Real-Time]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1599,7 +1601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), self (1)
+> **Frameworks & Libraries:** data (12), [[Storage Management]] (5), [[Security]] (4), [[Capacity Planning]] (2), [[Data Classification]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
 
@@ -1660,7 +1662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), require (1)
+> **Frameworks & Libraries:** management (7), data (2), cloud (2), [[Security]] (2), [[Hardware]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
@@ -1721,14 +1723,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (6), management (4), business (1), [[Automation]] (1), [[Real-Time]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
 
 ### 5. Advances in IT Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid and multicloud IT architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980)
@@ -1777,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (1), let (1)
+> **Frameworks & Libraries:** cloud (17), data (5), strengths (2), [[Scalability]] (2), [[Security]] (2)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -1851,7 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), require (1), continue (1)
+> **Frameworks & Libraries:** data (19), [[Analytics]] (3), cloud (3), [[Automation]] (3), traffic (2)
 > **Analogies:** for example (2), picture (1), for instance (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1912,7 +1914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** [[Containerization]] (12), [[Microservices]] (11), application (6), [[Agile Development|Agile]] (2), [[Orchestration]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** docker (1)
@@ -1969,7 +1971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** [[Serverless Computing]] (8), management (3), cloud (3), teams (2), game (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
 
@@ -2014,8 +2016,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), data (2), [[Regulatory Compliance]] (1), [[IT architectures]] (1)
 > **Analogies:** imagine (1), picture (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
@@ -2068,9 +2070,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Security]] (2), [[IT architectures]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** imagine (1), picture (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - imagine (1)
 
 #### Data mesh
@@ -2122,7 +2124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1)
+> **Frameworks & Libraries:** data (38), [[Mesh]] (9), teams (7), management (4), product (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
@@ -2179,6 +2181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), data (2), power (1), [[Troubleshooting]] (1), [[Debugging]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** is a  (1)
@@ -2236,9 +2239,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (12), data (2), [[Cryptography]] (2), [[Security]] (2), [[Algorithms]] (2)
 > **Analogies:** such as (3), imagine (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
@@ -2291,6 +2294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Hardware]] (3), data (3), cloud (2), [[Climate Change]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -2298,7 +2302,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further your journey into IT architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980)
@@ -2345,6 +2349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), strengths (1), [[Scalability]] (1), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)

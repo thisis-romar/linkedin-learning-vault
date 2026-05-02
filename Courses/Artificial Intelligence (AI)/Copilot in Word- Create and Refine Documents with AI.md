@@ -35,7 +35,7 @@ tags:
   - skill/microsoft-word
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20Word-%20Create%20and%20Refine%20Documents%20with%20AI.md)
@@ -54,23 +54,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Use Copilot in Word
-  - Understand the Copilot subscriptions
+  - [Use Copilot in Word](#use-copilot-in-word)
+  - [Understand the Copilot subscriptions](#understand-the-copilot-subscriptions)
 - [**1. Creating with Copilot**](#1-creating-with-copilot) (4 videos)
-  - Draft a new document from scratch
-  - Create a new document using files as references
-  - Produce additional content in a document
-  - Generate images for your document
+  - [Draft a new document from scratch](#draft-a-new-document-from-scratch)
+  - [Create a new document using files as references](#create-a-new-document-using-files-as-references)
+  - [Produce additional content in a document](#produce-additional-content-in-a-document)
+  - [Generate images for your document](#generate-images-for-your-document)
 - [**2. Editing and Revising with Copilot**](#2-editing-and-revising-with-copilot) (2 videos)
-  - Adjust the tone in existing content
-  - Convert text to tables
+  - [Adjust the tone in existing content](#adjust-the-tone-in-existing-content)
+  - [Convert text to tables](#convert-text-to-tables)
 - [**3. Summarizing and Understanding with Copilot**](#3-summarizing-and-understanding-with-copilot) (2 videos)
-  - Summarize and understand documents
-  - Research details to support your document
+  - [Summarize and understand documents](#summarize-and-understand-documents)
+  - [Research details to support your document](#research-details-to-support-your-document)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Copilot in Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980)
@@ -89,6 +89,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), ai (1), [[Microsoft Word]] (1), business (1), [[LinkedIn]] (1)
 > **Speakers:** - copilot (1)
 
 #### Understand the Copilot subscriptions
@@ -130,6 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (26), [[Microsoft]] (5), [[Microsoft 365]] (5), web (4), business (3)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** m365 (1)
 > **Definitions:** is called (1)
@@ -140,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Creating with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Draft a new document from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980)
@@ -243,7 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), let (3), this, (1), continue (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), prompt (18), next (3), [[Microsoft Word|Word]] (2), ai (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), just like (1)
 > **Env Vars:** faq (2)
@@ -311,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft OneDrive|Onedrive]] (4), prompt (4), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -365,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), prompt (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -409,6 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (2), [[Microsoft Office|Office]] (1), web (1), [[Microsoft 365]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -416,7 +419,7 @@ created: 2026-04-29
 
 ### 2. Editing and Revising with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adjust the tone in existing content
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/adjust-the-tone-in-existing-content?u=76281980)
@@ -481,7 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (2), [[Microsoft Word|Word]] (1)
 > **Non-Speech:** (mouse button clicking) (2)
 > **Cross-References:** previous chapter (1)
 > **Analogies:** for example (1)
@@ -524,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1), try. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), prompt (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** toggle (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -532,7 +535,7 @@ created: 2026-04-29
 
 ### 3. Summarizing and Understanding with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize and understand documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980)
@@ -617,7 +620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), prompt (2), [[Jetpack Compose|Compose]] (1), [[Diversity and Inclusion]] (1), [[Sustainability]] (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** select the (1), click on (1)
 > **Definitions:** is a  (2)
@@ -668,6 +671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), web (3), [[LinkedIn]] (2), [[Microsoft Word|Word]] (1), [[Search]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

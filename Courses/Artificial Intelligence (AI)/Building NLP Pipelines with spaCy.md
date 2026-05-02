@@ -34,7 +34,7 @@ tags:
   - skill/natural-language-processing-nlp
   - skill/spacy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20NLP%20Pipelines%20with%20spaCy.md)
@@ -53,44 +53,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Why use spaCy?
-  - Prerequisites of the course
-  - How to install spaCy
+  - [Why use spaCy?](#why-use-spacy)
+  - [Prerequisites of the course](#prerequisites-of-the-course)
+  - [How to install spaCy](#how-to-install-spacy)
 - [**1. Text Processing with spaCy**](#1-text-processing-with-spacy) (6 videos)
-  - Introduction to spaCy
-  - spaCy's statistical models
-  - spaCy's containers
-  - Introduction to matching based on rules
-  - Challenge: Predicting linguistic annotations
-  - Solution: Predicting linguistic annotations
+  - [Introduction to spaCy](#introduction-to-spacy)
+  - [spaCy's statistical models](#spacys-statistical-models)
+  - [spaCy's containers](#spacys-containers)
+  - [Introduction to matching based on rules](#introduction-to-matching-based-on-rules)
+  - [Challenge: Predicting linguistic annotations](#challenge-predicting-linguistic-annotations)
+  - [Solution: Predicting linguistic annotations](#solution-predicting-linguistic-annotations)
 - [**2. Data Analysis Using spaCy**](#2-data-analysis-using-spacy) (5 videos)
-  - spaCy's data structures
-  - Similarity and word vectors
-  - Integrating spaCy's models and rules
-  - Challenge: Phrase matching
-  - Solution: Phrase matching
+  - [spaCy's data structures](#spacys-data-structures)
+  - [Similarity and word vectors](#similarity-and-word-vectors)
+  - [Integrating spaCy's models and rules](#integrating-spacys-models-and-rules)
+  - [Challenge: Phrase matching](#challenge-phrase-matching)
+  - [Solution: Phrase matching](#solution-phrase-matching)
 - [**3. Processing Pipelines with spaCy**](#3-processing-pipelines-with-spacy) (7 videos)
-  - Processing pipelines
-  - Pipeline's custom components
-  - Extension attributes: Part 1
-  - Extension attributes: Part 2
-  - Performance and scaling
-  - Challenge: Processing streams and selective processing
-  - Solution: Processing streams and selective processing
+  - [Processing pipelines](#processing-pipelines)
+  - [Pipeline's custom components](#pipelines-custom-components)
+  - [Extension attributes: Part 1](#extension-attributes-part-1)
+  - [Extension attributes: Part 2](#extension-attributes-part-2)
+  - [Performance and scaling](#performance-and-scaling)
+  - [Challenge: Processing streams and selective processing](#challenge-processing-streams-and-selective-processing)
+  - [Solution: Processing streams and selective processing](#solution-processing-streams-and-selective-processing)
 - [**4. Training an Artificial Neural Network**](#4-training-an-artificial-neural-network) (7 videos)
-  - Training and updating models
-  - Training loop
-  - Challenge: Building a training loop
-  - Solution: Building a training loop
-  - Training loop best practices
-  - Challenge: Training multiple labels
-  - Solution: Training multiple labels
+  - [Training and updating models](#training-and-updating-models)
+  - [Training loop](#training-loop)
+  - [Challenge: Building a training loop](#challenge-building-a-training-loop)
+  - [Solution: Building a training loop](#solution-building-a-training-loop)
+  - [Training loop best practices](#training-loop-best-practices)
+  - [Challenge: Training multiple labels](#challenge-training-multiple-labels)
+  - [Solution: Training multiple labels](#solution-training-multiple-labels)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Wrap-up
+  - [Wrap-up](#wrap-up)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use spaCy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[spaCy]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1), nlp (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [prateek (1)
 
 #### Prerequisites of the course
@@ -140,8 +140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** this, (1)
 > **Code Identifiers:** spacy (1)
 > **Env Vars:** nlp (1)
 > **Tools:** anaconda (1)
@@ -198,9 +198,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[spaCy]] (3), [[System Architecture]] (1), [[Hardware]] (1)
 > **Tools:** anaconda (7), terminal (1)
 > **Prerequisites:** install (5), setup (3)
-> **Code Keywords:** continue (1), default. (1), this, (1), let (1)
 > **Code Identifiers:** spacy (3), macos (1)
 > **UI Navigation:** open the (1), click on (1), select the (1)
 > **Env Vars:** readme (1), cpu (1)
@@ -210,7 +210,7 @@ created: 2026-04-29
 
 ### 1. Text Processing with spaCy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980)
@@ -281,7 +281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), yield (1)
+> **Frameworks & Libraries:** [[spaCy]] (8), [[Tokens]] (5), nlp (4), [[Python (Programming Language)|Python]] (3), data (3)
 > **Code Identifiers:** spacy (7)
 > **Definitions:** known as (2), is called (2), is a  (2), is an  (1)
 > **CLI Commands:** python (3)
@@ -360,7 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1)
+> **Frameworks & Libraries:** data (8), [[spaCy]] (5), [[Tokens]] (3), [[Microsoft Word|Word]] (2), web (2)
 > **Code Identifiers:** spacy (4)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **Analogies:** for example (2), such as (1)
@@ -420,8 +420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[spaCy]] (7), [[Tokens]] (6), [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** spacy (7)
-> **Code Keywords:** let (3)
 > **Cross-References:** later in (1), next video (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -505,7 +505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), match, (1), this. (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[spaCy]] (2), [[Microsoft Word|Word]] (1), data (1)
 > **Code Identifiers:** match_id (2), spacy (1), en_core_web_sm (1), matched_span (1)
 > **Definitions:** is a  (2), known as (1), is called (1)
 > **Cross-References:** as we saw (1), as you saw (1)
@@ -542,7 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), web (1)
 > **Exercise Files:** exercise files (1), sample code (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright electronic music) (1)
@@ -578,7 +578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** nlp (2), [[spaCy]] (1), [[Tokens]] (1), [[Fetch]] (1)
 > **Code Identifiers:** en_core_web_sm (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -586,7 +586,7 @@ created: 2026-04-29
 
 ### 2. Data Analysis Using spaCy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### spaCy's data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980)
@@ -697,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), class, (2), class. (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[spaCy]] (8), data (6), nlp (6), [[Tokens]] (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** for example (2), just like (1)
@@ -777,7 +777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), class. (1), this, (1), default, (1)
+> **Frameworks & Libraries:** [[spaCy]] (9), [[Microsoft Word|Word]] (7), [[Tokens]] (5), application (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** similar to (3), such as (1), for example (1)
 > **Code Identifiers:** en_core_web_md (2), en_core_web_large (1)
 > **Definitions:** is a  (2)
@@ -826,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), this. (1), function (1)
+> **Frameworks & Libraries:** [[spaCy]] (3), nlp (2), data (2), [[Tokens]] (2), [[Search]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** spacy (1)
@@ -864,8 +864,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Env Vars:** nlp (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -902,14 +902,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1)
+> **Frameworks & Libraries:** nlp (2), [[spaCy]] (1), [[Fetch]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
 ### 3. Processing Pipelines with spaCy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Processing pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/processing-pipelines?u=76281980)
@@ -968,8 +968,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (8), data (2)
 > **Env Vars:** nlp (6)
-> **Code Keywords:** let (2), for, (1), function (1)
 > **Code Identifiers:** pipe_names (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1031,8 +1031,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (7), [[spaCy]] (5), data (3), [[Metadata]] (1), [[Tokens]] (1)
 > **Code Identifiers:** spacy (5), add_pipe (2), custom_component (2)
-> **Code Keywords:** function (3), self (2), let (1), pass (1), raise (1)
 > **Env Vars:** nlp (5)
 > **Cross-References:** we talked about (2), in the last (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
@@ -1102,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), case, (1), override (1)
+> **Frameworks & Libraries:** [[spaCy]] (3), [[Tokens]] (3), data (1), [[Metadata]] (1), nlp (1)
 > **Code Identifiers:** set_extension (3), is_color (2), spacy (1)
 > **Analogies:** for example (2), such as (1), picture (1)
 > **Definitions:** is a  (1), refers to (1)
@@ -1176,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (6), pass (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[spaCy]] (2), [[Tokens]] (2), nlp (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **Code Identifiers:** spacy (2)
 > **Analogies:** for example (1), such as (1)
@@ -1236,8 +1236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (12), data (7), [[Batch Processing]] (2), power (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** nlp (9), lmp (1)
-> **Code Keywords:** this. (2), let (1), function (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** disable_pipes (1)
 > **Definitions:** is a  (1)
@@ -1269,8 +1269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (4), [[spaCy]] (1), [[Tokens]] (1)
 > **Env Vars:** nlp (4)
-> **Code Keywords:** require (1)
 > **Code Identifiers:** spacy (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - in (1)
@@ -1307,8 +1307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (8), [[Tokens]] (2)
 > **Env Vars:** nlp (5)
-> **Code Keywords:** let (2), this, (1), finally, (1)
 > **Code Identifiers:** make_doc (2), en_core_web_sm (1), disable_pipes (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1317,7 +1317,7 @@ created: 2026-04-29
 
 ### 4. Training an Artificial Neural Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Training and updating models
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980)
@@ -1412,7 +1412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), this, (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** data (9), [[spaCy]] (6), next (4), nlp (2), power (1)
 > **Code Identifiers:** spacy (6), begin_training (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
@@ -1484,7 +1484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), function (3), this. (2), let (1), case, (1)
+> **Frameworks & Libraries:** data (7), nlp (5), [[spaCy]] (3), [[Batch Processing]] (2), application (1)
 > **Code Identifiers:** to_disk (1), add_pipe (1)
 > **Env Vars:** nlp (2)
 > **Definitions:** is called (1), means that (1)
@@ -1521,6 +1521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), nlp (2), [[Batch Processing]] (2), [[spaCy]] (1)
 > **Env Vars:** nlp (2)
 > **Code Identifiers:** spacy (1)
 > **Speakers:** - [instructor] (1)
@@ -1559,7 +1560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this. (1), this, (1), case. (1), finally, (1)
+> **Frameworks & Libraries:** [[spaCy]] (2), nlp (2), data (2), [[Batch Processing]] (1), [[Fetch]] (1)
 > **Code Identifiers:** begin_training (1)
 > **Env Vars:** gadget (1)
 > **Best Practices:** remember to (1)
@@ -1599,10 +1600,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[spaCy]] (2), generic (1)
 > **Definitions:** is a  (1), means that (1), known as (1)
 > **Code Identifiers:** spacy (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1649,14 +1650,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980)
@@ -1687,6 +1688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[spaCy]] (2), ai (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Google]] (1), [[Search]] (1)
 > **Code Identifiers:** spacy (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)

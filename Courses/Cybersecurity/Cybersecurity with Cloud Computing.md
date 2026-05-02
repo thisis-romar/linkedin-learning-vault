@@ -25,7 +25,7 @@ tags:
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20with%20Cloud%20Computing.md)
@@ -44,59 +44,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Making your cloud deployments secure
-  - What you should know
+  - [Making your cloud deployments secure](#making-your-cloud-deployments-secure)
+  - [What you should know](#what-you-should-know)
 - [**1. Cloud Foundations**](#1-cloud-foundations) (9 videos)
-  - Cloud security guidance
-  - Essential characteristics
-  - Cloud services
-  - Infrastructure as a service
-  - Platform as a service
-  - Software as a service
-  - Deployment models
-  - Hypervisors and visualization
-  - Cloud security certification
+  - [Cloud security guidance](#cloud-security-guidance)
+  - [Essential characteristics](#essential-characteristics)
+  - [Cloud services](#cloud-services)
+  - [Infrastructure as a service](#infrastructure-as-a-service)
+  - [Platform as a service](#platform-as-a-service)
+  - [Software as a service](#software-as-a-service)
+  - [Deployment models](#deployment-models)
+  - [Hypervisors and visualization](#hypervisors-and-visualization)
+  - [Cloud security certification](#cloud-security-certification)
 - [**2. Looking at the Clouds**](#2-looking-at-the-clouds) (8 videos)
-  - Microsoft Azure cloud
-  - Amazon Web Services
-  - Amazon Web Services
-  - Command-line access to Amazon
-  - Google Apps
-  - Security as a service
-  - Cloud provider SECaaS
-  - An insight into Rapid7's SECaaS
+  - [Microsoft Azure cloud](#microsoft-azure-cloud)
+  - [Amazon Web Services](#amazon-web-services)
+  - [Amazon Web Services](#amazon-web-services)
+  - [Command-line access to Amazon](#command-line-access-to-amazon)
+  - [Google Apps](#google-apps)
+  - [Security as a service](#security-as-a-service)
+  - [Cloud provider SECaaS](#cloud-provider-secaas)
+  - [An insight into Rapid7's SECaaS](#an-insight-into-rapid7s-secaas)
 - [**3. Cloud Flaws, Incidents. and Failures**](#3-cloud-flaws-incidents-and-failures) (6 videos)
-  - Incidents in the cloud
-  - Anatomy of a service failure
-  - Anatomy of a business failure
-  - Incident response
-  - Azure recommendations on incident management
-  - Cloud resilience
+  - [Incidents in the cloud](#incidents-in-the-cloud)
+  - [Anatomy of a service failure](#anatomy-of-a-service-failure)
+  - [Anatomy of a business failure](#anatomy-of-a-business-failure)
+  - [Incident response](#incident-response)
+  - [Azure recommendations on incident management](#azure-recommendations-on-incident-management)
+  - [Cloud resilience](#cloud-resilience)
 - [**4. Hands-On with Cloud Flaws**](#4-hands-on-with-cloud-flaws) (4 videos)
-  - Threats to cloud deployments
-  - Unauthorised access to buckets by anyone
-  - Unauthorized account access to buckets
-  - Searching for account keys
+  - [Threats to cloud deployments](#threats-to-cloud-deployments)
+  - [Unauthorised access to buckets by anyone](#unauthorised-access-to-buckets-by-anyone)
+  - [Unauthorized account access to buckets](#unauthorized-account-access-to-buckets)
+  - [Searching for account keys](#searching-for-account-keys)
 - [**5. Cloud Security Management**](#5-cloud-security-management) (5 videos)
-  - Architecting governance and risk
-  - Legal, compliance, and audit
-  - Information governance
-  - Application security
-  - Deploying and operating applications
+  - [Architecting governance and risk](#architecting-governance-and-risk)
+  - [Legal, compliance, and audit](#legal-compliance-and-audit)
+  - [Information governance](#information-governance)
+  - [Application security](#application-security)
+  - [Deploying and operating applications](#deploying-and-operating-applications)
 - [**6. Cloud Security Capabilities**](#6-cloud-security-capabilities) (7 videos)
-  - Cryptography foundations
-  - Data security and encryption
-  - Identity in the cloud
-  - Controlling access to cloud objects
-  - Setting up access control in AWS
-  - Logging and monitoring in the cloud
-  - VM monitoring with Azure
+  - [Cryptography foundations](#cryptography-foundations)
+  - [Data security and encryption](#data-security-and-encryption)
+  - [Identity in the cloud](#identity-in-the-cloud)
+  - [Controlling access to cloud objects](#controlling-access-to-cloud-objects)
+  - [Setting up access control in AWS](#setting-up-access-control-in-aws)
+  - [Logging and monitoring in the cloud](#logging-and-monitoring-in-the-cloud)
+  - [VM monitoring with Azure](#vm-monitoring-with-azure)
 - [**What's Next**](#whats-next) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making your cloud deployments secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/making-your-cloud-deployments-secure?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (8), [[Cybersecurity]] (6), [[Forms]] (2), career (1)
 > **Speakers:** - [malcolm] (1)
 
 #### What you should know
@@ -133,13 +133,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Security]] (3), [[Forms]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Cloud Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud security guidance
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/cloud-security-guidance-23670522?u=76281980)
@@ -176,8 +177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (18), [[Security]] (10), management (5), [[NIST]] (3), data (2)
 > **Env Vars:** ccsk (3), nist (3), csa (1)
-> **Code Keywords:** let (1), private (1), public (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -295,7 +296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), private (2), require (1), self (1), raise (1)
+> **Frameworks & Libraries:** cloud (37), [[Security]] (6), traffic (3), [[Google]] (2), [[Microsoft]] (2)
 > **Env Vars:** ec2 (1), nasa (1), ibm (1), csa (1), nist (1)
 > **Definitions:** is a  (2), is an  (1), known as (1), means that (1)
 > **Analogies:** such as (1), picture (1)
@@ -382,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), continue (1), require (1), this, (1)
+> **Frameworks & Libraries:** cloud (25), [[Hardware]] (6), data (4), [[Security]] (4), application (4)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (2)
@@ -436,8 +437,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IaaS]] (8), [[Hardware]] (4), cloud (3), data (3), web (3)
 > **Prerequisites:** set up (1), required to (1), install (1)
-> **Code Keywords:** interface (1), super (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -485,9 +486,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (6), cloud (3), application (3), aws (2), [[PaaS]] (1)
 > **Env Vars:** aws (2), nist (1), php (1), ide (1)
 > **CLI Commands:** aws (2), php (1), python (1)
-> **Code Keywords:** let (1), lambda (1), function (1)
 > **Definitions:** is a  (2), known as (1)
 > **Tools:** terminal (1)
 > **Analogies:** such as (1)
@@ -540,8 +541,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), cloud (4), [[SaaS|Software as a service]] (4), [[SaaS]] (4), business (2)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** ebay (1)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Tools:** confluence (1)
@@ -626,7 +627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (12), private (12)
+> **Frameworks & Libraries:** cloud (30), data (14), business (8), [[Security]] (5), [[Hybrid Cloud]] (4)
 > **Env Vars:** pci (1), dss (1), hipaa (1), ssae (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Tools:** notion (1)
@@ -715,8 +716,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtualization]] (8), [[Security]] (8), cloud (5), [[Virtual Machines]] (4), business (4)
 > **Definitions:** is a  (5), known as (2)
-> **Code Keywords:** function (3), this, (1), finally, (1), let (1)
 > **Env Vars:** nist (2), cve (2), kvm (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -727,7 +728,7 @@ created: 2026-04-29
 
 ### 2. Looking at the Clouds
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Azure cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/microsoft-azure-cloud?u=76281980)
@@ -854,7 +855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), public (2), this, (1), function (1), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Ubuntu]] (6), cloud (3), management (3), web (3)
 > **CLI Commands:** find (3), ssh (3)
 > **Env Vars:** ssh (2), api (1), sql (1)
 > **UI Navigation:** go to (2), select the (1), click on (1)
@@ -932,8 +933,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), database (4), aws (3), application (2), [[Linux]] (2)
 > **Env Vars:** aws (3), sql (2), rdp (2), efs (1), rds (1)
-> **Code Keywords:** let (6), this, (1), from. (1)
 > **UI Navigation:** go to (3), scroll down (2), select the (2), click on (1)
 > **CLI Commands:** aws (3)
 > **Prerequisites:** set up (2)
@@ -1018,8 +1019,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), database (4), [[SQL]] (2), application (2), [[Linux]] (2)
 > **UI Navigation:** select the (4), scroll down (2), go to (1), click on (1)
-> **Code Keywords:** let (4), from. (2), this, (1)
 > **Env Vars:** sql (3), efs (1), rds (1)
 > **Prerequisites:** set up (2)
 > **Versions:** 52.64.233 (1)
@@ -1091,9 +1092,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[CLI]] (4), [[Windows]] (2), [[Amazon EC2|Ec2]] (2), [[Linux]] (1)
 > **Env Vars:** aws (5), cli (4), ec2 (2), iam (1)
 > **CLI Commands:** aws (5), curl (1), unzip (1)
-> **Code Keywords:** let (2), interface (1), this, (1)
 > **Tools:** command line (2)
 > **Prerequisites:** install (1), set up (1)
 > **Exercise Files:** download the (1)
@@ -1212,10 +1213,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), [[Google]] (13), cloud (7), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** sql (4), ssh (2), sdk (2), iam (1), url (1)
 > **CLI Commands:** python (4), mysql (3), ssh (2), gcloud (1)
 > **UI Navigation:** click on (3), scroll down (2), select the (2), go to (1)
-> **Code Keywords:** let (6), case, (1)
 > **Prerequisites:** set up (2), configure (2), setup (1)
 > **Tools:** command line (2)
 > **Cross-References:** as we saw (1)
@@ -1260,6 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), [[Security]] (11), management (1), web (1), [[Intrusion Detection]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Cloud provider SECaaS
@@ -1323,10 +1325,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (20), aws (10), management (9), [[Microsoft Azure|Azure]] (6), data (3)
 > **Env Vars:** aws (10), iam (3), pci (1), iso (1), api (1)
 > **CLI Commands:** aws (10)
 > **Analogies:** such as (6)
-> **Code Keywords:** let (1), module (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1366,6 +1368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), [[Security]] (6), management (3), [[Automation]] (2), web (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** sql (1)
 > **Analogies:** such as (1)
@@ -1374,7 +1377,7 @@ created: 2026-04-29
 
 ### 3. Cloud Flaws, Incidents. and Failures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Incidents in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/incidents-in-the-cloud?u=76281980)
@@ -1441,8 +1444,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), data (8), business (4), [[Security]] (2), database (2)
 > **Env Vars:** fbi (3), isc (1), aws (1)
-> **Code Keywords:** case, (1), protected (1)
 > **CLI Commands:** aws (1)
 > **Versions:** 7.5 (1)
 > **Speakers:** - [instructor] (1)
@@ -1500,8 +1503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Automation]] (3), [[Google]] (2), traffic (2), [[Engineering]] (1)
 > **Ports:** :00 (2), :45 (1), :10 (1)
-> **Code Keywords:** type. (1), case, (1), continue (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1560,7 +1563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), delete (1)
+> **Frameworks & Libraries:** management (7), cloud (6), [[Security]] (5), data (3), business (1)
 > **URLs:** [codespaces.com](https://codespaces.com) (1)
 > **Env Vars:** ec2 (1)
 > **Analogies:** such as (1)
@@ -1679,9 +1682,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (23), data (10), [[Incident Response]] (8), [[Security]] (4), [[NIST]] (4)
 > **Env Vars:** nist (4), nistir (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
-> **Code Keywords:** this. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - incident (1)
 
@@ -1716,6 +1719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Incident Response]] (6), [[Security]] (5), cloud (2), [[Microsoft]] (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1764,13 +1768,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (5), application (2), [[Resiliency]] (2), [[Automation]] (2)
 > **Env Vars:** vmdc (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Hands-On with Cloud Flaws
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Threats to cloud deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/threats-to-cloud-deployments?u=76281980)
@@ -1837,8 +1842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (19), application (5), [[OWASP]] (4), management (4), [[Security]] (3)
 > **Env Vars:** cnas (13), owasp (4), api (2), sql (1)
-> **Code Keywords:** let (2), public (1), finally, (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1889,7 +1894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), interface (1)
+> **Frameworks & Libraries:** cloud (3), aws (1), [[HTML]] (1), web (1)
 > **Env Vars:** aws (1), html (1)
 > **CLI Commands:** aws (1)
 > **URLs:** [flaws.cloud](https://flaws.cloud) (1)
@@ -1925,10 +1930,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[HTML]] (2), next (1)
 > **Env Vars:** aws (2), html (2), url (1)
 > **CLI Commands:** aws (2)
 > **Prerequisites:** you'll need (1), setup (1)
-> **Code Keywords:** let (1)
 > **Tools:** command line (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [malcolm] (1)
@@ -1968,8 +1973,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), data (2), aws (1), next (1)
 > **CLI Commands:** git (4), aws (1), find (1)
-> **Code Keywords:** let (3), this. (1)
 > **Env Vars:** aws (1), url (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** source code (1), download the (1)
@@ -1980,7 +1985,7 @@ created: 2026-04-29
 
 ### 5. Cloud Security Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecting governance and risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/architecting-governance-and-risk?u=76281980)
@@ -2013,6 +2018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), management (7), [[Security]] (3), business (2)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2100,8 +2106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), data (9), [[Security]] (6), [[Legal Compliance]] (1), [[Accountability]] (1)
 > **Env Vars:** soc (2), pci (1), dss (1), hipaa (1), ccm (1)
-> **Code Keywords:** require (3), public (1), private (1), case. (1)
 > **Analogies:** such as (5)
 > **Code Identifiers:** ediscovery (2)
 > **Definitions:** is a  (2)
@@ -2229,10 +2235,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (34), cloud (21), [[Security]] (10), database (5), [[Privacy]] (3)
 > **Env Vars:** dlp (3), drm (2), csa (1), ida (1), url (1)
 > **Analogies:** such as (6), for instance (1)
 > **Definitions:** is a  (2), defined as (1), known as (1)
-> **Code Keywords:** require (1), this. (1), protected (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2365,8 +2371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (38), [[Security]] (22), application (13), data (5), management (3)
 > **Definitions:** means that (4), is a  (4), in other words (1)
-> **Code Keywords:** interface (1), public (1), continue (1)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sdlc (1)
@@ -2411,15 +2417,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Security]] (8), application (4), management (2), [[Incident Response]] (2)
 > **Analogies:** such as (4), for example (2)
-> **Code Keywords:** require (3), protected (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Cloud Security Capabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptography foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/cryptography-foundations?u=76281980)
@@ -2522,7 +2528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (3), protected (1), require (1), case, (1)
+> **Frameworks & Libraries:** data (14), [[Algorithms]] (9), cloud (7), management (2), feature (1)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -2615,10 +2621,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (23), data (22), application (6), [[Security]] (5), management (5)
 > **Env Vars:** ftp (1), api (1), sdk (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** protected (1), case, (1)
 > **Definitions:** known as (1), is a  (1)
 > **URLs:** [hopzero.com](https://hopzero.com) (1)
 > **Speakers:** - [instructor] (1)
@@ -2780,11 +2786,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (14), management (6), application (3), [[Security]] (3), [[Active Directory]] (2)
 > **Env Vars:** xml (4), saml (4), spml (3), scim (1), rest (1)
 > **Analogies:** such as (6), for example (1)
 > **Definitions:** known as (2), is an  (2), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** delete (1)
 > **Best Practices:** best practice (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2828,7 +2834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), module (2)
+> **Frameworks & Libraries:** cloud (3), [[Security]] (1), application (1)
 > **Env Vars:** saml (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2901,7 +2907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (2), public (2), private (2), function (1)
+> **Frameworks & Libraries:** aws (4), cloud (2), management (1), [[JSON]] (1), data (1)
 > **Env Vars:** aws (4), xml (1), acl (1), json (1)
 > **CLI Commands:** aws (4), make (1)
 > **Analogies:** such as (2)
@@ -2977,8 +2983,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (26), [[Security]] (15), management (2), data (2), business (2)
 > **Env Vars:** siem (3), soc (3)
-> **Code Keywords:** this, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3030,7 +3036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), cloud (3), [[Security]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft Defender|Defender]] (2)
 > **UI Navigation:** click on (4), select the (1), scroll down (1)
 > **CLI Commands:** ssh (3), find (2)
 > **Env Vars:** ssh (3), cpu (1)
@@ -3039,7 +3045,7 @@ created: 2026-04-29
 
 ### What's Next
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/next-steps?u=76281980)
@@ -3068,6 +3074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), cloud (4), [[Security]] (4), [[LinkedIn]] (1), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

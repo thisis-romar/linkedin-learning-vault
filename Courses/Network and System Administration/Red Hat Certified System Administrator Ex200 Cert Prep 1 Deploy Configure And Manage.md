@@ -26,7 +26,7 @@ tags:
   - skill/system-administration
   - skill/red-hat-enterprise-linux-rhel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20Ex200%20Cert%20Prep%201%20Deploy%20Configure%20And%20Manage.md)
@@ -45,85 +45,85 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Break into system administration with the Red Hat EX200 certification
-  - What you should know
-  - About Red Hat certifications
-  - The State of Enterprise Linux
+  - [Break into system administration with the Red Hat EX200 certification](#break-into-system-administration-with-the-red-hat-ex200-certification)
+  - [What you should know](#what-you-should-know)
+  - [About Red Hat certifications](#about-red-hat-certifications)
+  - [The State of Enterprise Linux](#the-state-of-enterprise-linux)
 - [**1. Deploy Systems**](#1-deploy-systems) (8 videos)
-  - Create a bootable Enterprise Linux 9 live USB drive on Windows
-  - Install Enterprise Linux on a physical machine
-  - Virtualization on Enterprise Linux
-  - Prepare the host for virtualization
-  - Install Linux interactively in a guest VM
-  - Use Kickstart files to automate installs
-  - Install Linux unattended in a guest VM
-  - Manage virtual machines
+  - [Create a bootable Enterprise Linux 9 live USB drive on Windows](#create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows)
+  - [Install Enterprise Linux on a physical machine](#install-enterprise-linux-on-a-physical-machine)
+  - [Virtualization on Enterprise Linux](#virtualization-on-enterprise-linux)
+  - [Prepare the host for virtualization](#prepare-the-host-for-virtualization)
+  - [Install Linux interactively in a guest VM](#install-linux-interactively-in-a-guest-vm)
+  - [Use Kickstart files to automate installs](#use-kickstart-files-to-automate-installs)
+  - [Install Linux unattended in a guest VM](#install-linux-unattended-in-a-guest-vm)
+  - [Manage virtual machines](#manage-virtual-machines)
 - [**2. System Config and Services**](#2-system-config-and-services) (12 videos)
-  - Understand the Linux Boot Process
-  - Rescue a system
-  - Introduction to systemd services
-  - Get systemd service status
-  - Manage systemd services
-  - Make systemd services persistent
-  - Configure networking
-  - Configure a system to use network time protocol
-  - Manage one-time jobs with at
-  - Manage reoccurring user jobs with cron
-  - Manage reoccurring system jobs with cron
-  - Limit access to at and cron
+  - [Understand the Linux Boot Process](#understand-the-linux-boot-process)
+  - [Rescue a system](#rescue-a-system)
+  - [Introduction to systemd services](#introduction-to-systemd-services)
+  - [Get systemd service status](#get-systemd-service-status)
+  - [Manage systemd services](#manage-systemd-services)
+  - [Make systemd services persistent](#make-systemd-services-persistent)
+  - [Configure networking](#configure-networking)
+  - [Configure a system to use network time protocol](#configure-a-system-to-use-network-time-protocol)
+  - [Manage one-time jobs with at](#manage-one-time-jobs-with-at)
+  - [Manage reoccurring user jobs with cron](#manage-reoccurring-user-jobs-with-cron)
+  - [Manage reoccurring system jobs with cron](#manage-reoccurring-system-jobs-with-cron)
+  - [Limit access to at and cron](#limit-access-to-at-and-cron)
 - [**3. Essential Tools**](#3-essential-tools) (16 videos)
-  - About file globs
-  - Use character classes
-  - Use globs to match files
-  - Use input-output redirection (>, >>, |, 2>, and more)
-  - Use grep and regular expressions to analyze text
-  - Create files and directories
-  - Copy files and directories
-  - Move files and directories
-  - Remove files and directories
-  - Create hard and soft links
-  - Introduction to Vim
-  - Edit text with Vim
-  - Locate, read, and use system documentation
-  - Archive files using tar and cpio
-  - Compress files and archives
-  - Read system logs
+  - [About file globs](#about-file-globs)
+  - [Use character classes](#use-character-classes)
+  - [Use globs to match files](#use-globs-to-match-files)
+  - [Use input-output redirection (>, >>, |, 2>, and more)](#use-input-output-redirection-2-and-more)
+  - [Use grep and regular expressions to analyze text](#use-grep-and-regular-expressions-to-analyze-text)
+  - [Create files and directories](#create-files-and-directories)
+  - [Copy files and directories](#copy-files-and-directories)
+  - [Move files and directories](#move-files-and-directories)
+  - [Remove files and directories](#remove-files-and-directories)
+  - [Create hard and soft links](#create-hard-and-soft-links)
+  - [Introduction to Vim](#introduction-to-vim)
+  - [Edit text with Vim](#edit-text-with-vim)
+  - [Locate, read, and use system documentation](#locate-read-and-use-system-documentation)
+  - [Archive files using tar and cpio](#archive-files-using-tar-and-cpio)
+  - [Compress files and archives](#compress-files-and-archives)
+  - [Read system logs](#read-system-logs)
 - [**4. Manage System Software**](#4-manage-system-software) (16 videos)
-  - Linux repository management systems
-  - Install from a software repository
-  - RPM package format
-  - Select DNF packages by name
-  - Get info on packages with DNF
-  - Get info on package groups
-  - Search for packages
-  - Install and remove packages
-  - Install and remove package groups
-  - Managing DNF package modules
-  - Manage DNF repositories
-  - Get package information with RPM
-  - RPM query formatting
-  - Manage OS updates
-  - Update the kernel
-  - Manage kernel modules
+  - [Linux repository management systems](#linux-repository-management-systems)
+  - [Install from a software repository](#install-from-a-software-repository)
+  - [RPM package format](#rpm-package-format)
+  - [Select DNF packages by name](#select-dnf-packages-by-name)
+  - [Get info on packages with DNF](#get-info-on-packages-with-dnf)
+  - [Get info on package groups](#get-info-on-package-groups)
+  - [Search for packages](#search-for-packages)
+  - [Install and remove packages](#install-and-remove-packages)
+  - [Install and remove package groups](#install-and-remove-package-groups)
+  - [Managing DNF package modules](#managing-dnf-package-modules)
+  - [Manage DNF repositories](#manage-dnf-repositories)
+  - [Get package information with RPM](#get-package-information-with-rpm)
+  - [RPM query formatting](#rpm-query-formatting)
+  - [Manage OS updates](#manage-os-updates)
+  - [Update the kernel](#update-the-kernel)
+  - [Manage kernel modules](#manage-kernel-modules)
 - [**5. Create Simple Shell Scripts**](#5-create-simple-shell-scripts) (12 videos)
-  - What makes a shell script a shell script?
-  - Bash variable scope
-  - Positional arguments
-  - Pipe data into a script
-  - Output to STDOUT and STDERR
-  - Conditional flow with if, then if
-  - Conditional flow with case
-  - Numeric conditions
-  - String conditions
-  - File conditions
-  - Use looping constructs: The for loop
-  - Use looping constructs: The while loop
+  - [What makes a shell script a shell script?](#what-makes-a-shell-script-a-shell-script)
+  - [Bash variable scope](#bash-variable-scope)
+  - [Positional arguments](#positional-arguments)
+  - [Pipe data into a script](#pipe-data-into-a-script)
+  - [Output to STDOUT and STDERR](#output-to-stdout-and-stderr)
+  - [Conditional flow with if, then if](#conditional-flow-with-if-then-if)
+  - [Conditional flow with case](#conditional-flow-with-case)
+  - [Numeric conditions](#numeric-conditions)
+  - [String conditions](#string-conditions)
+  - [File conditions](#file-conditions)
+  - [Use looping constructs: The for loop](#use-looping-constructs-the-for-loop)
+  - [Use looping constructs: The while loop](#use-looping-constructs-the-while-loop)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Break into system administration with the Red Hat EX200 certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/break-into-system-administration-with-the-red-hat-ex200-certification?u=76281980)
@@ -144,11 +144,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), career (1)
 > **Env Vars:** rhcsa (3), rhce (1)
 > **Versions:** version 9 (2)
 > **Analogies:** such as (2)
 > **Prerequisites:** you'll need (1), prerequisite (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [grant] (1)
 
 #### What you should know
@@ -228,11 +228,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (28), [[Virtualization]] (3), [[Virtual Machines]] (1)
 > **Env Vars:** rhcsa (5), amd (3), gui (2), lpic (1), cpu (1)
 > **Prerequisites:** install (4), you'll need (2)
 > **Definitions:** known as (1), means that (1), is an  (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** this, (1), if, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -267,6 +267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), cloud (1), [[Performance Tuning]] (1), [[System Administration]] (1), management (1)
 > **Env Vars:** rhcsa (4)
 > **Prerequisites:** configure (2), install (2)
 > **CLI Commands:** grep (1)
@@ -380,9 +381,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (31), [[Red Hat Linux]] (2), next (2), product (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), curl (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (1), similar to (1)
 > **Warnings:** note that (1), caution (1)
 > **Exercise Files:** source code (1)
@@ -391,7 +392,7 @@ created: 2026-04-29
 
 ### 1. Deploy Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a bootable Enterprise Linux 9 live USB drive on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980)
@@ -472,6 +473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (7), [[Windows]] (4), next (2), web (1), application (1)
 > **Env Vars:** iso (10), dvd (6), usb (6), cpu (1)
 > **UI Navigation:** click on (10), scroll down (2), go to (1), double-click (1)
 > **Prerequisites:** install (6), you'll need (1)
@@ -557,11 +559,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), next (3), hit (1)
 > **Env Vars:** usb (4), gui (2), sdu (1), gnome (1)
 > **UI Navigation:** click on (6)
 > **Prerequisites:** install (5), setup (1)
 > **CLI Commands:** make (1), sudo (1)
-> **Code Keywords:** continue (1), interface (1)
 > **URLs:** [localnet.com](https://localnet.com) (1)
 > **Tools:** command line (1)
 > **Warnings:** note that (1)
@@ -703,9 +705,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (8), [[Virtualization]] (7), express (3), [[Linux]] (2), management (2)
 > **Env Vars:** kvm (13), usb (8), cpu (7), pci (7), qemu (4)
 > **Analogies:** for instance (4), such as (4), for example (1)
-> **Code Keywords:** function (3), pass (2), let (1)
 > **Tools:** command line (3)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1)
@@ -772,9 +774,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Linux]] (3), [[Virtualization]] (3), hit (3), web (3)
 > **Prerequisites:** install (5)
 > **CLI Commands:** sudo (2), dnf (1), systemctl (1)
-> **Code Keywords:** continue (1), interface (1), let (1)
 > **Env Vars:** qemu (1), lxc (1), kvm (1)
 > **Definitions:** is a  (3)
 > **Tools:** terminal (1), command line (1)
@@ -925,10 +927,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (7), hit (5), next (3), web (1), [[Virtualization]] (1)
 > **UI Navigation:** click on (12), checkbox (2), go to (1), dropdown (1), switch to (1)
 > **Env Vars:** cpu (7), gui (4), iso (2), nat (2), dvd (1)
 > **Prerequisites:** install (6), you'll need (2), configure (1)
-> **Code Keywords:** interface (3), module (1), this, (1), switch (1)
 > **CLI Commands:** make (2), sudo (2)
 > **Tools:** terminal (2), firefox (1)
 > **URLs:** [rockylinux.org](https://rockylinux.org) (1), [net.com](https://net.com) (1)
@@ -1059,13 +1061,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), hit (5), web (5), [[Ubuntu]] (1), [[Debugging]] (1)
 > **Env Vars:** ftp (4), iso (3), ram (3), sha (2), url (2)
 > **Prerequisites:** install (10), configure (3), you'll need (3)
 > **CLI Commands:** sudo (2), cp (1), chown (1), cd (1)
 > **Tools:** anaconda (4), terminal (1)
 > **Definitions:** is a  (3), is an  (2)
 > **File Paths:** anaconda-ks.cfg (2), root/anaconda-ks.cfg (1), downloads/anaconda-ks.cfg (1)
-> **Code Keywords:** switch (1), case, (1), let (1), pass (1)
 > **Analogies:** such as (2), just like (2)
 
 #### Install Linux unattended in a guest VM
@@ -1187,9 +1189,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), [[Virtual Machines]] (3), hit (2), cd (1), next (1)
 > **Prerequisites:** install (14), configure (1)
 > **Env Vars:** iso (3), gui (2), home (2), uefi (2), ram (1)
-> **Code Keywords:** delete (6), let (2), default, (1), var (1)
 > **Tools:** command line (3), anaconda (2), terminal (1)
 > **CLI Commands:** sudo (1), find (1), cd (1), rm (1)
 > **File Paths:** anaconda-ks.cfg (2)
@@ -1359,8 +1361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), next (5), dom (4), prompt (3), [[Virtual Machines]] (2)
 > **Env Vars:** dom (4), gui (3), cpu (3), kvm (3)
-> **Code Keywords:** let (3), interface (2), delete (2), this, (2), type. (1)
 > **CLI Commands:** sudo (7), node (1), make (1)
 > **UI Navigation:** click on (2), double-click (1), go to (1), open the (1)
 > **Tools:** command line (2), terminal (1), command prompt (1)
@@ -1371,7 +1373,7 @@ created: 2026-04-29
 
 ### 2. System Config and Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Linux Boot Process
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980)
@@ -1428,8 +1430,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), power (1), [[System Configuration]] (1)
 > **Env Vars:** bios (4), uefi (4), grub (2), grub2 (1), efi (1)
-> **Code Keywords:** self (1), interface (1), default, (1)
 > **Prerequisites:** initialization (3)
 > **Analogies:** for instance (1), such as (1)
 > **File Paths:** boot/grub2/grub.cfg (1)
@@ -1578,7 +1580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), if, (1), require (1), continue (1), this, (1)
+> **Frameworks & Libraries:** hit (10), [[Hardware]] (3), [[Linux]] (3), prompt (2), [[Security]] (2)
 > **CLI Commands:** make (3), find (2), sudo (2), journalctl (1)
 > **Env Vars:** ctl (3), gui (1), dmid (1)
 > **UI Navigation:** go to (2), select the (1)
@@ -1684,8 +1686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (11), management (3), [[Ubuntu]] (2), web (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** super (1), let (1), switch (1)
 > **Env Vars:** mit (1), usb (1), suse (1)
 > **Definitions:** is called (1), is a  (1)
 > **Versions:** version 6 (1)
@@ -1839,8 +1841,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), [[Linux]] (1), next (1)
 > **CLI Commands:** systemctl (8), make (1), cat (1)
-> **Code Keywords:** let (3), static (2), type. (2), pass (1), default, (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** cron (1)
 > **Analogies:** for instance (1)
@@ -1914,8 +1916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11)
 > **CLI Commands:** systemctl (18), sudo (7)
-> **Code Keywords:** let (5)
 > **Tools:** terminal (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1959,8 +1961,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Linux]] (1)
 > **CLI Commands:** systemctl (7), sudo (2)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2089,8 +2091,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (9), [[Linux]] (5), hit (3), functional (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (9), gui (3), pci (3), nmtui (3), nmcli (2)
-> **Code Keywords:** interface (6), let (2), private (1), this, (1)
 > **Prerequisites:** configure (6), you'll need (4)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
@@ -2185,10 +2187,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Real-Time]] (2), [[CLI]] (1), [[Hardware]] (1)
 > **Env Vars:** gui (2), rtc (2), ntp (2), cli (1)
 > **Ports:** :26 (2), :00 (2)
 > **CLI Commands:** grep (1), find (1)
-> **Code Keywords:** interface (1), let (1)
 > **Tools:** terminal (2)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
@@ -2295,12 +2297,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), prompt (1), [[Linux]] (1)
 > **Env Vars:** atq (4), tilda (2), atrm (2), cpu (1)
 > **Ports:** :00 (4), :25 (2), :30 (1)
 > **CLI Commands:** ls (2), make (1), cat (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **Versions:** 0.8 (3)
-> **Code Keywords:** let (1), this, (1)
 > **Prerequisites:** configure (1), you'll need (1)
 > **File Paths:** file.txt (1)
 
@@ -2397,12 +2399,12 @@ created: 2026-04-29
 >
 > **Env Vars:** jan (1), dec (1), sun (1), mon (1)
 > **Analogies:** such as (3), for instance (1)
-> **Code Keywords:** this, (1), var (1)
 > **CLI Commands:** find (1)
 > **URLs:** [crontab-generator.org](https://crontab-generator.org) (1)
 > **Ports:** :00 (1)
 > **Documentation:** man page (1)
 > **Definitions:** is an  (1)
+> **Warnings:** note that (1)
 
 #### Manage reoccurring system jobs with cron
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-reoccurring-system-jobs-with-cron?u=76281980)
@@ -2451,7 +2453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), var (1), if, (1)
+> **Frameworks & Libraries:** hit (3)
 > **Documentation:** man page (3)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -2513,10 +2515,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** sudo (2), make (2), ls (1)
 > **Documentation:** man page (4), specification (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** case, (1)
 > **Tools:** command line (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2524,7 +2526,7 @@ created: 2026-04-29
 
 ### 3. Essential Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About file globs
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980)
@@ -2645,9 +2647,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **File Paths:** file.txt (2), filea.txt (2), file123.txt (2), file1.txt (2), file00.txt (2)
 > **Analogies:** for instance (4), just like (4)
-> **Code Keywords:** let (2), match. (2), match, (1), this. (1)
 > **CLI Commands:** ls (1), tar (1), make (1)
 > **Tools:** command line (1), terminal (1)
 > **Env Vars:** gui (1)
@@ -2735,7 +2737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (11), class, (3), let (1)
+> **Frameworks & Libraries:** [[Linux]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for instance (2), for example (2), such as (1), just like (1)
 > **File Paths:** a.txt (1), b.txt (1)
 > **Tools:** bash (1)
@@ -2872,8 +2874,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Microsoft Word|Word]] (6)
 > **Env Vars:** jpg (7), png (3), mpg (3), punct (2), jpeg (1)
-> **Code Keywords:** let (10), match, (3), class, (2), this. (1), else. (1)
 > **CLI Commands:** ls (9), find (2), make (1)
 > **Analogies:** for example (2), such as (1)
 > **Tools:** command line (1)
@@ -3018,9 +3020,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (3), database (3), [[SQL]] (3), [[Linux]] (2), data (1)
 > **CLI Commands:** find (5), grep (5), mysql (3), make (1)
 > **File Paths:** file.txt (1), db.sql (1), out.txt (1), outerror.txt (1), example.txt (1)
-> **Code Keywords:** let (2), default. (1), this. (1), while, (1)
 > **Analogies:** just like (3), such as (1)
 > **Env Vars:** sql (2), rem (1)
 > **Tools:** bash (3)
@@ -3180,9 +3182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), [[Microsoft Word|Word]] (2), data (1), power (1), hit (1)
 > **CLI Commands:** grep (9), make (2), journalctl (1)
 > **File Paths:** file.txt (6), file-.txt (1), journal.txt (1)
-> **Code Keywords:** match, (2), class, (2), case. (1), match. (1), let (1)
 > **Analogies:** for instance (3), for example (1), similar to (1), such as (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** filea (1), fileb (1), filec (1)
@@ -3296,9 +3298,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), cd (1)
 > **CLI Commands:** mkdir (8), cat (5), ls (3), cd (1), make (1)
 > **File Paths:** textfile.txt (4), emptyfile.txt (2)
-> **Code Keywords:** let (3), function (1), case, (1)
 > **Tools:** terminal (1), bash (1), command line (1)
 > **Warnings:** note that (2), be aware (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -3424,9 +3426,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), management (1), cd (1), [[Linux]] (1), [[Metadata]] (1)
 > **CLI Commands:** cp (11), mkdir (4), make (3), cd (1), ls (1)
 > **File Paths:** file.txt (7), document.txt (1), doc-copy.txt (1), file-copy.txt (1), archive/file-copy.txt (1)
-> **Code Keywords:** let (7), if, (1), default. (1)
 > **Env Vars:** gui (1), usb (1)
 > **Tools:** command line (1), terminal (1)
 > **Analogies:** for instance (1), just like (1)
@@ -3538,10 +3540,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Linux]] (6), data (5), [[Security]] (2), [[Metadata]] (1)
 > **Env Vars:** txt (7), usb (3), mkdir (2), dir (2), mov (1)
 > **CLI Commands:** mv (4), mkdir (2), make (1), cd (1)
 > **Analogies:** just like (2), for instance (1), such as (1), similar to (1)
-> **Code Keywords:** let (3), default. (1)
 > **File Paths:** document.txt (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -3651,7 +3653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (11), let (5), super (2), this, (1)
+> **Frameworks & Libraries:** hit (16), [[Linux]] (3), cd (3), prompt (1)
 > **CLI Commands:** rm (11), cd (3), mkdir (2), sudo (1)
 > **File Paths:** fileb.txt (3), filea.txt (2), dir1/file1.txt (1), filed.txt (1), file1.txt (1)
 > **Tools:** command line (2), terminal (1)
@@ -3829,9 +3831,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (19), data (4), cd (1), node (1)
 > **File Paths:** file.txt (10), filelink.txt (6), filesymlink.txt (2)
 > **CLI Commands:** ls (5), rm (3), mkdir (2), cd (1), node (1)
-> **Code Keywords:** let (6), delete (4)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for instance (1), such as (1)
 > **Tools:** terminal (1)
@@ -3994,8 +3996,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Linux]] (1), prompt (1)
 > **Tools:** vim (19), terminal (1), command line (1), command prompt (1)
-> **Code Keywords:** let (6), interface (3), type : (2), switch (1), require (1)
 > **File Paths:** vimfile.txt (2), newfile.txt (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** similar to (1), for instance (1)
@@ -4136,8 +4138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), hit (7), [[Microsoft Word|Word]] (3), [[Windows]] (3), next (3)
 > **Tools:** vim (17), command line (2), firefox (1)
-> **Code Keywords:** let (4), delete (4), type : (4), for, (1), switch (1)
 > **Analogies:** similar to (2), for instance (2), just like (1), such as (1)
 > **File Paths:** file1.txt (2), editfile.txt (1), file2.txt (1), file3.txt (1)
 > **UI Navigation:** go to (5)
@@ -4278,9 +4280,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Linux]] (7), [[Search]] (3), cd (2), database (2)
 > **CLI Commands:** grep (6), cd (2), find (2), sudo (1)
 > **Documentation:** man page (11)
-> **Code Keywords:** let (3), interface (1), this. (1), case, (1)
 > **Tools:** command line (4), terminal (2)
 > **Env Vars:** posix (4)
 > **Definitions:** is a  (3)
@@ -4484,8 +4486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), [[Linux]] (6), [[Metadata]] (2), data (2), [[Windows]] (1)
 > **CLI Commands:** tar (23), sudo (4), find (3), ls (3), make (2)
-> **Code Keywords:** let (4), this. (2), case, (2), else, (1), if= (1)
 > **Env Vars:** cpio (8)
 > **Versions:** 5.2 (1), 4.3 (1), 3.3 (1)
 > **Definitions:** short for (1), stands for (1), is a  (1)
@@ -4580,8 +4582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Linux]] (5), [[Windows]] (3), [[Metadata]] (2)
 > **CLI Commands:** tar (9), ls (4), make (2), cp (1), unzip (1)
-> **Code Keywords:** let (4), pass (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4726,8 +4728,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Search]] (3), [[Linux]] (2), [[Microsoft Word|Word]] (2), [[Troubleshooting]] (1)
 > **CLI Commands:** journalctl (6), sudo (4), grep (4), find (1), make (1)
-> **Code Keywords:** var (6), default, (1), let (1), override (1), private (1)
 > **Analogies:** for instance (3), for example (1), just like (1)
 > **URLs:** [rsyslog.com](https://rsyslog.com) (3)
 > **UI Navigation:** scroll down (1), scroll up (1)
@@ -4738,7 +4740,7 @@ created: 2026-04-29
 
 ### 4. Manage System Software
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linux repository management systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980)
@@ -4857,11 +4859,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (14), application (6), [[Package Management]] (3), management (2), [[Ubuntu]] (2)
 > **Env Vars:** rpm (4), suse (3), deb (1), dnf (1), apt (1)
 > **CLI Commands:** snap (2), dnf (1), yum (1), apt (1), make (1)
 > **Exercise Files:** source code (5), download the (1)
 > **Prerequisites:** install (4)
-> **Code Keywords:** self (1), case, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1)
 > **Best Practices:** recommended (1)
@@ -4957,7 +4959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (1), for. (1), for, (1), super (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Metadata]] (3), web (3), [[Search]] (2), dns (2)
 > **Prerequisites:** install (6)
 > **CLI Commands:** dnf (2), snap (2), find (1)
 > **Env Vars:** dns (2), dnf (2), ftp (1)
@@ -5023,10 +5025,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Metadata]] (4), [[Linux]] (3), database (2), [[Security]] (1)
 > **Env Vars:** rpm (14), cpu (1), gpg (1), md5 (1), srpm (1)
 > **Analogies:** similar to (1), such as (1)
 > **Prerequisites:** required to (1), install (1)
-> **Code Keywords:** for, (1)
 > **Code Identifiers:** opensuse (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -5119,9 +5121,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Search]] (2), application (1)
 > **CLI Commands:** dnf (12), find (1)
 > **Env Vars:** dnf (10), cpu (2), xfs (1)
-> **Code Keywords:** case, (2), override (2), let (1), else. (1), if, (1)
 > **Prerequisites:** install (4), you'll need (1)
 > **Versions:** 5.19.0 (3)
 > **Analogies:** for instance (1), just like (1), such as (1)
@@ -5221,9 +5223,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), database (1)
 > **CLI Commands:** dnf (27)
 > **Env Vars:** dnf (6), rpm (2), cpu (1)
-> **Code Keywords:** let (3), from. (1), this. (1)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** note that (2)
 > **Tools:** anaconda (1)
@@ -5307,9 +5309,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Microsoft Word|Word]] (2), [[Virtualization]] (2), management (1), [[Security]] (1)
 > **Env Vars:** dnf (13), gui (1), dvd (1), rpm (1)
 > **CLI Commands:** dnf (13), dotnet (1), find (1)
-> **Code Keywords:** default. (2), let (1), override (1)
 > **Prerequisites:** install (4)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), such as (1)
@@ -5357,11 +5359,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (7), hit (4), [[Microsoft Word|Word]] (1), [[Metadata]] (1)
 > **CLI Commands:** dnf (11), find (1)
 > **Tools:** vim (8)
 > **Env Vars:** dnf (5), vim (1)
 > **Analogies:** for instance (2), such as (1)
-> **Code Keywords:** default, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5462,10 +5464,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), [[Linux]] (1), prompt (1), [[Troubleshooting]] (1)
 > **CLI Commands:** dnf (12), sudo (7), yum (1), find (1)
 > **Prerequisites:** install (13)
 > **Env Vars:** dnf (3), kde (2), gnome (2), rpm (1)
-> **Code Keywords:** let (4), pass (2), case, (1)
 > **Tools:** terminal (2), vim (2), command line (1)
 > **Analogies:** for instance (2), similar to (1), just like (1)
 > **Definitions:** is a  (2)
@@ -5530,10 +5532,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), hit (3)
 > **CLI Commands:** dnf (11), sudo (3)
 > **Env Vars:** dnf (11), ids (2)
 > **Prerequisites:** install (4)
-> **Code Keywords:** let (3)
 > **Tools:** terminal (1), command line (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -5630,7 +5632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (38), let (1), default, (1), case. (1), switch (1)
+> **Frameworks & Libraries:** [[PHP]] (8), hit (4), [[Linux]] (1), next (1), application (1)
 > **CLI Commands:** dnf (8), php (8), sudo (1)
 > **Env Vars:** php (6), dnf (5), rpm (1)
 > **Analogies:** for instance (3), such as (2), similar to (1)
@@ -5780,9 +5782,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Linux]] (3), cd (2), [[Metadata]] (2), next (1)
 > **CLI Commands:** dnf (12), yum (3), sudo (3), cd (2), ls (1)
 > **Env Vars:** dnf (5), url (3), gpg (1)
-> **Code Keywords:** let (4), static (1), default, (1)
 > **Prerequisites:** install (5), you'll need (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -5962,10 +5964,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (20), database (13), [[Linux]] (2), power (1), data (1)
 > **Env Vars:** rpm (29), httpd (6), dnf (4), rpn (1), qdf (1)
 > **Tools:** bash (12), terminal (1)
 > **CLI Commands:** dnf (4), find (2), ls (1), mkdir (1), apache (1)
-> **Code Keywords:** let (8), from, (1)
 > **Prerequisites:** install (4)
 > **Documentation:** the documentation (2), man page (1)
 > **Exercise Files:** download the (1)
@@ -6100,9 +6102,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (12), database (1), [[Linux]] (1), [[Search]] (1), power (1)
 > **Env Vars:** rpm (8), installtime (4), name (3), filenames (3), filesizes (2)
 > **Tools:** bash (9), terminal (1)
-> **Code Keywords:** let (5), if, (1), else, (1), case, (1)
 > **Analogies:** for instance (3), just like (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -6230,8 +6232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), [[Security]] (4), [[Search]] (1)
 > **CLI Commands:** dnf (17), sudo (8), python3 (1), make (1), find (1)
-> **Code Keywords:** let (5), case, (2), delete (2)
 > **Prerequisites:** install (3)
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
@@ -6352,8 +6354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (2)
 > **CLI Commands:** dnf (14), sudo (6), ls (2), cat (2), yum (1)
-> **Code Keywords:** let (6), case, (2), this. (1), while, (1)
 > **Env Vars:** bios (2), ram (1), grub (1), uefi (1), efi (1)
 > **Prerequisites:** install (4), you'll need (2)
 > **File Paths:** boot/grub2/grub.cfg (1), boot/efi/efi/cintos/grub.cfg (1)
@@ -6466,7 +6468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (19), let (4), delete (1), this, (1)
+> **Frameworks & Libraries:** hit (8), [[Linux]] (4), [[Hardware]] (3), [[Virtualization]] (1)
 > **Code Identifiers:** dm_mirror (11), dm_log (1), dm_region_hash (1)
 > **CLI Commands:** sudo (6), make (3), ls (1), rm (1)
 > **Analogies:** for instance (2), just like (1)
@@ -6478,7 +6480,7 @@ created: 2026-04-29
 
 ### 5. Create Simple Shell Scripts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes a shell script a shell script?
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-makes-a-shell-script-a-shell-script?u=76281980)
@@ -6563,10 +6565,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Scripting]] (1), [[Debugging]] (1), next (1), [[Search]] (1)
 > **CLI Commands:** make (5), chmod (1), mkdir (1), mv (1)
 > **Tools:** bash (7), terminal (1)
 > **File Paths:** script.sh (5), bin/script2.sh (2)
-> **Code Keywords:** case, (2), let (2), this, (1), this. (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
@@ -6617,7 +6619,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), default, (1), from. (1), require (1), default. (1)
 > **Tools:** bash (4)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** bash_profile (1)
@@ -6739,8 +6740,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), cd (3), next (2), data (1), [[Linux]] (1)
 > **CLI Commands:** ls (9), make (5), cat (4), cd (3), mkdir (1)
-> **Code Keywords:** let (7), case, (3), pass (1)
 > **File Paths:** posargs.sh (4), home/user1/bin/posargs.sh (1)
 > **Tools:** terminal (2), bash (1)
 > **Definitions:** is a  (2)
@@ -6825,8 +6826,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), data (3)
 > **CLI Commands:** make (5), cat (2), grep (1), chmod (1)
-> **Code Keywords:** let (5), switch (1), for. (1), this. (1)
 > **Env Vars:** stdin (2), line (2), ifs (1), etc (1), passwd (1)
 > **Tools:** terminal (2), bash (1)
 > **Definitions:** is a  (2)
@@ -6887,9 +6888,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Linux]] (1), data (1)
 > **File Paths:** scriptoutput.sh (3), stdout.txt (2), stderr.txt (2)
 > **CLI Commands:** make (3), cat (2), chmod (1)
-> **Code Keywords:** let (5), default, (1)
 > **Tools:** bash (1), terminal (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
@@ -7000,7 +7001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3), if, (2), else. (1), elif (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), power (1)
 > **Tools:** bash (6), zsh (1)
 > **Analogies:** just like (3), such as (2), for example (1), for instance (1)
 > **CLI Commands:** grep (3), find (1)
@@ -7066,7 +7067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (4), continue (1)
+> **Frameworks & Libraries:** next (2)
 > **Analogies:** similar to (2), for example (2)
 > **Tools:** bash (2), command line (1)
 > **CLI Commands:** make (1)
@@ -7197,7 +7198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), else. (2)
+> **Frameworks & Libraries:** hit (3), [[Forms]] (1), power (1)
 > **Tools:** terminal (4), bash (3)
 > **CLI Commands:** make (4)
 > **Analogies:** just like (1), for instance (1), such as (1)
@@ -7246,7 +7247,6 @@ created: 2026-04-29
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), think of it as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** static (1)
 > **Env Vars:** asci (1)
 > **Tools:** bash (1)
 > **Warnings:** be aware (1)
@@ -7303,11 +7303,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Speakers:** - s (2), - using (1), - e (1), - f (1), - d (1)
 > **Definitions:** is a  (8)
 > **Env Vars:** sgid (1), suid (1)
 > **CLI Commands:** ls (1)
-> **Code Keywords:** let (1)
 
 #### Use looping constructs: The for loop
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-for-loop?u=76281980)
@@ -7378,7 +7378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), break. (2), static (1), this, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
 > **Env Vars:** ifs (4)
 > **Tools:** bash (3)
 > **Analogies:** such as (1), for instance (1)
@@ -7430,7 +7430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
@@ -7438,7 +7438,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/next-steps?u=76281980)
@@ -7477,10 +7477,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), product (1)
 > **Env Vars:** rhcsa (5), ex200 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** pass (1)
 > **Versions:** 2.5 (1)
 > **Speakers:** - [grant] (1)
 

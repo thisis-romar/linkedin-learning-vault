@@ -30,7 +30,7 @@ tags:
   - skill/microsoft-excel
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20for%20Business%20Analysts.md)
@@ -49,48 +49,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Benefit from business analytics
+  - [Benefit from business analytics](#benefit-from-business-analytics)
 - [**1. The Basics**](#1-the-basics) (6 videos)
-  - What is business analytics?
-  - Business analytics and company financials
-  - Basics of business analysis
-  - Finding data for business analytics
-  - Using business analytics for sales prospecting
-  - Testing marketing content with business analytics
+  - [What is business analytics?](#what-is-business-analytics)
+  - [Business analytics and company financials](#business-analytics-and-company-financials)
+  - [Basics of business analysis](#basics-of-business-analysis)
+  - [Finding data for business analytics](#finding-data-for-business-analytics)
+  - [Using business analytics for sales prospecting](#using-business-analytics-for-sales-prospecting)
+  - [Testing marketing content with business analytics](#testing-marketing-content-with-business-analytics)
 - [**2. Getting Started with Business Analytics**](#2-getting-started-with-business-analytics) (7 videos)
-  - Data access and availability
-  - Integrating data sets
-  - Data and business analytics
-  - Finding a data model
-  - Mapping your data
-  - Dealing with data Issues
-  - Tools for business analysis
+  - [Data access and availability](#data-access-and-availability)
+  - [Integrating data sets](#integrating-data-sets)
+  - [Data and business analytics](#data-and-business-analytics)
+  - [Finding a data model](#finding-a-data-model)
+  - [Mapping your data](#mapping-your-data)
+  - [Dealing with data Issues](#dealing-with-data-issues)
+  - [Tools for business analysis](#tools-for-business-analysis)
 - [**3. Predictive Tools in Business Analytics**](#3-predictive-tools-in-business-analytics) (6 videos)
-  - Business analytics and performance
-  - Using data in hiring plans
-  - Understanding HR issues with data
-  - Troubleshooting at the organization
-  - Forecasting with business analytics data
-  - Making corporate investment decisions
+  - [Business analytics and performance](#business-analytics-and-performance)
+  - [Using data in hiring plans](#using-data-in-hiring-plans)
+  - [Understanding HR issues with data](#understanding-hr-issues-with-data)
+  - [Troubleshooting at the organization](#troubleshooting-at-the-organization)
+  - [Forecasting with business analytics data](#forecasting-with-business-analytics-data)
+  - [Making corporate investment decisions](#making-corporate-investment-decisions)
 - [**4. Reading Business Analytics Output**](#4-reading-business-analytics-output) (8 videos)
-  - Examining financial data
-  - Waterfall charts in Excel
-  - Competitor analysis and benchmarking
-  - Growing revenue with business analytics
-  - Business strategy and business analytics
-  - Product pricing with business analytics
-  - Price, volume, and sensitivity analysis
-  - Controlling costs in business
+  - [Examining financial data](#examining-financial-data)
+  - [Waterfall charts in Excel](#waterfall-charts-in-excel)
+  - [Competitor analysis and benchmarking](#competitor-analysis-and-benchmarking)
+  - [Growing revenue with business analytics](#growing-revenue-with-business-analytics)
+  - [Business strategy and business analytics](#business-strategy-and-business-analytics)
+  - [Product pricing with business analytics](#product-pricing-with-business-analytics)
+  - [Price, volume, and sensitivity analysis](#price-volume-and-sensitivity-analysis)
+  - [Controlling costs in business](#controlling-costs-in-business)
 - [**5. Business Analytics and AI**](#5-business-analytics-and-ai) (3 videos)
-  - Understanding AI tools and BA
-  - Using data with generative AI
-  - Limitations on AI and data
+  - [Understanding AI tools and BA](#understanding-ai-tools-and-ba)
+  - [Using data with generative AI](#using-data-with-generative-ai)
+  - [Limitations on AI and data](#limitations-on-ai-and-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Putting tools into action
+  - [Putting tools into action](#putting-tools-into-action)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefit from business analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980)
@@ -111,12 +111,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[Analytics]] (5), [[Microsoft Excel|Excel]] (2), data (2), [[LinkedIn]] (1)
 > **Speakers:** - [michael] (1)
 
 
 ### 1. The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is business analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980)
@@ -205,8 +206,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (21), data (18), [[Analytics]] (13), career (1), management (1)
 > **Definitions:** in other words (2), is a  (1)
-> **Code Keywords:** let (1), extends (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
@@ -281,6 +282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (17), business (13), [[Business Intelligence (BI)|Business intelligence]] (8), [[Predictive Analytics]] (3), bi (2)
 > **Analogies:** for instance (3), imagine (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
@@ -351,7 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1), else, (1), this, (1)
+> **Frameworks & Libraries:** business (10), [[Analytics]] (10), data (4), [[LinkedIn]] (2), [[Google]] (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** set up (1)
@@ -434,8 +436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), [[Microsoft Excel|Excel]] (4), business (1), [[Economic Analysis]] (1), product (1)
 > **Env Vars:** bea (10), gdp (3), fred (1), xls (1)
-> **Code Keywords:** for, (2), from. (1), super (1), for. (1)
 > **Analogies:** for instance (5)
 > **URLs:** [data.gov](https://data.gov) (3), [bea.gov](https://bea.gov) (1)
 > **Definitions:** is a  (3)
@@ -507,9 +509,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (11), business (5), [[Analytics]] (4), data (2), [[Search]] (2)
 > **Analogies:** for instance (2), just like (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -570,6 +572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Google]] (9), [[Statistics]] (4), [[Microsoft Excel|Excel]] (4), business (3)
 > **Analogies:** for instance (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** csv (1)
@@ -579,7 +582,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Business Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data access and availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980)
@@ -656,7 +659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (7), business (2), [[Analytics]] (1), hr (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -775,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (31), [[Microsoft Excel|Excel]] (23), [[Microsoft PowerPoint|Powerpoint]] (11), [[Stata]] (4), business (2)
 > **CLI Commands:** make (4)
 > **Versions:** 0.07 (2), 0.5 (1), 0.1 (1)
 > **Env Vars:** csv (2)
@@ -893,8 +896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Microsoft Excel|Excel]] (3), next (1)
 > **Env Vars:** vlookup (3), ppe (1), xlookup (1)
-> **Code Keywords:** case, (1), match. (1), let (1), function (1)
 > **Versions:** 82.58 (1), 78.5 (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -985,7 +988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), business (5), product (3), [[Analytics]] (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** abc (1), xyz (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -1055,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), business (4), [[Analytics]] (4), data (4), [[Financial Analysis]] (1)
 > **Analogies:** imagine (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdp (1)
@@ -1219,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (5), function (5), let (2), case, (2), this, (1)
+> **Frameworks & Libraries:** business (5), data (4), [[Microsoft Excel|Excel]] (3), product (3), [[Analytics]] (1)
 > **Versions:** 0.6 (2), 2.9 (2), 0.43 (1), 0.4 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1290,8 +1293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), power (6), bi (6), [[Stata]] (6)
 > **Env Vars:** sas (5), ppi (1)
-> **Code Keywords:** let (3), this, (1), require (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), python (1)
 > **Warnings:** be aware (2)
@@ -1302,7 +1305,7 @@ created: 2026-04-29
 
 ### 3. Predictive Tools in Business Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business analytics and performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980)
@@ -1399,7 +1402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (1)
+> **Frameworks & Libraries:** data (14), business (1), [[Analytics]] (1), [[Microsoft Excel|Excel]] (1), hr (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** as you saw (1)
@@ -1534,8 +1537,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Teams]] (5), [[Analytics]] (4), business (3), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (1), else. (1), else, (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** set up (2)
@@ -1636,7 +1639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (5), business (2), [[Analytics]] (2), product (2), hr (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1712,8 +1715,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (4), business (3), [[Analytics]] (3), management (1)
 > **Analogies:** for instance (3), picture (1)
-> **Code Keywords:** let (1), this. (1), function (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1836,7 +1839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), data (9), [[Forecasting]] (2), feature (2), business (1)
 > **Definitions:** is a  (2), in other words (1), means that (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.25 (1)
@@ -1980,7 +1983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), private (1), this. (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), business (3), power (1), management (1)
 > **Env Vars:** irr (6), npv (4), ceo (1)
 > **CLI Commands:** make (5), find (1)
 > **Versions:** 13.2 (2), 728.17 (1), 249.49 (1)
@@ -1992,7 +1995,7 @@ created: 2026-04-29
 
 ### 4. Reading Business Analytics Output
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Examining financial data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980)
@@ -2075,9 +2078,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (3), data (3), business (2), [[Analytics]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** cogs (3)
 > **Versions:** 2.17 (1), 1.23 (1), 1.24 (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -2165,7 +2168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), function (1)
+> **Frameworks & Libraries:** business (4), data (4), [[Financial Data]] (2), [[Microsoft Excel|Excel]] (2), [[Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2258,7 +2261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), business (2), [[Analytics]] (1), feature (1)
 > **Env Vars:** cogs (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2373,7 +2376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), business (2), [[Analytics]] (1), [[Financial Modeling]] (1), functional (1)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mrpu (1)
@@ -2463,7 +2466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), this, (2), let (1)
+> **Frameworks & Libraries:** business (4), [[Microsoft Excel|Excel]] (3), [[Analytics]] (2), data (1), next (1)
 > **Env Vars:** s28 (2), h12 (1), s12 (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -2578,7 +2581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), business (3), data (2), power (2), product (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -2724,7 +2727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** data (5), business (3), hit (3), [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for instance (2), imagine (1)
 > **UI Navigation:** select the (2)
@@ -2835,7 +2838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), power (4), cloud (4), data (3), business (1)
 > **Analogies:** for instance (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2846,7 +2849,7 @@ created: 2026-04-29
 
 ### 5. Business Analytics and AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AI tools and BA
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980)
@@ -2907,9 +2910,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Generative AI]] (6), [[Generative AI Tools]] (3), [[ChatGPT]] (3), business (3)
 > **Cross-References:** coming up (2), in the last (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using data with generative AI
@@ -3051,7 +3054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), case, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (16), data (10), [[Microsoft Copilot|Copilot]] (8), business (3), [[Generative AI]] (2)
 > **Versions:** 3.5 (3)
 > **Env Vars:** covid (2)
 > **Warnings:** note that (1), be aware (1)
@@ -3263,7 +3266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), this, (2), for, (2), else. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (22), data (11), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Copilot|Copilot]] (2)
 > **CLI Commands:** make (6), python (3), find (1)
 > **Versions:** 3.5 (2), 22.39 (1), 166.28 (1)
 > **Env Vars:** see (2)
@@ -3275,7 +3278,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting tools into action
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980)
@@ -3320,8 +3323,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (6), business (5), [[Analytics]] (3), next (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)

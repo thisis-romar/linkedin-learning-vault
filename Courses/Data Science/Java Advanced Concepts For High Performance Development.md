@@ -28,7 +28,7 @@ tags:
   - skill/java-software-development
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Advanced%20Concepts%20For%20High%20Performance%20Development.md)
@@ -47,62 +47,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn advanced Java programming
-  - What you should know
-  - Using the exercise files
+  - [Learn advanced Java programming](#learn-advanced-java-programming)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Getting Started**](#1-getting-started) (1 videos)
-  - Which version of Java to use?
+  - [Which version of Java to use?](#which-version-of-java-to-use)
 - [**2. Generics in Java**](#2-generics-in-java) (7 videos)
-  - Introduction to generics in Java
-  - Generic methods in Java
-  - Bounded generics in Java
-  - The Liskov substitution principle in Java
-  - Using wildcards in generic programming
-  - Challenge: Using generics
-  - Solution: Using generics
+  - [Introduction to generics in Java](#introduction-to-generics-in-java)
+  - [Generic methods in Java](#generic-methods-in-java)
+  - [Bounded generics in Java](#bounded-generics-in-java)
+  - [The Liskov substitution principle in Java](#the-liskov-substitution-principle-in-java)
+  - [Using wildcards in generic programming](#using-wildcards-in-generic-programming)
+  - [Challenge: Using generics](#challenge-using-generics)
+  - [Solution: Using generics](#solution-using-generics)
 - [**3. Advanced Data Structures**](#3-advanced-data-structures) (6 videos)
-  - Collections in Java
-  - Using LinkedLists to structure data
-  - Storing pairs with HashMaps
-  - Using LinkedHashMaps
-  - Challenge: Data structures
-  - Solution: Data structures
+  - [Collections in Java](#collections-in-java)
+  - [Using LinkedLists to structure data](#using-linkedlists-to-structure-data)
+  - [Storing pairs with HashMaps](#storing-pairs-with-hashmaps)
+  - [Using LinkedHashMaps](#using-linkedhashmaps)
+  - [Challenge: Data structures](#challenge-data-structures)
+  - [Solution: Data structures](#solution-data-structures)
 - [**4. Functional Programming in Java**](#4-functional-programming-in-java) (7 videos)
-  - Functional Interfaces in Java
-  - Implementing lambdas in Java
-  - Using method references in Java
-  - Understanding streams in Java
-  - Using streams in Java
-  - Challenge: Functional programming
-  - Solution: Functional programming
+  - [Functional Interfaces in Java](#functional-interfaces-in-java)
+  - [Implementing lambdas in Java](#implementing-lambdas-in-java)
+  - [Using method references in Java](#using-method-references-in-java)
+  - [Understanding streams in Java](#understanding-streams-in-java)
+  - [Using streams in Java](#using-streams-in-java)
+  - [Challenge: Functional programming](#challenge-functional-programming)
+  - [Solution: Functional programming](#solution-functional-programming)
 - [**5. Concurrency in Java**](#5-concurrency-in-java) (7 videos)
-  - Introduction to concurrency in Java
-  - The Thread class in Java
-  - The Runnable interface in Java
-  - Using the ExecutorService in Java
-  - Synchronized methods in Java
-  - Challenge: Name
-  - Solution: Name
+  - [Introduction to concurrency in Java](#introduction-to-concurrency-in-java)
+  - [The Thread class in Java](#the-thread-class-in-java)
+  - [The Runnable interface in Java](#the-runnable-interface-in-java)
+  - [Using the ExecutorService in Java](#using-the-executorservice-in-java)
+  - [Synchronized methods in Java](#synchronized-methods-in-java)
+  - [Challenge: Name](#challenge-name)
+  - [Solution: Name](#solution-name)
 - [**6. Input and Output**](#6-input-and-output) (6 videos)
-  - Understanding I/O in Java
-  - Reading from System.in with a Scanner
-  - Reading files with BufferedReader
-  - Using try-with-resources with I/O
-  - Challenge: Input and output
-  - Solution: Input and output
+  - [Understanding I/O in Java](#understanding-io-in-java)
+  - [Reading from System.in with a Scanner](#reading-from-systemin-with-a-scanner)
+  - [Reading files with BufferedReader](#reading-files-with-bufferedreader)
+  - [Using try-with-resources with I/O](#using-try-with-resources-with-io)
+  - [Challenge: Input and output](#challenge-input-and-output)
+  - [Solution: Input and output](#solution-input-and-output)
 - [**7. Working with Files and Directories**](#7-working-with-files-and-directories) (6 videos)
-  - Working with files in Java
-  - Creating a new file
-  - Working with directories in Java
-  - Copying files in Java
-  - Challenge: Files and directories
-  - Solution: Files and directories
+  - [Working with files in Java](#working-with-files-in-java)
+  - [Creating a new file](#creating-a-new-file)
+  - [Working with directories in Java](#working-with-directories-in-java)
+  - [Copying files in Java](#copying-files-in-java)
+  - [Challenge: Files and directories](#challenge-files-and-directories)
+  - [Solution: Files and directories](#solution-files-and-directories)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn advanced Java programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980)
@@ -123,6 +123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[Functional Programming]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [bethan] (1)
 
 #### What you should know
@@ -142,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Env Vars:** ide (2), idea (1)
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
@@ -209,11 +211,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Git]] (2), [[Java]] (2), [[GitHub]] (1), prompt (1)
 > **Tools:** intellij (3), terminal (2), github (1), command prompt (1)
 > **Definitions:** is a  (5), stands for (1)
 > **Env Vars:** url (2), ide (2)
 > **CLI Commands:** git (2), cd (1)
-> **Code Keywords:** let (1), this, (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Exercise Files:** download the (2)
 > **Prerequisites:** before we start (1), you'll need (1)
@@ -221,7 +223,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Which version of Java to use?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/which-version-of-java-to-use?u=76281980)
@@ -268,6 +270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), feature (2), next (2), teams (1)
 > **Env Vars:** jdk (4)
 > **Versions:** java 8 (1), java 17 (1), java 21 (1)
 > **CLI Commands:** make (1)
@@ -277,7 +280,7 @@ created: 2026-04-29
 
 ### 2. Generics in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to generics in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980)
@@ -392,7 +395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (3), class, (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (1), [[Java]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -493,7 +496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), let (3), type. (2), static (1), this, (1)
+> **Frameworks & Libraries:** next (2), generic (1)
 > **Code Identifiers:** convertarraytolist (3), wordslist (2), numberslist (2), aslist (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (2)
@@ -546,7 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), pass (2), extends (1), class. (1)
+> **Frameworks & Libraries:** generic (1)
 > **Versions:** 2.0 (1), 3.5 (1), 14.7 (1)
 > **Analogies:** for example (3)
 > **Cross-References:** previous video (1)
@@ -650,8 +653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** checkoutitem (8), clothingitems (6), getprice (5), getname (5), clothingitem (5)
-> **Code Keywords:** pass (10), let (3), abstract (2), static (2), extends (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
 > **Definitions:** means that (1)
@@ -712,8 +715,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Java]] (1)
 > **Code Identifiers:** clothingitems (7), shirtitem (4), checkoutallitems (4), clothingitem (3), shirtitem2 (2)
-> **Code Keywords:** extends (3), pass (3), this, (2), class, (1), class. (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** previous video (1)
@@ -779,8 +782,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (2), next (1)
 > **Code Identifiers:** getprice (3), tostring (2), flattenlist (2), gettotalprice (2), flattenedlist (2)
-> **Code Keywords:** class, (3), abstract (2), pass (2), class. (1), finally, (1)
 > **Definitions:** is called (2), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -826,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (1), type, (1), type. (1), extends (1)
+> **Frameworks & Libraries:** generic (2), next (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** flattenlist (3), gettotalprice (1)
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **CLI Commands:** make (1)
@@ -836,7 +839,7 @@ created: 2026-04-29
 
 ### 3. Advanced Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collections in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980)
@@ -915,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (2), interface (2), abstract (2), case, (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), data (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (5)
 > **Prerequisites:** before we start (1)
@@ -1008,7 +1011,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (11), let (2)
 > **Code Identifiers:** getfirst (1), getlast (1)
 > **Speakers:** - first (1)
 
@@ -1127,7 +1129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (14), let (6), function (2), case, (1), case. (1)
+> **Frameworks & Libraries:** product (5), data (1), [[Java]] (1), [[Microsoft Word|Word]] (1), application (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2), is called (1)
 > **Best Practices:** the key is (3)
@@ -1203,7 +1205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), pass (2), lambda (1), default, (1), interface (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** foreach (1), getfirst (1), getlast (1)
 > **Cross-References:** previous video (2), in the next (1)
 > **Definitions:** is called (1), means that (1)
@@ -1271,8 +1273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Java]] (1), [[Test-Driven Development]] (1)
 > **Code Identifiers:** getvotes (2), assertequals (2), votingsystem (2), keyset (1), votingsystemtest (1)
-> **Code Keywords:** finally, (1), case, (1), pass (1), this, (1)
 > **Analogies:** for example (3)
 > **Env Vars:** ide (2)
 > **Cross-References:** in the next (1)
@@ -1335,7 +1337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), this. (1), pass (1), class. (1)
+> **Frameworks & Libraries:** next (2)
 > **Best Practices:** the key is (2)
 > **Non-Speech:** (upbeat synth music) (1), (music ends) (1)
 > **UI Navigation:** go to (1)
@@ -1344,7 +1346,7 @@ created: 2026-04-29
 
 ### 4. Functional Programming in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional Interfaces in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/functional-interfaces-in-java?u=76281980)
@@ -1431,7 +1433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (12), class, (4), abstract (3), new, (2), pass (2)
+> **Frameworks & Libraries:** functional (4), [[Java]] (3), [[Programming]] (1), next (1)
 > **Code Identifiers:** printmessage (3), helloworldgreeting (2), goodmorninggreeting (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -1502,7 +1504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), pass (2), function (1), this, (1)
+> **Frameworks & Libraries:** functional (1)
 > **Definitions:** is a  (2), is called (1)
 > **Speakers:** - now (1)
 
@@ -1591,7 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (5), static (5), pass (4), let (2), class. (2)
+> **Frameworks & Libraries:** [[Java]] (3), functional (2), feature (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** foreach (3)
 > **Definitions:** is a  (3)
 > **Tools:** intellij (1), terminal (1)
@@ -1641,9 +1643,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Java]] (1), api (1)
 > **Tools:** terminal (4)
 > **Analogies:** for example (2), similar to (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** foreach (1)
 > **Env Vars:** api (1)
 > **Definitions:** is an  (1)
@@ -1767,7 +1769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), lambda (2), class, (1), static (1)
+> **Frameworks & Libraries:** api (2), next (2)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **Env Vars:** api (2)
 > **Tools:** terminal (1)
@@ -1837,7 +1839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), class, (2), class. (1), let (1), try. (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** testsorted (1), streamutiles (1), assertequals (1), tolist (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1948,7 +1950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (4), class. (1), class, (1), lambda (1)
+> **Frameworks & Libraries:** next (2), [[Functional Programming]] (1)
 > **Code Identifiers:** startswith (2), tolist (2), testbeginninhwitht (1), testuppercase (1), testeverythingcombined (1)
 > **Cross-References:** go back to (3), previous video (1)
 > **Definitions:** is called (3)
@@ -1959,7 +1961,7 @@ created: 2026-04-29
 
 ### 5. Concurrency in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to concurrency in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-concurrency-in-java?u=76281980)
@@ -2028,10 +2030,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), data (2), [[Programming]] (1), api (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else, (1), interface (1)
 > **Env Vars:** gui (1), api (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
@@ -2099,7 +2101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (3), extends (2), class. (2), pass (2), let (1)
+> **Frameworks & Libraries:** [[Java]] (2), application (1)
 > **Code Identifiers:** threadone (3), threadtwo (3), setname (2), getname (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -2162,7 +2164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), lambda (5), class. (4), let (3), class, (3)
+> **Frameworks & Libraries:** functional (3)
 > **UI Navigation:** go to (3), click on (1)
 > **Code Identifiers:** getname (1), threadone (1), threadtwo (1)
 > **Cross-References:** go back to (2), previous chapter (1)
@@ -2238,7 +2240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (2), static (2), this. (1), class, (1)
+> **Frameworks & Libraries:** [[Java]] (2), application (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Cross-References:** previous video (1)
@@ -2337,7 +2339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), finally, (2), class, (2), for. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Env Vars:** atm (5)
 > **Code Identifiers:** getbalance (4)
 > **CLI Commands:** make (2)
@@ -2397,7 +2399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), this, (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** next (2), application (1)
 > **Definitions:** is called (2), is a  (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), in the next (1)
@@ -2466,7 +2468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (1), static (1), lambda (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** executorservice (3), stockchecker (2), newfixedthreadpool (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - so (1)
@@ -2474,7 +2476,7 @@ created: 2026-04-29
 
 ### 6. Input and Output
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding I/O in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-i-o-in-java?u=76281980)
@@ -2517,7 +2519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (4)
+> **Frameworks & Libraries:** data (8), application (1), [[Java]] (1), api (1)
 > **Analogies:** for example (1), similar to (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
@@ -2629,8 +2631,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), prompt (2), application (1), [[Java]] (1)
 > **Code Identifiers:** nextline (9), nextint (6)
-> **Code Keywords:** pass (6), let (3), class. (1), break. (1)
 > **Definitions:** is an  (1), is called (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** imagine (1)
@@ -2757,7 +2759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), case, (2), this, (2), let (1), from. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Java]] (2), [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** readline (3), stringbuilder (3), printstacktrace (1), firstline (1), foreach (1)
 > **Definitions:** is a  (3), is called (1)
 > **File Paths:** example.txt (2)
@@ -2803,8 +2805,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Microsoft Word|Word]] (2), database (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** try. (1), try, (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2851,9 +2853,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3)
 > **Definitions:** is called (3), is a  (2)
 > **File Paths:** scanner.txt (2)
-> **Code Keywords:** let (1), pass (1)
 > **Cross-References:** in the next (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2965,8 +2967,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Java]] (1)
 > **Code Identifiers:** stringbuilder (5), getfirstline (2), firstline (2), printstacktrace (2), getwholefile (2)
-> **Code Keywords:** let (6), class, (3), pass (3), class. (2), try, (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is called (2)
 > **File Paths:** bufferedreadervsscanner.txt (1)
@@ -2977,7 +2979,7 @@ created: 2026-04-29
 
 ### 7. Working with Files and Directories
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with files in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-files-in-java?u=76281980)
@@ -3012,7 +3014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), class, (1)
+> **Frameworks & Libraries:** [[Java]] (9), api (1)
 > **URLs:** [java.io](https://java.io) (3)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -3096,7 +3098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), static (2), if. (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Software Development]] (1)
 > **Code Identifiers:** createfile (2), filealreadyexists (1), notexists (1)
 > **File Paths:** example.txt (3)
 > **CLI Commands:** make (1)
@@ -3209,7 +3211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (5), static (4), this, (2), throw (2)
+> **Frameworks & Libraries:** [[Java]] (2), api (1)
 > **Analogies:** for example (3)
 > **Code Identifiers:** printstacktrace (1), isdirectory (1)
 > **Definitions:** is a  (2)
@@ -3285,7 +3287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (3), pass (3), class. (1), this, (1)
+> **Frameworks & Libraries:** [[Java]] (3), next (1)
 > **Env Vars:** txt (3)
 > **Tools:** intellij (1)
 > **Definitions:** is called (1)
@@ -3312,7 +3314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** example.txt (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -3401,8 +3403,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Java]] (2)
 > **Code Identifiers:** folderb (6), foldera (4), newpath (3), notexists (2), printstacktrace (1)
-> **Code Keywords:** pass (7), let (3), throw (1), else. (1), if, (1)
 > **File Paths:** example.txt (2), foldera/example.txt (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - let (1)
@@ -3411,7 +3413,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980)
@@ -3436,6 +3438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), next (1), [[LinkedIn]] (1), [[Programming]] (1), [[Databases]] (1)
 > **CLI Commands:** docker (2)
 > **Analogies:** for example (2)
 > **Env Vars:** jdbc (1)

@@ -31,7 +31,7 @@ tags:
   - skill/professional-networking
   - skill/linkedin
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Rock%20Your%20LinkedIn%20Profile.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Connect to opportunity with LinkedIn
-  - What to know before getting started on LinkedIn
+  - [Connect to opportunity with LinkedIn](#connect-to-opportunity-with-linkedin)
+  - [What to know before getting started on LinkedIn](#what-to-know-before-getting-started-on-linkedin)
 - [**1. Build Your Brand into Your LinkedIn Profile**](#1-build-your-brand-into-your-linkedin-profile) (2 videos)
-  - Elevate your presence: Use profile to build your brand
-  - Transform your profile into a story that stands out
+  - [Elevate your presence: Use profile to build your brand](#elevate-your-presence-use-profile-to-build-your-brand)
+  - [Transform your profile into a story that stands out](#transform-your-profile-into-a-story-that-stands-out)
 - [**2. Craft Your LinkedIn Profile Intro**](#2-craft-your-linkedin-profile-intro) (5 videos)
-  - Add a photo to stand out
-  - Get recognized with name pronunciation
-  - Craft an attention grabbing headline
-  - Signal that you're open to work
-  - Add your pronouns to your LinkedIn profile
+  - [Add a photo to stand out](#add-a-photo-to-stand-out)
+  - [Get recognized with name pronunciation](#get-recognized-with-name-pronunciation)
+  - [Craft an attention grabbing headline](#craft-an-attention-grabbing-headline)
+  - [Signal that you're open to work](#signal-that-youre-open-to-work)
+  - [Add your pronouns to your LinkedIn profile](#add-your-pronouns-to-your-linkedin-profile)
 - [**3. Craft Your Profile Summary and Feature Content on LinkedIn**](#3-craft-your-profile-summary-and-feature-content-on-linkedin) (3 videos)
-  - Introduce yourself with a profile summary
-  - Craft a summary that reflects who you are
-  - Highlight key achievements with featured content
+  - [Introduce yourself with a profile summary](#introduce-yourself-with-a-profile-summary)
+  - [Craft a summary that reflects who you are](#craft-a-summary-that-reflects-who-you-are)
+  - [Highlight key achievements with featured content](#highlight-key-achievements-with-featured-content)
 - [**4. Outline Your Career Journey**](#4-outline-your-career-journey) (4 videos)
-  - Use your work experience to tell a story
-  - Add your work experience to showcase what you do best
-  - Incorporate career breaks into your LinkedIn profile
-  - Highlight social impact with volunteer experience
+  - [Use your work experience to tell a story](#use-your-work-experience-to-tell-a-story)
+  - [Add your work experience to showcase what you do best](#add-your-work-experience-to-showcase-what-you-do-best)
+  - [Incorporate career breaks into your LinkedIn profile](#incorporate-career-breaks-into-your-linkedin-profile)
+  - [Highlight social impact with volunteer experience](#highlight-social-impact-with-volunteer-experience)
 - [**5. Build Credibility with Skills, Endorsements, and Recommendations**](#5-build-credibility-with-skills-endorsements-and-recommendations) (3 videos)
-  - Showcase your expertise with skills and endorsements
-  - Get recommendations to build credibility
-  - Build trust with verifications
+  - [Showcase your expertise with skills and endorsements](#showcase-your-expertise-with-skills-and-endorsements)
+  - [Get recommendations to build credibility](#get-recommendations-to-build-credibility)
+  - [Build trust with verifications](#build-trust-with-verifications)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps for LinkedIn success
+  - [Next steps for LinkedIn success](#next-steps-for-linkedin-success)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to opportunity with LinkedIn
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/connect-to-opportunity-with-linkedin?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), career (2), next (1)
 > **Speakers:** - you (1)
 
 #### What to know before getting started on LinkedIn
@@ -138,9 +138,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Privacy]] (2), [[Security]] (2), next (1), ai (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** getting started (2), set up (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - before (1)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Build Your Brand into Your LinkedIn Profile
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elevate your presence: Use profile to build your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980)
@@ -213,10 +213,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Cross-References:** coming up (1), we discussed (1)
 > **Analogies:** think of it as (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - a (1)
 
@@ -293,15 +293,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (7), career (2), strengths (1), [[Microsoft Word|Word]] (1), feature (1)
 > **Analogies:** think of it as (1), such as (1)
 > **CLI Commands:** snap (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - connection (1)
 
 
 ### 2. Craft Your LinkedIn Profile Intro
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add a photo to stand out
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-a-photo-to-stand-out?u=76281980)
@@ -382,8 +382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (5), hit (2), [[Search]] (1), data (1), feature (1)
 > **CLI Commands:** snap (2), make (2), find (1)
-> **Code Keywords:** this. (2), let (1), case, (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Analogies:** picture (2)
 > **Best Practices:** the key is (1)
@@ -462,9 +462,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (6), feature (3), next (1)
 > **Speakers:** - you (1), - [jahayra] (1), - [instructor] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -569,8 +569,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), data (3), ai (3), [[Search]] (1), [[Personal Branding]] (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** this, (1), let (1), finally, (1)
 > **Env Vars:** icu (2), b2b (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** think of it as (1), for example (1)
@@ -646,7 +646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), web (4), [[Search]] (2), next (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** apac (1)
 > **Speakers:** - did (1)
@@ -698,7 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), this, (1), let (1), case, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), feature (1)
 > **UI Navigation:** scroll down (1), dropdown (1), click on (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -707,7 +707,7 @@ created: 2026-04-29
 
 ### 3. Craft Your Profile Summary and Feature Content on LinkedIn
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduce yourself with a profile summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/introduce-yourself-with-profile-summary?u=76281980)
@@ -798,8 +798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), career (1), business (1), next (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (2), this, (1), this. (1), self (1)
 > **Env Vars:** ceo (1), stem (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -931,8 +931,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[LinkedIn]] (3), [[Sustainability]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** finally, (2), let (2), this. (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **Best Practices:** don't forget (1)
@@ -1060,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1), super (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[LinkedIn]] (4), next (3), feature (2), power (1)
 > **UI Navigation:** scroll down (2), select the (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** don't forget (1)
@@ -1069,7 +1069,7 @@ created: 2026-04-29
 
 ### 4. Outline Your Career Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use your work experience to tell a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980)
@@ -1178,7 +1178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), business (2), game (1), [[Microsoft Word|Word]] (1), teams (1)
 > **CLI Commands:** make (1)
 > **Versions:** 99.9 (1)
 > **Definitions:** is a  (1)
@@ -1327,7 +1327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** next (4), business (3), career (1), ai (1), [[Microsoft Copilot]] (1)
 > **UI Navigation:** scroll down (3), click on (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** pdf (3)
@@ -1413,7 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break, (3), break. (2), case, (2), let (1), break: (1)
+> **Frameworks & Libraries:** career (13), next (3), [[LinkedIn]] (1), web (1), management (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -1502,7 +1502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), raise (1), break. (1), break, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), next (2), [[Microsoft Office|Office]] (1), career (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** dropdown (2), select the (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1512,7 +1512,7 @@ created: 2026-04-29
 
 ### 5. Build Credibility with Skills, Endorsements, and Recommendations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Showcase your expertise with skills and endorsements
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980)
@@ -1655,7 +1655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), default, (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Figma (Software)|Figma]] (5), strengths (2), [[Graphic Design]] (2), career (2)
 > **UI Navigation:** drag and drop (2), click on (2), toggle (2), scroll down (1), select the (1)
 > **CLI Commands:** make (5), python (1)
 > **Tools:** figma (5)
@@ -1791,7 +1791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), this. (2), super (1)
+> **Frameworks & Libraries:** career (3), strengths (2), [[LinkedIn]] (2), [[E-Commerce]] (2), generic (1)
 > **Exercise Files:** template (3)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1869,7 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (8), next (1), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1), power (1)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
 > **Warnings:** keep in mind (1)
@@ -1878,7 +1878,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for LinkedIn success
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980)
@@ -1931,7 +1931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), this. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), ai (2), power (1), [[Microsoft Copilot]] (1), [[ChatGPT]] (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - congratulations (1)

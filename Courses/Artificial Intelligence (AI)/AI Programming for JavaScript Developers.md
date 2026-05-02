@@ -35,7 +35,7 @@ tags:
   - skill/javascript
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Programming%20for%20JavaScript%20Developers.md)
@@ -54,49 +54,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn to build AI-enhanced applications
-  - Understanding AI in the JavaScript ecosystem
-  - What you should know
+  - [Learn to build AI-enhanced applications](#learn-to-build-ai-enhanced-applications)
+  - [Understanding AI in the JavaScript ecosystem](#understanding-ai-in-the-javascript-ecosystem)
+  - [What you should know](#what-you-should-know)
 - [**1. Creating the App**](#1-creating-the-app) (5 videos)
-  - Installing OpenAI with npm
-  - Generating an API key
-  - Choosing and setting a language model
-  - How to use CoderPad
-  - Solution: Configuring AI Inputs
+  - [Installing OpenAI with npm](#installing-openai-with-npm)
+  - [Generating an API key](#generating-an-api-key)
+  - [Choosing and setting a language model](#choosing-and-setting-a-language-model)
+  - [How to use CoderPad](#how-to-use-coderpad)
+  - [Solution: Configuring AI Inputs](#solution-configuring-ai-inputs)
 - [**2. Working with Prompts**](#2-working-with-prompts) (8 videos)
-  - Writing functions
-  - Working with streams
-  - Creating a prompt
-  - Refactoring functions with code prompts
-  - Setting templates
-  - Challenge: Customizing questions
-  - Solution: Customizing questions
-  - Solution: Building OpenAI prompts
+  - [Writing functions](#writing-functions)
+  - [Working with streams](#working-with-streams)
+  - [Creating a prompt](#creating-a-prompt)
+  - [Refactoring functions with code prompts](#refactoring-functions-with-code-prompts)
+  - [Setting templates](#setting-templates)
+  - [Challenge: Customizing questions](#challenge-customizing-questions)
+  - [Solution: Customizing questions](#solution-customizing-questions)
+  - [Solution: Building OpenAI prompts](#solution-building-openai-prompts)
 - [**3. Incorporating APIs**](#3-incorporating-apis) (6 videos)
-  - Accepting user input with readline
-  - Creating image descriptions based on a URL
-  - Transcribing audio files with OpenAI
-  - Building a Node app to transcribe audio
-  - Using DALL-E 3 for image generation
-  - Solution: Connecting with APIs
+  - [Accepting user input with readline](#accepting-user-input-with-readline)
+  - [Creating image descriptions based on a URL](#creating-image-descriptions-based-on-a-url)
+  - [Transcribing audio files with OpenAI](#transcribing-audio-files-with-openai)
+  - [Building a Node app to transcribe audio](#building-a-node-app-to-transcribe-audio)
+  - [Using DALL-E 3 for image generation](#using-dall-e-3-for-image-generation)
+  - [Solution: Connecting with APIs](#solution-connecting-with-apis)
 - [**4. Customizing the Assistants API**](#4-customizing-the-assistants-api) (5 videos)
-  - Using the Assistants API playground
-  - Creating an assistant in a Node application
-  - Adding messages to threads
-  - Running and parsing the assistant response
-  - Solution: Working with the Assistants API
+  - [Using the Assistants API playground](#using-the-assistants-api-playground)
+  - [Creating an assistant in a Node application](#creating-an-assistant-in-a-node-application)
+  - [Adding messages to threads](#adding-messages-to-threads)
+  - [Running and parsing the assistant response](#running-and-parsing-the-assistant-response)
+  - [Solution: Working with the Assistants API](#solution-working-with-the-assistants-api)
 - [**5. Utilizing LangChain Features**](#5-utilizing-langchain-features) (5 videos)
-  - Setting up a LangChain project
-  - Creating a chat template
-  - Using runnable sequences
-  - Combining multiple chains
-  - Solution: Building a conversation pipeline
+  - [Setting up a LangChain project](#setting-up-a-langchain-project)
+  - [Creating a chat template](#creating-a-chat-template)
+  - [Using runnable sequences](#using-runnable-sequences)
+  - [Combining multiple chains](#combining-multiple-chains)
+  - [Solution: Building a conversation pipeline](#solution-building-a-conversation-pipeline)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to build AI-enhanced applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/learn-to-build-ai-enhanced-applications?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** ai (4), [[JavaScript]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [eve] (1)
 
@@ -178,8 +178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[ChatGPT]] (3), ai (2), [[OpenAI API]] (2), data (1)
 > **Env Vars:** api (6)
-> **Code Keywords:** this, (2), this. (1), continue (1), let (1)
 > **CLI Commands:** make (1), node (1)
 > **URLs:** [openai.com](https://openai.com) (1), [gmail.com](https://gmail.com) (1)
 > **File Paths:** node.js (1)
@@ -226,9 +226,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), [[Node.js]] (2), prompt (1)
 > **CLI Commands:** node (5), make (2), find (1)
 > **Tools:** vs code (2), terminal (1), command prompt (1), visual studio (1)
-> **Code Keywords:** class, (1), this, (1), from. (1)
 > **Prerequisites:** setup (2), set up (1)
 > **File Paths:** node.js (2)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
@@ -238,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Creating the App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing OpenAI with npm
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/installing-openai-with-npm?u=76281980)
@@ -287,8 +287,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), [[JSON]] (3), [[npm]] (2), next (2), ai (1)
 > **CLI Commands:** node (4), make (2), npm (2)
-> **Code Keywords:** module (2), interface (1), function (1), let (1)
 > **File Paths:** package.json (2), index.js (1)
 > **Env Vars:** json (1), api (1)
 > **Tools:** terminal (2)
@@ -369,8 +369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), node (3), [[Windows]] (2), ai (1), [[Google]] (1)
 > **Env Vars:** api (7)
-> **Code Keywords:** this. (2), pass (1), this, (1), let (1), delete (1)
 > **CLI Commands:** node (3), find (1)
 > **URLs:** [openai.com](https://openai.com) (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -447,7 +447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), switch (1), async (1), const (1), await (1)
+> **Frameworks & Libraries:** node (2), [[ChatGPT]] (2), api (1), hit (1), next (1)
 > **Env Vars:** openai_api (2), openai_api_key (1), api (1), dall (1), gpt (1)
 > **CLI Commands:** make (2), node (2), find (1)
 > **Versions:** 3.5 (2)
@@ -513,7 +513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), else. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** cat (1)
 > **Cross-References:** next video (1)
@@ -556,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), class, (1), pass (1), this. (1), const (1)
+> **Frameworks & Libraries:** api (4), next (2), [[OpenAI API]] (1)
 > **Env Vars:** api (5), gpt (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Versions:** 3.5 (1), 0.7 (1)
@@ -566,7 +566,7 @@ created: 2026-04-29
 
 ### 2. Working with Prompts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/writing-functions?u=76281980)
@@ -613,7 +613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), await (1), case, (1), return. (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (2), data (2), api (1), node (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Env Vars:** api (3)
 > **Tools:** terminal (1)
@@ -665,7 +665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), await (1), const (1), this. (1), let (1)
+> **Frameworks & Libraries:** data (6), [[OpenAI API]] (2), node (2), [[ChatGPT]] (1)
 > **CLI Commands:** make (3), node (2)
 > **Env Vars:** api (2)
 > **Tools:** terminal (2)
@@ -735,10 +735,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), [[ChatGPT]] (2), [[JavaScript]] (2), api (2), ai (1)
 > **Env Vars:** pep (3), api (2)
 > **CLI Commands:** make (3), node (1)
 > **Tools:** terminal (2)
-> **Code Keywords:** continue (1)
 > **Code Identifiers:** max_tokens (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -809,7 +809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (2), function (2), case, (1), this. (1)
+> **Frameworks & Libraries:** node (4), [[JavaScript]] (2), api (2), [[ChatGPT]] (1)
 > **CLI Commands:** node (4), make (2)
 > **Env Vars:** api (2), var (1)
 > **File Paths:** script.js (1)
@@ -874,7 +874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), this. (2), this, (1), continue (1)
+> **Frameworks & Libraries:** node (3), [[ChatGPT]] (2), [[JavaScript]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (4), node (3)
 > **Exercise Files:** template (4)
 > **Tools:** terminal (1)
@@ -900,8 +900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), prompt (1), [[Java]] (1), [[Rust (Programming Language)|Rust]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** try, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [narrator] (1)
@@ -1002,8 +1002,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), prompt (1), [[JavaScript]] (1), [[Zoom]] (1), node (1)
 > **CLI Commands:** make (6), python (4), node (1)
-> **Code Keywords:** let (4), function (3), await (1), pass (1)
 > **Env Vars:** api (1)
 > **Versions:** 4.0 (1)
 > **Tools:** terminal (1)
@@ -1064,7 +1064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** prompt (1), [[OpenAI API]] (1)
 > **Code Identifiers:** usercontent (2)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -1075,7 +1075,7 @@ created: 2026-04-29
 
 ### 3. Incorporating APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accepting user input with readline
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980)
@@ -1168,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), interface (2), await (1), continue (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[CLI]] (2), application (2), next (1), [[OpenAI API]] (1)
 > **CLI Commands:** node (5), make (2)
 > **File Paths:** node.js (4)
 > **Env Vars:** cli (2), api (1)
@@ -1274,7 +1274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), type: (2), let (2), await (1), type. (1)
+> **Frameworks & Libraries:** api (2), node (2), application (2), [[GPT-4]] (2), [[OpenAI API]] (1)
 > **Env Vars:** url (4), api (3), gpt (1)
 > **Code Identifiers:** imagedescription (3), image_url (1), max_tokens (1)
 > **CLI Commands:** node (2), make (2)
@@ -1360,9 +1360,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), next (4), ai (2), hit (2), data (1)
 > **Env Vars:** api (7), mp3 (3), http (2), url (1), eve (1)
 > **CLI Commands:** curl (4), make (2), node (1)
-> **Code Keywords:** type. (1), pass (1), let (1), type, (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** select the (1)
@@ -1500,8 +1500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), node (8), api (5), ai (4), next (2)
 > **Env Vars:** api (5), url (4), http (1), npm (1), https (1)
-> **Code Keywords:** let (4), function (4), module (2), while, (1), pass (1)
 > **CLI Commands:** node (8), npm (1), find (1), curl (1)
 > **Prerequisites:** install (4), set up (3), setup (1)
 > **Code Identifiers:** dotenv (4)
@@ -1612,8 +1612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (8), [[DALL-E]] (4), api (3), data (3), [[JSON]] (2)
 > **Env Vars:** dall (3), url (3), api (2), openai_api_key (1)
-> **Code Keywords:** let (3), finally, (2), else, (1), continue (1), this, (1)
 > **CLI Commands:** make (3), node (2), find (1)
 > **URLs:** [openai.com](https://openai.com) (2)
 > **Tools:** terminal (2)
@@ -1700,8 +1700,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), [[GPT-4]] (1), next (1), [[JSON]] (1), data (1)
 > **Code Identifiers:** image_url (3), imageurl (2), prepareaudiotranscription (2), createimagedescription (1), max_tokens (1)
-> **Code Keywords:** function (3), let (3), type: (1), interface (1), from. (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1)
 > **Prerequisites:** set up (1)
@@ -1711,7 +1711,7 @@ created: 2026-04-29
 
 ### 4. Customizing the Assistants API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Assistants API playground
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-the-assistants-api-playground?u=76281980)
@@ -1842,7 +1842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (3), function (2), this, (2), try. (1)
+> **Frameworks & Libraries:** api (4), data (3), ai (2), node (2), application (2)
 > **CLI Commands:** make (4), node (2)
 > **Env Vars:** api (4), post (1)
 > **File Paths:** index.js (1)
@@ -1920,7 +1920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), await (2), delete (1), pass (1)
+> **Frameworks & Libraries:** node (2), application (1), [[OpenAI API]] (1), api (1), chatbot (1)
 > **CLI Commands:** node (2), make (1)
 > **Code Identifiers:** betterspeaker (2), apikey (1)
 > **Env Vars:** api (2)
@@ -1995,7 +1995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), await (2), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), node (1), api (1)
 > **CLI Commands:** node (2), make (1)
 > **File Paths:** node.js (1)
 > **Env Vars:** api (1)
@@ -2113,7 +2113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), await (3), continue (1), function (1), this, (1)
+> **Frameworks & Libraries:** api (2), [[JavaScript]] (2), prompt (1), data (1), node (1)
 > **Code Identifiers:** thread_id (3), assistant_id (2), checkstatus (2), settimeout (2), createandrun (1)
 > **CLI Commands:** make (4), find (1), node (1)
 > **Env Vars:** api (2)
@@ -2185,7 +2185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), pass (3), finally, (1), return, (1)
+> **Frameworks & Libraries:** web (5), [[JavaScript]] (2), next (1), [[Programming]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2194,7 +2194,7 @@ created: 2026-04-29
 
 ### 5. Utilizing LangChain Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up a LangChain project
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980)
@@ -2257,7 +2257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), this. (2), const (2), await (2)
+> **Frameworks & Libraries:** [[LangChain]] (6), [[Python (Programming Language)|Python]] (2), ai (1), [[JavaScript]] (1), api (1)
 > **CLI Commands:** make (3), python (2), node (1)
 > **Code Identifiers:** chatmodel (2)
 > **Env Vars:** api (1), openai_api_key (1)
@@ -2341,7 +2341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), this, (1), const (1), await (1)
+> **Frameworks & Libraries:** [[LangChain]] (6), prompt (3), [[OpenAI API]] (1), data (1), node (1)
 > **Code Identifiers:** output_parsers (1), frommessages (1), const_parser (1), chatmodel (1)
 > **CLI Commands:** make (2), node (1)
 > **Env Vars:** api (2)
@@ -2396,7 +2396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4), interface (2), from. (1), function (1)
+> **Frameworks & Libraries:** prompt (6), [[LangChain]] (1), node (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** make (3), node (1)
 > **Definitions:** is a  (1)
@@ -2481,7 +2481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (3), continue (2), function (2), const (1)
+> **Frameworks & Libraries:** prompt (2), node (1), data (1), next (1)
 > **Code Identifiers:** bigchain (3), chatmodel (2), fromtemplate (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** node (1)
@@ -2586,7 +2586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), pass (4), this. (2), async (2)
+> **Frameworks & Libraries:** llm (5), [[LangChain]] (2), data (2), [[Metadata]] (2), next (1)
 > **Code Identifiers:** systemprompt (4), modelname (4), llm_config (2), usermessage (2), chat_template (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
@@ -2598,7 +2598,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980)
@@ -2649,7 +2649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4)
+> **Frameworks & Libraries:** ai (5), [[JavaScript]] (4), [[React.js|React]] (4), api (1), [[Prompt Engineering]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** api (1), guides (1)
 > **File Paths:** next.js (1)

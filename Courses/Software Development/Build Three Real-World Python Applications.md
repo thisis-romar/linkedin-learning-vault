@@ -34,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/application-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Build%20Three%20Real-World%20Python%20Applications.md)
@@ -53,56 +53,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Real-world Python applications
-  - What you should know
-  - GitHub Codespaces
+  - [Real-world Python applications](#real-world-python-applications)
+  - [What you should know](#what-you-should-know)
+  - [GitHub Codespaces](#github-codespaces)
 - [**1. Scraping the Wisdom Pet Medicine Website**](#1-scraping-the-wisdom-pet-medicine-website) (13 videos)
-  - What is web scraping?
-  - Introducing the Wisdom Pet Medicine website
-  - How to explore a webpage
-  - Understanding HTML code
-  - Understanding the requests package
-  - How to use the get() method
-  - How to retrieve webpage information
-  - How to retrieve HTML code
-  - How to use BeautifulSoup
-  - How to use find() and find_all() methods
-  - How to loop find_all() methods
-  - How to retrieve webpage links
-  - How to write HTML code to a text file
+  - [What is web scraping?](#what-is-web-scraping)
+  - [Introducing the Wisdom Pet Medicine website](#introducing-the-wisdom-pet-medicine-website)
+  - [How to explore a webpage](#how-to-explore-a-webpage)
+  - [Understanding HTML code](#understanding-html-code)
+  - [Understanding the requests package](#understanding-the-requests-package)
+  - [How to use the get() method](#how-to-use-the-get-method)
+  - [How to retrieve webpage information](#how-to-retrieve-webpage-information)
+  - [How to retrieve HTML code](#how-to-retrieve-html-code)
+  - [How to use BeautifulSoup](#how-to-use-beautifulsoup)
+  - [How to use find() and find_all() methods](#how-to-use-find-and-find_all-methods)
+  - [How to loop find_all() methods](#how-to-loop-find_all-methods)
+  - [How to retrieve webpage links](#how-to-retrieve-webpage-links)
+  - [How to write HTML code to a text file](#how-to-write-html-code-to-a-text-file)
 - [**2. Exploring Alpha Vantage API**](#2-exploring-alpha-vantage-api) (13 videos)
-  - What are APIs?
-  - Introducing Alpha Vantage API
-  - How to access Alpha Vantage data
-  - How to use an API key
-  - How to pull stock data with the alpha_vantage package: Part 1
-  - How to pull stock data with the alpha_vantage package: Part 2
-  - How to pull stock data with the requests package
-  - How to put stock data into a DataFrame
-  - How to use Alpha Vantage functions: Part 1
-  - How to use Alpha Vantage functions: Part 2
-  - How to use Alpha Vantage functions: Part 3
-  - Challenge: Analyze Microsoft stock
-  - Solution: Analyze Microsoft stock
+  - [What are APIs?](#what-are-apis)
+  - [Introducing Alpha Vantage API](#introducing-alpha-vantage-api)
+  - [How to access Alpha Vantage data](#how-to-access-alpha-vantage-data)
+  - [How to use an API key](#how-to-use-an-api-key)
+  - [How to pull stock data with the alpha_vantage package: Part 1](#how-to-pull-stock-data-with-the-alpha_vantage-package-part-1)
+  - [How to pull stock data with the alpha_vantage package: Part 2](#how-to-pull-stock-data-with-the-alpha_vantage-package-part-2)
+  - [How to pull stock data with the requests package](#how-to-pull-stock-data-with-the-requests-package)
+  - [How to put stock data into a DataFrame](#how-to-put-stock-data-into-a-dataframe)
+  - [How to use Alpha Vantage functions: Part 1](#how-to-use-alpha-vantage-functions-part-1)
+  - [How to use Alpha Vantage functions: Part 2](#how-to-use-alpha-vantage-functions-part-2)
+  - [How to use Alpha Vantage functions: Part 3](#how-to-use-alpha-vantage-functions-part-3)
+  - [Challenge: Analyze Microsoft stock](#challenge-analyze-microsoft-stock)
+  - [Solution: Analyze Microsoft stock](#solution-analyze-microsoft-stock)
 - [**3. Text Analysis on Great Expectations Novel**](#3-text-analysis-on-great-expectations-novel) (12 videos)
-  - What is text analysis?
-  - Introducing Project Gutenberg and "Great Expectations"
-  - How to pull text data
-  - How to clean text data
-  - How to create a word cloud
-  - How to improve a word cloud
-  - How to analyze word frequency
-  - How to perform Vader sentiment analysis
-  - How to build a corpus and dictionary for topic modeling
-  - How to perform topic modeling
-  - Challenge: Analyze "Sense and Sensibility"
-  - Solution: Analyze "Sense and Sensibility"
+  - [What is text analysis?](#what-is-text-analysis)
+  - [Introducing Project Gutenberg and "Great Expectations"](#introducing-project-gutenberg-and-great-expectations)
+  - [How to pull text data](#how-to-pull-text-data)
+  - [How to clean text data](#how-to-clean-text-data)
+  - [How to create a word cloud](#how-to-create-a-word-cloud)
+  - [How to improve a word cloud](#how-to-improve-a-word-cloud)
+  - [How to analyze word frequency](#how-to-analyze-word-frequency)
+  - [How to perform Vader sentiment analysis](#how-to-perform-vader-sentiment-analysis)
+  - [How to build a corpus and dictionary for topic modeling](#how-to-build-a-corpus-and-dictionary-for-topic-modeling)
+  - [How to perform topic modeling](#how-to-perform-topic-modeling)
+  - [Challenge: Analyze "Sense and Sensibility"](#challenge-analyze-sense-and-sensibility)
+  - [Solution: Analyze "Sense and Sensibility"](#solution-analyze-sense-and-sensibility)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Real-world Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980)
@@ -123,8 +123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (2), web (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - python (1)
 
@@ -149,10 +149,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Codespaces]] (3), data (1), [[Pandas (Software)|Pandas]] (1), application (1)
 > **CLI Commands:** python (3)
 > **Tools:** jupyter (1), github (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
@@ -266,10 +266,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (14), [[GitHub]] (11), [[Python (Programming Language)|Python]] (2), cloud (1)
 > **Tools:** github (11), jupyter (6)
 > **UI Navigation:** go to (5), click on (5), navigate to (3), switch to (1), double-click (1)
 > **CLI Commands:** make (4), python (2)
-> **Code Keywords:** this, (2), switch (1), continue (1), case, (1)
 > **Analogies:** for example (3), similar to (2)
 > **Definitions:** stands for (2), is a  (1), means that (1)
 > **File Paths:** api_key_example.txt (1), great_expectations.txt (1), sense_and_sensibility.txt (1)
@@ -278,7 +278,7 @@ created: 2026-04-29
 
 ### 1. Scraping the Wisdom Pet Medicine Website
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is web scraping?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980)
@@ -339,11 +339,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (15), [[HTML]] (9), data (7), [[Python (Programming Language)|Python]] (2), product (1)
 > **Env Vars:** html (9), http (2), api (1)
 > **CLI Commands:** python (2), make (2), ruby (1), find (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** case, (1), public (1)
 > **Cross-References:** later in (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - have (1)
@@ -399,9 +399,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), web (1), [[Search]] (1)
 > **UI Navigation:** navigate to (4), click on (2)
 > **Analogies:** such as (2), imagine (1), for example (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **URLs:** [wisdompetmed.com](https://wisdompetmed.com) (1)
 > **Env Vars:** url (1)
@@ -467,8 +467,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), web (3), [[Google]] (3), [[Microsoft]] (2), [[JavaScript]] (1)
 > **UI Navigation:** navigate to (6), click on (4), open the (2), go to (1), in the menu (1)
-> **Code Keywords:** this, (2), public (1), case, (1), switch (1), this. (1)
 > **Env Vars:** html (5)
 > **Tools:** safari (3)
 > **CLI Commands:** make (2)
@@ -517,9 +517,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (15), web (3), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
 > **Env Vars:** html (15)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** let (2), function (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -587,12 +587,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[Python (Programming Language)|Python]] (4), next (2), [[HTML]] (1), data (1)
 > **Prerequisites:** install (8)
 > **Tools:** jupyter (3), anaconda (3), colab (1)
 > **CLI Commands:** python (4), make (1), pip (1)
 > **Env Vars:** http (4), html (1), url (1)
 > **Non-Speech:** (mouse clicking) (2), (keyboard clicking) (1)
-> **Code Keywords:** let (1), this, (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 
@@ -651,7 +651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (2), this. (1), from. (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** url (4), http (2)
 > **API Endpoints:** get  (3)
 > **CLI Commands:** make (1)
@@ -739,11 +739,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), next (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** url (4), http (2), html (1)
 > **Definitions:** is a  (3), means that (1), stands for (1)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** make (3), python (1)
-> **Code Keywords:** this, (1), case, (1), for, (1), type, (1)
 > **Tools:** jupyter (2)
 > **Code Identifiers:** status_code (1)
 > **URLs:** [wisdompetmed.com](https://wisdompetmed.com) (1)
@@ -783,9 +783,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** html (7), utf (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### How to use BeautifulSoup
@@ -831,9 +831,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), [[Python (Programming Language)|Python]] (3), application (1)
 > **Env Vars:** html (7), bs4 (1)
 > **CLI Commands:** python (3), pip (1), make (1)
-> **Code Keywords:** this. (2), let (1), this, (1)
 > **Prerequisites:** install (3)
 > **Definitions:** stands for (1), is a  (1)
 > **Cross-References:** previous video (1)
@@ -910,8 +910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), web (2), [[Python (Programming Language)|Python]] (2), business (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (14), python (2)
-> **Code Keywords:** this, (3), this. (1), let (1), function (1), finally, (1)
 > **Env Vars:** html (7)
 > **Code Identifiers:** find_all (6)
 > **Tools:** jupyter (3)
@@ -1000,9 +1000,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Codespaces]] (1)
 > **CLI Commands:** find (3), make (3), python (1)
 > **Code Identifiers:** find_all (4), featured_testimonial (3)
-> **Code Keywords:** case, (1), class. (1), for. (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** similar to (2)
 > **Tools:** jupyter (1)
@@ -1064,8 +1064,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** url (7)
-> **Code Keywords:** from. (2), let (1), for, (1), this, (1), case, (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** find (3), make (1)
 > **URLs:** [lynda.com](https://lynda.com) (2), [wisdompetmed.com](https://wisdompetmed.com) (1)
@@ -1120,7 +1120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), else. (1), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (4), next (1), web (1), data (1)
 > **Env Vars:** html (4)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
@@ -1132,7 +1132,7 @@ created: 2026-04-29
 
 ### 2. Exploring Alpha Vantage API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are APIs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980)
@@ -1187,8 +1187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (14), web (8), [[Representational State Transfer (REST)|Rest]] (5), data (4), database (1)
 > **Env Vars:** api (14), rest (4)
-> **Code Keywords:** interface (3), let (1)
 > **Definitions:** is a  (1), is an  (1), stands for (1), is called (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1), python (1)
@@ -1277,11 +1277,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (15), data (4), [[Microsoft Products|Products]] (2), [[Google]] (2), [[Programming]] (1)
 > **Env Vars:** api (15), free (2), key (2), url (1), json (1)
 > **UI Navigation:** navigate to (3), click on (2)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), private (1)
 > **API Endpoints:** get  (2)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (2)
@@ -1347,9 +1347,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), api (9), data (4), next (3), [[Programming]] (2)
 > **CLI Commands:** python (12), find (3), php (1)
 > **Env Vars:** api (9), url (2), time_series_intraday (1), php (1), readme (1)
-> **Code Keywords:** function (8), finally, (1)
 > **UI Navigation:** navigate to (3), scroll down (2), click on (1)
 > **Analogies:** such as (3), for example (1)
 > **Documentation:** the documentation (1), the readme (1)
@@ -1459,8 +1459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (48), data (1), [[GitHub]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (48)
-> **Code Keywords:** require (3), this, (2), private (1), else. (1), let (1)
 > **CLI Commands:** make (7), python (1)
 > **File Paths:** api_key_example.txt (3)
 > **Tools:** jupyter (2), github (1)
@@ -1561,7 +1561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), finally, (2), this. (1), let (1), this, (1)
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (4), next (3), [[Pandas (Software)|Pandas]] (1), api (1)
 > **CLI Commands:** python (4), pip (1), make (1)
 > **Env Vars:** ts1 (2), api (1), aapl (1)
 > **Code Identifiers:** alpha_vantage (2), get_monthly (1)
@@ -1611,8 +1611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), api (3), next (1), [[GitHub]] (1)
 > **Env Vars:** api (3), ts1 (2), aapl (2)
-> **Code Keywords:** this, (2), let (1)
 > **CLI Commands:** make (2)
 > **Ports:** :25 (2)
 > **Tools:** github (1)
@@ -1722,8 +1722,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), api (6), next (6), [[Python (Programming Language)|Python]] (2), [[JSON]] (2)
 > **Env Vars:** url (13), api (6), ibm (3), json (2), aapl (1)
-> **Code Keywords:** function (5), finally, (5), this, (2), case, (2), this. (1)
 > **CLI Commands:** make (4), python (2)
 > **Analogies:** similar to (2), such as (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -1824,8 +1824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (36), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (2), api (2), next (2)
 > **Code Identifiers:** meta_data (6), get_intraday (2), read_csv (1), reset_index (1)
-> **Code Keywords:** function (4), this, (3), let (1), this. (1)
 > **CLI Commands:** make (6), python (2)
 > **Env Vars:** url (3), aapl (3), api (2)
 > **UI Navigation:** scroll down (1)
@@ -1906,7 +1906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), this, (2), let (1), case, (1)
+> **Frameworks & Libraries:** data (4), [[Codespaces]] (2), next (2), api (1), [[Financial Statements]] (1)
 > **Analogies:** such as (6), similar to (1)
 > **Env Vars:** eps (2), api (1), earnings (1), fx_daily (1)
 > **CLI Commands:** find (2), make (1)
@@ -1974,7 +1974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), continue (1), this, (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** data (3), [[Cryptocurrency]] (2), product (2), next (1)
 > **Env Vars:** gdp (3), usd (2), cpi (2), btc (1)
 > **Definitions:** means that (2), stands for (1), known as (1)
 > **Analogies:** such as (2), similar to (1), for example (1)
@@ -2086,7 +2086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), case, (5), this, (1)
+> **Frameworks & Libraries:** data (2), next (2)
 > **Env Vars:** rocr (2), aapl (2), news_sentiment (1), url (1), sma (1)
 > **Versions:** 157.029 (1), 160.1863 (1), 0.9931 (1), 37.1661 (1), 39.7227 (1)
 > **Analogies:** for example (3), such as (2), similar to (1)
@@ -2162,7 +2162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), finally, (2), case, (2), type. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (9), next (4), api (2), data (2), [[Google]] (1)
 > **Env Vars:** api (2), url (2), msft (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -2228,7 +2228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (3), type, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (13), data (7), next (2), [[Programming]] (1)
 > **Env Vars:** msft (4), ts1 (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -2237,7 +2237,7 @@ created: 2026-04-29
 
 ### 3. Text Analysis on Great Expectations Novel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is text analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980)
@@ -2284,11 +2284,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Python (Programming Language)|Python]] (2), nlp (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** known as (1), is a  (1), stands for (1), is an  (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** nltk (2), nlp (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** function (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - in (1)
 
@@ -2339,10 +2339,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Codespaces]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (3), pip (1)
 > **UI Navigation:** navigate to (1), go to (1), click on (1), select the (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** ebooks (2)
 > **Env Vars:** url (1), utf (1)
 > **Exercise Files:** download the (2)
@@ -2401,8 +2401,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (3), [[Codespaces]] (2), application (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** great_expectations (2), great_expect (2), word_tokenize (1), vader_lexicon (1)
-> **Code Keywords:** finally, (2), this, (2), let (1)
 > **CLI Commands:** pip (2), make (1), python (1)
 > **Env Vars:** utf (2), lda (1), pil (1)
 > **Tools:** jupyter (3), anaconda (1)
@@ -2499,8 +2499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Microsoft Word|Word]] (8), [[Tokens]] (6), cloud (2), next (1)
 > **CLI Commands:** make (5), python (1)
-> **Code Keywords:** this, (3), finally, (2), function (1)
 > **Code Identifiers:** word_cloud_text (3), great_expect (1), word_tokenize (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -2585,7 +2585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), finally, (3), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (31), cloud (25), data (4), next (4), [[Tokens]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **Code Identifiers:** words_wc (1), word_cloud_text (1)
@@ -2663,7 +2663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), this, (2), def. (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (14), cloud (13), next (2)
 > **Code Identifiers:** man_in_top_hat (2), gray_color_func (2), font_size (1), random_state (1), background_color (1)
 > **CLI Commands:** make (4), pip (1)
 > **Prerequisites:** make sure you have (1), getting started (1)
@@ -2758,7 +2758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), data (3), [[Tokens]] (2), next (1)
 > **UI Navigation:** scroll down (2)
 > **Code Identifiers:** most_common (1)
 > **Definitions:** is a  (1)
@@ -2889,8 +2889,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (9), python (1)
-> **Code Keywords:** this, (3), finally, (2), function (1), case, (1)
 > **Versions:** 0.2 (2), 0.25 (2), 0.75 (2)
 > **Code Identifiers:** polarity_scores (1), positive_sentence (1)
 > **Definitions:** means that (2)
@@ -2981,8 +2981,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (11), next (6), [[Codespaces]] (1), cloud (1)
 > **CLI Commands:** make (7), find (2)
-> **Code Keywords:** function (7), finally, (1), this, (1)
 > **Code Identifiers:** text_processing (4)
 > **Analogies:** similar to (2), for example (1)
 > **Definitions:** is a  (1)
@@ -3112,8 +3112,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** lda (11)
-> **Code Keywords:** function (4), case, (2), for. (1), finally, (1), this, (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** such as (3)
 > **Code Identifiers:** u_mass (1), show_topics (1)
@@ -3182,8 +3182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Codespaces]] (2), [[Search]] (1), data (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this. (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (1), make sure you have (1)
 > **Cross-References:** in the next (1)
@@ -3312,7 +3312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (6), this. (2), finally, (1), case, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2), data (2), [[Tokens]] (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** most_common (1)
@@ -3324,7 +3324,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980)
@@ -3345,8 +3345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (2), [[GitHub]] (1), power (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** continue (1)
 > **Tools:** github (1)
 > **Speakers:** - that (1)
 

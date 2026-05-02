@@ -30,7 +30,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-word
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Word%20Essential%20Training%20(Microsoft%20365)%20(2023).md)
@@ -49,52 +49,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Create brilliant documents with Microsoft Word
-  - What you should know
-  - The future of Word
+  - [Create brilliant documents with Microsoft Word](#create-brilliant-documents-with-microsoft-word)
+  - [What you should know](#what-you-should-know)
+  - [The future of Word](#the-future-of-word)
 - [**1. Getting Started**](#1-getting-started) (3 videos)
-  - Open, close, and read documents
-  - Save new documents
-  - Use the Tell Me assistant
+  - [Open, close, and read documents](#open-close-and-read-documents)
+  - [Save new documents](#save-new-documents)
+  - [Use the Tell Me assistant](#use-the-tell-me-assistant)
 - [**2. Working with Text**](#2-working-with-text) (3 videos)
-  - Inserting new text
-  - Rearrange text with cut, copy, and paste
-  - Copy text from another source
+  - [Inserting new text](#inserting-new-text)
+  - [Rearrange text with cut, copy, and paste](#rearrange-text-with-cut-copy-and-paste)
+  - [Copy text from another source](#copy-text-from-another-source)
 - [**3. Formatting Text**](#3-formatting-text) (3 videos)
-  - Change font formatting
-  - Change text case
-  - Format text with styles
+  - [Change font formatting](#change-font-formatting)
+  - [Change text case](#change-text-case)
+  - [Format text with styles](#format-text-with-styles)
 - [**4. Working with Paragraph Text**](#4-working-with-paragraph-text) (4 videos)
-  - Change paragraph alignment
-  - Adjust line spacing
-  - Keep text together across page breaks
-  - Put text into columns
+  - [Change paragraph alignment](#change-paragraph-alignment)
+  - [Adjust line spacing](#adjust-line-spacing)
+  - [Keep text together across page breaks](#keep-text-together-across-page-breaks)
+  - [Put text into columns](#put-text-into-columns)
 - [**5. Formatting Pages**](#5-formatting-pages) (3 videos)
-  - Change page layout
-  - Use headers and footers
-  - Add page numbering
+  - [Change page layout](#change-page-layout)
+  - [Use headers and footers](#use-headers-and-footers)
+  - [Add page numbering](#add-page-numbering)
 - [**6. Creating Lists**](#6-creating-lists) (2 videos)
-  - Create bulleted and numbered lists
-  - Edit and format lists
+  - [Create bulleted and numbered lists](#create-bulleted-and-numbered-lists)
+  - [Edit and format lists](#edit-and-format-lists)
 - [**7. Illustrating Documents**](#7-illustrating-documents) (3 videos)
-  - Illustrate with a table
-  - Illustrate with images
-  - Adjust images in a document
+  - [Illustrate with a table](#illustrate-with-a-table)
+  - [Illustrate with images](#illustrate-with-images)
+  - [Adjust images in a document](#adjust-images-in-a-document)
 - [**8. Proofing Documents**](#8-proofing-documents) (3 videos)
-  - Set proofing and autocorrect options
-  - Make your document accessible
-  - Proof your document with Editor
+  - [Set proofing and autocorrect options](#set-proofing-and-autocorrect-options)
+  - [Make your document accessible](#make-your-document-accessible)
+  - [Proof your document with Editor](#proof-your-document-with-editor)
 - [**9. Sharing and Collaborating**](#9-sharing-and-collaborating) (4 videos)
-  - Print your documents
-  - Add password protection to a file
-  - Send documents via email
-  - Collaborate on documents in the cloud
+  - [Print your documents](#print-your-documents)
+  - [Add password protection to a file](#add-password-protection-to-a-file)
+  - [Send documents via email](#send-documents-via-email)
+  - [Collaborate on documents in the cloud](#collaborate-on-documents-in-the-cloud)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create brilliant documents with Microsoft Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Word]] (2), [[Newsletters]] (1), [[Microsoft 365]] (1)
 > **Speakers:** - [david] (1)
 
 #### What you should know
@@ -158,6 +159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Microsoft 365]] (5), [[LinkedIn]] (2), [[Microsoft Word]] (1), next (1)
 > **Exercise Files:** exercise files (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
@@ -206,7 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft Word|Word]] (3), [[Microsoft Excel|Excel]] (3), [[Microsoft Outlook|Outlook]] (3), teams (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -214,7 +216,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Open, close, and read documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980)
@@ -375,7 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default. (1), new, (1), default, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (3), [[Microsoft Word|Word]] (3), [[Search]] (3), web (3), [[Zoom]] (3)
 > **UI Navigation:** go to (5), scroll down (2), select the (1), scroll up (1)
 > **Exercise Files:** template (2), exercise files (2)
 > **CLI Commands:** find (2), make (1)
@@ -551,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (2), new. (1), type. (1)
+> **Frameworks & Libraries:** hit (5), [[Microsoft Word|Word]] (4), next (3), [[Microsoft Word]] (2), [[Search]] (2)
 > **Exercise Files:** template (4)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
@@ -633,8 +635,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (9), [[Microsoft]] (3), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (1), feature (1)
 > **UI Navigation:** go to (7), dropdown (1)
-> **Code Keywords:** let (3), from. (2), type, (1), for. (1)
 > **CLI Commands:** find (5)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** for example (2)
@@ -644,7 +646,7 @@ created: 2026-04-29
 
 ### 2. Working with Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inserting new text
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/inserting-new-text?u=76281980)
@@ -733,7 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (3), case, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (4), [[Microsoft Word]] (1), application (1)
 > **Analogies:** for example (4)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -905,7 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (5)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), next (1), hit (1), feature (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** right-click (4), go to (2), scroll down (1), scroll up (1), double-click (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Analogies:** picture (2), for example (1)
@@ -997,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), switch (1), default. (1), match. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), application (1), business (1), [[Real-Time]] (1), next (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** find (1)
@@ -1009,7 +1011,7 @@ created: 2026-04-29
 
 ### 3. Formatting Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change font formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980)
@@ -1176,8 +1178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Microsoft Word|Word]] (1), [[Real-Time]] (1)
 > **UI Navigation:** go to (6), dropdown (5), select the (4), toggle (1)
-> **Code Keywords:** let (6), default. (1), case, (1), from. (1), this. (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
@@ -1271,7 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (4), let (3), case, (2), switch (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), next (1)
 > **UI Navigation:** dropdown (5), toggle (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (2)
@@ -1420,8 +1422,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** dropdown (8), select the (3), go to (2), scroll down (1)
-> **Code Keywords:** let (4), from. (1), case, (1), new, (1)
 > **Analogies:** for example (2), just like (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -1430,7 +1432,7 @@ created: 2026-04-29
 
 ### 4. Working with Paragraph Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change paragraph alignment
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980)
@@ -1543,10 +1545,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), scroll down (2), select the (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (2)
 > **Definitions:** known as (2)
 > **Env Vars:** red30 (1)
@@ -1679,9 +1681,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), dropdown (3), scroll down (2)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (4), this, (1)
 > **Cross-References:** go back to (4)
 > **Versions:** 1.15 (2), 1.08 (1)
 > **Exercise Files:** template (3)
@@ -1769,7 +1771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (2), continue (1), default. (1)
+> **Frameworks & Libraries:** next (13), [[Representational State Transfer (REST)|Rest]] (4), feature (2), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (2), checkbox (2)
 > **CLI Commands:** find (2)
 > **Definitions:** known as (1)
@@ -1936,7 +1938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), break. (3), case, (1), default, (1), default. (1)
+> **Frameworks & Libraries:** next (3), ai (2), [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** dropdown (7), go to (4), select the (2), scroll down (1)
 > **Cross-References:** go back to (4)
 > **Prerequisites:** setup (3)
@@ -1947,7 +1949,7 @@ created: 2026-04-29
 
 ### 5. Formatting Pages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change page layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980)
@@ -2050,8 +2052,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Microsoft Word|Word]] (1), next (1), business (1)
 > **UI Navigation:** dropdown (3), scroll down (2), checkbox (1), select the (1), go to (1)
-> **Code Keywords:** let (5), else, (1), break, (1)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3)
@@ -2162,7 +2164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2)
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** scroll down (3), go to (1), checkbox (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** for example (3)
@@ -2281,8 +2283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (4), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), scroll down (2), dropdown (2), scroll up (1)
-> **Code Keywords:** let (2), from. (2), default. (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** red30 (1)
 > **Cross-References:** go back to (1)
@@ -2292,7 +2294,7 @@ created: 2026-04-29
 
 ### 6. Creating Lists
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create bulleted and numbered lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980)
@@ -2491,7 +2493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (6), let (5), this, (1), default. (1), from. (1)
+> **Frameworks & Libraries:** next (3), ai (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** go to (4), scroll down (1), select the (1), toggle (1)
 > **Analogies:** for example (4), just like (1)
 > **CLI Commands:** make (3), find (1)
@@ -2601,16 +2603,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (4), dropdown (2), select the (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (4), this, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Illustrating Documents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Illustrate with a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980)
@@ -2725,7 +2727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), continue (2), default, (1), return, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2), hit (1), [[Microsoft Excel|Excel]] (1), [[Real-Time]] (1)
 > **UI Navigation:** dropdown (6), go to (4)
 > **Analogies:** for example (3), just like (2)
 > **CLI Commands:** make (3)
@@ -2898,8 +2900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Microsoft Word|Word]] (3), [[Microsoft]] (2), ai (2)
 > **UI Navigation:** dropdown (3), go to (3), scroll down (2)
-> **Code Keywords:** let (5), break. (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), picture (1)
 > **Env Vars:** png (1), jpeg (1)
@@ -3096,9 +3098,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Word]] (2), next (1), ai (1), [[Real-Time]] (1)
 > **UI Navigation:** dropdown (11), go to (2), scroll down (1), click on (1)
 > **Analogies:** picture (11), for example (1)
-> **Code Keywords:** let (6), this, (3), default, (1), case, (1)
 > **CLI Commands:** make (6), find (1)
 > **Cross-References:** go back to (4)
 > **Definitions:** in other words (1), is a  (1), is an  (1)
@@ -3108,7 +3110,7 @@ created: 2026-04-29
 
 ### 8. Proofing Documents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set proofing and autocorrect options
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/set-proofing-and-autocorrect-options?u=76281980)
@@ -3289,7 +3291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (2), case, (1), this, (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), hit (5), [[Microsoft Word]] (1), product (1), next (1)
 > **Analogies:** for example (3)
 > **Env Vars:** r30 (2)
 > **Definitions:** known as (1), in other words (1)
@@ -3486,7 +3488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (4), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (6), right-click (2), dropdown (1)
 > **Analogies:** picture (6), for example (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -3612,7 +3614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), next (2), [[Microsoft Word]] (1), [[Microsoft 365]] (1), ai (1)
 > **UI Navigation:** go to (2), scroll down (2), dropdown (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -3621,7 +3623,7 @@ created: 2026-04-29
 
 ### 9. Sharing and Collaborating
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Print your documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/print-your-documents?u=76281980)
@@ -3710,7 +3712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this, (1), let (1)
+> **Frameworks & Libraries:** next (1), hit (1)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -3801,7 +3803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), this, (1), this. (1), match. (1), protected (1)
+> **Frameworks & Libraries:** cloud (3), hit (3), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (2), dropdown (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -3881,8 +3883,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Microsoft Outlook|Outlook]] (4), [[Microsoft Word]] (3), [[Microsoft 365]] (2), application (1)
 > **Env Vars:** pdf (6), fyi (1)
-> **Code Keywords:** switch (1), continue (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [david] (1)
 
@@ -4025,8 +4027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[Microsoft 365]] (5), [[Microsoft Word|Word]] (4), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Outlook|Outlook]] (3)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** switch (2), this, (1), default, (1), continue (1), let (1)
 > **UI Navigation:** dropdown (2), go to (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -4035,7 +4037,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980)
@@ -4060,7 +4062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Microsoft 365]] (4), [[Microsoft Word]] (2), power (1), [[LinkedIn]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 

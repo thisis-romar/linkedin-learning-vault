@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/trello
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Trello%20Essential%20Training.md)
@@ -48,53 +48,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What is Trello?
-  - Navigating Trello’s free vs. paid options
+  - [What is Trello?](#what-is-trello)
+  - [Navigating Trello’s free vs. paid options](#navigating-trellos-free-vs-paid-options)
 - [**1. The Basic Features of Trello Boards and Cards**](#1-the-basic-features-of-trello-boards-and-cards) (10 videos)
-  - Navigating the home page and creating your first board
-  - Navigating boards, lists, and cards
-  - Managing board settings and permissions
-  - Managing members, labels, and checklists
-  - Adding due dates, attachments, and card covers
-  - Creating and formatting card descriptions
-  - Moving and copying cards
-  - Communication, notifications, and watching
-  - Archiving cards, lists, and boards
-  - Trello card-sharing options
+  - [Navigating the home page and creating your first board](#navigating-the-home-page-and-creating-your-first-board)
+  - [Navigating boards, lists, and cards](#navigating-boards-lists-and-cards)
+  - [Managing board settings and permissions](#managing-board-settings-and-permissions)
+  - [Managing members, labels, and checklists](#managing-members-labels-and-checklists)
+  - [Adding due dates, attachments, and card covers](#adding-due-dates-attachments-and-card-covers)
+  - [Creating and formatting card descriptions](#creating-and-formatting-card-descriptions)
+  - [Moving and copying cards](#moving-and-copying-cards)
+  - [Communication, notifications, and watching](#communication-notifications-and-watching)
+  - [Archiving cards, lists, and boards](#archiving-cards-lists-and-boards)
+  - [Trello card-sharing options](#trello-card-sharing-options)
 - [**2. More Advanced Features**](#2-more-advanced-features) (8 videos)
-  - Managing workspaces, members, and creating collections
-  - Creating and using Trello card templates
-  - Linking Trello cards and boards together
-  - Searching and filtering boards and cards
-  - Forwarding messages to boards and creating cards
-  - Board background images and collections (paid feature)
-  - Trello keyboard shortcuts
-  - Tables, timelines, and other views (paid features only)
+  - [Managing workspaces, members, and creating collections](#managing-workspaces-members-and-creating-collections)
+  - [Creating and using Trello card templates](#creating-and-using-trello-card-templates)
+  - [Linking Trello cards and boards together](#linking-trello-cards-and-boards-together)
+  - [Searching and filtering boards and cards](#searching-and-filtering-boards-and-cards)
+  - [Forwarding messages to boards and creating cards](#forwarding-messages-to-boards-and-creating-cards)
+  - [Board background images and collections (paid feature)](#board-background-images-and-collections-paid-feature)
+  - [Trello keyboard shortcuts](#trello-keyboard-shortcuts)
+  - [Tables, timelines, and other views (paid features only)](#tables-timelines-and-other-views-paid-features-only)
 - [**3. Essential Trello Power-Ups**](#3-essential-trello-power-ups) (6 videos)
-  - Introduction to Trello Power-Ups
-  - The Trello Calendar Power-Up (with calendar integration)
-  - The Planyway Calendar Power-Up
-  - Syncing Planyway to Google Calendar
-  - The Card Repeater Power-Up for recurring tasks
-  - Integrating cloud services: Google Drive, Dropbox, and more
+  - [Introduction to Trello Power-Ups](#introduction-to-trello-power-ups)
+  - [The Trello Calendar Power-Up (with calendar integration)](#the-trello-calendar-power-up-with-calendar-integration)
+  - [The Planyway Calendar Power-Up](#the-planyway-calendar-power-up)
+  - [Syncing Planyway to Google Calendar](#syncing-planyway-to-google-calendar)
+  - [The Card Repeater Power-Up for recurring tasks](#the-card-repeater-power-up-for-recurring-tasks)
+  - [Integrating cloud services: Google Drive, Dropbox, and more](#integrating-cloud-services-google-drive-dropbox-and-more)
 - [**4. Automations and Custom Fields**](#4-automations-and-custom-fields) (6 videos)
-  - Introduction to Trello automation
-  - How to create a Trello automation rule
-  - How to create a custom Trello card button
-  - How to create a custom Trello board button
-  - How to create Trello list automation
-  - How to create Trello custom fields (paid upgrade)
+  - [Introduction to Trello automation](#introduction-to-trello-automation)
+  - [How to create a Trello automation rule](#how-to-create-a-trello-automation-rule)
+  - [How to create a custom Trello card button](#how-to-create-a-custom-trello-card-button)
+  - [How to create a custom Trello board button](#how-to-create-a-custom-trello-board-button)
+  - [How to create Trello list automation](#how-to-create-trello-list-automation)
+  - [How to create Trello custom fields (paid upgrade)](#how-to-create-trello-custom-fields-paid-upgrade)
 - [**5. Getting Things Done Using Trello and Kanban**](#5-getting-things-done-using-trello-and-kanban) (4 videos)
-  - Trello and the Kanban method
-  - Trello and GTD: Board setup and capture
-  - Trello and GTD: Clarify and organize
-  - Trello and GTD: Contexts, reflect, and engage
+  - [Trello and the Kanban method](#trello-and-the-kanban-method)
+  - [Trello and GTD: Board setup and capture](#trello-and-gtd-board-setup-and-capture)
+  - [Trello and GTD: Clarify and organize](#trello-and-gtd-clarify-and-organize)
+  - [Trello and GTD: Contexts, reflect, and engage](#trello-and-gtd-contexts-reflect-and-engage)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go from here
+  - [Where to go from here](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Trello?
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/what-is-trello?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Trello]] (3), teams (1), web (1), management (1), career (1)
 > **Speakers:** - [zach] (1)
 
 #### Navigating Trello’s free vs. paid options
@@ -153,6 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (13), management (1), [[Atlassian]] (1), feature (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [trello.com](https://trello.com) (2)
 > **Definitions:** is a  (1)
@@ -161,7 +162,7 @@ created: 2026-04-29
 
 ### 1. The Basic Features of Trello Boards and Cards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating the home page and creating your first board
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980)
@@ -222,8 +223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (15), web (2), application (1), [[Google]] (1), hit (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** try, (1), let (1), private (1), public (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Tools:** safari (1), firefox (1)
 > **Cross-References:** go back to (1)
@@ -304,7 +305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** [[Trello]] (10), prompt (4), [[Search]] (3), hit (2), next (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -370,9 +371,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (6), feature (3), teams (1), [[Search]] (1)
 > **UI Navigation:** click on (3), dropdown (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Managing members, labels, and checklists
@@ -494,8 +495,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (10), feature (4), [[Search]] (1), hit (1), next (1)
 > **UI Navigation:** go to (4), click on (3), scroll down (1)
-> **Code Keywords:** let (5), this. (1), from, (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -605,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (1), require (1), switch (1)
+> **Frameworks & Libraries:** [[Trello]] (7), feature (3), power (3), cloud (3), [[Google]] (3)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (4), go to (1)
 > **Analogies:** for example (4)
@@ -661,9 +662,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (4), [[WordPress]] (2), feature (1), hit (1), next (1)
 > **Analogies:** for example (3), similar to (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -768,8 +769,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (15), next (1), data (1)
 > **UI Navigation:** go to (9), drag and drop (1)
-> **Code Keywords:** let (4), new, (1)
 > **Analogies:** for example (4), just like (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -856,7 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this, (2), let (2)
+> **Frameworks & Libraries:** [[Trello]] (6), [[Slack]] (3), feature (2), hit (1)
 > **Tools:** slack (3), discord (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** just like (2), for example (1)
@@ -960,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), this. (1)
+> **Frameworks & Libraries:** hit (4), [[Trello]] (3), feature (2), [[Security]] (2)
 > **UI Navigation:** go to (3), scroll down (1), select the (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (2)
@@ -1033,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (1), private (1), public (1), let (1)
+> **Frameworks & Libraries:** [[Trello]] (8), feature (2), [[JSON]] (1), [[Slack]] (1), [[HTML]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** json (1), html (1)
@@ -1045,7 +1046,7 @@ created: 2026-04-29
 
 ### 2. More Advanced Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing workspaces, members, and creating collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980)
@@ -1146,7 +1147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), continue (1), this, (1), delete (1)
+> **Frameworks & Libraries:** [[Trello]] (17), feature (1), hit (1), [[Atlassian]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3), means that (1)
 > **UI Navigation:** go to (3)
@@ -1255,8 +1256,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (8), feature (1), power (1)
 > **Exercise Files:** template (13)
-> **Code Keywords:** let (7), function (1), this, (1), case, (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
@@ -1373,7 +1374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), this, (3), let (2), function (1), delete (1)
+> **Frameworks & Libraries:** [[Trello]] (9), feature (2), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** find (1)
@@ -1468,7 +1469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (3), match. (1), continue (1)
+> **Frameworks & Libraries:** [[Trello]] (7), [[Search]] (3), management (1), feature (1), power (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1564,8 +1565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (14), feature (2), next (1)
 > **UI Navigation:** go to (3), click on (1)
-> **Code Keywords:** let (2), function (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1633,7 +1634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1), this, (1), this. (1)
+> **Frameworks & Libraries:** feature (7), [[Trello]] (4), teams (1), next (1)
 > **Analogies:** for example (6)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (2), find (1)
@@ -1751,9 +1752,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Trello]] (7), [[Search]] (1), next (1), power (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2), select the (1), toggle (1)
-> **Code Keywords:** let (1), super (1), function (1)
 > **URLs:** [trello.com](https://trello.com) (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -1858,7 +1859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Trello]] (3), data (2), [[LinkedIn]] (2), power (1), management (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (2)
 > **Analogies:** similar to (2)
@@ -1870,7 +1871,7 @@ created: 2026-04-29
 
 ### 3. Essential Trello Power-Ups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Trello Power-Ups
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-power-ups?u=76281980)
@@ -1939,7 +1940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), function (2)
+> **Frameworks & Libraries:** power (15), [[Trello]] (6), [[Search]] (5), next (1), management (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (2)
@@ -2009,8 +2010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (14), [[Trello]] (9), [[Google]] (2), [[Search]] (1), next (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** function (1), for, (1)
 > **Code Identifiers:** icalendar (1), imac (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (2)
@@ -2101,8 +2102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (14), [[Trello]] (9), next (3), management (2), feature (1)
 > **Analogies:** similar to (2), for example (2), kind of like (1)
-> **Code Keywords:** let (1), this, (1), else, (1), this. (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), note that (1)
@@ -2217,8 +2218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (14), [[Google]] (6), power (3), hit (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), super (1), this, (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - [instructor] (1)
@@ -2310,7 +2311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (1)
+> **Frameworks & Libraries:** [[Trello]] (9), power (9), next (4), feature (1), [[Search]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** imagine (1), just like (1)
@@ -2392,7 +2393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), static (2), else. (1)
+> **Frameworks & Libraries:** power (8), [[Google Drive]] (8), [[Trello]] (7), [[Microsoft OneDrive|Onedrive]] (6), management (4)
 > **Definitions:** is a  (5), means that (1)
 > **Env Vars:** pdf (5)
 > **UI Navigation:** go to (2), select the (1)
@@ -2404,7 +2405,7 @@ created: 2026-04-29
 
 ### 4. Automations and Custom Fields
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Trello automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-automation?u=76281980)
@@ -2459,6 +2460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (4), power (4), [[Automation]] (2), next (2), management (1)
 > **Analogies:** for example (5), kind of like (1)
 > **Ports:** :55 (1)
 > **Cross-References:** in the next (1)
@@ -2572,7 +2574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2)
+> **Frameworks & Libraries:** [[Automation]] (4), [[Trello]] (2), power (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll up (1)
@@ -2666,8 +2668,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (3), [[Automation]] (3), hit (1)
 > **Exercise Files:** template (4)
-> **Code Keywords:** from, (1), let (1)
 > **Env Vars:** pdf (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** in the menu (1)
@@ -2736,7 +2738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** power (3), [[Trello]] (2), hit (2), [[Automation]] (1)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -2842,7 +2844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Automation]] (8), [[Trello]] (4), [[ChatGPT]] (1), power (1)
 > **UI Navigation:** go to (3), open the (1)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **CLI Commands:** find (1), make (1)
@@ -2976,8 +2978,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (4), feature (3), power (2)
 > **UI Navigation:** dropdown (5), checkbox (4), click on (1), open the (1)
-> **Code Keywords:** let (7), super (1), require (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), for example (1)
@@ -2987,7 +2989,7 @@ created: 2026-04-29
 
 ### 5. Getting Things Done Using Trello and Kanban
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Trello and the Kanban method
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980)
@@ -3088,7 +3090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), while, (1), this. (1)
+> **Frameworks & Libraries:** [[Trello]] (7), next (4), [[Code Review]] (2), management (2), [[Search]] (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (2), go back to (1)
@@ -3194,8 +3196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Trello]] (4), [[LinkedIn]] (2), management (1), [[Automation]] (1)
 > **Env Vars:** gtd (15)
-> **Code Keywords:** let (2), throw (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** just like (2)
 > **Prerequisites:** set up (2)
@@ -3356,9 +3358,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (9), [[Trello]] (2), [[ChatGPT]] (2), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gtd (10), gtv (1), pdf (1)
 > **Cross-References:** in the next (5), go back to (1)
-> **Code Keywords:** this. (1), while. (1), let (1), module (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -3521,8 +3523,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), management (7), [[Trello]] (4), [[Microsoft Office|Office]] (3), power (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), function (1), this, (1), pass (1)
 > **Env Vars:** gtd (5)
 > **Cross-References:** we talked about (1), go back to (1)
 > **Tools:** slack (1)
@@ -3533,7 +3535,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980)
@@ -3560,6 +3562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Trello]] (4), [[LinkedIn]] (2)
 > **Speakers:** - [instructor] (1)
 
 

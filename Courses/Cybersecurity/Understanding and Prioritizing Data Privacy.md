@@ -37,7 +37,7 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md)
@@ -56,42 +56,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Protect personal information and foster trust
-  - Privacy overview and basic definitions
-  - Privacy vs. data protection
+  - [Protect personal information and foster trust](#protect-personal-information-and-foster-trust)
+  - [Privacy overview and basic definitions](#privacy-overview-and-basic-definitions)
+  - [Privacy vs. data protection](#privacy-vs-data-protection)
 - [**1. Getting Comfortable with the Basics**](#1-getting-comfortable-with-the-basics) (5 videos)
-  - Data tells a story
-  - Data as intellectual property
-  - PII vs. PI vs. Personal Data
-  - Privacy vs. secrecy
-  - Integrating ethical AI reviews into your privacy practice
+  - [Data tells a story](#data-tells-a-story)
+  - [Data as intellectual property](#data-as-intellectual-property)
+  - [PII vs. PI vs. Personal Data](#pii-vs-pi-vs-personal-data)
+  - [Privacy vs. secrecy](#privacy-vs-secrecy)
+  - [Integrating ethical AI reviews into your privacy practice](#integrating-ethical-ai-reviews-into-your-privacy-practice)
 - [**2. Why Should Anyone Care About Privacy?**](#2-why-should-anyone-care-about-privacy) (6 videos)
-  - Data as a personal descriptor
-  - The organization’s perspective
-  - Privacy is contextual
-  - Trust, integrity, and ethical inputs and outcomes
-  - Gaining and maintaining or repairing consumer trust
-  - Consumers want transparency
+  - [Data as a personal descriptor](#data-as-a-personal-descriptor)
+  - [The organization’s perspective](#the-organizations-perspective)
+  - [Privacy is contextual](#privacy-is-contextual)
+  - [Trust, integrity, and ethical inputs and outcomes](#trust-integrity-and-ethical-inputs-and-outcomes)
+  - [Gaining and maintaining or repairing consumer trust](#gaining-and-maintaining-or-repairing-consumer-trust)
+  - [Consumers want transparency](#consumers-want-transparency)
 - [**3. What's the Harm? Does Privacy Matter in the Age of AI?**](#3-whats-the-harm-does-privacy-matter-in-the-age-of-ai) (5 videos)
-  - Protecting the story
-  - Vulnerability impacting a system
-  - Bad actors with data
-  - Response and repair after an incident
-  - Data is valuable and creates new economies
+  - [Protecting the story](#protecting-the-story)
+  - [Vulnerability impacting a system](#vulnerability-impacting-a-system)
+  - [Bad actors with data](#bad-actors-with-data)
+  - [Response and repair after an incident](#response-and-repair-after-an-incident)
+  - [Data is valuable and creates new economies](#data-is-valuable-and-creates-new-economies)
 - [**4. Privacy Solutions and Futures**](#4-privacy-solutions-and-futures) (7 videos)
-  - Trust, transparency, ethics, and accountability
-  - Planning for privacy as a company
-  - Understanding individual responsibilities in data privacy
-  - Embracing privacy engineering for effective data protection
-  - Moral crumple zones: Responsible building and ethics
-  - Emerging privacy technology
-  - PETS
+  - [Trust, transparency, ethics, and accountability](#trust-transparency-ethics-and-accountability)
+  - [Planning for privacy as a company](#planning-for-privacy-as-a-company)
+  - [Understanding individual responsibilities in data privacy](#understanding-individual-responsibilities-in-data-privacy)
+  - [Embracing privacy engineering for effective data protection](#embracing-privacy-engineering-for-effective-data-protection)
+  - [Moral crumple zones: Responsible building and ethics](#moral-crumple-zones-responsible-building-and-ethics)
+  - [Emerging privacy technology](#emerging-privacy-technology)
+  - [PETS](#pets)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Guardians of trust
+  - [Guardians of trust](#guardians-of-trust)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect personal information and foster trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/protect-personal-information-and-foster-trust?u=76281980)
@@ -114,6 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (5), data (4)
 > **Analogies:** such as (1)
 > **Speakers:** - welcome (1)
 
@@ -184,7 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (17), [[Privacy]] (12), [[Ethics]] (2), [[Privacy Issues]] (1), [[Sustainability]] (1)
 > **Env Vars:** pii (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -225,6 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (12), data (12), [[Security]] (2), management (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - privacy (1)
@@ -232,7 +234,7 @@ created: 2026-04-29
 
 ### 1. Getting Comfortable with the Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data tells a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/data-tells-a-story?u=76281980)
@@ -269,7 +271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (8), [[Privacy]] (7), [[Ethics]] (1), power (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - who (1)
 
@@ -316,7 +318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** data (22), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Privacy]] (1), [[Accountability]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - in (1)
 
@@ -377,10 +379,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Privacy]] (9), [[Security]] (2), [[Forms]] (1), [[Accountability]] (1)
 > **Env Vars:** pii (11), gdpr (2)
 > **Analogies:** such as (3), for example (1), for instance (1)
 > **Definitions:** refers to (2)
-> **Code Keywords:** extends (1)
 > **Tools:** notion (1)
 > **Speakers:** - it (1)
 
@@ -443,7 +445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), extends (1), protected (1), type, (1)
+> **Frameworks & Libraries:** [[Privacy]] (11), data (10), power (1), [[Security]] (1), [[Accountability]] (1)
 > **Analogies:** such as (1), for instance (1), for example (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
@@ -512,8 +514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), [[Privacy]] (15), data (14), [[Algorithms]] (3), next (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
@@ -521,7 +523,7 @@ created: 2026-04-29
 
 ### 2. Why Should Anyone Care About Privacy?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data as a personal descriptor
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/data-as-a-personal-descriptor?u=76281980)
@@ -574,6 +576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Privacy]] (3), [[Wellness]] (2), [[Continuous Monitoring]] (1), power (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - personal (1)
@@ -623,8 +626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Privacy]] (5), [[Security]] (3), management (3), teams (2)
 > **Env Vars:** cpo (1), ciso (1), pia (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - organizations (1)
 
 #### Privacy is contextual
@@ -680,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), public (4), let (1), protected (1), case. (1)
+> **Frameworks & Libraries:** data (16), [[Privacy]] (10), [[Professional Networking]] (1), ai (1), [[Algorithms]] (1)
 > **Analogies:** for instance (1), such as (1), for example (1)
 > **Env Vars:** hipaa (1)
 > **Speakers:** - context (1)
@@ -750,9 +753,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Privacy]] (3), [[Accountability]] (1), next (1)
 > **Analogies:** for example (3), for instance (2)
 > **Definitions:** refers to (1), means that (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - trust (1)
 
 #### Gaining and maintaining or repairing consumer trust
@@ -826,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), return, (1), delete (1), protected (1)
+> **Frameworks & Libraries:** data (18), [[Privacy]] (7), [[Security]] (4), [[Building Trust]] (2), business (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - privacy (1)
@@ -864,15 +867,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Privacy]] (5), mobile application (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** protected (1)
 > **Speakers:** - transparency (1)
 
 
 ### 3. What's the Harm? Does Privacy Matter in the Age of AI?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting the story
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/protecting-the-story?u=76281980)
@@ -953,8 +956,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), career (2), [[Privacy]] (2), [[Security]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for instance (2), for example (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** adp (1)
 > **Speakers:** - personal (1)
 
@@ -1003,9 +1006,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (1), web (1), cloud (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (2)
-> **Code Keywords:** case, (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - data (1)
 
@@ -1042,6 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Privacy]] (2), power (1), [[Accountability]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
@@ -1092,7 +1096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), public (1)
+> **Frameworks & Libraries:** data (8), [[Incident Response]] (2), [[Security]] (1), [[Phishing]] (1), [[React.js|React]] (1)
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - so (1)
 
@@ -1137,16 +1141,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Privacy]] (8), [[Microsoft Products|Products]] (2), [[Analytics]] (1)
 > **Env Vars:** gdpr (1), lgpd (1), ccpa (1), bipa (1)
 > **Analogies:** for example (1), for instance (1)
-> **Code Keywords:** new, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
 
 
 ### 4. Privacy Solutions and Futures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Trust, transparency, ethics, and accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/trust-transparency-ethics-and-accountability?u=76281980)
@@ -1201,10 +1205,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Privacy]] (11), [[Accountability]] (4), [[Ethics]] (3), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** for example (3), such as (1), for instance (1)
 > **Env Vars:** dpo (1), gdpr (1), lgpd (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** protected (1)
 > **Speakers:** - a (1)
 
 #### Planning for privacy as a company
@@ -1256,7 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Privacy]] (15), data (10), teams (2), [[Regulatory Compliance]] (1), [[Accountability]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1)
 > **Analogies:** for example (1)
 > **Speakers:** - establishing (1)
@@ -1296,6 +1300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Privacy]] (5), [[Microsoft Office|Office]] (1), business (1), [[Accountability]] (1)
 > **Analogies:** imagine (1), for example (1), such as (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cio (1)
@@ -1379,9 +1384,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (21), data (18), [[Engineering]] (5), business (2), teams (2)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** pia (1)
 > **Speakers:** - understanding (1)
 
@@ -1442,8 +1447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Privacy]] (3), data (3), [[Accountability]] (1), [[Privacy Issues]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
@@ -1494,6 +1499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (12), data (6), [[Engineering]] (3), management (2), [[Ethics]] (1)
 > **Env Vars:** linddun (1), ieee (1), nist (1), iso (1)
 > **Analogies:** for instance (2), such as (1)
 > **Speakers:** - as (1)
@@ -1555,6 +1561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (17), data (11), business (3), [[Ethics]] (2), [[Engineering]] (2)
 > **Analogies:** for example (2), such as (1)
 > **URLs:** [privacycode.ai](https://privacycode.ai) (1)
 > **Env Vars:** pet (1)
@@ -1563,7 +1570,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Guardians of trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/guardians-of-trust?u=76281980)
@@ -1582,7 +1589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), let (1)
+> **Frameworks & Libraries:** data (4), [[Privacy]] (1), power (1), [[LinkedIn]] (1)
 > **CLI Commands:** go build (1)
 > **Speakers:** - thank (1)
 

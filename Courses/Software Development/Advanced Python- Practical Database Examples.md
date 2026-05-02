@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/database-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Practical%20Database%20Examples.md)
@@ -50,50 +50,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Use databases to level up your Python applications
+  - [Use databases to level up your Python applications](#use-databases-to-level-up-your-python-applications)
 - [**1. Creating an API that Serves Data from a Database with FastAPI**](#1-creating-an-api-that-serves-data-from-a-database-with-fastapi) (12 videos)
-  - What is an API?
-  - API frameworks in Python
-  - Set up FastAPI in a Python application
-  - Define a database schema
-  - Create a MySQL database
-  - Create an API contract
-  - Build a POST endpoint with FastAPI
-  - Call a new API using Postman
-  - Add data to a database in Python using SQLAlchemy
-  - Integrate a database with a FastAPI application
-  - Challenge: Develop a GET endpoint with FastAPI and a DB
-  - Solution: Develop a GET endpoint with FastAPI and a Database
+  - [What is an API?](#what-is-an-api)
+  - [API frameworks in Python](#api-frameworks-in-python)
+  - [Set up FastAPI in a Python application](#set-up-fastapi-in-a-python-application)
+  - [Define a database schema](#define-a-database-schema)
+  - [Create a MySQL database](#create-a-mysql-database)
+  - [Create an API contract](#create-an-api-contract)
+  - [Build a POST endpoint with FastAPI](#build-a-post-endpoint-with-fastapi)
+  - [Call a new API using Postman](#call-a-new-api-using-postman)
+  - [Add data to a database in Python using SQLAlchemy](#add-data-to-a-database-in-python-using-sqlalchemy)
+  - [Integrate a database with a FastAPI application](#integrate-a-database-with-a-fastapi-application)
+  - [Challenge: Develop a GET endpoint with FastAPI and a DB](#challenge-develop-a-get-endpoint-with-fastapi-and-a-db)
+  - [Solution: Develop a GET endpoint with FastAPI and a Database](#solution-develop-a-get-endpoint-with-fastapi-and-a-database)
 - [**2. Developing Analysis Applications with Pandas**](#2-developing-analysis-applications-with-pandas) (8 videos)
-  - Introduction to pandas
-  - Set up pandas and Jupyter Notebook
-  - Analyze data with pandas
-  - Analyze data with Matplotlib
-  - Connect to a DB using SQLAlchemy within Juypter Notebook
-  - Visualize data using SQLAlchemy, pandas, and Matplotlib
-  - Challenge: Ingest data and visualize it with Matplotlib
-  - Solution: Ingest data and visualize it using Matplotlib
+  - [Introduction to pandas](#introduction-to-pandas)
+  - [Set up pandas and Jupyter Notebook](#set-up-pandas-and-jupyter-notebook)
+  - [Analyze data with pandas](#analyze-data-with-pandas)
+  - [Analyze data with Matplotlib](#analyze-data-with-matplotlib)
+  - [Connect to a DB using SQLAlchemy within Juypter Notebook](#connect-to-a-db-using-sqlalchemy-within-juypter-notebook)
+  - [Visualize data using SQLAlchemy, pandas, and Matplotlib](#visualize-data-using-sqlalchemy-pandas-and-matplotlib)
+  - [Challenge: Ingest data and visualize it with Matplotlib](#challenge-ingest-data-and-visualize-it-with-matplotlib)
+  - [Solution: Ingest data and visualize it using Matplotlib](#solution-ingest-data-and-visualize-it-using-matplotlib)
 - [**3. Building a Full-Stack Task List Application with Flask**](#3-building-a-full-stack-task-list-application-with-flask) (14 videos)
-  - Set up Flask in a Python application
-  - Create a webpage with Flask
-  - Build a landing page
-  - Develop additional routes to enhance your application
-  - Build a project tasks page
-  - Create a Postgres database
-  - Instantiate a Postgres table using Python
-  - Connect a database to a Python Flask project
-  - Integrate project data from a Database into Flask
-  - Integrate task data from a database into a Flask app
-  - Develop add functionality to add a project
-  - Develop add functionality to add a task
-  - Challenge: Develop delete functionality
-  - Solution: Develop delete functionality
+  - [Set up Flask in a Python application](#set-up-flask-in-a-python-application)
+  - [Create a webpage with Flask](#create-a-webpage-with-flask)
+  - [Build a landing page](#build-a-landing-page)
+  - [Develop additional routes to enhance your application](#develop-additional-routes-to-enhance-your-application)
+  - [Build a project tasks page](#build-a-project-tasks-page)
+  - [Create a Postgres database](#create-a-postgres-database)
+  - [Instantiate a Postgres table using Python](#instantiate-a-postgres-table-using-python)
+  - [Connect a database to a Python Flask project](#connect-a-database-to-a-python-flask-project)
+  - [Integrate project data from a Database into Flask](#integrate-project-data-from-a-database-into-flask)
+  - [Integrate task data from a database into a Flask app](#integrate-task-data-from-a-database-into-a-flask-app)
+  - [Develop add functionality to add a project](#develop-add-functionality-to-add-a-project)
+  - [Develop add functionality to add a task](#develop-add-functionality-to-add-a-task)
+  - [Challenge: Develop delete functionality](#challenge-develop-delete-functionality)
+  - [Solution: Develop delete functionality](#solution-develop-delete-functionality)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue building applications with databases
+  - [Continue building applications with databases](#continue-building-applications-with-databases)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use databases to level up your Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980)
@@ -124,8 +124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Databases]] (4), [[Python (Programming Language)|Python]] (3), application (2), api (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** this. (1), let (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
 > **Tools:** jupyter (1)
@@ -134,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Creating an API that Serves Data from a Database with FastAPI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an API?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980)
@@ -189,7 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (3), case, (1)
+> **Frameworks & Libraries:** data (10), api (6), database (4), application (3), [[Programming]] (3)
 > **Env Vars:** api (6), rest (2)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1)
@@ -234,10 +234,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), api (4), web (2), application (2), [[Django]] (2)
 > **Env Vars:** api (4), rest (2), sql (2), json (1)
 > **CLI Commands:** python (5), make (1), mongo (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** default. (1)
 > **Versions:** python 3 (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
@@ -331,7 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (1)
+> **Frameworks & Libraries:** api (13), application (8), [[Python (Programming Language)|Python]] (3), data (3), cd (2)
 > **Env Vars:** api (7), url (2)
 > **CLI Commands:** python (3), cd (2)
 > **Documentation:** the docs (2), the documentation (1)
@@ -417,9 +417,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), data (6), [[MySQL]] (4), [[Python (Programming Language)|Python]] (3), application (3)
 > **CLI Commands:** mysql (4), python (3)
 > **Env Vars:** api (2), sql (2), orm (2), rdvms (1)
-> **Code Keywords:** let (3), module (1)
 > **Prerequisites:** install (4)
 > **Code Identifiers:** author_id (2), book_id (1)
 > **Definitions:** is a  (2)
@@ -507,9 +507,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (14), database (7), [[Python (Programming Language)|Python]] (3), [[Windows]] (2), cd (1)
 > **CLI Commands:** mysql (14), python (3), sudo (2), find (1), cd (1)
 > **Tools:** terminal (4), command line (2), zsh (1)
-> **Code Keywords:** let (4), case, (1)
 > **Env Vars:** shell (1), gui (1), show (1), tables (1), describe (1)
 > **Prerequisites:** install (2), configure (1), set up (1)
 > **UI Navigation:** navigate to (2), go to (1)
@@ -571,9 +571,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (4), api (3), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **Env Vars:** post (6), api (3), http (2), rest (1), put (1)
 > **API Endpoints:** post  (4), get  (1)
-> **Code Keywords:** delete (1), case, (1), this. (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** python (1)
@@ -642,7 +642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), type. (1), module (1), import, (1)
+> **Frameworks & Libraries:** data (9), database (3), application (2)
 > **API Endpoints:** post  (3)
 > **Env Vars:** post (3)
 > **File Paths:** schemas.py (1), main.py (1)
@@ -753,7 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1), new, (1)
+> **Frameworks & Libraries:** api (4), data (3), [[Python (Programming Language)|Python]] (2), database (1), [[JSON]] (1)
 > **Env Vars:** api (4), post (1), url (1), json (1)
 > **CLI Commands:** make (3), python (2), cd (1)
 > **Tools:** postman (4), terminal (2)
@@ -855,7 +855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), module (4), case, (1), let (1)
+> **Frameworks & Libraries:** data (9), database (9), [[SQL]] (3), application (1)
 > **Env Vars:** sql (3), orm (1)
 > **File Paths:** database.py (1), main.py (1)
 > **Definitions:** is a  (2)
@@ -948,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), import, (1), pass (1), module (1)
+> **Frameworks & Libraries:** database (14), data (7), application (3), [[MySQL]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** mysql (2), python (1)
 > **Code Identifiers:** add_book (2)
 > **Tools:** postman (1), terminal (1)
@@ -992,6 +992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), api (2), application (2), data (2), [[Python (Programming Language)|Python]] (1)
 > **API Endpoints:** get  (2)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (2)
@@ -1140,7 +1141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (8), case. (2), raise (2), pass (1)
+> **Frameworks & Libraries:** database (9), data (6), application (4), api (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (4), python (2), make (2)
 > **Code Identifiers:** get_book (3), book_id (2), retrieve_book (1), author_id (1)
 > **Env Vars:** api (3)
@@ -1152,7 +1153,7 @@ created: 2026-04-29
 
 ### 2. Developing Analysis Applications with Pandas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980)
@@ -1193,9 +1194,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (4), product (2), database (2)
 > **CLI Commands:** python (7), find (1), make (1)
 > **Tools:** jupyter (2), sublime (1)
-> **Code Keywords:** return. (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1253,8 +1254,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3), data (2), next (2), cd (1)
 > **Tools:** jupyter (7)
-> **Code Keywords:** let (5), if, (1)
 > **CLI Commands:** python (3), cd (1)
 > **Prerequisites:** install (3)
 > **Env Vars:** url (2)
@@ -1335,7 +1336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), module (1)
+> **Frameworks & Libraries:** data (13), [[Pandas (Software)|Pandas]] (6), [[GitHub]] (1), application (1), [[Statistics]] (1)
 > **Code Identifiers:** read_csv (2), ebooks (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** csv (1)
@@ -1377,7 +1378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (1)
+> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (2), [[Microsoft Products|Products]] (1), product (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), python (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [lecturer] (1)
@@ -1437,7 +1438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (2), pass (1), function (1)
+> **Frameworks & Libraries:** database (10), application (3), data (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** csv (1), salespeople_db_uri (1)
 > **Prerequisites:** install (2)
@@ -1523,7 +1524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (2), default. (1), new, (1), from. (1)
+> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (3), [[SQL]] (3), database (3), application (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1), python (1)
 > **Code Identifiers:** salespeople_df (1)
@@ -1567,7 +1568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), from. (1)
+> **Frameworks & Libraries:** data (6), product (5), database (2)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1659,7 +1660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), from. (2), pass (1), this, (1)
+> **Frameworks & Libraries:** data (8), database (4), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** read_sql_table (1), sort_values (1), value_counts (1)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
@@ -1669,7 +1670,7 @@ created: 2026-04-29
 
 ### 3. Building a Full-Stack Task List Application with Flask
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up Flask in a Python application
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980)
@@ -1722,6 +1723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), database (5), web application (3), application (3), [[PostgreSQL|Postgres]] (2)
 > **CLI Commands:** python (6), cd (1), make (1)
 > **Env Vars:** html (1), css (1), api (1)
 > **Prerequisites:** install (2), set up (1)
@@ -1799,7 +1801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), static (2), for. (1), pass (1)
+> **Frameworks & Libraries:** application (7), [[HTML]] (6), database (2), next (1), data (1)
 > **Env Vars:** html (4), url (2)
 > **File Paths:** app.py (3), index.html (2)
 > **Prerequisites:** set up (4)
@@ -1887,7 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** data (3), [[HTML]] (2), database (1), application (1)
 > **CLI Commands:** make (3)
 > **File Paths:** index.html (2)
 > **Env Vars:** post (1)
@@ -1958,7 +1960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** database (2), [[HTML]] (1)
 > **Env Vars:** html (1), post (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Exercise Files:** template (2)
@@ -2018,9 +2020,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[PostgreSQL|Postgres]] (7), data (3), [[Databases]] (1), [[MySQL]] (1)
 > **CLI Commands:** psql (1), mysql (1), python (1)
 > **Prerequisites:** install (1), set up (1), setup (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), similar to (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -2122,7 +2124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class, (2), class. (1)
+> **Frameworks & Libraries:** database (15), [[PostgreSQL|Postgres]] (5), [[SQL]] (4), data (2), application (2)
 > **Env Vars:** sql (4), flas (2)
 > **CLI Commands:** make (1), python (1), mysql (1), find (1)
 > **Exercise Files:** starter code (1)
@@ -2172,7 +2174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), module (1), this. (1)
+> **Frameworks & Libraries:** database (4), application (3), [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** install (2), configure (2)
 > **Env Vars:** sqlalchemy_database_uri (1), uri (1), secret_key (1)
 > **File Paths:** app.py (1)
@@ -2242,7 +2244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (1), this, (1), delete (1), static (1)
+> **Frameworks & Libraries:** data (7), [[HTML]] (6), database (4), application (1), next (1)
 > **File Paths:** index.html (3), app.py (2)
 > **Code Identifiers:** render_template (2), project_id (1)
 > **Env Vars:** html (3)
@@ -2315,7 +2317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (2), class. (1)
+> **Frameworks & Libraries:** data (7), [[HTML]] (3), application (2), [[PostgreSQL|Postgres]] (1), database (1)
 > **Env Vars:** html (3), url (1)
 > **File Paths:** app.py (2)
 > **Exercise Files:** template (2)
@@ -2375,8 +2377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (3), [[HTML]] (3)
 > **File Paths:** project-tasks.html (2), app.py (2), index.html (1)
-> **Code Keywords:** let (2), pass (1)
 > **CLI Commands:** make (1), python3 (1)
 > **Code Identifiers:** add_project (1), project_id (1)
 > **Env Vars:** url (1)
@@ -2410,7 +2412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), for. (1), require (1)
+> **Frameworks & Libraries:** database (3), [[Python (Programming Language)|Python]] (1), web application (1), [[HTML]] (1)
 > **Warnings:** watch out (1), note that (1)
 > **File Paths:** app.py (1)
 > **CLI Commands:** python (1)
@@ -2567,7 +2569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (26), let (8), function (2), interface (1), pass (1)
+> **Frameworks & Libraries:** data (5), application (4), database (2)
 > **Code Identifiers:** project_id (4), task_id (2), delete_task (2), back_populates (2), pending_delete (1)
 > **Env Vars:** url (3), post (2)
 > **CLI Commands:** make (2), find (1)
@@ -2579,7 +2581,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue building applications with databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980)
@@ -2616,8 +2618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (7), [[Python (Programming Language)|Python]] (5), database (1), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** python (5), mysql (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - congratulations (1)
 
 

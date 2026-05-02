@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20for%20Data%20Visualization.md)
@@ -50,45 +50,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Effectively present data with Python
-  - Before you start
-  - Using the exercise files
+  - [Effectively present data with Python](#effectively-present-data-with-python)
+  - [Before you start](#before-you-start)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Data Visualization Overview**](#1-data-visualization-overview) (3 videos)
-  - Value of data visualization
-  - Leverage programming languages
-  - Overview of Jupyter Notebooks
+  - [Value of data visualization](#value-of-data-visualization)
+  - [Leverage programming languages](#leverage-programming-languages)
+  - [Overview of Jupyter Notebooks](#overview-of-jupyter-notebooks)
 - [**2. Leverage pandas for Analysis**](#2-leverage-pandas-for-analysis) (12 videos)
-  - Introduction to pandas
-  - Create sample data
-  - Load sample data
-  - Basic operations
-  - Simplify with slicing
-  - Filter and clean data
-  - Rename and delete columns
-  - Aggregate functions
-  - Identify missing data
-  - Remove or fill in missing data
-  - Convert pandas DataFrames
-  - Export pandas DataFrames
+  - [Introduction to pandas](#introduction-to-pandas)
+  - [Create sample data](#create-sample-data)
+  - [Load sample data](#load-sample-data)
+  - [Basic operations](#basic-operations)
+  - [Simplify with slicing](#simplify-with-slicing)
+  - [Filter and clean data](#filter-and-clean-data)
+  - [Rename and delete columns](#rename-and-delete-columns)
+  - [Aggregate functions](#aggregate-functions)
+  - [Identify missing data](#identify-missing-data)
+  - [Remove or fill in missing data](#remove-or-fill-in-missing-data)
+  - [Convert pandas DataFrames](#convert-pandas-dataframes)
+  - [Export pandas DataFrames](#export-pandas-dataframes)
 - [**3. Simplify Visualization with Matplotlib**](#3-simplify-visualization-with-matplotlib) (8 videos)
-  - Basics of Matplotlib
-  - Set marker type and colors
-  - MATLAB-style vs. object syntax
-  - Set titles, labels, and limits
-  - Add grids
-  - Create legends
-  - Save plots to files
-  - Create plots with Matplotlib wrappers
+  - [Basics of Matplotlib](#basics-of-matplotlib)
+  - [Set marker type and colors](#set-marker-type-and-colors)
+  - [MATLAB-style vs. object syntax](#matlab-style-vs-object-syntax)
+  - [Set titles, labels, and limits](#set-titles-labels-and-limits)
+  - [Add grids](#add-grids)
+  - [Create legends](#create-legends)
+  - [Save plots to files](#save-plots-to-files)
+  - [Create plots with Matplotlib wrappers](#create-plots-with-matplotlib-wrappers)
 - [**4. Customize Visualizations with Matplotlib**](#4-customize-visualizations-with-matplotlib) (3 videos)
-  - Create heatmaps
-  - Create histograms
-  - Create subplots
+  - [Create heatmaps](#create-heatmaps)
+  - [Create histograms](#create-histograms)
+  - [Create subplots](#create-subplots)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Effectively present data with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980)
@@ -129,8 +129,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (5), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (5), find (1), go build (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - in (1)
 
 #### Before you start
@@ -154,6 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1), [[Programming]] (1)
 > **CLI Commands:** python (2)
 > **Tools:** jupyter (2)
 > **Analogies:** such as (1)
@@ -180,14 +181,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1), find (1), unzip (1)
-> **Code Keywords:** this, (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - a (1)
 
 
 ### 1. Data Visualization Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Value of data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/value-of-data-visualization?u=76281980)
@@ -222,7 +222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (1)
+> **Frameworks & Libraries:** data (7)
 > **Analogies:** just like (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -294,11 +294,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (9), [[Pandas (Software)|Pandas]] (6), [[Programming]] (3), next (1)
 > **CLI Commands:** python (9), make (1)
 > **Tools:** anaconda (5), jupyter (5)
 > **Analogies:** think of it as (1), kind of like (1), such as (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** require (1)
 > **Env Vars:** api (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** keep in mind (1)
@@ -348,9 +348,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Windows]] (1), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1), feature (1)
 > **Tools:** jupyter (7), anaconda (3), firefox (1), safari (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** new, (1), type, (1), case, (1)
 > **CLI Commands:** make (1), python (1)
 > **Versions:** python 3 (1)
 > **Analogies:** such as (1)
@@ -359,7 +359,7 @@ created: 2026-04-29
 
 ### 2. Leverage pandas for Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980)
@@ -406,6 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Pandas (Software)|Pandas]] (7), feature (2), [[Data Manipulation]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), such as (1), for example (1)
 > **CLI Commands:** make (2)
@@ -502,10 +503,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** carloans (5), colnames (4)
 > **CLI Commands:** python (7), find (1)
 > **Analogies:** for example (3), similar to (1)
-> **Code Keywords:** type. (1), function (1)
 > **Versions:** 7.02 (1), 687.23 (1)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1), note that (1)
@@ -560,6 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (7), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** car_financing (4), load_data (1), read_csv (1), pd_read_excel (1), read_excel (1)
 > **Env Vars:** csv (3)
 > **Exercise Files:** exercise files (3)
@@ -567,7 +569,6 @@ created: 2026-04-29
 > **CLI Commands:** python (1), find (1)
 > **Definitions:** is a  (2)
 > **Documentation:** the documentation (1)
-> **Warnings:** note that (1)
 
 #### Basic operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/basic-operations?u=76281980)
@@ -614,8 +615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1), this, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Simplify with slicing
@@ -719,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), this, (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (15), data (5), [[Python (Programming Language)|Python]] (1), [[Big Data]] (1)
 > **Code Identifiers:** car_type (8)
 > **Definitions:** is a  (3), in other words (2), is called (1)
 > **Warnings:** keep in mind (4), common error (1)
@@ -813,11 +814,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Pandas (Software)|Pandas]] (11), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Versions:** 7.02 (6), 3.59 (2)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -892,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), case, (2), yield (1)
+> **Frameworks & Libraries:** data (12), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** starting_balance (1)
 > **Env Vars:** ram (1)
@@ -950,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this, (1), default, (1), function (1)
+> **Frameworks & Libraries:** data (6), [[Statistics]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** nans (1), nan (1)
 > **Code Identifiers:** interest_paid (1)
@@ -1038,9 +1039,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3), product (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Code Identifiers:** interest_paid (1), interest_missing (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Warnings:** keep in mind (1)
@@ -1147,9 +1148,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Pandas (Software)|Pandas]] (3), application (2)
 > **Env Vars:** nan (10), loc (1)
 > **Versions:** 89.77 (2), 93.24 (2)
-> **Code Keywords:** else. (1), case, (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** interest_missing (1)
@@ -1185,6 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -1221,15 +1223,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3), data (2)
 > **Env Vars:** csv (4)
-> **Code Keywords:** case, (3)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Simplify Visualization with Matplotlib
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of Matplotlib
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980)
@@ -1316,8 +1318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (2), next (2), [[Tableau]] (1)
 > **Env Vars:** plt (5), sns (1), loc (1)
-> **Code Keywords:** function (2), module (1), this, (1), case, (1), from. (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** good practice (1)
@@ -1369,7 +1371,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** matlab (8), plt (3)
-> **Code Keywords:** case, (3), interface (1)
 > **Warnings:** important note (1), note that (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1448,7 +1449,6 @@ created: 2026-04-29
 >
 > **Code Identifiers:** set_xlim (1), set_ylim (1), set_xlabel (1), set_ylabel (1), set_title (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** case, (3), continue (1)
 > **Env Vars:** matlab (4)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1504,7 +1504,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Warnings:** keep in mind (4)
-> **Code Keywords:** default. (2), let (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** matlab (2)
 > **Analogies:** similar to (1), for example (1)
@@ -1550,7 +1549,6 @@ created: 2026-04-29
 > **Env Vars:** matlab (2)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Versions:** 1.00 (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** keep in mind (1)
@@ -1623,7 +1621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Tools:** jupyter (3)
 > **Env Vars:** matlab (1), dpi (1)
 > **Analogies:** think of it as (1), just like (1)
@@ -1722,17 +1720,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Pandas (Software)|Pandas]] (11), api (1), [[Statistics]] (1), [[Data Manipulation]] (1)
 > **Code Identifiers:** area_mean (4), cancer_df (2)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** csv (1), api (1), sns (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** this, (1), case, (1)
 > **Speakers:** - [lecturer] (1)
 
 
 ### 4. Customize Visualizations with Matplotlib
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create heatmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-heatmaps?u=76281980)
@@ -1821,9 +1819,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (2)
 > **Definitions:** is a  (4), means that (1), is called (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** case, (4)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1913,7 +1911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (2)
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (6)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** usa (1), csv (1)
 > **Analogies:** for example (2)
@@ -2029,7 +2027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2)
+> **Frameworks & Libraries:** next (8), data (3), [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Warnings:** note that (2), keep in mind (1)
 > **Code Identifiers:** read_csv (1), image_label (1)
 > **Definitions:** means that (1), is an  (1)
@@ -2041,7 +2039,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980)
@@ -2086,8 +2084,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (2), find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 

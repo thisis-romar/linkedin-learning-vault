@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/high-performance-cultures
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Creating%20a%20High%20Performance%20Culture.md)
@@ -45,38 +45,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to creating a high-performance culture
+  - [Welcome to creating a high-performance culture](#welcome-to-creating-a-high-performance-culture)
 - [**1. Building a High-Performance Culture**](#1-building-a-high-performance-culture) (4 videos)
-  - Components of high-performing cultures
-  - Creating the virtuous circle
-  - Assessing your current culture
-  - Defining high performance
+  - [Components of high-performing cultures](#components-of-high-performing-cultures)
+  - [Creating the virtuous circle](#creating-the-virtuous-circle)
+  - [Assessing your current culture](#assessing-your-current-culture)
+  - [Defining high performance](#defining-high-performance)
 - [**2. Setting Direction for a High-Performance Culture**](#2-setting-direction-for-a-high-performance-culture) (3 videos)
-  - Creating a compelling vision and mission
-  - Linking culture to purpose
-  - Tying strategy to culture
+  - [Creating a compelling vision and mission](#creating-a-compelling-vision-and-mission)
+  - [Linking culture to purpose](#linking-culture-to-purpose)
+  - [Tying strategy to culture](#tying-strategy-to-culture)
 - [**3. Communicating the Culture**](#3-communicating-the-culture) (3 videos)
-  - Choosing your communication vehicles
-  - Using storytelling to engage employees
-  - Making culture a conversation
+  - [Choosing your communication vehicles](#choosing-your-communication-vehicles)
+  - [Using storytelling to engage employees](#using-storytelling-to-engage-employees)
+  - [Making culture a conversation](#making-culture-a-conversation)
 - [**4. Organizing to Succeed**](#4-organizing-to-succeed) (2 videos)
-  - Designing your team for high performance
-  - Build culture into your processes
+  - [Designing your team for high performance](#designing-your-team-for-high-performance)
+  - [Build culture into your processes](#build-culture-into-your-processes)
 - [**5. Managing Performance**](#5-managing-performance) (3 videos)
-  - Setting goals and measuring results
-  - Reinforce good behavior
-  - Correcting bad behavior
+  - [Setting goals and measuring results](#setting-goals-and-measuring-results)
+  - [Reinforce good behavior](#reinforce-good-behavior)
+  - [Correcting bad behavior](#correcting-bad-behavior)
 - [**6. Living the Culture**](#6-living-the-culture) (3 videos)
-  - Taking small actions
-  - Highlighting culture moments
-  - Providing regular feedback
+  - [Taking small actions](#taking-small-actions)
+  - [Highlighting culture moments](#highlighting-culture-moments)
+  - [Providing regular feedback](#providing-regular-feedback)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Overcoming common obstacles
-  - Plan for a high-performance culture
+  - [Overcoming common obstacles](#overcoming-common-obstacles)
+  - [Plan for a high-performance culture](#plan-for-a-high-performance-culture)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to creating a high-performance culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/welcome-to-creating-a-high-performance-culture?u=76281980)
@@ -107,14 +107,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Code Identifiers:** thoughtleaders (1)
 > **Speakers:** - have (1)
 
 
 ### 1. Building a High-Performance Culture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of high-performing cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/components-of-high-performing-cultures-22388723?u=76281980)
@@ -177,8 +176,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - a (1)
 
 #### Creating the virtuous circle
@@ -230,8 +229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - leaders (1)
@@ -299,7 +298,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), let (1), finally, (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - an (1)
@@ -375,13 +373,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (3), hit (1), [[Leadership Development]] (1)
 > **Speakers:** - to (1)
 
 
 ### 2. Setting Direction for a High-Performance Culture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a compelling vision and mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/creating-a-compelling-vision-and-mission-22383774?u=76281980)
@@ -541,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while. (1)
+> **Frameworks & Libraries:** business (3), leadership (3), [[Leadership Development]] (2), management (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - one (1)
@@ -613,6 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), teams (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
@@ -620,7 +619,7 @@ created: 2026-04-29
 
 ### 3. Communicating the Culture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing your communication vehicles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980)
@@ -683,7 +682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), require (1), break. (1)
+> **Frameworks & Libraries:** [[Newsletters]] (2), [[Content Management]] (1), leadership (1), management (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Prerequisites:** you'll need (1)
@@ -698,7 +697,7 @@ created: 2026-04-29
 
 ### 4. Organizing to Succeed
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing your team for high performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/designing-your-team-for-high-performance?u=76281980)
@@ -769,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), else. (1), let (1), for. (1)
+> **Frameworks & Libraries:** teams (8), leadership (3)
 > **CLI Commands:** make (3)
 > **Tools:** notion (1)
 > **Definitions:** is an  (1)
@@ -829,7 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), finally, (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - building (1)
@@ -837,7 +836,7 @@ created: 2026-04-29
 
 ### 5. Managing Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting goals and measuring results
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/setting-goals-and-measuring-results-22390017?u=76281980)
@@ -886,7 +885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** hit (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
@@ -982,6 +981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -1062,15 +1062,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), management (3), leadership (1), [[Swift (Programming Language)|Swift]] (1), [[Sustainable Business]] (1)
 > **Env Vars:** ceo (3)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - when (1)
 
 
 ### 6. Living the Culture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking small actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980)
@@ -1149,6 +1149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Newsletters]] (1)
 > **Speakers:** - if (1)
 
 #### Highlighting culture moments
@@ -1298,17 +1299,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), teams (1), management (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - providing (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overcoming common obstacles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/overcoming-common-obstacles-22388725?u=76281980)
@@ -1423,7 +1424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (2), this, (1)
+> **Frameworks & Libraries:** management (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - you (1)
@@ -1501,7 +1502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2)
+> **Frameworks & Libraries:** teams (3), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)

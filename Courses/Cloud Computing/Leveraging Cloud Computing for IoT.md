@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Leveraging%20Cloud%20Computing%20for%20IoT.md)
@@ -41,50 +41,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Intro to Internet of Things (IoT) on cloud platforms
-  - What you should know
+  - [Intro to Internet of Things (IoT) on cloud platforms](#intro-to-internet-of-things-iot-on-cloud-platforms)
+  - [What you should know](#what-you-should-know)
 - [**1. IoT Basics**](#1-iot-basics) (5 videos)
-  - What is an IoT device?
-  - IoT data
-  - IoT data processing
-  - IoT data storage at the edge and in the cloud
-  - IoT growth in the cloud
+  - [What is an IoT device?](#what-is-an-iot-device)
+  - [IoT data](#iot-data)
+  - [IoT data processing](#iot-data-processing)
+  - [IoT data storage at the edge and in the cloud](#iot-data-storage-at-the-edge-and-in-the-cloud)
+  - [IoT growth in the cloud](#iot-growth-in-the-cloud)
 - [**2. IoT in the Cloud Use Cases**](#2-iot-in-the-cloud-use-cases) (5 videos)
-  - Healthcare
-  - Finance
-  - Law enforcement
-  - Manufacturing
-  - Education
+  - [Healthcare](#healthcare)
+  - [Finance](#finance)
+  - [Law enforcement](#law-enforcement)
+  - [Manufacturing](#manufacturing)
+  - [Education](#education)
 - [**3. Amazon Web Service IoT Platform**](#3-amazon-web-service-iot-platform) (5 videos)
-  - Design
-  - Build
-  - Deploy
-  - Operate
-  - Demo
+  - [Design](#design)
+  - [Build](#build)
+  - [Deploy](#deploy)
+  - [Operate](#operate)
+  - [Demo](#demo)
 - [**4. Microsoft Azure IoT Hub**](#4-microsoft-azure-iot-hub) (5 videos)
-  - Design
-  - Build
-  - Deploy
-  - Operate
-  - Demo
+  - [Design](#design)
+  - [Build](#build)
+  - [Deploy](#deploy)
+  - [Operate](#operate)
+  - [Demo](#demo)
 - [**5. IoT on the Cloud: Solutions Walkthrough**](#5-iot-on-the-cloud-solutions-walkthrough) (5 videos)
-  - Requirement
-  - Design
-  - Build
-  - Train
-  - Deployment
+  - [Requirement](#requirement)
+  - [Design](#design)
+  - [Build](#build)
+  - [Train](#train)
+  - [Deployment](#deployment)
 - [**6. Other Considerations**](#6-other-considerations) (5 videos)
-  - Performance
-  - Cost
-  - Operations
-  - Security
-  - Governance
+  - [Performance](#performance)
+  - [Cost](#cost)
+  - [Operations](#operations)
+  - [Security](#security)
+  - [Governance](#governance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Addional resources
+  - [Addional resources](#addional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Internet of Things (IoT) on cloud platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[IoT]] (4), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Speakers:** - nothing (1)
 
 #### What you should know
@@ -132,14 +133,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** business (3), cloud (1), [[Google]] (1), [[Microsoft Azure]] (1), data (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. IoT Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an IoT device?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980)
@@ -174,6 +175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[IoT]] (3), cloud (3), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -234,9 +236,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), cloud (7), power (3), [[IoT]] (3), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Analogies:** such as (5), for example (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this, (1), self (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -288,7 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), case, (1)
+> **Frameworks & Libraries:** data (13), [[IoT]] (5), power (1), database (1), [[Dashboards]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
@@ -358,7 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), continue (1)
+> **Frameworks & Libraries:** cloud (11), [[IoT]] (8), data (6), [[React.js|React]] (3), [[Linux]] (2)
 > **Analogies:** such as (3)
 > **Definitions:** in other words (2)
 > **Warnings:** keep in mind (2)
@@ -436,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7)
+> **Frameworks & Libraries:** [[IoT]] (12), cloud (9), data (5), [[Microsoft Azure|Azure]] (3), [[Google]] (3)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Analogies:** such as (3), for example (1)
 > **Warnings:** keep in mind (3)
@@ -446,7 +448,7 @@ created: 2026-04-29
 
 ### 2. IoT in the Cloud Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980)
@@ -489,9 +491,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Internet of Things (IoT)|Internet of things]] (2), cloud (2), [[IoT]] (1), power (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1), public (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -558,9 +560,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (5), data (5), cloud (3), [[IoT]] (3), management (3)
 > **Env Vars:** atm (1), bae (1), gps (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** public (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -606,7 +608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), case, (1), catch. (1)
+> **Frameworks & Libraries:** data (11), cloud (4), traffic (2), [[IoT]] (1), database (1)
 > **Env Vars:** gps (3)
 > **Definitions:** in other words (1), is an  (1)
 > **Prerequisites:** you need to have (1)
@@ -653,7 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), case, (3), let (1), this. (1)
+> **Frameworks & Libraries:** cloud (5), data (5), [[Internet of Things (IoT)|Internet of things]] (1), product (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** iot (1)
@@ -701,7 +703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1), case. (1), class, (1), public (1)
+> **Frameworks & Libraries:** cloud (5), [[IoT]] (4), data (3), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Warnings:** keep in mind (2)
 > **Env Vars:** gps (1)
 > **Definitions:** in other words (1)
@@ -710,7 +712,7 @@ created: 2026-04-29
 
 ### 3. Amazon Web Service IoT Platform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980)
@@ -775,7 +777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), lambda (1), this, (1)
+> **Frameworks & Libraries:** [[IoT]] (12), data (6), [[Amazon Web Services (AWS)|Amazon web services]] (5), cloud (4), aws (3)
 > **Env Vars:** aws (3), sdk (2)
 > **Warnings:** keep in mind (3), note that (1)
 > **CLI Commands:** aws (3)
@@ -818,10 +820,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (7), [[Amazon Web Services (AWS)|Amazon web services]] (4), [[Software Development]] (4), aws (3), management (1)
 > **Env Vars:** sdk (4), aws (3), sns (1)
 > **CLI Commands:** aws (3), python (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
-> **Code Keywords:** lambda (1), this. (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
@@ -852,6 +854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (5), aws (2), application (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Tools:** notion (1)
@@ -859,7 +862,6 @@ created: 2026-04-29
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
-> **Speakers:** - so (1)
 
 #### Operate
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate-2?u=76281980)
@@ -908,6 +910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (7), [[Amazon Web Services (AWS)|Amazon web services]] (3), aws (3), [[Troubleshooting]] (3), application (2)
 > **Warnings:** keep in mind (4), troubleshoot (1)
 > **Env Vars:** aws (3), api (1)
 > **CLI Commands:** aws (3)
@@ -991,10 +994,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (5), aws (4), [[Linux]] (3), [[Python (Programming Language)|Python]] (2), next (2)
 > **CLI Commands:** aws (4), python (2), find (1), unzip (1), make (1)
 > **Env Vars:** aws (4), stk (4), osx (1)
 > **Prerequisites:** configure (3), setup (2)
-> **Code Keywords:** private (1), case, (1), protected (1)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **Exercise Files:** download the (1), zip file (1)
 > **Definitions:** is a  (1)
@@ -1003,7 +1006,7 @@ created: 2026-04-29
 
 ### 4. Microsoft Azure IoT Hub
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980)
@@ -1038,7 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Microsoft Azure]] (2), data (1), cloud (1), [[Node.js]] (1)
 > **Analogies:** such as (2)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
@@ -1083,6 +1086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (7), application (2), data (2), [[Microsoft Azure|Azure]] (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
@@ -1116,9 +1120,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (7), [[Microsoft Azure]] (2), [[Security]] (2), cloud (1)
 > **Prerequisites:** set up (4), configure (3)
 > **Analogies:** such as (2)
-> **Code Keywords:** public (1)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [male (1)
@@ -1162,8 +1166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (6), management (4), [[Microsoft Azure|Azure]] (1), [[Automation]] (1), application (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** for, (1), this, (1)
 > **Warnings:** keep in mind (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
@@ -1271,19 +1275,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (11), [[Microsoft Azure]] (2), aws (2), [[Microsoft]] (1), management (1)
 > **Prerequisites:** set up (4)
 > **CLI Commands:** aws (2), find (1)
 > **Env Vars:** aws (2), sku (1)
 > **Cross-References:** in the last (1), we talked about (1)
 > **UI Navigation:** click on (1), go to (1)
-> **Code Keywords:** case, (1)
 > **URLs:** [azuredevices.net](https://azuredevices.net) (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. IoT on the Cloud: Solutions Walkthrough
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Requirement
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980)
@@ -1340,8 +1344,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), cloud (7), [[IoT]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** public (2), let (1), from, (1)
 > **Env Vars:** gps (1)
 > **Definitions:** in other words (1)
 > **Warnings:** keep in mind (1)
@@ -1400,8 +1404,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[IoT]] (7), cloud (7), [[Predictive Analytics]] (2), next (1)
 > **Env Vars:** iot (7), gps (1)
-> **Code Keywords:** public (4), case, (2), let (1)
 > **Analogies:** such as (4)
 > **Definitions:** in other words (2)
 > **Speakers:** - [instructor] (1)
@@ -1447,12 +1451,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[IoT]] (5), [[Linux]] (1), power (1), next (1)
 > **Analogies:** such as (6)
 > **CLI Commands:** find (2), aws (1), make (1)
 > **Env Vars:** cpu (1), aws (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (2)
-> **Code Keywords:** from, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Train
@@ -1506,8 +1510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[IoT]] (5), cloud (1), ai (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** function (1)
 > **Env Vars:** gps (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
@@ -1543,8 +1547,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (7), management (3), data (3), cloud (2), [[AIOps]] (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** public (2), finally, (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
@@ -1552,7 +1556,7 @@ created: 2026-04-29
 
 ### 6. Other Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980)
@@ -1609,9 +1613,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[IoT]] (3), cloud (3), [[Security]] (3), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Warnings:** keep in mind (3)
-> **Code Keywords:** let (1), public (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1674,8 +1678,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[IoT]] (4), application (1), database (1), [[Security]] (1)
 > **Warnings:** keep in mind (5)
-> **Code Keywords:** public (2), let (1), for, (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** in other words (1)
@@ -1728,10 +1732,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (3), business (1), ai (1)
 > **Analogies:** such as (3)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), require (1)
 > **Env Vars:** pii (1)
 > **Speakers:** - let (1)
 
@@ -1774,7 +1778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** [[Security]] (9), [[IoT]] (5), cloud (5), data (2), [[Databases]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** ldap (1)
@@ -1812,15 +1816,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (6), [[Security]] (5), data (4)
 > **Analogies:** such as (3)
-> **Code Keywords:** for. (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Addional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980)
@@ -1889,9 +1893,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (18), cloud (11), data (7), next (3), [[Microsoft]] (2)
 > **Prerequisites:** set up (6)
 > **CLI Commands:** find (5)
-> **Code Keywords:** public (1), function (1), this, (1)
 > **Definitions:** is an  (2), means that (1)
 > **URLs:** [networkworld.com](https://networkworld.com) (1), [infoworld.com](https://infoworld.com) (1)
 > **Env Vars:** idg (1)

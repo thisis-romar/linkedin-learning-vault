@@ -37,7 +37,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20Association%20Rules.md)
@@ -56,28 +56,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Association rule mining
-  - What you should know
-  - Using the exercise files
-  - Using GitHub Codespaces with this course
+  - [Association rule mining](#association-rule-mining)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Association Rules**](#1-association-rules) (6 videos)
-  - What are association rules?
-  - Frequent itemset generation
-  - The Apriori algorithm
-  - The FP-Growth algorithm
-  - Evaluating association rules
-  - Why and when to use association rules
+  - [What are association rules?](#what-are-association-rules)
+  - [Frequent itemset generation](#frequent-itemset-generation)
+  - [The Apriori algorithm](#the-apriori-algorithm)
+  - [The FP-Growth algorithm](#the-fp-growth-algorithm)
+  - [Evaluating association rules](#evaluating-association-rules)
+  - [Why and when to use association rules](#why-and-when-to-use-association-rules)
 - [**2. Discovering Patterns with Association Rules**](#2-discovering-patterns-with-association-rules) (4 videos)
-  - How to collect data for association rule mining
-  - How to generate frequent itemsets
-  - How to create association rules
-  - How to evaluate association rules
+  - [How to collect data for association rule mining](#how-to-collect-data-for-association-rule-mining)
+  - [How to generate frequent itemsets](#how-to-generate-frequent-itemsets)
+  - [How to create association rules](#how-to-create-association-rules)
+  - [How to evaluate association rules](#how-to-evaluate-association-rules)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Association rule mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/association-rule-mining?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2), ai (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [fred] (1)
@@ -140,8 +140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), next (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using the exercise files
@@ -183,8 +183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (2), data (2), [[Python (Programming Language)|Python]] (1), cloud (1), [[GitHub]] (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **Exercise Files:** exercise files (2)
 > **File Paths:** groceries.csv (1)
 > **CLI Commands:** python (1)
@@ -322,7 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Codespaces]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** click on (3), switch to (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -334,7 +334,7 @@ created: 2026-04-29
 
 ### 1. Association Rules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are association rules?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-are-association-rules?u=76281980)
@@ -421,11 +421,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Microsoft Products|Products]] (3), database (1), business (1)
 > **Definitions:** known as (4), is an  (1), is a  (1), means that (1)
 > **Warnings:** note that (2), caution (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - every (1)
 
@@ -542,10 +542,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (1), next (1)
 > **Definitions:** known as (4), is a  (4), means that (1), is an  (1), defined as (1)
 > **Analogies:** for example (5), imagine (1), for instance (1), such as (1)
 > **Versions:** 0.4 (2), 0.5 (1)
-> **Code Keywords:** let (1), this. (1)
 > **Warnings:** note that (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -633,7 +633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2)
+> **Frameworks & Libraries:** data (5), next (3)
 > **Definitions:** means that (2), is a  (1), in other words (1)
 > **Versions:** 0.2 (1)
 > **Analogies:** such as (1)
@@ -762,7 +762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), extends (1), this. (1), require (1)
+> **Frameworks & Libraries:** data (8), next (4), node (3)
 > **CLI Commands:** node (3), find (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** for example (3)
@@ -920,10 +920,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (1), power (1), product (1)
 > **Versions:** 0.67 (4), 0.6 (3), 0.4 (2), 0.8 (2), 0.84 (2)
 > **Definitions:** is a  (2), in other words (2), means that (1), known as (1), is called (1)
 > **Analogies:** similar to (2), for example (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** previous video (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -971,6 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (2), data (2), [[Big Data]] (1)
 > **Definitions:** known as (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** dna (1)
@@ -980,7 +981,7 @@ created: 2026-04-29
 
 ### 2. Discovering Patterns with Association Rules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to collect data for association rule mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980)
@@ -1117,7 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (3), function (3), this, (1), class. (1)
+> **Frameworks & Libraries:** data (16), [[Pandas (Software)|Pandas]] (6), [[Python (Programming Language)|Python]] (3), next (3), [[Codespaces]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Env Vars:** csv (5)
 > **Definitions:** is a  (3), is called (1)
@@ -1269,7 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (9), pass (1), default, (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (4), next (3), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (2)
 > **Code Identifiers:** frequent_itemsets (4), frequent_pattern (1), sort_values (1)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **CLI Commands:** python (2), make (1)
@@ -1497,7 +1498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), function (3), this. (2), this, (1), pass (1)
+> **Frameworks & Libraries:** next (7), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), data (1)
 > **Versions:** 0.01 (4), 1.4 (4), 0.25 (3)
 > **Code Identifiers:** association_rules (3), min_threshold (2), frequent_patterns (1), frequent_itemsets (1)
 > **Analogies:** for example (4), imagine (3)
@@ -1693,7 +1694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (6), this, (3)
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2), next (2)
 > **Versions:** 3.04 (3), 1.5 (2), 1.76 (1), 0.99 (1), 0.026 (1)
 > **Definitions:** means that (5), is a  (3), in other words (2)
 > **Analogies:** picture (1), similar to (1), such as (1)
@@ -1705,7 +1706,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980)
@@ -1746,8 +1747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (3), data (3), next (2), [[Ethics]] (2)
 > **CLI Commands:** python (4), find (2)
-> **Code Keywords:** continue (3), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)

@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Aws%20Essential%20Training%20For%20Developers.md)
@@ -47,87 +47,87 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - What is the best way to use AWS?
-  - How to choose AWS services
-  - What you need to know
+  - [What is the best way to use AWS?](#what-is-the-best-way-to-use-aws)
+  - [How to choose AWS services](#how-to-choose-aws-services)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. AWS Essential Setup**](#1-aws-essential-setup) (5 videos)
-  - The AWS root account
-  - Learn how to create an IAM user group
-  - Learn how to create an IAM user and access key
-  - Break down the bill in AWS
-  - Set a budget to save money
+  - [The AWS root account](#the-aws-root-account)
+  - [Learn how to create an IAM user group](#learn-how-to-create-an-iam-user-group)
+  - [Learn how to create an IAM user and access key](#learn-how-to-create-an-iam-user-and-access-key)
+  - [Break down the bill in AWS](#break-down-the-bill-in-aws)
+  - [Set a budget to save money](#set-a-budget-to-save-money)
 - [**2. On-Premise to AWS**](#2-on-premise-to-aws) (4 videos)
-  - On-premise infrastructure
-  - Birth of the cloud: EC2 and S3
-  - Where in the world are your AWS services?
-  - Get closer to users with Local Zones
+  - [On-premise infrastructure](#on-premise-infrastructure)
+  - [Birth of the cloud: EC2 and S3](#birth-of-the-cloud-ec2-and-s3)
+  - [Where in the world are your AWS services?](#where-in-the-world-are-your-aws-services)
+  - [Get closer to users with Local Zones](#get-closer-to-users-with-local-zones)
 - [**3. IaaS Compute**](#3-iaas-compute) (8 videos)
-  - Learn how to create an EC2 instance
-  - What is the best EC2 instance type?
-  - Learn how to create a key pair
-  - Set up a web server
-  - Stopping and starting vs. rebooting instances
-  - Right-sizing with EC2 autoscaling
-  - Learn how to create backups with an AMI Snapshot
-  - Saving money in EC2
+  - [Learn how to create an EC2 instance](#learn-how-to-create-an-ec2-instance)
+  - [What is the best EC2 instance type?](#what-is-the-best-ec2-instance-type)
+  - [Learn how to create a key pair](#learn-how-to-create-a-key-pair)
+  - [Set up a web server](#set-up-a-web-server)
+  - [Stopping and starting vs. rebooting instances](#stopping-and-starting-vs-rebooting-instances)
+  - [Right-sizing with EC2 autoscaling](#right-sizing-with-ec2-autoscaling)
+  - [Learn how to create backups with an AMI Snapshot](#learn-how-to-create-backups-with-an-ami-snapshot)
+  - [Saving money in EC2](#saving-money-in-ec2)
 - [**4. IaaS Networking**](#4-iaas-networking) (9 videos)
-  - Using security groups as firewalls
-  - Virtual Private Cloud (VPC)
-  - Public and private subnets
-  - Internet and NAT gateways
-  - Static addresses with Elastic IPs
-  - Using VPNs to access private subnets
-  - Scaling with Elastic Load Balancer (ELB)
-  - Learn how to create an Application Load Balancer (ALB)
-  - Point a domain to your EC2s with Route 53
+  - [Using security groups as firewalls](#using-security-groups-as-firewalls)
+  - [Virtual Private Cloud (VPC)](#virtual-private-cloud-vpc)
+  - [Public and private subnets](#public-and-private-subnets)
+  - [Internet and NAT gateways](#internet-and-nat-gateways)
+  - [Static addresses with Elastic IPs](#static-addresses-with-elastic-ips)
+  - [Using VPNs to access private subnets](#using-vpns-to-access-private-subnets)
+  - [Scaling with Elastic Load Balancer (ELB)](#scaling-with-elastic-load-balancer-elb)
+  - [Learn how to create an Application Load Balancer (ALB)](#learn-how-to-create-an-application-load-balancer-alb)
+  - [Point a domain to your EC2s with Route 53](#point-a-domain-to-your-ec2s-with-route-53)
 - [**5. IaaS Storage**](#5-iaas-storage) (10 videos)
-  - Hard drives with Elastic Block Store (EBS)
-  - NAS with Elastic File System (EFS)
-  - Web storage with Simple Storage Service (S3)
-  - Upload a file to S3 from the AWS CLI
-  - Use the SDK to create a file within S3
-  - IAM roles for EC2
-  - Putting together all of the IAM resources
-  - Storing passwords with Secrets Manager
-  - Long-term storage with S3 Glacier
-  - Serve content faster with CloudFront
+  - [Hard drives with Elastic Block Store (EBS)](#hard-drives-with-elastic-block-store-ebs)
+  - [NAS with Elastic File System (EFS)](#nas-with-elastic-file-system-efs)
+  - [Web storage with Simple Storage Service (S3)](#web-storage-with-simple-storage-service-s3)
+  - [Upload a file to S3 from the AWS CLI](#upload-a-file-to-s3-from-the-aws-cli)
+  - [Use the SDK to create a file within S3](#use-the-sdk-to-create-a-file-within-s3)
+  - [IAM roles for EC2](#iam-roles-for-ec2)
+  - [Putting together all of the IAM resources](#putting-together-all-of-the-iam-resources)
+  - [Storing passwords with Secrets Manager](#storing-passwords-with-secrets-manager)
+  - [Long-term storage with S3 Glacier](#long-term-storage-with-s3-glacier)
+  - [Serve content faster with CloudFront](#serve-content-faster-with-cloudfront)
 - [**6. Database as a Service (DBaaS)**](#6-database-as-a-service-dbaas) (6 videos)
-  - What is database as a service (DBaaS)?
-  - Relational Database Service (RDS)
-  - NoSQL databases
-  - In-memory caches
-  - Big data databases
-  - Buffer data with a message queue
+  - [What is database as a service (DBaaS)?](#what-is-database-as-a-service-dbaas)
+  - [Relational Database Service (RDS)](#relational-database-service-rds)
+  - [NoSQL databases](#nosql-databases)
+  - [In-memory caches](#in-memory-caches)
+  - [Big data databases](#big-data-databases)
+  - [Buffer data with a message queue](#buffer-data-with-a-message-queue)
 - [**7. Platform as a Service (PaaS)**](#7-platform-as-a-service-paas) (5 videos)
-  - Hosting web apps with Elastic Beanstalk
-  - Running containers on AWS
-  - Using Kubernetes with AWS
-  - Serverless functions with Lambda
-  - Managing long-running jobs
+  - [Hosting web apps with Elastic Beanstalk](#hosting-web-apps-with-elastic-beanstalk)
+  - [Running containers on AWS](#running-containers-on-aws)
+  - [Using Kubernetes with AWS](#using-kubernetes-with-aws)
+  - [Serverless functions with Lambda](#serverless-functions-with-lambda)
+  - [Managing long-running jobs](#managing-long-running-jobs)
 - [**8. Software as a Service (SaaS)**](#8-software-as-a-service-saas) (3 videos)
-  - User authentication for your app
-  - Designing backend APIs
-  - Helpful machine learning services
+  - [User authentication for your app](#user-authentication-for-your-app)
+  - [Designing backend APIs](#designing-backend-apis)
+  - [Helpful machine learning services](#helpful-machine-learning-services)
 - [**9. DevOps with AWS**](#9-devops-with-aws) (5 videos)
-  - What is DevOps?
-  - Developer tools within AWS
-  - Infrastructure as Code with AWS
-  - Monitoring with CloudWatch
-  - DevOps using machine learning
+  - [What is DevOps?](#what-is-devops)
+  - [Developer tools within AWS](#developer-tools-within-aws)
+  - [Infrastructure as Code with AWS](#infrastructure-as-code-with-aws)
+  - [Monitoring with CloudWatch](#monitoring-with-cloudwatch)
+  - [DevOps using machine learning](#devops-using-machine-learning)
 - [**10. Security on AWS**](#10-security-on-aws) (5 videos)
-  - AWS Shield and firewalls with WAF
-  - Spot issues with Inspector, GuardDuty, and Macie
-  - Manage EC2 with Systems Manager
-  - Traceability with CloudTrail and Security Hub
-  - Investigate threats with AWS Detective
+  - [AWS Shield and firewalls with WAF](#aws-shield-and-firewalls-with-waf)
+  - [Spot issues with Inspector, GuardDuty, and Macie](#spot-issues-with-inspector-guardduty-and-macie)
+  - [Manage EC2 with Systems Manager](#manage-ec2-with-systems-manager)
+  - [Traceability with CloudTrail and Security Hub](#traceability-with-cloudtrail-and-security-hub)
+  - [Investigate threats with AWS Detective](#investigate-threats-with-aws-detective)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Check for unwanted charges
-  - AWS Well-Architected Framework
-  - Getting help from AWS Support
+  - [Check for unwanted charges](#check-for-unwanted-charges)
+  - [AWS Well-Architected Framework](#aws-well-architected-framework)
+  - [Getting help from AWS Support](#getting-help-from-aws-support)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the best way to use AWS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-way-to-use-aws?u=76281980)
@@ -193,12 +193,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (14), application (2), mobile application (2), cloud (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (14), find (1), make (1)
 > **Env Vars:** aws (14), dns (1)
 > **Documentation:** the documentation (2)
 > **Prerequisites:** install (1), before we start (1)
 > **Speakers:** - amazon (1), - so (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 
 #### What you need to know
@@ -232,18 +232,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), web (3), cloud (2), aws (2), database (2)
 > **CLI Commands:** aws (2), find (1)
 > **Env Vars:** aws (2), ram (1)
 > **Exercise Files:** source code (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Speakers:** - you (1)
 
 
 ### 1. AWS Essential Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The AWS root account
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/the-aws-root-account-22739499?u=76281980)
@@ -298,10 +298,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (22), [[Multi-factor Authentication]] (2), management (1), [[Security]] (1)
 > **Env Vars:** aws (21), mfa (9), iam (6)
 > **CLI Commands:** aws (22), make (1), find (1)
 > **UI Navigation:** click on (3)
-> **Code Keywords:** self (1), let (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Documentation:** the documentation (1)
@@ -368,12 +368,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), [[Search]] (3), [[Cloud Infrastructure]] (3), next (2), management (1)
 > **Env Vars:** aws (13), iam (11), arn (3)
 > **CLI Commands:** aws (13), find (1)
 > **UI Navigation:** click on (8), scroll down (2), checkbox (2)
 > **Tools:** aws console (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
 
@@ -460,10 +460,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), next (4), [[CLI]] (1), management (1), [[Microsoft]] (1)
 > **Env Vars:** aws (13), iam (3), csv (3), url (2), cli (1)
 > **CLI Commands:** aws (13), make (3), find (1)
 > **UI Navigation:** click on (4), checkbox (2), go to (1)
-> **Code Keywords:** type, (1), interface (1), require (1), delete (1)
 > **Analogies:** such as (2), it's like (1)
 > **Best Practices:** best practice (1), make sure to (1)
 > **Cross-References:** later in (1)
@@ -534,10 +534,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (15), [[Cost Management]] (2), [[Search]] (1)
 > **Env Vars:** aws (15), pdf (2)
 > **CLI Commands:** aws (15), make (1)
 > **UI Navigation:** click on (3), scroll down (2), go to (1)
-> **Code Keywords:** continue (2), delete (1), let (1)
 > **Tools:** aws console (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - man (1)
@@ -587,9 +587,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), next (4), [[Cost Management]] (1), cloud (1)
 > **CLI Commands:** aws (9), make (3)
 > **Env Vars:** aws (9)
-> **Code Keywords:** let (4), for. (1)
 > **UI Navigation:** click on (2), scroll down (2)
 > **Analogies:** just like (1), such as (1)
 > **Prerequisites:** set up (2)
@@ -598,7 +598,7 @@ created: 2026-04-29
 
 ### 2. On-Premise to AWS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### On-premise infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980)
@@ -673,7 +673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), self (2), this, (1), super (1), this. (1)
+> **Frameworks & Libraries:** data (10), cloud (3), [[Virtualization]] (3), [[Microsoft Office|Office]] (2), business (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** is called (1)
@@ -747,11 +747,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), [[Hardware]] (6), [[Amazon EC2|Ec2]] (6), [[Security]] (6), cloud (4)
 > **Env Vars:** ec2 (6), aws (3), sql (1), owasp (1)
 > **CLI Commands:** aws (3), make (1)
 > **Prerequisites:** set up (2), you need to have (1), configure (1)
 > **Definitions:** is called (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 > **Speakers:** - running (1)
@@ -807,9 +807,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), data (7), [[Cloud Infrastructure]] (2), [[Zoom]] (1), application (1)
 > **CLI Commands:** aws (9), az (2)
 > **Env Vars:** aws (9), ecs (1)
-> **Code Keywords:** let (1), switch (1)
 > **Tools:** aws console (1)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** set up (1)
@@ -834,16 +834,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[Hardware]] (1), cloud (1)
 > **Env Vars:** aws (2), dfw1a (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. IaaS Compute
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn how to create an EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980)
@@ -888,10 +888,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[WordPress]] (3), [[Ubuntu]] (3), aws (2), [[Search]] (2)
 > **Env Vars:** ec2 (3), ami (3), aws (2), lts (1)
 > **UI Navigation:** click on (4), scroll down (2), select the (1)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **Versions:** 22.04 (1)
 > **Tools:** aws console (1)
@@ -960,11 +960,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), aws (3), [[Algorithms]] (1), [[Virtual Machines]] (1), application (1)
 > **Env Vars:** cpu (8), ec2 (5), aws (2), ram (1)
 > **CLI Commands:** aws (3), find (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** such as (2), think of it like (1)
-> **Code Keywords:** this. (1), let (1)
 > **Prerequisites:** you'll need (1), configure (1)
 > **Code Identifiers:** vcpus (1)
 > **Speakers:** - sometimes (1)
@@ -1022,9 +1022,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), aws (3), web (3), [[Linux]] (2), [[Security]] (2)
 > **Env Vars:** ec2 (5), aws (3), ssh (2), pem (2), https (2)
 > **CLI Commands:** aws (3), ssh (2), make (2)
-> **Code Keywords:** private (4), public (1)
 > **Tools:** terminal (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
@@ -1112,10 +1112,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Amazon EC2|Ec2]] (5), next (4), web (4), [[Ubuntu]] (2)
 > **CLI Commands:** make (4), ssh (3), sudo (3), apt (3), apache (3)
 > **Env Vars:** ec2 (5), ssh (3), ami (1), aws (1), url (1)
 > **UI Navigation:** click on (8), checkbox (3), select the (1)
-> **Code Keywords:** public (3), switch (2), let (1)
 > **Tools:** terminal (2)
 > **Prerequisites:** install (2)
 > **Definitions:** is a  (1)
@@ -1158,10 +1158,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[Hardware]] (2), hit (2), [[Amazon EC2|Ec2]] (1)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** aws (3), make (1)
 > **Env Vars:** aws (3), ec2 (1)
-> **Code Keywords:** pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### Right-sizing with EC2 autoscaling
@@ -1203,10 +1203,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), application (4), [[Amazon EC2|Ec2]] (2), traffic (2), cloud (1)
 > **Env Vars:** aws (5), ec2 (2), cpu (2), ami (1)
 > **CLI Commands:** aws (5)
 > **Definitions:** stands for (1), is called (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - remember (1)
@@ -1294,10 +1294,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Amazon EC2|Ec2]] (3), aws (1), hit (1), traffic (1)
 > **UI Navigation:** click on (8), scroll down (1), select the (1)
 > **Env Vars:** ami (4), ec2 (3), aws (1)
 > **CLI Commands:** aws (1), make (1), apache (1)
-> **Code Keywords:** type, (1), public (1), let (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for instance (1)
@@ -1366,8 +1366,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), next (4), [[Amazon EC2|Ec2]] (4), [[Hardware]] (1), [[Search]] (1)
 > **Env Vars:** aws (4), ec2 (4)
-> **Code Keywords:** switch (3), this, (1), type. (1), delete (1)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** click on (3)
 > **Analogies:** for example (1), it's like (1), just like (1)
@@ -1376,7 +1376,7 @@ created: 2026-04-29
 
 ### 4. IaaS Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using security groups as firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980)
@@ -1487,7 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (8), let (4), private (2), interface (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (32), web (11), traffic (8), [[Amazon EC2|Ec2]] (6), next (3)
 > **Env Vars:** ec2 (6), http (6), ssh (3), aws (1), tpc (1)
 > **UI Navigation:** click on (7), select the (2)
 > **CLI Commands:** make (3), ssh (3), aws (1)
@@ -1543,8 +1543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Amazon EC2|Ec2]] (2), cloud (1), [[Security]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** vpc (13), aws (5), ec2 (2), lan (1)
-> **Code Keywords:** private (7), switch (5), let (1), public (1), delete (1)
 > **CLI Commands:** aws (5)
 > **Versions:** 192.168.1 (3), 172.31.0 (1), 172.31.255 (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -1581,7 +1581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (4), protected (1)
+> **Frameworks & Libraries:** aws (2), [[Amazon EC2|Ec2]] (2), traffic (1), web (1), database (1)
 > **Env Vars:** vpc (6), aws (2), ec2 (2)
 > **CLI Commands:** aws (2), make (1)
 > **Best Practices:** best practice (1), it's best to (1)
@@ -1637,8 +1637,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (10), [[LinkedIn]] (3), aws (2), lan (1), database (1)
 > **Env Vars:** nat (9), vpc (6), wan (3), aws (2), lan (1)
-> **Code Keywords:** private (7), public (7), interface (3), pass (2), let (1)
 > **Versions:** 1.2.3 (4), 192.168.1 (2), 5.6.7 (2)
 > **UI Navigation:** click on (3), open the (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1711,8 +1711,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), [[Amazon EC2|Ec2]] (4), dns (3), [[Search]] (2), power (1)
 > **Env Vars:** aws (8), ec2 (4), dns (3), nat (2), ipv4 (1)
-> **Code Keywords:** public (11), switch (1), this, (1), private (1)
 > **CLI Commands:** aws (8), make (2)
 > **UI Navigation:** click on (4), select the (2), go to (1), scroll down (1)
 > **Analogies:** kind of like (1), such as (1), it's like (1), for instance (1)
@@ -1781,9 +1781,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (14), vpn (7), traffic (3), [[Linux]] (3), data (3)
 > **Env Vars:** aws (14), vpn (7), vpc (5), nat (1), ssh (1)
 > **CLI Commands:** aws (14), ssh (1), make (1)
-> **Code Keywords:** public (6), private (3), protected (1), this. (1), let (1)
 > **Tools:** aws console (2), terminal (1), command line (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** click on (2)
@@ -1841,7 +1841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), break, (1)
+> **Frameworks & Libraries:** traffic (8), aws (2), application (2), web (2)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** aws (2)
@@ -1975,9 +1975,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), traffic (8), [[Amazon EC2|Ec2]] (4), next (4), dns (2)
 > **Env Vars:** alb (8), http (5), ec2 (4), vpc (2), dns (2)
 > **UI Navigation:** click on (7), select the (5), scroll down (2), open the (1)
-> **Code Keywords:** public (3), private (1), delete (1)
 > **Ports:** port 80 (4)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -1990,7 +1990,7 @@ created: 2026-04-29
 
 ### 5. IaaS Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hard drives with Elastic Block Store (EBS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980)
@@ -2069,9 +2069,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), data (3), [[Linux]] (2), [[Windows]] (2), aws (2)
 > **Env Vars:** ebs (7), ec2 (4), ami (4), aws (2)
 > **UI Navigation:** click on (6), select the (1), scroll down (1)
-> **Code Keywords:** let (2), switch (1), this. (1), this, (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** just like (1), such as (1)
@@ -2184,10 +2184,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (11), hit (10), aws (8), [[Amazon EC2|Ec2]] (3), [[Search]] (2)
 > **CLI Commands:** php (11), aws (8), composer (2), make (1), find (1)
 > **Env Vars:** php (7), aws (6), sdk (4), ec2 (3), ami (1)
 > **UI Navigation:** click on (7), open the (1)
-> **Code Keywords:** let (2), interface (1), require (1), switch (1), this. (1)
 > **Tools:** terminal (5), aws console (1)
 > **File Paths:** s3test.php (3), testfromphp.txt (1), node.js (1)
 > **Exercise Files:** source code (3), exercise files (1)
@@ -2276,10 +2276,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), aws (5), next (3), [[PHP]] (3), [[Search]] (2)
 > **Env Vars:** ec2 (8), iam (6), aws (5), ctrl (2), ssh (1)
 > **UI Navigation:** click on (10), checkbox (1), select the (1)
 > **CLI Commands:** aws (5), php (3), make (1), ssh (1), find (1)
-> **Code Keywords:** type. (2), switch (2), let (1), case, (1), delete (1)
 > **File Paths:** test.php (1), s3test.php (1)
 > **Tools:** aws console (1)
 > **Definitions:** is a  (1)
@@ -2332,10 +2332,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), [[Amazon EC2|Ec2]] (4), management (1), [[Security]] (1)
 > **Env Vars:** iam (15), aws (11), ec2 (4)
 > **CLI Commands:** aws (11)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2360,9 +2360,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[Amazon EC2|Ec2]] (1), [[Search]] (1), api (1)
 > **Env Vars:** aws (3), iam (1), ec2 (1), api (1)
 > **CLI Commands:** aws (3), find (1)
-> **Code Keywords:** pass (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2429,7 +2429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), let (2), delete (2), class, (2), protected (1)
+> **Frameworks & Libraries:** data (11), aws (8), management (2), [[Amazon EC2|Ec2]] (1), next (1)
 > **UI Navigation:** click on (7), go to (1), select the (1), scroll down (1)
 > **CLI Commands:** aws (8), node (1)
 > **Env Vars:** aws (8), ec2 (1)
@@ -2531,7 +2531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), static (2), let (2), type, (2)
+> **Frameworks & Libraries:** data (3), [[LinkedIn]] (3), [[Search]] (2), traffic (2), database (1)
 > **UI Navigation:** click on (10), scroll down (2), checkbox (1), select the (1)
 > **CLI Commands:** find (2), make (2), aws (1)
 > **Env Vars:** url (3), cdn (1), aws (1)
@@ -2543,7 +2543,7 @@ created: 2026-04-29
 
 ### 6. Database as a Service (DBaaS)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is database as a service (DBaaS)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980)
@@ -2602,9 +2602,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (22), data (18), aws (6), application (5), [[Big Data]] (3)
 > **CLI Commands:** aws (6)
 > **Env Vars:** aws (6)
-> **Code Keywords:** case. (1), let (1)
 > **Definitions:** is called (1)
 > **Speakers:** - aws (1)
 
@@ -2671,10 +2671,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (20), [[MySQL]] (4), [[PostgreSQL|Postgres]] (4), [[Amazon EC2|Ec2]] (3), aws (3)
 > **Env Vars:** rds (11), ec2 (3), aws (3), sql (2)
 > **CLI Commands:** mysql (4), az (4), aws (3), make (3)
 > **Analogies:** similar to (2), just like (1), such as (1)
-> **Code Keywords:** let (2), delete (1)
 > **Prerequisites:** install (1), you'll need (1), configure (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is called (1)
@@ -2721,9 +2721,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (6), [[Databases]] (5), database (5), data (4), aws (2)
 > **CLI Commands:** mongo (3), aws (2)
 > **Env Vars:** aws (2), sql (1), rds (1), ecs (1)
-> **Code Keywords:** let (1), this. (1)
 > **Definitions:** is called (1), is a  (1)
 > **Documentation:** the docs (1)
 > **Analogies:** it's like (1)
@@ -2754,6 +2754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Redis]] (3), database (2), application (2), aws (2)
 > **Env Vars:** aws (2), php (1), ec2 (1)
 > **CLI Commands:** aws (2), php (1)
 > **Prerequisites:** install (1)
@@ -2799,10 +2800,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (6), application (3), [[Real-Time]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sqs (6), sns (4), aws (1), http (1)
 > **Analogies:** such as (3), picture (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** this. (1), let (1)
 > **CLI Commands:** aws (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - when (1)
@@ -2810,7 +2811,7 @@ created: 2026-04-29
 
 ### 7. Platform as a Service (PaaS)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hosting web apps with Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980)
@@ -2835,9 +2836,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[WordPress]] (3), [[Amazon EC2|Ec2]] (2), web (2), database (1)
 > **Env Vars:** aws (3), ec2 (2), rds (1), efs (1)
 > **CLI Commands:** aws (3)
-> **Code Keywords:** let (1), interface (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2904,12 +2905,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), application (4), [[Microservices]] (3), aws (2), web (2)
 > **Env Vars:** ec2 (9), ecs (5), aws (2), ecr (1), api (1)
 > **CLI Commands:** docker (2), aws (2), python (1), find (1)
 > **Analogies:** such as (2), imagine (1), just like (1)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** set up (2), setup (1)
-> **Code Keywords:** let (2)
 > **Tools:** gitlab (1)
 > **UI Navigation:** select the (1)
 
@@ -2950,9 +2951,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Amazon EC2|Ec2]] (3), [[Orchestration]] (2), [[Google]] (1), cloud (1)
 > **Env Vars:** ecs (5), eks (5), ec2 (3), aws (1)
 > **CLI Commands:** find (3), aws (1)
-> **Code Keywords:** switch (1), let (1)
 > **Definitions:** is called (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3007,7 +3008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (15), function (6), let (1)
+> **Frameworks & Libraries:** application (2), aws (2), web (2), [[PaaS|Platform as a service]] (1), [[PaaS]] (1)
 > **Env Vars:** ecs (2), aws (2), ec2 (1), ses (1), sns (1)
 > **CLI Commands:** aws (2), make (1), find (1), node (1)
 > **Exercise Files:** source code (2)
@@ -3049,7 +3050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (2), function (1), this, (1), let (1)
+> **Frameworks & Libraries:** aws (3), data (2), [[Batch Processing]] (2), database (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (3), sqs (1), ec2 (1)
 > **CLI Commands:** aws (3)
 > **Cross-References:** we talked about (1)
@@ -3060,7 +3061,7 @@ created: 2026-04-29
 
 ### 8. Software as a Service (SaaS)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### User authentication for your app
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980)
@@ -3165,9 +3166,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), next (5), [[Google]] (3), [[Search]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** aws (7), mfa (2), ses (2), iam (2), ec2 (1)
 > **CLI Commands:** aws (7), make (1)
-> **Code Keywords:** delete (2), let (1), require (1), this, (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** similar to (1), just like (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
@@ -3199,9 +3200,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), aws (3), [[Microservices]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** api (8), aws (3), rest (2), eks (2), ec2 (2)
 > **CLI Commands:** aws (3), make (1), find (1)
-> **Code Keywords:** lambda (2), interface (1), function (1), let (1)
 > **Analogies:** for instance (1), such as (1)
 > **URLs:** [halvanta.com](https://halvanta.com) (1)
 > **Speakers:** - [instructor] (1)
@@ -3255,9 +3256,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), data (2), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), chatbot (1)
 > **CLI Commands:** aws (2), find (2)
 > **Speakers:** - we (1), - [computer] (1), - [instructor] (1)
-> **Code Keywords:** let (1), pass (1)
 > **Env Vars:** aws (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -3266,7 +3267,7 @@ created: 2026-04-29
 
 ### 9. DevOps with AWS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-devops?u=76281980)
@@ -3319,7 +3320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), let (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), career (2), feature (1), teams (1), api (1)
 > **Env Vars:** api (1), aws (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** aws (1)
@@ -3361,6 +3362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Agile Development|Agile]] (2), [[DevOps]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), ci (1)
 > **CLI Commands:** make (4), find (1), cd (1)
 > **Env Vars:** ecs (3), ec2 (2)
 > **Analogies:** imagine (1), such as (1)
@@ -3447,13 +3449,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (14), [[Terraform]] (6), web (4), cloud (3), [[Ansible]] (3)
 > **CLI Commands:** aws (14), terraform (6), ansible (3), find (1)
 > **Env Vars:** aws (14), ec2 (3), ami (1), api (1)
 > **Exercise Files:** template (5)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Analogies:** it's like (1), for example (1), such as (1), similar to (1)
 > **Prerequisites:** set up (3), install (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** earlier in (1)
 
 #### Monitoring with CloudWatch
@@ -3509,10 +3511,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), application (4), [[DevOps]] (2), [[Amazon EC2|Ec2]] (2), [[Twilio]] (1)
 > **Env Vars:** aws (9), ec2 (2), sms (1), api (1), apm (1)
 > **UI Navigation:** click on (8), scroll down (2), go to (1)
 > **CLI Commands:** aws (9)
-> **Code Keywords:** lambda (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -3545,17 +3547,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[DevOps]] (2), [[Amazon EC2|Ec2]] (1), database (1), [[Debugging]] (1)
 > **Env Vars:** aws (3), ec2 (1), rds (1), api (1)
 > **CLI Commands:** aws (3), make (2)
 > **Exercise Files:** source code (4)
 > **Analogies:** such as (1), think of it like (1)
-> **Code Keywords:** lambda (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 10. Security on AWS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS Shield and firewalls with WAF
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-shield-and-firewalls-with-waf?u=76281980)
@@ -3588,10 +3590,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), [[Security]] (4), web (3), traffic (3), web application (3)
 > **Env Vars:** aws (6), waf (1)
 > **CLI Commands:** aws (6)
 > **Cross-References:** earlier in (1), later in (1)
-> **Code Keywords:** this. (1)
 > **Analogies:** for instance (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - now (1)
@@ -3643,11 +3645,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), aws (6), [[Security]] (5), application (3), [[WordPress]] (2)
 > **CLI Commands:** aws (6), apache (1), find (1), make (1)
 > **Env Vars:** aws (6), ec2 (1), waf (1)
 > **Analogies:** think of it as (2)
 > **Prerequisites:** getting started (1), you'll need (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
@@ -3676,6 +3678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), management (2), aws (2), [[Linux]] (1), node (1)
 > **CLI Commands:** aws (2), node (1), terraform (1)
 > **Env Vars:** ec2 (2), aws (2)
 > **Tools:** terminal (1)
@@ -3711,9 +3714,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), aws (5), [[Microsoft Products|Products]] (3), data (2), api (1)
 > **Env Vars:** aws (5), api (1)
 > **CLI Commands:** aws (5)
-> **Code Keywords:** let (1), this, (1), delete (1)
 > **Definitions:** is an  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - sometimes (1)
@@ -3735,16 +3738,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), data (2), [[Security]] (1), cloud (1), api (1)
 > **Env Vars:** aws (3), vpc (1), api (1)
 > **CLI Commands:** aws (3), find (1)
-> **Code Keywords:** let (1)
 > **Tools:** aws console (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Check for unwanted charges
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/check-for-unwanted-charges?u=76281980)
@@ -3763,7 +3766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), continue (1), for. (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ec2 (1), ebs (1)
 > **Best Practices:** remember to (1)
@@ -3856,9 +3859,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (14), [[Security]] (6), cloud (5), data (5), application (5)
 > **CLI Commands:** aws (14), make (3), find (1)
 > **Env Vars:** aws (13), ec2 (3), ebs (1)
-> **Code Keywords:** let (2), lambda (2), require (1), function (1)
 > **Analogies:** such as (5)
 > **UI Navigation:** go to (1), click on (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
@@ -3920,9 +3923,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), application (4), [[LinkedIn]] (1), teams (1), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** aws (13), make (1)
 > **Env Vars:** aws (12), apn (1)
-> **Code Keywords:** interface (1), switch (1)
 > **Documentation:** the documentation (1), the docs (1)
 > **UI Navigation:** click on (1), switch to (1)
 > **Prerequisites:** you'll need (2)

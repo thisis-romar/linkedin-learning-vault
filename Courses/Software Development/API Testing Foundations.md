@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/api-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/API%20Testing%20Foundations.md)
@@ -48,44 +48,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Standing out as an API tester
+  - [Standing out as an API tester](#standing-out-as-an-api-tester)
 - [**1. Getting Started with API Testing**](#1-getting-started-with-api-testing) (5 videos)
-  - Calling an API
-  - Your first tool: Postman
-  - Introduction to web services
-  - Types of APIs
-  - Risks of using services and APIs
+  - [Calling an API](#calling-an-api)
+  - [Your first tool: Postman](#your-first-tool-postman)
+  - [Introduction to web services](#introduction-to-web-services)
+  - [Types of APIs](#types-of-apis)
+  - [Risks of using services and APIs](#risks-of-using-services-and-apis)
 - [**2. Exploratory API Testing**](#2-exploratory-api-testing) (4 videos)
-  - Install and set up API challenges
-  - Exploring an API
-  - Challenge: API discovery
-  - Solution: API discovery
+  - [Install and set up API challenges](#install-and-set-up-api-challenges)
+  - [Exploring an API](#exploring-an-api)
+  - [Challenge: API discovery](#challenge-api-discovery)
+  - [Solution: API discovery](#solution-api-discovery)
 - [**3. API Authorization**](#3-api-authorization) (5 videos)
-  - Overview of authorization and authentication
-  - Basic auth in API calls
-  - Using authorization tokens
-  - Finding Bearer Tokens
-  - Setting up OAuth
+  - [Overview of authorization and authentication](#overview-of-authorization-and-authentication)
+  - [Basic auth in API calls](#basic-auth-in-api-calls)
+  - [Using authorization tokens](#using-authorization-tokens)
+  - [Finding Bearer Tokens](#finding-bearer-tokens)
+  - [Setting up OAuth](#setting-up-oauth)
 - [**4. Hands-On API Testing**](#4-hands-on-api-testing) (9 videos)
-  - Testing GET calls
-  - Testing PUT calls
-  - Testing DELETE calls
-  - Challenge: Break the API
-  - Solution: Break the API
-  - Understanding POST calls
-  - Testing POST calls
-  - Challenge: Access protected endpoints
-  - Solution: Access protected endpoints
+  - [Testing GET calls](#testing-get-calls)
+  - [Testing PUT calls](#testing-put-calls)
+  - [Testing DELETE calls](#testing-delete-calls)
+  - [Challenge: Break the API](#challenge-break-the-api)
+  - [Solution: Break the API](#solution-break-the-api)
+  - [Understanding POST calls](#understanding-post-calls)
+  - [Testing POST calls](#testing-post-calls)
+  - [Challenge: Access protected endpoints](#challenge-access-protected-endpoints)
+  - [Solution: Access protected endpoints](#solution-access-protected-endpoints)
 - [**5. Additional API Testing Consideration**](#5-additional-api-testing-consideration) (4 videos)
-  - Using mocks, stubs, and fakes in API testing
-  - API automation
-  - Performance testing
-  - Security testing
+  - [Using mocks, stubs, and fakes in API testing](#using-mocks-stubs-and-fakes-in-api-testing)
+  - [API automation](#api-automation)
+  - [Performance testing](#performance-testing)
+  - [Security testing](#security-testing)
 - [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Standing out as an API tester
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980)
@@ -106,14 +106,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Software Testing]] (1)
 > **Env Vars:** api (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Getting Started with API Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calling an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980)
@@ -182,8 +182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), [[JSON]] (6), application (2), [[HTML]] (1), prompt (1)
 > **Env Vars:** api (9), json (4), url (2), curl (2), http (1)
-> **Code Keywords:** let (3), super (1), this. (1), default, (1), case. (1)
 > **UI Navigation:** go to (2), navigate to (1), scroll down (1)
 > **Tools:** command line (1), terminal (1), command prompt (1)
 > **CLI Commands:** curl (2)
@@ -222,11 +222,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3)
 > **Tools:** postman (8)
 > **URLs:** [postman.com](https://postman.com) (1), [postman.co](https://postman.co) (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -303,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), function (2), case, (1)
+> **Frameworks & Libraries:** web (5), api (4), traffic (2), [[Microservices]] (1), cloud (1)
 > **Env Vars:** api (4)
 > **Definitions:** is an  (2), is a  (1), means that (1)
 > **CLI Commands:** find (1)
@@ -409,8 +409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), [[Representational State Transfer (REST)|Rest]] (5), [[GraphQL]] (5), web (1), application (1)
 > **Env Vars:** api (13), soap (11), rest (5), xml (3), url (2)
-> **Code Keywords:** let (5), interface (1), this. (1), switch (1)
 > **CLI Commands:** make (5)
 > **Definitions:** stands for (2), is called (1), is an  (1)
 > **Tools:** postman (3)
@@ -513,8 +513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (17), [[Security]] (2), data (1), web (1)
 > **Env Vars:** api (17)
-> **Code Keywords:** interface (3), public (1), private (1), require (1), let (1)
 > **Definitions:** is an  (2), means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -525,7 +525,7 @@ created: 2026-04-29
 
 ### 2. Exploratory API Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and set up API challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980)
@@ -602,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), public (3), this. (1)
+> **Frameworks & Libraries:** application (5), [[GitHub]] (3), [[Python (Programming Language)|Python]] (2), [[Codespaces]] (1), hit (1)
 > **CLI Commands:** make (6), python (2)
 > **UI Navigation:** click on (5), go to (1), right-click (1)
 > **Tools:** github (3), terminal (2)
@@ -742,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), delete (3), this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** api (7), data (5), application (3), [[Fetch]] (2), [[JSON]] (2)
 > **Env Vars:** api (7), url (3), post (3), json (2), f12 (1)
 > **UI Navigation:** click on (3), go to (2)
 > **API Endpoints:** post  (2), get
@@ -801,10 +801,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), application (2), next (2)
 > **Env Vars:** api (10)
 > **CLI Commands:** find (4)
 > **Cross-References:** in the next (2), previous video (1)
-> **Code Keywords:** this, (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** be careful (1)
@@ -939,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), switch (1), require (1), else. (1), case. (1)
+> **Frameworks & Libraries:** data (4), application (2), api (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (3), api (1), www (1), json (1), f12 (1)
 > **Documentation:** the documentation (4)
 > **CLI Commands:** find (1), make (1)
@@ -951,7 +951,7 @@ created: 2026-04-29
 
 ### 3. API Authorization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of authorization and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/overview-of-authorization-and-authentication?u=76281980)
@@ -1012,7 +1012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), abstract (1), case, (1)
+> **Frameworks & Libraries:** [[Security]] (5), api (3), next (1)
 > **Analogies:** picture (3), for example (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (2)
@@ -1109,9 +1109,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), data (2), hit (1), [[Microsoft Word|Word]] (1)
 > **Tools:** postman (10)
 > **Env Vars:** api (4), url (3)
-> **Code Keywords:** let (2), this, (2)
 > **CLI Commands:** make (2)
 > **URLs:** [base64decode.org](https://base64decode.org) (1)
 > **Documentation:** spec (1)
@@ -1169,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3), this, (2), for, (1), case, (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), api (2), [[GitHub]] (2), [[JSON]] (2), next (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Env Vars:** api (2), json (2)
 > **Tools:** github (2), postman (2)
@@ -1277,8 +1277,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (20), [[Tokens]] (6), [[Representational State Transfer (REST)|Rest]] (1), application (1), [[GitHub]] (1)
 > **Env Vars:** api (19), rest (1), iucn (1), url (1)
-> **Code Keywords:** let (6), pass (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (2), find (1), curl (1)
 > **Documentation:** the documentation (3)
@@ -1371,8 +1371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (13), api (5), [[Google]] (1), [[Tokens]] (1), prompt (1)
 > **Env Vars:** url (6), api (5)
-> **Code Keywords:** let (8), this, (1), this. (1)
 > **Tools:** postman (5)
 > **Prerequisites:** set up (2), you'll need (1), make sure you have (1), configure (1)
 > **UI Navigation:** scroll down (1), click on (1), dropdown (1)
@@ -1383,7 +1383,7 @@ created: 2026-04-29
 
 ### 4. Hands-On API Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing GET calls
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-get-calls?u=76281980)
@@ -1478,7 +1478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (1), for, (1), case, (1)
+> **Frameworks & Libraries:** api (5), [[Search]] (4), data (3)
 > **Env Vars:** api (5), url (2)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** find (2), make (1)
@@ -1566,7 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), delete (1), for. (1), case, (1)
+> **Frameworks & Libraries:** api (2), [[Security]] (2), data (1)
 > **Env Vars:** url (3), api (2)
 > **URLs:** [test.com](https://test.com) (1)
 > **Analogies:** for example (1)
@@ -1647,7 +1647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (17), let (5), self (1), this. (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** in other words (1)
@@ -1698,9 +1698,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), application (4), prompt (1)
 > **Env Vars:** api (6)
 > **CLI Commands:** find (3)
-> **Code Keywords:** interface (2)
 > **Tools:** postman (1), command prompt (1)
 > **Best Practices:** don't forget (2)
 > **Speakers:** - [instructor] (1)
@@ -1783,7 +1783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), else. (2), delete (1)
+> **Frameworks & Libraries:** api (2)
 > **Env Vars:** api (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
@@ -1882,8 +1882,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[JSON]] (4), api (3), application (1), next (1)
 > **Env Vars:** post (5), json (4), api (3), url (2)
-> **Code Keywords:** let (7), this, (2), switch (1), this. (1), case, (1)
 > **API Endpoints:** post  (4), post
  (1)
 > **Code Identifiers:** my_key (1), my_value (1)
@@ -2005,7 +2005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (4), this. (3), interface (1), pass (1)
+> **Frameworks & Libraries:** data (8), api (5), [[Security]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** post (6), api (5), html (1)
 > **API Endpoints:** post  (6), get  (1)
 > **CLI Commands:** make (5)
@@ -2057,7 +2057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), protected (1)
+> **Frameworks & Libraries:** data (2), api (1), application (1), [[Security]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
@@ -2134,7 +2134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), protected (1), this. (1), override (1), else. (1)
+> **Frameworks & Libraries:** data (1), application (1)
 > **Env Vars:** url (1), post (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2143,7 +2143,7 @@ created: 2026-04-29
 
 ### 5. Additional API Testing Consideration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using mocks, stubs, and fakes in API testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980)
@@ -2220,7 +2220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), case, (1), else. (1)
+> **Frameworks & Libraries:** api (4), application (3), data (2), [[Unit Testing]] (1), next (1)
 > **Env Vars:** api (4), url (1)
 > **Tools:** postman (3)
 > **Warnings:** be careful (3)
@@ -2312,9 +2312,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), [[Automation]] (8), data (6), [[Test Automation]] (2), next (2)
 > **Env Vars:** api (8)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** pass (2), let (1), case, (1), continue (1)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -2406,10 +2406,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), [[Python (Programming Language)|Python]] (4), [[Load Testing]] (1), application (1), prompt (1)
 > **Env Vars:** api (8)
 > **CLI Commands:** python (4), make (1)
 > **Tools:** postman (3), visual studio (1), command prompt (1)
-> **Code Keywords:** let (2), for. (1), this. (1)
 > **Analogies:** for example (1), imagine (1)
 > **File Paths:** performancetestsetup.py (1)
 > **Warnings:** be aware (1)
@@ -2470,6 +2470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), [[Security]] (5), [[Scripting]] (2), [[Automation]] (2), [[Web Development]] (1)
 > **Env Vars:** api (9), sql (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (1), is a  (1)
@@ -2480,7 +2481,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

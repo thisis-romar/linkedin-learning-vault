@@ -41,7 +41,7 @@ tags:
   - topic/software-development
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Foundations.md)
@@ -60,68 +60,68 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding the cybersecurity frameworks and standards
-  - What you should know
+  - [Understanding the cybersecurity frameworks and standards](#understanding-the-cybersecurity-frameworks-and-standards)
+  - [What you should know](#what-you-should-know)
 - [**1. Cyber Threats**](#1-cyber-threats) (12 videos)
-  - Understanding the Cyber Kill Chain
-  - Pre-cyber threats
-  - The emergence of the cyber threats
-  - Botnets and the cybercrime industry
-  - Cloaking and alternate data streams
-  - Hiding using processes
-  - Controlling the target through a rootkit
-  - Phishing and watering holes
-  - Understanding advanced persistent threats
-  - Ransomware: A modern form of extortion
-  - Cryptomining
-  - Hardware implants and other cyber FUD
+  - [Understanding the Cyber Kill Chain](#understanding-the-cyber-kill-chain)
+  - [Pre-cyber threats](#pre-cyber-threats)
+  - [The emergence of the cyber threats](#the-emergence-of-the-cyber-threats)
+  - [Botnets and the cybercrime industry](#botnets-and-the-cybercrime-industry)
+  - [Cloaking and alternate data streams](#cloaking-and-alternate-data-streams)
+  - [Hiding using processes](#hiding-using-processes)
+  - [Controlling the target through a rootkit](#controlling-the-target-through-a-rootkit)
+  - [Phishing and watering holes](#phishing-and-watering-holes)
+  - [Understanding advanced persistent threats](#understanding-advanced-persistent-threats)
+  - [Ransomware: A modern form of extortion](#ransomware-a-modern-form-of-extortion)
+  - [Cryptomining](#cryptomining)
+  - [Hardware implants and other cyber FUD](#hardware-implants-and-other-cyber-fud)
 - [**2. Frameworks for Protection against Cyber Threats**](#2-frameworks-for-protection-against-cyber-threats) (12 videos)
-  - The Orange Book: Early concepts in computer security
-  - Understanding the NIST Cybersecurity Framework
-  - Adopting the NIST Cybersecurity Framework
-  - Understanding the basics of cyber risk
-  - Analyzing cyber threats and controls
-  - Recording, reporting, and the risk context
-  - An advanced risk framework
-  - Managing security with COBIT
-  - COBIT for operational security
-  - Introduction to cybersecurity controls
-  - Cybersecurity control framework
-  - Cybersecurity standards of good practice
+  - [The Orange Book: Early concepts in computer security](#the-orange-book-early-concepts-in-computer-security)
+  - [Understanding the NIST Cybersecurity Framework](#understanding-the-nist-cybersecurity-framework)
+  - [Adopting the NIST Cybersecurity Framework](#adopting-the-nist-cybersecurity-framework)
+  - [Understanding the basics of cyber risk](#understanding-the-basics-of-cyber-risk)
+  - [Analyzing cyber threats and controls](#analyzing-cyber-threats-and-controls)
+  - [Recording, reporting, and the risk context](#recording-reporting-and-the-risk-context)
+  - [An advanced risk framework](#an-advanced-risk-framework)
+  - [Managing security with COBIT](#managing-security-with-cobit)
+  - [COBIT for operational security](#cobit-for-operational-security)
+  - [Introduction to cybersecurity controls](#introduction-to-cybersecurity-controls)
+  - [Cybersecurity control framework](#cybersecurity-control-framework)
+  - [Cybersecurity standards of good practice](#cybersecurity-standards-of-good-practice)
 - [**3. Making Cybersecurity Effective**](#3-making-cybersecurity-effective) (10 videos)
-  - Architecting for security
-  - Protecting payment card data
-  - Clouding the issues
-  - Securing things on the internet
-  - Affordable cybersecurity
-  - Ensuring security is effective
-  - Protecting privacy with cybersecurity
-  - Understanding the zero trust approach to network access
-  - Resilience as an emerging approach
-  - Ensuring supply chain security through SBOMs
+  - [Architecting for security](#architecting-for-security)
+  - [Protecting payment card data](#protecting-payment-card-data)
+  - [Clouding the issues](#clouding-the-issues)
+  - [Securing things on the internet](#securing-things-on-the-internet)
+  - [Affordable cybersecurity](#affordable-cybersecurity)
+  - [Ensuring security is effective](#ensuring-security-is-effective)
+  - [Protecting privacy with cybersecurity](#protecting-privacy-with-cybersecurity)
+  - [Understanding the zero trust approach to network access](#understanding-the-zero-trust-approach-to-network-access)
+  - [Resilience as an emerging approach](#resilience-as-an-emerging-approach)
+  - [Ensuring supply chain security through SBOMs](#ensuring-supply-chain-security-through-sboms)
 - [**4. Detecting and Managing Cyber Incidents**](#4-detecting-and-managing-cyber-incidents) (6 videos)
-  - Incident management basics
-  - Measuring incident management maturity
-  - Detecting an attack
-  - Hunting for threats
-  - Responding to an incident
-  - Communications plan and notification
+  - [Incident management basics](#incident-management-basics)
+  - [Measuring incident management maturity](#measuring-incident-management-maturity)
+  - [Detecting an attack](#detecting-an-attack)
+  - [Hunting for threats](#hunting-for-threats)
+  - [Responding to an incident](#responding-to-an-incident)
+  - [Communications plan and notification](#communications-plan-and-notification)
 - [**5. Cybersecurity and AI**](#5-cybersecurity-and-ai) (4 videos)
-  - Intoduction to AI security
-  - Understand the AI threats
-  - AI application guardrails
-  - ISO42001 AI Management System
+  - [Intoduction to AI security](#intoduction-to-ai-security)
+  - [Understand the AI threats](#understand-the-ai-threats)
+  - [AI application guardrails](#ai-application-guardrails)
+  - [ISO42001 AI Management System](#iso42001-ai-management-system)
 - [**6. Cyber Diplomacy**](#6-cyber-diplomacy) (4 videos)
-  - Cybersecurity goes global
-  - Understanding cyber norms
-  - Cybil and the Global Forum on Cyber Expertise
-  - The Traffic Light Protocol
+  - [Cybersecurity goes global](#cybersecurity-goes-global)
+  - [Understanding cyber norms](#understanding-cyber-norms)
+  - [Cybil and the Global Forum on Cyber Expertise](#cybil-and-the-global-forum-on-cyber-expertise)
+  - [The Traffic Light Protocol](#the-traffic-light-protocol)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the cybersecurity frameworks and standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cybersecurity-frameworks-and-standards?u=76281980)
@@ -140,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), career (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [malcolm] (1)
 
@@ -166,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Forms]] (1), career (1), [[LinkedIn]] (1), [[Security]] (1)
 > **Env Vars:** isaca (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [host] (1)
@@ -173,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Cyber Threats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the Cyber Kill Chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980)
@@ -290,9 +292,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), next (1), [[Banking]] (1), [[Phishing]] (1), [[HTML]] (1)
 > **Definitions:** known as (6)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** self (1), require (1), finally, (1), include, (1)
 > **Env Vars:** pdf (1), html (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
@@ -363,8 +365,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), business (2), web (2), data (2), [[Forms]] (1)
 > **Definitions:** known as (5)
-> **Code Keywords:** case, (1), raise (1)
 > **Speakers:** - [instructor] (1)
 
 #### The emergence of the cyber threats
@@ -412,8 +414,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Databases]] (1), [[Cybersecurity]] (1), [[Security]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -508,8 +510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (3), [[Banking]] (3), business (2), web (1), traffic (1)
 > **Definitions:** known as (4), is a  (2)
-> **Code Keywords:** module (1), protected (1), this, (1)
 > **Env Vars:** usb (1), rat (1), ice (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1), find (1)
@@ -624,9 +626,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Windows]] (7), cd (2), [[Microsoft]] (2), application (1)
 > **File Paths:** datafile.txt (13), adsfile.txt (3), hidden.txt (3), desktop.ini (2)
 > **Env Vars:** data (2), clsid (1), uiclsid (1), dos (1), fat (1)
-> **Code Keywords:** let (6)
 > **CLI Commands:** cd (2), find (1)
 > **Definitions:** is a  (2), known as (1)
 > **Tools:** terminal (1), command line (1)
@@ -723,7 +725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), pass (2), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Windows]] (8), application (3), next (2), data (2), [[Microsoft]] (1)
 > **Env Vars:** alt (4), mod (1)
 > **File Paths:** wmisvc64.cpp (2), intercept.txt (1)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -835,11 +837,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Intrusion Detection]] (4), application (2), [[Windows]] (2), next (2)
 > **Env Vars:** dkom (3), eprocess (3), tdl3 (3), ddk (1), ssh (1)
 > **Definitions:** known as (2), is a  (2), is an  (1)
 > **Prerequisites:** install (4)
 > **CLI Commands:** find (2), ssh (1)
-> **Code Keywords:** module (2), this. (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -926,7 +928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1), delete (1)
+> **Frameworks & Libraries:** [[Phishing]] (16), business (3), [[Security]] (2), application (1), [[Forms]] (1)
 > **UI Navigation:** click on (2), open the (1)
 > **Env Vars:** fifa (2)
 > **Definitions:** is a  (1), known as (1)
@@ -1034,9 +1036,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Telecommunications]] (1), power (1), application (1), traffic (1)
 > **Env Vars:** apt (14), scada (2), http (1), dns (1), btz (1)
 > **CLI Commands:** apt (14), make (1), find (1)
-> **Code Keywords:** module (2), continue (1), function (1), let (1), public (1)
 > **Definitions:** known as (4)
 > **Analogies:** such as (3)
 > **UI Navigation:** scroll down (1)
@@ -1119,8 +1121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (2), business (2), hit (1), [[Cybersecurity]] (1), [[LinkedIn]] (1)
 > **Env Vars:** fbi (2), aes (2), ups (1), rsa (1)
-> **Code Keywords:** let (2), this. (1), require (1)
 > **Analogies:** such as (3)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1157,6 +1159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptocurrency]] (4), [[Forms]] (2), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [lecturer] (1)
@@ -1212,7 +1215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (3), module (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Cybersecurity]] (3), data (2), [[Security]] (2), cloud (1)
 > **Env Vars:** fud (3), cnn (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1221,7 +1224,7 @@ created: 2026-04-29
 
 ### 2. Frameworks for Protection against Cyber Threats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Orange Book: Early concepts in computer security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-orange-book-early-concepts-in-computer-security?u=76281980)
@@ -1292,8 +1295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), data (1), [[Hardware]] (1)
 > **Definitions:** known as (2), is an  (1)
-> **Code Keywords:** module (1), function (1)
 > **Env Vars:** tcb (2)
 > **Cross-References:** later in (1)
 > **Prerequisites:** required to (1)
@@ -1346,9 +1349,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[NIST]] (5), [[Security]] (3), business (1), [[Continuous Monitoring]] (1)
 > **Env Vars:** nist (5), iso (2), cobit (2), csf (1), isa (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
-> **Code Keywords:** this, (1), let (1)
 > **Analogies:** for example (2)
 > **Versions:** version 2 (1)
 > **Speakers:** - [instructor] (1)
@@ -1396,9 +1399,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (14), [[NIST]] (3), business (3), management (3), next (1)
 > **Env Vars:** nist (3)
 > **Definitions:** is a  (1), known as (1)
-> **Code Keywords:** extends (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1467,6 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), management (3), [[Security]] (2), data (2), power (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iso (1)
@@ -1507,9 +1511,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), business (3), management (1), [[NIST]] (1), [[Resiliency]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** nist (1), att (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1576,11 +1580,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), management (1), [[Automation]] (1)
 > **Definitions:** known as (1), is a  (1), refers to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), picture (1)
 > **Prerequisites:** set up (1), required to (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** grc (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (jazzy music) (1)
@@ -1636,6 +1640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (10), [[Security]] (9), business (5), [[Privacy]] (4), [[Risk Management Framework (RMF)|Risk management framework]] (3)
 > **Definitions:** known as (1), is a  (1)
 > **Env Vars:** nist (1)
 > **Speakers:** - [instructor] (1)
@@ -1699,9 +1704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), management (4), [[Information Security Management]] (4), [[Cybersecurity]] (1), business (1)
 > **Env Vars:** apo13 (6), cobit (5), isms (2), iso (2), isaca (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1768,9 +1773,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (24), management (8), [[Cybersecurity]] (4), [[Intrusion Detection]] (2), [[Network Security]] (2)
 > **Env Vars:** dss05 (4), apo13 (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -1832,8 +1837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Cybersecurity]] (2), [[Security]] (1), [[NIST]] (1), functional (1)
 > **Definitions:** known as (3), is a  (1)
-> **Code Keywords:** finally, (1), let (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
 > **Best Practices:** recommended (1)
@@ -1902,11 +1907,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[NIST]] (3), [[Cybersecurity]] (2), business (1), [[Privacy]] (1)
 > **Env Vars:** iso (4), nist (3), sql (1)
 > **Analogies:** such as (2), for example (2)
 > **Versions:** 11.5.2 (2)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1971,9 +1976,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (4), management (3), [[NIST]] (1), data (1)
 > **Env Vars:** isf (5), dnb (3), iso (1), nist (1), covit (1)
 > **Best Practices:** good practice (7)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), known as (1)
 > **Versions:** 12.1 (1)
 > **Analogies:** such as (1)
@@ -1982,7 +1987,7 @@ created: 2026-04-29
 
 ### 3. Making Cybersecurity Effective
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecting for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/architecting-for-security?u=76281980)
@@ -2057,9 +2062,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (25), [[Security]] (22), generic (1), management (1)
 > **Env Vars:** sabsa (6)
 > **Analogies:** such as (1), picture (1)
-> **Code Keywords:** protected (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -2193,8 +2198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Security]] (14), business (3), traffic (2), next (2)
 > **Env Vars:** pci (14), byod (1), ssl (1), sql (1)
-> **Code Keywords:** let (4), protected (2), self (1), extends (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (1)
@@ -2247,8 +2252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (25), [[Security]] (16), [[Forms]] (2), business (1), [[IaaS|Infrastructure as a service]] (1)
 > **Env Vars:** iso (3), nist (1), csa (1), ccm (1)
-> **Code Keywords:** public (1), interface (1)
 > **Versions:** version 3 (1), 0.1 (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
@@ -2306,9 +2311,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (11), [[Security]] (8), [[Internet of Things (IoT)|Internet of things]] (6), data (6), power (4)
 > **Env Vars:** owasp (1), gsma (1), scada (1)
 > **Definitions:** means that (2), is a  (1)
-> **Code Keywords:** require (1), class, (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -2395,10 +2400,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Microsoft Products|Products]] (4), web (3), product (2), traffic (2)
 > **Definitions:** is a  (4), is an  (2), stands for (1)
 > **Env Vars:** elk (2), dmz (1), waf (1), gvm (1), selks (1)
 > **CLI Commands:** nginx (4)
-> **Code Keywords:** let (1), this, (1)
 > **Prerequisites:** set up (1), install (1)
 > **Code Identifiers:** pfsense (1)
 > **Tools:** gitlab (1)
@@ -2455,6 +2460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Microsoft Products|Products]] (3), business (2), product (2)
 > **Env Vars:** iso (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2517,9 +2523,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Cybersecurity]] (11), [[Privacy]] (6), [[Security]] (5), [[Continuous Monitoring]] (1)
 > **Definitions:** is a  (4), known as (1)
 > **Env Vars:** gdpr (3)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Understanding the zero trust approach to network access
@@ -2579,8 +2585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), data (6), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (1)
 > **Definitions:** is a  (4), means that (2), is an  (1)
-> **Code Keywords:** function (2), static (1), protected (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** abc (1), nist (1)
 > **Tools:** notion (1)
@@ -2661,6 +2667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (9), [[Security]] (7), business (5), [[Incident Response]] (2), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Env Vars:** dora (11), tlpt (2)
 > **Prerequisites:** required to (2)
 > **Exercise Files:** source code (1)
@@ -2668,7 +2675,6 @@ created: 2026-04-29
 > **Analogies:** such as (1)
 > **Best Practices:** best practice (1)
 > **Warnings:** warning (1)
-> **Speakers:** - [instructor] (1)
 
 #### Ensuring supply chain security through SBOMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/ensuring-supply-chain-security-through-sboms?u=76281980)
@@ -2719,16 +2725,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), management (3), [[Cybersecurity]] (1), product (1), database (1)
 > **Env Vars:** sbom (13), api (1), spdx (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** public (1), assert (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. Detecting and Managing Cyber Incidents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Incident management basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980)
@@ -2811,9 +2817,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Incident Response]] (4), [[NIST]] (3), [[Security]] (3), teams (3)
 > **Env Vars:** cert (5), nist (3), first (2), nice (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** function (1)
 > **Code Identifiers:** osticket (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2888,9 +2894,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Incident Response]] (9), management (5), [[Real-Time]] (3), teams (2), [[Banking]] (1)
 > **Env Vars:** isac (2), crest (1), mitre (1), stix (1), taxii (1)
 > **Definitions:** is a  (3), is an  (3)
-> **Code Keywords:** finally, (1), function (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2973,9 +2979,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), [[Incident Response]] (2), [[Security]] (2), [[NIST]] (1), [[Real-Time]] (1)
 > **Env Vars:** soc (4), nist (1), elk (1), ids (1), apt (1)
 > **Analogies:** such as (6)
-> **Code Keywords:** let (2), raise (1), type, (1), this, (1)
 > **CLI Commands:** make (1), apt (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -3011,6 +3017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), [[Analytics]] (1), [[Security]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1)
@@ -3058,7 +3065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), delete (1), continue (1)
+> **Frameworks & Libraries:** parallel (1), management (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mim (2)
 > **Analogies:** such as (1), for example (1)
@@ -3155,8 +3162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), data (4), [[Security]] (2), [[Incident Response]] (1), product (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** public (2), finally, (2), this, (1), let (1)
 > **Env Vars:** ceo (1), ciso (1), cio (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (1)
@@ -3167,7 +3174,7 @@ created: 2026-04-29
 
 ### 5. Cybersecurity and AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intoduction to AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980)
@@ -3246,7 +3253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** ai (18), data (4), chatbot (4), [[Tokens]] (3), prompt (2)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), known as (1)
@@ -3361,8 +3368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), prompt (8), data (7), [[Cybersecurity]] (2), llm (2)
 > **Definitions:** is a  (5), refers to (2), known as (1), means that (1)
-> **Code Keywords:** let (2), finally, (1), interface (1), super (1), override (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** llm (2), owasp (1), api (1)
 > **CLI Commands:** make (2), find (1)
@@ -3401,8 +3408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), application (4), llm (4), prompt (2), [[Security]] (1)
 > **Env Vars:** llm (4)
-> **Code Keywords:** type, (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3449,6 +3456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (21), [[Security]] (8), data (6), management (3), business (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** iso (2)
 > **Speakers:** - [instructor] (1)
@@ -3456,7 +3464,7 @@ created: 2026-04-29
 
 ### 6. Cyber Diplomacy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity goes global
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980)
@@ -3535,6 +3543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Telecommunications]] (1), data (1), [[Engineering]] (1), [[Databases]] (1)
 > **Env Vars:** iso (1), osi (1), ietf (1), icann (1)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - [speaker] (1)
@@ -3618,7 +3627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), module (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft Office|Office]] (1), [[Cybersecurity]] (1), [[Security]] (1), bi (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** unoda (2)
 > **Analogies:** similar to (1)
@@ -3649,8 +3658,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), management (1)
 > **Env Vars:** gfce (6), gccs (2)
-> **Code Keywords:** private (1)
 > **Speakers:** - [narrator] (1)
 
 #### The Traffic Light Protocol
@@ -3690,15 +3699,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), traffic (2), [[Privacy]] (1)
 > **Env Vars:** tlp (4), enisa (1)
-> **Code Keywords:** private (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980)
@@ -3725,6 +3734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (3), [[Ethical Hacking]] (2), [[LinkedIn]] (1), cloud (1)
 > **CLI Commands:** find (3)
 > **Speakers:** - [host] (1)
 

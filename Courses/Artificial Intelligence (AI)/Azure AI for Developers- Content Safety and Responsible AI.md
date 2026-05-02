@@ -36,7 +36,7 @@ tags:
   - skill/large-language-models-llm
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Content%20Safety%20and%20Responsible%20AI.md)
@@ -55,41 +55,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Responsible AI and this course
-  - What you should know
+  - [Responsible AI and this course](#responsible-ai-and-this-course)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Responsible AI**](#1-introduction-to-responsible-ai) (3 videos)
-  - Overview of responsible AI
-  - Ethical considerations in AI
-  - The Microsoft responsible AI framework
+  - [Overview of responsible AI](#overview-of-responsible-ai)
+  - [Ethical considerations in AI](#ethical-considerations-in-ai)
+  - [The Microsoft responsible AI framework](#the-microsoft-responsible-ai-framework)
 - [**2. Understanding Azure AI Content Safety**](#2-understanding-azure-ai-content-safety) (3 videos)
-  - Introduction to Azure AI Content Safety
-  - Key features and capabilities
-  - Use cases and applications
+  - [Introduction to Azure AI Content Safety](#introduction-to-azure-ai-content-safety)
+  - [Key features and capabilities](#key-features-and-capabilities)
+  - [Use cases and applications](#use-cases-and-applications)
 - [**3. Large Language Models (LLMs) and Content Safety**](#3-large-language-models-llms-and-content-safety) (3 videos)
-  - Introduction to LLMs
-  - Challenges with LLMs
-  - Ensuring content safety with LLMs
+  - [Introduction to LLMs](#introduction-to-llms)
+  - [Challenges with LLMs](#challenges-with-llms)
+  - [Ensuring content safety with LLMs](#ensuring-content-safety-with-llms)
 - [**4. Implementing Azure AI Content Safety**](#4-implementing-azure-ai-content-safety) (4 videos)
-  - Setting up Azure AI Content Safety
-  - Using content safety APIs
-  - Customizing content filters
-  - Content safety in Azure OpenAI
+  - [Setting up Azure AI Content Safety](#setting-up-azure-ai-content-safety)
+  - [Using content safety APIs](#using-content-safety-apis)
+  - [Customizing content filters](#customizing-content-filters)
+  - [Content safety in Azure OpenAI](#content-safety-in-azure-openai)
 - [**5. Advanced Features for LLMs**](#5-advanced-features-for-llms) (4 videos)
-  - Prompt shields
-  - Groundedness detection
-  - Protected material detection
-  - Bringing it all together
+  - [Prompt shields](#prompt-shields)
+  - [Groundedness detection](#groundedness-detection)
+  - [Protected material detection](#protected-material-detection)
+  - [Bringing it all together](#bringing-it-all-together)
 - [**6. Security and Compliance**](#6-security-and-compliance) (3 videos)
-  - Built-in security features
-  - Compliance with industry standards
-  - Data privacy and protection
+  - [Built-in security features](#built-in-security-features)
+  - [Compliance with industry standards](#compliance-with-industry-standards)
+  - [Data privacy and protection](#data-privacy-and-protection)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Reviewing key concepts
-  - Additional resources for continued learning
+  - [Reviewing key concepts](#reviewing-key-concepts)
+  - [Additional resources for continued learning](#additional-resources-for-continued-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI and this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/responsible-ai-and-this-course?u=76281980)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), let (1)
+> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (2), application (1), teams (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -140,15 +140,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Microsoft Azure|Azure]] (1), api (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/overview-of-responsible-ai?u=76281980)
@@ -239,7 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** ai (18), [[Responsible AI]] (10), [[Microsoft]] (7), [[Privacy]] (3), [[Microsoft Azure|Azure]] (3)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -343,8 +343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (21), [[Microsoft Azure|Azure]] (6), data (4), [[Privacy]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (4), for instance (2), such as (1)
-> **Code Keywords:** protected (1), let (1), self (1), pass (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1)
@@ -448,15 +448,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), [[Microsoft Azure|Azure]] (13), [[Microsoft]] (8), [[Responsible AI]] (5), data (5)
 > **Analogies:** for instance (3), for example (2)
-> **Code Keywords:** let (1), function (1), protected (1), finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Understanding Azure AI Content Safety
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Azure AI Content Safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/introduction-to-azure-ai-content-safety?u=76281980)
@@ -557,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), interface (1), public (1), require (1)
+> **Frameworks & Libraries:** ai (11), [[Microsoft Azure|Azure]] (9), [[Microsoft]] (4), application (3), [[Azure AI Foundry]] (3)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Analogies:** for example (2), it's like (1), for instance (1)
 > **Env Vars:** api (2), rest (1)
@@ -670,8 +670,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Microsoft Azure|Azure]] (7), api (5), llm (4), feature (3)
 > **Env Vars:** api (5), llm (4), rest (1), rag (1)
-> **Code Keywords:** protected (3), self (2), let (1), interface (1), function (1)
 > **Analogies:** for example (3), for instance (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (2)
@@ -743,15 +743,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Microsoft Azure|Azure]] (4), api (2), [[Automation]] (2), [[Real-Time]] (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** protected (1), public (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Large Language Models (LLMs) and Content Safety
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/introduction-to-llms?u=76281980)
@@ -860,8 +860,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Large Language Models (LLM)|Large language models]] (5), [[Microsoft Azure|Azure]] (5), data (3), power (2)
 > **Env Vars:** llm (2), gpt (1), bert (1)
-> **Code Keywords:** let (2), require (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -989,9 +989,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), llm (10), ai (6), [[Microsoft Azure|Azure]] (5), [[Large Language Models (LLM)|Large language models]] (3)
 > **Env Vars:** llm (10), llms (2), pii (2)
 > **Analogies:** for example (3), for instance (1), it's like (1)
-> **Code Keywords:** private (2), require (1), let (1)
 > **Definitions:** we call this (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** you should never (1)
@@ -1129,9 +1129,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (11), ai (7), llm (6), [[Microsoft Azure|Azure]] (5), data (4)
 > **Env Vars:** llm (6), gpt (2), rlhf (1)
 > **Analogies:** for example (4), for instance (2)
-> **Code Keywords:** pass (1), implements (1)
 > **CLI Commands:** find (1)
 > **Versions:** version 2 (1)
 > **Tools:** notion (1)
@@ -1141,7 +1141,7 @@ created: 2026-04-29
 
 ### 4. Implementing Azure AI Content Safety
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Azure AI Content Safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/setting-up-azure-ai-content-safety?u=76281980)
@@ -1246,9 +1246,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), api (6), ai (4), [[Python (Programming Language)|Python]] (3), [[Search]] (2)
 > **Env Vars:** api (6), sdk (3), rest (2), gdpr (1)
 > **CLI Commands:** make (4), find (3), python (3), terraform (1)
-> **Code Keywords:** let (4), this. (2), protected (2)
 > **Prerequisites:** configure (2), set up (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), means that (1)
@@ -1372,8 +1372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), [[Representational State Transfer (REST)|Rest]] (4), [[Python (Programming Language)|Python]] (3), application (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** api (8), url (8), sdk (2), json (1)
-> **Code Keywords:** self (8), let (3), this, (2), case, (1)
 > **CLI Commands:** python (3), make (2)
 > **UI Navigation:** go to (3)
 > **Cross-References:** previous video (1), go back to (1)
@@ -1536,8 +1536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), api (5), llm (3), [[Representational State Transfer (REST)|Rest]] (3), data (3)
 > **Env Vars:** sdk (7), api (5), llm (3), rest (3), xyz (3)
-> **Code Keywords:** let (6), case, (4), this, (2), delete (2), return, (1)
 > **CLI Commands:** python (7), make (3)
 > **Code Identifiers:** isregex (2), myblocklist (2), run_id (2)
 > **Definitions:** is a  (4), is an  (1)
@@ -1701,7 +1701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), this. (1), match. (1)
+> **Frameworks & Libraries:** next (5), [[Security]] (4), [[Azure AI Foundry]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (2)
 > **UI Navigation:** go to (6), click on (3)
 > **Env Vars:** xyz (3), gpt (2), llm (1), api (1)
 > **CLI Commands:** make (6)
@@ -1713,7 +1713,7 @@ created: 2026-04-29
 
 ### 5. Advanced Features for LLMs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt shields
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/prompt-shields?u=76281980)
@@ -1804,8 +1804,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (16), llm (5), [[Microsoft Azure|Azure]] (2), ai (2), chatbot (2)
 > **Env Vars:** llm (5), api (2), rag (1)
-> **Code Keywords:** let (2), case, (1), private (1)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** find (1)
 > **URLs:** [fakemail.com](https://fakemail.com) (1)
@@ -1898,8 +1898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), feature (4), llm (4), [[Microsoft Azure|Azure]] (2), data (2)
 > **Env Vars:** llm (4), api (2), sdk (1)
-> **Code Keywords:** case, (2), let (1), this, (1)
 > **CLI Commands:** make (3)
 > **Versions:** 4.5 (3)
 > **Definitions:** is a  (1), is called (1), is an  (1)
@@ -1948,7 +1948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (5), let (1), public (1), this, (1), this. (1)
+> **Frameworks & Libraries:** api (4), ai (2), [[Git]] (2), feature (1), [[Generative AI]] (1)
 > **CLI Commands:** make (5), git (2)
 > **Env Vars:** api (4)
 > **Code Identifiers:** detectprotectedmaterial (1), detectprotectedmaterialforcode (1)
@@ -2050,7 +2050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), case, (1), this, (1), protected (1)
+> **Frameworks & Libraries:** prompt (12), llm (6), application (5), api (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** llm (6), api (3), sdk (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **CLI Commands:** make (2), python (1)
@@ -2060,7 +2060,7 @@ created: 2026-04-29
 
 ### 6. Security and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in security features
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/built-in-security-features?u=76281980)
@@ -2107,8 +2107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Security]] (5), data (2), [[Representational State Transfer (REST)|Rest]] (2), api (2)
 > **Env Vars:** api (2), https (1), http (1), tls (1)
-> **Code Keywords:** default, (1), require (1), private (1)
 > **Best Practices:** you should never (1), make sure to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -2143,7 +2143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (2), data (2), [[Microsoft]] (2), [[Privacy]] (1)
 > **Env Vars:** gdpr (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2180,14 +2180,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), private (1), finally, (1), return. (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), data (3), ai (2), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/reviewing-key-concepts?u=76281980)
@@ -2252,7 +2252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1), finally, (1)
+> **Frameworks & Libraries:** ai (8), [[Microsoft Azure|Azure]] (6), [[Responsible AI]] (3), prompt (3), [[Security]] (2)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -2284,8 +2284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (6), ai (4), [[Microsoft Azure|Azure]] (2), [[Responsible AI]] (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 

@@ -28,7 +28,7 @@ tags:
   - skill/office-365-administration
   - skill/microsoft-teams
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Microsoft%20365%20Teams%20Administrator%20Associate%20Cert%20Prep%20(MS-700)-%20Managing%20Collaboration%20Tools.md)
@@ -47,64 +47,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Configuring Teams policies and settings
+  - [Configuring Teams policies and settings](#configuring-teams-policies-and-settings)
 - [**1. Manage Chat and Collaboration Experiences**](#1-manage-chat-and-collaboration-experiences) (7 videos)
-  - Configure messaging policies
-  - Manage external access
-  - Manage channels for a team
-  - Manage private channel creation policies
-  - Manage email integration
-  - Configure external access for SharePoint and OneDrive
-  - Manage cloud file storage options for collaboration
+  - [Configure messaging policies](#configure-messaging-policies)
+  - [Manage external access](#manage-external-access)
+  - [Manage channels for a team](#manage-channels-for-a-team)
+  - [Manage private channel creation policies](#manage-private-channel-creation-policies)
+  - [Manage email integration](#manage-email-integration)
+  - [Configure external access for SharePoint and OneDrive](#configure-external-access-for-sharepoint-and-onedrive)
+  - [Manage cloud file storage options for collaboration](#manage-cloud-file-storage-options-for-collaboration)
 - [**2. Manage Meeting Experiences**](#2-manage-meeting-experiences) (4 videos)
-  - Configure meeting settings
-  - Create and manage meeting policies
-  - Create and configure settings for live events
-  - Configure conference bridge settings
+  - [Configure meeting settings](#configure-meeting-settings)
+  - [Create and manage meeting policies](#create-and-manage-meeting-policies)
+  - [Create and configure settings for live events](#create-and-configure-settings-for-live-events)
+  - [Configure conference bridge settings](#configure-conference-bridge-settings)
 - [**3. Manage Phone Numbers**](#3-manage-phone-numbers) (7 videos)
-  - PSTN replacement based on specific business requirements
-  - Order phone numbers
-  - Manage service numbers
-  - Add, change, or remove an emergency address
-  - Assign, change, or remove a phone number for a user
-  - Manage voice settings for users
-  - Configure dynamic emergency calling
+  - [PSTN replacement based on specific business requirements](#pstn-replacement-based-on-specific-business-requirements)
+  - [Order phone numbers](#order-phone-numbers)
+  - [Manage service numbers](#manage-service-numbers)
+  - [Add, change, or remove an emergency address](#add-change-or-remove-an-emergency-address)
+  - [Assign, change, or remove a phone number for a user](#assign-change-or-remove-a-phone-number-for-a-user)
+  - [Manage voice settings for users](#manage-voice-settings-for-users)
+  - [Configure dynamic emergency calling](#configure-dynamic-emergency-calling)
 - [**4. Manage Phone System**](#4-manage-phone-system) (7 videos)
-  - Create and configure call queues
-  - Create and configure auto attendants
-  - Manage call park policies
-  - Manage calling policies
-  - Manage caller ID policies
-  - Interpret a dial plan
-  - Interpret the Health Dashboard for Direct Routing
+  - [Create and configure call queues](#create-and-configure-call-queues)
+  - [Create and configure auto attendants](#create-and-configure-auto-attendants)
+  - [Manage call park policies](#manage-call-park-policies)
+  - [Manage calling policies](#manage-calling-policies)
+  - [Manage caller ID policies](#manage-caller-id-policies)
+  - [Interpret a dial plan](#interpret-a-dial-plan)
+  - [Interpret the Health Dashboard for Direct Routing](#interpret-the-health-dashboard-for-direct-routing)
 - [**5. Manage Teams and App Policies**](#5-manage-teams-and-app-policies) (5 videos)
-  - Create a team
-  - Upgrade an existing resource to a team
-  - Manage privacy levels for a team
-  - Manage organization-wide teams
-  - Create and manage policy packages in Microsoft Teams
+  - [Create a team](#create-a-team)
+  - [Upgrade an existing resource to a team](#upgrade-an-existing-resource-to-a-team)
+  - [Manage privacy levels for a team](#manage-privacy-levels-for-a-team)
+  - [Manage organization-wide teams](#manage-organization-wide-teams)
+  - [Create and manage policy packages in Microsoft Teams](#create-and-manage-policy-packages-in-microsoft-teams)
 - [**6. Manage Membership in a Team**](#6-manage-membership-in-a-team) (3 videos)
-  - Manage users in a team
-  - Configure dynamic membership
-  - Manage access review for team members
+  - [Manage users in a team](#manage-users-in-a-team)
+  - [Configure dynamic membership](#configure-dynamic-membership)
+  - [Manage access review for team members](#manage-access-review-for-team-members)
 - [**7. Implement Policies for Microsoft Teams Apps**](#7-implement-policies-for-microsoft-teams-apps) (6 videos)
-  - Manage organization-wide app settings
-  - Create and manage app permission policies
-  - Create and manage app setup policies
-  - Add messaging extensions to a team
-  - Manage app store customization
-  - Publish and configure a custom app to Microsoft Teams
+  - [Manage organization-wide app settings](#manage-organization-wide-app-settings)
+  - [Create and manage app permission policies](#create-and-manage-app-permission-policies)
+  - [Create and manage app setup policies](#create-and-manage-app-setup-policies)
+  - [Add messaging extensions to a team](#add-messaging-extensions-to-a-team)
+  - [Manage app store customization](#manage-app-store-customization)
+  - [Publish and configure a custom app to Microsoft Teams](#publish-and-configure-a-custom-app-to-microsoft-teams)
 - [**8. Monitor and Troubleshoot a Microsoft Teams Environment**](#8-monitor-and-troubleshoot-a-microsoft-teams-environment) (4 videos)
-  - Troubleshoot audio, video, and client issues
-  - Troubleshoot chat and presence issues
-  - Identify, collect, and interpret client logs
-  - Troubleshoot Microsoft Teams sign-in issues
+  - [Troubleshoot audio, video, and client issues](#troubleshoot-audio-video-and-client-issues)
+  - [Troubleshoot chat and presence issues](#troubleshoot-chat-and-presence-issues)
+  - [Identify, collect, and interpret client logs](#identify-collect-and-interpret-client-logs)
+  - [Troubleshoot Microsoft Teams sign-in issues](#troubleshoot-microsoft-teams-sign-in-issues)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Recommended courses
+  - [Recommended courses](#recommended-courses)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring Teams policies and settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configuring-teams-policies-and-settings?u=76281980)
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Microsoft]] (2), teams (2), [[Security]] (1), application (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
@@ -137,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Manage Chat and Collaboration Experiences
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure messaging policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980)
@@ -234,8 +235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Microsoft Teams]] (1), business (1), [[Powershell]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (7)
-> **Code Keywords:** override (2), delete (1), let (1), default, (1), require (1)
 > **Analogies:** for instance (3), such as (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -300,8 +301,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), business (4), [[Microsoft Teams]] (1), next (1), hit (1)
 > **URLs:** [contoso.com](https://contoso.com) (3), [northwindtraders.com](https://northwindtraders.com) (2)
-> **Code Keywords:** this, (2), let (1)
 > **Prerequisites:** configure (1), set up (1), setup (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1), dropdown (1)
@@ -371,7 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), delete (3), let (1), public (1)
+> **Frameworks & Libraries:** teams (7), [[Microsoft Teams]] (1), application (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Analogies:** for instance (4), such as (1)
 > **CLI Commands:** make (2)
@@ -400,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (8), let (1), public (1), require (1)
+> **Frameworks & Libraries:** teams (5)
 > **Speakers:** - [instructor] (1)
 
 #### Manage email integration
@@ -452,8 +453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (9), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Teams]] (1), feature (1), hit (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** this, (1)
 > **URLs:** [contoso.com](https://contoso.com) (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** download the (1)
@@ -510,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), require (1), case, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft 365]] (2), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Teams]] (1), [[Security]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Analogies:** such as (1)
@@ -585,6 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), [[SharePoint]] (5), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft]] (2), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -593,7 +595,7 @@ created: 2026-04-29
 
 ### 2. Manage Meeting Experiences
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure meeting settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980)
@@ -646,8 +648,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), next (1), teams (1), [[Real-Time]] (1), [[Security]] (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
-> **Code Keywords:** let (1), default, (1)
 > **Env Vars:** url (2)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
@@ -822,7 +824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (3), private (2), require (1), let (1)
+> **Frameworks & Libraries:** teams (3), [[Microsoft Teams]] (3), application (3), [[Microsoft Outlook|Outlook]] (2), cloud (2)
 > **UI Navigation:** click on (1), dropdown (1), select the (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** ndi (2)
@@ -912,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), private (2), default, (2), finally, (1), case, (1)
+> **Frameworks & Libraries:** teams (4), [[Microsoft Teams]] (2), [[Microsoft Office|Office]] (2), [[Microsoft]] (2), [[Security]] (2)
 > **Env Vars:** url (3), sdn (2), api (1)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **Analogies:** such as (2)
@@ -958,7 +960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), default, (1), default. (1), while, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Teams]] (1), teams (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** as you saw (1)
@@ -968,7 +970,7 @@ created: 2026-04-29
 
 ### 3. Manage Phone Numbers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PSTN replacement based on specific business requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980)
@@ -1013,9 +1015,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft 365]] (5), [[Routing]] (3), cloud (1), [[Microsoft Teams]] (1)
 > **Env Vars:** pstn (2), pbx (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), switch (1)
 > **Speakers:** - [instructor] (1)
 
 #### Order phone numbers
@@ -1087,10 +1089,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (9), [[Microsoft Teams]] (3), [[Microsoft]] (3), next (2), business (2)
 > **UI Navigation:** go to (3), click on (2)
 > **Prerequisites:** you'll need (1), you need to have (1), set up (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from, (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1180,7 +1182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), public (1), switch (1), finally, (1), new. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft 365]] (2), [[Search]] (1), [[Microsoft Word|Word]] (1), teams (1)
 > **UI Navigation:** click on (3), scroll down (1), select the (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1260,8 +1262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), business (1), [[Search]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (1), finally, (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** bss (1)
@@ -1338,7 +1340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1), continue (1), case, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Microsoft]] (1), next (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is an  (1)
@@ -1375,6 +1377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Microsoft Teams]] (1), [[Forms]] (1), application (1)
 > **Prerequisites:** configure (2), set up (2)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
@@ -1410,15 +1413,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (4), data (2), [[Microsoft]] (1), [[Security]] (1), teams (1)
 > **Prerequisites:** configure (4), set up (1)
-> **Code Keywords:** public (2), switch (1)
 > **Env Vars:** psap (1), pstn (1), sbc (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Manage Phone System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and configure call queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980)
@@ -1539,7 +1542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), continue (1), default, (1)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Microsoft Teams]] (2), feature (1), [[Security]] (1), next (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
@@ -1666,8 +1669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), next (4), ai (2), cloud (1), teams (1)
 > **UI Navigation:** click on (2), scroll down (1), go to (1), dropdown (1)
-> **Code Keywords:** continue (2), delete (1), default, (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Ports:** :00 (2)
 > **CLI Commands:** make (1)
@@ -1718,8 +1721,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), cloud (1), feature (1), hit (1)
 > **UI Navigation:** go to (3), click on (3), dropdown (1)
-> **Code Keywords:** default. (2)
 > **Speakers:** - [tutor] (1)
 
 #### Manage calling policies
@@ -1805,7 +1808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), switch (4), private (3), default. (1), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), cloud (2), teams (2), web (2), [[Routing]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1), go to (1)
 > **Prerequisites:** set up (1)
@@ -1870,7 +1873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), switch (2), override (2), let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), hit (1)
 > **UI Navigation:** click on (3), dropdown (2), go to (1), select the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1948,12 +1951,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Microsoft Teams]] (2), [[Routing]] (1), hit (1), [[Powershell]] (1)
 > **Prerequisites:** set up (2), setup (1), you'll need (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** default. (1)
 > **Tools:** powershell (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2020,8 +2023,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (7), concurrent (5), [[Security]] (1)
 > **Env Vars:** sbc (7), tls (5), sip (5), spc (2), ner (1)
-> **Code Keywords:** interface (2), public (1), switch (1), default, (1)
 > **Definitions:** is a  (2), means that (1), known as (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -2032,7 +2035,7 @@ created: 2026-04-29
 
 ### 5. Manage Teams and App Policies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a team
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980)
@@ -2121,7 +2124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), public (4), default, (1), let (1)
+> **Frameworks & Libraries:** teams (9), [[Microsoft 365]] (1), next (1), [[Privacy]] (1), application (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
@@ -2185,7 +2188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (3), teams (2), [[Microsoft Teams]] (2), next (2)
 > **UI Navigation:** click on (3)
 > **Analogies:** such as (1), for instance (1)
 > **Definitions:** is a  (1)
@@ -2238,7 +2241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), private (5), default, (1), for, (1)
+> **Frameworks & Libraries:** teams (9), [[Privacy]] (4), next (2), [[Microsoft 365]] (1), application (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (4)
 > **Analogies:** for instance (2)
@@ -2289,7 +2292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), private (1), public (1)
+> **Frameworks & Libraries:** teams (8), [[Microsoft Teams]] (1), cloud (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [tutor] (1)
@@ -2359,8 +2362,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Higher Education]] (4), [[Microsoft Teams]] (2), [[Microsoft Entra ID|Azure active directory]] (2), teams (2), hit (1)
 > **UI Navigation:** click on (6), go to (2), scroll down (1)
-> **Code Keywords:** switch (3), delete (1), public (1), let (1), type, (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2369,7 +2372,7 @@ created: 2026-04-29
 
 ### 6. Manage Membership in a Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage users in a team
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-users-in-a-team?u=76281980)
@@ -2440,7 +2443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pub (4), let (2), public (1)
+> **Frameworks & Libraries:** teams (6), [[Powershell]] (5), prompt (1), application (1), hit (1)
 > **Tools:** powershell (5)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2)
@@ -2511,8 +2514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (3), [[Security]] (2), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (2), scroll down (1), dropdown (1)
-> **Code Keywords:** type, (2), case, (1)
 > **Cross-References:** go back to (3)
 > **Speakers:** - [instructor] (1)
 
@@ -2667,8 +2670,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[Microsoft Entra ID|Azure active directory]] (3), teams (3), hit (2), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (10), dropdown (2), select the (1), go to (1)
-> **Code Keywords:** let (3), continue (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1), for instance (1)
@@ -2679,7 +2682,7 @@ created: 2026-04-29
 
 ### 7. Implement Policies for Microsoft Teams Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage organization-wide app settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-app-settings?u=76281980)
@@ -2726,7 +2729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (1), continue (1)
+> **Frameworks & Libraries:** teams (3), data (2), [[Microsoft Teams]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2820,8 +2823,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Microsoft]] (3), data (2), [[Microsoft Entra ID|Azure active directory]] (2), product (2)
 > **UI Navigation:** click on (5), go to (2)
-> **Code Keywords:** override (1), continue (1), let (1), case, (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** url (1)
@@ -2906,9 +2909,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (7), [[Microsoft Teams]] (2), application (2), [[Search]] (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Prerequisites:** install (2), set up (2), setup (1)
-> **Code Keywords:** default. (1)
 > **Definitions:** means that (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [tutor] (1)
@@ -2970,9 +2973,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), teams (5), [[Microsoft Teams]] (3), application (3), web (1)
 > **Analogies:** such as (4), for instance (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [narrator] (1)
 
@@ -3017,6 +3020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Microsoft]] (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -3062,10 +3066,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Microsoft Teams]] (2), business (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), such as (1)
-> **Code Keywords:** default, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
@@ -3073,7 +3077,7 @@ created: 2026-04-29
 
 ### 8. Monitor and Troubleshoot a Microsoft Teams Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot audio, video, and client issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980)
@@ -3140,7 +3144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), interface (1), require (1), let (1), switch (1)
+> **Frameworks & Libraries:** teams (7), [[Troubleshooting]] (3), [[Routing]] (3), [[Microsoft]] (2), [[Analytics]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** url (1), ram (1)
 > **Analogies:** such as (2)
@@ -3186,6 +3190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[Microsoft]] (4), teams (3), application (2), web (1)
 > **UI Navigation:** go to (1), right-click (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
@@ -3244,10 +3249,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Microsoft]] (3), application (2), [[Microsoft Teams]] (1), [[Search]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** go to (2), right-click (1), scroll up (1)
 > **Prerequisites:** configure (1), install (1)
-> **Code Keywords:** interface (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3283,6 +3288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft Teams]] (2), [[Microsoft]] (1), [[Troubleshooting]] (1), dns (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** dns (1)
@@ -3293,7 +3299,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recommended courses
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/recommended-courses?u=76281980)
@@ -3312,6 +3318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), teams (2), [[Troubleshooting]] (1)
 > **Prerequisites:** configure (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [robert] (1)

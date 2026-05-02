@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Developing%20Ci%20Cd%20Solutions%20With%20Azure%20Devops.md)
@@ -43,34 +43,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why use Azure Pipelines?
-  - What you should know
+  - [Why use Azure Pipelines?](#why-use-azure-pipelines)
+  - [What you should know](#what-you-should-know)
 - [**1. Azure Pipelines**](#1-azure-pipelines) (3 videos)
-  - What really is Azure Pipelines?
-  - Key concepts of Azure Pipelines
-  - Define pipeline assets in Library
+  - [What really is Azure Pipelines?](#what-really-is-azure-pipelines)
+  - [Key concepts of Azure Pipelines](#key-concepts-of-azure-pipelines)
+  - [Define pipeline assets in Library](#define-pipeline-assets-in-library)
 - [**2. Designing a Build Pipeline**](#2-designing-a-build-pipeline) (6 videos)
-  - Get your source code to Azure Repos
-  - Configure a build pipeline
-  - Integrate SonarCloud with the build pipeline
-  - Protect your important branches
-  - Create a task group for build pipelines
-  - Simulate CI trigger and branching policies
+  - [Get your source code to Azure Repos](#get-your-source-code-to-azure-repos)
+  - [Configure a build pipeline](#configure-a-build-pipeline)
+  - [Integrate SonarCloud with the build pipeline](#integrate-sonarcloud-with-the-build-pipeline)
+  - [Protect your important branches](#protect-your-important-branches)
+  - [Create a task group for build pipelines](#create-a-task-group-for-build-pipelines)
+  - [Simulate CI trigger and branching policies](#simulate-ci-trigger-and-branching-policies)
 - [**3. Designing a Release Pipeline**](#3-designing-a-release-pipeline) (6 videos)
-  - An overview of a release pipeline
-  - Create web apps in Azure
-  - Configure a release pipeline for multistage deployment
-  - Reconfigure your production stage release to deploy to a staging slot
-  - Release pipelines for staging slot deployments
-  - Test release to deployment slots
+  - [An overview of a release pipeline](#an-overview-of-a-release-pipeline)
+  - [Create web apps in Azure](#create-web-apps-in-azure)
+  - [Configure a release pipeline for multistage deployment](#configure-a-release-pipeline-for-multistage-deployment)
+  - [Reconfigure your production stage release to deploy to a staging slot](#reconfigure-your-production-stage-release-to-deploy-to-a-staging-slot)
+  - [Release pipelines for staging slot deployments](#release-pipelines-for-staging-slot-deployments)
+  - [Test release to deployment slots](#test-release-to-deployment-slots)
 - [**4. Maximizing Azure Pipelines**](#4-maximizing-azure-pipelines) (1 videos)
-  - Configure notifications for successful deployments
+  - [Configure notifications for successful deployments](#configure-notifications-for-successful-deployments)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use Azure Pipelines?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980)
@@ -91,8 +91,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ci (2), cd (2), cloud (1), [[DevOps]] (1)
 > **CLI Commands:** cd (2), make (1)
-> **Code Keywords:** protected (1)
 > **Env Vars:** net (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [prince] (1)
@@ -114,6 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Git]] (1), [[Version Control]] (1), web application (1), feature (1)
 > **Tools:** visual studio (1), azure portal (1)
 > **CLI Commands:** git (1)
 > **Exercise Files:** source code (1)
@@ -123,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Azure Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What really is Azure Pipelines?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980)
@@ -166,9 +167,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), cloud (3), ci (3)
 > **CLI Commands:** node (1), python (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cicd (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
@@ -319,9 +320,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), application (7), [[DevOps]] (4), [[Node.js]] (4), web (3)
 > **UI Navigation:** select the (7), click on (2), dropdown (1), toggle (1)
 > **CLI Commands:** node (4), npm (3), git (1), find (1)
-> **Code Keywords:** let (4), continue (3), case, (1), from. (1)
 > **Env Vars:** yaml (7)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Analogies:** for example (3), for instance (2)
@@ -383,8 +384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), feature (3), [[Microservices]] (2), next (2), [[Security]] (2)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cic (1)
 > **Definitions:** is a  (1)
@@ -393,7 +394,7 @@ created: 2026-04-29
 
 ### 2. Designing a Build Pipeline
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get your source code to Azure Repos
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980)
@@ -460,7 +461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[DevOps]] (5), [[GitHub]] (3), application (3), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** url (3), asp (1), net (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (1), git (1), cd (1)
@@ -620,7 +621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), case, (2), this. (2), continue (1)
+> **Frameworks & Libraries:** application (9), [[Microsoft Azure|Azure]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), data (2), next (2)
 > **UI Navigation:** click on (6), select the (4), scroll down (1), dropdown (1), go to (1)
 > **Env Vars:** asp (4), yaml (3)
 > **Exercise Files:** source code (3), template (3), zip file (1)
@@ -850,7 +851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), public (2), this, (2), function (1)
+> **Frameworks & Libraries:** cloud (30), [[Microsoft Azure|Azure]] (18), [[DevOps]] (15), next (6), application (2)
 > **UI Navigation:** click on (7), select the (5), go to (4), scroll down (4), drag and drop (2)
 > **Prerequisites:** set up (2), configure (2), install (2), setup (1)
 > **CLI Commands:** make (3), find (2)
@@ -992,7 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), protected (1), pass (1), require (1), case, (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Microsoft Azure|Azure]] (3), feature (3), [[Search]] (2), application (1)
 > **UI Navigation:** click on (3), select the (3), navigate to (2), open the (2), dropdown (2)
 > **Prerequisites:** configure (3), set up (1), setup (1)
 > **Definitions:** means that (2), is a  (1)
@@ -1154,7 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), continue (2)
+> **Frameworks & Libraries:** application (3), cloud (3), next (2), [[Security]] (2), teams (1)
 > **UI Navigation:** click on (5), select the (4), dropdown (2), navigate to (2), go to (1)
 > **Exercise Files:** template (4), source code (1)
 > **CLI Commands:** make (2), find (1)
@@ -1288,7 +1289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), require (1), finally, (1), this, (1), type: (1)
+> **Frameworks & Libraries:** feature (9), [[Git]] (4), [[Microsoft Azure|Azure]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[DevOps]] (2)
 > **UI Navigation:** click on (5), navigate to (4), scroll down (2), open the (2), select the (1)
 > **Tools:** terminal (6), visual studio (4), vs code (3)
 > **CLI Commands:** git (4), cd (1), make (1)
@@ -1300,7 +1301,7 @@ created: 2026-04-29
 
 ### 3. Designing a Release Pipeline
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of a release pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980)
@@ -1387,12 +1388,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Microsoft Azure|Azure]] (6), cloud (2), [[Git]] (2), teams (1)
 > **Analogies:** for example (6), just like (1)
 > **CLI Commands:** make (3), git (2), find (1)
 > **UI Navigation:** select the (4), go to (2)
 > **Prerequisites:** set up (3), configure (3)
 > **Env Vars:** rest (1), api (1), uat (1)
-> **Code Keywords:** type, (1), self (1)
 > **Exercise Files:** template (2)
 > **Tools:** jira (1)
 
@@ -1549,7 +1550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), public (3), require (1), switch (1), delete (1)
+> **Frameworks & Libraries:** web (14), next (9), application (8), [[Microsoft Azure|Azure]] (4), [[Windows]] (3)
 > **UI Navigation:** select the (6), go to (3), scroll down (1), dropdown (1), click on (1)
 > **Env Vars:** net (4), lts (3)
 > **CLI Commands:** make (6)
@@ -1757,8 +1758,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), web (12), [[Windows]] (4), [[Service Deployment]] (2), next (2)
 > **UI Navigation:** select the (15), click on (9), go to (3), dropdown (2), navigate to (1)
-> **Code Keywords:** let (29), this. (2)
 > **CLI Commands:** make (3), cd (1)
 > **Tools:** azure portal (4)
 > **Versions:** 126.6 (2)
@@ -1861,7 +1862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (3), [[DevOps]] (2), application (2), next (2), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (3), scroll down (2), navigate to (1), select the (1)
 > **Prerequisites:** configure (3), set up (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
@@ -1987,8 +1988,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (8), [[Microsoft Azure|Azure]] (6), [[DevOps]] (1), [[Search]] (1)
 > **UI Navigation:** select the (10), click on (6), go to (3), dropdown (3), navigate to (1)
-> **Code Keywords:** let (16), this. (2), delete (1), this, (1), require (1)
 > **CLI Commands:** make (5)
 > **Tools:** azure portal (2)
 > **Env Vars:** url (1)
@@ -2205,7 +2206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (35), this, (2), function (1), delete (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), feature (5), [[DevOps]] (5), web (5), application (2)
 > **UI Navigation:** click on (13), select the (4), go to (4), navigate to (3), open the (1)
 > **Env Vars:** slt (5), url (4), ctrl (1), sna (1)
 > **Tools:** terminal (6), azure portal (4), visual studio (1)
@@ -2217,7 +2218,7 @@ created: 2026-04-29
 
 ### 4. Maximizing Azure Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure notifications for successful deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980)
@@ -2300,7 +2301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Search]] (2), [[Microsoft Azure|Azure]] (2), next (1), business (1)
 > **UI Navigation:** click on (6), dropdown (2), scroll down (1), select the (1), go to (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** set up (5)
@@ -2311,7 +2312,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980)
@@ -2344,6 +2345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), ci (6), cd (6), [[DevOps]] (5), [[GitHub]] (4)
 > **CLI Commands:** cd (6)
 > **Tools:** github (4)
 > **Exercise Files:** template (1), source code (1)

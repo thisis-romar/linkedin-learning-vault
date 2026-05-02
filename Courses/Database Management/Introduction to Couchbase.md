@@ -31,7 +31,7 @@ tags:
   - skill/database-development
   - skill/couchbase
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Introduction%20to%20Couchbase.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Couchbase and what it can do for you
-  - Couchbase: Understanding the lexicon
+  - [Couchbase and what it can do for you](#couchbase-and-what-it-can-do-for-you)
+  - [Couchbase: Understanding the lexicon](#couchbase-understanding-the-lexicon)
 - [**1. Getting Started with Couchbase Capella**](#1-getting-started-with-couchbase-capella) (8 videos)
-  - Signing up for Capella
-  - Adding users to Capella
-  - Segmenting databases and adding users to projects
-  - Spinning up cluster with buckets, scopes, and collections
-  - Choosing an SDK and an IDE
-  - Connecting to Couchbase through Capella
-  - Challenge: Get your Couchbase up and running
-  - Solution: Get your Couchbase up and running
+  - [Signing up for Capella](#signing-up-for-capella)
+  - [Adding users to Capella](#adding-users-to-capella)
+  - [Segmenting databases and adding users to projects](#segmenting-databases-and-adding-users-to-projects)
+  - [Spinning up cluster with buckets, scopes, and collections](#spinning-up-cluster-with-buckets-scopes-and-collections)
+  - [Choosing an SDK and an IDE](#choosing-an-sdk-and-an-ide)
+  - [Connecting to Couchbase through Capella](#connecting-to-couchbase-through-capella)
+  - [Challenge: Get your Couchbase up and running](#challenge-get-your-couchbase-up-and-running)
+  - [Solution: Get your Couchbase up and running](#solution-get-your-couchbase-up-and-running)
 - [**2. Completing Key Value Operations**](#2-completing-key-value-operations) (5 videos)
-  - Completing a Get
-  - Completing an INSERT, UPSERT, and DELETE
-  - Handling errors and exceptions
-  - Challenge: Complete a key value operation using Node.js
-  - Solution: Complete a key value operation using Node.js
+  - [Completing a Get](#completing-a-get)
+  - [Completing an INSERT, UPSERT, and DELETE](#completing-an-insert-upsert-and-delete)
+  - [Handling errors and exceptions](#handling-errors-and-exceptions)
+  - [Challenge: Complete a key value operation using Node.js](#challenge-complete-a-key-value-operation-using-nodejs)
+  - [Solution: Complete a key value operation using Node.js](#solution-complete-a-key-value-operation-using-nodejs)
 - [**3. Querying with Couchbase**](#3-querying-with-couchbase) (2 videos)
-  - SQL and SQL++ and Indexing In Capella
-  - Using JOINs and Parameters with SQL++/N1QL
+  - [SQL and SQL++ and Indexing In Capella](#sql-and-sql-and-indexing-in-capella)
+  - [Using JOINs and Parameters with SQL++/N1QL](#using-joins-and-parameters-with-sqln1ql)
 - [**4. Getting Your Couchbase Database to Perform Effectively**](#4-getting-your-couchbase-database-to-perform-effectively) (3 videos)
-  - Evaluating database performance
-  - Scaling vertically and horizontally
-  - Applying replication
+  - [Evaluating database performance](#evaluating-database-performance)
+  - [Scaling vertically and horizontally](#scaling-vertically-and-horizontally)
+  - [Applying replication](#applying-replication)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Couchbase and what it can do for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980)
@@ -108,9 +108,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Couchbase]] (5), database (3), application (2), [[SQL]] (2), next (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [michelle] (1)
@@ -206,9 +206,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Couchbase]] (14), database (13), node (7), [[Databases]] (3)
 > **CLI Commands:** node (7), make (1)
 > **Env Vars:** sql (2), json (2), sdk (1), csv (1), tsv (1)
-> **Code Keywords:** let (2), interface (1), from, (1), finally, (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** similar to (3), for example (1)
 > **Prerequisites:** setup (1)
@@ -217,7 +217,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Couchbase Capella
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Signing up for Capella
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980)
@@ -270,8 +270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Couchbase]] (3), next (2), management (1), cloud (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), require (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** just like (1)
@@ -329,7 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (2), [[Couchbase]] (2), api (1), cloud (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -413,9 +413,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Security]] (3), [[Couchbase]] (2), [[Databases]] (1), database (1)
 > **UI Navigation:** click on (3), dropdown (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this, (1), let (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Warnings:** be aware (1)
@@ -496,7 +496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (3), delete (3), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (11), [[Couchbase]] (7), database (3), [[JSON]] (2), node (1)
 > **Env Vars:** mib (2), json (2), csv (2), ram (1), gp3 (1)
 > **CLI Commands:** find (2), node (1), make (1)
 > **UI Navigation:** click on (2), navigate to (1)
@@ -575,6 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (10), [[Couchbase]] (7), application (2), [[JSON]] (2), [[npm]] (2)
 > **CLI Commands:** node (11), npm (2), make (2)
 > **File Paths:** node.js (10), app.js (2), package.json (2)
 > **Env Vars:** ide (4), sdk (3), npm (2), url (1)
@@ -582,7 +583,6 @@ created: 2026-04-29
 > **UI Navigation:** click on (4), go to (1)
 > **Versions:** version 3 (2), 2.5 (2)
 > **Tools:** visual studio (2), vs code (2)
-> **Definitions:** is a  (3)
 
 #### Connecting to Couchbase through Capella
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980)
@@ -677,7 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), for. (1), finally, (1), from. (1)
+> **Frameworks & Libraries:** [[Couchbase]] (6), database (6), hit (3), application (2), [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** make (5), node (1)
 > **Env Vars:** ide (3), sdk (1), ec2 (1)
 > **UI Navigation:** click on (1), dropdown (1)
@@ -719,9 +719,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Couchbase]] (4), data (2), node (1), cloud (1), database (1)
 > **Env Vars:** ide (2), sdk (1)
 > **CLI Commands:** node (1), find (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [couchbase.com](https://couchbase.com) (1)
 > **Tools:** visual studio (1)
 > **UI Navigation:** go to (1)
@@ -815,7 +815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (1), public (1)
+> **Frameworks & Libraries:** database (14), data (7), [[Couchbase]] (3), node (3), cloud (2)
 > **CLI Commands:** node (3), make (1)
 > **Env Vars:** sdk (2)
 > **Exercise Files:** sample code (2)
@@ -827,7 +827,7 @@ created: 2026-04-29
 
 ### 2. Completing Key Value Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Completing a Get
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980)
@@ -872,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), await (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[Couchbase]] (4), database (2), next (1), application (1), data (1)
 > **CLI Commands:** find (1), make (1), node (1)
 > **Env Vars:** ide (1), sdk (1)
 > **UI Navigation:** click on (1), dropdown (1)
@@ -936,7 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1)
+> **Frameworks & Libraries:** database (4), [[Couchbase]] (3), application (1), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
 > **Env Vars:** ide (2), cas (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (2)
@@ -974,6 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Node.js]] (1), web (1), hit (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
@@ -1016,9 +1017,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (2), data (2), [[Couchbase]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
-> **Code Keywords:** delete (1), finally, (1)
 > **Env Vars:** ide (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
@@ -1063,7 +1064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), super (1)
+> **Frameworks & Libraries:** [[Couchbase]] (2), application (1)
 > **Env Vars:** sdk (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1072,7 +1073,7 @@ created: 2026-04-29
 
 ### 3. Querying with Couchbase
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL and SQL++ and Indexing In Capella
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980)
@@ -1197,8 +1198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (21), data (14), [[Couchbase]] (6), database (3), [[JSON]] (2)
 > **Env Vars:** sql (21), json (2), distinct (2), upsert (2), n1ql (1)
-> **Code Keywords:** delete (4), finally, (3), function (2), extends (1), switch (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (2), dropdown (1), select the (1), switch to (1)
 > **Warnings:** keep in mind (4), note that (1)
@@ -1271,7 +1272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Couchbase]] (3), data (2)
 > **SQL:** join (4)
 > **Env Vars:** join (4)
 > **UI Navigation:** navigate to (1), select the (1), dropdown (1), go to (1)
@@ -1283,7 +1284,7 @@ created: 2026-04-29
 
 ### 4. Getting Your Couchbase Database to Perform Effectively
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating database performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/evaluating-database-performance-23462799?u=76281980)
@@ -1350,8 +1351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), data (2), next (1), node (1), [[Security]] (1)
 > **CLI Commands:** make (2), find (1), node (1), aws (1)
-> **Code Keywords:** let (3), delete (1), finally, (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** aws (1), cidr (1)
 > **UI Navigation:** dropdown (1)
@@ -1438,8 +1439,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), node (2), feature (1)
 > **CLI Commands:** make (4), node (2)
-> **Code Keywords:** let (2), require (1), while, (1), finally, (1), raise (1)
 > **Env Vars:** cpu (3), ram (3)
 > **UI Navigation:** dropdown (2), click on (1)
 > **Analogies:** imagine (1), just like (1)
@@ -1526,10 +1527,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), feature (3), next (3), [[Security]] (1), node (1)
 > **UI Navigation:** dropdown (2), select the (1), go to (1)
 > **Prerequisites:** setup (3), getting started (1)
 > **CLI Commands:** find (1), make (1), node (1)
-> **Code Keywords:** let (2), from. (1)
 > **Warnings:** note that (3)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1538,7 +1539,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980)
@@ -1567,7 +1568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), continue (1)
+> **Frameworks & Libraries:** [[Couchbase]] (12), [[LinkedIn]] (2), [[NoSQL]] (1), database (1), [[Live Streaming]] (1)
 > **URLs:** [couchbase.com](https://couchbase.com) (2)
 > **CLI Commands:** find (1)
 > **Tools:** discord (1)

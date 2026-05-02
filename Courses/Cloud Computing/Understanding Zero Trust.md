@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Understanding%20Zero%20Trust.md)
@@ -41,31 +41,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Using Zero Trust to protect against cyberattack
-  - What you should know
+  - [Using Zero Trust to protect against cyberattack](#using-zero-trust-to-protect-against-cyberattack)
+  - [What you should know](#what-you-should-know)
 - [**1. Background**](#1-background) (3 videos)
-  - A brief history of technology trust
-  - Concepts of software trust
-  - A case study in failed trust
+  - [A brief history of technology trust](#a-brief-history-of-technology-trust)
+  - [Concepts of software trust](#concepts-of-software-trust)
+  - [A case study in failed trust](#a-case-study-in-failed-trust)
 - [**2. Zero Trust**](#2-zero-trust) (8 videos)
-  - What is Zero Trust?
-  - The principles of Zero Trust
-  - ACT-IAC and the six pillars of zero trust
-  - Zero trust across the digital estate
-  - Policy-based admission control
-  - Zero Trust and the business context
-  - Zero Trust data
-  - An extended approach to Zero Trust
+  - [What is Zero Trust?](#what-is-zero-trust)
+  - [The principles of Zero Trust](#the-principles-of-zero-trust)
+  - [ACT-IAC and the six pillars of zero trust](#act-iac-and-the-six-pillars-of-zero-trust)
+  - [Zero trust across the digital estate](#zero-trust-across-the-digital-estate)
+  - [Policy-based admission control](#policy-based-admission-control)
+  - [Zero Trust and the business context](#zero-trust-and-the-business-context)
+  - [Zero Trust data](#zero-trust-data)
+  - [An extended approach to Zero Trust](#an-extended-approach-to-zero-trust)
 - [**3. Implementing Zero Trust**](#3-implementing-zero-trust) (3 videos)
-  - Building a Zero Trust foundation
-  - Designing a policy engine
-  - Examples of zero trust
+  - [Building a Zero Trust foundation](#building-a-zero-trust-foundation)
+  - [Designing a policy engine](#designing-a-policy-engine)
+  - [Examples of zero trust](#examples-of-zero-trust)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Zero Trust to protect against cyberattack
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/using-zero-trust-to-protect-against-cyberattack?u=76281980)
@@ -84,7 +84,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), career (1), [[Security]] (1)
 > **Speakers:** - [malcolm] (1)
 
 #### What you should know
@@ -103,14 +103,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Background
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A brief history of technology trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980)
@@ -167,9 +166,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Microsoft Products|Products]] (2), application (1), [[Banking]] (1), product (1)
 > **Analogies:** such as (5)
 > **Definitions:** known as (2), is a  (1)
-> **Code Keywords:** continue (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -246,9 +245,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (2), product (2), functional (1), [[Agile Development|Agile]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** qfd (5), mit (1), iso (1), dod (1)
 > **Definitions:** known as (3), is a  (2), is an  (1)
-> **Code Keywords:** function (4)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
@@ -286,14 +285,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), management (1), web (1)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Zero Trust
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Zero Trust?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980)
@@ -346,8 +345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), data (6), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (1)
 > **Definitions:** is a  (4), means that (2), is an  (1)
-> **Code Keywords:** function (2), static (1), protected (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** abc (1), nist (1)
 > **Tools:** notion (1)
@@ -504,10 +503,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Security]] (5), cloud (4), business (3), [[NIST]] (2)
 > **Definitions:** means that (3), is a  (3), in other words (2)
 > **Env Vars:** nist (2), nsa (2), aws (1)
 > **CLI Commands:** make (2), aws (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
@@ -586,8 +585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Security]] (7), [[Cybersecurity]] (4), [[Automation]] (4), [[Analytics]] (3)
 > **Env Vars:** cisa (3), actiac (1)
-> **Code Keywords:** finally, (1), case, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** configure (1)
@@ -694,7 +693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (1), this. (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), data (4), [[Security]] (3), application (3), [[Analytics]] (2)
 > **Env Vars:** id8 (2), nist (1), id6 (1), siem (1), en4 (1)
 > **CLI Commands:** find (2)
 > **Versions:** 2.4 (1), 1.2 (1)
@@ -750,12 +749,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), node (2), traffic (1), management (1), data (1)
 > **Env Vars:** pdp (5), rfc (3), pep (3), eldap (2), snmp (1)
 > **Documentation:** rfc (3)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** node (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -850,8 +849,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Security]] (6), cloud (4), web (4), application (3)
 > **Env Vars:** sabsa (5), dmz (2), aws (2)
-> **Code Keywords:** let (3), private (1), static (1), finally, (1)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is an  (1)
@@ -898,9 +897,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Security]] (5), node (2), management (1), [[Relational Databases]] (1)
 > **CLI Commands:** node (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 #### An extended approach to Zero Trust
@@ -994,6 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Security]] (5), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), traffic (2)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** nist (1), rfc (1)
@@ -1004,7 +1004,7 @@ created: 2026-04-29
 
 ### 3. Implementing Zero Trust
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a Zero Trust foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980)
@@ -1063,9 +1063,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (12), web (7), application (4), data (3), database (3)
 > **Env Vars:** aws (12), iam (1), api (1), https (1), ssl (1)
 > **CLI Commands:** aws (12)
-> **Code Keywords:** let (2), interface (2), lambda (2)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 > **Best Practices:** best practice (1)
@@ -1108,6 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), aws (2), [[Algorithms]] (1), [[Security]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (2), rfc (1), ec2 (1)
 > **CLI Commands:** aws (2)
 > **Documentation:** rfc (1)
@@ -1169,16 +1170,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), product (2), [[Security]] (1), [[Microsoft Products|Products]] (1), [[Mesh]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** pass (1)
 > **Env Vars:** tls (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980)
@@ -1205,6 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Google]] (1), [[Security]] (1), cloud (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

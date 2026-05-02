@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Threat%20Modeling%20for%20AI-ML%20Systems.md)
@@ -52,40 +52,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Threat modeling introduction
-  - What you should know
+  - [Threat modeling introduction](#threat-modeling-introduction)
+  - [What you should know](#what-you-should-know)
 - [**1. Threat Modeling Overview**](#1-threat-modeling-overview) (4 videos)
-  - Threat modeling is important when building AI systems
-  - The four-question framework structures your work
-  - Anyone can threat model and you should, now
-  - Trustworthy AI: Threat modeling is better than principles
+  - [Threat modeling is important when building AI systems](#threat-modeling-is-important-when-building-ai-systems)
+  - [The four-question framework structures your work](#the-four-question-framework-structures-your-work)
+  - [Anyone can threat model and you should, now](#anyone-can-threat-model-and-you-should-now)
+  - [Trustworthy AI: Threat modeling is better than principles](#trustworthy-ai-threat-modeling-is-better-than-principles)
 - [**2. What Are You Working on with ML?**](#2-what-are-you-working-on-with-ml) (5 videos)
-  - ML for business, offense, defense, and software
-  - Draw your architecture
-  - Deployment architectures influence your threats
-  - Training data is a crucial variable
-  - The stochastic parrot
+  - [ML for business, offense, defense, and software](#ml-for-business-offense-defense-and-software)
+  - [Draw your architecture](#draw-your-architecture)
+  - [Deployment architectures influence your threats](#deployment-architectures-influence-your-threats)
+  - [Training data is a crucial variable](#training-data-is-a-crucial-variable)
+  - [The stochastic parrot](#the-stochastic-parrot)
 - [**3. What Can Go Wrong with ML Security**](#3-what-can-go-wrong-with-ml-security) (5 videos)
-  - The OWASP Top Ten as a checklist
-  - The Berryville Institute Exhaustive List
-  - Microsoft's frameworks for security flaws
-  - Prompt injection
-  - Embarrassing and hostile results
+  - [The OWASP Top Ten as a checklist](#the-owasp-top-ten-as-a-checklist)
+  - [The Berryville Institute Exhaustive List](#the-berryville-institute-exhaustive-list)
+  - [Microsoft's frameworks for security flaws](#microsofts-frameworks-for-security-flaws)
+  - [Prompt injection](#prompt-injection)
+  - [Embarrassing and hostile results](#embarrassing-and-hostile-results)
 - [**4. What Can Go Wrong with AI: Trustworthiness**](#4-what-can-go-wrong-with-ai-trustworthiness) (4 videos)
-  - NIST Framework
-  - EU's AI Act
-  - Current harms
-  - Scenarios
+  - [NIST Framework](#nist-framework)
+  - [EU's AI Act](#eus-ai-act)
+  - [Current harms](#current-harms)
+  - [Scenarios](#scenarios)
 - [**5. What Are You Going to Do about It?**](#5-what-are-you-going-to-do-about-it) (3 videos)
-  - Specific frameworks
-  - Mitigations advance faster than threats
-  - Deploying new technology isn't a one-and-done
+  - [Specific frameworks](#specific-frameworks)
+  - [Mitigations advance faster than threats](#mitigations-advance-faster-than-threats)
+  - [Deploying new technology isn't a one-and-done](#deploying-new-technology-isnt-a-one-and-done)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Threat modeling introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-introduction?u=76281980)
@@ -110,6 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (2), ai (2), [[Security]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - llms (1)
 
@@ -140,14 +141,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (2), ai (1), llm (1), [[Programming]] (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Threat Modeling Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Threat modeling is important when building AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980)
@@ -182,7 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), let (1), interface (1), super (1)
+> **Frameworks & Libraries:** ai (3), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Computer Vision]] (1), [[Speech Recognition]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -234,8 +235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (4), [[OWASP]] (2), data (2), [[Engineering]] (1), ai (1)
 > **Env Vars:** stride (3), owasp (2), llm (1)
-> **Code Keywords:** super (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -273,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), this, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Threat Modeling]] (1), [[Representational State Transfer (REST)|Rest]] (1), teams (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -330,12 +331,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (3), ai (2), [[Google]] (2), product (2), [[Algorithms]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. What Are You Working on with ML?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ML for business, offense, defense, and software
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980)
@@ -388,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (1)
+> **Frameworks & Libraries:** business (5), ai (2), [[Cybersecurity]] (2), llm (2), [[LinkedIn]] (1)
 > **Env Vars:** llm (2), api (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -428,9 +430,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (2)
-> **Code Keywords:** super (1)
 > **Env Vars:** csa (1)
 > **Speakers:** - [instructor] (1)
 
@@ -475,8 +477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), business (2), llm (2), [[Fine Tuning]] (2), web application (1)
 > **Env Vars:** llm (2), vpc (2)
-> **Code Keywords:** let (1), function (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -538,9 +540,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), llm (2), [[Microsoft Word|Word]] (2), [[Security]] (1), [[Microsoft]] (1)
 > **Env Vars:** llm (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** source code (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
@@ -583,15 +585,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Tokens]] (2), next (1), prompt (1), chatbot (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. What Can Go Wrong with ML Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The OWASP Top Ten as a checklist
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980)
@@ -708,8 +710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (11), data (5), [[OWASP]] (4), prompt (4), next (2)
 > **Env Vars:** llm (11), owasp (4), api (2), llm01 (1), llm02 (1)
-> **Code Keywords:** let (2), continue (1)
 > **CLI Commands:** make (2)
 > **URLs:** [llmtop10.com](https://llmtop10.com) (1)
 > **Cross-References:** later in (1)
@@ -760,6 +762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), llm (2), [[OWASP]] (2), [[Security]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (2), owasp (2), biml (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -804,6 +807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Search]] (2), ai (2), [[Google]] (1), [[Simulation]] (1)
 > **Env Vars:** ceo (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -905,8 +909,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (16), data (7), llm (7), [[SQL]] (3), [[Forms]] (2)
 > **Env Vars:** llm (7), sql (3), owasp (1), html (1)
-> **Code Keywords:** let (2), static (1), this. (1)
 > **Definitions:** is a  (2)
 > **URLs:** [shostack.org](https://shostack.org) (1)
 > **Analogies:** for example (1)
@@ -941,6 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), next (1), business (1), llm (1), chatbot (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
@@ -949,7 +954,7 @@ created: 2026-04-29
 
 ### 4. What Can Go Wrong with AI: Trustworthiness
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### NIST Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980)
@@ -988,8 +993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[NIST]] (3), [[Cybersecurity]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Privacy]] (1)
 > **Env Vars:** nist (3)
-> **Code Keywords:** this, (1), let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1063,7 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2), self (1)
+> **Frameworks & Libraries:** ai (10), management (3), [[Cybersecurity]] (3), application (2), [[Microsoft Word|Word]] (2)
 > **Analogies:** picture (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
@@ -1087,6 +1092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[Cybersecurity]] (1), data (1), [[Privacy]] (1), power (1)
 > **Speakers:** - [presenter] (1)
 
 #### Scenarios
@@ -1122,8 +1128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), aws (2), power (1), data (1)
 > **CLI Commands:** make (3), aws (2)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** aws (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - [narrator] (1)
@@ -1131,7 +1137,7 @@ created: 2026-04-29
 
 ### 5. What Are You Going to Do about It?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Specific frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980)
@@ -1192,10 +1198,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[OWASP]] (3), data (3), [[Security]] (2), prompt (2)
 > **Env Vars:** owasp (3), sbom (2), llm (2), nist (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Mitigations advance faster than threats
@@ -1239,8 +1245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), llm (2), prompt (1), next (1), [[Microsoft]] (1)
 > **Env Vars:** rss (3), llm (2), url (1)
-> **Code Keywords:** new, (1), function (1)
 > **URLs:** [shostack.org](https://shostack.org) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1264,6 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), next (1), [[Large Language Models (LLM)|Large language models]] (1), [[Security]] (1), [[Threat Modeling]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
@@ -1271,7 +1278,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980)
@@ -1294,9 +1301,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Threat Modeling]] (2), next (1), [[OWASP]] (1), [[NIST]] (1)
 > **Env Vars:** owasp (1), nist (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** raise (1)
 > **URLs:** [shostack.org](https://shostack.org) (1)
 > **Speakers:** - [instructor] (1)
 

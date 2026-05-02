@@ -32,7 +32,7 @@ tags:
   - skill/codespaces
   - skill/github
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20GitHub%20Codespaces%20for%20Enterprise.md)
@@ -51,44 +51,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Bring Codespaces to your organization
-  - What you should know
-  - Who should take this course
+  - [Bring Codespaces to your organization](#bring-codespaces-to-your-organization)
+  - [What you should know](#what-you-should-know)
+  - [Who should take this course](#who-should-take-this-course)
 - [**1. Getting Started with Codespaces**](#1-getting-started-with-codespaces) (5 videos)
-  - What is GitHub Codespaces?
-  - GitHub Codespaces vs. github.dev
-  - Signing up for Codespaces
-  - Creating a codespace
-  - Adding a Codespaces button to the README
+  - [What is GitHub Codespaces?](#what-is-github-codespaces)
+  - [GitHub Codespaces vs. github.dev](#github-codespaces-vs-githubdev)
+  - [Signing up for Codespaces](#signing-up-for-codespaces)
+  - [Creating a codespace](#creating-a-codespace)
+  - [Adding a Codespaces button to the README](#adding-a-codespaces-button-to-the-readme)
 - [**2. Configuring Your Codespaces**](#2-configuring-your-codespaces) (6 videos)
-  - Introduction to dev containers and devcontainer.json
-  - Defining your development environment
-  - Port forwarding
-  - Setting a default editor
-  - Personalizing your setup with extensions
-  - Codespace logs
+  - [Introduction to dev containers and devcontainer.json](#introduction-to-dev-containers-and-devcontainerjson)
+  - [Defining your development environment](#defining-your-development-environment)
+  - [Port forwarding](#port-forwarding)
+  - [Setting a default editor](#setting-a-default-editor)
+  - [Personalizing your setup with extensions](#personalizing-your-setup-with-extensions)
+  - [Codespace logs](#codespace-logs)
 - [**3. Developing in a Codespace**](#3-developing-in-a-codespace) (5 videos)
-  - A tour of the codespace editor
-  - Running your application
-  - Committing and pushing code changes
-  - Creating a pull request
-  - Deleting a codespace
+  - [A tour of the codespace editor](#a-tour-of-the-codespace-editor)
+  - [Running your application](#running-your-application)
+  - [Committing and pushing code changes](#committing-and-pushing-code-changes)
+  - [Creating a pull request](#creating-a-pull-request)
+  - [Deleting a codespace](#deleting-a-codespace)
 - [**4. Advanced Concepts**](#4-advanced-concepts) (5 videos)
-  - Connecting to Codespaces from VSCode
-  - Restricting machine types
-  - Using predefined containers
-  - Environment variables
-  - Storing sensitive data
+  - [Connecting to Codespaces from VSCode](#connecting-to-codespaces-from-vscode)
+  - [Restricting machine types](#restricting-machine-types)
+  - [Using predefined containers](#using-predefined-containers)
+  - [Environment variables](#environment-variables)
+  - [Storing sensitive data](#storing-sensitive-data)
 - [**5. Using Codespaces with GitHub Models**](#5-using-codespaces-with-github-models) (3 videos)
-  - Using Github Models with Codespaces
-  - Using Github Models in live projects
-  - Working with different models in a project
+  - [Using Github Models with Codespaces](#using-github-models-with-codespaces)
+  - [Using Github Models in live projects](#using-github-models-in-live-projects)
+  - [Working with different models in a project](#working-with-different-models-in-a-project)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bring Codespaces to your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[GitHub]] (5), teams (1), [[Application Development]] (1), [[Software Development]] (1)
 > **Tools:** github (5), vs code (1)
-> **Code Keywords:** public (1), super (1)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -150,6 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (3), [[Programming]] (1), next (1), [[Version Control]] (1)
 > **CLI Commands:** docker (4), git (1), make (1)
 > **Tools:** github (3)
 > **Prerequisites:** you need to have (2), required to (1)
@@ -190,7 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** cloud (1), [[Engineering]] (1), [[Programming]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - so (1)
@@ -198,7 +199,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Codespaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub Codespaces?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980)
@@ -241,10 +242,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (14), [[GitHub]] (10), teams (3), cloud (2), product (1)
 > **Tools:** github (10), visual studio (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Env Vars:** url (1), cpu (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -280,6 +281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (15), [[Codespaces]] (5), cloud (2), application (1)
 > **Tools:** github (15), visual studio (2)
 > **URLs:** [github.dev](https://github.dev) (7)
 > **CLI Commands:** make (3)
@@ -361,8 +363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (18), [[GitHub]] (17), next (3), business (1)
 > **Tools:** github (17)
-> **Code Keywords:** let (4), switch (1), this, (1)
 > **UI Navigation:** click on (2), go to (2), toggle (1), scroll down (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (2), is an  (1)
@@ -418,9 +420,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), cloud (1), [[Search]] (1), [[Debugging]] (1), application (1)
 > **UI Navigation:** click on (2), switch to (1), dropdown (1), select the (1), go to (1)
 > **Tools:** github (2), visual studio (2)
-> **Code Keywords:** switch (1), delete (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
@@ -554,9 +556,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (16), [[Codespaces]] (9), node (2), api (2), application (1)
 > **Tools:** github (16)
 > **Env Vars:** readme (7), url (3), svg (2)
-> **Code Keywords:** let (6), this. (2), interface (1), default. (1)
 > **CLI Commands:** make (3), node (2), find (1)
 > **Prerequisites:** set up (2), setup (1), configure (1)
 > **URLs:** [https://codespaces.new](https://codespaces.new) (2), [https://github.com/codespaces/badge.svg](https://github.com/codespaces/badge.svg) (1)
@@ -566,7 +568,7 @@ created: 2026-04-29
 
 ### 2. Configuring Your Codespaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to dev containers and devcontainer.json
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980)
@@ -635,8 +637,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (3), [[GitHub]] (2), web (1), application (1), [[JavaScript]] (1)
 > **CLI Commands:** docker (2), npm (1), yarn (1), git (1), wget (1)
-> **Code Keywords:** continue (1), default, (1), public (1)
 > **Tools:** github (2), visual studio (1)
 > **Prerequisites:** configure (3)
 > **Cross-References:** later in (1), in the next (1)
@@ -761,11 +763,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (7), next (6), [[GitHub]] (4), feature (4), [[JSON]] (3)
 > **CLI Commands:** node (8), docker (7), make (1)
 > **Tools:** vs code (5), github (4), visual studio (1), terminal (1)
 > **File Paths:** node.js (7), devcontainer.json (3)
 > **UI Navigation:** select the (3), go to (1), click on (1)
-> **Code Keywords:** let (2), public (1), default, (1)
 > **Code Identifiers:** forwardports (1), postcreatecommand (1), remoteuser (1)
 > **Versions:** version 14 (3)
 > **Env Vars:** cli (2)
@@ -825,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default. (1), public (1)
+> **Frameworks & Libraries:** application (5), [[Linux]] (2), node (1), [[JSON]] (1), [[Windows]] (1)
 > **Tools:** terminal (6)
 > **Env Vars:** json (1), mpm (1), api (1)
 > **Ports:** port 1 (2)
@@ -875,9 +877,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (4), web (3), [[Automation]] (1), hit (1)
 > **Tools:** vs code (6), github (4), visual studio (3)
 > **UI Navigation:** click on (3), go to (1), scroll down (1), select the (1), open the (1)
-> **Code Keywords:** default. (2), switch (2), default, (1)
 > **Prerequisites:** configure (1), install (1), set up (1)
 > **Speakers:** - by (1)
 
@@ -942,8 +944,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), [[ESLint]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** docker (12), make (1)
-> **Code Keywords:** let (3), extends (1), this, (1), new. (1), type, (1)
 > **Tools:** vs code (2), visual studio (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Prerequisites:** install (2)
@@ -1001,6 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (5), [[GitHub]] (3), [[Debugging]] (1), web (1)
 > **Tools:** github (3), visual studio (1)
 > **Exercise Files:** zip file (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -1011,7 +1014,7 @@ created: 2026-04-29
 
 ### 3. Developing in a Codespace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A tour of the codespace editor
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980)
@@ -1082,7 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1), default, (1), switch (1)
+> **Frameworks & Libraries:** [[Windows]] (3), next (3), [[Search]] (2), [[Debugging]] (2), [[Version Control]] (1)
 > **Tools:** github (1), terminal (1), vs code (1)
 > **CLI Commands:** docker (2)
 > **Cross-References:** in the next (1)
@@ -1173,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), public (4), switch (3), private (2)
+> **Frameworks & Libraries:** application (13), [[GitHub]] (3), [[Codespaces]] (2), next (2), api (1)
 > **Env Vars:** url (8), mpm (2), api (1), http (1)
 > **UI Navigation:** go to (4), click on (3), scroll down (1)
 > **Tools:** github (3), postman (3)
@@ -1231,7 +1234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (1), interface (1), switch (1)
+> **Frameworks & Libraries:** next (1), api (1)
 > **File Paths:** routes.js (2), route.js (1)
 > **UI Navigation:** go to (2), switch to (1)
 > **CLI Commands:** make (2)
@@ -1339,8 +1342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), [[GitHub]] (4), application (2), [[Codespaces]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **UI Navigation:** click on (9), go to (2), select the (2), dropdown (1), switch to (1)
-> **Code Keywords:** let (5), switch (3), finally, (1), default. (1)
 > **File Paths:** server.js (5)
 > **Tools:** github (4)
 > **Speakers:** - [instructor] (1)
@@ -1376,7 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4)
+> **Frameworks & Libraries:** [[Codespaces]] (3), feature (2), [[GitHub]] (2)
 > **Tools:** github (2)
 > **Cross-References:** previous video (1)
 > **Best Practices:** best practice (1)
@@ -1385,7 +1388,7 @@ created: 2026-04-29
 
 ### 4. Advanced Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting to Codespaces from VSCode
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980)
@@ -1454,6 +1457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (11), [[GitHub]] (5), [[Search]] (2), next (1), api (1)
 > **Tools:** github (5), visual studio (4), vs code (4)
 > **Prerequisites:** install (3), configure (2)
 > **UI Navigation:** click on (2), in the sidebar (1)
@@ -1509,8 +1513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Automation]] (1), [[Codespaces]] (1)
 > **UI Navigation:** click on (6), dropdown (2), go to (1), select the (1)
-> **Code Keywords:** require (1), type, (1), let (1)
 > **Prerequisites:** set up (3)
 > **Tools:** github (2)
 > **Speakers:** - [instructor] (1)
@@ -1586,11 +1590,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[CLI]] (5), aws (5), [[Node.js]] (2), [[PHP]] (2)
 > **CLI Commands:** aws (5), node (2), php (2), find (1), python (1)
 > **Env Vars:** cli (5), aws (5), php (2)
 > **Tools:** github (5), terminal (2), powershell (1)
 > **UI Navigation:** select the (3), go to (2), open the (1), scroll up (1), switch to (1)
-> **Code Keywords:** let (2), for, (1), switch (1), for. (1), require (1)
 > **File Paths:** node.js (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
@@ -1648,9 +1652,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (11), api (1)
 > **Tools:** github (11), terminal (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** api (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - for (1)
@@ -1796,8 +1800,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (15), [[Codespaces]] (11), data (2), api (2), [[MongoDB]] (2)
 > **Tools:** github (15), terminal (1)
-> **Code Keywords:** let (11), finally, (2), for. (1)
 > **UI Navigation:** click on (5), go to (4), dropdown (3), select the (1)
 > **Env Vars:** general_api_key (3), api (1), github (1), my_database_connection_string (1), cli (1)
 > **Definitions:** means that (2)
@@ -1807,7 +1811,7 @@ created: 2026-04-29
 
 ### 5. Using Codespaces with GitHub Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Github Models with Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980)
@@ -1972,7 +1976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), case. (2), for. (1), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (14), [[JavaScript]] (5), [[JSON]] (3), [[Microsoft Azure|Azure]] (2), [[npm]] (2)
 > **Tools:** github (14), terminal (3)
 > **Env Vars:** sdk (8), gpt (4), api (1), rest (1), npm (1)
 > **UI Navigation:** go to (5), navigate to (3), dropdown (2), select the (1)
@@ -2074,7 +2078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), switch (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), ai (9), [[GitHub]] (7), [[Codespaces]] (3), api (3)
 > **Env Vars:** api (3), url (3), azure_token (3), gpt (1)
 > **Tools:** github (7)
 > **Prerequisites:** set up (2), getting started (1)
@@ -2182,7 +2186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), switch (2), for. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (6), [[JSON]] (2), prompt (2), node (2)
 > **Env Vars:** sdk (8), api (1)
 > **File Paths:** streaming.js (3), package.json (2)
 > **Versions:** 24.11 (2), 3.5 (2)
@@ -2194,7 +2198,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980)
@@ -2225,10 +2229,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Codespaces]] (4), [[LinkedIn]] (3), management (1), [[Git]] (1)
 > **Tools:** github (7), visual studio (2), vs code (1)
 > **CLI Commands:** docker (4), git (1), find (1)
 > **Prerequisites:** configure (1), you need to have (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [fikayo] (1)
 

@@ -26,7 +26,7 @@ tags:
   - skill/red-hat-enterprise-linux-rhel
   - skill/ansible
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20Engineer%20Ex294%20Cert%20Prep%201%20Foundations%20Of%20Ansible.md)
@@ -45,55 +45,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (13 videos)
-  - Prepare for the RHCE EX294 certification
-  - What you should know
-  - About the RHCE (EX294) exam
-  - State of Enterprise Linux
-  - Install Virtual Box
-  - CentOS 8 lab setup
-  - Optimize your VM
-  - Install Linux from DVD ISO
-  - Install Linux Guest Additions
-  - Virtual machine snapshots
-  - Finish lab set up
-  - Create a private network in VirtualBox
-  - Reconfigure or migrate CentOS
+  - [Prepare for the RHCE EX294 certification](#prepare-for-the-rhce-ex294-certification)
+  - [What you should know](#what-you-should-know)
+  - [About the RHCE (EX294) exam](#about-the-rhce-ex294-exam)
+  - [State of Enterprise Linux](#state-of-enterprise-linux)
+  - [Install Virtual Box](#install-virtual-box)
+  - [CentOS 8 lab setup](#centos-8-lab-setup)
+  - [Optimize your VM](#optimize-your-vm)
+  - [Install Linux from DVD ISO](#install-linux-from-dvd-iso)
+  - [Install Linux Guest Additions](#install-linux-guest-additions)
+  - [Virtual machine snapshots](#virtual-machine-snapshots)
+  - [Finish lab set up](#finish-lab-set-up)
+  - [Create a private network in VirtualBox](#create-a-private-network-in-virtualbox)
+  - [Reconfigure or migrate CentOS](#reconfigure-or-migrate-centos)
 - [**1. Introduction to IT Automation**](#1-introduction-to-it-automation) (6 videos)
-  - About IT automation
-  - Ansible concepts
-  - About provisioning
-  - About configuration management
-  - About app deployment
-  - About orchestration
+  - [About IT automation](#about-it-automation)
+  - [Ansible concepts](#ansible-concepts)
+  - [About provisioning](#about-provisioning)
+  - [About configuration management](#about-configuration-management)
+  - [About app deployment](#about-app-deployment)
+  - [About orchestration](#about-orchestration)
 - [**2. Getting Started with Ansible**](#2-getting-started-with-ansible) (4 videos)
-  - Host requirements
-  - Install Ansible on the control node
-  - Prepare managed nodes
-  - View Ansible Documentation
+  - [Host requirements](#host-requirements)
+  - [Install Ansible on the control node](#install-ansible-on-the-control-node)
+  - [Prepare managed nodes](#prepare-managed-nodes)
+  - [View Ansible Documentation](#view-ansible-documentation)
 - [**3. Setting Up an Ansible Environment**](#3-setting-up-an-ansible-environment) (3 videos)
-  - Build static inventory
-  - Work with dynamic inventory
-  - Manage Ansible configuration files
+  - [Build static inventory](#build-static-inventory)
+  - [Work with dynamic inventory](#work-with-dynamic-inventory)
+  - [Manage Ansible configuration files](#manage-ansible-configuration-files)
 - [**4. Using Ad Hoc Commands**](#4-using-ad-hoc-commands) (6 videos)
-  - Introduction to ad-hoc commands
-  - Targeting hosts with patterns
-  - Manage files and packages
-  - Restart servers and services
-  - Manage users
-  - Gather data
+  - [Introduction to ad-hoc commands](#introduction-to-ad-hoc-commands)
+  - [Targeting hosts with patterns](#targeting-hosts-with-patterns)
+  - [Manage files and packages](#manage-files-and-packages)
+  - [Restart servers and services](#restart-servers-and-services)
+  - [Manage users](#manage-users)
+  - [Gather data](#gather-data)
 - [**5. Ansible Command Line Tools**](#5-ansible-command-line-tools) (6 videos)
-  - Manage connection methods
-  - Use the Ansible command
-  - View Ansible configuration
-  - Use the Ansible console
-  - Show Ansible inventory
-  - Run Ansible playbooks
+  - [Manage connection methods](#manage-connection-methods)
+  - [Use the Ansible command](#use-the-ansible-command)
+  - [View Ansible configuration](#view-ansible-configuration)
+  - [Use the Ansible console](#use-the-ansible-console)
+  - [Show Ansible inventory](#show-ansible-inventory)
+  - [Run Ansible playbooks](#run-ansible-playbooks)
 - [**Summary**](#summary) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare for the RHCE EX294 certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980)
@@ -120,6 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[IT Automation]] (2), [[Engineering]] (1), [[Ansible]] (1)
 > **Env Vars:** ex294 (5), rhce (4)
 > **CLI Commands:** ansible (1)
 > **Definitions:** is a  (1)
@@ -178,6 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (17), [[Virtualization]] (3), [[Windows]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** amd (3), cpu (1), iso (1)
 > **Prerequisites:** install (3), you'll need (2)
 > **Versions:** version 8 (3)
@@ -278,11 +280,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), [[IT Automation]] (3), [[System Administration]] (1), business (1)
 > **Env Vars:** rhce (14), ex294 (7), rhcsa (4), ex200 (4), rhca (2)
 > **CLI Commands:** ansible (6)
 > **Prerequisites:** required to (2), configure (2), install (1), you'll need (1)
 > **Definitions:** is a  (2), stands for (1)
-> **Code Keywords:** pass (1), require (1)
 > **Analogies:** similar to (1), such as (1)
 > **Versions:** 2.8 (1)
 > **Speakers:** - [instructor] (1)
@@ -392,9 +394,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (32), [[Red Hat Linux]] (2), next (2), cloud (2), product (1)
 > **CLI Commands:** make (2), curl (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (1), similar to (1)
 > **Warnings:** note that (1), caution (1)
 > **Exercise Files:** source code (1)
@@ -561,12 +563,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (11), hit (6), application (2), [[Security]] (2), [[Windows]] (1)
 > **Prerequisites:** install (14), configure (1)
 > **CLI Commands:** dnf (4), sudo (4), make (2), ls (2), cd (1)
 > **UI Navigation:** click on (10), double-click (1), go to (1), scroll down (1)
 > **Env Vars:** dnf (3), gui (2), usb (2), pci (1), pxe (1)
 > **Tools:** terminal (5), command line (4)
-> **Code Keywords:** this. (1), from, (1), continue (1), let (1), function (1)
 > **Versions:** 6.1 (1), 2.0 (1), 3.0 (1)
 > **Code Identifiers:** opensuse (1), use_virtualbox (1)
 
@@ -643,10 +645,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), next (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (7)
 > **CLI Commands:** make (4)
 > **Prerequisites:** install (3), configure (1)
-> **Code Keywords:** let (1), override (1), type, (1)
 > **Definitions:** means that (2), short for (1)
 > **Env Vars:** gui (1), vdi (1)
 > **Versions:** 1.5 (1)
@@ -743,9 +745,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Virtual Machines]] (1), feature (1), [[Windows]] (1), data (1)
 > **Env Vars:** cpu (3), pae (2), nat (2), apic (1), ram (1)
 > **UI Navigation:** click on (10)
-> **Code Keywords:** let (3), this, (2), static (1), default, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
@@ -957,10 +959,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (7), next (6), web (2), hit (1), power (1)
 > **Env Vars:** iso (9), dvd (4), gui (3), xfs (2), ata (1)
 > **UI Navigation:** click on (20), select the (2), scroll down (1)
 > **Prerequisites:** install (9), configure (2), you'll need (2), getting started (2), set up (1)
-> **Code Keywords:** let (4), continue (2), match. (1), this, (1), this. (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** recommended (1), it's best to (1)
 > **URLs:** [sentos.org](https://sentos.org) (1)
@@ -1065,9 +1067,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), [[Linux]] (2), cd (2), [[Software Development]] (1)
 > **CLI Commands:** sudo (5), dnf (5), yum (2), cd (2)
 > **UI Navigation:** click on (5)
-> **Code Keywords:** let (2), this. (1), module (1)
 > **Tools:** terminal (4)
 > **Prerequisites:** install (4)
 > **Exercise Files:** source code (1)
@@ -1199,9 +1201,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), web (1)
 > **UI Navigation:** click on (16), select the (1)
 > **Prerequisites:** install (7), configure (1), you'll need (1)
-> **Code Keywords:** let (3), delete (3), this, (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1257,9 +1259,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), next (1), prompt (1)
 > **UI Navigation:** click on (4), dropdown (1), switch to (1)
 > **CLI Commands:** make (2), sudo (2)
-> **Code Keywords:** let (2), switch (1)
 > **URLs:** [localnet.com](https://localnet.com) (2)
 > **Tools:** terminal (2)
 > **Warnings:** note that (1)
@@ -1400,9 +1402,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtualization]] (8), traffic (2), lan (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (15), go to (1), checkbox (1)
 > **Env Vars:** nat (7), dhcp (6), lan (2), ssh (1)
-> **Code Keywords:** let (7), private (2), case, (1), require (1), match. (1)
 > **Versions:** 192.168.3 (7), 255.255.255 (2), 10.0.2 (2)
 > **Prerequisites:** set up (3), setup (2), configure (1), you'll need (1)
 > **CLI Commands:** make (3), ssh (1)
@@ -1526,6 +1528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (5), cd (4), web (2), [[GitHub]] (2)
 > **CLI Commands:** sudo (5), cd (4), sed (3), make (1), yum (1)
 > **UI Navigation:** click on (11), right-click (2), go to (1)
 > **URLs:** [centos.org](https://centos.org) (4), [http://mirror.centos.org|baseurl=http](http://mirror.centos.org|baseurl=http) (1), [almalinux.org](https://almalinux.org) (1), [rockylinux.org](https://rockylinux.org) (1)
@@ -1533,12 +1536,11 @@ created: 2026-04-29
 > **Prerequisites:** install (3), you'll need (2)
 > **File Paths:** almalinux-deploy.sh (2), migrate2rocky.sh (2)
 > **Definitions:** is an  (1), is a  (1)
-> **Warnings:** note that (2)
 
 
 ### 1. Introduction to IT Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980)
@@ -1661,9 +1663,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (11), data (7), [[IT Automation]] (5), [[Automation]] (4), cloud (2)
 > **CLI Commands:** ansible (11), ssh (5), ruby (2), node (2), make (1)
 > **Env Vars:** ssh (5), yaml (2), ssl (1), ini (1), ascii (1)
-> **Code Keywords:** super (1), default, (1), let (1), this. (1), delete (1)
 > **Analogies:** such as (4), similar to (2)
 > **Definitions:** is called (3), is a  (2)
 > **Prerequisites:** setup (2), configure (1)
@@ -1755,11 +1757,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (18), node (5), web (3), data (2), [[Orchestration]] (2)
 > **CLI Commands:** ansible (18), node (5), ssh (2), python (2), git (1)
 > **Env Vars:** yaml (3), ini (2), ssh (2), ascii (1), json (1)
 > **Definitions:** is a  (4), means that (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** module (1), default, (1)
 > **Tools:** powershell (1), bash (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1804,6 +1806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (11), cloud (5), data (2), [[Automation]] (2), [[Virtualization]] (2)
 > **CLI Commands:** ansible (11), make (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - provisioning (1)
@@ -1851,9 +1854,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (12), node (2), [[Configuration Management]] (1), [[System Configuration]] (1), data (1)
 > **CLI Commands:** ansible (12), node (2), ssh (2), sudo (1)
 > **Env Vars:** ssh (2)
-> **Code Keywords:** require (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1944,8 +1947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (20), web (4), [[Ansible]] (2), database (2), [[Software Development]] (1)
 > **Prerequisites:** configure (5), required to (1), install (1)
-> **Code Keywords:** for. (1), require (1), this. (1), static (1)
 > **CLI Commands:** ansible (2), make (1)
 > **Env Vars:** sql (1), http (1), html (1)
 > **Definitions:** refers to (1), is a  (1)
@@ -2003,7 +2006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), this, (1), require (1), new. (1)
+> **Frameworks & Libraries:** [[Orchestration]] (8), cloud (2), management (1), database (1), application (1)
 > **Analogies:** such as (3), just like (1), for example (1)
 > **CLI Commands:** docker (1), ansible (1)
 > **Warnings:** note that (1)
@@ -2012,7 +2015,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Ansible
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Host requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980)
@@ -2067,10 +2070,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Ansible]] (9), node (5), [[Windows]] (3), [[Linux]] (3)
 > **CLI Commands:** python (11), ansible (9), node (5), ssh (2)
 > **Env Vars:** ssh (2), bds (1), unix (1), eos (1), ios (1)
 > **Versions:** python 2 (3), python 3 (1), 6.3 (1), 14.04 (1), 2.5 (1)
-> **Code Keywords:** module (2), default, (1), raise (1), require (1)
 > **Analogies:** such as (2), for instance (1)
 > **Tools:** powershell (1)
 > **Best Practices:** best practice (1)
@@ -2179,10 +2182,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (19), [[Python (Programming Language)|Python]] (9), hit (9), node (4), [[Linux]] (3)
 > **CLI Commands:** ansible (19), python (9), sudo (7), yum (5), node (4)
 > **Prerequisites:** install (10), you'll need (3), set up (1)
 > **Tools:** bash (2), terminal (1), command line (1), zsh (1)
-> **Code Keywords:** module (2), override (1), this, (1)
 > **Env Vars:** epel (3), yum (1)
 > **Code Identifiers:** macos (1), bash_completion (1)
 > **Versions:** 2.8 (1), 192.168.3 (1)
@@ -2241,9 +2244,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Ansible]] (3), [[Linux]] (1)
 > **CLI Commands:** ssh (8), ansible (3), ls (1), find (1)
 > **Env Vars:** ssh (2), rsa (1)
-> **Code Keywords:** pub (1), public (1)
 > **Code Identifiers:** id_rsa (2)
 > **Versions:** 192.168.3 (1)
 > **Tools:** terminal (1)
@@ -2301,8 +2304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (22), hit (3), data (3), web (1), prompt (1)
 > **CLI Commands:** ansible (22)
-> **Code Keywords:** interface (2), module (2), type. (1), while, (1)
 > **Env Vars:** http (1), api (1)
 > **Tools:** command prompt (1), command line (1)
 > **Analogies:** for instance (1), such as (1)
@@ -2313,7 +2316,7 @@ created: 2026-04-29
 
 ### 3. Setting Up an Ansible Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build static inventory
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980)
@@ -2458,7 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (6), let (3), this. (2), case, (1), override (1)
+> **Frameworks & Libraries:** [[Ansible]] (4), web (4), hit (4), dns (1)
 > **Env Vars:** ini (5), yaml (5), dns (1), ssh (1)
 > **CLI Commands:** ansible (4), ssh (1), make (1)
 > **Definitions:** is a  (3), is called (1)
@@ -2508,6 +2511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (8), [[Python (Programming Language)|Python]] (2), cloud (1), management (1), [[Databases]] (1)
 > **CLI Commands:** ansible (8), python (2)
 > **Env Vars:** ldap (1), ec2 (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -2515,7 +2519,6 @@ created: 2026-04-29
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
-> **Speakers:** - [instructor] (1)
 
 #### Manage Ansible configuration files
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-ansible-configuration-files?u=76281980)
@@ -2594,9 +2597,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (26), next (1), node (1), data (1), hit (1)
 > **CLI Commands:** ansible (26), ssh (5), node (1)
 > **File Paths:** ansible.cfg (11)
-> **Code Keywords:** override (4), let (1), default. (1)
 > **Env Vars:** ssh (5)
 > **Tools:** command line (3), terminal (1)
 > **Analogies:** for instance (1), such as (1)
@@ -2605,7 +2608,7 @@ created: 2026-04-29
 
 ### 4. Using Ad Hoc Commands
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ad-hoc commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980)
@@ -2716,7 +2719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (16), this. (3), pass (2), case, (1), let (1)
+> **Frameworks & Libraries:** [[Ansible]] (9), web (7), [[Orchestration]] (1), prompt (1), [[Linux]] (1)
 > **CLI Commands:** ansible (9), sudo (2), make (1), yum (1)
 > **Analogies:** for instance (3), such as (3), for example (1)
 > **Tools:** command line (2), bash (2)
@@ -2774,9 +2777,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (10), web (10)
 > **CLI Commands:** ansible (10)
 > **Analogies:** such as (6), for instance (1)
-> **Code Keywords:** this, (2), this. (1), case, (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Env Vars:** tvm (1)
 > **Definitions:** is a  (1)
@@ -2917,8 +2920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), [[Ansible]] (6), node (1), [[Linux]] (1), data (1)
 > **CLI Commands:** yum (8), ansible (6), chown (2), node (1), apache (1)
-> **Code Keywords:** module (11), switch (1), let (1), case, (1), delete (1)
 > **Speakers:** - a (4), - for (1)
 > **File Paths:** path-/home/user1/file2.txt (1), home/user1/file3.txt (1), home/user1/file2.txt (1), file2.txt (1)
 > **Tools:** command line (3), terminal (1)
@@ -3025,8 +3028,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (4), hit (4), prompt (1), node (1)
 > **Env Vars:** rhhost2 (6), ctl (3), rhhost1 (1), sbin (1), rhhost (1)
-> **Code Keywords:** module (5), let (3), for. (1), this. (1), switch (1)
 > **CLI Commands:** ansible (4), make (1), node (1)
 > **Prerequisites:** you'll need (2)
 > **Tools:** terminal (1)
@@ -3113,8 +3116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Ansible]] (5), [[Linux]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (5), python (1), sudo (1), yum (1)
-> **Code Keywords:** module (3), let (2), delete (2)
 > **Env Vars:** sha (4), md5 (1), sha512 (1), crypt (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), such as (1)
@@ -3217,7 +3220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (4), default, (1), this. (1), else. (1)
+> **Frameworks & Libraries:** hit (11), [[Ansible]] (6), [[Hardware]] (6), [[JSON]] (4), power (1)
 > **CLI Commands:** ansible (6), cd (1), ls (1), mv (1)
 > **Prerequisites:** setup (4), set up (2)
 > **Tools:** firefox (4), terminal (1)
@@ -3229,7 +3232,7 @@ created: 2026-04-29
 
 ### 5. Ansible Command Line Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage connection methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980)
@@ -3298,8 +3301,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (8), [[Python (Programming Language)|Python]] (1), database (1), [[Kubernetes]] (1)
 > **CLI Commands:** ssh (14), ansible (8), docker (3), python (1), sudo (1)
-> **Code Keywords:** pass (3), private (3), default, (1), public (1), default. (1)
 > **Env Vars:** ssh (9)
 > **Code Identifiers:** ansible_ssh_private_key_file (1), known_hosts (1), host_key_checking (1)
 > **Analogies:** for instance (1), such as (1)
@@ -3346,9 +3349,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (7)
 > **CLI Commands:** ansible (7)
 > **Speakers:** - [narrator] (1), - b (1), - k (1), - e (1), - i (1)
-> **Code Keywords:** private (2), module (2), default, (1), pass (1)
 > **Documentation:** the documentation (1), man page (1)
 > **File Paths:** ansible.cfg (1)
 
@@ -3393,9 +3396,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (10), hit (4)
 > **CLI Commands:** ansible (10)
 > **File Paths:** ansible.cfg (4)
-> **Code Keywords:** for. (1), case, (1), pass (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3454,8 +3457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (7), hit (3), cd (2), web (1)
 > **CLI Commands:** ansible (7), cd (2), sudo (1), yum (1)
-> **Code Keywords:** let (5), module (3), this. (1)
 > **Prerequisites:** install (3)
 > **Analogies:** such as (1), for instance (1)
 > **Tools:** terminal (1)
@@ -3524,11 +3527,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (8), [[JSON]] (6), hit (5)
 > **CLI Commands:** ansible (8)
 > **Env Vars:** json (3), yaml (1)
 > **Tools:** firefox (3), terminal (1)
 > **File Paths:** inventory.json (3)
-> **Code Keywords:** let (2)
 > **Analogies:** imagine (1), for instance (1)
 > **URLs:** [localnet.com](https://localnet.com) (1)
 > **Prerequisites:** setup (1)
@@ -3664,8 +3667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (17), [[Ansible]] (7), web (4), cd (2), [[HTML]] (1)
 > **CLI Commands:** apache (8), ansible (7), make (3), cd (2), yum (2)
-> **Code Keywords:** let (6), module (3)
 > **Prerequisites:** install (3), set up (1), configure (1)
 > **Env Vars:** yml (2), ex294 (1), html (1)
 > **File Paths:** apache.yml (2), index.html (1)
@@ -3676,7 +3679,7 @@ created: 2026-04-29
 
 ### Summary
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980)
@@ -3699,9 +3702,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (6), [[IT Automation]] (1)
 > **CLI Commands:** ansible (6)
 > **Env Vars:** ex294 (2)
-> **Code Keywords:** static (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [grant] (1)
 

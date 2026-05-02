@@ -32,7 +32,7 @@ tags:
   - skill/microsoft-excel
   - skill/powerpivot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Working%20Together%20with%20Power%20Query%20and%20Power%20Pivot.md)
@@ -51,35 +51,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting the most out of your data
-  - What you should know
+  - [Getting the most out of your data](#getting-the-most-out-of-your-data)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding Power Query and Power Pivot**](#1-understanding-power-query-and-power-pivot) (1 videos)
-  - How Power Query and Power Pivot work together
+  - [How Power Query and Power Pivot work together](#how-power-query-and-power-pivot-work-together)
 - [**2. Using Power Query**](#2-using-power-query) (5 videos)
-  - Select your data
-  - Prepare your query
-  - Use a query to cleanse data
-  - Enhance your query
-  - Prepare data for Power Pivot
+  - [Select your data](#select-your-data)
+  - [Prepare your query](#prepare-your-query)
+  - [Use a query to cleanse data](#use-a-query-to-cleanse-data)
+  - [Enhance your query](#enhance-your-query)
+  - [Prepare data for Power Pivot](#prepare-data-for-power-pivot)
 - [**3. Using Power Pivot**](#3-using-power-pivot) (6 videos)
-  - Create your data model
-  - Import additional data
-  - Build relationships
-  - Create lookups as new fields
-  - Analyze data using PivotTables
-  - Analyze data using PivotCharts
+  - [Create your data model](#create-your-data-model)
+  - [Import additional data](#import-additional-data)
+  - [Build relationships](#build-relationships)
+  - [Create lookups as new fields](#create-lookups-as-new-fields)
+  - [Analyze data using PivotTables](#analyze-data-using-pivottables)
+  - [Analyze data using PivotCharts](#analyze-data-using-pivotcharts)
 - [**4. Using Power Query with Power Pivot**](#4-using-power-query-with-power-pivot) (5 videos)
-  - Scenario 1: Refresh source data
-  - Scenario 2: Updating queries
-  - Scenario 3: New reports
-  - Scenario 4: New source data
-  - Scenario 5: Finessing reports
+  - [Scenario 1: Refresh source data](#scenario-1-refresh-source-data)
+  - [Scenario 2: Updating queries](#scenario-2-updating-queries)
+  - [Scenario 3: New reports](#scenario-3-new-reports)
+  - [Scenario 4: New source data](#scenario-4-new-source-data)
+  - [Scenario 5: Finessing reports](#scenario-5-finessing-reports)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the most out of your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), super (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (6), feature (2), [[Microsoft Power Query|Power query]] (2), power (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [josh] (1)
 
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), power (2), [[Microsoft Power Query|Power query]] (2), [[Microsoft Office|Office]] (2), [[Microsoft 365]] (1)
 > **URLs:** [office.com](https://office.com) (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
@@ -148,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Understanding Power Query and Power Pivot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How Power Query and Power Pivot work together
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980)
@@ -205,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), static (1), this, (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft Power Query|Power query]] (5), power (5), [[Microsoft Excel|Excel]] (3), product (1)
 > **Definitions:** is a  (4), known as (2)
 > **Analogies:** such as (2), just like (1)
 > **Speakers:** - previously (1)
@@ -213,7 +214,7 @@ created: 2026-04-29
 
 ### 2. Using Power Query
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Select your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/select-your-data?u=76281980)
@@ -264,8 +265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (3), power (2), next (1)
 > **UI Navigation:** click on (7), dropdown (1), select the (1)
-> **Code Keywords:** let (3), import. (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** csv (2)
 > **Analogies:** such as (1), just like (1)
@@ -307,8 +308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** csv (2), dol (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (3)
+> **Frameworks & Libraries:** data (10), hit (3), [[Microsoft Excel|Excel]] (2), next (1)
 > **Env Vars:** dol (3), vin (2), csv (1)
 > **UI Navigation:** click on (3), select the (1)
 > **CLI Commands:** make (3)
@@ -499,8 +500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), feature (1), next (1), hit (1)
 > **UI Navigation:** click on (13), dropdown (2), select the (1)
-> **Code Keywords:** let (8), case. (2), this, (2), switch (1), type. (1)
 > **CLI Commands:** make (12)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -547,7 +548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** power (9), [[Microsoft Power Query|Power query]] (5), data (2), [[Microsoft Excel|Excel]] (2), next (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -558,7 +559,7 @@ created: 2026-04-29
 
 ### 3. Using Power Pivot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your data model
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-your-data-model?u=76281980)
@@ -621,8 +622,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), power (9), [[Microsoft Excel|Excel]] (4), [[Microsoft Power Query|Power query]] (4)
 > **UI Navigation:** click on (7), navigate to (1)
-> **Code Keywords:** let (5), this, (1)
 > **CLI Commands:** make (4)
 > **Warnings:** warning (3)
 > **Definitions:** is a  (1), means that (1)
@@ -671,7 +672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (4), type. (1), match, (1)
+> **Frameworks & Libraries:** data (6), [[PowerPivot]] (2), hit (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** loc (2)
 > **CLI Commands:** make (1)
@@ -728,7 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (6), power (5), [[Microsoft Excel|Excel]] (2), database (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -782,7 +783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (2), type, (2)
+> **Frameworks & Libraries:** data (7), [[PowerPivot]] (5), [[DAX]] (4), hit (2), feature (1)
 > **Env Vars:** dax (4)
 > **Definitions:** stands for (1), is called (1)
 > **Analogies:** such as (2)
@@ -852,7 +853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), type, (1), type. (1), new, (1)
+> **Frameworks & Libraries:** data (6), next (3), power (2), [[Microsoft Power Query|Power query]] (1), hit (1)
 > **UI Navigation:** click on (7), scroll down (2), dropdown (2), select the (1)
 > **CLI Commands:** make (3), find (3)
 > **Cross-References:** go back to (1)
@@ -928,8 +929,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), next (1)
 > **UI Navigation:** click on (7), dropdown (2), select the (1)
-> **Code Keywords:** let (2), this, (1), type, (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (2), such as (1)
 > **Definitions:** is called (1)
@@ -938,7 +939,7 @@ created: 2026-04-29
 
 ### 4. Using Power Query with Power Pivot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scenario 1: Refresh source data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-1-refresh-source-data?u=76281980)
@@ -995,8 +996,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Pivot Tables]] (1), power (1)
 > **UI Navigation:** click on (5), right-click (2)
-> **Code Keywords:** let (3), finally, (1)
 > **Env Vars:** csv (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -1078,8 +1079,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Power Query|Power query]] (2), next (2), power (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (8), dropdown (2), go to (1), scroll down (1)
-> **Code Keywords:** let (9), super (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1), just like (1)
 > **Speakers:** - sometimes (1)
@@ -1153,7 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (3), finally, (2), this, (1)
+> **Frameworks & Libraries:** data (7), power (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (6), go to (1)
 > **CLI Commands:** make (4)
 > **Analogies:** just like (1), for example (1)
@@ -1197,8 +1198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), next (1)
 > **Env Vars:** csv (6)
-> **Code Keywords:** let (3), delete (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1), we discussed (1)
 > **UI Navigation:** click on (2)
@@ -1240,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** data (10), next (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (4), dropdown (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1248,7 +1249,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980)
@@ -1279,8 +1280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (1), power (1), [[Microsoft]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [joshua] (1)
 
 

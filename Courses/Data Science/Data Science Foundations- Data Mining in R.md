@@ -32,7 +32,7 @@ tags:
   - skill/r-programming-language
   - skill/data-science-foundations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Foundations-%20Data%20Mining%20in%20R.md)
@@ -51,68 +51,68 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - R for data mining
-  - Who should watch this course
-  - Exercise files
+  - [R for data mining](#r-for-data-mining)
+  - [Who should watch this course](#who-should-watch-this-course)
+  - [Exercise files](#exercise-files)
 - [**1. Preliminaries**](#1-preliminaries) (4 videos)
-  - Tools for data mining
-  - The CRISP-DM data mining model
-  - Privacy, copyright, and bias
-  - Validating results
+  - [Tools for data mining](#tools-for-data-mining)
+  - [The CRISP-DM data mining model](#the-crisp-dm-data-mining-model)
+  - [Privacy, copyright, and bias](#privacy-copyright-and-bias)
+  - [Validating results](#validating-results)
 - [**2. Dimensionality Reduction**](#2-dimensionality-reduction) (7 videos)
-  - Dimensionality reduction overview
-  - Dataset: Handwritten digits
-  - PCA
-  - LDA
-  - t-SNE
-  - Challenge: PCA
-  - Solution: PCA
+  - [Dimensionality reduction overview](#dimensionality-reduction-overview)
+  - [Dataset: Handwritten digits](#dataset-handwritten-digits)
+  - [PCA](#pca)
+  - [LDA](#lda)
+  - [t-SNE](#t-sne)
+  - [Challenge: PCA](#challenge-pca)
+  - [Solution: PCA](#solution-pca)
 - [**3. Clustering**](#3-clustering) (7 videos)
-  - Clustering overview
-  - Dataset: Penguins
-  - Hierarchical clustering
-  - K-means
-  - DBSCAN
-  - Challenge: K-means
-  - Solution: K-means
+  - [Clustering overview](#clustering-overview)
+  - [Dataset: Penguins](#dataset-penguins)
+  - [Hierarchical clustering](#hierarchical-clustering)
+  - [K-means](#k-means)
+  - [DBSCAN](#dbscan)
+  - [Challenge: K-means](#challenge-k-means)
+  - [Solution: K-means](#solution-k-means)
 - [**4. Classification**](#4-classification) (7 videos)
-  - Classification overview
-  - Dataset: Spambase
-  - K-nn
-  - Naive Bayes
-  - Decision trees
-  - Challenge: K-nn
-  - Solution: K-nn
+  - [Classification overview](#classification-overview)
+  - [Dataset: Spambase](#dataset-spambase)
+  - [K-nn](#k-nn)
+  - [Naive Bayes](#naive-bayes)
+  - [Decision trees](#decision-trees)
+  - [Challenge: K-nn](#challenge-k-nn)
+  - [Solution: K-nn](#solution-k-nn)
 - [**5. Association Analysis**](#5-association-analysis) (7 videos)
-  - Association analysis overview
-  - Dataset: Groceries
-  - Apriori
-  - Eclat
-  - CBA
-  - Challenge: Apriori
-  - Solution: Apriori
+  - [Association analysis overview](#association-analysis-overview)
+  - [Dataset: Groceries](#dataset-groceries)
+  - [Apriori](#apriori)
+  - [Eclat](#eclat)
+  - [CBA](#cba)
+  - [Challenge: Apriori](#challenge-apriori)
+  - [Solution: Apriori](#solution-apriori)
 - [**6. Time-Series Mining**](#6-time-series-mining) (7 videos)
-  - Time-series mining overview
-  - Dataset: AirPassengers
-  - Time-series decomposition
-  - ARIMA
-  - MLP
-  - Challenge: Decomposition
-  - Solution: Decomposition
+  - [Time-series mining overview](#time-series-mining-overview)
+  - [Dataset: AirPassengers](#dataset-airpassengers)
+  - [Time-series decomposition](#time-series-decomposition)
+  - [ARIMA](#arima)
+  - [MLP](#mlp)
+  - [Challenge: Decomposition](#challenge-decomposition)
+  - [Solution: Decomposition](#solution-decomposition)
 - [**7. Text Mining**](#7-text-mining) (7 videos)
-  - Text mining overview
-  - Dataset: The Iliad
-  - Sentiment analysis: Binary classification
-  - Sentiment analysis: Sentiment scoring
-  - Visualizing Word pairs
-  - Challenge: Sentiment scoring
-  - Solution: Sentiment scoring
+  - [Text mining overview](#text-mining-overview)
+  - [Dataset: The Iliad](#dataset-the-iliad)
+  - [Sentiment analysis: Binary classification](#sentiment-analysis-binary-classification)
+  - [Sentiment analysis: Sentiment scoring](#sentiment-analysis-sentiment-scoring)
+  - [Visualizing Word pairs](#visualizing-word-pairs)
+  - [Challenge: Sentiment scoring](#challenge-sentiment-scoring)
+  - [Solution: Sentiment scoring](#solution-sentiment-scoring)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### R for data mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980)
@@ -155,8 +155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Unstructured Data]] (1), [[Programming]] (1), [[RStudio]] (1), [[Data Science Foundations]] (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [barton] (1)
 
 #### Who should watch this course
@@ -178,6 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -204,6 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** exercise files (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -211,7 +213,7 @@ created: 2026-04-29
 
 ### 1. Preliminaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools for data mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980)
@@ -334,6 +336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Python (Programming Language)|Python]] (10), application (6), [[Programming]] (5), [[SQL]] (5)
 > **Env Vars:** sql (5), spss (4), sas (1), jasp (1), roi (1)
 > **CLI Commands:** python (10), make (1)
 > **Definitions:** is a  (1), stands for (1)
@@ -341,7 +344,6 @@ created: 2026-04-29
 > **Tools:** anaconda (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
-> **Best Practices:** make sure to (1)
 
 #### The CRISP-DM data mining model
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980)
@@ -398,6 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[CRISP-DM]] (5), business (3), [[Programming]] (1), next (1)
 > **Env Vars:** crisp (5)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -483,9 +486,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Privacy]] (5), [[Accountability]] (2), web (2), [[Programming]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1), ferpa (1), gigo (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** else, (1), case, (1), this. (1)
 > **Analogies:** for instance (2), picture (1)
 > **Definitions:** stands for (1)
 > **Prerequisites:** you need to have (1)
@@ -618,18 +621,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** known as (2), is called (1)
 > **Analogies:** for example (1), just like (1), for instance (1)
 > **Warnings:** be aware (2)
-> **Code Keywords:** for, (1)
 > **Env Vars:** nasa (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Dimensionality Reduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimensionality reduction overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980)
@@ -718,9 +721,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Big Data]] (1), [[Algorithms]] (1)
 > **Env Vars:** pca (4), sne (3), lda (2)
 > **Definitions:** stands for (2), is an  (2), is a  (1), short for (1)
-> **Code Keywords:** this, (2), super (1), finally, (1), case, (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -872,7 +875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), super (1), case, (1), this. (1)
+> **Frameworks & Libraries:** data (20), [[Zoom]] (1), generic (1), [[Windows]] (1)
 > **Env Vars:** csv (2), trn (2), rds (2), url (1), tra (1)
 > **Definitions:** is a  (5), stands for (1)
 > **Analogies:** for instance (1)
@@ -990,7 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3), this. (1), function (1)
+> **Frameworks & Libraries:** data (10), [[Zoom]] (1), generic (1)
 > **Env Vars:** pca (2), trn (1), tst (1)
 > **Versions:** 2.7 (1), 2.11 (1), 13.5 (1)
 > **UI Navigation:** select the (1)
@@ -1133,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (5), this, (3), class. (2)
+> **Frameworks & Libraries:** data (12), next (2), generic (2), [[Zoom]] (1), [[Probability]] (1)
 > **Env Vars:** lda (8), car (2), trn (2), tst (1), ld1 (1)
 > **Definitions:** is a  (4), stands for (1)
 > **Versions:** 0.13 (1), 0.04 (1), 99.7 (1)
@@ -1222,7 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), for, (1), new, (1), default. (1)
+> **Frameworks & Libraries:** data (3), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sne (7)
 > **Definitions:** is a  (2), short for (1)
 > **UI Navigation:** go to (1)
@@ -1255,6 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1346,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (8), [[Zoom]] (2), bi (1), [[Statistics]] (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** for instance (1)
@@ -1356,7 +1360,7 @@ created: 2026-04-29
 
 ### 3. Clustering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Clustering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980)
@@ -1515,11 +1519,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Big Data]] (1), [[Statistics]] (1), next (1)
 > **Definitions:** is a  (3), is called (2), stands for (1)
 > **Env Vars:** dbscan (4), qa276 (1)
 > **Analogies:** think of it as (2), for example (1), for instance (1), picture (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** super (1), case. (1), else. (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1588,7 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** data (9)
 > **Code Identifiers:** penguins_raw (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1828,7 +1832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), function (3), finally, (2)
+> **Frameworks & Libraries:** data (7), [[Zoom]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
@@ -1922,7 +1926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), function (1), this, (1)
+> **Frameworks & Libraries:** data (5), functional (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** fviz_cluster (1)
@@ -2070,8 +2074,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dbscan (9), eps (4)
-> **Code Keywords:** let (4)
 > **Definitions:** is a  (2), stands for (1), is called (1)
 > **CLI Commands:** find (2)
 > **Versions:** 0.8 (2)
@@ -2119,7 +2123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), this. (1)
+> **Frameworks & Libraries:** data (3), [[Statistics]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2229,7 +2233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), function (1)
+> **Frameworks & Libraries:** data (5), [[k-means clustering]] (3), [[Zoom]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** scatterplotmatrix (2), fvix_cluster (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1)
@@ -2240,7 +2244,7 @@ created: 2026-04-29
 
 ### 4. Classification
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classification overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980)
@@ -2369,10 +2373,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Probability]] (4), [[Decision Trees]] (2), [[Microsoft Word|Word]] (2), [[Supervised Learning]] (1)
 > **Definitions:** is a  (7), is called (2), means that (1), stands for (1)
 > **Analogies:** it's like (2), for example (1), similar to (1), for instance (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** for. (1), match. (1), case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Dataset: Spambase
@@ -2496,7 +2500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), throw (1), delete (1), else. (1)
+> **Frameworks & Libraries:** data (18), [[Microsoft Word|Word]] (2), [[Zoom]] (2)
 > **Env Vars:** url (2), csv (1), a58 (1), rds (1)
 > **File Paths:** spambase.csv (1)
 > **CLI Commands:** make (1)
@@ -2685,7 +2689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (4), this. (3), function (3), else, (1)
+> **Frameworks & Libraries:** data (11), [[Forms]] (1), generic (1), [[Zoom]] (1)
 > **Code Identifiers:** knn (3), repeatedcv (1)
 > **Definitions:** is a  (2), stands for (1), means that (1)
 > **Env Vars:** e1071 (1), tst (1)
@@ -2800,7 +2804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), function (2), let (2), else, (1), this. (1)
+> **Frameworks & Libraries:** data (14), [[Search]] (1), [[Zoom]] (1)
 > **Analogies:** for instance (2), similar to (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (2)
@@ -2957,7 +2961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (1), function (1)
+> **Frameworks & Libraries:** data (6), [[Decision Trees]] (4), [[Microsoft Word|Word]] (1), [[Zoom]] (1), node (1)
 > **CLI Commands:** node (1), make (1), find (1)
 > **Code Identifiers:** fancyrpartplot (1), knn (1)
 > **Versions:** 89.44 (1), 90.29 (1)
@@ -3065,7 +3069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Representational State Transfer (REST)|Rest]] (2), database (1), [[Zoom]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [narrator] (1)
@@ -3146,7 +3150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1)
+> **Frameworks & Libraries:** data (10), generic (1), [[Statistics]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** knn (1)
 > **Versions:** 96.59 (1)
@@ -3157,7 +3161,7 @@ created: 2026-04-29
 
 ### 5. Association Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Association analysis overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980)
@@ -3294,8 +3298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Probability]] (3), [[Algorithms]] (2), application (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4), known as (3), is an  (1), is called (1), stands for (1)
-> **Code Keywords:** this, (4), super (1)
 > **Env Vars:** cba (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
@@ -3338,7 +3342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2)
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -3452,7 +3456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), function (1), this. (1)
+> **Frameworks & Libraries:** data (3), [[Probability]] (3), [[Statistics]] (2), [[Microsoft Word|Word]] (1), generic (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** arulesviz (1)
@@ -3534,7 +3538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** data (7), [[Statistics]] (1), [[Probability]] (1)
 > **Analogies:** similar to (3)
 > **CLI Commands:** make (1)
 
@@ -3675,8 +3679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1), generic (1), [[Statistics]] (1)
 > **Env Vars:** cba (8), mdlp (2)
-> **Code Keywords:** let (4), function (1), case, (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** arulescba (2)
@@ -3718,7 +3722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (5), business (1)
 > **Analogies:** similar to (2)
 > **Env Vars:** epub (1)
 > **Definitions:** is a  (1)
@@ -3772,7 +3776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** epub (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3782,7 +3786,7 @@ created: 2026-04-29
 
 ### 6. Time-Series Mining
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time-series mining overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980)
@@ -3857,9 +3861,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Neural Networks]] (2), [[Artificial Neural Networks]] (1)
 > **Env Vars:** arima (6), mlp (2), arma (1), sarima (1), rnn (1)
 > **Definitions:** is a  (3), means that (2), stands for (2), is called (1)
-> **Code Keywords:** finally, (2), for, (1), function (1)
 > **Analogies:** it's like (1), picture (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -3933,7 +3937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), else. (1), this. (1), function (1)
+> **Frameworks & Libraries:** data (9), generic (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** str (1)
 > **UI Navigation:** go to (1)
@@ -4084,7 +4088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), this, (1), default, (1), default. (1)
+> **Frameworks & Libraries:** data (13), [[Zoom]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** similar to (1), for instance (1), picture (1)
 > **Versions:** 1.1 (1), 1.13 (1)
@@ -4222,8 +4226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), next (2), [[Time Series Analysis]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** arima (13), acf (2)
-> **Code Keywords:** function (4), this, (1), case. (1), let (1), match. (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
@@ -4364,7 +4368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), function (2), case, (1)
+> **Frameworks & Libraries:** data (22), [[Neural Networks]] (5), [[Algorithms]] (2)
 > **Env Vars:** mlp (5), arema (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -4412,8 +4416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[DAX]] (1), generic (1), [[Financial Data]] (1)
 > **Env Vars:** cac (5), smi (1), ftse (1)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -4504,7 +4508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), this. (1), this, (1), default. (1)
+> **Frameworks & Libraries:** data (6), [[Financial Data]] (2), generic (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** cac (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -4515,7 +4519,7 @@ created: 2026-04-29
 
 ### 7. Text Mining
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Text mining overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980)
@@ -4616,8 +4620,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Microsoft Word|Word]] (4), product (2), application (1), [[Algorithms]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** this, (2), for. (1)
 > **Analogies:** for instance (2), it's like (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -4689,7 +4693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), function (1), from. (1)
+> **Frameworks & Libraries:** data (6), [[Text Mining]] (3), [[Statistics]] (1), next (1)
 > **Exercise Files:** download the (2)
 > **File Paths:** iliad.txt (1)
 > **Code Identifiers:** gutenberg_download (1)
@@ -4826,7 +4830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (1), function (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (8), [[Tokens]] (3), [[Text Mining]] (1)
 > **Definitions:** is a  (4), stands for (1), is an  (1), refers to (1)
 > **Code Identifiers:** stop_words (2), inner_join (2), anti_join (1)
 > **CLI Commands:** make (2), find (2)
@@ -5016,7 +5020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), super (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (2), [[Text Mining]] (1)
 > **CLI Commands:** find (1), make (1)
 > **File Paths:** iliad.txt (1)
 > **Cross-References:** in the last (1)
@@ -5164,7 +5168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), function (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft Word|Word]] (12), [[Text Mining]] (2), [[Tokens]] (1), next (1)
 > **Definitions:** is a  (6), refers to (2)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** graph_from_data_frame (1)
@@ -5200,7 +5204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -5291,7 +5295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **Analogies:** similar to (1), it's like (1)
@@ -5302,7 +5306,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980)
@@ -5367,8 +5371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Neural Networks]] (1), [[Programming]] (1)
 > **CLI Commands:** make (2), python (2), find (2)
-> **Code Keywords:** finally, (1), new. (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [barton] (1)
 

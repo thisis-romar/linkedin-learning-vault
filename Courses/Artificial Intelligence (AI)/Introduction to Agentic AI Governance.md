@@ -20,7 +20,7 @@ tags:
   - topic/artificial-intelligence
   - topic/security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Agentic%20AI%20Governance.md)
@@ -39,29 +39,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Time to govern intelligence
+  - [Time to govern intelligence](#time-to-govern-intelligence)
 - [**1. Current State of AI Governance**](#1-current-state-of-ai-governance) (3 videos)
-  - The evolving risks of AI
-  - An overview of the governance landscape
-  - The challenges of governing AI
+  - [The evolving risks of AI](#the-evolving-risks-of-ai)
+  - [An overview of the governance landscape](#an-overview-of-the-governance-landscape)
+  - [The challenges of governing AI](#the-challenges-of-governing-ai)
 - [**2. Increased Agency Demands Increased Governance**](#2-increased-agency-demands-increased-governance) (3 videos)
-  - What is agentic AI?
-  - Understanding the agency of AI
-  - The urgency behind agentic AI governance
+  - [What is agentic AI?](#what-is-agentic-ai)
+  - [Understanding the agency of AI](#understanding-the-agency-of-ai)
+  - [The urgency behind agentic AI governance](#the-urgency-behind-agentic-ai-governance)
 - [**3. Core Principles of Agentic AI Governance**](#3-core-principles-of-agentic-ai-governance) (3 videos)
-  - Transparency
-  - AI safety alignment
-  - Accountability
+  - [Transparency](#transparency)
+  - [AI safety alignment](#ai-safety-alignment)
+  - [Accountability](#accountability)
 - [**4. Agentic AI Governance in Action and Future Direction**](#4-agentic-ai-governance-in-action-and-future-direction) (3 videos)
-  - Best practices for documenting governance in agentic AI
-  - Dimensions of agentic AI governance
-  - The road ahead
+  - [Best practices for documenting governance in agentic AI](#best-practices-for-documenting-governance-in-agentic-ai)
+  - [Dimensions of agentic AI governance](#dimensions-of-agentic-ai-governance)
+  - [The road ahead](#the-road-ahead)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time to govern intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980)
@@ -88,13 +88,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), power (1)
 > **Speakers:** - [vidhi] (1)
 
 
 ### 1. Current State of AI Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The evolving risks of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980)
@@ -167,7 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), let (1), new, (1)
+> **Frameworks & Libraries:** ai (17), data (9), [[Traditional AI]] (2), [[Generative AI]] (2), [[LinkedIn]] (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -232,7 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), public (1), private (1), finally, (1), override (1)
+> **Frameworks & Libraries:** ai (14), [[Traditional AI]] (1), [[Generative AI]] (1), [[Accountability]] (1), [[Google]] (1)
 > **Env Vars:** nist (1), iso (1), iec (1), oecd (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -312,7 +312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), let (1)
+> **Frameworks & Libraries:** ai (15), business (1), [[Accountability]] (1), [[Traditional AI]] (1), next (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Env Vars:** cxo (1)
 > **Definitions:** is an  (1)
@@ -322,7 +322,7 @@ created: 2026-04-29
 
 ### 2. Increased Agency Demands Increased Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is agentic AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980)
@@ -395,7 +395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** data (8), ai (6), [[Programming]] (1), [[Debugging Code]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rtbf (1)
 > **Cross-References:** in the next (1)
@@ -484,7 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), self (2), let (1), public (1), new, (1)
+> **Frameworks & Libraries:** ai (7), next (1), [[Accountability]] (1), [[Microsoft Word|Word]] (1), [[E-Commerce]] (1)
 > **Analogies:** for instance (2), think of it like (1), for example (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -550,14 +550,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (10), web (1), data (1), power (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Core Principles of Agentic AI Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transparency
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980)
@@ -634,7 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** ai (13), data (2), [[Responsible AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the next (1)
@@ -720,9 +720,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Reinforcement Learning]] (1), next (1)
 > **Env Vars:** rlhf (2), ibm (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), self (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -789,7 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (21), [[Accountability]] (5), game (3), product (2), business (1)
 > **Env Vars:** ceo (1), aka (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [presenter] (1)
@@ -797,7 +797,7 @@ created: 2026-04-29
 
 ### 4. Agentic AI Governance in Action and Future Direction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Best practices for documenting governance in agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980)
@@ -850,9 +850,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Accountability]] (5), data (5), teams (1), business (1)
 > **Env Vars:** nsw (1), raci (1), iso (1), iec (1), dare (1)
 > **Definitions:** stands for (3), is a  (2)
-> **Code Keywords:** else. (1), this, (1), let (1), public (1)
 > **CLI Commands:** make (1), aws (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -939,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), require (1)
+> **Frameworks & Libraries:** ai (5), data (3), next (1), [[Building Trust]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** aka (1)
 > **Speakers:** - [instructor] (1)
@@ -1007,7 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), pass (1), let (1)
+> **Frameworks & Libraries:** ai (10), [[Real-Time]] (1), [[Responsible AI]] (1), [[Red Teaming]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1017,7 +1017,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/next-steps?u=76281980)
@@ -1038,8 +1038,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Security]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [narrator] (1)
 
 

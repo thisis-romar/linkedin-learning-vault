@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/kotlin
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Kotlin%20Essential%20Training-%20Object-Oriented%20and%20Async%20Code.md)
@@ -49,37 +49,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Building more with Kotlin
-  - What you should know
-  - Using GitHub
+  - [Building more with Kotlin](#building-more-with-kotlin)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub](#using-github)
 - [**1. Object-Oriented Programming with Kotlin**](#1-object-oriented-programming-with-kotlin) (9 videos)
-  - Classes
-  - Interfaces
-  - Enum classes
-  - Data classes
-  - Object classes
-  - Sealed classes
-  - Companion objects
-  - Challenge: Create a Result type using a sealed class
-  - Solution: Create a Result type using a sealed class
+  - [Classes](#classes)
+  - [Interfaces](#interfaces)
+  - [Enum classes](#enum-classes)
+  - [Data classes](#data-classes)
+  - [Object classes](#object-classes)
+  - [Sealed classes](#sealed-classes)
+  - [Companion objects](#companion-objects)
+  - [Challenge: Create a Result type using a sealed class](#challenge-create-a-result-type-using-a-sealed-class)
+  - [Solution: Create a Result type using a sealed class](#solution-create-a-result-type-using-a-sealed-class)
 - [**2. Writing Idiomatic Kotlin**](#2-writing-idiomatic-kotlin) (5 videos)
-  - Top-level properties and functions
-  - Extension properties and functions
-  - Delegates
-  - Challenge: Refactor a helper class to use top-level functions
-  - Solution: Refactor a helper class to use top-level functions
+  - [Top-level properties and functions](#top-level-properties-and-functions)
+  - [Extension properties and functions](#extension-properties-and-functions)
+  - [Delegates](#delegates)
+  - [Challenge: Refactor a helper class to use top-level functions](#challenge-refactor-a-helper-class-to-use-top-level-functions)
+  - [Solution: Refactor a helper class to use top-level functions](#solution-refactor-a-helper-class-to-use-top-level-functions)
 - [**3. Writing Asynchronous Code with Kotlin Coroutines**](#3-writing-asynchronous-code-with-kotlin-coroutines) (5 videos)
-  - Threads, thread pools, and executors
-  - Understanding coroutines
-  - Working with coroutines
-  - Challenge: Manage multiple async requests
-  - Solution: Manage multiple async requests
+  - [Threads, thread pools, and executors](#threads-thread-pools-and-executors)
+  - [Understanding coroutines](#understanding-coroutines)
+  - [Working with coroutines](#working-with-coroutines)
+  - [Challenge: Manage multiple async requests](#challenge-manage-multiple-async-requests)
+  - [Solution: Manage multiple async requests](#solution-manage-multiple-async-requests)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building more with Kotlin
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (9), [[Programming]] (1), [[Android]] (1), [[LinkedIn]] (1)
 > **Versions:** 1.0 (1)
 > **Speakers:** - [nate] (1)
 
@@ -124,7 +125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Kotlin]] (2), [[Programming]] (1), [[Programming Concepts]] (1), [[GitHub]] (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -190,11 +191,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), [[GitHub]] (2), [[Version Control]] (1), [[Search]] (1)
 > **CLI Commands:** git (4), find (2), make (1)
 > **Tools:** intellij (5), github (2)
 > **Env Vars:** url (3), vcs (1)
 > **UI Navigation:** dropdown (2), select the (1)
-> **Code Keywords:** default, (1), let (1)
 > **Exercise Files:** exercise files (1), download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -202,7 +203,7 @@ created: 2026-04-29
 
 ### 1. Object-Oriented Programming with Kotlin
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/classes?u=76281980)
@@ -521,7 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), class. (13), abstract (9), let (8), class, (8)
+> **Frameworks & Libraries:** [[Kotlin]] (8), hit (3), [[Programming]] (2), data (1)
 > **CLI Commands:** make (9)
 > **Definitions:** is a  (2), known as (1), defined as (1), is called (1)
 > **Analogies:** for example (3), just like (1)
@@ -705,7 +706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (31), let (10), function (6), override (6), case, (4)
+> **Frameworks & Libraries:** [[Kotlin]] (4), hit (3), generic (1), data (1), next (1)
 > **Env Vars:** ide (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
@@ -907,7 +908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (26), let (8), case, (5), pass (4), class, (3)
+> **Frameworks & Libraries:** [[Kotlin]] (7), [[Microsoft Word|Word]] (1), data (1), database (1)
 > **Env Vars:** west (8), north (4), south (3), east (2), blue (2)
 > **Code Identifiers:** valueof (2), apivalue (2), parseddirection (1)
 > **File Paths:** main.kt (3)
@@ -1099,7 +1100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (4), function (4), class, (3), public (3)
+> **Frameworks & Libraries:** data (33), feature (6), [[Kotlin]] (4), [[Search]] (3), [[Analytics]] (3)
 > **File Paths:** task.kt (3), main.kt (3)
 > **Code Identifiers:** task2copy (3), val_name (1)
 > **CLI Commands:** make (2)
@@ -1187,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), case, (5), let (3), override (3), class. (2)
+> **Frameworks & Libraries:** [[Kotlin]] (4), application (3), hit (2), [[Java]] (1)
 > **Code Identifiers:** getnetworkdetails (4), useragent (3)
 > **Env Vars:** url (7)
 > **Analogies:** just like (2), imagine (1), analogous to (1)
@@ -1327,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (8), function (8), let (4), case, (4), finally, (3)
+> **Frameworks & Libraries:** data (6), [[Kotlin]] (4), hit (4), mobile application (1), web application (1)
 > **Analogies:** imagine (3), for example (2)
 > **Env Vars:** ide (3)
 > **CLI Commands:** make (2)
@@ -1401,7 +1402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), function (5), class, (5), class. (4), static (3)
+> **Frameworks & Libraries:** [[Kotlin]] (3), [[Java]] (3), [[Search]] (2)
 > **Env Vars:** max_results (4)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** initialquery (3)
@@ -1440,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), public (2), case. (1), from, (1)
+> **Frameworks & Libraries:** data (1), database (1)
 > **Code Identifiers:** getrandomstring (3), getstring (2)
 > **File Paths:** stringresult.kt (1)
 > **Exercise Files:** starter code (1)
@@ -1539,7 +1540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), case, (4), let (1), class. (1), extends (1)
+> **Frameworks & Libraries:** data (3), next (1), database (1)
 > **Code Identifiers:** getrandomstring (9), getstring (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
@@ -1550,7 +1551,7 @@ created: 2026-04-29
 
 ### 2. Writing Idiomatic Kotlin
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Top-level properties and functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980)
@@ -1671,7 +1672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), private (10), module (6), public (5), let (3)
+> **Frameworks & Libraries:** [[Kotlin]] (9), application (4), [[Gradle]] (1)
 > **File Paths:** main.kt (6), timeutils.kt (2)
 > **Code Identifiers:** hourinmillis (5), millisforhours (3)
 > **CLI Commands:** make (4), find (2)
@@ -1851,7 +1852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (31), type. (6), let (6), case, (5), type, (4)
+> **Frameworks & Libraries:** generic (5), [[Kotlin]] (3), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** iseven (6), millisforhours (4), toregex (3), hourinmillis (2), listof (1)
 > **File Paths:** main.kt (3), timeutils.kt (1)
 > **Definitions:** is a  (1), is called (1), means that (1)
@@ -2069,7 +2070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (14), let (8), lambda (6), this, (5), pass (5)
+> **Frameworks & Libraries:** [[Search]] (14), [[Kotlin]] (10), [[Routing]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** currentquery (9), applogger (4), oldvalue (2), newvalue (2)
 > **Definitions:** is called (3), is an  (2)
 > **Prerequisites:** initialization (4), set up (1)
@@ -2101,7 +2102,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), type. (1)
 > **Code Identifiers:** nonemptylist (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2190,7 +2190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), type. (3), let (2), class. (2), case, (2)
+> **Frameworks & Libraries:** generic (5), hit (1), next (1)
 > **Code Identifiers:** tononemptylist (3), nonemptylist (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -2202,7 +2202,7 @@ created: 2026-04-29
 
 ### 3. Writing Asynchronous Code with Kotlin Coroutines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Threads, thread pools, and executors
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980)
@@ -2359,7 +2359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), interface (5), let (4), pass (4), class. (2)
+> **Frameworks & Libraries:** [[Kotlin]] (5), [[Java]] (4), application (3), [[Software Development]] (2), parallel (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2430,6 +2430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (7), application (2), api (2), [[Rust (Programming Language)|Rust]] (1), [[GitHub]] (1)
 > **Env Vars:** api (2)
 > **URLs:** [dispatchers.io](https://dispatchers.io) (1)
 > **Tools:** github (1)
@@ -2690,7 +2691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), async (10), let (8), this, (4), case, (4)
+> **Frameworks & Libraries:** application (3), [[Kotlin]] (2), [[Gradle]] (2), data (2), [[Programming]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **File Paths:** build.gradle (1), main.kt (1)
@@ -2720,7 +2721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (2), let (1)
+> **Frameworks & Libraries:** database (1), data (1), parallel (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2763,7 +2764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (4), await (4), function (2), let (1), lambda (1)
+> **Frameworks & Libraries:** concurrent (1), parallel (1), database (1), [[Programming]] (1)
 > **Code Identifiers:** loaditemsfromdb (1), loaditemsfromnetwork (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -2773,7 +2774,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980)
@@ -2796,7 +2797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Kotlin]] (9), data (1), [[Programming]] (1), [[GitHub]] (1), next (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

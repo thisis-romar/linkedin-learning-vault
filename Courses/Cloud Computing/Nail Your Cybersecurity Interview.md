@@ -35,7 +35,7 @@ tags:
   - skill/interview-preparation
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Nail%20Your%20Cybersecurity%20Interview.md)
@@ -54,31 +54,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Transforming your cybersecurity career
-  - How to get the most out of this course
+  - [Transforming your cybersecurity career](#transforming-your-cybersecurity-career)
+  - [How to get the most out of this course](#how-to-get-the-most-out-of-this-course)
 - [**1.The Framework**](#1the-framework) (4 videos)
-  - The anatomy of the cybersecurity interview
-  - The three common types of cybersecurity interviews
-  - Your recon mission: Information collection
-  - Prepare your self-promotion strategy
+  - [The anatomy of the cybersecurity interview](#the-anatomy-of-the-cybersecurity-interview)
+  - [The three common types of cybersecurity interviews](#the-three-common-types-of-cybersecurity-interviews)
+  - [Your recon mission: Information collection](#your-recon-mission-information-collection)
+  - [Prepare your self-promotion strategy](#prepare-your-self-promotion-strategy)
 - [**2. Interview Prep**](#2-interview-prep) (3 videos)
-  - What not to do before an interview
-  - Common cybersecurity interview questions you should prepare to answer
-  - Common cybersecurity interview questions you should prepare to ask
+  - [What not to do before an interview](#what-not-to-do-before-an-interview)
+  - [Common cybersecurity interview questions you should prepare to answer](#common-cybersecurity-interview-questions-you-should-prepare-to-answer)
+  - [Common cybersecurity interview questions you should prepare to ask](#common-cybersecurity-interview-questions-you-should-prepare-to-ask)
 - [**3. Interview Stages**](#3-interview-stages) (3 videos)
-  - How to thrive in the telephone interview
-  - How to thrive during the in-person interview
-  - What not to do during the cybersecurity interview
+  - [How to thrive in the telephone interview](#how-to-thrive-in-the-telephone-interview)
+  - [How to thrive during the in-person interview](#how-to-thrive-during-the-in-person-interview)
+  - [What not to do during the cybersecurity interview](#what-not-to-do-during-the-cybersecurity-interview)
 - [**4. Closing Strong**](#4-closing-strong) (2 videos)
-  - Three things to do before leaving the parking lot
-  - Documenting your interview experience
+  - [Three things to do before leaving the parking lot](#three-things-to-do-before-leaving-the-parking-lot)
+  - [Documenting your interview experience](#documenting-your-interview-experience)
 - [**Conclusion**](#conclusion) (2 videos)
-  - What to do while you wait
-  - Next steps
+  - [What to do while you wait](#what-to-do-while-you-wait)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transforming your cybersecurity career
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), career (2), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - do (1)
 
@@ -131,15 +132,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (3), [[Cybersecurity]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Documentation:** reference guide (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1.The Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The anatomy of the cybersecurity interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-anatomy-of-the-cybersecurity-interview?u=76281980)
@@ -158,7 +159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [tu] (1)
 
 #### The three common types of cybersecurity interviews
@@ -216,7 +217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** hr (6), management (3), functional (3), [[Interviewing]] (1), [[Mesh]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -289,8 +290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Interviewing]] (3), data (2), management (2), [[Cybersecurity]] (2)
 > **Definitions:** is a  (2), is an  (2)
-> **Code Keywords:** let (1), continue (1), case, (1)
 > **URLs:** [glassdoor.com](https://glassdoor.com) (2), [indeed.com](https://indeed.com) (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
@@ -377,8 +378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[Security]] (1), strengths (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** for. (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -387,7 +388,7 @@ created: 2026-04-29
 
 ### 2. Interview Prep
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What not to do before an interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980)
@@ -424,7 +425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), function (1), let (1), private (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), business (2), [[Interviewing]] (2), [[Security]] (1)
 > **Best Practices:** recommended (1), best practice (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -522,9 +523,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (2), [[Security]] (2), [[Cybersecurity]] (2), [[Zoom]] (1), game (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** picture (3), for instance (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** tcp (1)
 > **Speakers:** - [instructor] (1)
@@ -610,7 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), for. (1)
+> **Frameworks & Libraries:** management (7), hr (2), [[Security]] (2), next (1)
 > **Analogies:** for instance (2), for example (2), picture (1), such as (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1)
@@ -619,7 +620,7 @@ created: 2026-04-29
 
 ### 3. Interview Stages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to thrive in the telephone interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-in-the-telephone-interview?u=76281980)
@@ -686,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** management (1), game (1), [[Security]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** install (1)
@@ -835,7 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), this. (2), let (1), this, (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Security]] (1), data (1), [[Interviewing]] (1)
 > **CLI Commands:** make (5), snap (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -943,8 +944,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Microsoft Office|Office]] (2), business (1), [[Interviewing]] (1)
 > **CLI Commands:** make (4), find (1), snap (1)
-> **Code Keywords:** super (1), type. (1), raise (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Best Practices:** avoid doing (1)
@@ -954,7 +955,7 @@ created: 2026-04-29
 
 ### 4. Closing Strong
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three things to do before leaving the parking lot
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/three-things-to-do-before-leaving-the-parking-lot?u=76281980)
@@ -993,7 +994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 
@@ -1078,9 +1079,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (19), [[Cybersecurity]] (7), [[Security]] (3), next (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1088,7 +1089,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What to do while you wait
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980)
@@ -1135,8 +1136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Interviewing]] (1), game (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 #### Next steps
@@ -1162,7 +1163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[LinkedIn]] (1)
 > **Speakers:** - [tu] (1)
 
 

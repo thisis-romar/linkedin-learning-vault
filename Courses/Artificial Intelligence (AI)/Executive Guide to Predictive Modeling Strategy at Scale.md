@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/predictive-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Executive%20Guide%20to%20Predictive%20Modeling%20Strategy%20at%20Scale.md)
@@ -52,39 +52,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Scaling machine learning initiatives
-  - Defining terms
+  - [Scaling machine learning initiatives](#scaling-machine-learning-initiatives)
+  - [Defining terms](#defining-terms)
 - [**1. The Phases of a Machine Learning Project**](#1-the-phases-of-a-machine-learning-project) (4 videos)
-  - Data and supervised machine learning
-  - The nine big data bottlenecks
-  - The stages of predictive analytics data
-  - Why you might have too little data
+  - [Data and supervised machine learning](#data-and-supervised-machine-learning)
+  - [The nine big data bottlenecks](#the-nine-big-data-bottlenecks)
+  - [The stages of predictive analytics data](#the-stages-of-predictive-analytics-data)
+  - [Why you might have too little data](#why-you-might-have-too-little-data)
 - [**2. Designing a Machine Learning Dataset**](#2-designing-a-machine-learning-dataset) (6 videos)
-  - How much data do I need?
-  - Balancing
-  - Who truly has big data?
-  - Assessing data
-  - Selecting: Data that should be left out
-  - Seasonality and time alignment
+  - [How much data do I need?](#how-much-data-do-i-need)
+  - [Balancing](#balancing)
+  - [Who truly has big data?](#who-truly-has-big-data)
+  - [Assessing data](#assessing-data)
+  - [Selecting: Data that should be left out](#selecting-data-that-should-be-left-out)
+  - [Seasonality and time alignment](#seasonality-and-time-alignment)
 - [**3. Data Prep Challenges**](#3-data-prep-challenges) (4 videos)
-  - Data and the data scientist
-  - Aggregate and restructure
-  - Dummy coding
-  - Feature engineering
+  - [Data and the data scientist](#data-and-the-data-scientist)
+  - [Aggregate and restructure](#aggregate-and-restructure)
+  - [Dummy coding](#dummy-coding)
+  - [Feature engineering](#feature-engineering)
 - [**4. Chapter Name**](#4-chapter-name) (7 videos)
-  - Understanding the modeling process
-  - Slow algorithms: Brute force
-  - Slow algorithms: More calculations
-  - Slow algorithms: More models
-  - How to sample properly
-  - Modeling with missing data
-  - Looking ahead to deployment and scoring in production
+  - [Understanding the modeling process](#understanding-the-modeling-process)
+  - [Slow algorithms: Brute force](#slow-algorithms-brute-force)
+  - [Slow algorithms: More calculations](#slow-algorithms-more-calculations)
+  - [Slow algorithms: More models](#slow-algorithms-more-models)
+  - [How to sample properly](#how-to-sample-properly)
+  - [Modeling with missing data](#modeling-with-missing-data)
+  - [Looking ahead to deployment and scoring in production](#looking-ahead-to-deployment-and-scoring-in-production)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your predictive modeling journey
+  - [Continuing your predictive modeling journey](#continuing-your-predictive-modeling-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling machine learning initiatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/scaling-machine-learning-initiatives-23239794?u=76281980)
@@ -111,6 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Analytics]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - how (1)
 
@@ -147,6 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -154,7 +156,7 @@ created: 2026-04-29
 
 ### 1. The Phases of a Machine Learning Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data and supervised machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980)
@@ -223,7 +225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), default. (2), let (1)
+> **Frameworks & Libraries:** data (6), [[Logistic Regression]] (1), [[Probability]] (1)
 > **Definitions:** essentially is (1)
 > **Speakers:** - [instructor] (1)
 
@@ -318,8 +320,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Big Data]] (1), business (1), [[Feature Engineering]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** for. (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -389,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), switch (1), this, (1)
+> **Frameworks & Libraries:** data (10)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for instance (1)
@@ -450,14 +452,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[IBM SPSS]] (1), [[CRISP-DM]] (1), [[Big Data]] (1), business (1)
 > **Env Vars:** ibm (1), spss (1), crisp (1)
-> **Code Keywords:** case, (1), finally, (1)
 > **Speakers:** - i (1)
 
 
 ### 2. Designing a Machine Learning Dataset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How much data do I need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-much-data-do-i-need?u=76281980)
@@ -506,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** data (8), next (1)
 > **Best Practices:** rule of thumb (1), don't forget (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -559,9 +561,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Who truly has big data?
@@ -663,7 +665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** data (12), [[Big Data]] (3), [[Algorithms]] (2), [[LinkedIn]] (2), [[Healthcare Analytics]] (2)
 > **Analogies:** imagine (2), for instance (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
@@ -721,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (12), business (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -765,7 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (2), this. (1), else. (1)
+> **Frameworks & Libraries:** data (10), [[Predictive Analytics]] (1)
 > **Tools:** notion (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -847,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1)
+> **Frameworks & Libraries:** data (7)
 > **Analogies:** for instance (1), just like (1), imagine (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
@@ -856,7 +858,7 @@ created: 2026-04-29
 
 ### 3. Data Prep Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data and the data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980)
@@ -909,6 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), management (1), [[Dashboards]] (1), [[Unstructured Data]] (1), prompt (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** tdwi (1)
 > **Speakers:** - for (1)
@@ -948,6 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Statistics]] (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -997,7 +1001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), this. (1), else. (1)
+> **Frameworks & Libraries:** data (3), [[SQL]] (1)
 > **Env Vars:** ftw (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1042,7 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Feature Engineering]] (4), [[Text Mining]] (2), business (1)
 > **Analogies:** for instance (2), think of it as (1), just like (1)
 > **Env Vars:** vin (1)
 > **Definitions:** is a  (1)
@@ -1051,7 +1055,7 @@ created: 2026-04-29
 
 ### 4. Chapter Name
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the modeling process
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980)
@@ -1106,7 +1110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), data (2), [[Logistic Regression]] (1), [[Microsoft Office|Office]] (1), [[Scalability]] (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1142,7 +1146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (4), [[Algorithms]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Slow algorithms: More calculations
@@ -1182,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), [[Algorithms]] (2), [[Artificial Neural Networks]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1237,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Decision Trees]] (1), [[Algorithms]] (1), [[Analytics]] (1)
 > **Analogies:** for instance (1), picture (1)
 > **Env Vars:** sku (1)
 > **Tools:** notion (1)
@@ -1294,8 +1298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1382,9 +1386,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -1434,8 +1438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Logistic Regression]] (1), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -1443,7 +1447,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your predictive modeling journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980)
@@ -1468,6 +1472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), [[Predictive Analytics]] (2), [[LinkedIn]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - so (1)
 
 

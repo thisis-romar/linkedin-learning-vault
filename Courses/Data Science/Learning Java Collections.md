@@ -33,7 +33,7 @@ tags:
   - skill/java-frameworks
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Java%20Collections.md)
@@ -52,66 +52,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Java collections framework
-  - What you should know
+  - [Java collections framework](#java-collections-framework)
+  - [What you should know](#what-you-should-know)
 - [**1. Java Collections Framework**](#1-java-collections-framework) (5 videos)
-  - Solving everyday problems with data
-  - Data structures
-  - Collections framework architecture
-  - Working with a collection
-  - Beyond the array
+  - [Solving everyday problems with data](#solving-everyday-problems-with-data)
+  - [Data structures](#data-structures)
+  - [Collections framework architecture](#collections-framework-architecture)
+  - [Working with a collection](#working-with-a-collection)
+  - [Beyond the array](#beyond-the-array)
 - [**2. The Foundations of Java Collections**](#2-the-foundations-of-java-collections) (10 videos)
-  - Interfaces
-  - Collection types
-  - The Collection interface
-  - Collection methods
-  - Creating a collection
-  - Generic typing
-  - Object comparison
-  - The equals method
-  - Challenge: Adding and removing collection elements
-  - Challenge: Advanced collection problems
+  - [Interfaces](#interfaces)
+  - [Collection types](#collection-types)
+  - [The Collection interface](#the-collection-interface)
+  - [Collection methods](#collection-methods)
+  - [Creating a collection](#creating-a-collection)
+  - [Generic typing](#generic-typing)
+  - [Object comparison](#object-comparison)
+  - [The equals method](#the-equals-method)
+  - [Challenge: Adding and removing collection elements](#challenge-adding-and-removing-collection-elements)
+  - [Challenge: Advanced collection problems](#challenge-advanced-collection-problems)
 - [**3. Iterating Collections**](#3-iterating-collections) (7 videos)
-  - Iterating collection elements
-  - Accessing collection elements with iterators
-  - Modifying collections while iterating
-  - Accessing collection elements with streams
-  - Lambda expressions
-  - Stream operations
-  - Challenge: Iterating collections
+  - [Iterating collection elements](#iterating-collection-elements)
+  - [Accessing collection elements with iterators](#accessing-collection-elements-with-iterators)
+  - [Modifying collections while iterating](#modifying-collections-while-iterating)
+  - [Accessing collection elements with streams](#accessing-collection-elements-with-streams)
+  - [Lambda expressions](#lambda-expressions)
+  - [Stream operations](#stream-operations)
+  - [Challenge: Iterating collections](#challenge-iterating-collections)
 - [**4. Set**](#4-set) (3 videos)
-  - Set
-  - HashSet
-  - TreeSet
+  - [Set](#set)
+  - [HashSet](#hashset)
+  - [TreeSet](#treeset)
 - [**5. List**](#5-list) (4 videos)
-  - List interface
-  - List implementations
-  - ArrayList
-  - Challenge: Working with Lists
+  - [List interface](#list-interface)
+  - [List implementations](#list-implementations)
+  - [ArrayList](#arraylist)
+  - [Challenge: Working with Lists](#challenge-working-with-lists)
 - [**6. Queue and Deque**](#6-queue-and-deque) (4 videos)
-  - Queue interface
-  - Queue implementations
-  - Deque interface
-  - Using an ArrayDeque as a stack
+  - [Queue interface](#queue-interface)
+  - [Queue implementations](#queue-implementations)
+  - [Deque interface](#deque-interface)
+  - [Using an ArrayDeque as a stack](#using-an-arraydeque-as-a-stack)
 - [**7. Map**](#7-map) (7 videos)
-  - Map interface
-  - Collection views
-  - Map implementations
-  - How a HashMap works
-  - Map methods
-  - Iterating Maps
-  - Challenge: Working with Maps
+  - [Map interface](#map-interface)
+  - [Collection views](#collection-views)
+  - [Map implementations](#map-implementations)
+  - [How a HashMap works](#how-a-hashmap-works)
+  - [Map methods](#map-methods)
+  - [Iterating Maps](#iterating-maps)
+  - [Challenge: Working with Maps](#challenge-working-with-maps)
 - [**8. Collections Utilities**](#8-collections-utilities) (4 videos)
-  - Ordering elements
-  - Sorting collections
-  - Comparators
-  - Finding elements in a collection
+  - [Ordering elements](#ordering-elements)
+  - [Sorting collections](#sorting-collections)
+  - [Comparators](#comparators)
+  - [Finding elements in a collection](#finding-elements-in-a-collection)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course wrap-up
+  - [Course wrap-up](#course-wrap-up)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Java collections framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980)
@@ -134,6 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (8), data (2), career (1), [[LinkedIn]] (1)
 > **Speakers:** - [kevin] (1)
 
 #### What you should know
@@ -177,16 +178,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (7), data (3), [[Representational State Transfer (REST)|Rest]] (2), next (1), career (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** jdk (1), ide (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Java Collections Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving everyday problems with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980)
@@ -233,7 +234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (8), application (2), [[Java]] (2), [[Forms]] (1), [[Programming]] (1)
 > **Definitions:** is an  (1), known as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -297,8 +298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Java]] (4), [[Programming]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** known as (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -370,7 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), abstract (1), interface (1), static (1)
+> **Frameworks & Libraries:** [[Java]] (9), data (8), [[Algorithms]] (2), next (1)
 > **CLI Commands:** find (2), apache (1)
 > **Exercise Files:** source code (2)
 > **Versions:** java 1 (1)
@@ -512,7 +513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), switch (2), static (2), class. (1)
+> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** getpotentialrevenue (2), maptodouble (1)
 > **Definitions:** is a  (1)
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), throw (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** you'll need (1)
@@ -599,7 +600,7 @@ created: 2026-04-29
 
 ### 2. The Foundations of Java Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/interfaces?u=76281980)
@@ -746,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (32), let (9), abstract (7), class. (6), implements (5)
+> **Frameworks & Libraries:** application (2), [[Debugging]] (1)
 > **Definitions:** is a  (3), is an  (1), known as (1)
 > **Env Vars:** ide (2)
 > **Exercise Files:** template (2)
@@ -810,7 +811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (12), let (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Forms]] (1), data (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -859,7 +860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), let (1), extends (1), throw (1), type. (1)
+> **Frameworks & Libraries:** generic (6), next (2), [[Java]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** java 11 (1)
 > **Cross-References:** in the next (1)
@@ -948,7 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (3), interface (3), type. (1), type, (1)
+> **Frameworks & Libraries:** generic (2)
 > **Code Identifiers:** removeall (2), addall (1), retainall (1), containsall (1), isempty (1)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **Cross-References:** later in (2)
@@ -1063,7 +1064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), interface (6), type. (4), this. (3), switch (2)
+> **Frameworks & Libraries:** generic (4), [[Java]] (3), [[Linux]] (2), [[Code Review]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -1151,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (1), throw (1)
+> **Frameworks & Libraries:** generic (5), [[Java]] (2)
 > **Env Vars:** ide (1)
 > **Versions:** java 5 (1)
 > **Definitions:** known as (1)
@@ -1205,8 +1206,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), next (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** interface (1), override (1), function (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1331,7 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (2), override (2), pass (2), switch (1)
+> **Frameworks & Libraries:** [[Java]] (3), next (1), hit (1), [[JUnit]] (1)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** right-click (2), go to (2), click on (1), select the (1), scroll down (1)
 > **Env Vars:** ide (2)
@@ -1447,7 +1448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (3), this. (2), require (1), this, (1)
+> **Frameworks & Libraries:** next (3), [[JUnit]] (2), [[Programming]] (1), management (1), [[Java]] (1)
 > **UI Navigation:** right-click (2), go to (2)
 > **Code Identifiers:** aslist (1), removeroom (1)
 > **Prerequisites:** you'll need (1), before you begin (1)
@@ -1621,7 +1622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), lambda (5), interface (2), type. (2), pass (1)
+> **Frameworks & Libraries:** next (2), hit (1), generic (1), [[JUnit]] (1), [[Java]] (1)
 > **Code Identifiers:** asarray (3), removeif (3), hasroom (2), getbytype (2), hashcode (1)
 > **UI Navigation:** select the (1), right-click (1), go to (1)
 > **CLI Commands:** find (2)
@@ -1632,7 +1633,7 @@ created: 2026-04-29
 
 ### 3. Iterating Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Iterating collection elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980)
@@ -1693,7 +1694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), let (4), while, (2), from. (2), lambda (1)
+> **Frameworks & Libraries:** [[Java]] (5), next (3), functional (1), parallel (1), [[Functional Programming]] (1)
 > **Versions:** java 8 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1806,7 +1807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (3), type. (1), switch (1), continue (1)
+> **Frameworks & Libraries:** next (9), generic (1), [[Java]] (1), hit (1), [[Functional Programming]] (1)
 > **Definitions:** is a  (2), is called (2), known as (1)
 > **Env Vars:** ide (2)
 > **Versions:** java 5 (1)
@@ -1907,7 +1908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), for. (1), switch (1), interface (1), pass (1)
+> **Frameworks & Libraries:** concurrent (4), [[Java]] (1), application (1), next (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** removeall (1)
 > **Env Vars:** ide (1)
@@ -2041,7 +2042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (4), continue (2), class. (1), type. (1)
+> **Frameworks & Libraries:** functional (6), next (3), [[Java]] (2), api (1), application (1)
 > **Definitions:** known as (2), is a  (2)
 > **Code Identifiers:** foreach (2), ispetfriendly (1)
 > **Tools:** terminal (2)
@@ -2119,7 +2120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (6), let (6), function (3), interface (3), else, (1)
+> **Frameworks & Libraries:** functional (4), next (2), [[Debugging]] (1)
 > **Code Identifiers:** foreach (1), ispetfriendly (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2213,7 +2214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (4), this. (3), static (1), case, (1)
+> **Frameworks & Libraries:** api (4), next (1)
 > **Code Identifiers:** tolist (1), getname (1), maptodouble (1), getrate (1)
 > **Env Vars:** api (4)
 > **Analogies:** imagine (2)
@@ -2341,7 +2342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), lambda (3), type. (2), class. (1), interface (1)
+> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Search]] (1), [[JUnit]] (1)
 > **Code Identifiers:** foreach (4), getroomsbycapacity (1), requiredcapacity (1), getroombyrateandtype (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (2)
@@ -2353,7 +2354,7 @@ created: 2026-04-29
 
 ### 4. Set
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/set?u=76281980)
@@ -2392,7 +2393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), extends (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Search]] (1), next (1)
 > **Code Identifiers:** copyof (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2501,7 +2502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), interface (6), pass (3), class, (1), switch (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** var (1)
 > **Definitions:** is a  (1)
@@ -2574,7 +2575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), this, (1), interface (1), pass (1)
+> **Frameworks & Libraries:** [[Search]] (1), data (1), [[Java]] (1), generic (1), next (1)
 > **Code Identifiers:** descendingset (2), numbertree (1), foreach (1), headset (1), tailset (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2583,7 +2584,7 @@ created: 2026-04-29
 
 ### 5. List
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### List interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980)
@@ -2664,7 +2665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), implements (1), new, (1), type. (1)
+> **Frameworks & Libraries:** next (3), [[Java]] (2), [[Forms]] (1), node (1)
 > **CLI Commands:** find (1), node (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2740,7 +2741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (4), this, (2), case, (1), pass (1)
+> **Frameworks & Libraries:** feature (1)
 > **API Endpoints:** get  (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** don't forget (1)
@@ -2883,7 +2884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (5), class. (2), default, (1), class, (1)
+> **Frameworks & Libraries:** application (2), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -3031,7 +3032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), this, (2), let (2), class, (1), class. (1)
+> **Frameworks & Libraries:** next (2), [[Programming]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Prerequisites:** you'll need (2), initialization (1)
 > **Warnings:** caveat (1), be aware (1)
@@ -3043,7 +3044,7 @@ created: 2026-04-29
 
 ### 6. Queue and Deque
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Queue interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/queue-interface?u=76281980)
@@ -3112,7 +3113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), throw (2), extends (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (4), next (2), concurrent (1)
 > **Definitions:** known as (2), is a  (1), we call this (1)
 > **Env Vars:** fifo (3)
 > **Cross-References:** we mentioned (1), later in (1)
@@ -3250,7 +3251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (5), throw (5), pass (2), this, (1)
+> **Frameworks & Libraries:** [[Java]] (1), generic (1)
 > **Code Identifiers:** checkinqueue (1), programcomp (1), isloyaltyprogrammember (1)
 > **Env Vars:** ide (1), fifo (1)
 > **Cross-References:** we discussed (1)
@@ -3332,7 +3333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), let (2), extends (1), throw (1), finally, (1)
+> **Frameworks & Libraries:** [[Java]] (4), next (2), [[Microsoft Word|Word]] (1), data (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** in the last (1)
@@ -3429,7 +3430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (1), interface (1)
+> **Frameworks & Libraries:** next (2), [[Java]] (1), generic (1), application (1)
 > **Analogies:** imagine (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** messagestack (1)
@@ -3439,7 +3440,7 @@ created: 2026-04-29
 
 ### 7. Map
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Map interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980)
@@ -3516,7 +3517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), case, (1), pass (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Search]] (2), generic (2), [[Java]] (1), next (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** just like (1)
@@ -3573,8 +3574,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), generic (1), [[Java]] (1)
 > **Code Identifiers:** entryset (2), keyset (1), getkey (1), getvalue (1)
-> **Code Keywords:** interface (2), type. (1)
 > **Definitions:** is a  (2)
 > **Warnings:** caveat (1), be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -3644,7 +3645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), implements (1), interface (1), extends (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[LinkedIn]] (1), next (1)
 > **Code Identifiers:** hashcode (7)
 > **Definitions:** is a  (2), known as (2)
 > **Env Vars:** utf (1), ide (1)
@@ -3704,8 +3705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), [[Search]] (2), next (1)
 > **CLI Commands:** node (8), make (1)
-> **Code Keywords:** let (2), case, (1), match, (1), function (1)
 > **Code Identifiers:** hashcode (4)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -3809,7 +3810,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (7), override (2), switch (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** putifabsent (1)
 > **Analogies:** imagine (1)
@@ -3876,7 +3876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), extends (2), interface (2), type. (1), pass (1)
+> **Frameworks & Libraries:** generic (1)
 > **Code Identifiers:** entryset (7), getvalue (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
@@ -3963,8 +3963,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[JUnit]] (1)
 > **Code Identifiers:** totalrevenue (2), putifabsent (1), keyset (1), maptodouble (1), getrate (1)
-> **Code Keywords:** case, (1), this, (1), pass (1), let (1)
 > **UI Navigation:** right-click (1), go to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3974,7 +3974,7 @@ created: 2026-04-29
 
 ### 8. Collections Utilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ordering elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/ordering-elements?u=76281980)
@@ -4051,7 +4051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), type. (2), let (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Java]] (3), data (3), next (1)
 > **Analogies:** for example (1), picture (1), compare this to (1), similar to (1), think of it like (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -4169,7 +4169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (5), pass (4), type. (3), class. (2)
+> **Frameworks & Libraries:** generic (1), application (1), [[Java]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -4259,7 +4259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class, (4), static (2), case, (2), pass (2)
+> **Frameworks & Libraries:** application (4), generic (2), [[Java]] (1)
 > **Code Identifiers:** thencomparing (2), getrate (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rate_comparator (1)
@@ -4384,7 +4384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (4), class. (2), static (1), class, (1)
+> **Frameworks & Libraries:** [[Search]] (12)
 > **CLI Commands:** find (4)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -4392,7 +4392,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980)
@@ -4435,8 +4435,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), [[LinkedIn]] (2), next (1), concurrent (1), [[Microservices]] (1)
 > **CLI Commands:** make (1), git (1)
-> **Code Keywords:** finally, (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [kevin] (1)

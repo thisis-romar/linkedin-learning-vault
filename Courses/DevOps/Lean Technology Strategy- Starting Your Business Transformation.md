@@ -22,7 +22,7 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Lean%20Technology%20Strategy-%20Starting%20Your%20Business%20Transformation.md)
@@ -41,14 +41,14 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Business Transformation**](#1-business-transformation) (4 videos)
-  - Deploying the improvement kata
-  - Leading transformation
-  - Running and scaling transformation initiatives
-  - Ten principles for business transformation
+  - [Deploying the improvement kata](#deploying-the-improvement-kata)
+  - [Leading transformation](#leading-transformation)
+  - [Running and scaling transformation initiatives](#running-and-scaling-transformation-initiatives)
+  - [Ten principles for business transformation](#ten-principles-for-business-transformation)
 
 ### 1. Business Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying the improvement kata
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), this, (1)
+> **Frameworks & Libraries:** next (5), teams (3), product (3), functional (2), leadership (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -319,8 +319,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (3), business (3), teams (3), [[Agile Development|Agile]] (2), next (2)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** raise (1), finally, (1), this, (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** cxo (1)
 > **Cross-References:** go back to (1)
@@ -451,7 +451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), module (2), pass (1), this. (1)
+> **Frameworks & Libraries:** leadership (6), teams (5), [[Microsoft Products|Products]] (4), next (3), business (3)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** abc (1)
 > **UI Navigation:** go to (1)

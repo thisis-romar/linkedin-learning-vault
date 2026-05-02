@@ -30,7 +30,7 @@ tags:
   - skill/performance-tuning
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Debugging%20and%20Performance%20Tuning.md)
@@ -49,51 +49,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - The power of debugging and performance tuning
-  - What you should know
-  - Using challenges
-  - Configuring your development environment
-  - Demo application tour
+  - [The power of debugging and performance tuning](#the-power-of-debugging-and-performance-tuning)
+  - [What you should know](#what-you-should-know)
+  - [Using challenges](#using-challenges)
+  - [Configuring your development environment](#configuring-your-development-environment)
+  - [Demo application tour](#demo-application-tour)
 - [**1. Build a Troubleshooting Mindset**](#1-build-a-troubleshooting-mindset) (4 videos)
-  - Finding what went wrong
-  - Why measure performance?
-  - Documenting problems
-  - When is a problem resolved?
+  - [Finding what went wrong](#finding-what-went-wrong)
+  - [Why measure performance?](#why-measure-performance)
+  - [Documenting problems](#documenting-problems)
+  - [When is a problem resolved?](#when-is-a-problem-resolved)
 - [**2. Introducing Microservices**](#2-introducing-microservices) (4 videos)
-  - What's a microservice architecture?
-  - Microservice rock, paper, scissors
-  - Introducing PM2 for process management
-  - Managing microservices with PM2
+  - [What's a microservice architecture?](#whats-a-microservice-architecture)
+  - [Microservice rock, paper, scissors](#microservice-rock-paper-scissors)
+  - [Introducing PM2 for process management](#introducing-pm2-for-process-management)
+  - [Managing microservices with PM2](#managing-microservices-with-pm2)
 - [**3. Effective Logging Strategies**](#3-effective-logging-strategies) (10 videos)
-  - Why and what should I log?
-  - Problems with Node.js console
-  - Implementing Express error pages
-  - Choosing a logging library
-  - Adding Winston for Node logging
-  - Request logging with Morgan
-  - Correlating requests in logs
-  - Cross-application request correlation
-  - Challenge: Cross-application request IDs
-  - Solution: Cross-application request IDs
+  - [Why and what should I log?](#why-and-what-should-i-log)
+  - [Problems with Node.js console](#problems-with-nodejs-console)
+  - [Implementing Express error pages](#implementing-express-error-pages)
+  - [Choosing a logging library](#choosing-a-logging-library)
+  - [Adding Winston for Node logging](#adding-winston-for-node-logging)
+  - [Request logging with Morgan](#request-logging-with-morgan)
+  - [Correlating requests in logs](#correlating-requests-in-logs)
+  - [Cross-application request correlation](#cross-application-request-correlation)
+  - [Challenge: Cross-application request IDs](#challenge-cross-application-request-ids)
+  - [Solution: Cross-application request IDs](#solution-cross-application-request-ids)
 - [**4. Debugging Node.js Applications**](#4-debugging-nodejs-applications) (5 videos)
-  - Debugging isn't just logging
-  - Introducing Node's built-in debugger
-  - Command-line debugging with Node inspect
-  - Debugging Node in Chrome DevTools
-  - Debugging Node with Visual Studio Code
+  - [Debugging isn't just logging](#debugging-isnt-just-logging)
+  - [Introducing Node's built-in debugger](#introducing-nodes-built-in-debugger)
+  - [Command-line debugging with Node inspect](#command-line-debugging-with-node-inspect)
+  - [Debugging Node in Chrome DevTools](#debugging-node-in-chrome-devtools)
+  - [Debugging Node with Visual Studio Code](#debugging-node-with-visual-studio-code)
 - [**5. Measuring Performance**](#5-measuring-performance) (4 videos)
-  - Benchmarking performance
-  - Benchmarking with ApacheBench
-  - Benchmarking code with Winston
-  - Profiling code execution
+  - [Benchmarking performance](#benchmarking-performance)
+  - [Benchmarking with ApacheBench](#benchmarking-with-apachebench)
+  - [Benchmarking code with Winston](#benchmarking-code-with-winston)
+  - [Profiling code execution](#profiling-code-execution)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Knowing what to optimize
-  - Caching fundamentals
-  - Next steps
+  - [Knowing what to optimize](#knowing-what-to-optimize)
+  - [Caching fundamentals](#caching-fundamentals)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of debugging and performance tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/the-power-of-debugging-and-performance-tuning?u=76281980)
@@ -130,8 +130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (1), game (1), node (1)
 > **CLI Commands:** node (1), find (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [jon] (1)
 
 #### What you should know
@@ -197,11 +197,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (11), [[Debugging]] (4), [[MySQL]] (4), [[npm]] (3), application (3)
 > **CLI Commands:** node (12), mysql (4), npm (3), docker (3), find (1)
 > **File Paths:** node.js (11), express.js (2), knex.js (1)
 > **Env Vars:** npm (3), es6 (3), es7 (1), sql (1)
 > **Definitions:** is an  (2), is a  (2), known as (1)
-> **Code Keywords:** let (1), async (1), await (1), interface (1)
 > **URLs:** [npmjs.com](https://npmjs.com) (1)
 > **Versions:** node 8 (1)
 > **Analogies:** imagine (1)
@@ -376,9 +376,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (7), application (4), [[npm]] (4), [[Search]] (4), node (3)
 > **Tools:** terminal (14), visual studio (7), vs code (2), powershell (1)
 > **CLI Commands:** node (10), npm (4), make (2), docker (2)
-> **Code Keywords:** let (8), finally, (3), return. (2), switch (1)
 > **Versions:** version 0 (2), 8.11.2 (1), 5.6.0 (1), 1.4.10 (1), 12.3 (1)
 > **UI Navigation:** right-click (3), go to (3), switch to (1), navigate to (1), open the (1)
 > **Prerequisites:** install (6), you'll need (3)
@@ -500,8 +500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (12), application (6), [[Node.js]] (3), web (2), [[Programming]] (1)
 > **CLI Commands:** node (3), make (2), mysql (1), find (1)
-> **Code Keywords:** let (3), finally, (2), new. (2)
 > **File Paths:** node.js (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** html (1), url (1)
@@ -512,7 +512,7 @@ created: 2026-04-29
 
 ### 1. Build a Troubleshooting Mindset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding what went wrong
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980)
@@ -651,7 +651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), require (2), static (1), break. (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Engineering]] (3), [[Node.js]] (2), [[Privacy]] (2), [[HTML]] (1)
 > **CLI Commands:** find (4), node (2)
 > **File Paths:** node.js (2)
 > **Env Vars:** html (1)
@@ -747,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** web (3), product (1), web application (1), [[Windows 10]] (1), [[Windows]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
 > **Env Vars:** http (1)
@@ -823,7 +823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), from. (1)
+> **Frameworks & Libraries:** game (2), data (1), web (1), [[GitHub]] (1), [[Jira]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** github (1), gitlab (1), jira (1)
 > **Analogies:** such as (1), for example (1)
@@ -936,8 +936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Issue Management]] (2), web (1), [[Troubleshooting]] (1), data (1), game (1)
 > **CLI Commands:** find (4), make (3)
-> **Code Keywords:** finally, (2)
 > **Cross-References:** we discussed (1), in the last (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
@@ -947,7 +947,7 @@ created: 2026-04-29
 
 ### 2. Introducing Microservices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's a microservice architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980)
@@ -1028,8 +1028,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Microservices]] (5), node (1), [[Debugging]] (1), [[Performance Tuning]] (1)
 > **CLI Commands:** node (2), find (1), make (1)
-> **Code Keywords:** finally, (3)
 > **Definitions:** is a  (2), known as (1)
 > **File Paths:** node.js (1)
 > **Speakers:** - [instructor] (1)
@@ -1135,11 +1135,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (11), web (8), api (8), application (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (8), post (8), rest (2), json (2), patch (1)
 > **API Endpoints:** post  (7), get  (4), post
  (1), get
  (1), patch  (1)
-> **Code Keywords:** interface (3), let (2), finally, (2), enum (2), static (1)
 > **Ports:** port 5000 (3), port 5005 (2), port 5010 (2)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** lastupdated (2), playerwinnerid (1)
@@ -1221,10 +1221,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (8), [[Debugging]] (3), application (3), [[Microservices]] (2), node (1)
 > **Env Vars:** pm2 (12), cpu (1)
 > **CLI Commands:** node (9), npm (1), find (1)
 > **File Paths:** node.js (8)
-> **Code Keywords:** finally, (2), include, (1), let (1)
 > **Definitions:** is a  (4)
 > **URLs:** [keymetrics.io](https://keymetrics.io) (1), [strong-pm.io](https://strong-pm.io) (1), [github.com](https://github.com) (1)
 > **Cross-References:** in the next (1)
@@ -1393,8 +1393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), web (8), [[Microservices]] (5), express (5), database (4)
 > **Env Vars:** pm2 (8), http (3), npm (2), readme (1), cpu (1)
-> **Code Keywords:** let (5), return. (2), switch (1), finally, (1), public (1)
 > **CLI Commands:** docker (4), npm (4), mysql (2), node (1)
 > **File Paths:** pm2.config.js (3), app.js (1), package.json (1), readme.md (1), node.js (1)
 > **Prerequisites:** install (4), set up (2)
@@ -1405,7 +1405,7 @@ created: 2026-04-29
 
 ### 3. Effective Logging Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why and what should I log?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980)
@@ -1588,7 +1588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (4), new. (1), from. (1), public (1)
+> **Frameworks & Libraries:** application (6), data (5), game (2), web (2), [[Node.js]] (2)
 > **Env Vars:** pii (3), pm2 (2), json (1), mp4 (1), mkv (1)
 > **Analogies:** such as (6), for example (2)
 > **CLI Commands:** make (2), node (2), apache (1), find (1)
@@ -1750,7 +1750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (2), module (1), default, (1), interface (1)
+> **Frameworks & Libraries:** node (7), [[Node.js]] (4), web (3), next (3), game (3)
 > **CLI Commands:** node (11), make (2)
 > **Env Vars:** pm2 (3), url (2), api (1), iso (1)
 > **Tools:** terminal (6), visual studio (1)
@@ -1936,7 +1936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (2), pass (2), return, (2), switch (1)
+> **Frameworks & Libraries:** next (6), game (2), database (2), express (1), node (1)
 > **CLI Commands:** node (2), make (2), find (1)
 > **File Paths:** app.js (2), router.js (1), node.js (1)
 > **Tools:** terminal (3), visual studio (1)
@@ -2082,7 +2082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), finally, (2), super (1), default, (1)
+> **Frameworks & Libraries:** [[Routing]] (5), [[JSON]] (3), data (2), [[Debugging]] (2), application (2)
 > **Env Vars:** json (3), ncsa (1), rfc (1), npm (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** node (2), find (1), apache (1), npm (1)
@@ -2184,7 +2184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), const (3), require (3), module (2), this. (1)
+> **Frameworks & Libraries:** [[npm]] (1), next (1), web (1)
 > **Tools:** terminal (5), visual studio (1)
 > **CLI Commands:** make (4), npm (1)
 > **File Paths:** logger.js (2), index.js (1)
@@ -2340,7 +2340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (5), const (5), module (2), delete (2)
+> **Frameworks & Libraries:** web (2), express (1), [[Debugging]] (1), [[npm]] (1), [[Windows]] (1)
 > **UI Navigation:** open the (3), go to (3), scroll down (1), scroll up (1)
 > **Tools:** terminal (6), vs code (1)
 > **CLI Commands:** apache (1), npm (1), find (1), make (1)
@@ -2456,7 +2456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (4), const (3), function (2), module (1)
+> **Frameworks & Libraries:** express (8), web (4), [[Tokens]] (2), game (1), [[npm]] (1)
 > **Code Identifiers:** requestlogger (4), expressrequestid (4), requestid (3)
 > **Tools:** terminal (5), visual studio (1)
 > **Env Vars:** captcha (2), uuid (1)
@@ -2582,7 +2582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), finally, (2), delete (2), throw (1)
+> **Frameworks & Libraries:** application (6), web (2), express (2), [[Microservices]] (1), next (1)
 > **Code Identifiers:** requestid (6), httpclient (3), playersclient (2)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Tools:** visual studio (1), terminal (1)
@@ -2644,7 +2644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), throw (1), this. (1)
+> **Frameworks & Libraries:** web (5), express (3), application (2), game (1), next (1)
 > **Code Identifiers:** gamesclient (2), playersclient (2), requestlogger (1)
 > **Env Vars:** http (5)
 > **CLI Commands:** make (1)
@@ -2920,7 +2920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), pass (5), require (3), throw (3), override (2)
+> **Frameworks & Libraries:** application (4), web (3), game (3), next (2), [[Fetch]] (2)
 > **Code Identifiers:** requestid (14), gamesclient (6), playersclient (4), requestlogger (2), httpclient (2)
 > **CLI Commands:** make (4), find (1)
 > **File Paths:** app.js (3)
@@ -2932,7 +2932,7 @@ created: 2026-04-29
 
 ### 4. Debugging Node.js Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging isn't just logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-isn-t-just-logging?u=76281980)
@@ -3033,7 +3033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (5), let (3), case. (1)
+> **Frameworks & Libraries:** [[Debugging]] (8), [[Search]] (4), node (3), application (2), [[Node.js]] (2)
 > **Definitions:** is a  (5), known as (2)
 > **CLI Commands:** node (5), find (1)
 > **File Paths:** node.js (2)
@@ -3130,8 +3130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), [[Node.js]] (4), [[Debugging]] (3), next (2), [[CLI]] (1)
 > **CLI Commands:** node (12)
-> **Code Keywords:** function (4), interface (2), break, (2), continue (1), pass (1)
 > **File Paths:** node.js (4)
 > **Env Vars:** pm2 (2), cli (1), sane (1)
 > **Tools:** vs code (1), command line (1)
@@ -3244,7 +3244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), return. (6), switch (2), continue (2), finally, (1)
+> **Frameworks & Libraries:** web (14), node (6), next (2), data (1)
 > **Env Vars:** pm2 (4), repl (2), url (1)
 > **CLI Commands:** node (6)
 > **Tools:** terminal (4), visual studio (1), chrome devtools (1)
@@ -3416,7 +3416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), return. (4), switch (3), function (2), delete (1)
+> **Frameworks & Libraries:** web (12), node (4), next (2), application (1), [[Google]] (1)
 > **Tools:** terminal (5), chrome devtools (2), visual studio (1)
 > **CLI Commands:** node (4), make (1), find (1)
 > **Env Vars:** fish (3), http (2), pm2 (1)
@@ -3598,7 +3598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), finally, (3), switch (2), continue (2), else. (1)
+> **Frameworks & Libraries:** [[Debugging]] (8), web (7), node (6), [[Node.js]] (2), [[JSON]] (1)
 > **Tools:** vs code (8), terminal (4), chrome devtools (2), visual studio (2)
 > **CLI Commands:** node (8), make (2)
 > **File Paths:** node.js (2), app.js (2), launch.json (1), workspacefolder/index.js (1), index.js (1)
@@ -3610,7 +3610,7 @@ created: 2026-04-29
 
 ### 5. Measuring Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benchmarking performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980)
@@ -3733,7 +3733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (3), finally, (2), require (2), function (1)
+> **Frameworks & Libraries:** traffic (1), [[Node.js]] (1), database (1), next (1), node (1)
 > **Env Vars:** http (9)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** apache (3), node (2), find (1)
@@ -3887,7 +3887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), return. (2), continue (1), require (1), switch (1)
+> **Frameworks & Libraries:** [[Windows]] (8), web (4), database (2), [[Node.js]] (1), [[Linux]] (1)
 > **Env Vars:** http (4), xampp (2), url (1)
 > **Tools:** terminal (6), vs code (1)
 > **CLI Commands:** apache (4), node (1)
@@ -3991,7 +3991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), const (2), switch (1)
+> **Frameworks & Libraries:** game (10), application (4), api (3), express (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** starttimer (2), gamesclient (1), getgamebyid (1), getgamesbyid (1)
 > **Tools:** terminal (3), vs code (2)
 > **CLI Commands:** make (3), find (1)
@@ -4169,8 +4169,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (13), web (5), application (2), [[GitHub]] (2), traffic (2)
 > **CLI Commands:** node (15), apache (3), docker (2), make (1), cd (1)
-> **Code Keywords:** let (10), return. (2), switch (1), return, (1), continue (1)
 > **Tools:** terminal (6), visual studio (3), github (2), vs code (1), command line (1)
 > **Definitions:** is a  (5), means that (1), is called (1), refers to (1)
 > **File Paths:** node.js (2), profiler.txt (2), index.js (1)
@@ -4181,7 +4181,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Knowing what to optimize
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980)
@@ -4294,8 +4294,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), [[JSON]] (3), node (3), [[ESLint]] (2), application (2)
 > **CLI Commands:** node (7), make (4), find (1), npm (1)
-> **Code Keywords:** require (4), finally, (2), continue (1), let (1)
 > **File Paths:** node.js (4), package.json (3)
 > **Analogies:** such as (2), for example (2)
 > **Code Identifiers:** foreach (2)
@@ -4378,6 +4378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), game (5), api (3), application (2), front-end (2)
 > **Env Vars:** ttl (3), api (3), html (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is a  (1)
@@ -4443,9 +4444,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (3), [[Debugging]] (2), application (2), [[Microsoft Products|Products]] (1), management (1)
 > **CLI Commands:** node (3), find (1), make (1)
 > **File Paths:** node.js (3)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** apm (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)

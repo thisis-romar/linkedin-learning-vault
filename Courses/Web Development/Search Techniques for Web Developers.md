@@ -33,7 +33,7 @@ tags:
   - skill/web-application-development
   - skill/search
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Search%20Techniques%20for%20Web%20Developers.md)
@@ -52,32 +52,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Finding what you're looking for
+  - [Finding what you're looking for](#finding-what-youre-looking-for)
 - [**1. Reliable Sources**](#1-reliable-sources) (6 videos)
-  - Where to find reliable information
-  - Straight from the source
-  - Platform resources
-  - Status reference sites
-  - Specifications vs. implementations
-  - Community resources
+  - [Where to find reliable information](#where-to-find-reliable-information)
+  - [Straight from the source](#straight-from-the-source)
+  - [Platform resources](#platform-resources)
+  - [Status reference sites](#status-reference-sites)
+  - [Specifications vs. implementations](#specifications-vs-implementations)
+  - [Community resources](#community-resources)
 - [**2. Mastering Search**](#2-mastering-search) (5 videos)
-  - Mastering search
-  - Google Search 101
-  - Filter by publishing date
-  - Search engines outperforming internal site search
-  - Searching GitHub
+  - [Mastering search](#mastering-search)
+  - [Google Search 101](#google-search-101)
+  - [Filter by publishing date](#filter-by-publishing-date)
+  - [Search engines outperforming internal site search](#search-engines-outperforming-internal-site-search)
+  - [Searching GitHub](#searching-github)
 - [**3. Community Search and Participation**](#3-community-search-and-participation) (5 videos)
-  - Humans, software, and community
-  - Finding your people
-  - Ask questions and start conversations
-  - Ask for help, directly
-  - Share your knowledge
+  - [Humans, software, and community](#humans-software-and-community)
+  - [Finding your people](#finding-your-people)
+  - [Ask questions and start conversations](#ask-questions-and-start-conversations)
+  - [Ask for help, directly](#ask-for-help-directly)
+  - [Share your knowledge](#share-your-knowledge)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The end
+  - [The end](#the-end)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding what you're looking for
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980)
@@ -104,8 +104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), web (2), [[Google]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2), else, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Reliable Sources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to find reliable information
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/where-to-find-reliable-information?u=76281980)
@@ -166,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), functional (1), feature (1), [[HTML]] (1), css (1)
 > **Env Vars:** w3c (1), html (1), css (1), tc39 (1)
 > **CLI Commands:** find (3)
 > **Documentation:** w3c (1)
@@ -251,8 +252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[WordPress]] (6), web (3), feature (3), application (2)
 > **CLI Commands:** find (7), make (2)
-> **Code Keywords:** case. (2), new, (2), case, (1), this, (1), for. (1)
 > **Env Vars:** w3c (3), tc39 (2)
 > **Documentation:** w3c (3)
 > **URLs:** [wordpress.org](https://wordpress.org) (1), [gatsby.com](https://gatsby.com) (1)
@@ -297,6 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (11), [[HTML]] (2), css (2), [[JavaScript]] (2)
 > **Env Vars:** mdn (2), html (2), css (2), http (1)
 > **Documentation:** mdn (2), the documentation (1)
 > **CLI Commands:** make (1)
@@ -348,9 +350,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), feature (5), [[Statistics]] (3), data (2), css (2)
 > **URLs:** [caniuse.com](https://caniuse.com) (2), [httparchive.org](httparchive.org) (1)
 > **Env Vars:** css (2), html (1)
-> **Code Keywords:** public (1), switch (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -408,10 +410,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (11), feature (7), [[JavaScript]] (2), [[Search]] (2), [[HTML]] (1)
 > **Documentation:** specification (7), w3c (3), mdn (1)
 > **Env Vars:** w3c (3), html (1), css (1), tc39 (1), svg (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** function (1), else. (1)
 > **Code Identifiers:** fecomposite (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** rule of thumb (1)
@@ -512,10 +514,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), css (3), [[JavaScript]] (3), application (2), [[Forms]] (1)
 > **CLI Commands:** find (8), make (1)
 > **Env Vars:** css (3), mdn (1)
 > **Documentation:** stack overflow (2), specification (1), mdn (1)
-> **Code Keywords:** case. (1), finally, (1)
 > **File Paths:** moment.js (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Tools:** discord (1)
@@ -524,7 +526,7 @@ created: 2026-04-29
 
 ### 2. Mastering Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering search
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/mastering-search?u=76281980)
@@ -555,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), for, (1)
+> **Frameworks & Libraries:** [[Search]] (12), power (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** previous chapter (1)
 > **Prerequisites:** you'll need (1)
@@ -674,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (4), let (3), case, (2), for, (2), match, (1)
+> **Frameworks & Libraries:** [[Search]] (22), [[Google]] (6), [[JavaScript]] (4), [[React.js|React]] (4), hit (3)
 > **Env Vars:** mdn (6), url (3), css (1)
 > **Documentation:** mdn (6)
 > **Analogies:** for example (4), similar to (2)
@@ -761,8 +763,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (13), web (5), [[React.js|React]] (3), feature (1), [[JavaScript]] (1)
 > **CLI Commands:** find (9), make (2)
-> **Code Keywords:** let (2), for, (1), this. (1)
 > **Documentation:** stack overflow (4)
 > **UI Navigation:** go to (2), scroll down (2)
 > **Analogies:** for example (2), for instance (1)
@@ -834,7 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (4), for, (3), let (2), extends (2), class. (1)
+> **Frameworks & Libraries:** [[Search]] (26), [[Google]] (11), [[JavaScript]] (10), database (1), api (1)
 > **Env Vars:** mdn (10), api (1), html (1), mdm (1)
 > **Documentation:** mdn (10)
 > **CLI Commands:** find (3), make (1)
@@ -924,9 +926,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (32), [[GitHub]] (18), feature (6), [[npm]] (5), [[Google]] (3)
 > **Tools:** github (18)
 > **CLI Commands:** find (6), npm (5), node (2)
-> **Code Keywords:** this, (2), for. (1), public (1), for, (1), return, (1)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Exercise Files:** github repo (2), source code (1)
@@ -936,7 +938,7 @@ created: 2026-04-29
 
 ### 3. Community Search and Participation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Humans, software, and community
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/humans-software-and-community?u=76281980)
@@ -973,8 +975,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), application (1), web (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1031,6 +1033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Search]] (1), [[React.js|React]] (1), [[Vue.js|Vue]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (4)
 > **Documentation:** the documentation (3)
 > **Analogies:** for example (2), picture (1)
@@ -1103,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), let (1), case, (1), for. (1)
+> **Frameworks & Libraries:** career (1), feature (1), [[Search]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** similar to (1)
@@ -1168,9 +1171,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (8), [[WordPress]] (1), feature (1), power (1)
 > **Tools:** github (8)
 > **CLI Commands:** find (2)
-> **Code Keywords:** public (1), case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1247,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (2), this. (2), public (1), new. (1), let (1)
+> **Frameworks & Libraries:** web (6), [[Google]] (1), [[Search]] (1), application (1), [[Live Streaming]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** go to (1)
@@ -1256,7 +1259,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The end
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/the-end?u=76281980)
@@ -1289,8 +1292,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), next (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** finally, (1), for, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 

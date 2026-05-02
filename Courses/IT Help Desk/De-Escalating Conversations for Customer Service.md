@@ -32,7 +32,7 @@ tags:
   - skill/customer-escalation-management
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/De-Escalating%20Conversations%20for%20Customer%20Service.md)
@@ -51,33 +51,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why you've been unsuccessful with angry customers
+  - [Why you've been unsuccessful with angry customers](#why-youve-been-unsuccessful-with-angry-customers)
 - [**1. Pre-empt an Escalation**](#1-pre-empt-an-escalation) (5 videos)
-  - Three reasons situations escalate and how to stop the cycle
-  - Positive positioning with customers
-  - The principle of don't push
-  - Manage expectations with customers
-  - Be regretful, but direct with customers
+  - [Three reasons situations escalate and how to stop the cycle](#three-reasons-situations-escalate-and-how-to-stop-the-cycle)
+  - [Positive positioning with customers](#positive-positioning-with-customers)
+  - [The principle of don't push](#the-principle-of-dont-push)
+  - [Manage expectations with customers](#manage-expectations-with-customers)
+  - [Be regretful, but direct with customers](#be-regretful-but-direct-with-customers)
 - [**2. Three-Step De-escalation**](#2-three-step-de-escalation) (3 videos)
-  - Recognize the customer's emotions
-  - Reframe the conversation
-  - Resolve the customer's issue
+  - [Recognize the customer's emotions](#recognize-the-customers-emotions)
+  - [Reframe the conversation](#reframe-the-conversation)
+  - [Resolve the customer's issue](#resolve-the-customers-issue)
 - [**3. Double Your Effectiveness De-escalation**](#3-double-your-effectiveness-de-escalation) (4 videos)
-  - Listen with the intent to understand
-  - Use partnering language with customers
-  - Dealing with your own frustration
-  - Dealing with demanding customers
+  - [Listen with the intent to understand](#listen-with-the-intent-to-understand)
+  - [Use partnering language with customers](#use-partnering-language-with-customers)
+  - [Dealing with your own frustration](#dealing-with-your-own-frustration)
+  - [Dealing with demanding customers](#dealing-with-demanding-customers)
 - [**4. Common Customer Issues**](#4-common-customer-issues) (4 videos)
-  - When a customer asks for a manager
-  - When a customer disagrees with your policy
-  - Yelling or cursing customer
-  - Customer's request is not possible
+  - [When a customer asks for a manager](#when-a-customer-asks-for-a-manager)
+  - [When a customer disagrees with your policy](#when-a-customer-disagrees-with-your-policy)
+  - [Yelling or cursing customer](#yelling-or-cursing-customer)
+  - [Customer's request is not possible](#customers-request-is-not-possible)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Start, stop, continue exercise
+  - [Start, stop, continue exercise](#start-stop-continue-exercise)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why you've been unsuccessful with angry customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/why-you-ve-been-unsuccessful-with-angry-customers-14475727?u=76281980)
@@ -116,15 +116,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** this. (2)
 > **Analogies:** just like (2)
 > **Speakers:** - i (1)
 
 
 ### 1. Pre-empt an Escalation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three reasons situations escalate and how to stop the cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980)
@@ -229,8 +229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[Microsoft Word|Word]] (2), business (1)
 > **Speakers:** - i (3), - the (2), - fine (2), - if (1), - you (1)
-> **Code Keywords:** let (3), this. (1)
 > **Definitions:** is a  (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -309,7 +309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), business (2), data (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - we (1)
 
@@ -394,9 +394,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Speakers:** - i (4), - hi (2), - in (1), - sir (1), - can (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is a  (1)
 
 #### Manage expectations with customers
@@ -470,8 +470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** protected (1), let (1)
 > **Analogies:** picture (1), for example (1)
 > **Warnings:** be careful (1), be aware (1)
 > **Speakers:** - recently (1)
@@ -541,15 +541,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (2), this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
 
 ### 2. Three-Step De-escalation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognize the customer's emotions
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/recognize-the-customer-s-emotions-14470751?u=76281980)
@@ -612,7 +612,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -690,7 +689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (5), business (1)
 > **Ports:** :42 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
@@ -730,13 +729,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[De-escalation]] (1), [[Microsoft Word|Word]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
 
 ### 3. Double Your Effectiveness De-escalation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Listen with the intent to understand
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/listen-with-the-intent-to-understand-14471747?u=76281980)
@@ -831,9 +831,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **Speakers:** - i (3), - the (2), - awesome (2), - there (1), - hi (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Ports:** :06 (2)
 > **Env Vars:** ty3729 (2)
 
@@ -902,7 +902,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - when (1)
 
@@ -978,7 +977,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** from. (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - a (1)
 
@@ -1065,7 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Best Practices:** remember to (1)
 > **Warnings:** caution (1)
 > **Speakers:** - three (1)
@@ -1073,7 +1071,7 @@ created: 2026-04-29
 
 ### 4. Common Customer Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When a customer asks for a manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-asks-for-a-manager-14471748?u=76281980)
@@ -1152,8 +1150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2)
 > **Speakers:** - hi (2), - customers (1), - i (1), - you (1), - absolutely (1)
-> **Code Keywords:** let (6)
 > **Env Vars:** usa (4)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
@@ -1238,8 +1236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Word|Word]] (2)
 > **Speakers:** - hi (4), - we (3), - my (2), - when (1), - oh (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** fda (3)
 > **Definitions:** is an  (1)
 
@@ -1312,7 +1310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (2), throw (1), this, (1), assert (1)
+> **Frameworks & Libraries:** power (2), [[React.js|React]] (1)
 > **Speakers:** - some (1)
 
 #### Customer's request is not possible
@@ -1384,15 +1382,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), express (1)
 > **Env Vars:** act (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - your (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start, stop, continue exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/start-stop-continue-exercise-14472676?u=76281980)
@@ -1429,7 +1427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), finally, (1)
+> **Frameworks & Libraries:** feature (1), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)

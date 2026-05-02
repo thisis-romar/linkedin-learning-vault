@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP-%20Creating%20Secure%20Websites.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The need for security with PHP
+  - [The need for security with PHP](#the-need-for-security-with-php)
 - [**1. Security Overview**](#1-security-overview) (3 videos)
-  - What is security?
-  - Security and PHP
-  - General security principles
+  - [What is security?](#what-is-security)
+  - [Security and PHP](#security-and-php)
+  - [General security principles](#general-security-principles)
 - [**2. Securing Your PHP Installation**](#2-securing-your-php-installation) (5 videos)
-  - Keeping versions up to date
-  - phpinfo and phpMyAdmin
-  - Configure error reporting and logging
-  - Other configuration options
-  - PHP on a shared host
+  - [Keeping versions up to date](#keeping-versions-up-to-date)
+  - [phpinfo and phpMyAdmin](#phpinfo-and-phpmyadmin)
+  - [Configure error reporting and logging](#configure-error-reporting-and-logging)
+  - [Other configuration options](#other-configuration-options)
+  - [PHP on a shared host](#php-on-a-shared-host)
 - [**3. Filtering Input and Controlling Output**](#3-filtering-input-and-controlling-output) (5 videos)
-  - Validating input
-  - Sanitizing data
-  - Keeping code private
-  - Smart logging
-  - Cookie configuration
+  - [Validating input](#validating-input)
+  - [Sanitizing data](#sanitizing-data)
+  - [Keeping code private](#keeping-code-private)
+  - [Smart logging](#smart-logging)
+  - [Cookie configuration](#cookie-configuration)
 - [**4. Defending the Most Common Attacks**](#4-defending-the-most-common-attacks) (6 videos)
-  - Cross-site scripting (XSS)
-  - Cross-site request forgery (CSRF)
-  - SQL injection
-  - Session hijacking and fixation
-  - Remote system execution
-  - PHP code injection
+  - [Cross-site scripting (XSS)](#cross-site-scripting-xss)
+  - [Cross-site request forgery (CSRF)](#cross-site-request-forgery-csrf)
+  - [SQL injection](#sql-injection)
+  - [Session hijacking and fixation](#session-hijacking-and-fixation)
+  - [Remote system execution](#remote-system-execution)
+  - [PHP code injection](#php-code-injection)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for security with PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/the-need-for-security-with-php?u=76281980)
@@ -107,15 +107,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (9), [[Security]] (4), web application (1), web (1)
 > **CLI Commands:** php (9)
 > **Env Vars:** php (9)
-> **Code Keywords:** let (1)
 > **Speakers:** - [kevin] (1)
 
 
 ### 1. Security Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is security?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980)
@@ -218,7 +218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1), new. (1), from. (1), private (1)
+> **Frameworks & Libraries:** [[Security]] (28), [[PHP]] (5), web (5), [[Web Development]] (1), data (1)
 > **CLI Commands:** php (5)
 > **Env Vars:** php (5)
 > **Definitions:** is a  (2)
@@ -289,10 +289,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (13), [[Security]] (7), web (2), data (2), [[Databases]] (1)
 > **CLI Commands:** php (13), make (3)
 > **Env Vars:** php (13), html (1), css (1), ini (1)
 > **Definitions:** is a  (4), is an  (1), means that (1)
-> **Code Keywords:** public (2)
 > **File Paths:** php.ini (1)
 > **Speakers:** - [instructor] (1)
 
@@ -399,16 +399,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), data (4), application (4), web (3), database (3)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), public (1), default. (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Securing Your PHP Installation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping versions up to date
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980)
@@ -471,6 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[PHP]] (5), web (1), database (1), [[WordPress]] (1)
 > **CLI Commands:** php (5), make (3), find (3)
 > **Env Vars:** php (4)
 > **URLs:** [php.net](https://php.net) (1)
@@ -533,9 +534,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), [[MySQL]] (3), database (3), application (2), web (2)
 > **CLI Commands:** php (4), mysql (3), find (1), apache (1), make (1)
 > **Code Identifiers:** phpmyadmin (6)
-> **Code Keywords:** public (3), function (1), require (1)
 > **Env Vars:** php (4), http (1)
 > **Prerequisites:** set up (2), setup (2), configure (1)
 > **Definitions:** is a  (2)
@@ -671,10 +672,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (17), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **CLI Commands:** php (17), find (4), make (1)
 > **Env Vars:** php (15), e_all (1)
 > **Code Identifiers:** display_errors (3), log_errors (3), error_log (1), error_reporting (1)
-> **Code Keywords:** public (2), from. (1), case, (1), function (1)
 > **Warnings:** warning (4)
 > **Prerequisites:** configure (4)
 > **Analogies:** for example (1), imagine (1)
@@ -797,8 +798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (18), web (4), [[Security]] (3), hit (1), [[HTML]] (1)
 > **CLI Commands:** php (18), curl (4), apache (2), make (1)
-> **Code Keywords:** let (3), return, (1), case. (1), require (1), else. (1)
 > **File Paths:** php.ini (2), ini.php (1)
 > **Code Identifiers:** expose_php (1), allow_url_fopen (1), allow_url_include (1)
 > **Env Vars:** url (1), html (1), dir (1)
@@ -845,10 +846,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (11), web (2), [[Hardware]] (1), [[Linux]] (1)
 > **CLI Commands:** php (11), make (1)
 > **Env Vars:** php (8), isp (1)
 > **Prerequisites:** configure (7)
-> **Code Keywords:** private (3), case, (1), function (1), this, (1)
 > **Code Identifiers:** ini_set (4)
 > **File Paths:** php.ini (3)
 > **Definitions:** means that (1)
@@ -857,7 +858,7 @@ created: 2026-04-29
 
 ### 3. Filtering Input and Controlling Output
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Validating input
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980)
@@ -1118,7 +1119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (8), type. (1), this. (1), from. (1)
+> **Frameworks & Libraries:** data (16), [[PHP]] (13), database (5), next (4), [[Security]] (1)
 > **CLI Commands:** php (13), make (5), mysql (1), find (1)
 > **Env Vars:** php (11), url (6), pdo (1)
 > **Definitions:** is a  (9), is an  (1)
@@ -1384,8 +1385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (20), data (16), database (15), [[PHP]] (13), [[JavaScript]] (10)
 > **Env Vars:** html (20), php (11), url (10), sql (7), json (2)
-> **Code Keywords:** let (20), function (10), var (2), pass (1), type. (1)
 > **CLI Commands:** php (13), cat (1), mysql (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** for example (1), think of it as (1), imagine (1), just like (1)
@@ -1538,7 +1539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (18), private (14), let (3), require (1), if, (1)
+> **Frameworks & Libraries:** [[PHP]] (15), web (10), database (6), application (4), [[HTML]] (2)
 > **CLI Commands:** php (15), git (1), make (1), apache (1), nginx (1)
 > **File Paths:** index.php (9), initialize.php (2), passwords.php (2), functions.php (1)
 > **Env Vars:** html (2), php (1), git (1), svn (1), nginx (1)
@@ -1622,9 +1623,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (6), application (5), database (2), [[Debugging]] (1), hit (1)
 > **CLI Commands:** php (6), make (2), find (1)
 > **Env Vars:** php (4), unix (1)
-> **Code Keywords:** function (2), let (1), return, (1)
 > **Tools:** firefox (2), github (1)
 > **File Paths:** logger.php (2)
 > **UI Navigation:** go to (1)
@@ -1706,7 +1707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), default. (1), this, (1), protected (1), let (1)
+> **Frameworks & Libraries:** data (4), [[JavaScript]] (3), [[PHP]] (3), web (2), [[Scripting]] (1)
 > **Env Vars:** https (4), php (2), http (2)
 > **CLI Commands:** php (3), make (2)
 > **Definitions:** short for (2), is a  (2)
@@ -1718,7 +1719,7 @@ created: 2026-04-29
 
 ### 4. Defending the Most Common Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cross-site scripting (XSS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980)
@@ -1791,8 +1792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (9), data (7), [[Scripting]] (5), [[HTML]] (4), [[JSON]] (2)
 > **Env Vars:** html (4), url (2), json (2), xss (1), xml (1)
-> **Code Keywords:** function (5), pass (1), let (1)
 > **CLI Commands:** php (1), ruby (1), make (1)
 > **File Paths:** xss_sanitize_functions.php (1)
 > **Code Identifiers:** xss_sanitize_functions (1)
@@ -1955,8 +1956,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (4), web (3), data (3), [[Forms]] (2)
 > **Env Vars:** csrf (19), html (4), php (3), url (2)
-> **Code Keywords:** function (8), let (5), case, (1), match, (1), delete (1)
 > **CLI Commands:** make (5), php (4)
 > **Definitions:** is a  (6), known as (1)
 > **File Paths:** csrfdemo.php (1)
@@ -2061,8 +2062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (14), data (11), database (10), [[PHP]] (8), application (1)
 > **Env Vars:** sql (14), php (5), pdo (1)
-> **Code Keywords:** let (3), function (3), delete (1), match. (1), type. (1)
 > **CLI Commands:** php (8)
 > **Code Identifiers:** sqli_escape_function (1), sql_prep (1), mysqli_real_escape_string (1), sqli_prepared_statement (1)
 > **File Paths:** sqli_escape_function.php (1), sqli_prepared_statement.php (1)
@@ -2199,10 +2200,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), [[JavaScript]] (4), [[Scripting]] (2), feature (1), web (1)
 > **Code Identifiers:** user_agent (3), is_session_valid (2), cookie_lifetime (1), use_cookies (1), cookie_httponly (1)
 > **Env Vars:** php (3), post (2), https (2), url (1), http (1)
 > **CLI Commands:** php (5), make (2), find (1)
-> **Code Keywords:** function (2), require (1), let (1), pass (1), protected (1)
 > **API Endpoints:** get  (2), post  (2)
 > **File Paths:** php.ini (1), session_hijacking_functions.php (1)
 > **Analogies:** such as (1), for example (1)
@@ -2321,7 +2322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), function (1), pass (1), this, (1)
+> **Frameworks & Libraries:** [[PHP]] (10), data (6), [[Security]] (2), web (1), power (1)
 > **CLI Commands:** php (10), make (2)
 > **Env Vars:** php (9)
 > **Definitions:** is a  (3), is an  (1)
@@ -2405,9 +2406,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (19), data (3), web (2), database (1), [[HTML]] (1)
 > **CLI Commands:** php (19), make (2), find (1)
 > **Env Vars:** php (19), html (1), ftp (1)
-> **Code Keywords:** require (5), let (4), function (3), pass (1), super (1)
 > **Analogies:** for example (2), similar to (1), imagine (1)
 > **Exercise Files:** template (3)
 > **Cross-References:** in the last (1)
@@ -2416,7 +2417,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/next-steps?u=76281980)
@@ -2441,10 +2442,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[PHP]] (2)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** raise (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 

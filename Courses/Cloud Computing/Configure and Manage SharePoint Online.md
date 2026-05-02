@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/sharepoint
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Configure%20and%20Manage%20SharePoint%20Online.md)
@@ -48,57 +48,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to SharePoint Online
-  - What you should know
+  - [Welcome to SharePoint Online](#welcome-to-sharepoint-online)
+  - [What you should know](#what-you-should-know)
 - [**1. Creating a Trial Account**](#1-creating-a-trial-account) (3 videos)
-  - Create a free M365 E5 trial account
-  - Microsoft final setup procedures
-  - Deleting M365 trial account
+  - [Create a free M365 E5 trial account](#create-a-free-m365-e5-trial-account)
+  - [Microsoft final setup procedures](#microsoft-final-setup-procedures)
+  - [Deleting M365 trial account](#deleting-m365-trial-account)
 - [**2. SharePoint Online Overview**](#2-sharepoint-online-overview) (4 videos)
-  - SharePoint Online overview
-  - SharePoint Online administrators
-  - SharePoint Online admin center
-  - SharePoint Online management shell
+  - [SharePoint Online overview](#sharepoint-online-overview)
+  - [SharePoint Online administrators](#sharepoint-online-administrators)
+  - [SharePoint Online admin center](#sharepoint-online-admin-center)
+  - [SharePoint Online management shell](#sharepoint-online-management-shell)
 - [**3. Configure Site Collections**](#3-configure-site-collections) (3 videos)
-  - Creating site collections
-  - Delete site collections
-  - Restore site collections
+  - [Creating site collections](#creating-site-collections)
+  - [Delete site collections](#delete-site-collections)
+  - [Restore site collections](#restore-site-collections)
 - [**4. Manage Site Collections**](#4-manage-site-collections) (3 videos)
-  - Manage site collection admins
-  - Manage SharePoint hub sites
-  - Manage site collection storage limits
+  - [Manage site collection admins](#manage-site-collection-admins)
+  - [Manage SharePoint hub sites](#manage-sharepoint-hub-sites)
+  - [Manage site collection storage limits](#manage-site-collection-storage-limits)
 - [**5. Manage User Profiles**](#5-manage-user-profiles) (4 videos)
-  - Add a property for user profiles
-  - Manage a property for user profiles
-  - Add an audience
-  - Manage an audience
+  - [Add a property for user profiles](#add-a-property-for-user-profiles)
+  - [Manage a property for user profiles](#manage-a-property-for-user-profiles)
+  - [Add an audience](#add-an-audience)
+  - [Manage an audience](#manage-an-audience)
 - [**6. Configure Customization and Apps**](#6-configure-customization-and-apps) (6 videos)
-  - Adding an app from the SharePoint Store
-  - Adding a custom app
-  - Configure the SharePoint store settings
-  - View app requests
-  - Add an app to a site
-  - Delegating app approval authority
+  - [Adding an app from the SharePoint Store](#adding-an-app-from-the-sharepoint-store)
+  - [Adding a custom app](#adding-a-custom-app)
+  - [Configure the SharePoint store settings](#configure-the-sharepoint-store-settings)
+  - [View app requests](#view-app-requests)
+  - [Add an app to a site](#add-an-app-to-a-site)
+  - [Delegating app approval authority](#delegating-app-approval-authority)
 - [**7. Configure Managed Metadata**](#7-configure-managed-metadata) (2 videos)
-  - Manage term sets
-  - Import term sets
+  - [Manage term sets](#manage-term-sets)
+  - [Import term sets](#import-term-sets)
 - [**8. Managing Search**](#8-managing-search) (4 videos)
-  - Manage the search schema
-  - Manage result sources
-  - Manage query suggestions
-  - View search usage reports
+  - [Manage the search schema](#manage-the-search-schema)
+  - [Manage result sources](#manage-result-sources)
+  - [Manage query suggestions](#manage-query-suggestions)
+  - [View search usage reports](#view-search-usage-reports)
 - [**9. Managing SharePoint Policies**](#9-managing-sharepoint-policies) (2 videos)
-  - Manage sharing in SharePoint
-  - Manage access control in SharePoint
+  - [Manage sharing in SharePoint](#manage-sharing-in-sharepoint)
+  - [Manage access control in SharePoint](#manage-access-control-in-sharepoint)
 - [**10. Monitor SharePoint Online**](#10-monitor-sharepoint-online) (2 videos)
-  - SharePoint activity reports
-  - SharePoint usage reports
+  - [SharePoint activity reports](#sharepoint-activity-reports)
+  - [SharePoint usage reports](#sharepoint-usage-reports)
 - [**11. Conclusion**](#11-conclusion) (1 videos)
-  - Continuing learning SharePoint
+  - [Continuing learning SharePoint](#continuing-learning-sharepoint)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to SharePoint Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/welcome-to-sharepoint-online?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (3), [[Microsoft]] (2), cloud (1), [[Search]] (1), [[Windows Server]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -139,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[SharePoint]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
@@ -146,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Creating a Trial Account
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a free M365 E5 trial account
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980)
@@ -329,8 +331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), product (4), next (4)
 > **UI Navigation:** click on (8), checkbox (1)
-> **Code Keywords:** for, (1), let (1), this, (1), match, (1), this. (1)
 > **Prerequisites:** set up (3), configure (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [outlook.com](https://outlook.com) (1)
 > **Analogies:** kind of like (1), it's like (1)
@@ -452,8 +454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), dns (2), [[Microsoft]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (5), go to (2), checkbox (1)
-> **Code Keywords:** continue (3), this, (2), let (1)
 > **Prerequisites:** install (2), configure (2), setup (1), set up (1)
 > **Env Vars:** dns (2), csv (1), dkim (1)
 > **URLs:** [onmicrosoft.com](https://onmicrosoft.com) (3)
@@ -566,7 +568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), delete (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), product (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (4)
 > **Speakers:** - [narrator] (1)
@@ -574,7 +576,7 @@ created: 2026-04-29
 
 ### 2. SharePoint Online Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SharePoint Online overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980)
@@ -683,10 +685,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (16), [[Microsoft 365]] (8), [[Microsoft Office|Office]] (8), business (7), cloud (4)
 > **UI Navigation:** click on (2), scroll down (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** include, (1), this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### SharePoint Online administrators
@@ -802,8 +804,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (21), [[Microsoft 365]] (6), next (3), [[Microsoft]] (2), prompt (1)
 > **UI Navigation:** click on (7), go to (1)
-> **Code Keywords:** let (3), else. (1), default, (1)
 > **Env Vars:** spo (3)
 > **Definitions:** is a  (2), known as (1)
 > **Prerequisites:** configure (2), install (1)
@@ -888,8 +890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (16), [[Microsoft 365]] (2), [[Search]] (2), data (1)
 > **UI Navigation:** click on (8), scroll down (1)
-> **Code Keywords:** let (1), default, (1), new, (1), interface (1)
 > **Env Vars:** bcs (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
@@ -980,8 +982,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (13), management (9), [[Security]] (2), hit (2), [[Windows]] (1)
 > **UI Navigation:** click on (5), select the (1)
-> **Code Keywords:** this, (1), for. (1), function (1)
 > **Prerequisites:** install (2), setup (1)
 > **CLI Commands:** make (2)
 > **URLs:** [sharepoint.com](https://sharepoint.com) (1), [onmicrosoft.com](https://onmicrosoft.com) (1)
@@ -992,7 +994,7 @@ created: 2026-04-29
 
 ### 3. Configure Site Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating site collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980)
@@ -1119,8 +1121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft 365]] (2), next (2), hit (1), management (1)
 > **UI Navigation:** click on (12), scroll down (1)
-> **Code Keywords:** let (2), this, (2), this. (2), default. (1), private (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** template (1)
@@ -1228,7 +1230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (13), let (5), this, (2), this. (1)
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft 365]] (4), teams (4), next (2), management (1)
 > **UI Navigation:** click on (10), checkbox (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
@@ -1301,7 +1303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), this, (2), let (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), next (1), teams (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Cross-References:** go back to (2), in the last (1)
 > **Analogies:** just like (1), it's like (1)
@@ -1313,7 +1315,7 @@ created: 2026-04-29
 
 ### 4. Manage Site Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage site collection admins
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980)
@@ -1406,9 +1408,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[SharePoint]] (2), [[Microsoft 365]] (2), next (1), [[Search]] (1)
 > **Env Vars:** spo (12), url (1)
 > **UI Navigation:** click on (5), go to (1)
-> **Code Keywords:** let (3), this. (1), case, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
 > **Cross-References:** previous video (1)
@@ -1516,8 +1518,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[SharePoint]] (2)
 > **UI Navigation:** click on (12), dropdown (2), open the (1), go to (1)
-> **Code Keywords:** delete (4), let (3), this, (1), this. (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** url (3), spo (1)
 > **Cross-References:** go back to (2)
@@ -1598,7 +1600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default, (2), this, (1), switch (1)
+> **Frameworks & Libraries:** [[SharePoint]] (2), management (1)
 > **UI Navigation:** go to (5), click on (5), switch to (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2)
@@ -1608,7 +1610,7 @@ created: 2026-04-29
 
 ### 5. Manage User Profiles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add a property for user profiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980)
@@ -1739,9 +1741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (5), [[Microsoft Office|Office]] (1), next (1), [[Privacy]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (5), scroll down (2), go to (1), dropdown (1), checkbox (1)
 > **CLI Commands:** make (6), find (2)
-> **Code Keywords:** default, (1), this, (1), case, (1), let (1), require (1)
 > **Definitions:** is a  (3), is called (1), in other words (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1841,7 +1843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Forms]] (1), hit (1)
 > **UI Navigation:** dropdown (3), click on (3), scroll down (2)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (2)
@@ -1952,7 +1954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (2), this, (1), case, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3), next (2), feature (1), hit (1)
 > **UI Navigation:** click on (6), scroll down (1)
 > **Prerequisites:** set up (5)
 > **Env Vars:** abc (4)
@@ -2046,7 +2048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (2), case, (1)
+> **Frameworks & Libraries:** management (1)
 > **UI Navigation:** click on (6), dropdown (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -2058,7 +2060,7 @@ created: 2026-04-29
 
 ### 6. Configure Customization and Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding an app from the SharePoint Store
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-an-app-from-the-sharepoint-store?u=76281980)
@@ -2135,8 +2137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (8), web (1), power (1), management (1), business (1)
 > **UI Navigation:** click on (8), go to (2)
-> **Code Keywords:** let (4), this, (2)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -2201,7 +2203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[SharePoint]] (11), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -2261,7 +2263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), public (1), let (1)
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft Office|Office]] (3), [[Microsoft 365]] (1)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
@@ -2332,7 +2334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), this, (1), case. (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3), management (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** go to (2)
@@ -2391,8 +2393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (5)
 > **UI Navigation:** click on (10), go to (2)
-> **Code Keywords:** let (1), else, (1), this, (1), delete (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
 > **Analogies:** such as (1)
@@ -2445,8 +2447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** this, (2), let (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
@@ -2457,7 +2459,7 @@ created: 2026-04-29
 
 ### 7. Configure Managed Metadata
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage term sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-term-sets?u=76281980)
@@ -2602,7 +2604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (1), default, (1), delete (1)
+> **Frameworks & Libraries:** [[SharePoint]] (2), [[Metadata]] (2), hit (2), management (1)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** click on (6), go to (1)
 > **Env Vars:** spo (3)
@@ -2757,7 +2759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), this, (1), import. (1)
+> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), hr (1), [[Metadata]] (1)
 > **Env Vars:** csv (2), lcid (2)
 > **UI Navigation:** click on (3)
 > **Exercise Files:** download the (2), template (1)
@@ -2769,7 +2771,7 @@ created: 2026-04-29
 
 ### 8. Managing Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage the search schema
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980)
@@ -2914,7 +2916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3), this. (2), for, (1)
+> **Frameworks & Libraries:** [[Search]] (20), [[SharePoint]] (5), [[Metadata]] (4), [[Microsoft Word|Word]] (1), next (1)
 > **UI Navigation:** click on (6), scroll down (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -3016,7 +3018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (2), default. (2), this. (1), type. (1)
+> **Frameworks & Libraries:** [[Search]] (11), [[SharePoint]] (6)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), just like (1)
@@ -3075,7 +3077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Search]] (6), [[Microsoft Word|Word]] (5), [[SharePoint]] (2), next (2), business (1)
 > **UI Navigation:** click on (1), checkbox (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** keep in mind (2)
@@ -3155,7 +3157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (11), [[SharePoint]] (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3165,7 +3167,7 @@ created: 2026-04-29
 
 ### 9. Managing SharePoint Policies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage sharing in SharePoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980)
@@ -3334,7 +3336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default. (2)
+> **Frameworks & Libraries:** [[SharePoint]] (13), [[Microsoft OneDrive|Onedrive]] (12), [[Microsoft 365]] (1), next (1), [[Security]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** go back to (1)
@@ -3429,7 +3431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (2), default, (1), while. (1), finally, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (8), [[Security]] (7), [[Microsoft OneDrive|Onedrive]] (4), management (2), next (1)
 > **UI Navigation:** click on (5), checkbox (1)
 > **Definitions:** is a  (2), is called (1), in other words (1)
 > **Prerequisites:** set up (2), configure (1)
@@ -3440,7 +3442,7 @@ created: 2026-04-29
 
 ### 10. Monitor SharePoint Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SharePoint activity reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980)
@@ -3571,8 +3573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (12), [[Microsoft 365]] (10), data (1), [[Privacy]] (1)
 > **UI Navigation:** click on (6), scroll down (4), checkbox (1)
-> **Code Keywords:** let (2), default, (1), interface (1), this. (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (1), is a  (1)
@@ -3646,8 +3648,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (6), [[Microsoft 365]] (4), [[Privacy]] (2), data (1)
 > **UI Navigation:** scroll down (2), click on (2)
-> **Code Keywords:** for. (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)
@@ -3657,7 +3659,7 @@ created: 2026-04-29
 
 ### 11. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing learning SharePoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/continuing-learning-sharepoint?u=76281980)
@@ -3674,6 +3676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (1), [[Microsoft 365]] (1), [[Microsoft Products|Products]] (1), next (1)
 > **Speakers:** - thank (1)
 
 

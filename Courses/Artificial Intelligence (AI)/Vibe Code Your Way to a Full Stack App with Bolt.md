@@ -22,7 +22,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vibe%20Code%20Your%20Way%20to%20a%20Full%20Stack%20App%20with%20Bolt.md)
@@ -41,20 +41,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What if you could build an app just by chatting?
+  - [What if you could build an app just by chatting?](#what-if-you-could-build-an-app-just-by-chatting)
 - [**1. Using Bolt**](#1-using-bolt) (5 videos)
-  - Skip the setup and build apps faster
-  - Settings to know before building
-  - How to chat with an AI in Bolt
-  - Sharing your projects with others
-  - Features of the code and preview browser
+  - [Skip the setup and build apps faster](#skip-the-setup-and-build-apps-faster)
+  - [Settings to know before building](#settings-to-know-before-building)
+  - [How to chat with an AI in Bolt](#how-to-chat-with-an-ai-in-bolt)
+  - [Sharing your projects with others](#sharing-your-projects-with-others)
+  - [Features of the code and preview browser](#features-of-the-code-and-preview-browser)
 - [**2. Vibe Coding with Bolt**](#2-vibe-coding-with-bolt) (2 videos)
-  - Vibe coding a project with the Bolt interface
-  - Adding a database with Supabase
+  - [Vibe coding a project with the Bolt interface](#vibe-coding-a-project-with-the-bolt-interface)
+  - [Adding a database with Supabase](#adding-a-database-with-supabase)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What if you could build an app just by chatting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/what-if-you-could-build-an-app-just-by-chatting?u=76281980)
@@ -75,7 +75,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** ai (1), prompt (1), [[Vibe Coding]] (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - you (1)
@@ -83,7 +83,7 @@ created: 2026-04-29
 
 ### 1. Using Bolt
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Skip the setup and build apps faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980)
@@ -128,9 +128,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (6), [[GitHub]] (2), data (2), [[Microsoft Word|Word]] (2), product (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
 > **Tools:** github (2)
-> **Code Keywords:** require (1)
 > **Env Vars:** ide (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** think of it as (1)
@@ -254,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), super (2), delete (1), for. (1), default, (1)
+> **Frameworks & Libraries:** [[Tokens]] (5), feature (3), next (3), game (3), [[Figma (Software)|Figma]] (2)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (4), find (1)
 > **Prerequisites:** configure (2), set up (1), install (1)
@@ -362,7 +362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (3), interface (1), this, (1), this. (1)
+> **Frameworks & Libraries:** prompt (3), game (2), hit (2), next (2), [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** click on (4), go to (2), open the (1)
 > **CLI Commands:** make (2)
 > **Tools:** figma (1), github (1)
@@ -438,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), finally, (2), public (1), private (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), api (1), next (1), ai (1), database (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (1), you'll need (1), make sure you have (1)
 > **Env Vars:** api (1), zip (1)
@@ -520,8 +520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), next (1), [[Zoom]] (1), [[Search]] (1)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** let (3), this, (1), module (1), switch (1)
 > **Tools:** terminal (5)
 > **UI Navigation:** click on (4), go to (1)
 > **File Paths:** features.tsx (1)
@@ -532,7 +532,7 @@ created: 2026-04-29
 
 ### 2. Vibe Coding with Bolt
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vibe coding a project with the Bolt interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980)
@@ -721,7 +721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), public (5), continue (1), include. (1), new. (1)
+> **Frameworks & Libraries:** prompt (5), hit (4), [[React.js|React]] (3), ai (2), next (2)
 > **UI Navigation:** go to (5), click on (5), dropdown (2)
 > **CLI Commands:** find (3), make (3)
 > **Exercise Files:** template (3), exercise files (1)
@@ -825,7 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (1)
+> **Frameworks & Libraries:** database (4), hit (3), feature (1)
 > **CLI Commands:** make (6)
 > **Prerequisites:** set up (3), you need to have (1), setup (1)
 > **UI Navigation:** click on (2), go to (1)

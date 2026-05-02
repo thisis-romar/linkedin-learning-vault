@@ -30,7 +30,7 @@ tags:
   - skill/digital-accessibility
   - skill/computer-accessibility
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Microsoft%20Office%20Accessibility%20for%20Beginners.md)
@@ -49,23 +49,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Microsoft Office makes content and function acessible to all
+  - [Microsoft Office makes content and function acessible to all](#microsoft-office-makes-content-and-function-acessible-to-all)
 - [**1. Tools for Creating Content**](#1-tools-for-creating-content) (3 videos)
-  - Use the Dictate tool
-  - Request accessible content
-  - Use the Immersive Reader
+  - [Use the Dictate tool](#use-the-dictate-tool)
+  - [Request accessible content](#request-accessible-content)
+  - [Use the Immersive Reader](#use-the-immersive-reader)
 - [**2. Tools for Consuming Content**](#2-tools-for-consuming-content) (5 videos)
-  - Have content read out loud
-  - Set alt tags on images
-  - Understanding screen reader considerations
-  - Using the Accessibility Checker
-  - Turn on live captions in Teams and PowerPoint
+  - [Have content read out loud](#have-content-read-out-loud)
+  - [Set alt tags on images](#set-alt-tags-on-images)
+  - [Understanding screen reader considerations](#understanding-screen-reader-considerations)
+  - [Using the Accessibility Checker](#using-the-accessibility-checker)
+  - [Turn on live captions in Teams and PowerPoint](#turn-on-live-captions-in-teams-and-powerpoint)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learn accessibility options in depth
+  - [Learn accessibility options in depth](#learn-accessibility-options-in-depth)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Office makes content and function acessible to all
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980)
@@ -86,13 +86,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [jess] (1)
 
 
 ### 1. Tools for Creating Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the Dictate tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Windows]] (2), [[OneNote]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -220,7 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), feature (1), web (1), next (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
@@ -284,16 +284,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Microsoft Word]] (1), hit (1), next (1), [[Windows]] (1)
 > **UI Navigation:** toggle (2), click on (1), scroll up (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Tools for Consuming Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Have content read out loud
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980)
@@ -334,9 +334,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[Microsoft Word]] (1), [[Microsoft Word|Word]] (1), hit (1), next (1)
 > **Speakers:** - [instructor] (2), - [reader] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** right-click (1)
 
@@ -413,8 +413,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Word|Word]] (1), data (1)
 > **Analogies:** picture (4), for example (1), such as (1)
-> **Code Keywords:** override (1), case, (1), this, (1), continue (1)
 > **UI Navigation:** checkbox (2), click on (1), toggle (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** it's best to (1)
@@ -515,10 +515,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Word|Word]] (2), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** red30 (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -585,9 +585,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Office]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** vtt (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
@@ -634,14 +634,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** teams (4), [[Microsoft PowerPoint|Powerpoint]] (3), next (3), [[Microsoft Teams]] (1), [[Windows]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn accessibility options in depth
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980)
@@ -658,7 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1)
+> **Frameworks & Libraries:** web (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [jess] (1)
 

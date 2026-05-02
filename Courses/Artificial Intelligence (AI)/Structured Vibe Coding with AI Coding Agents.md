@@ -20,7 +20,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Structured%20Vibe%20Coding%20with%20AI%20Coding%20Agents.md)
@@ -39,33 +39,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Moving beyond simple vibe coding
+  - [Moving beyond simple vibe coding](#moving-beyond-simple-vibe-coding)
 - [**1. Foundations of Vibe Coding**](#1-foundations-of-vibe-coding) (1 videos)
-  - What is vibe coding?
+  - [What is vibe coding?](#what-is-vibe-coding)
 - [**2. Setting Up Your Vibe Coding Environment**](#2-setting-up-your-vibe-coding-environment) (4 videos)
-  - Choosing your coding agent host: VS Code and Claude Code
-  - Equipping agents: Essential tools and MCPs
-  - Model selection for optimal vibe coding
-  - Project context: Understanding rules files
+  - [Choosing your coding agent host: VS Code and Claude Code](#choosing-your-coding-agent-host-vs-code-and-claude-code)
+  - [Equipping agents: Essential tools and MCPs](#equipping-agents-essential-tools-and-mcps)
+  - [Model selection for optimal vibe coding](#model-selection-for-optimal-vibe-coding)
+  - [Project context: Understanding rules files](#project-context-understanding-rules-files)
 - [**3. The Vibe Coding Workflow**](#3-the-vibe-coding-workflow) (4 videos)
-  - AI pair programming: Human as navigator, AI as driver
-  - Warm up: A landing page for your AI consulting business
-  - Execute: Test-driven development with your AI agent
-  - Trust but verify: Testing, PRs, and debugging
+  - [AI pair programming: Human as navigator, AI as driver](#ai-pair-programming-human-as-navigator-ai-as-driver)
+  - [Warm up: A landing page for your AI consulting business](#warm-up-a-landing-page-for-your-ai-consulting-business)
+  - [Execute: Test-driven development with your AI agent](#execute-test-driven-development-with-your-ai-agent)
+  - [Trust but verify: Testing, PRs, and debugging](#trust-but-verify-testing-prs-and-debugging)
 - [**4. Beyond Code Generation: AI for Code Understanding**](#4-beyond-code-generation-ai-for-code-understanding) (2 videos)
-  - Rapid codebase onboarding with AI agents
-  - Generating diagrams for system comprehension
+  - [Rapid codebase onboarding with AI agents](#rapid-codebase-onboarding-with-ai-agents)
+  - [Generating diagrams for system comprehension](#generating-diagrams-for-system-comprehension)
 - [**5. Best Practices and Avoiding Pitfalls**](#5-best-practices-and-avoiding-pitfalls) (4 videos)
-  - Software stack selection for AI agent success
-  - Monorepos: The AI coding agent's best friend
-  - Managing proliferating rules files effectively
-  - Common vibe coding pitfalls and their antidotes
+  - [Software stack selection for AI agent success](#software-stack-selection-for-ai-agent-success)
+  - [Monorepos: The AI coding agent's best friend](#monorepos-the-ai-coding-agents-best-friend)
+  - [Managing proliferating rules files effectively](#managing-proliferating-rules-files-effectively)
+  - [Common vibe coding pitfalls and their antidotes](#common-vibe-coding-pitfalls-and-their-antidotes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The future of AI-assisted development
+  - [The future of AI-assisted development](#the-future-of-ai-assisted-development)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving beyond simple vibe coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/moving-beyond-simple-vibe-coding?u=76281980)
@@ -90,13 +90,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), [[Vibe Coding]] (1), power (1), cloud (1)
 > **Speakers:** - have (1)
 
 
 ### 1. Foundations of Vibe Coding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is vibe coding?
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980)
@@ -153,7 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (2), let (1), module (1), this, (1)
+> **Frameworks & Libraries:** ai (6), [[Vibe Coding]] (6), next (2), [[Microsoft Word|Word]] (2), [[GitHub Copilot]] (1)
 > **Env Vars:** cto (1), ide (1), llm (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Tools:** intellij (1), github (1)
@@ -165,7 +165,7 @@ created: 2026-04-29
 
 ### 2. Setting Up Your Vibe Coding Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing your coding agent host: VS Code and Claude Code
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980)
@@ -270,8 +270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (5), [[Large Language Models (LLM)|Large language models]] (3), [[Vibe Coding]] (2), [[GitHub Copilot]] (2), next (2)
 > **Tools:** vs code (11), terminal (3), command line (3), github (2), neovim (1)
-> **Code Keywords:** let (5), interface (3), continue (3), this, (1), case. (1)
 > **Env Vars:** cli (5), ide (2), mcp (2), mpn (1)
 > **Prerequisites:** set up (4), install (3), before we start (1)
 > **UI Navigation:** go to (2), select the (1)
@@ -332,7 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), default. (1), case. (1), let (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[ChatGPT]] (1), ai (1), [[Vibe Coding]] (1), [[Gemini]] (1)
 > **Tools:** command line (1), vs code (1), terminal (1), github (1)
 > **Env Vars:** gpt4 (1), ide (1), gpt (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
@@ -414,11 +414,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Git]] (4), [[CLI]] (3), [[Version Control]] (2), [[Jira]] (1)
 > **Tools:** github (5), terminal (2), jira (1), vs code (1), bash (1)
 > **CLI Commands:** git (4), cd (1), ls (1)
 > **Env Vars:** cli (3), mcp (2), ide (1)
 > **Analogies:** just like (2), such as (1)
-> **Code Keywords:** let (1), interface (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Prerequisites:** set up (2)
 > **UI Navigation:** toggle (1)
@@ -492,8 +492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (1), prompt (1), power (1), [[Vibe Coding]] (1), next (1)
 > **File Paths:** claude.md (7), readme.md (1), claud.md (1)
-> **Code Keywords:** let (4), this. (2), default, (1)
 > **Tools:** vs code (6), terminal (1)
 > **Definitions:** is a  (2), known as (1)
 > **Prerequisites:** set up (2)
@@ -504,7 +504,7 @@ created: 2026-04-29
 
 ### 3. The Vibe Coding Workflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI pair programming: Human as navigator, AI as driver
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/ai-pair-programming-human-as-navigator-ai-as-driver?u=76281980)
@@ -579,7 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), case, (1)
+> **Frameworks & Libraries:** [[Programming]] (5), ai (4), [[Engineering]] (4), product (2), business (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rfc (1)
 > **Cross-References:** in the next (1)
@@ -781,7 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), this. (2), pass (1)
+> **Frameworks & Libraries:** ai (6), next (4), [[Next.js]] (4), [[Engineering]] (3), application (2)
 > **File Paths:** claude.md (7), next.js (4)
 > **Env Vars:** claude (7), cta (1)
 > **CLI Commands:** make (4), git (1), rm (1), npm (1)
@@ -893,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), try. (1), function (1), this. (1)
+> **Frameworks & Libraries:** ai (5), [[Engineering]] (1), [[Test-Driven Development]] (1), next (1), [[End-to-end Testing]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), scroll up (1)
 > **Env Vars:** ctrl (2)
@@ -1059,8 +1059,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (10), web (4), [[Automation]] (3), [[End-to-end Testing]] (2), [[Microsoft]] (1)
 > **Env Vars:** git (10), mcp (9), cli (1), stdio (1)
-> **Code Keywords:** let (13), continue (4), this. (2)
 > **CLI Commands:** git (10), find (1), make (1)
 > **Prerequisites:** install (6), set up (1), setup (1)
 > **Definitions:** is a  (3), is called (2), stands for (1)
@@ -1071,7 +1071,7 @@ created: 2026-04-29
 
 ### 4. Beyond Code Generation: AI for Code Understanding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rapid codebase onboarding with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980)
@@ -1194,8 +1194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Engineering]] (2), web (2), parallel (2), database (2)
 > **Definitions:** is a  (7), is called (2), is an  (1)
-> **Code Keywords:** let (8)
 > **CLI Commands:** apache (1), docker (1), python (1), cd (1), make (1)
 > **Prerequisites:** before we start (1), install (1), set up (1)
 > **Env Vars:** sdk (1)
@@ -1251,7 +1251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (7), application (6), [[Engineering]] (2), [[Windows]] (1), web application (1)
 > **CLI Commands:** terraform (1), make (1)
 > **Env Vars:** erd (1), cicd (1)
 > **Definitions:** is a  (2)
@@ -1262,7 +1262,7 @@ created: 2026-04-29
 
 ### 5. Best Practices and Avoiding Pitfalls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Software stack selection for AI agent success
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980)
@@ -1297,8 +1297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), ai (2), [[Large Language Models (LLM)|Large language models]] (2), [[Python (Programming Language)|Python]] (2), data (2)
 > **CLI Commands:** python (2), find (1), node (1)
-> **Code Keywords:** public (3), let (1)
 > **Env Vars:** api (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -1376,11 +1376,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), application (3), [[Large Language Models (LLM)|Large language models]] (2), game (1), [[GitHub]] (1)
 > **CLI Commands:** find (2), apache (1), python (1), make (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** sdk (1), api (1)
 > **Analogies:** think of it as (1), imagine (1)
-> **Code Keywords:** super (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1425,10 +1425,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), next (2), [[Vibe Coding]] (1), [[Engineering]] (1), data (1)
 > **Env Vars:** claude (6), mcp (4), readme (1)
 > **File Paths:** claude.md (6), mcp.json (2), settings.local.json (1), settings.json (1)
 > **Prerequisites:** set up (4)
-> **Code Keywords:** let (3)
 > **Tools:** terminal (3)
 > **Analogies:** just like (1), such as (1), similar to (1)
 > **CLI Commands:** curl (1), wget (1)
@@ -1491,7 +1491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), module (1), super (1), finally, (1)
+> **Frameworks & Libraries:** [[Engineering]] (3), [[Vibe Coding]] (2), prompt (2), [[GitHub]] (2), [[Security]] (2)
 > **CLI Commands:** git (1), make (1)
 > **Tools:** github (2)
 > **Cross-References:** go back to (1)
@@ -1502,7 +1502,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of AI-assisted development
 > [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980)
@@ -1547,7 +1547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (5), [[Vibe Coding]] (2), [[Software Development]] (1), application (1), [[Test-Driven Development]] (1)
 > **Speakers:** - congratulations (1)
 
 

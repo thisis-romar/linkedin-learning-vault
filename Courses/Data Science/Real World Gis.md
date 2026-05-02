@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/geographic-information-systems-gis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Real%20World%20Gis.md)
@@ -43,79 +43,79 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Need help with your GIS projects?
-  - What you should know
+  - [Need help with your GIS projects?](#need-help-with-your-gis-projects)
+  - [What you should know](#what-you-should-know)
 - [**1. Got GIS Data?**](#1-got-gis-data) (10 videos)
-  - Where is the GIS data?
-  - How to consider the scale of GIS data
-  - What spatial data are already in ArcGIS?
-  - How to get local and state GIS data
-  - How to get the USA national map data
-  - How to get census GIS data
-  - How to get Earth Explorer data
-  - How to bring hosted GIS data into ArcGIS
-  - Challenge: Get GIS data for a specific geography
-  - Solution: Get GIS data for a specific geography
+  - [Where is the GIS data?](#where-is-the-gis-data)
+  - [How to consider the scale of GIS data](#how-to-consider-the-scale-of-gis-data)
+  - [What spatial data are already in ArcGIS?](#what-spatial-data-are-already-in-arcgis)
+  - [How to get local and state GIS data](#how-to-get-local-and-state-gis-data)
+  - [How to get the USA national map data](#how-to-get-the-usa-national-map-data)
+  - [How to get census GIS data](#how-to-get-census-gis-data)
+  - [How to get Earth Explorer data](#how-to-get-earth-explorer-data)
+  - [How to bring hosted GIS data into ArcGIS](#how-to-bring-hosted-gis-data-into-arcgis)
+  - [Challenge: Get GIS data for a specific geography](#challenge-get-gis-data-for-a-specific-geography)
+  - [Solution: Get GIS data for a specific geography](#solution-get-gis-data-for-a-specific-geography)
 - [**2. What Can Be Done with GIS Data?**](#2-what-can-be-done-with-gis-data) (6 videos)
-  - Understanding GIS data types
-  - Mastering vector GIS data
-  - Mastering raster GIS data
-  - How to choose the right GIS data formats for Projects
-  - Challenge: Vectorization vs. rasterization
-  - Solution: Vectorization vs. rasterization
+  - [Understanding GIS data types](#understanding-gis-data-types)
+  - [Mastering vector GIS data](#mastering-vector-gis-data)
+  - [Mastering raster GIS data](#mastering-raster-gis-data)
+  - [How to choose the right GIS data formats for Projects](#how-to-choose-the-right-gis-data-formats-for-projects)
+  - [Challenge: Vectorization vs. rasterization](#challenge-vectorization-vs-rasterization)
+  - [Solution: Vectorization vs. rasterization](#solution-vectorization-vs-rasterization)
 - [**3. What Is Up with Projections?**](#3-what-is-up-with-projections) (6 videos)
-  - How to understand the latitude, longitude, and scale
-  - What is a developable surface?
-  - Using geoids, spheroids, and datums in GIS
-  - Mastering projections in GIS
-  - Challenge: On-the-fly projection vs. project
-  - Solution: On-the-fly projection vs. project
+  - [How to understand the latitude, longitude, and scale](#how-to-understand-the-latitude-longitude-and-scale)
+  - [What is a developable surface?](#what-is-a-developable-surface)
+  - [Using geoids, spheroids, and datums in GIS](#using-geoids-spheroids-and-datums-in-gis)
+  - [Mastering projections in GIS](#mastering-projections-in-gis)
+  - [Challenge: On-the-fly projection vs. project](#challenge-on-the-fly-projection-vs-project)
+  - [Solution: On-the-fly projection vs. project](#solution-on-the-fly-projection-vs-project)
 - [**4. How to Collect GIS Data in the Field?**](#4-how-to-collect-gis-data-in-the-field) (6 videos)
-  - Geospatial data collection basics
-  - How to create a spatial database from coordinates
-  - How to add scanned map data and drone imagery to a spatial database
-  - How to collect GIS data using ArcGIS Survey123
-  - Challenge: Georeference master
-  - Solution: Georeference master
+  - [Geospatial data collection basics](#geospatial-data-collection-basics)
+  - [How to create a spatial database from coordinates](#how-to-create-a-spatial-database-from-coordinates)
+  - [How to add scanned map data and drone imagery to a spatial database](#how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database)
+  - [How to collect GIS data using ArcGIS Survey123](#how-to-collect-gis-data-using-arcgis-survey123)
+  - [Challenge: Georeference master](#challenge-georeference-master)
+  - [Solution: Georeference master](#solution-georeference-master)
 - [**5. How to Master ArcGIS Online?**](#5-how-to-master-arcgis-online) (6 videos)
-  - What is ArcGIS Online?
-  - How to bring data into ArcGIS Online
-  - How to build web maps from ArcGIS Pro
-  - How to make an online mapping application
-  - Challenge: Make an online mapping application
-  - Solution: Make an online mapping application
+  - [What is ArcGIS Online?](#what-is-arcgis-online)
+  - [How to bring data into ArcGIS Online](#how-to-bring-data-into-arcgis-online)
+  - [How to build web maps from ArcGIS Pro](#how-to-build-web-maps-from-arcgis-pro)
+  - [How to make an online mapping application](#how-to-make-an-online-mapping-application)
+  - [Challenge: Make an online mapping application](#challenge-make-an-online-mapping-application)
+  - [Solution: Make an online mapping application](#solution-make-an-online-mapping-application)
 - [**6. How to Build a GIS Project from Scratch?**](#6-how-to-build-a-gis-project-from-scratch) (20 videos)
-  - Challenge: Get the GIS data
-  - Solution: Get the GIS data
-  - Challenge: Visualize the GIS data
-  - Solution: Visualize the GIS data
-  - Challenge: GIS attribute data exploration
-  - Solution: GIS attribute data exploration
-  - Challenge: Isolate the GIS data
-  - Solution: Isolate the GIS data
-  - Challenge: Construct new GIS data
-  - Solution: Construct new GIS data
-  - Challenge: Analyze the GIS data
-  - Solution: Analyze the GIS data
-  - Challenge: Import GIS data into a geodatabase
-  - Solution: Import GIS data into a geodatabase
-  - Challenge: Convert GIS data
-  - Solution: Convert GIS data
-  - Challenge: Make a web map
-  - Solution: Make a web map
-  - Challenge: Make an online mapping application
-  - Solution: Make an online mapping application
+  - [Challenge: Get the GIS data](#challenge-get-the-gis-data)
+  - [Solution: Get the GIS data](#solution-get-the-gis-data)
+  - [Challenge: Visualize the GIS data](#challenge-visualize-the-gis-data)
+  - [Solution: Visualize the GIS data](#solution-visualize-the-gis-data)
+  - [Challenge: GIS attribute data exploration](#challenge-gis-attribute-data-exploration)
+  - [Solution: GIS attribute data exploration](#solution-gis-attribute-data-exploration)
+  - [Challenge: Isolate the GIS data](#challenge-isolate-the-gis-data)
+  - [Solution: Isolate the GIS data](#solution-isolate-the-gis-data)
+  - [Challenge: Construct new GIS data](#challenge-construct-new-gis-data)
+  - [Solution: Construct new GIS data](#solution-construct-new-gis-data)
+  - [Challenge: Analyze the GIS data](#challenge-analyze-the-gis-data)
+  - [Solution: Analyze the GIS data](#solution-analyze-the-gis-data)
+  - [Challenge: Import GIS data into a geodatabase](#challenge-import-gis-data-into-a-geodatabase)
+  - [Solution: Import GIS data into a geodatabase](#solution-import-gis-data-into-a-geodatabase)
+  - [Challenge: Convert GIS data](#challenge-convert-gis-data)
+  - [Solution: Convert GIS data](#solution-convert-gis-data)
+  - [Challenge: Make a web map](#challenge-make-a-web-map)
+  - [Solution: Make a web map](#solution-make-a-web-map)
+  - [Challenge: Make an online mapping application](#challenge-make-an-online-mapping-application)
+  - [Solution: Make an online mapping application](#solution-make-an-online-mapping-application)
 - [**7. How to Land a GIS job?**](#7-how-to-land-a-gis-job) (4 videos)
-  - What are the different types of GIS jobs?
-  - Where can you find GIS jobs?
-  - How can you master the GIS job interview? Part 1
-  - How can you master the GIS job interview? Part 2
+  - [What are the different types of GIS jobs?](#what-are-the-different-types-of-gis-jobs)
+  - [Where can you find GIS jobs?](#where-can-you-find-gis-jobs)
+  - [How can you master the GIS job interview? Part 1](#how-can-you-master-the-gis-job-interview-part-1)
+  - [How can you master the GIS job interview? Part 2](#how-can-you-master-the-gis-job-interview-part-2)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What are your next steps in GIS?
+  - [What are your next steps in GIS?](#what-are-your-next-steps-in-gis)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Need help with your GIS projects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980)
@@ -136,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (3), data (2), [[ArcGIS Pro]] (1), web (1), [[LinkedIn]] (1)
 > **Env Vars:** gis (3)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **Speakers:** - real (1)
@@ -155,15 +156,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (3), data (3), [[Microsoft Excel|Excel]] (1), [[ArcGIS Pro]] (1)
 > **Env Vars:** gis (3)
-> **Code Keywords:** new, (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Got GIS Data?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where is the GIS data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/where-is-the-gis-data?u=76281980)
@@ -182,8 +183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), gis (7)
 > **Env Vars:** gis (7)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### How to consider the scale of GIS data
@@ -235,9 +236,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), gis (8), [[Forms]] (1), [[Statistics]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** gis (8)
 > **Cross-References:** in the last (2)
-> **Code Keywords:** for. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -348,8 +349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), gis (7), [[Search]] (4), [[ArcGIS Pro]] (4), business (4)
 > **Env Vars:** gis (7), usa (2), esri (1)
-> **Code Keywords:** let (4), require (1), this. (1)
 > **CLI Commands:** find (4), cd (1)
 > **UI Navigation:** click on (4)
 > **Speakers:** - [instructor] (1)
@@ -417,8 +418,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (14), data (14), [[Search]] (6), [[Microsoft Office|Office]] (1)
 > **Env Vars:** gis (14)
-> **Code Keywords:** let (7), this, (1)
 > **UI Navigation:** click on (6), scroll down (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -501,8 +502,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), gis (6), [[Search]] (5), [[Microsoft Products|Products]] (2), [[Zoom]] (1)
 > **Env Vars:** gis (6), jpeg (2), usgs (1), kml (1)
-> **Code Keywords:** let (5), interface (3), from. (1)
 > **UI Navigation:** click on (6), scroll down (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
@@ -598,7 +599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (8), let (5), interface (2)
+> **Frameworks & Libraries:** data (24), gis (5), web (2), [[Search]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gis (5), tiger (5), kml (1), download (1), csv (1)
 > **CLI Commands:** find (8), unzip (1)
 > **UI Navigation:** click on (5), scroll down (1)
@@ -862,7 +863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (4), case, (4), this. (1), from, (1)
+> **Frameworks & Libraries:** data (57), [[Search]] (5), [[Metadata]] (4), cloud (2), next (2)
 > **Env Vars:** gis (1), usgs (1), kml (1), avhrr (1), ikonos (1)
 > **UI Navigation:** click on (3), checkbox (2), dropdown (1), select the (1)
 > **CLI Commands:** find (2), make (1)
@@ -932,8 +933,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Representational State Transfer (REST)|Rest]] (6), [[ArcGIS Pro]] (4), gis (2), [[Zoom]] (2)
 > **Env Vars:** rest (6), url (4), gis (2), usgs (1)
-> **Code Keywords:** let (4)
 > **UI Navigation:** click on (3), dropdown (1)
 > **Speakers:** - [instructor] (1)
 
@@ -954,8 +955,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (3), data (3)
 > **Env Vars:** gis (3)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -1002,7 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** data (3), gis (2), [[ArcGIS Pro]] (2), [[Search]] (1)
 > **Env Vars:** gis (2)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** unzip (1)
@@ -1012,7 +1013,7 @@ created: 2026-04-29
 
 ### 2. What Can Be Done with GIS Data?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding GIS data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980)
@@ -1061,8 +1062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), gis (6), [[ArcGIS Pro]] (3), [[Application Development]] (1)
 > **Env Vars:** gis (6), esri (6)
-> **Code Keywords:** interface (3), let (1)
 > **Versions:** 10.8 (3)
 > **Definitions:** is a  (2), is an  (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
@@ -1238,7 +1239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), case, (2), this. (1), this, (1)
+> **Frameworks & Libraries:** data (25), feature (12), [[Windows]] (7), [[ArcGIS Pro]] (6), gis (5)
 > **Env Vars:** gis (5), sql (2)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** click on (2), go to (1), navigate to (1), open the (1)
@@ -1346,7 +1347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (13), [[ArcGIS Pro]] (8), [[Search]] (4), gis (2), feature (1)
 > **UI Navigation:** click on (4), scroll down (1), dropdown (1)
 > **Definitions:** is a  (4), means that (1)
 > **Env Vars:** gis (2), dem (2)
@@ -1438,8 +1439,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (8), [[Zoom]] (4), data (3), [[Search]] (1)
 > **Env Vars:** gis (8)
-> **Code Keywords:** let (5), this. (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** be aware (2)
@@ -1461,7 +1462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class, (1)
+> **Frameworks & Libraries:** feature (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1510,7 +1511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (4), this, (1), default, (1), extends (1)
+> **Frameworks & Libraries:** data (3), [[Search]] (2), [[ArcGIS Pro]] (2)
 > **CLI Commands:** unzip (1)
 > **UI Navigation:** click on (1)
 > **Warnings:** be aware (1)
@@ -1519,7 +1520,7 @@ created: 2026-04-29
 
 ### 3. What Is Up with Projections?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to understand the latitude, longitude, and scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980)
@@ -1626,7 +1627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[ArcGIS Pro]] (2), feature (1), [[Search]] (1), database (1)
 > **Versions:** 29.952 (2), 48.85832 (2), 51.4992 (1), 0.85832 (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -1694,7 +1695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), function (1), case, (1), case. (1)
+> **Frameworks & Libraries:** gis (1), [[Forms]] (1)
 > **Cross-References:** previous video (1), in the last (1)
 > **Env Vars:** gis (1)
 > **Definitions:** we call this (1)
@@ -1774,8 +1775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (1)
 > **Env Vars:** nad27 (5), wgs84 (3), nad83 (2), grs80 (2), usgs (1)
-> **Code Keywords:** let (3), case, (3)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -2014,7 +2015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), case, (6), this, (2), this. (2), case. (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), data (3), gis (2), hit (2), management (1)
 > **Definitions:** means that (4), is a  (4), is called (1), is an  (1)
 > **UI Navigation:** click on (3), scroll down (2), go to (1)
 > **Analogies:** such as (4), for example (1), picture (1)
@@ -2046,7 +2047,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat futuristic music) (1)
 
@@ -2135,7 +2135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3)
+> **Frameworks & Libraries:** hit (3)
 > **Env Vars:** utm (4), nad (2)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** make (1)
@@ -2145,7 +2145,7 @@ created: 2026-04-29
 
 ### 4. How to Collect GIS Data in the Field?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Geospatial data collection basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980)
@@ -2182,7 +2182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1)
+> **Frameworks & Libraries:** data (8), [[Hardware]] (2), [[Forms]] (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2377,7 +2377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (3), this. (1), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), database (13), [[ArcGIS Pro]] (10), data (9), [[Google]] (8)
 > **Env Vars:** gis (5), wgs84 (1), utm (1)
 > **Versions:** 51.5 (1), 0.07 (1), 10.8 (1)
 > **UI Navigation:** click on (2), open the (1)
@@ -2759,7 +2759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), case, (9), delete (2), class, (2), this, (1)
+> **Frameworks & Libraries:** feature (8), data (7), database (7), [[Zoom]] (5), next (5)
 > **UI Navigation:** right-click (10), click on (5), go to (3), open the (1), select the (1)
 > **CLI Commands:** make (7), find (3)
 > **Env Vars:** gis (4), rms (2)
@@ -2987,7 +2987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), case, (5), delete (1), require (1), public (1)
+> **Frameworks & Libraries:** data (30), teams (3), [[ArcGIS Pro]] (2), web (2), next (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** picture (4), it's like (1)
@@ -3016,7 +3016,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **File Paths:** d.c (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -3198,7 +3197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), gis (1), [[Representational State Transfer (REST)|Rest]] (1), web (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Env Vars:** gis (1), jpeg (1)
@@ -3210,7 +3209,7 @@ created: 2026-04-29
 
 ### 5. How to Master ArcGIS Online?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ArcGIS Online?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980)
@@ -3371,7 +3370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), public (4), case, (3), interface (2), this, (2)
+> **Frameworks & Libraries:** data (25), web (10), [[Search]] (4), feature (3), [[Zoom]] (2)
 > **URLs:** [arcgis.com](https://arcgis.com) (8)
 > **UI Navigation:** click on (7), go to (1)
 > **Definitions:** is an  (3), is a  (3)
@@ -3505,7 +3504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (5), public (2), interface (1), this. (1)
+> **Frameworks & Libraries:** data (9), web (5), next (3), [[Search]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (8), drag and drop (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (2), [data.gov](https://data.gov) (1)
@@ -3975,7 +3974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), case, (8), this. (3), private (2), else, (2)
+> **Frameworks & Libraries:** web (22), data (20), [[ArcGIS Pro]] (11), feature (6), hit (6)
 > **UI Navigation:** click on (14), right-click (7), scroll down (6), go to (6), open the (2)
 > **Env Vars:** csv (7), gis (4), updated (4), wgs (3), dbf (3)
 > **CLI Commands:** make (11), find (6)
@@ -4119,7 +4118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (3), interface (2), this. (1), private (1)
+> **Frameworks & Libraries:** web (18), feature (7), application (6), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (6), scroll down (2), dropdown (1)
 > **Env Vars:** url (7)
 > **URLs:** [arcgis.com](https://arcgis.com) (3), [rgis.com](https://rgis.com) (1)
@@ -4147,8 +4146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), application (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (enlightening music) (1)
@@ -4418,7 +4417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), case, (8), interface (4), this. (3), public (2)
+> **Frameworks & Libraries:** application (15), web (9), data (8), next (4), [[Search]] (2)
 > **UI Navigation:** click on (7), go to (2), navigate to (1), select the (1), scroll down (1)
 > **Env Vars:** kml (3), csv (2), nebrh (2), gis (1), url (1)
 > **Cross-References:** go back to (2)
@@ -4430,7 +4429,7 @@ created: 2026-04-29
 
 ### 6. How to Build a GIS Project from Scratch?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Get the GIS data
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980)
@@ -4451,9 +4450,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), gis (2), [[ArcGIS Pro]] (1), [[Search]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** gis (2), csv (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4525,7 +4524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (1)
+> **Frameworks & Libraries:** data (6), gis (4), [[Search]] (1), [[Geographic Information Systems (GIS)|Geographic information systems]] (1)
 > **Env Vars:** gis (4), csv (3)
 > **UI Navigation:** scroll down (3), click on (2)
 > **Definitions:** is a  (1)
@@ -4545,7 +4544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), gis (1), [[ArcGIS Pro]] (1)
 > **Env Vars:** gis (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4641,8 +4640,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), gis (3), hit (2), [[Google]] (1)
 > **Env Vars:** csv (4), wgs (4), gis (3)
-> **Code Keywords:** let (7), case, (3)
 > **UI Navigation:** click on (3), go to (1), scroll down (1), dropdown (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -4663,8 +4662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (2), data (2)
 > **Env Vars:** gis (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -4727,7 +4726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), this. (1)
+> **Frameworks & Libraries:** data (4)
 > **UI Navigation:** open the (1), click on (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -4745,8 +4744,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (2), data (2)
 > **Env Vars:** gis (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -4863,7 +4862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (5), class. (1)
+> **Frameworks & Libraries:** data (5), feature (2), [[ArcGIS Pro]] (2), gis (1), database (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Definitions:** is an  (2)
@@ -4887,7 +4886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** data (3), next (1), gis (1)
 > **Env Vars:** gis (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light electronic music) (1)
@@ -5015,7 +5014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2)
+> **Frameworks & Libraries:** data (8), feature (5), [[ArcGIS Pro]] (4), hit (2), database (2)
 > **UI Navigation:** click on (3), scroll down (1), select the (1), go to (1)
 > **CLI Commands:** make (2)
 > **Warnings:** warning (2)
@@ -5041,8 +5040,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (2), data (2), [[Statistics]] (1)
 > **Env Vars:** gis (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
@@ -5135,7 +5134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), else. (1), this. (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), data (4), gis (3), [[Statistical Analysis]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gis (3), arc (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), scroll down (1)
@@ -5161,7 +5160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** gis (1), data (1)
 > **Env Vars:** gis (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -5275,7 +5274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), new, (2), default, (2), export, (1)
+> **Frameworks & Libraries:** feature (2), [[ArcGIS Pro]] (2), gis (1), hit (1), data (1)
 > **UI Navigation:** go to (1), select the (1), dropdown (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gis (1)
@@ -5301,9 +5300,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (1), data (1), feature (1)
 > **Env Vars:** gis (1), utm (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
@@ -5323,7 +5322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** web (4)
 > **CLI Commands:** make (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **Prerequisites:** set up (1)
@@ -5435,7 +5434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), case, (3), public (1), this. (1)
+> **Frameworks & Libraries:** web (4), feature (4), [[JSON]] (3), [[ArcGIS Pro]] (2), [[Search]] (1)
 > **Env Vars:** json (3), csv (2), wgs (2), kml (1), geo (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1), navigate to (1), select the (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (4)
@@ -5459,7 +5458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** application (3), web (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -5518,7 +5517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** application (1), gis (1)
 > **Env Vars:** url (1), gis (1)
 > **CLI Commands:** find (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
@@ -5530,7 +5529,7 @@ created: 2026-04-29
 
 ### 7. How to Land a GIS job?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the different types of GIS jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980)
@@ -5601,8 +5600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (28), data (6), business (4), database (2), next (2)
 > **Env Vars:** gis (28)
-> **Code Keywords:** let (2), interface (1), continue (1), finally, (1), require (1)
 > **CLI Commands:** make (3), python (1)
 > **Analogies:** for example (2), think of it as (1), such as (1)
 > **Definitions:** is a  (2)
@@ -5651,8 +5650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (10), [[LinkedIn]] (7), [[Search]] (3), [[Google]] (1)
 > **Env Vars:** gis (10), usa (1)
-> **Code Keywords:** let (2), public (1), case, (1), private (1)
 > **CLI Commands:** find (4)
 > **URLs:** [usajobs.gov](https://usajobs.gov) (1)
 > **UI Navigation:** click on (1)
@@ -5734,8 +5733,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (3), gis (2), [[Microsoft Excel|Excel]] (1), [[Interviewing]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** gis (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -5829,9 +5828,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (17), [[Python (Programming Language)|Python]] (8), business (3), [[Programming]] (3), [[Scripting]] (3)
 > **Env Vars:** gis (17), gps (1), gid (1)
 > **CLI Commands:** python (8), make (1)
-> **Code Keywords:** let (2), continue (1)
 > **Analogies:** for example (2)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Definitions:** is a  (1)
@@ -5840,7 +5839,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are your next steps in GIS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980)
@@ -5855,8 +5854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (3), data (1), web (1), [[ArcGIS Pro]] (1), next (1)
 > **Env Vars:** gis (3)
-> **Code Keywords:** continue (2)
 > **Speakers:** - together (1)
 
 

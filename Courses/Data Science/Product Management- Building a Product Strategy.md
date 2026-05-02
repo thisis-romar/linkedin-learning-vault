@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/product-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Product%20Management-%20Building%20a%20Product%20Strategy.md)
@@ -47,33 +47,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why you need a product strategy
+  - [Why you need a product strategy](#why-you-need-a-product-strategy)
 - [**1. Product Strategy Overview**](#1-product-strategy-overview) (4 videos)
-  - What is product strategy?
-  - Why strategy is important
-  - Tenets of a good strategy
-  - The elevator pitch framework
+  - [What is product strategy?](#what-is-product-strategy)
+  - [Why strategy is important](#why-strategy-is-important)
+  - [Tenets of a good strategy](#tenets-of-a-good-strategy)
+  - [The elevator pitch framework](#the-elevator-pitch-framework)
 - [**2. Filling in the Elevator Pitch Step by Step**](#2-filling-in-the-elevator-pitch-step-by-step) (6 videos)
-  - Determine your target customers
-  - Fill in customer need
-  - Choose the market category
-  - Fill in the key benefit
-  - Add competitors and alternatives
-  - Determine the product differentiation
+  - [Determine your target customers](#determine-your-target-customers)
+  - [Fill in customer need](#fill-in-customer-need)
+  - [Choose the market category](#choose-the-market-category)
+  - [Fill in the key benefit](#fill-in-the-key-benefit)
+  - [Add competitors and alternatives](#add-competitors-and-alternatives)
+  - [Determine the product differentiation](#determine-the-product-differentiation)
 - [**3. How to Develop Product Strategy**](#3-how-to-develop-product-strategy) (4 videos)
-  - Make strategy work
-  - How to identify key stakeholders
-  - How to collect and organize input
-  - Build support for your strategy
+  - [Make strategy work](#make-strategy-work)
+  - [How to identify key stakeholders](#how-to-identify-key-stakeholders)
+  - [How to collect and organize input](#how-to-collect-and-organize-input)
+  - [Build support for your strategy](#build-support-for-your-strategy)
 - [**4. You Have a Strategy, Now What?**](#4-you-have-a-strategy-now-what) (2 videos)
-  - Maintain your strategy
-  - How to implement a strategy
+  - [Maintain your strategy](#maintain-your-strategy)
+  - [How to implement a strategy](#how-to-implement-a-strategy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why you need a product strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980)
@@ -104,13 +104,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Product Development]] (1), management (1), teams (1), [[Engineering]] (1)
 > **Speakers:** - if (1), - or (1), - hi (1), - and (1), - [eldad] (1)
-> **Code Keywords:** let (1)
 
 
 ### 1. Product Strategy Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is product strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980)
@@ -197,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), teams (1), [[Microsoft Products|Products]] (1), traffic (1), business (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3), else. (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), imagine (1)
 > **Prerequisites:** set up (1)
@@ -269,7 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** product (5), teams (4), [[React.js|React]] (1), [[Microsoft Office|Office]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -358,8 +358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), business (3), traffic (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
 
@@ -456,7 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), throw (1)
+> **Frameworks & Libraries:** product (3), express (2), [[Microsoft Products|Products]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), aws (2)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), hbo (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -468,7 +468,7 @@ created: 2026-04-29
 
 ### 2. Filling in the Elevator Pitch Step by Step
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine your target customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980)
@@ -571,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (4), express (1), [[Representational State Transfer (REST)|Rest]] (1), [[Product Development]] (1)
 > **Env Vars:** bmw (7), crm (2)
-> **Code Keywords:** let (3), for. (1)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -674,7 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** product (3), [[Zoom]] (1), [[Search]] (1), [[Microsoft Products|Products]] (1), functional (1)
 > **Env Vars:** bmw (2), crm (2)
 > **Code Identifiers:** ipod (1)
 > **Definitions:** in other words (1)
@@ -766,8 +766,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (11), next (1)
 > **Env Vars:** crm (4), bmw (2)
-> **Code Keywords:** let (4), case, (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), it's like (1)
@@ -854,8 +854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), feature (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** bmw (4), crm (4)
-> **Code Keywords:** let (7)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
@@ -931,7 +931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), public (1)
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (2), [[Market Research]] (1), [[Customer Relations]] (1)
 > **Env Vars:** bmw (2), hbo (1), crm (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** be aware (1), note that (1)
@@ -1026,10 +1026,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), business (2), [[Microsoft Products|Products]] (1), feature (1), [[Engineering]] (1)
 > **Env Vars:** bmw (3), crm (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this. (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
@@ -1037,7 +1037,7 @@ created: 2026-04-29
 
 ### 3. How to Develop Product Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make strategy work
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/make-strategy-work-8536488?u=76281980)
@@ -1092,7 +1092,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - sometimes (1)
 
@@ -1167,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2)
+> **Frameworks & Libraries:** product (2), business (1), [[Business Development]] (1), management (1), [[Customer Support]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (2), cfo (1)
 > **Analogies:** for example (2)
@@ -1261,6 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Decision-Making]] (2), product (2), business (2), parallel (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cia (1)
 > **Definitions:** is a  (1)
@@ -1352,6 +1352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), product (1), business (1), data (1), leadership (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** roi (2), ceo (1)
 > **Cross-References:** go back to (1)
@@ -1362,7 +1363,7 @@ created: 2026-04-29
 
 ### 4. You Have a Strategy, Now What?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintain your strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980)
@@ -1431,8 +1432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - i (1)
 
 #### How to implement a strategy
@@ -1502,6 +1503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (13), [[Product Development]] (3), business (2), leadership (1), next (1)
 > **Analogies:** just like (2), imagine (1), for example (1), picture (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -1512,7 +1514,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980)
@@ -1581,8 +1583,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (2), next (1), management (1), [[Financial Analysis]] (1)
 > **Speakers:** - congratulations (1), - step (1), - now (1), - and (1), - finally (1)
-> **Code Keywords:** continue (1), finally, (1)
 
 
 ## Instructor

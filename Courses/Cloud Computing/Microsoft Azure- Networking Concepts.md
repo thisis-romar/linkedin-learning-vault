@@ -28,7 +28,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Azure-%20Networking%20Concepts.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understand Microsoft Azure networking concepts
-  - What you should know
+  - [Understand Microsoft Azure networking concepts](#understand-microsoft-azure-networking-concepts)
+  - [What you should know](#what-you-should-know)
 - [**1. Core Networking Concepts**](#1-core-networking-concepts) (4 videos)
-  - Understanding Azure networking components
-  - Introduction to the Azure management portal
-  - Introduction to Azure networking resources
-  - Using Copilot for Azure Virtual Networking
+  - [Understanding Azure networking components](#understanding-azure-networking-components)
+  - [Introduction to the Azure management portal](#introduction-to-the-azure-management-portal)
+  - [Introduction to Azure networking resources](#introduction-to-azure-networking-resources)
+  - [Using Copilot for Azure Virtual Networking](#using-copilot-for-azure-virtual-networking)
 - [**2. Manage Azure Virtual Networking for Existing Resources**](#2-manage-azure-virtual-networking-for-existing-resources) (4 videos)
-  - Manage virtual networking for a virtual machine
-  - Manage virtual networking for a storage account
-  - Manage virtual networking for a database
-  - Manage network security groups
+  - [Manage virtual networking for a virtual machine](#manage-virtual-networking-for-a-virtual-machine)
+  - [Manage virtual networking for a storage account](#manage-virtual-networking-for-a-storage-account)
+  - [Manage virtual networking for a database](#manage-virtual-networking-for-a-database)
+  - [Manage network security groups](#manage-network-security-groups)
 - [**3. Create and Configure New Azure Networking Resources**](#3-create-and-configure-new-azure-networking-resources) (5 videos)
-  - Creating virtual networks
-  - Managing virtual networks
-  - Creating an Azure load balancer
-  - Creating public IP prefixes and addresses
-  - Create an Azure Firewall
+  - [Creating virtual networks](#creating-virtual-networks)
+  - [Managing virtual networks](#managing-virtual-networks)
+  - [Creating an Azure load balancer](#creating-an-azure-load-balancer)
+  - [Creating public IP prefixes and addresses](#creating-public-ip-prefixes-and-addresses)
+  - [Create an Azure Firewall](#create-an-azure-firewall)
 - [**4. Connecting Your On-Premises Network to Azure**](#4-connecting-your-on-premises-network-to-azure) (3 videos)
-  - Creating Azure ExpressRoute
-  - Creating an Azure Private Link service
-  - Creating a virtual network gateway to support a VPN
+  - [Creating Azure ExpressRoute](#creating-azure-expressroute)
+  - [Creating an Azure Private Link service](#creating-an-azure-private-link-service)
+  - [Creating a virtual network gateway to support a VPN](#creating-a-virtual-network-gateway-to-support-a-vpn)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about Azure networking
+  - [Learning more about Azure networking](#learning-more-about-azure-networking)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Microsoft Azure networking concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980)
@@ -95,6 +95,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), cloud (1), feature (1)
 > **Speakers:** - in (1)
 
 #### What you should know
@@ -120,7 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), cloud (3), [[Routing]] (1), [[Virtual Machines]] (1), [[Databases]] (1)
 > **Env Vars:** tcp (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -129,7 +130,7 @@ created: 2026-04-29
 
 ### 1. Core Networking Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Azure networking components
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980)
@@ -196,11 +197,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), dns (5), cloud (3), [[Microsoft]] (2), data (2)
 > **Env Vars:** dns (5), wan (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Introduction to the Azure management portal
@@ -304,8 +305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), cloud (11), [[Powershell]] (4), management (3), [[Scripting]] (2)
 > **Tools:** powershell (4), azure portal (3), command line (3), bash (2)
-> **Code Keywords:** interface (7), let (1)
 > **UI Navigation:** click on (3), select the (2), go to (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** configure (3)
@@ -448,8 +449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), data (5), cloud (4), [[Microsoft Azure]] (3), dns (3)
 > **Env Vars:** sku (4), dns (3), ipv (2), json (2), vpn (1)
-> **Code Keywords:** public (8), interface (2), let (1), static (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2), similar to (1)
@@ -536,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (4), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), [[Microsoft Azure|Azure]] (6), [[Microsoft]] (3), [[Microsoft Copilot]] (3), [[Microsoft Products]] (1)
 > **Tools:** azure portal (3)
 > **UI Navigation:** click on (1), navigate to (1)
 > **Definitions:** is a  (1)
@@ -547,7 +548,7 @@ created: 2026-04-29
 
 ### 2. Manage Azure Virtual Networking for Existing Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage virtual networking for a virtual machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980)
@@ -708,7 +709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (12), public (11), private (4), abstract (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Network Security]] (5), dns (4), [[Security]] (2), [[Linux]] (1)
 > **Env Vars:** vm1 (5), dns (4), ipv4 (1), ipv6 (1), cidr (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (2)
@@ -825,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), public (6), this, (2), interface (2), let (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Network Security]] (5), data (4), database (4), [[Security]] (2)
 > **UI Navigation:** click on (5), go to (2)
 > **Env Vars:** cname (2), dns (2), vm1 (1)
 > **URLs:** [contoso.com](https://contoso.com) (3)
@@ -957,7 +958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (11), public (8), default, (1), interface (1), type. (1)
+> **Frameworks & Libraries:** database (20), [[SQL]] (7), [[Microsoft Azure|Azure]] (6), [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (3)
 > **Env Vars:** sql (13), tls (3), dns (1)
 > **UI Navigation:** click on (6)
 > **Versions:** 1.2 (2), 1.3 (1)
@@ -1087,7 +1088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (3), let (2), case, (2), interface (1), match, (1)
+> **Frameworks & Libraries:** [[Network Security]] (10), next (4), [[Security]] (3), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** means that (3), is an  (3), is a  (2)
 > **Env Vars:** tcp (3), ssh (2), rdp (1)
 > **UI Navigation:** go to (4), click on (1)
@@ -1099,7 +1100,7 @@ created: 2026-04-29
 
 ### 3. Create and Configure New Azure Networking Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating virtual networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980)
@@ -1216,7 +1217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), private (2), public (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), traffic (5), next (4), [[Security]] (3), [[Virtual Machines]] (3)
 > **Definitions:** is a  (7)
 > **UI Navigation:** click on (5), select the (1)
 > **Env Vars:** rdp (3), vpn (1)
@@ -1360,7 +1361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), private (2), interface (1), function (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Defender|Defender]] (2), cloud (2), [[Security]] (2), [[Virtual Machines]] (2)
 > **Env Vars:** rbac (2), nic (1), vpn (1), dns (1)
 > **Analogies:** for example (3), such as (1), similar to (1)
 > **Definitions:** is a  (2), means that (2)
@@ -1496,7 +1497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), private (3), let (1), interface (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (5), next (3), [[Routing]] (2), data (1)
 > **Env Vars:** sku (4), vm1 (3), isp (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1)
@@ -1552,7 +1553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), static (2), continue (1), else, (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
 > **Definitions:** is an  (2), essentially is (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1642,8 +1643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), management (5), [[Microsoft Azure]] (2), feature (2), product (2)
 > **Env Vars:** sku (6), ssl (3), idps (1), nic (1)
-> **Code Keywords:** public (1), from, (1), let (1), case, (1), else. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1), for example (1)
 > **Prerequisites:** configure (2)
@@ -1653,7 +1654,7 @@ created: 2026-04-29
 
 ### 4. Connecting Your On-Premises Network to Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating Azure ExpressRoute
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980)
@@ -1756,7 +1757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), let (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Resiliency]] (7), [[Microsoft]] (4), data (3), [[Search]] (3)
 > **UI Navigation:** select the (5), click on (1)
 > **Env Vars:** sku (4), vpn (1)
 > **Definitions:** means that (2), basically means (1), is called (1), is a  (1)
@@ -1812,7 +1813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (15), let (1), public (1), require (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Virtual Machines]] (6), application (3), express (1), [[Microsoft]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
@@ -1957,8 +1958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), vpn (16), [[Virtual Private Network (VPN)|Virtual private network]] (5), [[Hardware]] (2), [[Routing]] (2)
 > **Env Vars:** vpn (16), sku (2), bgp (2)
-> **Code Keywords:** private (6), let (4), public (3), type. (1)
 > **UI Navigation:** click on (5), select the (1)
 > **Definitions:** is a  (4)
 > **Warnings:** note that (1)
@@ -1968,7 +1969,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about Azure networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/learning-more-about-azure-networking?u=76281980)
@@ -1987,6 +1988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [instructor] (1)

@@ -35,7 +35,7 @@ tags:
   - skill/powershell
   - skill/it-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/PowerShell-%20Automating%20IT%20Administration.md)
@@ -54,35 +54,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - IT automation with PowerShell
-  - What you should know
+  - [IT automation with PowerShell](#it-automation-with-powershell)
+  - [What you should know](#what-you-should-know)
 - [**1. Creating Reusable Code Using PowerShell**](#1-creating-reusable-code-using-powershell) (7 videos)
-  - Why automate IT administration tasks?
-  - What are PowerShell modules, and why are they useful?
-  - Using conditional statements and comparisons
-  - Looping constructs for data manipulation
-  - Manipulating data with logic tests and loops
-  - Working with arrays and hash tables
-  - Understanding PowerShell error handling
+  - [Why automate IT administration tasks?](#why-automate-it-administration-tasks)
+  - [What are PowerShell modules, and why are they useful?](#what-are-powershell-modules-and-why-are-they-useful)
+  - [Using conditional statements and comparisons](#using-conditional-statements-and-comparisons)
+  - [Looping constructs for data manipulation](#looping-constructs-for-data-manipulation)
+  - [Manipulating data with logic tests and loops](#manipulating-data-with-logic-tests-and-loops)
+  - [Working with arrays and hash tables](#working-with-arrays-and-hash-tables)
+  - [Understanding PowerShell error handling](#understanding-powershell-error-handling)
 - [**2. Remote and Delegated Administration**](#2-remote-and-delegated-administration) (6 videos)
-  - Understanding delegated administration in PowerShell
-  - Configuring remote access settings
-  - Configuring remote management settings
-  - Managing remote sessions and connections
-  - Connecting to Windows Servers remotely and performing tasks
-  - Performing remote administration tasks
+  - [Understanding delegated administration in PowerShell](#understanding-delegated-administration-in-powershell)
+  - [Configuring remote access settings](#configuring-remote-access-settings)
+  - [Configuring remote management settings](#configuring-remote-management-settings)
+  - [Managing remote sessions and connections](#managing-remote-sessions-and-connections)
+  - [Connecting to Windows Servers remotely and performing tasks](#connecting-to-windows-servers-remotely-and-performing-tasks)
+  - [Performing remote administration tasks](#performing-remote-administration-tasks)
 - [**3. Creating and Scheduling Tasks and Jobs**](#3-creating-and-scheduling-tasks-and-jobs) (5 videos)
-  - Understanding PowerShell background jobs
-  - Creating and managing background jobs
-  - Monitoring and retrieving results of background jobs
-  - Automating administrative tasks with scheduled jobs
-  - Creating scheduled tasks within Windows
+  - [Understanding PowerShell background jobs](#understanding-powershell-background-jobs)
+  - [Creating and managing background jobs](#creating-and-managing-background-jobs)
+  - [Monitoring and retrieving results of background jobs](#monitoring-and-retrieving-results-of-background-jobs)
+  - [Automating administrative tasks with scheduled jobs](#automating-administrative-tasks-with-scheduled-jobs)
+  - [Creating scheduled tasks within Windows](#creating-scheduled-tasks-within-windows)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IT automation with PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980)
@@ -99,6 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** powershell (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [liam] (1)
@@ -122,16 +123,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Scripting]] (1), [[Windows]] (1)
 > **Tools:** powershell (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Creating Reusable Code Using PowerShell
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why automate IT administration tasks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980)
@@ -186,10 +187,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), [[Powershell]] (4), [[Windows]] (4), [[Scripting]] (2), [[Programming]] (2)
 > **Tools:** powershell (4), command line (1)
 > **Env Vars:** xml (1), json (1), csv (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** require (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -258,7 +259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (17), finally, (3), private (2), public (2), self (1)
+> **Frameworks & Libraries:** [[Powershell]] (20), [[Automation]] (2), [[GitHub]] (1), [[Windows Server]] (1), [[Windows]] (1)
 > **Tools:** powershell (20), github (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** install (3)
@@ -566,7 +567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), switch (6), this, (4), else. (3), else, (3)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Windows]] (6), [[JSON]] (6), data (6), [[Microsoft Word|Word]] (4)
 > **Tools:** powershell (10), visual studio (3), windows terminal (1)
 > **CLI Commands:** make (7), find (2)
 > **Env Vars:** json (6), ram (1)
@@ -896,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (2), this. (2), while, (2), else. (2)
+> **Frameworks & Libraries:** data (4), [[JSON]] (3), [[Powershell]] (2), [[Microsoft Word|Word]] (2), next (1)
 > **Definitions:** is a  (5), means that (1)
 > **Analogies:** for example (5), just like (1)
 > **UI Navigation:** select the (2), go to (2), click on (1)
@@ -1112,7 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), switch (3), else, (1)
+> **Frameworks & Libraries:** data (9), [[Powershell]] (4), database (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), scroll up (1), select the (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** powershell (4)
@@ -1350,7 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (3), function (2), this, (1), else, (1)
+> **Frameworks & Libraries:** data (7), [[Powershell]] (5), [[Windows]] (2), [[JSON]] (2), next (1)
 > **CLI Commands:** make (6), find (1)
 > **Tools:** powershell (5)
 > **UI Navigation:** select the (1), scroll up (1), click on (1)
@@ -1365,7 +1366,7 @@ created: 2026-04-29
 
 ### 2. Remote and Delegated Administration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding delegated administration in PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980)
@@ -1444,8 +1445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Security]] (6), teams (3), feature (1), functional (1)
 > **Tools:** powershell (12)
-> **Code Keywords:** let (2), finally, (1), function (1), this. (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1755,7 +1756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), module (13), this. (3), this, (2), export, (1)
+> **Frameworks & Libraries:** [[Powershell]] (15), [[Security]] (5), [[Windows]] (3), [[Representational State Transfer (REST)|Rest]] (2), management (1)
 > **Env Vars:** jea (12), win (3), psrc (1), pssc (1), psd (1)
 > **Tools:** powershell (15), visual studio (1)
 > **CLI Commands:** make (3), rm (3), find (2)
@@ -2067,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), pass (4), super (2), default. (1), else. (1)
+> **Frameworks & Libraries:** [[Powershell]] (20), [[Windows]] (17), [[Linux]] (11), [[Ubuntu]] (9), management (1)
 > **CLI Commands:** ssh (15), make (7), wget (3), find (2), sudo (2)
 > **Tools:** powershell (20), terminal (2), visual studio (1)
 > **Env Vars:** ssh (15), hdp (1), tcp (1), url (1), win (1)
@@ -2339,7 +2340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), module (7), delete (2), continue (1), default. (1)
+> **Frameworks & Libraries:** [[Powershell]] (8), [[Active Directory]] (5), [[Windows]] (4), [[Linux]] (2), [[Windows Server]] (2)
 > **Tools:** powershell (8)
 > **Env Vars:** sim (3), wmi (2), jea (1)
 > **Definitions:** is a  (4), means that (1)
@@ -2545,7 +2546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), interface (1), function (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows]] (4), web (3), [[Windows Server]] (2), [[Active Directory]] (2)
 > **CLI Commands:** make (6)
 > **Prerequisites:** install (3), configure (2)
 > **Tools:** powershell (4)
@@ -2859,7 +2860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (18), let (10), this. (4), this, (4), from. (2)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Powershell]] (6), data (3), [[Microsoft Word|Word]] (3), [[Microsoft]] (2)
 > **CLI Commands:** find (8), make (1)
 > **Prerequisites:** install (9)
 > **Tools:** powershell (6), visual studio (2)
@@ -2871,7 +2872,7 @@ created: 2026-04-29
 
 ### 3. Creating and Scheduling Tasks and Jobs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding PowerShell background jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980)
@@ -2928,9 +2929,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (8), data (3), [[Security]] (3), [[Automation]] (2), application (1)
 > **Tools:** powershell (8)
 > **Analogies:** such as (4)
-> **Code Keywords:** continue (1), finally, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3177,7 +3178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (7), interface (6), this. (2), return. (1)
+> **Frameworks & Libraries:** [[Powershell]] (4)
 > **Tools:** powershell (4), visual studio (2)
 > **Cross-References:** go back to (3), we discussed (1)
 > **CLI Commands:** find (2), make (1)
@@ -3409,7 +3410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Powershell]] (2), [[IT Automation]] (1), [[Scripting]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** pss (1), sim (1)
 > **Cross-References:** go back to (2)
@@ -3579,10 +3580,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (23), [[Windows]] (4), [[Automation]] (1), data (1), business (1)
 > **Tools:** powershell (23)
 > **Analogies:** for example (4), such as (4)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (2)
 > **CLI Commands:** python (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - so (1)
@@ -3593,7 +3594,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980)
@@ -3626,6 +3627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (10), next (2), [[Windows]] (1), [[Linux]] (1), [[GitHub]] (1)
 > **Tools:** powershell (10), github (1)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** macos (1)

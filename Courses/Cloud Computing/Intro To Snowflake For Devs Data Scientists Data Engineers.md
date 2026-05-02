@@ -32,7 +32,7 @@ tags:
   - skill/data-engineering
   - skill/snowflake
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Intro%20To%20Snowflake%20For%20Devs%20Data%20Scientists%20Data%20Engineers.md)
@@ -51,93 +51,93 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Intro and course overview
+  - [Intro and course overview](#intro-and-course-overview)
 - [**1. Worksheets**](#1-worksheets) (2 videos)
-  - Worksheets and a simple example: Part 1
-  - Worksheets and a simple example: Part 2
+  - [Worksheets and a simple example: Part 1](#worksheets-and-a-simple-example-part-1)
+  - [Worksheets and a simple example: Part 2](#worksheets-and-a-simple-example-part-2)
 - [**2. Virtual Warehouses**](#2-virtual-warehouses) (3 videos)
-  - Virtual warehouses overview
-  - Virtual warehouses scaling: Part 1
-  - Virtual warehouses scaling: Part 2
+  - [Virtual warehouses overview](#virtual-warehouses-overview)
+  - [Virtual warehouses scaling: Part 1](#virtual-warehouses-scaling-part-1)
+  - [Virtual warehouses scaling: Part 2](#virtual-warehouses-scaling-part-2)
 - [**3. Stages and Basic Ingestion**](#3-stages-and-basic-ingestion) (2 videos)
-  - Stages and basic ingestion: Part 1
-  - Stages and basic ingestion: Part 2
+  - [Stages and basic ingestion: Part 1](#stages-and-basic-ingestion-part-1)
+  - [Stages and basic ingestion: Part 2](#stages-and-basic-ingestion-part-2)
 - [**4. Databases and Schemas**](#4-databases-and-schemas) (2 videos)
-  - Databases and schemas: Part I
-  - Databases and schemas: Part 2
+  - [Databases and schemas: Part I](#databases-and-schemas-part-i)
+  - [Databases and schemas: Part 2](#databases-and-schemas-part-2)
 - [**5. Tables**](#5-tables) (2 videos)
-  - Tables: Part 1
-  - Tables: Part 2
+  - [Tables: Part 1](#tables-part-1)
+  - [Tables: Part 2](#tables-part-2)
 - [**6. Views**](#6-views) (2 videos)
-  - Views: Part 1
-  - Views: Part 2
+  - [Views: Part 1](#views-part-1)
+  - [Views: Part 2](#views-part-2)
 - [**7. Semistructured Data**](#7-semistructured-data) (2 videos)
-  - Semistructured data types
-  - Semistructured data manipulation
+  - [Semistructured data types](#semistructured-data-types)
+  - [Semistructured data manipulation](#semistructured-data-manipulation)
 - [**8. Snowflake Architecture**](#8-snowflake-architecture) (2 videos)
-  - Snowflake architecture overview
-  - Wrap-up of Snowflake’s core objects and architecture
+  - [Snowflake architecture overview](#snowflake-architecture-overview)
+  - [Wrap-up of Snowflake’s core objects and architecture](#wrap-up-of-snowflakes-core-objects-and-architecture)
 - [**9. Time Travel**](#9-time-travel) (3 videos)
-  - Intro to Snowflake feature overview
-  - Time travel: Part 1
-  - Time travel: Part 2
+  - [Intro to Snowflake feature overview](#intro-to-snowflake-feature-overview)
+  - [Time travel: Part 1](#time-travel-part-1)
+  - [Time travel: Part 2](#time-travel-part-2)
 - [**10. Table Types**](#10-table-types) (1 videos)
-  - Permanent, transient, and temporary tables
+  - [Permanent, transient, and temporary tables](#permanent-transient-and-temporary-tables)
 - [**11. Cloning**](#11-cloning) (1 videos)
-  - Cloning
+  - [Cloning](#cloning)
 - [**12. Resource Monitors**](#12-resource-monitors) (1 videos)
-  - Resource monitors
+  - [Resource monitors](#resource-monitors)
 - [**13. User-Defined Functions (UDFs)**](#13-user-defined-functions-udfs) (3 videos)
-  - User-defined functions (UDFs): Part 1
-  - User-defined functions (UDFs): Part 2
-  - User-defined table functions (UDTFs)
+  - [User-defined functions (UDFs): Part 1](#user-defined-functions-udfs-part-1)
+  - [User-defined functions (UDFs): Part 2](#user-defined-functions-udfs-part-2)
+  - [User-defined table functions (UDTFs)](#user-defined-table-functions-udtfs)
 - [**14. Stored Procedures**](#14-stored-procedures) (2 videos)
-  - Stored procedures: Part 1
-  - Stored procedures: Part 2
+  - [Stored procedures: Part 1](#stored-procedures-part-1)
+  - [Stored procedures: Part 2](#stored-procedures-part-2)
 - [**15. Role-based Access Control (RBAC)**](#15-role-based-access-control-rbac) (2 videos)
-  - Role-based access control (RBAC): Part 1
-  - Role-based access control (RBAC): Part 2
+  - [Role-based access control (RBAC): Part 1](#role-based-access-control-rbac-part-1)
+  - [Role-based access control (RBAC): Part 2](#role-based-access-control-rbac-part-2)
 - [**16. Snowpark DataFrames and VS Code Extension**](#16-snowpark-dataframes-and-vs-code-extension) (3 videos)
-  - VS Code extension
-  - Snowpark DataFrames: Part 1
-  - Snowpark DataFrames: Part 2
+  - [VS Code extension](#vs-code-extension)
+  - [Snowpark DataFrames: Part 1](#snowpark-dataframes-part-1)
+  - [Snowpark DataFrames: Part 2](#snowpark-dataframes-part-2)
 - [**17. Snowflake CLI**](#17-snowflake-cli) (2 videos)
-  - Snowflake CLI
-  - Wrap-up of Snowflake feature overview
+  - [Snowflake CLI](#snowflake-cli)
+  - [Wrap-up of Snowflake feature overview](#wrap-up-of-snowflake-feature-overview)
 - [**18. Data Engineering with Snowflake**](#18-data-engineering-with-snowflake) (3 videos)
-  - Intro to overview of builder workloads
-  - Snowflake data engineering overview: Part 1
-  - Snowflake data engineering overview: Part 2
+  - [Intro to overview of builder workloads](#intro-to-overview-of-builder-workloads)
+  - [Snowflake data engineering overview: Part 1](#snowflake-data-engineering-overview-part-1)
+  - [Snowflake data engineering overview: Part 2](#snowflake-data-engineering-overview-part-2)
 - [**19. Ingesting Data with Snowpipe**](#19-ingesting-data-with-snowpipe) (2 videos)
-  - Snowpipe: Part 1
-  - Snowpipe: Part 2
+  - [Snowpipe: Part 1](#snowpipe-part-1)
+  - [Snowpipe: Part 2](#snowpipe-part-2)
 - [**20. GenAI with Snowflake**](#20-genai-with-snowflake) (2 videos)
-  - Snowflake genAI overview: Part 1
-  - Snowflake genAI overview: Part 2
+  - [Snowflake genAI overview: Part 1](#snowflake-genai-overview-part-1)
+  - [Snowflake genAI overview: Part 2](#snowflake-genai-overview-part-2)
 - [**21. Snowflake Cortex LLM Functions**](#21-snowflake-cortex-llm-functions) (2 videos)
-  - Snowflake Cortex LLM functions: Part 1
-  - Snowflake Cortex LLM functions: Part 2
+  - [Snowflake Cortex LLM functions: Part 1](#snowflake-cortex-llm-functions-part-1)
+  - [Snowflake Cortex LLM functions: Part 2](#snowflake-cortex-llm-functions-part-2)
 - [**22. Machine Learning with Snowflake**](#22-machine-learning-with-snowflake) (2 videos)
-  - Snowflake ML overview: Part 1
-  - Snowflake ML overview: Part 2
+  - [Snowflake ML overview: Part 1](#snowflake-ml-overview-part-1)
+  - [Snowflake ML overview: Part 2](#snowflake-ml-overview-part-2)
 - [**23. Snowpark ML Modeling**](#23-snowpark-ml-modeling) (3 videos)
-  - Snowpark ML modeling: Part 1
-  - Snowpark ML modeling: Part 2
-  - Snowpark ML modeling: Part 3
+  - [Snowpark ML modeling: Part 1](#snowpark-ml-modeling-part-1)
+  - [Snowpark ML modeling: Part 2](#snowpark-ml-modeling-part-2)
+  - [Snowpark ML modeling: Part 3](#snowpark-ml-modeling-part-3)
 - [**24. Applications with Snowflake**](#24-applications-with-snowflake) (2 videos)
-  - Snowflake applications overview: Part 1
-  - Snowflake applications overview: Part 2
+  - [Snowflake applications overview: Part 1](#snowflake-applications-overview-part-1)
+  - [Snowflake applications overview: Part 2](#snowflake-applications-overview-part-2)
 - [**25. Streamlit in Snowflake**](#25-streamlit-in-snowflake) (2 videos)
-  - Streamlit in Snowflake: Part 1
-  - Streamlit in Snowflake: Part 2
+  - [Streamlit in Snowflake: Part 1](#streamlit-in-snowflake-part-1)
+  - [Streamlit in Snowflake: Part 2](#streamlit-in-snowflake-part-2)
 - [**26. The Data Cloud**](#26-the-data-cloud) (3 videos)
-  - The data cloud
-  - Wrap-up of overview of builder workloads
-  - Course conclusion
+  - [The data cloud](#the-data-cloud)
+  - [Wrap-up of overview of builder workloads](#wrap-up-of-overview-of-builder-workloads)
+  - [Course conclusion](#course-conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro and course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980)
@@ -250,9 +250,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (40), data (32), cloud (5), [[Python (Programming Language)|Python]] (5), [[Data Engineering]] (4)
 > **CLI Commands:** python (5), make (2)
 > **Env Vars:** sql (4), select (1), order (1), group (1)
-> **Code Keywords:** let (2), abstract (1), function (1), for, (1)
 > **SQL:** select (1), order by (1), group by (1)
 > **Analogies:** for example (2)
 > **Non-Speech:** (upbeat music) (2)
@@ -262,7 +262,7 @@ created: 2026-04-29
 
 ### 1. Worksheets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Worksheets and a simple example: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980)
@@ -395,10 +395,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (12), [[SQL]] (9), data (9), [[Python (Programming Language)|Python]] (2), next (2)
 > **Env Vars:** sql (9), warehouse (1), select (1), count (1)
 > **CLI Commands:** python (2), make (1)
 > **Code Identifiers:** row_count (1), tasty_bytes_sample_data (1), raw_pos (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
@@ -487,9 +487,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (1), [[Snowflake]] (1), [[SQL]] (1)
 > **Env Vars:** select (5), truck_brand_name (5), group (5), menu_type (5), order (4)
 > **SQL:** select (5), group by (5), order by (4)
-> **Code Keywords:** let (6), this, (1), for. (1), case, (1)
 > **Code Identifiers:** tasty_bytes_sample_data (4), raw_pos (4), row_count (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the last (2), go back to (1)
@@ -499,7 +499,7 @@ created: 2026-04-29
 
 ### 2. Virtual Warehouses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Virtual warehouses overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980)
@@ -638,7 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), switch (6), type, (1)
+> **Frameworks & Libraries:** [[Snowflake]] (7), data (5), [[SQL]] (3), aws (2), gcp (1)
 > **Env Vars:** sql (3), aws (2), gcp (1), cpu (1), dml (1)
 > **UI Navigation:** click on (5), go to (1), scroll down (1)
 > **CLI Commands:** aws (2), make (2), python (1)
@@ -724,7 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (3), require (1), this. (1)
+> **Frameworks & Libraries:** power (3), [[Snowflake]] (1), next (1), data (1)
 > **Cross-References:** go back to (1), in the next (1), we talked about (1), coming up (1)
 > **UI Navigation:** click on (1), dropdown (1), go to (1)
 > **Definitions:** is a  (1)
@@ -856,7 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), default, (1), default. (1)
+> **Frameworks & Libraries:** data (5), [[Snowflake]] (1), concurrent (1), [[Microsoft Word|Word]] (1), [[SQL]] (1)
 > **UI Navigation:** toggle (2), go to (1), click on (1), open the (1), dropdown (1)
 > **Code Identifiers:** warehouse_vino (5)
 > **CLI Commands:** make (4)
@@ -868,7 +868,7 @@ created: 2026-04-29
 
 ### 3. Stages and Basic Ingestion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stages and basic ingestion: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980)
@@ -979,7 +979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (2), finally, (2), this, (1), this. (1)
+> **Frameworks & Libraries:** data (19), [[Snowflake]] (9), cloud (5), next (5), database (1)
 > **Env Vars:** url (2), csv (1), aws (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1103,7 +1103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), public (1), this, (1), while. (1)
+> **Frameworks & Libraries:** data (9), [[Snowflake]] (5), database (2), [[Analytics]] (1), cloud (1)
 > **CLI Commands:** ls (1), make (1), find (1)
 > **Cross-References:** we covered (2), previous video (1)
 > **UI Navigation:** go to (1), dropdown (1)
@@ -1115,7 +1115,7 @@ created: 2026-04-29
 
 ### 4. Databases and Schemas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Databases and schemas: Part I
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980)
@@ -1224,9 +1224,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (27), [[Databases]] (14), [[Snowflake]] (4), data (3), [[Metadata]] (3)
 > **UI Navigation:** click on (8), go to (1)
 > **Env Vars:** raw_pos (4), copy (1), into (1), select (1), database (1)
-> **Code Keywords:** let (4), finally, (1), delete (1), public (1)
 > **Cross-References:** we discussed (1), in the last (1), coming up (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -1354,7 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (5), case, (1), super (1)
+> **Frameworks & Libraries:** database (44), [[Databases]] (10), data (3), [[Snowflake]] (3), next (3)
 > **UI Navigation:** go to (3), click on (3), dropdown (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
@@ -1366,7 +1366,7 @@ created: 2026-04-29
 
 ### 5. Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tables: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980)
@@ -1469,8 +1469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Snowflake]] (8), database (4), [[Databases]] (2), next (2)
 > **Env Vars:** double (4), varchar (4), number (3), test (2), database (2)
-> **Code Keywords:** let (8), finally, (1)
 > **SQL:** varchar (4), select (2), integer (1), boolean (1), create table (1)
 > **CLI Commands:** make (7), python (1)
 > **UI Navigation:** go to (1)
@@ -1581,7 +1581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from, (1), this, (1)
+> **Frameworks & Libraries:** database (9), data (5), [[Databases]] (4), [[Snowflake]] (4), [[Metadata]] (2)
 > **Cross-References:** previous video (2), go back to (1)
 > **CLI Commands:** make (2)
 > **SQL:** varchar (2)
@@ -1593,7 +1593,7 @@ created: 2026-04-29
 
 ### 6. Views
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Views: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980)
@@ -1704,9 +1704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (3), data (2), [[Metadata]] (2), [[Snowflake]] (1), [[SQL]] (1)
 > **Env Vars:** view (12), create (7), show (7), select (4), views (4)
 > **Code Identifiers:** frostbyte_tasty_bytes (6), brand_names (4), truck_brand_name (1), raw_pos (1)
-> **Code Keywords:** let (4), case, (2), case. (1), type, (1)
 > **SQL:** select (4)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** for example (1)
@@ -1804,9 +1804,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Orchestration]] (2), [[JSON]] (2), [[Microsoft Word|Word]] (1), [[Snowflake]] (1)
 > **Env Vars:** materialized (6), view (6), describe (4), create (2), select (2)
 > **Code Identifiers:** brand_names_materialized (4), frostbyte_tasty_bytes (4), truck_brand_name (1), raw_pos (1), is_materialized (1)
-> **Code Keywords:** let (5)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** note that (3)
 > **SQL:** select (2)
@@ -1816,7 +1816,7 @@ created: 2026-04-29
 
 ### 7. Semistructured Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Semistructured data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980)
@@ -1967,8 +1967,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (50), [[Snowflake]] (11), [[JSON]] (7), [[Unstructured Data]] (1), [[Relational Databases]] (1)
 > **Code Identifiers:** frostbyte_tasty_bytes (9), raw_pos (9), test_menu (4), menu_item_health_metrics_obj (3), menu_item_id (1)
-> **Code Keywords:** type, (8), type. (8), let (4), this, (2), case, (1)
 > **Env Vars:** json (7), xml (2), obj (2), orc (1), sql (1)
 > **Definitions:** is a  (4), is an  (2), means that (1)
 > **CLI Commands:** make (2), python (1)
@@ -2141,10 +2141,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[JSON]] (8), [[Snowflake]] (5), [[Analytics]] (3), next (2)
 > **Env Vars:** select (19), raw_pos (17), frostbytes_tasty_bytes (16), lateral (9), flatten (9)
 > **Code Identifiers:** menu_item_health_metrics (15), menu_item_health_metrics_obj (3), frostbytes_tasty_bytes (3), raw_pos (2), menu_item_d (1)
 > **SQL:** select (19), create table (5)
-> **Code Keywords:** let (7), function (4), this. (4), this, (2), case, (2)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (2)
@@ -2153,7 +2153,7 @@ created: 2026-04-29
 
 ### 8. Snowflake Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Snowflake architecture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980)
@@ -2260,8 +2260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (18), data (12), cloud (6), [[Metadata]] (2), business (2)
 > **Cross-References:** we talked about (4), we mentioned (1), we covered (1)
-> **Code Keywords:** while, (1), case, (1), let (1), abstract (1)
 > **Env Vars:** json (1), sql (1), etl (1), elt (1)
 > **Analogies:** for example (2), picture (1), imagine (1)
 > **CLI Commands:** apache (1), python (1), make (1)
@@ -2308,7 +2308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Databases]] (2), [[SQL]] (1), data (1), cloud (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
@@ -2317,7 +2317,7 @@ created: 2026-04-29
 
 ### 9. Time Travel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Snowflake feature overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-snowflake-feature-overview?u=76281980)
@@ -2354,7 +2354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), this. (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), next (2), data (1)
 > **Non-Speech:** (upbeat music) (2)
 > **Cross-References:** we covered (1)
 > **Speakers:** - in (1)
@@ -2430,7 +2430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), let (1), this. (1), pass (1)
+> **Frameworks & Libraries:** data (13), [[Snowflake]] (9), database (1), [[Databases]] (1), feature (1)
 > **Cross-References:** in the last (2), go back to (1), in the next (1)
 > **Code Identifiers:** frostbyte_tasty (1), raw_pos (1), test_menu (1)
 > **Definitions:** is a  (1)
@@ -2656,7 +2656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), pass (2), this, (2), this. (1), case, (1)
+> **Frameworks & Libraries:** data (16), [[Snowflake]] (7), next (1)
 > **Code Identifiers:** frostbyte_tasty_bytes (4), truck_dev (4), good_data_timestamp (4), raw_pos (3), good_data (3)
 > **CLI Commands:** make (7)
 > **UI Navigation:** select the (2), click on (1)
@@ -2668,7 +2668,7 @@ created: 2026-04-29
 
 ### 10. Table Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Permanent, transient, and temporary tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980)
@@ -2819,7 +2819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case. (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), data (4), [[Databases]] (2), [[Microsoft Word|Word]] (2), next (1)
 > **Code Identifiers:** frostybyte_tasty_bytes (2), raw_pos (2), data_retention_time_in_days (2), truck_transient (1)
 > **Cross-References:** in the last (2), we talked about (1), we mentioned (1)
 > **CLI Commands:** make (2)
@@ -2830,7 +2830,7 @@ created: 2026-04-29
 
 ### 11. Cloning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloning
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980)
@@ -2965,8 +2965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (6), [[Snowflake]] (5), [[Databases]] (4), [[Metadata]] (1)
 > **Env Vars:** table (9), truck (6), clone (6), name (6), create (4)
-> **Code Keywords:** let (9), public (1), while, (1), case, (1)
 > **SQL:** select (4), where (3), create table (1), insert into (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
@@ -2975,7 +2975,7 @@ created: 2026-04-29
 
 ### 12. Resource Monitors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resource monitors
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980)
@@ -3158,8 +3158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (3), hit (3), data (2), [[Cost Management]] (2)
 > **Env Vars:** resource (8), show (5), monitors (5), drop (3), monitor (3)
-> **Code Keywords:** let (19), this, (2), switch (1), case, (1)
 > **Code Identifiers:** tasty_test_rm (6), first_resource_monitor (1), tasty_de_wh (1)
 > **UI Navigation:** go to (5), click on (2)
 > **CLI Commands:** make (4), find (1)
@@ -3170,7 +3170,7 @@ created: 2026-04-29
 
 ### 13. User-Defined Functions (UDFs)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### User-defined functions (UDFs): Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980)
@@ -3281,7 +3281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (5), case. (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), next (3), database (3), [[SQL]] (1), data (1)
 > **Env Vars:** udf (6), abs (2), usd (2), sql (1)
 > **UI Navigation:** scroll down (2), dropdown (1)
 > **Analogies:** for example (1), imagine (1), similar to (1)
@@ -3395,8 +3395,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[SQL]] (9), data (2), [[JavaScript]] (1), [[Java]] (1)
 > **Env Vars:** udf (10), sql (9), usd (5)
-> **Code Keywords:** function (8), let (5), new, (2), this. (1), if, (1)
 > **CLI Commands:** python (10), make (2)
 > **Versions:** 1.35 (2), 28.35 (1)
 > **Cross-References:** in the last (1)
@@ -3511,7 +3511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (7), this. (3), this, (1)
+> **Frameworks & Libraries:** [[SQL]] (2), data (1), [[Snowflake]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** udtf (8), udf (5), sql (2), usd (1)
 > **CLI Commands:** make (2), find (1), python (1)
 > **Cross-References:** in the last (1)
@@ -3523,7 +3523,7 @@ created: 2026-04-29
 
 ### 14. Stored Procedures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stored procedures: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980)
@@ -3622,8 +3622,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[Snowflake]] (2), data (1), database (1), [[Data Manipulation]] (1)
 > **Env Vars:** sql (4), udf (2), ddl (1), dml (1)
-> **Code Keywords:** let (3), switch (1), this. (1), case, (1)
 > **CLI Commands:** python (1), make (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** switch to (1)
@@ -3816,8 +3816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (4), [[Snowflake]] (4), [[Scripting]] (4), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** order_header (10), select (9), order_ts (8), procedure (5), max (4)
-> **Code Keywords:** let (14), delete (7), case, (2), finally, (2), type. (1)
 > **SQL:** select (9), where (2), delete from (1)
 > **Code Identifiers:** max_ts (5), cutoff_ts (3), delete_old (3)
 > **CLI Commands:** make (7), python (1)
@@ -3828,7 +3828,7 @@ created: 2026-04-29
 
 ### 15. Role-based Access Control (RBAC)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Role-based access control (RBAC): Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980)
@@ -3943,9 +3943,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (5), data (5), [[Technical Documentation]] (1), [[Databases]] (1)
 > **Env Vars:** create (6), role (6), warehouse (5), rbac (3), peterintrotosnowflake (2)
 > **Code Identifiers:** tasty_de (18)
-> **Code Keywords:** let (6), super (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1), coming up (1)
 > **Analogies:** imagine (1), it's like (1)
@@ -4033,7 +4033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (3)
+> **Frameworks & Libraries:** [[Security]] (7), [[Snowflake]] (1), [[Databases]] (1), database (1)
 > **Env Vars:** rbac (3)
 > **Cross-References:** in the last (1), we talked about (1)
 > **CLI Commands:** find (1)
@@ -4045,7 +4045,7 @@ created: 2026-04-29
 
 ### 16. Snowpark DataFrames and VS Code Extension
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### VS Code extension
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980)
@@ -4184,11 +4184,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (25), database (5), [[Search]] (4), [[SQL]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Tools:** vs code (18), visual studio (4), jupyter (2), pycharm (1), emacs (1)
 > **UI Navigation:** go to (4), click on (2), select the (1), toggle (1)
 > **CLI Commands:** make (3), node (1), python (1), git (1), find (1)
 > **Env Vars:** sql (3), select (2), jdbc (1), fros (1)
-> **Code Keywords:** let (2), switch (2)
 > **Definitions:** is a  (3), known as (1)
 > **Prerequisites:** install (3), getting started (1)
 > **Analogies:** for example (2), just like (1)
@@ -4332,8 +4332,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Snowflake]] (8), [[SQL]] (5), data (5), database (3)
 > **CLI Commands:** python (18), make (2)
-> **Code Keywords:** let (7), case, (4), this, (2), function (2), require (2)
 > **Env Vars:** sql (5), itd (1), api (1), frostbyte_tasty_bytes (1), analytics (1)
 > **UI Navigation:** click on (3), scroll up (1), dropdown (1)
 > **Code Identifiers:** df_table (4)
@@ -4476,8 +4476,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), [[Python (Programming Language)|Python]] (4), database (4), data (4), [[Snowflake]] (3)
 > **Env Vars:** select (3), truck_brand_name (3), menu_item_name (3), item_category (3), test_database (2)
-> **Code Keywords:** let (5), this, (2), function (1)
 > **Code Identifiers:** df_table (4), save_as_table (3), group_by (1)
 > **File Paths:** session.sql (6)
 > **CLI Commands:** python (4), make (1)
@@ -4488,7 +4488,7 @@ created: 2026-04-29
 
 ### 17. Snowflake CLI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Snowflake CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980)
@@ -4647,7 +4647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), delete (1), interface (1), for. (1), this, (1)
+> **Frameworks & Libraries:** [[Snowflake]] (25), [[CLI]] (16), next (5), cd (4), [[SQL]] (4)
 > **Env Vars:** cli (15), sql (2), spcs (1)
 > **Tools:** command line (9), terminal (4), vim (4)
 > **CLI Commands:** cd (4), make (3), git (3), pip (2), rm (1)
@@ -4717,8 +4717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (10), data (2), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Tools:** vs code (2), command line (1)
-> **Code Keywords:** module (1), function (1)
 > **Env Vars:** sql (1), cli (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** required to (1)
@@ -4728,7 +4728,7 @@ created: 2026-04-29
 
 ### 18. Data Engineering with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to overview of builder workloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980)
@@ -4811,7 +4811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), function (1), new, (1), let (1)
+> **Frameworks & Libraries:** [[Snowflake]] (16), data (10), ai (5), [[Data Engineering]] (4), [[Cybersecurity]] (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** llm (2), cli (1)
 > **Definitions:** is a  (2)
@@ -4953,8 +4953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), [[Snowflake]] (15), next (3), [[Data Engineering]] (3), [[Orchestration]] (3)
 > **Env Vars:** copy (2), api (2), odbc (2), itd (1), sdk (1)
-> **Code Keywords:** let (3), raise (1), this. (1), finally, (1), interface (1)
 > **Definitions:** refers to (4), means that (2), is an  (2)
 > **CLI Commands:** make (2), python (2)
 > **Cross-References:** in the next (1), we talked about (1), coming up (1)
@@ -5095,8 +5095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (16), data (10), [[Orchestration]] (8), [[SQL]] (4), [[Data Transformation]] (3)
 > **Env Vars:** sql (4), create (3), dag (3), udf (2), procedure (1)
-> **Code Keywords:** let (5), function (1), require (1), finally, (1), this. (1)
 > **CLI Commands:** make (1), python (1)
 > **Cross-References:** earlier in (2)
 > **Definitions:** is a  (2)
@@ -5107,7 +5107,7 @@ created: 2026-04-29
 
 ### 19. Ingesting Data with Snowpipe
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Snowpipe: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980)
@@ -5280,10 +5280,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (22), [[Snowflake]] (20), data (5), next (3), cloud (2)
 > **Env Vars:** aws (22), iam (8), arn (7), gcp (1)
 > **CLI Commands:** aws (22), make (4), find (3)
 > **Code Identifiers:** listbucket (3), getbucketlocation (2), snowflake_access (2), describe_integration (2), snowflake_role_snowpipe (1)
-> **Code Keywords:** let (5), this. (1), case, (1), this, (1), interface (1)
 > **UI Navigation:** go to (4), click on (3), navigate to (1), select the (1)
 > **Tools:** aws console (3)
 > **Cross-References:** previous video (1), in the next (1)
@@ -5444,7 +5444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), public (7), pass (1), case, (1), yield (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), aws (7), database (7), data (6), next (2)
 > **Env Vars:** aws (7), csv (3), url (2), api (1)
 > **CLI Commands:** aws (7), make (4)
 > **File Paths:** food.csv (3)
@@ -5456,7 +5456,7 @@ created: 2026-04-29
 
 ### 20. GenAI with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Snowflake genAI overview: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980)
@@ -5585,8 +5585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (30), ai (13), data (11), [[Search]] (8), [[Microsoft Copilot|Copilot]] (6)
 > **Env Vars:** llm (5), sql (2), pdf (1), spcs (1)
-> **Code Keywords:** let (5), from, (1), case, (1)
 > **CLI Commands:** make (3), python (1)
 > **Cross-References:** later in (2)
 > **Definitions:** is a  (2)
@@ -5714,8 +5714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (17), llm (12), ai (10), [[SQL]] (4), data (3)
 > **Env Vars:** llm (12), sql (4), summarize (2), sentiment (2), extract_answer (2)
-> **Code Keywords:** function (2), abstract (1), super (1), this, (1)
 > **Cross-References:** in the next (2), we discussed (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
@@ -5726,7 +5726,7 @@ created: 2026-04-29
 
 ### 21. Snowflake Cortex LLM Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Snowflake Cortex LLM functions: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980)
@@ -5851,8 +5851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (15), llm (10), prompt (5), [[Tokens]] (5), data (1)
 > **Env Vars:** llm (10), snowflake (4), cortex (4), select (3), complete (3)
-> **Code Keywords:** function (9), let (8), this. (1), raise (1), this; (1)
 > **SQL:** select (3)
 > **Cross-References:** we covered (1), in the last (1), coming up (1)
 > **Definitions:** is a  (3)
@@ -5955,8 +5955,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (10), prompt (5), llm (4), ai (2), generic (1)
 > **Env Vars:** complete (12), llm (4), sql (1)
-> **Code Keywords:** let (5), this, (3), continue (1), function (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - we (1)
@@ -5965,7 +5965,7 @@ created: 2026-04-29
 
 ### 22. Machine Learning with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Snowflake ML overview: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980)
@@ -6086,8 +6086,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (20), llm (5), data (4), next (2), [[Security]] (2)
 > **Env Vars:** llm (5), forecast (5), anomaly_detection (5), top_insights (4), classification (4)
-> **Code Keywords:** this. (2), let (2), abstract (1), function (1), case. (1)
 > **SQL:** select (3)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** model_binary (2)
@@ -6220,8 +6220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (36), data (10), [[Python (Programming Language)|Python]] (9), feature (8), [[Feature Engineering]] (2)
 > **CLI Commands:** python (9), make (5), node (1)
-> **Code Keywords:** let (6), finally, (1), else, (1), interface (1)
 > **Env Vars:** aiml (2), ide (1), sql (1)
 > **Cross-References:** next video (1), we discussed (1)
 > **File Paths:** node.js (1)
@@ -6232,7 +6232,7 @@ created: 2026-04-29
 
 ### 23. Snowpark ML Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Snowpark ML modeling: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980)
@@ -6395,7 +6395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1)
+> **Frameworks & Libraries:** data (14), [[Snowflake]] (11), next (3), cloud (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (3), make (2), python (1)
 > **Code Identifiers:** test_database (1), test_schema (1), df_clean (1), group_by (1)
 > **Env Vars:** pip (3), ide (1)
@@ -6511,8 +6511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Snowflake]] (4), [[Python (Programming Language)|Python]] (1), game (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** snowpark_df (4), withcolumn (2), input_cols (2), output_cols (2), snowpark_df_prepared (2)
-> **Code Keywords:** case, (4), let (2), this, (1), function (1), from, (1)
 > **Env Vars:** neighboord2 (1), neighborhood2 (1), neighborhood (1)
 > **UI Navigation:** scroll up (2), go to (1)
 > **CLI Commands:** python (1), make (1)
@@ -6621,8 +6621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Snowflake]] (9), cloud (1), feature (1), [[SQL]] (1)
 > **Env Vars:** xgb (4), sql (1), llm (1)
-> **Code Keywords:** let (2), for. (1), function (1)
 > **Code Identifiers:** save_as_table (2), input_cols (1), label_cols (1)
 > **CLI Commands:** make (1)
 > **Tools:** jupyter (1)
@@ -6633,7 +6633,7 @@ created: 2026-04-29
 
 ### 24. Applications with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Snowflake applications overview: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980)
@@ -6704,9 +6704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (18), application (12), [[Python (Programming Language)|Python]] (6), database (4), [[Django]] (4)
 > **CLI Commands:** python (6), node (1), php (1), make (1)
 > **Env Vars:** api (3), sql (3), php (1), pdo (1)
-> **Code Keywords:** interface (3), let (1), require (1), else, (1), this, (1)
 > **Analogies:** for example (6)
 > **Speakers:** - we (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -6842,8 +6842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (53), [[Python (Programming Language)|Python]] (11), application (10), data (6), api (4)
 > **CLI Commands:** python (11), make (2), node (1)
-> **Code Keywords:** let (4), case, (1), case. (1), finally, (1)
 > **Env Vars:** api (4), sql (2), jdbc (1)
 > **Cross-References:** we talked about (2), in the next (1), we covered (1)
 > **Definitions:** is a  (3)
@@ -6854,7 +6854,7 @@ created: 2026-04-29
 
 ### 25. Streamlit in Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Streamlit in Snowflake: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980)
@@ -6977,7 +6977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (2), interface (1), this. (1), delete (1)
+> **Frameworks & Libraries:** [[Snowflake]] (10), data (6), [[Slack]] (3), [[Python (Programming Language)|Python]] (2), next (2)
 > **CLI Commands:** make (9), python (2)
 > **UI Navigation:** click on (5), go to (2), dropdown (2), scroll up (1), toggle (1)
 > **Analogies:** picture (3), for example (1)
@@ -7107,7 +7107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2), for. (2), finally, (1), for, (1)
+> **Frameworks & Libraries:** data (14), [[SQL]] (8), [[Snowflake]] (7), next (3), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** sql (8)
 > **UI Navigation:** dropdown (2), toggle (2)
 > **CLI Commands:** find (1), make (1), python (1)
@@ -7119,7 +7119,7 @@ created: 2026-04-29
 
 ### 26. The Data Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The data cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/the-data-cloud?u=76281980)
@@ -7218,9 +7218,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Snowflake]] (9), cloud (9), teams (2), management (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** crm (2)
-> **Code Keywords:** module (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -7286,8 +7286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (18), data (9), feature (3), [[Data Engineering]] (2), [[Databases]] (1)
 > **Cross-References:** we talked about (5), we covered (2), in the next (1)
-> **Code Keywords:** module (3), super (1), case. (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** llm (1)
 > **Analogies:** picture (1)
@@ -7356,6 +7356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (17), ai (3), [[Data Engineering]] (2), career (1), job description (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat music) (1)

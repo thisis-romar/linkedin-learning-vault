@@ -34,7 +34,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Delegates%2C%20Events%2C%20and%20Lambdas.md)
@@ -53,35 +53,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Using C# delegates, events, and lambdas
-  - What you should know
-  - Exercise files on GitHub
-  - Setting up the developer environment
+  - [Using C# delegates, events, and lambdas](#using-c-delegates-events-and-lambdas)
+  - [What you should know](#what-you-should-know)
+  - [Exercise files on GitHub](#exercise-files-on-github)
+  - [Setting up the developer environment](#setting-up-the-developer-environment)
 - [**1. Getting Started**](#1-getting-started) (2 videos)
-  - Overview of C# delegates, events, and lambdas
-  - Common delegate, event, and lambda scenarios
+  - [Overview of C# delegates, events, and lambdas](#overview-of-c-delegates-events-and-lambdas)
+  - [Common delegate, event, and lambda scenarios](#common-delegate-event-and-lambda-scenarios)
 - [**2. C# Delegates**](#2-c-delegates) (5 videos)
-  - Creating C# delegates
-  - Using anonymous delegates
-  - Using composable delegates
-  - Challenge: Programming delegate
-  - Solution: Programming delegate
+  - [Creating C# delegates](#creating-c-delegates)
+  - [Using anonymous delegates](#using-anonymous-delegates)
+  - [Using composable delegates](#using-composable-delegates)
+  - [Challenge: Programming delegate](#challenge-programming-delegate)
+  - [Solution: Programming delegate](#solution-programming-delegate)
 - [**3. C# Events**](#3-c-events) (4 videos)
-  - Creating C# event handlers
-  - Event chaining
-  - Challenge: Programming events
-  - Solution: Programming events
+  - [Creating C# event handlers](#creating-c-event-handlers)
+  - [Event chaining](#event-chaining)
+  - [Challenge: Programming events](#challenge-programming-events)
+  - [Solution: Programming events](#solution-programming-events)
 - [**4. C# Lambdas**](#4-c-lambdas) (4 videos)
-  - Understanding C# lambdas
-  - Using lambdas as delegates
-  - Challenge: Programming lambdas
-  - Solution: Programming lambdas
+  - [Understanding C# lambdas](#understanding-c-lambdas)
+  - [Using lambdas as delegates](#using-lambdas-as-delegates)
+  - [Challenge: Programming lambdas](#challenge-programming-lambdas)
+  - [Solution: Programming lambdas](#solution-programming-lambdas)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go next
+  - [Where to go next](#where-to-go-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using C# delegates, events, and lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-c-sharp-delegates-events-and-lambdas-23315218?u=76281980)
@@ -119,9 +119,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Programming Concepts]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Programming]] (1)
 > **Tools:** visual studio (3), atom (1), sublime (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -153,6 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** github (1)
@@ -201,6 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft]] (1), [[Linux]] (1)
 > **Env Vars:** net (6), sdk (4), ide (1)
 > **Tools:** visual studio (5), terminal (2), atom (1), sublime (1)
 > **CLI Commands:** make (4), dotnet (1)
@@ -208,12 +210,11 @@ created: 2026-04-29
 > **UI Navigation:** go to (2), click on (1)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **Analogies:** such as (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of C# delegates, events, and lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/overview-of-c-sharp-delegates-events-and-lambdas?u=76281980)
@@ -274,7 +275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), lambda (3), let (1), finally, (1)
+> **Frameworks & Libraries:** application (6), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 1.0 (1), 2.0 (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -331,7 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), lambda (1)
+> **Frameworks & Libraries:** functional (1), [[Microsoft Products|Products]] (1), next (1)
 > **Env Vars:** net (1)
 > **Cross-References:** later in (1)
 > **Analogies:** imagine (1)
@@ -340,7 +341,7 @@ created: 2026-04-29
 
 ### 2. C# Delegates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating C# delegates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-delegates?u=76281980)
@@ -509,7 +510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), let (13), case, (3), class, (3), type. (2)
+> **Frameworks & Libraries:** next (2), [[JavaScript]] (1), application (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** instancemethod1 (2), instancemethod (1)
 > **Tools:** visual studio (1), command line (1), terminal (1)
@@ -571,7 +572,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (5), type, (3), case, (2), return ( (1)
 > **Cross-References:** previous video (2), later in (1)
 > **Analogies:** just like (2)
 > **CLI Commands:** make (1)
@@ -722,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (9), pass (5), case, (1), class, (1)
+> **Frameworks & Libraries:** next (4), feature (1)
 > **Env Vars:** f1f2 (5)
 > **Definitions:** in other words (1), is a  (1)
 > **Cross-References:** go back to (1)
@@ -821,7 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Programming]] (1), application (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1), next video (1)
 > **Versions:** 27.40 (1)
@@ -961,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (10), this, (2), abstract (1), override (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Microsoft Word|Word]] (1), power (1), application (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -973,7 +973,7 @@ created: 2026-04-29
 
 ### 3. C# Events
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating C# event handlers
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980)
@@ -1102,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (7), case, (3), private (3), public (2)
+> **Frameworks & Libraries:** application (2), [[Microsoft Word|Word]] (2), [[Web Development]] (1)
 > **Code Identifiers:** myeventhandler (3), valuechanged (2), myevent (1), theval (1)
 > **Cross-References:** earlier in (1), go back to (1)
 > **Analogies:** for example (1), just like (1)
@@ -1238,7 +1238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), pass (4), class, (2), class. (2), public (2)
+> **Frameworks & Libraries:** data (1), generic (1)
 > **Code Identifiers:** valuechanged (6), propchanged (4), objchanged (4), changelistener1 (2), changelistener2 (2)
 > **Env Vars:** net (4)
 > **CLI Commands:** make (2)
@@ -1310,7 +1310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1369,7 +1369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (2), function (2), private (1), class. (1)
+> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** thebalance (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -1379,7 +1379,7 @@ created: 2026-04-29
 
 ### 4. C# Lambdas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding C# lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/understanding-c-sharp-lambdas?u=76281980)
@@ -1528,7 +1528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (24), let (16), function (4), case, (2), type, (1)
+> **Frameworks & Libraries:** application (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
@@ -1602,7 +1602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (7), let (3), function (3), public (1), case, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** valuechanged (3)
 > **Cross-References:** earlier in (1)
 > **Tools:** visual studio (1)
@@ -1643,7 +1643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), lambda (1)
+> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (chiming music) (1)
@@ -1683,7 +1683,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (6), let (2), function (2), case, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -1694,7 +1693,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/where-to-go-next?u=76281980)
@@ -1731,8 +1730,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Programming]] (2)
 > **Env Vars:** net (6)
-> **Code Keywords:** continue (1), finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 

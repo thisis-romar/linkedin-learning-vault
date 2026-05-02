@@ -21,7 +21,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Statistics%20Essential%20Training-%202.md)
@@ -40,45 +40,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Using Excel for statistics
-  - What you need to know
-  - Exercise files
-  - Tool pack
+  - [Using Excel for statistics](#using-excel-for-statistics)
+  - [What you need to know](#what-you-need-to-know)
+  - [Exercise files](#exercise-files)
+  - [Tool pack](#tool-pack)
 - [**1. Sampling**](#1-sampling) (3 videos)
-  - Sample considerations
-  - The central limit theorem
-  - T-statistic vs. z-statistic
+  - [Sample considerations](#sample-considerations)
+  - [The central limit theorem](#the-central-limit-theorem)
+  - [T-statistic vs. z-statistic](#t-statistic-vs-z-statistic)
 - [**2. Confidence Intervals**](#2-confidence-intervals) (3 videos)
-  - Introduction to confidence intervals
-  - Creating confidence intervals in Excel (proportions)
-  - Creating confidence intervals in Excel (means)
+  - [Introduction to confidence intervals](#introduction-to-confidence-intervals)
+  - [Creating confidence intervals in Excel (proportions)](#creating-confidence-intervals-in-excel-proportions)
+  - [Creating confidence intervals in Excel (means)](#creating-confidence-intervals-in-excel-means)
 - [**3. Hypothesis Tests**](#3-hypothesis-tests) (5 videos)
-  - How to test a hypothesis
-  - Five steps of hypothesis testing
-  - One-tailed vs. two-tailed tests
-  - Hypothesis test exercise (means)
-  - Hypothesis test exercise (proportions)
+  - [How to test a hypothesis](#how-to-test-a-hypothesis)
+  - [Five steps of hypothesis testing](#five-steps-of-hypothesis-testing)
+  - [One-tailed vs. two-tailed tests](#one-tailed-vs-two-tailed-tests)
+  - [Hypothesis test exercise (means)](#hypothesis-test-exercise-means)
+  - [Hypothesis test exercise (proportions)](#hypothesis-test-exercise-proportions)
 - [**4. Comparing Two Populations**](#4-comparing-two-populations) (3 videos)
-  - Explanation of two population comparisons
-  - Comparing two populations (proportions)
-  - Comparing two populations (means)
+  - [Explanation of two population comparisons](#explanation-of-two-population-comparisons)
+  - [Comparing two populations (proportions)](#comparing-two-populations-proportions)
+  - [Comparing two populations (means)](#comparing-two-populations-means)
 - [**5. ANOVA: Analysis of Variance**](#5-anova-analysis-of-variance) (2 videos)
-  - ANOVA: What is analysis of variance?
-  - Hypothesis test and the F-statistic
+  - [ANOVA: What is analysis of variance?](#anova-what-is-analysis-of-variance)
+  - [Hypothesis test and the F-statistic](#hypothesis-test-and-the-f-statistic)
 - [**6. Regression**](#6-regression) (3 videos)
-  - What is regression?
-  - Regression terminology
-  - Linear regressions
+  - [What is regression?](#what-is-regression)
+  - [Regression terminology](#regression-terminology)
+  - [Linear regressions](#linear-regressions)
 - [**7. Simulation**](#7-simulation) (3 videos)
-  - What are simulations?
-  - Monte Carlo simulation example
-  - Business simulation example
+  - [What are simulations?](#what-are-simulations)
+  - [Monte Carlo simulation example](#monte-carlo-simulation-example)
+  - [Business simulation example](#business-simulation-example)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning Excel statistics
+  - [Continue learning Excel statistics](#continue-learning-excel-statistics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Excel for statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980)
@@ -101,6 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (4), [[Statistical Analysis]] (2), [[Statistics]] (1)
 > **Env Vars:** anova (1)
 > **Speakers:** - data (1)
 
@@ -129,7 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Statistics]] (3)
 > **Speakers:** - [narrator] (1)
 
 #### Exercise files
@@ -163,7 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Statistics]] (3), [[Search]] (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -220,16 +221,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (5)
 > **UI Navigation:** click on (4), go to (2), scroll down (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [lecturer] (1)
 
 
 ### 1. Sampling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sample considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980)
@@ -498,7 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), this, (2), function (1), from, (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (4), [[Statistics]] (2), [[Microsoft Office|Office]] (2), next (2)
 > **Definitions:** means that (3), is a  (2), in other words (1)
 > **Env Vars:** d229 (3), a229 (1), a93 (1)
 > **CLI Commands:** make (2), find (2)
@@ -670,7 +671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (3), function (3), class. (1), this, (1)
+> **Frameworks & Libraries:** data (7), next (7), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** f20 (1), d951 (1)
 > **Versions:** 706.2 (1)
 > **UI Navigation:** go to (1)
@@ -957,8 +958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (6), data (5), [[Microsoft Excel|Excel]] (2), next (2), [[Forms]] (1)
 > **Versions:** 2.5 (5), 70.8 (4), 2.093 (4), 16.4 (3), 97.5 (3)
-> **Code Keywords:** let (13), function (5), this, (2), case, (2), class, (2)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** in other words (1), stands for (1), means that (1), is a  (1)
 > **Analogies:** similar to (1), picture (1)
@@ -967,7 +968,7 @@ created: 2026-04-29
 
 ### 2. Confidence Intervals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to confidence intervals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/introduction-to-confidence-intervals?u=76281980)
@@ -1052,7 +1053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), case, (1), let (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1)
 > **Versions:** 6.25 (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1319,7 +1320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (4), case. (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1)
 > **Versions:** 0.40 (3), 2.0 (3), 2.5 (3), 0.05 (2), 1.96 (2)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (1), go to (1)
@@ -1584,8 +1585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (5), [[Probability]] (3), [[Statistics]] (3), next (1)
 > **Versions:** 2.326 (3), 1.96 (2), 0.99 (2), 30.12 (1), 41.88 (1)
-> **Code Keywords:** let (7), case, (2), this. (1), function (1), for, (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** inv (2), d41 (1), norm (1), stdev (1)
 > **Definitions:** means that (2), is a  (2)
@@ -1596,7 +1597,7 @@ created: 2026-04-29
 
 ### 3. Hypothesis Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to test a hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/how-to-test-a-hypothesis?u=76281980)
@@ -1659,10 +1660,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), next (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), just like (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1819,9 +1820,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (4), next (3), [[Probability]] (1)
 > **Versions:** 2.50 (2), 0.0062 (2), 0.9938 (1), 99.38 (1), 0.05 (1)
 > **Definitions:** means that (2), is called (1), is a  (1), is an  (1)
-> **Code Keywords:** let (2), this, (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -1912,7 +1913,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1), case, (1), for: (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2282,7 +2282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), this, (3), case, (3), require (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1), next (1), [[Probability]] (1)
 > **Versions:** 8.5 (5), 39.59 (3), 1.91 (3), 1.55 (3), 1.5 (2)
 > **Env Vars:** dist (3), norm (1), inv (1)
 > **UI Navigation:** go to (5)
@@ -2483,7 +2483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), case, (3), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1), next (1)
 > **Versions:** 0.50 (5), 1.88 (5), 0.542 (1), 0.0224 (1), 1.644 (1)
 > **Env Vars:** norm (2), sqrt (1), dist (1), inv (1), b35 (1)
 > **CLI Commands:** make (2), find (1)
@@ -2494,7 +2494,7 @@ created: 2026-04-29
 
 ### 4. Comparing Two Populations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanation of two population comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/explanation-of-two-population-comparisons?u=76281980)
@@ -2551,9 +2551,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1)
 > **Prerequisites:** required to (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** this: (1)
 > **Speakers:** - [instructor] (1)
 
 #### Comparing two populations (proportions)
@@ -2717,7 +2717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.0117 (1), 0.01693 (1), 1.7 (1), 1.1 (1), 1.2 (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2)
@@ -3087,8 +3087,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (16), [[Microsoft Excel|Excel]] (4), data (4)
 > **Versions:** 151.9 (4), 140.7 (3), 0.05 (3), 1.65 (3), 1.43 (3)
-> **Code Keywords:** let (18), case, (3), this, (2), this. (2), require (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -3099,7 +3099,7 @@ created: 2026-04-29
 
 ### 5. ANOVA: Analysis of Variance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ANOVA: What is analysis of variance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/anova-what-is-analysis-of-variance?u=76281980)
@@ -3332,7 +3332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (3), case, (2), this, (2), from. (1)
+> **Frameworks & Libraries:** data (13), next (4), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** anova (6), b10 (3), sst (2), ssw (1), ssb (1)
 > **Cross-References:** in the next (2), next video (1)
 > **Versions:** 0.05 (2)
@@ -3648,8 +3648,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
 > **Versions:** 0.05 (7), 5.14 (2), 7.8 (1), 11.84 (1), 0.828 (1)
-> **Code Keywords:** let (8), case. (1), this. (1), case, (1)
 > **Env Vars:** anova (8), ssb (1), ssw (1), df1 (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** previous video (3), previous chapter (1)
@@ -3660,7 +3660,7 @@ created: 2026-04-29
 
 ### 6. Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980)
@@ -3737,6 +3737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2), next (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), just like (1)
 > **Versions:** 0.10 (1)
@@ -3826,8 +3827,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), next (3)
 > **Definitions:** is a  (4), is called (2), means that (2), is an  (1)
-> **Code Keywords:** let (2), case, (1)
 > **Versions:** 1.0 (1), 0.75 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -4139,7 +4140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (5), case, (2), this, (2)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (5), teams (1)
 > **UI Navigation:** go to (8), click on (5)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** nba (4), nfl (2), anova (1)
@@ -4151,7 +4152,7 @@ created: 2026-04-29
 
 ### 7. Simulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are simulations?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-are-simulations?u=76281980)
@@ -4192,7 +4193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), power (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -4417,7 +4418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (5), this, (3), function (3), case, (2)
+> **Frameworks & Libraries:** [[Simulation]] (4), next (4), data (4), [[Microsoft Excel|Excel]] (2), hit (2)
 > **UI Navigation:** go to (4), click on (2)
 > **Prerequisites:** set up (5)
 > **Env Vars:** countif (2), b15 (1)
@@ -4611,7 +4612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), this. (3), fn (1), delete (1)
+> **Frameworks & Libraries:** [[Simulation]] (5), data (4), business (2), hit (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** randbetween (1)
@@ -4623,7 +4624,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Excel statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980)
@@ -4650,6 +4651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), [[Statistics]] (1), [[LinkedIn]] (1), [[Analytics]] (1)
 > **Env Vars:** anova (1), spss (1)
 > **Speakers:** - congrats (1)
 

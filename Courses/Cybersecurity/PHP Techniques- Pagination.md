@@ -31,7 +31,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP%20Techniques-%20Pagination.md)
@@ -50,31 +50,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Showing posts in pages using PHP
-  - Using the exercise files on GitHub
+  - [Showing posts in pages using PHP](#showing-posts-in-pages-using-php)
+  - [Using the exercise files on GitHub](#using-the-exercise-files-on-github)
 - [**1. Pagination Fundamentals**](#1-pagination-fundamentals) (3 videos)
-  - Pagination overview
-  - Finding the pagination variables
-  - Using total record count
+  - [Pagination overview](#pagination-overview)
+  - [Finding the pagination variables](#finding-the-pagination-variables)
+  - [Using total record count](#using-total-record-count)
 - [**2. Database Record Pagination**](#2-database-record-pagination) (3 videos)
-  - Setting up the project database
-  - SQL LIMIT, OFFSET, and COUNT
-  - Paginating database records
+  - [Setting up the project database](#setting-up-the-project-database)
+  - [SQL LIMIT, OFFSET, and COUNT](#sql-limit-offset-and-count)
+  - [Paginating database records](#paginating-database-records)
 - [**3. Links to Paginated Pages**](#3-links-to-paginated-pages) (4 videos)
-  - Adding links to previous and next pages
-  - Creating pagination links
-  - Showing an excerpt of the page list
-  - Remembering the current page
+  - [Adding links to previous and next pages](#adding-links-to-previous-and-next-pages)
+  - [Creating pagination links](#creating-pagination-links)
+  - [Showing an excerpt of the page list](#showing-an-excerpt-of-the-page-list)
+  - [Remembering the current page](#remembering-the-current-page)
 - [**4. Object-Oriented Pagination**](#4-object-oriented-pagination) (3 videos)
-  - Defining a pagination class
-  - Outputting links for previous and next pages
-  - Outputting pagination links
+  - [Defining a pagination class](#defining-a-pagination-class)
+  - [Outputting links for previous and next pages](#outputting-links-for-previous-and-next-pages)
+  - [Outputting pagination links](#outputting-pagination-links)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Showing posts in pages using PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/showing-posts-in-pages-using-php?u=76281980)
@@ -95,9 +95,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), web (3), traffic (1)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
-> **Code Keywords:** interface (1), let (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [kevin] (1)
 
@@ -142,19 +142,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), [[GitHub]] (3), [[LinkedIn]] (1), [[PHP]] (1)
 > **CLI Commands:** git (4), find (1), php (1)
 > **Env Vars:** url (4), zip (1)
 > **Tools:** github (3)
 > **UI Navigation:** switch to (1), click on (1), open the (1)
 > **Exercise Files:** exercise files (1), download the (1), zip file (1)
-> **Code Keywords:** switch (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Pagination Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pagination overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980)
@@ -261,9 +261,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (9), database (7), [[Search]] (3), [[MySQL]] (3), web (2)
 > **CLI Commands:** php (9), mysql (3), make (1), find (1)
 > **Env Vars:** php (9), csb (1), api (1), sql (1), html (1)
-> **Code Keywords:** let (4), interface (1), case, (1), else. (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Exercise Files:** exercise files (1), starter project (1)
 > **Analogies:** for example (2)
@@ -423,8 +423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), [[PHP]] (6), database (2), web (1)
 > **CLI Commands:** php (6), make (3), find (2)
-> **Code Keywords:** let (5), this. (2), return. (1), default, (1), function (1)
 > **Env Vars:** php (4), url (3)
 > **API Endpoints:** get  (3), get
  (1)
@@ -540,8 +540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), database (1), [[SQL]] (1), next (1)
 > **CLI Commands:** make (8), php (4), find (1)
-> **Code Keywords:** let (11), function (2)
 > **Env Vars:** php (4), sql (1), ceil (1)
 > **Analogies:** for example (4)
 > **Cross-References:** in the last (1)
@@ -551,7 +551,7 @@ created: 2026-04-29
 
 ### 2. Database Record Pagination
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the project database
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980)
@@ -700,9 +700,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), [[PHP]] (9), [[MySQL]] (6), [[SQL]] (4), hit (4)
 > **CLI Commands:** php (9), make (6), mysql (6)
 > **Code Identifiers:** php_pagination (2), find_customers (2), db_fetch (2), php_user (1), db_connect (1)
-> **Code Keywords:** let (3), return, (2), function (1), return. (1)
 > **Env Vars:** php (4), sql (3)
 > **File Paths:** customers.php (2), customers.sql (1), credentials.php (1), database.php (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -776,10 +776,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (9), database (6), data (3), [[PHP]] (2), web (2)
 > **Env Vars:** limit (11), sql (9), offset (9), select (4), count (4)
 > **CLI Commands:** php (2), find (2)
 > **SQL:** select (4)
-> **Code Keywords:** function (1), match. (1)
 > **Analogies:** just like (1), for example (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
@@ -965,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (8), return. (1)
+> **Frameworks & Libraries:** database (8), [[SQL]] (4), [[PHP]] (4), hit (1)
 > **CLI Commands:** find (8), make (7), php (4)
 > **Env Vars:** sql (4), php (1), asc (1), url (1)
 > **Code Identifiers:** db_escape (2), count_customers (2), db_fetch_association (2)
@@ -977,7 +977,7 @@ created: 2026-04-29
 
 ### 3. Links to Paginated Pages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding links to previous and next pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980)
@@ -1156,9 +1156,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (14), [[PHP]] (8), database (2), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (8), make (2)
 > **Env Vars:** php (8), ulli (1), html (1)
-> **Code Keywords:** let (8)
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
 > **File Paths:** nodb.php (1)
 > **Cross-References:** go back to (1)
@@ -1257,7 +1257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), if, (1)
+> **Frameworks & Libraries:** [[PHP]] (2), next (1)
 > **CLI Commands:** make (6), php (2)
 > **Analogies:** for example (3), similar to (1)
 > **UI Navigation:** click on (3)
@@ -1381,7 +1381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (10), let (5), this. (1), function (1), case, (1)
+> **Frameworks & Libraries:** next (3), [[Google]] (2), [[PHP]] (1)
 > **CLI Commands:** make (3), php (1)
 > **Analogies:** for example (2)
 > **Env Vars:** php (1)
@@ -1453,7 +1453,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), case, (1), else, (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (2)
@@ -1461,11 +1460,12 @@ created: 2026-04-29
 > **Env Vars:** url (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you need to have (1)
+> **Speakers:** - in (1)
 
 
 ### 4. Object-Oriented Pagination
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a pagination class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980)
@@ -1672,7 +1672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), function (8), class. (6), public (4), this, (2)
+> **Frameworks & Libraries:** [[PHP]] (7), functional (2), [[Functional Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** per_page (11), current_page (10), total_pages (9), total_count (6), customers_oo (2)
 > **CLI Commands:** php (7), make (6), find (3)
 > **Env Vars:** php (4)
@@ -1838,7 +1838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), class, (2), this. (2), return. (2), pass (2)
+> **Frameworks & Libraries:** next (18), [[PHP]] (7), [[Programming]] (1), [[HTML]] (1)
 > **CLI Commands:** php (7), make (4)
 > **Env Vars:** url (3), php (2), html (1)
 > **File Paths:** customers.php (3), customers_00.php (2)
@@ -1990,7 +1990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this, (5), function (3), public (2), pass (2)
+> **Frameworks & Libraries:** [[PHP]] (4), next (1), [[Representational State Transfer (REST)|Rest]] (1), oop (1)
 > **CLI Commands:** make (9), php (4), find (2)
 > **Env Vars:** url (4), php (3)
 > **Cross-References:** go back to (2), we talked about (1)
@@ -2002,7 +2002,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980)
@@ -2023,6 +2023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[AJAX]] (2), next (2)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2)
 > **Analogies:** just like (1)

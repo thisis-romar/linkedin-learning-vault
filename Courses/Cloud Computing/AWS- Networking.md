@@ -31,7 +31,7 @@ tags:
   - skill/cloud-administration
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS-%20Networking.md)
@@ -50,85 +50,85 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - AWS networking overview
-  - What you should know
+  - [AWS networking overview](#aws-networking-overview)
+  - [What you should know](#what-you-should-know)
 - [**1. AWS Network Foundations**](#1-aws-network-foundations) (5 videos)
-  - Virtual Private Cloud (VPC) overview
-  - Establish private connections
-  - Route 53 overview
-  - The command-line interface (CLI) for Mac
-  - The command-line interface (CLI) for Windows
+  - [Virtual Private Cloud (VPC) overview](#virtual-private-cloud-vpc-overview)
+  - [Establish private connections](#establish-private-connections)
+  - [Route 53 overview](#route-53-overview)
+  - [The command-line interface (CLI) for Mac](#the-command-line-interface-cli-for-mac)
+  - [The command-line interface (CLI) for Windows](#the-command-line-interface-cli-for-windows)
 - [**2. Virtual Private Cloud**](#2-virtual-private-cloud) (10 videos)
-  - Explore the default VPC
-  - Explore VPC templates
-  - Handcrafting a VPC
-  - Configure VPC subnets
-  - Configure route tables
-  - Configure an internet gateway
-  - Configure a NAT gateway
-  - Configure VPC endpoints
-  - Create a VPC
-  - Expand a VPC
+  - [Explore the default VPC](#explore-the-default-vpc)
+  - [Explore VPC templates](#explore-vpc-templates)
+  - [Handcrafting a VPC](#handcrafting-a-vpc)
+  - [Configure VPC subnets](#configure-vpc-subnets)
+  - [Configure route tables](#configure-route-tables)
+  - [Configure an internet gateway](#configure-an-internet-gateway)
+  - [Configure a NAT gateway](#configure-a-nat-gateway)
+  - [Configure VPC endpoints](#configure-vpc-endpoints)
+  - [Create a VPC](#create-a-vpc)
+  - [Expand a VPC](#expand-a-vpc)
 - [**3. VPC Security**](#3-vpc-security) (10 videos)
-  - Understanding security groups
-  - Verifying security groups
-  - Configuring security groups
-  - Understanding network ACLs
-  - Explore a network ACL scenario
-  - Configure network ACLs, part 1
-  - Configure network ACLs, part 2
-  - VPC Flow Logs overview
-  - Create and configure VPC Flow Logs
-  - Explore VPC Flow Logs
+  - [Understanding security groups](#understanding-security-groups)
+  - [Verifying security groups](#verifying-security-groups)
+  - [Configuring security groups](#configuring-security-groups)
+  - [Understanding network ACLs](#understanding-network-acls)
+  - [Explore a network ACL scenario](#explore-a-network-acl-scenario)
+  - [Configure network ACLs, part 1](#configure-network-acls-part-1)
+  - [Configure network ACLs, part 2](#configure-network-acls-part-2)
+  - [VPC Flow Logs overview](#vpc-flow-logs-overview)
+  - [Create and configure VPC Flow Logs](#create-and-configure-vpc-flow-logs)
+  - [Explore VPC Flow Logs](#explore-vpc-flow-logs)
 - [**4. VPC Peering**](#4-vpc-peering) (4 videos)
-  - VPC peering overview
-  - Implement VPC peering
-  - Configure VPC peer routing
-  - Verify VPC peer routing
+  - [VPC peering overview](#vpc-peering-overview)
+  - [Implement VPC peering](#implement-vpc-peering)
+  - [Configure VPC peer routing](#configure-vpc-peer-routing)
+  - [Verify VPC peer routing](#verify-vpc-peer-routing)
 - [**5. Transit Gateway**](#5-transit-gateway) (6 videos)
-  - Understand Transit Gateway
-  - Implement Transit Gateway
-  - Configure Transit Gateway
-  - Validate Transit Gateway
-  - Challenge: Transit Gateway
-  - Solution: Transit Gateway
+  - [Understand Transit Gateway](#understand-transit-gateway)
+  - [Implement Transit Gateway](#implement-transit-gateway)
+  - [Configure Transit Gateway](#configure-transit-gateway)
+  - [Validate Transit Gateway](#validate-transit-gateway)
+  - [Challenge: Transit Gateway](#challenge-transit-gateway)
+  - [Solution: Transit Gateway](#solution-transit-gateway)
 - [**6. Route 53**](#6-route-53) (8 videos)
-  - Configure Route 53 DNS
-  - Understand Route 53 alias
-  - Configure Route 53 alias
-  - Understand private DNS
-  - Explore a private DNS scenario
-  - Configure private DNS
-  - Understand Elastic IP addresses
-  - Use Elastic IP and Route 53
+  - [Configure Route 53 DNS](#configure-route-53-dns)
+  - [Understand Route 53 alias](#understand-route-53-alias)
+  - [Configure Route 53 alias](#configure-route-53-alias)
+  - [Understand private DNS](#understand-private-dns)
+  - [Explore a private DNS scenario](#explore-a-private-dns-scenario)
+  - [Configure private DNS](#configure-private-dns)
+  - [Understand Elastic IP addresses](#understand-elastic-ip-addresses)
+  - [Use Elastic IP and Route 53](#use-elastic-ip-and-route-53)
 - [**7. Global Considerations**](#7-global-considerations) (16 videos)
-  - Understand CloudFront
-  - Create CloudFront distribution
-  - Explore CloudFront distribution
-  - Explore CloudFront reporting
-  - Restrict geographic access in CloudFront
-  - Delete CloudFront distribution
-  - Understand Global Accelerator
-  - Explore a Global Accelerator scenario
-  - Configure Global Accelerator
-  - Explore Global Accelerator
-  - Delete Global Accelerator
-  - Understand API Gateway
-  - Configure API Gateway
-  - Explore API Gateway
-  - Throttling with API Gateway
-  - Delete API Gateway
+  - [Understand CloudFront](#understand-cloudfront)
+  - [Create CloudFront distribution](#create-cloudfront-distribution)
+  - [Explore CloudFront distribution](#explore-cloudfront-distribution)
+  - [Explore CloudFront reporting](#explore-cloudfront-reporting)
+  - [Restrict geographic access in CloudFront](#restrict-geographic-access-in-cloudfront)
+  - [Delete CloudFront distribution](#delete-cloudfront-distribution)
+  - [Understand Global Accelerator](#understand-global-accelerator)
+  - [Explore a Global Accelerator scenario](#explore-a-global-accelerator-scenario)
+  - [Configure Global Accelerator](#configure-global-accelerator)
+  - [Explore Global Accelerator](#explore-global-accelerator)
+  - [Delete Global Accelerator](#delete-global-accelerator)
+  - [Understand API Gateway](#understand-api-gateway)
+  - [Configure API Gateway](#configure-api-gateway)
+  - [Explore API Gateway](#explore-api-gateway)
+  - [Throttling with API Gateway](#throttling-with-api-gateway)
+  - [Delete API Gateway](#delete-api-gateway)
 - [**8. Troubleshooting Strategies**](#8-troubleshooting-strategies) (4 videos)
-  - Troubleshooting connectivity issues
-  - Challenge: Troubleshooting scenario
-  - Solution: Troubleshooting scenario
-  - Troubleshooting cleanup
+  - [Troubleshooting connectivity issues](#troubleshooting-connectivity-issues)
+  - [Challenge: Troubleshooting scenario](#challenge-troubleshooting-scenario)
+  - [Solution: Troubleshooting scenario](#solution-troubleshooting-scenario)
+  - [Troubleshooting cleanup](#troubleshooting-cleanup)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS networking overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/aws-networking-overview?u=76281980)
@@ -157,9 +157,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), cloud (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), data (1), dns (1)
 > **Env Vars:** aws (5), vpc (3), dns (1)
 > **CLI Commands:** aws (5), make (1)
-> **Code Keywords:** private (2), let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [sharif] (1)
 
@@ -200,16 +200,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), [[Security]] (2), database (1), business (1), [[Computer Networking]] (1)
 > **CLI Commands:** aws (9), find (1), make (1)
 > **Env Vars:** aws (9)
-> **Code Keywords:** private (1), let (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. AWS Network Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Virtual Private Cloud (VPC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980)
@@ -356,8 +356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (20), database (5), data (4), web (4), application (4)
 > **Env Vars:** vpc (25), aws (20), nat (7), dhcp (3), dns (2)
-> **Code Keywords:** private (16), let (10), public (7), finally, (2)
 > **CLI Commands:** aws (20), make (3), az (1)
 > **Prerequisites:** configure (5), you'll need (3), set up (2)
 > **Definitions:** is a  (6)
@@ -478,9 +478,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (29), vpn (11), data (10), traffic (5), [[Amazon EC2|Ec2]] (4)
 > **Env Vars:** aws (29), vpc (13), vpn (11), ec2 (4), vpg (2)
 > **CLI Commands:** aws (29), make (1)
-> **Code Keywords:** private (10), let (4), this, (1), public (1), continue (1)
 > **Prerequisites:** configure (3), required to (1), set up (1), you'll need (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -578,9 +578,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (9), aws (8), dns (8), [[Routing]] (4), application (2)
 > **Env Vars:** aws (8), dns (8), elb (1)
 > **CLI Commands:** aws (8)
-> **Code Keywords:** let (2), private (2), case, (1), static (1), finally, (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for instance (3), for example (1)
 > **Prerequisites:** configure (4)
@@ -676,11 +676,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (14), aws (10), [[Search]] (3), [[Python (Programming Language)|Python]] (3), web (2)
 > **Env Vars:** cli (13), aws (7)
 > **CLI Commands:** aws (10), python (3), find (1), curl (1), unzip (1)
 > **Prerequisites:** install (5), configure (3), setup (1), set up (1)
 > **Tools:** terminal (4)
-> **Code Keywords:** let (2), interface (1)
 > **Versions:** 2.6 (1), 3.3 (1), python 2 (1)
 > **Cross-References:** next chapter (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -760,19 +760,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (9), [[CLI]] (6), aws (4), next (2), [[Search]] (2)
 > **Env Vars:** cli (6), aws (4), msi (1), ec2 (1)
 > **CLI Commands:** aws (4), make (1)
 > **Prerequisites:** install (4), configure (1)
 > **UI Navigation:** select the (2), navigate to (1)
 > **Definitions:** is a  (3)
 > **Warnings:** note that (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** next chapter (1)
 
 
 ### 2. Virtual Private Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the default VPC
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980)
@@ -963,8 +963,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), [[Security]] (7), traffic (6), web (3), next (3)
 > **Env Vars:** vpc (41), aws (10), acl (4), cidr (3), dhcp (2)
-> **Code Keywords:** let (14), private (2), default. (2), case, (1)
 > **CLI Commands:** aws (10), find (2)
 > **Code Identifiers:** nacl (3)
 > **UI Navigation:** navigate to (1), click on (1), dropdown (1)
@@ -1071,9 +1071,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (12), vpn (2), data (2), [[Amazon EC2|Ec2]] (1), web (1)
 > **Env Vars:** vpc (14), aws (12), vpn (2), ec2 (1)
 > **CLI Commands:** aws (12), find (1)
-> **Code Keywords:** let (4), public (2), private (2)
 > **Exercise Files:** template (5)
 > **Definitions:** is a  (3)
 > **Tools:** aws console (1)
@@ -1215,8 +1215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), web (6), cloud (2), application (2), database (2)
 > **Env Vars:** vpc (23), aws (8), cidr (3), acl (3), rds (2)
-> **Code Keywords:** public (4), private (4), let (2), static (2), case, (2)
 > **CLI Commands:** aws (8)
 > **Warnings:** note that (3), be aware (1)
 > **UI Navigation:** click on (2), dropdown (1)
@@ -1391,8 +1391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), web (5), [[Amazon EC2|Ec2]] (3), next (3), [[CLI]] (2)
 > **Env Vars:** vpc (16), aws (7), cidr (4), cli (2), ec2 (1)
-> **Code Keywords:** private (5), let (5), public (5), interface (2), pub (1)
 > **CLI Commands:** aws (10), make (3)
 > **Tools:** command line (2), terminal (1), bash (1)
 > **UI Navigation:** dropdown (2), select the (1), click on (1)
@@ -1555,7 +1555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), let (5), private (4), pub (1)
+> **Frameworks & Libraries:** aws (4), traffic (3), [[Routing]] (3), [[Amazon EC2|Ec2]] (3), [[CLI]] (2)
 > **Env Vars:** vpc (15), cli (2), aws (1)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** select the (3), dropdown (1)
@@ -1797,8 +1797,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), aws (7), [[CLI]] (5), next (4), [[Amazon EC2|Ec2]] (4)
 > **Env Vars:** vpc (25), igw (22), cli (5), aws (3)
-> **Code Keywords:** public (6), let (5), finally, (4), case, (3), pub (3)
 > **CLI Commands:** aws (7), find (1), make (1)
 > **UI Navigation:** click on (4), select the (3), dropdown (1)
 > **Tools:** command line (3)
@@ -1953,8 +1953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), aws (5), traffic (4), [[Internet of Things (IoT)|Internet of things]] (1), next (1)
 > **Env Vars:** nat (37), ec2 (6), aws (5), eip (3), ssh (2)
-> **Code Keywords:** private (9), public (6), let (2), case, (2), finally, (1)
 > **CLI Commands:** aws (5), ssh (2)
 > **Definitions:** is a  (4)
 > **UI Navigation:** select the (2), go to (1)
@@ -2069,8 +2069,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (14), traffic (2), data (1), [[Security]] (1), [[CLI]] (1)
 > **Env Vars:** vpc (22), aws (14), cli (1)
-> **Code Keywords:** let (7), public (5), private (3), default, (2), case, (2)
 > **CLI Commands:** aws (14), find (1)
 > **UI Navigation:** click on (2), select the (2), scroll down (1)
 > **Warnings:** note that (3)
@@ -2245,7 +2245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (15), public (11), let (8), case, (3), abstract (1)
+> **Frameworks & Libraries:** application (3), next (3), [[Hardware]] (3), web (2), aws (2)
 > **Env Vars:** vpc (15), nat (8), eip (6), cidr (2), aws (2)
 > **CLI Commands:** aws (2), make (1), find (1), az (1)
 > **UI Navigation:** dropdown (2), click on (1), scroll down (1), open the (1)
@@ -2329,8 +2329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), power (1), traffic (1)
 > **Env Vars:** vpc (15), cidr (13), aws (3), ipv4 (1)
-> **Code Keywords:** let (5), default, (1), if, (1), case, (1)
 > **CLI Commands:** aws (3), make (1)
 > **Definitions:** is a  (1), means that (1)
 > **Tools:** aws console (1)
@@ -2341,7 +2341,7 @@ created: 2026-04-29
 
 ### 3. VPC Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding security groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980)
@@ -2454,8 +2454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (34), traffic (17), aws (7), [[Amazon EC2|Ec2]] (7), data (2)
 > **Env Vars:** aws (7), ec2 (7), vpc (4), rds (1)
-> **Code Keywords:** let (6), interface (3), default. (3), public (2), default, (1)
 > **CLI Commands:** aws (7), make (1)
 > **Analogies:** for example (2), picture (1), imagine (1), for instance (1), just like (1)
 > **Definitions:** means that (2), is an  (1)
@@ -2548,8 +2548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), [[Amazon EC2|Ec2]] (7), traffic (6), web (2), next (2)
 > **Env Vars:** ec2 (7), vpc (4), ssh (3), icmp (3), cpu (1)
-> **Code Keywords:** let (6), public (5), case, (4), private (1), type, (1)
 > **CLI Commands:** ssh (3), az (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Ports:** port 22 (1)
@@ -2634,8 +2634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), [[Windows]] (2), traffic (2), [[Amazon EC2|Ec2]] (1), prompt (1)
 > **Env Vars:** ssh (4), icmp (4), ec2 (1), vpc (1)
-> **Code Keywords:** private (2), case, (2), let (1)
 > **CLI Commands:** ssh (4)
 > **Tools:** terminal (4)
 > **Warnings:** note that (4)
@@ -2712,9 +2712,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (13), [[Security]] (10), [[Amazon EC2|Ec2]] (3), aws (2), database (2)
 > **Env Vars:** nacl (10), vpc (6), ec2 (3), aws (2)
 > **CLI Commands:** aws (2), mysql (1), make (1)
-> **Code Keywords:** let (2), else. (1)
 > **Prerequisites:** configure (3)
 > **Ports:** port 3306 (1)
 > **Definitions:** is a  (1)
@@ -2770,7 +2770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (12), private (12), let (3)
+> **Frameworks & Libraries:** traffic (4), [[Security]] (2), [[Amazon EC2|Ec2]] (1), next (1)
 > **Env Vars:** vpc (5), ssh (3), icmp (3), nat (2), nacl (2)
 > **Versions:** 13.231.191 (1), 10.0.0 (1), 10.0.1 (1), 52.59.188 (1), 192.168.66 (1)
 > **Prerequisites:** set up (3), configure (1)
@@ -2906,8 +2906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), [[Amazon EC2|Ec2]] (2), [[Security]] (2), [[Windows]] (2), prompt (2)
 > **Env Vars:** nacl (19), vpc (8), ssh (5), nat (3), ec2 (2)
-> **Code Keywords:** private (17), public (14), let (6), finally, (1)
 > **UI Navigation:** select the (3), go to (1), click on (1), dropdown (1)
 > **CLI Commands:** ssh (5)
 > **Tools:** terminal (3)
@@ -3002,8 +3002,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (9), web (1), [[Linux]] (1), next (1), [[Security]] (1)
 > **Env Vars:** ssh (9), nacl (7), icmp (4), icnp (1), aws (1)
-> **Code Keywords:** let (6), public (5), private (5), finally, (1)
 > **CLI Commands:** ssh (9), aws (1)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** dropdown (2)
@@ -3065,9 +3065,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (9), aws (5), [[Network Security]] (1), web (1), [[Security]] (1)
 > **Env Vars:** vpc (12), aws (5), iam (1), tcp (1), udp (1)
 > **CLI Commands:** aws (5)
-> **Code Keywords:** interface (2), finally, (1)
 > **Analogies:** similar to (1), picture (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -3164,8 +3164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), next (3), traffic (3), aws (2), web (1)
 > **Env Vars:** vpc (10), aws (2), iam (2), json (1)
-> **Code Keywords:** let (3), for. (1)
 > **UI Navigation:** click on (2), select the (1), dropdown (1)
 > **CLI Commands:** aws (2), make (1)
 > **Tools:** aws console (1)
@@ -3255,7 +3255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (3), case, (2), public (1), from. (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Windows]] (2), [[Security]] (2), [[Microsoft Word|Word]] (1), [[Network Security]] (1)
 > **Env Vars:** vpc (5), ec2 (4)
 > **UI Navigation:** click on (4), navigate to (1), right-click (1), scroll down (1)
 > **Ports:** port 33 (2)
@@ -3267,7 +3267,7 @@ created: 2026-04-29
 
 ### 4. VPC Peering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### VPC peering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/vpc-peering-overview?u=76281980)
@@ -3308,7 +3308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), public (2), case, (1)
+> **Frameworks & Libraries:** aws (4), management (1), traffic (1)
 > **Env Vars:** aws (4), vpc (3)
 > **CLI Commands:** aws (4), find (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -3424,8 +3424,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), aws (3), [[Dashboards]] (1), traffic (1), [[Routing]] (1)
 > **Env Vars:** vpc (20), aws (3)
-> **Code Keywords:** let (3), case, (3), private (1)
 > **UI Navigation:** click on (3), select the (1), scroll down (1)
 > **CLI Commands:** aws (3), find (1)
 > **Warnings:** note that (4)
@@ -3508,7 +3508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), super (3), let (2), public (1), finally, (1)
+> **Frameworks & Libraries:** traffic (5), [[Security]] (2), [[Amazon EC2|Ec2]] (2), aws (2), [[Routing]] (2)
 > **Env Vars:** vpc (6), ec2 (2), aws (2), pcx (2)
 > **UI Navigation:** click on (3), select the (1), dropdown (1)
 > **CLI Commands:** aws (2), make (1)
@@ -3578,7 +3578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (13), public (5), let (4), finally, (2), this. (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), traffic (3), [[Security]] (2), [[Windows]] (2), [[Automation]] (1)
 > **Env Vars:** ec2 (3), vpc (1), aws (1), cli (1), ssh (1)
 > **Versions:** 192.168.2 (2), 192.168.22 (1), 10.0.0 (1), 10.0.243 (1)
 > **CLI Commands:** make (2), aws (1), ssh (1)
@@ -3590,7 +3590,7 @@ created: 2026-04-29
 
 ### 5. Transit Gateway
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Transit Gateway
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-transit-gateway?u=76281980)
@@ -3685,9 +3685,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), aws (8), vpn (6), traffic (4), data (2)
 > **Env Vars:** vpc (9), aws (8), vpn (6), nat (1)
 > **CLI Commands:** aws (8), find (1)
-> **Code Keywords:** let (3), this, (1), require (1), static (1), private (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Prerequisites:** configure (1), set up (1), setup (1)
 > **Analogies:** similar to (1), just like (1)
@@ -3746,9 +3746,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), teams (1), [[Security]] (1)
 > **Env Vars:** vpc (3), ssh (1), icnp (1), tgw (1)
 > **CLI Commands:** find (1), ssh (1), make (1)
-> **Code Keywords:** let (2), private (1)
 > **Warnings:** note that (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Cross-References:** in the next (1)
@@ -3890,8 +3890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), next (2), vpn (1), [[CLI]] (1), [[Automation]] (1)
 > **Env Vars:** vpc (17), aws (4), vpn (1), ejz (1), acs (1)
-> **Code Keywords:** let (6), case, (2), finally, (2), type, (1), public (1)
 > **CLI Commands:** aws (4), find (1)
 > **UI Navigation:** click on (2), dropdown (1), scroll up (1), scroll down (1)
 > **Tools:** aws console (2), command line (1)
@@ -3976,8 +3976,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[Security]] (2), [[Windows]] (1), [[Amazon EC2|Ec2]] (1), next (1)
 > **Env Vars:** vpc (5), aws (2), vpc1 (2), cidr (1), vpc2 (1)
-> **Code Keywords:** let (7), finally, (1), public (1), private (1)
 > **CLI Commands:** aws (2), make (1)
 > **Tools:** terminal (2), aws console (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -4010,9 +4010,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1)
 > **Env Vars:** vpc (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -4094,8 +4094,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), next (2), [[Windows]] (1), [[Amazon EC2|Ec2]] (1), [[Routing]] (1)
 > **Env Vars:** vpc (14), cidr (3), ec2 (1), ssh (1)
-> **Code Keywords:** let (8), public (2), private (2), case, (1)
 > **CLI Commands:** make (3), ssh (1)
 > **Versions:** 172.16 (1), 10.0.0 (1), 10.1.0 (1), 10.2.0 (1)
 > **Warnings:** note that (2)
@@ -4106,7 +4106,7 @@ created: 2026-04-29
 
 ### 6. Route 53
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure Route 53 DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-dns?u=76281980)
@@ -4199,9 +4199,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), dns (6), management (3), traffic (2), [[Search]] (1)
 > **Env Vars:** aws (7), dns (6), ipv4 (1), ipv6 (1)
 > **CLI Commands:** aws (7), find (3)
-> **Code Keywords:** let (4), this. (1), case, (1), else. (1), continue (1)
 > **Warnings:** note that (5)
 > **URLs:** [sbndemo.org](https://sbndemo.org) (2), [sbndemo.com](https://sbndemo.com) (1), [namecheap.com](https://namecheap.com) (1)
 > **UI Navigation:** dropdown (1), scroll down (1), switch to (1), click on (1)
@@ -4255,8 +4255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (4), [[HTML]] (4), aws (3), feature (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** dns (4), aws (3), url (2), ec2 (1), elb (1)
-> **Code Keywords:** static (3), let (2), interface (1)
 > **CLI Commands:** aws (3), make (2)
 > **File Paths:** index.html (2), s404.html (2)
 > **Prerequisites:** set up (2), configure (1)
@@ -4351,7 +4351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), public (3), case, (3), let (2), finally, (1)
+> **Frameworks & Libraries:** [[HTML]] (4), aws (3), next (1), management (1), dns (1)
 > **CLI Commands:** make (4), aws (3)
 > **File Paths:** index.html (2), s404.html (2)
 > **URLs:** [sbndemo.org](https://sbndemo.org) (4)
@@ -4393,8 +4393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), dns (5), feature (1), next (1)
 > **Env Vars:** dns (5), vpc (5)
-> **Code Keywords:** let (3), private (2), case, (1), public (1)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -4477,7 +4477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), private (4), static (3), public (2), continue (2)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Windows]] (6), [[Amazon EC2|Ec2]] (1), [[Wordpress Development]] (1), dns (1)
 > **Env Vars:** vpc (4), ec2 (1), rdp (1), dns (1)
 > **Warnings:** note that (3), warning (1)
 > **URLs:** [sbndemo.org](https://sbndemo.org) (3)
@@ -4571,7 +4571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (8), let (7), public (4), static (2), case, (1)
+> **Frameworks & Libraries:** dns (4), [[WordPress]] (4), aws (1), next (1), [[Routing]] (1)
 > **Env Vars:** vpc (9), dns (4), aws (1)
 > **URLs:** [sbndemo.org](https://sbndemo.org) (4)
 > **Cross-References:** go back to (2)
@@ -4629,8 +4629,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), [[Amazon EC2|Ec2]] (1), traffic (1)
 > **Env Vars:** eip (8), aws (4), sdn (3), ec2 (1)
-> **Code Keywords:** public (3), let (2), static (1)
 > **CLI Commands:** aws (4), make (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for instance (1), for example (1)
@@ -4724,7 +4724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), let (4), case, (2), finally, (1), private (1)
+> **Frameworks & Libraries:** [[WordPress]] (7), dns (2), aws (1), [[Security]] (1), management (1)
 > **Env Vars:** eip (6), dns (2), aws (1)
 > **URLs:** [sbndemo.org](https://sbndemo.org) (7)
 > **CLI Commands:** make (4), aws (1)
@@ -4736,7 +4736,7 @@ created: 2026-04-29
 
 ### 7. Global Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand CloudFront
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980)
@@ -4831,9 +4831,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), web (3), product (1), [[Security]] (1), web application (1)
 > **Env Vars:** aws (7), cdn (2), ec2 (1)
 > **CLI Commands:** aws (7)
-> **Code Keywords:** let (2), case, (1), protected (1), for. (1), lambda (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **Warnings:** be aware (1), note that (1)
 > **Analogies:** such as (1)
@@ -4971,7 +4971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (6), let (2), lambda (2), function (2), case. (1)
+> **Frameworks & Libraries:** aws (4), next (3), [[HTML]] (2), [[Search]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (4), html (2), sbn (2), ec2 (1), acl (1)
 > **CLI Commands:** aws (4), find (1)
 > **UI Navigation:** scroll down (2), click on (1), dropdown (1), select the (1)
@@ -5029,7 +5029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), new. (2), new, (1), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (2), aws (1), web (1)
 > **Env Vars:** url (2), aws (1), html (1)
 > **UI Navigation:** select the (1), open the (1)
 > **File Paths:** index.html (1)
@@ -5113,7 +5113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (1), from. (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), web (2), [[Analytics]] (1), [[Amazon EC2|Ec2]] (1), [[HTML]] (1)
 > **CLI Commands:** curl (3)
 > **Env Vars:** ec2 (1), html (1), http (1)
 > **UI Navigation:** navigate to (1), select the (1)
@@ -5221,7 +5221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (4)
+> **Frameworks & Libraries:** traffic (4), [[Amazon EC2|Ec2]] (3), [[HTML]] (3), [[Search]] (1), cloud (1)
 > **Env Vars:** ec2 (3), html (3)
 > **CLI Commands:** curl (5)
 > **Warnings:** note that (4)
@@ -5271,7 +5271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (1)
+> **Frameworks & Libraries:** aws (1), web (1)
 > **UI Navigation:** navigate to (1), select the (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -5349,9 +5349,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), aws (7), data (3), application (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** aws (7), ec2 (2)
 > **CLI Commands:** aws (7)
-> **Code Keywords:** public (1), static (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** analogous to (1), for example (1)
 > **Warnings:** note that (1), be aware (1)
@@ -5390,9 +5390,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), application (1), [[Amazon EC2|Ec2]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** aws (3), ec2 (1)
 > **CLI Commands:** aws (3)
-> **Code Keywords:** public (2), static (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5501,8 +5501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), next (4), traffic (3), management (2), application (2)
 > **Env Vars:** ec2 (6), aws (1), http (1), tcp (1), eip (1)
-> **Code Keywords:** case, (4), let (2), type. (2), public (1)
 > **UI Navigation:** dropdown (2), click on (1), select the (1), open the (1)
 > **Warnings:** note that (4), be aware (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -5593,7 +5593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (4), public (1), while, (1), from. (1)
+> **Frameworks & Libraries:** hit (1), [[HTML]] (1), management (1), traffic (1)
 > **Versions:** 0.5 (3), 0.4 (2), 0.6 (1), 1.5 (1), 1.6 (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** select the (1), click on (1)
@@ -5641,7 +5641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1), static (1), public (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), traffic (1), aws (1)
 > **Warnings:** note that (3), warning (1)
 > **Env Vars:** ec2 (2), aws (1)
 > **CLI Commands:** aws (1)
@@ -5707,12 +5707,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (19), aws (2), [[Representational State Transfer (REST)|Rest]] (2), application (1), [[Programming]] (1)
 > **Env Vars:** api (18), http (2), rest (2), aws (1), ecs (1)
 > **CLI Commands:** make (3), aws (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2)
 > **Warnings:** note that (2)
-> **Code Keywords:** lambda (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **API Endpoints:** get  (1)
 
@@ -5877,8 +5877,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (19), next (7), aws (5), [[Search]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (19), aws (5), http (4), arn (4), rest (2)
-> **Code Keywords:** lambda (8), function (8), case, (4), let (2), default. (2)
 > **UI Navigation:** dropdown (4), click on (2), navigate to (1), switch to (1), open the (1)
 > **CLI Commands:** aws (5), make (2), python (1)
 > **Warnings:** note that (4)
@@ -5931,8 +5931,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[JSON]] (2)
 > **Env Vars:** api (7), url (5), json (2)
-> **Code Keywords:** function (5), lambda (5), let (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
@@ -6006,8 +6006,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), [[Amazon EC2|Ec2]] (2), hit (1), traffic (1)
 > **Env Vars:** api (10), ec2 (2), url (2)
-> **Code Keywords:** function (2), let (1), pass (1), finally, (1), case, (1)
 > **CLI Commands:** curl (3)
 > **UI Navigation:** select the (2), dropdown (1)
 > **Warnings:** note that (1)
@@ -6067,7 +6067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), lambda (2), function (2), let (1)
+> **Frameworks & Libraries:** api (6), [[Amazon EC2|Ec2]] (2), next (1), [[Search]] (1), [[Git]] (1)
 > **Env Vars:** api (6), ec2 (2)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** git (1)
@@ -6078,7 +6078,7 @@ created: 2026-04-29
 
 ### 8. Troubleshooting Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshooting connectivity issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-connectivity-issues?u=76281980)
@@ -6141,7 +6141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (3), let (2), default, (1)
+> **Frameworks & Libraries:** traffic (6), [[Security]] (6), aws (4), [[Amazon EC2|Ec2]] (3), api (1)
 > **Env Vars:** aws (4), ec2 (3), vpc (2), nacl (1), api (1)
 > **CLI Commands:** aws (4), make (3), find (1)
 > **Warnings:** troubleshoot (1), keep in mind (1), be aware (1)
@@ -6303,7 +6303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), case, (3), break. (3), default. (2), this, (1)
+> **Frameworks & Libraries:** next (6), aws (3), [[Amazon EC2|Ec2]] (3), [[Windows]] (3), [[Search]] (2)
 > **Env Vars:** vpc (5), aws (3), ec2 (3), url (2), ssh (1)
 > **Tools:** command line (5), aws console (1), windows terminal (1), terminal (1)
 > **Exercise Files:** template (6), exercise files (1), exercise file (1)
@@ -6479,7 +6479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), public (3), case, (2)
+> **Frameworks & Libraries:** [[Security]] (21), traffic (10), web (7), cloud (2), [[Amazon EC2|Ec2]] (2)
 > **UI Navigation:** click on (5), go to (2), select the (1), open the (1), dropdown (1)
 > **Env Vars:** ec2 (2), dns (2), vpc (1), aws (1)
 > **Ports:** port 80 (4), port 22 (1)
@@ -6545,7 +6545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2)
+> **Frameworks & Libraries:** cloud (7), [[Security]] (5), [[Troubleshooting]] (1), [[Amazon EC2|Ec2]] (1), management (1)
 > **Warnings:** note that (2)
 > **Env Vars:** ec2 (1)
 > **UI Navigation:** navigate to (1)
@@ -6554,7 +6554,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980)
@@ -6605,10 +6605,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (12), [[Security]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), business (1), dns (1)
 > **Env Vars:** aws (10), vpc (3), dns (1)
 > **CLI Commands:** aws (12), find (1)
 > **URLs:** [amazon.com](https://amazon.com) (2), [stackoverflow.com](https://stackoverflow.com) (1)
-> **Code Keywords:** continue (1), public (1)
 > **Tools:** slack (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [sharif] (1)

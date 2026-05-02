@@ -37,7 +37,7 @@ tags:
   - skill/data-engineering
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20SQL%20for%20Data%20Engineering-%20from%20Beginner%20to%20Advanced.md)
@@ -56,101 +56,101 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - SQL for data engineering
-  - What you should know
-  - Using Codespaces
+  - [SQL for data engineering](#sql-for-data-engineering)
+  - [What you should know](#what-you-should-know)
+  - [Using Codespaces](#using-codespaces)
 - [**1. SQL Introduction**](#1-sql-introduction) (4 videos)
-  - What is SQL and why learn it?
-  - Role of SQL in data engineering
-  - Setting up the SQL environment: Install PostgreSQL
-  - Walkthrough: PostgreSQL
+  - [What is SQL and why learn it?](#what-is-sql-and-why-learn-it)
+  - [Role of SQL in data engineering](#role-of-sql-in-data-engineering)
+  - [Setting up the SQL environment: Install PostgreSQL](#setting-up-the-sql-environment-install-postgresql)
+  - [Walkthrough: PostgreSQL](#walkthrough-postgresql)
 - [**2. SQL Basics**](#2-sql-basics) (7 videos)
-  - Introduction to databases and tables
-  - SQL syntax and basic queries
-  - Selecting and filtering data
-  - Sorting data with ORDER BY
-  - Combining conditions with AND and OR
-  - Challenge: Combine filter and ORDER BY
-  - Solution: Combine filter and ORDER BY
+  - [Introduction to databases and tables](#introduction-to-databases-and-tables)
+  - [SQL syntax and basic queries](#sql-syntax-and-basic-queries)
+  - [Selecting and filtering data](#selecting-and-filtering-data)
+  - [Sorting data with ORDER BY](#sorting-data-with-order-by)
+  - [Combining conditions with AND and OR](#combining-conditions-with-and-and-or)
+  - [Challenge: Combine filter and ORDER BY](#challenge-combine-filter-and-order-by)
+  - [Solution: Combine filter and ORDER BY](#solution-combine-filter-and-order-by)
 - [**3. Data Manipulation**](#3-data-manipulation) (6 videos)
-  - Introduction to data manipulation
-  - Inserting data into tables
-  - Updating existing records
-  - Deleting records from tables
-  - Challenge: Delete records
-  - Solution: Delete records
+  - [Introduction to data manipulation](#introduction-to-data-manipulation)
+  - [Inserting data into tables](#inserting-data-into-tables)
+  - [Updating existing records](#updating-existing-records)
+  - [Deleting records from tables](#deleting-records-from-tables)
+  - [Challenge: Delete records](#challenge-delete-records)
+  - [Solution: Delete records](#solution-delete-records)
 - [**4. Advanced Data Querying**](#4-advanced-data-querying) (11 videos)
-  - Introduction to joins
-  - Inner join explained
-  - Left and right joins explained
-  - Full outer joins
-  - Using the UNION operator
-  - Using the CASE statement for conditional logic
-  - Using GROUP BY to aggregate data
-  - Common aggregation functions: SUM, AVG, COUNT, etc.
-  - Filtering GROUP BY results with the HAVING clause
-  - Challenge: Joins
-  - Solution: Joins
+  - [Introduction to joins](#introduction-to-joins)
+  - [Inner join explained](#inner-join-explained)
+  - [Left and right joins explained](#left-and-right-joins-explained)
+  - [Full outer joins](#full-outer-joins)
+  - [Using the UNION operator](#using-the-union-operator)
+  - [Using the CASE statement for conditional logic](#using-the-case-statement-for-conditional-logic)
+  - [Using GROUP BY to aggregate data](#using-group-by-to-aggregate-data)
+  - [Common aggregation functions: SUM, AVG, COUNT, etc.](#common-aggregation-functions-sum-avg-count-etc)
+  - [Filtering GROUP BY results with the HAVING clause](#filtering-group-by-results-with-the-having-clause)
+  - [Challenge: Joins](#challenge-joins)
+  - [Solution: Joins](#solution-joins)
 - [**5. SQL Functions**](#5-sql-functions) (8 videos)
-  - Introduction to SQL functions
-  - Using mathematical functions
-  - Working with date functions
-  - Working with time functions
-  - String functions: Concatenation and trimming
-  - String functions: Changing case and extracting substrings
-  - Challenge: Play with strings
-  - Solution: Play with strings
+  - [Introduction to SQL functions](#introduction-to-sql-functions)
+  - [Using mathematical functions](#using-mathematical-functions)
+  - [Working with date functions](#working-with-date-functions)
+  - [Working with time functions](#working-with-time-functions)
+  - [String functions: Concatenation and trimming](#string-functions-concatenation-and-trimming)
+  - [String functions: Changing case and extracting substrings](#string-functions-changing-case-and-extracting-substrings)
+  - [Challenge: Play with strings](#challenge-play-with-strings)
+  - [Solution: Play with strings](#solution-play-with-strings)
 - [**6. SQL Analytical Functions**](#6-sql-analytical-functions) (9 videos)
-  - Introduction to analytical functions
-  - Using the RANK() function
-  - Using the DENSE_RANK() function
-  - Exploring the ROW_NUMBER() function
-  - Understanding the LAG() and LEAD() functions
-  - Running totals with SUM() OVER()
-  - Calculating moving averages
-  - Challenge: Find out the sum
-  - Solution: Find out the sum
+  - [Introduction to analytical functions](#introduction-to-analytical-functions)
+  - [Using the RANK() function](#using-the-rank-function)
+  - [Using the DENSE_RANK() function](#using-the-dense_rank-function)
+  - [Exploring the ROW_NUMBER() function](#exploring-the-row_number-function)
+  - [Understanding the LAG() and LEAD() functions](#understanding-the-lag-and-lead-functions)
+  - [Running totals with SUM() OVER()](#running-totals-with-sum-over)
+  - [Calculating moving averages](#calculating-moving-averages)
+  - [Challenge: Find out the sum](#challenge-find-out-the-sum)
+  - [Solution: Find out the sum](#solution-find-out-the-sum)
 - [**7. Views and Stored Procedures**](#7-views-and-stored-procedures) (6 videos)
-  - Introduction to views
-  - Creating and using views
-  - Introduction to stored procedures
-  - Creating and executing stored procedures
-  - Challenge: Select via view
-  - Solution: Select via view
+  - [Introduction to views](#introduction-to-views)
+  - [Creating and using views](#creating-and-using-views)
+  - [Introduction to stored procedures](#introduction-to-stored-procedures)
+  - [Creating and executing stored procedures](#creating-and-executing-stored-procedures)
+  - [Challenge: Select via view](#challenge-select-via-view)
+  - [Solution: Select via view](#solution-select-via-view)
 - [**8. Indexes and Performance**](#8-indexes-and-performance) (6 videos)
-  - Introduction to indexes
-  - Creating and managing indexes
-  - Understanding query performance
-  - Basic performance tuning techniques
-  - Challenge: Indexes
-  - Solution: Indexes
+  - [Introduction to indexes](#introduction-to-indexes)
+  - [Creating and managing indexes](#creating-and-managing-indexes)
+  - [Understanding query performance](#understanding-query-performance)
+  - [Basic performance tuning techniques](#basic-performance-tuning-techniques)
+  - [Challenge: Indexes](#challenge-indexes)
+  - [Solution: Indexes](#solution-indexes)
 - [**9. Database Security and User Management**](#9-database-security-and-user-management) (8 videos)
-  - Introduction to database security
-  - Understanding users and roles in SQL
-  - Creating users and assigning roles
-  - Granting and revoking permissions
-  - Using roles for permission management
-  - Best practices for managing roles and permissions
-  - Challenge: Create a role
-  - Solution: Create a role
+  - [Introduction to database security](#introduction-to-database-security)
+  - [Understanding users and roles in SQL](#understanding-users-and-roles-in-sql)
+  - [Creating users and assigning roles](#creating-users-and-assigning-roles)
+  - [Granting and revoking permissions](#granting-and-revoking-permissions)
+  - [Using roles for permission management](#using-roles-for-permission-management)
+  - [Best practices for managing roles and permissions](#best-practices-for-managing-roles-and-permissions)
+  - [Challenge: Create a role](#challenge-create-a-role)
+  - [Solution: Create a role](#solution-create-a-role)
 - [**10. Debugging: Common Mistakes and SQL Errors**](#10-debugging-common-mistakes-and-sql-errors) (4 videos)
-  - Understanding SQL syntax errors
-  - Logical errors in SQL
-  - Debugging NULL values
-  - Practical example: Debugging real SQL issues
+  - [Understanding SQL syntax errors](#understanding-sql-syntax-errors)
+  - [Logical errors in SQL](#logical-errors-in-sql)
+  - [Debugging NULL values](#debugging-null-values)
+  - [Practical example: Debugging real SQL issues](#practical-example-debugging-real-sql-issues)
 - [**11. ETL Overview**](#11-etl-overview) (3 videos)
-  - What is ETL and its importance
-  - ETL process flow
-  - Common ETL tools
+  - [What is ETL and its importance](#what-is-etl-and-its-importance)
+  - [ETL process flow](#etl-process-flow)
+  - [Common ETL tools](#common-etl-tools)
 - [**12. Real-World Project**](#12-real-world-project) (2 videos)
-  - Final project: Insurance claims analysis
-  - Final project solution: Insurance claims analysis
+  - [Final project: Insurance claims analysis](#final-project-insurance-claims-analysis)
+  - [Final project solution: Insurance claims analysis](#final-project-solution-insurance-claims-analysis)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980)
@@ -173,8 +173,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (3), [[Security]] (1), [[Microsoft]] (1), career (1)
 > **Env Vars:** sql (3), ddl (1), dml (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - do (1)
 
 #### What you should know
@@ -204,9 +204,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Engineering]] (5), [[PostgreSQL]] (3), [[Codespaces]] (2), database (1)
 > **Env Vars:** sql (5)
 > **Prerequisites:** prerequisite (2), set up (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **Speakers:** - [deepak] (1)
@@ -248,11 +248,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (2), hit (2), next (1)
 > **Prerequisites:** set up (2), setup (2), configure (1)
 > **Tools:** github (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** github repo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -260,7 +260,7 @@ created: 2026-04-29
 
 ### 1. SQL Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SQL and why learn it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980)
@@ -381,12 +381,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (30), data (21), database (11), [[Databases]] (9), management (3)
 > **Env Vars:** sql (30), rbdms (4), rdbms (1), ibm (1)
 > **Definitions:** is a  (6), stands for (3), is called (1)
 > **Analogies:** for example (4), imagine (2), picture (1)
 > **CLI Commands:** mysql (2), find (1)
 > **Cross-References:** as we saw (1), in the next (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Role of SQL in data engineering
@@ -478,8 +478,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (43), [[SQL]] (12), etl (10), database (5), [[Analytics]] (3)
 > **Env Vars:** sql (12), etl (10), ssis (1), csv (1), json (1)
-> **Code Keywords:** let (2), require (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
 > **Definitions:** stands for (1), is called (1)
@@ -664,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (7), default. (4), this. (3), this, (2)
+> **Frameworks & Libraries:** [[PostgreSQL]] (13), next (11), database (7), [[Windows]] (5), [[PostgreSQL|Postgres]] (4)
 > **UI Navigation:** click on (7), go to (2), select the (1)
 > **Prerequisites:** install (5), setup (3), set up (1), getting started (1)
 > **Env Vars:** sql (4), json (1), edb (1), gui (1), ssms (1)
@@ -798,8 +798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (19), [[PostgreSQL|Postgres]] (6), [[SQL]] (6), [[Search]] (6), [[PostgreSQL]] (5)
 > **UI Navigation:** click on (15), go to (3), select the (1)
-> **Code Keywords:** interface (3), this, (3), let (2), type, (1)
 > **Env Vars:** sql (6), ddl (1), gui (1)
 > **CLI Commands:** find (7)
 > **Analogies:** for example (6)
@@ -809,7 +809,7 @@ created: 2026-04-29
 
 ### 2. SQL Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to databases and tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980)
@@ -1000,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), type. (2), this, (1)
+> **Frameworks & Libraries:** database (16), data (8), [[Security]] (2), [[Databases]] (2), [[SQL]] (2)
 > **Analogies:** imagine (3), for example (3), it's like (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Definitions:** is a  (5)
@@ -1296,7 +1296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), this, (3), type, (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** product (19), data (11), [[Microsoft Products|Products]] (5), database (3), [[Electronics]] (3)
 > **Code Identifiers:** category_id (9), product_id (6), customer_id (5), customer_name (1), phone_number (1)
 > **Definitions:** is a  (8), means that (1)
 > **Env Vars:** sql (2), foreign (2), key (2), insert (1)
@@ -1396,7 +1396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (2), this. (2), this, (2), case, (1)
+> **Frameworks & Libraries:** product (4), [[SQL]] (2), business (1), power (1), data (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** sql (2)
@@ -1528,7 +1528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), this: (1), this. (1), default, (1)
+> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (5), [[SQL]] (3), data (2), [[E-Commerce]] (1)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** customer_name (3), pgadmin (1)
@@ -1662,7 +1662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), case, (2), this. (1)
+> **Frameworks & Libraries:** [[SQL]] (8), product (4), [[Microsoft Office|Office]] (3), [[Microsoft Products|Products]] (3), next (2)
 > **Env Vars:** sql (8)
 > **Analogies:** imagine (4), for example (2)
 > **UI Navigation:** go to (4), click on (1)
@@ -1706,14 +1706,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 3. Data Manipulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980)
@@ -1782,7 +1781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), case, (4), let (2)
+> **Frameworks & Libraries:** product (7), [[Data Manipulation]] (5), database (5), [[SQL]] (4), data (2)
 > **Env Vars:** sql (4)
 > **Analogies:** imagine (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -1959,7 +1958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (2), case, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (7), product (4), [[Microsoft Products|Products]] (3), [[SQL]] (2), [[Electronics]] (2)
 > **Env Vars:** insert (3), sql (2), into (2), gui (1)
 > **Analogies:** for example (5), imagine (2)
 > **Definitions:** is a  (3), means that (1), is an  (1)
@@ -2113,7 +2112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (2), case, (1), delete (1)
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), next (3), data (3), power (1)
 > **Code Identifiers:** ipad (7), pgadmin (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3), imagine (1)
@@ -2269,7 +2268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (45), let (9), case, (3), this, (2), this. (1)
+> **Frameworks & Libraries:** data (5), database (3), [[Microsoft Products|Products]] (1), [[Search]] (1), product (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (3), imagine (1)
 > **CLI Commands:** make (3)
@@ -2306,7 +2305,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2)
 > **Code Identifiers:** order_id (1)
 > **Speakers:** - remove (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2314,7 +2312,7 @@ created: 2026-04-29
 
 ### 4. Advanced Data Querying
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980)
@@ -2401,8 +2399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[SQL]] (3), business (2), power (1), [[Databases]] (1)
 > **Analogies:** picture (2), imagine (2), such as (1)
-> **Code Keywords:** let (3), case. (1)
 > **Env Vars:** sql (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2523,7 +2521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (3), this, (2), case. (1), case, (1)
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (5), data (4), [[Databases]] (1), next (1)
 > **Env Vars:** join (6), inner (4)
 > **CLI Commands:** find (7), make (1)
 > **Code Identifiers:** product_id (3), customer_id (2), total_amount (1), customer_name (1)
@@ -2649,8 +2647,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (3), [[Fetch]] (1), next (1)
 > **Code Identifiers:** customer_name (2), total_amount (2), customer_id (2), total_quantity (2), product_id (2)
-> **Code Keywords:** let (5), case, (1), this, (1), this. (1)
 > **Analogies:** imagine (3)
 > **Cross-References:** go back to (1), next video (1)
 > **Definitions:** is a  (2)
@@ -2836,8 +2834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), product (5), [[Microsoft Products|Products]] (1), [[SQL]] (1)
 > **Code Identifiers:** product_id (9), total_quantity (6), customer_id (5), customer_name (4), product_name (2)
-> **Code Keywords:** let (6), this. (1), from, (1), this, (1), abstract (1)
 > **Analogies:** imagine (3), for example (3)
 > **Warnings:** be aware (4), keep in mind (2)
 > **Definitions:** is a  (3)
@@ -2992,8 +2990,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (9), [[Electronics]] (5), [[SQL]] (3), data (2)
 > **Env Vars:** union (16), join (7), sql (3)
-> **Code Keywords:** let (9), this, (3), case. (1)
 > **SQL:** join (7)
 > **Code Identifiers:** product_id (2), pgadmin (1), category_id (1), total_quantity (1)
 > **CLI Commands:** find (4)
@@ -3126,7 +3124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (3), switch (2), case, (2), else, (2)
+> **Frameworks & Libraries:** product (12), data (2), [[Programming]] (2), [[Microsoft Products|Products]] (2), power (2)
 > **Analogies:** imagine (1), similar to (1)
 > **Code Identifiers:** pgadmin (1)
 > **Env Vars:** sql (1)
@@ -3263,7 +3261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (3), function (3)
+> **Frameworks & Libraries:** data (24), product (4), [[SQL]] (2), [[Dashboards]] (2), database (1)
 > **Analogies:** for example (5), imagine (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sql (2)
@@ -3396,7 +3394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (7), this. (3), this, (2)
+> **Frameworks & Libraries:** [[SQL]] (2), data (2), [[Data Engineering]] (1), next (1)
 > **Env Vars:** group (4), count (2), sql (2), sum (1), average (1)
 > **Code Identifiers:** total_amount (6), customer_id (4), pgadmin (1)
 > **CLI Commands:** find (4)
@@ -3530,9 +3528,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (12), data (8), [[SQL]] (2), [[Microsoft Products|Products]] (2), [[Electronics]] (1)
 > **Env Vars:** having (12), group (11), where (9), sql (2)
 > **SQL:** having (12), group by (11), where (9)
-> **Code Keywords:** let (6), this, (3), case, (1), this: (1), class, (1)
 > **CLI Commands:** find (5)
 > **Code Identifiers:** product_id (2), pgadmin (1), category_id (1)
 > **Analogies:** imagine (3)
@@ -3550,6 +3548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Electronics]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
@@ -3582,7 +3581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), let (1), this. (1)
+> **Frameworks & Libraries:** product (8), [[Electronics]] (3), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** category_id (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -3591,7 +3590,7 @@ created: 2026-04-29
 
 ### 5. SQL Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to SQL functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980)
@@ -3674,7 +3673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), pass (1)
+> **Frameworks & Libraries:** data (3), [[Programming]] (2), [[SQL]] (2), next (1), [[PostgreSQL]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (2), imagine (1), it's like (1)
 > **Env Vars:** sql (2)
@@ -3775,7 +3774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (6), pass (3), this, (2), this. (2)
+> **Frameworks & Libraries:** [[SQL]] (3), data (2), next (1)
 > **Env Vars:** sql (3), abs (1), ceil (1), floor (1), round (1)
 > **Versions:** 2.6 (3), 2.3 (2), 2.7 (1), 2.34 (1), 2.35 (1)
 > **Analogies:** for example (4)
@@ -3957,7 +3956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (13), this, (4), pass (3), this. (1)
+> **Frameworks & Libraries:** database (1), [[Data Engineering]] (1), [[Microsoft Word|Word]] (1), data (1), next (1)
 > **Definitions:** is a  (7), is called (2)
 > **Analogies:** for example (7), imagine (1), similar to (1)
 > **Code Identifiers:** current_date (2), to_char (2), date_trunc (1), to_date (1)
@@ -4095,7 +4094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (6), this, (1), case, (1), pass (1)
+> **Frameworks & Libraries:** data (4), next (2)
 > **Code Identifiers:** order_timestamp (5), current_timestamp (3), current_time (2), delivery_timestamp (2), date_truncate (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), imagine (2), similar to (1)
@@ -4202,7 +4201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (4), this, (4), this. (2), case, (2)
+> **Frameworks & Libraries:** data (6), database (1), next (1)
 > **Definitions:** is a  (3), is called (3)
 > **Analogies:** for example (3)
 > **Env Vars:** pia (1), xxx (1)
@@ -4328,7 +4327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (8), case, (4), pass (3), this, (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Representational State Transfer (REST)|Rest]] (3), [[SQL]] (2), [[Programming]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** pgadmin (1), customer_name (1)
 > **Env Vars:** sql (2)
@@ -4356,8 +4355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** case. (1), let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bubbly electronic music) (1)
 
@@ -4384,7 +4383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), this, (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Electronics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -4393,7 +4392,7 @@ created: 2026-04-29
 
 ### 6. SQL Analytical Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to analytical functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980)
@@ -4478,8 +4477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[SQL]] (6), [[E-Commerce]] (2), [[Data Manipulation]] (2), [[Scalability]] (2)
 > **Env Vars:** sql (6), rank (4), dense_rank (3), row_number (2), sum (2)
-> **Code Keywords:** function (10), let (2), require (1), self (1)
 > **Analogies:** for example (2), imagine (1), for instance (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
@@ -4623,7 +4622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (10), case, (2), this, (1), this. (1)
+> **Frameworks & Libraries:** product (13), next (8), business (2), [[PostgreSQL]] (1), [[SQL]] (1)
 > **Code Identifiers:** customer_id (10), total_amount (6), pgadmin (1), order_rank (1)
 > **Env Vars:** rank (9), sql (1), dense_rank (1)
 > **Analogies:** for example (4), imagine (1), it's like (1)
@@ -4703,7 +4702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (4), case. (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[PostgreSQL]] (1), data (1)
 > **Env Vars:** dense_rank (9), desc (1)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -4812,7 +4811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (7), this. (2), case, (2), this, (2)
+> **Frameworks & Libraries:** next (3), [[Databases]] (1), [[SQL]] (1), [[PostgreSQL]] (1), product (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Analogies:** imagine (2), such as (1)
 > **Code Identifiers:** pgadmin (1), order_timestamp (1)
@@ -4936,8 +4935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (14), data (4), [[E-Commerce]] (2), database (2), product (1)
 > **Env Vars:** lag (13), lead (12)
-> **Code Keywords:** function (10), let (5), case, (4), this, (3), this. (2)
 > **Code Identifiers:** order_timestamp (7), customer_id (3), order_id (1), next_order (1)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** find (2)
@@ -5078,7 +5077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), this. (2), case. (1), this, (1)
+> **Frameworks & Libraries:** product (9), next (4), data (3), [[SQL]] (1), [[Databases]] (1)
 > **Code Identifiers:** order_timestamp (2), product_id (2), customer_id (1), order_id (1), total_amount (1)
 > **Env Vars:** sum (2), sql (1)
 > **Analogies:** imagine (2), it's like (1)
@@ -5214,7 +5213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), function (1)
+> **Frameworks & Libraries:** data (4), [[E-Commerce]] (1), product (1), [[SQL]] (1), [[Data Engineering]] (1)
 > **Code Identifiers:** customer_id (2), order_timestamp (2), order_id (1), total_amount (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Versions:** 76.5 (1), 77.67 (1)
@@ -5238,7 +5237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -5265,7 +5264,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** product_id (2), order_timestamp (2), total_quantity (2), running_qty (2)
-> **Code Keywords:** let (1), this, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5273,7 +5271,7 @@ created: 2026-04-29
 
 ### 7. Views and Stored Procedures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to views
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980)
@@ -5348,9 +5346,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), product (2), database (2), [[Relational Databases]] (1), [[SQL]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** it's like (2), imagine (2), picture (1)
-> **Code Keywords:** let (3), if, (1)
 > **Env Vars:** sql (1), select (1)
 > **SQL:** select (1)
 > **Definitions:** is a  (1)
@@ -5493,7 +5491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), case, (2), this. (1), type, (1)
+> **Frameworks & Libraries:** data (9), [[SQL]] (4), [[PostgreSQL]] (1), database (1), next (1)
 > **Code Identifiers:** customer_id (3), customer_order_summary (2), pgadmin (1), order_id (1), total_amount (1)
 > **Env Vars:** sql (4)
 > **Cross-References:** go back to (1), as we saw (1), in the next (1)
@@ -5587,9 +5585,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (3), [[Security]] (3), database (3), [[Programming]] (2)
 > **Analogies:** it's like (2), imagine (1), similar to (1), just like (1)
 > **Env Vars:** sql (3), alter (1)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is called (2)
 > **Code Identifiers:** pgadmin (1)
 > **Cross-References:** next video (1)
@@ -5708,7 +5706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (3), this, (2), delete (2), this. (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[PostgreSQL]] (2), [[Microsoft Products|Products]] (1), next (1)
 > **Code Identifiers:** add_category (2), cat_id (2), cat_name (2), pgadmin (1), pgsql (1)
 > **Env Vars:** sql (3), begin (2), end (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -5729,6 +5727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle music) (1)
 
@@ -5769,7 +5768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2)
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** category_id (2), prod_cat (2)
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (upbeat synth music) (1)
@@ -5777,7 +5776,7 @@ created: 2026-04-29
 
 ### 8. Indexes and Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980)
@@ -5846,8 +5845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (4), [[SQL]] (2), [[User Experience (UX)|User experience]] (1), next (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** let (2), for. (1), case, (1)
 > **Env Vars:** sql (2)
 > **Analogies:** imagine (1), for instance (1)
 > **Cross-References:** in the next (1)
@@ -5958,7 +5957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (1)
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), application (2), [[Search]] (2), data (2)
 > **Code Identifiers:** category_id (2), pgadmin (1), idx_customer_email (1), prod_ca (1), idx_prod_name (1)
 > **Env Vars:** create (2), index (2)
 > **SQL:** index (2)
@@ -6100,7 +6099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), this, (1), try, (1), from, (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (9), [[SQL]] (4), data (4), [[Statistics]] (3), database (2)
 > **Code Identifiers:** track_activities (3), track_counts (2), pgbadger (2), pgadmin (1), order_id (1)
 > **Env Vars:** sql (4)
 > **Definitions:** is a  (4)
@@ -6232,7 +6231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1), type, (1), case, (1)
+> **Frameworks & Libraries:** data (8), database (5), [[SQL]] (2), [[Security]] (2), next (2)
 > **Env Vars:** cte (5), sql (2)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (3), just like (1), imagine (1)
@@ -6258,6 +6257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -6282,6 +6282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2)
 > **Code Identifiers:** order_timestamp (4), order_idx (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -6289,7 +6290,7 @@ created: 2026-04-29
 
 ### 9. Database Security and User Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to database security
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980)
@@ -6380,8 +6381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), data (15), [[Security]] (10), [[PostgreSQL]] (2), [[SQL]] (2)
 > **Analogies:** for example (4), imagine (3), just like (1)
-> **Code Keywords:** let (2), private (1), this. (1)
 > **Env Vars:** sql (2), vip (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** find (1)
@@ -6471,11 +6472,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[SQL]] (4), [[Security]] (3), management (2), data (2)
 > **Analogies:** for example (3), imagine (2), such as (2)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6618,7 +6619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), super (2), delete (2), case, (2), this. (1)
+> **Frameworks & Libraries:** database (3), [[SQL]] (2), [[Security]] (1), parallel (1), management (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -6788,7 +6789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (4), case, (2), public (2), this, (2)
+> **Frameworks & Libraries:** database (7), [[SQL]] (4), data (2), next (1)
 > **Analogies:** for example (3), such as (1), imagine (1), it's like (1), just like (1)
 > **Env Vars:** sql (4)
 > **Cross-References:** go back to (1), previous video (1), in the next (1)
@@ -6908,7 +6909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (4), function (1), case, (1)
+> **Frameworks & Libraries:** management (4), [[SQL]] (2), database (2), [[E-Commerce]] (2), next (2)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -7027,8 +7028,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (9), product (4), [[SQL]] (3), [[Security]] (3)
 > **Env Vars:** sql (3), noinherit (2), pii (1)
-> **Code Keywords:** super (2), function (1), public (1), case, (1)
 > **Best Practices:** best practice (4)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1)
@@ -7051,7 +7052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bubbly electronic music) (1)
 
@@ -7076,14 +7077,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** product (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 10. Debugging: Common Mistakes and SQL Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding SQL syntax errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980)
@@ -7252,8 +7253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (22), data (5), database (2), [[PostgreSQL]] (2), [[Databases]] (1)
 > **Env Vars:** sql (22), varchar (2)
-> **Code Keywords:** type. (6), let (4), this, (3), function (3), this. (2)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (3)
 > **Code Identifiers:** customer_name (2), customer_mame (1)
@@ -7372,10 +7373,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), data (7), database (2), next (1), [[Debugging]] (1)
 > **Env Vars:** null (10), sql (8), join (4), group (4), where (4)
 > **SQL:** group by (4), where (4), join (3), having (3), left join (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), function (1)
 > **Analogies:** for example (2), it's like (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -7494,7 +7495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (3), this, (2), this. (1), else. (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Debugging]] (3), data (3), [[Microsoft Products|Products]] (2), database (1)
 > **Env Vars:** sql (4), coalesce (3), nullif (1)
 > **Analogies:** for example (3), just like (1), for instance (1)
 > **CLI Commands:** find (1), make (1)
@@ -7628,7 +7629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), this, (2), function (1)
+> **Frameworks & Libraries:** product (6), [[SQL]] (4), [[Microsoft Products|Products]] (2), next (2), [[Debugging]] (1)
 > **Env Vars:** sql (4), sum (2), join (2), group (1), etl (1)
 > **Code Identifiers:** product_id (4), total_quantity (3), pgadmin (1), order_month (1)
 > **CLI Commands:** find (3)
@@ -7640,7 +7641,7 @@ created: 2026-04-29
 
 ### 11. ETL Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ETL and its importance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980)
@@ -7747,10 +7748,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), etl (19), business (5), management (3), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** etl (19), crm (2), rdbms (1), csv (1), json (1)
 > **Definitions:** is a  (3), stands for (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** next video (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -7847,8 +7848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), etl (6), business (3), [[Real-Time]] (3), next (2)
 > **Env Vars:** etl (6), rdbms (1), csv (1), json (1)
-> **Code Keywords:** type, (2), type. (2), let (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is called (1), is a  (1)
@@ -7958,8 +7959,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), etl (28), cloud (8), feature (4), [[Scalability]] (3)
 > **Env Vars:** etl (28), aws (2), sql (1), sftp (1), ftp (1)
-> **Code Keywords:** require (3), let (2), for. (2), interface (1)
 > **CLI Commands:** aws (2), make (1), apache (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), similar to (1)
@@ -7968,7 +7969,7 @@ created: 2026-04-29
 
 ### 12. Real-World Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project: Insurance claims analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-insurance-claims-analysis?u=76281980)
@@ -8019,7 +8020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (1), type. (1)
+> **Frameworks & Libraries:** data (8), database (3), [[Databases]] (1), [[Security]] (1), next (1)
 > **SQL:** where (1)
 > **Env Vars:** where (1)
 > **Cross-References:** in the next (1)
@@ -8270,7 +8271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), type. (6), this. (5), this, (2), delete (2)
+> **Frameworks & Libraries:** data (9), database (6), next (3), [[Security]] (1)
 > **Env Vars:** insert (5), create (3), into (2), group (2), role (2)
 > **SQL:** insert into (2), group by (2), select (2), varchar (1), order by (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -8282,7 +8283,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980)
@@ -8309,6 +8310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Engineering]] (2), data (2), next (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

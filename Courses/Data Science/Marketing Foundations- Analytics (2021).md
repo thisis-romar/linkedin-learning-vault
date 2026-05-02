@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/marketing-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Foundations-%20Analytics%20(2021).md)
@@ -45,31 +45,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Improve your marketing analytics acumen
+  - [Improve your marketing analytics acumen](#improve-your-marketing-analytics-acumen)
 - [**1. The Objective of Marketing Analytics**](#1-the-objective-of-marketing-analytics) (4 videos)
-  - Obstacles to effective marketing analytics
-  - Identify your business objectives for marketing analytics
-  - Define objectives, goals, metrics, and KPIs
-  - Implement business objectives for strategy
+  - [Obstacles to effective marketing analytics](#obstacles-to-effective-marketing-analytics)
+  - [Identify your business objectives for marketing analytics](#identify-your-business-objectives-for-marketing-analytics)
+  - [Define objectives, goals, metrics, and KPIs](#define-objectives-goals-metrics-and-kpis)
+  - [Implement business objectives for strategy](#implement-business-objectives-for-strategy)
 - [**2. A Clear Analytics Strategy Creates Clear Measurement**](#2-a-clear-analytics-strategy-creates-clear-measurement) (4 videos)
-  - Create measurements that connect to objectives
-  - Focus on marketing tactics, not channels
-  - Establish target outcomes and value for your analytics
-  - Establish comparison and benchmark data
+  - [Create measurements that connect to objectives](#create-measurements-that-connect-to-objectives)
+  - [Focus on marketing tactics, not channels](#focus-on-marketing-tactics-not-channels)
+  - [Establish target outcomes and value for your analytics](#establish-target-outcomes-and-value-for-your-analytics)
+  - [Establish comparison and benchmark data](#establish-comparison-and-benchmark-data)
 - [**3. Implement Analysis Methods**](#3-implement-analysis-methods) (3 videos)
-  - Leverage the best analytics skill: Asking questions
-  - Apply question-asking frameworks
-  - Connect measurement factors in marketing campaigns
+  - [Leverage the best analytics skill: Asking questions](#leverage-the-best-analytics-skill-asking-questions)
+  - [Apply question-asking frameworks](#apply-question-asking-frameworks)
+  - [Connect measurement factors in marketing campaigns](#connect-measurement-factors-in-marketing-campaigns)
 - [**4. Turn Data into Insight, Insight into Action**](#4-turn-data-into-insight-insight-into-action) (3 videos)
-  - Apply KPIs to connect data to action
-  - Improve the user experience using marketing analytics
-  - Establish a reporting framework for your analytics data
+  - [Apply KPIs to connect data to action](#apply-kpis-to-connect-data-to-action)
+  - [Improve the user experience using marketing analytics](#improve-the-user-experience-using-marketing-analytics)
+  - [Establish a reporting framework for your analytics data](#establish-a-reporting-framework-for-your-analytics-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Implementing your marketing analytics strategy
+  - [Implementing your marketing analytics strategy](#implementing-your-marketing-analytics-strategy)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your marketing analytics acumen
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-your-marketing-analytics-acumen?u=76281980)
@@ -112,15 +112,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (7), data (2), [[LinkedIn]] (2), business (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (2)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [matt] (1)
 
 
 ### 1. The Objective of Marketing Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Obstacles to effective marketing analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/obstacles-to-effective-marketing-analytics?u=76281980)
@@ -193,6 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (3), [[Marketing Analytics]] (2), [[Analytics]] (2), teams (1)
 > **Env Vars:** cpm (2), cpc (2), ana (1), roi (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1)
@@ -269,8 +270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), business (4), [[Lead Generation]] (2)
 > **Env Vars:** b2b (2), ceo (1), cpm (1), cpc (1)
-> **Code Keywords:** require (1), finally, (1)
 > **Exercise Files:** exercise files (1), download the (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -368,11 +369,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (3), business (3), next (2), seo (2), data (2)
 > **Env Vars:** kpi (3), seo (2), ceo (1), pdf (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Speakers:** - [narrator] (1)
 
 #### Implement business objectives for strategy
@@ -494,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), case, (2), for. (1), this, (1)
+> **Frameworks & Libraries:** next (7), data (6), [[Analytics]] (5), business (3), [[Marketing Strategy]] (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** b2b (1)
 > **Cross-References:** go back to (1)
@@ -505,7 +506,7 @@ created: 2026-04-29
 
 ### 2. A Clear Analytics Strategy Creates Clear Measurement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create measurements that connect to objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980)
@@ -596,7 +597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (8), [[Analytics]] (3), data (1), [[Marketing Strategy]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** roi (1), kpi (1), seo (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), such as (1)
@@ -680,7 +681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1)
+> **Frameworks & Libraries:** data (8), business (3), [[Strategic Thinking]] (2), teams (2), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - marketers (1)
@@ -764,9 +765,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), data (2), [[Analytics]] (2), [[Marketing Strategy]] (1), [[E-Commerce]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** b2b (2), b2c (1)
-> **Code Keywords:** for. (1), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -855,9 +856,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Analytics]] (1), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this, (1), let (1)
 > **Versions:** 1.25 (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** the key is (1)
@@ -866,7 +867,7 @@ created: 2026-04-29
 
 ### 3. Implement Analysis Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage the best analytics skill: Asking questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/leverage-the-best-analytics-skill-asking-questions?u=76281980)
@@ -967,7 +968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), if, (1)
+> **Frameworks & Libraries:** data (3), next (3), [[Marketing Strategy]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - people (1)
@@ -1055,6 +1056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Analytics]] (8), next (3), [[Search]] (1), [[Google]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1150,17 +1152,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), business (2), [[Analytics]] (1)
 > **Env Vars:** cpm (3), ctr (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Turn Data into Insight, Insight into Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply KPIs to connect data to action
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/apply-kpis-to-connect-data-to-action?u=76281980)
@@ -1241,6 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (2), [[Analytics]] (1), hit (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** cpm (4)
 > **Definitions:** is a  (2)
@@ -1316,7 +1319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), yield (1)
+> **Frameworks & Libraries:** [[Analytics]] (1), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1417,8 +1420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft PowerPoint|Powerpoint]] (1), business (1), next (1)
 > **Versions:** 0.07 (2), 0.01 (1), 0.75 (1), 1.8 (1)
-> **Code Keywords:** case, (2), throw (1), let (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1426,7 +1429,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing your marketing analytics strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implementing-your-marketing-analytics-strategy?u=76281980)
@@ -1473,8 +1476,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Analytics]] (3), business (2), [[LinkedIn]] (2)
 > **CLI Commands:** find (8), make (2)
-> **Code Keywords:** finally, (1)
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
 

@@ -36,7 +36,7 @@ tags:
   - skill/code-interpretation
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Code%20Interpreter%20and%20Advanced%20Data%20Analysis.md)
@@ -55,26 +55,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to Code Interpreter and Advanced Data Analysis
+  - [Introduction to Code Interpreter and Advanced Data Analysis](#introduction-to-code-interpreter-and-advanced-data-analysis)
 - [**1. Understanding the OpenAI Advanced Data Analysis and Code Interpreter**](#1-understanding-the-openai-advanced-data-analysis-and-code-interpreter) (2 videos)
-  - Explore Advanced Data Analysis features and capabilities
-  - Understand the Code Interpreter Tool via the Assistants API
+  - [Explore Advanced Data Analysis features and capabilities](#explore-advanced-data-analysis-features-and-capabilities)
+  - [Understand the Code Interpreter Tool via the Assistants API](#understand-the-code-interpreter-tool-via-the-assistants-api)
 - [**2. Using the OpenAI Advanced Data Analysis with ChatGPT**](#2-using-the-openai-advanced-data-analysis-with-chatgpt) (2 videos)
-  - Conduct data analysis via the ChatGPT UI
-  - Perform data visualization via the ChatGPT UI
+  - [Conduct data analysis via the ChatGPT UI](#conduct-data-analysis-via-the-chatgpt-ui)
+  - [Perform data visualization via the ChatGPT UI](#perform-data-visualization-via-the-chatgpt-ui)
 - [**3. Accessing the Code Interpreter Tool from the Assistants API**](#3-accessing-the-code-interpreter-tool-from-the-assistants-api) (3 videos)
-  - Generate and apply Python code
-  - Review and optimize Python code
-  - Troubleshoot using logs
+  - [Generate and apply Python code](#generate-and-apply-python-code)
+  - [Review and optimize Python code](#review-and-optimize-python-code)
+  - [Troubleshoot using logs](#troubleshoot-using-logs)
 - [**4. Exploring Pricing and Limitations**](#4-exploring-pricing-and-limitations) (2 videos)
-  - Estimate pricing
-  - Understand limitations
+  - [Estimate pricing](#estimate-pricing)
+  - [Understand limitations](#understand-limitations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your Advanced Data Analysis and Code Interpreter journey
+  - [Your Advanced Data Analysis and Code Interpreter journey](#your-advanced-data-analysis-and-code-interpreter-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Code Interpreter and Advanced Data Analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/introduction-to-code-interpreter-and-advanced-data-analysis?u=76281980)
@@ -91,13 +91,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), data (2), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Application Development]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [williams] (1)
 
 
 ### 1. Understanding the OpenAI Advanced Data Analysis and Code Interpreter
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Advanced Data Analysis features and capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980)
@@ -144,10 +145,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[ChatGPT]] (7), prompt (2), [[Python (Programming Language)|Python]] (2), feature (2)
 > **Env Vars:** pdf (1), csv (1), api (1)
 > **CLI Commands:** python (2)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** imagine (1)
@@ -196,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), data (3), ai (2), [[Python (Programming Language)|Python]] (2), next (2)
 > **Env Vars:** api (6)
-> **Code Keywords:** let (3), function (1)
 > **CLI Commands:** python (2), tar (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
@@ -206,7 +207,7 @@ created: 2026-04-29
 
 ### 2. Using the OpenAI Advanced Data Analysis with ChatGPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conduct data analysis via the ChatGPT UI
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980)
@@ -341,7 +342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), this. (1), module (1), this, (1)
+> **Frameworks & Libraries:** data (17), product (8), [[Microsoft Excel|Excel]] (7), next (6), [[ChatGPT]] (5)
 > **CLI Commands:** python (4), make (1)
 > **Env Vars:** csv (4)
 > **UI Navigation:** click on (2), scroll down (2)
@@ -417,7 +418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** product (13), data (6), [[ChatGPT]] (5), prompt (4), next (4)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** api (1)
@@ -428,7 +429,7 @@ created: 2026-04-29
 
 ### 3. Accessing the Code Interpreter Tool from the Assistants API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generate and apply Python code
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980)
@@ -535,7 +536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (9), module (3)
+> **Frameworks & Libraries:** api (11), [[Python (Programming Language)|Python]] (7), next (6), data (2), application (1)
 > **Env Vars:** api (12), sdk (1)
 > **CLI Commands:** python (7)
 > **UI Navigation:** scroll down (5), navigate to (1)
@@ -651,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (5), case, (1), pass (1), module (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), api (3), next (3), [[ChatGPT]] (3), power (1)
 > **Code Identifiers:** query_assistant (2), upload_file (1), create_assistant (1), code_to_improve (1), calculate_average (1)
 > **UI Navigation:** scroll down (6), navigate to (1)
 > **CLI Commands:** python (5), find (1)
@@ -803,7 +804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (3), pass (1), module (1), case, (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (5), api (2), [[Python (Programming Language)|Python]] (2), [[Troubleshooting]] (2)
 > **Code Identifiers:** create_assistant (2), query_assistant (2), world_map_cities (2), upload_file (1), file_id (1)
 > **UI Navigation:** scroll down (8), go to (1)
 > **Env Vars:** api (2), xml (2), png (1)
@@ -815,7 +816,7 @@ created: 2026-04-29
 
 ### 4. Exploring Pricing and Limitations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Estimate pricing
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980)
@@ -860,7 +861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), data (2), api (2), [[Tokens]] (2), feature (1)
 > **Env Vars:** api (2)
 > **Versions:** 0.03 (1)
 > **Best Practices:** don't forget (1)
@@ -922,7 +923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (6), [[Tokens]] (2), api (2), feature (1), [[ChatGPT]] (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** python (1)
 > **Cross-References:** we discussed (1)
@@ -931,7 +932,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your Advanced Data Analysis and Code Interpreter journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980)
@@ -964,9 +965,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), feature (2), api (2), power (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** python (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [kesha] (1)
 
 

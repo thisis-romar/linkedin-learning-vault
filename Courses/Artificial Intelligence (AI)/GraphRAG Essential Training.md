@@ -39,7 +39,7 @@ tags:
   - skill/knowledge-graphs
   - skill/graphrag
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GraphRAG%20Essential%20Training.md)
@@ -58,52 +58,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Prevent GenAI apps from hallucinating
-  - An example of knowledge graphs at work in AI
-  - Codespaces explainer video
+  - [Prevent GenAI apps from hallucinating](#prevent-genai-apps-from-hallucinating)
+  - [An example of knowledge graphs at work in AI](#an-example-of-knowledge-graphs-at-work-in-ai)
+  - [Codespaces explainer video](#codespaces-explainer-video)
 - [**1. Graphs Made Simple: Understanding the Basics**](#1-graphs-made-simple-understanding-the-basics) (7 videos)
-  - What is a graph?
-  - Recognizing graphs in everyday life
-  - Why are graphs useful?
-  - Nodes, relationships, and properties
-  - Graphs vs. traditional data structures
-  - Knowledge graphs: Connecting information
-  - How graphs power AI
+  - [What is a graph?](#what-is-a-graph)
+  - [Recognizing graphs in everyday life](#recognizing-graphs-in-everyday-life)
+  - [Why are graphs useful?](#why-are-graphs-useful)
+  - [Nodes, relationships, and properties](#nodes-relationships-and-properties)
+  - [Graphs vs. traditional data structures](#graphs-vs-traditional-data-structures)
+  - [Knowledge graphs: Connecting information](#knowledge-graphs-connecting-information)
+  - [How graphs power AI](#how-graphs-power-ai)
 - [**2. Getting Started with Graph Tools**](#2-getting-started-with-graph-tools) (8 videos)
-  - What is a graph database?
-  - Introduction to Neo4j
-  - Setting up Neo4j
-  - Exploring the Neo4j browser
-  - Cypher basics: Writing your first queries
-  - More cypher: Retrieving nodes and relationships
-  - Connecting Python to Neo4j
-  - Testing your setup with Cypher queries
+  - [What is a graph database?](#what-is-a-graph-database)
+  - [Introduction to Neo4j](#introduction-to-neo4j)
+  - [Setting up Neo4j](#setting-up-neo4j)
+  - [Exploring the Neo4j browser](#exploring-the-neo4j-browser)
+  - [Cypher basics: Writing your first queries](#cypher-basics-writing-your-first-queries)
+  - [More cypher: Retrieving nodes and relationships](#more-cypher-retrieving-nodes-and-relationships)
+  - [Connecting Python to Neo4j](#connecting-python-to-neo4j)
+  - [Testing your setup with Cypher queries](#testing-your-setup-with-cypher-queries)
 - [**3. Building Your First Knowledge Graph for Graph Retrieval-Augmented Generation (GraphRAG)**](#3-building-your-first-knowledge-graph-for-graph-retrieval-augmented-generation-graphrag) (8 videos)
-  - Introduction to Retrieval-Augmented Generation (RAG)
-  - How RAG works with vector embeddings
-  - Improving your RAG with graphs: GraphRAG
-  - Overview of LangChain
-  - Key concepts in LangChain for graph workflows
-  - Populating a knowledge graph into Neo4j using LangChain
-  - Challenge: Query your knowledge graph with Cypher
-  - Solution: Query your knowledge graph with Cypher
+  - [Introduction to Retrieval-Augmented Generation (RAG)](#introduction-to-retrieval-augmented-generation-rag)
+  - [How RAG works with vector embeddings](#how-rag-works-with-vector-embeddings)
+  - [Improving your RAG with graphs: GraphRAG](#improving-your-rag-with-graphs-graphrag)
+  - [Overview of LangChain](#overview-of-langchain)
+  - [Key concepts in LangChain for graph workflows](#key-concepts-in-langchain-for-graph-workflows)
+  - [Populating a knowledge graph into Neo4j using LangChain](#populating-a-knowledge-graph-into-neo4j-using-langchain)
+  - [Challenge: Query your knowledge graph with Cypher](#challenge-query-your-knowledge-graph-with-cypher)
+  - [Solution: Query your knowledge graph with Cypher](#solution-query-your-knowledge-graph-with-cypher)
 - [**4. Connecting Knowledge Graphs to Generative AI**](#4-connecting-knowledge-graphs-to-generative-ai) (7 videos)
-  - Creating a GraphRAG pipeline with LangChain to query your data
-  - Enhancing your knowledge graph with richer data
-  - Using knowledge graphs in a GraphRAG pipeline
-  - Comparing the GraphRAG results to a traditional vector-based RAG
-  - Evaluating your GraphRAG pipeline
-  - Challenge: Evaluate your GraphRAG application
-  - Solution: Evaluate your GraphRAG application
+  - [Creating a GraphRAG pipeline with LangChain to query your data](#creating-a-graphrag-pipeline-with-langchain-to-query-your-data)
+  - [Enhancing your knowledge graph with richer data](#enhancing-your-knowledge-graph-with-richer-data)
+  - [Using knowledge graphs in a GraphRAG pipeline](#using-knowledge-graphs-in-a-graphrag-pipeline)
+  - [Comparing the GraphRAG results to a traditional vector-based RAG](#comparing-the-graphrag-results-to-a-traditional-vector-based-rag)
+  - [Evaluating your GraphRAG pipeline](#evaluating-your-graphrag-pipeline)
+  - [Challenge: Evaluate your GraphRAG application](#challenge-evaluate-your-graphrag-application)
+  - [Solution: Evaluate your GraphRAG application](#solution-evaluate-your-graphrag-application)
 - [**5. Putting It All Together: Creating a Question-Answering Bot with GraphRAG**](#5-putting-it-all-together-creating-a-question-answering-bot-with-graphrag) (2 videos)
-  - Introduction to capstone project
-  - Walkthrough of capstone solution
+  - [Introduction to capstone project](#introduction-to-capstone-project)
+  - [Walkthrough of capstone solution](#walkthrough-of-capstone-solution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with knowledge graphs, GraphRAG, and GenAI
+  - [Continuing on with knowledge graphs, GraphRAG, and GenAI](#continuing-on-with-knowledge-graphs-graphrag-and-genai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prevent GenAI apps from hallucinating
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** rag (2), data (2), [[Generative AI]] (1), database (1), ai (1)
 > **Env Vars:** rag (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - have (1)
@@ -190,8 +190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), chatbot (4), llm (2), rag (2), [[Knowledge Graphs]] (2)
 > **Env Vars:** llm (2), rag (2)
-> **Code Keywords:** let (2), catch. (1)
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - have (1)
 
@@ -228,6 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (4), [[GitHub]] (2), api (2), llm (2), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** select the (2), navigate to (1), click on (1), go to (1)
 > **Env Vars:** api (2), llm (2)
 > **Tools:** github (2), vs code (1)
@@ -238,7 +239,7 @@ created: 2026-04-29
 
 ### 1. Graphs Made Simple: Understanding the Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a graph?
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980)
@@ -295,8 +296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), ai (2), power (1), [[Search]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else, (1), let (1)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
@@ -356,7 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), new, (1), let (1)
+> **Frameworks & Libraries:** web (4), [[Microsoft Word|Word]] (2), [[LinkedIn]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gps (1)
 > **Definitions:** is a  (1)
@@ -426,6 +427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), product (2), [[Databases]] (1), [[SQL]] (1), [[GraphRAG]] (1)
 > **Env Vars:** sql (1), llm (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -483,10 +485,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), [[Knowledge Graphs]] (2), generic (1), llm (1), [[GraphRAG]] (1)
 > **CLI Commands:** node (5), make (4)
 > **Env Vars:** ceo (1), xyz (1), llm (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1), case, (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - up (1)
 
@@ -543,8 +545,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[SQL]] (4), [[Relational Databases]] (1)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (1), finally, (1), case, (1)
 > **Definitions:** means that (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
@@ -591,6 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (4), node (1), [[Microsoft Word|Word]] (1), application (1), [[GraphRAG]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** node (1)
 > **Definitions:** is a  (1)
@@ -643,18 +646,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), rag (4), llm (2), [[Knowledge Graphs]] (1), data (1)
 > **Env Vars:** rag (4), gps (2), llm (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** we call this (1), is a  (1)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** let (1)
 > **Ports:** :00 (1)
 > **Speakers:** - in (1)
 
 
 ### 2. Getting Started with Graph Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a graph database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980)
@@ -697,8 +700,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Databases]] (8), database (7), node (3), [[SQL]] (1)
 > **CLI Commands:** node (3), find (2), make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -736,6 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neo4j]] (11), database (4), [[GraphRAG]] (3), data (3), ai (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
@@ -781,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), interface (1)
+> **Frameworks & Libraries:** database (5), [[Neo4j]] (4), web (1), next (1)
 > **UI Navigation:** click on (2), navigate to (1)
 > **URLs:** [neo4j.com](https://neo4j.com) (1)
 > **Cross-References:** in the next (1)
@@ -851,7 +855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1)
+> **Frameworks & Libraries:** data (5), node (4), [[Neo4j]] (2), next (2), [[Zoom]] (2)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** node (4)
 > **Env Vars:** csv (1)
@@ -926,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (2), match. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Neo4j]] (4), node (4), [[SQL]] (3), [[Python (Programming Language)|Python]] (1), [[Databases]] (1)
 > **CLI Commands:** node (4), python (1), make (1)
 > **Env Vars:** sql (3), ascii (1)
 > **Analogies:** for example (3), such as (1)
@@ -993,8 +997,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), [[SQL]] (1), [[GraphRAG]] (1)
 > **CLI Commands:** find (6), node (4)
-> **Code Keywords:** this, (2), case, (2), let (2), this. (1)
 > **Env Vars:** ascii (2), sql (1)
 > **UI Navigation:** click on (1), in the tab (1)
 > **Analogies:** just like (1), for example (1)
@@ -1051,8 +1055,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Neo4j]] (5), database (3), next (2), [[GraphRAG]] (1)
 > **CLI Commands:** python (6), make (1)
-> **Code Keywords:** let (4), switch (1), pass (1)
 > **Env Vars:** url (2), o207 (1), env (1)
 > **UI Navigation:** navigate to (1), select the (1), switch to (1)
 > **Versions:** python 3 (1)
@@ -1107,15 +1111,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Neo4j]] (5), product (5), data (3), database (2)
 > **CLI Commands:** python (6), find (1)
-> **Code Keywords:** let (4), this. (1), pass (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Building Your First Knowledge Graph for Graph Retrieval-Augmented Generation (GraphRAG)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Retrieval-Augmented Generation (RAG)
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980)
@@ -1146,6 +1150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (6), ai (4), data (2), [[Databases]] (1), [[Real-Time]] (1)
 > **Env Vars:** rag (6), pdf (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -1207,8 +1212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (5), ai (4), next (3), llm (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** rag (5), llm (3)
-> **Code Keywords:** let (1), this, (1), this. (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1286,8 +1291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), [[GraphRAG]] (4), ai (3), rag (2), data (1)
 > **CLI Commands:** make (1), find (1), python (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** rag (2)
 > **Cross-References:** as we saw (1), in the last (1)
 > **Analogies:** for example (1)
@@ -1366,8 +1371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LangChain]] (10), prompt (8), llm (6), data (4), [[Programming]] (2)
 > **Env Vars:** llm (6), aws (1), gcp (1)
-> **Code Keywords:** pass (2), let (1), finally, (1), this, (1)
 > **CLI Commands:** make (2), python (1), aws (1)
 > **Definitions:** is a  (2)
 > **Documentation:** the documentation (1)
@@ -1424,7 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[LangChain]] (6), llm (4), [[Neo4j]] (4), database (4), prompt (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** allow_dangerous_requests (1)
@@ -1502,7 +1507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), this, (1), delete (1)
+> **Frameworks & Libraries:** database (6), [[Neo4j]] (5), [[Knowledge Graphs]] (2), llm (2), node (2)
 > **CLI Commands:** make (3), node (2)
 > **Env Vars:** llm (2), env (1)
 > **Cross-References:** earlier in (1), go back to (1)
@@ -1540,6 +1545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neo4j]] (2), database (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** find (2), python (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -1600,8 +1606,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LangChain]] (3), [[Neo4j]] (2), [[Git]] (1), llm (1), database (1)
 > **CLI Commands:** find (2), make (2), git (1)
-> **Code Keywords:** let (3), this. (1), case, (1)
 > **UI Navigation:** go to (1), navigate to (1), open the (1)
 > **Env Vars:** env (1), llm (1)
 > **Speakers:** - [instructor] (1)
@@ -1609,7 +1615,7 @@ created: 2026-04-29
 
 ### 4. Connecting Knowledge Graphs to Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a GraphRAG pipeline with LangChain to query your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/creating-a-graphrag-pipeline-with-langchain-to-query-your-data?u=76281980)
@@ -1698,8 +1704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (11), llm (10), node (3), [[LangChain]] (2), [[Neo4j]] (2)
 > **Env Vars:** llm (10)
-> **Code Keywords:** pass (2), let (2), case, (1), finally, (1), this. (1)
 > **CLI Commands:** node (3), make (1)
 > **Exercise Files:** template (2)
 > **Analogies:** for example (1), such as (1)
@@ -1791,8 +1797,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LangChain]] (8), data (4), llm (3), web (2), rag (2)
 > **Env Vars:** pdf (6), llm (3), rag (2), api (1)
-> **Code Keywords:** let (5), pass (1), type. (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -1861,8 +1867,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (10), llm (6), [[GraphRAG]] (3), database (3), data (3)
 > **Env Vars:** llm (6), sql (1), call (1)
-> **Code Keywords:** let (1), this, (1), this. (1), type. (1)
 > **CLI Commands:** python (1), node (1)
 > **Definitions:** refers to (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1904,8 +1910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphRAG]] (4), rag (3), database (3), data (2), application (1)
 > **Env Vars:** rag (3), llm (1)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1971,7 +1977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1), finally, (1)
+> **Frameworks & Libraries:** llm (2), [[LangChain]] (2), application (1), rag (1), next (1)
 > **Env Vars:** llm (2), rag (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
@@ -2014,9 +2020,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (3), application (2), [[Neo4j]] (1), [[LangChain]] (1), prompt (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** llm (3)
-> **Code Keywords:** this, (1), case, (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
@@ -2121,7 +2127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), continue (2), this. (1), function (1)
+> **Frameworks & Libraries:** [[GraphRAG]] (5), prompt (4), llm (4), node (3), application (2)
 > **Env Vars:** llm (4), fis (2), git (1)
 > **CLI Commands:** node (3), make (2), git (1)
 > **UI Navigation:** go to (1)
@@ -2132,7 +2138,7 @@ created: 2026-04-29
 
 ### 5. Putting It All Together: Creating a Question-Answering Bot with GraphRAG
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to capstone project
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-capstone-project?u=76281980)
@@ -2171,7 +2177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** application (4), [[GraphRAG]] (3), web (1), prompt (1), llm (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** pdf (1), llm (1)
 > **Analogies:** such as (1)
@@ -2283,7 +2289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), finally, (2), switch (1), this. (1)
+> **Frameworks & Libraries:** prompt (6), [[GraphRAG]] (4), next (4), [[Neo4j]] (3), [[LangChain]] (2)
 > **Env Vars:** pdf (3), rag (1), llm (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** don't forget (1), it's best to (1)
@@ -2295,7 +2301,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with knowledge graphs, GraphRAG, and GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980)
@@ -2320,6 +2326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphRAG]] (3), ai (2), [[LinkedIn]] (1), data (1), [[Databases]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** discord (1)
 > **Speakers:** - congratulations (1)

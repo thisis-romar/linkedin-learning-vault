@@ -37,7 +37,7 @@ tags:
   - topic/software-development
   - skill/computer-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Computer%20Science%20Principles-%20The%20Internet.md)
@@ -56,35 +56,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - What you should know
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
 - [**1. Internet Basics**](#1-internet-basics) (2 videos)
-  - How the Internet was born
-  - Who manages the Internet?
+  - [How the Internet was born](#how-the-internet-was-born)
+  - [Who manages the Internet?](#who-manages-the-internet)
 - [**2. Addressing and Routing Information**](#2-addressing-and-routing-information) (7 videos)
-  - Sending and receiving information
-  - The Internet Protocol and IP address
-  - Scaling up the Internet from IPv4 to IPv6
-  - The Domain Name Server and DNS
-  - Routers and directing requests
-  - Packets and fault tolerance
-  - Reliability and TCP
+  - [Sending and receiving information](#sending-and-receiving-information)
+  - [The Internet Protocol and IP address](#the-internet-protocol-and-ip-address)
+  - [Scaling up the Internet from IPv4 to IPv6](#scaling-up-the-internet-from-ipv4-to-ipv6)
+  - [The Domain Name Server and DNS](#the-domain-name-server-and-dns)
+  - [Routers and directing requests](#routers-and-directing-requests)
+  - [Packets and fault tolerance](#packets-and-fault-tolerance)
+  - [Reliability and TCP](#reliability-and-tcp)
 - [**3. Web Servers**](#3-web-servers) (5 videos)
-  - Identifying a server with URLs
-  - HTTP and requests
-  - Hypertext and HTML
-  - Remembering requests with cookies
-  - Securing requests with SSL and TLS
+  - [Identifying a server with URLs](#identifying-a-server-with-urls)
+  - [HTTP and requests](#http-and-requests)
+  - [Hypertext and HTML](#hypertext-and-html)
+  - [Remembering requests with cookies](#remembering-requests-with-cookies)
+  - [Securing requests with SSL and TLS](#securing-requests-with-ssl-and-tls)
 - [**4. Encryption**](#4-encryption) (3 videos)
-  - Caesar's cypher and keys
-  - Improving security with longer keys
-  - Symmetric and asymmetric keys
+  - [Caesar's cypher and keys](#caesars-cypher-and-keys)
+  - [Improving security with longer keys](#improving-security-with-longer-keys)
+  - [Symmetric and asymmetric keys](#symmetric-and-asymmetric-keys)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Goodbye
+  - [Goodbye](#goodbye)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980)
@@ -121,7 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), abstract (1), type. (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - humans (1)
 
@@ -150,14 +150,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Programming]] (1), [[Hardware]] (1), data (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Internet Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How the Internet was born
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980)
@@ -226,8 +226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (11), [[HTML]] (4), application (2), next (1), css (1)
 > **Env Vars:** html (4), w3c (3), arpanet (2), tcp (2), cern (1)
-> **Code Keywords:** continue (3), this, (1), function (1)
 > **Documentation:** w3c (3)
 > **Definitions:** is a  (1), is called (1)
 > **Versions:** 5.1 (1)
@@ -315,9 +315,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), feature (3), [[HTML]] (2), web (2), [[Hardware]] (1)
 > **Env Vars:** icann (2), html (2), ceo (1), tcpip (1), iata (1)
 > **Definitions:** known as (3), stands for (1)
-> **Code Keywords:** private (3)
 > **Documentation:** w3c (1), specification (1), spec (1)
 > **Analogies:** for example (2), it's like (1)
 > **URLs:** [google.com](https://google.com) (1), [amazon.co](https://amazon.co) (1)
@@ -327,7 +327,7 @@ created: 2026-04-29
 
 ### 2. Addressing and Routing Information
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sending and receiving information
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/sending-and-receiving-information?u=76281980)
@@ -380,7 +380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), from. (1), let (1), finally, (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -443,7 +443,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (4)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iana (1)
@@ -528,8 +527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Engineering]] (1)
 > **Env Vars:** ipv6 (9), ipv4 (6), ipv5 (1), ietf (1)
-> **Code Keywords:** private (1), this. (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -582,11 +581,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (7), web (3), [[Google]] (2), database (1), next (1)
 > **URLs:** [dougwinnie.com](https://dougwinnie.com) (5), [google.com](https://google.com) (2), [bbc.co](https://bbc.co) (1)
 > **Env Vars:** dns (7), iana (1)
 > **Definitions:** is a  (3), is called (2)
 > **Analogies:** for instance (2), for example (1)
-> **Code Keywords:** continue (1), case, (1)
 > **Speakers:** - ip (1)
 
 #### Routers and directing requests
@@ -634,7 +633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), public (2), let (1)
+> **Frameworks & Libraries:** data (1), game (1), [[Banking]] (1), traffic (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -695,11 +694,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), node (3), data (2), [[Google]] (2), next (1)
 > **CLI Commands:** node (3)
 > **URLs:** [google.com](https://google.com) (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for instance (2)
-> **Code Keywords:** require (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - messages (1)
 
@@ -744,14 +743,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** tcp (10), udp (1)
-> **Code Keywords:** for, (1)
 > **Speakers:** - when (1)
 
 
 ### 3. Web Servers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying a server with URLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/identifying-a-server-with-urls?u=76281980)
@@ -812,9 +811,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (11), web (4)
 > **Env Vars:** dns (11), url (9), cname (4)
 > **URLs:** [example.com](https://example.com) (5), [dougwinnie.com](https://dougwinnie.com) (2)
-> **Code Keywords:** let (2), case, (1)
 > **Versions:** 123.45.67 (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
@@ -907,11 +906,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), [[HTML]] (2), data (2), dns (1)
 > **Env Vars:** http (11), post (3), url (2), tcp (1), dns (1)
 > **Definitions:** is called (3), is a  (2), means that (1)
 > **API Endpoints:** get  (2), post  (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** require (1), for. (1)
 > **URLs:** [dougminnie.com](https://dougminnie.com) (1), [dougwinnie.com](https://dougwinnie.com) (1)
 > **File Paths:** index.html (1)
 > **UI Navigation:** go to (1)
@@ -1001,6 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (14), [[Microsoft Word|Word]] (3), [[Databases]] (1), [[Hardware]] (1), data (1)
 > **Env Vars:** html (8), href (2), html5 (1)
 > **File Paths:** apple.html (3), index.html (1), pear.html (1), banana.html (1)
 > **Definitions:** is called (2), is a  (2), is an  (1)
@@ -1064,10 +1064,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), next (1)
 > **UI Navigation:** go to (4), open the (1)
 > **Analogies:** for instance (3), just like (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (1), delete (1)
 > **Definitions:** is a  (1), is called (1)
 > **Env Vars:** http (1)
 > **Prerequisites:** configure (1)
@@ -1122,8 +1122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), data (3), web (1)
 > **Env Vars:** tls (5), ssl (2), tcp (1)
-> **Code Keywords:** private (2), default, (1), public (1)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - whenever (1)
@@ -1131,7 +1131,7 @@ created: 2026-04-29
 
 ### 4. Encryption
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Caesar's cypher and keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980)
@@ -1184,6 +1184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), [[Banking]] (1), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** utf (2), tcpip (1), askii (1), ascii (1)
 > **Analogies:** such as (1), similar to (1)
 > **Definitions:** is called (1)
@@ -1250,10 +1251,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), power (1), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** aes (2), tcp (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** this, (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - a (1)
 
@@ -1300,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), public (3), require (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[Cryptography]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (2), is a  (1)
 > **Best Practices:** the key is (2)
@@ -1310,7 +1311,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/goodbye?u=76281980)
@@ -1345,8 +1346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), dns (1), [[HTML]] (1)
 > **Env Vars:** http (2), tcp (1), ipv6 (1), dns (1), daemon (1)
-> **Code Keywords:** private (1), public (1), throw (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 

@@ -38,7 +38,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL-%20Data%20Reporting%20and%20Analysis.md)
@@ -57,55 +57,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Don't let your reporting system hold you back
-  - Who this course is for
-  - What is SQL?
+  - [Don't let your reporting system hold you back](#dont-let-your-reporting-system-hold-you-back)
+  - [Who this course is for](#who-this-course-is-for)
+  - [What is SQL?](#what-is-sql)
 - [**1. Prepare to Code in SQL**](#1-prepare-to-code-in-sql) (3 videos)
-  - Get familiar with phpMyAdmin
-  - Understand the demo database
-  - Using ChatGPT to check SQL code
+  - [Get familiar with phpMyAdmin](#get-familiar-with-phpmyadmin)
+  - [Understand the demo database](#understand-the-demo-database)
+  - [Using ChatGPT to check SQL code](#using-chatgpt-to-check-sql-code)
 - [**2. Use SQL to Report Data**](#2-use-sql-to-report-data) (12 videos)
-  - Retrieve data with SELECT
-  - Filter results with the WHERE clause
-  - Use LIKE, IN, and wildcards with WHERE
-  - Sort SQL results with ORDER BY
-  - Use string functions on your data
-  - More advanced string functions
-  - Change report headings with an alias
-  - Use date functions with WHERE
-  - Challenge: Query a table
-  - Solution: Query a table
-  - Challenge: Convert case
-  - Solution: Convert case
+  - [Retrieve data with SELECT](#retrieve-data-with-select)
+  - [Filter results with the WHERE clause](#filter-results-with-the-where-clause)
+  - [Use LIKE, IN, and wildcards with WHERE](#use-like-in-and-wildcards-with-where)
+  - [Sort SQL results with ORDER BY](#sort-sql-results-with-order-by)
+  - [Use string functions on your data](#use-string-functions-on-your-data)
+  - [More advanced string functions](#more-advanced-string-functions)
+  - [Change report headings with an alias](#change-report-headings-with-an-alias)
+  - [Use date functions with WHERE](#use-date-functions-with-where)
+  - [Challenge: Query a table](#challenge-query-a-table)
+  - [Solution: Query a table](#solution-query-a-table)
+  - [Challenge: Convert case](#challenge-convert-case)
+  - [Solution: Convert case](#solution-convert-case)
 - [**3. Group Your SQL Results**](#3-group-your-sql-results) (6 videos)
-  - Use GROUP BY with count
-  - Filter grouped results with HAVING
-  - Deduplicate with SELECT DISTINCT
-  - Merge rows with GROUP BY
-  - Challenge: Cost analysis
-  - Solution: Cost analysis
+  - [Use GROUP BY with count](#use-group-by-with-count)
+  - [Filter grouped results with HAVING](#filter-grouped-results-with-having)
+  - [Deduplicate with SELECT DISTINCT](#deduplicate-with-select-distinct)
+  - [Merge rows with GROUP BY](#merge-rows-with-group-by)
+  - [Challenge: Cost analysis](#challenge-cost-analysis)
+  - [Solution: Cost analysis](#solution-cost-analysis)
 - [**4. Merge Data from Multiple Tables**](#4-merge-data-from-multiple-tables) (10 videos)
-  - Make your queries faster
-  - Understand SQL indexes and keys
-  - EDIT: Visualize your database
-  - Merge data across tables with JOIN
-  - Understand SQL JOINS
-  - Combine rows with SQL UNION
-  - Merge data across tables with IN
-  - Select from a selection with subqueries
-  - Challenge: Join tables
-  - Solution: Join tables
+  - [Make your queries faster](#make-your-queries-faster)
+  - [Understand SQL indexes and keys](#understand-sql-indexes-and-keys)
+  - [EDIT: Visualize your database](#edit-visualize-your-database)
+  - [Merge data across tables with JOIN](#merge-data-across-tables-with-join)
+  - [Understand SQL JOINS](#understand-sql-joins)
+  - [Combine rows with SQL UNION](#combine-rows-with-sql-union)
+  - [Merge data across tables with IN](#merge-data-across-tables-with-in)
+  - [Select from a selection with subqueries](#select-from-a-selection-with-subqueries)
+  - [Challenge: Join tables](#challenge-join-tables)
+  - [Solution: Join tables](#solution-join-tables)
 - [**5. More Advanced SQL**](#5-more-advanced-sql) (4 videos)
-  - Save your queries using a VIEW
-  - Use variables
-  - Use functions
-  - Use procedures
+  - [Save your queries using a VIEW](#save-your-queries-using-a-view)
+  - [Use variables](#use-variables)
+  - [Use functions](#use-functions)
+  - [Use procedures](#use-procedures)
 - [**Continuing Your SQL Learning Journey**](#continuing-your-sql-learning-journey) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Don't let your reporting system hold you back
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980)
@@ -130,8 +130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), data (3), database (1), [[Microsoft Excel|Excel]] (1), [[Databases]] (1)
 > **Env Vars:** sql (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [emma] (1)
 
 #### Who this course is for
@@ -149,6 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Programming]] (1), database (1), data (1)
 > **Speakers:** - [narrator] (1)
 
 #### What is SQL?
@@ -260,6 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), [[SQL]] (8), [[Microsoft]] (5), [[MySQL]] (4), [[Databases]] (2)
 > **Env Vars:** sql (9), iso (1)
 > **CLI Commands:** mysql (4), find (3)
 > **Versions:** 9.6 (1), version 8 (1), 8.03 (1)
@@ -267,12 +269,11 @@ created: 2026-04-29
 > **Code Identifiers:** phpmyadmin (2)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
-> **Warnings:** warning (1)
 
 
 ### 1. Prepare to Code in SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get familiar with phpMyAdmin
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980)
@@ -357,9 +358,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (16), [[MySQL]] (5), [[SQL]] (4), data (3), [[Google]] (2)
 > **CLI Commands:** mysql (5), find (2)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (2), interface (1)
 > **Cross-References:** go back to (2), coming up (1)
 > **UI Navigation:** dropdown (2), click on (1)
 > **Code Identifiers:** phpmyadmin (2)
@@ -405,7 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** database (4), data (4), business (1)
 > **Env Vars:** dvd (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -464,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), super (2), let (1), fn (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[SQL]] (1)
 > **Code Identifiers:** personid (2)
 > **Env Vars:** dsql (1), sql (1)
 > **UI Navigation:** select the (1)
@@ -474,7 +475,7 @@ created: 2026-04-29
 
 ### 2. Use SQL to Report Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieve data with SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980)
@@ -599,11 +600,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), data (5), [[MySQL]] (5), [[SQL]] (2), [[Microsoft]] (2)
 > **Env Vars:** select (9), sql (2), fields (1), kevin (1), bloom (1)
 > **SQL:** select (9)
 > **CLI Commands:** mysql (5), find (1), make (1)
 > **Code Identifiers:** first_name (3), last_name (2)
-> **Code Keywords:** let (1), return, (1), from, (1)
 > **Definitions:** is called (1), means that (1), is an  (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** click on (1)
@@ -691,8 +692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[SQL]] (3), data (2), [[Microsoft Word|Word]] (2), [[Databases]] (1)
 > **Env Vars:** where (4), sql (3), between (3), select (2)
-> **Code Keywords:** let (4), from, (1), throw (1), this, (1)
 > **SQL:** where (4), select (2)
 > **Cross-References:** go back to (1), later in (1)
 > **CLI Commands:** make (1)
@@ -823,7 +824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), throw (1), function (1)
+> **Frameworks & Libraries:** database (6), [[MySQL]] (2), [[SQL]] (1), [[Microsoft]] (1), [[PostgreSQL]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** mysql (2)
 > **Env Vars:** sql (1)
@@ -877,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** database (2), data (1), [[SQL]] (1)
 > **Env Vars:** cgmp (1), sql (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
@@ -1027,8 +1028,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (4), [[Microsoft]] (4), [[Microsoft Word|Word]] (3), database (2)
 > **Env Vars:** concat (6), sql (4), left (3), length (2), lower (2)
-> **Code Keywords:** function (7), let (4), case. (3), case, (1)
 > **Code Identifiers:** first_name (7)
 > **Definitions:** is a  (3)
 > **CLI Commands:** mysql (1), make (1)
@@ -1213,7 +1214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (6), return. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Word|Word]] (6), [[MySQL]] (5), database (4), [[SQL]] (2)
 > **CLI Commands:** mysql (5), find (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1267,8 +1268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Word|Word]] (1), [[MySQL]] (1), database (1)
 > **CLI Commands:** make (1), mysql (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** mysql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1377,8 +1378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (9), [[SQL]] (7), [[Microsoft]] (6), [[Forms]] (1)
 > **Env Vars:** sql (8), where (3), year (2), to_char (2), current_timestamp (1)
-> **Code Keywords:** let (3), function (2), type. (1), match. (1), match, (1)
 > **Definitions:** is a  (4), is called (1)
 > **Code Identifiers:** last_update (2), phpmyadmin (1)
 > **SQL:** where (3)
@@ -1415,8 +1416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), [[Search]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** from. (1)
 > **Env Vars:** dvd (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
@@ -1456,7 +1457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), case. (1), let (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1483,7 +1484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), let (1), case, (1)
+> **Frameworks & Libraries:** next (1), management (1), data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1539,7 +1540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (4), function (3), let (1), return. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[MySQL]] (1), [[SQL]] (1)
 > **Env Vars:** substr (2), select (1), left (1), sql (1), concat (1)
 > **CLI Commands:** make (1), mysql (1)
 > **Definitions:** short for (1), is an  (1)
@@ -1550,7 +1551,7 @@ created: 2026-04-29
 
 ### 3. Group Your SQL Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use GROUP BY with count
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980)
@@ -1675,7 +1676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), require (1)
+> **Frameworks & Libraries:** database (7), data (3), [[MySQL]] (2), next (2), [[SQL]] (2)
 > **Env Vars:** qld (2), sql (2)
 > **CLI Commands:** mysql (2)
 > **Analogies:** for instance (1), such as (1)
@@ -1789,9 +1790,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (3), [[Microsoft]] (1), [[SQL]] (1)
 > **Env Vars:** group (4), having (3), select (3), min (3), where (2)
 > **SQL:** group by (4), having (3), select (3), where (2), order by (1)
-> **Code Keywords:** let (5), function (3), from, (2), this, (1)
 > **Analogies:** for example (2), such as (1)
 > **Code Identifiers:** rental_duration (2)
 > **Versions:** 4.985 (1)
@@ -1901,7 +1902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case. (1)
+> **Frameworks & Libraries:** database (2), data (1)
 > **Env Vars:** dvd (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), for instance (1)
@@ -1954,7 +1955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), if, (1), default, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft]] (2), [[Microsoft SQL Server|Sql server]] (1), [[JavaScript]] (1), [[SQL]] (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for instance (1), such as (1)
 > **Code Identifiers:** group_concat (1)
@@ -1989,8 +1990,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), data (1)
 > **Analogies:** imagine (1), such as (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
@@ -2032,7 +2033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), case. (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2040,7 +2041,7 @@ created: 2026-04-29
 
 ### 4. Merge Data from Multiple Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make your queries faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980)
@@ -2085,10 +2086,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (2), database (2), [[PostgreSQL]] (1), [[Microsoft]] (1), data (1)
 > **CLI Commands:** mysql (2), make (1)
 > **Env Vars:** rownum (2)
 > **Versions:** 0.0009 (1), 0.007 (1)
-> **Code Keywords:** this. (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -2236,9 +2237,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (12), [[Search]] (2), [[MySQL]] (1), [[SQL]] (1)
 > **Code Identifiers:** store_id (5), address_id (4), last_name (4), customer_id (2), first_name (1)
 > **Definitions:** is a  (5), stands for (1)
-> **Code Keywords:** this, (1), let (1), function (1), throw (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Env Vars:** sql (1)
@@ -2382,8 +2383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (7), next (5), business (1)
 > **Code Identifiers:** staff_id (4), inventory_id (3), customer_id (3), rental_id (2), country_id (2)
-> **Code Keywords:** let (4), static (2), for. (1)
 > **UI Navigation:** go to (2), dropdown (1), select the (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2), for example (1)
@@ -2502,8 +2503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[MySQL]] (2), hit (1), database (1), [[SQL]] (1)
 > **CLI Commands:** mysql (2), find (2), make (2)
-> **Code Keywords:** throw (1), let (1), from. (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** select the (1)
@@ -2624,8 +2625,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[MySQL]] (1), database (1)
 > **CLI Commands:** mysql (1), make (1)
-> **Code Keywords:** let (1), match. (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** required to (1)
@@ -2726,7 +2727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default. (1)
+> **Frameworks & Libraries:** next (1), data (1), [[SQL]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (1)
@@ -2796,9 +2797,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** where (2), mary (1), smith (1), select (1)
 > **SQL:** where (2), select (1)
-> **Code Keywords:** this. (1), let (1)
 > **Code Identifiers:** customer_id (1), field_name (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2871,7 +2872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** fn (5), from, (1), let (1), return, (1), this, (1)
+> **Frameworks & Libraries:** database (1), [[MySQL]] (1)
 > **Code Identifiers:** first_name (8)
 > **SQL:** select (8)
 > **Env Vars:** select (8)
@@ -2904,8 +2905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** film_category (2)
-> **Code Keywords:** type. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2998,8 +2999,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), next (1)
 > **Code Identifiers:** film_category (5), film_id (3), category_id (2)
-> **Code Keywords:** let (4), this, (1)
 > **SQL:** join (2), where (2), select (1)
 > **Env Vars:** join (2), where (2), select (1)
 > **CLI Commands:** make (2)
@@ -3010,7 +3011,7 @@ created: 2026-04-29
 
 ### 5. More Advanced SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Save your queries using a VIEW
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980)
@@ -3193,7 +3194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), return. (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (3), [[MySQL]] (3), [[Databases]] (2), database (1)
 > **CLI Commands:** mysql (3), make (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Tools:** atom (1), anaconda (1)
@@ -3272,9 +3273,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[MySQL]] (5), [[Microsoft]] (4), [[SQL]] (4), database (1)
 > **Env Vars:** select (9), declare (5), set (4), where (4), sql (4)
 > **SQL:** select (9), where (4)
-> **Code Keywords:** let (3), type, (3), case, (2)
 > **Code Identifiers:** first_name (2), actor_id (1), pgsql (1), my_table (1), field_name (1)
 > **CLI Commands:** mysql (5)
 > **Definitions:** is a  (3)
@@ -3471,7 +3472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (5), delete (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[MySQL]] (4), data (3), database (3), [[Microsoft Excel|Excel]] (2), [[JavaScript]] (1)
 > **CLI Commands:** mysql (4), make (2)
 > **Env Vars:** dvd (4), sql (1)
 > **Definitions:** is a  (4)
@@ -3568,7 +3569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), from, (1), var (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), data (1), [[SQL]] (1)
 > **CLI Commands:** mysql (2), make (2)
 > **Env Vars:** sql (1), dvd (1)
 > **UI Navigation:** click on (1)
@@ -3579,7 +3580,7 @@ created: 2026-04-29
 
 ### Continuing Your SQL Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980)
@@ -3612,9 +3613,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), database (3), [[Microsoft]] (1), next (1), data (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** make (1)
-> **Code Keywords:** delete (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [emma (1)

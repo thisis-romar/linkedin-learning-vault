@@ -36,7 +36,7 @@ tags:
   - skill/application-development
   - skill/snowflake
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20Generative%20AI%20Apps%20to%20Talk%20to%20Your%20Data.md)
@@ -55,40 +55,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Getting answers from data
-  - Getting answers from data: Using RAG
-  - Getting answers from data: Using text-to-SQL
-  - What we will build: Success in this course
+  - [Getting answers from data](#getting-answers-from-data)
+  - [Getting answers from data: Using RAG](#getting-answers-from-data-using-rag)
+  - [Getting answers from data: Using text-to-SQL](#getting-answers-from-data-using-text-to-sql)
+  - [What we will build: Success in this course](#what-we-will-build-success-in-this-course)
 - [**1. Introduction for Conversational Apps with Data**](#1-introduction-for-conversational-apps-with-data) (4 videos)
-  - Querying unstructured data: RAG
-  - Querying unstructured data: Hybrid search
-  - Querying structured data: Text-to-SQL
-  - Let’s dive in
+  - [Querying unstructured data: RAG](#querying-unstructured-data-rag)
+  - [Querying unstructured data: Hybrid search](#querying-unstructured-data-hybrid-search)
+  - [Querying structured data: Text-to-SQL](#querying-structured-data-text-to-sql)
+  - [Let’s dive in](#lets-dive-in)
 - [**2. Finding Answers from Unstructured Data with Cortex Search**](#2-finding-answers-from-unstructured-data-with-cortex-search) (10 videos)
-  - Opening up unstructured data with RAG
-  - What is Cortex Search?
-  - Loading unstructured data to a Snowflake stage
-  - Parsing and chunking text
-  - Creating the Cortex Search Service
-  - Building a RAG with Cortex Search
-  - How to measure success
-  - Automatic processing of new documents
-  - Building out the front end
-  - Well done!
+  - [Opening up unstructured data with RAG](#opening-up-unstructured-data-with-rag)
+  - [What is Cortex Search?](#what-is-cortex-search)
+  - [Loading unstructured data to a Snowflake stage](#loading-unstructured-data-to-a-snowflake-stage)
+  - [Parsing and chunking text](#parsing-and-chunking-text)
+  - [Creating the Cortex Search Service](#creating-the-cortex-search-service)
+  - [Building a RAG with Cortex Search](#building-a-rag-with-cortex-search)
+  - [How to measure success](#how-to-measure-success)
+  - [Automatic processing of new documents](#automatic-processing-of-new-documents)
+  - [Building out the front end](#building-out-the-front-end)
+  - [Well done!](#well-done)
 - [**3. Answer Questions from Structured Data with Cortex Analyst**](#3-answer-questions-from-structured-data-with-cortex-analyst) (9 videos)
-  - Avoiding death by dashboard
-  - Setting up the app
-  - Understanding the semantic model
-  - Working with the semantic model
-  - Using Cortex Analyst
-  - From text-to-SQL to TAG: Creating table-assisted generation
-  - Expanding the scope of the semantic model
-  - Building the Streamlit app
-  - Congratulations!
+  - [Avoiding death by dashboard](#avoiding-death-by-dashboard)
+  - [Setting up the app](#setting-up-the-app)
+  - [Understanding the semantic model](#understanding-the-semantic-model)
+  - [Working with the semantic model](#working-with-the-semantic-model)
+  - [Using Cortex Analyst](#using-cortex-analyst)
+  - [From text-to-SQL to TAG: Creating table-assisted generation](#from-text-to-sql-to-tag-creating-table-assisted-generation)
+  - [Expanding the scope of the semantic model](#expanding-the-scope-of-the-semantic-model)
+  - [Building the Streamlit app](#building-the-streamlit-app)
+  - [Congratulations!](#congratulations)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting answers from data
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980)
@@ -207,7 +207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (2), function (2), from. (1)
+> **Frameworks & Libraries:** data (24), [[SQL]] (5), [[Generative AI]] (4), [[Snowflake]] (4), rag (4)
 > **Env Vars:** sql (5), rag (4), complete (1)
 > **Analogies:** imagine (1), for example (1), just like (1)
 > **CLI Commands:** make (2)
@@ -295,10 +295,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (7), data (3), [[Unstructured Data]] (2), [[Fetch]] (1), [[Windows]] (1)
 > **Env Vars:** rag (7), sql (1)
 > **Analogies:** imagine (3), kind of like (1), similar to (1), just like (1), picture (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this, (1), case, (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
@@ -391,8 +391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (11), data (10), llm (3), [[Databases]] (3), business (2)
 > **Env Vars:** sql (11), llm (3), rag (1)
-> **Code Keywords:** let (5), case, (2), interface (1), require (1)
 > **Cross-References:** go back to (1), we discussed (1), in the last (1), coming up (1), in the next (1)
 > **Analogies:** just like (1), analogous to (1), picture (1)
 > **CLI Commands:** find (2)
@@ -461,7 +461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), let (3), function (2), for. (1)
+> **Frameworks & Libraries:** data (8), [[Snowflake]] (8), [[Unstructured Data]] (5), [[SQL]] (4), rag (4)
 > **Env Vars:** sql (4), rag (4), pdf (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** python (1)
@@ -473,7 +473,7 @@ created: 2026-04-29
 
 ### 1. Introduction for Conversational Apps with Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying unstructured data: RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980)
@@ -552,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1)
+> **Frameworks & Libraries:** data (9), [[Unstructured Data]] (8), rag (2), teams (1), traffic (1)
 > **Env Vars:** rag (2), pdf (1), llm (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), such as (1)
@@ -642,7 +642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), for, (1), let (1), private (1), module (1)
+> **Frameworks & Libraries:** [[Search]] (26), llm (3), [[Microsoft Word|Word]] (2), data (2), [[Unstructured Data]] (2)
 > **Env Vars:** llm (3), rag (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** later in (1), we discussed (1), in the next (1)
@@ -797,8 +797,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (18), data (12), llm (6), database (5), [[Dashboards]] (3)
 > **Env Vars:** sql (18), llm (6)
-> **Code Keywords:** let (6), this. (2), this, (1)
 > **Analogies:** such as (2), imagine (1), similar to (1), just like (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we covered (1), in the next (1)
@@ -845,8 +845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), data (2), ai (2), career (2), [[Snowflake]] (1)
 > **Prerequisites:** set up (2), setup (1)
-> **Code Keywords:** this, (1), let (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -854,7 +854,7 @@ created: 2026-04-29
 
 ### 2. Finding Answers from Unstructured Data with Cortex Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Opening up unstructured data with RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980)
@@ -945,8 +945,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), rag (7), [[Snowflake]] (5), [[Unstructured Data]] (4), data (3)
 > **Env Vars:** rag (6), fomc (3)
-> **Code Keywords:** this, (2), let (2), module (1), raise (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (2)
 > **Non-Speech:** (light upbeat music) (2)
@@ -1128,8 +1128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (43), data (15), rag (8), [[Snowflake]] (6), [[Semantic Search]] (3)
 > **Env Vars:** rag (8), llm (3), ocr (2), target_lag (1), pdf (1)
-> **Code Keywords:** module (3), function (3), self (1), let (1), this. (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is a  (3), means that (2), refers to (1)
 > **Cross-References:** in the next (2), we mentioned (1), we covered (1)
@@ -1260,8 +1260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Snowflake]] (7), next (6), database (6), rag (3)
 > **Env Vars:** rag (3), fomc (3), pdf (3), create (2), csp (1)
-> **Code Keywords:** let (6), public (2), import . (1), interface (1), this, (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **UI Navigation:** dropdown (1), go to (1), open the (1)
 > **Definitions:** is a  (3)
@@ -1368,8 +1368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), rag (3), [[Search]] (3), next (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** rag (3), parse_document (2), parsed_fomc_content (2), ocr (2), chunked_fomc (2)
-> **Code Keywords:** function (4), pass (3), this, (2), let (1)
 > **Cross-References:** in the next (2), go back to (1), in the last (1)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **CLI Commands:** make (2)
@@ -1462,8 +1462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (14), [[Snowflake]] (3), data (2), rag (2), next (2)
 > **Cross-References:** in the last (2), in the next (1), we covered (1)
-> **Code Keywords:** let (2), this. (1)
 > **Env Vars:** sql (1), llm (1)
 > **Versions:** version 2 (1), 2.0 (1)
 > **Prerequisites:** set up (2)
@@ -1582,8 +1582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), rag (9), llm (6), data (3), [[Metadata]] (3)
 > **Env Vars:** rag (9), llm (6)
-> **Code Keywords:** let (2), interface (1), case, (1), pass (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** go build (2), python (1)
 > **Cross-References:** in the next (2)
@@ -1764,8 +1764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), llm (8), rag (7), [[Metadata]] (4), [[Search]] (2)
 > **Env Vars:** llm (8), rag (7)
-> **Code Keywords:** this, (3), let (3), pass (2), this. (1), for. (1)
 > **Code Identifiers:** tru_rag (1), compute_metrics (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** click on (2)
@@ -1858,8 +1858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Search]] (4), rag (3), next (2), database (1)
 > **Env Vars:** rag (3), fomx (1), pdf (1), fomc (1)
-> **Code Keywords:** let (4)
 > **Cross-References:** go back to (2), in the last (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -1984,9 +1984,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (8), next (5), [[Python (Programming Language)|Python]] (3), [[Snowflake]] (3), database (2)
 > **Env Vars:** rag (8), fomc (1), llm (1)
 > **Code Identifiers:** write_stream (2), chat_with_unstructured_data_app (1), build_messages_with_context (1), session_state_variable (1), st_spinner (1)
-> **Code Keywords:** let (3), module (1)
 > **CLI Commands:** python (3)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
@@ -2038,7 +2038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (2), this, (1)
+> **Frameworks & Libraries:** data (9), [[Search]] (4), [[Snowflake]] (3), next (3), [[Unstructured Data]] (2)
 > **Env Vars:** rag (1), rest (1), api (1), sql (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** specification (1)
@@ -2048,7 +2048,7 @@ created: 2026-04-29
 
 ### 3. Answer Questions from Structured Data with Cortex Analyst
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding death by dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980)
@@ -2151,7 +2151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), module (2), let (2), for. (1), while, (1)
+> **Frameworks & Libraries:** data (5), [[SQL]] (3), [[Dashboards]] (3), [[Microsoft Products|Products]] (2), business (2)
 > **Env Vars:** sql (3), api (1)
 > **Non-Speech:** (upbeat music) (2)
 > **Analogies:** imagine (1)
@@ -2269,7 +2269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), switch (1), var (1)
+> **Frameworks & Libraries:** database (8), product (5), [[Snowflake]] (5), data (3), next (3)
 > **UI Navigation:** select the (2), go to (1), switch to (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** var (1), llm (1), sql (1)
@@ -2469,7 +2469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (6), pass (2), case, (1), function (1)
+> **Frameworks & Libraries:** data (16), database (11), [[SQL]] (11), next (5), [[Snowflake]] (3)
 > **Env Vars:** sql (11), llm (3), csv (1), lms (1)
 > **Cross-References:** later in (1), go back to (1), we mentioned (1), in the next (1)
 > **Definitions:** is a  (4)
@@ -2577,9 +2577,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), next (5), [[SQL]] (4), data (3), prompt (3)
 > **Code Identifiers:** region_id (6), daily_revenue (3), sales_region (3), base_table (2), product_id (2)
 > **Env Vars:** llm (6), sql (4), api (2), rest (1), sota (1)
-> **Code Keywords:** let (5), pass (3), this, (3), case, (1), this. (1)
 > **Cross-References:** in the next (4)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -2711,8 +2711,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (14), api (8), data (7), [[JSON]] (3), [[Snowflake]] (2)
 > **Env Vars:** sql (14), api (8), json (3), llm (2), rag (1)
-> **Code Keywords:** let (3), this, (2), default. (1), continue (1), super (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** imagine (1), such as (1)
@@ -2801,8 +2801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (14), llm (10), rag (2), [[Unstructured Data]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** sql (14), llm (10), tag (4), rag (2)
-> **Code Keywords:** let (5), continue (1), module (1), this. (1)
 > **Cross-References:** go back to (1), in the last (1), in the next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1), is a  (1)
@@ -3059,7 +3059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (1), pass (1), try. (1), new. (1)
+> **Frameworks & Libraries:** product (26), next (11), [[SQL]] (10), [[Search]] (8), data (6)
 > **Env Vars:** sql (10), yaml (2)
 > **CLI Commands:** make (6), find (1), python (1)
 > **UI Navigation:** select the (2), go to (1), checkbox (1)
@@ -3289,8 +3289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (17), [[Python (Programming Language)|Python]] (5), next (5), ai (4), product (4)
 > **Env Vars:** sql (17), llm (3), api (2), url (1), cortex_analyst_wh (1)
-> **Code Keywords:** let (6), pass (4), this, (2), function (2), this. (2)
 > **CLI Commands:** python (5), make (4)
 > **UI Navigation:** navigate to (2), select the (2), click on (1), go to (1)
 > **Code Identifiers:** chat_with_structured_data_app (1), get_active_session (1), analyst_conversation (1), semantic_model_file (1), session_state (1)
@@ -3367,7 +3367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), this. (2), let (1), interface (1), from. (1)
+> **Frameworks & Libraries:** data (6), [[Unstructured Data]] (5), rag (4), llm (2), [[Search]] (2)
 > **Env Vars:** rag (4), llm (2), sql (2), tag (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)

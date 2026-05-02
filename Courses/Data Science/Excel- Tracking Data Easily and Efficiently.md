@@ -30,7 +30,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-tracking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Tracking%20Data%20Easily%20and%20Efficiently.md)
@@ -49,64 +49,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Efficient data tracking in Excel
+  - [Efficient data tracking in Excel](#efficient-data-tracking-in-excel)
 - [**1. Planning Your Data Tracker**](#1-planning-your-data-tracker) (2 videos)
-  - Introducing tables
-  - Key features of an effective data tracker
+  - [Introducing tables](#introducing-tables)
+  - [Key features of an effective data tracker](#key-features-of-an-effective-data-tracker)
 - [**2. Helpful Data Tracking Features**](#2-helpful-data-tracking-features) (6 videos)
-  - Thinking about input, storage, and output
-  - Incorporating charts into your tracker
-  - Adding helper columns
-  - Using Slicers to filter for details
-  - Summary pages and dashboards
-  - Ad hoc vs. at-a-glance needs
+  - [Thinking about input, storage, and output](#thinking-about-input-storage-and-output)
+  - [Incorporating charts into your tracker](#incorporating-charts-into-your-tracker)
+  - [Adding helper columns](#adding-helper-columns)
+  - [Using Slicers to filter for details](#using-slicers-to-filter-for-details)
+  - [Summary pages and dashboards](#summary-pages-and-dashboards)
+  - [Ad hoc vs. at-a-glance needs](#ad-hoc-vs-at-a-glance-needs)
 - [**3. Protecting Your Work and Calculations**](#3-protecting-your-work-and-calculations) (3 videos)
-  - Protecting cells and sheets
-  - Hidden sheets
-  - Hidden columns and rows
+  - [Protecting cells and sheets](#protecting-cells-and-sheets)
+  - [Hidden sheets](#hidden-sheets)
+  - [Hidden columns and rows](#hidden-columns-and-rows)
 - [**4. Managing Inputs and Calculations**](#4-managing-inputs-and-calculations) (5 videos)
-  - Using dropdown lists for accuracy and consistency
-  - Applying formula triggers to prevent inaccurate results
-  - Using cross-footing as a check for data quality
-  - Data validation for reasonable values
-  - Times: Checking data quality
+  - [Using dropdown lists for accuracy and consistency](#using-dropdown-lists-for-accuracy-and-consistency)
+  - [Applying formula triggers to prevent inaccurate results](#applying-formula-triggers-to-prevent-inaccurate-results)
+  - [Using cross-footing as a check for data quality](#using-cross-footing-as-a-check-for-data-quality)
+  - [Data validation for reasonable values](#data-validation-for-reasonable-values)
+  - [Times: Checking data quality](#times-checking-data-quality)
 - [**5. Midterm: Building a Tracker**](#5-midterm-building-a-tracker) (2 videos)
-  - Challenge: Building a data tracker for event details
-  - Solution: Building a data tracker for event details
+  - [Challenge: Building a data tracker for event details](#challenge-building-a-data-tracker-for-event-details)
+  - [Solution: Building a data tracker for event details](#solution-building-a-data-tracker-for-event-details)
 - [**6. Dynamic Arrays and the New Excel Calculation Engine**](#6-dynamic-arrays-and-the-new-excel-calculation-engine) (3 videos)
-  - Dynamic Arrays: One formula, many results
-  - Dynamic Arrays: FILTER, UNIQUE, SORT
-  - Dynamic Arrays: TOCOL, dropdowns, and conditional formatting
+  - [Dynamic Arrays: One formula, many results](#dynamic-arrays-one-formula-many-results)
+  - [Dynamic Arrays: FILTER, UNIQUE, SORT](#dynamic-arrays-filter-unique-sort)
+  - [Dynamic Arrays: TOCOL, dropdowns, and conditional formatting](#dynamic-arrays-tocol-dropdowns-and-conditional-formatting)
 - [**7. VLOOKUP and XLOOKUP**](#7-vlookup-and-xlookup) (4 videos)
-  - VLOOKUP
-  - Categorizing bonuses with VLOOKUP
-  - Merging data with XLOOKUP
-  - Categorizing bonuses with XLOOKUP
+  - [VLOOKUP](#vlookup)
+  - [Categorizing bonuses with VLOOKUP](#categorizing-bonuses-with-vlookup)
+  - [Merging data with XLOOKUP](#merging-data-with-xlookup)
+  - [Categorizing bonuses with XLOOKUP](#categorizing-bonuses-with-xlookup)
 - [**8. PivotTable Basics**](#8-pivottable-basics) (3 videos)
-  - What is a PivotTable?
-  - Preparing and connecting a PivotTable to your data
-  - Building and using a PivotTable
+  - [What is a PivotTable?](#what-is-a-pivottable)
+  - [Preparing and connecting a PivotTable to your data](#preparing-and-connecting-a-pivottable-to-your-data)
+  - [Building and using a PivotTable](#building-and-using-a-pivottable)
 - [**9. Using Power Query to Clean, Format, and Automate**](#9-using-power-query-to-clean-format-and-automate) (4 videos)
-  - Power Query overview
-  - Splitting columns
-  - Append in Power Query
-  - Unpivot and fill-down
+  - [Power Query overview](#power-query-overview)
+  - [Splitting columns](#splitting-columns)
+  - [Append in Power Query](#append-in-power-query)
+  - [Unpivot and fill-down](#unpivot-and-fill-down)
 - [**10. Pretty It Up!**](#10-pretty-it-up) (4 videos)
-  - Data bars for easy visual comparison
-  - Connecting a value to a shape
-  - Hiding zeroes
-  - Conditional formatting to warn of deadlines
+  - [Data bars for easy visual comparison](#data-bars-for-easy-visual-comparison)
+  - [Connecting a value to a shape](#connecting-a-value-to-a-shape)
+  - [Hiding zeroes](#hiding-zeroes)
+  - [Conditional formatting to warn of deadlines](#conditional-formatting-to-warn-of-deadlines)
 - [**11. Get Hands On**](#11-get-hands-on) (4 videos)
-  - Challenge: Building a tracker 1
-  - Solution: Building a tracker 1
-  - Challenge: Building a tracker 2
-  - Solution: Building a tracker 2
+  - [Challenge: Building a tracker 1](#challenge-building-a-tracker-1)
+  - [Solution: Building a tracker 1](#solution-building-a-tracker-1)
+  - [Challenge: Building a tracker 2](#challenge-building-a-tracker-2)
+  - [Solution: Building a tracker 2](#solution-building-a-tracker-2)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your data tracking journey in Excel
+  - [Continue your data tracking journey in Excel](#continue-your-data-tracking-journey-in-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Efficient data tracking in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980)
@@ -131,6 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (3), [[Pivot Tables]] (1), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** xlookup (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - you (1)
@@ -138,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Planning Your Data Tracker
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/introducing-tables?u=76281980)
@@ -291,7 +292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), if, (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (1)
 > **Env Vars:** rsvp (3), grp (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -430,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (4), let (3), this, (2), this. (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (4), next (1)
 > **UI Navigation:** go to (3), scroll down (1), scroll up (1)
 > **CLI Commands:** make (2)
 > **Versions:** 321.70 (1), 24.99 (1)
@@ -442,7 +443,7 @@ created: 2026-04-29
 
 ### 2. Helpful Data Tracking Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking about input, storage, and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/thinking-about-input-storage-and-output?u=76281980)
@@ -601,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (4), case, (1), delete (1)
+> **Frameworks & Libraries:** data (8), teams (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (2)
@@ -797,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (4), this, (2), delete (1), type, (1)
+> **Frameworks & Libraries:** data (6), [[Pivot Tables]] (2), hit (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -866,9 +867,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Versions:** 0.25 (1), 2.5 (1), 2.38 (1), 4.75 (1), 4.65 (1)
 > **Ports:** :15 (1), :45 (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
@@ -961,7 +962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type, (1), this, (1)
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** go to (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1047,7 +1048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), this, (1)
+> **Frameworks & Libraries:** data (9), next (1), [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 88.5 (1), 8.2 (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1133,7 +1134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), raise (2), this. (1)
+> **Frameworks & Libraries:** data (8)
 > **Versions:** 79.99 (1), 36.2 (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** set up (1)
@@ -1142,7 +1143,7 @@ created: 2026-04-29
 
 ### 3. Protecting Your Work and Calculations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting cells and sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/protecting-cells-and-sheets?u=76281980)
@@ -1289,7 +1290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (4), protected (2), default, (1)
+> **Frameworks & Libraries:** data (4), next (3), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** scroll down (1)
@@ -1370,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), else, (1), this. (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Versions:** 0.28 (1)
@@ -1461,7 +1462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** [[Troubleshooting]] (2), data (1)
 > **CLI Commands:** make (3)
 > **Versions:** 49.55 (1), 575.12 (1), 178.50 (1)
 > **UI Navigation:** go to (1)
@@ -1471,7 +1472,7 @@ created: 2026-04-29
 
 ### 4. Managing Inputs and Calculations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using dropdown lists for accuracy and consistency
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980)
@@ -1688,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (5), this, (1)
+> **Frameworks & Libraries:** data (10), [[Pivot Tables]] (1)
 > **UI Navigation:** dropdown (7), go to (2)
 > **Env Vars:** nyc (3)
 > **CLI Commands:** make (2)
@@ -1797,7 +1798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for, (1), if, (1), this. (1)
+> **Frameworks & Libraries:** data (2), power (1), [[Microsoft Excel|Excel]] (1)
 > **Code Identifiers:** counta (4)
 > **UI Navigation:** scroll down (3), go to (1)
 > **Env Vars:** h113 (1), k300 (1), h120 (1)
@@ -1886,7 +1887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), match. (3), this. (1)
+> **Frameworks & Libraries:** data (11), [[Pivot Tables]] (1)
 > **Versions:** 310.75 (2), 314.75 (1)
 > **Env Vars:** aq204 (1)
 > **Definitions:** is a  (1)
@@ -2009,7 +2010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), for. (1), this. (1)
+> **Frameworks & Libraries:** data (13)
 > **CLI Commands:** make (3)
 > **Versions:** 4.5 (1)
 > **UI Navigation:** dropdown (1)
@@ -2072,8 +2073,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1)
 > **Ports:** :19 (3), :05 (1), :30 (1)
-> **Code Keywords:** let (2), for. (1), pass (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** d17 (1)
 > **UI Navigation:** go to (1)
@@ -2082,7 +2083,7 @@ created: 2026-04-29
 
 ### 5. Midterm: Building a Tracker
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Building a data tracker for event details
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-data-tracker-for-event-details?u=76281980)
@@ -2125,6 +2126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rsvp (1)
 > **Versions:** 1.8 (1)
@@ -2323,7 +2325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), delete (1)
+> **Frameworks & Libraries:** data (4), next (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (3)
 > **Non-Speech:** (upbeat music) (2)
@@ -2333,7 +2335,7 @@ created: 2026-04-29
 
 ### 6. Dynamic Arrays and the New Excel Calculation Engine
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic Arrays: One formula, many results
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980)
@@ -2460,8 +2462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3), [[Microsoft 365]] (1), web (1), next (1)
 > **Env Vars:** ord (2), upper (1), gdn (1), lim (1), acc (1)
-> **Code Keywords:** let (4), new, (1), this. (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -2667,7 +2669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3)
+> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Excel|Excel]] (1), hit (1)
 > **UI Navigation:** go to (4)
 > **Cross-References:** go back to (2)
 > **Definitions:** is an  (1)
@@ -2816,7 +2818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (3), default, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), next (1)
 > **UI Navigation:** dropdown (4), go to (2)
 > **Env Vars:** tocol (5)
 > **Cross-References:** go back to (2)
@@ -2827,7 +2829,7 @@ created: 2026-04-29
 
 ### 7. VLOOKUP and XLOOKUP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### VLOOKUP
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/vlookup?u=76281980)
@@ -2934,8 +2936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** vlookup (10), xlookup (3)
-> **Code Keywords:** let (6), match. (2), match, (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
@@ -3028,7 +3030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), match. (2), match, (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** vlookup (5), xlookup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3159,8 +3161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft 365]] (1), [[Search]] (1), hit (1)
 > **Env Vars:** xlookup (13), vlookup (6), index (1), match (1), chk (1)
-> **Code Keywords:** let (4), return, (1), return. (1), this. (1)
 > **UI Navigation:** go to (2)
 > **SQL:** index (1)
 > **Analogies:** for example (1)
@@ -3257,8 +3259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), [[Search]] (1), hit (1)
 > **Env Vars:** xlookup (7), vlookup (1)
-> **Code Keywords:** let (5), function (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -3266,7 +3268,7 @@ created: 2026-04-29
 
 ### 8. PivotTable Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a PivotTable?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980)
@@ -3439,7 +3441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2)
+> **Frameworks & Libraries:** data (22), product (5), next (1), [[Pivot Tables]] (1)
 > **Env Vars:** ggy (2), lxs (1), dsa (1), esv (1)
 > **UI Navigation:** scroll down (2), go to (2)
 > **Definitions:** is a  (3)
@@ -3643,7 +3645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (3)
+> **Frameworks & Libraries:** data (24), [[Pivot Tables]] (3), product (3), feature (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
@@ -3793,7 +3795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2)
+> **Frameworks & Libraries:** data (5), [[Pivot Tables]] (4), product (4)
 > **Env Vars:** xlookup (2), ccl (1), dsa (1), esv (1)
 > **Versions:** 238.99 (1)
 > **Cross-References:** go back to (1)
@@ -3805,7 +3807,7 @@ created: 2026-04-29
 
 ### 9. Using Power Query to Clean, Format, and Automate
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Power Query overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980)
@@ -4038,7 +4040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), for. (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (21), [[Microsoft Power Query|Power query]] (18), [[Microsoft Excel|Excel]] (4), web (3), [[LinkedIn]] (1)
 > **UI Navigation:** go to (4), right-click (3), scroll down (2), double-click (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2), find (1)
@@ -4212,7 +4214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (3), this, (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (1), next (1)
 > **UI Navigation:** go to (4), scroll up (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -4480,7 +4482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (1), this, (1)
+> **Frameworks & Libraries:** data (22), [[Microsoft Power Query|Power query]] (4), next (1)
 > **UI Navigation:** right-click (3), go to (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -4715,7 +4717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), this, (2), else, (1), type, (1)
+> **Frameworks & Libraries:** data (23), [[Microsoft Power Query|Power query]] (3)
 > **UI Navigation:** go to (5), right-click (4), scroll down (1)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
@@ -4723,7 +4725,7 @@ created: 2026-04-29
 
 ### 10. Pretty It Up!
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data bars for easy visual comparison
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-bars-for-easy-visual-comparison?u=76281980)
@@ -4778,7 +4780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1)
+> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4941,7 +4943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), if, (1)
+> **Frameworks & Libraries:** data (2), hit (1), [[Windows]] (1)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be aware (1)
@@ -4996,8 +4998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (2), this. (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
@@ -5166,7 +5168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), this. (1)
+> **Frameworks & Libraries:** data (1), next (1), hit (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Cross-References:** coming up (2)
 > **Warnings:** be careful (1)
@@ -5175,7 +5177,7 @@ created: 2026-04-29
 
 ### 11. Get Hands On
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Building a tracker 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-tracker-1?u=76281980)
@@ -5204,8 +5206,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** dropdown (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -5324,7 +5326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** data (4), next (1)
 > **UI Navigation:** dropdown (3), scroll down (1), go to (1)
 > **Env Vars:** j12 (2), xlookup (1)
 > **CLI Commands:** make (2)
@@ -5383,7 +5385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** vip (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -5577,7 +5579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (2), if, (1), else. (1), protected (1)
+> **Frameworks & Libraries:** next (4), data (2), [[Windows]] (2), hit (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** vip (4)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1)
@@ -5588,7 +5590,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your data tracking journey in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980)
@@ -5615,6 +5617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (2), [[Microsoft Power Query|Power query]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

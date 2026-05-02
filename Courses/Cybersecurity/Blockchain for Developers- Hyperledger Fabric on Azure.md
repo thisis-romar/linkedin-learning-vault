@@ -31,7 +31,7 @@ tags:
   - skill/blockchain-architecture
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Blockchain%20for%20Developers-%20Hyperledger%20Fabric%20on%20Azure.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Entering blockchain as a developer
-  - What you should know
-  - What we are going to build
+  - [Entering blockchain as a developer](#entering-blockchain-as-a-developer)
+  - [What you should know](#what-you-should-know)
+  - [What we are going to build](#what-we-are-going-to-build)
 - [**1. Getting Started in Blockchain and Hyperledger**](#1-getting-started-in-blockchain-and-hyperledger) (2 videos)
-  - Blockchain landscape
-  - Public vs. private ledgers
+  - [Blockchain landscape](#blockchain-landscape)
+  - [Public vs. private ledgers](#public-vs-private-ledgers)
 - [**2. Hyperledger Concepts**](#2-hyperledger-concepts) (6 videos)
-  - Hyperledger introduction
-  - Hyperledger Fabric network
-  - Managing identity in Fabric
-  - Smart contracts
-  - How to reach consensus
-  - What's new in HLF 2.0
+  - [Hyperledger introduction](#hyperledger-introduction)
+  - [Hyperledger Fabric network](#hyperledger-fabric-network)
+  - [Managing identity in Fabric](#managing-identity-in-fabric)
+  - [Smart contracts](#smart-contracts)
+  - [How to reach consensus](#how-to-reach-consensus)
+  - [What's new in HLF 2.0](#whats-new-in-hlf-20)
 - [**3. Blockchain in Azure**](#3-blockchain-in-azure) (3 videos)
-  - Hyperledger Fabric on Azure
-  - Production vs. development differences
-  - Hyperledger tools
+  - [Hyperledger Fabric on Azure](#hyperledger-fabric-on-azure)
+  - [Production vs. development differences](#production-vs-development-differences)
+  - [Hyperledger tools](#hyperledger-tools)
 - [**4. Set Up Your Blockchain Environment**](#4-set-up-your-blockchain-environment) (5 videos)
-  - Development environment setup
-  - Development environment for Fabric on Azure
-  - Deploy Hyperledger Fabric on Azure
-  - Connect to network
-  - Create development project
+  - [Development environment setup](#development-environment-setup)
+  - [Development environment for Fabric on Azure](#development-environment-for-fabric-on-azure)
+  - [Deploy Hyperledger Fabric on Azure](#deploy-hyperledger-fabric-on-azure)
+  - [Connect to network](#connect-to-network)
+  - [Create development project](#create-development-project)
 - [**5. Create Your Azure Blockchain Application**](#5-create-your-azure-blockchain-application) (6 videos)
-  - Build the network
-  - Examine application structure
-  - Add readings
-  - Deploying chaincode to network
-  - Challenge: Determine oil grade
-  - Solution: Determine oil grade
+  - [Build the network](#build-the-network)
+  - [Examine application structure](#examine-application-structure)
+  - [Add readings](#add-readings)
+  - [Deploying chaincode to network](#deploying-chaincode-to-network)
+  - [Challenge: Determine oil grade](#challenge-determine-oil-grade)
+  - [Solution: Determine oil grade](#solution-determine-oil-grade)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Teardown
-  - Next steps
+  - [Teardown](#teardown)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Entering blockchain as a developer
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), business (2), [[Microsoft Azure|Azure]] (2), cloud (2), application (1)
 > **Versions:** 3.1 (1)
 > **Speakers:** - in (1)
 
@@ -144,6 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), node (2), [[Windows]] (1)
 > **CLI Commands:** node (2), docker (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
@@ -171,13 +172,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Blockchain]] (2), cloud (1), [[Smart Contracts]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Started in Blockchain and Hyperledger
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980)
@@ -220,6 +222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Banking]] (1), [[Ethereum]] (1), [[Smart Contracts]] (1), [[Cryptocurrency]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -307,7 +310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), let (4), require (3), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (13), [[Blockchain]] (6), [[IoT]] (1), power (1), [[Privacy]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Env Vars:** iot (1)
@@ -316,7 +319,7 @@ created: 2026-04-29
 
 ### 2. Hyperledger Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hyperledger introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980)
@@ -413,7 +416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (4)
+> **Frameworks & Libraries:** management (5), [[Ethereum]] (4), [[Blockchain]] (2), [[Smart Contracts]] (2), [[Linux]] (1)
 > **Env Vars:** ibm (1), sap (1)
 > **CLI Commands:** apache (1)
 > **URLs:** [hyperledger.org](https://hyperledger.org) (1)
@@ -547,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), private (1)
+> **Frameworks & Libraries:** data (6), management (2), [[Smart Contracts]] (2), [[Ethereum]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ibm (2)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** we discussed (1)
@@ -602,7 +605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), default, (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
@@ -697,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Ethereum]] (5), [[Smart Contracts]] (4), business (1), [[JavaScript]] (1), [[Java]] (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **CLI Commands:** docker (1)
 > **Cross-References:** go back to (1)
@@ -823,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (3), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Ethereum]] (4), application (3), [[Blockchain]] (2), node (2), next (2)
 > **CLI Commands:** node (2)
 > **Env Vars:** gas (2)
 > **Cross-References:** earlier in (1), we discussed (1)
@@ -909,7 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), finally, (2), extends (1), require (1), let (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Azure|Azure]] (2), [[Blockchain]] (1), next (1), [[Linux]] (1)
 > **Versions:** 2.0 (4), 1.0 (1), version 1 (1), 4.8 (1)
 > **CLI Commands:** docker (2), composer (1)
 > **Tools:** vs code (1)
@@ -921,7 +924,7 @@ created: 2026-04-29
 
 ### 3. Blockchain in Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hyperledger Fabric on Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980)
@@ -1020,7 +1023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), cloud (6), [[Blockchain]] (6), [[Security]] (4), [[Scalability]] (2)
 > **Prerequisites:** setup (2), set up (1)
 > **CLI Commands:** docker (1)
 > **Definitions:** is a  (1)
@@ -1121,8 +1124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), node (3), [[Scalability]] (1), [[Apache Kafka]] (1), [[Databases]] (1)
 > **Prerequisites:** setup (10), set up (1)
-> **Code Keywords:** let (2), default. (1), this, (1), finally, (1)
 > **CLI Commands:** node (3), apache (1)
 > **Definitions:** is an  (1), means that (1)
 > **Cross-References:** we mentioned (1)
@@ -1205,7 +1208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), this. (1), default. (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), web (1), application (1), business (1), [[Ethereum]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1)
 > **Warnings:** keep in mind (1)
@@ -1215,7 +1218,7 @@ created: 2026-04-29
 
 ### 4. Set Up Your Blockchain Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Development environment setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980)
@@ -1322,9 +1325,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), cloud (3), [[npm]] (3), [[Microsoft Azure|Azure]] (2), [[Windows]] (2)
 > **CLI Commands:** node (4), npm (3), docker (2), curl (2), make (2)
 > **Prerequisites:** install (9), setup (2)
-> **Code Keywords:** let (8), finally, (1), this, (1)
 > **Env Vars:** npm (3), ibm (2), cli (1), ssl (1)
 > **Versions:** version 1 (2), version 10 (1), 39.2 (1)
 > **Tools:** vs code (2), powershell (1), docker desktop (1)
@@ -1370,7 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (1), this. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Kubernetes]] (1), data (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Exercise Files:** template (2)
 > **Env Vars:** aks (1)
@@ -1503,7 +1506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), self (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Blockchain]] (2), node (2), cloud (1), next (1)
 > **Env Vars:** hlf (3), aks (2), hlfc (1)
 > **CLI Commands:** node (2), make (1), az (1)
 > **Cross-References:** go back to (1), previous video (1)
@@ -1617,7 +1620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), cloud (2), next (2), [[npm]] (1)
 > **Env Vars:** orderer_org_name (1), peer_org_name (1), msp (1), hlf (1), npm (1)
 > **Prerequisites:** set up (3), setup (1), install (1)
 > **CLI Commands:** curl (2), make (1), npm (1)
@@ -1699,7 +1702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), private (2), interface (2), finally, (1), extends (1)
+> **Frameworks & Libraries:** [[JSON]] (2), application (2), [[JavaScript]] (2), api (2), [[Blockchain]] (1)
 > **Env Vars:** api (2), ibm (1), json (1)
 > **File Paths:** index.js (1), package.json (1)
 > **UI Navigation:** select the (1), navigate to (1)
@@ -1710,7 +1713,7 @@ created: 2026-04-29
 
 ### 5. Create Your Azure Blockchain Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/build-the-network?u=76281980)
@@ -1765,7 +1768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (7), next (2)
 > **Cross-References:** earlier in (1), we talked about (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
@@ -1845,7 +1848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), struct (1), pass (1), throw (1)
+> **Frameworks & Libraries:** next (3), data (2), api (1), [[Microsoft Azure|Azure]] (1), application (1)
 > **Env Vars:** api (1), json (1)
 > **Versions:** 2.0 (1), version 14 (1)
 > **Prerequisites:** setup (2)
@@ -1987,7 +1990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (10), pass (2), finally, (2), struct (1)
+> **Frameworks & Libraries:** next (3), [[JSON]] (2)
 > **Code Identifiers:** batchjson (1), selectedbatchasjson (1), selectedbatchasjsonbytes (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -2075,7 +2078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), finally, (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft Azure|Azure]] (1), cloud (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** b01 (1)
 > **Tools:** azure portal (1)
@@ -2113,7 +2116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2344,7 +2347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (10), finally, (4), struct (2), enum (1)
+> **Frameworks & Libraries:** next (6), [[Microsoft Products|Products]] (2), cloud (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** querybatch (1)
 > **Env Vars:** hlf (1)
@@ -2356,7 +2359,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Teardown
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/teardown?u=76281980)
@@ -2383,7 +2386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), cloud (1)
 > **Env Vars:** hlf (2)
 > **CLI Commands:** az (1)
 > **Warnings:** keep in mind (1)
@@ -2420,7 +2423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Blockchain]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** composer (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** go to (1)

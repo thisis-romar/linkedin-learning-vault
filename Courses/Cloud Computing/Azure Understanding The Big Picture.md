@@ -34,7 +34,7 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Understanding%20The%20Big%20Picture.md)
@@ -53,69 +53,69 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Azure from a 10,000-foot view
-  - Getting the best out of this course
-  - The fluctuating nature of the Azure portal
+  - [Azure from a 10,000-foot view](#azure-from-a-10000-foot-view)
+  - [Getting the best out of this course](#getting-the-best-out-of-this-course)
+  - [The fluctuating nature of the Azure portal](#the-fluctuating-nature-of-the-azure-portal)
 - [**1. The Big Picture**](#1-the-big-picture) (7 videos)
-  - What is the cloud?
-  - Benefits of using the cloud
-  - What is infrastructure as a service (IaaS)?
-  - What is software as a service (SaaS)?
-  - What is platform as a service (PaaS)?
-  - What is services as a service (SEaaS)?
-  - Surveying the cloud market leaders
+  - [What is the cloud?](#what-is-the-cloud)
+  - [Benefits of using the cloud](#benefits-of-using-the-cloud)
+  - [What is infrastructure as a service (IaaS)?](#what-is-infrastructure-as-a-service-iaas)
+  - [What is software as a service (SaaS)?](#what-is-software-as-a-service-saas)
+  - [What is platform as a service (PaaS)?](#what-is-platform-as-a-service-paas)
+  - [What is services as a service (SEaaS)?](#what-is-services-as-a-service-seaas)
+  - [Surveying the cloud market leaders](#surveying-the-cloud-market-leaders)
 - [**2. Azure Basics**](#2-azure-basics) (4 videos)
-  - Subscription choices for Azure
-  - Understand Azure costs and fees
-  - The broad world of Azure services
-  - A quick tour of the Azure portal
+  - [Subscription choices for Azure](#subscription-choices-for-azure)
+  - [Understand Azure costs and fees](#understand-azure-costs-and-fees)
+  - [The broad world of Azure services](#the-broad-world-of-azure-services)
+  - [A quick tour of the Azure portal](#a-quick-tour-of-the-azure-portal)
 - [**3. Azure App Service**](#3-azure-app-service) (4 videos)
-  - A quick tour of Azure app service
-  - Relationship between Azure app service and app service plan
-  - Build a new app service
-  - Explore a web app on app service
+  - [A quick tour of Azure app service](#a-quick-tour-of-azure-app-service)
+  - [Relationship between Azure app service and app service plan](#relationship-between-azure-app-service-and-app-service-plan)
+  - [Build a new app service](#build-a-new-app-service)
+  - [Explore a web app on app service](#explore-a-web-app-on-app-service)
 - [**4. APIs and API Management**](#4-apis-and-api-management) (2 videos)
-  - Host Web APIs on app service
-  - Manage APIs with Azure API management service
+  - [Host Web APIs on app service](#host-web-apis-on-app-service)
+  - [Manage APIs with Azure API management service](#manage-apis-with-azure-api-management-service)
 - [**5. Code and Workflows**](#5-code-and-workflows) (2 videos)
-  - Run serverless code with Azure Functions
-  - Building powerful workflows with logic apps
+  - [Run serverless code with Azure Functions](#run-serverless-code-with-azure-functions)
+  - [Building powerful workflows with logic apps](#building-powerful-workflows-with-logic-apps)
 - [**6. Azure Storage**](#6-azure-storage) (4 videos)
-  - A quick tour of Azure Storage
-  - Store any kind of object in blob storage
-  - Blob storage example
-  - File share example
+  - [A quick tour of Azure Storage](#a-quick-tour-of-azure-storage)
+  - [Store any kind of object in blob storage](#store-any-kind-of-object-in-blob-storage)
+  - [Blob storage example](#blob-storage-example)
+  - [File share example](#file-share-example)
 - [**7. Azure Databases**](#7-azure-databases) (3 videos)
-  - A quick tour of Azure databases
-  - Explore Cosmos DB, the multimodel, no-SQL database
-  - Cosmos DB in action
+  - [A quick tour of Azure databases](#a-quick-tour-of-azure-databases)
+  - [Explore Cosmos DB, the multimodel, no-SQL database](#explore-cosmos-db-the-multimodel-no-sql-database)
+  - [Cosmos DB in action](#cosmos-db-in-action)
 - [**8. Infrastructure**](#8-infrastructure) (3 videos)
-  - Protect access to services with Microsoft Entra ID
-  - Explore the Azure networking components
-  - Build out your system with virtual machines
+  - [Protect access to services with Microsoft Entra ID](#protect-access-to-services-with-microsoft-entra-id)
+  - [Explore the Azure networking components](#explore-the-azure-networking-components)
+  - [Build out your system with virtual machines](#build-out-your-system-with-virtual-machines)
 - [**9. DevOps**](#9-devops) (5 videos)
-  - Enhance development and deployment with Azure DevOps
-  - Simplify app deployment with containers
-  - GitHub and Azure
-  - Azure deployment environments: Streamline cloud infrastructure management
-  - Microsoft Dev Box: A cloud-based development workstation
+  - [Enhance development and deployment with Azure DevOps](#enhance-development-and-deployment-with-azure-devops)
+  - [Simplify app deployment with containers](#simplify-app-deployment-with-containers)
+  - [GitHub and Azure](#github-and-azure)
+  - [Azure deployment environments: Streamline cloud infrastructure management](#azure-deployment-environments-streamline-cloud-infrastructure-management)
+  - [Microsoft Dev Box: A cloud-based development workstation](#microsoft-dev-box-a-cloud-based-development-workstation)
 - [**10. Other Services**](#10-other-services) (10 videos)
-  - The Azure AI family
-  - Messaging with event grid, event hub, or service bus
-  - Send mobile notifications with notification hubs
-  - Use media services to encode and stream media
-  - Manage IoT devices
-  - Azure Virtual Desktop: Remote work with cloud-based desktops
-  - Azure Arc: Unify multicloud and on-premises management
-  - Back up and recover data with Azure Backup
-  - The Azure Marketplace: Use partner services
-  - The rest of the services
+  - [The Azure AI family](#the-azure-ai-family)
+  - [Messaging with event grid, event hub, or service bus](#messaging-with-event-grid-event-hub-or-service-bus)
+  - [Send mobile notifications with notification hubs](#send-mobile-notifications-with-notification-hubs)
+  - [Use media services to encode and stream media](#use-media-services-to-encode-and-stream-media)
+  - [Manage IoT devices](#manage-iot-devices)
+  - [Azure Virtual Desktop: Remote work with cloud-based desktops](#azure-virtual-desktop-remote-work-with-cloud-based-desktops)
+  - [Azure Arc: Unify multicloud and on-premises management](#azure-arc-unify-multicloud-and-on-premises-management)
+  - [Back up and recover data with Azure Backup](#back-up-and-recover-data-with-azure-backup)
+  - [The Azure Marketplace: Use partner services](#the-azure-marketplace-use-partner-services)
+  - [The rest of the services](#the-rest-of-the-services)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure from a 10,000-foot view
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980)
@@ -146,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (2), web (2), [[Microsoft]] (1)
 > **Analogies:** picture (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [walt] (1)
 
 #### Getting the best out of this course
@@ -183,10 +183,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[DevOps]] (2), cloud (1), [[Databases]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** picture (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -233,10 +233,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), cloud (1), [[Microsoft]] (1), [[Security]] (1), [[Powershell]] (1)
 > **Definitions:** is a  (2), means that (2)
 > **Tools:** powershell (1), azure portal (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [presenter] (1)
@@ -244,7 +244,7 @@ created: 2026-04-29
 
 ### 1. The Big Picture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980)
@@ -415,8 +415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (47), [[Microsoft Azure|Azure]] (6), [[Hardware]] (6), [[Microsoft]] (4), data (4)
 > **Definitions:** is a  (7), means that (2), in other words (1), stands for (1), is an  (1)
-> **Code Keywords:** let (2), private (2), public (2), continue (1), self (1)
 > **Env Vars:** nist (2), sql (1), api (1), url (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (3)
@@ -527,6 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), data (11), [[Hardware]] (5), [[Security]] (3), [[Scalability]] (3)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** for example (2)
 > **Env Vars:** sla (1)
@@ -652,11 +653,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (19), [[IaaS]] (16), [[Hardware]] (10), data (5), [[Microsoft Azure|Azure]] (3)
 > **Definitions:** is a  (5), means that (1)
 > **Prerequisites:** install (2), set up (2), configure (1)
 > **Env Vars:** aws (1), ssd (1), dns (1)
 > **CLI Commands:** aws (1), make (1)
-> **Code Keywords:** this. (1), else. (1)
 > **Analogies:** think of it as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -797,10 +798,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SaaS]] (18), cloud (12), [[Microsoft Office|Office]] (5), [[LinkedIn]] (4), [[SaaS|Software as a service]] (3)
 > **Definitions:** is a  (6), is an  (1)
 > **Analogies:** think of it as (1), for example (1), such as (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Prerequisites:** install (1), setup (1)
 > **Env Vars:** erp (1)
 > **Best Practices:** the key is (1)
@@ -897,8 +898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (11), [[Hardware]] (6), cloud (3), application (3), management (2)
 > **Prerequisites:** setup (3), set up (1), configure (1)
-> **Code Keywords:** let (2), type, (1), require (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
@@ -940,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** web (3), application (3), [[SaaS]] (2), [[SaaS|Software as a service]] (2), data (1)
 > **Env Vars:** sms (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -953,7 +954,7 @@ created: 2026-04-29
 
 ### 2. Azure Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Subscription choices for Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980)
@@ -1060,8 +1061,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (23), [[Microsoft]] (10), cloud (4), [[Microsoft Products|Products]] (3), business (2)
 > **Definitions:** is a  (4), known as (1), is called (1)
-> **Code Keywords:** case, (1), require (1), finally, (1), switch (1)
 > **Tools:** visual studio (3), azure portal (1)
 > **Env Vars:** csp (1), stem (1), sql (1)
 > **Analogies:** for example (2)
@@ -1177,8 +1178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), database (6), [[Databases]] (2), [[Virtual Machines]] (2), [[Microsoft Azure]] (1)
 > **Env Vars:** cpu (2), sql (1), ssd (1), gib (1)
-> **Code Keywords:** case, (2), type, (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -1351,10 +1352,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (40), cloud (10), web (9), data (7), [[IoT]] (7)
 > **CLI Commands:** find (7), make (3), docker (1), mysql (1)
 > **Definitions:** is a  (3), is an  (2), refers to (1), known as (1)
 > **Env Vars:** sql (2), rdbms (1), api (1), dns (1), vpn (1)
-> **Code Keywords:** let (3), static (2)
 > **Analogies:** for instance (2), such as (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** later in (1)
@@ -1455,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), database (3), [[Virtual Machines]] (2), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **UI Navigation:** click on (5)
 > **Env Vars:** sql (3)
 > **Prerequisites:** set up (3)
@@ -1467,7 +1468,7 @@ created: 2026-04-29
 
 ### 3. Azure App Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick tour of Azure app service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980)
@@ -1620,9 +1621,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (20), [[Microsoft Azure|Azure]] (17), cloud (10), [[Microsoft]] (5), application (4)
 > **Definitions:** is a  (10), means that (1), known as (1)
 > **CLI Commands:** make (2), docker (2), node (1), php (1), python (1)
-> **Code Keywords:** private (1), this, (1), let (1), case, (1), finally, (1)
 > **Env Vars:** api (1), php (1), iso (1), soc (1), pci (1)
 > **Tools:** powershell (1), github (1), bitbucket (1)
 > **Prerequisites:** configure (1), install (1), set up (1)
@@ -1696,6 +1697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), web (2), [[Virtual Machines]] (1), [[Scalability]] (1), [[Linux]] (1)
 > **Env Vars:** acu (2), p1v3 (1), cpu (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), dropdown (1)
@@ -1703,7 +1705,6 @@ created: 2026-04-29
 > **Cross-References:** earlier in (1)
 > **Tools:** azure portal (1)
 > **Definitions:** stands for (1)
-> **Speakers:** - [instructor] (1)
 
 #### Build a new app service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980)
@@ -1816,7 +1817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (7), let (1), for . (1), public (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), web (15), next (4), database (3), [[WordPress]] (3)
 > **CLI Commands:** node (2), python (2), php (2), make (2), docker (1)
 > **Env Vars:** net (2), php (2), api (1), ssl (1), sql (1)
 > **Cross-References:** later in (2), in the next (1)
@@ -1906,9 +1907,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[Microsoft Azure|Azure]] (3), application (2), [[Windows]] (2), [[Statistics]] (2)
 > **Env Vars:** asp (1), net (1), cpu (1), cli (1)
 > **UI Navigation:** click on (2), scroll down (2)
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (2)
 > **Tools:** visual studio (1), azure portal (1)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -1918,7 +1919,7 @@ created: 2026-04-29
 
 ### 4. APIs and API Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Host Web APIs on app service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980)
@@ -1983,8 +1984,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (18), [[Microsoft Azure|Azure]] (10), web (5), [[Representational State Transfer (REST)|Rest]] (3), feature (3)
 > **Env Vars:** api (18), cors (4), rest (3), asb (1), net (1)
-> **Code Keywords:** interface (2), finally, (1)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** php (1)
@@ -2093,8 +2094,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), management (8), [[Microsoft Azure|Azure]] (5), [[Microsoft Products|Products]] (4), power (2)
 > **Env Vars:** api (13), http (1)
-> **Code Keywords:** let (4), public (2), for, (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** set up (3)
 > **Documentation:** specification (1), the documentation (1)
@@ -2105,7 +2106,7 @@ created: 2026-04-29
 
 ### 5. Code and Workflows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Run serverless code with Azure Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980)
@@ -2292,7 +2293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (31), finally, (1), require (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), data (7), cloud (3), [[LinkedIn]] (2), power (2)
 > **Env Vars:** url (3), net (2), pip (1), http (1), json (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** npm (1), pip (1), python (1), find (1)
@@ -2460,7 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), super (1), interface (1), pass (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Azure|Azure]] (9), power (6), [[Microsoft Outlook|Outlook]] (6), business (5)
 > **Env Vars:** edi (2), ftp (1), api (1), sql (1), http (1)
 > **Tools:** slack (4), azure portal (1), visual studio (1)
 > **Definitions:** is a  (5)
@@ -2472,7 +2473,7 @@ created: 2026-04-29
 
 ### 6. Azure Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick tour of Azure Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980)
@@ -2597,8 +2598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), [[Microsoft Azure|Azure]] (22), cloud (5), [[Virtual Machines]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** rest (1), url (1), sas (1), hdd (1), sql (1)
-> **Code Keywords:** interface (1), private (1), let (1), default, (1)
 > **Definitions:** is a  (2), known as (1), refers to (1)
 > **Prerequisites:** configure (2), required to (1)
 > **Analogies:** just like (1)
@@ -2666,8 +2667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), data (3), [[Windows]] (2), next (1), cloud (1)
 > **Env Vars:** blob (4), url (2), mp3 (1), pdf (1)
-> **Code Keywords:** let (1), type. (1)
 > **URLs:** [windows.net](https://windows.net) (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -2738,9 +2739,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Security]] (1), next (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Env Vars:** url (3), md5 (1)
-> **Code Keywords:** this, (1), private (1), let (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2854,7 +2855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), cloud (3), [[Windows]] (3), [[Powershell]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Tools:** powershell (2), azure portal (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
@@ -2866,7 +2867,7 @@ created: 2026-04-29
 
 ### 7. Azure Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick tour of Azure databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980)
@@ -3007,10 +3008,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (24), data (24), [[Microsoft Azure|Azure]] (24), [[SQL]] (11), [[Databases]] (8)
 > **Env Vars:** sql (16)
 > **Definitions:** is a  (9), known as (1)
 > **CLI Commands:** find (3), mysql (1), apache (1)
-> **Code Keywords:** super (2), self (1)
 > **Analogies:** such as (1), think of it as (1)
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
@@ -3176,8 +3177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (50), [[Microsoft Azure|Azure]] (13), database (11), api (11), [[NoSQL]] (3)
 > **Env Vars:** api (11), ars (3), json (2), sql (2), sdk (1)
-> **Code Keywords:** type, (1), default, (1), super (1), let (1), case, (1)
 > **Definitions:** is a  (2), known as (2), refers to (2), is an  (1)
 > **CLI Commands:** apache (2), python (1), node (1), make (1)
 > **Analogies:** think of it as (1), imagine (1), for example (1)
@@ -3280,6 +3281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), database (7), api (6), data (5), [[JSON]] (5)
 > **Env Vars:** api (6), json (5), sql (2), dns (1), url (1)
 > **Definitions:** is a  (3), means that (1)
 > **Tools:** azure portal (3)
@@ -3287,12 +3289,11 @@ created: 2026-04-29
 > **UI Navigation:** select the (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** required to (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 8. Infrastructure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect access to services with Microsoft Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980)
@@ -3373,6 +3374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (11), cloud (7), management (6), [[Microsoft Azure|Azure]] (4), [[Active Directory]] (4)
 > **Env Vars:** gdpr (1), hipaa (1), rest (1), odata (1)
 > **Tools:** powershell (1), command line (1)
 > **Definitions:** is a  (2)
@@ -3463,7 +3465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), private (4), let (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), cloud (5), [[Microsoft]] (4), traffic (4), data (3)
 > **Env Vars:** vnet (6), vpn (3), tcp (1), udp (1), dns (1)
 > **Definitions:** is a  (6), known as (1)
 > **Tools:** command line (1), azure portal (1)
@@ -3532,6 +3534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (2), cloud (2), [[Microsoft]] (1), [[Virtual Machines]] (1)
 > **Tools:** command line (2), powershell (1), bash (1), azure portal (1)
 > **Analogies:** for example (2), for instance (1)
 > **Definitions:** known as (1), is a  (1)
@@ -3543,7 +3546,7 @@ created: 2026-04-29
 
 ### 9. DevOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhance development and deployment with Azure DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980)
@@ -3710,9 +3713,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[DevOps]] (16), application (11), [[Microsoft]] (6), [[GitHub]] (4)
 > **CLI Commands:** find (3), git (3), npm (1)
 > **Tools:** github (4), visual studio (2), azure portal (1)
-> **Code Keywords:** private (2), new. (1), class. (1), public (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** think of it as (1), such as (1)
 > **Exercise Files:** source code (1)
@@ -3768,6 +3771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[DevOps]] (2), [[Microsoft Azure|Azure]] (2), web (2), [[Software Development]] (1)
 > **CLI Commands:** docker (7), make (2)
 > **Tools:** visual studio (2)
 > **Env Vars:** api (1)
@@ -3892,10 +3896,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (30), [[Microsoft Azure|Azure]] (23), [[DevOps]] (7), [[Git]] (4), feature (4)
 > **Tools:** github (30)
 > **CLI Commands:** git (4), find (3), make (1)
 > **Definitions:** is a  (5), is an  (2), is called (1)
-> **Code Keywords:** let (2), public (1), private (1), switch (1)
 > **Prerequisites:** set up (2)
 > **Exercise Files:** source code (1)
 > **Analogies:** for example (1)
@@ -3956,6 +3960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), web (3), ci (2), cd (2), [[Security]] (2)
 > **CLI Commands:** docker (2), cd (2)
 > **Prerequisites:** configure (2), set up (2)
 > **Analogies:** such as (2), for example (1)
@@ -3970,7 +3975,7 @@ created: 2026-04-29
 
 ### 10. Other Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Azure AI family
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980)
@@ -4131,11 +4136,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), ai (19), [[Microsoft Azure|Azure]] (18), [[Algorithms]] (8), [[Large Language Models (LLM)|Large language models]] (5)
 > **Definitions:** is a  (8), means that (1), refers to (1)
 > **Analogies:** such as (4), for example (3), picture (1)
 > **Env Vars:** luis (2), gpt (2), dall (2)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** this, (2), require (1), finally, (1), let (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
@@ -4363,8 +4368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), data (10), application (6), cloud (2), [[React.js|React]] (2)
 > **Analogies:** such as (8), for example (2), just like (1)
-> **Code Keywords:** pub (3), let (2), case, (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -4422,9 +4427,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), feature (3), traffic (2), [[Android]] (2), [[Multi-factor Authentication]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** php (1), node (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** net (1), php (1)
 > **File Paths:** node.js (1)
 > **Code Identifiers:** ios (1)
@@ -4578,10 +4583,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), web (3), [[Metadata]] (2), data (2), cloud (2)
 > **Env Vars:** cdn (3), drm (2), mp4 (2), avi (1), aes (1)
 > **Analogies:** for example (3), such as (1), picture (1), for instance (1)
 > **Definitions:** is a  (3), means that (1), known as (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Warnings:** caution (1)
 > **Prerequisites:** set up (1)
@@ -4692,9 +4697,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (22), [[Microsoft Azure|Azure]] (8), data (5), [[Security]] (4), [[Microsoft]] (2)
 > **Env Vars:** iot (22), sql (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
-> **Code Keywords:** let (1), interface (1), module (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [host] (1)
@@ -4804,8 +4809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Windows]] (5), [[Windows 10]] (5), cloud (4), [[Microsoft Office|Office]] (3)
 > **Env Vars:** avd (12), san (1), vdi (1)
-> **Code Keywords:** let (2), require (1), interface (1)
 > **Tools:** azure portal (1), command line (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -4881,7 +4886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), public (4), interface (2), extends (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (35), management (10), cloud (9), data (4), [[Hybrid Cloud]] (2)
 > **Env Vars:** api (2), arm (1), cli (1), rest (1)
 > **Tools:** azure portal (3), command line (1)
 > **Definitions:** is a  (2)
@@ -4964,10 +4969,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), data (20), cloud (9), [[Virtual Machines]] (5), [[Microsoft Azure]] (3)
 > **Env Vars:** mars (3), sql (3), mabs (2)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### The Azure Marketplace: Use partner services
@@ -5019,8 +5024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (3), [[MongoDB]] (3), [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4), apache (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** install (2)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
@@ -5127,7 +5132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while. (1), let (1), extends (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (33), cloud (4), [[Security]] (4), data (2), [[IoT]] (2)
 > **Env Vars:** iot (2), api (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), such as (1)
@@ -5139,7 +5144,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980)
@@ -5194,6 +5199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microsoft]] (4), cloud (3), next (2), [[Microsoft Azure]] (2)
 > **Documentation:** the documentation (3)
 > **Env Vars:** net (1), sql (1)
 > **Tools:** visual studio (1), github (1)

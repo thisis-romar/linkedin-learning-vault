@@ -30,7 +30,7 @@ tags:
   - skill/it-service-management
   - skill/customer-service-skills
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/IT%20Service%20Desk-%20Customer%20Service%20Fundamentals.md)
@@ -49,49 +49,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - How to get the most value out of this course
-  - What makes service desk customer service unique?
+  - [Welcome](#welcome)
+  - [How to get the most value out of this course](#how-to-get-the-most-value-out-of-this-course)
+  - [What makes service desk customer service unique?](#what-makes-service-desk-customer-service-unique)
 - [**1. Anatomy of a Contact**](#1-anatomy-of-a-contact) (7 videos)
-  - Contact greeting and validation
-  - Contact investigation and diagnosis: Close-ended questions
-  - Contact investigation and diagnosis: Open-ended questions
-  - Contact investigation and diagnosis: Probing questions
-  - Contact investigation and diagnosis: Confirming questions
-  - Contact resolution
-  - Contact closure
+  - [Contact greeting and validation](#contact-greeting-and-validation)
+  - [Contact investigation and diagnosis: Close-ended questions](#contact-investigation-and-diagnosis-close-ended-questions)
+  - [Contact investigation and diagnosis: Open-ended questions](#contact-investigation-and-diagnosis-open-ended-questions)
+  - [Contact investigation and diagnosis: Probing questions](#contact-investigation-and-diagnosis-probing-questions)
+  - [Contact investigation and diagnosis: Confirming questions](#contact-investigation-and-diagnosis-confirming-questions)
+  - [Contact resolution](#contact-resolution)
+  - [Contact closure](#contact-closure)
 - [**2. Customer Service Tasks**](#2-customer-service-tasks) (6 videos)
-  - Placing a contact on hold
-  - Hold: The DATE process
-  - When to use mute
-  - Escalation procedures: Why
-  - Escalation procedures: How
-  - Transfer procedures
+  - [Placing a contact on hold](#placing-a-contact-on-hold)
+  - [Hold: The DATE process](#hold-the-date-process)
+  - [When to use mute](#when-to-use-mute)
+  - [Escalation procedures: Why](#escalation-procedures-why)
+  - [Escalation procedures: How](#escalation-procedures-how)
+  - [Transfer procedures](#transfer-procedures)
 - [**3. Language and Professionalism**](#3-language-and-professionalism) (9 videos)
-  - The value of building rapport with customers
-  - Building rapport over the phone, part 1
-  - Building rapport over the phone, part 2
-  - Building rapport through writing: Style
-  - Building rapport through writing: Tone
-  - Building rapport through writing: Words
-  - Building rapport face-to-face
-  - Refining our message
-  - How to effectively manage conflict
+  - [The value of building rapport with customers](#the-value-of-building-rapport-with-customers)
+  - [Building rapport over the phone, part 1](#building-rapport-over-the-phone-part-1)
+  - [Building rapport over the phone, part 2](#building-rapport-over-the-phone-part-2)
+  - [Building rapport through writing: Style](#building-rapport-through-writing-style)
+  - [Building rapport through writing: Tone](#building-rapport-through-writing-tone)
+  - [Building rapport through writing: Words](#building-rapport-through-writing-words)
+  - [Building rapport face-to-face](#building-rapport-face-to-face)
+  - [Refining our message](#refining-our-message)
+  - [How to effectively manage conflict](#how-to-effectively-manage-conflict)
 - [**4. Common Help Desk Customer Service Situations**](#4-common-help-desk-customer-service-situations) (8 videos)
-  - Recovering unsatisfied customers
-  - Learning how to redirect customers
-  - How to say no without saying no
-  - How to say no: the steps
-  - Customer behavior profiles: Impassioned
-  - Customer behavior profiles: Combative
-  - Customer behavior profiles: Chatty
-  - Customer behavior profiles: Timid
+  - [Recovering unsatisfied customers](#recovering-unsatisfied-customers)
+  - [Learning how to redirect customers](#learning-how-to-redirect-customers)
+  - [How to say no without saying no](#how-to-say-no-without-saying-no)
+  - [How to say no: the steps](#how-to-say-no-the-steps)
+  - [Customer behavior profiles: Impassioned](#customer-behavior-profiles-impassioned)
+  - [Customer behavior profiles: Combative](#customer-behavior-profiles-combative)
+  - [Customer behavior profiles: Chatty](#customer-behavior-profiles-chatty)
+  - [Customer behavior profiles: Timid](#customer-behavior-profiles-timid)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980)
@@ -130,7 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Technical Support]] (2), [[Customer Service Skills]] (1), career (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
@@ -171,7 +171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class, (1), class. (1)
+> **Frameworks & Libraries:** [[Technical Support]] (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - so (1)
 
@@ -214,14 +214,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Technical Support]] (1), [[Customer Service Skills]] (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - technical (1)
 
 
 ### 1. Anatomy of a Contact
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Contact greeting and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-greeting-and-validation?u=76281980)
@@ -318,7 +318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), include, (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Microsoft Products|Products]] (1)
 > **Speakers:** - in (2), - we (1), - thank (1), - help (1)
 > **Analogies:** it's like (1), such as (1)
 > **CLI Commands:** make (1)
@@ -421,8 +421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Security]] (1)
 > **Speakers:** - now (1), - once (1), - i (1), - think (1)
-> **Code Keywords:** let (2), this: (1)
 > **UI Navigation:** open the (1), click on (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** we discussed (1)
@@ -476,7 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
 > **Speakers:** - now (1), - how (1), - when (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** the key is (1)
@@ -535,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** find (1)
 > **Definitions:** defined as (1)
@@ -590,8 +590,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Speakers:** - the (1), - can (1), - now (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** before we start (1)
 
@@ -680,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** next (2), [[Forms]] (1), web (1), [[Technical Support]] (1), [[Search]] (1)
 > **Speakers:** - now (1), - would (1), - there (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -747,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (2), management (1), teams (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
@@ -756,7 +756,7 @@ created: 2026-04-29
 
 ### 2. Customer Service Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Placing a contact on hold
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/placing-a-contact-on-hold?u=76281980)
@@ -815,8 +815,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Technical Support]] (1), next (1)
 > **Speakers:** - have (1), - okay (1), - in (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -927,8 +927,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), web (1)
 > **Speakers:** - hi (2), - every (1), - brian (1), - avoid (1), - i (1)
-> **Code Keywords:** let (3), this. (1), continue (1), for. (1), return, (1)
 > **Env Vars:** date (4)
 > **Definitions:** is a  (4)
 > **Best Practices:** best practice (2)
@@ -1037,7 +1037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), product (1)
 > **Speakers:** - brian (2), - mute (1), - using (1), - some (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2)
@@ -1100,9 +1100,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (1), next (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Env Vars:** vip (2)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - a (1)
 
@@ -1209,8 +1209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Troubleshooting]] (3), management (2), business (1)
 > **Speakers:** - so (2), - hi (2), - many (1), - tino (1), - now (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** select the (1)
@@ -1297,8 +1297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), management (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), continue (1), require (1)
 > **Speakers:** - there (1), - hi (1), - in (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
@@ -1306,7 +1306,7 @@ created: 2026-04-29
 
 ### 3. Language and Professionalism
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of building rapport with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980)
@@ -1397,9 +1397,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Technical Support]] (2), career (1), product (1), [[Building Trust]] (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - in (1)
 
@@ -1546,8 +1546,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Technical Support]] (3), [[Microsoft Word|Word]] (2), next (2), data (1), vpn (1)
 > **Speakers:** - well (3), - thank (2), - in (2), - thanks (2), - okay (2)
-> **Code Keywords:** let (6)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Env Vars:** vpn (1)
 > **Analogies:** such as (1)
@@ -1649,7 +1649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), continue (1)
+> **Frameworks & Libraries:** next (1), product (1), [[Relationship Building]] (1)
 > **Speakers:** - let (1), - i (1), - thanks (1), - it (1), - again (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** acl (1)
@@ -1766,7 +1766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** web (2), [[Microsoft Word|Word]] (2), next (2), [[Forms]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** good practice (2)
@@ -1837,7 +1837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** next (3), [[Technical Support]] (2), web (1)
 > **Env Vars:** cio (1), vip (1), sla (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1937,7 +1937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Security]] (1)
 > **UI Navigation:** click on (3), go to (1), open the (1)
 > **Best Practices:** you should never (1)
 > **Prerequisites:** you'll need (1)
@@ -2046,7 +2046,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Warnings:** be aware (3)
@@ -2115,7 +2114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), include, (1), function (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
@@ -2248,8 +2247,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [customer] (3), - now (2), - by (2), - have (1), - my (1)
-> **Code Keywords:** let (2), new. (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** common error (1)
@@ -2257,7 +2256,7 @@ created: 2026-04-29
 
 ### 4. Common Help Desk Customer Service Situations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recovering unsatisfied customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/recovering-unsatisfied-customers?u=76281980)
@@ -2360,8 +2359,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - hey (2), - [customer] (2), - providing (1), - yeah (1), - so (1)
-> **Code Keywords:** let (5), this, (1)
 > **Env Vars:** lead (5)
 > **CLI Commands:** find (1)
 > **Definitions:** defined as (1)
@@ -2511,8 +2510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Speakers:** - i (5), - well (2), - did (2), - so (2), - often (1)
-> **Code Keywords:** let (5), this, (1)
 > **Analogies:** it's like (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** p101 (1)
@@ -2595,8 +2594,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), next (1)
 > **Speakers:** - i (2), - one (1), - how (1), - we (1), - yes (1)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is a  (1)
 
 #### How to say no: the steps
@@ -2718,8 +2717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Security]] (2), [[Privacy]] (2), [[Microsoft Word|Word]] (1)
 > **Speakers:** - i (4), - this (2), - okay (2), - here (2), - let (1)
-> **Code Keywords:** let (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
@@ -2828,8 +2827,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), database (1)
 > **Speakers:** - okay (3), - so (2), - what (1), - my (1), - yes (1)
-> **Code Keywords:** let (7)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Best Practices:** don't forget (1)
@@ -2959,7 +2958,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - you (4), - yes (3), - thank (2), - well (2), - let (2)
-> **Code Keywords:** let (8), this. (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** the key is (1)
 
@@ -3116,8 +3114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (2), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [caller] (4), - our (1), - yes (1), - from (1), - the (1)
-> **Code Keywords:** let (4)
 > **Env Vars:** lms (4)
 > **Definitions:** is a  (1)
 
@@ -3240,16 +3238,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Search]] (1)
 > **Speakers:** - okay (5), - well (4), - the (3), - oh (3), - i (3)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** tms (2)
 > **Definitions:** is a  (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/next-steps?u=76281980)
@@ -3284,6 +3282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - we (1)
 

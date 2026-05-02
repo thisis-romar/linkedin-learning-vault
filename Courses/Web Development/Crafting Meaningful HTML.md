@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Crafting%20Meaningful%20HTML.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Craft meaningful HTML
-  - Working with CodePen
-  - Working with Visual Studio Code
+  - [Craft meaningful HTML](#craft-meaningful-html)
+  - [Working with CodePen](#working-with-codepen)
+  - [Working with Visual Studio Code](#working-with-visual-studio-code)
 - [**1. Convert Content to Semantic HTML Markup**](#1-convert-content-to-semantic-html-markup) (7 videos)
-  - Explore content and add it to CodePen
-  - Identify major elements of a page
-  - Identify headings and paragraphs
-  - Enhance an article with emphasis and links
-  - Ordered, unordered, and definition lists
-  - Challenge: First pass at article markup
-  - Solution: First pass at article markup
+  - [Explore content and add it to CodePen](#explore-content-and-add-it-to-codepen)
+  - [Identify major elements of a page](#identify-major-elements-of-a-page)
+  - [Identify headings and paragraphs](#identify-headings-and-paragraphs)
+  - [Enhance an article with emphasis and links](#enhance-an-article-with-emphasis-and-links)
+  - [Ordered, unordered, and definition lists](#ordered-unordered-and-definition-lists)
+  - [Challenge: First pass at article markup](#challenge-first-pass-at-article-markup)
+  - [Solution: First pass at article markup](#solution-first-pass-at-article-markup)
 - [**2. Build the Rest of the Webpage**](#2-build-the-rest-of-the-webpage) (9 videos)
-  - Move your code from CodePen to Visual Studio Code (VS Code)
-  - Understand the head code
-  - Add semantic navigation
-  - Add images, figures, and figure captions
-  - Add footers with address, time, and date
-  - Add quotes, line breaks, and citations
-  - When to use div and span elements
-  - Challenge: Identify semantic problems
-  - Solution: Identify semantic problems
+  - [Move your code from CodePen to Visual Studio Code (VS Code)](#move-your-code-from-codepen-to-visual-studio-code-vs-code)
+  - [Understand the head code](#understand-the-head-code)
+  - [Add semantic navigation](#add-semantic-navigation)
+  - [Add images, figures, and figure captions](#add-images-figures-and-figure-captions)
+  - [Add footers with address, time, and date](#add-footers-with-address-time-and-date)
+  - [Add quotes, line breaks, and citations](#add-quotes-line-breaks-and-citations)
+  - [When to use div and span elements](#when-to-use-div-and-span-elements)
+  - [Challenge: Identify semantic problems](#challenge-identify-semantic-problems)
+  - [Solution: Identify semantic problems](#solution-identify-semantic-problems)
 - [**3. Additional Important Semantic Elements**](#3-additional-important-semantic-elements) (5 videos)
-  - Controlling breaks with <wbr> or &shy;
-  - Displaying code with <code>, <samp>, and <kbd>
-  - Providing scripting alternatives with <noscript>
-  - Providing details with <details> and <summary>
-  - Understanding the misunderstood <hr>
+  - [Controlling breaks with <wbr> or &shy;](#controlling-breaks-with-wbr-or-shy)
+  - [Displaying code with <code>, <samp>, and <kbd>](#displaying-code-with-code-samp-and-kbd)
+  - [Providing scripting alternatives with <noscript>](#providing-scripting-alternatives-with-noscript)
+  - [Providing details with <details> and <summary>](#providing-details-with-details-and-summary)
+  - [Understanding the misunderstood <hr>](#understanding-the-misunderstood-hr)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Craft meaningful HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980)
@@ -100,8 +100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), ux (1), [[Representational State Transfer (REST)|Rest]] (1), [[User Experience (UX)|User experience]] (1), css (1)
 > **Env Vars:** html (5), css (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - semantic (1)
 
 #### Working with CodePen
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (4), product (1), [[HTML]] (1), css (1), [[JavaScript]] (1)
 > **Env Vars:** html (1), css (1), url (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -172,6 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (3), product (3), [[HTML]] (1), css (1), [[Microsoft]] (1)
 > **Tools:** vs code (4), visual studio (3)
 > **Env Vars:** html (1), css (1)
 > **Definitions:** is a  (2)
@@ -183,7 +185,7 @@ created: 2026-04-29
 
 ### 1. Convert Content to Semantic HTML Markup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore content and add it to CodePen
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980)
@@ -252,6 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (3), [[Microsoft Word|Word]] (2), web (1), [[HTML]] (1), [[Java]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** html (1), css (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -259,7 +262,6 @@ created: 2026-04-29
 > **URLs:** [codepen.io](https://codepen.io) (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - [instructor] (1)
 
 #### Identify major elements of a page
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/identify-major-elements-of-a-page?u=76281980)
@@ -350,8 +352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[CodePen]] (1), next (1)
 > **Definitions:** in other words (2), is an  (1), is a  (1)
-> **Code Keywords:** this, (2)
 > **Speakers:** - now (1)
 
 #### Identify headings and paragraphs
@@ -487,9 +489,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), next (1), [[HTML]] (1)
 > **CLI Commands:** make (12)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (2), this, (1), continue (1)
 > **Env Vars:** css (3), html (1)
 > **Speakers:** - [instructor] (1)
 
@@ -598,8 +600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), css (2), next (1), [[HTML]] (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (4), super (1), this, (1)
 > **Env Vars:** css (2), html (1), url (1)
 > **Definitions:** is a  (2), refers to (1)
 > **URLs:** [https://www.allrecipies.com/recipe/212896/caprece-appetizer](https://www.allrecipies.com/recipe/212896/caprece-appetizer) (1)
@@ -692,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), css (1), web (1), [[CodePen]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** stands for (1), in other words (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (1), html (1)
@@ -740,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[CodePen]] (1), web (1), next (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
@@ -837,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), else. (1), this, (1), else, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -846,7 +848,7 @@ created: 2026-04-29
 
 ### 2. Build the Rest of the Webpage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Move your code from CodePen to Visual Studio Code (VS Code)
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980)
@@ -921,9 +923,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), [[CodePen]] (4), next (4), hit (2)
 > **Env Vars:** html (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this. (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is an  (1), in other words (1)
@@ -1039,8 +1041,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (10), web (3), [[Microsoft]] (3), next (2), product (2)
 > **Env Vars:** html (10), html5 (1)
-> **Code Keywords:** this, (1), type. (1), for. (1), finally, (1), let (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (4)
 > **Tools:** vs code (2)
@@ -1141,9 +1143,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** this, (2), else, (1)
 > **File Paths:** navigation.txt (1)
 > **Tools:** vs code (1)
 > **UI Navigation:** go to (1)
@@ -1311,8 +1313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (1), [[HTML]] (1), css (1)
 > **Analogies:** picture (12), for example (1)
-> **Code Keywords:** this, (2), let (1), else. (1), default, (1), case, (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (1), toggle (1)
 > **Definitions:** is a  (2)
@@ -1501,8 +1503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Privacy]] (2), [[Microsoft Word|Word]] (2), [[HTML]] (2), css (1)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** let (2), this, (1), require (1), else. (1), include, (1)
 > **Env Vars:** html (2), css (1), mdn (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1637,7 +1639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (2), this, (2), case, (2), this. (2)
+> **Frameworks & Libraries:** next (1), [[CodePen]] (1), [[Microsoft Word]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2), just like (1)
 > **URLs:** [mit.edu](https://mit.edu) (2)
@@ -1739,9 +1741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), web (1), product (1), next (1)
 > **Warnings:** warning (9)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (2), case, (2), this. (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Analogies:** for example (3)
 > **Non-Speech:** (keyboard clicking) (3)
@@ -1776,7 +1778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2)
+> **Frameworks & Libraries:** [[HTML]] (4), web (2), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1914,8 +1916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), next (5), [[HTML]] (3), css (3), feature (1)
 > **Env Vars:** html (3), css (3), abbr (1), evoo (1), java (1)
-> **Code Keywords:** let (1), for. (1), this. (1), this, (1)
 > **Definitions:** stands for (1), is a  (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Tools:** firefox (2)
@@ -1926,7 +1928,7 @@ created: 2026-04-29
 
 ### 3. Additional Important Semantic Elements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Controlling breaks with <wbr> or &shy;
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980)
@@ -2011,11 +2013,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (16), next (4), rag (3), [[HTML]] (1), web (1)
 > **Env Vars:** wbr (6), html (1)
 > **Analogies:** just like (3), for example (2)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** break, (2), this. (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2144,8 +2146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[LinkedIn]] (3), [[JavaScript]] (2), hit (2), css (1)
 > **Env Vars:** kbd (5), html (3), ascii (2), css (1)
-> **Code Keywords:** let (4), default, (2), return, (1), this, (1), finally, (1)
 > **Analogies:** for example (2), just like (2), kind of like (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
@@ -2246,7 +2248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (15), [[CodePen]] (2), hit (2), [[HTML]] (2)
 > **Env Vars:** html (2)
 > **Cross-References:** coming up (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -2330,7 +2332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft Word|Word]] (2), next (1), [[JavaScript]] (1)
 > **UI Navigation:** click on (4)
 > **Env Vars:** html (3)
 > **Definitions:** in other words (1)
@@ -2416,7 +2418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1)
+> **Frameworks & Libraries:** hr (10), css (3), [[Web Development]] (1), generic (1)
 > **Definitions:** in other words (2), is a  (2), stands for (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** css (3)
@@ -2428,7 +2430,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/next-steps?u=76281980)
@@ -2457,6 +2459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), data (1), css (1)
 > **Env Vars:** html (3), css (1)
 > **Speakers:** - hi (1)
 

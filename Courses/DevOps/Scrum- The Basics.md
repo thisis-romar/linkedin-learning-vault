@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Scrum-%20The%20Basics.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Practicing scrum in your work environment
+  - [Practicing scrum in your work environment](#practicing-scrum-in-your-work-environment)
 - [**1. Problems to Solve**](#1-problems-to-solve) (3 videos)
-  - The scrum approach to project success
-  - The agile revolution
-  - Scrum: The leading project methodology
+  - [The scrum approach to project success](#the-scrum-approach-to-project-success)
+  - [The agile revolution](#the-agile-revolution)
+  - [Scrum: The leading project methodology](#scrum-the-leading-project-methodology)
 - [**2. The Heart of the Framework**](#2-the-heart-of-the-framework) (3 videos)
-  - Solve project problems with scrum
-  - Essential roles for scrum teams
-  - Establish your scrum team
+  - [Solve project problems with scrum](#solve-project-problems-with-scrum)
+  - [Essential roles for scrum teams](#essential-roles-for-scrum-teams)
+  - [Establish your scrum team](#establish-your-scrum-team)
 - [**3. Getting Ready to Work**](#3-getting-ready-to-work) (5 videos)
-  - Set the vision for your project
-  - Write user stories
-  - Set boundaries for success
-  - Story points and estimation in scrum
-  - Create a roadmap and release plan
+  - [Set the vision for your project](#set-the-vision-for-your-project)
+  - [Write user stories](#write-user-stories)
+  - [Set boundaries for success](#set-boundaries-for-success)
+  - [Story points and estimation in scrum](#story-points-and-estimation-in-scrum)
+  - [Create a roadmap and release plan](#create-a-roadmap-and-release-plan)
 - [**4. Getting Down to Work**](#4-getting-down-to-work) (4 videos)
-  - Sprint planning in scrum
-  - Track your scrum progress
-  - The daily scrum or standup meeting
-  - Backlog refinement in scrum
+  - [Sprint planning in scrum](#sprint-planning-in-scrum)
+  - [Track your scrum progress](#track-your-scrum-progress)
+  - [The daily scrum or standup meeting](#the-daily-scrum-or-standup-meeting)
+  - [Backlog refinement in scrum](#backlog-refinement-in-scrum)
 - [**5. Wrapping Up a Sprint**](#5-wrapping-up-a-sprint) (3 videos)
-  - Get stories done in scrum
-  - Demo the team's work
-  - Assess the team
+  - [Get stories done in scrum](#get-stories-done-in-scrum)
+  - [Demo the team's work](#demo-the-teams-work)
+  - [Assess the team](#assess-the-team)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Deliver successful projects using scrum
+  - [Deliver successful projects using scrum](#deliver-successful-projects-using-scrum)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practicing scrum in your work environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment?u=76281980)
@@ -107,14 +107,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Scrum]] (7), [[Agile Development|Agile]] (2), management (2), business (1), career (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - agile (1)
 
 
 ### 1. Problems to Solve
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The scrum approach to project success
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980)
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (1)
+> **Frameworks & Libraries:** [[Scrum]] (5), [[Microsoft Word|Word]] (3), game (3), management (2), [[Agile Development|Agile]] (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 > **Analogies:** it's like (1)
@@ -240,7 +240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1), self (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Software Development]] (5), next (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - being (1)
@@ -304,14 +304,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Scrum]] (5), product (3), [[Agile Development|Agile]] (2), [[Microsoft Word|Word]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - scrum (1)
 
 
 ### 2. The Heart of the Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solve project problems with scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980)
@@ -392,9 +392,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (12), business (6), teams (5), [[Agile Development|Agile]] (5), product (3)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - traditionally (1)
 
@@ -483,7 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), function (1)
+> **Frameworks & Libraries:** [[Scrum]] (17), product (5), business (3), teams (2), [[Sustainability]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - scrum (1)
@@ -573,16 +573,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (3), database (2), teams (1), [[Java]] (1), [[Security]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (2), you'll need (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - once (1)
 
 
 ### 3. Getting Ready to Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set the vision for your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/set-the-vision-for-your-project-2?u=76281980)
@@ -665,6 +665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Security]] (2), [[Scrum]] (1), functional (1), next (1)
 > **Env Vars:** mvp (5)
 > **Speakers:** - i (1)
 
@@ -767,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), next (2), functional (2), database (1), [[Scrum]] (1)
 > **Definitions:** is a  (1), means that (1), known as (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** invest (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - we (1)
@@ -838,8 +839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (3), next (2), product (2), teams (2)
 > **Definitions:** is a  (1), known as (1), means that (1)
-> **Code Keywords:** finally, (1), case, (1)
 > **Speakers:** - your (1)
 
 #### Story points and estimation in scrum
@@ -891,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (1), product (1), teams (1)
 > **Speakers:** - there (1)
 
 #### Create a roadmap and release plan
@@ -973,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this: (1), this, (1), while, (1), this. (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), next (2), business (1), functional (1)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -983,7 +984,7 @@ created: 2026-04-29
 
 ### 4. Getting Down to Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sprint planning in scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/sprint-planning-in-scrum-2?u=76281980)
@@ -1050,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), product (1), database (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
@@ -1121,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** teams (3), [[Scrum]] (1), [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - if (1)
 
@@ -1212,7 +1213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Scrum]] (16), teams (4), next (1)
 > **Speakers:** - the (1)
 
 #### Backlog refinement in scrum
@@ -1278,6 +1279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Scrum]] (2), product (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - in (1)
@@ -1285,7 +1287,7 @@ created: 2026-04-29
 
 ### 5. Wrapping Up a Sprint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get stories done in scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980)
@@ -1336,8 +1338,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Scrum]] (2), business (1), [[Microsoft Word|Word]] (1), teams (1)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
 
@@ -1424,8 +1426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Scrum]] (4), teams (1), [[Relationship Building]] (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
@@ -1510,6 +1512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (7), product (3), next (3), teams (2), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1519,7 +1522,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deliver successful projects using scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980)
@@ -1542,6 +1545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (5), [[Agile Development|Agile]] (2), teams (1), management (1), product (1)
 > **Speakers:** - in (1)
 
 

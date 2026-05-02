@@ -41,7 +41,7 @@ tags:
   - skill/javascript
   - skill/ecmascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Functional%20Programming%20with%20JavaScript%20ES6%2B.md)
@@ -60,53 +60,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Functional programming will change the way you think about code
-  - What you should know
-  - Basic setup
+  - [Functional programming will change the way you think about code](#functional-programming-will-change-the-way-you-think-about-code)
+  - [What you should know](#what-you-should-know)
+  - [Basic setup](#basic-setup)
 - [**1. Introductory Functional Concepts**](#1-introductory-functional-concepts) (9 videos)
-  - The goal of functional programming
-  - Declarative vs. imperative programming
-  - Immutability
-  - Separation of data and functions
-  - Converting object-oriented to functional code
-  - First-class functions
-  - Ensuring immutability with ESLint
-  - Installing and setting up ESLint
-  - Ensuring immutability: Finalize ESLint
+  - [The goal of functional programming](#the-goal-of-functional-programming)
+  - [Declarative vs. imperative programming](#declarative-vs-imperative-programming)
+  - [Immutability](#immutability)
+  - [Separation of data and functions](#separation-of-data-and-functions)
+  - [Converting object-oriented to functional code](#converting-object-oriented-to-functional-code)
+  - [First-class functions](#first-class-functions)
+  - [Ensuring immutability with ESLint](#ensuring-immutability-with-eslint)
+  - [Installing and setting up ESLint](#installing-and-setting-up-eslint)
+  - [Ensuring immutability: Finalize ESLint](#ensuring-immutability-finalize-eslint)
 - [**2. First-Class Functions**](#2-first-class-functions) (9 videos)
-  - JavaScript arrow function syntax
-  - Using functions as data
-  - Creating arrays of functions
-  - Passing functions as arguments
-  - Returning functions
-  - Understanding closure
-  - Higher-order functions
-  - Tour of CoderPad
-  - Solution: More higher-order functions
+  - [JavaScript arrow function syntax](#javascript-arrow-function-syntax)
+  - [Using functions as data](#using-functions-as-data)
+  - [Creating arrays of functions](#creating-arrays-of-functions)
+  - [Passing functions as arguments](#passing-functions-as-arguments)
+  - [Returning functions](#returning-functions)
+  - [Understanding closure](#understanding-closure)
+  - [Higher-order functions](#higher-order-functions)
+  - [Tour of CoderPad](#tour-of-coderpad)
+  - [Solution: More higher-order functions](#solution-more-higher-order-functions)
 - [**3. JavaScript Array Manipulation**](#3-javascript-array-manipulation) (10 videos)
-  - Basics of functional data manipulation
-  - The spread operator
-  - Using the map() function
-  - Using the filter() function
-  - Using the every() and some() functions
-  - Preventing mutation with the slice() function
-  - Using the sort() function
-  - Using the reduce() function
-  - Combining array functions
-  - Solution: Recreating the map() function
+  - [Basics of functional data manipulation](#basics-of-functional-data-manipulation)
+  - [The spread operator](#the-spread-operator)
+  - [Using the map() function](#using-the-map-function)
+  - [Using the filter() function](#using-the-filter-function)
+  - [Using the every() and some() functions](#using-the-every-and-some-functions)
+  - [Preventing mutation with the slice() function](#preventing-mutation-with-the-slice-function)
+  - [Using the sort() function](#using-the-sort-function)
+  - [Using the reduce() function](#using-the-reduce-function)
+  - [Combining array functions](#combining-array-functions)
+  - [Solution: Recreating the map() function](#solution-recreating-the-map-function)
 - [**4. Advanced Functional Concepts**](#4-advanced-functional-concepts) (3 videos)
-  - Currying and partial application
-  - Recursion
-  - Memoization
+  - [Currying and partial application](#currying-and-partial-application)
+  - [Recursion](#recursion)
+  - [Memoization](#memoization)
 - [**5. Code Conversion Challenges**](#5-code-conversion-challenges) (2 videos)
-  - Solution: Count occurrences
-  - Solution: Anagrams
+  - [Solution: Count occurrences](#solution-count-occurrences)
+  - [Solution: Anagrams](#solution-anagrams)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in your ES6+ journey
+  - [Next steps in your ES6+ journey](#next-steps-in-your-es6-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional programming will change the way you think about code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980)
@@ -123,7 +123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (3), [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Speakers:** - writing (1)
 
 #### What you should know
@@ -161,9 +161,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[JavaScript]] (1), cd (1), [[Linux]] (1)
 > **CLI Commands:** mkdir (1), make (1), cd (1), ls (1)
 > **Env Vars:** es6 (3)
-> **Code Keywords:** finally, (1)
 > **Tools:** command line (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -219,9 +219,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), [[Codespaces]] (4), [[npm]] (2), node (1)
 > **CLI Commands:** node (5), make (2), npm (2)
 > **File Paths:** node.js (4)
-> **Code Keywords:** this, (1), let (1)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Env Vars:** lts (1)
 > **Versions:** 20.18.0 (1)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 ### 1. Introductory Functional Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The goal of functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980)
@@ -284,7 +284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), self (1), this, (1), public (1), private (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (10), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (6), [[Programming]] (3), [[Java]] (1), next (1)
 > **Analogies:** such as (4), imagine (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
@@ -342,7 +342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), finally, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (7), [[Programming]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -447,7 +447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), var (2), this. (2), else. (1), raise (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (8), data (7), [[JavaScript]] (2), [[Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), means that (1), we call this (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (1), imagine (1)
@@ -497,8 +497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Functional Programming]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), game (2), [[Security]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (2), function (2), case, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -556,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), let (3)
+> **Frameworks & Libraries:** data (16), [[Functional Programming]] (6), [[JavaScript]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3)
 > **Analogies:** such as (3), imagine (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -624,7 +624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this. (2), let (1), class, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (6), data (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), power (1), [[Software Design]] (1)
 > **Definitions:** in other words (3), is a  (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Analogies:** for example (1), such as (1)
@@ -686,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (4), this, (4), this. (2), private (1), throw (1)
+> **Frameworks & Libraries:** [[ESLint]] (6), [[JavaScript]] (5), data (3), [[Functional Programming]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** means that (1), is a  (1), is called (1)
 > **CLI Commands:** make (2)
@@ -724,6 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (6), [[npm]] (3)
 > **CLI Commands:** npm (3), npx (1), make (1)
 > **Tools:** terminal (3), vs code (1)
 > **Exercise Files:** exercise files (2)
@@ -793,7 +794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), delete (2), this, (1), let (1), const (1)
+> **Frameworks & Libraries:** [[ESLint]] (6), hit (2), data (2), next (1), [[npm]] (1)
 > **CLI Commands:** npm (1), find (1), npx (1)
 > **Prerequisites:** install (2), set up (1)
 > **Tools:** terminal (2)
@@ -805,7 +806,7 @@ created: 2026-04-29
 
 ### 2. First-Class Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript arrow function syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980)
@@ -954,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (35), const (7), let (5), this. (4), this, (3)
+> **Frameworks & Libraries:** [[JavaScript]] (13), [[Functional Programming]] (4), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** myfunction (3), myfunction2 (1), twoplusthree (1), createpersondata (1)
 > **Definitions:** is a  (4), defined as (1)
 > **Warnings:** keep in mind (3)
@@ -1134,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (27), const (11), let (9), this. (3), fn (3)
+> **Frameworks & Libraries:** data (11), [[Functional Programming]] (5), [[Fetch]] (3), next (2), [[JavaScript]] (1)
 > **Code Identifiers:** sayhello (8), fetchdata (5), sayhello2 (4), shouldadd (3), fetchdatareal (2)
 > **Analogies:** just like (4), for example (2), such as (1)
 > **CLI Commands:** make (2), node (1)
@@ -1282,7 +1283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (11), const (8), fn (3), class. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), node (1), data (1)
 > **Analogies:** just like (4), for example (1)
 > **File Paths:** functions.js (2)
 > **CLI Commands:** node (1), make (1)
@@ -1443,7 +1444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (26), pass (14), let (11), case, (2), this, (2)
+> **Frameworks & Libraries:** data (9), next (2), node (2), [[JavaScript]] (1)
 > **Code Identifiers:** combinenames (6), touppercase (2), govtform (1)
 > **CLI Commands:** node (2), make (2)
 > **Analogies:** such as (2), for example (1), just like (1)
@@ -1606,7 +1607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (47), const (8), let (8), pass (1), delete (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (3), generic (2), data (1), next (1), node (1)
 > **Code Identifiers:** createprinter (10), createmultiplier (8)
 > **CLI Commands:** find (5), node (1), make (1)
 > **Definitions:** is a  (3), in other words (2), means that (1), is an  (1)
@@ -1772,7 +1773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (15), const (3), private (2), from. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Functional Programming]] (4), node (1), [[React.js|React]] (1), next (1)
 > **Code Identifiers:** createprinter (2), personage (2), getname (1), getage (1), incrementage (1)
 > **CLI Commands:** make (2), node (1)
 > **File Paths:** closure.js (1), examples/closure.js (1)
@@ -1929,7 +1930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (31), let (6), pass (6), this. (2), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), data (1), node (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** dividesafe (6), secondargzerocheck (4)
 > **File Paths:** higher-order.js (1), examples/higher-order.js (1)
 > **CLI Commands:** make (1), node (1)
@@ -1970,7 +1971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[JavaScript]] (1), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2016,7 +2017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), try. (2), let (2), case, (1), pass (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -2025,7 +2026,7 @@ created: 2026-04-29
 
 ### 3. JavaScript Array Manipulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of functional data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980)
@@ -2082,7 +2083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), for. (1)
+> **Frameworks & Libraries:** data (4), functional (4), power (1), next (1), [[Functional Programming]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** in other words (2)
 > **Analogies:** for example (1)
@@ -2227,7 +2228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), const (5), this. (4), pass (4), function (3)
+> **Frameworks & Libraries:** career (10), data (6), functional (3), [[JavaScript]] (3), [[Data Manipulation]] (1)
 > **Code Identifiers:** personwithcareerdata (7), haircolor (2), careerdata (1), updatednumbers (1)
 > **Analogies:** just like (2), imagine (1), for example (1)
 > **Definitions:** is a  (1), is called (1), in other words (1)
@@ -2353,7 +2354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (9), const (6), pass (2), for. (1)
+> **Frameworks & Libraries:** data (1), functional (1), [[Programming]] (1), node (1)
 > **Code Identifiers:** doublednumbers (8), newnumber (2)
 > **Analogies:** for example (1), imagine (1), kind of like (1)
 > **File Paths:** map.js (1), examples/map.js (1)
@@ -2453,7 +2454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (6), case, (3), const (3), pass (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), next (1), functional (1), node (1)
 > **Analogies:** for example (3), just like (2)
 > **Code Identifiers:** iseven (4)
 > **CLI Commands:** make (1), node (1)
@@ -2629,7 +2630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (9), case, (6), pass (2), this. (2)
+> **Frameworks & Libraries:** next (1), data (1), node (1), application (1), [[JavaScript]] (1)
 > **Code Identifiers:** isodd (7)
 > **Analogies:** for example (3), similar to (2)
 > **CLI Commands:** make (2), find (1), node (1)
@@ -2792,7 +2793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (11), case, (2), const (2), this, (1)
+> **Frameworks & Libraries:** data (3), [[JavaScript]] (3), next (2), functional (1), [[Data Manipulation]] (1)
 > **Analogies:** for example (3), such as (1)
 > **File Paths:** slice.js (1), nodeexamples/map.js (1), examples/slice.js (1)
 > **Definitions:** in other words (3)
@@ -2922,7 +2923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (8), this. (2), pass (2), const (1)
+> **Frameworks & Libraries:** functional (1), node (1), [[JavaScript]] (1)
 > **Code Identifiers:** numericaldescending (6), numericalascending (4), sortednumbers (1)
 > **CLI Commands:** make (4), node (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -3069,7 +3070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (5), this. (2), pass (2), for. (1)
+> **Frameworks & Libraries:** next (7), product (4), data (1), power (1), node (1)
 > **Definitions:** is called (4), in other words (2), is a  (1)
 > **CLI Commands:** make (2), node (1)
 > **File Paths:** reduce.js (1), example/reduce.js (1)
@@ -3197,7 +3198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), const (3), function (2), return, (1), finally, (1)
+> **Frameworks & Libraries:** data (2), functional (1), next (1), career (1), node (1)
 > **CLI Commands:** find (3), make (2), node (1)
 > **Definitions:** is an  (1), in other words (1)
 > **File Paths:** combining.js (1)
@@ -3281,7 +3282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), fn (3), try. (1), let (1), case, (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** mapr (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is an  (1)
@@ -3291,7 +3292,7 @@ created: 2026-04-29
 
 ### 4. Advanced Functional Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Currying and partial application
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980)
@@ -3516,7 +3517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (28), let (12), const (3), pass (2), this. (2)
+> **Frameworks & Libraries:** application (13), next (1), [[Data Manipulation]] (1), functional (1), node (1)
 > **Code Identifiers:** displayname (7), defaultvalue (6), addpartial (5), getpropertywithdefault (4), getname (4)
 > **CLI Commands:** make (7), node (1)
 > **Analogies:** imagine (4), for example (3)
@@ -3636,7 +3637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), this. (2), pass (1), else, (1)
+> **Frameworks & Libraries:** application (3), next (2), node (2), [[Functional Programming]] (1)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -3758,7 +3759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (3), this, (2), this. (2), const (2)
+> **Frameworks & Libraries:** [[Functional Programming]] (2), functional (1), application (1), node (1)
 > **Definitions:** in other words (3), is called (2), is a  (1)
 > **File Paths:** memoization.js (3), examples/recursion.js (1)
 > **CLI Commands:** find (1), make (1), node (1)
@@ -3768,7 +3769,7 @@ created: 2026-04-29
 
 ### 5. Code Conversion Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Count occurrences
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-count-occurrences?u=76281980)
@@ -3779,7 +3780,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your ES6+ journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980)
@@ -3804,7 +3805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[LinkedIn]] (2), [[Functional Programming]] (1), [[Software Development]] (1)
 > **Speakers:** - well (1)
 
 

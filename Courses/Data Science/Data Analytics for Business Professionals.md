@@ -44,7 +44,7 @@ tags:
   - skill/business-analytics
   - skill/data-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analytics%20for%20Business%20Professionals.md)
@@ -63,62 +63,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Making data more useful
-  - What you should know
+  - [Making data more useful](#making-data-more-useful)
+  - [What you should know](#what-you-should-know)
 - [**1. Data Analytics in the Business World**](#1-data-analytics-in-the-business-world) (8 videos)
-  - Business leaders and data analytics
-  - Why learn data analytics in an AI world?
-  - Introduction to Red30 Tech
-  - Types of data
-  - Case study 1: Performance at a Miami location
-  - Case study 1: Explanation
-  - Challenge: Calculate descriptives
-  - Solution: Calculate descriptives
+  - [Business leaders and data analytics](#business-leaders-and-data-analytics)
+  - [Why learn data analytics in an AI world?](#why-learn-data-analytics-in-an-ai-world)
+  - [Introduction to Red30 Tech](#introduction-to-red30-tech)
+  - [Types of data](#types-of-data)
+  - [Case study 1: Performance at a Miami location](#case-study-1-performance-at-a-miami-location)
+  - [Case study 1: Explanation](#case-study-1-explanation)
+  - [Challenge: Calculate descriptives](#challenge-calculate-descriptives)
+  - [Solution: Calculate descriptives](#solution-calculate-descriptives)
 - [**2. Predictive and Prescriptive Analytics**](#2-predictive-and-prescriptive-analytics) (4 videos)
-  - Predictive analytics
-  - Challenge: Make predictions
-  - Solution: Make predictions
-  - Prescriptive analytics
+  - [Predictive analytics](#predictive-analytics)
+  - [Challenge: Make predictions](#challenge-make-predictions)
+  - [Solution: Make predictions](#solution-make-predictions)
+  - [Prescriptive analytics](#prescriptive-analytics)
 - [**3. Asking the Right Questions**](#3-asking-the-right-questions) (4 videos)
-  - Guidelines for formulating questions
-  - Crafting better questions
-  - Case study 2: What is the right question?
-  - Role of business acumen
+  - [Guidelines for formulating questions](#guidelines-for-formulating-questions)
+  - [Crafting better questions](#crafting-better-questions)
+  - [Case study 2: What is the right question?](#case-study-2-what-is-the-right-question)
+  - [Role of business acumen](#role-of-business-acumen)
 - [**4. Unlocking the Data Within**](#4-unlocking-the-data-within) (4 videos)
-  - Data-collection issues
-  - Case study 3: Unclean data
-  - Case study 3: Explanation
-  - Data failure: When data is just wrong
+  - [Data-collection issues](#data-collection-issues)
+  - [Case study 3: Unclean data](#case-study-3-unclean-data)
+  - [Case study 3: Explanation](#case-study-3-explanation)
+  - [Data failure: When data is just wrong](#data-failure-when-data-is-just-wrong)
 - [**5. Understanding Averages**](#5-understanding-averages) (4 videos)
-  - Nature of averages
-  - Case study 4: Conversion rates and benchmark
-  - Case study 4: Explanation
-  - Context is everything
+  - [Nature of averages](#nature-of-averages)
+  - [Case study 4: Conversion rates and benchmark](#case-study-4-conversion-rates-and-benchmark)
+  - [Case study 4: Explanation](#case-study-4-explanation)
+  - [Context is everything](#context-is-everything)
 - [**6. Sampling**](#6-sampling) (4 videos)
-  - Pros and cons
-  - Case study 5: Social media survey
-  - Case study 5: Explanation
-  - Case study 5: Statistical deep dive
+  - [Pros and cons](#pros-and-cons)
+  - [Case study 5: Social media survey](#case-study-5-social-media-survey)
+  - [Case study 5: Explanation](#case-study-5-explanation)
+  - [Case study 5: Statistical deep dive](#case-study-5-statistical-deep-dive)
 - [**7. What Is Cherry Picking?**](#7-what-is-cherry-picking) (3 videos)
-  - What is cherry picking?
-  - Case study 6: Revenue
-  - Case study 6: Explanation
+  - [What is cherry picking?](#what-is-cherry-picking)
+  - [Case study 6: Revenue](#case-study-6-revenue)
+  - [Case study 6: Explanation](#case-study-6-explanation)
 - [**8. Forecasting**](#8-forecasting) (4 videos)
-  - Hurricane Matthew
-  - Case study 7: Forecasting customer complaints
-  - Case study 7: Explanation
-  - Issues to consider
+  - [Hurricane Matthew](#hurricane-matthew)
+  - [Case study 7: Forecasting customer complaints](#case-study-7-forecasting-customer-complaints)
+  - [Case study 7: Explanation](#case-study-7-explanation)
+  - [Issues to consider](#issues-to-consider)
 - [**9. Correlation versus Causation**](#9-correlation-versus-causation) (4 videos)
-  - Cause and effect
-  - Case study 8: Boston revenue
-  - Case study 8: Explanation
-  - Causal questions
+  - [Cause and effect](#cause-and-effect)
+  - [Case study 8: Boston revenue](#case-study-8-boston-revenue)
+  - [Case study 8: Explanation](#case-study-8-explanation)
+  - [Causal questions](#causal-questions)
 - [**10. Continuing Your Learning Journey in Data Analytics**](#10-continuing-your-learning-journey-in-data-analytics) (1 videos)
-  - Continuing your learning journey in data analytics
+  - [Continuing your learning journey in data analytics](#continuing-your-learning-journey-in-data-analytics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making data more useful
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980)
@@ -147,8 +147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - according (1)
 
@@ -175,12 +175,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (4), [[Statistics]] (2), [[Analytics]] (1), [[Microsoft Excel]] (1)
 > **Speakers:** - data (1)
 
 
 ### 1. Data Analytics in the Business World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business leaders and data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980)
@@ -225,6 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), ai (7), [[Analytics]] (4), business (2), power (1)
 > **Env Vars:** stem (2)
 > **Versions:** 10.4 (1), 3.6 (1)
 > **CLI Commands:** brew (1)
@@ -278,8 +280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (11), data (9), ai (7), business (2), [[Statistical Analysis]] (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** let (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - ai (1)
 
@@ -310,9 +312,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (2), [[Statistics]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - in (1), - [julie] (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** before we start (1)
 
@@ -349,8 +351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Statistics]] (1)
 > **Analogies:** for example (5), such as (1)
-> **Code Keywords:** let (2), self (1)
 > **Env Vars:** gdp (1)
 > **Speakers:** - now (1)
 
@@ -373,7 +375,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
 > **Speakers:** - [ajay] (1)
 
 #### Case study 1: Explanation
@@ -483,8 +484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Statistics]] (5), hr (2), [[Search]] (1)
 > **Definitions:** is a  (4), is an  (2), known as (2), is called (1)
-> **Code Keywords:** let (3), case, (2), require (1)
 > **Analogies:** for example (3), picture (1)
 > **Versions:** 6.6 (2), 7.5 (1)
 > **Exercise Files:** exercise file (1)
@@ -505,6 +506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (1), data (1), [[Microsoft Excel|Excel]] (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -599,8 +601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (6), hit (4), [[Statistics]] (3), next (1)
 > **Env Vars:** b24 (2), c20 (2), b25 (2), mode (2), average (1)
-> **Code Keywords:** let (1), delete (1), function (1), this. (1)
 > **UI Navigation:** open the (3)
 > **Versions:** 13.78 (1), 13.75 (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -610,7 +612,7 @@ created: 2026-04-29
 
 ### 2. Predictive and Prescriptive Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980)
@@ -665,9 +667,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Predictive Analytics]] (3), [[Statistics]] (2), feature (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Best Practices:** recommended (2)
-> **Code Keywords:** let (1)
 > **Versions:** 99.7 (1)
 > **Speakers:** - predictive (1)
 
@@ -690,6 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** you'll need (1)
@@ -743,9 +746,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), hit (1)
 > **Env Vars:** b24 (3), b25 (3), c20 (2), b26 (1)
 > **Versions:** 19.34 (2), 8.23 (2), 13.78 (1), 5.55 (1)
-> **Code Keywords:** function (3), this, (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - for (1)
@@ -790,14 +793,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (7), [[Analytics]] (6), [[Microsoft Products|Products]] (2), business (1), product (1)
 > **Env Vars:** red30 (1)
 > **Speakers:** - let (1)
 
 
 ### 3. Asking the Right Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Guidelines for formulating questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/guidelines-for-formulating-questions?u=76281980)
@@ -870,8 +873,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), business (1), [[Analytics]] (1), [[Big Data]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** case, (1), require (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
@@ -905,6 +908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
@@ -965,8 +969,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2)
 > **Speakers:** - [andreas] (4), - [katie] (4), - andreas (2), - let (1), - although (1)
-> **Code Keywords:** let (4)
 > **Analogies:** imagine (1), for example (1)
 
 #### Role of business acumen
@@ -1010,8 +1014,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (7), [[Analytics]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** raise (1)
 > **Definitions:** is an  (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - business (1)
@@ -1019,7 +1023,7 @@ created: 2026-04-29
 
 ### 4. Unlocking the Data Within
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data-collection issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980)
@@ -1078,8 +1082,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), business (2), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (1), this, (1)
 > **Cross-References:** in the last (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - which (1)
@@ -1105,6 +1109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **URLs:** [stylishclothing.com](https://stylishclothing.com) (1), [clothing.com](https://clothing.com) (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [nasir] (1)
@@ -1170,11 +1175,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Databases]] (3), database (1), [[Search]] (1), [[Analytics]] (1)
 > **URLs:** [stylishclothing.com](https://stylishclothing.com) (5)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** require (1)
 > **Exercise Files:** exercise file (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - this (1)
@@ -1266,9 +1271,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), ai (5), [[Google]] (3), database (2), [[Microsoft Excel|Excel]] (2)
 > **Analogies:** imagine (2), for example (2), analogous to (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** for. (1), yield (1)
 > **Env Vars:** sap (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
@@ -1277,7 +1282,7 @@ created: 2026-04-29
 
 ### 5. Understanding Averages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Nature of averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/nature-of-averages?u=76281980)
@@ -1294,8 +1299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (3), data (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - descriptive (1)
 
 #### Case study 4: Conversion rates and benchmark
@@ -1319,6 +1324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), management (1), data (1)
 > **Env Vars:** red30 (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [sharon] (1)
@@ -1382,10 +1388,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Statistics]] (1)
 > **Versions:** 17.6 (1), 14.1 (1), 35.9 (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case, (1)
 > **Exercise Files:** exercise file (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** note that (1)
@@ -1422,13 +1428,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (4), data (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - having (1)
 
 
 ### 6. Sampling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pros and cons
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/pros-and-cons?u=76281980)
@@ -1487,8 +1494,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (1), [[Probability]] (1)
 > **Versions:** 57.1 (1), 42.9 (1), 60.8 (1), 36.5 (1)
-> **Code Keywords:** let (2), for. (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -1513,7 +1520,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
 > **Speakers:** - [dean] (1)
 
 #### Case study 5: Explanation
@@ -1601,6 +1607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **Ports:** :00 (4)
 > **Env Vars:** cmo (1)
 > **Exercise Files:** exercise file (1)
@@ -1611,7 +1618,7 @@ created: 2026-04-29
 
 ### 7. What Is Cherry Picking?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cherry picking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980)
@@ -1674,7 +1681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), case, (1), let (1), for, (1)
+> **Frameworks & Libraries:** data (10), product (1), [[Microsoft Products|Products]] (1), [[Statistics]] (1), next (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sec (1)
@@ -1711,6 +1718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - one (1), - [keira] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1778,6 +1786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Statistics]] (3), business (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), such as (1)
 > **CLI Commands:** find (1)
@@ -1788,7 +1797,7 @@ created: 2026-04-29
 
 ### 8. Forecasting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hurricane Matthew
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980)
@@ -1853,8 +1862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (3), hit (3), [[Predictive Analytics]] (1), [[Probability]] (1), business (1)
 > **Definitions:** in other words (2), is called (1), is a  (1), is an  (1)
-> **Code Keywords:** public (1), case, (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
@@ -1893,7 +1902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** [[Analytics]] (1), next (1)
 > **Speakers:** - [darnell] (1), - we (1)
 > **Env Vars:** cto (1)
 > **Cross-References:** next video (1)
@@ -1955,7 +1964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Forecasting]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -1986,16 +1995,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - we (1)
 
 
 ### 9. Correlation versus Causation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cause and effect
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/cause-and-effect?u=76281980)
@@ -2040,6 +2049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -2070,8 +2080,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (1)
 > **Speakers:** - let (1), - [james] (1), - [instructor] (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -2139,8 +2149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - if (1), - [james] (1), - [instructor] (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
@@ -2161,13 +2171,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Analytics]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
 
 ### 10. Continuing Your Learning Journey in Data Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your learning journey in data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/continuing-your-data-analytics-learning-journey?u=76281980)
@@ -2190,8 +2201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (3), [[Analytics]] (2), [[Storytelling]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
 

@@ -30,7 +30,7 @@ tags:
   - skill/threat-modeling
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Repudiation%20in%20Depth.md)
@@ -49,37 +49,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - The threat of repudiation
-  - Four-question framework
-  - Repudiation as part of STRIDE
+  - [The threat of repudiation](#the-threat-of-repudiation)
+  - [Four-question framework](#four-question-framework)
+  - [Repudiation as part of STRIDE](#repudiation-as-part-of-stride)
 - [**1. Technical Repudiation**](#1-technical-repudiation) (2 videos)
-  - Message repudiation
-  - Operational repudiation
+  - [Message repudiation](#message-repudiation)
+  - [Operational repudiation](#operational-repudiation)
 - [**2. Fraud**](#2-fraud) (3 videos)
-  - Buyers and sellers
-  - Intermediaries
-  - Account takeover
+  - [Buyers and sellers](#buyers-and-sellers)
+  - [Intermediaries](#intermediaries)
+  - [Account takeover](#account-takeover)
 - [**3. Identity Theft**](#3-identity-theft) (2 videos)
-  - Identity theft and repudiation
-  - Catfishing, deepfakes, and voice cloning
+  - [Identity theft and repudiation](#identity-theft-and-repudiation)
+  - [Catfishing, deepfakes, and voice cloning](#catfishing-deepfakes-and-voice-cloning)
 - [**4. Attacks on Logs**](#4-attacks-on-logs) (2 videos)
-  - Attacks on logs
-  - Attacks via logs and response systems
+  - [Attacks on logs](#attacks-on-logs)
+  - [Attacks via logs and response systems](#attacks-via-logs-and-response-systems)
 - [**5. Repudiation in Specific Technologies**](#5-repudiation-in-specific-technologies) (3 videos)
-  - Cloud
-  - AI and machine learning
-  - Crypto and blockchain
+  - [Cloud](#cloud)
+  - [AI and machine learning](#ai-and-machine-learning)
+  - [Crypto and blockchain](#crypto-and-blockchain)
 - [**6. Defenses**](#6-defenses) (4 videos)
-  - Cryptographic defenses
-  - Logs
-  - Log analysis
-  - Anti-fraud
+  - [Cryptographic defenses](#cryptographic-defenses)
+  - [Logs](#logs)
+  - [Log analysis](#log-analysis)
+  - [Anti-fraud](#anti-fraud)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Secure by design
+  - [Secure by design](#secure-by-design)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The threat of repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/the-threat-of-repudiation?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (1)
 > **Env Vars:** cve (1)
 > **Speakers:** - it (1)
 
@@ -153,6 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - at (1)
 
@@ -185,7 +186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2), let (1), super (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1)
 > **Env Vars:** stride (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -193,7 +194,7 @@ created: 2026-04-29
 
 ### 1. Technical Repudiation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Message repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/message-repudiation?u=76281980)
@@ -258,12 +259,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Fraud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Buyers and sellers
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/buyers-and-sellers?u=76281980)
@@ -302,6 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), data (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - fraud (1)
@@ -335,7 +338,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** ebay (1)
 > **Speakers:** - [instructor] (1)
@@ -379,7 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -387,7 +389,7 @@ created: 2026-04-29
 
 ### 3. Identity Theft
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identity theft and repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/identity-theft-and-repudiation?u=76281980)
@@ -420,6 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -459,7 +462,7 @@ created: 2026-04-29
 
 ### 4. Attacks on Logs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Attacks on logs
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-on-logs?u=76281980)
@@ -482,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), default, (1)
+> **Frameworks & Libraries:** application (1), [[Linux]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Attacks via logs and response systems
@@ -520,14 +523,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (2)
+> **Frameworks & Libraries:** data (3), [[HTML]] (1), [[SQL]] (1)
 > **Env Vars:** html (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Repudiation in Specific Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cloud?u=76281980)
@@ -552,6 +555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), data (1), [[SaaS|Software as a service]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### AI and machine learning
@@ -585,6 +589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Deep Learning]] (1), data (1), [[Google]] (1), product (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -622,13 +627,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), feature (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Defenses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptographic defenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980)
@@ -689,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), private (2), function (2), this. (1)
+> **Frameworks & Libraries:** [[Cryptography]] (3), [[Algorithms]] (1), [[Blockchain]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** rsa (1)
@@ -760,9 +765,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (1), dns (1), data (1)
 > **CLI Commands:** make (2)
 > **Ports:** :57 (1), :34 (1)
-> **Code Keywords:** switch (1)
 > **Env Vars:** dns (1)
 > **Speakers:** - [narrator] (1)
 
@@ -797,6 +802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), product (1), management (1), data (1)
 > **Env Vars:** utc (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -832,14 +838,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure by design
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980)
@@ -860,6 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (2), [[LinkedIn]] (1), teams (1), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)

@@ -33,7 +33,7 @@ tags:
   - skill/customer-relations
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Customer%20Service-%20Handling%20Abusive%20Customers.md)
@@ -52,25 +52,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Handling abusive customers
-  - Understanding why customers are abusive
+  - [Handling abusive customers](#handling-abusive-customers)
+  - [Understanding why customers are abusive](#understanding-why-customers-are-abusive)
 - [**1. Handling an Abusive Customer**](#1-handling-an-abusive-customer) (7 videos)
-  - Assessing the customer service interaction
-  - Reassuring the customer
-  - Using empathy to show you care
-  - Changing the customer focus
-  - Resolving the customer's issue
-  - Ending the customer interaction
-  - Following up with the customer
+  - [Assessing the customer service interaction](#assessing-the-customer-service-interaction)
+  - [Reassuring the customer](#reassuring-the-customer)
+  - [Using empathy to show you care](#using-empathy-to-show-you-care)
+  - [Changing the customer focus](#changing-the-customer-focus)
+  - [Resolving the customer's issue](#resolving-the-customers-issue)
+  - [Ending the customer interaction](#ending-the-customer-interaction)
+  - [Following up with the customer](#following-up-with-the-customer)
 - [**2. Examples of How to Handle an Abusive Customer**](#2-examples-of-how-to-handle-an-abusive-customer) (2 videos)
-  - Handling an abusive customer on the phone
-  - Handling an abusive customer in person
+  - [Handling an abusive customer on the phone](#handling-an-abusive-customer-on-the-phone)
+  - [Handling an abusive customer in person](#handling-an-abusive-customer-in-person)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Confidently deal with abusive customers
+  - [Confidently deal with abusive customers](#confidently-deal-with-abusive-customers)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling abusive customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-abusive-customers?u=76281980)
@@ -97,7 +97,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** career (1), business (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - have (1)
 
@@ -176,6 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1), [[Microsoft Products|Products]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - our (1)
@@ -183,7 +184,7 @@ created: 2026-04-29
 
 ### 1. Handling an Abusive Customer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing the customer service interaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980)
@@ -256,7 +257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - three (1)
 
@@ -377,7 +378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), else. (1), let (1), for. (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** asap (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -485,9 +486,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), product (1), [[Security]] (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
@@ -579,7 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** next (2), power (1), teams (1)
 > **CLI Commands:** snap (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -654,7 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), finally, (1)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - i (1)
@@ -732,7 +733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -805,15 +806,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** for, (1), return. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
 
 ### 2. Examples of How to Handle an Abusive Customer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling an abusive customer on the phone
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980)
@@ -980,8 +981,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), business (2), next (2)
 > **Speakers:** - i (6), - okay (3), - now (1), - thank (1), - jim (1)
-> **Code Keywords:** let (4), continue (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** asap (1)
 > **Non-Speech:** (phone clicking) (1)
@@ -1099,15 +1100,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (1)
 > **Speakers:** - you (4), - i (3), - if (1), - where (1), - oh (1)
-> **Code Keywords:** let (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Confidently deal with abusive customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/confidently-deal-with-abusive-customers?u=76281980)
@@ -1150,8 +1151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), continue (1)
 > **URLs:** [davidbrownlee.com](https://davidbrownlee.com) (1)
 > **Speakers:** - i (1)
 

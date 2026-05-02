@@ -34,7 +34,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md)
@@ -53,31 +53,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Python data structures: Stacks, queues, and deques
-  - What you should know
-  - Explore the CoderPad environment
+  - [Python data structures: Stacks, queues, and deques](#python-data-structures-stacks-queues-and-deques)
+  - [What you should know](#what-you-should-know)
+  - [Explore the CoderPad environment](#explore-the-coderpad-environment)
 - [**1. Stacks**](#1-stacks) (5 videos)
-  - Stacks: An introduction
-  - The push() operation
-  - The pop() operation
-  - The peek() operation
-  - Solution: Palindrome checker
+  - [Stacks: An introduction](#stacks-an-introduction)
+  - [The push() operation](#the-push-operation)
+  - [The pop() operation](#the-pop-operation)
+  - [The peek() operation](#the-peek-operation)
+  - [Solution: Palindrome checker](#solution-palindrome-checker)
 - [**2. Queues**](#2-queues) (5 videos)
-  - Queues: An introduction
-  - List-based queues
-  - Stack-based queues
-  - Node-based queues
-  - Solution: Printer problem
+  - [Queues: An introduction](#queues-an-introduction)
+  - [List-based queues](#list-based-queues)
+  - [Stack-based queues](#stack-based-queues)
+  - [Node-based queues](#node-based-queues)
+  - [Solution: Printer problem](#solution-printer-problem)
 - [**3. Deques**](#3-deques) (3 videos)
-  - Deques: An introduction
-  - Appending lists with deque
-  - rotate(), reverse(), and extend()
+  - [Deques: An introduction](#deques-an-introduction)
+  - [Appending lists with deque](#appending-lists-with-deque)
+  - [rotate(), reverse(), and extend()](#rotate-reverse-and-extend)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python data structures: Stacks, queues, and deques
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980)
@@ -104,6 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), [[Algorithms]] (2)
 > **CLI Commands:** python (4)
 > **Speakers:** - [dhhyey] (1)
 
@@ -124,8 +125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2)
 > **CLI Commands:** python (3), make (1)
-> **Code Keywords:** type, (1)
 > **Versions:** python 3 (1)
 > **Tools:** pycharm (1)
 > **Speakers:** - [instructor] (1)
@@ -193,9 +194,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **Code Identifiers:** show_expected_result (1), show_hints (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type, (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -204,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Stacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stacks: An introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stacks-an-introduction?u=76281980)
@@ -237,6 +238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2), means that (1), is called (1)
 > **Env Vars:** lifo (1)
 > **Cross-References:** in the last (1)
@@ -297,7 +299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** python (3)
 > **Analogies:** for example (1)
@@ -352,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), continue (1), raise (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (1)
 > **CLI Commands:** python (3)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -403,7 +405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), raise (1), try, (1), except. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -479,7 +481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), else. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** node (6), data (3)
 > **CLI Commands:** node (6)
 > **Code Identifiers:** isempty (2)
 > **Definitions:** is a  (2)
@@ -491,7 +493,7 @@ created: 2026-04-29
 
 ### 2. Queues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Queues: An introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980)
@@ -532,9 +534,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** fifo (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
@@ -615,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1), class. (1), function (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1), next (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), known as (1)
 > **Code Identifiers:** is_empty (1)
@@ -675,7 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), class, (1)
+> **Frameworks & Libraries:** next (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** known as (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -731,8 +733,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (14), next (5)
 > **CLI Commands:** node (14)
-> **Code Keywords:** let (4)
 > **Definitions:** known as (2), means that (2)
 > **Code Identifiers:** is_empty (1)
 > **Speakers:** - [instructor] (1)
@@ -816,7 +818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), finally, (3), case, (2), this, (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **Code Identifiers:** isempty (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -826,7 +828,7 @@ created: 2026-04-29
 
 ### 3. Deques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deques: An introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/deques-an-introduction?u=76281980)
@@ -859,8 +861,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1), next (1)
 > **Env Vars:** fifo (1), lifo (1)
-> **Code Keywords:** abstract (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
@@ -881,7 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (1)
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** my_deque (5)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** is a  (2), known as (1)
@@ -943,7 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), module (1), finally, (1)
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2), [[Search]] (1)
 > **Code Identifiers:** my_deque (3), my_deck (1)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** known as (1), is a  (1)
@@ -953,7 +955,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/next-steps?u=76281980)
@@ -992,8 +994,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), next (2), [[Programming]] (2)
 > **CLI Commands:** python (2), find (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

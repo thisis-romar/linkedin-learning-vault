@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/project-integration-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Project%20Management%20Foundations-%20Integration.md)
@@ -47,36 +47,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Integrate processes as you PM
+  - [Integrate processes as you PM](#integrate-processes-as-you-pm)
 - [**1. Overview: Project Integration Management**](#1-overview-project-integration-management) (4 videos)
-  - Define integration management
-  - Importance of integration management
-  - Key integration management concepts
-  - Understanding process flows
+  - [Define integration management](#define-integration-management)
+  - [Importance of integration management](#importance-of-integration-management)
+  - [Key integration management concepts](#key-integration-management-concepts)
+  - [Understanding process flows](#understanding-process-flows)
 - [**2. Processes: Project Integration Management**](#2-processes-project-integration-management) (7 videos)
-  - Develop Project Charter
-  - Develop Project Management Plan
-  - Direct and Manage Project Work
-  - Manage Project Knowledge
-  - Monitor and Control Project Work
-  - Perform Integrated Change Control
-  - Close Project or Phase
+  - [Develop Project Charter](#develop-project-charter)
+  - [Develop Project Management Plan](#develop-project-management-plan)
+  - [Direct and Manage Project Work](#direct-and-manage-project-work)
+  - [Manage Project Knowledge](#manage-project-knowledge)
+  - [Monitor and Control Project Work](#monitor-and-control-project-work)
+  - [Perform Integrated Change Control](#perform-integrated-change-control)
+  - [Close Project or Phase](#close-project-or-phase)
 - [**3. Best Practices: Project Integration Management**](#3-best-practices-project-integration-management) (5 videos)
-  - Tailor integration management
-  - Manage project constraints
-  - Facilitate project interactions
-  - Close project deliverables
-  - Document lessons learned
+  - [Tailor integration management](#tailor-integration-management)
+  - [Manage project constraints](#manage-project-constraints)
+  - [Facilitate project interactions](#facilitate-project-interactions)
+  - [Close project deliverables](#close-project-deliverables)
+  - [Document lessons learned](#document-lessons-learned)
 - [**4. Emerging Trends: Project Integration Management**](#4-emerging-trends-project-integration-management) (3 videos)
-  - Integrate self-directed teams
-  - Integrate hybrid methodologies
-  - Integrate artificial intelligence
+  - [Integrate self-directed teams](#integrate-self-directed-teams)
+  - [Integrate hybrid methodologies](#integrate-hybrid-methodologies)
+  - [Integrate artificial intelligence](#integrate-artificial-intelligence)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate processes as you PM
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-processes-as-you-pm?u=76281980)
@@ -105,13 +105,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** management (5), [[LinkedIn]] (2)
 > **Speakers:** - if (1)
 
 
 ### 1. Overview: Project Integration Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define integration management
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/define-integration-management?u=76281980)
@@ -166,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (12)
 > **Analogies:** imagine (1)
 > **Speakers:** - project (1)
 
@@ -240,8 +241,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), hit (1)
 > **Analogies:** imagine (2), picture (2), for example (1)
-> **Code Keywords:** private (1), let (1)
 > **Env Vars:** aka (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -302,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), require (1)
+> **Frameworks & Libraries:** management (6), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** you'll need (1)
@@ -373,7 +374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** management (4)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** the key is (1), it's best to (1)
@@ -383,7 +384,7 @@ created: 2026-04-29
 
 ### 2. Processes: Project Integration Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop Project Charter
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-charter?u=76281980)
@@ -454,7 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (2), management (1)
 > **Env Vars:** aka (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -523,6 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (7), [[Stakeholder Engagement]] (1)
 > **Analogies:** for example (4), imagine (1)
 > **Env Vars:** gps (2)
 > **Prerequisites:** you'll need (1)
@@ -589,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), require (1)
+> **Frameworks & Libraries:** management (3), data (2), [[Strategic Thinking]] (2), next (1)
 > **Definitions:** known as (1), is a  (1)
 > **Env Vars:** aka (1)
 > **Analogies:** for example (1)
@@ -651,7 +653,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (2), case, (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
@@ -731,9 +732,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), next (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Best Practices:** you should always (1), it's best to (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** eva (1)
 > **Speakers:** - imagine (1)
 
@@ -806,8 +807,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** continue (1), let (1), this. (1)
 > **Definitions:** is a  (1), known as (1)
 > **Env Vars:** ccb (1)
 > **Speakers:** - if (1)
@@ -865,14 +866,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** just like (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - you (1)
 
 
 ### 3. Best Practices: Project Integration Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tailor integration management
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/tailor-integration-management?u=76281980)
@@ -925,8 +926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), raise (1)
 > **Env Vars:** aka (1)
 > **Analogies:** such as (1)
 > **Best Practices:** it's best to (1)
@@ -998,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** game (2), hit (2), next (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** you need to have (1)
@@ -1071,8 +1072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), management (1), [[Engineering]] (1), leadership (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1), require (1)
 > **Prerequisites:** set up (1), you need to have (1)
 > **Analogies:** picture (1)
 > **Speakers:** - do (1)
@@ -1131,7 +1132,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** include: (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - all (1)
@@ -1181,14 +1181,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1), management (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - have (1)
 
 
 ### 4. Emerging Trends: Project Integration Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate self-directed teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-self-directed-teams?u=76281980)
@@ -1263,7 +1263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (7), let (1), this, (1)
+> **Frameworks & Libraries:** teams (14), [[Decision-Making]] (2), management (2), leadership (1)
 > **Warnings:** note that (1), keep in mind (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -1338,9 +1338,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (9), management (5), [[Forms]] (1), [[Microsoft Products|Products]] (1), functional (1)
 > **Env Vars:** pmbok (3), ibm (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1), throw (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - growth (1)
 
@@ -1391,6 +1391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), management (2), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), game (1)
 > **Analogies:** imagine (2), for example (1)
 > **Env Vars:** pmi (1)
 > **Definitions:** is a  (1)
@@ -1399,7 +1400,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/next-steps?u=76281980)
@@ -1422,7 +1423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** management (2), career (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - now (1)
 

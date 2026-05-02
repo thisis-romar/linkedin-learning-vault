@@ -37,7 +37,7 @@ tags:
   - skill/junit
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Java-%20Testing%20with%20JUnit.md)
@@ -56,50 +56,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Create proper unit tests in Java
-  - What should you know
-  - Unit testing and other types of testing
-  - TDD: Test-driven development
-  - Advantages of unit testing
-  - What is JUnit?
+  - [Create proper unit tests in Java](#create-proper-unit-tests-in-java)
+  - [What should you know](#what-should-you-know)
+  - [Unit testing and other types of testing](#unit-testing-and-other-types-of-testing)
+  - [TDD: Test-driven development](#tdd-test-driven-development)
+  - [Advantages of unit testing](#advantages-of-unit-testing)
+  - [What is JUnit?](#what-is-junit)
 - [**1. Getting Started with JUnit**](#1-getting-started-with-junit) (7 videos)
-  - Quick example of a basic unit test
-  - Setting up JUnit for IntelliJ
-  - Setting up JUnit for VS Code
-  - Setting up JUnit for Eclipse
-  - Your first test: HelloJUnit
-  - A tour of Coderpad
-  - Solution: Create a test method
+  - [Quick example of a basic unit test](#quick-example-of-a-basic-unit-test)
+  - [Setting up JUnit for IntelliJ](#setting-up-junit-for-intellij)
+  - [Setting up JUnit for VS Code](#setting-up-junit-for-vs-code)
+  - [Setting up JUnit for Eclipse](#setting-up-junit-for-eclipse)
+  - [Your first test: HelloJUnit](#your-first-test-hellojunit)
+  - [A tour of Coderpad](#a-tour-of-coderpad)
+  - [Solution: Create a test method](#solution-create-a-test-method)
 - [**2. Writing Basic Tests with JUnit**](#2-writing-basic-tests-with-junit) (8 videos)
-  - Annotations
-  - Write and run test classes and methods
-  - DisplayName
-  - Assertions
-  - Assumptions
-  - Test execution order
-  - Nested tests
-  - Solution: Custom names
+  - [Annotations](#annotations)
+  - [Write and run test classes and methods](#write-and-run-test-classes-and-methods)
+  - [DisplayName](#displayname)
+  - [Assertions](#assertions)
+  - [Assumptions](#assumptions)
+  - [Test execution order](#test-execution-order)
+  - [Nested tests](#nested-tests)
+  - [Solution: Custom names](#solution-custom-names)
 - [**3. More Advanced Usage of JUnit**](#3-more-advanced-usage-of-junit) (10 videos)
-  - Dependency injection in your tests
-  - Repeated tests
-  - Parameterized tests
-  - Timeouts
-  - Parallel execution
-  - Lifecyle control: Before and after
-  - Custom messages and reports
-  - Conditional test execution
-  - Disabling unit tests
-  - Solution: Refactoring
+  - [Dependency injection in your tests](#dependency-injection-in-your-tests)
+  - [Repeated tests](#repeated-tests)
+  - [Parameterized tests](#parameterized-tests)
+  - [Timeouts](#timeouts)
+  - [Parallel execution](#parallel-execution)
+  - [Lifecyle control: Before and after](#lifecyle-control-before-and-after)
+  - [Custom messages and reports](#custom-messages-and-reports)
+  - [Conditional test execution](#conditional-test-execution)
+  - [Disabling unit tests](#disabling-unit-tests)
+  - [Solution: Refactoring](#solution-refactoring)
 - [**4. Quick Peek at Next Steps**](#4-quick-peek-at-next-steps) (3 videos)
-  - How to make code ready for unit testing
-  - Best practices
-  - Mockito
+  - [How to make code ready for unit testing](#how-to-make-code-ready-for-unit-testing)
+  - [Best practices](#best-practices)
+  - [Mockito](#mockito)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with JUnit
+  - [Next steps with JUnit](#next-steps-with-junit)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create proper unit tests in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980)
@@ -130,9 +130,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JUnit]] (3), next (2), application (1), parallel (1), [[Unit Testing]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What should you know
@@ -154,7 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Java]] (8), [[JUnit]] (2)
 > **CLI Commands:** make (1)
 > **Versions:** java 11 (1)
 > **Speakers:** - [instructor] (1)
@@ -226,8 +226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unit Testing]] (6), [[Integration Testing]] (4), application (4), [[Security]] (2), api (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
-> **Code Keywords:** let (1), throw (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -295,7 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), pass (2), let (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), application (2), test-driven (1), feature (1)
 > **Env Vars:** tdd (5)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1)
@@ -331,8 +331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unit Testing]] (7), [[JUnit]] (1), [[Zoom]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -363,9 +363,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JUnit]] (10), [[Java]] (4), [[Unit Testing]] (3), next (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** xunit (1)
 > **Env Vars:** tdd (1)
 > **Cross-References:** next video (1)
@@ -374,7 +374,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with JUnit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Quick example of a basic unit test
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980)
@@ -541,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), assert (4), case, (3), this. (3), static (3)
+> **Frameworks & Libraries:** [[Java]] (4), next (2), api (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** api (2), orc (1)
 > **Analogies:** for example (3)
@@ -671,7 +671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), this. (2), this, (1)
+> **Frameworks & Libraries:** [[JUnit]] (16), [[Java]] (1), next (1), [[Metadata]] (1), api (1)
 > **UI Navigation:** click on (4), go to (3)
 > **Prerequisites:** set up (4), setup (2)
 > **Tools:** intellij (4)
@@ -847,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1), default, (1), this. (1), from, (1)
+> **Frameworks & Libraries:** [[JUnit]] (18), [[Java]] (12), hit (4), api (2)
 > **Prerequisites:** install (5), setup (3), getting started (1), assuming you have (1), set up (1)
 > **UI Navigation:** click on (5), select the (3), scroll down (1), open the (1), navigate to (1)
 > **Tools:** visual studio (4)
@@ -941,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), this. (1), import, (1), import. (1)
+> **Frameworks & Libraries:** [[JUnit]] (11), next (3), [[Java]] (2), api (2), hit (1)
 > **Code Identifiers:** groupid (2), artifactid (2)
 > **Prerequisites:** set up (3), setup (1)
 > **Env Vars:** sdk (1), api (1)
@@ -1073,7 +1073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (6), class, (4), public (2), assert (2)
+> **Frameworks & Libraries:** [[JUnit]] (4), [[Java]] (2), api (2), game (1), next (1)
 > **CLI Commands:** make (2)
 > **Tools:** intellij (2)
 > **UI Navigation:** click on (2)
@@ -1137,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), type, (1), require (1)
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **Code Identifiers:** showexpectedresult (1), showhints (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -1159,7 +1159,7 @@ created: 2026-04-29
 
 ### 2. Writing Basic Tests with JUnit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Annotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980)
@@ -1206,7 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (3), override (2), abstract (1), class. (1)
+> **Frameworks & Libraries:** [[JUnit]] (4), data (1), functional (1), [[Java]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -1367,7 +1367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (6), class. (3), public (2), throw (2)
+> **Frameworks & Libraries:** next (3), [[JUnit]] (2), api (1)
 > **Code Identifiers:** minimumbalance (7), getbalance (4), assertequals (2), testwithdraw (1), bankaccount (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1441,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (2), this, (1), class, (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -1808,7 +1808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), this. (16), pass (10), public (5), this, (5)
+> **Frameworks & Libraries:** [[JUnit]] (1), api (1), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** bankaccount (15), assertequals (5), asserttrue (4), assertfalse (3), isactive (3)
 > **CLI Commands:** make (9), find (1)
 > **Analogies:** for example (5)
@@ -1968,8 +1968,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JUnit]] (2), api (1)
 > **Code Identifiers:** asserttrue (4), assumingthat (4), assumetrue (4), assumefalse (3), assertfalse (1)
-> **Code Keywords:** let (4), this. (4), class. (2), case, (2), this, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Tools:** intellij (1)
@@ -2067,7 +2067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class, (2), static (2), public (2), this, (2)
+> **Frameworks & Libraries:** [[JUnit]] (2)
 > **Code Identifiers:** testwithdraw (5), testdeposit (5), assertequals (3), bankaccount (2), getbalance (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (1)
@@ -2172,7 +2172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class. (3), assert (3), case, (2), class, (2)
+> **Frameworks & Libraries:** feature (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
@@ -2200,7 +2200,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** scroll down (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -2208,7 +2207,7 @@ created: 2026-04-29
 
 ### 3. More Advanced Usage of JUnit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dependency injection in your tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980)
@@ -2329,7 +2328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (4), class, (3), this, (3), pass (3)
+> **Frameworks & Libraries:** [[Dependency Injection]] (9), [[JUnit]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** supportsparameter (2), resolveparameter (2), parametercontext (1), getparameter (1), bankaccount (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3), is an  (1)
@@ -2404,7 +2403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), this. (2), class. (1), class, (1), let (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (2), next (1)
 > **Analogies:** for example (6), imagine (1)
 > **Code Identifiers:** repetitioninfo (2), getcurrentrepetition (2)
 > **CLI Commands:** make (1)
@@ -2657,7 +2656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (10), enum (7), case, (5), assert (4)
+> **Frameworks & Libraries:** data (4), hit (1), next (1), [[JUnit]] (1)
 > **Env Vars:** csv (14), tra (1), cvs (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (2), find (1)
@@ -2784,7 +2783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (5), class. (3), this, (3), pass (3)
+> **Frameworks & Libraries:** [[JUnit]] (2)
 > **Code Identifiers:** asserttimeout (5), bankaccount (2), assertequals (1), getbalance (1), ofmillis (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (1)
@@ -2884,7 +2883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), class. (2), class, (1), this. (1)
+> **Frameworks & Libraries:** parallel (6), concurrent (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3009,7 +3008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), static (8), this. (5), class, (2), this, (2)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** preptest (1), bankaccount (1), endtest (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** per_class (1)
@@ -3095,7 +3094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), new, (1), case, (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (4), mvn (1)
 > **Analogies:** for example (3)
 > **Code Identifiers:** assertequals (1), artifactid (1)
@@ -3209,7 +3208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), pass (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Windows]] (5)
 > **Code Identifiers:** testmac (2), testjre (1)
 > **Versions:** java 16 (3)
 > **Analogies:** for example (2), similar to (1)
@@ -3258,7 +3257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), pass (1), public (1)
+> **Frameworks & Libraries:** ai (1), [[JUnit]] (1), api (1)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3282,13 +3281,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Prerequisites:** initialization (2), setup (1)
-> **Code Keywords:** class. (1), import. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Quick Peek at Next Steps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make code ready for unit testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980)
@@ -3573,7 +3571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (10), class, (5), this. (5), static (2)
+> **Frameworks & Libraries:** [[Debugging]] (2), [[Java]] (2), [[Dependency Injection]] (1), next (1), [[Unit Testing]] (1)
 > **Code Identifiers:** greetuser (4), daypart (3), greetday (3), assertequals (3), greetdaypart (2)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** means that (2), is an  (2), is a  (1)
@@ -3639,7 +3637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** next (2), application (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (2), is a  (1)
 > **Cross-References:** previous video (1), in the next (1)
@@ -3735,7 +3733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (5), class. (2), public (2), override (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1), [[JUnit]] (1), api (1), next (1)
 > **Code Identifiers:** groupid (2), artifactid (2), calculatemethods (2), thenreturn (2), assertequals (2)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 2.0 (3)
@@ -3747,7 +3745,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with JUnit
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980)
@@ -3812,8 +3810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (7), [[JUnit]] (4), career (2), generic (2), api (2)
 > **Env Vars:** tdd (3), api (2)
-> **Code Keywords:** from. (1), private (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [maaike (1)

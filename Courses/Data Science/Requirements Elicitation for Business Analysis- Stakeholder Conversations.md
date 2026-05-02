@@ -33,7 +33,7 @@ tags:
   - skill/requirements-gathering
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Requirements%20Elicitation%20for%20Business%20Analysis-%20Stakeholder%20Conversations.md)
@@ -52,42 +52,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Discover requirements of stakeholders
+  - [Discover requirements of stakeholders](#discover-requirements-of-stakeholders)
 - [**1. Introduction to Requirements Conversations**](#1-introduction-to-requirements-conversations) (3 videos)
-  - When to use interviewing and conversations as a technique
-  - Use interviews and conversations to elicit requirements
-  - Overview of the requirements conversation process
+  - [When to use interviewing and conversations as a technique](#when-to-use-interviewing-and-conversations-as-a-technique)
+  - [Use interviews and conversations to elicit requirements](#use-interviews-and-conversations-to-elicit-requirements)
+  - [Overview of the requirements conversation process](#overview-of-the-requirements-conversation-process)
 - [**2. Prepare for a Requirements Conversation**](#2-prepare-for-a-requirements-conversation) (5 videos)
-  - Define the requirements conversation's purpose
-  - Select the right people to talk to
-  - Research people before your meeting
-  - Plan the requirements conversation
-  - Set up the requirements elicitation conversation
+  - [Define the requirements conversation's purpose](#define-the-requirements-conversations-purpose)
+  - [Select the right people to talk to](#select-the-right-people-to-talk-to)
+  - [Research people before your meeting](#research-people-before-your-meeting)
+  - [Plan the requirements conversation](#plan-the-requirements-conversation)
+  - [Set up the requirements elicitation conversation](#set-up-the-requirements-elicitation-conversation)
 - [**3. Conduct Effective Conversations**](#3-conduct-effective-conversations) (14 videos)
-  - Examine an example requirements conversation
-  - Build rapport with stakeholders
-  - Learn to lay out expectations
-  - Ask probing questions
-  - Ask "why" during the requirements elicitation
-  - Challenge 1: Plan requirements elicitation interviews
-  - Solution 1: Plan requirements elicitation interviews
-  - Challenge 2: Identify what went wrong
-  - Solution 2: Identify what went wrong
-  - Challenge 3: Choose probing questions
-  - Solution 3: Choose probing questions
-  - Implement active listening skills
-  - Take notes during a requirements elicitation conversation
-  - Ending the conversation
+  - [Examine an example requirements conversation](#examine-an-example-requirements-conversation)
+  - [Build rapport with stakeholders](#build-rapport-with-stakeholders)
+  - [Learn to lay out expectations](#learn-to-lay-out-expectations)
+  - [Ask probing questions](#ask-probing-questions)
+  - [Ask "why" during the requirements elicitation](#ask-why-during-the-requirements-elicitation)
+  - [Challenge 1: Plan requirements elicitation interviews](#challenge-1-plan-requirements-elicitation-interviews)
+  - [Solution 1: Plan requirements elicitation interviews](#solution-1-plan-requirements-elicitation-interviews)
+  - [Challenge 2: Identify what went wrong](#challenge-2-identify-what-went-wrong)
+  - [Solution 2: Identify what went wrong](#solution-2-identify-what-went-wrong)
+  - [Challenge 3: Choose probing questions](#challenge-3-choose-probing-questions)
+  - [Solution 3: Choose probing questions](#solution-3-choose-probing-questions)
+  - [Implement active listening skills](#implement-active-listening-skills)
+  - [Take notes during a requirements elicitation conversation](#take-notes-during-a-requirements-elicitation-conversation)
+  - [Ending the conversation](#ending-the-conversation)
 - [**4. Additional Tips for Your Conversations**](#4-additional-tips-for-your-conversations) (3 videos)
-  - Acknowledge the stakeholders' time and input
-  - Analyze and review notes before following up
-  - Leverage AI in requirements conversations
+  - [Acknowledge the stakeholders' time and input](#acknowledge-the-stakeholders-time-and-input)
+  - [Analyze and review notes before following up](#analyze-and-review-notes-before-following-up)
+  - [Leverage AI in requirements conversations](#leverage-ai-in-requirements-conversations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Keep practicing
+  - [Keep practicing](#keep-practicing)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover requirements of stakeholders
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/discover-requirements-of-stakeholders?u=76281980)
@@ -108,14 +108,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Relationship Building]] (1), business (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - requirements (1)
 
 
 ### 1. Introduction to Requirements Conversations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to use interviewing and conversations as a technique
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/when-to-use-interviewing-and-conversations-as-a-technique?u=76281980)
@@ -172,9 +172,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (1), business (1), teams (1), next (1), strengths (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), picture (1)
-> **Code Keywords:** private (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 > **Warnings:** keep in mind (1)
@@ -241,7 +241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** business (4), product (2), [[Interviewing]] (2), leadership (1), technical solution (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -296,8 +296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** self (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - have (1)
@@ -305,7 +305,7 @@ created: 2026-04-29
 
 ### 2. Prepare for a Requirements Conversation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define the requirements conversation's purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/define-the-requirements-conversation-s-purpose?u=76281980)
@@ -370,7 +370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), while. (1)
+> **Frameworks & Libraries:** business (1), teams (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -433,6 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (1), product (1), next (1), business (1)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -508,6 +509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Search]] (1), [[LinkedIn]] (1), [[Generative AI]] (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise file (1)
 > **Warnings:** be aware (1)
@@ -575,6 +577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (1), prompt (1), business (1)
 > **Exercise Files:** exercise file (2), download the (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -635,6 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
@@ -643,7 +647,7 @@ created: 2026-04-29
 
 ### 3. Conduct Effective Conversations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Examine an example requirements conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/examine-an-example-requirements-conversation?u=76281980)
@@ -834,8 +838,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), teams (1), ai (1), [[Analytics]] (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - oh (7), - well (6), - yeah (4), - you (3), - okay (3)
-> **Code Keywords:** self (3), continue (2), this. (2), this, (2), super (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** heads up (1)
@@ -911,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), next (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
@@ -956,7 +960,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - i (1)
 
 #### Ask probing questions
@@ -1028,8 +1031,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** self (1), let (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
@@ -1087,6 +1090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - asking (1)
@@ -1164,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), self (1)
+> **Frameworks & Libraries:** management (1), business (1), web (1), next (1)
 > **Exercise Files:** exercise file (1), exercise files (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
@@ -1256,7 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (2), business (2), [[Automation]] (2), teams (2), management (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -1342,8 +1346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), next (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **Speakers:** - oh (6), - so (3), - okay (2), - in (1), - sure (1)
-> **Code Keywords:** let (3), this, (1)
 > **Env Vars:** crm (2), asap (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
@@ -1400,7 +1404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** business (3), express (2), teams (1)
 > **Env Vars:** crm (1)
 > **Analogies:** picture (1)
 > **Best Practices:** remember to (1)
@@ -1448,7 +1452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), continue (1)
+> **Frameworks & Libraries:** next (4), [[Generative AI]] (2), [[Automation]] (1), ai (1)
 > **Analogies:** picture (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
@@ -1511,8 +1515,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Automation]] (1), ai (1), business (1)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - so (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1589,7 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), super (1), self (1)
+> **Frameworks & Libraries:** next (2), application (1)
 > **Analogies:** imagine (2), just like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1652,10 +1656,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Interviewing]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be careful (1), be aware (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - meeting (1)
 
@@ -1708,16 +1712,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (2)
 > **Prerequisites:** make sure you have (1), you'll need (1)
-> **Code Keywords:** this, (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - requirements (1)
 
 
 ### 4. Additional Tips for Your Conversations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Acknowledge the stakeholders' time and input
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980)
@@ -1770,6 +1774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), hit (1), [[Microsoft Office|Office]] (1), [[Building Trust]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2)
 > **Cross-References:** later in (1)
@@ -1834,6 +1839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** compare this to (1)
 > **Warnings:** heads up (1)
@@ -1880,6 +1886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (8), ai (3), prompt (1), teams (1), business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
@@ -1888,7 +1895,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep practicing
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/keep-practicing?u=76281980)
@@ -1925,6 +1932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)

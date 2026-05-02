@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practical%20GitHub%20Code%20Search.md)
@@ -45,23 +45,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Creating projects for development
-  - Using the slideshow
+  - [Creating projects for development](#creating-projects-for-development)
+  - [Using the slideshow](#using-the-slideshow)
 - [**1. Regular Search Features**](#1-regular-search-features) (5 videos)
-  - GitHub code search
-  - Using the search box and shortcuts
-  - Search qualifiers
-  - Search results
-  - Syntax operators
+  - [GitHub code search](#github-code-search)
+  - [Using the search box and shortcuts](#using-the-search-box-and-shortcuts)
+  - [Search qualifiers](#search-qualifiers)
+  - [Search results](#search-results)
+  - [Syntax operators](#syntax-operators)
 - [**2. Code Search Beta**](#2-code-search-beta) (3 videos)
-  - Finding code
-  - Finding code to learn from
-  - Code results
+  - [Finding code](#finding-code)
+  - [Finding code to learn from](#finding-code-to-learn-from)
+  - [Code results](#code-results)
 - [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating projects for development
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980)
@@ -84,8 +84,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Search]] (2), [[Rust (Programming Language)|Rust]] (1)
 > **Tools:** github (3)
-> **Code Keywords:** let (1), this. (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - github (1)
 
@@ -112,6 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), web (1), next (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** slides_githubsearch (1)
@@ -119,12 +120,11 @@ created: 2026-04-29
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 1. Regular Search Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub code search
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980)
@@ -171,8 +171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), [[GitHub]] (6), feature (3), [[Rust (Programming Language)|Rust]] (1), data (1)
 > **Tools:** github (6)
-> **Code Keywords:** public (2), let (1), interface (1), new, (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** find (3)
 > **URLs:** [github.com](https://github.com) (3)
@@ -221,7 +221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), return, (2)
+> **Frameworks & Libraries:** [[Search]] (9), hit (7), [[GitHub]] (3), [[React.js|React]] (2), web (1)
 > **Tools:** github (3)
 > **URLs:** [github.com](https://github.com) (2)
 > **UI Navigation:** click on (2)
@@ -342,8 +342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (27), [[JavaScript]] (5), hit (2), generic (1), [[GitHub]] (1)
 > **CLI Commands:** find (6), make (5)
-> **Code Keywords:** let (4), super (2), type, (1), type. (1), for, (1)
 > **Definitions:** is a  (5)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for example (3)
@@ -448,7 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (4), interface (2), super (2), return. (1)
+> **Frameworks & Libraries:** hit (11), [[Search]] (9), [[Microsoft]] (6), ux (1), application (1)
 > **CLI Commands:** find (4), make (1)
 > **Cross-References:** go back to (3)
 > **Tools:** vs code (2), visual studio (1)
@@ -629,7 +629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), for. (2), this. (1), return. (1), new, (1)
+> **Frameworks & Libraries:** [[Search]] (9), hit (4), [[Python (Programming Language)|Python]] (4), [[JavaScript]] (2), [[GitHub]] (1)
 > **CLI Commands:** python (4), make (3), mysql (1), find (1)
 > **Tools:** github (1), terminal (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -641,7 +641,7 @@ created: 2026-04-29
 
 ### 2. Code Search Beta
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding code
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980)
@@ -798,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (2), public (1), case, (1), return. (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), hit (6), [[Search]] (6), web (1), [[Microsoft Word|Word]] (1)
 > **Tools:** github (7)
 > **URLs:** [github.io](https://github.io) (3), [raybo.org](https://raybo.org) (2), [github.com](https://github.com) (1)
 > **CLI Commands:** find (3), git (1)
@@ -922,7 +922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (4), interface (2), from. (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (8), hit (4), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** make (8), find (3), python (3), docker (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Tools:** github (2)
@@ -1048,10 +1048,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), hit (4), [[Python (Programming Language)|Python]] (4), [[GitHub]] (1), web (1)
 > **CLI Commands:** python (4), find (3)
 > **UI Navigation:** go to (5), click on (2)
 > **File Paths:** feed.py (2)
-> **Code Keywords:** let (1), this. (1)
 > **URLs:** [github.com](https://github.com) (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -1060,7 +1060,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/the-top-skills-engineering-professi
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 14
 tags:
   - learning-path
   - topic/software-development
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/The%20Top%20Skills%20Engineering%20Professionals%20Have%20Right%20Now.md)

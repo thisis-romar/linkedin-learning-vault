@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/data-ingestion
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Ingestion%20with%20Python.md)
@@ -50,66 +50,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Why is data ingestion important?
-  - What you should know
-  - Using the exercise files
-  - Using the Coderpad quizzes
+  - [Why is data ingestion important?](#why-is-data-ingestion-important)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Using the Coderpad quizzes](#using-the-coderpad-quizzes)
 - [**1. Data Ingestion Overview**](#1-data-ingestion-overview) (5 videos)
-  - Overview of data scientists work
-  - Where does data come from?
-  - Different types of data
-  - The data pipeline (ETL)
-  - Final destination (data lake)
+  - [Overview of data scientists work](#overview-of-data-scientists-work)
+  - [Where does data come from?](#where-does-data-come-from)
+  - [Different types of data](#different-types-of-data)
+  - [The data pipeline (ETL)](#the-data-pipeline-etl)
+  - [Final destination (data lake)](#final-destination-data-lake)
 - [**2. Reading Files**](#2-reading-files) (6 videos)
-  - Working in CSV
-  - Working in XML
-  - Working in Parquet, Avro, and ORC
-  - Unstructured text
-  - JSON
-  - Solution: CSV to JSON
+  - [Working in CSV](#working-in-csv)
+  - [Working in XML](#working-in-xml)
+  - [Working in Parquet, Avro, and ORC](#working-in-parquet-avro-and-orc)
+  - [Unstructured text](#unstructured-text)
+  - [JSON](#json)
+  - [Solution: CSV to JSON](#solution-csv-to-json)
 - [**3. Calling APIs**](#3-calling-apis) (4 videos)
-  - Working with JSON
-  - Making HTTP calls
-  - Processing event-based data
-  - Solution: Location from IP
+  - [Working with JSON](#working-with-json)
+  - [Making HTTP calls](#making-http-calls)
+  - [Processing event-based data](#processing-event-based-data)
+  - [Solution: Location from IP](#solution-location-from-ip)
 - [**4. Web Scraping**](#4-web-scraping) (6 videos)
-  - Try to find an API
-  - Working with Beautiful Soup
-  - Working with Scrapy
-  - Working with Selenium
-  - Other considerations
-  - Solution: Get stock information from HTML
+  - [Try to find an API](#try-to-find-an-api)
+  - [Working with Beautiful Soup](#working-with-beautiful-soup)
+  - [Working with Scrapy](#working-with-scrapy)
+  - [Working with Selenium](#working-with-selenium)
+  - [Other considerations](#other-considerations)
+  - [Solution: Get stock information from HTML](#solution-get-stock-information-from-html)
 - [**5. Schema**](#5-schema) (5 videos)
-  - What are schemas?
-  - Working with ontologies
-  - What should be in schema
-  - Schema changes
-  - Schema validations
+  - [What are schemas?](#what-are-schemas)
+  - [Working with ontologies](#working-with-ontologies)
+  - [What should be in schema](#what-should-be-in-schema)
+  - [Schema changes](#schema-changes)
+  - [Schema validations](#schema-validations)
 - [**6. Working with Databases**](#6-working-with-databases) (7 videos)
-  - Types of databases
-  - Hosted and cost of ops
-  - Working with relational databases
-  - Working with key or value databases
-  - Working with document databases
-  - Working with graph databases
-  - Solution: ETL
+  - [Types of databases](#types-of-databases)
+  - [Hosted and cost of ops](#hosted-and-cost-of-ops)
+  - [Working with relational databases](#working-with-relational-databases)
+  - [Working with key or value databases](#working-with-key-or-value-databases)
+  - [Working with document databases](#working-with-document-databases)
+  - [Working with graph databases](#working-with-graph-databases)
+  - [Solution: ETL](#solution-etl)
 - [**7. Troubleshooting Data**](#7-troubleshooting-data) (6 videos)
-  - Data is never 100% okay
-  - Causes of errors
-  - Filling missing values
-  - Finding outliers (manual)
-  - Finding outliers (ML)
-  - Solution: Clean rides dataset
+  - [Data is never 100% okay](#data-is-never-100-okay)
+  - [Causes of errors](#causes-of-errors)
+  - [Filling missing values](#filling-missing-values)
+  - [Finding outliers (manual)](#finding-outliers-manual)
+  - [Finding outliers (ML)](#finding-outliers-ml)
+  - [Solution: Clean rides dataset](#solution-clean-rides-dataset)
 - [**8. Data KPIs and Process**](#8-data-kpis-and-process) (3 videos)
-  - Design your data
-  - KPIs
-  - What to monitor?
+  - [Design your data](#design-your-data)
+  - [KPIs](#kpis)
+  - [What to monitor?](#what-to-monitor)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is data ingestion important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980)
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (2), [[Databases]] (1)
 > **Speakers:** - [miki] (1)
 
 #### What you should know
@@ -161,6 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1), data (1)
 > **CLI Commands:** python (1), docker (1)
 > **Tools:** command line (1)
 > **Prerequisites:** you need to have (1)
@@ -183,6 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** exercise files (2), download the (1)
 > **CLI Commands:** docker (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -193,7 +196,7 @@ created: 2026-04-29
 
 ### 1. Data Ingestion Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data scientists work
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980)
@@ -220,6 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Algorithms]] (3), business (1)
 > **CLI Commands:** find (2), cat (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -267,8 +271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), database (2), [[Databases]] (2), api (2), [[PostgreSQL]] (1)
 > **CLI Commands:** find (2), python (1)
-> **Code Keywords:** require (2), for, (1)
 > **Env Vars:** api (2), orc (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -308,6 +312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Databases]] (3), [[Relational Databases]] (1), [[Algorithms]] (1), [[Neo4j]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** hdf5 (1)
 > **Speakers:** - [instructor] (1)
@@ -347,6 +352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Databases]] (1), etl (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** known as (1), stands for (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** python (1)
@@ -379,13 +385,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Databases]] (1), database (1), [[Algorithms]] (1), [[Google]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Reading Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working in CSV
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980)
@@ -504,8 +511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** csv (14)
-> **Code Keywords:** let (6), type. (1), this. (1), type, (1), yield (1)
 > **Code Identifiers:** csv_py (1), read_csv (1), time_cols (1), sub_df (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (3)
@@ -570,8 +577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), dom (1), [[Document Object Model (DOM)|Document object model]] (1), api (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** xml (6), dom (1), sax (1), api (1), csv (1)
-> **Code Keywords:** yield (2), let (1), pass (1), type, (1), function (1)
 > **Code Identifiers:** iter_rides (1), load_xml (1), from_records (1), read_xml (1)
 > **CLI Commands:** find (1), python (1)
 > **Definitions:** is an  (1), stands for (1)
@@ -612,8 +619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (3), [[Hadoop]] (1)
 > **CLI Commands:** find (1), apache (1)
-> **Code Keywords:** new, (1), case, (1)
 > **Code Identifiers:** read_table (1), to_pandas (1)
 > **Env Vars:** csv (1), orc (1)
 > **Analogies:** such as (2)
@@ -685,7 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), match, (1), type. (1)
+> **Frameworks & Libraries:** data (2), [[Unstructured Data]] (1), next (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **Code Identifiers:** parse_line (1), parse_log (1)
 > **File Paths:** parse_log.py (1)
@@ -743,9 +750,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (12), [[Python (Programming Language)|Python]] (6), [[JavaScript]] (2), data (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** json (12), iso (1)
 > **CLI Commands:** python (6)
-> **Code Keywords:** let (2), function (2), module (1)
 > **Definitions:** is a  (2), stands for (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
@@ -757,7 +764,7 @@ created: 2026-04-29
 
 ### 3. Calling APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with JSON
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980)
@@ -808,10 +815,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (10), [[Python (Programming Language)|Python]] (4), data (3)
 > **Env Vars:** json (9), acme (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is a  (3), means that (1)
-> **Code Keywords:** let (2), pass (1)
 > **Analogies:** for example (1), such as (1)
 > **Versions:** 103.7 (1)
 > **Prerequisites:** you need to have (1)
@@ -868,8 +875,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (3), [[Python (Programming Language)|Python]] (3), api (2), data (1), web (1)
 > **Env Vars:** http (5), json (3), url (3), api (2), rpc (1)
-> **Code Keywords:** let (2), function (1), require (1)
 > **CLI Commands:** python (3)
 > **File Paths:** httpd.py (1)
 > **Code Identifiers:** api_client (1)
@@ -938,9 +945,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), [[Python (Programming Language)|Python]] (3), data (1), [[Google]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** docker (3), python (3), rm (1)
 > **Env Vars:** json (4), nats (2), sqs (1)
-> **Code Keywords:** pub (1), let (1)
 > **Ports:** :4222 (1), port 4222 (1)
 > **Definitions:** is a  (2)
 > **File Paths:** event_client.py (1)
@@ -953,7 +960,7 @@ created: 2026-04-29
 
 ### 4. Web Scraping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try to find an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980)
@@ -976,6 +983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), data (2), [[HTML]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (4), html (2)
 > **CLI Commands:** find (3), make (1), python (1)
 > **Definitions:** known as (1)
@@ -1046,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), pass (1), raise (1), for. (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** html (7)
 > **CLI Commands:** find (1), python (1)
 > **File Paths:** fx.py (1)
@@ -1119,7 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (2), function (2), let (1), self (1), pass (1)
+> **Frameworks & Libraries:** data (4), [[HTML]] (3), [[Python (Programming Language)|Python]] (1), next (1), css (1)
 > **Definitions:** is a  (3), is called (1)
 > **File Paths:** httpd.py (1), fx.py (1)
 > **CLI Commands:** find (1), python (1)
@@ -1159,8 +1167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (6), web (3), [[Python (Programming Language)|Python]] (3), data (3), [[HTML]] (1)
 > **CLI Commands:** python (3), find (1)
-> **Code Keywords:** let (3)
 > **Tools:** firefox (3)
 > **File Paths:** httpd.py (1), fx.py (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1197,9 +1205,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), parallel (1), vpn (1), data (1), cloud (1)
 > **Env Vars:** api (2), vpn (1), vnc (1), xvfb (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** pass (1), case. (1)
 > **Definitions:** known as (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1210,7 +1218,7 @@ created: 2026-04-29
 
 ### 5. Schema
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are schemas?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980)
@@ -1261,9 +1269,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Metadata]] (1), [[NoSQL]] (1), [[Databases]] (1)
 > **Env Vars:** tmax (1), tmin (1), pgtm (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Ports:** :37 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1293,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (1), [[Engineering]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1340,8 +1348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type. (1), case, (1)
 > **Versions:** 89.2 (1), 57.8 (1)
 > **Env Vars:** pgtn (1)
 > **Definitions:** is a  (1)
@@ -1393,8 +1401,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[GitHub]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
 > **Speakers:** - over (1)
@@ -1446,7 +1454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), case, (1)
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), database (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** weather.py (1)
@@ -1456,7 +1464,7 @@ created: 2026-04-29
 
 ### 6. Working with Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980)
@@ -1507,6 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (6), data (4), database (3), [[Relational Databases]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3), mysql (1), python (1)
 > **Env Vars:** sql (1), mssql (1)
 > **Best Practices:** make sure to (2)
@@ -1537,6 +1546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (2), [[Security]] (1), [[Google]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Prerequisites:** setup (2)
 > **Analogies:** such as (1)
@@ -1629,9 +1639,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), [[Python (Programming Language)|Python]] (6), database (6), [[Databases]] (3), [[Relational Databases]] (3)
 > **Env Vars:** sql (8), api (1), select (1), where (1), orm (1)
 > **CLI Commands:** python (6), sqlite3 (2)
-> **Code Keywords:** let (3), finally, (1), this. (1), pass (1)
 > **Code Identifiers:** sqlite3 (2), read_sql (1)
 > **Definitions:** is a  (2), known as (1)
 > **File Paths:** rides.py (1), pd.py (1)
@@ -1697,8 +1707,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), data (8), [[Redis]] (5), [[Databases]] (3), [[JSON]] (2)
 > **CLI Commands:** find (2), python (2), docker (1)
-> **Code Keywords:** let (2), for. (1)
 > **Code Identifiers:** run_redis (1), scan_iter (1), redis_demo (1)
 > **Env Vars:** json (2), sku (1)
 > **Analogies:** such as (1)
@@ -1767,8 +1777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Elasticsearch]] (5), data (4), [[Python (Programming Language)|Python]] (3), [[Databases]] (3), database (2)
 > **CLI Commands:** python (3), docker (1)
-> **Code Keywords:** let (3), for, (1)
 > **File Paths:** download.py (1), run_elastic.py (1)
 > **Code Identifiers:** run_elastic (1), elastic_demo (1)
 > **Ports:** port 2900 (1)
@@ -1815,8 +1825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neo4j]] (6), database (5), [[Python (Programming Language)|Python]] (2), [[Databases]] (1), node (1)
 > **CLI Commands:** python (2), docker (1), node (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1827,7 +1837,7 @@ created: 2026-04-29
 
 ### 7. Troubleshooting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data is never 100% okay
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980)
@@ -1858,6 +1868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Algorithms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** gigo (1)
 > **Analogies:** such as (1)
@@ -1911,9 +1922,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Hardware]] (2), power (1)
 > **Env Vars:** ram (2), ibm (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -1995,7 +2006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (1), function (1), default. (1)
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 1.2 (1), 2.3 (1), 4.5 (1), 3.8 (1)
 > **Env Vars:** nan (2), nat (1)
 > **Definitions:** is a  (2)
@@ -2047,8 +2058,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (2), database (2), [[SQL]] (1)
 > **CLI Commands:** find (2), sqlite3 (2)
-> **Code Keywords:** let (3)
 > **Versions:** 932.9 (1), 19.48 (1), 35.57 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2119,8 +2130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** find (4), python (2)
-> **Code Keywords:** let (3)
 > **Env Vars:** aapl (2)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** for example (1)
@@ -2132,7 +2143,7 @@ created: 2026-04-29
 
 ### 8. Data KPIs and Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/design-your-data?u=76281980)
@@ -2169,7 +2180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), from. (1)
+> **Frameworks & Libraries:** data (8), feature (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2206,9 +2217,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** kpi (2)
-> **Code Keywords:** this, (1)
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
@@ -2271,6 +2282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (1), [[Algorithms]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** sps (1)
 > **Speakers:** - [instructor] (1)
@@ -2278,7 +2290,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980)
@@ -2307,6 +2319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Algorithms]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)

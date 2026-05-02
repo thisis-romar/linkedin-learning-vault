@@ -36,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Image%20Generation%20with%20DALL-E.md)
@@ -55,23 +55,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to image generation with DALL-E
+  - [Introduction to image generation with DALL-E](#introduction-to-image-generation-with-dall-e)
 - [**1. Understanding DALL-E**](#1-understanding-dall-e) (2 videos)
-  - Explore DALL-E features and capabilities
-  - Gain access to DALL-E
+  - [Explore DALL-E features and capabilities](#explore-dall-e-features-and-capabilities)
+  - [Gain access to DALL-E](#gain-access-to-dall-e)
 - [**2. Using DALL-E in the Real World**](#2-using-dall-e-in-the-real-world) (2 videos)
-  - Craft effective image prompts
-  - Use image generation in the real world
+  - [Craft effective image prompts](#craft-effective-image-prompts)
+  - [Use image generation in the real world](#use-image-generation-in-the-real-world)
 - [**3. Generate Images via the Images API**](#3-generate-images-via-the-images-api) (3 videos)
-  - Explore the Images API
-  - Estimate image pricing
-  - See image generation in action
+  - [Explore the Images API](#explore-the-images-api)
+  - [Estimate image pricing](#estimate-image-pricing)
+  - [See image generation in action](#see-image-generation-in-action)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your DALL-E journey
+  - [Your DALL-E journey](#your-dall-e-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to image generation with DALL-E
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980)
@@ -90,13 +90,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (2), [[OpenAI API]] (2), [[Storytelling]] (1), [[Microsoft Products|Products]] (1), power (1)
 > **Env Vars:** dall (2), api (2)
 > **Speakers:** - [kesha] (1)
 
 
 ### 1. Understanding DALL-E
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore DALL-E features and capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980)
@@ -131,8 +132,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (4), ai (1), [[Deep Learning]] (1)
 > **Env Vars:** dall (4), wall (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -169,8 +170,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (9), [[ChatGPT]] (3), [[OpenAI API]] (3), api (3), web (2)
 > **Env Vars:** dall (9), api (6), sdk (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** python (1)
 > **Tools:** postman (1)
 > **Definitions:** is a  (1)
@@ -179,7 +180,7 @@ created: 2026-04-29
 
 ### 2. Using DALL-E in the Real World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Craft effective image prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980)
@@ -218,8 +219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (12), [[DALL-E]] (6), feature (2), [[Prompt Engineering]] (1), ai (1)
 > **Env Vars:** dall (6)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -263,14 +264,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (7), prompt (5), web (3), data (2), [[Graphic Design]] (1)
 > **Env Vars:** dall (7), api (1)
-> **Code Keywords:** let (2), abstract (2), interface (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Generate Images via the Images API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the Images API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980)
@@ -361,8 +362,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), [[DALL-E]] (8), api (7), next (3), ai (2)
 > **Env Vars:** dall (8), api (7), url (5), json (2)
-> **Code Keywords:** let (6)
 > **Definitions:** is a  (3)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
@@ -396,8 +397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[DALL-E]] (2)
 > **Env Vars:** api (3), dall (2)
-> **Code Keywords:** let (2)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
@@ -524,7 +525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (4), module (2), pass (1)
+> **Frameworks & Libraries:** prompt (16), api (10), [[DALL-E]] (6), [[Python (Programming Language)|Python]] (2), next (2)
 > **Env Vars:** api (11), dall (6), sdk (1), url (1)
 > **CLI Commands:** python (2), make (1)
 > **UI Navigation:** scroll down (3)
@@ -536,7 +537,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your DALL-E journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980)
@@ -569,8 +570,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (3), api (3), [[OpenAI API]] (1), power (1), prompt (1)
 > **Env Vars:** api (4), dall (3)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 

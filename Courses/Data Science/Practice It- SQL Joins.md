@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Practice%20It-%20SQL%20Joins.md)
@@ -50,45 +50,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Welcome to the course
-  - Prerequisites and preassessment
-  - Getting started with GitHub Codespaces
-  - Installing the database in GitHub Codespaces
+  - [Welcome to the course](#welcome-to-the-course)
+  - [Prerequisites and preassessment](#prerequisites-and-preassessment)
+  - [Getting started with GitHub Codespaces](#getting-started-with-github-codespaces)
+  - [Installing the database in GitHub Codespaces](#installing-the-database-in-github-codespaces)
 - [**1. SQL JOIN and Descriptions**](#1-sql-join-and-descriptions) (5 videos)
-  - SQL commands for determining relationships
-  - Try it: Schema description SQL commands
-  - Check it: Schema description SQL commands
-  - Try it: Table and column description SQL commands
-  - Check it: Table and column description SQL commands
+  - [SQL commands for determining relationships](#sql-commands-for-determining-relationships)
+  - [Try it: Schema description SQL commands](#try-it-schema-description-sql-commands)
+  - [Check it: Schema description SQL commands](#check-it-schema-description-sql-commands)
+  - [Try it: Table and column description SQL commands](#try-it-table-and-column-description-sql-commands)
+  - [Check it: Table and column description SQL commands](#check-it-table-and-column-description-sql-commands)
 - [**2. Inner Join**](#2-inner-join) (6 videos)
-  - Understanding inner joins
-  - Try it: Inner join
-  - Check it: Inner join
-  - Understanding self joins
-  - Try it: Self join
-  - Check it: Self join
+  - [Understanding inner joins](#understanding-inner-joins)
+  - [Try it: Inner join](#try-it-inner-join)
+  - [Check it: Inner join](#check-it-inner-join)
+  - [Understanding self joins](#understanding-self-joins)
+  - [Try it: Self join](#try-it-self-join)
+  - [Check it: Self join](#check-it-self-join)
 - [**3. Left Join**](#3-left-join) (5 videos)
-  - Understanding left joins
-  - Try it: Left join
-  - Check it: Left join
-  - Try it: Multiple complex joins
-  - Check it: Multiple complex joins
+  - [Understanding left joins](#understanding-left-joins)
+  - [Try it: Left join](#try-it-left-join)
+  - [Check it: Left join](#check-it-left-join)
+  - [Try it: Multiple complex joins](#try-it-multiple-complex-joins)
+  - [Check it: Multiple complex joins](#check-it-multiple-complex-joins)
 - [**4. Right Join**](#4-right-join) (5 videos)
-  - Understanding right joins
-  - Try it: Right join
-  - Check it: Right join
-  - Try it: Full outer join
-  - Check it: Full outer join
+  - [Understanding right joins](#understanding-right-joins)
+  - [Try it: Right join](#try-it-right-join)
+  - [Check it: Right join](#check-it-right-join)
+  - [Try it: Full outer join](#try-it-full-outer-join)
+  - [Check it: Full outer join](#check-it-full-outer-join)
 - [**5. Cross Join**](#5-cross-join) (3 videos)
-  - Understanding cross joins
-  - Try it: Cross joins and Cartesian joins
-  - Check it: Cross joins and Cartesian joins
+  - [Understanding cross joins](#understanding-cross-joins)
+  - [Try it: Cross joins and Cartesian joins](#try-it-cross-joins-and-cartesian-joins)
+  - [Check it: Cross joins and Cartesian joins](#check-it-cross-joins-and-cartesian-joins)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with SQL
+  - [Continuing on with SQL](#continuing-on-with-sql)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980)
@@ -115,10 +115,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), [[Relational Databases]] (2), [[GitHub]] (2), [[Codespaces]] (2), [[Programming]] (1)
 > **Env Vars:** sql (3), rdbms (1)
 > **Tools:** vs code (2), github (2)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [nikiya] (1)
 
 #### Prerequisites and preassessment
@@ -154,9 +154,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[SQL]] (2), management (2), [[Data Manipulation]] (1), data (1)
 > **Env Vars:** sql (2), select (1), ide (1), cli (1)
 > **Tools:** vs code (2), terminal (1), visual studio (1)
-> **Code Keywords:** let (1), interface (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **SQL:** select (1)
 > **Speakers:** - [instructor] (1)
@@ -298,7 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -340,8 +340,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[GitHub]] (1), next (1), data (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -349,7 +349,7 @@ created: 2026-04-29
 
 ### 1. SQL JOIN and Descriptions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL commands for determining relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980)
@@ -416,8 +416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), hit (3), [[SQL]] (2), management (1), [[PostgreSQL|Postgres]] (1)
 > **Tools:** terminal (7), vs code (2), command line (2)
-> **Code Keywords:** let (6), interface (1)
 > **Env Vars:** sql (2), gui (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **CLI Commands:** sqlite3 (2)
@@ -472,9 +472,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), database (4), next (3), [[Analytics]] (1), [[SQL]] (1)
 > **Env Vars:** html (2), sql (1), erd (1)
 > **File Paths:** chapter1.txt (1), adventureworks_docs.html (1), adventureworks.html (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1), next video (1)
 > **Tools:** command line (1), github (1)
 > **Code Identifiers:** adventureworks_docs (1)
@@ -560,7 +560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type, (1)
+> **Frameworks & Libraries:** database (8), [[HTML]] (6), [[SQL]] (5), next (2), hit (2)
 > **Code Identifiers:** sqlite_master (7)
 > **Env Vars:** sql (4), html (3)
 > **Tools:** command line (2), visual studio (1), terminal (1)
@@ -606,10 +606,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), next (2), [[CLI]] (1), database (1), [[GitHub]] (1)
 > **Code Identifiers:** adventureworks_docs (2), table_info (2), create_documentation (2)
 > **Env Vars:** html (3), cli (1), pragma (1)
 > **File Paths:** adventureworks_docs.html (2), create_documentation.sh (2)
-> **Code Keywords:** let (4)
 > **Tools:** terminal (1), github (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -658,7 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), type, (1)
+> **Frameworks & Libraries:** data (3), database (2), next (1)
 > **Env Vars:** pragma (3)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** table_info (1)
@@ -670,7 +670,7 @@ created: 2026-04-29
 
 ### 2. Inner Join
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding inner joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-inner-joins?u=76281980)
@@ -715,7 +715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), match. (1), case, (1)
+> **Frameworks & Libraries:** database (1)
 > **Analogies:** for instance (2), such as (1), for example (1)
 > **Warnings:** note that (1), be aware (1)
 > **Definitions:** known as (1)
@@ -756,6 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), database (1), data (1)
 > **CLI Commands:** find (2)
 > **Best Practices:** don't forget (2)
 > **Cross-References:** in the next (1)
@@ -848,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** dimcustomer (1)
 > **UI Navigation:** go to (1)
@@ -889,7 +890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), let (2), match, (1)
+> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (2), [[SQL]] (1), data (1), database (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -915,7 +916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5)
+> **Frameworks & Libraries:** database (2), next (1), [[SQL]] (1), [[GitHub]] (1)
 > **Env Vars:** dim (1), sql (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -945,7 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1), super (1)
+> **Frameworks & Libraries:** database (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
@@ -954,7 +955,7 @@ created: 2026-04-29
 
 ### 3. Left Join
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding left joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-left-joins?u=76281980)
@@ -1007,7 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), match. (1)
+> **Frameworks & Libraries:** [[SQL]] (2), next (1), database (1)
 > **Env Vars:** sql (2)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** known as (1)
@@ -1048,9 +1049,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), product (2), [[Microsoft Products|Products]] (2), data (1), [[GitHub]] (1)
 > **Code Identifiers:** customer_email_a (1), customer_address_us (1)
 > **Non-Speech:** (beeping) (1), (typing) (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Speakers:** - let (1)
 
@@ -1097,8 +1098,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (12), data (3), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** dim (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1131,7 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (3), [[GitHub]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Prerequisites:** you'll need (1)
@@ -1162,13 +1163,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Right Join
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding right joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-right-joins?u=76281980)
@@ -1191,7 +1192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Try it: Right join
@@ -1211,6 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (computer beeping) (1)
 
@@ -1247,9 +1249,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), data (1)
 > **Env Vars:** join (5), left (4), right (1)
 > **SQL:** left join (4), join (1)
-> **Code Keywords:** let (3), switch (1)
 > **Speakers:** - [instructor] (1)
 
 #### Try it: Full outer join
@@ -1287,7 +1289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - let (1)
@@ -1313,7 +1315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1321,7 +1323,7 @@ created: 2026-04-29
 
 ### 5. Cross Join
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cross joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-cross-joins?u=76281980)
@@ -1350,7 +1352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), this. (1)
+> **Frameworks & Libraries:** product (1), data (1), database (1)
 > **Analogies:** imagine (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1372,8 +1374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
@@ -1411,7 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2), product (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** erd (1)
 > **Warnings:** keep in mind (1)
@@ -1420,7 +1422,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980)
@@ -1443,6 +1445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), data (4), [[LinkedIn]] (2), career (2), database (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** mysql (1), find (1)
 > **Speakers:** - [nikiya] (1)

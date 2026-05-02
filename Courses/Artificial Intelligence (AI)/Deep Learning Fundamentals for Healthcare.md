@@ -22,7 +22,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20Fundamentals%20for%20Healthcare.md)
@@ -41,36 +41,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with deep learning for healthcare
-  - What you should know
+  - [Getting started with deep learning for healthcare](#getting-started-with-deep-learning-for-healthcare)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Deep Learning for Healthcare**](#1-introduction-to-deep-learning-for-healthcare) (10 videos)
-  - What is deep learning?
-  - Why deep learning excels in healthcare?
-  - How deep learning works: ​Anatomy of neural networks
-  - Deep learning architectures
-  - Deep learning algorithms
-  - Key concepts in training deep learning models
-  - Deep learning frameworks and libraries
-  - Building and implementing neural networks: TensorFlow
-  - Building and implementing neural networks: PyTorch
-  - Limitations and ethical considerations
+  - [What is deep learning?](#what-is-deep-learning)
+  - [Why deep learning excels in healthcare?](#why-deep-learning-excels-in-healthcare)
+  - [How deep learning works: ​Anatomy of neural networks](#how-deep-learning-works-anatomy-of-neural-networks)
+  - [Deep learning architectures](#deep-learning-architectures)
+  - [Deep learning algorithms](#deep-learning-algorithms)
+  - [Key concepts in training deep learning models](#key-concepts-in-training-deep-learning-models)
+  - [Deep learning frameworks and libraries](#deep-learning-frameworks-and-libraries)
+  - [Building and implementing neural networks: TensorFlow](#building-and-implementing-neural-networks-tensorflow)
+  - [Building and implementing neural networks: PyTorch](#building-and-implementing-neural-networks-pytorch)
+  - [Limitations and ethical considerations](#limitations-and-ethical-considerations)
 - [**2. Computer Vision for Healthcare**](#2-computer-vision-for-healthcare) (10 videos)
-  - Introduction to computer vision in healthcare
-  - Understanding image data in healthcare
-  - Anatomy of medical images: Exploring digital properties and structure
-  - Preparing X-ray image datasets for computer vision tasks
-  - Task overview : Classifying normal vs. pneumonia X-rays
-  - Classifying normal vs. pneumonia X-rays using convolutional neural networks (CNNs)
-  - Classifying normal vs. pneumonia X-rays using a pretrained architecture
-  - Classifying normal vs. pneumonia X-rays using zero-shot learning
-  - Task overview: Object detection in medical imaging
-  - Zero-shot object detection in X-rays using CLIP-based models
+  - [Introduction to computer vision in healthcare](#introduction-to-computer-vision-in-healthcare)
+  - [Understanding image data in healthcare](#understanding-image-data-in-healthcare)
+  - [Anatomy of medical images: Exploring digital properties and structure](#anatomy-of-medical-images-exploring-digital-properties-and-structure)
+  - [Preparing X-ray image datasets for computer vision tasks](#preparing-x-ray-image-datasets-for-computer-vision-tasks)
+  - [Task overview : Classifying normal vs. pneumonia X-rays](#task-overview-classifying-normal-vs-pneumonia-x-rays)
+  - [Classifying normal vs. pneumonia X-rays using convolutional neural networks (CNNs)](#classifying-normal-vs-pneumonia-x-rays-using-convolutional-neural-networks-cnns)
+  - [Classifying normal vs. pneumonia X-rays using a pretrained architecture](#classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture)
+  - [Classifying normal vs. pneumonia X-rays using zero-shot learning](#classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning)
+  - [Task overview: Object detection in medical imaging](#task-overview-object-detection-in-medical-imaging)
+  - [Zero-shot object detection in X-rays using CLIP-based models](#zero-shot-object-detection-in-x-rays-using-clip-based-models)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with deep learning for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/getting-started-with-deep-learning-for-healthcare?u=76281980)
@@ -91,7 +91,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - we (1)
 
 #### What you should know
@@ -117,6 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (2), [[Deep Learning]] (1), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Tools:** colab (1)
 > **Exercise Files:** exercise files (1)
@@ -125,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Deep Learning for Healthcare
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980)
@@ -188,7 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), function (1), require (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (3), [[Neural Networks]] (3), [[Algorithms]] (2), [[Deep Learning]] (1), data (1)
 > **Analogies:** such as (4), picture (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -234,6 +235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Deep Learning]] (6), [[Algorithms]] (1), feature (1), [[Feature Engineering]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - healthcare (1)
 
@@ -324,8 +326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Neural Networks]] (3), [[Deep Learning]] (2), [[Artificial Neural Networks]] (1), next (1)
 > **Analogies:** such as (3), for example (2), similar to (1), for instance (1)
-> **Code Keywords:** function (2), abstract (1), include, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -406,9 +408,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Deep Learning]] (6), cnn (2), [[Neural Networks]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Env Vars:** mlp (2), cnn (2), bert (2), ecg (1), rnn (1)
 > **Analogies:** such as (8)
-> **Code Keywords:** let (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -555,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2)
+> **Frameworks & Libraries:** [[Algorithms]] (8), data (7), [[Neural Networks]] (3), [[Deep Learning]] (3), [[Calculus]] (1)
 > **Analogies:** similar to (4), imagine (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** mse (1), sgd (1)
@@ -638,7 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), pass (1), new, (1)
+> **Frameworks & Libraries:** data (14), [[Search]] (4), [[Deep Learning]] (3), [[Algorithms]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** similar to (1), such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -704,6 +706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (7), [[TensorFlow]] (5), [[Python (Programming Language)|Python]] (3), [[Algorithms]] (1), [[Google]] (1)
 > **Env Vars:** cntk (1), tfx (1), nlp (1), jax (1)
 > **CLI Commands:** python (3)
 > **Analogies:** such as (2)
@@ -898,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this. (4), this, (3), interface (1), class. (1)
+> **Frameworks & Libraries:** data (14), [[TensorFlow]] (5), next (5), [[Google]] (3), [[Neural Networks]] (2)
 > **Code Identifiers:** x_train (3), y_test (2), input_shape (1), binary_crossentropy (1), y_train (1)
 > **Tools:** colab (6)
 > **Env Vars:** gpu (3), cpu (1)
@@ -1052,7 +1055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), this. (3), function (2), this, (2), module (1)
+> **Frameworks & Libraries:** data (6), [[TensorFlow]] (2), [[PyTorch]] (2), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** python (1), make (1)
@@ -1140,6 +1143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Deep Learning]] (9), [[Privacy]] (4), [[Accountability]] (4), ai (3)
 > **Analogies:** such as (2), for example (2), similar to (1)
 > **Env Vars:** hipaa (1), gdpr (1), hl7 (1), fhir (1)
 > **CLI Commands:** make (3)
@@ -1149,7 +1153,7 @@ created: 2026-04-29
 
 ### 2. Computer Vision for Healthcare
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to computer vision in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980)
@@ -1224,8 +1228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Vision]] (12), [[Deep Learning]] (6), data (4), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** type, (1), continue (1)
 > **Env Vars:** nlp (1), mri (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1316,9 +1320,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Computer Vision]] (2), [[Metadata]] (2), [[Deep Learning]] (1), [[Algorithms]] (1)
 > **Env Vars:** mri (4), dicom (2), jpeg (2), png (2), pet (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (1), include: (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is a  (1)
@@ -1505,7 +1509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), this, (1), case, (1)
+> **Frameworks & Libraries:** data (5), [[Deep Learning]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (2), [[Algorithms]] (1)
 > **Code Identifiers:** xray_image (6), image_matrix (2), image_path (1), flattened_matrix (1), normalized_matrix (1)
 > **CLI Commands:** make (4), python (2), find (1)
 > **Env Vars:** png (1), flip_left_right (1)
@@ -1685,8 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), this, (8), this. (3), from
-( (1), finally, (1)
+> **Frameworks & Libraries:** data (12), ai (6), feature (3), [[Deep Learning]] (2), prompt (1)
 > **Non-Speech:** (keys clicking) (36), (mouse clicking) (1)
 > **Tools:** bash (7), colab (1)
 > **CLI Commands:** make (3), unzip (2), find (1)
@@ -1758,7 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1), new, (1)
+> **Frameworks & Libraries:** data (5), [[Deep Learning]] (4), [[Computer Vision]] (2), feature (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Env Vars:** cnn (1), clip (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2074,7 +2077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), function (4), this, (3), this. (3), case, (1)
+> **Frameworks & Libraries:** next (8), data (8), [[Gemini]] (4), [[TensorFlow]] (3), [[Computer Vision]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1), means that (1)
 > **Env Vars:** ipa (3), gpu (1), cnn (1)
 > **Tools:** bash (4)
@@ -2286,7 +2289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), this. (3), function (3), import. (1), this, (1)
+> **Frameworks & Libraries:** data (12), next (6), [[Deep Learning]] (2), [[TensorFlow]] (2), cnn (1)
 > **Code Identifiers:** train_datagen (2), train_generator (2), base_model (2), predicted_label (2), xray_normal_pneumonia_small (1)
 > **CLI Commands:** make (3), unzip (2), find (2)
 > **Analogies:** just like (3), imagine (2)
@@ -2432,7 +2435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (3), this. (2), pass (2), import, (1)
+> **Frameworks & Libraries:** data (8), [[Google]] (1), next (1), [[PyTorch]] (1)
 > **Code Identifiers:** xray_normal_pneumonia_small (1), logits_per_image (1), sample_file_path (1), from_pretrained (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** unzip (1), make (1)
@@ -2476,6 +2479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Algorithms]] (2), cnn (1), [[Microsoft Excel|Excel]] (1), next (1)
 > **Env Vars:** mri (1), net (1), yolo (1), cnn (1), clip (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** in the next (1)
@@ -2639,7 +2643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (7), this. (4), this, (2)
+> **Frameworks & Libraries:** data (3), prompt (2), [[Google]] (1), [[Hugging Face]] (1), [[PyTorch]] (1)
 > **Code Identifiers:** predicted_label (3), logic_per_image (2), xray_normal_pneumonia_small (1), from_pretrained (1), trust_remote_code (1)
 > **Env Vars:** clip (7), gpu (1), rgb (1)
 > **CLI Commands:** make (4), find (2), unzip (1)
@@ -2651,7 +2655,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980)
@@ -2678,6 +2682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (2), [[LinkedIn]] (2), ai (2), [[Deep Learning]] (1), next (1)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)

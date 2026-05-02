@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Functional%20Programming%20with%20PHP.md)
@@ -49,54 +49,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - A functional approach to transform code
-  - What you should know
-  - Installing and running PHP
+  - [A functional approach to transform code](#a-functional-approach-to-transform-code)
+  - [What you should know](#what-you-should-know)
+  - [Installing and running PHP](#installing-and-running-php)
 - [**1. Introductory Functional Concepts**](#1-introductory-functional-concepts) (5 videos)
-  - Why use functional programming?
-  - What is declarative programming?
-  - Immutability in functional programming
-  - Separation of data and functions
-  - First-class functions
+  - [Why use functional programming?](#why-use-functional-programming)
+  - [What is declarative programming?](#what-is-declarative-programming)
+  - [Immutability in functional programming](#immutability-in-functional-programming)
+  - [Separation of data and functions](#separation-of-data-and-functions)
+  - [First-class functions](#first-class-functions)
 - [**2. First-Class Functions**](#2-first-class-functions) (7 videos)
-  - Functions as data, part 1
-  - Functions as data, part 2
-  - Passing functions as arguments
-  - Returning functions
-  - Closure
-  - Higher-order functions
-  - Arrow functions in PHP
+  - [Functions as data, part 1](#functions-as-data-part-1)
+  - [Functions as data, part 2](#functions-as-data-part-2)
+  - [Passing functions as arguments](#passing-functions-as-arguments)
+  - [Returning functions](#returning-functions)
+  - [Closure](#closure)
+  - [Higher-order functions](#higher-order-functions)
+  - [Arrow functions in PHP](#arrow-functions-in-php)
 - [**3. PHP: The Functional Parts**](#3-php-the-functional-parts) (11 videos)
-  - Working with arrays, functionally
-  - The spread operator and array_merge
-  - Mapping
-  - Filtering
-  - Passing keys to array functions
-  - Sorting
-  - Custom sorting behavior with usort
-  - Reducing
-  - Combining array functions
-  - Challenge: Recreating the array_map function
-  - Solution: Recreating the array_map function
+  - [Working with arrays, functionally](#working-with-arrays-functionally)
+  - [The spread operator and array_merge](#the-spread-operator-and-array_merge)
+  - [Mapping](#mapping)
+  - [Filtering](#filtering)
+  - [Passing keys to array functions](#passing-keys-to-array-functions)
+  - [Sorting](#sorting)
+  - [Custom sorting behavior with usort](#custom-sorting-behavior-with-usort)
+  - [Reducing](#reducing)
+  - [Combining array functions](#combining-array-functions)
+  - [Challenge: Recreating the array_map function](#challenge-recreating-the-array_map-function)
+  - [Solution: Recreating the array_map function](#solution-recreating-the-array_map-function)
 - [**4. Advanced Functional Concepts**](#4-advanced-functional-concepts) (5 videos)
-  - Advanced functional concepts
-  - Partial application and currying
-  - Recursion
-  - Composition, part 1
-  - Composition, part 2
+  - [Advanced functional concepts](#advanced-functional-concepts)
+  - [Partial application and currying](#partial-application-and-currying)
+  - [Recursion](#recursion)
+  - [Composition, part 1](#composition-part-1)
+  - [Composition, part 2](#composition-part-2)
 - [**5. Code Conversion Challenges**](#5-code-conversion-challenges) (6 videos)
-  - Challenge: Property getter
-  - Solution: Property getter
-  - Challenge: Tallying votes
-  - Solution: Tallying votes
-  - Challenge: Value or array
-  - Solution: Value or array
+  - [Challenge: Property getter](#challenge-property-getter)
+  - [Solution: Property getter](#solution-property-getter)
+  - [Challenge: Tallying votes](#challenge-tallying-votes)
+  - [Solution: Tallying votes](#solution-tallying-votes)
+  - [Challenge: Value or array](#challenge-value-or-array)
+  - [Solution: Value or array](#solution-value-or-array)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A functional approach to transform code
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980)
@@ -125,10 +125,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Functional Programming]] (9), [[PHP]] (4), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), application (1)
 > **CLI Commands:** php (4), make (2)
 > **Env Vars:** php (4)
 > **Analogies:** such as (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [shaun] (1)
 
 #### What you should know
@@ -164,9 +164,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), [[Windows]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), cd (1), [[Linux]] (1)
 > **CLI Commands:** php (4), cd (1), ls (1)
 > **Env Vars:** php (4)
-> **Code Keywords:** finally, (1)
 > **Tools:** command line (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -230,10 +230,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (18), hit (2), [[Search]] (1), [[Windows]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** php (18), brew (4), make (2), apache (1), find (1)
 > **Env Vars:** php (13)
 > **Tools:** terminal (3), bash (3), vim (3), command line (1)
-> **Code Keywords:** let (1), while, (1), this, (1), this. (1)
 > **Prerequisites:** install (3), setup (1)
 > **Versions:** 7.4 (1), php 7 (1), 7.4.1 (1)
 > **UI Navigation:** go to (2)
@@ -242,7 +242,7 @@ created: 2026-04-29
 
 ### 1. Introductory Functional Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use functional programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980)
@@ -301,7 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (1), self (1), public (1), private (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (11), [[Programming]] (8), [[PHP]] (2), next (1), application (1)
 > **CLI Commands:** make (3), php (2)
 > **Env Vars:** php (2), suv (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -367,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (3), finally, (1)
+> **Frameworks & Libraries:** [[Programming]] (9), [[Functional Programming]] (7), next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -486,7 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), const (1), this, (1), this. (1), else. (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (9), data (7), [[PHP]] (3), [[Programming]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (3), find (2), make (2)
 > **Definitions:** is a  (4), means that (1), we call this (1)
 > **Env Vars:** php (3)
@@ -584,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), private (3), protected (2), this. (1)
+> **Frameworks & Libraries:** data (31), [[Functional Programming]] (10), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (7), game (2), [[Security]] (1)
 > **CLI Commands:** find (3), make (3), php (1)
 > **Analogies:** such as (4), for example (1), imagine (1)
 > **Code Identifiers:** first_name (1), last_name (1), change_name (1), mark_as_done (1)
@@ -650,7 +650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), class, (1), this, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (6), data (6), [[Programming]] (2), power (1), [[Software Design]] (1)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), in the next (1)
@@ -660,7 +660,7 @@ created: 2026-04-29
 
 ### 2. First-Class Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functions as data, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980)
@@ -787,7 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (27), let (3), this, (3), this. (2), type. (1)
+> **Frameworks & Libraries:** data (13), [[PHP]] (7), database (4), [[Fetch]] (4), functional (2)
 > **Code Identifiers:** my_function (7), fetch_data (6), fetch_data_real (3), fetch_data_fake (3), functions_as_data (2)
 > **CLI Commands:** php (7), make (2)
 > **Analogies:** such as (4), for example (4), just like (1)
@@ -857,7 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (2), finally, (2), this. (1), for, (1)
+> **Frameworks & Libraries:** [[PHP]] (3), functional (2), [[Functional Programming]] (1), data (1)
 > **CLI Commands:** php (3), make (1), find (1)
 > **Env Vars:** php (3)
 > **Analogies:** for example (2)
@@ -988,7 +988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (27), pass (12), let (5), this. (4), case, (2)
+> **Frameworks & Libraries:** data (6), next (1), [[Forms]] (1)
 > **Analogies:** for example (6), such as (1)
 > **Code Identifiers:** combine_names (3), government_form_notation (2), append_with_space (1)
 > **CLI Commands:** make (1), find (1)
@@ -1103,7 +1103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (30), let (9), pass (3), case. (1), return, (1)
+> **Frameworks & Libraries:** data (4), [[PHP]] (4), functional (2), next (1), [[Programming]] (1)
 > **Code Identifiers:** create_multiplier (6), create_printer (3), my_printer (2), returning_function (1), returning_functions (1)
 > **Analogies:** for example (3), such as (1), similar to (1), think of it as (1)
 > **CLI Commands:** php (4), make (1)
@@ -1183,7 +1183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (21), let (2), from. (2), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** my_favorite_number (9), create_printer (5), my_printer (4)
 > **CLI Commands:** php (7), make (2), python (1)
 > **Env Vars:** php (5)
@@ -1285,7 +1285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (29), pass (6), let (3), this, (2), this. (2)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (6), make (6)
 > **Env Vars:** php (6)
 > **Definitions:** in other words (1), we call this (1)
@@ -1360,7 +1360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), pass (2), fn (2), continue (1), from, (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Programming]] (1), feature (1)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2)
 > **Cross-References:** previous video (2)
@@ -1369,7 +1369,7 @@ created: 2026-04-29
 
 ### 3. PHP: The Functional Parts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with arrays, functionally
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/working-with-arrays-functionally?u=76281980)
@@ -1408,11 +1408,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Functional Programming]] (5), [[PHP]] (5), functional (2), data (2), next (1)
 > **CLI Commands:** php (5), make (2), find (1)
 > **Env Vars:** php (5)
 > **Code Identifiers:** array_map (1), array_filter (1), array_reduce (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** as we saw (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1560,8 +1560,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (6), data (3), [[Functional Programming]] (1), career (1), functional (1)
 > **Code Identifiers:** person_data (7), career_data (7), array_merge (7), all_names (6), person_with_career_data (2)
-> **Code Keywords:** function (10), let (5), this. (4), pass (4), delete (2)
 > **Analogies:** for example (4), imagine (1), just like (1), such as (1)
 > **CLI Commands:** php (6)
 > **Env Vars:** php (6)
@@ -1662,7 +1662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (4), this, (2), pass (1), return, (1)
+> **Frameworks & Libraries:** functional (4), data (3), [[PHP]] (2), next (1), [[Functional Programming]] (1)
 > **CLI Commands:** php (2), make (1), find (1)
 > **Definitions:** is called (1), is a  (1), in other words (1)
 > **Analogies:** for example (3)
@@ -1758,7 +1758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), pass (5), let (4), module (3), this. (2)
+> **Frameworks & Libraries:** next (1), [[PHP]] (1), data (1), functional (1)
 > **Code Identifiers:** array_filter (11), array_map (5), even_numbers (3), is_even (3), array_values (1)
 > **CLI Commands:** find (2), php (1), make (1)
 > **Analogies:** just like (2), for example (1)
@@ -1859,7 +1859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (12), function (10), let (3), this, (1), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
@@ -1941,7 +1941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), pass (3), this. (3), let (2), override (1)
+> **Frameworks & Libraries:** [[PHP]] (3), functional (2), [[Functional Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Code Identifiers:** array_sort (3), array_map (2), array_filter (2), numbers_sorted (2)
 > **Analogies:** for example (3), such as (1), just like (1)
 > **CLI Commands:** php (3)
@@ -2047,7 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (21), pass (4), let (4), this, (2), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (2), data (2)
 > **Definitions:** means that (2), is a  (1), is called (1)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
@@ -2132,7 +2132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), pass (6), let (2)
+> **Frameworks & Libraries:** product (8), [[PHP]] (3), next (3), data (2)
 > **CLI Commands:** find (4), php (3), make (1)
 > **Definitions:** is a  (1), we call this (1), in other words (1), is called (1)
 > **Env Vars:** php (3)
@@ -2240,7 +2240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), pass (3), this. (2), this, (2)
+> **Frameworks & Libraries:** data (5), next (2), [[PHP]] (1)
 > **CLI Commands:** make (3), php (1), find (1)
 > **Env Vars:** php (1)
 > **Cross-References:** previous video (1)
@@ -2275,7 +2275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[JavaScript]] (1), functional (1)
 > **Code Identifiers:** array_map (4)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** php (2)
@@ -2335,7 +2335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (4), this. (1), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[Programming]] (1), data (1), [[Functional Programming]] (1)
 > **CLI Commands:** php (1), find (1)
 > **Analogies:** just like (2)
 > **Env Vars:** php (1)
@@ -2344,7 +2344,7 @@ created: 2026-04-29
 
 ### 4. Advanced Functional Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced functional concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/advanced-functional-concepts?u=76281980)
@@ -2371,7 +2371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** functional (3), [[Functional Programming]] (2), application (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2444,7 +2444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), pass (8), this, (5), let (1), this. (1)
+> **Frameworks & Libraries:** application (7)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -2531,7 +2531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), pass (4), this. (2), let (2), this: (1)
+> **Frameworks & Libraries:** next (2), [[PHP]] (2), [[Functional Programming]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
@@ -2637,7 +2637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (4), require (1), finally, (1)
+> **Frameworks & Libraries:** data (7), api (2), [[Representational State Transfer (REST)|Rest]] (2), functional (1), [[Programming]] (1)
 > **Analogies:** for example (4), such as (1)
 > **Env Vars:** api (2)
 > **Cross-References:** earlier in (2)
@@ -2717,7 +2717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), finally, (3), this. (2), let (2), pass (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), data (6), [[Data Transformation]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -2727,7 +2727,7 @@ created: 2026-04-29
 
 ### 5. Code Conversion Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Property getter
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980)
@@ -2770,7 +2770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (1), pass (1), new, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), functional (1), application (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** get_property (2), favorite_color (2), get_name (1), create_property_getter (1)
 > **Analogies:** such as (2), imagine (1), for example (1)
 > **CLI Commands:** make (2)
@@ -2801,7 +2801,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), default, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2852,7 +2851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), pass (1), continue (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), generic (1), next (1)
 > **Cross-References:** we talked about (1), next video (1)
 > **Definitions:** is called (1), in other words (1)
 > **CLI Commands:** find (1)
@@ -2895,7 +2894,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
 > **Best Practices:** the key is (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -2950,7 +2948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2), pass (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[PHP]] (1), next (1)
 > **Code Identifiers:** array_map (3), call_on_value_or_array (1), second_argument_isnt_zero (1), is_array (1)
 > **CLI Commands:** find (4), php (1)
 > **Cross-References:** previous video (1), earlier in (1), next video (1)
@@ -2988,7 +2986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (1), this. (1), return, (1)
+> **Frameworks & Libraries:** data (8)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2997,7 +2995,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980)
@@ -3036,9 +3034,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Functional Programming]] (5), [[LinkedIn]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[PHP]] (1), data (1)
 > **Env Vars:** php (1), mit (1)
 > **CLI Commands:** php (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [shaun] (1)

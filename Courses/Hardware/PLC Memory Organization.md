@@ -28,7 +28,7 @@ tags:
   - topic/hardware
   - skill/programmable-logic-controller-plc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/PLC%20Memory%20Organization.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Memory organization for PLCs
-  - What you should know before watching
-  - LogixPro PLC software simulation
+  - [Memory organization for PLCs](#memory-organization-for-plcs)
+  - [What you should know before watching](#what-you-should-know-before-watching)
+  - [LogixPro PLC software simulation](#logixpro-plc-software-simulation)
 - [**1. Processor Memory Organization**](#1-processor-memory-organization) (2 videos)
-  - Allen-Bradley PLCs types
-  - Allen-Bradley PLCs memory structures
+  - [Allen-Bradley PLCs types](#allen-bradley-plcs-types)
+  - [Allen-Bradley PLCs memory structures](#allen-bradley-plcs-memory-structures)
 - [**2. Rack-Based System**](#2-rack-based-system) (7 videos)
-  - Rack-based systems
-  - Program files
-  - Data files: Part 1
-  - Data files: Part 2
-  - LogixPro demo
-  - I/O address format for rack-based PLC
-  - Data storage 16-bit words
+  - [Rack-based systems](#rack-based-systems)
+  - [Program files](#program-files)
+  - [Data files: Part 1](#data-files-part-1)
+  - [Data files: Part 2](#data-files-part-2)
+  - [LogixPro demo](#logixpro-demo)
+  - [I/O address format for rack-based PLC](#io-address-format-for-rack-based-plc)
+  - [Data storage 16-bit words](#data-storage-16-bit-words)
 - [**3. Tag-Based System**](#3-tag-based-system) (7 videos)
-  - Tag-based system
-  - Project file components overview
-  - Tags in PLC
-  - Tags types for ControlLogix controllers
-  - Global and local tags
-  - Addressing format for tag-based systems
-  - Base and Alias tags
+  - [Tag-based system](#tag-based-system)
+  - [Project file components overview](#project-file-components-overview)
+  - [Tags in PLC](#tags-in-plc)
+  - [Tags types for ControlLogix controllers](#tags-types-for-controllogix-controllers)
+  - [Global and local tags](#global-and-local-tags)
+  - [Addressing format for tag-based systems](#addressing-format-for-tag-based-systems)
+  - [Base and Alias tags](#base-and-alias-tags)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Memory organization for PLCs
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980)
@@ -97,6 +97,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (2), [[Programming]] (2), [[LinkedIn]] (2), data (1), [[Engineering]] (1)
 > **Env Vars:** plc (2)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
@@ -123,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), plc (3), data (1)
 > **Env Vars:** plc (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -144,13 +146,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), [[Simulation Software]] (3)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Processor Memory Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Allen-Bradley PLCs types
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980)
@@ -197,6 +200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), [[Automation]] (1), [[Programming]] (1), product (1), application (1)
 > **Env Vars:** plc (3), slc (2)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
@@ -221,14 +225,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (2), [[Programming]] (2)
 > **Env Vars:** slc (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Rack-Based System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rack-based systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/rack-based-systems?u=76281980)
@@ -273,7 +277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** data (8)
 > **Env Vars:** slc (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -312,7 +316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1)
+> **Frameworks & Libraries:** teams (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -360,7 +364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), type. (1)
+> **Frameworks & Libraries:** data (7), [[Troubleshooting]] (1), [[Microsoft Word|Word]] (1), [[Programming]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -409,9 +413,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), plc (1)
 > **Env Vars:** plc (1), slc500 (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### LogixPro demo
@@ -433,6 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (2), [[Simulation Software]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 
 #### I/O address format for rack-based PLC
@@ -502,7 +507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (16), switch (2)
+> **Frameworks & Libraries:** plc (4), data (1), [[Simulation Software]] (1)
 > **Env Vars:** plc (4)
 > **Tools:** terminal (3)
 > **Definitions:** is an  (1)
@@ -560,15 +565,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), plc (4), data (2)
 > **Env Vars:** plc (4), slc (1)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Tag-Based System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tag-based system
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/tag-based-system?u=76281980)
@@ -593,9 +598,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), application (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** type, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Project file components overview
@@ -649,9 +654,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** lata (2)
-> **Code Keywords:** case, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -698,9 +703,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), application (1), generic (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -769,7 +774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (4), require (1), function (1), module (1)
+> **Frameworks & Libraries:** data (16)
 > **Definitions:** is a  (6), is called (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -822,6 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is an  (1), refers to (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
@@ -876,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (13), type, (1), finally, (1), switch (1)
+> **Frameworks & Libraries:** data (8), power (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Speakers:** - [tutor] (1)
 
@@ -955,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1), switch (1)
+> **Frameworks & Libraries:** data (12), [[Programming]] (2), application (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -963,7 +969,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980)
@@ -986,6 +992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (5), [[Programming]] (3), [[Automation]] (3)
 > **Env Vars:** plc (5)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)

@@ -33,7 +33,7 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Tableau%20Essential%20Training.md)
@@ -52,104 +52,104 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Apply the power of Tableau 2025 to your data
-  - What you should know before starting
+  - [Apply the power of Tableau 2025 to your data](#apply-the-power-of-tableau-2025-to-your-data)
+  - [What you should know before starting](#what-you-should-know-before-starting)
 - [**1. Introducing Tableau**](#1-introducing-tableau) (4 videos)
-  - Download Tableau
-  - Connect data sources to Tableau
-  - Introduce Tableau file types
-  - Get help in Tableau
+  - [Download Tableau](#download-tableau)
+  - [Connect data sources to Tableau](#connect-data-sources-to-tableau)
+  - [Introduce Tableau file types](#introduce-tableau-file-types)
+  - [Get help in Tableau](#get-help-in-tableau)
 - [**2. Managing Data Sources and Visualizations**](#2-managing-data-sources-and-visualizations) (7 videos)
-  - Connect to a data source
-  - Join related data sources
-  - Join data sources with inconsistent field names
-  - Clean up source data
-  - Reorder fields in a visualization
-  - Change the summary operation
-  - Split text into multiple columns
+  - [Connect to a data source](#connect-to-a-data-source)
+  - [Join related data sources](#join-related-data-sources)
+  - [Join data sources with inconsistent field names](#join-data-sources-with-inconsistent-field-names)
+  - [Clean up source data](#clean-up-source-data)
+  - [Reorder fields in a visualization](#reorder-fields-in-a-visualization)
+  - [Change the summary operation](#change-the-summary-operation)
+  - [Split text into multiple columns](#split-text-into-multiple-columns)
 - [**3. Managing Tableau Worksheets and Workbooks**](#3-managing-tableau-worksheets-and-workbooks) (9 videos)
-  - Display the data underlying a workbook
-  - Add, duplicate, and rename worksheets
-  - Reorder, clear, and delete worksheets
-  - Change a worksheet’s tab color
-  - Show or hide worksheet elements
-  - Save your changes
-  - Save your workbook as a PDF file
-  - Create a packaged workbook
-  - Export data to a CSV file
+  - [Display the data underlying a workbook](#display-the-data-underlying-a-workbook)
+  - [Add, duplicate, and rename worksheets](#add-duplicate-and-rename-worksheets)
+  - [Reorder, clear, and delete worksheets](#reorder-clear-and-delete-worksheets)
+  - [Change a worksheet’s tab color](#change-a-worksheets-tab-color)
+  - [Show or hide worksheet elements](#show-or-hide-worksheet-elements)
+  - [Save your changes](#save-your-changes)
+  - [Save your workbook as a PDF file](#save-your-workbook-as-a-pdf-file)
+  - [Create a packaged workbook](#create-a-packaged-workbook)
+  - [Export data to a CSV file](#export-data-to-a-csv-file)
 - [**4. Creating Custom Calculations and Fields**](#4-creating-custom-calculations-and-fields) (5 videos)
-  - Present Tableau operators and built-in functions
-  - Create a calculated field
-  - Create a calculated field on a shelf
-  - Add a table calculation
-  - Use level of detail expressions
+  - [Present Tableau operators and built-in functions](#present-tableau-operators-and-built-in-functions)
+  - [Create a calculated field](#create-a-calculated-field)
+  - [Create a calculated field on a shelf](#create-a-calculated-field-on-a-shelf)
+  - [Add a table calculation](#add-a-table-calculation)
+  - [Use level of detail expressions](#use-level-of-detail-expressions)
 - [**5. Analyzing Data**](#5-analyzing-data) (5 videos)
-  - Calculate averages, medians, minimums, and maximums
-  - Count occurrences and distinct items
-  - Display the Summary Card
-  - Calculate percentages within a table
-  - Forecast future values
+  - [Calculate averages, medians, minimums, and maximums](#calculate-averages-medians-minimums-and-maximums)
+  - [Count occurrences and distinct items](#count-occurrences-and-distinct-items)
+  - [Display the Summary Card](#display-the-summary-card)
+  - [Calculate percentages within a table](#calculate-percentages-within-a-table)
+  - [Forecast future values](#forecast-future-values)
 - [**6. Sorting and Filtering Data**](#6-sorting-and-filtering-data) (9 videos)
-  - Sort based on a field’s values
-  - Create a nested sort
-  - Create a selection filter
-  - Create a wildcard filter
-  - Create a condition filter
-  - Create a top filter
-  - Edit, clear, and delete filters
-  - Filter data using parameters
-  - Edit and delete parameters
+  - [Sort based on a field’s values](#sort-based-on-a-fields-values)
+  - [Create a nested sort](#create-a-nested-sort)
+  - [Create a selection filter](#create-a-selection-filter)
+  - [Create a wildcard filter](#create-a-wildcard-filter)
+  - [Create a condition filter](#create-a-condition-filter)
+  - [Create a top filter](#create-a-top-filter)
+  - [Edit, clear, and delete filters](#edit-clear-and-delete-filters)
+  - [Filter data using parameters](#filter-data-using-parameters)
+  - [Edit and delete parameters](#edit-and-delete-parameters)
 - [**7. Defining Groups and Sets**](#7-defining-groups-and-sets) (8 videos)
-  - Define a group
-  - Define a group for other values
-  - Find members of a group
-  - Edit and delete groups
-  - Define a set
-  - Create summaries using sets
-  - Combine sets
-  - Edit and delete sets
+  - [Define a group](#define-a-group)
+  - [Define a group for other values](#define-a-group-for-other-values)
+  - [Find members of a group](#find-members-of-a-group)
+  - [Edit and delete groups](#edit-and-delete-groups)
+  - [Define a set](#define-a-set)
+  - [Create summaries using sets](#create-summaries-using-sets)
+  - [Combine sets](#combine-sets)
+  - [Edit and delete sets](#edit-and-delete-sets)
 - [**8. Creating Basic Visualizations**](#8-creating-basic-visualizations) (8 videos)
-  - Create column and stacked column charts
-  - Create line charts and area fill charts
-  - Create pie charts
-  - Create scatter plots
-  - Identify data clusters
-  - Create histograms
-  - Summarize data using a smart histogram
-  - Create a treemap
+  - [Create column and stacked column charts](#create-column-and-stacked-column-charts)
+  - [Create line charts and area fill charts](#create-line-charts-and-area-fill-charts)
+  - [Create pie charts](#create-pie-charts)
+  - [Create scatter plots](#create-scatter-plots)
+  - [Identify data clusters](#identify-data-clusters)
+  - [Create histograms](#create-histograms)
+  - [Summarize data using a smart histogram](#summarize-data-using-a-smart-histogram)
+  - [Create a treemap](#create-a-treemap)
 - [**9. Managing Tableau Visualizations**](#9-managing-tableau-visualizations) (6 videos)
-  - Change the visual summary type
-  - Change the appearance of your data
-  - Set a default format for a field
-  - Display a visualization in Presentation mode
-  - Create a highlight table
-  - Display a viz in a tooltip
+  - [Change the visual summary type](#change-the-visual-summary-type)
+  - [Change the appearance of your data](#change-the-appearance-of-your-data)
+  - [Set a default format for a field](#set-a-default-format-for-a-field)
+  - [Display a visualization in Presentation mode](#display-a-visualization-in-presentation-mode)
+  - [Create a highlight table](#create-a-highlight-table)
+  - [Display a viz in a tooltip](#display-a-viz-in-a-tooltip)
 - [**10. Annotating and Formatting Visualizations**](#10-annotating-and-formatting-visualizations) (5 videos)
-  - Annotate a visualization
-  - Format chart elements
-  - Change the order of colors in a visualization
-  - Add a trend line to a chart
-  - Add reference lines and quartile indicators
+  - [Annotate a visualization](#annotate-a-visualization)
+  - [Format chart elements](#format-chart-elements)
+  - [Change the order of colors in a visualization](#change-the-order-of-colors-in-a-visualization)
+  - [Add a trend line to a chart](#add-a-trend-line-to-a-chart)
+  - [Add reference lines and quartile indicators](#add-reference-lines-and-quartile-indicators)
 - [**11. Mapping Geographic Data**](#11-mapping-geographic-data) (5 videos)
-  - Create a basic map
-  - Add and remove map layers
-  - Enhance map analysis using distance measurement tools
-  - Disable pan and zoom in maps
-  - Define custom regions
+  - [Create a basic map](#create-a-basic-map)
+  - [Add and remove map layers](#add-and-remove-map-layers)
+  - [Enhance map analysis using distance measurement tools](#enhance-map-analysis-using-distance-measurement-tools)
+  - [Disable pan and zoom in maps](#disable-pan-and-zoom-in-maps)
+  - [Define custom regions](#define-custom-regions)
 - [**12. Creating Dashboards and Actions**](#12-creating-dashboards-and-actions) (7 videos)
-  - Present data using story points and stories
-  - Create a dashboard
-  - Arrange and resize dashboard elements
-  - Replace a worksheet in a dashboard quickly
-  - Define a filter action
-  - Define a highlight action
-  - Define parameter actions
+  - [Present data using story points and stories](#present-data-using-story-points-and-stories)
+  - [Create a dashboard](#create-a-dashboard)
+  - [Arrange and resize dashboard elements](#arrange-and-resize-dashboard-elements)
+  - [Replace a worksheet in a dashboard quickly](#replace-a-worksheet-in-a-dashboard-quickly)
+  - [Define a filter action](#define-a-filter-action)
+  - [Define a highlight action](#define-a-highlight-action)
+  - [Define parameter actions](#define-parameter-actions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further resources
+  - [Further resources](#further-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the power of Tableau 2025 to your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/apply-the-power-of-tableau-2025-to-your-data?u=76281980)
@@ -168,7 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Tableau]] (4), data (2), power (2), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2025.1 (1)
 > **Definitions:** is a  (1)
@@ -223,7 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1)
+> **Frameworks & Libraries:** [[Tableau]] (11), [[Microsoft Excel|Excel]] (2), data (2), product (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** mba (1)
@@ -233,7 +233,7 @@ created: 2026-04-29
 
 ### 1. Introducing Tableau
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Download Tableau
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980)
@@ -284,7 +284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), for. (1)
+> **Frameworks & Libraries:** [[Tableau]] (19), data (6), product (4), [[Microsoft Products|Products]] (3), cloud (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **URLs:** [tableau.com](https://tableau.com) (1)
@@ -329,6 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Tableau]] (4), [[Search]] (2), [[Microsoft Excel]] (1), [[JSON]] (1)
 > **Env Vars:** pdf (2), json (1), sql (1)
 > **CLI Commands:** mysql (1), find (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -377,8 +378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (17), data (12), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -450,9 +451,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Tableau]] (5), web (3), [[Search]] (2), product (1)
 > **UI Navigation:** scroll down (3)
 > **Prerequisites:** getting started (3)
-> **Code Keywords:** this. (1), case, (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -460,7 +461,7 @@ created: 2026-04-29
 
 ### 2. Managing Data Sources and Visualizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to a data source
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980)
@@ -507,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), continue (1)
+> **Frameworks & Libraries:** data (9), [[Tableau]] (2), product (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Excel]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -576,6 +577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), product (8), data (7), [[Tableau]] (2), [[Microsoft Excel]] (2)
 > **Definitions:** is a  (3), is called (1)
 > **UI Navigation:** double-click (1), go to (1)
 > **Analogies:** for example (1), such as (1)
@@ -641,7 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (4), data (2), [[Tableau]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -723,9 +725,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Tableau]] (7), [[Microsoft Excel|Excel]] (6), [[Microsoft Excel]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), switch (1)
 > **Definitions:** short for (1), is a  (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** checkbox (1)
@@ -783,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** product (10), data (5), [[Tableau]] (2)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
@@ -823,7 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), public (1), switch (1)
+> **Frameworks & Libraries:** product (3), data (2), [[Tableau]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1), such as (1)
 > **Versions:** 44.5 (1)
@@ -874,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), continue (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), data (5), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -884,7 +886,7 @@ created: 2026-04-29
 
 ### 3. Managing Tableau Worksheets and Workbooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Display the data underlying a workbook
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980)
@@ -947,8 +949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Microsoft Products|Products]] (5), [[Tableau]] (2), product (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Versions:** 2025.1 (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -1017,8 +1019,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Tableau]] (3)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -1069,7 +1071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), while, (1), case, (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), next (2), data (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1106,8 +1108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Tableau]] (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** interface (1), case, (1)
 > **UI Navigation:** right-click (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1186,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), this, (2), case. (1)
+> **Frameworks & Libraries:** data (5), [[Tableau]] (2), next (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (3), means that (1)
 > **UI Navigation:** go to (1)
@@ -1275,7 +1277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1), type. (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Microsoft Office]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** f12 (3)
 > **UI Navigation:** go to (3)
@@ -1343,8 +1345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (1), next (1), web (1), application (1)
 > **Env Vars:** pdf (14)
-> **Code Keywords:** case, (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
@@ -1396,6 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (9), data (5), application (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1456,7 +1459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** export. (2), case, (2), interface (1), type: (1), switch (1)
+> **Frameworks & Libraries:** data (20), [[Tableau]] (3), [[Microsoft Excel|Excel]] (2), product (2)
 > **Env Vars:** csv (7)
 > **File Paths:** 03_09.csv (1)
 > **CLI Commands:** find (1)
@@ -1468,7 +1471,7 @@ created: 2026-04-29
 
 ### 4. Creating Custom Calculations and Fields
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Present Tableau operators and built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980)
@@ -1535,10 +1538,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (3), next (2), business (1), [[Programming]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sum (1), avg (1), min (1), max (1), abs (1)
 > **Versions:** 20.1 (2), 20.9 (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1641,7 +1644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** data (3), [[Tableau]] (2), product (1), next (1)
 > **Definitions:** is an  (1), stands for (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.11 (1)
@@ -1715,8 +1718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (2), next (2), product (1), data (1)
 > **Versions:** 0.89 (5)
-> **Code Keywords:** case, (2), delete (1), let (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1)
@@ -1807,7 +1810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (3), case, (2), let (1), type. (1)
+> **Frameworks & Libraries:** data (5), [[Tableau]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (2), select the (1)
@@ -1943,8 +1946,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Tableau]] (2), application (1)
 > **Env Vars:** lod (15)
-> **Code Keywords:** let (3), function (3), include, (1), include. (1), this, (1)
 > **CLI Commands:** find (5)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -1953,7 +1956,7 @@ created: 2026-04-29
 
 ### 5. Analyzing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate averages, medians, minimums, and maximums
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-averages-medians-minimums-and-maximums?u=76281980)
@@ -2028,8 +2031,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -2094,7 +2097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), public (1)
+> **Frameworks & Libraries:** product (8), data (4), [[Microsoft Products|Products]] (4), [[Tableau]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
@@ -2183,7 +2186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), finally, (1), interface (1)
+> **Frameworks & Libraries:** data (4), [[Tableau]] (3), next (2)
 > **UI Navigation:** go to (2), checkbox (1)
 > **CLI Commands:** find (2)
 > **Versions:** 253.5 (2)
@@ -2241,11 +2244,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), product (1), [[Tableau]] (1), [[Microsoft Office|Office]] (1)
 > **Versions:** 0.2 (1), 22.4 (1), 4.37 (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1), open the (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2306,7 +2309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), case, (1)
+> **Frameworks & Libraries:** data (6), next (3), business (2), [[Analytics]] (1), [[Tableau]] (1)
 > **UI Navigation:** go to (1), right-click (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -2316,7 +2319,7 @@ created: 2026-04-29
 
 ### 6. Sorting and Filtering Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sort based on a field’s values
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/sort-based-on-a-field-s-values?u=76281980)
@@ -2389,8 +2392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (1)
 > **UI Navigation:** go to (4)
-> **Code Keywords:** let (1), switch (1), case, (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -2452,7 +2455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (2), public (1), continue (1)
+> **Frameworks & Libraries:** product (5), data (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** opmhf (1), ohpmf (1)
 > **Cross-References:** go back to (1)
@@ -2513,9 +2516,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), data (3), [[Search]] (3), next (2), [[Microsoft Office|Office]] (2)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2586,6 +2589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Search]] (5), data (3), business (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** select the (2), scroll down (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
@@ -2656,8 +2660,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), data (3), [[Microsoft Products|Products]] (3), business (1), next (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** select the (2)
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise files (1)
@@ -2718,8 +2722,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (3)
-> **Code Keywords:** this. (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -2770,8 +2774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1), product (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** delete (1), let (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2844,7 +2848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Tableau]] (1), data (1), next (1), product (1)
 > **UI Navigation:** in the sidebar (1), select the (1), go to (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
@@ -2913,7 +2917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), continue (1)
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (2), data (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** be aware (1)
@@ -2922,7 +2926,7 @@ created: 2026-04-29
 
 ### 7. Defining Groups and Sets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define a group
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980)
@@ -2975,10 +2979,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), data (4), [[Microsoft Office|Office]] (1), database (1), [[Tableau]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** select the (1), in the sidebar (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3055,9 +3059,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), data (4), [[Tableau]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), interface (1)
 > **UI Navigation:** checkbox (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -3121,6 +3125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Tableau]] (3), data (2)
 > **CLI Commands:** find (8)
 > **Warnings:** note that (2)
 > **Env Vars:** o7_03 (1)
@@ -3195,7 +3200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), delete (3), finally, (1)
+> **Frameworks & Libraries:** product (3), [[Tableau]] (1), next (1), data (1)
 > **UI Navigation:** right-click (2), click on (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -3263,8 +3268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** case, (2), include, (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -3317,6 +3322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** find (3)
 > **UI Navigation:** in the sidebar (1), go to (1), scroll down (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -3442,7 +3448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (2), business (1), [[Tableau]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** in the toolbar (1), in the sidebar (1)
 > **Cross-References:** go back to (1)
@@ -3539,7 +3545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), case, (1), finally, (1)
+> **Frameworks & Libraries:** business (1)
 > **Definitions:** is an  (2), in other words (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -3548,7 +3554,7 @@ created: 2026-04-29
 
 ### 8. Creating Basic Visualizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create column and stacked column charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980)
@@ -3609,7 +3615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** data (7), product (4), [[Microsoft Office|Office]] (2), [[Tableau]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is called (1)
@@ -3704,7 +3710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** data (11), product (6), [[Tableau]] (1), next (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** in the sidebar (1)
@@ -3755,9 +3761,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), product (6), [[Tableau]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** in the sidebar (1), go to (1)
-> **Code Keywords:** case, (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -3855,9 +3861,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (4)
-> **Code Keywords:** default. (1), case, (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -3973,7 +3979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), extends (1)
+> **Frameworks & Libraries:** data (7), [[Tableau]] (3), [[Analytics]] (2), next (1), business (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** sum (2)
 > **Cross-References:** go back to (2)
@@ -4041,7 +4047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2), next (1), product (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -4110,7 +4116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Tableau]] (1)
 > **CLI Commands:** find (1)
 > **Versions:** 52.9 (1)
 > **Exercise Files:** exercise files (1)
@@ -4189,7 +4195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this, (1), for. (1), public (1)
+> **Frameworks & Libraries:** data (4), product (4), business (1), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
@@ -4198,7 +4204,7 @@ created: 2026-04-29
 
 ### 9. Managing Tableau Visualizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change the visual summary type
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-visual-summary-type?u=76281980)
@@ -4253,8 +4259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (3), product (2), data (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** type. (1), let (1), type, (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
@@ -4374,8 +4380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (3), data (2), product (1), [[Analytics]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (2), case, (1), default, (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -4443,7 +4449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (2), case, (1)
+> **Frameworks & Libraries:** generic (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** in the sidebar (1)
 > **Exercise Files:** exercise files (1)
@@ -4494,7 +4500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), interface (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), data (1), [[Microsoft PowerPoint]] (1)
 > **UI Navigation:** go to (2), switch to (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1)
@@ -4553,8 +4559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (1), product (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case, (1), continue (1)
 > **Definitions:** is called (2)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -4647,7 +4653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), let (1), delete (1)
+> **Frameworks & Libraries:** product (6), data (4), [[Tableau]] (2)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
@@ -4659,7 +4665,7 @@ created: 2026-04-29
 
 ### 10. Annotating and Formatting Visualizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Annotate a visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/annotate-a-visualization?u=76281980)
@@ -4698,7 +4704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -4812,8 +4818,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Tableau]] (3)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** case, (3), finally, (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise files (1)
@@ -4869,7 +4875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), case, (1), continue (1)
+> **Frameworks & Libraries:** product (4), [[Tableau]] (2)
 > **CLI Commands:** find (1)
 > **Versions:** 2025.1 (1)
 > **UI Navigation:** go to (1)
@@ -4963,7 +4969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1), delete (1), continue (1)
+> **Frameworks & Libraries:** data (4), [[Tableau]] (2), next (2), business (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 0.05 (2), 0.28 (1)
 > **UI Navigation:** go to (1)
@@ -5095,7 +5101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), type. (1), extends (1)
+> **Frameworks & Libraries:** data (7), next (2), [[Tableau]] (1), [[Microsoft Products|Products]] (1), business (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** go back to (1)
@@ -5105,7 +5111,7 @@ created: 2026-04-29
 
 ### 11. Mapping Geographic Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a basic map
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-basic-map?u=76281980)
@@ -5220,10 +5226,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (6), data (4), next (1)
 > **Env Vars:** zip (9)
 > **UI Navigation:** double-click (5), scroll down (2)
 > **Definitions:** is a  (4), is an  (1), refers to (1), means that (1)
-> **Code Keywords:** for. (1), let (1), from. (1), for, (1), case, (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** picture (1)
@@ -5332,8 +5338,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Tableau]] (1)
 > **UI Navigation:** go to (3), scroll down (3)
-> **Code Keywords:** let (1), interface (1), this, (1), case, (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
@@ -5400,6 +5406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Zoom]] (3), [[Microsoft Products|Products]] (1), [[Tableau]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** zip (1)
@@ -5407,7 +5414,6 @@ created: 2026-04-29
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** required to (1)
-> **Speakers:** - [presenter] (1)
 
 #### Disable pan and zoom in maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/disable-pan-and-zoom-in-maps?u=76281980)
@@ -5468,9 +5474,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (14), data (5), [[Tableau]] (2)
 > **UI Navigation:** go to (3), scroll up (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case, (2)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -5572,9 +5578,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (3), business (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), select the (1)
-> **Code Keywords:** include. (1), case, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -5582,7 +5588,7 @@ created: 2026-04-29
 
 ### 12. Creating Dashboards and Actions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Present data using story points and stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980)
@@ -5685,8 +5691,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), business (1), [[Tableau]] (1), data (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** double-click (2), go to (2), in the sidebar (1)
-> **Code Keywords:** let (2), finally, (1), interface (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** picture (1)
@@ -5738,7 +5744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), data (2), product (2), [[Tableau]] (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5775,6 +5781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (2), product (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -5864,8 +5871,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Tableau]] (3), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** type. (1), extends (1), default, (1), continue (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -5927,8 +5934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Dashboards]] (1), business (1), product (1), next (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), public (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -6054,7 +6061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (1), public (1)
+> **Frameworks & Libraries:** data (2), [[Tableau]] (2), [[Dashboards]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), checkbox (1)
 > **Analogies:** for example (2)
@@ -6185,7 +6192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), case. (1), switch (1)
+> **Frameworks & Libraries:** data (5), [[Analytics]] (1), [[Tableau]] (1)
 > **UI Navigation:** go to (4), select the (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2)
@@ -6197,7 +6204,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980)
@@ -6228,7 +6235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Tableau]] (9), data (2), product (1)
 > **CLI Commands:** find (1)
 > **URLs:** [tableau.com](https://tableau.com) (1)
 > **UI Navigation:** go to (1)

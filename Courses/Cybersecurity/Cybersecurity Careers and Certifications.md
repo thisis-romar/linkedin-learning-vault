@@ -41,7 +41,7 @@ tags:
   - skill/cybersecurity
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Careers%20and%20Certifications.md)
@@ -60,59 +60,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Cybersecurity careers and certifications
-  - Who this course is for
+  - [Cybersecurity careers and certifications](#cybersecurity-careers-and-certifications)
+  - [Who this course is for](#who-this-course-is-for)
 - [**1. Understanding the Cybersecurity Career Field**](#1-understanding-the-cybersecurity-career-field) (2 videos)
-  - An overview of cybersecurity key concepts
-  - Enabling technologies for cybersecurity
+  - [An overview of cybersecurity key concepts](#an-overview-of-cybersecurity-key-concepts)
+  - [Enabling technologies for cybersecurity](#enabling-technologies-for-cybersecurity)
 - [**2. Cybersecurity Marketplace**](#2-cybersecurity-marketplace) (5 videos)
-  - Government (FISMA)
-  - Financial institutions (GLBA)
-  - Healthcare (HIPAA)
-  - Corporate (SOX)
-  - Retail (PCI DSS)
+  - [Government (FISMA)](#government-fisma)
+  - [Financial institutions (GLBA)](#financial-institutions-glba)
+  - [Healthcare (HIPAA)](#healthcare-hipaa)
+  - [Corporate (SOX)](#corporate-sox)
+  - [Retail (PCI DSS)](#retail-pci-dss)
 - [**3. Cybersecurity Success Traits**](#3-cybersecurity-success-traits) (3 videos)
-  - Analytical and technology savvy
-  - Self-directed and knowledge hungry
-  - Collaborative and works well with others
+  - [Analytical and technology savvy](#analytical-and-technology-savvy)
+  - [Self-directed and knowledge hungry](#self-directed-and-knowledge-hungry)
+  - [Collaborative and works well with others](#collaborative-and-works-well-with-others)
 - [**4. Cybersecurity Careers**](#4-cybersecurity-careers) (10 videos)
-  - Cybersecurity careers overview
-  - Cybersecurity career: Specialist or technician
-  - Cybersecurity career: Analyst
-  - Cybersecurity career: Auditor
-  - Cybersecurity career: Consultant
-  - Cybersecurity career: Engineer
-  - Cybersecurity career: Administrator
-  - Cybersecurity career: Architect
-  - Cybersecurity career: Manager
-  - Cybersecurity career: Director
+  - [Cybersecurity careers overview](#cybersecurity-careers-overview)
+  - [Cybersecurity career: Specialist or technician](#cybersecurity-career-specialist-or-technician)
+  - [Cybersecurity career: Analyst](#cybersecurity-career-analyst)
+  - [Cybersecurity career: Auditor](#cybersecurity-career-auditor)
+  - [Cybersecurity career: Consultant](#cybersecurity-career-consultant)
+  - [Cybersecurity career: Engineer](#cybersecurity-career-engineer)
+  - [Cybersecurity career: Administrator](#cybersecurity-career-administrator)
+  - [Cybersecurity career: Architect](#cybersecurity-career-architect)
+  - [Cybersecurity career: Manager](#cybersecurity-career-manager)
+  - [Cybersecurity career: Director](#cybersecurity-career-director)
 - [**5. Cybersecurity Certifications**](#5-cybersecurity-certifications) (9 videos)
-  - Cybersecurity certifications overview
-  - Cybersecurity certification: GSEC
-  - Cybersecurity certification: SSCP
-  - Cybersecurity certification: CEH
-  - Cybersecurity certification: OSCP
-  - Cybersecurity certification: CISA
-  - Cybersecurity certification: CISSP
-  - Cybersecurity certification: CISM
-  - Cybersecurity certification: CPP
+  - [Cybersecurity certifications overview](#cybersecurity-certifications-overview)
+  - [Cybersecurity certification: GSEC](#cybersecurity-certification-gsec)
+  - [Cybersecurity certification: SSCP](#cybersecurity-certification-sscp)
+  - [Cybersecurity certification: CEH](#cybersecurity-certification-ceh)
+  - [Cybersecurity certification: OSCP](#cybersecurity-certification-oscp)
+  - [Cybersecurity certification: CISA](#cybersecurity-certification-cisa)
+  - [Cybersecurity certification: CISSP](#cybersecurity-certification-cissp)
+  - [Cybersecurity certification: CISM](#cybersecurity-certification-cism)
+  - [Cybersecurity certification: CPP](#cybersecurity-certification-cpp)
 - [**6. Your Cybersecurity Career Path**](#6-your-cybersecurity-career-path) (4 videos)
-  - Prerequisites
-  - Getting started: Get certified
-  - Example career path: Penetration tester
-  - Example career path: Security architect
+  - [Prerequisites](#prerequisites)
+  - [Getting started: Get certified](#getting-started-get-certified)
+  - [Example career path: Penetration tester](#example-career-path-penetration-tester)
+  - [Example career path: Security architect](#example-career-path-security-architect)
 - [**7. Cybersecurity Career Advice**](#7-cybersecurity-career-advice) (5 videos)
-  - Begin with the end in mind
-  - Network with cybersecurity colleagues
-  - Participate in cybersecurity events
-  - Market yourself
-  - Build depth of knowledge
+  - [Begin with the end in mind](#begin-with-the-end-in-mind)
+  - [Network with cybersecurity colleagues](#network-with-cybersecurity-colleagues)
+  - [Participate in cybersecurity events](#participate-in-cybersecurity-events)
+  - [Market yourself](#market-yourself)
+  - [Build depth of knowledge](#build-depth-of-knowledge)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your career and continuing education journey
+  - [Continue your career and continuing education journey](#continue-your-career-and-continuing-education-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity careers and certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980)
@@ -137,8 +137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), career (6), [[Security]] (4), data (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
@@ -175,14 +175,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), career (5), [[Security]] (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding the Cybersecurity Career Field
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of cybersecurity key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980)
@@ -253,10 +253,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), [[Cybersecurity]] (10), career (4), web (2), [[NIST]] (2)
 > **Env Vars:** cia (8), nist (2), iso (1), iec (1), csf (1)
 > **CLI Commands:** find (3)
 > **Definitions:** stands for (1), is an  (1), refers to (1)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -326,8 +326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Cryptography]] (6), career (3), [[Security]] (3), data (2)
 > **Prerequisites:** you'll need (6), you need to have (1)
-> **Code Keywords:** let (1), for, (1), private (1), public (1)
 > **Env Vars:** osi (1), aes (1), rsa (1), ecc (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -335,7 +335,7 @@ created: 2026-04-29
 
 ### 2. Cybersecurity Marketplace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Government (FISMA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980)
@@ -384,7 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (15), [[Security]] (3), [[Cybersecurity Careers]] (2), career (1), [[Information Security Management]] (1)
 > **Env Vars:** fisma (3)
 > **CLI Commands:** make (1)
 > **URLs:** [cybercareers.gov](https://cybercareers.gov) (1)
@@ -443,8 +443,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), [[Security]] (5), next (1), data (1)
 > **Env Vars:** glba (3)
-> **Code Keywords:** continue (1)
 > **URLs:** [cyberseek.org](https://cyberseek.org) (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -492,8 +492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (7), [[Accountability]] (1), next (1), [[Healthcare Industry]] (1)
 > **Env Vars:** hipaa (5)
-> **Code Keywords:** protected (1), continue (1)
 > **Code Identifiers:** ephi (2)
 > **URLs:** [cyberseek.org](https://cyberseek.org) (1)
 > **Speakers:** - [instructor] (1)
@@ -543,8 +543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (5), data (3), [[Financial Data]] (2), business (1)
 > **Env Vars:** sox (4)
-> **Code Keywords:** require (2), continue (1)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -598,9 +598,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), data (4), [[Security]] (4), business (1), [[E-Commerce]] (1)
 > **Env Vars:** pcidss (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **URLs:** [cyberseek.org](https://cyberseek.org) (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - there (1)
@@ -608,7 +608,7 @@ created: 2026-04-29
 
 ### 3. Cybersecurity Success Traits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analytical and technology savvy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980)
@@ -657,6 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (6), career (3), [[Hardware]] (3), data (2)
 > **CLI Commands:** python (1), find (1)
 > **Definitions:** is a  (2)
 > **Tools:** powershell (1)
@@ -719,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6), let (2), this, (2), require (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (4), career (3), next (1), [[Flux]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
@@ -767,6 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security]] (3), career (1), teams (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -775,7 +777,7 @@ created: 2026-04-29
 
 ### 4. Cybersecurity Careers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity careers overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980)
@@ -826,9 +828,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), career (5), [[Cybersecurity]] (4), application (1), [[Cybersecurity Careers]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** type: (1), finally, (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - there (1)
 
@@ -875,9 +877,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (18), [[Security]] (10), career (2), [[Network Security]] (1), [[Computer Networking]] (1)
 > **Env Vars:** tcp (1), ids (1), ips (1), dlp (1), iso (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** require (1), for. (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
@@ -945,8 +947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (17), [[Security]] (6), data (2), traffic (2), [[Incident Response]] (1)
 > **Env Vars:** tcp (1), osi (1), ccna (1), sans (1), giac (1)
-> **Code Keywords:** require (3), else. (1), finally, (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** python (1)
@@ -1003,9 +1005,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (17), [[Security]] (11), [[Windows]] (1), [[Linux]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** iso (2), ffiec (1), hipaa (1), pci (1), nerc (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** require (2)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1057,8 +1059,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (13), [[Security]] (11), database (1), [[Network Security]] (1), [[Network Administration]] (1)
 > **Env Vars:** unix (1), iso (1), itil (1), cobit (1), pci (1)
-> **Code Keywords:** require (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1112,8 +1114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), [[Cybersecurity]] (13), [[Windows]] (3), [[Linux]] (2), [[Scripting]] (2)
 > **Env Vars:** ids (1), ips (1), dns (1), ceh (1), giac (1)
-> **Code Keywords:** require (2)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (1), configure (1)
 > **CLI Commands:** python (1)
@@ -1160,9 +1162,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Security]] (9), management (3), [[Network Security]] (1), [[Windows]] (1)
 > **Env Vars:** tcp (2), ssl (1), tls (1), http (1), dns (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** require (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - cybersecurity (1)
@@ -1214,8 +1216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), [[Cybersecurity]] (11), teams (1), [[System Administration]] (1), [[Windows]] (1)
 > **Env Vars:** cissp (2), ids (1), ips (1), issap (1), cism (1)
-> **Code Keywords:** require (2), this, (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1266,8 +1268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), [[Cybersecurity]] (13), leadership (2), management (1), teams (1)
 > **Env Vars:** cissp (2), iso (1), itil (1), covid (1), pci (1)
-> **Code Keywords:** require (2)
 > **Analogies:** picture (1), such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [speaker] (1)
@@ -1319,15 +1321,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (14), [[Security]] (14), management (4), teams (2), leadership (2)
 > **Env Vars:** ciso (2), cissp (2), tcp (1), dns (1), vpn (1)
-> **Code Keywords:** require (2)
 > **Analogies:** picture (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Cybersecurity Certifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity certifications overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certifications-overview?u=76281980)
@@ -1380,8 +1382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (13), career (4), [[Security]] (3)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** while. (1), require (1)
 > **Analogies:** such as (1)
 > **Speakers:** - certifications (1)
 
@@ -1416,8 +1418,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), cloud (3), [[Network Security]] (2), [[Linux]] (2), [[Cybersecurity]] (2)
 > **Env Vars:** gsec (8), giac (5), aws (1), sans (1)
-> **Code Keywords:** require (1), include: (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
@@ -1454,8 +1456,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (2), [[Incident Response]] (1), [[Cryptography]] (1), application (1)
 > **Env Vars:** sscp (12), isc (6)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1494,8 +1496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), web (2), application (1), traffic (1), [[Engineering]] (1)
 > **Env Vars:** ceh (7), sql (1), ece (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1546,8 +1548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OSCP]] (9), [[Penetration Testing]] (6), [[Security]] (3), [[Cybersecurity]] (3), [[Kali Linux]] (1)
 > **Env Vars:** oscp (9), pen (3), pwk (1), tcp (1), sql (1)
-> **Code Keywords:** pass (3), require (2), include: (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** find (1)
 > **Documentation:** reference guide (1)
@@ -1590,8 +1592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (3), management (1), [[LinkedIn]] (1)
 > **Env Vars:** cisa (10), isaca (3)
-> **Code Keywords:** require (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -1633,9 +1635,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), [[Cybersecurity]] (4), management (2), [[LinkedIn]] (2), [[Engineering]] (1)
 > **Env Vars:** cissp (8), isc (4), sscp (1), ccsp (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Cybersecurity certification: CISM
@@ -1675,8 +1677,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (7), [[Security]] (7), [[Cybersecurity]] (5), [[Information Security Management]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cism (9), isaca (3)
-> **Code Keywords:** include, (3), require (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [narrator] (1)
@@ -1720,16 +1722,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), [[Cybersecurity]] (4), management (3), business (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cpp (7), asis (3), cism (1), poa (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** function (2), require (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - the (1)
 
 
 ### 6. Your Cybersecurity Career Path
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/prerequisites?u=76281980)
@@ -1776,6 +1778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (5)
 > **CLI Commands:** find (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - there (1)
@@ -1859,9 +1862,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security]] (2), [[Forms]] (2), application (1), career (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** cissp (2), cisa (1), cism (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** in other words (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** don't make the mistake (1)
@@ -1924,9 +1927,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[OSCP]] (4), [[Computer Networking]] (3), career (2), [[Penetration Testing]] (2)
 > **Env Vars:** oscp (4), sql (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Tools:** command prompt (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
@@ -1992,15 +1995,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Security]] (7), career (3), [[Network Security]] (2), [[Telecommunications]] (1)
 > **Env Vars:** cissp (2), giac (1), gsec (1)
-> **Code Keywords:** let (1), try. (1), finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 7. Cybersecurity Career Advice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Begin with the end in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980)
@@ -2039,9 +2042,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (8), [[Cybersecurity]] (3), [[Security]] (1), [[LinkedIn]] (1), [[Cybersecurity Careers]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ciso (3)
-> **Code Keywords:** let (1), case, (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
@@ -2099,8 +2102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), [[Cybersecurity]] (2), career (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Participate in cybersecurity events
@@ -2146,9 +2149,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), leadership (5), [[Cybersecurity]] (1), cloud (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** isaca (2), issa (2), cpe (2), cissp (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Market yourself
@@ -2202,8 +2205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (7), career (4), [[Cybersecurity]] (3), [[Security]] (3), [[Resume Writing]] (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** self (1)
 > **Analogies:** picture (1)
 > **Speakers:** - even (1)
 
@@ -2266,8 +2269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), [[Digital Forensics]] (2), [[LinkedIn]] (2), [[Cybersecurity]] (1), [[Newsletters]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** isaca (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -2277,7 +2280,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your career and continuing education journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980)
@@ -2300,6 +2303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), career (3), [[LinkedIn]] (2)
 > **CLI Commands:** find (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - in (1)

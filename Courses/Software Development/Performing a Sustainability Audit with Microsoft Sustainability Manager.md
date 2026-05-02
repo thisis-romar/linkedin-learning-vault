@@ -28,7 +28,7 @@ tags:
   - skill/sustainability
   - skill/microsoft-s-cloud-for-sustainability
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Performing%20a%20Sustainability%20Audit%20with%20Microsoft%20Sustainability%20Manager.md)
@@ -47,50 +47,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to Microsoft Cloud for Sustainability
-  - The five Rs in Microsoft Cloud for Sustainability
+  - [Introduction to Microsoft Cloud for Sustainability](#introduction-to-microsoft-cloud-for-sustainability)
+  - [The five Rs in Microsoft Cloud for Sustainability](#the-five-rs-in-microsoft-cloud-for-sustainability)
 - [**1. Explore and Overview of Case Study**](#1-explore-and-overview-of-case-study) (1 videos)
-  - Case study overview: Global supply chain
+  - [Case study overview: Global supply chain](#case-study-overview-global-supply-chain)
 - [**2. Well-Architected for Microsoft Cloud for Sustainability**](#2-well-architected-for-microsoft-cloud-for-sustainability) (6 videos)
-  - Building and operating sustainability solutions
-  - Microsoft Sustainability Manager: Well-architected assessment
-  - Design principles
-  - Microsoft Sustainability Manager journey
-  - Types of data
-  - Data management considerations
+  - [Building and operating sustainability solutions](#building-and-operating-sustainability-solutions)
+  - [Microsoft Sustainability Manager: Well-architected assessment](#microsoft-sustainability-manager-well-architected-assessment)
+  - [Design principles](#design-principles)
+  - [Microsoft Sustainability Manager journey](#microsoft-sustainability-manager-journey)
+  - [Types of data](#types-of-data)
+  - [Data management considerations](#data-management-considerations)
 - [**3. Deploying Microsoft Cloud for Sustainability**](#3-deploying-microsoft-cloud-for-sustainability) (2 videos)
-  - Acquiring licenses
-  - Microsoft Cloud Solution Center
+  - [Acquiring licenses](#acquiring-licenses)
+  - [Microsoft Cloud Solution Center](#microsoft-cloud-solution-center)
 - [**4. Microsoft Sustainability Manager**](#4-microsoft-sustainability-manager) (11 videos)
-  - Walkthrough of MSM
-  - Remove sample data
-  - Define your organization
-  - Value chain
-  - Set up reference data
-  - Set up calculations
-  - Import data
-  - Run a calculation
-  - Validate analytics and set reports
-  - Define sustainability goals
-  - Set up Teams collaboration
+  - [Walkthrough of MSM](#walkthrough-of-msm)
+  - [Remove sample data](#remove-sample-data)
+  - [Define your organization](#define-your-organization)
+  - [Value chain](#value-chain)
+  - [Set up reference data](#set-up-reference-data)
+  - [Set up calculations](#set-up-calculations)
+  - [Import data](#import-data)
+  - [Run a calculation](#run-a-calculation)
+  - [Validate analytics and set reports](#validate-analytics-and-set-reports)
+  - [Define sustainability goals](#define-sustainability-goals)
+  - [Set up Teams collaboration](#set-up-teams-collaboration)
 - [**5. Working with the ESG Data Model**](#5-working-with-the-esg-data-model) (3 videos)
-  - Introducing Dataverse
-  - Introduction to the ESG data model
-  - Extending the ESG data model
+  - [Introducing Dataverse](#introducing-dataverse)
+  - [Introduction to the ESG data model](#introduction-to-the-esg-data-model)
+  - [Extending the ESG data model](#extending-the-esg-data-model)
 - [**6. Managing the ESG Value Chain**](#6-managing-the-esg-value-chain) (2 videos)
-  - Understanding the ESG value chain
-  - Setting up value chain surveys
+  - [Understanding the ESG value chain](#understanding-the-esg-value-chain)
+  - [Setting up value chain surveys](#setting-up-value-chain-surveys)
 - [**7. Sustainable IT Practices**](#7-sustainable-it-practices) (2 videos)
-  - Measuring the carbon footprint of your IT infrastructure
-  - Using Impact Emissions Dashboards
+  - [Measuring the carbon footprint of your IT infrastructure](#measuring-the-carbon-footprint-of-your-it-infrastructure)
+  - [Using Impact Emissions Dashboards](#using-impact-emissions-dashboards)
 - [**8. Preview Features**](#8-preview-features) (1 videos)
-  - Preview features not covered in the course
+  - [Preview features not covered in the course](#preview-features-not-covered-in-the-course)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go from here
+  - [Where to go from here](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Microsoft Cloud for Sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980)
@@ -115,7 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), cloud (3), [[Climate Change]] (2), [[Microsoft]] (2), business (1)
 > **Versions:** 1.2 (1)
 > **Speakers:** - the (1)
 
@@ -130,7 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft]] (4), cloud (3), data (2), business (1)
 > **Env Vars:** esg (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - let (1)
@@ -138,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Explore and Overview of Case Study
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Case study overview: Global supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980)
@@ -163,13 +163,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Sustainability]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1), cloud (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Well-Architected for Microsoft Cloud for Sustainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building and operating sustainability solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980)
@@ -208,7 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), self (1)
+> **Frameworks & Libraries:** cloud (6), [[Microsoft]] (4), [[Sustainability]] (1), [[Microsoft Azure]] (1), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -231,7 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Sustainability]] (2), application (1)
 > **Speakers:** - [instructor] (1)
 
 #### Design principles
@@ -301,7 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), public (1)
+> **Frameworks & Libraries:** data (12), [[Sustainability]] (9), business (4), [[Microsoft]] (4), application (3)
 > **Env Vars:** etl (2)
 > **Prerequisites:** set up (1), configure (1)
 > **Speakers:** - [instructor] (1)
@@ -349,7 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** import, (1)
+> **Frameworks & Libraries:** data (12), [[Sustainability]] (5), [[Microsoft]] (3), management (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -391,7 +392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (20), [[Sustainability]] (2), management (2), [[Microsoft]] (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -437,14 +438,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** import. (1), export. (1)
+> **Frameworks & Libraries:** data (16), [[Sustainability]] (5), [[Microsoft]] (3), management (2), [[Data Transformation]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Deploying Microsoft Cloud for Sustainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Acquiring licenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980)
@@ -465,7 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), power (5), bi (2), [[Sustainability]] (2), cloud (1)
 > **Env Vars:** esg (1)
 > **Speakers:** - [instructor] (1)
 
@@ -530,8 +531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (13), [[Sustainability]] (8), next (6), data (3), [[LinkedIn]] (1)
 > **UI Navigation:** click on (8), navigate to (1), scroll down (1)
-> **Code Keywords:** private (1), let (1), continue (1)
 > **Env Vars:** epa (1), esg (1)
 > **Analogies:** such as (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -540,7 +541,7 @@ created: 2026-04-29
 
 ### 4. Microsoft Sustainability Manager
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Walkthrough of MSM
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980)
@@ -591,8 +592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft]] (3), [[Sustainability]] (3), [[Analytics]] (1), [[Dashboards]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** msm (1)
 > **UI Navigation:** click on (1)
 > **Best Practices:** remember to (1)
@@ -618,6 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (1), [[Analytics]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -672,8 +674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), [[Sustainability]] (1)
 > **Prerequisites:** set up (2), configure (2)
-> **Code Keywords:** else. (1), default, (1), let (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -713,6 +715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (3), [[Sustainability]] (2), application (1), [[Microsoft]] (1)
 > **Prerequisites:** install (3), configure (3), set up (2)
 > **Env Vars:** esg (4)
 > **Exercise Files:** template (4)
@@ -899,9 +902,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (60), [[Microsoft Excel|Excel]] (4), next (2), [[Sustainability]] (2), application (1)
 > **UI Navigation:** click on (9), go to (5), scroll down (1), in the tab (1)
 > **CLI Commands:** find (11), make (1)
-> **Code Keywords:** new, (5), let (2), new. (2), type, (1)
 > **Prerequisites:** set up (8), you'll need (1), configure (1)
 > **Analogies:** such as (2), for example (1), similar to (1)
 > **Definitions:** means that (1)
@@ -984,9 +987,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Sustainability]] (2), [[Microsoft]] (1), node (1), next (1)
 > **UI Navigation:** select the (4), open the (1)
 > **CLI Commands:** find (1), make (1), node (1)
-> **Code Keywords:** type. (1), let (1), for, (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** msm (1)
 > **Definitions:** is a  (1)
@@ -1042,7 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (22), [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1), [[Sustainability]] (1), business (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Prerequisites:** before you begin (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1079,6 +1082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1), [[Analytics]] (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1133,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), new. (1), let (1)
+> **Frameworks & Libraries:** data (15), [[Analytics]] (9), ai (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1175,6 +1179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Sustainability]] (1), [[Analytics]] (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -1199,6 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), teams (3), [[Sustainability]] (2), [[Microsoft]] (2), [[Analytics]] (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** esg (1)
@@ -1208,7 +1214,7 @@ created: 2026-04-29
 
 ### 5. Working with the ESG Data Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Dataverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introducing-dataverse?u=76281980)
@@ -1231,7 +1237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (7), business (1), [[Microsoft Power Query|Power query]] (1), power (1)
 > **Env Vars:** esg (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1258,7 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), let (1)
+> **Frameworks & Libraries:** data (9), [[Sustainability]] (6), [[Microsoft]] (4), cloud (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1300,6 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (6), data (6), [[Sustainability]] (5), power (5), cloud (2)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** esg (1)
@@ -1311,7 +1318,7 @@ created: 2026-04-29
 
 ### 6. Managing the ESG Value Chain
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the ESG value chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/understanding-the-esg-value-chain?u=76281980)
@@ -1334,8 +1341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft]] (1), power (1)
 > **Env Vars:** esg (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1367,6 +1374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), [[Microsoft]] (2), [[Sustainability]] (2), data (2), [[Microsoft Copilot|Copilot]] (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -1374,7 +1382,7 @@ created: 2026-04-29
 
 ### 7. Sustainable IT Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring the carbon footprint of your IT infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/measuring-the-carbon-footprint-of-your-it-infrastructure?u=76281980)
@@ -1391,6 +1399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Dashboards]] (1), power (1), bi (1)
 > **Speakers:** - [narrator] (1)
 
 #### Using Impact Emissions Dashboards
@@ -1408,14 +1417,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft 365]] (3), power (2), bi (2), next (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 8. Preview Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preview features not covered in the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980)
@@ -1448,16 +1457,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Sustainability]] (5), [[Microsoft]] (4), cloud (2), feature (1)
 > **Env Vars:** esg (5), csrd (2), esrs (1), api (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** type, (1), self (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980)
@@ -1496,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), data (5), [[Microsoft]] (2), [[LinkedIn]] (2), cloud (1)
 > **Env Vars:** faq (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)

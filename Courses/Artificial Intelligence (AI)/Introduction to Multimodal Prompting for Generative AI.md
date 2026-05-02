@@ -41,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Multimodal%20Prompting%20for%20Generative%20AI.md)
@@ -60,35 +60,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - GenAI with multimodal prompts
+  - [GenAI with multimodal prompts](#genai-with-multimodal-prompts)
 - [**1. Multimodality**](#1-multimodality) (3 videos)
-  - What is multimodality?
-  - Visual modality
-  - Textual and auditory modality
+  - [What is multimodality?](#what-is-multimodality)
+  - [Visual modality](#visual-modality)
+  - [Textual and auditory modality](#textual-and-auditory-modality)
 - [**2. GPT-4**](#2-gpt-4) (5 videos)
-  - GPT-4 and 4o
-  - Text to image in GPT-4
-  - GPT-4 API with various input types
-  - Challenge: Drawing to code
-  - Solution: Drawing to code
+  - [GPT-4 and 4o](#gpt-4-and-4o)
+  - [Text to image in GPT-4](#text-to-image-in-gpt-4)
+  - [GPT-4 API with various input types](#gpt-4-api-with-various-input-types)
+  - [Challenge: Drawing to code](#challenge-drawing-to-code)
+  - [Solution: Drawing to code](#solution-drawing-to-code)
 - [**3. Gemini**](#3-gemini) (5 videos)
-  - What is Gemini?
-  - Images in Gemini
-  - Gemini video inputs
-  - Challenge: Video narration
-  - Solution: Video narration
+  - [What is Gemini?](#what-is-gemini)
+  - [Images in Gemini](#images-in-gemini)
+  - [Gemini video inputs](#gemini-video-inputs)
+  - [Challenge: Video narration](#challenge-video-narration)
+  - [Solution: Video narration](#solution-video-narration)
 - [**4. Auditory Modalities**](#4-auditory-modalities) (5 videos)
-  - Audio in generative AI
-  - Prompt and audio
-  - Generating music
-  - Challenge: Soundtrack creation
-  - Solution: Soundtrack creation
+  - [Audio in generative AI](#audio-in-generative-ai)
+  - [Prompt and audio](#prompt-and-audio)
+  - [Generating music](#generating-music)
+  - [Challenge: Soundtrack creation](#challenge-soundtrack-creation)
+  - [Solution: Soundtrack creation](#solution-soundtrack-creation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI with multimodal prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (2), [[GPT-4]] (1), [[Gemini]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** such as (1)
 > **Speakers:** - use (1)
@@ -121,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Multimodality
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is multimodality?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-multimodality?u=76281980)
@@ -162,9 +162,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** refers to (1), is a  (1), is an  (1)
 > **Analogies:** such as (2), similar to (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - before (1)
 
@@ -189,7 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** prompt (2), web (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -223,7 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), while, (1)
+> **Frameworks & Libraries:** prompt (3), power (1), [[Generative AI]] (1), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -232,7 +232,7 @@ created: 2026-04-29
 
 ### 2. GPT-4
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GPT-4 and 4o
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-and-4o?u=76281980)
@@ -302,6 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3), prompt (3), ai (1), management (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
@@ -378,8 +379,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OpenAI API]] (2), api (2), [[JSON]] (2), generic (2), [[ChatGPT]] (1)
 > **Env Vars:** api (4), gpt (3), url (2), json (2), open_ai_api_key (1)
-> **Code Keywords:** interface (3), finally, (2), this, (1), pass (1), let (1)
 > **CLI Commands:** python3 (2), python (1), pip (1), find (1), make (1)
 > **Prerequisites:** install (3)
 > **File Paths:** test_vision.py (1)
@@ -439,9 +440,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), ai (1), management (1), [[ChatGPT]] (1), prompt (1)
 > **Env Vars:** gpt (5), html (1), css (1)
 > **CLI Commands:** make (4), python3 (2)
-> **Code Keywords:** interface (2)
 > **Non-Speech:** (upbeat music) (1), (keyboard clicking) (1)
 > **File Paths:** index.html (1)
 > **UI Navigation:** go to (1)
@@ -451,7 +452,7 @@ created: 2026-04-29
 
 ### 3. Gemini
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Gemini?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980)
@@ -482,7 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Gemini]] (4), [[Google]] (3), feature (1), [[Tokens]] (1), ai (1)
 > **Versions:** 1.5 (1)
 > **Speakers:** - gemini (1)
 
@@ -545,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Gemini]] (2), ai (2), [[Prompt Engineering]] (2), product (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cta (1)
 > **Exercise Files:** exercise files (1)
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** [[Gemini]] (3), ai (2), [[Google]] (1), [[Tokens]] (1), prompt (1)
 > **Versions:** 1.5 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -618,8 +619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (1), ai (1), next (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** interface (1), let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light upbeat music) (1)
@@ -669,14 +670,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), super (1)
+> **Frameworks & Libraries:** ai (2), [[Gemini]] (1), prompt (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Auditory Modalities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Audio in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/audio-in-generative-ai?u=76281980)
@@ -705,7 +706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** ai (1), [[Gemini]] (1), prompt (1)
 > **Versions:** 1.5 (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -742,6 +743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Tokens]] (2), ai (1), next (1), prompt (1)
 > **Versions:** 1.5 (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -768,6 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), prompt (1), [[Generative AI]] (1)
 > **URLs:** [withgoogle.com](https://withgoogle.com) (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -795,6 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -823,13 +827,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Non-Speech:** (upbeat music) (2)
-> **Code Keywords:** super (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980)
@@ -862,8 +865,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (4), ai (3), [[Generative AI]] (3), [[LinkedIn]] (2), [[Google Gemini]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** gpt (1)
 > **Versions:** 1.5 (1)
 > **Cross-References:** in the next (1)

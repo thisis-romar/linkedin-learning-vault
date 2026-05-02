@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Apply%20Ethical%20AI%20Principles%20Using%20the%20Responsible%20AI%20Dashboard.md)
@@ -51,29 +51,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Responsible AI dashboard
-  - What you should know
+  - [Responsible AI dashboard](#responsible-ai-dashboard)
+  - [What you should know](#what-you-should-know)
 - [**1. Foundations of Responsible AI**](#1-foundations-of-responsible-ai) (5 videos)
-  - What is responsible AI?
-  - Microsoft responsible AI principles
-  - Tools for responsible AI
-  - What is the responsible AI dashboard?
-  - Ways to use the responsible AI dashboard
+  - [What is responsible AI?](#what-is-responsible-ai)
+  - [Microsoft responsible AI principles](#microsoft-responsible-ai-principles)
+  - [Tools for responsible AI](#tools-for-responsible-ai)
+  - [What is the responsible AI dashboard?](#what-is-the-responsible-ai-dashboard)
+  - [Ways to use the responsible AI dashboard](#ways-to-use-the-responsible-ai-dashboard)
 - [**2. Using the Responsible AI Dashboard**](#2-using-the-responsible-ai-dashboard) (8 videos)
-  - Creating the responsible AI dashboard
-  - Error analysis component
-  - Model overview and performance analysis component
-  - Data analysis component
-  - Feature importances component
-  - Counterfactuals component
-  - Causal analysis component
-  - Using the responsible AI dashboard in Azure ML Studio
+  - [Creating the responsible AI dashboard](#creating-the-responsible-ai-dashboard)
+  - [Error analysis component](#error-analysis-component)
+  - [Model overview and performance analysis component](#model-overview-and-performance-analysis-component)
+  - [Data analysis component](#data-analysis-component)
+  - [Feature importances component](#feature-importances-component)
+  - [Counterfactuals component](#counterfactuals-component)
+  - [Causal analysis component](#causal-analysis-component)
+  - [Using the responsible AI dashboard in Azure ML Studio](#using-the-responsible-ai-dashboard-in-azure-ml-studio)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980)
@@ -96,7 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Microsoft]] (2), ai (1)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [rodrigo] (1)
 
@@ -137,9 +137,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Responsible AI]] (3), [[Programming]] (3), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2)
 > **Tools:** jupyter (3), github (2), azure portal (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** this, (1)
 > **Exercise Files:** github repo (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is responsible AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980)
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (1)
 > **Speakers:** - [narrator] (1)
 
 #### Microsoft responsible AI principles
@@ -206,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (9), [[Microsoft]] (3), data (2), [[Responsible AI]] (2), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Definitions:** refers to (1)
@@ -245,8 +245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Responsible AI]] (2), ai (1), [[Causal Inference]] (1), [[Microsoft]] (1)
 > **Analogies:** picture (1), for example (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
@@ -273,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (6), data (4), [[Debugging]] (1), [[Decision-Making]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** switch (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -298,14 +298,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Responsible AI]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
-> **Code Keywords:** interface (1), case, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Using the Responsible AI Dashboard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the responsible AI dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980)
@@ -376,7 +376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), pass (2), let (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (10), [[Python (Programming Language)|Python]] (2), feature (2), [[Microsoft Azure|Azure]] (1), next (1)
 > **Tools:** jupyter (3), visual studio (2), github (1)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -470,7 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), finally, (1)
+> **Frameworks & Libraries:** data (4), ai (3), node (3), [[Responsible AI]] (2), game (1)
 > **CLI Commands:** node (3), find (1)
 > **UI Navigation:** click on (3), navigate to (1)
 > **Analogies:** for example (1), it's like (1), for instance (1)
@@ -538,7 +538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (1)
+> **Frameworks & Libraries:** data (2), [[Probability]] (2), feature (1), ai (1), node (1)
 > **UI Navigation:** click on (3), scroll up (1), scroll down (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** go back to (1)
@@ -577,7 +577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), type. (1)
+> **Frameworks & Libraries:** data (10), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -637,7 +637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1)
+> **Frameworks & Libraries:** feature (6)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** scroll down (2), click on (1), navigate to (1)
 > **Cross-References:** go back to (1)
@@ -710,7 +710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1)
+> **Frameworks & Libraries:** [[Probability]] (3), data (1), feature (1)
 > **Analogies:** for instance (2), for example (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -776,7 +776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), if, (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (4), [[Responsible AI]] (2), [[Python (Programming Language)|Python]] (1), feature (1)
 > **CLI Commands:** make (3), python (1), find (1)
 > **UI Navigation:** scroll down (2), navigate to (1), select the (1)
 > **Versions:** python 3 (1), 10.12 (1)
@@ -845,7 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1), this. (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (6), [[Microsoft Azure|Azure]] (5), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Git]] (1)
 > **Tools:** jupyter (2), terminal (1), github (1), visual studio (1)
 > **UI Navigation:** navigate to (3), open the (1)
 > **CLI Commands:** python (2), git (1)
@@ -857,7 +857,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980)
@@ -886,7 +886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), ai (2), [[Ethics]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Speakers:** - [narrator] (1)
 

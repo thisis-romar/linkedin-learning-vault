@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20to%20IT%20Automation.md)
@@ -41,45 +41,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - An overview of IT automation
-  - What you should know
+  - [An overview of IT automation](#an-overview-of-it-automation)
+  - [What you should know](#what-you-should-know)
 - [**1. What Is IT Automation?**](#1-what-is-it-automation) (6 videos)
-  - What is IT automation?
-  - Why should you use IT automation?
-  - How does IT automation work?
-  - Advantages of IT automation
-  - Disadvantages of IT automation
-  - Does IT automation reduce costs?
+  - [What is IT automation?](#what-is-it-automation)
+  - [Why should you use IT automation?](#why-should-you-use-it-automation)
+  - [How does IT automation work?](#how-does-it-automation-work)
+  - [Advantages of IT automation](#advantages-of-it-automation)
+  - [Disadvantages of IT automation](#disadvantages-of-it-automation)
+  - [Does IT automation reduce costs?](#does-it-automation-reduce-costs)
 - [**2. When to Use Automation**](#2-when-to-use-automation) (5 videos)
-  - When should you automate?
-  - Automation approaches
-  - Automating all systems
-  - Automating some systems
-  - Automating software and system deployment
+  - [When should you automate?](#when-should-you-automate)
+  - [Automation approaches](#automation-approaches)
+  - [Automating all systems](#automating-all-systems)
+  - [Automating some systems](#automating-some-systems)
+  - [Automating software and system deployment](#automating-software-and-system-deployment)
 - [**3. Automation Tools**](#3-automation-tools) (8 videos)
-  - Using automation tools
-  - Automation tools for Windows
-  - Automating Windows
-  - Automation tools for Linux
-  - Automating Linux
-  - Automation tools for the cloud
-  - Automating the cloud
-  - Cloud automation tools
+  - [Using automation tools](#using-automation-tools)
+  - [Automation tools for Windows](#automation-tools-for-windows)
+  - [Automating Windows](#automating-windows)
+  - [Automation tools for Linux](#automation-tools-for-linux)
+  - [Automating Linux](#automating-linux)
+  - [Automation tools for the cloud](#automation-tools-for-the-cloud)
+  - [Automating the cloud](#automating-the-cloud)
+  - [Cloud automation tools](#cloud-automation-tools)
 - [**4. Automation Using Scripts**](#4-automation-using-scripts) (8 videos)
-  - Automation using scripts
-  - Using scripts to automate Windows
-  - Using PowerShell scripts to automate Windows
-  - Using scripts to automate Linux
-  - Using PowerShell scripts to automate Linux
-  - Using scripts to automate the Azure cloud
-  - Using PowerShell scripts to automate the Azure cloud
-  - Using Azure CLI scripts to automate the Azure cloud
+  - [Automation using scripts](#automation-using-scripts)
+  - [Using scripts to automate Windows](#using-scripts-to-automate-windows)
+  - [Using PowerShell scripts to automate Windows](#using-powershell-scripts-to-automate-windows)
+  - [Using scripts to automate Linux](#using-scripts-to-automate-linux)
+  - [Using PowerShell scripts to automate Linux](#using-powershell-scripts-to-automate-linux)
+  - [Using scripts to automate the Azure cloud](#using-scripts-to-automate-the-azure-cloud)
+  - [Using PowerShell scripts to automate the Azure cloud](#using-powershell-scripts-to-automate-the-azure-cloud)
+  - [Using Azure CLI scripts to automate the Azure cloud](#using-azure-cli-scripts-to-automate-the-azure-cloud)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue exploring IT automation
+  - [Continue exploring IT automation](#continue-exploring-it-automation)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IT Automation]] (4), [[Scripting]] (2), [[Windows]] (2), cloud (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** vash (1), cli (1)
 > **CLI Commands:** python (1)
 > **Tools:** powershell (1)
@@ -133,6 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IT Automation]] (4), [[Scripting]] (2), [[Powershell]] (2), [[Python (Programming Language)|Python]] (2), [[Automation]] (1)
 > **Tools:** powershell (2), bash (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is an  (1)
@@ -142,7 +144,7 @@ created: 2026-04-29
 
 ### 1. What Is IT Automation?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is IT automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980)
@@ -225,7 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3)
+> **Frameworks & Libraries:** [[Automation]] (10), management (5), business (4), cloud (4), [[IT Automation]] (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
@@ -285,6 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), [[IT Automation]] (3), business (2), [[Business Process Automation]] (2), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -358,9 +361,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[IT Automation]] (4), [[Automation]] (4), management (4), application (2)
 > **Analogies:** for example (3), such as (2)
 > **Env Vars:** erp (3)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
@@ -397,8 +400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IT Automation]] (4), [[Automation]] (2), [[Security]] (2), data (1), cloud (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Disadvantages of IT automation
@@ -454,8 +457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (8), [[IT Automation]] (4), data (2), [[Hardware]] (1), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -511,15 +514,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IT Automation]] (5), [[Automation]] (2), data (2), management (1), [[Hardware]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. When to Use Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When should you automate?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980)
@@ -566,7 +569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2)
+> **Frameworks & Libraries:** [[Automation]] (5), data (3), [[Digital Transformation]] (1), [[IT Automation]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** csv (1)
 > **Analogies:** for example (1)
@@ -650,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), private (2), public (2)
+> **Frameworks & Libraries:** [[Automation]] (8), business (3), [[IT Automation]] (3), management (3), cloud (3)
 > **Definitions:** is a  (1), means that (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
@@ -719,9 +722,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), cloud (1), management (1), cross-platform (1), [[Hardware]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** set up (2), setup (1)
-> **Code Keywords:** function (1), require (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -783,9 +786,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (9), [[IT Automation]] (3), business (3), [[Scripting]] (3), management (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Automating software and system deployment
@@ -1025,7 +1028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), interface (6), this, (2), static (2), this. (1)
+> **Frameworks & Libraries:** cloud (15), [[Automation]] (14), [[Scripting]] (12), [[Powershell]] (8), [[Microsoft Azure|Azure]] (6)
 > **Tools:** powershell (8), command prompt (4), terminal (1), bash (1)
 > **Definitions:** is a  (6), means that (1)
 > **UI Navigation:** go to (5), scroll down (1)
@@ -1037,7 +1040,7 @@ created: 2026-04-29
 
 ### 3. Automation Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using automation tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980)
@@ -1126,11 +1129,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (8), teams (6), [[Automation]] (5), [[Configuration Management]] (5), application (4)
 > **CLI Commands:** ansible (2), ruby (2), terraform (1), python (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** such as (2), similar to (1), for example (1)
 > **Env Vars:** dsl (2), net (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Automation tools for Windows
@@ -1238,10 +1241,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (11), [[Windows]] (9), [[Scripting]] (8), [[Automation]] (3), [[Microsoft]] (2)
 > **Env Vars:** wmi (15), cmd (5), net (3), cim (2), ini (1)
 > **Tools:** powershell (11)
 > **Analogies:** such as (4), for example (3), similar to (1)
-> **Code Keywords:** for. (1), interface (1), return . (1), pass (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** macos (1)
 > **Speakers:** - [narrator] (1)
@@ -1431,7 +1434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for. (2), interface (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Automation]] (4), [[Hardware]] (2), prompt (1), [[Zoom]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** wmi (3), bios (1), usb (1), ocz (1)
 > **Tools:** command line (2), windows terminal (1), powershell (1)
@@ -1603,11 +1606,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (11), [[Scripting]] (6), [[Python (Programming Language)|Python]] (6), [[Programming]] (4), [[Hardware]] (2)
 > **Tools:** bash (18), command line (6), terminal (2)
 > **Definitions:** is a  (12), stands for (1), means that (1)
 > **Analogies:** for example (4), such as (4), similar to (1)
 > **CLI Commands:** python (6), make (1)
-> **Code Keywords:** interface (2), delete (1), default, (1)
 > **Env Vars:** posix (1), cli (1)
 > **Code Identifiers:** macos (1)
 > **Warnings:** keep in mind (1)
@@ -1745,7 +1748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), this. (1), function (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (3), [[Scripting]] (1), [[Ubuntu]] (1), next (1)
 > **Tools:** terminal (4), bash (2)
 > **Definitions:** is a  (3), is called (2), means that (1)
 > **File Paths:** sample.sh (3)
@@ -1803,12 +1806,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (17), cloud (11), [[Ansible]] (6), aws (4), [[Microsoft Azure|Azure]] (3)
 > **CLI Commands:** ansible (6), aws (4)
 > **Env Vars:** aws (4), hipaa (2), yaml (1)
 > **Analogies:** such as (3), for example (1)
 > **Code Identifiers:** vrealize (2), vrealized (1)
 > **Definitions:** is called (2)
-> **Code Keywords:** private (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2087,7 +2090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), this, (2), super (1), interface (1)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Microsoft Azure|Azure]] (8), [[Automation]] (8), cloud (7), [[CLI]] (7)
 > **Tools:** powershell (10), command line (1)
 > **Cross-References:** go back to (9)
 > **Env Vars:** cli (6)
@@ -2169,9 +2172,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), [[Automation]] (7), management (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Configuration Management]] (3)
 > **CLI Commands:** terraform (1), ansible (1), aws (1), cd (1)
 > **Env Vars:** cli (1), arm (1), cicd (1), aws (1)
-> **Code Keywords:** let (1), lambda (1), require (1)
 > **Analogies:** such as (3)
 > **Tools:** gitlab (1)
 > **Prerequisites:** setup (1)
@@ -2180,7 +2183,7 @@ created: 2026-04-29
 
 ### 4. Automation Using Scripts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automation using scripts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980)
@@ -2291,8 +2294,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scripting]] (15), [[Automation]] (8), [[IT Automation]] (6), [[Windows]] (3), [[Programming]] (2)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** interface (2), require (1)
 > **Tools:** powershell (2), command line (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cmd (1)
@@ -2467,8 +2470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (25), [[Windows]] (10), prompt (7), [[Automation]] (5), application (4)
 > **Tools:** powershell (25), command prompt (4), firefox (2), command line (1)
-> **Code Keywords:** let (2), delete (2), pass (2), require (1), this. (1)
 > **Definitions:** is a  (5), known as (1), is an  (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** find (2), make (1)
@@ -2737,8 +2740,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (24), [[Windows]] (15), application (2), prompt (2), [[Microsoft]] (2)
 > **Tools:** powershell (24), visual studio (3), firefox (2), command prompt (2), command line (1)
-> **Code Keywords:** let (12), module (4), this. (2), delete (2), else. (1)
 > **Prerequisites:** install (10)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (5), is an  (1)
@@ -2913,9 +2916,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Linux]] (10), [[Scripting]] (4), [[Programming]] (2), application (2)
 > **CLI Commands:** python (20), find (3), make (2), tar (2)
 > **Tools:** bash (18), command line (1), firefox (1), terminal (1)
-> **Code Keywords:** delete (2), pass (2), let (1), function (1), this. (1)
 > **Definitions:** means that (2), is a  (2), is an  (1)
 > **Exercise Files:** zip file (2)
 > **Analogies:** such as (1), for example (1)
@@ -3175,8 +3178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Linux]] (4), [[Windows]] (4), cd (4), [[Powershell]] (2)
 > **CLI Commands:** python (10), make (4), tar (4), cd (4), python3 (3)
-> **Code Keywords:** let (7), delete (6), module (5), this, (1), for, (1)
 > **Tools:** bash (6), firefox (4), terminal (3), powershell (2), command line (1)
 > **Definitions:** is a  (4), is an  (1), stands for (1)
 > **File Paths:** delete.py (2), apps.sh (1), apps.py (1), delete.sh (1)
@@ -3345,10 +3348,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (39), [[Automation]] (13), [[Powershell]] (12), cloud (9), management (7)
 > **Tools:** powershell (12), command line (3), bash (3), azure portal (2), github (1)
 > **Env Vars:** cli (6), json (5), arm (5), url (1), dse (1)
 > **Analogies:** for example (6), such as (1)
-> **Code Keywords:** interface (4), public (1), raise (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Prerequisites:** configure (3), install (1), set up (1)
 > **CLI Commands:** python (3), make (1)
@@ -3597,7 +3600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (8), public (6), let (4), interface (2), new. (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Powershell]] (5), cloud (2), web (2), [[Security]] (2)
 > **Code Identifiers:** mysubnet (3), myvnet (2), myresourcegroup (2), mynsg (1), publicipaddressname (1)
 > **Tools:** powershell (5), windows terminal (1), command line (1)
 > **Definitions:** is a  (4), is called (1), defined as (1), is an  (1)
@@ -3977,9 +3980,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (21), [[Microsoft Azure|Azure]] (18), [[Powershell]] (15), [[Linux]] (6), [[Ubuntu]] (3)
 > **Tools:** powershell (15), terminal (9), visual studio (6), bash (3), windows terminal (1)
 > **Env Vars:** cli (21), ssh (5), cli3 (5)
-> **Code Keywords:** let (9), delete (5), this, (3), match. (1), this. (1)
 > **CLI Commands:** ssh (6), az (5), apt (3), nginx (3), find (1)
 > **Cross-References:** go back to (15)
 > **Prerequisites:** install (5)
@@ -3989,7 +3992,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue exploring IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980)
@@ -4016,6 +4019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IT Automation]] (6), cloud (3), next (2), [[Scripting]] (2), [[Microsoft 365]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

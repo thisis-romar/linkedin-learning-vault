@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Deploying%20Django%20Apps-%20Make%20Your%20Site%20Go%20Live.md)
@@ -40,50 +40,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Making your site go live
-  - What you should know
-  - Choosing the right deployment for you
+  - [Making your site go live](#making-your-site-go-live)
+  - [What you should know](#what-you-should-know)
+  - [Choosing the right deployment for you](#choosing-the-right-deployment-for-you)
 - [**1. Digital Ocean**](#1-digital-ocean) (10 videos)
-  - Digital Ocean account
-  - Creating a droplet
-  - Securing your server
-  - Postgres setup
-  - Transferring code to the server
-  - Configuring settings files 
-  - Testing deployment
-  - Gunicorn testing
-  - NGINX setup
-  - Connecting your URL
+  - [Digital Ocean account](#digital-ocean-account)
+  - [Creating a droplet](#creating-a-droplet)
+  - [Securing your server](#securing-your-server)
+  - [Postgres setup](#postgres-setup)
+  - [Transferring code to the server](#transferring-code-to-the-server)
+  - [Configuring settings files ](#configuring-settings-files)
+  - [Testing deployment](#testing-deployment)
+  - [Gunicorn testing](#gunicorn-testing)
+  - [NGINX setup](#nginx-setup)
+  - [Connecting your URL](#connecting-your-url)
 - [**2. AWS**](#2-aws) (8 videos)
-  - AWS account
-  - Deploying to AWS
-  - Testing your site
-  - Database connection and setup
-  - Migrate
-  - S3 storage setup
-  - Static and media files
-  - Custom URL
+  - [AWS account](#aws-account)
+  - [Deploying to AWS](#deploying-to-aws)
+  - [Testing your site](#testing-your-site)
+  - [Database connection and setup](#database-connection-and-setup)
+  - [Migrate](#migrate)
+  - [S3 storage setup](#s3-storage-setup)
+  - [Static and media files](#static-and-media-files)
+  - [Custom URL](#custom-url)
 - [**3. Heroku**](#3-heroku) (5 videos)
-  - Heroku account
-  - Deploying on Heroku
-  - Database on Heroku
-  - Static and media files
-  - Custom URL
+  - [Heroku account](#heroku-account)
+  - [Deploying on Heroku](#deploying-on-heroku)
+  - [Database on Heroku](#database-on-heroku)
+  - [Static and media files](#static-and-media-files)
+  - [Custom URL](#custom-url)
 - [**4. Azure**](#4-azure) (8 videos)
-  - Azure account
-  - Database setup
-  - Transferring code to the server
-  - Configuring settings files
-  - Testing deployment
-  - Gunicorn testing
-  - NGINX setup
-  - Connecting your URL
+  - [Azure account](#azure-account)
+  - [Database setup](#database-setup)
+  - [Transferring code to the server](#transferring-code-to-the-server)
+  - [Configuring settings files](#configuring-settings-files)
+  - [Testing deployment](#testing-deployment)
+  - [Gunicorn testing](#gunicorn-testing)
+  - [NGINX setup](#nginx-setup)
+  - [Connecting your URL](#connecting-your-url)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making your site go live
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980)
@@ -100,7 +100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Ubuntu]] (1), aws (1), [[Security]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Tools:** command line (1)
@@ -151,8 +151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Django]] (3)
 > **CLI Commands:** python (4), pip (2), make (2), find (1)
-> **Code Keywords:** require (2), this, (1)
 > **Versions:** python 3 (3)
 > **Tools:** terminal (1), atom (1)
 > **Definitions:** is a  (1)
@@ -212,9 +212,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), [[Microsoft Azure|Azure]] (3), [[Linux]] (2), database (2), [[Django]] (1)
 > **CLI Commands:** aws (9), make (4)
 > **Env Vars:** aws (9)
-> **Code Keywords:** let (3), switch (1), finally, (1)
 > **Tools:** command line (2)
 > **Analogies:** just like (2)
 > **UI Navigation:** switch to (1)
@@ -223,7 +223,7 @@ created: 2026-04-29
 
 ### 1. Digital Ocean
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital Ocean account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/digital-ocean-account?u=76281980)
@@ -292,8 +292,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (2), hit (1), next (1)
 > **UI Navigation:** go to (1), scroll down (1)
-> **Code Keywords:** let (1)
 > **URLs:** [digitalocean.com](https://digitalocean.com) (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you need to have (1)
@@ -386,7 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Django]] (2), hit (2), data (2), [[Linux]] (1)
 > **Versions:** 18.04 (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** starter project (1)
@@ -486,8 +486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), [[Security]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8), sudo (3), ssh (2)
-> **Code Keywords:** this. (2), let (1), this, (1), case. (1)
 > **Tools:** terminal (4)
 > **Env Vars:** ssh (1), lnix (1)
 > **Definitions:** is a  (1), means that (1)
@@ -598,8 +598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (13), database (11), hit (8), [[Python (Programming Language)|Python]] (2), next (2)
 > **CLI Commands:** sudo (7), make (4), apt (3), nginx (2), python (2)
-> **Code Keywords:** let (6), this, (4), delete (1), this. (1)
 > **Tools:** terminal (5), command line (2)
 > **Prerequisites:** install (5)
 > **UI Navigation:** scroll down (2), go to (1), select the (1)
@@ -748,8 +748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Django]] (2), next (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), pip (3), sudo (1)
-> **Code Keywords:** let (4), throw (1), else, (1), this. (1)
 > **Prerequisites:** install (4), make sure you have (1)
 > **Tools:** terminal (3)
 > **Definitions:** short for (1), is a  (1)
@@ -824,7 +824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), let (2), this, (2), delete (1)
+> **Frameworks & Libraries:** hit (3), next (2), database (2), [[PostgreSQL]] (2), [[PostgreSQL|Postgres]] (2)
 > **CLI Commands:** make (6), pip (1)
 > **Env Vars:** url (7)
 > **File Paths:** settings.py (1)
@@ -943,8 +943,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), database (5), [[Python (Programming Language)|Python]] (5), cd (1)
 > **CLI Commands:** python (5), make (3), cd (1), ls (1), rm (1)
-> **Code Keywords:** let (4), super (3), static (1), this, (1)
 > **File Paths:** manage.py (4)
 > **Ports:** port 8000 (3), :8000 (1)
 > **Versions:** 0.0.0 (1), 178.128 (1), 178.128.7 (1)
@@ -1045,7 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), delete (2)
+> **Frameworks & Libraries:** hit (10), next (2), [[Django]] (1), application (1)
 > **CLI Commands:** make (3), sudo (3), pip (1), systemctl (1)
 > **UI Navigation:** scroll down (4), go to (2)
 > **Ports:** port 8 (1), port 80 (1)
@@ -1121,8 +1121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), web (2), next (1), traffic (1)
 > **CLI Commands:** nginx (11), sudo (5), make (3)
-> **Code Keywords:** static (4), this, (4), pass (3), let (1), type, (1)
 > **Env Vars:** nginx (10), ufw (2), ctl (1), url (1)
 > **UI Navigation:** scroll down (3)
 > **Definitions:** is a  (2), means that (1)
@@ -1227,10 +1227,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), [[Django]] (1), functional (1), dns (1), feature (1)
 > **CLI Commands:** make (8), nginx (4), find (1)
 > **Env Vars:** nginx (3), url (3), dns (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** this, (1)
 > **Versions:** 178.128.7 (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -1239,7 +1239,7 @@ created: 2026-04-29
 
 ### 2. AWS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980)
@@ -1336,9 +1336,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (12), hit (3), [[Django]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), cloud (1)
 > **CLI Commands:** aws (12), make (2), pip (2), pip3 (1)
 > **Env Vars:** aws (11), ec2 (1), url (1)
-> **Code Keywords:** let (4), interface (1)
 > **Prerequisites:** install (4), setup (1)
 > **Tools:** terminal (2), command line (1)
 > **Definitions:** is an  (1), means that (1)
@@ -1466,8 +1466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), [[Python (Programming Language)|Python]] (5), [[Django]] (4), hit (4), [[Security]] (4)
 > **CLI Commands:** aws (10), pip (5), python (5), ls (3), make (3)
-> **Code Keywords:** let (6), this. (4), type, (1), static (1), this, (1)
 > **Env Vars:** aws (8), url (1), wsgi (1)
 > **File Paths:** requirements.txt (2), django.config (2), portfolio/wsgi.py (1), manage.py (1)
 > **UI Navigation:** go to (3), click on (3)
@@ -1540,9 +1540,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), application (2), [[Python (Programming Language)|Python]] (1), [[Django]] (1), hit (1)
 > **Env Vars:** url (5), aws (2), ssh (1), cname (1)
 > **CLI Commands:** aws (4), make (2), python (1), ssh (1)
-> **Code Keywords:** this, (4), let (3)
 > **Prerequisites:** set up (2)
 > **Versions:** version 3 (1)
 > **Definitions:** short for (1)
@@ -1665,7 +1665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (3), this, (3), default, (1), delete (1)
+> **Frameworks & Libraries:** database (7), [[Databases]] (3), next (2), [[PostgreSQL|Postgres]] (2), aws (1)
 > **Env Vars:** rds_db_name (3), aws (1), rds_username (1), rds_password (1), rds_hostname (1)
 > **CLI Commands:** make (3), sqlite3 (2), aws (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1794,7 +1794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (2), break. (1), this, (1), from, (1)
+> **Frameworks & Libraries:** database (7), [[Python (Programming Language)|Python]] (3), power (1), aws (1), [[Django]] (1)
 > **CLI Commands:** make (4), python (3), aws (1)
 > **File Paths:** db-migrate.config (1), manage.py (1)
 > **Tools:** terminal (1), command line (1)
@@ -1916,7 +1916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), let (4), public (2), this. (1), for. (1)
+> **Frameworks & Libraries:** hit (9), [[Django]] (7), next (6), aws (2), database (1)
 > **CLI Commands:** make (5), aws (2), find (1)
 > **Env Vars:** aws (2), iam (2), url (1), csv (1)
 > **UI Navigation:** go to (4), click on (2)
@@ -2042,7 +2042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), static (13), this, (3), delete (2), switch (1)
+> **Frameworks & Libraries:** next (5), [[Django]] (4), hit (3), database (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (7), pip (5), find (1), python (1)
 > **UI Navigation:** go to (5), scroll down (3), click on (1)
 > **Env Vars:** csv (2), aws_default_acl (1), staticfiles_ (1), ctrl (1), url (1)
@@ -2150,9 +2150,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), dns (4), aws (2), management (2), [[Google]] (2)
 > **Env Vars:** dns (4), url (3), aws (2), ec2 (1)
 > **CLI Commands:** find (4), aws (2), make (2)
-> **Code Keywords:** this. (2), for, (1), let (1), this, (1), type, (1)
 > **Analogies:** just like (3), for instance (1), for example (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Cross-References:** go back to (1)
@@ -2162,7 +2162,7 @@ created: 2026-04-29
 
 ### 3. Heroku
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Heroku account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980)
@@ -2243,8 +2243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (2), aws (2), hit (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (7), make (3), aws (2), python (1), ls (1)
-> **Code Keywords:** let (8), this, (3), interface (2)
 > **Prerequisites:** install (5), getting started (1)
 > **Tools:** terminal (3), command line (2)
 > **Env Vars:** aws (2), url (1)
@@ -2503,8 +2503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (16), web (16), [[Python (Programming Language)|Python]] (8), next (7), database (5)
 > **CLI Commands:** git (16), make (12), python (8), ls (1)
-> **Code Keywords:** let (11), this. (4), this, (4), for, (2), case, (2)
 > **Analogies:** just like (3)
 > **Prerequisites:** set up (3)
 > **Cross-References:** go back to (2)
@@ -2707,7 +2707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), static (5), this. (3), case, (2), delete (2)
+> **Frameworks & Libraries:** database (19), next (7), [[Git]] (6), [[Django]] (6), web (3)
 > **Cross-References:** go back to (7), in the next (3)
 > **CLI Commands:** git (6), python (2)
 > **Tools:** terminal (8)
@@ -2845,7 +2845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), static (6), this. (2), delete (2), this, (2)
+> **Frameworks & Libraries:** aws (6), [[Git]] (3), [[Django]] (2), next (1), hit (1)
 > **CLI Commands:** aws (6), make (3), git (3), pip (2), find (1)
 > **Env Vars:** aws (6), pwd (1)
 > **File Paths:** requirements.txt (1), settings.py (1), portfolio/settings.py (1), custom_storage.py (1)
@@ -2959,7 +2959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3)
+> **Frameworks & Libraries:** [[Google]] (3), hit (2), aws (1)
 > **Env Vars:** add (2), url (1), aws (1), cname (1), ssl (1)
 > **UI Navigation:** go to (4), scroll down (2)
 > **Tools:** command line (1), terminal (1)
@@ -2971,7 +2971,7 @@ created: 2026-04-29
 
 ### 4. Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980)
@@ -3062,7 +3062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (2), public (1), this. (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), hit (4), [[Microsoft Azure|Azure]] (3), next (3), [[Microsoft]] (2)
 > **CLI Commands:** make (3), ssh (2)
 > **UI Navigation:** click on (2), select the (1)
 > **Definitions:** is a  (3)
@@ -3164,8 +3164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[PostgreSQL|Postgres]] (5), hit (4), next (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** sudo (4), make (2), apt (2), find (2), python (2)
-> **Code Keywords:** let (3), this, (1)
 > **Prerequisites:** install (2), set up (1)
 > **Env Vars:** url (2)
 > **Versions:** python 3 (2)
@@ -3222,10 +3222,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[PostgreSQL]] (1), database (1), [[Microsoft Azure|Azure]] (1), [[Django]] (1)
 > **CLI Commands:** make (4), ls (2), find (1), chmod (1), sudo (1)
 > **Prerequisites:** install (4), set up (1)
 > **Tools:** terminal (4)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (2)
 > **Versions:** 13.82.189 (1)
 > **Definitions:** is a  (1)
@@ -3302,8 +3302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), next (1), [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1), cd (1)
 > **CLI Commands:** make (3), ls (2), cd (1), rm (1)
-> **Code Keywords:** let (2), static (2), case. (1)
 > **Env Vars:** allowed_hosts (2), url (1)
 > **Ports:** port 5432 (1)
 > **Tools:** terminal (1)
@@ -3344,7 +3344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), static (1), case. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Azure|Azure]] (3), database (2), hit (2), prompt (1)
 > **Ports:** port 8000 (6), :8000 (2)
 > **CLI Commands:** python (4), sudo (1), ssh (1)
 > **File Paths:** manage.py (4)
@@ -3472,7 +3472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), this. (1), except, (1)
+> **Frameworks & Libraries:** hit (4), next (3), [[Django]] (2)
 > **CLI Commands:** make (6), sudo (2), pip (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** terminal (1)
@@ -3607,7 +3607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), static (5), pass (3), delete (3), this, (3)
+> **Frameworks & Libraries:** web (5), hit (4), traffic (2), [[Microsoft Azure|Azure]] (2), next (1)
 > **CLI Commands:** nginx (10), make (5), sudo (4)
 > **UI Navigation:** scroll down (3), go to (2)
 > **Env Vars:** debug (1), www (1)
@@ -3663,10 +3663,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), functional (1), [[Django]] (1), [[Google]] (1), dns (1)
 > **CLI Commands:** make (7), nginx (2)
 > **UI Navigation:** go to (5)
 > **Env Vars:** nginx (2), dns (1), add (1)
-> **Code Keywords:** delete (2), let (1)
 > **Versions:** 13.82 (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -3674,7 +3674,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980)
@@ -3707,6 +3707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (5), [[Automation]] (2), [[Test-Driven Development]] (1), [[Forms]] (1), next (1)
 > **CLI Commands:** find (2), ansible (1)
 > **Speakers:** - [instructor] (1)
 

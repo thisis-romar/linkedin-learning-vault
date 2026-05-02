@@ -31,7 +31,7 @@ tags:
   - skill/personal-branding
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Accelerating%20Your%20Career%20with%20Personal%20Branding.md)
@@ -50,28 +50,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The truth about your career and personal branding
+  - [The truth about your career and personal branding](#the-truth-about-your-career-and-personal-branding)
 - [**1. Crafting a Standout Personal Brand**](#1-crafting-a-standout-personal-brand) (4 videos)
-  - Securing your advantage with personal branding
-  - Making your brand authentically you
-  - Crafting a sticky personal brand story
-  - Creating an unforgettable brand statement
+  - [Securing your advantage with personal branding](#securing-your-advantage-with-personal-branding)
+  - [Making your brand authentically you](#making-your-brand-authentically-you)
+  - [Crafting a sticky personal brand story](#crafting-a-sticky-personal-brand-story)
+  - [Creating an unforgettable brand statement](#creating-an-unforgettable-brand-statement)
 - [**2. Managing Your Personal Brand with Impression Management**](#2-managing-your-personal-brand-with-impression-management) (5 videos)
-  - Putting your brand into action
-  - Putting your brand on management's radar
-  - Reinforcing your brand in every meeting
-  - Recognizing others to reinforce your brand
-  - Energizing others for a magnetic brand
+  - [Putting your brand into action](#putting-your-brand-into-action)
+  - [Putting your brand on management's radar](#putting-your-brand-on-managements-radar)
+  - [Reinforcing your brand in every meeting](#reinforcing-your-brand-in-every-meeting)
+  - [Recognizing others to reinforce your brand](#recognizing-others-to-reinforce-your-brand)
+  - [Energizing others for a magnetic brand](#energizing-others-for-a-magnetic-brand)
 - [**3. Communicating Your Brand Online**](#3-communicating-your-brand-online) (3 videos)
-  - Crafting an intentional online brand
-  - Boosting your personal brand with LinkedIn
-  - Scaling your personal brand online
+  - [Crafting an intentional online brand](#crafting-an-intentional-online-brand)
+  - [Boosting your personal brand with LinkedIn](#boosting-your-personal-brand-with-linkedin)
+  - [Scaling your personal brand online](#scaling-your-personal-brand-online)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Taking the first step for your brand
+  - [Taking the first step for your brand](#taking-the-first-step-for-your-brand)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The truth about your career and personal branding
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/the-truth-about-your-career-and-personal-branding?u=76281980)
@@ -94,13 +94,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), leadership (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
 
 ### 1. Crafting a Standout Personal Brand
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your advantage with personal branding
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980)
@@ -161,7 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1), self (1), function (1)
+> **Frameworks & Libraries:** career (2), [[Personal Branding]] (1), [[Banking]] (1), leadership (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
@@ -244,7 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2)
+> **Frameworks & Libraries:** strengths (5), career (2), leadership (1), management (1), next (1)
 > **Analogies:** for example (2)
 > **Speakers:** - as (1)
 
@@ -349,8 +350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (5), [[Accountability]] (1), management (1), [[Personal Branding]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this. (2), this, (1)
 > **Exercise Files:** exercise file (2), download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
@@ -404,9 +405,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), strengths (1), next (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** protected (1), for, (1)
 > **Env Vars:** abc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
@@ -414,7 +415,7 @@ created: 2026-04-29
 
 ### 2. Managing Your Personal Brand with Impression Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting your brand into action
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-into-action?u=76281980)
@@ -481,7 +482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), this, (1), let (1), self (1)
+> **Frameworks & Libraries:** management (3), career (2), leadership (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -557,8 +558,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), business (3), management (2), teams (1), strengths (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** fomo (1)
 > **Analogies:** for example (1)
 > **Warnings:** caution (1)
@@ -627,8 +628,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), business (2), [[Design Thinking]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** self (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** prerequisite (1)
@@ -691,8 +692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), private (1), for, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
@@ -801,8 +802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), teams (1), [[Personal Branding]] (1), career (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** self (3), let (1)
 > **Env Vars:** mit (1), coa (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -811,7 +812,7 @@ created: 2026-04-29
 
 ### 3. Communicating Your Brand Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Crafting an intentional online brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-an-intentional-online-brand?u=76281980)
@@ -868,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), let (1), for. (1)
+> **Frameworks & Libraries:** business (1), career (1), [[LinkedIn]] (1)
 > **Speakers:** - what (1)
 
 #### Boosting your personal brand with LinkedIn
@@ -956,10 +957,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), hit (1), [[Performance Metrics]] (1), data (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), picture (1)
 > **Env Vars:** crm (1), ceo (1)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
@@ -1091,9 +1092,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), [[LinkedIn]] (1), [[Environmental Sustainability]] (1), [[Sustainability]] (1), [[Canva]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (3), picture (1)
-> **Code Keywords:** let (1), self (1)
 > **Env Vars:** ceo (2)
 > **Best Practices:** rule of thumb (1), the key is (1)
 > **Exercise Files:** exercise files (1)
@@ -1103,7 +1104,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the first step for your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980)
@@ -1152,8 +1153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (1), [[LinkedIn]] (1), career (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - in (1)
 
 

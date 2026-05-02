@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/IT%20and%20Cybersecurity%20Risk%20Management%20Essential%20Training.md)
@@ -43,40 +43,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Managing risk in IT
+  - [Managing risk in IT](#managing-risk-in-it)
 - [**1. What Is IT Risk Management?**](#1-what-is-it-risk-management) (6 videos)
-  - What is IT risk?
-  - What is IT risk appetite?
-  - What is IT risk tolerance?
-  - Types of IT risks
-  - AI in IT and cybersecurity
-  - Making an IT risk decision
+  - [What is IT risk?](#what-is-it-risk)
+  - [What is IT risk appetite?](#what-is-it-risk-appetite)
+  - [What is IT risk tolerance?](#what-is-it-risk-tolerance)
+  - [Types of IT risks](#types-of-it-risks)
+  - [AI in IT and cybersecurity](#ai-in-it-and-cybersecurity)
+  - [Making an IT risk decision](#making-an-it-risk-decision)
 - [**2. IT Risk Management in Context**](#2-it-risk-management-in-context) (6 videos)
-  - IT risk management in small companies
-  - IT risk management in medium companies
-  - IT risk management in large companies
-  - Quantitative vs. qualitative risk assessments
-  - The role of organizational culture
-  - The minimum viable approach
+  - [IT risk management in small companies](#it-risk-management-in-small-companies)
+  - [IT risk management in medium companies](#it-risk-management-in-medium-companies)
+  - [IT risk management in large companies](#it-risk-management-in-large-companies)
+  - [Quantitative vs. qualitative risk assessments](#quantitative-vs-qualitative-risk-assessments)
+  - [The role of organizational culture](#the-role-of-organizational-culture)
+  - [The minimum viable approach](#the-minimum-viable-approach)
 - [**3. IT Risk Management in Practice**](#3-it-risk-management-in-practice) (6 videos)
-  - Performing the IT risk assessment
-  - Choosing an IT risk management framework
-  - Choosing an IT risk management tool
-  - Determining an acceptable level of IT risk
-  - Using an IT risk register
-  - IT risk management techniques
+  - [Performing the IT risk assessment](#performing-the-it-risk-assessment)
+  - [Choosing an IT risk management framework](#choosing-an-it-risk-management-framework)
+  - [Choosing an IT risk management tool](#choosing-an-it-risk-management-tool)
+  - [Determining an acceptable level of IT risk](#determining-an-acceptable-level-of-it-risk)
+  - [Using an IT risk register](#using-an-it-risk-register)
+  - [IT risk management techniques](#it-risk-management-techniques)
 - [**4. IT Risk Management on the Job**](#4-it-risk-management-on-the-job) (5 videos)
-  - Choosing the right IT risk management technique
-  - Choosing controls
-  - Implementing controls
-  - Operating controls
-  - Validating controls
+  - [Choosing the right IT risk management technique](#choosing-the-right-it-risk-management-technique)
+  - [Choosing controls](#choosing-controls)
+  - [Implementing controls](#implementing-controls)
+  - [Operating controls](#operating-controls)
+  - [Validating controls](#validating-controls)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with managing risk in IT
+  - [Next steps with managing risk in IT](#next-steps-with-managing-risk-in-it)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing risk in IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980)
@@ -103,13 +103,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[IT Risk Management]] (2), [[Statistics]] (1), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - it (1)
 
 
 ### 1. What Is IT Risk Management?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is IT risk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980)
@@ -182,8 +182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IT Risk Management]] (11), data (2), next (2), management (2), [[Databases]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** finally, (2), continue (1)
 > **Env Vars:** acat (1), iso (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** such as (1)
@@ -230,8 +230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -274,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -332,8 +332,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), traffic (1), [[Hardware]] (1), power (1), [[Phishing]] (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
-> **Code Keywords:** let (2), from. (1)
 > **Env Vars:** cia (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
@@ -416,8 +416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), management (2), [[Generative AI]] (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -489,7 +489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), case, (1), continue (1)
+> **Frameworks & Libraries:** data (5), cloud (4), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -497,7 +497,7 @@ created: 2026-04-29
 
 ### 2. IT Risk Management in Context
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IT risk management in small companies
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-small-companies-14512317?u=76281980)
@@ -560,9 +560,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), product (2), management (2), database (1), [[Security]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** abstract (1), let (1)
 > **Env Vars:** sso (1), ceo (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -642,8 +642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[IT Risk Management]] (4), [[Microsoft]] (4), management (3), product (2)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Prerequisites:** install (2)
 > **Versions:** 9.1 (1)
 > **Best Practices:** recommended (1)
@@ -756,7 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2), public (1)
+> **Frameworks & Libraries:** [[Phishing]] (9), data (7), [[IT Risk Management]] (2), [[Microsoft Office|Office]] (2), [[Statistics]] (1)
 > **Env Vars:** mfa (3), dbir (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -826,8 +826,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[NIST]] (2), [[Probability]] (1), [[Algorithms]] (1), [[Engineering]] (1)
 > **Env Vars:** nist (2), fair (1), iso (1)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -872,8 +872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (1), data (1), [[Decision-Making]] (1), management (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), case, (1)
 > **Env Vars:** hoc (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
@@ -931,7 +931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1), protected (1), private (1)
+> **Frameworks & Libraries:** data (6), hit (1), product (1), [[IT Risk Management]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** dlp (2)
 > **Definitions:** is a  (1)
@@ -941,7 +941,7 @@ created: 2026-04-29
 
 ### 3. IT Risk Management in Practice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Performing the IT risk assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980)
@@ -1014,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), finally, (1), this. (1), for. (1)
+> **Frameworks & Libraries:** web (4), next (3), [[NIST]] (2), [[Cybersecurity]] (1), [[IT Risk Management]] (1)
 > **Env Vars:** nist (2), iso (2), cvss (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1), make (1)
@@ -1104,8 +1104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIST]] (7), management (6), [[IT Risk Management]] (2), [[Information Security Management]] (2), [[Security]] (2)
 > **Env Vars:** iso (12), nist (7), isms (1), acat (1)
-> **Code Keywords:** let (3), finally, (2)
 > **Warnings:** watch out (1), be careful (1)
 > **CLI Commands:** find (1)
 > **Documentation:** the documentation (1)
@@ -1152,8 +1152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[IT Risk Management]] (2), [[Microsoft Products|Products]] (2), [[Automation]] (1), database (1)
 > **Env Vars:** grc (7), rsa (1)
-> **Code Keywords:** finally, (1), require (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1203,7 +1203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), require (1)
+> **Frameworks & Libraries:** data (3), application (2), [[IT Risk Management]] (2), [[E-Commerce]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sdlc (2)
 > **Prerequisites:** make sure you have (1), before you begin (1)
@@ -1286,6 +1286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[NIST]] (2), management (1), [[Probability]] (1), functional (1)
 > **Env Vars:** nist (2), iso (2), hipaa (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (2), find (1)
@@ -1391,7 +1392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2), else. (1), protected (1), case, (1)
+> **Frameworks & Libraries:** data (6), business (2), [[Multi-factor Authentication]] (2), [[Security]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1), is called (1)
 > **Env Vars:** acat (1)
@@ -1403,7 +1404,7 @@ created: 2026-04-29
 
 ### 4. IT Risk Management on the Job
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right IT risk management technique
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980)
@@ -1508,10 +1509,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIST]] (3), [[Probability]] (3), next (1), [[Simulation]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (5), such as (3), similar to (1)
 > **Env Vars:** nist (3), iso (3), acat (1)
 > **Definitions:** is a  (2), is called (1), in other words (1)
-> **Code Keywords:** require (2), finally, (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
@@ -1579,8 +1580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Security]] (5), [[NIST]] (4), [[Cybersecurity]] (2), cloud (2)
 > **Env Vars:** nist (4), iso (3)
-> **Code Keywords:** let (1), case, (1)
 > **Best Practices:** recommended (1), remember to (1)
 > **Definitions:** known as (1)
 > **Warnings:** note that (1)
@@ -1651,7 +1652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1), self (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Multi-factor Authentication]] (2), [[Human Resources (HR)|Human resources]] (2), [[Cybersecurity]] (1), management (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -1727,7 +1728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), protected (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (5), data (2), management (1), database (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** hipaa (1)
@@ -1785,7 +1786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), abstract (1), case, (1)
+> **Frameworks & Libraries:** [[NIST]] (2), management (1), [[Microsoft Word|Word]] (1), [[Security]] (1), cloud (1)
 > **Env Vars:** nist (2), f206 (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -1797,7 +1798,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with managing risk in IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980)
@@ -1830,8 +1831,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IT Risk Management]] (2), [[NIST]] (2), next (1), [[Security]] (1), [[LinkedIn]] (1)
 > **Env Vars:** nist (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 

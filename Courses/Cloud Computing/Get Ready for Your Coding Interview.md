@@ -35,7 +35,7 @@ tags:
   - skill/interview-preparation
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Get%20Ready%20for%20Your%20Coding%20Interview.md)
@@ -54,58 +54,58 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - The coding interview
-  - What you should know
-  - What do coding interviews look like?
-  - How to prepare for coding interviews
+  - [The coding interview](#the-coding-interview)
+  - [What you should know](#what-you-should-know)
+  - [What do coding interviews look like?](#what-do-coding-interviews-look-like)
+  - [How to prepare for coding interviews](#how-to-prepare-for-coding-interviews)
 - [**1. Introduction to Jupyter Notebook and Python**](#1-introduction-to-jupyter-notebook-and-python) (5 videos)
-  - Introduction to Jupyter Notebook
-  - Installing Python and Jupyter Notebook
-  - Launching Jupyter Notebook
-  - Using Jupyter Notebook
-  - Using the exercise files
+  - [Introduction to Jupyter Notebook](#introduction-to-jupyter-notebook)
+  - [Installing Python and Jupyter Notebook](#installing-python-and-jupyter-notebook)
+  - [Launching Jupyter Notebook](#launching-jupyter-notebook)
+  - [Using Jupyter Notebook](#using-jupyter-notebook)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**2. Array/Python List**](#2-arraypython-list) (6 videos)
-  - Review of list (array) in Python
-  - Two methods for Python list iteration
-  - Practice problems for Python list
-  - Sample interview question #1: Array
-  - Visual solution to sample question #1
-  - Code solution to sample question #1
+  - [Review of list (array) in Python](#review-of-list-array-in-python)
+  - [Two methods for Python list iteration](#two-methods-for-python-list-iteration)
+  - [Practice problems for Python list](#practice-problems-for-python-list)
+  - [Sample interview question #1: Array](#sample-interview-question-1-array)
+  - [Visual solution to sample question #1](#visual-solution-to-sample-question-1)
+  - [Code solution to sample question #1](#code-solution-to-sample-question-1)
 - [**3. String in Python**](#3-string-in-python) (5 videos)
-  - Review of string in Python
-  - Practice problems for string
-  - Sample interview question #2: String
-  - Visual solution to sample question #2
-  - Code solution to sample question #2
+  - [Review of string in Python](#review-of-string-in-python)
+  - [Practice problems for string](#practice-problems-for-string)
+  - [Sample interview question #2: String](#sample-interview-question-2-string)
+  - [Visual solution to sample question #2](#visual-solution-to-sample-question-2)
+  - [Code solution to sample question #2](#code-solution-to-sample-question-2)
 - [**4. Two-Dimensional Array**](#4-two-dimensional-array) (5 videos)
-  - Overview of two-dimensional arrays
-  - Practice problems for 2D arrays
-  - Sample interview question #3: 2D array
-  - Visual solution to sample question #3
-  - Code solution to sample question #3
+  - [Overview of two-dimensional arrays](#overview-of-two-dimensional-arrays)
+  - [Practice problems for 2D arrays](#practice-problems-for-2d-arrays)
+  - [Sample interview question #3: 2D array](#sample-interview-question-3-2d-array)
+  - [Visual solution to sample question #3](#visual-solution-to-sample-question-3)
+  - [Code solution to sample question #3](#code-solution-to-sample-question-3)
 - [**5. Time Complexity and Big O**](#5-time-complexity-and-big-o) (8 videos)
-  - Why time complexity and big O notation?
-  - Overview of time complexity
-  - Overview of big O notation
-  - Evaluating time complexity using big O
-  - Practical example of time complexity and big O
-  - Sample interview question #4: Big O
-  - Visual solution to sample question #4
-  - Code solution to sample question #4
+  - [Why time complexity and big O notation?](#why-time-complexity-and-big-o-notation)
+  - [Overview of time complexity](#overview-of-time-complexity)
+  - [Overview of big O notation](#overview-of-big-o-notation)
+  - [Evaluating time complexity using big O](#evaluating-time-complexity-using-big-o)
+  - [Practical example of time complexity and big O](#practical-example-of-time-complexity-and-big-o)
+  - [Sample interview question #4: Big O](#sample-interview-question-4-big-o)
+  - [Visual solution to sample question #4](#visual-solution-to-sample-question-4)
+  - [Code solution to sample question #4](#code-solution-to-sample-question-4)
 - [**6. Hash Table/Python Dictionary**](#6-hash-tablepython-dictionary) (5 videos)
-  - Overview of dictionary/hash table
-  - Practice problems for Python dictionary
-  - Sample interview question #5: Dictionary
-  - Visual solution to sample question #5
-  - Code solution to sample question #5
+  - [Overview of dictionary/hash table](#overview-of-dictionaryhash-table)
+  - [Practice problems for Python dictionary](#practice-problems-for-python-dictionary)
+  - [Sample interview question #5: Dictionary](#sample-interview-question-5-dictionary)
+  - [Visual solution to sample question #5](#visual-solution-to-sample-question-5)
+  - [Code solution to sample question #5](#code-solution-to-sample-question-5)
 - [**7. FAQ about Coding Interviews**](#7-faq-about-coding-interviews) (3 videos)
-  - How do I come up with an optimal solution?
-  - How should I test my code?
-  - Start applying
+  - [How do I come up with an optimal solution?](#how-do-i-come-up-with-an-optimal-solution)
+  - [How should I test my code?](#how-should-i-test-my-code)
+  - [Start applying](#start-applying)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The coding interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980)
@@ -138,7 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include, (1), let (1)
+> **Frameworks & Libraries:** data (1), [[Google]] (1), [[Microsoft]] (1), [[Software Development]] (1)
 > **Speakers:** - welcome (1)
 
 #### What you should know
@@ -156,6 +156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Java]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (3)
 > **Tools:** jupyter (3)
 > **Env Vars:** xls (1)
@@ -211,8 +212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Software Development]] (1), [[Google]] (1), game (1), [[Algorithms]] (1)
 > **Code Identifiers:** ios (2), iphone (2)
-> **Code Keywords:** for. (2), let (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -279,8 +280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), [[Software Development]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** let (1), this, (1), return. (1)
 > **Analogies:** it's like (1), for example (1)
 > **URLs:** [leetcode.com](https://leetcode.com) (1)
 > **Definitions:** is a  (1)
@@ -289,7 +290,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Jupyter Notebook and Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Jupyter Notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/introduction-to-jupyter-notebook-14347820?u=76281980)
@@ -326,10 +327,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8)
 > **Tools:** jupyter (8), anaconda (3)
 > **CLI Commands:** python (8)
 > **Prerequisites:** install (3)
-> **Code Keywords:** interface (1), super (1)
 > **Env Vars:** ide (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -364,10 +365,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** anaconda (5), jupyter (1), command line (1)
 > **CLI Commands:** python (5)
 > **Prerequisites:** install (4)
-> **Code Keywords:** let (1), while. (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -415,9 +416,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (3), data (1)
 > **Tools:** anaconda (5), terminal (3)
 > **CLI Commands:** python (4), find (2)
-> **Code Keywords:** let (4), interface (1)
 > **Versions:** python 3 (2), python 2 (1)
 > **Ports:** :8888 (1)
 > **Env Vars:** url (1)
@@ -479,7 +480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), switch (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
@@ -510,7 +511,7 @@ created: 2026-04-29
 
 ### 2. Array/Python List
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review of list (array) in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980)
@@ -553,9 +554,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), next (2), [[Java]] (1), strengths (1)
 > **CLI Commands:** python (7), find (1)
 > **Analogies:** such as (1), just like (1), for example (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is called (1)
 > **Speakers:** - in (1)
 
@@ -602,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this: (1), function (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
@@ -684,9 +685,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Windows]] (1)
 > **Code Identifiers:** a_list (5), d_list (5), e_list (4), b_list (3), c_list (3)
 > **CLI Commands:** python (5), make (1), find (1)
-> **Code Keywords:** let (3), case. (1), this, (1), var (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -736,8 +737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (3)
-> **Code Keywords:** function (2), let (1), case. (1), case, (1)
 > **Best Practices:** you should always (2), make sure to (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** means that (1)
@@ -774,7 +775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -847,7 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), case, (2), case. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** in the next (1)
 > **Tools:** jupyter (1)
@@ -857,7 +858,7 @@ created: 2026-04-29
 
 ### 3. String in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review of string in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-string-in-python-14353018?u=76281980)
@@ -920,9 +921,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), find (1)
 > **Analogies:** just like (3), similar to (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** abc (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1048,8 +1049,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (3), strengths (1)
 > **Code Identifiers:** d_string (5), b_string (3), a_string (2), c_string (2), are_reverses (1)
-> **Code Keywords:** function (7), let (5)
 > **Env Vars:** abc (5), cba (3), aaa (1)
 > **CLI Commands:** python (3), make (1)
 > **UI Navigation:** go to (3)
@@ -1112,7 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** for example (3)
 > **Tools:** jupyter (1)
@@ -1167,9 +1168,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (1)
 > **CLI Commands:** python (2), find (1)
 > **Analogies:** for example (2), for instance (1)
-> **Code Keywords:** this. (1), function (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1252,7 +1253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), continue (2), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Tools:** jupyter (1)
@@ -1262,7 +1263,7 @@ created: 2026-04-29
 
 ### 4. Two-Dimensional Array
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of two-dimensional arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-two-dimensional-arrays?u=76281980)
@@ -1339,7 +1340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (1)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** python (3)
 > **Exercise Files:** exercise file (1)
@@ -1437,7 +1438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1497,7 +1498,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), case, (1)
 > **Definitions:** means that (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1528,7 +1528,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Code solution to sample question #3
@@ -1616,7 +1615,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1), case, (1)
 > **Code Identifiers:** col_count (4), row_count (3)
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
@@ -1624,7 +1622,7 @@ created: 2026-04-29
 
 ### 5. Time Complexity and Big O
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why time complexity and big O notation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/why-time-complexity-and-big-o-notation-14353025?u=76281980)
@@ -1669,7 +1667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1756,7 +1754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), let (9), case, (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** just like (1), similar to (1), for example (1), such as (1)
 > **Code Identifiers:** given_list (3)
 > **Definitions:** is a  (2), means that (1)
@@ -1883,7 +1881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (23), let (9)
+> **Frameworks & Libraries:** express (4)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Cross-References:** go back to (1)
@@ -1970,7 +1968,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), this. (2)
 > **Cross-References:** go back to (1), we covered (1), as we saw (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2030,7 +2027,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this. (1), case, (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is a  (1)
@@ -2074,7 +2070,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** make sure to (1)
@@ -2139,7 +2134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** dra (1)
 > **UI Navigation:** go to (1)
@@ -2227,7 +2222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2)
+> **Frameworks & Libraries:** next (2)
 > **Analogies:** for example (3)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (2)
@@ -2237,7 +2232,7 @@ created: 2026-04-29
 
 ### 6. Hash Table/Python Dictionary
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of dictionary/hash table
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980)
@@ -2336,10 +2331,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Java]] (1), [[Microsoft Word|Word]] (1), feature (1)
 > **CLI Commands:** python (10), find (2)
 > **Code Identifiers:** age_dict (10)
 > **Analogies:** for example (4), just like (2)
-> **Code Keywords:** let (2), this. (1), case, (1)
 > **Tools:** jupyter (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** known as (1)
@@ -2430,8 +2425,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), functional (1)
 > **Code Identifiers:** c_dict (4), a_dict (3), b_dict (3), name_dict (2)
-> **Code Keywords:** function (5), let (3), case. (3)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - here (1)
@@ -2475,8 +2470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (2), make (1)
-> **Code Keywords:** function (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2531,8 +2526,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (3)
 > **CLI Commands:** python (3), find (1)
-> **Code Keywords:** let (2), case. (1), function (1)
 > **UI Navigation:** go to (4)
 > **Speakers:** - here (1)
 
@@ -2621,7 +2616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2), return. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), functional (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - here (1), - 20 (1)
 > **Analogies:** for example (1)
@@ -2629,7 +2624,7 @@ created: 2026-04-29
 
 ### 7. FAQ about Coding Interviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do I come up with an optimal solution?
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-do-i-come-up-with-an-optimal-solution-14348880?u=76281980)
@@ -2702,7 +2697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), this. (1), case, (1), throw (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), make (2), python (1)
 > **Analogies:** for example (1), for instance (1), just like (1)
 > **Cross-References:** in the last (1), coming up (1)
@@ -2775,7 +2770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), case. (2), this. (1), super (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), functional (1)
 > **CLI Commands:** python (4), find (2), make (1)
 > **Env Vars:** ide (1), rea (1)
 > **Cross-References:** in the last (1), coming up (1)
@@ -2801,6 +2796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), [[Programming]] (1)
 > **URLs:** [leetcode.com](https://leetcode.com) (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)

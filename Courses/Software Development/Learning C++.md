@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20C%2B%2B.md)
@@ -48,66 +48,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Get up and running with C++
-  - What you should know
-  - Using the exercise files on GitHub
+  - [Get up and running with C++](#get-up-and-running-with-c)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files on GitHub](#using-the-exercise-files-on-github)
 - [**1. Getting Started**](#1-getting-started) (4 videos)
-  - Elements of object-oriented programming
-  - Creating a simple program in C++
-  - Challenge: Console interaction
-  - Solution: Console interaction
+  - [Elements of object-oriented programming](#elements-of-object-oriented-programming)
+  - [Creating a simple program in C++](#creating-a-simple-program-in-c)
+  - [Challenge: Console interaction](#challenge-console-interaction)
+  - [Solution: Console interaction](#solution-console-interaction)
 - [**2. Data Types**](#2-data-types) (14 videos)
-  - Basic data types
-  - Variables
-  - Using variables
-  - Expressions, assignments, and operations
-  - Type inference with auto
-  - Preprocessor directives
-  - Constants
-  - Arrays
-  - Strings
-  - Type casting
-  - Type casting examples
-  - Enumerations
-  - Challenge: Calculate an average
-  - Solution: Calculate an average
+  - [Basic data types](#basic-data-types)
+  - [Variables](#variables)
+  - [Using variables](#using-variables)
+  - [Expressions, assignments, and operations](#expressions-assignments-and-operations)
+  - [Type inference with auto](#type-inference-with-auto)
+  - [Preprocessor directives](#preprocessor-directives)
+  - [Constants](#constants)
+  - [Arrays](#arrays)
+  - [Strings](#strings)
+  - [Type casting](#type-casting)
+  - [Type casting examples](#type-casting-examples)
+  - [Enumerations](#enumerations)
+  - [Challenge: Calculate an average](#challenge-calculate-an-average)
+  - [Solution: Calculate an average](#solution-calculate-an-average)
 - [**3. Structures, Classes, and Pointers**](#3-structures-classes-and-pointers) (12 videos)
-  - Structures
-  - Classes
-  - Using classes
-  - Header and implementation files
-  - Using several source files
-  - Pointers
-  - Using objects with pointers
-  - References
-  - Vectors
-  - Using objects with vectors
-  - Challenge: Create some classes
-  - Solution: Create some classes
+  - [Structures](#structures)
+  - [Classes](#classes)
+  - [Using classes](#using-classes)
+  - [Header and implementation files](#header-and-implementation-files)
+  - [Using several source files](#using-several-source-files)
+  - [Pointers](#pointers)
+  - [Using objects with pointers](#using-objects-with-pointers)
+  - [References](#references)
+  - [Vectors](#vectors)
+  - [Using objects with vectors](#using-objects-with-vectors)
+  - [Challenge: Create some classes](#challenge-create-some-classes)
+  - [Solution: Create some classes](#solution-create-some-classes)
 - [**4. Control Flow**](#4-control-flow) (6 videos)
-  - If statements
-  - Switch statements
-  - While loops
-  - For loops
-  - Challenge: Calculate GPA from a vector
-  - Solution: Calculate GPA from a vector
+  - [If statements](#if-statements)
+  - [Switch statements](#switch-statements)
+  - [While loops](#while-loops)
+  - [For loops](#for-loops)
+  - [Challenge: Calculate GPA from a vector](#challenge-calculate-gpa-from-a-vector)
+  - [Solution: Calculate GPA from a vector](#solution-calculate-gpa-from-a-vector)
 - [**5. Functions**](#5-functions) (5 videos)
-  - Creating functions
-  - Function parameters
-  - Using functions
-  - Challenge: Create a report card function
-  - Solution: Create a report card function
+  - [Creating functions](#creating-functions)
+  - [Function parameters](#function-parameters)
+  - [Using functions](#using-functions)
+  - [Challenge: Create a report card function](#challenge-create-a-report-card-function)
+  - [Solution: Create a report card function](#solution-create-a-report-card-function)
 - [**6. File I/O**](#6-file-io) (4 videos)
-  - Opening a text file for reading
-  - Open a text file for writing
-  - Challenge: Upgrade to work with files
-  - Solution: Upgrade to work with files
+  - [Opening a text file for reading](#opening-a-text-file-for-reading)
+  - [Open a text file for writing](#open-a-text-file-for-writing)
+  - [Challenge: Upgrade to work with files](#challenge-upgrade-to-work-with-files)
+  - [Solution: Upgrade to work with files](#solution-upgrade-to-work-with-files)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get up and running with C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/get-up-and-running-with-c-plus-plus?u=76281980)
@@ -132,6 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [eduardo] (1)
 
@@ -166,7 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Programming]] (3), [[GitHub]] (2), [[Codespaces]] (1), cloud (1), web (1)
 > **Tools:** github (2), visual studio (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** before we start (1), install (1)
@@ -364,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), continue (2), this, (1), delete (1), while. (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), cloud (2), application (2), next (2), [[Microsoft Word|Word]] (1)
 > **Tools:** github (5), visual studio (3), terminal (3), vs code (1)
 > **UI Navigation:** click on (7), open the (2), checkbox (1), toggle (1), select the (1)
 > **Exercise Files:** download the (2), exercise files (1), zip file (1), exercise file (1), source code (1)
@@ -376,7 +377,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elements of object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/elements-of-object-oriented-programming?u=76281980)
@@ -467,7 +468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), public (2), private (2), class. (2)
+> **Frameworks & Libraries:** data (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Programming]] (2), [[Performance Metrics]] (1), next (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** is a  (2), known as (1)
@@ -582,7 +583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), this. (3), default. (1), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Windows]] (1), [[Linux]] (1), [[Google]] (1), [[Programming]] (1)
 > **Definitions:** is a  (7), short for (2), is called (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** int (1), std (1)
@@ -642,7 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), function (1)
+> **Frameworks & Libraries:** next (2), hit (1)
 > **Cross-References:** in the next (2), later in (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -683,7 +684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** next (2), prompt (1)
 > **Env Vars:** sdr (2), std (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -692,7 +693,7 @@ created: 2026-04-29
 
 ### 2. Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/basic-data-types?u=76281980)
@@ -777,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (1), type, (1)
+> **Frameworks & Libraries:** data (4), [[Programming]] (1), next (1), [[Google]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Definitions:** is a  (2), short for (1), is an  (1)
 > **Env Vars:** ascii (1), ieee754 (1), cpp (1)
@@ -833,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** ascii (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -941,7 +942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (3), this. (2), this, (1), return. (1)
+> **Frameworks & Libraries:** data (1), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), feature (1), power (1)
 > **Definitions:** is a  (3), means that (1)
 > **UI Navigation:** go to (2), toggle (1)
 > **CLI Commands:** make (1)
@@ -1027,7 +1028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), match. (1), finally, (1)
+> **Frameworks & Libraries:** data (1), next (1), [[Google]] (1)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (1), common mistake (1)
 > **URLs:** [cppreference.com](https://cppreference.com) (1)
@@ -1102,7 +1103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), default. (1), this, (1), function (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Versions:** 3.14 (2)
 > **Tools:** visual studio (1), github (1)
 > **Env Vars:** ide (1)
@@ -1253,7 +1254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), include, (1), include < (1), require (1), function (1)
+> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Debugging]] (1)
 > **Env Vars:** capacity (3), debug (3)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **CLI Commands:** find (1), make (1)
@@ -1307,7 +1308,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), const (2), type, (1), type. (1)
 > **Definitions:** known as (1), means that (1)
 > **Warnings:** be aware (1), warning (1)
 > **CLI Commands:** find (1)
@@ -1466,7 +1466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (4), this. (3), type. (2), type, (1)
+> **Frameworks & Libraries:** data (2), next (1), [[Search]] (1), [[Debugging]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **Versions:** 31.5 (1), 32.7 (1), 38.9 (1)
 > **Env Vars:** hra (2)
@@ -1578,7 +1578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (3), function (3), this. (2), class, (1)
+> **Frameworks & Libraries:** feature (2), [[Programming]] (1), [[GitHub]] (1), [[Codespaces]] (1), [[Windows]] (1)
 > **Definitions:** is a  (2), means that (2)
 > **Tools:** visual studio (2), github (1)
 > **CLI Commands:** find (1), make (1)
@@ -1700,7 +1700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (1), this. (1), type, (1)
+> **Frameworks & Libraries:** data (3), next (1), power (1)
 > **CLI Commands:** make (2)
 > **Versions:** 7.66 (2)
 > **Definitions:** is a  (1), means that (1)
@@ -1816,7 +1816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Python (Programming Language)|Python]] (2), feature (1), [[Programming]] (1), power (1)
 > **Versions:** 10.99 (2), 9.0 (1), 0.99 (1)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** is a  (3)
@@ -1978,7 +1978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (12), let (9), function (5), this. (3), class. (1)
+> **Frameworks & Libraries:** application (2), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** is a  (4), known as (3), is called (1), means that (1), is an  (1)
 > **Code Identifiers:** cow_purpose (6), grocery_section (1)
 > **CLI Commands:** find (1), make (1)
@@ -2012,7 +2012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** be careful (1)
@@ -2044,7 +2044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** nums (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2052,7 +2052,7 @@ created: 2026-04-29
 
 ### 3. Structures, Classes, and Pointers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/structures?u=76281980)
@@ -2109,7 +2109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), struct (1), require (1), this, (1), enum (1)
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -2241,7 +2241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), private (7), class. (5), let (5), public (5)
+> **Frameworks & Libraries:** data (15), [[Programming]] (3), [[Java]] (1), [[Python (Programming Language)|Python]] (1), feature (1)
 > **Definitions:** known as (3), is a  (1), is called (1)
 > **Code Identifiers:** get_name (2), get_age (1), get_purpose (1)
 > **CLI Commands:** python (1), make (1)
@@ -2291,7 +2291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), public (2), type. (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -2375,7 +2375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), case. (1), case, (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Software Development]] (1)
 > **Definitions:** known as (3), is a  (2)
 > **Env Vars:** ide (2), cpu (1)
 > **Exercise Files:** source code (3)
@@ -2509,7 +2509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (2), this. (1), class. (1)
+> **Frameworks & Libraries:** [[JSON]] (3), hit (1)
 > **File Paths:** cow.h (6), cow.cpp (4), tasks.json (2), demo.cpp (1), codedemo.cpp (1)
 > **Tools:** vs code (3), visual studio (2), command line (1)
 > **Env Vars:** cow_h (3), ide (1), json (1)
@@ -2635,7 +2635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (4), this. (2)
+> **Frameworks & Libraries:** [[Programming]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -2718,7 +2718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (3), class. (1), this: (1), this. (1)
+> **Frameworks & Libraries:** [[Memory Management]] (2)
 > **Code Identifiers:** my_cow (6), get_name (2)
 > **Definitions:** known as (1), short for (1), is a  (1)
 > **UI Navigation:** go to (1)
@@ -2818,7 +2818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), type, (1), type. (1), default, (1)
+> **Frameworks & Libraries:** data (11)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (4)
 > **Code Identifiers:** my_ref (1), my_int (1)
@@ -2912,7 +2912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class. (2), function (2), delete (1), type. (1)
+> **Frameworks & Libraries:** data (2), generic (1), [[Algorithms]] (1), [[Generic Programming]] (1)
 > **Definitions:** means that (4), is a  (3)
 > **Env Vars:** stl (2)
 > **Exercise Files:** template (2)
@@ -2979,7 +2979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), this, (2), case, (2)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Create some classes
@@ -3021,7 +3021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** records.h (1), records.cpp (1)
 > **Env Vars:** ascii (1)
 > **Cross-References:** in the next (1)
@@ -3071,7 +3071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (2), function (1), return. (1)
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** records.cpp (1), codedemo.cpp (1)
 > **Env Vars:** cpp (1)
 > **Definitions:** is a  (1)
@@ -3081,7 +3081,7 @@ created: 2026-04-29
 
 ### 4. Control Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/if-statements?u=76281980)
@@ -3198,7 +3198,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), this, (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -3270,7 +3269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (7), let (5), this, (1), this. (1), break. (1)
+> **Frameworks & Libraries:** next (1), [[React.js|React]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** achar (1)
 > **Analogies:** it's like (1)
@@ -3353,7 +3352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), while, (1), class. (1), this. (1)
+> **Frameworks & Libraries:** [[Forms]] (1), generic (1), next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** initialization (1)
@@ -3448,7 +3447,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), for. (1), require (1), case, (1)
 > **Prerequisites:** initialization (2)
 > **Versions:** 34.6 (1)
 > **UI Navigation:** go to (1)
@@ -3527,8 +3525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gpa (9), sdr (1)
-> **Code Keywords:** let (2), class. (1), case, (1)
 > **Versions:** 3.08 (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -3641,7 +3639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1)
+> **Frameworks & Libraries:** next (3), data (1), product (1)
 > **Code Identifiers:** num_grd (2), student_str (2)
 > **Env Vars:** gpa (4)
 > **Definitions:** is a  (3), means that (1)
@@ -3653,7 +3651,7 @@ created: 2026-04-29
 
 ### 5. Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/creating-functions?u=76281980)
@@ -3800,7 +3798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (25), let (14), class. (3), private (2), switch (2)
+> **Frameworks & Libraries:** data (2), [[Programming]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Env Vars:** cpp (4), gpa (1), grd (1), sid (1)
 > **Definitions:** is called (3), known as (1)
 > **CLI Commands:** python (1), find (1), make (1)
@@ -3938,7 +3936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (9), pass (3), implements (1), this. (1)
+> **Frameworks & Libraries:** [[Programming]] (1), power (1)
 > **Definitions:** means that (2), is an  (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1)
@@ -4087,7 +4085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (27), let (16), const (1), class. (1)
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpa (7), grd (4), sid (1)
 > **Code Identifiers:** num_grd (1), current_credits (1), get_student_name (1), add_student (1)
 > **UI Navigation:** go to (1), scroll down (1), scroll up (1)
@@ -4131,7 +4129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), class. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpa (2)
 > **Best Practices:** make sure to (2)
@@ -4180,7 +4178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), type, (1)
+> **Frameworks & Libraries:** [[Search]] (3), data (1), [[Fetch]] (1)
 > **Env Vars:** gpa (5)
 > **CLI Commands:** find (1)
 > **Versions:** 3.69 (1)
@@ -4191,7 +4189,7 @@ created: 2026-04-29
 
 ### 6. File I/O
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Opening a text file for reading
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/opening-a-text-file-for-reading?u=76281980)
@@ -4282,7 +4280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (7), class. (1)
+> **Frameworks & Libraries:** next (2), data (1)
 > **Code Identifiers:** getline (4), infile (3)
 > **Definitions:** is a  (1), is an  (1), is called (1)
 > **CLI Commands:** find (2)
@@ -4336,7 +4334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), default, (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** product (1)
 > **Code Identifiers:** outfile (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -4378,6 +4376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), application (1)
 > **File Paths:** report.txt (1), students.txt (1), courses.txt (1), grades.txt (1)
 > **Cross-References:** in the next (1), in the last (1), next video (1)
 > **CLI Commands:** make (1)
@@ -4460,7 +4459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (6)
+> **Frameworks & Libraries:** application (1)
 > **Code Identifiers:** report_file (4), report_card (3), outfile (2), infile (1)
 > **File Paths:** report.txt (3), records.cpp (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -4471,7 +4470,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/next-steps?u=76281980)
@@ -4506,7 +4505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (1)
+> **Frameworks & Libraries:** [[Programming]] (3), [[LinkedIn]] (3), [[GitHub]] (1), next (1)
 > **Tools:** github (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [eduardo] (1)

@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Dataflows%20Essential%20Training.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Optimizing your data with Power BI dataflows
-  - What you should know
+  - [Optimizing your data with Power BI dataflows](#optimizing-your-data-with-power-bi-dataflows)
+  - [What you should know](#what-you-should-know)
 - [**1. Working with Data in Power BI**](#1-working-with-data-in-power-bi) (4 videos)
-  - Navigating the Power BI ecosystem
-  - Comparing Power BI versions
-  - Utilizing a dataflow
-  - Utilizing Azure Data Lake
+  - [Navigating the Power BI ecosystem](#navigating-the-power-bi-ecosystem)
+  - [Comparing Power BI versions](#comparing-power-bi-versions)
+  - [Utilizing a dataflow](#utilizing-a-dataflow)
+  - [Utilizing Azure Data Lake](#utilizing-azure-data-lake)
 - [**2. Extracting Data**](#2-extracting-data) (6 videos)
-  - Setting up gateways
-  - Organizing data sources
-  - Connecting to databases
-  - Setting up web connections
-  - Querying API data
-  - Connecting to Excel
+  - [Setting up gateways](#setting-up-gateways)
+  - [Organizing data sources](#organizing-data-sources)
+  - [Connecting to databases](#connecting-to-databases)
+  - [Setting up web connections](#setting-up-web-connections)
+  - [Querying API data](#querying-api-data)
+  - [Connecting to Excel](#connecting-to-excel)
 - [**3. Transforming Data Connections**](#3-transforming-data-connections) (4 videos)
-  - Updating dataflows
-  - Utilizing Power Query Online applied steps
-  - Translating from Power BI Desktop
-  - Setting up a Common Data Model
+  - [Updating dataflows](#updating-dataflows)
+  - [Utilizing Power Query Online applied steps](#utilizing-power-query-online-applied-steps)
+  - [Translating from Power BI Desktop](#translating-from-power-bi-desktop)
+  - [Setting up a Common Data Model](#setting-up-a-common-data-model)
 - [**4. Loading and Connecting to Dataflows**](#4-loading-and-connecting-to-dataflows) (5 videos)
-  - Connecting to dataflows
-  - Comparing dataflows to data sets
-  - Sharing dataflows
-  - Scheduling data refreshing
-  - Representing dataflow structures with JSON files
+  - [Connecting to dataflows](#connecting-to-dataflows)
+  - [Comparing dataflows to data sets](#comparing-dataflows-to-data-sets)
+  - [Sharing dataflows](#sharing-dataflows)
+  - [Scheduling data refreshing](#scheduling-data-refreshing)
+  - [Representing dataflow structures with JSON files](#representing-dataflow-structures-with-json-files)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with Power BI dataflows
+  - [Next steps with Power BI dataflows](#next-steps-with-power-bi-dataflows)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing your data with Power BI dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980)
@@ -98,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (3), bi (3), [[Microsoft Power Query|Power query]] (1), [[Dashboards]] (1)
 > **Speakers:** - [helen] (1)
 
 #### What you should know
@@ -115,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), bi (1), application (1), cloud (1), [[Scalability]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** etl (1)
 > **Prerequisites:** you'll need (1)
@@ -123,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Working with Data in Power BI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating the Power BI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980)
@@ -168,10 +170,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), power (11), bi (11), [[Dashboards]] (4), cloud (4)
 > **Env Vars:** etl (3)
 > **Definitions:** stands for (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -231,10 +233,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (15), bi (15), data (6), [[Dashboards]] (5), [[Microsoft]] (5)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** from. (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -298,8 +300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), etl (13), power (8), bi (8), front-end (4)
 > **Env Vars:** etl (13), sql (1)
-> **Code Keywords:** let (3), type. (1), from. (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -357,7 +359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2)
+> **Frameworks & Libraries:** data (25), cloud (7), [[Microsoft Azure|Azure]] (6), power (3), bi (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -365,7 +367,7 @@ created: 2026-04-29
 
 ### 2. Extracting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up gateways
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980)
@@ -462,6 +464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), power (10), bi (9), cloud (3), next (2)
 > **Prerequisites:** setup (5), install (3), set up (1), configure (1)
 > **UI Navigation:** go to (1), navigate to (1), select the (1), click on (1)
 > **Env Vars:** sql (1), api (1), exe (1)
@@ -469,7 +472,6 @@ created: 2026-04-29
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 > **Best Practices:** recommended (1)
-> **Speakers:** - [instructor] (1)
 
 #### Organizing data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980)
@@ -532,7 +534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (7), next (4), power (2), bi (2), [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** etl (1), pbi (1), cdm (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is a  (2)
@@ -640,9 +642,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (20), data (20), power (11), bi (11), [[Databases]] (10)
 > **Env Vars:** sql (11), etl (2), dax (1)
 > **Prerequisites:** set up (10), setup (1), you'll need (1)
-> **Code Keywords:** let (4), from, (1), type. (1), continue (1)
 > **UI Navigation:** select the (2), navigate to (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is an  (1)
@@ -698,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3)
+> **Frameworks & Libraries:** data (8), web (7), power (4), bi (4), [[Microsoft]] (1)
 > **Env Vars:** url (2), https (1), http (1), api (1)
 > **UI Navigation:** select the (2), right-click (1), navigate to (1)
 > **Prerequisites:** set up (3)
@@ -802,8 +804,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (31), data (17), web (6), [[Microsoft]] (4), power (4)
 > **Env Vars:** api (31), url (3), http (1)
-> **Code Keywords:** pass (4), case, (3), let (1), require (1), this, (1)
 > **Prerequisites:** set up (5), you'll need (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1), later in (1)
@@ -878,8 +880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), power (7), bi (7), data (4), [[Forecasting]] (2)
 > **UI Navigation:** select the (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** url (2)
 > **Exercise Files:** exercise files (1), download the (1)
 > **Definitions:** is an  (1)
@@ -889,7 +891,7 @@ created: 2026-04-29
 
 ### 3. Transforming Data Connections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Updating dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/updating-dataflows?u=76281980)
@@ -944,7 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), case, (1)
+> **Frameworks & Libraries:** data (3), next (1), power (1), ai (1), hit (1)
 > **UI Navigation:** select the (2), right-click (1), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** set up (1)
@@ -1035,8 +1037,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Microsoft]] (5), power (4), bi (4), [[Microsoft Power Query|Power query]] (3)
 > **Env Vars:** api (3), sql (1)
-> **Code Keywords:** case, (1), type. (1), finally, (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
@@ -1123,8 +1125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (11), bi (11), data (8), api (6), etl (3)
 > **Env Vars:** api (6), etl (3)
-> **Code Keywords:** let (2), interface (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1), select the (1)
 > **Exercise Files:** exercise files (1)
@@ -1195,7 +1197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), type, (1), type. (1)
+> **Frameworks & Libraries:** data (21), [[Search]] (3), [[Microsoft Excel|Excel]] (2), product (2), [[Metadata]] (1)
 > **Env Vars:** cdm (3)
 > **UI Navigation:** select the (2), in the menu (1)
 > **Cross-References:** as we saw (1)
@@ -1206,7 +1208,7 @@ created: 2026-04-29
 
 ### 4. Loading and Connecting to Dataflows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting to dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980)
@@ -1309,8 +1311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (42), power (21), bi (20), etl (8), [[Microsoft]] (5)
 > **Env Vars:** etl (8), api (3)
-> **Code Keywords:** let (2), for. (1), case, (1), this, (1), function (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** set up (2)
@@ -1425,8 +1427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (21), bi (20), data (15), etl (8), [[Dashboards]] (7)
 > **Env Vars:** etl (8)
-> **Code Keywords:** let (3), this, (1), this. (1)
 > **Prerequisites:** set up (3), setup (1)
 > **UI Navigation:** select the (2), go to (1)
 > **CLI Commands:** make (1)
@@ -1461,6 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), power (3), bi (3), [[Security]] (1), cloud (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [helen] (1)
 
@@ -1535,10 +1538,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), power (3), bi (3), cloud (2), [[Microsoft]] (2)
 > **UI Navigation:** select the (5)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), case. (1), this, (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Ports:** :00 (1)
 > **Versions:** version 1 (1)
@@ -1591,8 +1594,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (7), power (3), bi (3), [[JavaScript]] (1), data (1)
 > **Env Vars:** json (7), api (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** select the (1)
@@ -1602,7 +1605,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Power BI dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980)
@@ -1621,8 +1624,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), power (2), bi (2), database (1), api (1)
 > **Env Vars:** api (1), etl (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [helen] (1)
 
 

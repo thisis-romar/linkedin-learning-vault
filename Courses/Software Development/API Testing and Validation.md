@@ -22,7 +22,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/API%20Testing%20and%20Validation.md)
@@ -41,47 +41,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Be an API testing and validation MVP
-  - What you should know
-  - API overview
-  - Exercise files
+  - [Be an API testing and validation MVP](#be-an-api-testing-and-validation-mvp)
+  - [What you should know](#what-you-should-know)
+  - [API overview](#api-overview)
+  - [Exercise files](#exercise-files)
 - [**1. Behavior Testing with Cucumber and Gherkin**](#1-behavior-testing-with-cucumber-and-gherkin) (5 videos)
-  - Acceptance testing
-  - Explanation of Gherkin
-  - Set up your test environment
-  - Create your first feature description
-  - Write your first test
+  - [Acceptance testing](#acceptance-testing)
+  - [Explanation of Gherkin](#explanation-of-gherkin)
+  - [Set up your test environment](#set-up-your-test-environment)
+  - [Create your first feature description](#create-your-first-feature-description)
+  - [Write your first test](#write-your-first-test)
 - [**2. Build Your First API Test**](#2-build-your-first-api-test) (3 videos)
-  - Make your first request
-  - Introduce variables in requests
-  - Validate responses
+  - [Make your first request](#make-your-first-request)
+  - [Introduce variables in requests](#introduce-variables-in-requests)
+  - [Validate responses](#validate-responses)
 - [**3. Handling Authentication in API Testing**](#3-handling-authentication-in-api-testing) (5 videos)
-  - Expand your testing environment
-  - Making an authenticated request
-  - Changing your API and target via your requests
-  - Validate responses
-  - Refactor the tests
+  - [Expand your testing environment](#expand-your-testing-environment)
+  - [Making an authenticated request](#making-an-authenticated-request)
+  - [Changing your API and target via your requests](#changing-your-api-and-target-via-your-requests)
+  - [Validate responses](#validate-responses)
+  - [Refactor the tests](#refactor-the-tests)
 - [**4. Advanced API Testing in Practice**](#4-advanced-api-testing-in-practice) (7 videos)
-  - Writing to the API
-  - Establishing a system state for tests
-  - Solution: Validating system state
-  - Handling response codes
-  - Using extensions
-  - Starting with GraphQL testing
-  - Testing GraphQL mutations
+  - [Writing to the API](#writing-to-the-api)
+  - [Establishing a system state for tests](#establishing-a-system-state-for-tests)
+  - [Solution: Validating system state](#solution-validating-system-state)
+  - [Handling response codes](#handling-response-codes)
+  - [Using extensions](#using-extensions)
+  - [Starting with GraphQL testing](#starting-with-graphql-testing)
+  - [Testing GraphQL mutations](#testing-graphql-mutations)
 - [**5. Planning Your API Testing Strategy**](#5-planning-your-api-testing-strategy) (6 videos)
-  - Mapping your API
-  - Documenting your API
-  - Prioritizing your endpoints
-  - Structuring your tests
-  - Generating your tests from OpenAPI
-  - Refining your BDD tests
+  - [Mapping your API](#mapping-your-api)
+  - [Documenting your API](#documenting-your-api)
+  - [Prioritizing your endpoints](#prioritizing-your-endpoints)
+  - [Structuring your tests](#structuring-your-tests)
+  - [Generating your tests from OpenAPI](#generating-your-tests-from-openapi)
+  - [Refining your BDD tests](#refining-your-bdd-tests)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be an API testing and validation MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/be-an-api-testing-and-validation-mvp?u=76281980)
@@ -110,8 +110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5)
 > **Env Vars:** api (5), bdd (1)
-> **Code Keywords:** require (1)
 > **Tools:** postman (1)
 > **Speakers:** - most (1)
 
@@ -162,12 +162,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[PHP]] (2), api (1), [[GitHub]] (1), [[Tokens]] (1)
 > **Prerequisites:** you'll need (5), you need to have (1), set up (1), install (1)
 > **Env Vars:** http (2), php (2), api (1), ide (1), bdd (1)
 > **Tools:** command line (1), github (1), sublime (1), vs code (1), postman (1)
 > **CLI Commands:** php (2), composer (1)
 > **Versions:** php 8 (1), 3.12 (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### API overview
@@ -207,6 +207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), [[GitHub]] (3), power (1)
 > **Env Vars:** api (8), sdk (1)
 > **Tools:** github (3)
 > **Speakers:** - [instructor] (1)
@@ -296,9 +297,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (7), setup (3), install (1), configure (1)
 > **Env Vars:** api (6)
-> **Code Keywords:** this. (2), case, (1), finally, (1), let (1)
 > **Tools:** github (2), command line (2), sublime (1)
 > **CLI Commands:** composer (4)
 > **UI Navigation:** go to (3)
@@ -308,7 +309,7 @@ created: 2026-04-29
 
 ### 1. Behavior Testing with Cucumber and Gherkin
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Acceptance testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/acceptance-testing?u=76281980)
@@ -361,7 +362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (4), hit (2), database (2), api (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -413,9 +414,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (1), [[Python (Programming Language)|Python]] (1), feature (1), [[Test Automation]] (1)
 > **Env Vars:** api (1), net (1), bdd (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Set up your test environment
@@ -461,10 +462,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), api (1), [[GitHub]] (1), next (1)
 > **CLI Commands:** composer (3), php (2), make (1)
 > **Prerequisites:** set up (2), make sure you have (1), install (1), setup (1)
 > **Env Vars:** php (2), mamp (1), api (1)
-> **Code Keywords:** let (3)
 > **Versions:** php 8 (1), 3.14 (1), 8.3 (1)
 > **Cross-References:** later in (1), next video (1)
 > **Tools:** command line (1), github (1)
@@ -555,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1), else. (1)
+> **Frameworks & Libraries:** feature (2), [[Microsoft Word|Word]] (2), [[JSON]] (1), [[Programming]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** http (1), json (1)
 > **Prerequisites:** set up (1), setup (1)
@@ -651,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), function (2), assert (2), protected (1)
+> **Frameworks & Libraries:** feature (5), [[PHP]] (1), api (1)
 > **CLI Commands:** make (4), php (1)
 > **Code Identifiers:** monkeycount (4)
 > **Cross-References:** go back to (4)
@@ -663,7 +664,7 @@ created: 2026-04-29
 
 ### 2. Build Your First API Test
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make your first request
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980)
@@ -782,7 +783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (1), finally, (1), public (1), protected (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), api (3), feature (3), data (1), [[PHP]] (1)
 > **Tools:** github (5), command line (3)
 > **CLI Commands:** make (4), find (1), php (1)
 > **Env Vars:** api (3), php (1)
@@ -870,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), abstract (1)
+> **Frameworks & Libraries:** [[PHP]] (1), hit (1), api (1)
 > **CLI Commands:** make (4), php (1)
 > **Analogies:** just like (2), imagine (1)
 > **Env Vars:** php (1), api (1)
@@ -947,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (2), throw (1)
+> **Frameworks & Libraries:** feature (2), [[GitHub]] (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** http (3)
 > **Code Identifiers:** statuscode (2)
@@ -958,7 +959,7 @@ created: 2026-04-29
 
 ### 3. Handling Authentication in API Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expand your testing environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980)
@@ -1101,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (2), protected (2), finally, (1), class. (1)
+> **Frameworks & Libraries:** api (6), [[GitHub]] (6), data (2), [[PHP]] (2), [[Tokens]] (1)
 > **Env Vars:** api (6), php (1)
 > **CLI Commands:** make (4), php (2)
 > **Tools:** github (6)
@@ -1297,7 +1298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), private (4), pass (3), throw (3), finally, (1)
+> **Frameworks & Libraries:** api (6), [[GitHub]] (5), next (3), feature (1)
 > **CLI Commands:** make (7), find (3)
 > **Tools:** github (5), command line (5)
 > **Cross-References:** go back to (5), in the last (1), in the next (1)
@@ -1453,7 +1454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (2), private (1), case, (1), function (1)
+> **Frameworks & Libraries:** api (11), [[GitHub]] (8), hit (2), next (2), data (1)
 > **Env Vars:** api (11)
 > **Tools:** github (8), command line (2)
 > **CLI Commands:** make (4), find (1)
@@ -1577,7 +1578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), this. (2), class. (1), throw (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), next (2), feature (1)
 > **Tools:** github (3), command line (2)
 > **Cross-References:** go back to (2), in the next (1), in the last (1)
 > **CLI Commands:** make (2)
@@ -1741,7 +1742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (8), pass (2), for. (2), throw (2)
+> **Frameworks & Libraries:** api (1), hit (1), [[PHP]] (1), [[GitHub]] (1), next (1)
 > **CLI Commands:** make (3), php (1), find (1)
 > **Cross-References:** go back to (3), next chapter (1)
 > **Code Identifiers:** myrepositorywilllistmeasastargazer (1), myrepositorywillnotlistmeasastargazer (1), isastargazer (1)
@@ -1753,7 +1754,7 @@ created: 2026-04-29
 
 ### 4. Advanced API Testing in Practice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980)
@@ -1906,7 +1907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), delete (4), function (4), this. (3), case, (2)
+> **Frameworks & Libraries:** [[GitHub]] (4), api (3), feature (2), next (2), hit (1)
 > **Tools:** command line (4), github (4)
 > **Env Vars:** api (3), bdd (1), url (1)
 > **Cross-References:** go back to (4), previous chapter (1)
@@ -2096,7 +2097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), delete (12), function (6), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), feature (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** find (4), make (3)
 > **Tools:** github (4), command line (3)
 > **UI Navigation:** go to (3)
@@ -2210,7 +2211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5), pass (4), delete (3), include, (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), generic (1), feature (1), api (1)
 > **CLI Commands:** make (3), find (2)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** command line (1), github (1)
@@ -2328,7 +2329,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (5), delete (3), function (2), assert (2)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** checkresponsecode (3), statuscode (3)
 > **Cross-References:** go back to (2)
@@ -2388,6 +2388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[GitHub]] (3), data (1), api (1), [[Unit Testing]] (1)
 > **Env Vars:** php (3), sdk (2), api (1), json (1), html (1)
 > **CLI Commands:** php (3), ruby (1), python (1)
 > **Tools:** github (3)
@@ -2445,7 +2446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), case, (1), match. (1)
+> **Frameworks & Libraries:** data (5), [[GraphQL]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[PHP]] (1)
 > **CLI Commands:** make (4), php (1)
 > **Env Vars:** ide (2), rest (1), url (1), php (1)
 > **Tools:** visual studio (2), github (1)
@@ -2513,7 +2514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), api (3), feature (3), [[GitHub]] (2), data (1)
 > **Env Vars:** api (3), php (1)
 > **Tools:** github (2), visual studio (1), command line (1)
 > **CLI Commands:** make (2), php (1)
@@ -2525,7 +2526,7 @@ created: 2026-04-29
 
 ### 5. Planning Your API Testing Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mapping your API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980)
@@ -2604,8 +2605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (17), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Search]] (2), business (1)
 > **Env Vars:** api (17), url (2), dns (1)
-> **Code Keywords:** case, (1), static (1), return. (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** source code (1)
 > **Best Practices:** make sure to (1)
@@ -2684,9 +2685,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), api (2), next (1)
 > **Env Vars:** post (4), api (2), url (2), put (1), delete (1)
 > **API Endpoints:** post  (3), get  (2), put  (1), delete  (1)
-> **Code Keywords:** this. (2), delete (1), finally, (1), for. (1)
 > **Cross-References:** previous video (1), in the last (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** source code (1)
@@ -2752,9 +2753,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2827,6 +2828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Env Vars:** api (2), srp (2), bdd (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (1)
@@ -2914,7 +2916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (3), this, (2), delete (1), interface (1)
+> **Frameworks & Libraries:** api (12), [[Generative AI]] (5), [[Representational State Transfer (REST)|Rest]] (1), ai (1)
 > **Env Vars:** api (12), bdd (2)
 > **Documentation:** spec (4)
 > **CLI Commands:** make (2)
@@ -2974,14 +2976,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), function (1), class, (1), this. (1)
+> **Frameworks & Libraries:** feature (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980)
@@ -3028,8 +3030,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), next (2), [[GitHub]] (1), [[Software Development]] (1), [[Security]] (1)
 > **Env Vars:** api (6)
-> **Code Keywords:** finally, (2), this. (1)
 > **Tools:** github (1), postman (1)
 > **Best Practices:** remember to (2)
 > **Speakers:** - [instructor] (1)

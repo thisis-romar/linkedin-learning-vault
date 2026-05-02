@@ -32,7 +32,7 @@ tags:
   - skill/r-programming-language
   - skill/tidyverse
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20the%20R%20Tidyverse.md)
@@ -51,65 +51,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started in the R tidyverse
-  - How to use the exercise files
+  - [Getting started in the R tidyverse](#getting-started-in-the-r-tidyverse)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Tidyverse Fundamentals**](#1-tidyverse-fundamentals) (12 videos)
-  - What is the tidyverse?
-  - Installing, loading, and working with the tidyverse packages
-  - Introducing data.frame and tibbles
-  - What are %>% and |> for in the tidyverse
-  - Using the %>% pipe in your code
-  - Using the |> pipe in your code
-  - Datasets built into the tidyverse packages
-  - Using the select() function to obtain columns from data
-  - Using the filter() function to filter data by conditions
-  - Using the mutate() function to modify and add columns
-  - Challenge: Rewrite this code to use the pipe of your choice
-  - Solution: Rewrite this code to use the pipe of your choice
+  - [What is the tidyverse?](#what-is-the-tidyverse)
+  - [Installing, loading, and working with the tidyverse packages](#installing-loading-and-working-with-the-tidyverse-packages)
+  - [Introducing data.frame and tibbles](#introducing-dataframe-and-tibbles)
+  - [What are %>% and |> for in the tidyverse](#what-are-and-for-in-the-tidyverse)
+  - [Using the %>% pipe in your code](#using-the-pipe-in-your-code)
+  - [Using the |> pipe in your code](#using-the-pipe-in-your-code)
+  - [Datasets built into the tidyverse packages](#datasets-built-into-the-tidyverse-packages)
+  - [Using the select() function to obtain columns from data](#using-the-select-function-to-obtain-columns-from-data)
+  - [Using the filter() function to filter data by conditions](#using-the-filter-function-to-filter-data-by-conditions)
+  - [Using the mutate() function to modify and add columns](#using-the-mutate-function-to-modify-and-add-columns)
+  - [Challenge: Rewrite this code to use the pipe of your choice](#challenge-rewrite-this-code-to-use-the-pipe-of-your-choice)
+  - [Solution: Rewrite this code to use the pipe of your choice](#solution-rewrite-this-code-to-use-the-pipe-of-your-choice)
 - [**2. Tidy Data: The Fundamental Idea behind the Tidyverse**](#2-tidy-data-the-fundamental-idea-behind-the-tidyverse) (6 videos)
-  - What is tidy data?
-  - Why does ggplot2 want tidy data?
-  - Using pivot_longer() to tidy data into a long format
-  - Cleaning column names with the janitor package
-  - Tidying columns containing multiple values with separate_*()
-  - List columns and nested tibbles
+  - [What is tidy data?](#what-is-tidy-data)
+  - [Why does ggplot2 want tidy data?](#why-does-ggplot2-want-tidy-data)
+  - [Using pivot_longer() to tidy data into a long format](#using-pivot_longer-to-tidy-data-into-a-long-format)
+  - [Cleaning column names with the janitor package](#cleaning-column-names-with-the-janitor-package)
+  - [Tidying columns containing multiple values with separate_*()](#tidying-columns-containing-multiple-values-with-separate_)
+  - [List columns and nested tibbles](#list-columns-and-nested-tibbles)
 - [**3. Reading Data In and Out of the Tidyverse**](#3-reading-data-in-and-out-of-the-tidyverse) (4 videos)
-  - Using projects to simplify file paths
-  - Using read_csv() to read CSV files
-  - Using read_excel() to read data from Excel files
-  - Using haven to import from SPSS and other formats
+  - [Using projects to simplify file paths](#using-projects-to-simplify-file-paths)
+  - [Using read_csv() to read CSV files](#using-read_csv-to-read-csv-files)
+  - [Using read_excel() to read data from Excel files](#using-read_excel-to-read-data-from-excel-files)
+  - [Using haven to import from SPSS and other formats](#using-haven-to-import-from-spss-and-other-formats)
 - [**4. Grouping and Summarizing Data with the Tidyverse**](#4-grouping-and-summarizing-data-with-the-tidyverse) (10 videos)
-  - Grouping and summarizing data by column or row
-  - Cross tabulations with count()
-  - Column-wise groups: group_by() and mutate()
-  - Column-wise groups: group_by() and summarize()
-  - Column-wise groups: group_by() and reframe()
-  - Column-wise groups: Using the .by argument instead of group_by()
-  - Row-wise groups: rowwise() and c_across()
-  - Remember to ungroup()
-  - Challenge: Find maximum penguin dimension by island
-  - Solution: Find maximum penguin dimension by island
+  - [Grouping and summarizing data by column or row](#grouping-and-summarizing-data-by-column-or-row)
+  - [Cross tabulations with count()](#cross-tabulations-with-count)
+  - [Column-wise groups: group_by() and mutate()](#column-wise-groups-group_by-and-mutate)
+  - [Column-wise groups: group_by() and summarize()](#column-wise-groups-group_by-and-summarize)
+  - [Column-wise groups: group_by() and reframe()](#column-wise-groups-group_by-and-reframe)
+  - [Column-wise groups: Using the .by argument instead of group_by()](#column-wise-groups-using-the-by-argument-instead-of-group_by)
+  - [Row-wise groups: rowwise() and c_across()](#row-wise-groups-rowwise-and-c_across)
+  - [Remember to ungroup()](#remember-to-ungroup)
+  - [Challenge: Find maximum penguin dimension by island](#challenge-find-maximum-penguin-dimension-by-island)
+  - [Solution: Find maximum penguin dimension by island](#solution-find-maximum-penguin-dimension-by-island)
 - [**5. Important Packages and Functions in the Tidyverse**](#5-important-packages-and-functions-in-the-tidyverse) (5 videos)
-  - ggplot2 for beautiful data storytelling
-  - stringr for friendly string manipulation
-  - lubridate for manipulating dates and times
-  - forcats for manipulating factors
-  - purrr for doing many things like iteration
+  - [ggplot2 for beautiful data storytelling](#ggplot2-for-beautiful-data-storytelling)
+  - [stringr for friendly string manipulation](#stringr-for-friendly-string-manipulation)
+  - [lubridate for manipulating dates and times](#lubridate-for-manipulating-dates-and-times)
+  - [forcats for manipulating factors](#forcats-for-manipulating-factors)
+  - [purrr for doing many things like iteration](#purrr-for-doing-many-things-like-iteration)
 - [**6. Working Smart with the Tidyverse**](#6-working-smart-with-the-tidyverse) (8 videos)
-  - Handling NAs in the tidyverse with drop_na() and replace_na()
-  - Use case_when() instead of nested if or ifelse()
-  - Use tidy-select functions to work with many columns at once
-  - Using across() in mutate() to modify multiple columns at once
-  - Filtering many columns at once with if_any() and if_all()
-  - Understanding how the tidyverse evolves and deprecates
-  - Challenge: Find all love songs remaining below position 80 in the top 10
-  - Solution: Find all love songs remaining below position 80 in the top 10
+  - [Handling NAs in the tidyverse with drop_na() and replace_na()](#handling-nas-in-the-tidyverse-with-drop_na-and-replace_na)
+  - [Use case_when() instead of nested if or ifelse()](#use-case_when-instead-of-nested-if-or-ifelse)
+  - [Use tidy-select functions to work with many columns at once](#use-tidy-select-functions-to-work-with-many-columns-at-once)
+  - [Using across() in mutate() to modify multiple columns at once](#using-across-in-mutate-to-modify-multiple-columns-at-once)
+  - [Filtering many columns at once with if_any() and if_all()](#filtering-many-columns-at-once-with-if_any-and-if_all)
+  - [Understanding how the tidyverse evolves and deprecates](#understanding-how-the-tidyverse-evolves-and-deprecates)
+  - [Challenge: Find all love songs remaining below position 80 in the top 10](#challenge-find-all-love-songs-remaining-below-position-80-in-the-top-10)
+  - [Solution: Find all love songs remaining below position 80 in the top 10](#solution-find-all-love-songs-remaining-below-position-80-in-the-top-10)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started in the R tidyverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/getting-started-in-the-r-tidyverse?u=76281980)
@@ -128,7 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** is an  (1)
 > **Speakers:** - [charlie] (1)
 
@@ -181,8 +181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (1)
 > **UI Navigation:** go to (2), click on (2), open the (1)
-> **Code Keywords:** let (4)
 > **Env Vars:** zip (4)
 > **Tools:** github (3)
 > **Exercise Files:** exercise files (2), download the (1)
@@ -193,7 +193,7 @@ created: 2026-04-29
 
 ### 1. Tidyverse Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the tidyverse?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980)
@@ -242,8 +242,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Data Manipulation]] (1), [[Forecasting]] (1), [[Text Mining]] (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -356,8 +356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), data (2), prompt (1), [[RStudio]] (1), [[Microsoft Excel|Excel]] (1)
 > **Prerequisites:** install (9)
-> **Code Keywords:** let (6), this, (1), function (1)
 > **UI Navigation:** go to (2), click on (1), in the menu (1)
 > **Code Identifiers:** read_excel (2)
 > **Definitions:** is a  (2)
@@ -534,7 +534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (4), class. (1)
+> **Frameworks & Libraries:** data (36), feature (4), hit (1), [[Windows]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Code Identifiers:** as_tibble (2), group_by (2), max_sepal_length (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -618,8 +618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Search]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (2), switch (1)
 > **Versions:** version 4 (2)
 > **Definitions:** is a  (1), means that (1)
 > **Warnings:** keep in mind (1)
@@ -723,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), this, (1)
+> **Frameworks & Libraries:** data (9), hit (1), [[Windows]] (1), [[RStudio]] (1)
 > **Code Identifiers:** vore_summary (2), raw_data (1)
 > **Best Practices:** recommended (2), rule of thumb (1)
 > **Definitions:** known as (1), is a  (1)
@@ -859,7 +859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (1), delete (1)
+> **Frameworks & Libraries:** data (10), [[RStudio]] (4), [[Windows]] (3), hit (2), [[Security]] (1)
 > **Versions:** version 4 (2), 4.1 (1), 3.1 (1)
 > **UI Navigation:** in the menu (1), checkbox (1), scroll down (1), go to (1)
 > **Code Identifiers:** vore_summary (2), raw_data (1)
@@ -931,7 +931,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3)
 > **Code Identifiers:** vcdextra (4), as_tibble (2), tidyverse_packages (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1029,7 +1028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5)
+> **Frameworks & Libraries:** [[RStudio]] (3), feature (1), data (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** pid (5)
 > **Code Identifiers:** starts_with (2), ends_with (1)
@@ -1141,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (9), this, (1), continue (1)
+> **Frameworks & Libraries:** data (2), [[Search]] (2)
 > **Code Identifiers:** gss_cat (4), str_detect (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** sdr (2)
@@ -1219,8 +1218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[RStudio]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** sleep_total (6), sleep_rem (2), sleep_non_rem (2), msleep_processed (2), sleep_not_rem (1)
-> **Code Keywords:** let (5), function (3), for, (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** rem (2)
 > **Definitions:** is a  (1)
@@ -1279,7 +1278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Code Identifiers:** sleep_total (1), sleep_rem (1), sleep_total_perc (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** rem (1)
@@ -1369,7 +1368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2), this. (1), delete (1), default. (1)
+> **Frameworks & Libraries:** next (3), data (2)
 > **Code Identifiers:** sleep_total_percentage (1), sleep_total (1), sleep_total_perc (1), sleep_rem (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
@@ -1380,7 +1379,7 @@ created: 2026-04-29
 
 ### 2. Tidy Data: The Fundamental Idea behind the Tidyverse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is tidy data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-tidy-data?u=76281980)
@@ -1447,6 +1446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** gdp (1)
 > **Speakers:** - [instructor] (1)
@@ -1542,7 +1542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), for. (1)
+> **Frameworks & Libraries:** data (17), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
@@ -1631,7 +1631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (4), throw (1), from. (1)
+> **Frameworks & Libraries:** data (8)
 > **Code Identifiers:** pivot_longer (6), pivot_wider (5), births_australia (2), names_prefix (2), un_long (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** o2_o3b (1)
@@ -1720,7 +1720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3)
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (2)
 > **UI Navigation:** select the (1)
@@ -1821,7 +1821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (1)
+> **Frameworks & Libraries:** data (14)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1927,7 +1927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), this. (1)
+> **Frameworks & Libraries:** data (12)
 > **CLI Commands:** make (4)
 > **Env Vars:** o206b (1), c3po (1)
 > **Code Identifiers:** n_films (1)
@@ -1937,7 +1937,7 @@ created: 2026-04-29
 
 ### 3. Reading Data In and Out of the Tidyverse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using projects to simplify file paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980)
@@ -2042,7 +2042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (4)
+> **Frameworks & Libraries:** [[RStudio]] (10), data (4), hit (3), [[GitHub]] (2), [[Version Control]] (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Code Identifiers:** read_csv (1), un_data (1)
 > **Tools:** github (2)
@@ -2146,7 +2146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (9)
+> **Frameworks & Libraries:** data (11)
 > **Code Identifiers:** read_csv (10), data_baser (3), data_readr (1)
 > **File Paths:** read.csv (10), sample-data.csv (1)
 > **Versions:** 1.5 (1), 1.504 (1), 0.925 (1), 0.256 (1)
@@ -2204,7 +2204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (6)
 > **Code Identifiers:** read_excel (2), excel_sheets (1)
 > **CLI Commands:** find (1)
 > **Documentation:** the documentation (1)
@@ -2292,7 +2292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), pass (1)
+> **Frameworks & Libraries:** data (17), [[Stata]] (2)
 > **Env Vars:** spss (7), sas (2), doi (1), dbl (1), lbl (1)
 > **Code Identifiers:** as_factor (3), col_name (2)
 > **CLI Commands:** make (3)
@@ -2302,7 +2302,7 @@ created: 2026-04-29
 
 ### 4. Grouping and Summarizing Data with the Tidyverse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping and summarizing data by column or row
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/grouping-and-summarising-data-by-column-or-row?u=76281980)
@@ -2349,7 +2349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), switch (1), default. (1), let (1)
+> **Frameworks & Libraries:** data (12), next (1)
 > **Code Identifiers:** group_by (2)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
@@ -2417,7 +2417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** add_count (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** true (1)
@@ -2482,8 +2482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Code Identifiers:** group_by (7), earliest_birth_year (1), birth_year (1)
-> **Code Keywords:** function (4), let (4)
 > **CLI Commands:** rm (2)
 > **Env Vars:** true (1)
 > **UI Navigation:** scroll up (1)
@@ -2543,8 +2543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (1), data (1)
 > **Code Identifiers:** group_by (7), max_height (3)
-> **Code Keywords:** let (4), function (2), default. (1)
 > **Cross-References:** previous video (2)
 > **CLI Commands:** rm (1)
 > **Env Vars:** true (1)
@@ -2608,7 +2608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3)
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** group_by (1)
 > **Versions:** version 1 (1)
@@ -2666,7 +2666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** group_by (6)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** remember to (2)
@@ -2742,8 +2742,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** c_across (8), group_by (3), exam_data (2), max_score (2), starts_with (2)
-> **Code Keywords:** let (9), function (4), this, (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2794,7 +2794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** student_year_averages (1)
 > **Best Practices:** don't forget (1)
@@ -2823,6 +2823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** remember to (1)
@@ -2909,7 +2910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), abstract (1)
+> **Frameworks & Libraries:** data (3)
 > **Code Identifiers:** max_dimension (3), bill_length (1), bill_depth (1), flipper_length (1), c_across (1)
 > **CLI Commands:** make (3), find (2), rm (2)
 > **Speakers:** - [instructor] (1)
@@ -2918,7 +2919,7 @@ created: 2026-04-29
 
 ### 5. Important Packages and Functions in the Tidyverse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ggplot2 for beautiful data storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/ggplot2-for-beautiful-data-storytelling?u=76281980)
@@ -3049,7 +3050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), for. (1)
+> **Frameworks & Libraries:** data (14), [[LinkedIn]] (2), next (1)
 > **Code Identifiers:** geom_point (2), clean_test (2), scale_colour_viridis (1), facet_wrap (1), gg_animated (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** gif (2)
@@ -3205,7 +3206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (7), this. (1), case, (1), case. (1)
+> **Frameworks & Libraries:** data (21), [[Microsoft Word|Word]] (10)
 > **Code Identifiers:** str_extract (3), str_detect (2), str_to_lower (2), str_replace (2), str_starts (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), cat (1)
@@ -3308,7 +3309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (3)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** policy_end_date (4), quote_date (3), policy_start_date (3), renewal_reminder_date (2), clean_names (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
@@ -3458,7 +3459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (5), this. (1), this, (1)
+> **Frameworks & Libraries:** data (4), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), cat (1)
 > **Code Identifiers:** fct_explicit_na (2), fct_na_value_to_level (2), fact_reorder (1), fct_collapse (1)
 > **Definitions:** is a  (5), is an  (1)
@@ -3611,7 +3612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (15), for, (1), type . (1)
+> **Frameworks & Libraries:** data (22), [[Functional Programming]] (2), generic (1)
 > **Definitions:** is a  (5)
 > **Code Identifiers:** data_gapminder (2), read_csv (1), map_df (1)
 > **CLI Commands:** make (2)
@@ -3621,7 +3622,7 @@ created: 2026-04-29
 
 ### 6. Working Smart with the Tidyverse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling NAs in the tidyverse with drop_na() and replace_na()
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/handling-nas-in-the-tidyverse-with-drop-na-replace-na?u=76281980)
@@ -3694,7 +3695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (5), switch (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** drop_na (3), replace_na (2), if_any (1), na_if (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -3820,8 +3821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1)
 > **Code Identifiers:** case_when (13), sleep_total (6), sleep_rem (3), sleep_category (1)
-> **Code Keywords:** let (15), function (3), else. (1), this, (1)
 > **Env Vars:** true (3)
 > **Warnings:** common error (1), be careful (1)
 > **CLI Commands:** make (1)
@@ -3914,7 +3915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (4)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (7)
 > **Documentation:** the documentation (2)
 > **Cross-References:** later in (1)
@@ -4019,7 +4020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (6)
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (2), rm (1)
 > **Code Identifiers:** max_score (1), c_across (1)
 > **Definitions:** is a  (2)
@@ -4081,7 +4082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (1)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** if_any (6), if_all (4)
 > **Documentation:** specification (2)
 > **CLI Commands:** make (1)
@@ -4145,7 +4146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), continue (1)
+> **Frameworks & Libraries:** data (3), feature (1)
 > **Documentation:** the documentation (3)
 > **Warnings:** caution (3)
 > **Code Identifiers:** pivot_longer (1), pivot_wider (1)
@@ -4181,6 +4182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -4245,7 +4247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), case. (1), yield (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Search]] (1)
 > **Code Identifiers:** if_all (4), str_detect (1), sdr_to_lower (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -4255,7 +4257,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980)
@@ -4284,6 +4286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[LinkedIn]] (3), [[Data Storytelling]] (2), [[Search]] (1)
 > **Speakers:** - [charlotte] (1)
 
 

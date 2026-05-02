@@ -28,7 +28,7 @@ tags:
   - skill/software-architecture
   - skill/microservices
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Software%20Architecture-%20Breaking%20a%20Monolith%20into%20Microservices.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Embark on a journey to refactor your architecture
+  - [Embark on a journey to refactor your architecture](#embark-on-a-journey-to-refactor-your-architecture)
 - [**1. Understand the Status Quo and the Project Goals**](#1-understand-the-status-quo-and-the-project-goals) (4 videos)
-  - Welcome to your new role!
-  - Start with the "why"
-  - Defining the project scope
-  - Mapping out the current architecture
+  - [Welcome to your new role!](#welcome-to-your-new-role)
+  - [Start with the "why"](#start-with-the-why)
+  - [Defining the project scope](#defining-the-project-scope)
+  - [Mapping out the current architecture](#mapping-out-the-current-architecture)
 - [**2. Splitting Capabilities into Services**](#2-splitting-capabilities-into-services) (9 videos)
-  - Design mistakes and how to avoid them
-  - Refactor or rewrite?
-  - Choosing your first migration target
-  - Splitting out your first service
-  - Zero downtime migrations
-  - Migrating interdependent, complex capabilities
-  - Providing a migration API layer
-  - What about the front end?
-  - Making the final step
+  - [Design mistakes and how to avoid them](#design-mistakes-and-how-to-avoid-them)
+  - [Refactor or rewrite?](#refactor-or-rewrite)
+  - [Choosing your first migration target](#choosing-your-first-migration-target)
+  - [Splitting out your first service](#splitting-out-your-first-service)
+  - [Zero downtime migrations](#zero-downtime-migrations)
+  - [Migrating interdependent, complex capabilities](#migrating-interdependent-complex-capabilities)
+  - [Providing a migration API layer](#providing-a-migration-api-layer)
+  - [What about the front end?](#what-about-the-front-end)
+  - [Making the final step](#making-the-final-step)
 - [**3. Required Operational and Organizational Maturity**](#3-required-operational-and-organizational-maturity) (5 videos)
-  - It's not just about code: Meet Mr. Conway
-  - Provide up-to-date API documentation with Swagger
-  - Streamline cross-team collaboration with Inner Source
-  - Continuous integration and deployment
-  - Why you need monitoring from the very start
+  - [It's not just about code: Meet Mr. Conway](#its-not-just-about-code-meet-mr-conway)
+  - [Provide up-to-date API documentation with Swagger](#provide-up-to-date-api-documentation-with-swagger)
+  - [Streamline cross-team collaboration with Inner Source](#streamline-cross-team-collaboration-with-inner-source)
+  - [Continuous integration and deployment](#continuous-integration-and-deployment)
+  - [Why you need monitoring from the very start](#why-you-need-monitoring-from-the-very-start)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Apply your knowledge
+  - [Apply your knowledge](#apply-your-knowledge)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embark on a journey to refactor your architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980)
@@ -107,14 +107,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (3), application (1), [[Software Architecture]] (1), [[Kubernetes]] (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understand the Status Quo and the Project Goals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to your new role!
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980)
@@ -189,10 +189,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Java]] (1), [[PHP]] (1), [[SQL]] (1), data (1)
 > **Env Vars:** cto (2), php (1), sql (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1), find (1), php (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Start with the "why"
@@ -330,7 +330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), super (1)
+> **Frameworks & Libraries:** business (5), cloud (4), [[Kubernetes]] (3), data (2), power (2)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** ios (1)
@@ -408,8 +408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (12), business (2), [[Integration Testing]] (2), next (1), application (1)
 > **CLI Commands:** find (2), make (2), python (1)
-> **Code Keywords:** let (3), static (1)
 > **Env Vars:** api (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -487,7 +487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1), continue (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (3), front-end (2), database (2), web (1), api (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Env Vars:** ide (1), api (1), sql (1)
 > **CLI Commands:** make (1), mongo (1)
@@ -497,7 +497,7 @@ created: 2026-04-29
 
 ### 2. Splitting Capabilities into Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design mistakes and how to avoid them
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980)
@@ -602,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), module (1), self (1)
+> **Frameworks & Libraries:** data (8), [[Search]] (6), database (5), [[Fetch]] (4), [[Microservices]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), namic (1)
@@ -649,8 +649,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (4), api (1), [[Representational State Transfer (REST)|Rest]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Exercise Files:** boilerplate (1)
 > **Definitions:** we call this (1)
@@ -695,7 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), application (2), management (2), business (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -771,7 +771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), interface (1), delete (1), let (1)
+> **Frameworks & Libraries:** database (4), data (3), next (2), management (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (1), sql (1)
 > **CLI Commands:** mongo (1)
 > **Cross-References:** in the next (1)
@@ -860,8 +860,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), business (2), application (2), feature (1), next (1)
 > **UI Navigation:** toggle (6), switch to (1)
-> **Code Keywords:** switch (3), finally, (2), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -942,7 +942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), delete (1)
+> **Frameworks & Libraries:** cloud (4), application (2), next (2), [[Cloud Infrastructure]] (1), api (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** api (1)
@@ -981,6 +981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), data (1), database (1), [[Security]] (1), api (1)
 > **Env Vars:** api (1), stm (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1076,8 +1077,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (8), [[JavaScript]] (8), data (4), front-end (3), api (2)
 > **Env Vars:** html (8), api (2), url (1)
-> **Code Keywords:** interface (3), let (1), case. (1), finally, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1122,10 +1123,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (3), business (2), application (2), [[Microservices]] (2), [[Kubernetes]] (1)
 > **CLI Commands:** node (4), make (1)
 > **File Paths:** node.js (3)
 > **Env Vars:** api (1), cpu (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1133,7 +1134,7 @@ created: 2026-04-29
 
 ### 3. Required Operational and Organizational Maturity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### It's not just about code: Meet Mr. Conway
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980)
@@ -1228,9 +1229,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (7), data (3), [[Microservices]] (3), [[Engineering]] (2), business (2)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (7)
-> **Code Keywords:** let (1), require (1), switch (1)
 > **Env Vars:** api (1), ehr (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1272,6 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), data (2), [[Design Systems]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[SaaS|Software as a service]] (1)
 > **Env Vars:** api (5), rest (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1)
@@ -1365,8 +1367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), feature (3), [[Team Collaboration]] (2), [[Version Control]] (2), product (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), let (1), this. (1)
 > **Documentation:** specification (3)
 > **Env Vars:** fbn (1)
 > **Cross-References:** in the next (1)
@@ -1463,8 +1465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Microservices]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), feature (2), next (2)
 > **Definitions:** is a  (1), is called (1), means that (1)
-> **Code Keywords:** let (1), this. (1)
 > **Cross-References:** in the next (2)
 > **Env Vars:** cicd (1)
 > **Analogies:** similar to (1)
@@ -1575,7 +1577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), finally, (1), case, (1), let (1), pass (1)
+> **Frameworks & Libraries:** data (8), [[Microservices]] (4), database (3), application (3), cloud (1)
 > **Definitions:** means that (2), is a  (2), is an  (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** cpu (1)
@@ -1586,7 +1588,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980)
@@ -1619,9 +1621,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (3), [[Node.js]] (3), application (1)
 > **CLI Commands:** node (3), find (1)
 > **File Paths:** node.js (3)
-> **Code Keywords:** function (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [daniel] (1)
 

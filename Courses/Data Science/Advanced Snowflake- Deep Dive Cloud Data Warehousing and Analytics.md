@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/snowflake
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Snowflake-%20Deep%20Dive%20Cloud%20Data%20Warehousing%20and%20Analytics.md)
@@ -49,48 +49,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Advanced Snowflake
-  - Snowflake architecture
-  - Getting set up with Snowflake
+  - [Advanced Snowflake](#advanced-snowflake)
+  - [Snowflake architecture](#snowflake-architecture)
+  - [Getting set up with Snowflake](#getting-set-up-with-snowflake)
 - [**1. Table Structures in Snowflake**](#1-table-structures-in-snowflake) (8 videos)
-  - Micropartitioning and clustering
-  - Types of tables in Snowflake
-  - Creating permanent tables
-  - Creating temporary tables
-  - Creating transient tables
-  - Configuring data retention time
-  - Querying historical data
-  - Dropping and restoring tables
+  - [Micropartitioning and clustering](#micropartitioning-and-clustering)
+  - [Types of tables in Snowflake](#types-of-tables-in-snowflake)
+  - [Creating permanent tables](#creating-permanent-tables)
+  - [Creating temporary tables](#creating-temporary-tables)
+  - [Creating transient tables](#creating-transient-tables)
+  - [Configuring data retention time](#configuring-data-retention-time)
+  - [Querying historical data](#querying-historical-data)
+  - [Dropping and restoring tables](#dropping-and-restoring-tables)
 - [**2. Views in Snowflake**](#2-views-in-snowflake) (6 videos)
-  - Non-materialized, materialized, and secure views
-  - Creating and populating tables
-  - Creating and querying views
-  - Recreating views
-  - Querying regular views and secure views
-  - Creating and querying materialized views
+  - [Non-materialized, materialized, and secure views](#non-materialized-materialized-and-secure-views)
+  - [Creating and populating tables](#creating-and-populating-tables)
+  - [Creating and querying views](#creating-and-querying-views)
+  - [Recreating views](#recreating-views)
+  - [Querying regular views and secure views](#querying-regular-views-and-secure-views)
+  - [Creating and querying materialized views](#creating-and-querying-materialized-views)
 - [**3. Optimizing Query Performance**](#3-optimizing-query-performance) (8 videos)
-  - Caching, clustering, and search optimization
-  - Loading data using COPY INTO
-  - Retrieval optimization using cached results
-  - Enabling clustering on tables
-  - Querying clustered tables
-  - Querying clustering information
-  - Running point lookup queries on search-optimized tables
-  - Clustering vs. search optimization
+  - [Caching, clustering, and search optimization](#caching-clustering-and-search-optimization)
+  - [Loading data using COPY INTO](#loading-data-using-copy-into)
+  - [Retrieval optimization using cached results](#retrieval-optimization-using-cached-results)
+  - [Enabling clustering on tables](#enabling-clustering-on-tables)
+  - [Querying clustered tables](#querying-clustered-tables)
+  - [Querying clustering information](#querying-clustering-information)
+  - [Running point lookup queries on search-optimized tables](#running-point-lookup-queries-on-search-optimized-tables)
+  - [Clustering vs. search optimization](#clustering-vs-search-optimization)
 - [**4. Working with Semi-structured Data**](#4-working-with-semi-structured-data) (3 videos)
-  - Loading and querying parquet data
-  - Loading JSON data
-  - Querying JSON data
+  - [Loading and querying parquet data](#loading-and-querying-parquet-data)
+  - [Loading JSON data](#loading-json-data)
+  - [Querying JSON data](#querying-json-data)
 - [**5. Managing Users and Granting Privileges**](#5-managing-users-and-granting-privileges) (3 videos)
-  - Access control
-  - Creating users and viewing grants
-  - Granting privileges to roles
+  - [Access control](#access-control)
+  - [Creating users and viewing grants](#creating-users-and-viewing-grants)
+  - [Granting privileges to roles](#granting-privileges-to-roles)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980)
@@ -173,11 +173,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (31), data (15), cloud (11), [[SQL]] (4), [[Big Data]] (4)
 > **Env Vars:** sql (4), aws (2), gcp (1), epl (1)
 > **Definitions:** is a  (3), means that (2), is an  (1)
 > **CLI Commands:** aws (2), apache (1), find (1)
 > **Prerequisites:** install (2), set up (1), configure (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [janani] (1)
 
@@ -304,8 +304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Snowflake]] (14), database (8), cloud (3), management (2)
 > **Definitions:** is a  (5)
-> **Code Keywords:** finally, (2), let (1), function (1)
 > **Analogies:** such as (2), picture (1), for example (1)
 > **Env Vars:** sql (1), cpu (1)
 > **CLI Commands:** make (1)
@@ -366,8 +366,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (14), [[Microsoft Azure|Azure]] (2), [[Databases]] (2), cloud (1), aws (1)
 > **Env Vars:** snowflake_sample_date (2), url (1), aws (1), gcp (1), snowflake (1)
-> **Code Keywords:** let (3), interface (1), switch (1), default. (1)
 > **CLI Commands:** aws (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** switch to (1)
@@ -376,7 +376,7 @@ created: 2026-04-29
 
 ### 1. Table Structures in Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Micropartitioning and clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980)
@@ -473,7 +473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), let (1), finally, (1), default, (1), default. (1)
+> **Frameworks & Libraries:** data (15), [[Snowflake]] (14), [[Metadata]] (3), parallel (1), [[Big Data]] (1)
 > **Analogies:** such as (2)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
@@ -568,7 +568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (1), continue (1)
+> **Frameworks & Libraries:** data (42), [[Snowflake]] (14), cloud (3), [[Data Manipulation]] (1), [[Security]] (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -675,8 +675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), [[Snowflake]] (4), hit (3), data (2), next (1)
 > **Env Vars:** in_production (7), ecommerce_db (6), compute_wh (2), information_schema (2), tables (2)
-> **Code Keywords:** let (6), public (2), type, (1)
 > **Definitions:** means that (2), is called (1), is a  (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** imagine (2)
@@ -835,8 +835,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (2), database (1), [[Metadata]] (1), hit (1), next (1)
 > **Env Vars:** in_testing (11), ecommerce_db (4), in_production (4), information_schema (2), select (2)
-> **Code Keywords:** let (8), public (4), type, (1), switch (1), this. (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (4)
 > **SQL:** select (2)
@@ -957,8 +957,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (3), hit (3), database (1), data (1), [[Metadata]] (1)
 > **Env Vars:** in_beta (7), table (6), create (3), is_transient (3), in_production (3)
-> **Code Keywords:** let (9), this, (1), continue (1), this. (1), default. (1)
 > **Definitions:** is a  (5)
 > **SQL:** create table (2), select (2)
 > **Code Identifiers:** ecommerce (1)
@@ -1032,7 +1032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1)
+> **Frameworks & Libraries:** data (15), [[Snowflake]] (5), [[Metadata]] (3), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [lecturer] (1)
@@ -1102,8 +1102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Google]] (11)
 > **Env Vars:** oppo (9)
-> **Code Keywords:** let (4), delete (3), function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1164,14 +1164,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case. (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[Metadata]] (1)
 > **Code Identifiers:** information_schema (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Views in Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Non-materialized, materialized, and secure views
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980)
@@ -1250,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Snowflake]] (6), [[Security]] (1), [[Privacy]] (1)
 > **Analogies:** just like (1), for example (1), similar to (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1350,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (5), switch (1), continue (1), public (1)
+> **Frameworks & Libraries:** product (8), [[E-Commerce]] (6), [[Microsoft Products|Products]] (5), database (3), [[Snowflake]] (2)
 > **UI Navigation:** click on (1), dropdown (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** gcp (1)
@@ -1409,10 +1409,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), data (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** view (16), order_summary (6), order_details (3), select (3), customer_details (2)
 > **Code Identifiers:** ord_id (2), cust_name (2), cust_id (1), prod_id (1), ord_date (1)
 > **SQL:** select (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** as we saw (1)
 > **UI Navigation:** select the (1)
@@ -1467,7 +1467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (5), data (1)
 > **SQL:** varchar (1)
 > **Env Vars:** varchar (1)
 > **Definitions:** is a  (1)
@@ -1587,8 +1587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Zoom]] (1), product (1), data (1), [[Snowflake]] (1)
 > **Definitions:** is a  (5), means that (1)
-> **Code Keywords:** let (3), this. (1), switch (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Speakers:** - so (1)
 
@@ -1677,7 +1677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), this, (1), return. (1), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Snowflake]] (2), database (2)
 > **Versions:** 13.3 (2), 1.6 (1), 1.5 (1), 0.05 (1), 0.06 (1)
 > **Definitions:** is called (1), is a  (1), means that (1)
 > **CLI Commands:** find (2)
@@ -1689,7 +1689,7 @@ created: 2026-04-29
 
 ### 3. Optimizing Query Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Caching, clustering, and search optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980)
@@ -1792,7 +1792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2), require (2), this. (1), default. (1)
+> **Frameworks & Libraries:** data (16), [[Search]] (13), [[Snowflake]] (7), [[SQL]] (3), next (1)
 > **Env Vars:** sql (3), ssd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1900,8 +1900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (7), [[Snowflake]] (6), next (4), hit (3)
 > **Env Vars:** csv (6), url (2), sfi (1), compute (1)
-> **Code Keywords:** public (3), switch (2), let (1), continue (1)
 > **Code Identifiers:** sales_db (3), ecommerce (1)
 > **Tools:** terminal (1), command line (1)
 > **Definitions:** is a  (2)
@@ -2002,7 +2002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Snowflake]] (2), [[Statistics]] (1), hit (1), cloud (1)
 > **CLI Commands:** find (4)
 > **Versions:** 19.7 (2), 1.13 (2)
 > **Env Vars:** alter (3)
@@ -2127,7 +2127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default. (1)
+> **Frameworks & Libraries:** data (5), [[Metadata]] (4), [[Snowflake]] (3), next (2), database (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -2217,7 +2217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), case, (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Warnings:** heads up (1)
@@ -2288,8 +2288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (5), data (2)
 > **Env Vars:** json (5)
-> **Code Keywords:** let (4)
 > **Definitions:** is a  (3), refers to (1)
 > **Versions:** 6.78 (1), 4.8182 (1)
 > **UI Navigation:** select the (2)
@@ -2424,7 +2424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[Search]] (30), data (4), [[JSON]] (2), next (1), [[Snowflake]] (1)
 > **Env Vars:** iowa_sales (2), json (2), use_cached_result (1), iowa_sales_optimized (1), iowa_sales_optomized (1)
 > **Definitions:** is a  (4)
 > **Versions:** 0.02 (1), 1.9 (1), 1.8 (1)
@@ -2582,8 +2582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (17), data (3), database (1)
 > **Env Vars:** o_custkey (4), orders_clustered (4), orders_search_optimized (3), snowflake_sample_data (1), tpch_sf100 (1)
-> **Code Keywords:** let (10), case, (3)
 > **Definitions:** is a  (4), is called (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
@@ -2593,7 +2593,7 @@ created: 2026-04-29
 
 ### 4. Working with Semi-structured Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading and querying parquet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980)
@@ -2724,7 +2724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (1), type. (1), continue (1)
+> **Frameworks & Libraries:** data (18), [[Snowflake]] (5), [[SQL]] (3), database (3), next (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -2792,8 +2792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[JSON]] (14), next (2), [[Snowflake]] (1)
 > **Env Vars:** json (13), url (1), zip (1)
-> **Code Keywords:** let (5), finally, (1), case. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** zomato_data.json (1)
 > **Documentation:** specification (1)
@@ -2895,8 +2895,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (13), data (8), api (1), [[Snowflake]] (1)
 > **Env Vars:** json (13), api (1)
-> **Code Keywords:** let (4), interface (1)
 > **Definitions:** is a  (3), is an  (2)
 > **UI Navigation:** select the (4)
 > **Speakers:** - [instructor] (1)
@@ -2904,7 +2904,7 @@ created: 2026-04-29
 
 ### 5. Managing Users and Granting Privileges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980)
@@ -3005,7 +3005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Snowflake]] (11), [[Databases]] (1), next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** opp (1)
 > **Speakers:** - in (1)
@@ -3119,7 +3119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (12), let (2), function (1), default. (1), else. (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), database (6), data (3), [[Security]] (1)
 > **UI Navigation:** click on (3), dropdown (2), select the (1), scroll down (1)
 > **Env Vars:** cis (1), url (1)
 > **Definitions:** is a  (1)
@@ -3231,8 +3231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), next (5), hit (2), data (2), [[Metadata]] (1)
 > **Env Vars:** basic_role (18), sales_db (6), iowa_sales (3), select (2), public (2)
-> **Code Keywords:** public (6), let (5), switch (5)
 > **UI Navigation:** click on (2), dropdown (2)
 > **SQL:** select (2)
 > **CLI Commands:** make (1)
@@ -3241,7 +3241,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980)
@@ -3288,7 +3288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), continue (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), data (4), [[Big Data]] (3), cloud (2), next (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** json (1)
 > **Cross-References:** we discussed (1)

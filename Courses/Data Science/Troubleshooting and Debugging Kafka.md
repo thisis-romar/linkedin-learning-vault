@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/apache-kafka
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Troubleshooting%20and%20Debugging%20Kafka.md)
@@ -49,50 +49,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Overview of troubleshooting and debugging Kafka
+  - [Overview of troubleshooting and debugging Kafka](#overview-of-troubleshooting-and-debugging-kafka)
 - [**1. Introducing Cloud-Native Kafka on Confluent**](#1-introducing-cloud-native-kafka-on-confluent) (6 videos)
-  - Prerequisites
-  - An overview of Apache Kafka
-  - The Confluent platform
-  - Downloading the Confluent platform binaries
-  - Running the Confluent platform locally
-  - Overview of the control center
+  - [Prerequisites](#prerequisites)
+  - [An overview of Apache Kafka](#an-overview-of-apache-kafka)
+  - [The Confluent platform](#the-confluent-platform)
+  - [Downloading the Confluent platform binaries](#downloading-the-confluent-platform-binaries)
+  - [Running the Confluent platform locally](#running-the-confluent-platform-locally)
+  - [Overview of the control center](#overview-of-the-control-center)
 - [**2. Observing Consumers and Brokers**](#2-observing-consumers-and-brokers) (4 videos)
-  - Observing message production and consumption
-  - Produce messages using the control center
-  - Using datagen to generate synthetic data
-  - Observing consumers
+  - [Observing message production and consumption](#observing-message-production-and-consumption)
+  - [Produce messages using the control center](#produce-messages-using-the-control-center)
+  - [Using datagen to generate synthetic data](#using-datagen-to-generate-synthetic-data)
+  - [Observing consumers](#observing-consumers)
 - [**3. Processing Kafka Streams**](#3-processing-kafka-streams) (4 videos)
-  - Understanding ksqlDB
-  - Creating streams and tables using ksqlDB
-  - Performing join and windowing operations
-  - Viewing streams and tables
+  - [Understanding ksqlDB](#understanding-ksqldb)
+  - [Creating streams and tables using ksqlDB](#creating-streams-and-tables-using-ksqldb)
+  - [Performing join and windowing operations](#performing-join-and-windowing-operations)
+  - [Viewing streams and tables](#viewing-streams-and-tables)
 - [**4. Monitoring Consumer Groups**](#4-monitoring-consumer-groups) (6 videos)
-  - Programmatically produce messages using Python
-  - Troubleshooting partition usage
-  - Consumer groups
-  - Monitoring consumption in a consumer group
-  - Debugging consumption lag
-  - Monitoring consumer group rebalancing
+  - [Programmatically produce messages using Python](#programmatically-produce-messages-using-python)
+  - [Troubleshooting partition usage](#troubleshooting-partition-usage)
+  - [Consumer groups](#consumer-groups)
+  - [Monitoring consumption in a consumer group](#monitoring-consumption-in-a-consumer-group)
+  - [Debugging consumption lag](#debugging-consumption-lag)
+  - [Monitoring consumer group rebalancing](#monitoring-consumer-group-rebalancing)
 - [**5. Monitoring Multi-Broker Clusters**](#5-monitoring-multi-broker-clusters) (5 videos)
-  - Configuration properties for a multi-broker cluster
-  - Running a multi-broker cluster on the Confluent platform
-  - Monitoring brokers
-  - Observing partitions and replication
-  - Monitoring broker throughput and latency
+  - [Configuration properties for a multi-broker cluster](#configuration-properties-for-a-multi-broker-cluster)
+  - [Running a multi-broker cluster on the Confluent platform](#running-a-multi-broker-cluster-on-the-confluent-platform)
+  - [Monitoring brokers](#monitoring-brokers)
+  - [Observing partitions and replication](#observing-partitions-and-replication)
+  - [Monitoring broker throughput and latency](#monitoring-broker-throughput-and-latency)
 - [**6. Debugging Brokers and Consumers**](#6-debugging-brokers-and-consumers) (3 videos)
-  - Debugging failed brokers, part 1
-  - Debugging failed brokers, part 2
-  - Debugging slow consumers
+  - [Debugging failed brokers, part 1](#debugging-failed-brokers-part-1)
+  - [Debugging failed brokers, part 2](#debugging-failed-brokers-part-2)
+  - [Debugging slow consumers](#debugging-slow-consumers)
 - [**7. Configuring Alerts**](#7-configuring-alerts) (2 videos)
-  - Configuring alerts
-  - Configuring email settings for alerts
+  - [Configuring alerts](#configuring-alerts)
+  - [Configuring email settings for alerts](#configuring-email-settings-for-alerts)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of troubleshooting and debugging Kafka
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980)
@@ -167,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Kafka]] (11), data (7), [[Real-Time]] (3), management (3), [[Security]] (2)
 > **CLI Commands:** apache (11), make (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Analogies:** for example (1)
@@ -176,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Introducing Cloud-Native Kafka on Confluent
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980)
@@ -203,9 +204,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Tools:** terminal (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you need to have (1)
 
 #### An overview of Apache Kafka
@@ -257,6 +258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Kafka]] (3), data (3), parallel (3), [[Real-Time]] (1)
 > **CLI Commands:** apache (3)
 > **Definitions:** is a  (2), known as (1)
 
@@ -349,9 +351,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Apache Kafka]] (3), api (3), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** apache (5), make (1), aws (1), python (1)
 > **Env Vars:** api (3), sql (2), aws (1), rest (1), cli (1)
-> **Code Keywords:** interface (2), let (1), public (1)
 > **Tools:** command line (2), slack (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** imagine (1), such as (1)
@@ -423,6 +425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (7), [[Linux]] (5), [[Apache Kafka]] (4), [[Ubuntu]] (2), [[CLI]] (2)
 > **CLI Commands:** apache (4), unzip (3), make (2), find (2), tar (1)
 > **Versions:** java 11 (3), version 7 (1), 3.3 (1), 10.14 (1), java 17 (1)
 > **UI Navigation:** scroll down (2), click on (2), select the (1)
@@ -430,7 +433,6 @@ created: 2026-04-29
 > **Prerequisites:** set up (2), install (1)
 > **Code Identifiers:** macos (2)
 > **URLs:** [confluent.io](https://confluent.io) (2)
-> **Env Vars:** cli (2)
 
 #### Running the Confluent platform locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980)
@@ -509,8 +511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), [[Apache Kafka]] (4), node (3), [[Representational State Transfer (REST)|Rest]] (2), cd (1)
 > **CLI Commands:** apache (4), make (3), node (3), ls (2), cd (1)
-> **Code Keywords:** let (3), this. (1), case, (1), var (1), interface (1)
 > **Env Vars:** rest (2), readme (1), cli (1), api (1), sql (1)
 > **Prerequisites:** configure (2), install (2), setup (1)
 > **Versions:** java 11 (3), java 17 (1)
@@ -651,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default, (2), interface (1), self (1), continue (1)
+> **Frameworks & Libraries:** [[SQL]] (2), node (1), next (1)
 > **UI Navigation:** scroll down (2), go to (2), navigate to (1), click on (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** apache (1), node (1)
@@ -663,7 +665,7 @@ created: 2026-04-29
 
 ### 2. Observing Consumers and Brokers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Observing message production and consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-message-production-and-consumption?u=76281980)
@@ -784,7 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Apache Kafka]] (1), hit (1), data (1)
 > **Tools:** terminal (2), command line (1)
 > **Prerequisites:** install (1), setup (1)
 > **CLI Commands:** apache (1)
@@ -890,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Debugging]] (1), [[Troubleshooting]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** configure (1), set up (1), setup (1)
@@ -972,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (2), default, (1), class. (1), this. (1)
+> **Frameworks & Libraries:** data (14), [[Debugging]] (3), next (3), [[Troubleshooting]] (1), etl (1)
 > **UI Navigation:** click on (5), scroll down (2), select the (1)
 > **CLI Commands:** find (3)
 > **Code Identifiers:** random_topic (1), stock_market_data (1), datagen_stock_data (1)
@@ -1093,7 +1095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1), this. (1), match, (1), this, (1)
+> **Frameworks & Libraries:** data (8), [[Debugging]] (2)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (2), configure (1)
 > **Cross-References:** in the last (1), go back to (1)
@@ -1104,7 +1106,7 @@ created: 2026-04-29
 
 ### 3. Processing Kafka Streams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding ksqlDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980)
@@ -1153,6 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (5), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), [[Java]] (2)
 > **Code Identifiers:** ksqldb (10)
 > **Env Vars:** sql (5)
 > **CLI Commands:** python (2), apache (1)
@@ -1314,8 +1317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[SQL]] (2), [[Debugging]] (2), api (1), [[Real-Time]] (1)
 > **Code Identifiers:** ksqldb (16), stock_data_stream (5), users_table (5), users_data (2), datagen_user_data (1)
-> **Code Keywords:** let (7), extends (1), class. (1), module (1), from, (1)
 > **Definitions:** is a  (5), is an  (1)
 > **UI Navigation:** click on (2), scroll down (2)
 > **Env Vars:** sql (2), api (1)
@@ -1404,8 +1407,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[JSON]] (2), [[Windows]] (1)
 > **Code Identifiers:** stock_data_stream (5), users_table (4), user_stock_purchases (4), stock_data (1), ksqldb (1)
-> **Code Keywords:** let (6), switch (1)
 > **Env Vars:** zvv (2), json (2), userid (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -1443,14 +1446,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Metadata]] (1)
 > **Code Identifiers:** stock_data_stream (3), ksqldb (2), user_stock_purchases (2), users_table (2), user_stock (1)
-> **Code Keywords:** finally, (1), let (1)
 > **UI Navigation:** scroll down (1)
 
 
 ### 4. Monitoring Consumer Groups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Programmatically produce messages using Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980)
@@ -1585,8 +1588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (5), [[JSON]] (2), [[Apache Kafka]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (7), pip (2), apache (1), make (1)
-> **Code Keywords:** let (5), class. (1), function (1)
 > **Code Identifiers:** customer_payments (4), get_payment_details (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Prerequisites:** configure (3), install (2)
@@ -1663,7 +1666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (1)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** customer_payments (4), thecustomer_payments (1)
 > **UI Navigation:** scroll down (3)
 > **CLI Commands:** make (1), find (1)
@@ -1721,7 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1)
+> **Frameworks & Libraries:** data (2), next (1), parallel (1)
 > **Definitions:** is a  (1)
 
 #### Monitoring consumption in a consumer group
@@ -1835,7 +1838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class. (1), module (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** customer_payments (4), consumera (1)
 > **CLI Commands:** python (2), find (2)
 > **Prerequisites:** set up (2), configure (1)
@@ -1908,7 +1911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** find (2)
 > **Tools:** terminal (2)
@@ -2026,7 +2029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (2), finally, (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Tools:** terminal (7)
 > **Prerequisites:** set up (1), setup (1)
 > **UI Navigation:** switch to (1)
@@ -2034,7 +2037,7 @@ created: 2026-04-29
 
 ### 5. Monitoring Multi-Broker Clusters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuration properties for a multi-broker cluster
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuration-properties-for-a-multi-broker-cluster?u=76281980)
@@ -2175,9 +2178,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), next (4), cd (2), [[Apache Kafka]] (1), [[Security]] (1)
 > **CLI Commands:** find (3), cd (2), apache (1), make (1), ls (1)
 > **Prerequisites:** configure (4), set up (4)
-> **Code Keywords:** let (4)
 > **Ports:** port 9093 (1), port 9094 (1), port 9095 (1), port 2181 (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Analogies:** for example (2)
@@ -2257,7 +2260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (6), this. (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), api (2), [[Confluence]] (1), next (1)
 > **UI Navigation:** switch to (4)
 > **Code Identifiers:** confluent_home (1), kafka_rest (1), ksqldb (1)
 > **Env Vars:** api (2)
@@ -2317,8 +2320,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **UI Navigation:** scroll down (3), go to (2)
-> **Code Keywords:** let (2), this. (1)
 
 #### Observing partitions and replication
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-partitions-and-replication?u=76281980)
@@ -2383,7 +2386,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Code Identifiers:** user_signups (2)
 > **CLI Commands:** make (1)
@@ -2517,8 +2519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), next (2)
 > **Code Identifiers:** user_signups (4), fakeprofileproducer (1), fakeprofileconsumera (1), fakeprofileconsumerb (1), fakeprofileconsumerc (1)
-> **Code Keywords:** let (5), continue (1), finally, (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **UI Navigation:** scroll down (2), select the (1), click on (1)
 > **Cross-References:** in the next (2), in the last (1)
@@ -2529,7 +2531,7 @@ created: 2026-04-29
 
 ### 6. Debugging Brokers and Consumers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging failed brokers, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-1?u=76281980)
@@ -2632,7 +2634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** hit (1), next (1)
 > **Code Identifiers:** user_signups (3)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
@@ -2711,7 +2713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1)
+> **Frameworks & Libraries:** data (1), [[Simulation]] (1), next (1)
 > **Code Identifiers:** user_signups (4)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
@@ -2791,7 +2793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (1)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** user_signups (1)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
@@ -2800,7 +2802,7 @@ created: 2026-04-29
 
 ### 7. Configuring Alerts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring alerts
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980)
@@ -2909,7 +2911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** api (2), [[Troubleshooting]] (1), [[Debugging]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Slack]] (1)
 > **Env Vars:** api (2), rest (1), urgent (1), attention (1), needed (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Prerequisites:** configure (4), set up (1)
@@ -3055,7 +3057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from. (1), this. (1), switch (1)
+> **Frameworks & Libraries:** next (2), hit (2), cloud (1), [[Google]] (1), [[Security]] (1)
 > **Prerequisites:** configure (6), set up (2)
 > **Code Identifiers:** under_replication (3), under_replicated_partition_alert (1), under_replication_alert (1), control_center_start (1)
 > **UI Navigation:** click on (3), go to (2), select the (1)
@@ -3067,7 +3069,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980)
@@ -3114,8 +3116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Kafka]] (2), [[Big Data]] (2), [[Apache Spark]] (2), [[Troubleshooting]] (1), [[Debugging]] (1)
 > **CLI Commands:** apache (4), find (2)
-> **Code Keywords:** let (2), interface (1), this. (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** ksqldb (1)
 

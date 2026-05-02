@@ -32,7 +32,7 @@ tags:
   - skill/cisco-networking
   - skill/routing-protocols
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20Switching%20and%20Routing.md)
@@ -51,42 +51,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you'll learn
-  - How to get hands-on practice
+  - [Welcome](#welcome)
+  - [What you'll learn](#what-youll-learn)
+  - [How to get hands-on practice](#how-to-get-hands-on-practice)
 - [**1. Ethernet Switching**](#1-ethernet-switching) (16 videos)
-  - MAC addresses
-  - Ethernet switch frame forwarding
-  - Ethernet frame format
-  - VLAN theory
-  - VLAN configuration
-  - Trunking theory
-  - Trunking configuration
-  - Introducing Spanning Tree Protocol (STP)
-  - STP: The backstory
-  - STP Port States
-  - STP example
-  - STP convergence time
-  - STP variants
-  - STP configuration
-  - EtherChannel theory
-  - EtherChannel configuration
+  - [MAC addresses](#mac-addresses)
+  - [Ethernet switch frame forwarding](#ethernet-switch-frame-forwarding)
+  - [Ethernet frame format](#ethernet-frame-format)
+  - [VLAN theory](#vlan-theory)
+  - [VLAN configuration](#vlan-configuration)
+  - [Trunking theory](#trunking-theory)
+  - [Trunking configuration](#trunking-configuration)
+  - [Introducing Spanning Tree Protocol (STP)](#introducing-spanning-tree-protocol-stp)
+  - [STP: The backstory](#stp-the-backstory)
+  - [STP Port States](#stp-port-states)
+  - [STP example](#stp-example)
+  - [STP convergence time](#stp-convergence-time)
+  - [STP variants](#stp-variants)
+  - [STP configuration](#stp-configuration)
+  - [EtherChannel theory](#etherchannel-theory)
+  - [EtherChannel configuration](#etherchannel-configuration)
 - [**2. IP Routing**](#2-ip-routing) (9 videos)
-  - Packet flow in a routed network
-  - Static and default routes
-  - Configuring static and default routes
-  - Routing protocol selection
-  - Routing protocol categories
-  - RIP theory
-  - Split-horizon and poison reverse
-  - Configuring RIPv2
-  - Configuring RIPng
+  - [Packet flow in a routed network](#packet-flow-in-a-routed-network)
+  - [Static and default routes](#static-and-default-routes)
+  - [Configuring static and default routes](#configuring-static-and-default-routes)
+  - [Routing protocol selection](#routing-protocol-selection)
+  - [Routing protocol categories](#routing-protocol-categories)
+  - [RIP theory](#rip-theory)
+  - [Split-horizon and poison reverse](#split-horizon-and-poison-reverse)
+  - [Configuring RIPv2](#configuring-ripv2)
+  - [Configuring RIPng](#configuring-ripng)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2)
+> **Frameworks & Libraries:** [[Routing]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ccie (1)
 > **Prerequisites:** configure (1)
@@ -152,7 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3)
+> **Frameworks & Libraries:** [[Routing]] (3), next (2)
 > **Versions:** version 4 (1), version 6 (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** next video (1)
@@ -212,11 +212,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Google]] (2), [[Cisco Networking]] (2), [[Search]] (1), vpn (1)
 > **Env Vars:** cml (4), ios (2), ccna (1), vpn (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Prerequisites:** set up (1), getting started (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -224,7 +224,7 @@ created: 2026-04-29
 
 ### 1. Ethernet Switching
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MAC addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980)
@@ -273,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** mac (11), oui (2)
-> **Code Keywords:** interface (7), let (2), switch (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** switch to (1), select the (1)
 > **Definitions:** is a  (1), known as (1)
@@ -335,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), power (1)
 > **Env Vars:** mac (24), pc1 (7), pc2 (5)
-> **Code Keywords:** switch (25), let (4), interface (4), else, (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** switch to (1)
 > **Definitions:** means that (1)
@@ -429,8 +429,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (1)
 > **Env Vars:** mac (9), sfd (1), fcs (1)
-> **Code Keywords:** switch (5), let (2), from. (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -512,8 +512,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), [[Engineering]] (6), lan (1), [[Routing]] (1)
 > **Env Vars:** vlan (16), lan (1)
-> **Code Keywords:** switch (6), let (3), interface (2), default, (1), default. (1)
 > **Versions:** 172.16.1 (1), 192.168.1 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** analogous to (1)
@@ -632,8 +632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (4), next (2)
 > **Env Vars:** vlan (28), fddi (2), sw1 (1)
-> **Code Keywords:** let (8), interface (7), switch (5), default, (1), default. (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -699,8 +699,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), [[Engineering]] (6), [[Security]] (1)
 > **Env Vars:** vlan (21), isl (2), ieee (1)
-> **Code Keywords:** switch (8), let (2), type. (1), default, (1), case, (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
@@ -765,7 +765,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (5), switch (5), type, (1)
 > **Env Vars:** sw1 (4), sw2 (3), sw3 (2), cml (1), vlan (1)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
@@ -836,7 +835,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (2), this, (1)
+> **Frameworks & Libraries:** [[Routing]] (2), traffic (2)
 > **Env Vars:** ttl (5), stp (1)
 > **Analogies:** imagine (2), analogous to (1)
 > **CLI Commands:** find (1)
@@ -881,7 +880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (7), this, (2), let (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** dec (2), ieee (2), stp (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
@@ -1043,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (8), let (2), finally, (1), function (1), this, (1)
+> **Frameworks & Libraries:** traffic (2), data (1)
 > **Env Vars:** mac (5), stp (1), sw2 (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** later in (1)
@@ -1174,7 +1173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (9), let (2), case, (2), this, (2)
+> **Frameworks & Libraries:** next (4)
 > **Env Vars:** mac (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1226,7 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (6), let (1)
+> **Frameworks & Libraries:** data (1), traffic (1)
 > **Env Vars:** bpdu (2), mac (2), bpds (1), ieee (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -1327,8 +1326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Scalability]] (1), power (1)
 > **Env Vars:** vlan (12), pvst (12), sw1 (4), sw2 (4), ieee (3)
-> **Code Keywords:** let (6), switch (5), for, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -1444,8 +1443,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1)
 > **Env Vars:** vlan (8), mac (5), pvst (4), sw3 (1)
-> **Code Keywords:** let (9), case, (3), switch (2), interface (1), implements (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** configure (2)
@@ -1592,7 +1591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** traffic (5), feature (2), power (1), next (1)
 > **Env Vars:** lacp (4)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (3)
@@ -1701,7 +1700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (13), let (11), switch (2)
+> **Frameworks & Libraries:** traffic (1)
 > **Prerequisites:** set up (5), configure (3)
 > **Env Vars:** sw2 (2), sw3 (2), isl (1)
 > **CLI Commands:** make (1)
@@ -1711,7 +1710,7 @@ created: 2026-04-29
 
 ### 2. IP Routing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Packet flow in a routed network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/packet-flow-in-a-routed-network?u=76281980)
@@ -1802,8 +1801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Routing]] (3), traffic (2)
 > **Versions:** 192.168.1 (4), 192.168.2 (4), 10.1.1 (1)
-> **Code Keywords:** interface (5), case, (2), switch (1)
 > **Env Vars:** arp (4)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -1863,7 +1862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), let (2), default, (1)
+> **Frameworks & Libraries:** [[Routing]] (9), next (5), [[Microsoft Office|Office]] (2), traffic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 10.0.0 (3), 198.51.100 (1), 203.0.113 (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (1)
@@ -1974,7 +1973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), static (10), interface (5), case, (2), try. (1)
+> **Frameworks & Libraries:** [[Routing]] (9), next (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 10.0.0 (5), 203.0.113 (3), 198.51.100 (2), 255.255.255 (2), 0.0.0 (2)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** configure (3)
@@ -2108,8 +2107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (3), [[Scalability]] (1), data (1), next (1)
 > **Env Vars:** eigrp (7), rip (6), ospf (5), bgp (5)
-> **Code Keywords:** static (2), super (2), from. (1), interface (1), default. (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** for example (1)
@@ -2221,10 +2220,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (8), next (2), application (1), database (1)
 > **Env Vars:** rip (8), bgp (7), ospf (4), eigrp (3), igp (2)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Analogies:** such as (1), it's like (1), just like (1)
-> **Code Keywords:** this, (1), class, (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -2302,8 +2301,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (6), [[Routing Protocols]] (2), next (2), [[Scalability]] (1)
 > **Env Vars:** rip (17), ff02 (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Versions:** 224.0.0 (1)
 > **Definitions:** means that (1)
@@ -2350,7 +2349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), this, (1), default, (1)
+> **Frameworks & Libraries:** [[Routing]] (5), feature (1)
 > **Env Vars:** rip (5), eigrp (1)
 > **Versions:** 10.1.1 (5)
 > **Definitions:** is a  (3)
@@ -2455,8 +2454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (3)
 > **Env Vars:** rip (9), ospf (1), eigrp (1)
-> **Code Keywords:** let (6), interface (2)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -2606,8 +2605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (11), next (1), traffic (1)
 > **Env Vars:** rip (11), ccna (7), ccie (3)
-> **Code Keywords:** interface (9), let (6), default. (1), match. (1)
 > **Versions:** version 6 (6)
 > **CLI Commands:** make (3)
 > **Prerequisites:** configure (3)
@@ -2617,7 +2616,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980)
@@ -2654,7 +2653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1)
+> **Frameworks & Libraries:** [[Routing]] (4), [[LinkedIn]] (2)
 > **Env Vars:** rip (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** short for (1)

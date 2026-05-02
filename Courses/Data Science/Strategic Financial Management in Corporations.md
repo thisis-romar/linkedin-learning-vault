@@ -30,7 +30,7 @@ tags:
   - skill/corporate-finance
   - skill/strategic-financial-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Financial%20Management%20in%20Corporations.md)
@@ -49,33 +49,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Drive business success through strategic financial management
-  - Course advisory
+  - [Drive business success through strategic financial management](#drive-business-success-through-strategic-financial-management)
+  - [Course advisory](#course-advisory)
 - [**1. Navigate Corporate Financial Structures**](#1-navigate-corporate-financial-structures) (2 videos)
-  - Differentiate between corporate financial structures
-  - Align financial structure with business strategy
+  - [Differentiate between corporate financial structures](#differentiate-between-corporate-financial-structures)
+  - [Align financial structure with business strategy](#align-financial-structure-with-business-strategy)
 - [**2. Optimize Investment Decisions and Capital Allocation**](#2-optimize-investment-decisions-and-capital-allocation) (3 videos)
-  - Evaluate corporate investment opportunities
-  - Maximize capital allocation for ROI in corporate finance
-  - Apply scenario planning for long-term investments
+  - [Evaluate corporate investment opportunities](#evaluate-corporate-investment-opportunities)
+  - [Maximize capital allocation for ROI in corporate finance](#maximize-capital-allocation-for-roi-in-corporate-finance)
+  - [Apply scenario planning for long-term investments](#apply-scenario-planning-for-long-term-investments)
 - [**3. Enhance Financing Strategies and Capital Structure**](#3-enhance-financing-strategies-and-capital-structure) (2 videos)
-  - Strengthen capital structure for corporate growth
-  - Implement strategic debt financing
+  - [Strengthen capital structure for corporate growth](#strengthen-capital-structure-for-corporate-growth)
+  - [Implement strategic debt financing](#implement-strategic-debt-financing)
 - [**4. Streamline Working Capital and Cash Flow Strategies**](#4-streamline-working-capital-and-cash-flow-strategies) (2 videos)
-  - Enhance cash flow management for corporate financial health
-  - Balance inventory, receivables, and payables
+  - [Enhance cash flow management for corporate financial health](#enhance-cash-flow-management-for-corporate-financial-health)
+  - [Balance inventory, receivables, and payables](#balance-inventory-receivables-and-payables)
 - [**5. Assess Valuation and Navigate Post-Merger Integration**](#5-assess-valuation-and-navigate-post-merger-integration) (2 videos)
-  - Assess company valuation for mergers and acquisitions
-  - Develop a plan for post-merger integration success
+  - [Assess company valuation for mergers and acquisitions](#assess-company-valuation-for-mergers-and-acquisitions)
+  - [Develop a plan for post-merger integration success](#develop-a-plan-for-post-merger-integration-success)
 - [**6. Develop Risk Management Strategies and Ensure Compliance**](#6-develop-risk-management-strategies-and-ensure-compliance) (2 videos)
-  - Design a corporate risk management framework
-  - Ensure compliance and ethical financial practices
+  - [Design a corporate risk management framework](#design-a-corporate-risk-management-framework)
+  - [Ensure compliance and ethical financial practices](#ensure-compliance-and-ethical-financial-practices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Achieve corporate finance success
+  - [Achieve corporate finance success](#achieve-corporate-finance-success)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Drive business success through strategic financial management
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/drive-business-success-through-strategic-financial-management?u=76281980)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (2), [[Financial Planning]] (1), career (1), management (1)
 > **Env Vars:** cpa (1), roi (1)
 
 #### Course advisory
@@ -144,12 +144,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Warnings:** keep in mind (1)
 
 
 ### 1. Navigate Corporate Financial Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Differentiate between corporate financial structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980)
@@ -202,6 +203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Decision-Making]] (1), teams (1), [[Decentralization]] (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -259,14 +261,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), teams (2)
 > **Analogies:** think of it like (1), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 
 ### 2. Optimize Investment Decisions and Capital Allocation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluate corporate investment opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/evaluate-corporate-investment-opportunities?u=76281980)
@@ -325,9 +327,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** npv (2), irr (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** include: (1), return ( (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** imagine (1)
 
@@ -370,8 +372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), business (1)
 > **Env Vars:** npv (2), irr (1), roi (1)
-> **Code Keywords:** return ( (1), this, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
@@ -435,7 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), finally, (1)
+> **Frameworks & Libraries:** next (2), data (1), [[Market Research]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** roi (1)
@@ -445,7 +447,7 @@ created: 2026-04-29
 
 ### 3. Enhance Financing Strategies and Capital Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strengthen capital structure for corporate growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/strengthen-capital-structure-for-corporate-growth?u=76281980)
@@ -518,8 +520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this. (1), require (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** you'll need (1)
@@ -601,15 +603,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), management (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** you should always (1)
 
 
 ### 4. Streamline Working Capital and Cash Flow Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhance cash flow management for corporate financial health
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980)
@@ -680,7 +682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (1), finally, (1)
+> **Frameworks & Libraries:** business (3), [[Financial Statements]] (1), [[Cash Flow Management]] (1), [[Forecasting]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
@@ -755,12 +757,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** business (2), product (1), [[Forecasting]] (1), [[Microsoft Products|Products]] (1), next (1)
 
 
 ### 5. Assess Valuation and Navigate Post-Merger Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess company valuation for mergers and acquisitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/assess-company-valuation-for-mergers-and-acquisitions?u=76281980)
@@ -819,6 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Financial Statements]] (1), strengths (1)
 > **Analogies:** picture (3), imagine (1), for example (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
@@ -878,13 +881,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Financial Statements]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
 
 ### 6. Develop Risk Management Strategies and Ensure Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design a corporate risk management framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980)
@@ -953,11 +957,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), next (2), [[Cybersecurity]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), game (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise file (1), template (1)
 > **Analogies:** such as (2)
 > **Best Practices:** the key is (2)
-> **Code Keywords:** finally, (1)
 
 #### Ensure compliance and ethical financial practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/ensure-compliance-and-ethical-financial-practices?u=76281980)
@@ -1018,15 +1022,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethics]] (5), business (1), next (1), leadership (1), [[Accountability]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Achieve corporate finance success
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/achieve-corporate-finance-success?u=76281980)
@@ -1065,8 +1069,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), leadership (1), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this. (1)
 > **URLs:** [jandmadvising.com](https://jandmadvising.com) (1)
 
 

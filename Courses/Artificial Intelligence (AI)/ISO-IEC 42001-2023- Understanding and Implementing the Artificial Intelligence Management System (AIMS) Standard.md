@@ -35,7 +35,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/it-risk-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ISO-IEC%2042001-2023-%20Understanding%20and%20Implementing%20the%20Artificial%20Intelligence%20Management%20System%20(AIMS)%20Standard.md)
@@ -54,45 +54,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The benefits of implementing AIMS
+  - [The benefits of implementing AIMS](#the-benefits-of-implementing-aims)
 - [**1. The Need and Overview of an AI Management System (AIMS) ISO 42001:2023**](#1-the-need-and-overview-of-an-ai-management-system-aims-iso-420012023) (7 videos)
-  - Understanding the categories of AI uses
-  - How AI merits and challenges affect use
-  - Impact of laws and regulations
-  - Promoting trust, transparency, and reliability
-  - Understanding the benefits of expert standardization
-  - Benefits of a management system
-  - Overview of AIMS ISO 42001
+  - [Understanding the categories of AI uses](#understanding-the-categories-of-ai-uses)
+  - [How AI merits and challenges affect use](#how-ai-merits-and-challenges-affect-use)
+  - [Impact of laws and regulations](#impact-of-laws-and-regulations)
+  - [Promoting trust, transparency, and reliability](#promoting-trust-transparency-and-reliability)
+  - [Understanding the benefits of expert standardization](#understanding-the-benefits-of-expert-standardization)
+  - [Benefits of a management system](#benefits-of-a-management-system)
+  - [Overview of AIMS ISO 42001](#overview-of-aims-iso-42001)
 - [**2. Define Organizational Context: Clauses 4.1-4.4**](#2-define-organizational-context-clauses-41-44) (3 videos)
-  - Context of organization: Clause 4
-  - Context of organization: Clause 4.1
-  - Interested party needs, AI scope, and AIMS: Clauses 4.2-4.4
+  - [Context of organization: Clause 4](#context-of-organization-clause-4)
+  - [Context of organization: Clause 4.1](#context-of-organization-clause-41)
+  - [Interested party needs, AI scope, and AIMS: Clauses 4.2-4.4](#interested-party-needs-ai-scope-and-aims-clauses-42-44)
 - [**3. Identify Leadership and Create AI Policy: Clauses 5.1-5.3**](#3-identify-leadership-and-create-ai-policy-clauses-51-53) (3 videos)
-  - AI leadership and commitment: Clause 5.1
-  - AI policy: Clause 5.2
-  - AI roles, responsibilities, and authorities: Clause 5.3
+  - [AI leadership and commitment: Clause 5.1](#ai-leadership-and-commitment-clause-51)
+  - [AI policy: Clause 5.2](#ai-policy-clause-52)
+  - [AI roles, responsibilities, and authorities: Clause 5.3](#ai-roles-responsibilities-and-authorities-clause-53)
 - [**4. AI Planning: Clause 6.1.1- 6.3**](#4-ai-planning-clause-611--63) (4 videos)
-  - General: Clause 6.1
-  - AI risk assessment: Clause 6.1.2
-  - AI risk treatment: Clause 6.1.3
-  - AI system impact, objectives, and changes: Clauses 6.1.4-6.3
+  - [General: Clause 6.1](#general-clause-61)
+  - [AI risk assessment: Clause 6.1.2](#ai-risk-assessment-clause-612)
+  - [AI risk treatment: Clause 6.1.3](#ai-risk-treatment-clause-613)
+  - [AI system impact, objectives, and changes: Clauses 6.1.4-6.3](#ai-system-impact-objectives-and-changes-clauses-614-63)
 - [**5. AI Support and Operations: Clause 7.1- 8.4**](#5-ai-support-and-operations-clause-71--84) (5 videos)
-  - AI resources, competence, and awareness: Clauses 7.1-7.3
-  - Communication: Clause 7.4
-  - Documented information: Clauses 7.5-7.5.3
-  - Operational planning and control: Clauses 8.1-8.2
-  - Operational planning and control: Clauses 8.3-8.4
+  - [AI resources, competence, and awareness: Clauses 7.1-7.3](#ai-resources-competence-and-awareness-clauses-71-73)
+  - [Communication: Clause 7.4](#communication-clause-74)
+  - [Documented information: Clauses 7.5-7.5.3](#documented-information-clauses-75-753)
+  - [Operational planning and control: Clauses 8.1-8.2](#operational-planning-and-control-clauses-81-82)
+  - [Operational planning and control: Clauses 8.3-8.4](#operational-planning-and-control-clauses-83-84)
 - [**6. AI Performance Evaluation and Improvement: Clause 9.1-10.2**](#6-ai-performance-evaluation-and-improvement-clause-91-102) (4 videos)
-  - AI monitoring, management, and analysis evaluation: Clause 9.1
-  - Internal audit: Clause 9.2
-  - Management review: Clause 9.3
-  - Continual improvement and nonconformity corrective actions: Clauses 10.1-10.2
+  - [AI monitoring, management, and analysis evaluation: Clause 9.1](#ai-monitoring-management-and-analysis-evaluation-clause-91)
+  - [Internal audit: Clause 9.2](#internal-audit-clause-92)
+  - [Management review: Clause 9.3](#management-review-clause-93)
+  - [Continual improvement and nonconformity corrective actions: Clauses 10.1-10.2](#continual-improvement-and-nonconformity-corrective-actions-clauses-101-102)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Consider your role as you work with AIMS
+  - [Consider your role as you work with AIMS](#consider-your-role-as-you-work-with-aims)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of implementing AIMS
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980)
@@ -113,15 +113,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), management (1), [[Cybersecurity]] (1)
 > **Env Vars:** aims (3)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - ai (1)
 
 
 ### 1. The Need and Overview of an AI Management System (AIMS) ISO 42001:2023
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the categories of AI uses
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980)
@@ -200,9 +200,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (8), management (4), [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (3), imagine (1)
-> **Code Keywords:** new, (2), type, (1)
 > **Env Vars:** iso (1), iec (1)
 > **Versions:** 4.4 (1)
 > **Warnings:** keep in mind (1)
@@ -261,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), from. (1), public (1)
+> **Frameworks & Libraries:** ai (16), data (2), product (2), [[Algorithms]] (2), management (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), such as (1)
 > **Speakers:** - [narrator] (1)
@@ -327,6 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), business (1), [[Environmental Sustainability]] (1), [[Databases]] (1)
 > **Env Vars:** epa (2), usa (1), pfas (1), cctv (1), act (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for instance (1)
@@ -387,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), public (1), let (1)
+> **Frameworks & Libraries:** ai (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1), data (1), business (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
@@ -452,8 +453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), ai (3), product (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Information Security Management]] (2)
 > **Env Vars:** iso (11), iec (3), qms (1), isms (1), aims (1)
-> **Code Keywords:** let (2), extends (1)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
@@ -546,9 +547,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), product (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** mss (7), iso (6), iec (4), isms (1)
 > **Analogies:** for example (1), for instance (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -619,8 +620,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), management (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Generative AI]] (2), application (2)
 > **Env Vars:** aims (4), iso (3), mss (1), iec (1)
-> **Code Keywords:** require (2), let (1)
 > **Versions:** 2.6 (1), 4.4 (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -628,7 +629,7 @@ created: 2026-04-29
 
 ### 2. Define Organizational Context: Clauses 4.1-4.4
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Context of organization: Clause 4
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980)
@@ -711,7 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), this, (1)
+> **Frameworks & Libraries:** ai (11), management (3), game (1), business (1), application (1)
 > **Versions:** 4.1 (2), 4.2 (1), 4.3 (1), 4.4 (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1)
@@ -761,8 +762,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), leadership (2), [[Climate Change]] (1)
 > **Env Vars:** iso (1), iec (1), aims (1)
-> **Code Keywords:** let (2)
 > **Versions:** 4.1 (2)
 > **Analogies:** picture (1)
 > **Speakers:** - [presenter] (1)
@@ -822,16 +823,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), management (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Computer Vision]] (2), [[Climate Change]] (2)
 > **Versions:** 4.3 (4), 4.2 (3), 4.4 (3), 4.1 (1)
 > **Env Vars:** aims (4), isms (1)
-> **Code Keywords:** self (2), let (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Identify Leadership and Create AI Policy: Clauses 5.1-5.3
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI leadership and commitment: Clause 5.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-leadership-and-commitment-clause-5-1?u=76281980)
@@ -880,6 +881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (12), ai (10), business (7), management (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
 > **Versions:** 5.1 (1), 5.2 (1), 5.3 (1)
 > **Env Vars:** aims (2)
 > **Speakers:** - [instructor] (1)
@@ -959,9 +961,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (21), leadership (4), next (2), [[Software Development]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** aims (1), nxb (1), iso (1), iec (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Versions:** 5.2 (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
@@ -1032,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), include, (1)
+> **Frameworks & Libraries:** ai (17), management (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), data (3), [[Accountability]] (1)
 > **Definitions:** is an  (2), means that (1)
 > **Env Vars:** iso (1), iec (1)
 > **Versions:** 8.8 (1), 5.3 (1)
@@ -1044,7 +1046,7 @@ created: 2026-04-29
 
 ### 4. AI Planning: Clause 6.1.1- 6.3
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### General: Clause 6.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/general-clause-6-1?u=76281980)
@@ -1111,9 +1113,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), management (2), [[Privacy]] (1), [[Security]] (1), next (1)
 > **Versions:** 6.1 (2), 6.2 (1), 6.3 (1), 6.11 (1), 4.1 (1)
 > **Env Vars:** iso (2), iec (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -1193,8 +1195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), business (2), traffic (1), [[Security]] (1), [[Threat Modeling]] (1)
 > **Versions:** 6.1.2 (1), 5.2 (1), 6.2 (1), 6.1.4 (1)
-> **Code Keywords:** this, (1), let (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** nist (1)
 > **Cross-References:** previous video (1)
@@ -1255,7 +1257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), self (1), let (1)
+> **Frameworks & Libraries:** ai (6), management (3), business (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** iso (1), aims (1)
 > **Versions:** 6.1.3 (1)
 > **Cross-References:** later in (1)
@@ -1328,6 +1330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (3), management (3), [[Climate Change]] (1), traffic (1)
 > **Versions:** 6.2 (3), 6.3 (2), 6.1.4 (1)
 > **Env Vars:** aims (2), cmb (1), pmo (1)
 > **Definitions:** is an  (2)
@@ -1337,7 +1340,7 @@ created: 2026-04-29
 
 ### 5. AI Support and Operations: Clause 7.1- 8.4
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI resources, competence, and awareness: Clauses 7.1-7.3
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-resources-competence-and-awareness-clauses-7-1-7-3?u=76281980)
@@ -1392,8 +1395,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), game (1), data (1), next (1)
 > **Versions:** 7.1 (1), 7.2 (1), 7.3 (1), 3.24 (1)
-> **Code Keywords:** require (1), let (1), continue (1)
 > **Env Vars:** nxa (1), nxb (1)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** be aware (1)
@@ -1452,9 +1455,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), management (2), leadership (1), [[Security]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** aims (4)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Versions:** 7.4 (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1516,10 +1519,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Microsoft Products|Products]] (2), leadership (1), cross-platform (1), business (1)
 > **Env Vars:** aims (4)
 > **Documentation:** the documentation (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Versions:** 7.5 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1570,9 +1573,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), management (2), [[Microsoft Products|Products]] (1), business (1)
 > **Env Vars:** aims (1), nxa (1), nxb (1)
 > **Analogies:** imagine (2), for instance (1)
-> **Code Keywords:** self (1), function (1)
 > **Versions:** 8.2 (1), 6.1.2 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1619,7 +1622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** ai (8), application (1), next (1)
 > **Versions:** 8.3 (1), 8.4 (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** aims (1)
@@ -1628,7 +1631,7 @@ created: 2026-04-29
 
 ### 6. AI Performance Evaluation and Improvement: Clause 9.1-10.2
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI monitoring, management, and analysis evaluation: Clause 9.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-monitoring-management-and-analysis-evaluation-clause-9-1?u=76281980)
@@ -1673,8 +1676,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), management (3), data (1), next (1)
 > **Env Vars:** aims (1), cio (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** earlier in (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for instance (1)
@@ -1739,9 +1742,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Regulatory Compliance]] (1), data (1), ai (1)
 > **Env Vars:** aims (6), boe (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Versions:** 9.2 (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
@@ -1792,9 +1795,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (9), ai (3), leadership (1), business (1), [[Dashboards]] (1)
 > **Env Vars:** aims (6)
 > **Analogies:** imagine (1), for instance (1)
-> **Code Keywords:** let (1)
 > **Versions:** 9.3 (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1840,9 +1843,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), power (1), application (1), management (1), leadership (1)
 > **Env Vars:** aims (4), pdca (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Versions:** 10.2 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -1850,7 +1853,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Consider your role as you work with AIMS
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/consider-your-role-as-you-work-with-aims?u=76281980)
@@ -1893,6 +1896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), business (1), next (1), ai (1), management (1)
 > **Env Vars:** aims (6), iso (1), iec (1)
 > **Definitions:** means that (2)
 > **Exercise Files:** exercise files (1)

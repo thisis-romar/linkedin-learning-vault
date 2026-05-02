@@ -30,7 +30,7 @@ tags:
   - skill/sustainable-business
   - skill/supply-chain-operations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Fundamentals%20of%20Sustainable%20Supply%20Chains.md)
@@ -49,29 +49,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The impact of supply chain on the environment
+  - [The impact of supply chain on the environment](#the-impact-of-supply-chain-on-the-environment)
 - [**1. The Power of Planning**](#1-the-power-of-planning) (5 videos)
-  - Why planning is important to achieving sustainability
-  - Create a practical action plan
-  - Map your supply chain and its environmental impact
-  - Create a compelling business case for change
-  - Collaboration is critical to successful sustainability plans
+  - [Why planning is important to achieving sustainability](#why-planning-is-important-to-achieving-sustainability)
+  - [Create a practical action plan](#create-a-practical-action-plan)
+  - [Map your supply chain and its environmental impact](#map-your-supply-chain-and-its-environmental-impact)
+  - [Create a compelling business case for change](#create-a-compelling-business-case-for-change)
+  - [Collaboration is critical to successful sustainability plans](#collaboration-is-critical-to-successful-sustainability-plans)
 - [**2. Suppliers and Procurement**](#2-suppliers-and-procurement) (3 videos)
-  - Taking a proactive approach to supplier management
-  - Assess the fit of your procurement practices
-  - Use supplier and procurement best practices
+  - [Taking a proactive approach to supplier management](#taking-a-proactive-approach-to-supplier-management)
+  - [Assess the fit of your procurement practices](#assess-the-fit-of-your-procurement-practices)
+  - [Use supplier and procurement best practices](#use-supplier-and-procurement-best-practices)
 - [**3. Data Analysis and Review**](#3-data-analysis-and-review) (3 videos)
-  - Why good data is important to achieve sustainability targets
-  - Collect and use the right sustainability data to shape plans
-  - Finding a trusted data partner to meet your targets
+  - [Why good data is important to achieve sustainability targets](#why-good-data-is-important-to-achieve-sustainability-targets)
+  - [Collect and use the right sustainability data to shape plans](#collect-and-use-the-right-sustainability-data-to-shape-plans)
+  - [Finding a trusted data partner to meet your targets](#finding-a-trusted-data-partner-to-meet-your-targets)
 - [**4. Getting Supply Chain Sustainability Plans Off the Ground**](#4-getting-supply-chain-sustainability-plans-off-the-ground) (3 videos)
-  - Refine your approach to supply chain sustainability
-  - Take action to support your longer-term sustainability goals
-  - Next steps: Your sustainable supply chain plan
+  - [Refine your approach to supply chain sustainability](#refine-your-approach-to-supply-chain-sustainability)
+  - [Take action to support your longer-term sustainability goals](#take-action-to-support-your-longer-term-sustainability-goals)
+  - [Next steps: Your sustainable supply chain plan](#next-steps-your-sustainable-supply-chain-plan)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The impact of supply chain on the environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/the-impact-of-supply-chain-on-the-environment?u=76281980)
@@ -110,14 +110,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Sustainability]] (6), business (3), product (2), career (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - did (1)
 
 
 ### 1. The Power of Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why planning is important to achieving sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-planning-is-important-to-achieving-sustainability?u=76281980)
@@ -212,8 +212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (5), next (3), [[Sustainability]] (2)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** imagine (1), for example (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** troubleshoot (1)
@@ -275,8 +275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (6), business (5), power (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** getting started (1)
@@ -343,10 +343,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Sustainability]] (5), management (1), product (1), next (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** from. (1)
 > **Versions:** 99.8 (1)
 > **Speakers:** - when (1)
 
@@ -409,8 +409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (9), business (7), management (3), leadership (2), [[Influencing Others]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** self (1), let (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - charles (1)
@@ -488,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), case. (1), this, (1)
+> **Frameworks & Libraries:** business (4), [[Sustainability]] (2), management (1), functional (1), teams (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sos (1)
@@ -498,7 +498,7 @@ created: 2026-04-29
 
 ### 2. Suppliers and Procurement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking a proactive approach to supplier management
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980)
@@ -559,6 +559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (9), management (3), [[Electronics]] (1), product (1), business (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - increasingly (1)
@@ -630,8 +631,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (10), business (4), [[Accountability]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** lgtbqia (1)
 > **Speakers:** - so (1)
 
@@ -698,15 +699,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (4), business (3), [[Ethics]] (1)
 > **Best Practices:** best practice (6)
-> **Code Keywords:** new, (1), switch (1)
 > **Analogies:** for example (2)
 > **Speakers:** - so (1)
 
 
 ### 3. Data Analysis and Review
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why good data is important to achieve sustainability targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980)
@@ -779,7 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (19), [[Sustainability]] (7), business (2), [[Ethics]] (1), next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
@@ -842,8 +843,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Sustainability]] (6), [[Big Data]] (4), business (3), [[Google]] (1)
 > **Analogies:** picture (1), such as (1), for example (1)
-> **Code Keywords:** case, (1), public (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - so (1)
 
@@ -910,8 +911,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Sustainability]] (7), business (4), ai (1), [[IoT]] (1)
 > **CLI Commands:** apt (1), find (1), make (1)
-> **Code Keywords:** continue (1), super (1)
 > **Env Vars:** esg (1), csr (1)
 > **Analogies:** picture (1)
 > **Speakers:** - from (1)
@@ -919,7 +920,7 @@ created: 2026-04-29
 
 ### 4. Getting Supply Chain Sustainability Plans Off the Ground
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Refine your approach to supply chain sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980)
@@ -960,6 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Sustainability]] (2), data (2), management (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - sherrin (1)
@@ -1029,6 +1031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (4), business (4), game (1), data (1), [[Nonprofit Organizations]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** bsr (1)
@@ -1110,10 +1113,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (9), data (4), next (2), business (2), hit (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** don't forget (2), remember to (1)
-> **Code Keywords:** continue (1), let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)

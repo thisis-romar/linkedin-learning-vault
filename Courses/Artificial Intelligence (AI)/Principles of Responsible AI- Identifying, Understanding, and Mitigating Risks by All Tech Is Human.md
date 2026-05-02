@@ -28,7 +28,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Principles%20of%20Responsible%20AI-%20Identifying%2C%20Understanding%2C%20and%20Mitigating%20Risks%20by%20All%20Tech%20Is%20Human.md)
@@ -47,11 +47,11 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Principles of Responsible AI**](#principles-of-responsible-ai) (1 videos)
-  - Identifying, understanding, and mitigating risks
+  - [Identifying, understanding, and mitigating risks](#identifying-understanding-and-mitigating-risks)
 
 ### Principles of Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying, understanding, and mitigating risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/principles-of-responsible-ai-identifying-understanding-and-mitigating-risks-by-all-tech-is-human/identifying-understanding-and-mitigating-risks?u=76281980)

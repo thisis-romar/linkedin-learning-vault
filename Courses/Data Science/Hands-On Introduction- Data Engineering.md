@@ -44,7 +44,7 @@ tags:
   - topic/cloud-computing
   - skill/data-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-On%20Introduction-%20Data%20Engineering.md)
@@ -63,40 +63,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Hands-on data engineering
-  - Background knowledge
-  - The history of data in the enterprise
-  - Using GitHub Codespaces with this course
+  - [Hands-on data engineering](#hands-on-data-engineering)
+  - [Background knowledge](#background-knowledge)
+  - [The history of data in the enterprise](#the-history-of-data-in-the-enterprise)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Getting Your Bearings**](#1-getting-your-bearings) (4 videos)
-  - Data engineering and data pipelines
-  - Orchestration: In the modern sense
-  - Extract, transform, load (ETL)
-  - Tasks, DAGs, and dependencies
+  - [Data engineering and data pipelines](#data-engineering-and-data-pipelines)
+  - [Orchestration: In the modern sense](#orchestration-in-the-modern-sense)
+  - [Extract, transform, load (ETL)](#extract-transform-load-etl)
+  - [Tasks, DAGs, and dependencies](#tasks-dags-and-dependencies)
 - [**2. Airflow Introduction**](#2-airflow-introduction) (6 videos)
-  - Introduction to Airflow
-  - Installing Airflow
-  - Running the Airflow webserver and scheduler
-  - Adjusting Airflow configuration settings
-  - Build a 1 Task DAG
-  - Build a 2 Task DAG
+  - [Introduction to Airflow](#introduction-to-airflow)
+  - [Installing Airflow](#installing-airflow)
+  - [Running the Airflow webserver and scheduler](#running-the-airflow-webserver-and-scheduler)
+  - [Adjusting Airflow configuration settings](#adjusting-airflow-configuration-settings)
+  - [Build a 1 Task DAG](#build-a-1-task-dag)
+  - [Build a 2 Task DAG](#build-a-2-task-dag)
 - [**3. Basic ETL in Airflow**](#3-basic-etl-in-airflow) (11 videos)
-  - ETL in Airflow
-  - A real-world data engineering task
-  - Extracting data manually
-  - Extracting data with Airflow
-  - Transforming data manually
-  - Transforming data with Airflow
-  - Loading data manually
-  - Loading data with Airflow
-  - Building an ETL DAG with Airflow
-  - Challenge: Review ETL questions
-  - Solution: Solutions to ETL questions
+  - [ETL in Airflow](#etl-in-airflow)
+  - [A real-world data engineering task](#a-real-world-data-engineering-task)
+  - [Extracting data manually](#extracting-data-manually)
+  - [Extracting data with Airflow](#extracting-data-with-airflow)
+  - [Transforming data manually](#transforming-data-manually)
+  - [Transforming data with Airflow](#transforming-data-with-airflow)
+  - [Loading data manually](#loading-data-manually)
+  - [Loading data with Airflow](#loading-data-with-airflow)
+  - [Building an ETL DAG with Airflow](#building-an-etl-dag-with-airflow)
+  - [Challenge: Review ETL questions](#challenge-review-etl-questions)
+  - [Solution: Solutions to ETL questions](#solution-solutions-to-etl-questions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The future of data engineering
+  - [The future of data engineering](#the-future-of-data-engineering)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (5), [[Data Engineering]] (1), open-source (1), etl (1), career (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - have (1)
 
@@ -166,8 +166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), [[Data Engineering]] (3), cloud (3), [[Programming]] (2)
 > **CLI Commands:** python (4)
-> **Code Keywords:** class, (2), let (1)
 > **Env Vars:** sql (2)
 > **Tools:** bash (1)
 > **Definitions:** is a  (1)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), continue (1)
+> **Frameworks & Libraries:** data (29), cloud (1), business (1), [[Business Intelligence (BI)|Business intelligence]] (1), bi (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2)
 > **Versions:** 19.3 (1)
@@ -306,19 +306,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Codespaces]] (5), feature (2), [[Data Engineering]] (1), [[LinkedIn]] (1)
 > **Tools:** github (6)
 > **Prerequisites:** configure (3), setup (2), install (1)
 > **CLI Commands:** find (2), apache (1)
 > **UI Navigation:** dropdown (2), select the (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Your Bearings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data engineering and data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980)
@@ -371,9 +371,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Data Engineering]] (6), business (4), [[Automation]] (2), cloud (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - welcome (1)
 
 #### Orchestration: In the modern sense
@@ -441,8 +441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Orchestration]] (11), cloud (3), [[Data Engineering]] (2), [[Automation]] (2)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** interface (2), let (1), finally, (1), continue (1)
 > **CLI Commands:** apache (2), composer (1)
 > **Env Vars:** nsa (1), dod (1), mwaa (1)
 > **Speakers:** - let (1)
@@ -506,9 +506,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), etl (16), [[Data Engineering]] (3), database (2), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1)
 > **Env Vars:** etl (16), elt (2), sql (1)
 > **Analogies:** such as (7)
-> **Code Keywords:** let (1), finally, (1), else. (1)
 > **CLI Commands:** apache (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** ibm (1)
@@ -549,16 +549,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Data Engineering]] (3), [[Orchestration]] (1), etl (1), database (1)
 > **Env Vars:** dag (4), etl (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - now (1)
 
 
 ### 2. Airflow Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980)
@@ -633,10 +633,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (2), [[Apache Airflow]] (1), power (1)
 > **Env Vars:** dag (4)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** python (2), apache (1)
-> **Code Keywords:** finally, (1), async (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -767,9 +767,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[Codespaces]] (7), [[Python (Programming Language)|Python]] (5), web (3), [[Apache Airflow]] (2)
 > **CLI Commands:** pip (5), python (5), make (3), apache (2), aws (1)
 > **Prerequisites:** install (11), set up (1), configure (1)
-> **Code Keywords:** let (6), finally, (2), switch (1), default, (1)
 > **Env Vars:** csrf (2), sql (2), url (1), pip (1), aws (1)
 > **Tools:** github (2), terminal (2), command line (1)
 > **File Paths:** airflow.cfg (1), _config.py (1), config.py (1)
@@ -899,7 +899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (4), interface (1), abstract (1), case, (1)
+> **Frameworks & Libraries:** web (16), [[Codespaces]] (6), application (2), next (1), hit (1)
 > **Env Vars:** url (3), pid (3), csrf (2), http (1), wtf_csrf_enabled (1)
 > **UI Navigation:** open the (2), click on (2), switch to (1)
 > **CLI Commands:** make (3), find (1)
@@ -975,7 +975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1)
+> **Frameworks & Libraries:** business (2), power (1), cloud (1), database (1), api (1)
 > **File Paths:** airflow.cfg (4)
 > **Env Vars:** airflow_home (2), api (1)
 > **Cross-References:** go back to (2)
@@ -1087,8 +1087,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Python (Programming Language)|Python]] (3), next (2), node (1), [[OneNote]] (1)
 > **Env Vars:** dag (25)
-> **Code Keywords:** let (4), switch (2), case, (2), require (1), interface (1)
 > **CLI Commands:** python (3), make (3), node (1), cat (1)
 > **Tools:** bash (7)
 > **File Paths:** airflow.cfg (1), one_task_dag.py (1), createthisfile.txt (1)
@@ -1171,8 +1171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), power (1), business (1)
 > **Env Vars:** dag (22), dags (1)
-> **Code Keywords:** let (3), switch (2), case, (1), pass (1)
 > **CLI Commands:** python (4), find (1)
 > **Code Identifiers:** two_task_dag (2)
 > **Tools:** bash (2)
@@ -1183,7 +1183,7 @@ created: 2026-04-29
 
 ### 3. Basic ETL in Airflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ETL in Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/etl-in-airflow?u=76281980)
@@ -1234,8 +1234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), etl (7), [[Data Engineering]] (5)
 > **Env Vars:** etl (7), dag (3), elt (2)
-> **Code Keywords:** let (2), import, (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** it's best to (1)
@@ -1296,8 +1296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (5), etl (3), [[Healthcare Analytics]] (1), [[Data Engineering]] (1)
 > **Env Vars:** etl (3), dag (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
@@ -1380,7 +1380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (1), case, (1), delete (1)
+> **Frameworks & Libraries:** data (16), business (2), etl (1), database (1), [[Orchestration]] (1)
 > **Env Vars:** etl (1), http (1), https (1), csv (1)
 > **Analogies:** for example (1), just like (1), imagine (1)
 > **File Paths:** data.csv (1), manualextractdata.csv (1)
@@ -1446,8 +1446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **Env Vars:** dag (14)
-> **Code Keywords:** let (5), switch (1)
 > **CLI Commands:** wget (3), make (1)
 > **Code Identifiers:** extract_dag (3), extract_task (1)
 > **UI Navigation:** navigate to (1), open the (1), click on (1)
@@ -1536,7 +1536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), finally, (2), type, (1), switch (1)
+> **Frameworks & Libraries:** data (11), generic (6), [[Pandas (Software)|Pandas]] (6), [[Python (Programming Language)|Python]] (4), business (3)
 > **CLI Commands:** python (4), pip (1), make (1)
 > **UI Navigation:** navigate to (2), switch to (1), open the (1)
 > **Definitions:** is a  (2), known as (1), is called (1)
@@ -1618,7 +1618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (5), switch (2), finally, (1), pass (1)
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (8), power (2), [[Pandas (Software)|Pandas]] (2), [[Data Engineering]] (2)
 > **Env Vars:** dag (7), csv (5), pandas (2)
 > **CLI Commands:** python (8)
 > **File Paths:** dag.py (1)
@@ -1722,7 +1722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (1), case, (1), switch (1), type, (1)
+> **Frameworks & Libraries:** data (15), database (5), etl (3), business (2), [[Security]] (1)
 > **Env Vars:** etl (3), csv (2)
 > **CLI Commands:** sqlite3 (2), find (1), make (1)
 > **UI Navigation:** navigate to (1), select the (1), open the (1)
@@ -1830,8 +1830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (4), [[Codespaces]] (2), etl (1), business (1)
 > **Env Vars:** dag (10), etl (1), dags (1), csv (1), cmd (1)
-> **Code Keywords:** let (7), switch (2), class. (1)
 > **Tools:** bash (7), command line (1)
 > **UI Navigation:** select the (2), navigate to (1), switch to (1), click on (1), open the (1)
 > **Code Identifiers:** load_dag (4)
@@ -1966,8 +1966,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** etl (13), data (6), database (4), business (3), [[Codespaces]] (2)
 > **Env Vars:** dag (20), etl (10), sql (1)
-> **Code Keywords:** let (12), switch (3), finally, (1), case, (1)
 > **UI Navigation:** click on (4), open the (2), select the (2), navigate to (1)
 > **Code Identifiers:** basic_etl_dag (3), extract_task (1), transform_task (1), load_task (1), top_level_domains (1)
 > **File Paths:** basic_etl_dag.py (1), basic-etl-extract-data.csv (1), basic-etl-transform-data.csv (1)
@@ -2022,9 +2022,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), etl (2), [[Financial Analysis]] (1), database (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dag (3), etl (2)
 > **CLI Commands:** make (3), python (1)
-> **Code Keywords:** this, (1), let (1), switch (1), finally, (1)
 > **File Paths:** challenge_dag.py (1), install_and_run_airflow.sh (1)
 > **Code Identifiers:** challenge_dag (1), install_and_run_airflow (1)
 > **Best Practices:** remember to (1), make sure to (1)
@@ -2174,7 +2174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (5), switch (3), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (12), database (7), business (3), [[Data Engineering]] (2), [[Codespaces]] (2)
 > **Env Vars:** dag (9), etl (1), sql (1), csv (1)
 > **Code Identifiers:** challenge_dag (3), transform_data (3), extract_task (2), reset_index (1), transform_task (1)
 > **CLI Commands:** make (2), wget (2), cd (1)
@@ -2186,7 +2186,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980)
@@ -2241,7 +2241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3)
+> **Frameworks & Libraries:** data (15), [[Data Engineering]] (4), cloud (4), [[Real-Time]] (3), ai (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** etl (1)
 > **Cross-References:** we discussed (1)

@@ -27,7 +27,7 @@ tags:
   - topic/devops
   - skill/devsecops
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/DevSecOps-%20Tips%20for%20Success.md)
@@ -46,27 +46,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Get clear on DevSecOps
+  - [Get clear on DevSecOps](#get-clear-on-devsecops)
 - [**1. Why You Need DevSecOps**](#1-why-you-need-devsecops) (2 videos)
-  - Security work is just not fair
-  - Security is fighting a losing battle
+  - [Security work is just not fair](#security-work-is-just-not-fair)
+  - [Security is fighting a losing battle](#security-is-fighting-a-losing-battle)
 - [**2. Tips to Succeed at DevSecOps**](#2-tips-to-succeed-at-devsecops) (10 videos)
-  - Be a maker for DevSecOps
-  - Use developer tactics for security
-  - Focus on experiments that learn
-  - Apply security automation for DevSecOps joy
-  - Learn from safety experts
-  - Add in chaos for better security results
-  - Build a sharing culture for security
-  - Bring auditors to the DevSecOps party
-  - Find a rugged path for software
-  - The MEASURE for DevSecOps
+  - [Be a maker for DevSecOps](#be-a-maker-for-devsecops)
+  - [Use developer tactics for security](#use-developer-tactics-for-security)
+  - [Focus on experiments that learn](#focus-on-experiments-that-learn)
+  - [Apply security automation for DevSecOps joy](#apply-security-automation-for-devsecops-joy)
+  - [Learn from safety experts](#learn-from-safety-experts)
+  - [Add in chaos for better security results](#add-in-chaos-for-better-security-results)
+  - [Build a sharing culture for security](#build-a-sharing-culture-for-security)
+  - [Bring auditors to the DevSecOps party](#bring-auditors-to-the-devsecops-party)
+  - [Find a rugged path for software](#find-a-rugged-path-for-software)
+  - [The MEASURE for DevSecOps](#the-measure-for-devsecops)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Be a DevSecOps ambassador
+  - [Be a DevSecOps ambassador](#be-a-devsecops-ambassador)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get clear on DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980)
@@ -93,6 +93,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[DevSecOps]] (5), [[DevOps]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - devops (1)
@@ -100,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Why You Need DevSecOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security work is just not fair
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980)
@@ -183,7 +184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (23), teams (5), [[Agile Development|Agile]] (3), [[DevOps]] (2), [[Engineering]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sdlc (2), sans (1)
 > **Cross-References:** later in (2)
@@ -252,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (16), business (6), teams (2), [[Engineering]] (2), management (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
@@ -261,7 +262,7 @@ created: 2026-04-29
 
 ### 2. Tips to Succeed at DevSecOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be a maker for DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980)
@@ -382,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this. (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (23), teams (4), [[DevSecOps]] (3), next (1), hr (1)
 > **Env Vars:** waf (3), api (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
@@ -499,7 +500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), pass (1), function (1), for. (1)
+> **Frameworks & Libraries:** [[Security]] (19), [[DevSecOps]] (6), next (4), [[DevOps]] (3), teams (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** bdd (3), tdd (1), pci (1)
 > **Analogies:** just like (2)
@@ -578,9 +579,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[OWASP]] (3), data (2), application (2), teams (1)
 > **Env Vars:** owasp (3), isc (1), cso (1), cto (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** else. (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
@@ -691,7 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), let (1), finally, (1), assert (1)
+> **Frameworks & Libraries:** [[Automation]] (13), [[Security]] (13), [[System Configuration]] (4), [[DevSecOps]] (3), application (3)
 > **CLI Commands:** find (2), make (2), ansible (1)
 > **Env Vars:** sast (1), cicd (1)
 > **Warnings:** be careful (1)
@@ -784,8 +785,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Software Development]] (1), product (1), web application (1), [[Design Patterns]] (1)
 > **Definitions:** is an  (2), is a  (2)
-> **Code Keywords:** let (1), this, (1), function (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -881,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), this: (1)
+> **Frameworks & Libraries:** [[Engineering]] (19), [[Security]] (18), application (2), next (2), [[DevSecOps]] (1)
 > **Definitions:** is a  (1), is called (1), is an  (1), means that (1)
 > **CLI Commands:** make (1), cd (1)
 > **URLs:** [principlesofchaos.org](https://principlesofchaos.org) (1)
@@ -969,8 +970,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (30), [[DevSecOps]] (3), [[DevOps]] (3), teams (3), next (3)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1), this, (1), this. (1), function (1)
 > **Env Vars:** rasp (1), waf (1), iast (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1)
@@ -1059,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), this. (1), continue (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (5), [[Security]] (2), [[DevOps]] (2), [[Agile Development|Agile]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **URLs:** [dearauditor.org](https://dearauditor.org) (2)
 > **Env Vars:** grc (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1173,6 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), cloud (3), [[DevOps]] (2), [[DevSecOps]] (2), hit (1)
 > **Env Vars:** cissp (1), sbom (1), die (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), stands for (1)
@@ -1287,17 +1289,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (18), [[DevSecOps]] (13), [[Automation]] (6), [[DevOps]] (5), next (5)
 > **Env Vars:** measure (7), cams (3)
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (1), continue (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be a DevSecOps ambassador
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980)
@@ -1336,6 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevSecOps]] (7), [[DevOps]] (6), [[Security]] (2), next (1), [[LinkedIn]] (1)
 > **Env Vars:** measure (2)
 > **Cross-References:** we discussed (1), in the last (1)
 > **CLI Commands:** find (1)

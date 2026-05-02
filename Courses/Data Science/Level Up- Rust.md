@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Level%20Up-%20Rust.md)
@@ -49,31 +49,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Put Rust into practice
-  - What you need to get started
-  - Using GitHub Codespaces with this course
+  - [Put Rust into practice](#put-rust-into-practice)
+  - [What you need to get started](#what-you-need-to-get-started)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Rust Coding Challenges**](#1-rust-coding-challenges) (17 videos)
-  - Calculate the median
-  - Find unique items
-  - Print any text type
-  - Case-insensitive sort
-  - Convert text to Morse code
-  - Value of a hand of cards
-  - Has a deadline been reached?
-  - Convert between Celsius and Fahrenheit
-  - Sum a list of numbers with missing values
-  - Calculate the number of weeks between two dates
-  - Validate an ISBN number
-  - Check if a file exists
-  - Interpret an RGB hex color
-  - Run-length encoding
-  - Handle inconsistent dates
-  - Travel planner
-  - Final challenge: Vigenère cipher
+  - [Calculate the median](#calculate-the-median)
+  - [Find unique items](#find-unique-items)
+  - [Print any text type](#print-any-text-type)
+  - [Case-insensitive sort](#case-insensitive-sort)
+  - [Convert text to Morse code](#convert-text-to-morse-code)
+  - [Value of a hand of cards](#value-of-a-hand-of-cards)
+  - [Has a deadline been reached?](#has-a-deadline-been-reached)
+  - [Convert between Celsius and Fahrenheit](#convert-between-celsius-and-fahrenheit)
+  - [Sum a list of numbers with missing values](#sum-a-list-of-numbers-with-missing-values)
+  - [Calculate the number of weeks between two dates](#calculate-the-number-of-weeks-between-two-dates)
+  - [Validate an ISBN number](#validate-an-isbn-number)
+  - [Check if a file exists](#check-if-a-file-exists)
+  - [Interpret an RGB hex color](#interpret-an-rgb-hex-color)
+  - [Run-length encoding](#run-length-encoding)
+  - [Handle inconsistent dates](#handle-inconsistent-dates)
+  - [Travel planner](#travel-planner)
+  - [Final challenge: Vigenère cipher](#final-challenge-vigenre-cipher)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Put Rust into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Programming]] (2), [[Google]] (1), [[Microsoft]] (1), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [tim] (1)
@@ -146,6 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Programming]] (1), web (1), next (1), hit (1)
 > **Prerequisites:** install (4), setup (1)
 > **UI Navigation:** click on (1), go to (1)
 > **File Paths:** rustup.rs (1)
@@ -153,7 +155,6 @@ created: 2026-04-29
 > **Env Vars:** cpu (1)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
-> **Speakers:** - [instructor] (1)
 
 #### Using GitHub Codespaces with this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980)
@@ -292,7 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -304,7 +305,7 @@ created: 2026-04-29
 
 ### 1. Rust Coding Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate the median
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980)
@@ -449,7 +450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (3), let (1), case, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), next (3), [[Programming]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** f32 (3), vec (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** cargo (2), find (1)
@@ -576,7 +577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), pass (3), implements (1), continue (1)
+> **Frameworks & Libraries:** data (2), [[Rust (Programming Language)|Rust]] (2), generic (1), next (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** cargo (1), make (1)
 > **Non-Speech:** (techno gaming music) (2)
@@ -643,7 +644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), type. (1), function (1), type, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), game (2), next (2), generic (1)
 > **Cross-References:** in the next (2)
 > **File Paths:** main.rs (1)
 > **Tools:** terminal (1)
@@ -730,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), type. (1), case, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), generic (1)
 > **Code Identifiers:** sort_usernames (3), to_lowercase (1)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (lively music) (2)
@@ -888,7 +889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (3), type. (2), let (2), self (1), impl (1)
+> **Frameworks & Libraries:** next (3), game (2), [[Rust (Programming Language)|Rust]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (5), is an  (2)
 > **Code Identifiers:** to_morse_code (1), with_capacity (1)
 > **Exercise Files:** sample code (2)
@@ -1046,7 +1047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), struct (2), enum (2), self (2), pass (2)
+> **Frameworks & Libraries:** game (3), hit (1), [[Rust (Programming Language)|Rust]] (1), next (1)
 > **Code Identifiers:** aces_seen (2), aces_scene (1), strong_hand (1)
 > **Exercise Files:** sample code (2)
 > **Definitions:** is a  (2)
@@ -1130,8 +1131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), [[Rust (Programming Language)|Rust]] (1)
 > **Non-Speech:** (bright nostalgic music) (2), (stars chime) (1), (graphic beeps) (1), (graphic chimes) (1)
-> **Code Keywords:** function (1), let (1), self (1), return, (1)
 > **File Paths:** main.rs (1)
 > **CLI Commands:** cargo (1)
 > **Cross-References:** in the next (1)
@@ -1272,7 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (5), struct (3), enum (1), pass (1)
+> **Frameworks & Libraries:** game (3), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Non-Speech:** (keys clicking) (11), (video game music) (3), (mouse clicking) (1)
 > **Code Identifiers:** to_celsius (2), to_fahrenheit (2)
 > **Definitions:** is an  (2), is a  (1)
@@ -1372,7 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), type. (1), enum (1), default, (1)
+> **Frameworks & Libraries:** data (5), [[Rust (Programming Language)|Rust]] (3), functional (1), next (1)
 > **CLI Commands:** find (1), cargo (1)
 > **Code Identifiers:** sum_with_missing (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1492,7 +1493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), enum (1), type. (1)
+> **Frameworks & Libraries:** next (4), game (2), [[Rust (Programming Language)|Rust]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3)
 > **Non-Speech:** (retro video game sound effects) (1), (retro video game music) (1)
 > **File Paths:** main.rs (1)
@@ -1838,7 +1839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), type. (7), type, (3), require (2), pass (2)
+> **Frameworks & Libraries:** next (3), generic (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** isbn (8), todo (2)
 > **Code Identifiers:** weights_applied (2), char_indices (1), to_digit (1), calculate_check_digit (1), to_string (1)
 > **Definitions:** is a  (5), is called (1)
@@ -1928,7 +1929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), self (2), else. (1), type. (1), let (1)
+> **Frameworks & Libraries:** [[Metadata]] (6), next (2), hit (1)
 > **Code Identifiers:** is_writeable (4), is_readable (3)
 > **CLI Commands:** make (2), cargo (1)
 > **Definitions:** is a  (3)
@@ -2114,7 +2115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (1), type. (1), module (1), require (1)
+> **Frameworks & Libraries:** next (3), web (2), generic (2), [[Programming]] (1), css (1)
 > **Env Vars:** rgb (5), css (1), ae42f0 (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
@@ -2304,8 +2305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (4), [[LinkedIn]] (3), data (1), [[Rust (Programming Language)|Rust]] (1), next (1)
 > **Non-Speech:** (keys typing) (8), (video game music) (2)
-> **Code Keywords:** let (6), pass (1), module (1), continue (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **Env Vars:** utf (2), abc (1)
 > **File Paths:** main.rs (1)
@@ -2504,7 +2505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), if, (3), continue (2), else, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), game (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2)
 > **Non-Speech:** (retro video game sound effects) (1), (retro video game music) (1)
@@ -2753,7 +2754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), self (2), for. (2), from. (1)
+> **Frameworks & Libraries:** next (10), node (9), data (5), [[Search]] (5), [[Rust (Programming Language)|Rust]] (2)
 > **CLI Commands:** node (9), make (4), find (3), cargo (1)
 > **Definitions:** is a  (5), is an  (2), short for (1), means that (1)
 > **Non-Speech:** (lively chiptune music) (2)
@@ -2899,7 +2900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), module (1), continue (1)
+> **Frameworks & Libraries:** next (3), web (1), [[Rust (Programming Language)|Rust]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** whyrust (2)
 > **CLI Commands:** make (1)

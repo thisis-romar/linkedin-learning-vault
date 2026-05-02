@@ -31,7 +31,7 @@ tags:
   - skill/digital-accessibility
   - skill/html
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML%20Forms-%20Accessibility.md)
@@ -50,33 +50,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Be an HTML forms MVP
-  - What you should know
+  - [Be an HTML forms MVP](#be-an-html-forms-mvp)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Form Accessibility**](#1-introduction-to-form-accessibility) (3 videos)
-  - Course use case
-  - What is form accessibility?
-  - Appearance
+  - [Course use case](#course-use-case)
+  - [What is form accessibility?](#what-is-form-accessibility)
+  - [Appearance](#appearance)
 - [**2. Improving Form Accessibility with Form Controls**](#2-improving-form-accessibility-with-form-controls) (3 videos)
-  - Introduction to HTML form controls
-  - Input, textarea, select, and button form control
-  - Label element
+  - [Introduction to HTML form controls](#introduction-to-html-form-controls)
+  - [Input, textarea, select, and button form control](#input-textarea-select-and-button-form-control)
+  - [Label element](#label-element)
 - [**3. Helping Users Input Data into Forms**](#3-helping-users-input-data-into-forms) (6 videos)
-  - Introduction to HTML form attributes
-  - Input types: Checkbox, radio button, text, password, and email
-  - Name and for attributes
-  - Aria-describedby and Aria-labelledby attributes
-  - Placeholder, label attribute
-  - Focus indicator
+  - [Introduction to HTML form attributes](#introduction-to-html-form-attributes)
+  - [Input types: Checkbox, radio button, text, password, and email](#input-types-checkbox-radio-button-text-password-and-email)
+  - [Name and for attributes](#name-and-for-attributes)
+  - [Aria-describedby and Aria-labelledby attributes](#aria-describedby-and-aria-labelledby-attributes)
+  - [Placeholder, label attribute](#placeholder-label-attribute)
+  - [Focus indicator](#focus-indicator)
 - [**4. Managing Data Entry Errors**](#4-managing-data-entry-errors) (3 videos)
-  - Required attribute
-  - Autocomplete attribute
-  - Min-length and max-length attribute
+  - [Required attribute](#required-attribute)
+  - [Autocomplete attribute](#autocomplete-attribute)
+  - [Min-length and max-length attribute](#min-length-and-max-length-attribute)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be an HTML forms MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Forms]] (3), web (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [host] (1)
 
 #### What you should know
@@ -137,11 +137,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[HTML]] (1), css (1), [[JavaScript]] (1), [[Codespaces]] (1)
 > **Env Vars:** html (1), css (1)
 > **Tools:** github (2)
 > **Prerequisites:** you need to have (1), prerequisite (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
@@ -149,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Form Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/course-use-case?u=76281980)
@@ -176,6 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (3), data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -210,6 +211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (8), web (1), web application (1), data (1), application (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -237,13 +239,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Forms]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Improving Form Accessibility with Form Controls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to HTML form controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-controls?u=76281980)
@@ -266,9 +269,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), data (1), [[Forms]] (1), feature (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Input, textarea, select, and button form control
@@ -328,9 +331,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), data (2), web (2), [[Web Development]] (1), css (1)
 > **Analogies:** such as (4)
 > **Env Vars:** html (3)
-> **Code Keywords:** let (1), type, (1)
 > **File Paths:** style.css (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -375,6 +378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (6), data (4)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -382,7 +386,7 @@ created: 2026-04-29
 
 ### 3. Helping Users Input Data into Forms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to HTML form attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980)
@@ -405,6 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[HTML]] (1), [[Forms]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
@@ -473,10 +478,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), web (1), [[Forms]] (1), [[HTML]] (1), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** checkbox (5)
 > **Definitions:** means that (1), in other words (1), is a  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type, (1), type. (1)
 > **Env Vars:** html (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
@@ -562,10 +567,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Forms]] (3), application (1), web (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), checkbox (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** type. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -610,10 +615,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1), [[JavaScript]] (1), next (1)
 > **Env Vars:** aria (4), html (1)
 > **Code Identifiers:** fullnamelabel (2), fullname (1)
 > **Definitions:** short for (1), is a  (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** checkbox (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -675,6 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), css (3), [[Search]] (1), product (1), web (1)
 > **Env Vars:** css (3)
 > **File Paths:** style.css (1)
 > **Code Identifiers:** clientname (1)
@@ -732,7 +738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class. (1), this. (1)
+> **Frameworks & Libraries:** css (3), web (2), [[Forms]] (1)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), similar to (1)
@@ -742,7 +748,7 @@ created: 2026-04-29
 
 ### 4. Managing Data Entry Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Required attribute
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/required-attribute?u=76281980)
@@ -779,6 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), prompt (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
@@ -822,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (5), feature (1), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -871,14 +878,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), function (1), continue (1)
+> **Frameworks & Libraries:** data (2), [[Forms]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980)
@@ -917,10 +924,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Forms]] (2), [[Web Accessibility]] (2), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** aria (1), w3c (1)
 > **Warnings:** keep in mind (2)
-> **Code Keywords:** continue (1)
 > **Documentation:** w3c (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

@@ -42,7 +42,7 @@ tags:
   - skill/extract-transform-load-etl
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/ETL%20in%20Python%20and%20SQL.md)
@@ -61,40 +61,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Create an ETL in Python and SQL
-  - Tools used in this course
+  - [Create an ETL in Python and SQL](#create-an-etl-in-python-and-sql)
+  - [Tools used in this course](#tools-used-in-this-course)
 - [**1. What Are ETLs?**](#1-what-are-etls) (6 videos)
-  - What are ETLs and how do you create them?
-  - ETL process overview
-  - Exploring your data with pandas (Python) and SQL
-  - Understanding your data
-  - Challenge: Reading data using Python
-  - Solution: Reading data using Python
+  - [What are ETLs and how do you create them?](#what-are-etls-and-how-do-you-create-them)
+  - [ETL process overview](#etl-process-overview)
+  - [Exploring your data with pandas (Python) and SQL](#exploring-your-data-with-pandas-python-and-sql)
+  - [Understanding your data](#understanding-your-data)
+  - [Challenge: Reading data using Python](#challenge-reading-data-using-python)
+  - [Solution: Reading data using Python](#solution-reading-data-using-python)
 - [**2. Extracting and Transforming Data with Python**](#2-extracting-and-transforming-data-with-python) (6 videos)
-  - Loading data from different sources
-  - Extracting your data
-  - Cleaning, preprocessing data, and data formatting
-  - Standardization, handling duplicates, and missing values
-  - Challenge: Extract and transform data using pandas
-  - Solution: Extract and transform data using pandas
+  - [Loading data from different sources](#loading-data-from-different-sources)
+  - [Extracting your data](#extracting-your-data)
+  - [Cleaning, preprocessing data, and data formatting](#cleaning-preprocessing-data-and-data-formatting)
+  - [Standardization, handling duplicates, and missing values](#standardization-handling-duplicates-and-missing-values)
+  - [Challenge: Extract and transform data using pandas](#challenge-extract-and-transform-data-using-pandas)
+  - [Solution: Extract and transform data using pandas](#solution-extract-and-transform-data-using-pandas)
 - [**3. Loading Data into Target Systems**](#3-loading-data-into-target-systems) (5 videos)
-  - Introduction to data warehouses and data lakes
-  - Loading data into relational databases
-  - Data quality checks and validation with SQL
-  - Challenge: Transform the data and remove duplicates and nulls
-  - Solution: Transform the data and remove duplicates and nulls
+  - [Introduction to data warehouses and data lakes](#introduction-to-data-warehouses-and-data-lakes)
+  - [Loading data into relational databases](#loading-data-into-relational-databases)
+  - [Data quality checks and validation with SQL](#data-quality-checks-and-validation-with-sql)
+  - [Challenge: Transform the data and remove duplicates and nulls](#challenge-transform-the-data-and-remove-duplicates-and-nulls)
+  - [Solution: Transform the data and remove duplicates and nulls](#solution-transform-the-data-and-remove-duplicates-and-nulls)
 - [**4. Automating ETL Jobs: Scheduling ETL Jobs with Python**](#4-automating-etl-jobs-scheduling-etl-jobs-with-python) (5 videos)
-  - Querying your data with SQL
-  - Scheduling ETL jobs with Airflow: Part 1
-  - Scheduling ETL jobs with Airflow: Part 2
-  - Challenge: Load the data into a database and automate
-  - Solution: Load the data into a database and automate
+  - [Querying your data with SQL](#querying-your-data-with-sql)
+  - [Scheduling ETL jobs with Airflow: Part 1](#scheduling-etl-jobs-with-airflow-part-1)
+  - [Scheduling ETL jobs with Airflow: Part 2](#scheduling-etl-jobs-with-airflow-part-2)
+  - [Challenge: Load the data into a database and automate](#challenge-load-the-data-into-a-database-and-automate)
+  - [Solution: Load the data into a database and automate](#solution-load-the-data-into-a-database-and-automate)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Expand your knowledge of ETLs
+  - [Expand your knowledge of ETLs](#expand-your-knowledge-of-etls)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an ETL in Python and SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1), [[SQL]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [jennifer] (1)
@@ -154,17 +155,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[Google]] (2), data (2), [[Pandas (Software)|Pandas]] (2), [[Linux]] (1)
 > **Tools:** visual studio (1), jupyter (1), anaconda (1), colab (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** while, (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. What Are ETLs?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are ETLs and how do you create them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980)
@@ -233,10 +234,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), etl (12), [[Python (Programming Language)|Python]] (6), [[Databases]] (3), [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** etl (12), aws (2), ssis (1), adf (1), dms (1)
 > **CLI Commands:** python (6), aws (2), make (1), apache (1)
 > **Definitions:** is a  (3), stands for (2)
-> **Code Keywords:** let (2), super (1)
 > **Speakers:** - [instructor] (1)
 
 #### ETL process overview
@@ -310,8 +311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), etl (6), [[Microsoft Excel|Excel]] (2), [[Scalability]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** etl (6), sql (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** required to (2)
 > **CLI Commands:** python (1)
@@ -385,9 +386,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Pandas (Software)|Pandas]] (14), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), [[Programming]] (2)
 > **CLI Commands:** python (5), make (2), find (1)
 > **Env Vars:** sql (2), peep (1), json (1), csv (1)
-> **Code Keywords:** let (1), this, (1), this. (1), type. (1)
 > **Code Identifiers:** read_the (1), read_csv (1), read_excel (1)
 > **Cross-References:** previous video (1), we talked about (1), in the next (1)
 > **Definitions:** is a  (3)
@@ -479,7 +480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (31), [[Pandas (Software)|Pandas]] (5), etl (3), business (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** etl (3)
 > **Definitions:** is a  (2)
 > **Tools:** visual studio (1)
@@ -505,6 +506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
@@ -585,7 +587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (4), this, (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** data (10), next (3), [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** sample_data (8), duplicate_rows (3), read_csv (1)
 > **Env Vars:** csv (2)
 > **Cross-References:** in the next (1)
@@ -596,7 +598,7 @@ created: 2026-04-29
 
 ### 2. Extracting and Transforming Data with Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading data from different sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980)
@@ -681,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (2), function (1), this, (1)
+> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (12), [[JSON]] (4), [[Microsoft Excel|Excel]] (4), database (2)
 > **Env Vars:** csv (6), json (4), sql (1), xml (1), txt (1)
 > **Code Identifiers:** sample_excel (2), read_csv (1), sample_data_csv (1), sample_csv (1), read_excel (1)
 > **File Paths:** pandas.read.csv (1), pd.read.csv (1), sample.csv (1)
@@ -747,7 +749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), [[Pandas (Software)|Pandas]] (5), next (3)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (2)
 > **Tools:** visual studio (1), jupyter (1)
@@ -831,7 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (26), [[Data Transformation]] (4), [[Microsoft Excel|Excel]] (3), product (3), teams (2)
 > **Env Vars:** etl (1)
 > **Cross-References:** previous video (1)
 > **Tools:** jupyter (1)
@@ -976,7 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (6), this. (6), case, (1), delete (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (3), [[Pandas (Software)|Pandas]] (2), next (2), etl (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** in the last (1), we discussed (1), next video (1)
 > **Env Vars:** etl (1)
@@ -1003,6 +1005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 2.91 (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1100,7 +1103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (4), this, (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (6), [[Pandas (Software)|Pandas]] (3), next (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), select the (1)
 > **Code Identifiers:** read_excel (1)
@@ -1112,7 +1115,7 @@ created: 2026-04-29
 
 ### 3. Loading Data into Target Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data warehouses and data lakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980)
@@ -1197,7 +1200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), require (1), finally, (1)
+> **Frameworks & Libraries:** data (40), database (10), [[Databases]] (8), management (2), [[Relational Databases]] (2)
 > **Env Vars:** dbms (1), crud (1), sql (1), json (1), xml (1)
 > **CLI Commands:** mysql (2), mongo (2), apache (1)
 > **Analogies:** such as (2), for example (1)
@@ -1376,7 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (6), function (5), delete (1), case, (1)
+> **Frameworks & Libraries:** data (20), [[SQL]] (11), database (5), [[PostgreSQL|Postgres]] (5), [[Databases]] (2)
 > **Env Vars:** sql (11), url (2), tiny (1), turtle (1), dbap (1)
 > **CLI Commands:** mysql (2), python (1), make (1)
 > **Code Identifiers:** data_warehouse (1), create_engine (1)
@@ -1460,7 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (24), etl (3), database (2), [[SQL]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** etl (3), sql (2)
 > **Cross-References:** in the last (1), go back to (1), next video (1)
 > **CLI Commands:** make (1)
@@ -1492,7 +1495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[SQL]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** sql (2)
 > **Best Practices:** remember to (2)
 > **Analogies:** just like (1)
@@ -1574,7 +1577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), function (2), finally, (1)
+> **Frameworks & Libraries:** data (7), next (3), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **Code Identifiers:** if_exists (1)
@@ -1585,7 +1588,7 @@ created: 2026-04-29
 
 ### 4. Automating ETL Jobs: Scheduling ETL Jobs with Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying your data with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980)
@@ -1670,7 +1673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (14), business (3), next (2), management (2), etl (2)
 > **UI Navigation:** click on (2), navigate to (1), select the (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** etl (2), ets (1)
@@ -1796,7 +1799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (2), while, (1), finally, (1)
+> **Frameworks & Libraries:** etl (8), data (5), [[Automation]] (4), [[Apache Airflow]] (2), next (2)
 > **Env Vars:** etl (8), ssis (1), airflow_home (1), dag (1)
 > **Tools:** terminal (5)
 > **Prerequisites:** set up (2), install (2), initialization (1)
@@ -1952,7 +1955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (5), finally, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), etl (9), data (3), web (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** etl (9), dag (5), adev (1), sql (1)
 > **CLI Commands:** python (9)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
@@ -1986,8 +1989,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[Microsoft Excel|Excel]] (1)
 > **File Paths:** orders_etl.py (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** orders_etl (1)
 > **Versions:** 0.92 (1)
 > **Cross-References:** in the last (1)
@@ -2079,8 +2082,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** etl (5), [[Microsoft Excel|Excel]] (3), [[Microsoft Products|Products]] (3), [[Python (Programming Language)|Python]] (2), next (2)
 > **Env Vars:** etl (5), dag (3)
-> **Code Keywords:** let (4), this. (1), function (1)
 > **CLI Commands:** python (2), find (1)
 > **Versions:** 0.92 (3)
 > **UI Navigation:** go to (2), toggle (1)
@@ -2091,7 +2094,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expand your knowledge of ETLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980)
@@ -2126,9 +2129,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** etl (3), data (2), [[Data Engineering]] (2), [[Pandas (Software)|Pandas]] (1), [[Apache Airflow]] (1)
 > **Env Vars:** etl (3), sql (1)
 > **CLI Commands:** apache (1), python (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -29,7 +29,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Clustering%20and%20Association.md)
@@ -48,63 +48,63 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Clustering and association
-  - What you should know
-  - Using the exercise files
-  - What is unsupervised machine learning?
+  - [Clustering and association](#clustering-and-association)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [What is unsupervised machine learning?](#what-is-unsupervised-machine-learning)
 - [**1. What Is Cluster Analysis?**](#1-what-is-cluster-analysis) (6 videos)
-  - Looking at the data with a 2D scatter plot
-  - Understanding hierarchical cluster analysis
-  - Running hierarchical cluster analysis
-  - Interpreting a dendrogram
-  - Methods for measuring distance
-  - What is k-nearest neighbors?
+  - [Looking at the data with a 2D scatter plot](#looking-at-the-data-with-a-2d-scatter-plot)
+  - [Understanding hierarchical cluster analysis](#understanding-hierarchical-cluster-analysis)
+  - [Running hierarchical cluster analysis](#running-hierarchical-cluster-analysis)
+  - [Interpreting a dendrogram](#interpreting-a-dendrogram)
+  - [Methods for measuring distance](#methods-for-measuring-distance)
+  - [What is k-nearest neighbors?](#what-is-k-nearest-neighbors)
 - [**2. K-Means**](#2-k-means) (11 videos)
-  - How does k-means work?
-  - Which variables should be used with k-means?
-  - Interpreting a box plot
-  - Running a k-means cluster analysis
-  - Interpreting cluster analysis output
-  - What does silhouette mean?
-  - Which cases should be used with k-means?
-  - Finding optimum value for k: k = 3
-  - Finding optimum value for k: k = 4
-  - Finding optimum value for k: k = 5
-  - What the best solution?
+  - [How does k-means work?](#how-does-k-means-work)
+  - [Which variables should be used with k-means?](#which-variables-should-be-used-with-k-means)
+  - [Interpreting a box plot](#interpreting-a-box-plot)
+  - [Running a k-means cluster analysis](#running-a-k-means-cluster-analysis)
+  - [Interpreting cluster analysis output](#interpreting-cluster-analysis-output)
+  - [What does silhouette mean?](#what-does-silhouette-mean)
+  - [Which cases should be used with k-means?](#which-cases-should-be-used-with-k-means)
+  - [Finding optimum value for k: k = 3](#finding-optimum-value-for-k-k-3)
+  - [Finding optimum value for k: k = 4](#finding-optimum-value-for-k-k-4)
+  - [Finding optimum value for k: k = 5](#finding-optimum-value-for-k-k-5)
+  - [What the best solution?](#what-the-best-solution)
 - [**3. Visualizing and Reporting Cluster Solutions**](#3-visualizing-and-reporting-cluster-solutions) (3 videos)
-  - Summarizing cluster means in a table
-  - Traffic Light feature in Excel
-  - Line graphs
+  - [Summarizing cluster means in a table](#summarizing-cluster-means-in-a-table)
+  - [Traffic Light feature in Excel](#traffic-light-feature-in-excel)
+  - [Line graphs](#line-graphs)
 - [**4. HDBSCAN**](#4-hdbscan) (2 videos)
-  - How does HDBSCAN work?
-  - An HDBSCAN example
+  - [How does HDBSCAN work?](#how-does-hdbscan-work)
+  - [An HDBSCAN example](#an-hdbscan-example)
 - [**5. Cluster Methods for Categorical Variables**](#5-cluster-methods-for-categorical-variables) (7 videos)
-  - Relating clusters to categories statistically
-  - Relating clusters to categories visually
-  - Running a multiple correspondence analysis
-  - Interpreting a perceptual map
-  - Using cluster analysis and decision trees together
-  - A BIRCH/two-step example
-  - A self organizing map example
+  - [Relating clusters to categories statistically](#relating-clusters-to-categories-statistically)
+  - [Relating clusters to categories visually](#relating-clusters-to-categories-visually)
+  - [Running a multiple correspondence analysis](#running-a-multiple-correspondence-analysis)
+  - [Interpreting a perceptual map](#interpreting-a-perceptual-map)
+  - [Using cluster analysis and decision trees together](#using-cluster-analysis-and-decision-trees-together)
+  - [A BIRCH/two-step example](#a-birchtwo-step-example)
+  - [A self organizing map example](#a-self-organizing-map-example)
 - [**6. Anomaly Detection**](#6-anomaly-detection) (4 videos)
-  - The k = 1 trick
-  - Anomaly detection algorithms
-  - Using SOM for anomaly detection
-  - One Class SVM
+  - [The k = 1 trick](#the-k-1-trick)
+  - [Anomaly detection algorithms](#anomaly-detection-algorithms)
+  - [Using SOM for anomaly detection](#using-som-for-anomaly-detection)
+  - [One Class SVM](#one-class-svm)
 - [**7. Association Rules and Sequence Detection**](#7-association-rules-and-sequence-detection) (7 videos)
-  - Intro to association rules and sequence analysis
-  - Running association rules
-  - Some association rules terminology
-  - Interpreting association rules
-  - Putting association rules to use
-  - Comparing clustering and association rules
-  - Sequence detection
+  - [Intro to association rules and sequence analysis](#intro-to-association-rules-and-sequence-analysis)
+  - [Running association rules](#running-association-rules)
+  - [Some association rules terminology](#some-association-rules-terminology)
+  - [Interpreting association rules](#interpreting-association-rules)
+  - [Putting association rules to use](#putting-association-rules-to-use)
+  - [Comparing clustering and association rules](#comparing-clustering-and-association-rules)
+  - [Sequence detection](#sequence-detection)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Clustering and association
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980)
@@ -125,8 +125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Supervised Learning]] (1), [[Algorithms]] (1), [[Statistics]] (1)
 > **Env Vars:** spss (2), birch (1)
-> **Code Keywords:** self (1), let (1)
 > **Speakers:** - [keith] (1)
 
 #### What you should know
@@ -166,8 +166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (8), data (4), [[Predictive Analytics]] (1)
 > **Env Vars:** spss (6)
-> **Code Keywords:** finally, (1)
 > **Tools:** notion (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** before you begin (1)
@@ -198,6 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[IBM SPSS]] (2), [[Statistics]] (2)
 > **Env Vars:** spss (4), ibm (2)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -330,7 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1), this. (1)
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (7), [[Supervised Learning]] (4), [[Decision Trees]] (2), [[Search]] (2)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (2), refers to (1), is called (1)
 > **Tools:** notion (1)
@@ -340,7 +341,7 @@ created: 2026-04-29
 
 ### 1. What Is Cluster Analysis?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Looking at the data with a 2D scatter plot
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/looking-at-the-data-with-a-2d-scatter-plot?u=76281980)
@@ -471,7 +472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), else. (1), finally, (1)
+> **Frameworks & Libraries:** data (17), [[Hardware]] (5), product (3), game (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), double-click (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -569,8 +570,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), game (2), [[Hardware]] (2), next (2)
 > **Analogies:** imagine (4), just like (1), for instance (1)
-> **Code Keywords:** let (4)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -652,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try, (2), case. (1), case, (1), continue (1)
+> **Frameworks & Libraries:** data (5), game (4), [[Hardware]] (3), [[Statistics]] (2)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** means that (1), is a  (1)
@@ -738,7 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** spss (1), pdf (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -850,8 +851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** find (9), make (1)
-> **Code Keywords:** let (4), else. (1), try, (1), from. (1)
 > **Definitions:** is an  (1), in other words (1), means that (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
@@ -936,7 +937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), let (2), class, (2), case, (1)
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (2), web (1), [[Decision Trees]] (1)
 > **Analogies:** it's like (1), similar to (1), for instance (1)
 > **URLs:** [kaggle.com](https://kaggle.com) (2)
 > **UI Navigation:** click on (2)
@@ -947,7 +948,7 @@ created: 2026-04-29
 
 ### 2. K-Means
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How does k-means work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-k-means-work?u=76281980)
@@ -988,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), pass (1)
+> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** spss (1), sas (1)
 > **Definitions:** is called (1)
@@ -1065,7 +1066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), throw (1)
+> **Frameworks & Libraries:** data (1), product (1), next (1), [[Algorithms]] (1)
 > **Cross-References:** later in (1), coming up (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1175,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), finally, (1), extends (1)
+> **Frameworks & Libraries:** data (10), game (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** spss (1)
 > **Definitions:** means that (1)
@@ -1253,8 +1254,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[IBM SPSS]] (1)
 > **Env Vars:** spss (4), str (2), ibm (1), sav (1)
-> **Code Keywords:** let (3), finally, (1), this. (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1350,7 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), case, (1)
+> **Frameworks & Libraries:** game (5), data (4), [[Hardware]] (3), product (3), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), picture (1)
 > **UI Navigation:** double-click (1)
@@ -1404,9 +1405,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** modeller (4), sas (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1479,8 +1480,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), data (2), [[Search]] (1)
 > **CLI Commands:** make (5), node (3), find (2)
-> **Code Keywords:** let (3), this. (1)
 > **Definitions:** is called (2), is an  (2)
 > **Speakers:** - [narrator] (1)
 
@@ -1577,7 +1578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this. (1), switch (1), try. (1)
+> **Frameworks & Libraries:** data (3), game (3), [[Hardware]] (2), [[k-means clustering]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 > **UI Navigation:** scroll down (1)
@@ -1705,7 +1706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), super (2), case, (1), else, (1)
+> **Frameworks & Libraries:** game (6), [[Hardware]] (5), next (2), data (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1809,7 +1810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), require (1), continue (1)
+> **Frameworks & Libraries:** [[Hardware]] (6), product (2), game (2), [[Microsoft Products|Products]] (1), node (1)
 > **CLI Commands:** make (2), node (1)
 > **Cross-References:** coming up (1)
 > **Tools:** notion (1)
@@ -1871,7 +1872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2)
+> **Frameworks & Libraries:** next (1), node (1), business (1)
 > **Analogies:** for instance (2), picture (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** node (1)
@@ -1883,7 +1884,7 @@ created: 2026-04-29
 
 ### 3. Visualizing and Reporting Cluster Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing cluster means in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980)
@@ -1958,9 +1959,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Statistics]] (3), management (1), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (4), click on (2), scroll down (1)
 > **Env Vars:** spss (3), pdf (2), anova (1)
-> **Code Keywords:** let (4), continue (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2032,7 +2033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (3), export. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Hardware]] (4), data (1), product (1), game (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1), right-click (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (2)
@@ -2188,7 +2189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), continue (1), for, (1), this, (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), product (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1), next (1)
 > **Env Vars:** spss (5)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -2200,7 +2201,7 @@ created: 2026-04-29
 
 ### 4. HDBSCAN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How does HDBSCAN work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-hdbscan-work?u=76281980)
@@ -2281,8 +2282,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** hdbscan (7), dbscan (4)
-> **Code Keywords:** let (2), this. (1), finally, (1), require (1), while, (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** stands for (1)
@@ -2367,9 +2368,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), data (2), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1)
 > **Env Vars:** hdbscan (9)
 > **CLI Commands:** node (3), find (2), python (2)
-> **Code Keywords:** let (1), super (1), this. (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** similar to (2), for instance (1)
 > **Versions:** 18.4 (1)
@@ -2379,7 +2380,7 @@ created: 2026-04-29
 
 ### 5. Cluster Methods for Categorical Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relating clusters to categories statistically
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980)
@@ -2500,7 +2501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), self (1)
+> **Frameworks & Libraries:** data (4), application (2), [[Statistics]] (2), hit (2), oop (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (4), known as (1), means that (1)
 > **Env Vars:** zip (2), birch (1)
@@ -2568,8 +2569,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (3), continue (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** set up (1)
@@ -2680,7 +2681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), continue (3), let (2), case, (1), for, (1)
+> **Frameworks & Libraries:** data (3), next (3)
 > **UI Navigation:** click on (6), go to (1), open the (1)
 > **Code Identifiers:** photo_num (1), goldstar_num (1), gender_num (1), homeowner_num (1)
 > **CLI Commands:** make (2), find (1)
@@ -2748,8 +2749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Electronics]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Code Identifiers:** photo_num (1)
 > **Env Vars:** spss (1)
 > **Versions:** version 25 (1)
@@ -2904,8 +2905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Decision Trees]] (6), node (3), [[Supervised Learning]] (2), hit (2)
 > **CLI Commands:** make (4), find (3), node (3)
-> **Code Keywords:** let (4), type, (1), from. (1), this, (1), super (1)
 > **Definitions:** is a  (4), in other words (1)
 > **Env Vars:** hit (2)
 > **Analogies:** for instance (1)
@@ -3011,8 +3012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** throw (1), let (1)
 > **Tools:** notion (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
@@ -3163,7 +3164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (9), let (5), this, (2), else. (1), this. (1)
+> **Frameworks & Libraries:** data (2), next (2), business (1), application (1)
 > **CLI Commands:** cat (8), make (5), find (2)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (2)
@@ -3173,7 +3174,7 @@ created: 2026-04-29
 
 ### 6. Anomaly Detection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The k = 1 trick
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980)
@@ -3324,9 +3325,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[IBM SPSS]] (3), [[Supervised Learning]] (2), node (2), next (1)
 > **Env Vars:** ibm (3), spss (3), kdd99 (1), crisp (1), kmd (1)
 > **CLI Commands:** make (2), node (2), find (1)
-> **Code Keywords:** let (4), this, (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Versions:** 3.144 (1)
 > **Definitions:** is a  (1)
@@ -3436,8 +3437,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), hit (2), data (2), next (1)
 > **CLI Commands:** node (3), find (2), make (1)
-> **Code Keywords:** let (2), from, (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3557,7 +3558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), let (3), type. (1), type, (1), new. (1)
+> **Frameworks & Libraries:** data (3), node (3), [[Supervised Learning]] (3), next (1), business (1)
 > **CLI Commands:** node (3), find (1), make (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** it's like (1), for instance (1)
@@ -3641,9 +3642,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), [[Python (Programming Language)|Python]] (1), data (1)
 > **CLI Commands:** node (7), find (2), python (1)
 > **Env Vars:** svm (4)
-> **Code Keywords:** let (3)
 > **Versions:** 18.4 (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** in other words (1)
@@ -3653,7 +3654,7 @@ created: 2026-04-29
 
 ### 7. Association Rules and Sequence Detection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to association rules and sequence analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/intro-to-association-rules-and-sequence-analysis?u=76281980)
@@ -3732,7 +3733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (2), this, (2), this. (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (5), product (4), web (3), [[Hardware]] (2), business (1)
 > **Env Vars:** sku (6)
 > **Best Practices:** recommended (2)
 > **Warnings:** keep in mind (1), warning (1)
@@ -3879,7 +3880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1), super (1), case, (1)
+> **Frameworks & Libraries:** product (14), data (8), node (2), game (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4), node (2), find (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Env Vars:** spss (2)
@@ -3959,9 +3960,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (3), [[Microsoft Word|Word]] (1), data (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** caution (1), be careful (1), keep in mind (1)
-> **Code Keywords:** let (1), if. (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** spss (1)
 > **Tools:** notion (1)
@@ -4119,7 +4120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), this, (2), finally, (1), for. (1)
+> **Frameworks & Libraries:** game (5), data (2), generic (1), product (1), next (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** just like (1), for instance (1)
@@ -4231,7 +4232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** product (6), management (4), game (2), [[Microsoft Products|Products]] (1), next (1)
 > **Env Vars:** sku (4)
 > **CLI Commands:** make (2)
 > **Versions:** 1.15 (1)
@@ -4298,8 +4299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), product (1), [[Microsoft Products|Products]] (1), generic (1), data (1)
 > **Warnings:** caution (1), keep in mind (1)
-> **Code Keywords:** switch (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -4409,7 +4410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else, (1), case, (1)
+> **Frameworks & Libraries:** product (6), [[Python (Programming Language)|Python]] (1), web (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** python (1)
@@ -4420,7 +4421,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980)
@@ -4449,9 +4450,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1), [[Statistics]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** spss (6)
 > **CLI Commands:** find (2), python (1)
-> **Code Keywords:** try. (1), finally, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 

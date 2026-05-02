@@ -8,7 +8,7 @@ linkedin_topics:
   - Hardware
   - Network and System Administration
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 14
 tags:
   - learning-path
   - topic/hardware
@@ -65,7 +65,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Hardware/Learning%20Paths/Become%20an%20Arduino%20Developer.md)

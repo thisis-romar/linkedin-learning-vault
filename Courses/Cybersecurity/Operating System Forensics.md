@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/computer-forensics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Operating%20System%20Forensics.md)
@@ -47,48 +47,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Operating system forensics
-  - What you should know
+  - [Operating system forensics](#operating-system-forensics)
+  - [What you should know](#what-you-should-know)
 - [**1. Operating Systems and Digital Forensics**](#1-operating-systems-and-digital-forensics) (7 videos)
-  - Introduction to OSs and digital forensics
-  - History
-  - Core concepts
-  - Roles in computing
-  - Process management hands-on
-  - Roles in forensics
-  - Future
+  - [Introduction to OSs and digital forensics](#introduction-to-oss-and-digital-forensics)
+  - [History](#history)
+  - [Core concepts](#core-concepts)
+  - [Roles in computing](#roles-in-computing)
+  - [Process management hands-on](#process-management-hands-on)
+  - [Roles in forensics](#roles-in-forensics)
+  - [Future](#future)
 - [**2. File System Types**](#2-file-system-types) (7 videos)
-  - Introduction to file system types
-  - Windows file systems
-  - Windows hands-on
-  - Linux file systems
-  - Linux hands-on
-  - Apple file systems
-  - Apple hands-on
+  - [Introduction to file system types](#introduction-to-file-system-types)
+  - [Windows file systems](#windows-file-systems)
+  - [Windows hands-on](#windows-hands-on)
+  - [Linux file systems](#linux-file-systems)
+  - [Linux hands-on](#linux-hands-on)
+  - [Apple file systems](#apple-file-systems)
+  - [Apple hands-on](#apple-hands-on)
 - [**3. File Recovery**](#3-file-recovery) (7 videos)
-  - Introduction to file recovery
-  - Data carving
-  - Data carving preparation
-  - Data carving hands-on
-  - Slack space
-  - Data hiding and ADS
-  - Data hiding hands-on
+  - [Introduction to file recovery](#introduction-to-file-recovery)
+  - [Data carving](#data-carving)
+  - [Data carving preparation](#data-carving-preparation)
+  - [Data carving hands-on](#data-carving-hands-on)
+  - [Slack space](#slack-space)
+  - [Data hiding and ADS](#data-hiding-and-ads)
+  - [Data hiding hands-on](#data-hiding-hands-on)
 - [**4. Live Acquisition**](#4-live-acquisition) (9 videos)
-  - Introduction to live acquisition
-  - Addressing
-  - Memory structure
-  - Virtual memory
-  - Memory dump analysis with Volatility
-  - Processes
-  - Network connections
-  - Challenge
-  - Solution
+  - [Introduction to live acquisition](#introduction-to-live-acquisition)
+  - [Addressing](#addressing)
+  - [Memory structure](#memory-structure)
+  - [Virtual memory](#virtual-memory)
+  - [Memory dump analysis with Volatility](#memory-dump-analysis-with-volatility)
+  - [Processes](#processes)
+  - [Network connections](#network-connections)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Operating system forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980)
@@ -111,8 +111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (1), data (1), [[Digital Forensics]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
 
@@ -139,13 +139,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (1), [[Cybersecurity]] (1), [[Computer Forensics]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Speakers:** - let (1)
 
 
 ### 1. Operating Systems and Digital Forensics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OSs and digital forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980)
@@ -200,7 +200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), function (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (4), [[Hardware]] (4), data (4), web (1), application (1)
 > **Env Vars:** ram (2), cpu (1)
 > **Definitions:** known as (1), is called (1)
 > **CLI Commands:** make (1)
@@ -269,8 +269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (8), [[Linux]] (4), [[Microsoft]] (3), [[Microsoft Word|Word]] (1), prompt (1)
 > **Env Vars:** dos (4), ibm (2), gui (1)
-> **Code Keywords:** public (2), interface (1)
 > **Code Identifiers:** macos (1), ios (1)
 > **Cross-References:** in the next (1)
 > **Tools:** command prompt (1)
@@ -329,8 +329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Forensics]] (3), management (3), [[Memory Management]] (1)
 > **Env Vars:** cpu (3), ssd (2), usb (1)
-> **Code Keywords:** let (2), require (1), function (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
@@ -371,7 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), let (1), function (1)
+> **Frameworks & Libraries:** data (3), management (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** source code (1)
 > **Analogies:** for example (1)
@@ -414,8 +414,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Ubuntu]] (1), management (1)
 > **CLI Commands:** apache (4), sudo (3), grep (3)
-> **Code Keywords:** let (3), type: (2), case, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -466,7 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), this. (1), delete (1)
+> **Frameworks & Libraries:** [[Search]] (3), data (3), [[Microsoft]] (1), feature (1), [[Digital Forensics]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [tutor] (1)
@@ -522,16 +522,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), data (4), [[Hardware]] (2), [[Digital Forensics]] (2), [[Android]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. File System Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to file system types
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980)
@@ -584,8 +584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Metadata]] (2), power (1), [[Microsoft Word|Word]] (1), application (1)
 > **Env Vars:** bios (2), oss (2), uefi (1), cpu (1)
-> **Code Keywords:** switch (1), interface (1), this, (1), let (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -659,9 +659,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Metadata]] (2), [[Microsoft]] (1), prompt (1), [[Electronics]] (1)
 > **Env Vars:** fat (14), pbs (3), dos (2), ntfs (2), usb (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** exfat (1)
 > **Tools:** command prompt (1)
@@ -732,8 +732,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (1), next (1), [[Digital Forensics]] (1)
 > **Env Vars:** tsk (6), fat (2), mbr (2), usb (1), pbs (1)
-> **Code Keywords:** let (2), delete (1), case, (1)
 > **Warnings:** note that (2)
 > **File Paths:** test.txt (1)
 > **Definitions:** refers to (1)
@@ -787,6 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), data (3), [[Windows]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -860,8 +861,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (8), [[Metadata]] (3), data (3), next (2), ai (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** ls (1)
 > **Speakers:** - [instructor] (1)
 
@@ -914,6 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (3), next (1), [[Hardware]] (1), power (1)
 > **Env Vars:** hfs (9), apfs (3), mfs (2), fat (1), bios (1)
 > **Definitions:** is a  (2)
 > **Versions:** 8.1 (1)
@@ -970,7 +972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), implements (1)
+> **Frameworks & Libraries:** data (3), [[Metadata]] (3), [[Microsoft Word|Word]] (1), application (1), next (1)
 > **Analogies:** such as (1), just like (1)
 > **CLI Commands:** ls (1)
 > **Env Vars:** apfs (1)
@@ -980,7 +982,7 @@ created: 2026-04-29
 
 ### 3. File Recovery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to file recovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980)
@@ -1017,6 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Forensics]] (5), data (5), career (1), application (1), [[Computer Forensics]] (1)
 > **Tools:** slack (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1064,11 +1067,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Slack]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** fat (1), jpg (1), ads (1)
 > **Tools:** slack (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** delete (1), throw (1)
 > **Analogies:** such as (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - data (1)
@@ -1200,8 +1203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (3), [[Windows]] (2), [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** usb (9), jpeg (5), fat (2), carving (2), fat32 (1)
-> **Code Keywords:** let (12), delete (2), switch (1), if, (1)
 > **CLI Commands:** find (2), make (2), sudo (2), ls (1)
 > **UI Navigation:** click on (2), select the (2), switch to (1)
 > **Analogies:** picture (2)
@@ -1303,9 +1306,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Linux]] (2), next (2), data (2)
 > **Env Vars:** jfif (6), jpeg (4), fat (1)
 > **CLI Commands:** grep (6), find (2)
-> **Code Keywords:** let (4), match, (1), if= (1)
 > **Definitions:** is a  (2), in other words (1), is called (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Analogies:** picture (1)
@@ -1409,10 +1412,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (23), [[Windows]] (3), [[Linux]] (3), data (2), prompt (1)
 > **Tools:** slack (23), command prompt (1), github (1)
 > **File Paths:** slack.txt (10)
 > **CLI Commands:** sudo (3), cat (2), ls (2), make (1), find (1)
-> **Code Keywords:** let (5), try. (1), super (1)
 > **Definitions:** means that (2), is a  (1)
 > **Prerequisites:** install (2), set up (1)
 > **UI Navigation:** click on (1)
@@ -1507,9 +1510,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Powershell]] (5), [[Windows]] (4), feature (4), [[Slack]] (2)
 > **Env Vars:** ads (10), ntfs (8), mft (8), hfs (2), cli (1)
 > **Tools:** powershell (5), slack (2), command line (1)
-> **Code Keywords:** require (2), let (2), interface (1), this. (1)
 > **Definitions:** is an  (3), is a  (2)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (1), cd (1)
@@ -1599,8 +1602,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Powershell]] (3), prompt (2), [[Windows]] (2), [[Linux]] (1)
 > **File Paths:** ads.txt (9), adds.txt (1)
-> **Code Keywords:** let (5), switch (2)
 > **Tools:** powershell (3), command prompt (2)
 > **Env Vars:** ads (4)
 > **Warnings:** note that (3)
@@ -1611,7 +1614,7 @@ created: 2026-04-29
 
 ### 4. Live Acquisition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to live acquisition
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379529?u=76281980)
@@ -1658,7 +1661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), protected (1)
+> **Frameworks & Libraries:** data (6), [[Digital Forensics]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ram (1)
 > **Analogies:** imagine (1)
@@ -1713,7 +1716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** next (2), data (2), [[Digital Forensics]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1763,6 +1766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **Env Vars:** cpu (4), rom (2), ram (1), bios (1), usb (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1833,8 +1837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Memory Management]] (1), [[Windows]] (1), next (1), [[Linux]] (1)
 > **UI Navigation:** click on (1), scroll down (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
@@ -1898,8 +1902,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Linux]] (3), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** python (1), sudo (1), apt (1)
-> **Code Keywords:** let (2), case, (1)
 > **Versions:** 2.6 (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** install (2)
@@ -1966,10 +1970,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Definitions:** is a  (1), stands for (1)
 > **Speakers:** - [instructor] (1), - p448 (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 
 #### Network connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/network-connections?u=76281980)
@@ -2009,7 +2013,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2042,10 +2045,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Windows]] (3), [[Linux]] (1), prompt (1)
 > **CLI Commands:** python (6)
 > **Versions:** 3.0 (3), 2.6 (1), python 3 (1), 12.5 (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** let (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
@@ -2090,6 +2093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[GitHub]] (1), prompt (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** unzip (1), pip3 (1), python (1)
 > **File Paths:** requirements.txt (1), vol.py (1)
 > **Env Vars:** zip (2)
@@ -2097,12 +2101,11 @@ created: 2026-04-29
 > **Tools:** github (1), command prompt (1)
 > **Exercise Files:** zip file (1), exercise file (1)
 > **Prerequisites:** install (2)
-> **UI Navigation:** click on (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980)
@@ -2121,6 +2124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Forensics]] (3), [[Cybersecurity]] (1), [[Computer Forensics]] (1), [[Network Forensics]] (1), web (1)
 > **Analogies:** such as (1)
 > **Speakers:** - thanks (1)
 

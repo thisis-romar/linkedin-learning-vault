@@ -26,7 +26,7 @@ tags:
   - skill/customer-journey-mapping
   - skill/customer-marketing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Foundations-%20Customer%20Decision%20Journey.md)
@@ -45,34 +45,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Taking the customer's perspective
+  - [Taking the customer's perspective](#taking-the-customers-perspective)
 - [**1. Decision Journey Basics**](#1-decision-journey-basics) (3 videos)
-  - Importance of the decision journey
-  - How the decision journey has evolved
-  - Insights are the foundation
+  - [Importance of the decision journey](#importance-of-the-decision-journey)
+  - [How the decision journey has evolved](#how-the-decision-journey-has-evolved)
+  - [Insights are the foundation](#insights-are-the-foundation)
 - [**2. Buyer Personas**](#2-buyer-personas) (3 videos)
-  - Define buyer persona
-  - Profile your buyers
-  - Use your buyer personas
+  - [Define buyer persona](#define-buyer-persona)
+  - [Profile your buyers](#profile-your-buyers)
+  - [Use your buyer personas](#use-your-buyer-personas)
 - [**3. Decision Journey Stages**](#3-decision-journey-stages) (4 videos)
-  - Define journey stages
-  - Develop the journey map
-  - Common journey stages
-  - Think through the stages
+  - [Define journey stages](#define-journey-stages)
+  - [Develop the journey map](#develop-the-journey-map)
+  - [Common journey stages](#common-journey-stages)
+  - [Think through the stages](#think-through-the-stages)
 - [**4. Map Across Touch Points**](#4-map-across-touch-points) (3 videos)
-  - Define touch points
-  - Engage across touch points
-  - Determine touch points
+  - [Define touch points](#define-touch-points)
+  - [Engage across touch points](#engage-across-touch-points)
+  - [Determine touch points](#determine-touch-points)
 - [**5. Align Messaging and Content**](#5-align-messaging-and-content) (3 videos)
-  - Messaging versus content
-  - Align across touch points
-  - Emotional versus rational
+  - [Messaging versus content](#messaging-versus-content)
+  - [Align across touch points](#align-across-touch-points)
+  - [Emotional versus rational](#emotional-versus-rational)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The journey continues
+  - [The journey continues](#the-journey-continues)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the customer's perspective
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/taking-the-customer-s-perspective?u=76281980)
@@ -105,13 +105,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (1), career (1), [[Decision-Making]] (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Decision Journey Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of the decision journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/importance-of-the-decision-journey-13926968?u=76281980)
@@ -184,10 +184,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), business (2), [[Google]] (1), [[Search]] (1), data (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Versions:** 8.5 (1)
 > **Speakers:** - a (1)
 
@@ -252,6 +252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (2), product (2), [[Search]] (2), [[Sustainability]] (1), business (1)
 > **Analogies:** such as (5), for example (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -304,8 +305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), business (1)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
@@ -315,7 +316,7 @@ created: 2026-04-29
 
 ### 2. Buyer Personas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define buyer persona
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-buyer-persona-13929683?u=76281980)
@@ -366,6 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), teams (2), hit (1), [[Search]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (1), template (1)
 > **Definitions:** is a  (2)
@@ -451,8 +453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), product (3), [[Microsoft Products|Products]] (2), data (2), [[Statistics]] (1)
 > **Analogies:** such as (11), for example (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - how (1)
 
@@ -515,9 +517,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), data (1), database (1), [[Forms]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** continue (1)
 > **Best Practices:** remember to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - if (1)
@@ -525,7 +527,7 @@ created: 2026-04-29
 
 ### 3. Decision Journey Stages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define journey stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-journey-stages-13932233?u=76281980)
@@ -564,6 +566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), business (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
@@ -613,9 +616,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Analytics]] (1), [[Microsoft Products|Products]] (1), teams (1), [[Engineering]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** static (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - ever (1)
 
@@ -688,8 +691,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), next (1), [[Security]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Warnings:** common mistake (1)
 > **Speakers:** - there (1)
 
@@ -737,14 +740,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Exercise Files:** exercise file (1), template (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - you (1)
 
 
 ### 4. Map Across Touch Points
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define touch points
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-touch-points-13931273?u=76281980)
@@ -789,7 +791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Search]] (1), business (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - now (1)
@@ -863,8 +865,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), product (2), [[Lead Generation]] (1), [[Thought Leadership]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), finally, (1), continue (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -917,16 +919,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), next (2), data (1), business (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - what (1)
 
 
 ### 5. Align Messaging and Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Messaging versus content
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980)
@@ -989,7 +991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (2), [[Thought Leadership]] (1), data (1), power (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
@@ -1042,7 +1044,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Analogies:** imagine (2), such as (1), kind of like (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - lots (1)
 
 #### Emotional versus rational
@@ -1108,7 +1109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), break. (1), this. (1)
+> **Frameworks & Libraries:** power (1), [[Search]] (1), data (1)
 > **Code Identifiers:** iphone (4)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -1117,7 +1118,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The journey continues
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980)
@@ -1142,6 +1143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Thought Leadership]] (1), business (1), [[Microsoft]] (1), [[Google]] (1), [[Newsletters]] (1)
 > **Env Vars:** bcg (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - congratulations (1)

@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/WordPress-%20Everything%20about%20Plugins.md)
@@ -48,44 +48,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Everything about WordPress plugins
-  - What you should know before taking this course
+  - [Everything about WordPress plugins](#everything-about-wordpress-plugins)
+  - [What you should know before taking this course](#what-you-should-know-before-taking-this-course)
 - [**1. Introduction to Plugins**](#1-introduction-to-plugins) (5 videos)
-  - What is a plugin?
-  - Where to find plugins
-  - Exploring the plugin repository page
-  - What makes a good plugin
-  - Plugins in the WordPress file structure
+  - [What is a plugin?](#what-is-a-plugin)
+  - [Where to find plugins](#where-to-find-plugins)
+  - [Exploring the plugin repository page](#exploring-the-plugin-repository-page)
+  - [What makes a good plugin](#what-makes-a-good-plugin)
+  - [Plugins in the WordPress file structure](#plugins-in-the-wordpress-file-structure)
 - [**2. Getting Started with Plugins**](#2-getting-started-with-plugins) (4 videos)
-  - How to install and activate a plugin
-  - How to deactivate and remove plugins
-  - How to safely update and maintain plugins
-  - How to secure plugins with mu-plugins
+  - [How to install and activate a plugin](#how-to-install-and-activate-a-plugin)
+  - [How to deactivate and remove plugins](#how-to-deactivate-and-remove-plugins)
+  - [How to safely update and maintain plugins](#how-to-safely-update-and-maintain-plugins)
+  - [How to secure plugins with mu-plugins](#how-to-secure-plugins-with-mu-plugins)
 - [**3. Building a Site with Plugins**](#3-building-a-site-with-plugins) (8 videos)
-  - Basics of using a plugin
-  - Using design plugins
-  - Using development plugins
-  - Using marketing plugins
-  - Using performance and security plugins
-  - Using maintenance plugins
-  - Using admin plugins
-  - Using plugins in the block editor
+  - [Basics of using a plugin](#basics-of-using-a-plugin)
+  - [Using design plugins](#using-design-plugins)
+  - [Using development plugins](#using-development-plugins)
+  - [Using marketing plugins](#using-marketing-plugins)
+  - [Using performance and security plugins](#using-performance-and-security-plugins)
+  - [Using maintenance plugins](#using-maintenance-plugins)
+  - [Using admin plugins](#using-admin-plugins)
+  - [Using plugins in the block editor](#using-plugins-in-the-block-editor)
 - [**4. Troubleshooting Plugins**](#4-troubleshooting-plugins) (4 videos)
-  - Finding a problem plugin
-  - Manually removing a plugin
-  - Troubleshooting plugins with plugins
-  - Using plugin support channels
+  - [Finding a problem plugin](#finding-a-problem-plugin)
+  - [Manually removing a plugin](#manually-removing-a-plugin)
+  - [Troubleshooting plugins with plugins](#troubleshooting-plugins-with-plugins)
+  - [Using plugin support channels](#using-plugin-support-channels)
 - [**5. Creating Your Own Plugin**](#5-creating-your-own-plugin) (4 videos)
-  - Creating a simple plugin
-  - Creating a complex plugin
-  - Submitting your plugin to the directory
-  - Selling your own plugin
+  - [Creating a simple plugin](#creating-a-simple-plugin)
+  - [Creating a complex plugin](#creating-a-complex-plugin)
+  - [Submitting your plugin to the directory](#submitting-your-plugin-to-the-directory)
+  - [Selling your own plugin](#selling-your-own-plugin)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in your WordPress plugin journey
+  - [Next steps in your WordPress plugin journey](#next-steps-in-your-wordpress-plugin-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Everything about WordPress plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980)
@@ -114,8 +114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), [[Security]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - so (1)
 
 #### What you should know before taking this course
@@ -131,13 +131,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), [[LinkedIn]] (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Plugins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a plugin?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980)
@@ -188,6 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), seo (2), [[Security]] (1), [[Forms]] (1), [[E-Commerce]] (1)
 > **Env Vars:** seo (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -260,12 +262,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (7), [[Search]] (5), web (1), [[Forms]] (1), seo (1)
 > **CLI Commands:** find (9)
 > **URLs:** [wordpress.org](https://wordpress.org) (4), [builtwith.com](https://builtwith.com) (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (2), just like (1)
 > **Env Vars:** seo (1), url (1)
-> **Code Keywords:** new. (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** install (1)
 
@@ -344,8 +346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), next (1), [[Search]] (1), [[Microsoft Products|Products]] (1), [[Metadata]] (1)
 > **CLI Commands:** find (5)
-> **Code Keywords:** let (3), for, (1), this. (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), you'll need (1)
 > **Cross-References:** later in (1)
@@ -426,10 +428,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[WooCommerce]] (4), [[Security]] (1), next (1), [[Troubleshooting]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** picture (1), think of it like (1), for example (1)
-> **Code Keywords:** pass (1), else. (1)
 > **Code Identifiers:** ecommerce (1)
 > **Env Vars:** edd (1)
 > **Cross-References:** in the next (1)
@@ -490,8 +492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (9), [[HTML]] (1), [[PHP]] (1), css (1), [[Troubleshooting]] (1)
 > **CLI Commands:** find (6), make (1), php (1)
-> **Code Keywords:** this. (1), this, (1), let (1), public (1), delete (1)
 > **Env Vars:** html (1), php (1), css (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **UI Navigation:** go to (1)
@@ -502,7 +504,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Plugins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to install and activate a plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-install-and-activate-a-plugin?u=76281980)
@@ -579,11 +581,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), [[Search]] (2), seo (2)
 > **CLI Commands:** find (4), make (3)
 > **Prerequisites:** install (6), you'll need (1)
 > **Exercise Files:** zip file (3), download the (2)
 > **UI Navigation:** go to (4)
-> **Code Keywords:** new. (1), from. (1), new, (1)
 > **Env Vars:** seo (2), ftp (1)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** we talked about (1)
@@ -639,7 +641,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1), this, (1), this. (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** recommended (1)
@@ -696,8 +697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Troubleshooting]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this. (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** before you begin (1)
@@ -746,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
@@ -757,7 +758,7 @@ created: 2026-04-29
 
 ### 3. Building a Site with Plugins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of using a plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/basics-of-using-a-plugin?u=76281980)
@@ -800,6 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (1), next (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** faq (1)
 > **UI Navigation:** go to (1)
@@ -925,7 +927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (1), new, (1)
+> **Frameworks & Libraries:** [[Search]] (2), [[Security]] (1), [[WordPress]] (1)
 > **Prerequisites:** install (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -973,9 +975,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), css (2), [[JavaScript]] (2), [[Debugging]] (1), [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), case. (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** install (1)
@@ -1046,8 +1048,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (5), [[Search]] (2), [[Newsletters]] (1), [[WooCommerce]] (1), [[E-Commerce]] (1)
 > **Env Vars:** seo (5)
-> **Code Keywords:** let (1), this. (1), new, (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1), is an  (1)
@@ -1126,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1)
+> **Frameworks & Libraries:** [[Security]] (8), next (2), [[Search]] (2), [[WordPress]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Prerequisites:** install (3), setup (1)
 > **CLI Commands:** make (3)
@@ -1218,7 +1220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), finally, (1), new, (1)
+> **Frameworks & Libraries:** [[Databases]] (1), database (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (6)
 > **Cross-References:** go back to (3)
@@ -1310,7 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), let (2), continue (2), from, (1), delete (1)
+> **Frameworks & Libraries:** [[Troubleshooting]] (2), [[WordPress]] (1), next (1), traffic (1)
 > **Env Vars:** url (8)
 > **UI Navigation:** go to (5), switch to (2)
 > **Prerequisites:** setup (2)
@@ -1414,7 +1416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this, (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (7), product (6), [[Search]] (5), [[Microsoft Products|Products]] (3)
 > **UI Navigation:** toggle (2), select the (1), scroll down (1)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)
@@ -1423,7 +1425,7 @@ created: 2026-04-29
 
 ### 4. Troubleshooting Plugins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding a problem plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/finding-a-problem-plugin?u=76281980)
@@ -1540,7 +1542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), case, (2), for. (1), continue (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **CLI Commands:** find (3)
 > **Env Vars:** ftp (2)
 > **Cross-References:** we talked about (1), go back to (1)
@@ -1622,8 +1624,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (11)
 > **Analogies:** for example (2), just like (2)
-> **Code Keywords:** let (2), case, (1)
 > **Cross-References:** we talked about (1), previous video (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is called (1), is a  (1)
@@ -1684,6 +1686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (1), [[WordPress]] (1)
 > **CLI Commands:** find (6)
 > **UI Navigation:** go to (3)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
@@ -1693,7 +1696,7 @@ created: 2026-04-29
 
 ### 5. Creating Your Own Plugin
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a simple plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980)
@@ -1778,9 +1781,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (9), [[WordPress]] (3)
 > **CLI Commands:** php (9)
 > **Env Vars:** php (9)
-> **Code Keywords:** for, (1), let (1), this. (1), delete (1)
 > **Analogies:** for example (1), just like (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Cross-References:** later in (1)
@@ -1818,11 +1821,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[WooCommerce]] (2), [[PHP]] (2), [[E-Commerce]] (1), [[HTML]] (1)
 > **Env Vars:** php (2), html (1), css (1), api (1)
 > **CLI Commands:** make (2), php (2)
 > **Cross-References:** in the last (1), we discussed (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Submitting your plugin to the directory
@@ -1860,8 +1863,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), teams (1), next (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1), public (1)
 > **Definitions:** is a  (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Env Vars:** faq (1)
@@ -1936,8 +1939,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), business (2), product (2), [[Forms]] (2), [[Search]] (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (1), this. (1), public (1)
 > **Analogies:** similar to (1), for example (1)
 > **Best Practices:** make sure to (1), remember to (1)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -1948,7 +1951,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your WordPress plugin journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/next-steps-in-your-wordpress-plugin-journey?u=76281980)
@@ -1965,7 +1968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **Speakers:** - [instructor] (1)
 
 

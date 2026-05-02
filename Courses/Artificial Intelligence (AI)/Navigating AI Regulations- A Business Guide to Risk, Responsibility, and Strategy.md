@@ -38,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Navigating%20AI%20Regulations-%20A%20Business%20Guide%20to%20Risk%2C%20Responsibility%2C%20and%20Strategy.md)
@@ -57,37 +57,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What business leaders need to know about AI regulations
+  - [What business leaders need to know about AI regulations](#what-business-leaders-need-to-know-about-ai-regulations)
 - [**1. Why AI Regulation Matters Now**](#1-why-ai-regulation-matters-now) (3 videos)
-  - Why AI governance has become a business imperative
-  - How public pressure and policy gaps are forcing action
-  - Why business leaders can’t wait for perfect laws
+  - [Why AI governance has become a business imperative](#why-ai-governance-has-become-a-business-imperative)
+  - [How public pressure and policy gaps are forcing action](#how-public-pressure-and-policy-gaps-are-forcing-action)
+  - [Why business leaders can’t wait for perfect laws](#why-business-leaders-cant-wait-for-perfect-laws)
 - [**2. What AI Regulation Means for Business**](#2-what-ai-regulation-means-for-business) (4 videos)
-  - What counts as regulated AI
-  - How regulation shows up across the organization
-  - Understanding regulatory exposure and business risk
-  - Connecting governance to strategic priorities
+  - [What counts as regulated AI](#what-counts-as-regulated-ai)
+  - [How regulation shows up across the organization](#how-regulation-shows-up-across-the-organization)
+  - [Understanding regulatory exposure and business risk](#understanding-regulatory-exposure-and-business-risk)
+  - [Connecting governance to strategic priorities](#connecting-governance-to-strategic-priorities)
 - [**3. The Global Regulatory Landscape**](#3-the-global-regulatory-landscape) (5 videos)
-  - Navigating a patchwork of global AI rules
-  - Inside the EU AI Act
-  - What US regulators are doing now
-  - Global trends beyond the US and EU
-  - Comparing frameworks and finding patterns
+  - [Navigating a patchwork of global AI rules](#navigating-a-patchwork-of-global-ai-rules)
+  - [Inside the EU AI Act](#inside-the-eu-ai-act)
+  - [What US regulators are doing now](#what-us-regulators-are-doing-now)
+  - [Global trends beyond the US and EU](#global-trends-beyond-the-us-and-eu)
+  - [Comparing frameworks and finding patterns](#comparing-frameworks-and-finding-patterns)
 - [**4. Building Internal AI Governance**](#4-building-internal-ai-governance) (4 videos)
-  - What internal governance really means
-  - Mapping roles and responsibilities for oversight
-  - Creating AI use policies that work
-  - Working across teams to build trust and compliance
+  - [What internal governance really means](#what-internal-governance-really-means)
+  - [Mapping roles and responsibilities for oversight](#mapping-roles-and-responsibilities-for-oversight)
+  - [Creating AI use policies that work](#creating-ai-use-policies-that-work)
+  - [Working across teams to build trust and compliance](#working-across-teams-to-build-trust-and-compliance)
 - [**5. Making AI Governance a Strategic Advantage**](#5-making-ai-governance-a-strategic-advantage) (3 videos)
-  - Compliance to competitive advantage
-  - Communicating regulatory strategy to boards and stakeholders
-  - Preparing for what comes next in AI regulation
+  - [Compliance to competitive advantage](#compliance-to-competitive-advantage)
+  - [Communicating regulatory strategy to boards and stakeholders](#communicating-regulatory-strategy-to-boards-and-stakeholders)
+  - [Preparing for what comes next in AI regulation](#preparing-for-what-comes-next-in-ai-regulation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Moving forward
+  - [Moving forward](#moving-forward)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What business leaders need to know about AI regulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-business-leaders-need-to-know-about-ai-regulations?u=76281980)
@@ -112,14 +112,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), business (2), teams (1), career (1), [[Regulatory Compliance]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from, (1)
 > **Speakers:** - the (1)
 
 
 ### 1. Why AI Regulation Matters Now
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why AI governance has become a business imperative
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980)
@@ -198,7 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1), function (1)
+> **Frameworks & Libraries:** ai (9), business (3), [[Privacy]] (2), data (2), [[Security]] (2)
 > **Env Vars:** oecd (1)
 > **Speakers:** - if (1)
 
@@ -269,7 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (1)
+> **Frameworks & Libraries:** ai (8), [[Accountability]] (1), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Warnings:** warning (1)
@@ -336,14 +336,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), business (1), [[Accountability]] (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - i (1)
 
 
 ### 2. What AI Regulation Means for Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What counts as regulated AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980)
@@ -394,7 +394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** ai (4), business (3), [[Customer Support]] (1), data (1), [[Real-Time]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - not (1)
 
@@ -465,9 +465,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), product (3), teams (3), data (2), [[Accountability]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - most (1)
 
 #### Understanding regulatory exposure and business risk
@@ -531,6 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), teams (2), [[Accountability]] (1), data (1), product (1)
 > **Speakers:** - ai (1)
 
 #### Connecting governance to strategic priorities
@@ -590,12 +591,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), business (2), teams (2), [[Product Development]] (1), [[Design Systems]] (1)
 > **Speakers:** - governance (1)
 
 
 ### 3. The Global Regulatory Landscape
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating a patchwork of global AI rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980)
@@ -658,7 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** ai (5), [[Accountability]] (1), leadership (1), [[Security]] (1), data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - ai (1)
 
@@ -721,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), public (1), abstract (1)
+> **Frameworks & Libraries:** ai (11), data (2), [[Real-Time]] (1), management (1), business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -785,7 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
+> **Frameworks & Libraries:** ai (11), business (2), [[Privacy]] (2), data (1), next (1)
 > **Warnings:** warning (1)
 > **Speakers:** - in (1)
 
@@ -824,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** ai (7), business (1), [[Accountability]] (1), [[Generative AI]] (1), data (1)
 > **Env Vars:** oecd (1)
 > **Speakers:** - while (1)
 
@@ -883,14 +885,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), require (1)
+> **Frameworks & Libraries:** ai (6), [[Accountability]] (1), business (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - no (1)
 
 
 ### 4. Building Internal AI Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What internal governance really means
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980)
@@ -939,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1), raise (1)
+> **Frameworks & Libraries:** ai (5), data (2), business (1), [[Accountability]] (1), leadership (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - ai (1)
@@ -1005,7 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), function (1)
+> **Frameworks & Libraries:** ai (8), business (4), data (3), teams (3), [[Executive Leadership]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - ai (1)
@@ -1047,7 +1049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (8), teams (4), [[Microsoft Products|Products]] (1), [[Content Creation]] (1), data (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - ai (1)
 
@@ -1098,14 +1100,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), ai (4), business (2), product (2), next (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1)
 > **Speakers:** - strong (1)
 
 
 ### 5. Making AI Governance a Strategic Advantage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compliance to competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980)
@@ -1168,7 +1170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), public (1), function (1)
+> **Frameworks & Libraries:** ai (5), teams (3), [[Engineering]] (1), next (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - strong (1)
 
@@ -1217,6 +1219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), business (3), teams (2), next (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - regulation (1)
 
@@ -1261,13 +1264,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), product (1), management (1), business (1), next (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - regulation (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/moving-forward?u=76281980)
@@ -1296,7 +1300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), from. (1)
+> **Frameworks & Libraries:** ai (3), teams (1), business (1), [[Accountability]] (1), leadership (1)
 > **Speakers:** - you (1)
 
 

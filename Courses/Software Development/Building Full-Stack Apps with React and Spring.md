@@ -31,7 +31,7 @@ tags:
   - skill/full-stack-development
   - skill/react-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Building%20Full-Stack%20Apps%20with%20React%20and%20Spring.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Create your own mighty full-stack app
-  - What you should know
+  - [Create your own mighty full-stack app](#create-your-own-mighty-full-stack-app)
+  - [What you should know](#what-you-should-know)
 - [**1. Initial Setup**](#1-initial-setup) (7 videos)
-  - Introduction to Spring
-  - Introduction to React
-  - Overview of the full-stack and MVC
-  - IDE for a Java/JavaScript environment
-  - Introduction to Postman
-  - Initialize a project with Spring Boot
-  - Initialize the React client project
+  - [Introduction to Spring](#introduction-to-spring)
+  - [Introduction to React](#introduction-to-react)
+  - [Overview of the full-stack and MVC](#overview-of-the-full-stack-and-mvc)
+  - [IDE for a Java/JavaScript environment](#ide-for-a-javajavascript-environment)
+  - [Introduction to Postman](#introduction-to-postman)
+  - [Initialize a project with Spring Boot](#initialize-a-project-with-spring-boot)
+  - [Initialize the React client project](#initialize-the-react-client-project)
 - [**2. Spring Models**](#2-spring-models) (4 videos)
-  - Data options and JPA
-  - Define first model class
-  - JPA repository
-  - Define example data
+  - [Data options and JPA](#data-options-and-jpa)
+  - [Define first model class](#define-first-model-class)
+  - [JPA repository](#jpa-repository)
+  - [Define example data](#define-example-data)
 - [**3. HTTP with Spring**](#3-http-with-spring) (6 videos)
-  - Finalize base server
-  - POST endpoint
-  - GET endpoint
-  - GET ID endpoint
-  - PUT endpoint
-  - DELETE endpoint
+  - [Finalize base server](#finalize-base-server)
+  - [POST endpoint](#post-endpoint)
+  - [GET endpoint](#get-endpoint)
+  - [GET ID endpoint](#get-id-endpoint)
+  - [PUT endpoint](#put-endpoint)
+  - [DELETE endpoint](#delete-endpoint)
 - [**4. Basic Frontend with React**](#4-basic-frontend-with-react) (7 videos)
-  - Create contact listing component
-  - Add materialize to the project
-  - Finalize list of contacts component
-  - Create and structure your components
-  - Connect the add contact form to server
-  - Add server controller for CORS
-  - Finalize server controller for CORS
+  - [Create contact listing component](#create-contact-listing-component)
+  - [Add materialize to the project](#add-materialize-to-the-project)
+  - [Finalize list of contacts component](#finalize-list-of-contacts-component)
+  - [Create and structure your components](#create-and-structure-your-components)
+  - [Connect the add contact form to server](#connect-the-add-contact-form-to-server)
+  - [Add server controller for CORS](#add-server-controller-for-cors)
+  - [Finalize server controller for CORS](#finalize-server-controller-for-cors)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Context and state
-  - Next steps
+  - [Context and state](#context-and-state)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your own mighty full-stack app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), front-end (4), [[Java]] (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rest (1), api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -140,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), application (1), [[Java]] (1), [[Windows]] (1)
 > **Env Vars:** es6 (1), mpm (1)
 > **Definitions:** is a  (2)
 > **Tools:** terminal (1)
@@ -148,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Initial Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980)
@@ -173,11 +174,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), [[Java]] (1), [[Spring Boot]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Env Vars:** sql (2), rest (1), api (1), idea (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** mongo (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** intellij (1)
 > **Speakers:** - [emmanuel] (1)
 
@@ -212,7 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[React.js|React]] (12), front-end (6), application (2), web (1), [[React Native]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -243,6 +244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), data (2), [[React.js|React]] (2), [[Programming]] (1), [[HTML]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
@@ -293,11 +295,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (7), [[JavaScript]] (1), [[React.js|React]] (1), [[Spring Boot]] (1), [[Windows]] (1)
 > **Prerequisites:** install (8), you need to have (1), set up (1)
 > **Tools:** visual studio (4), terminal (2), intellij (1)
 > **CLI Commands:** mvn (2), brew (2), apache (1)
 > **Env Vars:** idea (3), jdk (1), mvn (1)
-> **Code Keywords:** let (1), continue (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
 > **File Paths:** brew.sh (1)
@@ -367,7 +369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), case, (1), delete (1)
+> **Frameworks & Libraries:** api (7), application (3), data (2), [[Java]] (2), [[Linux]] (1)
 > **Env Vars:** api (7), java (2), http (1)
 > **Tools:** postman (7), terminal (1)
 > **UI Navigation:** click on (3), go to (1), drag and drop (1)
@@ -423,9 +425,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[SQL]] (2), database (2), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (6), go to (2), right-click (1), double-click (1), open the (1)
 > **Env Vars:** zip (3), sql (2), ide (2), jpa (1)
-> **Code Keywords:** let (4), finally, (1), this, (1)
 > **Exercise Files:** zip file (3)
 > **Prerequisites:** install (2), setup (1)
 > **Tools:** visual studio (1), vs code (1)
@@ -477,9 +479,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[npm]] (4), [[Node.js]] (3), next (2), hit (1)
 > **CLI Commands:** npm (4), node (3), npx (2)
 > **File Paths:** node.js (3)
-> **Code Keywords:** let (3)
 > **Env Vars:** crm (2), lts (1)
 > **Tools:** terminal (2), visual studio (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -489,7 +491,7 @@ created: 2026-04-29
 
 ### 2. Spring Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data options and JPA
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980)
@@ -520,9 +522,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[SQL]] (3), [[MongoDB]] (3), data (2), [[NoSQL]] (1)
 > **Env Vars:** jpa (4), sql (3), api (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case, (1), let (1)
 > **URLs:** [spring.io](https://spring.io) (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** for example (2)
@@ -602,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (3), class, (2), class. (2), function (2)
+> **Frameworks & Libraries:** data (2), [[Java]] (1), database (1), next (1)
 > **Code Identifiers:** firstname (5), lastname (4)
 > **Env Vars:** crm (2)
 > **File Paths:** contact.java (1)
@@ -650,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), public (1), interface (1), extends (1)
+> **Frameworks & Libraries:** data (2), [[Java]] (1), database (1), next (1)
 > **Cross-References:** go back to (1), in the last (1)
 > **File Paths:** contactrepository.java (1)
 > **CLI Commands:** make (1)
@@ -734,7 +736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (2), class. (1), public (1), private (1)
+> **Frameworks & Libraries:** data (3), database (2), [[Java]] (1), generic (1), application (1)
 > **CLI Commands:** make (2)
 > **File Paths:** demoloader.java (1)
 > **Tools:** command line (1)
@@ -744,7 +746,7 @@ created: 2026-04-29
 
 ### 3. HTTP with Spring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finalize base server
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980)
@@ -831,7 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), class. (2), public (1)
+> **Frameworks & Libraries:** api (7), application (6), [[Representational State Transfer (REST)|Rest]] (4), [[React.js|React]] (4), data (2)
 > **Env Vars:** api (7), url (2), rest (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -933,7 +935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), public (3), private (2), this. (1)
+> **Frameworks & Libraries:** api (5), data (3), application (2), [[JSON]] (2), [[React.js|React]] (1)
 > **Tools:** postman (5), visual studio (2), intellij (1)
 > **Env Vars:** api (5), idea (1), url (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -973,9 +975,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[React.js|React]] (1), application (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** url (1)
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
@@ -1015,8 +1017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2), api (2), database (1), [[JavaScript]] (1)
 > **Env Vars:** api (2), url (1), ajax (1)
-> **Code Keywords:** self (1), let (1)
 > **Tools:** postman (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1052,9 +1054,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), api (1), application (1), [[JSON]] (1)
 > **API Endpoints:** put  (4), get  (2)
 > **Env Vars:** put (4), api (1), url (1)
-> **Code Keywords:** else. (2), self (1)
 > **Analogies:** for example (3)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -1086,7 +1088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), delete (10), self (1), type, (1), continue (1)
+> **Frameworks & Libraries:** data (4), [[React.js|React]] (2), database (1), application (1), [[JSON]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** url (2), json (1)
 > **Analogies:** for example (2)
@@ -1098,7 +1100,7 @@ created: 2026-04-29
 
 ### 4. Basic Frontend with React
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create contact listing component
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980)
@@ -1191,7 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (2), class. (2), from, (1), default. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), application (5), [[npm]] (2), data (2), cd (1)
 > **CLI Commands:** make (5), npm (2), ls (1), cd (1)
 > **File Paths:** app.js (1), contacts.js (1)
 > **Env Vars:** html (1)
@@ -1262,8 +1264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), next (1)
 > **UI Navigation:** click on (4), scroll down (2), open the (2), go to (1)
-> **Code Keywords:** let (4), this. (1), public (1), delete (1), this, (1)
 > **File Paths:** index.html (2), app.js (2)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** classname (3)
@@ -1334,7 +1336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (3), function (1)
+> **Frameworks & Libraries:** data (11), database (4), [[Fetch]] (3), [[JSON]] (3), api (1)
 > **Definitions:** is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1457,7 +1459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (2), case, (1), continue (1), delete (1)
+> **Frameworks & Libraries:** database (3), [[React.js|React]] (2), next (2), functional (1), [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2), in the next (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -1564,7 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (6), this. (2), pass (2), continue (1)
+> **Frameworks & Libraries:** api (3), next (2), [[Fetch]] (2), [[JSON]] (2), node (1)
 > **CLI Commands:** make (8), node (1)
 > **Env Vars:** api (2), url (1)
 > **Tools:** postman (2)
@@ -1636,7 +1638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), pass (3), this, (2), class, (2), case, (1)
+> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (3), api (3), application (2), front-end (2)
 > **Env Vars:** cors (4), api (3), url (1), core (1)
 > **CLI Commands:** make (3), find (3), npm (1)
 > **Ports:** port 3000 (2)
@@ -1786,7 +1788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (4), pass (2), this. (2), continue (1)
+> **Frameworks & Libraries:** data (4), application (3), database (2), [[Java]] (1), [[HTML]] (1)
 > **Code Identifiers:** contactrepository (5), createcontact (1), firstname (1), lastname (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** url (2), html (1), api (1)
@@ -1798,7 +1800,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Context and state
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/context-and-state?u=76281980)
@@ -1867,7 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), pass (2)
+> **Frameworks & Libraries:** [[React.js|React]] (7), data (6), application (5), api (3), management (1)
 > **Env Vars:** api (3)
 > **File Paths:** app.js (2)
 > **Analogies:** for example (1)
@@ -1896,9 +1898,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (2), [[Java]] (1), [[Node.js]] (1), express (1)
 > **CLI Commands:** find (1), node (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [emmanuel] (1)
 
 

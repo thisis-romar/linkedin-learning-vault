@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/team-collaboration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Communication%20within%20Teams%20(2021).md)
@@ -47,25 +47,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How high-performing teams communicate
+  - [How high-performing teams communicate](#how-high-performing-teams-communicate)
 - [**1. Communicating Successfully within Teams**](#1-communicating-successfully-within-teams) (11 videos)
-  - Establish roles
-  - Delegate responsibilities
-  - Collaborate to establish team goals and charter
-  - Define expectations in your team
-  - Build trust in your team
-  - Manage accountability within teams
-  - Provide feedback within teams
-  - Manage conflict within teams
-  - Communicating virtually within teams
-  - Cross-cultural communication within teams
-  - Measure success within teams
+  - [Establish roles](#establish-roles)
+  - [Delegate responsibilities](#delegate-responsibilities)
+  - [Collaborate to establish team goals and charter](#collaborate-to-establish-team-goals-and-charter)
+  - [Define expectations in your team](#define-expectations-in-your-team)
+  - [Build trust in your team](#build-trust-in-your-team)
+  - [Manage accountability within teams](#manage-accountability-within-teams)
+  - [Provide feedback within teams](#provide-feedback-within-teams)
+  - [Manage conflict within teams](#manage-conflict-within-teams)
+  - [Communicating virtually within teams](#communicating-virtually-within-teams)
+  - [Cross-cultural communication within teams](#cross-cultural-communication-within-teams)
+  - [Measure success within teams](#measure-success-within-teams)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The imperative of effective teams
+  - [The imperative of effective teams](#the-imperative-of-effective-teams)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How high-performing teams communicate
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/how-high-performing-teams-communicate?u=76281980)
@@ -104,15 +104,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (7), career (1), leadership (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Communicating Successfully within Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establish roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/establish-roles?u=76281980)
@@ -163,6 +163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), functional (1), teams (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -221,6 +222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (1), management (1), [[Decision-Making]] (1)
 > **Env Vars:** raci (5)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
@@ -282,10 +284,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), teams (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (2), exercise files (1)
 > **Env Vars:** smart (1), smarter (1)
-> **Code Keywords:** include, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
@@ -414,8 +416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), product (1), [[Slack]] (1)
 > **Speakers:** - yeah (3), - i (3), - sounds (3), - oh (2), - reasonable (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **Exercise Files:** exercise files (1)
@@ -509,8 +511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3)
 > **CLI Commands:** make (3)
-> **Code Keywords:** else. (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - trust (1)
 
@@ -629,8 +631,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (3), teams (3), [[Microsoft Office|Office]] (1), product (1), next (1)
 > **Speakers:** - yeah (2), - imagine (1), - all (1), - great (1), - i (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Ports:** :00 (1)
@@ -714,9 +716,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [woman] (3), - actionable (1), - [jeff] (1), - now (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** sbi (2)
 > **Analogies:** think of it as (1)
 
@@ -833,8 +835,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), next (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2), this. (1), continue (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - not (1)
@@ -904,8 +906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Teams]] (3), [[Microsoft Office|Office]] (1), game (1), [[Microsoft Word|Word]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** crm (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -994,10 +996,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), next (3), business (2), [[Microsoft Word|Word]] (1), power (1)
 > **Env Vars:** lescant (2)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - it (1)
 
 #### Measure success within teams
@@ -1095,15 +1097,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), teams (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** aar (2)
 > **Speakers:** - right (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The imperative of effective teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980)
@@ -1142,8 +1144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), [[Slack]] (2), career (1), [[LinkedIn]] (1)
 > **Tools:** slack (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - most (1)
 
 

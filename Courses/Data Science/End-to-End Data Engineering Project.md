@@ -36,7 +36,7 @@ tags:
   - topic/database-management
   - skill/data-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/End-to-End%20Data%20Engineering%20Project.md)
@@ -55,47 +55,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Transform complex data into insights
-  - What you should know
+  - [Transform complex data into insights](#transform-complex-data-into-insights)
+  - [What you should know](#what-you-should-know)
 - [**1. Project Overview and Preparation**](#1-project-overview-and-preparation) (4 videos)
-  - Project architecture overview
-  - Project setup
-  - Understanding the Big Star Collectibles database
-  - Setting up your data warehouse
+  - [Project architecture overview](#project-architecture-overview)
+  - [Project setup](#project-setup)
+  - [Understanding the Big Star Collectibles database](#understanding-the-big-star-collectibles-database)
+  - [Setting up your data warehouse](#setting-up-your-data-warehouse)
 - [**2. Data Extraction and Loading**](#2-data-extraction-and-loading) (5 videos)
-  - Getting started with ELT tools: An introduction to Airbyte
-  - Deploying Airbyte for data synchronization
-  - Setting up sources and destinations in Airbyte
-  - Establishing connections in Airbyte
-  - Synchronizing and navigating through data
+  - [Getting started with ELT tools: An introduction to Airbyte](#getting-started-with-elt-tools-an-introduction-to-airbyte)
+  - [Deploying Airbyte for data synchronization](#deploying-airbyte-for-data-synchronization)
+  - [Setting up sources and destinations in Airbyte](#setting-up-sources-and-destinations-in-airbyte)
+  - [Establishing connections in Airbyte](#establishing-connections-in-airbyte)
+  - [Synchronizing and navigating through data](#synchronizing-and-navigating-through-data)
 - [**3. Starting Data Transformation and Modeling**](#3-starting-data-transformation-and-modeling) (6 videos)
-  - Introduction to data modeling with dbt
-  - Understanding the structure of a dbt project
-  - Initiating your dbt project
-  - Configuring data sources in dbt
-  - Challenge: Add a freshness check
-  - Solution: Add a freshness check
+  - [Introduction to data modeling with dbt](#introduction-to-data-modeling-with-dbt)
+  - [Understanding the structure of a dbt project](#understanding-the-structure-of-a-dbt-project)
+  - [Initiating your dbt project](#initiating-your-dbt-project)
+  - [Configuring data sources in dbt](#configuring-data-sources-in-dbt)
+  - [Challenge: Add a freshness check](#challenge-add-a-freshness-check)
+  - [Solution: Add a freshness check](#solution-add-a-freshness-check)
 - [**4. Data Transformation and Modeling**](#4-data-transformation-and-modeling) (7 videos)
-  - Creating and customizing your dbt models
-  - Reviewing and executing dbt
-  - Securing your data with dbt tests
-  - Challenge: Add tests to the Marts model
-  - Solution: Add tests to the Marts model
-  - Automating documentation in dbt
-  - Completing your dbt project: A full development cycle
+  - [Creating and customizing your dbt models](#creating-and-customizing-your-dbt-models)
+  - [Reviewing and executing dbt](#reviewing-and-executing-dbt)
+  - [Securing your data with dbt tests](#securing-your-data-with-dbt-tests)
+  - [Challenge: Add tests to the Marts model](#challenge-add-tests-to-the-marts-model)
+  - [Solution: Add tests to the Marts model](#solution-add-tests-to-the-marts-model)
+  - [Automating documentation in dbt](#automating-documentation-in-dbt)
+  - [Completing your dbt project: A full development cycle](#completing-your-dbt-project-a-full-development-cycle)
 - [**5. Data Orchestration**](#5-data-orchestration) (6 videos)
-  - Introduction to data orchestration with Dagster
-  - Integrating dbt models with Dagster assets
-  - Integrating Airbyte connections with Dagster assets
-  - Materializing assets using Dagit
-  - Challenge: Add a schedule to your data pipeline
-  - Solution: Add a schedule to your data pipeline
+  - [Introduction to data orchestration with Dagster](#introduction-to-data-orchestration-with-dagster)
+  - [Integrating dbt models with Dagster assets](#integrating-dbt-models-with-dagster-assets)
+  - [Integrating Airbyte connections with Dagster assets](#integrating-airbyte-connections-with-dagster-assets)
+  - [Materializing assets using Dagit](#materializing-assets-using-dagit)
+  - [Challenge: Add a schedule to your data pipeline](#challenge-add-a-schedule-to-your-data-pipeline)
+  - [Solution: Add a schedule to your data pipeline](#solution-add-a-schedule-to-your-data-pipeline)
 - [**Conclusion**](#conclusion) (1 videos)
-  - An evolving field
+  - [An evolving field](#an-evolving-field)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform complex data into insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Data Engineering]] (1), [[Analytics]] (1), [[E-Commerce]] (1), [[Decision-Making]] (1)
 > **Speakers:** - are (1)
 
 #### What you should know
@@ -167,10 +168,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Data Engineering]] (3), [[Python (Programming Language)|Python]] (2), [[SQL]] (1), [[Git]] (1)
 > **CLI Commands:** docker (3), make (2), python (2), git (1), find (1)
 > **Tools:** command line (1), docker desktop (1), visual studio (1), github (1)
 > **Exercise Files:** exercise file (1), github repo (1), exercise files (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** sql (1), ide (1)
 > **Versions:** python 3 (1)
 > **Definitions:** is a  (1)
@@ -179,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Project Overview and Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project architecture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980)
@@ -230,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), interface (1)
+> **Frameworks & Libraries:** data (13), database (3), [[PostgreSQL|Postgres]] (2), [[E-Commerce]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - welcome (1)
@@ -288,7 +289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[GitHub]] (2), next (2), [[Git]] (1), dbt (1)
 > **Tools:** visual studio (3), github (2), terminal (2)
 > **CLI Commands:** python (5), git (1)
 > **UI Navigation:** go to (2), click on (2), open the (2)
@@ -398,8 +399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), data (7), [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** docker (6), make (3), psql (1)
-> **Code Keywords:** let (5), delete (1), finally, (1)
 > **Tools:** terminal (3), docker desktop (1)
 > **Prerequisites:** set up (3), configure (1)
 > **Code Identifiers:** pgadmin (1), airbyte_slot (1), airbyte_publication (1)
@@ -524,7 +525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (2), continue (2), super (1), type, (1)
+> **Frameworks & Libraries:** data (16), [[Google]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), dbt (3), [[JSON]] (3)
 > **UI Navigation:** click on (12), go to (2), navigate to (1)
 > **Env Vars:** dbt (3), json (3), sql (1)
 > **Definitions:** is a  (5), is an  (1)
@@ -536,7 +537,7 @@ created: 2026-04-29
 
 ### 2. Data Extraction and Loading
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with ELT tools: An introduction to Airbyte
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980)
@@ -587,8 +588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), database (2), [[PostgreSQL|Postgres]] (2), open-source (2), cloud (2)
 > **Env Vars:** elt (5), crm (1)
-> **Code Keywords:** let (2), case, (1)
 > **CLI Commands:** mysql (1), docker (1)
 > **Definitions:** stands for (1)
 > **Analogies:** imagine (1)
@@ -636,7 +637,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), while, (1)
 > **UI Navigation:** go to (2), navigate to (1), open the (1)
 > **CLI Commands:** docker (1), find (1)
 > **Prerequisites:** set up (2)
@@ -722,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (8), database (4), next (3), [[JSON]] (3), data (2)
 > **UI Navigation:** click on (2), go to (2), navigate to (1)
 > **Prerequisites:** set up (4)
 > **Code Identifiers:** airbyte_slot (1), airbyte_publication (1), raw_data (1)
@@ -806,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default. (1), override (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (11), database (3), [[PostgreSQL|Postgres]] (2), [[Fetch]] (1), application (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** refers to (1), in other words (1), means that (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -877,9 +877,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Metadata]] (3), [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** airbyte_ab_id (2), raw_data (1), airbyte_raw (1), airbyte_emitted_at (1), airbyte_normalized_at (1)
 > **Env Vars:** json (3), scd (2)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (1), stands for (1), in other words (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
@@ -889,7 +889,7 @@ created: 2026-04-29
 
 ### 3. Starting Data Transformation and Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data modeling with dbt
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980)
@@ -972,8 +972,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), dbt (20), [[SQL]] (7), [[CLI]] (3), [[Analytics]] (2)
 > **Env Vars:** sql (7), cli (3), ddl (2), dml (2)
-> **Code Keywords:** let (2), interface (2), abstract (1)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** git (2), python (1)
 > **Analogies:** for instance (1), such as (1)
@@ -1041,6 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (7), data (6), [[Microsoft Products|Products]] (2), business (2), [[Data Transformation]] (1)
 > **Env Vars:** dag (2)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -1110,7 +1111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2)
+> **Frameworks & Libraries:** dbt (14), data (9), [[Version Control]] (1), [[JSON]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Prerequisites:** set up (5), install (1)
 > **File Paths:** profiles.yml (2)
 > **Tools:** visual studio (1), terminal (1)
@@ -1176,7 +1177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (9), dbt (8), database (1)
 > **Code Identifiers:** raw_data (2), src_big_star_db (1)
 > **Env Vars:** yaml (2)
 > **File Paths:** src_big_star_db.yml (1)
@@ -1204,6 +1205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), dbt (2), [[PostgreSQL|Postgres]] (1), database (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** warning (2)
 > **Code Identifiers:** raw_data (1)
@@ -1239,8 +1241,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), dbt (2), feature (1)
 > **File Paths:** src_big_star_db.yml (1)
-> **Code Keywords:** this. (1)
 > **Code Identifiers:** src_big_star_db (1)
 > **Analogies:** similar to (1)
 > **Warnings:** warning (1)
@@ -1250,7 +1252,7 @@ created: 2026-04-29
 
 ### 4. Data Transformation and Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and customizing your dbt models
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/creating-and-customizing-your-dbt-models?u=76281980)
@@ -1295,8 +1297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), dbt (1), next (1)
 > **File Paths:** stg_customers.sql (1), stg_orders.sql (1), dim_customers.sql (1), dbt_project.yaml (1)
-> **Code Keywords:** let (4)
 > **Code Identifiers:** stg_customers (1), stg_orders (1), dim_customers (1), dbt_project (1)
 > **Env Vars:** sql (2)
 > **Prerequisites:** configure (2)
@@ -1369,8 +1371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), next (2), [[SQL]] (1), [[Privacy]] (1), [[Data Transformation]] (1)
 > **Env Vars:** dvt (7), sql (1)
-> **Code Keywords:** let (4), function (2), case, (1)
 > **Code Identifiers:** dim_customers (2), src_big_star_db (1), first_order_date (1), most_recent_order_date (1), number_of_orders (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), imagine (1)
@@ -1469,7 +1471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), finally, (2), super (1)
+> **Frameworks & Libraries:** data (9), dbt (9), generic (2), [[SQL]] (1), [[Engineering]] (1)
 > **UI Navigation:** go to (2), select the (1), click on (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (1), yaml (1)
@@ -1505,8 +1507,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (1), next (1)
 > **Code Identifiers:** stg_orders (2), not_null (2), dim_customers (2), customer_id (2), stg_customers (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dbt (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -1541,8 +1543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1622,8 +1624,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (6), [[SQL]] (2), [[Analytics]] (1), [[Representational State Transfer (REST)|Rest]] (1), web (1)
 > **Env Vars:** dbt (6), sql (2), yaml (2)
-> **Code Keywords:** let (6), self (1)
 > **Analogies:** imagine (2), for example (1), picture (1)
 > **Documentation:** the documentation (3)
 > **Definitions:** is a  (2), means that (1)
@@ -1668,7 +1670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** dbt (8), [[GitHub]] (2), next (1), power (1), data (1)
 > **Tools:** github (2), visual studio (1), terminal (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** github repo (1)
@@ -1679,7 +1681,7 @@ created: 2026-04-29
 
 ### 5. Data Orchestration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data orchestration with Dagster
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980)
@@ -1730,6 +1732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Orchestration]] (3), dbt (2), [[Troubleshooting]] (1), open-source (1)
 > **Env Vars:** dbt (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** python (1)
@@ -1810,7 +1813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** dbt (19), data (6), [[Orchestration]] (3), strengths (1), [[CLI]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** similar to (1), just like (1)
@@ -1892,7 +1895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1)
+> **Frameworks & Libraries:** data (7), next (2), [[Metadata]] (1), web (1), dbt (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** load_assets_from_airbyte_instance (1), key_prefix (1)
@@ -1946,7 +1949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (6), [[PostgreSQL|Postgres]] (2), database (2), [[SQL]] (1), [[Statistics]] (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** for example (2)
 > **Env Vars:** sql (1)
@@ -1967,7 +1970,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2003,7 +2006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** define_asset_job (1), cron_scheduler (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
@@ -2012,7 +2015,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An evolving field
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980)
@@ -2059,7 +2062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** data (5), [[Data Engineering]] (4), next (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)

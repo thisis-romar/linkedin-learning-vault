@@ -33,7 +33,7 @@ tags:
   - skill/laravel
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Essential%20Jigsaw%20for%20PHP%20and%20Laravel%20Developers.md)
@@ -52,33 +52,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to Jigsaw
+  - [Introduction to Jigsaw](#introduction-to-jigsaw)
 - [**1. Getting Started with Jigsaw**](#1-getting-started-with-jigsaw) (5 videos)
-  - What is Jigsaw?
-  - What is a static site generator (SSG)?
-  - Installing Jigsaw
-  - Challenge: Creating a new Jigsaw website
-  - Solution: Creating a new Jigsaw website
+  - [What is Jigsaw?](#what-is-jigsaw)
+  - [What is a static site generator (SSG)?](#what-is-a-static-site-generator-ssg)
+  - [Installing Jigsaw](#installing-jigsaw)
+  - [Challenge: Creating a new Jigsaw website](#challenge-creating-a-new-jigsaw-website)
+  - [Solution: Creating a new Jigsaw website](#solution-creating-a-new-jigsaw-website)
 - [**2. Jigsaw Internals**](#2-jigsaw-internals) (7 videos)
-  - File structure
-  - Source directory
-  - Adding content to a Jigsaw website
-  - Collections in Jigsaw
-  - Event listeners in Jigsaw
-  - Challenge: Adding content and customizing Jigsaw
-  - Solution: Adding content and customizing Jigsaw
+  - [File structure](#file-structure)
+  - [Source directory](#source-directory)
+  - [Adding content to a Jigsaw website](#adding-content-to-a-jigsaw-website)
+  - [Collections in Jigsaw](#collections-in-jigsaw)
+  - [Event listeners in Jigsaw](#event-listeners-in-jigsaw)
+  - [Challenge: Adding content and customizing Jigsaw](#challenge-adding-content-and-customizing-jigsaw)
+  - [Solution: Adding content and customizing Jigsaw](#solution-adding-content-and-customizing-jigsaw)
 - [**3. Deploying Jigsaw on Netlify**](#3-deploying-jigsaw-on-netlify) (5 videos)
-  - Netlify introduction
-  - Uploading Jigsaw website to GitHub
-  - Deploying Jigsaw website to Netlify
-  - Challenge: Deploying a Jigsaw project to Netlify
-  - Solution: Deploying a Jigsaw project to Netlify
+  - [Netlify introduction](#netlify-introduction)
+  - [Uploading Jigsaw website to GitHub](#uploading-jigsaw-website-to-github)
+  - [Deploying Jigsaw website to Netlify](#deploying-jigsaw-website-to-netlify)
+  - [Challenge: Deploying a Jigsaw project to Netlify](#challenge-deploying-a-jigsaw-project-to-netlify)
+  - [Solution: Deploying a Jigsaw project to Netlify](#solution-deploying-a-jigsaw-project-to-netlify)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go from here
+  - [Where to go from here](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Jigsaw
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), let (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (4), [[Laravel]] (4), [[PHP]] (2), [[HTML]] (1), data (1)
 > **Env Vars:** php (2), html (1)
 > **CLI Commands:** php (2)
 > **Definitions:** is a  (1), known as (1)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Jigsaw
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Jigsaw?
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980)
@@ -159,9 +159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jigsaw]] (8), [[Laravel]] (4), [[PHP]] (3), [[GitHub]] (2), [[WordPress]] (1)
 > **CLI Commands:** php (3), find (2), make (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** static (2), let (1)
 > **Env Vars:** php (3)
 > **Exercise Files:** template (2), source code (1)
 > **Tools:** github (2)
@@ -241,7 +241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (7), let (2), require (1), finally, (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (4), [[Jigsaw]] (3), data (2), [[Laravel]] (2)
 > **Env Vars:** php (4), html (2), ssg (1), cms (1), ada (1)
 > **CLI Commands:** php (4), ruby (1)
 > **Definitions:** is a  (2)
@@ -339,8 +339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jigsaw]] (14), [[npm]] (5), [[Laravel]] (3), next (2), [[PHP]] (1)
 > **CLI Commands:** npm (5), composer (3), make (3), php (1), node (1)
-> **Code Keywords:** let (5), module (1), require (1), case, (1), this. (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** npm (4), php (1), css (1), api (1)
 > **Prerequisites:** install (4), you need to have (1), make sure you have (1), initialization (1)
@@ -373,6 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jigsaw]] (4), next (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 > **URLs:** [packagist.org](https://packagist.org) (1)
@@ -380,7 +381,6 @@ created: 2026-04-29
 > **Documentation:** the docs (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
-> **Prerequisites:** install (1)
 
 #### Solution: Creating a new Jigsaw website
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-creating-a-new-jigsaw-website?u=76281980)
@@ -433,7 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (5), cd (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** mkdir (1), cd (1), composer (1)
 > **URLs:** [localhost:8000](https://localhost:8000) (1)
@@ -445,7 +445,7 @@ created: 2026-04-29
 
 ### 2. Jigsaw Internals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980)
@@ -580,8 +580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jigsaw]] (14), [[npm]] (10), [[PHP]] (7), next (2), node (1)
 > **CLI Commands:** npm (10), php (7), make (1), node (1), composer (1)
-> **Code Keywords:** let (10), continue (1), override (1), default, (1), finally, (1)
 > **Env Vars:** npm (10), php (3), css (1)
 > **File Paths:** config.staging.php (2), master.blade.php (1), config.production.php (1), config.php (1), tailwind.config.js (1)
 > **Analogies:** for example (5)
@@ -702,8 +702,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jigsaw]] (7), css (6), [[Laravel]] (3), [[JSON]] (3), [[PHP]] (3)
 > **File Paths:** blade.js (1), blade.json (1), getting-started.md (1), main.css (1), build/css/main.css (1)
-> **Code Keywords:** let (3), delete (2), pass (1), extends (1), yield (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** css (3), html (1), json (1), rss (1)
 > **CLI Commands:** php (3), npm (2)
@@ -784,7 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1), delete (1), else, (1), case, (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (3), [[Microsoft Word|Word]] (1), [[Laravel]] (1), [[PHP]] (1), [[npm]] (1)
 > **CLI Commands:** find (3), php (1), npm (1)
 > **File Paths:** hello-world.md (1), gettingstarted.md (1), 404.blade.php (1)
 > **UI Navigation:** open the (2), go to (1)
@@ -902,7 +902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), default, (2), function (2)
+> **Frameworks & Libraries:** [[Jigsaw]] (3), [[PHP]] (2), api (2), [[Microsoft Word|Word]] (1), [[Fetch]] (1)
 > **Env Vars:** php (2), api (2)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** for example (2), such as (1)
@@ -946,6 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[Jigsaw]] (2), feature (1), [[HTML]] (1)
 > **Code Identifiers:** afterbuild (3), aftercollection (2), beforebuild (1)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2)
@@ -987,6 +988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Jigsaw]] (2), css (2)
 > **Env Vars:** css (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1114,9 +1116,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jigsaw]] (5), [[PHP]] (4), [[npm]] (3)
 > **CLI Commands:** php (4), npm (3), make (1), find (1)
 > **File Paths:** navigation.php (3), webpack.mix.js (1), index.by.php (1)
-> **Code Keywords:** let (4), extends (1)
 > **Documentation:** the docs (4)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** for example (2)
@@ -1126,7 +1128,7 @@ created: 2026-04-29
 
 ### 3. Deploying Jigsaw on Netlify
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Netlify introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980)
@@ -1183,8 +1185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Jigsaw]] (2), cloud (1), [[Bitbucket]] (1), next (1)
 > **Tools:** github (7), gitlab (1), bitbucket (1)
-> **Code Keywords:** static (3), let (1), for, (1), continue (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
@@ -1263,8 +1265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (16), [[GitHub]] (3), next (2), [[LinkedIn]] (1), [[Jigsaw]] (1)
 > **CLI Commands:** git (16), make (2)
-> **Code Keywords:** let (5), case, (1), public (1), private (1), case. (1)
 > **Tools:** terminal (4), github (3)
 > **Env Vars:** readme (1), readmea (1)
 > **UI Navigation:** go to (2)
@@ -1357,9 +1359,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (2), next (2), [[npm]] (2), [[PHP]] (2)
 > **CLI Commands:** make (3), git (2), npm (2), php (2), find (1)
 > **UI Navigation:** click on (7), select the (1), go to (1)
-> **Code Keywords:** let (3), interface (1), case, (1)
 > **Env Vars:** php (2), url (1), dns (1)
 > **Tools:** github (4)
 > **Prerequisites:** set up (3), configure (1)
@@ -1397,6 +1399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Jigsaw]] (2), [[Git]] (1), next (1)
 > **Tools:** github (3)
 > **Cross-References:** go back to (1), in the next (1)
 > **File Paths:** netlify.toml (1)
@@ -1472,9 +1475,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (8), [[GitHub]] (2), next (1), [[Jigsaw]] (1), [[Search]] (1)
 > **CLI Commands:** git (8), make (3)
 > **Tools:** terminal (4), github (2)
-> **Code Keywords:** let (3), private (1)
 > **UI Navigation:** go to (2), open the (1), click on (1)
 > **File Paths:** netlify.toml (2)
 > **Speakers:** - [instructor] (1)
@@ -1483,7 +1486,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)
@@ -1510,6 +1513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jigsaw]] (5), cms (1), [[Laravel]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cms (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)

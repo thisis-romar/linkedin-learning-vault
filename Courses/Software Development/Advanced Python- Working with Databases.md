@@ -35,7 +35,7 @@ tags:
   - skill/databases
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Working%20with%20Databases.md)
@@ -54,56 +54,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Using databases to level up your Python applications
+  - [Using databases to level up your Python applications](#using-databases-to-level-up-your-python-applications)
 - [**1. Introduction to Databases in Python**](#1-introduction-to-databases-in-python) (4 videos)
-  - What is a database?
-  - Relational databases
-  - Non-relational databases
-  - Python Database API
+  - [What is a database?](#what-is-a-database)
+  - [Relational databases](#relational-databases)
+  - [Non-relational databases](#non-relational-databases)
+  - [Python Database API](#python-database-api)
 - [**2. Using SQLite in Python**](#2-using-sqlite-in-python) (11 videos)
-  - What is SQLite?
-  - Creating an SQLite database
-  - Inserting your first record into an SQLite database
-  - Adding multiple records at a time to an SQLite database
-  - Filtering records in an SQLite database
-  - What is SQLAlchemy?
-  - Setting up a virtual environment for SQLAlchemy
-  - Executing a SQL query with SQLAlchemy
-  - Using the SQL expression language to write maintainable code
-  - Challenge: Create an SQLite database
-  - Solution: Create an SQLite database
+  - [What is SQLite?](#what-is-sqlite)
+  - [Creating an SQLite database](#creating-an-sqlite-database)
+  - [Inserting your first record into an SQLite database](#inserting-your-first-record-into-an-sqlite-database)
+  - [Adding multiple records at a time to an SQLite database](#adding-multiple-records-at-a-time-to-an-sqlite-database)
+  - [Filtering records in an SQLite database](#filtering-records-in-an-sqlite-database)
+  - [What is SQLAlchemy?](#what-is-sqlalchemy)
+  - [Setting up a virtual environment for SQLAlchemy](#setting-up-a-virtual-environment-for-sqlalchemy)
+  - [Executing a SQL query with SQLAlchemy](#executing-a-sql-query-with-sqlalchemy)
+  - [Using the SQL expression language to write maintainable code](#using-the-sql-expression-language-to-write-maintainable-code)
+  - [Challenge: Create an SQLite database](#challenge-create-an-sqlite-database)
+  - [Solution: Create an SQLite database](#solution-create-an-sqlite-database)
 - [**3. Using MySQL in Python**](#3-using-mysql-in-python) (13 videos)
-  - What is MySQL?
-  - Creating a MySQL database
-  - Building tables in a MySQL database
-  - Adding data to a MySQL database
-  - Connecting a Python application to a MySQL database
-  - Encapsulating database operations
-  - Setting up MySQL in Python using SQLAlchemy
-  - Building a model with SQLAlchemy ORM
-  - Adding up a foreign key with SQLAlchemy ORM
-  - Using SQLAlchemy Sessions to transact on a MySQL database
-  - Retrieving data using SQLAlchemy ORM
-  - Challenge: Create a MySQL database
-  - Solution: Create a MySQL database
+  - [What is MySQL?](#what-is-mysql)
+  - [Creating a MySQL database](#creating-a-mysql-database)
+  - [Building tables in a MySQL database](#building-tables-in-a-mysql-database)
+  - [Adding data to a MySQL database](#adding-data-to-a-mysql-database)
+  - [Connecting a Python application to a MySQL database](#connecting-a-python-application-to-a-mysql-database)
+  - [Encapsulating database operations](#encapsulating-database-operations)
+  - [Setting up MySQL in Python using SQLAlchemy](#setting-up-mysql-in-python-using-sqlalchemy)
+  - [Building a model with SQLAlchemy ORM](#building-a-model-with-sqlalchemy-orm)
+  - [Adding up a foreign key with SQLAlchemy ORM](#adding-up-a-foreign-key-with-sqlalchemy-orm)
+  - [Using SQLAlchemy Sessions to transact on a MySQL database](#using-sqlalchemy-sessions-to-transact-on-a-mysql-database)
+  - [Retrieving data using SQLAlchemy ORM](#retrieving-data-using-sqlalchemy-orm)
+  - [Challenge: Create a MySQL database](#challenge-create-a-mysql-database)
+  - [Solution: Create a MySQL database](#solution-create-a-mysql-database)
 - [**4. Using PostgreSQL in Python**](#4-using-postgresql-in-python) (11 videos)
-  - What is PostgreSQL?
-  - Creating a PostgreSQL database
-  - Creating a table in Postgres using Python
-  - Inserting data into a Postgres database
-  - Interacting with a Postgres database using Python
-  - Setting up SQLAlchemy Core to connect to a Postgres database
-  - Manipulating with Postgres data using SQLAlchemy Core
-  - Setting up SQLAlchemy ORM to connect to a Postgres database
-  - Manipulating with Postgres data using SQLAlchemy ORM
-  - Challenge: Create a Postgres database
-  - Solution: Create a Postgres database
+  - [What is PostgreSQL?](#what-is-postgresql)
+  - [Creating a PostgreSQL database](#creating-a-postgresql-database)
+  - [Creating a table in Postgres using Python](#creating-a-table-in-postgres-using-python)
+  - [Inserting data into a Postgres database](#inserting-data-into-a-postgres-database)
+  - [Interacting with a Postgres database using Python](#interacting-with-a-postgres-database-using-python)
+  - [Setting up SQLAlchemy Core to connect to a Postgres database](#setting-up-sqlalchemy-core-to-connect-to-a-postgres-database)
+  - [Manipulating with Postgres data using SQLAlchemy Core](#manipulating-with-postgres-data-using-sqlalchemy-core)
+  - [Setting up SQLAlchemy ORM to connect to a Postgres database](#setting-up-sqlalchemy-orm-to-connect-to-a-postgres-database)
+  - [Manipulating with Postgres data using SQLAlchemy ORM](#manipulating-with-postgres-data-using-sqlalchemy-orm)
+  - [Challenge: Create a Postgres database](#challenge-create-a-postgres-database)
+  - [Solution: Create a Postgres database](#solution-create-a-postgres-database)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue using databases in Python applications
+  - [Continue using databases in Python applications](#continue-using-databases-in-python-applications)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using databases to level up your Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980)
@@ -126,8 +126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Databases]] (5), data (3), application (1), [[MySQL]] (1)
 > **CLI Commands:** python (6), mysql (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** api (1)
 > **Versions:** python 3 (1)
 > **Speakers:** - [instructor] (1)
@@ -135,7 +135,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Databases in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980)
@@ -184,7 +184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), require (1)
+> **Frameworks & Libraries:** data (17), database (12), [[Databases]] (2), [[Relational Databases]] (1)
 > **Env Vars:** gpa (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -285,9 +285,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (19), data (16), [[SQL]] (6), management (3), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** sql (6), gpa (4), select (3), rdbms (1)
 > **CLI Commands:** python (3), mysql (1)
-> **Code Keywords:** let (1), case, (1), this. (1), continue (1)
 > **Definitions:** is a  (3), stands for (1)
 > **SQL:** select (3)
 > **Analogies:** for example (1), picture (1)
@@ -365,6 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (16), data (11), [[Relational Databases]] (5), [[Databases]] (4), [[Python (Programming Language)|Python]] (4)
 > **Definitions:** is a  (4), refers to (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** json (2), xml (1), sql (1)
@@ -418,8 +419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), [[Python (Programming Language)|Python]] (11), data (6), [[Databases]] (5), api (5)
 > **CLI Commands:** python (11)
-> **Code Keywords:** module (5), interface (1), let (1), this, (1), function (1)
 > **Env Vars:** api (5)
 > **Documentation:** specification (5)
 > **Definitions:** is called (1), is a  (1)
@@ -429,7 +430,7 @@ created: 2026-04-29
 
 ### 2. Using SQLite in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SQLite?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980)
@@ -474,8 +475,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), application (3), management (2), [[Python (Programming Language)|Python]] (2), api (1)
 > **Env Vars:** acid (4), api (1), rdbms (1)
-> **Code Keywords:** require (2), module (1), interface (1), self (1)
 > **CLI Commands:** python (2), sqlite3 (1)
 > **Definitions:** is called (1), is a  (1), stands for (1)
 > **Prerequisites:** setup (1), install (1)
@@ -572,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), module (2), case, (2), type, (2)
+> **Frameworks & Libraries:** database (14), [[Python (Programming Language)|Python]] (6), data (4), [[Databases]] (2), next (2)
 > **CLI Commands:** python (6), sqlite3 (2), python3 (1), ls (1)
 > **Env Vars:** sql (2), int (2), api (1), create (1), table (1)
 > **File Paths:** app.py (3)
@@ -636,7 +637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2)
+> **Frameworks & Libraries:** database (6), data (4), [[Python (Programming Language)|Python]] (3), [[Fetch]] (3), [[SQL]] (1)
 > **CLI Commands:** python (3), python3 (1)
 > **File Paths:** app.py (1)
 > **Env Vars:** sql (1)
@@ -710,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** database (6), data (5), [[Fetch]] (2)
 > **File Paths:** app.py (2)
 > **CLI Commands:** python3 (1)
 > **Definitions:** means that (1)
@@ -779,7 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), case, (1), delete (1), this, (1)
+> **Frameworks & Libraries:** [[SQL]] (9), data (2), [[Python (Programming Language)|Python]] (2), [[Fetch]] (1), database (1)
 > **Env Vars:** sql (9)
 > **CLI Commands:** python (2), make (1)
 > **File Paths:** app.py (2)
@@ -857,10 +858,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (12), database (8), [[Python (Programming Language)|Python]] (6), [[Databases]] (3), data (3)
 > **Env Vars:** orm (13), sql (12)
 > **CLI Commands:** python (6), mysql (1), make (1)
 > **Versions:** 2.0 (3)
-> **Code Keywords:** abstract (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -963,9 +964,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (19), [[Python (Programming Language)|Python]] (7), data (5), [[SQL]] (3), api (2)
 > **Env Vars:** sql (3), api (2), select (2), orm (1)
 > **CLI Commands:** python (7)
-> **Code Keywords:** let (4), function (2)
 > **File Paths:** database.py (2)
 > **SQL:** select (2)
 > **Code Identifiers:** create_engine (1)
@@ -1041,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), case, (1), module (1)
+> **Frameworks & Libraries:** [[Metadata]] (6), database (4), [[SQL]] (3), [[Python (Programming Language)|Python]] (1), application (1)
 > **CLI Commands:** make (1), python (1), python3 (1)
 > **Env Vars:** sql (3)
 > **File Paths:** database.py (1), sqlalchemy.txt (1)
@@ -1073,8 +1074,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), data (2), [[SQL]] (1), next (1)
 > **CLI Commands:** sqlite3 (1)
-> **Code Keywords:** module (1)
 > **URLs:** [gmail.com](https://gmail.com) (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -1239,7 +1240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), module (1), new. (1), function (1), pass (1)
+> **Frameworks & Libraries:** database (18), data (11), [[SQL]] (9), [[Python (Programming Language)|Python]] (4), next (2)
 > **Env Vars:** sql (9), api (1)
 > **CLI Commands:** python (4), make (1), cd (1)
 > **File Paths:** database.py (4)
@@ -1251,7 +1252,7 @@ created: 2026-04-29
 
 ### 3. Using MySQL in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is MySQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980)
@@ -1324,10 +1325,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), [[MySQL]] (16), [[Python (Programming Language)|Python]] (11), [[SQL]] (6), [[Databases]] (4)
 > **CLI Commands:** mysql (16), python (11), make (1)
 > **Env Vars:** sql (6), orm (2), rdbms (1), gui (1)
 > **Analogies:** similar to (4), such as (2)
-> **Code Keywords:** module (3)
 > **Prerequisites:** install (2), configure (1)
 > **Definitions:** is a  (2)
 > **Tools:** command line (1)
@@ -1412,8 +1413,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (7), database (6), [[Windows]] (2), [[SQL]] (2), cd (1)
 > **CLI Commands:** mysql (7), sudo (2), cd (1)
-> **Code Keywords:** let (4), case, (1)
 > **Tools:** terminal (3), command line (1), zsh (1)
 > **Env Vars:** shell (1), create (1), database (1)
 > **Prerequisites:** install (1), configure (1)
@@ -1481,9 +1482,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (2), [[MySQL]] (1)
 > **Env Vars:** varchar (3), create (2), table (2)
 > **SQL:** varchar (3), create table (2)
-> **Code Keywords:** let (3), delete (1)
 > **CLI Commands:** mysql (1)
 > **Code Identifiers:** project_id (1)
 > **Tools:** terminal (1)
@@ -1564,7 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3), this, (1), this. (1)
+> **Frameworks & Libraries:** database (4), [[MySQL]] (3), [[Python (Programming Language)|Python]] (2), data (2), [[SQL]] (1)
 > **CLI Commands:** mysql (3), python (2), make (1)
 > **Analogies:** such as (1), similar to (1)
 > **Code Identifiers:** iphone (1)
@@ -1671,8 +1672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (14), [[MySQL]] (13), [[Python (Programming Language)|Python]] (4), [[SQL]] (3), application (2)
 > **CLI Commands:** mysql (13), python (4), pip3 (2), pip (1), cd (1)
-> **Code Keywords:** let (6), function (4), module (2), import, (1), import. (1)
 > **Env Vars:** sql (3), rdbms (1)
 > **Prerequisites:** install (2)
 > **File Paths:** database.py (1)
@@ -1769,7 +1770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), pass (2), continue (1), abstract (1)
+> **Frameworks & Libraries:** database (15), data (8), application (7), [[MySQL]] (2), [[SQL]] (2)
 > **CLI Commands:** mysql (2), python (1), find (1)
 > **Env Vars:** sql (2), orm (1)
 > **File Paths:** database.py (2)
@@ -1849,8 +1850,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[MySQL]] (5), [[Python (Programming Language)|Python]] (2), application (1), next (1)
 > **CLI Commands:** mysql (5), python (2), python3 (1)
-> **Code Keywords:** let (5), type. (1)
 > **File Paths:** database.py (2)
 > **Ports:** port 3306 (1)
 > **Env Vars:** orm (1)
@@ -1917,9 +1918,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Metadata]] (3), [[MySQL]] (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **Env Vars:** orm (7)
 > **CLI Commands:** mysql (2), python (1), make (1)
-> **Code Keywords:** function (2), let (1), module (1)
 > **Code Identifiers:** mapper_registry (1)
 > **Exercise Files:** sample code (1)
 > **Definitions:** known as (1)
@@ -1981,7 +1982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1)
+> **Frameworks & Libraries:** database (4), [[MySQL]] (2), application (2), next (1), [[Databases]] (1)
 > **Code Identifiers:** project_id (2), task_id (1), create_all (1)
 > **CLI Commands:** mysql (2), python (1)
 > **File Paths:** database.py (1)
@@ -2066,7 +2067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (3), continue (1), module (1), this, (1)
+> **Frameworks & Libraries:** database (11), [[SQL]] (1), data (1)
 > **Env Vars:** orm (4), sql (1)
 > **Definitions:** known as (3), is a  (1)
 > **Code Identifiers:** organize_closet_project (2), bulk_save_objects (1)
@@ -2130,7 +2131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (1), case, (1), continue (1)
+> **Frameworks & Libraries:** database (3), data (2), [[SQL]] (1), [[MySQL]] (1)
 > **CLI Commands:** python3 (1), make (1), mysql (1)
 > **Env Vars:** orm (1), sql (1)
 > **File Paths:** database.py (1)
@@ -2172,6 +2173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[MySQL]] (3), [[SQL]] (3), data (2), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** order_num (1), order_type (1), cust_type (1), cust_name (1), prod_category (1)
 > **CLI Commands:** mysql (3), python (1), find (1)
 > **Env Vars:** sql (3), orm (1)
@@ -2261,7 +2263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2), module (1), pass (1)
+> **Frameworks & Libraries:** database (11), [[SQL]] (7), [[MySQL]] (4), [[Python (Programming Language)|Python]] (3), data (3)
 > **Env Vars:** sql (7), orm (2), create (1), database (1)
 > **CLI Commands:** mysql (4), python (3), make (2), python3 (1)
 > **File Paths:** database.py (1)
@@ -2273,7 +2275,7 @@ created: 2026-04-29
 
 ### 4. Using PostgreSQL in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is PostgreSQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980)
@@ -2324,9 +2326,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (12), database (7), [[MySQL]] (5), data (3), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** mysql (5), python (3)
 > **Env Vars:** sql (2), acid (1), rdbms (1), orm (1)
-> **Code Keywords:** function (1), module (1), let (1)
 > **Documentation:** specification (1)
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
@@ -2394,8 +2396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[PostgreSQL|Postgres]] (5), data (1), [[Databases]] (1), next (1)
 > **Prerequisites:** install (2), setup (1), configure (1), set up (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** zshrc (1), create (1), database (1)
 > **CLI Commands:** psql (1), python (1)
 > **Code Identifiers:** pgadmin (1)
@@ -2459,7 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), let (4), case, (1)
+> **Frameworks & Libraries:** database (9), [[Python (Programming Language)|Python]] (3), [[PostgreSQL|Postgres]] (2), [[MySQL]] (1), api (1)
 > **CLI Commands:** python (3), pip (1), sqlite3 (1), mysql (1), python3 (1)
 > **File Paths:** database.py (2)
 > **Env Vars:** api (1), sql (1)
@@ -2525,7 +2527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (1), function (1)
+> **Frameworks & Libraries:** data (6), database (5), [[PostgreSQL|Postgres]] (3), [[MySQL]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** mysql (1), python (1), python3 (1)
 > **Cross-References:** we talked about (1), in the last (1)
 > **File Paths:** database.py (1)
@@ -2613,7 +2615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (6), pass (3)
+> **Frameworks & Libraries:** data (8), database (7), [[SQL]] (4), product (4), application (2)
 > **Env Vars:** sql (4)
 > **Versions:** 9.99 (1), 19.98 (1)
 > **CLI Commands:** mysql (1)
@@ -2673,8 +2675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[PostgreSQL|Postgres]] (4), [[MySQL]] (3), [[Relational Databases]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** mysql (3), python (2), sqlite3 (1), cd (1), pip3 (1)
-> **Code Keywords:** module (3), let (2), interface (1), case, (1)
 > **Prerequisites:** install (2), set up (1)
 > **Env Vars:** orm (2)
 > **File Paths:** database.py (1)
@@ -2750,7 +2752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (4), pass (1)
+> **Frameworks & Libraries:** database (5), [[PostgreSQL|Postgres]] (2), [[SQL]] (2), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** crud (3), sql (2)
 > **CLI Commands:** find (2), python (1)
 > **UI Navigation:** select the (1), go to (1)
@@ -2791,7 +2793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** database (3), data (2), [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (2), application (1)
 > **Env Vars:** orm (3)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** python (2)
@@ -2858,7 +2860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (3), finally, (1), pass (1), function (1)
+> **Frameworks & Libraries:** database (10), [[SQL]] (4), [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (2), next (1)
 > **Env Vars:** sql (4), crud (1)
 > **CLI Commands:** python (2)
 > **Versions:** 19.98 (1)
@@ -2908,7 +2910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), new, (1)
+> **Frameworks & Libraries:** database (7), data (1)
 > **Env Vars:** orm (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -3063,8 +3065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), data (10), [[PostgreSQL|Postgres]] (4), [[Databases]] (1)
 > **Code Identifiers:** author_id (10), book_id (6), add_book (2), first_name (1), last_name (1)
-> **Code Keywords:** let (10), function (3), type, (1), case, (1), if, (1)
 > **Env Vars:** create (1), database (1), orm (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -3075,7 +3077,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue using databases in Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980)
@@ -3110,8 +3112,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (5), [[Databases]] (4), application (2), database (2)
 > **CLI Commands:** python (5), mysql (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** orm (1)
 > **Speakers:** - [kathryn] (1)
 

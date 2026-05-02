@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Coaching%20Skills%20for%20Leaders%20and%20Managers.md)
@@ -41,24 +41,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Unlock your team's potential
+  - [Unlock your team's potential](#unlock-your-teams-potential)
 - [**1. Coaching Fundamentals**](#1-coaching-fundamentals) (3 videos)
-  - Coaching basics
-  - The business case for coaching
-  - Common coaching challenges
+  - [Coaching basics](#coaching-basics)
+  - [The business case for coaching](#the-business-case-for-coaching)
+  - [Common coaching challenges](#common-coaching-challenges)
 - [**2. Coaching Models**](#2-coaching-models) (2 videos)
-  - Coaching frameworks
-  - GROW coaching model
+  - [Coaching frameworks](#coaching-frameworks)
+  - [GROW coaching model](#grow-coaching-model)
 - [**3. Coaching Skills**](#3-coaching-skills) (3 videos)
-  - Listen as a coach
-  - Give feedback as a coach
-  - Goal setting as a coach
+  - [Listen as a coach](#listen-as-a-coach)
+  - [Give feedback as a coach](#give-feedback-as-a-coach)
+  - [Goal setting as a coach](#goal-setting-as-a-coach)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock your team's potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/unlock-your-team-s-potential?u=76281980)
@@ -87,14 +87,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Coaching Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coaching basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-basics?u=76281980)
@@ -181,8 +181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (3), strengths (2), business (1), next (1), career (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2), self (1), if, (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - at (1)
 
@@ -273,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), career (2), teams (2), leadership (1), game (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - leadership (1)
 
 #### Common coaching challenges
@@ -368,15 +368,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), business (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), continue (1)
 > **Speakers:** - organizations (1)
 
 
 ### 2. Coaching Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coaching frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-frameworks?u=76281980)
@@ -445,8 +445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1), express (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - all (1)
 
@@ -565,9 +565,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Performance Metrics]] (2), prompt (1), [[Accountability]] (1), hit (1)
 > **Env Vars:** grow (4), gps (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this. (1)
 > **Definitions:** is called (1), stands for (1)
 > **Prerequisites:** getting started (2)
 > **Warnings:** keep in mind (1)
@@ -576,7 +576,7 @@ created: 2026-04-29
 
 ### 3. Coaching Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Listen as a coach
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980)
@@ -655,8 +655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Microsoft Office|Office]] (1), [[Accountability]] (1), game (1), prompt (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - think (1)
@@ -770,10 +770,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for instance (1), for example (1)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** remember to (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - think (1)
@@ -841,15 +841,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Career Development]] (1), next (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** function (1), let (1), finally, (1)
 > **Analogies:** picture (1)
 > **Speakers:** - many (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/next-steps?u=76281980)
@@ -882,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** career (1)
 > **URLs:** [saracanaday.com](https://saracanaday.com) (1)
 > **Speakers:** - research (1)
 

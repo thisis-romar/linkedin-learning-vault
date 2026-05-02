@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/content-marketing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/A%20Content%20Marketer's%20Guide%20to%20Responsible%20AI.md)
@@ -49,27 +49,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Responsible AI in content marketing
+  - [Responsible AI in content marketing](#responsible-ai-in-content-marketing)
 - [**1. Understanding AI in Content Marketing**](#1-understanding-ai-in-content-marketing) (3 videos)
-  - Integrating AI in content marketing
-  - Deciding if AI is the right tool
-  - Demonstrating the value of AI to leadership
+  - [Integrating AI in content marketing](#integrating-ai-in-content-marketing)
+  - [Deciding if AI is the right tool](#deciding-if-ai-is-the-right-tool)
+  - [Demonstrating the value of AI to leadership](#demonstrating-the-value-of-ai-to-leadership)
 - [**2. Ethical Considerations for AI in Marketing**](#2-ethical-considerations-for-ai-in-marketing) (3 videos)
-  - Identifying and mitigating bias in AI
-  - Analyzing consent in AI marketing
-  - Balancing personalization and privacy
+  - [Identifying and mitigating bias in AI](#identifying-and-mitigating-bias-in-ai)
+  - [Analyzing consent in AI marketing](#analyzing-consent-in-ai-marketing)
+  - [Balancing personalization and privacy](#balancing-personalization-and-privacy)
 - [**3. Implementing a Responsible AI Strategy**](#3-implementing-a-responsible-ai-strategy) (3 videos)
-  - Developing an ethical AI policy
-  - Training your team on responsible AI
-  - Driving content development with AI
+  - [Developing an ethical AI policy](#developing-an-ethical-ai-policy)
+  - [Training your team on responsible AI](#training-your-team-on-responsible-ai)
+  - [Driving content development with AI](#driving-content-development-with-ai)
 - [**4. Future Trends and Responsible Practices**](#4-future-trends-and-responsible-practices) (1 videos)
-  - Ensuring long-term ethical AI practices
+  - [Ensuring long-term ethical AI practices](#ensuring-long-term-ethical-ai-practices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Enhance your marketing with ethical AI integration
+  - [Enhance your marketing with ethical AI integration](#enhance-your-marketing-with-ethical-ai-integration)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI in content marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980)
@@ -98,12 +98,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (14), [[Privacy]] (1), data (1)
 
 
 ### 1. Understanding AI in Content Marketing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating AI in content marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980)
@@ -154,8 +154,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[LinkedIn]] (3), [[Content Creation]] (2), [[ChatGPT]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** if, (1), let (1)
 > **Warnings:** watch out (1), warning (1)
 > **Definitions:** is a  (1)
 
@@ -212,6 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Google]] (1), data (1), [[Privacy]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 
@@ -276,13 +277,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), data (4), business (4), leadership (2), management (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), case. (1)
 
 
 ### 2. Ethical Considerations for AI in Marketing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying and mitigating bias in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/identifying-and-mitigating-bias-in-ai?u=76281980)
@@ -329,7 +330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), let (1), this, (1)
+> **Frameworks & Libraries:** ai (13), data (2), express (1), teams (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 
@@ -380,6 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), ai (10), teams (2), management (1), product (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -445,7 +447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (2), for. (1), this, (1)
+> **Frameworks & Libraries:** ai (13), data (5), [[Privacy]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
@@ -454,7 +456,7 @@ created: 2026-04-29
 
 ### 3. Implementing a Responsible AI Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing an ethical AI policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980)
@@ -497,7 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** ai (14), [[Responsible AI]] (2), [[Accountability]] (2), data (1), [[Privacy]] (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
@@ -548,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), super (1)
+> **Frameworks & Libraries:** ai (16), [[Responsible AI]] (3), [[Privacy]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 
@@ -615,13 +617,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), prompt (6), [[Microsoft Word|Word]] (2), [[Generative AI]] (1), generic (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** super (1), for, (1)
 
 
 ### 4. Future Trends and Responsible Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensuring long-term ethical AI practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/ensuring-long-term-ethical-ai-practices?u=76281980)
@@ -680,16 +682,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[ChatGPT]] (1), teams (1), next (1)
 > **Versions:** 4.0 (3), 3.5 (2)
 > **Env Vars:** gpt (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), this. (1)
 > **Definitions:** means that (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhance your marketing with ethical AI integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980)
@@ -722,6 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[LinkedIn]] (2), next (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)

@@ -28,7 +28,7 @@ tags:
   - skill/adobe-xd
   - skill/user-interface-prototyping
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Adobe%20XD%20Essential%20Training-%20Prototype.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to Adobe XD: Prototype
+  - [Welcome to Adobe XD: Prototype](#welcome-to-adobe-xd-prototype)
 - [**1. Windows Management**](#1-windows-management) (3 videos)
-  - Desktop preview app
-  - Setting viewport height
-  - Fixed position while scrolling
+  - [Desktop preview app](#desktop-preview-app)
+  - [Setting viewport height](#setting-viewport-height)
+  - [Fixed position while scrolling](#fixed-position-while-scrolling)
 - [**2. Triggers and Interactions**](#2-triggers-and-interactions) (10 videos)
-  - Tap and Previous Artboard transition
-  - Hover transition
-  - Overlay transitions
-  - Copy and paste interaction
-  - Adding menu navigation
-  - Anchor links (Scroll To interaction)
-  - Preserving scroll position
-  - Keyboards and game pads
-  - Voice triggers with speech playback
-  - Hyperlinks
+  - [Tap and Previous Artboard transition](#tap-and-previous-artboard-transition)
+  - [Hover transition](#hover-transition)
+  - [Overlay transitions](#overlay-transitions)
+  - [Copy and paste interaction](#copy-and-paste-interaction)
+  - [Adding menu navigation](#adding-menu-navigation)
+  - [Anchor links (Scroll To interaction)](#anchor-links-scroll-to-interaction)
+  - [Preserving scroll position](#preserving-scroll-position)
+  - [Keyboards and game pads](#keyboards-and-game-pads)
+  - [Voice triggers with speech playback](#voice-triggers-with-speech-playback)
+  - [Hyperlinks](#hyperlinks)
 - [**3. Auto-Animate Interactions**](#3-auto-animate-interactions) (5 videos)
-  - Introducing auto-animate
-  - Drag interaction
-  - Integrating video
-  - Integrating Lottie
-  - Exporting to After Effects
+  - [Introducing auto-animate](#introducing-auto-animate)
+  - [Drag interaction](#drag-interaction)
+  - [Integrating video](#integrating-video)
+  - [Integrating Lottie](#integrating-lottie)
+  - [Exporting to After Effects](#exporting-to-after-effects)
 - [**4. Conclusion**](#4-conclusion) (1 videos)
-  - Where to go to from here
+  - [Where to go to from here](#where-to-go-to-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Adobe XD: Prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980)
@@ -103,15 +103,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Adobe XD]] (2), [[Prototyping]] (1), product (1), application (1)
 > **Exercise Files:** download the (2), exercise files (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Windows Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Desktop preview app
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980)
@@ -168,9 +168,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Zoom]] (2), [[Prototyping]] (1), [[Adobe XD]] (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Exercise Files:** exercise file (3)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** ios (1), iphone (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -217,8 +217,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Adobe XD]] (1), hit (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** return. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Fixed position while scrolling
@@ -278,6 +278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Adobe XD]] (1), next (1), feature (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** known as (1), is a  (1)
@@ -286,7 +287,7 @@ created: 2026-04-29
 
 ### 2. Triggers and Interactions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tap and Previous Artboard transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980)
@@ -451,8 +452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), next (1), [[Prototyping]] (1)
 > **UI Navigation:** click on (7), scroll down (3), select the (1), go to (1), dropdown (1)
-> **Code Keywords:** from. (1), let (1), type, (1), from, (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Versions:** 0.3 (1)
@@ -506,9 +507,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (6), dropdown (1), scroll down (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3), continue (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -627,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1)
+> **Frameworks & Libraries:** mobile application (1), feature (1), next (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -684,8 +685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (3), select the (2), double-click (2), go to (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Adding menu navigation
@@ -745,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **UI Navigation:** click on (3), dropdown (1), in the menu (1)
 > **Env Vars:** faq (3)
 > **CLI Commands:** make (2)
@@ -899,8 +900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), hit (3), next (1), product (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (7), navigate to (1), go to (1), scroll down (1)
-> **Code Keywords:** let (8), type, (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise file (1)
@@ -1021,7 +1022,6 @@ created: 2026-04-29
 >
 > **UI Navigation:** click on (8), scroll down (3), double-click (1), checkbox (1), scroll up (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (7)
 > **Definitions:** is a  (1), known as (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -1123,8 +1123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (4), next (2), application (1), [[Zoom]] (1)
 > **UI Navigation:** click on (7), dropdown (3), navigate to (1), toggle (1)
-> **Code Keywords:** interface (2), return. (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -1252,10 +1252,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Prototyping]] (2), [[Speech Recognition]] (2), game (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4), is called (1), is an  (1), known as (1)
 > **UI Navigation:** click on (4), navigate to (1), dropdown (1)
 > **Speakers:** - [announcer] (2), - [joanne] (1)
-> **Code Keywords:** let (2)
 > **Exercise Files:** exercise file (1)
 
 #### Hyperlinks
@@ -1365,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), return, (3), type. (1), default, (1), switch (1)
+> **Frameworks & Libraries:** web (3), hit (3), next (2), [[Microsoft Word|Word]] (2), [[Forms]] (1)
 > **UI Navigation:** click on (4), select the (3), go to (2), dropdown (1), navigate to (1)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** url (5), pdf (2), cdn (1)
@@ -1377,7 +1377,7 @@ created: 2026-04-29
 
 ### 3. Auto-Animate Interactions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing auto-animate
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/introducing-auto-animate?u=76281980)
@@ -1538,8 +1538,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), next (1), [[Search]] (1)
 > **UI Navigation:** click on (9), select the (1), scroll down (1)
-> **Code Keywords:** let (6), this. (1), switch (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (3)
 > **Definitions:** is an  (3)
@@ -1634,8 +1634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), feature (1)
 > **UI Navigation:** click on (4), select the (1), go to (1)
-> **Code Keywords:** let (2), switch (1), this. (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1738,10 +1738,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Prototyping]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (5), toggle (2), go to (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** we talked about (2), go back to (1)
-> **Code Keywords:** switch (1), let (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1820,8 +1820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), next (2), data (1)
 > **UI Navigation:** click on (3), select the (1), dropdown (1)
-> **Code Keywords:** type, (1), interface (1), switch (1), let (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.6 (1)
 > **Exercise Files:** exercise file (1)
@@ -1865,7 +1865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), export, (1), continue (1)
+> **Frameworks & Libraries:** product (1), [[JSON]] (1), next (1)
 > **Env Vars:** json (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -1873,7 +1873,7 @@ created: 2026-04-29
 
 ### 4. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go to from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/where-to-go-to-from-here?u=76281980)

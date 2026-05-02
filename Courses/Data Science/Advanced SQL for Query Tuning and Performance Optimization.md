@@ -37,7 +37,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20for%20Query%20Tuning%20and%20Performance%20Optimization.md)
@@ -56,82 +56,82 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Reduce query response time with query tuning
-  - What you should know
+  - [Reduce query response time with query tuning](#reduce-query-response-time-with-query-tuning)
+  - [What you should know](#what-you-should-know)
 - [**1. How SQL Executes a Query**](#1-how-sql-executes-a-query) (6 videos)
-  - From declarative SQL to a procedural execution plan
-  - Scanning tables and indexes
-  - Joining tables
-  - Partitioning data
-  - Challenge: Choosing how to partition a table
-  - Solution: Choosing how to partition a table
+  - [From declarative SQL to a procedural execution plan](#from-declarative-sql-to-a-procedural-execution-plan)
+  - [Scanning tables and indexes](#scanning-tables-and-indexes)
+  - [Joining tables](#joining-tables)
+  - [Partitioning data](#partitioning-data)
+  - [Challenge: Choosing how to partition a table](#challenge-choosing-how-to-partition-a-table)
+  - [Solution: Choosing how to partition a table](#solution-choosing-how-to-partition-a-table)
 - [**2. PostgreSQL Tools for Tuning**](#2-postgresql-tools-for-tuning) (6 videos)
-  - Using PostgreSQL in Codespaces
-  - Explain and analyze
-  - Example plan: Selecting with a WHERE clause
-  - Indexes
-  - Challenge: Generating a query execution plan
-  - Solution: Generating a query execution plan
+  - [Using PostgreSQL in Codespaces](#using-postgresql-in-codespaces)
+  - [Explain and analyze](#explain-and-analyze)
+  - [Example plan: Selecting with a WHERE clause](#example-plan-selecting-with-a-where-clause)
+  - [Indexes](#indexes)
+  - [Challenge: Generating a query execution plan](#challenge-generating-a-query-execution-plan)
+  - [Solution: Generating a query execution plan](#solution-generating-a-query-execution-plan)
 - [**3. Types of Indexes**](#3-types-of-indexes) (11 videos)
-  - Indexing
-  - B-tree indexes
-  - B-tree index example plan
-  - Bitmap indexes
-  - Bitmap index example plan
-  - Hash indexes
-  - Hash index example plan
-  - Bloom filter indexes
-  - PostgreSQL-specific indexes
-  - Challenge: Choosing an index
-  - Solution: Choosing an index
+  - [Indexing](#indexing)
+  - [B-tree indexes](#b-tree-indexes)
+  - [B-tree index example plan](#b-tree-index-example-plan)
+  - [Bitmap indexes](#bitmap-indexes)
+  - [Bitmap index example plan](#bitmap-index-example-plan)
+  - [Hash indexes](#hash-indexes)
+  - [Hash index example plan](#hash-index-example-plan)
+  - [Bloom filter indexes](#bloom-filter-indexes)
+  - [PostgreSQL-specific indexes](#postgresql-specific-indexes)
+  - [Challenge: Choosing an index](#challenge-choosing-an-index)
+  - [Solution: Choosing an index](#solution-choosing-an-index)
 - [**4. Tuning Joins**](#4-tuning-joins) (10 videos)
-  - Types of joins
-  - Nested loops
-  - Nested loop example plan
-  - Hash joins
-  - Hash join example plan
-  - Merge joins
-  - Merge join example
-  - Subqueries vs. joins
-  - Challenge: Designing a join
-  - Solution: Designing a join
+  - [Types of joins](#types-of-joins)
+  - [Nested loops](#nested-loops)
+  - [Nested loop example plan](#nested-loop-example-plan)
+  - [Hash joins](#hash-joins)
+  - [Hash join example plan](#hash-join-example-plan)
+  - [Merge joins](#merge-joins)
+  - [Merge join example](#merge-join-example)
+  - [Subqueries vs. joins](#subqueries-vs-joins)
+  - [Challenge: Designing a join](#challenge-designing-a-join)
+  - [Solution: Designing a join](#solution-designing-a-join)
 - [**5. Partitioning Data**](#5-partitioning-data) (9 videos)
-  - Horizontal vs. vertical partitioning
-  - Partition by range
-  - Partition by range example
-  - Partition by list
-  - Partition by list example
-  - Partition by hash
-  - Partition by hash example
-  - Challenge: Partitioning a table
-  - Solution: Partitioning a table
+  - [Horizontal vs. vertical partitioning](#horizontal-vs-vertical-partitioning)
+  - [Partition by range](#partition-by-range)
+  - [Partition by range example](#partition-by-range-example)
+  - [Partition by list](#partition-by-list)
+  - [Partition by list example](#partition-by-list-example)
+  - [Partition by hash](#partition-by-hash)
+  - [Partition by hash example](#partition-by-hash-example)
+  - [Challenge: Partitioning a table](#challenge-partitioning-a-table)
+  - [Solution: Partitioning a table](#solution-partitioning-a-table)
 - [**6. Materialized Views**](#6-materialized-views) (5 videos)
-  - Materialized views
-  - Creating materialized views
-  - Refreshing materialized views
-  - Challenge: Creating a materialized view
-  - Solution: Creating a materialized view
+  - [Materialized views](#materialized-views)
+  - [Creating materialized views](#creating-materialized-views)
+  - [Refreshing materialized views](#refreshing-materialized-views)
+  - [Challenge: Creating a materialized view](#challenge-creating-a-materialized-view)
+  - [Solution: Creating a materialized view](#solution-creating-a-materialized-view)
 - [**7. Database Statistics and Identifying Slow Queries**](#7-database-statistics-and-identifying-slow-queries) (6 videos)
-  - Collect statistics about data in tables
-  - Analyzing execution statistics with pg_stat_statements
-  - Reviewing execution plans with the auto_explain module
-  - Additional analysis with other pg_stats data
-  - Challenge: Analyze schema statistics
-  - Solution: Analyze schema statistics
+  - [Collect statistics about data in tables](#collect-statistics-about-data-in-tables)
+  - [Analyzing execution statistics with pg_stat_statements](#analyzing-execution-statistics-with-pg_stat_statements)
+  - [Reviewing execution plans with the auto_explain module](#reviewing-execution-plans-with-the-auto_explain-module)
+  - [Additional analysis with other pg_stats data](#additional-analysis-with-other-pg_stats-data)
+  - [Challenge: Analyze schema statistics](#challenge-analyze-schema-statistics)
+  - [Solution: Analyze schema statistics](#solution-analyze-schema-statistics)
 - [**8. Other Optimization Techniques**](#8-other-optimization-techniques) (7 videos)
-  - Using common table expressions to avoid repetitive computation
-  - Hints to the Query Optimizer
-  - Parallel query execution
-  - Improving cache utilization
-  - Miscellaneous tips
-  - Challenge: Design a common table expression
-  - Solution: Design a common table expression
+  - [Using common table expressions to avoid repetitive computation](#using-common-table-expressions-to-avoid-repetitive-computation)
+  - [Hints to the Query Optimizer](#hints-to-the-query-optimizer)
+  - [Parallel query execution](#parallel-query-execution)
+  - [Improving cache utilization](#improving-cache-utilization)
+  - [Miscellaneous tips](#miscellaneous-tips)
+  - [Challenge: Design a common table expression](#challenge-design-a-common-table-expression)
+  - [Solution: Design a common table expression](#solution-design-a-common-table-expression)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reduce query response time with query tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?u=76281980)
@@ -156,8 +156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (1), database (1), data (1)
 > **Env Vars:** sql (5)
-> **Code Keywords:** let (1)
 > **Speakers:** - [dan] (1)
 
 #### What you should know
@@ -181,14 +181,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** database (1), [[Relational Databases]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. How SQL Executes a Query
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From declarative SQL to a procedural execution plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980)
@@ -255,6 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[SQL]] (8), [[Relational Databases]] (1), [[Analytics]] (1), [[Apache Spark]] (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (2), apache (1), python (1)
 > **Analogies:** for example (4)
@@ -324,11 +325,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Databases]] (3), next (2), database (1), [[Relational Databases]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **SQL:** where (2)
 > **Env Vars:** where (2)
-> **Code Keywords:** this, (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - one (1)
 
@@ -383,6 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Relational Databases]] (1), [[SQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** later in (1)
@@ -451,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), require (1)
+> **Frameworks & Libraries:** data (14)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -473,7 +475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), data (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright digital music) (1)
@@ -497,7 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -505,7 +507,7 @@ created: 2026-04-29
 
 ### 2. PostgreSQL Tools for Tuning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using PostgreSQL in Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980)
@@ -562,10 +564,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (9), [[SQL]] (6), database (4), [[GitHub]] (3), [[PostgreSQL]] (1)
 > **Env Vars:** sql (6), url (1), ide (1)
 > **Tools:** github (3), visual studio (2), vs code (1)
 > **UI Navigation:** click on (3)
-> **Code Keywords:** public (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -639,7 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** data (6), [[PostgreSQL|Postgres]] (2), [[Databases]] (1), [[MySQL]] (1), database (1)
 > **Prerequisites:** required to (3)
 > **CLI Commands:** make (1), mysql (1)
 > **Definitions:** is a  (2)
@@ -695,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), continue (1), this. (1), case, (1)
+> **Frameworks & Libraries:** data (2)
 > **Versions:** 26.5 (1), 0.165 (1), 0.129 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -756,7 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -774,6 +776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** sql (1), p17 (1), r81 (1), u76 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -796,7 +799,7 @@ created: 2026-04-29
 
 ### 3. Types of Indexes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Indexing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980)
@@ -873,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), require (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[PostgreSQL|Postgres]] (2), functional (1), [[Relational Databases]] (1)
 > **Definitions:** means that (1), known as (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -921,10 +924,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), data (2), [[Search]] (1)
 > **CLI Commands:** node (8), find (3), make (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### B-tree index example plan
@@ -1032,7 +1035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), public (2), case, (1)
+> **Frameworks & Libraries:** database (2), [[PostgreSQL|Postgres]] (1), data (1)
 > **Code Identifiers:** start_date (2), company_division (1), company_region (1), last_name (1), idx_staff (1)
 > **SQL:** select (4), where (3)
 > **Env Vars:** select (4), where (3)
@@ -1074,8 +1077,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), data (1), [[Databases]] (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** require (1), type. (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1155,7 +1158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), default, (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), data (2)
 > **Code Identifiers:** job_title (6), idx_staff_job_title (1)
 > **Env Vars:** distinct (2)
 > **Definitions:** is called (1), is a  (1)
@@ -1198,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** next (1), data (1), [[PostgreSQL|Postgres]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1244,7 +1247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), default, (1)
+> **Frameworks & Libraries:** data (1), [[PostgreSQL|Postgres]] (1)
 > **Code Identifiers:** idx_staff_email (4)
 > **Versions:** 8.02 (2), 8.29 (1)
 > **URLs:** [time.com](https://time.com) (1)
@@ -1366,7 +1369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), this, (1)
+> **Frameworks & Libraries:** data (11), database (2), [[PostgreSQL|Postgres]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (3), kind of like (1)
 > **CLI Commands:** find (2), make (1)
@@ -1405,10 +1408,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Search]] (3), [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1), [[Relational Databases]] (1)
 > **Env Vars:** gin (4), brin (2), gist (1)
 > **Definitions:** stands for (2), is an  (2), is a  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Choosing an index
@@ -1426,6 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1454,7 +1458,7 @@ created: 2026-04-29
 
 ### 4. Tuning Joins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/types-of-joins?u=76281980)
@@ -1511,7 +1515,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1601,7 +1604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), match, (3), match. (2), case, (1), continue (1)
+> **Frameworks & Libraries:** data (3), next (2), hit (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -1686,8 +1689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Databases]] (1), database (1)
 > **Code Identifiers:** company_regions (3), last_name (2), job_title (2), region_id (2), enable_nestloop (2)
-> **Code Keywords:** let (4), case, (1), this, (1), this. (1)
 > **Env Vars:** select (3), inner (1), join (1), explain (1)
 > **SQL:** select (3), inner join (1)
 > **Definitions:** is a  (1)
@@ -1728,7 +1731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -1775,7 +1778,6 @@ created: 2026-04-29
 >
 > **Code Identifiers:** company_regions (2), enable_nestloop (1), enable_hashjoin (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1826,7 +1828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), match. (1), continue (1), case, (1)
+> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** region_id (2)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
@@ -1862,9 +1864,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Statistics]] (1), database (1)
 > **Code Identifiers:** company_regions (3), region_id (3), enable_hashjoin (1), last_name (1), job_title (1)
 > **Warnings:** caution (3)
-> **Code Keywords:** let (1), case, (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1898,7 +1900,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Code Identifiers:** company_regions (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
@@ -1918,7 +1919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** application (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1937,14 +1938,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (playful music) (1)
 
 
 ### 5. Partitioning Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Horizontal vs. vertical partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980)
@@ -2005,7 +2005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** data (11), product (3), [[Database Applications]] (1), [[Analytics]] (1)
 > **Definitions:** is called (1), means that (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -2052,7 +2052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (3), [[Internet of Things (IoT)|Internet of things]] (1), [[IoT]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -2153,7 +2153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (1), from, (1), case, (1)
+> **Frameworks & Libraries:** [[IoT]] (2), next (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** iot_measurement (7), measurement_datetime (2), location_id (1), rel_humidity (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** iot (2)
@@ -2198,10 +2198,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), product (3), [[Electronics]] (2), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Partition by list example
@@ -2319,8 +2319,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), product (7), business (2), [[Electronics]] (2), next (1)
 > **Env Vars:** create (6), table (6), partition (6), values (5), list (1)
-> **Code Keywords:** let (18), case, (1)
 > **Code Identifiers:** product_clothing (4), product_electronics (3), product_kitchen (2)
 > **SQL:** create table (3)
 > **CLI Commands:** make (2)
@@ -2366,9 +2366,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[PostgreSQL|Postgres]] (2), ci (2), [[MySQL]] (1), [[Databases]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** mysql (1), find (1)
-> **Code Keywords:** function (1), module (1)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2460,7 +2460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1), this, (1), case. (1)
+> **Frameworks & Libraries:** ci (1), next (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** url (2)
@@ -2484,7 +2484,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2502,14 +2501,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. Materialized Views
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Materialized views
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/materialized-views?u=76281980)
@@ -2544,6 +2543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -2596,7 +2596,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
 > **CLI Commands:** mv (3)
 > **Definitions:** short for (1)
 > **Prerequisites:** required to (1)
@@ -2641,8 +2640,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** mv (3)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2666,7 +2665,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** sensor_metrics (1), sensor_id (1), measure_date (1), sensor_metric (1), mv_sensor_metric (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2686,15 +2684,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** mv_sensor_metric (1), sensor_metric (1), sensor_id (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 7. Database Statistics and Identifying Slow Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collect statistics about data in tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980)
@@ -2753,11 +2751,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Statistics]] (5), [[Databases]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** vacuum (6), analyze (3), full (2), autovacuum (1)
 > **Analogies:** for example (3)
 > **Definitions:** we call this (1), is called (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2788,9 +2786,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (3), [[PostgreSQL|Postgres]] (2), feature (2), database (2), [[SQL]] (1)
 > **Code Identifiers:** pg_stat_statements (5), shared_preload_libraries (1)
 > **Env Vars:** sql (1), dba (1)
-> **Code Keywords:** default, (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2837,7 +2835,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), this, (1), super (1), function (1)
+> **Frameworks & Libraries:** database (3), [[PostgreSQL|Postgres]] (2), data (1), [[SQL]] (1), [[Linux]] (1)
 > **Analogies:** for example (2), kind of like (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -2872,9 +2870,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Statistics]] (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** module (1)
 > **Env Vars:** pg_statistics (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -2892,6 +2890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **Code Identifiers:** sensor_metrics (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -2908,8 +2907,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** analyze (2)
-> **Code Keywords:** case, (1)
 > **Code Identifiers:** sensor_metrics (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2917,7 +2916,7 @@ created: 2026-04-29
 
 ### 8. Other Optimization Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using common table expressions to avoid repetitive computation
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980)
@@ -2948,6 +2947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), data (1)
 > **Env Vars:** select (3), materialized (3)
 > **CLI Commands:** make (3), find (1)
 > **SQL:** select (3)
@@ -2985,10 +2985,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (2), data (2), [[PostgreSQL|Postgres]] (2), [[MySQL]] (1)
 > **Env Vars:** sql (4), set (1), analyze (1), vaccum (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Warnings:** be careful (2)
-> **Code Keywords:** default, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3033,7 +3033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), function (1), finally, (1)
+> **Frameworks & Libraries:** parallel (17), database (2), [[PostgreSQL|Postgres]] (1), data (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -3079,6 +3079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[PostgreSQL|Postgres]] (5), hit (2), [[Databases]] (1)
 > **Env Vars:** ram (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3128,8 +3129,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), functional (1)
 > **Env Vars:** where (2), null (1), abc (1), gin (1), order (1)
-> **Code Keywords:** function (2), let (1), for. (1)
 > **SQL:** where (2), order by (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -3150,7 +3151,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3171,7 +3171,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980)
@@ -3196,9 +3196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), data (3), database (2), [[Analytics]] (1), [[Application Development]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [dan] (1)
 
 

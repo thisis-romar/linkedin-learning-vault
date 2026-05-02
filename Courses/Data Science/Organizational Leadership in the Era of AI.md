@@ -39,7 +39,7 @@ tags:
   - skill/ai-for-management
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Organizational%20Leadership%20in%20the%20Era%20of%20AI.md)
@@ -58,29 +58,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Technology breakthroughs need management breakthroughs
-  - New leadership for the AI era
-  - Leading your organization as a social system
+  - [Technology breakthroughs need management breakthroughs](#technology-breakthroughs-need-management-breakthroughs)
+  - [New leadership for the AI era](#new-leadership-for-the-ai-era)
+  - [Leading your organization as a social system](#leading-your-organization-as-a-social-system)
 - [**1. From Digital Transformation to Autonomous Transformation**](#1-from-digital-transformation-to-autonomous-transformation) (3 videos)
-  - Understanding autonomous transformation
-  - Leading autonomous transformation
-  - Empowering your experts
+  - [Understanding autonomous transformation](#understanding-autonomous-transformation)
+  - [Leading autonomous transformation](#leading-autonomous-transformation)
+  - [Empowering your experts](#empowering-your-experts)
 - [**2. From Data-Driven to Reason-Driven Leadership**](#2-from-data-driven-to-reason-driven-leadership) (4 videos)
-  - Reason-driven vs. data-driven strategy
-  - Harness opposing views
-  - Focus your resources
-  - Communicate your vision and strategy
+  - [Reason-driven vs. data-driven strategy](#reason-driven-vs-data-driven-strategy)
+  - [Harness opposing views](#harness-opposing-views)
+  - [Focus your resources](#focus-your-resources)
+  - [Communicate your vision and strategy](#communicate-your-vision-and-strategy)
 - [**3. How to Solve for the Future**](#3-how-to-solve-for-the-future) (4 videos)
-  - Replace problem-solving with future solving
-  - Pair data with expertise
-  - Augment analysis with synthesis
-  - Replace use cases with value cases
+  - [Replace problem-solving with future solving](#replace-problem-solving-with-future-solving)
+  - [Pair data with expertise](#pair-data-with-expertise)
+  - [Augment analysis with synthesis](#augment-analysis-with-synthesis)
+  - [Replace use cases with value cases](#replace-use-cases-with-value-cases)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Reaching new heights of value creation
+  - [Reaching new heights of value creation](#reaching-new-heights-of-value-creation)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Technology breakthroughs need management breakthroughs
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980)
@@ -107,6 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Microsoft]] (1), leadership (1), management (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - 87 (1)
 
 #### New leadership for the AI era
@@ -188,10 +189,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), leadership (1), [[Microsoft Products|Products]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - artificial (1)
 
@@ -262,8 +263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Dashboards]] (1), [[Automation]] (1), data (1), teams (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** from, (1), let (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
@@ -271,7 +272,7 @@ created: 2026-04-29
 
 ### 1. From Digital Transformation to Autonomous Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding autonomous transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980)
@@ -356,7 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), self (1), let (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (4), [[Microsoft Products|Products]] (2), next (1), [[Microsoft Word|Word]] (1), product (1)
 > **Definitions:** we call this (1), defined as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -421,8 +422,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), [[Microsoft Products|Products]] (2), leadership (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (1), let (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -513,8 +514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[LinkedIn]] (1), management (1), [[Forms]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** ceo (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** such as (1)
@@ -524,7 +525,7 @@ created: 2026-04-29
 
 ### 2. From Data-Driven to Reason-Driven Leadership
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reason-driven vs. data-driven strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reason-driven-vs-data-driven-strategy?u=76281980)
@@ -611,7 +612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (6), [[Data-driven Decision Making]] (3), next (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -682,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (1), this, (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (5), next (2), [[React.js|React]] (1), leadership (1), bi (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** make sure you have (1)
@@ -747,7 +748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), for, (1), self (1), require (1)
+> **Frameworks & Libraries:** ai (3), next (2), business (2), [[Product Development]] (1), management (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
@@ -799,13 +800,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Statistics]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - your (1)
 
 
 ### 3. How to Solve for the Future
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Replace problem-solving with future solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-problem-solving-with-future-solving?u=76281980)
@@ -862,7 +864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), for. (1)
+> **Frameworks & Libraries:** management (2), [[Digital Transformation]] (1), [[Sustainability]] (1), teams (1), product (1)
 > **Code Identifiers:** iphone (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -943,6 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (3), [[ChatGPT]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - the (1)
@@ -1024,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), continue (1)
+> **Frameworks & Libraries:** ai (3), [[LinkedIn]] (2), management (1), teams (1), [[Jigsaw]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** picture (3), imagine (1)
 > **Speakers:** - analysis (1)
@@ -1096,7 +1099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), let (1)
+> **Frameworks & Libraries:** [[Engineering]] (2), ai (2), leadership (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -1105,7 +1108,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reaching new heights of value creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980)
@@ -1154,8 +1157,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), leadership (2), [[LinkedIn]] (2), management (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** static (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - thank (1)
 

@@ -30,7 +30,7 @@ tags:
   - skill/server-configuration
   - skill/windows-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20Installation%20and%20Configuration.md)
@@ -49,39 +49,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Preparing to install Windows Server 2019
-  - What you should already know
+  - [Preparing to install Windows Server 2019](#preparing-to-install-windows-server-2019)
+  - [What you should already know](#what-you-should-already-know)
 - [**1. Planning the Installation**](#1-planning-the-installation) (4 videos)
-  - Planning the role(s) of the server
-  - Planning server hardware
-  - Purchasing Windows Server 2019
-  - Virtualization and dedicated hardware
+  - [Planning the role(s) of the server](#planning-the-roles-of-the-server)
+  - [Planning server hardware](#planning-server-hardware)
+  - [Purchasing Windows Server 2019](#purchasing-windows-server-2019)
+  - [Virtualization and dedicated hardware](#virtualization-and-dedicated-hardware)
 - [**2. Installing Windows Server 2019**](#2-installing-windows-server-2019) (7 videos)
-  - Installing from disk or an ISO file
-  - Installing and upgrading
-  - Using Server Manager
-  - Initial configuration in PowerShell
-  - Configuring multiple interfaces per network interface controller (NIC)
-  - Understanding NIC teaming
-  - Configuring NIC teaming
+  - [Installing from disk or an ISO file](#installing-from-disk-or-an-iso-file)
+  - [Installing and upgrading](#installing-and-upgrading)
+  - [Using Server Manager](#using-server-manager)
+  - [Initial configuration in PowerShell](#initial-configuration-in-powershell)
+  - [Configuring multiple interfaces per network interface controller (NIC)](#configuring-multiple-interfaces-per-network-interface-controller-nic)
+  - [Understanding NIC teaming](#understanding-nic-teaming)
+  - [Configuring NIC teaming](#configuring-nic-teaming)
 - [**3. Configuring Storage**](#3-configuring-storage) (4 videos)
-  - Creating different volume types
-  - Supported file systems
-  - Improvements to Storage Spaces Direct
-  - Introducing Storage Migration Service
+  - [Creating different volume types](#creating-different-volume-types)
+  - [Supported file systems](#supported-file-systems)
+  - [Improvements to Storage Spaces Direct](#improvements-to-storage-spaces-direct)
+  - [Introducing Storage Migration Service](#introducing-storage-migration-service)
 - [**4. Managing Server Roles and Features**](#4-managing-server-roles-and-features) (6 videos)
-  - Planning role configuration
-  - Installing roles and features
-  - Configuring a role
-  - Managing features on demand
-  - Creating migration tools
-  - Exporting and importing with SMIG
+  - [Planning role configuration](#planning-role-configuration)
+  - [Installing roles and features](#installing-roles-and-features)
+  - [Configuring a role](#configuring-a-role)
+  - [Managing features on demand](#managing-features-on-demand)
+  - [Creating migration tools](#creating-migration-tools)
+  - [Exporting and importing with SMIG](#exporting-and-importing-with-smig)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing to install Windows Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980)
@@ -106,8 +106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Windows]] (1), [[Powershell]] (1)
 > **Prerequisites:** install (1), configure (1)
-> **Code Keywords:** let (1)
 > **Tools:** powershell (1)
 > **Speakers:** - [scott] (1)
 
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows Server]] (1), next (1), [[Virtualization]] (1), [[Virtual Machines]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** ram (1)
 > **Speakers:** - [lecturer] (1)
@@ -145,7 +146,7 @@ created: 2026-04-29
 
 ### 1. Planning the Installation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning the role(s) of the server
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980)
@@ -214,7 +215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), this. (1), require (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Active Directory]] (3), [[Windows]] (2), [[Windows Server]] (2), application (2)
 > **Env Vars:** dns (2)
 > **Prerequisites:** install (1), configure (1)
 > **CLI Commands:** find (1)
@@ -326,8 +327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (5), next (4), [[Hardware]] (4), [[Windows]] (4), [[Microsoft]] (3)
 > **Env Vars:** ram (2), pci (2), cpu (1), ept (1), npt (1)
-> **Code Keywords:** interface (1), new. (1), this, (1), let (1), module (1)
 > **Best Practices:** rule of thumb (2), recommended (1)
 > **Prerequisites:** you need to have (1), install (1), you'll need (1)
 > **CLI Commands:** find (1)
@@ -408,8 +409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (10), [[Virtual Machines]] (2), [[Microsoft]] (2), [[Hardware]] (1), [[Virtualization]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** this, (2), for. (1), require (1)
 > **Warnings:** keep in mind (2), be careful (1)
 > **UI Navigation:** scroll down (2)
 > **Env Vars:** cal (1)
@@ -494,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), module (1), case, (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Hardware]] (4), [[Virtualization]] (3), [[Windows Server]] (2), [[Resiliency]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** install (2)
@@ -506,7 +507,7 @@ created: 2026-04-29
 
 ### 2. Installing Windows Server 2019
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing from disk or an ISO file
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980)
@@ -599,9 +600,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (3), next (3), power (2), [[Hardware]] (2), [[Windows]] (2)
 > **CLI Commands:** make (6), find (1)
 > **Prerequisites:** install (5), set up (1)
-> **Code Keywords:** let (4)
 > **Env Vars:** dvd (2), iso (1), uefi (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -678,8 +679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (12), [[Microsoft]] (4), [[Active Directory]] (3), [[Windows]] (1), database (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** known as (1), is a  (1)
 > **Best Practices:** don't forget (1), general rule (1)
 > **CLI Commands:** make (1)
@@ -766,7 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), else, (1), this. (1), require (1)
+> **Frameworks & Libraries:** dns (3), [[Windows]] (2), [[Windows Server]] (2), application (1), data (1)
 > **UI Navigation:** click on (3), go to (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dns (3)
@@ -870,9 +871,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), hit (5), prompt (3), dns (3), [[Windows Server]] (2)
 > **Env Vars:** dns (3), ctrl (2), tcp (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (3), interface (1)
 > **Versions:** 192.168.0 (3), 255.255.255 (1)
 > **Tools:** command prompt (2), powershell (1)
 > **Definitions:** is a  (1)
@@ -958,7 +959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (5), require (1), else. (1), continue (1)
+> **Frameworks & Libraries:** web (3), [[Powershell]] (3), [[Windows]] (2), next (2), traffic (1)
 > **UI Navigation:** right-click (2), open the (1), click on (1), scroll up (1)
 > **Env Vars:** nic (2), ias (1), cls (1)
 > **Versions:** 192.168.0 (2), version 4 (1)
@@ -1026,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), interface (2), continue (1), let (1)
+> **Frameworks & Libraries:** data (3), [[Windows Server]] (2), traffic (2), web (1), concurrent (1)
 > **Env Vars:** nic (2), mac (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1131,7 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), case. (1), case, (1), interface (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), teams (3), [[Windows]] (3), next (2), [[Virtual Machines]] (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** nic (2), tcp (1), osi (1)
 > **Tools:** powershell (4)
@@ -1143,7 +1144,7 @@ created: 2026-04-29
 
 ### 3. Configuring Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating different volume types
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980)
@@ -1232,7 +1233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), management (2), [[Windows]] (1), data (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** raid (2)
 > **Definitions:** is a  (2)
@@ -1329,9 +1330,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), data (3), database (3), [[Windows Server]] (2), application (2)
 > **Env Vars:** ntfs (9), fat (5), refs (2)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** protected (1), delete (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
@@ -1396,8 +1397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (2), data (2), feature (2), [[Microsoft]] (2), hit (1)
 > **Env Vars:** s2d (2), ram (2), refs (1), ntfs (1)
-> **Code Keywords:** case. (1), this. (1), require (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), configure (1)
 > **Warnings:** keep in mind (1)
@@ -1476,8 +1477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows Server]] (5), [[Active Directory]] (4), feature (4), data (3)
 > **Prerequisites:** install (2), configure (1), you need to have (1)
-> **Code Keywords:** require (1), from. (1), this. (1)
 > **Env Vars:** sms (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1486,7 +1487,7 @@ created: 2026-04-29
 
 ### 4. Managing Server Roles and Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning role configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980)
@@ -1557,8 +1558,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (3), dns (2), [[Microsoft]] (2), [[Windows Server]] (2), web (1)
 > **Prerequisites:** install (7), configure (2)
-> **Code Keywords:** require (3), for. (1), delete (1), case, (1)
 > **Env Vars:** dns (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1645,9 +1646,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), next (5), [[Active Directory]] (4), [[Windows]] (2), [[Powershell]] (2)
 > **Env Vars:** dns (5), dc01 (1)
 > **Prerequisites:** install (6)
-> **Code Keywords:** let (2), case, (1), module (1)
 > **Tools:** powershell (2)
 > **UI Navigation:** go to (2)
 > **Warnings:** be aware (1)
@@ -1734,7 +1735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), case, (1), default, (1), from. (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), dns (3), [[Windows]] (3), [[Windows Server]] (1), feature (1)
 > **Env Vars:** dns (3), sysvol (1)
 > **Prerequisites:** configure (3), install (1)
 > **CLI Commands:** make (2)
@@ -1830,7 +1831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (3), switch (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Powershell]] (4), [[Windows Server]] (3), feature (3), [[Microsoft]] (1)
 > **Prerequisites:** install (7), configure (1)
 > **Tools:** powershell (4)
 > **CLI Commands:** find (2)
@@ -1898,8 +1899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (5), feature (3), [[Windows]] (2), [[Microsoft]] (1), [[Powershell]] (1)
 > **Env Vars:** smig (3), dos (1), ws12r2 (1)
-> **Code Keywords:** require (1), from. (1), export. (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** powershell (1)
 > **Speakers:** - [instructor] (1)
@@ -1981,8 +1982,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (2), feature (2), data (1), [[Windows Server]] (1), [[Hardware]] (1)
 > **Env Vars:** smig (4), dhcp (3)
-> **Code Keywords:** export. (3), default, (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you'll need (2), install (1)
 > **Tools:** powershell (2)
@@ -1993,7 +1994,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980)
@@ -2024,8 +2025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows Server]] (5), next (1), [[Active Directory]] (1), business (1)
 > **Prerequisites:** install (2), configure (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 

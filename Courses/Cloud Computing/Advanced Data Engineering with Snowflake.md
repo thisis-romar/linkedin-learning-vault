@@ -33,7 +33,7 @@ tags:
   - skill/data-pipelines
   - skill/snowflake
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advanced%20Data%20Engineering%20with%20Snowflake.md)
@@ -52,35 +52,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Scaling data pipelines to meet modern demands
-  - What this course will cover
+  - [Scaling data pipelines to meet modern demands](#scaling-data-pipelines-to-meet-modern-demands)
+  - [What this course will cover](#what-this-course-will-cover)
 - [**1. DevOps with Snowflake**](#1-devops-with-snowflake) (10 videos)
-  - DevOps in the world of data engineering
-  - DevOps with Snowflake
-  - What we'll build
-  - Source control in Snowflake with Git
-  - Set up the data pipeline using snowflake CLI
-  - Database change management (DCM)
-  - Declarative approach with CREATE OR ALTER
-  - Continuous integration and continuous delivery (CI/CD) for data pipelines
-  - Implementing continuous delivery for our data pipeline
-  - Recap and best practices for DevOps with Snowflake
+  - [DevOps in the world of data engineering](#devops-in-the-world-of-data-engineering)
+  - [DevOps with Snowflake](#devops-with-snowflake)
+  - [What we'll build](#what-well-build)
+  - [Source control in Snowflake with Git](#source-control-in-snowflake-with-git)
+  - [Set up the data pipeline using snowflake CLI](#set-up-the-data-pipeline-using-snowflake-cli)
+  - [Database change management (DCM)](#database-change-management-dcm)
+  - [Declarative approach with CREATE OR ALTER](#declarative-approach-with-create-or-alter)
+  - [Continuous integration and continuous delivery (CI/CD) for data pipelines](#continuous-integration-and-continuous-delivery-cicd-for-data-pipelines)
+  - [Implementing continuous delivery for our data pipeline](#implementing-continuous-delivery-for-our-data-pipeline)
+  - [Recap and best practices for DevOps with Snowflake](#recap-and-best-practices-for-devops-with-snowflake)
 - [**2. Observability with Snowflake**](#2-observability-with-snowflake) (11 videos)
-  - Observability for data engineering
-  - Foundational concepts of observability
-  - Observability with Snowflake Trail
-  - Event Tables in Snowflake
-  - Logging in Snowflake
-  - Traces in Snowflake
-  - Alerts in Snowflake
-  - Notifications in Snowflake
-  - Observability with third-party tools
-  - Recap and best practices for observability with Snowflake
-  - Conclusion
+  - [Observability for data engineering](#observability-for-data-engineering)
+  - [Foundational concepts of observability](#foundational-concepts-of-observability)
+  - [Observability with Snowflake Trail](#observability-with-snowflake-trail)
+  - [Event Tables in Snowflake](#event-tables-in-snowflake)
+  - [Logging in Snowflake](#logging-in-snowflake)
+  - [Traces in Snowflake](#traces-in-snowflake)
+  - [Alerts in Snowflake](#alerts-in-snowflake)
+  - [Notifications in Snowflake](#notifications-in-snowflake)
+  - [Observability with third-party tools](#observability-with-third-party-tools)
+  - [Recap and best practices for observability with Snowflake](#recap-and-best-practices-for-observability-with-snowflake)
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling data pipelines to meet modern demands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980)
@@ -151,7 +151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1), for. (1), new. (1)
+> **Frameworks & Libraries:** data (13), [[Snowflake]] (6), [[Data Engineering]] (4), [[DevOps]] (3), teams (2)
 > **Cross-References:** we covered (2), in the next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -206,6 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (4), data (3), [[DevOps]] (3), next (2), [[Data Engineering]] (2)
 > **Env Vars:** itd (2), sql (1)
 > **CLI Commands:** python (1), make (1)
 > **Cross-References:** we covered (1), in the next (1)
@@ -216,7 +217,7 @@ created: 2026-04-29
 
 ### 1. DevOps with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps in the world of data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980)
@@ -307,7 +308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[DevOps]] (10), teams (9), data (8), [[Engineering]] (4), [[Data Engineering]] (3)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** cd (1)
 > **Cross-References:** in the next (1)
@@ -364,9 +365,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (17), [[DevOps]] (6), [[GitHub]] (5), data (4), [[Git]] (4)
 > **Env Vars:** cli (4), create (3), alter (3), sql (2)
 > **Tools:** github (5), command line (2)
-> **Code Keywords:** interface (2), module (2), let (1)
 > **CLI Commands:** git (4)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -405,7 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1), module (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[DevOps]] (2), database (2), [[Snowflake]] (2), [[Git]] (2)
 > **CLI Commands:** git (2), make (1)
 > **Env Vars:** create (1), alter (1), cli (1)
 > **Tools:** github (3)
@@ -624,10 +625,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (26), [[Snowflake]] (22), api (13), [[Git]] (7), next (7)
 > **Tools:** github (26)
 > **Env Vars:** api (13), url (5), sql (4), pat (2)
 > **UI Navigation:** click on (15), navigate to (7), scroll down (1)
-> **Code Keywords:** let (11), module (3), finally, (3), this. (1), public (1)
 > **CLI Commands:** git (7), find (1)
 > **Exercise Files:** github repo (5)
 > **Prerequisites:** set up (2), configure (2), you'll need (1)
@@ -870,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (7), this, (3), finally, (2), public (2)
+> **Frameworks & Libraries:** data (23), [[Snowflake]] (18), database (6), [[CLI]] (5), [[SQL]] (5)
 > **Env Vars:** cli (5), staging (3), sql (2), prod (1)
 > **UI Navigation:** navigate to (4), click on (3), select the (2), open the (1)
 > **CLI Commands:** git (4), make (2), python (1)
@@ -988,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), module (1)
+> **Frameworks & Libraries:** database (16), management (6), data (5), [[SQL]] (4), [[DevOps]] (3)
 > **Analogies:** for example (3), imagine (2)
 > **File Paths:** 03.sql (2), 01.sql (1), 02.sql (1)
 > **CLI Commands:** git (2), make (2)
@@ -1331,7 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), finally, (3), this. (2), switch (2), require (1)
+> **Frameworks & Libraries:** data (30), next (13), [[Snowflake]] (11), [[Git]] (8), feature (8)
 > **Env Vars:** create (9), alter (7), env (3), staging (3), replace (2)
 > **CLI Commands:** make (9), git (8), find (2), python (1)
 > **UI Navigation:** click on (8), select the (4), dropdown (3), open the (3), go to (1)
@@ -1409,10 +1410,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Continuous Delivery (CD)|Continuous delivery]] (4), teams (4), [[DevOps]] (3), [[Snowflake]] (3)
 > **Tools:** github (3), command line (2)
 > **CLI Commands:** cd (2), find (1)
 > **Analogies:** for example (2), just like (1)
-> **Code Keywords:** this. (1), let (1)
 > **Env Vars:** cli (2)
 > **Definitions:** refers to (2)
 > **Prerequisites:** set up (1)
@@ -1682,7 +1683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (2), finally, (2), case, (1), module (1)
+> **Frameworks & Libraries:** [[GitHub]] (24), [[Snowflake]] (23), [[Continuous Delivery (CD)|Continuous delivery]] (5), data (5), [[Git]] (4)
 > **Tools:** github (24)
 > **UI Navigation:** click on (10), navigate to (8), select the (2), go to (1)
 > **Prerequisites:** set up (6), configure (4)
@@ -1736,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (1)
+> **Frameworks & Libraries:** [[Snowflake]] (9), [[DevOps]] (3), [[GitHub]] (3), teams (2), data (2)
 > **Env Vars:** create (1), alter (1), cli (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (3)
@@ -1748,7 +1749,7 @@ created: 2026-04-29
 
 ### 2. Observability with Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Observability for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980)
@@ -1825,8 +1826,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Programming]] (1), [[Data Engineering]] (1), [[Automation]] (1), [[Snowflake]] (1)
 > **Definitions:** is a  (3), known as (1), means that (1), refers to (1)
-> **Code Keywords:** public (1), this. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -1896,7 +1897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Debugging]] (2), next (1), [[Snowflake]] (1)
 > **Env Vars:** cpu (1), gpu (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -1937,6 +1938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (12), data (3), open-source (1), next (1)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** in the next (1)
@@ -2023,7 +2025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (2), default. (1)
+> **Frameworks & Libraries:** [[Snowflake]] (11), database (2), [[DevOps]] (2), data (1), [[SQL]] (1)
 > **Cross-References:** we covered (1), in the last (1), in the next (1)
 > **Env Vars:** sql (1), utc (1)
 > **Definitions:** is a  (1)
@@ -2188,7 +2190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), from. (1), this. (1), module (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Snowflake]] (4), [[Python (Programming Language)|Python]] (4), [[SQL]] (2), next (2)
 > **Analogies:** for example (3), imagine (2)
 > **CLI Commands:** python (4)
 > **Code Identifiers:** log_level (2), process_order_headers_stream (1), infof (1)
@@ -2350,8 +2352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[Python (Programming Language)|Python]] (5), [[SQL]] (3), next (3), [[Java]] (1)
 > **Code Identifiers:** add_event (2), query_begin (2), order_header_stream (2), solutions_sproc_logs (1), trace_level (1)
-> **Code Keywords:** let (9), this. (1), module (1), pass (1)
 > **Definitions:** is a  (6), known as (1), is called (1)
 > **CLI Commands:** python (5), make (1), find (1)
 > **Env Vars:** uuid (4), sql (2)
@@ -2524,7 +2526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (2), case. (1), module (1), require (1)
+> **Frameworks & Libraries:** data (13), [[Snowflake]] (7), next (6), [[SQL]] (4), feature (1)
 > **Code Identifiers:** order_data_quality_alert (2), compute_wh (1), row_pos (1), notify_data_quality_team (1)
 > **Analogies:** for example (2), imagine (2)
 > **Env Vars:** sql (3)
@@ -2690,7 +2692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), new. (1), pub (1), module (1), function (1)
+> **Frameworks & Libraries:** [[Snowflake]] (11), next (8), data (7), [[Slack]] (2), [[SQL]] (2)
 > **Code Identifiers:** notification_integration (1), mail_notification_int (1), notify_data_quality_team (1), send_email (1), email_notification_int (1)
 > **Analogies:** for example (4), imagine (1)
 > **Env Vars:** sns (1), sql (1)
@@ -2722,6 +2724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (7), data (1), [[Dashboards]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
@@ -2764,7 +2767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), from. (1)
+> **Frameworks & Libraries:** [[Snowflake]] (7), data (6), next (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** we covered (1), in the next (1)
 > **Definitions:** known as (1)
@@ -2797,10 +2800,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (6), data (3), [[DevOps]] (2), [[Data Engineering]] (1), teams (1)
 > **Env Vars:** create (1), alter (1), cli (1)
 > **Cross-References:** we covered (2)
 > **CLI Commands:** git (1)
-> **Code Keywords:** this. (1)
 > **Documentation:** the documentation (1)
 > **Tools:** github (1)
 

@@ -35,7 +35,7 @@ tags:
   - skill/sql
   - skill/career-path-planning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Finding%20New%20Career%20Paths%20with%20SQL.md)
@@ -54,31 +54,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Starting your new career path with SQL
-  - Assessing your current SQL skills
+  - [Starting your new career path with SQL](#starting-your-new-career-path-with-sql)
+  - [Assessing your current SQL skills](#assessing-your-current-sql-skills)
 - [**1. Designing Your Career with SQL Skills**](#1-designing-your-career-with-sql-skills) (3 videos)
-  - Finding where your interests intersect with your SQL skills
-  - Identifying gaps and opportunities to learn
-  - Possible career paths that can use your SQL skills
+  - [Finding where your interests intersect with your SQL skills](#finding-where-your-interests-intersect-with-your-sql-skills)
+  - [Identifying gaps and opportunities to learn](#identifying-gaps-and-opportunities-to-learn)
+  - [Possible career paths that can use your SQL skills](#possible-career-paths-that-can-use-your-sql-skills)
 - [**2. Analytics and Marketing with SQL**](#2-analytics-and-marketing-with-sql) (2 videos)
-  - SQL in digital marketing
-  - Modern data visualization and dashboards
+  - [SQL in digital marketing](#sql-in-digital-marketing)
+  - [Modern data visualization and dashboards](#modern-data-visualization-and-dashboards)
 - [**3. Data Science and SQL**](#3-data-science-and-sql) (3 videos)
-  - Data science overview
-  - Descriptive analytics and research
-  - Predictive analytics and machine learning using SQL
+  - [Data science overview](#data-science-overview)
+  - [Descriptive analytics and research](#descriptive-analytics-and-research)
+  - [Predictive analytics and machine learning using SQL](#predictive-analytics-and-machine-learning-using-sql)
 - [**4. Engineering with SQL**](#4-engineering-with-sql) (5 videos)
-  - Introduction to engineering and database administration using SQL
-  - Web development
-  - Mobile app development and knowledge transfer
-  - Data engineering and cloud computing
-  - Database administration
+  - [Introduction to engineering and database administration using SQL](#introduction-to-engineering-and-database-administration-using-sql)
+  - [Web development](#web-development)
+  - [Mobile app development and knowledge transfer](#mobile-app-development-and-knowledge-transfer)
+  - [Data engineering and cloud computing](#data-engineering-and-cloud-computing)
+  - [Database administration](#database-administration)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Extending your SQL career
+  - [Extending your SQL career](#extending-your-sql-career)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting your new career path with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), data (4), career (3), [[Programming]] (2), [[Engineering]] (2)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Assessing your current SQL skills
@@ -168,9 +168,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), data (4), application (1), etl (1), [[Databases]] (1)
 > **Env Vars:** sql (4), etl (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** before we start (1)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Designing Your Career with SQL Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding where your interests intersect with your SQL skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980)
@@ -216,6 +216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), [[SQL]] (2), [[Engineering]] (2), data (2), web (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -310,7 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (2), let (2)
+> **Frameworks & Libraries:** next (5), [[SQL]] (4), data (3), [[Programming]] (2), career (2)
 > **Env Vars:** sql (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (1)
@@ -355,10 +356,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), career (3), data (3), [[Analytics]] (2), web (2)
 > **Env Vars:** sql (5)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** python (1), find (1)
-> **Code Keywords:** class. (1), let (1)
 > **Analogies:** such as (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -366,7 +367,7 @@ created: 2026-04-29
 
 ### 2. Analytics and Marketing with SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL in digital marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980)
@@ -433,8 +434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Analytics]] (6), [[SQL]] (5), [[Google]] (4), [[Marketing Analytics]] (3)
 > **Env Vars:** sql (6), ide (1), dbms (1)
-> **Code Keywords:** let (2), public (1), case, (1)
 > **CLI Commands:** find (1), make (1), mysql (1)
 > **Tools:** visual studio (1)
 > **Analogies:** imagine (1)
@@ -497,16 +498,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Dashboards]] (3), [[SQL]] (3), next (1), [[Infographics]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** sql (3), gis (1)
-> **Code Keywords:** let (1), case, (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Data Science and SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980)
@@ -529,9 +530,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[SQL]] (3), [[Predictive Analytics]] (2), [[Analytics]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (3)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Descriptive analytics and research
@@ -587,8 +588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), data (4), [[SQL]] (3), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1)
 > **CLI Commands:** find (2), make (2), python (2)
-> **Code Keywords:** let (2), function (2), for. (1)
 > **Env Vars:** sql (3), dbms (1)
 > **Analogies:** such as (3)
 > **Documentation:** the documentation (1)
@@ -661,9 +662,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[SQL]] (7), [[Microsoft Products|Products]] (5), next (4), [[Predictive Analytics]] (4)
 > **Env Vars:** sql (7), aic (1)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -671,7 +672,7 @@ created: 2026-04-29
 
 ### 4. Engineering with SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to engineering and database administration using SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980)
@@ -704,8 +705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (4), [[SQL]] (3), [[Databases]] (3), [[Engineering]] (2)
 > **Env Vars:** sql (3), dba (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -796,9 +797,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[SQL]] (8), data (7), web (6), [[MySQL]] (5)
 > **Env Vars:** sql (9), sdk (2), css (2), crud (1), gcp (1)
 > **CLI Commands:** mysql (5), python (3), gcloud (1)
-> **Code Keywords:** let (3), function (2), require (1), delete (1), interface (1)
 > **File Paths:** index.html (2), db.py (1), main.py (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Tools:** github (1), terminal (1)
@@ -884,7 +885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), return, (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** database (7), [[Swift (Programming Language)|Swift]] (4), [[Relational Databases]] (3), data (3), [[SQL]] (3)
 > **Code Identifiers:** ios (3), opendatabase (2), iphone (1), createcustomertable (1), dbpath (1)
 > **Env Vars:** sql (3), ide (1)
 > **File Paths:** dbhelper.swift (1), viewcontroller.swift (1)
@@ -960,8 +961,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), api (8), database (4), etl (2), [[SQL]] (2)
 > **Env Vars:** api (7), etl (2), sql (2), json (2), gcp (1)
-> **Code Keywords:** function (5), this, (1), require (1), let (1)
 > **CLI Commands:** python (2), find (1), mysql (1)
 > **Analogies:** such as (2), similar to (1)
 > **Definitions:** stands for (1)
@@ -1020,9 +1021,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), [[SQL]] (5), data (5), [[Security]] (3), [[Database Administration]] (2)
 > **Env Vars:** sql (5), dml (1), ddl (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** delete (2), let (1)
 > **Analogies:** such as (3)
 > **Definitions:** known as (2)
 > **Speakers:** - [instructor] (1)
@@ -1030,7 +1031,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending your SQL career
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980)
@@ -1057,9 +1058,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), [[LinkedIn]] (2), [[Databases]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [nikiya] (1)

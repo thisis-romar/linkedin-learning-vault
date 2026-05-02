@@ -35,7 +35,7 @@ tags:
   - skill/sql
   - skill/data-build-tool-dbt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering-%20dbt%20for%20SQL.md)
@@ -54,47 +54,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introduction
-  - What you should know
-  - Codespaces introduction
+  - [Introduction](#introduction)
+  - [What you should know](#what-you-should-know)
+  - [Codespaces introduction](#codespaces-introduction)
 - [**1. SQL for Data Engineers**](#1-sql-for-data-engineers) (5 videos)
-  - SQL as a data engineer
-  - The modern data stack and SQL
-  - Schema design
-  - Challenge: Schema design
-  - Solution: Schema design
+  - [SQL as a data engineer](#sql-as-a-data-engineer)
+  - [The modern data stack and SQL](#the-modern-data-stack-and-sql)
+  - [Schema design](#schema-design)
+  - [Challenge: Schema design](#challenge-schema-design)
+  - [Solution: Schema design](#solution-schema-design)
 - [**2. Modeling in SQL**](#2-modeling-in-sql) (6 videos)
-  - Supply chain outage: SQL spaghetti
-  - Data build tool (dbt)
-  - Modeling in dbt
-  - Running dbt
-  - Challenge: Modeling taxi data
-  - Solution: Modeling taxi data
+  - [Supply chain outage: SQL spaghetti](#supply-chain-outage-sql-spaghetti)
+  - [Data build tool (dbt)](#data-build-tool-dbt)
+  - [Modeling in dbt](#modeling-in-dbt)
+  - [Running dbt](#running-dbt)
+  - [Challenge: Modeling taxi data](#challenge-modeling-taxi-data)
+  - [Solution: Modeling taxi data](#solution-modeling-taxi-data)
 - [**3. Table Materializations**](#3-table-materializations) (5 videos)
-  - Crypto cost: Materializations
-  - Materialization terminology
-  - Incremental materializations
-  - Challenge: Materializations
-  - Solution: Materializations
+  - [Crypto cost: Materializations](#crypto-cost-materializations)
+  - [Materialization terminology](#materialization-terminology)
+  - [Incremental materializations](#incremental-materializations)
+  - [Challenge: Materializations](#challenge-materializations)
+  - [Solution: Materializations](#solution-materializations)
 - [**4. Common Table Expressions vs. Subqueries**](#4-common-table-expressions-vs-subqueries) (5 videos)
-  - Construction planning: Query complexity
-  - Common table expressions (CTEs) vs. subqueries
-  - CTEs in dbt
-  - Challenge: Implementing CTEs
-  - Solution: Implementing CTEs
+  - [Construction planning: Query complexity](#construction-planning-query-complexity)
+  - [Common table expressions (CTEs) vs. subqueries](#common-table-expressions-ctes-vs-subqueries)
+  - [CTEs in dbt](#ctes-in-dbt)
+  - [Challenge: Implementing CTEs](#challenge-implementing-ctes)
+  - [Solution: Implementing CTEs](#solution-implementing-ctes)
 - [**5. Testing SQL with dbt**](#5-testing-sql-with-dbt) (5 videos)
-  - Advertising: Testing SQL
-  - Unit testing using dbt
-  - Custom tests in dbt
-  - Challenge: Testing SQL
-  - Solution: Testing SQL
+  - [Advertising: Testing SQL](#advertising-testing-sql)
+  - [Unit testing using dbt](#unit-testing-using-dbt)
+  - [Custom tests in dbt](#custom-tests-in-dbt)
+  - [Challenge: Testing SQL](#challenge-testing-sql)
+  - [Solution: Testing SQL](#solution-testing-sql)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Looking ahead
-  - Next steps
+  - [Looking ahead](#looking-ahead)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980)
@@ -115,8 +115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), dbt (3), open-source (1), career (1), data (1)
 > **Env Vars:** sql (4), dbt (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
 #### What you should know
@@ -158,8 +158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (3), [[Data Engineering]] (2)
 > **Env Vars:** sql (5), ide (1)
-> **Code Keywords:** class, (2), let (1)
 > **Tools:** bash (1), vs code (1), terminal (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -226,19 +226,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Codespaces]] (5), feature (2), [[LinkedIn]] (1), next (1)
 > **Tools:** github (6)
 > **Prerequisites:** setup (2), configure (2)
 > **UI Navigation:** dropdown (2), select the (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. SQL for Data Engineers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL as a data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980)
@@ -291,9 +291,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (15), data (14), [[Data Transformation]] (1), [[Snowflake]] (1), etl (1)
 > **Env Vars:** sql (15), etl (1)
 > **CLI Commands:** mysql (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
@@ -354,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), [[SQL]] (5), cloud (4), [[Analytics]] (2), etl (2)
 > **Env Vars:** sql (5), etl (2)
-> **Code Keywords:** self (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
@@ -412,9 +412,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Forms]] (5), functional (5), database (4), [[SQL]] (2)
 > **Analogies:** imagine (1), for example (1), for instance (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Schema design
@@ -472,8 +472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), database (1), product (1), [[Forms]] (1)
 > **Definitions:** means that (2), is a  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
@@ -559,7 +559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (3), [[Forms]] (2), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -568,7 +568,7 @@ created: 2026-04-29
 
 ### 2. Modeling in SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supply chain outage: SQL spaghetti
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980)
@@ -629,10 +629,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), data (5), [[Engineering]] (4), teams (1), leadership (1)
 > **Env Vars:** sql (8), ceo (1), cto (1)
 > **Analogies:** imagine (2)
 > **File Paths:** mammoth.sql (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - sql (1)
 
 #### Data build tool (dbt)
@@ -688,8 +688,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), dbt (13), [[Analytics]] (3), [[Data Engineering]] (3), [[SQL]] (3)
 > **Env Vars:** sql (3)
-> **Code Keywords:** let (2)
 > **Exercise Files:** boilerplate (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -813,8 +813,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (29), database (6), [[MySQL]] (4), [[SQL]] (3), power (2)
 > **Env Vars:** dbt (27), sql (2)
-> **Code Keywords:** let (10), type, (2), case, (2)
 > **CLI Commands:** mysql (4), pip (1), make (1), node (1)
 > **File Paths:** dbt_project.yml (2), profiles.yml (1), my_first_dbt_model.sql (1), schema.yml (1)
 > **Prerequisites:** install (4)
@@ -903,9 +903,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (9), data (5), database (4), [[SQL]] (4), [[Data Transformation]] (1)
 > **UI Navigation:** navigate to (3), click on (3), open the (2), dropdown (2)
 > **Code Identifiers:** raw_taxi_trips (4), taxi_trips (2)
-> **Code Keywords:** let (5)
 > **Env Vars:** sql (4), csv (1)
 > **File Paths:** raw_taxi_trips.csv (3), taxi_trips.sql (1)
 > **Tools:** terminal (1)
@@ -943,10 +943,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), dbt (3), data (3)
 > **File Paths:** over_nine_miles.sql (1), credit_card_count.sql (1), cross_borough.sql (1), avg_num_dropoff_manhattan.sql (1), schema.yml (1)
 > **Code Identifiers:** over_nine_miles (1), credit_card_count (1), cross_borough (1), avg_num_dropoff_manhattan (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -1010,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), case, (1), switch (1)
+> **Frameworks & Libraries:** dbt (3), [[SQL]] (2), data (1), [[Data Engineering]] (1)
 > **Code Identifiers:** taxi_trips (2), over_nine_miles (1), cross_borough (1), credit_card_count (1)
 > **Env Vars:** sql (2), yaml (1), sqltools (1)
 > **UI Navigation:** click on (2), switch to (1)
@@ -1022,7 +1022,7 @@ created: 2026-04-29
 
 ### 3. Table Materializations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Crypto cost: Materializations
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980)
@@ -1083,7 +1083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** data (15), database (3), cloud (3), [[SQL]] (2), [[Cryptocurrency]] (2)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - while (1)
@@ -1165,8 +1165,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (9), dbt (9), data (6), database (4), business (1)
 > **Env Vars:** dbt (9), sql (8)
-> **Code Keywords:** let (6), switch (1)
 > **UI Navigation:** navigate to (2), switch to (1), in the sidebar (1), open the (1), dropdown (1)
 > **Tools:** terminal (2), vs code (1)
 > **Analogies:** just like (1), for example (1)
@@ -1227,8 +1227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (9), data (8), [[SQL]] (1)
 > **Env Vars:** dbt (9), sql (1)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -1268,10 +1268,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), dbt (3), [[Codespaces]] (1), [[Ethereum]] (1), [[SQL]] (1)
 > **Env Vars:** dbt (3), sql (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1354,7 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[SQL]] (6), next (1), dbt (1), database (1)
 > **CLI Commands:** make (7)
 > **File Paths:** btc.sql (3), eth.sql (1), btc_closing_above_3k.sql (1), crypto_data.sql (1)
 > **UI Navigation:** navigate to (1), click on (1)
@@ -1366,7 +1366,7 @@ created: 2026-04-29
 
 ### 4. Common Table Expressions vs. Subqueries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Construction planning: Query complexity
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980)
@@ -1433,8 +1433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), [[Engineering]] (1), database (1), data (1), feature (1)
 > **Env Vars:** sql (8), sum (1), average (1)
-> **Code Keywords:** let (3), this, (1)
 > **Analogies:** imagine (2), for example (1), it's like (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
@@ -1511,9 +1511,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (4), [[SQL]] (4), [[Engineering]] (1)
 > **Env Vars:** cte (4), sql (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1578,9 +1578,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (4), [[SQL]] (3), data (3)
 > **Env Vars:** cte (14), select (3), sql (3), where (1), left (1)
 > **Code Identifiers:** order_items_cte (2), order_items (2), order_id (2), source_table (1), ordered_items_cte (1)
-> **Code Keywords:** let (4), function (1)
 > **SQL:** select (3), where (1), left join (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1634,10 +1634,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), dbt (3), [[Codespaces]] (1), data (1)
 > **File Paths:** schema.yml (1), excavators.sql (1), jobs.sql (1), maintenance.sql (1), maintenance_cte.sql (1)
 > **Code Identifiers:** raw_excavators (2), raw_jobs (2), maintenance_cte (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Env Vars:** cte (2)
 > **Prerequisites:** setup (1)
@@ -1704,7 +1704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), case, (1)
+> **Frameworks & Libraries:** [[SQL]] (5), next (1), dbt (1), database (1)
 > **Env Vars:** cte (7)
 > **File Paths:** maintenance.sql (4), maintenance_cte.sql (1)
 > **Code Identifiers:** maintenance_cte (3), failing_excavators (1)
@@ -1716,7 +1716,7 @@ created: 2026-04-29
 
 ### 5. Testing SQL with dbt
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advertising: Testing SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/advertising-testing-sql?u=76281980)
@@ -1775,8 +1775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[SQL]] (4), [[Engineering]] (1), dbt (1)
 > **Env Vars:** sql (4), adid (1), dbt (1)
-> **Code Keywords:** this. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
@@ -1869,7 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1), this. (1), require (1)
+> **Frameworks & Libraries:** dbt (18), data (13), [[Unit Testing]] (4), business (2), [[SQL]] (2)
 > **Code Identifiers:** not_null (3), my_first_dbt_model_id (1), my_first_dbt_model (1)
 > **File Paths:** schema.yml (2), schema.yaml (1), my_first_dbt_model.sql (1)
 > **Analogies:** such as (1), for example (1), for instance (1)
@@ -1957,7 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), finally, (1), else. (1)
+> **Frameworks & Libraries:** dbt (13), [[SQL]] (7), data (5), generic (3), next (2)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** open the (1), navigate to (1)
 > **Cross-References:** go back to (1)
@@ -2015,9 +2015,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (6), data (4), generic (2), [[SQL]] (1), power (1)
 > **Env Vars:** dbt (6)
 > **File Paths:** schema.yaml (2), chapter5/models/adid_data.sql (1)
-> **Code Keywords:** let (3)
 > **Code Identifiers:** adid_data (1), raw_adid_data (1)
 > **Cross-References:** go back to (1)
 > **Tools:** vs code (1)
@@ -2105,7 +2105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (1)
+> **Frameworks & Libraries:** generic (3), dbt (2), [[SQL]] (2), [[Microsoft Word|Word]] (1), database (1)
 > **Env Vars:** dbt (2), cte (2), sql (2)
 > **File Paths:** chapter5/models/schema.yaml (1), schema.yaml (1)
 > **CLI Commands:** make (2)
@@ -2116,7 +2116,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Looking ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980)
@@ -2147,9 +2147,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[SQL]] (6), [[Data Engineering]] (5), [[Real-Time]] (2), ai (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** apache (2), make (1), python (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - looking (1)
 
@@ -2192,8 +2192,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[SQL]] (6), [[Data Engineering]] (6), [[Data Transformation]] (2), dbt (2)
 > **Env Vars:** sql (6), dbt (2)
-> **Code Keywords:** let (1), continue (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

@@ -30,7 +30,7 @@ tags:
   - skill/information-security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Building%20a%20Cybersecurity%20Awareness%20Program.md)
@@ -49,35 +49,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Discover cybersecurity awareness
-  - Defining security awareness: Going beyond the training to behavior and culture
+  - [Discover cybersecurity awareness](#discover-cybersecurity-awareness)
+  - [Defining security awareness: Going beyond the training to behavior and culture](#defining-security-awareness-going-beyond-the-training-to-behavior-and-culture)
 - [**1. Understanding the Current Security Awareness Foundation**](#1-understanding-the-current-security-awareness-foundation) (3 videos)
-  - Getting to know your collaborators and partners
-  - Learning your company policies, standards, and guidelines
-  - Gauging the baseline knowledge of your audience and their appetite for security as well as baselining the risks
+  - [Getting to know your collaborators and partners](#getting-to-know-your-collaborators-and-partners)
+  - [Learning your company policies, standards, and guidelines](#learning-your-company-policies-standards-and-guidelines)
+  - [Gauging the baseline knowledge of your audience and their appetite for security as well as baselining the risks](#gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risks)
 - [**2. Developing a Solid Awareness Plan**](#2-developing-a-solid-awareness-plan) (3 videos)
-  - Developing a program plan and identifying resources needed
-  - Program plan creation demonstration
-  - Creating a budget
+  - [Developing a program plan and identifying resources needed](#developing-a-program-plan-and-identifying-resources-needed)
+  - [Program plan creation demonstration](#program-plan-creation-demonstration)
+  - [Creating a budget](#creating-a-budget)
 - [**3. Implementing and Communicating the Security Awareness Program**](#3-implementing-and-communicating-the-security-awareness-program) (4 videos)
-  - Creating brand recognition for security
-  - Introducing the program and communicating the why
-  - Developing a training plan
-  - Leveraging champions, ambassadors, and liaisons
+  - [Creating brand recognition for security](#creating-brand-recognition-for-security)
+  - [Introducing the program and communicating the why](#introducing-the-program-and-communicating-the-why)
+  - [Developing a training plan](#developing-a-training-plan)
+  - [Leveraging champions, ambassadors, and liaisons](#leveraging-champions-ambassadors-and-liaisons)
 - [**4. Engaging Employees with Ongoing Awareness Initiatives**](#4-engaging-employees-with-ongoing-awareness-initiatives) (4 videos)
-  - Getting creative to reach your audience
-  - Communication is key to reaching your audience
-  - Social engineering simulations for experiential training
-  - Holding large-scale events
+  - [Getting creative to reach your audience](#getting-creative-to-reach-your-audience)
+  - [Communication is key to reaching your audience](#communication-is-key-to-reaching-your-audience)
+  - [Social engineering simulations for experiential training](#social-engineering-simulations-for-experiential-training)
+  - [Holding large-scale events](#holding-large-scale-events)
 - [**5. Measuring the Effectiveness of Your Security Awareness Program**](#5-measuring-the-effectiveness-of-your-security-awareness-program) (2 videos)
-  - Measuring impact and behavior change
-  - Communicating the impact and building the team
+  - [Measuring impact and behavior change](#measuring-impact-and-behavior-change)
+  - [Communicating the impact and building the team](#communicating-the-impact-and-building-the-team)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps: Maturing and adjusting the program over time
+  - [Next steps: Maturing and adjusting the program over time](#next-steps-maturing-and-adjusting-the-program-over-time)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover cybersecurity awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/discover-cybersecurity-awareness?u=76281980)
@@ -100,8 +100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - people (1)
 
@@ -168,14 +168,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), from. (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (20), [[Cybersecurity]] (1), business (1), [[Relationship Building]] (1), [[Soft Skills]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding the Current Security Awareness Foundation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting to know your collaborators and partners
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980)
@@ -236,9 +236,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), teams (6), business (2), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** cso (1), cio (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - do (1)
@@ -298,6 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -386,8 +387,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), data (4), leadership (2), [[Incident Response]] (2), [[Google]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** continue (2), include, (1)
 > **Warnings:** keep in mind (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 ### 2. Developing a Solid Awareness Plan
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing a program plan and identifying resources needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980)
@@ -484,8 +485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), leadership (4), next (3), [[Phishing]] (3), teams (2)
 > **Definitions:** is a  (5)
-> **Code Keywords:** from. (1), let (1), for. (1), continue (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** picture (1), such as (1)
 > **Env Vars:** san (1)
@@ -540,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (1), for, (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (1), hit (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -608,7 +609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (2), for, (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (5), leadership (2), management (1), [[Engineering]] (1), [[Simulation Software]] (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -617,7 +618,7 @@ created: 2026-04-29
 
 ### 3. Implementing and Communicating the Security Awareness Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating brand recognition for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980)
@@ -690,10 +691,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ciso (1), cso (1), ceo (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - creating (1)
 
@@ -754,8 +755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (7), [[Security]] (6), business (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this. (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -830,7 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (8), hr (2), [[Incident Response]] (1), [[Phishing]] (1), [[Newsletters]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** lms (1)
@@ -913,6 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), next (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), business (1)
 > **CLI Commands:** make (6)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -920,7 +922,7 @@ created: 2026-04-29
 
 ### 4. Engaging Employees with Ongoing Awareness Initiatives
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting creative to reach your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980)
@@ -1003,11 +1005,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (2), next (2), traffic (2), [[Microsoft Office|Office]] (2), [[Security]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** coming up (1), we discussed (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** pass (1)
 > **Env Vars:** ciso (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - other (1)
@@ -1087,8 +1089,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), [[Newsletters]] (1), [[Real-Time]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** public (2), private (1)
 > **Env Vars:** tldr (1), cso (1)
 > **Analogies:** such as (1), kind of like (1)
 > **Definitions:** short for (1)
@@ -1165,6 +1167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (17), [[Phishing]] (4), [[Engineering]] (2), [[Security]] (1), next (1)
 > **Env Vars:** usb (2), ceo (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -1247,18 +1250,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), next (2), [[Live Streaming]] (1), game (1), [[Forms]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Analogies:** such as (7)
 > **Best Practices:** remember to (2), make sure to (1)
 > **Env Vars:** lms (1), cso (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 5. Measuring the Effectiveness of Your Security Awareness Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring impact and behavior change
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980)
@@ -1343,8 +1346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (17), teams (3), [[Simulation]] (2), application (1), [[Statistics]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** lms (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1423,6 +1426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), data (7), business (2), leadership (2), [[Infographics]] (1)
 > **Env Vars:** ciso (1), cso (1), cio (1), roi (1)
 > **Analogies:** such as (3), picture (1)
 > **CLI Commands:** make (2)
@@ -1431,7 +1435,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps: Maturing and adjusting the program over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980)
@@ -1482,8 +1486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), next (2), [[Engineering]] (1), game (1), [[Privacy]] (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - as (1)
 

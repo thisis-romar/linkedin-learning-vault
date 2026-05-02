@@ -29,7 +29,7 @@ tags:
   - skill/python-programming-language
   - skill/data-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20Data%20Analysis%20(2020).md)
@@ -48,59 +48,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Get started in data analysis with Python
-  - What you need to know
-  - What's new in this update
+  - [Get started in data analysis with Python](#get-started-in-data-analysis-with-python)
+  - [What you need to know](#what-you-need-to-know)
+  - [What's new in this update](#whats-new-in-this-update)
 - [**1. Installation and Setup**](#1-installation-and-setup) (5 videos)
-  - Install Anaconda Python on OS X
-  - Install Anaconda Python on Windows
-  - Working with Jupyter Notebooks
-  - Using the exercise files
-  - Using Python in the cloud
+  - [Install Anaconda Python on OS X](#install-anaconda-python-on-os-x)
+  - [Install Anaconda Python on Windows](#install-anaconda-python-on-windows)
+  - [Working with Jupyter Notebooks](#working-with-jupyter-notebooks)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Using Python in the cloud](#using-python-in-the-cloud)
 - [**2. Data Structures in Pure Python**](#2-data-structures-in-pure-python) (5 videos)
-  - Warmup with Python loops
-  - Sequences: Lists, tuples, and the slicing syntax
-  - Dictionaries and sets
-  - Comprehensions
-  - Advanced Python containers
+  - [Warmup with Python loops](#warmup-with-python-loops)
+  - [Sequences: Lists, tuples, and the slicing syntax](#sequences-lists-tuples-and-the-slicing-syntax)
+  - [Dictionaries and sets](#dictionaries-and-sets)
+  - [Comprehensions](#comprehensions)
+  - [Advanced Python containers](#advanced-python-containers)
 - [**3. Wordplay: Anagrams and Palindromes**](#3-wordplay-anagrams-and-palindromes) (5 videos)
-  - Anagrams overview
-  - Loading a dictionary
-  - Finding anagrams
-  - Challenge: Palindromes
-  - Solution: Palindromes
+  - [Anagrams overview](#anagrams-overview)
+  - [Loading a dictionary](#loading-a-dictionary)
+  - [Finding anagrams](#finding-anagrams)
+  - [Challenge: Palindromes](#challenge-palindromes)
+  - [Solution: Palindromes](#solution-palindromes)
 - [**4. Arrays with NumPy**](#4-arrays-with-numpy) (5 videos)
-  - NumPy overview
-  - Creating NumPy arrays
-  - Indexing NumPy arrays
-  - Doing math with NumPy arrays
-  - Special arrays: Records and dates
+  - [NumPy overview](#numpy-overview)
+  - [Creating NumPy arrays](#creating-numpy-arrays)
+  - [Indexing NumPy arrays](#indexing-numpy-arrays)
+  - [Doing math with NumPy arrays](#doing-math-with-numpy-arrays)
+  - [Special arrays: Records and dates](#special-arrays-records-and-dates)
 - [**5. Use Case: Weather Data**](#5-use-case-weather-data) (7 videos)
-  - Overview of use case
-  - Loading station and temperature data
-  - Filling missing values
-  - Smoothing time series
-  - Weather charts
-  - Challenge: Weather anomalies
-  - Solution: Weather anomalies
+  - [Overview of use case](#overview-of-use-case)
+  - [Loading station and temperature data](#loading-station-and-temperature-data)
+  - [Filling missing values](#filling-missing-values)
+  - [Smoothing time series](#smoothing-time-series)
+  - [Weather charts](#weather-charts)
+  - [Challenge: Weather anomalies](#challenge-weather-anomalies)
+  - [Solution: Weather anomalies](#solution-weather-anomalies)
 - [**6. pandas**](#6-pandas) (4 videos)
-  - pandas overview
-  - DataFrames and Series
-  - Indexing in pandas
-  - Plotting
+  - [pandas overview](#pandas-overview)
+  - [DataFrames and Series](#dataframes-and-series)
+  - [Indexing in pandas](#indexing-in-pandas)
+  - [Plotting](#plotting)
 - [**7. Use Case: Baby Names**](#7-use-case-baby-names) (6 videos)
-  - Overview of use case
-  - Loading data sets
-  - Comparing name popularity
-  - Yearly top ten names
-  - Challenge: Unisex baby names
-  - Solution: Unisex baby names
+  - [Overview of use case](#overview-of-use-case)
+  - [Loading data sets](#loading-data-sets)
+  - [Comparing name popularity](#comparing-name-popularity)
+  - [Yearly top ten names](#yearly-top-ten-names)
+  - [Challenge: Unisex baby names](#challenge-unisex-baby-names)
+  - [Solution: Unisex baby names](#solution-unisex-baby-names)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started in data analysis with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980)
@@ -155,8 +155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistics]] (1), next (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** this, (1), abstract (1), let (1)
 > **Env Vars:** nasa (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - data (1)
@@ -176,6 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), data (1), feature (1), [[Statistics]] (1)
 > **CLI Commands:** python (3)
 > **Analogies:** for example (1)
 > **Prerequisites:** getting started (1)
@@ -194,6 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (2)
 > **Versions:** python 3 (1)
 > **Definitions:** is a  (1)
@@ -202,7 +204,7 @@ created: 2026-04-29
 
 ### 1. Installation and Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install Anaconda Python on OS X
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980)
@@ -257,12 +259,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Pandas (Software)|Pandas]] (2), [[Windows]] (1), next (1), cloud (1)
 > **CLI Commands:** python (10), find (1)
 > **Tools:** anaconda (4), jupyter (1), pycharm (1), terminal (1)
 > **Prerequisites:** install (5)
 > **Versions:** python 3 (2), version 3 (1), python 2 (1)
 > **UI Navigation:** go to (1), scroll down (1), select the (1), click on (1)
-> **Code Keywords:** require (1), try. (1)
 > **URLs:** [anaconda.com](https://anaconda.com) (1)
 > **Env Vars:** ide (1)
 
@@ -329,6 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Pandas (Software)|Pandas]] (2), prompt (2), [[Windows]] (1), cloud (1)
 > **CLI Commands:** python (11), find (1)
 > **Tools:** anaconda (4), jupyter (1)
 > **Prerequisites:** install (4), setup (1)
@@ -336,7 +339,6 @@ created: 2026-04-29
 > **UI Navigation:** go to (1), click on (1)
 > **URLs:** [anaconda.com](https://anaconda.com) (1)
 > **Exercise Files:** download the (1)
-> **Speakers:** - [narrator] (1)
 
 #### Working with Jupyter Notebooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/working-with-jupyter-notebooks?u=76281980)
@@ -407,9 +409,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (1), web (1)
 > **Tools:** jupyter (7), anaconda (2), terminal (1)
 > **CLI Commands:** python (4), find (1)
-> **Code Keywords:** delete (2), new, (1), function (1), interface (1)
 > **Non-Speech:** (keyboard typing) (4)
 > **Analogies:** for instance (2), such as (1)
 > **URLs:** [jupiter.org](https://jupiter.org) (1)
@@ -449,6 +451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), web (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** jupyter (3)
 > **CLI Commands:** make (1), python (1)
 > **Exercise Files:** exercise files (1)
@@ -513,10 +516,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Azure|Azure]] (6), cloud (3), [[Microsoft Azure]] (2), [[Google]] (1)
 > **CLI Commands:** python (7), unzip (2), find (1), cd (1)
 > **Exercise Files:** exercise files (3), zip file (1)
 > **Versions:** python 3 (2), 3.5 (1)
-> **Code Keywords:** let (1), switch (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Analogies:** such as (1), for instance (1)
 > **URLs:** [azure.com](https://azure.com) (1)
@@ -525,7 +528,7 @@ created: 2026-04-29
 
 ### 2. Data Structures in Pure Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Warmup with Python loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980)
@@ -686,8 +689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (3), [[Pandas (Software)|Pandas]] (1), [[Programming]] (1), power (1)
 > **CLI Commands:** python (8), make (7), find (4)
-> **Code Keywords:** let (4), function (3), interface (1), finally, (1), return. (1)
 > **Definitions:** is a  (2), is an  (2), means that (2)
 > **Analogies:** for instance (4), think of it as (1), such as (1)
 > **Cross-References:** go back to (1)
@@ -823,9 +826,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), parallel (1)
 > **CLI Commands:** python (10), make (2)
 > **Analogies:** such as (3), for instance (3), for example (1)
-> **Code Keywords:** delete (2), yield (1), let (1), pass (1), function (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -940,9 +943,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (8), make (1)
 > **Analogies:** for instance (5), similar to (1)
-> **Code Keywords:** let (2), delete (1), interface (1)
 > **Versions:** python 3 (2)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
@@ -1035,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (3), feature (1), next (1), functional (1)
 > **Analogies:** for instance (5), such as (1)
 > **CLI Commands:** python (5)
 > **Definitions:** is a  (1)
@@ -1178,7 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (3), function (3), default. (2), type, (1)
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (10), database (1), [[Search]] (1), [[Programming]] (1)
 > **CLI Commands:** python (10), make (2), find (1), pip (1)
 > **Analogies:** for instance (4), such as (2), similar to (1)
 > **Prerequisites:** install (2), set up (1)
@@ -1190,7 +1193,7 @@ created: 2026-04-29
 
 ### 3. Wordplay: Anagrams and Palindromes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Anagrams overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980)
@@ -1221,8 +1224,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (2), data (1)
 > **CLI Commands:** find (3), python (2), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1369,8 +1372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (6), find (1), make (1)
-> **Code Keywords:** let (4), switch (1)
 > **Env Vars:** unix (1), add (1)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is an  (1), known as (1)
@@ -1491,7 +1494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), case. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Python (Programming Language)|Python]] (4), [[Search]] (1), application (1), next (1)
 > **CLI Commands:** python (4), make (2), find (2)
 > **Env Vars:** sig (2)
 > **Definitions:** is an  (2)
@@ -1520,6 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Analogies:** for instance (1), such as (1)
 > **Cross-References:** go back to (1)
@@ -1575,15 +1579,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
-> **Code Keywords:** function (1), module (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Arrays with NumPy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### NumPy overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/numpy-overview?u=76281980)
@@ -1646,8 +1650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), data (7), application (1)
 > **CLI Commands:** python (10)
-> **Code Keywords:** let (2), extends (1), type. (1), case, (1), interface (1)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1765,7 +1769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), pass (1), type. (1), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), [[Metadata]] (1), cross-platform (1)
 > **CLI Commands:** make (4), python (2)
 > **Definitions:** is a  (2), is called (1), refers to (1)
 > **Analogies:** for instance (2), such as (1)
@@ -1885,7 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (4), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (1)
 > **CLI Commands:** python (3), make (2)
 > **Definitions:** is a  (3), known as (1), means that (1)
 > **Analogies:** picture (2), for instance (2), such as (1)
@@ -2009,7 +2013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), case, (2), self (1), implements (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Linear Algebra]] (1), [[Python (Programming Language)|Python]] (1), product (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Versions:** 1.5 (1), version 3 (1)
 > **Definitions:** is called (1), known as (1)
@@ -2105,7 +2109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (4), let (3), interface (1), this, (1), function (1)
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (1), refers to (1), is an  (1), is called (1)
 > **Cross-References:** in the last (1), later in (1)
 > **CLI Commands:** python (1)
@@ -2116,7 +2120,7 @@ created: 2026-04-29
 
 ### 5. Use Case: Weather Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case-2?u=76281980)
@@ -2141,7 +2145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), finally, (1)
+> **Frameworks & Libraries:** data (4), database (1)
 > **Env Vars:** noaa (2), ghcn (1)
 > **Analogies:** for instance (1), such as (1)
 > **Definitions:** is an  (1)
@@ -2270,7 +2274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (4), function (2), this, (1), case, (1)
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (2), next (2), [[Pandas (Software)|Pandas]] (2), web (1)
 > **Env Vars:** readme (2), url (2), tmax (2), noaa (1), dly (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Tools:** jupyter (3)
@@ -2378,7 +2382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (4), case, (2), module (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (1), application (1), generic (1)
 > **CLI Commands:** make (2), python (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** ghcn (1)
@@ -2493,7 +2497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), continue (1), var (1), else. (1)
+> **Frameworks & Libraries:** data (13), next (2), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for instance (1)
 > **Cross-References:** in the last (1)
@@ -2610,7 +2614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (1), interface (1), function (1)
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), power (1), [[Statistics]] (1)
 > **Definitions:** means that (2), defined as (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** noaa (1), libs (1)
@@ -2687,7 +2691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **Env Vars:** tmin (1), tmax (1)
 > **Code Identifiers:** getweather (1)
 > **Versions:** 12.8 (1)
@@ -2697,7 +2701,7 @@ created: 2026-04-29
 
 ### 6. pandas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### pandas overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980)
@@ -2728,8 +2732,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (3), api (1), [[Programming]] (1)
 > **CLI Commands:** python (3), make (1)
-> **Code Keywords:** interface (1), extends (1), implements (1)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** api (1)
 > **Versions:** version 1 (1)
@@ -2856,9 +2860,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), data (7), [[Python (Programming Language)|Python]] (3), [[Security]] (1), [[JSON]] (1)
 > **Env Vars:** csv (3), sas (2), ascii (1), hdf (1), sql (1)
 > **CLI Commands:** python (3), make (2), apache (1), find (1)
-> **Code Keywords:** let (3), require (1), type, (1), interface (1), this, (1)
 > **Analogies:** for instance (4), such as (1)
 > **Definitions:** is a  (2)
 > **File Paths:** nobels.csv (1)
@@ -2988,8 +2992,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (2), data (1), feature (1), [[Search]] (1)
 > **Analogies:** for instance (6)
-> **Code Keywords:** interface (1), let (1), this. (1), case, (1), finally, (1)
 > **CLI Commands:** make (2), python (2)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** sort_index (1)
@@ -3117,7 +3121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (3), let (1), interface (1), public (1)
+> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (11), [[Statistics]] (4), [[Python (Programming Language)|Python]] (3), product (2)
 > **CLI Commands:** make (3), python (3), find (1)
 > **Env Vars:** gdp (4)
 > **Definitions:** is a  (4)
@@ -3128,7 +3132,7 @@ created: 2026-04-29
 
 ### 7. Use Case: Baby Names
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case?u=76281980)
@@ -3147,7 +3151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Security]] (1), data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3230,7 +3234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (1), interface (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (2), [[Security]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (4)
 > **CLI Commands:** python (1), ls (1)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -3343,7 +3347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), continue (1), this. (1), pass (1)
+> **Frameworks & Libraries:** data (7), generic (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for instance (3)
 > **Speakers:** - [instructor] (1)
@@ -3433,7 +3437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), self (1), interface (1)
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (3), database (1), generic (1), next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -3462,8 +3466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Versions:** 0.5 (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
@@ -3528,8 +3532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), next (1)
 > **CLI Commands:** python (2), find (1)
-> **Code Keywords:** case, (1), pass (1)
 > **Analogies:** similar to (1), for instance (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -3540,7 +3544,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980)
@@ -3571,6 +3575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Programming]] (1), [[Statistics]] (1), [[Pandas (Software)|Pandas]] (1), data (1)
 > **CLI Commands:** python (6), find (2)
 > **Documentation:** stack overflow (1)
 > **Analogies:** such as (1)

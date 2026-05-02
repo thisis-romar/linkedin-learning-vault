@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/robotic-process-automation-rpa
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Introducing%20Robotic%20Process%20Automation.md)
@@ -47,46 +47,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to the future of work
-  - Your guide to watching this course
+  - [Welcome to the future of work](#welcome-to-the-future-of-work)
+  - [Your guide to watching this course](#your-guide-to-watching-this-course)
 - [**1. The Automation Opportunity**](#1-the-automation-opportunity) (5 videos)
-  - Digital transformation
-  - Corporate archeology
-  - The fourth generation of work
-  - The worker of the future
-  - The impact of robotic process automation (RPA) today
+  - [Digital transformation](#digital-transformation)
+  - [Corporate archeology](#corporate-archeology)
+  - [The fourth generation of work](#the-fourth-generation-of-work)
+  - [The worker of the future](#the-worker-of-the-future)
+  - [The impact of robotic process automation (RPA) today](#the-impact-of-robotic-process-automation-rpa-today)
 - [**2. What Is RPA?**](#2-what-is-rpa) (7 videos)
-  - What is robotic process automation?
-  - A simplified definition of RPA
-  - What is robotic desktop automation?
-  - The automation spectrum
-  - The RPA vendor landscape
-  - Differences between RPA and other tools
-  - RPA and low code and no code
+  - [What is robotic process automation?](#what-is-robotic-process-automation)
+  - [A simplified definition of RPA](#a-simplified-definition-of-rpa)
+  - [What is robotic desktop automation?](#what-is-robotic-desktop-automation)
+  - [The automation spectrum](#the-automation-spectrum)
+  - [The RPA vendor landscape](#the-rpa-vendor-landscape)
+  - [Differences between RPA and other tools](#differences-between-rpa-and-other-tools)
+  - [RPA and low code and no code](#rpa-and-low-code-and-no-code)
 - [**3. The Benefits of RPA**](#3-the-benefits-of-rpa) (4 videos)
-  - The importance of ROI
-  - The seven benefit types
-  - The triple-win model
-  - Don’t forget the cost of ownership
+  - [The importance of ROI](#the-importance-of-roi)
+  - [The seven benefit types](#the-seven-benefit-types)
+  - [The triple-win model](#the-triple-win-model)
+  - [Don’t forget the cost of ownership](#dont-forget-the-cost-of-ownership)
 - [**4. Best Practices at the Process Level**](#4-best-practices-at-the-process-level) (6 videos)
-  - Identifying opportunities for automation
-  - Efficiency drivers for automation
-  - Prime opportunity areas for automation
-  - Process reengineering
-  - Practical RDA example
-  - Key stakeholders in your RPA journey
+  - [Identifying opportunities for automation](#identifying-opportunities-for-automation)
+  - [Efficiency drivers for automation](#efficiency-drivers-for-automation)
+  - [Prime opportunity areas for automation](#prime-opportunity-areas-for-automation)
+  - [Process reengineering](#process-reengineering)
+  - [Practical RDA example](#practical-rda-example)
+  - [Key stakeholders in your RPA journey](#key-stakeholders-in-your-rpa-journey)
 - [**5. Best Practices at the Enterprise Level**](#5-best-practices-at-the-enterprise-level) (4 videos)
-  - Start small but don't think small
-  - RPA is not about the robot
-  - Don’t forget the fundamentals
-  - Leveraging a center of excellence
+  - [Start small but don't think small](#start-small-but-dont-think-small)
+  - [RPA is not about the robot](#rpa-is-not-about-the-robot)
+  - [Don’t forget the fundamentals](#dont-forget-the-fundamentals)
+  - [Leveraging a center of excellence](#leveraging-a-center-of-excellence)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Real-world tips for success
-  - Key takeaways
+  - [Real-world tips for success](#real-world-tips-for-success)
+  - [Key takeaways](#key-takeaways)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the future of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980)
@@ -107,6 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (5), [[Automation]] (2), ai (2), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Env Vars:** rpa (5)
 > **Speakers:** - it (1)
 
@@ -163,8 +164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (8), [[Automation]] (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** rpa (8)
-> **Code Keywords:** let (2)
 > **Cross-References:** later in (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
@@ -175,7 +176,7 @@ created: 2026-04-29
 
 ### 1. The Automation Opportunity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980)
@@ -228,8 +229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (8), [[Digital Transformation]] (5), [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rpa (8)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - so (1)
@@ -275,7 +276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** business (2), cloud (2), product (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rpa (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -343,6 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (2), data (2), next (1), cloud (1), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** rpa (2)
 > **Definitions:** refers to (1), known as (1)
@@ -375,6 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (1), data (1), business (1), career (1)
 > **Analogies:** such as (1)
 > **Speakers:** - looking (1)
 
@@ -411,6 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (4), ai (2), [[Automation]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Forms]] (1)
 > **Env Vars:** rpa (4)
 > **Best Practices:** the key is (1)
 > **Speakers:** - rpa (1)
@@ -418,7 +422,7 @@ created: 2026-04-29
 
 ### 2. What Is RPA?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is robotic process automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980)
@@ -507,10 +511,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (7), business (4), [[Exception Management]] (4), teams (2), [[Automation]] (2)
 > **Env Vars:** rpa (7), sap (1)
 > **Definitions:** is a  (6), means that (1)
 > **Analogies:** such as (2), for instance (1), similar to (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - and (1)
 
@@ -573,8 +577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (4), next (1), application (1)
 > **Env Vars:** rpa (4)
-> **Code Keywords:** case, (1), self (1), this. (1)
 > **Analogies:** imagine (1), for instance (1), just like (1)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** exercise file (1)
@@ -641,9 +645,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (9), rpa (7), [[React.js|React]] (1), [[Exception Management]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** rda (13), rpa (7)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** double-click (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - at (1)
@@ -725,8 +729,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (10), rpa (9), data (3), business (2), next (2)
 > **Env Vars:** rpa (9), rda (1)
-> **Code Keywords:** let (1), for. (1), case, (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -845,8 +849,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (17), [[Automation]] (4), [[Microsoft]] (2), power (2), [[Software Architecture]] (2)
 > **Env Vars:** rpa (17), peak (1), nice (1), sap (1)
-> **Code Keywords:** interface (2), this. (1), this, (1), let (1)
 > **Analogies:** for example (2), for instance (2), similar to (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
@@ -893,9 +897,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (8), ai (4), [[Business Process Management]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** rpa (8), bpm (2), llm (1)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
@@ -928,6 +932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (4), [[Programming]] (2), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Env Vars:** rpa (4)
 > **UI Navigation:** drag and drop (2)
 > **Definitions:** is a  (1)
@@ -937,7 +942,7 @@ created: 2026-04-29
 
 ### 3. The Benefits of RPA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980)
@@ -996,10 +1001,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (7), rpa (6), business (3), [[Banking]] (2), [[Executive Leadership]] (1)
 > **Env Vars:** rpa (6), ceo (3), roi (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), this. (1), case. (1)
 > **Cross-References:** as you saw (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1082,8 +1087,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (11), business (3), [[Automation]] (2), next (2), data (1)
 > **Env Vars:** rpa (11)
-> **Code Keywords:** extends (1), finally, (1), let (1)
 > **Analogies:** for instance (2), for example (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -1173,8 +1178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (10), [[Automation]] (4), business (2), data (2), [[Executive Leadership]] (1)
 > **Env Vars:** rpa (10)
-> **Code Keywords:** case. (1), this. (1), continue (1)
 > **Cross-References:** we discussed (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1274,9 +1279,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (10), business (6), [[Hardware]] (2), cloud (1), [[Automation]] (1)
 > **Env Vars:** rpa (10), diy (1), roi (1)
 > **Prerequisites:** you'll need (3), set up (2)
-> **Code Keywords:** finally, (2), for, (1), case. (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1286,7 +1291,7 @@ created: 2026-04-29
 
 ### 4. Best Practices at the Process Level
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying opportunities for automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980)
@@ -1319,8 +1324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (4), ai (3), [[Forms]] (1), [[Automation]] (1)
 > **Env Vars:** rpa (4)
-> **Code Keywords:** let (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - now (1)
 
@@ -1407,8 +1412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (10), business (2), management (2), [[Automation]] (1), [[Virtualization]] (1)
 > **Env Vars:** rpa (10), roi (1)
-> **Code Keywords:** let (1), this. (1), finally, (1), self (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1483,8 +1488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (17), management (9), [[Automation]] (6), data (6), functional (4)
 > **Env Vars:** rpa (17)
-> **Code Keywords:** from, (2), for. (1), finally, (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -1547,8 +1552,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (5), [[Automation]] (3), data (2), [[Microsoft Office|Office]] (1), web (1)
 > **Env Vars:** rpa (5)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - and (1)
@@ -1614,8 +1619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), application (2), prompt (2), [[Automation]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** rda (5), rpa (1)
-> **Code Keywords:** let (1), module (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - let (1)
 
@@ -1718,8 +1723,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (14), business (4), [[Security]] (3), teams (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** rpa (14), sme (2)
-> **Code Keywords:** let (2), interface (1), for. (1)
 > **Definitions:** known as (1), is a  (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** don't forget (1)
@@ -1728,7 +1733,7 @@ created: 2026-04-29
 
 ### 5. Best Practices at the Enterprise Level
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start small but don't think small
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/start-small-but-don-t-think-small?u=76281980)
@@ -1797,8 +1802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (10), [[Automation]] (4), [[Google]] (1), next (1), business (1)
 > **Env Vars:** rpa (10), smed (1)
-> **Code Keywords:** let (2), this, (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - let (1)
@@ -1878,9 +1883,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (9), next (3), management (2), cloud (1), teams (1)
 > **Env Vars:** rpa (9)
 > **Cross-References:** in the next (1), we covered (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - rpa (1)
@@ -1924,6 +1929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (3), rpa (2), business (2), management (2), product (1)
 > **Env Vars:** rpa (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
@@ -2020,16 +2026,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (8), business (6), [[Automation]] (2), management (2), power (1)
 > **Env Vars:** coe (23), rpa (8), dna (3)
 > **Definitions:** is a  (3), is an  (1), means that (1)
-> **Code Keywords:** case, (2), self (1), let (1)
 > **Analogies:** for example (2)
 > **Speakers:** - you (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Real-world tips for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/tips-for-success-from-the-front-lines-26921389?u=76281980)
@@ -2080,6 +2086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), rpa (3), [[Automation]] (2), data (2)
 > **Env Vars:** rpa (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - after (1)
@@ -2127,8 +2134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (6), [[LinkedIn]] (3), [[Automation]] (2), [[Digital Transformation]] (1), ai (1)
 > **Env Vars:** rpa (6)
-> **Code Keywords:** finally, (1), throw (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)

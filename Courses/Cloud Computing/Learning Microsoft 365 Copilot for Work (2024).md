@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/office-365
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Microsoft%20365%20Copilot%20for%20Work%20(2024).md)
@@ -49,20 +49,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Explore Microsoft 365's AI assistant
-  - Understand the Microsoft 365 Copilot subscription
+  - [Explore Microsoft 365's AI assistant](#explore-microsoft-365s-ai-assistant)
+  - [Understand the Microsoft 365 Copilot subscription](#understand-the-microsoft-365-copilot-subscription)
 - [**1. Using Copilot in Office Applications**](#1-using-copilot-in-office-applications) (7 videos)
-  - Use Copilot Business Chat with your work data
-  - Generate drafts and modify documents in Word
-  - Analyze data in Excel
-  - Create and improve PowerPoint presentations
-  - Draft and summarize messages in Outlook
-  - Leverage several Copilot tools in Microsoft Teams
-  - Get summaries of meetings in Teams
+  - [Use Copilot Business Chat with your work data](#use-copilot-business-chat-with-your-work-data)
+  - [Generate drafts and modify documents in Word](#generate-drafts-and-modify-documents-in-word)
+  - [Analyze data in Excel](#analyze-data-in-excel)
+  - [Create and improve PowerPoint presentations](#create-and-improve-powerpoint-presentations)
+  - [Draft and summarize messages in Outlook](#draft-and-summarize-messages-in-outlook)
+  - [Leverage several Copilot tools in Microsoft Teams](#leverage-several-copilot-tools-in-microsoft-teams)
+  - [Get summaries of meetings in Teams](#get-summaries-of-meetings-in-teams)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Microsoft 365's AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-your-ai-assistant-in-microsoft-365?u=76281980)
@@ -81,7 +81,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), ai (3), [[Microsoft 365]] (3), data (2), [[Microsoft]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - let (1)
 
@@ -118,16 +118,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft 365]] (8), [[Microsoft]] (6), ai (3), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - there (1)
 
 
 ### 1. Using Copilot in Office Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Copilot Business Chat with your work data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980)
@@ -220,7 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), protected (2), continue (2), public (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (16), web (6), business (3), [[Microsoft 365]] (3), [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (4), find (1)
 > **URLs:** [office.com](https://office.com) (2), [microsoft.com](https://microsoft.com) (1), [microsoft365.com](https://microsoft365.com) (1)
 > **UI Navigation:** switch to (2), go to (1), open the (1)
@@ -324,6 +324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft 365]] (4), [[Microsoft Word|Word]] (2), ai (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -435,9 +436,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Microsoft Excel|Excel]] (8), data (4), web (2), application (2)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** you'll need (1)
@@ -506,9 +507,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft PowerPoint|Powerpoint]] (2), next (2), management (1), [[Microsoft Word]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** open the (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -587,7 +588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), else, (1), type, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft Outlook|Outlook]] (6), [[Windows]] (2), web (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -681,7 +682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), finally, (1), switch (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), business (5), teams (4), [[Microsoft Teams]] (3), web (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -768,6 +769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), ai (9), teams (2), feature (1), [[Banking]] (1)
 > **UI Navigation:** go to (3), open the (3), select the (2), click on (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2)

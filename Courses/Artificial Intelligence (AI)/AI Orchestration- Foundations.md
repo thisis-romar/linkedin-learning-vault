@@ -35,7 +35,7 @@ tags:
   - skill/large-language-models-llm
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Foundations.md)
@@ -54,33 +54,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn the basics of AI orchestration
-  - Setting up your environment
+  - [Learn the basics of AI orchestration](#learn-the-basics-of-ai-orchestration)
+  - [Setting up your environment](#setting-up-your-environment)
 - [**1. Why Use AI Orchestration?**](#1-why-use-ai-orchestration) (3 videos)
-  - When using ChatGPT isn't enough
-  - What is AI orchestration, and why is it useful?
-  - Architecture of AI orchestrators
+  - [When using ChatGPT isn't enough](#when-using-chatgpt-isnt-enough)
+  - [What is AI orchestration, and why is it useful?](#what-is-ai-orchestration-and-why-is-it-useful)
+  - [Architecture of AI orchestrators](#architecture-of-ai-orchestrators)
 - [**2. Components of an AI Orchestrator**](#2-components-of-an-ai-orchestrator) (6 videos)
-  - Input interface for AI orchestrators
-  - Output interfaces for AI orchestrators
-  - Orchestrating LLMs with prompt chaining
-  - Calling APIs and connecting to databases
-  - AI workflows and agents
-  - Specialized large language models (LLMs)
+  - [Input interface for AI orchestrators](#input-interface-for-ai-orchestrators)
+  - [Output interfaces for AI orchestrators](#output-interfaces-for-ai-orchestrators)
+  - [Orchestrating LLMs with prompt chaining](#orchestrating-llms-with-prompt-chaining)
+  - [Calling APIs and connecting to databases](#calling-apis-and-connecting-to-databases)
+  - [AI workflows and agents](#ai-workflows-and-agents)
+  - [Specialized large language models (LLMs)](#specialized-large-language-models-llms)
 - [**3. AI Orchestration for a Basic AI App**](#3-ai-orchestration-for-a-basic-ai-app) (7 videos)
-  - Building low-code vs. code
-  - Visualizing an AI orchestration framework
-  - Building a simple AI app
-  - Implementing multiple AI workflows
-  - Adding API calls to your AI app
-  - Challenge: Building an AI coach
-  - Solution: Building an AI coach
+  - [Building low-code vs. code](#building-low-code-vs-code)
+  - [Visualizing an AI orchestration framework](#visualizing-an-ai-orchestration-framework)
+  - [Building a simple AI app](#building-a-simple-ai-app)
+  - [Implementing multiple AI workflows](#implementing-multiple-ai-workflows)
+  - [Adding API calls to your AI app](#adding-api-calls-to-your-ai-app)
+  - [Challenge: Building an AI coach](#challenge-building-an-ai-coach)
+  - [Solution: Building an AI coach](#solution-building-an-ai-coach)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the basics of AI orchestration
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/learn-the-basics-of-ai-orchestration?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), [[Microsoft Products|Products]] (1), business (1), product (1)
 > **Speakers:** - building (1)
 
 #### Setting up your environment
@@ -149,7 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), import. (1)
+> **Frameworks & Libraries:** ai (6), prompt (1), [[LinkedIn]] (1), next (1), database (1)
 > **UI Navigation:** click on (2), go to (1)
 > **URLs:** [voiceload.com](https://voiceload.com) (1)
 > **Env Vars:** lms (1)
@@ -161,7 +161,7 @@ created: 2026-04-29
 
 ### 1. Why Use AI Orchestration?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When using ChatGPT isn't enough
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980)
@@ -186,7 +186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[ChatGPT]] (1), [[Dashboards]] (1), data (1), [[Customer Support]] (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -224,7 +224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** ai (11), [[Customer Support]] (2), application (2), data (1), business (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** gpt (1)
@@ -306,7 +306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), case, (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** application (6), ai (5), llm (4), [[Routing]] (2), [[Forms]] (2)
 > **Env Vars:** llm (4), api (1)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Cross-References:** in the next (1)
@@ -316,7 +316,7 @@ created: 2026-04-29
 
 ### 2. Components of an AI Orchestrator
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Input interface for AI orchestrators
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980)
@@ -351,7 +351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2), type, (1)
+> **Frameworks & Libraries:** ai (9), application (2), [[ChatGPT]] (1), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** you'll need (1)
@@ -384,6 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), application (4), [[User Experience (UX)|User experience]] (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2), just like (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
@@ -477,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1)
+> **Frameworks & Libraries:** prompt (15), ai (5), [[ChatGPT]] (5), application (4), hit (2)
 > **Env Vars:** gpt (2), o2_03 (1), api (1)
 > **Exercise Files:** exercise files (3)
 > **Analogies:** for example (2), similar to (1)
@@ -559,10 +560,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), llm (8), ai (5), business (4), [[Databases]] (2)
 > **Env Vars:** api (8), llm (8), crm (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), case, (1), require (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Definitions:** is a  (1), is called (1)
 > **Cross-References:** we discussed (1)
@@ -627,8 +628,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), api (2), [[Automation]] (1)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** api (2)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** select the (1)
@@ -695,9 +696,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), application (2), [[Gemini]] (2), llm (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (10), llm (1), vip (1)
 > **Analogies:** for example (5), such as (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Versions:** 3.5 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -705,7 +706,7 @@ created: 2026-04-29
 
 ### 3. AI Orchestration for a Basic AI App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building low-code vs. code
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/building-low-code-vs-code?u=76281980)
@@ -756,8 +757,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), application (2), business (2), teams (2), [[LangChain]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1), let (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [narrator] (1)
 
@@ -836,7 +837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), case, (1)
+> **Frameworks & Libraries:** prompt (8), hit (3), ai (2), next (2), cms (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** gpt (1), cms (1), api (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -954,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case. (1), import. (1), type, (1)
+> **Frameworks & Libraries:** ai (4), hit (3), application (3), [[HTML]] (2), database (1)
 > **UI Navigation:** click on (6), go to (2), right-click (1)
 > **Exercise Files:** exercise files (4)
 > **File Paths:** team_knowledge.txt (1), team_onboarding_page.html (1)
@@ -1130,7 +1131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), finally, (2), case, (2), continue (1), type, (1)
+> **Frameworks & Libraries:** hit (9), prompt (8), ai (4), llm (2), cms (1)
 > **UI Navigation:** click on (13), scroll down (5), go to (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** llm (2), cms (1)
@@ -1288,7 +1289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), case, (4), function (1), pass (1), return, (1)
+> **Frameworks & Libraries:** database (7), hit (5), ai (4), api (3), data (2)
 > **UI Navigation:** click on (7), go to (3)
 > **Env Vars:** api (3), tbl (1)
 > **CLI Commands:** make (2), find (1)
@@ -1318,6 +1319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1)
 > **Exercise Files:** starter project (1), exercise files (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** don't forget (1)
@@ -1391,7 +1393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (2), pass (1), this, (1)
+> **Frameworks & Libraries:** prompt (5), llm (1), hit (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** vf_memory (1)
@@ -1403,7 +1405,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980)
@@ -1422,6 +1424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Orchestration]] (1), [[LinkedIn]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - congratulations (1)
 

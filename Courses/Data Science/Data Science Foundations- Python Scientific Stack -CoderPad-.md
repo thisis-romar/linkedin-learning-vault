@@ -34,7 +34,7 @@ tags:
   - skill/data-science-foundations
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Foundations-%20Python%20Scientific%20Stack%20-CoderPad-.md)
@@ -53,86 +53,86 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - The Python scientific stack
-  - What you should know
-  - Using GitHub Codespaces with this course
-  - Setup
+  - [The Python scientific stack](#the-python-scientific-stack)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
+  - [Setup](#setup)
 - [**1. Visual Studio Code**](#1-visual-studio-code) (3 videos)
-  - Use code cells
-  - Extensions to the Python language
-  - Understand markdown cells
+  - [Use code cells](#use-code-cells)
+  - [Extensions to the Python language](#extensions-to-the-python-language)
+  - [Understand markdown cells](#understand-markdown-cells)
 - [**2. NumPy Basics**](#2-numpy-basics) (9 videos)
-  - NumPy overview
-  - NumPy arrays
-  - Slicing
-  - Learn boolean indexing
-  - Understand broadcasting
-  - Understand array operations
-  - Understand ufuncs
-  - Challenge: Working with an image
-  - Solution: Working with an image
+  - [NumPy overview](#numpy-overview)
+  - [NumPy arrays](#numpy-arrays)
+  - [Slicing](#slicing)
+  - [Learn boolean indexing](#learn-boolean-indexing)
+  - [Understand broadcasting](#understand-broadcasting)
+  - [Understand array operations](#understand-array-operations)
+  - [Understand ufuncs](#understand-ufuncs)
+  - [Challenge: Working with an image](#challenge-working-with-an-image)
+  - [Solution: Working with an image](#solution-working-with-an-image)
 - [**3. pandas**](#3-pandas) (8 videos)
-  - pandas overview
-  - Loading CSV files
-  - Parse time
-  - Access rows and columns
-  - Calculate distance
-  - Display speed box plot
-  - Challenge: Taxi data mean speed
-  - Solution: Taxi data mean speed
+  - [pandas overview](#pandas-overview)
+  - [Loading CSV files](#loading-csv-files)
+  - [Parse time](#parse-time)
+  - [Access rows and columns](#access-rows-and-columns)
+  - [Calculate distance](#calculate-distance)
+  - [Display speed box plot](#display-speed-box-plot)
+  - [Challenge: Taxi data mean speed](#challenge-taxi-data-mean-speed)
+  - [Solution: Taxi data mean speed](#solution-taxi-data-mean-speed)
 - [**4. Folium and Geospatial Data**](#4-folium-and-geospatial-data) (5 videos)
-  - Create an initial map
-  - Draw a track on map
-  - Using geospatial data with shapely
-  - Challenge: Draw the running track
-  - Solution: Draw the running track
+  - [Create an initial map](#create-an-initial-map)
+  - [Draw a track on map](#draw-a-track-on-map)
+  - [Using geospatial data with shapely](#using-geospatial-data-with-shapely)
+  - [Challenge: Draw the running track](#challenge-draw-the-running-track)
+  - [Solution: Draw the running track](#solution-draw-the-running-track)
 - [**5. NYC Taxi Data**](#5-nyc-taxi-data) (8 videos)
-  - Examine data
-  - Load data from CSV files
-  - Working with categorical data
-  - Work with data: Hourly trip rides
-  - Work with data: Rides per hour
-  - Work with data: Weather data
-  - Challenge: Graphing taxi data
-  - Solution: Graphing taxi data
+  - [Examine data](#examine-data)
+  - [Load data from CSV files](#load-data-from-csv-files)
+  - [Working with categorical data](#working-with-categorical-data)
+  - [Work with data: Hourly trip rides](#work-with-data-hourly-trip-rides)
+  - [Work with data: Rides per hour](#work-with-data-rides-per-hour)
+  - [Work with data: Weather data](#work-with-data-weather-data)
+  - [Challenge: Graphing taxi data](#challenge-graphing-taxi-data)
+  - [Solution: Graphing taxi data](#solution-graphing-taxi-data)
 - [**6. scikit-learn**](#6-scikit-learn) (8 videos)
-  - scikit-learn introduction
-  - Linear regression
-  - Understand train/test split
-  - Preprocess data
-  - Compose pipelines
-  - Save and load models
-  - Challenge: Handwritten digits
-  - Solution: Handwritten digits
+  - [scikit-learn introduction](#scikit-learn-introduction)
+  - [Linear regression](#linear-regression)
+  - [Understand train/test split](#understand-traintest-split)
+  - [Preprocess data](#preprocess-data)
+  - [Compose pipelines](#compose-pipelines)
+  - [Save and load models](#save-and-load-models)
+  - [Challenge: Handwritten digits](#challenge-handwritten-digits)
+  - [Solution: Handwritten digits](#solution-handwritten-digits)
 - [**7. Plotting**](#7-plotting) (9 videos)
-  - Overview of matplotlib
-  - Use styles
-  - Customize pandas output
-  - Plotting with pandas
-  - Use Matplotlib with pandas
-  - Tips and tricks
-  - Other plotting packages
-  - Challenge: Stock data bar charts
-  - Solution: Stock data bar charts
+  - [Overview of matplotlib](#overview-of-matplotlib)
+  - [Use styles](#use-styles)
+  - [Customize pandas output](#customize-pandas-output)
+  - [Plotting with pandas](#plotting-with-pandas)
+  - [Use Matplotlib with pandas](#use-matplotlib-with-pandas)
+  - [Tips and tricks](#tips-and-tricks)
+  - [Other plotting packages](#other-plotting-packages)
+  - [Challenge: Stock data bar charts](#challenge-stock-data-bar-charts)
+  - [Solution: Stock data bar charts](#solution-stock-data-bar-charts)
 - [**8. Other Packages**](#8-other-packages) (6 videos)
-  - Other packages overview
-  - Go faster with Numba
-  - Understand deep learning
-  - Work with image processing
-  - Understand NLP: NLTK
-  - Working with bigger data
+  - [Other packages overview](#other-packages-overview)
+  - [Go faster with Numba](#go-faster-with-numba)
+  - [Understand deep learning](#understand-deep-learning)
+  - [Work with image processing](#work-with-image-processing)
+  - [Understand NLP: NLTK](#understand-nlp-nltk)
+  - [Working with bigger data](#working-with-bigger-data)
 - [**9. Development Process**](#9-development-process) (5 videos)
-  - Development process overview
-  - Understand source control
-  - Learn code review
-  - Testing overview
-  - Testing example
+  - [Development process overview](#development-process-overview)
+  - [Understand source control](#understand-source-control)
+  - [Learn code review](#learn-code-review)
+  - [Testing overview](#testing-overview)
+  - [Testing example](#testing-example)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Python scientific stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/the-python-scientific-stack?u=76281980)
@@ -157,6 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (2), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [miki] (1)
@@ -180,6 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2)
 > **CLI Commands:** python (3)
 > **Speakers:** - [instructor] (1)
 
@@ -292,7 +294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (4), hit (4), [[LinkedIn]] (2), cloud (2)
 > **Tools:** github (4), visual studio (2)
 > **Definitions:** is a  (3), known as (1), is an  (1)
 > **CLI Commands:** make (2), find (1), git (1)
@@ -332,6 +334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[Codespaces]] (2), [[Windows]] (1)
 > **Tools:** visual studio (3), github (2), terminal (2), jupyter (1)
 > **CLI Commands:** python (3), pip (1)
 > **UI Navigation:** click on (2)
@@ -342,7 +345,7 @@ created: 2026-04-29
 
 ### 1. Visual Studio Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use code cells
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-code-cells?u=76281980)
@@ -413,8 +416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), next (2), data (1), [[Python (Programming Language)|Python]] (1), hit (1)
 > **Tools:** terminal (4), visual studio (2), command line (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **File Paths:** ch01/01_01/code_cells.py (1)
 > **CLI Commands:** python (1)
@@ -463,9 +466,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), prompt (1)
 > **CLI Commands:** python (5), ls (2), make (1)
 > **Definitions:** is called (1), known as (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** pwd (1)
 > **Versions:** 0.1 (1)
 > **Tools:** visual studio (1)
@@ -507,6 +510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[HTML]] (1)
 > **CLI Commands:** python (3)
 > **Code Identifiers:** latex (3)
 > **Tools:** visual studio (3)
@@ -516,7 +520,7 @@ created: 2026-04-29
 
 ### 2. NumPy Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### NumPy overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980)
@@ -569,8 +573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Linear Algebra]] (1), power (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (2)
 > **Env Vars:** n64 (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [speaker] (1)
@@ -674,8 +678,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), product (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4), make (1)
-> **Code Keywords:** let (4), function (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Versions:** 6.27 (1)
@@ -730,7 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -793,7 +797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), super (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1), power (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Definitions:** is an  (1), is called (1)
 > **Warnings:** note that (1)
@@ -844,7 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** astroml (1), knn (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -905,7 +909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), product (1)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -960,7 +964,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), type. (1), raise (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
@@ -1047,7 +1050,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **Env Vars:** rgb (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [computer (1)
@@ -1055,7 +1057,7 @@ created: 2026-04-29
 
 ### 3. pandas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### pandas overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980)
@@ -1092,6 +1094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (5), [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -1186,7 +1189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), pass (1)
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (4), cloud (1), [[Big Data]] (1), prompt (1)
 > **Env Vars:** csv (7)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** python (1)
@@ -1245,7 +1248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), pass (1), this. (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), data (4), [[JSON]] (1)
 > **Env Vars:** csv (3), json (1), rfc (1)
 > **Code Identifiers:** read_csv (1), parse_dates (1), csv_file (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -1358,7 +1361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), case, (1), pass (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is a  (5)
 > **Ports:** :48 (2)
@@ -1455,7 +1458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), finally, (1)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** times_hour (2), read_csv (1)
 > **Versions:** 4.7 (1)
 > **Definitions:** is an  (1)
@@ -1534,7 +1537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (6), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1550,6 +1553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
@@ -1581,14 +1585,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** read_parquet (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Folium and Geospatial Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an initial map
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980)
@@ -1637,8 +1641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (4), [[HTML]] (3), web (1), [[JavaScript]] (1), [[Pandas (Software)|Pandas]] (1)
 > **File Paths:** leaflet.js (2), track.csv (1), track.html (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** go back to (1)
@@ -1728,7 +1732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), finally, (1), throw (1), while, (1)
+> **Frameworks & Libraries:** data (7), [[HTML]] (1)
 > **Env Vars:** html (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -1873,7 +1877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2), finally, (1), super (1)
+> **Frameworks & Libraries:** data (11), gis (4), prompt (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** gis (4), csv (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** python (1), find (1)
@@ -1891,6 +1895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **File Paths:** track.csv (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1921,14 +1926,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), function (1), finally, (1)
+> **Frameworks & Libraries:** next (1), [[Zoom]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. NYC Taxi Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Examine data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/examine-data?u=76281980)
@@ -1969,7 +1974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **File Paths:** taxi.csv (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** download the (1)
@@ -2021,7 +2026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** taxi.csv (1)
 > **Speakers:** - [instructor] (1)
@@ -2105,7 +2110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** data (11), [[Pandas (Software)|Pandas]] (2), [[Metadata]] (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Env Vars:** csv (2)
 > **Analogies:** for example (2)
@@ -2225,7 +2230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), this. (1), case, (1)
+> **Frameworks & Libraries:** data (6), [[SQL]] (4), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (1)
 > **Env Vars:** sql (4)
 > **Definitions:** stands for (1), is a  (1)
 > **Documentation:** the documentation (1)
@@ -2321,7 +2326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), super (1)
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (4), [[Microsoft Excel|Excel]] (1), [[SQL]] (1), power (1)
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** download the (1)
@@ -2442,7 +2447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), default, (1), match. (1)
+> **Frameworks & Libraries:** data (19), [[Pandas (Software)|Pandas]] (3), [[SQL]] (1)
 > **Env Vars:** csv (3), wdf (1), tmax (1), tmin (1), pdf (1)
 > **File Paths:** weather.csv (1), taxi.csv (1)
 > **UI Navigation:** go to (2)
@@ -2466,6 +2471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
@@ -2536,14 +2542,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), function (1)
+> **Frameworks & Libraries:** data (5), next (3), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [teacher] (1)
 
 
 ### 6. scikit-learn
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### scikit-learn introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980)
@@ -2574,9 +2580,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), api (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** implements (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - scikit (1)
@@ -2810,7 +2816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (4), case, (1), this . (1)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), feature (3), [[Algorithms]] (1), [[Decision Trees]] (1)
 > **Definitions:** is a  (4), is called (2), stands for (1), known as (1), means that (1)
 > **Env Vars:** clf (2), svg (2), dir (1)
 > **CLI Commands:** python (3), make (1)
@@ -2868,7 +2874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** data (13), [[Fetch]] (1)
 > **Versions:** 0.3 (1), 0.8 (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -2957,7 +2963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), finally, (1), pass (1), continue (1)
+> **Frameworks & Libraries:** data (21), [[Algorithms]] (3), [[Pandas (Software)|Pandas]] (3), feature (2)
 > **Definitions:** is a  (3), known as (1), is called (1), stands for (1)
 > **Env Vars:** pca (3), svr (1), svm (1)
 > **Code Identifiers:** fetch_california_housing (1), as_frame (1)
@@ -3036,8 +3042,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (1), prompt (1)
 > **Env Vars:** svr (6), pca (4), svm (1), svrc (1)
-> **Code Keywords:** let (3)
 > **Versions:** 0.9 (2)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -3097,7 +3103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (2), [[Java]] (1), database (1)
 > **CLI Commands:** python (4), make (1)
 > **Env Vars:** pca (1), svr (1)
 > **UI Navigation:** open the (1)
@@ -3150,7 +3156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (4), prompt (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [computer (1)
 
@@ -3181,15 +3187,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **Env Vars:** pca (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Plotting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of matplotlib
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980)
@@ -3218,6 +3224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (1), [[Storytelling]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
@@ -3274,7 +3281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -3387,7 +3394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3)
+> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** load_iris (1)
 > **Documentation:** the documentation (1)
@@ -3456,8 +3463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), data (5), [[Microsoft]] (1), feature (1)
 > **File Paths:** stocks.csv (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** kde (1)
 > **Documentation:** the documentation (1)
@@ -3522,7 +3529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), data (3), [[Microsoft]] (1), api (1), power (1)
 > **Env Vars:** csv (2), msft (1), api (1)
 > **File Paths:** data.py (1), stocks.csv (1)
 > **CLI Commands:** make (1), find (1)
@@ -3580,7 +3587,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), static (1)
 > **Definitions:** is a  (2), is an  (2), we call this (1)
 > **Tools:** jupyter (2)
 > **UI Navigation:** click on (1)
@@ -3661,7 +3667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1)
+> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (2), [[HTML]] (2), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **File Paths:** track.html (1)
@@ -3683,8 +3689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **File Paths:** stocks.csv (1)
-> **Code Keywords:** this. (1)
 > **Code Identifiers:** download_data (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -3718,14 +3724,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [speaker] (1)
 
 
 ### 8. Other Packages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Other packages overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-packages-overview?u=76281980)
@@ -3764,8 +3770,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1), feature (1), data (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** from, (1)
 > **Documentation:** stack overflow (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
@@ -3837,7 +3843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), module (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (1)
 > **Env Vars:** jit (4), llvm (1)
 > **CLI Commands:** python (4)
 > **Versions:** 20.3 (1), 7.6 (1)
@@ -3972,7 +3978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), while. (1)
+> **Frameworks & Libraries:** data (7), [[TensorFlow]] (4), [[Deep Learning]] (3), [[Probability]] (2), [[Neural Networks]] (1)
 > **Code Identifiers:** to_categorical (3), agf5 (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** python (1)
@@ -4038,7 +4044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Image Processing]] (1), [[Algorithms]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Env Vars:** csv (1), bgr (1), rgb (1)
 > **Code Identifiers:** cvtcolor (2)
@@ -4119,10 +4125,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (6), [[spaCy]] (6), [[Python (Programming Language)|Python]] (2), web (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** nlp (6), nltk (1), api (1)
 > **Definitions:** is an  (3), stands for (2), is a  (1)
 > **CLI Commands:** python (2), find (1)
-> **Code Keywords:** case, (1), let (1), else. (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - nlp (1)
@@ -4248,10 +4254,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Pandas (Software)|Pandas]] (7), database (7), [[SQL]] (6), [[Databases]] (3)
 > **Env Vars:** sql (6), csv (2), etl (2), select (1), count (1)
 > **Code Identifiers:** passenger_count (3), vendorid (3), to_sql (2), value_counts (2), read_csv (1)
 > **Definitions:** is an  (2), known as (1), stands for (1), is a  (1), is called (1)
-> **Code Keywords:** let (3), try. (1), continue (1)
 > **CLI Commands:** make (2), python (1)
 > **Analogies:** similar to (1), for example (1)
 > **File Paths:** taxi.csv (1)
@@ -4260,7 +4266,7 @@ created: 2026-04-29
 
 ### 9. Development Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Development process overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/development-process-overview?u=76281980)
@@ -4285,6 +4291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), data (1), product (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4325,6 +4332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (6), [[GitHub]] (1), [[Version Control]] (1), application (1), data (1)
 > **CLI Commands:** git (6), make (1)
 > **Definitions:** is a  (2), known as (1)
 > **Env Vars:** lfs (1), dvc (1)
@@ -4375,9 +4383,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (2), [[Git]] (1), feature (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** find (2), make (2), git (1)
 > **Definitions:** means that (2), is called (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4438,9 +4446,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), feature (1), functional (1), application (1), ci (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** nasa (2)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
@@ -4501,8 +4509,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (2), find (1)
-> **Code Keywords:** function (2), let (1), assert (1)
 > **Prerequisites:** configure (2)
 > **File Paths:** _test.py (1)
 > **Tools:** visual studio (1)
@@ -4513,7 +4521,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/next-steps?u=76281980)
@@ -4532,6 +4540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
 

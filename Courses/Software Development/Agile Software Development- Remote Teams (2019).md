@@ -32,7 +32,7 @@ tags:
   - topic/devops
   - skill/agile-software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Agile%20Software%20Development-%20Remote%20Teams%20(2019).md)
@@ -51,48 +51,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Remote-first culture for agile teams
-  - What you should know
+  - [Remote-first culture for agile teams](#remote-first-culture-for-agile-teams)
+  - [What you should know](#what-you-should-know)
 - [**1. Remote Working**](#1-remote-working) (3 videos)
-  - The rise of remote working
-  - Remote working benefits
-  - Remote working challenges
+  - [The rise of remote working](#the-rise-of-remote-working)
+  - [Remote working benefits](#remote-working-benefits)
+  - [Remote working challenges](#remote-working-challenges)
 - [**2. Collaboration and Conversations**](#2-collaboration-and-conversations) (9 videos)
-  - Remote working models
-  - Remote working models: Colocated
-  - Remote working models: Distributed
-  - Conway's Law: Building a strong communication foundation
-  - The intentionally distributed mindset
-  - Shifting to a digital workspace
-  - The cost of context switching
-  - ChatOps: Integrating your communications
-  - Signal vs. Noise
+  - [Remote working models](#remote-working-models)
+  - [Remote working models: Colocated](#remote-working-models-colocated)
+  - [Remote working models: Distributed](#remote-working-models-distributed)
+  - [Conway's Law: Building a strong communication foundation](#conways-law-building-a-strong-communication-foundation)
+  - [The intentionally distributed mindset](#the-intentionally-distributed-mindset)
+  - [Shifting to a digital workspace](#shifting-to-a-digital-workspace)
+  - [The cost of context switching](#the-cost-of-context-switching)
+  - [ChatOps: Integrating your communications](#chatops-integrating-your-communications)
+  - [Signal vs. Noise](#signal-vs-noise)
 - [**3. Technical Excellence & Security**](#3-technical-excellence-security) (7 videos)
-  - Virtual private networks (VPNs) and firewalls
-  - Encryption and two-factor authentication
-  - Version control: Never run a remote team without it
-  - Methodologies that drive development
-  - Continuous improvement and marginal gains
-  - Continuous integration, delivery, and deployment
-  - Understanding technical debt
+  - [Virtual private networks (VPNs) and firewalls](#virtual-private-networks-vpns-and-firewalls)
+  - [Encryption and two-factor authentication](#encryption-and-two-factor-authentication)
+  - [Version control: Never run a remote team without it](#version-control-never-run-a-remote-team-without-it)
+  - [Methodologies that drive development](#methodologies-that-drive-development)
+  - [Continuous improvement and marginal gains](#continuous-improvement-and-marginal-gains)
+  - [Continuous integration, delivery, and deployment](#continuous-integration-delivery-and-deployment)
+  - [Understanding technical debt](#understanding-technical-debt)
 - [**4. Deploying Early and Often**](#4-deploying-early-and-often) (3 videos)
-  - Atomic commits: One change, one commit
-  - Branching and forking
-  - Code reviews
+  - [Atomic commits: One change, one commit](#atomic-commits-one-change-one-commit)
+  - [Branching and forking](#branching-and-forking)
+  - [Code reviews](#code-reviews)
 - [**5. Hiring, Planning, and Measuring**](#5-hiring-planning-and-measuring) (7 videos)
-  - Creating job descriptions for remote positions
-  - Interviewing and hiring for remote teams
-  - Where's the whiteboard?
-  - Remote whiteboard tools
-  - Remote pairing and mobbing
-  - Remote standups
-  - Remote retrospectives
+  - [Creating job descriptions for remote positions](#creating-job-descriptions-for-remote-positions)
+  - [Interviewing and hiring for remote teams](#interviewing-and-hiring-for-remote-teams)
+  - [Where's the whiteboard?](#wheres-the-whiteboard)
+  - [Remote whiteboard tools](#remote-whiteboard-tools)
+  - [Remote pairing and mobbing](#remote-pairing-and-mobbing)
+  - [Remote standups](#remote-standups)
+  - [Remote retrospectives](#remote-retrospectives)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Remote-first culture for agile teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980)
@@ -127,6 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Software Development]] (2), [[Agile Development|Agile]] (1), [[Programming]] (1), career (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** such as (1)
@@ -150,6 +151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), teams (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - this (1)
@@ -157,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Remote Working
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The rise of remote working
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980)
@@ -230,7 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** teams (3), [[Software Development]] (2), data (2), management (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** in the last (2)
 > **Env Vars:** shrm (1)
 > **Versions:** 2.8 (1)
@@ -295,7 +297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), data (3), [[Accountability]] (1), business (1), next (1)
 > **Versions:** 13.5 (1)
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** set up (1)
@@ -370,7 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), teams (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Programming]] (1)
 > **Env Vars:** fcc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - about (1)
@@ -378,7 +380,7 @@ created: 2026-04-29
 
 ### 2. Collaboration and Conversations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Remote working models
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980)
@@ -405,6 +407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), teams (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ibm (1)
 > **Prerequisites:** setup (1)
@@ -481,6 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), teams (4), business (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -549,8 +553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), teams (3), [[Microsoft Products|Products]] (3), next (1), business (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (2)
 > **Analogies:** such as (1), just like (1)
 > **Tools:** slack (1)
 > **Prerequisites:** set up (1)
@@ -629,7 +633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
+> **Frameworks & Libraries:** teams (4), management (2), [[Design Systems]] (1), product (1), [[Microsoft Office|Office]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - communication (1)
 
@@ -686,8 +690,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), teams (1), next (1), [[Code Review]] (1), [[Slack]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** super (1), finally, (1)
 > **Analogies:** such as (2)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
@@ -775,9 +779,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Slack]] (3), application (1), [[Microsoft Teams]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** such as (6), just like (2), kind of like (2)
 > **Tools:** slack (3), github (1), jira (1), gitlab (1)
-> **Code Keywords:** let (1), this: (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -881,8 +885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), management (1), career (1), [[Windows]] (1), [[Programming]] (1)
 > **Analogies:** just like (2), imagine (1), such as (1)
-> **Code Keywords:** type. (1), case, (1)
 > **Speakers:** - do (1)
 
 #### ChatOps: Integrating your communications
@@ -972,8 +976,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (6), chatbot (3), api (2), [[Automation]] (1), power (1)
 > **Tools:** slack (6), github (1)
-> **Code Keywords:** let (1), require (1), this, (1), else. (1)
 > **Env Vars:** api (2), ifttt (1), http (1)
 > **Analogies:** such as (2), for example (1), just like (1)
 > **Definitions:** short for (1), is a  (1), is an  (1)
@@ -1076,9 +1080,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (4), management (1), [[Microsoft Office|Office]] (1), teams (1), product (1)
 > **Tools:** slack (4)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** let (1), this. (1), override (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** sos (1)
@@ -1088,7 +1092,7 @@ created: 2026-04-29
 
 ### 3. Technical Excellence & Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Virtual private networks (VPNs) and firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/virtual-private-networks-vpns-and-firewalls?u=76281980)
@@ -1135,10 +1139,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), vpn (2), traffic (2), data (1)
 > **Prerequisites:** setup (3), you need to have (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2), just like (1)
-> **Code Keywords:** let (1), private (1)
 > **Env Vars:** vpn (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -1191,6 +1195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (3), web (1), [[Google]] (1), [[Hardware]] (1)
 > **Env Vars:** ssh (2), https (1), http (1), ftp (1), pci (1)
 > **Analogies:** such as (3), for example (1), just like (1)
 > **CLI Commands:** make (2), ssh (2)
@@ -1272,9 +1277,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (4), web (4), [[Git]] (2), [[GitHub]] (2), cloud (2)
 > **Tools:** command line (3), github (2), bitbucket (1), gitlab (1)
 > **CLI Commands:** make (2), git (2), find (1)
-> **Code Keywords:** self (2), let (1), super (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1341,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), require (1), pass (1)
+> **Frameworks & Libraries:** business (7), teams (4), [[Design Thinking]] (3), [[Test-Driven Development]] (3), next (2)
 > **Env Vars:** ddd (3), bdd (2), tdd (2), ideo (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -1418,10 +1423,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), application (1), product (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nasa (1)
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
@@ -1481,6 +1486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), next (2), [[Continuous Integration (CI)|Continuous integration]] (2), teams (2), feature (2)
 > **Definitions:** known as (3), means that (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1543,9 +1549,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Projects]] (1), teams (1), [[Engineering]] (1), next (1), [[Test-Driven Development]] (1)
 > **Analogies:** such as (3), just like (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1553,7 +1559,7 @@ created: 2026-04-29
 
 ### 4. Deploying Early and Often
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Atomic commits: One change, one commit
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/atomic-commits-one-change-one-commit?u=76281980)
@@ -1620,7 +1626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), self (1), pass (1)
+> **Frameworks & Libraries:** [[Git]] (1)
 > **Analogies:** imagine (1), just like (1), such as (1)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** git (1)
@@ -1673,7 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** business (1), [[Software Development]] (1), application (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
@@ -1730,6 +1736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1), [[GitHub]] (1), [[Bitbucket]] (1), career (1), [[Microsoft]] (1)
 > **Tools:** github (1), bitbucket (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1737,12 +1744,11 @@ created: 2026-04-29
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 5. Hiring, Planning, and Measuring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating job descriptions for remote positions
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980)
@@ -1813,9 +1819,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** job description (3), [[Interviewing]] (2), business (1), [[Microsoft Word|Word]] (1), application (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (3), imagine (1)
-> **Code Keywords:** let (1), else. (1), self (1)
 > **URLs:** [remotive.io](https://remotive.io) (1), [remote.co](https://remote.co) (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - one (1)
@@ -1879,10 +1885,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (3), [[Zoom]] (2), next (1), [[GitHub]] (1), [[Google]] (1)
 > **Tools:** slack (3), github (1), notion (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** self (1)
 > **URLs:** [exercism.io](https://exercism.io) (1)
 > **Speakers:** - now (1)
 
@@ -1945,8 +1951,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), teams (1), next (1), business (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), for. (1), finally, (1)
 > **Analogies:** picture (2)
 > **Speakers:** - for (1)
 
@@ -2011,8 +2017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Products|Products]] (2), teams (2), [[Trello]] (2), [[Real-Time]] (1)
 > **Analogies:** such as (2), for example (1), picture (1)
-> **Code Keywords:** for. (1), require (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** find (1)
 > **URLs:** [draw.io](https://draw.io) (1)
@@ -2094,8 +2100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), teams (2), [[Zoom]] (2), next (1), [[Containerization]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** switch (1), this, (1), pass (1), case, (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - when (1)
@@ -2153,8 +2159,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (7), [[Scrum]] (3), [[Slack]] (2), [[Agile Development|Agile]] (1)
 > **Tools:** slack (2)
-> **Code Keywords:** self (1)
 > **Ports:** :00 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - for (1)
@@ -2232,6 +2238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Agile Development|Agile]] (2), data (1), [[Zoom]] (1), next (1)
 > **Definitions:** is a  (3)
 > **Tools:** slack (1)
 > **Analogies:** similar to (1)
@@ -2240,7 +2247,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980)
@@ -2269,6 +2276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Agile Development|Agile]] (2), [[Software Development]] (1), [[WordPress]] (1), [[Microsoft Office|Office]] (1)
 > **URLs:** [buffer.com](https://buffer.com) (1), [wordpress.com](https://wordpress.com) (1), [corgibytes.com](https://corgibytes.com) (1)
 > **Env Vars:** remote (1), pdf (1)
 > **Definitions:** known as (1)

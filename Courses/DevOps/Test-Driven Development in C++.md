@@ -31,7 +31,7 @@ tags:
   - skill/test-driven-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Test-Driven%20Development%20in%20C%2B%2B.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. Overview of Test-Driven Development**](#1-overview-of-test-driven-development) (3 videos)
-  - What is unit testing?
-  - What is test-driven development?
-  - Example: TDD session, the FizzBuzz kata
+  - [What is unit testing?](#what-is-unit-testing)
+  - [What is test-driven development?](#what-is-test-driven-development)
+  - [Example: TDD session, the FizzBuzz kata](#example-tdd-session-the-fizzbuzz-kata)
 - [**2. Setting Up Your Development Environment**](#2-setting-up-your-development-environment) (4 videos)
-  - Set up Google Test with Eclipse
-  - Set up Google Test with Visual Studio
-  - Set up Google Test with CLion
-  - Set up Google Test with Xcode
+  - [Set up Google Test with Eclipse](#set-up-google-test-with-eclipse)
+  - [Set up Google Test with Visual Studio](#set-up-google-test-with-visual-studio)
+  - [Set up Google Test with CLion](#set-up-google-test-with-clion)
+  - [Set up Google Test with Xcode](#set-up-google-test-with-xcode)
 - [**3. Google Test Overview**](#3-google-test-overview) (1 videos)
-  - Google Test
+  - [Google Test](#google-test)
 - [**4. The Supermarket Checkout Kata**](#4-the-supermarket-checkout-kata) (5 videos)
-  - Overview, setup, and the first test case
-  - Add items, add item prices, and calculate the current total
-  - Add multiple items and calculate the total
-  - Add and apply discounts
-  - Throw an exception when adding an item with no price
+  - [Overview, setup, and the first test case](#overview-setup-and-the-first-test-case)
+  - [Add items, add item prices, and calculate the current total](#add-items-add-item-prices-and-calculate-the-current-total)
+  - [Add multiple items and calculate the total](#add-multiple-items-and-calculate-the-total)
+  - [Add and apply discounts](#add-and-apply-discounts)
+  - [Throw an exception when adding an item with no price](#throw-an-exception-when-adding-an-item-with-no-price)
 - [**5. Test Doubles**](#5-test-doubles) (3 videos)
-  - Test doubles overview
-  - Google Mock overview
-  - Google Mock example
+  - [Test doubles overview](#test-doubles-overview)
+  - [Google Mock overview](#google-mock-overview)
+  - [Google Mock example](#google-mock-example)
 - [**6. Test-Drive Development Best Practices**](#6-test-drive-development-best-practices) (1 videos)
-  - Test-driven development best practices
+  - [Test-driven development best practices](#test-driven-development-best-practices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980)
@@ -118,9 +118,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (6), [[Google]] (4), [[Windows]] (4), [[Linux]] (3), [[Unit Testing]] (2)
 > **Env Vars:** ide (3), cdt (1), gnu (1)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** let (1)
 > **Tools:** visual studio (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -128,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Overview of Test-Driven Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is unit testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980)
@@ -215,7 +215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (5), [[Test-Driven Development]] (2), [[Software Testing]] (2), next (2), business (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** cpu (1)
 > **Cross-References:** in the next (1)
@@ -310,8 +310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (5), next (5), [[Unit Testing]] (2), [[JUnit]] (2), [[Programming]] (1)
 > **Env Vars:** tdd (14), called (1)
-> **Code Keywords:** pass (6), case, (2), while, (1), case. (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** xunit (1)
@@ -716,7 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (26), let (21), function (14), case. (11), case, (7)
+> **Frameworks & Libraries:** next (8), [[Google]] (5), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (27)
 > **Code Identifiers:** fizzbuzz (20), ismultiple (3), xunit (1), checkfizzbuzz (1)
 > **Env Vars:** tdd (5), ide (2)
@@ -728,7 +728,7 @@ created: 2026-04-29
 
 ### 2. Setting Up Your Development Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up Google Test with Eclipse
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980)
@@ -949,7 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2), new, (1), assert (1), pass (1)
+> **Frameworks & Libraries:** [[Google]] (30), [[Unit Testing]] (7), [[Windows]] (4), next (4), [[Linux]] (3)
 > **Env Vars:** cdt (5), ide (4), url (2)
 > **Prerequisites:** set up (4), install (4), you'll need (2)
 > **CLI Commands:** make (6), git (2), cd (1)
@@ -1083,8 +1083,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (22), [[Windows]] (6), [[Microsoft]] (2), [[GitHub]] (2), [[Git]] (2)
 > **Tools:** visual studio (11), github (2), command line (1)
-> **Code Keywords:** let (3), assert (2), function (1), include. (1)
 > **Exercise Files:** download the (2), source code (1), zip file (1), clone the repo (1)
 > **CLI Commands:** git (2), make (2)
 > **Env Vars:** url (1), msvc (1), tdd (1)
@@ -1155,9 +1155,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (15), [[Linux]] (2), [[Windows]] (1)
 > **Prerequisites:** set up (4), you'll need (1)
 > **Env Vars:** ide (2), mac (1)
-> **Code Keywords:** assert (1), pass (1)
 > **Code Identifiers:** googletest_test (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1239,6 +1239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (12), [[Xcode]] (10), [[Search]] (3), next (2), [[GitHub]] (2)
 > **Code Identifiers:** gtest_main (3), googletest_test (2)
 > **Prerequisites:** set up (2), you'll need (1)
 > **CLI Commands:** make (1), find (1)
@@ -1246,12 +1247,11 @@ created: 2026-04-29
 > **Tools:** github (2)
 > **UI Navigation:** select the (2)
 > **File Paths:** main.cpp (1)
-> **Code Keywords:** pass (1)
 
 
 ### 3. Google Test Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Test
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980)
@@ -1408,7 +1408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** assert (13), case. (2), class. (1), const (1), pass (1)
+> **Frameworks & Libraries:** [[Google]] (17), next (2), [[Unit Testing]] (1)
 > **Env Vars:** test (2), expect (2), test_f (1), assert (1), tdd (1)
 > **Prerequisites:** setup (3), initialization (1)
 > **Code Identifiers:** gtest_filter (1), gtest_repeat (1), gtest_shuffle (1)
@@ -1420,7 +1420,7 @@ created: 2026-04-29
 
 ### 4. The Supermarket Checkout Kata
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview, setup, and the first test case
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/overview-setup-and-the-first-test-case?u=76281980)
@@ -1535,7 +1535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), class. (3), type, (1), class, (1), include, (1)
+> **Frameworks & Libraries:** [[Google]] (9), next (4)
 > **Env Vars:** tdd (3), cdt (1), gnu (1), test (1), assert_true (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Prerequisites:** set up (2), setup (1)
@@ -1707,7 +1707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (11), let (4), class. (4), case. (3), public (3)
+> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (6)
 > **Env Vars:** tdd (1), ccp (1), cpp (1)
 > **Definitions:** is a  (2)
@@ -1797,7 +1797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), pass (2), case. (1), class, (1)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** checkout (5), additem (3), additemprice (2), calculatetotal (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** assert_eq (1)
@@ -2124,7 +2124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (11), pass (6), case, (5), type, (2)
+> **Frameworks & Libraries:** next (9), [[Search]] (5), data (3)
 > **Non-Speech:** (keyboard sounds) (8)
 > **Definitions:** is a  (5), is called (1), known as (1)
 > **CLI Commands:** make (4), find (1)
@@ -2190,7 +2190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (4), function (2), pass (2), case. (1), assert (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Search]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** cpp (1), tdd (1)
 > **UI Navigation:** go to (2)
@@ -2200,7 +2200,7 @@ created: 2026-04-29
 
 ### 5. Test Doubles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test doubles overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980)
@@ -2281,8 +2281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (5), [[Unit Testing]] (2), database (1), next (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
-> **Code Keywords:** case, (1), public (1), function (1), throw (1), case. (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2378,7 +2378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), class, (1), throw (1)
+> **Frameworks & Libraries:** [[Google]] (9), data (2), next (1)
 > **Code Identifiers:** getdata (8), setdata (2)
 > **Env Vars:** expect_call (5), mock_method (1)
 > **Cross-References:** in the next (1), in the last (1)
@@ -2631,7 +2631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (9), pass (5), class. (5), let (4), case. (4)
+> **Frameworks & Libraries:** [[Google]] (18), data (14), next (4)
 > **Env Vars:** tdd (4), ide (4), expect_call (3), test (2), gnu (1)
 > **Code Identifiers:** adddata (7), mymockobj (5), getdata (4), setdata (1)
 > **CLI Commands:** make (5)
@@ -2643,7 +2643,7 @@ created: 2026-04-29
 
 ### 6. Test-Drive Development Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test-driven development best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-driven-development-best-practices?u=76281980)
@@ -2710,7 +2710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), function (1), this. (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[Unit Testing]] (1), next (1), [[Google]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** gtest_repeat (1), gtest_shuffle (1)
 > **Env Vars:** tdd (2)
@@ -2720,7 +2720,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/next-steps?u=76281980)
@@ -2741,6 +2741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unit Testing]] (4), [[Test-Driven Development]] (3), [[Google]] (2), test-driven (1)
 > **Env Vars:** tdd (1)
 > **Speakers:** - [instructor] (1)
 

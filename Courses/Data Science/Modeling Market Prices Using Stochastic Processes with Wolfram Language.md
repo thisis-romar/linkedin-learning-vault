@@ -30,7 +30,7 @@ tags:
   - skill/wolfram-language
   - skill/financial-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Modeling%20Market%20Prices%20Using%20Stochastic%20Processes%20with%20Wolfram%20Language.md)
@@ -49,23 +49,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Stochastic Processes**](#1-stochastic-processes) (1 videos)
-  - Stochastic processes
+  - [Stochastic processes](#stochastic-processes)
 - [**2. Financial Data Function**](#2-financial-data-function) (1 videos)
-  - Financial data function
+  - [Financial data function](#financial-data-function)
 - [**3. Time Series Model Fit**](#3-time-series-model-fit) (1 videos)
-  - Time series model fit
+  - [Time series model fit](#time-series-model-fit)
 - [**4. Differences**](#4-differences) (1 videos)
-  - Differences
+  - [Differences](#differences)
 - [**5. MapThread**](#5-mapthread) (1 videos)
-  - MapThread
+  - [MapThread](#mapthread)
 - [**6. Hyperbolic Distribution**](#6-hyperbolic-distribution) (1 videos)
-  - Hyperbolic distribution
+  - [Hyperbolic distribution](#hyperbolic-distribution)
 - [**7. Ito Process**](#7-ito-process) (1 videos)
-  - Ito process
+  - [Ito process](#ito-process)
 
 ### 1. Stochastic Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stochastic processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980)
@@ -138,7 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), type, (1), function (1)
+> **Frameworks & Libraries:** data (7), [[Statistics]] (4), [[Probability]] (1), [[Financial Data]] (1)
 > **Env Vars:** arch (2), garch (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** for instance (1), such as (1)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 ### 2. Financial Data Function
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial data function
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980)
@@ -226,14 +226,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), case, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (8), next (2), [[Financial Data]] (1), business (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
 
 
 ### 3. Time Series Model Fit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time series model fit
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980)
@@ -456,7 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (2), case, (2)
+> **Frameworks & Libraries:** data (10), [[Google]] (4), [[Microsoft]] (2), next (1), business (1)
 > **Definitions:** is a  (9)
 > **CLI Commands:** make (2)
 > **Env Vars:** arma (1), arima (1)
@@ -465,7 +465,7 @@ created: 2026-04-29
 
 ### 4. Differences
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Differences
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/differences?u=76281980)
@@ -594,7 +594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), this, (3), lambda (2), this. (1)
+> **Frameworks & Libraries:** data (3), next (2)
 > **Env Vars:** arch (4), garch (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
@@ -605,7 +605,7 @@ created: 2026-04-29
 
 ### 5. MapThread
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MapThread
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980)
@@ -720,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this. (2), let (2)
+> **Frameworks & Libraries:** data (4), [[Probability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), in other words (1), means that (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** aic (1)
@@ -730,7 +730,7 @@ created: 2026-04-29
 
 ### 6. Hyperbolic Distribution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hyperbolic distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980)
@@ -1127,7 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (9), this. (4), var (4), for, (1)
+> **Frameworks & Libraries:** data (17), product (5), [[Representational State Transfer (REST)|Rest]] (4), next (2), [[Probability]] (1)
 > **Env Vars:** arma (7), arch (6), pdf (3), matlab (1), nrg (1)
 > **Definitions:** is a  (6), is an  (1), in other words (1)
 > **CLI Commands:** find (5), make (1)
@@ -1137,7 +1137,7 @@ created: 2026-04-29
 
 ### 7. Ito Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ito process
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980)
@@ -1336,7 +1336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (9), this. (8), function (8), let (7), for, (1)
+> **Frameworks & Libraries:** data (3), [[Calculus]] (2), [[Mesh]] (1)
 > **Definitions:** is a  (5), is an  (3), is called (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** imagine (3), for instance (1)

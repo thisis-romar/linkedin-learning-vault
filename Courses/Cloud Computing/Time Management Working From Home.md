@@ -27,7 +27,7 @@ tags:
   - skill/time-management
   - skill/virtual-work
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Time%20Management%20Working%20From%20Home.md)
@@ -46,34 +46,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Making working from home work
-  - What you should know before watching
+  - [Making working from home work](#making-working-from-home-work)
+  - [What you should know before watching](#what-you-should-know-before-watching)
 - [**1. Establishing Your Home Base**](#1-establishing-your-home-base) (4 videos)
-  - Create a productive workspace
-  - Identify visual and audible distractions
-  - Applying the processing technique at home
-  - Utilize the best technology
+  - [Create a productive workspace](#create-a-productive-workspace)
+  - [Identify visual and audible distractions](#identify-visual-and-audible-distractions)
+  - [Applying the processing technique at home](#applying-the-processing-technique-at-home)
+  - [Utilize the best technology](#utilize-the-best-technology)
 - [**2. Crafting Your Schedule**](#2-crafting-your-schedule) (4 videos)
-  - Keep work hours in balance
-  - Find your peak productivity time
-  - Plan meaningful breaks
-  - Adjust when schedules collide
+  - [Keep work hours in balance](#keep-work-hours-in-balance)
+  - [Find your peak productivity time](#find-your-peak-productivity-time)
+  - [Plan meaningful breaks](#plan-meaningful-breaks)
+  - [Adjust when schedules collide](#adjust-when-schedules-collide)
 - [**3. Communicating Productively**](#3-communicating-productively) (5 videos)
-  - Determine your company's ground rules
-  - Best practices for virtual meetings
-  - How to work across time zones
-  - Responding to quick questions
-  - Productivity and co-worker relationships
+  - [Determine your company's ground rules](#determine-your-companys-ground-rules)
+  - [Best practices for virtual meetings](#best-practices-for-virtual-meetings)
+  - [How to work across time zones](#how-to-work-across-time-zones)
+  - [Responding to quick questions](#responding-to-quick-questions)
+  - [Productivity and co-worker relationships](#productivity-and-co-worker-relationships)
 - [**4. Considerations for Working Parents and Caregivers**](#4-considerations-for-working-parents-and-caregivers) (3 videos)
-  - Build boundaries with loved ones
-  - Manage interruptions and emergencies
-  - The power of having fun with loved ones
+  - [Build boundaries with loved ones](#build-boundaries-with-loved-ones)
+  - [Manage interruptions and emergencies](#manage-interruptions-and-emergencies)
+  - [The power of having fun with loved ones](#the-power-of-having-fun-with-loved-ones)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Choose one action to take today
+  - [Choose one action to take today](#choose-one-action-to-take-today)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making working from home work
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/making-working-from-home-work?u=76281980)
@@ -102,6 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - working (1)
 
@@ -136,15 +137,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), next (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Establishing Your Home Base
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a productive workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980)
@@ -249,8 +250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Microsoft Office|Office]] (2), [[Representational State Transfer (REST)|Rest]] (1), traffic (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** public (2), else. (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), such as (1)
 > **Speakers:** - when (1)
@@ -338,8 +339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), management (1), functional (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** type, (1), let (1)
 > **Definitions:** is an  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - staying (1)
@@ -439,10 +440,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), career (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **Analogies:** such as (2), for example (2), for instance (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
@@ -540,15 +541,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), career (2), management (1), next (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (1), continue (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - time (1)
 
 
 ### 2. Crafting Your Schedule
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep work hours in balance
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980)
@@ -669,8 +670,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Office|Office]] (1)
 > **Ports:** :30 (7), :00 (3), :25 (1)
-> **Code Keywords:** let (6), function (1), extends (1), public (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), for instance (1)
@@ -749,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (1), extends (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), management (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -851,7 +852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), break. (1), break, (1), this, (1)
+> **Frameworks & Libraries:** power (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -934,7 +935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** next (4), management (2), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **Ports:** :00 (2)
 > **CLI Commands:** make (1)
@@ -944,7 +945,7 @@ created: 2026-04-29
 
 ### 3. Communicating Productively
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine your company's ground rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/determine-your-company-s-ground-rules?u=76281980)
@@ -1029,8 +1030,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** case, (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - often (1)
 
@@ -1113,11 +1114,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Microsoft Office|Office]] (2), next (1)
 > **CLI Commands:** make (9)
 > **Definitions:** means that (3), in other words (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **Warnings:** heads up (2), be aware (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** general rule (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
@@ -1181,7 +1182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), management (1), [[Microsoft Outlook|Outlook]] (1), [[Google]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Ports:** :00 (3)
 > **Analogies:** such as (1), for instance (1)
@@ -1269,7 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), business (1)
 > **Definitions:** means that (1), is an  (1)
 > **Cross-References:** we mentioned (1)
 > **Analogies:** such as (1)
@@ -1358,6 +1359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** such as (1), picture (1), for instance (1)
 > **Warnings:** be aware (2)
@@ -1367,7 +1369,7 @@ created: 2026-04-29
 
 ### 4. Considerations for Working Parents and Caregivers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build boundaries with loved ones
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/build-boundaries-with-loved-ones-14790533?u=76281980)
@@ -1449,7 +1451,6 @@ created: 2026-04-29
 > **CLI Commands:** find (3), make (2), cat (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (1), for instance (1), such as (1)
-> **Code Keywords:** break, (1)
 > **Ports:** :00 (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - working (1)
@@ -1552,7 +1553,6 @@ created: 2026-04-29
 > **Ports:** :00 (2), :30 (2)
 > **Analogies:** for instance (3), for example (1)
 > **CLI Commands:** make (2), cat (1)
-> **Code Keywords:** self (1), let (1), switch (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - if (1)
 
@@ -1645,8 +1645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), power (1), career (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1655,7 +1655,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose one action to take today
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/choose-one-action-to-take-today?u=76281980)
@@ -1686,6 +1686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3)
 > **URLs:** [davecrenshaw.com](https://davecrenshaw.com) (1)
 > **Speakers:** - congratulations (1)
 

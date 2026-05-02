@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Operationalizing%20AI%20Governance-%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.md)
@@ -51,12 +51,12 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Operationalizing AI Governance**](#operationalizing-ai-governance) (2 videos)
-  - Strategy and foundations
-  - Execution and scaling
+  - [Strategy and foundations](#strategy-and-foundations)
+  - [Execution and scaling](#execution-and-scaling)
 
 ### Operationalizing AI Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategy and foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980)
@@ -283,7 +283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), break. (1), case. (1), public (1)
+> **Frameworks & Libraries:** ai (35), [[Security]] (8), [[Privacy]] (7), business (6), product (6)
 > **Env Vars:** mrm (4), kpi (2), llm (1), rai (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
@@ -438,8 +438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (28), teams (3), data (2), [[NIST]] (2), rmf (2)
 > **Env Vars:** tevv (3), nist (2), rmf (2), raci (1), iso (1)
-> **Code Keywords:** public (2), let (1), self (1), case, (1), pass (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 

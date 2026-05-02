@@ -31,7 +31,7 @@ tags:
   - skill/asp-net-core
   - skill/web-application-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Securing%20ASP.NET%20Core%20Apps-%20Advanced%20Techniques%20for%20Web%20Application%20Security.md)
@@ -50,35 +50,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Secure your .NET Core apps
-  - What you should know
+  - [Secure your .NET Core apps](#secure-your-net-core-apps)
+  - [What you should know](#what-you-should-know)
 - [**1. Common Vulnerabilities in Apps**](#1-common-vulnerabilities-in-apps) (6 videos)
-  - Common security vulnerabilities
-  - Injection attack
-  - File upload attack
-  - Authentication attack
-  - XSS and CSRF attack
-  - CORS attack
+  - [Common security vulnerabilities](#common-security-vulnerabilities)
+  - [Injection attack](#injection-attack)
+  - [File upload attack](#file-upload-attack)
+  - [Authentication attack](#authentication-attack)
+  - [XSS and CSRF attack](#xss-and-csrf-attack)
+  - [CORS attack](#cors-attack)
 - [**2. Securing .NET Web Applications with Authentication**](#2-securing-net-web-applications-with-authentication) (8 videos)
-  - What is authentication?
-  - Identity on ASP.NET Core
-  - Simple authentication with [Authorize] attribute
-  - Cookie-based authentication
-  - Social media provider authentication
-  - Email account verification
-  - API-key authentication
-  - Token-based authentication
+  - [What is authentication?](#what-is-authentication)
+  - [Identity on ASP.NET Core](#identity-on-aspnet-core)
+  - [Simple authentication with [Authorize] attribute](#simple-authentication-with-authorize-attribute)
+  - [Cookie-based authentication](#cookie-based-authentication)
+  - [Social media provider authentication](#social-media-provider-authentication)
+  - [Email account verification](#email-account-verification)
+  - [API-key authentication](#api-key-authentication)
+  - [Token-based authentication](#token-based-authentication)
 - [**3. Securing .NET Web API Applications with Authorization**](#3-securing-net-web-api-applications-with-authorization) (4 videos)
-  - What is authorization?
-  - Simple role-based authorization
-  - Claims-based authorization
-  - Resource-based authorization
+  - [What is authorization?](#what-is-authorization)
+  - [Simple role-based authorization](#simple-role-based-authorization)
+  - [Claims-based authorization](#claims-based-authorization)
+  - [Resource-based authorization](#resource-based-authorization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go next?
+  - [Where to go next?](#where-to-go-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure your .NET Core apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980)
@@ -101,8 +101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), data (2), web (1), [[ASP.NET]] (1)
 > **Env Vars:** net (3), asp (1)
-> **Code Keywords:** let (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [ervis] (1)
 
@@ -127,11 +127,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[ASP.NET MVC]] (1), [[ASP.NET Web API]] (1), [[Programming]] (1)
 > **Env Vars:** net (6), asp (2), mvc (1), api (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Best Practices:** recommended (2)
-> **Code Keywords:** let (1)
 > **Versions:** 7.0 (1)
 > **Tools:** visual studio (1)
 > **Prerequisites:** before we start (1)
@@ -139,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Common Vulnerabilities in Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common security vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980)
@@ -196,8 +196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Security]] (3), [[SQL]] (3), next (3), data (2)
 > **Env Vars:** ldap (4), sql (3), crlf (2), http (1), pdf (1)
-> **Code Keywords:** let (3)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
@@ -308,8 +308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), database (5), application (2), [[Search]] (2), web (1)
 > **Env Vars:** sql (8), drop (4), table (4), ldap (2), clrf (1)
-> **Code Keywords:** let (12), delete (1)
 > **Code Identifiers:** userid (12)
 > **SQL:** drop table (4)
 > **UI Navigation:** go to (4)
@@ -476,7 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), require (1), pass (1), var (1), from, (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[JavaScript]] (2), next (2), web (1), web application (1)
 > **Env Vars:** pdf (13), json (3), txt (2), png (1), api (1)
 > **Analogies:** for example (3), imagine (2), picture (1)
 > **UI Navigation:** go to (3), select the (1)
@@ -518,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), try. (1), match. (1)
+> **Frameworks & Libraries:** web (1), [[Phishing]] (1), application (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** mfa (1)
@@ -583,9 +583,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Scripting]] (3), web application (3), [[Search]] (3), game (3)
 > **Env Vars:** csrf (3), xss (2), html (1), url (1), api (1)
 > **Analogies:** for example (3), such as (1), imagine (1)
-> **Code Keywords:** let (2), require (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
@@ -618,8 +618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), application (1)
 > **Env Vars:** cors (5), api (3)
-> **Code Keywords:** let (7)
 > **UI Navigation:** go to (2), navigate to (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **URLs:** [example.com](https://example.com) (1)
@@ -630,7 +630,7 @@ created: 2026-04-29
 
 ### 2. Securing .NET Web Applications with Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980)
@@ -657,7 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[LinkedIn]] (1), api (1)
 > **Env Vars:** net (1), api (1)
 > **Definitions:** in other words (1), means that (1)
 > **Analogies:** for example (1)
@@ -756,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ASP.NET]] (6), next (4), api (3), database (3), management (2)
 > **Env Vars:** net (9), asp (7), mvc (6), api (3), sql (1)
-> **Code Keywords:** let (8), type, (2), default, (2), this. (1), continue (1)
 > **URLs:** [asp.net](https://asp.net) (7), [lastname.com](https://lastname.com) (1), [trupja.com](https://trupja.com) (1)
 > **UI Navigation:** go to (4), select the (1)
 > **Analogies:** such as (2), just like (1)
@@ -870,7 +870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), throw (1), continue (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), data (6), [[Microsoft]] (4), database (3), [[JSON]] (2)
 > **UI Navigation:** go to (10), open the (1), navigate to (1)
 > **Env Vars:** asp (1), net (1), mssql (1), sql (1), run (1)
 > **URLs:** [trupja.com](https://trupja.com) (2), [asp.net](https://asp.net) (1)
@@ -1012,8 +1012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ASP.NET]] (4), data (2), application (2), [[Search]] (1), [[ASP.NET Core]] (1)
 > **UI Navigation:** go to (13), right-click (2), checkbox (2), select the (1)
-> **Code Keywords:** let (9), case, (2), type, (1), default. (1), this. (1)
 > **Env Vars:** asp (5), net (5)
 > **URLs:** [asp.net](https://asp.net) (5), [trupja.com](https://trupja.com) (1)
 > **Definitions:** is an  (1), we call this (1), is a  (1), means that (1)
@@ -1144,7 +1144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), continue (3), type, (1)
+> **Frameworks & Libraries:** [[Google]] (15), [[LinkedIn]] (3), [[JSON]] (3), next (2), application (2)
 > **UI Navigation:** go to (12), click on (1), navigate to (1), dropdown (1), select the (1)
 > **Env Vars:** mvc (2), api (1), url (1), json (1)
 > **Prerequisites:** install (3), set up (2)
@@ -1372,7 +1372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (31), interface (3), var (2), from. (1), await (1)
+> **Frameworks & Libraries:** api (13), [[Microsoft Outlook|Outlook]] (5), [[HTML]] (4), [[Search]] (2), [[Security]] (1)
 > **Env Vars:** api (13), html (4), mvc (3), msg (1), url (1)
 > **UI Navigation:** go to (15), scroll down (3), select the (2), dropdown (1), open the (1)
 > **Prerequisites:** install (3), configure (1)
@@ -1490,8 +1490,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (31), data (3), database (3), application (1), [[Statistics]] (1)
 > **Env Vars:** api (31), http (1)
-> **Code Keywords:** let (12), override (2), var (2), class. (1), public (1)
 > **Code Identifiers:** apikey (5), apikeyvalue (4)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **CLI Commands:** make (1), find (1)
@@ -1534,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[ASP.NET Core]] (1), [[LinkedIn]] (1)
 > **Env Vars:** asp (1), net (1)
 > **CLI Commands:** find (1)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -1545,7 +1545,7 @@ created: 2026-04-29
 
 ### 3. Securing .NET Web API Applications with Authorization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is authorization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980)
@@ -1576,7 +1576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[ASP.NET]] (1)
 > **Env Vars:** asp (1), net (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Definitions:** in other words (1)
@@ -1625,7 +1625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (4), delete (1), require (1)
+> **Frameworks & Libraries:** api (7), data (4), [[Microsoft]] (1)
 > **Env Vars:** api (7), net (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -1862,7 +1862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), require (9), super (6), class. (3), override (3)
+> **Frameworks & Libraries:** api (6), database (2), [[Microsoft Word|Word]] (1), [[Search]] (1), next (1)
 > **UI Navigation:** go to (10), scroll down (2), scroll up (1)
 > **Env Vars:** api (6)
 > **Definitions:** is a  (2), means that (1), is an  (1)
@@ -1934,7 +1934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class, (4), class. (3), override (2), interface (1)
+> **Frameworks & Libraries:** api (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** api (1)
@@ -1944,7 +1944,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980)
@@ -1973,9 +1973,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[LinkedIn]] (3), [[ASP.NET]] (2), application (2), [[Security]] (1)
 > **Env Vars:** net (5), asp (2), api (1), mvc (1)
 > **URLs:** [asp.net](https://asp.net) (2)
-> **Code Keywords:** case, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [ervis] (1)
 

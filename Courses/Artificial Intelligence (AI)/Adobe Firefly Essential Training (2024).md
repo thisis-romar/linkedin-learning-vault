@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Adobe%20Firefly%20Essential%20Training%20(2024).md)
@@ -51,73 +51,73 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Adobe Firefly essentials
-  - The age of AI-driven design
+  - [Adobe Firefly essentials](#adobe-firefly-essentials)
+  - [The age of AI-driven design](#the-age-of-ai-driven-design)
 - [**1. Firefly for Creatives**](#1-firefly-for-creatives) (3 videos)
-  - How does Firefly fit in Creative Cloud?
-  - How does Firefly differ from other generative art solutions?
-  - Is Firefly free?
+  - [How does Firefly fit in Creative Cloud?](#how-does-firefly-fit-in-creative-cloud)
+  - [How does Firefly differ from other generative art solutions?](#how-does-firefly-differ-from-other-generative-art-solutions)
+  - [Is Firefly free?](#is-firefly-free)
 - [**2. Turning Descriptions into Images**](#2-turning-descriptions-into-images) (9 videos)
-  - Introducing Text to Image on the web
-  - Creating your very first text prompt
-  - Understanding the difference between Firefly models
-  - Text prompt best practices
-  - Using content types and styles
-  - Finding similar images and saving favorites
-  - Sharing prompts with others
-  - Challenge: Pencil drawing
-  - Solution: Pencil drawing
+  - [Introducing Text to Image on the web](#introducing-text-to-image-on-the-web)
+  - [Creating your very first text prompt](#creating-your-very-first-text-prompt)
+  - [Understanding the difference between Firefly models](#understanding-the-difference-between-firefly-models)
+  - [Text prompt best practices](#text-prompt-best-practices)
+  - [Using content types and styles](#using-content-types-and-styles)
+  - [Finding similar images and saving favorites](#finding-similar-images-and-saving-favorites)
+  - [Sharing prompts with others](#sharing-prompts-with-others)
+  - [Challenge: Pencil drawing](#challenge-pencil-drawing)
+  - [Solution: Pencil drawing](#solution-pencil-drawing)
 - [**3. Using Advanced Settings**](#3-using-advanced-settings) (7 videos)
-  - Setting colors, lighting, and composition
-  - Using a Structure reference
-  - Creating your own Structure reference
-  - Using a Style reference
-  - Bringing it all together
-  - Challenge: Creating a Structure reference
-  - Solution: Creating a Structure reference
+  - [Setting colors, lighting, and composition](#setting-colors-lighting-and-composition)
+  - [Using a Structure reference](#using-a-structure-reference)
+  - [Creating your own Structure reference](#creating-your-own-structure-reference)
+  - [Using a Style reference](#using-a-style-reference)
+  - [Bringing it all together](#bringing-it-all-together)
+  - [Challenge: Creating a Structure reference](#challenge-creating-a-structure-reference)
+  - [Solution: Creating a Structure reference](#solution-creating-a-structure-reference)
 - [**4. Image Magic with Generative Fill**](#4-image-magic-with-generative-fill) (8 videos)
-  - Introducing Generative Fill
-  - Inserting objects and subjects
-  - Replacing image backgrounds
-  - Removing subjects from an image
-  - The importance of selections
-  - Introducing Generative Expand
-  - Challenge
-  - Solution
+  - [Introducing Generative Fill](#introducing-generative-fill)
+  - [Inserting objects and subjects](#inserting-objects-and-subjects)
+  - [Replacing image backgrounds](#replacing-image-backgrounds)
+  - [Removing subjects from an image](#removing-subjects-from-an-image)
+  - [The importance of selections](#the-importance-of-selections)
+  - [Introducing Generative Expand](#introducing-generative-expand)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**5. Using Firefly in Adobe Photoshop**](#5-using-firefly-in-adobe-photoshop) (8 videos)
-  - Using Generative Fill
-  - Generating images
-  - Generating backgrounds
-  - Using Generative Expand
-  - Knowing Generative Fill's limitation
-  - Using a reference image
-  - Challenge: Adventure
-  - Solution: Adventure
+  - [Using Generative Fill](#using-generative-fill)
+  - [Generating images](#generating-images)
+  - [Generating backgrounds](#generating-backgrounds)
+  - [Using Generative Expand](#using-generative-expand)
+  - [Knowing Generative Fill's limitation](#knowing-generative-fills-limitation)
+  - [Using a reference image](#using-a-reference-image)
+  - [Challenge: Adventure](#challenge-adventure)
+  - [Solution: Adventure](#solution-adventure)
 - [**6. Using Firefly in Adobe Express**](#6-using-firefly-in-adobe-express) (6 videos)
-  - Introducing Adobe Firefly in Adobe Express
-  - Using text effects in Adobe Express
-  - Setting additional text options
-  - Creating design templates with Text to Template
-  - Challenge: Milkshakes
-  - Solution: Milkshakes
+  - [Introducing Adobe Firefly in Adobe Express](#introducing-adobe-firefly-in-adobe-express)
+  - [Using text effects in Adobe Express](#using-text-effects-in-adobe-express)
+  - [Setting additional text options](#setting-additional-text-options)
+  - [Creating design templates with Text to Template](#creating-design-templates-with-text-to-template)
+  - [Challenge: Milkshakes](#challenge-milkshakes)
+  - [Solution: Milkshakes](#solution-milkshakes)
 - [**7. Using Firefly in Adobe Illustrator**](#7-using-firefly-in-adobe-illustrator) (6 videos)
-  - Introducing Text to Vector Graphic
-  - Creating your first vector graphic
-  - Controlling styles
-  - Introducing Generative Recolor in Illustrator
-  - Challenge: Text to vectors
-  - Solution: Text to vectors
+  - [Introducing Text to Vector Graphic](#introducing-text-to-vector-graphic)
+  - [Creating your first vector graphic](#creating-your-first-vector-graphic)
+  - [Controlling styles](#controlling-styles)
+  - [Introducing Generative Recolor in Illustrator](#introducing-generative-recolor-in-illustrator)
+  - [Challenge: Text to vectors](#challenge-text-to-vectors)
+  - [Solution: Text to vectors](#solution-text-to-vectors)
 - [**8. Ethical Generative AI**](#8-ethical-generative-ai) (3 videos)
-  - AI-generated images and ethics
-  - Downloading images and viewing content credentials
-  - Verifying content credentials from external parties
+  - [AI-generated images and ethics](#ai-generated-images-and-ethics)
+  - [Downloading images and viewing content credentials](#downloading-images-and-viewing-content-credentials)
+  - [Verifying content credentials from external parties](#verifying-content-credentials-from-external-parties)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Where to go from here
-  - Goodbye
+  - [Where to go from here](#where-to-go-from-here)
+  - [Goodbye](#goodbye)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adobe Firefly essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/adobe-firefly-essentials?u=76281980)
@@ -128,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Firefly for Creatives
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How does Firefly fit in Creative Cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980)
@@ -247,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (3), case, (1), match, (1), interface (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (6), web (4), prompt (4), [[Adobe Creative Cloud]] (2), product (2)
 > **Analogies:** for example (4), picture (1), imagine (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** select the (1)
@@ -317,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), interface (1), public (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (5), database (3), prompt (3), cloud (1), application (1)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -357,14 +357,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Adobe Firefly]] (3), express (2), next (1), [[Adobe Creative Cloud]] (1), cloud (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Turning Descriptions into Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Text to Image on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980)
@@ -403,7 +403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** prompt (4), [[Adobe Firefly]] (3), web (1), cloud (1), hit (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** navigate to (1), scroll down (1)
 > **URLs:** [adobe.com](https://adobe.com) (1)
@@ -532,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (2), default, (1), switch (1), case, (1)
+> **Frameworks & Libraries:** prompt (15), [[Adobe Firefly]] (2), hit (1), [[Adobe Creative Cloud]] (1), express (1)
 > **Analogies:** for example (6), it's like (1)
 > **Definitions:** is a  (4), means that (2)
 > **CLI Commands:** make (3)
@@ -597,7 +597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), for. (1), let (1), default, (1)
+> **Frameworks & Libraries:** prompt (6), [[Adobe Firefly]] (3), data (1), web (1), express (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -729,8 +729,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (7), [[Adobe Firefly]] (2), [[Adobe Photoshop]] (1), generic (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (3), while, (1)
 > **Analogies:** for example (3), picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -858,7 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), for. (4), this, (2), default, (1), switch (1)
+> **Frameworks & Libraries:** prompt (6), hit (2), [[Adobe Firefly]] (2), next (1), power (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3)
 > **Definitions:** means that (2), is a  (1)
@@ -979,7 +979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (1), this. (1)
+> **Frameworks & Libraries:** prompt (9), [[Microsoft Word|Word]] (3), [[Adobe Firefly]] (2), next (2), web (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** just like (1), kind of like (1), similar to (1), for example (1)
 > **Cross-References:** go back to (2)
@@ -1035,8 +1035,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), [[Adobe Photoshop]] (1), [[Adobe Firefly]] (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** imagine (1)
@@ -1106,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), for, (1), default. (1), this, (1)
+> **Frameworks & Libraries:** prompt (2), [[Windows]] (1), hit (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** switch to (1)
 > **Analogies:** picture (1)
@@ -1116,7 +1116,7 @@ created: 2026-04-29
 
 ### 3. Using Advanced Settings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting colors, lighting, and composition
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-colors-lighting-and-composition?u=76281980)
@@ -1249,7 +1249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), for, (1), this, (1)
+> **Frameworks & Libraries:** prompt (12), express (3), [[Adobe Firefly]] (1), next (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (3)
@@ -1400,7 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), abstract (4), this. (2), type, (1), for, (1)
+> **Frameworks & Libraries:** prompt (9), feature (1), [[Adobe Firefly]] (1)
 > **Definitions:** is a  (6), basically means (1)
 > **Analogies:** for example (2), imagine (1), picture (1)
 > **CLI Commands:** make (3)
@@ -1544,7 +1544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (2), this, (1), this. (1), export, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), prompt (4), hit (2), [[Adobe Firefly]] (2), [[Adobe Photoshop]] (1)
 > **CLI Commands:** make (4), yarn (1)
 > **UI Navigation:** select the (1), drag and drop (1), scroll down (1)
 > **Env Vars:** ppi (1), jpeg (1)
@@ -1632,7 +1632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from. (1), abstract (1)
+> **Frameworks & Libraries:** prompt (13), [[Adobe Firefly]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** find (1), make (1)
@@ -1737,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), continue (1)
+> **Frameworks & Libraries:** prompt (14), next (4), [[Adobe Firefly]] (3), hit (1)
 > **Warnings:** keep in mind (4)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), drag and drop (1)
@@ -1775,6 +1775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), feature (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1786,7 +1787,7 @@ created: 2026-04-29
 
 ### 4. Image Magic with Generative Fill
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Generative Fill
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980)
@@ -1837,7 +1838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1), super (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1), prompt (1), [[Generative AI]] (1), ai (1), [[Graphic Design]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Definitions:** is a  (1)
@@ -1996,7 +1997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), interface (3), this, (1), from. (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1), prompt (1)
 > **Definitions:** is a  (5), means that (2)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (3)
@@ -2169,7 +2170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this, (1), this. (1), return. (1), for. (1)
+> **Frameworks & Libraries:** prompt (4), hit (3), [[Microsoft Word|Word]] (1), career (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1)
@@ -2297,7 +2298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1), interface (1), switch (1), this, (1)
+> **Frameworks & Libraries:** hit (2), next (1), ai (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Definitions:** means that (1), is a  (1)
@@ -2393,7 +2394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), this, (2), for. (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (1), hit (1), prompt (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -2532,7 +2533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), delete (1)
+> **Frameworks & Libraries:** prompt (5), feature (2), hit (2), [[Adobe Firefly]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -2595,7 +2596,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (2)
 > **Tools:** safari (2)
 > **UI Navigation:** go to (1)
@@ -2608,7 +2608,7 @@ created: 2026-04-29
 
 ### 5. Using Firefly in Adobe Photoshop
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Generative Fill
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-fill?u=76281980)
@@ -2693,7 +2693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (4), this, (1)
+> **Frameworks & Libraries:** prompt (5), [[Adobe Firefly]] (2), feature (2), [[Adobe Photoshop]] (2), cloud (2)
 > **Warnings:** be careful (2), keep in mind (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (1), is a  (1)
@@ -2815,7 +2815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), for. (1), case, (1), default. (1)
+> **Frameworks & Libraries:** prompt (5), [[Adobe Photoshop]] (3), [[Adobe Firefly]] (1), web (1), [[Zoom]] (1)
 > **Definitions:** means that (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -2889,7 +2889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), return, (1), match, (1)
+> **Frameworks & Libraries:** feature (1), [[Adobe Photoshop]] (1), prompt (1), ai (1), hit (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2967,7 +2967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (2), from. (2), this. (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Adobe Photoshop]] (2), hit (1), prompt (1), [[Zoom]] (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **Env Vars:** ctrl (2)
 > **UI Navigation:** switch to (1), go to (1)
@@ -3100,7 +3100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (1), delete (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), prompt (3), [[Adobe Firefly]] (3), next (2), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** version 3 (1)
 > **Cross-References:** go back to (1)
@@ -3218,8 +3218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), prompt (2), [[Adobe Photoshop]] (1)
 > **CLI Commands:** make (8), find (2)
-> **Code Keywords:** let (7), return, (1), return. (1)
 > **Analogies:** for example (4)
 > **Tools:** safari (1)
 > **Definitions:** in other words (1)
@@ -3372,7 +3372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), return. (1), return, (1)
+> **Frameworks & Libraries:** hit (3), next (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be careful (1), keep in mind (1)
 > **Cross-References:** go back to (1)
@@ -3384,7 +3384,7 @@ created: 2026-04-29
 
 ### 6. Using Firefly in Adobe Express
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Adobe Firefly in Adobe Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-adobe-firefly-in-adobe-express?u=76281980)
@@ -3502,7 +3502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** express (3), [[Microsoft Word|Word]] (1), next (1)
 > **UI Navigation:** scroll down (2), navigate to (1), select the (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -3600,7 +3600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (1), default, (1), this. (1), delete (1)
+> **Frameworks & Libraries:** express (8), prompt (1), hit (1), [[Microsoft Word|Word]] (1), [[Adobe Photoshop]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** ice (1), cold (1), png (1)
 > **Analogies:** for example (3)
@@ -3683,7 +3683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), this, (1), else. (1)
+> **Frameworks & Libraries:** express (7), feature (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
@@ -3729,8 +3729,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), express (2), [[Adobe Photoshop]] (1)
 > **CLI Commands:** yum (5)
-> **Code Keywords:** for, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright music) (1)
@@ -3778,7 +3778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1), this, (1)
+> **Frameworks & Libraries:** express (2), [[Microsoft Word|Word]] (2), [[Vanilla]] (2)
 > **CLI Commands:** yum (1), find (1)
 > **Env Vars:** yum (1), png (1)
 > **Analogies:** for example (1), kind of like (1)
@@ -3788,7 +3788,7 @@ created: 2026-04-29
 
 ### 7. Using Firefly in Adobe Illustrator
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Text to Vector Graphic
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980)
@@ -3883,7 +3883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (3), switch (2), from. (1), else. (1)
+> **Frameworks & Libraries:** feature (4), [[Adobe Firefly]] (3), prompt (2), next (2), ai (1)
 > **Analogies:** for example (4), just like (2)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (2)
@@ -4007,7 +4007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (3), else. (1), delete (1), else, (1)
+> **Frameworks & Libraries:** prompt (4), hit (2), [[Adobe Firefly]] (1), next (1)
 > **Analogies:** imagine (2), kind of like (2), for example (1)
 > **CLI Commands:** make (2), snap (1)
 > **Warnings:** keep in mind (3)
@@ -4135,7 +4135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), delete (1), switch (1), case, (1)
+> **Frameworks & Libraries:** prompt (6), hit (3), next (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Analogies:** picture (2), for example (1)
 > **UI Navigation:** switch to (1)
@@ -4272,7 +4272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), from. (1), return, (1), this. (1), else. (1)
+> **Frameworks & Libraries:** prompt (2), hit (2), ai (2), feature (1), [[Windows]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
@@ -4314,7 +4314,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -4369,7 +4368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), from. (1)
+> **Frameworks & Libraries:** prompt (2), next (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -4378,7 +4377,7 @@ created: 2026-04-29
 
 ### 8. Ethical Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-generated images and ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980)
@@ -4423,6 +4422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Adobe Firefly]] (3), [[Metadata]] (3), [[Generative AI]] (1), [[Microsoft]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** bbc (1)
@@ -4586,7 +4586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default. (1), case, (1), continue (1), export, (1)
+> **Frameworks & Libraries:** cloud (5), ai (4), [[Adobe Firefly]] (3), hit (3), next (2)
 > **Definitions:** means that (3), is an  (2), basically means (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -4717,7 +4717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), else, (1), default, (1), this, (1)
+> **Frameworks & Libraries:** cloud (5), [[Search]] (2), data (1), product (1), database (1)
 > **Analogies:** for example (4), imagine (1), picture (1), just like (1)
 > **Env Vars:** jpeg (4), pdf (1), url (1)
 > **UI Navigation:** click on (2), go to (1), drag and drop (1)
@@ -4729,7 +4729,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980)
@@ -4820,7 +4820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), case, (1), match, (1), else, (1)
+> **Frameworks & Libraries:** product (9), [[Adobe Firefly]] (6), [[Automation]] (3), data (3), ai (2)
 > **Analogies:** for example (4)
 > **Env Vars:** jpeg (1), png (1)
 > **UI Navigation:** drag and drop (2)
@@ -4850,6 +4850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Adobe Firefly]] (2), [[Newsletters]] (1)
 > **Speakers:** - if (1)
 
 

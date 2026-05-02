@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/sustainable-business
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Sustainable%20Business.md)

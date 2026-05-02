@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessibility-First%20Design.md)
@@ -40,42 +40,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why accessibility-first design?
-  - Use an accessibility-first workflow
+  - [Why accessibility-first design?](#why-accessibility-first-design)
+  - [Use an accessibility-first workflow](#use-an-accessibility-first-workflow)
 - [**1. Collaborating for Accessibility**](#1-collaborating-for-accessibility) (2 videos)
-  - Cross-discipline collaboration and T-shaped knowledge
-  - Work in parallel to reduce handoff
+  - [Cross-discipline collaboration and T-shaped knowledge](#cross-discipline-collaboration-and-t-shaped-knowledge)
+  - [Work in parallel to reduce handoff](#work-in-parallel-to-reduce-handoff)
 - [**2. Question Complexity**](#2-question-complexity) (3 videos)
-  - Avoid hidden content
-  - Respect established patterns
-  - Create performant and lightweight experiences
+  - [Avoid hidden content](#avoid-hidden-content)
+  - [Respect established patterns](#respect-established-patterns)
+  - [Create performant and lightweight experiences](#create-performant-and-lightweight-experiences)
 - [**3. Accessible Content Design**](#3-accessible-content-design) (4 videos)
-  - Semantics and document structure
-  - Inclusive language and reading level
-  - Hidden text and accessible naming
-  - Alternate content for media
+  - [Semantics and document structure](#semantics-and-document-structure)
+  - [Inclusive language and reading level](#inclusive-language-and-reading-level)
+  - [Hidden text and accessible naming](#hidden-text-and-accessible-naming)
+  - [Alternate content for media](#alternate-content-for-media)
 - [**4. Accessible Visual Design**](#4-accessible-visual-design) (10 videos)
-  - Just-in-time design
-  - Accessible color
-  - Accessible typography
-  - Accessible iconography
-  - Accessible tap targets
-  - Accessible interactive states
-  - Accessible interaction patterns
-  - Ergonomic layouts
-  - Embrace fluid design
-  - Respect user preferences
+  - [Just-in-time design](#just-in-time-design)
+  - [Accessible color](#accessible-color)
+  - [Accessible typography](#accessible-typography)
+  - [Accessible iconography](#accessible-iconography)
+  - [Accessible tap targets](#accessible-tap-targets)
+  - [Accessible interactive states](#accessible-interactive-states)
+  - [Accessible interaction patterns](#accessible-interaction-patterns)
+  - [Ergonomic layouts](#ergonomic-layouts)
+  - [Embrace fluid design](#embrace-fluid-design)
+  - [Respect user preferences](#respect-user-preferences)
 - [**5. Accessibility Testing**](#5-accessibility-testing) (3 videos)
-  - Manual accessibility testing
-  - User testing for accessibility
-  - Automated accessibility testing
+  - [Manual accessibility testing](#manual-accessibility-testing)
+  - [User testing for accessibility](#user-testing-for-accessibility)
+  - [Automated accessibility testing](#automated-accessibility-testing)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Accessible design handoff
-  - Next steps
+  - [Accessible design handoff](#accessible-design-handoff)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why accessibility-first design?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980)
@@ -96,6 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Accessible Design]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - if (1)
@@ -151,9 +152,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[User Experience (UX)|User experience]] (3), web (2), teams (2), [[HTML]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** default. (1)
 > **Env Vars:** html (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -161,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Collaborating for Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cross-discipline collaboration and T-shaped knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980)
@@ -194,6 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Product Development]] (2), product (1), teams (1), [[Front-End Development]] (1), [[Semantic Markup]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -240,15 +242,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Product Development]] (4), teams (3), parallel (3), product (2), [[Agile Development|Agile]] (1)
 > **Cross-References:** earlier in (2)
-> **Code Keywords:** super (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Question Complexity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid hidden content
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980)
@@ -309,7 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1), web (1), feature (1), [[User Experience (UX)|User experience]] (1)
 > **Versions:** 96.5 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - accessibility (1)
@@ -379,9 +381,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Web Accessibility]] (1), [[HTML]] (1), [[User Experience (UX)|User experience]] (1), feature (1)
 > **Env Vars:** aria (11), wcag (3), wai (2), html (1), whi (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** function (1), interface (1)
 > **Analogies:** for example (1), such as (1)
 > **Documentation:** specification (1)
 > **Definitions:** stands for (1)
@@ -435,15 +437,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Microsoft Products|Products]] (2), web (2), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **Env Vars:** wcag (1), wai (1), aria (1)
-> **Code Keywords:** interface (1), this, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Accessible Content Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Semantics and document structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980)
@@ -520,11 +522,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[HTML]] (3), [[Metadata]] (3), [[Search]] (3), product (2)
 > **Analogies:** such as (5)
 > **Env Vars:** html (3), seo (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** it's best to (2)
-> **Code Keywords:** function (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - the (1)
 
@@ -589,6 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), [[Internationalization]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
@@ -660,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), function (1), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Forms]] (3), web (2), data (2), [[Metadata]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -742,16 +745,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Search]] (2), web (2), [[HTML]] (2), [[Forms]] (1)
 > **Analogies:** such as (2), picture (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Accessible Visual Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Just-in-time design
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980)
@@ -794,7 +797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1)
+> **Frameworks & Libraries:** product (4), web (3), [[Product Development]] (2), teams (1), [[Batch Processing]] (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 > **Speakers:** - just (1)
@@ -888,11 +891,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Product Development]] (2), web (2)
 > **Analogies:** such as (6), for example (2)
 > **Env Vars:** wcag (3)
 > **Versions:** 4.5 (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), interface (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [educator] (1)
@@ -974,10 +977,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Typography]] (6), [[Forms]] (4), next (4), web (2), css (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** require (1)
 > **Env Vars:** css (1)
 > **Versions:** 1.5 (1)
 > **Best Practices:** it's best to (1)
@@ -1032,9 +1035,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Typography]] (1), web (1)
 > **Best Practices:** it's best to (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Versions:** 4.50 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1092,10 +1095,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2)
 > **Env Vars:** wcag (2)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Accessible interactive states
@@ -1181,8 +1184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[HTML]] (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** default, (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [educator] (1)
 
@@ -1249,8 +1252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), web (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1), next (1)
 > **UI Navigation:** toggle (5)
-> **Code Keywords:** continue (2)
 > **Definitions:** known as (1), is called (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -1298,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), web (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1341,7 +1344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), this, (1)
+> **Frameworks & Libraries:** web (4), [[Zoom]] (3), [[Responsive Web Design]] (1), [[User Experience (UX)|User experience]] (1), [[Windows]] (1)
 > **Best Practices:** it's best to (1), remember to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1436,7 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), default. (1), default, (1), function (1)
+> **Frameworks & Libraries:** [[Typography]] (3), web (2), product (1), [[Windows]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** toggle (1)
@@ -1448,7 +1451,7 @@ created: 2026-04-29
 
 ### 5. Accessibility Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manual accessibility testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980)
@@ -1543,9 +1546,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Forms]] (4), next (2), [[Zoom]] (2), web (2)
 > **Env Vars:** nvda (5), jaws (4), ios (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** interface (4)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** firefox (1), safari (1)
 > **Analogies:** such as (1), for example (1)
@@ -1608,9 +1611,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), teams (1), [[Manual Testing]] (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** remember to (1), it's best to (1), recommended (1)
-> **Code Keywords:** interface (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1684,9 +1687,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Forms]] (2), [[Microsoft]] (2), next (2), [[Continuous Integration (CI)|Continuous integration]] (2)
 > **Analogies:** such as (3)
 > **Env Vars:** seo (1), wave (1)
-> **Code Keywords:** pass (1)
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1695,7 +1698,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible design handoff
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980)
@@ -1744,7 +1747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), require (1)
+> **Frameworks & Libraries:** teams (2), [[Accessible Design]] (2), [[Typography]] (1), product (1)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** set up (1)
@@ -1793,8 +1796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), web (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** from, (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - with (1)
 

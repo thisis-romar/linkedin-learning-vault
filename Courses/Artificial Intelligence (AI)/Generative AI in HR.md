@@ -36,7 +36,7 @@ tags:
   - skill/generative-ai-for-hr
   - skill/ai-for-hr
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20in%20HR.md)
@@ -55,31 +55,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Generative AI and the transformation of HR
+  - [Generative AI and the transformation of HR](#generative-ai-and-the-transformation-of-hr)
 - [**1. Catalyzing HR with Generative AI**](#1-catalyzing-hr-with-generative-ai) (2 videos)
-  - The future of work and the age of generative AI
-  - Generative AI catalyzes, transforms, and amplifies HR
+  - [The future of work and the age of generative AI](#the-future-of-work-and-the-age-of-generative-ai)
+  - [Generative AI catalyzes, transforms, and amplifies HR](#generative-ai-catalyzes-transforms-and-amplifies-hr)
 - [**2. Generative AI Application in HR**](#2-generative-ai-application-in-hr) (5 videos)
-  - Talent acquisition and onboarding
-  - Leadership and employee development
-  - Diversity, equity, and inclusion
-  - Employee experience
-  - Developing HR policies
+  - [Talent acquisition and onboarding](#talent-acquisition-and-onboarding)
+  - [Leadership and employee development](#leadership-and-employee-development)
+  - [Diversity, equity, and inclusion](#diversity-equity-and-inclusion)
+  - [Employee experience](#employee-experience)
+  - [Developing HR policies](#developing-hr-policies)
 - [**3. Preparing the Workforce for Generative AI**](#3-preparing-the-workforce-for-generative-ai) (5 videos)
-  - Assess organizational readiness
-  - Build AI awareness and fluency
-  - Develop use cases
-  - Identify skill gaps
-  - Training and pilot testing
+  - [Assess organizational readiness](#assess-organizational-readiness)
+  - [Build AI awareness and fluency](#build-ai-awareness-and-fluency)
+  - [Develop use cases](#develop-use-cases)
+  - [Identify skill gaps](#identify-skill-gaps)
+  - [Training and pilot testing](#training-and-pilot-testing)
 - [**4. Legal Considerations and the Future of Generative AI**](#4-legal-considerations-and-the-future-of-generative-ai) (2 videos)
-  - Legal and ethical responsibilities
-  - Future of generative AI and jobs
+  - [Legal and ethical responsibilities](#legal-and-ethical-responsibilities)
+  - [Future of generative AI and jobs](#future-of-generative-ai-and-jobs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your Gen AI for HR journey
+  - [Continue your Gen AI for HR journey](#continue-your-gen-ai-for-hr-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI and the transformation of HR
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/generative-ai-and-the-transformation-of-hr?u=76281980)
@@ -104,6 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), hr (5), [[Generative AI]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - generative (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -111,7 +112,7 @@ created: 2026-04-29
 
 ### 1. Catalyzing HR with Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of work and the age of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/the-future-of-work-and-the-age-of-generative-ai?u=76281980)
@@ -142,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (8), ai (1), [[Human Resources (HR)|Human resources]] (1), hr (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -176,6 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), hr (5), [[Generative AI]] (3), management (1), [[Diversity and Inclusion]] (1)
 > **Env Vars:** shrm (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - according (1)
@@ -183,7 +186,7 @@ created: 2026-04-29
 
 ### 2. Generative AI Application in HR
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Talent acquisition and onboarding
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/talent-acquisition-and-onboarding?u=76281980)
@@ -264,7 +267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1)
+> **Frameworks & Libraries:** ai (7), [[Generative AI]] (4), job description (3), prompt (3), functional (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - recruiting (1)
 
@@ -331,7 +334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (1)
+> **Frameworks & Libraries:** [[Leadership Development]] (4), prompt (4), [[Generative AI]] (3), career (2), leadership (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - a (1)
@@ -389,8 +392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (4), prompt (2), management (1), leadership (1), [[Organizational Culture]] (1)
 > **Env Vars:** dei (14), erg (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
@@ -456,7 +459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (3), hr (2)
 > **Speakers:** - the (1)
 
 #### Developing HR policies
@@ -502,6 +505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), hr (5), business (1), [[Privacy]] (1), data (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - with (1)
@@ -509,7 +513,7 @@ created: 2026-04-29
 
 ### 3. Preparing the Workforce for Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess organizational readiness
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/assess-organizational-readiness?u=76281980)
@@ -562,8 +566,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), hr (3), [[Generative AI]] (2), [[Decision-Making]] (1), business (1)
 > **Prerequisites:** you'll need (2), required to (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -634,7 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new, (1), raise (1)
+> **Frameworks & Libraries:** ai (21), hr (8), [[ChatGPT]] (2), [[LinkedIn]] (2), prompt (2)
 > **Env Vars:** shrm (3), pwc (1)
 > **Cross-References:** in the next (2)
 > **Best Practices:** remember to (1)
@@ -679,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2)
+> **Frameworks & Libraries:** ai (5), next (4), business (1), functional (1), [[Organizational Culture]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -737,7 +741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (6), [[Soft Skills]] (3), prompt (2), [[LinkedIn]] (2), business (1)
 > **Env Vars:** mit (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -808,8 +812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), data (3), [[Forms]] (2), hr (1), job description (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), finally, (1)
 > **Env Vars:** seo (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
@@ -820,7 +824,7 @@ created: 2026-04-29
 
 ### 4. Legal Considerations and the Future of Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Legal and ethical responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/legal-and-ethical-responsibilities?u=76281980)
@@ -873,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), continue (1)
+> **Frameworks & Libraries:** data (9), [[Security]] (3), [[Privacy]] (2), management (1), ai (1)
 > **Analogies:** such as (2)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - while (1)
@@ -933,13 +937,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1)
+> **Frameworks & Libraries:** ai (14), business (2), hr (2), [[Forms]] (1), application (1)
 > **Speakers:** - so (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your Gen AI for HR journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/continue-your-gen-ai-for-hr-journey?u=76281980)
@@ -972,7 +976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), hr (1)
 > **Speakers:** - congratulations (1)
 
 

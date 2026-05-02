@@ -17,7 +17,7 @@ tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Process%20Improvement%20Foundations.md)
@@ -36,34 +36,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What is process improvement?
+  - [What is process improvement?](#what-is-process-improvement)
 - [**1. Measuring Your Processes**](#1-measuring-your-processes) (6 videos)
-  - Measuring and managing
-  - Measuring the right thing
-  - How to measure process improvement
-  - Using statistical process control (SPC)
-  - Setting action limits: Performance figures
-  - Setting action limits: Median moving range
+  - [Measuring and managing](#measuring-and-managing)
+  - [Measuring the right thing](#measuring-the-right-thing)
+  - [How to measure process improvement](#how-to-measure-process-improvement)
+  - [Using statistical process control (SPC)](#using-statistical-process-control-spc)
+  - [Setting action limits: Performance figures](#setting-action-limits-performance-figures)
+  - [Setting action limits: Median moving range](#setting-action-limits-median-moving-range)
 - [**2. Improving Your Processes**](#2-improving-your-processes) (13 videos)
-  - Optimizing your quality, costs, and time tradeoff
-  - Understanding the real cost of quality
-  - Reducing cost by reducing waste
-  - Understanding lead time
-  - Improving time business process reengineering
-  - Challenge: Balancing lines and flow
-  - Solution: Balancing lines and flow
-  - Improving time performance: Bottlenecks
-  - Improving time performance: Queues
-  - Reducing lead time using a pull approach to reduce buffers
-  - Thinking about your batch sizes
-  - Improving quality and cost through team projects
-  - Looking briefly at Lean and Six Sigma
+  - [Optimizing your quality, costs, and time tradeoff](#optimizing-your-quality-costs-and-time-tradeoff)
+  - [Understanding the real cost of quality](#understanding-the-real-cost-of-quality)
+  - [Reducing cost by reducing waste](#reducing-cost-by-reducing-waste)
+  - [Understanding lead time](#understanding-lead-time)
+  - [Improving time business process reengineering](#improving-time-business-process-reengineering)
+  - [Challenge: Balancing lines and flow](#challenge-balancing-lines-and-flow)
+  - [Solution: Balancing lines and flow](#solution-balancing-lines-and-flow)
+  - [Improving time performance: Bottlenecks](#improving-time-performance-bottlenecks)
+  - [Improving time performance: Queues](#improving-time-performance-queues)
+  - [Reducing lead time using a pull approach to reduce buffers](#reducing-lead-time-using-a-pull-approach-to-reduce-buffers)
+  - [Thinking about your batch sizes](#thinking-about-your-batch-sizes)
+  - [Improving quality and cost through team projects](#improving-quality-and-cost-through-team-projects)
+  - [Looking briefly at Lean and Six Sigma](#looking-briefly-at-lean-and-six-sigma)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Final thoughts
+  - [Final thoughts](#final-thoughts)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is process improvement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/what-is-process-improvement?u=76281980)
@@ -86,14 +86,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - process (1)
 
 
 ### 1. Measuring Your Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring and managing
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/measuring-and-managing-2?u=76281980)
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **Speakers:** - before (1)
 
 #### Measuring the right thing
@@ -239,8 +240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), game (1), [[Statistics]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** self (1), this. (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
@@ -316,9 +317,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - all (1)
 
@@ -387,9 +388,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Statistics]] (1), business (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** spc (4)
-> **Code Keywords:** let (1), pass (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
@@ -467,8 +468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Probability]] (1), power (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), this, (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** spc (1)
 > **Analogies:** for example (1)
@@ -578,9 +579,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), business (1), data (1)
 > **Env Vars:** mmr (8)
 > **Versions:** 3.14 (5), 7.9 (2)
-> **Code Keywords:** case, (1), this. (1), finally, (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 ### 2. Improving Your Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing your quality, costs, and time tradeoff
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/optimizing-your-quality-costs-and-time-tradeoff?u=76281980)
@@ -673,9 +674,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -788,8 +789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), management (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (1), for. (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - does (1)
 
@@ -880,9 +881,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** stands for (7), is a  (1), means that (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (2), for. (1)
 > **Analogies:** for example (2), just like (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - in (1)
@@ -964,8 +965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Representational State Transfer (REST)|Rest]] (3), product (1), [[Forecasting]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** finally, (1), this, (1)
 > **Speakers:** - of (1)
 
 #### Improving time business process reengineering
@@ -1049,9 +1050,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (3), data (2), business (1), [[Forms]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** bpr (4)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** pass (1)
 > **Speakers:** - the (1)
 
 #### Challenge: Balancing lines and flow
@@ -1125,8 +1126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Prerequisites:** setup (3)
-> **Code Keywords:** self (1), let (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -1224,7 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), case. (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (1), management (1), product (1)
 > **CLI Commands:** rails (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
@@ -1317,9 +1318,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), management (1), next (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4), find (4)
 > **Analogies:** for example (1), imagine (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
@@ -1456,8 +1457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IT Help Desk]] (1)
 > **Definitions:** is a  (5), means that (1)
-> **Code Keywords:** let (3)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - we (1)
 
@@ -1536,6 +1537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Definitions:** is a  (1), known as (1), means that (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
@@ -1626,10 +1628,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **CLI Commands:** make (13), find (2)
 > **Env Vars:** ebq (2), eoq (2)
 > **Prerequisites:** setup (2), set up (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
@@ -1698,6 +1700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
@@ -1736,7 +1739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (7)
 > **Env Vars:** spc (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -1745,7 +1748,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980)
@@ -1780,8 +1783,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (1), data (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), let (1)
 > **URLs:** [chriscroft.co](https://chriscroft.co) (1)
 > **Speakers:** - two (1)
 

@@ -34,7 +34,7 @@ tags:
   - topic/network-and-system-administration
   - skill/json
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JSON%20Essential%20Training.md)
@@ -53,58 +53,58 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - The essentials of using JSON
-  - What you should know
-  - Set up your environment
-  - Work with the GitHub repo
+  - [The essentials of using JSON](#the-essentials-of-using-json)
+  - [What you should know](#what-you-should-know)
+  - [Set up your environment](#set-up-your-environment)
+  - [Work with the GitHub repo](#work-with-the-github-repo)
 - [**1. Understanding JSON**](#1-understanding-json) (7 videos)
-  - What is JSON?
-  - Understand objects in programming
-  - Structure JSON by following the rules
-  - Build a basic JSON structure
-  - Build a nested JSON structure
-  - Challenge: Debug a JSON structure and create your own
-  - Solution: Debug a JSON structure and create your own
+  - [What is JSON?](#what-is-json)
+  - [Understand objects in programming](#understand-objects-in-programming)
+  - [Structure JSON by following the rules](#structure-json-by-following-the-rules)
+  - [Build a basic JSON structure](#build-a-basic-json-structure)
+  - [Build a nested JSON structure](#build-a-nested-json-structure)
+  - [Challenge: Debug a JSON structure and create your own](#challenge-debug-a-json-structure-and-create-your-own)
+  - [Solution: Debug a JSON structure and create your own](#solution-debug-a-json-structure-and-create-your-own)
 - [**2. Processing JSON Data**](#2-processing-json-data) (5 videos)
-  - Process JSON with language tools and libraries
-  - Convert JSON to an object or array
-  - Convert an object or array to JSON
-  - Challenge: Process JSON data
-  - Solution: Process JSON data
+  - [Process JSON with language tools and libraries](#process-json-with-language-tools-and-libraries)
+  - [Convert JSON to an object or array](#convert-json-to-an-object-or-array)
+  - [Convert an object or array to JSON](#convert-an-object-or-array-to-json)
+  - [Challenge: Process JSON data](#challenge-process-json-data)
+  - [Solution: Process JSON data](#solution-process-json-data)
 - [**3. Using JSON Data**](#3-using-json-data) (7 videos)
-  - How to send and receive JSON data
-  - Create an HTTP request
-  - Work with an HTTP response
-  - Convert between JSON and other data formats
-  - Make sense of JSON-P
-  - Challenge: Examine JSON data used by websites
-  - Solution: Examine JSON data used by websites
+  - [How to send and receive JSON data](#how-to-send-and-receive-json-data)
+  - [Create an HTTP request](#create-an-http-request)
+  - [Work with an HTTP response](#work-with-an-http-response)
+  - [Convert between JSON and other data formats](#convert-between-json-and-other-data-formats)
+  - [Make sense of JSON-P](#make-sense-of-json-p)
+  - [Challenge: Examine JSON data used by websites](#challenge-examine-json-data-used-by-websites)
+  - [Solution: Examine JSON data used by websites](#solution-examine-json-data-used-by-websites)
 - [**4. Applying Techniques for Working with JSON**](#4-applying-techniques-for-working-with-json) (3 videos)
-  - Prevent data reuse
-  - Return readable JSON
-  - Test for an empty object
+  - [Prevent data reuse](#prevent-data-reuse)
+  - [Return readable JSON](#return-readable-json)
+  - [Test for an empty object](#test-for-an-empty-object)
 - [**5. Working with JSON Schema**](#5-working-with-json-schema) (7 videos)
-  - What is JSON Schema?
-  - Create a basic schema with JSON Schema
-  - Validate JSON data against a schema
-  - Specify required properties with JSON Schema
-  - Work with schema generators
-  - Challenge: Work with JSON Schema
-  - Solution: Work with JSON Schema
+  - [What is JSON Schema?](#what-is-json-schema)
+  - [Create a basic schema with JSON Schema](#create-a-basic-schema-with-json-schema)
+  - [Validate JSON data against a schema](#validate-json-data-against-a-schema)
+  - [Specify required properties with JSON Schema](#specify-required-properties-with-json-schema)
+  - [Work with schema generators](#work-with-schema-generators)
+  - [Challenge: Work with JSON Schema](#challenge-work-with-json-schema)
+  - [Solution: Work with JSON Schema](#solution-work-with-json-schema)
 - [**6. Structuring Data with JSON-LD**](#6-structuring-data-with-json-ld) (7 videos)
-  - What is JSON-LD?
-  - Implement predefined key names
-  - Map a data structure with JSON-LD
-  - Work with JSON-LD generators
-  - Add a JSON-LD snippet to a web page
-  - Challenge: Structure data with JSON-LD
-  - Solution: Structure data with JSON-LD
+  - [What is JSON-LD?](#what-is-json-ld)
+  - [Implement predefined key names](#implement-predefined-key-names)
+  - [Map a data structure with JSON-LD](#map-a-data-structure-with-json-ld)
+  - [Work with JSON-LD generators](#work-with-json-ld-generators)
+  - [Add a JSON-LD snippet to a web page](#add-a-json-ld-snippet-to-a-web-page)
+  - [Challenge: Structure data with JSON-LD](#challenge-structure-data-with-json-ld)
+  - [Solution: Structure data with JSON-LD](#solution-structure-data-with-json-ld)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The essentials of using JSON
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980)
@@ -131,8 +131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (8), data (4), [[Programming]] (2), [[Security]] (1), api (1)
 > **Env Vars:** json (8), api (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - you (1)
 
 #### What you should know
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Programming]] (2)
 > **Speakers:** - [instructor] (1)
 
 #### Set up your environment
@@ -189,10 +190,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Microsoft]] (2), [[Web Development]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** visual studio (4), firefox (2), sublime (1), github (1)
 > **Env Vars:** http (1), html (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -225,9 +226,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Git]] (3), [[npm]] (1), [[Search]] (1)
 > **Tools:** github (5)
 > **CLI Commands:** git (3), npm (1)
-> **Code Keywords:** switch (1), let (1)
 > **Env Vars:** url (1), npm (1)
 > **Exercise Files:** github repo (2)
 > **UI Navigation:** switch to (1)
@@ -237,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Understanding JSON
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is JSON?
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json?u=76281980)
@@ -278,6 +279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (11), data (8), [[JavaScript]] (3), [[Programming]] (2), web (2)
 > **Env Vars:** json (11), xml (5), api (1)
 > **Definitions:** is a  (2), short for (1)
 > **Analogies:** for instance (1)
@@ -341,9 +343,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (14), [[JSON]] (9), data (8), [[Programming]] (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** json (9)
 > **Definitions:** is a  (5), known as (2), stands for (1), is an  (1)
-> **Code Keywords:** self (1), case, (1)
 > **Analogies:** similar to (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
@@ -428,9 +430,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (26), [[JavaScript]] (17), data (3), next (1), feature (1)
 > **Env Vars:** json (25), es6 (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (1), require (1)
 > **URLs:** [json.org](https://json.org) (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** the key is (1)
@@ -526,9 +528,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (11), feature (2), next (2)
 > **Env Vars:** json (9)
 > **File Paths:** highestfeatures.json (1), peaks.json (1)
-> **Code Keywords:** type, (1), switch (1)
 > **Tools:** visual studio (2)
 > **Code Identifiers:** highestfeatures (1)
 > **UI Navigation:** switch to (1)
@@ -591,12 +593,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (6), data (3), next (2), power (1)
 > **Env Vars:** json (6)
 > **Definitions:** is an  (3)
 > **Analogies:** for instance (2)
 > **File Paths:** extremes.json (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
 
@@ -653,6 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), [[Debugging]] (1), [[Microsoft Word|Word]] (1), next (1)
 > **Env Vars:** json (4)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Analogies:** for instance (2)
@@ -785,7 +788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (2), super (1), this. (1)
+> **Frameworks & Libraries:** [[JSON]] (4), next (1)
 > **Versions:** 99.95 (1), 94.95 (1), 85.00 (1), 124.95 (1)
 > **Code Identifiers:** listpricehistory (3)
 > **Env Vars:** json (3)
@@ -797,7 +800,7 @@ created: 2026-04-29
 
 ### 2. Processing JSON Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Process JSON with language tools and libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980)
@@ -822,6 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (15), data (4), [[Programming]] (3), [[JavaScript]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** json (15)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -937,9 +941,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (21), data (15), [[Microsoft Products|Products]] (6), [[JavaScript]] (5), product (4)
 > **Env Vars:** json (21), http (1)
 > **Code Identifiers:** itemparsed (5), productsparsed (4)
-> **Code Keywords:** const (2), function (1), case, (1), pass (1)
 > **Definitions:** is a  (3), is an  (1)
 > **File Paths:** items.js (2), products.html (1)
 > **Analogies:** for instance (2)
@@ -1021,9 +1025,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (16), data (5), web (5), [[JavaScript]] (3), [[Microsoft Products|Products]] (1)
 > **Env Vars:** json (16), yaml (1), xml (1), http (1)
 > **Code Identifiers:** cartjson (3), singlejson (2)
-> **Code Keywords:** self (1), const (1), pass (1), super (1)
 > **File Paths:** cart.js (2), products.html (1)
 > **Definitions:** stands for (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -1058,6 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[JSON]] (4), data (2), next (1)
 > **Env Vars:** json (4)
 > **File Paths:** blog.js (1), issue.js (1)
 > **Cross-References:** in the next (1)
@@ -1129,8 +1134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (12), data (7), [[HTML]] (2), [[Programming]] (2), web (1)
 > **Env Vars:** json (12), html (1)
-> **Code Keywords:** const (3), pass (3), let (1)
 > **Code Identifiers:** postsjson (2), articlejson (2), queuedata (2)
 > **File Paths:** blog.html (1), issue.js (1)
 > **CLI Commands:** make (2)
@@ -1141,7 +1146,7 @@ created: 2026-04-29
 
 ### 3. Using JSON Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to send and receive JSON data
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/how-to-send-and-receive-json-data?u=76281980)
@@ -1210,9 +1215,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[JSON]] (10), web (4), [[Search]] (1)
 > **Env Vars:** json (10), http (7), xhr (3)
 > **UI Navigation:** in the menu (1), open the (1), scroll down (1)
-> **Code Keywords:** for. (1), let (1)
 > **Tools:** firefox (2)
 > **Definitions:** is an  (2)
 > **URLs:** [nps.gov](https://nps.gov) (1)
@@ -1266,10 +1271,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[JSON]] (10), web (4), product (4), [[Microsoft Products|Products]] (3)
 > **Env Vars:** http (11), json (10), url (3), html (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Tools:** firefox (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1318,9 +1323,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[JSON]] (11), [[JavaScript]] (6), web (5), [[Microsoft Products|Products]] (4)
 > **Env Vars:** json (11)
 > **File Paths:** script.js (2), products.html (1)
-> **Code Keywords:** let (1), const (1), for, (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** rawdata (1)
 > **Cross-References:** go back to (1)
@@ -1420,9 +1425,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), [[JSON]] (13), [[HTML]] (3), [[JavaScript]] (3), web (2)
 > **Env Vars:** json (13), xml (13), yaml (3), csv (3), html (2)
 > **Definitions:** stands for (3), is a  (3), is an  (3)
-> **Code Keywords:** const (2), this, (1), from. (1), var (1), pass (1)
 > **CLI Commands:** make (2), node (2)
 > **Code Identifiers:** peopledatanode (2), rawdata (1), convertedobject (1)
 > **File Paths:** script.js (1), json.js (1), products.html (1)
@@ -1468,9 +1473,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (12), web (9), data (6), [[Security]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (12), cors (1), http (1)
 > **Definitions:** is a  (2), stands for (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** earlier in (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -1500,8 +1505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[JSON]] (1), next (1)
 > **Env Vars:** xhr (3), json (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Tools:** firefox (1)
 > **UI Navigation:** open the (1)
@@ -1593,9 +1598,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (10), web (3), data (2), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** json (10), http (4), xhr (2), html (1), css (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), super (1)
 > **UI Navigation:** open the (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1604,7 +1609,7 @@ created: 2026-04-29
 
 ### 4. Applying Techniques for Working with JSON
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prevent data reuse
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980)
@@ -1701,7 +1706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), protected (4), let (2), this. (2), this, (1)
+> **Frameworks & Libraries:** data (47), [[JSON]] (8), [[JavaScript]] (4), [[HTML]] (3), web (3)
 > **Env Vars:** json (8), html (2), http (1), https (1), xssi (1)
 > **Definitions:** known as (2), is an  (1)
 > **File Paths:** script.js (1), products.html (1)
@@ -1775,8 +1780,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (12), [[JavaScript]] (5), data (5), [[Debugging]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (12), http (1)
-> **Code Keywords:** pass (4), function (2), require (1), case. (1)
 > **Analogies:** for instance (2), such as (1)
 > **File Paths:** script.js (1), products.html (1)
 > **CLI Commands:** make (2)
@@ -1920,7 +1925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), pass (4), this, (2), let (2), case, (2)
+> **Frameworks & Libraries:** data (23), [[JSON]] (3), [[JavaScript]] (2), web (1), [[HTML]] (1)
 > **Code Identifiers:** testdata (4), emptyobject (3), nonemptyobject (3), datecontent (2), hasownproperty (2)
 > **Env Vars:** json (3), html (1), http (1), api (1)
 > **Definitions:** is an  (2), is a  (1), means that (1)
@@ -1932,7 +1937,7 @@ created: 2026-04-29
 
 ### 5. Working with JSON Schema
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is JSON Schema?
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json-schema?u=76281980)
@@ -1999,12 +2004,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[JSON]] (9), [[Engineering]] (1), hit (1)
 > **Env Vars:** json (9)
 > **Analogies:** for instance (3), imagine (2)
 > **Code Identifiers:** invoicenum (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type. (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2171,8 +2176,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (18), data (16), [[JavaScript]] (8), product (5), api (2)
 > **Env Vars:** json (16), api (2), http (2), html (2), uri (2)
-> **Code Keywords:** type. (2), var (1), this. (1), implements (1), case, (1)
 > **File Paths:** data.js (2), schema.js (1), hplussport.com/schemas/product.json (1)
 > **URLs:** [http://json-schema.org/draft-07/schema](http://json-schema.org/draft-07/schema) (1), [http://hplussport.com/schemas/product.json](http://hplussport.com/schemas/product.json) (1)
 > **Definitions:** is a  (2)
@@ -2265,8 +2270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[JSON]] (4), [[JavaScript]] (2), product (2), [[Java]] (1)
 > **Env Vars:** json (4), repl (4), php (1)
-> **Code Keywords:** function (4), delete (2), throw (1)
 > **UI Navigation:** scroll down (2), open the (1), go to (1), select the (1)
 > **CLI Commands:** python (1), ruby (1), php (1), make (1)
 > **File Paths:** schema.js (1), data.js (1)
@@ -2381,7 +2386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), function (2), require (1), this. (1)
+> **Frameworks & Libraries:** data (15), [[JSON]] (5), product (3), hit (1), next (1)
 > **Env Vars:** json (5), ajv (2)
 > **UI Navigation:** scroll down (3), select the (1)
 > **File Paths:** schema.js (1), data.js (1)
@@ -2549,7 +2554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), default, (2), function (2), continue (1), while. (1)
+> **Frameworks & Libraries:** data (14), [[JSON]] (12), api (1), web (1), [[Metadata]] (1)
 > **Env Vars:** json (11), uri (2), api (1)
 > **Code Identifiers:** personschema (4), rawpersondata (2)
 > **File Paths:** data.js (2), schema.js (2), hplussport.com/schemas/person.json (1)
@@ -2583,6 +2588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), data (2), api (1), next (1)
 > **Env Vars:** json (2), api (1), uri (1)
 > **File Paths:** schema.js (1)
 > **CLI Commands:** make (1)
@@ -2673,7 +2679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), function (2)
+> **Frameworks & Libraries:** data (5), [[JSON]] (3), [[Search]] (1)
 > **File Paths:** schema.js (2), california.com/schemas/weather.json (1)
 > **CLI Commands:** make (3)
 > **URLs:** [jsonschema.net](https://jsonschema.net) (1), [http://explore](http://explore) (1), [california.com](https://california.com) (1)
@@ -2685,7 +2691,7 @@ created: 2026-04-29
 
 ### 6. Structuring Data with JSON-LD
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is JSON-LD?
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980)
@@ -2732,10 +2738,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[JSON]] (14), application (3), [[Semantic Markup]] (2), web (1)
 > **Env Vars:** json (14), w3c (1), html (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for instance (4)
-> **Code Keywords:** else, (1), implements (1)
 > **URLs:** [schema.org](https://schema.org) (1), [productontology.org](https://productontology.org) (1)
 > **Definitions:** known as (1), stands for (1)
 > **Documentation:** w3c (1)
@@ -2884,8 +2890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (16), data (10), next (4), generic (2), web (1)
 > **Env Vars:** json (14), url (4), uri (1)
-> **Code Keywords:** type. (6), public (2), type, (2), require (1), switch (1)
 > **URLs:** [schema.org](https://schema.org) (10), [http://schema.org](http://schema.org) (2)
 > **Definitions:** is a  (4)
 > **File Paths:** snippet.json (2)
@@ -2974,9 +2980,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[JSON]] (8), database (1), next (1)
 > **Env Vars:** json (7), url (5)
 > **URLs:** [schema.org](https://schema.org) (5), [http://www.schema.org](http://www.schema.org) (1)
-> **Code Keywords:** public (1), type. (1), this, (1), this. (1)
 > **File Paths:** snippet.json (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -3104,8 +3110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (16), data (5), [[Search]] (4), [[HTML]] (2), web (1)
 > **Env Vars:** json (15), html (2), url (1)
-> **Code Keywords:** type. (2), interface (1), super (1), let (1)
 > **Ports:** :00 (4)
 > **File Paths:** 5ktraining.txt (1), 5ktraining.json (1)
 > **CLI Commands:** make (1)
@@ -3170,8 +3176,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (11), [[HTML]] (4), [[Search]] (3), [[JavaScript]] (3), application (3)
 > **Env Vars:** json (9), html (3), doctype (1)
-> **Code Keywords:** type= (1), switch (1), let (1)
 > **File Paths:** products.html (1)
 > **UI Navigation:** switch to (1)
 > **Best Practices:** don't forget (1)
@@ -3210,8 +3216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (3), data (3), next (1)
 > **Env Vars:** json (3)
-> **Code Keywords:** for. (1), type. (1)
 > **URLs:** [jasonld.org](https://jasonld.org) (1), [schema.org](https://schema.org) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -3356,8 +3362,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (5), [[Search]] (4), data (2), next (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** hasoccupation (3), rolename (3), startdate (3), enddate (3), jobtitle (1)
-> **Code Keywords:** let (4), type. (3), type, (2), include, (1), include. (1)
 > **Env Vars:** json (5), url (4)
 > **URLs:** [schema.org](https://schema.org) (6)
 > **Definitions:** is a  (3)
@@ -3368,7 +3374,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980)
@@ -3391,8 +3397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Programming]] (2), web (2), [[JSON]] (1), [[Search]] (1)
 > **Env Vars:** json (1), seo (1)
-> **Code Keywords:** new, (1)
 > **Speakers:** - [instructor] (1)
 
 

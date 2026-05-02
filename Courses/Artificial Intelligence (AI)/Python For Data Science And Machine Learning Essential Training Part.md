@@ -41,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Python%20For%20Data%20Science%20And%20Machine%20Learning%20Essential%20Training%20Part.md)
@@ -60,68 +60,68 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Data science life hacks
-  - How to use Codespaces with this course
+  - [Data science life hacks](#data-science-life-hacks)
+  - [How to use Codespaces with this course](#how-to-use-codespaces-with-this-course)
 - [**1. Introduction to the Data Professions**](#1-introduction-to-the-data-professions) (4 videos)
-  - Introduction to the data professions
-  - Data science careers: Identifying where and how you'll thrive
-  - Why to use Python for analytics
-  - High-level course road map
+  - [Introduction to the data professions](#introduction-to-the-data-professions)
+  - [Data science careers: Identifying where and how you'll thrive](#data-science-careers-identifying-where-and-how-youll-thrive)
+  - [Why to use Python for analytics](#why-to-use-python-for-analytics)
+  - [High-level course road map](#high-level-course-road-map)
 - [**2. Data Preparation Basics**](#2-data-preparation-basics) (7 videos)
-  - Intro to data preparation
-  - Numpy and pandas basics
-  - Filtering and selecting
-  - Treating missing values
-  - Removing duplicates
-  - Concatenating and transforming
-  - Grouping and aggregation
+  - [Intro to data preparation](#intro-to-data-preparation)
+  - [Numpy and pandas basics](#numpy-and-pandas-basics)
+  - [Filtering and selecting](#filtering-and-selecting)
+  - [Treating missing values](#treating-missing-values)
+  - [Removing duplicates](#removing-duplicates)
+  - [Concatenating and transforming](#concatenating-and-transforming)
+  - [Grouping and aggregation](#grouping-and-aggregation)
 - [**3. Data Visualization 101**](#3-data-visualization-101) (4 videos)
-  - Importance of visualization in data science
-  - The three types of data visualization
-  - Selecting optimal data graphics
-  - Communicating with color and context
+  - [Importance of visualization in data science](#importance-of-visualization-in-data-science)
+  - [The three types of data visualization](#the-three-types-of-data-visualization)
+  - [Selecting optimal data graphics](#selecting-optimal-data-graphics)
+  - [Communicating with color and context](#communicating-with-color-and-context)
 - [**4. Practical Data Visualization**](#4-practical-data-visualization) (7 videos)
-  - Introduction to the matplotlib and Seaborn libraries
-  - Creating standard data graphics
-  - Defining elements of a plot
-  - Plot formatting
-  - Creating labels and annotations
-  - Visualizing time series
-  - Creating statistical data graphics in Seaborn
+  - [Introduction to the matplotlib and Seaborn libraries](#introduction-to-the-matplotlib-and-seaborn-libraries)
+  - [Creating standard data graphics](#creating-standard-data-graphics)
+  - [Defining elements of a plot](#defining-elements-of-a-plot)
+  - [Plot formatting](#plot-formatting)
+  - [Creating labels and annotations](#creating-labels-and-annotations)
+  - [Visualizing time series](#visualizing-time-series)
+  - [Creating statistical data graphics in Seaborn](#creating-statistical-data-graphics-in-seaborn)
 - [**5. Exploratory Data Analysis**](#5-exploratory-data-analysis) (7 videos)
-  - Simple arithmetic
-  - Generating summary statistics
-  - Summarizing categorical data
-  - Pearson correlation analysis
-  - Spearman rank correlation and Chi-square
-  - Extreme value analysis for outliers
-  - Multivariate analysis for outliers
+  - [Simple arithmetic](#simple-arithmetic)
+  - [Generating summary statistics](#generating-summary-statistics)
+  - [Summarizing categorical data](#summarizing-categorical-data)
+  - [Pearson correlation analysis](#pearson-correlation-analysis)
+  - [Spearman rank correlation and Chi-square](#spearman-rank-correlation-and-chi-square)
+  - [Extreme value analysis for outliers](#extreme-value-analysis-for-outliers)
+  - [Multivariate analysis for outliers](#multivariate-analysis-for-outliers)
 - [**6. Getting Started with Machine Learning**](#6-getting-started-with-machine-learning) (3 videos)
-  - Cleaning and treating categorical variables
-  - Transforming data set distributions
-  - Applied machine learning: Starter problem
+  - [Cleaning and treating categorical variables](#cleaning-and-treating-categorical-variables)
+  - [Transforming data set distributions](#transforming-data-set-distributions)
+  - [Applied machine learning: Starter problem](#applied-machine-learning-starter-problem)
 - [**7. Data Sourcing via Web Scraping**](#7-data-sourcing-via-web-scraping) (7 videos)
-  - Introduction of web scraping
-  - Python requests for automating data collection
-  - BeautifulSoup object
-  - NavigableString objects
-  - Data parsing
-  - Web scraping in practice
-  - Asynchronous scraping
+  - [Introduction of web scraping](#introduction-of-web-scraping)
+  - [Python requests for automating data collection](#python-requests-for-automating-data-collection)
+  - [BeautifulSoup object](#beautifulsoup-object)
+  - [NavigableString objects](#navigablestring-objects)
+  - [Data parsing](#data-parsing)
+  - [Web scraping in practice](#web-scraping-in-practice)
+  - [Asynchronous scraping](#asynchronous-scraping)
 - [**8. Collaborative Analytics with Streamlit**](#8-collaborative-analytics-with-streamlit) (6 videos)
-  - Introduction to Streamlit
-  - Environment setup
-  - Create basic charts
-  - Line charts in Streamlit
-  - Bar charts and pie charts in Streamlit
-  - Create statistical charts
+  - [Introduction to Streamlit](#introduction-to-streamlit)
+  - [Environment setup](#environment-setup)
+  - [Create basic charts](#create-basic-charts)
+  - [Line charts in Streamlit](#line-charts-in-streamlit)
+  - [Bar charts and pie charts in Streamlit](#bar-charts-and-pie-charts-in-streamlit)
+  - [Create statistical charts](#create-statistical-charts)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Portfolio and career readiness
-  - Next steps
+  - [Portfolio and career readiness](#portfolio-and-career-readiness)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science life hacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980)
@@ -142,8 +142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (3), web (2), web application (1), ai (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [lillian] (1)
 
 #### How to use Codespaces with this course
@@ -197,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), web (2), [[GitHub]] (2), [[Linux]] (1), product (1)
 > **Tools:** jupyter (4), terminal (3), github (2)
-> **Code Keywords:** let (4), this. (1), interface (1)
 > **CLI Commands:** python (3), find (2)
 > **UI Navigation:** click on (2), select the (1)
 > **Code Identifiers:** ipython (1)
@@ -208,7 +208,7 @@ created: 2026-04-29
 
 ### 1. Introduction to the Data Professions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the data professions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980)
@@ -407,8 +407,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (91), [[Analytics]] (12), [[Python (Programming Language)|Python]] (8), business (6), [[Big Data]] (6)
 > **CLI Commands:** make (8), python (8), find (1)
-> **Code Keywords:** let (7), function (2), while, (1)
 > **Env Vars:** stem (2), sql (2), etl (1)
 > **Prerequisites:** getting started (1), required to (1), setup (1)
 > **Definitions:** is a  (2)
@@ -484,7 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), function (1)
+> **Frameworks & Libraries:** data (40), business (6), [[Market Research]] (1), teams (1), [[Analytics]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** ceo (1)
@@ -580,8 +580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), [[Python (Programming Language)|Python]] (28), [[Data Engineering]] (8), [[Programming]] (7), [[Google]] (2)
 > **CLI Commands:** python (28), find (1)
-> **Code Keywords:** let (3), super (1), function (1)
 > **Env Vars:** tiobe (3), sql (1)
 > **Definitions:** is a  (2), short for (1), is an  (1)
 > **Cross-References:** later in (1)
@@ -619,7 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (16), next (2), web (1), [[Analytics]] (1), business (1)
 > **Env Vars:** eda (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** getting started (1)
@@ -628,7 +628,7 @@ created: 2026-04-29
 
 ### 2. Data Preparation Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to data preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980)
@@ -689,8 +689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), [[Analytics]] (2), [[Statistics]] (2), next (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -765,9 +765,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (6), [[Analytics]] (1)
 > **Definitions:** is a  (4), is an  (3)
 > **CLI Commands:** python (6)
-> **Code Keywords:** require (1), type. (1), function (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1048,7 +1048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), pass (10), this. (6), this, (3), function (2)
+> **Frameworks & Libraries:** data (25), [[Pandas (Software)|Pandas]] (7), hit (5), [[Microsoft Word|Word]] (3), next (2)
 > **CLI Commands:** pip (2), find (2), python (1)
 > **UI Navigation:** toggle (2), switch to (1)
 > **Env Vars:** nan (1)
@@ -1308,7 +1308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), let (22), pass (7), this, (3), this. (2)
+> **Frameworks & Libraries:** data (35), [[Pandas (Software)|Pandas]] (5), next (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (2), make (2)
 > **Code Identifiers:** ranking_df (4), ranking_data (1), bool_series (1)
 > **Cross-References:** later in (1), coming up (1)
@@ -1440,7 +1440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (2), this. (2), from. (1), function (1)
+> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** earlier in (1)
@@ -1602,7 +1602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), pass (8), function (5), else, (1), this, (1)
+> **Frameworks & Libraries:** data (47), [[Pandas (Software)|Pandas]] (3), application (2), [[Data Transformation]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** added_variable (4), variable_added (4), ignore_index (3), series_obj (2), added_datatable (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** for example (1), imagine (1)
@@ -1725,7 +1725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (4), from. (1), function (1), this. (1)
+> **Frameworks & Libraries:** data (11), [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** cars_groups (2), read_csv (1), car_names (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 26.6 (1), 19.7 (1), 15.1 (1)
@@ -1737,7 +1737,7 @@ created: 2026-04-29
 
 ### 3. Data Visualization 101
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of visualization in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980)
@@ -1814,7 +1814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (20), business (2), [[Decision-Making]] (2), [[Generative AI]] (1), next (1)
 > **Ports:** :00 (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), picture (1)
@@ -1975,7 +1975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), public (2), let (2), case, (2)
+> **Frameworks & Libraries:** data (49), [[Data Storytelling]] (10), product (3), [[Microsoft Products|Products]] (2), career (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3), is an  (1), in other words (1)
 > **URLs:** [periscopic.com](https://periscopic.com) (1)
@@ -2087,7 +2087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), public (1), super (1)
+> **Frameworks & Libraries:** data (43), [[Data Storytelling]] (7)
 > **CLI Commands:** make (5)
 > **Env Vars:** stem (1), nyc (1)
 > **Cross-References:** in the last (1), we covered (1)
@@ -2181,8 +2181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), ai (1), [[Data Storytelling]] (1), [[Statistics]] (1), next (1)
 > **CLI Commands:** make (4), find (1), python (1)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Env Vars:** usa (1)
 > **Analogies:** for example (1)
@@ -2191,7 +2191,7 @@ created: 2026-04-29
 
 ### 4. Practical Data Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the matplotlib and Seaborn libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980)
@@ -2500,7 +2500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), function (17), pass (10), this. (5), module (1)
+> **Frameworks & Libraries:** data (12), next (2), [[Python (Programming Language)|Python]] (1), [[Financial Data]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** pip (3), python (1)
 > **Code Identifiers:** set_title (2), color_palette (2)
 > **UI Navigation:** select the (4)
@@ -2641,7 +2641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (9), pass (6), this. (6), this, (4)
+> **Frameworks & Libraries:** data (9), functional (3), [[Pandas (Software)|Pandas]] (3), [[E-Commerce]] (1), business (1)
 > **CLI Commands:** make (3), python (1)
 > **Code Identifiers:** pie_chart (2), rcparams (1)
 > **File Paths:** plt.py (2)
@@ -2875,7 +2875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (14), pass (8), this. (2), case, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), functional (2), [[Pandas (Software)|Pandas]] (1), next (1)
 > **CLI Commands:** make (7), python (3)
 > **Code Identifiers:** rcparams (1), add_axes (1), set_xlim (1), set_ylim (1), set_xticks (1)
 > **Tools:** jupyter (4)
@@ -3077,7 +3077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), pass (9), this. (6), function (4), this, (2)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (2), next (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** rgb (4), rgba (1), mpg (1), a9a9a9 (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Cross-References:** we discussed (1), go back to (1), in the next (1)
@@ -3431,7 +3431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (33), pass (20), function (14), this. (3), this, (2)
+> **Frameworks & Libraries:** functional (5), data (4), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** veh_type (3), read_csv (2), car_names (2), add_axes (2), set_xticks (2)
 > **CLI Commands:** make (4), python (2), find (2)
 > **Versions:** 0.5 (2), 33.9 (2), 0.05 (1)
@@ -3601,7 +3601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (5), pass (4), function (3), this, (1)
+> **Frameworks & Libraries:** data (19), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3), product (2), next (2)
 > **CLI Commands:** python (3), make (1)
 > **Code Identifiers:** read_csv (1), index_col (1), parse_dates (1), random_state (1)
 > **Env Vars:** csv (3)
@@ -3829,7 +3829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), pass (9), this. (8), function (7), this, (4)
+> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (1), generic (1)
 > **CLI Commands:** python (3), make (3)
 > **UI Navigation:** select the (3), right-click (2), go to (1)
 > **Tools:** jupyter (2)
@@ -3841,7 +3841,7 @@ created: 2026-04-29
 
 ### 5. Exploratory Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple arithmetic
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/simple-arithmetic?u=76281980)
@@ -3992,7 +3992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (5), function (5), pass (3), type. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (5), application (2)
 > **CLI Commands:** python (6), make (3)
 > **Versions:** 8.22 (6), 9.22 (2), 7.22 (1)
 > **Code Identifiers:** set_printoptions (1)
@@ -4169,7 +4169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (7), pass (6), var (2), default, (1)
+> **Frameworks & Libraries:** data (19), [[Statistics]] (15), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** for example (1), imagine (1)
 > **Code Identifiers:** numeric_only (1)
@@ -4372,7 +4372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (5), this. (4), function (3), type. (2)
+> **Frameworks & Libraries:** data (14), product (3), [[Python (Programming Language)|Python]] (3), web (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** value_counts (5), cars_cat (4), gears_group (2), car_names (1)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -4633,7 +4633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), this. (6), pass (5), function (4), while. (1)
+> **Frameworks & Libraries:** data (11), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2), [[Forms]] (1)
 > **CLI Commands:** find (2), python (2), make (1)
 > **Cross-References:** we covered (1), in the last (1), later in (1), in the next (1)
 > **Warnings:** important note (1), note that (1), keep in mind (1)
@@ -4919,7 +4919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), this. (8), pass (6), function (5), while. (1)
+> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (1), next (1), [[Statistics]] (1)
 > **CLI Commands:** make (4), find (3)
 > **Code Identifiers:** spearmanr_coefficient (2), rcparams (1), p_value (1)
 > **Versions:** 0.05 (4)
@@ -5207,7 +5207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this. (4), case, (3), function (3), pass (3)
+> **Frameworks & Libraries:** data (21), next (3), [[Cybersecurity]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 1.5 (3), 2.05 (3), 0.75 (3), 3.3 (2), 2.8 (2)
 > **Code Identifiers:** iris_outliers (2), rcparams (1), read_csv (1), filepath_or_buffer (1), return_type (1)
 > **CLI Commands:** find (3), python (1)
@@ -5397,7 +5397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (3), pass (3), function (2), this. (2)
+> **Frameworks & Libraries:** data (11), next (2), [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
 > **Versions:** 0.75 (3), 3.3 (2), 2.8 (2), 4.05 (2), 0.1 (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** hls (3)
@@ -5408,7 +5408,7 @@ created: 2026-04-29
 
 ### 6. Getting Started with Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cleaning and treating categorical variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980)
@@ -5569,7 +5569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (12), let (10), function (4), this. (3), case, (2)
+> **Frameworks & Libraries:** data (23), next (3), [[Algorithms]] (2), [[Forms]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** onehot_encoder (6), label_encoder (3), onehot_encoded_names (3), onehot_encoded_df (3), label_encoded_names (1)
 > **Definitions:** is a  (2), known as (1), is called (1), refers to (1)
 > **Versions:** 1.0 (1), 0.0 (1)
@@ -5700,7 +5700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (7), function (6), this. (5), module (1)
+> **Frameworks & Libraries:** data (23), [[Data Transformation]] (3), [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** minmax_scalar (3), scaled_data (3), standard_scalar (3)
 > **Definitions:** is a  (2), refers to (1), known as (1)
 > **Analogies:** compare this to (1), just like (1)
@@ -5879,7 +5879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (10), let (9), function (5), this. (3), module (1)
+> **Frameworks & Libraries:** data (8), next (3), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** x_train (2), x_test (2), y_train (2), y_test (2), y_predict (2)
 > **CLI Commands:** make (1)
 > **Versions:** 0.3 (1)
@@ -5891,7 +5891,7 @@ created: 2026-04-29
 
 ### 7. Data Sourcing via Web Scraping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction of web scraping
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980)
@@ -5950,6 +5950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), web (12), [[Market Research]] (2), [[Analytics]] (2), [[HTML]] (2)
 > **Definitions:** is a  (3), known as (1)
 > **Env Vars:** html (2)
 > **Speakers:** - [instructor] (1)
@@ -6153,7 +6154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (7), pass (2), this, (2), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (5), [[HTML]] (4), next (2), data (2)
 > **CLI Commands:** python (5), make (4), find (1)
 > **Env Vars:** http (4), url (3), html (2), pdf (1)
 > **Definitions:** is a  (4), means that (1)
@@ -6547,7 +6548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (36), this. (9), pass (9), function (4), delete (4)
+> **Frameworks & Libraries:** [[HTML]] (16), data (13), web (9), [[Python (Programming Language)|Python]] (5), [[IoT]] (3)
 > **Code Identifiers:** our_soup_object (11), soup_object (5), our_html_document (2), chatgpt (1)
 > **Env Vars:** html (9), xml (2), utf (1)
 > **CLI Commands:** python (5), make (2)
@@ -6779,7 +6780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), this. (9), pass (9), function (3), case, (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[HTML]] (4), [[Python (Programming Language)|Python]] (2), next (1), data (1)
 > **Env Vars:** html (4), bs4 (1), nan (1)
 > **CLI Commands:** python (2), make (1)
 > **Versions:** python 3 (1), version 3 (1)
@@ -7045,7 +7046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), pass (17), this. (10), function (7), this, (2)
+> **Frameworks & Libraries:** data (19), [[HTML]] (16), [[Search]] (4), web (3), [[IoT]] (2)
 > **Env Vars:** html (15), xml (2), url (2), iot (2), iot2018 (1)
 > **CLI Commands:** find (15), make (1)
 > **URLs:** [https://raw](https://raw) (2), [content.com](https://content.com) (1), [githubusercontent.com](https://githubusercontent.com) (1)
@@ -7263,7 +7264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (16), let (11), function (8), this. (4), this, (3)
+> **Frameworks & Libraries:** data (12), web (6), [[Analytics]] (4), next (4), [[HTML]] (2)
 > **CLI Commands:** find (10), make (2), python (1)
 > **Env Vars:** url (2), html (2), http (2), https (1)
 > **Code Identifiers:** soup_link (3), parsed_data (1)
@@ -7621,7 +7622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (28), let (15), async (10), await (10), pass (7)
+> **Frameworks & Libraries:** web (14), [[Fetch]] (12), next (8), [[Python (Programming Language)|Python]] (7), data (5)
 > **Env Vars:** csv (13), url (12), html (5), http (4), cpu (3)
 > **CLI Commands:** make (7), python (7), pip (6), find (2)
 > **Definitions:** is a  (4), is an  (2), means that (1)
@@ -7633,7 +7634,7 @@ created: 2026-04-29
 
 ### 8. Collaborative Analytics with Streamlit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Streamlit
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980)
@@ -7740,9 +7741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), web (7), data (6), [[Web Development]] (4), [[Dashboards]] (4)
 > **CLI Commands:** python (11)
 > **Tools:** jupyter (6)
-> **Code Keywords:** let (2), switch (1), case, (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), just like (1)
 > **Env Vars:** html (1)
@@ -7815,7 +7816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), this. (1), function (1), pass (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), application (2), web application (1), [[Protocol Buffers|Protobuf]] (1), hit (1)
 > **Prerequisites:** install (6), set up (1), you'll need (1)
 > **CLI Commands:** pip (4), python (2)
 > **Tools:** anaconda (2), terminal (2)
@@ -7985,7 +7986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (8), function (6), this, (3), module (1)
+> **Frameworks & Libraries:** next (6), [[Pandas (Software)|Pandas]] (3), data (3), hit (3), web (2)
 > **CLI Commands:** pip (5), python (1), cat (1)
 > **Code Identifiers:** line_chart (2), call_names (1), col_names (1), bar_chart (1)
 > **Prerequisites:** install (5)
@@ -8133,7 +8134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (4), pass (4), this. (2), super (1)
+> **Frameworks & Libraries:** next (5), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), hit (2), data (1)
 > **CLI Commands:** pip (6), python (3), make (1), find (1)
 > **Prerequisites:** install (6)
 > **Code Identifiers:** new_rows (2), line_chart (1), add_rows (1)
@@ -8359,7 +8360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), pass (12), function (6), this. (1), default, (1)
+> **Frameworks & Libraries:** next (8), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), hit (2), [[Codespaces]] (1)
 > **CLI Commands:** pip (5), python (3), cat (1), make (1)
 > **Versions:** 0.2 (4), 0.1 (3), 0.40 (1)
 > **Prerequisites:** install (5)
@@ -8499,7 +8500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), pass (5), case. (1)
+> **Frameworks & Libraries:** data (21), [[Pandas (Software)|Pandas]] (3), hit (3), feature (3), next (2)
 > **CLI Commands:** pip (7), python (1)
 > **Code Identifiers:** load_iris (3), iris_data (3), feature_names (1)
 > **Prerequisites:** install (7)
@@ -8511,7 +8512,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Portfolio and career readiness
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980)
@@ -8632,7 +8633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (6), business (6), prompt (5), data (3), ai (3)
 > **Env Vars:** pdf (3)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1), template (1)
@@ -8659,6 +8660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), ai (2), next (1), [[Python (Programming Language)|Python]] (1), business (1)
 > **CLI Commands:** python (1)
 > **URLs:** [data-mania.com](https://data-mania.com) (1)
 > **Definitions:** is an  (1)

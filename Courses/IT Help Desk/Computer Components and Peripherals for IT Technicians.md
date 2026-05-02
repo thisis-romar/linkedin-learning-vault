@@ -26,7 +26,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Computer%20Components%20and%20Peripherals%20for%20IT%20Technicians.md)
@@ -45,53 +45,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Expand PC capabilities with peripherals
+  - [Expand PC capabilities with peripherals](#expand-pc-capabilities-with-peripherals)
 - [**1. Hardware Overview**](#1-hardware-overview) (3 videos)
-  - Exploring the computer system
-  - Understanding peripherals
-  - Working with connectors and connections
+  - [Exploring the computer system](#exploring-the-computer-system)
+  - [Understanding peripherals](#understanding-peripherals)
+  - [Working with connectors and connections](#working-with-connectors-and-connections)
 - [**2. Inside Tour**](#2-inside-tour) (6 videos)
-  - Opening the case
-  - Looking inside the box
-  - Exploring the motherboard
-  - Accessing internal storage
-  - Understanding power and cooling
-  - Closing the case
+  - [Opening the case](#opening-the-case)
+  - [Looking inside the box](#looking-inside-the-box)
+  - [Exploring the motherboard](#exploring-the-motherboard)
+  - [Accessing internal storage](#accessing-internal-storage)
+  - [Understanding power and cooling](#understanding-power-and-cooling)
+  - [Closing the case](#closing-the-case)
 - [**3. Internal Features**](#3-internal-features) (3 videos)
-  - Understanding the processor
-  - Reviewing memory requirements
-  - Adding expansion cards
+  - [Understanding the processor](#understanding-the-processor)
+  - [Reviewing memory requirements](#reviewing-memory-requirements)
+  - [Adding expansion cards](#adding-expansion-cards)
 - [**4. Storage**](#4-storage) (3 videos)
-  - Working with internal storage
-  - Adding removable and external storage
-  - Preparing mass storage
+  - [Working with internal storage](#working-with-internal-storage)
+  - [Adding removable and external storage](#adding-removable-and-external-storage)
+  - [Preparing mass storage](#preparing-mass-storage)
 - [**5. PC Graphics System**](#5-pc-graphics-system) (4 videos)
-  - Understanding the graphics system
-  - Adjusting the monitor
-  - Configuring graphics
-  - Adding a second monitor
+  - [Understanding the graphics system](#understanding-the-graphics-system)
+  - [Adjusting the monitor](#adjusting-the-monitor)
+  - [Configuring graphics](#configuring-graphics)
+  - [Adding a second monitor](#adding-a-second-monitor)
 - [**6. Input/Output Devices**](#6-inputoutput-devices) (4 videos)
-  - Connecting a keyboard
-  - Adding pointing devices
-  - Working with touchscreen input
-  - Accessing the audio
+  - [Connecting a keyboard](#connecting-a-keyboard)
+  - [Adding pointing devices](#adding-pointing-devices)
+  - [Working with touchscreen input](#working-with-touchscreen-input)
+  - [Accessing the audio](#accessing-the-audio)
 - [**7. Printers and Printing**](#7-printers-and-printing) (2 videos)
-  - Exploring printer types
-  - Connecting and configuring the printer
+  - [Exploring printer types](#exploring-printer-types)
+  - [Connecting and configuring the printer](#connecting-and-configuring-the-printer)
 - [**8. Networking**](#8-networking) (4 videos)
-  - Exploring the network
-  - Making the network connection
-  - Accessing network resources
-  - Sharing network resources
+  - [Exploring the network](#exploring-the-network)
+  - [Making the network connection](#making-the-network-connection)
+  - [Accessing network resources](#accessing-network-resources)
+  - [Sharing network resources](#sharing-network-resources)
 - [**9. Bluetooth and Bluetooth Peripherals**](#9-bluetooth-and-bluetooth-peripherals) (2 videos)
-  - Understanding Bluetooth
-  - Adding a Bluetooth peripheral
+  - [Understanding Bluetooth](#understanding-bluetooth)
+  - [Adding a Bluetooth peripheral](#adding-a-bluetooth-peripheral)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Pursuing your professional curiosity
+  - [Pursuing your professional curiosity](#pursuing-your-professional-curiosity)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expand PC capabilities with peripherals
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/expand-pc-capabilities-with-peripherals?u=76281980)
@@ -118,14 +118,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
 
 ### 1. Hardware Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the computer system
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-computer-system?u=76281980)
@@ -170,8 +169,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **Env Vars:** ibm (2), cpu (2)
-> **Code Keywords:** this, (1), case. (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
@@ -223,8 +222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** function (1)
 > **Env Vars:** usb (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -326,9 +325,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), feature (1), power (1)
 > **Env Vars:** usb (23), trs (1), rj45 (1), hdmi (1)
 > **Versions:** 3.0 (4), 2.0 (2)
-> **Code Keywords:** type, (1), case. (1), interface (1)
 > **CLI Commands:** find (2)
 > **Documentation:** specification (1)
 > **Definitions:** known as (1)
@@ -338,7 +337,7 @@ created: 2026-04-29
 
 ### 2. Inside Tour
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Opening the case
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980)
@@ -417,7 +416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (4), new, (1), case, (1)
+> **Frameworks & Libraries:** power (3), [[Electronics]] (1), data (1), [[Microsoft Office|Office]] (1), [[Hardware]] (1)
 > **Warnings:** be careful (1), troubleshoot (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
@@ -500,9 +499,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), [[Hardware]] (1), next (1), [[Troubleshooting]] (1)
 > **Env Vars:** cpu (3), ram (1), ssd (1), usb (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** case. (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - inside (1)
@@ -596,11 +595,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (2), power (2), [[Representational State Transfer (REST)|Rest]] (1), [[Electronics]] (1)
 > **Env Vars:** cpu (3), ram (3), bios (1), usb (1)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** type. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Accessing internal storage
@@ -664,9 +663,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), data (3)
 > **CLI Commands:** rails (2)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** require (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -773,7 +772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), require (3), case, (1), case. (1)
+> **Frameworks & Libraries:** power (33), feature (2), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** atx (1), atx12v (1), cpu (1), sata (1), ata (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** select the (1), open the (1)
@@ -867,14 +866,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), case, (1)
+> **Frameworks & Libraries:** power (10), [[Windows]] (2), data (1), [[Hardware]] (1), [[Troubleshooting]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - when (1)
 
 
 ### 3. Internal Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the processor
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980)
@@ -973,8 +972,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), power (2), traffic (1), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cpu (8)
-> **Code Keywords:** function (1), type, (1), require (1), type. (1)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** refers to (1)
 > **Warnings:** be aware (1)
@@ -1087,8 +1086,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), data (2), [[Hardware]] (1)
 > **Env Vars:** ram (9), cpu (5), dimm (3), dram (2), sram (2)
-> **Code Keywords:** module (6), static (2), require (2), case, (2), type. (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** install (2)
@@ -1221,7 +1220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), type. (1), case, (1), static (1), require (1)
+> **Frameworks & Libraries:** power (5), [[Hardware]] (4), feature (2), express (1), [[Windows]] (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** snap (1)
 > **Env Vars:** ibm (1)
@@ -1233,7 +1232,7 @@ created: 2026-04-29
 
 ### 4. Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with internal storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980)
@@ -1314,10 +1313,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (8), [[Windows]] (4), data (4), [[Hardware]] (2), cloud (1)
 > **Env Vars:** sata (8), ata (1), ibm (1)
 > **Definitions:** is a  (2), stands for (2)
 > **CLI Commands:** find (3)
-> **Code Keywords:** interface (1), else. (1), require (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** navigate to (1)
 > **Warnings:** keep in mind (1)
@@ -1426,10 +1425,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), data (3), prompt (1), [[Search]] (1), [[Hardware]] (1)
 > **Env Vars:** usb (10), esata (1)
 > **Versions:** 3.0 (3)
 > **UI Navigation:** open the (2), select the (1)
-> **Code Keywords:** default, (1), let (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** esata (1)
 > **Analogies:** for example (1)
@@ -1544,8 +1543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (10), management (3), data (3), business (1), next (1)
 > **Env Vars:** ntfs (3), efi (2), fat (1)
-> **Code Keywords:** delete (2), case. (1), super (1)
 > **UI Navigation:** click on (3)
 > **Prerequisites:** configure (1), setup (1), install (1)
 > **Code Identifiers:** exfat (1)
@@ -1554,7 +1553,7 @@ created: 2026-04-29
 
 ### 5. PC Graphics System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the graphics system
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980)
@@ -1637,9 +1636,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), [[Microsoft Office|Office]] (2), [[Image Processing]] (1), [[Video Production]] (1), data (1)
 > **Env Vars:** vram (5), gpu (3), ram (2), usb (2), vpu (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** require (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1758,8 +1757,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), data (3), feature (1), [[Windows]] (1)
 > **Env Vars:** lcd (4), usb (2), htmi (1)
-> **Code Keywords:** require (2), super (1), let (1)
 > **Definitions:** known as (1), stands for (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** select the (1)
@@ -1835,6 +1834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), feature (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** recommended (2)
 > **UI Navigation:** click on (1)
@@ -1946,7 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), default, (1), extends (1), require (1), default. (1)
+> **Frameworks & Libraries:** [[Windows]] (4), power (1)
 > **Env Vars:** ram (2), hdmi (1), usb (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), scroll down (1), select the (1)
@@ -1958,7 +1958,7 @@ created: 2026-04-29
 
 ### 6. Input/Output Devices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting a keyboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980)
@@ -2045,8 +2045,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Hardware]] (1), feature (1), [[Microsoft Excel]] (1), [[Fetch]] (1)
 > **Env Vars:** usb (5), led (1)
-> **Code Keywords:** require (2), fn (1), function (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2136,10 +2136,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), feature (1)
 > **Env Vars:** usb (7), led (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (1), similar to (1), such as (1)
-> **Code Keywords:** let (1), require (1)
 > **Versions:** 3.0 (2)
 > **UI Navigation:** double-click (1), open the (1)
 > **Speakers:** - [instructor] (1)
@@ -2193,6 +2193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - with (1)
@@ -2296,9 +2297,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (3), [[Electronics]] (1), cd (1), feature (1)
 > **Env Vars:** usb (3), trs (2), midi (1), pdif (1)
 > **Versions:** 4.0 (2), 3.0 (1), 5.0 (1), 0.1 (1)
-> **Code Keywords:** type, (1), this. (1), let (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** keep in mind (2)
@@ -2308,7 +2309,7 @@ created: 2026-04-29
 
 ### 7. Printers and Printing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring printer types
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-printer-types?u=76281980)
@@ -2359,6 +2360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -2448,8 +2450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Microsoft]] (2), feature (2), [[Hardware]] (1)
 > **Env Vars:** pdf (2), usb (1)
-> **Code Keywords:** let (1), default. (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** setup (2)
 > **UI Navigation:** open the (1)
@@ -2458,7 +2460,7 @@ created: 2026-04-29
 
 ### 8. Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980)
@@ -2541,7 +2543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), public (2), interface (1), require (1), extends (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (2), [[Windows]] (2), [[Security]] (2), [[Hardware]] (1), [[Network Security]] (1)
 > **Env Vars:** mac (3), nic (1), cat5 (1), cat6 (1)
 > **Definitions:** is a  (2), known as (2), stands for (1)
 > **UI Navigation:** go to (1), open the (1)
@@ -2624,7 +2626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (3), switch (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (2), [[Security]] (2), [[Troubleshooting]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -2703,9 +2705,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), prompt (1), game (1), [[Windows 10]] (1), cloud (1)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** private (1)
 > **Env Vars:** rose (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -2770,14 +2772,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (2), cloud (1), [[Microsoft OneDrive|Onedrive]] (1), [[Google Drive]] (1)
 > **UI Navigation:** navigate to (1), open the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 9. Bluetooth and Bluetooth Peripherals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Bluetooth
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980)
@@ -2830,7 +2832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Windows 10]] (1)
 > **Env Vars:** usb (3)
 > **Definitions:** is a  (1), known as (1)
 > **UI Navigation:** open the (1)
@@ -2927,19 +2929,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), power (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pin (3)
 > **UI Navigation:** open the (1), select the (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for, (1)
 > **Versions:** 3.0 (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pursuing your professional curiosity
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/pursuing-your-professional-curiosity?u=76281980)
@@ -2958,6 +2960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (1), [[Search]] (1), career (1)
 > **Speakers:** - are (1)
 
 

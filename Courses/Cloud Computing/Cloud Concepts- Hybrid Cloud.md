@@ -30,7 +30,7 @@ tags:
   - skill/cloud-administration
   - skill/hybrid-cloud
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Concepts-%20Hybrid%20Cloud.md)
@@ -49,29 +49,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Explore the benefits of hybrid cloud
+  - [Explore the benefits of hybrid cloud](#explore-the-benefits-of-hybrid-cloud)
 - [**1. Understanding Hybrid Cloud**](#1-understanding-hybrid-cloud) (3 videos)
-  - Defining cloud concepts
-  - Hybrid cloud benefits
-  - Exploring hybrid cloud use cases
+  - [Defining cloud concepts](#defining-cloud-concepts)
+  - [Hybrid cloud benefits](#hybrid-cloud-benefits)
+  - [Exploring hybrid cloud use cases](#exploring-hybrid-cloud-use-cases)
 - [**2. Hybrid Cloud Vendors**](#2-hybrid-cloud-vendors) (6 videos)
-  - Overview of hybrid cloud vendors
-  - AWS hybrid cloud
-  - Microsoft Azure hybrid cloud
-  - Google hybrid cloud platform
-  - VMware hybrid cloud
-  - IBM hybrid cloud
+  - [Overview of hybrid cloud vendors](#overview-of-hybrid-cloud-vendors)
+  - [AWS hybrid cloud](#aws-hybrid-cloud)
+  - [Microsoft Azure hybrid cloud](#microsoft-azure-hybrid-cloud)
+  - [Google hybrid cloud platform](#google-hybrid-cloud-platform)
+  - [VMware hybrid cloud](#vmware-hybrid-cloud)
+  - [IBM hybrid cloud](#ibm-hybrid-cloud)
 - [**3. Learning Hybrid Cloud Strategies**](#3-learning-hybrid-cloud-strategies) (4 videos)
-  - Hybrid cloud strategy considerations
-  - Hybrid cloud management
-  - Cloud migration best practices
-  - Hybrid cloud security
+  - [Hybrid cloud strategy considerations](#hybrid-cloud-strategy-considerations)
+  - [Hybrid cloud management](#hybrid-cloud-management)
+  - [Cloud migration best practices](#cloud-migration-best-practices)
+  - [Hybrid cloud security](#hybrid-cloud-security)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about hybrid cloud
+  - [Learning more about hybrid cloud](#learning-more-about-hybrid-cloud)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the benefits of hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980)
@@ -94,13 +94,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (6), cloud (4), [[Security]] (1)
 > **Speakers:** - [dominique] (1)
 
 
 ### 1. Understanding Hybrid Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining cloud concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980)
@@ -195,7 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), private (8), from. (2), let (1), case. (1)
+> **Frameworks & Libraries:** cloud (25), [[Hybrid Cloud]] (5), data (4), [[Security]] (3), [[Cloud Infrastructure]] (3)
 > **Analogies:** for example (2), similar to (2)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** aws (1)
@@ -252,7 +252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (5), switch (1)
+> **Frameworks & Libraries:** cloud (10), data (9), [[Hybrid Cloud]] (5), [[Security]] (2), [[Scalability]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -304,7 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), private (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (8), cloud (7), data (5), management (2), [[Big Data]] (2)
 > **Analogies:** similar to (1), such as (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -313,7 +313,7 @@ created: 2026-04-29
 
 ### 2. Hybrid Cloud Vendors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of hybrid cloud vendors
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980)
@@ -364,9 +364,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), cloud (7), [[Hybrid Cloud]] (3), [[Hardware]] (2), [[Cloud Infrastructure]] (2)
 > **Definitions:** is a  (4), known as (1)
 > **Env Vars:** hpe (3), ibm (1)
-> **Code Keywords:** public (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
@@ -401,10 +401,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), cloud (6), [[Amazon Web Services (AWS)|Amazon web services]] (2), application (1), [[Databases]] (1)
 > **CLI Commands:** aws (11)
 > **Env Vars:** aws (11)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** public (2)
 > **Speakers:** - [dominique] (1)
 
 #### Microsoft Azure hybrid cloud
@@ -442,7 +442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), switch (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Azure|Azure]] (5), [[Microsoft Azure]] (3), cloud (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** sql (1), crm (1)
 > **URLs:** [microsoft.net](https://microsoft.net) (1)
 > **Speakers:** - [narrator] (1)
@@ -486,7 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), public (1)
+> **Frameworks & Libraries:** [[Google]] (9), [[Search]] (2), cloud (2), data (2), gcp (2)
 > **Env Vars:** gcp (2)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
@@ -535,9 +535,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), aws (6), [[Virtualization]] (4), [[Cloud Infrastructure]] (2), [[Hybrid Cloud]] (2)
 > **CLI Commands:** aws (6)
 > **Env Vars:** aws (6)
-> **Code Keywords:** public (4), include: (1)
 > **Analogies:** such as (2), for example (1)
 > **Code Identifiers:** ios (1), vsphere (1)
 > **Prerequisites:** setup (2)
@@ -580,8 +580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[Blockchain]] (2), business (2), [[Virtualization]] (1), ai (1)
 > **Env Vars:** ibm (14)
-> **Code Keywords:** private (3), public (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
@@ -589,7 +589,7 @@ created: 2026-04-29
 
 ### 3. Learning Hybrid Cloud Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid cloud strategy considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980)
@@ -630,7 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), private (1)
+> **Frameworks & Libraries:** cloud (5), data (4), [[Hybrid Cloud]] (3), next (1), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -678,6 +678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Security]] (4), management (3), [[Orchestration]] (3), [[Automation]] (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** ssl (1), tls (1)
 > **Best Practices:** it's best to (1)
@@ -739,8 +740,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), teams (4), [[Security]] (2), business (2), data (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
@@ -791,7 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), public (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (6), data (5), cloud (4), [[Hybrid Cloud]] (4), [[Cloud Infrastructure]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** such as (2)
@@ -802,7 +803,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980)
@@ -827,7 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** cloud (4), [[Hybrid Cloud]] (3), [[Security]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [dominique] (1)
 

@@ -30,7 +30,7 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Project%20Management%20with%20Jira%20Cloud-%202%20Lean%20and%20Agile%20Processes.md)
@@ -49,25 +49,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course overview
+  - [Course overview](#course-overview)
 - [**1. Lean and Agile Principles**](#1-lean-and-agile-principles) (1 videos)
-  - Lean and agile principles
+  - [Lean and agile principles](#lean-and-agile-principles)
 - [**2. Scrum Overview**](#2-scrum-overview) (1 videos)
-  - Scrum overview
+  - [Scrum overview](#scrum-overview)
 - [**3. Scrum Overview 2**](#3-scrum-overview-2) (3 videos)
-  - Scrum overview 2
-  - Lab: Cloud company-managed
-  - Lab: Team-managed
+  - [Scrum overview 2](#scrum-overview-2)
+  - [Lab: Cloud company-managed](#lab-cloud-company-managed)
+  - [Lab: Team-managed](#lab-team-managed)
 - [**4. Quick Search and Basic Search**](#4-quick-search-and-basic-search) (2 videos)
-  - Quick search and basic search
-  - Lab: Cloud
+  - [Quick search and basic search](#quick-search-and-basic-search)
+  - [Lab: Cloud](#lab-cloud)
 - [**5. Jira Query Language (JQL)**](#5-jira-query-language-jql) (2 videos)
-  - Jira Query Language (JQL)
-  - Lab: Cloud
+  - [Jira Query Language (JQL)](#jira-query-language-jql)
+  - [Lab: Cloud](#lab-cloud)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980)
@@ -110,8 +110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Jira]] (6), cloud (4), [[Atlassian]] (4), [[Search]] (4)
 > **Tools:** jira (6)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** jql (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Prerequisites:** configure (2)
@@ -121,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Lean and Agile Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lean and agile principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lean-and-agile-principles?u=76281980)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 ### 2. Scrum Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980)
@@ -314,6 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (16), product (16), [[Agile Development|Agile]] (5), [[Microsoft Products|Products]] (1), [[Programming]] (1)
 > **Definitions:** is a  (10), is an  (2), is called (2), known as (1)
 > **Analogies:** such as (5), similar to (1)
 > **Env Vars:** jira (1)
@@ -324,7 +325,7 @@ created: 2026-04-29
 
 ### 3. Scrum Overview 2
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum overview 2
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview-2?u=76281980)
@@ -487,9 +488,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (41), product (16), next (6), teams (3), functional (2)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (3), similar to (1)
-> **Code Keywords:** continue (1), self (1), pass (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -573,7 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** [[Scrum]] (4), product (4), [[Jira]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** jira (3)
 > **UI Navigation:** select the (3)
 > **Exercise Files:** template (2)
@@ -663,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1)
+> **Frameworks & Libraries:** [[Scrum]] (6), product (6), next (3), [[Jira]] (1)
 > **Cross-References:** go back to (2)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
@@ -675,7 +676,7 @@ created: 2026-04-29
 
 ### 4. Quick Search and Basic Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Quick search and basic search
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980)
@@ -754,7 +755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), interface (3)
+> **Frameworks & Libraries:** [[Search]] (35), [[Jira]] (6), next (2), [[Microsoft Word|Word]] (2), [[Dashboards]] (1)
 > **Tools:** jira (6)
 > **UI Navigation:** click on (1), select the (1), dropdown (1)
 > **Definitions:** is a  (3)
@@ -883,7 +884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (1), case, (1), delete (1)
+> **Frameworks & Libraries:** [[Search]] (23), [[Microsoft Word|Word]] (4), next (3)
 > **UI Navigation:** dropdown (4), select the (4), in the sidebar (2), switch to (1), drag and drop (1)
 > **Cross-References:** in the last (2), go back to (1)
 > **Definitions:** is a  (1), known as (1)
@@ -894,7 +895,7 @@ created: 2026-04-29
 
 ### 5. Jira Query Language (JQL)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Jira Query Language (JQL)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/jira-query-language-jql?u=76281980)
@@ -1073,8 +1074,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (29), [[Jira]] (9), next (2), [[Automation]] (1), cloud (1)
 > **Env Vars:** jql (21)
-> **Code Keywords:** case, (8), function (6), interface (2), switch (1)
 > **Tools:** jira (9)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is called (1), is an  (1), means that (1)
@@ -1133,8 +1134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (11), next (1)
 > **Env Vars:** jql (11)
-> **Code Keywords:** let (3), function (3), switch (2), finally, (1)
 > **UI Navigation:** switch to (2), select the (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)

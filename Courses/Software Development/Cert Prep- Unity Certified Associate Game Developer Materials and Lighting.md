@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/unity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Materials%20and%20Lighting.md)
@@ -47,40 +47,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Material and lighting foundations
-  - Companion files
+  - [Material and lighting foundations](#material-and-lighting-foundations)
+  - [Companion files](#companion-files)
 - [**1. Materials**](#1-materials) (6 videos)
-  - Render pipelines
-  - Standard 3D
-  - URP materials vs. HDRP
-  - Upgrading materials
-  - Textures and normal maps
-  - Tiling materials
+  - [Render pipelines](#render-pipelines)
+  - [Standard 3D](#standard-3d)
+  - [URP materials vs. HDRP](#urp-materials-vs-hdrp)
+  - [Upgrading materials](#upgrading-materials)
+  - [Textures and normal maps](#textures-and-normal-maps)
+  - [Tiling materials](#tiling-materials)
 - [**2. Lighting**](#2-lighting) (6 videos)
-  - Standard lights
-  - Area lights
-  - Lightmapping: Getting started
-  - More lightmapping
-  - Reflections
-  - Emissive lighting
+  - [Standard lights](#standard-lights)
+  - [Area lights](#area-lights)
+  - [Lightmapping: Getting started](#lightmapping-getting-started)
+  - [More lightmapping](#more-lightmapping)
+  - [Reflections](#reflections)
+  - [Emissive lighting](#emissive-lighting)
 - [**3. Lighting and Performance**](#3-lighting-and-performance) (4 videos)
-  - Shadows and quality
-  - Lightmapping settings
-  - Light probes
-  - Occlusion culling
+  - [Shadows and quality](#shadows-and-quality)
+  - [Lightmapping settings](#lightmapping-settings)
+  - [Light probes](#light-probes)
+  - [Occlusion culling](#occlusion-culling)
 - [**4. Post-Processing**](#4-post-processing) (6 videos)
-  - Volumes and effects
-  - Bloom
-  - Color correction
-  - Vignette
-  - Depth of field
-  - Chromatic abberation
+  - [Volumes and effects](#volumes-and-effects)
+  - [Bloom](#bloom)
+  - [Color correction](#color-correction)
+  - [Vignette](#vignette)
+  - [Depth of field](#depth-of-field)
+  - [Chromatic abberation](#chromatic-abberation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Material and lighting foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/material-and-lighting-foundations?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Unity]] (5), feature (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (4)
 > **Exercise Files:** exercise files (4)
 > **UI Navigation:** go to (1), open the (1), drag and drop (1)
 > **Analogies:** for example (1)
@@ -137,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Materials
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Render pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980)
@@ -198,7 +199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), default, (1)
+> **Frameworks & Libraries:** [[Unity]] (9), [[Hardware]] (2), next (2), [[Decision-Making]] (1), power (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Exercise Files:** template (2)
@@ -425,7 +426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), super (2), switch (1), case, (1)
+> **Frameworks & Libraries:** [[Unity]] (7), [[Mesh]] (7), next (1), [[Zoom]] (1)
 > **UI Navigation:** select the (7), click on (1), drag and drop (1)
 > **Definitions:** is a  (7), is an  (1), means that (1)
 > **Analogies:** for example (4), such as (1)
@@ -617,9 +618,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (4), [[Mesh]] (2), hit (1)
 > **Analogies:** for example (7), just like (1)
 > **UI Navigation:** click on (4), select the (2), dropdown (1)
-> **Code Keywords:** let (2), type. (1), from. (1), switch (1), case, (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** hdrp (2), pbr (1)
 > **Definitions:** is a  (3)
@@ -767,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), import. (1), delete (1), continue (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[Mesh]] (2), hit (1)
 > **UI Navigation:** select the (5), click on (2), drag and drop (2), go to (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** for example (2)
@@ -877,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Mesh]] (4), [[Unity]] (3), next (2), hit (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** select the (4), right-click (1), click on (1)
 > **Env Vars:** jpeg (1), png (1), tif (1)
@@ -1035,19 +1036,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (4), [[Vertex]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (1), snap (1)
 > **UI Navigation:** drag and drop (2), select the (2)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** is a  (3)
 > **Exercise Files:** exercise files (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** png (1)
 > **Cross-References:** go back to (1)
 
 
 ### 2. Lighting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Standard lights
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-lights?u=76281980)
@@ -1256,7 +1257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), delete (2), for. (1), this, (1)
+> **Frameworks & Libraries:** game (4), [[Unity]] (3), next (1)
 > **Analogies:** for example (3), kind of like (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (2), toggle (1)
@@ -1338,7 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), raise (1), this, (1), super (1)
+> **Frameworks & Libraries:** game (2), [[Zoom]] (1), [[Mesh]] (1), next (1)
 > **Analogies:** similar to (1), kind of like (1)
 > **Env Vars:** ev100 (1)
 > **Cross-References:** in the next (1)
@@ -1465,7 +1466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (5), this, (4), switch (3), case, (2), default, (1)
+> **Frameworks & Libraries:** [[Unity]] (8), hit (5), next (4), game (2), [[Real-Time]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (2), go to (2)
 > **Cross-References:** go back to (2)
@@ -1633,8 +1634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), game (2), hit (2), [[Zoom]] (2), next (1)
 > **Analogies:** for example (7), such as (1)
-> **Code Keywords:** static (2), this, (1), delete (1)
 > **Cross-References:** go back to (3), in the next (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (2), checkbox (1)
@@ -1788,7 +1789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), super (1), this. (1), raise (1)
+> **Frameworks & Libraries:** next (3), feature (1), [[Unity]] (1), game (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (3)
@@ -1879,9 +1880,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Mesh]] (2), feature (2), [[Unity]] (1), game (1)
 > **UI Navigation:** select the (3), toggle (1), right-click (1), scroll down (1), click on (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** static (2), let (1), case, (1), switch (1)
 > **Analogies:** for example (3), imagine (1)
 > **Env Vars:** ev100 (1)
 > **Cross-References:** go back to (1)
@@ -1890,7 +1891,7 @@ created: 2026-04-29
 
 ### 3. Lighting and Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shadows and quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?u=76281980)
@@ -2053,7 +2054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), default, (1), super (1), default. (1), this. (1)
+> **Frameworks & Libraries:** [[Unity]] (1), product (1)
 > **UI Navigation:** go to (2), select the (2), checkbox (1), click on (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** means that (3), is a  (1), refers to (1)
@@ -2209,7 +2210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (2), static (1), switch (1), case, (1)
+> **Frameworks & Libraries:** data (4), [[Unity]] (2), hit (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** means that (3), is a  (2), known as (1)
 > **UI Navigation:** checkbox (2), dropdown (1), go to (1), select the (1)
@@ -2467,8 +2468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (4), game (3), hit (2), [[Unity]] (2), next (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** static (4), case, (1), let (1), default, (1)
 > **UI Navigation:** select the (3), go to (1)
 > **Cross-References:** earlier in (1), go back to (1)
 > **Analogies:** for example (2)
@@ -2616,7 +2617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), switch (1), default. (1)
+> **Frameworks & Libraries:** [[Unity]] (6), next (2), hit (2), game (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (2), select the (2), switch to (1)
 > **Definitions:** is an  (2), means that (1)
@@ -2628,7 +2629,7 @@ created: 2026-04-29
 
 ### 4. Post-Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Volumes and effects
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/volumes-and-effects?u=76281980)
@@ -2735,7 +2736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), this, (1), override (1)
+> **Frameworks & Libraries:** [[Unity]] (6), next (3), hit (2), game (1), application (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
@@ -2861,8 +2862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), data (1), next (1), [[Windows]] (1), application (1)
 > **UI Navigation:** click on (2), dropdown (2), toggle (2), select the (1), switch to (1)
-> **Code Keywords:** let (3), override (1), this, (1), case, (1), switch (1)
 > **Versions:** 0.5 (1), 0.6 (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -2962,7 +2963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (4), case, (4), raise (1)
+> **Frameworks & Libraries:** next (2), application (1), [[Unity]] (1), game (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** refers to (2)
@@ -3069,7 +3070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), override (2), this. (1)
+> **Frameworks & Libraries:** next (1), game (1)
 > **Versions:** 0.5 (3)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -3145,7 +3146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (2), this, (2), override (1), default, (1)
+> **Frameworks & Libraries:** game (3), [[Search]] (1)
 > **UI Navigation:** select the (3), dropdown (1), switch to (1)
 > **CLI Commands:** make (4)
 > **Versions:** 0.52 (1)
@@ -3227,7 +3228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), override (2), this, (2)
+> **Frameworks & Libraries:** power (1)
 > **UI Navigation:** select the (1), click on (1), checkbox (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
@@ -3235,7 +3236,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/next-steps?u=76281980)
@@ -3262,7 +3263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), let (1)
+> **Frameworks & Libraries:** [[Unity]] (3), next (1)
 > **Analogies:** such as (2)
 > **Speakers:** - congratulations (1)
 

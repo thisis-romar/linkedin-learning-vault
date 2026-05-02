@@ -37,7 +37,7 @@ tags:
   - skill/microsoft-power-bi
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI-%20Working%20Together%20with%20ChatGPT.md)
@@ -56,41 +56,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Working with Power BI and ChatGPT
-  - What you should know
+  - [Working with Power BI and ChatGPT](#working-with-power-bi-and-chatgpt)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding Power BI and OpenAI**](#1-understanding-power-bi-and-openai) (3 videos)
-  - What is Power BI?
-  - What is ChatGPT?
-  - How can Power BI be used effectively with ChatGPT
+  - [What is Power BI?](#what-is-power-bi)
+  - [What is ChatGPT?](#what-is-chatgpt)
+  - [How can Power BI be used effectively with ChatGPT](#how-can-power-bi-be-used-effectively-with-chatgpt)
 - [**2. Power BI ChatGPT Data Integration**](#2-power-bi-chatgpt-data-integration) (5 videos)
-  - Data source troubleshooting
-  - Types of data connectors
-  - Connecting with data
-  - Challenge: Use ChatGPT to guide you on connecting with an Excel file
-  - Solution: Use ChatGPT to guide you on connecting with an Excel file
+  - [Data source troubleshooting](#data-source-troubleshooting)
+  - [Types of data connectors](#types-of-data-connectors)
+  - [Connecting with data](#connecting-with-data)
+  - [Challenge: Use ChatGPT to guide you on connecting with an Excel file](#challenge-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file)
+  - [Solution: Use ChatGPT to guide you on connecting with an Excel file](#solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file)
 - [**3. Power BI ChatGPT Data Manipulation**](#3-power-bi-chatgpt-data-manipulation) (8 videos)
-  - Why use ChatGPT for data manipulation
-  - Changing field types
-  - Working with filters
-  - Merging fields
-  - Extracting part of a field
-  - Creating calculated fields
-  - Challenge: Use ChatGPT to guide you on changing the format of a data field
-  - Solution: Use ChatGPT to guide you on changing the format of a data field
+  - [Why use ChatGPT for data manipulation](#why-use-chatgpt-for-data-manipulation)
+  - [Changing field types](#changing-field-types)
+  - [Working with filters](#working-with-filters)
+  - [Merging fields](#merging-fields)
+  - [Extracting part of a field](#extracting-part-of-a-field)
+  - [Creating calculated fields](#creating-calculated-fields)
+  - [Challenge: Use ChatGPT to guide you on changing the format of a data field](#challenge-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field)
+  - [Solution: Use ChatGPT to guide you on changing the format of a data field](#solution-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field)
 - [**4. Power BI ChatGPT Data Analysis**](#4-power-bi-chatgpt-data-analysis) (5 videos)
-  - Why use ChatGPT for data analysis
-  - Creating visualizations
-  - Idea generation
-  - Challenge: Use ChatGPT to guide you on creating a card visualization
-  - Solution: Use ChatGPT to guide you on creating a card visualization
+  - [Why use ChatGPT for data analysis](#why-use-chatgpt-for-data-analysis)
+  - [Creating visualizations](#creating-visualizations)
+  - [Idea generation](#idea-generation)
+  - [Challenge: Use ChatGPT to guide you on creating a card visualization](#challenge-use-chatgpt-to-guide-you-on-creating-a-card-visualization)
+  - [Solution: Use ChatGPT to guide you on creating a card visualization](#solution-use-chatgpt-to-guide-you-on-creating-a-card-visualization)
 - [**Continuing Your Power BI and Generative AI Learning Journey**](#continuing-your-power-bi-and-generative-ai-learning-journey) (3 videos)
-  - Take the next step with Copliot
-  - Learn how Copilot can make a difference
-  - Where to learn more about ChatGPT
+  - [Take the next step with Copliot](#take-the-next-step-with-copliot)
+  - [Learn how Copilot can make a difference](#learn-how-copilot-can-make-a-difference)
+  - [Where to learn more about ChatGPT](#where-to-learn-more-about-chatgpt)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with Power BI and ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980)
@@ -113,8 +113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), power (3), bi (3), ai (1), chatbot (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 
 #### What you should know
@@ -148,17 +148,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3), power (3), bi (3), [[Microsoft]] (1)
 > **Prerequisites:** you'll need (3), getting started (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [openai.com](https://openai.com) (1), [microsoft.com](https://microsoft.com) (1)
-> **Code Keywords:** finally, (1)
 > **Versions:** version 3 (1)
 > **Exercise Files:** exercise files (1)
 
 
 ### 1. Understanding Power BI and OpenAI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Power BI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980)
@@ -185,7 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** power (5), bi (5), data (5), [[Microsoft]] (2), [[Storytelling]] (1)
 
 #### What is ChatGPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-chatgpt?u=76281980)
@@ -228,7 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), power (1), bi (1)
 > **Env Vars:** gpt (2)
 > **Definitions:** stands for (1), is an  (1)
 
@@ -283,13 +283,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), interface (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (3), power (3), bi (3), data (1)
 > **Analogies:** such as (1)
 
 
 ### 2. Power BI ChatGPT Data Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data source troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980)
@@ -404,7 +404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (2), for, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), data (7), power (5), bi (5), [[Microsoft Power Query|Power query]] (3)
 > **UI Navigation:** click on (8), go to (2), dropdown (1), select the (1)
 > **Exercise Files:** exercise files (2), exercise file (1)
 > **CLI Commands:** find (1), make (1)
@@ -447,7 +447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), this, (1), this. (1)
+> **Frameworks & Libraries:** power (6), bi (6), data (5), [[ChatGPT]] (4), application (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
@@ -492,7 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), new. (1)
+> **Frameworks & Libraries:** [[SharePoint]] (6), [[ChatGPT]] (4), power (3), bi (3), data (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** click on (3)
 > **Env Vars:** url (1)
@@ -515,6 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[ChatGPT]] (2), [[Microsoft Power Query|Power query]] (1), power (1), bi (1)
 > **Exercise Files:** exercise file (1)
 
 #### Solution: Use ChatGPT to guide you on connecting with an Excel file
@@ -596,8 +597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[ChatGPT]] (5), power (4), bi (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** override (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise file (1)
@@ -606,7 +607,7 @@ created: 2026-04-29
 
 ### 3. Power BI ChatGPT Data Manipulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use ChatGPT for data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980)
@@ -627,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Data Manipulation]] (2), power (1), bi (1), [[Data Transformation]] (1)
 
 #### Changing field types
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/changing-field-types?u=76281980)
@@ -666,7 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), default, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), power (2), bi (2), data (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise file (1)
@@ -769,7 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1), delete (1), this. (1)
+> **Frameworks & Libraries:** power (5), bi (5), [[ChatGPT]] (5), data (1)
 > **UI Navigation:** select the (2), click on (1)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
@@ -846,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Microsoft Power Query|Power query]] (3), power (2), data (1), bi (1)
 > **UI Navigation:** select the (2), right-click (2), click on (1)
 > **Exercise Files:** exercise file (1), sample code (1)
 > **Definitions:** is a  (2)
@@ -897,7 +898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), from, (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[ChatGPT]] (2), power (2), bi (2), data (1)
 > **UI Navigation:** select the (2), dropdown (1), click on (1)
 > **Env Vars:** dob (1)
 > **Exercise Files:** exercise file (1)
@@ -956,7 +957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), power (2), bi (2), data (1), [[ChatGPT]] (1)
 > **UI Navigation:** click on (2), select the (1), double-click (1)
 > **Versions:** 0.11 (1)
 > **Exercise Files:** exercise file (1)
@@ -986,6 +987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Data Transformation]] (1), power (1), bi (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 
@@ -1028,13 +1030,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (2), power (2), bi (2), data (2)
 > **UI Navigation:** dropdown (2), click on (1)
-> **Code Keywords:** let (1), type. (1)
 
 
 ### 4. Power BI ChatGPT Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use ChatGPT for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-analysis?u=76281980)
@@ -1053,7 +1055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), super (1), let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), power (1), bi (1), [[Microsoft Power Query|Power query]] (1), data (1)
 
 #### Creating visualizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-visualizations?u=76281980)
@@ -1136,7 +1138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), power (4), bi (4)
 > **UI Navigation:** right-click (3), go to (1), click on (1), select the (1), drag and drop (1)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** go back to (2)
@@ -1205,7 +1207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (7), [[ChatGPT]] (6), power (5), bi (5), [[Dashboards]] (1)
 
 #### Challenge: Use ChatGPT to guide you on creating a card visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980)
@@ -1228,6 +1230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (2), data (1), power (1), bi (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -1307,8 +1310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), bi (4), [[ChatGPT]] (4)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (3), this, (1)
 > **UI Navigation:** select the (2), drag and drop (1), dropdown (1)
 > **Warnings:** be careful (1), note that (1)
 > **Definitions:** is called (1)
@@ -1316,7 +1319,7 @@ created: 2026-04-29
 
 ### Continuing Your Power BI and Generative AI Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the next step with Copliot
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980)
@@ -1357,6 +1360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), power (4), bi (4), data (3), [[ChatGPT]] (2)
 > **Definitions:** is called (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1430,8 +1434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), power (3), bi (3), data (3), feature (1)
 > **UI Navigation:** click on (5), go to (1)
-> **Code Keywords:** let (4), this. (1)
 > **Non-Speech:** (silence) (3)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (2)
@@ -1469,8 +1473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), power (4), bi (4), ai (1), data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Versions:** 3.5 (1)
 > **Definitions:** is a  (1)

@@ -28,7 +28,7 @@ tags:
   - topic/devops
   - skill/kubernetes
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Kubernetes-%20Your%20First%20Project%20(2021).md)
@@ -47,64 +47,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Your first project on Kubernetes
-  - What you should know
-  - Configuring AWS access
+  - [Your first project on Kubernetes](#your-first-project-on-kubernetes)
+  - [What you should know](#what-you-should-know)
+  - [Configuring AWS access](#configuring-aws-access)
 - [**1. The Project/The Mission**](#1-the-projectthe-mission) (2 videos)
-  - Our application: Pre-Kubernetes
-  - Our application: Post-Kubernetes
+  - [Our application: Pre-Kubernetes](#our-application-pre-kubernetes)
+  - [Our application: Post-Kubernetes](#our-application-post-kubernetes)
 - [**2. A Brief Overview of Kubernetes**](#2-a-brief-overview-of-kubernetes) (2 videos)
-  - How Docker containers work
-  - What is Kubernetes?
+  - [How Docker containers work](#how-docker-containers-work)
+  - [What is Kubernetes?](#what-is-kubernetes)
 - [**3. Testing Locally with Docker**](#3-testing-locally-with-docker) (7 videos)
-  - Installing Docker
-  - Writing our project's Dockerfile
-  - Building the Docker image from the Dockerfile
-  - Writing our project's makefile
-  - Testing the website with make
-  - Challenge: Write a teardown make target
-  - Solution: Write a teardown make target
+  - [Installing Docker](#installing-docker)
+  - [Writing our project's Dockerfile](#writing-our-projects-dockerfile)
+  - [Building the Docker image from the Dockerfile](#building-the-docker-image-from-the-dockerfile)
+  - [Writing our project's makefile](#writing-our-projects-makefile)
+  - [Testing the website with make](#testing-the-website-with-make)
+  - [Challenge: Write a teardown make target](#challenge-write-a-teardown-make-target)
+  - [Solution: Write a teardown make target](#solution-write-a-teardown-make-target)
 - [**4. Running Kubernetes Locally with kind**](#4-running-kubernetes-locally-with-kind) (10 videos)
-  - What is kind?
-  - Installing kind
-  - Creating the kind cluster
-  - Creating the kind cluster with make
-  - Creating a local Docker Registry
-  - Creating the local Docker Registry with make
-  - Linking the local Docker Registry to the kind cluster
-  - Linking the kind registry with make
-  - Challenge: Deleting kind clusters with make
-  - Solution: Deleting kind clusters with make
+  - [What is kind?](#what-is-kind)
+  - [Installing kind](#installing-kind)
+  - [Creating the kind cluster](#creating-the-kind-cluster)
+  - [Creating the kind cluster with make](#creating-the-kind-cluster-with-make)
+  - [Creating a local Docker Registry](#creating-a-local-docker-registry)
+  - [Creating the local Docker Registry with make](#creating-the-local-docker-registry-with-make)
+  - [Linking the local Docker Registry to the kind cluster](#linking-the-local-docker-registry-to-the-kind-cluster)
+  - [Linking the kind registry with make](#linking-the-kind-registry-with-make)
+  - [Challenge: Deleting kind clusters with make](#challenge-deleting-kind-clusters-with-make)
+  - [Solution: Deleting kind clusters with make](#solution-deleting-kind-clusters-with-make)
 - [**5. Our First Kubernetes Manifests**](#5-our-first-kubernetes-manifests) (7 videos)
-  - Understanding Kubernetes manifests: Part 1
-  - Understanding Kubernetes manifests: Part 2
-  - Creating a Deployment
-  - Creating a Service
-  - Understanding Ingress and Ingress controllers
-  - Creating the Ingress
-  - Configuring kind to use Ingress controllers
+  - [Understanding Kubernetes manifests: Part 1](#understanding-kubernetes-manifests-part-1)
+  - [Understanding Kubernetes manifests: Part 2](#understanding-kubernetes-manifests-part-2)
+  - [Creating a Deployment](#creating-a-deployment)
+  - [Creating a Service](#creating-a-service)
+  - [Understanding Ingress and Ingress controllers](#understanding-ingress-and-ingress-controllers)
+  - [Creating the Ingress](#creating-the-ingress)
+  - [Configuring kind to use Ingress controllers](#configuring-kind-to-use-ingress-controllers)
 - [**6. Our First Helm Chart**](#6-our-first-helm-chart) (7 videos)
-  - What is Helm?
-  - Creating our Chart metadata
-  - Creating our Chart values
-  - Templatizing a Deployment
-  - Deploying our Helm Chart with make
-  - Challenge: Change the port number
-  - Solution: Change the port number
+  - [What is Helm?](#what-is-helm)
+  - [Creating our Chart metadata](#creating-our-chart-metadata)
+  - [Creating our Chart values](#creating-our-chart-values)
+  - [Templatizing a Deployment](#templatizing-a-deployment)
+  - [Deploying our Helm Chart with make](#deploying-our-helm-chart-with-make)
+  - [Challenge: Change the port number](#challenge-change-the-port-number)
+  - [Solution: Change the port number](#solution-change-the-port-number)
 - [**7. We'll Do It Live**](#7-well-do-it-live) (7 videos)
-  - From local testing to EKS: What's changing?
-  - Explaining the kubeconfig
-  - Logging into an AWS EKS cluster with kubectl
-  - Deploy our Docker image into AWS ECR with the Docker CLI
-  - Deploying our Helm Chart into AWS EKS with make
-  - The smoke test: Does it work?
-  - Cleaning up
+  - [From local testing to EKS: What's changing?](#from-local-testing-to-eks-whats-changing)
+  - [Explaining the kubeconfig](#explaining-the-kubeconfig)
+  - [Logging into an AWS EKS cluster with kubectl](#logging-into-an-aws-eks-cluster-with-kubectl)
+  - [Deploy our Docker image into AWS ECR with the Docker CLI](#deploy-our-docker-image-into-aws-ecr-with-the-docker-cli)
+  - [Deploying our Helm Chart into AWS EKS with make](#deploying-our-helm-chart-into-aws-eks-with-make)
+  - [The smoke test: Does it work?](#the-smoke-test-does-it-work)
+  - [Cleaning up](#cleaning-up)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your first project on Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980)
@@ -135,8 +135,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (9), teams (2), data (1), [[Hardware]] (1), business (1)
 > **CLI Commands:** docker (3), aws (1)
-> **Code Keywords:** require (1), let (1)
 > **URLs:** [explorercalifornia.com](https://explorercalifornia.com) (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [carlos] (1)
@@ -176,6 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (3), aws (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), data (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (2), eks (2), ec2 (1)
 > **CLI Commands:** aws (2), make (1)
 > **Tools:** terminal (2), bash (1)
@@ -183,7 +184,6 @@ created: 2026-04-29
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** you'll need (1)
-> **Speakers:** - [instructor] (1)
 
 #### Configuring AWS access
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980)
@@ -416,10 +416,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (16), next (13), [[CLI]] (4), [[JSON]] (3), hit (3)
 > **Env Vars:** aws (14), cli (4), json (3), iam (2), ec2 (2)
 > **UI Navigation:** click on (26), navigate to (1), go to (1)
 > **CLI Commands:** aws (16), git (2), make (1)
-> **Code Keywords:** let (3), this, (2), finally, (2), type. (1), case, (1)
 > **Tools:** terminal (3), bash (3), command line (1)
 > **Prerequisites:** configure (3), you'll need (2), install (2)
 > **Definitions:** is called (3), is a  (2), is an  (1)
@@ -428,7 +428,7 @@ created: 2026-04-29
 
 ### 1. The Project/The Mission
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Our application: Pre-Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980)
@@ -505,9 +505,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Virtual Machines]] (6), teams (5), aws (3), [[Engineering]] (3)
 > **CLI Commands:** aws (3), docker (3), make (2), terraform (1), find (1)
 > **Env Vars:** aws (3), dev (2), cto (2), ec2 (1), eks (1)
-> **Code Keywords:** for. (1), let (1), new. (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -580,16 +580,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (10), teams (6), [[Engineering]] (2), [[Ansible]] (2), [[Helm]] (2)
 > **CLI Commands:** docker (3), ansible (2)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (3)
 > **Env Vars:** cto (1), ec2 (1), svp (1)
-> **Code Keywords:** switch (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. A Brief Overview of Kubernetes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How Docker containers work
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980)
@@ -692,9 +692,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), [[Virtual Machines]] (3), application (3), [[Kubernetes]] (2), web (2)
 > **CLI Commands:** docker (21), nginx (1)
 > **Env Vars:** txt (4), tmp (3), api (1)
-> **Code Keywords:** let (3), case, (2), from. (1), this, (1)
 > **Analogies:** just like (2), such as (1), imagine (1)
 > **Tools:** terminal (2), command line (1)
 > **Definitions:** is a  (2)
@@ -786,8 +786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (23), application (4), [[Orchestration]] (3), data (2), teams (1)
 > **CLI Commands:** docker (3), find (1), make (1)
-> **Code Keywords:** this. (3), let (2)
 > **Env Vars:** dns (1), http (1), idrl (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1), [https://kubernetes.io](https://kubernetes.io) (1)
 > **Definitions:** is a  (1), is called (1)
@@ -797,7 +797,7 @@ created: 2026-04-29
 
 ### 3. Testing Locally with Docker
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980)
@@ -872,9 +872,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Linux]] (2), application (2), hit (2), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** docker (20), brew (3), yum (1)
 > **Prerequisites:** install (13), you'll need (2)
-> **Code Keywords:** this, (2), try. (1), let (1), this. (1)
 > **Tools:** command line (2), terminal (1)
 > **Definitions:** means that (2), is a  (1)
 > **File Paths:** brew.sh (1)
@@ -1012,8 +1012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), application (2), [[Fetch]] (1), [[Configuration Management]] (1), [[Ansible]] (1)
 > **CLI Commands:** docker (28), nginx (10), make (4), ansible (1)
-> **Code Keywords:** let (4), this. (3), public (1), private (1), case, (1)
 > **Cross-References:** we talked about (1), later in (1), go back to (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1), [docker.com](https://docker.com) (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1130,8 +1130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **CLI Commands:** docker (19), make (3), rm (2), find (1)
-> **Code Keywords:** let (6), this. (3), case, (2), default, (1), super (1)
 > **Ports:** port 5000 (3), port 80 (2)
 > **URLs:** [explorercalifornia.com](https://explorercalifornia.com) (2), [explorecalifornia.com](https://explorecalifornia.com) (2)
 > **Tools:** command line (3), terminal (1)
@@ -1224,8 +1224,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[GitHub]] (1), feature (1), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (16), docker (7)
-> **Code Keywords:** let (3), this. (2), default, (1), case, (1)
 > **Code Identifiers:** run_website (5)
 > **Definitions:** is a  (2), is called (2)
 > **Tools:** firefox (1), github (1), terminal (1)
@@ -1290,8 +1290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (4), finally, (1), this, (1), case. (1)
 > **Code Identifiers:** run_website (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** phony (1)
@@ -1389,7 +1389,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (9), docker (4), rm (1)
-> **Code Keywords:** let (8), this. (1), this, (1), from. (1), continue (1)
 > **Definitions:** is a  (1), means that (1), short for (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (2)
 > **Tools:** terminal (1)
@@ -1399,7 +1398,7 @@ created: 2026-04-29
 
 ### 4. Running Kubernetes Locally with kind
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is kind?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980)
@@ -1454,9 +1453,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (9), feature (2), aws (1), application (1), [[Helm]] (1)
 > **CLI Commands:** docker (6), aws (1), kubectl (1)
 > **Env Vars:** k3s (5), aws (1), k0s (1)
-> **Code Keywords:** delete (1), let (1)
 > **Tools:** command line (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
@@ -1560,8 +1559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), next (2), [[Windows]] (2), hit (2), [[Kubernetes]] (1)
 > **CLI Commands:** make (6), curl (6), chmod (3)
-> **Code Keywords:** let (6), this, (3), for. (1), this. (1)
 > **UI Navigation:** click on (6), scroll down (2)
 > **Tools:** terminal (2), github (1), command line (1)
 > **Code Identifiers:** install_kind (3)
@@ -1654,8 +1653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (6), next (1), [[Windows]] (1), [[JSON]] (1), aws (1)
 > **CLI Commands:** kubectl (12), docker (8), make (1), brew (1), aws (1)
-> **Code Keywords:** let (10), this. (3), this, (2)
 > **Definitions:** means that (3), is a  (1), is called (1), short for (1)
 > **Env Vars:** json (1), aws (1)
 > **Prerequisites:** install (2)
@@ -1705,8 +1704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (10), kubectl (6), brew (1)
-> **Code Keywords:** let (7), this, (1)
 > **Prerequisites:** install (5)
 > **URLs:** [california.com](https://california.com) (2)
 > **Tools:** terminal (1)
@@ -1787,8 +1786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (5), application (1), [[JSON]] (1)
 > **CLI Commands:** docker (23), make (1), curl (1)
-> **Code Keywords:** let (6), private (2), this. (1), finally, (1)
 > **Ports:** :5000 (2), port 5000 (2)
 > **Env Vars:** p5000 (1), url (1), json (1)
 > **Definitions:** is called (1), means that (1)
@@ -1927,8 +1926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Search]] (1), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (16), make (10), grep (8), rm (3), find (2)
-> **Code Keywords:** let (6), default, (2), this. (1), try, (1)
 > **Tools:** terminal (2), bash (2)
 > **Definitions:** is a  (3), short for (1)
 > **Analogies:** just like (2), kind of like (1)
@@ -2016,9 +2015,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (18), api (7), next (2), [[Search]] (1), [[Google]] (1)
 > **Env Vars:** api (7), adm (3)
 > **Prerequisites:** configure (6), install (2), you'll need (1)
-> **Code Keywords:** let (6), delete (1), case, (1)
 > **CLI Commands:** docker (2), make (1)
 > **Documentation:** api reference (2)
 > **Warnings:** note that (1), be aware (1)
@@ -2148,8 +2147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Kubernetes]] (1)
 > **CLI Commands:** make (20), docker (8), kubectl (3)
-> **Code Keywords:** let (11), delete (3), this. (1), finally, (1)
 > **Code Identifiers:** kind_config (1), connect_registry_to_kind (1), kind_configmap (1)
 > **File Paths:** kind_config.yaml (1), kind_configmap.yaml (1)
 > **Analogies:** just like (1), such as (1)
@@ -2177,7 +2176,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2), docker (2)
-> **Code Keywords:** delete (1)
 > **Speakers:** - all (1)
 > **Non-Speech:** (lively music) (1)
 
@@ -2242,7 +2240,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (14), let (8)
 > **CLI Commands:** docker (6), make (5), rm (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (2)
 > **Analogies:** just like (1)
@@ -2253,7 +2250,7 @@ created: 2026-04-29
 
 ### 5. Our First Kubernetes Manifests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Kubernetes manifests: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-1?u=76281980)
@@ -2328,8 +2325,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (9), node (2), next (2), application (1), api (1)
 > **CLI Commands:** kubectl (9), docker (2), make (2), node (2)
-> **Code Keywords:** let (4), this. (2), super (1), case, (1), finally, (1)
 > **Env Vars:** yaml (4), api (1)
 > **Tools:** command line (3), terminal (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (2), [localhost:5000](https://localhost:5000) (1)
@@ -2516,7 +2513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), delete (1), type. (1), default, (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), api (7), next (6), [[Metadata]] (5), [[Jetpack Compose|Compose]] (2)
 > **Documentation:** spec (4), specification (3), the documentation (1), api reference (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (5), [california.com](https://california.com) (1)
 > **CLI Commands:** find (3), docker (2)
@@ -2596,8 +2593,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (1), next (1)
 > **CLI Commands:** docker (6), make (2), kubectl (1)
-> **Code Keywords:** let (4), case, (1), finally, (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (4), [explorercalifornia.com](https://explorercalifornia.com) (1)
 > **Ports:** port 8080 (2), port 80 (1)
 > **Definitions:** means that (1), is a  (1)
@@ -2744,7 +2741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), finally, (1), else. (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), dns (3), next (2), [[Metadata]] (2), traffic (1)
 > **CLI Commands:** kubectl (6), make (4), find (1)
 > **Code Identifiers:** explorecalifornia (10)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (8), [remove.com](https://remove.com) (1), [of.com](https://of.com) (1)
@@ -2804,9 +2801,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Routing]] (4), application (3), aws (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** nginx (5), make (2), aws (1)
 > **Env Vars:** aws (1), api (1), big (1), http (1), dns (1)
-> **Code Keywords:** let (4)
 > **Code Identifiers:** nginx (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2881,7 +2878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (1), delete (1), type, (1)
+> **Frameworks & Libraries:** traffic (5), [[Kubernetes]] (1), next (1), hit (1), css (1)
 > **Env Vars:** svc (3), nginx (1), svc1 (1), https (1), css (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (5), [foo.com](https://foo.com) (1)
 > **CLI Commands:** kubectl (2), nginx (1), make (1)
@@ -3021,8 +3018,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), dns (4), [[Kubernetes]] (2), application (1), [[GitHub]] (1)
 > **CLI Commands:** nginx (7), kubectl (5), node (4), make (4), find (3)
-> **Code Keywords:** let (10), delete (4), this, (3), this. (1), super (1)
 > **Env Vars:** nginx (6), dns (4)
 > **UI Navigation:** go to (7), click on (2), scroll down (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (8), [k8s.io](https://k8s.io) (1)
@@ -3033,7 +3030,7 @@ created: 2026-04-29
 
 ### 6. Our First Helm Chart
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Helm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980)
@@ -3128,7 +3125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (2), this. (1)
+> **Frameworks & Libraries:** [[Helm]] (26), [[Kubernetes]] (11), application (3), [[Metadata]] (3), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** kubectl (5), make (1)
 > **Prerequisites:** install (5), configure (1)
 > **File Paths:** deployment.yaml (1), chart.yaml (1), helm.sh (1)
@@ -3240,10 +3237,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Helm]] (16), next (6), [[Metadata]] (2), api (2), [[Jetpack Compose|Compose]] (2)
 > **CLI Commands:** docker (3), make (2), brew (1), mkdir (1)
 > **Prerequisites:** install (7)
 > **File Paths:** chart.yaml (5)
-> **Code Keywords:** case. (2), let (2), default, (1)
 > **Env Vars:** api (2), yaml (1)
 > **Versions:** version 1 (1), 0.0 (1), 1.0.0 (1)
 > **UI Navigation:** click on (3)
@@ -3298,7 +3295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Helm]] (5), [[Kubernetes]] (3), data (2), [[Metadata]] (2), [[Zoom]] (1)
 > **File Paths:** values.yaml (2)
 > **Code Identifiers:** appname (1), imagename (1)
 > **URLs:** [localhost:5000](https://localhost:5000) (1), [explorecalifornia.com](https://explorecalifornia.com) (1)
@@ -3464,7 +3461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), delete (3), finally, (3), this, (2), function (2)
+> **Frameworks & Libraries:** [[Helm]] (12), next (4), [[Kubernetes]] (3), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), ls (2), mkdir (1), mv (1), kubectl (1)
 > **Exercise Files:** template (6)
 > **File Paths:** deployment.yaml (3), service.yaml (2)
@@ -3560,7 +3557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), super (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Helm]] (8), business (1), [[Fetch]] (1)
 > **Prerequisites:** install (7)
 > **CLI Commands:** make (5), kubectl (1)
 > **Code Identifiers:** install_app (3)
@@ -3590,8 +3587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (1), api (1)
 > **Env Vars:** api (1), ctl (1)
-> **Code Keywords:** this, (1)
 > **Documentation:** api reference (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -3675,7 +3672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Helm]] (2), next (1), power (1)
 > **Ports:** port 80 (3), port 8080 (3), port 443 (1), :8080 (1)
 > **CLI Commands:** nginx (3), make (2), kubectl (1)
 > **File Paths:** values.yaml (2), chart/templates/service.yaml (1)
@@ -3687,7 +3684,7 @@ created: 2026-04-29
 
 ### 7. We'll Do It Live
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From local testing to EKS: What's changing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/from-local-testing-to-eks-what-s-changing?u=76281980)
@@ -3734,11 +3731,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (7), aws (6), application (2)
 > **Env Vars:** aws (6), eks (5), alb (1)
 > **CLI Commands:** aws (6), nginx (2), make (2)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (2)
 > **Exercise Files:** exercise files (2)
-> **Code Keywords:** let (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3809,8 +3806,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (9), data (3), [[Tokens]] (2), next (1), [[JSON]] (1)
 > **Env Vars:** cube (10), ctl (3), eks (1), json (1), jots (1)
-> **Code Keywords:** let (3), switch (2), private (2), default, (1), finally, (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -3883,9 +3880,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), next (2), [[Windows]] (1), data (1), [[Kubernetes]] (1)
 > **Env Vars:** eks (7), awscli (6), aws (6), sts (1), arn (1)
 > **CLI Commands:** aws (6), kubectl (4), brew (1), make (1)
-> **Code Keywords:** let (4), this, (4), private (1), finally, (1), this. (1)
 > **Prerequisites:** install (3), you'll need (2), configure (1), set up (1)
 > **Code Identifiers:** kubectl (3)
 > **URLs:** [kind-explorecalifornia.com](https://kind-explorecalifornia.com) (1)
@@ -3977,9 +3974,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), [[Security]] (2), data (2), [[Kubernetes]] (1), management (1)
 > **CLI Commands:** docker (13), aws (6), find (1)
 > **Env Vars:** ecr (10), aws (6), uri (2), iam (1), url (1)
-> **Code Keywords:** let (6), this, (2), default. (1), continue (1), this. (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (2), [localhost:5000](https://localhost:5000) (1)
 > **Ports:** :5000 (1)
 > **Definitions:** means that (1)
@@ -4145,8 +4142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), [[Kubernetes]] (8), [[Helm]] (5), next (4), node (2)
 > **CLI Commands:** make (9), aws (9), docker (8), kubectl (3), node (2)
-> **Code Keywords:** let (17), finally, (3), this. (2), type. (2), type, (1)
 > **Env Vars:** aws (7), ecr (2), eks (1), nginx (1), dns (1)
 > **Prerequisites:** install (5)
 > **Exercise Files:** template (4)
@@ -4231,7 +4228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1), break, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** web (2), application (2), dns (1), [[HTML]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** curl (3), find (2)
 > **Env Vars:** ctl (1), dns (1), url (1), html (1)
 > **Tools:** terminal (1), command line (1)
@@ -4295,8 +4292,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Kubernetes]] (2), [[Helm]] (2)
 > **CLI Commands:** docker (6), make (2), grep (2), rm (1), awk (1)
-> **Code Keywords:** delete (4), let (3), this, (2), finally, (1), this. (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 > **Env Vars:** eks (1)
 > **Cross-References:** go back to (1)
@@ -4307,7 +4304,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980)
@@ -4360,7 +4357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), function (1), finally, (1), else, (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (13), [[Helm]] (3), application (2), aws (1), next (1)
 > **Env Vars:** mec (1), aws (1), eks (1), sico (1)
 > **CLI Commands:** aws (1), make (1)
 > **Definitions:** is a  (1), is an  (1)

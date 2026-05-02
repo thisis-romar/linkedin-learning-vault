@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/TensorFlow-%20Working%20with%20NLP.md)
@@ -52,32 +52,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Why TensorFlow?
-  - What you should know
-  - What is TensorFlow?
+  - [Why TensorFlow?](#why-tensorflow)
+  - [What you should know](#what-you-should-know)
+  - [What is TensorFlow?](#what-is-tensorflow)
 - [**1. NLP and Transformers**](#1-nlp-and-transformers) (5 videos)
-  - What is NLP?
-  - Transformers, their use, and history
-  - Transformers for NLP
-  - Challenge: NLP model size
-  - Solution: NLP model size
+  - [What is NLP?](#what-is-nlp)
+  - [Transformers, their use, and history](#transformers-their-use-and-history)
+  - [Transformers for NLP](#transformers-for-nlp)
+  - [Challenge: NLP model size](#challenge-nlp-model-size)
+  - [Solution: NLP model size](#solution-nlp-model-size)
 - [**2. BERT and Transfer Learning**](#2-bert-and-transfer-learning) (3 videos)
-  - Bias in BERT and GPT
-  - How was BERT trained?
-  - Transfer learning
+  - [Bias in BERT and GPT](#bias-in-bert-and-gpt)
+  - [How was BERT trained?](#how-was-bert-trained)
+  - [Transfer learning](#transfer-learning)
 - [**3. Transformers and BERT**](#3-transformers-and-bert) (6 videos)
-  - Transformer: Architecture overview
-  - BERT model and tokenization
-  - Tokenizers
-  - Self-attention
-  - Multi-head attention and feedforward network
-  - Fine-tuning BERT
+  - [Transformer: Architecture overview](#transformer-architecture-overview)
+  - [BERT model and tokenization](#bert-model-and-tokenization)
+  - [Tokenizers](#tokenizers)
+  - [Self-attention](#self-attention)
+  - [Multi-head attention and feedforward network](#multi-head-attention-and-feedforward-network)
+  - [Fine-tuning BERT](#fine-tuning-bert)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why TensorFlow?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980)
@@ -100,9 +100,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[TensorFlow]] (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1), cloud (1)
 > **Env Vars:** bert (2), gpt (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** self (1)
 > **Speakers:** - [jonathan] (1)
 
 #### What you should know
@@ -124,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Neural Networks]] (1), data (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** colab (1)
 > **Prerequisites:** you'll need (1)
@@ -190,7 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), export, (1), this. (1), while, (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (14), data (7), [[Google]] (2), [[MLOps]] (2), [[Hardware]] (1)
 > **Analogies:** it's like (2), imagine (1)
 > **File Paths:** tensorflow.js (1)
 > **Env Vars:** tfx (1)
@@ -200,7 +201,7 @@ created: 2026-04-29
 
 ### 1. NLP and Transformers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is NLP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980)
@@ -263,7 +264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2)
+> **Frameworks & Libraries:** nlp (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Word|Word]] (1), application (1), business (1)
 > **Env Vars:** nlp (4)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -316,8 +317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (7), [[Search]] (4), ai (4), bi (2), [[Hugging Face]] (2)
 > **Env Vars:** bert (7), gpt (3), nrp (1), bart (1), glue (1)
-> **Code Keywords:** let (2), for, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -382,8 +383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (2), [[Microsoft Word|Word]] (2), [[Google]] (1), [[Probability]] (1)
 > **Env Vars:** nlp (2), a380 (2), bert (1), gpt (1), covid (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -412,8 +413,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (1)
 > **Env Vars:** ram (2), nlp (1), bert (1), gpt (1)
-> **Code Keywords:** function (1), require (1)
 > **Code Identifiers:** get_model_size (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (cheerful music) (1)
@@ -452,14 +453,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** ram (4), bert (3), gpt (2)
-> **Code Keywords:** require (4), function (2), this. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 2. BERT and Transfer Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias in BERT and GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bias-in-bert-and-gpt?u=76281980)
@@ -540,8 +540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (1), next (1)
 > **Env Vars:** bert (4), gpt (4), nlp (1)
-> **Code Keywords:** for, (3), let (2), case, (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), such as (1)
@@ -596,8 +596,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** bert (10), gpt (2), mlm (1)
-> **Code Keywords:** let (1), from, (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -673,8 +673,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Tokens]] (3), [[Google]] (2), [[Microsoft Azure|Azure]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** bert (7), v100 (2), gpt (1), gpu (1), nlp (1)
-> **Code Keywords:** let (1), finally, (1), case. (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -682,7 +682,7 @@ created: 2026-04-29
 
 ### 3. Transformers and BERT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transformer: Architecture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980)
@@ -725,9 +725,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (2), bi (1), [[Google]] (1)
 > **Env Vars:** bert (5), gpt (4), bart (1)
 > **Analogies:** such as (5)
-> **Code Keywords:** require (3), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### BERT model and tokenization
@@ -819,8 +819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (7), [[Microsoft Word|Word]] (5), nlp (3), data (1), parallel (1)
 > **Env Vars:** bert (12), sep (6), gpt (5), cls (3), bpe (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is an  (2)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
@@ -882,8 +882,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (3), [[Tokens]] (3), nlp (3), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** bert (6), nlp (3), cls (2), sep (2)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** python (1)
 > **Tools:** colab (1)
@@ -936,7 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), product (2), [[Linear Algebra]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -961,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** bert (1)
 > **Definitions:** is called (1)
@@ -1116,8 +1116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fine Tuning]] (5), data (5), [[TensorFlow]] (5), nlp (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** bert (15), cls (4), nlp (3), gpu (2), cpu (1)
-> **Code Keywords:** let (6), type, (1), this. (1)
 > **Definitions:** is a  (2), means that (1), is called (1)
 > **CLI Commands:** make (2), node (1)
 > **Versions:** 0.988 (1), 0.01 (1)
@@ -1128,7 +1128,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980)
@@ -1157,8 +1157,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (2), [[Computer Vision]] (1), [[TensorFlow]] (1), [[LinkedIn]] (1)
 > **Env Vars:** bert (7), nlp (2), gpt (1)
-> **Code Keywords:** finally, (1), self (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [jonathan] (1)
 

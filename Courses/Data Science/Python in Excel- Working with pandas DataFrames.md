@@ -33,7 +33,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20in%20Excel-%20Working%20with%20pandas%20DataFrames.md)
@@ -52,36 +52,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Python in Excel and pandas DataFrames
-  - What you should know
-  - About Python in Excel
+  - [Python in Excel and pandas DataFrames](#python-in-excel-and-pandas-dataframes)
+  - [What you should know](#what-you-should-know)
+  - [About Python in Excel](#about-python-in-excel)
 - [**1. Introduction to pandas**](#1-introduction-to-pandas) (7 videos)
-  - Hello World
-  - pandas DataFrame and Series
-  - Data selection
-  - Calculations, vectorization, and empty cells
-  - Row filtering
-  - Manipulating DataFrames
-  - Python editor and magic commands
+  - [Hello World](#hello-world)
+  - [pandas DataFrame and Series](#pandas-dataframe-and-series)
+  - [Data selection](#data-selection)
+  - [Calculations, vectorization, and empty cells](#calculations-vectorization-and-empty-cells)
+  - [Row filtering](#row-filtering)
+  - [Manipulating DataFrames](#manipulating-dataframes)
+  - [Python editor and magic commands](#python-editor-and-magic-commands)
 - [**2. Data Analysis**](#2-data-analysis) (5 videos)
-  - Data cleaning
-  - Working with text data
-  - Combining DataFrames
-  - Data aggregation
-  - Plotting
+  - [Data cleaning](#data-cleaning)
+  - [Working with text data](#working-with-text-data)
+  - [Combining DataFrames](#combining-dataframes)
+  - [Data aggregation](#data-aggregation)
+  - [Plotting](#plotting)
 - [**3. Time Series Analysis**](#3-time-series-analysis) (6 videos)
-  - Introduction to time series
-  - Time series analysis with pandas DataFrames
-  - Shifting and percentage changes
-  - Comparing time series
-  - Resampling and correlation
-  - Case study: Sales dashboard
+  - [Introduction to time series](#introduction-to-time-series)
+  - [Time series analysis with pandas DataFrames](#time-series-analysis-with-pandas-dataframes)
+  - [Shifting and percentage changes](#shifting-and-percentage-changes)
+  - [Comparing time series](#comparing-time-series)
+  - [Resampling and correlation](#resampling-and-correlation)
+  - [Case study: Sales dashboard](#case-study-sales-dashboard)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The next steps for learning more about Python in Excel
+  - [The next steps for learning more about Python in Excel](#the-next-steps-for-learning-more-about-python-in-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python in Excel and pandas DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980)
@@ -104,8 +104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (5), data (2), [[Microsoft]] (1), feature (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** finally, (1), interface (1), let (1)
 > **Speakers:** - [felix] (1)
 
 #### What you should know
@@ -143,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1), hit (1)
 > **CLI Commands:** python (7)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -184,8 +185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (7), [[Microsoft 365]] (2), [[Windows]] (1), web (1)
 > **CLI Commands:** python (7)
-> **Code Keywords:** this, (1), this. (1)
 > **Code Identifiers:** macos (1)
 > **Env Vars:** nan (1)
 > **UI Navigation:** in the menu (1)
@@ -195,7 +196,7 @@ created: 2026-04-29
 
 ### 1. Introduction to pandas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hello World
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980)
@@ -270,8 +271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (7), hit (3), next (1), data (1)
 > **CLI Commands:** python (11), make (1)
-> **Code Keywords:** let (5), function (3), this, (1), case, (1)
 > **Tools:** jupyter (3)
 > **Definitions:** means that (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -382,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), switch (2), type, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (16), data (12), [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (4), [[Statistics]] (1)
 > **CLI Commands:** python (4), make (1), find (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -520,7 +521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (20), [[Microsoft Excel|Excel]] (9), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), next (2)
 > **CLI Commands:** python (3), make (1)
 > **Cross-References:** in the next (2), go back to (1), in the last (1)
 > **Definitions:** refers to (2), stands for (1), is a  (1)
@@ -620,7 +621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (2), function (1), case. (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (16), data (5), [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (3), power (1)
 > **CLI Commands:** python (3)
 > **Versions:** 2.2 (3)
 > **Cross-References:** go back to (2)
@@ -708,7 +709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1), this, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3), next (3), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** similar to (1), such as (1)
 > **File Paths:** tf.lock (1)
@@ -807,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), this. (1)
+> **Frameworks & Libraries:** data (29), next (5), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the next (4), previous video (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** caveat (1)
@@ -892,8 +893,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Microsoft Excel|Excel]] (8), hit (3), [[Search]] (2)
 > **CLI Commands:** python (14), make (3)
-> **Code Keywords:** let (4), continue (1), function (1), for. (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Tools:** jupyter (4)
 > **Analogies:** similar to (1), for example (1)
@@ -904,7 +905,7 @@ created: 2026-04-29
 
 ### 2. Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data cleaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980)
@@ -997,7 +998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1), this, (1)
+> **Frameworks & Libraries:** data (9), next (4), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Env Vars:** nan (1), k10 (1), k11 (1), k12 (1)
 > **CLI Commands:** python (2)
@@ -1096,8 +1097,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (2), next (2), [[Microsoft Excel|Excel]] (2), data (1)
 > **CLI Commands:** python (5), make (3), find (1)
-> **Code Keywords:** let (5), this, (2), finally, (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Analogies:** for example (1)
@@ -1201,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), switch (1), this, (1), default, (1)
+> **Frameworks & Libraries:** data (31), [[Microsoft Excel|Excel]] (6), [[Pandas (Software)|Pandas]] (5), feature (1)
 > **Env Vars:** num (2), vlookup (1), xlookup (1), id1 (1), j11 (1)
 > **Definitions:** means that (2), stands for (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -1274,7 +1275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), default, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), [[Statistics]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** k10 (1), k12 (1)
 > **UI Navigation:** select the (2)
 > **Cross-References:** in the last (1)
@@ -1368,7 +1369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), static (2), case, (1), this, (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Pandas (Software)|Pandas]] (5), data (4), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** plt (3), k14 (2), k13 (1), bmh (1)
 > **Definitions:** is a  (4), stands for (1)
 > **CLI Commands:** python (2), make (1), find (1)
@@ -1380,7 +1381,7 @@ created: 2026-04-29
 
 ### 3. Time Series Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to time series
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980)
@@ -1469,7 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (1), else. (1), case, (1), function (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (7), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (4), next (1)
 > **CLI Commands:** python (4), make (3)
 > **Definitions:** is a  (3), stands for (1), is called (1)
 > **Code Identifiers:** to_datetime (1)
@@ -1545,7 +1546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), type. (1), finally, (1), require (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft]] (3), [[Microsoft Excel|Excel]] (3), [[Time Series Analysis]] (1), feature (1)
 > **Env Vars:** f13 (1), f14 (1), f15 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -1627,7 +1628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), this, (2), return. (1), case, (1)
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (7), [[Time Series Analysis]] (1), [[Microsoft]] (1), next (1)
 > **Env Vars:** g10 (1), g13 (1), g14 (1), g15 (1), g18 (1)
 > **Definitions:** is a  (3), defined as (1), means that (1)
 > **CLI Commands:** find (1)
@@ -1725,7 +1726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), switch (1), finally, (1)
+> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (2), [[Microsoft]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **Env Vars:** concat (2)
 > **UI Navigation:** click on (1)
@@ -1814,7 +1815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), switch (1), function (1)
+> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (3), [[Time Series Analysis]] (1), [[Statistical Analysis]] (1), business (1)
 > **Definitions:** is a  (4), in other words (1), is called (1)
 > **Env Vars:** b12 (2), correl (1)
 > **CLI Commands:** make (2)
@@ -1970,7 +1971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (3), switch (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (20), [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (6), [[Microsoft Power Query|Power query]] (4), hit (3)
 > **UI Navigation:** click on (4), go to (4), navigate to (1), open the (1), select the (1)
 > **CLI Commands:** python (6), make (2)
 > **Env Vars:** ctrl (5), str (1), iloc (1)
@@ -1981,7 +1982,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The next steps for learning more about Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980)
@@ -2024,8 +2025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (8), data (5), [[Automation]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (12), make (1)
-> **Code Keywords:** self (1), finally, (1)
 > **Analogies:** such as (2)
 > **URLs:** [xlwings.org](https://xlwings.org) (1)
 > **Env Vars:** vba (1)

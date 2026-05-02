@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL-%20Logical%20Query%20Processing%2C%20Part%202.md)
@@ -49,33 +49,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Course introduction
-  - Agenda
-  - Setting expectations
+  - [Course introduction](#course-introduction)
+  - [Agenda](#agenda)
+  - [Setting expectations](#setting-expectations)
 - [**1. Subqueries and Set Operators**](#1-subqueries-and-set-operators) (4 videos)
-  - Subqueries
-  - Set operators
-  - Challenge
-  - Solution
+  - [Subqueries](#subqueries)
+  - [Set operators](#set-operators)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**2. Advanced Joins**](#2-advanced-joins) (4 videos)
-  - Self and inequality joins
-  - Lateral joins
-  - Challenge
-  - Solution
+  - [Self and inequality joins](#self-and-inequality-joins)
+  - [Lateral joins](#lateral-joins)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**3. More on Grouping**](#3-more-on-grouping) (4 videos)
-  - Ordered set functions
-  - Grouping sets
-  - Challenge
-  - Solution
+  - [Ordered set functions](#ordered-set-functions)
+  - [Grouping sets](#grouping-sets)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**4. Recursions and Cursors**](#4-recursions-and-cursors) (2 videos)
-  - Recursions
-  - The cursors curse
+  - [Recursions](#recursions)
+  - [The cursors curse](#the-cursors-curse)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/course-introduction?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Non-Speech:** (upbeat uplifting music) (2)
 > **Definitions:** is a  (1)
@@ -182,8 +183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), feature (2), [[Statistical Analysis]] (1)
 > **Env Vars:** sql (3), ansi (1)
-> **Code Keywords:** self (1)
 > **Speakers:** - [ami] (1)
 
 #### Setting expectations
@@ -247,8 +248,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[PostgreSQL|Postgres]] (2), database (1), [[GitHub]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (3), ide (1), cte (1), ansi (1)
-> **Code Keywords:** interface (1), try. (1), let (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
@@ -258,7 +259,7 @@ created: 2026-04-29
 
 ### 1. Subqueries and Set Operators
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Subqueries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980)
@@ -463,9 +464,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[Databases]] (2), next (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (5), make (2), cat (1)
 > **Definitions:** is a  (4), is an  (2), is called (2)
-> **Code Keywords:** let (3), static (1), match, (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** sql (1)
 > **Best Practices:** don't forget (1)
@@ -672,12 +673,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), [[Databases]] (3), data (2), [[PostgreSQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** except (14), intersect (11), distinct (11), union (10), sql (9)
 > **Definitions:** means that (3), is a  (3), is called (1)
 > **SQL:** select (3), join (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** think of it as (1), similar to (1), just like (1)
-> **Code Keywords:** default. (1), let (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
@@ -728,6 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** cat (1), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -917,7 +919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case. (1), while, (1), this. (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1), [[SQL]] (1)
 > **CLI Commands:** make (2), cat (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** go back to (1)
@@ -928,7 +930,7 @@ created: 2026-04-29
 
 ### 2. Advanced Joins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Self and inequality joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/self-and-inequality-joins?u=76281980)
@@ -1105,7 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), self (3), this, (2)
+> **Frameworks & Libraries:** product (2), [[SQL]] (1), data (1)
 > **CLI Commands:** find (4), cat (4), make (2)
 > **Env Vars:** sql (1)
 > **UI Navigation:** scroll down (1)
@@ -1258,8 +1260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[PostgreSQL]] (3), [[Microsoft SQL Server|Sql server]] (3), feature (1), product (1)
 > **Env Vars:** sql (7), ansi (1)
-> **Code Keywords:** let (4), return. (1), require (1)
 > **Definitions:** is an  (1), known as (1), means that (1)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
@@ -1289,6 +1291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), next (1), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
@@ -1357,17 +1360,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** join (3), cross (2), select (1), inner (1), order (1)
 > **SQL:** join (2), select (1), inner join (1), order by (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), case, (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. More on Grouping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ordered set functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980)
@@ -1626,8 +1629,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[SQL]] (3), database (2), [[Microsoft Word|Word]] (2), [[Statistical Analysis]] (2)
 > **Env Vars:** sql (8), sum (5), rank (5), percent_rank (5), concat (4)
-> **Code Keywords:** function (10), let (7), throw (1), class, (1)
 > **CLI Commands:** make (3), find (2), cat (2), mysql (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Analogies:** for example (2), think of it as (1)
@@ -1862,7 +1865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), function (2), type. (1), case, (1)
+> **Frameworks & Libraries:** data (6), [[SQL]] (3), power (1), next (1)
 > **Definitions:** is an  (5), is called (1), is a  (1)
 > **Env Vars:** sql (3), ansi (1)
 > **CLI Commands:** make (3)
@@ -1887,7 +1890,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), throw (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution
@@ -2107,7 +2109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), continue (1), switch (1), try. (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), database (3), next (2), feature (1), data (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** sql (3)
 > **URLs:** [animalshelter.com](https://animalshelter.com) (1), [theanimalshelter.com](https://theanimalshelter.com) (1)
@@ -2118,7 +2120,7 @@ created: 2026-04-29
 
 ### 4. Recursions and Cursors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recursions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980)
@@ -2317,7 +2319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (5), type. (2), static (1), default. (1)
+> **Frameworks & Libraries:** data (5), [[PostgreSQL|Postgres]] (5), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), database (1)
 > **Env Vars:** sql (5), sgl (1), url (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** node (1)
@@ -2499,8 +2501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (10), data (3), [[Fetch]] (2), next (2), [[Programming]] (1)
 > **Env Vars:** sql (11), sam (1), ansi (1)
-> **Code Keywords:** delete (1), let (1), static (1)
 > **Definitions:** is a  (2), known as (1)
 > **Versions:** 1.5 (1)
 > **UI Navigation:** open the (1)
@@ -2510,7 +2512,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980)
@@ -2645,9 +2647,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), [[LinkedIn]] (3), [[Databases]] (2), feature (2), database (2)
 > **Env Vars:** sql (8)
 > **CLI Commands:** mysql (1), find (1), make (1)
-> **Code Keywords:** from, (1), let (1)
 > **Best Practices:** good practice (1), don't forget (1)
 > **Versions:** 8.0 (1)
 > **Definitions:** is a  (1)

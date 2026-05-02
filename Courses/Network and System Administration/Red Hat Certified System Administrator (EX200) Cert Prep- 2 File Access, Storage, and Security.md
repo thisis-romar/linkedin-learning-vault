@@ -28,7 +28,7 @@ tags:
   - skill/linux-system-administration
   - skill/red-hat-linux
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20(EX200)%20Cert%20Prep-%202%20File%20Access%2C%20Storage%2C%20and%20Security.md)
@@ -47,75 +47,75 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Prepare for the RHCSA EX200 Exam
-  - About Red Hat Certifications
-  - What was covered in Part One
+  - [Prepare for the RHCSA EX200 Exam](#prepare-for-the-rhcsa-ex200-exam)
+  - [About Red Hat Certifications](#about-red-hat-certifications)
+  - [What was covered in Part One](#what-was-covered-in-part-one)
 - [**1. Users and Accounts**](#1-users-and-accounts) (9 videos)
-  - Create and delete local user accounts
-  - Modify local user accounts
-  - Change passwords and adjust password aging for local user accounts
-  - Manage aging for local user accounts
-  - Create, delete, and modify local groups and group memberships
-  - Log in and switch users in multiuser targets
-  - Elevating privileges using sudo
-  - Challenge: Users and accounts
-  - Solution: Users and accounts
+  - [Create and delete local user accounts](#create-and-delete-local-user-accounts)
+  - [Modify local user accounts](#modify-local-user-accounts)
+  - [Change passwords and adjust password aging for local user accounts](#change-passwords-and-adjust-password-aging-for-local-user-accounts)
+  - [Manage aging for local user accounts](#manage-aging-for-local-user-accounts)
+  - [Create, delete, and modify local groups and group memberships](#create-delete-and-modify-local-groups-and-group-memberships)
+  - [Log in and switch users in multiuser targets](#log-in-and-switch-users-in-multiuser-targets)
+  - [Elevating privileges using sudo](#elevating-privileges-using-sudo)
+  - [Challenge: Users and accounts](#challenge-users-and-accounts)
+  - [Solution: Users and accounts](#solution-users-and-accounts)
 - [**2. Files Access Control**](#2-files-access-control) (13 videos)
-  - File and directory modes
-  - Change file and directory ownership
-  - Set permissions using numeric mode
-  - Set permissions using symbolic mode
-  - Initial permissions using umask
-  - Special file bits: SUID and SGID
-  - Special directory bits: SGID and Sticky
-  - Read access control lists
-  - Set access control lists (ACLs)
-  - Configure inheritance with default access control lists
-  - Delete access control lists
-  - Challenge: File access control
-  - Solution: File access control
+  - [File and directory modes](#file-and-directory-modes)
+  - [Change file and directory ownership](#change-file-and-directory-ownership)
+  - [Set permissions using numeric mode](#set-permissions-using-numeric-mode)
+  - [Set permissions using symbolic mode](#set-permissions-using-symbolic-mode)
+  - [Initial permissions using umask](#initial-permissions-using-umask)
+  - [Special file bits: SUID and SGID](#special-file-bits-suid-and-sgid)
+  - [Special directory bits: SGID and Sticky](#special-directory-bits-sgid-and-sticky)
+  - [Read access control lists](#read-access-control-lists)
+  - [Set access control lists (ACLs)](#set-access-control-lists-acls)
+  - [Configure inheritance with default access control lists](#configure-inheritance-with-default-access-control-lists)
+  - [Delete access control lists](#delete-access-control-lists)
+  - [Challenge: File access control](#challenge-file-access-control)
+  - [Solution: File access control](#solution-file-access-control)
 - [**3. Manage Security**](#3-manage-security) (9 videos)
-  - Set enforcing and permissive modes for SELinux
-  - List and identify SELinux file and process context
-  - Restore SELinux default file contexts
-  - Use Booleans to modify SELinux behavior
-  - Diagnose routine SELinux policy violations
-  - Maintain security context when managing files
-  - Manage firewalls with firewalld
-  - Challenge: Manage security
-  - Solution: Manage security
+  - [Set enforcing and permissive modes for SELinux](#set-enforcing-and-permissive-modes-for-selinux)
+  - [List and identify SELinux file and process context](#list-and-identify-selinux-file-and-process-context)
+  - [Restore SELinux default file contexts](#restore-selinux-default-file-contexts)
+  - [Use Booleans to modify SELinux behavior](#use-booleans-to-modify-selinux-behavior)
+  - [Diagnose routine SELinux policy violations](#diagnose-routine-selinux-policy-violations)
+  - [Maintain security context when managing files](#maintain-security-context-when-managing-files)
+  - [Manage firewalls with firewalld](#manage-firewalls-with-firewalld)
+  - [Challenge: Manage security](#challenge-manage-security)
+  - [Solution: Manage security](#solution-manage-security)
 - [**4. Accessing Linux Remotely**](#4-accessing-linux-remotely) (7 videos)
-  - Configure Secure Shell
-  - Configure key-based authentication for SSH
-  - Securely transfer files between systems
-  - Access Linux from Windows using PuTTY
-  - Access Linux from macOS or Linux using SSH
-  - Access Linux from iOS using SSH
-  - Access Linux from Android using SSH
+  - [Configure Secure Shell](#configure-secure-shell)
+  - [Configure key-based authentication for SSH](#configure-key-based-authentication-for-ssh)
+  - [Securely transfer files between systems](#securely-transfer-files-between-systems)
+  - [Access Linux from Windows using PuTTY](#access-linux-from-windows-using-putty)
+  - [Access Linux from macOS or Linux using SSH](#access-linux-from-macos-or-linux-using-ssh)
+  - [Access Linux from iOS using SSH](#access-linux-from-ios-using-ssh)
+  - [Access Linux from Android using SSH](#access-linux-from-android-using-ssh)
 - [**5. Configure Local Storage**](#5-configure-local-storage) (8 videos)
-  - List, create, and delete partitions on MBR and GPT disks
-  - Manage LVM volumes and volume groups
-  - Mount file systems at boot
-  - Mount file systems at boot by ID or label
-  - Extend existing logical volumes
-  - Mount and unmount CIFS and NFS network file systems
-  - Challenge: Local storage
-  - Solution: Local storage
+  - [List, create, and delete partitions on MBR and GPT disks](#list-create-and-delete-partitions-on-mbr-and-gpt-disks)
+  - [Manage LVM volumes and volume groups](#manage-lvm-volumes-and-volume-groups)
+  - [Mount file systems at boot](#mount-file-systems-at-boot)
+  - [Mount file systems at boot by ID or label](#mount-file-systems-at-boot-by-id-or-label)
+  - [Extend existing logical volumes](#extend-existing-logical-volumes)
+  - [Mount and unmount CIFS and NFS network file systems](#mount-and-unmount-cifs-and-nfs-network-file-systems)
+  - [Challenge: Local storage](#challenge-local-storage)
+  - [Solution: Local storage](#solution-local-storage)
 - [**6. Containers**](#6-containers) (8 videos)
-  - About containers on Enterprise Linux
-  - Retrieve container images from a remote registry
-  - Inspect container images
-  - Managing containers
-  - Working with container images
-  - Build a container from a container file
-  - Configure a container to start automatically as a systemd service
-  - Attach persistent storage to a container
+  - [About containers on Enterprise Linux](#about-containers-on-enterprise-linux)
+  - [Retrieve container images from a remote registry](#retrieve-container-images-from-a-remote-registry)
+  - [Inspect container images](#inspect-container-images)
+  - [Managing containers](#managing-containers)
+  - [Working with container images](#working-with-container-images)
+  - [Build a container from a container file](#build-a-container-from-a-container-file)
+  - [Configure a container to start automatically as a systemd service](#configure-a-container-to-start-automatically-as-a-systemd-service)
+  - [Attach persistent storage to a container](#attach-persistent-storage-to-a-container)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare for the RHCSA EX200 Exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980)
@@ -134,6 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), [[System Administration]] (1), cloud (1), [[Security]] (1)
 > **Env Vars:** rhcsa (2), ex200 (2)
 > **Versions:** version 9 (1)
 > **Speakers:** - [grant] (1)
@@ -169,10 +170,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), cloud (1), [[Performance Tuning]] (1), [[System Administration]] (1), management (1)
 > **Env Vars:** rhcsa (4)
 > **Prerequisites:** configure (2), install (2)
 > **CLI Commands:** grep (1)
-> **Code Keywords:** let (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -229,19 +230,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), next (4), [[Virtualization]] (1), power (1), [[Search]] (1)
 > **Env Vars:** dnf (3), rpm (3), rhcsa (1), ex200 (1), usb (1)
 > **CLI Commands:** dnf (3), cp (1), rm (1), mv (1), tar (1)
 > **Cross-References:** in the next (2), next video (1)
 > **Versions:** version 9 (2)
 > **Tools:** command line (1), vim (1)
-> **Code Keywords:** if, (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 
 
 ### 1. Users and Accounts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and delete local user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-and-delete-local-user-accounts?u=76281980)
@@ -378,8 +379,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (2), next (1)
 > **CLI Commands:** sudo (7), cat (6), ls (3)
-> **Code Keywords:** let (5), case, (1), this. (1), delete (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** md5 (1), sha512 (1), gecos (1)
 > **Tools:** command line (1), firefox (1), terminal (1)
@@ -532,7 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), this, (1), override (1), private (1)
+> **Frameworks & Libraries:** hit (12), next (1)
 > **CLI Commands:** sudo (6), cat (5), apache (1), dnf (1), ls (1)
 > **Tools:** zsh (5), terminal (1), bash (1)
 > **Env Vars:** zsh (2), nfs (1)
@@ -670,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Security]] (2), [[Linux]] (1), next (1), power (1)
 > **CLI Commands:** sudo (6), ssh (2), cat (1), make (1)
-> **Code Keywords:** let (7), override (1), class. (1), module (1)
 > **Speakers:** - [tutor] (1), - d (1), - e (1), - l (1), - u (1)
 > **Warnings:** note that (3), warning (1)
 > **Env Vars:** ssh (2), sha (1)
@@ -820,8 +821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), next (4)
 > **CLI Commands:** sudo (9), cat (1), ssh (1)
-> **Code Keywords:** let (6), this, (1)
 > **Warnings:** warning (2)
 > **Env Vars:** ssh (1)
 > **Documentation:** man page (1)
@@ -1004,8 +1005,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (17), [[Linux]] (1), [[User Management]] (1)
 > **CLI Commands:** sudo (9), cat (5), ls (1), make (1)
-> **Code Keywords:** let (6), delete (3), new. (1), super (1)
 > **Env Vars:** etc (10)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Speakers:** - [instructor] (1), - g (1)
@@ -1094,7 +1095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (2)
+> **Frameworks & Libraries:** hit (7), [[Linux]] (2), prompt (1), [[System Configuration]] (1)
 > **CLI Commands:** sudo (2), find (1)
 > **UI Navigation:** switch to (2)
 > **Definitions:** is a  (1), means that (1)
@@ -1188,8 +1189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), [[Accountability]] (1), prompt (1)
 > **CLI Commands:** sudo (13), cat (3)
-> **Code Keywords:** let (5), switch (2)
 > **UI Navigation:** switch to (2)
 > **Prerequisites:** set up (1), configure (1)
 > **Tools:** terminal (1)
@@ -1311,8 +1312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Search]] (1)
 > **CLI Commands:** sudo (10), dnf (1)
-> **Code Keywords:** let (6)
 > **Warnings:** warning (3), note that (2)
 > **Speakers:** - for (1), - w (1)
 > **Prerequisites:** install (1)
@@ -1321,7 +1322,7 @@ created: 2026-04-29
 
 ### 2. Files Access Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File and directory modes
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980)
@@ -1360,6 +1361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Linux]] (1), application (1)
 > **CLI Commands:** ls (2)
 > **Definitions:** means that (2)
 > **Tools:** firefox (1)
@@ -1458,9 +1460,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), cd (2), data (1), [[Linux]] (1), management (1)
 > **CLI Commands:** chown (8), sudo (4), ls (2), mkdir (2), cd (2)
 > **File Paths:** file.txt (5)
-> **Code Keywords:** let (4)
 > **Warnings:** keep in mind (1), note that (1)
 > **Env Vars:** pwd (1)
 > **Documentation:** man page (1)
@@ -1570,8 +1572,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), cd (2), [[Linux]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** chmod (7), ls (3), cd (2), mkdir (1)
-> **Code Keywords:** let (4), type. (1), case, (1)
 > **File Paths:** file.txt (3)
 > **Tools:** terminal (2)
 > **UI Navigation:** go to (1)
@@ -1706,8 +1708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** chmod (10), ls (4), sudo (4), mkdir (1)
-> **Code Keywords:** let (5), type, (1), case, (1)
 > **File Paths:** file.txt (5)
 > **Analogies:** for instance (2), such as (1)
 > **Tools:** terminal (2)
@@ -1820,7 +1822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default. (1)
+> **Frameworks & Libraries:** hit (7), [[Security]] (2)
 > **CLI Commands:** ls (2), sudo (2), mkdir (1)
 > **File Paths:** umaskfile.txt (1), umask.sh (1), etc/profile.d/umask.sh (1)
 > **Tools:** terminal (3)
@@ -1960,9 +1962,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), hit (3), next (1), power (1), [[Security]] (1)
 > **Env Vars:** suid (13), sgid (11), bsd (1)
 > **CLI Commands:** sudo (5), chmod (4), find (4), ls (1)
-> **Code Keywords:** let (4), case, (1)
 > **Analogies:** just like (2), such as (2), similar to (1)
 > **Tools:** terminal (2)
 > **Definitions:** is called (1), means that (1)
@@ -2114,9 +2116,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (20), cd (8), [[Linux]] (2)
 > **Env Vars:** rwx (6), txt (5), sgid (4), sjd (3), tmp (3)
 > **CLI Commands:** cd (8), ls (8), chmod (3), chown (1), cat (1)
-> **Code Keywords:** let (11), delete (2), this, (1)
 > **Tools:** terminal (2)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** go back to (1)
@@ -2210,8 +2212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (2), cd (1), data (1)
 > **CLI Commands:** ls (3), mkdir (2), cat (2), cd (1)
-> **Code Keywords:** let (6)
 > **Env Vars:** acl (5)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -2324,8 +2326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (14), cd (1), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (12), cat (3), mkdir (2), cd (1), chmod (1)
-> **Code Keywords:** let (9)
 > **Env Vars:** acl (4)
 > **Analogies:** for instance (2), for example (1)
 > **Documentation:** man page (1)
@@ -2436,9 +2438,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (12), cd (3), [[Linux]] (1), next (1)
 > **CLI Commands:** sudo (7), cd (3), make (2), mkdir (2), cat (2)
 > **Env Vars:** acl (15), sgid (1)
-> **Code Keywords:** let (9), case, (1), pass (1)
 > **File Paths:** aclfile2.txt (2)
 > **Warnings:** keep in mind (1), warning (1)
 > **Prerequisites:** you'll need (2)
@@ -2542,7 +2544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), let (7)
+> **Frameworks & Libraries:** hit (15)
 > **Env Vars:** acl (14)
 > **CLI Commands:** mkdir (2)
 > **Tools:** terminal (2)
@@ -2620,7 +2622,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (1), this, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
@@ -2810,8 +2811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (27), cd (4), next (2), [[Linux]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (8), ls (5), cd (4), make (3), chmod (3)
-> **Code Keywords:** let (7), delete (3), this, (3), this. (1)
 > **File Paths:** suefile.txt (3), taylorfile.txt (2)
 > **Env Vars:** sgid (1), acl (1), sjd (1)
 > **Code Identifiers:** ls (1)
@@ -2822,7 +2823,7 @@ created: 2026-04-29
 
 ### 3. Manage Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set enforcing and permissive modes for SELinux
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980)
@@ -2949,7 +2950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), pass (1), delete (1)
+> **Frameworks & Libraries:** [[Security]] (9), hit (4), [[Linux]] (1), [[Metadata]] (1), database (1)
 > **Env Vars:** txt (3), suid (1), sgid (1), sudo (1)
 > **Tools:** vim (2), terminal (2)
 > **Analogies:** such as (3), for instance (1)
@@ -3037,7 +3038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (2), type. (1), super (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (14), hit (6), prompt (1)
 > **Code Identifiers:** ez (3), passwd_exec_t (3), lz (2), user_home_t (1)
 > **CLI Commands:** sudo (4), ls (3)
 > **Tools:** terminal (3)
@@ -3131,7 +3132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type, (3), type. (1), else. (1)
+> **Frameworks & Libraries:** [[Security]] (13), hit (12), database (3), next (1)
 > **CLI Commands:** ls (7), sudo (3), make (2), grep (1)
 > **File Paths:** newfile.txt (7), home/user1/newfile.txt (1), lznewfile.txt (1)
 > **Code Identifiers:** user_home_t (2), user_home_dir_t (1)
@@ -3201,7 +3202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), this. (1), let (1), default. (1)
+> **Frameworks & Libraries:** hit (8), [[Security]] (1)
 > **Code Identifiers:** mozilla_plugin_use_gps (3), mozilla_plugin (1)
 > **CLI Commands:** sudo (2), make (1)
 > **Env Vars:** gps (1)
@@ -3388,7 +3389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (7), let (5), var (3), this, (1), case. (1)
+> **Frameworks & Libraries:** [[Security]] (14), hit (5), [[Linux]] (2), [[Search]] (2), database (2)
 > **CLI Commands:** make (5), sudo (5), ls (2), mysql (2), find (1)
 > **UI Navigation:** click on (7)
 > **Tools:** terminal (5)
@@ -3426,7 +3427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), pass (1), default. (1)
+> **Frameworks & Libraries:** [[Security]] (7), [[Metadata]] (1)
 > **Speakers:** - [instructor] (1), - a (1)
 > **CLI Commands:** tar (1)
 > **Warnings:** be careful (1)
@@ -3488,8 +3489,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (1), feature (1), web (1), traffic (1)
 > **CLI Commands:** sudo (5), make (3), systemctl (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** http (2), vnc (1)
 > **Tools:** terminal (1)
 > **Analogies:** for instance (1)
@@ -3600,8 +3601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[HTML]] (6), [[Security]] (4), web (1), [[Search]] (1)
 > **CLI Commands:** apache (17), sudo (6), dnf (1), mkdir (1), chown (1)
-> **Code Keywords:** let (4), var (2)
 > **Prerequisites:** install (2), configure (2), set up (1)
 > **File Paths:** index.html (1), home/webdoc/index.html (1), rhhost1.localnet.com/index.html (1)
 > **Tools:** terminal (1), firefox (1)
@@ -3758,8 +3759,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Security]] (4), [[HTML]] (4), web (3), [[Search]] (2)
 > **CLI Commands:** apache (9), sudo (4), ls (3), make (2), cat (1)
-> **Code Keywords:** let (10), module (2), var (2), type. (2)
 > **Code Identifiers:** httpd_sys_content_t (3), user_home_t (2), ldz (2), httpd_read_user_content (1), httpd_sis_content_t (1)
 > **Tools:** terminal (2), command line (1), firefox (1)
 > **Warnings:** note that (2), troubleshoot (1), be aware (1)
@@ -3770,7 +3771,7 @@ created: 2026-04-29
 
 ### 4. Accessing Linux Remotely
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure Secure Shell
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980)
@@ -3831,9 +3832,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), [[Windows]] (2), traffic (1), [[Android]] (1), [[Server Configuration]] (1)
 > **CLI Commands:** ssh (16), make (3)
 > **Env Vars:** ssh (10)
-> **Code Keywords:** default. (1), this, (1), this . (1), private (1), public (1)
 > **Code Identifiers:** macos (2), ios (1), ssh_config (1), sshd_config (1)
 > **Ports:** port 22 (1), port 1022 (1)
 > **URLs:** [server1vmguests.com](https://server1vmguests.com) (1)
@@ -3907,8 +3908,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7)
 > **CLI Commands:** ssh (18), cat (3), ls (1), make (1)
-> **Code Keywords:** public (9), let (5), private (4), pub (2), delete (2)
 > **Env Vars:** ssh (5), rsa (2)
 > **Code Identifiers:** id_rsa (3), known_host (1), authorized_keys (1)
 > **Tools:** terminal (4)
@@ -4043,10 +4044,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (3)
 > **Env Vars:** ssh (9), scp (8), rc4 (3), aes (2), sftp (2)
 > **CLI Commands:** ssh (10), cp (3), cat (2)
 > **Definitions:** is a  (4), is an  (2)
-> **Code Keywords:** pass (2), delete (1), pub (1), case, (1)
 > **Analogies:** for instance (1), such as (1)
 > **Speakers:** - [instructor] (1), - a (1)
 > **Code Identifiers:** id_rsa (1)
@@ -4137,8 +4138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), [[Windows]] (4), web (2), next (2), [[PHP]] (1)
 > **UI Navigation:** click on (16), go to (1), scroll down (1)
-> **Code Keywords:** let (4), type, (1), interface (1), default. (1)
 > **CLI Commands:** make (4), ssh (1), php (1)
 > **Code Identifiers:** winscp (3)
 > **Tools:** command line (2), terminal (1)
@@ -4169,6 +4170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), [[Search]] (1), hit (1)
 > **Tools:** terminal (4)
 > **Code Identifiers:** macos (3)
 > **CLI Commands:** ssh (2)
@@ -4225,8 +4227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (7), hit (2), [[Security]] (1), feature (1)
 > **UI Navigation:** click on (6)
-> **Code Keywords:** let (1), default, (1), return. (1), continue (1), return, (1)
 > **Code Identifiers:** ios (3), iphone (1), ipad (1)
 > **CLI Commands:** ssh (3)
 > **Env Vars:** ssh (3)
@@ -4283,6 +4285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Android]] (2), [[CLI]] (1), [[Google]] (1), [[Search]] (1)
 > **Prerequisites:** you'll need (2), install (2)
 > **Env Vars:** cli (1), ssh (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -4294,7 +4297,7 @@ created: 2026-04-29
 
 ### 5. Configure Local Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### List, create, and delete partitions on MBR and GPT disks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980)
@@ -4435,8 +4438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Hardware]] (2), [[Virtual Machines]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpt (5), bios (4), uefi (2), mbr (1), guid (1)
-> **Code Keywords:** let (3), delete (3), switch (1), type. (1), default. (1)
 > **UI Navigation:** click on (6), right-click (1)
 > **CLI Commands:** make (2), cat (2), sudo (2)
 > **Definitions:** is a  (3), known as (1)
@@ -4605,9 +4608,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (12), data (7), [[Linux]] (3), management (2), next (1)
 > **CLI Commands:** sudo (11), make (4), find (1)
 > **Env Vars:** lvm (8), xfs (3), pvs (1), vgs (1), pdf (1)
-> **Code Keywords:** let (4), this. (3), var (2), function (1), this: (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), for instance (1)
 > **Warnings:** note that (2)
@@ -4691,9 +4694,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), hit (6)
 > **CLI Commands:** sudo (5), make (1), mkdir (1)
 > **Env Vars:** xfs (2), ftfs (2), edc (1)
-> **Code Keywords:** let (1), type. (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** note that (1)
@@ -4882,9 +4885,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (16), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** vdb (18), uid (6), sdb (2), sdc (2), xfs (2)
 > **CLI Commands:** sudo (12), make (5), cat (1), mkdir (1)
-> **Code Keywords:** let (8), this. (2), type. (1), case, (1)
 > **UI Navigation:** go to (1), scroll up (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you'll need (1)
@@ -4957,8 +4960,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (14), management (1), [[Hardware]] (1), power (1), next (1)
 > **CLI Commands:** sudo (10), make (3), cat (2)
-> **Code Keywords:** let (8), this, (1)
 > **UI Navigation:** click on (6), go to (1)
 > **Env Vars:** xfs (2), ext3 (1), ext4 (1)
 > **Warnings:** note that (4)
@@ -5049,10 +5052,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2), [[Troubleshooting]] (1), next (1)
 > **Env Vars:** nfs (8), cifs (5), url (2), ftp (1)
 > **Definitions:** is a  (4), stands for (1), means that (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** default. (1), interface (1)
 > **Versions:** 192.168.1 (1)
 > **Tools:** command line (1)
 > **Analogies:** such as (1)
@@ -5099,8 +5102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), delete (1), this, (1)
 > **Env Vars:** rhs (1), lvm (1), ncfs (1)
 > **Prerequisites:** you'll need (3)
 > **Speakers:** - [instructor] (1)
@@ -5273,8 +5276,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (22), [[Hardware]] (2), power (2), [[Virtual Machines]] (1)
 > **CLI Commands:** sudo (14), make (5), mkdir (1)
-> **Code Keywords:** let (9), else. (1), this. (1), type. (1), delete (1)
 > **Env Vars:** xfs (4), xefs (2), lvm (1), free (1), kvm (1)
 > **UI Navigation:** click on (7), go to (1)
 > **Tools:** terminal (1)
@@ -5284,7 +5287,7 @@ created: 2026-04-29
 
 ### 6. Containers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About containers on Enterprise Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980)
@@ -5435,9 +5438,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (9), application (5), [[Security]] (3), [[Virtual Machines]] (2), [[Hardware]] (2)
 > **Env Vars:** ubi (17), dnf (5), oci (2), api (2), rhel (2)
 > **CLI Commands:** docker (13), dnf (5), node (2), apache (1), tar (1)
-> **Code Keywords:** require (2), implements (1), continue (1)
 > **Analogies:** similar to (1), for instance (1)
 > **Prerequisites:** install (2)
 > **Tools:** bash (1)
@@ -5559,11 +5562,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), [[Search]] (5), prompt (3), [[Linux]] (2), [[JSON]] (2)
 > **CLI Commands:** docker (7), dnf (4), find (2), sudo (1)
 > **URLs:** [redhat.com](https://redhat.com) (5), [docker.io](https://docker.io) (4), [redhat.io](https://redhat.io) (2), [registries.com](https://registries.com) (1)
 > **Prerequisites:** install (5), you'll need (1), set up (1)
 > **Analogies:** for instance (4), such as (1)
-> **Code Keywords:** let (2), continue (1), require (1)
 > **Env Vars:** dnf (2), json (1)
 > **Tools:** terminal (2)
 > **Best Practices:** recommended (1)
@@ -5609,11 +5612,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Search]] (1)
 > **URLs:** [redhat.com](https://redhat.com) (3)
 > **CLI Commands:** find (1), docker (1)
 > **Env Vars:** ubi (1), cpu (1)
 > **Analogies:** for instance (2)
-> **Code Keywords:** override (1)
 > **Documentation:** man page (1)
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
@@ -5713,10 +5716,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), prompt (1)
 > **Tools:** terminal (7), bash (2)
 > **CLI Commands:** rm (4), cat (1), dnf (1)
 > **Speakers:** - [narrator] (1), - a (1), - n (1), - rm (1), - t (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -5907,8 +5910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (18), [[JSON]] (2), [[Virtual Machines]] (1)
 > **CLI Commands:** tar (12), nginx (7), docker (6), cat (3), mkdir (1)
-> **Code Keywords:** let (5), else. (2), this. (1), delete (1)
 > **URLs:** [redhat.com](https://redhat.com) (5), [docker.io](https://docker.io) (2), [quay.io](https://quay.io) (1), [example.com](https://example.com) (1)
 > **Env Vars:** home (4), ubi (3), cat (1), oci (1)
 > **File Paths:** manifest.json (2), testfile.txt (2)
@@ -6061,9 +6064,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (15), [[HTML]] (4), web (3), [[Version Control]] (1), [[Git]] (1)
 > **CLI Commands:** dnf (4), mkdir (2), systemctl (2), make (2), sudo (2)
 > **Env Vars:** ubi (7), dnf (2), run (2), rhel (1), httpd (1)
-> **Code Keywords:** let (2), case. (1), export, (1), var (1)
 > **Code Identifiers:** container_manage_cgroup (2), ip_unprivileged_port_start (2), myhttpd_run (1)
 > **Prerequisites:** install (5)
 > **File Paths:** var/www/html/index.html (1), localhost/index.html (1), index.html (1)
@@ -6199,8 +6202,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), [[Virtual Machines]] (2), [[Linux]] (1), [[Security]] (1)
 > **CLI Commands:** systemctl (8), sudo (3), mkdir (2), cat (1)
-> **Code Keywords:** let (3), super (1), case, (1)
 > **Env Vars:** home (4), oci (1)
 > **File Paths:** home/.config (4)
 > **Prerequisites:** you'll need (2), install (1)
@@ -6295,7 +6298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), case, (1)
+> **Frameworks & Libraries:** hit (7), data (4)
 > **File Paths:** hostmessage.txt (3), containervol/containermessage.txt (1)
 > **CLI Commands:** ls (3), make (1)
 > **Tools:** terminal (3), bash (1)
@@ -6307,7 +6310,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/next-steps?u=76281980)
@@ -6346,6 +6349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), product (1)
 > **Env Vars:** rhcsa (4), csa (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.5 (1)

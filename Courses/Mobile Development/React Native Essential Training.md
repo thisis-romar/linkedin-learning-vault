@@ -24,7 +24,7 @@ tags:
   - topic/mobile-development
   - skill/react-native
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/React%20Native%20Essential%20Training.md)
@@ -43,66 +43,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Working with React Native
-  - Is this course for you?
-  - Course overview
+  - [Working with React Native](#working-with-react-native)
+  - [Is this course for you?](#is-this-course-for-you)
+  - [Course overview](#course-overview)
 - [**1. Getting Started**](#1-getting-started) (2 videos)
-  - Why React Native?
-  - Requirements and setup
+  - [Why React Native?](#why-react-native)
+  - [Requirements and setup](#requirements-and-setup)
 - [**2. React Native Fundamentals**](#2-react-native-fundamentals) (5 videos)
-  - Hello React Native with Expo
-  - Hello React Native on iOS
-  - Hello React Native on Android
-  - Styling React Native components
-  - Exploring components and APIs
+  - [Hello React Native with Expo](#hello-react-native-with-expo)
+  - [Hello React Native on iOS](#hello-react-native-on-ios)
+  - [Hello React Native on Android](#hello-react-native-on-android)
+  - [Styling React Native components](#styling-react-native-components)
+  - [Exploring components and APIs](#exploring-components-and-apis)
 - [**3. Building a Simple Game App**](#3-building-a-simple-game-app) (15 videos)
-  - Introduction and preview
-  - Initializing the TargetSum app
-  - Configuring ESLint
-  - The game component with a random target
-  - Generating the random play numbers
-  - Styling the random play numbers
-  - Using TouchableOpacity for press events
-  - Changing UI based on selected numbers
-  - Adding shared behavior to numbers
-  - Using React DevTools with React Native
-  - Computing dynamic values where needed
-  - Changing UI based on game status
-  - Working with timers
-  - Caching to optimize computable values
-  - Remounting a component to reset it
+  - [Introduction and preview](#introduction-and-preview)
+  - [Initializing the TargetSum app](#initializing-the-targetsum-app)
+  - [Configuring ESLint](#configuring-eslint)
+  - [The game component with a random target](#the-game-component-with-a-random-target)
+  - [Generating the random play numbers](#generating-the-random-play-numbers)
+  - [Styling the random play numbers](#styling-the-random-play-numbers)
+  - [Using TouchableOpacity for press events](#using-touchableopacity-for-press-events)
+  - [Changing UI based on selected numbers](#changing-ui-based-on-selected-numbers)
+  - [Adding shared behavior to numbers](#adding-shared-behavior-to-numbers)
+  - [Using React DevTools with React Native](#using-react-devtools-with-react-native)
+  - [Computing dynamic values where needed](#computing-dynamic-values-where-needed)
+  - [Changing UI based on game status](#changing-ui-based-on-game-status)
+  - [Working with timers](#working-with-timers)
+  - [Caching to optimize computable values](#caching-to-optimize-computable-values)
+  - [Remounting a component to reset it](#remounting-a-component-to-reset-it)
 - [**4. Building a Data-Driven App**](#4-building-a-data-driven-app) (9 videos)
-  - Introduction and preview
-  - Initializing the Bakesale app
-  - Using the Fetch API
-  - Using FlatList with API data
-  - Working with images
-  - Navigating to different views with state
-  - Fetching more API data for a view
-  - Implementing a back link
-  - Using TextInput to implement search
+  - [Introduction and preview](#introduction-and-preview)
+  - [Initializing the Bakesale app](#initializing-the-bakesale-app)
+  - [Using the Fetch API](#using-the-fetch-api)
+  - [Using FlatList with API data](#using-flatlist-with-api-data)
+  - [Working with images](#working-with-images)
+  - [Navigating to different views with state](#navigating-to-different-views-with-state)
+  - [Fetching more API data for a view](#fetching-more-api-data-for-a-view)
+  - [Implementing a back link](#implementing-a-back-link)
+  - [Using TextInput to implement search](#using-textinput-to-implement-search)
 - [**5. Animation and Gesture Control**](#5-animation-and-gesture-control) (9 videos)
-  - Preparing for swiping
-  - The Animated and Easing APIs
-  - Creating an animation loop
-  - Considering the device dimensions
-  - The PanResponder API
-  - Preparing the PanHandlers
-  - Swiping left and right
-  - Handling swipe gestures
-  - Opening URLs
+  - [Preparing for swiping](#preparing-for-swiping)
+  - [The Animated and Easing APIs](#the-animated-and-easing-apis)
+  - [Creating an animation loop](#creating-an-animation-loop)
+  - [Considering the device dimensions](#considering-the-device-dimensions)
+  - [The PanResponder API](#the-panresponder-api)
+  - [Preparing the PanHandlers](#preparing-the-panhandlers)
+  - [Swiping left and right](#swiping-left-and-right)
+  - [Handling swipe gestures](#handling-swipe-gestures)
+  - [Opening URLs](#opening-urls)
 - [**6. Deploying**](#6-deploying) (5 videos)
-  - Test first
-  - Testing on Android
-  - Changing app logo and splash screen
-  - Using TestFlight with internal testers
-  - Generating signed APK for Android
+  - [Test first](#test-first)
+  - [Testing on Android](#testing-on-android)
+  - [Changing app logo and splash screen](#changing-app-logo-and-splash-screen)
+  - [Using TestFlight with internal testers](#using-testflight-with-internal-testers)
+  - [Generating signed APK for Android](#generating-signed-apk-for-android)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980)
@@ -173,11 +173,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (7), application (5), game (2), [[Android]] (2), [[Agile Development|Agile]] (1)
 > **Code Identifiers:** ios (4), jscomplete (2)
 > **CLI Commands:** make (1), git (1)
 > **URLs:** [jscomplete.com](https://jscomplete.com) (2)
 > **Tools:** slack (1), github (1)
-> **Code Keywords:** abstract (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [samer] (1)
@@ -233,7 +233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), async (2), await (2), export, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (8), [[React Native]] (4), [[JavaScript]] (3), api (2), [[LinkedIn]] (1)
 > **Code Identifiers:** usestate (1), useeffect (1)
 > **Env Vars:** api (2)
 > **URLs:** [jscomplete.com](https://jscomplete.com) (1)
@@ -290,17 +290,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (8), data (5), api (4), [[Android]] (3), game (2)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (2)
-> **Code Keywords:** this, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why React Native?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980)
@@ -367,10 +367,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (24), [[JavaScript]] (8), application (6), [[Android]] (5), [[React.js|React]] (5)
 > **Code Identifiers:** ios (5)
 > **Env Vars:** jsx (1), html (1), css (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** interface (1), let (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
@@ -581,10 +581,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (29), [[React Native]] (14), [[Xcode]] (9), node (8), next (7)
 > **CLI Commands:** node (8), npm (7), make (6), brew (3), ruby (3)
 > **Prerequisites:** install (16), setup (4), set up (2), configure (2), you'll need (1)
 > **Env Vars:** npm (7), api (5), sdk (3), cli (2), gnpm (1)
-> **Code Keywords:** let (13), case, (2), continue (1)
 > **Tools:** command line (4), terminal (3), bash (2), atom (1)
 > **Code Identifiers:** ios (5)
 > **Versions:** 6.14.6 (1), 6.14.8 (1), 13.5 (1), 4.0.1 (1)
@@ -593,7 +593,7 @@ created: 2026-04-29
 
 ### 2. React Native Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hello React Native with Expo
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980)
@@ -696,9 +696,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (4), [[Windows]] (3), [[npm]] (3), application (3), [[Android]] (2)
 > **CLI Commands:** npm (3), node (2), cd (1)
 > **Code Identifiers:** ios (5), iphone (1)
-> **Code Keywords:** let (3), this. (1)
 > **Tools:** vs code (3), terminal (1)
 > **Env Vars:** npm (1), cli (1)
 > **Prerequisites:** install (2)
@@ -870,7 +870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), pass (1), static (1), function (1)
+> **Frameworks & Libraries:** [[React Native]] (24), application (13), [[React.js|React]] (7), [[Android]] (3), dom (3)
 > **Analogies:** for example (6), just like (4)
 > **Code Identifiers:** ios (6), iphone (3)
 > **File Paths:** app.js (2), package.json (1), index.js (1), app.json (1)
@@ -958,9 +958,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (18), [[React.js|React]] (5), application (4), [[React Native]] (2), next (1)
 > **File Paths:** app.ios.js (3), app.android.js (3), app.js (1)
 > **Code Identifiers:** ios (6), node_modules (1)
-> **Code Keywords:** let (2), default, (1), case. (1), delete (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (1)
@@ -1176,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), override (2), else. (1), delete (1), default. (1)
+> **Frameworks & Libraries:** css (15), [[React Native]] (9), [[JavaScript]] (6), [[React.js|React]] (4), web (3)
 > **Env Vars:** css (15), api (1), html (1)
 > **Definitions:** is a  (5), is an  (2)
 > **Analogies:** for example (5), just like (2)
@@ -1314,7 +1314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2), pass (2)
+> **Frameworks & Libraries:** [[React Native]] (13), [[Android]] (4), api (4), [[npm]] (3), [[Search]] (3)
 > **Prerequisites:** install (7)
 > **CLI Commands:** npm (3), find (1), sudo (1), make (1)
 > **Env Vars:** api (4), html (2)
@@ -1326,7 +1326,7 @@ created: 2026-04-29
 
 ### 3. Building a Simple Game App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and preview
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/introduction-and-preview-2?u=76281980)
@@ -1357,7 +1357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** game (4)
 > **Speakers:** - [presenter] (1)
 
 #### Initializing the TargetSum app
@@ -1515,7 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (2), default. (1), delete (1), function (1)
+> **Frameworks & Libraries:** [[React Native]] (11), [[React.js|React]] (5), application (4), [[Android]] (2), [[JavaScript]] (2)
 > **Env Vars:** flx (2), css (1)
 > **File Paths:** index.ios.js (1), index.android.js (1)
 > **CLI Commands:** cd (1), make (1)
@@ -1567,12 +1567,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (14), [[React.js|React]] (2), business (1), [[npm]] (1)
 > **Prerequisites:** install (4)
 > **File Paths:** eslintrc.js (2), app.js (1)
 > **Best Practices:** recommended (3)
 > **CLI Commands:** npm (1), make (1)
 > **Env Vars:** dot (1), npm (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1663,7 +1663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), private (2), self (1), default. (1)
+> **Frameworks & Libraries:** game (22), [[React Native]] (3), [[Microsoft Word|Word]] (1), css (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** game.js (1)
@@ -1901,7 +1901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (5), type, (3), delete (3), pass (2)
+> **Frameworks & Libraries:** game (21), [[React.js|React]] (3), [[ESLint]] (2), data (1), [[JavaScript]] (1)
 > **Analogies:** for example (3), just like (2)
 > **Code Identifiers:** randomnumbercount (3), proptypes (1)
 > **Definitions:** is a  (3)
@@ -1971,8 +1971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), [[Git]] (1), next (1)
 > **Code Identifiers:** randomcontainer (2), flexdirection (2), textalign (1), flexwrap (1)
-> **Code Keywords:** default, (2), continue (1), let (1)
 > **CLI Commands:** git (1), make (1)
 > **Analogies:** for example (1), just like (1)
 > **Versions:** 3.6 (1)
@@ -2097,7 +2097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), function (2), pass (1), case, (1)
+> **Frameworks & Libraries:** [[React Native]] (4), [[React.js|React]] (2), game (2), next (1), web (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** make (4)
 > **Best Practices:** the key is (2), recommended (1)
@@ -2275,7 +2275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (5), case, (1), pass (1)
+> **Frameworks & Libraries:** data (7), game (6), next (2), [[React.js|React]] (1), feature (1)
 > **Code Identifiers:** selectednumbers (8), isselected (5), isnumberselected (3), numberindex (2), selectnumbers (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2), just like (1)
@@ -2405,7 +2405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (6), pass (4), this. (2), case, (1)
+> **Frameworks & Libraries:** game (6), generic (2), data (1)
 > **Code Identifiers:** onpress (7), isrequired (1)
 > **Analogies:** just like (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2502,7 +2502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (2), this. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (11), application (4), game (3), [[GitHub]] (1), web (1)
 > **UI Navigation:** click on (2), select the (2)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
@@ -2638,7 +2638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), this, (1), this. (1), case, (1)
+> **Frameworks & Libraries:** game (21), hit (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -2748,7 +2748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (6), pass (1), default. (1), case. (1)
+> **Frameworks & Libraries:** game (7), feature (1), next (1)
 > **Code Identifiers:** gamestatus (14), targetpanelstyle (4), backgroundcolor (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** status_ (1), status (1), playing (1), mvp (1)
@@ -2894,8 +2894,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (10), next (1)
 > **Code Identifiers:** remainingseconds (11), gamestatus (8), setstate (6), initialseconds (5), componentdidmount (2)
-> **Code Keywords:** let (6), this. (4), function (4), this, (1), pass (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** lost (1)
@@ -3130,8 +3130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (13), next (7), hit (3), [[npm]] (2)
 > **Code Identifiers:** gamestatus (24), calcgamestatus (4), randomnumbers (4), componentwillupdate (3), nextstate (2)
-> **Code Keywords:** let (15), function (8), this. (4), case, (2), case. (1)
 > **CLI Commands:** make (2), npm (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** todo (2)
@@ -3328,8 +3328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (41), feature (5), [[React.js|React]] (5), next (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** gameid (11), onpress (5), resetgame (4), onplayagain (4), previosustate (1)
-> **Code Keywords:** let (11), function (10), this. (4), pass (1), else. (1)
 > **Definitions:** is a  (6), means that (1), is an  (1), we call this (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
@@ -3340,7 +3340,7 @@ created: 2026-04-29
 
 ### 4. Building a Data-Driven App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and preview
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/introduction-and-preview?u=76281980)
@@ -3377,9 +3377,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), next (1), api (1)
 > **UI Navigation:** click on (2), go to (1)
 > **URLs:** [bakesaleforgood.com](https://bakesaleforgood.com) (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Initializing the Bakesale app
@@ -3437,7 +3437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (1), const (1)
+> **Frameworks & Libraries:** [[React Native]] (7), [[React.js|React]] (2), [[Android]] (2), data (2), cd (1)
 > **File Paths:** app.js (2), index.ios.js (1), index.android.js (1)
 > **CLI Commands:** make (2), cd (1)
 > **Code Identifiers:** ios (1), alignitems (1)
@@ -3585,7 +3585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (6), async (3), await (2), this. (2)
+> **Frameworks & Libraries:** [[Fetch]] (10), api (9), [[AJAX]] (6), data (3), [[JSON]] (3)
 > **Env Vars:** api (9), json (3), https (1), apta (1)
 > **Analogies:** just like (4)
 > **File Paths:** ajax.js (1), deallist.js (1), app.js (1)
@@ -3709,7 +3709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), static (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[React Native]] (3), [[ESLint]] (2), data (2), [[npm]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (6), npm (1)
 > **Code Identifiers:** proptypes (2), iphone (1)
 > **Analogies:** just like (2), imagine (1)
@@ -3901,7 +3901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (8), this. (3), pass (2), static (1)
+> **Frameworks & Libraries:** [[React Native]] (2), api (2), next (2), [[React.js|React]] (1)
 > **Env Vars:** uri (3), api (2)
 > **CLI Commands:** make (3)
 > **File Paths:** dealitem.js (1), util.js (1)
@@ -4107,7 +4107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (9), this. (8), pass (4), this . (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), api (4), [[Fetch]] (4), [[React Native]] (2), [[AJAX]] (2)
 > **Code Identifiers:** currentdealid (7), onpress (4), handlepress (4), dealid (4), currentdeal (4)
 > **CLI Commands:** make (11), find (2)
 > **Env Vars:** api (4)
@@ -4291,7 +4291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (8), const (5), pass (1), this. (1)
+> **Frameworks & Libraries:** [[AJAX]] (8), [[Fetch]] (7), data (4), [[React.js|React]] (4), [[React Native]] (3)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Analogies:** for example (4), just like (1)
@@ -4395,7 +4395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (7), pass (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Search]] (6), application (1), [[React.js|React]] (1)
 > **Code Identifiers:** onback (4), currentdealid (3), unsetcurrentdeal (3), setcurrentdeal (2), dealid (2)
 > **UI Navigation:** click on (3), go to (2)
 > **Definitions:** is a  (3)
@@ -4704,7 +4704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (32), function (15), this. (4), pass (3), type, (2)
+> **Frameworks & Libraries:** [[Search]] (87), [[React.js|React]] (5), api (5), feature (4), [[React Native]] (4)
 > **Env Vars:** api (5), ajax (3), npm (1), mvp (1)
 > **Definitions:** is a  (7), is an  (3)
 > **Code Identifiers:** fetchdealssearchresults (2), searchdeals (2), stylesheet (1), handlechange (1), proptypes (1)
@@ -4716,7 +4716,7 @@ created: 2026-04-29
 
 ### 5. Animation and Gesture Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for swiping
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/preparing-for-swiping?u=76281980)
@@ -4751,7 +4751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** next (2), api (2), feature (1), [[React Native]] (1)
 > **Code Identifiers:** marginhorizontal (1), backlink (1), marginleft (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
@@ -4847,8 +4847,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (6), api (6), [[Microsoft Word|Word]] (5), [[AJAX]] (2), [[JavaScript]] (2)
 > **Env Vars:** api (6)
-> **Code Keywords:** let (5)
 > **Analogies:** for example (5)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -5007,7 +5007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), this. (3), case, (1), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[React Native]] (2), next (2), api (1)
 > **Analogies:** just like (5), for example (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (1)
@@ -5207,7 +5207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), type. (1), while. (1), function (1)
+> **Frameworks & Libraries:** [[React Native]] (4), [[Microsoft Word|Word]] (3), next (2), [[Hardware]] (1), [[AJAX]] (1)
 > **Analogies:** for example (4), just like (2), kind of like (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is an  (2)
@@ -5305,7 +5305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), let (1), override (1), function (1), finally, (1)
+> **Frameworks & Libraries:** api (4), next (2), [[React Native]] (1), [[Zoom]] (1)
 > **Code Identifiers:** onrespondermove (1), onresponderrelease (1), onpanrespondergrant (1), onstartshouldsetpanresponder (1), onpanrespondermove (1)
 > **Env Vars:** api (4), dxy (1)
 > **Analogies:** for example (2)
@@ -5411,7 +5411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (3), function (3), this. (2), case, (1)
+> **Frameworks & Libraries:** next (2), feature (1), [[React Native]] (1)
 > **Code Identifiers:** onpanrespondermove (3), onstartshouldsetpanresponder (1), onpanresponderrelease (1), imagepanresponder (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -5544,7 +5544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this . (2), this. (1), continue (1), try, (1)
+> **Frameworks & Libraries:** next (3), [[React Native]] (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** make (2)
 > **Versions:** 0.4 (2)
@@ -5736,7 +5736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), this. (2), case. (1), return, (1)
+> **Frameworks & Libraries:** next (8), data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** indexdirection (5), handleswipe (4), setstate (4), imageindex (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
@@ -5819,8 +5819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (3), [[Android]] (3), application (3), feature (2), web (2)
 > **Env Vars:** url (9), api (2)
-> **Code Keywords:** let (4), function (2), this. (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
@@ -5830,7 +5830,7 @@ created: 2026-04-29
 
 ### 6. Deploying
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test first
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980)
@@ -5871,9 +5871,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (4), [[React Native]] (1), next (1)
 > **Code Identifiers:** iphone (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
@@ -6110,7 +6110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (9), function (6), pass (3), else. (1)
+> **Frameworks & Libraries:** [[Search]] (43), [[Android]] (3), feature (3), [[React.js|React]] (2), application (1)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** make (2), find (2)
 > **Code Identifiers:** ios (1), proptypes (1)
@@ -6284,7 +6284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), override (2), super (1)
+> **Frameworks & Libraries:** [[Xcode]] (9), [[React Native]] (7), node (2), [[npm]] (2), hit (2)
 > **Prerequisites:** install (4), you'll need (3)
 > **CLI Commands:** node (2), npm (2), make (1), brew (1)
 > **UI Navigation:** click on (4), go to (2)
@@ -6440,9 +6440,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (6), next (5), [[Apple Developer]] (1), web (1), feature (1)
 > **UI Navigation:** go to (10), click on (5), select the (3)
 > **Code Identifiers:** itunes (5), ios (4), iphones (1)
-> **Code Keywords:** let (2), this. (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** you'll need (1)
@@ -6545,8 +6545,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (7), [[Gradle]] (4), [[Google]] (3), next (2), [[React Native]] (1)
 > **CLI Commands:** make (3), find (1), cd (1)
-> **Code Keywords:** let (2), super (1)
 > **Env Vars:** apk (1), ios (1), ipa (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
@@ -6557,7 +6557,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980)
@@ -6592,8 +6592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (5), next (2), [[Swift (Programming Language)|Swift]] (2), [[Java]] (2), [[Android]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** ios (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)

@@ -42,7 +42,7 @@ tags:
   - skill/python-programming-language
   - skill/data-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Python%20for%20Data%20Engineering-%20From%20Beginner%20to%20Advanced.md)
@@ -61,89 +61,89 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Python for data engineering
-  - What you should know
-  - CoderPad tour
+  - [Python for data engineering](#python-for-data-engineering)
+  - [What you should know](#what-you-should-know)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. Python Basics**](#1-python-basics) (11 videos)
-  - Introduction to Python and data engineering
-  - Setting up your Python environment
-  - Explore the Google Colab worksheet
-  - Variables and data types
-  - Operators and expressions
-  - Control structures
-  - Functions
-  - Modules and packages
-  - String manipulation
-  - Error handling
-  - Solution: Conditions
+  - [Introduction to Python and data engineering](#introduction-to-python-and-data-engineering)
+  - [Setting up your Python environment](#setting-up-your-python-environment)
+  - [Explore the Google Colab worksheet](#explore-the-google-colab-worksheet)
+  - [Variables and data types](#variables-and-data-types)
+  - [Operators and expressions](#operators-and-expressions)
+  - [Control structures](#control-structures)
+  - [Functions](#functions)
+  - [Modules and packages](#modules-and-packages)
+  - [String manipulation](#string-manipulation)
+  - [Error handling](#error-handling)
+  - [Solution: Conditions](#solution-conditions)
 - [**2. Python Collections**](#2-python-collections) (6 videos)
-  - Collection overview
-  - Python collections: Tuples
-  - Python collections: Lists
-  - Python collections: Sets
-  - Python collections: Dictionaries
-  - Solution: Collections
+  - [Collection overview](#collection-overview)
+  - [Python collections: Tuples](#python-collections-tuples)
+  - [Python collections: Lists](#python-collections-lists)
+  - [Python collections: Sets](#python-collections-sets)
+  - [Python collections: Dictionaries](#python-collections-dictionaries)
+  - [Solution: Collections](#solution-collections)
 - [**3. Python File Handling**](#3-python-file-handling) (4 videos)
-  - File I/O overview
-  - Working with CSV files
-  - Working with JSON files
-  - Solution: File handling
+  - [File I/O overview](#file-io-overview)
+  - [Working with CSV files](#working-with-csv-files)
+  - [Working with JSON files](#working-with-json-files)
+  - [Solution: File handling](#solution-file-handling)
 - [**4. pandas DataFrame API**](#4-pandas-dataframe-api) (7 videos)
-  - Introduction to pandas
-  - Read files as DataFrames
-  - Data cleaning and preprocessing
-  - Data manipulation and aggregation
-  - Data visualization
-  - Write a DataFrame to a file
-  - Solution: pandas
+  - [Introduction to pandas](#introduction-to-pandas)
+  - [Read files as DataFrames](#read-files-as-dataframes)
+  - [Data cleaning and preprocessing](#data-cleaning-and-preprocessing)
+  - [Data manipulation and aggregation](#data-manipulation-and-aggregation)
+  - [Data visualization](#data-visualization)
+  - [Write a DataFrame to a file](#write-a-dataframe-to-a-file)
+  - [Solution: pandas](#solution-pandas)
 - [**5. NumPy**](#5-numpy) (7 videos)
-  - Introduction to NumPy
-  - Array creation and attributes
-  - Array operations
-  - Indexing and slicing
-  - Linear algebra and statistics
-  - Write a NumPy array to a file
-  - Solution: NumPy
+  - [Introduction to NumPy](#introduction-to-numpy)
+  - [Array creation and attributes](#array-creation-and-attributes)
+  - [Array operations](#array-operations)
+  - [Indexing and slicing](#indexing-and-slicing)
+  - [Linear algebra and statistics](#linear-algebra-and-statistics)
+  - [Write a NumPy array to a file](#write-a-numpy-array-to-a-file)
+  - [Solution: NumPy](#solution-numpy)
 - [**6. OOP with Python**](#6-oop-with-python) (4 videos)
-  - Understanding classes and objects
-  - Implementation: Classes and objects in Python
-  - Understand OOP features: Abstraction, inheritance, and more
-  - Solution: OOP
+  - [Understanding classes and objects](#understanding-classes-and-objects)
+  - [Implementation: Classes and objects in Python](#implementation-classes-and-objects-in-python)
+  - [Understand OOP features: Abstraction, inheritance, and more](#understand-oop-features-abstraction-inheritance-and-more)
+  - [Solution: OOP](#solution-oop)
 - [**7. Advanced Data Engineering**](#7-advanced-data-engineering) (6 videos)
-  - Tips to write efficient Python code
-  - What is ETL in the data engineering world?
-  - Understand PySpark for data engineering
-  - What is Hadoop
-  - Importance of visualization tools in data engineering
-  - On-premises vs. cloud data engineering
+  - [Tips to write efficient Python code](#tips-to-write-efficient-python-code)
+  - [What is ETL in the data engineering world?](#what-is-etl-in-the-data-engineering-world)
+  - [Understand PySpark for data engineering](#understand-pyspark-for-data-engineering)
+  - [What is Hadoop](#what-is-hadoop)
+  - [Importance of visualization tools in data engineering](#importance-of-visualization-tools-in-data-engineering)
+  - [On-premises vs. cloud data engineering](#on-premises-vs-cloud-data-engineering)
 - [**8. Web Scraping with Python**](#8-web-scraping-with-python) (8 videos)
-  - HTML basics
-  - HTML parents, children, and descendants
-  - Understand web scraping
-  - BeautifulSoup basics
-  - Installing BeautifulSoup
-  - Get HTML from a webpage
-  - Scrape the webpage
-  - Export data as a TXT file
+  - [HTML basics](#html-basics)
+  - [HTML parents, children, and descendants](#html-parents-children-and-descendants)
+  - [Understand web scraping](#understand-web-scraping)
+  - [BeautifulSoup basics](#beautifulsoup-basics)
+  - [Installing BeautifulSoup](#installing-beautifulsoup)
+  - [Get HTML from a webpage](#get-html-from-a-webpage)
+  - [Scrape the webpage](#scrape-the-webpage)
+  - [Export data as a TXT file](#export-data-as-a-txt-file)
 - [**9. Advanced Built-in Functions**](#9-advanced-built-in-functions) (5 videos)
-  - Generators in Python
-  - Python generator classes and iterators
-  - Iterables in Python
-  - filter() and map() functions
-  - any() and all() functions in Python
+  - [Generators in Python](#generators-in-python)
+  - [Python generator classes and iterators](#python-generator-classes-and-iterators)
+  - [Iterables in Python](#iterables-in-python)
+  - [filter() and map() functions](#filter-and-map-functions)
+  - [any() and all() functions in Python](#any-and-all-functions-in-python)
 - [**10. Logging in Python**](#10-logging-in-python) (3 videos)
-  - What is logging?
-  - Custom logging
-  - Logging best practices
+  - [What is logging?](#what-is-logging)
+  - [Custom logging](#custom-logging)
+  - [Logging best practices](#logging-best-practices)
 - [**11. Final Project**](#11-final-project) (2 videos)
-  - Final Project: Retail sales analysis
-  - Solution: Final project
+  - [Final Project: Retail sales analysis](#final-project-retail-sales-analysis)
+  - [Solution: Final project](#solution-final-project)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980)
@@ -164,6 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (3), [[Microsoft]] (1), career (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - do (1)
 
@@ -188,10 +189,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Data Engineering]] (5), [[Google]] (3), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (5), make (1)
 > **Tools:** colab (3)
 > **Prerequisites:** prerequisite (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### CoderPad tour
@@ -225,7 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -234,7 +235,7 @@ created: 2026-04-29
 
 ### 1. Python Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Python and data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980)
@@ -293,8 +294,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), data (8), [[Data Engineering]] (7), next (3), product (2)
 > **CLI Commands:** python (10), make (3)
-> **Code Keywords:** let (2), case, (1)
 > **Analogies:** think of it like (1), it's like (1), imagine (1)
 > **Cross-References:** next video (2)
 > **Definitions:** is a  (1)
@@ -362,10 +363,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (10), [[Python (Programming Language)|Python]] (4), [[Data Engineering]] (4), cloud (1), next (1)
 > **Tools:** colab (8)
 > **CLI Commands:** python (4), find (2)
 > **Analogies:** imagine (1), think of it like (1), it's like (1), for example (1), just like (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Prerequisites:** set up (1), you need to have (1)
 > **URLs:** [google.com](https://google.com) (1)
@@ -448,8 +449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (8), [[Python (Programming Language)|Python]] (3), feature (3), [[Google Drive]] (3), cloud (1)
 > **Tools:** colab (7), jupyter (1)
-> **Code Keywords:** let (3), this, (1), type, (1), else, (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** python (3), find (2)
 > **Definitions:** is a  (3), short for (1), is called (1)
@@ -554,8 +555,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), data (9), [[Data Engineering]] (5), next (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (11), make (1)
-> **Code Keywords:** let (8), function (2), case, (1), type. (1)
 > **Analogies:** for example (5), imagine (1), think of it like (1)
 > **Code Identifiers:** int_var (2), float_var (1), string_var (1), bol_var (1)
 > **Versions:** 3.14 (2), 0.1 (1)
@@ -672,7 +673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), type, (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Google]] (2), next (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (7), imagine (1)
 > **CLI Commands:** python (5), make (1)
 > **Cross-References:** go back to (1), next video (1)
@@ -808,7 +809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), else: (1), for. (1), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), next (3), [[Google]] (1), [[Java]] (1)
 > **CLI Commands:** python (9), make (1)
 > **Analogies:** for example (3), imagine (1), it's like (1), similar to (1)
 > **Cross-References:** in the next (2)
@@ -941,7 +942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (35), let (14), pass (3), this, (2), while. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Word|Word]] (2), hit (1), next (1)
 > **CLI Commands:** python (7), make (3)
 > **Analogies:** for example (5), imagine (2)
 > **UI Navigation:** click on (3), go to (1)
@@ -1042,7 +1043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), module (9), import. (1), function (1), pass (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Pandas (Software)|Pandas]] (6), data (6), [[Google]] (2), database (1)
 > **CLI Commands:** python (9), make (1), find (1), pip (1)
 > **Analogies:** it's like (3), for example (3), imagine (1)
 > **Prerequisites:** install (4)
@@ -1198,7 +1199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), this, (3), pass (1), case. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Word|Word]] (5), [[Data Engineering]] (5), data (4), [[Google]] (1)
 > **CLI Commands:** python (6), find (5)
 > **Analogies:** for example (6), it's like (3), picture (1)
 > **Exercise Files:** template (3)
@@ -1296,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), try, (1), case, (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Google]] (1), next (1)
 > **CLI Commands:** python (7)
 > **Analogies:** imagine (1), for example (1)
 > **Warnings:** warning (2)
@@ -1333,7 +1334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1343,7 +1344,7 @@ created: 2026-04-29
 
 ### 2. Python Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collection overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980)
@@ -1392,8 +1393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (3), [[Data Engineering]] (1), strengths (1), power (1)
 > **CLI Commands:** python (5), find (1), make (1)
-> **Code Keywords:** throw (2), for. (1), type, (1)
 > **Analogies:** imagine (2)
 > **Documentation:** specification (1)
 > **Definitions:** is a  (1)
@@ -1520,7 +1521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2), function (2), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Word|Word]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (4), find (2), make (1)
 > **Analogies:** for example (2), similar to (1), imagine (1)
 > **Code Identifiers:** new_emp (3)
@@ -1618,7 +1619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Unit Testing]] (3), next (1)
 > **CLI Commands:** python (4), find (3)
 > **Analogies:** for example (6)
 > **Definitions:** means that (2)
@@ -1716,7 +1717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), function (1), pass (1), continue (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), [[Google]] (1), [[Unit Testing]] (1), [[Data Engineering]] (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Analogies:** for example (5)
 > **Env Vars:** sit (1)
@@ -1851,7 +1852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (6), function (4), case, (3), this. (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (5), [[Google]] (1), [[Data Engineering]] (1)
 > **Analogies:** for example (8), imagine (1)
 > **CLI Commands:** python (5), find (2), make (1)
 > **Code Identifiers:** new_user (4)
@@ -1887,7 +1888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), function (2), let (1), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** next video (1)
@@ -1898,7 +1899,7 @@ created: 2026-04-29
 
 ### 3. Python File Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File I/O overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980)
@@ -1939,9 +1940,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[JSON]] (4), [[Data Engineering]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** csv (4), json (4), xml (2)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2055,8 +2056,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), [[Data Engineering]] (1), [[Google]] (1)
 > **Env Vars:** csv (27), json (1)
-> **Code Keywords:** let (9), function (4), pass (3), module (2), this, (2)
 > **CLI Commands:** python (3), make (1)
 > **UI Navigation:** click on (3), go to (1)
 > **File Paths:** output.csv (3)
@@ -2141,8 +2142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (25), data (22), next (2), [[Python (Programming Language)|Python]] (1), [[Google]] (1)
 > **Env Vars:** json (21), csv (3), rest (1)
-> **Code Keywords:** let (8), module (3), this, (3), function (3), this. (2)
 > **UI Navigation:** click on (4)
 > **File Paths:** output2.json (3)
 > **Analogies:** picture (1), think of it as (1), similar to (1)
@@ -2209,7 +2210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), pass (2), module (1), finally, (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Env Vars:** tx3 (2)
 > **File Paths:** example.txt (1)
 > **Cross-References:** in the next (1)
@@ -2220,7 +2221,7 @@ created: 2026-04-29
 
 ### 4. pandas DataFrame API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980)
@@ -2273,6 +2274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Pandas (Software)|Pandas]] (13), [[Python (Programming Language)|Python]] (3), [[Analytics]] (2), [[Data Engineering]] (1)
 > **CLI Commands:** python (3), make (2), find (1)
 > **Analogies:** it's like (2), imagine (1), think of it as (1), just like (1)
 > **Env Vars:** csv (1), json (1), xml (1)
@@ -2370,8 +2372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (13), [[JSON]] (7), data (6), [[Microsoft Excel|Excel]] (6), [[Google]] (1)
 > **Env Vars:** csv (9), json (7)
-> **Code Keywords:** function (5), let (4), pass (2), case, (1), default, (1)
 > **Code Identifiers:** to_string (2), read_csv (1), read_json (1), read_excel (1)
 > **UI Navigation:** click on (5)
 > **Analogies:** picture (1), it's like (1), just like (1)
@@ -2490,7 +2492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), delete (1), this. (1), catch. (1)
+> **Frameworks & Libraries:** data (18), business (2), [[Pandas (Software)|Pandas]] (2), [[Google]] (1), next (1)
 > **Code Identifiers:** drop_duplicates (2), to_string (1), df_new (1), to_datetime (1), order_date (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** for example (4)
@@ -2596,7 +2598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (2), type, (1), case, (1)
+> **Frameworks & Libraries:** data (17), [[Data Manipulation]] (3), [[Pandas (Software)|Pandas]] (3), product (3), business (1)
 > **CLI Commands:** find (6)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** csv (2)
@@ -2695,7 +2697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (4), this. (3), pass (1), type. (1)
+> **Frameworks & Libraries:** data (14), product (3), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5), python (1)
 > **Analogies:** imagine (2), for example (1), similar to (1)
 > **Code Identifiers:** dataframe (1), to_datetime (1)
@@ -2743,7 +2745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), data (1), next (1)
 > **Code Identifiers:** order_id (1), find_sum (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
@@ -2754,7 +2756,7 @@ created: 2026-04-29
 
 ### 5. NumPy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to NumPy
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980)
@@ -2809,7 +2811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), for. (1), let (1), switch (1)
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1), [[Statistical Analysis]] (1)
 > **Analogies:** imagine (2), it's like (1), just like (1)
 > **CLI Commands:** python (2), make (1)
 > **Cross-References:** next video (1)
@@ -2925,7 +2927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), this, (3), this. (3), pass (1)
+> **Frameworks & Libraries:** data (2), next (2), [[Google]] (1)
 > **Code Identifiers:** range_array (4), random_matrix (2), zero_array (1), random_array (1)
 > **Analogies:** for example (4), it's like (1)
 > **Cross-References:** in the next (2), go back to (1)
@@ -3071,7 +3073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (5), function (4), this, (2), this. (1)
+> **Frameworks & Libraries:** data (5), [[Google]] (1), feature (1), next (1)
 > **Analogies:** for example (6), it's like (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (3), is called (1)
@@ -3217,7 +3219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (5), pass (3), if, (1), function (1)
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), [[Google]] (1), management (1), next (1)
 > **CLI Commands:** find (5), python (2), make (1)
 > **Code Identifiers:** step_array (2), second_row (2), sliced_array (1), data_fill (1), nan_to_num (1)
 > **Analogies:** for example (6), just like (1)
@@ -3325,7 +3327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (7), pass (7)
+> **Frameworks & Libraries:** [[Linear Algebra]] (4), data (3), [[Statistics]] (2), [[Google]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** find (5)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -3405,7 +3407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (4), function (3)
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (3), [[Microsoft Excel|Excel]] (3), [[Google]] (1)
 > **Env Vars:** csv (3), npy (1)
 > **File Paths:** output.csv (2)
 > **Code Identifiers:** new_matrix (1), to_excel (1)
@@ -3453,7 +3455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), pass (2), module (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -3463,7 +3465,7 @@ created: 2026-04-29
 
 ### 6. OOP with Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980)
@@ -3500,7 +3502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), class. (1)
+> **Frameworks & Libraries:** [[Banking]] (2), management (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), application (1), next (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** bmw (1)
@@ -3573,7 +3575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (7), class, (4), let (3), function (2), self (2)
+> **Frameworks & Libraries:** [[Google]] (1), next (1)
 > **Code Identifiers:** display_info (5)
 > **Cross-References:** go back to (1), next video (1)
 > **Definitions:** is a  (2)
@@ -3647,7 +3649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (2), class, (1), super (1)
+> **Frameworks & Libraries:** [[Banking]] (1), feature (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (3), is a  (1)
 > **Analogies:** just like (1), for example (1), it's like (1)
 > **Env Vars:** oops (1)
@@ -3702,7 +3704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (2), pass (2), class, (1), module (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** get_balance (4), account_id (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** next video (1)
@@ -3713,7 +3715,7 @@ created: 2026-04-29
 
 ### 7. Advanced Data Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tips to write efficient Python code
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980)
@@ -3782,7 +3784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), case, (1), let (1), default, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (1), [[Probability]] (1), next (1)
 > **CLI Commands:** python (5), find (2)
 > **Analogies:** for example (2)
 > **Cross-References:** next video (1)
@@ -3862,10 +3864,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), database (3), etl (3), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** etl (3), oltp (2), csv (1), jsod (1), rest (1)
 > **Analogies:** it's like (2), imagine (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3928,8 +3930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PySpark]] (8), data (7), [[Scalability]] (2), [[Apache Spark]] (2), [[Big Data]] (2)
 > **CLI Commands:** apache (2), python (1), node (1), make (1)
-> **Code Keywords:** let (1), require (1)
 > **Env Vars:** etl (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** picture (1), it's like (1)
@@ -3980,10 +3982,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Hadoop]] (8), [[Scalability]] (3), power (2), parallel (2)
 > **CLI Commands:** node (2)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** is an  (1), means that (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4042,6 +4044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Data Engineering]] (1), business (1), [[Storytelling]] (1), management (1)
 > **Analogies:** for example (3), picture (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** gps (1)
@@ -4103,14 +4106,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[Data Engineering]] (6), data (4), [[Scalability]] (4), [[Security]] (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Web Scraping with Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### HTML basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980)
@@ -4245,10 +4248,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (15), web (6), data (4), product (2), [[Forms]] (1)
 > **Env Vars:** html (15), url (2), f12 (1), htl (1)
 > **Definitions:** is an  (4), is a  (3), stands for (2)
 > **Analogies:** for example (4), such as (3), imagine (1)
-> **Code Keywords:** let (2), self (1), case, (1)
 > **UI Navigation:** go to (1), click on (1), open the (1), navigate to (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [example.com](https://example.com) (2)
@@ -4355,8 +4358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (15), product (3), data (3), web (3), dom (2)
 > **Env Vars:** html (15), dom (2)
-> **Code Keywords:** let (2), case, (2), class. (2), this. (2), case. (1)
 > **Definitions:** is a  (6), stands for (1)
 > **Analogies:** for example (4), similar to (1), imagine (1), picture (1)
 > **CLI Commands:** find (4), python (1)
@@ -4489,8 +4492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (20), data (8), [[HTML]] (6), [[Python (Programming Language)|Python]] (3), next (3)
 > **Env Vars:** html (6), csv (3), http (2), url (2), json (1)
-> **Code Keywords:** let (5), finally, (1), this, (1), case. (1), case, (1)
 > **CLI Commands:** python (3), make (2)
 > **Analogies:** for example (4), imagine (1)
 > **URLs:** [amazon.com](https://amazon.com) (3)
@@ -4619,9 +4622,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (16), data (11), web (5), [[Search]] (3), [[Data Engineering]] (1)
 > **Env Vars:** html (16), xml (2), css (1)
 > **CLI Commands:** find (7), python (1)
-> **Code Keywords:** let (3), function (2)
 > **Analogies:** for example (2), imagine (2), such as (1)
 > **Code Identifiers:** find_all (1)
 > **Cross-References:** in the next (1)
@@ -4701,8 +4704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (6), [[Windows]] (3), web (3), next (1), [[HTML]] (1)
 > **Prerequisites:** install (15)
-> **Code Keywords:** let (5), this. (2), default, (2), this, (1), pass (1)
 > **CLI Commands:** pip (7)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Analogies:** imagine (2), for example (1)
@@ -4805,8 +4808,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (16), web (3), data (3), [[JSON]] (3), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** html (16), http (7), url (3), json (3), api (2)
-> **Code Keywords:** let (4), this. (1), this, (1), function (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -4951,9 +4954,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (9), web (4), data (4), hit (1), [[Fetch]] (1)
 > **Env Vars:** html (9), url (5), http (1), csv (1)
 > **CLI Commands:** find (13), python (1)
-> **Code Keywords:** let (7), pass (3), this. (2), this, (1), function (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Tools:** command prompt (1)
@@ -5042,7 +5045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (2), this. (1)
+> **Frameworks & Libraries:** data (15), web (6), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (1), [[Analytics]] (1)
 > **File Paths:** web-scrap.txt (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -5054,7 +5057,7 @@ created: 2026-04-29
 
 ### 9. Advanced Built-in Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generators in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980)
@@ -5137,7 +5140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (4), let (2)
+> **Frameworks & Libraries:** data (4), [[Simulation]] (1), next (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** python (1)
@@ -5311,7 +5314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (33), let (15), yield (3), class, (2), pass (2)
+> **Frameworks & Libraries:** next (10), [[Python (Programming Language)|Python]] (3), data (3), [[Google]] (1)
 > **CLI Commands:** python (3), find (2), make (1)
 > **Cross-References:** in the next (2)
 > **Env Vars:** etr (1)
@@ -5437,7 +5440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (4), function (3), this. (3), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (4), data (3), [[Programming]] (1), [[Google]] (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is an  (4)
 > **Analogies:** imagine (2), for example (2)
@@ -5533,7 +5536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (23), pass (6), let (5), lambda (3), this, (2)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (2), [[Functional Programming]] (1), [[Google]] (1), next (1)
 > **CLI Commands:** python (2), find (1), make (1)
 > **Analogies:** imagine (2), for example (1)
 > **Code Identifiers:** even_numbers (1), squared_list (1)
@@ -5605,7 +5608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), this, (4), let (3), pass (2), this. (1)
+> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1), [[Google]] (1)
 > **CLI Commands:** find (4), make (1), python (1)
 > **Analogies:** imagine (3), for example (1)
 > **Speakers:** - [instructor] (1), - 2 (1)
@@ -5615,7 +5618,7 @@ created: 2026-04-29
 
 ### 10. Logging in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is logging?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980)
@@ -5690,8 +5693,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Python (Programming Language)|Python]] (5), [[Debugging]] (3), [[Software Development]] (1), web application (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** let (2), module (1), function (1), continue (1)
 > **Env Vars:** debug (1), info (1), warning (1), error (1), critical (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** imagine (2), for example (1)
@@ -5780,7 +5783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (6), let (2), this, (2), class, (1), function (1)
+> **Frameworks & Libraries:** application (4), [[Scalability]] (1), [[Google]] (1), next (1)
 > **Code Identifiers:** getlogger (3), finance_module_logger (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -5875,11 +5878,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Debugging]] (3), data (3), [[Security]] (1), [[Search]] (1)
 > **Warnings:** warning (2), keep in mind (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Best Practices:** best practice (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** elk (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [narrator] (1)
@@ -5887,7 +5890,7 @@ created: 2026-04-29
 
 ### 11. Final Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final Project: Retail sales analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980)
@@ -5958,7 +5961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2), type. (1), this, (1), class. (1)
+> **Frameworks & Libraries:** data (12), product (5), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Data Manipulation]] (2)
 > **Env Vars:** csv (4)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (2)
@@ -6320,7 +6323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (23), self (15), pass (10), class. (4)
+> **Frameworks & Libraries:** product (38), data (20), next (5), [[Pandas (Software)|Pandas]] (3), [[Data Manipulation]] (3)
 > **Code Identifiers:** total_sales_per_product (3), retail_sales (2), best_selling_product (2), average_daily_sales (2), plot_sales_trend (2)
 > **CLI Commands:** find (8)
 > **Env Vars:** csv (7), plt (1)
@@ -6332,7 +6335,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980)
@@ -6355,6 +6358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Data Engineering]] (3), [[Python (Programming Language)|Python]] (2), data (2), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Speakers:** - [deepak] (1)
 

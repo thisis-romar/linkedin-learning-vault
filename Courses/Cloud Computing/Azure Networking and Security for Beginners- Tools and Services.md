@@ -31,7 +31,7 @@ tags:
   - skill/cloud-security
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Networking%20and%20Security%20for%20Beginners-%20Tools%20and%20Services.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Enhance the security of Azure
-  - What you need to know
-  - Azure security model
+  - [Enhance the security of Azure](#enhance-the-security-of-azure)
+  - [What you need to know](#what-you-need-to-know)
+  - [Azure security model](#azure-security-model)
 - [**1. Securing Identities**](#1-securing-identities) (8 videos)
-  - Understand authentication and authorization
-  - Introduction to Microsoft Entra ID
-  - Configuring Microsoft Entra ID
-  - Role based access control
-  - Configure RBAC
-  - Conditional access
-  - Multifactor authentication
-  - Best practices
+  - [Understand authentication and authorization](#understand-authentication-and-authorization)
+  - [Introduction to Microsoft Entra ID](#introduction-to-microsoft-entra-id)
+  - [Configuring Microsoft Entra ID](#configuring-microsoft-entra-id)
+  - [Role based access control](#role-based-access-control)
+  - [Configure RBAC](#configure-rbac)
+  - [Conditional access](#conditional-access)
+  - [Multifactor authentication](#multifactor-authentication)
+  - [Best practices](#best-practices)
 - [**2. Securing Network Connectivity**](#2-securing-network-connectivity) (10 videos)
-  - Understand network components
-  - Network security groups
-  - Controlling traffic with network security groups
-  - Azure network routing
-  - Configure routing
-  - Azure Firewall
-  - Configure Azure Firewall
-  - Azure DDoS protection
-  - Other network security tools
-  - Best practices
+  - [Understand network components](#understand-network-components)
+  - [Network security groups](#network-security-groups)
+  - [Controlling traffic with network security groups](#controlling-traffic-with-network-security-groups)
+  - [Azure network routing](#azure-network-routing)
+  - [Configure routing](#configure-routing)
+  - [Azure Firewall](#azure-firewall)
+  - [Configure Azure Firewall](#configure-azure-firewall)
+  - [Azure DDoS protection](#azure-ddos-protection)
+  - [Other network security tools](#other-network-security-tools)
+  - [Best practices](#best-practices)
 - [**3. Securing Data**](#3-securing-data) (4 videos)
-  - Azure Key Vault
-  - Protect data at rest
-  - Protect data in transit
-  - Best practices
+  - [Azure Key Vault](#azure-key-vault)
+  - [Protect data at rest](#protect-data-at-rest)
+  - [Protect data in transit](#protect-data-in-transit)
+  - [Best practices](#best-practices)
 - [**4. Defender for Cloud**](#4-defender-for-cloud) (2 videos)
-  - Introduction to Defender for Cloud
-  - Use cases of Defender for Cloud
+  - [Introduction to Defender for Cloud](#introduction-to-defender-for-cloud)
+  - [Use cases of Defender for Cloud](#use-cases-of-defender-for-cloud)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about Azure security
+  - [Learning more about Azure security](#learning-more-about-azure-security)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhance the security of Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (6), [[Security]] (3), [[Microsoft Azure|Azure]] (2), data (1), [[Microsoft Entra ID]] (1)
 > **Speakers:** - [shyamraj] (1)
 
 #### What you need to know
@@ -133,7 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Routing]] (1), [[Microsoft]] (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Tools:** azure portal (1)
 > **Analogies:** such as (1)
@@ -237,8 +237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (27), cloud (11), [[Security]] (10), data (7), [[IaaS]] (6)
 > **Analogies:** such as (11), for example (1)
-> **Code Keywords:** type, (2), let (2), protected (1), this. (1), type. (1)
 > **Env Vars:** sql (2), ssl (1), tls (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** required to (1)
@@ -247,7 +247,7 @@ created: 2026-04-29
 
 ### 1. Securing Identities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand authentication and authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980)
@@ -360,7 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), protected (4), this, (1), this. (1), function (1)
+> **Frameworks & Libraries:** application (8), [[Microsoft Azure|Azure]] (3), [[Microsoft Entra ID|Entra id]] (3), cloud (2), [[Microsoft Entra ID]] (2)
 > **Definitions:** is a  (3), is an  (1), in other words (1)
 > **Env Vars:** mac (1), xyz (1), url (1), sso (1)
 > **Analogies:** such as (2), for example (1)
@@ -471,7 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (15), cloud (9), [[Microsoft Azure|Azure]] (6), management (5), [[Active Directory]] (5)
 > **Analogies:** such as (4), for example (2)
 > **Cross-References:** later in (2), we discussed (1), in the last (1)
 > **Env Vars:** mdm (1), ldap (1), ntlm (1)
@@ -581,9 +581,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (6), [[Microsoft Entra ID]] (4), [[Microsoft Entra ID|Entra id]] (3), [[Security]] (2)
 > **Prerequisites:** configure (9), set up (1)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** let (2), default, (1), self (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** in other words (1), is a  (1)
 > **URLs:** [azure.com](https://azure.com) (1)
@@ -697,8 +697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Microsoft Entra ID|Entra]] (8), [[Security]] (5), [[Virtual Machines]] (4), [[Microsoft Entra ID|Entra id]] (3)
 > **Definitions:** is a  (4), known as (2), in other words (2), is an  (2)
-> **Code Keywords:** let (3), delete (2), case, (2), function (1), default, (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** rbac (3)
 > **Prerequisites:** configure (3)
@@ -849,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type. (1), default, (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Virtual Machines]] (7), next (5), [[Microsoft Entra ID|Entra]] (3), [[Microsoft Entra ID|Entra id]] (3)
 > **UI Navigation:** go to (4), select the (3), click on (1)
 > **Env Vars:** rbac (3), json (2), iam (1)
 > **Prerequisites:** configure (2), required to (1)
@@ -1055,7 +1055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (22), let (6), if. (2), protected (1), from. (1)
+> **Frameworks & Libraries:** [[Security]] (7), [[SharePoint]] (5), [[Microsoft Azure|Azure]] (4), [[Microsoft Office|Office]] (3), cloud (3)
 > **UI Navigation:** go to (3), select the (2), scroll down (1)
 > **Prerequisites:** configure (6)
 > **CLI Commands:** make (4), find (1)
@@ -1155,8 +1155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Microsoft Azure|Azure]] (8), [[Microsoft Entra ID|Entra]] (7), [[Microsoft]] (6), [[Multi-factor Authentication]] (5)
 > **Env Vars:** mfa (15), sms (2), fido2 (1)
-> **Code Keywords:** let (7), this. (2), require (1), finally, (1), this, (1)
 > **UI Navigation:** go to (7), scroll down (2), select the (2)
 > **Tools:** azure portal (6)
 > **Prerequisites:** configure (4)
@@ -1265,8 +1265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Security]] (6), [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), cloud (3)
 > **Env Vars:** mfa (3), rbac (3), pop3 (1), smtp (1), fido (1)
-> **Code Keywords:** let (1), default, (1), include: (1), this. (1), require (1)
 > **Analogies:** such as (5), for example (1)
 > **Prerequisites:** configure (2)
 > **Definitions:** is a  (1)
@@ -1275,7 +1275,7 @@ created: 2026-04-29
 
 ### 2. Securing Network Connectivity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand network components
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980)
@@ -1402,8 +1402,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (29), traffic (15), dns (9), web (6), [[Security]] (5)
 > **Env Vars:** dns (9), waf (3), tcp (2), udp (2), http (2)
-> **Code Keywords:** private (6), let (4), public (3), function (1), continue (1)
 > **Analogies:** for example (4), such as (3), think of it as (2)
 > **Definitions:** is a  (4), known as (1), in other words (1)
 > **Versions:** 192.168.1 (4)
@@ -1542,8 +1542,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (31), [[Network Security]] (24), [[Microsoft Azure|Azure]] (10), [[Security]] (4), [[Virtual Machines]] (3)
 > **Env Vars:** nsg1 (7), nsg2 (7), vm1 (5), vm2 (5), vm3 (4)
-> **Code Keywords:** interface (14), let (2), default. (1)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1), for example (1)
 > **Cross-References:** in the next (1)
@@ -1732,7 +1732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (16), let (11), public (3), default, (1), default. (1)
+> **Frameworks & Libraries:** [[Network Security]] (17), traffic (10), [[Security]] (7), [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (2)
 > **Env Vars:** icmp (11), nsg (8), ssh (7), rdp (1), csv (1)
 > **UI Navigation:** select the (5), go to (4), switch to (1)
 > **CLI Commands:** ssh (7)
@@ -1918,7 +1918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (3), override (3), private (3), type. (2)
+> **Frameworks & Libraries:** traffic (31), next (17), [[Microsoft Azure|Azure]] (15), vpn (5), [[Routing]] (4)
 > **Versions:** 10.0.2 (5), 10.0.0 (4), 192.168.0 (4), 10.0.1 (2), 0.0.0 (1)
 > **Env Vars:** vpn (5), rfc (2)
 > **Definitions:** is a  (2), known as (2), is an  (1)
@@ -2060,7 +2060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (5), case, (1)
+> **Frameworks & Libraries:** next (6), [[Microsoft Azure|Azure]] (5), traffic (4), vpn (3), [[Routing]] (2)
 > **UI Navigation:** go to (5), select the (2), click on (1)
 > **Env Vars:** vnet1 (3), vpn (3)
 > **Cross-References:** in the last (2), we talked about (1), in the next (1), we discussed (1)
@@ -2158,8 +2158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (24), traffic (13), [[Network Security]] (5), application (3), web (2)
 > **Env Vars:** nat (3), tls (3), http (1), https (1), fqdn (1)
-> **Code Keywords:** private (2), public (2), let (1), interface (1)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Prerequisites:** configure (3)
 > **Definitions:** known as (1), is a  (1)
@@ -2468,8 +2468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), traffic (6), dns (6), next (5), application (5)
 > **Env Vars:** dns (6), fw2 (4), fw1 (3), vnet2 (3), sku (2)
-> **Code Keywords:** let (14), pass (3), private (3), public (2), case, (2)
 > **UI Navigation:** select the (4), go to (3), click on (3)
 > **Versions:** 10.0.0 (1), 10.0.1 (1), 10.0.2 (1), 4.2.2 (1), 0.0.0 (1)
 > **Prerequisites:** configure (4), you'll need (1)
@@ -2606,8 +2606,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (17), [[Microsoft Azure|Azure]] (17), application (13), [[Network Security]] (3), [[Security]] (2)
 > **Env Vars:** tcp (2), http (1), sql (1), icmp (1), syn (1)
-> **Code Keywords:** public (3), let (2), protected (1), pass (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** such as (2), imagine (1)
 > **Documentation:** the documentation (2)
@@ -2712,8 +2712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), traffic (6), [[Virtual Machines]] (6), [[Security]] (5), [[Network Security]] (4)
 > **Env Vars:** waf (4), vpn (4), rdp (3), ssh (3), sql (1)
-> **Code Keywords:** private (7), let (2), pass (1), public (1), interface (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Analogies:** such as (3), imagine (1)
 > **CLI Commands:** ssh (3)
@@ -2794,11 +2794,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Security]] (4), next (4), data (3), cloud (3)
 > **Env Vars:** ssh (1), rdp (1), lans (1)
 > **Cross-References:** we discussed (1), in the last (1), in the next (1)
 > **Analogies:** for example (1), similar to (1), such as (1)
 > **CLI Commands:** ssh (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** best practice (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2806,7 +2806,7 @@ created: 2026-04-29
 
 ### 3. Securing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Key Vault
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980)
@@ -2969,7 +2969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (3), default, (2), private (2), this: (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), application (12), database (4), next (4), api (2)
 > **Env Vars:** rbac (3), api (2), tls (1), ssl (1), url (1)
 > **UI Navigation:** go to (3), select the (3), click on (2), scroll down (1)
 > **CLI Commands:** find (3)
@@ -3067,8 +3067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Microsoft Azure|Azure]] (20), [[Representational State Transfer (REST)|Rest]] (8), database (7), [[Server-Sent Events|Sse]] (6)
 > **Env Vars:** sse (6), sql (3), tde (3), fips (2), aes (1)
-> **Code Keywords:** let (3), public (2), protected (1), this. (1), default. (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Cross-References:** we discussed (1), in the last (1)
 > **Analogies:** imagine (1), such as (1)
@@ -3125,8 +3125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), data (12), [[Representational State Transfer (REST)|Rest]] (2), api (2), vpn (2)
 > **Env Vars:** https (5), smb (3), api (2), tls (2), rdp (2)
-> **Code Keywords:** let (3), protected (2)
 > **CLI Commands:** ssh (2)
 > **Versions:** 3.0 (2)
 > **Cross-References:** in the last (1), we discussed (1)
@@ -3207,8 +3207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), data (7), cloud (4), vpn (4), [[Security]] (2)
 > **Env Vars:** https (5), vpn (4), rbac (2), rest (2), http (2)
-> **Code Keywords:** delete (3), private (2), let (1), default. (1), require (1)
 > **Analogies:** such as (4)
 > **Tools:** azure portal (1)
 > **Definitions:** is a  (1)
@@ -3218,7 +3218,7 @@ created: 2026-04-29
 
 ### 4. Defender for Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Defender for Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980)
@@ -3341,9 +3341,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (19), [[Security]] (17), cloud (15), management (7), [[Microsoft Azure|Azure]] (5)
 > **Env Vars:** cspm (8), mcsb (2), sql (2), dns (2), cnapp (1)
 > **Analogies:** such as (6), for example (3), imagine (1)
-> **Code Keywords:** let (4), public (1)
 > **Definitions:** known as (3), is a  (1)
 > **CLI Commands:** find (1), ssh (1)
 > **Documentation:** the documentation (2)
@@ -3479,9 +3479,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (19), [[Security]] (17), [[Microsoft Defender|Defender]] (13), [[Microsoft Azure|Azure]] (8), [[DevOps]] (5)
 > **Env Vars:** cspm (2), http (1), ssh (1), cis (1), pci (1)
 > **Tools:** github (2), gitlab (2), azure portal (2)
-> **Code Keywords:** let (3), protected (1), default, (1)
 > **UI Navigation:** go to (3), click on (1), select the (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** ssh (1), find (1)
@@ -3491,7 +3491,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about Azure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980)
@@ -3512,7 +3512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Security]] (2), cloud (2)
 > **Speakers:** - [shyamraj] (1)
 
 

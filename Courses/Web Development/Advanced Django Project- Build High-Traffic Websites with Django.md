@@ -27,7 +27,7 @@ tags:
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Django%20Project-%20Build%20High-Traffic%20Websites%20with%20Django.md)
@@ -46,46 +46,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Tackling projects with Django
-  - What you should know
-  - Project overview
+  - [Tackling projects with Django](#tackling-projects-with-django)
+  - [What you should know](#what-you-should-know)
+  - [Project overview](#project-overview)
 - [**1. Getting Started with Django**](#1-getting-started-with-django) (3 videos)
-  - The world of Python and Django
-  - Architecture of a Django project
-  - Running Django
+  - [The world of Python and Django](#the-world-of-python-and-django)
+  - [Architecture of a Django project](#architecture-of-a-django-project)
+  - [Running Django](#running-django)
 - [**2. Models and Fields**](#2-models-and-fields) (5 videos)
-  - Validations
-  - Custom fields
-  - File management
-  - Generic relations
-  - Signals
+  - [Validations](#validations)
+  - [Custom fields](#custom-fields)
+  - [File management](#file-management)
+  - [Generic relations](#generic-relations)
+  - [Signals](#signals)
 - [**3. Views**](#3-views) (3 videos)
-  - Raising exceptions
-  - Class-based views
-  - QuerySets and filters
+  - [Raising exceptions](#raising-exceptions)
+  - [Class-based views](#class-based-views)
+  - [QuerySets and filters](#querysets-and-filters)
 - [**4. Interacting with the Database**](#4-interacting-with-the-database) (3 videos)
-  - Deleting models
-  - Custom object managers
-  - Fetching fields
+  - [Deleting models](#deleting-models)
+  - [Custom object managers](#custom-object-managers)
+  - [Fetching fields](#fetching-fields)
 - [**5. Templates**](#5-templates) (4 videos)
-  - The Django template language
-  - Humanize library
-  - Custom tags and filters
-  - Variables as templates
+  - [The Django template language](#the-django-template-language)
+  - [Humanize library](#humanize-library)
+  - [Custom tags and filters](#custom-tags-and-filters)
+  - [Variables as templates](#variables-as-templates)
 - [**6. Improving Performance**](#6-improving-performance) (4 videos)
-  - Securing authentication
-  - Caching
-  - Sessions
-  - Logging
+  - [Securing authentication](#securing-authentication)
+  - [Caching](#caching)
+  - [Sessions](#sessions)
+  - [Logging](#logging)
 - [**7. Staying Connected**](#7-staying-connected) (2 videos)
-  - Finding and using third-party packages
-  - Getting involved with the Django community
+  - [Finding and using third-party packages](#finding-and-using-third-party-packages)
+  - [Getting involved with the Django community](#getting-involved-with-the-django-community)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with Django
+  - [Next steps with Django](#next-steps-with-django)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tackling projects with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (5), web (5), traffic (1), [[Python (Programming Language)|Python]] (1), [[Engineering]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -164,8 +165,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (8), [[Python (Programming Language)|Python]] (4), web (3), [[LinkedIn]] (2), [[Content Management Systems (CMS)|Content management systems]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (2)
 > **Env Vars:** cms (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -255,11 +256,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (4), business (4), next (1), [[Graphic Design]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** go back to (2)
 > **File Paths:** manage.py (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** css (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -267,7 +268,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Django
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The world of Python and Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980)
@@ -358,8 +359,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (16), [[Python (Programming Language)|Python]] (14), [[Programming]] (3), [[JavaScript]] (2), web (1)
 > **CLI Commands:** python (14), node (1)
-> **Code Keywords:** let (3), this, (2), interface (1)
 > **Definitions:** is an  (2), known as (1), means that (1)
 > **Env Vars:** dry (3)
 > **Exercise Files:** template (3)
@@ -474,11 +475,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (13), data (5), feature (4), [[WordPress]] (2), web (2)
 > **File Paths:** urls.py (5), settings.py (5)
 > **Env Vars:** mvc (4), mtv (2), http (2), html (1), json (1)
 > **Definitions:** is a  (4), is an  (2), we call this (1)
 > **Exercise Files:** template (5)
-> **Code Keywords:** let (2), if, (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -552,8 +553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (20), [[Python (Programming Language)|Python]] (4)
 > **File Paths:** manage.py (14), settings.py (4), foo.py (1)
-> **Code Keywords:** this, (1), for. (1), function (1), module (1), super (1)
 > **CLI Commands:** python (4), cat (1), make (1)
 > **Code Identifiers:** execute_from_command_line (1)
 > **Ports:** :3141 (1)
@@ -564,7 +565,7 @@ created: 2026-04-29
 
 ### 2. Models and Fields
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Validations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980)
@@ -667,7 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), pass (2), type. (1), this, (1)
+> **Frameworks & Libraries:** [[Java]] (4), data (2), database (2), [[Microsoft Word|Word]] (2), web (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **UI Navigation:** go to (1)
@@ -810,8 +811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[Python (Programming Language)|Python]] (8), [[Django]] (6), data (3), next (3)
 > **CLI Commands:** make (9), python (8)
-> **Code Keywords:** let (6), class. (2), catch, (1), raise (1), self (1)
 > **Env Vars:** rgb (2), c0ffee (2), sql (1)
 > **File Paths:** manage.py (4)
 > **UI Navigation:** open the (1)
@@ -946,9 +947,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (8), [[Python (Programming Language)|Python]] (3), data (2), web (1), [[Forms]] (1)
 > **Env Vars:** url (8), pip (2), pil (1), http (1), css (1)
 > **CLI Commands:** make (6), python (3), pip (2)
-> **Code Keywords:** let (4), static (3), throw (2), from, (1), this, (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (2), set up (1)
@@ -1068,7 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (2), default. (2), this. (1), delete (1)
+> **Frameworks & Libraries:** business (8), [[Microsoft Word|Word]] (3), generic (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** boilerplate (1), template (1)
@@ -1165,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** import, (3), let (3), this, (2), pass (2), function (2)
+> **Frameworks & Libraries:** business (7), [[Django]] (6), web (1), [[JavaScript]] (1), application (1)
 > **Code Identifiers:** post_save (3), profile_user (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -1177,7 +1178,7 @@ created: 2026-04-29
 
 ### 3. Views
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Raising exceptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/raising-exceptions?u=76281980)
@@ -1334,7 +1335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (4), for. (2), function (2), except. (1)
+> **Frameworks & Libraries:** [[Django]] (8), [[HTML]] (2), web (2), css (1)
 > **Env Vars:** http (6), html (1), debug (1), css (1)
 > **Exercise Files:** template (8)
 > **CLI Commands:** make (5), find (1)
@@ -1456,7 +1457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), this. (2), case, (1), extends (1)
+> **Frameworks & Libraries:** [[Django]] (4), [[HTML]] (2), data (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** get_context_data (2), as_view (1), paginate_by (1), post_pagination (1)
 > **Exercise Files:** template (3), boilerplate (1)
@@ -1552,7 +1553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), case, (4), this. (3), let (1)
+> **Frameworks & Libraries:** [[Django]] (13), database (10), [[Python (Programming Language)|Python]] (5), [[Databases]] (2), hit (1)
 > **CLI Commands:** python (5), make (2)
 > **Warnings:** keep in mind (2), be aware (1), pitfall (1)
 > **Analogies:** for example (2), for instance (1)
@@ -1564,7 +1565,7 @@ created: 2026-04-29
 
 ### 4. Interacting with the Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deleting models
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980)
@@ -1681,7 +1682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (20), let (9), this. (1), default. (1), if, (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Programming]] (1), [[SQL]] (1)
 > **UI Navigation:** go to (7)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1779,7 +1780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (2), this: (1), this . (1), class, (1)
+> **Frameworks & Libraries:** [[Django]] (3), database (2), business (2), data (1)
 > **Definitions:** is a  (4), we call this (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** get_feed (2), feed_manager (2)
@@ -1906,7 +1907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), else. (1)
+> **Frameworks & Libraries:** database (11), [[Fetch]] (3), [[MySQL]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (2), mysql (2)
 > **Env Vars:** sql (3)
 > **Warnings:** be careful (2), warning (1)
@@ -1918,7 +1919,7 @@ created: 2026-04-29
 
 ### 5. Templates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Django template language
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980)
@@ -2035,8 +2036,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (11), [[HTML]] (7), [[Python (Programming Language)|Python]] (6), application (2), [[JavaScript]] (1)
 > **Exercise Files:** template (12)
-> **Code Keywords:** let (6), function (1)
 > **CLI Commands:** python (6)
 > **Env Vars:** html (5), csrf (1)
 > **Definitions:** is a  (2), is called (1)
@@ -2181,7 +2182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), this, (1), function (1)
+> **Frameworks & Libraries:** [[Django]] (7), [[Python (Programming Language)|Python]] (2), generic (1), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (6)
 > **Code Identifiers:** get_seconds_since (2), seconds_since (2)
 > **CLI Commands:** python (2), make (1)
@@ -2275,7 +2276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), pass (3), this. (1)
+> **Frameworks & Libraries:** [[Django]] (4), [[Python (Programming Language)|Python]] (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (3), python (1)
 > **File Paths:** init.py (1), enthusiasm.py (1)
@@ -2393,8 +2394,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (4), web (1), database (1), [[Scripting]] (1)
 > **Exercise Files:** template (19), exercise files (1)
-> **Code Keywords:** let (8), class. (1), class, (1), this, (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1), navigate to (1)
 > **Code Identifiers:** favorite_color (1)
@@ -2405,7 +2406,7 @@ created: 2026-04-29
 
 ### 6. Improving Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980)
@@ -2504,7 +2505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), interface (2), super (2), delete (2), default. (1)
+> **Frameworks & Libraries:** [[Django]] (7), [[Security]] (2), feature (1), [[HTML]] (1), [[Vue.js|Vue]] (1)
 > **UI Navigation:** go to (7)
 > **File Paths:** settings.py (2), urls.py (1), login.html (1)
 > **Env Vars:** url (2)
@@ -2606,7 +2607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), var (3), finally, (2), interface (1), default, (1)
+> **Frameworks & Libraries:** [[Django]] (10), database (1)
 > **Code Identifiers:** vary_on_cookie (4), django_cache (3)
 > **CLI Commands:** make (2), rm (1)
 > **Env Vars:** cache_middleware_key_prefix (1), url (1)
@@ -2710,7 +2711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), function (1)
+> **Frameworks & Libraries:** database (9), data (8), [[Django]] (8), api (2), [[JavaScript]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2), csrf (1)
 > **Prerequisites:** set up (2)
@@ -2832,8 +2833,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (20), [[Python (Programming Language)|Python]] (5), application (2), [[Search]] (2), [[HTML]] (1)
 > **Exercise Files:** template (13), source code (4)
-> **Code Keywords:** let (6), pass (2), override (2), extends (1), throw (1)
 > **CLI Commands:** python (5), make (4), find (1)
 > **File Paths:** settings.py (2), logging.config (1), feed.html (1)
 > **Warnings:** keep in mind (1), warning (1)
@@ -2844,7 +2845,7 @@ created: 2026-04-29
 
 ### 7. Staying Connected
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding and using third-party packages
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980)
@@ -2925,8 +2926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (23), [[Representational State Transfer (REST)|Rest]] (3), next (2), [[Microsoft Word|Word]] (1), api (1)
 > **Env Vars:** rest (3), http (1), url (1), api (1), pip (1)
-> **Code Keywords:** let (5), for. (1), delete (1)
 > **Prerequisites:** install (4), setup (1)
 > **File Paths:** settings.py (2), setup.py (1), requirements.txt (1)
 > **CLI Commands:** find (2), pip (1), make (1)
@@ -3005,6 +3006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (19), [[GitHub]] (3), web (2), [[Search]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
@@ -3015,7 +3017,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980)
@@ -3072,7 +3074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), super (1), else, (1), finally, (1)
+> **Frameworks & Libraries:** [[Django]] (14), [[Forms]] (5), [[Representational State Transfer (REST)|Rest]] (3), [[LinkedIn]] (2), next (1)
 > **Env Vars:** rest (3), restful (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)

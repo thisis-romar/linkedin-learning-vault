@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20Block%20Patterns%20in%20WordPress.md)
@@ -47,38 +47,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - What are block patterns and why are they important?
-  - What you should know
-  - How this course works
+  - [What are block patterns and why are they important?](#what-are-block-patterns-and-why-are-they-important)
+  - [What you should know](#what-you-should-know)
+  - [How this course works](#how-this-course-works)
 - [**1. How to Make Block Patterns**](#1-how-to-make-block-patterns) (8 videos)
-  - Block patterns vs. reusable blocks
-  - Adding block patterns to WordPress sites
-  - Making block patterns without code
-  - Coding block patterns overview
-  - What is a JSON encoder?
-  - How to style block patterns with CSS
-  - Block pattern categories
-  - Setting up the block pattern plugin
+  - [Block patterns vs. reusable blocks](#block-patterns-vs-reusable-blocks)
+  - [Adding block patterns to WordPress sites](#adding-block-patterns-to-wordpress-sites)
+  - [Making block patterns without code](#making-block-patterns-without-code)
+  - [Coding block patterns overview](#coding-block-patterns-overview)
+  - [What is a JSON encoder?](#what-is-a-json-encoder)
+  - [How to style block patterns with CSS](#how-to-style-block-patterns-with-css)
+  - [Block pattern categories](#block-pattern-categories)
+  - [Setting up the block pattern plugin](#setting-up-the-block-pattern-plugin)
 - [**2. The Block Patterns Cookbook**](#2-the-block-patterns-cookbook) (10 videos)
-  - Call to action
-  - Pricing table
-  - Styling the pricing table
-  - Author bio box
-  - Contact info card
-  - Posts listing with Query block
-  - Website masthead
-  - Currently Listening To widget
-  - Hero section
-  - Content upgrade
+  - [Call to action](#call-to-action)
+  - [Pricing table](#pricing-table)
+  - [Styling the pricing table](#styling-the-pricing-table)
+  - [Author bio box](#author-bio-box)
+  - [Contact info card](#contact-info-card)
+  - [Posts listing with Query block](#posts-listing-with-query-block)
+  - [Website masthead](#website-masthead)
+  - [Currently Listening To widget](#currently-listening-to-widget)
+  - [Hero section](#hero-section)
+  - [Content upgrade](#content-upgrade)
 - [**3. Refactoring**](#3-refactoring) (2 videos)
-  - Adding your own block pattern category
-  - A slightly clever refactor
+  - [Adding your own block pattern category](#adding-your-own-block-pattern-category)
+  - [A slightly clever refactor](#a-slightly-clever-refactor)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are block patterns and why are they important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-are-block-patterns-and-why-are-they-important?u=76281980)
@@ -103,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[WordPress]] (2), power (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [joe] (1)
@@ -132,9 +133,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (2), [[LinkedIn]] (1), css (1)
 > **Env Vars:** php (2), css (1)
 > **CLI Commands:** php (2)
-> **Code Keywords:** super (1)
 > **Speakers:** - [instructor] (1)
 
 #### How this course works
@@ -162,15 +163,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[WordPress]] (1)
 > **Env Vars:** css (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. How to Make Block Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Block patterns vs. reusable blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-patterns-vs-reusable-blocks?u=76281980)
@@ -219,7 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** feature (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -268,9 +269,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), css (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** css (2)
-> **Code Keywords:** override (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -349,7 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (2), function (1), let (1), finally, (1), new. (1)
+> **Frameworks & Libraries:** [[Search]] (3), [[WordPress]] (1), web (1), next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** url (1), rss (1)
 > **UI Navigation:** go to (2)
@@ -403,11 +404,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), css (2), [[WordPress]] (1), [[JSON]] (1)
 > **CLI Commands:** php (4)
 > **Env Vars:** css (2), json (1), php (1)
 > **File Paths:** block-patterns.php (1), functions.php (1), block-pattern.php (1)
 > **Code Identifiers:** require_once (1), register_block_pattern (1), register_block_pattern_category (1)
-> **Code Keywords:** function (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -439,9 +440,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (5), [[PHP]] (1), [[Programming]] (1)
 > **Env Vars:** json (4), php (1)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** let (1), break. (1)
 > **CLI Commands:** php (1)
 > **URLs:** [jsonformatters.org](https://jsonformatters.org) (1)
 > **Cross-References:** previous video (1)
@@ -539,7 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (3), this, (3), this. (2)
+> **Frameworks & Libraries:** css (4), [[WordPress]] (1), [[Google]] (1), web (1)
 > **Env Vars:** css (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -589,8 +590,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** function (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
@@ -645,8 +646,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[WordPress]] (4), [[PHP]] (3), [[LinkedIn]] (1)
 > **Env Vars:** lil (9), css (4), php (3), uri (3), url (3)
-> **Code Keywords:** let (4), function (3), require (1), interface (1)
 > **CLI Commands:** php (3), make (2), find (1)
 > **Exercise Files:** starter code (1), exercise files (1), zip file (1)
 > **Prerequisites:** set up (1), install (1)
@@ -655,7 +656,7 @@ created: 2026-04-29
 
 ### 2. The Block Patterns Cookbook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Call to action
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/call-to-action?u=76281980)
@@ -710,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), function (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
 > **Env Vars:** json (1), cta (1)
@@ -877,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), let (1), include. (1), delete (1), this, (1)
+> **Frameworks & Libraries:** css (2), next (1), [[Slack]] (1), [[JSON]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** css (2), json (1), cta (1)
 > **Definitions:** is a  (2)
@@ -993,7 +994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (1), class. (1), type, (1)
+> **Frameworks & Libraries:** css (5)
 > **CLI Commands:** make (6)
 > **Env Vars:** css (5), lilbp (1)
 > **UI Navigation:** go to (2)
@@ -1100,7 +1101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (3), this. (2), function (1)
+> **Frameworks & Libraries:** css (4), [[Search]] (2), [[GitHub]] (1), next (1)
 > **Env Vars:** css (4), cdn (1), rss (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
@@ -1220,7 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), class. (1), function (1)
+> **Frameworks & Libraries:** css (3), next (2), [[LinkedIn]] (1), [[PHP]] (1)
 > **UI Navigation:** go to (4), in the sidebar (1), scroll down (1)
 > **Env Vars:** css (3), php (1), url (1)
 > **CLI Commands:** make (3), php (1)
@@ -1350,7 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), this, (1)
+> **Frameworks & Libraries:** next (3), [[WordPress]] (2), css (1), [[Typography]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (4)
 > **Exercise Files:** template (2)
@@ -1490,7 +1491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), default, (1), super (1), function (1)
+> **Frameworks & Libraries:** css (2), [[WordPress]] (1), next (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3)
 > **Env Vars:** css (2)
@@ -1601,7 +1602,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), class, (1), this, (1), module (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** block_group (1)
 > **Env Vars:** url (1)
@@ -1744,7 +1744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (3), finally, (1), this, (1)
+> **Frameworks & Libraries:** css (2), next (1)
 > **CLI Commands:** make (10)
 > **Definitions:** is a  (5), stands for (1)
 > **UI Navigation:** go to (4), scroll down (1)
@@ -1882,7 +1882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2), new. (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[Search]] (1), css (1), [[WordPress]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** esp (2), pdf (1), css (1), cta (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1894,7 +1894,7 @@ created: 2026-04-29
 
 ### 3. Refactoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding your own block pattern category
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980)
@@ -1949,7 +1949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this. (2), let (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[LinkedIn]] (3)
 > **CLI Commands:** php (4)
 > **Code Identifiers:** require_once (1), lil_bp_register_block_categories (1), register_block_pattern_category (1), add_action (1)
 > **File Paths:** block-patterns.php (1), inc/categories.php (1), categories.php (1)
@@ -2066,7 +2066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), delete (2)
+> **Frameworks & Libraries:** [[PHP]] (5), next (1), [[WordPress]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (5), make (2)
 > **File Paths:** patterns-content.php (3), patterns.php (1)
 > **Code Identifiers:** register_block_pattern (4)
@@ -2078,7 +2078,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980)
@@ -2103,7 +2103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[LinkedIn]] (1), next (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1), [casabona.org](https://casabona.org) (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [joe] (1)

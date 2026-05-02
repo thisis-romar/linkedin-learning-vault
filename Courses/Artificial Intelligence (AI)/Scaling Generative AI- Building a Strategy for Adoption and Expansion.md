@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/expansion-strategies
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Scaling%20Generative%20AI-%20Building%20a%20Strategy%20for%20Adoption%20and%20Expansion.md)
@@ -55,25 +55,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Setting up Generative AI for success in your organisation
+  - [Setting up Generative AI for success in your organisation](#setting-up-generative-ai-for-success-in-your-organisation)
 - [**1. Generative AI and Why It is Important**](#1-generative-ai-and-why-it-is-important) (3 videos)
-  - What is generative AI?
-  - Benefits of generative AI tools
-  - Key considerations of generative AI
+  - [What is generative AI?](#what-is-generative-ai)
+  - [Benefits of generative AI tools](#benefits-of-generative-ai-tools)
+  - [Key considerations of generative AI](#key-considerations-of-generative-ai)
 - [**2. Introduction to the Right Governance Structure**](#2-introduction-to-the-right-governance-structure) (4 videos)
-  - Establishing a governance framework
-  - Capturing opportunities correctly
-  - Roles and responsibilities
-  - Track and measure generative AI success
+  - [Establishing a governance framework](#establishing-a-governance-framework)
+  - [Capturing opportunities correctly](#capturing-opportunities-correctly)
+  - [Roles and responsibilities](#roles-and-responsibilities)
+  - [Track and measure generative AI success](#track-and-measure-generative-ai-success)
 - [**3. Setting Up the Right Culture So Generative AI Can Thrive**](#3-setting-up-the-right-culture-so-generative-ai-can-thrive) (2 videos)
-  - Generative AI and company culture
-  - Fostering the right future workforce
+  - [Generative AI and company culture](#generative-ai-and-company-culture)
+  - [Fostering the right future workforce](#fostering-the-right-future-workforce)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Scaling generative AI
+  - [Scaling generative AI](#scaling-generative-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Generative AI for success in your organisation
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/setting-up-generative-ai-for-success-in-your-organisation?u=76281980)
@@ -96,14 +96,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), ai (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - generative (1)
 
 
 ### 1. Generative AI and Why It is Important
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/what-is-genai?u=76281980)
@@ -164,8 +164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), ai (3), business (3), next (2), [[Traditional AI]] (1)
 > **Analogies:** imagine (1), such as (1), it's like (1)
-> **Code Keywords:** new. (1), for. (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
@@ -223,7 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), from. (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), power (1), prompt (1), business (1), ai (1)
 > **Env Vars:** ceo (2)
 > **Versions:** 4.0 (1), version 4 (1)
 > **Cross-References:** coming up (1)
@@ -287,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), private (1), this. (1)
+> **Frameworks & Libraries:** ai (8), [[ChatGPT]] (5), data (4), cloud (2), [[Generative AI]] (2)
 > **Prerequisites:** install (1), set up (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
@@ -297,7 +297,7 @@ created: 2026-04-29
 
 ### 2. Introduction to the Right Governance Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing a governance framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/establishing-a-governance-framework?u=76281980)
@@ -366,7 +366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1)
+> **Frameworks & Libraries:** ai (5), management (2), data (1), [[Security]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** rpa (1), poc (1), pov (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (2)
@@ -436,6 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** sme (1)
@@ -528,9 +529,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), data (4), management (3), [[Security]] (3), next (2)
 > **Prerequisites:** you'll need (3), setup (2), set up (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3), private (1), this, (1)
 > **Env Vars:** crm (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** don't forget (1)
@@ -630,17 +631,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (2), management (2), [[Analytics]] (1), [[Microsoft]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** kpi (2)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1), for instance (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - so (1)
 
 
 ### 3. Setting Up the Right Culture So Generative AI Can Thrive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI and company culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/genai-and-company-culture?u=76281980)
@@ -729,8 +730,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (22), [[Accountability]] (3), game (1), [[Microsoft Products|Products]] (1), product (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (1), extends (1), this, (1)
 > **Cross-References:** we talked about (1), next video (1), we discussed (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -785,13 +786,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Lifelong Learning]] (2), game (1), [[Microsoft Excel|Excel]] (1), ai (1), next (1)
 > **Speakers:** - we (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/scaling-genai?u=76281980)
@@ -828,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (7), [[Generative AI]] (3), next (1), [[ChatGPT]] (1), [[LinkedIn]] (1)
 > **URLs:** [aimcgarry.com](https://aimcgarry.com) (1)
 > **Speakers:** - congratulations (1)
 

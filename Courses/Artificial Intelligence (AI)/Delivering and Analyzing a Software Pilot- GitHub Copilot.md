@@ -32,7 +32,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Delivering%20and%20Analyzing%20a%20Software%20Pilot-%20GitHub%20Copilot.md)
@@ -51,54 +51,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introduction and overview
-  - What you should know
-  - Who this course is for
+  - [Introduction and overview](#introduction-and-overview)
+  - [What you should know](#what-you-should-know)
+  - [Who this course is for](#who-this-course-is-for)
 - [**1. Getting Started with GitHub Copilot**](#1-getting-started-with-github-copilot) (2 videos)
-  - Overview of GitHub Copilot
-  - Setting up GitHub Copilot for development
+  - [Overview of GitHub Copilot](#overview-of-github-copilot)
+  - [Setting up GitHub Copilot for development](#setting-up-github-copilot-for-development)
 - [**2. Planning a Software Pilot**](#2-planning-a-software-pilot) (4 videos)
-  - Defining objectives and goals
-  - Selecting the pilot team
-  - Establishing key performance indicators
-  - Preparing your environment for the pilot
+  - [Defining objectives and goals](#defining-objectives-and-goals)
+  - [Selecting the pilot team](#selecting-the-pilot-team)
+  - [Establishing key performance indicators](#establishing-key-performance-indicators)
+  - [Preparing your environment for the pilot](#preparing-your-environment-for-the-pilot)
 - [**3. Launching the Pilot**](#3-launching-the-pilot) (4 videos)
-  - Steps to officially start the pilot
-  - Initial challenges and how to address them
-  - Communication strategies during the pilot
-  - Ensuring smooth operations and support
+  - [Steps to officially start the pilot](#steps-to-officially-start-the-pilot)
+  - [Initial challenges and how to address them](#initial-challenges-and-how-to-address-them)
+  - [Communication strategies during the pilot](#communication-strategies-during-the-pilot)
+  - [Ensuring smooth operations and support](#ensuring-smooth-operations-and-support)
 - [**4. Monitoring the Pilot**](#4-monitoring-the-pilot) (4 videos)
-  - Tools and techniques for monitoring
-  - Capturing and analyzing metrics
-  - Making adjustments during the pilot
-  - Case studies of effective monitoring
+  - [Tools and techniques for monitoring](#tools-and-techniques-for-monitoring)
+  - [Capturing and analyzing metrics](#capturing-and-analyzing-metrics)
+  - [Making adjustments during the pilot](#making-adjustments-during-the-pilot)
+  - [Case studies of effective monitoring](#case-studies-of-effective-monitoring)
 - [**5. Ending the Pilot**](#5-ending-the-pilot) (4 videos)
-  - Criteria for concluding the pilot
-  - Steps for a structured wrap-up
-  - Transitioning from pilot to full deployment
-  - Common pitfalls to avoid at this stage
+  - [Criteria for concluding the pilot](#criteria-for-concluding-the-pilot)
+  - [Steps for a structured wrap-up](#steps-for-a-structured-wrap-up)
+  - [Transitioning from pilot to full deployment](#transitioning-from-pilot-to-full-deployment)
+  - [Common pitfalls to avoid at this stage](#common-pitfalls-to-avoid-at-this-stage)
 - [**6. Gathering Feedback**](#6-gathering-feedback) (4 videos)
-  - Methods for collecting feedback
-  - Organizing and preparing feedback for analysis
-  - Prioritizing feedback and identifying trends
-  - Engaging with pilot teams post-pilot
+  - [Methods for collecting feedback](#methods-for-collecting-feedback)
+  - [Organizing and preparing feedback for analysis](#organizing-and-preparing-feedback-for-analysis)
+  - [Prioritizing feedback and identifying trends](#prioritizing-feedback-and-identifying-trends)
+  - [Engaging with pilot teams post-pilot](#engaging-with-pilot-teams-post-pilot)
 - [**7. Using NLTK to Analyze Feedback**](#7-using-nltk-to-analyze-feedback) (5 videos)
-  - Introduction to NLTK for text analysis
-  - Preparing your data for analysis
-  - Techniques to identify sentiments and themes
-  - Gathering metrics from GitHub regarding Copilot usage
-  - Visualizing data and results
+  - [Introduction to NLTK for text analysis](#introduction-to-nltk-for-text-analysis)
+  - [Preparing your data for analysis](#preparing-your-data-for-analysis)
+  - [Techniques to identify sentiments and themes](#techniques-to-identify-sentiments-and-themes)
+  - [Gathering metrics from GitHub regarding Copilot usage](#gathering-metrics-from-github-regarding-copilot-usage)
+  - [Visualizing data and results](#visualizing-data-and-results)
 - [**8. Writing a Business Case**](#8-writing-a-business-case) (4 videos)
-  - Structuring your business case
-  - Incorporating data and insights from the pilot
-  - Presenting results to stakeholders
-  - Strategies for gaining support for full deployment
+  - [Structuring your business case](#structuring-your-business-case)
+  - [Incorporating data and insights from the pilot](#incorporating-data-and-insights-from-the-pilot)
+  - [Presenting results to stakeholders](#presenting-results-to-stakeholders)
+  - [Strategies for gaining support for full deployment](#strategies-for-gaining-support-for-full-deployment)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps to continue your software pilot journey
+  - [Next steps to continue your software pilot journey](#next-steps-to-continue-your-software-pilot-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-and-overview?u=76281980)
@@ -119,6 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (1), [[GitHub Copilot]] (1)
 > **Tools:** github (1)
 > **Speakers:** - [michael] (1)
 
@@ -169,8 +170,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[GitHub Copilot]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (3), business (2), nlp (2)
 > **Tools:** github (5)
-> **Code Keywords:** let (1), finally, (1), case. (1)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** make (1)
 > **Analogies:** think of it as (1)
@@ -218,6 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (3), product (1), [[GitHub Copilot]] (1), ai (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** crm (1)
 > **Tools:** github (1)
@@ -227,7 +229,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with GitHub Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of GitHub Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980)
@@ -282,8 +284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (9), [[Programming]] (2), [[Microsoft Copilot|Copilot]] (2), ai (1), [[GitHub]] (1)
 > **Tools:** github (10)
-> **Code Keywords:** let (2), function (2), for. (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -358,8 +360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (12), [[Microsoft Copilot|Copilot]] (6), [[GitHub]] (5), [[Search]] (2), feature (1)
 > **Tools:** github (17), vs code (3), neovim (1)
-> **Code Keywords:** let (4), finally, (1), function (1), type. (1)
 > **UI Navigation:** click on (3), navigate to (1), go to (1)
 > **Prerequisites:** install (2), configure (1), setup (1), set up (1)
 > **Env Vars:** ide (3)
@@ -370,7 +372,7 @@ created: 2026-04-29
 
 ### 2. Planning a Software Pilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining objectives and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/defining-objectives-and-goals?u=76281980)
@@ -441,9 +443,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Marketing Strategy]] (1), next (1)
 > **Env Vars:** smart (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** in the next (1)
@@ -529,7 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** next (3), leadership (1)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -609,9 +611,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Software Development]] (1), feature (1), next (1)
 > **Env Vars:** kpi (3), nps (1), smart (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **Cross-References:** coming up (1), in the next (1)
 > **Analogies:** imagine (1), for example (1)
 > **Prerequisites:** set up (1)
@@ -694,10 +696,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (1), [[GitHub Copilot]] (1), management (1), teams (1)
 > **Prerequisites:** set up (3), install (1), configure (1)
 > **Best Practices:** make sure to (2), best practice (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** coming up (1)
 > **Tools:** github (1)
@@ -706,7 +708,7 @@ created: 2026-04-29
 
 ### 3. Launching the Pilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps to officially start the pilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980)
@@ -795,6 +797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), product (1), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
@@ -872,8 +875,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Troubleshooting]] (1), application (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -958,9 +961,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Slack]] (1), [[Microsoft Teams]] (1), [[Dashboards]] (1), management (1)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** slack (1), jira (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1024,6 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Slack]] (1), teams (1), [[Technical Support]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** coming up (1)
@@ -1033,7 +1037,7 @@ created: 2026-04-29
 
 ### 4. Monitoring the Pilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and techniques for monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980)
@@ -1108,7 +1112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (2), [[Real-Time]] (2), teams (2), management (1), [[Trello]] (1)
 > **Tools:** jira (1), slack (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -1178,8 +1182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Performance Metrics]] (2), next (2), power (1), bi (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1257,9 +1261,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Continuous Monitoring]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** yield (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1334,7 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Dashboards]] (1), management (1), [[Analytics]] (1), [[Forms]] (1)
 > **Env Vars:** iot (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -1344,7 +1348,7 @@ created: 2026-04-29
 
 ### 5. Ending the Pilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Criteria for concluding the pilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980)
@@ -1419,6 +1423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Sustainability]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
@@ -1495,8 +1500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), data (6)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1561,6 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), game (1), management (1), [[Scalability]] (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -1635,8 +1641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** this, (3), finally, (1)
 > **Warnings:** pitfall (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** make sure you have (1)
@@ -1645,7 +1651,7 @@ created: 2026-04-29
 
 ### 6. Gathering Feedback
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Methods for collecting feedback
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/methods-for-collecting-feedback?u=76281980)
@@ -1714,8 +1720,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), power (1), product (1), ux (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), for, (1), require (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1785,9 +1791,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Jigsaw]] (1), product (1), [[User Experience (UX)|User experience]] (1), [[Customer Support]] (1)
 > **Analogies:** picture (1), for example (1), such as (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), this. (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1857,7 +1863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1)
+> **Frameworks & Libraries:** data (2), next (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
@@ -1930,8 +1936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), next (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1941,7 +1947,7 @@ created: 2026-04-29
 
 ### 7. Using NLTK to Analyze Feedback
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to NLTK for text analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980)
@@ -2300,9 +2306,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), data (9), next (7), [[Python (Programming Language)|Python]] (6), [[GitHub Copilot]] (3)
 > **Code Identifiers:** feature_sets (4), word_tokenize (3), word_tokens (3), movie_reviews (3), extract_features (3)
 > **Env Vars:** nltk (20), url (1), pos (1)
-> **Code Keywords:** this, (6), let (1), finally, (1)
 > **CLI Commands:** python (6), make (1)
 > **Tools:** github (3), anaconda (2), jupyter (2)
 > **UI Navigation:** scroll down (3), go to (2), scroll up (1)
@@ -2442,7 +2448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4)
+> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (6), [[LinkedIn]] (3), next (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (6), make (2), python (1)
 > **Analogies:** imagine (1), such as (1), for example (1), similar to (1)
 > **Definitions:** is a  (1), means that (1)
@@ -2532,7 +2538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), if, (1), elif (1)
+> **Frameworks & Libraries:** data (7), product (1), [[GitHub Copilot]] (1), next (1)
 > **Code Identifiers:** sentiment_type (4)
 > **Versions:** 0.46875 (1), 0.0 (1), 0.4 (1)
 > **Tools:** jupyter (1), github (1)
@@ -2644,9 +2650,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (28), data (11), api (9), [[CLI]] (7), [[GitHub Copilot]] (5)
 > **Tools:** github (33), terminal (3), command line (1)
 > **Env Vars:** api (9), cli (6), json (3), https (1)
-> **Code Keywords:** let (4), this. (2), this, (2), interface (1), from, (1)
 > **Prerequisites:** install (3), you'll need (2), getting started (1)
 > **UI Navigation:** navigate to (2), click on (2), scroll down (1)
 > **URLs:** [github.com](https://github.com) (3)
@@ -2716,8 +2722,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[GitHub Copilot]] (2), api (2), business (2), next (2)
 > **Env Vars:** csv (3), api (2), json (2)
-> **Code Keywords:** let (2), this, (1)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** github (2)
 > **Analogies:** for example (1), such as (1)
@@ -2728,7 +2734,7 @@ created: 2026-04-29
 
 ### 8. Writing a Business Case
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring your business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/structuring-your-business-case?u=76281980)
@@ -2804,8 +2810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), business (6), [[Microsoft PowerPoint|Powerpoint]] (2), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), case. (1), case, (1)
 > **Cross-References:** previous video (1), coming up (1)
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -2901,9 +2907,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (2), next (2)
 > **CLI Commands:** make (5)
 > **Analogies:** imagine (1), for example (1), for instance (1)
-> **Code Keywords:** case. (1), let (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
@@ -2981,13 +2987,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), this, (1), continue (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps to continue your software pilot journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980)
@@ -3020,8 +3025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (4), business (2), data (2), [[LinkedIn]] (2), [[Statistics]] (1)
 > **Tools:** github (4)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

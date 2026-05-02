@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Asynchronous%20Programming%20in%20C-.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Create happier users with asynchronous C#
-  - What you should know
+  - [Create happier users with asynchronous C#](#create-happier-users-with-asynchronous-c)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding Asynchronous Programming**](#1-understanding-asynchronous-programming) (3 videos)
-  - What is asynchronous programming?
-  - When and why to write asynchronous code
-  - Patterns for asynchronous programming in C#
+  - [What is asynchronous programming?](#what-is-asynchronous-programming)
+  - [When and why to write asynchronous code](#when-and-why-to-write-asynchronous-code)
+  - [Patterns for asynchronous programming in C#](#patterns-for-asynchronous-programming-in-c)
 - [**2. Working with Tasks**](#2-working-with-tasks) (6 videos)
-  - Creating and executing tasks
-  - Waiting for tasks to complete
-  - Using continuations
-  - Updating the user interface
-  - Challenge: Create and continue a task
-  - Solution: Create and continue a task
+  - [Creating and executing tasks](#creating-and-executing-tasks)
+  - [Waiting for tasks to complete](#waiting-for-tasks-to-complete)
+  - [Using continuations](#using-continuations)
+  - [Updating the user interface](#updating-the-user-interface)
+  - [Challenge: Create and continue a task](#challenge-create-and-continue-a-task)
+  - [Solution: Create and continue a task](#solution-create-and-continue-a-task)
 - [**3. Using async and await**](#3-using-async-and-await) (5 videos)
-  - Benefits of using async and await
-  - Awaiting a task
-  - Handling exceptions
-  - Challenge: Await HTTP requests
-  - Solution: Await HTTP requests
+  - [Benefits of using async and await](#benefits-of-using-async-and-await)
+  - [Awaiting a task](#awaiting-a-task)
+  - [Handling exceptions](#handling-exceptions)
+  - [Challenge: Await HTTP requests](#challenge-await-http-requests)
+  - [Solution: Await HTTP requests](#solution-await-http-requests)
 - [**4. Task Cancellation and Progress Monitoring**](#4-task-cancellation-and-progress-monitoring) (5 videos)
-  - Using cancellation tokens
-  - Implementing timeout cancellations
-  - Reporting task progress
-  - Challenge: Cancel a slow HTTP request
-  - Solution: Cancel a slow HTTP request
+  - [Using cancellation tokens](#using-cancellation-tokens)
+  - [Implementing timeout cancellations](#implementing-timeout-cancellations)
+  - [Reporting task progress](#reporting-task-progress)
+  - [Challenge: Cancel a slow HTTP request](#challenge-cancel-a-slow-http-request)
+  - [Solution: Cancel a slow HTTP request](#solution-cancel-a-slow-http-request)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create happier users with asynchronous C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980)
@@ -98,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Hardware]] (2)
 > **Env Vars:** net (1)
 > **Speakers:** - asynchronous (1)
 
@@ -122,13 +123,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[CLI]] (2)
 > **Env Vars:** net (3), cli (2), sdk (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding Asynchronous Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is asynchronous programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980)
@@ -169,7 +171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3)
+> **Frameworks & Libraries:** application (7), [[Programming]] (3), [[Hardware]] (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** cpu (1), http (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -208,6 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Programming]] (1), api (1), web (1), database (1)
 > **Env Vars:** api (1), cpu (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - understanding (1)
@@ -257,7 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (2), interface (1), await (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Programming]] (3)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** recommended (2)
 > **Definitions:** known as (1)
@@ -267,7 +270,7 @@ created: 2026-04-29
 
 ### 2. Working with Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and executing tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980)
@@ -344,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), pass (1), interface (1), static (1)
+> **Frameworks & Libraries:** data (4), [[Programming]] (1), hit (1)
 > **CLI Commands:** make (2), dotnet (1), go run (1)
 > **Tools:** terminal (3), visual studio (1)
 > **Cross-References:** go back to (2)
@@ -443,7 +446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1), return. (1), from . (1)
+> **Frameworks & Libraries:** application (2), generic (2), next (1), api (1), [[LinkedIn]] (1)
 > **Env Vars:** http (4), net (1), api (1)
 > **Analogies:** imagine (1), just like (1)
 > **Code Identifiers:** datatask (1)
@@ -529,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (3), continue (3), function (2), enum (2)
+> **Frameworks & Libraries:** data (6), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **Env Vars:** http (5), url (1)
 > **Analogies:** for instance (1), such as (1)
 > **Prerequisites:** configure (2)
@@ -557,7 +560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), pass (1), this, (1), switch (1), async (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Forms]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** wpf (1)
 > **Cross-References:** next chapter (1)
@@ -590,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat funky music) (1)
@@ -642,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), pass (2), let (1)
+> **Frameworks & Libraries:** generic (1)
 > **CLI Commands:** find (1), dotnet (1)
 > **Code Identifiers:** number_to_calculate (1)
 > **Tools:** terminal (1)
@@ -653,7 +656,7 @@ created: 2026-04-29
 
 ### 3. Using async and await
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of using async and await
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/benefits-of-using-async-and-await?u=76281980)
@@ -702,7 +705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (10), async (8), function (6), let (1)
+> **Frameworks & Libraries:** application (2), data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Awaiting a task
@@ -766,7 +769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), async (5), await (2), let (1), continue (1)
+> **Frameworks & Libraries:** application (1)
 > **Env Vars:** http (3)
 > **CLI Commands:** make (1), dotnet (1)
 > **URLs:** [linkedinlearning.com](https://linkedinlearning.com) (1)
@@ -799,7 +802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), async (3), await (1), finally, (1)
+> **Frameworks & Libraries:** [[CLI]] (1), next (1)
 > **Env Vars:** url (5), net (1), cli (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
@@ -851,7 +854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), async (3), await (1), finally, (1), interface (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** url (3), http (1)
 > **CLI Commands:** make (1), dotnet (1)
 > **Tools:** terminal (1), vs code (1)
@@ -863,7 +866,7 @@ created: 2026-04-29
 
 ### 4. Task Cancellation and Progress Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using cancellation tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-cancellation-tokens?u=76281980)
@@ -898,7 +901,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (3), class. (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
@@ -973,7 +975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (4), pass (3), class, (2), let (2), implements (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), data (1)
 > **Tools:** terminal (2), vs code (1)
 > **CLI Commands:** make (1), dotnet (1)
 > **Env Vars:** usb (1)
@@ -1075,7 +1077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), function (7), pass (6), implements (3), let (2)
+> **Frameworks & Libraries:** data (9), generic (2)
 > **CLI Commands:** make (2), go run (1), find (1)
 > **Tools:** terminal (2), vs code (1)
 > **UI Navigation:** open the (1)
@@ -1117,8 +1119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (1), next (1)
 > **Env Vars:** url (4), http (2), net (1), cli (1)
-> **Code Keywords:** function (4), async (2), finally, (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **Best Practices:** make sure to (1)
@@ -1185,7 +1187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), pass (3), async (2), let (2), await (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1), dotnet (1)
 > **Env Vars:** url (2)
 > **Cross-References:** previous chapter (1), go back to (1)
@@ -1196,7 +1198,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980)
@@ -1239,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** [[Programming]] (4), concurrent (2), application (2), [[LinkedIn]] (1), [[Language Integrated Query (LINQ)|Linq]] (1)
 > **Env Vars:** linq (1), cpu (1)
 > **Speakers:** - [narrator] (1)
 

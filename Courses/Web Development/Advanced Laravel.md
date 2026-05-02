@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/laravel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Laravel.md)
@@ -48,51 +48,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Beyond the basics
-  - Prerequisites for the course
-  - What's new in Laravel 10?
-  - Using the exercise files
+  - [Beyond the basics](#beyond-the-basics)
+  - [Prerequisites for the course](#prerequisites-for-the-course)
+  - [What's new in Laravel 10?](#whats-new-in-laravel-10)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Starting Your Project**](#1-starting-your-project) (3 videos)
-  - Understand project requirements
-  - Set up the project
-  - Create the database and models
+  - [Understand project requirements](#understand-project-requirements)
+  - [Set up the project](#set-up-the-project)
+  - [Create the database and models](#create-the-database-and-models)
 - [**2. Authorization**](#2-authorization) (5 videos)
-  - Create user roles
-  - Write custom middleware
-  - Revisit CRUD basics
-  - Use gates
-  - Write policies
+  - [Create user roles](#create-user-roles)
+  - [Write custom middleware](#write-custom-middleware)
+  - [Revisit CRUD basics](#revisit-crud-basics)
+  - [Use gates](#use-gates)
+  - [Write policies](#write-policies)
 - [**3. Advanced Eloquent Features**](#3-advanced-eloquent-features) (5 videos)
-  - Seeding and factories
-  - Many-to-many relationships
-  - Implement eager loading
-  - Attaching and detaching relationships
-  - Write complex queries and create query scopes
+  - [Seeding and factories](#seeding-and-factories)
+  - [Many-to-many relationships](#many-to-many-relationships)
+  - [Implement eager loading](#implement-eager-loading)
+  - [Attaching and detaching relationships](#attaching-and-detaching-relationships)
+  - [Write complex queries and create query scopes](#write-complex-queries-and-create-query-scopes)
 - [**4. Do More with Laravel**](#4-do-more-with-laravel) (3 videos)
-  - Write commands
-  - Create events and listeners
-  - Make use of logs
+  - [Write commands](#write-commands)
+  - [Create events and listeners](#create-events-and-listeners)
+  - [Make use of logs](#make-use-of-logs)
 - [**5. Notifications, Queuing, and Scheduling**](#5-notifications-queuing-and-scheduling) (4 videos)
-  - Send emails
-  - Send notifications
-  - Create jobs and queues
-  - Schedule tasks
+  - [Send emails](#send-emails)
+  - [Send notifications](#send-notifications)
+  - [Create jobs and queues](#create-jobs-and-queues)
+  - [Schedule tasks](#schedule-tasks)
 - [**6. Testing**](#6-testing) (4 videos)
-  - Get started with testing
-  - Write HTTP tests
-  - Write database tests
-  - Test-driven development
+  - [Get started with testing](#get-started-with-testing)
+  - [Write HTTP tests](#write-http-tests)
+  - [Write database tests](#write-database-tests)
+  - [Test-driven development](#test-driven-development)
 - [**7. Understand How Laravel Works**](#7-understand-how-laravel-works) (4 videos)
-  - Request lifecycle overview
-  - What is a service container?
-  - Service providers in Laravel
-  - Get to know Facades
+  - [Request lifecycle overview](#request-lifecycle-overview)
+  - [What is a service container?](#what-is-a-service-container)
+  - [Service providers in Laravel](#service-providers-in-laravel)
+  - [Get to know Facades](#get-to-know-facades)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Quick summary
+  - [Quick summary](#quick-summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beyond the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/beyond-the-basics?u=76281980)
@@ -119,8 +119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (5), [[PHP]] (1), functional (1), web application (1)
 > **CLI Commands:** php (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [shruti] (1)
@@ -148,9 +148,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (4), [[PHP]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Env Vars:** crud (1), php (1)
 > **CLI Commands:** php (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor (1)
 
 #### What's new in Laravel 10?
@@ -262,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (2), switch (1)
+> **Frameworks & Libraries:** [[Laravel]] (9), [[PHP]] (6), css (3), feature (2), application (1)
 > **CLI Commands:** php (6), make (4), docker (1), apache (1)
 > **Env Vars:** php (4), css (3), xampp (1), cli (1)
 > **File Paths:** webpack.mix.js (1), package.json (1), welcome.blade.php (1), kernel.php (1)
@@ -312,7 +312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1), case. (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), web (1), [[PHP]] (1)
 > **File Paths:** web.php (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** readme (1)
@@ -324,7 +324,7 @@ created: 2026-04-29
 
 ### 1. Starting Your Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand project requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/understand-project-requirements?u=76281980)
@@ -365,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), this. (1), let (1)
+> **Frameworks & Libraries:** [[Laravel]] (2), web application (1), application (1)
 > **Speakers:** - [instructor] (1)
 
 #### Set up the project
@@ -489,7 +489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), require (1), this. (1), else, (1)
+> **Frameworks & Libraries:** [[Laravel]] (3), database (3), css (3), [[npm]] (2), cd (1)
 > **CLI Commands:** composer (2), npm (2), cd (1), mysql (1)
 > **Prerequisites:** install (6)
 > **Tools:** terminal (2), visual studio (1), sublime (1)
@@ -669,7 +669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), class. (4), pass (4), type. (3), public (3)
+> **Frameworks & Libraries:** database (2), next (2), feature (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** foreignid (3), date_time (1)
@@ -681,7 +681,7 @@ created: 2026-04-29
 
 ### 2. Authorization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create user roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980)
@@ -836,7 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), else. (2), default, (2), delete (2), this, (1)
+> **Frameworks & Libraries:** web (2), [[PHP]] (2), feature (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2), php (2)
 > **Env Vars:** php (2), url (2)
 > **UI Navigation:** go to (3)
@@ -918,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (2), this. (2), this, (1), class. (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Dashboards]] (1), [[Security]] (1), application (1), web (1)
 > **CLI Commands:** php (2), make (1), find (1)
 > **File Paths:** kernel.php (1), web.php (1)
 > **Env Vars:** url (1)
@@ -1276,7 +1276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (42), class. (5), this, (5), this. (4), class, (4)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Fetch]] (4), [[GitHub]] (3), data (3), next (2)
 > **Code Identifiers:** date_time (11), classtype (4), classtypes (2), scheduledclasses (2), instructor_id (1)
 > **Ports:** :00 (12)
 > **CLI Commands:** php (4), make (3)
@@ -1382,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class, (2), class. (2), this, (1), pass (1)
+> **Frameworks & Libraries:** next (1), [[Laravel]] (1)
 > **Tools:** vs code (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -1469,7 +1469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), let (7), class. (2), public (1), function (1)
+> **Frameworks & Libraries:** feature (1), next (1)
 > **Code Identifiers:** scheduledclass (2), scheduleclass (1), instructor_id (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
@@ -1480,7 +1480,7 @@ created: 2026-04-29
 
 ### 3. Advanced Eloquent Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Seeding and factories
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980)
@@ -1805,7 +1805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (36), this. (9), delete (3), class. (2), type. (2)
+> **Frameworks & Libraries:** data (12), database (7), next (2), [[PHP]] (1)
 > **CLI Commands:** make (4), php (1)
 > **Code Identifiers:** class_type_id (1), date_time (1), scheduled_classes (1)
 > **URLs:** [example.com](https://example.com) (2)
@@ -2001,7 +2001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), this. (4), this, (3), class. (2), delete (2)
+> **Frameworks & Libraries:** hit (2), feature (1), [[Laravel]] (1), next (1), web (1)
 > **Code Identifiers:** belongstomany (3), scheduled_class_id (2), foreignid (2), intermediate_table (1), scheduled_class_user (1)
 > **CLI Commands:** make (9), php (1)
 > **Definitions:** is a  (3)
@@ -2204,7 +2204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), class. (3), delete (3), require (3), function (2)
+> **Frameworks & Libraries:** [[Laravel]] (5), data (2), [[PHP]] (1), database (1), application (1)
 > **UI Navigation:** go to (5), scroll down (2)
 > **CLI Commands:** composer (2), php (1), make (1)
 > **Prerequisites:** install (4)
@@ -2462,7 +2462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), class. (7), pass (6), public (3), function (3)
+> **Frameworks & Libraries:** data (5), [[PHP]] (3), feature (2), hit (1)
 > **CLI Commands:** php (3), make (1)
 > **Code Identifiers:** scheduled_class_id (2), date_time (1), scheduledclasses (1)
 > **UI Navigation:** go to (1), open the (1), scroll down (1), click on (1)
@@ -2600,7 +2600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), public (2), function (2), pass (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (2), [[Fetch]] (1)
 > **UI Navigation:** go to (3)
 > **Documentation:** the documentation (2)
 > **Cross-References:** go back to (1)
@@ -2612,7 +2612,7 @@ created: 2026-04-29
 
 ### 4. Do More with Laravel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Write commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/write-commands?u=76281980)
@@ -2769,7 +2769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), class, (3), pass (2), this. (2), else, (1)
+> **Frameworks & Libraries:** feature (2), database (2), hit (1)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (2)
 > **Speakers:** - [instructor] (1)
@@ -2873,7 +2873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), class, (3), delete (3), this. (3), pass (3)
+> **Frameworks & Libraries:** next (4), data (2), [[Laravel]] (1), application (1), feature (1)
 > **Code Identifiers:** scheduledclass (6)
 > **CLI Commands:** make (3), php (1), find (1)
 > **Analogies:** imagine (1), just like (1)
@@ -3023,7 +3023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), delete (1), function (1), pass (1), default, (1)
+> **Frameworks & Libraries:** [[Laravel]] (3), feature (2), application (2), data (2), [[Search]] (2)
 > **UI Navigation:** go to (5), scroll down (2)
 > **CLI Commands:** make (2), php (1)
 > **File Paths:** telescope.php (1)
@@ -3035,7 +3035,7 @@ created: 2026-04-29
 
 ### 5. Notifications, Queuing, and Scheduling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Send emails
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980)
@@ -3274,7 +3274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), pass (5), class. (4), this. (4), class, (3)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Laravel]] (2), data (2), feature (1)
 > **Code Identifiers:** scheduledclass (4), classname (3), classcanceled (1), classcanceledmail (1), classtype (1)
 > **UI Navigation:** go to (3), open the (1), scroll down (1)
 > **Env Vars:** smtp (3), ses (1)
@@ -3414,7 +3414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), class. (3), class, (3), this, (1), default, (1)
+> **Frameworks & Libraries:** database (2), data (2), [[Laravel]] (1), [[Slack]] (1), application (1)
 > **UI Navigation:** go to (3), open the (2), scroll down (1)
 > **Env Vars:** sms (2), url (1)
 > **CLI Commands:** make (1)
@@ -3606,7 +3606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), delete (3), class. (2), this. (2), public (2)
+> **Frameworks & Libraries:** database (4), [[Laravel]] (3), [[User Experience (UX)|User experience]] (1), [[Redis]] (1), [[PHP]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** make (2), php (1)
 > **Cross-References:** in the last (1), go back to (1)
@@ -3778,7 +3778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), this, (3), class, (3), class. (2), this. (2)
+> **Frameworks & Libraries:** data (5), next (3), [[PHP]] (3), [[Laravel]] (2), [[Fetch]] (2)
 > **CLI Commands:** php (3), make (2)
 > **Ports:** :00 (2), :16 (2), :15 (1)
 > **File Paths:** kernel.php (3)
@@ -3790,7 +3790,7 @@ created: 2026-04-29
 
 ### 6. Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980)
@@ -3895,7 +3895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), self (1), assert (1), class, (1)
+> **Frameworks & Libraries:** feature (4), next (3), [[Laravel]] (3), application (3), [[Software Development]] (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** test_the_application_returns_a_successful_response (1)
@@ -4077,7 +4077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), pass (9), this, (6), assert (6), this. (5)
+> **Frameworks & Libraries:** data (3), application (1), [[JSON]] (1), hit (1), database (1)
 > **Code Identifiers:** actingas (2), assertredirect (2), assertredirecttoroute (2), test_instructor_can_schedule_a_class (2), class_type_id (2)
 > **Env Vars:** url (4), http (2), json (1)
 > **CLI Commands:** make (3)
@@ -4231,7 +4231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (4), pass (4), delete (4), class, (3)
+> **Frameworks & Libraries:** database (11), [[Laravel]] (3), next (1), data (1), hit (1)
 > **Code Identifiers:** scheduled_classes (2), asserredirecttoroute (1), assertdatabase (1), assertdatabasecount (1), assertdatabasehas (1)
 > **Env Vars:** http (2)
 > **UI Navigation:** scroll up (1), scroll down (1)
@@ -4387,7 +4387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), delete (5), class. (3), assert (3), pass (3)
+> **Frameworks & Libraries:** feature (3), next (1), hit (1), [[PHP]] (1)
 > **Code Identifiers:** scheduledclass (3), assertdontseetext (2), test_cannot_cancel_class_less_than_two_hours_before (1), addhour (1), assertdatabasehas (1)
 > **UI Navigation:** go to (3), open the (1), scroll down (1)
 > **CLI Commands:** make (3), php (1)
@@ -4399,7 +4399,7 @@ created: 2026-04-29
 
 ### 7. Understand How Laravel Works
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Request lifecycle overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980)
@@ -4524,7 +4524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (2), require (1), interface (1), class, (1)
+> **Frameworks & Libraries:** application (14), [[Laravel]] (9), [[PHP]] (8), next (6), web (2)
 > **CLI Commands:** php (8), find (3), composer (1), make (1)
 > **Env Vars:** php (2), url (1), laravel_start (1), http (1), uri (1)
 > **File Paths:** index.php (2), app.php (2), maintenance.php (1), web.php (1)
@@ -4616,7 +4616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), this. (2), class, (2), this, (1)
+> **Frameworks & Libraries:** application (8), [[Laravel]] (6), [[PHP]] (2), database (1), web (1)
 > **CLI Commands:** make (4), php (2), find (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1), it's like (1)
@@ -4658,11 +4658,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (6), application (4), [[Routing]] (1), database (1), [[PHP]] (1)
 > **CLI Commands:** find (1), php (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), similar to (1)
 > **File Paths:** app.php (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** registerfactory (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4721,7 +4721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), function (1), static (1), this. (1)
+> **Frameworks & Libraries:** [[Laravel]] (6), database (1), [[PHP]] (1), [[Search]] (1), application (1)
 > **CLI Commands:** make (4), find (1), php (1)
 > **File Paths:** config/app.php (1)
 > **UI Navigation:** scroll down (1)
@@ -4732,7 +4732,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Quick summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980)
@@ -4777,8 +4777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (7), functional (1), [[Databases]] (1), database (1), web (1)
 > **Env Vars:** cad (1), http (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 

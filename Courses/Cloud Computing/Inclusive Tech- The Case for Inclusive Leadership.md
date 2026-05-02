@@ -40,7 +40,7 @@ tags:
   - skill/tech-career-skills
   - skill/inclusive-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Inclusive%20Tech-%20The%20Case%20for%20Inclusive%20Leadership.md)
@@ -59,36 +59,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Inclusive leadership
-  - Does inclusion really change the game in tech?
-  - Making the case for inclusion at work
+  - [Inclusive leadership](#inclusive-leadership)
+  - [Does inclusion really change the game in tech?](#does-inclusion-really-change-the-game-in-tech)
+  - [Making the case for inclusion at work](#making-the-case-for-inclusion-at-work)
 - [**1. Building a New Tech Team**](#1-building-a-new-tech-team) (5 videos)
-  - Building and leading a new team from inclusive foundations
-  - Inclusive hiring
-  - Setting expectations for your team
-  - Maintaining inclusive practices as your team matures
-  - Challenge: Inclusion on new teams
+  - [Building and leading a new team from inclusive foundations](#building-and-leading-a-new-team-from-inclusive-foundations)
+  - [Inclusive hiring](#inclusive-hiring)
+  - [Setting expectations for your team](#setting-expectations-for-your-team)
+  - [Maintaining inclusive practices as your team matures](#maintaining-inclusive-practices-as-your-team-matures)
+  - [Challenge: Inclusion on new teams](#challenge-inclusion-on-new-teams)
 - [**2. Leading an Established Tech Team**](#2-leading-an-established-tech-team) (5 videos)
-  - Leading existing teams
-  - Identifying barriers to inclusivity
-  - Working with established stakeholders
-  - Inclusivity in toxic settings
-  - Challenge: Leading established teams
+  - [Leading existing teams](#leading-existing-teams)
+  - [Identifying barriers to inclusivity](#identifying-barriers-to-inclusivity)
+  - [Working with established stakeholders](#working-with-established-stakeholders)
+  - [Inclusivity in toxic settings](#inclusivity-in-toxic-settings)
+  - [Challenge: Leading established teams](#challenge-leading-established-teams)
 - [**3. Challenges to Inclusivity**](#3-challenges-to-inclusivity) (4 videos)
-  - Inclusive leadership as a marathon
-  - Balancing time
-  - Knowing when your voice isn't needed
-  - Challenge: Balancing time
+  - [Inclusive leadership as a marathon](#inclusive-leadership-as-a-marathon)
+  - [Balancing time](#balancing-time)
+  - [Knowing when your voice isn't needed](#knowing-when-your-voice-isnt-needed)
+  - [Challenge: Balancing time](#challenge-balancing-time)
 - [**4. Beyond Your Tech Team**](#4-beyond-your-tech-team) (3 videos)
-  - Inclusive culture change throughout your company
-  - Leadership in the tech industry
-  - Challenge: Beyond your team
+  - [Inclusive culture change throughout your company](#inclusive-culture-change-throughout-your-company)
+  - [Leadership in the tech industry](#leadership-in-the-tech-industry)
+  - [Challenge: Beyond your team](#challenge-beyond-your-team)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusive leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), let (1)
+> **Frameworks & Libraries:** teams (2), [[Microsoft Products|Products]] (1), [[Inclusive Leadership]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -157,9 +157,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Microsoft Products|Products]] (2), [[Security]] (1), product (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -232,8 +232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), business (6), leadership (1), next (1), [[Inclusive Leadership]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (1), let (1), continue (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -241,7 +241,7 @@ created: 2026-04-29
 
 ### 1. Building a New Tech Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building and leading a new team from inclusive foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980)
@@ -304,8 +304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Slack]] (1), [[Jira]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), from, (1)
 > **Tools:** slack (1), jira (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
@@ -381,7 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1), protected (1)
+> **Frameworks & Libraries:** data (2), [[Interviewing]] (1), job description (1), business (1), career (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
@@ -449,8 +449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (1), product (1), teams (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** self (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -533,8 +533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (7), [[Interviewing]] (2), [[Microsoft Products|Products]] (1), management (1), application (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** continue (3), let (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -558,6 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [narrator] (1)
@@ -566,7 +567,7 @@ created: 2026-04-29
 
 ### 2. Leading an Established Tech Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading existing teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/leading-existing-teams?u=76281980)
@@ -647,8 +648,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** let (2), continue (1)
 > **Speakers:** - [narrator] (1)
 
 #### Identifying barriers to inclusivity
@@ -738,9 +739,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Analogies:** for example (3)
-> **Code Keywords:** this. (1), continue (1)
 > **Ports:** :00 (2)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
@@ -833,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), require (1), continue (1)
+> **Frameworks & Libraries:** next (1), business (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** make sure you have (1), you'll need (1)
 > **Definitions:** is a  (1)
@@ -955,7 +956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), continue (1), self (1)
+> **Frameworks & Libraries:** teams (5), leadership (1), career (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -990,7 +991,7 @@ created: 2026-04-29
 
 ### 3. Challenges to Inclusivity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusive leadership as a marathon
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership-as-a-marathon?u=76281980)
@@ -1051,8 +1052,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), data (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** require (1), let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Balancing time
@@ -1110,8 +1111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2), management (1), business (1), [[Agile Development|Agile]] (1), teams (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** for. (1), raise (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1177,8 +1178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Inclusive Leadership]] (1), [[Accountability]] (1), leadership (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** continue (3), this, (1)
 > **Env Vars:** sre (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1207,7 +1208,7 @@ created: 2026-04-29
 
 ### 4. Beyond Your Tech Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusive culture change throughout your company
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-culture-change-throughout-your-company?u=76281980)
@@ -1258,8 +1259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Inclusive Leadership]] (1), teams (1), next (1), leadership (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (1), raise (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1325,8 +1326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), open-source (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** for, (1), public (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Beyond your team
@@ -1353,7 +1354,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980)
@@ -1398,7 +1399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), case. (1), from. (1), let (1)
+> **Frameworks & Libraries:** management (2), [[Inclusive Leadership]] (1), [[Programming]] (1), [[Search]] (1), [[React.js|React]] (1)
 > **Prerequisites:** you'll need (3)
 > **Analogies:** just like (1), for example (1)
 > **Env Vars:** chaoss (1)

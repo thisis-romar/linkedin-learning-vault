@@ -32,7 +32,7 @@ tags:
   - skill/identity-and-access-management-iam
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Azure-%20Identity%20and%20Access%20Management.md)
@@ -51,48 +51,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Discovering Azure identity and access management
-  - What you should know
-  - Identity and access management concepts
+  - [Discovering Azure identity and access management](#discovering-azure-identity-and-access-management)
+  - [What you should know](#what-you-should-know)
+  - [Identity and access management concepts](#identity-and-access-management-concepts)
 - [**1. Manage Identities**](#1-manage-identities) (12 videos)
-  - Microsoft Entra ID overview
-  - Microsoft Entra ID license comparison
-  - Create users
-  - Manage users
-  - Manage and invite external users
-  - Perform bulk user operations
-  - Create groups
-  - Manage groups
-  - Manage devices
-  - Manage applications
-  - Manage hybrid identities
-  - Manage Azure administrative units
+  - [Microsoft Entra ID overview](#microsoft-entra-id-overview)
+  - [Microsoft Entra ID license comparison](#microsoft-entra-id-license-comparison)
+  - [Create users](#create-users)
+  - [Manage users](#manage-users)
+  - [Manage and invite external users](#manage-and-invite-external-users)
+  - [Perform bulk user operations](#perform-bulk-user-operations)
+  - [Create groups](#create-groups)
+  - [Manage groups](#manage-groups)
+  - [Manage devices](#manage-devices)
+  - [Manage applications](#manage-applications)
+  - [Manage hybrid identities](#manage-hybrid-identities)
+  - [Manage Azure administrative units](#manage-azure-administrative-units)
 - [**2. Manage Authentication**](#2-manage-authentication) (6 videos)
-  - Manage authentication methods
-  - Configure self-service password reset
-  - Implement multifactor authentication (MFA)
-  - Implement passwordless authentication
-  - Implement identity protection
-  - Implement conditional access
+  - [Manage authentication methods](#manage-authentication-methods)
+  - [Configure self-service password reset](#configure-self-service-password-reset)
+  - [Implement multifactor authentication (MFA)](#implement-multifactor-authentication-mfa)
+  - [Implement passwordless authentication](#implement-passwordless-authentication)
+  - [Implement identity protection](#implement-identity-protection)
+  - [Implement conditional access](#implement-conditional-access)
 - [**3. Manage Access to Resources**](#3-manage-access-to-resources) (5 videos)
-  - Organize Azure resources
-  - Azure role-based access control (RBAC) overview
-  - Define Azure roles
-  - Microsoft Entra roles and Azure roles
-  - Implement Azure role-based access control (RBAC)
+  - [Organize Azure resources](#organize-azure-resources)
+  - [Azure role-based access control (RBAC) overview](#azure-role-based-access-control-rbac-overview)
+  - [Define Azure roles](#define-azure-roles)
+  - [Microsoft Entra roles and Azure roles](#microsoft-entra-roles-and-azure-roles)
+  - [Implement Azure role-based access control (RBAC)](#implement-azure-role-based-access-control-rbac)
 - [**4. Perform Monitoring and Governance**](#4-perform-monitoring-and-governance) (6 videos)
-  - Monitor Microsoft Entra ID
-  - Identity secure score
-  - Entitlement management
-  - Access reviews
-  - Privileged identity management overview
-  - Implement privileged identity management
+  - [Monitor Microsoft Entra ID](#monitor-microsoft-entra-id)
+  - [Identity secure score](#identity-secure-score)
+  - [Entitlement management](#entitlement-management)
+  - [Access reviews](#access-reviews)
+  - [Privileged identity management overview](#privileged-identity-management-overview)
+  - [Implement privileged identity management](#implement-privileged-identity-management)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discovering Azure identity and access management
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980)
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), cloud (2), [[Multi-factor Authentication]] (1), management (1), [[Software Development]] (1)
 > **Env Vars:** iam (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - azure (1)
@@ -132,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), management (1), [[Microsoft Azure]] (1), cloud (1), [[Microsoft Entra ID]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Identity and access management concepts
@@ -165,15 +167,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** iam (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Manage Identities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Entra ID overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980)
@@ -210,7 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (10), management (6), [[Security]] (3), cloud (2), [[Microsoft]] (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** iam (1)
 > **Tools:** azure portal (1)
@@ -263,6 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (14), management (7), [[Security]] (3), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** sso (1), mfa (1), rbac (1), pim (1)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
@@ -339,9 +342,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft Entra ID]] (2), [[Microsoft Azure|Azure]] (2)
 > **Analogies:** for example (4)
 > **URLs:** [demosoc.com](https://demosoc.com) (2), [onmicrosoft.com](https://onmicrosoft.com) (1)
-> **Code Keywords:** let (2)
 > **Tools:** azure portal (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -440,7 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (2), require (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (3), [[Microsoft Azure|Azure]] (3), [[User Management]] (1), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
@@ -525,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Microsoft]] (2), business (1), [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **Prerequisites:** set up (4), configure (2)
 > **Analogies:** for example (4)
 > **Cross-References:** go back to (3)
@@ -630,7 +633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (4)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (7), [[Microsoft Azure|Azure]] (1)
 > **Exercise Files:** template (10)
 > **Env Vars:** csv (7), url (1), ext (1)
 > **Code Identifiers:** userprincipalname (3), displayname (1)
@@ -748,7 +751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (5), [[Security]] (4), [[Microsoft 365]] (3), feature (2), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (2)
 > **Tools:** azure portal (1)
 > **UI Navigation:** select the (1)
@@ -836,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type, (1), import, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (3), [[Microsoft Azure|Azure]] (3), [[Security]] (1), [[Active Directory]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (3)
 > **Env Vars:** csv (2)
 > **Cross-References:** later in (1)
@@ -919,7 +922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft]] (23), [[Microsoft Entra ID|Entra]] (20), [[Microsoft Entra ID]] (8), [[Windows]] (5), management (3)
 > **Code Identifiers:** ios (1), macos (1)
 > **Env Vars:** sso (1), mdm (1)
 > **Versions:** 8.1 (1)
@@ -995,8 +998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), application (4), [[Search]] (2), [[Slack]] (2), api (2)
 > **Analogies:** for example (6)
-> **Code Keywords:** let (3), continue (1)
 > **Env Vars:** url (2), api (2)
 > **Tools:** slack (2), azure portal (1)
 > **Cross-References:** go back to (2)
@@ -1073,7 +1076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (13), cloud (6), [[Active Directory]] (5), [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (4)
 > **Env Vars:** adfs (3)
 > **Analogies:** for example (2)
 > **Tools:** azure portal (1)
@@ -1182,7 +1185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (3), [[Microsoft Office|Office]] (3), [[Microsoft Azure|Azure]] (2), next (2), business (1)
 > **Analogies:** for example (5)
 > **Env Vars:** win (1), azure (1), join (1)
 > **SQL:** join (1)
@@ -1193,7 +1196,7 @@ created: 2026-04-29
 
 ### 2. Manage Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage authentication methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980)
@@ -1284,8 +1287,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Security]] (3), [[Microsoft]] (3), [[Tokens]] (2), application (1)
 > **Env Vars:** sms (2), oath (2), fido2 (2), usb (1)
-> **Code Keywords:** let (2), else, (1), protected (1), require (1)
 > **Analogies:** for example (3), it's like (1)
 > **Prerequisites:** configure (2)
 > **Tools:** azure portal (1)
@@ -1372,7 +1375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (3), require (1), private (1)
+> **Frameworks & Libraries:** next (4), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Active Directory]] (1)
 > **Analogies:** for example (3), picture (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** go to (1), open the (1), select the (1)
@@ -1472,8 +1475,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Microsoft Entra ID]] (8), [[Hardware]] (1), [[Tokens]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** mfa (15)
-> **Code Keywords:** require (5), let (2), type, (1)
 > **Best Practices:** recommended (3)
 > **Cross-References:** go back to (2)
 > **Tools:** azure portal (1)
@@ -1622,7 +1625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (3), function (1), default, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft]] (8), next (8), [[Microsoft Azure|Azure]] (6), [[Microsoft Entra ID]] (3), [[Security]] (2)
 > **Prerequisites:** set up (3), install (1)
 > **URLs:** [azure.com](https://azure.com) (3)
 > **UI Navigation:** open the (2)
@@ -1712,7 +1715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Microsoft]] (4), [[Microsoft Entra ID]] (3), data (2), cloud (1)
 > **Analogies:** for example (4)
 > **Prerequisites:** configure (2), set up (1)
 > **Tools:** azure portal (1)
@@ -1819,7 +1822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (6), let (4), finally, (2), if. (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Slack]] (3), [[Microsoft]] (2), [[Security]] (2), data (1)
 > **Env Vars:** mfa (5)
 > **Tools:** slack (3), azure portal (1)
 > **Analogies:** for example (3)
@@ -1831,7 +1834,7 @@ created: 2026-04-29
 
 ### 3. Manage Access to Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organize Azure resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980)
@@ -1954,7 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1), finally, (1)
+> **Frameworks & Libraries:** management (16), [[Microsoft Azure|Azure]] (8), cloud (1), ai (1), [[Analytics]] (1)
 > **Analogies:** for example (4)
 > **Tools:** azure portal (2)
 > **UI Navigation:** select the (1)
@@ -2021,8 +2024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Security]] (3), management (2), application (1), business (1)
 > **Analogies:** for example (5)
-> **Code Keywords:** let (2), delete (1), finally, (1)
 > **Env Vars:** rbac (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -2127,8 +2130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[JSON]] (6), [[Microsoft]] (6), next (3), management (2)
 > **Env Vars:** json (6), iam (2), rbac (1)
-> **Code Keywords:** let (4), type. (1), delete (1)
 > **UI Navigation:** select the (3), scroll down (1)
 > **CLI Commands:** find (3)
 > **Code Identifiers:** elevateaccess (1), virtualmachines (1)
@@ -2185,7 +2188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (4), [[Microsoft Entra ID]] (3), application (2)
 > **Env Vars:** iam (1)
 > **Tools:** azure portal (1)
 > **Analogies:** for example (1)
@@ -2259,7 +2262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), management (1), next (1)
 > **Env Vars:** rbac (2), iam (1)
 > **Analogies:** for example (3)
 > **Tools:** azure portal (1)
@@ -2269,7 +2272,7 @@ created: 2026-04-29
 
 ### 4. Perform Monitoring and Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitor Microsoft Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980)
@@ -2360,7 +2363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (6), [[Analytics]] (5), data (4), application (2), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (6)
 > **Env Vars:** kql (1)
 > **Tools:** azure portal (1)
@@ -2427,7 +2430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Security]] (3), [[Microsoft]] (1), [[Microsoft Entra ID]] (1), [[Microsoft Azure|Azure]] (1), hr (1)
 > **Tools:** azure portal (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [bryan] (1)
@@ -2573,7 +2576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1), private (1)
+> **Frameworks & Libraries:** next (7), management (6), [[Microsoft Entra ID]] (4), teams (4), [[Slack]] (3)
 > **Tools:** slack (3), azure portal (1)
 > **UI Navigation:** select the (1), open the (1), go to (1)
 > **Cross-References:** go back to (2)
@@ -2709,7 +2712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), type, (1), self (1), switch (1)
+> **Frameworks & Libraries:** [[Slack]] (6), next (4), [[Microsoft Entra ID]] (3), application (3), teams (1)
 > **Tools:** slack (6), azure portal (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** switch to (1)
@@ -2777,9 +2780,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), [[Microsoft Azure|Azure]] (5), [[Microsoft]] (2), [[Microsoft Entra ID|Entra]] (2), [[Microsoft Entra ID]] (2)
 > **Env Vars:** jit (1), mfa (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2906,7 +2909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), type, (1), private (1), while. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), management (5), [[Microsoft Entra ID]] (2), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **UI Navigation:** select the (2), go to (2), open the (1)
 > **Analogies:** for example (3)
 > **Tools:** azure portal (2)
@@ -2916,7 +2919,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980)
@@ -2953,7 +2956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), management (3), next (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Env Vars:** mfa (1), rbac (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [bryan] (1)

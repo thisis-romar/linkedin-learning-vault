@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Top%20Five%20Things%20To%20Know%20In%20Advanced%20Sql.md)
@@ -46,46 +46,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - The importance of SQL in a data-driven world
-  - Prerequisite knowledge
-  - Navigating the exercise files on GitHub
-  - Setting up Microsoft SQL Server
-  - Adding primary key constraints
+  - [The importance of SQL in a data-driven world](#the-importance-of-sql-in-a-data-driven-world)
+  - [Prerequisite knowledge](#prerequisite-knowledge)
+  - [Navigating the exercise files on GitHub](#navigating-the-exercise-files-on-github)
+  - [Setting up Microsoft SQL Server](#setting-up-microsoft-sql-server)
+  - [Adding primary key constraints](#adding-primary-key-constraints)
 - [**1. Subqueries**](#1-subqueries) (7 videos)
-  - What is a subquery?
-  - Syntax of a scalar subquery
-  - Syntax of a multiple-row subquery
-  - Uncorrelated subquery
-  - Correlated subquery
-  - Challenge: Create a subquery
-  - Solution: Create a subquery
+  - [What is a subquery?](#what-is-a-subquery)
+  - [Syntax of a scalar subquery](#syntax-of-a-scalar-subquery)
+  - [Syntax of a multiple-row subquery](#syntax-of-a-multiple-row-subquery)
+  - [Uncorrelated subquery](#uncorrelated-subquery)
+  - [Correlated subquery](#correlated-subquery)
+  - [Challenge: Create a subquery](#challenge-create-a-subquery)
+  - [Solution: Create a subquery](#solution-create-a-subquery)
 - [**2. Common Table Expressions (CTE)**](#2-common-table-expressions-cte) (5 videos)
-  - Syntax of CTEs
-  - Recursive CTEs
-  - Challenge: Create a CTE
-  - Solution: Create a CTE
-  - Difference between a CTE and a subquery
+  - [Syntax of CTEs](#syntax-of-ctes)
+  - [Recursive CTEs](#recursive-ctes)
+  - [Challenge: Create a CTE](#challenge-create-a-cte)
+  - [Solution: Create a CTE](#solution-create-a-cte)
+  - [Difference between a CTE and a subquery](#difference-between-a-cte-and-a-subquery)
 - [**3. Windows Functions: ROW_NUMBER()**](#3-windows-functions-row_number) (4 videos)
-  - Introduction to window functions
-  - Diving into ROW_NUMBER()
-  - Challenge: Calculate a ROW_NUMBER
-  - Solution: Calculate a ROW_NUMBER
+  - [Introduction to window functions](#introduction-to-window-functions)
+  - [Diving into ROW_NUMBER()](#diving-into-row_number)
+  - [Challenge: Calculate a ROW_NUMBER](#challenge-calculate-a-row_number)
+  - [Solution: Calculate a ROW_NUMBER](#solution-calculate-a-row_number)
 - [**4. Windows Functions: LAG() and LEAD()**](#4-windows-functions-lag-and-lead) (4 videos)
-  - Use cases and syntax of LAG() and LEAD()
-  - Using LAG() and LEAD() in tandem
-  - Challenge: Using LAG() and LEAD() to determine most recent order quantities
-  - Solution: Using LAG() and LEAD() to determine most recent order quantities
+  - [Use cases and syntax of LAG() and LEAD()](#use-cases-and-syntax-of-lag-and-lead)
+  - [Using LAG() and LEAD() in tandem](#using-lag-and-lead-in-tandem)
+  - [Challenge: Using LAG() and LEAD() to determine most recent order quantities](#challenge-using-lag-and-lead-to-determine-most-recent-order-quantities)
+  - [Solution: Using LAG() and LEAD() to determine most recent order quantities](#solution-using-lag-and-lead-to-determine-most-recent-order-quantities)
 - [**5. Ranking Windows Functions**](#5-ranking-windows-functions) (4 videos)
-  - Introduction to ranking window functions
-  - Demonstrating the distinction between RANK() and DENSE_RANK()
-  - Challenge: RANK() and DENSE_RANK()
-  - Solution: RANK() and DENSE_RANK()
+  - [Introduction to ranking window functions](#introduction-to-ranking-window-functions)
+  - [Demonstrating the distinction between RANK() and DENSE_RANK()](#demonstrating-the-distinction-between-rank-and-dense_rank)
+  - [Challenge: RANK() and DENSE_RANK()](#challenge-rank-and-dense_rank)
+  - [Solution: RANK() and DENSE_RANK()](#solution-rank-and-dense_rank)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Wrap-up
+  - [Wrap-up](#wrap-up)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of SQL in a data-driven world
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980)
@@ -110,9 +110,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[SQL]] (4), next (2), [[Analytics]] (1), hr (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - data (1)
@@ -138,8 +138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), data (2), [[Windows]] (1), product (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (4)
-> **Code Keywords:** from, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - this (1)
@@ -175,11 +175,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1), [[SQL]] (1), data (1), [[Microsoft SQL Server]] (1)
 > **Prerequisites:** set up (2), setup (1), you'll need (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (2)
 > **Exercise Files:** exercise files (1), download the (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
@@ -309,10 +309,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), next (10), data (8), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft SQL Server]] (3)
 > **Env Vars:** sql (9), ssms (7), lcp4 (1), dbo (1)
 > **Prerequisites:** install (7), you'll need (3), set up (2), setup (1)
 > **UI Navigation:** click on (6), switch to (1), open the (1)
-> **Code Keywords:** continue (3), switch (1)
 > **Tools:** github (1), command prompt (1), terminal (1)
 > **CLI Commands:** make (1)
 > **Versions:** 11.0 (1)
@@ -351,6 +351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[SQL]] (3), [[Databases]] (1), [[Microsoft Excel|Excel]] (1), [[GitHub]] (1)
 > **Env Vars:** sql (3), ssms (2)
 > **Code Identifiers:** environment_setup (2)
 > **File Paths:** environment_setup.sql (1)
@@ -358,12 +359,11 @@ created: 2026-04-29
 > **Cross-References:** go back to (1)
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
-> **Exercise Files:** github repo (1)
 
 
 ### 1. Subqueries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a subquery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/what-is-a-subquery?u=76281980)
@@ -394,7 +394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), delete (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Speakers:** - [presenter] (1)
 
@@ -467,7 +467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), type, (1)
+> **Frameworks & Libraries:** [[Debugging]] (3), next (2), database (1), [[Microsoft Products|Products]] (1), product (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
@@ -553,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), this, (1), yield (1), case. (1)
+> **Frameworks & Libraries:** data (2), next (2), database (1), prompt (1)
 > **Env Vars:** where (3), exists (2), ses (1)
 > **SQL:** where (3)
 > **Analogies:** similar to (1), for example (1)
@@ -587,8 +587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (1), [[SQL]] (1), next (1)
 > **Cross-References:** previous video (1), in the next (1)
-> **Code Keywords:** type, (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -672,7 +672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** ssms (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -698,7 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (1), management (1), business (1), next (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -741,6 +741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), data (1), database (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** next chapter (1)
 > **UI Navigation:** select the (1)
@@ -750,7 +751,7 @@ created: 2026-04-29
 
 ### 2. Common Table Expressions (CTE)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Syntax of CTEs
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980)
@@ -829,8 +830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), database (2), [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** cte (15), sql (1)
-> **Code Keywords:** let (3), type, (1), case, (1), finally, (1)
 > **Analogies:** just like (2), similar to (1), such as (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -927,11 +928,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), data (3), [[Python (Programming Language)|Python]] (3), [[SQL]] (2), business (1)
 > **Env Vars:** cte (9), union (4), sql (2), ssms (1)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** is a  (2), is called (2)
 > **Analogies:** such as (1), for example (1), just like (1)
-> **Code Keywords:** let (1), function (1)
 > **Tools:** jupyter (1), github (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** github repo (1)
@@ -959,6 +960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), business (1), next (1)
 > **Env Vars:** cte (3)
 > **Analogies:** similar to (1), such as (1)
 > **Cross-References:** next video (1)
@@ -1008,6 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (1), database (1), next (1)
 > **Env Vars:** cte (5)
 > **Cross-References:** in the last (2), in the next (1)
 > **Code Identifiers:** lowstock (1)
@@ -1061,15 +1064,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (2), [[SQL]] (2), [[Windows]] (2), next (1)
 > **Env Vars:** sql (2), cte (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Windows Functions: ROW_NUMBER()
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-window-functions?u=76281980)
@@ -1122,7 +1125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (1)
+> **Frameworks & Libraries:** [[Windows]] (13), next (4), [[SQL]] (4), data (2), [[Analytics]] (1)
 > **Analogies:** for example (3), such as (1), similar to (1)
 > **Env Vars:** sql (4)
 > **Documentation:** specification (2)
@@ -1250,7 +1253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (2), continue (2), for, (1)
+> **Frameworks & Libraries:** [[Windows]] (8), next (3), product (2), database (2), data (1)
 > **Env Vars:** cte (5), sql (1)
 > **Code Identifiers:** row_num (2)
 > **Definitions:** is a  (2)
@@ -1280,9 +1283,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), next (2), data (2)
 > **Env Vars:** row (1), number (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1375,7 +1378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2), finally, (1)
+> **Frameworks & Libraries:** product (12), next (7), [[Windows]] (3), prompt (1)
 > **Env Vars:** cte (4), ssms (1), row_numbers (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** row_num (1)
@@ -1387,7 +1390,7 @@ created: 2026-04-29
 
 ### 4. Windows Functions: LAG() and LEAD()
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use cases and syntax of LAG() and LEAD()
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980)
@@ -1428,8 +1431,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), data (4), [[Windows]] (1), [[SQL]] (1), [[Analytics]] (1)
 > **Env Vars:** lag (4), lead (3), sql (1)
-> **Code Keywords:** let (2), function (1)
 > **Ports:** :30 (1), :00 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1523,7 +1526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), finally, (2), case. (2)
+> **Frameworks & Libraries:** next (12), [[Windows]] (3), [[SQL]] (2)
 > **Definitions:** is called (2), is an  (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** previous video (1), next chapter (1)
@@ -1617,8 +1620,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), product (2), data (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cte (6), sql (1)
-> **Code Keywords:** finally, (2), function (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** next chapter (1), in the next (1)
 > **Tools:** github (1)
@@ -1629,7 +1632,7 @@ created: 2026-04-29
 
 ### 5. Ranking Windows Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ranking window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-ranking-window-functions?u=76281980)
@@ -1686,8 +1689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), next (2), [[SQL]] (1), data (1), database (1)
 > **Code Identifiers:** dense_rank (5), row_number (2)
-> **Code Keywords:** function (4), let (1)
 > **Env Vars:** sql (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1773,7 +1776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), switch (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Windows]] (3), data (3), next (2)
 > **Analogies:** such as (2), just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1793,7 +1796,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** rank (2), dense_rank (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1892,7 +1894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), finally, (2), case. (1)
+> **Frameworks & Libraries:** next (3), prompt (1), [[Windows]] (1)
 > **Env Vars:** cte (6)
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1900,7 +1902,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980)
@@ -1943,8 +1945,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Windows]] (1), [[SQL]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** sql (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - and (1)

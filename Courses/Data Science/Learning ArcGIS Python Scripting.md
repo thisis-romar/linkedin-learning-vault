@@ -32,7 +32,7 @@ tags:
   - skill/scripting
   - skill/arcgis-pro
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20ArcGIS%20Python%20Scripting.md)
@@ -51,60 +51,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting started with Python in ArcGIS
-  - What you should know before watching this course
-  - ArcGIS project files throughout this course
+  - [Getting started with Python in ArcGIS](#getting-started-with-python-in-arcgis)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
+  - [ArcGIS project files throughout this course](#arcgis-project-files-throughout-this-course)
 - [**1. Introduction to Scripting and the Python Language**](#1-introduction-to-scripting-and-the-python-language) (6 videos)
-  - Scripting overview
-  - Where Python is used in ArcGIS
-  - Where to write your scripts: ArcGIS Notebooks
-  - Write your first Python script
-  - Python syntax rules
-  - Comments and pseudocode
+  - [Scripting overview](#scripting-overview)
+  - [Where Python is used in ArcGIS](#where-python-is-used-in-arcgis)
+  - [Where to write your scripts: ArcGIS Notebooks](#where-to-write-your-scripts-arcgis-notebooks)
+  - [Write your first Python script](#write-your-first-python-script)
+  - [Python syntax rules](#python-syntax-rules)
+  - [Comments and pseudocode](#comments-and-pseudocode)
 - [**2. Strings, Numbers, and Variables**](#2-strings-numbers-and-variables) (6 videos)
-  - Use variables to make scripts flexible
-  - Work with numeric values
-  - Work with strings
-  - Working with strings in ArcGIS
-  - String manipulation
-  - String methods and functions
+  - [Use variables to make scripts flexible](#use-variables-to-make-scripts-flexible)
+  - [Work with numeric values](#work-with-numeric-values)
+  - [Work with strings](#work-with-strings)
+  - [Working with strings in ArcGIS](#working-with-strings-in-arcgis)
+  - [String manipulation](#string-manipulation)
+  - [String methods and functions](#string-methods-and-functions)
 - [**3. Getting to ArcGIS with Python**](#3-getting-to-arcgis-with-python) (8 videos)
-  - Object-oriented programming (OOP) overview
-  - Incorporating Python libraries in a script
-  - The ArcPy library
-  - Writing a script that uses ArcPy
-  - ArcPy objects, properties, and methods
-  - Geoprocessing with Python and ArcPy
-  - Model builder for jump-starting your script
-  - The ArcGIS API for Python library: Getting to web GIS
+  - [Object-oriented programming (OOP) overview](#object-oriented-programming-oop-overview)
+  - [Incorporating Python libraries in a script](#incorporating-python-libraries-in-a-script)
+  - [The ArcPy library](#the-arcpy-library)
+  - [Writing a script that uses ArcPy](#writing-a-script-that-uses-arcpy)
+  - [ArcPy objects, properties, and methods](#arcpy-objects-properties-and-methods)
+  - [Geoprocessing with Python and ArcPy](#geoprocessing-with-python-and-arcpy)
+  - [Model builder for jump-starting your script](#model-builder-for-jump-starting-your-script)
+  - [The ArcGIS API for Python library: Getting to web GIS](#the-arcgis-api-for-python-library-getting-to-web-gis)
 - [**4. Using List Functions to Get to the ArcGIS Objects**](#4-using-list-functions-to-get-to-the-arcgis-objects) (10 videos)
-  - Working with lists
-  - List methods and functions
-  - Use loops to work with lists
-  - Write a script using list methods and a for-loop
-  - Nested loops
-  - Conditional statements
-  - Write a script using ArcGIS API
-  - Getting to the properties of GIS data with Describe
-  - Challenge: Properties of layers
-  - Solution: Properties of layers
+  - [Working with lists](#working-with-lists)
+  - [List methods and functions](#list-methods-and-functions)
+  - [Use loops to work with lists](#use-loops-to-work-with-lists)
+  - [Write a script using list methods and a for-loop](#write-a-script-using-list-methods-and-a-for-loop)
+  - [Nested loops](#nested-loops)
+  - [Conditional statements](#conditional-statements)
+  - [Write a script using ArcGIS API](#write-a-script-using-arcgis-api)
+  - [Getting to the properties of GIS data with Describe](#getting-to-the-properties-of-gis-data-with-describe)
+  - [Challenge: Properties of layers](#challenge-properties-of-layers)
+  - [Solution: Properties of layers](#solution-properties-of-layers)
 - [**5. Reading from and Writing to a File**](#5-reading-from-and-writing-to-a-file) (5 videos)
-  - Read from and write to a text file
-  - Write a script that reads from and writes to a file
-  - Write a script that records broken links
-  - Challenge: Describe feature classes and write to a file
-  - Solution: Describe feature classes and write to a file
+  - [Read from and write to a text file](#read-from-and-write-to-a-text-file)
+  - [Write a script that reads from and writes to a file](#write-a-script-that-reads-from-and-writes-to-a-file)
+  - [Write a script that records broken links](#write-a-script-that-records-broken-links)
+  - [Challenge: Describe feature classes and write to a file](#challenge-describe-feature-classes-and-write-to-a-file)
+  - [Solution: Describe feature classes and write to a file](#solution-describe-feature-classes-and-write-to-a-file)
 - [**6. Attaching Your Script to a Tool in ArcGIS Pro**](#6-attaching-your-script-to-a-tool-in-arcgis-pro) (2 videos)
-  - Making scripts dynamic
-  - Creating a custom toolbox
+  - [Making scripts dynamic](#making-scripts-dynamic)
+  - [Creating a custom toolbox](#creating-a-custom-toolbox)
 - [**7. Creating Help Documentation for a Script**](#7-creating-help-documentation-for-a-script) (1 videos)
-  - Creating help documentation for a script tool
+  - [Creating help documentation for a script tool](#creating-help-documentation-for-a-script-tool)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Python in ArcGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980)
@@ -129,8 +129,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1), [[ArcGIS Pro]] (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - arcgis (1)
@@ -154,9 +154,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Scripting]] (2), gis (2), web (2), [[ArcGIS Pro]] (1)
 > **CLI Commands:** python (3)
 > **Env Vars:** gis (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -183,8 +183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you'll need (1)
@@ -193,7 +193,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Scripting and the Python Language
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scripting overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980)
@@ -310,8 +310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (37), [[ArcGIS Pro]] (9), [[Scripting]] (5), data (5), gis (2)
 > **CLI Commands:** python (37), make (2), find (1)
-> **Code Keywords:** let (5), module (4), case, (1)
 > **UI Navigation:** open the (2), go to (2), click on (1), double-click (1)
 > **Env Vars:** gis (2), api (2), arcgis (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -448,11 +448,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (23), [[ArcGIS Pro]] (9), data (8), [[Scripting]] (3), [[Windows]] (3)
 > **CLI Commands:** python (23), find (4), make (1)
 > **Env Vars:** ide (6), gis (2), sql (1), sdk (1), agol (1)
 > **Tools:** visual studio (6), jupyter (2), pycharm (1)
 > **Analogies:** for example (5)
-> **Code Keywords:** let (2), interface (1)
 > **Cross-References:** we mentioned (1), later in (1)
 > **UI Navigation:** right-click (2)
 > **Prerequisites:** install (2)
@@ -584,9 +584,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), web (4), data (2), [[Scripting]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4), find (2), make (1)
 > **Env Vars:** ide (5), agol (1)
-> **Code Keywords:** let (3), module (1), this, (1)
 > **Tools:** jupyter (4)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** dropdown (2), go to (1)
@@ -758,7 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), function (4), this, (3), let (2), class. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (4), feature (3), [[Microsoft Word|Word]] (2), [[Scripting]] (1)
 > **CLI Commands:** python (7), make (3)
 > **Code Identifiers:** numfeet (5)
 > **Definitions:** is a  (2)
@@ -923,8 +923,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (21), [[Scripting]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (21), make (2), find (2)
-> **Code Keywords:** function (7), this, (2), let (1), this. (1), delete (1)
 > **Analogies:** for example (8)
 > **Code Identifiers:** strroadname (2), numrecords (1), strfilename (1)
 > **URLs:** [python.org](https://python.org) (1)
@@ -1030,8 +1030,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Scripting]] (1), [[ArcGIS Pro]] (1), [[Representational State Transfer (REST)|Rest]] (1), web (1)
 > **CLI Commands:** python (3), make (1)
-> **Code Keywords:** this, (2), let (2)
 > **Definitions:** is a  (1), is called (1)
 > **Env Vars:** wgs (1)
 > **Cross-References:** we talked about (1)
@@ -1041,7 +1041,7 @@ created: 2026-04-29
 
 ### 2. Strings, Numbers, and Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use variables to make scripts flexible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980)
@@ -1122,8 +1122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), feature (3), [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (2), gis (2)
 > **CLI Commands:** python (3), make (2)
-> **Code Keywords:** let (2), class, (1)
 > **Code Identifiers:** strlayer (2), numspeedlimit (1)
 > **Env Vars:** gis (2), rts (1)
 > **Analogies:** such as (2), for example (1)
@@ -1224,8 +1224,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), feature (2), [[Statistics]] (1)
 > **CLI Commands:** python (4), make (4)
-> **Code Keywords:** let (4), case. (1), delete (1), function (1), finally, (1)
 > **Code Identifiers:** numpolygons (2), numlines (2)
 > **Cross-References:** earlier in (1), later in (1)
 > **Analogies:** such as (1)
@@ -1306,7 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (1), switch (1), this . (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), gis (2), feature (1), [[Microsoft Word|Word]] (1), data (1)
 > **CLI Commands:** python (3), make (2)
 > **Code Identifiers:** strcityname (3), strprojectname (1)
 > **Env Vars:** gis (2)
@@ -1412,7 +1412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), else. (1), this. (1), module (1)
+> **Frameworks & Libraries:** data (2), [[ArcGIS Pro]] (1), feature (1)
 > **Code Identifiers:** aprobject (1), aprxobject (1), defaultgeodatabase (1)
 > **Env Vars:** current (1), str (1), gdb (1)
 > **Cross-References:** later in (2), earlier in (1)
@@ -1593,7 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), this. (3), pass (3), let (2), protected (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[SQL]] (10), database (4), data (3), [[ArcGIS Pro]] (3)
 > **CLI Commands:** python (11), make (3), find (1)
 > **Env Vars:** sql (10), gdb (2), flood_status (2)
 > **Analogies:** for example (6)
@@ -1729,7 +1729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), pass (1), from . (1), try. (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (4), [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (2), data (2), [[Search]] (1)
 > **Code Identifiers:** strrocktype (5), strlonlat (3), strlon (2), srlat (1), strlat (1)
 > **CLI Commands:** python (3), find (3), make (1)
 > **Analogies:** for example (3)
@@ -1741,7 +1741,7 @@ created: 2026-04-29
 
 ### 3. Getting to ArcGIS with Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented programming (OOP) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980)
@@ -1874,10 +1874,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), gis (4), [[ArcGIS Pro]] (3), [[Scripting]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (5), find (4), make (1)
 > **Code Identifiers:** mymap (4), datesaved (2), importdocument (1)
 > **Analogies:** for example (5), such as (1), just like (1)
-> **Code Keywords:** let (4), case. (1), class. (1)
 > **Env Vars:** gis (4), mxd (1)
 > **UI Navigation:** open the (2), scroll down (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1976,9 +1976,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[ArcGIS Pro]] (6), web (5), data (4), [[Search]] (4)
 > **CLI Commands:** python (14), find (1)
 > **Env Vars:** gis (3), api (3), agol (1)
-> **Code Keywords:** let (2), module (2), case, (1)
 > **Analogies:** for example (4), kind of like (1)
 > **Cross-References:** earlier in (2)
 > **Prerequisites:** required to (1), install (1)
@@ -2056,7 +2056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (12), let (3), require (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (9), data (4), [[Python (Programming Language)|Python]] (3), gis (2), [[Scripting]] (1)
 > **CLI Commands:** python (3), find (1)
 > **Env Vars:** gis (2), env (1), pdf (1)
 > **Analogies:** for example (3), such as (1)
@@ -2166,7 +2166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1), data (1)
 > **Code Identifiers:** strprojname (2), datesaved (2), activemap (1), activeview (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** we talked about (1)
@@ -2235,8 +2235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), gis (1), [[ArcGIS Pro]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** activemap (6)
-> **Code Keywords:** let (3), this. (1)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** gis (1)
 > **Cross-References:** in the last (1)
@@ -2380,8 +2380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (10), [[Python (Programming Language)|Python]] (9), [[ArcGIS Pro]] (5), [[Scripting]] (2), data (1)
 > **CLI Commands:** python (9), make (3), find (2)
-> **Code Keywords:** let (5), class. (3)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** strfc (1), stroutfc (1)
 > **UI Navigation:** click on (1), open the (1)
@@ -2504,9 +2504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[SQL]] (3), feature (2), next (2), [[Programming]] (1)
 > **CLI Commands:** python (10), find (1), make (1)
 > **Env Vars:** sql (3), type (1), api (1)
-> **Code Keywords:** let (3), type, (1)
 > **UI Navigation:** open the (1), click on (1), select the (1), go to (1)
 > **Cross-References:** go back to (1), we talked about (1), earlier in (1)
 > **Code Identifiers:** where_clause (2)
@@ -2658,8 +2658,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (27), web (10), [[Python (Programming Language)|Python]] (8), api (4), [[Search]] (4)
 > **Env Vars:** gis (17), api (4), agol (2), url (1)
-> **Code Keywords:** pass (7), module (4), let (3), this, (1), for. (1)
 > **CLI Commands:** python (8), make (4), find (1)
 > **Analogies:** just like (1), for example (1)
 > **Code Identifiers:** searchbelize (1)
@@ -2669,7 +2669,7 @@ created: 2026-04-29
 
 ### 4. Using List Functions to Get to the ArcGIS Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980)
@@ -2812,8 +2812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** strlayers (14), mylist (4), mynum (3), strlayername (1)
-> **Code Keywords:** let (4), this. (2), function (2), this, (1), this: (1)
 > **CLI Commands:** python (3)
 > **Analogies:** for example (2), similar to (1)
 > **Cross-References:** earlier in (1)
@@ -3014,7 +3014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), throw (2), module (1)
+> **Frameworks & Libraries:** feature (5), gis (3), [[Search]] (3), [[ArcGIS Pro]] (2), data (2)
 > **Code Identifiers:** listofmaps (6), listmaps (4), listlayouts (1)
 > **CLI Commands:** make (4), python (2)
 > **Env Vars:** gis (3), current (2)
@@ -3216,7 +3216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), while, (1), case, (1), for, (1)
+> **Frameworks & Libraries:** feature (9), next (6), [[Python (Programming Language)|Python]] (6), data (3), gis (3)
 > **Definitions:** is a  (6), means that (1), is called (1)
 > **CLI Commands:** python (6), find (1)
 > **Env Vars:** gis (3), str (3), strfc (1)
@@ -3297,8 +3297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), feature (1)
 > **Code Identifiers:** eachlayer (3), listmaps (2), listoflayers (2), listlayers (1)
-> **Code Keywords:** let (2), this, (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** aprx (2)
 > **Exercise Files:** exercise files (1)
@@ -3496,7 +3496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (2), this, (1), return, (1), class, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[SQL]] (2), next (1), data (1), hit (1)
 > **CLI Commands:** make (6), python (2)
 > **Code Identifiers:** listmaps (3), eachmap (2), listlayers (1), listlabelclasses (1)
 > **Env Vars:** sql (2)
@@ -3657,7 +3657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), else, (3), this. (1), if. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[ArcGIS Pro]] (1), feature (1), [[Microsoft Word|Word]] (1), prompt (1)
 > **CLI Commands:** make (6), python (3)
 > **Code Identifiers:** strinput (3), isdigit (1), isfile (1)
 > **Analogies:** for example (3), just like (2)
@@ -3891,7 +3891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), module (3), class. (1), pass (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (15), gis (13), feature (7), web (5), data (5)
 > **Env Vars:** gis (5), agol (4), api (2)
 > **CLI Commands:** make (4), python (3), find (3)
 > **URLs:** [arcgis.com](https://arcgis.com) (2), [http://www.arcgis.com](http://www.arcgis.com) (1)
@@ -3981,7 +3981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), module (1), class. (1), this, (1)
+> **Frameworks & Libraries:** feature (15), data (3), web (2), gis (2), [[Databases]] (2)
 > **Env Vars:** gis (2), arc (1), cad (1)
 > **Code Identifiers:** eachfc (1), fcdesc (1), shapetype (1)
 > **Definitions:** is a  (3)
@@ -4013,8 +4013,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[ArcGIS Pro]] (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** let (1), try. (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -4099,9 +4099,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Search]] (1), [[Microsoft Word|Word]] (1), [[Scripting]] (1)
 > **Code Identifiers:** eachlayer (3), listoflayers (2), listmaps (1), listlayers (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -4110,7 +4110,7 @@ created: 2026-04-29
 
 ### 5. Reading from and Writing to a File
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Read from and write to a text file
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980)
@@ -4255,7 +4255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), this. (2), type, (1), pass (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (5), gis (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (7), make (2)
 > **Code Identifiers:** infile (2), outfile (2)
 > **Env Vars:** csv (2), gis (1), txt (1)
@@ -4463,9 +4463,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), database (2), next (1)
 > **CLI Commands:** make (12), python (3), find (2)
 > **Code Identifiers:** reccount (4), readline (3), infile (3), eachrec (2), listrec (2)
-> **Code Keywords:** let (6), pass (2), this, (2), function (1), type, (1)
 > **Prerequisites:** you'll need (1), make sure you have (1), before we start (1)
 > **Env Vars:** csv (2)
 > **UI Navigation:** open the (2)
@@ -4667,7 +4667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), function (1), delete (1), pass (1)
+> **Frameworks & Libraries:** data (12), [[ArcGIS Pro]] (3), [[Search]] (3), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), find (2), python (1)
 > **Env Vars:** aprx (3), straprx (2), str (2)
 > **UI Navigation:** open the (2)
@@ -4709,7 +4709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), new, (1), let (1), try. (1)
+> **Frameworks & Libraries:** feature (3), [[Python (Programming Language)|Python]] (1), [[ArcGIS Pro]] (1), next (1)
 > **Env Vars:** nad27 (2)
 > **CLI Commands:** python (1)
 > **Cross-References:** next video (1)
@@ -4851,8 +4851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (7), [[Scripting]] (1), next (1), hit (1)
 > **Code Identifiers:** descfc (2), spatialref (2), eachfc (1), spatialreference (1)
-> **Code Keywords:** from, (1), class, (1), class. (1), if ( (1), this. (1)
 > **Env Vars:** nad27 (3), nad_1927 (2)
 > **CLI Commands:** make (4)
 > **File Paths:** arcpy.env (1), nad27datasets.txt (1)
@@ -4863,7 +4863,7 @@ created: 2026-04-29
 
 ### 6. Attaching Your Script to a Tool in ArcGIS Pro
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making scripts dynamic
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980)
@@ -4970,8 +4970,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[ArcGIS Pro]] (4), feature (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (7), make (2), find (2)
-> **Code Keywords:** let (5), include: (1)
 > **Tools:** command line (6)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -5138,7 +5138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), new, (2), else. (1), finally, (1), class. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (5), feature (3), generic (1)
 > **CLI Commands:** python (5), find (2)
 > **UI Navigation:** click on (3), go to (1), open the (1)
 > **Prerequisites:** set up (4)
@@ -5148,7 +5148,7 @@ created: 2026-04-29
 
 ### 7. Creating Help Documentation for a Script
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating help documentation for a script tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980)
@@ -5185,6 +5185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (2), gis (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Env Vars:** gis (1)
@@ -5194,7 +5195,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980)
@@ -5223,9 +5224,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (2), data (2), [[Scripting]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1), find (1)
 > **Env Vars:** gis (2)
-> **Code Keywords:** continue (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - we (1)

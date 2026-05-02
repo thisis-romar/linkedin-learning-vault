@@ -28,7 +28,7 @@ tags:
   - skill/sustainable-business
   - skill/workplace-transformation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Tips%20to%20Make%20Your%20Office%20Eco-Friendly.md)
@@ -47,30 +47,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Greening your workplace
+  - [Greening your workplace](#greening-your-workplace)
 - [**1. Encourage and Embrace Sustainable Personal Habits at Work**](#1-encourage-and-embrace-sustainable-personal-habits-at-work) (4 videos)
-  - Bring your own reusables
-  - Pack your lunch
-  - Commute responsibly
-  - Be a changemaker in your office
+  - [Bring your own reusables](#bring-your-own-reusables)
+  - [Pack your lunch](#pack-your-lunch)
+  - [Commute responsibly](#commute-responsibly)
+  - [Be a changemaker in your office](#be-a-changemaker-in-your-office)
 - [**2. Energy-Efficient Shifts for Your Office**](#2-energy-efficient-shifts-for-your-office) (5 videos)
-  - Conduct an energy audit at work
-  - Embrace natural and eco-friendly lighting
-  - Opt for laptops
-  - Adopt a digital-first policy
-  - Beware of energy vampires
+  - [Conduct an energy audit at work](#conduct-an-energy-audit-at-work)
+  - [Embrace natural and eco-friendly lighting](#embrace-natural-and-eco-friendly-lighting)
+  - [Opt for laptops](#opt-for-laptops)
+  - [Adopt a digital-first policy](#adopt-a-digital-first-policy)
+  - [Beware of energy vampires](#beware-of-energy-vampires)
 - [**3. Easy Eco-Shifts in the Workplace**](#3-easy-eco-shifts-in-the-workplace) (5 videos)
-  - Secondhand-first at work
-  - Ditch the swag
-  - Institute in-office composting
-  - Encourage meat-free days or challenges
-  - Revisit work-from-home and travel policies to reduce carbon
+  - [Secondhand-first at work](#secondhand-first-at-work)
+  - [Ditch the swag](#ditch-the-swag)
+  - [Institute in-office composting](#institute-in-office-composting)
+  - [Encourage meat-free days or challenges](#encourage-meat-free-days-or-challenges)
+  - [Revisit work-from-home and travel policies to reduce carbon](#revisit-work-from-home-and-travel-policies-to-reduce-carbon)
 - [**Conclusion**](#conclusion) (1 videos)
-  - You are part of the solution
+  - [You are part of the solution](#you-are-part-of-the-solution)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Greening your workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980)
@@ -95,15 +95,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - by (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 1. Encourage and Embrace Sustainable Personal Habits at Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bring your own reusables
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980)
@@ -204,8 +204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Sustainability]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** super (1), try. (1)
 > **Env Vars:** byor (1), byo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -290,8 +290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** byor (1)
 > **Versions:** 4.9 (1)
 > **Speakers:** - there (1)
@@ -385,8 +385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), hit (1), career (1), [[Accountability]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), public (1), new. (1)
 > **Env Vars:** co2 (2), hov (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - ralph (1)
@@ -466,15 +466,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Sustainability]] (1)
 > **CLI Commands:** make (2), cat (1)
-> **Code Keywords:** extends (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
 
 ### 2. Energy-Efficient Shifts for Your Office
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conduct an energy audit at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980)
@@ -563,8 +563,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), [[Electronics]] (3), power (2), [[Sustainability]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** require (1), this, (1), public (1)
 > **Env Vars:** diy (1), esg (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -658,7 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1), throw (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), [[Windows]] (1), power (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** led (2)
 > **Definitions:** is a  (2)
@@ -731,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), power (3), [[Sustainability]] (1), [[Electronics]] (1), game (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -825,8 +825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Statistics]] (1), cloud (1), [[Security]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (1), picture (1)
 > **Env Vars:** bpa (1)
 > **Cross-References:** in the last (1)
@@ -890,15 +890,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), [[Microsoft Office|Office]] (3), [[Electronics]] (1), game (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - by (1)
 
 
 ### 3. Easy Eco-Shifts in the Workplace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secondhand-first at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980)
@@ -979,9 +979,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (10), functional (2), [[Google]] (1), [[Search]] (1), [[Electronics]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), cat (1)
-> **Code Keywords:** break. (1), yield (1), new, (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - so (1)
 
@@ -1068,8 +1068,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Definitions:** is an  (2), is a  (2)
-> **Code Keywords:** raise (1), public (1), let (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** usb (1)
 > **Speakers:** - don (1)
@@ -1157,9 +1157,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), next (1), power (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** self (1)
 > **Speakers:** - i (1)
 
 #### Encourage meat-free days or challenges
@@ -1225,9 +1225,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Sustainability]] (1), [[Wellness]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (2)
-> **Code Keywords:** this, (1)
 > **Env Vars:** osha (1)
 > **Speakers:** - i (1)
 
@@ -1298,14 +1298,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), case, (1)
+> **Frameworks & Libraries:** business (3), [[Microsoft Office|Office]] (1), [[Sustainability]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### You are part of the solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980)
@@ -1330,6 +1330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [ashleepiper.com](https://ashleepiper.com) (1)
 > **Definitions:** is an  (1)

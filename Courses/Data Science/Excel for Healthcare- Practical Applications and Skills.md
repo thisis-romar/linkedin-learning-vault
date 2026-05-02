@@ -33,7 +33,7 @@ tags:
   - skill/microsoft-excel
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20for%20Healthcare-%20Practical%20Applications%20and%20Skills.md)
@@ -52,38 +52,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Benefits of using Excel in healthcare
-  - Why Excel is relevant to healthcare
-  - The anatomy and navigation of the Excel interface
+  - [Benefits of using Excel in healthcare](#benefits-of-using-excel-in-healthcare)
+  - [Why Excel is relevant to healthcare](#why-excel-is-relevant-to-healthcare)
+  - [The anatomy and navigation of the Excel interface](#the-anatomy-and-navigation-of-the-excel-interface)
 - [**1. Patient Data Management and Analysis with Excel**](#1-patient-data-management-and-analysis-with-excel) (7 videos)
-  - Creating patient biodata entry forms with Excel
-  - Designing patient care coordination templates with Excel
-  - Analyzing patient demographics with Excel
-  - Performing patient wait time analysis with Excel
-  - Analyzing your patient satisfaction survey with Excel
-  - Build a disease outbreak monitoring dashboard: Part 1
-  - Build a disease outbreak monitoring dashboard: Part 2
+  - [Creating patient biodata entry forms with Excel](#creating-patient-biodata-entry-forms-with-excel)
+  - [Designing patient care coordination templates with Excel](#designing-patient-care-coordination-templates-with-excel)
+  - [Analyzing patient demographics with Excel](#analyzing-patient-demographics-with-excel)
+  - [Performing patient wait time analysis with Excel](#performing-patient-wait-time-analysis-with-excel)
+  - [Analyzing your patient satisfaction survey with Excel](#analyzing-your-patient-satisfaction-survey-with-excel)
+  - [Build a disease outbreak monitoring dashboard: Part 1](#build-a-disease-outbreak-monitoring-dashboard-part-1)
+  - [Build a disease outbreak monitoring dashboard: Part 2](#build-a-disease-outbreak-monitoring-dashboard-part-2)
 - [**2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management**](#2-excel-for-healthcare-operations-scheduling-tracking-and-project-management) (5 videos)
-  - Creating a nursing staff schedule with Excel: Part 1
-  - Creating a nursing staff schedule with Excel: Part 2
-  - Tracking laboratory test samples and results with Excel
-  - Schedule and track quality improvement meeting attendance
-  - Track project timelines with Gantt charts
+  - [Creating a nursing staff schedule with Excel: Part 1](#creating-a-nursing-staff-schedule-with-excel-part-1)
+  - [Creating a nursing staff schedule with Excel: Part 2](#creating-a-nursing-staff-schedule-with-excel-part-2)
+  - [Tracking laboratory test samples and results with Excel](#tracking-laboratory-test-samples-and-results-with-excel)
+  - [Schedule and track quality improvement meeting attendance](#schedule-and-track-quality-improvement-meeting-attendance)
+  - [Track project timelines with Gantt charts](#track-project-timelines-with-gantt-charts)
 - [**3. Excel for Clinical Use and Research in Healthcare**](#3-excel-for-clinical-use-and-research-in-healthcare) (4 videos)
-  - Creating a medication dosage calculation sheet in Excel
-  - Developing a symptom tracker in Excel: Part 1
-  - Developing a symptom tracker in Excel: Part 2
-  - Creating a patient discharge planning checklist
+  - [Creating a medication dosage calculation sheet in Excel](#creating-a-medication-dosage-calculation-sheet-in-excel)
+  - [Developing a symptom tracker in Excel: Part 1](#developing-a-symptom-tracker-in-excel-part-1)
+  - [Developing a symptom tracker in Excel: Part 2](#developing-a-symptom-tracker-in-excel-part-2)
+  - [Creating a patient discharge planning checklist](#creating-a-patient-discharge-planning-checklist)
 - [**4. Healthcare Supply Chain Management with Excel**](#4-healthcare-supply-chain-management-with-excel) (3 videos)
-  - Creating an inventory tracker for an antiretroviral clinic
-  - Forecast stock needs for regional vaccination centers
-  - Pricing management for a community pharmacy inventory
+  - [Creating an inventory tracker for an antiretroviral clinic](#creating-an-inventory-tracker-for-an-antiretroviral-clinic)
+  - [Forecast stock needs for regional vaccination centers](#forecast-stock-needs-for-regional-vaccination-centers)
+  - [Pricing management for a community pharmacy inventory](#pricing-management-for-a-community-pharmacy-inventory)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Expanding your skills in healthcare analytics
+  - [Expanding your skills in healthcare analytics](#expanding-your-skills-in-healthcare-analytics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of using Excel in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980)
@@ -106,8 +106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Decision-Making]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - healthcare (1)
 
 #### Why Excel is relevant to healthcare
@@ -159,8 +159,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), data (8), [[Microsoft Excel]] (1), game (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** interface (1), finally, (1)
 > **CLI Commands:** python (1)
 > **Analogies:** such as (1)
 > **Speakers:** - microsoft (1)
@@ -226,8 +226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Microsoft]] (1), [[Microsoft Office|Office]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (1), select the (1), click on (1), toggle (1), checkbox (1)
-> **Code Keywords:** let (2), interface (1), type, (1)
 > **Analogies:** for example (1), picture (1)
 > **URLs:** [office.com](https://office.com) (1)
 > **Definitions:** is called (1)
@@ -237,7 +237,7 @@ created: 2026-04-29
 
 ### 1. Patient Data Management and Analysis with Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating patient biodata entry forms with Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980)
@@ -336,7 +336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), function (1), interface (1), this, (1)
+> **Frameworks & Libraries:** data (20), [[Search]] (2), [[Microsoft Excel|Excel]] (1), [[Forms]] (1)
 > **UI Navigation:** click on (3), dropdown (2), select the (1), go to (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), just like (1), such as (1)
@@ -409,8 +409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (3), dropdown (3), select the (2)
-> **Code Keywords:** let (2), this. (1), self (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), for example (1)
 > **Exercise Files:** template (1)
@@ -558,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), if. (1), this, (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (1)
 > **UI Navigation:** click on (3), right-click (1), select the (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -668,7 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), for. (2), this, (1)
+> **Frameworks & Libraries:** data (8), power (1), [[Microsoft Excel|Excel]] (1), [[Statistics]] (1)
 > **UI Navigation:** select the (2), go to (1)
 > **Ports:** :06 (1), :27 (1)
 > **Analogies:** for example (1), picture (1)
@@ -792,7 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), else. (1)
+> **Frameworks & Libraries:** data (5)
 > **UI Navigation:** click on (2), select the (1), toggle (1)
 > **Versions:** 2.93 (1), 3.02 (1), 3.06 (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -932,7 +932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (4), finally, (1), from, (1), type. (1)
+> **Frameworks & Libraries:** data (8), next (1)
 > **Analogies:** such as (4), for example (3), just like (1)
 > **UI Navigation:** click on (4), select the (2), navigate to (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -1116,7 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (3), public (2), this. (2), this, (1)
+> **Frameworks & Libraries:** data (6), [[Public Health]] (2), next (1), power (1)
 > **UI Navigation:** click on (9)
 > **Env Vars:** kpi (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -1128,7 +1128,7 @@ created: 2026-04-29
 
 ### 2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a nursing staff schedule with Excel: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980)
@@ -1261,7 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), for. (1), function (1), continue (1)
+> **Frameworks & Libraries:** data (4), next (2), database (2), teams (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (5), select the (3), dropdown (1)
 > **Ports:** :00 (4)
 > **CLI Commands:** make (3)
@@ -1329,6 +1329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (2)
 > **UI Navigation:** click on (3), dropdown (1), select the (1), scroll down (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous video (1)
@@ -1435,7 +1436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (2), type. (1), from, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3), management (1)
 > **UI Navigation:** click on (4), select the (2)
 > **Versions:** 13.5 (2), 17.5 (2)
 > **CLI Commands:** make (3)
@@ -1536,7 +1537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (1), database (1)
 > **UI Navigation:** go to (2), dropdown (1), select the (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
@@ -1615,7 +1616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (2), this. (1)
+> **Frameworks & Libraries:** data (2), management (1)
 > **UI Navigation:** click on (2), right-click (2), double-click (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
@@ -1624,7 +1625,7 @@ created: 2026-04-29
 
 ### 3. Excel for Clinical Use and Research in Healthcare
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a medication dosage calculation sheet in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980)
@@ -1687,7 +1688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1), data (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
@@ -1782,8 +1783,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (2)
 > **Env Vars:** vstack (4), a20 (4), p0572 (3), p0174 (1), calc (1)
-> **Code Keywords:** let (5), this. (1)
 > **Analogies:** such as (1), for example (1), just like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1901,7 +1902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), type, (1)
+> **Frameworks & Libraries:** data (7), [[Windows]] (2)
 > **UI Navigation:** click on (4), select the (1), dropdown (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), later in (1)
@@ -2012,7 +2013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), if, (1), this. (1)
+> **Frameworks & Libraries:** management (1)
 > **UI Navigation:** checkbox (5)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
@@ -2021,7 +2022,7 @@ created: 2026-04-29
 
 ### 4. Healthcare Supply Chain Management with Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an inventory tracker for an antiretroviral clinic
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980)
@@ -2110,7 +2111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), for. (1), this. (1)
+> **Frameworks & Libraries:** management (1), [[Windows]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sumif (4)
 > **UI Navigation:** select the (1), click on (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2223,7 +2224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1)
+> **Frameworks & Libraries:** data (10), [[Forecasting]] (3), next (2), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** forecast (2), unique (1), year (1), texta2 (1), ets (1)
 > **UI Navigation:** right-click (3), go to (1), scroll down (1), click on (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
@@ -2325,7 +2326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** product (4), data (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 0.12 (1), 0.8 (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -2337,7 +2338,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expanding your skills in healthcare analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980)
@@ -2368,8 +2369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), next (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [narrator] (1)
 
 

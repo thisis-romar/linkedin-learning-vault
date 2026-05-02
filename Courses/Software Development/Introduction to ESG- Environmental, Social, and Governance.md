@@ -31,7 +31,7 @@ tags:
   - skill/sustainable-business-strategy
   - skill/environmental-social-and-governance-esg
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Introduction%20to%20ESG-%20Environmental%2C%20Social%2C%20and%20Governance.md)
@@ -50,32 +50,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Environmental, social, and governance concerns
+  - [Environmental, social, and governance concerns](#environmental-social-and-governance-concerns)
 - [**1. Introduction to ESG Concepts**](#1-introduction-to-esg-concepts) (6 videos)
-  - What is ESG?
-  - The demand for ESG
-  - Benefits of a strong ESG program
-  - ESG risks
-  - Sustainable investing
-  - Sustainable investing approaches
+  - [What is ESG?](#what-is-esg)
+  - [The demand for ESG](#the-demand-for-esg)
+  - [Benefits of a strong ESG program](#benefits-of-a-strong-esg-program)
+  - [ESG risks](#esg-risks)
+  - [Sustainable investing](#sustainable-investing)
+  - [Sustainable investing approaches](#sustainable-investing-approaches)
 - [**2. A Deeper Dive into the Environmental, Social, and Governance Pillars**](#2-a-deeper-dive-into-the-environmental-social-and-governance-pillars) (4 videos)
-  - The E of ESG
-  - The S of ESG
-  - The G of ESG
-  - ESG factors and metrics
+  - [The E of ESG](#the-e-of-esg)
+  - [The S of ESG](#the-s-of-esg)
+  - [The G of ESG](#the-g-of-esg)
+  - [ESG factors and metrics](#esg-factors-and-metrics)
 - [**3. ESG Reporting and Ratings**](#3-esg-reporting-and-ratings) (4 videos)
-  - ESG reporting
-  - ESG reporting types
-  - ESG ratings
-  - Communicating ESG while avoiding greenwashing
+  - [ESG reporting](#esg-reporting)
+  - [ESG reporting types](#esg-reporting-types)
+  - [ESG ratings](#esg-ratings)
+  - [Communicating ESG while avoiding greenwashing](#communicating-esg-while-avoiding-greenwashing)
 - [**4. ESG Careers**](#4-esg-careers) (1 videos)
-  - ESG upskilling
+  - [ESG upskilling](#esg-upskilling)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Environmental, social, and governance concerns
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/environmental-social-and-governance-concerns?u=76281980)
@@ -94,14 +94,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **Env Vars:** esg (5)
-> **Code Keywords:** let (1)
 > **Speakers:** - you (1)
 
 
 ### 1. Introduction to ESG Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ESG?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/what-is-esg?u=76281980)
@@ -136,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (2), leadership (1), business (1), management (1), next (1)
 > **Env Vars:** esg (11), csr (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -174,9 +175,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Climate Change]] (2), management (2), data (1), next (1)
 > **Env Vars:** esg (6), sif (1), pwc (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (2)
 > **Versions:** 17.1 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -216,8 +217,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Climate Change]] (2), management (1), [[Sustainable Business]] (1), [[Sustainability]] (1)
 > **Env Vars:** esg (8)
-> **Code Keywords:** require (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
@@ -253,6 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Climate Change]] (2), [[Ethics]] (2), management (2), [[Privacy]] (2)
 > **Env Vars:** esg (6)
 > **Analogies:** such as (3), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -294,6 +296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), next (1)
 > **Env Vars:** esg (6), pri (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -351,6 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), data (2), [[Ethics]] (1), power (1)
 > **Env Vars:** esg (14), unpri (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Analogies:** for example (2), such as (1)
@@ -360,7 +364,7 @@ created: 2026-04-29
 
 ### 2. A Deeper Dive into the Environmental, Social, and Governance Pillars
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The E of ESG
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980)
@@ -423,10 +427,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), next (4), [[Climate Change]] (2), [[Microsoft Products|Products]] (2), product (2)
 > **Env Vars:** esg (3), ghg (2)
 > **CLI Commands:** find (4)
 > **Definitions:** refers to (3), known as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### The S of ESG
@@ -470,9 +474,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Supply Chain Management]] (2), business (1), [[Career Development]] (1)
 > **Env Vars:** esg (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### The G of ESG
@@ -506,9 +510,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Accountability]] (1), management (1), [[Security]] (1), [[Climate Change]] (1)
 > **Env Vars:** esg (7)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [narrator] (1)
 
 #### ESG factors and metrics
@@ -564,15 +568,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), business (2), [[Decision-Making]] (2), data (2), [[Climate Change]] (1)
 > **Env Vars:** esg (14)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. ESG Reporting and Ratings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ESG reporting
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting?u=76281980)
@@ -615,8 +619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (2), data (1), next (1)
 > **Env Vars:** esg (12), gri (1), csr (1)
-> **Code Keywords:** public (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -681,10 +685,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Corporate Sustainability]] (2), management (2), [[Climate Change]] (1), next (1)
 > **Env Vars:** esg (19), tcfd (4), cdp (3), gri (2), sasb (2)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from. (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -724,8 +728,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (1), data (1), [[Financial Analysis]] (1)
 > **Env Vars:** esg (18), msci (2), ccc (1), aaa (1), ftse (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [speaker] (1)
@@ -777,17 +781,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), data (2), [[Financial Statements]] (1), [[Sustainability]] (1)
 > **Env Vars:** esg (7), pwc (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. ESG Careers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ESG upskilling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980)
@@ -828,8 +832,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (2), business (1), [[Human Resources (HR)|Human resources]] (1), [[Career Development]] (1), teams (1)
 > **Env Vars:** esg (13), gri (1), cdp (1), tcfd (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -837,7 +841,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/next-steps-23138038?u=76281980)
@@ -858,8 +862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Climate Change]] (1), game (1), next (1)
 > **Env Vars:** esg (5)
-> **Code Keywords:** continue (1)
 > **URLs:** [fulyakocak.com](https://fulyakocak.com) (1)
 > **Speakers:** - great (1)
 

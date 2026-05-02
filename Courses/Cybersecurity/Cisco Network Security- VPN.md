@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cisco-vpn
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20VPN.md)
@@ -48,45 +48,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Securing data in transit
-  - Discovering resources
-  - Using Packet Tracer
-  - Enrolling in Cisco Network Academy
+  - [Securing data in transit](#securing-data-in-transit)
+  - [Discovering resources](#discovering-resources)
+  - [Using Packet Tracer](#using-packet-tracer)
+  - [Enrolling in Cisco Network Academy](#enrolling-in-cisco-network-academy)
 - [**1. Understand VPN Concepts**](#1-understand-vpn-concepts) (7 videos)
-  - Describing a VPN
-  - Evaluating types of VPNs
-  - Recognizing VPN topologies
-  - Comparing the main types of VPNs
-  - Dissecting VPN components
-  - Discovering the Cisco ASA
-  - Using the Cisco ASDM
+  - [Describing a VPN](#describing-a-vpn)
+  - [Evaluating types of VPNs](#evaluating-types-of-vpns)
+  - [Recognizing VPN topologies](#recognizing-vpn-topologies)
+  - [Comparing the main types of VPNs](#comparing-the-main-types-of-vpns)
+  - [Dissecting VPN components](#dissecting-vpn-components)
+  - [Discovering the Cisco ASA](#discovering-the-cisco-asa)
+  - [Using the Cisco ASDM](#using-the-cisco-asdm)
 - [**2. Discover IP Security (IPsec)**](#2-discover-ip-security-ipsec) (5 videos)
-  - Summarizing IPsec
-  - Reviewing IPsec components
-  - Using the IPsec AH
-  - Outlining the IPsec ESP
-  - Evaluating operating modes
+  - [Summarizing IPsec](#summarizing-ipsec)
+  - [Reviewing IPsec components](#reviewing-ipsec-components)
+  - [Using the IPsec AH](#using-the-ipsec-ah)
+  - [Outlining the IPsec ESP](#outlining-the-ipsec-esp)
+  - [Evaluating operating modes](#evaluating-operating-modes)
 - [**3. Configure a VPN**](#3-configure-a-vpn) (4 videos)
-  - Connecting with an always-on VPN
-  - Comparing hairpin vs. split tunnel
-  - Translating the network address
-  - Traversing through a NAT device
+  - [Connecting with an always-on VPN](#connecting-with-an-always-on-vpn)
+  - [Comparing hairpin vs. split tunnel](#comparing-hairpin-vs-split-tunnel)
+  - [Translating the network address](#translating-the-network-address)
+  - [Traversing through a NAT device](#traversing-through-a-nat-device)
 - [**4. Examine a Remote Access VPN**](#4-examine-a-remote-access-vpn) (4 videos)
-  - Challenge: Clientless SSL VPN
-  - Solution: Clientless SSL VPN
-  - Employing an AnyConnect SSL VPN
-  - Assessing endpoint posture
+  - [Challenge: Clientless SSL VPN](#challenge-clientless-ssl-vpn)
+  - [Solution: Clientless SSL VPN](#solution-clientless-ssl-vpn)
+  - [Employing an AnyConnect SSL VPN](#employing-an-anyconnect-ssl-vpn)
+  - [Assessing endpoint posture](#assessing-endpoint-posture)
 - [**5. Investigate a Site-to-Site VPN**](#5-investigate-a-site-to-site-vpn) (4 videos)
-  - Ensuring Perfect Forward Secrecy
-  - Setting up an IPsec site-to-site VPN
-  - Challenge: Configure a site-to-site VPN
-  - Solution: Configure a site-to-site VPN
+  - [Ensuring Perfect Forward Secrecy](#ensuring-perfect-forward-secrecy)
+  - [Setting up an IPsec site-to-site VPN](#setting-up-an-ipsec-site-to-site-vpn)
+  - [Challenge: Configure a site-to-site VPN](#challenge-configure-a-site-to-site-vpn)
+  - [Solution: Configure a site-to-site VPN](#solution-configure-a-site-to-site-vpn)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing data in transit
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/securing-data-in-transit?u=76281980)
@@ -113,8 +113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (3), [[Security]] (1), [[Network Security]] (1)
 > **Env Vars:** vpn (3), sec (2), ssh (1), ssl (1), ccna (1)
-> **Code Keywords:** private (1), public (1), super (1), let (1)
 > **CLI Commands:** ssh (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [lisa] (1)
@@ -146,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ccna (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -265,7 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), delete (4), include, (1), this. (1), let (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), application (2), [[Cisco Networking]] (2), [[Zoom]] (2), hit (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Analogies:** for example (2), it's like (1)
 > **CLI Commands:** make (1), find (1)
@@ -301,7 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Programming]] (1)
 > **Env Vars:** ccna (3)
 > **Prerequisites:** you'll need (2)
 > **URLs:** [netacad.com](https://netacad.com) (1)
@@ -313,7 +313,7 @@ created: 2026-04-29
 
 ### 1. Understand VPN Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing a VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980)
@@ -364,8 +364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (10), data (4), [[Virtual Private Network (VPN)|Virtual private network]] (3), [[Microsoft]] (2), cloud (1)
 > **Env Vars:** vpn (10), ssl (1)
-> **Code Keywords:** private (4), let (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** setup (1)
@@ -432,8 +432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (10), data (3), [[Security]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), application (1)
 > **Env Vars:** vpn (10), ssl (6), tls (5), osi (2), https (2)
-> **Code Keywords:** let (2), interface (1), require (1), case, (1)
 > **Ports:** port 22 (2), port 443 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (3)
@@ -504,8 +504,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (15), [[Mesh]] (9), business (5), [[Microsoft Office|Office]] (4), lan (1)
 > **Env Vars:** vpn (15), lan (1), wan (1)
-> **Code Keywords:** private (2), require (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** configure (2)
 > **Analogies:** such as (1)
@@ -570,10 +570,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (24), [[Security]] (2), [[Windows]] (1), [[Microsoft Office|Office]] (1), traffic (1)
 > **Env Vars:** vpn (24), ssl (4), tcp (1), tls (1), asa (1)
 > **Analogies:** such as (3), for example (1)
 > **Prerequisites:** configure (2), install (1)
-> **Code Keywords:** pass (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -630,8 +630,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (13), [[Hardware]] (5), data (4), [[Algorithms]] (4), [[Security]] (1)
 > **Env Vars:** vpn (13), aes (2), sha (2), rsa (2), ike (1)
-> **Code Keywords:** require (2), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -696,9 +696,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Security]] (1), vpn (1), cloud (1), [[Cybersecurity]] (1)
 > **Env Vars:** asa (9), ccna (1), vpn (1)
 > **Non-Speech:** (mouse clicking) (3)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** configure (2)
 > **Definitions:** is a  (1)
@@ -764,7 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (10), let (2), function (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Search]] (2), [[Windows]] (2), [[Network Security]] (1), [[Simulation Software]] (1)
 > **Env Vars:** asa (6), vpn (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4), similar to (1)
@@ -776,7 +776,7 @@ created: 2026-04-29
 
 ### 2. Discover IP Security (IPsec)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing IPsec
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980)
@@ -839,8 +839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), [[Algorithms]] (7), management (3), lan (1), data (1)
 > **Env Vars:** lan (1), tcp (1), ssl (1), ike (1), aes (1)
-> **Code Keywords:** let (2), static (1), pass (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -915,9 +915,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Algorithms]] (4), vpn (3), management (3), traffic (2)
 > **Env Vars:** vpn (3), aes (3), isakmp (2), sha (2), ike (2)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (3)
 > **Prerequisites:** configure (2), set up (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Analogies:** such as (2)
@@ -979,8 +979,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), data (3), [[Algorithms]] (2), traffic (1)
 > **Definitions:** is an  (4), is a  (2)
-> **Code Keywords:** let (2), function (1)
 > **Env Vars:** sha (2), aes (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [educator] (1)
@@ -1050,8 +1050,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (22), data (6), [[Algorithms]] (3), traffic (2), feature (2)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** nat (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -1111,14 +1111,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (2), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Security]] (3), vpn (1), [[Routing]] (1), next (1)
 > **Env Vars:** nat (2), vpn (1), wan (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Configure a VPN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting with an always-on VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/connecting-with-an-always-on-vpn?u=76281980)
@@ -1179,9 +1179,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (17), traffic (4), [[Security]] (3), web (2), lan (1)
 > **Env Vars:** vpn (17), asa (2), lan (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** default. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1230,10 +1230,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (20), vpn (10), [[Microsoft Office|Office]] (6), [[Security]] (1), lan (1)
 > **Env Vars:** vpn (10), lan (1)
 > **Analogies:** such as (5), for example (1)
 > **UI Navigation:** go to (3)
-> **Code Keywords:** public (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - [announcer] (1)
 
@@ -1290,8 +1290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), traffic (2), [[IP Addressing]] (1), [[Search]] (1), vpn (1)
 > **Env Vars:** nat (9), pat (4), napt (1), vpn (1)
-> **Code Keywords:** public (6), private (2), pass (1)
 > **Versions:** 10.10.20 (2), 145.44.68 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1423,8 +1423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), [[Wireshark]] (4), traffic (3), vpn (2), feature (1)
 > **Env Vars:** nat (17), pat (9), udp (9), isakmp (4), vpn (2)
-> **Code Keywords:** let (10), pass (3), export, (2), private (1), public (1)
 > **Ports:** port 4500 (4), port 500 (4)
 > **UI Navigation:** go to (5)
 > **Exercise Files:** download the (3)
@@ -1434,7 +1434,7 @@ created: 2026-04-29
 
 ### 4. Examine a Remote Access VPN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Clientless SSL VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-clientless-ssl-vpn?u=76281980)
@@ -1489,9 +1489,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (12), web (1), dns (1), [[Cybersecurity]] (1)
 > **Env Vars:** vpn (12), ssl (6), asa (6), http (1), dns (1)
 > **UI Navigation:** go to (3), open the (1)
-> **Code Keywords:** let (2), include: (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1584,8 +1584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), vpn (1)
 > **Env Vars:** asa (11), pc0 (3), url (1), pc1 (1), ssl (1)
-> **Code Keywords:** class, (2), else. (2), let (1), this, (1), class. (1)
 > **UI Navigation:** go to (5), scroll down (1)
 > **Cross-References:** go back to (2)
 > **Versions:** 192.168.1 (1)
@@ -1624,8 +1624,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), web (3), vpn (2), [[Virtual Machines]] (1)
 > **Env Vars:** vpn (2), ssl (2), asa (2)
-> **Code Keywords:** module (1), include: (1), interface (1)
 > **Prerequisites:** configure (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1674,9 +1674,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (3), [[Jetpack Compose|Compose]] (1), [[Wireshark]] (1), [[Search]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** vpn (3), asa (3), http (2), tcp (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** public (1)
 > **UI Navigation:** right-click (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [educator] (1)
@@ -1684,7 +1684,7 @@ created: 2026-04-29
 
 ### 5. Investigate a Site-to-Site VPN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensuring Perfect Forward Secrecy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980)
@@ -1741,7 +1741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (3), protected (1), let (1)
+> **Frameworks & Libraries:** data (5), vpn (3), traffic (2), [[Security]] (1), [[Windows]] (1)
 > **Env Vars:** vpn (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1810,9 +1810,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (7), traffic (5), [[Security]] (4), [[Algorithms]] (1)
 > **Env Vars:** vpn (7), isakmp (2), hmac (2), iso (1)
 > **Prerequisites:** configure (5), set up (1)
-> **Code Keywords:** interface (2), this. (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
 > **Tools:** command line (1)
@@ -1942,8 +1942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), vpn (3), [[Security]] (3), [[Zoom]] (2), next (2)
 > **Env Vars:** vpn (3), lan (2), pdf (1), md5 (1), sha (1)
-> **Code Keywords:** let (3), this. (1), interface (1), continue (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** configure (3), you'll need (1)
 > **UI Navigation:** scroll down (2), open the (1)
@@ -2078,8 +2078,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), vpn (7), [[Security]] (4), [[Troubleshooting]] (1), [[Windows]] (1)
 > **Env Vars:** vpn (7)
-> **Code Keywords:** let (2), interface (2), continue (1), this. (1)
 > **Prerequisites:** configure (4)
 > **CLI Commands:** make (2)
 > **Versions:** 192.168.3 (1), 2.3 (1)
@@ -2090,7 +2090,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980)
@@ -2123,6 +2123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (4), [[Network Security]] (2), data (1), [[Cryptography]] (1)
 > **Env Vars:** vpn (4), ssl (1), nat (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)

@@ -37,7 +37,7 @@ tags:
   - topic/data-science
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20SQL%20Programming.md)
@@ -56,44 +56,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Learning SQL programming
-  - Exercise files
-  - Exploring DB Browser for SQLite
-  - CoderPad tour
-  - What is a database?
-  - What is SQL?
+  - [Learning SQL programming](#learning-sql-programming)
+  - [Exercise files](#exercise-files)
+  - [Exploring DB Browser for SQLite](#exploring-db-browser-for-sqlite)
+  - [CoderPad tour](#coderpad-tour)
+  - [What is a database?](#what-is-a-database)
+  - [What is SQL?](#what-is-sql)
 - [**1. Ask for Data from a Database**](#1-ask-for-data-from-a-database) (7 videos)
-  - Ask for data with SELECT
-  - Narrow down a query with WHERE
-  - Adding more criteria to a statement
-  - Broadening and limiting responses
-  - Organize responses with ORDER BY
-  - Find information about the data
-  - Solution: Retrieve data from the database
+  - [Ask for data with SELECT](#ask-for-data-with-select)
+  - [Narrow down a query with WHERE](#narrow-down-a-query-with-where)
+  - [Adding more criteria to a statement](#adding-more-criteria-to-a-statement)
+  - [Broadening and limiting responses](#broadening-and-limiting-responses)
+  - [Organize responses with ORDER BY](#organize-responses-with-order-by)
+  - [Find information about the data](#find-information-about-the-data)
+  - [Solution: Retrieve data from the database](#solution-retrieve-data-from-the-database)
 - [**2. Ask for Data from Two or More Tables**](#2-ask-for-data-from-two-or-more-tables) (4 videos)
-  - Ask for data across two or more tables
-  - Understand JOIN types
-  - Grouping results
-  - Solution: Practice with JOINs
+  - [Ask for data across two or more tables](#ask-for-data-across-two-or-more-tables)
+  - [Understand JOIN types](#understand-join-types)
+  - [Grouping results](#grouping-results)
+  - [Solution: Practice with JOINs](#solution-practice-with-joins)
 - [**3. Data Types, Math, and Helpful Features**](#3-data-types-math-and-helpful-features) (6 videos)
-  - Data types in SQL
-  - Math in SQL
-  - Compound Select
-  - Transforming data
-  - Creating aliases with AS
-  - Solution: State score metrics
+  - [Data types in SQL](#data-types-in-sql)
+  - [Math in SQL](#math-in-sql)
+  - [Compound Select](#compound-select)
+  - [Transforming data](#transforming-data)
+  - [Creating aliases with AS](#creating-aliases-with-as)
+  - [Solution: State score metrics](#solution-state-score-metrics)
 - [**4. Add or Modify Data**](#4-add-or-modify-data) (4 videos)
-  - Add data to a table
-  - Modify data in a table
-  - Removing data from a table
-  - Solution: Identifying the correct record
+  - [Add data to a table](#add-data-to-a-table)
+  - [Modify data in a table](#modify-data-in-a-table)
+  - [Removing data from a table](#removing-data-from-a-table)
+  - [Solution: Identifying the correct record](#solution-identifying-the-correct-record)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Overcoming common SQL mistakes
-  - Next steps
+  - [Overcoming common SQL mistakes](#overcoming-common-sql-mistakes)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning SQL programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980)
@@ -130,9 +130,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (6), [[Databases]] (4), database (3), [[Programming]] (1)
 > **Env Vars:** sql (6)
 > **Prerequisites:** setup (1), you'll need (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [scott] (1)
 
 #### Exercise files
@@ -252,6 +252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[GitHub]] (10), [[Codespaces]] (6), [[SQL]] (4), management (2)
 > **Tools:** github (10), visual studio (1), terminal (1)
 > **Exercise Files:** exercise files (6), zip file (2), download the (1)
 > **CLI Commands:** find (4), make (2), unzip (1)
@@ -259,7 +260,6 @@ created: 2026-04-29
 > **Prerequisites:** install (5), you'll need (1)
 > **UI Navigation:** open the (3), click on (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
-> **Cross-References:** next video (1), in the next (1)
 
 #### Exploring DB Browser for SQLite
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/exploring-db-browser-for-sqlite?u=76281980)
@@ -416,10 +416,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (16), database (12), data (4), application (3), [[Windows]] (3)
 > **Env Vars:** sql (16)
 > **CLI Commands:** find (3), make (2), unzip (1)
 > **Prerequisites:** install (3), setup (1), set up (1)
-> **Code Keywords:** let (1), interface (1), function (1), delete (1)
 > **UI Navigation:** in the toolbar (1), open the (1), toggle (1), go to (1)
 > **Exercise Files:** exercise files (3), download the (1)
 > **URLs:** [sqlitebrowser.org](https://sqlitebrowser.org) (1)
@@ -460,6 +460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -509,6 +510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), data (3), [[Databases]] (3), [[Microsoft Excel|Excel]] (1), [[Relational Databases]] (1)
 > **Definitions:** is a  (1), is an  (1), is called (1)
 > **Prerequisites:** set up (2), before we start (1)
 > **CLI Commands:** make (2)
@@ -638,9 +640,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (23), database (17), data (9), [[Databases]] (4), [[Microsoft Products|Products]] (3)
 > **Env Vars:** sql (25), crud (3), sequel (1), dml (1), ddl (1)
 > **CLI Commands:** make (8), mysql (3), find (1)
-> **Code Keywords:** let (2), for. (2), delete (2), this, (1), extends (1)
 > **Definitions:** is a  (3), is called (2), stands for (1), short for (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** before we start (1)
@@ -649,7 +651,7 @@ created: 2026-04-29
 
 ### 1. Ask for Data from a Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ask for data with SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980)
@@ -730,7 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1)
+> **Frameworks & Libraries:** database (14), data (9), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** select (2), sql (1), crud (1)
 > **Code Identifiers:** first_name (2), last_name (1)
 > **CLI Commands:** make (1), find (1)
@@ -820,10 +822,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), data (1), [[SQL]] (1)
 > **Env Vars:** where (5), select (4), sql (1)
 > **SQL:** where (5), select (4)
 > **Code Identifiers:** shirt_or_hat (4), state_code (2)
-> **Code Keywords:** let (2), case, (1), match. (1), switch (1)
 > **Definitions:** is an  (1), means that (1), is called (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -899,10 +901,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), data (2), [[SQL]] (1), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** shirt_or_hat (7), state_code (4), first_name (1), last_name (1)
 > **Env Vars:** select (3), where (2), sql (1)
 > **SQL:** select (3), where (2)
-> **Code Keywords:** let (2), switch (1), for. (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
@@ -979,8 +981,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), data (1), [[Search]] (1)
 > **Env Vars:** limit (4), llc (1), offset (1)
-> **Code Keywords:** let (2), match, (1), switch (1), this. (1)
 > **Code Identifiers:** state_code (5)
 > **Analogies:** for example (2)
 > **UI Navigation:** scroll down (1)
@@ -1044,9 +1046,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (3), application (1), [[Customer Support]] (1)
 > **Env Vars:** order (3), asc (1), desc (1), select (1)
 > **Code Identifiers:** state_code (2), last_name (2), first_name (1)
-> **Code Keywords:** let (2), switch (1), default, (1)
 > **SQL:** order by (3), select (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** for example (2)
@@ -1126,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), case, (1), for, (1)
+> **Frameworks & Libraries:** data (4), database (3)
 > **Env Vars:** count (3), select (2), order (2), length (1), distinct (1)
 > **SQL:** select (2), order by (2), where (1)
 > **CLI Commands:** find (1), make (1)
@@ -1170,16 +1172,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** shirt_or_hat (2), last_name (2), first_name (1), state_code (1)
 > **Env Vars:** order (2), select (1), desc (1)
-> **Code Keywords:** for. (1), finally, (1), let (1)
 > **SQL:** order by (2), select (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Ask for Data from Two or More Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ask for data across two or more tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980)
@@ -1310,7 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), from. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** data (11), database (8), next (2), [[Databases]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2), is called (1)
 > **Env Vars:** sql (1), ppl (1)
@@ -1434,7 +1436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (3), match. (2), case, (1), match, (1)
+> **Frameworks & Libraries:** data (6), [[SQL]] (3), database (1), power (1), [[Databases]] (1)
 > **Analogies:** for example (3), similar to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (3)
@@ -1531,10 +1533,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), data (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** group (7), select (4), count (4)
 > **Code Identifiers:** first_name (4), quiz_points (4), state_code (3), last_name (2)
 > **SQL:** group by (7), select (4)
-> **Code Keywords:** let (3), switch (1), for, (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -1573,9 +1575,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), teams (1)
 > **SQL:** group by (2), select (1)
 > **Env Vars:** group (2), select (1)
-> **Code Keywords:** for. (1), let (1)
 > **Code Identifiers:** state_abbreviation (1), state_code (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -1585,7 +1587,7 @@ created: 2026-04-29
 
 ### 3. Data Types, Math, and Helpful Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data types in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980)
@@ -1674,7 +1676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), require (1), this, (1)
+> **Frameworks & Libraries:** data (16), database (7), [[SQL]] (4), [[Databases]] (1), game (1)
 > **Env Vars:** sql (4)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
@@ -1832,7 +1834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), case, (2), this. (1)
+> **Frameworks & Libraries:** [[SQL]] (4), database (4), management (1), application (1), data (1)
 > **Env Vars:** sql (4), avg (2)
 > **CLI Commands:** find (2)
 > **Versions:** 3.0 (1), 0.333 (1)
@@ -1901,7 +1903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), case. (1), for. (1)
+> **Frameworks & Libraries:** data (3), database (1), [[Search]] (1)
 > **Code Identifiers:** quiz_points (5), first_name (1), last_name (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
@@ -2045,7 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (5), case, (2), type, (1), this, (1)
+> **Frameworks & Libraries:** data (9), database (8), [[SQL]] (3), next (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (3), cast (3), replace (2), select (1), lower (1)
 > **Code Identifiers:** last_name (5), quiz_points (2), first_name (1)
 > **Definitions:** is a  (3)
@@ -2093,7 +2095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1), function (1)
+> **Frameworks & Libraries:** data (2), application (1), feature (1)
 > **Code Identifiers:** first_name (2), last_name (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** select (1), upper (1)
@@ -2129,13 +2131,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Add or Modify Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add data to a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980)
@@ -2228,7 +2229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1), continue (1)
+> **Frameworks & Libraries:** database (11), data (10), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2346,8 +2347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (3), [[Databases]] (2), [[SQL]] (1), feature (1)
 > **CLI Commands:** make (5), find (4)
-> **Code Keywords:** let (4), this. (2), delete (1), new, (1), throw (1)
 > **Env Vars:** llc (3), sql (1), crud (1)
 > **Best Practices:** it's best to (2)
 > **Warnings:** be careful (1)
@@ -2430,8 +2431,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (4), database (1), [[Data Manipulation]] (1), [[Databases]] (1)
 > **Env Vars:** delete (7), null (7), sql (5), select (3), where (3)
-> **Code Keywords:** delete (14), let (7), switch (1)
 > **SQL:** select (3), where (3), update (2), delete from (2)
 > **API Endpoints:** delete  (6)
 > **Code Identifiers:** quiz_points (3), id_number (2)
@@ -2474,14 +2475,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overcoming common SQL mistakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980)
@@ -2554,9 +2555,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), database (3), [[Troubleshooting]] (1), [[Software Development]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (7), find (2)
 > **Env Vars:** sql (7), null (2)
-> **Code Keywords:** else, (1), switch (1)
 > **Warnings:** keep in mind (1), watch out (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** best practice (1)
@@ -2588,6 +2589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), database (3), next (2), management (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (8), dbms (1)
 > **CLI Commands:** mysql (2), python (1)
 > **Speakers:** - [instructor] (1)

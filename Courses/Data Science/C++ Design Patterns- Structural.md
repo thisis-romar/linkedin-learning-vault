@@ -34,7 +34,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/C%2B%2B%20Design%20Patterns-%20Structural.md)
@@ -53,55 +53,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Structural design patterns in C++
+  - [Structural design patterns in C++](#structural-design-patterns-in-c)
 - [**1. The Adapter**](#1-the-adapter) (6 videos)
-  - Overview
-  - When should you use the Adapter pattern?
-  - Implementing an object adapter
-  - Implementing a class adapter
-  - Challenge: Refactor using the Adapter pattern
-  - Solution: Refactor using the Adapter pattern
+  - [Overview](#overview)
+  - [When should you use the Adapter pattern?](#when-should-you-use-the-adapter-pattern)
+  - [Implementing an object adapter](#implementing-an-object-adapter)
+  - [Implementing a class adapter](#implementing-a-class-adapter)
+  - [Challenge: Refactor using the Adapter pattern](#challenge-refactor-using-the-adapter-pattern)
+  - [Solution: Refactor using the Adapter pattern](#solution-refactor-using-the-adapter-pattern)
 - [**2. The Bridge**](#2-the-bridge) (5 videos)
-  - Overview
-  - Exploding class hierarchies
-  - The Bridge pattern in action
-  - Challenge: Enhancing a design using the Bridge pattern
-  - Solution: Enhancing a design using the Bridge pattern
+  - [Overview](#overview)
+  - [Exploding class hierarchies](#exploding-class-hierarchies)
+  - [The Bridge pattern in action](#the-bridge-pattern-in-action)
+  - [Challenge: Enhancing a design using the Bridge pattern](#challenge-enhancing-a-design-using-the-bridge-pattern)
+  - [Solution: Enhancing a design using the Bridge pattern](#solution-enhancing-a-design-using-the-bridge-pattern)
 - [**3. The Composite**](#3-the-composite) (5 videos)
-  - Overview
-  - Implementing a hierarchical structure
-  - Redesigning with the Composite pattern
-  - Challenge: Drawing shapes
-  - Solution: Drawing shapes
+  - [Overview](#overview)
+  - [Implementing a hierarchical structure](#implementing-a-hierarchical-structure)
+  - [Redesigning with the Composite pattern](#redesigning-with-the-composite-pattern)
+  - [Challenge: Drawing shapes](#challenge-drawing-shapes)
+  - [Solution: Drawing shapes](#solution-drawing-shapes)
 - [**4. The Decorator**](#4-the-decorator) (5 videos)
-  - Overview
-  - Computer shop demo using inheritance
-  - Computer shop demo using the Decorator design pattern
-  - Challenge: Pizza toppings
-  - Solution: Pizza toppings
+  - [Overview](#overview)
+  - [Computer shop demo using inheritance](#computer-shop-demo-using-inheritance)
+  - [Computer shop demo using the Decorator design pattern](#computer-shop-demo-using-the-decorator-design-pattern)
+  - [Challenge: Pizza toppings](#challenge-pizza-toppings)
+  - [Solution: Pizza toppings](#solution-pizza-toppings)
 - [**5. The Façade**](#5-the-faade) (5 videos)
-  - Overview
-  - Complex interface demo
-  - Applying the Facade design pattern
-  - Challenge: Hide complexity with a facade
-  - Solution: Hide complexity with a facade
+  - [Overview](#overview)
+  - [Complex interface demo](#complex-interface-demo)
+  - [Applying the Facade design pattern](#applying-the-facade-design-pattern)
+  - [Challenge: Hide complexity with a facade](#challenge-hide-complexity-with-a-facade)
+  - [Solution: Hide complexity with a facade](#solution-hide-complexity-with-a-facade)
 - [**6. The Flyweight**](#6-the-flyweight) (4 videos)
-  - Overview
-  - Introducing sprites
-  - Reducing memory usage: Part 1
-  - Reducing memory usage: Part 2
+  - [Overview](#overview)
+  - [Introducing sprites](#introducing-sprites)
+  - [Reducing memory usage: Part 1](#reducing-memory-usage-part-1)
+  - [Reducing memory usage: Part 2](#reducing-memory-usage-part-2)
 - [**7. The Proxy**](#7-the-proxy) (5 videos)
-  - Overview
-  - What problem does the proxy solve?
-  - The virtual proxy
-  - Challenge: Implement a protective proxy
-  - Solution: Implement a protective proxy
+  - [Overview](#overview)
+  - [What problem does the proxy solve?](#what-problem-does-the-proxy-solve)
+  - [The virtual proxy](#the-virtual-proxy)
+  - [Challenge: Implement a protective proxy](#challenge-implement-a-protective-proxy)
+  - [Solution: Implement a protective proxy](#solution-implement-a-protective-proxy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structural design patterns in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980)
@@ -122,12 +122,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Software Design]] (1), [[Programming]] (1), next (1), [[LinkedIn]] (1)
 > **Speakers:** - [karoly] (1)
 
 
 ### 1. The Adapter
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980)
@@ -188,7 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), class. (3), class, (1), this, (1)
+> **Frameworks & Libraries:** api (3), [[Software Design]] (1), next (1)
 > **Env Vars:** api (3), uml (1)
 > **Definitions:** is a  (3)
 > **Warnings:** be aware (1), keep in mind (1)
@@ -241,7 +242,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), abstract (1), function (1), interface (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** similar to (1)
@@ -326,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), class. (2), case, (1), implements (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **Code Identifiers:** m_adaptee (3), make_unique (2)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (1)
@@ -399,7 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (3), class. (2), public (2), case, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** make_unique (1)
 > **Cross-References:** in the next (1)
@@ -444,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), abstract (1), let (1), static (1), this, (1)
+> **Frameworks & Libraries:** cloud (9), data (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -499,14 +499,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), next (1)
 > **Code Identifiers:** uploaddata (3), uploadcontents (2), usedspace (2), generateuid (1), getfreespace (1)
-> **Code Keywords:** class. (2), let (1), interface (1), private (1), type. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. The Bridge
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980)
@@ -543,8 +543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1)
 > **Definitions:** is a  (1), known as (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Exploding class hierarchies
@@ -580,8 +580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **Env Vars:** sms (3)
-> **Code Keywords:** abstract (1), super (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
 
@@ -690,7 +690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (3), public (3), implements (3), abstract (2)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -727,7 +727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), abstract (2), module (1), require (1), public (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -783,7 +783,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), abstract (1), public (1), private (1), implements (1)
 > **Code Identifiers:** m_engine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music begins) (1)
@@ -791,7 +790,7 @@ created: 2026-04-29
 
 ### 3. The Composite
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980)
@@ -856,7 +855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), type. (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -911,7 +910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1), interface (1), function (1), type. (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -1020,7 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (3), abstract (2), override (2), case. (1)
+> **Frameworks & Libraries:** product (13), next (2), [[Design Systems]] (1), data (1)
 > **Code Identifiers:** addproduct (3), addbook (2), getprice (1), addbox (1), addtoy (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
@@ -1075,7 +1074,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), abstract (1), implements (1), interface (1), finally, (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1123,7 +1121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), abstract (1), implements (1), interface (1), let (1)
+> **Frameworks & Libraries:** next (3), data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1133,7 +1131,7 @@ created: 2026-04-29
 
 ### 4. The Decorator
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181031?u=76281980)
@@ -1178,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (2), implements (1), finally, (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** uml (1)
 > **Definitions:** is a  (1)
@@ -1222,7 +1220,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Analogies:** such as (4), for example (2)
-> **Code Keywords:** class. (1), abstract (1), override (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Computer shop demo using the Decorator design pattern
@@ -1298,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (2), protected (1), override (1), extends (1)
+> **Frameworks & Libraries:** next (4)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** m_computer (1)
@@ -1339,7 +1336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), implements (1), extends (1), class, (1)
+> **Frameworks & Libraries:** hit (1)
 > **Analogies:** such as (1), for example (1)
 > **Exercise Files:** starter project (1)
 > **Prerequisites:** you'll need (1)
@@ -1397,7 +1394,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), function (2), let (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1408,7 +1404,7 @@ created: 2026-04-29
 
 ### 5. The Façade
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview?u=76281980)
@@ -1463,7 +1459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), this, (2), require (1), public (1), class, (1)
+> **Frameworks & Libraries:** api (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
@@ -1506,7 +1502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (1), function (1), interface (1), class, (1)
+> **Frameworks & Libraries:** database (3)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1603,7 +1599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (4), class. (3), finally, (2), pass (2)
+> **Frameworks & Libraries:** data (7), database (3), next (2)
 > **Code Identifiers:** makereservation (2), reservationinfo (1), paymentinfo (1), reservationsystem (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
@@ -1649,7 +1645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1), try. (1)
+> **Frameworks & Libraries:** application (3), web (2), data (1)
 > **Code Identifiers:** currentweather (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music begins) (1)
@@ -1687,7 +1683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), finally, (1), function (1)
+> **Frameworks & Libraries:** web (2), data (1), api (1), next (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1695,7 +1691,7 @@ created: 2026-04-29
 
 ### 6. The Flyweight
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980)
@@ -1750,7 +1746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), implements (1), continue (1), class. (1)
+> **Frameworks & Libraries:** data (6), [[Game Development]] (1), database (1), management (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1806,7 +1802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (2), function (1)
+> **Frameworks & Libraries:** application (2), data (2), next (1)
 > **Env Vars:** mid (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1900,7 +1896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (2), public (2), private (1), type, (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **CLI Commands:** find (5), make (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** makesprite (1), unordered_map (1)
@@ -2012,7 +2008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), finally, (2), pass (2), continue (1)
+> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Code Identifiers:** makesprite (4), setpositionsize (3), gettexture (2), newit (1), texturefile (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -2021,7 +2017,7 @@ created: 2026-04-29
 
 ### 7. The Proxy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22185033?u=76281980)
@@ -2080,7 +2076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), interface (2), require (1), finally, (1)
+> **Frameworks & Libraries:** web (3), application (1), [[Security]] (1), data (1)
 > **Analogies:** such as (3), for instance (2), for example (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2138,7 +2134,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), abstract (1), interface (1), function (1)
 > **File Paths:** config.txt (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2257,7 +2252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (2), private (2), this, (1), pass (1)
+> **Frameworks & Libraries:** next (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (6), - there (1)
 > **Non-Speech:** (keyboard clicking) (5)
 > **CLI Commands:** make (2)
@@ -2294,7 +2289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3), class, (1), public (1), interface (1), try. (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2349,7 +2344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), interface (1), class, (1), private (1)
+> **Frameworks & Libraries:** data (1), [[Design Patterns]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music begins) (1)
@@ -2357,7 +2352,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980)
@@ -2392,6 +2387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Software Development]] (2), [[Programming]] (2), [[LinkedIn]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [karoly] (1)
 

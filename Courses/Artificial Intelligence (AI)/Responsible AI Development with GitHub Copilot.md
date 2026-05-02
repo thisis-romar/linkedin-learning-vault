@@ -36,7 +36,7 @@ tags:
   - skill/large-language-models-llm
   - skill/github-copilot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20Development%20with%20GitHub%20Copilot.md)
@@ -55,29 +55,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to AI validation: Why it matters for production code
+  - [Introduction to AI validation: Why it matters for production code](#introduction-to-ai-validation-why-it-matters-for-production-code)
 - [**1. Validating AI-Generated Code**](#1-validating-ai-generated-code) (5 videos)
-  - Techniques for verifying AI code: Manual and automated approaches
-  - Identifying security vulnerabilities in AI-generated code
-  - Detecting logical flaws and hallucinations in AI outputs
-  - Challenge: Security audit AI-generated code
-  - Solution: Security audit AI-generated code with best practices
+  - [Techniques for verifying AI code: Manual and automated approaches](#techniques-for-verifying-ai-code-manual-and-automated-approaches)
+  - [Identifying security vulnerabilities in AI-generated code](#identifying-security-vulnerabilities-in-ai-generated-code)
+  - [Detecting logical flaws and hallucinations in AI outputs](#detecting-logical-flaws-and-hallucinations-in-ai-outputs)
+  - [Challenge: Security audit AI-generated code](#challenge-security-audit-ai-generated-code)
+  - [Solution: Security audit AI-generated code with best practices](#solution-security-audit-ai-generated-code-with-best-practices)
 - [**2. Customizing Copilot for Your Team**](#2-customizing-copilot-for-your-team) (5 videos)
-  - Using copilot-instructions.md for project-specific guidance
-  - Enforcing team coding standards with custom configurations
-  - Challenge: Enforce a custom rule in your codebase
-  - Solution: Enforce a custom rule with Copilot configuration
-  - Testing custom configurations: Validation and effectiveness
+  - [Using copilot-instructions.md for project-specific guidance](#using-copilot-instructionsmd-for-project-specific-guidance)
+  - [Enforcing team coding standards with custom configurations](#enforcing-team-coding-standards-with-custom-configurations)
+  - [Challenge: Enforce a custom rule in your codebase](#challenge-enforce-a-custom-rule-in-your-codebase)
+  - [Solution: Enforce a custom rule with Copilot configuration](#solution-enforce-a-custom-rule-with-copilot-configuration)
+  - [Testing custom configurations: Validation and effectiveness](#testing-custom-configurations-validation-and-effectiveness)
 - [**3. Staying Current with AI Tools**](#3-staying-current-with-ai-tools) (5 videos)
-  - Choosing the right LLM for your development needs
-  - Comparing model performance: Benchmarking and quality metrics
-  - Cost-benefit analysis of models: ROI and budget planning
-  - Next steps and continuous learning: Advanced topics and expertise
-  - Community resources and support: Documentation, forums, and contributions
+  - [Choosing the right LLM for your development needs](#choosing-the-right-llm-for-your-development-needs)
+  - [Comparing model performance: Benchmarking and quality metrics](#comparing-model-performance-benchmarking-and-quality-metrics)
+  - [Cost-benefit analysis of models: ROI and budget planning](#cost-benefit-analysis-of-models-roi-and-budget-planning)
+  - [Next steps and continuous learning: Advanced topics and expertise](#next-steps-and-continuous-learning-advanced-topics-and-expertise)
+  - [Community resources and support: Documentation, forums, and contributions](#community-resources-and-support-documentation-forums-and-contributions)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI validation: Why it matters for production code
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980)
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), function (1), pass (1)
+> **Frameworks & Libraries:** ai (11), [[Security]] (5), prompt (2), [[GitHub Copilot]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
 > **Analogies:** for example (1), such as (1)
@@ -171,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Validating AI-Generated Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Techniques for verifying AI code: Manual and automated approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/techniques-for-verifying-ai-code-manual-and-automated-approaches?u=76281980)
@@ -244,8 +244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** pass (1), let (1), function (1), type. (1), match. (1)
 > **Best Practices:** best practice (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -327,9 +327,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (13), [[Security]] (12), ai (7), data (2), api (1)
 > **Env Vars:** sql (13), api (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** delete (1), match, (1), let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -390,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** import, (2), let (1), return, (1), throw (1), function (1)
+> **Frameworks & Libraries:** ai (4), [[JavaScript]] (1), next (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** cdn (1)
 > **Definitions:** is a  (1)
@@ -466,9 +466,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), aws (9), api (4), [[GitHub]] (1), [[Tokens]] (1)
 > **CLI Commands:** aws (9), make (5), find (2)
 > **Env Vars:** aws (9), api (4), akia (1)
-> **Code Keywords:** public (1), let (1), this, (1), function (1), type, (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
 > **Tools:** github (1)
@@ -538,8 +538,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[OpenAI API]] (1), ai (1), data (1), [[CLI]] (1)
 > **CLI Commands:** make (6), aws (5)
-> **Code Keywords:** let (2), function (2), static (1), this, (1), interface (1)
 > **Env Vars:** aws (5), api (2), akia (1), openai_key_pattern (1), cli (1)
 > **Code Identifiers:** scanfile (2), secret_scanner (1), readtextfile (1), foreach (1), matchall (1)
 > **Speakers:** - [instructor] (1)
@@ -547,7 +547,7 @@ created: 2026-04-29
 
 ### 2. Customizing Copilot for Your Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using copilot-instructions.md for project-specific guidance
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980)
@@ -664,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (4), let (2), await (2), function (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[GitHub]] (6), api (2), [[GitHub Copilot]] (1), [[Fetch]] (1)
 > **Tools:** github (7), vs code (1)
 > **File Paths:** copilot-instructions.md (3), api-client.ts (1)
 > **Env Vars:** api (1)
@@ -757,7 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), private (1), for. (1), let (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Debugging]] (1), product (1), [[Fetch]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
@@ -794,7 +794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), teams (1)
 > **File Paths:** copilot-instructions.md (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -840,7 +840,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (2), let (1), continue (1), yield (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -919,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), if ( (3), let (2), continue (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), data (3), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** processorder (1)
 > **Env Vars:** gpt (1)
@@ -930,7 +929,7 @@ created: 2026-04-29
 
 ### 3. Staying Current with AI Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right LLM for your development needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980)
@@ -989,9 +988,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Debugging]] (3), [[Microsoft Copilot|Copilot]] (2), [[Gemini]] (2), llm (1)
 > **Env Vars:** gpt (9), llm (1)
 > **Tools:** github (4)
-> **Code Keywords:** let (1), this, (1), module (1)
 > **Versions:** 4.1 (2), 4.5 (1)
 > **Best Practices:** recommended (2)
 > **Code Identifiers:** xai (1)
@@ -1053,9 +1052,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Tokens]] (2), [[Performance Metrics]] (1), ai (1), [[Windows]] (1)
 > **Env Vars:** gpt (4)
 > **Versions:** 4.5 (1), 2.5 (1)
-> **Code Keywords:** case. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
@@ -1138,9 +1137,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), api (7), [[Tokens]] (4), business (3), [[GPT-4]] (2)
 > **Versions:** 4.1 (3), 3.5 (2), 0.04 (2), 4.5 (1), 0.33 (1)
 > **Env Vars:** api (7), gpt (4)
-> **Code Keywords:** let (3)
 > **Tools:** github (2), vs code (1)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1)
@@ -1189,8 +1188,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Microsoft Copilot|Copilot]] (5), business (2), next (2), [[Responsible AI]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** continue (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1259,6 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Search]] (3), hit (2), [[Microsoft Copilot|Copilot]] (2), ai (2)
 > **Tools:** github (5), discord (2)
 > **Documentation:** stack overflow (2), the docs (1)
 > **Analogies:** such as (3)
@@ -1266,7 +1266,6 @@ created: 2026-04-29
 > **URLs:** [github.com](https://github.com) (2)
 > **Definitions:** known as (1), is a  (1)
 > **UI Navigation:** go to (1)
-> **Speakers:** - [instructor] (1)
 
 
 ## Instructor

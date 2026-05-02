@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Devops%20Foundations.md)
@@ -52,57 +52,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The foundations of DevOps
+  - [The foundations of DevOps](#the-foundations-of-devops)
 - [**1. DevOps Basics**](#1-devops-basics) (5 videos)
-  - What is DevOps?
-  - DevOps core values: CAMS
-  - DevOps guiding principles: The Three Ways
-  - Your DevOps practice playbook
-  - Which DevOps tools should I use?
+  - [What is DevOps?](#what-is-devops)
+  - [DevOps core values: CAMS](#devops-core-values-cams)
+  - [DevOps guiding principles: The Three Ways](#devops-guiding-principles-the-three-ways)
+  - [Your DevOps practice playbook](#your-devops-practice-playbook)
+  - [Which DevOps tools should I use?](#which-devops-tools-should-i-use)
 - [**2. DevOps and People: A Culture Change**](#2-devops-and-people-a-culture-change) (4 videos)
-  - Why do we need a DevOps culture?
-  - Communication and trust power DevOps
-  - Collaboration: Break silos in case of DevOps
-  - Continuous learning the DevOps way
+  - [Why do we need a DevOps culture?](#why-do-we-need-a-devops-culture)
+  - [Communication and trust power DevOps](#communication-and-trust-power-devops)
+  - [Collaboration: Break silos in case of DevOps](#collaboration-break-silos-in-case-of-devops)
+  - [Continuous learning the DevOps way](#continuous-learning-the-devops-way)
 - [**3. DevOps and Process: The Building Blocks**](#3-devops-and-process-the-building-blocks) (3 videos)
-  - DevOps process building block: Agile
-  - DevOps process building block: Lean
-  - DevOps process building block: Visible ops change control
+  - [DevOps process building block: Agile](#devops-process-building-block-agile)
+  - [DevOps process building block: Lean](#devops-process-building-block-lean)
+  - [DevOps process building block: Visible ops change control](#devops-process-building-block-visible-ops-change-control)
 - [**4. Infrastructure as Code**](#4-infrastructure-as-code) (5 videos)
-  - What is infrastructure as code?
-  - DevOps applications of infrastructure as code
-  - Configuration management: From golden image to foil ball
-  - Automating infrastructure, containers, and platforms
-  - Your DevOps infrastructure as code toolchain
+  - [What is infrastructure as code?](#what-is-infrastructure-as-code)
+  - [DevOps applications of infrastructure as code](#devops-applications-of-infrastructure-as-code)
+  - [Configuration management: From golden image to foil ball](#configuration-management-from-golden-image-to-foil-ball)
+  - [Automating infrastructure, containers, and platforms](#automating-infrastructure-containers-and-platforms)
+  - [Your DevOps infrastructure as code toolchain](#your-devops-infrastructure-as-code-toolchain)
 - [**5. Continuous Delivery**](#5-continuous-delivery) (6 videos)
-  - What is continuous delivery?
-  - Six practices for continuous integration
-  - Five practices for continuous delivery
-  - The role of QA in DevOps
-  - Continuous deployment: The final frontier
-  - Your DevOps CI toolchain
+  - [What is continuous delivery?](#what-is-continuous-delivery)
+  - [Six practices for continuous integration](#six-practices-for-continuous-integration)
+  - [Five practices for continuous delivery](#five-practices-for-continuous-delivery)
+  - [The role of QA in DevOps](#the-role-of-qa-in-devops)
+  - [Continuous deployment: The final frontier](#continuous-deployment-the-final-frontier)
+  - [Your DevOps CI toolchain](#your-devops-ci-toolchain)
 - [**6. Site Reliability Engineering**](#6-site-reliability-engineering) (6 videos)
-  - What is site reliability engineering?
-  - Building for reliability: Theory
-  - Building for reliability: Practice
-  - Operational feedback: Observability
-  - Operational feedback: Incident response and retrospectives
-  - Your DevOps SRE toolchain
+  - [What is site reliability engineering?](#what-is-site-reliability-engineering)
+  - [Building for reliability: Theory](#building-for-reliability-theory)
+  - [Building for reliability: Practice](#building-for-reliability-practice)
+  - [Operational feedback: Observability](#operational-feedback-observability)
+  - [Operational feedback: Incident response and retrospectives](#operational-feedback-incident-response-and-retrospectives)
+  - [Your DevOps SRE toolchain](#your-devops-sre-toolchain)
 - [**7. Advanced Topics**](#7-advanced-topics) (6 videos)
-  - Platform engineering: The paved road
-  - DevSecOps: Making your systems more secure the DevOps way
-  - Cloud native and Kubernetes
-  - DevOps and chaos engineering
-  - MLOps: Leveraging DevOps to run ML systems
-  - AIOps: Using AI in your DevOps work
+  - [Platform engineering: The paved road](#platform-engineering-the-paved-road)
+  - [DevSecOps: Making your systems more secure the DevOps way](#devsecops-making-your-systems-more-secure-the-devops-way)
+  - [Cloud native and Kubernetes](#cloud-native-and-kubernetes)
+  - [DevOps and chaos engineering](#devops-and-chaos-engineering)
+  - [MLOps: Leveraging DevOps to run ML systems](#mlops-leveraging-devops-to-run-ml-systems)
+  - [AIOps: Using AI in your DevOps work](#aiops-using-ai-in-your-devops-work)
 - [**8. Your DevOps Career**](#8-your-devops-career) (3 videos)
-  - DevOps and your career
-  - DevOps learning resources
-  - Your personal DevOps journey
+  - [DevOps and your career](#devops-and-your-career)
+  - [DevOps learning resources](#devops-learning-resources)
+  - [Your personal DevOps journey](#your-personal-devops-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The foundations of DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980)
@@ -131,14 +131,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (6), business (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Engineering]] (1)
 > **Speakers:** - devops (1), - but (1), - they (1), - and (1), - we (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 
 ### 1. DevOps Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980)
@@ -235,8 +235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (19), teams (4), [[Engineering]] (3), business (2), application (1)
 > **Speakers:** - devops (2), - the (2), - but (2), - and (2), - [ernest] (1)
-> **Code Keywords:** let (2), require (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -327,9 +327,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (14), [[Automation]] (9), business (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** cams (6)
 > **Definitions:** stands for (2), is a  (2)
-> **Code Keywords:** from. (1), this, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - the (1)
@@ -417,8 +417,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (5), application (2), database (1), next (1), [[Engineering]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
@@ -504,8 +504,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (8), [[Agile Development|Agile]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Engineering]] (3), business (2)
 > **Speakers:** - the (3), - yeah (3), - in (1), - okay (1), - something (1)
-> **Code Keywords:** self (1)
 > **Env Vars:** dora (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -603,9 +603,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (6), cloud (3), [[Kubernetes]] (2), [[Linux]] (2), product (2)
 > **Speakers:** - okay (2), - that (2), - i (2), - you (1), - kubernetes (1)
 > **CLI Commands:** terraform (1), ansible (1), docker (1), make (1)
-> **Code Keywords:** this, (1), function (1), super (1)
 > **Env Vars:** kiss (1), api (1)
 > **Tools:** github (1), command line (1)
 > **Definitions:** stands for (1)
@@ -615,7 +615,7 @@ created: 2026-04-29
 
 ### 2. DevOps and People: A Culture Change
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do we need a DevOps culture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980)
@@ -718,8 +718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), teams (3), application (2), [[Microsoft Office|Office]] (1), [[Quality Assurance]] (1)
 > **Speakers:** - [presenter (4), - i (2), - you (2), - that (2), - and (2)
-> **Code Keywords:** throw (3), continue (1), this. (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** is a  (1)
@@ -846,9 +846,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), business (3), career (2), [[DevOps]] (1), application (1)
 > **Speakers:** - [instructor] (2), - you (2), - well (2), - communication (1), - i (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** set up (2)
 > **Env Vars:** cams (1)
 > **UI Navigation:** go to (1)
@@ -949,8 +949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (12), [[DevOps]] (5), [[SaaS]] (2), [[Design Systems]] (1), functional (1)
 > **Speakers:** - this (2), - [instructor] (2), - collaboration (1), - it (1), - that (1)
-> **Code Keywords:** self (4), case, (1), if, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1055,16 +1055,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Microsoft Word|Word]] (1), [[Digital Transformation]] (1), business (1), [[Thinking Skills]] (1)
 > **Speakers:** - the (3), - yeah (3), - and (2), - there (2), - in (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** tps (3)
 > **Definitions:** is a  (1), refers to (1)
-> **Code Keywords:** function (1)
 
 
 ### 3. DevOps and Process: The Building Blocks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps process building block: Agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980)
@@ -1177,8 +1177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (21), [[DevOps]] (8), [[Software Development]] (4), teams (4), next (2)
 > **Speakers:** - [james] (4), - yeah (2), - now (1), - okay (1), - after (1)
-> **Code Keywords:** let (2), throw (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (2), in the next (1)
 > **Env Vars:** sdlc (2)
@@ -1291,9 +1291,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (10), management (4), [[Product Development]] (3), product (3), [[Software Development]] (3)
 > **Definitions:** is a  (2), is an  (2)
 > **Cross-References:** later in (2), we discussed (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** cams (1), calms (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **CLI Commands:** make (1)
@@ -1389,16 +1389,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), [[ITIL]] (4), [[Security]] (4), [[DevOps]] (4), [[IT Service Management]] (2)
 > **Env Vars:** itil (4), itsm (3), cobit (1), iso (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - welcome (1)
 
 
 ### 4. Infrastructure as Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is infrastructure as code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980)
@@ -1485,11 +1485,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[DevOps]] (3), [[Hardware]] (3), [[Automation]] (3), data (2)
 > **Speakers:** - okay (2), - yeah (2), - welcome (1), - every (1), - infrastructure (1)
 > **Prerequisites:** install (2), configure (2), set up (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from, (1)
 > **Env Vars:** cams (1)
 
 #### DevOps applications of infrastructure as code
@@ -1575,8 +1575,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Configuration Management]] (5), [[Orchestration]] (4), [[DevOps]] (3), [[Hardware]] (3), web (2)
 > **Speakers:** - [speaker (4), - and (2), - devops (1), - the (1), - in (1)
-> **Code Keywords:** let (2), self (2), finally, (1), continue (1)
 > **Definitions:** known as (2), is an  (2), is a  (1), in other words (1)
 > **CLI Commands:** make (4)
 > **Versions:** version 1 (2)
@@ -1670,8 +1670,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Orchestration]] (5), [[System Configuration]] (3), [[Configuration Management]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2)
 > **Speakers:** - yeah (4), - the (2), - let (1), - in (1), - okay (1)
-> **Code Keywords:** let (3), self (1)
 > **CLI Commands:** ruby (1), ansible (1)
 > **Prerequisites:** configure (1), set up (1)
 > **Env Vars:** dns (1)
@@ -1748,9 +1748,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), cloud (5), [[Orchestration]] (4), [[DevOps]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Speakers:** - [presenter] (5), - yeah (3), - the (2), - and (2), - let (1)
 > **CLI Commands:** terraform (1), python (1), docker (1), make (1)
-> **Code Keywords:** let (1), continue (1)
 > **Analogies:** for example (2)
 > **Env Vars:** cdk (1)
 > **Documentation:** specification (1)
@@ -1890,10 +1890,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Terraform]] (4), [[Orchestration]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), application (3)
 > **Speakers:** - [person (5), - or (3), - now (2), - do (2), - remember (1)
 > **CLI Commands:** terraform (4), docker (3), python (2), ansible (2), make (1)
 > **Env Vars:** pxe (1), bios (1), raid (1), arm (1), json (1)
-> **Code Keywords:** finally, (2), let (1), case, (1)
 > **Prerequisites:** configure (3), set up (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Exercise Files:** template (2)
@@ -1902,7 +1902,7 @@ created: 2026-04-29
 
 ### 5. Continuous Delivery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is continuous delivery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980)
@@ -1995,6 +1995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), ci (3), database (3)
 > **Speakers:** - [red (5), - [brown (3), - the (2), - there (1), - in (1)
 > **CLI Commands:** find (4), cd (2), make (2)
 > **Analogies:** just like (1), for example (1)
@@ -2115,7 +2116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), break. (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (5), next (2), ci (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** wip (2)
@@ -2225,9 +2226,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (6), ci (2), next (2), [[Kubernetes]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - yeah (5), - [instructor] (2), - this (2), - is (1), - now (1)
 > **Env Vars:** rpm (1), msi (1), war (1), zip (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** we discussed (1), we talked about (1)
 > **CLI Commands:** docker (1)
 > **Analogies:** just like (1)
@@ -2366,8 +2367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), cd (2), [[End-to-end Testing]] (2), [[Unit Testing]] (2), application (2)
 > **Speakers:** - that (4), - okay (4), - [instructor] (2), - yeah (2), - continuous (1)
-> **Code Keywords:** let (4), function (4), catch. (1), this, (1), super (1)
 > **CLI Commands:** make (3), cd (2), find (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** tdd (1), bdd (1)
@@ -2472,8 +2473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), data (2), traffic (2), feature (2), product (1)
 > **Speakers:** - [host] (3), - now (2), - that (2), - [ernest] (2), - you (2)
-> **Code Keywords:** let (3), require (1), while, (1), public (1), self (1)
 > **CLI Commands:** make (3), cd (1)
 > **Definitions:** in other words (2)
 > **Env Vars:** dev (1)
@@ -2624,10 +2625,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), ci (4), [[Security]] (4), [[Version Control]] (4), [[Java]] (3)
 > **Speakers:** - and (4), - [james] (4), - [instructor] (4), - okay (2), - that (2)
 > **CLI Commands:** make (3), cd (2), ansible (1), npm (1), python (1)
 > **Tools:** github (6), postman (1), gitlab (1), bitbucket (1)
-> **Code Keywords:** private (2), let (2), pass (1), finally, (1)
 > **Analogies:** for example (4)
 > **Prerequisites:** you'll need (3), set up (1)
 > **URLs:** [bit.dev](https://bit.dev) (1), [cypress.io](https://cypress.io) (1)
@@ -2636,7 +2637,7 @@ created: 2026-04-29
 
 ### 6. Site Reliability Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is site reliability engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980)
@@ -2693,9 +2694,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (8), [[DevOps]] (4), [[Google]] (2), [[Automation]] (2), application (1)
 > **Speakers:** - [instructor (5), - and (3), - yeah (2), - it (2), - the (1)
 > **Env Vars:** sre (3)
-> **Code Keywords:** function (1), let (1)
 
 #### Building for reliability: Theory
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980)
@@ -2754,10 +2755,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (3), application (2), database (2), [[Software Architecture]] (1), hit (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (2), known as (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **URLs:** [12factor.net](https://12factor.net) (1)
 > **Speakers:** - when (1)
 
@@ -2866,11 +2867,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (4), application (2), traffic (2), [[Forms]] (1), game (1)
 > **Versions:** 99.9 (1), 8.77 (1), 99.999 (1), 5.26 (1)
 > **Env Vars:** sre (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** self (1), continue (1)
 > **Speakers:** - as (1)
 
 #### Operational feedback: Observability
@@ -2958,8 +2959,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Security]] (4), data (2), traffic (1), hit (1)
 > **Definitions:** is a  (3), is an  (2), in other words (1)
-> **Code Keywords:** let (2), function (2), finally, (1)
 > **Env Vars:** cpu (1), apm (1), api (1), rum (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -3065,11 +3066,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Incident Response]] (4), management (3), [[DevOps]] (2), [[Troubleshooting]] (1), [[Automation]] (1)
 > **Speakers:** - okay (3), - there (2), - those (2), - remember (1), - yeah (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2), is a  (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** break. (1)
 > **Env Vars:** ics (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** recommended (1)
@@ -3191,9 +3192,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Incident Response]] (4), [[SaaS]] (4), application (4), [[DevOps]] (2), business (2)
 > **Speakers:** - and (4), - yeah (3), - okay (3), - the (2), - [presenter (2)
 > **Definitions:** is a  (6)
-> **Code Keywords:** for, (2), let (1), finally, (1), case. (1)
 > **Analogies:** for example (2), picture (1)
 > **Env Vars:** sre (2)
 > **CLI Commands:** ansible (1)
@@ -3203,7 +3204,7 @@ created: 2026-04-29
 
 ### 7. Advanced Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Platform engineering: The paved road
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980)
@@ -3298,8 +3299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[DevOps]] (3), [[Engineering]] (3), teams (2), [[Automation]] (2)
 > **CLI Commands:** make (7), cd (2), find (1)
-> **Code Keywords:** self (2), while, (1), let (1)
 > **Env Vars:** hpc (1)
 > **Definitions:** defined as (1)
 > **Analogies:** just like (1)
@@ -3407,10 +3408,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (31), teams (8), [[DevSecOps]] (6), [[DevOps]] (5), [[Automation]] (2)
 > **Definitions:** is a  (3), is called (2), is an  (1)
 > **CLI Commands:** cd (1), make (1), find (1)
 > **Env Vars:** cams (1), ide (1), fud (1)
-> **Code Keywords:** throw (1), let (1)
 > **Cross-References:** earlier in (2)
 > **Speakers:** - tell (1)
 
@@ -3515,11 +3516,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (19), cloud (9), [[DevOps]] (3), application (3), [[Orchestration]] (2)
 > **Speakers:** - and (3), - [james] (2), - you (1), - well (1), - we (1)
 > **Definitions:** is a  (3), is an  (1), in other words (1)
 > **Env Vars:** api (1), cncf (1), cams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), else. (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** install (1)
 
@@ -3624,10 +3625,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (6), [[Incident Response]] (2), application (2), [[DevOps]] (2), cloud (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cicd (1), dns (1)
 > **Definitions:** in other words (1), is an  (1)
-> **Code Keywords:** require (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - chaos (1)
 
@@ -3744,9 +3745,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (10), [[MLOps]] (8), [[DevOps]] (7), management (2)
 > **Speakers:** - okay (7), - chat (2), - there (2), - ah (2), - that (2)
 > **Env Vars:** gpt (2), hpc (2), sre (1), api (1), cicd (1)
-> **Code Keywords:** private (2), pass (1), for, (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 
@@ -3859,10 +3860,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), [[DevOps]] (7), [[Security]] (5), [[ChatGPT]] (3), data (2)
 > **Speakers:** - [speaker (8), - and (3), - that (2), - a (2), - devops (1)
 > **CLI Commands:** make (5), find (2), terraform (2), aws (2), curl (1)
 > **Env Vars:** aws (2), gpt (1), cli (1), ide (1)
-> **Code Keywords:** require (1), switch (1), self (1)
 > **Tools:** bash (1), github (1)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
@@ -3871,7 +3872,7 @@ created: 2026-04-29
 
 ### 8. Your DevOps Career
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps and your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980)
@@ -3936,9 +3937,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (17), [[Automation]] (4), career (3), [[Security]] (3), business (2)
 > **Speakers:** - [instructor (3), - if (2), - as (1), - remember (1), - right (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** super (1)
 
 #### DevOps learning resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980)
@@ -4017,6 +4018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (16), cloud (3), next (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Engineering]] (1)
 > **Speakers:** - now (1), - we (1), - and (1), - you (1), - the (1)
 > **CLI Commands:** find (2), aws (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -4024,7 +4026,6 @@ created: 2026-04-29
 > **Env Vars:** aws (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
-> **Prerequisites:** getting started (1)
 
 #### Your personal DevOps journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980)
@@ -4101,10 +4102,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (16), next (3), management (3), [[Security]] (2), career (1)
 > **Speakers:** - and (4), - we (3), - okay (2), - you (1), - for (1)
 > **Env Vars:** sre (2), cicd (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** while. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 

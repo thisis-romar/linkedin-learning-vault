@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI-%20Advanced%20Decision%20Trees%20with%20SPSS.md)
@@ -52,39 +52,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Advanced decision trees with SPSS
-  - What you should know
-  - Using the exercise files
+  - [Advanced decision trees with SPSS](#advanced-decision-trees-with-spss)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Understanding QUEST**](#1-understanding-quest) (6 videos)
-  - Overview
-  - How QUEST handles nominal variables
-  - How QUEST handles ordinal and continuous variables
-  - How QUEST handles missing data
-  - Pruning in QUEST
-  - Stopping rules in QUEST
+  - [Overview](#overview)
+  - [How QUEST handles nominal variables](#how-quest-handles-nominal-variables)
+  - [How QUEST handles ordinal and continuous variables](#how-quest-handles-ordinal-and-continuous-variables)
+  - [How QUEST handles missing data](#how-quest-handles-missing-data)
+  - [Pruning in QUEST](#pruning-in-quest)
+  - [Stopping rules in QUEST](#stopping-rules-in-quest)
 - [**2. Understanding C5.0**](#2-understanding-c50) (6 videos)
-  - ID3 and C4.5
-  - Winnowing attributes
-  - Rule sets
-  - Understanding information gain
-  - Pruning in C5.0
-  - How C5.0 handles missing data
+  - [ID3 and C4.5](#id3-and-c45)
+  - [Winnowing attributes](#winnowing-attributes)
+  - [Rule sets](#rule-sets)
+  - [Understanding information gain](#understanding-information-gain)
+  - [Pruning in C5.0](#pruning-in-c50)
+  - [How C5.0 handles missing data](#how-c50-handles-missing-data)
 - [**3. Advanced Topics**](#3-advanced-topics) (9 videos)
-  - Ensembles
-  - What is bagging?
-  - Using bagging for feature selection
-  - Random forests
-  - What is boosting?
-  - What is XGBoost?
-  - XGBoost Tree node
-  - Costs and priors
-  - XGBoost Linear
+  - [Ensembles](#ensembles)
+  - [What is bagging?](#what-is-bagging)
+  - [Using bagging for feature selection](#using-bagging-for-feature-selection)
+  - [Random forests](#random-forests)
+  - [What is boosting?](#what-is-boosting)
+  - [What is XGBoost?](#what-is-xgboost)
+  - [XGBoost Tree node](#xgboost-tree-node)
+  - [Costs and priors](#costs-and-priors)
+  - [XGBoost Linear](#xgboost-linear)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced decision trees with SPSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980)
@@ -105,8 +105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Decision Trees]] (1), [[IBM SPSS]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** spss (2), quest (1), ibm (1)
-> **Code Keywords:** continue (1), let (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [keith] (1)
 
@@ -139,8 +139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision Trees]] (4), [[Statistics]] (2), data (1), [[Algorithms]] (1)
 > **Env Vars:** quest (1), spss (1)
-> **Code Keywords:** class. (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [narrator] (1)
 
@@ -173,19 +173,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Search]] (1), [[IBM SPSS]] (1)
 > **Env Vars:** ibm (2), spss (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Exercise Files:** exercise files (2)
 > **File Paths:** train.csv (1)
-> **Code Keywords:** let (1)
 > **URLs:** [kaggle.com](https://kaggle.com) (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding QUEST
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/overview?u=76281980)
@@ -236,8 +236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), [[Search]] (1)
 > **Env Vars:** quest (7), cart (4), chaid (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is an  (1), stands for (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -335,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), data (6), [[Probability]] (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** node (9), make (1)
-> **Code Keywords:** let (5), case, (1), class, (1)
 > **Env Vars:** quest (7)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (2)
@@ -463,7 +463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), finally, (1)
+> **Frameworks & Libraries:** node (2), next (1)
 > **Env Vars:** quest (7), qda (1)
 > **Versions:** 72.5 (2), 0.000 (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -543,8 +543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), node (7)
 > **CLI Commands:** node (7), find (1)
-> **Code Keywords:** let (6), pass (2)
 > **UI Navigation:** go to (2)
 > **Versions:** 4.3 (1)
 > **Analogies:** for instance (1)
@@ -617,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (2), case, (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** cart (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -659,18 +659,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (1)
 > **Versions:** 0.05 (1), 0.01 (1), 0.1 (1)
 > **Env Vars:** quest (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** rule of thumb (2)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Understanding C5.0
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ID3 and C4.5
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980)
@@ -709,8 +709,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2), this. (1)
 > **Env Vars:** id3 (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
@@ -794,8 +794,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (6), data (5), feature (1)
 > **CLI Commands:** node (6), find (2), make (1)
-> **Code Keywords:** let (2), class. (2), class, (1)
 > **Analogies:** similar to (2), imagine (1), it's like (1)
 > **Versions:** node 22 (1), node 24 (1)
 > **UI Navigation:** go to (1)
@@ -849,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), class, (1), case, (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
@@ -925,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** data (2), node (2), hit (1)
 > **CLI Commands:** node (2), find (1)
 > **Env Vars:** id3 (3)
 > **Versions:** 1.0 (1)
@@ -1070,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), case. (2), pass (1), this, (1)
+> **Frameworks & Libraries:** data (7), node (3), [[Zoom]] (2), [[Forms]] (1)
 > **CLI Commands:** node (3), make (2), find (1)
 > **Tools:** notion (2)
 > **Definitions:** means that (1), is a  (1)
@@ -1143,16 +1143,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Decision Trees]] (2), [[Probability]] (1), strengths (1)
 > **Env Vars:** cart (2), chaid (2), quest (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Advanced Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensembles
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/ensembles?u=76281980)
@@ -1239,7 +1239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), this. (2), if, (1)
+> **Frameworks & Libraries:** node (4), data (2), next (2)
 > **CLI Commands:** node (4), find (2), make (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the next (1), we discussed (1)
@@ -1392,7 +1392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (5), case. (1)
+> **Frameworks & Libraries:** data (9), node (3), next (1)
 > **CLI Commands:** node (3)
 > **UI Navigation:** checkbox (1), go to (1), click on (1)
 > **Analogies:** imagine (2), for instance (1)
@@ -1478,8 +1478,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), node (2)
 > **CLI Commands:** node (2), make (1), find (1)
-> **Code Keywords:** let (3), interface (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Tools:** notion (1)
 > **Prerequisites:** set up (1)
@@ -1546,9 +1546,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), node (2), [[Big Data]] (1)
 > **Env Vars:** cart (6)
 > **CLI Commands:** node (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1610,8 +1610,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), feature (2), data (1)
 > **Versions:** 18.4 (2), 85.31 (1), 77.27 (1), 83.52 (1)
-> **Code Keywords:** let (4)
 > **CLI Commands:** node (3)
 > **UI Navigation:** checkbox (2), click on (1)
 > **Env Vars:** spss (2)
@@ -1656,7 +1656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Search]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** spss (2)
 > **Speakers:** - [instructor] (1)
@@ -1720,8 +1720,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), node (2), [[Search]] (2), data (2), power (1)
 > **CLI Commands:** python (4), node (2), find (2), make (1)
-> **Code Keywords:** let (6)
 > **UI Navigation:** checkbox (4), go to (2)
 > **Cross-References:** go back to (1), we talked about (1)
 > **Env Vars:** spss (1)
@@ -1811,8 +1811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Algorithms]] (2), node (2), data (1)
 > **Env Vars:** cart (7)
-> **Code Keywords:** let (5), class, (1)
 > **CLI Commands:** node (2)
 > **Versions:** 1.0 (1), 5.0 (1)
 > **Analogies:** imagine (2)
@@ -1874,8 +1874,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), [[Python (Programming Language)|Python]] (3), [[Search]] (1)
 > **CLI Commands:** node (4), python (3)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1883,7 +1883,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980)
@@ -1912,6 +1912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), next (1), ai (1), [[LinkedIn]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** spss (2)
 > **Speakers:** - [instructor] (1)
 

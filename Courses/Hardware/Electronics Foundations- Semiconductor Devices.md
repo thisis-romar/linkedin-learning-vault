@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/semiconductor-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Electronics%20Foundations-%20Semiconductor%20Devices.md)
@@ -49,59 +49,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Understanding semiconductor devices
-  - What you should know
-  - Use the exercise files
-  - Safety warnings
+  - [Understanding semiconductor devices](#understanding-semiconductor-devices)
+  - [What you should know](#what-you-should-know)
+  - [Use the exercise files](#use-the-exercise-files)
+  - [Safety warnings](#safety-warnings)
 - [**1. Diodes**](#1-diodes) (3 videos)
-  - Semiconductor materials
-  - What is a diode?
-  - Diode characteristics
+  - [Semiconductor materials](#semiconductor-materials)
+  - [What is a diode?](#what-is-a-diode)
+  - [Diode characteristics](#diode-characteristics)
 - [**2. Diode Applications**](#2-diode-applications) (7 videos)
-  - Rectify a signal
-  - Detect the signal peak
-  - Protect against large signals
-  - Protect against reverse current
-  - Protect against flyback voltage
-  - Challenge: Circuit protection
-  - Solution: Circuit protection
+  - [Rectify a signal](#rectify-a-signal)
+  - [Detect the signal peak](#detect-the-signal-peak)
+  - [Protect against large signals](#protect-against-large-signals)
+  - [Protect against reverse current](#protect-against-reverse-current)
+  - [Protect against flyback voltage](#protect-against-flyback-voltage)
+  - [Challenge: Circuit protection](#challenge-circuit-protection)
+  - [Solution: Circuit protection](#solution-circuit-protection)
 - [**3. Special Purpose Diodes**](#3-special-purpose-diodes) (3 videos)
-  - Light emitting diodes
-  - Photodiodes
-  - Zener diodes
+  - [Light emitting diodes](#light-emitting-diodes)
+  - [Photodiodes](#photodiodes)
+  - [Zener diodes](#zener-diodes)
 - [**4. Bipolar Junction Transistors**](#4-bipolar-junction-transistors) (4 videos)
-  - What is a transistor?
-  - NPN bipolar junction transistors
-  - PNP bipolar junction transistors
-  - BJT characteristics
+  - [What is a transistor?](#what-is-a-transistor)
+  - [NPN bipolar junction transistors](#npn-bipolar-junction-transistors)
+  - [PNP bipolar junction transistors](#pnp-bipolar-junction-transistors)
+  - [BJT characteristics](#bjt-characteristics)
 - [**5. Transistor Applications**](#5-transistor-applications) (4 videos)
-  - Use a BJT as a switch
-  - Use a BJT as an amplifier
-  - Challenge: Motor control
-  - Solution: Motor control
+  - [Use a BJT as a switch](#use-a-bjt-as-a-switch)
+  - [Use a BJT as an amplifier](#use-a-bjt-as-an-amplifier)
+  - [Challenge: Motor control](#challenge-motor-control)
+  - [Solution: Motor control](#solution-motor-control)
 - [**6. Field-Effect Transistors**](#6-field-effect-transistors) (3 videos)
-  - Field-effect transistors
-  - Use a MOSFET as a switch
-  - BJT vs. MOSFET
+  - [Field-effect transistors](#field-effect-transistors)
+  - [Use a MOSFET as a switch](#use-a-mosfet-as-a-switch)
+  - [BJT vs. MOSFET](#bjt-vs-mosfet)
 - [**7. Operational Amplifiers**](#7-operational-amplifiers) (3 videos)
-  - What is an operational amplifier?
-  - Feedback circuits
-  - Operational amplifier characteristics
+  - [What is an operational amplifier?](#what-is-an-operational-amplifier)
+  - [Feedback circuits](#feedback-circuits)
+  - [Operational amplifier characteristics](#operational-amplifier-characteristics)
 - [**8. Op-Amp Applications**](#8-op-amp-applications) (8 videos)
-  - Compare signals
-  - Buffer signals
-  - Supply dual voltages
-  - Amplify signals
-  - Filter signals
-  - Combine signals
-  - Challenge: Audio equalizer
-  - Solution: Audio equalizer
+  - [Compare signals](#compare-signals)
+  - [Buffer signals](#buffer-signals)
+  - [Supply dual voltages](#supply-dual-voltages)
+  - [Amplify signals](#amplify-signals)
+  - [Filter signals](#filter-signals)
+  - [Combine signals](#combine-signals)
+  - [Challenge: Audio equalizer](#challenge-audio-equalizer)
+  - [Solution: Audio equalizer](#solution-audio-equalizer)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your journey with electronics
+  - [Continue your journey with electronics](#continue-your-journey-with-electronics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding semiconductor devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/understanding-semiconductor-devices?u=76281980)
@@ -132,7 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** semiconductor (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
@@ -156,7 +156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Electronics]] (3), power (1)
 > **Speakers:** - before (1)
 
 #### Use the exercise files
@@ -200,10 +200,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (2), [[Electronics]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
 > **Exercise Files:** exercise files (4)
 > **Env Vars:** dmm (2), pdf (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** interface (1)
 > **UI Navigation:** navigate to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -237,6 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (2), power (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -245,7 +246,7 @@ created: 2026-04-29
 
 ### 1. Diodes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Semiconductor materials
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/semiconductor-materials-14914790?u=76281980)
@@ -358,9 +359,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** semiconductor (11), [[Forms]] (1), next (1), power (1)
 > **Tools:** atom (13)
 > **CLI Commands:** make (5)
-> **Code Keywords:** type. (1), from. (1), type, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
@@ -487,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), this. (1)
+> **Frameworks & Libraries:** semiconductor (1)
 > **Definitions:** is called (3), known as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** vbr (1)
@@ -594,8 +595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** pass (1), require (1), let (1), switch (1)
 > **Env Vars:** dmm (4)
 > **Code Identifiers:** milliamps (2)
 > **Versions:** 0.6 (2)
@@ -606,7 +607,7 @@ created: 2026-04-29
 
 ### 2. Diode Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rectify a signal
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/rectify-a-signal-14915549?u=76281980)
@@ -703,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), function (2)
+> **Frameworks & Libraries:** power (7), application (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** make (1)
@@ -779,7 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (1)
+> **Frameworks & Libraries:** parallel (2), power (1)
 > **Versions:** 0.6 (1), 1.4 (1), 2.4 (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** rule of thumb (1)
@@ -866,9 +867,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Versions:** 0.6 (9), 1.4 (1), 2.4 (1)
 > **Speakers:** - i (2), - some (1), - hey (1), - who (1), - that (1)
-> **Code Keywords:** function (2), pass (2), switch (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
@@ -963,8 +964,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (10), semiconductor (1)
 > **Versions:** 0.6 (2), 4.4 (1), 0.15 (1), 0.45 (1)
-> **Code Keywords:** protected (4)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), similar to (1)
 > **Env Vars:** dmm (1)
@@ -1060,7 +1061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), continue (2), pass (1)
+> **Frameworks & Libraries:** power (5), [[Representational State Transfer (REST)|Rest]] (1), parallel (1)
 > **UI Navigation:** switch to (2), open the (1)
 > **Definitions:** is an  (1), known as (1), is a  (1)
 > **Analogies:** similar to (2), such as (1)
@@ -1123,7 +1124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** power (10), parallel (1), [[Slack]] (1)
 > **Tools:** slack (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1156,14 +1157,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), function (1)
+> **Frameworks & Libraries:** power (7)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 3. Special Purpose Diodes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Light emitting diodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/light-emitting-diodes-14915547?u=76281980)
@@ -1270,8 +1271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), semiconductor (1), [[Prototyping]] (1), [[Troubleshooting]] (1)
 > **Env Vars:** led (34)
-> **Code Keywords:** pass (3), require (3), this, (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3), just like (1)
 > **Versions:** 2.4 (1), 3.4 (1), 3.3 (1)
@@ -1372,6 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (5), [[React.js|React]] (2), semiconductor (1), power (1), cd (1)
 > **Env Vars:** led (4), dmm (3)
 > **Analogies:** similar to (3), such as (2)
 > **Versions:** 4.5 (1), 2.9 (1)
@@ -1493,9 +1495,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (10), next (2)
 > **Versions:** 5.1 (14), 0.9 (2), 3.3 (2), 18.9 (1), 2.1 (1)
 > **Env Vars:** tvs (13), usb (2)
-> **Code Keywords:** require (3), pass (2), let (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1)
@@ -1505,7 +1507,7 @@ created: 2026-04-29
 
 ### 4. Bipolar Junction Transistors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a transistor?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-a-transistor-14920032?u=76281980)
@@ -1602,8 +1604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), [[Electronics]] (1)
 > **Tools:** terminal (7)
-> **Code Keywords:** switch (1), function (1), require (1), throw (1)
 > **Env Vars:** bjt (2), fet (2)
 > **Definitions:** known as (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -1812,9 +1814,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), node (2), semiconductor (1), [[Electronics]] (1)
 > **Env Vars:** npn (10), bjt (9), vce (2), pnp (1), vbe (1)
 > **Tools:** terminal (16)
-> **Code Keywords:** pass (2), raise (2), from, (1), require (1), let (1)
 > **Definitions:** is a  (5), is called (1), known as (1)
 > **Versions:** 0.7 (3), 50.5 (1), 0.2 (1)
 > **CLI Commands:** node (2), make (1)
@@ -2116,9 +2118,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (17), data (12), semiconductor (3), [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** npn (3), pnp (3), bc547 (2), tip29 (2), bc557 (1)
 > **Definitions:** is a  (5), stands for (2), known as (1)
-> **Code Keywords:** switch (2), type. (1), case. (1), require (1), case, (1)
 > **Versions:** 0.2 (1), 0.1 (1), 0.65 (1), 0.85 (1), 0.7 (1)
 > **Analogies:** for example (1), picture (1), just like (1)
 > **Best Practices:** you should always (1), rule of thumb (1)
@@ -2128,7 +2130,7 @@ created: 2026-04-29
 
 ### 5. Transistor Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use a BJT as a switch
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-bjt-as-a-switch-14915546?u=76281980)
@@ -2257,7 +2259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (32), interface (1), raise (1), pass (1), let (1)
+> **Frameworks & Libraries:** [[Arduino]] (20), power (14), [[Electronics]] (1), next (1)
 > **Env Vars:** pnp (13), npn (10), bjt (1)
 > **Versions:** 0.7 (3), 4.3 (3), 5.8 (2), 3.3 (1), 0.2 (1)
 > **Tools:** terminal (6)
@@ -2423,7 +2425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (4), else. (1), require (1), raise (1)
+> **Frameworks & Libraries:** power (10), data (1)
 > **Tools:** terminal (14)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **CLI Commands:** make (4)
@@ -2495,8 +2497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** npn (3), pnp (3)
-> **Code Keywords:** switch (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2580,8 +2582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (6), power (3), [[Circuit Design]] (1), next (1)
 > **Env Vars:** npn (8), pnp (7)
-> **Code Keywords:** switch (5), let (1), interface (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** rule of thumb (1)
@@ -2591,7 +2593,7 @@ created: 2026-04-29
 
 ### 6. Field-Effect Transistors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Field-effect transistors
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/field-effect-transistors-14914779?u=76281980)
@@ -2760,9 +2762,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** semiconductor (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** terminal (29)
 > **Env Vars:** mosfet (23), vgs (1), npn (1), pnp (1), vds (1)
-> **Code Keywords:** switch (4), pass (3), raise (2), default, (2), case, (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** similar to (2), just like (1)
 > **CLI Commands:** make (1), find (1)
@@ -2830,8 +2832,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), next (1), data (1)
 > **Env Vars:** mosfet (10), bjt (4), npn (1), rfp30n06le (1)
-> **Code Keywords:** switch (13), raise (1), case, (1)
 > **Tools:** terminal (5)
 > **CLI Commands:** make (4)
 > **Versions:** 3.3 (1)
@@ -2886,8 +2888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), next (1), [[Electronics]] (1)
 > **Env Vars:** bjt (6), mosfet (3), led (1)
-> **Code Keywords:** require (3)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 3.3 (1)
 > **Tools:** terminal (1)
@@ -2896,7 +2898,7 @@ created: 2026-04-29
 
 ### 7. Operational Amplifiers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an operational amplifier?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980)
@@ -2995,11 +2997,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (9), data (2), [[Electronics]] (1), [[Prototyping]] (1), parallel (1)
 > **Tools:** terminal (9)
 > **CLI Commands:** rails (3), find (1), make (1)
 > **Env Vars:** pdip (3), aol (1)
 > **Definitions:** is an  (1), is called (1), is a  (1), known as (1)
-> **Code Keywords:** require (1), function (1)
 > **Analogies:** for example (2)
 > **Versions:** 1.001 (1)
 > **Cross-References:** later in (1)
@@ -3130,7 +3132,6 @@ created: 2026-04-29
 > **Env Vars:** gps (7)
 > **Speakers:** - [gps] (2), - many (1), - now (1), - well (1)
 > **Tools:** terminal (4)
-> **Code Keywords:** else. (1), while. (1), match. (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is called (1)
 > **Analogies:** imagine (1), similar to (1)
@@ -3261,9 +3262,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (3), [[Search]] (1), [[Microsoft Word|Word]] (1), [[Unity]] (1)
 > **Env Vars:** lm358 (14), pdip (1)
 > **CLI Commands:** rails (3), find (2)
-> **Code Keywords:** continue (2), require (1), function (1), raise (1)
 > **Code Identifiers:** db (3)
 > **Versions:** 0.7 (2), 1.5 (1)
 > **Tools:** terminal (3)
@@ -3273,7 +3274,7 @@ created: 2026-04-29
 
 ### 8. Op-Amp Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compare signals
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/compare-signals-14914780?u=76281980)
@@ -3348,9 +3349,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), power (2)
 > **Versions:** 2.5 (3), 3.3 (2)
 > **Tools:** terminal (5)
-> **Code Keywords:** static (1), raise (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** rails (1)
@@ -3443,9 +3444,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (3)
 > **Tools:** terminal (8)
 > **Definitions:** is called (2), means that (1), is an  (1), is a  (1)
-> **Code Keywords:** raise (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -3563,13 +3564,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (23), data (1), node (1), [[Unity]] (1), [[Arduino]] (1)
 > **CLI Commands:** rails (4), make (1), node (1), find (1)
 > **Tools:** terminal (6)
 > **Versions:** 4.5 (4), 1.5 (1)
 > **Env Vars:** tc7660h (2), dmm (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (1), you'll need (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 
 #### Amplify signals
@@ -3679,8 +3680,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (1), [[Unity]] (1)
 > **Tools:** terminal (15)
-> **Code Keywords:** let (3), static (2), match. (1), pass (1), require (1)
 > **CLI Commands:** make (4), node (1)
 > **Analogies:** similar to (2), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3796,7 +3797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (40), function (2)
+> **Frameworks & Libraries:** [[Unity]] (6), power (2), application (1), next (1)
 > **Code Identifiers:** db (3)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), for example (1)
@@ -3881,7 +3882,6 @@ created: 2026-04-29
 > **Tools:** terminal (7)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** pass (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3964,7 +3964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1)
+> **Frameworks & Libraries:** power (1)
 > **Code Identifiers:** khz (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
@@ -4286,7 +4286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (11), function (2), static (2)
+> **Frameworks & Libraries:** power (10), [[Unity]] (3), application (1), next (1), [[Electronics]] (1)
 > **CLI Commands:** make (3), rails (2), find (1)
 > **Versions:** 4.5 (3), 3.3 (2), 4.7 (1)
 > **Non-Speech:** (soft upbeat music) (5)
@@ -4297,7 +4297,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your journey with electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/continue-your-journey-with-electronics?u=76281980)
@@ -4334,7 +4334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Electronics]] (5)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - thanks (1)

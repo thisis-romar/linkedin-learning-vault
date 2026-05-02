@@ -38,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-orchestration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Developing%20and%20Testing%20Your%20AI%20Prototype.md)
@@ -57,30 +57,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Developing an AI prototype
-  - What you should know
+  - [Developing an AI prototype](#developing-an-ai-prototype)
+  - [What you should know](#what-you-should-know)
 - [**1. Building an AI Prototype**](#1-building-an-ai-prototype) (3 videos)
-  - What is an AI MVP?
-  - Choosing tools and frameworks for AI prototyping
-  - Building an MVP from scratch
+  - [What is an AI MVP?](#what-is-an-ai-mvp)
+  - [Choosing tools and frameworks for AI prototyping](#choosing-tools-and-frameworks-for-ai-prototyping)
+  - [Building an MVP from scratch](#building-an-mvp-from-scratch)
 - [**2. Debugging and Troubleshooting AI Applications**](#2-debugging-and-troubleshooting-ai-applications) (3 videos)
-  - Common AI prototype issues
-  - Debugging overfitting and underfitting
-  - Handling data-related errors
+  - [Common AI prototype issues](#common-ai-prototype-issues)
+  - [Debugging overfitting and underfitting](#debugging-overfitting-and-underfitting)
+  - [Handling data-related errors](#handling-data-related-errors)
 - [**3. Testing and Debugging Your AI Prototype**](#3-testing-and-debugging-your-ai-prototype) (3 videos)
-  - Why testing matters in AI development
-  - Unit testing for AI components
-  - Performance testing your AI model
+  - [Why testing matters in AI development](#why-testing-matters-in-ai-development)
+  - [Unit testing for AI components](#unit-testing-for-ai-components)
+  - [Performance testing your AI model](#performance-testing-your-ai-model)
 - [**4. Preparing Your Prototype for Production**](#4-preparing-your-prototype-for-production) (3 videos)
-  - Transitioning from prototype to production
-  - Optimizing your prototype for scalability
-  - Common production pitfalls
+  - [Transitioning from prototype to production](#transitioning-from-prototype-to-production)
+  - [Optimizing your prototype for scalability](#optimizing-your-prototype-for-scalability)
+  - [Common production pitfalls](#common-production-pitfalls)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing an AI prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), functional (1), llm (1), [[Deep Learning]] (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [nayan] (1)
 
@@ -136,8 +136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Data Manipulation]] (1), [[Algorithms]] (1)
 > **Tools:** jupyter (2), colab (2), github (1)
-> **Code Keywords:** finally, (1), let (1), this, (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** mvp (1)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Building an AI Prototype
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an AI MVP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980)
@@ -269,8 +269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (25), data (8), [[Google]] (4), next (2), chatbot (2)
 > **Env Vars:** mvp (14), api (1), gpt (1)
-> **Code Keywords:** finally, (4), let (3), interface (2), self (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
@@ -361,8 +361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (21), api (6), cloud (6), aws (4), [[Scalability]] (3)
 > **Env Vars:** api (6), aws (4), gpt (2), jax (1)
-> **Code Keywords:** let (3), finally, (2), require (1)
 > **CLI Commands:** aws (4), make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -444,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (2)
+> **Frameworks & Libraries:** data (7), product (4), [[Tokens]] (2), next (1), [[Transformer Models]] (1)
 > **Prerequisites:** install (1), set up (1)
 > **Env Vars:** bert (1)
 > **Definitions:** is a  (1)
@@ -455,7 +455,7 @@ created: 2026-04-29
 
 ### 2. Debugging and Troubleshooting AI Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common AI prototype issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980)
@@ -540,8 +540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), ai (5), feature (2), rag (2), [[Search]] (2)
 > **Env Vars:** rag (2), llm (1), api (1), bm25 (1)
-> **Code Keywords:** let (2), this. (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -626,7 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), finally, (2)
+> **Frameworks & Libraries:** data (7), [[Transformer Models]] (1), next (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **Env Vars:** mvp (1)
 > **Cross-References:** as you saw (1)
 > **Definitions:** is a  (1)
@@ -751,7 +751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (5), let (2), this, (1), require (1), this. (1)
+> **Frameworks & Libraries:** data (43), ai (8), feature (3), [[Feature Engineering]] (2), [[Debugging]] (1)
 > **Env Vars:** knn (1), maml (1), mvp (1)
 > **CLI Commands:** node (1), make (1)
 > **Definitions:** is a  (2)
@@ -762,7 +762,7 @@ created: 2026-04-29
 
 ### 3. Testing and Debugging Your AI Prototype
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why testing matters in AI development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980)
@@ -871,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (4), let (2)
+> **Frameworks & Libraries:** ai (18), data (14), [[Software Testing]] (2), [[Unit Testing]] (2), next (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -988,7 +988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (5), let (2), break. (1), function (1), throw (1)
+> **Frameworks & Libraries:** data (10), ai (6), [[Feature Engineering]] (4), api (4), [[Unit Testing]] (3)
 > **Env Vars:** api (4), llm (3), rag (1)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** for instance (3)
@@ -1063,7 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), case, (1), finally, (1), function (1)
+> **Frameworks & Libraries:** ai (1), product (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** mvp (1)
 > **Analogies:** for instance (1)
@@ -1073,7 +1073,7 @@ created: 2026-04-29
 
 ### 4. Preparing Your Prototype for Production
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transitioning from prototype to production
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980)
@@ -1168,8 +1168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (5), aws (3), api (2), [[Real-Time]] (2)
 > **Env Vars:** api (3), aws (3), mvp (1), dvc (1), onix (1)
-> **Code Keywords:** let (2), self (2), finally, (2), protected (1), case, (1)
 > **CLI Commands:** aws (3), make (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -1238,7 +1238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Scalability]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** onnx (2), mvp (1), jit (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** measure_model_performance (1)
@@ -1334,7 +1334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), this, (1)
+> **Frameworks & Libraries:** data (15), ai (6), api (4), [[Security]] (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** api (4), gpt (1), aws (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), aws (1)
@@ -1343,7 +1343,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980)
@@ -1378,7 +1378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** ai (11), [[Orchestration]] (4), [[Debugging]] (2), [[LinkedIn]] (2), [[LangChain]] (1)
 > **Env Vars:** lms (1), llm (1)
 > **Speakers:** - [instructor] (1)
 

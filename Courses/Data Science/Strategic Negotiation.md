@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/strategic-negotiations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Negotiation.md)
@@ -45,31 +45,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Intentional negotiation
+  - [Intentional negotiation](#intentional-negotiation)
 - [**1. Assess the Situation**](#1-assess-the-situation) (4 videos)
-  - Defining the context of the negotiation
-  - Understanding relationships in negotiation
-  - Choosing a negotiation style
-  - Emotion and fairness in negotiation
+  - [Defining the context of the negotiation](#defining-the-context-of-the-negotiation)
+  - [Understanding relationships in negotiation](#understanding-relationships-in-negotiation)
+  - [Choosing a negotiation style](#choosing-a-negotiation-style)
+  - [Emotion and fairness in negotiation](#emotion-and-fairness-in-negotiation)
 - [**2. Gather Data**](#2-gather-data) (3 videos)
-  - Understanding players and positions in negotiation
-  - Structuring a deal in negotiation
-  - Anchoring a deal in negotiation
+  - [Understanding players and positions in negotiation](#understanding-players-and-positions-in-negotiation)
+  - [Structuring a deal in negotiation](#structuring-a-deal-in-negotiation)
+  - [Anchoring a deal in negotiation](#anchoring-a-deal-in-negotiation)
 - [**3. Make a Deal**](#3-make-a-deal) (3 videos)
-  - Defining your goals in a negotiation
-  - Sequencing a deal in a negotiation
-  - Negotiation techniques
+  - [Defining your goals in a negotiation](#defining-your-goals-in-a-negotiation)
+  - [Sequencing a deal in a negotiation](#sequencing-a-deal-in-a-negotiation)
+  - [Negotiation techniques](#negotiation-techniques)
 - [**4. Measure and Adjust**](#4-measure-and-adjust) (3 videos)
-  - Assessing what happened in a negotiation
-  - Changing your approach in a negotiation
-  - Setting up for future deals
+  - [Assessing what happened in a negotiation](#assessing-what-happened-in-a-negotiation)
+  - [Changing your approach in a negotiation](#changing-your-approach-in-a-negotiation)
+  - [Setting up for future deals](#setting-up-for-future-deals)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Avoiding common negotiation pitfalls
-  - Preparing for negotiation success
+  - [Avoiding common negotiation pitfalls](#avoiding-common-negotiation-pitfalls)
+  - [Preparing for negotiation success](#preparing-for-negotiation-success)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intentional negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/placeholder-name?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 ### 1. Assess the Situation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the context of the negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/defining-the-context-of-the-negotiation?u=76281980)
@@ -166,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - the (1)
@@ -225,8 +226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3)
 > **CLI Commands:** make (3)
-> **Code Keywords:** from. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - relationships (1)
@@ -363,14 +364,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - two (1)
 
 
 ### 2. Gather Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding players and positions in negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980)
@@ -419,6 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1), business (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - having (1)
 
@@ -483,9 +484,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (1), management (1), teams (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** roi (2), npv (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - deal (1)
 
@@ -562,7 +563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), switch (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - there (1)
@@ -570,7 +571,7 @@ created: 2026-04-29
 
 ### 3. Make a Deal
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining your goals in a negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/defining-your-goals-in-a-negotiation?u=76281980)
@@ -629,6 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), leadership (1)
 > **CLI Commands:** make (5)
 > **Speakers:** - before (1)
 
@@ -669,7 +671,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
 > **CLI Commands:** make (4)
 > **Speakers:** - there (1)
 
@@ -740,9 +741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), next (2), career (1)
 > **Definitions:** is called (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** throw (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - over (1)
@@ -750,7 +751,7 @@ created: 2026-04-29
 
 ### 4. Measure and Adjust
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing what happened in a negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/assessing-what-happened-in-a-negotiation?u=76281980)
@@ -930,6 +931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (1)
@@ -939,7 +941,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding common negotiation pitfalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/avoiding-common-negotiation-pitfalls?u=76281980)
@@ -1014,8 +1016,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Warnings:** pitfall (3)
-> **Code Keywords:** function (1), this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
@@ -1060,6 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - as (1)
 

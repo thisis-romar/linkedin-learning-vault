@@ -30,7 +30,7 @@ tags:
   - skill/software-design-patterns
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Design%20Patterns.md)
@@ -49,49 +49,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know
-  - Using the exercise files
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Overview**](#1-overview) (3 videos)
-  - What are design patterns?
-  - Gang of Four: Design patterns
-  - Anti-patterns
+  - [What are design patterns?](#what-are-design-patterns)
+  - [Gang of Four: Design patterns](#gang-of-four-design-patterns)
+  - [Anti-patterns](#anti-patterns)
 - [**2. Creational Patterns**](#2-creational-patterns) (8 videos)
-  - The singleton problem
-  - The Singletons pattern
-  - Singletons in Node
-  - The Prototype pattern
-  - The prototype clone method
-  - The Factory pattern
-  - The Builder pattern
-  - Implementing a builder
+  - [The singleton problem](#the-singleton-problem)
+  - [The Singletons pattern](#the-singletons-pattern)
+  - [Singletons in Node](#singletons-in-node)
+  - [The Prototype pattern](#the-prototype-pattern)
+  - [The prototype clone method](#the-prototype-clone-method)
+  - [The Factory pattern](#the-factory-pattern)
+  - [The Builder pattern](#the-builder-pattern)
+  - [Implementing a builder](#implementing-a-builder)
 - [**3. Structural Patterns**](#3-structural-patterns) (8 videos)
-  - The Adapter pattern
-  - Implementing an adapter
-  - The Proxy pattern
-  - Implementing a proxy
-  - The Composite pattern
-  - Implementing composites
-  - The Decorator pattern
-  - Implementing decorators
+  - [The Adapter pattern](#the-adapter-pattern)
+  - [Implementing an adapter](#implementing-an-adapter)
+  - [The Proxy pattern](#the-proxy-pattern)
+  - [Implementing a proxy](#implementing-a-proxy)
+  - [The Composite pattern](#the-composite-pattern)
+  - [Implementing composites](#implementing-composites)
+  - [The Decorator pattern](#the-decorator-pattern)
+  - [Implementing decorators](#implementing-decorators)
 - [**4. Behavioral Patterns**](#4-behavioral-patterns) (11 videos)
-  - Chain of responsibility
-  - Implementing the storage class
-  - The Command pattern
-  - Implementing commands
-  - Improving the conductor
-  - The Iterator pattern
-  - Implementing iterators
-  - The Observer pattern
-  - Implementing observers
-  - The Strategy pattern
-  - Implementing strategies
+  - [Chain of responsibility](#chain-of-responsibility)
+  - [Implementing the storage class](#implementing-the-storage-class)
+  - [The Command pattern](#the-command-pattern)
+  - [Implementing commands](#implementing-commands)
+  - [Improving the conductor](#improving-the-conductor)
+  - [The Iterator pattern](#the-iterator-pattern)
+  - [Implementing iterators](#implementing-iterators)
+  - [The Observer pattern](#the-observer-pattern)
+  - [Implementing observers](#implementing-observers)
+  - [The Strategy pattern](#the-strategy-pattern)
+  - [Implementing strategies](#implementing-strategies)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980)
@@ -122,9 +122,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (7), [[JavaScript]] (3), [[Node.js]] (2), [[Software Development]] (1), [[Java]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [alex] (1)
 
@@ -169,9 +169,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (7), [[JavaScript]] (5), [[Design Patterns]] (3), node (2), [[Programming]] (1)
 > **CLI Commands:** node (9), make (3)
 > **File Paths:** node.js (7)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -199,7 +199,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (2)
-> **Code Keywords:** class, (1), let (1)
 > **Tools:** vs code (1), sublime (1)
 > **Exercise Files:** exercise files (2)
 > **Env Vars:** ide (1)
@@ -208,7 +207,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980)
@@ -255,6 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (7), application (2), [[Software Development]] (1), [[Programming]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -318,9 +318,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (13), [[Engineering]] (3), [[Software Design Patterns]] (2), [[Programming]] (2), [[Node.js]] (2)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
-> **Code Keywords:** module (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -363,6 +363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (3), [[JavaScript]] (3), application (2), node (1), [[Programming]] (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -371,7 +372,7 @@ created: 2026-04-29
 
 ### 2. Creational Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The singleton problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-singleton-problem?u=76281980)
@@ -456,8 +457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Debugging]] (2), node (1)
 > **File Paths:** index.js (3), shopper.js (2), logger.js (1), store.js (1)
-> **Code Keywords:** let (2), class, (2), class. (1), finally, (1)
 > **CLI Commands:** make (1), node (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -536,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (3)
+> **Frameworks & Libraries:** application (2), next (1), node (1)
 > **File Paths:** index.js (2), logger.js (1)
 > **Code Identifiers:** getinstance (3)
 > **CLI Commands:** node (1)
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (3), class. (2)
+> **Frameworks & Libraries:** node (5), application (2), [[Programming]] (1)
 > **CLI Commands:** node (5), make (1)
 > **File Paths:** logger.js (1), store.js (1), shopper.js (1), index.js (1)
 > **Definitions:** is a  (2), means that (1)
@@ -670,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (1), next (1)
 > **File Paths:** index.js (2), scout_prototype.js (1)
-> **Code Keywords:** let (2), class, (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Code Identifiers:** scout_prototype (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -744,7 +745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), var (1), this) (1), this. (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (1), node (1)
 > **CLI Commands:** make (3), node (1)
 > **File Paths:** shopper.js (1), index.js (1)
 > **Code Identifiers:** getprototypeof (1)
@@ -846,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (5), module (2), interface (1), return. (1)
+> **Frameworks & Libraries:** application (4), [[JavaScript]] (2), [[Microsoft Products|Products]] (1), product (1)
 > **Definitions:** is an  (4), is called (1), is a  (1)
 > **File Paths:** index.js (2), factory.js (1)
 > **Tools:** terminal (2)
@@ -964,8 +965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), application (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Definitions:** is an  (5), is a  (2), means that (2)
-> **Code Keywords:** let (3), pass (1), finally, (1), class. (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** later in (1), in the next (1)
 > **File Paths:** index.js (1)
@@ -1144,7 +1145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (7), let (6), class. (3), class, (3), pass (1)
+> **Frameworks & Libraries:** next (1), node (1)
 > **Code Identifiers:** makeparttime (3), makeemployee (2), makemanager (2), tostring (2), isemployee (1)
 > **CLI Commands:** make (5), node (1)
 > **File Paths:** index.js (4), person.js (1)
@@ -1156,7 +1157,7 @@ created: 2026-04-29
 
 ### 3. Structural Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980)
@@ -1227,7 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Node.js]] (3), api (2), web (1), data (1)
 > **CLI Commands:** node (4), make (1)
 > **File Paths:** node.js (3), index.js (1)
 > **Env Vars:** api (2)
@@ -1395,7 +1396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (11), let (7), interface (5), require (1), function (1)
+> **Frameworks & Libraries:** [[JSON]] (17), data (9), api (6), node (3), [[JavaScript]] (1)
 > **Code Identifiers:** localstorage (13), writefile (2), existssync (2), readfilesync (2), getitem (1)
 > **Env Vars:** json (9), api (6)
 > **File Paths:** localstorage.json (8), index.js (2)
@@ -1455,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), interface (2), let (2)
+> **Frameworks & Libraries:** data (2), [[Security]] (1), generic (1), node (1), next (1)
 > **Env Vars:** ceo (5)
 > **CLI Commands:** make (2), node (1)
 > **File Paths:** index.js (2)
@@ -1565,7 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (6), function (2), require (1), delete (1)
+> **Frameworks & Libraries:** next (1), hit (1), data (1), node (1)
 > **Code Identifiers:** readfile (10), writefile (1), appendfile (1)
 > **CLI Commands:** make (5), node (1)
 > **File Paths:** index.js (3)
@@ -1655,7 +1656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), class. (1), case, (1), class, (1)
+> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **Definitions:** means that (2), is a  (1)
 > **File Paths:** index.js (2)
 > **CLI Commands:** find (1), make (1)
@@ -1759,7 +1760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), class, (1), implements (1), interface (1)
+> **Frameworks & Libraries:** next (3), [[Jetpack Compose|Compose]] (3), node (2)
 > **CLI Commands:** make (5), node (2)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **File Paths:** index.js (3)
@@ -1871,7 +1872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (2), this. (1), var (1)
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** shopper.js (2), index.js (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1973,7 +1974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (4), class, (2), module (2), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (2), node (2), next (1)
 > **Code Identifiers:** baseitem (8), cutsglass (1)
 > **File Paths:** index.js (4)
 > **CLI Commands:** make (2), node (2)
@@ -1985,7 +1986,7 @@ created: 2026-04-29
 
 ### 4. Behavioral Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Chain of responsibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980)
@@ -2114,7 +2115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (2), this, (1), case. (1), finally, (1)
+> **Frameworks & Libraries:** next (9), [[Search]] (5), data (2), [[Representational State Transfer (REST)|Rest]] (1), node (1)
 > **CLI Commands:** find (10), node (1)
 > **File Paths:** index.js (3)
 > **Analogies:** similar to (1), for instance (1)
@@ -2272,7 +2273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (11), let (7), implements (3), class, (2), class. (1)
+> **Frameworks & Libraries:** next (15), [[Search]] (8), node (2), data (1), application (1)
 > **CLI Commands:** find (13), make (2), node (2)
 > **File Paths:** index.js (4), storage.js (2)
 > **Cross-References:** in the last (2), in the next (1)
@@ -2401,7 +2402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), finally, (2), switch (1), this. (1)
+> **Frameworks & Libraries:** application (5), next (2), prompt (2), data (1), node (1)
 > **File Paths:** hello.txt (3), index.js (1), conductor.js (1), commands.js (1)
 > **CLI Commands:** node (1), find (1)
 > **Tools:** terminal (2)
@@ -2569,7 +2570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (7), this. (6), module (3), class. (2)
+> **Frameworks & Libraries:** node (4), next (2), application (1), power (1)
 > **File Paths:** commands.js (2), hello.txt (2), conductor.js (1), index.js (1), node.index.js (1)
 > **CLI Commands:** node (4), make (4)
 > **Code Identifiers:** filename (2), fullpath (2), writefile (1)
@@ -2733,7 +2734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (7), interface (2), implements (1), require (1)
+> **Frameworks & Libraries:** application (2), power (1)
 > **File Paths:** commands.js (2), index.js (1), helloworld.txt (1), hiworld.txt (1), yoworld.txt (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (2)
@@ -2832,7 +2833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), class, (2), this, (1), switch (1)
+> **Frameworks & Libraries:** next (7), data (4), application (2), [[Representational State Transfer (REST)|Rest]] (1), node (1)
 > **File Paths:** index.js (3), inventoryitem.js (1)
 > **CLI Commands:** make (3), node (1)
 > **Prerequisites:** set up (3)
@@ -2948,7 +2949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (2), function (1), class, (1), this. (1)
+> **Frameworks & Libraries:** next (9), application (2), node (2), [[JavaScript]] (1)
 > **CLI Commands:** make (3), node (2)
 > **Code Identifiers:** hasnext (3)
 > **File Paths:** iterator.js (1)
@@ -3060,7 +3061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), implements (2), class, (1), class. (1)
+> **Frameworks & Libraries:** node (1), next (1)
 > **Definitions:** is a  (2), means that (2), known as (1), is an  (1)
 > **Exercise Files:** exercise files (2)
 > **File Paths:** index.js (1)
@@ -3140,7 +3141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3)
+> **Frameworks & Libraries:** node (1)
 > **CLI Commands:** make (3), node (1)
 > **File Paths:** index.js (2), store.js (1)
 > **Definitions:** is a  (2)
@@ -3246,7 +3247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (1), implements (1)
+> **Frameworks & Libraries:** application (4), [[Algorithms]] (2), node (2), [[Design Patterns]] (1), [[JSON]] (1)
 > **File Paths:** index.js (3), logger.js (2), config.json (1)
 > **CLI Commands:** make (3), node (2)
 > **Definitions:** means that (2), is a  (1)
@@ -3442,7 +3443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), static (5), this. (5), class. (2), function (2)
+> **Frameworks & Libraries:** application (6), [[npm]] (5), [[JSON]] (4), node (3), data (2)
 > **CLI Commands:** npm (5), make (4), node (3)
 > **File Paths:** index.js (4), logs.txt (3), logger.js (2), config.json (1), strategy.js (1)
 > **Env Vars:** npm (5), json (3)
@@ -3454,7 +3455,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980)
@@ -3483,9 +3484,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Node.js]] (3), [[JavaScript]] (3), [[Programming]] (1), [[Java]] (1)
 > **File Paths:** node.js (3)
 > **CLI Commands:** node (3)
-> **Code Keywords:** class, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [alex] (1)
 

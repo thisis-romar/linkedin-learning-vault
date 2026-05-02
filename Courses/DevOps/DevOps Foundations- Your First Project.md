@@ -26,7 +26,7 @@ tags:
   - topic/devops
   - skill/devops
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/DevOps%20Foundations-%20Your%20First%20Project.md)
@@ -45,66 +45,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Your first project, DevOps-ified!
-  - What you should know
-  - Configuring AWS
+  - [Your first project, DevOps-ified!](#your-first-project-devops-ified)
+  - [What you should know](#what-you-should-know)
+  - [Configuring AWS](#configuring-aws)
 - [**1. The Project/The Mission**](#1-the-projectthe-mission) (3 videos)
-  - So what is this DevOps thing anyway?
-  - Your application, pre-DevOps
-  - Your application, post-DevOps
+  - [So what is this DevOps thing anyway?](#so-what-is-this-devops-thing-anyway)
+  - [Your application, pre-DevOps](#your-application-pre-devops)
+  - [Your application, post-DevOps](#your-application-post-devops)
 - [**2. Testing Locally with Docker**](#2-testing-locally-with-docker) (4 videos)
-  - Bring production to your laptop with Docker
-  - Installing Docker
-  - Writing your first Dockerfile
-  - Writing your first Docker Compose manifest
+  - [Bring production to your laptop with Docker](#bring-production-to-your-laptop-with-docker)
+  - [Installing Docker](#installing-docker)
+  - [Writing your first Dockerfile](#writing-your-first-dockerfile)
+  - [Writing your first Docker Compose manifest](#writing-your-first-docker-compose-manifest)
 - [**3. Getting Started with Git**](#3-getting-started-with-git) (4 videos)
-  - Version control: The secret weapon of DevOps
-  - Installing Git
-  - Initializing your first Git repository
-  - Getting familiar with the Git workflow
+  - [Version control: The secret weapon of DevOps](#version-control-the-secret-weapon-of-devops)
+  - [Installing Git](#installing-git)
+  - [Initializing your first Git repository](#initializing-your-first-git-repository)
+  - [Getting familiar with the Git workflow](#getting-familiar-with-the-git-workflow)
 - [**4. Collaborative Version Control**](#4-collaborative-version-control) (6 videos)
-  - Beyond local repositories
-  - Introducing GitLab
-  - Creating the GitLab Docker Compose service
-  - Starting the GitLab Compose service
-  - Creating our first GitLab project
-  - Connecting Git to GitLab
+  - [Beyond local repositories](#beyond-local-repositories)
+  - [Introducing GitLab](#introducing-gitlab)
+  - [Creating the GitLab Docker Compose service](#creating-the-gitlab-docker-compose-service)
+  - [Starting the GitLab Compose service](#starting-the-gitlab-compose-service)
+  - [Creating our first GitLab project](#creating-our-first-gitlab-project)
+  - [Connecting Git to GitLab](#connecting-git-to-gitlab)
 - [**5.  Testing Your App with RSpec, Capybara, and Selenium**](#5-testing-your-app-with-rspec-capybara-and-selenium) (9 videos)
-  - Test often, ship often
-  - Setting up your test
-  - Viewing our test harness in Docker Compose
-  - Updating the Dockerfile
-  - Running the test
-  - Finding criteria for a unit test
-  - Writing the unit test
-  - Setting up Selenium
-  - Running your test with Selenium
+  - [Test often, ship often](#test-often-ship-often)
+  - [Setting up your test](#setting-up-your-test)
+  - [Viewing our test harness in Docker Compose](#viewing-our-test-harness-in-docker-compose)
+  - [Updating the Dockerfile](#updating-the-dockerfile)
+  - [Running the test](#running-the-test)
+  - [Finding criteria for a unit test](#finding-criteria-for-a-unit-test)
+  - [Writing the unit test](#writing-the-unit-test)
+  - [Setting up Selenium](#setting-up-selenium)
+  - [Running your test with Selenium](#running-your-test-with-selenium)
 - [**6. Infrastructure as Code with OpenTofu**](#6-infrastructure-as-code-with-opentofu) (10 videos)
-  - Deploy with confidence with infrastructure as code
-  - Finding the version of OpenTofu to use
-  - Adding OpenTofu to Docker Compose
-  - AWS deployment explained
-  - Writing your integration test
-  - Writing OpenTofu code
-  - Reviewing the OpenTofu plan
-  - Applying the OpenTofu plan
-  - Running your integration test
-  - Destroying the website from AWS S3
+  - [Deploy with confidence with infrastructure as code](#deploy-with-confidence-with-infrastructure-as-code)
+  - [Finding the version of OpenTofu to use](#finding-the-version-of-opentofu-to-use)
+  - [Adding OpenTofu to Docker Compose](#adding-opentofu-to-docker-compose)
+  - [AWS deployment explained](#aws-deployment-explained)
+  - [Writing your integration test](#writing-your-integration-test)
+  - [Writing OpenTofu code](#writing-opentofu-code)
+  - [Reviewing the OpenTofu plan](#reviewing-the-opentofu-plan)
+  - [Applying the OpenTofu plan](#applying-the-opentofu-plan)
+  - [Running your integration test](#running-your-integration-test)
+  - [Destroying the website from AWS S3](#destroying-the-website-from-aws-s3)
 - [**7. CI/CD as Code**](#7-cicd-as-code) (8 videos)
-  - Shipping fast with CI/CD
-  - Introducing GitLab CI
-  - Writing our first Gitlab CI workflow
-  - Configuring sensitive variables
-  - Creating our first Gitlab CI runner
-  - Putting it all together
-  - Challenge: Change the website title
-  - Solution: Change the website title
+  - [Shipping fast with CI/CD](#shipping-fast-with-cicd)
+  - [Introducing GitLab CI](#introducing-gitlab-ci)
+  - [Writing our first Gitlab CI workflow](#writing-our-first-gitlab-ci-workflow)
+  - [Configuring sensitive variables](#configuring-sensitive-variables)
+  - [Creating our first Gitlab CI runner](#creating-our-first-gitlab-ci-runner)
+  - [Putting it all together](#putting-it-all-together)
+  - [Challenge: Change the website title](#challenge-change-the-website-title)
+  - [Solution: Change the website title](#solution-change-the-website-title)
 - [**8. Conclusion**](#8-conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your first project, DevOps-ified!
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980)
@@ -137,8 +137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Git]] (1), ci (1), cd (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** docker (1), git (1), cd (1)
-> **Code Keywords:** let (1)
 
 #### What you should know
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/what-you-should-know-24079507?u=76281980)
@@ -167,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Linux]] (1), [[Programming]] (1), web (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (4), ide (1)
 > **Tools:** bash (1), zsh (1), vim (1)
@@ -404,10 +405,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (17), aws (16), hit (7), [[CLI]] (4), [[JSON]] (4)
 > **Env Vars:** aws (11), iam (7), cli (4), json (4), sts (2)
 > **UI Navigation:** click on (26), scroll down (2), checkbox (1)
 > **CLI Commands:** aws (16), make (3)
-> **Code Keywords:** let (8), continue (1), require (1), case. (1), this. (1)
 > **Cross-References:** go back to (5), in the next (1), later in (1)
 > **Tools:** terminal (7)
 > **Analogies:** for example (4), similar to (1)
@@ -416,7 +417,7 @@ created: 2026-04-29
 
 ### 1. The Project/The Mission
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### So what is this DevOps thing anyway?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980)
@@ -533,8 +534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (12), next (3), business (3), [[Engineering]] (1), [[Security]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** this. (1), finally, (1)
 > **Cross-References:** in the next (1)
 
 #### Your application, pre-DevOps
@@ -588,7 +589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), this. (1)
+> **Frameworks & Libraries:** teams (3), [[DevOps]] (2), [[Engineering]] (1), [[Git]] (1), [[Slack]] (1)
 > **CLI Commands:** git (1), find (1)
 > **Env Vars:** uat (1)
 > **Cross-References:** next video (1)
@@ -658,16 +659,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (9), teams (3), leadership (2), traffic (1), product (1)
 > **CLI Commands:** docker (3), make (1), git (1)
 > **Tools:** gitlab (2), slack (1)
 > **Env Vars:** cto (2)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** ios (1)
 
 
 ### 2. Testing Locally with Docker
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bring production to your laptop with Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980)
@@ -720,8 +721,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Configuration Management]] (2), [[Virtual Machines]] (2), [[Engineering]] (1), [[Software Development]] (1)
 > **CLI Commands:** docker (5), ansible (1)
-> **Code Keywords:** let (1), else. (1), super (1)
 > **Prerequisites:** configure (1), install (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -945,9 +946,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Linux]] (3), next (3), [[Microsoft Products|Products]] (2), [[Windows 10]] (1)
 > **CLI Commands:** docker (45), rm (2)
 > **Tools:** docker desktop (21), terminal (4), firefox (2), safari (1)
-> **Code Keywords:** let (8), continue (5), case, (2), this, (2), for. (1)
 > **UI Navigation:** click on (13), select the (1)
 > **Prerequisites:** you'll need (3), configure (3), install (1)
 > **Analogies:** just like (5)
@@ -1139,8 +1140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (2), hit (2), next (2), [[Fetch]] (1), [[Configuration Management]] (1)
 > **CLI Commands:** docker (24), make (3), cd (2), cp (2), find (2)
-> **Code Keywords:** let (17), finally, (4), case, (3), this, (2), this. (1)
 > **Tools:** terminal (6), vim (2), visual studio (1), intellij (1)
 > **Env Vars:** copy (2), label (1)
 > **Exercise Files:** exercise file (2), exercise files (1)
@@ -1295,8 +1296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (33), [[LinkedIn]] (2), [[CLI]] (1), cd (1), [[JSON]] (1)
 > **CLI Commands:** docker (33), make (1), cd (1)
-> **Code Keywords:** let (8), this. (4), this, (2), delete (2), default. (1)
 > **Env Vars:** yaml (3), cli (1), json (1)
 > **Code Identifiers:** service_name (2), image_name (1)
 > **Tools:** terminal (2), docker desktop (1)
@@ -1307,7 +1308,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Git
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Version control: The secret weapon of DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980)
@@ -1426,8 +1427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (20), [[CLI]] (5), feature (2), [[Version Control]] (2), teams (2)
 > **CLI Commands:** git (20), make (3)
-> **Code Keywords:** let (3), this, (1), require (1), finally, (1), super (1)
 > **Env Vars:** cli (5), svn (1), cvs (1)
 > **Exercise Files:** source code (6)
 > **Analogies:** for example (3), imagine (1)
@@ -1568,8 +1569,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (28), next (13), [[Windows]] (4), hit (2), [[Search]] (1)
 > **CLI Commands:** git (28), ssh (2), make (1)
-> **Code Keywords:** let (7), continue (4), this, (2), this. (2), case, (2)
 > **UI Navigation:** select the (6), click on (4), double-click (1)
 > **Prerequisites:** install (8)
 > **Tools:** terminal (4), bash (2), vim (1)
@@ -1612,8 +1613,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), cd (1), next (1)
 > **CLI Commands:** git (7), make (1), cd (1), ls (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 
@@ -1738,8 +1739,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (26), [[Jetpack Compose|Compose]] (2), hit (2), business (1), [[GitHub]] (1)
 > **CLI Commands:** git (26), docker (2), make (2), ls (1)
-> **Code Keywords:** let (7), this. (3), private (1), require (1)
 > **Tools:** vim (3), gitlab (2), terminal (1), visual studio (1), github (1)
 > **Definitions:** means that (2), is a  (2), we call this (1), is called (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -1750,7 +1751,7 @@ created: 2026-04-29
 
 ### 4. Collaborative Version Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beyond local repositories
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980)
@@ -1821,8 +1822,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (6), [[Version Control]] (2), [[Linux]] (2), [[Search]] (2), [[Code Review]] (2)
 > **CLI Commands:** git (6), make (3), find (1), cd (1)
-> **Code Keywords:** finally, (1), require (1), for, (1), static (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Env Vars:** dvcs (1), cli (1)
 > **Cross-References:** later in (1), in the next (1)
@@ -1859,6 +1860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (3), open-source (3), [[GitHub]] (2), [[Git]] (2), ci (2)
 > **Tools:** gitlab (10), github (2), bitbucket (1)
 > **CLI Commands:** git (2), make (1)
 > **Cross-References:** in the last (2), later in (1)
@@ -1967,9 +1969,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (14), next (3), cd (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **CLI Commands:** docker (13), make (3), ssh (2), cd (1), cp (1)
 > **Tools:** gitlab (12), terminal (1)
-> **Code Keywords:** let (5), this. (3), private (1), this, (1), delete (1)
 > **Ports:** port 22 (3), port 2222 (2), :102 (1)
 > **File Paths:** docker-compose.yaml (3)
 > **Env Vars:** ssh (2), fqdn (1)
@@ -2169,8 +2171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Jetpack Compose|Compose]] (3), next (2), dns (2), application (1)
 > **Tools:** gitlab (36), terminal (4), safari (1)
-> **Code Keywords:** let (16), this, (2), private (2), continue (1), case, (1)
 > **CLI Commands:** make (13), docker (6), sudo (1), cat (1), ls (1)
 > **URLs:** [example.com](https://example.com) (8), [gitlab.com](https://gitlab.com) (1), [https://gitlab](https://gitlab) (1)
 > **Env Vars:** dns (2), ide (1), isp (1)
@@ -2315,7 +2317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), public (9), private (6), this, (2), finally, (2)
+> **Frameworks & Libraries:** next (5), [[Git]] (4), hit (2)
 > **CLI Commands:** ssh (11), git (4), make (3), cat (2), find (1)
 > **Tools:** gitlab (12), terminal (2)
 > **Env Vars:** ssh (10)
@@ -2559,8 +2561,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (28), [[Jetpack Compose|Compose]] (3), next (3), [[Linux]] (2), generic (1)
 > **CLI Commands:** git (28), ssh (9), make (3), docker (3), cd (1)
-> **Code Keywords:** let (14), this, (3), this. (2), continue (2), private (2)
 > **Tools:** gitlab (24), vim (2), terminal (1)
 > **Env Vars:** ssh (8)
 > **UI Navigation:** click on (4), go to (1)
@@ -2571,7 +2573,7 @@ created: 2026-04-29
 
 ### 5.  Testing Your App with RSpec, Capybara, and Selenium
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test often, ship often
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980)
@@ -2650,8 +2652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3), [[Selenium]] (2), [[Version Control]] (1), [[Git]] (1), cd (1)
 > **CLI Commands:** make (4), docker (3), ruby (2), git (1), cd (1)
-> **Code Keywords:** let (6), this. (1), finally, (1)
 > **Tools:** gitlab (1), terminal (1)
 
 #### Setting up your test
@@ -2835,7 +2837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (6), static (1), super (1), default. (1)
+> **Frameworks & Libraries:** [[Git]] (9), [[Selenium]] (7), web (5), [[Jetpack Compose|Compose]] (5), [[HTML]] (3)
 > **CLI Commands:** git (9), docker (5), make (5), ruby (2), cd (1)
 > **Tools:** gitlab (11), firefox (2), terminal (2)
 > **Documentation:** spec (8)
@@ -2971,8 +2973,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Selenium]] (3), next (2), cd (1), feature (1)
 > **CLI Commands:** docker (15), curl (4), make (3), find (2), nginx (2)
-> **Code Keywords:** let (11), case, (3), case. (1), super (1), this. (1)
 > **Cross-References:** in the next (2), we talked about (1), in the last (1)
 > **Tools:** gitlab (3), vim (1)
 > **File Paths:** docker-compose.yaml (2), _spec.rb (1)
@@ -3065,8 +3067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (8), [[Jetpack Compose|Compose]] (4), data (1), web (1), [[Forms]] (1)
 > **CLI Commands:** docker (12), ruby (2)
-> **Code Keywords:** let (3), case, (3), this. (2), finally, (1), continue (1)
 > **Env Vars:** label (2), run (2), entrypoint (2), copy (1)
 > **Prerequisites:** install (4), configure (2)
 > **File Paths:** docker-compose.yaml (2)
@@ -3115,8 +3117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), next (1)
 > **CLI Commands:** docker (3), rm (1), make (1)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (2)
 > **Cross-References:** in the next (1)
 > **Tools:** gitlab (1)
@@ -3184,7 +3186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[DevOps]] (1), [[HTML]] (1), web (1)
 > **CLI Commands:** docker (3), find (2), make (1)
 > **UI Navigation:** click on (2), in the menu (1), right-click (1)
 > **Cross-References:** in the last (1), go back to (1)
@@ -3372,7 +3374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (2), require (2), finally, (1), class = (1)
+> **Frameworks & Libraries:** [[Selenium]] (4), [[Search]] (3), [[Jetpack Compose|Compose]] (3), application (3), web (2)
 > **CLI Commands:** find (7), docker (5), rm (3), make (2), ruby (2)
 > **Cross-References:** go back to (6), previous video (1), in the last (1), in the next (1)
 > **Exercise Files:** source code (6)
@@ -3494,7 +3496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), require (2), finally, (1), else. (1), case, (1)
+> **Frameworks & Libraries:** [[Selenium]] (15), [[Jetpack Compose|Compose]] (6), [[Git]] (3), next (1), web (1)
 > **CLI Commands:** docker (6), git (3), find (1), cp (1), curl (1)
 > **Tools:** vim (3), visual studio (1), gitlab (1)
 > **Code Identifiers:** page_spec (2), exercise_files (1), default_driver (1)
@@ -3610,8 +3612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (6), [[Windows]] (4), [[Jetpack Compose|Compose]] (3), hit (3), application (1)
 > **Env Vars:** vnc (8), url (1), aws (1)
-> **Code Keywords:** let (6), this: (1), super (1), this. (1)
 > **UI Navigation:** click on (6), go to (1)
 > **CLI Commands:** docker (4), rm (1), aws (1)
 > **Definitions:** means that (1), is called (1), is an  (1)
@@ -3622,7 +3624,7 @@ created: 2026-04-29
 
 ### 6. Infrastructure as Code with OpenTofu
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploy with confidence with infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980)
@@ -3703,9 +3705,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), [[Virtual Machines]] (2), [[Programming]] (2), [[CLI]] (2), api (2)
 > **CLI Commands:** aws (8), docker (2), make (2), terraform (1)
 > **Env Vars:** aws (8), cli (2), api (2), cto (1)
-> **Code Keywords:** let (3), this. (1), pass (1), finally, (1)
 > **Definitions:** is a  (1), is an  (1)
 
 #### Finding the version of OpenTofu to use
@@ -3731,7 +3733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), web (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** find (1), docker (1)
 > **Tools:** github (2)
 > **UI Navigation:** click on (2)
@@ -3883,8 +3885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), next (2), [[GitHub]] (2), [[Git]] (2), [[Search]] (1)
 > **CLI Commands:** docker (9), find (2), ls (2), make (2), git (2)
-> **Code Keywords:** let (15), case, (1), case. (1), continue (1)
 > **File Paths:** docker-compose.yaml (4), some_file.txt (4)
 > **Tools:** github (2), gitlab (2), vim (1)
 > **Code Identifiers:** some_file (4)
@@ -3949,9 +3951,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), cloud (2), data (2), web (2), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** aws (11), docker (2)
 > **Env Vars:** aws (10), ec2 (1), api (1)
-> **Code Keywords:** let (2), static (2), this. (1)
 > **Definitions:** is a  (3)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Prerequisites:** configure (1)
@@ -4249,7 +4251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), switch (2), this. (1), this, (1), delete (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[Selenium]] (4), hit (3), aws (2), next (2)
 > **CLI Commands:** make (8), git (7), ruby (4), aws (2), docker (1)
 > **Env Vars:** url (5), env (3), aws (2), website_url (2), insert (1)
 > **UI Navigation:** go to (7), right-click (1)
@@ -4451,9 +4453,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (12), aws (9), [[Programming]] (5), next (4), [[Search]] (3)
 > **CLI Commands:** terraform (12), aws (9), find (3), cp (1), python (1)
 > **Env Vars:** aws (9), hcl (5), cli (2), dsl (1), url (1)
-> **Code Keywords:** let (8), public (2), this. (1), finally, (1), this, (1)
 > **Analogies:** for example (8), just like (1), similar to (1)
 > **Definitions:** is a  (5), is called (1)
 > **UI Navigation:** go to (2), scroll down (1), scroll up (1), click on (1)
@@ -4533,9 +4535,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (16), [[Jetpack Compose|Compose]] (3), [[Fetch]] (1), next (1)
 > **CLI Commands:** aws (16), docker (3), make (2), grep (2), rm (1)
 > **Env Vars:** aws (14), hcl (1), env (1)
-> **Code Keywords:** let (6), delete (1), continue (1), super (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** configure (1)
 
@@ -4732,8 +4734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (18), [[Terraform]] (10), aws (2), [[Jetpack Compose|Compose]] (2), hit (2)
 > **CLI Commands:** git (18), terraform (10), aws (2), docker (2), rm (2)
-> **Code Keywords:** let (8), this. (6), case, (1), this, (1), private (1)
 > **Env Vars:** url (4), aws (2), website (1)
 > **Tools:** gitlab (5)
 > **Cross-References:** we talked about (2), in the last (1), in the next (1)
@@ -4796,7 +4798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), delete (1)
+> **Frameworks & Libraries:** hit (2), aws (1), next (1), [[Terraform]] (1)
 > **CLI Commands:** make (2), aws (1), terraform (1)
 > **Env Vars:** url (3), aws (1)
 > **Cross-References:** in the next (1)
@@ -4850,8 +4852,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (3), next (2), [[Jetpack Compose|Compose]] (1), hit (1), [[Terraform]] (1)
 > **CLI Commands:** docker (3), rm (1), terraform (1), aws (1), cd (1)
-> **Code Keywords:** let (2), continue (1), delete (1), finally, (1)
 > **Analogies:** just like (3)
 > **Env Vars:** url (1), aws (1)
 > **Tools:** gitlab (2)
@@ -4860,7 +4862,7 @@ created: 2026-04-29
 
 ### 7. CI/CD as Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shipping fast with CI/CD
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980)
@@ -4943,10 +4945,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (9), cd (9), aws (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), teams (2)
 > **CLI Commands:** cd (9), aws (2), terraform (1), make (1)
 > **Definitions:** stands for (2), is a  (2), means that (1)
 > **Env Vars:** aws (2), cis (1)
-> **Code Keywords:** let (2)
 > **Tools:** gitlab (2)
 > **Exercise Files:** source code (2)
 > **Cross-References:** we discussed (1)
@@ -4999,9 +5001,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (17), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Automation]] (1), cd (1), [[GitHub]] (1)
 > **Tools:** gitlab (21), github (1)
 > **Env Vars:** yaml (4)
-> **Code Keywords:** let (2), this, (1)
 > **CLI Commands:** cd (1), make (1)
 > **Cross-References:** we mentioned (1)
 > **UI Navigation:** click on (1)
@@ -5200,8 +5202,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (12), [[Jetpack Compose|Compose]] (9), [[Selenium]] (7), next (5), cd (3)
 > **CLI Commands:** docker (27), make (6), rm (5), cd (3), aws (3)
-> **Code Keywords:** let (17), this. (4), this, (3), delete (1), var (1)
 > **Tools:** gitlab (14)
 > **Code Identifiers:** after_script (6), before_script (3), website_url (2)
 > **Env Vars:** aws (3), url (2), yaml (1), docker_host (1)
@@ -5300,9 +5302,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (6), next (4), aws (4), cd (2), [[JSON]] (2)
 > **CLI Commands:** aws (4), docker (4), cd (2)
 > **Tools:** gitlab (8), terminal (2)
-> **Code Keywords:** let (6), finally, (1), this. (1)
 > **Env Vars:** aws (4), json (2), actual_pwd (1), pwd (1)
 > **UI Navigation:** click on (6), scroll down (2)
 > **Cross-References:** we discussed (1), in the last (1), go back to (1), in the next (1)
@@ -5440,8 +5442,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), [[Jetpack Compose|Compose]] (6), hit (6), ci (5), [[CLI]] (5)
 > **CLI Commands:** docker (15), cd (4), make (1), rm (1), find (1)
-> **Code Keywords:** let (14), continue (3), finally, (1), default, (1), this, (1)
 > **Tools:** gitlab (17), terminal (3)
 > **UI Navigation:** click on (7), scroll down (1), open the (1), go to (1)
 > **Env Vars:** cli (4)
@@ -5580,8 +5582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), ci (3), cd (3), next (2), hit (2)
 > **CLI Commands:** docker (11), aws (6), cd (3)
-> **Code Keywords:** let (5), this. (2), this, (2), pass (1)
 > **UI Navigation:** click on (6), scroll down (1), go to (1)
 > **Env Vars:** aws (6), json (1)
 > **Tools:** gitlab (4), terminal (1)
@@ -5616,8 +5618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (2), [[Git]] (1)
 > **CLI Commands:** ls (1), git (1)
-> **Code Keywords:** pass (1), finally, (1)
 > **Tools:** gitlab (2)
 > **UI Navigation:** click on (1)
 
@@ -5880,7 +5882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (5), this, (4), finally, (1), pass (1)
+> **Frameworks & Libraries:** [[Git]] (14), ci (5), aws (3), [[Test-Driven Development]] (1), next (1)
 > **CLI Commands:** git (14), make (6), aws (3), docker (1), rm (1)
 > **UI Navigation:** click on (5), scroll down (1), go to (1)
 > **Code Identifiers:** website_url (3), page_spec (1), before_script (1), after_script (1)
@@ -5892,7 +5894,7 @@ created: 2026-04-29
 
 ### 8. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980)
@@ -5955,8 +5957,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), ci (3), [[Kubernetes]] (3), [[Security]] (3), cd (2)
 > **CLI Commands:** docker (4), cd (2), git (1), aws (1)
-> **Code Keywords:** default. (1), this. (1), finally, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** we mentioned (1)

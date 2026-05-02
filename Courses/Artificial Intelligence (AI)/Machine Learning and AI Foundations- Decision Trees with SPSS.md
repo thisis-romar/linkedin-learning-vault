@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Decision%20Trees%20with%20SPSS.md)
@@ -52,44 +52,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Decision trees in SPSS Modeler
-  - What you should know
-  - Modeler 18.4
-  - Using the exercise files
+  - [Decision trees in SPSS Modeler](#decision-trees-in-spss-modeler)
+  - [What you should know](#what-you-should-know)
+  - [Modeler 18.4](#modeler-184)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Decision Trees in IBM SPSS Modeler**](#1-decision-trees-in-ibm-spss-modeler) (5 videos)
-  - Decision tree options in SPSS Modeler
-  - Building a quick CHAID model
-  - Adding a second model with C&RT
-  - Analysis nodes
-  - Lift and gains chart
+  - [Decision tree options in SPSS Modeler](#decision-tree-options-in-spss-modeler)
+  - [Building a quick CHAID model](#building-a-quick-chaid-model)
+  - [Adding a second model with C&RT](#adding-a-second-model-with-crt)
+  - [Analysis nodes](#analysis-nodes)
+  - [Lift and gains chart](#lift-and-gains-chart)
 - [**2. Understanding CHAID**](#2-understanding-chaid) (9 videos)
-  - What is an algorithm?
-  - Chi-squared overview
-  - Buliding a tree interactively
-  - Bonferonni adjustment
-  - What is level of measurement?
-  - How CHAID handles nominal variables
-  - How CHAID handles ordinal variables
-  - How CHAID handles continuous variables
-  - A quick look at the complete CHAID tree
+  - [What is an algorithm?](#what-is-an-algorithm)
+  - [Chi-squared overview](#chi-squared-overview)
+  - [Buliding a tree interactively](#buliding-a-tree-interactively)
+  - [Bonferonni adjustment](#bonferonni-adjustment)
+  - [What is level of measurement?](#what-is-level-of-measurement)
+  - [How CHAID handles nominal variables](#how-chaid-handles-nominal-variables)
+  - [How CHAID handles ordinal variables](#how-chaid-handles-ordinal-variables)
+  - [How CHAID handles continuous variables](#how-chaid-handles-continuous-variables)
+  - [A quick look at the complete CHAID tree](#a-quick-look-at-the-complete-chaid-tree)
 - [**3. Understanding C&RT**](#3-understanding-crt) (6 videos)
-  - What is the Gini coefficient?
-  - How does C&RT weigh purity and balance?
-  - How C&RT handles nominal, ordinal, and continuous variables
-  - How C&RT handles missing data
-  - Understanding pruning
-  - A quick look at the complete C&RT tree
+  - [What is the Gini coefficient?](#what-is-the-gini-coefficient)
+  - [How does C&RT weigh purity and balance?](#how-does-crt-weigh-purity-and-balance)
+  - [How C&RT handles nominal, ordinal, and continuous variables](#how-crt-handles-nominal-ordinal-and-continuous-variables)
+  - [How C&RT handles missing data](#how-crt-handles-missing-data)
+  - [Understanding pruning](#understanding-pruning)
+  - [A quick look at the complete C&RT tree](#a-quick-look-at-the-complete-crt-tree)
 - [**4. Improving Your Model**](#4-improving-your-model) (4 videos)
-  - Stopping rules in CHAID and C&RT
-  - Exhaustive CHAID
-  - Tree-AS node
-  - The Autoclassifier tuning trick
+  - [Stopping rules in CHAID and C&RT](#stopping-rules-in-chaid-and-crt)
+  - [Exhaustive CHAID](#exhaustive-chaid)
+  - [Tree-AS node](#tree-as-node)
+  - [The Autoclassifier tuning trick](#the-autoclassifier-tuning-trick)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Decision trees in SPSS Modeler
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-trees-in-spss-modeler?u=76281980)
@@ -153,8 +153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (5), data (3), [[Decision Trees]] (3), [[Knime]] (2), [[Programming]] (1)
 > **Env Vars:** spss (6), knime (2), sas (1)
-> **Code Keywords:** let (1), this. (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -189,11 +189,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Search]] (1), [[IBM SPSS]] (1)
 > **Env Vars:** ibm (2), spss (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), click on (1)
 > **File Paths:** train.csv (1)
-> **Code Keywords:** let (1)
 > **URLs:** [kaggle.com](https://kaggle.com) (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -201,7 +201,7 @@ created: 2026-04-29
 
 ### 1. Decision Trees in IBM SPSS Modeler
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Decision tree options in SPSS Modeler
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980)
@@ -256,8 +256,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision Trees]] (3), node (2), [[Zoom]] (1), [[Algorithms]] (1), [[Statistics]] (1)
 > **Env Vars:** chaid (6), crt (5), spss (1)
-> **Code Keywords:** let (6), case, (2), interface (1), this. (1)
 > **CLI Commands:** node (2), find (1)
 > **Versions:** node 4 (2), 38.5 (1)
 > **Analogies:** just like (1), for instance (1)
@@ -328,8 +328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), next (6), data (4)
 > **CLI Commands:** node (8), make (1), find (1)
-> **Code Keywords:** let (4), this, (2), class, (1), class. (1), for, (1)
 > **Definitions:** is a  (2), stands for (2)
 > **Env Vars:** chaid (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -376,8 +376,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8)
 > **CLI Commands:** node (8), find (1)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -464,9 +464,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), node (4), next (2)
 > **Env Vars:** chaid (10), cart (8)
 > **CLI Commands:** node (4), make (3)
-> **Code Keywords:** let (4)
 > **Versions:** 85.45 (1), 78.41 (1)
 > **Definitions:** is a  (2)
 > **Tools:** notion (1)
@@ -534,8 +534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), data (3), application (1), management (1)
 > **CLI Commands:** node (4), find (1)
-> **Code Keywords:** let (3), type. (2)
 > **Versions:** 2.5 (1), 2.2 (1), 1.83 (1)
 > **Analogies:** imagine (2), picture (1)
 > **UI Navigation:** go to (1)
@@ -545,7 +545,7 @@ created: 2026-04-29
 
 ### 2. Understanding CHAID
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an algorithm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980)
@@ -604,8 +604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision Trees]] (3), management (1), [[Algorithms]] (1)
 > **Env Vars:** chaid (7)
-> **Code Keywords:** self (1), let (1), this. (1), this, (1), from. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -689,8 +689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), [[Probability]] (2), next (2), data (1)
 > **CLI Commands:** node (3), make (2)
-> **Code Keywords:** this. (2), let (2), if, (1)
 > **Env Vars:** chaid (3)
 > **UI Navigation:** open the (1), double-click (1), go to (1)
 > **Versions:** 1.0 (1)
@@ -751,8 +751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (6), data (1)
 > **CLI Commands:** node (6), find (1)
-> **Code Keywords:** let (5), class. (1)
 > **Env Vars:** chaid (6)
 > **UI Navigation:** click on (4), open the (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -883,9 +883,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1), node (1), next (1)
 > **CLI Commands:** find (4), make (3), node (1)
 > **Versions:** 0.05 (2), 0.0001 (1), 0.0008 (1), 0.01 (1), 99.9 (1)
-> **Code Keywords:** this. (2), let (2), finally, (1)
 > **Env Vars:** chaid (4), spss (1)
 > **Analogies:** just like (2), imagine (2), for instance (1)
 > **Tools:** notion (3)
@@ -961,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), class. (2), case, (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** node (5), [[Statistics]] (1), next (1)
 > **CLI Commands:** node (5), make (1)
 > **Env Vars:** chaid (3), spss (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
@@ -1013,8 +1013,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1), node (1), next (1)
 > **Env Vars:** chaid (6)
-> **Code Keywords:** let (2)
 > **CLI Commands:** node (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1062,8 +1062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** chaid (3)
-> **Code Keywords:** class. (1), class, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1128,6 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (10), next (1)
 > **CLI Commands:** node (10)
 > **Versions:** node 14 (3), node 15 (3), node 18 (3), node 16 (1)
 > **Env Vars:** chaid (5)
@@ -1245,9 +1246,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (15), data (2), [[HTML]] (1), next (1)
 > **CLI Commands:** node (15), make (2)
 > **Versions:** node 15 (3), node 9 (2), node 16 (2), node 17 (2), node 21 (2)
-> **Code Keywords:** let (2), this, (1), this. (1), for, (1)
 > **Definitions:** is a  (2)
 > **Warnings:** caution (1), note that (1)
 > **Env Vars:** html (1)
@@ -1257,7 +1258,7 @@ created: 2026-04-29
 
 ### 3. Understanding C&RT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the Gini coefficient?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-the-gini-coefficient?u=76281980)
@@ -1306,9 +1307,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Decision Trees]] (1), [[Statistics]] (1), next (1)
 > **Env Vars:** cart (4)
 > **Analogies:** for instance (4)
-> **Code Keywords:** case, (1)
 > **Cross-References:** in the next (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
@@ -1370,8 +1371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), data (1), next (1)
 > **CLI Commands:** node (8)
-> **Code Keywords:** let (2), else. (1), continue (1), finally, (1), for. (1)
 > **Versions:** node 19 (1), node 20 (1), node 22 (1)
 > **Warnings:** note that (1), be careful (1)
 > **Cross-References:** in the next (1)
@@ -1432,8 +1433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), node (1), next (1)
 > **CLI Commands:** make (1), find (1), node (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1520,8 +1521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), node (2)
 > **Env Vars:** cart (9), chaid (6)
-> **Code Keywords:** let (5)
 > **CLI Commands:** node (2), find (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for instance (2)
@@ -1602,9 +1603,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **Env Vars:** chaid (1), cart (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1662,16 +1663,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), data (6), next (1)
 > **CLI Commands:** node (8), make (2), find (1)
 > **Env Vars:** chaid (5)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Improving Your Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stopping rules in CHAID and C&RT
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/stopping-rules-in-chaid-and-c-rt?u=76281980)
@@ -1862,8 +1863,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), [[Algorithms]] (1)
 > **Env Vars:** chaid (17), espss (1)
-> **Code Keywords:** let (9), this. (3), interface (2), except, (1), continue (1)
 > **CLI Commands:** make (6), node (2), find (1)
 > **Definitions:** in other words (2), is a  (2)
 > **Warnings:** caution (1), be careful (1), keep in mind (1)
@@ -1948,8 +1949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), [[Algorithms]] (1)
 > **Env Vars:** chaid (13)
-> **Code Keywords:** let (9)
 > **CLI Commands:** find (2)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
@@ -1963,7 +1964,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/next-steps-23418218?u=76281980)

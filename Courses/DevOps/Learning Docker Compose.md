@@ -27,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Docker%20Compose.md)
@@ -46,31 +46,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Implement Docker Compose
-  - What you should know
+  - [Implement Docker Compose](#implement-docker-compose)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding Docker Compose**](#1-understanding-docker-compose) (3 videos)
-  - Compose in the Docker tool ecosystem
-  - Docker Compose basics
-  - Where to use Docker Compose
+  - [Compose in the Docker tool ecosystem](#compose-in-the-docker-tool-ecosystem)
+  - [Docker Compose basics](#docker-compose-basics)
+  - [Where to use Docker Compose](#where-to-use-docker-compose)
 - [**2. Getting Started with Docker Compose**](#2-getting-started-with-docker-compose) (2 videos)
-  - Writing a Docker Compose configuration
-  - Core Docker Compose commands
+  - [Writing a Docker Compose configuration](#writing-a-docker-compose-configuration)
+  - [Core Docker Compose commands](#core-docker-compose-commands)
 - [**3. Docker Compose Core Features**](#3-docker-compose-core-features) (5 videos)
-  - Build arguments
-  - Mounting volumes
-  - Named volumes
-  - Exposing ports
-  - Enforcing start-up order
+  - [Build arguments](#build-arguments)
+  - [Mounting volumes](#mounting-volumes)
+  - [Named volumes](#named-volumes)
+  - [Exposing ports](#exposing-ports)
+  - [Enforcing start-up order](#enforcing-start-up-order)
 - [**4. Dynamic Configurations in Docker Compose**](#4-dynamic-configurations-in-docker-compose) (3 videos)
-  - Named subsets of services
-  - Multiple compose files
-  - Environment variables
+  - [Named subsets of services](#named-subsets-of-services)
+  - [Multiple compose files](#multiple-compose-files)
+  - [Environment variables](#environment-variables)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement Docker Compose
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/implement-docker-compose?u=76281980)
@@ -95,8 +95,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), feature (1), [[Containerization]] (1)
 > **CLI Commands:** docker (8), make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - docker (1)
 
@@ -121,13 +121,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Containerization]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** docker (6)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding Docker Compose
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compose in the Docker tool ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/compose-in-the-docker-tool-ecosystem?u=76281980)
@@ -162,6 +163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7)
 > **CLI Commands:** docker (13), make (1)
 > **Definitions:** means that (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -209,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), data (1), [[Version Control]] (1)
 > **CLI Commands:** docker (10)
-> **Code Keywords:** self (1), finally, (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -248,15 +250,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), traffic (3), [[Continuous Integration (CI)|Continuous integration]] (1), business (1), web (1)
 > **CLI Commands:** docker (6)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Getting Started with Docker Compose
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing a Docker Compose configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980)
@@ -323,11 +325,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (13), [[MySQL]] (4), database (4), next (3), application (2)
 > **CLI Commands:** docker (18), mysql (4)
 > **Env Vars:** yaml (5), json (1)
 > **Definitions:** stands for (1), is a  (1)
 > **File Paths:** docker-compose.yaml (1)
-> **Code Keywords:** case, (1)
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
@@ -388,8 +390,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (20), [[MySQL]] (1), application (1)
 > **CLI Commands:** docker (22), mysql (1), rm (1)
-> **Code Keywords:** delete (2), if, (1), pass (1), super (1), finally, (1)
 > **Env Vars:** yaml (2)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
@@ -398,7 +400,7 @@ created: 2026-04-29
 
 ### 3. Docker Compose Core Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980)
@@ -461,8 +463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), [[MySQL]] (3), cloud (2), aws (1), feature (1)
 > **CLI Commands:** docker (12), mysql (3), make (1), aws (1)
-> **Code Keywords:** pass (2), switch (1)
 > **Code Identifiers:** runtime_env (1), env_file (1), env_vars (1)
 > **Env Vars:** aws (1), yaml (1)
 > **Analogies:** for example (1), such as (1)
@@ -529,9 +531,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[SQL]] (8), [[Jetpack Compose|Compose]] (5), application (1), database (1)
 > **Env Vars:** sql (8), yaml (1)
 > **CLI Commands:** docker (7), make (1)
-> **Code Keywords:** default, (2), var (1), finally, (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Tools:** bash (1)
@@ -573,8 +575,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), data (3), database (2), [[MySQL]] (1), application (1)
 > **CLI Commands:** docker (5), mysql (1)
-> **Code Keywords:** var (1), delete (1)
 > **Versions:** 3.2 (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is called (1)
@@ -644,10 +646,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Jetpack Compose|Compose]] (4), traffic (2), [[Containerization]] (1), web (1)
 > **Ports:** port 80 (5), port 81 (3), port 443 (1)
 > **CLI Commands:** docker (7)
 > **Env Vars:** yaml (2), tcp (1)
-> **Code Keywords:** default, (1), default. (1)
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -704,8 +706,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[Jetpack Compose|Compose]] (6), application (5), [[Resiliency]] (1)
 > **CLI Commands:** docker (6), make (1)
-> **Code Keywords:** require (1), this. (1)
 > **Env Vars:** yaml (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** initialization (1)
@@ -714,7 +716,7 @@ created: 2026-04-29
 
 ### 4. Dynamic Configurations in Docker Compose
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Named subsets of services
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980)
@@ -777,9 +779,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), database (5), feature (1), [[Engineering]] (1), teams (1)
 > **CLI Commands:** docker (9)
 > **Analogies:** imagine (1), just like (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** yaml (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [narrator] (1)
@@ -839,7 +841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (11), case. (1), default, (1), default. (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (10), ci (1), feature (1)
 > **CLI Commands:** docker (10)
 > **File Paths:** docker-compose.yaml (2), docker-compose.local.yaml (2), docker-compose.override.yaml (1), docker-compose.staging.yaml (1)
 > **Definitions:** means that (1), stands for (1)
@@ -894,8 +896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** docker (6), make (2), mysql (1)
-> **Code Keywords:** continue (1), default. (1), case, (1), override (1), finally, (1)
 > **Env Vars:** env (3), yaml (1), emv (1)
 > **Definitions:** is an  (2)
 > **Cross-References:** we discussed (1)
@@ -905,7 +907,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980)
@@ -924,8 +926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** docker (3), find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [nicole] (1)
 

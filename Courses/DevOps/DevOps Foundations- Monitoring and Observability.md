@@ -30,7 +30,7 @@ tags:
   - skill/devops
   - skill/system-monitoring
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/DevOps%20Foundations-%20Monitoring%20and%20Observability.md)
@@ -49,49 +49,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Measure, detect, and respond
-  - What you need to know
+  - [Measure, detect, and respond](#measure-detect-and-respond)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Introduction to Monitoring and Observability**](#1-introduction-to-monitoring-and-observability) (4 videos)
-  - Overview of monitoring and observability
-  - Importance of observability in building applications
-  - Pillars of observability
-  - Observability architecture
+  - [Overview of monitoring and observability](#overview-of-monitoring-and-observability)
+  - [Importance of observability in building applications](#importance-of-observability-in-building-applications)
+  - [Pillars of observability](#pillars-of-observability)
+  - [Observability architecture](#observability-architecture)
 - [**2. Metrics and Monitoring**](#2-metrics-and-monitoring) (4 videos)
-  - Metric types
-  - Analyzing metrics
-  - Choosing the right metric
-  - Metrics in action using Mimir and Grafana Cloud
+  - [Metric types](#metric-types)
+  - [Analyzing metrics](#analyzing-metrics)
+  - [Choosing the right metric](#choosing-the-right-metric)
+  - [Metrics in action using Mimir and Grafana Cloud](#metrics-in-action-using-mimir-and-grafana-cloud)
 - [**3. Tracing and Distributed Systems**](#3-tracing-and-distributed-systems) (2 videos)
-  - Concepts of tracing and distributed systems
-  - Tracing in action using Tempo and Grafana Cloud
+  - [Concepts of tracing and distributed systems](#concepts-of-tracing-and-distributed-systems)
+  - [Tracing in action using Tempo and Grafana Cloud](#tracing-in-action-using-tempo-and-grafana-cloud)
 - [**4. Logging and Log Management**](#4-logging-and-log-management) (4 videos)
-  - Concepts of logging and log management
-  - Best practices for logging
-  - Log collection and application
-  - Log monitoring in action using Loki and Grafana Cloud
+  - [Concepts of logging and log management](#concepts-of-logging-and-log-management)
+  - [Best practices for logging](#best-practices-for-logging)
+  - [Log collection and application](#log-collection-and-application)
+  - [Log monitoring in action using Loki and Grafana Cloud](#log-monitoring-in-action-using-loki-and-grafana-cloud)
 - [**5. Events**](#5-events) (2 videos)
-  - Collecting system events
-  - Event analysis and correlation
+  - [Collecting system events](#collecting-system-events)
+  - [Event analysis and correlation](#event-analysis-and-correlation)
 - [**6. Monitoring Techniques**](#6-monitoring-techniques) (5 videos)
-  - Application performance monitoring
-  - Synthetics monitoring
-  - Infrastructure monitoring
-  - Product monitoring
-  - Other monitoring techniques
+  - [Application performance monitoring](#application-performance-monitoring)
+  - [Synthetics monitoring](#synthetics-monitoring)
+  - [Infrastructure monitoring](#infrastructure-monitoring)
+  - [Product monitoring](#product-monitoring)
+  - [Other monitoring techniques](#other-monitoring-techniques)
 - [**7. Utilizing Observability Signals**](#7-utilizing-observability-signals) (5 videos)
-  - Dashboards and visualization
-  - Monitoring and alerting
-  - SLIs, SLOs, SLAs
-  - Incident management
-  - Machine learning and observability
+  - [Dashboards and visualization](#dashboards-and-visualization)
+  - [Monitoring and alerting](#monitoring-and-alerting)
+  - [SLIs, SLOs, SLAs](#slis-slos-slas)
+  - [Incident management](#incident-management)
+  - [Machine learning and observability](#machine-learning-and-observability)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Choosing your observability stack
-  - Measuring the success of your observability
-  - Implementing observability in your organization
+  - [Choosing your observability stack](#choosing-your-observability-stack)
+  - [Measuring the success of your observability](#measuring-the-success-of-your-observability)
+  - [Implementing observability in your organization](#implementing-observability-in-your-organization)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measure, detect, and respond
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980)
@@ -112,6 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Engineering]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [ibukun] (1)
 
 #### What you need to know
@@ -141,14 +142,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** teams (4), [[DevOps]] (2), product (2), cloud (2), [[Engineering]] (1)
 > **Env Vars:** sre (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Monitoring and Observability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of monitoring and observability
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980)
@@ -195,6 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Dashboards]] (1), application (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** picture (2), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -232,8 +234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), [[Engineering]] (1), [[Incident Response]] (1), data (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -285,6 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), data (1), [[Microservices]] (1)
 > **Env Vars:** cpu (2)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is a  (1)
@@ -415,9 +418,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Node.js]] (3), [[Dashboards]] (1), [[Routing]] (1), [[Programming]] (1)
 > **Definitions:** is a  (2), is an  (2), means that (1)
 > **CLI Commands:** node (3), make (1)
-> **Code Keywords:** case, (2), switch (1), let (1)
 > **File Paths:** node.js (3)
 > **Prerequisites:** required to (1), set up (1), configure (1)
 > **Speakers:** - [instructor] (1)
@@ -425,7 +428,7 @@ created: 2026-04-29
 
 ### 2. Metrics and Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Metric types
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980)
@@ -486,9 +489,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[User Experience (UX)|User experience]] (2), data (1), business (1), api (1)
 > **Env Vars:** api (1), cpu (1), http (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** require (1)
 > **Speakers:** - [ibukun] (1)
 
 #### Analyzing metrics
@@ -546,9 +549,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), web (3), traffic (1), next (1)
 > **Env Vars:** p50 (2), p99 (2), p90 (1), p95 (1)
 > **Analogies:** for example (3), for instance (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** means that (3)
 > **Speakers:** - [instructor] (1)
 
@@ -691,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (1), function (1), from. (1)
+> **Frameworks & Libraries:** product (5), next (3), [[Engineering]] (3), application (2), [[Google]] (2)
 > **Env Vars:** cpu (4), sre (1), http (1)
 > **Analogies:** for example (6)
 > **Definitions:** is a  (2), is an  (1)
@@ -813,8 +816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), application (5), [[Node.js]] (4), [[Search]] (2), [[Analytics]] (2)
 > **CLI Commands:** find (5), node (4), make (1), docker (1)
-> **Code Keywords:** finally, (3), this, (2), let (1), from. (1), type, (1)
 > **Definitions:** is called (2), means that (1), is a  (1), is an  (1)
 > **File Paths:** node.js (4)
 > **Env Vars:** otlp (2), http (1)
@@ -825,7 +828,7 @@ created: 2026-04-29
 
 ### 3. Tracing and Distributed Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Concepts of tracing and distributed systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-tracing-and-distributed-systems?u=76281980)
@@ -880,8 +883,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), business (2), data (2), database (1), product (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1028,7 +1031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (5), let (3), module (2), function (1), this, (1)
+> **Frameworks & Libraries:** cloud (8), application (3), data (3), [[Search]] (2), [[Programming]] (1)
 > **CLI Commands:** find (3), make (2), node (2)
 > **Analogies:** such as (2), just like (2), similar to (1), for example (1)
 > **Code Identifiers:** getnodeautoinstrumentation (1), requesthook (1), status_code (1), span_name (1)
@@ -1040,7 +1043,7 @@ created: 2026-04-29
 
 ### 4. Logging and Log Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Concepts of logging and log management
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-logging-and-log-management?u=76281980)
@@ -1079,6 +1082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), power (1)
 > **Env Vars:** json (4)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
@@ -1157,7 +1161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), case, (1), case. (1)
+> **Frameworks & Libraries:** data (4), [[Analytics]] (2), application (1), [[Real-Time]] (1), product (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Env Vars:** pii (1)
@@ -1212,7 +1216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), let (1)
+> **Frameworks & Libraries:** [[Programming]] (1), business (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** roi (1)
@@ -1297,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), finally, (1), this, (1), case. (1)
+> **Frameworks & Libraries:** [[JSON]] (4), cloud (3), data (2), [[Node.js]] (1), [[Debugging]] (1)
 > **Env Vars:** json (4), otlphttp (2), otlp (2)
 > **CLI Commands:** make (3), node (1)
 > **Cross-References:** we talked about (1), we mentioned (1), go back to (1)
@@ -1309,7 +1313,7 @@ created: 2026-04-29
 
 ### 5. Events
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collecting system events
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/collecting-system-events?u=76281980)
@@ -1371,9 +1375,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (3), cloud (2), ci (2), cd (2), next (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** cd (2), docker (1)
-> **Code Keywords:** if, (1), this, (1), case, (1)
 > **Cross-References:** next chapter (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** set up (1)
@@ -1382,7 +1386,7 @@ created: 2026-04-29
 
 ### 6. Monitoring Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application performance monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980)
@@ -1477,8 +1481,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), cloud (4), data (3), api (1), power (1)
 > **Env Vars:** apm (16), api (1)
-> **Code Keywords:** switch (3), finally, (2), let (1), implements (1), case, (1)
 > **Definitions:** known as (2), is a  (1)
 > **UI Navigation:** open the (1), navigate to (1)
 > **Analogies:** picture (1), similar to (1)
@@ -1570,8 +1574,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), next (2), api (1), [[JSON]] (1), [[Google]] (1)
 > **Env Vars:** http (3), api (1), json (1), aws (1), put (1)
-> **Code Keywords:** let (3), finally, (3), pass (1), from. (1), delete (1)
 > **Analogies:** for example (3), such as (2)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** find (1), aws (1)
@@ -1658,8 +1662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Dashboards]] (3), [[Forms]] (2), data (2), application (1)
 > **CLI Commands:** docker (13), find (1)
-> **Code Keywords:** let (2), default, (2), while. (1), from, (1), from. (1)
 > **UI Navigation:** click on (5), go to (2), navigate to (1)
 > **Env Vars:** cpu (3), apm (1)
 > **Tools:** docker desktop (4)
@@ -1694,9 +1698,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), data (3), [[E-Commerce]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
@@ -1760,8 +1764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), data (4), application (4), cloud (2), power (1)
 > **Env Vars:** cpu (1), apm (1), rum (1)
-> **Code Keywords:** from, (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
@@ -1770,7 +1774,7 @@ created: 2026-04-29
 
 ### 7. Utilizing Observability Signals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dashboards and visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/dashboards-and-visualization?u=76281980)
@@ -1855,8 +1859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Dashboards]] (9), application (5), product (3), cloud (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (1), finally, (1)
 > **Analogies:** for example (1), picture (1)
 > **Warnings:** keep in mind (2)
 > **UI Navigation:** click on (1)
@@ -1953,8 +1957,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Dashboards]] (4), cloud (3), application (3), [[Slack]] (2)
 > **UI Navigation:** click on (8), scroll down (2), navigate to (1), dropdown (1)
-> **Code Keywords:** case, (4), case. (2), let (1), this, (1), continue (1)
 > **Prerequisites:** configure (2), set up (2)
 > **Env Vars:** url (3)
 > **CLI Commands:** make (2)
@@ -2113,8 +2117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), aws (2), [[Engineering]] (2), teams (2), cloud (2)
 > **Env Vars:** slo (21), sli (4), http (3), aws (2), sle (2)
-> **Code Keywords:** case, (6), this, (4), finally, (2), this. (2), let (2)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** aws (2), find (1), make (1)
 > **Versions:** 99.99 (1), 99.999 (1), 99.5 (1), 0.5 (1)
@@ -2369,7 +2373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (2), case, (2), override (1), this, (1)
+> **Frameworks & Libraries:** [[Incident Response]] (22), next (4), [[Dashboards]] (4), management (3), data (2)
 > **UI Navigation:** click on (5), scroll down (2), go to (1), select the (1)
 > **Env Vars:** sms (3), irm (1), mttr (1)
 > **Analogies:** for example (5)
@@ -2451,7 +2455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** cloud (11), ai (3), next (2), [[Incident Response]] (2), data (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -2463,7 +2467,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing your observability stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-your-observability-stack?u=76281980)
@@ -2512,7 +2516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** data (4), [[Engineering]] (3), cloud (2), next (2), open-source (2)
 > **Definitions:** is an  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -2562,10 +2566,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), teams (1), [[Incident Response]] (1), parallel (1)
 > **Env Vars:** nps (2), hetp (1), mtcd (1), mttd (1), mttr (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Implementing observability in your organization
@@ -2611,7 +2615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case. (1), finally, (1)
+> **Frameworks & Libraries:** teams (2), cloud (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [ibukun] (1)

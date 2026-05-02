@@ -31,7 +31,7 @@ tags:
   - topic/web-development
   - skill/spring-boot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Spring%20Boot%20Observability-%20Deep%20Dive%20into%20Logging%2C%20Metrics%2C%20and%20Tracing.md)
@@ -50,30 +50,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Observability with Spring Boot
-  - What you need to know
+  - [Observability with Spring Boot](#observability-with-spring-boot)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Understand Why Observability Is Important**](#1-understand-why-observability-is-important) (3 videos)
-  - What is observability?
-  - Why care about observability?
-  - Logging, metrics, and tracing
+  - [What is observability?](#what-is-observability)
+  - [Why care about observability?](#why-care-about-observability)
+  - [Logging, metrics, and tracing](#logging-metrics-and-tracing)
 - [**2. Logging**](#2-logging) (3 videos)
-  - Problem with basic logging
-  - Why centralized logging
-  - Logging and Spring
+  - [Problem with basic logging](#problem-with-basic-logging)
+  - [Why centralized logging](#why-centralized-logging)
+  - [Logging and Spring](#logging-and-spring)
 - [**3. Metrics**](#3-metrics) (3 videos)
-  - Usage of metrics
-  - Metrics for observability
-  - Metrics in Spring
+  - [Usage of metrics](#usage-of-metrics)
+  - [Metrics for observability](#metrics-for-observability)
+  - [Metrics in Spring](#metrics-in-spring)
 - [**4. Tracing**](#4-tracing) (2 videos)
-  - Distributed tracing
-  - Tracing in Spring
+  - [Distributed tracing](#distributed-tracing)
+  - [Tracing in Spring](#tracing-in-spring)
 - [**Conclusion**](#conclusion) (2 videos)
-  - How to correlate logging, metrics, and tracing
-  - Next steps
+  - [How to correlate logging, metrics, and tracing](#how-to-correlate-logging-metrics-and-tracing)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Observability with Spring Boot
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/observability-with-spring-boot?u=76281980)
@@ -92,7 +92,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Speakers:** - [terezija] (1)
 
 #### What you need to know
@@ -110,7 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Spring Framework]] (1), [[Performance Tuning]] (1)
 > **Env Vars:** apm (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 ### 1. Understand Why Observability Is Important
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is observability?
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-is-observability?u=76281980)
@@ -188,9 +188,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), cloud (1), teams (1), [[Engineering]] (1), [[Google]] (1)
 > **Analogies:** such as (2), imagine (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Env Vars:** cpu (2)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
@@ -258,6 +258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (2), [[DevOps]] (2), [[Databases]] (2), cloud (1), ci (1)
 > **CLI Commands:** find (2), cd (1), make (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -302,6 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), data (3), node (1)
 > **CLI Commands:** node (1), find (1)
 > **Env Vars:** cpu (1)
 > **Analogies:** such as (1)
@@ -310,7 +312,7 @@ created: 2026-04-29
 
 ### 2. Logging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Problem with basic logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980)
@@ -373,8 +375,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Search]] (3), [[Debugging]] (1), [[Microservices]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** grep (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -412,7 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1), [[Search]] (1), [[Elasticsearch]] (1), cloud (1)
 > **Env Vars:** elk (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -476,10 +478,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (9), application (4), cloud (3), web application (1)
 > **Env Vars:** info (1), http (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** default, (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** configure (1)
@@ -488,7 +490,7 @@ created: 2026-04-29
 
 ### 3. Metrics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Usage of metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980)
@@ -585,8 +587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), application (4), database (3), [[Performance Tuning]] (2), cloud (1)
 > **Env Vars:** kpi (1), cpu (1), jmx (1), http (1)
-> **Code Keywords:** let (2), this. (1)
 > **Code Identifiers:** inmemory (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -640,9 +642,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (6), application (4), traffic (1), [[React.js|React]] (1), database (1)
 > **Env Vars:** https (1), url (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** require (1)
 > **URLs:** [micrometer.io](https://micrometer.io) (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -720,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), default. (1), case, (1), while. (1), this, (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (5), application (5), data (2), [[Gradle]] (2), api (2)
 > **Env Vars:** api (2), zip (1), uri (1), gvm (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Exercise Files:** download the (1), zip file (1)
@@ -732,7 +734,7 @@ created: 2026-04-29
 
 ### 4. Tracing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Distributed tracing
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/distributed-tracing?u=76281980)
@@ -771,6 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Metadata]] (1), [[Search]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -834,7 +837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), default, (1), let (1)
+> **Frameworks & Libraries:** cloud (5), data (3), application (3), [[Spring Boot]] (2), [[Microservices]] (2)
 > **Prerequisites:** configure (2), required to (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
@@ -844,7 +847,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to correlate logging, metrics, and tracing
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/how-to-correlate-logging-metrics-and-tracing?u=76281980)
@@ -927,8 +930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (3), api (1), [[Java]] (1), node (1)
 > **CLI Commands:** make (1), find (1), node (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** url (2), api (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Analogies:** for example (3)
@@ -961,6 +964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[Spring Boot]] (1), application (1), [[Java]] (1), [[Integration Testing]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Speakers:** - [instructor] (1)

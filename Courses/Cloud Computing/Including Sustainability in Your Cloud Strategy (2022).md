@@ -34,7 +34,7 @@ tags:
   - skill/sustainable-systems
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Including%20Sustainability%20in%20Your%20Cloud%20Strategy%20(2022).md)
@@ -53,33 +53,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Do not waste water
-  - Designing for scarcity in a world of abundance
-  - The green behind the cloud
+  - [Do not waste water](#do-not-waste-water)
+  - [Designing for scarcity in a world of abundance](#designing-for-scarcity-in-a-world-of-abundance)
+  - [The green behind the cloud](#the-green-behind-the-cloud)
 - [**1. Foundations of Cloud Sustainability**](#1-foundations-of-cloud-sustainability) (6 videos)
-  - Factors impacting carbon consumption in the cloud
-  - Understanding types of emissions
-  - Impact of CPU utilization on carbon consumption
-  - Power usage effectiveness
-  - Cloud shared responsibility models
-  - To autoscale or not to autoscale
+  - [Factors impacting carbon consumption in the cloud](#factors-impacting-carbon-consumption-in-the-cloud)
+  - [Understanding types of emissions](#understanding-types-of-emissions)
+  - [Impact of CPU utilization on carbon consumption](#impact-of-cpu-utilization-on-carbon-consumption)
+  - [Power usage effectiveness](#power-usage-effectiveness)
+  - [Cloud shared responsibility models](#cloud-shared-responsibility-models)
+  - [To autoscale or not to autoscale](#to-autoscale-or-not-to-autoscale)
 - [**2. Why Are Some Technologies More Efficient than Others?**](#2-why-are-some-technologies-more-efficient-than-others) (1 videos)
-  - Measuring parallel efficiency of the cloud systems
+  - [Measuring parallel efficiency of the cloud systems](#measuring-parallel-efficiency-of-the-cloud-systems)
 - [**3. Carbon Measurements and Their Implications**](#3-carbon-measurements-and-their-implications) (3 videos)
-  - Carbon tax rates and carbon intensity
-  - CSP sustainability calculators
-  - Using golden coefficients for carbon estimation
+  - [Carbon tax rates and carbon intensity](#carbon-tax-rates-and-carbon-intensity)
+  - [CSP sustainability calculators](#csp-sustainability-calculators)
+  - [Using golden coefficients for carbon estimation](#using-golden-coefficients-for-carbon-estimation)
 - [**4. Energy Consumption Case Studies**](#4-energy-consumption-case-studies) (2 videos)
-  - Energy consumption case study 1
-  - Energy consumption case study 2
+  - [Energy consumption case study 1](#energy-consumption-case-study-1)
+  - [Energy consumption case study 2](#energy-consumption-case-study-2)
 - [**5. Consolidation for a Greener Future**](#5-consolidation-for-a-greener-future) (1 videos)
-  - Benefits of consolidation
+  - [Benefits of consolidation](#benefits-of-consolidation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about sustainability
+  - [Learning more about sustainability](#learning-more-about-sustainability)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Do not waste water
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** cloud (4), next (1), data (1), [[Analytics]] (1), [[Sustainability]] (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [fawad] (1)
 
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), next (1), [[Sustainability]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** imagine (1)
@@ -187,7 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4)
+> **Frameworks & Libraries:** cloud (9), data (4), [[Hardware]] (2), business (2), power (1)
 > **Env Vars:** aws (1), cpu (1)
 > **CLI Commands:** aws (1)
 > **Versions:** 3.6 (1)
@@ -197,7 +198,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Cloud Sustainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Factors impacting carbon consumption in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/factors-impacting-carbon-consumption-in-the-cloud?u=76281980)
@@ -284,6 +285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), data (5), [[Hardware]] (3), power (3), next (3)
 > **Analogies:** such as (3), for example (1), imagine (1)
 > **CLI Commands:** make (3), node (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -291,7 +293,6 @@ created: 2026-04-29
 > **Documentation:** spec (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** configure (1)
-> **Speakers:** - [narrator] (1)
 
 #### Understanding types of emissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/understanding-types-of-emissions?u=76281980)
@@ -334,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), data (2), cloud (2), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Cross-References:** we talked about (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
@@ -383,8 +384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (11), data (2), node (1), cloud (1), next (1)
 > **Env Vars:** cpu (5), spec (2)
-> **Code Keywords:** require (2)
 > **Documentation:** spec (2)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** node (1)
@@ -443,10 +444,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), data (4), [[Electronics]] (3), power (3), game (1)
 > **Env Vars:** pue (6)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** we discussed (1), in the next (1)
-> **Code Keywords:** new, (1)
 > **Versions:** 1.1 (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** you should always (1)
@@ -501,11 +502,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), cloud (3), [[IaaS|Infrastructure as a service]] (2), [[PaaS]] (2), [[SaaS]] (2)
 > **Env Vars:** aws (3), crm (1), ec2 (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
 > **CLI Commands:** aws (3)
 > **Cross-References:** later in (1), we discussed (1)
-> **Code Keywords:** lambda (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -560,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), pass (1), throw (1)
+> **Frameworks & Libraries:** cloud (4), [[Hardware]] (4), [[Design Patterns]] (2), [[Software Development]] (2), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -571,7 +572,7 @@ created: 2026-04-29
 
 ### 2. Why Are Some Technologies More Efficient than Others?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring parallel efficiency of the cloud systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980)
@@ -648,9 +649,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (10), data (2), [[Databases]] (1), [[SQL]] (1), database (1)
 > **Definitions:** is a  (2), means that (2), known as (1), is an  (1)
 > **Analogies:** imagine (3)
-> **Code Keywords:** let (1), case, (1)
 > **Env Vars:** sql (1), cpu (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -659,7 +660,7 @@ created: 2026-04-29
 
 ### 3. Carbon Measurements and Their Implications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Carbon tax rates and carbon intensity
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/carbon-tax-rates-and-carbon-intensity?u=76281980)
@@ -716,6 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Microsoft]] (1), data (1), power (1), next (1)
 > **Env Vars:** ets (2), oecd (1), ppp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -753,7 +755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (5), cloud (4), next (1), power (1)
 > **Env Vars:** csp (1)
 > **Speakers:** - [fawad] (1)
 
@@ -782,6 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), power (2), data (1), next (1)
 > **Versions:** 2.1 (1), 0.89 (1), 1.52 (1)
 > **Code Identifiers:** vpcu (1)
 > **Cross-References:** in the next (1)
@@ -792,7 +795,7 @@ created: 2026-04-29
 
 ### 4. Energy Consumption Case Studies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Energy consumption case study 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/energy-consumption-case-study-1?u=76281980)
@@ -831,9 +834,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), cloud (1)
 > **Versions:** 2.47 (1), 0.62 (1)
 > **Cross-References:** earlier in (1), in the next (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - [instructor] (1)
 
@@ -864,15 +867,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), node (1), next (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 5. Consolidation for a Greener Future
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of consolidation
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980)
@@ -911,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (1)
+> **Frameworks & Libraries:** data (6), cloud (5), business (3), application (2), [[Sustainability]] (2)
 > **Cross-References:** we talked about (1), we discussed (1)
 > **CLI Commands:** make (1)
 > **Analogies:** analogous to (1)
@@ -920,7 +923,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980)
@@ -985,6 +988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), business (2), [[Electronics]] (2), [[Sustainability]] (1), [[Software Development]] (1)
 > **Versions:** 8.5 (1), 4.2 (1), 122.6 (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

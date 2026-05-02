@@ -36,7 +36,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Essential%20Training%20(Microsoft%20365).md)
@@ -55,58 +55,58 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting started with Excel for Microsoft 365
+  - [Getting started with Excel for Microsoft 365](#getting-started-with-excel-for-microsoft-365)
 - [**1. Getting Started with Excel**](#1-getting-started-with-excel) (6 videos)
-  - Excel fundamentals: What can it do?
-  - Excel's ribbon menu and the Quick Access Toolbar
-  - Shortcut menus and the mini toolbar
-  - Understanding Excel workbooks and worksheets
-  - Use Excel Help
-  - Excel's accessibility features
+  - [Excel fundamentals: What can it do?](#excel-fundamentals-what-can-it-do)
+  - [Excel's ribbon menu and the Quick Access Toolbar](#excels-ribbon-menu-and-the-quick-access-toolbar)
+  - [Shortcut menus and the mini toolbar](#shortcut-menus-and-the-mini-toolbar)
+  - [Understanding Excel workbooks and worksheets](#understanding-excel-workbooks-and-worksheets)
+  - [Use Excel Help](#use-excel-help)
+  - [Excel's accessibility features](#excels-accessibility-features)
 - [**2. Entering Data in Excel**](#2-entering-data-in-excel) (4 videos)
-  - Exploring data entry, editing, and AutoFill
-  - Working with dates and times in Excel
-  - Using Undo and Redo
-  - Use Save or Save As
+  - [Exploring data entry, editing, and AutoFill](#exploring-data-entry-editing-and-autofill)
+  - [Working with dates and times in Excel](#working-with-dates-and-times-in-excel)
+  - [Using Undo and Redo](#using-undo-and-redo)
+  - [Use Save or Save As](#use-save-or-save-as)
 - [**3. Formulas and Functions in Excel**](#3-formulas-and-functions-in-excel) (4 videos)
-  - Using simple formulas in Excel
-  - Copying a formula into adjacent cells
-  - Using SUM and AVERAGE in Excel
-  - XLOOKUP and lookup functions
+  - [Using simple formulas in Excel](#using-simple-formulas-in-excel)
+  - [Copying a formula into adjacent cells](#copying-a-formula-into-adjacent-cells)
+  - [Using SUM and AVERAGE in Excel](#using-sum-and-average-in-excel)
+  - [XLOOKUP and lookup functions](#xlookup-and-lookup-functions)
 - [**4. Formatting in Excel**](#4-formatting-in-excel) (3 videos)
-  - Exploring font styles, borders, and color backgrounds
-  - Applying numeric formats in Excel
-  - Adjusting row heights and column widths in Excel
+  - [Exploring font styles, borders, and color backgrounds](#exploring-font-styles-borders-and-color-backgrounds)
+  - [Applying numeric formats in Excel](#applying-numeric-formats-in-excel)
+  - [Adjusting row heights and column widths in Excel](#adjusting-row-heights-and-column-widths-in-excel)
 - [**5. Adjusting Excel Worksheet Layouts and Data**](#5-adjusting-excel-worksheet-layouts-and-data) (3 videos)
-  - Rows and columns: Insert/delete and hide/unhide
-  - Moving, copying, and inserting data
-  - Finding and replacing data
+  - [Rows and columns: Insert/delete and hide/unhide](#rows-and-columns-insertdelete-and-hideunhide)
+  - [Moving, copying, and inserting data](#moving-copying-and-inserting-data)
+  - [Finding and replacing data](#finding-and-replacing-data)
 - [**6. Adjusting Excel Page Layouts and Printing**](#6-adjusting-excel-page-layouts-and-printing) (2 videos)
-  - Page Layout view and commands
-  - Using Page Break Preview and print setup options
+  - [Page Layout view and commands](#page-layout-view-and-commands)
+  - [Using Page Break Preview and print setup options](#using-page-break-preview-and-print-setup-options)
 - [**7. Working with Charts in Excel**](#7-working-with-charts-in-excel) (2 videos)
-  - Creating charts
-  - Exploring chart types
+  - [Creating charts](#creating-charts)
+  - [Exploring chart types](#exploring-chart-types)
 - [**8. Adjusting Excel Worksheet Views**](#8-adjusting-excel-worksheet-views) (2 videos)
-  - Freezing and unfreezing panes
-  - Splitting screens horizontally and vertically
+  - [Freezing and unfreezing panes](#freezing-and-unfreezing-panes)
+  - [Splitting screens horizontally and vertically](#splitting-screens-horizontally-and-vertically)
 - [**9. Working with Multiple Excel Worksheets and Workbooks**](#9-working-with-multiple-excel-worksheets-and-workbooks) (3 videos)
-  - Renaming, inserting, and deleting sheets
-  - Moving, copying, and grouping sheets
-  - Opening, closing, and saving workbooks
+  - [Renaming, inserting, and deleting sheets](#renaming-inserting-and-deleting-sheets)
+  - [Moving, copying, and grouping sheets](#moving-copying-and-grouping-sheets)
+  - [Opening, closing, and saving workbooks](#opening-closing-and-saving-workbooks)
 - [**10. Excel Data Management Features**](#10-excel-data-management-features) (3 videos)
-  - Sorting data
-  - Using filters
-  - Creating PivotTables
+  - [Sorting data](#sorting-data)
+  - [Using filters](#using-filters)
+  - [Creating PivotTables](#creating-pivottables)
 - [**11. Security and Sharing in Excel**](#11-security-and-sharing-in-excel) (2 videos)
-  - Protecting worksheets and workbooks
-  - Sharing workbooks and tracking changes
+  - [Protecting worksheets and workbooks](#protecting-worksheets-and-workbooks)
+  - [Sharing workbooks and tracking changes](#sharing-workbooks-and-tracking-changes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your Excel journey
+  - [Continue your Excel journey](#continue-your-excel-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Excel for Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980)
@@ -129,12 +129,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (2), [[LinkedIn]] (2), [[Microsoft 365]] (1)
 > **Speakers:** - [dennis] (1)
 
 
 ### 1. Getting Started with Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Excel fundamentals: What can it do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980)
@@ -235,6 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), data (4), [[Zoom]] (2), business (1), management (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [lecturer] (1)
@@ -326,7 +328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), data (6), [[Microsoft Word|Word]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Pivot Tables]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** refers to (1)
 > **Analogies:** kind of like (1)
@@ -461,7 +463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), let (1), while. (1), try. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2)
 > **UI Navigation:** click on (3), in the menu (1), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** a11 (1)
@@ -609,6 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), data (6), [[Microsoft Word|Word]] (3), [[Zoom]] (3)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** az (1)
 > **Env Vars:** xfd (1)
@@ -745,7 +748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), feature (2), data (1), next (1), [[React.js|React]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** it's like (1), for example (1)
@@ -840,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), let (1), this. (1)
+> **Frameworks & Libraries:** feature (6), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), next (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (2)
@@ -852,7 +855,7 @@ created: 2026-04-29
 
 ### 2. Entering Data in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring data entry, editing, and AutoFill
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980)
@@ -1063,7 +1066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (2), else, (1), switch (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (6), next (5), [[Microsoft Word|Word]] (3), hit (2)
 > **Definitions:** we call this (1), is a  (1), short for (1)
 > **UI Navigation:** double-click (1), click on (1)
 > **Analogies:** imagine (2)
@@ -1168,9 +1171,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), next (2), feature (2)
 > **CLI Commands:** make (2), find (2)
 > **Ports:** :15 (3), :00 (1)
-> **Code Keywords:** this, (1), type, (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -1271,9 +1274,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), feature (2), data (2), [[Microsoft Word|Word]] (1), next (1)
 > **Env Vars:** ctrl (16), crtl (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** delete (2), case, (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1344,7 +1347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), from, (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), power (1)
 > **Definitions:** means that (1), in other words (1)
 > **Analogies:** imagine (2)
 > **UI Navigation:** go to (1)
@@ -1353,7 +1356,7 @@ created: 2026-04-29
 
 ### 3. Formulas and Functions in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using simple formulas in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980)
@@ -1646,7 +1649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (2), this. (2), delete (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), data (2), next (2), [[Microsoft Word|Word]] (1), [[Financial Data]] (1)
 > **UI Navigation:** double-click (2), click on (1)
 > **Versions:** 0.25 (1)
 > **Cross-References:** in the next (1)
@@ -1782,8 +1785,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case, (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1917,7 +1920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), delete (3), this. (2), type = (2), let (2)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** sum (6), average (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -2054,7 +2057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), while. (1), continue (1), match, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (5), next (1), power (1), management (1)
 > **Env Vars:** xlookup (5), vlookup (1), hlooup (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (2)
@@ -2066,7 +2069,7 @@ created: 2026-04-29
 
 ### 4. Formatting in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring font styles, borders, and color backgrounds
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980)
@@ -2251,6 +2254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2), next (2), [[Microsoft]] (1), feature (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** e13 (1), a15 (1)
 > **UI Navigation:** go to (2)
@@ -2409,8 +2413,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), [[Security]] (3), next (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (2), this. (2), this, (1), case, (1)
 > **UI Navigation:** right-click (2), click on (1), go to (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** is a  (1)
@@ -2532,17 +2536,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (9)
 > **UI Navigation:** in the menu (1), click on (1), select the (1)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Adjusting Excel Worksheet Layouts and Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rows and columns: Insert/delete and hide/unhide
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980)
@@ -2693,7 +2697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (3), this, (1), this. (1), super (1)
+> **Frameworks & Libraries:** data (4), next (3), management (1), [[Zoom]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -2809,7 +2813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), let (5)
+> **Frameworks & Libraries:** data (16), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -2882,8 +2886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), data (3), [[Search]] (1)
 > **CLI Commands:** find (7)
-> **Code Keywords:** for. (1), case. (1), let (1)
 > **Env Vars:** rick (2), ick (1)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** in other words (1)
@@ -2892,7 +2896,7 @@ created: 2026-04-29
 
 ### 6. Adjusting Excel Page Layouts and Printing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Page Layout view and commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980)
@@ -3067,7 +3071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (5), next (4), [[Zoom]] (1)
 > **UI Navigation:** go to (5), select the (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** in the next (3), go back to (1)
@@ -3207,7 +3211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), throw (1)
+> **Frameworks & Libraries:** data (4), [[Zoom]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (5)
 > **Prerequisites:** setup (5)
 > **Definitions:** is a  (1), means that (1), in other words (1)
@@ -3218,7 +3222,7 @@ created: 2026-04-29
 
 ### 7. Working with Charts in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980)
@@ -3393,8 +3397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Microsoft Excel|Excel]] (4), next (2), feature (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (11)
-> **Code Keywords:** let (4), function (3), delete (1), this. (1), type = (1)
 > **Env Vars:** f11 (2), b11 (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Cross-References:** in the next (1), go back to (1)
@@ -3653,7 +3657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), switch (4), let (2), extends (1), this, (1)
+> **Frameworks & Libraries:** data (19), product (3), next (1), [[Microsoft Products|Products]] (1), feature (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (3), is an  (2), refers to (1), in other words (1)
 > **UI Navigation:** go to (4), select the (1), click on (1)
@@ -3665,7 +3669,7 @@ created: 2026-04-29
 
 ### 8. Adjusting Excel Worksheet Views
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Freezing and unfreezing panes
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/freezing-and-unfreezing-panes?u=76281980)
@@ -3814,7 +3818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2)
+> **Frameworks & Libraries:** data (7), feature (2), next (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** scroll down (2), click on (2), scroll up (2)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
@@ -3929,8 +3933,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), data (3), [[Microsoft Word|Word]] (1), [[Zoom]] (1), next (1)
 > **UI Navigation:** double-click (4), click on (1), scroll down (1), scroll up (1), in the menu (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -3938,7 +3942,7 @@ created: 2026-04-29
 
 ### 9. Working with Multiple Excel Worksheets and Workbooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Renaming, inserting, and deleting sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/renaming-inserting-and-deleting-sheets?u=76281980)
@@ -4067,7 +4071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (6)
 > **Warnings:** warning (3)
 > **Definitions:** in other words (1), means that (1)
@@ -4180,9 +4184,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (1), this, (1), case, (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -4318,7 +4322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (2), new, (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[Windows]] (4), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1)
@@ -4327,7 +4331,7 @@ created: 2026-04-29
 
 ### 10. Excel Data Management Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sorting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980)
@@ -4524,7 +4528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (6), [[Zoom]] (2), management (1)
 > **Analogies:** imagine (3), for example (1)
 > **CLI Commands:** az (2), make (1)
 > **UI Navigation:** click on (2)
@@ -4680,8 +4684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), next (4), [[Microsoft Excel|Excel]] (2), feature (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2), this, (2)
 > **UI Navigation:** scroll up (2), click on (1)
 > **Analogies:** imagine (1), for example (1)
 > **Best Practices:** always make sure (1)
@@ -4866,7 +4870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), function (2), this. (2), new. (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (4), product (3), [[Microsoft Word|Word]] (2), [[Zoom]] (2)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** scroll up (1), go to (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -4876,7 +4880,7 @@ created: 2026-04-29
 
 ### 11. Security and Sharing in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting worksheets and workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/protecting-worksheets-and-workbooks?u=76281980)
@@ -5025,7 +5029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), protected (3), else. (1), this, (1), delete (1)
+> **Frameworks & Libraries:** feature (4), [[Microsoft Excel|Excel]] (3), data (3)
 > **CLI Commands:** make (9)
 > **UI Navigation:** go to (4), select the (2)
 > **Env Vars:** ctrl (1)
@@ -5178,8 +5182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Products|Products]] (1), data (1)
 > **CLI Commands:** make (9)
-> **Code Keywords:** let (5), case, (2), while, (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** for example (1), imagine (1)
 > **Prerequisites:** set up (2)
@@ -5190,7 +5194,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your Excel journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980)
@@ -5211,6 +5215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)

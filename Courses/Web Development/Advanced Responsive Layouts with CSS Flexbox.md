@@ -30,7 +30,7 @@ tags:
   - skill/responsive-web-design
   - skill/css-flexbox
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Responsive%20Layouts%20with%20CSS%20Flexbox.md)
@@ -49,44 +49,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - How to use the exercise files
+  - [Welcome](#welcome)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. What Is Flexbox?**](#1-what-is-flexbox) (2 videos)
-  - What is Flexbox?
-  - Caveats when using Flexbox today
+  - [What is Flexbox?](#what-is-flexbox)
+  - [Caveats when using Flexbox today](#caveats-when-using-flexbox-today)
 - [**2. Flexbox-Powered Menus**](#2-flexbox-powered-menus) (7 videos)
-  - Exploring common menu layouts
-  - Marking up five types of menus
-  - Using Flexbox to control single-level menu layout
-  - Using Flexbox to control advanced menus
-  - Using Flexbox to control multilevel menus with dropdowns
-  - Creating a social media menu
-  - Using Flexbox to control multiple menus
+  - [Exploring common menu layouts](#exploring-common-menu-layouts)
+  - [Marking up five types of menus](#marking-up-five-types-of-menus)
+  - [Using Flexbox to control single-level menu layout](#using-flexbox-to-control-single-level-menu-layout)
+  - [Using Flexbox to control advanced menus](#using-flexbox-to-control-advanced-menus)
+  - [Using Flexbox to control multilevel menus with dropdowns](#using-flexbox-to-control-multilevel-menus-with-dropdowns)
+  - [Creating a social media menu](#creating-a-social-media-menu)
+  - [Using Flexbox to control multiple menus](#using-flexbox-to-control-multiple-menus)
 - [**3. Responsive Card Layouts**](#3-responsive-card-layouts) (5 videos)
-  - Challenges with card layouts
-  - Marking up typical cards
-  - Using Flexbox to create a grid of cards
-  - Adding responsive breakpoints
-  - Solving the common "anchor doesn't fill the card" problem
+  - [Challenges with card layouts](#challenges-with-card-layouts)
+  - [Marking up typical cards](#marking-up-typical-cards)
+  - [Using Flexbox to create a grid of cards](#using-flexbox-to-create-a-grid-of-cards)
+  - [Adding responsive breakpoints](#adding-responsive-breakpoints)
+  - [Solving the common "anchor doesn't fill the card" problem](#solving-the-common-anchor-doesnt-fill-the-card-problem)
 - [**4. Holy Grail Layout**](#4-holy-grail-layout) (4 videos)
-  - What is the holy grail layout?
-  - Marking up the holy grail layout in HTML
-  - Styling the holy grail layout with Flexbox
-  - Changing the layout with Flexbox
+  - [What is the holy grail layout?](#what-is-the-holy-grail-layout)
+  - [Marking up the holy grail layout in HTML](#marking-up-the-holy-grail-layout-in-html)
+  - [Styling the holy grail layout with Flexbox](#styling-the-holy-grail-layout-with-flexbox)
+  - [Changing the layout with Flexbox](#changing-the-layout-with-flexbox)
 - [**5. Handing Control to the User**](#5-handing-control-to-the-user) (5 videos)
-  - Handing control to the user
-  - Sidebar position switching
-  - Changing from holy grail to vertical display
-  - Hiding and showing the sidebar
-  - Animating content
+  - [Handing control to the user](#handing-control-to-the-user)
+  - [Sidebar position switching](#sidebar-position-switching)
+  - [Changing from holy grail to vertical display](#changing-from-holy-grail-to-vertical-display)
+  - [Hiding and showing the sidebar](#hiding-and-showing-the-sidebar)
+  - [Animating content](#animating-content)
 - [**6. Putting It All Together**](#6-putting-it-all-together) (1 videos)
-  - Putting it all together
+  - [Putting it all together](#putting-it-all-together)
 - [**Next steps**](#next-steps) (1 videos)
-  - Thank you
+  - [Thank you](#thank-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/welcome?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), finally, (1), let (1)
+> **Frameworks & Libraries:** css (5)
 > **Env Vars:** css (5)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Definitions:** is a  (1)
@@ -193,11 +193,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), next (1), [[HTML]] (1)
 > **Exercise Files:** exercise files (5), exercise file (1)
 > **Env Vars:** css (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - for (1)
@@ -205,7 +205,7 @@ created: 2026-04-29
 
 ### 1. What Is Flexbox?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Flexbox?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980)
@@ -248,9 +248,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), [[JavaScript]] (2), next (1)
 > **Env Vars:** css (6)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** switch (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Documentation:** specification (1)
 > **Speakers:** - if (1)
@@ -314,8 +314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[User Experience (UX)|User experience]] (2), web (1), [[JavaScript]] (1), feature (1)
 > **Env Vars:** css (5)
-> **Code Keywords:** require (1), else. (1), class. (1), this, (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1), is a  (1)
 > **URLs:** [http://canuise.com](http://canuise.com) (1)
@@ -326,7 +326,7 @@ created: 2026-04-29
 
 ### 2. Flexbox-Powered Menus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring common menu layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/exploring-common-menu-layouts?u=76281980)
@@ -351,9 +351,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[HTML]] (1), power (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (2), html (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - one (1)
 
 #### Marking up five types of menus
@@ -453,10 +453,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[HTML]] (1), web (1), [[Typography]] (1)
 > **UI Navigation:** scroll down (2), dropdown (2), toggle (2), open the (1), go to (1)
 > **Env Vars:** css (5), html5 (1)
 > **File Paths:** menus.html (1), style-menus.css (1), nav-single-level.css (1), nav-base.css (1)
-> **Code Keywords:** case, (2), finally, (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** keep in mind (1)
@@ -617,10 +617,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), web (1), next (1), [[HTML]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Env Vars:** css (5)
 > **UI Navigation:** click on (2), scroll down (1)
-> **Code Keywords:** continue (1), this, (1)
 > **Analogies:** just like (1), for example (1)
 > **File Paths:** menus.html (1)
 > **Definitions:** is called (1)
@@ -775,12 +775,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (3), next (3), css (3), [[HTML]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Versions:** 1.5 (3), 1.8 (1)
 > **UI Navigation:** go to (2), scroll down (2)
 > **File Paths:** menus.html (1), nav-advanced.css (1)
 > **Env Vars:** css (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
@@ -879,9 +879,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), css (3), [[JavaScript]] (2), [[User Experience (UX)|User experience]] (1), [[WordPress]] (1)
 > **UI Navigation:** go to (3), click on (3), toggle (2), scroll down (1), open the (1)
 > **File Paths:** menus.html (3), menu-toggle.js (2), nav-multi-level.css (1)
-> **Code Keywords:** this, (3), function (1), this. (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** css (2)
 > **Code Identifiers:** jquery (1)
@@ -953,12 +953,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[HTML]] (1)
 > **Env Vars:** url (2), css (2), html (1)
 > **URLs:** [dribble.com](https://dribble.com) (2), [facebook.com](https://facebook.com) (1)
 > **File Paths:** accessibility.css (1), nav-social.css (1)
 > **Definitions:** is an  (1), in other words (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** class. (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - the (1)
 
@@ -1061,10 +1061,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), next (2), web (1), [[HTML]] (1), functional (1)
 > **Env Vars:** css (7), div (3)
 > **CLI Commands:** make (3), find (1)
 > **File Paths:** menus.html (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -1073,7 +1073,7 @@ created: 2026-04-29
 
 ### 3. Responsive Card Layouts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges with card layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/challenges-with-card-layouts?u=76281980)
@@ -1140,10 +1140,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), next (4), web (3), [[JavaScript]] (2)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1186,9 +1186,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), next (2), [[HTML]] (1)
 > **File Paths:** card-layout.html (1), card-styles.css (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** css (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
@@ -1275,9 +1275,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), next (2), [[Microsoft Word|Word]] (1), feature (1)
 > **CLI Commands:** make (6)
 > **File Paths:** cardstyles.css (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** css (1)
 > **Cross-References:** previous chapter (1)
 > **UI Navigation:** scroll down (1)
@@ -1373,7 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this . (1), this, (1), for . (1), default, (1)
+> **Frameworks & Libraries:** next (2), [[Responsive Web Design]] (1)
 > **Cross-References:** as you saw (1), go back to (1)
 > **Code Identifiers:** iphone (1)
 > **UI Navigation:** go to (1)
@@ -1447,7 +1447,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1), previous chapter (1)
 > **UI Navigation:** scroll up (1)
 > **Definitions:** is a  (1)
@@ -1456,7 +1455,7 @@ created: 2026-04-29
 
 ### 4. Holy Grail Layout
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the holy grail layout?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980)
@@ -1525,8 +1524,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[JavaScript]] (4), web (1), [[Search]] (1), functional (1)
 > **Env Vars:** css (5)
-> **Code Keywords:** this. (1), super (1), let (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** open the (1)
@@ -1586,11 +1585,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), css (2), next (1)
 > **File Paths:** holy-grail.html (3), holy-grail.css (2)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Analogies:** just like (2), for instance (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -1692,10 +1691,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), next (3), power (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** css (3)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
@@ -1764,10 +1763,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4)
 > **Env Vars:** css (3)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** default, (1), let (1)
 > **UI Navigation:** go to (1), in the sidebar (1)
 > **File Paths:** holy-grail.css (1)
 > **Cross-References:** go back to (1)
@@ -1776,7 +1775,7 @@ created: 2026-04-29
 
 ### 5. Handing Control to the User
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handing control to the user
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980)
@@ -1819,8 +1818,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[JavaScript]] (2), web (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (4)
-> **Code Keywords:** finally, (1), else. (1), let (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll up (1), in the sidebar (1)
 > **Speakers:** - one (1)
@@ -1924,8 +1923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), class. (5), if
-( (1), this, (1)
+> **Frameworks & Libraries:** css (3), [[HTML]] (1), [[JavaScript]] (1)
 > **UI Navigation:** toggle (7), go to (3), scroll down (2)
 > **File Paths:** holy-grail.html (1), sidebar-switcher.js (1), holy-grail.css (1), sidbear-switcher.js (1)
 > **CLI Commands:** find (3), make (1)
@@ -1989,7 +1987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), class, (2), default. (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), css (2), next (1), [[HTML]] (1)
 > **UI Navigation:** toggle (4), go to (3), click on (1)
 > **CLI Commands:** find (2), make (1)
 > **File Paths:** sidebar-switcher.js (1), holy-grail.css (1)
@@ -2092,8 +2090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[Representational State Transfer (REST)|Rest]] (2), next (1)
 > **UI Navigation:** toggle (5), click on (2), scroll down (1), scroll up (1)
-> **Code Keywords:** function (3), this, (2), case, (1), class. (1), switch (1)
 > **CLI Commands:** make (2), find (2)
 > **File Paths:** sidebar-switcher.js (1), holy-grail.css (1)
 > **Env Vars:** css (2)
@@ -2223,10 +2221,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[JavaScript]] (3), next (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (5), hsla (1)
 > **UI Navigation:** click on (2), scroll down (1), in the sidebar (1), switch to (1)
 > **CLI Commands:** make (2), snap (1)
-> **Code Keywords:** this. (1), switch (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -2235,7 +2233,7 @@ created: 2026-04-29
 
 ### 6. Putting It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980)
@@ -2408,19 +2406,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), css (7), [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** all-together.html (4), style-all-together.css (2), holy-grail.html (1), menu.html (1), menus.html (1)
 > **CLI Commands:** find (5), make (3)
 > **UI Navigation:** go to (6), scroll down (2)
 > **Cross-References:** go back to (3)
 > **Exercise Files:** exercise files (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** css (1)
 > **Speakers:** - in (1)
 
 
 ### Next steps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980)
@@ -2451,10 +2449,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), css (2), web (1), next (1)
 > **Env Vars:** css (2)
 > **File Paths:** grunt.js (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - and (1)
 

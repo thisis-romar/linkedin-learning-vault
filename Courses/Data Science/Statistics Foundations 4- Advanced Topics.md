@@ -27,7 +27,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistics%20Foundations%204-%20Advanced%20Topics.md)
@@ -46,36 +46,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of advanced statistics
+  - [The power of advanced statistics](#the-power-of-advanced-statistics)
 - [**1. Comparing Two Populations: Proportions**](#1-comparing-two-populations-proportions) (3 videos)
-  - Explanation of two population comparisons
-  - Two population: Confidence interval example
-  - Two population: Hypothesis test example
+  - [Explanation of two population comparisons](#explanation-of-two-population-comparisons)
+  - [Two population: Confidence interval example](#two-population-confidence-interval-example)
+  - [Two population: Hypothesis test example](#two-population-hypothesis-test-example)
 - [**2. Comparing Two Populations: Means**](#2-comparing-two-populations-means) (4 videos)
-  - Explanation of two population mean comparisons
-  - Visualization: Re-randomizing
-  - Two population means: Confidence interval example
-  - Two population means: Hypothesis test example
+  - [Explanation of two population mean comparisons](#explanation-of-two-population-mean-comparisons)
+  - [Visualization: Re-randomizing](#visualization-re-randomizing)
+  - [Two population means: Confidence interval example](#two-population-means-confidence-interval-example)
+  - [Two population means: Hypothesis test example](#two-population-means-hypothesis-test-example)
 - [**3. T-Tests**](#3-t-tests) (3 videos)
-  - T-distribution vs. z-distribution
-  - T-score tables and degrees of freedom
-  - Use T-scores to develop confidence intervals
+  - [T-distribution vs. z-distribution](#t-distribution-vs-z-distribution)
+  - [T-score tables and degrees of freedom](#t-score-tables-and-degrees-of-freedom)
+  - [Use T-scores to develop confidence intervals](#use-t-scores-to-develop-confidence-intervals)
 - [**4. ANOVA: Analysis of Variance**](#4-anova-analysis-of-variance) (4 videos)
-  - ANOVA: What is analysis of variance?
-  - One-way ANOVA and the sum of squares total (SST)
-  - Sum of squares within (SSW) and sum of squares between (SSB)
-  - F-statistic and ANOVA hypothesis test example
+  - [ANOVA: What is analysis of variance?](#anova-what-is-analysis-of-variance)
+  - [One-way ANOVA and the sum of squares total (SST)](#one-way-anova-and-the-sum-of-squares-total-sst)
+  - [Sum of squares within (SSW) and sum of squares between (SSB)](#sum-of-squares-within-ssw-and-sum-of-squares-between-ssb)
+  - [F-statistic and ANOVA hypothesis test example](#f-statistic-and-anova-hypothesis-test-example)
 - [**5. Regression Analysis**](#5-regression-analysis) (4 videos)
-  - What is regression?
-  - Regression best fit line
-  - Coefficient of determination (R-squared)
-  - The correlation coefficient
+  - [What is regression?](#what-is-regression)
+  - [Regression best fit line](#regression-best-fit-line)
+  - [Coefficient of determination (R-squared)](#coefficient-of-determination-r-squared)
+  - [The correlation coefficient](#the-correlation-coefficient)
 - [**Continuing Your Advanced Statistics Learning Journey**](#continuing-your-advanced-statistics-learning-journey) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of advanced statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-power-of-advanced-statistics?u=76281980)
@@ -126,7 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include. (1), let (1)
+> **Frameworks & Libraries:** [[Statistics]] (10), data (1), business (1), [[Engineering]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** anova (1)
 > **Speakers:** - statistics (1)
@@ -134,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Comparing Two Populations: Proportions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanation of two population comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-comparisons?u=76281980)
@@ -187,7 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1), power (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
@@ -326,9 +326,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 0.0109 (3), 0.0226 (2), 0.0117 (2), 1.96 (2), 2.26 (1)
 > **CLI Commands:** find (6)
-> **Code Keywords:** let (5), require (1)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
@@ -480,8 +480,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Probability]] (1), [[Statistics]] (1)
 > **Versions:** 0.0109 (5), 0.0226 (3), 0.0117 (3), 2.73 (3), 0.004 (2)
-> **Code Keywords:** let (4), this, (1), case, (1)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** previous video (2)
@@ -490,7 +490,7 @@ created: 2026-04-29
 
 ### 2. Comparing Two Populations: Means
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanation of two population mean comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-mean-comparisons?u=76281980)
@@ -551,7 +551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1)
+> **Frameworks & Libraries:** hit (1), data (1)
 > **Prerequisites:** required to (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - consider (1)
@@ -659,7 +659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (2), new, (1)
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - a (1)
 
@@ -768,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1), next (1)
 > **Versions:** 2.5 (3), 2.1 (3), 1.19 (3), 16.2 (2), 14.1 (2)
-> **Code Keywords:** let (3), this, (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** previous video (1), we discussed (1)
 > **Definitions:** in other words (1), means that (1)
@@ -885,8 +885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Versions:** 2.1 (5), 2.33 (4), 2.5 (2), 3.6 (2), 0.99 (2)
-> **Code Keywords:** let (4), continue (1)
 > **Definitions:** means that (2), in other words (1), is an  (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - so (1)
@@ -894,7 +894,7 @@ created: 2026-04-29
 
 ### 3. T-Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### T-distribution vs. z-distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-distribution-vs-z-distribution?u=76281980)
@@ -963,8 +963,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1)
 > **Versions:** 1.96 (2), 1.0 (1), 4.303 (1), 2.262 (1), 2.093 (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** next video (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - sometimes (1)
@@ -1058,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** [[Probability]] (1), data (1)
 > **Versions:** 0.05 (2), 2.5 (1), 0.975 (1), 3.182 (1), 2.262 (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** previous video (1), go back to (1)
@@ -1149,9 +1149,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Versions:** 2.821 (3), 9.34 (3), 29.51 (2), 2.262 (2), 0.02 (1)
 > **CLI Commands:** find (5)
-> **Code Keywords:** let (1), case, (1), this, (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - let (1)
@@ -1159,7 +1159,7 @@ created: 2026-04-29
 
 ### 4. ANOVA: Analysis of Variance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ANOVA: What is analysis of variance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/anova-what-is-analysis-of-variance?u=76281980)
@@ -1248,8 +1248,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **Env Vars:** anova (13)
-> **Code Keywords:** let (2), case, (2)
 > **Analogies:** for example (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is an  (1)
@@ -1328,8 +1328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), next (2)
 > **Env Vars:** sst (4), anova (2)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** stands for (1), means that (1)
 > **CLI Commands:** find (1)
 > **Versions:** 5.0 (1)
@@ -1417,8 +1417,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20)
 > **Env Vars:** ssw (3), sst (2), ssb (2), anova (1)
-> **Code Keywords:** let (2), continue (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** previous video (1)
 > **Definitions:** means that (1)
@@ -1576,9 +1576,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2)
 > **Env Vars:** ssw (4), ssb (4), sst (2), anova (1)
 > **Definitions:** is a  (5), means that (2), in other words (1), we call this (1)
-> **Code Keywords:** let (2), this. (1), this, (1), for. (1), case, (1)
 > **Versions:** 3.49 (3), 2.91 (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
@@ -1587,7 +1587,7 @@ created: 2026-04-29
 
 ### 5. Regression Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/what-is-regression?u=76281980)
@@ -1684,7 +1684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** data (9), hit (2), next (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1779,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), require (1), case, (1)
+> **Frameworks & Libraries:** data (3), express (1), product (1)
 > **CLI Commands:** find (5), make (1)
 > **Versions:** 8.83 (3), 218.7 (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1902,10 +1902,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (1)
 > **Env Vars:** ssr (9), sst (9)
 > **Versions:** 272.8 (2), 0.945 (2), 156.8 (1), 784.2 (1), 1.0 (1)
 > **Definitions:** is a  (4), stands for (2), in other words (1), is an  (1), means that (1)
-> **Code Keywords:** this, (2), require (1), let (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** previous video (2)
 > **UI Navigation:** go to (1)
@@ -1974,9 +1974,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **Versions:** 0.945 (2), 0.42 (2), 8.83 (1), 0.972 (1), 0.85 (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
-> **Code Keywords:** case, (1), let (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** just like (1)
 > **Speakers:** - in (1)
@@ -1984,7 +1984,7 @@ created: 2026-04-29
 
 ### Continuing Your Advanced Statistics Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980)
@@ -2025,6 +2025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (6), business (3), next (1), [[Analytics]] (1), data (1)
 > **Env Vars:** anova (1)
 > **Speakers:** - congratulations (1)
 

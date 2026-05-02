@@ -35,7 +35,7 @@ tags:
   - skill/react-js
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20a%20JavaScript%20AI%20App%20with%20React%20and%20the%20OpenAI%20API.md)
@@ -54,46 +54,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Build a JavaScript AI app with React and the OpenAI API
-  - Use the exercise files on GitHub Codespaces
-  - Using GitHub Codespaces with this course
+  - [Build a JavaScript AI app with React and the OpenAI API](#build-a-javascript-ai-app-with-react-and-the-openai-api)
+  - [Use the exercise files on GitHub Codespaces](#use-the-exercise-files-on-github-codespaces)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Building a Weather App with AI Power**](#1-building-a-weather-app-with-ai-power) (3 videos)
-  - Beyond ChatGPT: What AI can do for you
-  - Real-world challenge: A more useful weather app
-  - Ideating with ChatGPT as a base
+  - [Beyond ChatGPT: What AI can do for you](#beyond-chatgpt-what-ai-can-do-for-you)
+  - [Real-world challenge: A more useful weather app](#real-world-challenge-a-more-useful-weather-app)
+  - [Ideating with ChatGPT as a base](#ideating-with-chatgpt-as-a-base)
 - [**2. The Core App**](#2-the-core-app) (4 videos)
-  - Sidebar: Build a React app using Vite and GitHub Codespaces
-  - Boot up the app in GitHub Codespaces
-  - Work with the OpenWeatherMap API
-  - App walk-through
+  - [Sidebar: Build a React app using Vite and GitHub Codespaces](#sidebar-build-a-react-app-using-vite-and-github-codespaces)
+  - [Boot up the app in GitHub Codespaces](#boot-up-the-app-in-github-codespaces)
+  - [Work with the OpenWeatherMap API](#work-with-the-openweathermap-api)
+  - [App walk-through](#app-walk-through)
 - [**3. Connecting to the OpenAI API**](#3-connecting-to-the-openai-api) (4 videos)
-  - What is the OpenAI API, and how does it relate to ChatGPT?
-  - Test the API in the OpenAI Playground
-  - Generate secret keys
-  - Test the API with a REST client
+  - [What is the OpenAI API, and how does it relate to ChatGPT?](#what-is-the-openai-api-and-how-does-it-relate-to-chatgpt)
+  - [Test the API in the OpenAI Playground](#test-the-api-in-the-openai-playground)
+  - [Generate secret keys](#generate-secret-keys)
+  - [Test the API with a REST client](#test-the-api-with-a-rest-client)
 - [**4. Using AI as a Human-to-Machine Translator**](#4-using-ai-as-a-human-to-machine-translator) (4 videos)
-  - Create a location string from a prompt
-  - The challenge of non-deterministic APIs
-  - Function calling in the OpenAI API
-  - Create a custom function call for the OpenAI API
+  - [Create a location string from a prompt](#create-a-location-string-from-a-prompt)
+  - [The challenge of non-deterministic APIs](#the-challenge-of-non-deterministic-apis)
+  - [Function calling in the OpenAI API](#function-calling-in-the-openai-api)
+  - [Create a custom function call for the OpenAI API](#create-a-custom-function-call-for-the-openai-api)
 - [**5. Integrating AI into the Weather App**](#5-integrating-ai-into-the-weather-app) (6 videos)
-  - Sequence API calls in an app
-  - Create a fetch request to the OpenAI API
-  - Add a function call to the request
-  - Parse the response
-  - Pass the response to the weather data request
-  - Update the weather data display
+  - [Sequence API calls in an app](#sequence-api-calls-in-an-app)
+  - [Create a fetch request to the OpenAI API](#create-a-fetch-request-to-the-openai-api)
+  - [Add a function call to the request](#add-a-function-call-to-the-request)
+  - [Parse the response](#parse-the-response)
+  - [Pass the response to the weather data request](#pass-the-response-to-the-weather-data-request)
+  - [Update the weather data display](#update-the-weather-data-display)
 - [**6. Creating Rich AI Outputs**](#6-creating-rich-ai-outputs) (4 videos)
-  - Prompt engineering for developers
-  - Advanced calls to the OpenAI API
-  - Integrate the AI API response
-  - Provide good UX with independent loaders
+  - [Prompt engineering for developers](#prompt-engineering-for-developers)
+  - [Advanced calls to the OpenAI API](#advanced-calls-to-the-openai-api)
+  - [Integrate the AI API response](#integrate-the-ai-api-response)
+  - [Provide good UX with independent loaders](#provide-good-ux-with-independent-loaders)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Go further
+  - [Go further](#go-further)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a JavaScript AI app with React and the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980)
@@ -110,8 +110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[ChatGPT]] (1), [[User Experience (UX)|User experience]] (1), [[React.js|React]] (1), data (1)
 > **Env Vars:** api (1), gpt (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - chatgpt (1)
 
 #### Use the exercise files on GitHub Codespaces
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[GitHub]] (1), [[React.js|React]] (1)
 > **Prerequisites:** install (1), set up (1)
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
@@ -265,7 +266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (3), click on (2), open the (1), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -277,7 +278,7 @@ created: 2026-04-29
 
 ### 1. Building a Weather App with AI Power
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beyond ChatGPT: What AI can do for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980)
@@ -332,8 +333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), data (5), [[Probability]] (2), [[Forms]] (1), [[JSON]] (1)
 > **Env Vars:** gpt (3), json (1)
-> **Code Keywords:** public (1), interface (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1)
@@ -424,8 +425,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), api (7), ai (5), [[User Experience (UX)|User experience]] (2), prompt (2)
 > **Env Vars:** api (7)
-> **Code Keywords:** case, (2), switch (1), from. (1), this, (1), return, (1)
 > **Versions:** 24.8 (1), 2.8 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -572,8 +573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), ai (8), prompt (8), api (6), [[JSON]] (4)
 > **Env Vars:** gpt (7), api (6), json (4)
-> **Code Keywords:** let (7), case, (2), this. (2), pass (1), try, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Versions:** 25.3 (1)
@@ -583,7 +584,7 @@ created: 2026-04-29
 
 ### 2. The Core App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sidebar: Build a React app using Vite and GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980)
@@ -686,12 +687,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[Codespaces]] (6), [[GitHub]] (3), [[npm]] (3), [[JSON]] (2)
 > **UI Navigation:** go to (5), click on (2), select the (1), scroll down (1)
 > **Prerequisites:** install (5), configure (2), set up (1)
 > **CLI Commands:** npm (3), make (2), find (1), cd (1)
 > **Tools:** github (3), vs code (1), visual studio (1), terminal (1)
 > **Code Identifiers:** openpreview (2), portsattributes (1), onautoforward (1), forwardports (1)
-> **Code Keywords:** let (1), delete (1), public (1), default. (1)
 > **Definitions:** is a  (2), means that (1)
 > **File Paths:** devcontainer.json (1), package.json (1)
 
@@ -768,9 +769,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (10), [[GitHub]] (6), [[npm]] (2), web (2), cloud (1)
 > **Tools:** github (6), vs code (5)
 > **UI Navigation:** go to (4), click on (4)
-> **Code Keywords:** else. (1), let (1), this. (1), new, (1), delete (1)
 > **Prerequisites:** install (3), set up (1), setup (1)
 > **CLI Commands:** npm (2), make (1), git (1)
 > **Exercise Files:** exercise files (1)
@@ -853,8 +854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), web (2), application (2), ai (1), management (1)
 > **Env Vars:** api (8), vite (1)
-> **Code Keywords:** public (2), private (1), delete (1), let (1), else. (1)
 > **UI Navigation:** go to (3)
 > **Tools:** terminal (1), vs code (1)
 > **Definitions:** in other words (2)
@@ -1009,9 +1010,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), api (7), prompt (4), [[React.js|React]] (3), [[Fetch]] (2)
 > **Code Identifiers:** useapirequests (5), useeffect (2), locationstring (2), iscurrentlyloading (1)
 > **Env Vars:** api (7), vite (3)
-> **Code Keywords:** pass (5), let (2), case, (1), continue (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Prerequisites:** set up (3)
 > **File Paths:** main.jsx (1), app.jsx (1)
@@ -1021,7 +1022,7 @@ created: 2026-04-29
 
 ### 3. Connecting to the OpenAI API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the OpenAI API, and how does it relate to ChatGPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980)
@@ -1070,8 +1071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OpenAI API]] (11), [[ChatGPT]] (5), ai (4), api (4), application (3)
 > **Env Vars:** api (15), gpt (1)
-> **Code Keywords:** this, (1), function (1), else. (1), finally, (1), public (1)
 > **Analogies:** for example (1)
 > **Speakers:** - throughout (1)
 
@@ -1236,8 +1237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OpenAI API]] (5), [[ChatGPT]] (5), prompt (5), [[Tokens]] (4), api (4)
 > **Env Vars:** api (9), user (3), system (2), json (2), rest (1)
-> **Code Keywords:** let (5), else. (3), this. (2), this, (2), case, (1)
 > **CLI Commands:** python (4), node (2), find (1), make (1), curl (1)
 > **Documentation:** the documentation (3), api reference (2)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
@@ -1304,9 +1305,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), application (4), web (2), [[OpenAI API]] (1), management (1)
 > **Env Vars:** api (8), vite_openai (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** delete (1), let (1), public (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
 > **URLs:** [openai.com](https://openai.com) (1)
@@ -1458,8 +1459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), api (5), [[OpenAI API]] (5), [[Tokens]] (5), [[JSON]] (3)
 > **Env Vars:** api (9), json (3), rest (2), http (1), url (1)
-> **Code Keywords:** pass (4), this. (2), this, (1), interface (1)
 > **UI Navigation:** go to (2), dropdown (2), scroll down (1)
 > **Code Identifiers:** secretkey (4)
 > **Tools:** postman (3)
@@ -1470,7 +1471,7 @@ created: 2026-04-29
 
 ### 4. Using AI as a Human-to-Machine Translator
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a location string from a prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980)
@@ -1549,7 +1550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), this, (2), let (1)
+> **Frameworks & Libraries:** prompt (9), application (3), [[Representational State Transfer (REST)|Rest]] (2), [[OpenAI API]] (1), ai (1)
 > **Env Vars:** api (2), rest (2), json (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll up (1)
@@ -1619,7 +1620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1)
+> **Frameworks & Libraries:** ai (6), prompt (3), api (1), next (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -1691,7 +1692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), case, (2), this. (1), pass (1), else, (1)
+> **Frameworks & Libraries:** application (6), ai (3), prompt (3), feature (3), api (2)
 > **Env Vars:** api (2), gpt (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -1782,7 +1783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (2), case, (1)
+> **Frameworks & Libraries:** data (5), application (4), prompt (2), [[OpenAI API]] (1), next (1)
 > **Env Vars:** api (1), iso (1)
 > **Definitions:** is a  (2)
 > **Versions:** version 3 (1)
@@ -1792,7 +1793,7 @@ created: 2026-04-29
 
 ### 5. Integrating AI into the Weather App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequence API calls in an app
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sequence-api-calls-in-an-app?u=76281980)
@@ -1859,8 +1860,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), api (12), prompt (5), [[OpenAI API]] (2), ai (1)
 > **Env Vars:** api (14)
-> **Code Keywords:** async (2), await (2), pass (2), this, (1), throw (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1997,7 +1998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (9), const (5), finally, (2), let (2), async (1)
+> **Frameworks & Libraries:** prompt (8), [[OpenAI API]] (7), data (7), [[Fetch]] (5), api (4)
 > **Env Vars:** api (10), json (2), vite_openai (2), vite (1)
 > **Code Identifiers:** useapirequests (2), promptdata (2), setpromptdata (2), promptdatares (2), usestate (1)
 > **Definitions:** is an  (2), is a  (1), means that (1)
@@ -2147,7 +2148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), else. (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (6), data (5), [[JSON]] (1), prompt (1), next (1)
 > **Code Identifiers:** function_call (5), displaydata (1), finish_reason (1)
 > **Env Vars:** api (6), json (1)
 > **Prerequisites:** set up (3), setup (1)
@@ -2243,7 +2244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), const (2), let (1), return. (1), else. (1)
+> **Frameworks & Libraries:** data (9), [[JSON]] (2), [[OpenAI API]] (1), [[JavaScript]] (1), [[Fetch]] (1)
 > **Code Identifiers:** promptres (6), countrycode (1), locationstring (1)
 > **Env Vars:** api (2), json (2)
 > **CLI Commands:** make (2)
@@ -2308,9 +2309,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), api (4), [[OpenAI API]] (3), prompt (3), next (1)
 > **Code Identifiers:** promptres (3), promptdatares (3), promptdata (2), locationstring (2), useapirequests (2)
 > **Env Vars:** api (7)
-> **Code Keywords:** pass (3), function (1), finally, (1), return. (1)
 > **Prerequisites:** set up (3)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
@@ -2435,7 +2436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), this. (2), this, (1), let (1), else, (1)
+> **Frameworks & Libraries:** data (26), prompt (16), ai (2), api (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** api (2), jsx (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
@@ -2445,7 +2446,7 @@ created: 2026-04-29
 
 ### 6. Creating Rich AI Outputs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt engineering for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980)
@@ -2530,7 +2531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), this, (2), case, (1), let (1)
+> **Frameworks & Libraries:** ai (7), data (5), prompt (4), [[User Experience (UX)|User experience]] (1), [[Prompt Engineering]] (1)
 > **Prerequisites:** setup (4)
 > **Env Vars:** api (1), gpt (1)
 > **CLI Commands:** find (1)
@@ -2674,9 +2675,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), prompt (9), [[OpenAI API]] (6), api (3), next (2)
 > **Env Vars:** api (9), gpt (5), json (2)
 > **Code Identifiers:** weatherdescript (7), useapirequests (2), weatherdescriptres (2), weatherdata (1), setweatherdescription (1)
-> **Code Keywords:** const (2), pass (1), delete (1), default. (1), await (1)
 > **Prerequisites:** set up (3), setup (1)
 > **File Paths:** useapirequests.jsx (1), weatherdecript.jsx (1)
 > **CLI Commands:** make (1), find (1)
@@ -2774,8 +2775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), prompt (2), [[Fetch]] (1), api (1), cloud (1)
 > **Env Vars:** jsx (2), api (1), gbt4 (1), gpt4 (1)
-> **Code Keywords:** let (2), return. (1), this, (1)
 > **CLI Commands:** make (2)
 > **File Paths:** descript.jsx (1)
 > **Cross-References:** in the next (1)
@@ -2903,8 +2904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), prompt (2), api (1), data (1), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** isloading (9), weatherdescription (6), weatherdescriptloading (5), weatherdataloading (4), setweatherdescriptloading (3)
-> **Code Keywords:** let (3), pass (2), else. (1), this, (1), const (1)
 > **Env Vars:** css (2), api (1), gpt (1)
 > **UI Navigation:** go to (1), scroll up (1)
 > **File Paths:** app.jsx (1)
@@ -2914,7 +2915,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Go further
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980)
@@ -2941,8 +2942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[React.js|React]] (2), [[OpenAI API]] (2), ai (2), data (2)
 > **Env Vars:** api (6)
-> **Code Keywords:** continue (1), let (1), public (1)
 > **CLI Commands:** go build (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)

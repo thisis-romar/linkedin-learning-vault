@@ -37,7 +37,7 @@ tags:
   - skill/ethereum
   - skill/decentralized-applications-dapps
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%208%20Supply%20Chain%20Smart%20Contract%20dApp.md)
@@ -56,28 +56,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Your Supply Chain Smart Contract dApp**](#1-your-supply-chain-smart-contract-dapp) (18 videos)
-  - Designing your supply chain app
-  - What are dApps?
-  - Token smart contract details
-  - Supply chain smart contract details
-  - Smart contract road map
-  - Token smart contract data, part 1
-  - Token smart contract data, part 2
-  - Supply chain smart contract data, part 1
-  - Supply chain smart contract data, part 2
-  - Token smart contract functions, part 1
-  - Token smart contract functions, part 2
-  - Supply chain smart contract functions, part 1
-  - Supply chain smart contract functions, part 2
-  - Using events
-  - Implementing events
-  - More on ownership
-  - Designing for security
-  - Implementing minimal functionality
+  - [Designing your supply chain app](#designing-your-supply-chain-app)
+  - [What are dApps?](#what-are-dapps)
+  - [Token smart contract details](#token-smart-contract-details)
+  - [Supply chain smart contract details](#supply-chain-smart-contract-details)
+  - [Smart contract road map](#smart-contract-road-map)
+  - [Token smart contract data, part 1](#token-smart-contract-data-part-1)
+  - [Token smart contract data, part 2](#token-smart-contract-data-part-2)
+  - [Supply chain smart contract data, part 1](#supply-chain-smart-contract-data-part-1)
+  - [Supply chain smart contract data, part 2](#supply-chain-smart-contract-data-part-2)
+  - [Token smart contract functions, part 1](#token-smart-contract-functions-part-1)
+  - [Token smart contract functions, part 2](#token-smart-contract-functions-part-2)
+  - [Supply chain smart contract functions, part 1](#supply-chain-smart-contract-functions-part-1)
+  - [Supply chain smart contract functions, part 2](#supply-chain-smart-contract-functions-part-2)
+  - [Using events](#using-events)
+  - [Implementing events](#implementing-events)
+  - [More on ownership](#more-on-ownership)
+  - [Designing for security](#designing-for-security)
+  - [Implementing minimal functionality](#implementing-minimal-functionality)
 
 ### 1. Your Supply Chain Smart Contract dApp
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing your supply chain app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980)
@@ -166,7 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), finally, (1), function (1), from, (1)
+> **Frameworks & Libraries:** product (8), data (7), [[Tokens]] (4), [[Microsoft Products|Products]] (3), [[Blockchain]] (2)
 > **Tools:** notion (2)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
@@ -284,10 +284,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (23), data (15), application (10), [[Smart Contracts]] (4), node (3)
 > **CLI Commands:** node (3), make (3)
 > **Code Identifiers:** dapp (4), dapps (2)
 > **Definitions:** means that (3), is an  (2), in other words (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** evm (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
@@ -474,8 +474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (16), data (6), [[Blockchain]] (2), application (1), product (1)
 > **Env Vars:** erc (9)
-> **Code Keywords:** let (4), public (1)
 > **Definitions:** is a  (3), in other words (1), means that (1)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** totsupply (1), totalsupply (1), transferfrom (1)
@@ -622,7 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), delete (4), let (2), type, (1), case. (1)
+> **Frameworks & Libraries:** product (18), data (6), [[Microsoft Products|Products]] (4), [[Fetch]] (2), next (2)
 > **Code Identifiers:** getparticipant (1), newowner (1), getprovenance (1), getownership (1), authenticatingparticipants (1)
 > **Definitions:** is a  (3), in other words (1), basically means (1), means that (1)
 > **Analogies:** such as (2), kind of like (2)
@@ -678,7 +678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2)
+> **Frameworks & Libraries:** data (7), [[Smart Contracts]] (3), [[Solidity]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
 
@@ -817,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (4), else. (1), this, (1), delete (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Ethereum]] (4), cd (2), [[GitHub]] (2), data (2)
 > **Env Vars:** erc20 (6), eip20 (2), erc (1)
 > **Tools:** visual studio (3), github (2), powershell (1)
 > **CLI Commands:** cd (2), mkdir (1), find (1), make (1)
@@ -973,7 +973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (11), function (3), require (3), case, (2), let (1)
+> **Frameworks & Libraries:** [[Tokens]] (7), data (3), [[Solidity]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (6), is an  (3), in other words (2), means that (1)
 > **Env Vars:** erc (8)
 > **CLI Commands:** make (2)
@@ -1081,7 +1081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), else. (1), else, (1), struct (1)
+> **Frameworks & Libraries:** product (19), [[Microsoft Products|Products]] (6), [[Solidity]] (3), next (2), data (2)
 > **Definitions:** is a  (4), we call this (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 4.21 (1), 6.0 (1)
@@ -1175,7 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1), type. (1), type, (1)
+> **Frameworks & Libraries:** product (9), data (4), [[Microsoft Products|Products]] (4), [[Ethereum]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** just like (1)
 > **Speakers:** - all (1)
@@ -1279,7 +1279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), require (5), case, (2), continue (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Smart Contracts]] (1), data (1), functional (1), next (1)
 > **Definitions:** in other words (4)
 > **Analogies:** kind of like (2), think of it as (1)
 > **Warnings:** keep in mind (1), note that (1)
@@ -1375,7 +1375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), type. (1), public (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Blockchain]] (2), data (1), next (1), [[Ethereum]] (1)
 > **Definitions:** is an  (2), in other words (2), is a  (1)
 > **Env Vars:** erc (2)
 > **CLI Commands:** make (1)
@@ -1597,7 +1597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (7), require (4), pass (3), for, (1)
+> **Frameworks & Libraries:** data (13), product (10), [[Solidity]] (6), [[Blockchain]] (3), next (3)
 > **Code Identifiers:** participant_id (5), participanttype (4), addparticipant (3), userid (3), username (2)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** find (1), make (1)
@@ -1769,7 +1769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (4), continue (2), type, (2), case, (2)
+> **Frameworks & Libraries:** product (10), [[Blockchain]] (6), data (3), [[Microsoft Products|Products]] (2), application (2)
 > **Code Identifiers:** productowner (3), newowner (3), ownership_id (2), participanttype (2), productid (2)
 > **Definitions:** is a  (9), basically means (1)
 > **CLI Commands:** make (5)
@@ -1959,7 +1959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (2), function (2), let (2), for. (1), pass (1)
+> **Frameworks & Libraries:** [[Programming]] (3), [[Microsoft Word]] (3), [[Solidity]] (2), [[Smart Contracts]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** evm (5)
 > **CLI Commands:** node (1), go run (1)
 > **UI Navigation:** go to (1)
@@ -2063,7 +2063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), function (3), pass (2), from, (1)
+> **Frameworks & Libraries:** [[Solidity]] (4), [[Tokens]] (4), product (3), data (2)
 > **Env Vars:** erc (4)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (2)
@@ -2235,7 +2235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (8), this. (3), this, (2), pass (2)
+> **Frameworks & Libraries:** product (10), [[Solidity]] (4), [[Tokens]] (4), [[Blockchain]] (3), data (3)
 > **Definitions:** is a  (6), basically means (1), is an  (1), is called (1), in other words (1)
 > **Code Identifiers:** onlyowner (3), newowner (2), erc20token (1)
 > **CLI Commands:** make (2)
@@ -2443,7 +2443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), let (4), public (3), while, (1), type. (1)
+> **Frameworks & Libraries:** data (19), [[Security]] (12), [[Blockchain]] (5), application (3), [[Smart Contracts]] (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), means that (2), in other words (1)
 > **Warnings:** be aware (3)
@@ -2609,7 +2609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Smart Contracts]] (5), [[Solidity]] (3), product (2), [[Blockchain]] (1), functional (1)
 > **CLI Commands:** make (4)
 > **Warnings:** warning (3), keep in mind (1)
 > **UI Navigation:** click on (3)

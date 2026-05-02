@@ -6,7 +6,7 @@ linkedin_topic: Mobile Development
 tags:
   - moc
   - topic/mobile-development
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Topics/Mobile%20Development.md)

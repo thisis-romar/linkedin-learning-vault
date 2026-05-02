@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/environmental-social-and-governance-esg
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Environmental%2C%20Social%2C%20and%20Governance%20(ESG).md)

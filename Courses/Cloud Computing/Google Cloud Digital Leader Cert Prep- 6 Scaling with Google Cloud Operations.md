@@ -30,7 +30,7 @@ tags:
   - skill/scalability
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep-%206%20Scaling%20with%20Google%20Cloud%20Operations.md)
@@ -49,28 +49,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course introduction
+  - [Course introduction](#course-introduction)
 - [**1. Financial Governance and Managing Cloud Costs**](#1-financial-governance-and-managing-cloud-costs) (5 videos)
-  - Introduction
-  - Fundamentals of cloud financial governance
-  - Cloud financial governance best practices
-  - Using the resource hierarchy to control access
-  - Controlling cloud consumption
+  - [Introduction](#introduction)
+  - [Fundamentals of cloud financial governance](#fundamentals-of-cloud-financial-governance)
+  - [Cloud financial governance best practices](#cloud-financial-governance-best-practices)
+  - [Using the resource hierarchy to control access](#using-the-resource-hierarchy-to-control-access)
+  - [Controlling cloud consumption](#controlling-cloud-consumption)
 - [**2. Operational Excellence and Reliability at Scale**](#2-operational-excellence-and-reliability-at-scale) (6 videos)
-  - Introduction
-  - Fundamentals of cloud reliability
-  - Designing resilient infrastructure and processes
-  - Modernizing operations by using Google Cloud
-  - Google Cloud Customer Care
-  - The life of a support case
+  - [Introduction](#introduction)
+  - [Fundamentals of cloud reliability](#fundamentals-of-cloud-reliability)
+  - [Designing resilient infrastructure and processes](#designing-resilient-infrastructure-and-processes)
+  - [Modernizing operations by using Google Cloud](#modernizing-operations-by-using-google-cloud)
+  - [Google Cloud Customer Care](#google-cloud-customer-care)
+  - [The life of a support case](#the-life-of-a-support-case)
 - [**3. Sustainability with Google Cloud**](#3-sustainability-with-google-cloud) (1 videos)
-  - Sustainability with Google Cloud
+  - [Sustainability with Google Cloud](#sustainability-with-google-cloud)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course summary
+  - [Course summary](#course-summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980)
@@ -101,14 +101,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** cloud (9), [[Google Cloud Platform (GCP)|Google cloud]] (3), power (1), [[Scalability]] (1), [[Security]] (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Financial Governance and Managing Cloud Costs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980)
@@ -133,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), business (2), [[Agile Development|Agile]] (1), [[Real-Time]] (1), parallel (1)
 > **Speakers:** - [instructor] (1)
 
 #### Fundamentals of cloud financial governance
@@ -192,8 +193,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), business (7), teams (4), [[Accountability]] (2), [[Real-Time]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), finally, (1)
 > **Cross-References:** later in (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
@@ -276,9 +277,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), [[Google Cloud Platform (GCP)|Google cloud]] (7), [[Cost Management]] (4), teams (3), [[Accountability]] (2)
 > **Best Practices:** best practice (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), pass (1)
 > **Definitions:** is an  (1), is a  (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Analogies:** for example (1)
@@ -352,7 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (1), finally, (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (7), cloud (5), node (3), [[Security]] (2), [[Virtual Machines]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** node (3)
 > **Analogies:** such as (1), for example (1)
@@ -401,14 +402,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** cloud (12), [[Google Cloud Platform (GCP)|Google cloud]] (4), data (3)
 > **Warnings:** warning (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Operational Excellence and Reliability at Scale
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980)
@@ -437,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** cloud (4), [[Operational Excellence]] (3), [[E-Commerce]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), power (1)
 > **Definitions:** refers to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
@@ -521,8 +522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Engineering]] (3), application (3), traffic (3), [[User Experience (UX)|User experience]] (2)
 > **Env Vars:** sre (2), slo (1)
-> **Code Keywords:** yield (1)
 > **Versions:** 99.9 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -581,7 +582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), function (1)
+> **Frameworks & Libraries:** data (7), cloud (4), [[Hardware]] (4), functional (1), application (1)
 > **Definitions:** refers to (3)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -639,7 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), interface (1)
+> **Frameworks & Libraries:** cloud (9), application (4), [[Google]] (2), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **Env Vars:** cpu (2), api (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
@@ -690,6 +691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[Google Cloud Platform (GCP)|Google cloud]] (7), management (2), business (1), api (1)
 > **Env Vars:** api (1), crm (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Analogies:** such as (1)
@@ -776,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), case, (2), this. (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (8), teams (2), [[Engineering]] (2), business (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -785,7 +787,7 @@ created: 2026-04-29
 
 ### 3. Sustainability with Google Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability with Google Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980)
@@ -850,8 +852,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (10), data (10), [[Google Cloud Platform (GCP)|Google cloud]] (5), cloud (2), [[Sustainability]] (2)
 > **Analogies:** such as (3), just like (1)
-> **Code Keywords:** let (1), continue (1)
 > **Env Vars:** iso (1), ovo (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -862,7 +864,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980)
@@ -891,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** cloud (10), [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Sustainability]] (2), [[Google]] (2), [[Cost Management]] (1)
 > **URLs:** [google.com](https://google.com) (2)
 > **Speakers:** - [instructor] (1)
 

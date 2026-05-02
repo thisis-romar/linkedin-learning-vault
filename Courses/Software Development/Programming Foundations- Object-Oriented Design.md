@@ -24,7 +24,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Object-Oriented%20Design.md)
@@ -43,68 +43,68 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn object-oriented design principles
-  - What you should know
+  - [Learn object-oriented design principles](#learn-object-oriented-design-principles)
+  - [What you should know](#what-you-should-know)
 - [**1. Object-Oriented Fundamentals**](#1-object-oriented-fundamentals) (9 videos)
-  - Object-oriented thinking
-  - Objects
-  - Classes
-  - Abstraction
-  - Encapsulation
-  - Inheritance
-  - Polymorphism
-  - Analysis, design, and programming
-  - Unified modeling language (UML)
+  - [Object-oriented thinking](#object-oriented-thinking)
+  - [Objects](#objects)
+  - [Classes](#classes)
+  - [Abstraction](#abstraction)
+  - [Encapsulation](#encapsulation)
+  - [Inheritance](#inheritance)
+  - [Polymorphism](#polymorphism)
+  - [Analysis, design, and programming](#analysis-design-and-programming)
+  - [Unified modeling language (UML)](#unified-modeling-language-uml)
 - [**2. Requirements**](#2-requirements) (4 videos)
-  - Defining requirements
-  - FURPS+ requirements
-  - Challenge: Jukebox requirements
-  - Solution: Jukebox requirements
+  - [Defining requirements](#defining-requirements)
+  - [FURPS+ requirements](#furps-requirements)
+  - [Challenge: Jukebox requirements](#challenge-jukebox-requirements)
+  - [Solution: Jukebox requirements](#solution-jukebox-requirements)
 - [**3. Use Cases and User Stories**](#3-use-cases-and-user-stories) (7 videos)
-  - Use cases
-  - Identifying the actors
-  - Identifying the scenarios
-  - Diagramming use cases
-  - User stories
-  - Challenge: Jukebox use cases
-  - Solution: Jukebox use cases
+  - [Use cases](#use-cases)
+  - [Identifying the actors](#identifying-the-actors)
+  - [Identifying the scenarios](#identifying-the-scenarios)
+  - [Diagramming use cases](#diagramming-use-cases)
+  - [User stories](#user-stories)
+  - [Challenge: Jukebox use cases](#challenge-jukebox-use-cases)
+  - [Solution: Jukebox use cases](#solution-jukebox-use-cases)
 - [**4. Domain Modeling**](#4-domain-modeling) (6 videos)
-  - Identifying the objects
-  - Identifying class relationships
-  - Identifying class responsibilities
-  - CRC cards
-  - Challenge: Jukebox conceptual model
-  - Solution: Jukebox conceptual model
+  - [Identifying the objects](#identifying-the-objects)
+  - [Identifying class relationships](#identifying-class-relationships)
+  - [Identifying class responsibilities](#identifying-class-responsibilities)
+  - [CRC cards](#crc-cards)
+  - [Challenge: Jukebox conceptual model](#challenge-jukebox-conceptual-model)
+  - [Solution: Jukebox conceptual model](#solution-jukebox-conceptual-model)
 - [**5. Class Diagrams**](#5-class-diagrams) (8 videos)
-  - Creating class diagrams: Attributes
-  - Creating class diagrams: Behaviors
-  - Converting class diagrams into code
-  - Instantiating classes
-  - Class with multiple constructors
-  - Static attributes and methods
-  - Challenge: Jukebox class diagrams
-  - Solution: Jukebox class diagrams
+  - [Creating class diagrams: Attributes](#creating-class-diagrams-attributes)
+  - [Creating class diagrams: Behaviors](#creating-class-diagrams-behaviors)
+  - [Converting class diagrams into code](#converting-class-diagrams-into-code)
+  - [Instantiating classes](#instantiating-classes)
+  - [Class with multiple constructors](#class-with-multiple-constructors)
+  - [Static attributes and methods](#static-attributes-and-methods)
+  - [Challenge: Jukebox class diagrams](#challenge-jukebox-class-diagrams)
+  - [Solution: Jukebox class diagrams](#solution-jukebox-class-diagrams)
 - [**6. Inheritance and Composition**](#6-inheritance-and-composition) (8 videos)
-  - Identifying inheritance situations
-  - Using inheritance
-  - Abstract and concrete classes
-  - Interfaces
-  - Aggregation
-  - Composition
-  - Challenge: Jukebox class relationships
-  - Solution: Jukebox class relationships
+  - [Identifying inheritance situations](#identifying-inheritance-situations)
+  - [Using inheritance](#using-inheritance)
+  - [Abstract and concrete classes](#abstract-and-concrete-classes)
+  - [Interfaces](#interfaces)
+  - [Aggregation](#aggregation)
+  - [Composition](#composition)
+  - [Challenge: Jukebox class relationships](#challenge-jukebox-class-relationships)
+  - [Solution: Jukebox class relationships](#solution-jukebox-class-relationships)
 - [**7. Software Development**](#7-software-development) (4 videos)
-  - OOP support in different languages
-  - General development principles
-  - Software testing
-  - Design patterns
+  - [OOP support in different languages](#oop-support-in-different-languages)
+  - [General development principles](#general-development-principles)
+  - [Software testing](#software-testing)
+  - [Design patterns](#design-patterns)
 - [**Glossaries**](#glossaries) (0 videos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn object-oriented design principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980)
@@ -145,8 +145,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Programming]] (2), [[Software Development]] (1), teams (1), [[Web Development]] (1)
 > **Speakers:** - and (2), - as (1), - it (1), - [barron] (1), - now (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** uml (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
@@ -187,15 +187,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), application (1)
 > **Speakers:** - although (1), - if (1), - or (1), - this (1), - we (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** ide (1)
 
 
 ### 1. Object-Oriented Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980)
@@ -282,9 +282,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (8), data (1), [[Functional Programming]] (1), web (1), [[Game Development]] (1)
 > **Speakers:** - many (1), - right (1), - now (1), - one (1), - and (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** self (1), require (1)
 > **Analogies:** similar to (1)
 > **Warnings:** keep in mind (1)
 
@@ -423,9 +423,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Programming]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), management (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - but (3), - sure (2), - what (2), - well (2), - the (1)
 > **Analogies:** similar to (1), for example (1), think of it as (1)
-> **Code Keywords:** self (1), extends (1)
 
 #### Classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980)
@@ -538,7 +538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), let (2), class, (2), type, (1), type. (1)
+> **Frameworks & Libraries:** data (3), [[Java]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **Speakers:** - objects (1), - classes (1), - remember (1), - what (1), - well (1)
 > **CLI Commands:** make (2), ruby (1), python (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -616,7 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), let (1), abstract (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), application (2)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - there (1)
@@ -716,8 +716,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - well (5), - it (3), - do (2), - the (1), - ow (1)
-> **Code Keywords:** class. (1), let (1), class, (1), require (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** general rule (1)
@@ -791,7 +791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (6), class. (3), super (3), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (1), python (1), ruby (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -881,9 +881,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (3), [[Microsoft Word|Word]] (1), feature (1), [[Programming]] (1)
 > **CLI Commands:** brew (15)
 > **Speakers:** - or (3), - now (2), - our (1), - i (1), - and (1)
-> **Code Keywords:** interface (3), abstract (3), while, (1), static (1)
 > **Definitions:** is a  (3), is called (1)
 
 #### Analysis, design, and programming
@@ -945,8 +945,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Microsoft Word|Word]] (2), [[Programming]] (2)
 > **Speakers:** - when (1), - conceptual (1), - what (1), - sure (1), - sketches (1)
-> **Code Keywords:** finally, (2)
 > **Definitions:** is a  (1)
 
 #### Unified modeling language (UML)
@@ -1002,8 +1002,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Diagramming]] (2), [[Programming]] (2)
 > **Env Vars:** uml (14)
-> **Code Keywords:** class. (1), class, (1), for. (1)
 > **CLI Commands:** make (2)
 > **Versions:** 99.9 (1)
 > **Analogies:** for example (1)
@@ -1013,7 +1013,7 @@ created: 2026-04-29
 
 ### 2. Requirements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980)
@@ -1130,8 +1130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), functional (7), product (2), [[Banking]] (1), data (1)
 > **Speakers:** - well (2), - the (1), - if (1), - so (1), - we (1)
-> **Code Keywords:** let (2), pass (2), function (1), abstract (1), super (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -1202,9 +1202,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), database (1), [[Hardware]] (1), prompt (1), [[Requirements Analysis]] (1)
 > **Env Vars:** furps (5)
 > **Definitions:** is an  (2), stands for (1), refers to (1), is a  (1)
-> **Code Keywords:** interface (2), finally, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we covered (1)
 > **Documentation:** the documentation (1)
@@ -1246,8 +1246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (2)
 > **Speakers:** - now (2), - all (1), - but (1), - i (1), - [female (1)
-> **Code Keywords:** let (2), new, (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** furps (1)
 
@@ -1334,15 +1334,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), functional (2)
 > **Speakers:** - and (2), - to (1), - let (1), - that (1), - there (1)
-> **Code Keywords:** let (2), case, (1), require (1), finally, (1)
 > **Env Vars:** firbs (2)
 > **Definitions:** stands for (1)
 
 
 ### 3. Use Cases and User Stories
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/use-cases?u=76281980)
@@ -1441,8 +1441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), feature (1), generic (1), [[Microsoft Word|Word]] (1), next (1)
 > **Speakers:** - well (2), - that (2), - after (1), - a (1), - what (1)
-> **Code Keywords:** case. (3), finally, (1), for. (1), super (1), for, (1)
 > **Warnings:** watch out (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
@@ -1521,8 +1521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), game (1), prompt (1)
 > **Speakers:** - before (1), - sometimes (1), - however (1), - [man] (1), - now (1)
-> **Code Keywords:** interface (3), case. (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1642,8 +1642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), prompt (2), [[JSON]] (1), [[System Administration]] (1), [[Security]] (1)
 > **Speakers:** - well (3), - bingo (2), - like (2), - when (1), - so (1)
-> **Code Keywords:** interface (2), case. (1), case, (1), function (1)
 > **Env Vars:** https (1), json (1)
 > **Definitions:** is a  (1)
 
@@ -1726,7 +1726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), finally, (2), case, (1), let (1), self (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), application (1), next (1), [[Microsoft Word|Word]] (1), business (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - the (1), - we (1), - agreed (1)
 > **Env Vars:** uml (1)
@@ -1811,8 +1811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Software Development]] (1), functional (1), next (1), [[Agile Software Development]] (1)
 > **Speakers:** - user (1), - here (1), - great (1), - how (1), - perfect (1)
-> **Code Keywords:** interface (2), case. (1), case, (1), this. (1), let (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** you need to have (1)
@@ -1906,8 +1906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - to (1), - play (1), - the (1), - for (1), - [olivia] (1)
-> **Code Keywords:** case, (1), let (1), include. (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** abba (1)
 > **Cross-References:** coming up (1)
@@ -1915,7 +1915,7 @@ created: 2026-04-29
 
 ### 4. Domain Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-objects?u=76281980)
@@ -2014,8 +2014,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), game (3), application (2), next (1), data (1)
 > **Speakers:** - that (3), - [olivia] (3), - after (1), - good (1), - well (1)
-> **Code Keywords:** let (2), this. (1), class, (1), if, (1), pass (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** refers to (1)
 > **Warnings:** be aware (1)
@@ -2077,8 +2077,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), game (1), prompt (1)
 > **Speakers:** - once (1), - fine (1), - many (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** uml (1)
 > **Analogies:** for example (1)
 
@@ -2165,8 +2165,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), game (2), [[Programming]] (2), application (2), prompt (1)
 > **Speakers:** - we (1), - looking (1), - something (1), - so (1), - figuring (1)
-> **Code Keywords:** else. (1), let (1), pass (1), case, (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
@@ -2236,7 +2236,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (5), for: (2), this, (2)
 > **Env Vars:** crc (7), crh (1)
 > **Speakers:** - [man] (2), - [woman] (2)
 > **CLI Commands:** make (1), find (1)
@@ -2293,7 +2292,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Env Vars:** crc (2)
 > **Definitions:** is an  (2)
 > **Speakers:** - it (2)
@@ -2410,16 +2408,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Word|Word]] (2), next (2)
 > **Speakers:** - the (2), - i (2), - [woman] (2), - while (1), - great (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** crc (1)
 
 
 ### 5. Class Diagrams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating class diagrams: Attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-attributes?u=76281980)
@@ -2470,8 +2468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Programming]] (1)
 > **Code Identifiers:** callsign (1), shieldactive (1), shieldstrength (1)
-> **Code Keywords:** type. (1), type, (1)
 > **Env Vars:** uml (1)
 > **Speakers:** - all (1)
 
@@ -2538,7 +2536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (4), class, (1)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** getshieldstrength (2), reduceshield (2), shieldstrength (1), setposition (1)
 > **Speakers:** - when (1), - now (1), - you (1), - we (1), - so (1)
 > **Env Vars:** crc (2), uml (1)
@@ -2622,7 +2620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (5), class. (2), var (1), finally, (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Python (Programming Language)|Python]] (5), [[Programming]] (1), [[Swift (Programming Language)|Swift]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (5), ruby (3), make (1)
 > **Speakers:** - if (2), - olivia (1), - yes (1), - finally (1)
 > **Definitions:** is a  (2)
@@ -2693,8 +2691,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), game (1), [[Python (Programming Language)|Python]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** myship (4), callsign (2), shieldstrength (2)
-> **Code Keywords:** new. (2), class, (1), let (1), class. (1)
 > **CLI Commands:** ruby (1), python (1), make (1)
 > **Env Vars:** uml (1)
 > **Analogies:** similar to (1)
@@ -2749,7 +2747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), let (1), new, (1), pass (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Java]] (1), database (1)
 > **Speakers:** - we (1), - well (1), - now (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -2842,7 +2840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (21), class, (2), require (1), class. (1)
+> **Frameworks & Libraries:** game (3), [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - well (2), - when (1), - what (1), - sounds (1), - but (1)
 > **Definitions:** is a  (3), defined as (1)
 > **CLI Commands:** python (1), ruby (1)
@@ -2880,7 +2878,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** uml (2), crc (1)
-> **Code Keywords:** continue (1), this. (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
@@ -2980,7 +2977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (2), class. (2), public (2), class, (2)
+> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2), cd (1), database (1), [[Programming]] (1)
 > **Speakers:** - now (2), - let (1), - the (1), - we (1), - whether (1)
 > **Code Identifiers:** addsong (2), gettitles (1), getsong (1), getnextsong (1), removesong (1)
 > **Definitions:** is a  (6)
@@ -2991,7 +2988,7 @@ created: 2026-04-29
 
 ### 6. Inheritance and Composition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying inheritance situations
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980)
@@ -3100,9 +3097,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), power (1), hit (1), [[Sketching]] (1), next (1)
 > **CLI Commands:** cargo (19), make (2), find (2)
 > **Definitions:** is a  (14)
-> **Code Keywords:** class. (2), super (2), from. (2), class, (1), else, (1)
 > **Speakers:** - inheritance (1), - hey (1), - and (1), - ha (1), - i (1)
 > **Env Vars:** uml (1)
 > **Analogies:** kind of like (1)
@@ -3163,7 +3160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (7), class, (3), require (2), from. (1), extends (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (3), [[Java]] (2), [[Swift (Programming Language)|Swift]] (2)
 > **CLI Commands:** python (3), ruby (2), find (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** setshield (2)
@@ -3207,7 +3204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (22), class. (4), let (3), implements (2), case, (1)
+> **Frameworks & Libraries:** [[Java]] (3), game (1), generic (1)
 > **Speakers:** - and (2), - we (1)
 > **CLI Commands:** cargo (1)
 > **Definitions:** defined as (1)
@@ -3307,7 +3304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (20), abstract (5), class. (3), implements (3), from. (2)
+> **Frameworks & Libraries:** [[Programming]] (2), game (2), [[Java]] (1), [[Microsoft Word|Word]] (1), next (1)
 > **Speakers:** - interfaces (2), - that (2), - you (1), - [man] (1), - [woman] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), it's like (1), similar to (1)
@@ -3370,7 +3367,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - inheritance (1), - like (1), - [male (1), - only (1), - well (1)
-> **Code Keywords:** continue (2), abstract (1), class, (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Env Vars:** uml (1)
 
@@ -3415,8 +3411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1)
 > **Speakers:** - a (1), - it (1), - right (1), - or (1), - the (1)
-> **Code Keywords:** class, (1)
 > **Env Vars:** uml (1)
 > **Analogies:** it's like (1)
 
@@ -3544,7 +3540,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - [olivia] (5), - [man] (4), - but (2), - to (1), - like (1)
-> **Code Keywords:** class. (2), case. (1), case, (1), super (1), from. (1)
 > **Definitions:** is a  (5), is an  (2)
 > **Code Identifiers:** getid (2), gettitles (1)
 > **CLI Commands:** make (2)
@@ -3552,7 +3547,7 @@ created: 2026-04-29
 
 ### 7. Software Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OOP support in different languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980)
@@ -3617,7 +3612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), super (2), abstract (2), class. (1), finally, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Python (Programming Language)|Python]] (4), feature (1), [[Scripting]] (1), [[Java]] (1)
 > **CLI Commands:** python (4), ruby (2), make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -3674,9 +3669,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Forms]] (1), database (1), [[Debugging]] (1)
 > **Env Vars:** solid (2), dry (2), yagni (1), ide (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** new, (1), static (1), pass (1)
 > **Speakers:** - there (1), - i (1), - however (1)
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
@@ -3773,6 +3768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (4), [[Representational State Transfer (REST)|Rest]] (2), application (2), power (1), feature (1)
 > **Speakers:** - well (2), - it (2), - [olivia] (2), - done (1), - did (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** imagine (2)
@@ -3868,9 +3864,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (7), game (5), feature (3), next (2), [[Software Design]] (1)
 > **Speakers:** - creating (1), - hello (1), - well (1), - thanks (1), - but (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** asap (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -3879,12 +3875,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/next-steps?u=76281980)
@@ -3909,8 +3905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Programming]] (1)
 > **Speakers:** - we (1), - there (1), - finally (1), - happy (1)
-> **Code Keywords:** continue (1), finally, (1)
 > **CLI Commands:** find (1)
 
 

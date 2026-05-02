@@ -30,7 +30,7 @@ tags:
   - skill/dns-management
   - skill/windows-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20DHCP%20and%20DNS.md)
@@ -49,65 +49,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - DHCP and DNS in WIndows Server 2019
-  - Course organization
+  - [DHCP and DNS in WIndows Server 2019](#dhcp-and-dns-in-windows-server-2019)
+  - [Course organization](#course-organization)
 - [**1. Dynamic Host Configuration Protocol (DHCP) Overview**](#1-dynamic-host-configuration-protocol-dhcp-overview) (3 videos)
-  - What is DHCP?
-  - Lease generation
-  - Lease renewal
+  - [What is DHCP?](#what-is-dhcp)
+  - [Lease generation](#lease-generation)
+  - [Lease renewal](#lease-renewal)
 - [**2. Setting Up DHCP**](#2-setting-up-dhcp) (7 videos)
-  - Install the DHCP server role
-  - Authorize a DHCP server
-  - Create DHCP scopes
-  - Configure DHCP options
-  - Activate a scope
-  - Configure DHCP clients
-  - Configure DHCP reservations
+  - [Install the DHCP server role](#install-the-dhcp-server-role)
+  - [Authorize a DHCP server](#authorize-a-dhcp-server)
+  - [Create DHCP scopes](#create-dhcp-scopes)
+  - [Configure DHCP options](#configure-dhcp-options)
+  - [Activate a scope](#activate-a-scope)
+  - [Configure DHCP clients](#configure-dhcp-clients)
+  - [Configure DHCP reservations](#configure-dhcp-reservations)
 - [**3. Managing DHCP**](#3-managing-dhcp) (5 videos)
-  - Components of a DHCP database
-  - Reconcile DHCP scopes
-  - Database statistics
-  - Secure DHCP
-  - Troubleshoot DHCP
+  - [Components of a DHCP database](#components-of-a-dhcp-database)
+  - [Reconcile DHCP scopes](#reconcile-dhcp-scopes)
+  - [Database statistics](#database-statistics)
+  - [Secure DHCP](#secure-dhcp)
+  - [Troubleshoot DHCP](#troubleshoot-dhcp)
 - [**4. DHCP Advanced Features**](#4-dhcp-advanced-features) (5 videos)
-  - Configure DHCP failover
-  - Manage DHCP failover
-  - DHCP in a routed environment
-  - Configure a DHCP relay agent
-  - Test relay agent
+  - [Configure DHCP failover](#configure-dhcp-failover)
+  - [Manage DHCP failover](#manage-dhcp-failover)
+  - [DHCP in a routed environment](#dhcp-in-a-routed-environment)
+  - [Configure a DHCP relay agent](#configure-a-dhcp-relay-agent)
+  - [Test relay agent](#test-relay-agent)
 - [**5. Deploying DNS (Domain Name System)**](#5-deploying-dns-domain-name-system) (3 videos)
-  - Install DNS with Active Directory
-  - Install the DNS role independently
-  - DNS client configuration
+  - [Install DNS with Active Directory](#install-dns-with-active-directory)
+  - [Install the DNS role independently](#install-the-dns-role-independently)
+  - [DNS client configuration](#dns-client-configuration)
 - [**6. DNS Zones**](#6-dns-zones) (6 videos)
-  - Create primary forward lookup zones
-  - Configure zone transfers
-  - Create secondary forward lookup zones
-  - Create stub zones
-  - Active Directory–integrated zones
-  - Create reverse lookup zones
+  - [Create primary forward lookup zones](#create-primary-forward-lookup-zones)
+  - [Configure zone transfers](#configure-zone-transfers)
+  - [Create secondary forward lookup zones](#create-secondary-forward-lookup-zones)
+  - [Create stub zones](#create-stub-zones)
+  - [Active Directory–integrated zones](#active-directoryintegrated-zones)
+  - [Create reverse lookup zones](#create-reverse-lookup-zones)
 - [**7. DNS Resource Record Types**](#7-dns-resource-record-types) (4 videos)
-  - Host and pointer (PTR) records
-  - Alias (CNAME) record
-  - Mail exchanger (MX) record
-  - Additional resource record types
+  - [Host and pointer (PTR) records](#host-and-pointer-ptr-records)
+  - [Alias (CNAME) record](#alias-cname-record)
+  - [Mail exchanger (MX) record](#mail-exchanger-mx-record)
+  - [Additional resource record types](#additional-resource-record-types)
 - [**8. Name Resoution**](#8-name-resoution) (6 videos)
-  - DNS queries
-  - Testing queries
-  - DNS cache
-  - Forwarding
-  - Conditional forwarding
-  - Caching only DNS servers
+  - [DNS queries](#dns-queries)
+  - [Testing queries](#testing-queries)
+  - [DNS cache](#dns-cache)
+  - [Forwarding](#forwarding)
+  - [Conditional forwarding](#conditional-forwarding)
+  - [Caching only DNS servers](#caching-only-dns-servers)
 - [**9. DNS Security**](#9-dns-security) (3 videos)
-  - DNS cache locking
-  - DNS socket pool
-  - DNS security extensions
+  - [DNS cache locking](#dns-cache-locking)
+  - [DNS socket pool](#dns-socket-pool)
+  - [DNS security extensions](#dns-security-extensions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DHCP and DNS in WIndows Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dhcp-and-dns-in-windows-server-2019?u=76281980)
@@ -132,9 +132,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (4), [[Windows Server]] (2), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Env Vars:** dhcp (5), dns (4)
 > **Prerequisites:** install (1), configure (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [ed (1)
 
 #### Course organization
@@ -174,6 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Virtual Machines]] (1)
 > **Env Vars:** dc1 (3), dc3 (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -182,7 +183,7 @@ created: 2026-04-29
 
 ### 1. Dynamic Host Configuration Protocol (DHCP) Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DHCP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/what-is-dhcp?u=76281980)
@@ -217,6 +218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (1), [[Microsoft]] (1)
 > **Env Vars:** dhcp (8)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
@@ -294,9 +296,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Env Vars:** dhcp (18), dora (3), ack (1)
 > **Definitions:** is a  (2), stands for (2), known as (1), is called (1)
-> **Code Keywords:** let (2), from. (1), for. (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -374,7 +376,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** dhcp (15), dora (2)
-> **Code Keywords:** for, (1), case, (1), let (1), try, (1)
 > **Versions:** 87.5 (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
@@ -382,7 +383,7 @@ created: 2026-04-29
 
 ### 2. Setting Up DHCP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install the DHCP server role
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/install-the-dhcp-server-role?u=76281980)
@@ -459,9 +460,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), [[Security]] (4), [[Active Directory]] (4)
 > **Env Vars:** dhcp (15)
 > **Prerequisites:** install (5), before you begin (1)
-> **Code Keywords:** this, (1), else, (1)
 > **UI Navigation:** click on (2)
 > **Warnings:** warning (2)
 > **CLI Commands:** make (1)
@@ -515,6 +516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Active Directory]] (1), [[Microsoft]] (1)
 > **Env Vars:** dhcp (13)
 > **UI Navigation:** click on (7), toggle (2)
 > **Definitions:** is a  (2)
@@ -522,7 +524,6 @@ created: 2026-04-29
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 > **Warnings:** warning (1)
-> **Speakers:** - [instructor] (1)
 
 #### Create DHCP scopes
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/create-dhcp-scopes?u=76281980)
@@ -607,7 +608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this, (1), default, (1), static (1)
+> **Frameworks & Libraries:** next (8), management (1), traffic (1), dns (1)
 > **UI Navigation:** click on (5), right-click (1), select the (1), go to (1)
 > **Env Vars:** dhcp (5), dns (1)
 > **Versions:** 10.35.4 (4), 255.0.0 (1), 255.255.255 (1)
@@ -687,13 +688,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), next (1)
 > **Env Vars:** dns (8), dhcp (4)
 > **UI Navigation:** click on (2), scroll down (2), right-click (1)
 > **Versions:** 10.35.4 (3)
 > **Prerequisites:** configure (2), set up (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Activate a scope
@@ -763,10 +764,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), dns (1)
 > **UI Navigation:** click on (7), toggle (1)
 > **Versions:** version 4 (3), 10.35.4 (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** dhcp (1), dns (1)
 > **Cross-References:** go back to (1), earlier in (1)
 > **Definitions:** is an  (1)
@@ -867,9 +868,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (2), [[IP Addressing]] (2), prompt (2), hit (2), [[Windows 10]] (1)
 > **Env Vars:** dhcp (13), dns (2), dc1 (2), apipa (1), cmd (1)
 > **UI Navigation:** click on (11), go to (2), right-click (1), checkbox (1)
-> **Code Keywords:** static (3), let (3), private (2), match, (1)
 > **Prerequisites:** configure (5), set up (2), install (1)
 > **Versions:** 10.35.4 (3), 169.254 (1), 255.192 (1)
 > **CLI Commands:** make (1), find (1)
@@ -979,8 +980,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), next (1), hit (1)
 > **Env Vars:** dhcp (4), mac (4), dora (1)
-> **Code Keywords:** let (4), static (2), this, (1), else, (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (3), right-click (1)
 > **Versions:** 10.35.4 (3)
@@ -991,7 +992,7 @@ created: 2026-04-29
 
 ### 3. Managing DHCP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of a DHCP database
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/components-of-a-dhcp-database?u=76281980)
@@ -1086,9 +1087,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (20), data (3), [[Windows]] (1), [[Databases]] (1)
 > **Env Vars:** dhcp (12)
 > **UI Navigation:** click on (4), go to (3), select the (1)
-> **Code Keywords:** let (4), default, (1), else, (1), else. (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -1142,11 +1143,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4)
 > **Env Vars:** dhcp (6), dc1 (2)
 > **UI Navigation:** click on (4), right-click (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### Database statistics
@@ -1226,9 +1227,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (4)
 > **Env Vars:** dhcp (6), dora (2), dc1 (1)
 > **UI Navigation:** click on (2), scroll down (1), scroll up (1), go to (1)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Versions:** version 4 (1)
@@ -1297,11 +1298,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), database (2), next (2), [[Windows]] (1), [[Security]] (1)
 > **Env Vars:** dhcp (19), dns (6), ptr (1)
 > **UI Navigation:** go to (5), right-click (1)
 > **Versions:** version 4 (3), version 6 (1)
 > **Definitions:** is an  (2), is a  (2)
-> **Code Keywords:** let (1), protected (1), this, (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we talked about (2)
 > **Warnings:** troubleshoot (1), keep in mind (1)
@@ -1375,8 +1376,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (2), data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dhcp (17)
-> **Code Keywords:** self (2), let (1), function (1)
 > **Warnings:** troubleshoot (2), be aware (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
@@ -1387,7 +1388,7 @@ created: 2026-04-29
 
 ### 4. DHCP Advanced Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure DHCP failover
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-failover?u=76281980)
@@ -1520,8 +1521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Statistics]] (2), [[Windows Server]] (1), feature (1), [[Security]] (1)
 > **Env Vars:** dhcp (11), dchp (1)
-> **Code Keywords:** let (6), switch (3), default, (1)
 > **UI Navigation:** go to (3), click on (2), switch to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (2), is a  (1)
@@ -1595,9 +1596,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (4), management (1)
 > **Env Vars:** dhcp (7), dc2 (4), dc1 (3), ipv4 (1)
 > **UI Navigation:** click on (4), go to (3)
-> **Code Keywords:** delete (3), let (2)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1)
 > **Warnings:** be aware (1)
@@ -1639,10 +1640,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1)
 > **Env Vars:** dhcp (13), rfc (3)
 > **Documentation:** rfc (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** pass (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1715,9 +1716,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (5), [[Representational State Transfer (REST)|Rest]] (1), prompt (1), next (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dhcp (11), cmd (1)
 > **Prerequisites:** set up (7), configure (1)
-> **Code Keywords:** let (2), private (2), interface (2), this, (1)
 > **UI Navigation:** go to (3), right-click (2), click on (1)
 > **Versions:** 192.168.1 (2), 169.254 (1), 10.35 (1), 10.35.4 (1)
 > **Definitions:** is called (2)
@@ -1787,8 +1788,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), prompt (1), traffic (1), [[Troubleshooting]] (1)
 > **Env Vars:** dhcp (11), apipa (1), dora (1)
-> **Code Keywords:** let (5), this, (1), for, (1), interface (1)
 > **Prerequisites:** set up (5)
 > **Versions:** 192.168.1 (3), 169.254 (1)
 > **UI Navigation:** click on (3)
@@ -1799,7 +1800,7 @@ created: 2026-04-29
 
 ### 5. Deploying DNS (Domain Name System)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install DNS with Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/install-dns-with-active-directory?u=76281980)
@@ -1878,9 +1879,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (12), next (5), [[Active Directory]] (1), [[Representational State Transfer (REST)|Rest]] (1), database (1)
 > **Env Vars:** dns (12), dc3 (2)
 > **Prerequisites:** install (5), set up (1)
-> **Code Keywords:** let (2), this, (1), else. (1), default. (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Warnings:** warning (3)
 > **CLI Commands:** make (1)
@@ -1955,9 +1956,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (12), next (6), [[Security]] (1), [[Active Directory]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dns (12)
 > **Prerequisites:** install (3), before you begin (1), make sure you have (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** click on (3)
 > **Cross-References:** previous video (1), later in (1)
 > **Analogies:** just like (2)
@@ -2013,10 +2014,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (17), [[Microsoft]] (2), [[Windows 10]] (2), [[Microsoft Word|Word]] (1), [[Search]] (1)
 > **Env Vars:** dns (17), dhcp (4), dc1 (2), dc2 (1), dc3 (1)
 > **UI Navigation:** click on (6), go to (2), right-click (1)
 > **Prerequisites:** configure (4), setup (1)
-> **Code Keywords:** let (3), this, (1)
 > **Versions:** 10.35.4 (3), version 4 (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (1), make (1)
@@ -2025,7 +2026,7 @@ created: 2026-04-29
 
 ### 6. DNS Zones
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create primary forward lookup zones
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/create-primary-forward-lookup-zones?u=76281980)
@@ -2084,9 +2085,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (10), next (5), database (3), [[Active Directory]] (1)
 > **Env Vars:** dns (10)
 > **Definitions:** is a  (3)
-> **Code Keywords:** for. (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2172,11 +2173,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (11), data (5), database (2), [[Security]] (1)
 > **Env Vars:** dns (11), dc1 (2)
 > **UI Navigation:** click on (5), go to (3)
 > **Definitions:** is a  (4), in other words (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2284,9 +2285,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), next (5), hit (2), [[Active Directory]] (1)
 > **UI Navigation:** go to (5), click on (4), right-click (1)
 > **Env Vars:** dns (6)
-> **Code Keywords:** let (5)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -2393,8 +2394,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), dns (3), [[Active Directory]] (2), [[Microsoft Word|Word]] (1), database (1)
 > **UI Navigation:** click on (4)
-> **Code Keywords:** this. (2), delete (1)
 > **Env Vars:** dns (3)
 > **Versions:** 10.35.4 (2)
 > **CLI Commands:** make (1)
@@ -2486,9 +2487,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (16), dns (14), hit (1), data (1), database (1)
 > **Env Vars:** dns (14), client (2), member (2)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
-> **Code Keywords:** let (2), default, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (1), make sure to (1)
@@ -2570,10 +2571,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), dns (5), [[Active Directory]] (1)
 > **Env Vars:** dns (5), ipv (1)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -2581,7 +2582,7 @@ created: 2026-04-29
 
 ### 7. DNS Resource Record Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Host and pointer (PTR) records
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/host-and-pointer-ptr-records?u=76281980)
@@ -2692,9 +2693,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), dns (2), data (2), prompt (2), [[Databases]] (1)
 > **Versions:** 10.35.4 (6), 4.35.10 (1)
 > **Definitions:** known as (3), is a  (3)
-> **Code Keywords:** let (3), this, (1), this. (1)
 > **UI Navigation:** click on (4), checkbox (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dns (2)
@@ -2744,8 +2745,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), web (1), dns (1), hit (1)
 > **Env Vars:** cname (3), dns (1)
-> **Code Keywords:** let (3)
 > **Tools:** command prompt (3)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -2834,8 +2835,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (3)
 > **Env Vars:** dns (3), member (1)
-> **Code Keywords:** this, (1), default, (1)
 > **UI Navigation:** right-click (1), go to (1)
 > **Definitions:** stands for (1), in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -2905,8 +2906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (7), next (1), [[Active Directory]] (1)
 > **Env Vars:** dns (7), srv (3), member (2), soa (1)
-> **Code Keywords:** let (3), this, (1), for, (1)
 > **Definitions:** is a  (2), stands for (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
@@ -2917,7 +2918,7 @@ created: 2026-04-29
 
 ### 8. Name Resoution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DNS queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-queries?u=76281980)
@@ -3004,11 +3005,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (23), [[LinkedIn]] (11), power (1)
 > **Env Vars:** dns (23)
 > **URLs:** [linkedin.com](https://linkedin.com) (11), [linked.com](https://linked.com) (1)
 > **UI Navigation:** go to (4), right-click (1), click on (1)
 > **Definitions:** is a  (3), stands for (1)
-> **Code Keywords:** let (2), else. (1)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -3046,8 +3047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (7), [[Troubleshooting]] (2), functional (1)
 > **Env Vars:** dns (7)
-> **Code Keywords:** function (1), this, (1)
 > **UI Navigation:** go to (1), right-click (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -3119,8 +3120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (13), [[LinkedIn]] (5), prompt (2), hit (2), [[Google]] (1)
 > **Env Vars:** dns (13)
-> **Code Keywords:** let (4), this. (1), interface (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (5)
 > **UI Navigation:** go to (2), click on (2)
 > **Tools:** command prompt (2)
@@ -3165,9 +3166,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (15), [[Microsoft Office|Office]] (1)
 > **Env Vars:** dns (15), dc1 (3)
 > **UI Navigation:** go to (2), right-click (1), click on (1)
-> **Code Keywords:** for, (1), let (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -3220,8 +3221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), next (1), traffic (1)
 > **Env Vars:** dns (8)
-> **Code Keywords:** let (1), for. (1), for, (1)
 > **Versions:** 10.35.4 (3)
 > **UI Navigation:** click on (2)
 > **Cross-References:** we talked about (1)
@@ -3312,8 +3313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (12), [[Microsoft Office|Office]] (2), [[Security]] (1)
 > **Env Vars:** dns (12), wan (1)
-> **Code Keywords:** delete (3), this, (2), let (2)
 > **Versions:** 10.35.4 (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -3324,7 +3325,7 @@ created: 2026-04-29
 
 ### 9. DNS Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DNS cache locking
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-cache-locking?u=76281980)
@@ -3363,6 +3364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[Security]] (1), feature (1), [[Representational State Transfer (REST)|Rest]] (1), [[Powershell]] (1)
 > **Env Vars:** dns (8), ttl (1), dnscmd (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
 > **Tools:** command line (1), powershell (1)
@@ -3394,8 +3396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (10), feature (1), [[Windows Server]] (1)
 > **Env Vars:** dns (10)
-> **Code Keywords:** default, (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -3418,6 +3420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), [[Security]] (2), feature (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (6), dnssec (3)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
@@ -3426,7 +3429,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/next-steps?u=76281980)
@@ -3441,6 +3444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (2), dns (1), next (1)
 > **Env Vars:** dhcp (1), dns (1)
 > **Speakers:** - [ed] (1)
 

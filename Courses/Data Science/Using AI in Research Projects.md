@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-for-design
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20AI%20in%20Research%20Projects.md)
@@ -46,24 +46,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Artificial intelligence for research
+  - [Artificial intelligence for research](#artificial-intelligence-for-research)
 - [**1. Doing Research on AI Systems**](#1-doing-research-on-ai-systems) (2 videos)
-  - Doing research on AI when it's not AI research
-  - Doing research on AI systems
+  - [Doing research on AI when it's not AI research](#doing-research-on-ai-when-its-not-ai-research)
+  - [Doing research on AI systems](#doing-research-on-ai-systems)
 - [**2. Using AI to Improve Research**](#2-using-ai-to-improve-research) (7 videos)
-  - Getting corporate buy-in for using AI
-  - General vs research-specific tools
-  - AI for heuristic or expert reviews
-  - AI for usability study preparation
-  - AI for in-depth interviews (IDIs) and focus group preparation
-  - AI for analysis of qualitative data
-  - The ethics of using AI in research
+  - [Getting corporate buy-in for using AI](#getting-corporate-buy-in-for-using-ai)
+  - [General vs research-specific tools](#general-vs-research-specific-tools)
+  - [AI for heuristic or expert reviews](#ai-for-heuristic-or-expert-reviews)
+  - [AI for usability study preparation](#ai-for-usability-study-preparation)
+  - [AI for in-depth interviews (IDIs) and focus group preparation](#ai-for-in-depth-interviews-idis-and-focus-group-preparation)
+  - [AI for analysis of qualitative data](#ai-for-analysis-of-qualitative-data)
+  - [The ethics of using AI in research](#the-ethics-of-using-ai-in-research)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The future of AI and research
+  - [The future of AI and research](#the-future-of-ai-and-research)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Artificial intelligence for research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/artificial-intelligence-for-research?u=76281980)
@@ -82,13 +82,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (2), [[Generative AI]] (1), data (1)
 > **Env Vars:** uxpa (1)
 
 
 ### 1. Doing Research on AI Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Doing research on AI when it's not AI research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-when-it-s-not-ai-research?u=76281980)
@@ -139,7 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), new. (1), this. (1)
+> **Frameworks & Libraries:** ai (24), [[Generative AI]] (1), [[ChatGPT]] (1), web (1), web application (1)
 > **Analogies:** such as (1), for example (1), imagine (1)
 
 #### Doing research on AI systems
@@ -193,14 +193,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), next (1), [[Ethics]] (1), [[Privacy]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 
 
 ### 2. Using AI to Improve Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting corporate buy-in for using AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980)
@@ -239,8 +239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (3), [[ChatGPT]] (1), data (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** private (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -298,9 +298,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Generative AI Tools]] (2), [[ChatGPT]] (2), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Office|Office]] (2)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** switch (1)
 > **Definitions:** is a  (1)
 
 #### AI for heuristic or expert reviews
@@ -346,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), web (1), ai (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (2)
 > **URLs:** [airbnb.com](https://airbnb.com) (2)
@@ -406,8 +406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), ai (2), database (1), [[SharePoint]] (1), [[Search]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -463,8 +463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[ChatGPT]] (3), ux (1), [[Market Research]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** we talked about (1)
 > **Analogies:** for example (1)
 
@@ -515,9 +515,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (6), [[ChatGPT]] (5), generic (1), [[Generative AI]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (2), imagine (1)
-> **Code Keywords:** this. (1), let (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
@@ -556,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), public (1)
+> **Frameworks & Libraries:** ai (6), business (3), [[Ethics]] (1), web (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** just like (1)
@@ -565,7 +565,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of AI and research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/the-future-of-ai-and-research?u=76281980)
@@ -602,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** ai (4), feature (1), [[Microsoft]] (1), [[Google]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)

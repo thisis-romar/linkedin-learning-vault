@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Quick%20Tips%20(2023).md)
@@ -45,59 +45,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Get answers to common Excel questions
+  - [Get answers to common Excel questions](#get-answers-to-common-excel-questions)
 - [**1. Data Entry Tips**](#1-data-entry-tips) (8 videos)
-  - Fill in a series of data
-  - Quickly insert multiple rows and columns
-  - Insert links
-  - Create and manage dropdown lists
-  - Summing rows
-  - Fill in contents with Flash Fill
-  - Quickly insert a total
-  - Extract part of a cell's contents
+  - [Fill in a series of data](#fill-in-a-series-of-data)
+  - [Quickly insert multiple rows and columns](#quickly-insert-multiple-rows-and-columns)
+  - [Insert links](#insert-links)
+  - [Create and manage dropdown lists](#create-and-manage-dropdown-lists)
+  - [Summing rows](#summing-rows)
+  - [Fill in contents with Flash Fill](#fill-in-contents-with-flash-fill)
+  - [Quickly insert a total](#quickly-insert-a-total)
+  - [Extract part of a cell's contents](#extract-part-of-a-cells-contents)
 - [**2. Working with Data**](#2-working-with-data) (7 videos)
-  - Select specific rows or columns
-  - Find named ranges
-  - Change sort order
-  - Filter data
-  - Remove duplicate entries
-  - Convert formula values to plain numbers
-  - Transpose data from vertical to horizontal
+  - [Select specific rows or columns](#select-specific-rows-or-columns)
+  - [Find named ranges](#find-named-ranges)
+  - [Change sort order](#change-sort-order)
+  - [Filter data](#filter-data)
+  - [Remove duplicate entries](#remove-duplicate-entries)
+  - [Convert formula values to plain numbers](#convert-formula-values-to-plain-numbers)
+  - [Transpose data from vertical to horizontal](#transpose-data-from-vertical-to-horizontal)
 - [**3. Formatting Tips**](#3-formatting-tips) (12 videos)
-  - Text wrap
-  - Rotate and align cell data
-  - Apply international currency formats
-  - Apply cell styles
-  - Page options
-  - Adjust row height and column width
-  - Add headers and footers
-  - Align cells
-  - Add a watermark
-  - Conditional formatting by cell contents
-  - Copy and paste cell formatting
-  - Merge cells
+  - [Text wrap](#text-wrap)
+  - [Rotate and align cell data](#rotate-and-align-cell-data)
+  - [Apply international currency formats](#apply-international-currency-formats)
+  - [Apply cell styles](#apply-cell-styles)
+  - [Page options](#page-options)
+  - [Adjust row height and column width](#adjust-row-height-and-column-width)
+  - [Add headers and footers](#add-headers-and-footers)
+  - [Align cells](#align-cells)
+  - [Add a watermark](#add-a-watermark)
+  - [Conditional formatting by cell contents](#conditional-formatting-by-cell-contents)
+  - [Copy and paste cell formatting](#copy-and-paste-cell-formatting)
+  - [Merge cells](#merge-cells)
 - [**4. Viewing Options**](#4-viewing-options) (4 videos)
-  - Change magnification
-  - Freeze panes
-  - Hide and unhide columns and rows
-  - Show and hide grouped data
+  - [Change magnification](#change-magnification)
+  - [Freeze panes](#freeze-panes)
+  - [Hide and unhide columns and rows](#hide-and-unhide-columns-and-rows)
+  - [Show and hide grouped data](#show-and-hide-grouped-data)
 - [**5. Collaborating on Spreadsheets**](#5-collaborating-on-spreadsheets) (4 videos)
-  - Insert and respond to comments
-  - Collaborate on an Excel file
-  - Highlight portions of a spreadsheet
-  - Draw and mark up spreadsheets
+  - [Insert and respond to comments](#insert-and-respond-to-comments)
+  - [Collaborate on an Excel file](#collaborate-on-an-excel-file)
+  - [Highlight portions of a spreadsheet](#highlight-portions-of-a-spreadsheet)
+  - [Draw and mark up spreadsheets](#draw-and-mark-up-spreadsheets)
 - [**6. Working with Files**](#6-working-with-files) (7 videos)
-  - Encrypt a workbook with a password
-  - Restrict editing
-  - Save as PDF or CSV
-  - Inspect a spreadsheet
-  - Check for compatibility issues
-  - Add and reference worksheets
-  - Lock cells
+  - [Encrypt a workbook with a password](#encrypt-a-workbook-with-a-password)
+  - [Restrict editing](#restrict-editing)
+  - [Save as PDF or CSV](#save-as-pdf-or-csv)
+  - [Inspect a spreadsheet](#inspect-a-spreadsheet)
+  - [Check for compatibility issues](#check-for-compatibility-issues)
+  - [Add and reference worksheets](#add-and-reference-worksheets)
+  - [Lock cells](#lock-cells)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get answers to common Excel questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980)
@@ -116,14 +116,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1), data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Data Entry Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fill in a series of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980)
@@ -146,6 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -170,8 +171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (3), select the (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [narrator] (1)
 
 #### Insert links
@@ -252,6 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), web (1), next (1)
 > **UI Navigation:** dropdown (5), select the (3), click on (1), go to (1)
 > **CLI Commands:** make (6)
 > **Speakers:** - [instructor] (1)
@@ -277,7 +279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), finally, (1)
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -303,6 +305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), feature (1), data (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -332,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** dropdown (1), select the (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Extract part of a cell's contents
@@ -391,7 +394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), case, (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), feature (2), data (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** a12 (1), a22 (1), zip (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -401,7 +404,7 @@ created: 2026-04-29
 
 ### 2. Working with Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Select specific rows or columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980)
@@ -441,6 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -464,7 +468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), case, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -489,6 +493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (1), open the (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -533,8 +538,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (2), [[Microsoft Excel|Excel]] (1)
 > **Non-Speech:** (computer chimes) (2)
-> **Code Keywords:** case, (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
@@ -559,6 +564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Transpose data from vertical to horizontal
@@ -602,15 +608,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1)
 > **Env Vars:** enter (5), shift (3), transpose (2), control (2), command (2)
-> **Code Keywords:** function (3), switch (2), type = (2), case, (1)
 > **UI Navigation:** select the (2), switch to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Formatting Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Text wrap
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980)
@@ -629,6 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1), [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [instructor] (1)
@@ -719,8 +726,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - you (1)
 
 #### Adjust row height and column width
@@ -767,7 +774,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2)
 > **UI Navigation:** go to (1), switch to (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -823,6 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1)
 > **Analogies:** picture (5)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [educator] (1)
@@ -866,7 +873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2), next (1)
 > **CLI Commands:** make (1)
 > **Versions:** 20.5 (1)
 > **UI Navigation:** in the menu (1)
@@ -910,6 +917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -938,7 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1)
 > **Warnings:** be aware (1), warning (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -947,7 +955,7 @@ created: 2026-04-29
 
 ### 4. Viewing Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change magnification
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/change-magnification?u=76281980)
@@ -964,6 +972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (7), data (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
@@ -992,8 +1001,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (1), select the (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1016,7 +1025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), case, (1)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1047,14 +1056,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), next (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Collaborating on Spreadsheets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Insert and respond to comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-and-respond-to-comments?u=76281980)
@@ -1079,7 +1088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Messaging Platforms]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1115,6 +1124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** open the (1), go to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1146,10 +1156,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (3)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Draw and mark up spreadsheets
@@ -1171,13 +1181,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Working with Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Encrypt a workbook with a password
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/encrypt-a-workbook-with-a-password?u=76281980)
@@ -1204,6 +1215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), next (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Warnings:** note that (1), be aware (1)
 > **Definitions:** is a  (1)
@@ -1248,6 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** open the (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1273,9 +1286,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
 > **Env Vars:** pdf (3), csv (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** export. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Inspect a spreadsheet
@@ -1297,6 +1310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Check for compatibility issues
@@ -1318,7 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), next (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1341,7 +1355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1376,7 +1390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1), select the (1), checkbox (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [educator] (1)

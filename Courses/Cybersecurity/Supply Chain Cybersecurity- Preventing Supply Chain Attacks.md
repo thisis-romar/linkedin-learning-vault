@@ -33,7 +33,7 @@ tags:
   - skill/supply-chain-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Supply%20Chain%20Cybersecurity-%20Preventing%20Supply%20Chain%20Attacks.md)
@@ -52,27 +52,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Securing your supply chain
+  - [Securing your supply chain](#securing-your-supply-chain)
 - [**1. Cybercrime 101**](#1-cybercrime-101) (2 videos)
-  - Threat actors and their motivations
-  - Emerging cyberattack strategies
+  - [Threat actors and their motivations](#threat-actors-and-their-motivations)
+  - [Emerging cyberattack strategies](#emerging-cyberattack-strategies)
 - [**2. Supply Chain Attacks**](#2-supply-chain-attacks) (3 videos)
-  - What is a supply chain attack?
-  - Key elements of a supply chain attack
-  - The cost of supply chain attacks
+  - [What is a supply chain attack?](#what-is-a-supply-chain-attack)
+  - [Key elements of a supply chain attack](#key-elements-of-a-supply-chain-attack)
+  - [The cost of supply chain attacks](#the-cost-of-supply-chain-attacks)
 - [**3. Preventing Supply Chain Attacks**](#3-preventing-supply-chain-attacks) (2 videos)
-  - Understanding your threat environment
-  - Best practices that enhance supply chain security
+  - [Understanding your threat environment](#understanding-your-threat-environment)
+  - [Best practices that enhance supply chain security](#best-practices-that-enhance-supply-chain-security)
 - [**4. Defending against Supply Chain Attacks**](#4-defending-against-supply-chain-attacks) (3 videos)
-  - Leveraging the NIST cybersecurity framework
-  - Enhance your incident response strategy
-  - Managing the third-party lifecycle
+  - [Leveraging the NIST cybersecurity framework](#leveraging-the-nist-cybersecurity-framework)
+  - [Enhance your incident response strategy](#enhance-your-incident-response-strategy)
+  - [Managing the third-party lifecycle](#managing-the-third-party-lifecycle)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to prevent supply chain attacks
+  - [Continuing to prevent supply chain attacks](#continuing-to-prevent-supply-chain-attacks)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980)
@@ -95,13 +95,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1), [[LinkedIn]] (1), [[Cybersecurity]] (1), career (1), [[Security]] (1)
 > **Speakers:** - when (1)
 
 
 ### 1. Cybercrime 101
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Threat actors and their motivations
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980)
@@ -152,7 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1)
+> **Frameworks & Libraries:** data (5), [[Phishing]] (2), [[Financial Statements]] (1), business (1), [[Cybersecurity]] (1)
 > **Env Vars:** ddos (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - nowadays (1)
@@ -232,7 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), require (1)
+> **Frameworks & Libraries:** data (6), [[Phishing]] (4), business (2), [[LinkedIn]] (1), web (1)
 > **Definitions:** is a  (2), short for (1)
 > **Env Vars:** sms (2)
 > **UI Navigation:** click on (1)
@@ -241,7 +241,7 @@ created: 2026-04-29
 
 ### 2. Supply Chain Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a supply chain attack?
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980)
@@ -268,6 +268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Hardware]] (2), [[Microsoft Products|Products]] (1), [[Security]] (1)
 > **Speakers:** - companies (1)
 
 #### Key elements of a supply chain attack
@@ -313,7 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2)
+> **Frameworks & Libraries:** hit (1)
 > **Exercise Files:** source code (2)
 > **Speakers:** - in (1)
 
@@ -374,7 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1)
+> **Frameworks & Libraries:** power (5), [[Incident Response]] (2), [[Thought Leadership]] (1), [[NIST]] (1), [[Security]] (1)
 > **Env Vars:** gdp (1), nist (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -382,7 +383,7 @@ created: 2026-04-29
 
 ### 3. Preventing Supply Chain Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your threat environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980)
@@ -453,7 +454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), protected (1)
+> **Frameworks & Libraries:** data (5), teams (4), [[Security]] (3), [[Engineering]] (3), [[Databases]] (2)
 > **Exercise Files:** source code (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1)
@@ -532,7 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), if. (1), self (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (10), [[Supply Chain Security]] (4), teams (1), management (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** rfp (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -541,7 +542,7 @@ created: 2026-04-29
 
 ### 4. Defending against Supply Chain Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging the NIST cybersecurity framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980)
@@ -630,9 +631,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), business (6), teams (4), [[NIST]] (3), data (3)
 > **Env Vars:** nist (3), api (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** function (2), require (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** heads up (1)
 > **Prerequisites:** make sure you have (1)
@@ -721,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), require (1), if, (1)
+> **Frameworks & Libraries:** [[Security]] (28), [[Incident Response]] (8), teams (5), [[Cybersecurity]] (2), management (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** nis (2)
 > **Speakers:** - a (1)
@@ -803,7 +804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), private (1), require (1)
+> **Frameworks & Libraries:** [[Security]] (14), data (6), teams (5), management (5), [[Cybersecurity]] (3)
 > **Best Practices:** best practice (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -815,7 +816,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to prevent supply chain attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/continuing-to-prevent-supply-chain-attacks?u=76281980)
@@ -846,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (8), data (3), management (2), [[Engineering]] (1)
 > **Speakers:** - when (1)
 
 

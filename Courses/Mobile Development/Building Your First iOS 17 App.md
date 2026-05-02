@@ -26,7 +26,7 @@ tags:
   - topic/mobile-development
   - skill/ios-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Building%20Your%20First%20iOS%2017%20App.md)
@@ -45,32 +45,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - How to build an app in an afternoon
-  - What you should know before watching this course
-  - Using the exercise files effectively
-  - Viewing the finished app and code
+  - [How to build an app in an afternoon](#how-to-build-an-app-in-an-afternoon)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
+  - [Using the exercise files effectively](#using-the-exercise-files-effectively)
+  - [Viewing the finished app and code](#viewing-the-finished-app-and-code)
 - [**1. Setup**](#1-setup) (3 videos)
-  - Downloading and installing Xcode
-  - Creating your first iOS app
-  - Key parts of the Xcode interface
+  - [Downloading and installing Xcode](#downloading-and-installing-xcode)
+  - [Creating your first iOS app](#creating-your-first-ios-app)
+  - [Key parts of the Xcode interface](#key-parts-of-the-xcode-interface)
 - [**2. SwiftUI Fundamentals**](#2-swiftui-fundamentals) (6 videos)
-  - SwiftUI stacks
-  - HStacks in SwiftUI
-  - Modifying SwiftUI objects
-  - Understanding variables
-  - Creating a TextField in SwiftUI
-  - Creating a slider in SwiftUI
+  - [SwiftUI stacks](#swiftui-stacks)
+  - [HStacks in SwiftUI](#hstacks-in-swiftui)
+  - [Modifying SwiftUI objects](#modifying-swiftui-objects)
+  - [Understanding variables](#understanding-variables)
+  - [Creating a TextField in SwiftUI](#creating-a-textfield-in-swiftui)
+  - [Creating a slider in SwiftUI](#creating-a-slider-in-swiftui)
 - [**3. Finishing the App**](#3-finishing-the-app) (4 videos)
-  - Converting between data types
-  - Calculating the tip total
-  - Handling invalid values
-  - Adding an app icon
+  - [Converting between data types](#converting-between-data-types)
+  - [Calculating the tip total](#calculating-the-tip-total)
+  - [Handling invalid values](#handling-invalid-values)
+  - [Adding an app icon](#adding-an-app-icon)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to build an app in an afternoon
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/how-to-build-an-app-in-an-afternoon?u=76281980)
@@ -86,7 +86,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** ios (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know before watching this course
@@ -110,6 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Code Identifiers:** macos (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [narrator] (1)
@@ -130,7 +130,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Exercise Files:** exercise files (3)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -163,14 +162,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Downloading and installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980)
@@ -193,6 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (6), [[Software Development]] (1)
 > **Code Identifiers:** ios (3)
 > **Prerequisites:** you'll need (1), install (1)
 > **URLs:** [apple.com](https://apple.com) (1)
@@ -200,7 +199,6 @@ created: 2026-04-29
 > **Exercise Files:** download the (1)
 > **Definitions:** is called (1)
 > **Warnings:** note that (1)
-> **Speakers:** - [narrator] (1)
 
 #### Creating your first iOS app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980)
@@ -251,9 +249,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (4), hit (3), product (3), next (2), [[Git]] (2)
 > **Code Identifiers:** ios (5), macos (1)
 > **CLI Commands:** make (2), git (2)
-> **Code Keywords:** interface (3), new, (1)
 > **Exercise Files:** exercise files (2), template (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Best Practices:** make sure to (1)
@@ -311,7 +309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (2), [[Debugging]] (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (1)
@@ -323,7 +321,7 @@ created: 2026-04-29
 
 ### 2. SwiftUI Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SwiftUI stacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980)
@@ -436,7 +434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), struct (1), else, (1), return, (1)
+> **Frameworks & Libraries:** application (2), [[Swift (Programming Language)|Swift]] (2), next (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), in other words (1), stands for (1)
 > **Cross-References:** we talked about (3), go back to (1)
 > **CLI Commands:** make (2), find (1)
@@ -488,7 +486,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), interface (1), let (1), delete (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -568,7 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), return, (2), continue (1), interface (1), return. (1)
+> **Frameworks & Libraries:** next (3), application (1), [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** go to (2), open the (1), in the toolbar (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
@@ -623,7 +620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (3), let (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -718,7 +715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), var (1), let (1), type, (1), delete (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), data (2), [[Microsoft Word|Word]] (1), next (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -862,7 +859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), return, (1), return. (1), var (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), next (2), express (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), in other words (1), is called (1)
 > **CLI Commands:** make (1), snap (1)
 > **Versions:** 15.0 (1), 1.0 (1)
@@ -873,7 +870,7 @@ created: 2026-04-29
 
 ### 3. Finishing the App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Converting between data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980)
@@ -930,7 +927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for, (1), return. (1), interface (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** short for (2), is a  (2), in other words (1)
 > **Code Identifiers:** tippercent (2), totalnum (1)
 > **CLI Commands:** make (1)
@@ -1011,7 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 0.15 (1), 0.01 (1)
@@ -1045,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1), case, (1), else, (1), this, (1)
+> **Frameworks & Libraries:** application (1), [[Microsoft Word|Word]] (1), [[Xcode]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Adding an app icon
@@ -1103,9 +1100,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), application (3), [[Xcode]] (2), [[Adobe Photoshop]] (1)
 > **UI Navigation:** click on (2), in the toolbar (1), in the tab (1), navigate to (1)
 > **Code Identifiers:** ios (4)
-> **Code Keywords:** switch (1), let (1)
 > **Exercise Files:** exercise files (2)
 > **Analogies:** such as (1), just like (1)
 > **CLI Commands:** find (1)
@@ -1115,7 +1112,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/next-steps?u=76281980)
@@ -1146,6 +1143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** ios (2)
 > **URLs:** [apple.com](https://apple.com) (1)

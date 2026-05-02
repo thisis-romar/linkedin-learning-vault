@@ -32,7 +32,7 @@ tags:
   - skill/r-programming-language
   - skill/tidyverse
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/R%20Tidyverse%20Applications.md)
@@ -51,49 +51,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to R
-  - What is RStudio?
+  - [Introduction to R](#introduction-to-r)
+  - [What is RStudio?](#what-is-rstudio)
 - [**1. Load Data**](#1-load-data) (9 videos)
-  - Introducing the R tidyverse
-  - The R tidyverse packages
-  - Introducing KinetEco
-  - Understanding KinetEco Data
-  - What is a tibble?
-  - Loading data with the tidyverse
-  - Load and write data with readr
-  - Load data with readxl and write with writexl
-  - Solution: Load data
+  - [Introducing the R tidyverse](#introducing-the-r-tidyverse)
+  - [The R tidyverse packages](#the-r-tidyverse-packages)
+  - [Introducing KinetEco](#introducing-kineteco)
+  - [Understanding KinetEco Data](#understanding-kineteco-data)
+  - [What is a tibble?](#what-is-a-tibble)
+  - [Loading data with the tidyverse](#loading-data-with-the-tidyverse)
+  - [Load and write data with readr](#load-and-write-data-with-readr)
+  - [Load data with readxl and write with writexl](#load-data-with-readxl-and-write-with-writexl)
+  - [Solution: Load data](#solution-load-data)
 - [**2. Manipulate Data**](#2-manipulate-data) (8 videos)
-  - Dealing with missing values with tidyr
-  - Reshaping data with tidyr
-  - Mutate strings with stringr
-  - Manipulate strings with stringr
-  - Join and split strings with stringr
-  - Understanding dates with lubridate
-  - Edit dates with lubridate
-  - Solution: Manipulate data
+  - [Dealing with missing values with tidyr](#dealing-with-missing-values-with-tidyr)
+  - [Reshaping data with tidyr](#reshaping-data-with-tidyr)
+  - [Mutate strings with stringr](#mutate-strings-with-stringr)
+  - [Manipulate strings with stringr](#manipulate-strings-with-stringr)
+  - [Join and split strings with stringr](#join-and-split-strings-with-stringr)
+  - [Understanding dates with lubridate](#understanding-dates-with-lubridate)
+  - [Edit dates with lubridate](#edit-dates-with-lubridate)
+  - [Solution: Manipulate data](#solution-manipulate-data)
 - [**3. Factor and Map Data**](#3-factor-and-map-data) (6 videos)
-  - Factor categorical data with forcats
-  - Inspect and mutate factors with forcats
-  - Adjust factor levels with forcats
-  - Map functions with purrr
-  - Other functions with purrr
-  - Solution: Factor data
+  - [Factor categorical data with forcats](#factor-categorical-data-with-forcats)
+  - [Inspect and mutate factors with forcats](#inspect-and-mutate-factors-with-forcats)
+  - [Adjust factor levels with forcats](#adjust-factor-levels-with-forcats)
+  - [Map functions with purrr](#map-functions-with-purrr)
+  - [Other functions with purrr](#other-functions-with-purrr)
+  - [Solution: Factor data](#solution-factor-data)
 - [**4. Analyze and Visualize Data**](#4-analyze-and-visualize-data) (8 videos)
-  - Summarize data with dplyr
-  - Group data with dplyr
-  - Mutate data with dplyr
-  - Filter data with dplyr
-  - Join data with dplyr
-  - Plot one variable visualizations with ggplot2
-  - Plot two variable visualizations with ggplot2
-  - Solution: Perform data analysis
+  - [Summarize data with dplyr](#summarize-data-with-dplyr)
+  - [Group data with dplyr](#group-data-with-dplyr)
+  - [Mutate data with dplyr](#mutate-data-with-dplyr)
+  - [Filter data with dplyr](#filter-data-with-dplyr)
+  - [Join data with dplyr](#join-data-with-dplyr)
+  - [Plot one variable visualizations with ggplot2](#plot-one-variable-visualizations-with-ggplot2)
+  - [Plot two variable visualizations with ggplot2](#plot-two-variable-visualizations-with-ggplot2)
+  - [Solution: Perform data analysis](#solution-perform-data-analysis)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introduction-to-r?u=76281980)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), [[LinkedIn]] (1), next (1)
 
 #### What is RStudio?
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980)
@@ -331,8 +331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[RStudio]] (10), [[GitHub]] (5), data (5), [[Windows]] (4), next (2)
 > **UI Navigation:** go to (8), click on (7), scroll down (1), select the (1), drag and drop (1)
-> **Code Keywords:** let (12), this. (2), continue (2), this, (1), finally, (1)
 > **Prerequisites:** install (6), you'll need (2), before you begin (1)
 > **Tools:** github (5), terminal (2)
 > **CLI Commands:** make (2), unzip (2), find (1)
@@ -343,7 +343,7 @@ created: 2026-04-29
 
 ### 1. Load Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the R tidyverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980)
@@ -452,9 +452,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[RStudio]] (2), next (2), [[GitHub]] (1), [[Programming]] (1)
 > **UI Navigation:** click on (4), scroll down (2), navigate to (1), go to (1)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** let (5), function (1)
 > **Analogies:** for example (3), such as (2), similar to (1)
 > **Prerequisites:** install (4), getting started (1)
 > **Definitions:** is a  (2), known as (1)
@@ -540,7 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), continue (1), from, (1)
+> **Frameworks & Libraries:** data (27), next (2), [[Microsoft Excel]] (1), [[LinkedIn]] (1), power (1)
 > **Analogies:** such as (3)
 > **Env Vars:** xls (1), xlsx (1)
 > **Definitions:** is a  (1), is called (1)
@@ -612,8 +612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), power (3), data (2), product (2), next (2)
 > **UI Navigation:** navigate to (6), go to (3), scroll down (2), click on (1)
-> **Code Keywords:** let (7), finally, (1)
 > **Env Vars:** url (1), psa (1)
 > **Definitions:** is a  (2)
 > **URLs:** [kinetecoinc.com](https://kinetecoinc.com) (1)
@@ -714,7 +714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type, (3), type. (2), finally, (2), continue (1)
+> **Frameworks & Libraries:** data (21), product (12), [[Microsoft Products|Products]] (5), business (4), next (3)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** known as (1)
@@ -869,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (5), function (4), this. (2)
+> **Frameworks & Libraries:** data (30), [[GitHub]] (1), web (1), [[RStudio]] (1), next (1)
 > **Code Identifiers:** new_tibble (5), is_tibble (3), as_tibble (2)
 > **Prerequisites:** install (10)
 > **Definitions:** is a  (5), is an  (2), is called (1)
@@ -1053,8 +1053,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), web (9), next (4), [[GitHub]] (4), [[Microsoft Excel|Excel]] (3)
 > **Code Identifiers:** read_excel (4), read_csv (3), read_tsv (2), read_xls (2), read_xlsx (2)
-> **Code Keywords:** function (10), let (8), type, (2), super (1), this, (1)
 > **UI Navigation:** navigate to (5), click on (4), scroll down (1)
 > **Env Vars:** csv (3), tsv (3), xls (1), xlsx (1), url (1)
 > **Analogies:** for example (5), such as (2), similar to (1), kind of like (1)
@@ -1229,7 +1229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (8), function (4), type, (2), this. (1)
+> **Frameworks & Libraries:** data (22), [[Microsoft Products|Products]] (9), product (6), [[RStudio]] (1), next (1)
 > **Code Identifiers:** read_csv (3), col_types (3), col_names (2), col_factor (1), show_col_types (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** csv (5)
@@ -1465,7 +1465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), this, (8), function (7), case, (1), this. (1)
+> **Frameworks & Libraries:** data (34), [[Microsoft Excel|Excel]] (14), next (2)
 > **Code Identifiers:** read_excel (3), cell_cols (3), excel_sheets (1), read_xlsx (1), col_types (1)
 > **Prerequisites:** install (9), make sure you have (1)
 > **CLI Commands:** make (3), find (1)
@@ -1565,7 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (6), this, (3), finally, (2), this. (1)
+> **Frameworks & Libraries:** data (24), business (11), [[Microsoft Excel|Excel]] (5), next (2), [[RStudio]] (1)
 > **Code Identifiers:** excel_sheets (2), n_max (1), cell_cols (1)
 > **Definitions:** means that (2)
 > **Warnings:** note that (2)
@@ -1576,7 +1576,7 @@ created: 2026-04-29
 
 ### 2. Manipulate Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dealing with missing values with tidyr
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980)
@@ -1771,7 +1771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (5), this, (4), finally, (2), case, (1)
+> **Frameworks & Libraries:** data (23), next (5), [[GitHub]] (4), [[RStudio]] (2), web (1)
 > **Definitions:** means that (3), is a  (2), is an  (1)
 > **Code Identifiers:** is_na (2), replace_na (1), drop_na (1)
 > **Tools:** github (4)
@@ -1935,7 +1935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (8), this, (7), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (22), product (15), next (6), business (1)
 > **Code Identifiers:** sales_product (2), pivot_wider (2), separate_longer_delim (1), order_type_quantity (1), pivot_longer (1)
 > **Warnings:** note that (3)
 > **Definitions:** is a  (2)
@@ -2111,7 +2111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (7), finally, (1), case, (1), continue (1)
+> **Frameworks & Libraries:** data (4), [[GitHub]] (4), next (4), [[RStudio]] (2), business (2)
 > **Code Identifiers:** replace_all (4), str_replace (2), str_to_upper (2), str_sub (1), str_to_lower (1)
 > **CLI Commands:** make (4), find (1)
 > **Prerequisites:** install (5)
@@ -2289,7 +2289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), function (9), this, (8), continue (1), for. (1)
+> **Frameworks & Libraries:** data (9), next (4), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** str_detect (4), str_pad (3), str_subset (1), str_extract (1), str_match (1)
 > **Analogies:** such as (4), similar to (1), for example (1)
 > **CLI Commands:** find (3), make (2)
@@ -2391,7 +2391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (6), this, (3), finally, (1)
+> **Frameworks & Libraries:** product (4), next (4), data (2)
 > **Code Identifiers:** str_split (3), str_flatten (2), str_dup (1), str_glue_data (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2601,7 +2601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), function (13), this, (7), this. (4), finally, (2)
+> **Frameworks & Libraries:** data (17), [[GitHub]] (5), next (3), web (1), [[RStudio]] (1)
 > **Code Identifiers:** as_datetime (2), ymd_hms (2), parse_date_time (2), as_date (1), as_hms (1)
 > **Ports:** :33 (1), :04 (1), :05 (1), :00 (1), :30 (1)
 > **Prerequisites:** install (5), make sure you have (1)
@@ -2727,7 +2727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (7), continue (1), type, (1), this, (1)
+> **Frameworks & Libraries:** data (11), next (1)
 > **Code Identifiers:** floor_date (3), ceiling_date (1), round_date (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -2854,14 +2854,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (5), this. (3), this, (2), switch (1)
+> **Frameworks & Libraries:** data (8), next (2), [[RStudio]] (1), [[Microsoft Word|Word]] (1), [[Programming]] (1)
 > **Code Identifiers:** sales_reps (1), str_replace_all (1), str_sub (1)
 > **Definitions:** is a  (1)
 
 
 ### 3. Factor and Map Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Factor categorical data with forcats
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980)
@@ -3012,7 +3012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (11), finally, (2), switch (1), return, (1)
+> **Frameworks & Libraries:** data (7), [[GitHub]] (4), next (3), [[RStudio]] (1), business (1)
 > **Env Vars:** url (2), b2b (2), b2c (2), fctr (1)
 > **Prerequisites:** install (6), getting started (1)
 > **Tools:** github (4)
@@ -3118,7 +3118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (7), this. (4), this, (4), match. (1)
+> **Frameworks & Libraries:** next (4), data (3), business (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** fct_expand (2), fct_unique (1), fct_count (1), fct_match (1), fct_drop (1)
 > **Analogies:** such as (2)
 > **Warnings:** note that (2)
@@ -3280,7 +3280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), function (13), this, (6), switch (3), finally, (1)
+> **Frameworks & Libraries:** data (3), next (3), business (2)
 > **Code Identifiers:** fct_relevel (1), fct_infreq (1), fct_inorder (1), fct_rev (1), fct_shift (1)
 > **Env Vars:** b2b (2), b2c (2), fct (1)
 > **Warnings:** note that (3)
@@ -3488,7 +3488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (16), this, (4), class. (1), this. (1)
+> **Frameworks & Libraries:** data (14), next (5), [[GitHub]] (3), web (1), [[RStudio]] (1)
 > **Analogies:** for example (4), similar to (2), such as (2)
 > **Prerequisites:** install (4), make sure you have (2)
 > **CLI Commands:** make (2), find (1)
@@ -3618,7 +3618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (23), let (12), this, (5), pass (3), finally, (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), data (4), next (4), product (2)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Code Identifiers:** head_while (1), modify_if (1), list_flatten (1)
 > **CLI Commands:** make (1)
@@ -3710,14 +3710,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), this, (3), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[RStudio]] (1), next (1), [[Programming]] (1)
 > **Code Identifiers:** as_factor (1), fct_expand (1), fct_infreq (1), fct_count (1)
 > **Warnings:** note that (1)
 
 
 ### 4. Analyze and Visualize Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize data with dplyr
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980)
@@ -3900,7 +3900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (28), let (20), this, (5), super (1), finally, (1)
+> **Frameworks & Libraries:** data (16), [[GitHub]] (4), [[Statistics]] (4), next (4), [[Data Transformation]] (1)
 > **Analogies:** similar to (2), such as (2), for example (1)
 > **Prerequisites:** install (5)
 > **Tools:** github (4)
@@ -4006,7 +4006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (12), this, (5), finally, (1), type, (1)
+> **Frameworks & Libraries:** data (11), product (5), next (4), [[Statistics]] (2), [[Pivot Tables]] (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** group_by (2)
@@ -4150,7 +4150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (22), this, (3), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (11), next (4), [[RStudio]] (1), product (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** you'll need (1), make sure you have (1)
@@ -4302,7 +4302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (15), this, (8), switch (1), this. (1)
+> **Frameworks & Libraries:** data (23), next (5), [[Microsoft Word|Word]] (2), product (2)
 > **CLI Commands:** make (3), rm (1)
 > **Code Identifiers:** str_starts (1), group_by (1)
 > **Warnings:** note that (2)
@@ -4442,7 +4442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (6), function (5), finally, (2), match. (2)
+> **Frameworks & Libraries:** data (52), next (4), product (4), [[Microsoft Products|Products]] (3), business (3)
 > **Definitions:** known as (3), is a  (1), is an  (1), means that (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** individual_customer (1), business_customer (1), sales_reps (1)
@@ -4637,7 +4637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (15), type, (3), this. (1), this, (1)
+> **Frameworks & Libraries:** data (7), [[GitHub]] (4), next (4), [[RStudio]] (1)
 > **Analogies:** such as (4), for example (2), similar to (1)
 > **Prerequisites:** install (4), you'll need (2), make sure you have (1)
 > **CLI Commands:** make (4), find (2)
@@ -4795,7 +4795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (15), type, (2), this, (2), switch (1)
+> **Frameworks & Libraries:** data (7), next (4), product (3)
 > **Code Identifiers:** geom_count (2), geom_point (1), geom_area (1), geom_call (1)
 > **Versions:** 0.5 (2), 0.7 (1)
 > **CLI Commands:** make (1)
@@ -4917,7 +4917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (8), this, (3), finally, (2), var (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), data (6), next (6), product (2), [[RStudio]] (1)
 > **Code Identifiers:** group_by (1), str_detect (1), geom_call (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** var (1)
@@ -4927,7 +4927,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980)
@@ -4962,7 +4962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), power (1), next (1), [[GitHub]] (1), data (1)
 > **Tools:** github (1)
 
 

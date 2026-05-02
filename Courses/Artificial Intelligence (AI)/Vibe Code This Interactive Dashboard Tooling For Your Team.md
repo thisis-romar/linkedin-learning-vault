@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vibe%20Code%20This%20Interactive%20Dashboard%20Tooling%20For%20Your%20Team.md)
@@ -46,15 +46,15 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Using chatbots to deliver results
+  - [Using chatbots to deliver results](#using-chatbots-to-deliver-results)
 - [**1. Building the Dashboard**](#1-building-the-dashboard) (3 videos)
-  - Brainstorming with the chatbot
-  - Defining success criteria with a PRD
-  - From PRD to interactive dashboard with AI tools
+  - [Brainstorming with the chatbot](#brainstorming-with-the-chatbot)
+  - [Defining success criteria with a PRD](#defining-success-criteria-with-a-prd)
+  - [From PRD to interactive dashboard with AI tools](#from-prd-to-interactive-dashboard-with-ai-tools)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using chatbots to deliver results
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/using-chatbots-to-deliver-results?u=76281980)
@@ -73,14 +73,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (1), [[Google Gemini]] (1), product (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - ai (1)
 
 
 ### 1. Building the Dashboard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Brainstorming with the chatbot
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980)
@@ -207,7 +207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (2), case, (2), type, (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), data (5), prompt (3), ai (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (7), python (1)
 > **Env Vars:** csv (2)
 > **UI Navigation:** click on (1)
@@ -314,7 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (1), for. (1), interface (1), require (1)
+> **Frameworks & Libraries:** data (4), product (3), [[ChatGPT]] (3), next (2), hit (2)
 > **Env Vars:** prd (6), csv (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -446,8 +446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), hit (6), [[HTML]] (2), [[Programming]] (2), [[ChatGPT]] (2)
 > **Env Vars:** prd (7), csv (6), html (2), json (1), csvi (1)
-> **Code Keywords:** let (7), switch (4), this, (1), this. (1), case, (1)
 > **CLI Commands:** make (6), python (1)
 > **UI Navigation:** switch to (1), go to (1)
 > **Documentation:** the documentation (1)

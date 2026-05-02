@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Digital%20Business%20Analysis.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Transform your business analyst career
-  - The mindset of a digital BA
-  - Intelligent automation and digital landscape
-  - Transforming into a digital business analyst
-  - Understand the capabilities
+  - [Transform your business analyst career](#transform-your-business-analyst-career)
+  - [The mindset of a digital BA](#the-mindset-of-a-digital-ba)
+  - [Intelligent automation and digital landscape](#intelligent-automation-and-digital-landscape)
+  - [Transforming into a digital business analyst](#transforming-into-a-digital-business-analyst)
+  - [Understand the capabilities](#understand-the-capabilities)
 - [**1. Transforming Your Projects: Part 1, Human Interaction**](#1-transforming-your-projects-part-1-human-interaction) (4 videos)
-  - Natural language generation
-  - Speech recognition and voice technologies
-  - Chatbots and virtual agents
-  - Robotic process automation
+  - [Natural language generation](#natural-language-generation)
+  - [Speech recognition and voice technologies](#speech-recognition-and-voice-technologies)
+  - [Chatbots and virtual agents](#chatbots-and-virtual-agents)
+  - [Robotic process automation](#robotic-process-automation)
 - [**2. Transforming Your Projects: Part 2, Data Tools**](#2-transforming-your-projects-part-2-data-tools) (5 videos)
-  - Biometrics
-  - Machine and deep learning
-  - Video and image analysis
-  - Swarm intelligence
-  - Blockchain
+  - [Biometrics](#biometrics)
+  - [Machine and deep learning](#machine-and-deep-learning)
+  - [Video and image analysis](#video-and-image-analysis)
+  - [Swarm intelligence](#swarm-intelligence)
+  - [Blockchain](#blockchain)
 - [**3. Impact to Requirements and Business Analysis**](#3-impact-to-requirements-and-business-analysis) (5 videos)
-  - Linking the capabilities together
-  - How are requirements the same?
-  - How are requirements different?
-  - Linking to business process
-  - Intelligent automation in agile
+  - [Linking the capabilities together](#linking-the-capabilities-together)
+  - [How are requirements the same?](#how-are-requirements-the-same)
+  - [How are requirements different?](#how-are-requirements-different)
+  - [Linking to business process](#linking-to-business-process)
+  - [Intelligent automation in agile](#intelligent-automation-in-agile)
 - [**4. Technique Highlights**](#4-technique-highlights) (4 videos)
-  - Experiments and hypothesis
-  - Business measurements of success
-  - The customer journey and user experience
-  - Monitoring the results
+  - [Experiments and hypothesis](#experiments-and-hypothesis)
+  - [Business measurements of success](#business-measurements-of-success)
+  - [The customer journey and user experience](#the-customer-journey-and-user-experience)
+  - [Monitoring the results](#monitoring-the-results)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your business analyst career
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/transform-your-business-analyst-career?u=76281980)
@@ -100,7 +100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (6), [[Automation]] (1)
 > **Speakers:** - the (1)
 
 #### The mindset of a digital BA
@@ -160,6 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11), teams (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), express (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
@@ -231,8 +232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), data (3), teams (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** require (1), continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
@@ -295,7 +296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), require (1)
+> **Frameworks & Libraries:** business (13), data (3), [[Decision-Making]] (2), application (1), next (1)
 > **Cross-References:** in the next (1), in the last (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -356,13 +357,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), data (3), express (2), [[Unstructured Data]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - today (1)
 
 
 ### 1. Transforming Your Projects: Part 1, Human Interaction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Natural language generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980)
@@ -439,8 +441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (5), [[Forms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1)
 > **Env Vars:** nlg (5)
-> **Code Keywords:** let (2)
 > **Exercise Files:** template (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
@@ -509,6 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Speech Recognition]] (5), data (1), next (1), [[Automation]] (1), business (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - speech (1)
@@ -568,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** chatbot (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Speech Recognition]] (1), business (1), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), this, (1)
 > **Analogies:** imagine (2), for example (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - chatbots (1)
@@ -641,8 +644,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), rpa (10), business (5), [[Robotic Process Automation (RPA)|Robotic process automation]] (2), product (1)
 > **Env Vars:** rpa (10), api (1)
-> **Code Keywords:** interface (1), super (1), let (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** drag and drop (1)
@@ -653,7 +656,7 @@ created: 2026-04-29
 
 ### 2. Transforming Your Projects: Part 2, Data Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Biometrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980)
@@ -724,7 +727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1)
+> **Frameworks & Libraries:** business (3), [[Security]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), application (1), management (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
@@ -791,8 +794,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), business (4), power (2), [[Real-Time]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), yield (1)
 > **Analogies:** for example (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - a (1)
@@ -850,6 +853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), [[Security]] (1), [[Predictive Analytics]] (1), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** atm (1)
 > **Analogies:** for example (1)
@@ -914,10 +918,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), traffic (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistical Analysis]] (1), [[Routing]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - what (1)
 
 #### Blockchain
@@ -977,7 +981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Blockchain]] (13), business (6), [[Security]] (3), data (3), management (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -985,7 +989,7 @@ created: 2026-04-29
 
 ### 3. Impact to Requirements and Business Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linking the capabilities together
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-the-capabilities-together?u=76281980)
@@ -1042,8 +1046,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Automation]] (2), career (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), from, (1)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
@@ -1113,7 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1), from, (1), continue (1), switch (1)
+> **Frameworks & Libraries:** business (11), teams (3), [[Digital Transformation]] (2), data (1)
 > **Env Vars:** iiba (1), babok (1), pmi (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - if (1)
@@ -1183,6 +1187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Digital Transformation]] (3), teams (2), next (1), data (1)
 > **Definitions:** is a  (2)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
@@ -1245,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), from, (1)
+> **Frameworks & Libraries:** business (9), data (2), [[Digital Transformation]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1312,15 +1317,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), business (5), teams (4), [[Automation]] (2), [[Digital Transformation]] (2)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **Speakers:** - digital (1)
 
 
 ### 4. Technique Highlights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Experiments and hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980)
@@ -1385,8 +1390,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Agile Development|Agile]] (1), business (1), next (1), teams (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), yield (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - remember (1)
 
@@ -1445,7 +1450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** business (6), [[Microsoft Products|Products]] (1), [[Digital Transformation]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - outcomes (1)
 
@@ -1502,10 +1507,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (2), product (1), [[Automation]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type. (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
@@ -1573,8 +1578,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), data (5), [[Ethics]] (2), [[React.js|React]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this, (1), continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - digital (1)
@@ -1582,7 +1587,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/next-steps?u=76281980)
@@ -1613,7 +1618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** next (1), career (1)
 > **Speakers:** - the (1)
 
 

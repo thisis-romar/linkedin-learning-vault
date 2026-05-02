@@ -33,7 +33,7 @@ tags:
   - skill/ubuntu
   - skill/user-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ubuntu%20Linux-%20User%20and%20Group%20Management.md)
@@ -52,28 +52,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - Users and groups
-  - Environment setup
+  - [Welcome](#welcome)
+  - [Users and groups](#users-and-groups)
+  - [Environment setup](#environment-setup)
 - [**1. Local Users and Groups**](#1-local-users-and-groups) (7 videos)
-  - Create user accounts
-  - Modify and delete user accounts
-  - Create and modify groups
-  - Home folder templating and global environment configuration
-  - Configure and monitor user resources
-  - Configure permissions to allow group collaboration
-  - Granting users and groups sudo access
+  - [Create user accounts](#create-user-accounts)
+  - [Modify and delete user accounts](#modify-and-delete-user-accounts)
+  - [Create and modify groups](#create-and-modify-groups)
+  - [Home folder templating and global environment configuration](#home-folder-templating-and-global-environment-configuration)
+  - [Configure and monitor user resources](#configure-and-monitor-user-resources)
+  - [Configure permissions to allow group collaboration](#configure-permissions-to-allow-group-collaboration)
+  - [Granting users and groups sudo access](#granting-users-and-groups-sudo-access)
 - [**2. Authentication Tools**](#2-authentication-tools) (3 videos)
-  - Explore pluggable authentication modules (PAM)
-  - Use LDAP for user authentication
-  - Authenticate clients with Kerberos
+  - [Explore pluggable authentication modules (PAM)](#explore-pluggable-authentication-modules-pam)
+  - [Use LDAP for user authentication](#use-ldap-for-user-authentication)
+  - [Authenticate clients with Kerberos](#authenticate-clients-with-kerberos)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Tools for exploring user logins
-  - Next steps
+  - [Tools for exploring user logins](#tools-for-exploring-user-logins)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980)
@@ -96,9 +96,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), management (1), [[User Management]] (1)
 > **Env Vars:** pam (1), ldap (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [scott] (1)
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), super (1), delete (1), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Linux]] (1), application (1), data (1), [[Security]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (4), means that (3)
 > **Env Vars:** uid (2), gid (1), gecos (1)
 > **Warnings:** warning (3)
@@ -276,7 +276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), continue (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Ubuntu]] (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -284,7 +284,7 @@ created: 2026-04-29
 
 ### 1. Local Users and Groups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/create-user-accounts?u=76281980)
@@ -401,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), override (1), this, (1), switch (1)
+> **Frameworks & Libraries:** front-end (1), cd (1)
 > **Env Vars:** uid (2), etc (1), gecos (1)
 > **Definitions:** is a  (3), is called (1)
 > **Documentation:** man page (2)
@@ -508,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), delete (3), default, (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** unix (1), chsh (1), cshs (1), etc (1), gecos (1)
 > **CLI Commands:** sudo (1), make (1)
 > **Tools:** bash (1)
@@ -585,7 +585,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), delete (1)
 > **Analogies:** just like (2)
 > **Env Vars:** etc (1)
 > **Prerequisites:** set up (1)
@@ -688,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (2), for. (1)
+> **Frameworks & Libraries:** prompt (1)
 > **CLI Commands:** make (4), ls (2)
 > **File Paths:** myfile.sh (1), welcome.txt (1)
 > **Tools:** bash (1), terminal (1)
@@ -826,7 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (5), case, (1)
+> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **CLI Commands:** make (5), mkdir (1)
 > **Prerequisites:** set up (3), install (2)
 > **Env Vars:** cpu (2), pam (1)
@@ -882,7 +881,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (3), case, (1)
 > **CLI Commands:** chmod (2), mkdir (1), find (1), make (1), ls (1)
 > **Env Vars:** gid (4)
 > **Prerequisites:** setup (2), configure (1)
@@ -926,15 +924,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** sudo (7), make (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** super (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Authentication Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore pluggable authentication modules (PAM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/explore-pluggable-authentication-modules-pam?u=76281980)
@@ -1027,7 +1025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (2), case, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** next (2), [[Authentication Systems]] (1)
 > **Env Vars:** pam (9), ldap (1), uid (1)
 > **Code Identifiers:** pam_shells (1), pam_rootok (1), pam_unix (1), pam_deny (1)
 > **CLI Commands:** cat (2)
@@ -1239,10 +1237,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[PHP]] (2), [[Security]] (2), prompt (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ldap (30), pam (5), etc (3), php (2), mdb (1)
 > **Prerequisites:** install (8), set up (6), configure (4), setup (2)
 > **CLI Commands:** apt (3), make (2), php (2), find (2), grep (1)
-> **Code Keywords:** continue (3), switch (2), module (1), interface (1)
 > **Tools:** command line (2), terminal (1)
 > **UI Navigation:** scroll down (2), switch to (1)
 > **Definitions:** is called (1), is a  (1), stands for (1)
@@ -1351,10 +1349,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), management (1), dns (1), next (1), [[Automation]] (1)
 > **Env Vars:** kdc (10), ldap (4), example (4), com (4), pam (2)
 > **Prerequisites:** setup (5), set up (4), install (4), configure (2)
 > **URLs:** [example.com](https://example.com) (7)
-> **Code Keywords:** let (4), case, (1), switch (1)
 > **CLI Commands:** apt (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Versions:** 127.0.0 (1)
@@ -1363,7 +1361,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools for exploring user logins
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/tools-for-exploring-user-logins?u=76281980)
@@ -1401,7 +1399,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** tty2 (1), ssh (1), pts (1), utmp (1), wtmp (1)
-> **Code Keywords:** case, (2), var (2)
 > **Tools:** terminal (4)
 > **CLI Commands:** ssh (1)
 > **Documentation:** man page (1)
@@ -1432,7 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1), [[Virtual Machines]] (1), management (1), next (1)
 > **Env Vars:** ldap (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [scott] (1)

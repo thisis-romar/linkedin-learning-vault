@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/C%20Plus%20Plus%20Essential%20Training.md)
@@ -44,80 +44,80 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn C++
-  - Using the exercise files
-  - What is C++?
+  - [Learn C++](#learn-c)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [What is C++?](#what-is-c)
 - [**1. Toolchain and Installation**](#1-toolchain-and-installation) (3 videos)
-  - The C++ toolchain
-  - Using an IDE with the exercise files
-  - Check for std::format support
+  - [The C++ toolchain](#the-c-toolchain)
+  - [Using an IDE with the exercise files](#using-an-ide-with-the-exercise-files)
+  - [Check for std::format support](#check-for-stdformat-support)
 - [**2. The Basics**](#2-the-basics) (6 videos)
-  - Basic syntax
-  - Anatomy of a C++ program
-  - Statements and expressions
-  - Identifiers
-  - Defining variables
-  - Pointers and references
+  - [Basic syntax](#basic-syntax)
+  - [Anatomy of a C++ program](#anatomy-of-a-c-program)
+  - [Statements and expressions](#statements-and-expressions)
+  - [Identifiers](#identifiers)
+  - [Defining variables](#defining-variables)
+  - [Pointers and references](#pointers-and-references)
 - [**3. Flow Control**](#3-flow-control) (4 videos)
-  - Conditionals
-  - Loops
-  - Iterating with for
-  - Functions
+  - [Conditionals](#conditionals)
+  - [Loops](#loops)
+  - [Iterating with for](#iterating-with-for)
+  - [Functions](#functions)
 - [**4. Data Types**](#4-data-types) (11 videos)
-  - Overview of data types
-  - Integer types
-  - Floating point types
-  - The auto type
-  - Qualifiers
-  - Type aliases
-  - Primitive arrays
-  - C-strings
-  - Structures
-  - Challenge: Library card
-  - Solution: Library card
+  - [Overview of data types](#overview-of-data-types)
+  - [Integer types](#integer-types)
+  - [Floating point types](#floating-point-types)
+  - [The auto type](#the-auto-type)
+  - [Qualifiers](#qualifiers)
+  - [Type aliases](#type-aliases)
+  - [Primitive arrays](#primitive-arrays)
+  - [C-strings](#c-strings)
+  - [Structures](#structures)
+  - [Challenge: Library card](#challenge-library-card)
+  - [Solution: Library card](#solution-library-card)
 - [**5. Operators**](#5-operators) (6 videos)
-  - Common operators
-  - Compound assignment operators
-  - Increment and decrement operators
-  - Operator precedence
-  - Challenge: Prime numbers
-  - Solution: Prime numbers
+  - [Common operators](#common-operators)
+  - [Compound assignment operators](#compound-assignment-operators)
+  - [Increment and decrement operators](#increment-and-decrement-operators)
+  - [Operator precedence](#operator-precedence)
+  - [Challenge: Prime numbers](#challenge-prime-numbers)
+  - [Solution: Prime numbers](#solution-prime-numbers)
 - [**6. Functions**](#6-functions) (6 videos)
-  - Overview of C++ functions
-  - Passing values to a function
-  - Returning values from a function
-  - Using recursion
-  - Challenge: Non-recursive factorial
-  - Solution: Non-recursive factorial
+  - [Overview of C++ functions](#overview-of-c-functions)
+  - [Passing values to a function](#passing-values-to-a-function)
+  - [Returning values from a function](#returning-values-from-a-function)
+  - [Using recursion](#using-recursion)
+  - [Challenge: Non-recursive factorial](#challenge-non-recursive-factorial)
+  - [Solution: Non-recursive factorial](#solution-non-recursive-factorial)
 - [**7. Classes and Objects**](#7-classes-and-objects) (8 videos)
-  - Overview of classes and objects
-  - Data members
-  - Function members
-  - Constructors and destructors
-  - Operator overloads
-  - Non-member operators
-  - Challenge: Non-member operators
-  - Solution: Non-member operators
+  - [Overview of classes and objects](#overview-of-classes-and-objects)
+  - [Data members](#data-members)
+  - [Function members](#function-members)
+  - [Constructors and destructors](#constructors-and-destructors)
+  - [Operator overloads](#operator-overloads)
+  - [Non-member operators](#non-member-operators)
+  - [Challenge: Non-member operators](#challenge-non-member-operators)
+  - [Solution: Non-member operators](#solution-non-member-operators)
 - [**8. Templates**](#8-templates) (5 videos)
-  - Understanding templates
-  - Template functions
-  - Template classes
-  - Challenge: Template factorial
-  - Solution: Template factorial
+  - [Understanding templates](#understanding-templates)
+  - [Template functions](#template-functions)
+  - [Template classes](#template-classes)
+  - [Challenge: Template factorial](#challenge-template-factorial)
+  - [Solution: Template factorial](#solution-template-factorial)
 - [**9. Standard Template Library**](#9-standard-template-library) (7 videos)
-  - Overview of the STL
-  - Vectors
-  - Strings
-  - Format
-  - I/O Stream
-  - Challenge: Transform a file (STL)
-  - Solution: Transform a file (STL)
+  - [Overview of the STL](#overview-of-the-stl)
+  - [Vectors](#vectors)
+  - [Strings](#strings)
+  - [Format](#format)
+  - [I/O Stream](#io-stream)
+  - [Challenge: Transform a file (STL)](#challenge-transform-a-file-stl)
+  - [Solution: Transform a file (STL)](#solution-transform-a-file-stl)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Thank you
+  - [Thank you](#thank-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980)
@@ -146,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Algorithms]] (1), [[Programming]] (1)
 > **Exercise Files:** template (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** stl (1)
 > **Speakers:** - [bill] (1)
 
@@ -180,6 +180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Windows]] (1), [[Xcode]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Exercise Files:** exercise files (4)
 > **Env Vars:** gcc (1)
@@ -330,10 +331,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Generic Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Windows]] (2), [[Google]] (2)
 > **Env Vars:** stl (4), php (2), iso (1)
 > **CLI Commands:** php (2), python (2), make (2)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** require (1), lambda (1)
 > **Exercise Files:** template (2)
 > **Code Identifiers:** macos (1)
 > **Versions:** 1.0 (1)
@@ -342,7 +343,7 @@ created: 2026-04-29
 
 ### 1. Toolchain and Installation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The C++ toolchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980)
@@ -405,11 +406,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Python (Programming Language)|Python]] (2), [[PHP]] (2), [[Xcode]] (2), [[Scripting]] (1)
 > **Definitions:** is a  (3), means that (3), is an  (1)
 > **CLI Commands:** python (2), php (2), make (1)
 > **Exercise Files:** source code (5)
 > **Env Vars:** php (2), ide (2)
-> **Code Keywords:** continue (2)
 > **Tools:** visual studio (2)
 > **Speakers:** - [instructor] (1)
 
@@ -644,8 +645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (12), [[Windows]] (3), next (1), [[Git]] (1), [[Debugging]] (1)
 > **Exercise Files:** exercise files (11), source code (1)
-> **Code Keywords:** delete (5), let (3), new, (1), this. (1)
 > **File Paths:** hello.cpp (6), working.cpp (2)
 > **Tools:** visual studio (6), command line (1)
 > **UI Navigation:** click on (4), select the (2), dropdown (1)
@@ -678,6 +679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (2), [[Microsoft]] (1)
 > **CLI Commands:** find (3)
 > **URLs:** [fmt.dev](https://fmt.dev) (1), [format.dev](https://format.dev) (1)
 > **Exercise Files:** exercise files (2)
@@ -688,7 +690,7 @@ created: 2026-04-29
 
 ### 2. The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/basic-syntax?u=76281980)
@@ -757,7 +759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), case, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is a  (3), means that (1), is called (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
@@ -854,7 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), this. (1), type, (1), pass (1), case, (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is an  (2), is a  (1), is called (1), short for (1)
 > **CLI Commands:** find (2), python (1)
 > **Cross-References:** later in (2)
@@ -914,7 +916,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), function (1), case, (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2), analogous to (1)
 > **Env Vars:** str (1)
@@ -974,6 +975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Microsoft]] (1), [[Programming]] (1)
 > **Env Vars:** iso (2), ascii (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -981,7 +983,6 @@ created: 2026-04-29
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
-> **Speakers:** - identifiers (1)
 
 #### Defining variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/defining-variables?u=76281980)
@@ -1126,7 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (5), type. (3), this, (3), type, (3), let (2)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (5), means that (1), in other words (1)
 > **Prerequisites:** initialization (5)
 > **File Paths:** variable.cpp (1)
@@ -1337,7 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (6), const (4), else. (3), let (2), this. (2)
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (9), is called (2), is an  (1), we call this (1)
 > **Analogies:** just like (1), it's like (1), for example (1), for instance (1)
 > **File Paths:** pointers.cpp (1)
@@ -1349,7 +1350,7 @@ created: 2026-04-29
 
 ### 3. Flow Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditionals
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/conditionals?u=76281980)
@@ -1514,7 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), this, (5), case, (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is called (2), is an  (1), is a  (1)
 > **File Paths:** working.cpp (1)
 > **Cross-References:** go back to (1)
@@ -1609,7 +1610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (5), this, (2), case, (1), while. (1), break. (1)
+> **Frameworks & Libraries:** hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **File Paths:** while.cpp (1)
 > **Cross-References:** later in (1)
@@ -1761,7 +1762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (5), for. (3), this. (3), let (1), for, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Programming]] (1), oop (1)
 > **Definitions:** is a  (4)
 > **File Paths:** for.cpp (1), f-o-r.cpp (1), range-for.c (1)
 > **CLI Commands:** find (3)
@@ -1894,7 +1895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (2), pass (2), const (2), type. (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Definitions:** is called (2), is an  (1), is a  (1)
 > **File Paths:** func.cpp (1)
 > **Cross-References:** later in (1)
@@ -1904,7 +1905,7 @@ created: 2026-04-29
 
 ### 4. Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-data-types?u=76281980)
@@ -1993,7 +1994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (5), type, (1), private (1), function (1), struct (1)
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6), means that (1), is an  (1), refers to (1)
 > **Env Vars:** stl (1)
 > **Analogies:** for example (1)
@@ -2067,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1), this. (1)
+> **Frameworks & Libraries:** data (1), [[Hardware]] (1)
 > **CLI Commands:** ls (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2205,7 +2206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (5), type, (3), type. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Linux]] (2), [[Xcode]] (2), [[Windows]] (2)
 > **Versions:** 0.3 (4), 0.1 (3), 0.0 (1)
 > **Env Vars:** ieee (3), gcc (2), arm (1), max (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
@@ -2309,7 +2310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), type. (2), type, (2), let (1), case. (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Microsoft]] (1)
 > **Env Vars:** cpp (2), stl (2)
 > **Exercise Files:** exercise files (2), template (1)
 > **File Paths:** auto-type.cpp (1), 2.cpp (1)
@@ -2428,7 +2429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (11), const (10), function (6), let (2), default. (1)
+> **Frameworks & Libraries:** data (1), [[Xcode]] (1)
 > **Definitions:** is an  (1), stands for (1), means that (1), is called (1)
 > **CLI Commands:** make (2)
 > **File Paths:** qualifiers.cpp (1)
@@ -2492,7 +2493,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), delete (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **File Paths:** typedef.cpp (1)
 > **Definitions:** is an  (1)
@@ -2634,7 +2634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), type. (2), this. (2), const (2), this, (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (8)
 > **Env Vars:** stl (2)
 > **Prerequisites:** you'll need (1), initialization (1)
@@ -2736,7 +2736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), const (3), this. (3), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **Speakers:** - a (1)
@@ -2792,8 +2792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Versions:** 47.9 (2), 73.0 (1)
-> **Code Keywords:** struct (1), this, (1)
 > **Definitions:** is an  (2)
 > **File Paths:** struct.cpp (1)
 > **Exercise Files:** exercise files (1)
@@ -2846,7 +2846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** data (4), next (1)
 > **Env Vars:** oclc (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
@@ -2896,7 +2896,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), const (1)
 > **File Paths:** 04-solution.cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -2905,7 +2904,7 @@ created: 2026-04-29
 
 ### 5. Operators
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/common-operators?u=76281980)
@@ -3096,7 +3095,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), type. (3), case, (1), function (1)
 > **Env Vars:** xor (4)
 > **Definitions:** is a  (3)
 > **File Paths:** operators.cpp (1)
@@ -3156,7 +3154,6 @@ created: 2026-04-29
 > **Warnings:** be aware (2)
 > **File Paths:** operators.cpp (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3270,7 +3267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), this, (2), function (2), type. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1), is a  (1), in other words (1)
 > **Warnings:** note that (1), keep in mind (1)
@@ -3332,7 +3329,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -3368,6 +3364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -3405,7 +3402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** 05-solution.cpp (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -3415,7 +3412,7 @@ created: 2026-04-29
 
 ### 6. Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of C++ functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-c-plus-plus-functions?u=76281980)
@@ -3574,7 +3571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (40), this, (3), static (3), pass (2), type, (2)
+> **Frameworks & Libraries:** [[Programming]] (1), data (1)
 > **Definitions:** is called (6), is a  (5)
 > **Analogies:** analogous to (1), for example (1)
 > **File Paths:** func.cpp (1)
@@ -3734,7 +3731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (25), pass (12), let (7), this. (6), this, (4)
+> **Frameworks & Libraries:** data (7), power (2), [[Security]] (2)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Env Vars:** stl (2)
 > **File Paths:** func.cpp (1)
@@ -3894,7 +3891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), const (6), let (5), static (5), type. (1)
+> **Frameworks & Libraries:** power (1), data (1), [[Security]] (1)
 > **CLI Commands:** make (6)
 > **File Paths:** func.cpp (1)
 > **Documentation:** stack overflow (1)
@@ -3950,7 +3947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1), this. (1), require (1)
+> **Frameworks & Libraries:** product (1), [[Security]] (1)
 > **Definitions:** is a  (1), refers to (1), defined as (1), in other words (1), is an  (1)
 > **File Paths:** factorial.cpp (1)
 > **CLI Commands:** find (1)
@@ -3988,7 +3985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7)
+> **Frameworks & Libraries:** product (1)
 > **Cross-References:** earlier in (1), we covered (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -4024,7 +4021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** product (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4032,7 +4029,7 @@ created: 2026-04-29
 
 ### 7. Classes and Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-classes-and-objects?u=76281980)
@@ -4163,7 +4160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (15), function (9), let (6), class, (6), interface (5)
+> **Frameworks & Libraries:** data (9)
 > **Definitions:** is called (3), is an  (1)
 > **File Paths:** class.cpp (1)
 > **CLI Commands:** make (1)
@@ -4250,7 +4247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (12), private (9), public (6), function (5), class. (2)
+> **Frameworks & Libraries:** data (9)
 > **Definitions:** is a  (2), is called (1), known as (1)
 > **File Paths:** struct-class.cpp (1), accessors.cpp (1)
 > **CLI Commands:** make (1)
@@ -4351,7 +4348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (22), function (5), class. (2), private (2), this. (2)
+> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (1), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** getval (4), setval (2)
 > **Definitions:** is a  (2), in other words (2), is called (2)
 > **CLI Commands:** make (2)
@@ -4527,7 +4524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (4), type, (3), class. (3), let (3), private (2)
+> **Frameworks & Libraries:** data (4), next (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), stands for (1), is called (1)
 > **Code Identifiers:** clone_prefix (2), a_type (1), a_name (1)
 > **Prerequisites:** set up (1), initialization (1)
@@ -4673,8 +4670,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), functional (1), data (1)
 > **Definitions:** is a  (6), is called (1), means that (1), is an  (1)
-> **Code Keywords:** function (2), const (1), this, (1), let (1), this. (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** for example (2)
 > **Code Identifiers:** raw_str (1)
@@ -4805,7 +4802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), let (4), this, (3), class, (2), this. (2)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the last (1), we discussed (1)
@@ -4841,9 +4838,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **File Paths:** challenge.cpp (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [educator] (1)
@@ -4878,7 +4875,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4886,7 +4882,7 @@ created: 2026-04-29
 
 ### 8. Templates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/understanding-templates?u=76281980)
@@ -4939,8 +4935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generic Programming]] (4), feature (2), generic (2), data (1), [[Programming]] (1)
 > **Exercise Files:** template (10)
-> **Code Keywords:** function (2), type. (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Env Vars:** stl (1)
 > **Analogies:** just like (1)
@@ -5065,7 +5061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), type. (4), const (3), this, (3), this. (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Tokens]] (1), [[Generic Programming]] (1)
 > **Exercise Files:** template (19), exercise files (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
 > **File Paths:** template-function.cpp (1)
@@ -5224,7 +5220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), throw (3), let (2), static (2), type. (2)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (5), means that (2), is an  (1)
 > **Exercise Files:** template (5), exercise files (1)
 > **Env Vars:** stl (2), lifo (1)
@@ -5253,7 +5249,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), type. (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [educator] (1)
@@ -5298,15 +5293,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generic Programming]] (1)
 > **Exercise Files:** template (3), exercise files (1)
-> **Code Keywords:** function (3)
 > **Speakers:** - the (1)
 > **Non-Speech:** (bright music) (1)
 
 
 ### 9. Standard Template Library
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the STL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-the-stl?u=76281980)
@@ -5351,6 +5346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Algorithms]] (1), [[Programming]] (1)
 > **Env Vars:** stl (6)
 > **Exercise Files:** template (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -5473,7 +5469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), this. (2), class. (1), type. (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** just like (3), think of it as (1)
 > **Env Vars:** sdl (2), std (1)
 > **Exercise Files:** template (2), exercise files (1)
@@ -5572,7 +5568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Env Vars:** stl (5)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** find (4)
@@ -5729,7 +5725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), this. (3), this, (3), type. (1), pass (1)
+> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (1), [[Internationalization]] (1)
 > **Exercise Files:** template (7), exercise files (1)
 > **Env Vars:** stl (4)
 > **Analogies:** just like (3)
@@ -5855,7 +5851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (4), this, (4), static (3), let (2), this. (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), prompt (1), next (1)
 > **Definitions:** is a  (5), is an  (2)
 > **File Paths:** iostream-formatting.cpp (1), iostream-file.cpp (1)
 > **Env Vars:** stl (1)
@@ -5898,7 +5894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** sku (1), stl (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **CLI Commands:** find (1)
@@ -5960,7 +5956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), function (1)
+> **Frameworks & Libraries:** data (2)
 > **File Paths:** 09-solution.cpp (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** stl (1)
@@ -5972,7 +5968,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/thank-you?u=76281980)
@@ -6007,7 +6003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), continue (2)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** sdl (1), stl (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)

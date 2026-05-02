@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analytics%20for%20Students%20(2022).md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Data moves a business forward
+  - [Data moves a business forward](#data-moves-a-business-forward)
 - [**1. The Power of Data**](#1-the-power-of-data) (3 videos)
-  - What is the value of data?
-  - The risk of leaning too much on data
-  - Combining data and intuition
+  - [What is the value of data?](#what-is-the-value-of-data)
+  - [The risk of leaning too much on data](#the-risk-of-leaning-too-much-on-data)
+  - [Combining data and intuition](#combining-data-and-intuition)
 - [**2. Framework to Solve Problems with Data**](#2-framework-to-solve-problems-with-data) (6 videos)
-  - Introduction to the framework
-  - Define the problem
-  - Identify the key performance indicators
-  - Data governance
-  - Data analysis
-  - Using data to inform business decisions
+  - [Introduction to the framework](#introduction-to-the-framework)
+  - [Define the problem](#define-the-problem)
+  - [Identify the key performance indicators](#identify-the-key-performance-indicators)
+  - [Data governance](#data-governance)
+  - [Data analysis](#data-analysis)
+  - [Using data to inform business decisions](#using-data-to-inform-business-decisions)
 - [**3. Analytics Foundations**](#3-analytics-foundations) (6 videos)
-  - Three stages of analysis
-  - Analyzing data with Excel
-  - The value of data visualization
-  - Data modeling
-  - The value of a dashboard
-  - Building an analytics infrastructure
+  - [Three stages of analysis](#three-stages-of-analysis)
+  - [Analyzing data with Excel](#analyzing-data-with-excel)
+  - [The value of data visualization](#the-value-of-data-visualization)
+  - [Data modeling](#data-modeling)
+  - [The value of a dashboard](#the-value-of-a-dashboard)
+  - [Building an analytics infrastructure](#building-an-analytics-infrastructure)
 - [**4. Types of Data Sources**](#4-types-of-data-sources) (7 videos)
-  - Data source map
-  - Internal vs. external data sources
-  - Sales data
-  - Marketing data
-  - Cost data
-  - Psychographic data
-  - Competitive intelligence
+  - [Data source map](#data-source-map)
+  - [Internal vs. external data sources](#internal-vs-external-data-sources)
+  - [Sales data](#sales-data)
+  - [Marketing data](#marketing-data)
+  - [Cost data](#cost-data)
+  - [Psychographic data](#psychographic-data)
+  - [Competitive intelligence](#competitive-intelligence)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your path forward
+  - [Your path forward](#your-path-forward)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data moves a business forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980)
@@ -118,13 +118,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (6), [[Analytics]] (4), [[Microsoft Products|Products]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - data (1)
 
 
 ### 1. The Power of Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the value of data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/what-is-the-value-of-data?u=76281980)
@@ -173,9 +174,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), product (2), [[Google]] (2), [[Analytics]] (1), [[Search]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### The risk of leaning too much on data
@@ -215,7 +216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (11), database (2), business (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -250,7 +251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (11)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
@@ -259,7 +260,7 @@ created: 2026-04-29
 
 ### 2. Framework to Solve Problems with Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980)
@@ -332,8 +333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), next (3), business (1), [[Security]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (4), known as (1), short for (1)
-> **Code Keywords:** let (3), finally, (2)
 > **Env Vars:** kpi (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -389,9 +390,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (1), product (1), [[Hardware]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Identify the key performance indicators
@@ -463,10 +464,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), product (5), [[Microsoft Products|Products]] (1), hit (1), [[Sales Analysis]] (1)
 > **Env Vars:** kpi (5)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -523,10 +524,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Sales Analysis]] (1), [[Marketing Strategy]] (1), business (1)
 > **Definitions:** is a  (4), is called (2), defined as (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - [instructor] (1)
 
@@ -583,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (5), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1), [[Tableau]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -637,7 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), raise (1), require (1), continue (1), case, (1)
+> **Frameworks & Libraries:** data (10), business (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -645,7 +646,7 @@ created: 2026-04-29
 
 ### 3. Analytics Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three stages of analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980)
@@ -706,8 +707,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (12), data (7), [[Predictive Modeling]] (3), [[Big Data]] (1), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** sku (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -763,6 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (8), [[Microsoft]] (1), database (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -832,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), finally, (1)
+> **Frameworks & Libraries:** data (23), business (4), [[Tableau]] (1), power (1), bi (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
@@ -889,10 +891,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Microsoft Products|Products]] (2), product (2), next (1), cloud (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -943,6 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Dashboards]] (2), business (2), [[Tableau]] (1), power (1)
 > **Analogies:** for example (2), such as (1), kind of like (1)
 > **Env Vars:** kpi (3)
 > **Definitions:** is a  (3)
@@ -1006,15 +1009,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Analytics]] (4), business (3), [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Types of Data Sources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data source map
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980)
@@ -1111,9 +1114,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), business (5), next (1), [[Sustainable Business]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (2), is an  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** picture (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1188,8 +1191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), business (4)
 > **Analogies:** imagine (1), for example (1), just like (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1249,6 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), business (3), [[Sales Analysis]] (1), [[Microsoft Products|Products]] (1), product (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** crm (2)
 > **UI Navigation:** dropdown (2)
@@ -1301,6 +1305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), product (2), [[Lead Generation]] (2), business (1), [[Google]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -1365,7 +1370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (5), business (2), product (2), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1427,7 +1432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), require (1)
+> **Frameworks & Libraries:** data (7), product (4), [[Microsoft Products|Products]] (1), [[Analytics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -1487,16 +1492,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), business (3), next (2), [[Pricing Strategy]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** private (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your path forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980)
@@ -1531,8 +1536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (8), business (3), data (2), [[LinkedIn]] (2), [[Google]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** class. (1)
 > **URLs:** [silvertoneanalytics.com](https://silvertoneanalytics.com) (1)
 > **Definitions:** is called (1)
 > **Speakers:** - congratulations (1)

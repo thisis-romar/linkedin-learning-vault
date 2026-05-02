@@ -33,7 +33,7 @@ tags:
   - skill/business-process-management
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20Foundations-%20Business%20Process%20Modeling.md)
@@ -52,37 +52,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Introducing common business modeling tools
-  - Define process modeling
-  - Overview of modeling tools
-  - Modeling consistency and standards
+  - [Introducing common business modeling tools](#introducing-common-business-modeling-tools)
+  - [Define process modeling](#define-process-modeling)
+  - [Overview of modeling tools](#overview-of-modeling-tools)
+  - [Modeling consistency and standards](#modeling-consistency-and-standards)
 - [**1. Create a Context Diagram**](#1-create-a-context-diagram) (4 videos)
-  - The purpose of the context diagram
-  - Context diagram features
-  - How to create a context diagram
-  - Pitfalls of context diagrams
+  - [The purpose of the context diagram](#the-purpose-of-the-context-diagram)
+  - [Context diagram features](#context-diagram-features)
+  - [How to create a context diagram](#how-to-create-a-context-diagram)
+  - [Pitfalls of context diagrams](#pitfalls-of-context-diagrams)
 - [**2. Create a Functional Flow Diagram**](#2-create-a-functional-flow-diagram) (4 videos)
-  - The purpose of the functional flow diagram
-  - Functional flow diagram features
-  - How to create a functional flow diagram
-  - Pitfalls of functional flow diagrams
+  - [The purpose of the functional flow diagram](#the-purpose-of-the-functional-flow-diagram)
+  - [Functional flow diagram features](#functional-flow-diagram-features)
+  - [How to create a functional flow diagram](#how-to-create-a-functional-flow-diagram)
+  - [Pitfalls of functional flow diagrams](#pitfalls-of-functional-flow-diagrams)
 - [**3. Create a Cross-Functional Flow Diagram**](#3-create-a-cross-functional-flow-diagram) (4 videos)
-  - The purpose of the cross-functional flow diagram
-  - Cross-functional flow diagram features
-  - How to create a cross-functional flow diagram
-  - Pitfalls of cross-functional diagrams
+  - [The purpose of the cross-functional flow diagram](#the-purpose-of-the-cross-functional-flow-diagram)
+  - [Cross-functional flow diagram features](#cross-functional-flow-diagram-features)
+  - [How to create a cross-functional flow diagram](#how-to-create-a-cross-functional-flow-diagram)
+  - [Pitfalls of cross-functional diagrams](#pitfalls-of-cross-functional-diagrams)
 - [**4. Create a Flowchart Diagram**](#4-create-a-flowchart-diagram) (4 videos)
-  - The purpose of the flowchart diagram
-  - Flowchart diagram features
-  - How to create a flowchart diagram
-  - Pitfalls of flowchart diagrams
+  - [The purpose of the flowchart diagram](#the-purpose-of-the-flowchart-diagram)
+  - [Flowchart diagram features](#flowchart-diagram-features)
+  - [How to create a flowchart diagram](#how-to-create-a-flowchart-diagram)
+  - [Pitfalls of flowchart diagrams](#pitfalls-of-flowchart-diagrams)
 - [**Put It All Together**](#put-it-all-together) (2 videos)
-  - How to determine which diagram to use and why
-  - Put modeling into action
+  - [How to determine which diagram to use and why](#how-to-determine-which-diagram-to-use-and-why)
+  - [Put modeling into action](#put-modeling-into-action)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing common business modeling tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/introducing-common-business-modeling-tools?u=76281980)
@@ -109,6 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 > **Speakers:** - a (1)
@@ -170,7 +171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** business (10)
 > **Analogies:** picture (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - have (1)
@@ -246,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** functional (12), business (5), next (2), [[Prototyping]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** picture (1)
 > **Speakers:** - throughout (1)
@@ -306,6 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), functional (3), [[Microsoft]] (1), next (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** uml (1), bpmn (1)
 > **Definitions:** is a  (2)
@@ -315,7 +317,7 @@ created: 2026-04-29
 
 ### 1. Create a Context Diagram
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of the context diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-context-diagram?u=76281980)
@@ -384,9 +386,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (1), next (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - have (1)
 
@@ -481,7 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), pass (1)
+> **Frameworks & Libraries:** business (4), data (2), [[Microsoft Products|Products]] (1), functional (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
@@ -561,6 +563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), game (1)
 > **Analogies:** picture (1), for instance (1), such as (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** template (1)
@@ -626,7 +629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** next (3), functional (2), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Best Practices:** best practice (1)
@@ -636,7 +639,7 @@ created: 2026-04-29
 
 ### 2. Create a Functional Flow Diagram
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of the functional flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-functional-flow-diagram?u=76281980)
@@ -689,8 +692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (17), next (2), data (1), management (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** pass (1), function (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
@@ -753,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (15), data (2), teams (1), [[Microsoft Products|Products]] (1), next (1)
 > **Definitions:** is a  (2), defined as (1)
-> **Code Keywords:** function (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - elegance (1)
 
@@ -827,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), function (1)
+> **Frameworks & Libraries:** functional (9), next (1), product (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - so (1)
@@ -887,7 +890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), this, (1), function (1), self (1)
+> **Frameworks & Libraries:** functional (15), data (1), next (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), warning (1)
 > **UI Navigation:** open the (1)
@@ -897,7 +900,7 @@ created: 2026-04-29
 
 ### 3. Create a Cross-Functional Flow Diagram
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of the cross-functional flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-cross-functional-flow-diagram?u=76281980)
@@ -950,6 +953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (11), hit (2), next (2), game (1), business (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - i (1)
 
@@ -1046,8 +1050,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (11), next (4), parallel (1), feature (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** just like (1), for instance (1)
 > **Speakers:** - swimmers (1)
@@ -1129,9 +1133,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (11), business (2), [[Jigsaw]] (1), next (1)
 > **Analogies:** just like (1), picture (1), such as (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** function (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** general rule (1)
@@ -1229,7 +1233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), from. (1), finally, (1)
+> **Frameworks & Libraries:** functional (7), business (4), next (1), [[Version Control]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** general rule (1), rule of thumb (1), the key is (1)
@@ -1239,7 +1243,7 @@ created: 2026-04-29
 
 ### 4. Create a Flowchart Diagram
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of the flowchart diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-flowchart-diagram?u=76281980)
@@ -1306,9 +1310,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (4), business (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is called (1)
-> **Code Keywords:** self (1)
 > **Env Vars:** krac (1)
 > **Analogies:** just like (1)
 > **Speakers:** - have (1)
@@ -1382,8 +1386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (6)
 > **Definitions:** means that (1), in other words (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - flowchart (1)
@@ -1465,7 +1469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), raise (2), this. (1), this, (1), continue (1)
+> **Frameworks & Libraries:** functional (5)
 > **Definitions:** known as (1), means that (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - i (1)
@@ -1545,15 +1549,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (6), business (1), next (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** for. (1)
 > **Analogies:** just like (1)
 > **Speakers:** - i (1)
 
 
 ### Put It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine which diagram to use and why
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-determine-which-diagram-to-use-and-why?u=76281980)
@@ -1614,8 +1618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (7), business (2), [[Microsoft Products|Products]] (1), product (1), management (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** picture (1), imagine (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - start (1)
@@ -1689,7 +1693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** business (1), functional (1), next (1), [[Organizational Change Management]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** sme (1)

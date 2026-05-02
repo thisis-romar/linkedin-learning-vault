@@ -31,7 +31,7 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Privacy%20in%20the%20New%20World%20of%20Work.md)
@@ -50,25 +50,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Privacy considerations in the age of COVID
+  - [Privacy considerations in the age of COVID](#privacy-considerations-in-the-age-of-covid)
 - [**1. Protecting Your Privacy During COVID**](#1-protecting-your-privacy-during-covid) (3 videos)
-  - What is the risk?
-  - What technologies are used to track us?
-  - What can you do to protect your privacy?
+  - [What is the risk?](#what-is-the-risk)
+  - [What technologies are used to track us?](#what-technologies-are-used-to-track-us)
+  - [What can you do to protect your privacy?](#what-can-you-do-to-protect-your-privacy)
 - [**2. Protecting Privacy in the New WFH World**](#2-protecting-privacy-in-the-new-wfh-world) (3 videos)
-  - Privacy risks and solutions for employees during COVID
-  - Protecting customer privacy when working from home
-  - Keeping security in mind when working from home
+  - [Privacy risks and solutions for employees during COVID](#privacy-risks-and-solutions-for-employees-during-covid)
+  - [Protecting customer privacy when working from home](#protecting-customer-privacy-when-working-from-home)
+  - [Keeping security in mind when working from home](#keeping-security-in-mind-when-working-from-home)
 - [**3. How to Protect Your Employees' Privacy During COVID**](#3-how-to-protect-your-employees-privacy-during-covid) (3 videos)
-  - Protecting your privacy when it's time to go back to the office
-  - Bringing people back to the office
-  - Maintaining privacy once you are back in the office
+  - [Protecting your privacy when it's time to go back to the office](#protecting-your-privacy-when-its-time-to-go-back-to-the-office)
+  - [Bringing people back to the office](#bringing-people-back-to-the-office)
+  - [Maintaining privacy once you are back in the office](#maintaining-privacy-once-you-are-back-in-the-office)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about privacy in the age of COVID
+  - [Learning more about privacy in the age of COVID](#learning-more-about-privacy-in-the-age-of-covid)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Privacy considerations in the age of COVID
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980)
@@ -91,8 +91,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (8), data (3), [[LinkedIn]] (1), [[Nonprofit Organizations]] (1), [[Security]] (1)
 > **Env Vars:** covid (2), gps (1)
-> **Code Keywords:** private (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Protecting Your Privacy During COVID
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the risk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980)
@@ -142,8 +142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (4), data (4), [[Public Health]] (2), [[Interviewing]] (1), [[Google]] (1)
 > **Env Vars:** covid (5)
-> **Code Keywords:** public (3), private (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - over (1)
@@ -187,8 +187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (5), data (2), [[Tokens]] (1), api (1), [[Google]] (1)
 > **Env Vars:** covid (3), gps (1), api (1)
-> **Code Keywords:** let (1), self (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
 > **Cross-References:** in the next (1)
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), raise (1), finally, (1)
+> **Frameworks & Libraries:** data (19), [[Privacy]] (5), [[Public Health]] (3)
 > **Env Vars:** covid (7)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (2)
@@ -257,7 +257,7 @@ created: 2026-04-29
 
 ### 2. Protecting Privacy in the New WFH World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Privacy risks and solutions for employees during COVID
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980)
@@ -304,7 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), web (1), hr (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** covid (1), gps (1), byod (1)
 > **Analogies:** such as (3)
 > **Speakers:** - for (1)
@@ -364,8 +364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Privacy]] (3), [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (8)
-> **Code Keywords:** private (2), public (1), finally, (1)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** go back to (1)
 > **Best Practices:** make sure to (1)
@@ -422,9 +422,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (3), [[Security]] (2), data (2), [[Phishing]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** vpn (3), covid (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** public (1), private (1), let (1)
 > **Best Practices:** remember to (1), make sure to (1)
 > **Prerequisites:** set up (1), make sure you have (1)
 > **Analogies:** for example (1)
@@ -434,7 +434,7 @@ created: 2026-04-29
 
 ### 3. How to Protect Your Employees' Privacy During COVID
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting your privacy when it's time to go back to the office
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980)
@@ -491,7 +491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), private (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Office|Office]] (3), web (1), [[Forms]] (1), hr (1)
 > **Env Vars:** covid (4)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -558,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), self (1), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Privacy]] (4), hr (2), [[Security]] (1)
 > **Env Vars:** covid (4), ceo (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** good practice (1)
@@ -606,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), public (1), finally, (1), private (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Security]] (2), ai (1), application (1), data (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** covid (3)
 > **Analogies:** such as (2), similar to (1)
@@ -616,7 +616,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about privacy in the age of COVID
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980)
@@ -635,6 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (5), data (1), [[LinkedIn]] (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - thank (1)
 

@@ -32,7 +32,7 @@ tags:
   - skill/r-programming-language
   - skill/rstudio
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Your%20First%20Project%20in%20R.md)
@@ -51,45 +51,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introduction to R
-  - What you should know
-  - RStudio
+  - [Introduction to R](#introduction-to-r)
+  - [What you should know](#what-you-should-know)
+  - [RStudio](#rstudio)
 - [**1. Exploring Customer Data**](#1-exploring-customer-data) (9 videos)
-  - Introducing Red30 Tech
-  - Understanding Red30 Tech data
-  - How to perform basic descriptive analysis
-  - How to find top customers
-  - How to better understand customers
-  - How to analyze sales employees
-  - How to determine the best product category
-  - Challenge: Customer longevity analysis
-  - Solution: Customer longevity analysis
+  - [Introducing Red30 Tech](#introducing-red30-tech)
+  - [Understanding Red30 Tech data](#understanding-red30-tech-data)
+  - [How to perform basic descriptive analysis](#how-to-perform-basic-descriptive-analysis)
+  - [How to find top customers](#how-to-find-top-customers)
+  - [How to better understand customers](#how-to-better-understand-customers)
+  - [How to analyze sales employees](#how-to-analyze-sales-employees)
+  - [How to determine the best product category](#how-to-determine-the-best-product-category)
+  - [Challenge: Customer longevity analysis](#challenge-customer-longevity-analysis)
+  - [Solution: Customer longevity analysis](#solution-customer-longevity-analysis)
 - [**2. Classification Analysis**](#2-classification-analysis) (10 videos)
-  - Understanding classification analysis
-  - How to prepare data for classification
-  - How to run a decision tree algorithm
-  - How to run a random forest algorithm
-  - How to run a support vector machine algorithm
-  - Understanding summary metrics
-  - How to decide which algorithm is best
-  - How to improve the chosen algorithm
-  - Challenge: Explore the chosen algorithm
-  - Solution: Explore the chosen algorithm
+  - [Understanding classification analysis](#understanding-classification-analysis)
+  - [How to prepare data for classification](#how-to-prepare-data-for-classification)
+  - [How to run a decision tree algorithm](#how-to-run-a-decision-tree-algorithm)
+  - [How to run a random forest algorithm](#how-to-run-a-random-forest-algorithm)
+  - [How to run a support vector machine algorithm](#how-to-run-a-support-vector-machine-algorithm)
+  - [Understanding summary metrics](#understanding-summary-metrics)
+  - [How to decide which algorithm is best](#how-to-decide-which-algorithm-is-best)
+  - [How to improve the chosen algorithm](#how-to-improve-the-chosen-algorithm)
+  - [Challenge: Explore the chosen algorithm](#challenge-explore-the-chosen-algorithm)
+  - [Solution: Explore the chosen algorithm](#solution-explore-the-chosen-algorithm)
 - [**3. Cluster Analysis**](#3-cluster-analysis) (8 videos)
-  - Understanding cluster analysis
-  - How to prepare data for clustering
-  - How to run a k-means algorithm
-  - How to run a hierarchical clustering algorithm
-  - How to run a GMM clustering algorithm
-  - Evaluating cluster results
-  - Challenge: Clustering late payment customers
-  - Solution: Clustering late payment customers
+  - [Understanding cluster analysis](#understanding-cluster-analysis)
+  - [How to prepare data for clustering](#how-to-prepare-data-for-clustering)
+  - [How to run a k-means algorithm](#how-to-run-a-k-means-algorithm)
+  - [How to run a hierarchical clustering algorithm](#how-to-run-a-hierarchical-clustering-algorithm)
+  - [How to run a GMM clustering algorithm](#how-to-run-a-gmm-clustering-algorithm)
+  - [Evaluating cluster results](#evaluating-cluster-results)
+  - [Challenge: Clustering late payment customers](#challenge-clustering-late-payment-customers)
+  - [Solution: Clustering late payment customers](#solution-clustering-late-payment-customers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/introduction-to-r?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (5), next (1), career (1)
 > **Speakers:** - here (1)
 > **Non-Speech:** (gentle music) (1)
 
@@ -135,7 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (2), application (1), [[GitHub]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
@@ -288,8 +288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (8), [[RStudio]] (8), [[Windows]] (3), [[Programming]] (2), [[Linux]] (1)
 > **UI Navigation:** go to (8), click on (3), scroll down (1), select the (1)
-> **Code Keywords:** let (5), this. (2), this, (2), continue (1), from. (1)
 > **Exercise Files:** github repo (6), zip file (2), download the (2)
 > **Tools:** github (8), terminal (1)
 > **CLI Commands:** make (5), unzip (1)
@@ -300,7 +300,7 @@ created: 2026-04-29
 
 ### 1. Exploring Customer Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Red30 Tech
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980)
@@ -339,8 +339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), business (3), cloud (2), data (1), [[Security]] (1)
 > **UI Navigation:** navigate to (3), click on (1), scroll down (1), go to (1)
-> **Code Keywords:** let (2), for. (1)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** url (1), aec (1)
 > **URLs:** [red30tech.com](https://red30tech.com) (1)
@@ -444,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), case, (2), finally, (2), from. (1)
+> **Frameworks & Libraries:** data (13), product (5), [[Microsoft Excel|Excel]] (4), next (4), [[LinkedIn]] (1)
 > **Prerequisites:** install (9)
 > **UI Navigation:** go to (2)
 > **Warnings:** note that (2)
@@ -548,7 +548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (9), function (6), let (6), finally, (2), continue (1)
+> **Frameworks & Libraries:** data (22), [[Statistics]] (2), next (1)
 > **Warnings:** note that (5)
 > **Prerequisites:** before you begin (2), install (2), you'll need (1)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
@@ -650,7 +650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (7), let (3), function (2), continue (1), this. (1)
+> **Frameworks & Libraries:** data (10), [[Data Manipulation]] (2), business (1), [[Jenkins]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** llc (2), dli (1)
 > **Prerequisites:** install (2), make sure you have (1)
@@ -735,7 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), this, (5), type. (2), finally, (1)
+> **Frameworks & Libraries:** data (5), product (3), next (2), business (2), database (1)
 > **Analogies:** for example (2), similar to (1)
 > **Code Identifiers:** group_by (1), ebooks (1)
 > **CLI Commands:** make (1)
@@ -838,7 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (10), function (6), this. (2), from. (1)
+> **Frameworks & Libraries:** data (4), product (3), next (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** true (2), red30 (1)
 > **Code Identifiers:** group_by (1), mean_sales (1)
@@ -939,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), this, (2), type. (2), type, (1)
+> **Frameworks & Libraries:** product (20), data (4), next (3), [[Microsoft Products|Products]] (2), business (1)
 > **Code Identifiers:** ebooks (8)
 > **CLI Commands:** make (3), cat (1)
 > **Analogies:** such as (1)
@@ -985,7 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (3), next (2), business (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** dplyr (2)
 > **Cross-References:** in the next (1)
@@ -1055,7 +1055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), function (3), let (2), this. (2), finally, (1)
+> **Frameworks & Libraries:** next (1), data (1), [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** dli (1)
@@ -1065,7 +1065,7 @@ created: 2026-04-29
 
 ### 2. Classification Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding classification analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980)
@@ -1146,7 +1146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (3), this, (2)
+> **Frameworks & Libraries:** [[Algorithms]] (10), data (10), [[Decision Trees]] (7), node (3), [[Programming]] (1)
 > **CLI Commands:** node (3), find (1)
 > **Definitions:** known as (2), is called (1), is a  (1)
 > **Env Vars:** svm (1)
@@ -1264,7 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this, (3), this. (1), class, (1), finally, (1)
+> **Frameworks & Libraries:** data (32), [[Algorithms]] (4), next (2), [[Feature Engineering]] (1)
 > **UI Navigation:** scroll down (4), select the (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** sales_subset (4)
@@ -1404,8 +1404,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), next (6), [[Algorithms]] (2), [[RStudio]] (1)
 > **Code Identifiers:** decision_tree (14), df_recipe (2), tree_wf (2), predresults (2), test_pred_tree (2)
-> **Code Keywords:** function (8), let (6), finally, (4), this, (2), from. (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (2)
 > **Versions:** 1.5 (1)
@@ -1498,7 +1498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), finally, (4), let (3), this, (3), from. (1)
+> **Frameworks & Libraries:** data (10), next (2), [[Decision Trees]] (1)
 > **Code Identifiers:** predresults (3), df_recipe (2), rand_forest (2), tree_rand_forest (2), test_pred_rf (2)
 > **Prerequisites:** you'll need (2), install (1)
 > **Cross-References:** previous video (1), in the last (1)
@@ -1570,7 +1570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), finally, (3), case, (2), switch (1)
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (2), next (1), [[Neural Networks]] (1)
 > **Env Vars:** svm (4)
 > **Definitions:** is a  (2), known as (1)
 > **Code Identifiers:** test_pred_svm (2)
@@ -1630,7 +1630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), fn (1), finally, (1)
+> **Frameworks & Libraries:** next (3), [[Algorithms]] (2), [[Decision Trees]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -1703,8 +1703,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (4), data (4), next (3)
 > **Code Identifiers:** test_pred_tree (2), dt_metrics (2), test_pred_rf (2), conf_mat (1), metric_set (1)
-> **Code Keywords:** this, (4), let (2), function (2)
 > **Env Vars:** svm (4)
 > **Versions:** 0.704 (1), 0.6945 (1), 0.713 (1)
 > **UI Navigation:** scroll down (2)
@@ -1831,7 +1831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (3), finally, (3), let (2)
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (2), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** svm (10)
 > **Versions:** 0.01 (3), 0.1 (2), 0.5 (1)
 > **Code Identifiers:** new_classifier (1), f_meas (1)
@@ -1883,6 +1883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Algorithms]] (1)
 > **Env Vars:** svm (3), obj (1)
 > **Versions:** 0.01 (1), 0.1 (1), 0.5 (1)
 > **CLI Commands:** make (1)
@@ -1964,8 +1965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Algorithms]] (1)
 > **Env Vars:** svm (8)
-> **Code Keywords:** finally, (3), let (1), type = (1), this, (1), continue (1)
 > **Versions:** 0.01 (3), 0.1 (1), 0.5 (1)
 > **Code Identifiers:** test_pred_svm (1), test_pred_svm_new (1)
 > **Analogies:** such as (2)
@@ -1976,7 +1977,7 @@ created: 2026-04-29
 
 ### 3. Cluster Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cluster analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980)
@@ -2051,9 +2052,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Algorithms]] (8), next (2), [[Probability]] (1)
 > **Env Vars:** aic (7), bic (6), wss (2), gmm (2)
 > **Definitions:** known as (5), is a  (4)
-> **Code Keywords:** let (3), this, (1)
 > **Analogies:** such as (1), similar to (1), just like (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
@@ -2140,7 +2141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), this, (3), finally, (2)
+> **Frameworks & Libraries:** data (20), next (2), [[Algorithms]] (2)
 > **Code Identifiers:** sales_subset (4), dummy_var (2), scaled_data (2), dummyvars (1)
 > **Prerequisites:** install (3), you'll need (1)
 > **CLI Commands:** make (2), find (1)
@@ -2256,7 +2257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (6), function (5), finally, (4), let (2), from. (1)
+> **Frameworks & Libraries:** data (14), next (5)
 > **Versions:** 0.14 (2), 14.1 (1), 0.124 (1), 0.15 (1)
 > **Code Identifiers:** scaled_data (2), fviz_nbclust (1), fvis_silhouette (1)
 > **Definitions:** known as (1)
@@ -2364,7 +2365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7), this, (6), this. (1), super (1)
+> **Frameworks & Libraries:** data (15)
 > **Code Identifiers:** distance_matrix (2), scaled_data (2), sub_grp (2), distance_mat (1)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 0.15 (1), 0.12 (1)
@@ -2512,7 +2513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this, (8), let (8), this. (2), finally, (2)
+> **Frameworks & Libraries:** data (16), next (2), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gmm (10), bic (8), aic (4)
 > **Code Identifiers:** gmm_cluster (7), scaled_data (5), final_data (4), opt_gmm (1), fviz_silhouette (1)
 > **Versions:** 0.03 (1), 0.15 (1), 0.14 (1), 0.1 (1)
@@ -2608,7 +2609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (6), this, (4), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (19)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** kms (1)
@@ -2661,6 +2662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (2), [[Algorithms]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** wss (1)
@@ -2762,7 +2764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), function (5), let (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** data (8), next (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** scaled_data (2), group_by (2), final_data (2), fviz_silhouette (1)
 > **Versions:** 0.15 (2), 13.3 (1), 0.16 (1)
 > **CLI Commands:** make (2)
@@ -2774,7 +2776,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/next-steps?u=76281980)
@@ -2797,7 +2799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), data (3), [[GitHub]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - that (1)

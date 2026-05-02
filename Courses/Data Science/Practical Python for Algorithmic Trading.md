@@ -32,7 +32,7 @@ tags:
   - skill/algorithmic-trading
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Practical%20Python%20for%20Algorithmic%20Trading.md)
@@ -51,43 +51,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Algorithmic trading using machine learning
-  - Maximize your learning
+  - [Algorithmic trading using machine learning](#algorithmic-trading-using-machine-learning)
+  - [Maximize your learning](#maximize-your-learning)
 - [**1. Working with Stock Market Data**](#1-working-with-stock-market-data) (2 videos)
-  - Download and export data
-  - Filter rows and create columns for trading strategies
+  - [Download and export data](#download-and-export-data)
+  - [Filter rows and create columns for trading strategies](#filter-rows-and-create-columns-for-trading-strategies)
 - [**2. Backtesting with Classification Models**](#2-backtesting-with-classification-models) (5 videos)
-  - Compute machine learning classification model
-  - First configurations of the strategy class
-  - Simulate the investment strategy step by step
-  - Run the backtest on the strategy
-  - Challenge: Backtest with other tickers
+  - [Compute machine learning classification model](#compute-machine-learning-classification-model)
+  - [First configurations of the strategy class](#first-configurations-of-the-strategy-class)
+  - [Simulate the investment strategy step by step](#simulate-the-investment-strategy-step-by-step)
+  - [Run the backtest on the strategy](#run-the-backtest-on-the-strategy)
+  - [Challenge: Backtest with other tickers](#challenge-backtest-with-other-tickers)
 - [**3. Backtesting with Regression Models**](#3-backtesting-with-regression-models) (4 videos)
-  - Compute machine learning regression model
-  - How to evaluate regression models
-  - Configure and run the backtest with the regression model
-  - How to interpret the backtesting dashboard
+  - [Compute machine learning regression model](#compute-machine-learning-regression-model)
+  - [How to evaluate regression models](#how-to-evaluate-regression-models)
+  - [Configure and run the backtest with the regression model](#configure-and-run-the-backtest-with-the-regression-model)
+  - [How to interpret the backtesting dashboard](#how-to-interpret-the-backtesting-dashboard)
 - [**4. Backtesting Optimization**](#4-backtesting-optimization) (4 videos)
-  - Optimizing strategy parameters
-  - Pandas reporting with heatmaps
-  - Smart optimization to save computing time
-  - Challenge: Optimization with other datasets
+  - [Optimizing strategy parameters](#optimizing-strategy-parameters)
+  - [Pandas reporting with heatmaps](#pandas-reporting-with-heatmaps)
+  - [Smart optimization to save computing time](#smart-optimization-to-save-computing-time)
+  - [Challenge: Optimization with other datasets](#challenge-optimization-with-other-datasets)
 - [**5. The Overfitting Problem in Backtesting**](#5-the-overfitting-problem-in-backtesting) (8 videos)
-  - Why machine learning models overfit the data
-  - How to train models within the backtest
-  - Challenge: Train test with other tickers
-  - Walk forward validation in machine learning
-  - Anchored walk forward validation in backtesting
-  - Create library for backtesting strategies
-  - Interpret reports from walk forward validation approaches
-  - Challenge: Walk forward with other tickers
+  - [Why machine learning models overfit the data](#why-machine-learning-models-overfit-the-data)
+  - [How to train models within the backtest](#how-to-train-models-within-the-backtest)
+  - [Challenge: Train test with other tickers](#challenge-train-test-with-other-tickers)
+  - [Walk forward validation in machine learning](#walk-forward-validation-in-machine-learning)
+  - [Anchored walk forward validation in backtesting](#anchored-walk-forward-validation-in-backtesting)
+  - [Create library for backtesting strategies](#create-library-for-backtesting-strategies)
+  - [Interpret reports from walk forward validation approaches](#interpret-reports-from-walk-forward-validation-approaches)
+  - [Challenge: Walk forward with other tickers](#challenge-walk-forward-with-other-tickers)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Course summary
-  - What's next
+  - [Course summary](#course-summary)
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Algorithmic trading using machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980)
@@ -108,8 +108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Algorithmic Trading]] (1), [[Feature Engineering]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Maximize your learning
@@ -175,8 +175,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[GitHub]] (1), application (1)
 > **CLI Commands:** python (3), find (3)
-> **Code Keywords:** while, (1), let (1)
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** github repo (1)
@@ -187,7 +187,7 @@ created: 2026-04-29
 
 ### 1. Working with Stock Market Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Download and export data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980)
@@ -292,8 +292,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Microsoft Excel|Excel]] (11), [[Microsoft]] (7), [[Python (Programming Language)|Python]] (4), [[Search]] (1)
 > **Env Vars:** csv (8), msft (3), btc_usd (2)
-> **Code Keywords:** let (5), function (3), this. (1), pass (1)
 > **CLI Commands:** python (4), make (1), find (1)
 > **Code Identifiers:** df_msft (2)
 > **UI Navigation:** go to (2)
@@ -402,8 +402,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), next (3), [[Microsoft]] (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** change_tomorrow (3), df_microsoft_linkedin (2), pct_change (2), change_tomorrow_direction (2), df_microsoft_linkedn (1)
-> **Code Keywords:** function (2), case, (1), this, (1), pass (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (2), in the last (1)
 > **Versions:** 26.2 (1), 1.5 (1)
@@ -414,7 +414,7 @@ created: 2026-04-29
 
 ### 2. Backtesting with Classification Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compute machine learning classification model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980)
@@ -565,7 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), pass (4), class, (2), this. (1)
+> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (4), find (3)
 > **Documentation:** the documentation (2)
 > **UI Navigation:** go to (2)
@@ -646,8 +646,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (3), [[Microsoft]] (1)
 > **Code Identifiers:** model_dt (3), df_explanatory (2), classificationup (1), explanatory_today (1)
-> **Code Keywords:** function (3), let (1), class. (1), continue (1)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
@@ -727,8 +727,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** already_bought (4), buy_sell (1), buy_sell_track (1)
-> **Code Keywords:** let (3), this. (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Run the backtest on the strategy
@@ -796,7 +796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), function (3), class. (2), pass (2), let (1)
+> **Frameworks & Libraries:** data (4), next (1), [[Microsoft]] (1)
 > **Code Identifiers:** df_explanatory (3), tomorrow_direction (1)
 > **Cross-References:** later in (1)
 > **Documentation:** the documentation (1)
@@ -876,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), finally, (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Documentation:** the documentation (2)
 > **Analogies:** for example (2)
 > **Env Vars:** html (1)
@@ -888,7 +888,7 @@ created: 2026-04-29
 
 ### 3. Backtesting with Regression Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compute machine learning regression model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-regression-model?u=76281980)
@@ -939,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), function (1), pass (1)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** change_tomorrow (1), y_pred (1), model_dt (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1015,8 +1015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 1.2 (4), 2.4 (1)
-> **Code Keywords:** continue (1), let (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** model_dt_regression (1)
 > **Env Vars:** pkl (1)
@@ -1064,7 +1064,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (1), pass (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1133,8 +1132,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft]] (1), [[LinkedIn]] (1), next (1), [[HTML]] (1)
 > **UI Navigation:** go to (2), click on (1), open the (1)
-> **Code Keywords:** let (1), function (1)
 > **Versions:** 1.5 (1), 31.3 (1)
 > **Definitions:** in other words (1), is a  (1)
 > **File Paths:** classification.html (1)
@@ -1143,7 +1142,7 @@ created: 2026-04-29
 
 ### 4. Backtesting Optimization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing strategy parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/optimizing-strategy-parameters?u=76281980)
@@ -1230,7 +1229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), class, (4), let (2), class. (2), self (2)
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -1271,7 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** data (3), [[Programming]] (1)
 > **Code Identifiers:** reset_index (1), background_gradient (1)
 > **Env Vars:** dff (2)
 > **CLI Commands:** make (1)
@@ -1328,7 +1327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), function (1)
+> **Frameworks & Libraries:** [[Search]] (7), data (3)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -1396,7 +1395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), class, (3), self (3), let (2), class. (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Zoom]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** download the (1)
@@ -1405,7 +1404,7 @@ created: 2026-04-29
 
 ### 5. The Overfitting Problem in Backtesting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why machine learning models overfit the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980)
@@ -1484,8 +1483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** y_pred (4), mean_squared_error (2), y_true (1), x_text (1)
-> **Code Keywords:** let (2), function (2), module (1), case, (1)
 > **CLI Commands:** python (1)
 > **Versions:** 0.73 (1)
 > **Documentation:** the documentation (1)
@@ -1533,7 +1532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), class. (2), self (1), pass (1), return. (1)
+> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -1587,7 +1586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case, (2), let (1)
+> **Frameworks & Libraries:** data (6), next (2), [[Algorithms]] (1)
 > **UI Navigation:** select the (2), in the sidebar (1)
 > **Code Identifiers:** model_selection (1), train_test_split (1)
 > **Env Vars:** meta (1)
@@ -1719,7 +1718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), class, (2), pass (1), continue (1)
+> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (6), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** python (6), make (1)
 > **Versions:** 9.4 (1), 5.3 (1), 13.38 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1819,7 +1818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), let (4), class, (3), class. (2), pass (2)
+> **Frameworks & Libraries:** data (9), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** means that (1), in other words (1), is a  (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** select the (1)
@@ -1872,7 +1871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (1), function (1), pass (1), class, (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** good practice (1)
@@ -1895,6 +1894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -1982,7 +1982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), function (3), class. (1), let (1)
+> **Frameworks & Libraries:** next (3), data (2)
 > **Env Vars:** mse (3)
 > **Code Identifiers:** y_true (1), y_pred (1)
 > **Documentation:** the documentation (2)
@@ -1994,7 +1994,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980)
@@ -2105,7 +2105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), function (3), let (2), self (2), finally, (2)
+> **Frameworks & Libraries:** data (14), [[Algorithms]] (5), [[Python (Programming Language)|Python]] (4), next (2), [[Microsoft]] (1)
 > **CLI Commands:** python (4)
 > **Analogies:** for example (2), such as (1)
 > **File Paths:** backtesting.py (1), strategies.py (1)
@@ -2141,8 +2141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1), continue (1)
 > **File Paths:** backtesting.py (1)
 > **Definitions:** is an  (1)
 > **Warnings:** watch out (1)

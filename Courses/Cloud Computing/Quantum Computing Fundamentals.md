@@ -30,7 +30,7 @@ tags:
   - topic/security
   - skill/quantum-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Quantum%20Computing%20Fundamentals.md)
@@ -49,81 +49,81 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Learn quantum computing
-  - What you should know
-  - Qiskit and GitHub Codespaces
-  - Why quantum computing?
+  - [Learn quantum computing](#learn-quantum-computing)
+  - [What you should know](#what-you-should-know)
+  - [Qiskit and GitHub Codespaces](#qiskit-and-github-codespaces)
+  - [Why quantum computing?](#why-quantum-computing)
 - [**1. Quantum Bits**](#1-quantum-bits) (12 videos)
-  - Classical bits vs. quantum bits
-  - Measuring a qubit
-  - Measure a qubit with Qiskit
-  - Overview of vectors
-  - Overview of complex numbers
-  - Represent qubits as vectors
-  - Represent qubits on the Bloch sphere
-  - State vectors and Bloch spheres with Qiskit
-  - Build a model Bloch sphere
-  - Global and relative phase
-  - Challenge: Create a quantum circuit
-  - Solution: Create a quantum circuit
+  - [Classical bits vs. quantum bits](#classical-bits-vs-quantum-bits)
+  - [Measuring a qubit](#measuring-a-qubit)
+  - [Measure a qubit with Qiskit](#measure-a-qubit-with-qiskit)
+  - [Overview of vectors](#overview-of-vectors)
+  - [Overview of complex numbers](#overview-of-complex-numbers)
+  - [Represent qubits as vectors](#represent-qubits-as-vectors)
+  - [Represent qubits on the Bloch sphere](#represent-qubits-on-the-bloch-sphere)
+  - [State vectors and Bloch spheres with Qiskit](#state-vectors-and-bloch-spheres-with-qiskit)
+  - [Build a model Bloch sphere](#build-a-model-bloch-sphere)
+  - [Global and relative phase](#global-and-relative-phase)
+  - [Challenge: Create a quantum circuit](#challenge-create-a-quantum-circuit)
+  - [Solution: Create a quantum circuit](#solution-create-a-quantum-circuit)
 - [**2. Multiple Quantum Bits**](#2-multiple-quantum-bits) (3 videos)
-  - Represent multiple qubits
-  - Represent multiple qubits with Qiskit
-  - How much information is in a qubit?
+  - [Represent multiple qubits](#represent-multiple-qubits)
+  - [Represent multiple qubits with Qiskit](#represent-multiple-qubits-with-qiskit)
+  - [How much information is in a qubit?](#how-much-information-is-in-a-qubit)
 - [**3. Single-Qubit Pauli Gates**](#3-single-qubit-pauli-gates) (10 videos)
-  - Overview of matrix operations
-  - Quantum logic gates
-  - Pauli-X gate
-  - Pauli-X gate with Qiskit
-  - Pauli-Y gate
-  - Pauli-Y gate with Qiskit
-  - Pauli-Z gate
-  - Pauli-Z gate with Qiskit
-  - Challenge: Binary numbers
-  - Solution: Binary numbers
+  - [Overview of matrix operations](#overview-of-matrix-operations)
+  - [Quantum logic gates](#quantum-logic-gates)
+  - [Pauli-X gate](#pauli-x-gate)
+  - [Pauli-X gate with Qiskit](#pauli-x-gate-with-qiskit)
+  - [Pauli-Y gate](#pauli-y-gate)
+  - [Pauli-Y gate with Qiskit](#pauli-y-gate-with-qiskit)
+  - [Pauli-Z gate](#pauli-z-gate)
+  - [Pauli-Z gate with Qiskit](#pauli-z-gate-with-qiskit)
+  - [Challenge: Binary numbers](#challenge-binary-numbers)
+  - [Solution: Binary numbers](#solution-binary-numbers)
 - [**4. Single-Qubit Superposition Gates**](#4-single-qubit-superposition-gates) (10 videos)
-  - Hadamard gate
-  - Hadamard gate with Qiskit
-  - Measurement on an arbitrary basis
-  - Phase shift gates
-  - Phase shift gates with Qiskit
-  - Parameterized rotation gates
-  - Parameterized rotation gates with Qiskit
-  - Single-qubit gates on multi-qubit states
-  - Challenge: Random numbers
-  - Solution: Random numbers
+  - [Hadamard gate](#hadamard-gate)
+  - [Hadamard gate with Qiskit](#hadamard-gate-with-qiskit)
+  - [Measurement on an arbitrary basis](#measurement-on-an-arbitrary-basis)
+  - [Phase shift gates](#phase-shift-gates)
+  - [Phase shift gates with Qiskit](#phase-shift-gates-with-qiskit)
+  - [Parameterized rotation gates](#parameterized-rotation-gates)
+  - [Parameterized rotation gates with Qiskit](#parameterized-rotation-gates-with-qiskit)
+  - [Single-qubit gates on multi-qubit states](#single-qubit-gates-on-multi-qubit-states)
+  - [Challenge: Random numbers](#challenge-random-numbers)
+  - [Solution: Random numbers](#solution-random-numbers)
 - [**5. Multi-Qubit Gates**](#5-multi-qubit-gates) (8 videos)
-  - Controlled-NOT (CNOT) gate
-  - Controlled-NOT (CNOT) gate with Qiskit
-  - Toffoli gate
-  - Toffoli gate with Qiskit
-  - Swap and Fredkin gates
-  - Swap and Fredkin gates with Qiskit
-  - Challenge: Classical two-bit adder
-  - Solution: Classical two-bit adder
+  - [Controlled-NOT (CNOT) gate](#controlled-not-cnot-gate)
+  - [Controlled-NOT (CNOT) gate with Qiskit](#controlled-not-cnot-gate-with-qiskit)
+  - [Toffoli gate](#toffoli-gate)
+  - [Toffoli gate with Qiskit](#toffoli-gate-with-qiskit)
+  - [Swap and Fredkin gates](#swap-and-fredkin-gates)
+  - [Swap and Fredkin gates with Qiskit](#swap-and-fredkin-gates-with-qiskit)
+  - [Challenge: Classical two-bit adder](#challenge-classical-two-bit-adder)
+  - [Solution: Classical two-bit adder](#solution-classical-two-bit-adder)
 - [**6. Quantum Entanglement**](#6-quantum-entanglement) (5 videos)
-  - What is quantum entanglement?
-  - Represent entangled qubits
-  - Simulate a bell state with Qiskit
-  - Challenge: Entangle three qubits
-  - Solution: Entangle three qubits
+  - [What is quantum entanglement?](#what-is-quantum-entanglement)
+  - [Represent entangled qubits](#represent-entangled-qubits)
+  - [Simulate a bell state with Qiskit](#simulate-a-bell-state-with-qiskit)
+  - [Challenge: Entangle three qubits](#challenge-entangle-three-qubits)
+  - [Solution: Entangle three qubits](#solution-entangle-three-qubits)
 - [**7. Real Quantum Hardware**](#7-real-quantum-hardware) (3 videos)
-  - Access IBM quantum computers
-  - Use Qiskit with real quantum hardware
-  - Mitigate quantum measurement errors
+  - [Access IBM quantum computers](#access-ibm-quantum-computers)
+  - [Use Qiskit with real quantum hardware](#use-qiskit-with-real-quantum-hardware)
+  - [Mitigate quantum measurement errors](#mitigate-quantum-measurement-errors)
 - [**8. Quantum Algorithms**](#8-quantum-algorithms) (6 videos)
-  - Superdense coding
-  - Superdense coding with Qiskit
-  - Quantum teleportation
-  - Quantum teleportation with Qiskit
-  - Challenge: Real quantum teleportation
-  - Solution: Real quantum teleportation
+  - [Superdense coding](#superdense-coding)
+  - [Superdense coding with Qiskit](#superdense-coding-with-qiskit)
+  - [Quantum teleportation](#quantum-teleportation)
+  - [Quantum teleportation with Qiskit](#quantum-teleportation-with-qiskit)
+  - [Challenge: Real quantum teleportation](#challenge-real-quantum-teleportation)
+  - [Solution: Real quantum teleportation](#solution-real-quantum-teleportation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your next quantum steps
+  - [Your next quantum steps](#your-next-quantum-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn quantum computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing?u=76281980)
@@ -168,8 +168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Programming]] (1), [[Hardware]] (1)
 > **Speakers:** - a (2), - this (1), - you (1), - what (1), - it (1)
-> **Code Keywords:** abstract (1), let (1)
 > **UI Navigation:** go to (1)
 
 #### What you should know
@@ -245,9 +245,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Quantum Computing]] (3), [[Linear Algebra]] (1), [[Programming Concepts]] (1), [[Programming]] (1)
 > **Speakers:** - we (4), - if (2), - chapter (2), - throughout (1), - maybe (1)
 > **CLI Commands:** python (4), find (3), make (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ibm (1)
 > **Definitions:** is an  (1)
 
@@ -292,10 +292,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (3), [[Codespaces]] (3), [[Quantum Computing]] (2), [[GitHub]] (2)
 > **CLI Commands:** python (4), find (3)
 > **Tools:** jupyter (3), visual studio (2), github (2)
 > **Speakers:** - quantum (1), - that (1), - we (1), - if (1), - similarly (1)
-> **Code Keywords:** interface (2), this. (1)
 > **Env Vars:** ibm (2), src (1)
 > **File Paths:** requirements.txt (1)
 > **UI Navigation:** dropdown (1)
@@ -430,9 +430,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (3), parallel (2), [[Search]] (2), next (1), [[Probability]] (1)
 > **Speakers:** - before (1), - for (1), - to (1), - oh (1), - well (1)
 > **CLI Commands:** find (2), make (1), cat (1)
-> **Code Keywords:** let (1), new, (1), require (1), function (1)
 > **Analogies:** it's like (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** cpu (1)
@@ -442,7 +442,7 @@ created: 2026-04-29
 
 ### 1. Quantum Bits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classical bits vs. quantum bits
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980)
@@ -561,8 +561,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), data (1), [[Probability]] (1), [[Hardware]] (1)
 > **Speakers:** - this (2), - i (2), - the (2), - you (1), - quantum (1)
-> **Code Keywords:** super (7), this, (1), abstract (1)
 > **Analogies:** for example (2), just like (1), imagine (1), such as (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Warnings:** keep in mind (2)
@@ -644,8 +644,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Probability]] (3)
 > **Speakers:** - this (2), - excuse (2), - the (2), - to (1), - when (1)
-> **Code Keywords:** super (7), case, (1), let (1)
 > **Definitions:** is a  (2)
 
 #### Measure a qubit with Qiskit
@@ -803,7 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), pass (3), finally, (2), case, (2)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Python (Programming Language)|Python]] (4), [[Simulation]] (3), [[Programming]] (2), [[Hardware]] (2)
 > **CLI Commands:** python (4), make (1)
 > **Tools:** jupyter (5)
 > **Code Identifiers:** get_backend (1), qasm_simulator (1), get_counts (1)
@@ -1021,8 +1021,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), next (2), [[Linear Algebra]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (7), known as (2), refers to (2), is an  (1)
-> **Code Keywords:** let (6), finally, (1), case. (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** earlier in (1)
@@ -1220,9 +1220,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** bi (2), power (2), [[Forms]] (1), express (1), [[Probability]] (1)
 > **Analogies:** for example (4), similar to (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (3), require (1)
 > **Definitions:** is a  (3), in other words (1)
 > **Cross-References:** previous video (2), later in (1)
 > **Versions:** 1.78 (1), 2.7 (1)
@@ -1390,7 +1390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (3), abstract (1), finally, (1), from, (1)
+> **Frameworks & Libraries:** [[Probability]] (20), product (7), [[Quantum Computing]] (2), [[Linear Algebra]] (1), express (1)
 > **Definitions:** is a  (5), is called (2), is an  (1)
 > **Speakers:** - it (1), - simple (1), - that (1), - sure (1), - those (1)
 > **Analogies:** for example (4), kind of like (1)
@@ -1509,8 +1509,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (5), next (1), power (1)
 > **Speakers:** - in (1), - fortunately (1), - hold (1), - we (1), - are (1)
-> **Code Keywords:** let (3), from, (1)
 > **Versions:** 0.93 (1), 0.15 (1), 0.35 (1)
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** previous video (1)
@@ -1592,7 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), pass (2), finally, (1), module (1)
+> **Frameworks & Libraries:** [[Simulation]] (2), next (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **CLI Commands:** cat (2), python (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1742,9 +1742,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (3), [[Quantum Computing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - well (5), - i (3), - we (2), - what (2), - exactly (2)
 > **Definitions:** is a  (2), known as (2), is an  (1)
-> **Code Keywords:** super (2), case, (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -1874,7 +1874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), raise (1), finally, (1)
+> **Frameworks & Libraries:** [[Probability]] (4), power (4)
 > **Speakers:** - in (1), - we (1), - now (1), - rotating (1), - great (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** later in (1)
@@ -1909,7 +1909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Tools:** jupyter (1)
 > **Exercise Files:** exercise files (1)
@@ -1957,7 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** plot_bloch_multivector (2), array_to_latex (2), qasm_simulator (2), plot_histogram (1), get_backend (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1966,7 +1966,7 @@ created: 2026-04-29
 
 ### 2. Multiple Quantum Bits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Represent multiple qubits
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits?u=76281980)
@@ -2061,9 +2061,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (9), next (1), power (1)
 > **Speakers:** - if (3), - so (1), - now (1)
 > **Analogies:** for example (3), it's like (1)
-> **Code Keywords:** else. (1), this. (1), let (1)
 > **Cross-References:** in the next (1), in the last (1)
 > **Warnings:** keep in mind (1)
 
@@ -2126,7 +2126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), delete (2), pass (1), this, (1)
+> **Frameworks & Libraries:** next (1), [[Simulation]] (1)
 > **Code Identifiers:** measure_all (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** similar to (1)
@@ -2169,14 +2169,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Quantum Computing]] (1), [[Probability]] (1)
 > **Speakers:** - how (1), - now (1), - that (1)
-> **Code Keywords:** let (2)
 > **Warnings:** keep in mind (1)
 
 
 ### 3. Single-Qubit Pauli Gates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of matrix operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-matrix-operations?u=76281980)
@@ -2261,8 +2261,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Representational State Transfer (REST)|Rest]] (2), next (1)
 > **Definitions:** is a  (7), known as (1)
-> **Code Keywords:** let (2), require (1), match. (1), case, (1), else. (1)
 > **Analogies:** for example (3)
 > **Speakers:** - the (1)
 
@@ -2347,8 +2347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), data (1), [[Quantum Computing]] (1)
 > **Speakers:** - now (2), - however (1), - one (1), - another (1), - so (1)
-> **Code Keywords:** finally, (1), abstract (1), let (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), for example (1)
 > **Cross-References:** later in (1)
@@ -2450,8 +2450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (3), next (1), product (1)
 > **CLI Commands:** cat (8)
-> **Code Keywords:** let (3), super (1), else. (1), finally, (1)
 > **Speakers:** - that (2), - three (1), - well (1), - geometrically (1), - and (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the next (1), earlier in (1)
@@ -2525,7 +2525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (2), pass (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Probability]] (2), next (1)
 > **CLI Commands:** python (3), cat (1)
 > **Env Vars:** cat (1)
 > **Definitions:** is a  (1)
@@ -2656,8 +2656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Probability]] (3), power (2)
 > **Speakers:** - and (2), - now (2), - our (1), - hang (1), - well (1)
-> **Code Keywords:** let (5), super (2), this. (1), finally, (1)
 > **CLI Commands:** cat (8)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -2701,7 +2701,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), pass (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -2791,8 +2790,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Speakers:** - let (2), - we (1), - that (1), - true (1), - i (1)
-> **Code Keywords:** let (4), finally, (1)
 > **Env Vars:** ket1 (4)
 > **Definitions:** is a  (2)
 
@@ -2833,7 +2832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (2)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2874,6 +2873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Probability]] (1), next (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** configure (1)
@@ -2915,7 +2915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), function (1), require (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** cat (2), python (1)
 > **Non-Speech:** (keyboard clicking) (2), (upbeat music) (1)
 > **Analogies:** for example (1)
@@ -2924,7 +2924,7 @@ created: 2026-04-29
 
 ### 4. Single-Qubit Superposition Gates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hadamard gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate?u=76281980)
@@ -3003,8 +3003,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (3), product (1)
 > **Speakers:** - the (2), - let (2), - to (1), - [speaker (1), - however (1)
-> **Code Keywords:** super (2), let (2)
 > **Prerequisites:** set up (1)
 
 #### Hadamard gate with Qiskit
@@ -3060,7 +3060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **File Paths:** circuit.h (1)
 > **Speakers:** - let (1)
 
@@ -3163,9 +3163,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (10), product (4), next (1)
 > **Speakers:** - now (1), - when (1), - if (1), - can (1), - maybe (1)
 > **Analogies:** for example (2), it's like (1), such as (1)
-> **Code Keywords:** finally, (1)
 
 #### Phase shift gates
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/phase-shift-gates?u=76281980)
@@ -3250,6 +3250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2)
 > **Speakers:** - well (3), - so (2), - both (1), - for (1), - what (1)
 > **Definitions:** is a  (4)
 
@@ -3282,7 +3283,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Speakers:** - [olivia] (1)
 
 #### Parameterized rotation gates
@@ -3353,7 +3353,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - exactly (2), - the (1), - easy (1), - so (1), - okay (1)
-> **Code Keywords:** let (4), super (1)
 > **CLI Commands:** cat (1)
 > **Definitions:** is a  (1)
 
@@ -3410,7 +3409,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (1), pass (1), super (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3489,7 +3487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), match. (1)
+> **Frameworks & Libraries:** product (8), next (1)
 > **Code Identifiers:** polyx (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - we (2)
@@ -3529,6 +3527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (1), next (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Code Identifiers:** measure_all (2)
 > **Versions:** 37.5 (1), 12.5 (1)
@@ -3536,7 +3535,6 @@ created: 2026-04-29
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
-> **Non-Speech:** (inquisitive music) (1)
 
 #### Solution: Random numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-random-numbers?u=76281980)
@@ -3575,14 +3573,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1)
+> **Frameworks & Libraries:** next (1), [[Probability]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
 
 ### 5. Multi-Qubit Gates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Controlled-NOT (CNOT) gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate?u=76281980)
@@ -3648,7 +3646,6 @@ created: 2026-04-29
 > **Speakers:** - thus (1), - sure (1), - to (1), - it (1), - my (1)
 > **Env Vars:** cnot (11)
 > **Definitions:** is a  (1), stands for (1)
-> **Code Keywords:** let (1)
 
 #### Controlled-NOT (CNOT) gate with Qiskit
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate-with-qiskit?u=76281980)
@@ -3717,7 +3714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Toffoli gate
@@ -3774,7 +3771,6 @@ created: 2026-04-29
 > **Speakers:** - then (2), - now (1), - and (1), - but (1), - my (1)
 > **Env Vars:** ccnot (3), polyx (1), ccx (1)
 > **Analogies:** for example (1), such as (1), similar to (1)
-> **Code Keywords:** let (1), pass (1)
 > **Definitions:** known as (1), stands for (1)
 
 #### Toffoli gate with Qiskit
@@ -3826,7 +3822,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **Env Vars:** ccx (2)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -3888,7 +3883,6 @@ created: 2026-04-29
 >
 > **Env Vars:** swap (14), cnot (1)
 > **Speakers:** - and (3), - then (2), - we (1), - notice (1), - what (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is called (1), is a  (1), known as (1)
 
 #### Swap and Fredkin gates with Qiskit
@@ -3922,7 +3916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1)
+> **Frameworks & Libraries:** next (3), [[Simulation]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3967,10 +3961,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** xor (3)
 > **Exercise Files:** template (1), exercise files (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** raise (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4021,14 +4015,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** cnot (6)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. Quantum Entanglement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is quantum entanglement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980)
@@ -4193,8 +4186,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (2), [[Quantum Computing]] (2)
 > **Speakers:** - and (6), - the (5), - [both] (4), - we (3), - well (3)
-> **Code Keywords:** let (5), case, (1)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** earlier in (1)
@@ -4272,8 +4265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (3), product (1), [[Quantum Computing]] (1)
 > **Speakers:** - the (2), - then (2), - and (1), - since (1), - now (1)
-> **Code Keywords:** let (2), super (1), else. (1)
 > **Env Vars:** cnot (3)
 > **Cross-References:** we mentioned (1), previous video (1)
 > **CLI Commands:** make (1)
@@ -4344,8 +4337,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (2), [[Algorithms]] (1)
 > **Env Vars:** cnot (6)
-> **Code Keywords:** let (5)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -4376,6 +4369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (1), next (1)
 > **Env Vars:** ghz (4)
 > **Cross-References:** previous video (1), next video (1)
 > **Exercise Files:** template (1), exercise files (1)
@@ -4430,8 +4424,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (2), [[Simulation]] (1)
 > **Env Vars:** cnot (5), ghz (3)
-> **Code Keywords:** let (2), else. (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4439,7 +4433,7 @@ created: 2026-04-29
 
 ### 7. Real Quantum Hardware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Access IBM quantum computers
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/access-ibm-quantum-computers?u=76281980)
@@ -4526,8 +4520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), cloud (2), api (2), next (1), data (1)
 > **Env Vars:** ibm (4), cnot (4), api (2), r4t (1)
-> **Code Keywords:** finally, (2), let (1), this. (1), for. (1)
 > **UI Navigation:** go to (1), navigate to (1), click on (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Definitions:** is a  (2)
@@ -4654,8 +4648,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), next (3), api (3), [[Simulation]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** ibm (10), api (3), ibmq (2), ctrl (1), cnot (1)
-> **Code Keywords:** let (4), function (3), module (2), pass (1), else. (1)
 > **CLI Commands:** python (2), make (2), find (1)
 > **UI Navigation:** click on (2), navigate to (1), dropdown (1)
 > **Code Identifiers:** save_account (1), load_account (1), get_backend (1)
@@ -4719,7 +4713,7 @@ created: 2026-04-29
 
 ### 8. Quantum Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Superdense coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding?u=76281980)
@@ -4826,8 +4820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Speakers:** - or (2), - that (2), - we (1), - our (1), - [todd] (1)
-> **Code Keywords:** let (2), super (1), from. (1), finally, (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** find (1)
 
@@ -4890,7 +4884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** next (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** cnot (4)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
@@ -5023,8 +5017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), next (1), [[Probability]] (1)
 > **Speakers:** - we (2), - so (2), - the (2), - ooh (1), - not (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Analogies:** it's like (1)
 
@@ -5115,8 +5109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Simulation]] (3), [[Probability]] (2), [[Hardware]] (2), [[Quantum Computing]] (1)
 > **Env Vars:** crz (2), crx (2), ibm (2), cnot (1)
-> **Code Keywords:** let (2), super (2), finally, (1)
 > **Definitions:** known as (1), means that (1)
 > **Tools:** jupyter (1)
 > **Analogies:** similar to (1)
@@ -5151,9 +5145,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (1), next (1)
 > **Cross-References:** previous video (1), next video (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** super (1)
 > **Env Vars:** ibm (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
@@ -5228,8 +5222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (3), next (3), cloud (3), api (1), [[Simulation]] (1)
 > **Env Vars:** ibm (5), cnot (1), api (1)
-> **Code Keywords:** let (3), continue (1), finally, (1), while. (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1), as we saw (1)
 > **UI Navigation:** click on (1)
@@ -5240,7 +5234,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next quantum steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980)
@@ -5279,8 +5273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Algorithms]] (2), [[Hardware]] (1)
 > **Speakers:** - we (3), - congratulations (1), - and (1), - on (1), - another (1)
-> **Code Keywords:** super (1)
 > **Definitions:** is a  (1)
 
 

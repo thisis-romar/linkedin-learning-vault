@@ -25,7 +25,7 @@ tags:
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/TLS%20for%20Beginners-%20Securing%20Network%20Communications.md)
@@ -44,41 +44,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn to secure your network communications
-  - What you should know
+  - [Learn to secure your network communications](#learn-to-secure-your-network-communications)
+  - [What you should know](#what-you-should-know)
 - [**1. PKI Overview**](#1-pki-overview) (8 videos)
-  - Cryptography
-  - Hashing and digital signatures
-  - Public key infrastructure
-  - Certificate authorities
-  - Certificates
-  - Certificate lifecycle management
-  - Transport layer security
-  - Analyze a tls packet capture
+  - [Cryptography](#cryptography)
+  - [Hashing and digital signatures](#hashing-and-digital-signatures)
+  - [Public key infrastructure](#public-key-infrastructure)
+  - [Certificate authorities](#certificate-authorities)
+  - [Certificates](#certificates)
+  - [Certificate lifecycle management](#certificate-lifecycle-management)
+  - [Transport layer security](#transport-layer-security)
+  - [Analyze a tls packet capture](#analyze-a-tls-packet-capture)
 - [**2. Certificate Authorities**](#2-certificate-authorities) (4 videos)
-  - Configure a Microsoft AD CS certificate authority
-  - Configure Microsoft AD CS certificate templates
-  - Configure a Linux OpenSSL certificate authority
-  - Configure an AWS Certificate Manager CA
+  - [Configure a Microsoft AD CS certificate authority](#configure-a-microsoft-ad-cs-certificate-authority)
+  - [Configure Microsoft AD CS certificate templates](#configure-microsoft-ad-cs-certificate-templates)
+  - [Configure a Linux OpenSSL certificate authority](#configure-a-linux-openssl-certificate-authority)
+  - [Configure an AWS Certificate Manager CA](#configure-an-aws-certificate-manager-ca)
 - [**3. Acquiring Certificates**](#3-acquiring-certificates) (5 videos)
-  - Acquire a certificate using Microsoft AD CS
-  - Acquire a web server certificate using OpenSSL
-  - Acquire a public CA certificate
-  - Install private CA certificates
-  - Generate certificates using Microsoft Azure
+  - [Acquire a certificate using Microsoft AD CS](#acquire-a-certificate-using-microsoft-ad-cs)
+  - [Acquire a web server certificate using OpenSSL](#acquire-a-web-server-certificate-using-openssl)
+  - [Acquire a public CA certificate](#acquire-a-public-ca-certificate)
+  - [Install private CA certificates](#install-private-ca-certificates)
+  - [Generate certificates using Microsoft Azure](#generate-certificates-using-microsoft-azure)
 - [**4. PKI Certificate Usage**](#4-pki-certificate-usage) (6 videos)
-  - Configure a Windows website certificate
-  - Configure a Linux website certificate
-  - Configure web brower client certificate authentication
-  - Configure VPN certificate authentication
-  - Configure a network printer certificate
-  - Acquire a web app certificate using Microsoft Azure
+  - [Configure a Windows website certificate](#configure-a-windows-website-certificate)
+  - [Configure a Linux website certificate](#configure-a-linux-website-certificate)
+  - [Configure web brower client certificate authentication](#configure-web-brower-client-certificate-authentication)
+  - [Configure VPN certificate authentication](#configure-vpn-certificate-authentication)
+  - [Configure a network printer certificate](#configure-a-network-printer-certificate)
+  - [Acquire a web app certificate using Microsoft Azure](#acquire-a-web-app-certificate-using-microsoft-azure)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to secure your network communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/learn-to-secure-your-network-communications?u=76281980)
@@ -95,8 +95,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **Env Vars:** tls (4), pki (3)
-> **Code Keywords:** let (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [dan] (1)
 
@@ -153,11 +153,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), [[Linux]] (6), [[Microsoft]] (4), [[Windows Server]] (3), cloud (3)
 > **Env Vars:** gui (2), iis (2), aws (2), pki (2), tls (1)
 > **Tools:** command line (3), safari (1), firefox (1)
 > **CLI Commands:** apache (2), aws (2)
 > **Prerequisites:** prerequisite (1), set up (1), install (1), configure (1)
-> **Code Keywords:** private (2)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -165,7 +165,7 @@ created: 2026-04-29
 
 ### 1. PKI Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980)
@@ -246,8 +246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptography]] (6), [[Security]] (5), [[Algorithms]] (5), data (4), [[Microsoft Products|Products]] (2)
 > **Env Vars:** tls (3), pki (3), rsa (2), ecc (2), cac (1)
-> **Code Keywords:** public (4), private (4), module (2)
 > **Tools:** notion (2)
 > **Analogies:** picture (1), such as (1)
 > **Prerequisites:** you need to have (1)
@@ -364,7 +364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), public (5), let (2), case, (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (5), [[Security]] (3), web (2), [[Linux]] (1)
 > **Env Vars:** sha (5), ripemd (2), jpeg (1), sha256 (1), tls (1)
 > **Definitions:** is called (2), is a  (2), stands for (1), means that (1)
 > **CLI Commands:** make (1)
@@ -465,8 +465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), web (2), vpn (2), teams (1), dns (1)
 > **Env Vars:** pki (11), vpn (2), crl (2), tls (1), ocsp (1)
-> **Code Keywords:** public (6), let (3), case, (3), private (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Exercise Files:** template (3)
 > **Analogies:** just like (1), such as (1)
@@ -575,7 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), self (4), let (2), private (1), default, (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Security]] (1), teams (1), [[Linux]] (1), [[Windows Server]] (1)
 > **Env Vars:** pki (6), crl (1), https (1)
 > **Analogies:** for example (3), just like (1), for instance (1)
 > **Definitions:** means that (2), is a  (1), in other words (1)
@@ -701,8 +701,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), dns (3), [[Security]] (1), traffic (1), vpn (1)
 > **Env Vars:** pki (7), ocsp (6), tls (4), dns (3), crl (3)
-> **Code Keywords:** private (4), let (2), this, (2), interface (1), protected (1)
 > **URLs:** [digicert.com](https://digicert.com) (4), [fakecorp.com](https://fakecorp.com) (3), [cert.com](https://cert.com) (1)
 > **Analogies:** for example (5), such as (3)
 > **Definitions:** is a  (2), in other words (2), is an  (1)
@@ -831,7 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (3), case, (3), let (2), continue (2)
+> **Frameworks & Libraries:** web (5), next (3), [[Microsoft]] (2), management (2), vpn (1)
 > **Env Vars:** csr (6), pki (3), pkcs (2), fqdn (2), mdm (2)
 > **Analogies:** for example (5), such as (5), for instance (1)
 > **CLI Commands:** make (2), find (1)
@@ -969,8 +969,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), [[Security]] (6), vpn (4), [[Network Security]] (2), [[Banking]] (2)
 > **Env Vars:** tls (17), ssl (11), pki (4), vpn (4), https (3)
-> **Code Keywords:** private (6), let (3), public (3)
 > **Versions:** version 1 (3), 1.3 (2), 1.0 (1), version 3 (1), 1.1 (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (1), for example (1)
@@ -1073,8 +1073,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), [[Wireshark]] (6), web (5), [[Security]] (3), data (2)
 > **Env Vars:** tls (16), aes (3), tcp (1), https (1), ssl (1)
-> **Code Keywords:** let (3), switch (3), private (2), default, (1), case, (1)
 > **Versions:** version 1 (4), 192.168.2 (1), version 4 (1)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (3)
@@ -1085,7 +1085,7 @@ created: 2026-04-29
 
 ### 2. Certificate Authorities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure a Microsoft AD CS certificate authority
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980)
@@ -1250,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (11), let (3), public (2), else, (1), this. (1)
+> **Frameworks & Libraries:** [[Active Directory]] (16), next (12), [[Windows]] (4), [[Windows Server]] (3), [[Microsoft]] (2)
 > **Prerequisites:** configure (6), set up (6), install (2)
 > **Env Vars:** pki (3), gui (1), adcs (1), rsa (1), sha256 (1)
 > **CLI Commands:** make (2)
@@ -1384,8 +1384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (15), [[Active Directory]] (4), [[Microsoft]] (3), [[Windows]] (3), [[Windows Server]] (1)
 > **Exercise Files:** template (17)
-> **Code Keywords:** private (3), let (2), this. (1), case, (1), new, (1)
 > **UI Navigation:** right-click (3), double-click (1), go to (1)
 > **Analogies:** for example (3), for instance (1), such as (1)
 > **Env Vars:** pki (1), vpn (1), dns (1)
@@ -1562,7 +1562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (13), public (4), let (4), protected (2), default, (1)
+> **Frameworks & Libraries:** [[Linux]] (12), next (3), [[Microsoft Word|Word]] (2), business (1), [[Windows]] (1)
 > **CLI Commands:** sudo (10), cat (4), apt (2), ls (2), cp (1)
 > **Env Vars:** pki (5), rsa (1), aes (1), gui (1)
 > **Prerequisites:** install (6), configure (1)
@@ -1672,7 +1672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (12), let (3), case, (2), default. (1), public (1)
+> **Frameworks & Libraries:** aws (4), cloud (3), [[Amazon Web Services (AWS)|Amazon web services]] (2), management (1), [[Search]] (1)
 > **Env Vars:** aws (4), rsa (2), pki (1), crl (1), ocsp (1)
 > **UI Navigation:** click on (3), go to (2), dropdown (1)
 > **CLI Commands:** aws (4)
@@ -1684,7 +1684,7 @@ created: 2026-04-29
 
 ### 3. Acquiring Certificates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Acquire a certificate using Microsoft AD CS
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980)
@@ -1867,7 +1867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (10), let (6), case, (4), public (1), this. (1)
+> **Frameworks & Libraries:** web (8), [[Active Directory]] (7), next (5), [[Windows]] (4), [[Security]] (4)
 > **Exercise Files:** template (17)
 > **UI Navigation:** go to (5), right-click (2), click on (1), double-click (1)
 > **Env Vars:** dns (3), mmc (1)
@@ -2211,7 +2211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (22), pass (6), let (6), case, (2), this. (2)
+> **Frameworks & Libraries:** web (22), [[Linux]] (4), dns (2), [[Windows]] (2), [[Security]] (1)
 > **Env Vars:** tls (7), csr (5), https (4), pki (3), ssl (3)
 > **CLI Commands:** sudo (10), make (6), ls (4), apache (2), cat (1)
 > **Speakers:** - out (2), - [instructor] (1), - aes256 (1), - new (1), - req (1)
@@ -2295,8 +2295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), web application (2), dns (2)
 > **Env Vars:** ssl (6), dns (2), http (2), pki (1), tls (1)
-> **Code Keywords:** public (6), private (2), let (2), case, (1), this, (1)
 > **CLI Commands:** make (2), nginx (1), apache (1)
 > **Prerequisites:** install (4)
 > **UI Navigation:** scroll down (1), select the (1)
@@ -2435,7 +2435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (10), let (8), public (3), this, (2), default, (1)
+> **Frameworks & Libraries:** next (5), [[Windows]] (3), web (2), [[Microsoft]] (2), [[Active Directory]] (1)
 > **UI Navigation:** go to (3), right-click (1), scroll down (1), click on (1)
 > **Prerequisites:** install (4), set up (1), configure (1)
 > **CLI Commands:** make (4)
@@ -2633,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (4), self (4), public (2), new. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), cloud (6), dns (5), web (3), [[Microsoft Azure]] (2)
 > **Env Vars:** dns (5), pki (2), https (2), iam (2), gui (1)
 > **UI Navigation:** go to (3), dropdown (2), select the (1), scroll up (1), click on (1)
 > **Analogies:** such as (2), for example (2), for instance (1)
@@ -2645,7 +2645,7 @@ created: 2026-04-29
 
 ### 4. PKI Certificate Usage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure a Windows website certificate
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980)
@@ -2796,8 +2796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (13), [[Microsoft]] (5), next (4), dns (4), [[Windows Server]] (3)
 > **Env Vars:** https (9), iis (7), dns (4), http (3), ssl (3)
-> **Code Keywords:** let (7), private (4), case, (2), continue (1), this. (1)
 > **UI Navigation:** click on (2), select the (1), scroll down (1), go to (1), dropdown (1)
 > **Prerequisites:** install (3), configure (2), set up (1)
 > **CLI Commands:** make (3), find (1), snap (1)
@@ -3000,8 +3000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (24), next (4), [[Linux]] (3), [[Security]] (2), [[Network Security]] (1)
 > **Env Vars:** ssl (7), https (5), tls (5), url (3), http (2)
-> **Code Keywords:** private (8), case, (3), let (2), this. (1), default. (1)
 > **CLI Commands:** make (5), sudo (5), apache (4), apt (1), ls (1)
 > **UI Navigation:** click on (4), go to (3), scroll down (1)
 > **Definitions:** is a  (2), is called (2), in other words (1), is an  (1), means that (1)
@@ -3226,8 +3226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (19), [[Microsoft]] (7), [[Windows]] (4), [[Linux]] (2), [[Active Directory]] (2)
 > **Env Vars:** ssl (12), http (9), https (5), pki (3), iis (3)
-> **Code Keywords:** let (13), require (5), private (2), self (1), public (1)
 > **UI Navigation:** go to (5), click on (2), select the (1)
 > **URLs:** [https://www.mysite.local](https://www.mysite.local) (2), [http://www.mysite.local](http://www.mysite.local) (1)
 > **Ports:** port 80 (1), port 443 (1)
@@ -3398,8 +3398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (22), [[Microsoft Azure|Azure]] (6), cloud (5), web (4), [[Windows]] (4)
 > **Env Vars:** vpn (22), pki (3), tls (3), ssl (3), ise (2)
-> **Code Keywords:** public (9), private (5), let (4), switch (1), require (1)
 > **Tools:** powershell (3), azure portal (2)
 > **CLI Commands:** make (2), snap (1), find (1)
 > **UI Navigation:** click on (1), go to (1), double-click (1), right-click (1)
@@ -3606,7 +3606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (13), public (6), continue (2), self (2), case. (1)
+> **Frameworks & Libraries:** web (5), next (5), [[IoT]] (2), [[Local Area Network (LAN)|Local area network]] (2), dns (1)
 > **Env Vars:** https (4), tls (2), dns (1), hp4da3fe (1), pki (1)
 > **Prerequisites:** install (5), configure (2)
 > **UI Navigation:** click on (4), in the menu (1), scroll down (1)
@@ -3726,8 +3726,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (11), web (10), [[Microsoft Azure]] (7), [[Microsoft Azure|Azure]] (5), cloud (3)
 > **Env Vars:** dns (11), tls (4), txt (4), https (3), pki (1)
-> **Code Keywords:** let (3), this. (2), self (2), match, (1), match. (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1), navigate to (1)
 > **Definitions:** is a  (3), in other words (1), means that (1)
 > **CLI Commands:** make (3)
@@ -3738,7 +3738,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980)
@@ -3785,8 +3785,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Microsoft]] (2), management (2), [[Security]] (2), [[Search]] (2)
 > **Env Vars:** tls (7), pki (1), mdm (1)
-> **Code Keywords:** private (2), if, (1), public (1), finally, (1)
 > **Prerequisites:** configure (1), install (1)
 > **Versions:** version 1 (1)
 > **Definitions:** is a  (1)

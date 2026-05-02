@@ -40,7 +40,7 @@ tags:
   - skill/data-preparation
   - skill/feature-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Preparation%2C%20Feature%20Engineering%2C%20and%20Augmentation%20for%20AI%20Models.md)
@@ -59,56 +59,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to this course
-  - What you should know
+  - [Welcome to this course](#welcome-to-this-course)
+  - [What you should know](#what-you-should-know)
 - [**1. Data Preparation for Predictive AI**](#1-data-preparation-for-predictive-ai) (9 videos)
-  - Data exploration and initial quality assessment
-  - Detecting and managing missing data
-  - Detecting and managing outliers
-  - Challenge: Assess data quality of a dataset
-  - Solution: Assess data quality of a dataset
-  - Feature engineering: Scaling and normalizing data
-  - Feature engineering: Categorical encodings
-  - Challenge: Apply feature engineering to a dataset
-  - Solution: Apply feature engineering to a dataset
+  - [Data exploration and initial quality assessment](#data-exploration-and-initial-quality-assessment)
+  - [Detecting and managing missing data](#detecting-and-managing-missing-data)
+  - [Detecting and managing outliers](#detecting-and-managing-outliers)
+  - [Challenge: Assess data quality of a dataset](#challenge-assess-data-quality-of-a-dataset)
+  - [Solution: Assess data quality of a dataset](#solution-assess-data-quality-of-a-dataset)
+  - [Feature engineering: Scaling and normalizing data](#feature-engineering-scaling-and-normalizing-data)
+  - [Feature engineering: Categorical encodings](#feature-engineering-categorical-encodings)
+  - [Challenge: Apply feature engineering to a dataset](#challenge-apply-feature-engineering-to-a-dataset)
+  - [Solution: Apply feature engineering to a dataset](#solution-apply-feature-engineering-to-a-dataset)
 - [**2. Data Preparation for Generative AI**](#2-data-preparation-for-generative-ai) (6 videos)
-  - Structured vs. unstructured data
-  - Vector representations of unstructured data
-  - Tools for generating vector representations
-  - Similarity between vector representations
-  - Challenge: Choosing vector generation tool
-  - Solution: Choosing vector generation tool
+  - [Structured vs. unstructured data](#structured-vs-unstructured-data)
+  - [Vector representations of unstructured data](#vector-representations-of-unstructured-data)
+  - [Tools for generating vector representations](#tools-for-generating-vector-representations)
+  - [Similarity between vector representations](#similarity-between-vector-representations)
+  - [Challenge: Choosing vector generation tool](#challenge-choosing-vector-generation-tool)
+  - [Solution: Choosing vector generation tool](#solution-choosing-vector-generation-tool)
 - [**3. Data Quality Assessment**](#3-data-quality-assessment) (4 videos)
-  - Elements of data quality: Consistency, accuracy, and completeness
-  - Statistical techniques for data quality assessment
-  - Challenge: Data quality
-  - Solution: Data quality
+  - [Elements of data quality: Consistency, accuracy, and completeness](#elements-of-data-quality-consistency-accuracy-and-completeness)
+  - [Statistical techniques for data quality assessment](#statistical-techniques-for-data-quality-assessment)
+  - [Challenge: Data quality](#challenge-data-quality)
+  - [Solution: Data quality](#solution-data-quality)
 - [**4. Data Augmentation for Generative AI**](#4-data-augmentation-for-generative-ai) (6 videos)
-  - Overview of data augmentation
-  - Text perturbation and style transfer
-  - Retrieval-augmented generation (RAG)
-  - Introduction to LangChain for RAG
-  - Challenge: Understanding components of RAG
-  - Solution: Understanding components of RAG
+  - [Overview of data augmentation](#overview-of-data-augmentation)
+  - [Text perturbation and style transfer](#text-perturbation-and-style-transfer)
+  - [Retrieval-augmented generation (RAG)](#retrieval-augmented-generation-rag)
+  - [Introduction to LangChain for RAG](#introduction-to-langchain-for-rag)
+  - [Challenge: Understanding components of RAG](#challenge-understanding-components-of-rag)
+  - [Solution: Understanding components of RAG](#solution-understanding-components-of-rag)
 - [**5. Knowledge Augmentation for Generative AI**](#5-knowledge-augmentation-for-generative-ai) (5 videos)
-  - Overview of knowledge augmentation
-  - Fine-tuning and knowledge distillation tools and techniques
-  - Ontologies, taxonomies, and knowledge graph tools and techniques
-  - Challenge: Knowledge augmentation
-  - Solution: Knowledge augmentation
+  - [Overview of knowledge augmentation](#overview-of-knowledge-augmentation)
+  - [Fine-tuning and knowledge distillation tools and techniques](#fine-tuning-and-knowledge-distillation-tools-and-techniques)
+  - [Ontologies, taxonomies, and knowledge graph tools and techniques](#ontologies-taxonomies-and-knowledge-graph-tools-and-techniques)
+  - [Challenge: Knowledge augmentation](#challenge-knowledge-augmentation)
+  - [Solution: Knowledge augmentation](#solution-knowledge-augmentation)
 - [**6. Development Practices for AI Applications**](#6-development-practices-for-ai-applications) (6 videos)
-  - Determining what data sources to use
-  - Applying data quality checks
-  - Building models
-  - Model assessment
-  - Challenge: Development practices
-  - Solution: Development practices
+  - [Determining what data sources to use](#determining-what-data-sources-to-use)
+  - [Applying data quality checks](#applying-data-quality-checks)
+  - [Building models](#building-models)
+  - [Model assessment](#model-assessment)
+  - [Challenge: Development practices](#challenge-development-practices)
+  - [Solution: Development practices](#solution-development-practices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/welcome-to-this-course?u=76281980)
@@ -127,7 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6), data (6)
 > **Speakers:** - [dan] (1)
 
 #### What you should know
@@ -153,6 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), data (3), [[Generative AI Tools]] (2), [[Databases]] (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
@@ -162,7 +163,7 @@ created: 2026-04-29
 
 ### 1. Data Preparation for Predictive AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data exploration and initial quality assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980)
@@ -265,9 +266,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), feature (2), [[Statistics]] (2), ai (1), [[Feature Engineering]] (1)
 > **CLI Commands:** make (7), find (2), python (1)
 > **Analogies:** for example (6)
-> **Code Keywords:** finally, (3), require (1), include, (1)
 > **Warnings:** watch out (3), be careful (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -376,7 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (21), [[Statistics]] (3), [[Statistical Analysis]] (2), [[Metadata]] (1), feature (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -457,6 +458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), product (1), [[Microsoft Products|Products]] (1), [[Statistics]] (1)
 > **Analogies:** for example (6)
 > **Env Vars:** irq (1), dbscan (1), iqr (1)
 > **Versions:** 1.5 (1)
@@ -475,6 +477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -489,6 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -595,7 +599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (1), function (1), require (1)
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (5), feature (2), [[Neural Networks]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -681,8 +685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Feature Engineering]] (1), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6), is called (1)
-> **Code Keywords:** case, (2), require (1), for. (1), let (1), finally, (1)
 > **Analogies:** for example (4)
 > **Warnings:** be careful (3), watch out (1)
 > **CLI Commands:** make (2)
@@ -697,6 +701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -715,7 +720,7 @@ created: 2026-04-29
 
 ### 2. Data Preparation for Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structured vs. unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980)
@@ -784,10 +789,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Unstructured Data]] (10), ai (4), [[Algorithms]] (2), feature (2)
 > **Env Vars:** csv (1), json (1), xml (1), sql (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** self (1), type. (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
@@ -872,11 +877,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unstructured Data]] (5), [[Microsoft Word|Word]] (3), [[Search]] (2), power (2), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** bert (1), gpt (1)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** abstract (1)
 > **Speakers:** - [instructor] (1)
 
 #### Tools for generating vector representations
@@ -954,10 +959,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), api (3), [[Unstructured Data]] (2), [[Python (Programming Language)|Python]] (2), [[Hugging Face]] (2)
 > **Env Vars:** api (3), bert (2), clip (2), aws (2), vgg (1)
 > **CLI Commands:** make (2), python (2), aws (2)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (1), interface (1), self (1)
 > **Analogies:** kind of like (1), similar to (1)
 > **Code Identifiers:** fasttext (1)
 > **Warnings:** keep in mind (1)
@@ -1012,6 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Semantic Search]] (2), [[Unstructured Data]] (1), ai (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Env Vars:** pca (1)
@@ -1028,6 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unstructured Data]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1047,14 +1054,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
 
 ### 3. Data Quality Assessment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elements of data quality: Consistency, accuracy, and completeness
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980)
@@ -1121,9 +1128,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), product (6), [[Unstructured Data]] (5), ai (3), business (3)
 > **CLI Commands:** make (9)
 > **Analogies:** for example (3)
-> **Code Keywords:** require (1), finally, (1)
 > **Speakers:** - [presenter] (1)
 
 #### Statistical techniques for data quality assessment
@@ -1213,8 +1220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), product (7), [[Microsoft Products|Products]] (2), traffic (1)
 > **Analogies:** for example (11), such as (2)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** irq (1)
 > **Versions:** 1.5 (1)
@@ -1231,6 +1238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), ai (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1247,13 +1255,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), ai (1)
 > **Non-Speech:** (upbeat energetic music) (1), (upbeat energetic music fades) (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 4. Data Augmentation for Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980)
@@ -1342,9 +1351,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Microsoft Word|Word]] (3), [[Conversational AI]] (1)
 > **Analogies:** for example (8), such as (1)
 > **Definitions:** known as (4)
-> **Code Keywords:** case, (1), from. (1)
 > **Warnings:** keep in mind (1), watch out (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1458,10 +1467,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), llm (5), data (1), next (1)
 > **Analogies:** for example (7)
 > **Env Vars:** llm (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1563,9 +1572,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (11), [[Information Retrieval]] (4), database (4), [[Databases]] (3), llm (2)
 > **Env Vars:** rag (11), llm (2), sql (1)
 > **Analogies:** for example (5), such as (2)
-> **Code Keywords:** module (2), static (1), let (1), finally, (1)
 > **Definitions:** is a  (4)
 > **Warnings:** be aware (2)
 > **Prerequisites:** you'll need (1)
@@ -1648,10 +1657,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LangChain]] (14), rag (2), [[Large Language Models (LLM)|Large language models]] (2), open-source (2), data (2)
 > **Env Vars:** rag (2), llm (1), pdf (1), api (1)
 > **Definitions:** known as (2), is a  (1), is an  (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1678,14 +1687,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 5. Knowledge Augmentation for Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of knowledge augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980)
@@ -1818,8 +1826,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Knowledge Graphs]] (6), [[Electronics]] (2), [[Large Language Models (LLM)|Large language models]] (1), feature (1)
 > **Definitions:** known as (4), is a  (2), is an  (2)
-> **Code Keywords:** case, (2), public (1), let (1), require (1), this. (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1879,6 +1887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Reinforcement Learning]] (2), [[LangChain]] (2), [[Hugging Face]] (1), chatbot (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** nvidia (2), llm (1)
 > **Warnings:** watch out (2), keep in mind (1)
@@ -1969,10 +1978,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (5), database (3), data (3), [[Python (Programming Language)|Python]] (2), llm (2)
 > **Definitions:** is a  (8), is an  (1)
 > **Env Vars:** rdf (2), llm (2), aws (1), sparql (1)
 > **CLI Commands:** make (2), python (2), aws (1)
-> **Code Keywords:** case, (1), let (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1999,13 +2008,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. Development Practices for AI Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining what data sources to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980)
@@ -2084,7 +2094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), static (1)
+> **Frameworks & Libraries:** data (23), ai (4), business (2), management (2), product (2)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** keep in mind (2)
 > **Prerequisites:** set up (2)
@@ -2177,8 +2187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), product (3), [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (12)
-> **Code Keywords:** finally, (3), let (2), continue (1)
 > **Analogies:** for example (5)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -2288,8 +2298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Generative AI]] (4), [[Algorithms]] (3), ai (2), [[Forecasting]] (1)
 > **Analogies:** for example (7)
-> **Code Keywords:** let (2), for. (1), finally, (1)
 > **Warnings:** keep in mind (2), watch out (1), be aware (1)
 > **Env Vars:** dbscan (1), api (1), rag (1)
 > **CLI Commands:** make (1)
@@ -2391,7 +2401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), for. (1), this, (1)
+> **Frameworks & Libraries:** prompt (3), [[Generative AI]] (2), [[Continuous Monitoring]] (1), data (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -2407,7 +2417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** ai (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
@@ -2422,7 +2432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** ai (1), [[Predictive AI]] (1), [[Generative AI]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -2430,7 +2440,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980)
@@ -2451,6 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Data Engineering]] (4), [[Generative AI]] (3), [[Engineering]] (2), [[LangChain]] (2)
 > **Speakers:** - [instructor] (1)
 
 

@@ -32,7 +32,7 @@ tags:
   - skill/angular
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/WebSocket%20Communications%20with%20Node%20and%20Angular.md)
@@ -51,42 +51,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - What are WebSockets?
-  - Preview the chat app we will build together
-  - What you should know
+  - [What are WebSockets?](#what-are-websockets)
+  - [Preview the chat app we will build together](#preview-the-chat-app-we-will-build-together)
+  - [What you should know](#what-you-should-know)
 - [**1. Environment: TypeScript, Node, and Angular**](#1-environment-typescript-node-and-angular) (6 videos)
-  - How to clone the code at any stage
-  - Create shared datatypes library
-  - Create the Node.js service
-  - Create the client Angular application
-  - Review the project structure
-  - Add the WebSocket server to Node.js
+  - [How to clone the code at any stage](#how-to-clone-the-code-at-any-stage)
+  - [Create shared datatypes library](#create-shared-datatypes-library)
+  - [Create the Node.js service](#create-the-nodejs-service)
+  - [Create the client Angular application](#create-the-client-angular-application)
+  - [Review the project structure](#review-the-project-structure)
+  - [Add the WebSocket server to Node.js](#add-the-websocket-server-to-nodejs)
 - [**2. Stand Up a WebSocket Service**](#2-stand-up-a-websocket-service) (6 videos)
-  - Receive your first WebSocket connection
-  - Manage multiple connected users
-  - Standardize WebSocket message shape
-  - Broadcast new chat message to all
-  - Challenge: Notify all when a new user connects
-  - Solution: Notify all when a user connects
+  - [Receive your first WebSocket connection](#receive-your-first-websocket-connection)
+  - [Manage multiple connected users](#manage-multiple-connected-users)
+  - [Standardize WebSocket message shape](#standardize-websocket-message-shape)
+  - [Broadcast new chat message to all](#broadcast-new-chat-message-to-all)
+  - [Challenge: Notify all when a new user connects](#challenge-notify-all-when-a-new-user-connects)
+  - [Solution: Notify all when a user connects](#solution-notify-all-when-a-user-connects)
 - [**3. Build the UI with Angular**](#3-build-the-ui-with-angular) (4 videos)
-  - A quick look at Angular
-  - Set up the chat component
-  - Prototype the chat UI
-  - Add the connection UI
+  - [A quick look at Angular](#a-quick-look-at-angular)
+  - [Set up the chat component](#set-up-the-chat-component)
+  - [Prototype the chat UI](#prototype-the-chat-ui)
+  - [Add the connection UI](#add-the-connection-ui)
 - [**4. Turn On WebSockets in the UI**](#4-turn-on-websockets-in-the-ui) (7 videos)
-  - Simulate authentication on new connections
-  - Connect the web app to the socket
-  - Start chatting
-  - Challenge: Show notification when user enters or leaves
-  - Solution: Show notification when user enters or leaves
-  - Challenge: Show list of connected users
-  - Solution: Show list of connected users
+  - [Simulate authentication on new connections](#simulate-authentication-on-new-connections)
+  - [Connect the web app to the socket](#connect-the-web-app-to-the-socket)
+  - [Start chatting](#start-chatting)
+  - [Challenge: Show notification when user enters or leaves](#challenge-show-notification-when-user-enters-or-leaves)
+  - [Solution: Show notification when user enters or leaves](#solution-show-notification-when-user-enters-or-leaves)
+  - [Challenge: Show list of connected users](#challenge-show-list-of-connected-users)
+  - [Solution: Show list of connected users](#solution-show-list-of-connected-users)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are WebSockets?
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980)
@@ -119,6 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WebSocket|Websockets]] (2), [[WebSocket]] (2), game (1), node (1), application (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [patrick (1)
 
@@ -177,9 +178,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WebSocket|Websockets]] (3), application (3), product (2), [[Windows]] (1), hit (1)
 > **Documentation:** the readme (3)
 > **CLI Commands:** make (1), git (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** ide (1)
 > **UI Navigation:** go to (1)
@@ -228,16 +229,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (5), [[Git]] (4), [[Programming]] (2), [[Node.js]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** git (4), node (3), find (1)
 > **File Paths:** node.js (2)
-> **Code Keywords:** break, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Environment: TypeScript, Node, and Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to clone the code at any stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980)
@@ -314,8 +315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (9), application (3), prompt (2), web (1), next (1)
 > **CLI Commands:** git (9), make (4), find (1), npm (1)
-> **Code Keywords:** let (5), from. (2)
 > **UI Navigation:** open the (2), select the (1), dropdown (1), go to (1)
 > **Env Vars:** url (2), ide (1), npm (1)
 > **Tools:** command prompt (2)
@@ -416,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (3), delete (1), require (1)
+> **Frameworks & Libraries:** [[WebSocket]] (2), data (1), [[JSON]] (1), application (1)
 > **CLI Commands:** make (6)
 > **File Paths:** tsconfigbase.json (1), index.ts (1)
 > **Env Vars:** readme (1)
@@ -494,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[WebSocket]] (2), application (2), node (1)
 > **Env Vars:** json (4)
 > **File Paths:** main.ts (2), project.json (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -612,7 +613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (2), class, (1)
+> **Frameworks & Libraries:** [[Angular]] (10), application (7), [[JSON]] (3), css (2), [[HTML]] (2)
 > **File Paths:** package.json (2), project.json (1), app.component.ts (1), component.scss (1), component.css (1)
 > **Env Vars:** html (2), readme (1), css (1), sas (1)
 > **CLI Commands:** make (3)
@@ -684,8 +685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (5), application (2), data (1), [[Angular]] (1)
 > **File Paths:** package.json (2), workspace.json (2), index.ts (2), project.json (1), main.ts (1)
-> **Code Keywords:** let (3), finally, (1), module (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
@@ -798,7 +799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (6), class, (2), private (1), pass (1)
+> **Frameworks & Libraries:** web (12), application (2), [[GitHub]] (2), feature (1), [[npm]] (1)
 > **CLI Commands:** npm (1), node (1), make (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
@@ -810,7 +811,7 @@ created: 2026-04-29
 
 ### 2. Stand Up a WebSocket Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Receive your first WebSocket connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980)
@@ -937,7 +938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (1), interface (1), self (1), function (1)
+> **Frameworks & Libraries:** [[WebSocket]] (6), data (5), web (4), [[JSON]] (3), application (1)
 > **Env Vars:** json (3), url (1)
 > **Ports:** port 8080 (2)
 > **Cross-References:** go back to (1)
@@ -1061,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (2), class, (1), case, (1), private (1)
+> **Frameworks & Libraries:** [[WebSocket]] (2), next (1), [[JSON]] (1), parallel (1)
 > **Code Identifiers:** onsocketconnected (2), onsocketclosed (2), sendtoall (1), readystate (1), usermanager (1)
 > **Env Vars:** json (1), open (1), ide (1)
 > **UI Navigation:** go to (1), open the (1)
@@ -1177,7 +1178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), interface (1), type. (1), type, (1)
+> **Frameworks & Libraries:** [[WebSocket]] (2), application (2), data (2), [[WebSocket|Websockets]] (1), product (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), navigate to (1)
 > **File Paths:** index.ts (2)
@@ -1249,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (4)
+> **Frameworks & Libraries:** [[WebSocket]] (2), [[WebSocket|Websockets]] (1), generic (1), data (1)
 > **Code Identifiers:** onsocketmessage (2), usermanager (2), sendtoall (2)
 > **UI Navigation:** navigate to (1)
 > **Definitions:** is a  (1)
@@ -1285,6 +1286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2)
 > **Code Identifiers:** onsocketconnected (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1434,7 +1436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), type. (1), function (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** web (2), [[Search]] (2), database (1)
 > **Env Vars:** url (9), ide (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
@@ -1446,7 +1448,7 @@ created: 2026-04-29
 
 ### 3. Build the UI with Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick look at Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980)
@@ -1525,7 +1527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (3), class. (2), class, (1), switch (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[HTML]] (3), application (2), [[JavaScript]] (1), [[SaaS]] (1)
 > **Exercise Files:** template (7)
 > **Env Vars:** html (3), readme (1), css (1), scss (1)
 > **UI Navigation:** scroll down (1), navigate to (1)
@@ -1675,7 +1677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), pass (2), implements (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Angular]] (8), data (4), css (3), application (3), [[WebSocket]] (2)
 > **Exercise Files:** template (6)
 > **Code Identifiers:** currentuser (4), ngfor (1)
 > **Env Vars:** css (3)
@@ -1795,7 +1797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), module (4), case, (3), this. (1)
+> **Frameworks & Libraries:** application (5), [[Angular]] (5), css (2), api (1), next (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** css (2), ide (1), api (1), json (1)
 > **Exercise Files:** template (5)
@@ -1955,7 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), module (4), switch (4), finally, (1), pass (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[HTML]] (2), web (1), api (1), css (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** html (2), api (1), css (1)
 > **Exercise Files:** template (3)
@@ -1967,7 +1969,7 @@ created: 2026-04-29
 
 ### 4. Turn On WebSockets in the UI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simulate authentication on new connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980)
@@ -2058,7 +2060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), switch (1)
+> **Frameworks & Libraries:** data (2), application (2), [[JSON]] (2), [[WebSocket]] (1), next (1)
 > **Code Identifiers:** usermanager (3), loginmessage (3)
 > **UI Navigation:** open the (2), navigate to (1), go to (1)
 > **Env Vars:** json (2), ide (1)
@@ -2248,7 +2250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (4), switch (3), case. (2), module (1)
+> **Frameworks & Libraries:** [[WebSocket]] (9), application (8), [[Angular]] (2), next (2), [[Debugging]] (1)
 > **Code Identifiers:** websocket (5), currentuser (4), onmessagefromserver (1), username (1)
 > **UI Navigation:** go to (3), scroll down (1), navigate to (1), switch to (1)
 > **Exercise Files:** template (4)
@@ -2482,7 +2484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), pass (3), this. (2), break. (2), switch (1)
+> **Frameworks & Libraries:** web (5), next (5), [[WebSocket]] (2), [[Angular]] (2), data (1)
 > **CLI Commands:** make (2), find (1), npm (1)
 > **Code Identifiers:** chatinput (3), appservice (1)
 > **UI Navigation:** go to (4)
@@ -2524,7 +2526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat intro music) (1)
@@ -2722,7 +2724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), module (3), case. (2), type. (1), break. (1)
+> **Frameworks & Libraries:** [[Angular]] (3), web (3), application (2), data (1), next (1)
 > **UI Navigation:** go to (5), scroll down (1)
 > **Code Identifiers:** usermanager (2), ws_handler (1)
 > **Env Vars:** instructor (1), api (1), json (1)
@@ -2778,7 +2780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), require (1)
+> **Frameworks & Libraries:** data (3), web (2), next (1), application (1)
 > **Env Vars:** cml (1)
 > **UI Navigation:** navigate to (1)
 > **Exercise Files:** template (1)
@@ -2948,7 +2950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), this. (2), function (2), class. (2), case, (1)
+> **Frameworks & Libraries:** web (3), next (1), application (1), [[Fetch]] (1), [[SaaS]] (1)
 > **Code Identifiers:** userlist (2), updateuserlist (1), senduserlist (1), userlistmessage (1), currentuser (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3), navigate to (1)
@@ -2960,7 +2962,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980)
@@ -2989,7 +2991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** [[WebSocket]] (2), application (1), [[Unit Testing]] (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -28,7 +28,7 @@ tags:
   - skill/computer-networking
   - skill/computer-network-operations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Mpls%20Foundations%20Getting%20Started%20With%20Mpls.md)
@@ -47,41 +47,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Become an MPLS expert
+  - [Become an MPLS expert](#become-an-mpls-expert)
 - [**1. MPLS Architecture**](#1-mpls-architecture) (5 videos)
-  - IP forwarding
-  - MPLS control plane and data plane
-  - Packet forwarding in an MPLS network
-  - Penultimate hop popping (PHP)
-  - MPLS label
+  - [IP forwarding](#ip-forwarding)
+  - [MPLS control plane and data plane](#mpls-control-plane-and-data-plane)
+  - [Packet forwarding in an MPLS network](#packet-forwarding-in-an-mpls-network)
+  - [Penultimate hop popping (PHP)](#penultimate-hop-popping-php)
+  - [MPLS label](#mpls-label)
 - [**2. MPLS Terminology**](#2-mpls-terminology) (4 videos)
-  - Label switch router (LSR)
-  - Label switched path (LSP)
-  - Forwarding equivalence class (FEC)
-  - Frame mode MPLS vs. cell mode MPLS
+  - [Label switch router (LSR)](#label-switch-router-lsr)
+  - [Label switched path (LSP)](#label-switched-path-lsp)
+  - [Forwarding equivalence class (FEC)](#forwarding-equivalence-class-fec)
+  - [Frame mode MPLS vs. cell mode MPLS](#frame-mode-mpls-vs-cell-mode-mpls)
 - [**3. Label Distribution Protocol (LDP)**](#3-label-distribution-protocol-ldp) (5 videos)
-  - Label distribution protocols
-  - MPLS LDP configuration in Cisco IOS
-  - MPLS  LDP  neighborship
-  - LDP neighborship verification
-  - LDP parameters configuration
+  - [Label distribution protocols](#label-distribution-protocols)
+  - [MPLS LDP configuration in Cisco IOS](#mpls-ldp-configuration-in-cisco-ios)
+  - [MPLS  LDP  neighborship](#mpls-ldp-neighborship)
+  - [LDP neighborship verification](#ldp-neighborship-verification)
+  - [LDP parameters configuration](#ldp-parameters-configuration)
 - [**4. Advanced LDP Configuration**](#4-advanced-ldp-configuration) (5 videos)
-  - LDP authentication
-  - Controlling the advertisement of labels via LDP
-  - MPLS LDP inbound label binding filtering
-  - TTL behavior of labeled packets
-  - Tracerouting in MPLS networks
+  - [LDP authentication](#ldp-authentication)
+  - [Controlling the advertisement of labels via LDP](#controlling-the-advertisement-of-labels-via-ldp)
+  - [MPLS LDP inbound label binding filtering](#mpls-ldp-inbound-label-binding-filtering)
+  - [TTL behavior of labeled packets](#ttl-behavior-of-labeled-packets)
+  - [Tracerouting in MPLS networks](#tracerouting-in-mpls-networks)
 - [**5.Different MPLS Modes**](#5different-mpls-modes) (4 videos)
-  - MPLS label spaces
-  - Label distribution mode
-  - Label retention modes
-  - LSP control modes
+  - [MPLS label spaces](#mpls-label-spaces)
+  - [Label distribution mode](#label-distribution-mode)
+  - [Label retention modes](#label-retention-modes)
+  - [LSP control modes](#lsp-control-modes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Become an MPLS expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/become-an-mpls-expert?u=76281980)
@@ -100,15 +100,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), game (1)
 > **Env Vars:** mpls (6)
-> **Code Keywords:** let (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [arash] (1)
 
 
 ### 1. MPLS Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IP forwarding
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980)
@@ -151,8 +151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Routing]] (3), [[Routing Protocols]] (2), next (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
 > **Env Vars:** fib (5), rib (3), ospf (1), bgp (1), rip (1)
-> **Code Keywords:** interface (4)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -268,8 +268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (12), [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), [[Routing]] (6), data (4), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1)
 > **Env Vars:** mpls (9), lib (9), fib (7), ldp (6), lfib (5)
-> **Code Keywords:** let (4), interface (2), switch (2)
 > **Versions:** 10.2.3 (2), 10.3.4 (2), 10.1.2 (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is called (1)
@@ -328,8 +328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), data (1)
 > **Env Vars:** lfib (8), fib (7), mpls (4), nfi (1)
-> **Code Keywords:** let (2), this, (1), finally, (1), switch (1)
 > **Versions:** 10.1.2 (1), 10.2.3 (1), 10.3.4 (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
@@ -399,9 +399,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (8), [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), feature (3), [[Routing]] (1)
 > **Env Vars:** php (8), mpls (7), fib (7), lfib (5), lib (1)
 > **CLI Commands:** php (8)
-> **Code Keywords:** let (2), default, (1)
 > **Code Identifiers:** ios (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [presenter] (1)
@@ -465,8 +465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), next (2), data (1)
 > **Env Vars:** mpls (11), ttl (5), exp (2), osi (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **Versions:** 2.5 (1)
 > **Speakers:** - [instructor] (1)
@@ -474,7 +474,7 @@ created: 2026-04-29
 
 ### 2. MPLS Terminology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Label switch router (LSR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980)
@@ -523,8 +523,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), data (3), [[PHP]] (1), next (1)
 > **Env Vars:** lsr (10), mpls (9), php (1)
-> **Code Keywords:** switch (3), finally, (1), let (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** php (1)
 > **Cross-References:** in the next (1)
@@ -577,8 +577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), next (3), [[Traffic Engineering]] (1)
 > **Env Vars:** lsp (18), lsr (11), mpls (9)
-> **Code Keywords:** switch (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -653,9 +653,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), traffic (3), [[Routing]] (3), [[Scalability]] (1), management (1)
 > **Env Vars:** mpls (10), fec (9), lsr (2), fec1 (1), fec2 (1)
 > **Versions:** 4.4.4 (3), 5.5.5 (3)
-> **Code Keywords:** class, (2), let (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -713,8 +713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (17), [[Routing]] (1), next (1), data (1)
 > **Env Vars:** mpls (17), atm (9), vpi (4), vci (4)
-> **Code Keywords:** interface (2), let (1), pass (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -722,7 +722,7 @@ created: 2026-04-29
 
 ### 3. Label Distribution Protocol (LDP)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Label distribution protocols
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-protocols?u=76281980)
@@ -771,8 +771,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), [[Routing]] (3), next (1)
 > **Env Vars:** ldp (15), tdp (8), mpls (7), ipv4 (2), lsr (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
@@ -841,8 +841,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (36), express (1), feature (1), [[Routing]] (1), [[Troubleshooting]] (1)
 > **Env Vars:** mpls (23), ldp (6), igp (4), cef (2), ospf (2)
-> **Code Keywords:** interface (6), default, (1)
 > **Code Identifiers:** ios (3)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -906,8 +906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), application (1), management (1), traffic (1), next (1)
 > **Env Vars:** ldp (25), tcp (7), udp (3), mpls (2)
-> **Code Keywords:** let (4), interface (3), default, (2), switch (1)
 > **Versions:** 224.0.0 (4)
 > **Ports:** port 646 (2)
 > **Prerequisites:** set up (2)
@@ -970,9 +970,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), next (1)
 > **Env Vars:** ldp (28), mpls (4), quad (4), lsr (3), tcp (1)
 > **Definitions:** refers to (3), means that (2), is a  (1)
-> **Code Keywords:** interface (2), let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1043,8 +1043,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6)
 > **Env Vars:** ldp (32), mpls (6), pdr (1), ldppr (1)
-> **Code Keywords:** default, (1), interface (1), case, (1), new ( (1)
 > **Versions:** 2.67 (2)
 > **Prerequisites:** configure (1), set up (1)
 > **Code Identifiers:** ios (1)
@@ -1053,7 +1053,7 @@ created: 2026-04-29
 
 ### 4. Advanced LDP Configuration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LDP authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-authentication?u=76281980)
@@ -1142,9 +1142,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (16), [[Security]] (1), next (1)
 > **Env Vars:** ldp (13), tcp (4), md5 (4), acl (2), acl1 (2)
 > **Prerequisites:** configure (6), set up (1)
-> **Code Keywords:** let (2), for. (1), require (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1226,9 +1226,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (14), feature (1), [[Routing]] (1), next (1)
 > **Env Vars:** ldp (6), lib (4), acl2 (4), mpls (3), acl1 (3)
 > **Versions:** 192.168.254 (21)
-> **Code Keywords:** let (7), finally, (2), switch (1)
 > **Prerequisites:** configure (5)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -1268,9 +1268,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), feature (1), next (1)
 > **Env Vars:** acl (3), ldppr (1), nbr_address (1)
 > **Versions:** 192.168.254 (4)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** configure (1)
@@ -1327,9 +1327,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), vpn (3), cloud (1), next (1)
 > **Env Vars:** ttl (15), mpls (11), icmp (7), lsr (6), vpn (3)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (1), pass (1)
 > **Analogies:** such as (1), similar to (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1379,15 +1379,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Routing]] (1)
 > **Env Vars:** ttl (9), icmp (7), mpls (3), lsp (2), ips (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5.Different MPLS Modes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MPLS label spaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label-spaces?u=76281980)
@@ -1430,8 +1430,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6)
 > **Env Vars:** mpls (5), lsra (3), fec1 (3), ldp (3), gi0 (2)
-> **Code Keywords:** interface (11), let (2)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1477,8 +1477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), [[Routing]] (2), next (2), traffic (1), [[Scalability]] (1)
 > **Env Vars:** mpls (6), ldp (3), lib (2), igp (1), lsr (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1507,6 +1507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), next (1), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[Routing]] (1)
 > **Env Vars:** llr (2), clr (2), lsr (1), ldp (1), mpls (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1552,16 +1553,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Routing]] (1)
 > **Env Vars:** lsr (10), lsp (6), fec (5), mpls (3)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** switch (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980)
@@ -1594,8 +1595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), vpn (2), game (1), [[Traffic Engineering]] (1), traffic (1)
 > **Env Vars:** mpls (10), vpn (2)
-> **Code Keywords:** private (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)

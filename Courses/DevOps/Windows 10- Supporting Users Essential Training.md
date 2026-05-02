@@ -23,7 +23,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Windows%2010-%20Supporting%20Users%20Essential%20Training.md)
@@ -42,69 +42,69 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Supporting users in Windows 10
-  - What you should know
+  - [Supporting users in Windows 10](#supporting-users-in-windows-10)
+  - [What you should know](#what-you-should-know)
 - [**1. Navigate the Windows 10 Interface**](#1-navigate-the-windows-10-interface) (11 videos)
-  - Start menu
-  - The Action Center
-  - Tablet mode
-  - Manage and switch apps
-  - The new clipboard
-  - Focus Assist
-  - The Search interface
-  - Customize Search settings
-  - Access work through Timeline
-  - Using the Microsoft Store
-  - Create virtual desktops
+  - [Start menu](#start-menu)
+  - [The Action Center](#the-action-center)
+  - [Tablet mode](#tablet-mode)
+  - [Manage and switch apps](#manage-and-switch-apps)
+  - [The new clipboard](#the-new-clipboard)
+  - [Focus Assist](#focus-assist)
+  - [The Search interface](#the-search-interface)
+  - [Customize Search settings](#customize-search-settings)
+  - [Access work through Timeline](#access-work-through-timeline)
+  - [Using the Microsoft Store](#using-the-microsoft-store)
+  - [Create virtual desktops](#create-virtual-desktops)
 - [**2. Manage Application Performance and Compatibility**](#2-manage-application-performance-and-compatibility) (11 videos)
-  - Manage application compatibility
-  - Disable S mode
-  - Application compatibility and the ADK
-  - Get performance data from Task Manager
-  - An introduction to the Resource Monitor
-  - An introduction to Performance Monitor
-  - Viewing your hardware specifications
-  - Windows Storage Sense
-  - Uninstalling unwanted applications
-  - Remove Windows bloatware
-  - Modifying Windows Startup
+  - [Manage application compatibility](#manage-application-compatibility)
+  - [Disable S mode](#disable-s-mode)
+  - [Application compatibility and the ADK](#application-compatibility-and-the-adk)
+  - [Get performance data from Task Manager](#get-performance-data-from-task-manager)
+  - [An introduction to the Resource Monitor](#an-introduction-to-the-resource-monitor)
+  - [An introduction to Performance Monitor](#an-introduction-to-performance-monitor)
+  - [Viewing your hardware specifications](#viewing-your-hardware-specifications)
+  - [Windows Storage Sense](#windows-storage-sense)
+  - [Uninstalling unwanted applications](#uninstalling-unwanted-applications)
+  - [Remove Windows bloatware](#remove-windows-bloatware)
+  - [Modifying Windows Startup](#modifying-windows-startup)
 - [**3. Understand Browser Support**](#3-understand-browser-support) (6 videos)
-  - An overview of Microsoft Edge
-  - Edge settings
-  - Configure Edge with Group Policy
-  - Edge browser extensions
-  - Inking with Edge
-  - Safe Browsing with Application Guard
+  - [An overview of Microsoft Edge](#an-overview-of-microsoft-edge)
+  - [Edge settings](#edge-settings)
+  - [Configure Edge with Group Policy](#configure-edge-with-group-policy)
+  - [Edge browser extensions](#edge-browser-extensions)
+  - [Inking with Edge](#inking-with-edge)
+  - [Safe Browsing with Application Guard](#safe-browsing-with-application-guard)
 - [**4. Connectivity and Hardware**](#4-connectivity-and-hardware) (6 videos)
-  - Smartphone connectivity
-  - Windows Ink and the Surface Pen
-  - Miracast support
-  - Bluetooth
-  - The Surface Dial
-  - Mixed Reality Portal
+  - [Smartphone connectivity](#smartphone-connectivity)
+  - [Windows Ink and the Surface Pen](#windows-ink-and-the-surface-pen)
+  - [Miracast support](#miracast-support)
+  - [Bluetooth](#bluetooth)
+  - [The Surface Dial](#the-surface-dial)
+  - [Mixed Reality Portal](#mixed-reality-portal)
 - [**5. Remote Connectivity**](#5-remote-connectivity) (4 videos)
-  - Enable remote connectivity to Windows 10
-  - Use Remote Desktop Services
-  - Remote Desktop Connection Manager
-  - Remote Assistance
+  - [Enable remote connectivity to Windows 10](#enable-remote-connectivity-to-windows-10)
+  - [Use Remote Desktop Services](#use-remote-desktop-services)
+  - [Remote Desktop Connection Manager](#remote-desktop-connection-manager)
+  - [Remote Assistance](#remote-assistance)
 - [**6. Use Backup and Recovery Options**](#6-use-backup-and-recovery-options) (7 videos)
-  - Create a traditional backup
-  - Restore a traditional backup
-  - Create an image backup
-  - Restore an image backup
-  - Create a file history backup
-  - Restore a file history backup
-  - Refresh the Windows operating system
+  - [Create a traditional backup](#create-a-traditional-backup)
+  - [Restore a traditional backup](#restore-a-traditional-backup)
+  - [Create an image backup](#create-an-image-backup)
+  - [Restore an image backup](#restore-an-image-backup)
+  - [Create a file history backup](#create-a-file-history-backup)
+  - [Restore a file history backup](#restore-a-file-history-backup)
+  - [Refresh the Windows operating system](#refresh-the-windows-operating-system)
 - [**7. Manage OneDrive Integration**](#7-manage-onedrive-integration) (3 videos)
-  - Add an account to OneDrive
-  - Files On-Demand
-  - OneDrive backup
+  - [Add an account to OneDrive](#add-an-account-to-onedrive)
+  - [Files On-Demand](#files-on-demand)
+  - [OneDrive backup](#onedrive-backup)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More about Windows 10 IT support
+  - [More about Windows 10 IT support](#more-about-windows-10-it-support)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supporting users in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980)
@@ -133,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft]] (3), [[Windows]] (2), [[LinkedIn]] (2), application (1)
 > **Env Vars:** mvp (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
@@ -157,6 +158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (1), [[Hardware]] (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -164,7 +166,7 @@ created: 2026-04-29
 
 ### 1. Navigate the Windows 10 Interface
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980)
@@ -217,7 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3), [[Microsoft]] (3)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1)
@@ -269,7 +271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), function (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft]] (2), [[Windows 10]] (2), [[Microsoft OneDrive|Onedrive]] (1), [[Privacy]] (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** vpn (1)
@@ -349,8 +351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3), [[Microsoft]] (1), [[Hardware]] (1)
 > **UI Navigation:** switch to (4), go to (3), click on (3), dropdown (1), toggle (1)
-> **Code Keywords:** switch (6)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -431,7 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (2), continue (1)
+> **Frameworks & Libraries:** application (8), [[Windows]] (5), hit (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (4), open the (1), select the (1)
 > **CLI Commands:** make (2), snap (1)
 > **Definitions:** is a  (1)
@@ -530,8 +532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), application (4), data (3), [[Microsoft]] (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (3), go to (1), right-click (1)
-> **Code Keywords:** let (3), default. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** as you saw (1)
 > **Warnings:** be aware (1)
@@ -590,10 +592,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Representational State Transfer (REST)|Rest]] (1), game (1)
 > **UI Navigation:** click on (2), open the (1), go to (1), select the (1)
 > **Ports:** :00 (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -700,8 +702,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (18), web (7), [[Microsoft]] (6), application (6), next (3)
 > **UI Navigation:** click on (5), open the (3), scroll down (1)
-> **Code Keywords:** interface (5), let (2), for. (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -768,7 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1), case, (1), default. (1), switch (1)
+> **Frameworks & Libraries:** [[Search]] (18), [[Microsoft]] (6), [[Windows]] (4), [[Windows 10]] (1), next (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -826,6 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows 10]] (2), [[Privacy]] (2), feature (1), [[Powershell]] (1)
 > **UI Navigation:** click on (5), go to (2), checkbox (2), select the (1)
 > **Cross-References:** go back to (4)
 > **Analogies:** for example (2)
@@ -833,7 +836,6 @@ created: 2026-04-29
 > **Env Vars:** vlc (1)
 > **Tools:** powershell (1)
 > **Definitions:** is a  (1)
-> **Speakers:** - [instructor] (1)
 
 #### Using the Microsoft Store
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/using-the-microsoft-store?u=76281980)
@@ -876,6 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (2), [[Windows 10]] (2), application (2), [[Search]] (2), [[Windows]] (1)
 > **Prerequisites:** install (5), you'll need (1)
 > **UI Navigation:** click on (3), select the (1), go to (1)
 > **Env Vars:** vlc (3)
@@ -934,8 +937,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Microsoft]] (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (7), toggle (1), scroll down (1)
-> **Code Keywords:** let (2), new, (2), if, (1), switch (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** install (2)
 > **CLI Commands:** find (1)
@@ -946,7 +949,7 @@ created: 2026-04-29
 
 ### 2. Manage Application Performance and Compatibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage application compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-application-compatibility?u=76281980)
@@ -1007,9 +1010,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3), application (2), next (2)
 > **UI Navigation:** click on (2), right-click (1), checkbox (1)
 > **Warnings:** troubleshoot (4)
-> **Code Keywords:** let (2), try. (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** vlc (2)
 > **Best Practices:** recommended (2)
@@ -1105,8 +1108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (8), [[Microsoft]] (8), application (4), [[Windows]] (3), [[Security]] (2)
 > **UI Navigation:** click on (7), go to (5), scroll down (2), switch to (2)
-> **Code Keywords:** switch (6), let (3), this. (2), this, (1)
 > **Prerequisites:** install (9)
 > **Env Vars:** vlc (3)
 > **Definitions:** known as (1), is a  (1), in other words (1)
@@ -1190,12 +1193,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (7), [[Windows]] (5), application (4), [[Search]] (4), [[Microsoft]] (3)
 > **UI Navigation:** click on (7), scroll down (1), open the (1), select the (1), go to (1)
 > **Prerequisites:** install (3), set up (1)
 > **Versions:** version 2004 (1), 1.1 (1), 7.8 (1)
 > **Exercise Files:** download the (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** adk (1)
 > **Analogies:** for example (1)
 
@@ -1248,11 +1251,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Windows]] (2)
 > **UI Navigation:** click on (6), open the (1), select the (1)
 > **Env Vars:** gpu (3), cpu (2), mgr (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** delete (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
@@ -1329,9 +1332,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Windows]] (1), traffic (1)
 > **Env Vars:** cpu (10)
 > **UI Navigation:** click on (4), open the (2)
-> **Code Keywords:** let (4), private (1)
 > **CLI Commands:** find (1), cp (1)
 > **Code Identifiers:** taskmgr (2)
 > **Analogies:** for example (2)
@@ -1405,10 +1408,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), [[Hardware]] (1), [[Performance Metrics]] (1), [[Windows 10]] (1)
 > **Env Vars:** cpu (5)
 > **Analogies:** for example (3)
 > **UI Navigation:** right-click (1), click on (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Viewing your hardware specifications
@@ -1468,10 +1471,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Windows 10]] (2), [[Troubleshooting]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Env Vars:** ram (1), acpi (1), cpu (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** this. (1), let (1)
 > **Analogies:** for example (2)
 > **Versions:** 1.3 (1)
 > **Prerequisites:** install (1)
@@ -1568,9 +1571,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (9), next (4), feature (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (9)
 > **Prerequisites:** configure (6), set up (1)
-> **Code Keywords:** delete (3), let (1), default, (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1617,8 +1620,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Teams]] (4), application (3), [[Windows 10]] (2), [[Microsoft]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -1691,8 +1694,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (10), [[Powershell]] (5), [[Windows]] (3), [[GitHub]] (2), cd (2)
 > **UI Navigation:** click on (5), go to (2), scroll down (1)
-> **Code Keywords:** switch (3), let (2), this. (1), default. (1)
 > **Tools:** powershell (5), github (2)
 > **CLI Commands:** find (2), cd (2)
 > **Exercise Files:** zip file (3), download the (1)
@@ -1757,9 +1760,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), application (3), [[Windows 10]] (2), web (2), prompt (1)
 > **Definitions:** means that (2), is a  (2), in other words (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1), right-click (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
@@ -1767,7 +1770,7 @@ created: 2026-04-29
 
 ### 3. Understand Browser Support
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of Microsoft Edge
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980)
@@ -1812,7 +1815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1), let (1), interface (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows 10]] (3), [[Google]] (2), next (2), [[Windows]] (1)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1857,10 +1860,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Microsoft]] (2), data (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** for. (1), if, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Configure Edge with Group Policy
@@ -1990,8 +1993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (7), [[Active Directory]] (5), next (4), management (4), [[Microsoft]] (3)
 > **UI Navigation:** go to (7), right-click (6), click on (5), select the (4), scroll down (2)
-> **Code Keywords:** switch (2), let (1), this. (1), new, (1), case, (1)
 > **Prerequisites:** configure (3), install (2), you'll need (1)
 > **Env Vars:** rsat (3), url (1)
 > **Exercise Files:** zip file (2)
@@ -2038,9 +2041,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (6), next (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Prerequisites:** install (4)
-> **Code Keywords:** let (1)
 > **Speakers:** - like (1)
 
 #### Inking with Edge
@@ -2076,6 +2079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft]] (1)
 > **Env Vars:** pdf (5)
 > **UI Navigation:** dropdown (1), click on (1)
 > **Analogies:** for instance (1), for example (1)
@@ -2146,8 +2150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (19), [[Windows]] (4), [[Microsoft Defender]] (3), next (3), [[Microsoft]] (3)
 > **UI Navigation:** click on (7), go to (2)
-> **Code Keywords:** protected (3), default, (2), let (1), switch (1)
 > **Definitions:** is a  (1), in other words (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** install (1)
@@ -2156,7 +2160,7 @@ created: 2026-04-29
 
 ### 4. Connectivity and Hardware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Smartphone connectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980)
@@ -2285,7 +2289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (3), switch (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows 10]] (6), next (5), [[Android]] (3), [[Windows]] (2)
 > **UI Navigation:** click on (2), select the (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** install (2)
@@ -2365,8 +2369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft Word|Word]] (3), [[Microsoft Office|Office]] (2), [[Windows]] (2), [[Microsoft]] (2)
 > **UI Navigation:** click on (6)
-> **Code Keywords:** let (2), case, (2), switch (1)
 > **Env Vars:** led (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2412,8 +2416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), [[Microsoft]] (2), [[Microsoft Office|Office]] (1), next (1)
 > **UI Navigation:** click on (6), scroll down (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2479,8 +2483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Hardware]] (2), [[Windows 10]] (2), power (2), [[Swift (Programming Language)|Swift]] (2)
 > **UI Navigation:** click on (6)
-> **Code Keywords:** let (3), else, (1), default. (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2576,7 +2580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), default, (1), this, (1), else; (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Hardware]] (1), [[Microsoft]] (1), next (1), [[Windows]] (1)
 > **UI Navigation:** click on (3), go to (1), toggle (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** configure (2), set up (1)
@@ -2638,9 +2642,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (1), business (1), [[Engineering]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1), known as (1)
-> **Code Keywords:** from. (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -2648,7 +2652,7 @@ created: 2026-04-29
 
 ### 5. Remote Connectivity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable remote connectivity to Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980)
@@ -2697,8 +2701,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Windows]] (1), [[Active Directory]] (1)
 > **UI Navigation:** click on (4), checkbox (2), select the (1)
-> **Code Keywords:** let (1), private (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rdp (1)
 > **Analogies:** for example (1)
@@ -2842,9 +2846,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (2)
 > **UI Navigation:** click on (9), go to (3), right-click (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this, (1), this. (1), switch (1), let (1)
 > **Env Vars:** wks1 (2), cmd (1), rdp (1)
 > **Prerequisites:** set up (3), configure (1)
 > **Analogies:** for example (3)
@@ -2932,8 +2936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (8), [[Windows]] (2), [[Microsoft]] (1), management (1), next (1)
 > **UI Navigation:** click on (6), select the (1), go to (1), right-click (1)
-> **Code Keywords:** let (5), new. (1)
 > **Env Vars:** wks2 (2), wks1 (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -3064,7 +3068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Windows]] (1), [[Microsoft]] (1), prompt (1), next (1)
 > **UI Navigation:** click on (4), open the (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [outlook.com](https://outlook.com) (1)
@@ -3075,7 +3079,7 @@ created: 2026-04-29
 
 ### 6. Use Backup and Recovery Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a traditional backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980)
@@ -3122,8 +3126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[Windows]] (5), [[Windows 10]] (2), [[Microsoft]] (1), application (1)
 > **UI Navigation:** click on (5), select the (2), go to (1)
-> **Code Keywords:** let (1), default. (1), include, (1), default, (1)
 > **Prerequisites:** set up (1), setup (1), you'll need (1), required to (1)
 > **Env Vars:** efi (1)
 > **Speakers:** - [instructor] (1)
@@ -3199,8 +3203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), next (2), [[Security]] (1), [[Windows 10]] (1)
 > **UI Navigation:** go to (5), click on (4)
-> **Code Keywords:** let (1), from, (1)
 > **Cross-References:** previous video (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -3254,6 +3258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), [[Security]] (1), next (1)
 > **UI Navigation:** go to (2), click on (2), select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3304,9 +3309,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Windows]] (3), [[Windows 10]] (3), prompt (1)
 > **Prerequisites:** install (6)
 > **UI Navigation:** click on (3), select the (1), checkbox (1)
-> **Code Keywords:** default, (1), case, (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
@@ -3387,7 +3392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Windows 10]] (2), [[Security]] (1), next (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Prerequisites:** configure (1), set up (1)
 > **Definitions:** is a  (1)
@@ -3465,8 +3470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (1)
 > **UI Navigation:** go to (9), click on (5), select the (1)
-> **Code Keywords:** case, (2), delete (1), let (1), from, (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3531,7 +3536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case. (1), let (1), else. (1), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Windows 10]] (3), data (2), cloud (2), [[Security]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Warnings:** warning (2)
@@ -3542,7 +3547,7 @@ created: 2026-04-29
 
 ### 7. Manage OneDrive Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add an account to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980)
@@ -3587,8 +3592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (8), [[Microsoft]] (4), next (4), [[Windows 10]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** this, (1), continue (1), finally, (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3677,8 +3682,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), [[Windows]] (5), [[Windows 10]] (4), [[Microsoft]] (1), next (1)
 > **UI Navigation:** click on (5), select the (3), checkbox (1), scroll down (1)
-> **Code Keywords:** let (2), case, (2), this. (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3753,15 +3758,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (13), data (6), next (2), [[Windows 10]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (7)
-> **Code Keywords:** default, (1), case, (1), this. (1), interface (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More about Windows 10 IT support
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980)
@@ -3778,6 +3783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[LinkedIn]] (1), cloud (1), [[Microsoft Azure|Azure]] (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

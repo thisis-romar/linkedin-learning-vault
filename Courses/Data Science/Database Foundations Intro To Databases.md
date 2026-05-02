@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/databases
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations%20Intro%20To%20Databases.md)
@@ -47,72 +47,72 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - An introduction to database foundations
-  - What you should know
-  - Using the exercise files
-  - CoderPad tour
+  - [An introduction to database foundations](#an-introduction-to-database-foundations)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. Database Core Concepts**](#1-database-core-concepts) (4 videos)
-  - What is a database?
-  - Storing data efficiently
-  - Relational database management systems
-  - The client-server model
+  - [What is a database?](#what-is-a-database)
+  - [Storing data efficiently](#storing-data-efficiently)
+  - [Relational database management systems](#relational-database-management-systems)
+  - [The client-server model](#the-client-server-model)
 - [**2. Set Up a Database Playground**](#2-set-up-a-database-playground) (7 videos)
-  - Purpose of the playground
-  - Install Docker
-  - Database server containers
-  - Local installation alternatives to Docker
-  - RDBMS command-line interfaces
-  - Challenge: Create a server container
-  - Solution: Create a server container
+  - [Purpose of the playground](#purpose-of-the-playground)
+  - [Install Docker](#install-docker)
+  - [Database server containers](#database-server-containers)
+  - [Local installation alternatives to Docker](#local-installation-alternatives-to-docker)
+  - [RDBMS command-line interfaces](#rdbms-command-line-interfaces)
+  - [Challenge: Create a server container](#challenge-create-a-server-container)
+  - [Solution: Create a server container](#solution-create-a-server-container)
 - [**3. Graphical Interfaces**](#3-graphical-interfaces) (7 videos)
-  - Management interfaces
-  - Install Azure Data Studio
-  - Connect to a database server
-  - Explore the server’s contents
-  - Create a database
-  - Challenge: Create a database
-  - Solution: Create a database
+  - [Management interfaces](#management-interfaces)
+  - [Install Azure Data Studio](#install-azure-data-studio)
+  - [Connect to a database server](#connect-to-a-database-server)
+  - [Explore the server’s contents](#explore-the-servers-contents)
+  - [Create a database](#create-a-database)
+  - [Challenge: Create a database](#challenge-create-a-database)
+  - [Solution: Create a database](#solution-create-a-database)
 - [**4. Create Table Objects**](#4-create-table-objects) (9 videos)
-  - Structured Query Language
-  - Organize a database with schemas
-  - Table columns
-  - Create tables
-  - Alter tables
-  - Reserved keywords
-  - Challenge: Create a table
-  - Solution: Create a table
-  - Solution: Tables and data types
+  - [Structured Query Language](#structured-query-language)
+  - [Organize a database with schemas](#organize-a-database-with-schemas)
+  - [Table columns](#table-columns)
+  - [Create tables](#create-tables)
+  - [Alter tables](#alter-tables)
+  - [Reserved keywords](#reserved-keywords)
+  - [Challenge: Create a table](#challenge-create-a-table)
+  - [Solution: Create a table](#solution-create-a-table)
+  - [Solution: Tables and data types](#solution-tables-and-data-types)
 - [**5. Add Data to a Table**](#5-add-data-to-a-table) (7 videos)
-  - Table rows
-  - Add records
-  - Update and delete records
-  - Saving and using SQL scripts
-  - Challenge: Add data to a table
-  - Solution: Add data to a table
-  - Solution: Correct recorded information
+  - [Table rows](#table-rows)
+  - [Add records](#add-records)
+  - [Update and delete records](#update-and-delete-records)
+  - [Saving and using SQL scripts](#saving-and-using-sql-scripts)
+  - [Challenge: Add data to a table](#challenge-add-data-to-a-table)
+  - [Solution: Add data to a table](#solution-add-data-to-a-table)
+  - [Solution: Correct recorded information](#solution-correct-recorded-information)
 - [**6. Retrieve Information**](#6-retrieve-information) (7 videos)
-  - Querying data
-  - Return data with SELECT and FROM
-  - Filter rows with WHERE
-  - Sort values with ORDER BY
-  - Combine data with JOIN
-  - Limiting the number of rows returned
-  - Solution: Write a SQL SELECT query
+  - [Querying data](#querying-data)
+  - [Return data with SELECT and FROM](#return-data-with-select-and-from)
+  - [Filter rows with WHERE](#filter-rows-with-where)
+  - [Sort values with ORDER BY](#sort-values-with-order-by)
+  - [Combine data with JOIN](#combine-data-with-join)
+  - [Limiting the number of rows returned](#limiting-the-number-of-rows-returned)
+  - [Solution: Write a SQL SELECT query](#solution-write-a-sql-select-query)
 - [**7. Manipulate Data**](#7-manipulate-data) (8 videos)
-  - Display column aliases with AS
-  - Mathematical operations
-  - Use built-in functions
-  - Aggregate data with GROUP BY
-  - Filtering groups with HAVING
-  - Challenge: Query data
-  - Solution: Query data
-  - Solution: Query summary statistics
+  - [Display column aliases with AS](#display-column-aliases-with-as)
+  - [Mathematical operations](#mathematical-operations)
+  - [Use built-in functions](#use-built-in-functions)
+  - [Aggregate data with GROUP BY](#aggregate-data-with-group-by)
+  - [Filtering groups with HAVING](#filtering-groups-with-having)
+  - [Challenge: Query data](#challenge-query-data)
+  - [Solution: Query data](#solution-query-data)
+  - [Solution: Query summary statistics](#solution-query-summary-statistics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to database foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980)
@@ -139,7 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), continue (1)
+> **Frameworks & Libraries:** [[Databases]] (4), database (3), career (1), [[LinkedIn]] (1), [[Database Development]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)
 
@@ -158,6 +158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Databases]] (1), [[Hardware]] (1), data (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -188,9 +189,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** exercise files (3), download the (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
@@ -233,6 +234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Env Vars:** select (1), max (1)
 > **UI Navigation:** click on (2)
 > **SQL:** select (1)
@@ -242,7 +244,7 @@ created: 2026-04-29
 
 ### 1. Database Core Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-is-a-database?u=76281980)
@@ -343,10 +345,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), database (19), [[Databases]] (2), business (1)
 > **Definitions:** is a  (8)
 > **Analogies:** picture (1), such as (1), just like (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
@@ -407,8 +409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (7)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Relational database management systems
@@ -494,6 +496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (12), management (4), cloud (3), next (2)
 > **Env Vars:** rdbms (10), sql (5)
 > **CLI Commands:** make (3), find (1), mysql (1)
 > **Analogies:** just like (1), such as (1)
@@ -501,7 +504,6 @@ created: 2026-04-29
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - [instructor] (1)
 
 #### The client-server model
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/the-client-server-model?u=76281980)
@@ -602,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), from. (1)
+> **Frameworks & Libraries:** database (12), management (6), application (5), [[Microsoft SQL Server|Sql server]] (4), data (3)
 > **Env Vars:** sql (5), rdbms (2), cli (1)
 > **Analogies:** for instance (2), such as (1), just like (1)
 > **CLI Commands:** make (1), mysql (1), find (1)
@@ -614,7 +616,7 @@ created: 2026-04-29
 
 ### 2. Set Up a Database Playground
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose of the playground
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980)
@@ -691,11 +693,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[Hardware]] (2), cloud (2), [[Databases]] (1), data (1)
 > **Env Vars:** rdbms (5)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [illustrator] (1)
 
 #### Install Docker
@@ -827,13 +829,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (7), [[Windows]] (6), application (4), prompt (3), database (2)
 > **CLI Commands:** docker (26), make (2), find (2)
 > **Tools:** docker desktop (10), command prompt (3), command line (1), terminal (1)
 > **Env Vars:** wsl (3), cls (2), wsl2 (1), mac (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** install (2), set up (1)
-> **Code Keywords:** let (1), this. (1)
 > **Versions:** version 24 (1), 0.2 (1)
 
 #### Database server containers
@@ -1025,9 +1027,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (14), [[PostgreSQL|Postgres]] (7), database (6), prompt (5), management (4)
 > **CLI Commands:** docker (12), make (3), find (3)
 > **Env Vars:** sql (15)
-> **Code Keywords:** let (6), delete (2), switch (1), this, (1), finally, (1)
 > **Tools:** command prompt (5), terminal (3), powershell (1), docker desktop (1), command line (1)
 > **Prerequisites:** set up (8), install (1)
 > **Ports:** port 1401 (2), port 1433 (1), port 5432 (1), port 5401 (1)
@@ -1099,10 +1101,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[Microsoft SQL Server|Sql server]] (7), [[PostgreSQL]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (2)
 > **Env Vars:** sql (7), url (1)
 > **Prerequisites:** install (4), setup (1)
 > **CLI Commands:** docker (3), make (1)
-> **Code Keywords:** throw (1), case, (1), require (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (3)
 > **URLs:** [postgresql.org](https://postgresql.org) (1)
@@ -1281,10 +1283,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (17), [[Microsoft SQL Server|Sql server]] (15), [[Databases]] (12), [[PostgreSQL|Postgres]] (8), [[Linux]] (7)
 > **Env Vars:** sql (19), psql (4), cmd (2), excc (1), mssql (1)
 > **Tools:** command line (9), command prompt (5), bash (3), terminal (1), powershell (1)
 > **CLI Commands:** docker (9), psql (4), cat (2)
-> **Code Keywords:** interface (4), let (3), this, (2)
 > **Versions:** version 18 (1), 15.0 (1), 0.4063 (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -1325,10 +1327,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL]] (1), next (1)
 > **CLI Commands:** docker (3), make (1)
 > **Env Vars:** rdbms (2), sql (1)
 > **Warnings:** keep in mind (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1502,8 +1504,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), database (2), [[Linux]] (2), [[Powershell]] (1), application (1)
 > **CLI Commands:** docker (18), make (5), rm (2)
-> **Code Keywords:** let (6), this. (2), case. (1), from, (1)
 > **Env Vars:** eula (2), sql (1), mssql (1), txt (1)
 > **Tools:** docker desktop (1), powershell (1), terminal (1), command line (1)
 > **File Paths:** solutioncontainers.txt (1)
@@ -1514,7 +1516,7 @@ created: 2026-04-29
 
 ### 3. Graphical Interfaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Management interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980)
@@ -1589,7 +1591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (11), let (2)
+> **Frameworks & Libraries:** database (6), [[Microsoft SQL Server|Sql server]] (4), data (4), [[PostgreSQL]] (2), application (2)
 > **Env Vars:** sql (4), rdbms (2), url (1)
 > **CLI Commands:** docker (3), make (1), find (1)
 > **Definitions:** is a  (3), is called (2)
@@ -1711,7 +1713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), switch (3), let (3), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), data (7), database (5), [[Windows]] (3), [[Linux]] (3)
 > **CLI Commands:** make (5), find (4), docker (1), unzip (1)
 > **UI Navigation:** click on (3), scroll down (3), switch to (1)
 > **Env Vars:** sql (2), rdbms (1)
@@ -1883,8 +1885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[PostgreSQL|Postgres]] (7), [[Microsoft SQL Server|Sql server]] (7), [[PostgreSQL]] (6), data (3)
 > **CLI Commands:** docker (11), make (4), find (2)
-> **Code Keywords:** let (4), interface (3), type, (2), switch (2), delete (1)
 > **Env Vars:** sql (9), cli (1)
 > **UI Navigation:** click on (4), dropdown (2), scroll down (1), double-click (1)
 > **Tools:** terminal (4), powershell (1), command line (1)
@@ -1963,9 +1965,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[Databases]] (8), data (5), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL|Postgres]] (4)
 > **Env Vars:** sql (5), rdbms (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** interface (1), let (1)
 > **Tools:** terminal (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2093,8 +2095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (24), [[SQL]] (6), [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (6), [[PostgreSQL|Postgres]] (5)
 > **Env Vars:** sql (12), rbdms (1), ansi (1), gui (1)
-> **Code Keywords:** switch (3), let (3), interface (2), from. (1), for, (1)
 > **UI Navigation:** right-click (3), click on (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** pg_database (1)
@@ -2129,7 +2131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), continue (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Azure|Azure]] (1), database (1), next (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2236,7 +2238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (1), switch (1)
+> **Frameworks & Libraries:** database (8), next (3), [[Microsoft SQL Server|Sql server]] (3), [[Linux]] (2), [[Powershell]] (1)
 > **Env Vars:** sql (4), eula (1), mcr (1), mssql (1)
 > **Tools:** terminal (4), powershell (1)
 > **CLI Commands:** docker (3)
@@ -2248,7 +2250,7 @@ created: 2026-04-29
 
 ### 4. Create Table Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structured Query Language
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980)
@@ -2345,8 +2347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), data (8), database (7), [[Programming]] (2), management (1)
 > **Env Vars:** sql (8), null (2), rdbms (1), ddl (1), dml (1)
-> **Code Keywords:** delete (1), let (1)
 > **CLI Commands:** find (1)
 > **SQL:** primary key (1)
 > **Speakers:** - [instructor] (1)
@@ -2490,7 +2492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), public (2), throw (1), this. (1)
+> **Frameworks & Libraries:** database (21), [[Databases]] (5), data (4), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (3)
 > **Env Vars:** sql (5), dbo (2), drop (2), rdbms (1), schema (1)
 > **CLI Commands:** find (4), make (4)
 > **UI Navigation:** click on (4), dropdown (1), scroll down (1)
@@ -2582,9 +2584,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), database (5), [[Databases]] (3), [[PostgreSQL]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (3), rdbms (3), char (2), varchar (1), max (1)
 > **Analogies:** for instance (2), such as (1)
-> **Code Keywords:** let (1), type. (1)
 > **CLI Commands:** make (1)
 > **SQL:** varchar (1)
 > **Documentation:** the documentation (1)
@@ -2778,8 +2780,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), database (16), [[Microsoft Products|Products]] (15), product (8), [[PostgreSQL]] (3)
 > **Env Vars:** sku (9), char (5), table (4), create (3), null (3)
-> **Code Keywords:** let (8), type. (4), this, (3), finally, (1), delete (1)
 > **SQL:** create table (3), integer (2), primary key (1)
 > **Definitions:** means that (4), is a  (1), is called (1)
 > **UI Navigation:** right-click (3), scroll down (1)
@@ -2888,7 +2890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (3), case, (1), interface (1)
+> **Frameworks & Libraries:** data (19), product (9), database (3), [[Microsoft Azure|Azure]] (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** alter (3), char (2), add (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (1)
@@ -2961,7 +2963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), type. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), database (6), data (3), [[SQL]] (2), [[PostgreSQL]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1)
@@ -2990,7 +2992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** next (2), database (1), data (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -3166,7 +3168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (4), this, (1), for, (1)
+> **Frameworks & Libraries:** data (9), database (7), next (4), [[Microsoft Azure|Azure]] (2), [[Databases]] (2)
 > **Env Vars:** null (5), char (2), create (1), schema (1), int (1)
 > **CLI Commands:** make (5), find (3)
 > **File Paths:** solutiontable.txt (1)
@@ -3268,8 +3270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (4), business (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** create (3), table (2), schema (1), primary (1), key (1)
-> **Code Keywords:** type. (3), this. (1), let (1)
 > **SQL:** create table (2), primary key (1)
 > **Definitions:** is called (2)
 > **Prerequisites:** set up (2)
@@ -3280,7 +3282,7 @@ created: 2026-04-29
 
 ### 5. Add Data to a Table
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Table rows
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-rows?u=76281980)
@@ -3351,9 +3353,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (1)
 > **CLI Commands:** find (3), make (1), cat (1)
 > **Definitions:** is a  (3), is called (1)
-> **Code Keywords:** case. (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3484,8 +3486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), product (7), next (7), [[Microsoft Products|Products]] (4), database (2)
 > **Env Vars:** sku (8), sql (1), fcp008 (1), bi008 (1), gi016 (1)
-> **Code Keywords:** let (3), for, (1), switch (1), this, (1), for. (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1), means that (1)
 > **Best Practices:** remember to (1)
@@ -3568,7 +3570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (3), switch (3), type = (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), data (4), database (3), [[Microsoft SQL Server|Sql server]] (1), next (1)
 > **Env Vars:** sku (3), ogec004 (3), sql (1)
 > **UI Navigation:** right-click (2)
 > **CLI Commands:** make (1)
@@ -3718,7 +3720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (2), finally, (2), interface (1), delete (1)
+> **Frameworks & Libraries:** database (21), data (9), [[Microsoft SQL Server|Sql server]] (6), [[PostgreSQL]] (6), [[SQL]] (4)
 > **Env Vars:** sql (9)
 > **CLI Commands:** make (4), find (3)
 > **UI Navigation:** switch to (1), scroll down (1), click on (1)
@@ -3757,7 +3759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** next (2), data (1), database (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3951,7 +3953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (1)
+> **Frameworks & Libraries:** data (6), database (4), next (3), [[Microsoft Azure|Azure]] (1), [[Search]] (1)
 > **UI Navigation:** click on (2), select the (1), in the tab (1)
 > **Versions:** 2020.03.25 (1), 2020.08.25 (1), 2020.09.23 (1)
 > **File Paths:** solutiondata.txt (1)
@@ -4115,9 +4117,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** where (6), insert (4), into (4), update (3), delete (2)
 > **SQL:** where (6), insert into (4), update (3), delete from (2)
-> **Code Keywords:** let (6), delete (4), finally, (2)
 > **CLI Commands:** make (4)
 > **API Endpoints:** delete  (2)
 > **Definitions:** is a  (1), is called (1)
@@ -4127,7 +4129,7 @@ created: 2026-04-29
 
 ### 6. Retrieve Information
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying data
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/querying-data?u=76281980)
@@ -4184,7 +4186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), case, (1)
+> **Frameworks & Libraries:** data (17), database (1), next (1)
 > **SQL:** select (3)
 > **Env Vars:** select (3)
 > **Analogies:** imagine (1), such as (1), for instance (1)
@@ -4341,7 +4343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (4), case, (4), this, (1), from. (1)
+> **Frameworks & Libraries:** database (12), data (12), [[Microsoft Products|Products]] (10), product (7), [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** sql (4), where (1), csv (1), xml (1), select (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** select the (2), click on (1)
@@ -4443,7 +4445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), finally, (1), for. (1), throw (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (15), data (4), database (2), product (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** right-click (1), scroll down (1)
 > **Analogies:** for instance (2)
@@ -4514,8 +4516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), database (3), product (2)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (3)
 > **Versions:** 11.99 (2), 8.99 (1)
 > **Analogies:** for instance (1), for example (1)
 > **Env Vars:** desc (1)
@@ -4620,7 +4622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), this, (1), for, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), product (11), database (4), data (3), next (2)
 > **Env Vars:** sku (5), alb008 (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (2)
@@ -4701,9 +4703,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft SQL Server|Sql server]] (6), [[PostgreSQL]] (6), database (3), product (3)
 > **Env Vars:** sql (7), order (6), top (6), select (2), limit (2)
 > **SQL:** order by (6), select (2)
-> **Code Keywords:** let (3), this, (2), from, (1), return. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -4864,9 +4866,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (3)
 > **Env Vars:** select (6), join (4), order (2), limit (2), inner (1)
 > **SQL:** select (6), join (3), order by (2), inner join (1), where (1)
-> **Code Keywords:** let (3), finally, (2), this. (1), default, (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -4875,7 +4877,7 @@ created: 2026-04-29
 
 ### 7. Manipulate Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Display column aliases with AS
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980)
@@ -4978,8 +4980,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), product (6), [[Microsoft Products|Products]] (6), database (3), [[Data Manipulation]] (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** return, (1), require (1), let (1), continue (1), finally, (1)
 > **Env Vars:** sku (4), sql (1)
 > **Code Identifiers:** categoryid (2)
 > **File Paths:** as_start.sql (1)
@@ -5066,7 +5068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1)
+> **Frameworks & Libraries:** data (8), product (3), database (2), [[SQL]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 8.5 (2), 0.085 (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -5206,7 +5208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (4), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), data (8), database (2), [[PostgreSQL]] (2), application (1)
 > **Versions:** 27.99 (6), 6.99 (1), 17.59 (1), 17.595263 (1), 17.60 (1)
 > **Env Vars:** max (3), min (1), avg (1), round (1), sql (1)
 > **CLI Commands:** find (6)
@@ -5299,9 +5301,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), product (5), database (3), [[Microsoft Products|Products]] (3), [[SQL]] (2)
 > **Env Vars:** group (4), count (4), sql (2), order (2), sku (2)
 > **SQL:** group by (4), order by (2), where (1)
-> **Code Keywords:** function (3), this , (1), for. (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - it (1)
@@ -5389,7 +5391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this; (1), else, (1), this, (1), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), database (2), data (1), product (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sku (1)
 > **Speakers:** - [instructor] (1)
@@ -5425,6 +5427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), data (1), database (1), next (1)
 > **CLI Commands:** find (1)
 > **Versions:** 29.57353 (1)
 > **Cross-References:** in the next (1)
@@ -5662,7 +5665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), this. (3), function (3), this, (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (27), product (15), data (4), database (2), next (1)
 > **Env Vars:** sku (8), txt (1)
 > **CLI Commands:** find (5), make (3)
 > **Versions:** 21.99 (3), 29.57353 (1)
@@ -5844,9 +5847,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (5), database (1)
 > **Env Vars:** where (4), select (3), group (3), edm (3), sum (3)
 > **SQL:** where (4), select (3), group by (3), having (2), order by (2)
-> **Code Keywords:** let (3), function (3), from, (1), default. (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5854,7 +5857,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980)
@@ -5879,7 +5882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), interface (1)
+> **Frameworks & Libraries:** database (2), [[Microsoft Azure|Azure]] (2), data (2), next (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** docker (2)
 > **URLs:** [docker.com](https://docker.com) (1)
 > **Env Vars:** sql (1)

@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/mysql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20MySQL%20Development.md)
@@ -48,55 +48,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn to use MySQL
-  - How to get started with MySQL
+  - [Learn to use MySQL](#learn-to-use-mysql)
+  - [How to get started with MySQL](#how-to-get-started-with-mysql)
 - [**1. Database Basics**](#1-database-basics) (5 videos)
-  - What is a database?
-  - SQL, a declarative language
-  - Databases vs. flat files and spreadsheets
-  - Common database terms
-  - Database best practices
+  - [What is a database?](#what-is-a-database)
+  - [SQL, a declarative language](#sql-a-declarative-language)
+  - [Databases vs. flat files and spreadsheets](#databases-vs-flat-files-and-spreadsheets)
+  - [Common database terms](#common-database-terms)
+  - [Database best practices](#database-best-practices)
 - [**2. Exploring MySQL**](#2-exploring-mysql) (6 videos)
-  - Advantages and disadvantages of MySQL
-  - Exploring MySQL Workbench
-  - MySQL data types: Part 1
-  - MySQL data types: Part 2
-  - Challenge: Explore the built-in databases
-  - Solution: Explore the built-in databases
+  - [Advantages and disadvantages of MySQL](#advantages-and-disadvantages-of-mysql)
+  - [Exploring MySQL Workbench](#exploring-mysql-workbench)
+  - [MySQL data types: Part 1](#mysql-data-types-part-1)
+  - [MySQL data types: Part 2](#mysql-data-types-part-2)
+  - [Challenge: Explore the built-in databases](#challenge-explore-the-built-in-databases)
+  - [Solution: Explore the built-in databases](#solution-explore-the-built-in-databases)
 - [**3. Creating Tables**](#3-creating-tables) (8 videos)
-  - Create a database
-  - Create a table
-  - Use CREATE and ALTER to define a table
-  - Primary keys and foreign keys
-  - Display database relationships with reverse engineering
-  - Load bulk data
-  - Challenge: Create a normalized movies table
-  - Solution: Create a normalized movies table
+  - [Create a database](#create-a-database)
+  - [Create a table](#create-a-table)
+  - [Use CREATE and ALTER to define a table](#use-create-and-alter-to-define-a-table)
+  - [Primary keys and foreign keys](#primary-keys-and-foreign-keys)
+  - [Display database relationships with reverse engineering](#display-database-relationships-with-reverse-engineering)
+  - [Load bulk data](#load-bulk-data)
+  - [Challenge: Create a normalized movies table](#challenge-create-a-normalized-movies-table)
+  - [Solution: Create a normalized movies table](#solution-create-a-normalized-movies-table)
 - [**4. Selecting Data**](#4-selecting-data) (6 videos)
-  - The basics of SELECT
-  - Refine SELECT queries
-  - Filter results with WHERE
-  - Display data with CASE
-  - Challenge: Filter movies by score
-  - Solution: Filter movies by score
+  - [The basics of SELECT](#the-basics-of-select)
+  - [Refine SELECT queries](#refine-select-queries)
+  - [Filter results with WHERE](#filter-results-with-where)
+  - [Display data with CASE](#display-data-with-case)
+  - [Challenge: Filter movies by score](#challenge-filter-movies-by-score)
+  - [Solution: Filter movies by score](#solution-filter-movies-by-score)
 - [**5. Updating and Deleting Data**](#5-updating-and-deleting-data) (5 videos)
-  - Add data to tables with INSERT
-  - Update existing rows with UPDATE
-  - Remove data with DELETE
-  - Challenge: Clean up the movies
-  - Solution: Clean up the movies
+  - [Add data to tables with INSERT](#add-data-to-tables-with-insert)
+  - [Update existing rows with UPDATE](#update-existing-rows-with-update)
+  - [Remove data with DELETE](#remove-data-with-delete)
+  - [Challenge: Clean up the movies](#challenge-clean-up-the-movies)
+  - [Solution: Clean up the movies](#solution-clean-up-the-movies)
 - [**6. Joining Tables**](#6-joining-tables) (5 videos)
-  - The basics of JOIN
-  - Match fields with INNER JOIN
-  - Match all fields with outer joins
-  - Challenge: Find the best film
-  - Solution: Find the best film
+  - [The basics of JOIN](#the-basics-of-join)
+  - [Match fields with INNER JOIN](#match-fields-with-inner-join)
+  - [Match all fields with outer joins](#match-all-fields-with-outer-joins)
+  - [Challenge: Find the best film](#challenge-find-the-best-film)
+  - [Solution: Find the best film](#solution-find-the-best-film)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Level up your MySQL knowledge
+  - [Level up your MySQL knowledge](#level-up-your-mysql-knowledge)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to use MySQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980)
@@ -123,8 +123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (2), database (2), management (2), [[MySQL]] (2), data (1)
 > **CLI Commands:** mysql (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [brad] (1)
 
 #### How to get started with MySQL
@@ -188,10 +188,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (17), next (5), [[Windows]] (2), [[Microsoft Products|Products]] (2), [[Databases]] (1)
 > **CLI Commands:** mysql (17), make (1)
 > **Prerequisites:** install (4), setup (2), you'll need (1), configure (1)
 > **UI Navigation:** select the (3), click on (1)
-> **Code Keywords:** interface (1), finally, (1)
 > **Env Vars:** msi (1)
 > **Exercise Files:** download the (1)
 > **Best Practices:** make sure to (1)
@@ -200,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Database Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980)
@@ -261,11 +261,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), database (17), [[Relational Databases]] (5), [[Databases]] (4), [[SQL]] (4)
 > **Env Vars:** dbms (7), sql (4)
 > **Definitions:** is a  (2), means that (1), short for (1), is an  (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** mysql (3), make (1)
-> **Code Keywords:** delete (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
@@ -342,8 +342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[SQL]] (12), database (10), [[MySQL]] (3), [[Databases]] (1)
 > **Env Vars:** sql (12), select (3), order (2), table (2), where (1)
-> **Code Keywords:** case, (3), finally, (2), delete (2), from, (1)
 > **SQL:** select (3), order by (2), where (1), create table (1), alter table (1)
 > **CLI Commands:** mysql (3), make (1)
 > **Warnings:** warning (1), be careful (1)
@@ -433,8 +433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), database (7), [[Databases]] (5), [[MySQL]] (4), [[Scalability]] (3)
 > **CLI Commands:** mysql (4), make (2), find (1)
-> **Code Keywords:** require (1), finally, (1)
 > **Env Vars:** sql (1), dbms (1)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -514,10 +514,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), database (10), [[SQL]] (4), [[MySQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (4), where (2), dbms (1), crud (1), select (1)
 > **Definitions:** is a  (3), is called (1), known as (1)
 > **CLI Commands:** mysql (2), make (2)
-> **Code Keywords:** delete (2), this, (1)
 > **SQL:** where (2), select (1)
 > **Code Identifiers:** movies_basic (1), release_year (1)
 > **Speakers:** - [instructor] (1)
@@ -591,11 +591,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), data (11), [[Databases]] (4), [[MySQL]] (1), [[Programming]] (1)
 > **CLI Commands:** make (3), mysql (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), for example (1)
 > **Best Practices:** recommended (1), best practice (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -603,7 +603,7 @@ created: 2026-04-29
 
 ### 2. Exploring MySQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advantages and disadvantages of MySQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980)
@@ -668,9 +668,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (13), [[Databases]] (5), database (4), data (2), [[SQL]] (2)
 > **CLI Commands:** mysql (13), find (1), make (1)
 > **Env Vars:** dbms (3), sql (3)
-> **Code Keywords:** for. (1), self (1), require (1)
 > **Definitions:** means that (2)
 > **Exercise Files:** source code (1)
 > **Analogies:** similar to (1)
@@ -735,8 +735,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (7), database (4), [[Databases]] (3), [[SQL]] (2), prompt (1)
 > **CLI Commands:** mysql (7)
-> **Code Keywords:** for. (1), switch (1), case, (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** setup (1), set up (1), install (1)
 > **Env Vars:** sql (2)
@@ -831,10 +831,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[MySQL]] (6), database (4), [[Databases]] (2), next (1)
 > **Versions:** 999.9 (2), 1.5 (2), 1.7 (2), 2.5 (2), 2.7 (2)
 > **Env Vars:** tinyint (2), bigint (2), decimal (2), int (1), numeric (1)
 > **CLI Commands:** mysql (6)
-> **Code Keywords:** type, (2), else. (2), default, (1)
 > **Analogies:** for example (2), for instance (1), imagine (1)
 > **Definitions:** is a  (1), short for (1), in other words (1)
 > **Code Identifiers:** math_test (2)
@@ -941,10 +941,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), database (8), [[Databases]] (3), [[MySQL]] (3), [[JSON]] (2)
 > **Env Vars:** varchar (9), char (9), blob (4), text (4), varbinary (3)
 > **SQL:** varchar (9), boolean (1)
 > **Analogies:** just like (1), for instance (1), such as (1), imagine (1), similar to (1)
-> **Code Keywords:** enum (2), this. (1), static (1), finally, (1)
 > **CLI Commands:** mysql (3), make (1)
 > **Definitions:** means that (2), stands for (1)
 > **Best Practices:** best practice (2)
@@ -967,6 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (4), [[MySQL]] (2), data (2)
 > **CLI Commands:** mysql (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -1013,9 +1014,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), data (2), [[MySQL]] (1), next (1)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
 > **CLI Commands:** make (2), mysql (1)
-> **Code Keywords:** type, (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1023,7 +1024,7 @@ created: 2026-04-29
 
 ### 3. Creating Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980)
@@ -1086,9 +1087,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), [[MySQL]] (8), [[SQL]] (5), [[Databases]] (1)
 > **CLI Commands:** mysql (8)
 > **Env Vars:** sql (5)
-> **Code Keywords:** let (1), default. (1), finally, (1)
 > **Tools:** command line (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - now (1)
@@ -1236,9 +1237,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (8), next (6), [[MySQL]] (5), [[SQL]] (2)
 > **CLI Commands:** mysql (5), make (2)
 > **Definitions:** means that (4), stands for (1), is called (1), is a  (1)
-> **Code Keywords:** let (1), default. (1), require (1), default, (1)
 > **UI Navigation:** right-click (1), double-click (1), go to (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** later in (2)
@@ -1316,12 +1317,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[MySQL]] (2), database (2), data (1), next (1)
 > **Code Identifiers:** movies_basic (8), critics_rating (2), box_office_gross (2), release_year (1), critic_rating (1)
 > **Env Vars:** varchar (7), sql (4)
 > **CLI Commands:** make (6), mysql (2)
 > **SQL:** varchar (7)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** finally, (2), interface (1), delete (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** make sure to (1)
 
@@ -1378,6 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (5), [[MySQL]] (1)
 > **UI Navigation:** open the (2), select the (2), click on (1)
 > **Definitions:** is a  (2), is an  (1), refers to (1), is called (1)
 > **Env Vars:** dvd (2)
@@ -1385,7 +1387,6 @@ created: 2026-04-29
 > **Cross-References:** later in (1)
 > **Analogies:** just like (1)
 > **Best Practices:** best practice (1)
-> **Speakers:** - [instructor] (1)
 
 #### Display database relationships with reverse engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980)
@@ -1468,10 +1469,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (17), [[MySQL]] (5), data (1), [[Databases]] (1), next (1)
 > **CLI Commands:** mysql (5), make (2), find (1)
 > **Env Vars:** eer (4), dbms (2), mwb (1)
 > **Analogies:** for instance (3)
-> **Code Keywords:** require (1), let (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [narrator] (1)
@@ -1553,9 +1554,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[SQL]] (8), next (7), database (7), [[MySQL]] (5)
 > **Env Vars:** sql (6), dbms (2), csv (1), load (1), data (1)
 > **CLI Commands:** mysql (5), make (2)
-> **Code Keywords:** self (2), let (1), case, (1), import, (1)
 > **File Paths:** schema.sql (1), data.sql (1)
 > **UI Navigation:** right-click (1), dropdown (1)
 > **Analogies:** just like (1), such as (1)
@@ -1587,6 +1588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **Code Identifiers:** movies_full (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** in other words (1)
@@ -1770,7 +1772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), this, (1), case, (1), match. (1)
+> **Frameworks & Libraries:** data (15), next (9), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** refers to (2), is a  (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
@@ -1782,7 +1784,7 @@ created: 2026-04-29
 
 ### 4. Selecting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-select?u=76281980)
@@ -1817,6 +1819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (2), [[MySQL]] (1)
 > **CLI Commands:** mysql (1)
 > **Env Vars:** gui (1)
 > **Definitions:** means that (1)
@@ -1902,11 +1905,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (5), data (3), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** select (6), limit (3), sql (2), distinct (2), dbms (1)
 > **SQL:** select (6), order by (1)
 > **CLI Commands:** mysql (5), make (1)
 > **Code Identifiers:** movies_basic (4), release_year (2)
-> **Code Keywords:** case, (2), function (1), finally, (1)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** select the (1)
 > **Analogies:** for instance (1)
@@ -2014,9 +2017,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (5), data (2), database (1), [[SQL]] (1), power (1)
 > **CLI Commands:** find (6), mysql (5), make (1)
 > **Analogies:** for example (4), similar to (1)
-> **Code Keywords:** case, (1), finally, (1), function (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** sql (1)
 > **Best Practices:** general rule (1)
@@ -2111,8 +2114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (2), business (1), [[SQL]] (1)
 > **Code Identifiers:** critic_rating (2), movies_basic (1)
-> **Code Keywords:** if, (1), finally, (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
@@ -2141,6 +2144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Versions:** 5.1 (1), 7.1 (1), 8.9 (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -2195,7 +2199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** movies_basic (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
@@ -2203,7 +2207,7 @@ created: 2026-04-29
 
 ### 5. Updating and Deleting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add data to tables with INSERT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980)
@@ -2270,7 +2274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), match. (1)
+> **Frameworks & Libraries:** data (10), [[SQL]] (2), [[MySQL]] (1), power (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** mysql (1)
 > **Versions:** 7.2 (1)
@@ -2369,10 +2373,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (3), [[MySQL]] (2)
 > **Env Vars:** where (8), sql (3)
 > **SQL:** where (8)
 > **CLI Commands:** mysql (2), make (1)
-> **Code Keywords:** case, (2), delete (1)
 > **Code Identifiers:** movies_basic (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -2441,7 +2445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (13), this, (2), let (1)
+> **Frameworks & Libraries:** data (9), next (4), [[SQL]] (3), database (3), [[MySQL]] (2)
 > **Env Vars:** sql (3), crud (1)
 > **CLI Commands:** mysql (2)
 > **UI Navigation:** click on (2)
@@ -2473,7 +2477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** database (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2562,7 +2566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (2), next (1)
 > **Env Vars:** sql (2)
 > **Non-Speech:** (soft music) (1), (music ends) (1)
 > **CLI Commands:** make (1)
@@ -2572,7 +2576,7 @@ created: 2026-04-29
 
 ### 6. Joining Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of JOIN
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980)
@@ -2621,7 +2625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), function (1), let (1)
+> **Frameworks & Libraries:** data (14), database (2), [[MySQL]] (2), [[SQL]] (1)
 > **Env Vars:** select (1), join (1), sql (1)
 > **CLI Commands:** mysql (2)
 > **SQL:** select (1), join (1)
@@ -2728,13 +2732,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[MySQL]] (6), [[SQL]] (1), feature (1)
 > **Code Identifiers:** critic_rating (3), studio_id (2), director_id (2), dir_name (2), titles_id (2)
 > **CLI Commands:** mysql (6), make (1)
 > **Env Vars:** select (2), join (2), sql (1), inner (1), order (1)
 > **SQL:** select (2), inner join (1), order by (1), join (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** for instance (2)
-> **Code Keywords:** from. (1)
 > **Definitions:** refers to (1)
 
 #### Match all fields with outer joins
@@ -2804,11 +2808,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (1), next (1), [[SQL]] (1)
 > **Code Identifiers:** titles_id (3), posters_titles_id_fk (1), director_name (1), director_id (1)
 > **Env Vars:** varchar30 (1), varchar10 (1), sql (1)
 > **Definitions:** is a  (1), refers to (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **UI Navigation:** right-click (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -2828,6 +2832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -2879,6 +2884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), database (1)
 > **Code Identifiers:** critic_rating (3), dir_name (1), critics_rating (1), titles_id (1), title_id (1)
 > **UI Navigation:** select the (2)
 > **Env Vars:** sql (1)
@@ -2889,7 +2895,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Level up your MySQL knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/level-up-your-mysql-knowledge?u=76281980)
@@ -2906,6 +2912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (3)
 > **CLI Commands:** mysql (3)
 > **Speakers:** - [brad] (1)
 

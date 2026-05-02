@@ -35,7 +35,7 @@ tags:
   - skill/react-js
   - skill/secure-authentication
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Securing%20Applications.md)
@@ -54,35 +54,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Securing React applications
-  - What you should know
+  - [Securing React applications](#securing-react-applications)
+  - [What you should know](#what-you-should-know)
 - [**1. Setting Up**](#1-setting-up) (3 videos)
-  - Initial setup
-  - Set up flow
-  - Set up ESLint
+  - [Initial setup](#initial-setup)
+  - [Set up flow](#set-up-flow)
+  - [Set up ESLint](#set-up-eslint)
 - [**2. Overview of Security Threats**](#2-overview-of-security-threats) (4 videos)
-  - Introduction to OWASP
-  - Cross-site scripting (XSS) attacks
-  - Cross-site request forgery (CSRF)
-  - Introduction to JSON Web Token (JWT) and what it solves
+  - [Introduction to OWASP](#introduction-to-owasp)
+  - [Cross-site scripting (XSS) attacks](#cross-site-scripting-xss-attacks)
+  - [Cross-site request forgery (CSRF)](#cross-site-request-forgery-csrf)
+  - [Introduction to JSON Web Token (JWT) and what it solves](#introduction-to-json-web-token-jwt-and-what-it-solves)
 - [**3. Authentication with Auth0**](#3-authentication-with-auth0) (7 videos)
-  - Initial setup of your server
-  - Create your API endpoints
-  - Initial Auth0 setup
-  - Adding the files and code from Auth0
-  - Update index for Auth0 integration
-  - Add connections to server
-  - Finalize menu with login
+  - [Initial setup of your server](#initial-setup-of-your-server)
+  - [Create your API endpoints](#create-your-api-endpoints)
+  - [Initial Auth0 setup](#initial-auth0-setup)
+  - [Adding the files and code from Auth0](#adding-the-files-and-code-from-auth0)
+  - [Update index for Auth0 integration](#update-index-for-auth0-integration)
+  - [Add connections to server](#add-connections-to-server)
+  - [Finalize menu with login](#finalize-menu-with-login)
 - [**4. Other React Considerations**](#4-other-react-considerations) (2 videos)
-  - React considerations for security
-  - Strict mode
+  - [React considerations for security](#react-considerations-for-security)
+  - [Strict mode](#strict-mode)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Best practices update
-  - Next steps
+  - [Best practices update](#best-practices-update)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing React applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[React.js|React]] (6), application (5), [[Coding Practices]] (1), next (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** api (1)
 > **Exercise Files:** template (1)
@@ -142,6 +142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[JavaScript]] (1), next (1), [[npm]] (1)
 > **Tools:** terminal (2), vs code (1)
 > **Env Vars:** es6 (1), es2015 (1)
 > **Definitions:** is a  (2)
@@ -152,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Initial setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980)
@@ -231,7 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), public (2), delete (1), this, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (13), application (7), [[npm]] (4), dom (3), [[CLI]] (1)
 > **CLI Commands:** npm (4), npx (3), make (3)
 > **Tools:** visual studio (4), terminal (4)
 > **UI Navigation:** open the (3), click on (2), go to (1), drag and drop (1)
@@ -313,7 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), type, (2), this. (1), default, (1)
+> **Frameworks & Libraries:** application (5), [[npm]] (4), next (3), [[Security]] (3), [[JSON]] (2)
 > **CLI Commands:** npm (4), make (1)
 > **Prerequisites:** install (4), setup (1)
 > **File Paths:** package.json (2), app.js (1)
@@ -429,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), extends (1)
+> **Frameworks & Libraries:** [[ESLint]] (5), application (5), [[React.js|React]] (1), [[Engineering]] (1), [[Security]] (1)
 > **Env Vars:** npx (2), eslint (2), cra (1), mpm (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** npx (2), make (2)
@@ -441,7 +442,7 @@ created: 2026-04-29
 
 ### 2. Overview of Security Threats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OWASP
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980)
@@ -492,8 +493,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[OWASP]] (4), [[Slack]] (2), [[Search]] (2), web application (1)
 > **UI Navigation:** go to (3), click on (3), scroll down (1)
-> **Code Keywords:** let (3), this. (1)
 > **Env Vars:** owasp (2), sxs (1)
 > **Analogies:** for example (3)
 > **URLs:** [owasp.org](https://owasp.org) (2)
@@ -588,7 +589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (6), pass (1), this, (1)
+> **Frameworks & Libraries:** [[Scripting]] (6), [[HTML]] (4), [[React.js|React]] (4), application (3), [[Search]] (2)
 > **Code Identifiers:** innerhtml (3), createmarkup (2), dangerouslysetinnerhtml (1)
 > **Cross-References:** go back to (5)
 > **CLI Commands:** make (2), find (1)
@@ -646,9 +647,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[React.js|React]] (4), application (2), next (2), [[Tokens]] (1)
 > **Env Vars:** csrf (1), http (1), url (1), jwt (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** this. (1), let (1)
 > **Best Practices:** general rule (1), you should always (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -697,9 +698,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), web (2), [[Metadata]] (1), data (1), next (1)
 > **Env Vars:** jwt (4), json (2)
 > **UI Navigation:** go to (1), scroll down (1)
-> **Code Keywords:** let (1)
 > **URLs:** [jwt.io](https://jwt.io) (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -707,7 +708,7 @@ created: 2026-04-29
 
 ### 3. Authentication with Auth0
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Initial setup of your server
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980)
@@ -866,7 +867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), pass (6), this. (2), import. (2), function (2)
+> **Frameworks & Libraries:** express (7), next (3), [[JSON]] (3), [[npm]] (3), [[React.js|React]] (2)
 > **Env Vars:** npm (3), jwt (3), jwks (2), api (1), cli (1)
 > **CLI Commands:** npm (3), make (2), node (2), cd (1)
 > **Prerequisites:** install (5), set up (1)
@@ -988,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), this, (2), pass (1)
+> **Frameworks & Libraries:** data (8), [[JSON]] (2), api (1), [[npm]] (1), [[JavaScript]] (1)
 > **Tools:** terminal (2), vs code (1), postman (1)
 > **CLI Commands:** make (2), npm (1)
 > **Env Vars:** json (2), api (1)
@@ -1056,7 +1057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), this. (1)
+> **Frameworks & Libraries:** application (7), [[React.js|React]] (5), [[GitHub]] (1), web (1)
 > **UI Navigation:** go to (1), select the (1), click on (1), scroll down (1)
 > **Ports:** port 3000 (1)
 > **Tools:** github (1)
@@ -1148,8 +1149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (3), next (2), [[JSON]] (2), cd (2), [[Windows]] (1)
 > **CLI Commands:** make (7), npm (3), cd (2)
-> **Code Keywords:** let (11), this, (1)
 > **Env Vars:** npm (3), json (2)
 > **UI Navigation:** open the (2), click on (2), go to (1)
 > **Tools:** terminal (3)
@@ -1264,7 +1265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (1)
+> **Frameworks & Libraries:** application (14), css (2), [[npm]] (1), [[HTML]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (4), npm (1), find (1)
 > **Env Vars:** css (2), html (1)
 > **File Paths:** index.css (2)
@@ -1354,7 +1355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (6), async (2), import, (1), switch (1)
+> **Frameworks & Libraries:** data (5), [[React.js|React]] (4), next (2), dom (1), application (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** http (1), url (1), svg (1)
 > **File Paths:** app.js (2)
@@ -1462,7 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this, (4), function (2), finally, (1), else. (1)
+> **Frameworks & Libraries:** application (8), [[React.js|React]] (3), hit (1), [[Google]] (1)
 > **Code Identifiers:** loginwithredirect (3), useauth0 (2), isauthenticated (2), onclick (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2)
@@ -1473,7 +1474,7 @@ created: 2026-04-29
 
 ### 4. Other React Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### React considerations for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/react-considerations-for-security?u=76281980)
@@ -1514,6 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), application (4), [[Security]] (2), [[React.js|React]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** you should never (1), general rule (1), make sure to (1)
 > **Definitions:** is a  (2)
@@ -1521,7 +1523,6 @@ created: 2026-04-29
 > **Code Identifiers:** componentwillmount (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
-> **Warnings:** be careful (1)
 
 #### Strict mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980)
@@ -1580,7 +1581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), from. (1)
+> **Frameworks & Libraries:** application (6), [[React.js|React]] (2), [[npm]] (2)
 > **CLI Commands:** npm (2), make (1)
 > **Tools:** terminal (3)
 > **Env Vars:** npm (2)
@@ -1592,7 +1593,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Best practices update
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980)
@@ -1633,8 +1634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[Security]] (3), data (3), web (1), [[npm]] (1)
 > **Env Vars:** https (1), npm (1), http (1), jsx (1), html (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1), npm (1)
 > **Best Practices:** make sure to (1), don't forget (1)
 > **Definitions:** is a  (1)
@@ -1679,8 +1680,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), application (4), [[React.js|React]] (2), [[OWASP]] (2), api (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** public (1), this, (1), finally, (1)
 > **Env Vars:** owasp (2), api (1)
 > **Definitions:** is a  (2)
 > **File Paths:** app.js (1)

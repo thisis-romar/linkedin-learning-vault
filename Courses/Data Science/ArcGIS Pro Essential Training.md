@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/arcgis-pro
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/ArcGIS%20Pro%20Essential%20Training.md)
@@ -47,64 +47,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Exploring the amazing world of GIS using ArcGIS Pro
+  - [Exploring the amazing world of GIS using ArcGIS Pro](#exploring-the-amazing-world-of-gis-using-arcgis-pro)
 - [**1. Understanding ArcGIS Pro**](#1-understanding-arcgis-pro) (6 videos)
-  - Sign in to ArcGIS Pro
-  - Choosing a template
-  - Creating projects
-  - Navigating ribbons and panes
-  - Setting project properties
-  - Setting map properties
+  - [Sign in to ArcGIS Pro](#sign-in-to-arcgis-pro)
+  - [Choosing a template](#choosing-a-template)
+  - [Creating projects](#creating-projects)
+  - [Navigating ribbons and panes](#navigating-ribbons-and-panes)
+  - [Setting project properties](#setting-project-properties)
+  - [Setting map properties](#setting-map-properties)
 - [**2. Vector Data**](#2-vector-data) (4 videos)
-  - Creating data connections
-  - Adding shapefiles to ArcGIS Pro
-  - Using file geodatabases
-  - Rendering text files as points
+  - [Creating data connections](#creating-data-connections)
+  - [Adding shapefiles to ArcGIS Pro](#adding-shapefiles-to-arcgis-pro)
+  - [Using file geodatabases](#using-file-geodatabases)
+  - [Rendering text files as points](#rendering-text-files-as-points)
 - [**3. Raster Data**](#3-raster-data) (5 videos)
-  - Introduction to Raster tools
-  - Add ECW data
-  - Add DEM data
-  - Creating a contour style from DEM
-  - Using Lidar data
+  - [Introduction to Raster tools](#introduction-to-raster-tools)
+  - [Add ECW data](#add-ecw-data)
+  - [Add DEM data](#add-dem-data)
+  - [Creating a contour style from DEM](#creating-a-contour-style-from-dem)
+  - [Using Lidar data](#using-lidar-data)
 - [**4. Styling Data**](#4-styling-data) (5 videos)
-  - Point layers
-  - Polyline layers
-  - Polygon layers
-  - Thematic layers
-  - DEM layers
+  - [Point layers](#point-layers)
+  - [Polyline layers](#polyline-layers)
+  - [Polygon layers](#polygon-layers)
+  - [Thematic layers](#thematic-layers)
+  - [DEM layers](#dem-layers)
 - [**5. Labeling Features**](#5-labeling-features) (2 videos)
-  - Label vector data
-  - Using Arcade for labels
+  - [Label vector data](#label-vector-data)
+  - [Using Arcade for labels](#using-arcade-for-labels)
 - [**6. 3D Maps**](#6-3d-maps) (4 videos)
-  - Global 3D scenes
-  - Local 3D scenes
-  - Extruding building heights
-  - Linking 2D maps with 3D scenes
+  - [Global 3D scenes](#global-3d-scenes)
+  - [Local 3D scenes](#local-3d-scenes)
+  - [Extruding building heights](#extruding-building-heights)
+  - [Linking 2D maps with 3D scenes](#linking-2d-maps-with-3d-scenes)
 - [**7. Printing with Map Layouts**](#7-printing-with-map-layouts) (3 videos)
-  - Setting up layouts
-  - Adding map widgets
-  - Creating map layout templates
+  - [Setting up layouts](#setting-up-layouts)
+  - [Adding map widgets](#adding-map-widgets)
+  - [Creating map layout templates](#creating-map-layout-templates)
 - [**8. Creating Data**](#8-creating-data) (5 videos)
-  - Creating feature classes in a geodatabase
-  - Drawing new data
-  - Editing feature attributes
-  - Splitting and merging features
-  - Exporting data
+  - [Creating feature classes in a geodatabase](#creating-feature-classes-in-a-geodatabase)
+  - [Drawing new data](#drawing-new-data)
+  - [Editing feature attributes](#editing-feature-attributes)
+  - [Splitting and merging features](#splitting-and-merging-features)
+  - [Exporting data](#exporting-data)
 - [**9. Geospatial Tools**](#9-geospatial-tools) (3 videos)
-  - Overlaying two vector layers
-  - Creating a heat map from points
-  - Creating centroids from polygons
+  - [Overlaying two vector layers](#overlaying-two-vector-layers)
+  - [Creating a heat map from points](#creating-a-heat-map-from-points)
+  - [Creating centroids from polygons](#creating-centroids-from-polygons)
 - [**10. Sharing Data**](#10-sharing-data) (4 videos)
-  - Publishing to ArcGIS Online
-  - Creating layer packages
-  - Sharing layers
-  - Creating project packages
+  - [Publishing to ArcGIS Online](#publishing-to-arcgis-online)
+  - [Creating layer packages](#creating-layer-packages)
+  - [Sharing layers](#sharing-layers)
+  - [Creating project packages](#creating-project-packages)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the amazing world of GIS using ArcGIS Pro
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980)
@@ -133,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), gis (2), data (1), [[LinkedIn]] (1)
 > **Env Vars:** gis (2), cad (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
@@ -141,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Understanding ArcGIS Pro
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign in to ArcGIS Pro
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980)
@@ -240,10 +241,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (6), data (1), [[GitHub]] (1), [[Google]] (1), concurrent (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (9), [esri.com](https://esri.com) (2), [maps.com](https://maps.com) (1)
 > **Env Vars:** url (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (1), interface (1)
 > **UI Navigation:** go to (2)
 > **Tools:** github (1)
 > **Exercise Files:** download the (1)
@@ -298,7 +299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (2)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), data (3), management (3), [[Databases]] (1), [[Metadata]] (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -496,7 +497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (4), case, (1), default. (1)
+> **Frameworks & Libraries:** [[Databases]] (8), data (4), [[Search]] (3), database (2), concurrent (1)
 > **CLI Commands:** find (5), python (1), make (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Analogies:** for example (3), such as (1), it's like (1)
@@ -558,8 +559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (3), [[ArcGIS Pro]] (1), hit (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (1), switch (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -742,7 +743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), this, (1), default, (1)
+> **Frameworks & Libraries:** database (14), data (5), application (4), [[Microsoft Office|Office]] (4), [[ArcGIS Pro]] (3)
 > **Analogies:** such as (1), imagine (1), for example (1), it's like (1)
 > **CLI Commands:** make (2), python (1)
 > **Exercise Files:** template (2)
@@ -1040,7 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (5), default, (3), class. (2), else. (1)
+> **Frameworks & Libraries:** data (10), web (7), feature (4), application (2), hit (2)
 > **Env Vars:** utm (10), nad (3), wgs (1), rts (1), esri (1)
 > **UI Navigation:** go to (2), click on (2), drag and drop (1), in the menu (1), toggle (1)
 > **CLI Commands:** make (5), find (1)
@@ -1052,7 +1053,7 @@ created: 2026-04-29
 
 ### 2. Vector Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating data connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980)
@@ -1129,8 +1130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Databases]] (4), database (4), [[Microsoft SQL Server|Sql server]] (3), [[LinkedIn]] (2)
 > **Env Vars:** sql (3), data (2), db2 (1), csv (1), lidar (1)
-> **Code Keywords:** let (3), from. (1)
 > **UI Navigation:** go to (3), drag and drop (1)
 > **Exercise Files:** exercise files (4)
 > **CLI Commands:** make (3)
@@ -1336,8 +1337,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), hit (6), [[Zoom]] (5), [[Metadata]] (4), web (2)
 > **Env Vars:** dbf (5), shp (3), utm (3), prj (2), shx (2)
-> **Code Keywords:** let (7), case, (1)
 > **Analogies:** for example (5), it's like (1), such as (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** drag and drop (2), go to (1)
@@ -1468,8 +1469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), feature (6), [[Databases]] (2), database (1), [[Zoom]] (1)
 > **Env Vars:** nanaimo (6), buildings (6), parcels (5), data (3), housenumb (1)
-> **Code Keywords:** let (5), case, (2), this, (2)
 > **UI Navigation:** click on (1), drag and drop (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
@@ -1612,8 +1613,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), database (14), hit (3), feature (3)
 > **UI Navigation:** right-click (3), drag and drop (2), click on (2), dropdown (1), go to (1)
-> **Code Keywords:** case, (3), let (2), type, (2), this, (1)
 > **Env Vars:** csv (4), wgs (2), data (1), url (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1621,7 +1622,7 @@ created: 2026-04-29
 
 ### 3. Raster Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Raster tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980)
@@ -1766,7 +1767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), import. (1), for. (1)
+> **Frameworks & Libraries:** next (5), [[ArcGIS Pro]] (3), [[Zoom]] (2), data (2), hit (2)
 > **Env Vars:** ecw (3), ndvi (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
@@ -1878,9 +1879,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (7), next (3), web (3), [[ArcGIS Pro]] (2), data (2)
 > **Env Vars:** ecw (7), tiff (4), jpeg (3), utm (3), envi (1)
 > **UI Navigation:** drag and drop (2), right-click (2)
-> **Code Keywords:** let (1), case, (1), type. (1)
 > **Cross-References:** we talked about (1), go back to (1)
 > **Best Practices:** you should always (2)
 > **CLI Commands:** make (1)
@@ -2052,9 +2053,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Statistics]] (2), [[Zoom]] (1)
 > **Env Vars:** dem (10), geotiff (1), tiff (1), dtm (1)
 > **CLI Commands:** make (10)
-> **Code Keywords:** let (4), switch (2), this. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** right-click (2)
@@ -2226,8 +2227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** raster (11), dem (5), rasters (3)
-> **Code Keywords:** let (8), function (3)
 > **CLI Commands:** make (2)
 > **Versions:** 2.5 (1)
 > **UI Navigation:** go to (1)
@@ -2514,7 +2515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), export. (2), catch, (1), new. (1), function (1)
+> **Frameworks & Libraries:** data (22), hit (4), database (4), [[Zoom]] (2), power (1)
 > **Env Vars:** las (7), data (1), gps (1), lidar (1), tin (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
@@ -2526,7 +2527,7 @@ created: 2026-04-29
 
 ### 4. Styling Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Point layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980)
@@ -2737,7 +2738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (3), default, (1), this. (1), from, (1)
+> **Frameworks & Libraries:** hit (7), [[Zoom]] (6), [[Windows]] (3), next (1), feature (1)
 > **Env Vars:** emf (2), svg (2), esri (1), dae (1), png (1)
 > **UI Navigation:** right-click (3), go to (2), switch to (1), scroll down (1)
 > **CLI Commands:** make (4)
@@ -2955,7 +2956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), else. (1), this. (1), type, (1)
+> **Frameworks & Libraries:** hit (3), [[Zoom]] (3), data (1), feature (1)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** right-click (3), go to (3)
 > **Definitions:** is a  (4)
@@ -3159,7 +3160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), switch (5), default, (1), else. (1)
+> **Frameworks & Libraries:** hit (4), [[Zoom]] (2), data (1), [[ArcGIS Pro]] (1)
 > **CLI Commands:** make (11)
 > **Versions:** 0.6 (2), 1.2 (1), 0.8 (1)
 > **Env Vars:** buildings (2)
@@ -3283,7 +3284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), class. (1), else. (1)
+> **Frameworks & Libraries:** data (6), feature (1), database (1), hit (1)
 > **UI Navigation:** click on (1), toggle (1), drag and drop (1), go to (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **CLI Commands:** make (2)
@@ -3395,8 +3396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Statistics]] (1), power (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (2), match. (1), this. (1), switch (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** drag and drop (2)
 > **Definitions:** is a  (2)
@@ -3407,7 +3408,7 @@ created: 2026-04-29
 
 ### 5. Labeling Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Label vector data
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/label-vector-data?u=76281980)
@@ -3590,7 +3591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), type, (1), class. (1), this. (1), class, (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), data (2), hit (1), feature (1)
 > **Env Vars:** pvc (7), rts (1)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (3)
@@ -3832,7 +3833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (1), switch (1), delete (1), this. (1)
+> **Frameworks & Libraries:** [[Zoom]] (10), data (3), [[ArcGIS Pro]] (2), database (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (4), python (2), find (1)
 > **Definitions:** is a  (3), is an  (2)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
@@ -3843,7 +3844,7 @@ created: 2026-04-29
 
 ### 6. 3D Maps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Global 3D scenes
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980)
@@ -3930,9 +3931,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (4), data (2), [[Google]] (2), database (1), gis (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Analogies:** such as (2), just like (1), similar to (1)
-> **Code Keywords:** let (1), this. (1)
 > **Env Vars:** gis (1), pro (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -4035,7 +4036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (3), [[Zoom]] (3), next (2), database (1)
 > **UI Navigation:** drag and drop (1), scroll down (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4200,7 +4201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (1), case. (1), class. (1), function (1)
+> **Frameworks & Libraries:** data (6), feature (5), database (1), [[Zoom]] (1), next (1)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -4313,7 +4314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (1), default, (1)
+> **Frameworks & Libraries:** data (3), [[Zoom]] (2), feature (1)
 > **UI Navigation:** go to (2), click on (1), drag and drop (1), toggle (1)
 > **Definitions:** is an  (2)
 > **Prerequisites:** set up (1)
@@ -4322,7 +4323,7 @@ created: 2026-04-29
 
 ### 7. Printing with Map Layouts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-up-layouts?u=76281980)
@@ -4625,7 +4626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), export. (2), override (1), case. (1), this. (1)
+> **Frameworks & Libraries:** [[Zoom]] (9), hit (4), data (1), next (1), gis (1)
 > **Env Vars:** pdf (6), tiff (2), iso (1), ansi (1), gis (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (2), drag and drop (1), click on (1), toggle (1), scroll down (1)
@@ -5115,7 +5116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (3), from. (1), this. (1)
+> **Frameworks & Libraries:** data (9), next (5), [[Zoom]] (4)
 > **CLI Commands:** make (14)
 > **UI Navigation:** go to (3), click on (1)
 > **Analogies:** picture (2), such as (1), just like (1)
@@ -5254,7 +5255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), hit (1), data (1), database (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** just like (3)
@@ -5266,7 +5267,7 @@ created: 2026-04-29
 
 ### 8. Creating Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating feature classes in a geodatabase
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980)
@@ -5513,8 +5514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (20), database (12), data (10), next (9), hit (7)
 > **Env Vars:** cities (6), city_name (4), state (3), roads (3), urban_areas (3)
-> **Code Keywords:** let (11), new, (3), class. (3), else. (2), case. (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -5667,7 +5668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), this, (1)
+> **Frameworks & Libraries:** hit (9), data (8), feature (2), [[Zoom]] (2), [[Vertex]] (2)
 > **CLI Commands:** make (5), snap (1)
 > **Cross-References:** go back to (5)
 > **Env Vars:** gis (2), pid (1)
@@ -5854,7 +5855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), type, (2), default, (2), from. (1)
+> **Frameworks & Libraries:** data (6), hit (5), feature (2), database (1)
 > **UI Navigation:** click on (5), go to (2), drag and drop (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2)
@@ -5996,9 +5997,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), gis (2), database (1), [[Zoom]] (1), node (1)
 > **Env Vars:** frew (5), gis (2), pid (1), gid (1)
 > **CLI Commands:** make (4), node (1)
-> **Code Keywords:** let (3), case, (1), this, (1)
 > **UI Navigation:** drag and drop (1), go to (1), select the (1)
 > **Analogies:** such as (1), just like (1), for example (1)
 > **Cross-References:** go back to (2)
@@ -6165,7 +6166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (2), case, (2), export. (2), this. (1)
+> **Frameworks & Libraries:** data (16), feature (6), database (5), hit (5), [[LinkedIn]] (1)
 > **UI Navigation:** click on (4), scroll down (1), toggle (1), drag and drop (1), go to (1)
 > **Env Vars:** cad (2), nanaimo (1), utm (1)
 > **CLI Commands:** make (3)
@@ -6177,7 +6178,7 @@ created: 2026-04-29
 
 ### 9. Geospatial Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overlaying two vector layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980)
@@ -6338,7 +6339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), class. (1), match. (1), type. (1)
+> **Frameworks & Libraries:** data (4), feature (4), gis (2), [[ArcGIS Pro]] (1), [[Zoom]] (1)
 > **Env Vars:** gis (2), gdb (1), gid (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -6460,7 +6461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[ArcGIS Pro]] (1), data (1), database (1)
 > **UI Navigation:** drag and drop (1), go to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crime (1)
@@ -6620,8 +6621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (5), hit (5), data (2), database (1), [[Zoom]] (1)
 > **UI Navigation:** go to (4), drag and drop (1), checkbox (1)
-> **Code Keywords:** let (4), this, (1)
 > **Env Vars:** parcels (1), parcel (1), centroids (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (1)
@@ -6632,7 +6633,7 @@ created: 2026-04-29
 
 ### 10. Sharing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Publishing to ArcGIS Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980)
@@ -6815,7 +6816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (3), else. (1), case. (1), this, (1)
+> **Frameworks & Libraries:** web (10), data (7), [[ArcGIS Pro]] (2), [[Zoom]] (2), feature (2)
 > **Env Vars:** bike_routes (2), buildings (2), nanaimo (1), url (1), apartment (1)
 > **UI Navigation:** go to (2), switch to (1), double-click (1), click on (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (3)
@@ -6947,7 +6948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** data (11)
 > **CLI Commands:** make (4)
 > **Env Vars:** unc (2), lpkx (1)
 > **Cross-References:** go back to (1)
@@ -7055,7 +7056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (11), [[Representational State Transfer (REST)|Rest]] (2), web (1)
 > **Env Vars:** url (3), rest (2)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** find (2), make (1)
@@ -7203,7 +7204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), export, (1), export. (1), pass (1)
+> **Frameworks & Libraries:** data (11), database (2), [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1), [[Databases]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -7214,7 +7215,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/next-steps?u=76281980)
@@ -7231,6 +7232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (2), [[ArcGIS Pro]] (1), [[Search]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gis (2)
 > **Speakers:** - [gordon] (1)
 

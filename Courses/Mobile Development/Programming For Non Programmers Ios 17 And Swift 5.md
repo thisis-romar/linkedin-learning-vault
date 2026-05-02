@@ -27,7 +27,7 @@ tags:
   - skill/swift-programming-language
   - skill/ios-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Programming%20For%20Non%20Programmers%20Ios%2017%20And%20Swift%205.md)
@@ -46,59 +46,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know before watching this course
-  - The finished app
+  - [Welcome](#welcome)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
+  - [The finished app](#the-finished-app)
 - [**1. Setting Up Your Coding Environment**](#1-setting-up-your-coding-environment) (3 videos)
-  - Creating an Xcode project
-  - Understanding the Xcode interface
-  - Adjusting Xcode preferences and settings
+  - [Creating an Xcode project](#creating-an-xcode-project)
+  - [Understanding the Xcode interface](#understanding-the-xcode-interface)
+  - [Adjusting Xcode preferences and settings](#adjusting-xcode-preferences-and-settings)
 - [**2. Programming Building Blocks: Variables**](#2-programming-building-blocks-variables) (4 videos)
-  - Understanding how programming works
-  - Understanding variables and constants
-  - Working with variables in a playground
-  - Using variables in SwiftUI
+  - [Understanding how programming works](#understanding-how-programming-works)
+  - [Understanding variables and constants](#understanding-variables-and-constants)
+  - [Working with variables in a playground](#working-with-variables-in-a-playground)
+  - [Using variables in SwiftUI](#using-variables-in-swiftui)
 - [**3. Using Variables to Build a UI**](#3-using-variables-to-build-a-ui) (8 videos)
-  - SwiftUI layout basics
-  - Creating custom SwiftUI components
-  - Creating calculator buttons
-  - Setting button text
-  - Setting button width
-  - Setting button colors
-  - Challenge: Create the value text view
-  - Solution: Create the value text view
+  - [SwiftUI layout basics](#swiftui-layout-basics)
+  - [Creating custom SwiftUI components](#creating-custom-swiftui-components)
+  - [Creating calculator buttons](#creating-calculator-buttons)
+  - [Setting button text](#setting-button-text)
+  - [Setting button width](#setting-button-width)
+  - [Setting button colors](#setting-button-colors)
+  - [Challenge: Create the value text view](#challenge-create-the-value-text-view)
+  - [Solution: Create the value text view](#solution-create-the-value-text-view)
 - [**4. Programming Building Blocks: Methods**](#4-programming-building-blocks-methods) (9 videos)
-  - Understanding methods
-  - Using methods
-  - Running code when a button is pressed
-  - Using a method as a variable
-  - Passing parameters to method variables
-  - SwiftUI binding
-  - Using different methods to handle different events
-  - Challenge: Create methods for the equal button
-  - Solution: Create methods for the equal button
+  - [Understanding methods](#understanding-methods)
+  - [Using methods](#using-methods)
+  - [Running code when a button is pressed](#running-code-when-a-button-is-pressed)
+  - [Using a method as a variable](#using-a-method-as-a-variable)
+  - [Passing parameters to method variables](#passing-parameters-to-method-variables)
+  - [SwiftUI binding](#swiftui-binding)
+  - [Using different methods to handle different events](#using-different-methods-to-handle-different-events)
+  - [Challenge: Create methods for the equal button](#challenge-create-methods-for-the-equal-button)
+  - [Solution: Create methods for the equal button](#solution-create-methods-for-the-equal-button)
 - [**5. Programming Building Blocks: Control Flow**](#5-programming-building-blocks-control-flow) (7 videos)
-  - Understanding conditional statements
-  - Using conditional statements and Booleans
-  - Handling the numeric button presses
-  - Optionals and If Let statements
-  - Enums
-  - Challenge: Conditionals
-  - Solution: Conditionals
+  - [Understanding conditional statements](#understanding-conditional-statements)
+  - [Using conditional statements and Booleans](#using-conditional-statements-and-booleans)
+  - [Handling the numeric button presses](#handling-the-numeric-button-presses)
+  - [Optionals and If Let statements](#optionals-and-if-let-statements)
+  - [Enums](#enums)
+  - [Challenge: Conditionals](#challenge-conditionals)
+  - [Solution: Conditionals](#solution-conditionals)
 - [**6. Finishing the Application**](#6-finishing-the-application) (7 videos)
-  - Storing the saved number
-  - Showing the total when the equals button is tapped
-  - Formatting the total number
-  - Replacing the mode buttons with symbols
-  - Adding an app icon
-  - Challenge: Clear button
-  - Solution: Clear button
+  - [Storing the saved number](#storing-the-saved-number)
+  - [Showing the total when the equals button is tapped](#showing-the-total-when-the-equals-button-is-tapped)
+  - [Formatting the total number](#formatting-the-total-number)
+  - [Replacing the mode buttons with symbols](#replacing-the-mode-buttons-with-symbols)
+  - [Adding an app icon](#adding-an-app-icon)
+  - [Challenge: Clear button](#challenge-clear-button)
+  - [Solution: Clear button](#solution-clear-button)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/welcome?u=76281980)
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), career (2), product (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** ios (4), macos (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** prerequisite (1)
@@ -148,7 +149,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** macos (1)
 > **Speakers:** - [instructor] (1)
 
@@ -185,14 +185,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** hit (2), [[Programming]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Setting Up Your Coding Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an Xcode project
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-an-xcode-project?u=76281980)
@@ -211,10 +211,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (3), application (1)
 > **Prerequisites:** install (3)
 > **Code Identifiers:** ios (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -265,9 +265,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (4), hit (3), product (3), next (2), [[Git]] (2)
 > **CLI Commands:** make (2), git (2)
 > **Code Identifiers:** ios (3), macos (1)
-> **Code Keywords:** interface (3)
 > **Exercise Files:** exercise files (2), template (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Env Vars:** ios (1)
@@ -329,7 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (2), [[Debugging]] (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is called (2), is a  (1)
 > **File Paths:** contentview.swift (1)
@@ -341,7 +341,7 @@ created: 2026-04-29
 
 ### 2. Programming Building Blocks: Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding how programming works
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980)
@@ -378,8 +378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), application (3), [[Microsoft Word|Word]] (2), [[Xcode]] (1), hit (1)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** this, (1)
 > **Code Identifiers:** systemname (1)
 > **Speakers:** - [instructor] (1)
 
@@ -478,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (5), let (4), this. (1), this, (1), type. (1)
+> **Frameworks & Libraries:** data (8), [[Swift (Programming Language)|Swift]] (4), [[Programming]] (1), application (1), game (1)
 > **Definitions:** is called (2), is a  (1), short for (1)
 > **Analogies:** similar to (2), just like (2)
 > **Best Practices:** good practice (1), make sure to (1)
@@ -573,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), var (4), new, (1), else. (1), this, (1)
+> **Frameworks & Libraries:** hit (8), next (4), [[Algorithms]] (1), strengths (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Analogies:** just like (2), for example (1)
 > **CLI Commands:** make (1)
@@ -617,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (1), struct (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), data (1)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -625,7 +625,7 @@ created: 2026-04-29
 
 ### 3. Using Variables to Build a UI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SwiftUI layout basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-layout-basics?u=76281980)
@@ -704,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return. (1), let (1), delete (1)
+> **Frameworks & Libraries:** next (4), [[Programming Concepts]] (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** short for (1)
 > **Analogies:** just like (1)
@@ -747,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), this. (1)
+> **Frameworks & Libraries:** hit (2), next (1)
 > **Code Identifiers:** ios (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -869,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type . (5), let (2), return, (2), return. (1), pass (1)
+> **Frameworks & Libraries:** next (6), hit (2), [[Xcode]] (1), application (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** largetitle (1), foregroundstyle (1), clipshape (1)
@@ -942,7 +942,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), var (1), pass (1), this. (1), delete (1)
 > **Code Identifiers:** buttontext (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -999,7 +998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2), var (1)
+> **Frameworks & Libraries:** data (3), next (2), [[Xcode]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
@@ -1062,7 +1061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4)
+> **Frameworks & Libraries:** hit (1), next (1)
 > **Versions:** 1.0 (1), 0.283 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1099,6 +1098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Cross-References:** we discussed (3)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1234,8 +1234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), hit (2)
 > **Code Identifiers:** mytext (4), linelimit (3), bottomtrailing (2), fontweight (2), ios (1)
-> **Code Keywords:** let (4), type . (3), pass (2), return. (1)
 > **Definitions:** is a  (3), known as (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
@@ -1245,7 +1245,7 @@ created: 2026-04-29
 
 ### 4. Programming Building Blocks: Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-methods?u=76281980)
@@ -1376,7 +1376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), case, (2), var (1), type. (1)
+> **Frameworks & Libraries:** data (3), [[Programming]] (1), game (1), power (1)
 > **Code Identifiers:** getsum (5), camelcase (1)
 > **Definitions:** in other words (2), short for (2), is a  (1), is an  (1)
 > **Analogies:** just like (2), kind of like (1), similar to (1), for example (1)
@@ -1472,7 +1472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (2), return, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (13), hit (6), [[Xcode]] (3), data (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1561,7 +1561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), return, (1), case, (1)
+> **Frameworks & Libraries:** next (1), hit (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** buttonwaspressed (4), buttontext (3)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (1), find (1)
@@ -1680,7 +1680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), pass (3), type. (3), case. (2)
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (3), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** buttonwaspressed (4), numberwaspressed (2), buttontext (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Definitions:** is a  (2)
@@ -1760,7 +1760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), type. (2), let (1), pass (1), case, (1)
+> **Frameworks & Libraries:** data (3), next (1), [[Microsoft Word|Word]] (1), hit (1)
 > **Definitions:** is a  (2), refers to (2)
 > **Code Identifiers:** numberwaspressed (2)
 > **UI Navigation:** click on (2)
@@ -1879,7 +1879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), var (1), this. (1), pass (1), delete (1)
+> **Frameworks & Libraries:** data (1), application (1), [[Xcode]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is called (1), in other words (1)
@@ -1952,9 +1952,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), hit (1)
 > **Code Identifiers:** modewaspressed (5), clearwaspressed (3), numberwaspressed (2)
 > **UI Navigation:** click on (2), scroll up (1), select the (1)
-> **Code Keywords:** let (2), delete (1)
 > **Analogies:** just like (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -1989,8 +1989,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type, (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
@@ -2016,13 +2016,12 @@ created: 2026-04-29
 >
 > **Code Identifiers:** clearwaspressed (1), equalwaspressed (1)
 > **Analogies:** just like (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 5. Programming Building Blocks: Control Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding conditional statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980)
@@ -2117,7 +2116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Programming Concepts]] (1), [[Microsoft Word|Word]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** isloggedin (2)
 > **Definitions:** is called (1), is an  (1)
 > **Analogies:** for example (1)
@@ -2238,7 +2237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), else, (2), else. (1), delete (1), type. (1)
+> **Frameworks & Libraries:** hit (6), [[Microsoft Word|Word]] (2), data (2)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (2)
 > **Definitions:** is a  (1)
@@ -2348,7 +2347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Swift (Programming Language)|Swift]] (2)
 > **Code Identifiers:** buttontext (3), totalint (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -2409,7 +2408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1), delete (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Microsoft Word|Word]] (2)
 > **Best Practices:** bad practice (2), good practice (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** totalint (1)
@@ -2535,7 +2534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (5), let (3), if, (1), this. (1), type, (1)
+> **Frameworks & Libraries:** data (6), [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** scroll up (1), click on (1), scroll down (1)
 > **Definitions:** short for (1)
@@ -2611,7 +2610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), next (1)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** lastbuttonwasmode (1)
@@ -2663,7 +2662,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), var (1), delete (1), return. (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2671,7 +2669,7 @@ created: 2026-04-29
 
 ### 6. Finishing the Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storing the saved number
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/storing-the-saved-number?u=76281980)
@@ -2778,8 +2776,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), next (1)
 > **Code Identifiers:** currentint (12), savedint (4), updatetext (4), totalint (3), currentmode (2)
-> **Code Keywords:** let (3), var (2), switch (1)
 > **UI Navigation:** go to (1), scroll down (1), scroll up (1)
 > **Definitions:** in other words (2), we call this (1)
 > **CLI Commands:** make (1)
@@ -2858,8 +2856,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** savedint (6), currentint (5), currentmode (3), equalwaspressed (1), lastbuttonwasmode (1)
-> **Code Keywords:** let (2), case, (1), else. (1), if, (1), if. (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -2925,7 +2923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), next (1), data (1)
 > **Code Identifiers:** currentint (2), updatetext (1), numberstyle (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** find (1)
@@ -2984,8 +2982,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), hit (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** buttontext (3), modewaspressed (2), systemname (1)
-> **Code Keywords:** let (3), from, (1)
 > **UI Navigation:** scroll down (2), in the toolbar (1), scroll up (1)
 > **Analogies:** just like (2)
 > **CLI Commands:** find (1)
@@ -3032,9 +3030,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), application (1), [[Xcode]] (1)
 > **Code Identifiers:** ios (2), iphone (1)
 > **UI Navigation:** click on (1), double-click (1), go to (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
@@ -3094,7 +3092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), var (1)
+> **Frameworks & Libraries:** hit (2), application (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -3103,7 +3101,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980)
@@ -3136,8 +3134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), next (2), [[LinkedIn]] (1), [[Programming Foundations]] (1)
 > **Code Identifiers:** ios (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

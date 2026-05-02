@@ -30,7 +30,7 @@ tags:
   - skill/wolfram-language
   - skill/blockchain-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Interacting%20with%20Blockchains%20in%20the%20Wolfram%20Language.md)
@@ -49,21 +49,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Blockchain Data**](#1-blockchain-data) (1 videos)
-  - Blockchain data
+  - [Blockchain data](#blockchain-data)
 - [**2. Blockchain Block Data**](#2-blockchain-block-data) (1 videos)
-  - Blockchain block data
+  - [Blockchain block data](#blockchain-block-data)
 - [**3. Blockchain Transaction Data**](#3-blockchain-transaction-data) (1 videos)
-  - Blockchain transaction data
+  - [Blockchain transaction data](#blockchain-transaction-data)
 - [**4. Blockchain Address Data**](#4-blockchain-address-data) (1 videos)
-  - Blockchain address data
+  - [Blockchain address data](#blockchain-address-data)
 - [**5. Blockchain Token Data**](#5-blockchain-token-data) (1 videos)
-  - Blockchain token data
+  - [Blockchain token data](#blockchain-token-data)
 - [**6. Blockchain Contract Value**](#6-blockchain-contract-value) (1 videos)
-  - Blockchain contract value
+  - [Blockchain contract value](#blockchain-contract-value)
 
 ### 1. Blockchain Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980)
@@ -132,7 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), this. (2)
+> **Frameworks & Libraries:** [[Blockchain]] (9), [[Wolfram Language]] (2), [[Ethereum]] (2)
 > **Env Vars:** ark (4)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -140,7 +140,7 @@ created: 2026-04-29
 
 ### 2. Blockchain Block Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain block data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980)
@@ -265,7 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (7), function (5), this, (3), super (1)
+> **Frameworks & Libraries:** [[Blockchain]] (11), [[Ethereum]] (4), data (1)
 > **Analogies:** for example (4)
 > **UI Navigation:** go to (3)
 > **Env Vars:** ark (2)
@@ -275,7 +275,7 @@ created: 2026-04-29
 
 ### 3. Blockchain Transaction Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain transaction data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980)
@@ -364,7 +364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3), this. (2), this, (1), try, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Ethereum]] (2), data (1)
 > **Env Vars:** ark (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -373,7 +373,7 @@ created: 2026-04-29
 
 ### 4. Blockchain Address Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain address data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980)
@@ -444,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), this. (1), type. (1), function (1)
+> **Frameworks & Libraries:** [[Ethereum]] (5), [[Blockchain]] (3), data (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (3)
 > **Documentation:** the documentation (1)
@@ -452,7 +452,7 @@ created: 2026-04-29
 
 ### 5. Blockchain Token Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain token data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980)
@@ -543,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (4), this. (3), function (2)
+> **Frameworks & Libraries:** [[Tokens]] (10), [[Ethereum]] (7), [[Blockchain]] (5)
 > **Env Vars:** erc20 (2), erc721 (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -553,7 +553,7 @@ created: 2026-04-29
 
 ### 6. Blockchain Contract Value
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain contract value
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980)
@@ -766,7 +766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (8), public (7), case, (6), this, (5)
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (4), [[Wolfram Language]] (1), web (1)
 > **Env Vars:** ark (8)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (3)

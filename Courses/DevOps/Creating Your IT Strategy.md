@@ -32,7 +32,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-strategic-planning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Creating%20Your%20IT%20Strategy.md)
@@ -51,24 +51,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why IT strategy matters
+  - [Why IT strategy matters](#why-it-strategy-matters)
 - [**1. Analyze the IT Function**](#1-analyze-the-it-function) (3 videos)
-  - The changing nature of the IT role
-  - Making IT strategic
-  - Challenges to streamlining IT
+  - [The changing nature of the IT role](#the-changing-nature-of-the-it-role)
+  - [Making IT strategic](#making-it-strategic)
+  - [Challenges to streamlining IT](#challenges-to-streamlining-it)
 - [**2. Redefining the IT Role**](#2-redefining-the-it-role) (3 videos)
-  - Creating an agile IT department
-  - Measuring IT performance
-  - Creating the role of business information officer
+  - [Creating an agile IT department](#creating-an-agile-it-department)
+  - [Measuring IT performance](#measuring-it-performance)
+  - [Creating the role of business information officer](#creating-the-role-of-business-information-officer)
 - [**3. Changing the Organizational Conversation**](#3-changing-the-organizational-conversation) (4 videos)
-  - Creating an IT mission
-  - Co-creating other departments' strategy
-  - Ways for IT leaders to collaborate outside of IT
-  - Tips to retain top IT talent
+  - [Creating an IT mission](#creating-an-it-mission)
+  - [Co-creating other departments' strategy](#co-creating-other-departments-strategy)
+  - [Ways for IT leaders to collaborate outside of IT](#ways-for-it-leaders-to-collaborate-outside-of-it)
+  - [Tips to retain top IT talent](#tips-to-retain-top-it-talent)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why IT strategy matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980)
@@ -105,14 +105,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** business (4), [[Internet of Things (IoT)|Internet of things]] (1), data (1), [[Analytics]] (1), [[IT Strategy]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - information (1)
 
 
 ### 1. Analyze the IT Function
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The changing nature of the IT role
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980)
@@ -195,7 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), continue (1), this, (1)
+> **Frameworks & Libraries:** business (5), data (2), [[Cybersecurity]] (2), [[Automation]] (1), [[Android]] (1)
 > **Env Vars:** cfo (1), cio (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** iphone (1)
@@ -301,9 +301,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), next (3), functional (2), teams (2), leadership (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** ogtm (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
@@ -398,8 +398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (4), cloud (3), [[Hardware]] (2), power (1)
 > **Env Vars:** erp (2), cio (1), nist (1)
-> **Code Keywords:** finally, (1), private (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
@@ -409,7 +409,7 @@ created: 2026-04-29
 
 ### 2. Redefining the IT Role
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an agile IT department
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980)
@@ -506,9 +506,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Agile Development|Agile]] (5), product (3), [[Human Resources (HR)|Human resources]] (1), hr (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** new, (1)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - the (1)
@@ -594,8 +594,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), business (2), next (2), [[Security]] (2), data (1)
 > **Env Vars:** ceo (3), cio (1)
-> **Code Keywords:** let (1), function (1), this. (1)
 > **Analogies:** for instance (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -667,6 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7)
 > **Env Vars:** bio (7), pnc (1), sap (1)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** find (1)
@@ -676,7 +677,7 @@ created: 2026-04-29
 
 ### 3. Changing the Organizational Conversation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an IT mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-it-mission-2?u=76281980)
@@ -755,7 +756,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), function (1), continue (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - for (1)
@@ -845,7 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), finally, (1), try. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), next (3), data (2), [[Analytics]] (2), [[IT Strategy]] (1)
 > **Env Vars:** swot (3)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
@@ -934,7 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), this. (1)
+> **Frameworks & Libraries:** business (4), data (4), leadership (4), [[Analytics]] (2), [[Internet of Things (IoT)|Internet of things]] (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
@@ -1025,7 +1025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), finally, (1), let (1)
+> **Frameworks & Libraries:** business (3), [[Talent Management]] (2), leadership (2), [[Learning Agility]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** cio (2)
 > **Analogies:** such as (1)

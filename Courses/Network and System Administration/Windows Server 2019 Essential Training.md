@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/windows-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%20Server%202019%20Essential%20Training.md)
@@ -43,56 +43,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Exploring Windows Server 2019
-  - What you should already know
+  - [Exploring Windows Server 2019](#exploring-windows-server-2019)
+  - [What you should already know](#what-you-should-already-know)
 - [**1. Getting Started**](#1-getting-started) (7 videos)
-  - When to upgrade
-  - Installation and configuration
-  - Roles and features
-  - IP management roles
-  - Upgrades and migration
-  - Windows Defender ATP
-  - Windows Firewall
+  - [When to upgrade](#when-to-upgrade)
+  - [Installation and configuration](#installation-and-configuration)
+  - [Roles and features](#roles-and-features)
+  - [IP management roles](#ip-management-roles)
+  - [Upgrades and migration](#upgrades-and-migration)
+  - [Windows Defender ATP](#windows-defender-atp)
+  - [Windows Firewall](#windows-firewall)
 - [**2. Management and Administration**](#2-management-and-administration) (6 videos)
-  - PowerShell
-  - PowerShell remoting
-  - Installing the Windows Admin Center
-  - Windows Admin Center management
-  - Desktop experience administration tools
-  - RSAT
+  - [PowerShell](#powershell)
+  - [PowerShell remoting](#powershell-remoting)
+  - [Installing the Windows Admin Center](#installing-the-windows-admin-center)
+  - [Windows Admin Center management](#windows-admin-center-management)
+  - [Desktop experience administration tools](#desktop-experience-administration-tools)
+  - [RSAT](#rsat)
 - [**3. Windows Server Environments**](#3-windows-server-environments) (6 videos)
-  - Upgrading Active Directory
-  - Planning sites and services
-  - Encrypted networks
-  - Cluster sets
-  - Hybrid cloud environments
-  - Hyper-Converged Infrastructure
+  - [Upgrading Active Directory](#upgrading-active-directory)
+  - [Planning sites and services](#planning-sites-and-services)
+  - [Encrypted networks](#encrypted-networks)
+  - [Cluster sets](#cluster-sets)
+  - [Hybrid cloud environments](#hybrid-cloud-environments)
+  - [Hyper-Converged Infrastructure](#hyper-converged-infrastructure)
 - [**4. Storage Solutions**](#4-storage-solutions) (6 videos)
-  - Types of volumes
-  - File systems compared
-  - Data deduplication
-  - Storage Spaces Direct
-  - Storage Replica
-  - Storage Migration Service
+  - [Types of volumes](#types-of-volumes)
+  - [File systems compared](#file-systems-compared)
+  - [Data deduplication](#data-deduplication)
+  - [Storage Spaces Direct](#storage-spaces-direct)
+  - [Storage Replica](#storage-replica)
+  - [Storage Migration Service](#storage-migration-service)
 - [**5. Identity and Access Roles**](#5-identity-and-access-roles) (4 videos)
-  - Creating your own AD PKI
-  - Managing certificate templates
-  - Federated identity features
-  - Rights Management Services
+  - [Creating your own AD PKI](#creating-your-own-ad-pki)
+  - [Managing certificate templates](#managing-certificate-templates)
+  - [Federated identity features](#federated-identity-features)
+  - [Rights Management Services](#rights-management-services)
 - [**6. Virtualization**](#6-virtualization) (4 videos)
-  - Hyper-V in Server 2019
-  - Changes to virtualization security
-  - Containers
-  - Windows Subsystem for Linux
+  - [Hyper-V in Server 2019](#hyper-v-in-server-2019)
+  - [Changes to virtualization security](#changes-to-virtualization-security)
+  - [Containers](#containers)
+  - [Windows Subsystem for Linux](#windows-subsystem-for-linux)
 - [**7. Going Forward**](#7-going-forward) (2 videos)
-  - Long-Term Servicing Channel vs. Semi-Annual releases
-  - Windows Insider program
+  - [Long-Term Servicing Channel vs. Semi-Annual releases](#long-term-servicing-channel-vs-semi-annual-releases)
+  - [Windows Insider program](#windows-insider-program)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Windows Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Microsoft]] (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [scott] (1)
 
 #### What you should already know
@@ -159,8 +159,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (3), data (2), [[Windows]] (2), [[Active Directory]] (2), [[Virtualization]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** ram (1)
 > **Tools:** powershell (1)
 > **Definitions:** means that (1)
@@ -169,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to upgrade
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980)
@@ -234,7 +234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), this, (2), let (1)
+> **Frameworks & Libraries:** [[Windows Server]] (16), [[Windows]] (3), [[Microsoft]] (2), functional (2), data (2)
 > **Env Vars:** adfs (2), pci (1)
 > **Prerequisites:** install (2), make sure you have (1)
 > **CLI Commands:** make (2)
@@ -372,7 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), static (2), this, (1), default. (1)
+> **Frameworks & Libraries:** [[Powershell]] (7), [[Windows Server]] (6), [[Windows]] (3), next (2), hit (2)
 > **Prerequisites:** install (7), configure (1)
 > **Tools:** powershell (7)
 > **Env Vars:** ram (3), dns (1)
@@ -494,7 +494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (4), case, (2), for. (1), module (1), let (1)
+> **Frameworks & Libraries:** feature (5), [[Powershell]] (3), management (3), [[Active Directory]] (3), [[Windows Server]] (3)
 > **Prerequisites:** install (5), configure (2), you'll need (1)
 > **Env Vars:** adfs (3), dns (1), dhcp (1), gui (1)
 > **Tools:** powershell (3)
@@ -600,11 +600,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (14), feature (8), [[Active Directory]] (6), management (3), [[Windows Server]] (2)
 > **Env Vars:** dns (14), dhcp (6), ipam (3), net (2), tcp (1)
 > **Prerequisites:** install (5), configure (2)
 > **CLI Commands:** find (6)
 > **Definitions:** is a  (6)
-> **Code Keywords:** case, (1), let (1)
 > **URLs:** [landonhotel.com](https://landonhotel.com) (1), [asp.net](https://asp.net) (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (2)
@@ -714,8 +714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (10), [[Windows]] (4), [[Active Directory]] (4), [[Microsoft]] (3), next (2)
 > **Env Vars:** smig (3), dhcp (2), dvd (1), radius (1), adfs (1)
-> **Code Keywords:** let (3), from. (1), try. (1), continue (1), export, (1)
 > **Prerequisites:** install (2), setup (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -781,6 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Windows]] (7), [[Windows Server]] (5), [[Microsoft Defender|Defender]] (4), data (4)
 > **Env Vars:** atp (3)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -878,7 +879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), private (1), finally, (1), interface (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Security]] (5), traffic (5), application (3), [[Powershell]] (3)
 > **Env Vars:** tcp (2), atp (1)
 > **Tools:** powershell (3)
 > **Ports:** port 5985 (2)
@@ -889,7 +890,7 @@ created: 2026-04-29
 
 ### 2. Management and Administration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980)
@@ -996,8 +997,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (19), [[Windows]] (9), [[Windows Server]] (7), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (4)
 > **Tools:** powershell (19), github (2)
-> **Code Keywords:** module (7), let (3), switch (1), from, (1)
 > **Prerequisites:** install (8)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (3)
@@ -1114,8 +1115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Active Directory]] (7), [[Windows]] (3), prompt (3), hit (2)
 > **Tools:** powershell (12)
-> **Code Keywords:** let (9), function (1), default, (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
@@ -1225,7 +1226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (1)
+> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft]] (5), web (3), [[Powershell]] (2), next (2)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** wac (2), ssl (1), tcp (1)
 > **Prerequisites:** install (4)
@@ -1329,12 +1330,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), [[Windows]] (5), [[Powershell]] (4), [[Windows Server]] (4), [[Storage Management]] (3)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** install (4), configure (1)
 > **Env Vars:** dns (3), wac (1)
 > **Tools:** powershell (4)
 > **Definitions:** refers to (2), known as (1), is a  (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** scroll down (1), select the (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1423,9 +1424,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (6), [[Powershell]] (5), [[Windows]] (4), management (2), dns (2)
 > **Env Vars:** dhcp (8), dns (2), mmc (1), gui (1)
 > **Prerequisites:** install (10)
-> **Code Keywords:** let (2), interface (1), module (1), else. (1)
 > **Tools:** powershell (5)
 > **Definitions:** is a  (2)
 > **Best Practices:** remember to (1), best practice (1)
@@ -1521,10 +1522,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (13), [[Windows Server]] (6), [[Windows 10]] (5), [[Powershell]] (3), [[Search]] (2)
 > **Env Vars:** rsat (4), mmc (1)
 > **Prerequisites:** install (4), required to (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** for. (1), delete (1), let (1)
 > **Tools:** powershell (3)
 > **UI Navigation:** scroll down (2), select the (1)
 > **Definitions:** is a  (1)
@@ -1533,7 +1534,7 @@ created: 2026-04-29
 
 ### 3. Windows Server Environments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Upgrading Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980)
@@ -1678,7 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (2), while, (1), from, (1)
+> **Frameworks & Libraries:** [[Active Directory]] (13), [[Windows]] (9), [[Windows Server]] (7), database (3), application (3)
 > **Code Identifiers:** objectversion (4), schemanamingcontext (1)
 > **Env Vars:** dns (2), gig (1), ram (1)
 > **Prerequisites:** install (3), prerequisite (1)
@@ -1754,7 +1755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), function (1), case, (1)
+> **Frameworks & Libraries:** [[Active Directory]] (8), traffic (6), [[Powershell]] (2), [[Windows]] (1), [[Windows Server]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** powershell (2)
 > **UI Navigation:** go to (1), right-click (1)
@@ -1816,8 +1817,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Windows Server]] (3), traffic (3), [[Security]] (2), [[Virtual Machines]] (2)
 > **Env Vars:** sdn (2), ntfs (1), osi (1), nic (1)
-> **Code Keywords:** private (1), require (1), switch (1)
 > **Tools:** powershell (2)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [narrator] (1)
@@ -1895,7 +1896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), for. (1), this. (1)
+> **Frameworks & Libraries:** feature (4), [[Windows Server]] (3), [[Hardware]] (3), data (2), [[Windows]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Tools:** powershell (1)
@@ -1952,8 +1953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[Windows Server]] (6), [[Microsoft Azure|Azure]] (5), data (5), management (3)
 > **Definitions:** means that (3)
-> **Code Keywords:** match, (1), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2000,15 +2001,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Microsoft]] (3), management (2), [[Virtual Machines]] (2), [[Hardware]] (2)
 > **Env Vars:** hci (6), s2d (3), nec (1), wac (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** while, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Storage Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of volumes
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980)
@@ -2143,8 +2144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (4), [[Windows]] (4), [[Hardware]] (2), management (2), data (2)
 > **Env Vars:** gpt (3), bios (2), raid (2), uefi (1), guid (1)
-> **Code Keywords:** let (3), this, (1), from, (1), require (1)
 > **UI Navigation:** right-click (6)
 > **Prerequisites:** set up (3), install (2)
 > **CLI Commands:** find (2), make (1)
@@ -2233,9 +2234,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (4), data (3), [[Security]] (2), next (1), application (1)
 > **Env Vars:** ntfs (13), fat (4), vfat (1), fat32 (1), dvd (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1)
 > **Versions:** 29.2 (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** for example (1)
@@ -2407,7 +2408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), this. (1), from. (1)
+> **Frameworks & Libraries:** data (12), hit (3), feature (1), [[Powershell]] (1), [[Databases]] (1)
 > **Env Vars:** refs (4), ntfs (3)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3), find (1)
@@ -2485,7 +2486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), break, (1)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Virtual Machines]] (2), feature (1), data (1), node (1)
 > **Env Vars:** s2d (4), vhd (2)
 > **CLI Commands:** make (1), node (1)
 > **Cross-References:** earlier in (1)
@@ -2653,7 +2654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), match, (1)
+> **Frameworks & Libraries:** data (8), [[Windows]] (5), feature (3), [[Windows Server]] (2), next (2)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** scroll down (4)
 > **Env Vars:** ntfs (1), srv02 (1), dfs (1)
@@ -2755,8 +2756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (6), feature (4), [[Windows]] (3), [[Microsoft]] (1), next (1)
 > **Env Vars:** sms (4), smig (1), smb (1), wmi (1), dcom (1)
-> **Code Keywords:** while. (2), finally, (1), let (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (2)
@@ -2767,7 +2768,7 @@ created: 2026-04-29
 
 ### 5. Identity and Access Roles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your own AD PKI
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980)
@@ -2850,8 +2851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (9), [[Powershell]] (2), next (2), [[Security]] (2), [[Windows Server]] (1)
 > **Prerequisites:** install (5), configure (3), set up (1)
-> **Code Keywords:** let (2), public (2), private (1), this, (1)
 > **Tools:** powershell (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2946,7 +2947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (2), public (1), else. (1), for, (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows]] (3), [[Security]] (3), management (2), dns (2)
 > **UI Navigation:** right-click (3), go to (3), open the (2), scroll down (1)
 > **CLI Commands:** make (3), find (2)
 > **Exercise Files:** template (4)
@@ -3007,8 +3008,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (3), application (3), [[Microsoft Azure|Azure]] (2), [[Security]] (1), cloud (1)
 > **Env Vars:** adfs (4)
-> **Code Keywords:** function (2), let (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3067,8 +3068,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Microsoft Azure|Azure]] (5), cloud (3), management (2), data (2)
 > **Env Vars:** rms (15), aip (2)
-> **Code Keywords:** protected (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3076,7 +3077,7 @@ created: 2026-04-29
 
 ### 6. Virtualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hyper-V in Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980)
@@ -3141,7 +3142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), else. (1), protected (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Linux]] (5), [[Virtualization]] (4), data (3), [[Windows]] (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** ram (1)
 > **Definitions:** is a  (1)
@@ -3202,7 +3203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Virtual Machines]] (5), [[Windows Server]] (4), [[Microsoft]] (3), [[Linux]] (2)
 > **Env Vars:** suse (1), hgs (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -3328,9 +3329,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (9), application (8), [[Powershell]] (6), [[Microsoft]] (6), [[Hardware]] (5)
 > **CLI Commands:** docker (12), find (1), make (1)
 > **Prerequisites:** install (14)
-> **Code Keywords:** let (4), module (4), continue (2), this. (1)
 > **Tools:** powershell (6)
 > **Definitions:** is a  (2), means that (1)
 > **Versions:** version 2 (1)
@@ -3449,10 +3450,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (17), [[Ubuntu]] (14), [[Powershell]] (7), [[Windows]] (6), feature (6)
 > **Env Vars:** appx (3), zip (3), suse (2), exe (2), uri (1)
 > **Prerequisites:** install (10)
 > **Tools:** powershell (7), command prompt (1), bash (1)
-> **Code Keywords:** let (5), require (2), continue (1)
 > **CLI Commands:** find (2), docker (1)
 > **Code Identifiers:** webrequest (1)
 > **Exercise Files:** zip file (1)
@@ -3461,7 +3462,7 @@ created: 2026-04-29
 
 ### 7. Going Forward
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Long-Term Servicing Channel vs. Semi-Annual releases
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980)
@@ -3520,8 +3521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (3), next (3), [[DevOps]] (2), [[Microsoft]] (1), [[Linux]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** private (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3586,7 +3587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), let (1), include. (1), for, (1)
+> **Frameworks & Libraries:** [[Windows]] (12), [[Windows Server]] (5), next (4), [[Microsoft]] (3), [[Microsoft Products|Products]] (3)
 > **Prerequisites:** install (2), getting started (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -3597,7 +3598,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980)
@@ -3632,8 +3633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Search]] (1), [[LinkedIn]] (1), [[Active Directory]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** new. (1), let (1)
 > **Speakers:** - [scott] (1)
 
 

@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Analyzing%20Data.md)
@@ -47,21 +47,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Analyzing Data**](#analyzing-data) (1 videos)
-  - Data is king
+  - [Data is king](#data-is-king)
 - [**1. Research Goals and Hypotheses**](#1-research-goals-and-hypotheses) (2 videos)
-  - Setting your objectives
-  - Different data types
+  - [Setting your objectives](#setting-your-objectives)
+  - [Different data types](#different-data-types)
 - [**2. Types of Data**](#2-types-of-data) (2 videos)
-  - Breaking down qualitative data
-  - Tagging, pruning, and sorting qualitative data
+  - [Breaking down qualitative data](#breaking-down-qualitative-data)
+  - [Tagging, pruning, and sorting qualitative data](#tagging-pruning-and-sorting-qualitative-data)
 - [**3. Analyzing Qualitative Data**](#3-analyzing-qualitative-data) (1 videos)
-  - Filtering into actionable insights
+  - [Filtering into actionable insights](#filtering-into-actionable-insights)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Turning raw data into deep insights
+  - [Turning raw data into deep insights](#turning-raw-data-into-deep-insights)
 
 ### Analyzing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data is king
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/data-is-king?u=76281980)
@@ -86,13 +86,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), ux (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Research Goals and Hypotheses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting your objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980)
@@ -161,7 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), let (1), interface (1)
+> **Frameworks & Libraries:** data (5), business (2), ux (1), product (1), mobile application (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** you'll need (2)
@@ -222,6 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), feature (2), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for instance (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -229,7 +231,7 @@ created: 2026-04-29
 
 ### 2. Types of Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking down qualitative data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/breaking-down-qualitative-data?u=76281980)
@@ -296,8 +298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), next (2), business (1), [[Customer Support]] (1), teams (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** for. (1), let (1)
 > **Warnings:** be careful (1), important note (1)
 > **Speakers:** - [instructor] (1)
 
@@ -414,8 +416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), business (4), ux (1)
 > **Analogies:** for instance (5), such as (1), just like (1)
-> **Code Keywords:** let (2), self (1), case. (1), type, (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Best Practices:** make sure to (1)
@@ -424,7 +426,7 @@ created: 2026-04-29
 
 ### 3. Analyzing Qualitative Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering into actionable insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980)
@@ -551,8 +553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), data (3), business (2), teams (2), [[Forms]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), finally, (1), case, (1), for. (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** wysiwyg (1)
 > **Definitions:** is a  (1)
@@ -561,7 +563,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Turning raw data into deep insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980)
@@ -584,6 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[User Experience (UX)|User experience]] (1), ux (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [amanda] (1)
 

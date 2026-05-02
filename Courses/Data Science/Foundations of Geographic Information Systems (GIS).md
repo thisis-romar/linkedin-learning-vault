@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/geographic-information-systems-gis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Foundations%20of%20Geographic%20Information%20Systems%20(GIS).md)
@@ -47,35 +47,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Thinking spatially
+  - [Thinking spatially](#thinking-spatially)
 - [**1. Understanding GIS**](#1-understanding-gis) (5 videos)
-  - Solving spatial problems
-  - Finding and accessing GIS
-  - Recreating the world on a map
-  - Specifying location
-  - Essential map comprehension
+  - [Solving spatial problems](#solving-spatial-problems)
+  - [Finding and accessing GIS](#finding-and-accessing-gis)
+  - [Recreating the world on a map](#recreating-the-world-on-a-map)
+  - [Specifying location](#specifying-location)
+  - [Essential map comprehension](#essential-map-comprehension)
 - [**2. GIS Core Concepts**](#2-gis-core-concepts) (5 videos)
-  - More than digital maps
-  - Identifying GIS layer components
-  - Describing attribute tables
-  - Using raster datasets
-  - Creating 3D models with LiDAR
+  - [More than digital maps](#more-than-digital-maps)
+  - [Identifying GIS layer components](#identifying-gis-layer-components)
+  - [Describing attribute tables](#describing-attribute-tables)
+  - [Using raster datasets](#using-raster-datasets)
+  - [Creating 3D models with LiDAR](#creating-3d-models-with-lidar)
 - [**3. Geospatial Analysis**](#3-geospatial-analysis) (3 videos)
-  - Asking a map questions
-  - Evaluating spatial relationships
-  - Analysis with imagery and surfaces
+  - [Asking a map questions](#asking-a-map-questions)
+  - [Evaluating spatial relationships](#evaluating-spatial-relationships)
+  - [Analysis with imagery and surfaces](#analysis-with-imagery-and-surfaces)
 - [**4. Spatial Data Sources**](#4-spatial-data-sources) (2 videos)
-  - Identifying GIS data sources
-  - Creating your own GIS data
+  - [Identifying GIS data sources](#identifying-gis-data-sources)
+  - [Creating your own GIS data](#creating-your-own-gis-data)
 - [**5. GIS as a Spatial Platform**](#5-gis-as-a-spatial-platform) (2 videos)
-  - Enterprise-level GIS
-  - Mobile and web GIS
+  - [Enterprise-level GIS](#enterprise-level-gis)
+  - [Mobile and web GIS](#mobile-and-web-gis)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Putting it to practice
+  - [Putting it to practice](#putting-it-to-practice)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking spatially
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/thinking-spatially?u=76281980)
@@ -104,14 +104,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (5), data (3)
 > **Env Vars:** gis (5)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 
 
 ### 1. Understanding GIS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving spatial problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/solving-spatial-problems?u=76281980)
@@ -164,6 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), gis (5), database (2), [[Databases]] (1)
 > **Env Vars:** gis (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -200,8 +201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (8), data (5), web (4), [[ArcGIS Pro]] (2), management (1)
 > **Env Vars:** gis (8)
-> **Code Keywords:** public (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -264,8 +265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (10), feature (4), web (3), data (3), database (1)
 > **Env Vars:** gis (10)
-> **Code Keywords:** public (2), class. (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is called (1)
@@ -339,6 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (5), data (3), [[Geographic Information Systems (GIS)|Geographic information systems]] (1), [[Vertex]] (1), [[Google]] (1)
 > **Env Vars:** gis (5), dms (1), gps (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (2)
@@ -399,14 +401,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (2), next (2)
 > **Env Vars:** gis (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 
 
 ### 2. GIS Core Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More than digital maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/more-than-digital-maps?u=76281980)
@@ -455,9 +457,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (12), data (8), management (1), [[SharePoint]] (1)
 > **Env Vars:** gis (12)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** click on (1)
 
 #### Identifying GIS layer components
@@ -523,8 +525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (13), data (8), feature (7), [[Microsoft Office|Office]] (2), management (2)
 > **Env Vars:** gis (13)
-> **Code Keywords:** class. (3), let (2), class, (2), type: (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -600,9 +602,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (7), [[Search]] (4), data (3), database (1), feature (1)
 > **Env Vars:** gis (7)
 > **UI Navigation:** click on (2), open the (1), scroll down (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (3)
 
 #### Using raster datasets
@@ -682,7 +684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), this. (1), public (1)
+> **Frameworks & Libraries:** data (12), gis (2), power (1), [[Zoom]] (1)
 > **Env Vars:** gis (2), nasa (1)
 > **Analogies:** just like (1), picture (1), for example (1)
 > **Definitions:** is called (1), is a  (1)
@@ -729,6 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), gis (3), power (2), [[ArcGIS Pro]] (1), hit (1)
 > **Env Vars:** gis (3)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
@@ -736,7 +739,7 @@ created: 2026-04-29
 
 ### 3. Geospatial Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Asking a map questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/asking-a-map-questions?u=76281980)
@@ -791,9 +794,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (4), database (3), data (2), [[SQL]] (1)
 > **Env Vars:** gis (4), sql (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), type. (1)
 > **Analogies:** for example (1)
 
 #### Evaluating spatial relationships
@@ -847,10 +850,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (7), data (4), database (1), [[Zoom]] (1)
 > **Env Vars:** gis (7)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** such as (1)
 
@@ -899,6 +902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), gis (8)
 > **Env Vars:** gis (8)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
@@ -907,7 +911,7 @@ created: 2026-04-29
 
 ### 4. Spatial Data Sources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying GIS data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-data-sources?u=76281980)
@@ -972,9 +976,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), gis (14), [[Search]] (3)
 > **Env Vars:** gis (14), url (1), noaa (1), gps (1), cad (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** private (1), finally, (1)
 > **URLs:** [geoplatform.gov](https://geoplatform.gov) (1)
 > **Exercise Files:** download the (1)
 
@@ -1023,12 +1027,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (9), data (5), [[Search]] (1), [[Zoom]] (1), [[AutoCAD]] (1)
 > **Env Vars:** gis (9), gps (4), cad (1)
 
 
 ### 5. GIS as a Spatial Platform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enterprise-level GIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/enterprise-level-gis?u=76281980)
@@ -1063,8 +1068,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), gis (7), web (4), management (1), [[Dashboards]] (1)
 > **Env Vars:** gis (7)
-> **Code Keywords:** let (1), public (1)
 > **Definitions:** is called (1)
 
 #### Mobile and web GIS
@@ -1110,15 +1115,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (7), data (6), web (6), traffic (3), [[Dashboards]] (1)
 > **Env Vars:** gis (7)
-> **Code Keywords:** let (1), public (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting it to practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/putting-it-to-practice?u=76281980)
@@ -1151,8 +1156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (7), data (2), strengths (1), web (1), [[LinkedIn]] (1)
 > **Env Vars:** gis (7)
-> **Code Keywords:** try, (1), public (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **UI Navigation:** go to (1)
 

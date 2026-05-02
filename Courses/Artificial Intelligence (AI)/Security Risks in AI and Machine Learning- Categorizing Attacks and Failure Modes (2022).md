@@ -33,7 +33,7 @@ tags:
   - skill/security-risk
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Security%20Risks%20in%20AI%20and%20Machine%20Learning-%20Categorizing%20Attacks%20and%20Failure%20Modes%20(2022).md)
@@ -52,40 +52,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Machine learning security concerns
-  - What you should know
+  - [Machine learning security concerns](#machine-learning-security-concerns)
+  - [What you should know](#what-you-should-know)
 - [**1. Machine Learning Foundations**](#1-machine-learning-foundations) (4 videos)
-  - How systems can fail and how to protect them
-  - Why does ML security matter
-  - Attacks vs. unintentional failure modes
-  - Security goals for ML: CIA
+  - [How systems can fail and how to protect them](#how-systems-can-fail-and-how-to-protect-them)
+  - [Why does ML security matter](#why-does-ml-security-matter)
+  - [Attacks vs. unintentional failure modes](#attacks-vs-unintentional-failure-modes)
+  - [Security goals for ML: CIA](#security-goals-for-ml-cia)
 - [**2. Intentional Failure Modes/Attacks**](#2-intentional-failure-modesattacks) (9 videos)
-  - Perturbation attacks and AUPs
-  - Poisoning attacks
-  - Reprogramming neural nets
-  - Physical domain (3D adversarial objects)
-  - Supply chain attacks
-  - Model inversion
-  - System manipulation
-  - Membership inference and model stealing
-  - Backdoors and existing exploits
+  - [Perturbation attacks and AUPs](#perturbation-attacks-and-aups)
+  - [Poisoning attacks](#poisoning-attacks)
+  - [Reprogramming neural nets](#reprogramming-neural-nets)
+  - [Physical domain (3D adversarial objects)](#physical-domain-3d-adversarial-objects)
+  - [Supply chain attacks](#supply-chain-attacks)
+  - [Model inversion](#model-inversion)
+  - [System manipulation](#system-manipulation)
+  - [Membership inference and model stealing](#membership-inference-and-model-stealing)
+  - [Backdoors and existing exploits](#backdoors-and-existing-exploits)
 - [**3. Unintentional Failure Modes/Intrinsic Design Flaws**](#3-unintentional-failure-modesintrinsic-design-flaws) (5 videos)
-  - Reward hacking
-  - Side effects in reinforcement learning
-  - Distributional shifts and incomplete testing
-  - Overfitting/underfitting
-  - Data bias considerations
+  - [Reward hacking](#reward-hacking)
+  - [Side effects in reinforcement learning](#side-effects-in-reinforcement-learning)
+  - [Distributional shifts and incomplete testing](#distributional-shifts-and-incomplete-testing)
+  - [Overfitting/underfitting](#overfittingunderfitting)
+  - [Data bias considerations](#data-bias-considerations)
 - [**4. Building Resilient ML**](#4-building-resilient-ml) (4 videos)
-  - Effective techniques for building resilience in ML
-  - ML dataset hygiene
-  - ML adversarial training
-  - ML access control to APIs
+  - [Effective techniques for building resilience in ML](#effective-techniques-for-building-resilience-in-ml)
+  - [ML dataset hygiene](#ml-dataset-hygiene)
+  - [ML adversarial training](#ml-adversarial-training)
+  - [ML access control to APIs](#ml-access-control-to-apis)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning security concerns
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/machine-learning-security-concerns?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
@@ -134,12 +135,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Cybersecurity]] (2), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Machine Learning Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How systems can fail and how to protect them
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/how-systems-can-fail-and-how-to-protect-them?u=76281980)
@@ -188,7 +190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), module (1), function (1)
+> **Frameworks & Libraries:** ai (8), [[Security]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - artificial (1)
 
@@ -267,7 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), let (1), this. (1), require (1), if, (1)
+> **Frameworks & Libraries:** ai (17), [[Security]] (9), data (8), [[Threat Modeling]] (4), application (2)
 > **Definitions:** is a  (2), means that (2), defined as (1)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (2)
@@ -328,7 +330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), require (1), let (1), self (1)
+> **Frameworks & Libraries:** ai (3), [[Microsoft]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is an  (1)
 > **Cross-References:** go back to (1)
@@ -379,8 +381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), ai (2), data (2), api (1), application (1)
 > **Env Vars:** cia (4), api (1)
-> **Code Keywords:** private (1), interface (1), this. (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -389,7 +391,7 @@ created: 2026-04-29
 
 ### 2. Intentional Failure Modes/Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Perturbation attacks and AUPs
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980)
@@ -442,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), let (2)
+> **Frameworks & Libraries:** data (2), [[Google]] (1), [[Malware Detection]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 57.7 (1), 99.3 (1)
 > **Definitions:** known as (1), is a  (1)
@@ -509,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), for. (1), continue (1)
+> **Frameworks & Libraries:** data (9), ai (4), [[Microsoft]] (2)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Versions:** 1.7 (1)
@@ -546,6 +548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (1), traffic (1), ai (1)
 > **Env Vars:** captcha (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -590,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), public (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Computer Vision]] (1), [[React.js|React]] (1), traffic (1)
 > **Versions:** 84.8 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -643,6 +646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), data (3), [[GitHub]] (1), application (1)
 > **Env Vars:** gpt (5), onnx (3), covid (1)
 > **Tools:** github (1)
 > **Definitions:** is an  (1)
@@ -702,7 +706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), from. (1), public (1)
+> **Frameworks & Libraries:** data (10), [[Google]] (2), [[Algorithms]] (1), [[Privacy]] (1), next (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
@@ -747,7 +751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), function (1)
+> **Frameworks & Libraries:** data (3), ai (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
@@ -782,7 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), business (1), application (1)
 > **Env Vars:** usenix (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -820,14 +824,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** game (2), power (1), feature (1), ai (1), [[Hardware]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Unintentional Failure Modes/Intrinsic Design Flaws
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reward hacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980)
@@ -866,7 +870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), function (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), ai (1), [[Simulation]] (1), game (1)
 > **Speakers:** - many (1)
 
 #### Side effects in reinforcement learning
@@ -910,6 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Microsoft Office|Office]] (1), [[Reinforcement Learning]] (1), [[Computer Vision]] (1), web (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -960,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), function (1), this, (1)
+> **Frameworks & Libraries:** ai (3), data (2), power (2), product (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1015,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), if, (1), case, (1)
+> **Frameworks & Libraries:** data (11), next (1), [[Statistics]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1101,6 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (5), hit (1), [[Analytics]] (1), database (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), imagine (1)
@@ -1110,7 +1116,7 @@ created: 2026-04-29
 
 ### 4. Building Resilient ML
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Effective techniques for building resilience in ML
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/effective-techniques-for-building-resilience-in-ml?u=76281980)
@@ -1159,7 +1165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), try. (1)
+> **Frameworks & Libraries:** ai (4), [[Hardware]] (1), data (1), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 
@@ -1238,8 +1244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), ai (6), [[Data Classification]] (2), [[Microsoft Word|Word]] (1), [[Computer Vision]] (1)
 > **Definitions:** is an  (2)
-> **Code Keywords:** public (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1312,7 +1318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** data (12), ai (2), [[Threat Modeling]] (1)
 > **Env Vars:** nasa (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1367,15 +1373,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), api (9), ai (5), [[Security]] (2), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
 > **Env Vars:** api (9), mfa (1)
-> **Code Keywords:** interface (1), require (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/next-steps?u=76281980)
@@ -1410,6 +1416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (2), [[Threat Modeling]] (1), [[Security]] (1)
 > **Speakers:** - thanks (1)
 
 

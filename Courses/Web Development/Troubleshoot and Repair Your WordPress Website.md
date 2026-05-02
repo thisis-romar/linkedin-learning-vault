@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Troubleshoot%20and%20Repair%20Your%20WordPress%20Website.md)
@@ -45,51 +45,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - The pros and cons of running a WordPress site
-  - What you should know
-  - How the course works
+  - [The pros and cons of running a WordPress site](#the-pros-and-cons-of-running-a-wordpress-site)
+  - [What you should know](#what-you-should-know)
+  - [How the course works](#how-the-course-works)
 - [**1. Getting Ahead of Problems**](#1-getting-ahead-of-problems) (6 videos)
-  - Preparing your WordPress site for problems
-  - Find the right hosting
-  - Backing up your site
-  - Securing your site
-  - Automatic updates
-  - Testing your site with a staging server
+  - [Preparing your WordPress site for problems](#preparing-your-wordpress-site-for-problems)
+  - [Find the right hosting](#find-the-right-hosting)
+  - [Backing up your site](#backing-up-your-site)
+  - [Securing your site](#securing-your-site)
+  - [Automatic updates](#automatic-updates)
+  - [Testing your site with a staging server](#testing-your-site-with-a-staging-server)
 - [**2. Common Troubleshooting Steps**](#2-common-troubleshooting-steps) (6 videos)
-  - Disabling plugins to find the problem
-  - Moving to a default theme
-  - How to use recovery mode
-  - Down for everyone, or just me?
-  - Reverting updates with WP Rollback
-  - Testing with a different WordPress install or server
+  - [Disabling plugins to find the problem](#disabling-plugins-to-find-the-problem)
+  - [Moving to a default theme](#moving-to-a-default-theme)
+  - [How to use recovery mode](#how-to-use-recovery-mode)
+  - [Down for everyone, or just me?](#down-for-everyone-or-just-me)
+  - [Reverting updates with WP Rollback](#reverting-updates-with-wp-rollback)
+  - [Testing with a different WordPress install or server](#testing-with-a-different-wordpress-install-or-server)
 - [**3. Common Problems and Solutions**](#3-common-problems-and-solutions) (7 videos)
-  - The dreaded white screen of death
-  - Stuck in maintenance mode
-  - Issues with file uploads
-  - Pretty URLs not working properly and other random 404 errors
-  - Using a redirect plugin for actually broken links
-  - Recovering lost changes with Revision History
-  - Why do blocks keep needing to be recovered?
+  - [The dreaded white screen of death](#the-dreaded-white-screen-of-death)
+  - [Stuck in maintenance mode](#stuck-in-maintenance-mode)
+  - [Issues with file uploads](#issues-with-file-uploads)
+  - [Pretty URLs not working properly and other random 404 errors](#pretty-urls-not-working-properly-and-other-random-404-errors)
+  - [Using a redirect plugin for actually broken links](#using-a-redirect-plugin-for-actually-broken-links)
+  - [Recovering lost changes with Revision History](#recovering-lost-changes-with-revision-history)
+  - [Why do blocks keep needing to be recovered?](#why-do-blocks-keep-needing-to-be-recovered)
 - [**4. Problems That Require Working with Your Server**](#4-problems-that-require-working-with-your-server) (6 videos)
-  - General web server errors: the 400s
-  - General web server errors: the 500s
-  - How to fix the "site insecure" error with an SSL certificate
-  - How to fix mixed content errors
-  - Error establishing a database connection
-  - Unable to write to a directory, or update themes/plugins
+  - [General web server errors: the 400s](#general-web-server-errors-the-400s)
+  - [General web server errors: the 500s](#general-web-server-errors-the-500s)
+  - [How to fix the "site insecure" error with an SSL certificate](#how-to-fix-the-site-insecure-error-with-an-ssl-certificate)
+  - [How to fix mixed content errors](#how-to-fix-mixed-content-errors)
+  - [Error establishing a database connection](#error-establishing-a-database-connection)
+  - [Unable to write to a directory, or update themes/plugins](#unable-to-write-to-a-directory-or-update-themesplugins)
 - [**5. Advanced Problems**](#5-advanced-problems) (6 videos)
-  - Unable to deliver emails/emails going to spam
-  - General caching issues (types of cache)
-  - Cannot modify header error
-  - Site running out of memory
-  - Execution limit exceeded
-  - Using WP-CLI to solve your WordPress problems
+  - [Unable to deliver emails/emails going to spam](#unable-to-deliver-emailsemails-going-to-spam)
+  - [General caching issues (types of cache)](#general-caching-issues-types-of-cache)
+  - [Cannot modify header error](#cannot-modify-header-error)
+  - [Site running out of memory](#site-running-out-of-memory)
+  - [Execution limit exceeded](#execution-limit-exceeded)
+  - [Using WP-CLI to solve your WordPress problems](#using-wp-cli-to-solve-your-wordpress-problems)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The pros and cons of running a WordPress site
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980)
@@ -128,6 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), cms (1), [[E-Commerce]] (1), front-end (1), web (1)
 > **Env Vars:** cms (1), php (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** php (1)
@@ -163,9 +164,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (1)
 > **Env Vars:** php (1), ftp (1)
 > **CLI Commands:** php (1)
-> **Code Keywords:** self (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (1)
 > **Tools:** vs code (1)
 > **Warnings:** troubleshoot (1)
@@ -198,15 +199,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Troubleshooting]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ftp (1), sftp (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Ahead of Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing your WordPress site for problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980)
@@ -253,8 +254,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[WordPress]] (2), [[Troubleshooting]] (1), database (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
@@ -330,9 +331,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Troubleshooting]] (1), [[Security]] (1), [[PHP]] (1), [[MySQL]] (1)
 > **CLI Commands:** make (4), find (1), php (1), mysql (1), apache (1)
 > **Env Vars:** ssl (2), php (1), https (1), nginx (1)
-> **Code Keywords:** switch (1), let (1), finally, (1)
 > **Versions:** version 7 (1), version 5 (1), version 10 (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Warnings:** note that (1)
@@ -400,10 +401,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[WordPress]] (4), [[Troubleshooting]] (1), cd (1), [[SQL]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** ftp (1), sql (1)
 > **CLI Commands:** cd (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ithemes (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Exercise Files:** download the (1)
@@ -452,10 +453,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), [[PHP]] (1), data (1), [[Security]] (1)
 > **CLI Commands:** make (6), php (1)
 > **Env Vars:** ssl (2), php (1)
 > **Code Identifiers:** ithemes (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -530,11 +531,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Security]] (2), [[PHP]] (1), feature (1)
 > **Versions:** 5.6 (1), 5.9.6 (1), 5.9 (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (3)
 > **Warnings:** caveat (1), note that (1), pitfall (1)
-> **Code Keywords:** delete (1), super (1)
 > **File Paths:** wp-config.php (1)
 > **CLI Commands:** php (1)
 > **Code Identifiers:** wp_auto_update_core (1)
@@ -590,8 +591,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[PHP]] (1), [[MySQL]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (1), mysql (1), make (1)
-> **Code Keywords:** private (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -599,7 +600,7 @@ created: 2026-04-29
 
 ### 2. Common Troubleshooting Steps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Disabling plugins to find the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980)
@@ -638,8 +639,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Search]] (1), [[PHP]] (1)
 > **CLI Commands:** find (3), make (2), php (1)
-> **Code Keywords:** from. (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -680,8 +681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** for, (1), else. (1), let (1), switch (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
 > **Warnings:** watch out (1)
@@ -709,6 +710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -755,7 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** vpn (1)
 > **URLs:** [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) (1), [betteruptime.com](https://betteruptime.com) (1), [updown.io](https://updown.io) (1)
 > **Env Vars:** url (1), vpn (1)
 > **CLI Commands:** make (1)
@@ -804,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new. (1)
+> **Frameworks & Libraries:** [[Search]] (2)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** make (1)
 > **URLs:** [givewp.com](https://givewp.com) (1)
@@ -852,6 +854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1), database (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [localwp.com](https://localwp.com) (1)
@@ -859,12 +862,11 @@ created: 2026-04-29
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Warnings:** troubleshoot (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 3. Common Problems and Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The dreaded white screen of death
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980)
@@ -935,7 +937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (1), continue (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Debugging]] (2), database (1), [[Security]] (1), web (1)
 > **CLI Commands:** find (1), make (1), php (1)
 > **Env Vars:** url (1), ftp (1), php (1)
 > **Cross-References:** we covered (1), previous video (1)
@@ -976,7 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), let (1), else. (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), feature (1)
 > **Env Vars:** ftp (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (1)
@@ -1070,9 +1072,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **Env Vars:** ftp (2), allow_unfiltered_uploads (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** from. (1), type, (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -1099,9 +1101,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), hit (1)
 > **URLs:** [yoursite.com](https://yoursite.com) (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type, (1)
 > **Env Vars:** url (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -1164,13 +1166,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[User Experience (UX)|User experience]] (1), seo (1), [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** setup (4)
 > **CLI Commands:** make (1), php (1)
 > **Env Vars:** seo (1), api (1)
 > **Exercise Files:** template (2)
 > **Best Practices:** make sure to (1), it's best to (1)
 > **File Paths:** 404.php (1)
-> **Code Keywords:** continue (1)
 > **Versions:** 5.9 (1)
 
 #### Recovering lost changes with Revision History
@@ -1216,10 +1218,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[WordPress]] (1), [[Microsoft Word|Word]] (1), [[Troubleshooting]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** default. (1)
 > **Env Vars:** wp_post_revisions (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1246,7 +1248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1254,7 +1256,7 @@ created: 2026-04-29
 
 ### 4. Problems That Require Working with Your Server
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### General web server errors: the 400s
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-400s?u=76281980)
@@ -1301,8 +1303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[WordPress]] (1)
 > **Env Vars:** url (3), uri (1)
-> **Code Keywords:** class. (1), protected (1), finally, (1)
 > **URLs:** [w3.org](https://w3.org) (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1356,9 +1358,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), dns (1), [[WordPress]] (1), hit (1), traffic (1)
 > **Definitions:** is a  (2), in other words (1)
 > **URLs:** [w3.org](https://w3.org) (1), [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) (1)
-> **Code Keywords:** throw (1)
 > **Env Vars:** dns (1)
 > **Best Practices:** it's best to (1)
 > **Warnings:** troubleshoot (1)
@@ -1419,9 +1421,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), [[WordPress]] (1)
 > **Env Vars:** ssl (11), https (2), url (1)
 > **Prerequisites:** install (3), you'll need (3), set up (1)
-> **Code Keywords:** let (5), for, (1)
 > **UI Navigation:** go to (2), select the (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** cpanel (1)
@@ -1491,10 +1493,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[WordPress]] (3), database (2), [[Security]] (1)
 > **Env Vars:** ssl (6), http (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** switch (1), let (1)
 > **Prerequisites:** install (2)
 > **URLs:** [https://repair.local](https://repair.local) (1)
 > **Versions:** 5.7 (1)
@@ -1543,6 +1545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[WordPress]] (2), [[Databases]] (1), [[MySQL]] (1), next (1)
 > **CLI Commands:** make (2), find (1), mysql (1), php (1)
 > **Env Vars:** wp_allow_repair (1), url (1)
 > **File Paths:** repair.php (1)
@@ -1593,10 +1596,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **Prerequisites:** install (3)
 > **Env Vars:** ftp (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -1605,7 +1608,7 @@ created: 2026-04-29
 
 ### 5. Advanced Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unable to deliver emails/emails going to spam
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980)
@@ -1656,8 +1659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1), [[Google]] (1), [[Forms]] (1), business (1)
 > **CLI Commands:** make (2), php (1), find (1)
-> **Code Keywords:** this, (2), for, (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** php (1), smtp (1)
 > **Prerequisites:** install (1)
@@ -1738,9 +1741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[WordPress]] (2), [[PHP]] (2), database (2), [[JavaScript]] (1)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2), css (1)
-> **Code Keywords:** this. (1)
 > **Versions:** 5.9.1 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1785,9 +1788,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (6), data (1), [[HTML]] (1), [[WordPress]] (1), generic (1)
 > **Env Vars:** php (6), http (1), html (1)
 > **CLI Commands:** php (6), make (1)
-> **Code Keywords:** function (2), for, (1), require (1), else. (1), delete (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1826,8 +1829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1)
 > **CLI Commands:** php (1)
-> **Code Keywords:** super (1)
 > **Code Identifiers:** wp_memory_limit (1)
 > **Env Vars:** php (1)
 > **Versions:** 5.2 (1)
@@ -1886,11 +1889,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), hit (1), [[WordPress]] (1)
 > **CLI Commands:** php (4), find (1)
 > **Code Identifiers:** max_execution_time (2), set_time_limit (1), php_value (1)
 > **Env Vars:** php (3), ftp (1)
 > **File Paths:** php.ini (1)
-> **Code Keywords:** continue (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1925,8 +1928,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (7), [[WordPress]] (3), [[LinkedIn]] (1)
 > **Env Vars:** cli (7), gui (1)
-> **Code Keywords:** delete (2), interface (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1934,7 +1937,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980)
@@ -1961,8 +1964,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (2), business (1), next (1)
 > **CLI Commands:** php (2), find (1)
-> **Code Keywords:** continue (1), finally, (1)
 > **Env Vars:** php (2)
 > **Speakers:** - congratulations (1)
 

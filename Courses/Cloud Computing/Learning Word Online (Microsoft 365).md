@@ -31,7 +31,7 @@ tags:
   - skill/microsoft-365
   - skill/microsoft-word
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Word%20Online%20(Microsoft%20365).md)
@@ -50,31 +50,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Get the power of Word in your browser
-  - What you need for this course
+  - [Get the power of Word in your browser](#get-the-power-of-word-in-your-browser)
+  - [What you need for this course](#what-you-need-for-this-course)
 - [**1. Get Started with Word Online**](#1-get-started-with-word-online) (3 videos)
-  - Sign in and create a new document
-  - Rename a document in Word Online
-  - Close, open, and manage documents
+  - [Sign in and create a new document](#sign-in-and-create-a-new-document)
+  - [Rename a document in Word Online](#rename-a-document-in-word-online)
+  - [Close, open, and manage documents](#close-open-and-manage-documents)
 - [**2. Document Basics**](#2-document-basics) (7 videos)
-  - Type or dictate text into a Word document
-  - Use the transcribe feature
-  - Format text and use styles
-  - Apply document formatting in Word Online
-  - Add and format graphics
-  - Use headers and footers in Word Online
-  - Ensure your documents are accessible
+  - [Type or dictate text into a Word document](#type-or-dictate-text-into-a-word-document)
+  - [Use the transcribe feature](#use-the-transcribe-feature)
+  - [Format text and use styles](#format-text-and-use-styles)
+  - [Apply document formatting in Word Online](#apply-document-formatting-in-word-online)
+  - [Add and format graphics](#add-and-format-graphics)
+  - [Use headers and footers in Word Online](#use-headers-and-footers-in-word-online)
+  - [Ensure your documents are accessible](#ensure-your-documents-are-accessible)
 - [**3. Sharing and Collaboration**](#3-sharing-and-collaboration) (4 videos)
-  - Share a document with others
-  - Collaborate, assign tasks, and stop sharing
-  - Save to other formats for sharing
-  - Print documents from Word Online
+  - [Share a document with others](#share-a-document-with-others)
+  - [Collaborate, assign tasks, and stop sharing](#collaborate-assign-tasks-and-stop-sharing)
+  - [Save to other formats for sharing](#save-to-other-formats-for-sharing)
+  - [Print documents from Word Online](#print-documents-from-word-online)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to learn more
+  - [Where to learn more](#where-to-learn-more)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get the power of Word in your browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980)
@@ -93,6 +93,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Word]] (2), power (1), [[Microsoft 365]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [david] (1)
 
@@ -123,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Google]] (2), [[Windows]] (2), [[Linux]] (1), [[Microsoft]] (1)
 > **Tools:** firefox (1), safari (1)
 > **Prerequisites:** you'll need (2)
 > **URLs:** [outlook.com](https://outlook.com) (1)
@@ -134,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Word Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign in and create a new document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980)
@@ -279,7 +281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (2), let (2), else. (1), default, (1), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (17), [[Microsoft Office|Office]] (4), [[Microsoft 365]] (4), cloud (4), [[Google]] (2)
 > **URLs:** [office.com](https://office.com) (2), [outlook.com](https://outlook.com) (1), [microsoft.com](https://microsoft.com) (1), [live.com](https://live.com) (1), [red30tech.com](https://red30tech.com) (1)
 > **Env Vars:** red (1), annual (1), conference (1), shines (1), light (1)
 > **UI Navigation:** go to (2), in the tab (1), dropdown (1)
@@ -343,10 +345,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), cloud (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** pdf (1), odt (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -451,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), case, (1), continue (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (11), cloud (6), [[Microsoft Word|Word]] (4), [[Microsoft 365]] (3), [[SharePoint]] (2)
 > **UI Navigation:** go to (5), dropdown (1), in the tab (1), open the (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for example (2)
@@ -463,7 +465,7 @@ created: 2026-04-29
 
 ### 2. Document Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Type or dictate text into a Word document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980)
@@ -616,7 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (2), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), next (2), feature (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **Non-Speech:** (computer beeps) (4), (computer beeping) (1)
 > **UI Navigation:** dropdown (2), go to (1)
 > **CLI Commands:** find (1), make (1)
@@ -766,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), feature (5), [[Microsoft 365]] (3), [[Interviewing]] (2), next (1)
 > **UI Navigation:** dropdown (3), go to (1), checkbox (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (2), - [karen] (1)
@@ -937,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (4), default, (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Windows]] (1), [[Microsoft Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1)
 > **UI Navigation:** dropdown (9), go to (3), toggle (3), select the (2)
 > **Analogies:** for example (6), kind of like (1)
 > **CLI Commands:** make (4)
@@ -1103,8 +1105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (7), hit (2), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** dropdown (7), go to (5), scroll down (2)
-> **Code Keywords:** let (6), continue (2), from. (1)
 > **CLI Commands:** make (4)
 > **Versions:** 1.25 (3), 0.75 (1)
 > **Cross-References:** go back to (4)
@@ -1289,7 +1291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (3), this. (2), continue (1), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Search]] (2), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), cloud (1)
 > **UI Navigation:** dropdown (7), go to (2), scroll down (1), navigate to (1)
 > **Analogies:** picture (6), for example (3), kind of like (1)
 > **CLI Commands:** find (3), make (2)
@@ -1417,8 +1419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (5), dropdown (2)
-> **Code Keywords:** let (5), case, (1)
 > **Cross-References:** go back to (4)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** find (1), make (1)
@@ -1533,7 +1535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **UI Navigation:** go to (3), dropdown (2)
 > **Analogies:** picture (4)
 > **CLI Commands:** make (1)
@@ -1544,7 +1546,7 @@ created: 2026-04-29
 
 ### 3. Sharing and Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Share a document with others
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980)
@@ -1645,7 +1647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (2), else. (1), case. (1), for, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (2), [[Microsoft Outlook|Outlook]] (2), business (1), [[Microsoft 365]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (2), dropdown (2)
 > **Analogies:** for example (4)
@@ -1756,9 +1758,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), next (3), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (1), cloud (1)
 > **UI Navigation:** go to (5), select the (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** else, (1), let (1), require (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - we (1)
@@ -1812,8 +1814,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Word]] (2), [[Microsoft]] (1), next (1)
 > **Env Vars:** pdf (3), odt (1)
-> **Code Keywords:** let (1), continue (1), switch (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [david] (1)
@@ -1953,9 +1955,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1), next (1), [[Zoom]] (1), hit (1)
 > **UI Navigation:** dropdown (3), scroll down (1), checkbox (1)
 > **Env Vars:** pdf (3), dpi (1)
-> **Code Keywords:** this, (2), default, (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1963,7 +1965,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980)
@@ -1984,7 +1986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Word]] (2), [[Microsoft Office]] (1), [[LinkedIn]] (1), [[Microsoft 365]] (1)
 > **Speakers:** - [david] (1)
 
 

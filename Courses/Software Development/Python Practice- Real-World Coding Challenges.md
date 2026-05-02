@@ -35,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/coding-practices
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Practice-%20Real-World%20Coding%20Challenges.md)
@@ -54,45 +54,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Stepping up to the challenge
-  - Who this course is for
-  - Laying out the code
+  - [Stepping up to the challenge](#stepping-up-to-the-challenge)
+  - [Who this course is for](#who-this-course-is-for)
+  - [Laying out the code](#laying-out-the-code)
 - [**1. Quickstart**](#1-quickstart) (2 videos)
-  - Challenge: It's hip to be square
-  - Solution: It's hip to be square
+  - [Challenge: It's hip to be square](#challenge-its-hip-to-be-square)
+  - [Solution: It's hip to be square](#solution-its-hip-to-be-square)
 - [**2. Basic Data Types**](#2-basic-data-types) (2 videos)
-  - Challenge: Sense of direction
-  - Solution: Sense of direction
+  - [Challenge: Sense of direction](#challenge-sense-of-direction)
+  - [Solution: Sense of direction](#solution-sense-of-direction)
 - [**3. Basic Data Structures**](#3-basic-data-structures) (2 videos)
-  - Challenge: Structuring scribes
-  - Solution: Structuring scribes
+  - [Challenge: Structuring scribes](#challenge-structuring-scribes)
+  - [Solution: Structuring scribes](#solution-structuring-scribes)
 - [**4. Control Flow**](#4-control-flow) (2 videos)
-  - Challenge: Hitting a wall
-  - Solution: Hitting a wall
+  - [Challenge: Hitting a wall](#challenge-hitting-a-wall)
+  - [Solution: Hitting a wall](#solution-hitting-a-wall)
 - [**5. Functions**](#5-functions) (2 videos)
-  - Challenge: Plotting the course
-  - Solution: Plotting the course
+  - [Challenge: Plotting the course](#challenge-plotting-the-course)
+  - [Solution: Plotting the course](#solution-plotting-the-course)
 - [**6. Classes and Objects**](#6-classes-and-objects) (2 videos)
-  - Challenge: Extending the scribe
-  - Solution: Extending the scribe
+  - [Challenge: Extending the scribe](#challenge-extending-the-scribe)
+  - [Solution: Extending the scribe](#solution-extending-the-scribe)
 - [**7. Errors**](#7-errors) (2 videos)
-  - Challenge: The trouble with scribbles
-  - Solution: The trouble with scribbles
+  - [Challenge: The trouble with scribbles](#challenge-the-trouble-with-scribbles)
+  - [Solution: The trouble with scribbles](#solution-the-trouble-with-scribbles)
 - [**8. Threads and Processes**](#8-threads-and-processes) (2 videos)
-  - Challenge: When I move, you move
-  - Solution: When I move, you move
+  - [Challenge: When I move, you move](#challenge-when-i-move-you-move)
+  - [Solution: When I move, you move](#solution-when-i-move-you-move)
 - [**9. Working with Files**](#9-working-with-files) (2 videos)
-  - Challenge: Single file
-  - Solution: Single file
+  - [Challenge: Single file](#challenge-single-file)
+  - [Solution: Single file](#solution-single-file)
 - [**10. Packaging Python**](#10-packaging-python) (2 videos)
-  - Challenge: Handling arguments
-  - Solution: Handling arguments
+  - [Challenge: Handling arguments](#challenge-handling-arguments)
+  - [Solution: Handling arguments](#solution-handling-arguments)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your Python journey
+  - [Continue your Python journey](#continue-your-python-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stepping up to the challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980)
@@ -119,8 +119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), hit (1), [[GitHub]] (1)
 > **CLI Commands:** python (6), make (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -177,9 +177,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Programming]] (2), [[Engineering]] (2), [[GitHub]] (2), career (1)
 > **CLI Commands:** python (10), make (2)
 > **Tools:** github (2)
-> **Code Keywords:** finally, (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -337,7 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), self (16), function (5), pass (3), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[HTML]] (1), css (1), next (1)
 > **Tools:** terminal (12)
 > **CLI Commands:** make (9), python (1)
 > **Code Identifiers:** setpos (3)
@@ -349,7 +349,7 @@ created: 2026-04-29
 
 ### 1. Quickstart
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: It's hip to be square
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980)
@@ -390,8 +390,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **Tools:** terminal (5), github (1)
-> **Code Keywords:** pass (2), let (1), function (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - i (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -419,7 +419,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), pass (1), let (1)
 > **Code Identifiers:** drawsquare (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -428,7 +427,7 @@ created: 2026-04-29
 
 ### 2. Basic Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Sense of direction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-sense-of-direction?u=76281980)
@@ -463,7 +462,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this. (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -506,7 +504,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -516,7 +513,7 @@ created: 2026-04-29
 
 ### 3. Basic Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Structuring scribes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-structuring-scribes?u=76281980)
@@ -545,7 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
@@ -593,7 +590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this. (1), let (1)
+> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -602,7 +599,7 @@ created: 2026-04-29
 
 ### 4. Control Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Hitting a wall
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-hitting-a-wall?u=76281980)
@@ -633,7 +630,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** hitswall (1)
 > **Speakers:** - in (1)
@@ -692,7 +688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (2), let (2), class, (1)
+> **Frameworks & Libraries:** hit (3)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -700,7 +696,7 @@ created: 2026-04-29
 
 ### 5. Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Plotting the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-plotting-the-course?u=76281980)
@@ -729,7 +725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), pass (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Tools:** terminal (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -757,7 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** plotx (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -767,7 +763,7 @@ created: 2026-04-29
 
 ### 6. Classes and Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Extending the scribe
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-extending-the-scribe?u=76281980)
@@ -804,7 +800,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), interface (1), module (1), class. (1)
 > **CLI Commands:** make (3)
 > **Tools:** terminal (1)
 > **Speakers:** - our (1)
@@ -851,7 +846,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), extends (1), class. (1), finally, (1), this. (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -859,7 +853,7 @@ created: 2026-04-29
 
 ### 7. Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: The trouble with scribbles
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-the-trouble-with-scribbles?u=76281980)
@@ -884,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -950,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), throw (1), extends (1), class, (1)
+> **Frameworks & Libraries:** [[Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1), make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -958,7 +952,7 @@ created: 2026-04-29
 
 ### 8. Threads and Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: When I move, you move
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-when-i-move-you-move?u=76281980)
@@ -1033,7 +1027,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), self (1)
 > **Tools:** terminal (4)
 > **Analogies:** for example (1)
 > **Speakers:** - good (1)
@@ -1070,14 +1063,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), module (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 9. Working with Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Single file
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980)
@@ -1140,7 +1133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), class. (2), let (1), class, (1), self (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), [[JSON]] (1)
 > **Code Identifiers:** fromdict (6), todict (6), movesfromdict (1)
 > **CLI Commands:** python (4), make (3)
 > **Tools:** terminal (4)
@@ -1196,7 +1189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), static (1), class. (1), this. (1), let (1)
+> **Frameworks & Libraries:** [[JSON]] (5), generic (1)
 > **Env Vars:** json (4)
 > **Code Identifiers:** todict (1), fromdict (1)
 > **Speakers:** - [instructor] (1)
@@ -1205,7 +1198,7 @@ created: 2026-04-29
 
 ### 10. Packaging Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Handling arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-handling-arguments-18720931?u=76281980)
@@ -1240,7 +1233,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), function (1), class. (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -1305,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), class, (4), this. (2), let (2), pass (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1), make (1)
 > **Analogies:** similar to (2)
 > **Tools:** terminal (1)
@@ -1316,7 +1308,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your Python journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980)
@@ -1359,8 +1351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Programming]] (5), [[Engineering]] (2), web (2), data (2)
 > **CLI Commands:** python (6), make (3), find (1), go build (1)
-> **Code Keywords:** interface (1), continue (1)
 > **Cross-References:** coming up (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)

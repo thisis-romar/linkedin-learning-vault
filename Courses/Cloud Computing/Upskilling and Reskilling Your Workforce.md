@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Upskilling%20and%20Reskilling%20Your%20Workforce.md)
@@ -41,26 +41,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why you need an upskilling strategy
+  - [Why you need an upskilling strategy](#why-you-need-an-upskilling-strategy)
 - [**1. The Transformation to Skills-Based Organizations**](#1-the-transformation-to-skills-based-organizations) (3 videos)
-  - Why skills?
-  - Skills terminology
-  - Transferable skills
+  - [Why skills?](#why-skills)
+  - [Skills terminology](#skills-terminology)
+  - [Transferable skills](#transferable-skills)
 - [**2. How to Start a Skilling Program**](#2-how-to-start-a-skilling-program) (3 videos)
-  - The supply chain management of skills
-  - Who owns skills?
-  - Calculate upskilling investment
+  - [The supply chain management of skills](#the-supply-chain-management-of-skills)
+  - [Who owns skills?](#who-owns-skills)
+  - [Calculate upskilling investment](#calculate-upskilling-investment)
 - [**3. Building Your Upskilling or Reskilling Strategy**](#3-building-your-upskilling-or-reskilling-strategy) (4 videos)
-  - Invest in content libraries
-  - Build in experience
-  - Build a hypothesis and test
-  - Stakeholder buy-in
+  - [Invest in content libraries](#invest-in-content-libraries)
+  - [Build in experience](#build-in-experience)
+  - [Build a hypothesis and test](#build-a-hypothesis-and-test)
+  - [Stakeholder buy-in](#stakeholder-buy-in)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Execute your upskilling strategy
+  - [Execute your upskilling strategy](#execute-your-upskilling-strategy)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why you need an upskilling strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-you-need-an-upskilling-strategy?u=76281980)
@@ -84,7 +84,7 @@ created: 2026-04-29
 
 ### 1. The Transformation to Skills-Based Organizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why skills?
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980)
@@ -149,9 +149,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[LinkedIn]] (2), power (2), hr (1), data (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** try. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (light music) (1)
@@ -213,8 +213,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (1), data (1)
 > **Definitions:** is a  (4), is an  (2), defined as (1)
-> **Code Keywords:** this, (1), static (1), let (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - there (1)
 
@@ -291,6 +291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), ux (2), business (1), product (1), [[Internal Mobility]] (1)
 > **Analogies:** for example (3), imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -299,7 +300,7 @@ created: 2026-04-29
 
 ### 2. How to Start a Skilling Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The supply chain management of skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/the-supply-chain-management-of-skills?u=76281980)
@@ -382,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1)
+> **Frameworks & Libraries:** business (2), [[Supply Chain Management]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -460,7 +461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), require (1)
+> **Frameworks & Libraries:** business (7), [[Human Resources (HR)|Human resources]] (1), [[Representational State Transfer (REST)|Rest]] (1), management (1), leadership (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
@@ -554,9 +555,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Automation]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** roi (2), lms (1)
-> **Code Keywords:** finally, (1), yield (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - every (1)
@@ -564,7 +565,7 @@ created: 2026-04-29
 
 ### 3. Building Your Upskilling or Reskilling Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Invest in content libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980)
@@ -635,9 +636,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), [[Product Development]] (2), data (2), generic (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - content (1)
 
@@ -732,10 +733,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), management (1), career (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - there (1)
 
 #### Build a hypothesis and test
@@ -821,7 +822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1)
+> **Frameworks & Libraries:** teams (1), [[Internal Mobility]] (1), [[Microsoft Office|Office]] (1), business (1)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 > **Speakers:** - often (1)
@@ -897,10 +898,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (1), data (1), hr (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** required to (2), you'll need (1)
-> **Code Keywords:** module (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** for example (1)
 > **Speakers:** - every (1)
@@ -908,7 +909,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Execute your upskilling strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/execute-your-upskilling-strategy?u=76281980)
@@ -981,7 +982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), this. (1), self (1), let (1)
+> **Frameworks & Libraries:** business (4), hr (2), next (1), career (1), [[Internal Mobility]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - building (1)

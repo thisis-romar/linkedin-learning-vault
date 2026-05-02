@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-365
   - skill/team-collaboration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Team%20Collaboration%20in%20Microsoft%20365.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Learn team collaboration tools in Microsoft 365
+  - [Learn team collaboration tools in Microsoft 365](#learn-team-collaboration-tools-in-microsoft-365)
 - [**1. Understand Microsoft 365 Accounts and Core Services**](#1-understand-microsoft-365-accounts-and-core-services) (4 videos)
-  - Identify which Microsoft 365 services you have
-  - Manage multiple accounts
-  - Use Office 365 Groups
-  - Understand SharePoint
+  - [Identify which Microsoft 365 services you have](#identify-which-microsoft-365-services-you-have)
+  - [Manage multiple accounts](#manage-multiple-accounts)
+  - [Use Office 365 Groups](#use-office-365-groups)
+  - [Understand SharePoint](#understand-sharepoint)
 - [**2. Tools for Team Collaboration**](#2-tools-for-team-collaboration) (7 videos)
-  - Use groups for email in Outlook
-  - Work with shared calendars in Outlook
-  - Invite people to scheduled meetings
-  - Communicate with coworkers using Yammer
-  - Manage conversations with Teams
-  - Manage tasks and projects with Planner
-  - Other tools with collaboration features
+  - [Use groups for email in Outlook](#use-groups-for-email-in-outlook)
+  - [Work with shared calendars in Outlook](#work-with-shared-calendars-in-outlook)
+  - [Invite people to scheduled meetings](#invite-people-to-scheduled-meetings)
+  - [Communicate with coworkers using Yammer](#communicate-with-coworkers-using-yammer)
+  - [Manage conversations with Teams](#manage-conversations-with-teams)
+  - [Manage tasks and projects with Planner](#manage-tasks-and-projects-with-planner)
+  - [Other tools with collaboration features](#other-tools-with-collaboration-features)
 - [**3. File Storage and Sharing**](#3-file-storage-and-sharing) (5 videos)
-  - Understand cloud storage
-  - Store and share files in OneDrive
-  - Use file libraries in Groups and SharePoint
-  - Store and share files in Teams
-  - Share files in Yammer
+  - [Understand cloud storage](#understand-cloud-storage)
+  - [Store and share files in OneDrive](#store-and-share-files-in-onedrive)
+  - [Use file libraries in Groups and SharePoint](#use-file-libraries-in-groups-and-sharepoint)
+  - [Store and share files in Teams](#store-and-share-files-in-teams)
+  - [Share files in Yammer](#share-files-in-yammer)
 - [**4. Edit Word, Excel, and PowerPoint Documents Collaboratively**](#4-edit-word-excel-and-powerpoint-documents-collaboratively) (4 videos)
-  - Edit Word, Excel, and PowerPoint documents online
-  - Share files from Word, Excel, or PowerPoint
-  - Add comments in a Word, Excel, or PowerPoint file
-  - Track changes in a Word document
+  - [Edit Word, Excel, and PowerPoint documents online](#edit-word-excel-and-powerpoint-documents-online)
+  - [Share files from Word, Excel, or PowerPoint](#share-files-from-word-excel-or-powerpoint)
+  - [Add comments in a Word, Excel, or PowerPoint file](#add-comments-in-a-word-excel-or-powerpoint-file)
+  - [Track changes in a Word document](#track-changes-in-a-word-document)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learn more about Microsoft 365 applications
+  - [Learn more about Microsoft 365 applications](#learn-more-about-microsoft-365-applications)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn team collaboration tools in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980)
@@ -102,6 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft Office|Office]] (1), management (1), [[Team Collaboration]] (1), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [nick] (1)
@@ -109,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Understand Microsoft 365 Accounts and Core Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify which Microsoft 365 services you have
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980)
@@ -180,6 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft OneDrive|Onedrive]] (5), business (4), [[Microsoft Outlook|Outlook]] (3), teams (2)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** find (2)
 > **URLs:** [office.com](https://office.com) (2)
@@ -242,7 +244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (6), let (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), web (1)
 > **UI Navigation:** click on (1), select the (1), switch to (1)
 > **Cross-References:** go back to (2)
 > **Prerequisites:** install (1)
@@ -371,7 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), private (2), this, (1), else. (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), [[SharePoint]] (9), [[Microsoft 365]] (7), [[Search]] (3), application (2)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (3)
 > **UI Navigation:** in the sidebar (2), go to (1)
@@ -475,7 +477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (2), switch (1)
+> **Frameworks & Libraries:** [[SharePoint]] (21), [[Microsoft Outlook|Outlook]] (8), [[Microsoft 365]] (4), feature (2), [[Team Collaboration]] (1)
 > **UI Navigation:** go to (3), open the (1), switch to (1), in the sidebar (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (1)
@@ -485,7 +487,7 @@ created: 2026-04-29
 
 ### 2. Tools for Team Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use groups for email in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980)
@@ -582,8 +584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[Microsoft 365]] (4), web (4), application (3), [[Search]] (3)
 > **UI Navigation:** go to (5), click on (1)
-> **Code Keywords:** switch (1), interface (1), let (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -694,8 +696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), [[Microsoft 365]] (5), web (4), application (4), next (1)
 > **UI Navigation:** go to (4), select the (2), in the sidebar (1), switch to (1), right-click (1)
-> **Code Keywords:** let (4), switch (2), default, (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
@@ -822,7 +824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), switch (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (8), teams (8), application (4), [[Microsoft Teams]] (3), web (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (4), switch to (1)
 > **Prerequisites:** set up (2), you'll need (1)
@@ -940,7 +942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), next (2), [[LinkedIn]] (1), [[Engineering]] (1), ai (1)
 > **UI Navigation:** go to (3), click on (2), open the (1), select the (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
@@ -1070,7 +1072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (2), case, (1), this. (1), default, (1)
+> **Frameworks & Libraries:** teams (17), [[Microsoft Outlook|Outlook]] (9), [[SharePoint]] (5), [[Microsoft 365]] (4), [[Microsoft Teams]] (3)
 > **Definitions:** is a  (3), is called (2), is an  (2)
 > **UI Navigation:** go to (6)
 > **CLI Commands:** make (5)
@@ -1204,9 +1206,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), next (3), [[Search]] (2), [[Microsoft Outlook|Outlook]] (1), [[SharePoint]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (3), click on (1), select the (1)
-> **Code Keywords:** switch (2), this, (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** hvac (1)
 > **Prerequisites:** make sure you have (1)
@@ -1287,8 +1289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (9), [[Microsoft 365]] (4), [[OneNote]] (4), application (3), [[Forms]] (3)
 > **Definitions:** is a  (6), is an  (1)
-> **Code Keywords:** let (3), this. (1), finally, (1)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (2)
@@ -1299,7 +1301,7 @@ created: 2026-04-29
 
 ### 3. File Storage and Sharing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980)
@@ -1356,7 +1358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Microsoft 365]] (4), [[SharePoint]] (4), [[Microsoft Outlook|Outlook]] (4), cloud (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** usb (1)
 > **Speakers:** - [instructor] (1)
@@ -1490,10 +1492,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (12), [[Microsoft 365]] (4), [[Windows]] (3), application (3), [[Microsoft]] (1)
 > **UI Navigation:** go to (3), click on (3), right-click (1)
 > **CLI Commands:** make (6)
 > **Prerequisites:** set up (3), install (1), setup (1)
-> **Code Keywords:** delete (1), let (1), for. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1)
 > **Best Practices:** make sure to (1)
@@ -1604,10 +1606,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (16), [[Microsoft Outlook|Outlook]] (5), [[Microsoft 365]] (4), feature (2), web (2)
 > **UI Navigation:** go to (4), scroll down (1), open the (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** delete (1), this, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1731,7 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), let (3), this, (2), interface (2), switch (1)
+> **Frameworks & Libraries:** teams (14), [[SharePoint]] (6), [[Microsoft Outlook|Outlook]] (6), [[Microsoft Teams]] (4), [[Microsoft Products|Products]] (3)
 > **UI Navigation:** click on (3), go to (2), select the (1)
 > **Cross-References:** we discussed (1), go back to (1)
 > **CLI Commands:** find (1)
@@ -1793,8 +1795,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (9), teams (3), [[Microsoft Outlook|Outlook]] (1), [[Microsoft 365]] (1), [[Search]] (1)
 > **UI Navigation:** go to (5), click on (3)
-> **Code Keywords:** let (2)
 > **Analogies:** similar to (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1803,7 +1805,7 @@ created: 2026-04-29
 
 ### 4. Edit Word, Excel, and PowerPoint Documents Collaboratively
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Edit Word, Excel, and PowerPoint documents online
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980)
@@ -1912,7 +1914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), case, (2), this, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Word|Word]] (5), teams (5), [[Microsoft Excel|Excel]] (4), [[Microsoft PowerPoint|Powerpoint]] (4)
 > **UI Navigation:** go to (5), click on (1), open the (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is called (2)
@@ -1999,9 +2001,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (7), [[SharePoint]] (4), [[Microsoft 365]] (4), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** go to (3), click on (2), open the (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2070,8 +2072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft PowerPoint|Powerpoint]] (4), next (3), [[Microsoft Word|Word]] (2), [[Search]] (1)
 > **UI Navigation:** go to (5), click on (2), open the (1)
-> **Code Keywords:** continue (1), delete (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2142,7 +2144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), switch (2), let (1), continue (1), this. (1)
+> **Frameworks & Libraries:** feature (6), next (5), [[Microsoft Word|Word]] (3), [[Microsoft Word]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (3)
 > **Speakers:** - [instructor] (1)
@@ -2150,7 +2152,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more about Microsoft 365 applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980)
@@ -2189,9 +2191,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), web (5), [[Microsoft 365]] (4), [[SharePoint]] (3), application (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** continue (1)
 > **URLs:** [outlook.com](https://outlook.com) (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** for example (1)

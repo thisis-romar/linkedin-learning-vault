@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python.md)
@@ -44,52 +44,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - Getting set up
-  - Using CoderPad
+  - [Welcome](#welcome)
+  - [Getting set up](#getting-set-up)
+  - [Using CoderPad](#using-coderpad)
 - [**1. Python Features**](#1-python-features) (6 videos)
-  - Documentation strings
-  - Special variable names
-  - Understanding scope
-  - Truth value testing
-  - The assignment expression
-  - Using print and pprint
+  - [Documentation strings](#documentation-strings)
+  - [Special variable names](#special-variable-names)
+  - [Understanding scope](#understanding-scope)
+  - [Truth value testing](#truth-value-testing)
+  - [The assignment expression](#the-assignment-expression)
+  - [Using print and pprint](#using-print-and-pprint)
 - [**2. Using Iterators**](#2-using-iterators) (8 videos)
-  - Basic iterators
-  - More iterators
-  - For-else
-  - Itertools: count, cycle, accumulate
-  - Itertools: chain, chain.from_iterable, batched
-  - Itertools: dropwhile, takewhile, filterfalse
-  - Itertools: combinations and permutations
-  - Solution: Using Iterators
+  - [Basic iterators](#basic-iterators)
+  - [More iterators](#more-iterators)
+  - [For-else](#for-else)
+  - [Itertools: count, cycle, accumulate](#itertools-count-cycle-accumulate)
+  - [Itertools: chain, chain.from_iterable, batched](#itertools-chain-chainfrom_iterable-batched)
+  - [Itertools: dropwhile, takewhile, filterfalse](#itertools-dropwhile-takewhile-filterfalse)
+  - [Itertools: combinations and permutations](#itertools-combinations-and-permutations)
+  - [Solution: Using Iterators](#solution-using-iterators)
 - [**3. String Processing**](#3-string-processing) (5 videos)
-  - Built-in string constants
-  - String searching
-  - String manipulation
-  - String formatting
-  - Solution: String processing
+  - [Built-in string constants](#built-in-string-constants)
+  - [String searching](#string-searching)
+  - [String manipulation](#string-manipulation)
+  - [String formatting](#string-formatting)
+  - [Solution: String processing](#solution-string-processing)
 - [**4. Working with Sequences**](#4-working-with-sequences) (7 videos)
-  - Sequence slicing
-  - Comparing sequences
-  - Overview of comprehensions
-  - Using list comprehensions
-  - Working with set comprehensions
-  - Using dictionary comprehensions
-  - Solution: Sequences
+  - [Sequence slicing](#sequence-slicing)
+  - [Comparing sequences](#comparing-sequences)
+  - [Overview of comprehensions](#overview-of-comprehensions)
+  - [Using list comprehensions](#using-list-comprehensions)
+  - [Working with set comprehensions](#working-with-set-comprehensions)
+  - [Using dictionary comprehensions](#using-dictionary-comprehensions)
+  - [Solution: Sequences](#solution-sequences)
 - [**5. Exceptions**](#5-exceptions) (6 videos)
-  - What are exceptions?
-  - Handling exceptions
-  - Common exception types
-  - Custom exceptions
-  - Challenge: Exceptions
-  - Solution: Exceptions
+  - [What are exceptions?](#what-are-exceptions)
+  - [Handling exceptions](#handling-exceptions)
+  - [Common exception types](#common-exception-types)
+  - [Custom exceptions](#custom-exceptions)
+  - [Challenge: Exceptions](#challenge-exceptions)
+  - [Solution: Exceptions](#solution-exceptions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=76281980)
@@ -110,8 +110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (1), next (1)
 > **CLI Commands:** python (4), make (1)
-> **Code Keywords:** case. (1), require (1), let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - python (1)
 
@@ -224,13 +224,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[GitHub]] (4), [[Microsoft]] (2), [[Codespaces]] (2), [[Search]] (2)
 > **CLI Commands:** python (18), make (3), find (2)
 > **Tools:** visual studio (5), github (4), terminal (3)
 > **Prerequisites:** install (5), set up (1), you'll need (1), setup (1)
 > **Exercise Files:** download the (3), zip file (1)
 > **Versions:** version 3 (1), python 3 (1), 10.12 (1)
 > **UI Navigation:** click on (3)
-> **Code Keywords:** let (2)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 
 #### Using CoderPad
@@ -294,8 +294,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **UI Navigation:** click on (4)
-> **Code Keywords:** function (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - this (1)
@@ -303,7 +303,7 @@ created: 2026-04-29
 
 ### 1. Python Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Documentation strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980)
@@ -456,7 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (8), module (6), this. (3), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (2), feature (2), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** python (9), python3 (3), make (3), find (1)
 > **Documentation:** the documentation (6)
 > **Tools:** terminal (5), vs code (1)
@@ -546,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), module (8), this. (2), from, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5)
 > **Tools:** terminal (3)
 > **Definitions:** is a  (1), means that (1)
@@ -700,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (32), let (13), this, (1), self (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** python (5), make (4)
 > **Code Identifiers:** multiplier_maker (3)
 > **Definitions:** refers to (1), is a  (1), is an  (1)
@@ -777,7 +777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), override (2), this. (2), default, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (1)
 > **CLI Commands:** python (5), make (2)
 > **Tools:** terminal (2), vs code (1)
 > **Versions:** 0.0 (1)
@@ -915,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (3), function (3), case, (2), this: (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), next (1)
 > **CLI Commands:** python (4), make (3), find (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Non-Speech:** (keyboard keys clicking) (2)
@@ -1083,7 +1083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), function (5), this. (4), module (4), pass (3)
+> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (6), [[JSON]] (2)
 > **CLI Commands:** python (6), find (3), make (2)
 > **File Paths:** output.txt (3)
 > **UI Navigation:** in the sidebar (1), click on (1), scroll down (1)
@@ -1095,7 +1095,7 @@ created: 2026-04-29
 
 ### 2. Using Iterators
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic iterators
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/basic-iterators?u=76281980)
@@ -1188,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (8), this, (3), this. (2), pass (2)
+> **Frameworks & Libraries:** next (8), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Tools:** terminal (2)
 > **File Paths:** testfile.txt (1)
@@ -1346,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (12), this. (3), continue (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** a1x (1), dn4 (1)
 > **Definitions:** is a  (2)
@@ -1438,7 +1438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Search]] (1)
 > **CLI Commands:** python (4), find (2)
 > **Code Identifiers:** is_prime (3), for_else (1)
 > **Definitions:** is a  (3), means that (1)
@@ -1603,7 +1603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (13), module (7), this. (3), this, (2)
+> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is called (2), is a  (1)
 > **Versions:** 1.04 (1)
@@ -1682,7 +1682,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (6), pass (3), module (2), this, (2)
 > **Code Identifiers:** from_iterable (3)
 > **File Paths:** itertools2.py (1)
 > **Definitions:** in other words (1)
@@ -1797,7 +1796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (10), lambda (4), while. (3), module (2)
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1933,7 +1932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (7), module (2), case, (2), pass (2)
+> **Frameworks & Libraries:** teams (5), product (4), next (1), [[Cryptography]] (1), [[Game Development]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), imagine (1)
 > **Cross-References:** go back to (1)
@@ -1969,7 +1968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (4), module (1)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** iter (1)
 > **Speakers:** - [instructor] (1)
@@ -1977,7 +1976,7 @@ created: 2026-04-29
 
 ### 3. String Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in string constants
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/built-in-string-constants?u=76281980)
@@ -2104,7 +2103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (6), module (5), this, (3), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Code Identifiers:** ascii_letters (4), testpass (4), builtin_constants (1), teststr (1), string_digits (1)
 > **CLI Commands:** python (4), make (3), find (2)
 > **Env Vars:** ascii (3)
@@ -2276,7 +2275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (7), this, (3), this. (2), raise (1)
+> **Frameworks & Libraries:** [[Search]] (9), [[Microsoft Word|Word]] (5), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** find (9), python (3)
 > **Code Identifiers:** sample_text (7), string_search (1)
 > **Analogies:** for example (5), imagine (1), similar to (1)
@@ -2382,7 +2381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (7), this. (4), case, (2), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Word|Word]] (3), [[Programming]] (1), data (1)
 > **CLI Commands:** make (4), python (4)
 > **Tools:** terminal (1)
 > **Definitions:** basically means (1)
@@ -2664,7 +2663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), this, (7), module (3), function (3), type. (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Documentation:** specification (5), the documentation (3), spec (1)
 > **CLI Commands:** python (6), find (1), make (1)
 > **Analogies:** for example (5)
@@ -2726,14 +2725,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (1), case. (1), this, (1), function (1)
+> **Frameworks & Libraries:** [[Search]] (4)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Working with Sequences
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequence slicing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/sequence-slicing?u=76281980)
@@ -2872,7 +2871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), delete (5), this, (3), function (2), module (1)
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (1)
@@ -2962,7 +2961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), this, (3), case, (1), type, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** python (1), make (1)
 > **Code Identifiers:** zip_longest (1)
@@ -3017,7 +3016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case, (3), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (1)
 > **CLI Commands:** python (5), make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -3114,7 +3113,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (8), lambda (3), this. (1)
 > **Code Identifiers:** evensquared (2), oddsquared (1)
 > **Tools:** vs code (1), terminal (1)
 > **CLI Commands:** make (1)
@@ -3208,7 +3206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Non-Speech:** (keyboard clicking) (3)
 > **Cross-References:** previous video (1), go back to (1)
@@ -3298,7 +3296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (1)
+> **Frameworks & Libraries:** teams (2), [[Python (Programming Language)|Python]] (1), power (1), data (1)
 > **CLI Commands:** make (2), python (1)
 > **Versions:** 53.6 (2), 93.2 (1)
 > **Definitions:** is a  (2), means that (1)
@@ -3363,14 +3361,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), this, (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 5. Exceptions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980)
@@ -3421,7 +3418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (3), try, (1), except, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
@@ -3530,7 +3527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (1), case, (1)
+> **Frameworks & Libraries:** generic (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** abc (2)
 > **Tools:** terminal (1)
@@ -3670,7 +3667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (2), module (2), class, (1), self (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), generic (1)
 > **CLI Commands:** python (4), make (3)
 > **File Paths:** myfile.txt (2), common_exceptions.py (1)
 > **Documentation:** the documentation (2)
@@ -3766,7 +3763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), raise (2), case. (1), class. (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** custom_exceptions (1)
 > **Best Practices:** good practice (1)
@@ -3813,7 +3810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), interface (1)
+> **Frameworks & Libraries:** [[Programming]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Tools:** terminal (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** python (1)
@@ -3849,14 +3846,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (2), class. (1), function (1), this, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980)
@@ -3879,8 +3875,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** continue (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - congratulations (1)

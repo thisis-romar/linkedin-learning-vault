@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Using%20Custom%20Meta%20Boxes%20in%20WordPress.md)
@@ -48,42 +48,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Custom fields without dependency
-  - What you should know
-  - Demo project overview
+  - [Custom fields without dependency](#custom-fields-without-dependency)
+  - [What you should know](#what-you-should-know)
+  - [Demo project overview](#demo-project-overview)
 - [**1. How CMB2 Works**](#1-how-cmb2-works) (8 videos)
-  - What is CMB2 and how does it work?
-  - The difference between CMB2 and ACF
-  - Installing CMB2 via the Plugin Directory
-  - Setting up our project plugin
-  - CMB2 as a library for your plugin
-  - The CMB2 documentation
-  - Field types in CMB2
-  - CMB2 and the block editor
+  - [What is CMB2 and how does it work?](#what-is-cmb2-and-how-does-it-work)
+  - [The difference between CMB2 and ACF](#the-difference-between-cmb2-and-acf)
+  - [Installing CMB2 via the Plugin Directory](#installing-cmb2-via-the-plugin-directory)
+  - [Setting up our project plugin](#setting-up-our-project-plugin)
+  - [CMB2 as a library for your plugin](#cmb2-as-a-library-for-your-plugin)
+  - [The CMB2 documentation](#the-cmb2-documentation)
+  - [Field types in CMB2](#field-types-in-cmb2)
+  - [CMB2 and the block editor](#cmb2-and-the-block-editor)
 - [**2. Building Our Custom Fields**](#2-building-our-custom-fields) (9 videos)
-  - Defining our custom fields
-  - Creating our meta boxes
-  - Adding a the custom field type
-  - Adding fields to our meta boxes
-  - Adding a file uploader
-  - Creating a repeatable field
-  - How to get data from CMB2
-  - Adding our custom fields to the frontend
-  - Displaying from a repeatable field
+  - [Defining our custom fields](#defining-our-custom-fields)
+  - [Creating our meta boxes](#creating-our-meta-boxes)
+  - [Adding a the custom field type](#adding-a-the-custom-field-type)
+  - [Adding fields to our meta boxes](#adding-fields-to-our-meta-boxes)
+  - [Adding a file uploader](#adding-a-file-uploader)
+  - [Creating a repeatable field](#creating-a-repeatable-field)
+  - [How to get data from CMB2](#how-to-get-data-from-cmb2)
+  - [Adding our custom fields to the frontend](#adding-our-custom-fields-to-the-frontend)
+  - [Displaying from a repeatable field](#displaying-from-a-repeatable-field)
 - [**3. Creating a Post Select Box**](#3-creating-a-post-select-box) (2 videos)
-  - Building a post select box
-  - Updating the content output
+  - [Building a post select box](#building-a-post-select-box)
+  - [Updating the content output](#updating-the-content-output)
 - [**4. Noteworthy Features**](#4-noteworthy-features) (4 videos)
-  - Bringing in taxonomies
-  - Frontend Meta Box support
-  - Creating a theme options page
-  - Adding fields to user profiles
+  - [Bringing in taxonomies](#bringing-in-taxonomies)
+  - [Frontend Meta Box support](#frontend-meta-box-support)
+  - [Creating a theme options page](#creating-a-theme-options-page)
+  - [Adding fields to user profiles](#adding-fields-to-user-profiles)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom fields without dependency
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), feature (1), front-end (1), web (1), [[PHP]] (1)
 > **Env Vars:** cmb2 (2), php (1)
 > **CLI Commands:** make (1), php (1)
 > **Definitions:** short for (1)
@@ -138,9 +139,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), [[PHP]] (3), [[LinkedIn]] (2), [[Forms]] (1), [[Wordpress Development]] (1)
 > **Env Vars:** php (3), cmb2 (1), html (1), css (1)
 > **CLI Commands:** php (3)
-> **Code Keywords:** finally, (1), this, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -170,14 +171,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), front-end (1)
 > **Env Vars:** cmb2 (3)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. How CMB2 Works
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is CMB2 and how does it work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-is-cmb2-and-how-does-it-work?u=76281980)
@@ -212,7 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), data (2)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** cmb2 (1)
 > **Exercise Files:** template (1)
@@ -259,9 +260,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[LinkedIn]] (2)
 > **Env Vars:** cmb2 (5), cnb2 (1), acf (1)
 > **Definitions:** is an  (2), means that (1)
-> **Code Keywords:** interface (1), pass (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -322,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (2), new. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[WordPress]] (3), [[Search]] (2), [[GitHub]] (1)
 > **CLI Commands:** php (7), find (1)
 > **Env Vars:** cmb2 (6), php (1)
 > **File Paths:** functions.php (3), examplefunctions.php (2), examples-functions.php (1)
@@ -400,9 +401,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Wordpress Development]] (1), application (1), [[PHP]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cmb2 (3), wpinc (1), lil_cmb2_version (1), url (1), lil (1)
 > **CLI Commands:** make (2), find (1), php (1)
-> **Code Keywords:** function (3), let (1)
 > **Exercise Files:** exercise files (1), sample code (1)
 > **File Paths:** lil-cmb2.php (1)
 > **Code Identifiers:** plugin_dir_url (1)
@@ -450,10 +451,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[PHP]] (2), [[Microsoft Word|Word]] (2), [[GitHub]] (1)
 > **Env Vars:** cmb2 (8), lil (1)
 > **CLI Commands:** php (2), unzip (1), make (1)
 > **File Paths:** example-functions.php (2)
-> **Code Keywords:** include, (1), this, (1)
 > **Exercise Files:** download the (1), zip file (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Cross-References:** go back to (1)
@@ -486,6 +487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **CLI Commands:** find (3)
 > **Env Vars:** cmb2 (3)
 > **Documentation:** the documentation (2)
@@ -529,9 +531,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[WordPress]] (1), [[Application Development]] (1), [[GitHub]] (1), data (1)
 > **Env Vars:** cmb2 (5)
 > **Tools:** github (1), safari (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** jquery (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** sample code (1)
@@ -553,13 +555,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** cmb2 (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Building Our Custom Fields
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining our custom fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/defining-our-custom-fields?u=76281980)
@@ -630,8 +633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), data (2), front-end (1)
 > **Env Vars:** mp3 (1), m4a (1), pdf (1), wysiwyg (1), url (1)
-> **Code Keywords:** let (3), include, (1), type. (1), finally, (1), this. (1)
 > **Versions:** 5.0 (1), 5.8 (1)
 > **UI Navigation:** checkbox (1), select the (1)
 > **Documentation:** the documentation (1)
@@ -770,7 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), require (2), type. (1), else, (1), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (3), next (2), [[Microsoft Word|Word]] (2), [[GitHub]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (4), php (3), find (1)
 > **Code Identifiers:** lil_episodes_meta (2), show_names (2), lil_sponsors_meta (2), episodes_metabox (1), sponsors_meta (1)
 > **UI Navigation:** go to (3), in the sidebar (1)
@@ -880,7 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), type, (2), require (2), let (1), class, (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (2)
 > **CLI Commands:** php (4), make (2), find (1)
 > **Code Identifiers:** lil_text_number (2), lil_sanitize_text_number (2), preg_replace (2)
 > **Definitions:** is a  (2), is an  (2)
@@ -948,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), pass (1), type, (1), type. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[Search]] (1)
 > **Code Identifiers:** lil_episode_number (1), lil_transcript (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** lil (1)
@@ -1044,8 +1047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[PHP]] (1), [[WordPress]] (1)
 > **Env Vars:** url (8), pdf (7), cmb2 (2), mp3 (2), m4a (2)
-> **Code Keywords:** let (3), type. (2), type, (2), pass (1), new, (1)
 > **CLI Commands:** make (2), php (1)
 > **File Paths:** meta.php (1)
 > **Cross-References:** go back to (1)
@@ -1198,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (3), function (2), type, (1), case, (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), next (1), [[WordPress]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** url (4), cmb2 (2), gif (2), jpeg (1), png (1)
 > **Analogies:** for example (2), just like (2)
 > **CLI Commands:** make (2)
@@ -1274,7 +1277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), function (3), let (3)
+> **Frameworks & Libraries:** [[WordPress]] (4), data (2), [[LinkedIn]] (1)
 > **Env Vars:** url (5), cmb2 (2)
 > **Code Identifiers:** get_post_meta (3), lil_episode_number (2), lil_audio_file (1)
 > **Definitions:** is a  (3)
@@ -1520,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (13), pass (5), if ( (4), finally, (2)
+> **Frameworks & Libraries:** data (6), [[PHP]] (4), [[WordPress]] (2), [[HTML]] (1), next (1)
 > **Code Identifiers:** episode_info (6), is_null (5), transcript_info (5), get_post_meta (4), episode_number (4)
 > **CLI Commands:** php (4), make (3)
 > **Env Vars:** pdf (2), wysiwyg (2), php (1), html (1), url (1)
@@ -1638,7 +1641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (4), pass (2), this, (2), return, (1)
+> **Frameworks & Libraries:** css (3), [[PHP]] (3), data (1), [[HTML]] (1)
 > **Env Vars:** url (5), css (3), html (1), php (1)
 > **CLI Commands:** php (3), make (1), find (1)
 > **Code Identifiers:** lil_sponsor (1), episode_info (1), audio_embed (1)
@@ -1650,7 +1653,7 @@ created: 2026-04-29
 
 ### 3. Creating a Post Select Box
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a post select box
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980)
@@ -1767,7 +1770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), require (2), type, (2), case, (1)
+> **Frameworks & Libraries:** [[Search]] (8), [[GitHub]] (2), [[PHP]] (1), [[HTML]] (1)
 > **Env Vars:** cmb2 (11), lil (6), html (1)
 > **UI Navigation:** go to (5), select the (2), checkbox (1)
 > **CLI Commands:** find (1), unzip (1), make (1), php (1)
@@ -1871,8 +1874,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), css (1), [[PHP]] (1)
 > **Code Identifiers:** lil_related_episodes_output (2), add_filter (1), post_info_after (1), is_singular (1), get_post_meta (1)
-> **Code Keywords:** function (4), let (2), pass (1), this, (1), finally, (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (1), php (1)
 > **Env Vars:** css (1), php (1)
@@ -1883,7 +1886,7 @@ created: 2026-04-29
 
 ### 4. Noteworthy Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bringing in taxonomies
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/bringing-in-taxonomies?u=76281980)
@@ -1924,7 +1927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type, (1), function (1), pass (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Env Vars:** cmb2 (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** checkbox (1), dropdown (1)
@@ -1993,8 +1996,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[GitHub]] (1), [[WordPress]] (1), data (1), [[Forms]] (1)
 > **Code Identifiers:** episodes_metabox (3), current_user_can (2), add_filter (1), the_content (1), lil_fe_box (1)
-> **Code Keywords:** function (4), if, (1), this. (1), case, (1)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** cmb2 (3)
 > **File Paths:** episodes-meta.php (1), frontend-boxes.php (1)
@@ -2027,8 +2030,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), feature (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Code Identifiers:** get_post_meta (1)
 > **Env Vars:** cmb2 (1)
 > **Definitions:** defined as (1)
@@ -2070,7 +2073,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980)
@@ -2095,9 +2098,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (2), [[GitHub]] (1), business (1), next (1)
 > **Env Vars:** cmb2 (3), php (2)
 > **CLI Commands:** php (2), find (1)
-> **Code Keywords:** continue (1), finally, (1)
 > **Tools:** github (1)
 > **Speakers:** - [joe] (1)
 

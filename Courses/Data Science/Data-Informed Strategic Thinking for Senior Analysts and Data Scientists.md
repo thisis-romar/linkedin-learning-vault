@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data-Informed%20Strategic%20Thinking%20for%20Senior%20Analysts%20and%20Data%20Scientists.md)
@@ -41,56 +41,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Data-informed strategic thinking
-  - What experience should you have for this course?
+  - [Data-informed strategic thinking](#data-informed-strategic-thinking)
+  - [What experience should you have for this course?](#what-experience-should-you-have-for-this-course)
 - [**1. What Is Strategy: Vision, Mission, and Values**](#1-what-is-strategy-vision-mission-and-values) (6 videos)
-  - What is strategy, and what role does data science play?
-  - Leadership and management: Strategic challenges
-  - Why strategy?
-  - Three levels of strategic thinking and decision-making
-  - Conceptual strategy: Vision, mission, and values
-  - Practice: How to see a firm's vision
+  - [What is strategy, and what role does data science play?](#what-is-strategy-and-what-role-does-data-science-play)
+  - [Leadership and management: Strategic challenges](#leadership-and-management-strategic-challenges)
+  - [Why strategy?](#why-strategy)
+  - [Three levels of strategic thinking and decision-making](#three-levels-of-strategic-thinking-and-decision-making)
+  - [Conceptual strategy: Vision, mission, and values](#conceptual-strategy-vision-mission-and-values)
+  - [Practice: How to see a firm's vision](#practice-how-to-see-a-firms-vision)
 - [**2. Analyzing a Market and a Strategy: How Competitive Is a Firm?**](#2-analyzing-a-market-and-a-strategy-how-competitive-is-a-firm) (5 videos)
-  - Analytical strategy: Assessing a competitive market
-  - Macrostrategy: Porter's five forces
-  - Microstrategy: SWOT
-  - Using SWOTs to derive strategic options
-  - Practice: How to assess a firm's competitiveness
+  - [Analytical strategy: Assessing a competitive market](#analytical-strategy-assessing-a-competitive-market)
+  - [Macrostrategy: Porter's five forces](#macrostrategy-porters-five-forces)
+  - [Microstrategy: SWOT](#microstrategy-swot)
+  - [Using SWOTs to derive strategic options](#using-swots-to-derive-strategic-options)
+  - [Practice: How to assess a firm's competitiveness](#practice-how-to-assess-a-firms-competitiveness)
 - [**3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?**](#3-measuring-and-planning-success-what-does-good-look-like-and-how-do-i-get-there) (4 videos)
-  - Operational strategy: Scorecards and action plans
-  - Milestones and obstacles: Folding back and action planning
-  - Metrics and targets for success: The balanced scorecard
-  - Practice: Aligning key metrics and action plans
+  - [Operational strategy: Scorecards and action plans](#operational-strategy-scorecards-and-action-plans)
+  - [Milestones and obstacles: Folding back and action planning](#milestones-and-obstacles-folding-back-and-action-planning)
+  - [Metrics and targets for success: The balanced scorecard](#metrics-and-targets-for-success-the-balanced-scorecard)
+  - [Practice: Aligning key metrics and action plans](#practice-aligning-key-metrics-and-action-plans)
 - [**4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values**](#4-conceptual-strategy-deep-dive-developing-and-aligning-vision-mission-and-values) (5 videos)
-  - Deeper conceptual thinking: Values, leadership, and conflict
-  - Creating a compelling vision
-  - Practice: Seeing a firm's vision part two
-  - Aligning mission and vision
-  - Practice: Using regression to create alignment
+  - [Deeper conceptual thinking: Values, leadership, and conflict](#deeper-conceptual-thinking-values-leadership-and-conflict)
+  - [Creating a compelling vision](#creating-a-compelling-vision)
+  - [Practice: Seeing a firm's vision part two](#practice-seeing-a-firms-vision-part-two)
+  - [Aligning mission and vision](#aligning-mission-and-vision)
+  - [Practice: Using regression to create alignment](#practice-using-regression-to-create-alignment)
 - [**5. Analytical Strategy Deep Dive: Analyzing Key Market Participants**](#5-analytical-strategy-deep-dive-analyzing-key-market-participants) (7 videos)
-  - Deeper analytics: Assessing key market participants
-  - Porter's Five (+2) Forces
-  - Practice: Macro-market analytics part two
-  - Assessing variability in markets: Insights from Porter
-  - Practice: Assessing market forces
-  - Competitive advantage: Creating differentiation
-  - Practice: Assessing or creating competitive differentiation
+  - [Deeper analytics: Assessing key market participants](#deeper-analytics-assessing-key-market-participants)
+  - [Porter's Five (+2) Forces](#porters-five-2-forces)
+  - [Practice: Macro-market analytics part two](#practice-macro-market-analytics-part-two)
+  - [Assessing variability in markets: Insights from Porter](#assessing-variability-in-markets-insights-from-porter)
+  - [Practice: Assessing market forces](#practice-assessing-market-forces)
+  - [Competitive advantage: Creating differentiation](#competitive-advantage-creating-differentiation)
+  - [Practice: Assessing or creating competitive differentiation](#practice-assessing-or-creating-competitive-differentiation)
 - [**6. Operational Strategy Deep Dive: Monitoring and Measuring Success**](#6-operational-strategy-deep-dive-monitoring-and-measuring-success) (5 videos)
-  - Deeper operational thinking: The balanced scorecard and action planning
-  - Practice: Using data science to create a scorecard
-  - Action planning: Designing tasks tied to scorecard metrics
-  - Practice: Assessing competitor impacts on your plans
-  - The missing piece: Contingency planning
+  - [Deeper operational thinking: The balanced scorecard and action planning](#deeper-operational-thinking-the-balanced-scorecard-and-action-planning)
+  - [Practice: Using data science to create a scorecard](#practice-using-data-science-to-create-a-scorecard)
+  - [Action planning: Designing tasks tied to scorecard metrics](#action-planning-designing-tasks-tied-to-scorecard-metrics)
+  - [Practice: Assessing competitor impacts on your plans](#practice-assessing-competitor-impacts-on-your-plans)
+  - [The missing piece: Contingency planning](#the-missing-piece-contingency-planning)
 - [**7. Course Review: Data-Informed Strategic Thinking and Decision-Making**](#7-course-review-data-informed-strategic-thinking-and-decision-making) (3 videos)
-  - Review of course objectives
-  - What is strategy: Defined in three levels
-  - Supporting analytics, pitfalls, and a one-page summary
+  - [Review of course objectives](#review-of-course-objectives)
+  - [What is strategy: Defined in three levels](#what-is-strategy-defined-in-three-levels)
+  - [Supporting analytics, pitfalls, and a one-page summary](#supporting-analytics-pitfalls-and-a-one-page-summary)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where do you go from here: Other courses of interest
+  - [Where do you go from here: Other courses of interest](#where-do-you-go-from-here-other-courses-of-interest)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data-informed strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/data-informed-strategic-thinking?u=76281980)
@@ -111,6 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (4), [[Strategic Thinking]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** swot (1)
 > **Analogies:** just like (1)
@@ -137,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Statistical Analysis]] (1), [[Stata]] (1), [[Programming]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sas (6), spss (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -144,7 +146,7 @@ created: 2026-04-29
 
 ### 1. What Is Strategy: Vision, Mission, and Values
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is strategy, and what role does data science play?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980)
@@ -245,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), let (1)
+> **Frameworks & Libraries:** data (14), [[Strategic Thinking]] (6), business (6), [[Probability]] (2), management (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -315,8 +317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), leadership (3), power (2), business (2), next (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** next video (1)
 > **Warnings:** common mistake (1)
@@ -463,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), finally, (1), pass (1), case, (1), let (1)
+> **Frameworks & Libraries:** business (9), next (4), [[Strategic Thinking]] (4), [[Microsoft Products|Products]] (2), data (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** nfe (1)
@@ -550,8 +552,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Strategic Thinking]] (6), data (4), next (1), product (1), business (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -683,7 +685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (3), [[Strategic Thinking]] (2), data (1), [[Ethics]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -763,10 +765,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SaaS]] (4), [[Programming]] (2), [[Statistical Analysis]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** pthf (7)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -775,7 +777,7 @@ created: 2026-04-29
 
 ### 2. Analyzing a Market and a Strategy: How Competitive Is a Firm?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analytical strategy: Assessing a competitive market
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980)
@@ -860,11 +862,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), leadership (1), [[E-Commerce]] (1)
 > **Analogies:** picture (4)
 > **Env Vars:** vhs (2)
 > **Tools:** notion (2)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1052,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), while. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), data (4), power (3), next (2), product (2)
 > **Analogies:** for example (4), similar to (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -1160,9 +1162,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (10), [[Banking]] (4), business (3), next (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (5), picture (3)
 > **Env Vars:** swot (5), pthf (1)
-> **Code Keywords:** let (3), this, (1), this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1255,7 +1257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** strengths (7), [[Banking]] (4), business (4), data (3), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** swot (3)
 > **Cross-References:** in the last (1), we talked about (1), in the next (1)
@@ -1362,8 +1364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Statistics]] (4), next (2), [[SaaS]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pthf (8), roi (5), swot (1)
-> **Code Keywords:** let (2), from. (1)
 > **Versions:** 4.9 (1), 5.6 (1), 8.2 (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** in the last (1), next chapter (1)
@@ -1374,7 +1376,7 @@ created: 2026-04-29
 
 ### 3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Operational strategy: Scorecards and action plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980)
@@ -1439,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (4), data (3), [[LinkedIn]] (1), leadership (1), [[Strategic Thinking]] (1)
 > **Env Vars:** swot (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - hi (1)
@@ -1513,7 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (2), this. (1)
+> **Frameworks & Libraries:** next (1), management (1), business (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** roi (1)
 > **Analogies:** for example (1)
@@ -1629,8 +1631,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1), business (1), data (1)
 > **Analogies:** for example (4), such as (1), just like (1)
-> **Code Keywords:** let (2), finally, (2), require (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
@@ -1719,8 +1721,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Strategic Thinking]] (3), next (2), business (1)
 > **Env Vars:** pthf (3), roi (3), sas (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1730,7 +1732,7 @@ created: 2026-04-29
 
 ### 4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deeper conceptual thinking: Values, leadership, and conflict
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980)
@@ -1797,7 +1799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** data (4), [[Strategic Thinking]] (1), teams (1), business (1)
 > **Env Vars:** pthf (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1882,9 +1884,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Strategic Thinking]] (3), next (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1969,7 +1971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), raise (2), require (1), continue (1)
+> **Frameworks & Libraries:** data (13), [[Statistics]] (5), next (1)
 > **Analogies:** for example (5)
 > **Env Vars:** pthf (3), roi (1)
 > **Cross-References:** go back to (1)
@@ -2050,8 +2052,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), data (5), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), leadership (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** pass (1), this, (1)
 > **Env Vars:** sas (1), swot (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
@@ -2240,7 +2242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (2), finally, (1)
+> **Frameworks & Libraries:** data (7), business (4), next (3), [[Statistics]] (2), management (1)
 > **Env Vars:** ssas (5), roi (2), pthf (1)
 > **Analogies:** for example (2), picture (1), such as (1)
 > **Warnings:** note that (2), keep in mind (1)
@@ -2252,7 +2254,7 @@ created: 2026-04-29
 
 ### 5. Analytical Strategy Deep Dive: Analyzing Key Market Participants
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deeper analytics: Assessing key market participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980)
@@ -2285,9 +2287,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), data (2), leadership (2), [[LinkedIn]] (1), management (1)
 > **Env Vars:** swot (2), pest (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - hey (1)
 
@@ -2374,11 +2376,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (2), data (2), management (2), leadership (2)
 > **Env Vars:** pest (6), porter (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (2), for example (1)
 > **Warnings:** note that (2), be aware (1)
-> **Code Keywords:** if, (1), let (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - the (1)
 
@@ -2433,7 +2435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** data (3), [[Statistics]] (3), power (1), [[Analytics]] (1), [[SaaS]] (1)
 > **Env Vars:** pthf (2)
 > **Versions:** 7.2 (1), 6.0 (1)
 > **Cross-References:** in the next (1)
@@ -2540,8 +2542,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), business (3), express (3), [[Microsoft Products|Products]] (2), game (1)
 > **Analogies:** for example (4), picture (2), such as (1), similar to (1)
-> **Code Keywords:** switch (3), let (2), case, (1), this, (1)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -2636,7 +2638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), function (1)
+> **Frameworks & Libraries:** data (3), business (3), [[SaaS]] (1), management (1), next (1)
 > **Env Vars:** pthf (1), anova (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -2731,7 +2733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), this. (1)
+> **Frameworks & Libraries:** strengths (4), business (1), power (1), game (1)
 > **Env Vars:** swot (4)
 > **Analogies:** for example (2)
 > **Warnings:** be careful (1)
@@ -2802,16 +2804,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (3), [[Banking]] (1), business (1), strengths (1)
 > **Env Vars:** pthf (1), pest (1), swot (1)
 > **Cross-References:** in the next (2), next chapter (1)
-> **Code Keywords:** let (1), case, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Operational Strategy Deep Dive: Monitoring and Measuring Success
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deeper operational thinking: The balanced scorecard and action planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-operational-thinking-the-balanced-scorecard-and-action-planning?u=76281980)
@@ -2930,8 +2932,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Strategic Thinking]] (3), teams (2), leadership (2), data (2), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** bsc (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
@@ -3047,7 +3049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), continue (1), function (1), raise (1)
+> **Frameworks & Libraries:** data (8), [[SaaS]] (1), business (1), management (1)
 > **Env Vars:** pthf (5)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** just like (1), such as (1)
@@ -3181,8 +3183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (1), hit (1), [[Analytics]] (1)
 > **Analogies:** for example (7), similar to (1)
-> **Code Keywords:** let (5), this. (1), finally, (1)
 > **Env Vars:** iii (1), m1a (1), m1b (1), i1a (1), swat (1)
 > **Definitions:** means that (2)
 > **Prerequisites:** you'll need (1)
@@ -3265,7 +3267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), switch (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[Banking]] (2), leadership (2), application (1), [[Statistical Analysis]] (1)
 > **Versions:** 6.0 (3), 5.33 (1), 6.51 (1), 5.15 (1), 6.69 (1)
 > **Env Vars:** pthf (4)
 > **Warnings:** note that (2)
@@ -3333,9 +3335,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (1), hit (1), [[Strategic Thinking]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** don't forget (2)
-> **Code Keywords:** case. (1)
 > **Env Vars:** swat (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** warning (1)
@@ -3344,7 +3346,7 @@ created: 2026-04-29
 
 ### 7. Course Review: Data-Informed Strategic Thinking and Decision-Making
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review of course objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/review-of-course-objectives?u=76281980)
@@ -3359,6 +3361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1), business (1)
 > **Speakers:** - [lecturer] (1)
 
 #### What is strategy: Defined in three levels
@@ -3388,6 +3391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (1), [[Strategic Thinking]] (1), [[Analytics]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Supporting analytics, pitfalls, and a one-page summary
@@ -3447,8 +3451,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (5), business (3), [[Strategic Thinking]] (3), data (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** this. (1), continue (1)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Env Vars:** swot (1)
 > **Prerequisites:** you'll need (1)
@@ -3457,7 +3461,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where do you go from here: Other courses of interest
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980)
@@ -3492,7 +3496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), data (2), [[Strategic Thinking]] (2), business (1), [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dba (1)
 > **Speakers:** - congratulations (1)

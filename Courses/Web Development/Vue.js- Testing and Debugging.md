@@ -31,7 +31,7 @@ tags:
   - skill/software-testing
   - skill/debugging-code
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Vue.js-%20Testing%20and%20Debugging.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Testing Vue applications
-  - What you should know
-  - Exercise files for testing and debugging
-  - Why you need to test
+  - [Testing Vue applications](#testing-vue-applications)
+  - [What you should know](#what-you-should-know)
+  - [Exercise files for testing and debugging](#exercise-files-for-testing-and-debugging)
+  - [Why you need to test](#why-you-need-to-test)
 - [**1. Setting Up Testing Tools**](#1-setting-up-testing-tools) (4 videos)
-  - Setting up the sample project
-  - What makes up a testing toolkit?
-  - Getting started with Jest
-  - Syntax error checking with ESLint
+  - [Setting up the sample project](#setting-up-the-sample-project)
+  - [What makes up a testing toolkit?](#what-makes-up-a-testing-toolkit)
+  - [Getting started with Jest](#getting-started-with-jest)
+  - [Syntax error checking with ESLint](#syntax-error-checking-with-eslint)
 - [**2. Unit Testing**](#2-unit-testing) (7 videos)
-  - Installing and running Jest
-  - Testing strings using matchers
-  - Testing numeric values
-  - Testing objects and arrays
-  - Organizing tests
-  - Testing asynchronous code
-  - Analyzing test coverage
+  - [Installing and running Jest](#installing-and-running-jest)
+  - [Testing strings using matchers](#testing-strings-using-matchers)
+  - [Testing numeric values](#testing-numeric-values)
+  - [Testing objects and arrays](#testing-objects-and-arrays)
+  - [Organizing tests](#organizing-tests)
+  - [Testing asynchronous code](#testing-asynchronous-code)
+  - [Analyzing test coverage](#analyzing-test-coverage)
 - [**3. Testing Vue Components**](#3-testing-vue-components) (3 videos)
-  - Mounting components using render
-  - Accessing elements within a component
-  - Firing events on components
+  - [Mounting components using render](#mounting-components-using-render)
+  - [Accessing elements within a component](#accessing-elements-within-a-component)
+  - [Firing events on components](#firing-events-on-components)
 - [**4. Debugging with Vue and Chrome Developer tools**](#4-debugging-with-vue-and-chrome-developer-tools) (5 videos)
-  - Debugging errors using Chrome DevTools
-  - Setting up Vue Devtools
-  - Debugging with Vue Devtools
-  - Tracking and debugging state
-  - Running a performance audit
+  - [Debugging errors using Chrome DevTools](#debugging-errors-using-chrome-devtools)
+  - [Setting up Vue Devtools](#setting-up-vue-devtools)
+  - [Debugging with Vue Devtools](#debugging-with-vue-devtools)
+  - [Tracking and debugging state](#tracking-and-debugging-state)
+  - [Running a performance audit](#running-a-performance-audit)
 - [**5. Functional and Automated Testing**](#5-functional-and-automated-testing) (3 videos)
-  - Introduction to Cypress
-  - Running a simple end-to-end test with Cypress
-  - Automated testing with CircleCI
+  - [Introduction to Cypress](#introduction-to-cypress)
+  - [Running a simple end-to-end test with Cypress](#running-a-simple-end-to-end-test-with-cypress)
+  - [Automated testing with CircleCI](#automated-testing-with-circleci)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with testing
+  - [Next steps with testing](#next-steps-with-testing)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing Vue applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980)
@@ -111,8 +111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Vue.js]] (1)
 > **File Paths:** vue.js (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [fikayo (1)
 
 #### What you should know
@@ -172,12 +172,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (7), [[Vue.js]] (6), [[CLI]] (6), [[JavaScript]] (4), [[npm]] (3)
 > **CLI Commands:** node (7), npm (3), find (2), make (2), yarn (2)
 > **File Paths:** node.js (7), vue.js (6)
 > **Env Vars:** cli (4), npm (3), html (2), css (2)
 > **Prerequisites:** install (5), set up (2), getting started (1)
 > **Tools:** vs code (2), visual studio (1)
-> **Code Keywords:** require (1), let (1)
 > **Versions:** version 12 (1), version 80 (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 
@@ -200,8 +200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[GitHub]] (1), [[Vue.js|Vue]] (1)
 > **Exercise Files:** exercise files (1), github repo (1)
-> **Code Keywords:** switch (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -240,13 +240,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), feature (1)
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Setting Up Testing Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the sample project
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980)
@@ -307,9 +308,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), next (2), [[GitHub]] (1), [[Git]] (1), hit (1)
 > **Tools:** terminal (3), command line (1), github (1)
 > **CLI Commands:** git (1), cd (1), npm (1)
-> **Code Keywords:** this, (1), while, (1)
 > **Env Vars:** mpm (1), npm (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Prerequisites:** install (2)
@@ -379,10 +380,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js]] (2), application (2), next (2), [[JavaScript]] (1)
 > **File Paths:** vue.js (2), chai.js (2), istanbul.js (2)
 > **Definitions:** is a  (4), is an  (1), known as (1)
 > **Prerequisites:** set up (1), setup (1)
-> **Code Keywords:** case. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -415,6 +416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), api (2), [[Angular]] (1), [[React.js|React]] (1), [[Vue.js]] (1)
 > **Env Vars:** api (2)
 > **File Paths:** vue.js (1)
 > **Cross-References:** previous video (1)
@@ -495,8 +497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (7), [[Vue.js|Vue]] (4), [[Vue.js]] (2), [[CLI]] (2), prompt (2)
 > **Prerequisites:** setup (4), install (2), configure (1)
-> **Code Keywords:** let (5), function (1)
 > **File Paths:** vue.js (2), eslint.rc.js (1), package.json (1)
 > **CLI Commands:** make (2), npm (1)
 > **Tools:** terminal (3)
@@ -507,7 +509,7 @@ created: 2026-04-29
 
 ### 2. Unit Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing and running Jest
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980)
@@ -544,9 +546,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (4), [[Vue.js]] (1), [[Git]] (1), [[JSON]] (1), [[CLI]] (1)
 > **CLI Commands:** npm (4), git (1)
 > **Env Vars:** npm (4), cli (1)
-> **Code Keywords:** let (2), while, (1), break, (1)
 > **Prerequisites:** install (2), set up (1)
 > **File Paths:** vue.js (1), package.json (1)
 > **Tools:** command line (1)
@@ -629,7 +631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), switch (2), continue (1), match. (1)
+> **Frameworks & Libraries:** [[Search]] (3), application (1), next (1)
 > **CLI Commands:** make (2)
 > **Tools:** command line (1), terminal (1)
 > **UI Navigation:** switch to (1)
@@ -753,7 +755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), switch (3), require (1), assert (1)
+> **Frameworks & Libraries:** next (3), data (1), [[npm]] (1), application (1), [[Programming]] (1)
 > **Versions:** 0.3 (3), 0.4 (1), 0.5 (1), 0.9 (1), 0.1 (1)
 > **Code Identifiers:** addnumbers (4), toequal (2), tobecloseto (1)
 > **Non-Speech:** (keyboard typing) (7)
@@ -845,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), this, (2)
+> **Frameworks & Libraries:** data (2), next (2), [[Search]] (2), [[CLI]] (1)
 > **Code Identifiers:** tocontain (3), objectcontaining (2), addnumbers (1), toequal (1)
 > **Tools:** command line (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -913,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (1), pass (1), this, (1), switch (1)
+> **Frameworks & Libraries:** next (1), [[CLI]] (1)
 > **File Paths:** organized.js (1)
 > **Env Vars:** cli (1)
 > **Tools:** command line (1)
@@ -998,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), async (11), let (3), await (3), assert (2)
+> **Frameworks & Libraries:** next (2), api (2), data (1), [[CLI]] (1), functional (1)
 > **Env Vars:** api (2), cli (1)
 > **CLI Commands:** make (2)
 > **File Paths:** async.js (1)
@@ -1089,7 +1091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (14), let (4), function (4), async (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[HTML]] (2), application (1), data (1)
 > **File Paths:** package.json (2), index.html (1), testmodule.js (1), async.js (1)
 > **UI Navigation:** open the (3), click on (2)
 > **Definitions:** is an  (2), means that (1)
@@ -1101,7 +1103,7 @@ created: 2026-04-29
 
 ### 3. Testing Vue Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mounting components using render
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980)
@@ -1208,7 +1210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), this. (1), throw (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (30), next (4), dom (3), application (2), [[JavaScript]] (1)
 > **Env Vars:** dom (3), esx (2), npm (1)
 > **Prerequisites:** install (5), set up (1)
 > **File Paths:** mount.js (3), jest.config (1)
@@ -1280,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), pass (2), throw (1), match, (1)
+> **Frameworks & Libraries:** [[Search]] (5), application (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** getbytext (2)
 > **File Paths:** mount.js (1)
 > **CLI Commands:** make (1)
@@ -1351,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), async (1), function (1), pass (1)
+> **Frameworks & Libraries:** [[Search]] (4), application (2), next (1)
 > **CLI Commands:** make (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
@@ -1359,7 +1361,7 @@ created: 2026-04-29
 
 ### 4. Debugging with Vue and Chrome Developer tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging errors using Chrome DevTools
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980)
@@ -1456,7 +1458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from. (1)
+> **Frameworks & Libraries:** application (5), [[Debugging]] (2), [[Statistics]] (1), [[Zoom]] (1), generic (1)
 > **UI Navigation:** open the (2), scroll down (1), click on (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -1512,10 +1514,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (8), [[Vue.js]] (5), [[Google]] (2), [[Debugging]] (1), [[Troubleshooting]] (1)
 > **File Paths:** vue.js (5)
 > **UI Navigation:** click on (1), go to (1), open the (1)
 > **Tools:** firefox (2)
-> **Code Keywords:** for. (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -1626,8 +1628,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (7), data (4), [[Vue.js]] (3), [[Debugging]] (2), [[Real-Time]] (2)
 > **File Paths:** vue.js (3)
-> **Code Keywords:** let (2), default, (1)
 > **Env Vars:** html (2), dom (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** for example (2), such as (1)
@@ -1722,7 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (2), function (2), case. (1)
+> **Frameworks & Libraries:** data (7), application (4), [[Vue.js]] (3), management (1), [[Web Development]] (1)
 > **CLI Commands:** make (3), find (1)
 > **File Paths:** vue.js (3)
 > **Definitions:** is a  (3)
@@ -1821,10 +1823,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Real-Time]] (2), front-end (1), [[Statistics]] (1), traffic (1)
 > **Env Vars:** cpu (8), fps (4)
 > **UI Navigation:** open the (3), click on (2), switch to (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (3), switch (1)
 > **Definitions:** is a  (2), stands for (1), known as (1)
 > **File Paths:** vue.js (1)
 > **Speakers:** - [instructor] (1)
@@ -1832,7 +1834,7 @@ created: 2026-04-29
 
 ### 5. Functional and Automated Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Cypress
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980)
@@ -1871,8 +1873,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), functional (2), [[Selenium]] (2), [[User Experience (UX)|User experience]] (1), feature (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** switch (1)
 > **Env Vars:** vjs (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -2004,7 +2006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), assert (2), case. (1), function (1), delete (1)
+> **Frameworks & Libraries:** application (5), node (4), [[npm]] (3), next (3), css (2)
 > **CLI Commands:** make (4), node (4), npm (3), npx (1)
 > **Env Vars:** npm (3), url (2), css (2), mpx (1), npx (1)
 > **UI Navigation:** click on (1), open the (1)
@@ -2136,7 +2138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (2), this, (1), finally, (1), protected (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (7), [[GitHub]] (6), next (5), application (4), ci (3)
 > **Tools:** github (6)
 > **CLI Commands:** npm (2), make (1), docker (1), node (1)
 > **UI Navigation:** click on (5)
@@ -2148,7 +2150,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980)
@@ -2173,9 +2175,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js]] (6), [[LinkedIn]] (2), [[Vue.js|Vue]] (1), functional (1), api (1)
 > **File Paths:** vue.js (6)
 > **CLI Commands:** find (2)
-> **Code Keywords:** interface (1)
 > **Env Vars:** api (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [fiyako] (1)

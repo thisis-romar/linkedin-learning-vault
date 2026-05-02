@@ -34,7 +34,7 @@ tags:
   - skill/tech-career-skills
   - skill/interview-preparation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Nail%20Your%20DevOps%20Interview.md)
@@ -53,53 +53,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Transform your career in DevOps
-  - What you should know
-  - DevOps vs. SRE vs. automation engineer
+  - [Transform your career in DevOps](#transform-your-career-in-devops)
+  - [What you should know](#what-you-should-know)
+  - [DevOps vs. SRE vs. automation engineer](#devops-vs-sre-vs-automation-engineer)
 - [**1. Interview Prep**](#1-interview-prep) (5 videos)
-  - Preparing for the interview
-  - Researching the opportunity
-  - Getting DevOps experience
-  - Certifications
-  - Methods for answering questions
+  - [Preparing for the interview](#preparing-for-the-interview)
+  - [Researching the opportunity](#researching-the-opportunity)
+  - [Getting DevOps experience](#getting-devops-experience)
+  - [Certifications](#certifications)
+  - [Methods for answering questions](#methods-for-answering-questions)
 - [**2. DevOps Business Practices Questions**](#2-devops-business-practices-questions) (9 videos)
-  - Defining DevOps
-  - The DevOps lifecycle
-  - Lean vs. agile vs. DevOps
-  - CI/CD
-  - Configuration management
-  - Monitoring and alerting
-  - Testing
-  - Challenge
-  - Solution
+  - [Defining DevOps](#defining-devops)
+  - [The DevOps lifecycle](#the-devops-lifecycle)
+  - [Lean vs. agile vs. DevOps](#lean-vs-agile-vs-devops)
+  - [CI/CD](#cicd)
+  - [Configuration management](#configuration-management)
+  - [Monitoring and alerting](#monitoring-and-alerting)
+  - [Testing](#testing)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**3. Common DevOps Skills**](#3-common-devops-skills) (8 videos)
-  - Operating systems
-  - Command line tools
-  - Scripting and programming
-  - Software version control
-  - Troubleshooting
-  - Incident management
-  - Security
-  - Practical uses for AI in DevOps roles
+  - [Operating systems](#operating-systems)
+  - [Command line tools](#command-line-tools)
+  - [Scripting and programming](#scripting-and-programming)
+  - [Software version control](#software-version-control)
+  - [Troubleshooting](#troubleshooting)
+  - [Incident management](#incident-management)
+  - [Security](#security)
+  - [Practical uses for AI in DevOps roles](#practical-uses-for-ai-in-devops-roles)
 - [**4. Cloud Services Questions**](#4-cloud-services-questions) (3 videos)
-  - Cloud services and their benefits
-  - Architecting cloud solutions
-  - Infrastructure as Code
+  - [Cloud services and their benefits](#cloud-services-and-their-benefits)
+  - [Architecting cloud solutions](#architecting-cloud-solutions)
+  - [Infrastructure as Code](#infrastructure-as-code)
 - [**5. Applications and Services Questions**](#5-applications-and-services-questions) (5 videos)
-  - Web servers
-  - Databases
-  - Containers
-  - Challenge
-  - Solution
+  - [Web servers](#web-servers)
+  - [Databases](#databases)
+  - [Containers](#containers)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**6. Wrapping Up Your Interview**](#6-wrapping-up-your-interview) (2 videos)
-  - Asking questions
-  - Following up
+  - [Asking questions](#asking-questions)
+  - [Following up](#following-up)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your career in DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/transform-your-career-in-devops-18731967?u=76281980)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** teams (1), [[Jenkins]] (1)
 > **Speakers:** - are (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
@@ -161,6 +161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (4), [[System Administration]] (1), [[Software Development]] (1), business (1), cloud (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** assuming you have (1)
 > **Speakers:** - for (1)
@@ -186,8 +187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Automation]] (1), [[Interviewing]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - if (1)
@@ -195,7 +196,7 @@ created: 2026-04-29
 
 ### 1. Interview Prep
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980)
@@ -290,8 +291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[Engineering]] (1), [[System Administration]] (1), [[Automation]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1), aws (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** aws (1)
 > **Versions:** 99.99 (1)
 > **Prerequisites:** make sure you have (1)
@@ -368,8 +369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** job description (2), [[Interviewing]] (2), product (2), next (1), [[Search]] (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** for. (1), for, (1), public (1)
 > **Speakers:** - if (1)
 
 #### Getting DevOps experience
@@ -427,8 +428,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (7), [[DevOps]] (6), cloud (2), [[DevOps Tools]] (2), [[Software Development]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** interface (1), public (1), finally, (1)
 > **Tools:** command line (2), github (1)
 > **Documentation:** the documentation (2)
 > **URLs:** [github.com](https://github.com) (1)
@@ -521,7 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2)
+> **Frameworks & Libraries:** [[DevOps]] (4), cloud (4), [[Interviewing]] (3), application (2), career (2)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), cis (1)
 > **Definitions:** in other words (1)
@@ -597,7 +598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), for, (1), for. (1)
+> **Frameworks & Libraries:** career (2), next (2), [[Interviewing]] (1)
 > **Env Vars:** thx (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -606,7 +607,7 @@ created: 2026-04-29
 
 ### 2. DevOps Business Practices Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980)
@@ -663,6 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (11), [[DevOps]] (9), [[Automation]] (4), [[Representational State Transfer (REST)|Rest]] (1), product (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - how (1), - this (1)
@@ -692,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), application (2), teams (1)
 > **Speakers:** - along (1)
 
 #### Lean vs. agile vs. DevOps
@@ -750,6 +752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), teams (6), [[DevOps]] (5), [[Software Development]] (3), application (3)
 > **Env Vars:** mvp (2)
 > **Definitions:** is an  (1), known as (1)
 > **Speakers:** - in (1), - you (1)
@@ -832,8 +835,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (8), cd (7), [[Continuous Integration (CI)|Continuous integration]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (5), application (4)
 > **CLI Commands:** cd (7), find (1), aws (1)
-> **Code Keywords:** self (3), let (2), case, (1)
 > **Env Vars:** thx (2), aws (1), dns (1)
 > **Definitions:** in other words (1), is a  (1), known as (1), is an  (1)
 > **Tools:** github (1), gitlab (1), bitbucket (1)
@@ -897,9 +900,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (9), [[Configuration Management]] (5), node (4), [[DevOps]] (2), [[Automation]] (1)
 > **CLI Commands:** ansible (9), node (4), ssh (1), ruby (1)
 > **Env Vars:** thx (2), yaml (2), ssh (1)
-> **Code Keywords:** let (1), require (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Speakers:** - what (1), - this (1)
 
@@ -962,8 +965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Performance Metrics]] (2), [[Real-Time]] (1), [[DevOps]] (1), teams (1), web application (1)
 > **Env Vars:** apm (3), thx (1), cpu (1)
-> **Code Keywords:** finally, (1), require (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - how (1), - this (1)
 > **Tools:** slack (1)
@@ -1012,9 +1015,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (4), [[Continuous Integration (CI)|Continuous integration]] (2), application (2), [[Test Automation]] (1), [[Test Automation Tools]] (1)
 > **Speakers:** - how (1), - testing (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 
@@ -1041,6 +1044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (2), cd (2), next (1)
 > **CLI Commands:** cd (2)
 > **Speakers:** - our (2)
 > **Cross-References:** in the next (1)
@@ -1101,8 +1105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[DevOps]] (1), application (1)
 > **CLI Commands:** docker (3), make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** cicd (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - this (1)
@@ -1111,7 +1115,7 @@ created: 2026-04-29
 
 ### 3. Common DevOps Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Operating systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980)
@@ -1160,7 +1164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), for. (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Interviewing]] (4), [[Windows]] (3), [[Ubuntu]] (3), web (2)
 > **Env Vars:** thx (1), dns (1)
 > **Speakers:** - tell (1), - being (1)
 > **Definitions:** is an  (1)
@@ -1250,8 +1254,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), web (5), [[Windows]] (4), [[DevOps]] (3), data (3)
 > **Tools:** command line (16), terminal (3)
-> **Code Keywords:** interface (3), require (2), finally, (1), for. (1)
 > **CLI Commands:** make (1), grep (1), sed (1), awk (1), curl (1)
 > **Env Vars:** thx (2), cpu (1), cli (1)
 > **Analogies:** for example (3)
@@ -1330,10 +1334,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Scripting]] (5), data (5), [[DevOps]] (3), [[JSON]] (2)
 > **CLI Commands:** python (6), ruby (3), aws (1)
 > **Env Vars:** thx (2), json (2), api (1), aws (1), cli (1)
 > **Tools:** bash (3), powershell (2)
-> **Code Keywords:** implements (1), require (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - can (1), - scripting (1)
 
@@ -1394,9 +1398,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (10), [[Version Control]] (4), [[GitHub]] (2), [[Software Development]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** git (10), find (1), make (1)
 > **Tools:** github (2), bitbucket (1), gitlab (1), command line (1)
-> **Code Keywords:** let (1), new, (1)
 > **Exercise Files:** source code (2)
 > **Speakers:** - what (1), - during (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -1468,8 +1472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (5), web (2), game (1), database (1), next (1)
 > **Speakers:** - here (1), - troubleshooting (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -1526,8 +1530,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), management (2), application (1), [[Google]] (1), [[DevOps]] (1)
 > **Speakers:** - describe (1), - during (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** rca (1)
 
 #### Security
@@ -1571,9 +1575,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), data (3), [[Tokens]] (1), application (1), [[Version Control]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cia (2), https (1)
-> **Code Keywords:** private (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - what (1), - this (1)
 
@@ -1662,8 +1666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[DevOps]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (2), prompt (2)
 > **Env Vars:** llm (1), gpt (1), yaml (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** cd (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -1674,7 +1678,7 @@ created: 2026-04-29
 
 ### 4. Cloud Services Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud services and their benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980)
@@ -1727,9 +1731,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), data (2), [[DevOps]] (2), [[Automation]] (2), [[Scalability]] (2)
 > **Analogies:** for example (2)
 > **Speakers:** - what (1), - right (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** thx (1)
 > **Definitions:** is a  (1)
 
@@ -1782,8 +1786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), business (2), teams (2), [[Solution Architecture]] (1), [[DevOps]] (1)
 > **CLI Commands:** make (1), aws (1)
-> **Code Keywords:** interface (1), let (1)
 > **Speakers:** - can (1), - to (1)
 > **Env Vars:** aws (1)
 
@@ -1854,18 +1858,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (13), cloud (7), [[Automation]] (3), [[Microsoft Azure|Azure]] (3), [[Version Control]] (2)
 > **Documentation:** specification (4)
 > **CLI Commands:** aws (2), terraform (1)
 > **Env Vars:** aws (2), thx (1)
 > **Analogies:** for example (2), similar to (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - what (1), - let (1)
 
 
 ### 5. Applications and Services Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Web servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980)
@@ -1910,9 +1914,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[Interviewing]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1), application (1)
 > **CLI Commands:** apache (13), nginx (12), php (1), python (1), find (1)
 > **Env Vars:** nginx (12), php (1), xml (1)
-> **Code Keywords:** static (3), interface (1), this, (1), case, (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
@@ -1962,10 +1966,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[Databases]] (8), [[NoSQL]] (6), data (5), [[Relational Databases]] (4)
 > **Prerequisites:** required to (1), install (1), set up (1)
 > **CLI Commands:** find (1), mysql (1)
 > **Analogies:** similar to (1), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - you (1)
 
 #### Containers
@@ -2043,7 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), private (1), public (1), for, (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), application (2), next (1), cloud (1), teams (1)
 > **Definitions:** is a  (7)
 > **CLI Commands:** docker (3)
 > **Env Vars:** thx (1)
@@ -2075,6 +2079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[Security]] (1), next (1)
 > **Speakers:** - describe (1), - time (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2155,7 +2160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), private (1), public (1)
+> **Frameworks & Libraries:** database (13), web (12), application (5), data (5), web application (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -2166,7 +2171,7 @@ created: 2026-04-29
 
 ### 6. Wrapping Up Your Interview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Asking questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980)
@@ -2207,7 +2212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1)
+> **Frameworks & Libraries:** [[Interviewing]] (3), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - do (1)
 
@@ -2242,12 +2247,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (3), [[Microsoft Office|Office]] (1)
 > **Speakers:** - i (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/next-steps-18730963?u=76281980)
@@ -2268,6 +2274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Interviewing]] (1), career (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - thanks (1)
 

@@ -36,7 +36,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompting%20ChatGPT%20with%20Multimodal%20Techniques.md)
@@ -55,20 +55,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Level up your prompting with Multimodal features
+  - [Level up your prompting with Multimodal features](#level-up-your-prompting-with-multimodal-features)
 - [**1. Multimodal Prompting with ChatGPT 4.5 Turbo**](#1-multimodal-prompting-with-chatgpt-45-turbo) (8 videos)
-  - ChatGPT Free versus ChatGPT Plus
-  - Dynamic AI prompts using mobile audio inputs
-  - Loading and utilizing data in AI prompts
-  - Interpreting images with AI
-  - Making data analysis easy with AI
-  - Visualizing data and conversations in AI
-  - Producing visual content with AI
-  - Custom GPTs
+  - [ChatGPT Free versus ChatGPT Plus](#chatgpt-free-versus-chatgpt-plus)
+  - [Dynamic AI prompts using mobile audio inputs](#dynamic-ai-prompts-using-mobile-audio-inputs)
+  - [Loading and utilizing data in AI prompts](#loading-and-utilizing-data-in-ai-prompts)
+  - [Interpreting images with AI](#interpreting-images-with-ai)
+  - [Making data analysis easy with AI](#making-data-analysis-easy-with-ai)
+  - [Visualizing data and conversations in AI](#visualizing-data-and-conversations-in-ai)
+  - [Producing visual content with AI](#producing-visual-content-with-ai)
+  - [Custom GPTs](#custom-gpts)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Level up your prompting with Multimodal features
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980)
@@ -91,9 +91,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Python (Programming Language)|Python]] (1), feature (1), web (1), [[Search]] (1)
 > **Env Vars:** gpt (3)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - the (1)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Multimodal Prompting with ChatGPT 4.5 Turbo
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ChatGPT Free versus ChatGPT Plus
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980)
@@ -176,9 +176,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (19), [[Microsoft Copilot|Copilot]] (3), [[Tokens]] (2), [[Microsoft Word|Word]] (2), [[Google]] (2)
 > **Env Vars:** gpt (3), dall (1)
 > **CLI Commands:** find (2), python (1)
-> **Code Keywords:** this, (1), let (1), finally, (1)
 > **Analogies:** imagine (1), it's like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - chatgpt (1)
@@ -280,7 +280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (3), case. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (2), [[GPT-4]] (2), [[Microsoft Products|Products]] (1), [[Market Research]] (1)
 > **Speakers:** - [chatgpt (2), - you (2), - a (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (2)
@@ -356,7 +356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), prompt (1), data (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
 
@@ -425,7 +425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[DALL-E]] (1), feature (1), [[Microsoft Office|Office]] (1), prompt (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dall (1)
 > **Definitions:** is a  (1)
@@ -465,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), web (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - chatgpt (1)
@@ -527,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), from, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), web (3), prompt (2), data (2), power (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** coming up (1)
@@ -597,8 +597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (5), ai (1)
 > **CLI Commands:** python (5), make (1)
-> **Code Keywords:** let (5)
 > **UI Navigation:** click on (2)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - one (1)
@@ -696,8 +696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), data (5), web (3), [[Python (Programming Language)|Python]] (2), hit (2)
 > **Env Vars:** gpt (10)
-> **Code Keywords:** let (2), this, (2), interface (1), continue (1), for. (1)
 > **CLI Commands:** python (2), make (2), find (1)
 > **Analogies:** just like (1), picture (1), similar to (1)
 > **UI Navigation:** go to (1)

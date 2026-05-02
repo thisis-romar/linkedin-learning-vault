@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/test-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Automation%20and%20Testing.md)
@@ -49,43 +49,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know
-  - Using the exercise files
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. What Is Automation Testing and Python-Selenium Framework?**](#1-what-is-automation-testing-and-python-selenium-framework) (5 videos)
-  - What is automated testing?
-  - Python-Selenium bindings
-  - A simple code example
-  - Cross-browser support
-  - Cross-browser support
+  - [What is automated testing?](#what-is-automated-testing)
+  - [Python-Selenium bindings](#python-selenium-bindings)
+  - [A simple code example](#a-simple-code-example)
+  - [Cross-browser support](#cross-browser-support)
+  - [Cross-browser support](#cross-browser-support)
 - [**2. Parsing the HTML DOM Structure**](#2-parsing-the-html-dom-structure) (11 videos)
-  - What is the HTML DOM structure?
-  - Locating elements by ID
-  - Locating elements by name
-  - Locating elements by XPath
-  - Locating elements by class
-  - Challenge
-  - Solution
-  - Challenge
-  - Solution
-  - Challenge
-  - Solution
+  - [What is the HTML DOM structure?](#what-is-the-html-dom-structure)
+  - [Locating elements by ID](#locating-elements-by-id)
+  - [Locating elements by name](#locating-elements-by-name)
+  - [Locating elements by XPath](#locating-elements-by-xpath)
+  - [Locating elements by class](#locating-elements-by-class)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**3. Navigating through Pages**](#3-navigating-through-pages) (5 videos)
-  - Page interaction
-  - Filling forms
-  - Drag and drop elements
-  - Challenge
-  - Solution
+  - [Page interaction](#page-interaction)
+  - [Filling forms](#filling-forms)
+  - [Drag and drop elements](#drag-and-drop-elements)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**4. Waits**](#4-waits) (3 videos)
-  - What are waits and why do we need them?
-  - Explicit waits
-  - Implicit waits
+  - [What are waits and why do we need them?](#what-are-waits-and-why-do-we-need-them)
+  - [Explicit waits](#explicit-waits)
+  - [Implicit waits](#implicit-waits)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980)
@@ -116,8 +116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Python (Programming Language)|Python]] (3), [[Test Automation]] (2), [[Selenium]] (2), [[Automation]] (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [bhoomika] (1)
 
 #### What you should know
@@ -149,10 +149,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[HTML]] (2), web (2), [[Windows]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (6)
 > **Env Vars:** html (2), idle (1)
 > **Prerequisites:** install (2), required to (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using the exercise files
@@ -191,13 +191,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Exercise Files:** exercise files (4)
-> **Code Keywords:** let (1), require (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. What Is Automation Testing and Python-Selenium Framework?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is automated testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980)
@@ -270,8 +269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Python (Programming Language)|Python]] (4), api (3), [[Test Automation]] (2), web (2)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (2), function (1)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -349,9 +348,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (19), [[Python (Programming Language)|Python]] (15), web (3), [[Windows]] (2), functional (1)
 > **CLI Commands:** python (15), pip (5)
 > **Prerequisites:** install (7)
-> **Code Keywords:** let (2)
 > **Tools:** firefox (2)
 > **Exercise Files:** exercise files (2)
 > **URLs:** [seleniumhq.org](https://seleniumhq.org) (1)
@@ -397,8 +396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Search]] (4), [[Selenium]] (2), [[Test Automation]] (1), [[Automation]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1), pass (1)
 > **Env Vars:** idle (1), html (1)
 > **UI Navigation:** go to (1), open the (1)
 > **URLs:** [python.org](https://python.org) (1)
@@ -487,8 +486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (4), web (2), [[Python (Programming Language)|Python]] (2), [[HTML]] (1), [[Windows]] (1)
 > **Tools:** firefox (9), safari (2)
-> **Code Keywords:** let (5), this, (1), this. (1)
 > **CLI Commands:** python (2), make (1)
 > **UI Navigation:** go to (3)
 > **URLs:** [readthedocs.io](https://readthedocs.io) (1), [seleniumhq.org](https://seleniumhq.org) (1)
@@ -566,7 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), switch (2), this. (2), module (1)
+> **Frameworks & Libraries:** [[Selenium]] (5), web (2), [[Windows]] (2), [[Automation]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** firefox (6), safari (2)
 > **UI Navigation:** go to (2), click on (1), switch to (1)
 > **Prerequisites:** install (2), set up (1)
@@ -577,7 +576,7 @@ created: 2026-04-29
 
 ### 2. Parsing the HTML DOM Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the HTML DOM structure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-is-the-html-dom-structure?u=76281980)
@@ -608,9 +607,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), dom (5), node (4), [[Document Object Model (DOM)|Document object model]] (2)
 > **Env Vars:** html (6), dom (5)
 > **CLI Commands:** node (4)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### Locating elements by ID
@@ -714,8 +713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (10), [[Python (Programming Language)|Python]] (5), web (5), [[Selenium]] (4), [[Test Automation]] (1)
 > **Env Vars:** html (10), idle (2)
-> **Code Keywords:** let (7), function (2), this, (1), this. (1)
 > **CLI Commands:** python (5)
 > **Tools:** firefox (4), sublime (1)
 > **Code Identifiers:** login_form (2), find_element_by_id (1)
@@ -768,8 +767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), [[Python (Programming Language)|Python]] (4), [[Selenium]] (2), [[Forms]] (1), data (1)
 > **CLI Commands:** python (4), find (1)
-> **Code Keywords:** let (3), this, (2)
 > **Env Vars:** html (4)
 > **Cross-References:** previous video (2)
 > **Speakers:** - [instructor] (1)
@@ -873,8 +872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), node (5), power (1), application (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (5), find (2), make (1), python (1)
-> **Code Keywords:** let (6), function (1), case, (1), module (1)
 > **Env Vars:** html (5), xml (3)
 > **Code Identifiers:** login_form_absolute (2), loginform (1), login_form (1), login_form_relative (1), find_element_by_xpath (1)
 > **Definitions:** stands for (1), is an  (1), is called (1), is a  (1)
@@ -932,7 +931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class, (2), delete (1), class. (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Python (Programming Language)|Python]] (2), css (1), [[Selenium]] (1)
 > **Env Vars:** html (4), css (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** login_form (1), find_element_by_class_name (1)
@@ -978,7 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** [[Selenium]] (3), next (1)
 > **URLs:** [seleniumhq.org](https://seleniumhq.org) (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1084,8 +1083,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[Selenium]] (4), [[Python (Programming Language)|Python]] (1), web (1), dom (1)
 > **CLI Commands:** find (13), python (1)
-> **Code Keywords:** let (7), this, (3), function (2), case, (1)
 > **UI Navigation:** navigate to (3), open the (2), select the (1), right-click (1)
 > **Env Vars:** dom (1), html (1)
 > **URLs:** [seleniumhq.org](https://seleniumhq.org) (1)
@@ -1123,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Selenium]] (5), next (1)
 > **URLs:** [selenium.dev](https://selenium.dev) (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
@@ -1237,7 +1236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (3), for, (2), this, (1)
+> **Frameworks & Libraries:** [[Selenium]] (6), next (2), [[HTML]] (1), [[Automation]] (1)
 > **CLI Commands:** find (6), make (1)
 > **Code Identifiers:** element_id (1), find_element_by_id (1), element_name (1), find_element_by_name (1), element_xpath (1)
 > **UI Navigation:** open the (2), navigate to (1), go to (1)
@@ -1279,8 +1278,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Search]] (1), next (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** let (3), this, (1)
 > **URLs:** [python.org](https://python.org) (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1373,7 +1372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), for, (3), this, (2), this. (1)
+> **Frameworks & Libraries:** web (4), [[Selenium]] (3), next (2), [[Python (Programming Language)|Python]] (2), [[Search]] (1)
 > **CLI Commands:** find (8), python (2), make (1)
 > **UI Navigation:** open the (1), navigate to (1), click on (1)
 > **Tools:** firefox (2)
@@ -1385,7 +1384,7 @@ created: 2026-04-29
 
 ### 3. Navigating through Pages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Page interaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980)
@@ -1448,7 +1447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (2), this, (1), delete (1), function (1)
+> **Frameworks & Libraries:** [[Search]] (11), [[Python (Programming Language)|Python]] (4), next (3), web (2), [[Automation]] (1)
 > **CLI Commands:** python (4), find (2)
 > **Non-Speech:** (keyboard clicking) (4), (clicking) (1)
 > **URLs:** [python.org](https://python.org) (3)
@@ -1579,7 +1578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (7), class. (3), continue (2), class, (2)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Selenium]] (4), web (2), next (2)
 > **Env Vars:** html (5), idle (2), ppt (1)
 > **Code Identifiers:** loginform (1), numreturnselect (1), select_by_index (1), select_by_value (1), find_element_by_name (1)
 > **UI Navigation:** go to (3), open the (1)
@@ -1657,7 +1656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (2), this, (2), function (2), interface (2)
+> **Frameworks & Libraries:** [[Selenium]] (4), [[Forms]] (1)
 > **UI Navigation:** drag and drop (10), open the (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** ide (1), url (1)
@@ -1697,8 +1696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Selenium]] (1)
 > **UI Navigation:** navigate to (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1827,7 +1826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (6), class. (2), module (1), function (1)
+> **Frameworks & Libraries:** [[Search]] (11), web (1), [[Selenium]] (1), next (1)
 > **Env Vars:** url (5), return (1)
 > **CLI Commands:** find (4), make (1)
 > **Code Identifiers:** find_element_by_id (1), send_keys (1), element_by_xpath (1)
@@ -1839,7 +1838,7 @@ created: 2026-04-29
 
 ### 4. Waits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are waits and why do we need them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980)
@@ -1878,7 +1877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** [[Automation]] (1), [[AJAX]] (1), [[Selenium]] (1), dom (1)
 > **Analogies:** such as (1), picture (1)
 > **Env Vars:** dom (1)
 > **Definitions:** is a  (1)
@@ -1961,7 +1960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try. (1), for. (1), module (1)
+> **Frameworks & Libraries:** next (2), [[Test Automation]] (1), [[Selenium]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Non-Speech:** (keyboard clicking) (4)
 > **CLI Commands:** python (1)
 > **URLs:** [python.org](https://python.org) (1)
@@ -2026,7 +2025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Non-Speech:** (keyboard clicking) (4)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** implicity_wait (1)
@@ -2036,7 +2035,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980)
@@ -2057,6 +2056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Selenium]] (3), [[Test Automation]] (2), web (1), dom (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** dom (1)
 > **Speakers:** - [bhoomika] (1)

@@ -26,7 +26,7 @@ tags:
   - topic/cloud-computing
   - skill/time-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20a%20Time%20Management%20Mindset.md)
@@ -45,33 +45,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Live and feel better with time management
-  - Make time management your superpower
-  - Change how you think about time
+  - [Live and feel better with time management](#live-and-feel-better-with-time-management)
+  - [Make time management your superpower](#make-time-management-your-superpower)
+  - [Change how you think about time](#change-how-you-think-about-time)
 - [**1. Use the Right Tools**](#1-use-the-right-tools) (4 videos)
-  - Why you only need three time management tools
-  - Learn to schedule your time effectively
-  - Build more effective calendar habits
-  - Create realistic to-do lists
+  - [Why you only need three time management tools](#why-you-only-need-three-time-management-tools)
+  - [Learn to schedule your time effectively](#learn-to-schedule-your-time-effectively)
+  - [Build more effective calendar habits](#build-more-effective-calendar-habits)
+  - [Create realistic to-do lists](#create-realistic-to-do-lists)
 - [**2. Reduce Information Overload**](#2-reduce-information-overload) (3 videos)
-  - Understand why time management is information management
-  - Tools for managing information overload
-  - Build your time management system
+  - [Understand why time management is information management](#understand-why-time-management-is-information-management)
+  - [Tools for managing information overload](#tools-for-managing-information-overload)
+  - [Build your time management system](#build-your-time-management-system)
 - [**3. How to Prioritize**](#3-how-to-prioritize) (3 videos)
-  - Tune into your chronotype to better manage time
-  - Learn how to prioritize when things get hectic
-  - Automate prioritization
+  - [Tune into your chronotype to better manage time](#tune-into-your-chronotype-to-better-manage-time)
+  - [Learn how to prioritize when things get hectic](#learn-how-to-prioritize-when-things-get-hectic)
+  - [Automate prioritization](#automate-prioritization)
 - [**4. How to Make It Stick**](#4-how-to-make-it-stick) (4 videos)
-  - Implement meta-time management
-  - Use time management tools to form habits
-  - Beat the out-of-sight, out-of-mind effect
-  - Leverage your motivation
+  - [Implement meta-time management](#implement-meta-time-management)
+  - [Use time management tools to form habits](#use-time-management-tools-to-form-habits)
+  - [Beat the out-of-sight, out-of-mind effect](#beat-the-out-of-sight-out-of-mind-effect)
+  - [Leverage your motivation](#leverage-your-motivation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Time management is a mirror
+  - [Time management is a mirror](#time-management-is-a-mirror)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Live and feel better with time management
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/live-and-feel-better-with-time-management?u=76281980)
@@ -100,8 +100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - no (1)
 
 #### Make time management your superpower
@@ -151,8 +151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - let (1)
 
 #### Change how you think about time
@@ -236,7 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), try, (1), throw (1), finally, (1), self (1)
+> **Frameworks & Libraries:** management (8)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - i (1)
@@ -244,7 +244,7 @@ created: 2026-04-29
 
 ### 1. Use the Right Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why you only need three time management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/why-you-only-need-three-time-management-tools?u=76281980)
@@ -311,6 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - i (1)
@@ -422,7 +423,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), for. (1), switch (1), else, (1)
 > **UI Navigation:** switch to (1), drag and drop (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
@@ -519,7 +519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), this. (1), for, (1), switch (1)
+> **Frameworks & Libraries:** next (3), [[Google]] (1)
 > **Cross-References:** we discussed (1), in the next (1), we talked about (1), next video (1)
 > **Analogies:** think of it like (1), picture (1)
 > **CLI Commands:** make (1)
@@ -604,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1)
+> **Frameworks & Libraries:** management (2), [[Google]] (2), next (2), feature (1)
 > **Env Vars:** xyz (1)
 > **Definitions:** short for (1)
 > **Analogies:** imagine (1)
@@ -613,7 +613,7 @@ created: 2026-04-29
 
 ### 2. Reduce Information Overload
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand why time management is information management
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/understand-why-time-management-is-information-management?u=76281980)
@@ -654,8 +654,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - imagine (1)
@@ -753,7 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), self (1), super (1), this. (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[OneNote]] (1), data (1), [[Search]] (1), next (1)
 > **CLI Commands:** snap (1), find (1)
 > **Cross-References:** next video (1)
 > **Tools:** notion (1)
@@ -852,15 +852,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), next (2), [[Google]] (1), [[OneNote]] (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (4), else. (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - here (1)
 
 
 ### 3. How to Prioritize
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tune into your chronotype to better manage time
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980)
@@ -937,7 +937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Financial Analysis]] (1), [[Google]] (1)
 > **Env Vars:** meq (2)
 > **Cross-References:** later in (1)
 > **Definitions:** stands for (1)
@@ -1027,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (3), management (1), [[OneNote]] (1)
 > **Analogies:** imagine (1), it's like (1), for instance (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - there (1)
@@ -1103,7 +1103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), new. (1)
+> **Frameworks & Libraries:** management (1), [[Google]] (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** think of it as (1)
 > **Prerequisites:** set up (1)
@@ -1112,7 +1112,7 @@ created: 2026-04-29
 
 ### 4. How to Make It Stick
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement meta-time management
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/implement-meta-time-management?u=76281980)
@@ -1195,8 +1195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), ai (3), [[OneNote]] (1), [[Google]] (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (2), self (1), this. (1)
 > **Analogies:** just like (1), for instance (1), think of it as (1)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** go to (1)
@@ -1282,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** management (2), [[Google]] (2), [[Automation]] (2), game (1), [[Android]] (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Ports:** :00 (2)
 > **Analogies:** for example (1), for instance (1)
@@ -1356,8 +1356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Android]] (1), [[Google]] (1), [[OneNote]] (1), [[Search]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** iphone (1)
 > **Analogies:** it's like (1)
 > **Warnings:** keep in mind (1)
@@ -1463,7 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Security]] (1), leadership (1), career (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** woop (1)
 > **Analogies:** think of it as (1)
@@ -1472,7 +1472,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time management is a mirror
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/time-management-is-a-mirror?u=76281980)
@@ -1537,8 +1537,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (9), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), finally, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - people (1)
 

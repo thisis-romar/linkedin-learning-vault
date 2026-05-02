@@ -30,7 +30,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20In%20Excel%20Getting%20Started%20With%20Data%20Analysis.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Two great technologies together at last
-  - What you should know
-  - Getting set up
+  - [Two great technologies together at last](#two-great-technologies-together-at-last)
+  - [What you should know](#what-you-should-know)
+  - [Getting set up](#getting-set-up)
 - [**1. The Basics**](#1-the-basics) (7 videos)
-  - A simple example
-  - Python vs. Excel data types
-  - The xl() function
-  - Understanding row-order execution
-  - Debugging
-  - Challenge: Basics
-  - Solution: Basics
+  - [A simple example](#a-simple-example)
+  - [Python vs. Excel data types](#python-vs-excel-data-types)
+  - [The xl() function](#the-xl-function)
+  - [Understanding row-order execution](#understanding-row-order-execution)
+  - [Debugging](#debugging)
+  - [Challenge: Basics](#challenge-basics)
+  - [Solution: Basics](#solution-basics)
 - [**2. Working with Data**](#2-working-with-data) (6 videos)
-  - Introduction to DataFrames
-  - Exploring DataFrame content
-  - Manipulating DataFrames
-  - Interoperating with Python
-  - Challenge: DataFrames
-  - Solution: DataFrames
+  - [Introduction to DataFrames](#introduction-to-dataframes)
+  - [Exploring DataFrame content](#exploring-dataframe-content)
+  - [Manipulating DataFrames](#manipulating-dataframes)
+  - [Interoperating with Python](#interoperating-with-python)
+  - [Challenge: DataFrames](#challenge-dataframes)
+  - [Solution: DataFrames](#solution-dataframes)
 - [**3. Practical Python-in-Excel Examples**](#3-practical-python-in-excel-examples) (5 videos)
-  - Fixing dates with dateutil
-  - Generate a random sequence
-  - Scatter plot with Seaborn
-  - Create a Gantt chart
-  - Extract data with regular expressions
+  - [Fixing dates with dateutil](#fixing-dates-with-dateutil)
+  - [Generate a random sequence](#generate-a-random-sequence)
+  - [Scatter plot with Seaborn](#scatter-plot-with-seaborn)
+  - [Create a Gantt chart](#create-a-gantt-chart)
+  - [Extract data with regular expressions](#extract-data-with-regular-expressions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Two great technologies together at last
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980)
@@ -103,8 +103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2), [[Programming]] (2), power (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** require (1), let (1)
 > **Speakers:** - are (1)
 
 #### What you should know
@@ -132,6 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (5), [[Programming]] (1), data (1)
 > **CLI Commands:** python (5)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -184,8 +185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), [[Microsoft]] (3), feature (2), [[Windows]] (1)
 > **CLI Commands:** python (3), find (1), unzip (1)
-> **Code Keywords:** let (2), this, (1), this. (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Env Vars:** zip (1)
 > **Cross-References:** go back to (1)
@@ -196,7 +197,7 @@ created: 2026-04-29
 
 ### 1. The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A simple example
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980)
@@ -345,8 +346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (35), [[Microsoft Excel|Excel]] (10), next (2), [[Pandas (Software)|Pandas]] (1), data (1)
 > **CLI Commands:** python (35), make (2), find (1)
-> **Code Keywords:** let (13), function (5), this, (2), default, (1), else. (1)
 > **UI Navigation:** click on (6), select the (1), dropdown (1)
 > **Prerequisites:** initialization (3)
 > **Cross-References:** later in (2)
@@ -491,7 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), type. (2), function (2), module (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[Microsoft Excel|Excel]] (19), data (10), next (1)
 > **CLI Commands:** python (19), make (2), find (1)
 > **Env Vars:** e13 (2), rgb (2), c13 (1), c18 (1), g13 (1)
 > **UI Navigation:** scroll down (2), dropdown (2), click on (2), select the (1)
@@ -621,7 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (7), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (6), data (6), [[Pandas (Software)|Pandas]] (3)
 > **CLI Commands:** python (12), make (2)
 > **UI Navigation:** click on (3), scroll down (1), select the (1), dropdown (1)
 > **Cross-References:** later in (2), as we saw (1), previous video (1)
@@ -703,8 +704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Microsoft Excel|Excel]] (3), feature (1), [[Programming]] (1)
 > **CLI Commands:** python (10), make (3)
-> **Code Keywords:** let (6), this, (2), case, (2), import. (1)
 > **Analogies:** for example (6), such as (1)
 > **Definitions:** is a  (2), refers to (1), is called (1)
 > **Cross-References:** go back to (2)
@@ -816,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), module (4), this. (3), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Microsoft Excel|Excel]] (5), cloud (2), [[Software Development]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (15), make (2)
 > **Env Vars:** spill (1), python (1), connect (1), busy (1)
 > **Warnings:** troubleshoot (2), warning (2)
@@ -856,7 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), try. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), data (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -938,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (7)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), data (1), [[Programming]] (1)
 > **CLI Commands:** python (5), make (1)
 > **Warnings:** gotcha (1)
 > **Speakers:** - [instructor] (1)
@@ -947,7 +948,7 @@ created: 2026-04-29
 
 ### 2. Working with Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980)
@@ -998,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), case, (1)
+> **Frameworks & Libraries:** data (19), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), feature (1)
 > **CLI Commands:** python (3), make (2)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Env Vars:** api (1)
@@ -1169,7 +1170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), function (13), this, (1), type. (1), this. (1)
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (8), make (2)
 > **Env Vars:** d24 (2), e18 (1), h13 (1), g24 (1), d29 (1)
 > **Analogies:** similar to (2), such as (1), for example (1)
@@ -1347,7 +1348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (18), pass (6), this, (2), for. (2)
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), [[Pandas (Software)|Pandas]] (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (6), python (5), find (1)
 > **Analogies:** kind of like (1), for example (1), imagine (1)
 > **Code Identifiers:** sort_values (2)
@@ -1516,7 +1517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (10), pass (6), require (1), case, (1)
+> **Frameworks & Libraries:** data (37), [[Python (Programming Language)|Python]] (24), [[Pandas (Software)|Pandas]] (5), [[JSON]] (4), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** python (24), make (11)
 > **Env Vars:** json (4), df1 (1), df2 (1), df3 (1)
 > **Analogies:** for example (3), such as (1)
@@ -1576,7 +1577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (4), [[Search]] (3), feature (2), [[Programming]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1665,7 +1666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (4), pass (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (4), data (2), [[Microsoft Excel|Excel]] (1), [[Programming]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1673,7 +1674,7 @@ created: 2026-04-29
 
 ### 3. Practical Python-in-Excel Examples
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fixing dates with dateutil
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/fixing-dates-with-dateutil?u=76281980)
@@ -1770,7 +1771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5), this. (2), module (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (15), [[Python (Programming Language)|Python]] (11), data (11), hit (1), next (1)
 > **CLI Commands:** python (11), make (4)
 > **Code Identifiers:** dateutil_start (1), dates_col (1)
 > **Tools:** anaconda (2)
@@ -1888,7 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (5), case, (1), pass (1), from. (1)
+> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (3), next (3)
 > **CLI Commands:** python (7), make (2)
 > **Cross-References:** previous video (1), earlier in (1)
 > **Code Identifiers:** bands_filt (1)
@@ -2010,8 +2011,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (7), python (4), find (1)
-> **Code Keywords:** let (7), function (2)
 > **UI Navigation:** click on (2), scroll down (2), go to (1), right-click (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (2)
@@ -2202,7 +2203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (3), module (2), this. (1), type. (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), [[Python (Programming Language)|Python]] (4), management (1)
 > **CLI Commands:** make (5), python (4)
 > **Code Identifiers:** set_title (2), set_xlabel (1), set_major_formatter (1)
 > **Env Vars:** b11 (1), plt (1)
@@ -2330,7 +2331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (6), this, (2), module (1), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), data (4), [[Microsoft Excel|Excel]] (2), power (1)
 > **CLI Commands:** python (12), make (1)
 > **Code Identifiers:** extract_nums (5), num_df (1), to_list (1)
 > **Env Vars:** b12 (1), c12 (1)
@@ -2342,7 +2343,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/next-steps?u=76281980)
@@ -2365,6 +2366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), power (1), data (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - [joe] (1)
 

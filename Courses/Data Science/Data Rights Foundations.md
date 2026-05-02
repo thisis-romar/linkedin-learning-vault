@@ -24,7 +24,7 @@ tags:
   - skill/data-privacy
   - skill/personal-data-protection
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Rights%20Foundations.md)
@@ -43,37 +43,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Overview of data rights
-  - What you should know
+  - [Overview of data rights](#overview-of-data-rights)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction**](#1-introduction) (5 videos)
-  - What are data rights?
-  - How can they be monitored?
-  - How can they be questioned?
-  - Challenge: Research local policy
-  - Solution: Research local policy
+  - [What are data rights?](#what-are-data-rights)
+  - [How can they be monitored?](#how-can-they-be-monitored)
+  - [How can they be questioned?](#how-can-they-be-questioned)
+  - [Challenge: Research local policy](#challenge-research-local-policy)
+  - [Solution: Research local policy](#solution-research-local-policy)
 - [**2. Global Policies**](#2-global-policies) (6 videos)
-  - Global best practice
-  - Common examples
-  - Common formats
-  - Request process
-  - Challenge: Intercontinental policy
-  - Solution: Intercontinental policy
+  - [Global best practice](#global-best-practice)
+  - [Common examples](#common-examples)
+  - [Common formats](#common-formats)
+  - [Request process](#request-process)
+  - [Challenge: Intercontinental policy](#challenge-intercontinental-policy)
+  - [Solution: Intercontinental policy](#solution-intercontinental-policy)
 - [**3. Data Types and Data Rights**](#3-data-types-and-data-rights) (4 videos)
-  - Data elements
-  - Data tracking
-  - Challenge: Format details
-  - Solution: Format details
+  - [Data elements](#data-elements)
+  - [Data tracking](#data-tracking)
+  - [Challenge: Format details](#challenge-format-details)
+  - [Solution: Format details](#solution-format-details)
 - [**4. Data Protection and Security**](#4-data-protection-and-security) (4 videos)
-  - Protection from data leaks
-  - Security practices
-  - Challenge: Research protection sites
-  - Solution: Research protection sites
+  - [Protection from data leaks](#protection-from-data-leaks)
+  - [Security practices](#security-practices)
+  - [Challenge: Research protection sites](#challenge-research-protection-sites)
+  - [Solution: Research protection sites](#solution-research-protection-sites)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Actions you can take
+  - [Actions you can take](#actions-you-can-take)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data rights
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/overview-of-data-rights?u=76281980)
@@ -110,7 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** data (10), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -130,13 +130,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), ai (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are data rights?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980)
@@ -203,8 +204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Privacy]] (13), [[Microsoft Products|Products]] (2), [[Security]] (1), business (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), protected (1)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
@@ -241,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** data (3), [[Privacy]] (1), [[LinkedIn]] (1), [[Google]] (1), [[Search]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -298,8 +299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Security]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** return. (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -318,6 +319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -341,8 +343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Privacy]] (5), [[Google]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** private (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -350,7 +352,7 @@ created: 2026-04-29
 
 ### 2. Global Policies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Global best practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980)
@@ -403,6 +405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Privacy]] (6), application (1)
 > **Env Vars:** gdpr (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -448,10 +451,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Privacy]] (1), [[Security]] (1)
 > **Definitions:** means that (2), basically means (1), is an  (1)
 > **Env Vars:** gdpr (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [narrator] (1)
 
 #### Common formats
@@ -483,6 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Forms]] (1), [[JSON]] (1)
 > **Env Vars:** json (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -516,8 +520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Privacy]] (1), web (1)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** this. (1), interface (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -535,6 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
@@ -565,6 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Google]] (1)
 > **Env Vars:** gdpr (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -573,7 +579,7 @@ created: 2026-04-29
 
 ### 3. Data Types and Data Rights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980)
@@ -630,7 +636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (1)
+> **Frameworks & Libraries:** data (12), [[Metadata]] (2), [[Big Data]] (1), cloud (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cctv (1)
@@ -687,7 +693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), case. (1), this, (1)
+> **Frameworks & Libraries:** data (12), [[Google]] (2), [[Security]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -704,8 +710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
@@ -738,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3)
+> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
@@ -747,7 +753,7 @@ created: 2026-04-29
 
 ### 4. Data Protection and Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protection from data leaks
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980)
@@ -788,6 +794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), management (2), [[Privacy]] (1), [[Security]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** basically means (1)
 > **Speakers:** - [instructor] (1)
@@ -829,6 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Phishing]] (1), [[Windows]] (1), cloud (1), [[Google]] (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** usb (1)
@@ -848,6 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), data (2)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -885,6 +894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Security]] (3)
 > **CLI Commands:** find (3)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
@@ -893,7 +903,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Actions you can take
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/actions-you-can-take?u=76281980)
@@ -916,7 +926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (5), [[Security]] (1)
 > **Speakers:** - [narrator] (1)
 
 

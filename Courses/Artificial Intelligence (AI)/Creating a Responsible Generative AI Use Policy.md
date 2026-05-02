@@ -19,7 +19,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Creating%20a%20Responsible%20Generative%20AI%20Use%20Policy.md)
@@ -38,38 +38,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Creating an effective policy for responsible AI adoption
-  - What to know before starting this course
+  - [Creating an effective policy for responsible AI adoption](#creating-an-effective-policy-for-responsible-ai-adoption)
+  - [What to know before starting this course](#what-to-know-before-starting-this-course)
 - [**1. Understanding the Need**](#1-understanding-the-need) (3 videos)
-  - The rise of generative AI in the workplace
-  - Risks and challenges of unregulated AI use
-  - The role of a generative AI policy
+  - [The rise of generative AI in the workplace](#the-rise-of-generative-ai-in-the-workplace)
+  - [Risks and challenges of unregulated AI use](#risks-and-challenges-of-unregulated-ai-use)
+  - [The role of a generative AI policy](#the-role-of-a-generative-ai-policy)
 - [**2. Laying the Groundwork**](#2-laying-the-groundwork) (3 videos)
-  - Assessing your company's AI readiness
-  - Identifying key stakeholders
-  - Aligning AI policy with company values and goals
+  - [Assessing your company's AI readiness](#assessing-your-companys-ai-readiness)
+  - [Identifying key stakeholders](#identifying-key-stakeholders)
+  - [Aligning AI policy with company values and goals](#aligning-ai-policy-with-company-values-and-goals)
 - [**3. Core AI Policy Components**](#3-core-ai-policy-components) (4 videos)
-  - Define acceptable use cases
-  - Data privacy and security measures
-  - Intellectual property considerations
-  - Vendor and tool assessment criteria
+  - [Define acceptable use cases](#define-acceptable-use-cases)
+  - [Data privacy and security measures](#data-privacy-and-security-measures)
+  - [Intellectual property considerations](#intellectual-property-considerations)
+  - [Vendor and tool assessment criteria](#vendor-and-tool-assessment-criteria)
 - [**4. AI Policy Development and Roll Out**](#4-ai-policy-development-and-roll-out) (3 videos)
-  - Drafting the policy document
-  - The review and approval process
-  - Communication and training strategies
+  - [Drafting the policy document](#drafting-the-policy-document)
+  - [The review and approval process](#the-review-and-approval-process)
+  - [Communication and training strategies](#communication-and-training-strategies)
 - [**5. AI Use Monitoring and Policy Enforcement**](#5-ai-use-monitoring-and-policy-enforcement) (3 videos)
-  - Establishing monitoring mechanisms
-  - Your AI ethics committee
-  - Enforcement and consequences
+  - [Establishing monitoring mechanisms](#establishing-monitoring-mechanisms)
+  - [Your AI ethics committee](#your-ai-ethics-committee)
+  - [Enforcement and consequences](#enforcement-and-consequences)
 - [**6. A Living Document**](#6-a-living-document) (2 videos)
-  - Staying current with tech
-  - Adapting to regulatory changes
+  - [Staying current with tech](#staying-current-with-tech)
+  - [Adapting to regulatory changes](#adapting-to-regulatory-changes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps on the path to success with AI
+  - [Next steps on the path to success with AI](#next-steps-on-the-path-to-success-with-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an effective policy for responsible AI adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/creating-an-effective-policy-for-responsible-ai-adoption-24919276?u=76281980)
@@ -90,7 +90,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), ai (2), management (1)
 > **Speakers:** - generative (1)
 
 #### What to know before starting this course
@@ -126,13 +126,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Automation]] (1), [[Forms]] (1)
 > **Speakers:** - the (1)
 
 
 ### 1. Understanding the Need
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The rise of generative AI in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980)
@@ -207,9 +207,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (5), ai (4), [[Statistical Analysis]] (2), data (2), [[Content Creation]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - from (1)
 
@@ -286,8 +286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Generative AI]] (8), data (6), [[Privacy]] (2), [[Security]] (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), raise (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -364,14 +364,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (9), ai (8), [[Accountability]] (3), data (2), [[Privacy]] (2)
 > **Analogies:** it's like (2), picture (1)
-> **Code Keywords:** this, (1), public (1)
 > **Speakers:** - picture (1)
 
 
 ### 2. Laying the Groundwork
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing your company's AI readiness
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980)
@@ -460,9 +460,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), data (8), [[Security]] (2), [[Human Resources (HR)|Human resources]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** else. (1)
 > **Env Vars:** swot (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** you'll need (1)
@@ -571,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Generative AI]] (4), data (3), functional (2), hr (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** if, (1), let (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - involving (1)
@@ -626,7 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), for. (1), public (1), let (1), protected (1)
+> **Frameworks & Libraries:** ai (6), [[Generative AI]] (3), data (2), management (1), business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -636,7 +636,7 @@ created: 2026-04-29
 
 ### 3. Core AI Policy Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define acceptable use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980)
@@ -717,8 +717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Generative AI]] (5), data (3), management (2), teams (1)
 > **CLI Commands:** rails (1), find (1)
-> **Code Keywords:** protected (1)
 > **Env Vars:** gpt (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -844,12 +844,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (37), ai (21), [[Ethics]] (9), [[Privacy]] (6), [[Security]] (5)
 > **Env Vars:** hipaa (1), gdpr (1), ccpa (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Definitions:** refers to (2)
 > **Best Practices:** the key is (1), don't forget (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -922,8 +922,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Generative AI]] (5), data (3), [[ChatGPT]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** protected (1)
 > **Analogies:** just like (1)
 > **Warnings:** caution (1)
 > **Prerequisites:** you'll need (1)
@@ -1000,14 +1000,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1), require (1)
+> **Frameworks & Libraries:** ai (11), [[Generative AI]] (2), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), feature (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. AI Policy Development and Roll Out
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Drafting the policy document
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/drafting-the-policy-document-24917282?u=76281980)
@@ -1078,6 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (1), [[Privacy]] (1), [[Security]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1225,7 +1226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), static (1), raise (1), case. (1)
+> **Frameworks & Libraries:** ai (9), next (2), data (2), hit (1), hr (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -1305,15 +1306,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), leadership (2), game (1), [[Decision-Making]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** abstract (1), super (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. AI Use Monitoring and Policy Enforcement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing monitoring mechanisms
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980)
@@ -1430,7 +1431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), public (1)
+> **Frameworks & Libraries:** ai (8), [[Responsible AI]] (2), [[Accountability]] (2), [[Microsoft Copilot]] (2), [[Microsoft Copilot|Copilot]] (2)
 > **Prerequisites:** you need to have (2)
 > **UI Navigation:** checkbox (1)
 > **Definitions:** is an  (1)
@@ -1483,6 +1484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Ethics]] (6), [[Representational State Transfer (REST)|Rest]] (2), [[Responsible AI]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dna (1)
 > **Definitions:** in other words (1)
@@ -1547,9 +1549,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Privacy]] (2), [[Microsoft Word|Word]] (1), web (1), [[Entrepreneurship]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you need to have (1), set up (1), you'll need (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -1557,7 +1559,7 @@ created: 2026-04-29
 
 ### 6. A Living Document
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Staying current with tech
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980)
@@ -1616,6 +1618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Generative AI]] (1), [[Ethics]] (1), [[Newsletters]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1675,7 +1678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), assert (1), for. (1)
+> **Frameworks & Libraries:** ai (4), power (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
@@ -1684,7 +1687,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps on the path to success with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980)
@@ -1749,8 +1752,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), business (1), [[LinkedIn]] (1), [[Accountability]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)

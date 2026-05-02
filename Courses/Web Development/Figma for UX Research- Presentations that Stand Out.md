@@ -31,7 +31,7 @@ tags:
   - topic/web-development
   - skill/figma-software
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Figma%20for%20UX%20Research-%20Presentations%20that%20Stand%20Out.md)
@@ -50,49 +50,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Figma for UX researchers
-  - What you should know
+  - [Figma for UX researchers](#figma-for-ux-researchers)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Started in Figma**](#1-getting-started-in-figma) (3 videos)
-  - Creating your first Figma project
-  - Overview of a Figma design file
-  - Importing assets and ideas into Figma
+  - [Creating your first Figma project](#creating-your-first-figma-project)
+  - [Overview of a Figma design file](#overview-of-a-figma-design-file)
+  - [Importing assets and ideas into Figma](#importing-assets-and-ideas-into-figma)
 - [**2. Title Slides**](#2-title-slides) (5 videos)
-  - Using frames
-  - Working with text in Figma, part 1
-  - Working with text in Figma, part 2
-  - Working with shapes in Figma
-  - Working with images in Figma
+  - [Using frames](#using-frames)
+  - [Working with text in Figma, part 1](#working-with-text-in-figma-part-1)
+  - [Working with text in Figma, part 2](#working-with-text-in-figma-part-2)
+  - [Working with shapes in Figma](#working-with-shapes-in-figma)
+  - [Working with images in Figma](#working-with-images-in-figma)
 - [**3. Agenda Slides**](#3-agenda-slides) (3 videos)
-  - Working with image masks in Figma
-  - Creating bulleted lists in Figma
-  - Grouping and lines in Figma
+  - [Working with image masks in Figma](#working-with-image-masks-in-figma)
+  - [Creating bulleted lists in Figma](#creating-bulleted-lists-in-figma)
+  - [Grouping and lines in Figma](#grouping-and-lines-in-figma)
 - [**4. Methodology Slides**](#4-methodology-slides) (3 videos)
-  - Creating a timeline with key steps in Figma, part 1
-  - Creating a timeline with key steps in Figma, part 2
-  - Exploring different Figma effects and styles
+  - [Creating a timeline with key steps in Figma, part 1](#creating-a-timeline-with-key-steps-in-figma-part-1)
+  - [Creating a timeline with key steps in Figma, part 2](#creating-a-timeline-with-key-steps-in-figma-part-2)
+  - [Exploring different Figma effects and styles](#exploring-different-figma-effects-and-styles)
 - [**5. Participant Demographics**](#5-participant-demographics) (3 videos)
-  - Create tables with columns in Figma
-  - Creating infographics in Figma
-  - Adding participant faces for empathy
+  - [Create tables with columns in Figma](#create-tables-with-columns-in-figma)
+  - [Creating infographics in Figma](#creating-infographics-in-figma)
+  - [Adding participant faces for empathy](#adding-participant-faces-for-empathy)
 - [**6. Presenting Quantitative Data**](#6-presenting-quantitative-data) (6 videos)
-  - Creating bar charts in Figma
-  - Creating line charts in Figma
-  - Creating pie and donut charts in Figma
-  - Creating pie and donut charts in Figma Part II
-  - Emphasizing key data in your slides
-  - Using Figma plugins
+  - [Creating bar charts in Figma](#creating-bar-charts-in-figma)
+  - [Creating line charts in Figma](#creating-line-charts-in-figma)
+  - [Creating pie and donut charts in Figma](#creating-pie-and-donut-charts-in-figma)
+  - [Creating pie and donut charts in Figma Part II](#creating-pie-and-donut-charts-in-figma-part-ii)
+  - [Emphasizing key data in your slides](#emphasizing-key-data-in-your-slides)
+  - [Using Figma plugins](#using-figma-plugins)
 - [**7. Presenting Qualitative Data**](#7-presenting-qualitative-data) (2 videos)
-  - Annotating screenshots in Figma
-  - Creating quote bubbles in Figma
+  - [Annotating screenshots in Figma](#annotating-screenshots-in-figma)
+  - [Creating quote bubbles in Figma](#creating-quote-bubbles-in-figma)
 - [**8. Final Touches**](#8-final-touches) (2 videos)
-  - Creating titles and page numbers transition slides
-  - Creating titles and page numbers transition slides Part II
+  - [Creating titles and page numbers transition slides](#creating-titles-and-page-numbers-transition-slides)
+  - [Creating titles and page numbers transition slides Part II](#creating-titles-and-page-numbers-transition-slides-part-ii)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Export and smooth sailing
+  - [Export and smooth sailing](#export-and-smooth-sailing)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Figma for UX researchers
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/figma-for-ux-researchers?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (3), data (3), teams (1), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
 > **Prerequisites:** make sure you have (1)
@@ -137,13 +138,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), [[Figma (Software)|Figma]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Google]] (1)
 > **Tools:** figma (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Started in Figma
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your first Figma project
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980)
@@ -370,9 +372,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (26), web (6), teams (6), application (4), [[Search]] (3)
 > **Tools:** figma (26)
 > **UI Navigation:** click on (5), go to (3), dropdown (2)
-> **Code Keywords:** let (2), switch (1), this, (1), this. (1), delete (1)
 > **Analogies:** for example (1), such as (1), just like (1)
 > **CLI Commands:** make (2)
 > **URLs:** [figma.com](https://figma.com) (2)
@@ -552,7 +554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (2), delete (1), default. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), next (7), ux (3), [[Google]] (1), web (1)
 > **Tools:** figma (7)
 > **UI Navigation:** click on (3), right-click (1)
 > **Analogies:** similar to (2), such as (1), just like (1)
@@ -818,7 +820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (2), this, (2)
+> **Frameworks & Libraries:** data (6), [[Figma (Software)|Figma]] (6), [[Zoom]] (4), business (2), ux (1)
 > **Tools:** figma (6)
 > **CLI Commands:** make (4), snap (1)
 > **Exercise Files:** template (2)
@@ -830,7 +832,7 @@ created: 2026-04-29
 
 ### 2. Title Slides
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using frames
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980)
@@ -931,7 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** hit (3), ux (3), [[Figma (Software)|Figma]] (3), [[Android]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Tools:** figma (3)
 > **Definitions:** known as (1), is called (1)
 > **Analogies:** just like (1), similar to (1)
@@ -1167,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (2), type. (1), case. (1)
+> **Frameworks & Libraries:** hit (8), [[Figma (Software)|Figma]] (7), [[Zoom]] (2), next (1)
 > **UI Navigation:** click on (8), dropdown (2), go to (1)
 > **Tools:** figma (7)
 > **CLI Commands:** make (4)
@@ -1437,7 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), delete (3), continue (2), this. (2), this, (2)
+> **Frameworks & Libraries:** hit (9), [[Zoom]] (4), [[Figma (Software)|Figma]] (1), feature (1)
 > **CLI Commands:** make (3), find (1), snap (1)
 > **UI Navigation:** click on (4)
 > **Analogies:** just like (1), such as (1)
@@ -1669,7 +1671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (2), continue (2), default, (1)
+> **Frameworks & Libraries:** hit (7), [[Zoom]] (5), [[Figma (Software)|Figma]] (3), next (3), feature (1)
 > **UI Navigation:** click on (3), go to (1), in the menu (1), dropdown (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** figma (3)
@@ -1890,7 +1892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), this. (2), from. (1), continue (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (8), data (4), hit (3), feature (2), ux (1)
 > **Tools:** figma (8)
 > **CLI Commands:** find (2), snap (1), make (1)
 > **Definitions:** is a  (2)
@@ -1902,7 +1904,7 @@ created: 2026-04-29
 
 ### 3. Agenda Slides
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with image masks in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980)
@@ -2243,7 +2245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), this, (5), delete (4), this. (2), from. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (15), hit (12), [[Zoom]] (5), next (4), ux (2)
 > **UI Navigation:** click on (13), go to (6)
 > **Tools:** figma (15)
 > **CLI Commands:** find (2), make (1)
@@ -2744,7 +2746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (59), delete (3), this, (2), this. (2), type. (1)
+> **Frameworks & Libraries:** hit (19), [[Figma (Software)|Figma]] (13), [[Zoom]] (3), next (2), feature (2)
 > **CLI Commands:** make (15)
 > **Tools:** figma (13)
 > **UI Navigation:** click on (4), go to (2)
@@ -2984,7 +2986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), return. (2), this, (2), continue (1)
+> **Frameworks & Libraries:** hit (12), [[Figma (Software)|Figma]] (9), [[Zoom]] (3), data (2), feature (2)
 > **Tools:** figma (9)
 > **UI Navigation:** click on (6), go to (2), select the (1)
 > **CLI Commands:** make (4)
@@ -2994,7 +2996,7 @@ created: 2026-04-29
 
 ### 4. Methodology Slides
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a timeline with key steps in Figma, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980)
@@ -3295,7 +3297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (63), delete (7), this. (3), case. (1), this, (1)
+> **Frameworks & Libraries:** hit (7), data (4), [[Zoom]] (3), [[Figma (Software)|Figma]] (3), next (2)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (3), select the (1), go to (1)
 > **Tools:** figma (3)
@@ -3722,7 +3724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (53), this. (7), continue (2), this, (2), delete (1)
+> **Frameworks & Libraries:** hit (8), data (7), [[Figma (Software)|Figma]] (3), next (2), [[Zoom]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (2), scroll up (1), double-click (1)
 > **Tools:** figma (3)
@@ -3859,7 +3861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (41), this, (8), for, (1), continue (1), else, (1)
+> **Frameworks & Libraries:** hit (7), [[Figma (Software)|Figma]] (5), [[Zoom]] (3), [[Search]] (2)
 > **CLI Commands:** make (8), find (7)
 > **UI Navigation:** click on (3), select the (1), scroll down (1), go to (1)
 > **Tools:** figma (5)
@@ -3871,7 +3873,7 @@ created: 2026-04-29
 
 ### 5. Participant Demographics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create tables with columns in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980)
@@ -4114,7 +4116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (38), this. (1)
+> **Frameworks & Libraries:** data (6), hit (4), [[Figma (Software)|Figma]] (4), next (2), [[Zoom]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Tools:** figma (4)
 > **UI Navigation:** click on (3)
@@ -4534,7 +4536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (89), delete (2), this. (2), for. (1), import. (1)
+> **Frameworks & Libraries:** data (8), hit (4), [[Figma (Software)|Figma]] (1), [[Search]] (1), feature (1)
 > **CLI Commands:** make (12), find (2), snap (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Cross-References:** previous video (1)
@@ -4748,7 +4750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), delete (2), this. (1)
+> **Frameworks & Libraries:** hit (4), data (3), [[Zoom]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -4760,7 +4762,7 @@ created: 2026-04-29
 
 ### 6. Presenting Quantitative Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating bar charts in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bar-charts-in-figma?u=76281980)
@@ -5133,7 +5135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (44), this, (3), this. (2), pass (1), delete (1)
+> **Frameworks & Libraries:** data (8), hit (4), next (2), [[Figma (Software)|Figma]] (2)
 > **CLI Commands:** make (12), find (1)
 > **UI Navigation:** go to (3), click on (3), select the (1)
 > **Versions:** 3.8 (2), 2.8 (1), 4.1 (1)
@@ -5441,7 +5443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), this. (2), delete (1), for. (1)
+> **Frameworks & Libraries:** hit (8), [[Zoom]] (5), [[Figma (Software)|Figma]] (3), data (3), next (1)
 > **UI Navigation:** go to (4), select the (2), click on (2), in the menu (1)
 > **Tools:** figma (3)
 > **Exercise Files:** template (2)
@@ -5712,7 +5714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (34), this. (4), this, (2), pass (1), delete (1)
+> **Frameworks & Libraries:** hit (11), data (4), [[Figma (Software)|Figma]] (3), feature (2), [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **Tools:** figma (3)
 > **Definitions:** is a  (2)
@@ -5954,7 +5956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (37), this, (6), for. (2), delete (2), this. (1)
+> **Frameworks & Libraries:** hit (8), [[Figma (Software)|Figma]] (5), data (3), feature (1)
 > **Tools:** figma (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -6122,7 +6124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), from, (1)
+> **Frameworks & Libraries:** data (6), hit (3), next (2), feature (1), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (1), similar to (1)
 > **Versions:** 0.5 (1)
@@ -6240,7 +6242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1), this, (1), for, (1)
+> **Frameworks & Libraries:** data (16), [[Figma (Software)|Figma]] (7), [[Microsoft Excel|Excel]] (4), ux (2), [[Google]] (2)
 > **Tools:** figma (7)
 > **UI Navigation:** click on (2), go to (2)
 > **Prerequisites:** install (3), set up (1)
@@ -6252,7 +6254,7 @@ created: 2026-04-29
 
 ### 7. Presenting Qualitative Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Annotating screenshots in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980)
@@ -6637,7 +6639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (55), this, (6), this. (4), delete (1), return. (1)
+> **Frameworks & Libraries:** data (7), hit (7), node (5), ux (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (8), node (5), snap (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** click on (2), go to (1)
@@ -6975,7 +6977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (36), this. (7), this, (3), else. (1), delete (1)
+> **Frameworks & Libraries:** node (13), hit (7), data (6), [[Figma (Software)|Figma]] (3), [[Zoom]] (2)
 > **CLI Commands:** node (13), make (6)
 > **Cross-References:** go back to (2), we talked about (1)
 > **Tools:** figma (3)
@@ -6986,7 +6988,7 @@ created: 2026-04-29
 
 ### 8. Final Touches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating titles and page numbers transition slides
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980)
@@ -7181,7 +7183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), delete (5), this, (2), this. (1), else. (1)
+> **Frameworks & Libraries:** hit (8), data (4), ux (1), [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Env Vars:** quantitative (2)
@@ -7576,7 +7578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (58), this. (7), delete (2), this, (2), switch (1)
+> **Frameworks & Libraries:** hit (3), feature (3), node (3), data (3), ux (2)
 > **CLI Commands:** make (14), node (3)
 > **UI Navigation:** click on (4), right-click (1), go to (1)
 > **Exercise Files:** template (2)
@@ -7588,7 +7590,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Export and smooth sailing
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980)
@@ -7735,7 +7737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), export. (3), delete (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[Figma (Software)|Figma]] (5), [[Google]] (3), hit (1), ux (1)
 > **Env Vars:** pdf (4), png (1), jpeg (1)
 > **Tools:** figma (5)
 > **UI Navigation:** click on (4), go to (1)

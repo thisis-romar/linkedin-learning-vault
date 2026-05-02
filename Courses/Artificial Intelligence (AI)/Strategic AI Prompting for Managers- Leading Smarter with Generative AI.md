@@ -20,7 +20,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Strategic%20AI%20Prompting%20for%20Managers-%20Leading%20Smarter%20with%20Generative%20AI.md)
@@ -39,26 +39,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Using generative AI strategically as a manager
+  - [Using generative AI strategically as a manager](#using-generative-ai-strategically-as-a-manager)
 - [**Strategic AI Prompting for Managers**](#strategic-ai-prompting-for-managers) (12 videos)
-  - AI prompts for team communication
-  - AI prompts for conflict resolution
-  - AI prompts for team coaching
-  - AI prompts for performance management
-  - AI Prompts for smarter decision-making
-  - AI prompts for optimizing resource allocation
-  - AI prompts for change management
-  - AI prompts for new hire onboarding
-  - AI Prompts for smarter hiring decisions
-  - AI prompts for cross-functional collaboration
-  - AI prompts for employee well-being
-  - AI prompts for strategic planning and goal setting
+  - [AI prompts for team communication](#ai-prompts-for-team-communication)
+  - [AI prompts for conflict resolution](#ai-prompts-for-conflict-resolution)
+  - [AI prompts for team coaching](#ai-prompts-for-team-coaching)
+  - [AI prompts for performance management](#ai-prompts-for-performance-management)
+  - [AI Prompts for smarter decision-making](#ai-prompts-for-smarter-decision-making)
+  - [AI prompts for optimizing resource allocation](#ai-prompts-for-optimizing-resource-allocation)
+  - [AI prompts for change management](#ai-prompts-for-change-management)
+  - [AI prompts for new hire onboarding](#ai-prompts-for-new-hire-onboarding)
+  - [AI Prompts for smarter hiring decisions](#ai-prompts-for-smarter-hiring-decisions)
+  - [AI prompts for cross-functional collaboration](#ai-prompts-for-cross-functional-collaboration)
+  - [AI prompts for employee well-being](#ai-prompts-for-employee-well-being)
+  - [AI prompts for strategic planning and goal setting](#ai-prompts-for-strategic-planning-and-goal-setting)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Generative AI in action: Applying what you've learned
+  - [Generative AI in action: Applying what you've learned](#generative-ai-in-action-applying-what-youve-learned)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using generative AI strategically as a manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/using-generative-ai-strategically-as-a-manager?u=76281980)
@@ -81,14 +81,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (4), ai (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - ai (1)
 
 
 ### Strategic AI Prompting for Managers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI prompts for team communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-communication?u=76281980)
@@ -153,7 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), try, (1)
+> **Frameworks & Libraries:** ai (6), prompt (2)
 > **Analogies:** for example (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - ever (1)
@@ -213,8 +213,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Forms]] (2), hit (1), next (1), power (1)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** this. (2), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - conflict (1)
 
@@ -293,7 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), this. (1), include, (1), public (1)
+> **Frameworks & Libraries:** ai (7), management (2), prompt (2), career (2), game (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - great (1)
 
@@ -348,9 +348,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), next (3), prompt (2), leadership (2), management (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - what (1)
 
@@ -403,9 +403,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), product (4), prompt (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** imagine (1), picture (1), for example (1)
-> **Code Keywords:** try, (1), this. (1)
 > **Speakers:** - leaders (1)
 
 #### AI prompts for optimizing resource allocation
@@ -451,7 +451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** ai (4), product (2), prompt (1), data (1), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - resourcing (1)
 
@@ -510,7 +510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), else. (1), for. (1)
+> **Frameworks & Libraries:** ai (5), teams (3), leadership (2), management (2), prompt (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - let (1)
@@ -528,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), job description (2), hit (1), next (1), prompt (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - gallup (1)
@@ -546,8 +546,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), business (2), prompt (2), hr (1), job description (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - did (1)
@@ -595,7 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), product (2), career (1), prompt (1), functional (1)
 > **Speakers:** - i (1)
 
 #### AI prompts for employee well-being
@@ -657,8 +657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (4), prompt (3)
 > **Analogies:** imagine (2), for example (2)
-> **Code Keywords:** case, (1), this. (1), this, (1)
 > **Env Vars:** ukg (2)
 > **Warnings:** warning (2)
 > **Speakers:** - imagine (1)
@@ -702,7 +702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (7), prompt (2), business (2), [[Strategic Thinking]] (1), teams (1)
 > **Exercise Files:** template (2)
 > **Analogies:** for example (1), picture (1)
 > **Env Vars:** okr (1)
@@ -711,7 +711,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI in action: Applying what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/generative-ai-in-action-applying-what-you-ve-learned?u=76281980)
@@ -786,9 +786,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (22), product (2), teams (1), [[Microsoft]] (1), business (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** scan (1)
 > **Speakers:** - it (1)
 

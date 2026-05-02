@@ -33,7 +33,7 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20RAG%20using%20LlamaIndex.md)
@@ -52,63 +52,63 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Overcome the limitations of LLMs with RAG
-  - Limitations of LLMs
-  - Use cases for retrieval-augmented generation (RAG)
+  - [Overcome the limitations of LLMs with RAG](#overcome-the-limitations-of-llms-with-rag)
+  - [Limitations of LLMs](#limitations-of-llms)
+  - [Use cases for retrieval-augmented generation (RAG)](#use-cases-for-retrieval-augmented-generation-rag)
 - [**1. Getting Started**](#1-getting-started) (7 videos)
-  - Using GitHub Codespaces
-  - Setting up your environment
-  - Choosing an LLM and embeddings provider
-  - Setting up LLM accounts
-  - Choosing a vector database
-  - Setting up a Qdrant account
-  - Downloading our data
+  - [Using GitHub Codespaces](#using-github-codespaces)
+  - [Setting up your environment](#setting-up-your-environment)
+  - [Choosing an LLM and embeddings provider](#choosing-an-llm-and-embeddings-provider)
+  - [Setting up LLM accounts](#setting-up-llm-accounts)
+  - [Choosing a vector database](#choosing-a-vector-database)
+  - [Setting up a Qdrant account](#setting-up-a-qdrant-account)
+  - [Downloading our data](#downloading-our-data)
 - [**2. Fundamental Concepts in LlamaIndex**](#2-fundamental-concepts-in-llamaindex) (7 videos)
-  - How LlamaIndex is organized
-  - Using LLMs
-  - Loading data
-  - Indexing
-  - Storing and retrieving
-  - Querying
-  - Agents
+  - [How LlamaIndex is organized](#how-llamaindex-is-organized)
+  - [Using LLMs](#using-llms)
+  - [Loading data](#loading-data)
+  - [Indexing](#indexing)
+  - [Storing and retrieving](#storing-and-retrieving)
+  - [Querying](#querying)
+  - [Agents](#agents)
 - [**3. Introduction to RAG**](#3-introduction-to-rag) (7 videos)
-  - Components of a RAG system
-  - Ingestion pipeline
-  - Query pipeline
-  - Prompt engineering for RAG
-  - Data preparation for RAG
-  - Putting it all together
-  - Drawbacks of Naive RAG
+  - [Components of a RAG system](#components-of-a-rag-system)
+  - [Ingestion pipeline](#ingestion-pipeline)
+  - [Query pipeline](#query-pipeline)
+  - [Prompt engineering for RAG](#prompt-engineering-for-rag)
+  - [Data preparation for RAG](#data-preparation-for-rag)
+  - [Putting it all together](#putting-it-all-together)
+  - [Drawbacks of Naive RAG](#drawbacks-of-naive-rag)
 - [**4. RAG Evaluation**](#4-rag-evaluation) (3 videos)
-  - Introduction to RAG evaluation
-  - Evaluation metrics
-  - How to create an evaluation set
+  - [Introduction to RAG evaluation](#introduction-to-rag-evaluation)
+  - [Evaluation metrics](#evaluation-metrics)
+  - [How to create an evaluation set](#how-to-create-an-evaluation-set)
 - [**5. Advanced RAG: Pre-Retrieval and Indexing Techniques**](#5-advanced-rag-pre-retrieval-and-indexing-techniques) (7 videos)
-  - How we can improve on Naive RAG
-  - Optimizing chunk size
-  - Small to big retrieval
-  - Semantic chunking
-  - Metadata extraction
-  - Document summary index
-  - Query transformation
+  - [How we can improve on Naive RAG](#how-we-can-improve-on-naive-rag)
+  - [Optimizing chunk size](#optimizing-chunk-size)
+  - [Small to big retrieval](#small-to-big-retrieval)
+  - [Semantic chunking](#semantic-chunking)
+  - [Metadata extraction](#metadata-extraction)
+  - [Document summary index](#document-summary-index)
+  - [Query transformation](#query-transformation)
 - [**6. Advanced RAG: Post-Retrieval and Other Techniques**](#6-advanced-rag-post-retrieval-and-other-techniques) (5 videos)
-  - Node post-processing
-  - Re-ranking
-  - FLARE
-  - Prompt compression
-  - Self-correcting
+  - [Node post-processing](#node-post-processing)
+  - [Re-ranking](#re-ranking)
+  - [FLARE](#flare)
+  - [Prompt compression](#prompt-compression)
+  - [Self-correcting](#self-correcting)
 - [**7. Modular RAG**](#7-modular-rag) (4 videos)
-  - Hybrid retrieval
-  - Agentic RAG
-  - Ensemble retrieval
-  - Ensemble query engine
+  - [Hybrid retrieval](#hybrid-retrieval)
+  - [Agentic RAG](#agentic-rag)
+  - [Ensemble retrieval](#ensemble-retrieval)
+  - [Ensemble query engine](#ensemble-query-engine)
 - [**Conclusion**](#conclusion) (2 videos)
-  - LlamaIndex evaluation
-  - Comparative analysis of retrieval-augmented generation techniques
+  - [LlamaIndex evaluation](#llamaindex-evaluation)
+  - [Comparative analysis of retrieval-augmented generation techniques](#comparative-analysis-of-retrieval-augmented-generation-techniques)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overcome the limitations of LLMs with RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/overcome-the-limitations-of-llms-with-rag?u=76281980)
@@ -131,7 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), let (1)
+> **Frameworks & Libraries:** data (4), [[Generative AI]] (2), rag (1), ai (1), [[Deep Learning]] (1)
 > **Env Vars:** rag (1), lama (1)
 > **Speakers:** - if (1)
 
@@ -208,8 +208,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (8), rag (8), data (3), [[Large Language Models (LLM)|Large language models]] (2), database (2)
 > **Env Vars:** llm (8), rag (8)
-> **Code Keywords:** public (1), require (1), delete (1)
 > **Definitions:** we call this (1), is called (1), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** kind of like (1)
@@ -296,8 +296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (15), data (7), [[Search]] (6), llm (3), chatbot (3)
 > **Env Vars:** rag (15), llm (3)
-> **Code Keywords:** finally, (1), private (1), case. (1), from. (1), module (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -307,7 +307,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980)
@@ -364,9 +364,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (4), cloud (3), web (1), [[Security]] (1)
 > **Tools:** github (4), vs code (1), colab (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** switch (1), type. (1), let (1)
 > **Env Vars:** ram (2), ide (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Cross-References:** in the next (1)
@@ -564,8 +564,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LlamaIndex]] (16), [[Python (Programming Language)|Python]] (8), [[Codespaces]] (3), llm (3), next (3)
 > **Prerequisites:** install (18), set up (4)
-> **Code Keywords:** let (9), module (3), this. (2), case, (1)
 > **Versions:** python 3 (5), version 0 (2), 0.10.99 (2), 3.10 (1), 10.37 (1)
 > **CLI Commands:** python (8), make (2), pip (1)
 > **Tools:** colab (2), command line (1), terminal (1), jupyter (1)
@@ -714,8 +714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (13), [[Tokens]] (5), api (4), [[LlamaIndex|Llama-index]] (4), [[Google]] (2)
 > **Env Vars:** llm (12), api (4), rag (1), gpt (1)
-> **Code Keywords:** let (3), case. (2), class. (1), switch (1), case, (1)
 > **Tools:** github (2), discord (2), slack (1)
 > **CLI Commands:** make (2), pip (1)
 > **Analogies:** for example (3)
@@ -800,8 +800,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), [[Google]] (2), [[LangChain]] (2), next (2), database (2)
 > **Env Vars:** api (11)
-> **Code Keywords:** let (3), case, (1), continue (1), this, (1), this. (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Code Identifiers:** lil_llama_index (2), env_example (2)
 > **CLI Commands:** make (3)
@@ -904,8 +904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), data (6), [[Search]] (4), rag (3), [[LlamaIndex]] (3)
 > **Env Vars:** rag (3), llm (2), api (1), url (1)
-> **Code Keywords:** super (3), from. (1), type. (1), else, (1)
 > **Analogies:** for example (4), it's like (1)
 > **Code Identifiers:** xai (1)
 > **Cross-References:** in the next (1)
@@ -998,8 +998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), hit (4), cloud (2), [[GitHub]] (2), [[Vector Databases]] (2)
 > **Env Vars:** api (9), url (4), ram (1)
-> **Code Keywords:** else, (1), continue (1), let (1), pass (1), public (1)
 > **CLI Commands:** make (3)
 > **Tools:** github (2), command line (1)
 > **Prerequisites:** set up (3)
@@ -1102,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), function (1), finally, (1), module (1)
+> **Frameworks & Libraries:** rag (6), data (6), next (4), chatbot (2), game (1)
 > **Env Vars:** rag (6), url (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2)
@@ -1114,7 +1114,7 @@ created: 2026-04-29
 
 ### 2. Fundamental Concepts in LlamaIndex
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How LlamaIndex is organized
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980)
@@ -1207,11 +1207,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[LlamaIndex]] (12), llm (7), rag (7), [[LLaMA]] (4)
 > **Env Vars:** llm (7), rag (7), sdk (2), api (1), pdf (1)
 > **CLI Commands:** python (2), find (1)
 > **Documentation:** the docs (3)
 > **UI Navigation:** go to (2), click on (1)
-> **Code Keywords:** private (2)
 > **URLs:** [llamahub.ai](https://llamahub.ai) (1), [llamaindex.ai](https://llamaindex.ai) (1)
 > **Versions:** 2.8 (1), 1.0 (1)
 > **Cross-References:** we discussed (1), in the next (1)
@@ -1371,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (3), interface (1), case, (1), except, (1)
+> **Frameworks & Libraries:** llm (12), [[LlamaIndex]] (11), prompt (10), data (6), hit (4)
 > **Env Vars:** llm (11), api (3), rag (1)
 > **Exercise Files:** template (9)
 > **UI Navigation:** go to (2), select the (1), click on (1), scroll down (1)
@@ -1599,8 +1599,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (36), data (18), [[Metadata]] (15), [[LlamaIndex]] (12), hit (3)
 > **CLI Commands:** node (36), make (1)
-> **Code Keywords:** let (9), pass (4), case, (3), module (2), for, (1)
 > **Env Vars:** pdf (6), llm (2), etl (1), api (1)
 > **Definitions:** is a  (8), known as (1)
 > **Analogies:** similar to (1), for example (1), just like (1)
@@ -1735,7 +1735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (4), this. (1), function (1), this, (1)
+> **Frameworks & Libraries:** data (7), node (4), api (2), database (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Env Vars:** lama (3), api (2), cpu (2), llm (1), url (1)
 > **CLI Commands:** node (4), make (3)
 > **Definitions:** is an  (1), is a  (1)
@@ -1933,7 +1933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (5), case, (3), module (2), function (1)
+> **Frameworks & Libraries:** data (8), [[LlamaIndex]] (6), node (4), api (3), hit (2)
 > **CLI Commands:** node (4), find (1), make (1)
 > **Env Vars:** api (3), url (2), rag (1)
 > **Cross-References:** later in (2), in the next (2)
@@ -2121,7 +2121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), module (4), from, (1), this, (1), case . (1)
+> **Frameworks & Libraries:** data (4), prompt (4), llm (3), database (2), api (2)
 > **Env Vars:** lama (4), llm (3), api (2)
 > **Analogies:** for example (2), picture (1), imagine (1)
 > **CLI Commands:** make (2), node (1)
@@ -2251,7 +2251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), module (2), case, (2), let (2), this. (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (7), rag (3), [[React.js|React]] (3), prompt (3), api (2)
 > **Env Vars:** rag (3), api (2)
 > **Versions:** 1.25 (1), 0.42 (1), 19.58 (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -2263,7 +2263,7 @@ created: 2026-04-29
 
 ### 3. Introduction to RAG
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of a RAG system
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980)
@@ -2390,8 +2390,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (13), prompt (6), llm (5), data (2), [[Search]] (2)
 > **Env Vars:** rag (13), llm (5)
-> **Code Keywords:** let (4), module (1), finally, (1)
 > **CLI Commands:** node (1), make (1)
 > **Cross-References:** previous chapter (2)
 > **Definitions:** is a  (1)
@@ -2542,7 +2542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (3), module (2), this. (2), pass (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (5), data (5), management (4), next (3), hit (3)
 > **UI Navigation:** go to (5), click on (1), open the (1)
 > **CLI Commands:** make (5), node (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2746,7 +2746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), pass (2), super (1), module (1)
+> **Frameworks & Libraries:** prompt (10), rag (6), [[LlamaIndex]] (4), llm (4), next (2)
 > **Env Vars:** rag (5), llm (4), api (1), dag (1), gpt (1)
 > **Exercise Files:** template (8), boilerplate (2)
 > **CLI Commands:** make (2), python (1), find (1)
@@ -2920,7 +2920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), pass (3), function (2), if, (2), require (1)
+> **Frameworks & Libraries:** llm (8), prompt (5), ai (2), [[Prompt Engineering]] (2), rag (2)
 > **Env Vars:** llm (5), rag (2), api (1), ctrl (1)
 > **Code Identifiers:** compact_accumulate (1), no_text (1), simple_summarize (1), tree_summarize (1)
 > **Prerequisites:** set up (3), install (1)
@@ -3344,7 +3344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (7), module (3), case, (3), this. (2)
+> **Frameworks & Libraries:** data (26), [[LlamaIndex]] (13), rag (5), [[Metadata]] (5), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** pdf (8), rag (5), llmsherpa_api_url (1)
 > **CLI Commands:** make (5), python (3), find (1), apache (1)
 > **Definitions:** is a  (7)
@@ -3528,8 +3528,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (9), rag (6), hit (4), api (3), [[LLaMA]] (3)
 > **Env Vars:** llm (9), rag (6), api (3), url (1), dir (1)
-> **Code Keywords:** let (13), pass (2), from. (1)
 > **Prerequisites:** set up (5), setup (1)
 > **Code Identifiers:** as_query_engine (3), vector_store (1)
 > **Definitions:** is called (1), is a  (1), is an  (1), we call this (1)
@@ -3650,8 +3650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (11), data (7), [[Search]] (1), [[Fetch]] (1), express (1)
 > **Env Vars:** rag (11), llm (1)
-> **Code Keywords:** let (2), module (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -3661,7 +3661,7 @@ created: 2026-04-29
 
 ### 4. RAG Evaluation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to RAG evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980)
@@ -3780,8 +3780,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (12), data (3), prompt (2), database (1), [[Decision-Making]] (1)
 > **Env Vars:** rag (12), llm (1)
-> **Code Keywords:** this, (2), let (1)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **Exercise Files:** template (2)
 > **Prerequisites:** before we start (1), set up (1)
@@ -3946,11 +3946,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (19), llm (9), [[Large Language Models (LLM)|Large language models]] (3), next (2), [[Information Retrieval]] (1)
 > **Env Vars:** rag (19), llm (9), mrr (2), gpt (1)
 > **Definitions:** is a  (4), is called (1), is an  (1)
 > **Cross-References:** in the next (2), we discussed (1), coming up (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (1), this. (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4203,8 +4203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), llm (10), prompt (9), rag (4), [[Hugging Face]] (4)
 > **Env Vars:** llm (10), gpt (5), rag (4)
-> **Code Keywords:** function (3), pass (2), let (1), this, (1), case, (1)
 > **CLI Commands:** make (6), find (1)
 > **Versions:** 3.5 (3), 4.0 (2)
 > **Cross-References:** we discussed (1), coming up (1), in the next (1)
@@ -4215,7 +4215,7 @@ created: 2026-04-29
 
 ### 5. Advanced RAG: Pre-Retrieval and Indexing Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How we can improve on Naive RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980)
@@ -4298,8 +4298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (17), data (5), database (3), prompt (3), [[LlamaIndex]] (2)
 > **Env Vars:** rag (16), llm (1)
-> **Code Keywords:** module (3), case. (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -4573,7 +4573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (5), require (2), this, (2), this. (2)
+> **Frameworks & Libraries:** node (9), [[Metadata]] (8), llm (8), prompt (3), data (2)
 > **Code Identifiers:** window_size (3), original_text (3), excluded_embed_metadata_keys (2), excluded_llm_metadata_keys (2), node_postprocessor (2)
 > **CLI Commands:** node (9), find (3), make (1)
 > **Env Vars:** llm (8), rag (1), hype_answer_gen_prompt (1), hype (1)
@@ -4849,7 +4849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (3), function (3), finally, (2), pass (2)
+> **Frameworks & Libraries:** node (13), [[Metadata]] (4), rag (3), [[LlamaIndex]] (2), [[Generative AI]] (1)
 > **CLI Commands:** node (13), make (4), find (2)
 > **Env Vars:** rag (1), api (1), nltk (1), llm (1), gpt (1)
 > **Prerequisites:** set up (4)
@@ -5035,9 +5035,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (24), node (8), prompt (4), rag (3), llm (3)
 > **Env Vars:** gpt (4), rag (3), llm (3), llama (2), api (1)
 > **CLI Commands:** node (8), make (1)
-> **Code Keywords:** let (2), for. (2), this, (1), case, (1), self (1)
 > **Code Identifiers:** known_for (2), page_number (1), file_name (1), llama_index (1), prompt_template (1)
 > **Exercise Files:** source code (3), template (3)
 > **Prerequisites:** set up (5)
@@ -5225,8 +5225,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (17), api (3), database (2), prompt (2), [[Semantic Search]] (1)
 > **Env Vars:** llm (17), api (3), gpt (2), lms (1), rag (1)
-> **Code Keywords:** pass (4), let (3), finally, (2), this, (1), case, (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** tree_summarize (1), query_engine (1), doc_embed_query_engine (1)
@@ -5425,9 +5425,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), database (8), [[Search]] (5), llm (4), rag (4)
 > **Env Vars:** llm (4), rag (4), query_string (2), hype_anser_gen_prompt (1), gpt (1)
 > **Code Identifiers:** sub_question_query_engine (4), query_engine_tool (2), query_engine_tools (1), hyde_query_engine (1), hyde_query_pipeline (1)
-> **Code Keywords:** let (2), for, (1), require (1), function (1), case, (1)
 > **Definitions:** is a  (3), means that (2)
 > **Exercise Files:** source code (3), template (1)
 > **CLI Commands:** make (1), find (1)
@@ -5437,7 +5437,7 @@ created: 2026-04-29
 
 ### 6. Advanced RAG: Post-Retrieval and Other Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Node post-processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980)
@@ -5736,8 +5736,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (46), next (7), [[Metadata]] (7), rag (3), [[LlamaIndex]] (3)
 > **CLI Commands:** node (46), find (1), make (1)
-> **Code Keywords:** pass (14), let (8), this. (3), function (2), continue (1)
 > **Code Identifiers:** reordered_nodes (3), as_retriever (2), as_query_engine (1), create_query_engine (1), llama_index (1)
 > **Env Vars:** rag (3), api (2), nltk (2)
 > **Exercise Files:** source code (6), boilerplate (1)
@@ -5848,8 +5848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), data (4), [[LlamaIndex]] (3), next (2), llm (2)
 > **Env Vars:** api (6), llm (2), pdf (1), sql (1), rag (1)
-> **Code Keywords:** pass (3), finally, (1), let (1), this. (1), return. (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
@@ -6038,9 +6038,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (4), prompt (4), [[Tokens]] (3), llm (2), [[LlamaIndex]] (2)
 > **Env Vars:** flare (9), rag (4), llm (2)
 > **Definitions:** is a  (6)
-> **Code Keywords:** let (3), continue (1), from, (1)
 > **Code Identifiers:** lookahead_answer_inserter (1), llama_index (1), query_engine (1)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **Exercise Files:** source code (2)
@@ -6164,7 +6164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), require (2), let (1), default, (1), finally, (1)
+> **Frameworks & Libraries:** prompt (11), rag (4), node (4), [[Tokens]] (2), [[Metadata]] (2)
 > **Env Vars:** rag (4), gpu (2), api (1)
 > **CLI Commands:** node (4)
 > **Cross-References:** we talked about (2), in the next (1)
@@ -6402,8 +6402,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (2), node (2), next (2), llm (1), [[Statistics]] (1)
 > **Code Identifiers:** max_retries (6), query_engine (4), base_query_engine (3), query_pipeline (3), retry_query_engine (2)
-> **Code Keywords:** let (5), pass (5), finally, (3), this. (3), self (2)
 > **Exercise Files:** source code (5), template (1)
 > **CLI Commands:** make (2), node (2)
 > **Definitions:** is a  (4)
@@ -6413,7 +6413,7 @@ created: 2026-04-29
 
 ### 7. Modular RAG
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid retrieval
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980)
@@ -6716,7 +6716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (4), function (3), case, (3), this, (2)
+> **Frameworks & Libraries:** [[Search]] (30), rag (3), prompt (3), llm (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (6), find (4), python (2), node (1)
 > **Env Vars:** bm25 (7), rag (3), llm (2)
 > **Exercise Files:** source code (6), template (1)
@@ -6946,7 +6946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), case, (5), this, (3), continue (2), let (2)
+> **Frameworks & Libraries:** [[Metadata]] (18), data (13), database (7), [[LlamaIndex]] (6), next (5)
 > **Env Vars:** api (4), rag (2), llm (2), bm25 (2)
 > **CLI Commands:** make (6), node (1), find (1)
 > **Code Identifiers:** sentence_splitter (1), qa_extractor (1), keyword_extractor (1), filter_key_list (1), auto_retrieve_fn (1)
@@ -7080,8 +7080,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (5), node (3), data (3), rag (2), next (2)
 > **Env Vars:** mrr (3), rag (2)
-> **Code Keywords:** function (2), this, (1), let (1)
 > **CLI Commands:** node (3)
 > **Code Identifiers:** summary_index (1), mrr_all (1)
 > **Cross-References:** earlier in (1), in the next (1)
@@ -7234,7 +7234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4), case, (3), for. (1), module (1)
+> **Frameworks & Libraries:** llm (9), rag (3), prompt (3), data (2), [[Search]] (2)
 > **Env Vars:** llm (9), rag (3), gpt (1)
 > **Prerequisites:** set up (3), configure (1)
 > **Definitions:** is a  (3)
@@ -7246,7 +7246,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LlamaIndex evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/llamaindex-evaluation?u=76281980)
@@ -7281,9 +7281,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LlamaIndex]] (5), rag (2), next (2), ai (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Env Vars:** rag (2)
-> **Code Keywords:** module (1)
 > **URLs:** [llamaindex.ai](https://llamaindex.ai) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -7428,12 +7428,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (11), rag (8), [[GitHub]] (2), data (1), ai (1)
 > **Env Vars:** llm (11), rag (8), mrr (3), anova (2), gpt (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (2)
 > **Tools:** github (2)
 > **Analogies:** kind of like (1), for example (1)
-> **Code Keywords:** case, (1)
 > **Code Identifiers:** arxiv (1)
 > **Speakers:** - [instructor] (1)
 

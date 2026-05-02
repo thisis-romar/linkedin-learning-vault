@@ -31,7 +31,7 @@ tags:
   - skill/microsoft-azure
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Choosing%20A%20Cloud%20Platform%20For%20Developers%20Aws%20Azure%20And%20Gcp.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Considering the cloud choices
-  - What you should know
+  - [Considering the cloud choices](#considering-the-cloud-choices)
+  - [What you should know](#what-you-should-know)
 - [**1. On-Premise vs. Cloud Services**](#1-on-premise-vs-cloud-services) (3 videos)
-  - Solutions before cloud computing
-  - Evaluate urgency of cloud migration
-  - Establish goals for cloud migration
+  - [Solutions before cloud computing](#solutions-before-cloud-computing)
+  - [Evaluate urgency of cloud migration](#evaluate-urgency-of-cloud-migration)
+  - [Establish goals for cloud migration](#establish-goals-for-cloud-migration)
 - [**2. Baseline Functionality Available in the Cloud**](#2-baseline-functionality-available-in-the-cloud) (4 videos)
-  - Current major cloud providers
-  - Storing data and files
-  - Executing code
-  - Analytics and insights
+  - [Current major cloud providers](#current-major-cloud-providers)
+  - [Storing data and files](#storing-data-and-files)
+  - [Executing code](#executing-code)
+  - [Analytics and insights](#analytics-and-insights)
 - [**3. Historical Strengths of Three Major Cloud Providers**](#3-historical-strengths-of-three-major-cloud-providers) (3 videos)
-  - Amazon Web Services
-  - Google Cloud Platform
-  - Microsoft Azure
+  - [Amazon Web Services](#amazon-web-services)
+  - [Google Cloud Platform](#google-cloud-platform)
+  - [Microsoft Azure](#microsoft-azure)
 - [**4. Compliance in the Cloud**](#4-compliance-in-the-cloud) (3 videos)
-  - Business regulations overview
-  - GDPR (EU data regulations)
-  - HIPAA (US health care regulations)
+  - [Business regulations overview](#business-regulations-overview)
+  - [GDPR (EU data regulations)](#gdpr-eu-data-regulations)
+  - [HIPAA (US health care regulations)](#hipaa-us-health-care-regulations)
 - [**5. Human Resources for the Cloud**](#5-human-resources-for-the-cloud) (3 videos)
-  - Assess current skills and needs
-  - Evolve roles and expertise
-  - Prioritize learning and testing
+  - [Assess current skills and needs](#assess-current-skills-and-needs)
+  - [Evolve roles and expertise](#evolve-roles-and-expertise)
+  - [Prioritize learning and testing](#prioritize-learning-and-testing)
 - [**6. Prototype for Your Needs**](#6-prototype-for-your-needs) (3 videos)
-  - Evaluate specialized functionality
-  - Gather insights through implementation
-  - Image-to-text prototype example
+  - [Evaluate specialized functionality](#evaluate-specialized-functionality)
+  - [Gather insights through implementation](#gather-insights-through-implementation)
+  - [Image-to-text prototype example](#image-to-text-prototype-example)
 - [**7. Design for Adaptability**](#7-design-for-adaptability) (3 videos)
-  - Switch cloud providers as needed
-  - Containers for your code
-  - Streamline cloud processes
+  - [Switch cloud providers as needed](#switch-cloud-providers-as-needed)
+  - [Containers for your code](#containers-for-your-code)
+  - [Streamline cloud processes](#streamline-cloud-processes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing the cloud platform journey
+  - [Continuing the cloud platform journey](#continuing-the-cloud-platform-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Considering the cloud choices
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980)
@@ -119,6 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Software Projects]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [xian] (1)
@@ -140,13 +141,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** [[Software Projects]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. On-Premise vs. Cloud Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solutions before cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980)
@@ -201,7 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), super (1)
+> **Frameworks & Libraries:** cloud (10), web (3), application (2), [[Microsoft Office|Office]] (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** ec2 (2)
 > **CLI Commands:** make (1)
 > **Tools:** command line (1)
@@ -266,8 +267,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), data (5), [[Microsoft Products|Products]] (3), next (2), [[Google]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -324,6 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), product (6), data (4), [[Security]] (4), [[Scalability]] (2)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
@@ -333,7 +335,7 @@ created: 2026-04-29
 
 ### 2. Baseline Functionality Available in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Current major cloud providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980)
@@ -400,6 +402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), data (7), [[Databases]] (4), [[SQL]] (4), [[Google]] (3)
 > **Env Vars:** sql (4), ec2 (2), ibm (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (1)
@@ -469,8 +472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (8), [[SQL]] (8), [[Databases]] (6), cloud (4)
 > **Env Vars:** sql (8), html (1), css (1)
-> **Code Keywords:** public (2), include: (2), static (1), continue (1)
 > **Definitions:** short for (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
@@ -547,8 +550,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Google]] (4), [[Programming]] (2), [[Node.js]] (2), [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** node (2), python (1), ruby (1), rails (1), aws (1)
-> **Code Keywords:** let (1), include: (1), static (1), lambda (1), finally, (1)
 > **Env Vars:** ec2 (1), cpu (1), gpu (1), aws (1)
 > **Analogies:** for example (2), such as (1)
 > **File Paths:** node.js (2)
@@ -615,6 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Google]] (5), [[Microsoft Azure|Azure]] (5), web (3), business (3)
 > **Analogies:** such as (6), for example (1)
 > **CLI Commands:** apache (2), make (2), find (1)
 > **Env Vars:** sql (1)
@@ -625,7 +629,7 @@ created: 2026-04-29
 
 ### 3. Historical Strengths of Three Major Cloud Providers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Amazon Web Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980)
@@ -682,8 +686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), database (5), [[Amazon EC2|Ec2]] (4), aws (4), [[Databases]] (2)
 > **Env Vars:** ec2 (4), aws (4)
-> **Code Keywords:** lambda (6), require (1)
 > **CLI Commands:** aws (4), make (1), mysql (1)
 > **Analogies:** such as (2), analogous to (1)
 > **Definitions:** is called (1), is a  (1)
@@ -750,6 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (13), cloud (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Hardware]] (4), [[Kubernetes]] (4)
 > **Env Vars:** tpu (3), gpu (1)
 > **Cross-References:** later in (2)
 > **Tools:** colab (2)
@@ -805,6 +810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (10), cloud (9), [[Microsoft Azure|Azure]] (7), [[Windows]] (3), [[Microsoft Azure]] (3)
 > **Env Vars:** sql (1), net (1)
 > **Tools:** visual studio (1), github (1)
 > **Definitions:** is a  (1)
@@ -813,7 +819,7 @@ created: 2026-04-29
 
 ### 4. Compliance in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business regulations overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980)
@@ -870,9 +876,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), data (6), [[Security]] (4), business (2), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** iam (1), https (1)
-> **Code Keywords:** protected (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -942,9 +948,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), cloud (5), [[Security]] (2), [[Privacy]] (2), business (1)
 > **Env Vars:** gdpr (9), iam (1), https (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), require (1)
 > **Best Practices:** make sure to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1008,15 +1014,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), data (6), [[Security]] (2), business (2), [[Accountability]] (1)
 > **Env Vars:** hipaa (10), usb (1)
-> **Code Keywords:** protected (7), case. (1)
 > **Versions:** 1.5 (1), 4.3 (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Human Resources for the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess current skills and needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980)
@@ -1063,7 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), for. (1)
+> **Frameworks & Libraries:** cloud (11), teams (4), [[Agile Development|Agile]] (1), business (1), data (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1126,7 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), continue (1)
+> **Frameworks & Libraries:** cloud (6), [[DevOps]] (2), application (2), [[Programming]] (1), next (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1175,6 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), data (2), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), [[Software Testing]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1182,7 +1189,7 @@ created: 2026-04-29
 
 ### 6. Prototype for Your Needs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluate specialized functionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980)
@@ -1253,9 +1260,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), open-source (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ros (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1312,6 +1319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), mobile application (3), [[Software Development]] (2), [[Agile Development|Agile]] (2), [[React.js|React]] (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1385,7 +1393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), interface (1), let (1), default. (1)
+> **Frameworks & Libraries:** cloud (4), feature (4), api (2), [[Google]] (2), [[Microsoft]] (2)
 > **Env Vars:** api (2), html (1), ejs (1)
 > **CLI Commands:** node (2), make (1)
 > **File Paths:** node.js (2)
@@ -1396,7 +1404,7 @@ created: 2026-04-29
 
 ### 7. Design for Adaptability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Switch cloud providers as needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980)
@@ -1465,7 +1473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), case. (2), switch (2), for. (1)
+> **Frameworks & Libraries:** cloud (9), api (6), [[JavaScript]] (2), [[Google]] (2), power (1)
 > **Env Vars:** api (6)
 > **Analogies:** analogous to (1), such as (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -1537,9 +1545,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (10), cloud (5), [[Virtual Machines]] (3), [[Google]] (3), [[Microsoft Azure|Azure]] (3)
 > **CLI Commands:** docker (14), aws (1), node (1)
 > **Analogies:** similar to (2), such as (2), for example (1)
-> **Code Keywords:** lambda (1), let (1), case, (1)
 > **Ports:** port 80 (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is an  (1)
@@ -1606,8 +1614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (4), application (3), cloud (2), [[Programming]] (2), [[User Experience (UX)|User experience]] (2)
 > **CLI Commands:** docker (1), python (1), make (1), find (1)
-> **Code Keywords:** function (1), require (1)
 > **Cross-References:** as we saw (1), earlier in (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [narrator] (1)
@@ -1615,7 +1623,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing the cloud platform journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980)
@@ -1640,6 +1648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[LinkedIn]] (2), next (1), [[Microsoft]] (1), api (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)

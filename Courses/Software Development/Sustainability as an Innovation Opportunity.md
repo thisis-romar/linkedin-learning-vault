@@ -27,7 +27,7 @@ tags:
   - skill/business-innovation
   - skill/sustainable-business-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Sustainability%20as%20an%20Innovation%20Opportunity.md)
@@ -46,31 +46,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How the economy is transforming
+  - [How the economy is transforming](#how-the-economy-is-transforming)
 - [**1. The What and Why of Sustainability**](#1-the-what-and-why-of-sustainability) (5 videos)
-  - Sustainability in business
-  - Introducing the circular economy
-  - The innovation opportunity
-  - Impact
-  - Take action tips: Climate positive actions
+  - [Sustainability in business](#sustainability-in-business)
+  - [Introducing the circular economy](#introducing-the-circular-economy)
+  - [The innovation opportunity](#the-innovation-opportunity)
+  - [Impact](#impact)
+  - [Take action tips: Climate positive actions](#take-action-tips-climate-positive-actions)
 - [**2. The Full Life Story**](#2-the-full-life-story) (5 videos)
-  - Designing waste out of the system
-  - What about recycling?
-  - Life cycle thinking and life cycle maps
-  - Supply chain sustainability
-  - Take action tips: Procurement
+  - [Designing waste out of the system](#designing-waste-out-of-the-system)
+  - [What about recycling?](#what-about-recycling)
+  - [Life cycle thinking and life cycle maps](#life-cycle-thinking-and-life-cycle-maps)
+  - [Supply chain sustainability](#supply-chain-sustainability)
+  - [Take action tips: Procurement](#take-action-tips-procurement)
 - [**3. Circular ReDesign**](#3-circular-redesign) (5 videos)
-  - Designing for the circular economy
-  - Circular business opportunities
-  - Products as services and Circular ReDesign
-  - Sustainability action planning
-  - Take action tips: Change actions
+  - [Designing for the circular economy](#designing-for-the-circular-economy)
+  - [Circular business opportunities](#circular-business-opportunities)
+  - [Products as services and Circular ReDesign](#products-as-services-and-circular-redesign)
+  - [Sustainability action planning](#sustainability-action-planning)
+  - [Take action tips: Change actions](#take-action-tips-change-actions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Innovate for sustainability in your organization
+  - [Innovate for sustainability in your organization](#innovate-for-sustainability-in-your-organization)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How the economy is transforming
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980)
@@ -109,12 +109,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (4), business (3), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - what (1)
 
 
 ### 1. The What and Why of Sustainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980)
@@ -177,9 +178,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft Products|Products]] (1), business (1)
 > **CLI Commands:** find (2)
 > **Analogies:** picture (1), imagine (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dna (1)
 > **Versions:** 1.7 (1)
 > **Speakers:** - how (1)
@@ -263,7 +264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), business (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -318,6 +319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Sustainability]] (3), business (1), product (1)
 > **Analogies:** such as (2)
 > **Env Vars:** dna (1)
 > **Definitions:** is called (1)
@@ -436,8 +438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), power (3), [[Google]] (2), [[Climate Change]] (2), product (2)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** for. (1), require (1), for, (1), let (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** just like (1), for example (1), such as (1)
 > **Cross-References:** in the next (1)
@@ -475,15 +477,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Climate Change]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)
 
 
 ### 2. The Full Life Story
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing waste out of the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980)
@@ -554,6 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Biodiversity]] (1), [[Forms]] (1), [[Sustainability]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1)
@@ -632,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), new. (1), this. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Sustainability]] (1), product (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -714,11 +717,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (5), [[Google]] (1)
 > **Analogies:** picture (3), imagine (1), such as (1), just like (1)
 > **Definitions:** is called (3), is a  (1)
 > **Env Vars:** lca (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** from, (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -786,9 +789,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Sustainability]] (3), data (1), business (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - what (1)
 
@@ -823,13 +826,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (1), product (1), data (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - want (1)
 
 
 ### 3. Circular ReDesign
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for the circular economy
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-for-the-circular-economy?u=76281980)
@@ -900,9 +904,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), business (2), product (2)
 > **Analogies:** such as (2), just like (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - remember (1)
 
@@ -965,7 +969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), business (5), product (4), [[Sustainability]] (2), data (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - the (1)
@@ -1057,7 +1061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), this. (1), super (1), let (1)
+> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (9), business (4)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** in the last (1)
@@ -1118,8 +1122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (5), leadership (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** new, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - there (1)
@@ -1163,6 +1167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Best Practices:** don't forget (2)
 > **Env Vars:** ceo (1)
@@ -1172,7 +1177,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Innovate for sustainability in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980)
@@ -1193,6 +1198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - thanks (1)

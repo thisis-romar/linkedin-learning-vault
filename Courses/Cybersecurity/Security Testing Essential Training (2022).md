@@ -33,7 +33,7 @@ tags:
   - skill/network-security
   - skill/security-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Security%20Testing%20Essential%20Training%20(2022).md)
@@ -52,81 +52,81 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The importance of security testing
-  - What you should know
+  - [The importance of security testing](#the-importance-of-security-testing)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding Security Assessments**](#1-understanding-security-assessments) (10 videos)
-  - Language is important
-  - Risk assessments
-  - Calculating risk score
-  - Security controls assessments
-  - NIST and ISO
-  - Compliance assessments
-  - Vulnerability assessments
-  - Penetration tests
-  - Goals of a pen test
-  - The security assessment lifecycle
+  - [Language is important](#language-is-important)
+  - [Risk assessments](#risk-assessments)
+  - [Calculating risk score](#calculating-risk-score)
+  - [Security controls assessments](#security-controls-assessments)
+  - [NIST and ISO](#nist-and-iso)
+  - [Compliance assessments](#compliance-assessments)
+  - [Vulnerability assessments](#vulnerability-assessments)
+  - [Penetration tests](#penetration-tests)
+  - [Goals of a pen test](#goals-of-a-pen-test)
+  - [The security assessment lifecycle](#the-security-assessment-lifecycle)
 - [**2. Your Testing Environment**](#2-your-testing-environment) (11 videos)
-  - The security tester's toolkit
-  - Kali Linux
-  - Nmap
-  - Nessus
-  - Wireshark
-  - Lynis
-  - CIS-CAT Lite
-  - Aircrack-ng
-  - Hashcat
-  - OWASP ZAP
-  - OWASP ZAP demo
+  - [The security tester's toolkit](#the-security-testers-toolkit)
+  - [Kali Linux](#kali-linux)
+  - [Nmap](#nmap)
+  - [Nessus](#nessus)
+  - [Wireshark](#wireshark)
+  - [Lynis](#lynis)
+  - [CIS-CAT Lite](#cis-cat-lite)
+  - [Aircrack-ng](#aircrack-ng)
+  - [Hashcat](#hashcat)
+  - [OWASP ZAP](#owasp-zap)
+  - [OWASP ZAP demo](#owasp-zap-demo)
 - [**3. Planning Your Assessment**](#3-planning-your-assessment) (6 videos)
-  - Understanding your scope
-  - Improving over time
-  - Selecting your methodology
-  - Selecting your tools
-  - Basic assessment tools
-  - Advanced assessment tools
+  - [Understanding your scope](#understanding-your-scope)
+  - [Improving over time](#improving-over-time)
+  - [Selecting your methodology](#selecting-your-methodology)
+  - [Selecting your tools](#selecting-your-tools)
+  - [Basic assessment tools](#basic-assessment-tools)
+  - [Advanced assessment tools](#advanced-assessment-tools)
 - [**4. Review Techniques**](#4-review-techniques) (9 videos)
-  - Documentation review
-  - Log review
-  - Log management tools
-  - Ruleset review
-  - System configuration review
-  - CIS-CAT demo
-  - Network sniffing
-  - Wireshark demo
-  - File integrity checking
+  - [Documentation review](#documentation-review)
+  - [Log review](#log-review)
+  - [Log management tools](#log-management-tools)
+  - [Ruleset review](#ruleset-review)
+  - [System configuration review](#system-configuration-review)
+  - [CIS-CAT demo](#cis-cat-demo)
+  - [Network sniffing](#network-sniffing)
+  - [Wireshark demo](#wireshark-demo)
+  - [File integrity checking](#file-integrity-checking)
 - [**5. Identifying Your Targets**](#5-identifying-your-targets) (10 videos)
-  - Network discovery
-  - Open-source intelligence
-  - Network port and service identification
-  - Nmap demo
-  - Vulnerability scanning
-  - Determining severity
-  - Nessus demo
-  - Wireless scanning
-  - Wireless testing process
-  - Aircrack-ng demo
+  - [Network discovery](#network-discovery)
+  - [Open-source intelligence](#open-source-intelligence)
+  - [Network port and service identification](#network-port-and-service-identification)
+  - [Nmap demo](#nmap-demo)
+  - [Vulnerability scanning](#vulnerability-scanning)
+  - [Determining severity](#determining-severity)
+  - [Nessus demo](#nessus-demo)
+  - [Wireless scanning](#wireless-scanning)
+  - [Wireless testing process](#wireless-testing-process)
+  - [Aircrack-ng demo](#aircrack-ng-demo)
 - [**6. Vulnerability Validation**](#6-vulnerability-validation) (7 videos)
-  - Password cracking
-  - Hashcat demo
-  - Penetration test planning
-  - Penetration test tools
-  - Penetration test techniques
-  - Social engineering
-  - SET demo
+  - [Password cracking](#password-cracking)
+  - [Hashcat demo](#hashcat-demo)
+  - [Penetration test planning](#penetration-test-planning)
+  - [Penetration test tools](#penetration-test-tools)
+  - [Penetration test techniques](#penetration-test-techniques)
+  - [Social engineering](#social-engineering)
+  - [SET demo](#set-demo)
 - [**7. Additional Considerations**](#7-additional-considerations) (6 videos)
-  - Coordinating your assessments
-  - Data analysis
-  - Providing context
-  - Data handling
-  - Drafting your report
-  - Delivering your report
+  - [Coordinating your assessments](#coordinating-your-assessments)
+  - [Data analysis](#data-analysis)
+  - [Providing context](#providing-context)
+  - [Data handling](#data-handling)
+  - [Drafting your report](#drafting-your-report)
+  - [Delivering your report](#delivering-your-report)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Next steps
-  - Additional resources
+  - [Next steps](#next-steps)
+  - [Additional resources](#additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-importance-of-security-testing?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (4), business (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [jerod] (1)
 
@@ -188,13 +188,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Virtual Machines]] (2), [[Penetration Testing]] (1), [[Python (Programming Language)|Python]] (1), cloud (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding Security Assessments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Language is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980)
@@ -229,7 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), public (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (9), management (2), leadership (1), data (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -265,6 +266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[NIST]] (2), web application (1), web (1), data (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** nist (2)
 > **CLI Commands:** make (1)
@@ -323,9 +325,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[NIST]] (2), leadership (2), [[Security]] (2), [[Probability]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** nist (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -356,6 +358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Best Practices:** recommended (1)
@@ -402,10 +405,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), [[NIST]] (6), management (2), [[Information Security Management]] (2), [[Cybersecurity]] (2)
 > **Env Vars:** iso (9), nist (6), fisma (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [iso27001security.com](https://iso27001security.com) (1), [iso.org](https://iso.org) (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -451,8 +454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), data (3), leadership (1), business (1), [[Healthcare Industry]] (1)
 > **Env Vars:** pci (7), dss (4), hipaa (1), nerc (1), glba (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** required to (1)
@@ -513,8 +516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vulnerability Assessment]] (4), [[Security]] (2), application (1), [[SQL]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), case, (1)
 > **Env Vars:** sql (1), nist (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** configure (1)
@@ -557,6 +560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Penetration Testing]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -598,9 +602,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (1), [[Ethics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cfo (1), cia (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### The security assessment lifecycle
@@ -656,14 +660,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (9), next (2), data (2), leadership (1), [[Vulnerability Assessment]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Your Testing Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The security tester's toolkit
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-tester-s-toolkit?u=76281980)
@@ -704,6 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -724,7 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), extends (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Penetration Testing]] (2), [[Linux]] (2), [[Security]] (2), functional (1)
 > **URLs:** [kali.org](https://kali.org) (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -762,9 +767,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), prompt (1), [[Scripting]] (1), career (1)
 > **Tools:** command line (1), command prompt (1)
 > **Definitions:** short for (1), is a  (1)
-> **Code Keywords:** default. (1)
 > **URLs:** [nmap.org](https://nmap.org) (1)
 > **Env Vars:** gui (1)
 > **Cross-References:** later in (1)
@@ -796,6 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), cloud (1)
 > **URLs:** [tenable.com](https://tenable.com) (1), [tenable.io](https://tenable.io) (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** download the (1)
@@ -838,6 +844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (7), traffic (4), [[Kali Linux]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [wireshark.org](https://wireshark.org) (1)
 > **Definitions:** is a  (1)
@@ -956,8 +963,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), [[Security]] (3), [[Kali Linux]] (2), hit (2), business (1)
 > **CLI Commands:** find (3), tar (2), make (2), sudo (2), docker (1)
-> **Code Keywords:** let (3), var (1), default. (1), this, (1), protected (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **File Paths:** report.txt (4)
 > **URLs:** [cisofy.com](https://cisofy.com) (1)
@@ -996,6 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), [[Security]] (5), [[Windows 10]] (1), [[Ubuntu]] (1), [[Google]] (1)
 > **Env Vars:** cis (11), cat (5)
 > **CLI Commands:** cat (5), make (1)
 > **Definitions:** known as (1), is a  (1)
@@ -1046,6 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Security]] (1), [[Wireshark]] (1), next (1)
 > **Env Vars:** wep (2), wpa (2), wpa2 (2)
 > **URLs:** [aircrack-ng.org](https://aircrack-ng.org) (1)
 > **Definitions:** is an  (1)
@@ -1080,8 +1089,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Algorithms]] (1), prompt (1)
 > **Env Vars:** thc (1), md5 (1), ntlm (1)
-> **Code Keywords:** this, (1)
 > **URLs:** [hashcat.net](https://hashcat.net) (1)
 > **Cross-References:** later in (1)
 > **Tools:** command prompt (1)
@@ -1128,6 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), web application (5), web (4), [[OWASP]] (3), management (1)
 > **Env Vars:** owasp (3), zap (3)
 > **Definitions:** is a  (2), short for (1)
 > **Warnings:** be careful (1)
@@ -1230,9 +1240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web application (8), [[OWASP]] (7), [[Linux]] (2), application (2), data (2)
 > **Env Vars:** zap (16), owasp (7), url (5), ssl (1), tls (1)
-> **Code Keywords:** let (2), default. (1), type
-. (1), default, (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Definitions:** is a  (4)
 > **URLs:** [zaproxy.org](https://zaproxy.org) (1), [app.com](https://app.com) (1), [herokuapp.com](https://herokuapp.com) (1)
@@ -1243,7 +1252,7 @@ created: 2026-04-29
 
 ### 3. Planning Your Assessment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980)
@@ -1288,6 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[SaaS]] (1), [[Microsoft Azure|Azure]] (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** we discussed (1)
@@ -1356,9 +1366,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), leadership (2), career (2), [[Search]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - one (1), - or (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nist (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1393,8 +1403,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), data (3), [[NIST]] (2), [[Privacy]] (1), [[Accountability]] (1)
 > **Env Vars:** nist (2), iso (1), hipaa (1)
-> **Code Keywords:** self (1), protected (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1451,6 +1461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[OWASP]] (3), web (2), [[Penetration Testing]] (2), [[Manual Testing]] (2)
 > **Env Vars:** owasp (3), zap (1), ptes (1)
 > **Definitions:** is a  (1), is an  (1), in other words (1)
 > **Analogies:** such as (2)
@@ -1493,9 +1504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), career (1), [[NIST]] (1), [[Information Security Management]] (1)
 > **Env Vars:** iso (4), fisma (2), nist (1)
 > **URLs:** [simplerisk.com](https://simplerisk.com) (1), [openfisma.org](https://openfisma.org) (1), [iso27001security.com](https://iso27001security.com) (1), [iso.org](https://iso.org) (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1530,10 +1541,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Microsoft Office|Office]] (2), web (2), [[OWASP]] (2), [[Penetration Testing]] (1)
 > **Env Vars:** ptes (2), owasp (2), ocr (1), onc (1), hipaa (1)
 > **URLs:** [pcisecuritystandards.org](https://pcisecuritystandards.org) (1), [healthit.gov](https://healthit.gov) (1), [pentes-standard.org](https://pentes-standard.org) (1), [isecom.org](https://isecom.org) (1), [sectools.org](https://sectools.org) (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1541,7 +1552,7 @@ created: 2026-04-29
 
 ### 4. Review Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Documentation review
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/documentation-review?u=76281980)
@@ -1632,8 +1643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), [[Security Incident Response]] (2), application (1), mobile application (1), data (1)
 > **Env Vars:** isaca (5), cis (3), cisa (2)
-> **Code Keywords:** let (2), implements (1), finally, (1), for, (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** similar to (1)
@@ -1678,6 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), application (1), data (1)
 > **Speakers:** - [narrator] (1)
 
 #### Log management tools
@@ -1727,8 +1739,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), [[Security]] (5), data (3), [[Elasticsearch]] (2), application (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **URLs:** [zeltser.com](https://zeltser.com) (1)
 > **Env Vars:** elk (1)
 > **Analogies:** picture (1)
@@ -1807,11 +1819,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), [[Security]] (4), business (3), [[Intrusion Detection]] (1), management (1)
 > **Env Vars:** ssh (1), rdp (1), ids (1), ips (1)
 > **CLI Commands:** ssh (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** delete (1)
 > **URLs:** [titania.com](https://titania.com) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1858,9 +1870,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[System Configuration]] (1), business (1)
 > **Env Vars:** cis (2), cat (2)
 > **CLI Commands:** cat (2)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [jerod] (1)
@@ -1998,8 +2010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), [[Security]] (3), next (2), [[Windows 10]] (1), [[Microsoft]] (1)
 > **Env Vars:** html (5), cis (3), cad (2), cat (1)
-> **Code Keywords:** let (5), delete (1), type, (1), this. (1), for, (1)
 > **CLI Commands:** make (3), cat (1), unzip (1)
 > **UI Navigation:** go to (2), select the (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -2050,8 +2062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), data (3), business (2), [[Microsoft Office|Office]] (2), [[Intrusion Detection]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2140,7 +2152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), for. (1)
+> **Frameworks & Libraries:** [[Wireshark]] (8), traffic (7), [[LinkedIn]] (6), data (3), dns (2)
 > **UI Navigation:** go to (3), open the (1), click on (1), select the (1)
 > **Env Vars:** dns (2), icmp (1), aws (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2), [azuredns.com](https://azuredns.com) (1)
@@ -2218,7 +2230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), for. (1)
+> **Frameworks & Libraries:** [[Security]] (2), management (2), database (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** md5 (1), sha1 (1), ossec (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (1), such as (1), for example (1)
@@ -2228,7 +2240,7 @@ created: 2026-04-29
 
 ### 5. Identifying Your Targets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Network discovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-discovery?u=76281980)
@@ -2275,6 +2287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), traffic (2), next (1)
 > **Env Vars:** ics (3), icmp (1)
 > **Prerequisites:** you'll need (1), configure (1)
 > **Definitions:** is a  (1)
@@ -2337,9 +2350,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (10), open-source (1), traffic (1), [[Network Security]] (1)
 > **Env Vars:** dns (10), osint (7), bgp (1), url (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** continue (1), let (1)
 > **Definitions:** is a  (1), means that (1)
 > **URLs:** [pentest-tools.com](https://pentest-tools.com) (1)
 > **Speakers:** - [teacher] (1)
@@ -2399,9 +2412,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), traffic (1)
 > **Env Vars:** dmz (2), ftp (1), http (1), ssh (1), rdp (1)
 > **CLI Commands:** find (1), ssh (1)
-> **Code Keywords:** default, (1)
 > **Ports:** port 80 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2491,7 +2504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** [[Linux]] (3), web (1), data (1)
 > **CLI Commands:** ssh (2), apache (1)
 > **Env Vars:** ssh (2), http (1)
 > **UI Navigation:** scroll up (1), scroll down (1), go to (1)
@@ -2539,7 +2552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), finally, (1)
+> **Frameworks & Libraries:** application (2), web (2), next (1), leadership (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
@@ -2720,8 +2733,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Kali Linux]] (2), management (1), [[Security]] (1), [[Linux]] (1)
 > **Env Vars:** ssl (5), url (1), ssh (1), cis (1), cat (1)
-> **Code Keywords:** let (5), self (2), interface (1)
 > **UI Navigation:** navigate to (3), click on (3), go to (1)
 > **CLI Commands:** sudo (1), systemctl (1), ssh (1), cat (1)
 > **Definitions:** is a  (4)
@@ -2788,8 +2801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), traffic (2), [[Internet of Things (IoT)|Internet of things]] (1), [[IoT]] (1), [[Windows]] (1)
 > **Env Vars:** wpa2 (5), wpa3 (3), iot (1), wep (1), wpa (1)
-> **Code Keywords:** protected (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** iphone (1)
 > **Definitions:** is a  (1)
@@ -2828,6 +2841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Wireshark]] (1), next (1)
 > **Env Vars:** mac (1), wpa2 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2993,7 +3007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), interface (2), private (2), throw (1), from. (1)
+> **Frameworks & Libraries:** data (3), traffic (2), hit (2), [[Kali Linux]] (1), [[Wireless Networking]] (1)
 > **Env Vars:** bssid (4), alfa (1), awus036ach (1), mac (1), enc (1)
 > **CLI Commands:** sudo (4), find (2), make (1)
 > **File Paths:** kismet.csv (1), log.csv (1)
@@ -3005,7 +3019,7 @@ created: 2026-04-29
 
 ### 6. Vulnerability Validation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Password cracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980)
@@ -3068,7 +3082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (3), function (2)
+> **Frameworks & Libraries:** [[Security]] (6), application (6), data (3), management (1), [[Kali Linux]] (1)
 > **URLs:** [rockyou.com](https://rockyou.com) (1)
 > **Speakers:** - [narrator] (1)
 
@@ -3193,7 +3207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), throw (2), function (2), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[LinkedIn]] (4), [[Kali Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** cat (5), find (2)
 > **Env Vars:** admin (5), dirb (1)
 > **File Paths:** output.txt (2), common.txt (2)
@@ -3243,8 +3257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Penetration Testing]] (3), application (3), data (3), [[Security]] (2), [[NIST]] (1)
 > **Env Vars:** ptes (2), pci (1), dss (1), nist (1)
-> **Code Keywords:** case. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Penetration test tools
@@ -3306,6 +3320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), [[GitHub]] (2), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Google]] (1)
 > **Env Vars:** osint (6), api (5), cse (1), nist (1), foca (1)
 > **Tools:** github (2), command line (1)
 > **CLI Commands:** python (1), find (1)
@@ -3354,7 +3369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), require (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (2), application (1)
 > **Env Vars:** rtfm (1), btfm (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -3426,7 +3441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), self (1), require (1)
+> **Frameworks & Libraries:** [[Engineering]] (12), [[Phishing]] (2), [[Security]] (2), [[Penetration Testing]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is an  (2), known as (1)
 > **CLI Commands:** python (1), find (1)
 > **Env Vars:** osint (1)
@@ -3522,7 +3537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), for, (1), try. (1)
+> **Frameworks & Libraries:** [[Engineering]] (8), hit (2), web (2), [[Kali Linux]] (1), [[OWASP]] (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Versions:** 10.0.2 (2), 137.74.187 (1)
 > **URLs:** [site.org](https://site.org) (1), [https://www.hackthissite.org](https://www.hackthissite.org) (1)
@@ -3533,7 +3548,7 @@ created: 2026-04-29
 
 ### 7. Additional Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coordinating your assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/coordinating-your-assessments?u=76281980)
@@ -3596,8 +3611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Incident Response]] (2), application (1), [[Engineering]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** extends (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
@@ -3680,7 +3695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), this, (1), continue (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (5), next (2), [[Forms]] (1), management (1), [[Linux]] (1)
 > **URLs:** [osboxes.org](https://osboxes.org) (1), [vulnhub.com](https://vulnhub.com) (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -3712,6 +3727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3776,8 +3792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Security]] (2), [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Linux]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** delete (1), pass (1)
 > **Versions:** 5220.22 (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -3817,6 +3833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Security]] (2), business (1), application (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -3870,16 +3887,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), power (1), data (1)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** if, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980)
@@ -3966,10 +3983,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), next (3), application (1), management (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we covered (2)
 > **Prerequisites:** install (1), set up (1)
-> **Code Keywords:** require (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [jerod] (1)
 
@@ -4034,9 +4051,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[NIST]] (2), [[LinkedIn]] (2), [[GitHub]] (1), [[Penetration Testing]] (1)
 > **Env Vars:** nist (2), rtfm (1), btfm (1), issa (1), isaca (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** continue (2), finally, (1), let (1)
 > **URLs:** [infosec-conferences.com](https://infosec-conferences.com) (1), [securitybsides.com](https://securitybsides.com) (1), [irongeek.com](https://irongeek.com) (1), [simplifyingcybersecurity.com](https://simplifyingcybersecurity.com) (1)
 > **Code Identifiers:** irongeek_adc (1)
 > **Tools:** github (1)

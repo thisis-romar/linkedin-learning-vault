@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Exploring%20the%20Future%20of%20Development%20with%20GitHub%20Copilot%20Workspace.md)
@@ -52,15 +52,15 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The coding revolution is driven by AI
+  - [The coding revolution is driven by AI](#the-coding-revolution-is-driven-by-ai)
 - [**1. Using Copilot Workspace**](#1-using-copilot-workspace) (3 videos)
-  - Creating a spec with Copilot Workspace
-  - Generating a plan for your Copilot Workspace
-  - Implementing a plan
+  - [Creating a spec with Copilot Workspace](#creating-a-spec-with-copilot-workspace)
+  - [Generating a plan for your Copilot Workspace](#generating-a-plan-for-your-copilot-workspace)
+  - [Implementing a plan](#implementing-a-plan)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The coding revolution is driven by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/the-coding-revolution-is-driven-by-ai?u=76281980)
@@ -85,7 +85,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Microsoft Copilot|Copilot]] (1), ai (1)
 > **Documentation:** spec (1)
 > **Tools:** github (1)
 > **Speakers:** - last (1)
@@ -93,7 +93,7 @@ created: 2026-04-29
 
 ### 1. Using Copilot Workspace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a spec with Copilot Workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980)
@@ -158,11 +158,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), ai (4), [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (2), next (1)
 > **Documentation:** specification (6), spec (4)
 > **Tools:** github (2), terminal (2)
 > **UI Navigation:** click on (3), toggle (1)
 > **Env Vars:** readme (2), ide (1)
-> **Code Keywords:** let (1), continue (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -304,7 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), function (2), let (2), switch (1), default, (1)
+> **Frameworks & Libraries:** ai (6), [[JavaScript]] (6), [[HTML]] (4), css (4), hit (2)
 > **Code Identifiers:** jquery (10), addeventlistener (1)
 > **Env Vars:** cdn (7), css (3), dom (1)
 > **CLI Commands:** make (7)
@@ -400,7 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1), this, (1), continue (1)
+> **Frameworks & Libraries:** ai (4), [[HTML]] (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **UI Navigation:** click on (3), dropdown (2), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2), cdn (1)

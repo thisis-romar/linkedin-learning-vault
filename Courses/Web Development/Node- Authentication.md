@@ -31,7 +31,7 @@ tags:
   - skill/digital-authentication
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node-%20Authentication.md)
@@ -50,44 +50,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Real sites need authentication
-  - What you should know
-  - Loading the exercise files from GitHub
+  - [Real sites need authentication](#real-sites-need-authentication)
+  - [What you should know](#what-you-should-know)
+  - [Loading the exercise files from GitHub](#loading-the-exercise-files-from-github)
 - [**1. Getting Started**](#1-getting-started) (3 videos)
-  - Prepare your development environment
-  - Set up MongoDB
-  - Set up and understand the playground sample application
+  - [Prepare your development environment](#prepare-your-development-environment)
+  - [Set up MongoDB](#set-up-mongodb)
+  - [Set up and understand the playground sample application](#set-up-and-understand-the-playground-sample-application)
 - [**2. Registering New Users Handling Passwords**](#2-registering-new-users-handling-passwords) (9 videos)
-  - Registering new users
-  - Why plaintext passwords are bad
-  - Hashing and validating passwords with bcrypt
-  - Implementing login and logout
-  - Deserializing the logged in user from the database
-  - Offer remember me
-  - Require user verification
-  - Resetting passwords
-  - Implementing the password reset flow
+  - [Registering new users](#registering-new-users)
+  - [Why plaintext passwords are bad](#why-plaintext-passwords-are-bad)
+  - [Hashing and validating passwords with bcrypt](#hashing-and-validating-passwords-with-bcrypt)
+  - [Implementing login and logout](#implementing-login-and-logout)
+  - [Deserializing the logged in user from the database](#deserializing-the-logged-in-user-from-the-database)
+  - [Offer remember me](#offer-remember-me)
+  - [Require user verification](#require-user-verification)
+  - [Resetting passwords](#resetting-passwords)
+  - [Implementing the password reset flow](#implementing-the-password-reset-flow)
 - [**3. Using Passport.js**](#3-using-passportjs) (8 videos)
-  - Using Passport.js for authentication
-  - Implementing local authentication with Passport.js
-  - Securing routes
-  - Set up and understand the ToDo list sample application
-  - Authenticating API calls
-  - Creating and sending JWT tokens
-  - Implementing JWT authentication with passport
-  - Ensuring object level authorization
+  - [Using Passport.js for authentication](#using-passportjs-for-authentication)
+  - [Implementing local authentication with Passport.js](#implementing-local-authentication-with-passportjs)
+  - [Securing routes](#securing-routes)
+  - [Set up and understand the ToDo list sample application](#set-up-and-understand-the-todo-list-sample-application)
+  - [Authenticating API calls](#authenticating-api-calls)
+  - [Creating and sending JWT tokens](#creating-and-sending-jwt-tokens)
+  - [Implementing JWT authentication with passport](#implementing-jwt-authentication-with-passport)
+  - [Ensuring object level authorization](#ensuring-object-level-authorization)
 - [**4. Single Sign-On (SSO)**](#4-single-sign-on-sso) (5 videos)
-  - Authentication, authorization, and single sign-on (SSO)
-  - The GitHub OAuth2 authorization (and authentication) flow
-  - Prepare Passport.js for GitHub OAuth2
-  - Extend the application for single sign-on
-  - Finalize and test the single sign-on flow
+  - [Authentication, authorization, and single sign-on (SSO)](#authentication-authorization-and-single-sign-on-sso)
+  - [The GitHub OAuth2 authorization (and authentication) flow](#the-github-oauth2-authorization-and-authentication-flow)
+  - [Prepare Passport.js for GitHub OAuth2](#prepare-passportjs-for-github-oauth2)
+  - [Extend the application for single sign-on](#extend-the-application-for-single-sign-on)
+  - [Finalize and test the single sign-on flow](#finalize-and-test-the-single-sign-on-flow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Real sites need authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980)
@@ -116,9 +116,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (2), web (1), express (1), database (1), [[Engineering]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
-> **Code Keywords:** let (1), super (1)
 > **Speakers:** - [daniel] (1)
 
 #### What you should know
@@ -146,9 +146,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (3), express (3), [[Databases]] (2), [[GitHub]] (2), [[Git]] (2)
 > **CLI Commands:** node (3), git (2)
 > **File Paths:** node.js (3)
-> **Code Keywords:** async (1), await (1), let (1)
 > **Env Vars:** es6 (1), git (1)
 > **Tools:** github (2)
 > **Exercise Files:** exercise files (1)
@@ -231,19 +231,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (13), [[GitHub]] (5), node (2), [[Search]] (1), career (1)
 > **CLI Commands:** git (13), ssh (2), node (2), make (1), cd (1)
 > **Tools:** github (5), terminal (2)
 > **Env Vars:** url (2), ssh (2)
 > **UI Navigation:** click on (2), select the (1), open the (1)
 > **Definitions:** is a  (2), means that (1), is called (1)
-> **Code Keywords:** switch (1), case, (1), let (1)
 > **Exercise Files:** github repo (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980)
@@ -306,6 +306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), [[Databases]] (2), next (2), database (1), [[Windows]] (1)
 > **CLI Commands:** docker (10), node (7), mongo (4), make (1)
 > **Tools:** terminal (2), visual studio (2)
 > **Prerequisites:** setup (1), install (1), set up (1)
@@ -313,7 +314,6 @@ created: 2026-04-29
 > **Exercise Files:** download the (1), exercise files (1)
 > **Env Vars:** lts (1)
 > **Definitions:** is an  (1)
-> **Speakers:** - [instructor] (1)
 
 #### Set up MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/set-up-mongodb?u=76281980)
@@ -368,10 +368,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (19), database (2), [[Databases]] (2), hit (1), [[Security]] (1)
 > **CLI Commands:** docker (15), make (3), mongo (2)
 > **Tools:** docker desktop (1), terminal (1)
 > **Prerequisites:** install (1), setup (1)
-> **Code Keywords:** interface (1)
 > **Ports:** :27017 (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
@@ -488,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), pass (2), module (1), finally, (1)
+> **Frameworks & Libraries:** application (10), [[MongoDB]] (9), database (5), [[Routing]] (5), [[Vue.js]] (2)
 > **File Paths:** index.js (3), vue.js (2), app.js (2), express.js (1), package.json (1)
 > **Definitions:** is a  (6), is called (3)
 > **CLI Commands:** npm (2), docker (2), make (1)
@@ -500,7 +500,7 @@ created: 2026-04-29
 
 ### 2. Registering New Users Handling Passwords
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Registering new users
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980)
@@ -745,7 +745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (4), const (2), await (2), match, (1)
+> **Frameworks & Libraries:** database (9), data (7), next (3), application (2), [[HTML]] (1)
 > **CLI Commands:** make (4), mongo (3), find (2)
 > **UI Navigation:** click on (5), scroll up (1)
 > **Definitions:** is a  (3)
@@ -833,7 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), module (1), pass (1), let (1)
+> **Frameworks & Libraries:** data (1), product (1), [[Node.js]] (1), database (1), application (1)
 > **CLI Commands:** node (1), find (1)
 > **File Paths:** node.js (1)
 > **Code Identifiers:** haveibeenpwned (1)
@@ -962,7 +962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (8), require (2), interface (2), async (2)
+> **Frameworks & Libraries:** next (9), database (3), [[Node.js]] (2), [[npm]] (2), express (2)
 > **CLI Commands:** node (3), make (2), npm (2)
 > **Code Identifiers:** generatehash (1), ismodified (1), usersschema (1)
 > **File Paths:** node.js (2)
@@ -1060,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), const (2), await (2), pass (2), require (1)
+> **Frameworks & Libraries:** database (6), next (5), application (3), [[MongoDB]] (2), feature (1)
 > **UI Navigation:** scroll down (5), click on (2)
 > **CLI Commands:** find (5), make (1)
 > **File Paths:** login.js (3)
@@ -1130,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (2), return, (1), continue (1), const (1)
+> **Frameworks & Libraries:** next (7), database (6), express (2), feature (1)
 > **Code Identifiers:** userid (9)
 > **Tools:** visual studio (3)
 > **Cross-References:** later in (1), in the next (1)
@@ -1250,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), function (2), default, (1), else. (1)
+> **Frameworks & Libraries:** management (2), application (1), next (1)
 > **UI Navigation:** click on (6), checkbox (3), scroll down (2), go to (2)
 > **Definitions:** means that (3), is called (1)
 > **CLI Commands:** make (2)
@@ -1384,7 +1384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (3), require (1), from. (1), static (1)
+> **Frameworks & Libraries:** application (3), next (3), database (2), [[Security]] (2), express (1)
 > **UI Navigation:** click on (7), toggle (1), scroll down (1), open the (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** findbyid (1), userid (1), verificationtoken (1)
@@ -1490,7 +1490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (3), case, (2), match. (1), finally, (1)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[MongoDB]] (3), [[Security]] (1), feature (1), next (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** scroll down (2), click on (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1697,7 +1697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), await (5), const (4), case, (2), pass (1)
+> **Frameworks & Libraries:** database (5), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** find (5), make (3)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (3)
@@ -1708,7 +1708,7 @@ created: 2026-04-29
 
 ### 3. Using Passport.js
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Passport.js for authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980)
@@ -1753,7 +1753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), module (1)
+> **Frameworks & Libraries:** data (3), [[GitHub]] (2), database (2), application (2), [[Node.js]] (1)
 > **CLI Commands:** node (1), find (1)
 > **Tools:** github (2)
 > **File Paths:** node.js (1)
@@ -1963,7 +1963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), module (8), function (7), const (6), async (5)
+> **Frameworks & Libraries:** database (4), express (3), management (3), [[Node.js]] (2), [[npm]] (2)
 > **Code Identifiers:** usernamefield (4), setuppassport (3), passwordfield (2), passreqtocallback (1), passrequesttocallback (1)
 > **Definitions:** means that (3), is an  (3), is called (3), is a  (3)
 > **CLI Commands:** node (2), npm (2), make (2), find (1)
@@ -2041,7 +2041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (3), while, (1), case, (1), const (1)
+> **Frameworks & Libraries:** data (2), next (2), node (1), application (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** pim (1), url (1), rest (1)
 > **UI Navigation:** scroll down (2), click on (1)
 > **Prerequisites:** install (3)
@@ -2115,8 +2115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (16), application (10), [[Vue.js]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[npm]] (2)
 > **Env Vars:** api (9), post (2), url (2), put (1), delete (1)
-> **Code Keywords:** let (7), delete (2)
 > **CLI Commands:** find (4), npm (2)
 > **API Endpoints:** post  (2), get  (1), /api/todolist (1), put  (1), delete  (1)
 > **Definitions:** is a  (4), means that (1)
@@ -2269,8 +2269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[Tokens]] (6), database (3), application (2), [[JavaScript]] (2)
 > **Env Vars:** jwt (11), api (7), xhr (6), json (2), uhs (1)
-> **Code Keywords:** let (6), case, (3), this. (1), protected (1), match. (1)
 > **Definitions:** is a  (3), means that (2)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
@@ -2388,7 +2388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), const (4), module (3), require (2), switch (1)
+> **Frameworks & Libraries:** application (3), next (3), [[GitHub]] (3), [[Tokens]] (3), api (3)
 > **Env Vars:** jwt (6), jwtsecret (4), json (2), api (2)
 > **File Paths:** index.js (2), process.env (2), node.js (1), params.config (1), res.json (1)
 > **Tools:** github (3), terminal (2)
@@ -2620,7 +2620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), const (4), require (3), delete (2), module (1)
+> **Frameworks & Libraries:** application (10), api (10), [[Vue.js]] (6), next (4), [[Fetch]] (3)
 > **Env Vars:** jwt (15), api (5), url (2), jwtsecret (1), json (1)
 > **Code Identifiers:** passportjwt (3), userid (3), jwtpayload (2), updateitem (2), serializeuser (1)
 > **File Paths:** index.js (6), vue.js (6), node.js (1), res.json (1)
@@ -2710,7 +2710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (7), protected (2), case, (2), this. (1)
+> **Frameworks & Libraries:** api (3), application (2), data (1), database (1), [[Security]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** api (3), jwt (1)
 > **UI Navigation:** click on (2)
@@ -2721,7 +2721,7 @@ created: 2026-04-29
 
 ### 4. Single Sign-On (SSO)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication, authorization, and single sign-on (SSO)
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980)
@@ -2860,7 +2860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (2), switch (1), case. (1)
+> **Frameworks & Libraries:** application (3), next (1), [[Microsoft Office|Office]] (1), [[Security]] (1), data (1)
 > **Env Vars:** sso (4), saml (3), api (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.0 (1)
@@ -2970,10 +2970,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (22), application (3), api (3), [[Google]] (1), [[LinkedIn]] (1)
 > **Tools:** github (22)
 > **Code Identifiers:** access_token (3), client_id (2), redirect_uri (2), client_secret (1)
 > **Env Vars:** url (4), api (2), uml (1), post (1)
-> **Code Keywords:** let (2), this. (1), for. (1), this, (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **API Endpoints:** get  (2), post  (1)
 > **Versions:** 2.0 (3)
@@ -3206,7 +3206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), case, (3), const (2), require (2), async (2)
+> **Frameworks & Libraries:** [[GitHub]] (25), next (9), application (4), api (3), [[Fetch]] (3)
 > **Tools:** github (25), visual studio (3)
 > **Code Identifiers:** accesstoken (5), refreshtoken (4), passreqtocallback (1)
 > **Env Vars:** url (3), api (3), gwt (1), github_client_id (1), github_client_secret (1)
@@ -3492,7 +3492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (5), case, (4), const (3), await (3)
+> **Frameworks & Libraries:** [[GitHub]] (19), database (6), [[MongoDB]] (4), next (4), data (3)
 > **Code Identifiers:** profileid (7), tempoauthprofile (6), returnto (3), createsocialuser (2), oauthprofile (2)
 > **Tools:** github (19)
 > **CLI Commands:** find (5), make (3)
@@ -3758,7 +3758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), else. (3), pass (2), const (1), require (1)
+> **Frameworks & Libraries:** [[GitHub]] (28), database (3), [[Security]] (1), hit (1), feature (1)
 > **Tools:** github (28)
 > **UI Navigation:** click on (8), scroll down (3), go to (2), scroll up (1), in the menu (1)
 > **CLI Commands:** make (2), node (1)
@@ -3770,7 +3770,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980)
@@ -3805,9 +3805,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (3), express (3), [[Databases]] (2), next (1), [[LinkedIn]] (1)
 > **File Paths:** node.js (3), passport.js (1)
 > **CLI Commands:** node (3), find (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** jwt (1)
 > **Cross-References:** we covered (1)
 > **UI Navigation:** click on (1)

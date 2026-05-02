@@ -33,7 +33,7 @@ tags:
   - topic/data-science
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Python%20(2021).md)
@@ -52,47 +52,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learning Python
-  - What you should know
-  - Exercise files
+  - [Learning Python](#learning-python)
+  - [What you should know](#what-you-should-know)
+  - [Exercise files](#exercise-files)
 - [**1. Getting Started**](#1-getting-started) (5 videos)
-  - Installing Python on Windows
-  - Installing Python on Mac
-  - Choosing an editor or IDE
-  - How to run the Python examples
-  - CoderPad Challenges
+  - [Installing Python on Windows](#installing-python-on-windows)
+  - [Installing Python on Mac](#installing-python-on-mac)
+  - [Choosing an editor or IDE](#choosing-an-editor-or-ide)
+  - [How to run the Python examples](#how-to-run-the-python-examples)
+  - [CoderPad Challenges](#coderpad-challenges)
 - [**2. Python Basics**](#2-python-basics) (9 videos)
-  - Building Hello World
-  - Variables and expressions
-  - Python functions
-  - Conditional structures
-  - Loops
-  - Classes
-  - Importing and using modules
-  - Using exceptions
-  - Solution: Palindromes
+  - [Building Hello World](#building-hello-world)
+  - [Variables and expressions](#variables-and-expressions)
+  - [Python functions](#python-functions)
+  - [Conditional structures](#conditional-structures)
+  - [Loops](#loops)
+  - [Classes](#classes)
+  - [Importing and using modules](#importing-and-using-modules)
+  - [Using exceptions](#using-exceptions)
+  - [Solution: Palindromes](#solution-palindromes)
 - [**3. Working with Files**](#3-working-with-files) (4 videos)
-  - Reading and writing files
-  - Working with OS path utilities
-  - Using filesystem shell methods
-  - Solution: Files
+  - [Reading and writing files](#reading-and-writing-files)
+  - [Working with OS path utilities](#working-with-os-path-utilities)
+  - [Using filesystem shell methods](#using-filesystem-shell-methods)
+  - [Solution: Files](#solution-files)
 - [**4. Using Dates and Times**](#4-using-dates-and-times) (5 videos)
-  - The date, time, and datetime classes
-  - Formatting time output
-  - Using timedelta objects
-  - Working with calendars
-  - Solution: Dates and times
+  - [The date, time, and datetime classes](#the-date-time-and-datetime-classes)
+  - [Formatting time output](#formatting-time-output)
+  - [Using timedelta objects](#using-timedelta-objects)
+  - [Working with calendars](#working-with-calendars)
+  - [Solution: Dates and times](#solution-dates-and-times)
 - [**5. Internet Data Formats**](#5-internet-data-formats) (4 videos)
-  - Fetching Internet data
-  - Working with JSON data
-  - Parsing and processing HTML
-  - Manipulating XML
+  - [Fetching Internet data](#fetching-internet-data)
+  - [Working with JSON data](#working-with-json-data)
+  - [Parsing and processing HTML](#parsing-and-processing-html)
+  - [Manipulating XML](#manipulating-xml)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go next
+  - [Where to go next](#where-to-go-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980)
@@ -117,9 +117,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (3), cloud (2), data (1), [[HTML]] (1)
 > **CLI Commands:** python (5)
 > **Env Vars:** html (1), xml (1), json (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** such as (2)
 > **Speakers:** - the (1)
 
@@ -154,6 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (7), [[JavaScript]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Tools:** terminal (1), visual studio (1)
 > **Analogies:** such as (1), similar to (1)
@@ -193,8 +194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Exercise Files:** exercise files (3), exercise file (1)
-> **Code Keywords:** let (2)
 > **Tools:** github (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -202,7 +203,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Python on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980)
@@ -245,8 +246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (2), [[Windows]] (2), hit (1)
 > **CLI Commands:** python (9), make (1)
-> **Code Keywords:** let (2), this, (1), case, (1), continue (1)
 > **Versions:** 3.9 (2), python 3 (1)
 > **Tools:** terminal (3)
 > **URLs:** [python.org](https://python.org) (1)
@@ -302,8 +303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Linux]] (4), [[Windows]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (14), python3 (4), make (1)
-> **Code Keywords:** this, (1), this. (1), let (1), case, (1), continue (1)
 > **Versions:** python 3 (2), python 2 (1)
 > **Tools:** terminal (3)
 > **Exercise Files:** download the (3)
@@ -382,11 +383,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Windows]] (3), [[Search]] (3), [[Microsoft]] (2), [[Programming]] (1)
 > **CLI Commands:** python (17), make (4), find (1)
 > **Tools:** vs code (11), visual studio (3), terminal (1)
 > **UI Navigation:** click on (6), open the (1), drag and drop (1), in the menu (1)
 > **Prerequisites:** install (6), set up (3)
-> **Code Keywords:** let (3)
 > **Cross-References:** go back to (1), later in (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Code Identifiers:** helloworld_start (1)
@@ -456,9 +457,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Linux]] (4), [[Windows]] (4), [[Powershell]] (1), prompt (1)
 > **CLI Commands:** python (9), python3 (2)
 > **Tools:** terminal (3), visual studio (2), vs code (2), powershell (1), command prompt (1)
-> **Code Keywords:** let (3), this. (1)
 > **Exercise Files:** exercise files (2)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Code Identifiers:** helloworld_finished (1)
@@ -524,7 +525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** scroll down (1)
@@ -534,7 +535,7 @@ created: 2026-04-29
 
 ### 2. Python Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building Hello World
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980)
@@ -699,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (9), this, (4), case, (2), module (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (36), hit (5), [[Java]] (2), [[Windows]] (1), prompt (1)
 > **CLI Commands:** python (36)
 > **Tools:** terminal (7), command line (4), vs code (4), visual studio (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1), is called (1), means that (1)
@@ -991,7 +992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), function (14), this. (4), this, (2), def, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), data (6), next (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (12), make (5)
 > **Cross-References:** go back to (3), earlier in (1), later in (1)
 > **Tools:** terminal (4), vs code (1)
@@ -1317,7 +1318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (39), let (24), case, (6), this. (4), pass (4)
+> **Frameworks & Libraries:** power (11), [[Python (Programming Language)|Python]] (9), next (2), [[Programming]] (1), [[Java]] (1)
 > **CLI Commands:** python (9)
 > **Code Identifiers:** multi_add (3), functions_start (1)
 > **Analogies:** for example (1), just like (1), similar to (1)
@@ -1531,7 +1532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), elif (7), else. (2), function (1), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), feature (2)
 > **CLI Commands:** python (6), make (6)
 > **Versions:** python 3 (3), 3.10 (2)
 > **Tools:** terminal (4)
@@ -1691,7 +1692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), function (6), case, (5), continue (5), this. (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Programming]] (1)
 > **CLI Commands:** python (6)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** known as (1), in other words (1)
@@ -1909,7 +1910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (12), self (9), class. (4), super (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Microsoft Word|Word]] (2), application (1)
 > **CLI Commands:** python (7), make (1)
 > **Analogies:** for example (3), imagine (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -1957,7 +1958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), module (5), this, (2), function (1), pass (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[JSON]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Env Vars:** sqrt (1), xml (1), json (1)
 > **Analogies:** for example (1), such as (1), it's like (1)
@@ -2081,7 +2082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (5), this, (1), try, (1), except, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** exceptions_start (1)
@@ -2141,7 +2142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** click on (1)
@@ -2150,7 +2151,7 @@ created: 2026-04-29
 
 ### 3. Working with Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading and writing files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980)
@@ -2247,7 +2248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (10), case, (4), this. (3), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (7), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (7), make (2)
 > **Definitions:** means that (3), is a  (2)
 > **UI Navigation:** open the (3)
@@ -2478,7 +2479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), function (12), module (7), this. (5), pass (2)
+> **Frameworks & Libraries:** [[Windows]] (2), data (1), [[Python (Programming Language)|Python]] (1), [[Linux]] (1)
 > **Definitions:** is a  (6), is an  (1)
 > **File Paths:** textfile.txt (6)
 > **CLI Commands:** make (2), find (1), python (1)
@@ -2664,7 +2665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (8), module (6), this. (3), class. (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (2)
 > **CLI Commands:** make (11), python (6)
 > **File Paths:** textfile.txt (12), newfile.txt (4)
 > **Exercise Files:** zip file (10)
@@ -2714,7 +2715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), function (4), let (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2722,7 +2723,7 @@ created: 2026-04-29
 
 ### 4. Using Dates and Times
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The date, time, and datetime classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/the-date-time-and-datetime-classes?u=76281980)
@@ -2855,7 +2856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), module (3), function (2), class, (2), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), application (2), next (1)
 > **CLI Commands:** python (5)
 > **Tools:** terminal (3), visual studio (1)
 > **Analogies:** for example (1), imagine (1), just like (1)
@@ -2993,7 +2994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (4), this. (2), class, (1), try. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (4), [[Programming]] (1), application (1)
 > **CLI Commands:** python (5), find (1)
 > **Ports:** :50 (2), :30 (1)
 > **Analogies:** for example (2)
@@ -3170,7 +3171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this. (4), pass (4), function (3), case, (2)
+> **Frameworks & Libraries:** next (9), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Tools:** terminal (2)
 > **Code Identifiers:** timedeltas_start (1)
@@ -3401,7 +3402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), this. (5), module (4), class. (3), function (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[HTML]] (4), next (2), application (1), power (1)
 > **Code Identifiers:** month_name (3), day_name (2), calendars_start (1), month_names (1)
 > **Env Vars:** html (4), friday (3)
 > **CLI Commands:** python (4)
@@ -3475,14 +3476,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (2), function (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [host] (1)
 
 
 ### 5. Internet Data Formats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fetching Internet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980)
@@ -3567,7 +3567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), module (2), pass (1), this, (1)
+> **Frameworks & Libraries:** data (9), [[Google]] (4), [[Python (Programming Language)|Python]] (3), [[HTML]] (3), web (3)
 > **Env Vars:** url (7), html (3), http (2), json (1), xml (1)
 > **CLI Commands:** python (3), make (3)
 > **Analogies:** for example (2), such as (1), similar to (1)
@@ -3791,7 +3791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), function (7), module (3), this. (2), case, (1)
+> **Frameworks & Libraries:** data (25), [[JSON]] (24), [[Python (Programming Language)|Python]] (9), [[Metadata]] (7), [[JavaScript]] (2)
 > **Env Vars:** json (24), url (6), usgs (3), atom (1), kml (1)
 > **CLI Commands:** python (9), make (3), find (1)
 > **Documentation:** spec (5), the documentation (1)
@@ -3983,7 +3983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (13), pass (4), case, (3), this. (3)
+> **Frameworks & Libraries:** [[HTML]] (27), data (15), [[Python (Programming Language)|Python]] (5), web (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (27), url (2)
 > **CLI Commands:** python (5), make (3)
 > **Analogies:** for example (3), such as (1)
@@ -4137,8 +4137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (10), [[Python (Programming Language)|Python]] (4), [[HTML]] (3), node (2), [[JavaScript]] (2)
 > **Env Vars:** xml (16), dom (8), html (3), w3c (2)
-> **Code Keywords:** let (19), function (6), module (1), this, (1)
 > **CLI Commands:** python (4), make (3), node (2)
 > **Code Identifiers:** jquery (3)
 > **Cross-References:** go back to (2)
@@ -4149,7 +4149,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980)
@@ -4188,9 +4188,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), next (2), [[JSON]] (2), data (1), web (1)
 > **CLI Commands:** python (13), find (1)
 > **Env Vars:** json (2), xml (2)
-> **Code Keywords:** finally, (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)

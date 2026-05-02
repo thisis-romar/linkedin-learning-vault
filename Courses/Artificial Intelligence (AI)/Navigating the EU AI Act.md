@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Navigating%20the%20EU%20AI%20Act.md)
@@ -54,51 +54,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Get started with the EU AI Act
-  - Not a legal advice disclaimer
-  - Key terms and definitions
+  - [Get started with the EU AI Act](#get-started-with-the-eu-ai-act)
+  - [Not a legal advice disclaimer](#not-a-legal-advice-disclaimer)
+  - [Key terms and definitions](#key-terms-and-definitions)
 - [**1. EU AI Act Fundamentals**](#1-eu-ai-act-fundamentals) (4 videos)
-  - The goals of the AI Act
-  - Geographic and sector scope
-  - Risk-based approach
-  - Key timelines to consider
+  - [The goals of the AI Act](#the-goals-of-the-ai-act)
+  - [Geographic and sector scope](#geographic-and-sector-scope)
+  - [Risk-based approach](#risk-based-approach)
+  - [Key timelines to consider](#key-timelines-to-consider)
 - [**2. Classifications and Requirements**](#2-classifications-and-requirements) (9 videos)
-  - Prohibited artificial intelligence practices
-  - Classification of high-risk AI systems
-  - Exceptions to the high-risk classification
-  - Risk management systems
-  - Data quality and governance
-  - Technical documentation and recordkeeping
-  - Transparency requirements
-  - Human oversight
-  - Accuracy, robustness, and cybersecurity
+  - [Prohibited artificial intelligence practices](#prohibited-artificial-intelligence-practices)
+  - [Classification of high-risk AI systems](#classification-of-high-risk-ai-systems)
+  - [Exceptions to the high-risk classification](#exceptions-to-the-high-risk-classification)
+  - [Risk management systems](#risk-management-systems)
+  - [Data quality and governance](#data-quality-and-governance)
+  - [Technical documentation and recordkeeping](#technical-documentation-and-recordkeeping)
+  - [Transparency requirements](#transparency-requirements)
+  - [Human oversight](#human-oversight)
+  - [Accuracy, robustness, and cybersecurity](#accuracy-robustness-and-cybersecurity)
 - [**3. Provider and User Obligations**](#3-provider-and-user-obligations) (4 videos)
-  - High-risk AI system provider obligations
-  - Quality management systems
-  - Importer and distributor obligations
-  - High-risk AI system deployer obligations
+  - [High-risk AI system provider obligations](#high-risk-ai-system-provider-obligations)
+  - [Quality management systems](#quality-management-systems)
+  - [Importer and distributor obligations](#importer-and-distributor-obligations)
+  - [High-risk AI system deployer obligations](#high-risk-ai-system-deployer-obligations)
 - [**4. Notify Authority**](#4-notify-authority) (2 videos)
-  - Define the notifying authority and bodies
-  - Notification procedures
+  - [Define the notifying authority and bodies](#define-the-notifying-authority-and-bodies)
+  - [Notification procedures](#notification-procedures)
 - [**5. Certification and Registration**](#5-certification-and-registration) (3 videos)
-  - Conformity assessment procedures
-  - Declaration of conformity and CE marking
-  - AI system registration
+  - [Conformity assessment procedures](#conformity-assessment-procedures)
+  - [Declaration of conformity and CE marking](#declaration-of-conformity-and-ce-marking)
+  - [AI system registration](#ai-system-registration)
 - [**6. Support Innovation and Governance**](#6-support-innovation-and-governance) (3 videos)
-  - AI regulatory sandboxes
-  - The AI Office and European Artificial Intelligence Board
-  - Advisory forum and the scientific panel
+  - [AI regulatory sandboxes](#ai-regulatory-sandboxes)
+  - [The AI Office and European Artificial Intelligence Board](#the-ai-office-and-european-artificial-intelligence-board)
+  - [Advisory forum and the scientific panel](#advisory-forum-and-the-scientific-panel)
 - [**7. Monitoring, Enforcement, and Penalties**](#7-monitoring-enforcement-and-penalties) (4 videos)
-  - Post-market monitoring of AI systems
-  - Incident information sharing
-  - Remedies
-  - Penalties for noncompliance
+  - [Post-market monitoring of AI systems](#post-market-monitoring-of-ai-systems)
+  - [Incident information sharing](#incident-information-sharing)
+  - [Remedies](#remedies)
+  - [Penalties for noncompliance](#penalties-for-noncompliance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Additional references for AI Act compliance
+  - [Additional references for AI Act compliance](#additional-references-for-ai-act-compliance)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/get-started-with-the-eu-ai-act?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), business (1), [[Security]] (1), ai (1)
 > **Speakers:** - the (1)
 
 #### Not a legal advice disclaimer
@@ -141,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), business (1), data (1), [[Privacy]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -197,6 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** refers to (3), is a  (1), means that (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -204,7 +206,7 @@ created: 2026-04-29
 
 ### 1. EU AI Act Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The goals of the AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980)
@@ -237,8 +239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (2), [[Privacy]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** gdpr (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Geographic and sector scope
@@ -296,7 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** ai (11), business (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -347,7 +349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** ai (6), data (2), [[Security]] (1), management (1), [[Real-Time]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -409,15 +411,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), next (1), [[Large Language Models (LLM)|Large language models]] (1), data (1)
 > **Env Vars:** gpai (1), iii (1)
 > **Warnings:** note that (1), keep in mind (1)
-> **Code Keywords:** from. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Classifications and Requirements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prohibited artificial intelligence practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980)
@@ -474,6 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), hit (1), application (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2), refers to (1)
 > **Analogies:** imagine (2)
@@ -542,7 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), public (1), private (1)
+> **Frameworks & Libraries:** ai (15), product (4), traffic (1), management (1), [[Security]] (1)
 > **Env Vars:** iii (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -600,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1), default. (1)
+> **Frameworks & Libraries:** ai (7), [[Decision-Making]] (3), data (2), management (1), [[Intrusion Detection]] (1)
 > **Env Vars:** iii (3)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
@@ -657,7 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), function (1), this. (1)
+> **Frameworks & Libraries:** ai (11), management (4), [[Engineering]] (1), teams (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** nist (1), cisa (1)
 > **Cross-References:** earlier in (1)
 > **Warnings:** note that (1)
@@ -719,12 +722,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), ai (7), management (5), business (1), [[Statistics]] (1)
 > **Env Vars:** pii (1), phi (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Warnings:** keep in mind (1), caveat (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Technical documentation and recordkeeping
@@ -784,7 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (7), [[Technical Documentation]] (4), management (2), data (2), product (1)
 > **Env Vars:** sdlc (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
@@ -846,6 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Hardware]] (1), [[ChatGPT]] (1)
 > **Env Vars:** sdlc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -903,7 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), interface (1)
+> **Frameworks & Libraries:** ai (12), hit (2), [[Accountability]] (1), product (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -963,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), break, (1)
+> **Frameworks & Libraries:** ai (8), [[Cybersecurity]] (6), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Resiliency]] (1)
 > **Env Vars:** nist (1)
 > **Definitions:** refers to (1)
 > **Warnings:** be aware (1)
@@ -972,7 +976,7 @@ created: 2026-04-29
 
 ### 3. Provider and User Obligations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### High-risk AI system provider obligations
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980)
@@ -1009,7 +1013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (6), management (3), [[Technical Documentation]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
@@ -1047,8 +1051,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), ai (5), [[Regulatory Compliance]] (1), [[Quality Assurance]] (1), [[Technical Documentation]] (1)
 > **Env Vars:** qms (3), iso (2), mdr (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Importer and distributor obligations
@@ -1096,7 +1100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** ai (8), [[Microsoft Products|Products]] (4), product (3), business (2), [[Technical Documentation]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1151,8 +1155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (3), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 > **Prerequisites:** required to (1)
@@ -1161,7 +1165,7 @@ created: 2026-04-29
 
 ### 4. Notify Authority
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define the notifying authority and bodies
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980)
@@ -1208,8 +1212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Microsoft Products|Products]] (2), product (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Technical Documentation]] (1)
 > **Env Vars:** fda (3)
-> **Code Keywords:** public (2)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1275,8 +1279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), business (3), [[Technical Documentation]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case. (1), this. (1)
 > **Definitions:** means that (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -1284,7 +1288,7 @@ created: 2026-04-29
 
 ### 5. Certification and Registration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conformity assessment procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/conformity-assessment-procedures?u=76281980)
@@ -1335,7 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** ai (10), management (1), [[Technical Documentation]] (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1383,7 +1387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** product (6), ai (3), [[Technical Documentation]] (2), business (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1432,14 +1436,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), require (1)
+> **Frameworks & Libraries:** ai (10), database (6), management (2), data (1), [[Technical Documentation]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Support Innovation and Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI regulatory sandboxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-regulatory-sandboxes?u=76281980)
@@ -1480,6 +1484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (2), [[Microsoft Office|Office]] (1), application (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1527,8 +1532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Microsoft Office|Office]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), product (1), teams (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 #### Advisory forum and the scientific panel
@@ -1584,6 +1589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Microsoft Office|Office]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** enisa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1591,7 +1597,7 @@ created: 2026-04-29
 
 ### 7. Monitoring, Enforcement, and Penalties
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Post-market monitoring of AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/post-market-monitoring-of-ai-systems?u=76281980)
@@ -1636,7 +1642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (12), data (2), [[Technical Documentation]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1686,7 +1692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), raise (1)
+> **Frameworks & Libraries:** ai (4), next (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1735,7 +1741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), if, (1), private (1)
+> **Frameworks & Libraries:** ai (9), [[Security]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** be aware (2)
 > **CLI Commands:** make (1)
@@ -1794,6 +1800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), next (1)
 > **Versions:** 7.5 (1), 1.5 (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -1801,7 +1808,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional references for AI Act compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/additional-references-for-ai-act-compliance?u=76281980)
@@ -1832,8 +1839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[LinkedIn]] (1)
 > **Env Vars:** pdf (2)
-> **Code Keywords:** public (1)
 > **Speakers:** - throughout (1)
 
 

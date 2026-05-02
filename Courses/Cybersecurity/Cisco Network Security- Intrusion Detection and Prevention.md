@@ -31,7 +31,7 @@ tags:
   - skill/intrusion-detection
   - skill/cisco-networking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Intrusion%20Detection%20and%20Prevention.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Stopping Potential Threats
-  - What you should know
-  - Packet Tracer and exercise files
-  - Prepare for the CCNA Security Exam (210-260)
+  - [Stopping Potential Threats](#stopping-potential-threats)
+  - [What you should know](#what-you-should-know)
+  - [Packet Tracer and exercise files](#packet-tracer-and-exercise-files)
+  - [Prepare for the CCNA Security Exam (210-260)](#prepare-for-the-ccna-security-exam-210-260)
 - [**1. IDS and IPS Overview**](#1-ids-and-ips-overview) (5 videos)
-  - Managing the threat landscape
-  - Overview and benefits of IDS and IPS
-  - IPS versus IDS
-  - Host-based versus network IDS
-  - Prerequisites and restrictions for IPS
+  - [Managing the threat landscape](#managing-the-threat-landscape)
+  - [Overview and benefits of IDS and IPS](#overview-and-benefits-of-ids-and-ips)
+  - [IPS versus IDS](#ips-versus-ids)
+  - [Host-based versus network IDS](#host-based-versus-network-ids)
+  - [Prerequisites and restrictions for IPS](#prerequisites-and-restrictions-for-ips)
 - [**2. Detection and Signature Engines**](#2-detection-and-signature-engines) (6 videos)
-  - Monitoring the network
-  - Signature-based IDS
-  - Sweep scan
-  - Anomaly-based IDS
-  - Reputation-based IDS
-  - Policy-based IDS
+  - [Monitoring the network](#monitoring-the-network)
+  - [Signature-based IDS](#signature-based-ids)
+  - [Sweep scan](#sweep-scan)
+  - [Anomaly-based IDS](#anomaly-based-ids)
+  - [Reputation-based IDS](#reputation-based-ids)
+  - [Policy-based IDS](#policy-based-ids)
 - [**3. Decisions and Actions**](#3-decisions-and-actions) (4 videos)
-  - IDS signature files
-  - Trigger actions and responses
-  - Blacklist and whitelist
-  - Managing IPS alarms
+  - [IDS signature files](#ids-signature-files)
+  - [Trigger actions and responses](#trigger-actions-and-responses)
+  - [Blacklist and whitelist](#blacklist-and-whitelist)
+  - [Managing IPS alarms](#managing-ips-alarms)
 - [**4. Deploying an IOS-Based IPS**](#4-deploying-an-ios-based-ips) (3 videos)
-  - Analyze the flow
-  - Implementing an IPS
-  - Configure an IPS
+  - [Analyze the flow](#analyze-the-flow)
+  - [Implementing an IPS](#implementing-an-ips)
+  - [Configure an IPS](#configure-an-ips)
 - [**5. Practical Applications**](#5-practical-applications) (4 videos)
-  - Monitoring and analyzing
-  - Syslog
-  - Using IDS and honeypots
-  - The EINSTEIN system
+  - [Monitoring and analyzing](#monitoring-and-analyzing)
+  - [Syslog](#syslog)
+  - [Using IDS and honeypots](#using-ids-and-honeypots)
+  - [The EINSTEIN system](#the-einstein-system)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stopping Potential Threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), traffic (1), [[Cybersecurity]] (1), [[Security]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - an (1)
 
@@ -132,9 +132,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), career (1)
 > **Env Vars:** ccna (3)
 > **Definitions:** is an  (2)
-> **Code Keywords:** super (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
@@ -155,6 +155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cisco Networking]] (1), [[Search]] (1), [[Security]] (1)
 > **URLs:** [netacad.com](https://netacad.com) (1)
 > **Env Vars:** ccna (1)
 > **UI Navigation:** scroll down (1)
@@ -171,6 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), vpn (1), [[Routing]] (1), [[Endpoint Security]] (1), data (1)
 > **Env Vars:** ccna (2), vpn (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -178,7 +180,7 @@ created: 2026-04-29
 
 ### 1. IDS and IPS Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing the threat landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980)
@@ -227,6 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Intrusion Detection]] (3), traffic (2), cloud (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **UI Navigation:** scroll up (1), click on (1), scroll down (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -290,8 +293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (7), traffic (2), [[Security]] (2), data (2), [[SQL]] (1)
 > **Env Vars:** sql (1), dns (1), sensitive (1), data (1), http (1)
-> **Code Keywords:** let (2), this, (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** such as (2)
 > **URLs:** [dyndns.org](https://dyndns.org) (1)
@@ -343,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** traffic (10), [[Intrusion Detection]] (7), [[Security]] (3), data (2), database (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -408,9 +411,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (19), traffic (11), [[Security]] (3), application (1), [[Databases]] (1)
 > **Env Vars:** tcp (2), cpu (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prerequisites and restrictions for IPS
@@ -458,12 +461,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Intrusion Detection]] (2), [[Security]] (1), business (1), product (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Detection and Signature Engines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980)
@@ -528,10 +532,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), data (3), traffic (3), [[Search]] (3), database (2)
 > **Env Vars:** udp (2), sql (1), dhcp (1), dns (1), ids (1)
 > **Ports:** port 666 (4), port 53 (1)
 > **UI Navigation:** scroll down (3), go to (2)
-> **Code Keywords:** let (3), case, (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Versions:** 8.2 (1)
@@ -622,9 +626,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), [[Intrusion Detection]] (4), database (2), [[Security]] (1), application (1)
 > **Env Vars:** tcp (8), icmp (4), udp (4), arp (3), http (1)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** type, (1), type. (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** mysql (1)
 > **Prerequisites:** configure (1)
@@ -685,8 +689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (3), traffic (2), [[Wireshark]] (2), [[Security]] (1), [[Vulnerability Assessment]] (1)
 > **Env Vars:** tcp (6), syn (3)
-> **Code Keywords:** let (3), super (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -757,8 +761,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), traffic (2), [[Real-Time]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** public (1), throw (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** such as (1)
@@ -798,6 +802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (5), data (4), database (4), [[Security]] (2), product (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** tcp (1)
@@ -861,7 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (2), for, (1), type, (1), pass (1)
+> **Frameworks & Libraries:** traffic (7), [[Intrusion Detection]] (4), web (2), data (1)
 > **Env Vars:** tcp (1), http (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -871,7 +876,7 @@ created: 2026-04-29
 
 ### 3. Decisions and Actions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IDS signature files
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980)
@@ -918,8 +923,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[Intrusion Detection]] (2), management (1), data (1), [[Real-Time]] (1)
 > **UI Navigation:** go to (2), click on (2)
-> **Code Keywords:** type, (1), match, (1), function (1)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -999,7 +1004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), match, (2), function (2), override (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (3), [[Security]] (2), traffic (1)
 > **Env Vars:** tcp (2), syn (2), ack (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), such as (1)
@@ -1076,7 +1081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), type. (1)
+> **Frameworks & Libraries:** traffic (10), database (2), [[Statistics]] (1), [[Search]] (1), data (1)
 > **Env Vars:** tcp (1), udp (1), icmp (1), mac (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1131,14 +1136,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** traffic (6), [[Intrusion Detection]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Deploying an IOS-Based IPS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze the flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980)
@@ -1207,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2), function (1), from, (1)
+> **Frameworks & Libraries:** traffic (6), data (3), [[Intrusion Detection]] (2), web (2), [[Security]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** icmp (1)
 > **Versions:** 192.168.40 (1)
@@ -1276,8 +1281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), database (1), next (1)
 > **Env Vars:** ips (12), ios (9), sdee (1)
-> **Code Keywords:** public (2), private (1), interface (1), let (1)
 > **Prerequisites:** you'll need (3), configure (2)
 > **URLs:** [cisco.com](https://cisco.com) (2)
 > **Exercise Files:** download the (2)
@@ -1370,8 +1375,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), traffic (1), [[Troubleshooting]] (1)
 > **Env Vars:** ips (9)
-> **Code Keywords:** let (2), interface (2), public (1)
 > **Prerequisites:** configure (5)
 > **Code Identifiers:** ios (3), ios_ips (1)
 > **CLI Commands:** make (2)
@@ -1382,7 +1387,7 @@ created: 2026-04-29
 
 ### 5. Practical Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring and analyzing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980)
@@ -1427,6 +1432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Security]] (6), [[Intrusion Detection]] (4), application (1), express (1)
 > **Env Vars:** siem (6), sdee (3), ips (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1471,7 +1477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[Debugging]] (2), next (1), traffic (1)
 > **Versions:** 192.168.40 (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** configure (1)
@@ -1554,6 +1560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (3), traffic (2), generic (1), data (1), hit (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), be careful (1)
@@ -1561,7 +1568,6 @@ created: 2026-04-29
 > **Env Vars:** dmz (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - [instructor] (1)
 
 #### The EINSTEIN system
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/the-einstein-system?u=76281980)
@@ -1608,13 +1614,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (3), [[Security]] (3), traffic (3), [[Forms]] (1), data (1)
 > **Env Vars:** einstein (17)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980)
@@ -1643,6 +1650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Ethical Hacking]] (1), [[Cryptography]] (1), [[Network Security]] (1), [[Wireshark]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [lisa] (1)

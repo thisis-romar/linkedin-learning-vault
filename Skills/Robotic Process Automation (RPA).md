@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/robotic-process-automation-rpa
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Robotic%20Process%20Automation%20(RPA).md)

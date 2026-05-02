@@ -34,7 +34,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-10
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%2010-%20Security.md)
@@ -53,59 +53,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Windows 10 security overview
-  - What you should know before starting
-  - About this update
+  - [Windows 10 security overview](#windows-10-security-overview)
+  - [What you should know before starting](#what-you-should-know-before-starting)
+  - [About this update](#about-this-update)
 - [**1. Authentication and Accounts**](#1-authentication-and-accounts) (5 videos)
-  - Overview of authentication and accounts
-  - Working with local accounts in Windows 10
-  - Working with Microsoft accounts in Windows 10
-  - Working with domain accounts in Windows 10
-  - Working with Azure accounts in Windows 10
+  - [Overview of authentication and accounts](#overview-of-authentication-and-accounts)
+  - [Working with local accounts in Windows 10](#working-with-local-accounts-in-windows-10)
+  - [Working with Microsoft accounts in Windows 10](#working-with-microsoft-accounts-in-windows-10)
+  - [Working with domain accounts in Windows 10](#working-with-domain-accounts-in-windows-10)
+  - [Working with Azure accounts in Windows 10](#working-with-azure-accounts-in-windows-10)
 - [**2. Authorization**](#2-authorization) (5 videos)
-  - Overview of authorization
-  - Understanding inheritance of permissions
-  - Assigning permissions
-  - Creating and using groups
-  - Working with built-in groups
+  - [Overview of authorization](#overview-of-authorization)
+  - [Understanding inheritance of permissions](#understanding-inheritance-of-permissions)
+  - [Assigning permissions](#assigning-permissions)
+  - [Creating and using groups](#creating-and-using-groups)
+  - [Working with built-in groups](#working-with-built-in-groups)
 - [**3. Encryption**](#3-encryption) (4 videos)
-  - Overview of encryption
-  - Using BitLocker
-  - Using Encrypting File System (EFS)
-  - Encrypting files for the cloud
+  - [Overview of encryption](#overview-of-encryption)
+  - [Using BitLocker](#using-bitlocker)
+  - [Using Encrypting File System (EFS)](#using-encrypting-file-system-efs)
+  - [Encrypting files for the cloud](#encrypting-files-for-the-cloud)
 - [**4. Viruses and Malware**](#4-viruses-and-malware) (8 videos)
-  - Virus and malware overview
-  - Exploring antimalware solutions
-  - Windows Defender: Virus and threat protection
-  - Windows Defender: Device performance and health
-  - Windows Defender: Firewall and network protection
-  - Windows Defender: App and browser control
-  - Windows Defender: Application guard
-  - Windows Defender: Endpoints
+  - [Virus and malware overview](#virus-and-malware-overview)
+  - [Exploring antimalware solutions](#exploring-antimalware-solutions)
+  - [Windows Defender: Virus and threat protection](#windows-defender-virus-and-threat-protection)
+  - [Windows Defender: Device performance and health](#windows-defender-device-performance-and-health)
+  - [Windows Defender: Firewall and network protection](#windows-defender-firewall-and-network-protection)
+  - [Windows Defender: App and browser control](#windows-defender-app-and-browser-control)
+  - [Windows Defender: Application guard](#windows-defender-application-guard)
+  - [Windows Defender: Endpoints](#windows-defender-endpoints)
 - [**5. Network Security**](#5-network-security) (2 videos)
-  - Securing network traffic by using IPsec
-  - Using VPN in Windows 10
+  - [Securing network traffic by using IPsec](#securing-network-traffic-by-using-ipsec)
+  - [Using VPN in Windows 10](#using-vpn-in-windows-10)
 - [**6. Group Policy**](#6-group-policy) (4 videos)
-  - Overview of Group Policy
-  - Applying security settings by using Group Policy
-  - Using Group Policy to audit actions in Window 10
-  - Using Group Policy to harden Windows 10
+  - [Overview of Group Policy](#overview-of-group-policy)
+  - [Applying security settings by using Group Policy](#applying-security-settings-by-using-group-policy)
+  - [Using Group Policy to audit actions in Window 10](#using-group-policy-to-audit-actions-in-window-10)
+  - [Using Group Policy to harden Windows 10](#using-group-policy-to-harden-windows-10)
 - [**7. Remote Desktop**](#7-remote-desktop) (4 videos)
-  - Basic configuration of Remote Desktop
-  - Advanced Remote Desktop configuration using Group Policy
-  - Allowing Remote Desktop through firewall
-  - Changing listening port for Remote Desktop
+  - [Basic configuration of Remote Desktop](#basic-configuration-of-remote-desktop)
+  - [Advanced Remote Desktop configuration using Group Policy](#advanced-remote-desktop-configuration-using-group-policy)
+  - [Allowing Remote Desktop through firewall](#allowing-remote-desktop-through-firewall)
+  - [Changing listening port for Remote Desktop](#changing-listening-port-for-remote-desktop)
 - [**8. Additional Security Considerations**](#8-additional-security-considerations) (4 videos)
-  - Controlling updates for Windows 10
-  - Browsing the web securely with Edge
-  - Secure Boot
-  - Enabling controlled folder access
+  - [Controlling updates for Windows 10](#controlling-updates-for-windows-10)
+  - [Browsing the web securely with Edge](#browsing-the-web-securely-with-edge)
+  - [Secure Boot](#secure-boot)
+  - [Enabling controlled folder access](#enabling-controlled-folder-access)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to learn more about Windows 10 security
+  - [Where to learn more about Windows 10 security](#where-to-learn-more-about-windows-10-security)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Windows 10 security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980)
@@ -130,7 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Windows 10]] (6), [[Security]] (2), [[Microsoft]] (1)
 > **Env Vars:** efs (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [martin] (1)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3)
 > **Speakers:** - [instructor] (1)
 
 #### About this update
@@ -178,15 +178,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft]] (1), [[Security]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
-> **Code Keywords:** interface (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Authentication and Accounts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of authentication and accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980)
@@ -249,9 +249,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Security]] (3), [[Windows 10]] (3), [[Microsoft Azure|Azure]] (3), [[Windows]] (2)
 > **Definitions:** is an  (4), is a  (2), defined as (1), basically means (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Working with local accounts in Windows 10
@@ -321,7 +321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Windows 10]] (2), next (2), [[Windows]] (1), [[Hardware]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Prerequisites:** install (4)
 > **Analogies:** similar to (1)
@@ -354,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), next (2), [[Windows 10]] (1)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** type, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Working with domain accounts in Windows 10
@@ -389,7 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Active Directory]] (1), next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -422,14 +422,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (7), [[Windows 10]] (2), [[Active Directory]] (2), [[Hardware]] (2), [[Microsoft Office|Office]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Authorization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authorization?u=76281980)
@@ -482,7 +482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), next (1)
 > **Definitions:** in other words (2), is called (1), is a  (1)
 > **UI Navigation:** open the (3)
 > **CLI Commands:** make (1)
@@ -593,8 +593,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Security]] (2), [[Windows]] (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (6), go to (3), select the (2)
-> **Code Keywords:** let (2), default, (2), interface (2), this, (1), this. (1)
 > **Definitions:** is called (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -715,8 +715,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (12), prompt (3), [[Windows 10]] (2), [[Security]] (2)
 > **UI Navigation:** open the (5), go to (3), select the (2), click on (1)
-> **Code Keywords:** let (2), this. (1)
 > **Cross-References:** go back to (2)
 > **Tools:** command prompt (2)
 > **CLI Commands:** make (1)
@@ -789,9 +789,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Security]] (1), prompt (1)
 > **UI Navigation:** go to (4), select the (1), click on (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Tools:** command prompt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -867,15 +867,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (4), hit (3), [[Windows]] (2), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), go to (3)
-> **Code Keywords:** delete (3), let (1), interface (1)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Encryption
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of encryption
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980)
@@ -946,9 +946,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Windows 10]] (3), traffic (3), [[Representational State Transfer (REST)|Rest]] (2), [[Security]] (1)
 > **Env Vars:** ssl (3), tls (2), https (2), efs (2)
 > **Definitions:** is a  (1), stands for (1)
-> **Code Keywords:** this. (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1042,8 +1042,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (11), [[Windows 10]] (2), hit (2), prompt (1), [[Windows]] (1)
 > **UI Navigation:** click on (5), select the (1), go to (1), double-click (1)
-> **Code Keywords:** module (1), interface (1), require (1), let (1)
 > **Env Vars:** tpm (2), xts (1), aes (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Tools:** command line (1), command prompt (1)
@@ -1206,8 +1206,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), next (10), [[Windows 10]] (2), [[Windows]] (1)
 > **UI Navigation:** click on (4), right-click (3), go to (3), double-click (2), navigate to (1)
-> **Code Keywords:** private (4), let (1), export. (1), this, (1), this. (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)
@@ -1309,8 +1309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Word]] (3), hit (3), web (3)
 > **UI Navigation:** click on (4), go to (3), switch to (1), open the (1)
-> **Code Keywords:** switch (2), protected (2), interface (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** efs (2)
 > **Cross-References:** go back to (1)
@@ -1320,7 +1320,7 @@ created: 2026-04-29
 
 ### 4. Viruses and Malware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Virus and malware overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/virus-and-malware-overview?u=76281980)
@@ -1381,8 +1381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), web (1)
 > **Definitions:** is a  (5), is called (1)
-> **Code Keywords:** require (2), let (1), else. (1), else, (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Speakers:** - [tutor] (1)
 
@@ -1445,7 +1445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), match, (1), protected (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), hit (1), [[Windows 10]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
@@ -1516,8 +1516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (6), [[Windows]] (2), [[Microsoft Defender|Defender]] (2), next (2), cloud (2)
 > **UI Navigation:** click on (5)
-> **Code Keywords:** interface (2), default, (1), new, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
@@ -1580,7 +1580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), try. (1)
+> **Frameworks & Libraries:** [[Security]] (8), [[Windows]] (5), [[Troubleshooting]] (2), next (1), application (1)
 > **UI Navigation:** select the (1), click on (1), go to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1712,7 +1712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (5), interface (5), let (1), type. (1)
+> **Frameworks & Libraries:** next (7), [[Windows]] (5), hit (5), [[Security]] (3), dns (1)
 > **UI Navigation:** click on (8), go to (2), select the (1)
 > **Env Vars:** tcp (4), udp (4), dns (1)
 > **Prerequisites:** set up (1), you'll need (1), setup (1)
@@ -1802,8 +1802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Windows]] (4), application (4), [[Microsoft Defender]] (3), [[Security]] (2)
 > **UI Navigation:** click on (4), toggle (1)
-> **Code Keywords:** default, (2), let (1), delete (1)
 > **Prerequisites:** configure (2), install (2)
 > **Definitions:** is an  (2), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1861,8 +1861,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), [[Microsoft Defender]] (4), [[Windows]] (4), web (3), [[Security]] (2)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** function (1), this. (1)
 > **Definitions:** is called (1), is a  (1)
 > **Prerequisites:** install (1), set up (1)
 > **Env Vars:** uac (1)
@@ -1896,16 +1896,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (5), [[Windows 10]] (4), cloud (4), [[Security]] (2), [[Analytics]] (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Network Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing network traffic by using IPsec
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980)
@@ -2000,7 +2000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), public (2), from. (1), let (1)
+> **Frameworks & Libraries:** hit (7), next (7), [[Security]] (4), data (4), [[Windows 10]] (2)
 > **UI Navigation:** go to (5), select the (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** vpn (1)
@@ -2062,8 +2062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (14), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Windows 10]] (1), [[Windows]] (1), next (1)
 > **Env Vars:** vpn (14)
-> **Code Keywords:** interface (2), private (1), type, (1), case, (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Definitions:** is a  (2), is an  (1), basically means (1)
 > **Prerequisites:** you'll need (1)
@@ -2072,7 +2072,7 @@ created: 2026-04-29
 
 ### 6. Group Policy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Group Policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980)
@@ -2115,7 +2115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), override (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (1), prompt (1)
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
 > **UI Navigation:** go to (1)
@@ -2193,9 +2193,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), hit (4), [[Windows 10]] (2)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -2289,9 +2289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Security]] (3), [[Windows 10]] (1), hit (1), [[Troubleshooting]] (1)
 > **UI Navigation:** go to (2), select the (2), double-click (1), click on (1), scroll down (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** earlier in (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2351,8 +2351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Windows 10]] (2), [[Windows]] (2)
 > **Env Vars:** sam (4)
-> **Code Keywords:** continue (1), function (1), require (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** select the (1), double-click (1)
 > **Warnings:** warning (1)
@@ -2362,7 +2362,7 @@ created: 2026-04-29
 
 ### 7. Remote Desktop
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic configuration of Remote Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980)
@@ -2425,8 +2425,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), [[Android]] (2), [[Security]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (5), scroll down (1), checkbox (1)
-> **Code Keywords:** interface (3), for, (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** configure (1), you'll need (1), install (1)
 > **Code Identifiers:** ios (2)
@@ -2508,11 +2508,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), hit (4), [[Windows]] (2), [[Windows 10]] (1), next (1)
 > **Env Vars:** ssl (6), tls (2), rdp (1)
 > **UI Navigation:** click on (2), dropdown (2), scroll down (1), go to (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** configure (3)
-> **Code Keywords:** require (1)
 > **Versions:** 1.0 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2557,7 +2557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), public (1), private (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Security]] (2), [[Microsoft Defender|Defender]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** tcp (1)
 > **Versions:** 192.168 (1)
@@ -2617,6 +2617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (1), data (1)
 > **Ports:** port 3389 (3), port 1234 (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Env Vars:** rdp (1), tcp (1)
@@ -2628,7 +2629,7 @@ created: 2026-04-29
 
 ### 8. Additional Security Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Controlling updates for Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980)
@@ -2705,7 +2706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), require (1), let (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (4), [[Windows 10]] (3), [[Security]] (3), next (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Ports:** :00 (2)
 > **Definitions:** is a  (1)
@@ -2766,8 +2767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Microsoft]] (5), dns (4), [[Microsoft Defender]] (3), web (2)
 > **Env Vars:** dns (4), isp (2)
-> **Code Keywords:** case. (1), interface (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -2826,8 +2827,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (5), [[Microsoft]] (2), [[Hardware]] (1), [[Probability]] (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** interface (1), this. (1)
 > **Env Vars:** uefi (1)
 > **Speakers:** - [tutor] (1)
 
@@ -2890,7 +2891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (5), public (4), this. (1), interface (1)
+> **Frameworks & Libraries:** application (4), [[Microsoft]] (2), hit (2), next (2), [[Windows 10]] (1)
 > **UI Navigation:** click on (5), navigate to (1), go to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2899,7 +2900,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more about Windows 10 security
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980)
@@ -2916,7 +2917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Cybersecurity]] (2)
 > **Speakers:** - [martin] (1)
 
 

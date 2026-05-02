@@ -31,7 +31,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-on%20Data%20Science%20and%20AI%20for%20Healthcare.md)
@@ -50,30 +50,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Using data science and AI for healthcare
-  - What you should know
-  - How the exercise files work
+  - [Using data science and AI for healthcare](#using-data-science-and-ai-for-healthcare)
+  - [What you should know](#what-you-should-know)
+  - [How the exercise files work](#how-the-exercise-files-work)
 - [**1. Disease Prediction Using Machine Learning**](#1-disease-prediction-using-machine-learning) (3 videos)
-  - Use Case: Diabetes prediction
-  - Diabetes prediction using machine learning model
-  - Model explanation using SHAP
+  - [Use Case: Diabetes prediction](#use-case-diabetes-prediction)
+  - [Diabetes prediction using machine learning model](#diabetes-prediction-using-machine-learning-model)
+  - [Model explanation using SHAP](#model-explanation-using-shap)
 - [**2. Sentiment Analysis of Patient Opinion**](#2-sentiment-analysis-of-patient-opinion) (2 videos)
-  - Use case: Online medication review
-  - Sentiment analysis using pre-trained transformer models
+  - [Use case: Online medication review](#use-case-online-medication-review)
+  - [Sentiment analysis using pre-trained transformer models](#sentiment-analysis-using-pre-trained-transformer-models)
 - [**3. Radiology Image Detection Using Computer Vision**](#3-radiology-image-detection-using-computer-vision) (3 videos)
-  - Use case: Shoulder implant X-ray manufacturer detection
-  - X-ray manufacturer classification using convolutional neural networks (CNN)
-  - X-ray manufacturer classification using transfer learning
+  - [Use case: Shoulder implant X-ray manufacturer detection](#use-case-shoulder-implant-x-ray-manufacturer-detection)
+  - [X-ray manufacturer classification using convolutional neural networks (CNN)](#x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn)
+  - [X-ray manufacturer classification using transfer learning](#x-ray-manufacturer-classification-using-transfer-learning)
 - [**4. Exploratory Data Analysis Using Visualization**](#4-exploratory-data-analysis-using-visualization) (3 videos)
-  - Use case: Diseases and medications text
-  - Diseases and medications text visualization using word clouds
-  - Diseases and medications text visualization using Scattertext
+  - [Use case: Diseases and medications text](#use-case-diseases-and-medications-text)
+  - [Diseases and medications text visualization using word clouds](#diseases-and-medications-text-visualization-using-word-clouds)
+  - [Diseases and medications text visualization using Scattertext](#diseases-and-medications-text-visualization-using-scattertext)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using data science and AI for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980)
@@ -94,7 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** data (6), ai (2), [[LinkedIn]] (1), power (1)
 > **Speakers:** - it (1)
 
 #### What you should know
@@ -118,8 +118,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), ai (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Algorithms]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** interface (1)
 > **Tools:** colab (1)
 > **Speakers:** - this (1)
 
@@ -146,9 +146,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), [[Hardware]] (1), data (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** gpu (3)
-> **Code Keywords:** let (1), interface (1)
 > **Exercise Files:** exercise files (2)
 > **URLs:** [google.com](https://google.com) (1)
 > **Tools:** colab (1)
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Disease Prediction Using Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Case: Diabetes prediction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diabetes-prediction-24459175?u=76281980)
@@ -192,9 +192,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (2)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** match. (1), from. (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** a1c (1)
 > **Versions:** 6.5 (1)
@@ -319,9 +319,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), next (1), [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1), [[Logistic Regression]] (1)
 > **Env Vars:** bmi (3), ldl (2), etc (1), knn (1)
 > **Versions:** 0.62 (1), 0.42 (1), 0.41 (1), 0.067 (1), 0.873 (1)
-> **Code Keywords:** let (2), type. (1), class, (1), case, (1), finally, (1)
 > **CLI Commands:** find (1), wget (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** train_test_split (1)
@@ -352,7 +352,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** shap (2), hpa1c (1), pmi (1), hba1c (1), bmi (1)
-> **Code Keywords:** case, (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
@@ -360,7 +359,7 @@ created: 2026-04-29
 
 ### 2. Sentiment Analysis of Patient Opinion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use case: Online medication review
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-online-medication-review-24455886?u=76281980)
@@ -422,10 +421,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (3), next (2), [[Transformer Models]] (1), [[Hugging Face|Huggingface]] (1)
 > **Code Identifiers:** rubert_classifier (3), roberta (3), roberta_classifier (2), rubert (2), medication_review_df (1)
 > **Versions:** 0.59 (1), 0.7 (1), 0.92 (1), 0.74 (1)
 > **CLI Commands:** unzip (1), pip (1)
-> **Code Keywords:** continue (1)
 > **Tools:** insomnia (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -434,7 +433,7 @@ created: 2026-04-29
 
 ### 3. Radiology Image Detection Using Computer Vision
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use case: Shoulder implant X-ray manufacturer detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980)
@@ -467,8 +466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Computer Vision]] (5), [[Algorithms]] (1), ai (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
@@ -579,9 +578,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[TensorFlow]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), cnn (1)
 > **Code Identifiers:** test_generator (3), train_data_filepaths (1), test_data_filepaths (1), data_filepaths (1), data_labels (1)
 > **Versions:** 0.4937 (2), 0.24 (1), 0.4876 (1), 0.49 (1), 0.66 (1)
-> **Code Keywords:** let (4)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** wget (1), unzip (1)
 > **Env Vars:** cnn (1)
@@ -619,6 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Versions:** 0.438 (1), 0.947 (1)
 > **Cross-References:** in the last (1), we talked about (1)
 > **Warnings:** note that (1)
@@ -628,7 +628,7 @@ created: 2026-04-29
 
 ### 4. Exploratory Data Analysis Using Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use case: Diseases and medications text
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diseases-and-medications-text-24459174?u=76281980)
@@ -661,6 +661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -715,7 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (2), cloud (2)
 > **CLI Commands:** unzip (1)
 > **Code Identifiers:** medication_reviews_df (1)
 > **Definitions:** is a  (1)
@@ -755,10 +756,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** atml (1), gerd (1), svg (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** previous chapter (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
@@ -767,7 +768,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/next-steps-24455885?u=76281980)

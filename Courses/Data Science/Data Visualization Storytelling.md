@@ -35,7 +35,7 @@ tags:
   - skill/data-storytelling
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Visualization%20Storytelling.md)
@@ -54,38 +54,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The art of storytelling
+  - [The art of storytelling](#the-art-of-storytelling)
 - [**1. Why Storytelling?**](#1-why-storytelling) (3 videos)
-  - Humans are wired for story
-  - Data storytelling is essential, except when it isn't
-  - Using story even when you don't
+  - [Humans are wired for story](#humans-are-wired-for-story)
+  - [Data storytelling is essential, except when it isn't](#data-storytelling-is-essential-except-when-it-isnt)
+  - [Using story even when you don't](#using-story-even-when-you-dont)
 - [**2. Story Structure**](#2-story-structure) (6 videos)
-  - The KWYs
-  - Story components
-  - Finding the story in your data
-  - Outlining your story
-  - Use your words
-  - Sketching ideas
+  - [The KWYs](#the-kwys)
+  - [Story components](#story-components)
+  - [Finding the story in your data](#finding-the-story-in-your-data)
+  - [Outlining your story](#outlining-your-story)
+  - [Use your words](#use-your-words)
+  - [Sketching ideas](#sketching-ideas)
 - [**3. Story Mechanisms**](#3-story-mechanisms) (7 videos)
-  - Change over time
-  - Linear logic
-  - Flow diagrams
-  - Compare and contrast
-  - Progressive depth
-  - Personalization
-  - Text
+  - [Change over time](#change-over-time)
+  - [Linear logic](#linear-logic)
+  - [Flow diagrams](#flow-diagrams)
+  - [Compare and contrast](#compare-and-contrast)
+  - [Progressive depth](#progressive-depth)
+  - [Personalization](#personalization)
+  - [Text](#text)
 - [**4. Final Touches**](#4-final-touches) (5 videos)
-  - Labeling
-  - Eye candy
-  - Repetition and redundancy
-  - Relatability
-  - Don't be afraid of complexity
+  - [Labeling](#labeling)
+  - [Eye candy](#eye-candy)
+  - [Repetition and redundancy](#repetition-and-redundancy)
+  - [Relatability](#relatability)
+  - [Don't be afraid of complexity](#dont-be-afraid-of-complexity)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The art of storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** data (6), [[Storytelling]] (4), [[Data Storytelling]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - storytelling (1)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Why Storytelling?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Humans are wired for story
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980)
@@ -199,7 +199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Storytelling]] (6), data (4), [[Data Storytelling]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -305,8 +305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Statistics]] (5), [[Data Storytelling]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[Analytics]] (1)
 > **Definitions:** is a  (1), refers to (1), in other words (1)
-> **Code Keywords:** this, (1), case, (1)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lecturer] (1)
@@ -364,15 +364,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), imagine (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Story Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The KWYs
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/the-kwys?u=76281980)
@@ -477,10 +477,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), next (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** kwyrwts (2), nasa (1), yolo (1), kwydis (1), kwyanth (1)
 > **Definitions:** stands for (2), is a  (2), is an  (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), override (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [presenter] (1)
 
@@ -541,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this: (1), else. (1)
+> **Frameworks & Libraries:** [[Storytelling]] (3), data (2), [[Infographics]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
@@ -853,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (1), [[Zoom]] (1), next (1)
 > **CLI Commands:** make (5), find (3)
-> **Code Keywords:** this, (3), public (2), case, (2), let (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
@@ -956,8 +956,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this. (1), case, (1), abstract (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [bill] (1)
@@ -1039,8 +1039,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1), next (1)
 > **Analogies:** just like (1), think of it as (1), for example (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
@@ -1100,14 +1100,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Sketching]] (5), data (3), hit (1), feature (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Story Mechanisms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/change-over-time?u=76281980)
@@ -1160,6 +1160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), hit (1), [[Data Storytelling]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (2), - [duncan] (1)
 > **CLI Commands:** find (1)
@@ -1210,6 +1211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Analogies:** such as (2), for instance (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -1305,7 +1307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), continue (1), case, (1), let (1)
+> **Frameworks & Libraries:** data (2), database (1), business (1), [[Business Communications]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
@@ -1419,8 +1421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Search]] (5), [[Climate Change]] (1), [[Google]] (1), next (1)
 > **CLI Commands:** make (6), cat (3)
-> **Code Keywords:** continue (1), abstract (1), while. (1)
 > **Analogies:** for instance (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1536,7 +1538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), finally, (2), continue (2)
+> **Frameworks & Libraries:** data (13), [[Data Storytelling]] (2), next (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), for instance (1)
@@ -1614,6 +1616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Storytelling]] (2), [[Data Storytelling]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** mbta (1)
@@ -1689,8 +1692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Data Storytelling]] (3), [[LinkedIn]] (1), [[Storytelling]] (1), next (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** this. (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1698,7 +1701,7 @@ created: 2026-04-29
 
 ### 4. Final Touches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Labeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980)
@@ -1797,10 +1800,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Storytelling]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Ports:** :52 (1), :53 (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** default. (1)
 > **Env Vars:** mbta (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -1894,7 +1897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), this, (1), from. (1), continue (1)
+> **Frameworks & Libraries:** data (6), functional (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2)
 > **Best Practices:** you should never (1)
@@ -1971,7 +1974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), finally, (1), interface (1)
+> **Frameworks & Libraries:** data (8), [[Forms]] (2), [[Data Storytelling]] (1), [[Microsoft Word|Word]] (1), [[Storytelling]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [presenter] (1)
@@ -2079,8 +2082,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), hit (1), [[Infographics]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** this. (1), this, (1)
 > **Env Vars:** xkcd (1), ceo (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Versions:** 5.68 (1)
@@ -2167,8 +2170,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (2), require (1), let (1)
 > **Definitions:** is an  (1), in other words (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** just like (1)
@@ -2177,7 +2180,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980)
@@ -2198,6 +2201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Data Storytelling]] (2), [[LinkedIn]] (2), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [bill] (1)
 

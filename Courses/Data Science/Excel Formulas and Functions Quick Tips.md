@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Formulas%20and%20Functions%20Quick%20Tips.md)
@@ -45,47 +45,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Calculate data with ease in Excel
+  - [Calculate data with ease in Excel](#calculate-data-with-ease-in-excel)
 - [**1. Formula and Function Basics**](#1-formula-and-function-basics) (5 videos)
-  - Build a formula in a cell with =
-  - Create a named range
-  - Reference cells and worksheets
-  - Join text with an ampersand
-  - Follow along with Excel when creating functions
+  - [Build a formula in a cell with =](#build-a-formula-in-a-cell-with)
+  - [Create a named range](#create-a-named-range)
+  - [Reference cells and worksheets](#reference-cells-and-worksheets)
+  - [Join text with an ampersand](#join-text-with-an-ampersand)
+  - [Follow along with Excel when creating functions](#follow-along-with-excel-when-creating-functions)
 - [**2. Identifying Values**](#2-identifying-values) (7 videos)
-  - Calculate a total with SUM
-  - Sum values that meet specific criteria with SUMIF
-  - Find the mean value with AVERAGE
-  - Test for valid data with IF
-  - Create complex tests with AND and OR
-  - Find record values with MAX, MIN, SMALL, and LARGE
-  - Perform date calculations with TODAY()
+  - [Calculate a total with SUM](#calculate-a-total-with-sum)
+  - [Sum values that meet specific criteria with SUMIF](#sum-values-that-meet-specific-criteria-with-sumif)
+  - [Find the mean value with AVERAGE](#find-the-mean-value-with-average)
+  - [Test for valid data with IF](#test-for-valid-data-with-if)
+  - [Create complex tests with AND and OR](#create-complex-tests-with-and-and-or)
+  - [Find record values with MAX, MIN, SMALL, and LARGE](#find-record-values-with-max-min-small-and-large)
+  - [Perform date calculations with TODAY()](#perform-date-calculations-with-today)
 - [**3. Count Functions**](#3-count-functions) (4 videos)
-  - Count cells that contain numbers with COUNT
-  - Count nonblank cells with COUNTA
-  - Return a number of occurrences with COUNTIF
-  - Checking in on your course progress
+  - [Count cells that contain numbers with COUNT](#count-cells-that-contain-numbers-with-count)
+  - [Count nonblank cells with COUNTA](#count-nonblank-cells-with-counta)
+  - [Return a number of occurrences with COUNTIF](#return-a-number-of-occurrences-with-countif)
+  - [Checking in on your course progress](#checking-in-on-your-course-progress)
 - [**4. Text Functions**](#4-text-functions) (7 videos)
-  - Format numbers and dates with TEXT
-  - Extract characters with LEFT AND RIGHT
-  - Extract substrings with MID
-  - Count characters with LEN
-  - Identify where a character occurs with FIND
-  - Join strings with delimiters with TEXTJOIN
-  - Change text with SUBSTITUTE and REPLACE
+  - [Format numbers and dates with TEXT](#format-numbers-and-dates-with-text)
+  - [Extract characters with LEFT AND RIGHT](#extract-characters-with-left-and-right)
+  - [Extract substrings with MID](#extract-substrings-with-mid)
+  - [Count characters with LEN](#count-characters-with-len)
+  - [Identify where a character occurs with FIND](#identify-where-a-character-occurs-with-find)
+  - [Join strings with delimiters with TEXTJOIN](#join-strings-with-delimiters-with-textjoin)
+  - [Change text with SUBSTITUTE and REPLACE](#change-text-with-substitute-and-replace)
 - [**5. Index, Match, and Lookups**](#5-index-match-and-lookups) (4 videos)
-  - Retrieve a specific value with XLOOKUP
-  - Use INDEX and MATCH to retrieve a value
-  - Use GROUPBY to aggregate data
-  - Use PIVOTBY to aggregate data with more columns
+  - [Retrieve a specific value with XLOOKUP](#retrieve-a-specific-value-with-xlookup)
+  - [Use INDEX and MATCH to retrieve a value](#use-index-and-match-to-retrieve-a-value)
+  - [Use GROUPBY to aggregate data](#use-groupby-to-aggregate-data)
+  - [Use PIVOTBY to aggregate data with more columns](#use-pivotby-to-aggregate-data-with-more-columns)
 - [**6. Avoiding Errors and Invalid Formulas**](#6-avoiding-errors-and-invalid-formulas) (2 videos)
-  - Remove leading spaces with TRIM
-  - Include IFERROR to trap errors in formulas
+  - [Remove leading spaces with TRIM](#remove-leading-spaces-with-trim)
+  - [Include IFERROR to trap errors in formulas](#include-iferror-to-trap-errors-in-formulas)
 - [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate data with ease in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-data-with-ease-in-excel?u=76281980)
@@ -108,12 +108,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Speakers:** - hello (1)
 
 
 ### 1. Formula and Function Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a formula in a cell with =
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980)
@@ -146,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), hit (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -178,8 +179,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** delete (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
@@ -224,7 +225,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), function (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -259,7 +259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), case, (1)
+> **Frameworks & Libraries:** hit (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -290,7 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), hit (1), next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** required to (1)
@@ -299,7 +299,7 @@ created: 2026-04-29
 
 ### 2. Identifying Values
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate a total with SUM
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980)
@@ -318,7 +318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), type = (1)
+> **Frameworks & Libraries:** hit (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sum (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -352,7 +352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (2), let (1)
+> **Frameworks & Libraries:** next (1), hit (1)
 > **Env Vars:** sumif (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -381,7 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), type = (1)
+> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** avrage (1), averagea (1)
 > **UI Navigation:** open the (1)
 > **Warnings:** note that (1)
@@ -430,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), function (1), pass (1)
+> **Frameworks & Libraries:** hit (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
@@ -472,8 +472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Non-Speech:** (typing) (3), (typing continues) (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
@@ -500,7 +500,6 @@ created: 2026-04-29
 >
 > **Env Vars:** max (2), min (2), small (2), large (2)
 > **CLI Commands:** find (5)
-> **Code Keywords:** let (2), function (2), case, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -535,7 +534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), for. (1), default. (1), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** today (1)
 > **Speakers:** - [instructor] (1)
@@ -543,7 +542,7 @@ created: 2026-04-29
 
 ### 3. Count Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Count cells that contain numbers with COUNT
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980)
@@ -574,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), hit (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** count (1)
 > **UI Navigation:** select the (1)
@@ -605,7 +604,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), class. (2)
 > **Env Vars:** counta (1), count (1)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** select the (1)
@@ -652,7 +650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2)
+> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **Env Vars:** countifs (3), countif (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -685,14 +683,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - hello (1)
 
 
 ### 4. Text Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Format numbers and dates with TEXT
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980)
@@ -735,7 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** text (2)
 > **Speakers:** - [instructor] (1)
 
@@ -776,7 +773,6 @@ created: 2026-04-29
 >
 > **Env Vars:** left (2), right (1)
 > **Non-Speech:** (keys clicking) (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Extract substrings with MID
@@ -806,7 +802,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), function (1)
 > **Speakers:** - is (1)
 
 #### Count characters with LEN
@@ -836,7 +831,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), if. (1), else. (1)
 > **Env Vars:** len (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -876,7 +870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (1), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (3)
 > **CLI Commands:** find (5)
 > **Env Vars:** find (4), len (1)
 > **Non-Speech:** (keyboard clicking) (3)
@@ -921,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), finally, (2)
+> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** textjoin (3), left (2), concat (1), true (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -964,13 +958,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** substitute (2), replace (2)
-> **Code Keywords:** function (3)
 > **Speakers:** - [narrator] (1)
 
 
 ### 5. Index, Match, and Lookups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieve a specific value with XLOOKUP
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980)
@@ -1015,8 +1008,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Search]] (2), [[Microsoft 365]] (1)
 > **Env Vars:** xlookup (4), vlookup (2)
-> **Code Keywords:** let (2), function (1), match, (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Use INDEX and MATCH to retrieve a value
@@ -1053,7 +1046,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** match (6), index (4), xlookup (1)
-> **Code Keywords:** function (3), let (2), match, (1), case, (1), return, (1)
 > **SQL:** index (4)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
@@ -1085,7 +1077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (2)
+> **Frameworks & Libraries:** data (4), [[Microsoft 365]] (1), product (1)
 > **Env Vars:** groupby (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1125,7 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), case, (2), function (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft 365]] (1), product (1), hit (1)
 > **Env Vars:** pivotby (4), groupby (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1134,7 +1126,7 @@ created: 2026-04-29
 
 ### 6. Avoiding Errors and Invalid Formulas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Remove leading spaces with TRIM
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/remove-leading-spaces-with-trim?u=76281980)
@@ -1173,7 +1165,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3)
 > **Env Vars:** trim (6), len (1), left (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
@@ -1209,8 +1200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** iferror (3), index (1), match (1)
-> **Code Keywords:** function (2), let (1), case, (1)
 > **SQL:** index (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1218,7 +1209,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

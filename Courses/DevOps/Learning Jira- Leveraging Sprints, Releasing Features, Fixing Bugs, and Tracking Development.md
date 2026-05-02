@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/jira
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Jira-%20Leveraging%20Sprints%2C%20Releasing%20Features%2C%20Fixing%20Bugs%2C%20and%20Tracking%20Development.md)
@@ -48,45 +48,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to Jira
-  - Who is this course for?
+  - [Welcome to Jira](#welcome-to-jira)
+  - [Who is this course for?](#who-is-this-course-for)
 - [**1. Jira Features**](#1-jira-features) (9 videos)
-  - Software project types
-  - Common work types
-  - Using software workflows
-  - Leveraging backlogs and sprints
-  - Estimating work and tracking time
-  - Using fix versions
-  - Types of boards
-  - Types of reports
-  - Common integrations
+  - [Software project types](#software-project-types)
+  - [Common work types](#common-work-types)
+  - [Using software workflows](#using-software-workflows)
+  - [Leveraging backlogs and sprints](#leveraging-backlogs-and-sprints)
+  - [Estimating work and tracking time](#estimating-work-and-tracking-time)
+  - [Using fix versions](#using-fix-versions)
+  - [Types of boards](#types-of-boards)
+  - [Types of reports](#types-of-reports)
+  - [Common integrations](#common-integrations)
 - [**2. Power User Tips**](#2-power-user-tips) (4 videos)
-  - Getting the most from Jira
-  - Keeping data accurate
-  - Ways to be proactive
-  - What your administrator wishes you knew
+  - [Getting the most from Jira](#getting-the-most-from-jira)
+  - [Keeping data accurate](#keeping-data-accurate)
+  - [Ways to be proactive](#ways-to-be-proactive)
+  - [What your administrator wishes you knew](#what-your-administrator-wishes-you-knew)
 - [**3. Creating Filters**](#3-creating-filters) (4 videos)
-  - Filter overview
-  - Using filter subscriptions
-  - Challenge: Create a custom filter
-  - Solution: Create a custom filter
+  - [Filter overview](#filter-overview)
+  - [Using filter subscriptions](#using-filter-subscriptions)
+  - [Challenge: Create a custom filter](#challenge-create-a-custom-filter)
+  - [Solution: Create a custom filter](#solution-create-a-custom-filter)
 - [**4. Creating Dashboards**](#4-creating-dashboards) (5 videos)
-  - Dashboard overview
-  - Example dashboards
-  - Choosing dashboard gadgets
-  - Challenge: Create a custom dashboard
-  - Solution: Create a custom dashboard
+  - [Dashboard overview](#dashboard-overview)
+  - [Example dashboards](#example-dashboards)
+  - [Choosing dashboard gadgets](#choosing-dashboard-gadgets)
+  - [Challenge: Create a custom dashboard](#challenge-create-a-custom-dashboard)
+  - [Solution: Create a custom dashboard](#solution-create-a-custom-dashboard)
 - [**5. Creating Boards**](#5-creating-boards) (4 videos)
-  - Board overview
-  - Ranking work on boards
-  - Challenge: Create a custom board
-  - Solution: Create a custom board
+  - [Board overview](#board-overview)
+  - [Ranking work on boards](#ranking-work-on-boards)
+  - [Challenge: Create a custom board](#challenge-create-a-custom-board)
+  - [Solution: Create a custom board](#solution-create-a-custom-board)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980)
@@ -109,6 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (6), [[Software Development]] (1), teams (1), [[Requirements Gathering]] (1), web (1)
 > **Tools:** jira (6)
 > **Env Vars:** jira (1)
 > **Definitions:** is a  (1)
@@ -267,8 +268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (39), [[Atlassian]] (14), cloud (12), application (8), data (7)
 > **Tools:** jira (39), bitbucket (1)
-> **Code Keywords:** finally, (3), continue (1), type, (1), type. (1), interface (1)
 > **Env Vars:** aws (1), url (1)
 > **Definitions:** known as (2)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -279,7 +280,7 @@ created: 2026-04-29
 
 ### 1. Jira Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Software project types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980)
@@ -504,8 +505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (37), next (10), teams (9), [[Agile Development|Agile]] (6), [[Scrum]] (6)
 > **Tools:** jira (37)
-> **Code Keywords:** let (5), type. (3), default, (2), finally, (2), from. (1)
 > **Definitions:** is a  (6), is an  (2)
 > **Env Vars:** dev (4), url (1)
 > **Exercise Files:** template (5)
@@ -850,7 +851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), finally, (4), type. (3), function (1), this. (1)
+> **Frameworks & Libraries:** [[Jira]] (20), next (14), cloud (9), data (9), product (4)
 > **Tools:** jira (20), github (1)
 > **Definitions:** is a  (4), is an  (1), in other words (1), is called (1)
 > **Analogies:** for example (5), just like (2)
@@ -1046,7 +1047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), require (2), else. (1), type. (1)
+> **Frameworks & Libraries:** [[Jira]] (9), next (9), teams (4), business (3), cloud (2)
 > **Tools:** jira (9), bitbucket (1)
 > **Env Vars:** jira (9)
 > **Analogies:** for example (6)
@@ -1214,8 +1215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), [[Scrum]] (5), next (4), teams (3), feature (3)
 > **Tools:** jira (10)
-> **Code Keywords:** let (3), finally, (2), for. (1), function (1), default, (1)
 > **Env Vars:** dev (2), url (1)
 > **CLI Commands:** make (1), find (1)
 > **Documentation:** the documentation (2)
@@ -1512,8 +1513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (15), next (8), data (5), application (4), cloud (4)
 > **Tools:** jira (15)
-> **Code Keywords:** finally, (5), require (2), default, (1), type. (1), let (1)
 > **UI Navigation:** checkbox (2), click on (1), dropdown (1), toggle (1)
 > **Env Vars:** jira (3), jql (1)
 > **Analogies:** for example (2), just like (2)
@@ -1742,9 +1743,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (14), [[Automation]] (9), next (6), data (3), feature (2)
 > **Env Vars:** jira (14), jql (3), url (2)
 > **Tools:** jira (14)
-> **Code Keywords:** function (4), finally, (2), this, (1), let (1)
 > **Versions:** 1.1.0 (2), 1.0.0 (1), 1.1.15 (1), 1.1 (1)
 > **UI Navigation:** toggle (1), click on (1)
 > **Warnings:** be aware (1), note that (1)
@@ -1930,7 +1931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (2), finally, (2), function (2)
+> **Frameworks & Libraries:** [[Scrum]] (11), feature (7), data (5), next (5), cloud (4)
 > **UI Navigation:** in the menu (2), toggle (2), click on (1)
 > **Env Vars:** url (3), jql (1)
 > **Tools:** jira (3)
@@ -2122,7 +2123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2), try. (1), type, (1), switch (1)
+> **Frameworks & Libraries:** data (12), next (9), [[Jira]] (4), [[Scrum]] (3), teams (2)
 > **Env Vars:** url (3), jql (1), inc (1), dec (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Tools:** jira (4)
@@ -2232,8 +2233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (30), application (12), [[Atlassian]] (8), [[Confluence]] (6), teams (4)
 > **Tools:** jira (30), confluence (6), slack (4), bitbucket (3)
-> **Code Keywords:** finally, (2), interface (1), function (1), for, (1)
 > **CLI Commands:** find (3), git (1)
 > **Analogies:** for example (4)
 > **Env Vars:** url (1), rest (1), api (1)
@@ -2244,7 +2245,7 @@ created: 2026-04-29
 
 ### 2. Power User Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the most from Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/getting-the-most-from-jira-software?u=76281980)
@@ -2263,6 +2264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (4), leadership (1)
 > **Tools:** jira (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2305,10 +2307,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), data (3), next (1), power (1)
 > **Env Vars:** jira (3)
 > **Tools:** jira (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - next (1)
 
@@ -2341,9 +2343,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (3), [[Dashboards]] (1), data (1)
 > **Tools:** jira (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** super (1)
 > **Speakers:** - my (1)
 
 #### What your administrator wishes you knew
@@ -2411,15 +2413,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (7), cloud (1), data (1), next (1), [[Atlassian]] (1)
 > **Tools:** jira (7)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (1), finally, (1)
 > **Speakers:** - as (1)
 
 
 ### 3. Creating Filters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filter overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980)
@@ -2532,8 +2534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (12), [[Jira]] (7), data (4), ai (2), [[Dashboards]] (2)
 > **Env Vars:** jql (10), url (3), rest (2), api (2), sql (1)
-> **Code Keywords:** let (6), for. (1), finally, (1), switch (1), function (1)
 > **Tools:** jira (7)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (4)
@@ -2614,8 +2616,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), next (4), feature (2), data (1), [[Search]] (1)
 > **Tools:** jira (5)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** jql (2)
 > **Cross-References:** in the last (2)
 > **CLI Commands:** find (1)
@@ -2656,10 +2658,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (2), [[Search]] (2), [[Microsoft Word|Word]] (1), next (1), application (1)
 > **Env Vars:** jql (2)
 > **Tools:** jira (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2698,7 +2700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (3), next (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** jql (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -2706,7 +2708,7 @@ created: 2026-04-29
 
 ### 4. Creating Dashboards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dashboard overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980)
@@ -2761,6 +2763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (8), data (3), [[Jira]] (3), application (2), [[Statistics]] (1)
 > **Tools:** jira (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** url (1)
@@ -2856,8 +2859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (11), data (6), [[Atlassian]] (4), cloud (3), application (2)
 > **Tools:** jira (11)
-> **Code Keywords:** let (2), this, (1), finally, (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** html (2)
@@ -2953,8 +2956,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), [[Statistics]] (3), [[Jira]] (3), [[Dashboards]] (2), leadership (2)
 > **Env Vars:** jira (3), url (1)
-> **Code Keywords:** finally, (2), require (1)
 > **Tools:** jira (3)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
@@ -2979,6 +2982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Env Vars:** jql (1)
 > **Tools:** jira (1)
 > **Speakers:** - here (1)
@@ -3015,7 +3019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Dashboards]] (1), data (1), cloud (1)
 > **Prerequisites:** configure (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -3024,7 +3028,7 @@ created: 2026-04-29
 
 ### 5. Creating Boards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Board overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980)
@@ -3139,7 +3143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), switch (1), default, (1)
+> **Frameworks & Libraries:** next (6), [[Jira]] (3), data (2), [[Scrum]] (1), cloud (1)
 > **Tools:** jira (3)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** jql (2)
@@ -3204,10 +3208,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), product (1), feature (1), [[Troubleshooting]] (1), database (1)
 > **Tools:** jira (5)
 > **Env Vars:** jql (1), order (1)
 > **Definitions:** is a  (1), is called (1)
-> **Code Keywords:** type, (1)
 > **SQL:** order by (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -3320,7 +3324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2), default, (2), switch (1)
+> **Frameworks & Libraries:** next (6), data (2), cloud (2), [[Scrum]] (1)
 > **UI Navigation:** select the (2), toggle (1)
 > **Non-Speech:** (bright rhythmic music) (1), (bright rhythmic music fading) (1)
 > **Env Vars:** jql (1)
@@ -3329,7 +3333,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980)
@@ -3410,8 +3414,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (14), [[Atlassian]] (7), next (3), [[Confluence]] (2), [[Software Development]] (2)
 > **Tools:** jira (14), confluence (2), bitbucket (1)
-> **Code Keywords:** continue (3), type, (2)
 > **URLs:** [atlassian.com](https://atlassian.com) (2), [jirastrategy.com](https://jirastrategy.com) (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)

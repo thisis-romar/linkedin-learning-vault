@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Swift-%20Delegations%20and%20Data%20Sources.md)
@@ -48,31 +48,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know
-  - How to use the exercise files
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. The Basics of Classes and MVC**](#1-the-basics-of-classes-and-mvc) (4 videos)
-  - What is a class?
-  - Model
-  - View
-  - Controller
+  - [What is a class?](#what-is-a-class)
+  - [Model](#model)
+  - [View](#view)
+  - [Controller](#controller)
 - [**2. Delegation**](#2-delegation) (7 videos)
-  - Destination view controllers in code
-  - Destination view controllers in storyboards
-  - Delegates in theory
-  - Delegates in iOS code
-  - Delegates in iOS storyboards
-  - Contexts in watchOS
-  - Delegates in watchOS
+  - [Destination view controllers in code](#destination-view-controllers-in-code)
+  - [Destination view controllers in storyboards](#destination-view-controllers-in-storyboards)
+  - [Delegates in theory](#delegates-in-theory)
+  - [Delegates in iOS code](#delegates-in-ios-code)
+  - [Delegates in iOS storyboards](#delegates-in-ios-storyboards)
+  - [Contexts in watchOS](#contexts-in-watchos)
+  - [Delegates in watchOS](#delegates-in-watchos)
 - [**3. Data Sources**](#3-data-sources) (2 videos)
-  - Data sources
-  - Delegates and data sources in Apple methods
+  - [Data sources](#data-sources)
+  - [Delegates and data sources in Apple methods](#delegates-and-data-sources-in-apple-methods)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/welcome?u=76281980)
@@ -101,9 +101,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Xcode]] (1)
 > **Code Identifiers:** ios (2), watchos (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [steven] (1)
 
 #### What you should know
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### How to use the exercise files
@@ -148,6 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), data (1), functional (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -156,7 +158,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Classes and MVC
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a class?
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980)
@@ -305,7 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), private (5), class. (5), public (4), this. (3)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), data (1), [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1), hit (1)
 > **CLI Commands:** make (8)
 > **Code Identifiers:** colorname (4), ios (1), colorindex (1), mycolor (1)
 > **Definitions:** is a  (2), known as (2)
@@ -356,6 +358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Xcode]] (2), application (2), [[Programming]] (1)
 > **Env Vars:** mvc (3)
 > **Definitions:** stands for (1), is called (1)
 > **CLI Commands:** make (1)
@@ -430,7 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3), this, (2), this. (2), class, (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** liveview (1), backgroundcolor (1), addsubview (1)
 > **Env Vars:** mvc (1)
@@ -616,7 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), let (2), this. (2), this, (1), class, (1)
+> **Frameworks & Libraries:** hit (4), [[Xcode]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2)
@@ -628,7 +631,7 @@ created: 2026-04-29
 
 ### 2. Delegation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Destination view controllers in code
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-code?u=76281980)
@@ -745,7 +748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1), class. (1), let (1), this. (1), else. (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** open the (1), go to (1)
 > **CLI Commands:** find (1)
@@ -859,9 +862,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Xcode]] (1), [[Zoom]] (1), generic (1), hit (1)
 > **UI Navigation:** open the (2), go to (2), click on (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (2), class, (1), this, (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** viewdidload (2)
 > **Cross-References:** in the next (1)
@@ -937,7 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), function (3), class, (2), implements (2), for. (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** nvc (1)
@@ -1039,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), class. (2), self (2)
+> **Frameworks & Libraries:** next (1), [[Xcode]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** selectedcolor (2), backgroundcolor (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
@@ -1129,7 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), self (2), type, (1)
+> **Frameworks & Libraries:** data (4), hit (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** ordereditems (1)
@@ -1245,8 +1248,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (1), application (1)
 > **Code Identifiers:** watchos (9), ios (5), segueidentifier (1), contextdictionary (1)
-> **Code Keywords:** interface (4), let (3), case, (2), this, (2), var (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (2), open the (1)
 > **Definitions:** is a  (2), known as (1)
@@ -1358,7 +1361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (3), self (2), function (1), var (1)
+> **Frameworks & Libraries:** data (1), hit (1)
 > **Code Identifiers:** watchos (3), orderitem (3), ios (2), didfinishselectingdessert (1), settext (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
@@ -1369,7 +1372,7 @@ created: 2026-04-29
 
 ### 3. Data Sources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/data-sources?u=76281980)
@@ -1602,7 +1605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (5), function (3), this. (3), self (3)
+> **Frameworks & Libraries:** data (34), next (1), hit (1)
 > **CLI Commands:** make (6)
 > **Analogies:** just like (2), such as (1)
 > **UI Navigation:** go to (2)
@@ -1710,8 +1713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Zoom]] (2), api (1)
 > **Code Identifiers:** pickercomponents (3), pickcomponents (1), pickerview (1), viewdidload (1), beveragepicker (1)
-> **Code Keywords:** self (3), interface (1), let (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1721,7 +1724,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/next-steps?u=76281980)
@@ -1754,6 +1757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), power (1), [[LinkedIn]] (1)
 > **Code Identifiers:** watchos (3), ios (2)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)

@@ -35,7 +35,7 @@ tags:
   - skill/c
   - skill/unit-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C-%20Unit%20Testing%20with%20xUnit.md)
@@ -54,28 +54,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with xUnit
-  - What you should know
+  - [Getting started with xUnit](#getting-started-with-xunit)
+  - [What you should know](#what-you-should-know)
 - [**1. TDD Testing with xUnit**](#1-tdd-testing-with-xunit) (3 videos)
-  - Using xUnit for testing
-  - The TDD cycle
-  - Installing xUnit
+  - [Using xUnit for testing](#using-xunit-for-testing)
+  - [The TDD cycle](#the-tdd-cycle)
+  - [Installing xUnit](#installing-xunit)
 - [**2. Writing and Running Unit Tests**](#2-writing-and-running-unit-tests) (4 videos)
-  - Writing your first unit test with xUnit
-  - Asserting with xUnit
-  - Understanding the core unit testing workflow
-  - Expanding your xUnit toolkit
+  - [Writing your first unit test with xUnit](#writing-your-first-unit-test-with-xunit)
+  - [Asserting with xUnit](#asserting-with-xunit)
+  - [Understanding the core unit testing workflow](#understanding-the-core-unit-testing-workflow)
+  - [Expanding your xUnit toolkit](#expanding-your-xunit-toolkit)
 - [**3. Building a Simple Calculator**](#3-building-a-simple-calculator) (4 videos)
-  - Creating addition and subtraction logic
-  - Using assertions and refactoring
-  - Creating a history functionality
-  - Parsing a math equation string
+  - [Creating addition and subtraction logic](#creating-addition-and-subtraction-logic)
+  - [Using assertions and refactoring](#using-assertions-and-refactoring)
+  - [Creating a history functionality](#creating-a-history-functionality)
+  - [Parsing a math equation string](#parsing-a-math-equation-string)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with xUnit
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980)
@@ -96,8 +96,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unit Testing]] (2), [[Test-Driven Development]] (1)
 > **Code Identifiers:** xunit (4)
-> **Code Keywords:** function (1), let (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - hi (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -117,13 +117,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Programming]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. TDD Testing with xUnit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using xUnit for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980)
@@ -176,7 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (9), [[Software Development]] (3), open-source (3), data (2), parallel (2)
 > **Env Vars:** net (4)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
@@ -245,7 +246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), for . (1), finally, (1), class. (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (5), [[Software Development]] (1), next (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for instance (2), for example (2)
 > **Env Vars:** tdd (1), net (1)
@@ -316,8 +317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Xcode]] (1), [[Software Development]] (1), next (1), hit (1)
 > **Env Vars:** net (6), sdk (2), ide (1)
-> **Code Keywords:** let (5), continue (2), delete (1)
 > **UI Navigation:** select the (2), go to (2), right-click (1)
 > **Tools:** visual studio (2), command line (1), terminal (1)
 > **Prerequisites:** install (2), you'll need (1)
@@ -328,7 +329,7 @@ created: 2026-04-29
 
 ### 2. Writing and Running Unit Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing your first unit test with xUnit
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/writing-your-first-unit-test-with-xunit?u=76281980)
@@ -377,7 +378,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (3), pass (2), case, (1)
 > **Code Identifiers:** xunit (2)
 > **Tools:** visual studio (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -385,6 +385,7 @@ created: 2026-04-29
 > **Exercise Files:** source code (1)
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [instructor] (1)
 
 #### Asserting with xUnit
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/asserting-with-xunit?u=76281980)
@@ -431,7 +432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (4), assert (4), case, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -548,7 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), assert (10), pass (5), finally, (3), this, (1)
+> **Frameworks & Libraries:** next (2), data (2), [[Unit Testing]] (1)
 > **Env Vars:** aaa (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
@@ -650,7 +651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** assert (22), let (15), pass (7), class. (1), case, (1)
+> **Frameworks & Libraries:** next (3), generic (2)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** xunit (1)
 > **Cross-References:** in the next (1)
@@ -660,7 +661,7 @@ created: 2026-04-29
 
 ### 3. Building a Simple Calculator
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating addition and subtraction logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980)
@@ -745,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), assert (5), function (3), class. (2), pass (2)
+> **Frameworks & Libraries:** application (2), [[Test-Driven Development]] (2), next (1)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** calctests (1)
@@ -875,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (5), assert (3), delete (2), function (1)
+> **Frameworks & Libraries:** data (3), next (3), [[Unit Testing]] (1), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1007,7 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), pass (9), assert (7), interface (3), finally, (2)
+> **Frameworks & Libraries:** next (6), data (2), feature (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** xunit (1)
 > **Cross-References:** in the next (1)
@@ -1120,7 +1121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (4), throw (3), finally, (2), function (2)
+> **Frameworks & Libraries:** data (4), next (3)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1128,7 +1129,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980)
@@ -1149,7 +1150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (2), [[Software Testing]] (1)
 > **Code Identifiers:** xunit (1)
 > **Speakers:** - thank (1)
 

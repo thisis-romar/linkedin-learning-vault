@@ -35,7 +35,7 @@ tags:
   - topic/software-development
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Visualization-%20Best%20Practices.md)
@@ -54,50 +54,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Best practices of data visualization
-  - What you will learn
-  - Exercise files
+  - [Best practices of data visualization](#best-practices-of-data-visualization)
+  - [What you will learn](#what-you-will-learn)
+  - [Exercise files](#exercise-files)
 - [**1. Why Data Viz Matters**](#1-why-data-viz-matters) (8 videos)
-  - The importance of data viz in today's market
-  - A quick history of data viz
-  - Our level of data literacy: The brain science
-  - Our level of data literacy: The charts that matter
-  - Using simple charts and graphs
-  - Using complex charts and graphs
-  - Challenge: Pop quiz
-  - Solution: Pop quiz
+  - [The importance of data viz in today's market](#the-importance-of-data-viz-in-todays-market)
+  - [A quick history of data viz](#a-quick-history-of-data-viz)
+  - [Our level of data literacy: The brain science](#our-level-of-data-literacy-the-brain-science)
+  - [Our level of data literacy: The charts that matter](#our-level-of-data-literacy-the-charts-that-matter)
+  - [Using simple charts and graphs](#using-simple-charts-and-graphs)
+  - [Using complex charts and graphs](#using-complex-charts-and-graphs)
+  - [Challenge: Pop quiz](#challenge-pop-quiz)
+  - [Solution: Pop quiz](#solution-pop-quiz)
 - [**2. Identifying and Shaping Your Data**](#2-identifying-and-shaping-your-data) (7 videos)
-  - Key questions to ask
-  - Question 1: Who is your audience?
-  - Question 2: What are your objectives?
-  - Question 3: What data will serve your objectives?
-  - Question 4: What chart or graph is best?
-  - Challenge: The best charts to use
-  - Solution: The best charts to use
+  - [Key questions to ask](#key-questions-to-ask)
+  - [Question 1: Who is your audience?](#question-1-who-is-your-audience)
+  - [Question 2: What are your objectives?](#question-2-what-are-your-objectives)
+  - [Question 3: What data will serve your objectives?](#question-3-what-data-will-serve-your-objectives)
+  - [Question 4: What chart or graph is best?](#question-4-what-chart-or-graph-is-best)
+  - [Challenge: The best charts to use](#challenge-the-best-charts-to-use)
+  - [Solution: The best charts to use](#solution-the-best-charts-to-use)
 - [**3. Data Viz Mistakes to Avoid**](#3-data-viz-mistakes-to-avoid) (9 videos)
-  - Being a data fiduciary
-  - Mistake 1: Putting form over function
-  - Mistake 2: Improper use of scales
-  - Mistake 3: Manipulating the axis
-  - Mistake 4: Forcing your audience to do math
-  - Mistake 5: Organizing data passively
-  - Mistake 6: Assuming percentage equals pie
-  - Challenge: Data viz mistakes
-  - Solution: Data viz mistakes
+  - [Being a data fiduciary](#being-a-data-fiduciary)
+  - [Mistake 1: Putting form over function](#mistake-1-putting-form-over-function)
+  - [Mistake 2: Improper use of scales](#mistake-2-improper-use-of-scales)
+  - [Mistake 3: Manipulating the axis](#mistake-3-manipulating-the-axis)
+  - [Mistake 4: Forcing your audience to do math](#mistake-4-forcing-your-audience-to-do-math)
+  - [Mistake 5: Organizing data passively](#mistake-5-organizing-data-passively)
+  - [Mistake 6: Assuming percentage equals pie](#mistake-6-assuming-percentage-equals-pie)
+  - [Challenge: Data viz mistakes](#challenge-data-viz-mistakes)
+  - [Solution: Data viz mistakes](#solution-data-viz-mistakes)
 - [**4. Designing Charts and Graphs**](#4-designing-charts-and-graphs) (7 videos)
-  - The best free data visualization tools to use
-  - Using data visualization plugins in Adobe Illustrator
-  - Visualizing data with generative AI
-  - Creating bar graphs in Adobe Illustrator
-  - Creating pie charts in Adobe Illustrator
-  - Creating line and area graphs in Adobe Illustrator
-  - How to use labels and color
+  - [The best free data visualization tools to use](#the-best-free-data-visualization-tools-to-use)
+  - [Using data visualization plugins in Adobe Illustrator](#using-data-visualization-plugins-in-adobe-illustrator)
+  - [Visualizing data with generative AI](#visualizing-data-with-generative-ai)
+  - [Creating bar graphs in Adobe Illustrator](#creating-bar-graphs-in-adobe-illustrator)
+  - [Creating pie charts in Adobe Illustrator](#creating-pie-charts-in-adobe-illustrator)
+  - [Creating line and area graphs in Adobe Illustrator](#creating-line-and-area-graphs-in-adobe-illustrator)
+  - [How to use labels and color](#how-to-use-labels-and-color)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Thank you
+  - [Thank you](#thank-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Best practices of data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/best-practices-of-data-visualization-14398183?u=76281980)
@@ -138,8 +138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Data Storytelling]] (2), career (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [amy] (1)
 
@@ -180,7 +180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (3), database (3), [[Analytics]] (1), next (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [presenter] (1)
 
@@ -199,13 +199,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Exercise Files:** exercise files (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Why Data Viz Matters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of data viz in today's market
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-importance-of-data-viz-in-today-s-market-14393399?u=76281980)
@@ -242,7 +243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** data (13), web (2), next (2), [[Big Data]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -306,6 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Security]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
 > **Env Vars:** aka (1)
@@ -393,9 +395,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Statistics]] (1), [[Forms]] (1), product (1), power (1)
 > **Analogies:** imagine (4), for example (3), picture (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** try, (1), this, (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -436,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2)
+> **Frameworks & Libraries:** data (9)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -525,8 +527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** for, (1), let (1), switch (1)
 > **Definitions:** means that (1), in other words (1)
 > **Analogies:** for instance (1), for example (1)
 > **UI Navigation:** switch to (1)
@@ -614,6 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), product (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1), next (1)
 > **Definitions:** means that (1), is a  (1), in other words (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
@@ -634,6 +637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** next video (1)
@@ -719,14 +723,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), for: (1), include, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Identifying and Shaping Your Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key questions to ask
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/key-questions-to-ask-14393402?u=76281980)
@@ -789,9 +793,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), cd (3), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** cd (3), make (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Question 1: Who is your audience?
@@ -845,9 +849,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), database (1), [[Infographics]] (1), [[Microsoft Office|Office]] (1), traffic (1)
 > **Analogies:** for example (3), for instance (1)
 > **Env Vars:** ceo (2)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [tutor] (1)
 
@@ -910,6 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), business (3), hit (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -965,7 +970,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), continue (1), case, (1)
+> **Frameworks & Libraries:** traffic (10), data (8)
 > **Speakers:** - [lecturer] (1)
 
 #### Question 4: What chart or graph is best?
@@ -1037,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), case, (1), this. (1)
+> **Frameworks & Libraries:** data (11), traffic (10), [[Search]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1114,7 +1119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), next (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -1266,7 +1271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), require (2), this. (1)
+> **Frameworks & Libraries:** data (14), next (3)
 > **Analogies:** for example (3), for instance (1), similar to (1), such as (1)
 > **Versions:** 3.9 (2), 3.84 (1), 76.8 (1)
 > **CLI Commands:** find (1), make (1)
@@ -1278,7 +1283,7 @@ created: 2026-04-29
 
 ### 3. Data Viz Mistakes to Avoid
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Being a data fiduciary
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/being-a-data-fiduciary-14395248?u=76281980)
@@ -1307,7 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** data (10), [[Big Data]] (1), next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Mistake 1: Putting form over function
@@ -1369,8 +1374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), career (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** function (3), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -1424,7 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case, (1)
+> **Frameworks & Libraries:** data (9), [[Jetpack Compose|Compose]] (1), [[Infographics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 44.6 (1)
 > **Analogies:** for example (1)
@@ -1491,9 +1496,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (2), [[Forms]] (1)
 > **Cross-References:** we discussed (2), in the last (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1560,6 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (1), [[Infographics]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (1), imagine (1)
 > **Versions:** 2.9 (1)
@@ -1611,7 +1617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), else. (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Products|Products]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1)
 > **Analogies:** for example (1)
@@ -1673,8 +1679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (4)
-> **Code Keywords:** case, (1), let (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1713,8 +1719,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** find (3)
-> **Code Keywords:** this. (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -1778,7 +1784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (5), next (2)
 > **Definitions:** means that (1), in other words (1)
 > **Best Practices:** make sure to (1), remember to (1)
 > **CLI Commands:** make (1)
@@ -1788,7 +1794,7 @@ created: 2026-04-29
 
 ### 4. Designing Charts and Graphs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The best free data visualization tools to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980)
@@ -1847,7 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1), static (1), try. (1)
+> **Frameworks & Libraries:** data (9), [[Adobe Creative Cloud]] (1), [[Canva]] (1), [[Storytelling]] (1), parallel (1)
 > **URLs:** [rawgraphs.io](https://rawgraphs.io) (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1898,6 +1904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1)
 > **Cross-References:** in the last (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
@@ -1950,7 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), this, (1), let (1)
+> **Frameworks & Libraries:** data (17), [[Generative AI]] (5), ai (5), [[ChatGPT]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** nba (1), gpt (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -2064,7 +2071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), from. (1), if, (1), delete (1)
+> **Frameworks & Libraries:** data (10), next (3), [[Microsoft Excel|Excel]] (1), hit (1)
 > **UI Navigation:** select the (2), navigate to (2), dropdown (1), click on (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for example (2)
@@ -2151,10 +2158,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Analogies:** for example (3), for instance (1), just like (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** dropdown (1), select the (1), navigate to (1)
-> **Code Keywords:** delete (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2199,6 +2206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** navigate to (1), dropdown (1)
 > **Cross-References:** in the next (1)
@@ -2244,8 +2252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1)
 > **Cross-References:** we discussed (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -2253,7 +2261,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980)
@@ -2278,8 +2286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (1), [[Storytelling]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [amy] (1)
 
 

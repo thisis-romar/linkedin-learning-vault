@@ -30,7 +30,7 @@ tags:
   - skill/sustainable-business-strategy
   - skill/nature-conservation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/The%20Importance%20of%20Biodiversity%20to%20Business.md)
@@ -49,25 +49,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why is biodiversity important to business?
+  - [Why is biodiversity important to business?](#why-is-biodiversity-important-to-business)
 - [**1. Understanding Biodiversity and the Drivers of Biodiversity Loss**](#1-understanding-biodiversity-and-the-drivers-of-biodiversity-loss) (2 videos)
-  - Three levels of biodiversity
-  - Five pressures driving biodiversity loss
+  - [Three levels of biodiversity](#three-levels-of-biodiversity)
+  - [Five pressures driving biodiversity loss](#five-pressures-driving-biodiversity-loss)
 - [**2. Biodiversity Loss and the Danger for Business**](#2-biodiversity-loss-and-the-danger-for-business) (5 videos)
-  - Biodiversity-related risks to business
-  - Biodiversity and the food value chain
-  - Biodiversity and construction and transportation
-  - Biodiversity and the energy value chain
-  - Biodiversity and the fashion value chain
+  - [Biodiversity-related risks to business](#biodiversity-related-risks-to-business)
+  - [Biodiversity and the food value chain](#biodiversity-and-the-food-value-chain)
+  - [Biodiversity and construction and transportation](#biodiversity-and-construction-and-transportation)
+  - [Biodiversity and the energy value chain](#biodiversity-and-the-energy-value-chain)
+  - [Biodiversity and the fashion value chain](#biodiversity-and-the-fashion-value-chain)
 - [**3. Building a Nature Positive Business**](#3-building-a-nature-positive-business) (2 videos)
-  - The benefits of being a nature-positive company
-  - Business transformation to stop biodiversity loss
+  - [The benefits of being a nature-positive company](#the-benefits-of-being-a-nature-positive-company)
+  - [Business transformation to stop biodiversity loss](#business-transformation-to-stop-biodiversity-loss)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Tackle biodiversity loss and become a nature-positive company
+  - [Tackle biodiversity loss and become a nature-positive company](#tackle-biodiversity-loss-and-become-a-nature-positive-company)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is biodiversity important to business?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/why-is-biodiversity-important-to-business-23761625?u=76281980)
@@ -92,7 +92,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Biodiversity]] (5), business (3)
 > **Env Vars:** gdp (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - biodiversity (1)
@@ -100,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Understanding Biodiversity and the Drivers of Biodiversity Loss
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three levels of biodiversity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980)
@@ -155,9 +155,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Biodiversity]] (5), business (3), [[Climate Change]] (2), [[Security]] (1), [[Sustainability]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** let (1)
 > **Versions:** 8.7 (1)
 > **Speakers:** - biodiversity (1)
 
@@ -228,8 +228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Biodiversity]] (12), [[Climate Change]] (4), business (3), management (2), [[Sustainability]] (1)
 > **CLI Commands:** cargo (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - biodiversity (1)
@@ -237,7 +237,7 @@ created: 2026-04-29
 
 ### 2. Biodiversity Loss and the Danger for Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Biodiversity-related risks to business
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980)
@@ -282,6 +282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Biodiversity]] (12), business (2), [[Climate Change]] (1), [[Sustainability]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gdp (1)
@@ -325,6 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Biodiversity]] (9), business (2), next (1), [[Sustainability]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - over (1)
 
@@ -373,6 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Biodiversity]] (8), [[Microsoft Products|Products]] (1)
 > **Env Vars:** edge (2), leed (1)
 > **Analogies:** such as (1)
 > **Speakers:** - construction (1)
@@ -410,7 +413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Biodiversity]] (8), power (4)
 > **Env Vars:** usa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -468,6 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Biodiversity]] (3), business (2), [[Sustainability]] (1), power (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
@@ -476,7 +480,7 @@ created: 2026-04-29
 
 ### 3. Building a Nature Positive Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of being a nature-positive company
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980)
@@ -535,6 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Biodiversity]] (1), [[Microsoft Products|Products]] (1), next (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -593,8 +598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Biodiversity]] (8), business (3), [[Sustainability]] (2), [[Climate Change]] (2), [[Blockchain]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -602,7 +607,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tackle biodiversity loss and become a nature-positive company
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980)
@@ -621,6 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Biodiversity]] (3), business (3), [[Climate Change]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - biodiversity (1)
 

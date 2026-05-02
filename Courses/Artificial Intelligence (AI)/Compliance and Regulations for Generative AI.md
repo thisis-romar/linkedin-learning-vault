@@ -41,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Compliance%20and%20Regulations%20for%20Generative%20AI.md)
@@ -60,42 +60,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to Gen AI compliance
-  - What you should know
+  - [Introduction to Gen AI compliance](#introduction-to-gen-ai-compliance)
+  - [What you should know](#what-you-should-know)
 - [**1. Generative AI Fundamentals**](#1-generative-ai-fundamentals) (5 videos)
-  - Origins of artificial intelligence
-  - Key differentiators of generative AI
-  - Examples of generative AI tools
-  - Typical personas for data and AI governance
-  - CTA: Internal evaluation and compliance processes
+  - [Origins of artificial intelligence](#origins-of-artificial-intelligence)
+  - [Key differentiators of generative AI](#key-differentiators-of-generative-ai)
+  - [Examples of generative AI tools](#examples-of-generative-ai-tools)
+  - [Typical personas for data and AI governance](#typical-personas-for-data-and-ai-governance)
+  - [CTA: Internal evaluation and compliance processes](#cta-internal-evaluation-and-compliance-processes)
 - [**2. Main Governance and Compliance Topics**](#2-main-governance-and-compliance-topics) (6 videos)
-  - AI ethics and regulations
-  - Operationalization of the generative AI governance
-  - Understanding AI and data regulations
-  - History of data privacy regulations
-  - International AI regulations
-  - Interactive resources
+  - [AI ethics and regulations](#ai-ethics-and-regulations)
+  - [Operationalization of the generative AI governance](#operationalization-of-the-generative-ai-governance)
+  - [Understanding AI and data regulations](#understanding-ai-and-data-regulations)
+  - [History of data privacy regulations](#history-of-data-privacy-regulations)
+  - [International AI regulations](#international-ai-regulations)
+  - [Interactive resources](#interactive-resources)
 - [**3. Regulation Case: EU AI Act**](#3-regulation-case-eu-ai-act) (4 videos)
-  - Backstory for the EU AI Act
-  - Levels of risk and use cases
-  - Detail of requirements for generative AI
-  - Considerations for EU and international adopters
+  - [Backstory for the EU AI Act](#backstory-for-the-eu-ai-act)
+  - [Levels of risk and use cases](#levels-of-risk-and-use-cases)
+  - [Detail of requirements for generative AI](#detail-of-requirements-for-generative-ai)
+  - [Considerations for EU and international adopters](#considerations-for-eu-and-international-adopters)
 - [**4. Other Governance Topics**](#4-other-governance-topics) (3 videos)
-  - AI principles
-  - AI standards
-  - Example of company frameworks: Microsoft
+  - [AI principles](#ai-principles)
+  - [AI standards](#ai-standards)
+  - [Example of company frameworks: Microsoft](#example-of-company-frameworks-microsoft)
 - [**5. Case Study: ACME EdTech**](#5-case-study-acme-edtech) (5 videos)
-  - Company introduction
-  - Generative AI use case
-  - Compliance considerations
-  - Recommended to-do list
-  - Wrapping up
+  - [Company introduction](#company-introduction)
+  - [Generative AI use case](#generative-ai-use-case)
+  - [Compliance considerations](#compliance-considerations)
+  - [Recommended to-do list](#recommended-to-do-list)
+  - [Wrapping up](#wrapping-up)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Gen AI compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/introduction-to-gen-ai-compliance?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1), [[Microsoft]] (1)
 > **Code Identifiers:** iphone (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - we (1)
@@ -132,15 +132,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), data (1), [[LinkedIn]] (1), business (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Generative AI Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Origins of artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/origins-of-artificial-intelligence?u=76281980)
@@ -169,9 +169,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (2), [[Deep Learning]] (2), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** new. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Key differentiators of generative AI
@@ -187,7 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), data (2), [[Traditional AI]] (1), [[Microsoft Word|Word]] (1), [[Databases]] (1)
 > **Env Vars:** pdf (1)
 > **Tools:** notion (1)
 > **Analogies:** imagine (1)
@@ -214,8 +214,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (4), ai (3), [[Microsoft]] (3), [[Microsoft Copilot]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** gpt (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -241,8 +241,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), data (2), [[LinkedIn]] (1), ai (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** class, (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [presenter] (1)
 
@@ -265,16 +265,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** class, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Main Governance and Compliance Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI ethics and regulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/ai-ethics-and-regulations?u=76281980)
@@ -305,6 +305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Ethics]] (6), [[Generative AI]] (3), [[Accountability]] (1), [[Organizational Culture]] (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
@@ -331,6 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Generative AI]] (3), data (1), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -360,7 +362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), case, (1), new, (1), override (1)
+> **Frameworks & Libraries:** data (5), ai (5), [[Generative AI]] (4), [[Privacy]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **Definitions:** is a  (1)
@@ -394,9 +396,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Privacy]] (3), [[Generative AI]] (1), [[Security]] (1)
 > **Env Vars:** gdpr (2), ccpa (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** private (1)
 > **Speakers:** - [instructor] (1)
 
 #### International AI regulations
@@ -432,8 +434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (3), [[Generative AI]] (3), [[Privacy]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** continue (1), public (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** ada (1)
 > **Tools:** notion (1)
@@ -460,6 +462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Privacy]] (2), data (1), next (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (2)
 > **URLs:** [fairly.ai](https://fairly.ai) (1)
@@ -470,7 +473,7 @@ created: 2026-04-29
 
 ### 3. Regulation Case: EU AI Act
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Backstory for the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/backstory-for-the-eu-ai-act?u=76281980)
@@ -493,7 +496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** ai (8), [[Generative AI]] (2), [[ChatGPT]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -524,6 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Generative AI]] (3), [[Regulatory Compliance]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -558,7 +562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), while, (1)
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (4), [[ChatGPT]] (1), [[JSON]] (1), teams (1)
 > **Env Vars:** asbom (1), json (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -589,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** ai (4), data (2), application (1), [[Privacy]] (1), [[Generative AI]] (1)
 > **Env Vars:** gdpr (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [instructor] (1)
@@ -597,7 +601,7 @@ created: 2026-04-29
 
 ### 4. Other Governance Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/ai-principles?u=76281980)
@@ -632,7 +636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), private (1), case, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), ai (4), [[Accountability]] (1), [[Ethics]] (1), teams (1)
 > **Env Vars:** oecd (1), g20 (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -666,6 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[Search]] (1)
 > **Env Vars:** iso (3), cenelec (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
@@ -721,7 +726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), self (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (7), ai (6), [[Microsoft]] (5), [[Generative AI]] (2), teams (2)
 > **Analogies:** such as (2), for example (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next chapter (1)
@@ -732,7 +737,7 @@ created: 2026-04-29
 
 ### 5. Case Study: ACME EdTech
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Company introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/company-introduction?u=76281980)
@@ -753,7 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Env Vars:** usa (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -777,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** ai (3), [[Privacy]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Compliance considerations
@@ -819,7 +824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), require (1)
+> **Frameworks & Libraries:** ai (6), data (1), [[Privacy]] (1), [[Generative AI]] (1)
 > **Env Vars:** aida (2), ccpa (1), edpr (1)
 > **Prerequisites:** you'll need (4)
 > **Definitions:** means that (1)
@@ -889,9 +894,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (10), ai (4), data (3), [[Privacy]] (3), [[Microsoft]] (2)
 > **Env Vars:** acme (1), hipaa (1), gdpr (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** case, (1), this, (1)
 > **Exercise Files:** template (1), download the (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -919,7 +924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), continue (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Responsible AI]] (1), ai (1)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -928,7 +933,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/next-steps?u=76281980)
@@ -955,7 +960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[LinkedIn]] (4), ai (3), [[Ethics]] (1), application (1)
 > **Tools:** notion (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)

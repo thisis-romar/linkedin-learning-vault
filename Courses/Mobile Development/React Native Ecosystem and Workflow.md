@@ -30,7 +30,7 @@ tags:
   - skill/react-native
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/React%20Native%20Ecosystem%20and%20Workflow.md)
@@ -49,31 +49,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Explore React Native's ecosystem
-  - What you should know
+  - [Explore React Native's ecosystem](#explore-react-natives-ecosystem)
+  - [What you should know](#what-you-should-know)
 - [**1. The React Native UI Libraries**](#1-the-react-native-ui-libraries) (5 videos)
-  - Overview of Facebook's own React starter
-  - Exploring icons for React Native
-  - Get a great foundation with NativeBase
-  - Forms in React Native
-  - React Native Elements
+  - [Overview of Facebook's own React starter](#overview-of-facebooks-own-react-starter)
+  - [Exploring icons for React Native](#exploring-icons-for-react-native)
+  - [Get a great foundation with NativeBase](#get-a-great-foundation-with-nativebase)
+  - [Forms in React Native](#forms-in-react-native)
+  - [React Native Elements](#react-native-elements)
 - [**2. Development Resources**](#2-development-resources) (2 videos)
-  - Full-stack frameworks
-  - IDEs for React Native
+  - [Full-stack frameworks](#full-stack-frameworks)
+  - [IDEs for React Native](#ides-for-react-native)
 - [**3. Backend Options for a React Native Project**](#3-backend-options-for-a-react-native-project) (2 videos)
-  - Firebase: A best-of-class cloud backend
-  - Other backend options
+  - [Firebase: A best-of-class cloud backend](#firebase-a-best-of-class-cloud-backend)
+  - [Other backend options](#other-backend-options)
 - [**4. Testing Your App**](#4-testing-your-app) (1 videos)
-  - Jest: A React testing library
+  - [Jest: A React testing library](#jest-a-react-testing-library)
 - [**5. Deploying to the Stores**](#5-deploying-to-the-stores) (1 videos)
-  - Apple and Android stores
+  - [Apple and Android stores](#apple-and-android-stores)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Expo and React navigation libraries
-  - Next steps
+  - [Expo and React navigation libraries](#expo-and-react-navigation-libraries)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore React Native's ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/explore-react-native-s-ecosystem?u=76281980)
@@ -96,7 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[React Native]] (3), next (1)
 > **Speakers:** - [emmanuel] (1)
 
 #### What you should know
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** [[React Native]] (4), [[React.js|React]] (1), next (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [emmanuel] (1)
@@ -126,7 +126,7 @@ created: 2026-04-29
 
 ### 1. The React Native UI Libraries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Facebook's own React starter
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/overview-of-facebook-s-own-react-starter?u=76281980)
@@ -179,12 +179,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (12), application (4), [[CLI]] (3), [[Xcode]] (1)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **Prerequisites:** install (3), setup (1)
 > **Env Vars:** cli (3)
 > **Code Identifiers:** ios (1), macos (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **URLs:** [reactnative.dev](https://reactnative.dev) (1)
 > **Definitions:** is a  (1)
 
@@ -233,7 +233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[React Native]] (2), web (1), [[GitHub]] (1), [[React.js|React]] (1), [[Android]] (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** find (1)
@@ -293,7 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** application (5), [[React Native]] (2), web (1), [[Android]] (1), [[CLI]] (1)
 > **Env Vars:** cli (1), mpm (1), ide (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for example (2)
@@ -337,7 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1)
+> **Frameworks & Libraries:** [[React Native]] (8), [[Forms]] (3), [[React.js|React]] (3), [[Search]] (1), application (1)
 > **Documentation:** the docs (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -389,6 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (1), [[GitHub]] (1), application (1)
 > **UI Navigation:** go to (2), click on (2), scroll down (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mpm (1), uri (1)
@@ -396,12 +397,11 @@ created: 2026-04-29
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), make sure you have (1)
 > **URLs:** [reactnativeelements.com](https://reactnativeelements.com) (1)
-> **Tools:** github (1)
 
 
 ### 2. Development Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Full-stack frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/full-stack-frameworks?u=76281980)
@@ -446,6 +446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (6), [[Search]] (3), full-stack (2), [[Google]] (2), application (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Exercise Files:** boilerplate (1), github repo (1)
@@ -453,7 +454,6 @@ created: 2026-04-29
 > **Prerequisites:** you'll need (1), install (1)
 > **Env Vars:** cli (1)
 > **Tools:** github (1)
-> **Speakers:** - [instructor] (1)
 
 #### IDEs for React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/ides-for-react-native?u=76281980)
@@ -526,11 +526,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (8), [[React Native]] (7), [[Xcode]] (7), [[GitHub]] (1), [[iOS Development]] (1)
 > **Tools:** vs code (8), atom (4), visual studio (3), github (1)
 > **Code Identifiers:** ios (7), iphones (1), imac (1)
 > **Env Vars:** ide (8)
 > **Analogies:** similar to (2), such as (1), for example (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** install (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -538,7 +538,7 @@ created: 2026-04-29
 
 ### 3. Backend Options for a React Native Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase: A best-of-class cloud backend
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/firebase-a-best-of-class-cloud-backend?u=76281980)
@@ -589,12 +589,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (5), [[React Native]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (3), database (3), [[Google]] (2)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3)
 > **Code Identifiers:** ios (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Documentation:** the docs (1)
 
@@ -673,10 +673,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), [[MongoDB]] (7), express (6), database (5), [[Microsoft Products|Products]] (4)
 > **CLI Commands:** node (8), aws (3)
 > **Prerequisites:** getting started (2), you need to have (2), install (1)
 > **Env Vars:** aws (3), sql (1)
-> **Code Keywords:** let (1), this, (1), this. (1)
 > **Analogies:** for example (3)
 > **Documentation:** the documentation (2)
 > **Definitions:** is a  (2)
@@ -685,7 +685,7 @@ created: 2026-04-29
 
 ### 4. Testing Your App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Jest: A React testing library
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/jest-a-react-testing-library?u=76281980)
@@ -738,19 +738,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[React Native]] (3), [[Unit Testing]] (2), application (1), [[JavaScript]] (1)
 > **Documentation:** the documentation (1), the docs (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** pass (1)
 > **URLs:** [jestjs.io](https://jestjs.io) (1)
 > **Prerequisites:** install (1)
 
 
 ### 5. Deploying to the Stores
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apple and Android stores
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/apple-and-android-stores?u=76281980)
@@ -813,19 +813,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), [[Google]] (5), [[Android]] (5), [[Search]] (2), [[Forms]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Code Identifiers:** ios (2), ipads (1), ipad (1), iphone (1)
 > **Documentation:** the documentation (4)
 > **UI Navigation:** go to (2), click on (2)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** make sure you have (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expo and React navigation libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/expo-and-react-navigation-libraries?u=76281980)
@@ -866,7 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[React Native]] (5), [[Android]] (2), web (1), [[JavaScript]] (1)
 > **Code Identifiers:** ios (2)
 > **Definitions:** is an  (1)
 > **Analogies:** it's like (1)
@@ -895,6 +895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (4), [[React.js|React]] (2), [[Firebase]] (1), [[LinkedIn]] (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [emmanuel] (1)

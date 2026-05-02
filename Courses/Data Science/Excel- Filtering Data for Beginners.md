@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Filtering%20Data%20for%20Beginners.md)
@@ -47,26 +47,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Zero in on the right data with filters in Excel
-  - What you should know
+  - [Zero in on the right data with filters in Excel](#zero-in-on-the-right-data-with-filters-in-excel)
+  - [What you should know](#what-you-should-know)
 - [**1. Basic Excel Filter Concepts**](#1-basic-excel-filter-concepts) (2 videos)
-  - What is a filter?
-  - Types of filters
+  - [What is a filter?](#what-is-a-filter)
+  - [Types of filters](#types-of-filters)
 - [**2. Refining Filters in Excel**](#2-refining-filters-in-excel) (4 videos)
-  - Custom filters
-  - Advanced filters
-  - Filter for unique values
-  - Filter with a formula
+  - [Custom filters](#custom-filters)
+  - [Advanced filters](#advanced-filters)
+  - [Filter for unique values](#filter-for-unique-values)
+  - [Filter with a formula](#filter-with-a-formula)
 - [**3. Excel Filtering Tips**](#3-excel-filtering-tips) (3 videos)
-  - Use slicers to filter
-  - Use Power Query to filter
-  - Shortcut keys for filtering
+  - [Use slicers to filter](#use-slicers-to-filter)
+  - [Use Power Query to filter](#use-power-query-to-filter)
+  - [Shortcut keys for filtering](#shortcut-keys-for-filtering)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps: From filters to advanced Excel analysis
+  - [Next steps: From filters to advanced Excel analysis](#next-steps-from-filters-to-advanced-excel-analysis)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Zero in on the right data with filters in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/zero-in-on-the-right-data-with-filters-in-excel?u=76281980)
@@ -91,6 +91,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
@@ -115,8 +116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Windows]] (1), [[Microsoft 365|M365]] (1), web (1)
 > **Env Vars:** m365 (1), protected (1), view (1)
-> **Code Keywords:** protected (1), let (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -126,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Basic Excel Filter Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a filter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-is-a-filter?u=76281980)
@@ -181,8 +182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (3), means that (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -294,7 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (6), [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -302,7 +303,7 @@ created: 2026-04-29
 
 ### 2. Refining Filters in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980)
@@ -363,7 +364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), [[Microsoft Word|Word]] (3), data (2), [[Search]] (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (3)
 > **Speakers:** - [instructor] (1)
@@ -501,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (4)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Env Vars:** e397 (2)
@@ -563,10 +564,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), data (3), feature (2)
 > **Env Vars:** d437 (2)
 > **UI Navigation:** go to (1), dropdown (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** super (1)
 > **Speakers:** - [instructor] (1)
 
 #### Filter with a formula
@@ -654,8 +655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2), next (1)
 > **Env Vars:** e391 (4), b391 (3), filter (1)
-> **Code Keywords:** function (3), type = (1), include, (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -663,7 +664,7 @@ created: 2026-04-29
 
 ### 3. Excel Filtering Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use slicers to filter
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980)
@@ -810,7 +811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), include. (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), product (1), [[Zoom]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -909,7 +910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), delete (1), if, (1), else, (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (3), power (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Analogies:** for example (2), imagine (1)
 > **Cross-References:** go back to (2)
@@ -952,7 +953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ctrl (1)
 > **Speakers:** - [instructor] (1)
@@ -960,7 +961,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps: From filters to advanced Excel analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980)
@@ -997,6 +998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (2), [[Microsoft Power Query|Power query]] (1), next (1), [[LinkedIn]] (1)
 > **Speakers:** - so (1)
 
 

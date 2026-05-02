@@ -20,7 +20,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Everything%20as%20a%20Service%20(XaaS)%20is%20the%20Future%20of%20Business.md)
@@ -39,25 +39,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Getting Started**](#getting-started) (1 videos)
-  - The future of business is XaaS
+  - [The future of business is XaaS](#the-future-of-business-is-xaas)
 - [**1. XaaS: The Origin Story**](#1-xaas-the-origin-story) (2 videos)
-  - A brief history of business computing
-  - A brief history of XaaS
+  - [A brief history of business computing](#a-brief-history-of-business-computing)
+  - [A brief history of XaaS](#a-brief-history-of-xaas)
 - [**2. Understanding the Value of XaaS**](#2-understanding-the-value-of-xaas) (3 videos)
-  - What are the different types of XaaS?
-  - Benefits of XaaS
-  - Digital transformation and XaaS
+  - [What are the different types of XaaS?](#what-are-the-different-types-of-xaas)
+  - [Benefits of XaaS](#benefits-of-xaas)
+  - [Digital transformation and XaaS](#digital-transformation-and-xaas)
 - [**3. Implementing XaaS at Your Business**](#3-implementing-xaas-at-your-business) (4 videos)
-  - Basic architecture of XaaS
-  - Skills required for delivering XaaS
-  - Challenges of XaaS: On-premises versus cloud-based technology
-  - Case study: XaaS in practice
+  - [Basic architecture of XaaS](#basic-architecture-of-xaas)
+  - [Skills required for delivering XaaS](#skills-required-for-delivering-xaas)
+  - [Challenges of XaaS: On-premises versus cloud-based technology](#challenges-of-xaas-on-premises-versus-cloud-based-technology)
+  - [Case study: XaaS in practice](#case-study-xaas-in-practice)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What you can do next
+  - [What you can do next](#what-you-can-do-next)
 
 ### Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of business is XaaS
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/the-future-of-business-is-xaas?u=76281980)
@@ -94,7 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), private (1), let (1)
+> **Frameworks & Libraries:** business (2), teams (1)
 > **Env Vars:** covid (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [announcer] (1)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 ### 1. XaaS: The Origin Story
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A brief history of business computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980)
@@ -164,7 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** business (6), web (2), [[Engineering]] (1), power (1), [[Web Development]] (1)
 > **Cross-References:** later in (1)
 > **Tools:** terminal (1)
 > **Analogies:** such as (1)
@@ -219,6 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SaaS]] (8), application (5), business (4), data (2), [[Telecommunications]] (1)
 > **Env Vars:** asp (6)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -228,7 +229,7 @@ created: 2026-04-29
 
 ### 2. Understanding the Value of XaaS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the different types of XaaS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980)
@@ -313,8 +314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PaaS]] (6), [[SaaS]] (5), [[IaaS]] (4), web (4), cloud (3)
 > **Env Vars:** cad (1), hpc (1)
-> **Code Keywords:** include, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - as (1)
@@ -386,9 +387,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Hardware]] (2), [[Cybersecurity]] (2), management (2), functional (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - let (1)
 
 #### Digital transformation and XaaS
@@ -454,8 +455,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (4), cloud (3), business (2), [[Hardware]] (2), web (2)
 > **Analogies:** such as (3)
-> **Code Keywords:** self (1), require (1)
 > **Env Vars:** ceo (1), ibm (1)
 > **Code Identifiers:** ecommerce (1)
 > **Speakers:** - the (1)
@@ -463,7 +464,7 @@ created: 2026-04-29
 
 ### 3. Implementing XaaS at Your Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic architecture of XaaS
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980)
@@ -536,10 +537,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Hardware]] (1), application (1), data (1), [[Digital Transformation]] (1)
 > **Definitions:** means that (4), is a  (1), is an  (1), in other words (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), let (1)
 > **Tools:** safari (1)
 > **Speakers:** - [instructor] (1)
 
@@ -606,8 +607,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (5), cloud (3), business (2), leadership (2)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** require (1), function (1)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - the (1)
@@ -659,8 +660,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[SaaS]] (2), [[Cybersecurity]] (2), business (1), [[Hardware]] (1)
 > **Definitions:** is a  (2), known as (1), refers to (1)
-> **Code Keywords:** public (1), finally, (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Warnings:** warning (1)
@@ -750,8 +751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SaaS]] (8), [[IaaS]] (3), [[PaaS]] (3), business (3), [[E-Commerce]] (2)
 > **Analogies:** such as (6)
-> **Code Keywords:** let (1), function (1), require (1), this, (1)
 > **Tools:** slack (1), jira (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -760,7 +761,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What you can do next
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980)
@@ -783,6 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), [[SaaS]] (1), [[PaaS]] (1), [[Digital Transformation]] (1)
 > **Speakers:** - now (1)
 
 

@@ -30,7 +30,7 @@ tags:
   - skill/virtual-teams
   - skill/team-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Leading%20Remote%20Projects%20and%20Virtual%20Teams.md)
@@ -49,25 +49,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to remote project management
+  - [Introduction to remote project management](#introduction-to-remote-project-management)
 - [**1. Remote and Virtual Projects Overview**](#1-remote-and-virtual-projects-overview) (3 videos)
-  - What is different about remote projects?
-  - Pros and cons of virtual project teams
-  - Must-haves for remote projects
+  - [What is different about remote projects?](#what-is-different-about-remote-projects)
+  - [Pros and cons of virtual project teams](#pros-and-cons-of-virtual-project-teams)
+  - [Must-haves for remote projects](#must-haves-for-remote-projects)
 - [**2. Engaging Remote Project Teams**](#2-engaging-remote-project-teams) (3 videos)
-  - Managing expectations for virtual project teams
-  - Tips for structuring a project team
-  - Communicating with project team members virtually
+  - [Managing expectations for virtual project teams](#managing-expectations-for-virtual-project-teams)
+  - [Tips for structuring a project team](#tips-for-structuring-a-project-team)
+  - [Communicating with project team members virtually](#communicating-with-project-team-members-virtually)
 - [**3. Getting Project Work Done Virtually**](#3-getting-project-work-done-virtually) (3 videos)
-  - Collaboration tools for virtual project teams
-  - How to lead effective virtual project meetings
-  - Challenges and solutions with virtual teams
+  - [Collaboration tools for virtual project teams](#collaboration-tools-for-virtual-project-teams)
+  - [How to lead effective virtual project meetings](#how-to-lead-effective-virtual-project-meetings)
+  - [Challenges and solutions with virtual teams](#challenges-and-solutions-with-virtual-teams)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Takeaways for remote project teams
+  - [Takeaways for remote project teams](#takeaways-for-remote-project-teams)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to remote project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980)
@@ -92,12 +92,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Teams]] (2), management (2), teams (1), [[LinkedIn]] (1)
 > **Speakers:** - are (1)
 
 
 ### 1. Remote and Virtual Projects Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is different about remote projects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/what-is-different-about-remote-projects?u=76281980)
@@ -148,8 +149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), teams (1)
 > **Ports:** :00 (6)
-> **Code Keywords:** this. (2), finally, (1), require (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** you'll need (1)
@@ -220,7 +221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), self (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (3), leadership (2), traffic (1), teams (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - being (1)
 
@@ -295,8 +296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Privacy]] (1), [[Windows]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (3)
 > **Code Identifiers:** imac (1)
 > **Env Vars:** led (1)
 > **Prerequisites:** make sure you have (1)
@@ -305,7 +306,7 @@ created: 2026-04-29
 
 ### 2. Engaging Remote Project Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing expectations for virtual project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980)
@@ -366,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), for. (1), raise (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (2), teams (2), [[Google Drive]] (1), business (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (1), such as (1)
@@ -415,6 +416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Microsoft Office|Office]] (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
@@ -484,7 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (1), next (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** select the (1)
 > **Speakers:** - communicating (1)
@@ -492,7 +494,7 @@ created: 2026-04-29
 
 ### 3. Getting Project Work Done Virtually
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaboration tools for virtual project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980)
@@ -557,7 +559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Google]] (5), management (4), teams (3), [[Microsoft]] (2), [[Atlassian]] (2)
 > **Tools:** confluence (2), slack (1)
 > **Env Vars:** mural (1)
 > **Definitions:** is a  (1)
@@ -645,7 +647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), break. (1), finally, (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (2), next (1), teams (1), [[Scrum]] (1), [[Microsoft Office|Office]] (1)
 > **Prerequisites:** set up (3), you'll need (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -746,8 +748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Teams]] (1), teams (1), data (1), [[Scrum]] (1), leadership (1)
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** let (1), finally, (1), this, (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
@@ -755,7 +757,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Takeaways for remote project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980)
@@ -782,7 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[Climate Change]] (1), [[Diversity and Inclusion]] (1), teams (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - thank (1)
 
 

@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Tips%20and%20Tricks%20(2023).md)
@@ -47,69 +47,69 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Become a proficient Excel user
+  - [Become a proficient Excel user](#become-a-proficient-excel-user)
 - [**1. Seven Super Shortcuts**](#1-seven-super-shortcuts) (7 videos)
-  - Enter data or formulas in non-adjacent cells simultaneously
-  - Copy data or formulas down a column
-  - Instantly enter today's date or time
-  - Convert formulas to values with a simple drag
-  - Display all worksheet formulas instantly
-  - Create charts instantly with these keyboard shortcuts
-  - Zoom in and out quickly
+  - [Enter data or formulas in non-adjacent cells simultaneously](#enter-data-or-formulas-in-non-adjacent-cells-simultaneously)
+  - [Copy data or formulas down a column](#copy-data-or-formulas-down-a-column)
+  - [Instantly enter today's date or time](#instantly-enter-todays-date-or-time)
+  - [Convert formulas to values with a simple drag](#convert-formulas-to-values-with-a-simple-drag)
+  - [Display all worksheet formulas instantly](#display-all-worksheet-formulas-instantly)
+  - [Create charts instantly with these keyboard shortcuts](#create-charts-instantly-with-these-keyboard-shortcuts)
+  - [Zoom in and out quickly](#zoom-in-and-out-quickly)
 - [**2. Ribbon and Quick Access Toolbar Tips**](#2-ribbon-and-quick-access-toolbar-tips) (2 videos)
-  - Access ribbon commands with Alt key sequences
-  - Expand or collapse the ribbon and full screen views
+  - [Access ribbon commands with Alt key sequences](#access-ribbon-commands-with-alt-key-sequences)
+  - [Expand or collapse the ribbon and full screen views](#expand-or-collapse-the-ribbon-and-full-screen-views)
 - [**3. Display Shortcuts**](#3-display-shortcuts) (2 videos)
-  - Create split screens and frozen titles in a flash
-  - Restore missing labels and hide repeating labels
+  - [Create split screens and frozen titles in a flash](#create-split-screens-and-frozen-titles-in-a-flash)
+  - [Restore missing labels and hide repeating labels](#restore-missing-labels-and-hide-repeating-labels)
 - [**4. Navigation and Selection Shortcuts**](#4-navigation-and-selection-shortcuts) (5 videos)
-  - Navigate between workbooks and worksheets efficiently
-  - Navigate within worksheets efficiently
-  - Open, close, save, and create new workbooks with shortcuts
-  - Select an entire row, column, region, or worksheet
-  - Select non-contiguous ranges and visible cells only
+  - [Navigate between workbooks and worksheets efficiently](#navigate-between-workbooks-and-worksheets-efficiently)
+  - [Navigate within worksheets efficiently](#navigate-within-worksheets-efficiently)
+  - [Open, close, save, and create new workbooks with shortcuts](#open-close-save-and-create-new-workbooks-with-shortcuts)
+  - [Select an entire row, column, region, or worksheet](#select-an-entire-row-column-region-or-worksheet)
+  - [Select non-contiguous ranges and visible cells only](#select-non-contiguous-ranges-and-visible-cells-only)
 - [**5. Data Entry and Editing Shortcuts**](#5-data-entry-and-editing-shortcuts) (4 videos)
-  - Accelerate data entry
-  - Enter dates and date series efficiently
-  - Enter times and time series efficiently
-  - Use Custom Lists for rapid data entry and list-based sorting
+  - [Accelerate data entry](#accelerate-data-entry)
+  - [Enter dates and date series efficiently](#enter-dates-and-date-series-efficiently)
+  - [Enter times and time series efficiently](#enter-times-and-time-series-efficiently)
+  - [Use Custom Lists for rapid data entry and list-based sorting](#use-custom-lists-for-rapid-data-entry-and-list-based-sorting)
 - [**6. Drag-and-Drop Techniques**](#6-drag-and-drop-techniques) (4 videos)
-  - Accelerate copy and move tasks in cells and worksheets
-  - Drag and insert cells with the Shift key
-  - Display Paste Special options instantly
-  - Accelerate formatting with the right mouse button
+  - [Accelerate copy and move tasks in cells and worksheets](#accelerate-copy-and-move-tasks-in-cells-and-worksheets)
+  - [Drag and insert cells with the Shift key](#drag-and-insert-cells-with-the-shift-key)
+  - [Display Paste Special options instantly](#display-paste-special-options-instantly)
+  - [Accelerate formatting with the right mouse button](#accelerate-formatting-with-the-right-mouse-button)
 - [**7. Formula Shortcuts**](#7-formula-shortcuts) (5 videos)
-  - Create formulas rapidly
-  - Select all dependent or precedent cells
-  - Use AutoSum shortcuts
-  - Use Conditional Formatting to highlight formula cells only
-  - Perform calculations without formulas
+  - [Create formulas rapidly](#create-formulas-rapidly)
+  - [Select all dependent or precedent cells](#select-all-dependent-or-precedent-cells)
+  - [Use AutoSum shortcuts](#use-autosum-shortcuts)
+  - [Use Conditional Formatting to highlight formula cells only](#use-conditional-formatting-to-highlight-formula-cells-only)
+  - [Perform calculations without formulas](#perform-calculations-without-formulas)
 - [**8. Operational Shortcuts**](#8-operational-shortcuts) (3 videos)
-  - Re-align imported text
-  - Collapse/expand detail quickly with group/ungroup buttons
-  - Create double-spaced printouts quickly
+  - [Re-align imported text](#re-align-imported-text)
+  - [Collapse/expand detail quickly with group/ungroup buttons](#collapseexpand-detail-quickly-with-groupungroup-buttons)
+  - [Create double-spaced printouts quickly](#create-double-spaced-printouts-quickly)
 - [**9. Formatting Shortcuts**](#9-formatting-shortcuts) (5 videos)
-  - Use keyboard shortcuts for frequently used numeric formats
-  - Accentuate data with alignment tools
-  - Add/remove borders and strikethrough with keyboard shortcuts
-  - Display values in thousands or millions without formulas
-  - Quickly format phone and SS numbers
+  - [Use keyboard shortcuts for frequently used numeric formats](#use-keyboard-shortcuts-for-frequently-used-numeric-formats)
+  - [Accentuate data with alignment tools](#accentuate-data-with-alignment-tools)
+  - [Add/remove borders and strikethrough with keyboard shortcuts](#addremove-borders-and-strikethrough-with-keyboard-shortcuts)
+  - [Display values in thousands or millions without formulas](#display-values-in-thousands-or-millions-without-formulas)
+  - [Quickly format phone and SS numbers](#quickly-format-phone-and-ss-numbers)
 - [**10. Data Management Techniques**](#10-data-management-techniques) (3 videos)
-  - Clean up spaces quickly with the TRIM function
-  - Split column data using Text to Columns and Flash Fill
-  - Ensure unique entries with data validation rules
+  - [Clean up spaces quickly with the TRIM function](#clean-up-spaces-quickly-with-the-trim-function)
+  - [Split column data using Text to Columns and Flash Fill](#split-column-data-using-text-to-columns-and-flash-fill)
+  - [Ensure unique entries with data validation rules](#ensure-unique-entries-with-data-validation-rules)
 - [**11. Charting and Visual Object Tips**](#11-charting-and-visual-object-tips) (3 videos)
-  - Control chart placement and sizing with dragging techniques
-  - Create and manipulate shapes with the Shift, Ctrl, and Alt keys
-  - Create linked dynamic and linked static images
+  - [Control chart placement and sizing with dragging techniques](#control-chart-placement-and-sizing-with-dragging-techniques)
+  - [Create and manipulate shapes with the Shift, Ctrl, and Alt keys](#create-and-manipulate-shapes-with-the-shift-ctrl-and-alt-keys)
+  - [Create linked dynamic and linked static images](#create-linked-dynamic-and-linked-static-images)
 - [**12. Ten Tiny Tips**](#12-ten-tiny-tips) (1 videos)
-  - Become a more proficient Excel user with these short tips
+  - [Become a more proficient Excel user with these short tips](#become-a-more-proficient-excel-user-with-these-short-tips)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning Excel
+  - [Continue learning Excel](#continue-learning-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Become a proficient Excel user
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-proficient-excel-user?u=76281980)
@@ -126,13 +126,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [dennis] (1)
 
 
 ### 1. Seven Super Shortcuts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enter data or formulas in non-adjacent cells simultaneously
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-data-or-formulas-in-non-adjacent-cells-simultaneously?u=76281980)
@@ -211,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** a10 (3)
-> **Code Keywords:** function (1), let (1)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -302,7 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), function (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Zoom]] (1)
 > **UI Navigation:** double-click (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -413,7 +413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this, (3), static (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), [[Banking]] (1)
 > **Ports:** :38 (1), :37 (1), :39 (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
@@ -504,7 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), this, (2)
+> **Frameworks & Libraries:** data (8)
 > **UI Navigation:** go to (2)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
@@ -617,8 +617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** switch (1), this. (1), this, (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -714,7 +714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), type. (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** f11 (3)
 > **Cross-References:** go back to (1), as we saw (1)
@@ -830,14 +830,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case. (1), let (1), case, (1)
+> **Frameworks & Libraries:** [[Zoom]] (8), data (4), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Ribbon and Quick Access Toolbar Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Access ribbon commands with Alt key sequences
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/access-ribbon-commands-with-alt-key-sequences?u=76281980)
@@ -984,9 +984,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (3), [[Microsoft Excel|Excel]] (1), feature (1)
 > **Analogies:** imagine (4), for example (1)
 > **CLI Commands:** az (2), find (1), make (1)
-> **Code Keywords:** let (1), this, (1)
 > **Env Vars:** qat (1)
 > **UI Navigation:** in the menu (1)
 > **Speakers:** - [dennis] (1)
@@ -1062,15 +1062,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** double-click (7), toggle (1)
-> **Code Keywords:** let (2), function (1), switch (1)
 > **Analogies:** for example (1), analogous to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Display Shortcuts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create split screens and frozen titles in a flash
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-split-screens-and-frozen-titles-in-a-flash?u=76281980)
@@ -1193,7 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2)
+> **Frameworks & Libraries:** feature (5), data (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** double-click (3), go to (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (1), is called (1)
@@ -1328,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** data (4), feature (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** adc (3)
 > **UI Navigation:** go to (2), click on (1)
@@ -1338,7 +1338,7 @@ created: 2026-04-29
 
 ### 4. Navigation and Selection Shortcuts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate between workbooks and worksheets efficiently
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980)
@@ -1477,8 +1477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), next (1), [[Windows]] (1)
 > **UI Navigation:** right-click (3), go to (3), double-click (2), toggle (1)
-> **Code Keywords:** switch (3), while, (1), let (1), new. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1599,10 +1599,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), feature (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), double-click (3), click on (3)
 > **Env Vars:** l20 (1), a500 (1)
 > **Definitions:** in other words (1), is a  (1)
-> **Code Keywords:** function (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
@@ -1688,8 +1688,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), management (1), prompt (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), this. (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), refers to (1)
 > **Cross-References:** we mentioned (1)
@@ -1761,7 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1858,8 +1858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), hr (1), [[Security]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (1), this, (1), this. (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** f11 (1)
 > **Definitions:** in other words (1)
@@ -1869,7 +1869,7 @@ created: 2026-04-29
 
 ### 5. Data Entry and Editing Shortcuts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate data entry
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-data-entry?u=76281980)
@@ -2002,7 +2002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), let (2), this. (2), new. (1)
+> **Frameworks & Libraries:** next (5), data (3), [[Microsoft Word|Word]] (1), feature (1)
 > **Analogies:** imagine (5), for example (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1), go to (1)
@@ -2116,8 +2116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (9), [[Microsoft Excel|Excel]] (5), data (3)
 > **Analogies:** for example (2), just like (1)
-> **Code Keywords:** this, (1), this. (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** tues (1)
@@ -2228,8 +2228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (2), [[Microsoft Office|Office]] (2), next (1)
 > **Ports:** :30 (7), :45 (5), :15 (3), :00 (2), :02 (1)
-> **Code Keywords:** this. (3), let (2)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1), imagine (1)
 > **Versions:** 0.75 (1)
@@ -2349,7 +2349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (2), next (1)
 > **Analogies:** for example (2), imagine (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
@@ -2357,7 +2357,7 @@ created: 2026-04-29
 
 ### 6. Drag-and-Drop Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate copy and move tasks in cells and worksheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-copy-and-move-tasks-in-cells-and-worksheets?u=76281980)
@@ -2440,7 +2440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1)
+> **Frameworks & Libraries:** data (15), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2516,7 +2516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), hr (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2585,6 +2585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), feature (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** a17 (2)
 > **UI Navigation:** right-click (1), go to (1)
 > **Analogies:** for example (2)
@@ -2685,7 +2686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), case. (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1)
 > **Analogies:** imagine (1)
@@ -2695,7 +2696,7 @@ created: 2026-04-29
 
 ### 7. Formula Shortcuts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create formulas rapidly
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-formulas-rapidly?u=76281980)
@@ -2840,7 +2841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1), else. (1), if, (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), hr (1), next (1)
 > **UI Navigation:** right-click (1), click on (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** j742 (1)
@@ -2959,7 +2960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (2), this, (2), case, (1)
+> **Frameworks & Libraries:** data (6)
 > **UI Navigation:** click on (2), go to (2), double-click (2)
 > **Env Vars:** l27 (3), l11 (1), k27 (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -3033,7 +3034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this, (1), delete (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** sum (2)
 > **UI Navigation:** click on (1)
 > **Warnings:** keep in mind (1)
@@ -3102,7 +3103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), delete (2), let (1), this, (1)
+> **Frameworks & Libraries:** feature (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** isformula (4)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1)
@@ -3183,7 +3184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Versions:** 1.1 (3)
 > **Analogies:** imagine (1), for example (1)
 > **UI Navigation:** go to (1)
@@ -3194,7 +3195,7 @@ created: 2026-04-29
 
 ### 8. Operational Shortcuts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Re-align imported text
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980)
@@ -3285,7 +3286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this. (2), let (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Word]] (1), [[Microsoft Excel|Excel]] (1), feature (1)
 > **Env Vars:** len (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -3384,7 +3385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (1), while. (1)
+> **Frameworks & Libraries:** data (12), [[Zoom]] (3), [[Microsoft Excel|Excel]] (1), feature (1)
 > **Cross-References:** go back to (1), as we saw (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -3495,7 +3496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (3), hr (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -3503,7 +3504,7 @@ created: 2026-04-29
 
 ### 9. Formatting Shortcuts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use keyboard shortcuts for frequently used numeric formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-keyboard-shortcuts-for-frequently-used-numeric-formats?u=76281980)
@@ -3660,7 +3661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (2), data (1)
 > **Analogies:** for example (2), similar to (1), imagine (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
@@ -3740,8 +3741,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** in other words (2), is called (1)
-> **Code Keywords:** this, (1), let (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** in the menu (1)
 > **Speakers:** - [instructor] (1)
@@ -3849,8 +3850,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), switch (1)
 > **Definitions:** in other words (1), is a  (1), is called (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
@@ -3950,7 +3951,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
 > **Versions:** 39.7 (1), 0.0 (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -4072,8 +4072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), data (2), [[Microsoft Excel|Excel]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Best Practices:** recommended (2)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -4082,7 +4082,7 @@ created: 2026-04-29
 
 ### 10. Data Management Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Clean up spaces quickly with the TRIM function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980)
@@ -4179,7 +4179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), if, (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (1), hr (1), hit (1)
 > **CLI Commands:** az (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
@@ -4308,7 +4308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), this. (1)
+> **Frameworks & Libraries:** data (11), feature (4), [[Microsoft Excel|Excel]] (3), next (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -4448,7 +4448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), this, (2), else, (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (15), feature (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** countif (3), len (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
@@ -4459,7 +4459,7 @@ created: 2026-04-29
 
 ### 11. Charting and Visual Object Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Control chart placement and sizing with dragging techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980)
@@ -4584,7 +4584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (2), function (1), type. (1), this. (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** for example (1), imagine (1)
@@ -4684,7 +4684,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -4778,18 +4777,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), [[Zoom]] (1)
 > **Analogies:** picture (7), imagine (2), similar to (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** case, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
 
 ### 12. Ten Tiny Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Become a more proficient Excel user with these short tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-more-proficient-excel-user-with-these-short-tips?u=76281980)
@@ -4914,8 +4913,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** right-click (6), go to (1)
-> **Code Keywords:** function (4), else, (1), let (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (3)
 > **Env Vars:** f11 (1)
@@ -4925,7 +4924,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/continue-learning-excel?u=76281980)
@@ -4940,6 +4939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1)
 > **Speakers:** - [host] (1)
 
 

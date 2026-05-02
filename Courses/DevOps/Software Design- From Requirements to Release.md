@@ -30,7 +30,7 @@ tags:
   - skill/software-development-life-cycle-sdlc
   - skill/software-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Software%20Design-%20From%20Requirements%20to%20Release.md)
@@ -49,40 +49,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Going from requirements to release
-  - What you should know
-  - Case study overview
-  - Using the GitHub repo
+  - [Going from requirements to release](#going-from-requirements-to-release)
+  - [What you should know](#what-you-should-know)
+  - [Case study overview](#case-study-overview)
+  - [Using the GitHub repo](#using-the-github-repo)
 - [**1. Sprint 1: Project Kickoff**](#1-sprint-1-project-kickoff) (9 videos)
-  - Define problem and vision statements
-  - Elicit and specify requirements
-  - Requirement validation
-  - Technology validation
-  - Proof of concept (POC) setup
-  - POC implementation
-  - POC deployment
-  - Challenge: From dev to deploy
-  - Solution: From dev to deploy
+  - [Define problem and vision statements](#define-problem-and-vision-statements)
+  - [Elicit and specify requirements](#elicit-and-specify-requirements)
+  - [Requirement validation](#requirement-validation)
+  - [Technology validation](#technology-validation)
+  - [Proof of concept (POC) setup](#proof-of-concept-poc-setup)
+  - [POC implementation](#poc-implementation)
+  - [POC deployment](#poc-deployment)
+  - [Challenge: From dev to deploy](#challenge-from-dev-to-deploy)
+  - [Solution: From dev to deploy](#solution-from-dev-to-deploy)
 - [**2. Sprint 2: Beta**](#2-sprint-2-beta) (6 videos)
-  - Prepare sprint backlog
-  - Build models
-  - Build code
-  - Deliver and deploy
-  - Challenge
-  - Solution
+  - [Prepare sprint backlog](#prepare-sprint-backlog)
+  - [Build models](#build-models)
+  - [Build code](#build-code)
+  - [Deliver and deploy](#deliver-and-deploy)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**3. Sprint 3: Release 1.0**](#3-sprint-3-release-10) (6 videos)
-  - Prepare sprint backlog
-  - Implement 'included' use case
-  - Final release
-  - Refactoring
-  - Challenge
-  - Solution
+  - [Prepare sprint backlog](#prepare-sprint-backlog)
+  - [Implement 'included' use case](#implement-included-use-case)
+  - [Final release](#final-release)
+  - [Refactoring](#refactoring)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going from requirements to release
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980)
@@ -103,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Software Development]] (1), [[Capstone]] (1), [[DevOps]] (1), [[Git]] (1)
 > **CLI Commands:** git (1), aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)
@@ -133,9 +134,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), database (2), [[Software Development]] (1), [[Application Development]] (1), [[Java]] (1)
 > **Env Vars:** jdbc (1), sql (1), uml (1), aws (1), ec2 (1)
 > **CLI Commands:** apache (1), mysql (1), aws (1), find (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** github (1)
 > **Exercise Files:** source code (1)
 > **Analogies:** such as (1)
@@ -174,8 +175,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Software Development]] (1), [[Microsoft Products|Products]] (1), application (1), product (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -216,18 +217,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (2), [[Jenkins]] (1)
 > **CLI Commands:** find (4), git (2)
 > **Env Vars:** uml (2), pdf (2)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Sprint 1: Project Kickoff
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define problem and vision statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/define-problem-and-vision-statements?u=76281980)
@@ -324,7 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** product (11), business (7), data (5), application (2), express (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (1)
@@ -428,8 +429,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), data (6), [[Microsoft Products|Products]] (5), feature (5), next (3)
 > **Analogies:** for example (4), such as (2)
-> **Code Keywords:** require (2), let (1), finally, (1)
 > **Env Vars:** usda (3), idt (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** later in (1)
@@ -548,7 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (2), case, (1)
+> **Frameworks & Libraries:** product (12), [[Search]] (10), [[Microsoft Products|Products]] (5), database (4), data (3)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
 > **Env Vars:** usda (1)
@@ -684,9 +685,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (7), product (7), [[MySQL]] (4), [[Git]] (4)
 > **Env Vars:** usda (5), fdc (5), html (1), css (1), ide (1)
 > **CLI Commands:** mysql (4), git (4), apache (1), aws (1)
-> **Code Keywords:** let (4), interface (1), static (1), finally, (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (3)
 > **Ports:** port 8082 (1), port 8080 (1)
@@ -794,9 +795,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), web (5), data (4), database (3), [[Git]] (1)
 > **File Paths:** web.xml (4), context.xml (3), tomcat-users.xml (3), server.xml (2), pom.xml (1)
 > **CLI Commands:** find (2), apache (2), git (1), mysql (1), make (1)
-> **Code Keywords:** let (2), this, (2), require (1), finally, (1), except, (1)
 > **Env Vars:** group_id (1), web (1), inf (1), url (1), rds (1)
 > **Prerequisites:** set up (3), configure (1)
 > **Definitions:** is a  (1)
@@ -961,9 +962,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), product (9), database (7), application (5), [[Search]] (4)
 > **Env Vars:** poc (8), usda (2), sql (2), xml (2), web (1)
 > **Code Identifiers:** pocresults (3), doget (2), sourcemainjava (1), getinstance (1), loadproducts (1)
-> **Code Keywords:** let (8), private (2), this. (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
 > **File Paths:** web.xml (1)
@@ -1083,8 +1084,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Jenkins]] (6), data (4), database (4), management (3)
 > **Env Vars:** ec2 (7), poc (5), url (4), rdb (3), dns (1)
-> **Code Keywords:** let (9), public (3), this. (1)
 > **CLI Commands:** make (5), apache (3), find (1)
 > **Cross-References:** go back to (7)
 > **Ports:** port 8080 (3)
@@ -1109,6 +1110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), database (1), [[Git]] (1), [[Jenkins]] (1), next (1)
 > **CLI Commands:** git (1)
 > **Env Vars:** poc (1)
 > **Cross-References:** in the next (1)
@@ -1145,6 +1147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), [[Jenkins]] (4), database (1), next (1)
 > **CLI Commands:** git (7)
 > **UI Navigation:** go to (3)
 > **Cross-References:** go back to (2)
@@ -1156,7 +1159,7 @@ created: 2026-04-29
 
 ### 2. Sprint 2: Beta
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare sprint backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980)
@@ -1227,7 +1230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this, (1), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (10), product (6), [[Microsoft Products|Products]] (5), next (2), [[Scrum]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
@@ -1325,8 +1328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (46), product (22), [[Microsoft Products|Products]] (6), data (3)
 > **Env Vars:** dao (11), jsp (8), fdc (2)
-> **Code Keywords:** default, (2), default. (1), class, (1), this, (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** we discussed (1), previous chapter (1)
 > **Code Identifiers:** hashcode (1)
@@ -1446,8 +1449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (16), product (14), [[Microsoft Products|Products]] (5), next (3), application (3)
 > **Code Identifiers:** searchstring (8), nutrientslist (3), searchresults (3), productmap (2), selectedproduct (2)
-> **Code Keywords:** let (6), finally, (2), continue (1), case, (1)
 > **Env Vars:** dao (6), fdc (3), poc (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1), go back to (1)
@@ -1532,8 +1535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), product (5), data (4), [[Unit Testing]] (3), [[JUnit]] (2)
 > **Env Vars:** src (1), pom (1), xmls (1), fdcid (1), dns (1)
-> **Code Keywords:** require (1), class. (1), pass (1), let (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** find (1)
@@ -1556,6 +1559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (1), [[Git]] (1), [[Jenkins]] (1)
 > **CLI Commands:** git (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -1708,8 +1712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (25), [[Search]] (18), [[Microsoft Products|Products]] (16), application (2), [[Jenkins]] (2)
 > **Env Vars:** gsp (5), fdc (5), gsb (3), url (2), abc (1)
-> **Code Keywords:** let (7), this. (2), finally, (2), case, (1), require (1)
 > **UI Navigation:** go to (4)
 > **Code Identifiers:** doget (1), dopost (1)
 > **Definitions:** is a  (1)
@@ -1719,7 +1723,7 @@ created: 2026-04-29
 
 ### 3. Sprint 3: Release 1.0
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare sprint backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog?u=76281980)
@@ -1840,7 +1844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), type. (2), case. (2), class, (2)
+> **Frameworks & Libraries:** product (2), next (2), database (2), [[Microsoft Products|Products]] (2), [[Search]] (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Documentation:** specification (2)
 > **Analogies:** for example (1), such as (1)
@@ -1936,7 +1940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), case, (1), switch (1), class. (1)
+> **Frameworks & Libraries:** data (5), database (1), [[MySQL]] (1), application (1)
 > **Env Vars:** jsp (8)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (3)
@@ -2131,7 +2135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), type. (1), type, (1), case. (1), finally, (1)
+> **Frameworks & Libraries:** product (9), [[Git]] (6), [[Microsoft Products|Products]] (4), [[Search]] (3), data (2)
 > **CLI Commands:** git (6), find (3)
 > **Env Vars:** jsp (5), url (1), dns (1), ec2 (1)
 > **UI Navigation:** go to (6)
@@ -2233,10 +2237,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), application (4), [[Design Patterns]] (3), database (3), [[Search]] (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** solid (1), grasp (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** before we start (1)
@@ -2257,7 +2261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Env Vars:** dao (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2334,8 +2338,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), web (2), [[DevOps]] (1), [[Git]] (1), [[Jenkins]] (1)
 > **Env Vars:** dao (12), gsp (3), jsp (2), usda (2), xml (2)
-> **Code Keywords:** let (5), this. (1), case, (1), case. (1)
 > **CLI Commands:** find (2), make (1), git (1)
 > **UI Navigation:** go to (2), dropdown (1)
 > **API Endpoints:** get  (1)
@@ -2345,7 +2349,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/next-steps?u=76281980)
@@ -2364,6 +2368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (1), application (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [neelam] (1)

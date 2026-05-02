@@ -30,7 +30,7 @@ tags:
   - skill/pdf-management
   - skill/it-accessibility
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20Accessible%20PDFs.md)
@@ -49,112 +49,112 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The ultimate guide to accessible PDFs
-  - Introduction to creating accessible PDFs
+  - [The ultimate guide to accessible PDFs](#the-ultimate-guide-to-accessible-pdfs)
+  - [Introduction to creating accessible PDFs](#introduction-to-creating-accessible-pdfs)
 - [**1. Understanding Accessibility**](#1-understanding-accessibility) (5 videos)
-  - What is accessibility?
-  - Accessibility standards
-  - Check PDF accessibility
-  - The NVDA PDF reader experience
-  - The JAWS PDF reader experience
+  - [What is accessibility?](#what-is-accessibility)
+  - [Accessibility standards](#accessibility-standards)
+  - [Check PDF accessibility](#check-pdf-accessibility)
+  - [The NVDA PDF reader experience](#the-nvda-pdf-reader-experience)
+  - [The JAWS PDF reader experience](#the-jaws-pdf-reader-experience)
 - [**2. Accessibility in PDF Files**](#2-accessibility-in-pdf-files) (5 videos)
-  - Acrobat Pro DC setup and workspace
-  - PDF accessibility requirements
-  - The PDF remediation workflow
-  - PDF remediation
-  - The Acrobat interfaces
+  - [Acrobat Pro DC setup and workspace](#acrobat-pro-dc-setup-and-workspace)
+  - [PDF accessibility requirements](#pdf-accessibility-requirements)
+  - [The PDF remediation workflow](#the-pdf-remediation-workflow)
+  - [PDF remediation](#pdf-remediation)
+  - [The Acrobat interfaces](#the-acrobat-interfaces)
 - [**3. Make an Existing PDF File Accessible (Old Interface)**](#3-make-an-existing-pdf-file-accessible-old-interface) (19 videos)
-  - Add metadata
-  - Tag content with the Reading Order tool
-  - Dealing with content that spans more than one page
-  - Tagging lists
-  - Tagging table of contents
-  - Creating table of contents links
-  - Tagging tables
-  - The Table Editor
-  - Artifacting elements
-  - Work with the Content pane
-  - Add alternative text
-  - Add bookmarks
-  - Tagging footnotes
-  - Walking the tags tree
-  - Validate the PDF file and cleanup
-  - Finishing touches
-  - Checking color contrast
-  - Testing with a screen reader
-  - Third-party tools
+  - [Add metadata](#add-metadata)
+  - [Tag content with the Reading Order tool](#tag-content-with-the-reading-order-tool)
+  - [Dealing with content that spans more than one page](#dealing-with-content-that-spans-more-than-one-page)
+  - [Tagging lists](#tagging-lists)
+  - [Tagging table of contents](#tagging-table-of-contents)
+  - [Creating table of contents links](#creating-table-of-contents-links)
+  - [Tagging tables](#tagging-tables)
+  - [The Table Editor](#the-table-editor)
+  - [Artifacting elements](#artifacting-elements)
+  - [Work with the Content pane](#work-with-the-content-pane)
+  - [Add alternative text](#add-alternative-text)
+  - [Add bookmarks](#add-bookmarks)
+  - [Tagging footnotes](#tagging-footnotes)
+  - [Walking the tags tree](#walking-the-tags-tree)
+  - [Validate the PDF file and cleanup](#validate-the-pdf-file-and-cleanup)
+  - [Finishing touches](#finishing-touches)
+  - [Checking color contrast](#checking-color-contrast)
+  - [Testing with a screen reader](#testing-with-a-screen-reader)
+  - [Third-party tools](#third-party-tools)
 - [**4. Make an Existing PDF File Accessible (New Interface)**](#4-make-an-existing-pdf-file-accessible-new-interface) (20 videos)
-  - Add metadata
-  - Tag content with the Reading Order tool
-  - Tag content using the Contents pane
-  - Dealing with content that spans more than one page
-  - Tagging lists
-  - Tagging your table of contents
-  - Creating table of contents links
-  - Tagging tables
-  - The Table Editor
-  - Artifacting elements
-  - Work with the Content pane
-  - Add alternative text
-  - Add bookmarks
-  - Tagging footnotes
-  - Walking the tags tree
-  - Tagging unmarked annotations
-  - Validate the PDF file and cleanup
-  - Checking compliance using the PAC checker
-  - Checking color contrast
-  - Testing with a screen reader
+  - [Add metadata](#add-metadata)
+  - [Tag content with the Reading Order tool](#tag-content-with-the-reading-order-tool)
+  - [Tag content using the Contents pane](#tag-content-using-the-contents-pane)
+  - [Dealing with content that spans more than one page](#dealing-with-content-that-spans-more-than-one-page)
+  - [Tagging lists](#tagging-lists)
+  - [Tagging your table of contents](#tagging-your-table-of-contents)
+  - [Creating table of contents links](#creating-table-of-contents-links)
+  - [Tagging tables](#tagging-tables)
+  - [The Table Editor](#the-table-editor)
+  - [Artifacting elements](#artifacting-elements)
+  - [Work with the Content pane](#work-with-the-content-pane)
+  - [Add alternative text](#add-alternative-text)
+  - [Add bookmarks](#add-bookmarks)
+  - [Tagging footnotes](#tagging-footnotes)
+  - [Walking the tags tree](#walking-the-tags-tree)
+  - [Tagging unmarked annotations](#tagging-unmarked-annotations)
+  - [Validate the PDF file and cleanup](#validate-the-pdf-file-and-cleanup)
+  - [Checking compliance using the PAC checker](#checking-compliance-using-the-pac-checker)
+  - [Checking color contrast](#checking-color-contrast)
+  - [Testing with a screen reader](#testing-with-a-screen-reader)
 - [**5. Create an Accessible PDF from Word**](#5-create-an-accessible-pdf-from-word) (14 videos)
-  - Accessible PDF on Windows vs. Mac
-  - Layout considerations and setup
-  - Add metadata
-  - Styles and outline levels
-  - Adding bookmarks
-  - Tagging tables
-  - Add hyperlinks
-  - Create a table of contents
-  - Add alternative text
-  - Artifacting objects
-  - Footnotes and endnotes
-  - Things to watch out for in Word
-  - Touch-ups after conversion from Word
-  - Funky fix-up
+  - [Accessible PDF on Windows vs. Mac](#accessible-pdf-on-windows-vs-mac)
+  - [Layout considerations and setup](#layout-considerations-and-setup)
+  - [Add metadata](#add-metadata)
+  - [Styles and outline levels](#styles-and-outline-levels)
+  - [Adding bookmarks](#adding-bookmarks)
+  - [Tagging tables](#tagging-tables)
+  - [Add hyperlinks](#add-hyperlinks)
+  - [Create a table of contents](#create-a-table-of-contents)
+  - [Add alternative text](#add-alternative-text)
+  - [Artifacting objects](#artifacting-objects)
+  - [Footnotes and endnotes](#footnotes-and-endnotes)
+  - [Things to watch out for in Word](#things-to-watch-out-for-in-word)
+  - [Touch-ups after conversion from Word](#touch-ups-after-conversion-from-word)
+  - [Funky fix-up](#funky-fix-up)
 - [**6. Create an Accessible PDF File from PowerPoint**](#6-create-an-accessible-pdf-file-from-powerpoint) (7 videos)
-  - General considerations
-  - Adding a document title in PowerPoint
-  - The importance of master slides
-  - Defining PowerPoint tag order
-  - Add alternative text in PowerPoint
-  - Work with PowerPoint tables
-  - Touch-ups after conversion from PowerPoint
+  - [General considerations](#general-considerations)
+  - [Adding a document title in PowerPoint](#adding-a-document-title-in-powerpoint)
+  - [The importance of master slides](#the-importance-of-master-slides)
+  - [Defining PowerPoint tag order](#defining-powerpoint-tag-order)
+  - [Add alternative text in PowerPoint](#add-alternative-text-in-powerpoint)
+  - [Work with PowerPoint tables](#work-with-powerpoint-tables)
+  - [Touch-ups after conversion from PowerPoint](#touch-ups-after-conversion-from-powerpoint)
 - [**7. Create an Accessible PDF File from Adobe InDesign**](#7-create-an-accessible-pdf-file-from-adobe-indesign) (21 videos)
-  - Best way to generate the PDF file
-  - InDesign layout considerations
-  - Add required metadata in InDesign
-  - InDesign styles and tag structure
-  - Controlling tag order with InDesign
-  - Control InDesign reading order
-  - Create InDesign captions
-  - Anchoring objects in text frames
-  - Work with tables in InDesign
-  - Interactive hyperlinks in InDesign
-  - Create a list with InDesign
-  - Add cross-references in InDesign
-  - Creating an InDesign table of contents
-  - Alternative text for images and graphics in InDesign
-  - Alternative text for images using metadata
-  - Adding actual text
-  - Artifacting InDesign objects
-  - PDF bookmarks in InDesign
-  - InDesign footnotes and endnotes
-  - Including an index with InDesign
-  - Finishing touches and validating
+  - [Best way to generate the PDF file](#best-way-to-generate-the-pdf-file)
+  - [InDesign layout considerations](#indesign-layout-considerations)
+  - [Add required metadata in InDesign](#add-required-metadata-in-indesign)
+  - [InDesign styles and tag structure](#indesign-styles-and-tag-structure)
+  - [Controlling tag order with InDesign](#controlling-tag-order-with-indesign)
+  - [Control InDesign reading order](#control-indesign-reading-order)
+  - [Create InDesign captions](#create-indesign-captions)
+  - [Anchoring objects in text frames](#anchoring-objects-in-text-frames)
+  - [Work with tables in InDesign](#work-with-tables-in-indesign)
+  - [Interactive hyperlinks in InDesign](#interactive-hyperlinks-in-indesign)
+  - [Create a list with InDesign](#create-a-list-with-indesign)
+  - [Add cross-references in InDesign](#add-cross-references-in-indesign)
+  - [Creating an InDesign table of contents](#creating-an-indesign-table-of-contents)
+  - [Alternative text for images and graphics in InDesign](#alternative-text-for-images-and-graphics-in-indesign)
+  - [Alternative text for images using metadata](#alternative-text-for-images-using-metadata)
+  - [Adding actual text](#adding-actual-text)
+  - [Artifacting InDesign objects](#artifacting-indesign-objects)
+  - [PDF bookmarks in InDesign](#pdf-bookmarks-in-indesign)
+  - [InDesign footnotes and endnotes](#indesign-footnotes-and-endnotes)
+  - [Including an index with InDesign](#including-an-index-with-indesign)
+  - [Finishing touches and validating](#finishing-touches-and-validating)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The ultimate guide to accessible PDFs
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-ultimate-guide-to-accessible-pdfs-25575414?u=76281980)
@@ -175,9 +175,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - some (1)
 
 #### Introduction to creating accessible PDFs
@@ -263,9 +263,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (4), [[Windows]] (4), [[Microsoft Office|Office]] (3), [[Microsoft Word|Word]] (3)
 > **Env Vars:** pdf (11)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** this, (1), finally, (1), type, (1)
 > **UI Navigation:** select the (1), checkbox (1)
 > **Definitions:** refers to (1), is called (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
@@ -275,7 +275,7 @@ created: 2026-04-29
 
 ### 1. Understanding Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/what-is-accessibility?u=76281980)
@@ -340,7 +340,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** pdf (4)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -383,6 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Web Accessibility]] (1)
 > **Env Vars:** pdf (5), wcag (3), iso (1), aoda (1), dda (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
@@ -584,9 +584,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Forms]] (1), [[Statistics]] (1)
 > **Env Vars:** pac (8), pdf (7), wcag (4), toc (1)
 > **UI Navigation:** click on (8), go to (2), drag and drop (1)
-> **Code Keywords:** let (2), this, (2), require (1), pass (1), this. (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2)
@@ -706,10 +706,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), business (1), data (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (15), - [nvda] (14)
 > **Env Vars:** nvda (21), jaws (2), ppo (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), continue (1)
 > **Versions:** 1.1 (1), 3.1 (1)
 > **UI Navigation:** navigate to (1)
 
@@ -878,9 +878,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), [[User Experience (UX)|User experience]] (1), [[Microsoft Word|Word]] (1), hit (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (17), - [voiceover] (16)
 > **Env Vars:** jaws (11), nvda (3), ppo (3), pdf (2), hmo (1)
-> **Code Keywords:** let (4), case, (1)
 > **Versions:** 1.1 (1), 15.00 (1), 10.00 (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **Definitions:** is a  (2)
@@ -889,7 +889,7 @@ created: 2026-04-29
 
 ### 2. Accessibility in PDF Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Acrobat Pro DC setup and workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/acrobat-pro-dc-setup-and-workspace-25576403?u=76281980)
@@ -980,7 +980,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (15), let (1)
 > **UI Navigation:** click on (12), scroll down (1), go to (1)
 > **CLI Commands:** make (7)
 > **Prerequisites:** configure (3), install (1)
@@ -1053,9 +1052,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** pdf (3), pac (1)
-> **Code Keywords:** let (1), this. (1), for. (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -1106,9 +1105,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Microsoft PowerPoint]] (1), application (1)
 > **Env Vars:** pdf (21)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else. (1), require (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** basically means (1)
 > **Analogies:** such as (1)
@@ -1213,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (16), new, (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** pdf (1)
 > **Cross-References:** in the next (1)
@@ -1223,7 +1222,7 @@ created: 2026-04-29
 
 ### 3. Make an Existing PDF File Accessible (Old Interface)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980)
@@ -1274,9 +1273,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** pdf (8), wcag (3)
 > **UI Navigation:** in the tab (1), go to (1), click on (1), dropdown (1)
-> **Code Keywords:** finally, (1), for. (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.4.2 (1)
 > **Definitions:** is an  (1)
@@ -1375,7 +1374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), continue (2), super (1), case, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), next (3)
 > **Env Vars:** pdf (3), wcag (2)
 > **UI Navigation:** click on (3), scroll down (1), select the (1)
 > **Versions:** 1.3.1 (1), 2.4.1 (1), 2.4.6 (1), 1.1 (1)
@@ -1445,7 +1444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), case, (1), this. (1)
+> **Frameworks & Libraries:** next (2), [[User Experience (UX)|User experience]] (2), [[Microsoft Word|Word]] (1), hit (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** next chapter (1)
@@ -1588,10 +1587,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (5), select the (4), dropdown (3)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** wcag (2), pdf (2)
-> **Code Keywords:** this. (1), case, (1), continue (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Versions:** 1.3.1 (1)
 > **Analogies:** kind of like (1)
@@ -1666,8 +1665,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Zoom]] (1)
 > **Env Vars:** toc (10), toci (6), pdf (2), wcag (1)
-> **Code Keywords:** this, (3), continue (2), let (2), this. (1), switch (1)
 > **UI Navigation:** select the (2), click on (2), open the (1)
 > **CLI Commands:** find (1)
 > **Versions:** 1.3.1 (1)
@@ -1766,6 +1765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** click on (6), navigate to (3), go to (3)
 > **Env Vars:** pdf (2), toc (1), objr (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -1773,7 +1773,6 @@ created: 2026-04-29
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
-> **Speakers:** - [instructor] (1)
 
 #### Tagging tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-14418210?u=76281980)
@@ -1876,9 +1875,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Zoom]] (1), data (1)
 > **UI Navigation:** click on (3), navigate to (1), go to (1), select the (1), scroll down (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
@@ -2040,9 +2039,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (4)
 > **UI Navigation:** click on (7), navigate to (1), go to (1), select the (1)
-> **Code Keywords:** this, (3), let (2), require (1), case, (1), default. (1)
 > **Env Vars:** wcag (2), pdf (2), ppo (2), hmo (2)
 > **Versions:** 1.4.5 (1), 1.3.1 (1)
 > **Cross-References:** go back to (2)
@@ -2182,8 +2181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3)
 > **UI Navigation:** right-click (5), click on (3), go to (2), scroll down (2), select the (1)
-> **Code Keywords:** let (5), this, (2), require (1), case. (1), case, (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (2)
@@ -2310,7 +2309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), switch (1), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (3), click on (2), navigate to (1), right-click (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** pdf (2), nvda (1)
@@ -2412,10 +2411,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** pdf (3), wcag (2)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** this, (2), case, (1)
 > **Versions:** 1.1.1 (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -2533,6 +2532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (3), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** wcag (1), pdf (1)
@@ -2633,8 +2633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **UI Navigation:** click on (4), scroll up (1), go to (1)
-> **Code Keywords:** let (2), continue (2), this. (1)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
@@ -2762,8 +2762,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1)
 > **Env Vars:** pdf (10), pac (4), wcag (1)
-> **Code Keywords:** let (3), this, (3), this. (2), case, (1)
 > **UI Navigation:** click on (4), right-click (3), dropdown (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2875,7 +2875,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **UI Navigation:** click on (8), go to (3)
-> **Code Keywords:** let (3), delete (2), this, (1), switch (1)
 > **Env Vars:** pdf (3), wcag (2), pac (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2917,8 +2916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2)
 > **Env Vars:** pac (4), pdf (3), wcag (2)
-> **Code Keywords:** let (1), if, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Versions:** 4.5 (1)
@@ -3021,10 +3020,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), [[Microsoft Office|Office]] (1), data (1)
 > **Speakers:** - [instructor] (11), - [automated (10)
 > **Env Vars:** nbda (3), ira (2), jaws (1), ppo (1), hmo (1)
 > **Versions:** 1.1 (1), 6.2 (1), 6.4 (1), 6.5 (1), 6.6 (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 
 #### Third-party tools
@@ -3114,18 +3113,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), game (1), application (1), [[Metadata]] (1)
 > **Env Vars:** pdf (8), pac (2)
 > **UI Navigation:** click on (7), go to (3)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is an  (2)
-> **Code Keywords:** this, (2), let (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [tutor] (1)
 
 
 ### 4. Make an Existing PDF File Accessible (New Interface)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980)
@@ -3192,10 +3191,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (8), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** pdf (7), wcag (1)
 > **UI Navigation:** in the tab (2), open the (1), click on (1), dropdown (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** interface (1), this, (1)
 > **Versions:** 2.4.2 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -3369,7 +3368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), super (1), let (1)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **UI Navigation:** open the (1), click on (1), checkbox (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** make (1), find (1)
@@ -3537,10 +3536,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (12), go to (4), select the (1)
 > **Speakers:** - [sharky] (5), - so (2), - [instructor] (1), - but (1), - and (1)
 > **Env Vars:** jaws (5), pdf (1), ops64 (1), ops (1)
-> **Code Keywords:** this, (3), let (2), switch (1), delete (1)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
@@ -3655,7 +3654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), delete (4), let (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), next (2), [[Microsoft Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** open the (3), click on (1), go to (1), right-click (1), select the (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (1)
@@ -3815,10 +3814,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1), next (1)
 > **Env Vars:** pdf (5), wcag (3)
 > **UI Navigation:** click on (7), dropdown (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this, (1), this. (1), continue (1)
 > **Definitions:** essentially is (1), is called (1)
 > **Versions:** 1.3.1 (1)
 > **Speakers:** - [instructor] (1)
@@ -3966,10 +3965,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Windows]] (1), hit (1), [[Zoom]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** toc (7), shift (5), toci (3), pdf (2), control (2)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** click on (4), dropdown (2), go to (1), select the (1)
-> **Code Keywords:** this, (2), switch (1), case, (1), this. (1), let (1)
 > **Versions:** 1.3.1 (1), 1.1 (1)
 > **Documentation:** specification (1)
 > **Definitions:** is a  (1)
@@ -4150,11 +4149,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), next (1), hit (1), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** click on (8), go to (7), navigate to (3)
 > **Env Vars:** jaws (6), pdf (3), objr (3), toci (1)
 > **Speakers:** - [lecturer] (6), - [jaws (3)
 > **CLI Commands:** find (5), make (2)
-> **Code Keywords:** let (3), case, (1), this, (1)
 > **Versions:** 1.1 (4)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -4312,9 +4311,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (3), [[Zoom]] (1)
 > **UI Navigation:** click on (4), go to (3), navigate to (1), scroll down (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** let (4), this. (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Analogies:** such as (1), just like (1)
 > **Env Vars:** ppo (1)
@@ -4482,10 +4481,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1), data (1)
 > **UI Navigation:** click on (11), scroll down (2), go to (2)
 > **Definitions:** defined as (4), is a  (1)
 > **Env Vars:** wcag (2), ppo (1), hmo (1)
-> **Code Keywords:** require (1), type. (1), let (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 1.3.1 (1)
 > **Warnings:** common error (1)
@@ -4631,7 +4630,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **UI Navigation:** click on (8), go to (4), scroll down (1)
-> **Code Keywords:** delete (6), require (2), let (1), this, (1)
 > **Definitions:** is a  (5), is called (1), means that (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (2)
@@ -4789,10 +4787,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Representational State Transfer (REST)|Rest]] (1), power (1)
 > **UI Navigation:** go to (5), click on (2), navigate to (1), select the (1)
 > **Env Vars:** pdf (1), changes (1), policy (1), absence (1), without (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (3), this. (1), for. (1)
 > **Definitions:** is a  (2)
 > **Versions:** 1.1 (1)
 > **Cross-References:** as we saw (1)
@@ -4957,9 +4955,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1), [[Zoom]] (1), feature (1)
 > **UI Navigation:** click on (7), go to (1), checkbox (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (2), switch (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
@@ -5065,9 +5063,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (7), go to (3), navigate to (1)
 > **Env Vars:** wcag (6), pdf (4)
-> **Code Keywords:** require (1), delete (1), this. (1), this: (1), this, (1)
 > **Versions:** 2.4.5 (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -5163,9 +5161,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[DAX]] (1)
 > **UI Navigation:** go to (2), click on (2), navigate to (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this, (2), let (1), case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [chad (1)
 
@@ -5222,9 +5220,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (3), scroll up (1)
-> **Code Keywords:** continue (2), let (1)
 > **Env Vars:** jaws (1), nvda (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -5318,10 +5316,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Search]] (1)
 > **CLI Commands:** find (8), make (1)
 > **Env Vars:** toc (3), pdf (2), toci (2)
 > **UI Navigation:** click on (3), go to (2), dropdown (2)
-> **Code Keywords:** pass (1), let (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -5418,7 +5416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** pdf (3), pac (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Definitions:** is a  (2), is an  (1)
@@ -5627,9 +5625,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (2), hit (1)
 > **UI Navigation:** click on (14), go to (13), navigate to (2), dropdown (2)
 > **Env Vars:** pdf (14), pac (9), wcag (2)
-> **Code Keywords:** this, (4), let (3), super (2), finally, (1), delete (1)
 > **Cross-References:** go back to (7)
 > **CLI Commands:** make (3), find (2)
 > **Versions:** version 1 (1)
@@ -5697,8 +5695,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Windows]] (1), next (1)
 > **Env Vars:** wcag (2), pdf (1), tpgi (1), pac (1)
-> **Code Keywords:** let (1), case, (1), this. (1)
 > **Versions:** 4.5 (2), 1.4 (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (2)
@@ -5796,10 +5794,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Office|Office]] (1), data (1)
 > **Speakers:** - [jaws] (11), - [instructor] (10), - [narrator] (1)
 > **Env Vars:** jaws (14), ppo (2), hmo (2), pdf (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3)
 > **Versions:** 1.1 (1), 15.00 (1), 10.00 (1)
 > **Definitions:** basically means (1), defined as (1)
 > **UI Navigation:** go to (1)
@@ -5807,7 +5805,7 @@ created: 2026-04-29
 
 ### 5. Create an Accessible PDF from Word
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible PDF on Windows vs. Mac
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980)
@@ -5918,11 +5916,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Microsoft Word|Word]] (5), [[Microsoft Word]] (3), cloud (2), feature (1)
 > **Env Vars:** pdf (15)
 > **UI Navigation:** click on (7), dropdown (2), open the (1), go to (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** function (1), switch (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5967,8 +5965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), application (1), next (1)
 > **Env Vars:** pdf (5)
-> **Code Keywords:** finally, (1), case, (1)
 > **UI Navigation:** click on (1), checkbox (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6055,8 +6053,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Microsoft Word|Word]] (4), [[Microsoft Word]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** pdf (12)
-> **Code Keywords:** case, (1), let (1), type, (1), continue (1)
 > **UI Navigation:** right-click (2), click on (1), go to (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
@@ -6158,10 +6156,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), power (1)
 > **Env Vars:** pdf (7)
 > **UI Navigation:** click on (5), scroll down (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), super (1), delete (1), return. (1)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** defined as (1)
@@ -6224,8 +6222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), feature (3)
 > **Env Vars:** pdf (12)
-> **Code Keywords:** let (1), default, (1), from, (1), this, (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is a  (1)
@@ -6295,10 +6293,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2), [[Microsoft Word]] (1), data (1)
 > **Env Vars:** pdf (8)
 > **UI Navigation:** go to (3), checkbox (2), navigate to (1), click on (1), scroll down (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** earlier in (1), go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6397,10 +6395,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), feature (1)
 > **Env Vars:** pdf (8), objr (1)
 > **UI Navigation:** click on (4), scroll down (1), go to (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (2), let (1), this. (1)
 > **Cross-References:** in the last (1), go back to (1), previous chapter (1), we talked about (1)
 > **Definitions:** is a  (4)
 > **URLs:** [twotreesoliveoil.com](https://twotreesoliveoil.com) (1)
@@ -6473,9 +6471,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), feature (2)
 > **Env Vars:** pdf (4), toci (2), toc (1)
 > **Definitions:** is a  (6)
-> **Code Keywords:** this, (2), let (1), delete (1)
 > **UI Navigation:** scroll down (1), click on (1), scroll up (1), go to (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
@@ -6537,10 +6535,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Microsoft Word]] (1)
 > **Env Vars:** pdf (4)
 > **UI Navigation:** click on (2), checkbox (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), pass (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
 > **Cross-References:** previous video (1)
@@ -6617,8 +6615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), feature (4)
 > **UI Navigation:** go to (3), checkbox (2), click on (1), double-click (1)
-> **Code Keywords:** require (1), let (1), this, (1), case, (1)
 > **Env Vars:** pdf (4)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
@@ -6696,9 +6694,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), [[Microsoft Word|Word]] (4)
 > **Env Vars:** pdf (5)
 > **UI Navigation:** scroll down (2), navigate to (1), click on (1)
-> **Code Keywords:** delete (1), let (1), this, (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is an  (1)
@@ -6800,7 +6798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2), switch (1), export. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Microsoft Word]] (1)
 > **Env Vars:** pdf (5)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -6935,7 +6933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (2), this, (1), export, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Metadata]] (2), next (2)
 > **Env Vars:** pdf (9), pac (3), mtp (1)
 > **UI Navigation:** click on (4), go to (2), scroll down (1)
 > **Cross-References:** we talked about (2), previous video (1), go back to (1), in the next (1)
@@ -7056,7 +7054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (3), this, (3), require (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), feature (1)
 > **UI Navigation:** click on (6), right-click (4), go to (3)
 > **Env Vars:** pdf (7), pac (3), wcag (1)
 > **CLI Commands:** find (3)
@@ -7067,7 +7065,7 @@ created: 2026-04-29
 
 ### 6. Create an Accessible PDF File from PowerPoint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### General considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980)
@@ -7140,8 +7138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), [[Microsoft Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pdf (7)
-> **Code Keywords:** export. (2), interface (1), this, (1), let (1), switch (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
@@ -7208,9 +7206,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Microsoft Word]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pdf (6)
 > **UI Navigation:** go to (3), click on (1), right-click (1), dropdown (1)
-> **Code Keywords:** let (2), finally, (1), case, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -7308,8 +7306,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **UI Navigation:** go to (6), click on (3), checkbox (2)
-> **Code Keywords:** this, (3), delete (2), let (1), case, (1), finally, (1)
 > **Env Vars:** pdf (4), wcag (1)
 > **Versions:** 1.3.1 (1), 2.4.6 (1)
 > **CLI Commands:** make (1)
@@ -7392,9 +7390,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), next (1)
 > **Env Vars:** pdf (6)
 > **UI Navigation:** go to (3), click on (2)
-> **Code Keywords:** let (3), this, (1)
 > **Analogies:** picture (2), similar to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), coming up (1)
@@ -7526,7 +7524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (2), this. (2), this, (1), else. (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), next (2), product (2), [[Microsoft Word]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (3)
 > **Analogies:** similar to (1), kind of like (1), for example (1)
@@ -7574,9 +7572,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word]] (1), data (1)
 > **UI Navigation:** click on (2), go to (2), right-click (2)
 > **Env Vars:** pdf (2), wcag (1)
-> **Code Keywords:** let (1), for, (1)
 > **Definitions:** defined as (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous video (1)
@@ -7680,17 +7678,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Word]] (2), product (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pdf (11), pac (4)
 > **Cross-References:** go back to (2), we talked about (2), previous video (1), previous chapter (1)
 > **UI Navigation:** open the (1), navigate to (1), click on (1), go to (1)
-> **Code Keywords:** let (1), switch (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Create an Accessible PDF File from Adobe InDesign
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Best way to generate the PDF file
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/best-way-to-generate-the-pdf-file?u=76281980)
@@ -7779,8 +7777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), feature (1), next (1)
 > **Env Vars:** pdf (16)
-> **Code Keywords:** export. (2), this. (2), let (1), from. (1), super (1)
 > **UI Navigation:** go to (2), dropdown (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -7844,7 +7842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), require (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), application (1), next (1), feature (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (2)
 > **Warnings:** keep in mind (2)
@@ -7918,8 +7916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Human Resources (HR)|Human resources]] (1), hr (1)
 > **Env Vars:** pdf (10)
-> **Code Keywords:** let (2), this. (2), type, (1), export. (1)
 > **UI Navigation:** go to (2), in the tab (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** remember to (1)
@@ -8018,11 +8016,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), [[LinkedIn]] (1), [[HTML]] (1), next (1)
 > **Env Vars:** pdf (6), toc (2), epub (1), html (1), wcag (1)
 > **UI Navigation:** click on (4), dropdown (1)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 1.3.1 (1), 2.4.1 (1), 2.4.8 (1), 3.2.3 (1)
-> **Code Keywords:** let (1), switch (1), continue (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -8163,8 +8161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (1)
 > **Env Vars:** pdf (5), cmyk (1), rgb (1)
-> **Code Keywords:** this, (5), this. (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -8307,8 +8305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2), [[Zoom]] (2), product (1), feature (1)
 > **UI Navigation:** go to (5), click on (4)
-> **Code Keywords:** let (3), switch (1), case, (1), this, (1)
 > **Env Vars:** pdf (3), jaws (1), nvda (1), wcag (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
@@ -8428,7 +8426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (3), this, (3), for. (1), export, (1)
+> **Frameworks & Libraries:** feature (7), [[Metadata]] (2), [[Zoom]] (1), next (1)
 > **UI Navigation:** go to (7), click on (2), scroll down (1)
 > **Env Vars:** pdf (4)
 > **CLI Commands:** find (2), make (1)
@@ -8558,7 +8556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), delete (1)
+> **Frameworks & Libraries:** next (4), [[Zoom]] (2)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **Env Vars:** pdf (3)
 > **Cross-References:** go back to (1)
@@ -8673,7 +8671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), delete (1), this, (1), export. (1)
+> **Frameworks & Libraries:** product (1), data (1), application (1)
 > **Env Vars:** pdf (4), pac (2), ppo (1), hmo (1)
 > **UI Navigation:** go to (3), click on (2), navigate to (1)
 > **CLI Commands:** make (1), find (1)
@@ -8769,8 +8767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** pdf (5), url (4), objr (2)
-> **Code Keywords:** default, (2), case, (2), default. (1), let (1), this. (1)
 > **UI Navigation:** go to (2), navigate to (1), checkbox (1), dropdown (1), click on (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
@@ -8881,8 +8879,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **UI Navigation:** click on (4), navigate to (2), go to (1)
-> **Code Keywords:** let (1), this. (1), from. (1), new. (1), new, (1)
 > **Env Vars:** pdf (4)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -9003,9 +9001,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), hit (1)
 > **Versions:** 3.8 (10)
 > **UI Navigation:** click on (4), scroll down (2), go to (1), navigate to (1)
-> **Code Keywords:** let (2), delete (2), this. (2), continue (1)
 > **Env Vars:** pdf (3)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (2)
@@ -9147,9 +9145,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3)
 > **Env Vars:** toc (9), pdf (6), objr (1)
 > **UI Navigation:** click on (5), navigate to (1), go to (1), scroll down (1)
-> **Code Keywords:** let (2), case, (1), delete (1), super (1), this, (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (3)
 > **Analogies:** it's like (1)
@@ -9242,10 +9240,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (5), feature (2), product (2), data (1)
 > **CLI Commands:** find (4), make (4)
 > **Env Vars:** pdf (4), xmp (1)
 > **UI Navigation:** go to (3), dropdown (1), scroll down (1)
-> **Code Keywords:** let (2), case, (1), for, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -9289,6 +9287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (5), feature (1), application (1)
 > **UI Navigation:** click on (3), go to (1), dropdown (1), scroll down (1)
 > **Cross-References:** previous video (1), coming up (1)
 > **CLI Commands:** make (1)
@@ -9325,6 +9324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (1), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
@@ -9424,7 +9424,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), this, (1), delete (1), export. (1)
 > **UI Navigation:** click on (4), dropdown (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (3)
@@ -9495,7 +9494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), switch (1), this. (1)
+> **Frameworks & Libraries:** next (2), feature (1)
 > **Env Vars:** pdf (5), wcag (1)
 > **UI Navigation:** go to (4), click on (2)
 > **Definitions:** is a  (2)
@@ -9637,8 +9636,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (6), click on (2), navigate to (1)
-> **Code Keywords:** let (2), this, (1), continue (1), this. (1), case, (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** pdf (2), toc (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -9761,7 +9760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), continue (1), this. (1)
+> **Frameworks & Libraries:** feature (2), hit (1), next (1)
 > **UI Navigation:** open the (1), scroll down (1), go to (1), click on (1)
 > **Env Vars:** pdf (3)
 > **Definitions:** is a  (2)
@@ -9882,8 +9881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2)
 > **Env Vars:** pdf (6), pac (3), wcag (1)
-> **Code Keywords:** let (5), export, (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (1)
@@ -9893,7 +9892,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980)
@@ -9944,10 +9943,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (1), game (1), [[DAX]] (1)
 > **Env Vars:** pdf (13), wcag (1), pdfa (1), pac (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (1)
 > **Versions:** 2.1 (1)
 > **Documentation:** specification (1)
 > **Exercise Files:** download the (1)

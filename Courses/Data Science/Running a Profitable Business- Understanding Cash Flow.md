@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/cash-flow-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Running%20a%20Profitable%20Business-%20Understanding%20Cash%20Flow.md)
@@ -45,46 +45,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Understanding cash flow analysis
+  - [Understanding cash flow analysis](#understanding-cash-flow-analysis)
 - [**1. The Importance of Cash Flow Analysis**](#1-the-importance-of-cash-flow-analysis) (3 videos)
-  - Home Depot, 1985: Case study
-  - Net income is not the same as operating cash flow
-  - Cash flow problems kill companies
+  - [Home Depot, 1985: Case study](#home-depot-1985-case-study)
+  - [Net income is not the same as operating cash flow](#net-income-is-not-the-same-as-operating-cash-flow)
+  - [Cash flow problems kill companies](#cash-flow-problems-kill-companies)
 - [**2. Overview of the Statement of Cash Flows**](#2-overview-of-the-statement-of-cash-flows) (5 videos)
-  - Introduction to the statement of cash flows
-  - Overview of the statement of cash flows
-  - Practice categorizing cash flows
-  - Deducing cash flow statements
-  - Interpreting Walmart's statement of cash flows
+  - [Introduction to the statement of cash flows](#introduction-to-the-statement-of-cash-flows)
+  - [Overview of the statement of cash flows](#overview-of-the-statement-of-cash-flows)
+  - [Practice categorizing cash flows](#practice-categorizing-cash-flows)
+  - [Deducing cash flow statements](#deducing-cash-flow-statements)
+  - [Interpreting Walmart's statement of cash flows](#interpreting-walmarts-statement-of-cash-flows)
 - [**3. Using Cash Flow Data to Make a Loan Decision**](#3-using-cash-flow-data-to-make-a-loan-decision) (5 videos)
-  - Mortgage loan application
-  - Interpreting free cash flow statements
-  - Relationships in cash flow statements
-  - Determining loan decisions
-  - Classifying a cash cow company
+  - [Mortgage loan application](#mortgage-loan-application)
+  - [Interpreting free cash flow statements](#interpreting-free-cash-flow-statements)
+  - [Relationships in cash flow statements](#relationships-in-cash-flow-statements)
+  - [Determining loan decisions](#determining-loan-decisions)
+  - [Classifying a cash cow company](#classifying-a-cash-cow-company)
 - [**4. Convert Income Statement Data to Operating Cash Flow Data**](#4-convert-income-statement-data-to-operating-cash-flow-data) (6 videos)
-  - The Jim Stice operating cash flow matrix
-  - Understanding the direct method
-  - Understanding the indirect method
-  - Operating cash flow data as an IPO reality check
-  - Identifying economic performance
-  - Operating cash flow problems from high growth
+  - [The Jim Stice operating cash flow matrix](#the-jim-stice-operating-cash-flow-matrix)
+  - [Understanding the direct method](#understanding-the-direct-method)
+  - [Understanding the indirect method](#understanding-the-indirect-method)
+  - [Operating cash flow data as an IPO reality check](#operating-cash-flow-data-as-an-ipo-reality-check)
+  - [Identifying economic performance](#identifying-economic-performance)
+  - [Operating cash flow problems from high growth](#operating-cash-flow-problems-from-high-growth)
 - [**5. Managing Cash Flow**](#5-managing-cash-flow) (4 videos)
-  - The Home Depot story revisited
-  - Managing operating cash flow
-  - Managing investing cash flow
-  - Managing financing cash flow
+  - [The Home Depot story revisited](#the-home-depot-story-revisited)
+  - [Managing operating cash flow](#managing-operating-cash-flow)
+  - [Managing investing cash flow](#managing-investing-cash-flow)
+  - [Managing financing cash flow](#managing-financing-cash-flow)
 - [**6. Cash Flow Numbers for Some Real Companies**](#6-cash-flow-numbers-for-some-real-companies) (4 videos)
-  - Tough times in 2008, except for Exxon Mobil
-  - Analyzing General Motors’ free cash flow
-  - Apple: Cash flow data helps unravel accounting issues
-  - The danger of free cash flow
+  - [Tough times in 2008, except for Exxon Mobil](#tough-times-in-2008-except-for-exxon-mobil)
+  - [Analyzing General Motors’ free cash flow](#analyzing-general-motors-free-cash-flow)
+  - [Apple: Cash flow data helps unravel accounting issues](#apple-cash-flow-data-helps-unravel-accounting-issues)
+  - [The danger of free cash flow](#the-danger-of-free-cash-flow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Manage company cash flow
+  - [Manage company cash flow](#manage-company-cash-flow)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cash flow analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-cash-flow-analysis?u=76281980)
@@ -129,14 +129,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (2)
 > **Speakers:** - [kay] (2), - many (1), - i (1), - [jim] (1), - now (1)
-> **Code Keywords:** let (2), self (1)
 > **Definitions:** is an  (2)
 
 
 ### 1. The Importance of Cash Flow Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Home Depot, 1985: Case study
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/home-depot-1985-case-study?u=76281980)
@@ -201,8 +201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Financial Statements]] (1)
 > **Speakers:** - [man (6), - in (2), - most (1), - an (1), - not (1)
-> **Code Keywords:** case, (1)
 
 #### Net income is not the same as operating cash flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/net-income-is-not-the-same-as-operating-cash-flow-14332590?u=76281980)
@@ -335,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), business (2), data (2), [[Engineering]] (1)
 > **Definitions:** defined as (2), is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
@@ -439,7 +439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), case, (1), finally. (1), finally, (1)
+> **Frameworks & Libraries:** business (9), management (2), [[Security]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** open the (1)
@@ -450,7 +450,7 @@ created: 2026-04-29
 
 ### 2. Overview of the Statement of Cash Flows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the statement of cash flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/introduction-to-the-statement-of-cash-flows-14328741?u=76281980)
@@ -507,6 +507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (2), [[Microsoft]] (1)
 > **Speakers:** - okay (3), - well (3), - the (2), - don (1), - yeah (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -600,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), let (1)
+> **Frameworks & Libraries:** business (6), [[Financial Statements]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -745,8 +746,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6)
 > **Definitions:** is an  (7), is a  (4)
-> **Code Keywords:** let (1), case, (1), this. (1)
 > **Speakers:** - let (1)
 
 #### Deducing cash flow statements
@@ -908,7 +909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** data (9), business (1), [[Financial Statements]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
@@ -1024,7 +1025,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), case, (1)
+> **Frameworks & Libraries:** business (2), next (1)
 > **Definitions:** means that (2), is called (2), is a  (2), is an  (1), in other words (1)
 > **Versions:** 7.6 (2)
 > **CLI Commands:** make (1)
@@ -1034,7 +1035,7 @@ created: 2026-04-29
 
 ### 3. Using Cash Flow Data to Make a Loan Decision
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mortgage loan application
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/mortgage-loan-application-14329775?u=76281980)
@@ -1077,10 +1078,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3)
 > **Speakers:** - [speaker (2), - imagine (1), - now (1), - a (1), - gaining (1)
 > **CLI Commands:** make (7)
 > **Analogies:** imagine (2), such as (2)
-> **Code Keywords:** require (1), continue (1)
 
 #### Interpreting free cash flow statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/interpreting-free-cash-flow-statements?u=76281980)
@@ -1197,7 +1198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), private (1)
+> **Frameworks & Libraries:** data (3), business (1), next (1)
 > **Speakers:** - for (1)
 
 #### Relationships in cash flow statements
@@ -1249,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
@@ -1329,7 +1330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
 
@@ -1404,15 +1405,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is called (1)
 > **Speakers:** - okay (1)
 
 
 ### 4. Convert Income Statement Data to Operating Cash Flow Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Jim Stice operating cash flow matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-jim-stice-operating-cash-flow-matrix-14326799?u=76281980)
@@ -1486,7 +1487,6 @@ created: 2026-04-29
 > **Speakers:** - well (3), - i (2), - and (2), - yeah (2), - the (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 
 #### Understanding the direct method
@@ -1594,7 +1594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Warnings:** note that (1), caution (1)
 > **Speakers:** - let (1)
@@ -1764,7 +1764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), finally, (1)
+> **Frameworks & Libraries:** next (1), management (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1929,7 +1929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (1), this, (1), case, (1)
+> **Frameworks & Libraries:** next (2), application (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** ipo (1)
@@ -2052,7 +2052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), continue (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -2154,14 +2154,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Definitions:** is a  (3), means that (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - here (1)
 
 
 ### 5. Managing Cash Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Home Depot story revisited
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-home-depot-story-revisited-14330683?u=76281980)
@@ -2214,6 +2214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2)
 > **Speakers:** - in (5), - [instructor (3), - it (2), - when (1), - so (1)
 
 #### Managing operating cash flow
@@ -2315,9 +2316,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), data (1), business (1)
 > **Definitions:** means that (2), is a  (2), is called (1), we call this (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3)
 > **Analogies:** such as (2)
 > **Speakers:** - for (1)
 
@@ -2414,6 +2415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), management (1), next (1), business (1)
 > **Analogies:** such as (4), for example (2)
 > **Definitions:** is called (2), is a  (2), is an  (1)
 > **Versions:** 6.67 (2)
@@ -2504,7 +2506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Corporate Finance]] (1), [[Financial Statements]] (1), business (1), [[Forecasting]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2514,7 +2516,7 @@ created: 2026-04-29
 
 ### 6. Cash Flow Numbers for Some Real Companies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tough times in 2008, except for Exxon Mobil
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/tough-times-in-2008-except-for-exxon-mobil-14327838?u=76281980)
@@ -2589,8 +2591,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - wow (2), - an (2), - well (2), - i (1), - me (1)
-> **Code Keywords:** let (3)
 > **Versions:** 59.725 (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2715,7 +2717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** business (2), next (2)
 > **Versions:** 19.561 (1), 1.37 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2801,9 +2803,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** iphone (10), iphones (1)
 > **Versions:** 36.537 (1), 42.905 (1), 5.704 (1), 8.235 (1), 10.159 (1)
-> **Code Keywords:** let (4)
 > **CLI Commands:** find (1)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** is a  (1)
@@ -2875,8 +2877,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5)
 > **Env Vars:** rjr (4), lbo (4), ceo (3)
-> **Code Keywords:** case, (1), public (1), new, (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2885,7 +2887,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage company cash flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980)
@@ -2976,8 +2978,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), [[Cash Flow Management]] (2), next (2), [[Privacy]] (1), traffic (1)
 > **Speakers:** - well (6), - so (4), - he (2), - exactly (2), - [speaker (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 

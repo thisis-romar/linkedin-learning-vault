@@ -30,7 +30,7 @@ tags:
   - skill/kubernetes
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Securing%20Containers%20and%20Kubernetes%20Ecosystem.md)
@@ -49,59 +49,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Protect your containers and Kubernetes ecosystem
-  - What you need to know
+  - [Protect your containers and Kubernetes ecosystem](#protect-your-containers-and-kubernetes-ecosystem)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Demystifying Containers and Kubernetes**](#1-demystifying-containers-and-kubernetes) (7 videos)
-  - What are containers?
-  - Virtualization
-  - Isolation and OS security features
-  - Container runtime
-  - What is Kubernetes?
-  - Kubernetes master node
-  - Kubernetes worker node
+  - [What are containers?](#what-are-containers)
+  - [Virtualization](#virtualization)
+  - [Isolation and OS security features](#isolation-and-os-security-features)
+  - [Container runtime](#container-runtime)
+  - [What is Kubernetes?](#what-is-kubernetes)
+  - [Kubernetes master node](#kubernetes-master-node)
+  - [Kubernetes worker node](#kubernetes-worker-node)
 - [**2. Security Model for Containers and Kubernetes**](#2-security-model-for-containers-and-kubernetes) (4 videos)
-  - Overall technology architecture
-  - Container deployment and orchestration lifecycle
-  - Attack surface and vectors
-  - Five factors
+  - [Overall technology architecture](#overall-technology-architecture)
+  - [Container deployment and orchestration lifecycle](#container-deployment-and-orchestration-lifecycle)
+  - [Attack surface and vectors](#attack-surface-and-vectors)
+  - [Five factors](#five-factors)
 - [**3. Factor #1: Securing Containerized Application Code**](#3-factor-1-securing-containerized-application-code) (2 videos)
-  - Secure design before code
-  - Secure code
+  - [Secure design before code](#secure-design-before-code)
+  - [Secure code](#secure-code)
 - [**4. Factor #2: Securing Images**](#4-factor-2-securing-images) (4 videos)
-  - Secure container images, part 1
-  - Secure container images, part 2
-  - Image registries
-  - Image registry access control
+  - [Secure container images, part 1](#secure-container-images-part-1)
+  - [Secure container images, part 2](#secure-container-images-part-2)
+  - [Image registries](#image-registries)
+  - [Image registry access control](#image-registry-access-control)
 - [**5. Factor #3: Securing Hosts and Container Working Environment**](#5-factor-3-securing-hosts-and-container-working-environment) (4 videos)
-  - Container working environment
-  - Container network security
-  - Container port and interface security
-  - Host OS protection
+  - [Container working environment](#container-working-environment)
+  - [Container network security](#container-network-security)
+  - [Container port and interface security](#container-port-and-interface-security)
+  - [Host OS protection](#host-os-protection)
 - [**6. Factor #4: Securing Applications in Kubernetes**](#6-factor-4-securing-applications-in-kubernetes) (11 videos)
-  - Securing applications in Kubernetes
-  - Pod Security Standard
-  - Access management
-  - Authenticating users
-  - Authenticating service accounts
-  - Authorization
-  - Admission control
-  - Security context
-  - Security Policy
-  - Kubernetes network security
-  - Secrets management
+  - [Securing applications in Kubernetes](#securing-applications-in-kubernetes)
+  - [Pod Security Standard](#pod-security-standard)
+  - [Access management](#access-management)
+  - [Authenticating users](#authenticating-users)
+  - [Authenticating service accounts](#authenticating-service-accounts)
+  - [Authorization](#authorization)
+  - [Admission control](#admission-control)
+  - [Security context](#security-context)
+  - [Security Policy](#security-policy)
+  - [Kubernetes network security](#kubernetes-network-security)
+  - [Secrets management](#secrets-management)
 - [**7. Factor #5: Securing Kubernetes Cluster**](#7-factor-5-securing-kubernetes-cluster) (3 videos)
-  - Cluster security goals
-  - Securing API server traffic
-  - Securing cluster components
+  - [Cluster security goals](#cluster-security-goals)
+  - [Securing API server traffic](#securing-api-server-traffic)
+  - [Securing cluster components](#securing-cluster-components)
 - [**8. Additional Security Considerations**](#8-additional-security-considerations) (2 videos)
-  - Infrastructure security
-  - Logging and monitoring
+  - [Infrastructure security](#infrastructure-security)
+  - [Logging and monitoring](#logging-and-monitoring)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect your containers and Kubernetes ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Kubernetes]] (3), [[LinkedIn]] (1)
 > **Speakers:** - [sam] (1)
 
 #### What you need to know
@@ -137,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Security]] (2), [[Linux]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -144,7 +146,7 @@ created: 2026-04-29
 
 ### 1. Demystifying Containers and Kubernetes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are containers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-are-containers?u=76281980)
@@ -191,9 +193,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Virtualization]] (4), [[Security]] (3), [[Hardware]] (1), business (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -259,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), let (1)
+> **Frameworks & Libraries:** [[Hardware]] (14), [[Virtualization]] (11), application (3), [[Security]] (3), [[Virtual Machines]] (2)
 > **Analogies:** similar to (1), analogous to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -364,9 +366,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (11), [[Security]] (6), feature (6), management (1), [[Kubernetes]] (1)
 > **Env Vars:** pid (2), ipc (1), net (1), cpu (1), lsm (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
-> **Code Keywords:** default. (1), default, (1), type. (1), module (1), finally, (1)
 > **CLI Commands:** docker (3), make (1)
 > **Definitions:** is a  (2), known as (1), refers to (1)
 > **Warnings:** keep in mind (2)
@@ -423,12 +425,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Orchestration]] (1), api (1), [[Linux]] (1)
 > **Env Vars:** oci (6), api (1), cri (1), rkt (1), aci (1)
 > **Definitions:** known as (3), is a  (1), is an  (1)
 > **Documentation:** specification (3), spec (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** docker (2)
-> **Code Keywords:** let (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
@@ -501,8 +503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (17), node (6), [[Orchestration]] (3), application (2), data (2)
 > **CLI Commands:** node (6), find (1), make (1), kubectl (1)
-> **Code Keywords:** default, (1), interface (1), let (1), switch (1)
 > **Definitions:** in other words (1), known as (1), is a  (1), is an  (1)
 > **Analogies:** such as (3), for example (1)
 > **Documentation:** specification (1), spec (1)
@@ -551,9 +553,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), api (5), data (1), [[Kubernetes]] (1), [[Algorithms]] (1)
 > **CLI Commands:** node (9)
 > **Env Vars:** api (5)
-> **Code Keywords:** type, (1), let (1), switch (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **UI Navigation:** switch to (1)
@@ -600,9 +602,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (4), api (2), node (2), traffic (1), dns (1)
 > **Env Vars:** cri (6), api (2), crio (2), dns (1), oci (1)
 > **CLI Commands:** node (2), docker (1)
-> **Code Keywords:** let (1), interface (1), implements (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** known as (2)
 > **Cross-References:** we discussed (1)
@@ -611,7 +613,7 @@ created: 2026-04-29
 
 ### 2. Security Model for Containers and Kubernetes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overall technology architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980)
@@ -662,8 +664,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Kubernetes]] (3), application (2), product (1), cloud (1)
 > **Analogies:** such as (2), picture (1), imagine (1)
-> **Code Keywords:** this. (1), let (1), finally, (1)
 > **Exercise Files:** source code (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** node (1)
@@ -715,8 +717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Helm]] (4), ci (3), [[Kubernetes]] (3), application (2), [[Continuous Integration (CI)|Continuous integration]] (2)
 > **Definitions:** known as (2), is a  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** cd (1)
 > **Env Vars:** ide (1)
 > **Exercise Files:** source code (1)
@@ -790,6 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (6), api (5), [[Kubernetes]] (4), [[Security]] (3), database (1)
 > **CLI Commands:** node (6), make (1)
 > **Env Vars:** api (5)
 > **Definitions:** known as (1), in other words (1)
@@ -837,7 +840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), let (1)
+> **Frameworks & Libraries:** [[Security]] (9), [[Kubernetes]] (5), next (2), management (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [sam] (1)
@@ -845,7 +848,7 @@ created: 2026-04-29
 
 ### 3. Factor #1: Securing Containerized Application Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure design before code
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980)
@@ -910,6 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), application (4), [[Threat Modeling]] (3), [[Kubernetes]] (2), [[Software Development]] (2)
 > **Env Vars:** sdl (1), nis (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -985,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (12), application (5), next (2), [[Threat Modeling]] (1), [[Engineering]] (1)
 > **Env Vars:** sast (3), ide (1), dast (1)
 > **Exercise Files:** source code (2)
 > **CLI Commands:** cd (1)
@@ -994,7 +998,7 @@ created: 2026-04-29
 
 ### 4. Factor #2: Securing Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure container images, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980)
@@ -1087,9 +1091,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Representational State Transfer (REST)|Rest]] (2), [[Software Development]] (1), [[Metadata]] (1), power (1)
 > **Analogies:** such as (3), for example (3), just like (1)
 > **CLI Commands:** make (2), docker (1), ssh (1), cat (1), ls (1)
-> **Code Keywords:** let (2), protected (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** source code (2)
 > **Warnings:** note that (1), keep in mind (1)
@@ -1179,7 +1183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (2), default. (1), public (1)
+> **Frameworks & Libraries:** [[Security]] (7), business (1), [[Linux]] (1), [[Forms]] (1), data (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
@@ -1253,7 +1257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1), private (1), public (1), continue (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1), next (1), [[Security]] (1), data (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Env Vars:** tuf (1), cncf (1), tls (1)
 > **Cross-References:** in the next (1)
@@ -1368,8 +1372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), ci (1), cd (1), [[Kubernetes]] (1), [[DevSecOps]] (1)
 > **Definitions:** is a  (5), in other words (1), known as (1)
-> **Code Keywords:** let (3), this, (1), case. (1), this. (1)
 > **CLI Commands:** cd (1), make (1)
 > **Prerequisites:** required to (1), set up (1)
 > **Analogies:** for example (1)
@@ -1378,7 +1382,7 @@ created: 2026-04-29
 
 ### 5. Factor #3: Securing Hosts and Container Working Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Container working environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980)
@@ -1431,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), override (1), interface (1), default. (1)
+> **Frameworks & Libraries:** [[Security]] (3), application (2), [[Linux]] (2), [[Kubernetes]] (1), api (1)
 > **CLI Commands:** docker (4)
 > **Env Vars:** api (1), oci (1)
 > **Documentation:** specification (1), spec (1)
@@ -1516,8 +1520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Security]] (3), business (1), application (1), node (1)
 > **CLI Commands:** docker (5), node (1), make (1)
-> **Code Keywords:** interface (4), let (2)
 > **Env Vars:** cni (1), vlan (1), mac (1), lan (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), just like (1)
@@ -1608,7 +1612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3), default, (2), switch (1), protected (1)
+> **Frameworks & Libraries:** traffic (3), [[Security]] (2), [[Kubernetes]] (1), [[Network Security]] (1), data (1)
 > **CLI Commands:** docker (9)
 > **Ports:** port 8080 (2), port 8088 (1), port 49153 (1)
 > **Env Vars:** tcp (2), udp (1)
@@ -1708,8 +1712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Kubernetes]] (4), data (3), [[Virtualization]] (2), [[Hardware]] (1)
 > **Analogies:** for example (2), such as (2), just like (1)
-> **Code Keywords:** let (2), from. (1), protected (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cis (1), nist (1)
 > **Definitions:** is a  (2)
@@ -1719,7 +1723,7 @@ created: 2026-04-29
 
 ### 6. Factor #4: Securing Applications in Kubernetes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing applications in Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-applications-in-kubernetes?u=76281980)
@@ -1782,8 +1786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (10), [[Security]] (6), management (1), teams (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1844,7 +1848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (12), [[Kubernetes]] (5), feature (3), [[Regulatory Compliance]] (1), generic (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -1867,8 +1871,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Security]] (1), api (1)
 > **CLI Commands:** kubectl (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1958,8 +1962,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (11), api (8), [[Tokens]] (3), [[Security]] (1), next (1)
 > **Env Vars:** api (8), csv (1), http (1), jwt (1)
-> **Code Keywords:** static (1), assert (1), let (1)
 > **Definitions:** known as (1), in other words (1), is a  (1)
 > **CLI Commands:** kubectl (1)
 > **Versions:** 2.0 (1)
@@ -2016,7 +2020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (1), switch (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), api (2), next (1), [[Tokens]] (1)
 > **Env Vars:** api (2)
 > **Cross-References:** we talked about (1), we covered (1)
 > **CLI Commands:** kubectl (1)
@@ -2086,8 +2090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[Kubernetes]] (4), node (1)
 > **Env Vars:** rbac (5), api (4), abac (2)
-> **Code Keywords:** delete (3), case, (2), default, (1), let (1), finally, (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** kubectl (1), node (1)
@@ -2160,7 +2164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (2), function (1), let (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Security]] (2), api (2), next (1)
 > **Env Vars:** api (2)
 > **Warnings:** keep in mind (2)
 > **Documentation:** spec (1)
@@ -2219,8 +2223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), [[Kubernetes]] (2)
 > **Documentation:** spec (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [teacher] (1)
@@ -2242,6 +2246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Kubernetes]] (2), power (1), feature (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2308,7 +2313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), default, (1)
+> **Frameworks & Libraries:** traffic (9), [[Kubernetes]] (7), [[Security]] (4), [[Network Security]] (1), business (1)
 > **Definitions:** refers to (2), is an  (1)
 > **Env Vars:** nat (1), api (1)
 > **CLI Commands:** docker (1)
@@ -2406,8 +2411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (9), api (3), application (3), data (2), management (2)
 > **Code Identifiers:** myvaultkey (4), mykeys (2), mysecrets (1)
-> **Code Keywords:** let (2), case, (1), from. (1)
 > **Env Vars:** api (3)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** kubectl (2)
@@ -2418,7 +2423,7 @@ created: 2026-04-29
 
 ### 7. Factor #5: Securing Kubernetes Cluster
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cluster security goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980)
@@ -2443,7 +2448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Security]] (2), feature (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2480,9 +2485,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), [[Kubernetes]] (2), traffic (2)
 > **Env Vars:** api (8), https (2), tls (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), private (1)
 > **Documentation:** specification (2)
 > **Prerequisites:** set up (2)
 > **Ports:** port 8080 (1)
@@ -2541,15 +2546,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (4), data (2), [[Representational State Transfer (REST)|Rest]] (2), application (2), api (1)
 > **Env Vars:** tls (2), api (1), cpu (1), scd (1)
-> **Code Keywords:** default, (1), finally, (1)
 > **Versions:** version 1 (1), version 3 (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Additional Security Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Infrastructure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980)
@@ -2632,7 +2637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** [[Kubernetes]] (16), [[Security]] (11), cloud (5), [[Hardware]] (2), data (2)
 > **Env Vars:** api (2), cia (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
@@ -2710,6 +2715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (7), node (7), [[Security]] (4), management (2), [[Microservices]] (1)
 > **CLI Commands:** node (7), kubectl (1), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** siem (1)
@@ -2718,7 +2724,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980)
@@ -2749,6 +2755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Security]] (6), [[Linux]] (1), cloud (1), [[LinkedIn]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [sam] (1)

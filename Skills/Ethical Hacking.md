@@ -9,7 +9,7 @@ level_advanced: 2
 tags:
   - skill
   - skill/ethical-hacking
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Ethical%20Hacking.md)

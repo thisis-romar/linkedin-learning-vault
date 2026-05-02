@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/ESLint-%20Checking%20for%20Syntax%20and%20Logic%20Errors.md)
@@ -48,25 +48,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Using ESLint to catch coding errors
-  - What you should know
-  - Using the exercise files for this course
-  - Using GitHub Codespaces with this course
+  - [Using ESLint to catch coding errors](#using-eslint-to-catch-coding-errors)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files for this course](#using-the-exercise-files-for-this-course)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Checking for Syntax and Logic Errors**](#1-checking-for-syntax-and-logic-errors) (8 videos)
-  - Understanding ESLint error rule types
-  - Flagging issues in functions
-  - Identifying problems in loops and conditionals
-  - Eliminating unfinished code
-  - Ensuring accurate values
-  - Calling out general logic errors
-  - Challenge
-  - Solution
+  - [Understanding ESLint error rule types](#understanding-eslint-error-rule-types)
+  - [Flagging issues in functions](#flagging-issues-in-functions)
+  - [Identifying problems in loops and conditionals](#identifying-problems-in-loops-and-conditionals)
+  - [Eliminating unfinished code](#eliminating-unfinished-code)
+  - [Ensuring accurate values](#ensuring-accurate-values)
+  - [Calling out general logic errors](#calling-out-general-logic-errors)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using ESLint to catch coding errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-eslint-to-catch-coding-errors-25671666?u=76281980)
@@ -83,6 +83,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - eslint (1)
@@ -102,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (5), [[Search]] (2), front-end (1), [[JavaScript]] (1), [[npm]] (1)
 > **Prerequisites:** configure (2), set up (1)
 > **CLI Commands:** npm (1)
 > **Env Vars:** es6 (1)
@@ -138,8 +140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (3), [[ESLint]] (1), [[npm]] (1), [[Search]] (1)
 > **CLI Commands:** git (3), npm (1), make (1)
-> **Code Keywords:** switch (1), this. (1), this, (1), let (1)
 > **Env Vars:** url (1), zip (1), npm (1), git (1)
 > **Tools:** github (4)
 > **Exercise Files:** github repo (1), zip file (1)
@@ -286,7 +288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (6), hit (5), [[GitHub]] (4), [[LinkedIn]] (2), cloud (2)
 > **UI Navigation:** switch to (4), click on (3), go to (2)
 > **CLI Commands:** make (4), find (1), git (1)
 > **Tools:** github (4), visual studio (2)
@@ -298,7 +300,7 @@ created: 2026-04-29
 
 ### 1. Checking for Syntax and Logic Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding ESLint error rule types
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/understanding-eslint-error-rule-types?u=76281980)
@@ -333,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (10)
 > **Analogies:** for instance (3), such as (2)
-> **Code Keywords:** super (1), throw (1)
 > **Best Practices:** recommended (2)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -438,7 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), case. (1), module (1)
+> **Frameworks & Libraries:** [[ESLint]] (3)
 > **File Paths:** index.js (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** earlier in (1)
@@ -507,7 +509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if, (1), let (1), switch (1), if. (1)
+> **Frameworks & Libraries:** [[ESLint]] (9), [[Control Flow]] (1), next (1)
 > **File Paths:** index.js (3)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1), later in (1)
@@ -609,8 +611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (3), [[Debugging]] (2), [[Microsoft Word|Word]] (2), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** index.js (5)
-> **Code Keywords:** case, (1), throw (1), let (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -689,10 +691,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (6)
 > **Exercise Files:** template (12)
 > **File Paths:** index.js (4)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -784,8 +786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (6), [[Control Flow]] (2), data (1), [[JavaScript]] (1)
 > **File Paths:** index.js (4)
-> **Code Keywords:** default, (1), switch (1), throw (1), else, (1)
 > **CLI Commands:** find (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** recommended (1)
@@ -824,6 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (3), [[React.js|React]] (1), next (1)
 > **File Paths:** index.js (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -948,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), function (1), this, (1), switch (1), for. (1)
+> **Frameworks & Libraries:** next (2), [[ESLint]] (2), [[Microsoft Word|Word]] (1), data (1), [[JavaScript]] (1)
 > **File Paths:** index.js (6)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (3)
@@ -960,7 +963,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980)
@@ -985,6 +988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (5), [[JavaScript]] (1)
 > **Speakers:** - [sasha] (1)
 
 

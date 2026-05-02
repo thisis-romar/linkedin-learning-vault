@@ -37,7 +37,7 @@ tags:
   - skill/python-programming-language
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20for%20Health%20Sciences%20and%20Healthcare.md)
@@ -56,80 +56,80 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn Python for healthcare
-  - Python for health sciences and healthcare
+  - [Learn Python for healthcare](#learn-python-for-healthcare)
+  - [Python for health sciences and healthcare](#python-for-health-sciences-and-healthcare)
 - [**1. General Programming Concepts**](#1-general-programming-concepts) (11 videos)
-  - What is programming?
-  - What are programming languages?
-  - Code editors
-  - Integrated development environment software (IDEs)
-  - Modules, libraries, packages, and systems
-  - Code versioning
-  - Version control and repositories
-  - Package managers and installers
-  - What is Python?
-  - Python naming convention
-  - Python keywords
+  - [What is programming?](#what-is-programming)
+  - [What are programming languages?](#what-are-programming-languages)
+  - [Code editors](#code-editors)
+  - [Integrated development environment software (IDEs)](#integrated-development-environment-software-ides)
+  - [Modules, libraries, packages, and systems](#modules-libraries-packages-and-systems)
+  - [Code versioning](#code-versioning)
+  - [Version control and repositories](#version-control-and-repositories)
+  - [Package managers and installers](#package-managers-and-installers)
+  - [What is Python?](#what-is-python)
+  - [Python naming convention](#python-naming-convention)
+  - [Python keywords](#python-keywords)
 - [**2. Setup and Workspace**](#2-setup-and-workspace) (2 videos)
-  - Colaboratory notebook (online)
-  - An overview of the Coderpad coding challenges
+  - [Colaboratory notebook (online)](#colaboratory-notebook-online)
+  - [An overview of the Coderpad coding challenges](#an-overview-of-the-coderpad-coding-challenges)
 - [**3. Python File Handling**](#3-python-file-handling) (3 videos)
-  - Open Python file
-  - Write Python file
-  - Read Python file
+  - [Open Python file](#open-python-file)
+  - [Write Python file](#write-python-file)
+  - [Read Python file](#read-python-file)
 - [**4. Basic Python Data Type**](#4-basic-python-data-type) (3 videos)
-  - Numeric data
-  - String data
-  - Boolean
+  - [Numeric data](#numeric-data)
+  - [String data](#string-data)
+  - [Boolean](#boolean)
 - [**5. Basic Python Data Structures**](#5-basic-python-data-structures) (6 videos)
-  - Lists
-  - Tuples
-  - Sets
-  - Dictionaries
-  - Solution:  Remove an element from a list
-  - Solution: Create a set from a list
+  - [Lists](#lists)
+  - [Tuples](#tuples)
+  - [Sets](#sets)
+  - [Dictionaries](#dictionaries)
+  - [Solution:  Remove an element from a list](#solution-remove-an-element-from-a-list)
+  - [Solution: Create a set from a list](#solution-create-a-set-from-a-list)
 - [**6. Basic Operations in Python**](#6-basic-operations-in-python) (5 videos)
-  - Arithmetic operations
-  - Comparison operations
-  - Logical operations
-  - Solution: Repeat string by integer multiplication
-  - Solution: Integer floor division
+  - [Arithmetic operations](#arithmetic-operations)
+  - [Comparison operations](#comparison-operations)
+  - [Logical operations](#logical-operations)
+  - [Solution: Repeat string by integer multiplication](#solution-repeat-string-by-integer-multiplication)
+  - [Solution: Integer floor division](#solution-integer-floor-division)
 - [**7. Python Functions and Statements**](#7-python-functions-and-statements) (5 videos)
-  - Functions
-  - Conditional statements
-  - For loops
-  - Solution: Define a function
-  - Solution: Iterate over a list with for loop
+  - [Functions](#functions)
+  - [Conditional statements](#conditional-statements)
+  - [For loops](#for-loops)
+  - [Solution: Define a function](#solution-define-a-function)
+  - [Solution: Iterate over a list with for loop](#solution-iterate-over-a-list-with-for-loop)
 - [**8. Built-in Functions and Other Operations in Python**](#8-built-in-functions-and-other-operations-in-python) (14 videos)
-  - Length and count function
-  - Minimum and maximum function
-  - Range and sum function
-  - String case functions
-  - Split and join function
-  - Strip and replace function
-  - Zip function
-  - Map function
-  - Slicing
-  - String formatting
-  - Solution: Return maximum value from a tuple
-  - Solution: Print elements in a list in lowercase
-  - Solution: Zip two lists
-  - Solution: Get list element using negative indexing
+  - [Length and count function](#length-and-count-function)
+  - [Minimum and maximum function](#minimum-and-maximum-function)
+  - [Range and sum function](#range-and-sum-function)
+  - [String case functions](#string-case-functions)
+  - [Split and join function](#split-and-join-function)
+  - [Strip and replace function](#strip-and-replace-function)
+  - [Zip function](#zip-function)
+  - [Map function](#map-function)
+  - [Slicing](#slicing)
+  - [String formatting](#string-formatting)
+  - [Solution: Return maximum value from a tuple](#solution-return-maximum-value-from-a-tuple)
+  - [Solution: Print elements in a list in lowercase](#solution-print-elements-in-a-list-in-lowercase)
+  - [Solution: Zip two lists](#solution-zip-two-lists)
+  - [Solution: Get list element using negative indexing](#solution-get-list-element-using-negative-indexing)
 - [**9. Code Documentation in Python**](#9-code-documentation-in-python) (4 videos)
-  - Comments
-  - Docstring
-  - Error messages
-  - Official Python documentation
+  - [Comments](#comments)
+  - [Docstring](#docstring)
+  - [Error messages](#error-messages)
+  - [Official Python documentation](#official-python-documentation)
 - [**10. Libraries**](#10-libraries) (3 videos)
-  - Import statement and aliasing
-  - Install and uninstall Python libraries
-  - Python data analysis libraries
+  - [Import statement and aliasing](#import-statement-and-aliasing)
+  - [Install and uninstall Python libraries](#install-and-uninstall-python-libraries)
+  - [Python data analysis libraries](#python-data-analysis-libraries)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn Python for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980)
@@ -152,8 +152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** continue (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -184,8 +184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (5)
 > **CLI Commands:** python (5)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [narrator] (1)
@@ -193,7 +193,7 @@ created: 2026-04-29
 
 ### 1. General Programming Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980)
@@ -282,7 +282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Programming]] (7), [[Algorithms]] (3), next (3), [[Engineering]] (1), strengths (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [instructor] (1)
@@ -396,9 +396,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (14), [[Python (Programming Language)|Python]] (6), [[Java]] (5), [[PHP]] (4), [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** python (6), ruby (4), php (4)
 > **Env Vars:** php (4), sql (2), cobol (1), atml (1), dsl (1)
-> **Code Keywords:** case. (1), let (1), this. (1), finally, (1)
 > **Analogies:** for example (3), for instance (1)
 > **Code Identifiers:** ios (1)
 > **Exercise Files:** source code (1)
@@ -444,9 +444,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Windows]] (1), cross-platform (1)
 > **Tools:** atom (2), sublime (1), vim (1), visual studio (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** interface (1), type. (1)
 > **Code Identifiers:** macos (1)
 > **Analogies:** think of it like (1)
 > **Speakers:** - [instructor] (1)
@@ -488,6 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Real-Time]] (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Tools:** visual studio (3), pycharm (1), jupyter (1), intellij (1)
 > **Env Vars:** idea (1), cdt (1), ide (1)
 > **CLI Commands:** python (1), find (1)
@@ -538,8 +539,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), power (2), [[Programming]] (1)
 > **Definitions:** is a  (5), is an  (1)
-> **Code Keywords:** module (2), this, (1), let (1), finally, (1)
 > **Analogies:** for example (4)
 > **Speakers:** - [instructor] (1)
 
@@ -592,10 +593,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (7), [[Programming]] (1), next (1)
 > **Versions:** python 3 (4), python 2 (2), version 2 (2), 0.2 (2), 2.0.2 (2)
 > **CLI Commands:** python (7), make (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Version control and repositories
@@ -643,8 +644,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (5), [[Git]] (4), [[Programming]] (1), cloud (1), [[GitHub]] (1)
 > **CLI Commands:** git (4)
-> **Code Keywords:** switch (1), private (1), public (1)
 > **Tools:** github (1), gitlab (1), bitbucket (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** imagine (1)
@@ -691,13 +692,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[npm]] (3), [[Programming]] (2), node (1), [[Node.js]] (1)
 > **CLI Commands:** python (3), npm (3), apt (3), node (2), pip (2)
 > **Prerequisites:** install (5)
 > **Analogies:** imagine (1), for example (1), just like (1)
 > **Env Vars:** apt (2)
 > **Definitions:** is a  (2)
 > **File Paths:** node.js (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### What is Python?
@@ -737,10 +738,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Programming]] (4), data (2), [[Functional Programming]] (1), [[Scripting]] (1)
 > **CLI Commands:** python (14)
 > **Versions:** python 3 (2), 0.9.0 (1), python 1 (1), python 2 (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Python naming convention
@@ -800,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), function (1), private (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (2), teams (1), [[Programming]] (1), data (1)
 > **CLI Commands:** python (5), make (1)
 > **Analogies:** for example (3), imagine (1)
 > **Code Identifiers:** specimen_weight_in_mg (1), weight_of_specimen_in_mg (1)
@@ -855,7 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), def, (1), return, (1), class. (1), module (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (2)
 > **CLI Commands:** python (3)
 > **Definitions:** is an  (1), refers to (1)
 > **Analogies:** for example (1)
@@ -864,7 +865,7 @@ created: 2026-04-29
 
 ### 2. Setup and Workspace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Colaboratory notebook (online)
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980)
@@ -915,7 +916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** [[Google]] (2), prompt (1), generic (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** colab (2), jupyter (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -930,7 +931,7 @@ created: 2026-04-29
 
 ### 3. Python File Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Open Python file
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980)
@@ -955,6 +956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **File Paths:** demo_python_file.py (2)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** demo_python_file (2)
@@ -994,8 +996,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** demo_python_file (1), demo_python (1)
 > **File Paths:** demo_python_file.py (1)
 > **UI Navigation:** click on (1)
@@ -1033,14 +1035,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Basic Python Data Type
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Numeric data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980)
@@ -1105,7 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (2), type( (2), this, (1), type, (1)
+> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **Versions:** 5.0 (3), 5.60 (2)
 > **Analogies:** for example (2), such as (1)
 > **Code Identifiers:** sample_numeric (2)
@@ -1180,7 +1182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), next (1)
 > **CLI Commands:** python (4)
 > **Code Identifiers:** sample_string (2)
 > **Definitions:** is a  (2)
@@ -1237,15 +1239,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (2)
-> **Code Keywords:** let (1), case, (1), type, (1), continue (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Basic Python Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980)
@@ -1348,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case. (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (3), [[Programming]] (1)
 > **Code Identifiers:** sample_list_copy (4), sample_list (3), sample_list_numeric (2)
 > **CLI Commands:** python (3), make (2)
 > **Cross-References:** in the last (1)
@@ -1443,7 +1445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type. (2), this. (1), this, (1), function (1)
+> **Frameworks & Libraries:** data (7), strengths (1), feature (1)
 > **Code Identifiers:** sample_tuple_numeric (5), sample_tuple_string (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1523,7 +1525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), try. (1)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** sample_patient_set (2), sample_set (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1620,7 +1622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), type. (2), type, (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), [[Programming]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Code Identifiers:** sample_dictionary_antihypertensives (3), patient_info_dictionary (1)
 > **Env Vars:** acei (1)
@@ -1642,7 +1644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1661,14 +1663,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. Basic Operations in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Arithmetic operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980)
@@ -1821,7 +1822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), raise (2), this, (1)
+> **Frameworks & Libraries:** power (5), [[Python (Programming Language)|Python]] (3), data (2), [[Programming]] (1)
 > **Versions:** 4.5 (3), 3.124 (1), 5.4 (1), 591.6502400002 (1), 1.5 (1)
 > **CLI Commands:** python (3)
 > **Analogies:** imagine (1)
@@ -1888,7 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Versions:** 5.0 (2)
 > **Definitions:** is a  (1)
@@ -1933,7 +1934,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
 > **Versions:** 5.0 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1960,7 +1960,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1984,14 +1983,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 7. Python Functions and Statements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980)
@@ -2064,7 +2062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (5), return, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1), next (1), data (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), is called (1)
 > **Versions:** 1.1 (1)
@@ -2119,7 +2117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (3), elif (3), let (3), if, (2), class. (1)
+> **Frameworks & Libraries:** generic (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
 
@@ -2176,8 +2174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** double_number (6), string_value (2)
-> **Code Keywords:** let (3), continue (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), is called (1)
@@ -2208,7 +2206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2232,7 +2230,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2240,7 +2237,7 @@ created: 2026-04-29
 
 ### 8. Built-in Functions and Other Operations in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Length and count function
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980)
@@ -2285,7 +2282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), this, (1), class. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1), [[Microsoft Word|Word]] (1), [[Search]] (1)
 > **Code Identifiers:** names_of_ppi (2)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** python (1)
@@ -2320,7 +2317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1)
+> **Frameworks & Libraries:** strengths (2), data (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2388,7 +2385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), case. (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **Code Identifiers:** number_of_oscillations (1), even_number_of_oscillation (1), reverse_of_numbers_of_oscillation (1), even_numbers_of_oscillation (1), sum_of_even_numbers_of_oscillation (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -2432,7 +2429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), public (1)
+> **Frameworks & Libraries:** data (3), [[Public Health]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -2473,7 +2470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), this. (1)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** laboratory_apparatus (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2523,7 +2520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (3), imagine (1)
 > **Code Identifiers:** sample_statement (3)
 > **CLI Commands:** make (2)
@@ -2548,7 +2545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2)
+> **Frameworks & Libraries:** generic (1)
 > **Speakers:** - [instructor] (1)
 
 #### Map function
@@ -2580,7 +2577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), lambda (2)
+> **Frameworks & Libraries:** power (2), data (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2621,8 +2618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### String formatting
@@ -2656,8 +2653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2678,7 +2675,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** max_dosage_strength (1)
 > **Speakers:** - [instructor] (1)
@@ -2698,7 +2694,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Zip two lists
@@ -2720,7 +2715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2741,13 +2736,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 9. Code Documentation in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980)
@@ -2796,8 +2790,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** let (1), self (1)
 > **Code Identifiers:** total_quantity_dispensed (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -2892,7 +2886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (7), this, (1), for. (1), class. (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5)
 > **Env Vars:** csv (3)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -2949,7 +2943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), class. (1), this, (1)
+> **Frameworks & Libraries:** next (1), prompt (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2977,6 +2971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Search]] (1)
 > **CLI Commands:** python (7), find (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Speakers:** - [instructor] (1)
@@ -2984,7 +2979,7 @@ created: 2026-04-29
 
 ### 10. Libraries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Import statement and aliasing
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980)
@@ -3033,9 +3028,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (1)
 > **CLI Commands:** python (5)
 > **Code Identifiers:** sample_array (2), reshaped_array (2)
-> **Code Keywords:** let (1), function (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -3094,9 +3089,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (4), python (1), apt (1)
 > **Prerequisites:** install (5), you need to have (1)
-> **Code Keywords:** let (3), module (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3135,14 +3130,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (2), [[Storytelling]] (1), [[Statistics]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** static (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/next-steps?u=76281980)
@@ -3159,7 +3154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [wuraola] (1)
 

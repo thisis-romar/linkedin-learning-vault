@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/aws-command-line-interface-cli
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AWS%20for%20Developers-%20CLI%20Tips.md)
@@ -50,37 +50,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why use AWS CLI?
-  - What you should know
+  - [Why use AWS CLI?](#why-use-aws-cli)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to AWS CLI**](#1-introduction-to-aws-cli) (3 videos)
-  - Overview of AWS CLI and its benefits
-  - Installing and configuring AWS CLI
-  - Basic commands and syntax
+  - [Overview of AWS CLI and its benefits](#overview-of-aws-cli-and-its-benefits)
+  - [Installing and configuring AWS CLI](#installing-and-configuring-aws-cli)
+  - [Basic commands and syntax](#basic-commands-and-syntax)
 - [**2. Managing EC2 Instances with AWS CLI**](#2-managing-ec2-instances-with-aws-cli) (3 videos)
-  - Creating and launching EC2 instances
-  - Working with EC2 security groups and key pairs
-  - Managing EC2 instances with AWS CLI commands
+  - [Creating and launching EC2 instances](#creating-and-launching-ec2-instances)
+  - [Working with EC2 security groups and key pairs](#working-with-ec2-security-groups-and-key-pairs)
+  - [Managing EC2 instances with AWS CLI commands](#managing-ec2-instances-with-aws-cli-commands)
 - [**3. Working with S3 and AWS CLI**](#3-working-with-s3-and-aws-cli) (3 videos)
-  - Uploading, downloading, and managing files in S3 buckets
-  - Managing S3 bucket policies and permissions
-  - Using AWS CLI to automate S3 tasks and workflows
+  - [Uploading, downloading, and managing files in S3 buckets](#uploading-downloading-and-managing-files-in-s3-buckets)
+  - [Managing S3 bucket policies and permissions](#managing-s3-bucket-policies-and-permissions)
+  - [Using AWS CLI to automate S3 tasks and workflows](#using-aws-cli-to-automate-s3-tasks-and-workflows)
 - [**4. Managing Permissions with IAM and AWS CLI**](#4-managing-permissions-with-iam-and-aws-cli) (3 videos)
-  - Introduction to IAM users, groups, and policies
-  - Creating and managing IAM users and groups
-  - Using AWS CLI to manage IAM roles and policies
+  - [Introduction to IAM users, groups, and policies](#introduction-to-iam-users-groups-and-policies)
+  - [Creating and managing IAM users and groups](#creating-and-managing-iam-users-and-groups)
+  - [Using AWS CLI to manage IAM roles and policies](#using-aws-cli-to-manage-iam-roles-and-policies)
 - [**5. Managing Other AWS Services with AWS CLI**](#5-managing-other-aws-services-with-aws-cli) (3 videos)
-  - Managing RDS databases with AWS CLI
-  - Managing RDS Snapshots and monitoring with CloudWatch
-  - Working with CloudWatch using AWS CLI
+  - [Managing RDS databases with AWS CLI](#managing-rds-databases-with-aws-cli)
+  - [Managing RDS Snapshots and monitoring with CloudWatch](#managing-rds-snapshots-and-monitoring-with-cloudwatch)
+  - [Working with CloudWatch using AWS CLI](#working-with-cloudwatch-using-aws-cli)
 - [**6. Advanced AWS CLI Topics**](#6-advanced-aws-cli-topics) (2 videos)
-  - Integrating AWS CLI with AWS CloudTrail
-  - Troubleshooting AWS CLI issues
+  - [Integrating AWS CLI with AWS CloudTrail](#integrating-aws-cli-with-aws-cloudtrail)
+  - [Troubleshooting AWS CLI issues](#troubleshooting-aws-cli-issues)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use AWS CLI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980)
@@ -99,9 +99,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), [[Cloud Infrastructure]] (1), [[LinkedIn]] (1), [[CLI]] (1)
 > **Env Vars:** aws (4), cli (1)
 > **CLI Commands:** aws (4)
-> **Code Keywords:** interface (1), let (1)
 > **Tools:** command line (1), terminal (1)
 > **Speakers:** - using (1)
 
@@ -128,16 +128,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), cloud (2), [[Virtualization]] (1), [[Scalability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** aws (3), ec2 (1), iam (1), rds (1)
 > **CLI Commands:** aws (3), make (1)
-> **Code Keywords:** interface (1), let (1), finally, (1)
 > **Tools:** command line (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to AWS CLI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AWS CLI and its benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980)
@@ -198,9 +198,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (22), [[CLI]] (14), management (4), [[Automation]] (3), [[Scripting]] (3)
 > **Env Vars:** aws (22), cli (14)
 > **CLI Commands:** aws (22)
-> **Code Keywords:** interface (4), let (2), finally, (1)
 > **Tools:** command line (4), terminal (1)
 > **Definitions:** known as (1), is a  (1)
 > **Code Identifiers:** macos (1)
@@ -362,10 +362,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (31), [[CLI]] (14), [[Python (Programming Language)|Python]] (5), next (4), management (3)
 > **Env Vars:** aws (27), cli (12), iam (3), csv (1), gui (1)
 > **CLI Commands:** aws (31), python (5), find (2), python3 (1), make (1)
 > **Tools:** command line (8), terminal (4)
-> **Code Keywords:** let (6), interface (3), function (1), default, (1)
 > **UI Navigation:** click on (10), go to (1)
 > **Prerequisites:** install (3), configure (2), you'll need (1), set up (1)
 > **Versions:** python 3 (3), version 3 (1), version 2 (1), 13.7 (1)
@@ -492,9 +492,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (22), [[CLI]] (16), next (3), [[Amazon EC2|Ec2]] (2), hit (2)
 > **Env Vars:** aws (17), cli (16), ec2 (2), iam (2), json (1)
 > **CLI Commands:** aws (22), ls (4), make (1)
-> **Code Keywords:** let (9), finally, (1), default. (1), case, (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
 > **Analogies:** for example (2), such as (1), for instance (1)
 > **Tools:** terminal (2)
@@ -504,7 +504,7 @@ created: 2026-04-29
 
 ### 2. Managing EC2 Instances with AWS CLI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and launching EC2 instances
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980)
@@ -561,9 +561,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Amazon EC2|Ec2]] (7), [[CLI]] (5), [[Security]] (4), [[Linux]] (3)
 > **Env Vars:** ami (10), aws (7), ec2 (7), cli (5)
 > **CLI Commands:** aws (7), find (2)
-> **Code Keywords:** let (5), public (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** known as (2)
 > **Analogies:** such as (2)
@@ -753,8 +753,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (35), [[Amazon EC2|Ec2]] (21), aws (15), [[CLI]] (8), hit (6)
 > **Env Vars:** ec2 (21), aws (15), cli (8), ssh (5), cidr (5)
-> **Code Keywords:** let (17), private (4), public (2), interface (1), case, (1)
 > **CLI Commands:** aws (15), ssh (5), make (1)
 > **Tools:** terminal (4), command line (1)
 > **Best Practices:** remember to (2), good practice (1)
@@ -849,9 +849,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (16), [[Amazon EC2|Ec2]] (15), [[CLI]] (8), hit (3), [[JSON]] (3)
 > **Env Vars:** aws (10), ec2 (9), cli (8), json (3)
 > **CLI Commands:** aws (16)
-> **Code Keywords:** let (6), this, (1)
 > **Tools:** terminal (4)
 > **Code Identifiers:** instanceid (1)
 > **Definitions:** is a  (1)
@@ -861,7 +861,7 @@ created: 2026-04-29
 
 ### 3. Working with S3 and AWS CLI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Uploading, downloading, and managing files in S3 buckets
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980)
@@ -990,10 +990,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (17), [[CLI]] (9), hit (3), management (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (17), cp (6), ls (3), make (2), mv (1)
 > **Env Vars:** aws (10), cli (8), txt (1)
 > **File Paths:** hello.txt (9)
-> **Code Keywords:** let (8), interface (1)
 > **Tools:** terminal (3), command line (1), aws console (1)
 > **Definitions:** known as (2), is a  (1), stands for (1)
 > **UI Navigation:** go to (2)
@@ -1170,9 +1170,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (18), [[JSON]] (10), hit (7), [[CLI]] (6), api (3)
 > **Env Vars:** aws (13), json (10), https (7), cli (6), acl (4)
 > **CLI Commands:** aws (18), find (3), make (1), cat (1)
-> **Code Keywords:** let (12), interface (1)
 > **UI Navigation:** click on (5), go to (1), scroll down (1)
 > **Tools:** terminal (3), command line (1)
 > **Cross-References:** go back to (1)
@@ -1263,9 +1263,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (17), [[CLI]] (12), [[Automation]] (5), hit (1), [[Scripting]] (1)
 > **Env Vars:** aws (11), cli (9), txt (1)
 > **CLI Commands:** aws (17), ls (1)
-> **Code Keywords:** let (7), interface (2), case, (1)
 > **Definitions:** is a  (3), is called (1)
 > **Tools:** command line (2), terminal (1)
 > **File Paths:** sync.txt (1)
@@ -1275,7 +1275,7 @@ created: 2026-04-29
 
 ### 4. Managing Permissions with IAM and AWS CLI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to IAM users, groups, and policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/introduction-to-iam-users-groups-and-policies?u=76281980)
@@ -1314,9 +1314,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), management (2), [[CLI]] (2), [[Security]] (1)
 > **Env Vars:** iam (11), aws (5), cli (2)
 > **CLI Commands:** aws (5)
-> **Code Keywords:** let (3), interface (1)
 > **Tools:** command line (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1416,9 +1416,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (17), [[CLI]] (8), hit (3), [[Automation]] (1), management (1)
 > **Env Vars:** iam (16), aws (11), cli (8)
 > **CLI Commands:** aws (17)
-> **Code Keywords:** let (7), case, (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
@@ -1558,9 +1558,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (19), [[CLI]] (7), hit (6), [[JSON]] (5), [[GitHub]] (1)
 > **Env Vars:** iam (15), aws (11), cli (5), arn (2), json (1)
 > **CLI Commands:** aws (19), ls (1), find (1)
-> **Code Keywords:** let (10)
 > **Tools:** terminal (3), github (1)
 > **File Paths:** assume-role-policy.json (2), s3-access-policy.json (1)
 > **Best Practices:** remember to (2)
@@ -1570,7 +1570,7 @@ created: 2026-04-29
 
 ### 5. Managing Other AWS Services with AWS CLI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing RDS databases with AWS CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980)
@@ -1769,9 +1769,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (23), aws (22), [[CLI]] (7), management (5), [[Databases]] (4)
 > **Env Vars:** rds (24), aws (17), cli (7), rdss (1)
 > **CLI Commands:** aws (22), find (3), mysql (1), make (1)
-> **Code Keywords:** let (6), case, (3), class. (3), class, (3), interface (1)
 > **Tools:** terminal (5), github (2), command line (1)
 > **UI Navigation:** select the (2), click on (2), navigate to (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -1935,9 +1935,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (22), [[Statistics]] (9), [[Databases]] (7), [[CLI]] (7), database (6)
 > **Env Vars:** rds (23), aws (20), cli (7), cpu (6), arn (4)
 > **CLI Commands:** aws (22), find (1), make (1)
-> **Code Keywords:** let (7), case, (3), interface (1)
 > **Tools:** terminal (5), command line (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Definitions:** is a  (1)
@@ -2019,9 +2019,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (21), [[CLI]] (7), [[Amazon EC2|Ec2]] (5), [[Statistics]] (4), data (3)
 > **Env Vars:** aws (19), cli (7), ec2 (5), cpu (4), rds (2)
 > **CLI Commands:** aws (21), make (1)
-> **Code Keywords:** let (3), interface (1)
 > **Tools:** terminal (2), command line (1), github (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), just like (1)
@@ -2031,7 +2031,7 @@ created: 2026-04-29
 
 ### 6. Advanced AWS CLI Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating AWS CLI with AWS CloudTrail
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980)
@@ -2142,9 +2142,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (32), [[CLI]] (10), api (5), hit (3), [[Security]] (2)
 > **Env Vars:** aws (31), cli (10), api (5)
 > **CLI Commands:** aws (32), find (1)
-> **Code Keywords:** let (5)
 > **Tools:** terminal (3), github (2)
 > **Prerequisites:** set up (3)
 > **Exercise Files:** github repo (2)
@@ -2334,9 +2334,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (22), [[CLI]] (9), [[Amazon EC2|Ec2]] (3), database (3), [[Linux]] (1)
 > **Env Vars:** aws (21), cli (9), rds (5), ec2 (3), aws3 (1)
 > **CLI Commands:** aws (22), make (6), cat (1), chmod (1), ls (1)
-> **Code Keywords:** let (15), delete (12), case, (2), this. (1)
 > **UI Navigation:** click on (5), scroll down (1), dropdown (1), go to (1)
 > **Prerequisites:** configure (3)
 > **Tools:** terminal (1), github (1)
@@ -2346,7 +2346,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980)
@@ -2399,10 +2399,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (22), [[CLI]] (6), cloud (6), next (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2)
 > **Env Vars:** aws (22), cli (6)
 > **CLI Commands:** aws (22)
 > **Definitions:** is a  (2), is an  (2)
-> **Code Keywords:** interface (1), finally, (1)
 > **Tools:** command line (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - congratulations (1)

@@ -36,7 +36,7 @@ tags:
   - skill/wordpress
   - skill/back-end-web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress%20Essential%20Training.md)
@@ -55,53 +55,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting started with WordPress
+  - [Getting started with WordPress](#getting-started-with-wordpress)
 - [**1. What Is WordPress?**](#1-what-is-wordpress) (4 videos)
-  - The open-source philosophy
-  - What's new in 6.6?
-  - The difference between .com and .org
-  - Navigating this course
+  - [The open-source philosophy](#the-open-source-philosophy)
+  - [What's new in 6.6?](#whats-new-in-66)
+  - [The difference between .com and .org](#the-difference-between-com-and-org)
+  - [Navigating this course](#navigating-this-course)
 - [**2. Setting Up WordPress**](#2-setting-up-wordpress) (5 videos)
-  - Choosing hosting and a domain
-  - Launching a WordPress site
-  - Creating user accounts and logging in
-  - Navigating the dashboard
-  - Preparing your WordPress environment
+  - [Choosing hosting and a domain](#choosing-hosting-and-a-domain)
+  - [Launching a WordPress site](#launching-a-wordpress-site)
+  - [Creating user accounts and logging in](#creating-user-accounts-and-logging-in)
+  - [Navigating the dashboard](#navigating-the-dashboard)
+  - [Preparing your WordPress environment](#preparing-your-wordpress-environment)
 - [**3. WordPress Security**](#3-wordpress-security) (3 videos)
-  - How secure is WordPress?
-  - Using plugins for extra security
-  - Using code for extra security
+  - [How secure is WordPress?](#how-secure-is-wordpress)
+  - [Using plugins for extra security](#using-plugins-for-extra-security)
+  - [Using code for extra security](#using-code-for-extra-security)
 - [**4. Pages**](#4-pages) (3 videos)
-  - Creating a new page
-  - Designing and customizing a page
-  - Managing pages
+  - [Creating a new page](#creating-a-new-page)
+  - [Designing and customizing a page](#designing-and-customizing-a-page)
+  - [Managing pages](#managing-pages)
 - [**5. Posts**](#5-posts) (4 videos)
-  - Creating posts
-  - Designing and customizing a post
-  - Managing posts
-  - Using categories and tags
+  - [Creating posts](#creating-posts)
+  - [Designing and customizing a post](#designing-and-customizing-a-post)
+  - [Managing posts](#managing-posts)
+  - [Using categories and tags](#using-categories-and-tags)
 - [**6. Plugins and Themes**](#6-plugins-and-themes) (3 videos)
-  - Finding and installing plugins
-  - Finding and installing themes
-  - Customizing themes
+  - [Finding and installing plugins](#finding-and-installing-plugins)
+  - [Finding and installing themes](#finding-and-installing-themes)
+  - [Customizing themes](#customizing-themes)
 - [**7. Design Customization**](#7-design-customization) (3 videos)
-  - Creating a menu
-  - Creating a footer
-  - More block editor features
+  - [Creating a menu](#creating-a-menu)
+  - [Creating a footer](#creating-a-footer)
+  - [More block editor features](#more-block-editor-features)
 - [**8. Media Library**](#8-media-library) (2 videos)
-  - Adding new media files
-  - Managing media files
+  - [Adding new media files](#adding-new-media-files)
+  - [Managing media files](#managing-media-files)
 - [**9. WordPress Maintenance**](#9-wordpress-maintenance) (4 videos)
-  - Updating WordPress, plugins, and themes
-  - Site health and troubleshooting
-  - Security maintenance
-  - Performance maintenance
+  - [Updating WordPress, plugins, and themes](#updating-wordpress-plugins-and-themes)
+  - [Site health and troubleshooting](#site-health-and-troubleshooting)
+  - [Security maintenance](#security-maintenance)
+  - [Performance maintenance](#performance-maintenance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue the WordPress journey
+  - [Continue the WordPress journey](#continue-the-wordpress-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/getting-started-with-wordpress?u=76281980)
@@ -128,13 +128,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[WordPress]] (9), web (1)
 > **Speakers:** - my (1)
 
 
 ### 1. What Is WordPress?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The open-source philosophy
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980)
@@ -205,6 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (22), [[Content Management]] (3), open-source (2), [[Content Management Systems (CMS)|Content management systems]] (1), seo (1)
 > **CLI Commands:** make (3)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Env Vars:** seo (1)
@@ -212,7 +213,6 @@ created: 2026-04-29
 > **Cross-References:** in the next (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** means that (1)
-> **Analogies:** just like (1)
 
 #### What's new in 6.6?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/what-s-new-in-6-4-and-6-5?u=76281980)
@@ -265,8 +265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), feature (2), [[Security]] (1), cms (1), teams (1)
 > **Versions:** 6.6 (4), 5.9 (1), version 6 (1)
-> **Code Keywords:** interface (1), new. (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Env Vars:** cms (1)
 > **Exercise Files:** template (1)
@@ -320,6 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (21), [[Security]] (1), business (1), [[E-Commerce]] (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (8), [wordpress.org](https://wordpress.org) (6)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
@@ -359,15 +360,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Security]] (2), business (1), career (1), [[Content Management Systems (CMS)|Content management systems]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Setting Up WordPress
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing hosting and a domain
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980)
@@ -462,10 +463,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (12), [[HTML]] (1), css (1), [[PHP]] (1), [[JavaScript]] (1)
 > **Env Vars:** url (2), html (1), css (1), php (1)
 > **CLI Commands:** find (3), php (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (2), [wordpress.com](https://wordpress.com) (1), [thisgreatwebsite.com](https://thisgreatwebsite.com) (1)
-> **Code Keywords:** public (1), for. (1)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
@@ -542,10 +543,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (9), business (1), [[E-Commerce]] (1), [[WooCommerce]] (1), [[Databases]] (1)
 > **Prerequisites:** install (3), you'll need (1), set up (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), super (1), this, (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1), [wordpress.com](https://wordpress.com) (1), [allienimmons.com](https://allienimmons.com) (1)
 > **Env Vars:** url (2)
 > **Definitions:** is a  (2)
@@ -632,9 +633,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), next (1)
 > **Analogies:** picture (3), for example (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (1)
 > **UI Navigation:** go to (1)
@@ -744,7 +745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), delete (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Search]] (1), seo (1), [[Security]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (2), toggle (2)
 > **Warnings:** keep in mind (2), be aware (1)
@@ -866,9 +867,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[WordPress]] (5), web (2), [[Search]] (2), [[Google]] (2)
 > **Env Vars:** ssl (8), url (2), https (1), http (1)
 > **CLI Commands:** make (6), find (2)
-> **Code Keywords:** let (2), delete (2), private (1), else, (1), static (1)
 > **UI Navigation:** go to (5)
 > **Prerequisites:** install (4)
 > **Definitions:** stands for (1), is called (1)
@@ -878,7 +879,7 @@ created: 2026-04-29
 
 ### 3. WordPress Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How secure is WordPress?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980)
@@ -931,6 +932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Security]] (5), next (2), traffic (1), [[SQL]] (1)
 > **Env Vars:** sql (1), ssl (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1000,8 +1002,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[WordPress]] (2), next (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (1), finally, (1), default, (1), public (1)
 > **Warnings:** keep in mind (3)
 > **Env Vars:** url (2)
 > **Cross-References:** in the next (1)
@@ -1067,8 +1069,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Security]] (5), [[PHP]] (3), database (2), next (2)
 > **CLI Commands:** php (3), make (2)
-> **Code Keywords:** let (2), require (1)
 > **Env Vars:** php (3)
 > **Prerequisites:** you'll need (2)
 > **Exercise Files:** exercise file (1)
@@ -1078,7 +1080,7 @@ created: 2026-04-29
 
 ### 4. Pages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a new page
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-new-page?u=76281980)
@@ -1185,8 +1187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[WordPress]] (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), new. (1), this. (1), private (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Env Vars:** url (1), live (1)
@@ -1369,10 +1371,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), web (3), seo (3), [[Search]] (2), next (2)
 > **CLI Commands:** make (10), find (4)
 > **UI Navigation:** select the (2), open the (1), toggle (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** let (1), else. (1), continue (1)
 > **Env Vars:** seo (3)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (1)
@@ -1443,8 +1445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** delete (2), case. (1), protected (1), private (1)
 > **UI Navigation:** go to (1), select the (1), dropdown (1)
 > **Cross-References:** in the last (1), as you saw (1)
 > **Env Vars:** url (1)
@@ -1454,7 +1456,7 @@ created: 2026-04-29
 
 ### 5. Posts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating posts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980)
@@ -1543,7 +1545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1), private (1), protected (1), match, (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), next (2), seo (1), [[Metadata]] (1)
 > **UI Navigation:** go to (3)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** make (2)
@@ -1651,8 +1653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Search]] (1), [[Google]] (1), [[Microsoft Word|Word]] (1), seo (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), finally, (1), this. (1)
 > **UI Navigation:** drag and drop (1), go to (1), select the (1)
 > **Best Practices:** make sure to (1), don't forget (1)
 > **Env Vars:** seo (1)
@@ -1723,8 +1725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), next (1)
 > **CLI Commands:** make (5), find (3)
-> **Code Keywords:** delete (2), protected (1), private (1), for, (1), default, (1)
 > **UI Navigation:** select the (1), dropdown (1), go to (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** means that (1)
@@ -1774,16 +1776,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Metadata]] (2)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** go to (2), in the sidebar (1), toggle (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Plugins and Themes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding and installing plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980)
@@ -1882,9 +1884,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Search]] (2), [[E-Commerce]] (1), [[Forms]] (1), [[Google]] (1)
 > **Prerequisites:** install (7)
 > **CLI Commands:** find (5)
-> **Code Keywords:** from, (1), delete (1), case, (1), switch (1)
 > **Exercise Files:** zip file (2), download the (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (1), think of it like (1)
@@ -1976,9 +1978,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Content Management]] (1), [[Search]] (1), feature (1), [[WooCommerce]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (3), drag and drop (1)
-> **Code Keywords:** from, (1), let (1), delete (1)
 > **Warnings:** keep in mind (1), be careful (1)
 > **Prerequisites:** install (2)
 > **Cross-References:** as we saw (1)
@@ -2030,9 +2032,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), next (1), css (1)
 > **CLI Commands:** find (4), make (2)
 > **Warnings:** keep in mind (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** css (1)
 > **UI Navigation:** toggle (1)
 > **Analogies:** for example (1)
@@ -2042,7 +2044,7 @@ created: 2026-04-29
 
 ### 7. Design Customization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?u=76281980)
@@ -2189,10 +2191,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Search]] (2), hit (1), next (1)
 > **CLI Commands:** make (5), find (4)
 > **UI Navigation:** go to (3), drag and drop (1), toggle (1), dropdown (1)
 > **Cross-References:** go back to (2)
-> **Code Keywords:** delete (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -2273,7 +2275,6 @@ created: 2026-04-29
 >
 > **UI Navigation:** go to (2), dropdown (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** case, (1), match. (1), this, (1)
 > **Best Practices:** don't forget (2)
 > **Cross-References:** we talked about (1)
 > **Analogies:** similar to (1)
@@ -2371,17 +2372,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (1), feature (1), next (1)
 > **CLI Commands:** find (6), make (4)
 > **UI Navigation:** select the (1), toggle (1)
 > **Definitions:** is a  (1), is called (1)
-> **Code Keywords:** new, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Media Library
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding new media files
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980)
@@ -2432,6 +2433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), next (1), [[Metadata]] (1)
 > **UI Navigation:** go to (1), drag and drop (1), select the (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
@@ -2542,8 +2544,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), [[WordPress]] (2), seo (2), data (2), [[Metadata]] (1)
 > **CLI Commands:** make (7), find (2)
-> **Code Keywords:** delete (3), this, (1), this. (1), type. (1), finally, (1)
 > **Env Vars:** seo (2), url (1), svg (1)
 > **UI Navigation:** dropdown (1)
 > **Best Practices:** good practice (1)
@@ -2554,7 +2556,7 @@ created: 2026-04-29
 
 ### 9. WordPress Maintenance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Updating WordPress, plugins, and themes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980)
@@ -2655,8 +2657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (20), teams (1), [[Fetch]] (1), [[Security]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (4), case, (1)
 > **Versions:** 5.6 (1), 5.7 (1), 5.9 (1), 6.0 (1)
 > **UI Navigation:** in the menu (1), go to (1), select the (1)
 > **Prerequisites:** you'll need (2), install (1)
@@ -2727,9 +2729,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (8), [[WordPress]] (2), database (2), [[Security]] (1), [[PHP]] (1)
 > **CLI Commands:** find (6), make (3), php (1)
 > **UI Navigation:** toggle (2), go to (1)
-> **Code Keywords:** new, (1), let (1)
 > **Env Vars:** php (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -2787,8 +2789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[WordPress]] (2), traffic (2), data (1), database (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** delete (1), this, (1), finally, (1)
 > **Cross-References:** we discussed (1), we talked about (1), previous chapter (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2856,8 +2858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[Forms]] (3), [[WordPress]] (2), [[User Experience (UX)|User experience]] (1), [[Search]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this. (2), finally, (1)
 > **Env Vars:** url (1), seo (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **URLs:** [pingdom.com](https://pingdom.com) (1)
@@ -2868,7 +2870,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue the WordPress journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/continue-the-wordpress-journey?u=76281980)
@@ -2887,6 +2889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), career (1), next (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)

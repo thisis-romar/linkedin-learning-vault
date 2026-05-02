@@ -31,7 +31,7 @@ tags:
   - skill/cloud-security
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Cloud%20Computing.md)
@@ -50,45 +50,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Get prepped for ethical hacking cloud computing certification
-  - What you should know
+  - [Get prepped for ethical hacking cloud computing certification](#get-prepped-for-ethical-hacking-cloud-computing-certification)
+  - [What you should know](#what-you-should-know)
 - [**1. Cloud Overview**](#1-cloud-overview) (4 videos)
-  - Cloud computing characteristics and security
-  - Cloud deployment and service models
-  - Cloud services and the hacking process
-  - Common cloud computing threats
+  - [Cloud computing characteristics and security](#cloud-computing-characteristics-and-security)
+  - [Cloud deployment and service models](#cloud-deployment-and-service-models)
+  - [Cloud services and the hacking process](#cloud-services-and-the-hacking-process)
+  - [Common cloud computing threats](#common-cloud-computing-threats)
 - [**2. Cloud Identity Management**](#2-cloud-identity-management) (5 videos)
-  - Cloud identity management
-  - Create cloud users and groups
-  - Enable MFA for cloud users
-  - Azure resource permissions
-  - AWS resource permissions
+  - [Cloud identity management](#cloud-identity-management)
+  - [Create cloud users and groups](#create-cloud-users-and-groups)
+  - [Enable MFA for cloud users](#enable-mfa-for-cloud-users)
+  - [Azure resource permissions](#azure-resource-permissions)
+  - [AWS resource permissions](#aws-resource-permissions)
 - [**3. Cloud High Availability**](#3-cloud-high-availability) (8 videos)
-  - Cloud service high availability
-  - Cloud security recommendation tools
-  - Deploying cloud firewall solutions
-  - Cloud data residency
-  - Cloud storage replication
-  - Cloud virtual machine replication
-  - Configure cloud load balancing
-  - Application containers and clusters
+  - [Cloud service high availability](#cloud-service-high-availability)
+  - [Cloud security recommendation tools](#cloud-security-recommendation-tools)
+  - [Deploying cloud firewall solutions](#deploying-cloud-firewall-solutions)
+  - [Cloud data residency](#cloud-data-residency)
+  - [Cloud storage replication](#cloud-storage-replication)
+  - [Cloud virtual machine replication](#cloud-virtual-machine-replication)
+  - [Configure cloud load balancing](#configure-cloud-load-balancing)
+  - [Application containers and clusters](#application-containers-and-clusters)
 - [**4. Hardening the Cloud**](#4-hardening-the-cloud) (10 videos)
-  - Cloud auditing
-  - Enable cloud alert notification
-  - Encryption and the cloud
-  - Force HTTPS for cloud-hosted web applications
-  - Deploying a cloud jump box
-  - Cloud artificial intelligence and machine learning
-  - Cloud DDoS protection
-  - Pen testing and the cloud
-  - Cloud hacking tools
-  - Cloud security best practices
+  - [Cloud auditing](#cloud-auditing)
+  - [Enable cloud alert notification](#enable-cloud-alert-notification)
+  - [Encryption and the cloud](#encryption-and-the-cloud)
+  - [Force HTTPS for cloud-hosted web applications](#force-https-for-cloud-hosted-web-applications)
+  - [Deploying a cloud jump box](#deploying-a-cloud-jump-box)
+  - [Cloud artificial intelligence and machine learning](#cloud-artificial-intelligence-and-machine-learning)
+  - [Cloud DDoS protection](#cloud-ddos-protection)
+  - [Pen testing and the cloud](#pen-testing-and-the-cloud)
+  - [Cloud hacking tools](#cloud-hacking-tools)
+  - [Cloud security best practices](#cloud-security-best-practices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get prepped for ethical hacking cloud computing certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980)
@@ -117,6 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), data (1), [[Programming]] (1), [[Network Administration]] (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [dan] (1)
 
@@ -155,6 +156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Windows]] (3), [[Security]] (2), [[Virtual Machines]] (2), [[Linux]] (2)
 > **Env Vars:** gui (1), rdp (1), ssh (1), aws (1)
 > **CLI Commands:** ssh (1), aws (1)
 > **Tools:** command line (2)
@@ -164,7 +166,7 @@ created: 2026-04-29
 
 ### 1. Cloud Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud computing characteristics and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980)
@@ -255,7 +257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), self (2), private (2), finally, (1), let (1)
+> **Frameworks & Libraries:** cloud (31), [[Virtual Machines]] (8), [[Security]] (7), [[Hardware]] (3), data (3)
 > **Env Vars:** nist (2), ram (1), cpu (1), gui (1), api (1)
 > **Definitions:** means that (2), stands for (1), is a  (1)
 > **Analogies:** such as (2), for example (2)
@@ -377,7 +379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (5), let (2), this. (1)
+> **Frameworks & Libraries:** cloud (43), data (5), [[Security]] (4), [[Microsoft Azure]] (2), next (2)
 > **Definitions:** stands for (1), means that (1), refers to (1), is a  (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Cross-References:** we discussed (2)
@@ -464,10 +466,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), [[Security]] (4), [[Ethical Hacking]] (4), next (3), dns (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** make (2)
 > **Env Vars:** dns (1), vpn (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
@@ -606,7 +608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (5), let (2), lambda (2), from. (1)
+> **Frameworks & Libraries:** cloud (24), [[Security]] (6), traffic (4), aws (4), data (3)
 > **Env Vars:** aws (4), cdn (3), ssh (1), sms (1), dns (1)
 > **Analogies:** such as (5), for example (1), imagine (1)
 > **CLI Commands:** aws (4), ssh (1), find (1)
@@ -618,7 +620,7 @@ created: 2026-04-29
 
 ### 2. Cloud Identity Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud identity management
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980)
@@ -757,10 +759,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (33), [[Security]] (8), management (5), aws (5), [[Microsoft Azure]] (5)
 > **Env Vars:** aws (5), iam (3), mfa (3), vpn (1), rbac (1)
 > **Analogies:** such as (4), for example (3), similar to (2), imagine (1)
 > **CLI Commands:** aws (5), az (1), make (1)
-> **Code Keywords:** let (1), continue (1), require (1), case, (1), this, (1)
 > **Definitions:** is a  (2), is an  (1), means that (1), is called (1)
 > **Tools:** command line (2), powershell (2)
 > **Warnings:** be aware (1)
@@ -899,8 +901,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (9), cloud (6), aws (5), [[Security]] (4), next (4)
 > **Env Vars:** aws (5), iam (5), mfa (3), gui (1), usb (1)
-> **Code Keywords:** let (6), from. (1), case, (1), continue (1)
 > **Definitions:** is a  (4), is an  (2), stands for (1), refers to (1), means that (1)
 > **CLI Commands:** aws (5), make (2)
 > **UI Navigation:** click on (1), scroll down (1), select the (1), go to (1)
@@ -991,8 +993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (7), [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Azure ad]] (2), next (2), [[Security]] (1)
 > **Env Vars:** mfa (7)
-> **Code Keywords:** this, (2), let (1)
 > **UI Navigation:** click on (2), open the (1)
 > **Tools:** azure portal (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -1129,8 +1131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), [[Virtual Machines]] (7), management (4), [[Microsoft Azure]] (3), [[Microsoft Azure|Azure]] (3)
 > **UI Navigation:** click on (5), scroll up (1), select the (1)
-> **Code Keywords:** let (5), case, (1)
 > **Env Vars:** iam (4), rg1 (1), rbac (1)
 > **Analogies:** for example (2), for instance (2), such as (2)
 > **Definitions:** stands for (1), is an  (1), is a  (1)
@@ -1256,9 +1258,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), aws (6), [[Virtual Machines]] (4), [[Amazon EC2|Ec2]] (3), management (2)
 > **Env Vars:** aws (6), iam (6), ec2 (3), json (1)
 > **CLI Commands:** aws (6), make (1), find (1)
-> **Code Keywords:** let (3), case, (1), for. (1), this. (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** for example (2)
@@ -1268,7 +1270,7 @@ created: 2026-04-29
 
 ### 3. Cloud High Availability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud service high availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980)
@@ -1351,9 +1353,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), data (8), next (4), business (3), [[Security]] (3)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** rpo (2), aes (1), rto (1), dns (1)
-> **Code Keywords:** finally, (2), public (1), let (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1447,9 +1449,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), cloud (5), next (4), [[Microsoft Azure|Azure]] (3), [[Virtual Machines]] (2)
 > **UI Navigation:** click on (4), scroll down (3)
 > **Env Vars:** pci (2), dss (2), iso (1)
-> **Code Keywords:** default. (1), let (1), case, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1560,8 +1562,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), cloud (7), [[Security]] (7), [[Amazon Web Services (AWS)|Amazon web services]] (2), management (2)
 > **Env Vars:** acl (5), vpc1 (4), vpc (3), rdp (3), nacl (2)
-> **Code Keywords:** let (4), private (1), from, (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** aws (1)
@@ -1618,9 +1620,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), cloud (11), [[Security]] (5), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Databases]] (1)
 > **Env Vars:** pci (6), dss (6), gdpr (3), aws (1)
 > **Analogies:** such as (4), for example (1), picture (1)
-> **Code Keywords:** private (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Warnings:** keep in mind (1), watch out (1)
 > **CLI Commands:** aws (1)
@@ -1680,8 +1682,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), cloud (4), [[Microsoft Azure|Azure]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1)
 > **Tools:** azure portal (1)
 > **Definitions:** is a  (1)
@@ -1735,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), protected (1)
+> **Frameworks & Libraries:** cloud (2), [[Virtual Machines]] (1), [[Microsoft Azure]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** scroll down (1), dropdown (1), click on (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1914,8 +1916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), application (4), [[Virtual Machines]] (3), dns (3), [[Security]] (2)
 > **Env Vars:** tcp (4), dns (3), ec2 (2), vpc1 (2), url (1)
-> **Code Keywords:** let (6), function (2), this. (1), lambda (1), public (1)
 > **CLI Commands:** make (5)
 > **Ports:** port 80 (3), port 443 (1)
 > **UI Navigation:** scroll down (2), click on (1), go to (1)
@@ -2074,8 +2076,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (15), [[Security]] (9), [[Kubernetes]] (5), management (4), cloud (3)
 > **CLI Commands:** docker (10), make (7), find (1)
-> **Code Keywords:** let (5), this. (3), require (1)
 > **Env Vars:** ccat (2), etcd (2), pki (2), http (1), api (1)
 > **Definitions:** is a  (6)
 > **Analogies:** imagine (1), for example (1), such as (1)
@@ -2086,7 +2088,7 @@ created: 2026-04-29
 
 ### 4. Hardening the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980)
@@ -2115,8 +2117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Virtual Machines]] (3), [[Analytics]] (2), data (2), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
-> **Code Keywords:** let (1)
 > **Tools:** azure portal (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2250,7 +2252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Virtual Machines]] (3), [[Search]] (2), cloud (2), web (2)
 > **Env Vars:** cpu (4), sms (3)
 > **UI Navigation:** click on (3), select the (1), dropdown (1)
 > **Analogies:** for example (1), for instance (1)
@@ -2340,8 +2342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), cloud (2), [[Microsoft Azure]] (2), [[Search]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** kv17234 (3), kv1 (1), rsa (1)
-> **Code Keywords:** let (1), this. (1), for, (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Tools:** azure portal (1)
@@ -2488,8 +2490,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), web application (7), [[Microsoft Azure]] (6), dns (6), [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** https (8), dns (6), cname (6), ssl (3), pki (2)
-> **Code Keywords:** let (5), public (4), self (3), private (1), this. (1)
 > **UI Navigation:** click on (4), go to (4), scroll down (2)
 > **URLs:** [lachanceit3.com](https://lachanceit3.com) (7), [azurewebsites.net](https://azurewebsites.net) (1)
 > **CLI Commands:** make (5)
@@ -2600,7 +2602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), private (6), let (3), case, (2), for, (1)
+> **Frameworks & Libraries:** cloud (9), [[Virtual Machines]] (5), [[Microsoft Azure|Azure]] (2), [[Windows]] (2), next (2)
 > **Env Vars:** rdp (3), rg1 (1), vcpu (1), ram (1)
 > **UI Navigation:** click on (3), go to (3)
 > **Versions:** 10.0.0 (3), 3.5 (1)
@@ -2658,8 +2660,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (8), [[Security]] (4), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1), self (1), public (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** iot (1)
 > **Definitions:** means that (1)
@@ -2719,9 +2721,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Microsoft Azure|Azure]] (3), traffic (2), web application (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2868,7 +2870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (18), private (11), this, (1), this. (1), from, (1)
+> **Frameworks & Libraries:** cloud (11), [[Kali Linux]] (7), [[Microsoft Azure|Azure]] (5), [[Security]] (4), [[Microsoft]] (3)
 > **CLI Commands:** ssh (5), make (3)
 > **Env Vars:** ssh (5), vpn (2), gui (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -3000,11 +3002,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (14), [[Security]] (11), aws (10), traffic (9), data (6)
 > **Env Vars:** aws (10), url (6), tcp (2), http (2), ec2 (2)
 > **CLI Commands:** aws (10), make (2)
 > **Analogies:** for example (4), such as (4)
 > **Definitions:** is a  (4), is an  (2)
-> **Code Keywords:** let (3), case, (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3179,8 +3181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (29), [[Security]] (11), data (6), application (5), [[Microsoft Azure]] (4)
 > **Env Vars:** casb (4), owasp (3), cdn (2), gdpr (1), pci (1)
-> **Code Keywords:** public (3), private (3), let (2), interface (2), require (1)
 > **CLI Commands:** make (10), aws (1)
 > **Analogies:** such as (5), imagine (1), for example (1)
 > **Definitions:** is a  (2), in other words (1), means that (1)
@@ -3191,7 +3193,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/next-steps?u=76281980)
@@ -3218,8 +3220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[Security]] (4), next (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [daniel] (1)

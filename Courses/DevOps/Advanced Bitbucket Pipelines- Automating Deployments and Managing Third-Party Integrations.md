@@ -30,7 +30,7 @@ tags:
   - skill/bitbucket
   - skill/continuous-integration-and-continuous-delivery-ci-cd
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Advanced%20Bitbucket%20Pipelines-%20Automating%20Deployments%20and%20Managing%20Third-Party%20Integrations.md)
@@ -49,40 +49,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Optimize your CI/CD: Advanced techniques with Bitbucket Pipelines
-  - Bitbucket Pipelines review
+  - [Optimize your CI/CD: Advanced techniques with Bitbucket Pipelines](#optimize-your-cicd-advanced-techniques-with-bitbucket-pipelines)
+  - [Bitbucket Pipelines review](#bitbucket-pipelines-review)
 - [**1. Pipeline Optimizations**](#1-pipeline-optimizations) (6 videos)
-  - Optimizing pipeline performance and reducing build times
-  - Configure maximum runtime
-  - Configure resource allocation
-  - Use conditional steps
-  - Cache dependencies
-  - Solution: Optimize a pipeline
+  - [Optimizing pipeline performance and reducing build times](#optimizing-pipeline-performance-and-reducing-build-times)
+  - [Configure maximum runtime](#configure-maximum-runtime)
+  - [Configure resource allocation](#configure-resource-allocation)
+  - [Use conditional steps](#use-conditional-steps)
+  - [Cache dependencies](#cache-dependencies)
+  - [Solution: Optimize a pipeline](#solution-optimize-a-pipeline)
 - [**2. Using Pipes in Pipelines**](#2-using-pipes-in-pipelines) (4 videos)
-  - Getting to know pipes
-  - Use a pipe in a pipeline configuration
-  - Use a pipe to deploy code to AWS Lambda
-  - Solution: Use pipes in a pipeline
+  - [Getting to know pipes](#getting-to-know-pipes)
+  - [Use a pipe in a pipeline configuration](#use-a-pipe-in-a-pipeline-configuration)
+  - [Use a pipe to deploy code to AWS Lambda](#use-a-pipe-to-deploy-code-to-aws-lambda)
+  - [Solution: Use pipes in a pipeline](#solution-use-pipes-in-a-pipeline)
 - [**3. Create Custom Pipes**](#3-create-custom-pipes) (6 videos)
-  - When to use custom pipes
-  - Develop a custom pipe
-  - Test a custom pipe
-  - Deploy a custom pipe to a container registry
-  - Use a custom pipe in a pipeline
-  - Solution: Develop a custom pipe
+  - [When to use custom pipes](#when-to-use-custom-pipes)
+  - [Develop a custom pipe](#develop-a-custom-pipe)
+  - [Test a custom pipe](#test-a-custom-pipe)
+  - [Deploy a custom pipe to a container registry](#deploy-a-custom-pipe-to-a-container-registry)
+  - [Use a custom pipe in a pipeline](#use-a-custom-pipe-in-a-pipeline)
+  - [Solution: Develop a custom pipe](#solution-develop-a-custom-pipe)
 - [**4. Self-Hosted Runners**](#4-self-hosted-runners) (6 videos)
-  - When to use self-hosted runners
-  - Self-hosted runner configurations
-  - Compare repository and workspace runners
-  - Install runners in a workspace
-  - Use self-hosted runners in a pipeline
-  - Solution: Deploy a self-hosted runner
+  - [When to use self-hosted runners](#when-to-use-self-hosted-runners)
+  - [Self-hosted runner configurations](#self-hosted-runner-configurations)
+  - [Compare repository and workspace runners](#compare-repository-and-workspace-runners)
+  - [Install runners in a workspace](#install-runners-in-a-workspace)
+  - [Use self-hosted runners in a pipeline](#use-self-hosted-runners-in-a-pipeline)
+  - [Solution: Deploy a self-hosted runner](#solution-deploy-a-self-hosted-runner)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize your CI/CD: Advanced techniques with Bitbucket Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980)
@@ -103,8 +103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (2), cd (2), [[Bitbucket]] (2), [[Software Development]] (1), [[Jenkins]] (1)
 > **CLI Commands:** cd (2), find (1)
-> **Code Keywords:** self (1), let (1)
 > **Tools:** bitbucket (2)
 > **Speakers:** - hey (1)
 
@@ -153,17 +153,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (5), ci (1), cd (1)
 > **Tools:** bitbucket (5)
 > **CLI Commands:** docker (2), cd (1)
 > **File Paths:** bitbucket-pipelines.yaml (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** yaml (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Pipeline Optimizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing pipeline performance and reducing build times
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimizing-pipeline-performance-and-reducing-build-times?u=76281980)
@@ -190,8 +190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Tools:** bitbucket (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - i (1)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (2)
 > **Tools:** bitbucket (2)
 > **Speakers:** - [instructor] (1)
 
@@ -302,8 +302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (2)
 > **Env Vars:** cpu (5), ram (5)
-> **Code Keywords:** let (3), require (1), default. (1)
 > **Tools:** bitbucket (2)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
@@ -385,8 +385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Bitbucket]] (3), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** python (8), ruby (5), make (1)
-> **Code Keywords:** let (3), interface (1)
 > **Tools:** bitbucket (3)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -463,9 +463,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (4), [[Python (Programming Language)|Python]] (3), [[Software Projects]] (1), [[Pandas (Software)|Pandas]] (1), data (1)
 > **CLI Commands:** ruby (4), python (3), make (1)
 > **Tools:** bitbucket (4)
-> **Code Keywords:** interface (1), let (1)
 > **Exercise Files:** exercise files (1), download the (1)
 > **Prerequisites:** setup (2)
 > **File Paths:** gemfile.lock (1)
@@ -575,7 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), from. (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (1), [[Bitbucket]] (1), next (1)
 > **CLI Commands:** pip (4), python (1), make (1)
 > **Env Vars:** pip (3)
 > **Prerequisites:** install (1), setup (1)
@@ -587,7 +587,7 @@ created: 2026-04-29
 
 ### 2. Using Pipes in Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting to know pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/getting-to-know-pipes?u=76281980)
@@ -622,9 +622,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (4), ci (1), cd (1), cloud (1), application (1)
 > **Tools:** bitbucket (4)
 > **CLI Commands:** cd (1), docker (1)
-> **Code Keywords:** self (1), interface (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - in (1)
@@ -670,8 +670,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Bitbucket]] (2), aws (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Security]] (1)
 > **CLI Commands:** docker (2), find (2), aws (1)
-> **Code Keywords:** let (2), interface (2), pass (1)
 > **Exercise Files:** template (3), exercise files (1)
 > **Tools:** bitbucket (2)
 > **Env Vars:** aws (1)
@@ -738,7 +738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), lambda (2), finally, (1), interface (1)
+> **Frameworks & Libraries:** aws (6), application (1), next (1)
 > **CLI Commands:** aws (6), make (1), docker (1)
 > **Env Vars:** aws (6)
 > **Exercise Files:** zip file (1), exercise files (1)
@@ -800,7 +800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[Bitbucket]] (1), api (1)
 > **Env Vars:** api (1), statistics_access_token (1)
 > **CLI Commands:** docker (1)
 > **Tools:** bitbucket (1)
@@ -812,7 +812,7 @@ created: 2026-04-29
 
 ### 3. Create Custom Pipes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to use custom pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980)
@@ -855,9 +855,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Atlassian]] (2), [[Bitbucket]] (1), [[Metadata]] (1), [[Python (Programming Language)|Python]] (1), [[Automation]] (1)
 > **CLI Commands:** make (3), docker (1), python (1)
 > **Tools:** bitbucket (1), command line (1), bash (1)
-> **Code Keywords:** public (1), let (1)
 > **Env Vars:** readme (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - pipes (1)
@@ -949,9 +949,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Bitbucket]] (2), next (2), prompt (1), web (1)
 > **CLI Commands:** python (2), make (2), pip (1)
 > **Tools:** bitbucket (2), vim (1), terminal (1), command line (1)
-> **Code Keywords:** this, (1), let (1), interface (1)
 > **Env Vars:** readme (2), ide (1)
 > **Prerequisites:** install (2), set up (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -989,9 +989,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (1), next (1)
 > **CLI Commands:** docker (4), make (1)
 > **Tools:** bitbucket (1), command line (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -1074,8 +1074,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Security]] (1), [[Tokens]] (1), [[Bitbucket]] (1), feature (1)
 > **CLI Commands:** docker (7), make (1)
-> **Code Keywords:** let (4), switch (1), interface (1), public (1)
 > **UI Navigation:** go to (2), toggle (1), select the (1)
 > **Code Identifiers:** registry_password (1), registry_username (1)
 > **Prerequisites:** configure (2)
@@ -1114,7 +1114,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
 > **CLI Commands:** docker (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1179,8 +1178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (1), next (1)
 > **Code Identifiers:** customer_id (5)
-> **Code Keywords:** let (2), function (1), for, (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Tools:** bitbucket (1)
@@ -1191,7 +1190,7 @@ created: 2026-04-29
 
 ### 4. Self-Hosted Runners
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to use self-hosted runners
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-self-hosted-runners?u=76281980)
@@ -1264,7 +1263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (15), public (3), let (2), private (2), require (1)
+> **Frameworks & Libraries:** [[Security]] (5), data (4), [[Bitbucket]] (2), [[Atlassian]] (2), cloud (2)
 > **Env Vars:** cpu (1), gdpr (1), hipaa (1)
 > **Prerequisites:** configure (1), setup (1), you'll need (1)
 > **Tools:** bitbucket (2)
@@ -1316,8 +1315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (1), [[Java]] (1), [[Git]] (1), ci (1)
 > **CLI Commands:** docker (4), git (1), cd (1)
-> **Code Keywords:** self (1)
 > **Code Identifiers:** macos (1)
 > **Env Vars:** ram (1)
 > **Cross-References:** in the next (1)
@@ -1354,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1), [[Hardware]] (1)
 > **CLI Commands:** docker (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1468,9 +1467,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (8), [[Bitbucket]] (6), next (5), [[Amazon EC2|Ec2]] (1), aws (1)
 > **CLI Commands:** docker (8), make (2), aws (1), git (1)
 > **Tools:** bitbucket (6), terminal (4)
-> **Code Keywords:** let (4), interface (1), self (1), switch (1), type. (1)
 > **Prerequisites:** install (5), configure (1)
 > **File Paths:** run.sh (2), install.sh (1)
 > **UI Navigation:** select the (2), go to (1)
@@ -1514,7 +1513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Troubleshooting]] (1)
 > **CLI Commands:** docker (2)
 > **Env Vars:** cpu (1)
 > **Exercise Files:** exercise files (1)
@@ -1596,7 +1595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (2), protected (1)
+> **Frameworks & Libraries:** data (5), [[Linux]] (3), [[Bitbucket]] (2), aws (2)
 > **CLI Commands:** docker (2), aws (2)
 > **Prerequisites:** install (3), configure (1)
 > **Env Vars:** aws (2)
@@ -1608,7 +1607,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/next-steps?u=76281980)
@@ -1629,6 +1628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (3), next (1)
 > **Tools:** bitbucket (3)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - hey (1)

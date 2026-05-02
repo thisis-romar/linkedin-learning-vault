@@ -36,7 +36,7 @@ tags:
   - skill/computer-network-operations
   - skill/engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/MPLS-%20Traffic%20Engineering.md)
@@ -55,52 +55,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Boost your MPLS skill set with traffic engineering
+  - [Boost your MPLS skill set with traffic engineering](#boost-your-mpls-skill-set-with-traffic-engineering)
 - [**1. MPLS TE Foundation**](#1-mpls-te-foundation) (2 videos)
-  - Traffic engineering introduction
-  - MPLS Traffic Engineering (TE) overview
+  - [Traffic engineering introduction](#traffic-engineering-introduction)
+  - [MPLS Traffic Engineering (TE) overview](#mpls-traffic-engineering-te-overview)
 - [**2. MPLS TE Components**](#2-mpls-te-components) (3 videos)
-  - Routing protocol requirements
-  - Resource Reservation Protocol with TE extension
-  - RSVP messages
+  - [Routing protocol requirements](#routing-protocol-requirements)
+  - [Resource Reservation Protocol with TE extension](#resource-reservation-protocol-with-te-extension)
+  - [RSVP messages](#rsvp-messages)
 - [**3. MPLS TE Configuration**](#3-mpls-te-configuration) (7 videos)
-  - MPLS TE generic configuration
-  - MPLS TE explicit tunnel
-  - Steering traffic into an MPLS TE tunnel with static routes
-  - Steering traffic into an MPLS TE tunnel with PBR
-  - MPLS TE dynamic tunnel
-  - MPLS TE semi-dynamic tunnel using exclude-address
-  - MPLS TE semi-dynamic tunnel using loose next hop
+  - [MPLS TE generic configuration](#mpls-te-generic-configuration)
+  - [MPLS TE explicit tunnel](#mpls-te-explicit-tunnel)
+  - [Steering traffic into an MPLS TE tunnel with static routes](#steering-traffic-into-an-mpls-te-tunnel-with-static-routes)
+  - [Steering traffic into an MPLS TE tunnel with PBR](#steering-traffic-into-an-mpls-te-tunnel-with-pbr)
+  - [MPLS TE dynamic tunnel](#mpls-te-dynamic-tunnel)
+  - [MPLS TE semi-dynamic tunnel using exclude-address](#mpls-te-semi-dynamic-tunnel-using-exclude-address)
+  - [MPLS TE semi-dynamic tunnel using loose next hop](#mpls-te-semi-dynamic-tunnel-using-loose-next-hop)
 - [**4. Advanced MPLS TE Features**](#4-advanced-mpls-te-features) (7 videos)
-  - MPLS TE auto-bandwidth
-  - MPLS TE affinity
-  - MPLS TE administrative weight
-  - MPLS TE setup and hold priority
-  - MPLS TE autoroute announce
-  - MPLS TE forwarding adjacency
-  - Class-based tunnel selection (CBTS)
+  - [MPLS TE auto-bandwidth](#mpls-te-auto-bandwidth)
+  - [MPLS TE affinity](#mpls-te-affinity)
+  - [MPLS TE administrative weight](#mpls-te-administrative-weight)
+  - [MPLS TE setup and hold priority](#mpls-te-setup-and-hold-priority)
+  - [MPLS TE autoroute announce](#mpls-te-autoroute-announce)
+  - [MPLS TE forwarding adjacency](#mpls-te-forwarding-adjacency)
+  - [Class-based tunnel selection (CBTS)](#class-based-tunnel-selection-cbts)
 - [**5. MPLS TE Fast Reroute (FRR)**](#5-mpls-te-fast-reroute-frr) (5 videos)
-  - MPLS TE Fast Reroute for link protection: Part 1
-  - MPLS TE Fast Reroute for link protection: Part 2
-  - MPLS TE Fast Reroute for node protection
-  - Shared Risk Link Group (SRLG)
-  - MPLS TE Path Protection
+  - [MPLS TE Fast Reroute for link protection: Part 1](#mpls-te-fast-reroute-for-link-protection-part-1)
+  - [MPLS TE Fast Reroute for link protection: Part 2](#mpls-te-fast-reroute-for-link-protection-part-2)
+  - [MPLS TE Fast Reroute for node protection](#mpls-te-fast-reroute-for-node-protection)
+  - [Shared Risk Link Group (SRLG)](#shared-risk-link-group-srlg)
+  - [MPLS TE Path Protection](#mpls-te-path-protection)
 - [**6. Cost Calculation of IGP Routes over TE Tunnels**](#6-cost-calculation-of-igp-routes-over-te-tunnels) (5 videos)
-  - TE tunnels default cost calculation
-  - Adjusting the cost calculation of TE tunnels
-  - MPLS TE load balancing
-  - MPLS TE reoptimization
-  - MPLS TE link manager
+  - [TE tunnels default cost calculation](#te-tunnels-default-cost-calculation)
+  - [Adjusting the cost calculation of TE tunnels](#adjusting-the-cost-calculation-of-te-tunnels)
+  - [MPLS TE load balancing](#mpls-te-load-balancing)
+  - [MPLS TE reoptimization](#mpls-te-reoptimization)
+  - [MPLS TE link manager](#mpls-te-link-manager)
 - [**7. MPLS TE and MPLS VPN**](#7-mpls-te-and-mpls-vpn) (3 videos)
-  - VRF-to-TE tunnel routing
-  - TE tunnel with a P router as a tailend router
-  - AToM tunnel selection
+  - [VRF-to-TE tunnel routing](#vrf-to-te-tunnel-routing)
+  - [TE tunnel with a P router as a tailend router](#te-tunnel-with-a-p-router-as-a-tailend-router)
+  - [AToM tunnel selection](#atom-tunnel-selection)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Boost your MPLS skill set with traffic engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/boost-your-mpls-skillset-with-traffic-engineering?u=76281980)
@@ -125,6 +125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Traffic Engineering]] (2), traffic (1), career (1)
 > **Env Vars:** mpls (2)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
@@ -133,7 +134,7 @@ created: 2026-04-29
 
 ### 1. MPLS TE Foundation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Traffic engineering introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980)
@@ -196,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (11), [[Traffic Engineering]] (9), data (9), [[User Experience (UX)|User experience]] (1), next (1)
 > **Env Vars:** ospf (5), mpls (1)
-> **Code Keywords:** let (1), this, (1), include, (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Cross-References:** in the next (1)
@@ -278,15 +279,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (10), [[Routing]] (5), [[Traffic Engineering]] (4), data (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2)
 > **Env Vars:** ospf (6), lfib (4), igp (3), rsvp (3), mpls (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. MPLS TE Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Routing protocol requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/routing-protocol-requirement?u=76281980)
@@ -343,10 +344,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Traffic Engineering]] (12), [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), database (2), next (2), [[Routing]] (1)
 > **Env Vars:** mpls (11), ospf (11), cspf (4), lsa (1), spf (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -398,10 +399,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), [[Traffic Engineering]] (2), [[Routing]] (1), next (1), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
 > **Env Vars:** rsvp (11), lsr (1), csvf (1), lsp (1), mpls (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### RSVP messages
@@ -455,6 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), [[Traffic Engineering]] (1)
 > **Env Vars:** rsvp (14), mpls (6), path (1), resv (1)
 > **Analogies:** such as (1), similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -462,7 +464,7 @@ created: 2026-04-29
 
 ### 3. MPLS TE Configuration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MPLS TE generic configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980)
@@ -553,8 +555,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (50), [[Traffic Engineering]] (20), traffic (12), next (4), [[Routing]] (3)
 > **Env Vars:** mpls (32), ospf (7), cef (6), rsvp (2), area (1)
-> **Code Keywords:** interface (5), this, (1), let (1), function (1)
 > **Prerequisites:** configure (2), setup (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -662,9 +664,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (16), traffic (11), next (10), [[Traffic Engineering]] (5), [[IP Addressing]] (1)
 > **Env Vars:** mpls (16), eng (4), r1t0 (2), igp (1), mpls_te (1)
 > **Versions:** 10.1.4 (5), 10.4.5 (5), 10.3.5 (4), 192.168.254 (3)
-> **Code Keywords:** interface (5), let (1), pass (1), case, (1)
 > **Prerequisites:** configure (2)
 > **Cross-References:** next video (1)
 > **Definitions:** known as (1)
@@ -720,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (10), default, (1), interface (1), let (1), require (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), traffic (11), [[Routing]] (6), [[Traffic Engineering]] (1), next (1)
 > **Env Vars:** mpls (10), network (1), mask (1), tunnel_id (1), pbr (1)
 > **Versions:** 10.3.0 (3), 255.255.255 (1)
 > **Prerequisites:** make sure you have (1), configure (1)
@@ -773,8 +775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (10), [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Routing]] (3), next (2)
 > **Env Vars:** pbr (9), mpls (8), acl (4), pbr_name (1)
-> **Code Keywords:** interface (9), finally, (2), static (1), let (1)
 > **Versions:** 10.3.0 (3), 10.1.0 (2), 0.0.0 (2), 0.255 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -895,8 +897,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (23), traffic (14), [[Traffic Engineering]] (4), [[Routing Protocols]] (1), data (1)
 > **Env Vars:** mpls (14), rsvp (1)
-> **Code Keywords:** interface (10), let (2)
 > **Versions:** 192.168.254 (4), 10.1.2 (1), 10.2.3 (1), 10.1.4 (1), 10.4.5 (1)
 > **Prerequisites:** configure (3), setup (1)
 > **Definitions:** means that (3)
@@ -973,8 +975,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), traffic (8), [[Routing]] (1), [[Traffic Engineering]] (1), node (1)
 > **Env Vars:** no_r2 (9), mpls (6)
-> **Code Keywords:** interface (5), pass (4), case, (1)
 > **Versions:** 192.168.254 (6), 10.1.4 (1), 10.3.4 (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** node (1)
@@ -1062,8 +1064,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (14), [[Multiprotocol Label Switching (MPLS)|Mpls]] (13), traffic (8), [[Traffic Engineering]] (4), management (1)
 > **Env Vars:** mpls (7), to_r3 (5)
-> **Code Keywords:** interface (8), let (1), require (1)
 > **Versions:** 192.168.254 (6), 10.1.4 (3), 10.4.5 (1)
 > **Definitions:** refers to (1), is a  (1), means that (1)
 > **Prerequisites:** setup (1), configure (1)
@@ -1073,7 +1075,7 @@ created: 2026-04-29
 
 ### 4. Advanced MPLS TE Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MPLS TE auto-bandwidth
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980)
@@ -1134,8 +1136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (17), traffic (15), feature (7), [[Traffic Engineering]] (5), [[Statistics]] (2)
 > **Env Vars:** mpls (10)
-> **Code Keywords:** let (2), interface (1)
 > **Versions:** 192.168.254 (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -1258,7 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (11), case, (2)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (28), traffic (18), [[Traffic Engineering]] (6), next (1), database (1)
 > **Env Vars:** mpls (11), ios (1)
 > **Versions:** 192.168.254 (4), 10.1.2 (1), 10.2.3 (1), 10.1.4 (1), 10.3.4 (1)
 > **Prerequisites:** configure (3), setup (1)
@@ -1334,8 +1336,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (24), traffic (11), [[Traffic Engineering]] (9), [[Routing]] (1), data (1)
 > **Env Vars:** mpls (14), igp (11)
-> **Code Keywords:** interface (7), let (5), default, (3), type: (2)
 > **Versions:** 192.168.254 (5), 10.1.2 (2), 10.2.3 (2), 10.1.4 (1), 10.3.4 (1)
 > **Definitions:** known as (1), refers to (1)
 > **Prerequisites:** configure (2)
@@ -1429,9 +1431,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), traffic (3), [[Traffic Engineering]] (2), next (1)
 > **Prerequisites:** setup (14), configure (5), set up (1)
 > **Env Vars:** mpls (7), lsp (4), eng (3)
-> **Code Keywords:** let (5), interface (1)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1475,8 +1477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (16), traffic (13), [[Routing]] (6), [[Traffic Engineering]] (5), feature (3)
 > **Env Vars:** mpls (9), igp (2), pbr (1)
-> **Code Keywords:** let (4), interface (4), static (1)
 > **Versions:** 192.168.254 (2)
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** configure (1), install (1)
@@ -1539,8 +1541,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), traffic (5), [[Traffic Engineering]] (2), [[Routing]] (2)
 > **Env Vars:** mpls (9), igp (7)
-> **Code Keywords:** let (3), interface (1)
 > **Prerequisites:** setup (1), configure (1)
 > **Versions:** 10.7.0 (1)
 > **Analogies:** imagine (1)
@@ -1699,8 +1701,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (24), [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), [[Traffic Engineering]] (3), data (3), management (2)
 > **Env Vars:** exp (14), mpls (7), cbts (5), eng (5), mplst (4)
-> **Code Keywords:** let (3), interface (3), finally, (1)
 > **Versions:** 192.168.254 (4)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
@@ -1710,7 +1712,7 @@ created: 2026-04-29
 
 ### 5. MPLS TE Fast Reroute (FRR)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MPLS TE Fast Reroute for link protection: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-i?u=76281980)
@@ -1813,8 +1815,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), next (2), node (1), data (1)
 > **Env Vars:** plr (7), lsp (6), nhop (5), mpls (4), frr (3)
-> **Code Keywords:** protected (12), let (1), interface (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
@@ -1868,8 +1870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), next (2), [[Traffic Engineering]] (2), database (1)
 > **Env Vars:** plr (4), frr (4), lsp (2), mpls (1)
-> **Code Keywords:** protected (2), interface (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -1942,9 +1944,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), traffic (10), node (9), next (9), feature (1)
 > **Env Vars:** nnhop (11), frr (7), plr (7), mpls (4), lsr (2)
 > **CLI Commands:** node (9)
-> **Code Keywords:** interface (4), protected (3), this, (1), finally, (1)
 > **Versions:** 192.168.254 (3), 10.1.2 (1), 10.2.3 (1), 10.3.4 (1), 10.4.5 (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Cross-References:** in the next (1)
@@ -2010,8 +2012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (5), traffic (4), node (2), [[Routing]] (1), next (1)
 > **Env Vars:** srlg (20), engsrlg (1), mpls (1)
-> **Code Keywords:** protected (2), interface (2), finally, (1)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** node (2)
 > **Definitions:** refers to (1)
@@ -2087,10 +2089,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), node (6), [[Traffic Engineering]] (4), traffic (4), feature (1)
 > **Env Vars:** mpls (7), lsp (4), plst (1), mprs (1), ios (1)
 > **Versions:** 10.1.2 (2), 192.168.254 (2), 10.2.3 (1), 10.3.4 (1), 10.2.5 (1)
 > **CLI Commands:** node (6)
-> **Code Keywords:** let (2), switch (2), case, (1)
 > **Definitions:** is a  (2), means that (1), refers to (1)
 > **Prerequisites:** configure (2), set up (1)
 > **UI Navigation:** switch to (1)
@@ -2099,7 +2101,7 @@ created: 2026-04-29
 
 ### 6. Cost Calculation of IGP Routes over TE Tunnels
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### TE tunnels default cost calculation
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980)
@@ -2172,8 +2174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), traffic (4), [[Traffic Engineering]] (1), next (1)
 > **Env Vars:** ospf (3), mpls (2), igp (2), lsr (1), cspf (1)
-> **Code Keywords:** interface (4), let (3), case. (1)
 > **Versions:** 192.168.254 (7)
 > **Best Practices:** general rule (1)
 > **Prerequisites:** configure (1)
@@ -2244,7 +2246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), finally, (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), traffic (8), [[Traffic Engineering]] (2), [[Routing]] (1)
 > **Env Vars:** igp (4), mpls (2), ospf (1)
 > **Prerequisites:** configure (4)
 > **Versions:** 192.168.254 (3)
@@ -2285,6 +2287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Routing]] (2), [[Traffic Engineering]] (1)
 > **Env Vars:** mpls (3)
 > **Versions:** 10.3.0 (1), 192.168.254 (1), 10.3.4 (1)
 > **Speakers:** - [instructor] (1)
@@ -2354,9 +2357,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), traffic (6), [[Traffic Engineering]] (2), [[Routing]] (1)
 > **Env Vars:** mpls (8), ios (3), interval (1), number (1), tunnel_number (1)
 > **Definitions:** means that (2), is a  (1), refers to (1)
-> **Code Keywords:** default. (1), default, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** configure (1)
@@ -2413,8 +2416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (17), management (12), traffic (10), [[Traffic Engineering]] (3), [[Routing]] (1)
 > **Env Vars:** mpls (10), igp (2), ios (1), rsvp (1), lsp (1)
-> **Code Keywords:** interface (3), function (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -2422,7 +2425,7 @@ created: 2026-04-29
 
 ### 7. MPLS TE and MPLS VPN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### VRF-to-TE tunnel routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980)
@@ -2501,9 +2504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (15), [[Routing]] (8), next (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Traffic Engineering]] (3)
 > **Env Vars:** vrf (18), mpls (3), bgp (2), vpn (1)
 > **Versions:** 192.168.254 (6)
-> **Code Keywords:** static (3)
 > **Prerequisites:** configure (1), setup (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -2563,8 +2566,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (6), [[Multiprotocol Label Switching (MPLS)|Mpls]] (5), next (2), traffic (2)
 > **Env Vars:** ldp (12), vpn (6), lsp (5), mpls (5), bgp (2)
-> **Code Keywords:** interface (2), let (2)
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2608,6 +2611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), traffic (6)
 > **Env Vars:** mpls (9), igp (1)
 > **Tools:** atom (10)
 > **Prerequisites:** configure (4), set up (1)
@@ -2617,7 +2621,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980)
@@ -2648,6 +2652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Routing]] (3), [[Traffic Engineering]] (2), traffic (1), next (1)
 > **Env Vars:** mpls (4)
 > **Speakers:** - [instructor] (1)
 

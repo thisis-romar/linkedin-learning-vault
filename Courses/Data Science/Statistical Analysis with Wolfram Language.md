@@ -24,7 +24,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistical%20Analysis%20with%20Wolfram%20Language.md)
@@ -43,19 +43,19 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Descriptive and Exploratory Statistics**](#1-descriptive-and-exploratory-statistics) (1 videos)
-  - Descriptive and exploratory statistics
+  - [Descriptive and exploratory statistics](#descriptive-and-exploratory-statistics)
 - [**2. Statistical Distribution**](#2-statistical-distribution) (1 videos)
-  - Statistical distribution
+  - [Statistical distribution](#statistical-distribution)
 - [**3. Hypothesis Testing**](#3-hypothesis-testing) (1 videos)
-  - Hypothesis testing
+  - [Hypothesis testing](#hypothesis-testing)
 - [**4. Model Fitting and Analysis**](#4-model-fitting-and-analysis) (1 videos)
-  - Model fitting and analysis
+  - [Model fitting and analysis](#model-fitting-and-analysis)
 - [**5. Modeling with Statistical Distributions**](#5-modeling-with-statistical-distributions) (1 videos)
-  - Modeling with statistical distributions
+  - [Modeling with statistical distributions](#modeling-with-statistical-distributions)
 
 ### 1. Descriptive and Exploratory Statistics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Descriptive and exploratory statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980)
@@ -238,7 +238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), from, (1), case, (1), throw (1), export. (1)
+> **Frameworks & Libraries:** data (52), [[Statistics]] (9), database (3), [[Microsoft Excel|Excel]] (2), [[SQL]] (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **URLs:** [wolfram.com](https://wolfram.com) (1)
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 ### 2. Statistical Distribution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Statistical distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/statistical-distribution?u=76281980)
@@ -256,7 +256,7 @@ created: 2026-04-29
 
 ### 3. Hypothesis Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hypothesis testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980)
@@ -453,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (7), from. (2), function (1), default, (1)
+> **Frameworks & Libraries:** data (23), [[Statistics]] (2), [[Probability]] (2), [[Windows]] (1)
 > **Versions:** 0.05 (5), 0.04 (1)
 > **Analogies:** for instance (5), such as (1)
 > **CLI Commands:** make (2)
@@ -465,7 +465,7 @@ created: 2026-04-29
 
 ### 4. Model Fitting and Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Model fitting and analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980)
@@ -756,7 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), case, (8), let (3), case. (1), default, (1)
+> **Frameworks & Libraries:** data (12), [[Linear Regression]] (9), functional (5), [[Statistics]] (2), [[Logistic Regression]] (2)
 > **Env Vars:** anova (5), aic (1), cdf (1)
 > **Definitions:** is a  (4), is called (1), is an  (1)
 > **Analogies:** for instance (4)
@@ -768,7 +768,7 @@ created: 2026-04-29
 
 ### 5. Modeling with Statistical Distributions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling with statistical distributions
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/modeling-with-statistical-distributions?u=76281980)

@@ -19,7 +19,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Inclusive%20Learning%20Design.md)
@@ -38,30 +38,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Designing learning for whole learners
+  - [Designing learning for whole learners](#designing-learning-for-whole-learners)
 - [**1. Shift Left: Inclusive Learning Design**](#1-shift-left-inclusive-learning-design) (3 videos)
-  - The importance of inclusive learning design
-  - What is inclusive learning design?
-  - The five steps of ILD
+  - [The importance of inclusive learning design](#the-importance-of-inclusive-learning-design)
+  - [What is inclusive learning design?](#what-is-inclusive-learning-design)
+  - [The five steps of ILD](#the-five-steps-of-ild)
 - [**2. Identify Learners**](#2-identify-learners) (3 videos)
-  - Your learning identity
-  - The learner's identity
-  - Learning gaps
+  - [Your learning identity](#your-learning-identity)
+  - [The learner's identity](#the-learners-identity)
+  - [Learning gaps](#learning-gaps)
 - [**3. The Four Pillars of Inclusive Learning Design**](#3-the-four-pillars-of-inclusive-learning-design) (5 videos)
-  - Apply the four pillars of ILD
-  - Personalization of learning
-  - Responsive learning development
-  - Flexible instructional approaches
-  - Communities and social learning
+  - [Apply the four pillars of ILD](#apply-the-four-pillars-of-ild)
+  - [Personalization of learning](#personalization-of-learning)
+  - [Responsive learning development](#responsive-learning-development)
+  - [Flexible instructional approaches](#flexible-instructional-approaches)
+  - [Communities and social learning](#communities-and-social-learning)
 - [**4. Put Practice to Design**](#4-put-practice-to-design) (2 videos)
-  - Implement inclusive learning design
-  - Assess inclusive learning design effectiveness
+  - [Implement inclusive learning design](#implement-inclusive-learning-design)
+  - [Assess inclusive learning design effectiveness](#assess-inclusive-learning-design-effectiveness)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The future of inclusive learning design
+  - [The future of inclusive learning design](#the-future-of-inclusive-learning-design)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing learning for whole learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/designing-learning-for-whole-learners?u=76281980)
@@ -98,14 +98,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** career (1), power (1)
 > **Speakers:** - we (1)
 > **Non-Speech:** (bright music) (1)
 
 
 ### 1. Shift Left: Inclusive Learning Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of inclusive learning design
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/the-importance-of-inclusive-learning-design?u=76281980)
@@ -156,7 +156,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
@@ -217,8 +216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (1), product (1), [[Accessible Design]] (1)
 > **Env Vars:** ild (3), udl (3)
-> **Code Keywords:** self (2), new, (1), let (1), this. (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - do (1)
@@ -292,8 +291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Design Thinking]] (1), [[Software Development]] (1)
 > **Env Vars:** ild (4), addie (1), sam (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** just like (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - when (1)
@@ -301,7 +300,7 @@ created: 2026-04-29
 
 ### 2. Identify Learners
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your learning identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/your-learning-identity?u=76281980)
@@ -364,8 +363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1)
 > **Analogies:** for example (2), picture (1), imagine (1)
-> **Code Keywords:** continue (1), class, (1), self (1)
 > **Env Vars:** adhd (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - we (1)
@@ -433,7 +432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), continue (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -499,7 +498,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** ild (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -508,7 +506,7 @@ created: 2026-04-29
 
 ### 3. The Four Pillars of Inclusive Learning Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the four pillars of ILD
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/apply-the-four-pillars-of-ild?u=76281980)
@@ -587,7 +585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
+> **Frameworks & Libraries:** game (1)
 > **Env Vars:** ild (3)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
@@ -658,8 +656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), power (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** ild (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -736,7 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** next (1), [[Relationship Building]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ild (1)
 > **Definitions:** known as (1)
@@ -811,8 +809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Search]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** module (1), finally, (1)
 > **Analogies:** for example (2)
 > **Env Vars:** ild (1)
 > **Best Practices:** make sure to (1)
@@ -881,15 +879,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), power (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - welcome (1)
 
 
 ### 4. Put Practice to Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement inclusive learning design
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/implement-inclusive-learning-design?u=76281980)
@@ -968,8 +966,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** continue (1), let (1)
 > **Env Vars:** ild (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1046,15 +1044,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), [[Analytics]] (1), power (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ild (2)
-> **Code Keywords:** module (1)
 > **Speakers:** - and (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of inclusive learning design
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980)
@@ -1097,8 +1095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[LinkedIn]] (1)
 > **Env Vars:** ild (3)
-> **Code Keywords:** continue (1), let (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)

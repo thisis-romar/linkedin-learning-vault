@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT-%20Perfecting%20Your%20Output%20with%20Templates%20in%20Prompts.md)
@@ -49,15 +49,15 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. ChatGPT: Perfecting Your Output with Templates in Prompts**](#1-chatgpt-perfecting-your-output-with-templates-in-prompts) (5 videos)
-  - Unlock the power of templates: Create impactful ChatGPT prompts with the template pattern
-  - Supercharge your prompts with Markdown: Enhance ChatGPT output like a pro
-  - Elevate your writing: Using Markdown for footnotes and citations in ChatGPT
-  - Advanced Markdown mastery: Perfect ChatGPT prompts for outstanding results
-  - Refine ChatGPT responses: Reduce hallucinations with escape valve techniques
+  - [Unlock the power of templates: Create impactful ChatGPT prompts with the template pattern](#unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern)
+  - [Supercharge your prompts with Markdown: Enhance ChatGPT output like a pro](#supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro)
+  - [Elevate your writing: Using Markdown for footnotes and citations in ChatGPT](#elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt)
+  - [Advanced Markdown mastery: Perfect ChatGPT prompts for outstanding results](#advanced-markdown-mastery-perfect-chatgpt-prompts-for-outstanding-results)
+  - [Refine ChatGPT responses: Reduce hallucinations with escape valve techniques](#refine-chatgpt-responses-reduce-hallucinations-with-escape-valve-techniques)
 
 ### 1. ChatGPT: Perfecting Your Output with Templates in Prompts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock the power of templates: Create impactful ChatGPT prompts with the template pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980)
@@ -234,7 +234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), this, (1), else. (1), pass (1)
+> **Frameworks & Libraries:** llm (3), prompt (3), [[Prompt Engineering]] (1), power (1), [[Programming]] (1)
 > **Exercise Files:** template (9)
 > **Definitions:** is a  (6), is an  (1)
 > **Env Vars:** llm (3), yyy (1)
@@ -382,7 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), interface (1), this, (1), super (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Large Language Models (LLM)|Large language models]] (2), llm (2), [[ChatGPT]] (1), [[Security]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** gui (2), llm (2), url (1)
 > **Definitions:** is a  (3)
@@ -663,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), self (3), this, (1)
+> **Frameworks & Libraries:** prompt (9), data (1), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (6)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (5)
@@ -843,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), prompt (3), data (2), management (1), [[ChatGPT]] (1)
 > **UI Navigation:** go to (1), checkbox (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sec (1)
@@ -947,8 +947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2)
 > **Exercise Files:** template (6)
-> **Code Keywords:** case, (2), case. (1), this. (1), this, (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
 

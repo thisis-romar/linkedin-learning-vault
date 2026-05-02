@@ -36,7 +36,7 @@ tags:
   - skill/agile-project-management
   - skill/agile-methodologies
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Foundations.md)
@@ -55,51 +55,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Understanding agile
+  - [Understanding agile](#understanding-agile)
 - [**1. Modern Software Development**](#1-modern-software-development) (3 videos)
-  - The agile mindset
-  - The rise of knowledge workers
-  - Challenges with software manufacturing
+  - [The agile mindset](#the-agile-mindset)
+  - [The rise of knowledge workers](#the-rise-of-knowledge-workers)
+  - [Challenges with software manufacturing](#challenges-with-software-manufacturing)
 - [**2. Have an Agile Mindset**](#2-have-an-agile-mindset) (2 videos)
-  - The agile manifesto: Values
-  - The agile manifesto: Principles
+  - [The agile manifesto: Values](#the-agile-manifesto-values)
+  - [The agile manifesto: Principles](#the-agile-manifesto-principles)
 - [**3. Individuals and Interactions**](#3-individuals-and-interactions) (7 videos)
-  - The cost of multitasking
-  - Avoid work handoffs
-  - The Penny Game
-  - Deliver at a predictable pace
-  - Cross-functional teams
-  - User stories
-  - User stories: Common challenges
+  - [The cost of multitasking](#the-cost-of-multitasking)
+  - [Avoid work handoffs](#avoid-work-handoffs)
+  - [The Penny Game](#the-penny-game)
+  - [Deliver at a predictable pace](#deliver-at-a-predictable-pace)
+  - [Cross-functional teams](#cross-functional-teams)
+  - [User stories](#user-stories)
+  - [User stories: Common challenges](#user-stories-common-challenges)
 - [**4. Deliver Working Software**](#4-deliver-working-software) (3 videos)
-  - Start with the highest value
-  - Prioritize with a taskboard
-  - Avoid PowerPoint software
+  - [Start with the highest value](#start-with-the-highest-value)
+  - [Prioritize with a taskboard](#prioritize-with-a-taskboard)
+  - [Avoid PowerPoint software](#avoid-powerpoint-software)
 - [**5. Respond to Change**](#5-respond-to-change) (5 videos)
-  - Inspect and adapt
-  - Stay within timeboxes
-  - Jump off the waterfall
-  - Commit to sprints
-  - Iterative delivery
+  - [Inspect and adapt](#inspect-and-adapt)
+  - [Stay within timeboxes](#stay-within-timeboxes)
+  - [Jump off the waterfall](#jump-off-the-waterfall)
+  - [Commit to sprints](#commit-to-sprints)
+  - [Iterative delivery](#iterative-delivery)
 - [**6. Popular Agile Frameworks**](#6-popular-agile-frameworks) (3 videos)
-  - Scrum overview
-  - Extreme programming
-  - Kanban overview
+  - [Scrum overview](#scrum-overview)
+  - [Extreme programming](#extreme-programming)
+  - [Kanban overview](#kanban-overview)
 - [**7. Improve Customer Collaboration**](#7-improve-customer-collaboration) (5 videos)
-  - Common roles on the team
-  - The product owner
-  - The scrum master
-  - Combat groupthink
-  - Planning Poker
+  - [Common roles on the team](#common-roles-on-the-team)
+  - [The product owner](#the-product-owner)
+  - [The scrum master](#the-scrum-master)
+  - [Combat groupthink](#combat-groupthink)
+  - [Planning Poker](#planning-poker)
 - [**8. Start an Agile Transformation**](#8-start-an-agile-transformation) (2 videos)
-  - Major agile challenges
-  - Start an agile transformation
+  - [Major agile challenges](#major-agile-challenges)
+  - [Start an agile transformation](#start-an-agile-transformation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing with agile
+  - [Continuing with agile](#continuing-with-agile)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/understanding-agile-21059664?u=76281980)
@@ -126,13 +126,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (2), product (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Modern Software Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The agile mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980)
@@ -227,6 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (12), product (2), database (1), [[Scrum]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - there (1)
 
@@ -319,7 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), finally, (1)
+> **Frameworks & Libraries:** product (9), management (4), [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (3), database (3)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -416,6 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[Windows]] (1), hit (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - a (1)
@@ -423,7 +425,7 @@ created: 2026-04-29
 
 ### 2. Have an Agile Mindset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The agile manifesto: Values
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980)
@@ -492,6 +494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), [[Agile Software Development]] (1), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -569,7 +572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), finally, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), teams (7), product (6), functional (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** imagine (1), it's like (1), picture (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -577,7 +580,7 @@ created: 2026-04-29
 
 ### 3. Individuals and Interactions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The cost of multitasking
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980)
@@ -644,7 +647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), switch (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Scrum]] (4), [[Microsoft Office|Office]] (1), next (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - multitasking (1)
@@ -694,8 +697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else. (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - one (1)
 
@@ -778,6 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), game (4), [[Microsoft Office|Office]] (2), [[Agile Development|Agile]] (2), functional (1)
 > **Tools:** notion (1)
 > **Speakers:** - most (1)
 
@@ -868,9 +872,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), teams (7), [[Scrum]] (3), product (2), game (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** cio (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
@@ -945,8 +949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (7), [[Agile Development|Agile]] (4), teams (4), business (2), [[Quality Assurance]] (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** self (2)
 > **Definitions:** means that (2)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - agile (1)
@@ -1028,6 +1032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Agile Development|Agile]] (5), business (2), teams (2), [[Scrum]] (2)
 > **Definitions:** means that (1)
 > **Speakers:** - user (1)
 
@@ -1088,15 +1093,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), teams (2), product (2), next (1), database (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Warnings:** watch out (1)
 > **Speakers:** - user (1)
 
 
 ### 4. Deliver Working Software
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start with the highest value
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980)
@@ -1171,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), product (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Software Projects]] (1), [[Microsoft Word]] (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - the (1)
@@ -1219,6 +1224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), teams (3), next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
@@ -1292,8 +1298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (4), product (4), database (4), data (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), finally, (1), this, (1)
 > **Definitions:** means that (2)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
@@ -1302,7 +1308,7 @@ created: 2026-04-29
 
 ### 5. Respond to Change
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inspect and adapt
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980)
@@ -1387,8 +1393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (7), teams (7), [[Software Development]] (5), product (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), from. (1)
 > **Analogies:** imagine (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1463,6 +1469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (7), [[Scrum]] (1), database (1), feature (1)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - agile (1)
@@ -1532,9 +1539,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), business (4), teams (3), functional (3), product (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **Speakers:** - if (1)
 
 #### Commit to sprints
@@ -1606,9 +1613,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (5), teams (4), product (4), next (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - most (1)
 
 #### Iterative delivery
@@ -1694,16 +1701,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), product (10), teams (8), next (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** imagine (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - one (1)
 
 
 ### 6. Popular Agile Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980)
@@ -1774,6 +1781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (22), [[Agile Development|Agile]] (16), teams (7), product (5)
 > **Definitions:** is a  (5), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1854,8 +1862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (10), [[Agile Development|Agile]] (9), [[Scrum]] (5), [[Software Development]] (4), [[Programming]] (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** tdd (1)
 > **Definitions:** is called (1)
 > **Speakers:** - another (1)
@@ -1935,7 +1943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), teams (6), product (2), [[Scrum]] (2), [[Software Development]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
@@ -1943,7 +1951,7 @@ created: 2026-04-29
 
 ### 7. Improve Customer Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common roles on the team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980)
@@ -2030,9 +2038,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (14), product (9), [[Scrum]] (6), business (4), teams (2)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** self (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - it (1)
 
@@ -2099,6 +2107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (28), [[Agile Development|Agile]] (5), business (5), teams (3), [[Real-Time]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** go back to (1)
@@ -2176,8 +2185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (19), [[Agile Development|Agile]] (5), product (3), power (1), functional (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - the (1)
@@ -2233,7 +2242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1), else, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), teams (4), database (4), product (2), [[Software Projects]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - one (1)
@@ -2311,9 +2320,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (5), teams (2), game (2), [[Agile Development|Agile]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** think of it as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - one (1)
@@ -2321,7 +2330,7 @@ created: 2026-04-29
 
 ### 8. Start an Agile Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Major agile challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/major-agile-challenges-21062182?u=76281980)
@@ -2394,9 +2403,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), product (5), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - there (1)
 
 #### Start an agile transformation
@@ -2470,6 +2479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), teams (2), [[Organizational Culture]] (2), [[Scrum]] (1), management (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** pmo (1)
@@ -2478,7 +2488,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980)
@@ -2511,6 +2521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), product (2), [[LinkedIn]] (2), [[Scrum]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)

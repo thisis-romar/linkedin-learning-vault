@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Software%20and%20Web%20Design%20Patterns.md)
@@ -40,35 +40,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Designing web and software applications
+  - [Designing web and software applications](#designing-web-and-software-applications)
 - [**1. Web Application and Software Patterns Overview**](#1-web-application-and-software-patterns-overview) (4 videos)
-  - Web applications and software patterns
-  - Common actions
-  - Customizable actions
-  - Navigation headers
+  - [Web applications and software patterns](#web-applications-and-software-patterns)
+  - [Common actions](#common-actions)
+  - [Customizable actions](#customizable-actions)
+  - [Navigation headers](#navigation-headers)
 - [**2. Setup and User Assistance**](#2-setup-and-user-assistance) (5 videos)
-  - First time experience
-  - Multi-step tasks
-  - First use task list
-  - Guided tour
-  - In-line help
+  - [First time experience](#first-time-experience)
+  - [Multi-step tasks](#multi-step-tasks)
+  - [First use task list](#first-use-task-list)
+  - [Guided tour](#guided-tour)
+  - [In-line help](#in-line-help)
 - [**3. Tables and Data**](#3-tables-and-data) (4 videos)
-  - Tables: Column, sort, and pagination
-  - Table actions
-  - Dynamic data panel
-  - Tree views
+  - [Tables: Column, sort, and pagination](#tables-column-sort-and-pagination)
+  - [Table actions](#table-actions)
+  - [Dynamic data panel](#dynamic-data-panel)
+  - [Tree views](#tree-views)
 - [**4. Controls**](#4-controls) (5 videos)
-  - Tool bars
-  - Drag and drop
-  - Sliders
-  - Preview
-  - Menus
+  - [Tool bars](#tool-bars)
+  - [Drag and drop](#drag-and-drop)
+  - [Sliders](#sliders)
+  - [Preview](#preview)
+  - [Menus](#menus)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing web and software applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/designing-web-and-software-applications?u=76281980)
@@ -93,12 +93,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), application (2), [[Microsoft Products|Products]] (1), ux (1), data (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Web Application and Software Patterns Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Web applications and software patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/web-applications-and-software-patterns?u=76281980)
@@ -153,8 +154,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), web (3), application (2), [[Design Patterns]] (1), web application (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
@@ -215,7 +216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), interface (1), new. (1), function (1)
+> **Frameworks & Libraries:** web (3), application (2), product (1), web application (1), [[Google Drive]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** in the menu (1)
@@ -271,9 +272,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), product (1), feature (1), [[Windows]] (1), next (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** set up (1), configure (1), setup (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
@@ -337,7 +338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** application (13), web (4), web application (2), [[Google]] (2), next (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -345,7 +346,7 @@ created: 2026-04-29
 
 ### 2. Setup and User Assistance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### First time experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980)
@@ -410,6 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (14), [[Microsoft Products|Products]] (2), data (2), [[User Experience (UX)|User experience]] (1), management (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
 > **Env Vars:** ibm (1)
@@ -470,7 +472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), require (1), interface (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), next (1), [[WooCommerce]] (1), [[WordPress]] (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (2), setup (1)
 > **CLI Commands:** make (1), find (1)
@@ -522,9 +524,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** self (1)
 > **Speakers:** - [narrator] (1)
 
 #### Guided tour
@@ -582,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), self (1)
+> **Frameworks & Libraries:** product (8), feature (2), next (2), [[Microsoft Outlook|Outlook]] (1)
 > **Prerequisites:** set up (1), you need to have (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -644,7 +646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** web (3), application (2), [[Microsoft Products|Products]] (1), product (1), [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -652,7 +654,7 @@ created: 2026-04-29
 
 ### 3. Tables and Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tables: Column, sort, and pagination
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tables-column-sort-and-pagination?u=76281980)
@@ -713,7 +715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), static (1)
+> **Frameworks & Libraries:** data (15), web (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Table actions
@@ -767,8 +769,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Search]] (3), [[Microsoft Outlook]] (1)
 > **UI Navigation:** dropdown (3), toggle (1)
-> **Code Keywords:** case, (1), delete (1)
 > **Env Vars:** ibm (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -809,7 +811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (3), web (1), next (1), [[Microsoft 365]] (1), [[Security]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [narrator] (1)
 
@@ -860,6 +862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), [[Unity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (3), make (1)
 > **Analogies:** similar to (1), for example (1)
 > **UI Navigation:** checkbox (1)
@@ -867,7 +870,7 @@ created: 2026-04-29
 
 ### 4. Controls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tool bars
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tool-bars?u=76281980)
@@ -926,10 +929,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), feature (1)
 > **UI Navigation:** in the toolbar (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case. (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -970,6 +973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), application (1)
 > **UI Navigation:** drag and drop (7)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -1066,6 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Web Development]] (1), [[Google]] (1), [[Google Drive]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** select the (1)
@@ -1142,16 +1147,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), web (2), [[Google]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** in the menu (1), in the toolbar (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** type. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/next-steps?u=76281980)
@@ -1170,6 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), web (1), application (1), next (1), [[LinkedIn]] (1)
 > **Speakers:** - [diane] (1)
 
 

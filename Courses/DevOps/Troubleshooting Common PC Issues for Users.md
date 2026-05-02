@@ -23,7 +23,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Troubleshooting%20Common%20PC%20Issues%20for%20Users.md)
@@ -42,53 +42,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Troubleshoot PC issues yourself
-  - What you should know
+  - [Troubleshoot PC issues yourself](#troubleshoot-pc-issues-yourself)
+  - [What you should know](#what-you-should-know)
 - [**1. PC Trouble**](#1-pc-trouble) (4 videos)
-  - Get to the root of all PC trouble
-  - Determine source: hardware or software
-  - Get help on the internet
-  - Try a quick fix
+  - [Get to the root of all PC trouble](#get-to-the-root-of-all-pc-trouble)
+  - [Determine source: hardware or software](#determine-source-hardware-or-software)
+  - [Get help on the internet](#get-help-on-the-internet)
+  - [Try a quick fix](#try-a-quick-fix)
 - [**2. Startup and Shutdown Issues**](#2-startup-and-shutdown-issues) (7 videos)
-  - Access the Windows recovery menu
-  - Create a system repair disk
-  - Deal with startup errors
-  - Access the UEFI and updating the BIOS
-  - Run the memory diagnostic
-  - Find a missing operating system
-  - Work through shutdown issues
+  - [Access the Windows recovery menu](#access-the-windows-recovery-menu)
+  - [Create a system repair disk](#create-a-system-repair-disk)
+  - [Deal with startup errors](#deal-with-startup-errors)
+  - [Access the UEFI and updating the BIOS](#access-the-uefi-and-updating-the-bios)
+  - [Run the memory diagnostic](#run-the-memory-diagnostic)
+  - [Find a missing operating system](#find-a-missing-operating-system)
+  - [Work through shutdown issues](#work-through-shutdown-issues)
 - [**3. Problems and Solutions: Windows**](#3-problems-and-solutions-windows) (7 videos)
-  - Start up in safe mode
-  - Use system restore
-  - Explore the MSCONFIG utility
-  - Access the Task Manager
-  - Work with the Registry Editor
-  - Review events
-  - Fix Windows
+  - [Start up in safe mode](#start-up-in-safe-mode)
+  - [Use system restore](#use-system-restore)
+  - [Explore the MSCONFIG utility](#explore-the-msconfig-utility)
+  - [Access the Task Manager](#access-the-task-manager)
+  - [Work with the Registry Editor](#work-with-the-registry-editor)
+  - [Review events](#review-events)
+  - [Fix Windows](#fix-windows)
 - [**4. Problems and Solutions: Mass Storage**](#4-problems-and-solutions-mass-storage) (3 videos)
-  - Check storage
-  - Free storage
-  - Work in the disk management console
+  - [Check storage](#check-storage)
+  - [Free storage](#free-storage)
+  - [Work in the disk management console](#work-in-the-disk-management-console)
 - [**5. Problems and Solutions: Printer**](#5-problems-and-solutions-printer) (3 videos)
-  - Find printer hardware solutions
-  - Check printer status
-  - Update the printer driver
+  - [Find printer hardware solutions](#find-printer-hardware-solutions)
+  - [Check printer status](#check-printer-status)
+  - [Update the printer driver](#update-the-printer-driver)
 - [**6. Problems and Solutions: Monitors and Graphics**](#6-problems-and-solutions-monitors-and-graphics) (2 videos)
-  - Troubleshoot the monitor
-  - Adjust the graphics adapter
+  - [Troubleshoot the monitor](#troubleshoot-the-monitor)
+  - [Adjust the graphics adapter](#adjust-the-graphics-adapter)
 - [**7. Problems and Solutions: Peripherals**](#7-problems-and-solutions-peripherals) (2 videos)
-  - Work with USB connections
-  - Troubleshoot audio
+  - [Work with USB connections](#work-with-usb-connections)
+  - [Troubleshoot audio](#troubleshoot-audio)
 - [**8. Problems and Solutions: Networking**](#8-problems-and-solutions-networking) (3 videos)
-  - Check network software
-  - Check network hardware
-  - Address the no internet issue
+  - [Check network software](#check-network-software)
+  - [Check network hardware](#check-network-hardware)
+  - [Address the no internet issue](#address-the-no-internet-issue)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot PC issues yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980)
@@ -121,8 +121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Windows]] (1)
 > **Warnings:** troubleshoot (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - hello (1)
 
 #### What you should know
@@ -154,7 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), [[Hardware]] (1), prompt (1), [[Troubleshooting]] (1)
 > **Tools:** command prompt (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - this (1)
@@ -162,7 +162,7 @@ created: 2026-04-29
 
 ### 1. PC Trouble
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get to the root of all PC trouble
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980)
@@ -263,7 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1)
+> **Frameworks & Libraries:** power (2), [[Windows 10]] (1), [[Hardware]] (1), [[Security]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
@@ -374,9 +374,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (25), [[Windows]] (5), [[Troubleshooting]] (3), power (2), management (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** self (1), finally, (1)
 > **Env Vars:** post (1), msc (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
@@ -443,8 +443,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (2), [[Technical Support]] (1), [[Search]] (1), [[Google]] (1), product (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** case, (1), self (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -507,8 +507,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Troubleshooting]] (3), [[Windows 10]] (2), power (2), [[Electronics]] (1)
 > **Analogies:** for example (2), just like (1)
-> **Code Keywords:** case, (1), try, (1)
 > **Best Practices:** it's best to (1), recommended (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** usb (1)
@@ -519,7 +519,7 @@ created: 2026-04-29
 
 ### 2. Startup and Shutdown Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Access the Windows recovery menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980)
@@ -602,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), this, (1), interface (1), type. (1)
+> **Frameworks & Libraries:** [[Windows]] (10), [[Troubleshooting]] (7), [[Windows 10]] (3), [[Security]] (1), cloud (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** troubleshoot (1), be aware (1)
@@ -712,10 +712,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), next (2), [[Windows 10]] (1), [[Security]] (1), feature (1)
 > **Env Vars:** usb (3), f12 (2), uac (1), f10 (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** similar to (2), for example (1)
-> **Code Keywords:** this, (1), continue (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -794,8 +794,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (13), [[Hardware]] (3), [[Windows]] (3), [[Electronics]] (1)
 > **Env Vars:** post (4), cpu (1)
-> **Code Keywords:** switch (1), finally, (1), case, (1), self (1)
 > **API Endpoints:** post  (3)
 > **Analogies:** such as (2)
 > **Warnings:** troubleshoot (1)
@@ -880,9 +880,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (2), power (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** uefi (11), bios (9), f10 (1)
 > **Prerequisites:** setup (2), install (2), set up (1)
-> **Code Keywords:** interface (2), this. (1), function (1)
 > **Definitions:** is called (1), known as (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
@@ -950,8 +950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Hardware]] (2), [[Troubleshooting]] (1)
 > **Env Vars:** ram (2)
-> **Code Keywords:** continue (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1022,9 +1022,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), prompt (3), [[Windows 10]] (1)
 > **Tools:** command prompt (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Analogies:** for instance (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -1120,14 +1120,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), require (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (7), data (4), power (3), [[Hardware]] (2), [[Troubleshooting]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Problems and Solutions: Windows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start up in safe mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980)
@@ -1200,8 +1200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (15), [[Troubleshooting]] (2), [[Hardware]] (2), data (1), [[System Configuration]] (1)
 > **Analogies:** for example (3), similar to (1)
-> **Code Keywords:** continue (1), this. (1), function (1)
 > **UI Navigation:** open the (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -1291,8 +1291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (8), [[Hardware]] (4), next (3), [[Microsoft]] (1), feature (1)
 > **Analogies:** for example (2), just like (1), such as (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Warnings:** warning (1), troubleshoot (1)
 > **Prerequisites:** install (1), configure (1)
 > **Definitions:** is a  (1)
@@ -1391,10 +1391,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (10), [[Troubleshooting]] (6), [[System Configuration]] (4), [[Windows 10]] (1), [[Hardware]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (2)
 > **Best Practices:** remember to (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** cpu (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
@@ -1535,10 +1535,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (14), [[Statistics]] (2), feature (1), management (1), [[Troubleshooting]] (1)
 > **Env Vars:** cpu (5), svc (3), mgr (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** switch (1), finally, (1)
 > **UI Navigation:** select the (1), open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1624,11 +1624,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Hardware]] (1), [[Microsoft]] (1)
 > **Env Vars:** hkey_current_user (2), uac (1), hkey_classes_root (1), hkey_local_machine (1), hkey_users (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** warning (1), be aware (1), be careful (1)
-> **Code Keywords:** export, (1), import, (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1739,10 +1739,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Hardware]] (4), game (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Warnings:** warning (2), keep in mind (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1802,9 +1802,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (9), [[Powershell]] (4), [[Microsoft Word|Word]] (1), prompt (1), [[Security]] (1)
 > **Env Vars:** sfc (5), uac (1)
 > **Tools:** powershell (4), command line (1), command prompt (1)
-> **Code Keywords:** finally, (1), require (1)
 > **UI Navigation:** click on (1), open the (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (2)
@@ -1814,7 +1814,7 @@ created: 2026-04-29
 
 ### 4. Problems and Solutions: Mass Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Check storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980)
@@ -1909,7 +1909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Hardware]] (2), [[Microsoft Word|Word]] (1), [[Windows 10]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ssd (1)
@@ -2011,7 +2011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), finally, (2), continue (1)
+> **Frameworks & Libraries:** [[Search]] (5), [[Windows]] (4), [[Windows 10]] (1)
 > **Versions:** 10.5 (1), 19.2 (1)
 > **UI Navigation:** click on (1), navigate to (1)
 > **Analogies:** such as (2)
@@ -2109,6 +2109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), [[Windows]] (7), data (1)
 > **Env Vars:** uefi (3), efi (1), bios (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), for example (1)
@@ -2118,7 +2119,7 @@ created: 2026-04-29
 
 ### 5. Problems and Solutions: Printer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Find printer hardware solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980)
@@ -2207,6 +2208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Troubleshooting]] (2), [[Hardware]] (1), feature (1)
 > **Warnings:** troubleshoot (1), warning (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** usb (1)
@@ -2290,8 +2292,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (11), feature (3), application (1), generic (1)
 > **Analogies:** picture (1), such as (1)
-> **Code Keywords:** continue (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2381,8 +2383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (9), next (2), feature (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** default. (2), let (1), this, (1)
 > **Env Vars:** p2055 (1), uac (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is an  (1), is called (1)
@@ -2393,7 +2395,7 @@ created: 2026-04-29
 
 ### 6. Problems and Solutions: Monitors and Graphics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot the monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980)
@@ -2478,7 +2480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), break, (1), throw (1)
+> **Frameworks & Libraries:** power (6), feature (3), [[Hardware]] (1), game (1), [[Electronics]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
@@ -2578,8 +2580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Hardware]] (2), [[Search]] (2), [[Fetch]] (1), management (1)
 > **Best Practices:** recommended (5)
-> **Code Keywords:** require (1), case. (1)
 > **UI Navigation:** right-click (1), scroll down (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -2590,7 +2592,7 @@ created: 2026-04-29
 
 ### 7. Problems and Solutions: Peripherals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with USB connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-usb-connections?u=76281980)
@@ -2665,8 +2667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Troubleshooting]] (1), [[Windows]] (1)
 > **Env Vars:** usb (29)
-> **Code Keywords:** require (2), switch (1), function (1)
 > **Versions:** 3.0 (4)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
@@ -2753,11 +2755,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (2), [[Troubleshooting]] (1), power (1), [[Search]] (1)
 > **UI Navigation:** right-click (3), select the (2), open the (1)
 > **Env Vars:** usb (3)
 > **Warnings:** troubleshoot (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** configure (1)
@@ -2765,7 +2767,7 @@ created: 2026-04-29
 
 ### 8. Problems and Solutions: Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Check network software
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980)
@@ -2846,8 +2848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Hardware]] (2), [[Search]] (1)
 > **UI Navigation:** select the (2), double-click (1)
-> **Code Keywords:** finally, (1), this, (1)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** configure (1), install (1)
 > **Warnings:** warning (1)
@@ -2902,8 +2904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (3), power (3), [[Troubleshooting]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** else. (1), continue (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
@@ -2992,19 +2994,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), data (2), power (1), [[LinkedIn]] (1), [[Google]] (1)
 > **Warnings:** troubleshoot (2), warning (1), be careful (1)
 > **Env Vars:** isp (3)
 > **Analogies:** such as (2), similar to (1)
 > **URLs:** [yahoo.com](https://yahoo.com) (1), [isitdownrightnow.com](https://isitdownrightnow.com) (1)
 > **Tools:** command line (1), powershell (1)
 > **UI Navigation:** right-click (2)
-> **Code Keywords:** this. (1)
 > **Prerequisites:** set up (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980)
@@ -3031,6 +3033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (3), [[Windows 10]] (1), [[Hardware]] (1)
 > **Speakers:** - this (1)
 
 

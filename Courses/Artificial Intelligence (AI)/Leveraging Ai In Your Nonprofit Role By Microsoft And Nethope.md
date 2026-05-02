@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/nonprofit-organizations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20Ai%20In%20Your%20Nonprofit%20Role%20By%20Microsoft%20And%20Nethope.md)
@@ -47,30 +47,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. AI Foundations for Nonprofits**](#1-ai-foundations-for-nonprofits) (6 videos)
-  - Training the eye for AI
-  - How AI works
-  - Recent innovations in GenAI and agentic AI
-  - Reducing ethical concerns around AI
-  - Authenticity and copyright infringement
-  - Accuracy and reliability of AI-generated content
+  - [Training the eye for AI](#training-the-eye-for-ai)
+  - [How AI works](#how-ai-works)
+  - [Recent innovations in GenAI and agentic AI](#recent-innovations-in-genai-and-agentic-ai)
+  - [Reducing ethical concerns around AI](#reducing-ethical-concerns-around-ai)
+  - [Authenticity and copyright infringement](#authenticity-and-copyright-infringement)
+  - [Accuracy and reliability of AI-generated content](#accuracy-and-reliability-of-ai-generated-content)
 - [**2. Mission-Driven AI Examples for Nonprofits**](#2-mission-driven-ai-examples-for-nonprofits) (5 videos)
-  - Supporting people and expanding possibilities
-  - How nonprofits are using AI
-  - AI adoption in resource-constrained environments
-  - Alignment with humanitarian principles
-  - Case studies across key impact areas
+  - [Supporting people and expanding possibilities](#supporting-people-and-expanding-possibilities)
+  - [How nonprofits are using AI](#how-nonprofits-are-using-ai)
+  - [AI adoption in resource-constrained environments](#ai-adoption-in-resource-constrained-environments)
+  - [Alignment with humanitarian principles](#alignment-with-humanitarian-principles)
+  - [Case studies across key impact areas](#case-studies-across-key-impact-areas)
 - [**3. Working Smarter with AI in Your Nonprofit Role**](#3-working-smarter-with-ai-in-your-nonprofit-role) (7 videos)
-  - Expanding responsibilities
-  - AI as a collaborative partner
-  - How to select AI tools for you
-  - AI use in programs and operations
-  - AI use in fundraising
-  - AI use in communications and outreach
-  - AI use in administration
+  - [Expanding responsibilities](#expanding-responsibilities)
+  - [AI as a collaborative partner](#ai-as-a-collaborative-partner)
+  - [How to select AI tools for you](#how-to-select-ai-tools-for-you)
+  - [AI use in programs and operations](#ai-use-in-programs-and-operations)
+  - [AI use in fundraising](#ai-use-in-fundraising)
+  - [AI use in communications and outreach](#ai-use-in-communications-and-outreach)
+  - [AI use in administration](#ai-use-in-administration)
 
 ### 1. AI Foundations for Nonprofits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Training the eye for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/training-the-eye-for-ai?u=76281980)
@@ -95,6 +95,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3)
 > **Definitions:** is called (1)
 
 #### How AI works
@@ -156,8 +157,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (11), nlp (5), prompt (3), [[Natural Language Processing (NLP)|Natural language processing]] (2)
 > **Env Vars:** nlp (5), ann (2), rag (1)
-> **Code Keywords:** let (1), require (1), interface (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -245,10 +246,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), data (12), nlp (4), [[Generative AI]] (2), [[Traditional AI]] (2)
 > **Env Vars:** nlp (4), gpt (1)
 > **Definitions:** refers to (4), is a  (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1)
 
 #### Reducing ethical concerns around AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980)
@@ -325,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), private (1)
+> **Frameworks & Libraries:** ai (24), [[Privacy]] (6), data (6), [[Decision-Making]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** pii (1)
 
@@ -414,7 +415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), protected (3), finally, (1), public (1)
+> **Frameworks & Libraries:** ai (20), data (2), [[Search]] (2), [[Copyright Law]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** be careful (1)
@@ -514,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), require (1)
+> **Frameworks & Libraries:** ai (28), data (5), [[Forms]] (2), prompt (2), [[Sustainability]] (2)
 > **Analogies:** such as (4)
 > **Env Vars:** rag (1), oecd (1)
 > **Definitions:** is a  (1), known as (1)
@@ -523,7 +524,7 @@ created: 2026-04-29
 
 ### 2. Mission-Driven AI Examples for Nonprofits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supporting people and expanding possibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/supporting-people-expanding-possibilities?u=76281980)
@@ -554,8 +555,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (3), teams (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 
 #### How nonprofits are using AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980)
@@ -616,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (21), data (5), [[Real-Time]] (2), teams (1), [[Decision-Making]] (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** make (1)
 
@@ -657,7 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** ai (7), data (4), [[Technical Support]] (1), [[Accountability]] (1), [[Organizational Culture]] (1)
 
 #### Alignment with humanitarian principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/alignment-with-humanitarian-principles?u=76281980)
@@ -710,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (13), data (8), [[Privacy]] (2), [[Accountability]] (2), [[Security]] (1)
 > **Definitions:** is a  (1)
 
 #### Case studies across key impact areas
@@ -782,14 +783,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), data (6), [[Real-Time]] (2), [[Generative AI]] (2), management (2)
 > **Env Vars:** ibm (1), nlp (1)
 > **Warnings:** warning (2)
-> **Code Keywords:** let (1)
 
 
 ### 3. Working Smarter with AI in Your Nonprofit Role
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expanding responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/expanding-responsibilities?u=76281980)
@@ -822,6 +823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), ai (4), data (2), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 
 #### AI as a collaborative partner
@@ -909,8 +911,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (26), data (7), [[Real-Time]] (4), teams (2), [[Automation]] (2)
 > **Env Vars:** nlp (2), itl (1), gzai (1)
-> **Code Keywords:** let (1), require (1)
 > **Versions:** 7.5 (1)
 > **Analogies:** such as (1)
 
@@ -991,8 +993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), data (8), teams (5), [[Security]] (2), [[Privacy]] (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1046,8 +1048,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), data (5), [[Decision-Making]] (2), teams (2), power (2)
 > **Env Vars:** fair (1), ibm (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 
 #### AI use in fundraising
@@ -1089,7 +1091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (7), application (2), cloud (1), [[ChatGPT]] (1), [[Microsoft]] (1)
 
 #### AI use in communications and outreach
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980)
@@ -1188,8 +1190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (27), teams (8), [[Microsoft Copilot]] (6), data (4), [[ChatGPT]] (2)
 > **URLs:** [blaze.ai](https://blaze.ai) (1), [jasper.ai](https://jasper.ai) (1), [monday.com](https://monday.com) (1)
-> **Code Keywords:** let (1), public (1)
 > **Env Vars:** crm (1)
 > **Analogies:** such as (1)
 
@@ -1258,7 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (13), teams (6), [[Microsoft]] (3), [[Real-Time]] (2), [[Accountability]] (1)
 > **Tools:** notion (1)
 
 

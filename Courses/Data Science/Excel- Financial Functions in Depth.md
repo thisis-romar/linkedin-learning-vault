@@ -30,7 +30,7 @@ tags:
   - skill/financial-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Financial%20Functions%20in%20Depth.md)
@@ -49,65 +49,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Perform financial analysis in Excel
-  - What you should know
-  - Disclaimer
+  - [Perform financial analysis in Excel](#perform-financial-analysis-in-excel)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. Analyzing Loans, Payments, and Interest in Excel**](#1-analyzing-loans-payments-and-interest-in-excel) (8 videos)
-  - PMT: Calculate a loan payment
-  - PPMT and IPMT: Calculate the principal and interest payments
-  - Splitting interest and principal payments
-  - Splitting interest and principal payments with dynamic arrays
-  - CUMPRINC and CUMIPMT: Cumulative principal and interest
-  - EFFECT and NOMINAL: Nominal and effective interest rates
-  - RATE: Discover the interest rate of an annuity
-  - NPER: Calculate the number of periods in an investment
+  - [PMT: Calculate a loan payment](#pmt-calculate-a-loan-payment)
+  - [PPMT and IPMT: Calculate the principal and interest payments](#ppmt-and-ipmt-calculate-the-principal-and-interest-payments)
+  - [Splitting interest and principal payments](#splitting-interest-and-principal-payments)
+  - [Splitting interest and principal payments with dynamic arrays](#splitting-interest-and-principal-payments-with-dynamic-arrays)
+  - [CUMPRINC and CUMIPMT: Cumulative principal and interest](#cumprinc-and-cumipmt-cumulative-principal-and-interest)
+  - [EFFECT and NOMINAL: Nominal and effective interest rates](#effect-and-nominal-nominal-and-effective-interest-rates)
+  - [RATE: Discover the interest rate of an annuity](#rate-discover-the-interest-rate-of-an-annuity)
+  - [NPER: Calculate the number of periods in an investment](#nper-calculate-the-number-of-periods-in-an-investment)
 - [**2. Calculating Depreciation with Excel Functions**](#2-calculating-depreciation-with-excel-functions) (6 videos)
-  - SLN: Depreciation using the straight-line method
-  - DB: Calculate depreciation using the declining balance method
-  - DDB: Depreciation using the double-declining balance method
-  - SYD: Calculate depreciation for a specified period
-  - VDB: Declining balance depreciation for a partial period
-  - Comparing depreciation functions
+  - [SLN: Depreciation using the straight-line method](#sln-depreciation-using-the-straight-line-method)
+  - [DB: Calculate depreciation using the declining balance method](#db-calculate-depreciation-using-the-declining-balance-method)
+  - [DDB: Depreciation using the double-declining balance method](#ddb-depreciation-using-the-double-declining-balance-method)
+  - [SYD: Calculate depreciation for a specified period](#syd-calculate-depreciation-for-a-specified-period)
+  - [VDB: Declining balance depreciation for a partial period](#vdb-declining-balance-depreciation-for-a-partial-period)
+  - [Comparing depreciation functions](#comparing-depreciation-functions)
 - [**3. Determining Values and Rates of Return in Excel**](#3-determining-values-and-rates-of-return-in-excel) (10 videos)
-  - FV: Future value of an investment
-  - FVSCHEDULE: Future value with variable returns
-  - Escalating with compounding interest or growth rates
-  - PV: Present value of an investment
-  - NPV: Net present value of an investment
-  - XNPV: Net present value given irregular inputs
-  - IRR: Internal rate of return
-  - XIRR: Internal rate of return for irregular cash flows
-  - MIRR: Internal rate of return for mixed cash flows
-  - RRI: The interest rate for the growth of an investment
+  - [FV: Future value of an investment](#fv-future-value-of-an-investment)
+  - [FVSCHEDULE: Future value with variable returns](#fvschedule-future-value-with-variable-returns)
+  - [Escalating with compounding interest or growth rates](#escalating-with-compounding-interest-or-growth-rates)
+  - [PV: Present value of an investment](#pv-present-value-of-an-investment)
+  - [NPV: Net present value of an investment](#npv-net-present-value-of-an-investment)
+  - [XNPV: Net present value given irregular inputs](#xnpv-net-present-value-given-irregular-inputs)
+  - [IRR: Internal rate of return](#irr-internal-rate-of-return)
+  - [XIRR: Internal rate of return for irregular cash flows](#xirr-internal-rate-of-return-for-irregular-cash-flows)
+  - [MIRR: Internal rate of return for mixed cash flows](#mirr-internal-rate-of-return-for-mixed-cash-flows)
+  - [RRI: The interest rate for the growth of an investment](#rri-the-interest-rate-for-the-growth-of-an-investment)
 - [**4. New Tools in Excel for MS365**](#4-new-tools-in-excel-for-ms365) (10 videos)
-  - STOCKHISTORY: Get historical stock prices
-  - Live stock prices with Stocks data types
-  - Calculate exchange rates with the Currency data type
-  - FIELDVALUE: Get field data
-  - STOCKHISTORY with data types
-  - Charting STOCKHISTORY with data types
-  - Introduction to LAMBDA functions with BYCOL and BYROW
-  - Using BYCOL with multiple ranges
-  - Applying formatting to dynamic ranges
-  - Building a cumulative sum with SCAN
+  - [STOCKHISTORY: Get historical stock prices](#stockhistory-get-historical-stock-prices)
+  - [Live stock prices with Stocks data types](#live-stock-prices-with-stocks-data-types)
+  - [Calculate exchange rates with the Currency data type](#calculate-exchange-rates-with-the-currency-data-type)
+  - [FIELDVALUE: Get field data](#fieldvalue-get-field-data)
+  - [STOCKHISTORY with data types](#stockhistory-with-data-types)
+  - [Charting STOCKHISTORY with data types](#charting-stockhistory-with-data-types)
+  - [Introduction to LAMBDA functions with BYCOL and BYROW](#introduction-to-lambda-functions-with-bycol-and-byrow)
+  - [Using BYCOL with multiple ranges](#using-bycol-with-multiple-ranges)
+  - [Applying formatting to dynamic ranges](#applying-formatting-to-dynamic-ranges)
+  - [Building a cumulative sum with SCAN](#building-a-cumulative-sum-with-scan)
 - [**5. Combining Excel Functions Perform Financial Analysis**](#5-combining-excel-functions-perform-financial-analysis) (11 videos)
-  - TODAY, EOMONTH, EDATE, and timing flags
-  - Calculate pro-rata rental costs with date functions
-  - IF: Building logical comparisons
-  - Calculating the payback period
-  - Using RATE or RRI for compound annual growth rate (CAGR)
-  - Creating a debt schedule
-  - Using SLN and IF to calculate depreciation
-  - Creating a depreciation schedule
-  - Using dynamic arrays to create a depreciation waterfall
-  - Calcuating weighted average cost of capital (WACC)
-  - Using NPV to calculate a discounted cash flow (DCF)
+  - [TODAY, EOMONTH, EDATE, and timing flags](#today-eomonth-edate-and-timing-flags)
+  - [Calculate pro-rata rental costs with date functions](#calculate-pro-rata-rental-costs-with-date-functions)
+  - [IF: Building logical comparisons](#if-building-logical-comparisons)
+  - [Calculating the payback period](#calculating-the-payback-period)
+  - [Using RATE or RRI for compound annual growth rate (CAGR)](#using-rate-or-rri-for-compound-annual-growth-rate-cagr)
+  - [Creating a debt schedule](#creating-a-debt-schedule)
+  - [Using SLN and IF to calculate depreciation](#using-sln-and-if-to-calculate-depreciation)
+  - [Creating a depreciation schedule](#creating-a-depreciation-schedule)
+  - [Using dynamic arrays to create a depreciation waterfall](#using-dynamic-arrays-to-create-a-depreciation-waterfall)
+  - [Calcuating weighted average cost of capital (WACC)](#calcuating-weighted-average-cost-of-capital-wacc)
+  - [Using NPV to calculate a discounted cash flow (DCF)](#using-npv-to-calculate-a-discounted-cash-flow-dcf)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Great resources for learning Excel
+  - [Great resources for learning Excel](#great-resources-for-learning-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Perform financial analysis in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980)
@@ -128,6 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), career (2), [[Microsoft 365]] (1), [[Financial Modeling]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -159,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), function (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft 365]] (1), career (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -180,12 +181,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Planning]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Analyzing Loans, Payments, and Interest in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PMT: Calculate a loan payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980)
@@ -286,7 +288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), case, (1), type, (1)
+> **Frameworks & Libraries:** hit (2), [[Forecasting]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** pmt (7)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
@@ -355,8 +357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Financial Statements]] (1), next (1)
 > **Env Vars:** pmt (3), ipmt (3), ppmt (3)
-> **Code Keywords:** function (5), this. (1), let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
@@ -425,7 +427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2)
+> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** pmt (2), ipmt (1), sum (1)
 > **Non-Speech:** (typing loudly) (3)
 > **CLI Commands:** make (2)
@@ -491,8 +493,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sequence (2), ipmt (1), ppmt (1), pmt (1)
-> **Code Keywords:** function (4)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -544,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), case. (1), require (1), type. (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is an  (1), is a  (1), stands for (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -600,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), yield (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Versions:** 5.84 (2), 6.17 (2)
 > **Env Vars:** apr (1), apy (1)
 > **CLI Commands:** make (1)
@@ -652,7 +654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), case, (1), let (1), this. (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -703,7 +705,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), this. (1)
 > **Versions:** 6.25 (3), 24.71 (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -713,7 +714,7 @@ created: 2026-04-29
 
 ### 2. Calculating Depreciation with Excel Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SLN: Depreciation using the straight-line method
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/sln-depreciation-using-the-straight-line-method?u=76281980)
@@ -762,7 +763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** sln (1)
 > **Analogies:** for example (1)
@@ -821,7 +822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is called (1)
@@ -870,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** ddb (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -904,7 +905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** syd (2)
 > **Speakers:** - [instructor] (1)
 
@@ -953,7 +954,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), switch (2), let (1), case, (1)
 > **Env Vars:** vdb (4)
 > **Speakers:** - [instructor] (1)
 
@@ -1032,7 +1032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** syd (2), sln (1), pmt (1), ddb (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1042,7 +1042,7 @@ created: 2026-04-29
 
 ### 3. Determining Values and Rates of Return in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### FV: Future value of an investment
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fv-future-value-of-an-investment?u=76281980)
@@ -1097,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Env Vars:** pmt (1)
 > **Speakers:** - [instructor] (1)
@@ -1122,7 +1122,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** fvschedule (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1155,6 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -1174,7 +1174,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), type, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1255,7 +1254,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), this. (1), case, (1)
 > **Env Vars:** npv (7), wacc (1)
 > **Versions:** 6.2 (6)
 > **Definitions:** is a  (1), means that (1)
@@ -1263,6 +1261,7 @@ created: 2026-04-29
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Tools:** terminal (1)
+> **Analogies:** for example (1)
 
 #### XNPV: Net present value given irregular inputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/xnpv-net-present-value-given-irregular-inputs?u=76281980)
@@ -1297,7 +1296,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (1)
 > **Env Vars:** npv (4), xnpv (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1328,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), return. (2), return, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (1)
 > **Env Vars:** irr (3), rate (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1359,7 +1357,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** xirr (3), irr (2), npv (1)
-> **Code Keywords:** function (3), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1381,7 +1378,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), else. (1), return, (1)
 > **Env Vars:** mirr (2)
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
@@ -1413,7 +1409,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), function (1), return. (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Env Vars:** rri (1)
 > **Speakers:** - [instructor] (1)
@@ -1421,7 +1416,7 @@ created: 2026-04-29
 
 ### 4. New Tools in Excel for MS365
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### STOCKHISTORY: Get historical stock prices
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980)
@@ -1504,7 +1499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Google]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1), data (1)
 > **Env Vars:** stockhistory (2), today (2), sequence (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1587,7 +1582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1655,7 +1650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (1), this. (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), [[Google]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -1714,7 +1709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (4), this, (1), type, (1), this. (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2)
 > **Analogies:** for example (4), such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1767,7 +1762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (1)
+> **Frameworks & Libraries:** data (3), feature (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1870,7 +1865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), from, (1), else. (1), switch (1)
+> **Frameworks & Libraries:** data (7), next (1)
 > **Env Vars:** stockhistory (3), edate (2), fieldvalue (2), today (1), usd (1)
 > **UI Navigation:** go to (2), right-click (1), select the (1)
 > **CLI Commands:** make (1)
@@ -1938,7 +1933,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), lambda (5), let (1)
 > **Env Vars:** bycol (5), sum (4), byrow (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1970,7 +1964,6 @@ created: 2026-04-29
 >
 > **Env Vars:** bycol (4), sum (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Applying formatting to dynamic ranges
@@ -2002,7 +1995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [instructor] (1)
 
 #### Building a cumulative sum with SCAN
@@ -2044,7 +2037,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), lambda (3), this, (2), let (2)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
@@ -2053,7 +2045,7 @@ created: 2026-04-29
 
 ### 5. Combining Excel Functions Perform Financial Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### TODAY, EOMONTH, EDATE, and timing flags
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980)
@@ -2114,7 +2106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** edate (3), eomonth (3)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3)
@@ -2180,7 +2172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (1)
 > **Env Vars:** eomonth (2), sln (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2250,7 +2242,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), case, (2), if, (1), if. (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2308,8 +2299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2), [[Search]] (2)
 > **Env Vars:** npv (2), irr (2), scan (1), vlookup (1), lookup (1)
-> **Code Keywords:** function (3), let (1), this, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2412,7 +2403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), this. (1)
+> **Frameworks & Libraries:** power (2), [[Microsoft Excel|Excel]] (2), data (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** rri (2)
 > **Versions:** 16.57 (1), 7.77 (1)
@@ -2498,7 +2489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), require (1), lambda (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** pmt (1), ipmt (1), ppmt (1), scan (1)
 > **CLI Commands:** make (2)
 > **Versions:** 5.50 (1)
@@ -2575,9 +2566,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (1), next (1)
 > **Env Vars:** sln (5), eomonthmin (1), bycol (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** function (2), let (1), this. (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** in the next (1)
@@ -2693,7 +2684,6 @@ created: 2026-04-29
 >
 > **Env Vars:** sumifs (4), eomonth (2), sum (2), sequence (1), scan (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** function (6), let (2)
 > **Cross-References:** we discussed (1), go back to (1), previous chapter (1), we talked about (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (1), similar to (1)
@@ -2834,7 +2824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), this. (1), this, (1)
+> **Frameworks & Libraries:** power (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sln (1), slm (1)
@@ -2956,8 +2946,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), [[Microsoft]] (1)
 > **Env Vars:** wacc (6), capm (5), npv (4)
-> **Code Keywords:** let (9), return. (2), function (1), from. (1)
 > **Versions:** 12.9 (2), 10.4 (2), 8.89 (2), 0.96 (1), 0.9 (1)
 > **Definitions:** known as (2), is a  (1), means that (1)
 > **CLI Commands:** make (2)
@@ -3034,8 +3024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Financial Modeling]] (1)
 > **Env Vars:** dcf (4), wacc (3), npv (1)
-> **Code Keywords:** this, (1), continue (1), function (1)
 > **Tools:** terminal (3)
 > **Versions:** 10.2 (2)
 > **CLI Commands:** make (1)
@@ -3046,7 +3036,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Great resources for learning Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980)
@@ -3079,6 +3069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Financial Modeling]] (5), [[LinkedIn]] (3), business (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** mvp (1)
 > **Warnings:** watch out (1)

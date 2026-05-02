@@ -30,7 +30,7 @@ tags:
   - skill/virtual-machines
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Manage%20Virtual%20Machines%20in%20Azure.md)
@@ -49,61 +49,61 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Azure VM management
-  - What you should know
+  - [Azure VM management](#azure-vm-management)
+  - [What you should know](#what-you-should-know)
 - [**1. Azure VM Basics**](#1-azure-vm-basics) (4 videos)
-  - Create an Azure VM
-  - Create an Azure VM with a preset configuration
-  - Connect to a Windows virtual machine
-  - Connect to a Linux virtual machine
+  - [Create an Azure VM](#create-an-azure-vm)
+  - [Create an Azure VM with a preset configuration](#create-an-azure-vm-with-a-preset-configuration)
+  - [Connect to a Windows virtual machine](#connect-to-a-windows-virtual-machine)
+  - [Connect to a Linux virtual machine](#connect-to-a-linux-virtual-machine)
 - [**2. Architecture**](#2-architecture) (5 videos)
-  - Understand VM availability options
-  - Choose a VM's architecture and size
-  - Work with spot instances
-  - Reserve VM capacity
-  - Create proximity placement groups
+  - [Understand VM availability options](#understand-vm-availability-options)
+  - [Choose a VM's architecture and size](#choose-a-vms-architecture-and-size)
+  - [Work with spot instances](#work-with-spot-instances)
+  - [Reserve VM capacity](#reserve-vm-capacity)
+  - [Create proximity placement groups](#create-proximity-placement-groups)
 - [**3. Security and Identity**](#3-security-and-identity) (5 videos)
-  - Choose a VM's security type
-  - Assign port rules to a VM
-  - Create managed identities
-  - Connect a VM to the AD
-  - Grant an Azure AD user logon permission
+  - [Choose a VM's security type](#choose-a-vms-security-type)
+  - [Assign port rules to a VM](#assign-port-rules-to-a-vm)
+  - [Create managed identities](#create-managed-identities)
+  - [Connect a VM to the AD](#connect-a-vm-to-the-ad)
+  - [Grant an Azure AD user logon permission](#grant-an-azure-ad-user-logon-permission)
 - [**4. Storage**](#4-storage) (2 videos)
-  - Create and attach a new disk
-  - Attach an existing disk
+  - [Create and attach a new disk](#create-and-attach-a-new-disk)
+  - [Attach an existing disk](#attach-an-existing-disk)
 - [**5. Virtual Machine Management, Maintenance, and Protection**](#5-virtual-machine-management-maintenance-and-protection) (5 videos)
-  - Enable disaster recovery
-  - Virtual machine patching and hot patching
-  - Shut down virtual machines automatically
-  - Boot diagnostics and alerting
-  - VM tagging
+  - [Enable disaster recovery](#enable-disaster-recovery)
+  - [Virtual machine patching and hot patching](#virtual-machine-patching-and-hot-patching)
+  - [Shut down virtual machines automatically](#shut-down-virtual-machines-automatically)
+  - [Boot diagnostics and alerting](#boot-diagnostics-and-alerting)
+  - [VM tagging](#vm-tagging)
 - [**6. Networking**](#6-networking) (5 videos)
-  - Create a virtual network
-  - Create a subnet
-  - Create a public IP address
-  - Create a virtual network firewall
-  - Create firewall rules
+  - [Create a virtual network](#create-a-virtual-network)
+  - [Create a subnet](#create-a-subnet)
+  - [Create a public IP address](#create-a-public-ip-address)
+  - [Create a virtual network firewall](#create-a-virtual-network-firewall)
+  - [Create firewall rules](#create-firewall-rules)
 - [**7. Applications and Customization**](#7-applications-and-customization) (2 videos)
-  - Deploy VM extensions
-  - Instal applications on Azure VMs
+  - [Deploy VM extensions](#deploy-vm-extensions)
+  - [Instal applications on Azure VMs](#instal-applications-on-azure-vms)
 - [**8. Working with VMs**](#8-working-with-vms) (11 videos)
-  - Start, stop, and restart VMs
-  - Make a configuration change to a VM
-  - Monitoring VM performance
-  - Create alert rules
-  - Back up a virtual machine
-  - Restore a VM backup
-  - Monitor VM patching
-  - Use Azure Advisor to check best practice compliance
-  - Examine the VM topology map
-  - Where to learn more
-  - Delete a VM
+  - [Start, stop, and restart VMs](#start-stop-and-restart-vms)
+  - [Make a configuration change to a VM](#make-a-configuration-change-to-a-vm)
+  - [Monitoring VM performance](#monitoring-vm-performance)
+  - [Create alert rules](#create-alert-rules)
+  - [Back up a virtual machine](#back-up-a-virtual-machine)
+  - [Restore a VM backup](#restore-a-vm-backup)
+  - [Monitor VM patching](#monitor-vm-patching)
+  - [Use Azure Advisor to check best practice compliance](#use-azure-advisor-to-check-best-practice-compliance)
+  - [Examine the VM topology map](#examine-the-vm-topology-map)
+  - [Where to learn more](#where-to-learn-more)
+  - [Delete a VM](#delete-a-vm)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to learn more
+  - [Where to learn more](#where-to-learn-more)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure VM management
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980)
@@ -122,6 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Microsoft Azure|Azure]] (4), [[LinkedIn]] (2), [[Microsoft Azure]] (1), [[Microsoft]] (1)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -144,13 +145,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (3), cloud (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Azure VM Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an Azure VM
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980)
@@ -231,8 +233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Microsoft Azure|Azure]] (5), next (3), [[Windows]] (2), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (6), scroll down (2), select the (1)
-> **Code Keywords:** default. (1), else. (1), public (1)
 > **Prerequisites:** getting started (1), you'll need (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -344,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (3), continue (2), let (2), require (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Linux]] (5), [[Microsoft Azure|Azure]] (3), [[Hardware]] (2), [[Windows]] (2)
 > **UI Navigation:** go to (3), click on (3), scroll down (2), open the (1)
 > **CLI Commands:** ssh (5), make (2)
 > **Env Vars:** ssh (5), rsa (1)
@@ -419,9 +421,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Azure|Azure]] (5), next (2), [[Microsoft]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** rdp (7)
 > **UI Navigation:** click on (7)
-> **Code Keywords:** let (2), case, (2), this. (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
@@ -524,7 +526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), case, (1), private (1), switch (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Powershell]] (4), next (2), [[Microsoft Azure|Azure]] (2), [[Windows]] (1)
 > **CLI Commands:** ssh (8), find (1)
 > **Env Vars:** ssh (7), cls (1)
 > **UI Navigation:** click on (3), go to (2), right-click (2)
@@ -536,7 +538,7 @@ created: 2026-04-29
 
 ### 2. Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand VM availability options
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980)
@@ -607,9 +609,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (7), [[Microsoft Azure|Azure]] (6), application (4), business (1), power (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), continue (1)
 > **Env Vars:** sla (1)
 > **Versions:** 99.95 (1)
 > **UI Navigation:** click on (1)
@@ -697,7 +699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), default, (2), let (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (3), [[Hardware]] (2), data (2), [[Windows]] (2)
 > **Env Vars:** arm (1), d2s (1), ram (1), iops (1)
 > **UI Navigation:** click on (2), scroll down (1), select the (1)
 > **CLI Commands:** find (1)
@@ -807,7 +809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), data (4), [[Microsoft]] (4), [[Virtual Machines]] (2), [[Microsoft Azure]] (1)
 > **UI Navigation:** scroll down (1), checkbox (1)
 > **Definitions:** is an  (1), in other words (1)
 > **CLI Commands:** make (1)
@@ -897,8 +899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), next (2), [[Microsoft]] (2)
 > **UI Navigation:** click on (3), select the (2), dropdown (1)
-> **Code Keywords:** delete (1), for. (1), case, (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** known as (1), in other words (1)
 > **Env Vars:** csp (1)
@@ -979,8 +981,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), next (5), application (3), [[Virtual Machines]] (2), [[Search]] (1)
 > **UI Navigation:** click on (6), select the (2), scroll down (1)
-> **Code Keywords:** let (1), finally, (1), this, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** msdn (1)
@@ -991,7 +993,7 @@ created: 2026-04-29
 
 ### 3. Security and Identity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose a VM's security type
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980)
@@ -1072,7 +1074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (4), type, (2), default. (2), let (1), module (1)
+> **Frameworks & Libraries:** [[Security]] (26), [[Virtual Machines]] (7), [[Microsoft Azure|Azure]] (3), [[Microsoft]] (3), feature (2)
 > **Env Vars:** tpm (6)
 > **UI Navigation:** click on (3), select the (1), checkbox (1)
 > **Definitions:** stands for (1), refers to (1)
@@ -1186,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (22), delete (3), let (2), default, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), traffic (3), [[Microsoft]] (1), web (1), [[Security]] (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** tcp (3)
@@ -1278,8 +1280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft Entra ID|Azure active directory]] (4), management (3), [[Virtual Machines]] (3), [[Tokens]] (1)
 > **UI Navigation:** click on (6), checkbox (3)
-> **Code Keywords:** let (2), delete (1), this, (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Tools:** azure portal (1)
@@ -1362,6 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Entra ID|Azure ad]] (5), [[Active Directory]] (4), [[Windows]] (3), next (3)
 > **UI Navigation:** click on (3), checkbox (3), scroll up (1), go to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
@@ -1439,10 +1442,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft Entra ID|Azure active directory]] (2), next (2), [[Microsoft Azure]] (1), [[Search]] (1)
 > **UI Navigation:** click on (9), go to (1)
 > **Cross-References:** previous video (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** iam (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1450,7 +1453,7 @@ created: 2026-04-29
 
 ### 4. Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and attach a new disk
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980)
@@ -1559,8 +1562,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), data (3), [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (2), application (1)
 > **UI Navigation:** checkbox (7), click on (4), go to (3), scroll down (2), select the (1)
-> **Code Keywords:** delete (4), for. (1), else, (1), type. (1), default, (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
@@ -1619,16 +1622,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Azure|Azure]] (2), [[Windows]] (1)
 > **UI Navigation:** click on (4), go to (3), select the (2), scroll down (1)
 > **Cross-References:** previous video (2), as you saw (1)
-> **Code Keywords:** delete (1), let (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Virtual Machine Management, Maintenance, and Protection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable disaster recovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980)
@@ -1769,8 +1772,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Microsoft Azure|Azure]] (7), [[Virtual Machines]] (2), next (2), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (6), scroll down (4), select the (1), dropdown (1)
-> **Code Keywords:** this. (2), type. (2), let (2), protected (1)
 > **Prerequisites:** configure (3), setup (1)
 > **Cross-References:** earlier in (1), in the last (1)
 > **CLI Commands:** find (1)
@@ -1867,7 +1870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), default, (1), this. (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (11), [[Windows]] (11), management (9), [[Microsoft Azure|Azure]] (7), [[Orchestration]] (4)
 > **UI Navigation:** scroll down (2), select the (1), checkbox (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** install (1), you need to have (1)
@@ -1911,8 +1914,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (9), [[Microsoft Azure|Azure]] (4), business (1), management (1)
 > **UI Navigation:** click on (6), scroll down (2), checkbox (1), go to (1)
-> **Code Keywords:** default, (2), let (1)
 > **Env Vars:** utc (2), iops (1)
 > **CLI Commands:** make (1)
 > **Ports:** :00 (1)
@@ -2009,9 +2012,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (2), next (2)
 > **UI Navigation:** checkbox (5), select the (3), dropdown (2), click on (2), scroll down (1)
 > **Prerequisites:** configure (5)
-> **Code Keywords:** let (1), default. (1), type, (1), static (1)
 > **Env Vars:** cpu (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -2095,7 +2098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (2), case, (2), for. (1), super (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (6), [[Microsoft Azure|Azure]] (5), next (2), cloud (1), [[Security]] (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), imagine (1)
@@ -2106,7 +2109,7 @@ created: 2026-04-29
 
 ### 6. Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a virtual network
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980)
@@ -2189,7 +2192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default. (1), interface (1)
+> **Frameworks & Libraries:** next (7), [[Microsoft Azure]] (4), [[Security]] (4), [[Virtual Machines]] (2), [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** click on (3), go to (2), dropdown (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Tools:** azure portal (2)
@@ -2270,8 +2273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Network Security]] (1), [[Routing]] (1), [[Microsoft Azure]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** click on (6), select the (1), go to (1)
-> **Code Keywords:** let (3), default, (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** nat (1)
@@ -2352,7 +2355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (13), let (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Virtual Machines]] (3), [[Microsoft Azure]] (2), [[Windows]] (1), [[Search]] (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
@@ -2456,7 +2459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), default. (2), interface (1), new, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (1), next (1), management (1)
 > **UI Navigation:** click on (5), select the (1), go to (1), scroll down (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -2537,8 +2540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), next (2), web (2), traffic (2)
 > **Env Vars:** tcp (3), dnat (2)
-> **Code Keywords:** let (1), type, (1), from. (1)
 > **Ports:** port 80 (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** in other words (1), means that (1)
@@ -2549,7 +2552,7 @@ created: 2026-04-29
 
 ### 7. Applications and Customization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploy VM extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980)
@@ -2668,10 +2671,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (2), next (2), [[Windows]] (2)
 > **UI Navigation:** click on (3), scroll down (2), go to (1), scroll up (1)
 > **Prerequisites:** install (6), you'll need (1)
 > **Env Vars:** amd (2), gpu (2), url (1)
-> **Code Keywords:** let (1), case, (1)
 > **Cross-References:** go back to (1), earlier in (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -2814,10 +2817,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (34), [[Microsoft Azure|Azure]] (13), [[Windows]] (3), next (2), [[Microsoft Azure]] (2)
 > **UI Navigation:** click on (11), go to (2), scroll down (1), scroll up (1), select the (1)
 > **Prerequisites:** install (10), you'll need (3), set up (1), configure (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (2), if, (1)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
@@ -2826,7 +2829,7 @@ created: 2026-04-29
 
 ### 8. Working with VMs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start, stop, and restart VMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980)
@@ -2889,8 +2892,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure]] (3), [[Virtual Machines]] (3), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (4), select the (1), checkbox (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Make a configuration change to a VM
@@ -2934,9 +2937,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), delete (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3055,9 +3058,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (2), [[Hardware]] (1), [[Performance Metrics]] (1)
 > **UI Navigation:** click on (7), scroll down (5)
 > **Prerequisites:** configure (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** cpu (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -3219,10 +3222,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), next (2), [[Virtual Machines]] (1), [[Microsoft]] (1), data (1)
 > **Env Vars:** cpu (9), iops (2)
 > **UI Navigation:** click on (7), scroll down (1), go to (1)
 > **Prerequisites:** set up (6), configure (1)
-> **Code Keywords:** let (3), default. (1), interface (1), case, (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** in other words (2), is a  (1)
 > **Best Practices:** recommended (3)
@@ -3317,7 +3320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (2), let (1), from, (1), this. (1), default, (1)
+> **Frameworks & Libraries:** next (4), [[Microsoft Azure|Azure]] (2), application (1), [[Microsoft]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** scroll down (3), click on (2)
 > **Ports:** :00 (1)
 > **Definitions:** means that (1)
@@ -3449,7 +3452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), application (1), next (1), [[Powershell]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Cross-References:** go back to (1)
 > **Tools:** powershell (1)
@@ -3577,8 +3580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[Virtual Machines]] (4), [[Windows]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (9), scroll down (2), go to (1)
-> **Code Keywords:** interface (2), let (1), case, (1), default, (1)
 > **Prerequisites:** install (2), set up (1), configure (1)
 > **CLI Commands:** find (3)
 > **Definitions:** means that (1), is a  (1)
@@ -3643,10 +3646,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Azure|Azure]] (5), data (2), [[Microsoft Azure]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Examine the VM topology map
@@ -3702,8 +3705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft]] (1), [[Virtual Machines]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (5), navigate to (1)
-> **Code Keywords:** let (3), this. (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3748,9 +3751,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Virtual Machines]] (5), [[Search]] (2), cloud (2), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (2), open the (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
@@ -3784,7 +3787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (12), let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Virtual Machines]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** select the (3), checkbox (2), click on (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -3792,7 +3795,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980)
@@ -3813,6 +3816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Virtual Machines]] (1), [[Microsoft Products]] (1), [[LinkedIn]] (1), [[Windows]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

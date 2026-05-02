@@ -43,7 +43,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Boost%20Your%20Productivity%20with%20AI%20Tools%20(2023).md)
@@ -62,31 +62,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AI is a dream for productivity
+  - [AI is a dream for productivity](#ai-is-a-dream-for-productivity)
 - [**1. Your Approach to Using AI in Business**](#1-your-approach-to-using-ai-in-business) (5 videos)
-  - The two reasons to use AI in business
-  - Identifying opportunities to benefit from AI
-  - A different approach to AI prompt writing
-  - Taking responsibility for the output of AI
-  - Organizing your AI prompts
+  - [The two reasons to use AI in business](#the-two-reasons-to-use-ai-in-business)
+  - [Identifying opportunities to benefit from AI](#identifying-opportunities-to-benefit-from-ai)
+  - [A different approach to AI prompt writing](#a-different-approach-to-ai-prompt-writing)
+  - [Taking responsibility for the output of AI](#taking-responsibility-for-the-output-of-ai)
+  - [Organizing your AI prompts](#organizing-your-ai-prompts)
 - [**2. AI Prompts to Make Your Job Easier**](#2-ai-prompts-to-make-your-job-easier) (5 videos)
-  - Using AI to respond to an email
-  - Using AI to help plan a project
-  - Using AI to convert text to HTML markup
-  - Using AI to turn a document into a presentation
-  - Using AI to come up with relevant social posts
+  - [Using AI to respond to an email](#using-ai-to-respond-to-an-email)
+  - [Using AI to help plan a project](#using-ai-to-help-plan-a-project)
+  - [Using AI to convert text to HTML markup](#using-ai-to-convert-text-to-html-markup)
+  - [Using AI to turn a document into a presentation](#using-ai-to-turn-a-document-into-a-presentation)
+  - [Using AI to come up with relevant social posts](#using-ai-to-come-up-with-relevant-social-posts)
 - [**3. AI Prompts to Help Make Your Work Better**](#3-ai-prompts-to-help-make-your-work-better) (5 videos)
-  - Using AI to help generate ideas
-  - Using AI to start a mind map
-  - Using AI to improve your arguments
-  - Using AI to challenge conventional thinking
-  - Using AI to help you present ideas to decision makers
+  - [Using AI to help generate ideas](#using-ai-to-help-generate-ideas)
+  - [Using AI to start a mind map](#using-ai-to-start-a-mind-map)
+  - [Using AI to improve your arguments](#using-ai-to-improve-your-arguments)
+  - [Using AI to challenge conventional thinking](#using-ai-to-challenge-conventional-thinking)
+  - [Using AI to help you present ideas to decision makers](#using-ai-to-help-you-present-ideas-to-decision-makers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI is a dream for productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/ai-is-a-dream-for-productivity?u=76281980)
@@ -125,8 +125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), prompt (1), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -134,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Your Approach to Using AI in Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The two reasons to use AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/the-two-reasons-to-use-ai-in-business?u=76281980)
@@ -219,8 +219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (3), [[Microsoft Excel|Excel]] (1), game (1), [[HTML]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Env Vars:** html (1)
 > **Prerequisites:** you'll need (1)
@@ -278,7 +278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (2), [[Generative AI]] (1), prompt (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
@@ -352,8 +352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), this, (2), this
-{ (1), for. (1)
+> **Frameworks & Libraries:** prompt (10), ai (2), [[ChatGPT]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Env Vars:** gpt (1)
@@ -395,9 +394,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Generative AI Tools]] (1), [[ChatGPT]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Analogies:** just like (1)
 > **Best Practices:** remember to (1)
 
@@ -474,8 +473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), [[ChatGPT]] (2), chatbot (2), next (2), web (1)
 > **CLI Commands:** find (5), make (1)
-> **Code Keywords:** let (2), interface (1), finally, (1), for. (1)
 > **Env Vars:** seo (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** double-click (1)
@@ -484,7 +483,7 @@ created: 2026-04-29
 
 ### 2. AI Prompts to Make Your Job Easier
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to respond to an email
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/using-ai-to-respond-to-an-email?u=76281980)
@@ -681,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for. (2), require (1), this { (1)
+> **Frameworks & Libraries:** ai (6), prompt (3), data (2), next (2), [[Newsletters]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Definitions:** means that (1), is a  (1)
 > **Exercise Files:** template (1)
@@ -829,8 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for
-{ (1), continue (1), this, (1), from. (1)
+> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (3), ai (3), [[GPT-4]] (1), teams (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (2)
 > **Versions:** 3.5 (2)
@@ -936,7 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), super (1), return. (1), this { (1)
+> **Frameworks & Libraries:** [[HTML]] (4), prompt (3), seo (3), ai (3), web (2)
 > **Env Vars:** html (4), seo (3)
 > **CLI Commands:** make (3)
 > **Analogies:** it's like (1)
@@ -1044,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this { (2), continue (1)
+> **Frameworks & Libraries:** prompt (5), ai (4), [[ChatGPT]] (3), business (1), teams (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -1178,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), this. (1)
+> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (3), web (2), [[Search]] (1), business (1)
 > **CLI Commands:** find (4), make (4)
 > **Definitions:** is an  (2)
 > **Analogies:** picture (1), imagine (1)
@@ -1186,7 +1184,7 @@ created: 2026-04-29
 
 ### 3. AI Prompts to Help Make Your Work Better
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to help generate ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/using-ai-to-help-generate-ideas?u=76281980)
@@ -1331,7 +1329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (2), continue (2)
+> **Frameworks & Libraries:** ai (5), prompt (5), [[ChatGPT]] (2), teams (1), generic (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
@@ -1405,7 +1403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** node (3), prompt (2), [[ChatGPT]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (3), make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
@@ -1471,7 +1469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (2), [[Search]] (1), data (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** coming up (2)
 
@@ -1536,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (1)
+> **Frameworks & Libraries:** prompt (3), business (2)
 > **Analogies:** such as (1)
 
 #### Using AI to help you present ideas to decision makers
@@ -1640,14 +1638,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
+> **Frameworks & Libraries:** prompt (3), product (2), [[ChatGPT]] (1), [[Security]] (1), [[Sustainability]] (1)
 > **Env Vars:** ceo (1), cfo (1), coo (1)
 > **CLI Commands:** make (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/summary-and-next-steps?u=76281980)
@@ -1672,6 +1670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Generative AI Tools]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
 

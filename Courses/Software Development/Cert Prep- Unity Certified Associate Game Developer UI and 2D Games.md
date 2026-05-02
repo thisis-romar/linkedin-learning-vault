@@ -30,7 +30,7 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20UI%20and%202D%20Games.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - Companion files
+  - [Welcome](#welcome)
+  - [Companion files](#companion-files)
 - [**1. UI Fundamentals**](#1-ui-fundamentals) (5 videos)
-  - 2D projects and user interfaces
-  - Canvas and event systems
-  - Creating a background and panel
-  - Creating labels and text
-  - Canvas groups
+  - [2D projects and user interfaces](#2d-projects-and-user-interfaces)
+  - [Canvas and event systems](#canvas-and-event-systems)
+  - [Creating a background and panel](#creating-a-background-and-panel)
+  - [Creating labels and text](#creating-labels-and-text)
+  - [Canvas groups](#canvas-groups)
 - [**2. UI and Game Design**](#2-ui-and-game-design) (5 videos)
-  - Configuring sprite images
-  - Creating buttons
-  - Button states
-  - Handling button clicks
-  - Layouts
+  - [Configuring sprite images](#configuring-sprite-images)
+  - [Creating buttons](#creating-buttons)
+  - [Button states](#button-states)
+  - [Handling button clicks](#handling-button-clicks)
+  - [Layouts](#layouts)
 - [**3. Sprites and 2D**](#3-sprites-and-2d) (4 videos)
-  - Exploring 2D games
-  - Importing sprites and sprite sheets
-  - Creating sprite animations
-  - Sprites and 2D physics
+  - [Exploring 2D games](#exploring-2d-games)
+  - [Importing sprites and sprite sheets](#importing-sprites-and-sprite-sheets)
+  - [Creating sprite animations](#creating-sprite-animations)
+  - [Sprites and 2D physics](#sprites-and-2d-physics)
 - [**4. 2D and Tiles**](#4-2d-and-tiles) (4 videos)
-  - Importing and creating tilesets
-  - Configuring 2D worlds
-  - Painting level layouts
-  - Working with 2D tiles
+  - [Importing and creating tilesets](#importing-and-creating-tilesets)
+  - [Configuring 2D worlds](#configuring-2d-worlds)
+  - [Painting level layouts](#painting-level-layouts)
+  - [Working with 2D tiles](#working-with-2d-tiles)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/welcome?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Companion files
@@ -127,15 +127,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (4), [[LinkedIn]] (2)
 > **Exercise Files:** exercise files (5)
 > **CLI Commands:** find (3)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. UI Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 2D projects and user interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980)
@@ -262,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), default, (2), super (1), this, (1)
+> **Frameworks & Libraries:** [[Unity]] (17), game (6), hit (2), next (1), web (1)
 > **UI Navigation:** select the (3), click on (2), dropdown (2)
 > **Exercise Files:** template (4), exercise files (3)
 > **Versions:** 2020.1.10 (2)
@@ -392,7 +392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), default, (3), case, (3), else. (2), delete (1)
+> **Frameworks & Libraries:** game (6), next (3), [[Unity]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (3)
 > **Definitions:** is a  (3)
@@ -510,8 +510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (5), [[Unity]] (1), hit (1), next (1)
 > **UI Navigation:** select the (4), drag and drop (3)
-> **Code Keywords:** let (2), interface (1), delete (1), this, (1), this. (1)
 > **CLI Commands:** make (1), snap (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -640,7 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (3), this, (2), this. (1), case, (1)
+> **Frameworks & Libraries:** game (8), [[Zoom]] (2), [[Unity]] (1)
 > **UI Navigation:** select the (4), scroll down (2), click on (2), dropdown (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (1)
@@ -701,7 +701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), case, (1), case. (1), this. (1)
+> **Frameworks & Libraries:** next (2), [[Unity]] (1), game (1)
 > **UI Navigation:** select the (2), go to (1), scroll down (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** means that (1), is a  (1)
@@ -712,7 +712,7 @@ created: 2026-04-29
 
 ### 2. UI and Game Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring sprite images
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/configuring-sprite-images?u=76281980)
@@ -773,7 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), case, (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **UI Navigation:** select the (2), click on (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Prerequisites:** configure (2)
@@ -870,7 +870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), default. (1), raise (1), this. (1)
+> **Frameworks & Libraries:** game (8), [[Unity]] (2), next (2), [[Zoom]] (2), feature (1)
 > **UI Navigation:** select the (3), click on (2)
 > **Prerequisites:** configure (4), set up (1)
 > **Analogies:** kind of like (2), such as (1)
@@ -980,9 +980,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), data (1), next (1)
 > **UI Navigation:** click on (3), select the (1), dropdown (1), switch to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -1160,8 +1160,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (10), [[Unity]] (2), next (2), [[Scripting]] (1), hit (1)
 > **UI Navigation:** click on (4), select the (3), drag and drop (2), scroll down (2), toggle (1)
-> **Code Keywords:** interface (3), case, (2), function (2), continue (1), let (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1259,7 +1259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), delete (2), let (2), case, (2), new, (1)
+> **Frameworks & Libraries:** game (3), next (1), [[Unity]] (1)
 > **UI Navigation:** dropdown (2), click on (1), right-click (1), drag and drop (1), select the (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Analogies:** for example (2)
@@ -1269,7 +1269,7 @@ created: 2026-04-29
 
 ### 3. Sprites and 2D
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring 2D games
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980)
@@ -1342,10 +1342,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (9), [[Unity]] (5), hit (2), web (1), [[Search]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** switch (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1469,8 +1469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (4), [[Zoom]] (1), [[Vertex]] (1), [[Mesh]] (1), next (1)
 > **UI Navigation:** select the (6), drag and drop (4), navigate to (1), right-click (1)
-> **Code Keywords:** this, (2), default. (2), switch (1), case, (1), default, (1)
 > **CLI Commands:** make (6), find (1)
 > **Exercise Files:** exercise files (2)
 > **Env Vars:** png (1)
@@ -1639,9 +1639,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), hit (7), data (6), [[Unity]] (3), game (2)
 > **UI Navigation:** select the (6), drag and drop (3), in the menu (1), checkbox (1), click on (1)
 > **CLI Commands:** node (9), make (2)
-> **Code Keywords:** delete (2), let (2), case, (2), this, (1), default, (1)
 > **Versions:** 0.5 (1), 1.4 (1), 1.2 (1)
 > **Definitions:** means that (3)
 > **Cross-References:** go back to (1)
@@ -1769,7 +1769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), switch (1)
+> **Frameworks & Libraries:** [[Unity]] (2), hit (2), next (1), [[Zoom]] (1), game (1)
 > **UI Navigation:** select the (3), scroll down (1), switch to (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (3)
@@ -1781,7 +1781,7 @@ created: 2026-04-29
 
 ### 4. 2D and Tiles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing and creating tilesets
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-and-creating-tilesets?u=76281980)
@@ -1952,7 +1952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (3), case, (2), default, (1), interface (1)
+> **Frameworks & Libraries:** [[Unity]] (6), game (1), hit (1), next (1)
 > **UI Navigation:** drag and drop (3), click on (2), select the (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** env (1)
@@ -2068,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), continue (2), let (1), case. (1), this, (1)
+> **Frameworks & Libraries:** game (3), [[Unity]] (1), data (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** select the (2), click on (1), switch to (1)
 > **Analogies:** for example (3), kind of like (1)
@@ -2150,7 +2150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (3), let (2), this, (1)
+> **Frameworks & Libraries:** hit (3), data (3), next (2), game (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** click on (1), select the (1)
 > **CLI Commands:** find (1)
@@ -2237,7 +2237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), this, (1), let (1)
+> **Frameworks & Libraries:** hit (3), [[Mesh]] (1), [[Zoom]] (1), [[Vertex]] (1)
 > **UI Navigation:** right-click (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -2247,7 +2247,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/next-steps?u=76281980)
@@ -2268,7 +2268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2)
+> **Frameworks & Libraries:** [[Unity]] (6), [[LinkedIn]] (2)
 > **Prerequisites:** set up (1), configure (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

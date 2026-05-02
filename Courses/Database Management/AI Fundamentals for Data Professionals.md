@@ -27,7 +27,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/AI%20Fundamentals%20for%20Data%20Professionals.md)
@@ -46,34 +46,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction
+  - [Introduction](#introduction)
 - [**1. Introduction to AI and Machine Learning**](#1-introduction-to-ai-and-machine-learning) (4 videos)
-  - AI and machine learning overview
-  - Types of machine learning
-  - Popular AI and ML tools
-  - AI applications and use cases
+  - [AI and machine learning overview](#ai-and-machine-learning-overview)
+  - [Types of machine learning](#types-of-machine-learning)
+  - [Popular AI and ML tools](#popular-ai-and-ml-tools)
+  - [AI applications and use cases](#ai-applications-and-use-cases)
 - [**2. Data and Feature Engineering**](#2-data-and-feature-engineering) (4 videos)
-  - Data types and sources
-  - Exploratory data analysis (EDA)
-  - Data preprocessing techniques
-  - Feature engineering
+  - [Data types and sources](#data-types-and-sources)
+  - [Exploratory data analysis (EDA)](#exploratory-data-analysis-eda)
+  - [Data preprocessing techniques](#data-preprocessing-techniques)
+  - [Feature engineering](#feature-engineering)
 - [**3. High-Level Machine Learning Techniques**](#3-high-level-machine-learning-techniques) (5 videos)
-  - Supervised learning overview
-  - Unsupervised learning overview
-  - Reinforcement learning overview
-  - Deep learning overview: Part 1
-  - Deep learning overview: Part 2
+  - [Supervised learning overview](#supervised-learning-overview)
+  - [Unsupervised learning overview](#unsupervised-learning-overview)
+  - [Reinforcement learning overview](#reinforcement-learning-overview)
+  - [Deep learning overview: Part 1](#deep-learning-overview-part-1)
+  - [Deep learning overview: Part 2](#deep-learning-overview-part-2)
 - [**4. Implementation and Future Trends**](#4-implementation-and-future-trends) (4 videos)
-  - Model evaluation and validation
-  - AI project lifecycle
-  - AI ethics and bias: Part 1
-  - AI ethics and bias: Part 2
+  - [Model evaluation and validation](#model-evaluation-and-validation)
+  - [AI project lifecycle](#ai-project-lifecycle)
+  - [AI ethics and bias: Part 1](#ai-ethics-and-bias-part-1)
+  - [AI ethics and bias: Part 2](#ai-ethics-and-bias-part-2)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Bring it all together
+  - [Bring it all together](#bring-it-all-together)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980)
@@ -100,14 +100,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1), next (1)
 > **Env Vars:** ssl (1)
 > **Speakers:** - i (1)
 
 
 ### 1. Introduction to AI and Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and machine learning overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980)
@@ -164,8 +164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Algorithms]] (4), [[Deep Learning]] (4)
 > **Analogies:** for example (3), just like (1)
-> **Code Keywords:** self (1), class, (1), continue (1)
 > **Env Vars:** rpa (1), ibm (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -236,7 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1), type. (1)
+> **Frameworks & Libraries:** data (9), ai (4), [[Supervised Learning]] (4), [[Reinforcement Learning]] (3), [[Algorithms]] (2)
 > **CLI Commands:** cat (1), find (1)
 > **Cross-References:** previous video (1), we discussed (1)
 > **Definitions:** is a  (2)
@@ -322,9 +322,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Python (Programming Language)|Python]] (4), [[PyTorch]] (4), [[Algorithms]] (2), [[Hugging Face]] (2)
 > **Env Vars:** nlp (2), sql (1), api (1), bert (1), gpt (1)
 > **CLI Commands:** python (4), make (1)
-> **Code Keywords:** let (3), case. (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
@@ -375,16 +375,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Deep Learning]] (2), business (2), [[Microsoft Products|Products]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Env Vars:** flowers (1), ibm (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - ai (1)
 
 
 ### 2. Data and Feature Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data types and sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980)
@@ -455,7 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (3)
+> **Frameworks & Libraries:** data (31), [[SQL]] (5), ai (2), [[Databases]] (2), [[Algorithms]] (2)
 > **Env Vars:** sql (5), nlp (1)
 > **CLI Commands:** make (1), python (1)
 > **Best Practices:** the key is (1), remember to (1)
@@ -524,11 +524,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), feature (2), [[Statistics]] (1), next (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** eda (6)
 > **Analogies:** such as (2), think of it as (1), for example (1), imagine (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is an  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - exploratory (1)
 
 #### Data preprocessing techniques
@@ -604,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), case. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (11), [[Algorithms]] (2), [[Pandas (Software)|Pandas]] (2), feature (1), [[Forecasting]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** tfidf (1)
 > **Definitions:** is a  (1)
@@ -677,8 +677,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), feature (6), [[Feature Engineering]] (4), [[Pandas (Software)|Pandas]] (1), [[Engineering]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** don't forget (1)
@@ -687,7 +687,7 @@ created: 2026-04-29
 
 ### 3. High-Level Machine Learning Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supervised learning overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980)
@@ -756,7 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), function (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (12), data (9), [[Algorithms]] (4), [[Linear Regression]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -827,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (11), [[E-Commerce]] (3), product (2), [[Algorithms]] (1), [[k-means clustering]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
@@ -897,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), function (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (12), ai (4), data (2), game (1), [[Algorithms]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - reinforcement (1)
 
@@ -988,8 +988,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (10), [[ChatGPT]] (8), nlp (4), [[Computer Vision]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2)
 > **Env Vars:** nlp (4)
-> **Code Keywords:** let (2), self (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1), it's like (1)
@@ -1071,14 +1071,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), let (3)
+> **Frameworks & Libraries:** [[Deep Learning]] (6), [[Computer Vision]] (4), data (3), [[TensorFlow]] (2), [[PyTorch]] (2)
 > **Env Vars:** nlp (2), cnn (1)
 > **Speakers:** - switching (1)
 
 
 ### 4. Implementation and Future Trends
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Model evaluation and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980)
@@ -1145,7 +1145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), case, (1)
+> **Frameworks & Libraries:** data (4), ai (1), [[Supervised Learning]] (1), [[Statistics]] (1), [[Reinforcement Learning]] (1)
 > **Env Vars:** roc (1), auc (1), nlp (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1220,7 +1220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2)
+> **Frameworks & Libraries:** data (13), ai (7), [[MLOps]] (2), [[Customer Support]] (1), chatbot (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - hey (1)
@@ -1316,7 +1316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), require (1), match. (1), continue (1)
+> **Frameworks & Libraries:** ai (9), data (6), [[Algorithms]] (2), next (2), [[Ethics]] (1)
 > **Analogies:** it's like (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** lime (1)
@@ -1395,7 +1395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1)
+> **Frameworks & Libraries:** ai (10), [[Ethics]] (4), [[Programming]] (1), [[Reinforcement Learning]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), known as (1)
 > **Prerequisites:** you'll need (1)
@@ -1404,7 +1404,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bring it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980)
@@ -1489,7 +1489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (13), next (3), data (2), [[Data Engineering]] (1), product (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** smart (1)
 > **Definitions:** is a  (1)

@@ -41,7 +41,7 @@ tags:
   - skill/generative-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GenAIOps%20Foundations.md)
@@ -60,50 +60,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - GenAIOps foundations
+  - [GenAIOps foundations](#genaiops-foundations)
 - [**1. GenAIOps Fundamentals**](#1-genaiops-fundamentals) (5 videos)
-  - The machine learning lifecycle
-  - The advent of generative AI
-  - DevOps, MLOps and GenAIOps
-  - The GenAIOps lifecycle
-  - Planning genAI projects
+  - [The machine learning lifecycle](#the-machine-learning-lifecycle)
+  - [The advent of generative AI](#the-advent-of-generative-ai)
+  - [DevOps, MLOps and GenAIOps](#devops-mlops-and-genaiops)
+  - [The GenAIOps lifecycle](#the-genaiops-lifecycle)
+  - [Planning genAI projects](#planning-genai-projects)
 - [**2. Model Training in Gen AI**](#2-model-training-in-gen-ai) (5 videos)
-  - Training phase in generative AI
-  - Data for evaluaton and fine-tuning
-  - Generative AI automation pipelines
-  - Model lifecycle management
-  - Evaluation and finetuning tracking
+  - [Training phase in generative AI](#training-phase-in-generative-ai)
+  - [Data for evaluaton and fine-tuning](#data-for-evaluaton-and-fine-tuning)
+  - [Generative AI automation pipelines](#generative-ai-automation-pipelines)
+  - [Model lifecycle management](#model-lifecycle-management)
+  - [Evaluation and finetuning tracking](#evaluation-and-finetuning-tracking)
 - [**3. Developing Gen AI Applications**](#3-developing-gen-ai-applications) (6 videos)
-  - The generative AI application stack
-  - Prompt management
-  - Memory and embedding management
-  - Agents management
-  - Agent tools integrations
-  - Testing generative AI applications
+  - [The generative AI application stack](#the-generative-ai-application-stack)
+  - [Prompt management](#prompt-management)
+  - [Memory and embedding management](#memory-and-embedding-management)
+  - [Agents management](#agents-management)
+  - [Agent tools integrations](#agent-tools-integrations)
+  - [Testing generative AI applications](#testing-generative-ai-applications)
 - [**4. Model Deployment and Serving**](#4-model-deployment-and-serving) (5 videos)
-  - GenAI deployment patterns
-  - Infrastructure planning
-  - Generative AI deployment pipelines
-  - Scaling generative AI deployments
-  - Guardrails deployments
+  - [GenAI deployment patterns](#genai-deployment-patterns)
+  - [Infrastructure planning](#infrastructure-planning)
+  - [Generative AI deployment pipelines](#generative-ai-deployment-pipelines)
+  - [Scaling generative AI deployments](#scaling-generative-ai-deployments)
+  - [Guardrails deployments](#guardrails-deployments)
 - [**5. Monitoring and Troubleshooting**](#5-monitoring-and-troubleshooting) (5 videos)
-  - Generative AI monitoring pipelines
-  - Metrics for generative AI
-  - Generative AI traces
-  - Agent trajectories
-  - Troubleshooting generative AI model behavior
+  - [Generative AI monitoring pipelines](#generative-ai-monitoring-pipelines)
+  - [Metrics for generative AI](#metrics-for-generative-ai)
+  - [Generative AI traces](#generative-ai-traces)
+  - [Agent trajectories](#agent-trajectories)
+  - [Troubleshooting generative AI model behavior](#troubleshooting-generative-ai-model-behavior)
 - [**6. Security and Compliance**](#6-security-and-compliance) (5 videos)
-  - Ethics and compliance
-  - Protection against vulnerabilities
-  - Toxicity and bias in generative AI
-  - Hallucinations
-  - Privacy protection in genAI
+  - [Ethics and compliance](#ethics-and-compliance)
+  - [Protection against vulnerabilities](#protection-against-vulnerabilities)
+  - [Toxicity and bias in generative AI](#toxicity-and-bias-in-generative-ai)
+  - [Hallucinations](#hallucinations)
+  - [Privacy protection in genAI](#privacy-protection-in-genai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAIOps foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980)
@@ -126,13 +126,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), [[Generative AI]] (1), application (1), [[DevOps]] (1), [[MLOps]] (1)
 > **Speakers:** - [kumaran] (1)
 
 
 ### 1. GenAIOps Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The machine learning lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980)
@@ -209,7 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (10), application (6), [[Software Development]] (2), [[Feature Engineering]] (2), [[Requirements Analysis]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -250,7 +250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), data (3), [[Large Language Models (LLM)|Large language models]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -316,7 +316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[DevOps]] (12), [[MLOps]] (6), data (3), [[Software Development]] (2), management (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
@@ -386,7 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** application (10), data (9), ai (7), [[Fine Tuning]] (3), [[Databases]] (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** llm (1)
 > **Cross-References:** previous video (1)
@@ -461,7 +461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** [[Software Projects]] (2), next (1), data (1), [[Engineering]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
@@ -469,7 +469,7 @@ created: 2026-04-29
 
 ### 2. Model Training in Gen AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Training phase in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/training-phase-in-gen-ai?u=76281980)
@@ -562,7 +562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (1), continue (1)
+> **Frameworks & Libraries:** data (6), next (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [presenter] (1)
 
@@ -649,7 +649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), static (1)
+> **Frameworks & Libraries:** data (19), prompt (9), application (1), [[JSON]] (1), [[Vector Databases]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** json (1)
 > **Definitions:** is an  (1)
@@ -710,7 +710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Automation]] (1), [[DevOps]] (1), [[MLOps]] (1), [[Kubernetes]] (1), [[Version Control]] (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -768,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** management (3), application (1), [[Fine Tuning]] (1), data (1), cloud (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Best Practices:** recommended (1)
@@ -839,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), pass (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (9), ai (2), next (2), data (1), prompt (1)
 > **Env Vars:** aws (1), gcp (1)
 > **Best Practices:** recommended (1), good practice (1)
 > **CLI Commands:** aws (1)
@@ -848,7 +848,7 @@ created: 2026-04-29
 
 ### 3. Developing Gen AI Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The generative AI application stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980)
@@ -913,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (9), business (4), application (3), ai (3), prompt (2)
 > **CLI Commands:** cd (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
@@ -959,8 +959,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), application (2), business (1), management (1)
 > **Best Practices:** recommended (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1037,7 +1037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** data (5), application (4), next (2), rag (2), prompt (2)
 > **Best Practices:** recommended (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** rag (2)
@@ -1103,8 +1103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), application (2), business (1), [[Integration Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), cd (1)
-> **Code Keywords:** let (2), self (1)
 > **Definitions:** is an  (3)
 > **Analogies:** similar to (3)
 > **Best Practices:** recommended (3)
@@ -1151,7 +1151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), module (1)
+> **Frameworks & Libraries:** business (3), ai (1), data (1), database (1), [[Vector Databases]] (1)
 > **CLI Commands:** cd (1)
 > **Env Vars:** rdbms (1)
 > **Definitions:** is a  (1)
@@ -1200,7 +1200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1), case. (1), protected (1)
+> **Frameworks & Libraries:** application (3), [[Integration Testing]] (2), prompt (2), [[Security]] (2), [[Usability Testing]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -1210,7 +1210,7 @@ created: 2026-04-29
 
 ### 4. Model Deployment and Serving
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI deployment patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980)
@@ -1273,7 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), case, (2), public (1), let (1)
+> **Frameworks & Libraries:** data (11), ai (7), application (6), [[Privacy]] (3), cloud (3)
 > **Env Vars:** aws (2), gcp (2), apa (1)
 > **CLI Commands:** aws (2)
 > **Speakers:** - [instructor] (1)
@@ -1339,7 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), private (2), let (1), require (1), protected (1)
+> **Frameworks & Libraries:** data (13), application (3), [[Hardware]] (1), management (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1378,7 +1378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** application (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
@@ -1416,7 +1416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** application (2), [[MLOps]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Batch Processing]] (1), concurrent (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1469,14 +1469,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), application (2), [[Ethics]] (1), prompt (1)
 > **Env Vars:** pii (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Monitoring and Troubleshooting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI monitoring pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-monitoring-pipelines?u=76281980)
@@ -1531,6 +1531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), data (1), rag (1), [[Semantic Search]] (1), application (1)
 > **Env Vars:** llm (4), cpu (1), rag (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is a  (1)
@@ -1575,6 +1576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (1), application (1)
 > **Env Vars:** cpu (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -1627,8 +1629,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), data (1), [[JSON]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** json (1), pii (1)
 > **Cross-References:** we discussed (2)
 > **Speakers:** - [instructor] (1)
@@ -1662,6 +1664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), llm (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** llm (1)
 > **Analogies:** similar to (1)
@@ -1708,7 +1711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** [[Troubleshooting]] (4), [[Automation]] (1), [[Debugging]] (1), ai (1), data (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Warnings:** troubleshoot (1)
@@ -1717,7 +1720,7 @@ created: 2026-04-29
 
 ### 6. Security and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethics and compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980)
@@ -1762,8 +1765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethics]] (4), data (3), [[Responsible AI]] (1), [[Generative AI]] (1), [[Personal Data Protection]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** protected (1)
 > **Speakers:** - [presenter] (1)
 
 #### Protection against vulnerabilities
@@ -1835,9 +1838,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), application (4), prompt (3), [[OWASP]] (2), business (2)
 > **Env Vars:** owasp (2), api (1)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1916,7 +1919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2), public (1)
+> **Frameworks & Libraries:** data (5), business (4), application (2), prompt (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1977,7 +1980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (7), prompt (2), [[Generative AI]] (1), business (1), rag (1)
 > **Env Vars:** rag (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2025,7 +2028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), public (1)
+> **Frameworks & Libraries:** data (13), [[Privacy]] (5), [[Data Classification]] (2), business (1)
 > **Env Vars:** pii (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -2033,7 +2036,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/next-steps?u=76281980)
@@ -2062,8 +2065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (1), [[MLOps]] (1), application (1), next (1), ai (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 

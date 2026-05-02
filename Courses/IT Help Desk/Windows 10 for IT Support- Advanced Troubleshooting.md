@@ -30,7 +30,7 @@ tags:
   - skill/troubleshooting
   - skill/windows-10
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%2010%20for%20IT%20Support-%20Advanced%20Troubleshooting.md)
@@ -49,53 +49,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Learn advanced troubleshooting in Windows 10
+  - [Learn advanced troubleshooting in Windows 10](#learn-advanced-troubleshooting-in-windows-10)
 - [**1. Devices and Services**](#1-devices-and-services) (6 videos)
-  - Checking for stopped services
-  - Common causes of service failure
-  - Using PowerShell to start failed services
-  - Using Device Manager to find failed devices
-  - Disabling failed devices
-  - Updating device drivers
+  - [Checking for stopped services](#checking-for-stopped-services)
+  - [Common causes of service failure](#common-causes-of-service-failure)
+  - [Using PowerShell to start failed services](#using-powershell-to-start-failed-services)
+  - [Using Device Manager to find failed devices](#using-device-manager-to-find-failed-devices)
+  - [Disabling failed devices](#disabling-failed-devices)
+  - [Updating device drivers](#updating-device-drivers)
 - [**2. Network Troubleshooting**](#2-network-troubleshooting) (8 videos)
-  - Verifying IP address assignments
-  - The ping test
-  - Testing DNS name resolution
-  - Fixing common DNS issues
-  - Using the network troubleshooter
-  - Fixing Wi-Fi connectivity
-  - Network troubleshooting when Hyper-V is installed
-  - Hyper-V virtual machine connectivity
+  - [Verifying IP address assignments](#verifying-ip-address-assignments)
+  - [The ping test](#the-ping-test)
+  - [Testing DNS name resolution](#testing-dns-name-resolution)
+  - [Fixing common DNS issues](#fixing-common-dns-issues)
+  - [Using the network troubleshooter](#using-the-network-troubleshooter)
+  - [Fixing Wi-Fi connectivity](#fixing-wi-fi-connectivity)
+  - [Network troubleshooting when Hyper-V is installed](#network-troubleshooting-when-hyper-v-is-installed)
+  - [Hyper-V virtual machine connectivity](#hyper-v-virtual-machine-connectivity)
 - [**3. Troubleshooting Logins**](#3-troubleshooting-logins) (3 videos)
-  - Fixing a computer account
-  - Common domain membership problems
-  - Solving time sync issues
+  - [Fixing a computer account](#fixing-a-computer-account)
+  - [Common domain membership problems](#common-domain-membership-problems)
+  - [Solving time sync issues](#solving-time-sync-issues)
 - [**4. Troubleshooting System Updates and Integrity**](#4-troubleshooting-system-updates-and-integrity) (7 videos)
-  - Running CHKDSK
-  - Using the System File Checker
-  - Restoring a system's health
-  - Verify your Windows build number
-  - Running Windows Update
-  - Using the Windows Update Troubleshooter
-  - Resolving common update errors
+  - [Running CHKDSK](#running-chkdsk)
+  - [Using the System File Checker](#using-the-system-file-checker)
+  - [Restoring a system's health](#restoring-a-systems-health)
+  - [Verify your Windows build number](#verify-your-windows-build-number)
+  - [Running Windows Update](#running-windows-update)
+  - [Using the Windows Update Troubleshooter](#using-the-windows-update-troubleshooter)
+  - [Resolving common update errors](#resolving-common-update-errors)
 - [**5. Performance Troubleshooting**](#5-performance-troubleshooting) (4 videos)
-  - Using the Task Manager for performance assessments
-  - Working with the Resource Monitor
-  - Using the Performance Monitor
-  - Using PowerShell to track resource usage
+  - [Using the Task Manager for performance assessments](#using-the-task-manager-for-performance-assessments)
+  - [Working with the Resource Monitor](#working-with-the-resource-monitor)
+  - [Using the Performance Monitor](#using-the-performance-monitor)
+  - [Using PowerShell to track resource usage](#using-powershell-to-track-resource-usage)
 - [**6. Troubleshooting the Blue Screen of Death**](#6-troubleshooting-the-blue-screen-of-death) (6 videos)
-  - Creating a blue screen error on demand
-  - The anatomy of a blue screen
-  - Basic troubleshooting steps
-  - Running the Reliability Monitor
-  - Configure a crash dump
-  - Analyzing a crash dump
+  - [Creating a blue screen error on demand](#creating-a-blue-screen-error-on-demand)
+  - [The anatomy of a blue screen](#the-anatomy-of-a-blue-screen)
+  - [Basic troubleshooting steps](#basic-troubleshooting-steps)
+  - [Running the Reliability Monitor](#running-the-reliability-monitor)
+  - [Configure a crash dump](#configure-a-crash-dump)
+  - [Analyzing a crash dump](#analyzing-a-crash-dump)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn advanced troubleshooting in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (2), [[LinkedIn]] (2), [[Troubleshooting]] (1), [[Microsoft]] (1)
 > **Warnings:** troubleshoot (2)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [brien] (1)
@@ -125,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Devices and Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Checking for stopped services
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/checking-for-stopped-services?u=76281980)
@@ -226,7 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), type, (2), function (1), let (1)
+> **Frameworks & Libraries:** [[Windows]] (6), dns (1)
 > **UI Navigation:** double-click (2), right-click (1), go to (1)
 > **Analogies:** for example (3)
 > **Env Vars:** dns (1)
@@ -350,7 +351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), interface (3), require (2), self (1)
+> **Frameworks & Libraries:** [[Windows]] (8), application (4), [[Microsoft]] (2), next (1), [[Windows 10]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** dhcp (3), tcp (1)
 > **Analogies:** for example (2), just like (1)
@@ -466,9 +467,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Windows 10]] (2), [[Windows]] (2)
 > **Tools:** powershell (10)
 > **UI Navigation:** click on (3), go to (3)
-> **Code Keywords:** let (3), function (1)
 > **Env Vars:** bits (4)
 > **Definitions:** is a  (1), stands for (1)
 > **Cross-References:** as you saw (1)
@@ -526,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Windows 10]] (3), [[Microsoft]] (2), next (1)
 > **UI Navigation:** click on (2), go to (1), open the (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1)
@@ -585,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -655,8 +656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (8), [[Search]] (6), [[Hardware]] (2), prompt (1), [[Microsoft]] (1)
 > **UI Navigation:** right-click (2), click on (2), double-click (1), go to (1)
-> **Code Keywords:** let (2), case, (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** msi (1)
 > **Analogies:** for example (1)
@@ -665,7 +666,7 @@ created: 2026-04-29
 
 ### 2. Network Troubleshooting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Verifying IP address assignments
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980)
@@ -730,9 +731,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), prompt (4), [[Windows 10]] (2), next (1), [[Windows]] (1)
 > **Env Vars:** dns (5), dhcp (2), ipv4 (1), ipv6 (1)
 > **UI Navigation:** go to (3), right-click (2), click on (2), open the (1)
-> **Code Keywords:** let (2), static (1), this. (1)
 > **Tools:** command prompt (4)
 > **Versions:** 172.30.208 (2), 172.30.214 (1)
 > **CLI Commands:** find (2)
@@ -830,8 +831,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), [[Windows]] (4), [[Windows 10]] (2), next (2), [[Microsoft Defender|Defender]] (2)
 > **UI Navigation:** click on (4), go to (4), right-click (1)
-> **Code Keywords:** let (7), switch (1)
 > **Versions:** 147.100.100 (4)
 > **Tools:** command prompt (4)
 > **Env Vars:** icmp (3)
@@ -894,8 +895,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), [[Windows]] (2), prompt (2)
 > **Env Vars:** dns (5)
-> **Code Keywords:** let (3)
 > **URLs:** [poseylab.com](https://poseylab.com) (3)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
@@ -962,11 +963,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (21), [[Windows]] (4), prompt (4), next (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (20)
 > **UI Navigation:** go to (3), click on (2)
 > **Tools:** command prompt (4)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Analogies:** imagine (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -1026,10 +1027,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (4), [[Windows]] (4), [[Windows 10]] (2), next (2), [[Search]] (1)
 > **UI Navigation:** click on (5), go to (1), select the (1)
 > **Warnings:** troubleshoot (4)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1114,8 +1115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (2), next (1), [[Troubleshooting]] (1), dns (1)
 > **UI Navigation:** go to (5), open the (1), click on (1), right-click (1)
-> **Code Keywords:** static (2), this, (1), case, (1), this. (1)
 > **Warnings:** troubleshoot (4)
 > **CLI Commands:** make (3)
 > **Env Vars:** dhcp (2), dns (1)
@@ -1260,7 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (21), let (5), this. (3)
+> **Frameworks & Libraries:** [[Windows 10]] (6), [[Microsoft]] (6), [[Troubleshooting]] (3), [[Windows]] (3), [[Virtual Machines]] (1)
 > **UI Navigation:** go to (7), click on (6), open the (1), right-click (1), scroll down (1)
 > **Env Vars:** tcp (4), lldp (2), ipv4 (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
@@ -1364,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (26), let (4), private (2), default, (1), case. (1)
+> **Frameworks & Libraries:** next (6), [[Virtual Machines]] (4), [[Windows 10]] (2)
 > **UI Navigation:** click on (4), go to (3), switch to (1)
 > **Prerequisites:** configure (3), install (1)
 > **Env Vars:** vm1 (1)
@@ -1375,7 +1376,7 @@ created: 2026-04-29
 
 ### 3. Troubleshooting Logins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fixing a computer account
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980)
@@ -1472,7 +1473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), switch (1), delete (1)
+> **Frameworks & Libraries:** [[Windows 10]] (7), [[Windows]] (4), [[Active Directory]] (2), [[Windows Server]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** go to (5), click on (4)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [poseylab.com](https://poseylab.com) (1)
@@ -1558,9 +1559,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (7), [[Windows 10]] (3), [[Active Directory]] (3), prompt (3), next (1)
 > **UI Navigation:** go to (6), click on (6)
 > **Env Vars:** dns (7)
-> **Code Keywords:** let (5), this. (1)
 > **Versions:** 147.100.100 (3)
 > **Tools:** command prompt (3)
 > **CLI Commands:** make (1), find (1)
@@ -1678,11 +1679,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (16), prompt (4), [[Powershell]] (4), [[Windows 10]] (3), [[Active Directory]] (3)
 > **UI Navigation:** go to (7), click on (6)
 > **Env Vars:** ntp (9), nt5ds (1)
 > **Tools:** command prompt (4), powershell (4)
 > **URLs:** [ntp.org](https://ntp.org) (4)
-> **Code Keywords:** let (1), delete (1), type. (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -1690,7 +1691,7 @@ created: 2026-04-29
 
 ### 4. Troubleshooting System Updates and Integrity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running CHKDSK
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980)
@@ -1789,8 +1790,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (12), prompt (7), [[Microsoft]] (2), next (2), [[Security]] (1)
 > **Env Vars:** chkdsk (14), dos (1)
-> **Code Keywords:** let (8), case, (1), function (1)
 > **Tools:** command prompt (6), command line (1)
 > **UI Navigation:** click on (2), go to (2)
 > **CLI Commands:** make (1), find (1)
@@ -1841,9 +1842,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), prompt (2)
 > **Env Vars:** sfc (3)
 > **UI Navigation:** click on (1), right-click (1), go to (1)
-> **Code Keywords:** let (1), this. (1)
 > **Tools:** command prompt (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1888,9 +1889,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), prompt (2), management (1), next (1), [[Windows 10]] (1)
 > **Env Vars:** dism (5)
 > **UI Navigation:** go to (2), click on (1), right-click (1)
-> **Code Keywords:** let (1), case, (1)
 > **Tools:** command prompt (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1920,8 +1921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Windows 10]] (1)
 > **CLI Commands:** find (5)
-> **Code Keywords:** let (1), type, (1), case. (1), case, (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
@@ -1974,9 +1975,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3), [[Security]] (2), [[Microsoft]] (1), next (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Prerequisites:** install (5)
-> **Code Keywords:** let (3), default, (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2051,10 +2052,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (9), [[Troubleshooting]] (3), next (2), [[Security]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (6), go to (2), open the (1)
 > **Env Vars:** bits (5)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (3), function (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2159,7 +2160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), delete (2), try. (1), this. (1), let (1)
+> **Frameworks & Libraries:** [[Windows]] (14), next (3), [[Microsoft]] (1), power (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Versions:** 99.7 (1)
 > **Warnings:** troubleshoot (1)
@@ -2169,7 +2170,7 @@ created: 2026-04-29
 
 ### 5. Performance Troubleshooting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Task Manager for performance assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-task-manager-for-performance-assessments?u=76281980)
@@ -2218,9 +2219,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (2), power (1)
 > **Env Vars:** cpu (6)
 > **UI Navigation:** click on (5), go to (1)
-> **Code Keywords:** let (2), if, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -2311,9 +2312,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (1)
 > **Env Vars:** cpu (11)
 > **UI Navigation:** click on (8), go to (1)
-> **Code Keywords:** let (2), if, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2392,9 +2393,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Microsoft]] (2), [[Troubleshooting]] (1)
 > **Env Vars:** cpu (9), ras (1)
 > **Definitions:** is a  (4), is called (1)
-> **Code Keywords:** if, (2), let (1), for. (1)
 > **UI Navigation:** right-click (1), go to (1), click on (1), select the (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
@@ -2489,10 +2490,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Windows]] (2)
 > **Env Vars:** cpu (13)
 > **Tools:** powershell (12)
 > **UI Navigation:** go to (3), right-click (1), scroll up (1), scroll down (1)
-> **Code Keywords:** let (3), case, (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -2500,7 +2501,7 @@ created: 2026-04-29
 
 ### 6. Troubleshooting the Blue Screen of Death
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a blue screen error on demand
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/creating-a-blue-screen-error-on-demand?u=76281980)
@@ -2561,8 +2562,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), prompt (2)
 > **UI Navigation:** go to (2), click on (1), right-click (1)
-> **Code Keywords:** let (1), this. (1)
 > **Tools:** command prompt (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2601,7 +2602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** [[Windows]] (2), generic (1), [[Troubleshooting]] (1)
 > **URLs:** [windows.com](https://windows.com) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2682,8 +2683,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), application (5), [[Windows 10]] (2), [[Hardware]] (1), next (1)
 > **Env Vars:** tdr (2), gpu (2), usb (1), irql (1), dpc (1)
-> **Code Keywords:** while, (1), if, (1), this, (1), case, (1), function (1)
 > **Analogies:** for example (2)
 > **Warnings:** troubleshoot (1), be aware (1)
 > **CLI Commands:** find (1)
@@ -2775,9 +2776,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (8), [[Security]] (3), [[Windows 10]] (1), next (1), application (1)
 > **UI Navigation:** click on (3), go to (2), open the (2)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2848,7 +2849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), let (1)
+> **Frameworks & Libraries:** [[Windows]] (2), next (2), [[Debugging]] (1)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** configure (2)
@@ -2944,7 +2945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (2), self (1), case, (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Google]] (3), [[Windows]] (2), product (1), web (1)
 > **UI Navigation:** go to (3), click on (1), select the (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** critical_process_died (1)
@@ -2956,7 +2957,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980)
@@ -2975,6 +2976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Troubleshooting]] (1), [[LinkedIn]] (1), cloud (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

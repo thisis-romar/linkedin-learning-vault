@@ -35,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python-%20Working%20with%20Predictive%20Analytics.md)
@@ -54,37 +54,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Predict data in Python
-  - What you should know and course road map
-  - How to use Codespaces and the exercise files
-  - CoderPad tour
+  - [Predict data in Python](#predict-data-in-python)
+  - [What you should know and course road map](#what-you-should-know-and-course-road-map)
+  - [How to use Codespaces and the exercise files](#how-to-use-codespaces-and-the-exercise-files)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. Data Preprocessing**](#1-data-preprocessing) (8 videos)
-  - Differentiate data types
-  - Python libraries and data import
-  - Handling missing values
-  - Solution: Handling missing values
-  - Convert categorical data into numbers
-  - Divide the data into test and train
-  - Feature scaling
-  - Solution: Feature scaling
+  - [Differentiate data types](#differentiate-data-types)
+  - [Python libraries and data import](#python-libraries-and-data-import)
+  - [Handling missing values](#handling-missing-values)
+  - [Solution: Handling missing values](#solution-handling-missing-values)
+  - [Convert categorical data into numbers](#convert-categorical-data-into-numbers)
+  - [Divide the data into test and train](#divide-the-data-into-test-and-train)
+  - [Feature scaling](#feature-scaling)
+  - [Solution: Feature scaling](#solution-feature-scaling)
 - [**2. Predictive Models**](#2-predictive-models) (11 videos)
-  - Introduction to predictive models
-  - Linear regression
-  - Polynomial regression
-  - Solution: Polynomial regression
-  - Support Vector Regression (SVR)
-  - Decision tree regression
-  - Random forest regression
-  - Solution: Random forest regression
-  - Evaluation of predictive models
-  - Hyperparameter optimization
-  - Solution: Hyperparameter optimization
+  - [Introduction to predictive models](#introduction-to-predictive-models)
+  - [Linear regression](#linear-regression)
+  - [Polynomial regression](#polynomial-regression)
+  - [Solution: Polynomial regression](#solution-polynomial-regression)
+  - [Support Vector Regression (SVR)](#support-vector-regression-svr)
+  - [Decision tree regression](#decision-tree-regression)
+  - [Random forest regression](#random-forest-regression)
+  - [Solution: Random forest regression](#solution-random-forest-regression)
+  - [Evaluation of predictive models](#evaluation-of-predictive-models)
+  - [Hyperparameter optimization](#hyperparameter-optimization)
+  - [Solution: Hyperparameter optimization](#solution-hyperparameter-optimization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in Python and predictive analytics
+  - [Next steps in Python and predictive analytics](#next-steps-in-python-and-predictive-analytics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Predict data in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980)
@@ -107,6 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), data (2), [[Python (Programming Language)|Python]] (2), ai (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), python (2)
 > **URLs:** [digifab.ai](https://digifab.ai) (1)
 > **Speakers:** - have (1)
@@ -192,7 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), case, (1), let (1)
+> **Frameworks & Libraries:** data (17), next (4), [[CRISP-DM]] (1), business (1), product (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** crisp (1), bmw (1)
 > **Cross-References:** in the next (1)
@@ -294,8 +295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (3), web (3), cloud (2), [[Microsoft Excel|Excel]] (2)
 > **Tools:** visual studio (7), github (3)
-> **Code Keywords:** let (3), module (3)
 > **UI Navigation:** click on (3), right-click (1)
 > **Prerequisites:** setup (2), set up (2)
 > **CLI Commands:** find (2), python (1)
@@ -366,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -374,7 +375,7 @@ created: 2026-04-29
 
 ### 1. Data Preprocessing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Differentiate data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/differentiate-data-types?u=76281980)
@@ -487,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), case, (1), type. (1)
+> **Frameworks & Libraries:** data (31), business (2), [[Predictive Analytics]] (1)
 > **Analogies:** for example (4), such as (2), similar to (1)
 > **CLI Commands:** make (4), find (1)
 > **Speakers:** - [instructor] (1)
@@ -623,8 +624,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (5), [[Codespaces]] (3), next (2)
 > **CLI Commands:** python (7), pip (3), find (2), make (1)
-> **Code Keywords:** let (9), case, (2), function (2)
 > **Prerequisites:** install (7), set up (1)
 > **Code Identifiers:** model_selection (1), train_test_split (1), read_csv (1)
 > **Tools:** visual studio (2), terminal (1)
@@ -881,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (6), finally, (3), this. (2), type ( (1)
+> **Frameworks & Libraries:** data (14), next (5), [[Zoom]] (4), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (5), make (5), python (2)
 > **Env Vars:** bmi (5), src (1), enter (1)
 > **UI Navigation:** click on (2), scroll up (1), scroll down (1)
@@ -951,7 +952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), else. (1)
+> **Frameworks & Libraries:** data (1), next (1), hit (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** fit_transform (2)
 > **Analogies:** just like (2)
@@ -1191,7 +1192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), case, (4), this. (2), function (1)
+> **Frameworks & Libraries:** data (21), next (14), [[Pandas (Software)|Pandas]] (6), [[Python (Programming Language)|Python]] (4), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (8), python (4), find (2)
 > **Code Identifiers:** reset_index (2), region_data (2), get_feature_names_out (1)
 > **Env Vars:** ohe (3), src (1)
@@ -1343,7 +1344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (4), finally, (2), module (1), this, (1)
+> **Frameworks & Libraries:** data (23), next (4), [[Predictive Analytics]] (1), [[Pandas (Software)|Pandas]] (1), feature (1)
 > **Code Identifiers:** y_train (4), y_final (2), y_test (2), region_data (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** bmi (3), src (1)
@@ -1609,7 +1610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), this, (2), case, (1), function (1), require (1)
+> **Frameworks & Libraries:** data (18), [[Microsoft Excel|Excel]] (7), next (5), [[Python (Programming Language)|Python]] (3), feature (2)
 > **CLI Commands:** find (4), make (4), python (3)
 > **UI Navigation:** select the (4), go to (2), click on (1), scroll down (1)
 > **Code Identifiers:** s_scaler (3), n_scaler (1), standardscaler (1), fit_transform (1)
@@ -1679,8 +1680,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), feature (2)
 > **Code Identifiers:** x_train (4), n_scaler (3), s_scaler (3), x_test (2), x_test_normalized (1)
-> **Code Keywords:** let (6)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -1691,7 +1692,7 @@ created: 2026-04-29
 
 ### 2. Predictive Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to predictive models
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980)
@@ -1778,9 +1779,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), product (4), [[Reinforcement Learning]] (2), [[Supervised Learning]] (2), strengths (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2032,7 +2033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (2), finally, (2), continue (1), module (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (22), data (11), [[Microsoft Excel|Excel]] (8), next (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** ssr (4), sst (3), src (2), sum (2), d13 (2)
 > **CLI Commands:** find (5), make (2), python (2)
 > **Definitions:** in other words (4), is a  (3), means that (1)
@@ -2190,7 +2191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12)
+> **Frameworks & Libraries:** data (7), feature (6), next (4), [[Microsoft Excel|Excel]] (3), [[Codespaces]] (2)
 > **Code Identifiers:** poly_lr (4), y_train (2), y_test (1), y_final (1), test_size (1)
 > **CLI Commands:** find (3), make (3)
 > **UI Navigation:** go to (2), open the (2), click on (1), scroll up (1)
@@ -2254,8 +2255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (1), [[Linear Regression]] (1)
 > **Code Identifiers:** poly_lr (3), x_train (2), y_train (1), y_train_pred (1), y_test (1)
-> **Code Keywords:** let (5)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** scroll down (2)
 > **Env Vars:** todo (1)
@@ -2381,7 +2382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1), function (1)
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (2), [[Codespaces]] (2), next (2), game (1)
 > **Env Vars:** svr (6), rbf (1), src (1), bmi (1)
 > **CLI Commands:** find (3), python (2), make (2)
 > **Definitions:** is a  (3), is called (1), is an  (1)
@@ -2515,7 +2516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (3), function (1)
+> **Frameworks & Libraries:** data (8), [[Decision Trees]] (2), [[Algorithms]] (2), next (2), node (1)
 > **Code Identifiers:** x_train (2), y_train_pred (2), y_test_pred (2), y_train (1), x_test (1)
 > **CLI Commands:** find (2), node (1), make (1), python (1)
 > **Definitions:** is a  (3), is called (1)
@@ -2659,7 +2660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), require (1), delete (1), this. (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (2), [[Decision Trees]] (1), [[Algorithms]] (1), parallel (1)
 > **CLI Commands:** make (3), python (2), find (1)
 > **Code Identifiers:** n_estimators (2), n_jobs (1), y_train (1), y_train_pred (1), y_test_pred (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -2707,8 +2708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (3)
 > **Code Identifiers:** x_train (2), n_estimators (1), random_state (1), n_jobs (1), y_train (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -2769,9 +2770,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), strengths (1), [[Linear Regression]] (1), [[Decision Trees]] (1), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2), in other words (2)
 > **Warnings:** keep in mind (3)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -2872,7 +2873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2)
+> **Frameworks & Libraries:** [[Search]] (4), next (2), data (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (4), make (1), python (1)
 > **Env Vars:** svr (5)
 > **Code Identifiers:** y_train (2), x_train (1)
@@ -2954,7 +2955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** next (4), data (1)
 > **Code Identifiers:** param_grid_svr (2), svr_grid (2)
 > **Env Vars:** svr (4)
 > **CLI Commands:** find (1), make (1)
@@ -2966,7 +2967,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in Python and predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980)
@@ -2999,9 +3000,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), next (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** python (2), find (1)
 > **URLs:** [kaggle.com](https://kaggle.com) (1), [digifab.ai](https://digifab.ai) (1)
-> **Code Keywords:** class. (1)
 > **Speakers:** - congrats (1)
 
 

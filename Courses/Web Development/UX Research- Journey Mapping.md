@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Research-%20Journey%20Mapping.md)
@@ -45,25 +45,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The moments that matter
+  - [The moments that matter](#the-moments-that-matter)
 - [**1. What Is Journey Mapping?**](#1-what-is-journey-mapping) (4 videos)
-  - The power of journey mapping
-  - Elements of a journey map
-  - Where to start
-  - Why emotions matter
+  - [The power of journey mapping](#the-power-of-journey-mapping)
+  - [Elements of a journey map](#elements-of-a-journey-map)
+  - [Where to start](#where-to-start)
+  - [Why emotions matter](#why-emotions-matter)
 - [**2. Gathering Data for Your Journey Map**](#2-gathering-data-for-your-journey-map) (2 videos)
-  - Asking the right questions
-  - Getting data from your customers
+  - [Asking the right questions](#asking-the-right-questions)
+  - [Getting data from your customers](#getting-data-from-your-customers)
 - [**3. Making Value-Driven Decisions**](#3-making-value-driven-decisions) (3 videos)
-  - Value-driven solutions for customers
-  - Spotting the opportunities
-  - Service blueprinting: A plan for backstage support
+  - [Value-driven solutions for customers](#value-driven-solutions-for-customers)
+  - [Spotting the opportunities](#spotting-the-opportunities)
+  - [Service blueprinting: A plan for backstage support](#service-blueprinting-a-plan-for-backstage-support)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The journey continues
+  - [The journey continues](#the-journey-continues)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The moments that matter
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980)
@@ -102,14 +102,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (1), data (1), hit (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - what (1)
 
 
 ### 1. What Is Journey Mapping?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of journey mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-power-of-journey-mapping?u=76281980)
@@ -166,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (1), teams (1), power (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), in other words (1)
 > **Env Vars:** roi (1), b2b (1)
@@ -253,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), finally, (1)
+> **Frameworks & Libraries:** product (4), next (1), business (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -295,6 +296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Market Research]] (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
@@ -364,7 +366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), finally, (1)
+> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** tsa (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -374,7 +376,7 @@ created: 2026-04-29
 
 ### 2. Gathering Data for Your Journey Map
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Asking the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980)
@@ -477,7 +479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1), while, (1)
+> **Frameworks & Libraries:** product (7), next (2), [[Market Research]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (1)
 > **Speakers:** - i (1)
@@ -541,8 +543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), product (2), [[Search]] (1), next (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** for. (1), finally, (1), let (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -551,7 +553,7 @@ created: 2026-04-29
 
 ### 3. Making Value-Driven Decisions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Value-driven solutions for customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/value-driven-solutions-for-customers?u=76281980)
@@ -612,8 +614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), ai (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** interface (2), else. (1)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - so (1)
 
@@ -684,9 +686,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - when (1)
 
@@ -737,8 +739,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[Interactive Voice Response (IVR)|Interactive voice response]] (1), next (1), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - once (1)
@@ -746,7 +748,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The journey continues
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980)
@@ -777,8 +779,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Market Research]] (3), [[LinkedIn]] (2), data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **URLs:** [bixaresearch.com](https://bixaresearch.com) (1)
 > **Speakers:** - when (1)
 

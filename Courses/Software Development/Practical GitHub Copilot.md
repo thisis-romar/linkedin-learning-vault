@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practical%20GitHub%20Copilot.md)
@@ -56,29 +56,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Using Copilot on Projects
-  - Using the slides
+  - [Using Copilot on Projects](#using-copilot-on-projects)
+  - [Using the slides](#using-the-slides)
 - [**1. Working with GitHub Copilot**](#1-working-with-github-copilot) (6 videos)
-  - What is GitHub Copilot?
-  - Copilot for Individuals vs. Copilot for Business
-  - Installing Copilot
-  - Getting the repo
-  - Basic autocomplete
-  - Autocompletions panel
+  - [What is GitHub Copilot?](#what-is-github-copilot)
+  - [Copilot for Individuals vs. Copilot for Business](#copilot-for-individuals-vs-copilot-for-business)
+  - [Installing Copilot](#installing-copilot)
+  - [Getting the repo](#getting-the-repo)
+  - [Basic autocomplete](#basic-autocomplete)
+  - [Autocompletions panel](#autocompletions-panel)
 - [**2. Using Copilot Chat**](#2-using-copilot-chat) (7 videos)
-  - The chat panel
-  - Generating data
-  - Chatting with Copilot
-  - Output to YAML
-  - History and file names
-  - Troubleshooting fixes
-  - Writing comments
+  - [The chat panel](#the-chat-panel)
+  - [Generating data](#generating-data)
+  - [Chatting with Copilot](#chatting-with-copilot)
+  - [Output to YAML](#output-to-yaml)
+  - [History and file names](#history-and-file-names)
+  - [Troubleshooting fixes](#troubleshooting-fixes)
+  - [Writing comments](#writing-comments)
 - [**Next Steps**](#next-steps) (1 videos)
-  - What's next
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Copilot on Projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects?u=76281980)
@@ -97,9 +97,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Speakers:** - copilot (1)
 
@@ -120,6 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[GitHub Copilot]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -128,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Working with GitHub Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980)
@@ -187,9 +188,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Tokens]] (4), [[GitHub Copilot]] (2), [[Microsoft Word|Word]] (2), [[ChatGPT]] (1)
 > **Definitions:** is a  (5), known as (1)
 > **CLI Commands:** python (1), ruby (1), make (1), find (1)
-> **Code Keywords:** let (2), public (1), for. (1)
 > **Env Vars:** gpt (2), llm (1)
 > **Tools:** github (2)
 > **Analogies:** it's like (1)
@@ -232,8 +233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), business (3), [[GitHub]] (3), data (3), ai (1)
 > **Tools:** github (3)
-> **Code Keywords:** let (1), public (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -337,12 +338,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[GitHub Copilot]] (7), [[GitHub]] (4), business (2), management (2)
 > **Tools:** github (11), visual studio (9), neovim (1)
 > **Prerequisites:** install (7), you'll need (2)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (2), unzip (1)
 > **Versions:** 2.0 (2), version 1 (1)
-> **Code Keywords:** let (1), this. (1)
 > **URLs:** [http://github.com/features/copilot](http://github.com/features/copilot) (1), [http://code.visualstudio.com](http://code.visualstudio.com) (1)
 > **Env Vars:** url (1), uri (1)
 
@@ -429,11 +430,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Python (Programming Language)|Python]] (3), [[Git]] (2), [[Codespaces]] (1), application (1)
 > **Tools:** github (6), visual studio (2), terminal (2)
 > **CLI Commands:** python (3), make (2), git (2), find (2)
 > **Env Vars:** yaml (2), mp3 (2), url (1), xml (1), rss (1)
 > **UI Navigation:** click on (2), go to (2), switch to (1)
-> **Code Keywords:** let (1), switch (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -603,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), return. (2), delete (1), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), application (3), [[Microsoft Word|Word]] (3), hit (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (2), python (2)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** mp3 (2)
@@ -679,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), this, (2), delete (1), from, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), hit (3), ai (1)
 > **Env Vars:** mp3 (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -689,7 +690,7 @@ created: 2026-04-29
 
 ### 2. Using Copilot Chat
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The chat panel
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980)
@@ -776,7 +777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (2), function (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (1), [[Python (Programming Language)|Python]] (1), hit (1)
 > **Tools:** visual studio (2), github (1), terminal (1)
 > **CLI Commands:** find (1), python (1), make (1)
 > **Definitions:** known as (1), is a  (1)
@@ -868,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), case, (1), continue (1)
+> **Frameworks & Libraries:** data (8), prompt (3), ai (2)
 > **CLI Commands:** make (3)
 > **File Paths:** feed.yaml (1)
 > **Speakers:** - [narrator] (1)
@@ -948,7 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), module (5), delete (3), this. (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), prompt (3), data (2), [[ChatGPT]] (1)
 > **CLI Commands:** pip (3), find (1), pip3 (1)
 > **Prerequisites:** install (5)
 > **Cross-References:** go back to (1), previous video (1)
@@ -1034,7 +1035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (4), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), data (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip3 (2), find (1), python (1), pip (1), make (1)
 > **Env Vars:** yaml (5), id3 (1)
 > **Prerequisites:** install (6)
@@ -1139,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (3), super (1), function (1), this, (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Copilot|Copilot]] (3), application (3), prompt (2), hit (2)
 > **Env Vars:** yaml (4), mp3 (1), xml (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -1231,7 +1232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (4), module (2), this. (1), delete (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), prompt (1), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** find (1)
 > **Ports:** :00 (1)
 > **Env Vars:** yaml (1)
@@ -1352,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (2), this, (2), super (2), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), application (2), data (1)
 > **File Paths:** episodes.yaml (4), feed.yaml (2)
 > **Env Vars:** yaml (4), mp3 (1)
 > **CLI Commands:** make (2), find (1)
@@ -1364,7 +1365,7 @@ created: 2026-04-29
 
 ### Next Steps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/what-s-next?u=76281980)
@@ -1381,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** game (2), ai (1), next (1), [[Microsoft Copilot|Copilot]] (1), [[LinkedIn]] (1)
 > **Speakers:** - hey (1)
 
 

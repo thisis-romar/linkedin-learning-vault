@@ -28,7 +28,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-365
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Microsoft%20365.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Increase your productivity with Microsoft 365
-  - What to know before starting this course
+  - [Increase your productivity with Microsoft 365](#increase-your-productivity-with-microsoft-365)
+  - [What to know before starting this course](#what-to-know-before-starting-this-course)
 - [**1. About Microsoft 365**](#1-about-microsoft-365) (3 videos)
-  - What is Microsoft 365?
-  - Choose the right plan
-  - System requirements
+  - [What is Microsoft 365?](#what-is-microsoft-365)
+  - [Choose the right plan](#choose-the-right-plan)
+  - [System requirements](#system-requirements)
 - [**2. Get Started with Microsoft 365**](#2-get-started-with-microsoft-365) (5 videos)
-  - Sign in to Microsoft 365
-  - Set up your profile
-  - Install the client apps
-  - Navigate from app to app
-  - Storing files with OneDrive
+  - [Sign in to Microsoft 365](#sign-in-to-microsoft-365)
+  - [Set up your profile](#set-up-your-profile)
+  - [Install the client apps](#install-the-client-apps)
+  - [Navigate from app to app](#navigate-from-app-to-app)
+  - [Storing files with OneDrive](#storing-files-with-onedrive)
 - [**3. Share and Collaborate**](#3-share-and-collaborate) (4 videos)
-  - Add and share files on OneDrive
-  - Use SharePoint to share information
-  - Collaborate with desktop apps in Microsoft 365
-  - Consider Copilot for Microsoft 365
+  - [Add and share files on OneDrive](#add-and-share-files-on-onedrive)
+  - [Use SharePoint to share information](#use-sharepoint-to-share-information)
+  - [Collaborate with desktop apps in Microsoft 365](#collaborate-with-desktop-apps-in-microsoft-365)
+  - [Consider Copilot for Microsoft 365](#consider-copilot-for-microsoft-365)
 - [**4. Connect with Colleagues**](#4-connect-with-colleagues) (4 videos)
-  - Join or create a team in Microsoft Teams
-  - Schedule a meeting with team members
-  - Share files with team members
-  - Chat with team members
+  - [Join or create a team in Microsoft Teams](#join-or-create-a-team-in-microsoft-teams)
+  - [Schedule a meeting with team members](#schedule-a-meeting-with-team-members)
+  - [Share files with team members](#share-files-with-team-members)
+  - [Chat with team members](#chat-with-team-members)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to learn more
+  - [Where to learn more](#where-to-learn-more)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Increase your productivity with Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980)
@@ -91,6 +91,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Office|Office]] (2), [[Microsoft]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What to know before starting this course
@@ -134,7 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), case, (1), interface (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[LinkedIn]] (1), business (1), cloud (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
@@ -142,7 +143,7 @@ created: 2026-04-29
 
 ### 1. About Microsoft 365
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980)
@@ -203,7 +204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (11), web (3), [[Microsoft Office|Office]] (3), [[Microsoft Office]] (2), [[Microsoft Word|Word]] (2)
 > **Prerequisites:** install (4)
 > **Analogies:** for example (1), picture (1)
 > **Cross-References:** in the next (1)
@@ -287,8 +288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11), [[Microsoft 365]] (6), [[Microsoft Copilot|Copilot]] (4), cloud (3), web (3)
 > **UI Navigation:** scroll down (3), go to (2)
-> **Code Keywords:** let (2), switch (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -347,6 +348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft Office|Office]] (4), [[Windows]] (3), business (2), [[Microsoft]] (2)
 > **Env Vars:** ram (2), x86 (1), sse2 (1)
 > **Prerequisites:** you'll need (3), getting started (1)
 > **Analogies:** for example (2), just like (1)
@@ -358,7 +360,7 @@ created: 2026-04-29
 
 ### 2. Get Started with Microsoft 365
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign in to Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980)
@@ -461,10 +463,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Office|Office]] (4), next (3), [[Microsoft Excel|Excel]] (2), [[Windows]] (1)
 > **URLs:** [office.com](https://office.com) (4), [red30tech.com](https://red30tech.com) (1)
 > **Cross-References:** go back to (3), we talked about (2)
 > **Prerequisites:** install (3)
-> **Code Keywords:** switch (1), continue (1)
 > **UI Navigation:** checkbox (1), go to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -643,8 +645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (11), [[Microsoft OneDrive|Onedrive]] (3), cloud (1), application (1), [[Zoom]] (1)
 > **Analogies:** picture (5), for example (3)
-> **Code Keywords:** let (4), default, (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (1), make (1)
@@ -745,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word]] (7), [[Microsoft Word|Word]] (7), [[Microsoft 365]] (6), [[Microsoft Office|Office]] (3), web (2)
 > **Prerequisites:** install (7)
-> **Code Keywords:** case, (2), let (2), switch (1), continue (1)
 > **UI Navigation:** go to (4), dropdown (2)
 > **Analogies:** for example (3), such as (1), picture (1)
 > **Best Practices:** recommended (2)
@@ -839,7 +841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Microsoft Word|Word]] (8), [[Microsoft 365]] (4), [[Microsoft Excel]] (1), cloud (1)
 > **Cross-References:** go back to (2)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
@@ -969,8 +971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (14), cloud (9), [[Microsoft Word|Word]] (5), [[Microsoft 365]] (4), business (4)
 > **UI Navigation:** go to (4), dropdown (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1), later in (1)
 > **Code Identifiers:** sconference (1)
@@ -980,7 +982,7 @@ created: 2026-04-29
 
 ### 3. Share and Collaborate
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add and share files on OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980)
@@ -1107,7 +1109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), switch (2), new. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), cloud (8), [[Microsoft 365]] (6), business (4), [[Microsoft Outlook|Outlook]] (2)
 > **Env Vars:** jpeg (4)
 > **UI Navigation:** go to (2), navigate to (1), select the (1)
 > **Analogies:** for example (3), it's like (1)
@@ -1261,9 +1263,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft 365]] (6), [[Microsoft OneDrive|Onedrive]] (2), cloud (2), business (2)
 > **Analogies:** for example (6), similar to (1)
 > **UI Navigation:** go to (3), scroll down (1), dropdown (1)
-> **Code Keywords:** private (3), public (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1371,7 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), continue (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), cloud (4), [[Microsoft Word|Word]] (3), [[Microsoft Word]] (3), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3)
 > **Cross-References:** go back to (1), we talked about (1)
@@ -1461,9 +1463,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft]] (3), [[Microsoft Word|Word]] (3), [[Microsoft 365]] (2), teams (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), is a  (2)
-> **Code Keywords:** else, (1), new, (1)
 > **Analogies:** it's like (1), for example (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -1471,7 +1473,7 @@ created: 2026-04-29
 
 ### 4. Connect with Colleagues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Join or create a team in Microsoft Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980)
@@ -1590,7 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (4), let (3), new, (1)
+> **Frameworks & Libraries:** teams (17), business (4), [[Microsoft Copilot|Copilot]] (3), [[Microsoft 365]] (2), [[Search]] (2)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
@@ -1726,7 +1728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1), default. (1), switch (1)
+> **Frameworks & Libraries:** teams (4), [[Microsoft 365]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** dropdown (2), go to (1)
 > **Analogies:** such as (2), for example (1)
 > **Ports:** :30 (1), :00 (1)
@@ -1812,7 +1814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), switch (1), delete (1)
+> **Frameworks & Libraries:** teams (3), [[Microsoft 365]] (3), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** just like (1)
@@ -1921,7 +1923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), delete (4), public (2), this, (1), switch (1)
+> **Frameworks & Libraries:** next (3), [[Windows]] (2), [[Microsoft Teams]] (2), [[Microsoft 365]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -1931,7 +1933,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980)
@@ -1966,6 +1968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), next (4), [[Microsoft Office|Office]] (2), [[Microsoft Copilot|Copilot]] (2), business (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** don't forget (1)

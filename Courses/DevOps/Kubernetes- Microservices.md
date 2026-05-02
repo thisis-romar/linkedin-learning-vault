@@ -31,7 +31,7 @@ tags:
   - skill/microservices
   - skill/kubernetes
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Kubernetes-%20Microservices.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Cloud native networking with Kubernetes
-  - What you should know
-  - How to use the exercise files
+  - [Cloud native networking with Kubernetes](#cloud-native-networking-with-kubernetes)
+  - [What you should know](#what-you-should-know)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Cloud Native Was Made for Microservices**](#1-cloud-native-was-made-for-microservices) (4 videos)
-  - Monolithic vs. microservices architecture
-  - History of application deployments
-  - Kubernetes network model
-  - Container Network Interface
+  - [Monolithic vs. microservices architecture](#monolithic-vs-microservices-architecture)
+  - [History of application deployments](#history-of-application-deployments)
+  - [Kubernetes network model](#kubernetes-network-model)
+  - [Container Network Interface](#container-network-interface)
 - [**2. Set up Your Cluster and Deploy Your Microservices**](#2-set-up-your-cluster-and-deploy-your-microservices) (4 videos)
-  - Spin up a Minikube cluster in Windows, Mac, and Linux
-  - Install Calico
-  - Deploy the backend microservices
-  - Deploy the frontend microservice
+  - [Spin up a Minikube cluster in Windows, Mac, and Linux](#spin-up-a-minikube-cluster-in-windows-mac-and-linux)
+  - [Install Calico](#install-calico)
+  - [Deploy the backend microservices](#deploy-the-backend-microservices)
+  - [Deploy the frontend microservice](#deploy-the-frontend-microservice)
 - [**3. Service Discovery in Kubernetes**](#3-service-discovery-in-kubernetes) (6 videos)
-  - An overview of Kubernetes services
-  - Examine a ClusterIP service
-  - Examine a NodePort service
-  - Examine a LoadBalancer service
-  - Challenge: Deploy and test a new microservice
-  - Solution: Deploy and test a new microservice
+  - [An overview of Kubernetes services](#an-overview-of-kubernetes-services)
+  - [Examine a ClusterIP service](#examine-a-clusterip-service)
+  - [Examine a NodePort service](#examine-a-nodeport-service)
+  - [Examine a LoadBalancer service](#examine-a-loadbalancer-service)
+  - [Challenge: Deploy and test a new microservice](#challenge-deploy-and-test-a-new-microservice)
+  - [Solution: Deploy and test a new microservice](#solution-deploy-and-test-a-new-microservice)
 - [**4. Advanced Topics**](#4-advanced-topics) (3 videos)
-  - Understanding network policies
-  - Getting traffic into a cluster using Ingress
-  - An overview of services meshes
+  - [Understanding network policies](#understanding-network-policies)
+  - [Getting traffic into a cluster using Ingress](#getting-traffic-into-a-cluster-using-ingress)
+  - [An overview of services meshes](#an-overview-of-services-meshes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Thank you
+  - [Thank you](#thank-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud native networking with Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/cloud-native-networking-with-kubernetes?u=76281980)
@@ -100,7 +100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Microservices]] (4), [[DevOps]] (1), [[DevSecOps]] (1), [[Engineering]] (1)
 > **Speakers:** - it (1)
 
 #### What you should know
@@ -124,9 +124,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Microservices]] (2), application (1), cloud (1)
 > **CLI Commands:** make (1), docker (1), kubectl (1)
 > **Tools:** terminal (1), command line (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** cncf (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** you'll need (1)
@@ -171,6 +171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Kubernetes]] (2), [[Microservices]] (2), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** find (2), unzip (1), make (1)
 > **Exercise Files:** exercise files (2), download the (1), zip file (1)
 > **Tools:** github (2), terminal (1)
@@ -182,7 +183,7 @@ created: 2026-04-29
 
 ### 1. Cloud Native Was Made for Microservices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monolithic vs. microservices architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980)
@@ -237,8 +238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (8), application (7), [[Kubernetes]] (6), cloud (4), [[Virtual Machines]] (2)
 > **CLI Commands:** docker (1), aws (1), make (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Env Vars:** aws (1), ec2 (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -319,11 +320,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), [[Virtual Machines]] (7), [[Kubernetes]] (5), [[Orchestration]] (5), cloud (2)
 > **Env Vars:** cis (4), cpu (3), nginx (1), ftp (1), cncf (1)
 > **CLI Commands:** docker (4), apache (1), nginx (1)
 > **Definitions:** is a  (3), means that (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
@@ -367,8 +368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (8), traffic (1), api (1), cloud (1), next (1)
 > **Env Vars:** cni (4), api (1), tcp (1), udp (1), sctp (1)
-> **Code Keywords:** let (1), private (1), implements (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -428,9 +429,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (5), next (2), traffic (1), open-source (1), [[Software Projects]] (1)
 > **Env Vars:** cni (12), cncf (3), ipv4 (2), tcp (1)
 > **Prerequisites:** set up (3), install (2)
-> **Code Keywords:** interface (2), let (1), private (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -440,7 +441,7 @@ created: 2026-04-29
 
 ### 2. Set up Your Cluster and Deploy Your Microservices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spin up a Minikube cluster in Windows, Mac, and Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980)
@@ -611,8 +612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (6), [[Kubernetes]] (3), [[Powershell]] (3), node (3)
 > **CLI Commands:** docker (7), node (3), find (2), make (2), brew (1)
-> **Code Keywords:** let (6), type, (4), switch (2), type. (1)
 > **Env Vars:** cpu (3), arm (2), x86 (1), rpm (1), exe (1)
 > **Prerequisites:** install (6)
 > **Tools:** powershell (3), command line (2)
@@ -673,8 +674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (2), traffic (1), [[Network Security]] (1), node (1), next (1)
 > **Env Vars:** cni (9)
-> **Code Keywords:** delete (3), let (2), default. (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** cat (1), find (1), node (1)
 > **Cross-References:** in the last (1), later in (1)
@@ -750,8 +751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Kubernetes]] (2), next (2), node (1)
 > **Env Vars:** api (3), cni (1), yaml (1), sbc (1)
-> **Code Keywords:** let (5)
 > **File Paths:** echoserver.yaml (1), cubecontrolapply-flearningresourcesapi.yaml (1), cubecontrolapply-fechoserver.yaml (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Definitions:** is a  (2)
@@ -823,7 +824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1), type, (1)
+> **Frameworks & Libraries:** next (3), [[Kubernetes]] (2), [[Microservices]] (1)
 > **CLI Commands:** kubectl (3)
 > **Cross-References:** in the next (2), in the last (1)
 > **File Paths:** frontend-ui.yaml (2)
@@ -834,7 +835,7 @@ created: 2026-04-29
 
 ### 3. Service Discovery in Kubernetes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of Kubernetes services
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980)
@@ -963,8 +964,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (17), [[Kubernetes]] (13), dns (6), api (3), next (3)
 > **Env Vars:** dns (6), yaml (4), api (3), app (1), aws (1)
-> **Code Keywords:** let (6), finally, (2), default, (1), case, (1), this. (1)
 > **CLI Commands:** node (3), make (2), aws (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -1161,9 +1162,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (14), [[JSON]] (4), dns (4), [[Linux]] (3), prompt (3)
 > **CLI Commands:** make (7), wget (7), find (4), node (1)
 > **Env Vars:** http (5), json (4), dns (4), api (1), html (1)
-> **Code Keywords:** let (11), pass (2), delete (1), case, (1)
 > **Tools:** terminal (4), command prompt (3)
 > **Definitions:** is a  (3), stands for (2), known as (1), is called (1)
 > **File Paths:** busybox.yaml (1), index.html (1)
@@ -1287,8 +1288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), [[Kubernetes]] (5), data (2), traffic (1), [[JSON]] (1)
 > **CLI Commands:** make (7), node (7), wget (6), kubectl (4), find (1)
-> **Code Keywords:** let (8), this. (1)
 > **API Endpoints:** get  (3)
 > **Env Vars:** json (1), yaml (1), dns (1)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
@@ -1437,7 +1438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), finally, (1), public (1), new, (1)
+> **Frameworks & Libraries:** dns (4), [[Kubernetes]] (4), cloud (3), data (2), node (1)
 > **CLI Commands:** kubectl (7), wget (2), node (1), aws (1)
 > **Env Vars:** dns (4), aws (1), html (1), http (1)
 > **File Paths:** frontend-ui.yaml (2), busybox-iu.yaml (1), busybox-ui.yaml (1)
@@ -1467,6 +1468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), dns (1), next (1)
 > **CLI Commands:** nginx (3), make (1)
 > **Env Vars:** http (1), dns (1)
 > **File Paths:** challenge.yaml (1)
@@ -1569,9 +1571,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[Kubernetes]] (5), traffic (1), [[HTML]] (1), next (1)
 > **CLI Commands:** nginx (12), make (7), kubectl (2), find (1), wget (1)
 > **Env Vars:** dns (8), yaml (2), http (2), html (1)
-> **Code Keywords:** let (6), default. (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **File Paths:** challenge.yaml (1)
 > **Code Identifiers:** clusterip (1)
@@ -1581,7 +1583,7 @@ created: 2026-04-29
 
 ### 4. Advanced Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding network policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/understanding-network-policies?u=76281980)
@@ -1694,7 +1696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (2), default. (1), finally, (1), pass (1)
+> **Frameworks & Libraries:** traffic (10), [[Kubernetes]] (6), node (1), feature (1), [[Security]] (1)
 > **CLI Commands:** kubectl (2), node (1)
 > **Env Vars:** cni (2), yaml (1)
 > **Prerequisites:** configure (2)
@@ -1758,9 +1760,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (10), traffic (6), [[Microservices]] (2), [[Helm]] (1), node (1)
 > **CLI Commands:** nginx (4), find (1), node (1)
 > **Env Vars:** http (2), yaml (2)
-> **Code Keywords:** default, (1), from. (1), let (1)
 > **Prerequisites:** set up (1), install (1)
 > **File Paths:** ingress.yaml (1)
 > **URLs:** [lil-microservices.com](https://lil-microservices.com) (1)
@@ -1796,8 +1798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (5), [[Microservices]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Microsoft Azure]] (2), traffic (1)
 > **CLI Commands:** node (1), aws (1), make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** aws (1)
 > **Warnings:** warning (1)
 > **Prerequisites:** install (1)
@@ -1806,7 +1808,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980)
@@ -1847,8 +1849,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (9), application (2), [[Security]] (2), next (1), [[Linux]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - you (1)
 
 

@@ -19,7 +19,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Leveraging%20Generative%20AI%20in%20Finance%20and%20Accounting.md)
@@ -38,29 +38,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to generative AI in finance
+  - [Introduction to generative AI in finance](#introduction-to-generative-ai-in-finance)
 - [**1. Introduction to Generative AI in Finance and Accounting**](#1-introduction-to-generative-ai-in-finance-and-accounting) (3 videos)
-  - The rise of generative AI in finance
-  - Generative AI and accounting automation
-  - Generative AI and its application in FP&A
+  - [The rise of generative AI in finance](#the-rise-of-generative-ai-in-finance)
+  - [Generative AI and accounting automation](#generative-ai-and-accounting-automation)
+  - [Generative AI and its application in FP&A](#generative-ai-and-its-application-in-fpa)
 - [**2. Generative Models and Their Applications**](#2-generative-models-and-their-applications) (3 videos)
-  - Understanding generative models
-  - Applications of generative AI in financial forecasting
-  - The democratization of data science
+  - [Understanding generative models](#understanding-generative-models)
+  - [Applications of generative AI in financial forecasting](#applications-of-generative-ai-in-financial-forecasting)
+  - [The democratization of data science](#the-democratization-of-data-science)
 - [**3. Ethical Considerations and Compliance**](#3-ethical-considerations-and-compliance) (3 videos)
-  - Ethics in AI-driven finance
-  - Compliance and regulatory landscape
-  - SOC 2 compliance and generative AI models
+  - [Ethics in AI-driven finance](#ethics-in-ai-driven-finance)
+  - [Compliance and regulatory landscape](#compliance-and-regulatory-landscape)
+  - [SOC 2 compliance and generative AI models](#soc-2-compliance-and-generative-ai-models)
 - [**4. Case Studies and Practical Applications**](#4-case-studies-and-practical-applications) (3 videos)
-  - Analyze an annual report with generative AI: 10-K
-  - Analyze an annual report with generative AI: Financial statements
-  - Create financial forecasts with generative AI: Trend analysis
+  - [Analyze an annual report with generative AI: 10-K](#analyze-an-annual-report-with-generative-ai-10-k)
+  - [Analyze an annual report with generative AI: Financial statements](#analyze-an-annual-report-with-generative-ai-financial-statements)
+  - [Create financial forecasts with generative AI: Trend analysis](#create-financial-forecasts-with-generative-ai-trend-analysis)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Apply generative AI techniques with confidence and compliance
+  - [Apply generative AI techniques with confidence and compliance](#apply-generative-ai-techniques-with-confidence-and-compliance)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to generative AI in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980)
@@ -87,13 +87,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (2), [[Financial Data]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[Corporate Finance]] (1)
 > **Speakers:** - what (1)
 
 
 ### 1. Introduction to Generative AI in Finance and Accounting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The rise of generative AI in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980)
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), data (6), [[Algorithms]] (2), [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1), for example (1), imagine (1)
 > **Speakers:** - when (1)
@@ -209,10 +210,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), rpa (5), [[Robotic Process Automation (RPA)|Robotic process automation]] (2), business (2), data (2)
 > **Env Vars:** rpa (5)
 > **Analogies:** imagine (2), kind of like (1), for instance (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** match. (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - imagine (1)
 
@@ -279,7 +280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1), return. (1)
+> **Frameworks & Libraries:** [[Financial Planning]] (3), ai (3), [[Generative AI]] (2), [[Financial Analysis]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (2)
 > **Env Vars:** ebitda (1)
@@ -290,7 +291,7 @@ created: 2026-04-29
 
 ### 2. Generative Models and Their Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding generative models
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980)
@@ -359,8 +360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Financial Planning]] (2), [[Neural Networks]] (2), [[Automation]] (2), [[Algorithms]] (1)
 > **CLI Commands:** make (3), node (1)
-> **Code Keywords:** let (2), function (1)
 > **Analogies:** similar to (1), imagine (1), for instance (1)
 > **Env Vars:** gan (1)
 > **Definitions:** means that (1)
@@ -435,7 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (11), data (6), [[Financial Forecasting]] (5), [[Financial Analysis]] (3), power (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - today (1)
 
@@ -508,16 +509,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), business (5), [[Analytics]] (3), [[ChatGPT]] (3), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** it's like (1), think of it as (1), similar to (1), imagine (1), for instance (1)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - have (1)
 
 
 ### 3. Ethical Considerations and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethics in AI-driven finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980)
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), extends (1), public (1), this, (1), require (1)
+> **Frameworks & Libraries:** ai (15), data (7), [[Decision-Making]] (6), [[Algorithms]] (4), [[Accountability]] (2)
 > **Env Vars:** gdpr (1), ccpa (1), xai (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** for instance (1), such as (1)
@@ -644,6 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Financial Statements]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2), business (2)
 > **Env Vars:** soc (2), gdpr (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Analogies:** such as (2)
@@ -703,16 +705,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), ai (8), [[Generative AI]] (6), management (4), [[Security]] (4)
 > **Env Vars:** soc (7)
 > **Analogies:** for example (2), such as (2), think of it as (1)
-> **Code Keywords:** public (1), protected (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - as (1)
 
 
 ### 4. Case Studies and Practical Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze an annual report with generative AI: 10-K
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980)
@@ -805,7 +807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), from. (1), require (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (3), data (3), management (2), llm (2)
 > **Env Vars:** llm (2), sec (1), ceo (1)
 > **Code Identifiers:** ipad (2), iphone (1)
 > **CLI Commands:** find (1), make (1)
@@ -897,7 +899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), from, (1), for. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), data (7), [[Financial Statements]] (6), prompt (3), [[Time Series Analysis]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** csv (2), roe (1)
 > **Analogies:** imagine (1)
@@ -966,7 +968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (7), [[Linear Regression]] (4), [[Forecasting]] (3), [[Generative AI]] (2), [[ChatGPT]] (2)
 > **Env Vars:** sarima (4)
 > **Analogies:** such as (1), just like (1)
 > **Definitions:** is a  (1)
@@ -975,7 +977,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply generative AI techniques with confidence and compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980)
@@ -1012,8 +1014,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), ai (2), power (1), [[Generative AI]] (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** public (1)
 > **Speakers:** - we (1)
 
 

@@ -39,7 +39,7 @@ tags:
   - skill/cloud-computing
   - skill/predictive-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20and%20Predictive%20AI%20in%20the%20Cloud-%20Foundational%20Concepts%20and%20Scenarios.md)
@@ -58,40 +58,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AI and the cloud
+  - [AI and the cloud](#ai-and-the-cloud)
 - [**1. AI Basics**](#1-ai-basics) (3 videos)
-  - Introduction to AI
-  - AI and big data
-  - AI models and training
+  - [Introduction to AI](#introduction-to-ai)
+  - [AI and big data](#ai-and-big-data)
+  - [AI models and training](#ai-models-and-training)
 - [**2. Cloud AI Basics**](#2-cloud-ai-basics) (4 videos)
-  - AI, clouds, and quantum computers
-  - AI and cloud automation
-  - Common cloud AI benefits
-  - Common cloud AI challenges
+  - [AI, clouds, and quantum computers](#ai-clouds-and-quantum-computers)
+  - [AI and cloud automation](#ai-and-cloud-automation)
+  - [Common cloud AI benefits](#common-cloud-ai-benefits)
+  - [Common cloud AI challenges](#common-cloud-ai-challenges)
 - [**3. Using Predictive AI to Improve Decision-Making**](#3-using-predictive-ai-to-improve-decision-making) (5 videos)
-  - How humans make decisions
-  - How predictive AI helps humans make decisions
-  - How predictive AI can make decisions on its own
-  - Common cloud AI benefits
-  - Common cloud AI challenges
+  - [How humans make decisions](#how-humans-make-decisions)
+  - [How predictive AI helps humans make decisions](#how-predictive-ai-helps-humans-make-decisions)
+  - [How predictive AI can make decisions on its own](#how-predictive-ai-can-make-decisions-on-its-own)
+  - [Common cloud AI benefits](#common-cloud-ai-benefits)
+  - [Common cloud AI challenges](#common-cloud-ai-challenges)
 - [**4. Using Predictive AI to Automate More Intelligently**](#4-using-predictive-ai-to-automate-more-intelligently) (5 videos)
-  - Automation without AI
-  - How predictive AI can enhance automation: RPA bots
-  - How predictive AI can enhance automation: Chatbots
-  - Common cloud AI benefits
-  - Common cloud AI challenges
+  - [Automation without AI](#automation-without-ai)
+  - [How predictive AI can enhance automation: RPA bots](#how-predictive-ai-can-enhance-automation-rpa-bots)
+  - [How predictive AI can enhance automation: Chatbots](#how-predictive-ai-can-enhance-automation-chatbots)
+  - [Common cloud AI benefits](#common-cloud-ai-benefits)
+  - [Common cloud AI challenges](#common-cloud-ai-challenges)
 - [**5. Using Generative AI to Create New Business Value**](#5-using-generative-ai-to-create-new-business-value) (5 videos)
-  - Creating new content and ideas without AI
-  - How generative AI can create new business content
-  - How generative AI can create new business ideas
-  - Common cloud AI benefits
-  - Common cloud AI challenges
+  - [Creating new content and ideas without AI](#creating-new-content-and-ideas-without-ai)
+  - [How generative AI can create new business content](#how-generative-ai-can-create-new-business-content)
+  - [How generative AI can create new business ideas](#how-generative-ai-can-create-new-business-ideas)
+  - [Common cloud AI benefits](#common-cloud-ai-benefits)
+  - [Common cloud AI challenges](#common-cloud-ai-challenges)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980)
@@ -110,12 +110,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), cloud (3), [[Generative AI]] (1), [[LinkedIn]] (1), business (1)
 
 
 ### 1. AI Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980)
@@ -148,6 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), ai (6), [[Generative AI]] (6), [[Predictive AI]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 
@@ -180,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), continue (1), require (1)
+> **Frameworks & Libraries:** data (15), [[Big Data]] (6), ai (4), [[Generative AI]] (2), business (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 
@@ -235,14 +236,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), this. (1), this, (1), for. (1)
+> **Frameworks & Libraries:** data (17), ai (7), [[Predictive AI]] (5), [[Generative AI]] (4), business (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1), similar to (1)
 
 
 ### 2. Cloud AI Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI, clouds, and quantum computers
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980)
@@ -305,7 +306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (20), ai (10), cloud (9), power (5), [[Automation]] (4)
 > **Cross-References:** in the next (1), later in (1)
 > **Prerequisites:** required to (2)
 > **CLI Commands:** make (1)
@@ -339,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** cloud (9), [[Automation]] (8), ai (8), data (4), next (1)
 > **Cross-References:** previous video (1)
 > **Prerequisites:** configure (1)
 
@@ -400,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1)
+> **Frameworks & Libraries:** ai (19), cloud (18), [[Security]] (4), [[Automation]] (3), [[Microsoft Products|Products]] (3)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** getting started (1)
@@ -444,14 +445,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (8), cloud (4), business (2), [[Big Data]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 
 ### 3. Using Predictive AI to Improve Decision-Making
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How humans make decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980)
@@ -478,8 +479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), ai (1), [[Statistics]] (1), [[Predictive AI]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 
@@ -520,9 +521,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Predictive AI]] (6), business (4), [[Decision-Making]] (1), [[Search]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (1), require (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
@@ -559,9 +560,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Decision-Making]] (6), data (3), business (3), feature (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 
 #### Common cloud AI benefits
@@ -589,9 +590,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (5), cloud (4), [[Decision-Making]] (3), [[Predictive AI]] (2)
 > **Cross-References:** we covered (1), next video (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 #### Common cloud AI challenges
@@ -631,7 +632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** data (9), cloud (5), [[Predictive AI]] (4), ai (4), [[Decision-Making]] (3)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -639,7 +640,7 @@ created: 2026-04-29
 
 ### 4. Using Predictive AI to Automate More Intelligently
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automation without AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980)
@@ -692,7 +693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), for. (1), new, (1)
+> **Frameworks & Libraries:** business (10), ai (4), [[Automation]] (4), rpa (3), next (2)
 > **Env Vars:** rpa (3)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
@@ -740,9 +741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), rpa (4), business (3), [[Predictive AI]] (3), data (3)
 > **Env Vars:** rpa (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **Cross-References:** previous video (1), we talked about (1), in the next (1)
 > **Speakers:** - as (1)
 
@@ -775,10 +776,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), chatbot (5), cloud (2), rpa (2), business (2)
 > **Env Vars:** rpa (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### Common cloud AI benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20284343?u=76281980)
@@ -805,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** application (4), [[Automation]] (3), ai (2), [[Predictive AI]] (1), business (1)
 
 #### Common cloud AI challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980)
@@ -840,13 +841,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), ai (6), business (5), [[Automation]] (4), application (3)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Analogies:** for example (1)
 
 
 ### 5. Using Generative AI to Create New Business Value
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating new content and ideas without AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980)
@@ -899,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), case, (1)
+> **Frameworks & Libraries:** business (4), [[Generative AI]] (3), [[Content Creation]] (2), ai (2), express (1)
 > **Analogies:** such as (1), for example (1), similar to (1)
 > **Cross-References:** coming up (2)
 > **Best Practices:** it's best to (1)
@@ -951,7 +953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (11), data (4), chatbot (4), ai (3), [[Predictive AI]] (3)
 > **Analogies:** it's like (1), for example (1), such as (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rpa (2)
@@ -1010,7 +1012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), business (5), data (4), rpa (3), cloud (3)
 > **Env Vars:** rpa (3)
 > **Cross-References:** go back to (2)
 > **Analogies:** imagine (1), such as (1)
@@ -1040,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), data (2), cloud (1), business (1), [[Ethics]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - generative (1)
 
@@ -1085,13 +1087,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), data (4), ai (2), [[Quantum Computing]] (1), [[Algorithms]] (1)
 > **Speakers:** - working (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980)
@@ -1112,6 +1114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Quantum Computing]] (1), [[Digital Transformation]] (1), [[Security]] (1)
 > **Cross-References:** we covered (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - thank (1)

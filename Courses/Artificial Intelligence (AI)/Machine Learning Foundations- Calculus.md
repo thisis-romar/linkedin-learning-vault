@@ -37,7 +37,7 @@ tags:
   - skill/calculus
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20Foundations-%20Calculus.md)
@@ -56,43 +56,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn calculus, a foundation for machine learning
-  - What you should know
+  - [Learn calculus, a foundation for machine learning](#learn-calculus-a-foundation-for-machine-learning)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Calculus**](#1-introduction-to-calculus) (4 videos)
-  - Defining calculus
-  - Applications of calculus in ML
-  - Functions
-  - Limits
+  - [Defining calculus](#defining-calculus)
+  - [Applications of calculus in ML](#applications-of-calculus-in-ml)
+  - [Functions](#functions)
+  - [Limits](#limits)
 - [**2. Derivatives and Differentiation**](#2-derivatives-and-differentiation) (8 videos)
-  - Introduction to derivatives
-  - The derivative of a constant and the power rule
-  - The constant multiple rule
-  - The sum rule
-  - The product rule
-  - The quotient rule
-  - The chain rule
-  - The power rule on a function chain
+  - [Introduction to derivatives](#introduction-to-derivatives)
+  - [The derivative of a constant and the power rule](#the-derivative-of-a-constant-and-the-power-rule)
+  - [The constant multiple rule](#the-constant-multiple-rule)
+  - [The sum rule](#the-sum-rule)
+  - [The product rule](#the-product-rule)
+  - [The quotient rule](#the-quotient-rule)
+  - [The chain rule](#the-chain-rule)
+  - [The power rule on a function chain](#the-power-rule-on-a-function-chain)
 - [**3. Multivariate Calculus**](#3-multivariate-calculus) (4 videos)
-  - Partial derivatives
-  - Calculating partial derivatives
-  - Higher-order partial derivatives
-  - The chain rule for partial derivatives
+  - [Partial derivatives](#partial-derivatives)
+  - [Calculating partial derivatives](#calculating-partial-derivatives)
+  - [Higher-order partial derivatives](#higher-order-partial-derivatives)
+  - [The chain rule for partial derivatives](#the-chain-rule-for-partial-derivatives)
 - [**4. Machine Learning Gradients**](#4-machine-learning-gradients) (4 videos)
-  - Single-point regression gradient
-  - The partial derivatives of quadratic cost
-  - Connecting partial derivatives with backpropagation
-  - Finding minima and maxima
+  - [Single-point regression gradient](#single-point-regression-gradient)
+  - [The partial derivatives of quadratic cost](#the-partial-derivatives-of-quadratic-cost)
+  - [Connecting partial derivatives with backpropagation](#connecting-partial-derivatives-with-backpropagation)
+  - [Finding minima and maxima](#finding-minima-and-maxima)
 - [**5. Introduction to Integral Calculus**](#5-introduction-to-integral-calculus) (4 videos)
-  - Defining integral calculus
-  - Integration rules
-  - Indefinite integrals
-  - Definite integrals
+  - [Defining integral calculus](#defining-integral-calculus)
+  - [Integration rules](#integration-rules)
+  - [Indefinite integrals](#indefinite-integrals)
+  - [Definite integrals](#definite-integrals)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn calculus, a foundation for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/learn-calculus-a-foundation-for-machine-learning?u=76281980)
@@ -111,6 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Calculus]] (4), [[Algorithms]] (1), ai (1)
 > **Speakers:** - understanding (1)
 
 #### What you should know
@@ -138,16 +139,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Calculus]] (2), [[Programming]] (1)
 > **Tools:** jupyter (4), anaconda (2)
 > **CLI Commands:** python (4), make (1)
-> **Code Keywords:** let (1)
 > **Versions:** python 3 (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Calculus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining calculus
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980)
@@ -196,7 +197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1)
+> **Frameworks & Libraries:** [[Calculus]] (16), [[Linear Algebra]] (1), [[Probability]] (1), [[Statistics]] (1), power (1)
 > **CLI Commands:** find (3), python (1)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** it's like (1)
@@ -237,8 +238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), node (2), application (1), next (1), [[Probability]] (1)
 > **CLI Commands:** node (2)
-> **Code Keywords:** function (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -318,7 +319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (1), case, (1)
+> **Frameworks & Libraries:** [[Calculus]] (4), next (2)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (2), for example (1)
@@ -418,7 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (5), case, (2), module (1)
+> **Frameworks & Libraries:** [[Calculus]] (1), functional (1), express (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** defined as (2), we call this (1), is a  (1)
 > **CLI Commands:** make (2), python (1)
 > **Warnings:** keep in mind (1)
@@ -427,7 +428,7 @@ created: 2026-04-29
 
 ### 2. Derivatives and Differentiation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to derivatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/introduction-to-derivatives?u=76281980)
@@ -516,7 +517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (2), continue (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Linear Regression]] (1), [[Logistic Regression]] (1), next (1)
 > **Definitions:** is a  (4), is called (1), we call this (1)
 > **Analogies:** imagine (2), for example (1)
 > **Versions:** 0.2 (1)
@@ -578,7 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), case, (1)
+> **Frameworks & Libraries:** power (14)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -629,7 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), case, (2)
+> **Frameworks & Libraries:** power (5), product (2)
 > **Definitions:** defined as (1), is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -702,7 +703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (6), case, (1), class, (1), pass (1)
+> **Frameworks & Libraries:** power (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Tools:** jupyter (1)
 > **Analogies:** for instance (1)
@@ -745,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), this, (1)
+> **Frameworks & Libraries:** product (6), power (6)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -802,7 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (6)
+> **Frameworks & Libraries:** next (3), power (2)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -896,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (3), protected (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** power (3), product (2), [[Software Development]] (1), [[Programming]] (1), next (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -936,14 +937,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (2), case, (1)
+> **Frameworks & Libraries:** power (6), [[Calculus]] (2), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Multivariate Calculus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Partial derivatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/partial-derivatives?u=76281980)
@@ -998,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), case, (2), let (1)
+> **Frameworks & Libraries:** power (2), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1080,7 +1081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), case, (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** power (5), next (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
@@ -1165,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (6), continue (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** power (3), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** for example (1)
@@ -1237,7 +1238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (4), case, (1), finally, (1)
+> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -1246,7 +1247,7 @@ created: 2026-04-29
 
 ### 4. Machine Learning Gradients
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Single-point regression gradient
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/single-point-regression-gradient?u=76281980)
@@ -1311,7 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), finally, (2), case, (1)
+> **Frameworks & Libraries:** [[Search]] (1), product (1), next (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2), is called (2)
 > **Versions:** 14.42 (2)
@@ -1362,7 +1363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (1)
+> **Frameworks & Libraries:** power (2), data (2)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is called (2), is a  (1)
 > **Env Vars:** mse (2)
@@ -1425,7 +1426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), yield (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Supervised Learning]] (1), [[Deep Learning]] (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
@@ -1521,7 +1522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), continue (1), case, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (5)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (1)
@@ -1530,7 +1531,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Integral Calculus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining integral calculus
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-integral-calculus?u=76281980)
@@ -1589,7 +1590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** [[Calculus]] (6)
 > **Analogies:** imagine (1), analogous to (1)
 > **CLI Commands:** find (1)
 > **Definitions:** defined as (1)
@@ -1672,7 +1673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** power (17), express (1)
 > **Definitions:** is called (1), known as (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [lecturer] (1)
@@ -1732,7 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), finally, (1)
+> **Frameworks & Libraries:** power (19), [[Google]] (1), [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -1814,7 +1815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), case, (1)
+> **Frameworks & Libraries:** power (7), [[Calculus]] (1)
 > **Versions:** 0.25 (1), 60.75 (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
@@ -1824,7 +1825,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980)
@@ -1849,7 +1850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Calculus]] (1), next (1), [[Linear Algebra]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [terezija] (1)
 
 

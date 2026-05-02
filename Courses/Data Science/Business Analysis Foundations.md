@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20Foundations.md)
@@ -50,46 +50,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Prevent project failure with business analysis
+  - [Prevent project failure with business analysis](#prevent-project-failure-with-business-analysis)
 - [**1. What Is Business Analysis?**](#1-what-is-business-analysis) (4 videos)
-  - What is business analysis (BA)?
-  - Business analysis industry definitions
-  - What is the role of a business analyst?
-  - Business analyst skill set
+  - [What is business analysis (BA)?](#what-is-business-analysis-ba)
+  - [Business analysis industry definitions](#business-analysis-industry-definitions)
+  - [What is the role of a business analyst?](#what-is-the-role-of-a-business-analyst)
+  - [Business analyst skill set](#business-analyst-skill-set)
 - [**2. Doing a Needs Assessment**](#2-doing-a-needs-assessment) (2 videos)
-  - Needs assessment basics
-  - Situation and solution statements
+  - [Needs assessment basics](#needs-assessment-basics)
+  - [Situation and solution statements](#situation-and-solution-statements)
 - [**3. Identifying Stakeholders**](#3-identifying-stakeholders) (3 videos)
-  - Who are the stakeholders?
-  - Classifying your stakeholders
-  - Engaging stakeholders
+  - [Who are the stakeholders?](#who-are-the-stakeholders)
+  - [Classifying your stakeholders](#classifying-your-stakeholders)
+  - [Engaging stakeholders](#engaging-stakeholders)
 - [**4. Creating a Business Case**](#4-creating-a-business-case) (2 videos)
-  - Purpose of a business case
-  - Content of a business case
+  - [Purpose of a business case](#purpose-of-a-business-case)
+  - [Content of a business case](#content-of-a-business-case)
 - [**5. Planning the Project**](#5-planning-the-project) (3 videos)
-  - Project planning: Vision
-  - Project planning: Project roadmap
-  - Project planning: Responsibilities
+  - [Project planning: Vision](#project-planning-vision)
+  - [Project planning: Project roadmap](#project-planning-project-roadmap)
+  - [Project planning: Responsibilities](#project-planning-responsibilities)
 - [**6. Determining Requirements**](#6-determining-requirements) (3 videos)
-  - Requirement types
-  - Requirements elicitation techniques
-  - Using requirements modeling techniques
+  - [Requirement types](#requirement-types)
+  - [Requirements elicitation techniques](#requirements-elicitation-techniques)
+  - [Using requirements modeling techniques](#using-requirements-modeling-techniques)
 - [**7. Traceability and Monitoring Requirements**](#7-traceability-and-monitoring-requirements) (2 videos)
-  - Traceability matrix and taskboard
-  - Change control
+  - [Traceability matrix and taskboard](#traceability-matrix-and-taskboard)
+  - [Change control](#change-control)
 - [**8. Evaluating the Solution**](#8-evaluating-the-solution) (2 videos)
-  - Testing and verifying the requirements
-  - Validating the requirements
+  - [Testing and verifying the requirements](#testing-and-verifying-the-requirements)
+  - [Validating the requirements](#validating-the-requirements)
 - [**9. Preparing for Release and Transition**](#9-preparing-for-release-and-transition) (3 videos)
-  - Project release planning
-  - Project transition planning
-  - Solution implementation planning
+  - [Project release planning](#project-release-planning)
+  - [Project transition planning](#project-transition-planning)
+  - [Solution implementation planning](#solution-implementation-planning)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prevent project failure with business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/prevent-project-failure-with-business-analysis?u=76281980)
@@ -126,12 +126,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7)
 > **Speakers:** - currently (1)
 
 
 ### 1. What Is Business Analysis?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is business analysis (BA)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/what-is-business-analysis-ba?u=76281980)
@@ -182,6 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7)
 > **Speakers:** - more (1)
 
 #### Business analysis industry definitions
@@ -243,8 +245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (15), product (2), management (1), application (1)
 > **Env Vars:** pmi (5), iiba (3)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - analysis (1)
 
@@ -313,9 +315,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (13), product (2), management (1)
 > **Env Vars:** iiba (1), pmi (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - let (1)
 
 #### Business analyst skill set
@@ -389,8 +391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), application (1), leadership (1), data (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - so (1)
@@ -398,7 +400,7 @@ created: 2026-04-29
 
 ### 2. Doing a Needs Assessment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Needs assessment basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/needs-assessment-basics-15250136?u=76281980)
@@ -457,6 +459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4)
 > **CLI Commands:** find (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - have (1)
@@ -524,15 +527,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), product (3), data (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** case. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - since (1)
 
 
 ### 3. Identifying Stakeholders
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Who are the stakeholders?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/who-are-the-stakeholders?u=76281980)
@@ -607,7 +610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this: (1), from. (1)
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
 > **Analogies:** for example (1)
@@ -685,7 +688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), continue (1), this, (1)
+> **Frameworks & Libraries:** power (7), management (2), data (1), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -778,8 +781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (2), apt (1)
-> **Code Keywords:** require (1), let (1), continue (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** refers to (1)
@@ -788,7 +791,7 @@ created: 2026-04-29
 
 ### 4. Creating a Business Case
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose of a business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/purpose-of-a-business-case-15243951?u=76281980)
@@ -841,7 +844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), require (1)
+> **Frameworks & Libraries:** business (7), management (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - so (1)
@@ -879,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include, (2), return, (1)
+> **Frameworks & Libraries:** business (7), data (2)
 > **Env Vars:** roi (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - the (1)
@@ -887,7 +890,7 @@ created: 2026-04-29
 
 ### 5. Planning the Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project planning: Vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-vision-15249134?u=76281980)
@@ -956,7 +959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** business (4), [[Microsoft Word|Word]] (1), teams (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** think of it as (1)
@@ -1038,9 +1041,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), next (1), [[Microsoft Office|Office]] (1), teams (1), management (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else, (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** good practice (1)
@@ -1103,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include. (1), case, (1)
+> **Frameworks & Libraries:** business (10), product (3), management (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** required to (1)
@@ -1112,7 +1115,7 @@ created: 2026-04-29
 
 ### 6. Determining Requirements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Requirement types
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980)
@@ -1199,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** business (3), functional (2), management (2), [[Forms]] (1), [[Security]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - requirements (1)
 
@@ -1280,7 +1283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), require (1)
+> **Frameworks & Libraries:** functional (1), [[Microsoft Word|Word]] (1), product (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 > **Warnings:** caution (1)
@@ -1363,7 +1366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), case, (1)
+> **Frameworks & Libraries:** business (5), data (5), product (3), next (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** pro tip (1)
@@ -1373,7 +1376,7 @@ created: 2026-04-29
 
 ### 7. Traceability and Monitoring Requirements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Traceability matrix and taskboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/traceability-matrix-and-taskboard?u=76281980)
@@ -1448,6 +1451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Scrum]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1)
@@ -1510,6 +1514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (2), [[React.js|React]] (1), management (1), [[Version Control]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ccb (1)
 > **Prerequisites:** you need to have (1)
@@ -1518,7 +1523,7 @@ created: 2026-04-29
 
 ### 8. Evaluating the Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing and verifying the requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/testing-and-verifying-the-requirements?u=76281980)
@@ -1565,6 +1570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), data (2), management (1)
 > **CLI Commands:** make (3)
 > **Documentation:** specification (1), the documentation (1)
 > **Speakers:** - there (1)
@@ -1602,6 +1608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** raci (1)
@@ -1610,7 +1617,7 @@ created: 2026-04-29
 
 ### 9. Preparing for Release and Transition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project release planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980)
@@ -1705,6 +1712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), cloud (1), [[Microsoft Products|Products]] (1), next (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdpr (1)
@@ -1785,7 +1793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), new. (1), case, (1)
+> **Frameworks & Libraries:** data (2), product (2), [[Programming]] (1), [[Microsoft Products|Products]] (1), application (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - regardless (1)
 
@@ -1842,8 +1850,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (2)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -1852,7 +1860,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/next-steps-15244958?u=76281980)
@@ -1887,6 +1895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[LinkedIn]] (2), management (1)
 > **Env Vars:** iiba (1), pmi (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)

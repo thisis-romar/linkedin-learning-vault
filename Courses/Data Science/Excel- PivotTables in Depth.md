@@ -30,7 +30,7 @@ tags:
   - skill/pivot-tables
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20PivotTables%20in%20Depth.md)
@@ -49,80 +49,80 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Apply the power of Excel PivotTables to your data
-  - What you should know before starting
+  - [Apply the power of Excel PivotTables to your data](#apply-the-power-of-excel-pivottables-to-your-data)
+  - [What you should know before starting](#what-you-should-know-before-starting)
 - [**1. Creating and Pivoting PivotTables**](#1-creating-and-pivoting-pivottables) (9 videos)
-  - Introduce PivotTables
-  - Format data for use in a PivotTable
-  - Create a PivotTable
-  - Pivot a PivotTable
-  - Configure a PivotTable
-  - Connect to an external data source
-  - Consolidate data from multiple sources
-  - Manage PivotTables
-  - Define a default PivotTable layout
+  - [Introduce PivotTables](#introduce-pivottables)
+  - [Format data for use in a PivotTable](#format-data-for-use-in-a-pivottable)
+  - [Create a PivotTable](#create-a-pivottable)
+  - [Pivot a PivotTable](#pivot-a-pivottable)
+  - [Configure a PivotTable](#configure-a-pivottable)
+  - [Connect to an external data source](#connect-to-an-external-data-source)
+  - [Consolidate data from multiple sources](#consolidate-data-from-multiple-sources)
+  - [Manage PivotTables](#manage-pivottables)
+  - [Define a default PivotTable layout](#define-a-default-pivottable-layout)
 - [**2. Summarizing PivotTable Data**](#2-summarizing-pivottable-data) (6 videos)
-  - Manage subtotals and grand totals
-  - Change the data field summary operation
-  - Summarize more than one data field
-  - Manage dates in a PivotTable
-  - Use PivotTable data in a formula
-  - Drill down to the underlying data
+  - [Manage subtotals and grand totals](#manage-subtotals-and-grand-totals)
+  - [Change the data field summary operation](#change-the-data-field-summary-operation)
+  - [Summarize more than one data field](#summarize-more-than-one-data-field)
+  - [Manage dates in a PivotTable](#manage-dates-in-a-pivottable)
+  - [Use PivotTable data in a formula](#use-pivottable-data-in-a-formula)
+  - [Drill down to the underlying data](#drill-down-to-the-underlying-data)
 - [**3. Sorting and Filtering PivotTable Data**](#3-sorting-and-filtering-pivottable-data) (10 videos)
-  - Sort PivotTable data
-  - Create a custom sort order
-  - Filter a PivotTable field by selection
-  - Filter a PivotTable by rule
-  - Filter a PivotTable using a search filter
-  - Filter a PivotTable using slicers
-  - Format slicers
-  - Filter a PivotTable with report filter fields
-  - Clear and reapply PivotTable filters
-  - Filter a PivotTable using a timeline
+  - [Sort PivotTable data](#sort-pivottable-data)
+  - [Create a custom sort order](#create-a-custom-sort-order)
+  - [Filter a PivotTable field by selection](#filter-a-pivottable-field-by-selection)
+  - [Filter a PivotTable by rule](#filter-a-pivottable-by-rule)
+  - [Filter a PivotTable using a search filter](#filter-a-pivottable-using-a-search-filter)
+  - [Filter a PivotTable using slicers](#filter-a-pivottable-using-slicers)
+  - [Format slicers](#format-slicers)
+  - [Filter a PivotTable with report filter fields](#filter-a-pivottable-with-report-filter-fields)
+  - [Clear and reapply PivotTable filters](#clear-and-reapply-pivottable-filters)
+  - [Filter a PivotTable using a timeline](#filter-a-pivottable-using-a-timeline)
 - [**4. Formatting PivotTables**](#4-formatting-pivottables) (4 videos)
-  - Apply a PivotTable style
-  - Create a PivotTable style
-  - Change the PivotTable layout
-  - Change the data field number format
+  - [Apply a PivotTable style](#apply-a-pivottable-style)
+  - [Create a PivotTable style](#create-a-pivottable-style)
+  - [Change the PivotTable layout](#change-the-pivottable-layout)
+  - [Change the data field number format](#change-the-data-field-number-format)
 - [**5. Applying Conditional Formats to PivotTables**](#5-applying-conditional-formats-to-pivottables) (8 videos)
-  - Highlight cells by applying a rule
-  - Highlight the top or bottom values in a PivotTable
-  - Format cells using data bars
-  - Format cells using color scales
-  - Format cells using icon sets
-  - Edit a conditional formatting rule
-  - Control how multiple rules are applied
-  - Delete a conditional formatting rule
+  - [Highlight cells by applying a rule](#highlight-cells-by-applying-a-rule)
+  - [Highlight the top or bottom values in a PivotTable](#highlight-the-top-or-bottom-values-in-a-pivottable)
+  - [Format cells using data bars](#format-cells-using-data-bars)
+  - [Format cells using color scales](#format-cells-using-color-scales)
+  - [Format cells using icon sets](#format-cells-using-icon-sets)
+  - [Edit a conditional formatting rule](#edit-a-conditional-formatting-rule)
+  - [Control how multiple rules are applied](#control-how-multiple-rules-are-applied)
+  - [Delete a conditional formatting rule](#delete-a-conditional-formatting-rule)
 - [**6. Creating and Formatting PivotCharts**](#6-creating-and-formatting-pivotcharts) (7 videos)
-  - Create a PivotChart
-  - Pivot a PivotChart
-  - Filter a PivotChart
-  - Format a PivotChart
-  - Change a PivotChart’s layout
-  - Change a PivotChart’s chart type
-  - Add a trendline to a PivotChart
+  - [Create a PivotChart](#create-a-pivotchart)
+  - [Pivot a PivotChart](#pivot-a-pivotchart)
+  - [Filter a PivotChart](#filter-a-pivotchart)
+  - [Format a PivotChart](#format-a-pivotchart)
+  - [Change a PivotChart’s layout](#change-a-pivotcharts-layout)
+  - [Change a PivotChart’s chart type](#change-a-pivotcharts-chart-type)
+  - [Add a trendline to a PivotChart](#add-a-trendline-to-a-pivotchart)
 - [**7. Printing PivotTables**](#7-printing-pivottables) (4 videos)
-  - Print a PivotTable
-  - Set PivotTable print options
-  - Print each item on its own page
-  - Print a PivotChart
+  - [Print a PivotTable](#print-a-pivottable)
+  - [Set PivotTable print options](#set-pivottable-print-options)
+  - [Print each item on its own page](#print-each-item-on-its-own-page)
+  - [Print a PivotChart](#print-a-pivotchart)
 - [**8. Manipulating PivotTables**](#8-manipulating-pivottables) (4 videos)
-  - Record and review an Excel macro
-  - Run an Excel macro
-  - Create a simple PivotTable presentation kit
-  - Change PivotTables using keyboard shortcuts
+  - [Record and review an Excel macro](#record-and-review-an-excel-macro)
+  - [Run an Excel macro](#run-an-excel-macro)
+  - [Create a simple PivotTable presentation kit](#create-a-simple-pivottable-presentation-kit)
+  - [Change PivotTables using keyboard shortcuts](#change-pivottables-using-keyboard-shortcuts)
 - [**9. Enabling and Adding Tables to the Data Model**](#9-enabling-and-adding-tables-to-the-data-model) (5 videos)
-  - Create relationships between tables
-  - Create a PivotTable using the data model
-  - Edit table relationships
-  - Deactivate and delete table relationships
-  - Define sets of values
+  - [Create relationships between tables](#create-relationships-between-tables)
+  - [Create a PivotTable using the data model](#create-a-pivottable-using-the-data-model)
+  - [Edit table relationships](#edit-table-relationships)
+  - [Deactivate and delete table relationships](#deactivate-and-delete-table-relationships)
+  - [Define sets of values](#define-sets-of-values)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further resources
+  - [Further resources](#further-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the power of Excel PivotTables to your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-the-power-of-excel-pivottables-to-your-data?u=76281980)
@@ -141,7 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Pivot Tables]] (4), [[Microsoft Excel|Excel]] (3), data (2), power (2), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [curt] (1)
 
@@ -176,14 +176,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Creating and Pivoting PivotTables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduce PivotTables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/introduce-pivottables?u=76281980)
@@ -236,7 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), static (1)
+> **Frameworks & Libraries:** data (5), [[Pivot Tables]] (3), business (2), next (1)
 > **UI Navigation:** go to (2), checkbox (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1), for example (1)
@@ -327,7 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (4), case, (3), delete (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (26), [[Microsoft Excel|Excel]] (10), [[Pivot Tables]] (1), product (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** b10 (1), f10 (1), a10 (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** checkbox (1)
@@ -410,9 +410,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), product (3), [[Microsoft Products|Products]] (1), next (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (2), scroll down (1)
-> **Code Keywords:** type. (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -493,7 +493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), type. (2), case, (1), for. (1), this. (1)
+> **Frameworks & Libraries:** data (8), product (6), business (2), [[Pivot Tables]] (2), power (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (1), checkbox (1)
 > **Warnings:** note that (2)
@@ -600,7 +600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1), return. (1), super (1), case, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), product (1)
 > **CLI Commands:** snap (1), make (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Prerequisites:** configure (1)
@@ -669,6 +669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** go to (1), select the (1), open the (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
@@ -792,7 +793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this. (1), delete (1)
+> **Frameworks & Libraries:** data (8), next (4), [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (1)
 > **Env Vars:** h12 (1), f12 (1), f15 (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (1), go to (1)
@@ -870,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), case, (2), this. (1), from. (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -953,7 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), open the (1)
 > **Exercise Files:** exercise files (1)
@@ -963,7 +964,7 @@ created: 2026-04-29
 
 ### 2. Summarizing PivotTable Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage subtotals and grand totals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-subtotals-and-grand-totals?u=76281980)
@@ -1064,8 +1065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (5), [[Microsoft Excel|Excel]] (2), product (2), next (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (1), default. (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
@@ -1149,8 +1150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Pivot Tables]] (1), business (1), next (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** case, (2), from. (1), from, (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
@@ -1208,6 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Pivot Tables]] (3), business (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** it's best to (1)
@@ -1278,9 +1280,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (3), [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (2), business (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (3)
-> **Code Keywords:** switch (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1363,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), function (4), type. (1), let (1), from, (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (5), business (4), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (2), click on (1), open the (1), checkbox (1)
 > **Versions:** 578.59 (1), 562.09 (1)
 > **Definitions:** is a  (1)
@@ -1410,7 +1412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), delete (1), continue (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (1)
 > **UI Navigation:** double-click (2), select the (1)
 > **CLI Commands:** find (2)
 > **Definitions:** means that (1)
@@ -1420,7 +1422,7 @@ created: 2026-04-29
 
 ### 3. Sorting and Filtering PivotTable Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sort PivotTable data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/sort-pivottable-data?u=76281980)
@@ -1485,7 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), continue (1), case, (1)
+> **Frameworks & Libraries:** business (5), data (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1580,7 +1582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** import. (1), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (2)
 > **UI Navigation:** go to (1), checkbox (1), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** a12 (1)
@@ -1668,7 +1670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), interface (1)
+> **Frameworks & Libraries:** product (8), data (4), next (2), [[Pivot Tables]] (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -1759,7 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (3)
+> **Frameworks & Libraries:** data (7), [[Pivot Tables]] (1), next (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1), - so (1)
@@ -1834,6 +1836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (7), [[Microsoft Products|Products]] (6), product (5), data (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4)
 > **Warnings:** note that (2)
 > **UI Navigation:** go to (1)
@@ -1924,7 +1927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), type. (2), let (1), type, (1)
+> **Frameworks & Libraries:** product (2), [[Microsoft Excel|Excel]] (1), data (1), business (1), [[Pivot Tables]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
@@ -2038,7 +2041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), type. (1), let (1), continue (1)
+> **Frameworks & Libraries:** product (4), data (4), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 1.7 (1), 0.3 (1)
 > **Definitions:** short for (1), means that (1)
@@ -2130,7 +2133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), for. (1), require (1), while, (1), let (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (3), [[Microsoft Excel|Excel]] (2), data (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
@@ -2185,7 +2188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), continue (1)
+> **Frameworks & Libraries:** product (3), [[Microsoft Excel|Excel]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -2244,8 +2247,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** case, (1), delete (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -2254,7 +2257,7 @@ created: 2026-04-29
 
 ### 4. Formatting PivotTables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply a PivotTable style
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980)
@@ -2357,11 +2360,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Office|Office]] (3), data (1), [[Microsoft Office]] (1)
 > **UI Navigation:** go to (3), scroll up (1)
 > **Analogies:** for example (3)
 > **Warnings:** note that (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** if, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -2453,9 +2456,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1), data (1)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** delete (2)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - the (1)
@@ -2529,7 +2532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), this. (1), default, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), [[Pivot Tables]] (2), next (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -2592,7 +2595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
@@ -2603,7 +2606,7 @@ created: 2026-04-29
 
 ### 5. Applying Conditional Formats to PivotTables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Highlight cells by applying a rule
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-cells-by-applying-a-rule?u=76281980)
@@ -2684,8 +2687,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2), application (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** type. (2), let (1), type, (1)
 > **Env Vars:** c10 (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -2808,7 +2811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), case, (1), self (1)
+> **Frameworks & Libraries:** product (5), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1), data (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** dropdown (1)
 > **Exercise Files:** exercise files (1)
@@ -2884,8 +2887,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), type. (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** dropdown (1)
 > **Exercise Files:** exercise files (1)
@@ -2951,7 +2954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (2)
 > **Versions:** 709.31 (1)
 > **Exercise Files:** exercise files (1)
@@ -3072,7 +3075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), management (1), product (1), next (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -3132,8 +3135,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** for. (1), case, (1), require (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3204,8 +3207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (4), next (2), [[Pivot Tables]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), case. (1)
 > **Env Vars:** b10 (1), c10 (1)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** checkbox (1)
@@ -3281,7 +3284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), case, (1), let (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -3292,7 +3295,7 @@ created: 2026-04-29
 
 ### 6. Creating and Formatting PivotCharts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a PivotChart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980)
@@ -3383,7 +3386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), finally, (2), switch (1), let (1)
+> **Frameworks & Libraries:** data (11), [[Pivot Tables]] (2), [[Microsoft Excel|Excel]] (2), business (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -3441,7 +3444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), case, (1)
+> **Frameworks & Libraries:** data (6), business (3), power (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Exercise Files:** exercise files (1)
@@ -3503,7 +3506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), from. (1), case, (1)
+> **Frameworks & Libraries:** product (7), data (6), business (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** checkbox (1)
 > **Exercise Files:** exercise files (1)
@@ -3579,9 +3582,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), select the (2)
-> **Code Keywords:** type, (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3660,7 +3663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), delete (2), type. (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** select the (1)
@@ -3732,7 +3735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), type, (2)
+> **Frameworks & Libraries:** data (7)
 > **UI Navigation:** select the (2), go to (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** find (1)
@@ -3792,6 +3795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (1), business (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -3799,12 +3803,11 @@ created: 2026-04-29
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** you should always (1)
 > **Warnings:** keep in mind (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 7. Printing PivotTables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Print a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivottable?u=76281980)
@@ -3847,9 +3850,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pdf (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
@@ -3907,8 +3910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), product (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** interface (1), include. (1), case, (1)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
@@ -3997,10 +4000,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), product (2), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (2), right-click (1), scroll down (1)
 > **Warnings:** note that (2), be aware (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** case, (1), extends (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -4052,8 +4055,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** interface (1), case, (1)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise files (1)
@@ -4063,7 +4066,7 @@ created: 2026-04-29
 
 ### 8. Manipulating PivotTables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Record and review an Excel macro
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980)
@@ -4168,7 +4171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), switch (1), let (1), module (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
@@ -4266,8 +4269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Security]] (3)
 > **UI Navigation:** go to (2), right-click (2), open the (1)
-> **Code Keywords:** let (2), finally, (1), case, (1)
 > **Env Vars:** vba (4)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -4350,7 +4353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), let (2), type, (1), finally, (1)
+> **Frameworks & Libraries:** data (3), [[Storytelling]] (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -4412,7 +4415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Pivot Tables]] (1), next (1)
 > **UI Navigation:** open the (1), select the (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -4422,7 +4425,7 @@ created: 2026-04-29
 
 ### 9. Enabling and Adding Tables to the Data Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create relationships between tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-relationships-between-tables?u=76281980)
@@ -4505,7 +4508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (2), let (1)
+> **Frameworks & Libraries:** data (6), product (6), [[Microsoft Products|Products]] (5), database (1), business (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -4559,9 +4562,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3), product (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** case, (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -4605,8 +4608,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), data (4), [[Microsoft Products|Products]] (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -4668,7 +4671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), type, (1), let (1), case, (1), continue (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), [[Microsoft Products|Products]] (3), product (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -4735,7 +4738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), include. (1)
+> **Frameworks & Libraries:** data (4), [[Pivot Tables]] (1), next (1), power (1)
 > **UI Navigation:** go to (1), scroll down (1), checkbox (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -4745,7 +4748,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980)
@@ -4774,8 +4777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), [[Microsoft Excel|Excel]] (2), data (2), bi (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [office.com](https://office.com) (1)
 > **Speakers:** - [instructor] (1)
 

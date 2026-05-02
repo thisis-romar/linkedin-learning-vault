@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20AI%20as%20Your%20SEO%20Assistant.md)
@@ -49,26 +49,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - You plus AI equals better SEO
-  - Choosing the right AI for the job
+  - [You plus AI equals better SEO](#you-plus-ai-equals-better-seo)
+  - [Choosing the right AI for the job](#choosing-the-right-ai-for-the-job)
 - [**1. Using AI to Improve Your SEO**](#1-using-ai-to-improve-your-seo) (11 videos)
-  - Using AI to generate keywords for SEO
-  - Using AI to generate search intent keywords
-  - Using AI to create a content plan
-  - Using AI to analyze sites that rank highly for keywords
-  - Using AI to improve your target keywords
-  - Using AI to optimize content for SEO
-  - Using AI to write an outreach email for link building
-  - Using AI to help optimize social media profiles
-  - Using AI to generate schema markup
-  - Using AI to analyze website data
-  - Using plugins with ChatGPT
+  - [Using AI to generate keywords for SEO](#using-ai-to-generate-keywords-for-seo)
+  - [Using AI to generate search intent keywords](#using-ai-to-generate-search-intent-keywords)
+  - [Using AI to create a content plan](#using-ai-to-create-a-content-plan)
+  - [Using AI to analyze sites that rank highly for keywords](#using-ai-to-analyze-sites-that-rank-highly-for-keywords)
+  - [Using AI to improve your target keywords](#using-ai-to-improve-your-target-keywords)
+  - [Using AI to optimize content for SEO](#using-ai-to-optimize-content-for-seo)
+  - [Using AI to write an outreach email for link building](#using-ai-to-write-an-outreach-email-for-link-building)
+  - [Using AI to help optimize social media profiles](#using-ai-to-help-optimize-social-media-profiles)
+  - [Using AI to generate schema markup](#using-ai-to-generate-schema-markup)
+  - [Using AI to analyze website data](#using-ai-to-analyze-website-data)
+  - [Using plugins with ChatGPT](#using-plugins-with-chatgpt)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### You plus AI equals better SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/you-plus-ai-equals-better-seo?u=76281980)
@@ -115,7 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), this. (1)
+> **Frameworks & Libraries:** seo (4), ai (4), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Search]] (1), power (1)
 > **Env Vars:** seo (4)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
@@ -198,8 +198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (4), prompt (2), [[Microsoft]] (2), [[GPT-4]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2), this, (1)
 > **Warnings:** heads up (1), note that (1)
 > **Env Vars:** gpt (1)
 > **Versions:** version 3 (1)
@@ -209,7 +209,7 @@ created: 2026-04-29
 
 ### 1. Using AI to Improve Your SEO
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to generate keywords for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980)
@@ -366,8 +366,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Search]] (5), traffic (5), prompt (5), seo (4)
 > **Env Vars:** gpt (9), seo (4), ted (1)
-> **Code Keywords:** let (6), continue (2), this. (1), for. (1)
 > **CLI Commands:** find (1)
 > **Versions:** 3.5 (1)
 > **Definitions:** means that (1)
@@ -510,7 +510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), for. (1), this, (1), finally, (1), super (1)
+> **Frameworks & Libraries:** [[Search]] (13), prompt (5), seo (2), next (1), management (1)
 > **Env Vars:** seo (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -651,7 +651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** seo (3), [[Search]] (3), [[LinkedIn]] (3), prompt (2), web (1)
 > **Env Vars:** seo (3)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
@@ -760,9 +760,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), [[ChatGPT]] (3), seo (3), [[Search]] (2), prompt (2)
 > **Env Vars:** seo (3), url (2)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (4)
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
@@ -846,7 +846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1)
+> **Frameworks & Libraries:** prompt (4), seo (2), [[Microsoft]] (1), [[ChatGPT]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** seo (2)
 > **Cross-References:** in the next (1)
@@ -948,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (1), [[HTML]] (1), seo (1), power (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** html (1), seo (1)
 > **Definitions:** is a  (1)
@@ -1118,7 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), for, (1), this. (1)
+> **Frameworks & Libraries:** prompt (3), [[ChatGPT]] (3), seo (2), [[Jetpack Compose|Compose]] (2), express (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [thedrum.com](https://thedrum.com) (1), [davebirss.com](https://davebirss.com) (1)
 > **Env Vars:** seo (2)
@@ -1201,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for, (2), this, (1)
+> **Frameworks & Libraries:** [[Search]] (3), prompt (3), traffic (2), [[ChatGPT]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** seo (1)
 > **UI Navigation:** go to (1)
@@ -1288,7 +1288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), try. (1)
+> **Frameworks & Libraries:** prompt (4), [[Search]] (3), [[ChatGPT]] (2)
 > **Env Vars:** url (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -1437,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), continue (1)
+> **Frameworks & Libraries:** data (15), prompt (4), web (2), next (2), [[ChatGPT]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Env Vars:** seo (1)
@@ -1598,7 +1598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (3), function (3), this, (3), for. (2)
+> **Frameworks & Libraries:** prompt (6), [[Search]] (6), [[ChatGPT]] (5), [[GPT-4]] (3), data (3)
 > **Env Vars:** gpt (3), seo (2)
 > **UI Navigation:** dropdown (2), click on (1), scroll down (1)
 > **CLI Commands:** make (2)
@@ -1610,7 +1610,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980)
@@ -1645,6 +1645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), ai (2), [[Search]] (1), [[Google]] (1), [[Prompt Engineering]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - congratulations (1)

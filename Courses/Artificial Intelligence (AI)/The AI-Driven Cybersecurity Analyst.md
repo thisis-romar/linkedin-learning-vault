@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cybersecurity-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20AI-Driven%20Cybersecurity%20Analyst.md)
@@ -54,24 +54,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How AI is transforming cybersecurity
+  - [How AI is transforming cybersecurity](#how-ai-is-transforming-cybersecurity)
 - [**1. AI Tips for Cybersecurity Analysts**](#1-ai-tips-for-cybersecurity-analysts) (10 videos)
-  - Prompt engineering and productivity tips for cybersecurity analysts
-  - Advanced prompt engineering and productivity tips
-  - Using AI ethically and securely in cybersecurity, part 1
-  - Using AI ethically and securely in cybersecurity, part 2
-  - Running AI offline and locally
-  - Threat actors use of AI
-  - Threat detection with AI
-  - Improve security reporting using AI
-  - AI-driven threat intelligence
-  - LLM-driven honeypots
+  - [Prompt engineering and productivity tips for cybersecurity analysts](#prompt-engineering-and-productivity-tips-for-cybersecurity-analysts)
+  - [Advanced prompt engineering and productivity tips](#advanced-prompt-engineering-and-productivity-tips)
+  - [Using AI ethically and securely in cybersecurity, part 1](#using-ai-ethically-and-securely-in-cybersecurity-part-1)
+  - [Using AI ethically and securely in cybersecurity, part 2](#using-ai-ethically-and-securely-in-cybersecurity-part-2)
+  - [Running AI offline and locally](#running-ai-offline-and-locally)
+  - [Threat actors use of AI](#threat-actors-use-of-ai)
+  - [Threat detection with AI](#threat-detection-with-ai)
+  - [Improve security reporting using AI](#improve-security-reporting-using-ai)
+  - [AI-driven threat intelligence](#ai-driven-threat-intelligence)
+  - [LLM-driven honeypots](#llm-driven-honeypots)
 - [**2. Helpful Resources**](#2-helpful-resources) (1 videos)
-  - The future of cybersecurity with AI
+  - [The future of cybersecurity with AI](#the-future-of-cybersecurity-with-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How AI is transforming cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980)
@@ -110,14 +110,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1)
+> **Frameworks & Libraries:** ai (10), [[Cybersecurity]] (4), data (2), strengths (1), traffic (1)
 > **Analogies:** for example (1)
 > **Speakers:** - why (1)
 
 
 ### 1. AI Tips for Cybersecurity Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt engineering and productivity tips for cybersecurity analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980)
@@ -198,10 +198,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (13), ai (7), prompt (6), data (3), [[Microsoft Word|Word]] (2)
 > **Analogies:** imagine (2), for example (1), similar to (1)
 > **Env Vars:** llm (1), rtf (1), ctf (1)
 > **Definitions:** stands for (2), is an  (1)
-> **Code Keywords:** let (1), yield (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -316,8 +316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), prompt (4), [[Microsoft Word|Word]] (4), data (3), [[Prompt Engineering]] (2)
 > **Analogies:** for example (4), imagine (1), think of it as (1)
-> **Code Keywords:** let (2), type, (1), interface (1)
 > **Env Vars:** llm (2), api (1)
 > **Versions:** 0.2 (1), 0.8 (1), 0.9 (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -378,8 +378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (22), data (7), [[Cybersecurity]] (6), [[Security]] (4), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -449,7 +449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), public (1), this, (1)
+> **Frameworks & Libraries:** ai (18), data (6), [[Security]] (5), hit (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gpt (2), api (1)
 > **Analogies:** imagine (1), for example (1)
 > **Prerequisites:** getting started (1), set up (1)
@@ -532,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (2), case, (1)
+> **Frameworks & Libraries:** ai (16), data (6), [[Cybersecurity]] (5), [[ChatGPT]] (3), rag (3)
 > **Env Vars:** rag (3), llm (1)
 > **Analogies:** for example (1), think of it as (1), just like (1)
 > **Prerequisites:** you'll need (1), setup (1)
@@ -590,9 +590,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), [[Cybersecurity]] (4), [[Phishing]] (3), data (2), [[ChatGPT]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), such as (1), kind of like (1)
-> **Code Keywords:** this. (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -663,11 +663,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (2), [[Cybersecurity]] (2), [[Powershell]] (2), [[Algorithms]] (1)
 > **Analogies:** it's like (1), think of it as (1), imagine (1)
 > **CLI Commands:** make (2)
 > **Versions:** 92.5 (1), 3.2 (1)
 > **Tools:** powershell (2)
-> **Code Keywords:** super (1)
 > **Speakers:** - [instructor] (1)
 
 #### Improve security reporting using AI
@@ -769,9 +769,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Cybersecurity]] (4), [[Security]] (4), business (2), [[Incident Response]] (1)
 > **Env Vars:** ciso (1), iso (1), hippa (1), xyz (1), spf (1)
 > **CLI Commands:** make (1), find (1), apt (1)
-> **Code Keywords:** let (3)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -854,8 +854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), business (3), data (2), [[Google]] (2), [[Cybersecurity]] (1)
 > **Definitions:** stands for (4)
-> **Code Keywords:** let (1), public (1)
 > **Env Vars:** cart (1), cti (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -915,9 +915,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Cybersecurity]] (3), [[Security]] (2), teams (2), [[Linux]] (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** shellm (3)
-> **Code Keywords:** static (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it like (1)
@@ -927,7 +927,7 @@ created: 2026-04-29
 
 ### 2. Helpful Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of cybersecurity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980)
@@ -954,7 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** ai (4), [[Cybersecurity]] (3), next (1), [[Security]] (1), data (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - congratulations (1)
 

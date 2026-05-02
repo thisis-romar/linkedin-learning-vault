@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/digital-transformation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Assessing%20Digital%20Maturity.md)
@@ -48,27 +48,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - How to assess digital maturity
-  - Digital transformation and digital maturity
+  - [How to assess digital maturity](#how-to-assess-digital-maturity)
+  - [Digital transformation and digital maturity](#digital-transformation-and-digital-maturity)
 - [**1. Thinking Outside of your Organization**](#1-thinking-outside-of-your-organization) (5 videos)
-  - Speed is the new currency of business
-  - The new sources of competitive advantage in the digital world
-  - Innovation labs
-  - One speed business
-  - The importance of developing ecosystems
+  - [Speed is the new currency of business](#speed-is-the-new-currency-of-business)
+  - [The new sources of competitive advantage in the digital world](#the-new-sources-of-competitive-advantage-in-the-digital-world)
+  - [Innovation labs](#innovation-labs)
+  - [One speed business](#one-speed-business)
+  - [The importance of developing ecosystems](#the-importance-of-developing-ecosystems)
 - [**2. Five Stages of Digital Maturity**](#2-five-stages-of-digital-maturity) (3 videos)
-  - Five stages of digital maturity
-  - Provide strategic clarity, focus, and alignment
-  - Serve the customer where they wish, how they wish
+  - [Five stages of digital maturity](#five-stages-of-digital-maturity)
+  - [Provide strategic clarity, focus, and alignment](#provide-strategic-clarity-focus-and-alignment)
+  - [Serve the customer where they wish, how they wish](#serve-the-customer-where-they-wish-how-they-wish)
 - [**3. Putting the Model into Action: The Development of Capability Teams**](#3-putting-the-model-into-action-the-development-of-capability-teams) (2 videos)
-  - Capability teams defined
-  - Evolution of capability teams
+  - [Capability teams defined](#capability-teams-defined)
+  - [Evolution of capability teams](#evolution-of-capability-teams)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to assess digital maturity
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/how-to-assess-digital-maturity?u=76281980)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** business (4), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **URLs:** [jet.com](https://jet.com) (1)
 > **Versions:** 3.7 (1)
 > **Definitions:** is an  (1)
@@ -194,7 +194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2)
+> **Frameworks & Libraries:** [[Digital Transformation]] (8), business (4), [[Microsoft Products|Products]] (1), next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - the (1)
@@ -202,7 +202,7 @@ created: 2026-04-29
 
 ### 1. Thinking Outside of your Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Speed is the new currency of business
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980)
@@ -267,8 +267,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Accountability]] (2), next (1), [[Performance Metrics]] (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** stac (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - the (1)
@@ -368,8 +368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (16), product (9), [[Microsoft Products|Products]] (3), business (2), leadership (2)
 > **Tools:** slack (16)
-> **Code Keywords:** let (2), include: (1), finally, (1), interface (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -436,6 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), next (3), product (2), teams (1), data (1)
 > **Env Vars:** adp (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -494,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (3), [[Learning Agility]] (1), [[Agile Development|Agile]] (1), product (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - on (1)
@@ -552,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), open-source (1)
 > **Definitions:** means that (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - as (1)
@@ -560,7 +561,7 @@ created: 2026-04-29
 
 ### 2. Five Stages of Digital Maturity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Five stages of digital maturity
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980)
@@ -627,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** business (3), product (3), [[Digital Transformation]] (1), [[Google]] (1), [[Product Development]] (1)
 > **Env Vars:** pnl (1), cio (1), sas (1)
 > **Versions:** 30.5 (1)
 > **Definitions:** is a  (1)
@@ -703,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), self (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), next (1), power (1), product (1)
 > **Env Vars:** ceo (1), ipo (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -796,15 +797,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), power (3), [[Google]] (2), [[Microsoft Office|Office]] (1), hit (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (2), finally, (1), this, (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - customers (1)
 
 
 ### 3. Putting the Model into Action: The Development of Capability Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Capability teams defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980)
@@ -859,7 +860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), finally, (1), from, (1)
+> **Frameworks & Libraries:** business (6), teams (2), product (2), [[Microsoft Products|Products]] (1), functional (1)
 > **Env Vars:** ing (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - all (1)
@@ -931,7 +932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this: (1), require (1)
+> **Frameworks & Libraries:** teams (10), business (3), functional (2), next (1), [[Agile Development|Agile]] (1)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -941,7 +942,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/next-steps?u=76281980)
@@ -980,6 +981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Digital Transformation]] (2), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [cio.com](https://cio.com) (1)
 > **Env Vars:** cio (1)

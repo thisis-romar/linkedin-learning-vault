@@ -42,7 +42,7 @@ tags:
   - topic/software-development
   - skill/data-governance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Data%20Governance.md)
@@ -61,35 +61,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Data governance affects everyone
+  - [Data governance affects everyone](#data-governance-affects-everyone)
 - [**1. What Is Data Governance?**](#1-what-is-data-governance) (7 videos)
-  - The role of data in the 21st century
-  - Why do we need data governance?
-  - Data governance definition and basics
-  - The principles of data governance
-  - Data governance focus areas
-  - Understanding data modeling
-  - How do you know if your organization needs data governance?
+  - [The role of data in the 21st century](#the-role-of-data-in-the-21st-century)
+  - [Why do we need data governance?](#why-do-we-need-data-governance)
+  - [Data governance definition and basics](#data-governance-definition-and-basics)
+  - [The principles of data governance](#the-principles-of-data-governance)
+  - [Data governance focus areas](#data-governance-focus-areas)
+  - [Understanding data modeling](#understanding-data-modeling)
+  - [How do you know if your organization needs data governance?](#how-do-you-know-if-your-organization-needs-data-governance)
 - [**2. Data Governance Deployment**](#2-data-governance-deployment) (8 videos)
-  - Who owns the data and why does that matter?
-  - Understanding roles in the data governance domain
-  - Designing data governance processes
-  - The value of a data catalog
-  - Creating data governance policies
-  - Exploring the role of knowledge graphs
-  - Data governance and artificial intelligence
-  - The role of data governance in the Internet of Things
+  - [Who owns the data and why does that matter?](#who-owns-the-data-and-why-does-that-matter)
+  - [Understanding roles in the data governance domain](#understanding-roles-in-the-data-governance-domain)
+  - [Designing data governance processes](#designing-data-governance-processes)
+  - [The value of a data catalog](#the-value-of-a-data-catalog)
+  - [Creating data governance policies](#creating-data-governance-policies)
+  - [Exploring the role of knowledge graphs](#exploring-the-role-of-knowledge-graphs)
+  - [Data governance and artificial intelligence](#data-governance-and-artificial-intelligence)
+  - [The role of data governance in the Internet of Things](#the-role-of-data-governance-in-the-internet-of-things)
 - [**3. Managing a Data Governance Program**](#3-managing-a-data-governance-program) (4 videos)
-  - Data governance in compliance, privacy, and security
-  - Managing and maintaining data governance
-  - Monitoring and measuring your program
-  - The role of the chief data officer
+  - [Data governance in compliance, privacy, and security](#data-governance-in-compliance-privacy-and-security)
+  - [Managing and maintaining data governance](#managing-and-maintaining-data-governance)
+  - [Monitoring and measuring your program](#monitoring-and-measuring-your-program)
+  - [The role of the chief data officer](#the-role-of-the-chief-data-officer)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The value of data governance
+  - [The value of data governance](#the-value-of-data-governance)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data governance affects everyone
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), new, (1), let (1)
+> **Frameworks & Libraries:** data (9), [[Knowledge Graphs]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Internet of Things (IoT)|Internet of things]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 ### 1. What Is Data Governance?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of data in the 21st century
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980)
@@ -202,7 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1), raise (1)
+> **Frameworks & Libraries:** data (19), [[IoT]] (3), [[Big Data]] (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** iot (3)
 > **Analogies:** such as (1), imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -268,7 +268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (22), management (3), business (2), teams (1), [[IoT]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -313,9 +313,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), management (6), business (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - today (1)
 
@@ -388,8 +388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Accountability]] (2), [[Search]] (2), management (2), [[Security]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), public (1)
 > **Env Vars:** mdm (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - let (1)
@@ -463,7 +463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), this, (1), include: (1)
+> **Frameworks & Libraries:** data (25), bi (4), [[Business Intelligence (BI)|Business intelligence]] (2), [[Microsoft Products|Products]] (2), next (1)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** defined as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -536,8 +536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), business (7), product (1), [[Databases]] (1), [[Security]] (1)
 > **Definitions:** is a  (2), we call this (1), is called (1)
-> **Code Keywords:** finally, (1), let (1), function (1)
 > **Env Vars:** erd (3)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -597,7 +597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), case, (1), continue (1)
+> **Frameworks & Libraries:** data (23), management (4), business (3), [[Accountability]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (2), such as (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - how (1)
@@ -605,7 +605,7 @@ created: 2026-04-29
 
 ### 2. Data Governance Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Who owns the data and why does that matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980)
@@ -666,8 +666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (36), [[Accountability]] (2), [[Human Resources (HR)|Human resources]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** this, (1), function (1)
 > **Analogies:** for example (1)
 > **Speakers:** - data (1)
 
@@ -732,7 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), finally, (1)
+> **Frameworks & Libraries:** data (25), business (3), management (3), [[Ethics]] (1), database (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** pci (1)
 > **Definitions:** is an  (1)
@@ -846,8 +846,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (53), management (15), next (4), business (2), leadership (2)
 > **Env Vars:** isaca (3), ibm (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - when (1)
@@ -931,7 +931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), require (1)
+> **Frameworks & Libraries:** data (44), [[Metadata]] (8), business (4), [[Security]] (2), management (2)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** known as (1), is a  (1)
@@ -1046,9 +1046,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Security]] (3), management (2), next (2), cloud (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** protected (1), this, (1), finally, (1)
 > **Analogies:** for example (3)
 > **Env Vars:** dgb (1)
 > **UI Navigation:** go to (1)
@@ -1155,7 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), interface (1)
+> **Frameworks & Libraries:** data (27), [[Knowledge Graphs]] (6), [[Search]] (2), database (2), management (1)
 > **Env Vars:** rdf (4), w3c (1)
 > **Definitions:** known as (2), is an  (2)
 > **Analogies:** such as (3), for example (1)
@@ -1236,7 +1236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), require (1)
+> **Frameworks & Libraries:** data (28), ai (26), [[Big Data]] (2), [[Analytics]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1)
@@ -1330,8 +1330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), [[IoT]] (18), cloud (2), management (2), business (2)
 > **Definitions:** is a  (2), is an  (1), we call this (1)
-> **Code Keywords:** function (1), this, (1)
 > **Versions:** 4.6 (1), 4.4 (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1339,7 +1339,7 @@ created: 2026-04-29
 
 ### 3. Managing a Data Governance Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data governance in compliance, privacy, and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980)
@@ -1418,10 +1418,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), management (3), [[Privacy]] (3), [[Security]] (2), [[Probability]] (1)
 > **Env Vars:** grc (13), gdpr (1)
 > **Definitions:** refers to (2), is a  (2), defined as (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** continue (1), require (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - data (1)
@@ -1513,7 +1513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), super (1), finally, (1)
+> **Frameworks & Libraries:** data (12), leadership (2), next (1), management (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1630,9 +1630,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), [[Security]] (2), [[Decision-Making]] (1), [[Privacy]] (1), management (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (5)
-> **Code Keywords:** let (2), this. (1), continue (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - it (1)
 
@@ -1711,16 +1711,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), business (6), leadership (3), management (2), [[Analytics]] (1)
 > **Env Vars:** cdo (14)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** function (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - while (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980)
@@ -1763,8 +1763,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), management (2), [[Cybersecurity]] (2), business (1), [[Accountability]] (1)
 > **Env Vars:** isaca (1), grc (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
 

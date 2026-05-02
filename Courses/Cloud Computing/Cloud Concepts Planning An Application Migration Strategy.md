@@ -19,7 +19,7 @@ tags:
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Concepts%20Planning%20An%20Application%20Migration%20Strategy.md)
@@ -38,47 +38,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Take the migration journey with your applications to the cloud
-  - What you should know
+  - [Take the migration journey with your applications to the cloud](#take-the-migration-journey-with-your-applications-to-the-cloud)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Cloud Migration**](#1-introduction-to-cloud-migration) (6 videos)
-  - Understanding the business case
-  - Understanding the risks
-  - Public cloud migration
-  - Private cloud migration
-  - Multicloud migration
-  - Cloud-based AI migration
+  - [Understanding the business case](#understanding-the-business-case)
+  - [Understanding the risks](#understanding-the-risks)
+  - [Public cloud migration](#public-cloud-migration)
+  - [Private cloud migration](#private-cloud-migration)
+  - [Multicloud migration](#multicloud-migration)
+  - [Cloud-based AI migration](#cloud-based-ai-migration)
 - [**2. Selecting the Workloads**](#2-selecting-the-workloads) (4 videos)
-  - Good candidates for migration
-  - Poor candidates for migration
-  - Leveraging workload categories
-  - Creating migration priorities
+  - [Good candidates for migration](#good-candidates-for-migration)
+  - [Poor candidates for migration](#poor-candidates-for-migration)
+  - [Leveraging workload categories](#leveraging-workload-categories)
+  - [Creating migration priorities](#creating-migration-priorities)
 - [**3. Selecting a Target Platform**](#3-selecting-a-target-platform) (4 videos)
-  - Public clouds
-  - Private clouds
-  - Multicloud
-  - Other cloud platform options
+  - [Public clouds](#public-clouds)
+  - [Private clouds](#private-clouds)
+  - [Multicloud](#multicloud)
+  - [Other cloud platform options](#other-cloud-platform-options)
 - [**4. Cloud-Based Tools**](#4-cloud-based-tools) (3 videos)
-  - AWS migration tools
-  - Microsoft migration tools
-  - AI migration tools for cloud computing
+  - [AWS migration tools](#aws-migration-tools)
+  - [Microsoft migration tools](#microsoft-migration-tools)
+  - [AI migration tools for cloud computing](#ai-migration-tools-for-cloud-computing)
 - [**5. Setting Up a Migration Factory**](#5-setting-up-a-migration-factory) (5 videos)
-  - Workload triage
-  - Selecting tools
-  - Considering AI with cloud migration
-  - Considering DevOps
-  - Creating a process
+  - [Workload triage](#workload-triage)
+  - [Selecting tools](#selecting-tools)
+  - [Considering AI with cloud migration](#considering-ai-with-cloud-migration)
+  - [Considering DevOps](#considering-devops)
+  - [Creating a process](#creating-a-process)
 - [**6. Migration at Scale**](#6-migration-at-scale) (5 videos)
-  - Getting up to 100 applications a day
-  - Organization and skill considerations
-  - Security considerations
-  - Governance considerations
-  - AI and generative AI considerations
+  - [Getting up to 100 applications a day](#getting-up-to-100-applications-a-day)
+  - [Organization and skill considerations](#organization-and-skill-considerations)
+  - [Security considerations](#security-considerations)
+  - [Governance considerations](#governance-considerations)
+  - [AI and generative AI considerations](#ai-and-generative-ai-considerations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about cloud migration
+  - [Learning more about cloud migration](#learning-more-about-cloud-migration)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the migration journey with your applications to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/take-the-migration-journey-with-your-applications-to-the-cloud?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** cloud (4), data (2), business (2), application (2), [[Search]] (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - the (1)
 
@@ -120,13 +120,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Security]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Cloud Migration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980)
@@ -195,7 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (2), require (2), private (1), static (1)
+> **Frameworks & Libraries:** cloud (19), business (11), data (3), [[Scalability]] (3), application (2)
 > **CLI Commands:** aws (1), make (1), find (1)
 > **Env Vars:** aws (1), tco (1)
 > **Analogies:** such as (2)
@@ -264,7 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5)
+> **Frameworks & Libraries:** cloud (10), data (8), [[Security]] (3), business (3), [[Privacy]] (1)
 > **Env Vars:** cfo (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -328,7 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), include, (1), let (1), private (1)
+> **Frameworks & Libraries:** cloud (11), [[Security]] (7), data (6), application (3), [[Continuous Monitoring]] (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1), for instance (1)
 > **Prerequisites:** required to (1)
@@ -381,7 +382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (8), public (4), let (1)
+> **Frameworks & Libraries:** cloud (12), data (7), [[Security]] (7), application (2), [[Continuous Monitoring]] (2)
 > **Cross-References:** we discussed (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -432,7 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), public (5), let (1)
+> **Frameworks & Libraries:** cloud (12), [[Security]] (2), application (1), [[Google]] (1), aws (1)
 > **Cross-References:** we discussed (1), in the last (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -482,7 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (4), case, (1), finally, (1)
+> **Frameworks & Libraries:** ai (8), cloud (6), data (5), application (2), [[Private Clouds]] (2)
 > **Cross-References:** we discussed (1), in the last (1), in the next (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
@@ -494,7 +495,7 @@ created: 2026-04-29
 
 ### 2. Selecting the Workloads
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Good candidates for migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980)
@@ -543,7 +544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (8), require (1), let (1)
+> **Frameworks & Libraries:** cloud (11), web (2), [[Scalability]] (1), traffic (1), [[Content Management Systems (CMS)|Content management systems]] (1)
 > **Env Vars:** cms (1)
 > **Speakers:** - [instructor] (1)
 
@@ -604,7 +605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), require (2), let (1)
+> **Frameworks & Libraries:** cloud (9), data (7), [[Security]] (2), [[Hardware]] (2), application (1)
 > **Env Vars:** hipaa (2), gdpr (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
@@ -667,7 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), type. (1), require (1), finally, (1), let (1)
+> **Frameworks & Libraries:** application (6), business (5), cloud (4), data (2), [[Scalability]] (2)
 > **Analogies:** for instance (1), for example (1), such as (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -709,7 +710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), require (1), this, (1), let (1)
+> **Frameworks & Libraries:** application (3), cloud (3), business (2), data (2), next (2)
 > **Cross-References:** we discussed (1), in the last (1), in the next (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -718,7 +719,7 @@ created: 2026-04-29
 
 ### 3. Selecting a Target Platform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Public clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980)
@@ -769,7 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), let (2), private (1)
+> **Frameworks & Libraries:** cloud (4), [[Scalability]] (2), [[Hardware]] (2), hit (1), traffic (1)
 > **Definitions:** means that (2), is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -818,7 +819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (8), public (4), let (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (7), [[Hardware]] (5), cloud (3), [[Security]] (2), application (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
@@ -854,8 +855,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), database (1), aws (1), ai (1), [[Microsoft]] (1)
 > **CLI Commands:** aws (1), find (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** aws (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -896,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), private (1), type, (1), let (1)
+> **Frameworks & Libraries:** cloud (6), ai (4), data (2), application (2), next (1)
 > **Analogies:** such as (5)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -904,7 +905,7 @@ created: 2026-04-29
 
 ### 4. Cloud-Based Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS migration tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980)
@@ -961,9 +962,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (18), data (7), cloud (4), application (4), database (3)
 > **Env Vars:** aws (18), dms (3)
 > **CLI Commands:** aws (18), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Microsoft migration tools
@@ -1013,11 +1014,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), database (6), cloud (5), [[Virtual Machines]] (2), [[Databases]] (2)
 > **Env Vars:** sql (3), asr (1), dms (1), aws (1), net (1)
 > **CLI Commands:** aws (1), php (1)
 > **Cross-References:** we covered (1), in the last (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1068,9 +1069,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (6), cloud (5), [[Google Cloud Platform (GCP)|Google cloud]] (3), aws (2)
 > **Env Vars:** ibm (3), aws (2)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** public (2)
 > **Cross-References:** we covered (1), previous video (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1078,7 +1079,7 @@ created: 2026-04-29
 
 ### 5. Setting Up a Migration Factory
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Workload triage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/workload-triage?u=76281980)
@@ -1121,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1)
+> **Frameworks & Libraries:** cloud (4), application (3), business (2), data (1), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1178,9 +1179,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), data (2), ai (2), [[Requirements Gathering]] (1), aws (1)
 > **CLI Commands:** find (2), aws (1), make (1)
 > **Env Vars:** poc (3), aws (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** picture (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1236,9 +1237,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), cloud (7), application (3), data (3), [[Automation]] (2)
 > **CLI Commands:** aws (2), make (1), find (1)
 > **Env Vars:** aws (2), ibm (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Cross-References:** we covered (1), in the last (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [presenter] (1)
@@ -1286,9 +1287,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), [[DevOps]] (7), aws (3), [[Automation]] (2), [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** aws (3), cd (1), terraform (1)
 > **Env Vars:** aws (3)
-> **Code Keywords:** let (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1333,16 +1334,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), aws (3), [[Microsoft Azure|Azure]] (3), [[Google]] (3), next (2)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
-> **Code Keywords:** this. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Migration at Scale
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting up to 100 applications a day
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/getting-as-many-as-10-100-applications-a-day?u=76281980)
@@ -1371,7 +1372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), function (1)
+> **Frameworks & Libraries:** cloud (5), application (1), [[Code Refactoring]] (1), [[Security]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -1412,8 +1413,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), aws (2), [[Serverless Computing]] (1), [[Google]] (1), ai (1)
 > **CLI Commands:** aws (2), find (1)
-> **Code Keywords:** let (2), this. (1)
 > **Env Vars:** aws (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (2)
@@ -1461,8 +1462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), cloud (5), application (3), next (1)
 > **Definitions:** is a  (4), in other words (1)
-> **Code Keywords:** let (2), this. (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1495,7 +1496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (3), data (2), cloud (2), api (1), teams (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1540,7 +1541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** ai (13), application (2), [[Generative AI]] (2), [[ChatGPT]] (2), cloud (2)
 > **Analogies:** such as (2)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
@@ -1548,7 +1549,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980)
@@ -1577,7 +1578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), try. (1)
+> **Frameworks & Libraries:** cloud (8), [[Security]] (1), [[Serverless Computing]] (1), career (1), application (1)
 > **Speakers:** - [instructor] (1)
 
 

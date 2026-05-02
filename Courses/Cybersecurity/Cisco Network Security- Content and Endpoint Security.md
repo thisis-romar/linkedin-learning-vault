@@ -29,7 +29,7 @@ tags:
   - skill/endpoint-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Content%20and%20Endpoint%20Security.md)
@@ -48,38 +48,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Mitigate endpoint threats and provide security
-  - What you need to know
+  - [Mitigate endpoint threats and provide security](#mitigate-endpoint-threats-and-provide-security)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Mitigating Enpoint Threats**](#1-mitigating-enpoint-threats) (4 videos)
-  - Incorporating safeguards
-  - Secure the endpoints
-  - Standards and regulations
-  - COBIT framework
+  - [Incorporating safeguards](#incorporating-safeguards)
+  - [Secure the endpoints](#secure-the-endpoints)
+  - [Standards and regulations](#standards-and-regulations)
+  - [COBIT framework](#cobit-framework)
 - [**2. Web Security**](#2-web-security) (5 videos)
-  - PCI DSS controls
-  - Defend the website
-  - Web proxies
-  - Web filtering
-  - TLS/SSL decryption
+  - [PCI DSS controls](#pci-dss-controls)
+  - [Defend the website](#defend-the-website)
+  - [Web proxies](#web-proxies)
+  - [Web filtering](#web-filtering)
+  - [TLS/SSL decryption](#tlsssl-decryption)
 - [**3. Email Security**](#3-email-security) (6 videos)
-  - Email malware
-  - Combatting SPAM
-  - Data loss prevention
-  - Email encryption
-  - Challenge: Examine suspect IP addresses
-  - Solution: Examine suspect IP addresses
+  - [Email malware](#email-malware)
+  - [Combatting SPAM](#combatting-spam)
+  - [Data loss prevention](#data-loss-prevention)
+  - [Email encryption](#email-encryption)
+  - [Challenge: Examine suspect IP addresses](#challenge-examine-suspect-ip-addresses)
+  - [Solution: Examine suspect IP addresses](#solution-examine-suspect-ip-addresses)
 - [**4. Best Practice**](#4-best-practice) (5 videos)
-  - Malware protection
-  - Personal firewall: HIPS
-  - Hardware and software encryption
-  - Case study: Malware detection
-  - Case study: Malware confirmation
+  - [Malware protection](#malware-protection)
+  - [Personal firewall: HIPS](#personal-firewall-hips)
+  - [Hardware and software encryption](#hardware-and-software-encryption)
+  - [Case study: Malware detection](#case-study-malware-detection)
+  - [Case study: Malware confirmation](#case-study-malware-confirmation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mitigate endpoint threats and provide security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (3), web (2), [[Intrusion Detection]] (1), [[Hardware]] (1), [[Endpoint Security]] (1)
 > **Env Vars:** ccna (1)
 > **Speakers:** - [lisa] (1)
 
@@ -127,16 +127,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), career (1)
 > **Env Vars:** ccna (3)
 > **Definitions:** is an  (2)
-> **Code Keywords:** super (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Mitigating Enpoint Threats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Incorporating safeguards
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980)
@@ -195,7 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (6), [[Security]] (5), [[Endpoint Security]] (3), web (2), ai (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
@@ -254,6 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Endpoint Security]] (3), [[Security]] (3), web (2), data (1), [[IoT]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** dmz (1)
 > **Definitions:** is a  (1)
@@ -334,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Security]] (6), [[Privacy]] (4), [[Accountability]] (1), management (1)
 > **Env Vars:** sox (4), gdpr (4), pci (3), dss (3), hipaa (2)
-> **Code Keywords:** public (3), protected (1), let (1)
 > **Definitions:** is a  (2)
 > **Versions:** 1.7 (1)
 > **Analogies:** such as (1)
@@ -380,16 +381,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Security]] (4), [[Privacy]] (1), data (1), management (1)
 > **Env Vars:** cobit (8)
 > **Definitions:** is a  (2)
-> **Code Keywords:** require (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Web Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PCI DSS controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980)
@@ -434,6 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Security]] (3), management (2), express (1), [[Network Security]] (1)
 > **Env Vars:** pci (8), dss (8), jcb (1), dmz (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -503,10 +505,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), database (4), data (4), [[SQL]] (2), [[Scripting]] (2)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** sql (2), gdpr (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -554,8 +556,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), cloud (5), data (3), [[Security]] (2), traffic (1)
 > **Env Vars:** amp (3), http (2)
-> **Code Keywords:** else. (1)
 > **Speakers:** - [narrator] (1)
 
 #### Web filtering
@@ -631,8 +633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (8), traffic (6), [[Phishing]] (1), next (1), [[Search]] (1)
 > **Env Vars:** url (8), mac (2), tcp (1), udp (1), icmp (1)
-> **Code Keywords:** let (2), case, (2), this, (1)
 > **Definitions:** is an  (3), is a  (1)
 > **Ports:** :00 (3)
 > **Analogies:** such as (2), for example (1)
@@ -722,8 +724,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), data (6), [[Wireshark]] (2), web (2), [[Windows]] (2)
 > **Env Vars:** ssl (3), rsa (2), pcap (1), http (1)
-> **Code Keywords:** let (3), this. (1)
 > **Definitions:** is a  (2), is an  (2)
 > **UI Navigation:** go to (2)
 > **URLs:** [wireshark.org](https://wireshark.org) (1)
@@ -734,7 +736,7 @@ created: 2026-04-29
 
 ### 3. Email Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Email malware
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980)
@@ -787,6 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (3), business (1), [[Security]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
@@ -873,8 +876,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Statistics]] (1), [[Microsoft]] (1), [[Engineering]] (1)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** continue (1), let (1), case, (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** blc (2)
 > **UI Navigation:** scroll down (1)
@@ -926,7 +929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), this, (1)
+> **Frameworks & Libraries:** data (14), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (1), cloud (1), business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -993,9 +996,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (4), data (2), business (1), [[Microsoft Outlook|Outlook]] (1), web (1)
 > **Env Vars:** mime (8), gnu (2), pgp (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** continue (1), private (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1040,8 +1043,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Security]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (1), delete (1)
 > **URLs:** [spamhaus.org](https://spamhaus.org) (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -1135,7 +1138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (4)
+> **Frameworks & Libraries:** data (4), web (2), hit (1), [[Search]] (1), [[Security]] (1)
 > **UI Navigation:** scroll down (5), go to (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
@@ -1146,7 +1149,7 @@ created: 2026-04-29
 
 ### 4. Best Practice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Malware protection
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980)
@@ -1217,7 +1220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Phishing]] (1), [[Security]] (1), [[Real-Time]] (1)
 > **Analogies:** such as (2)
 > **Versions:** 99.6 (1)
 > **UI Navigation:** open the (1)
@@ -1261,6 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), traffic (3), [[Hardware]] (3), data (2), [[Windows]] (1)
 > **Env Vars:** eset (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1306,7 +1310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), break. (1), require (1)
+> **Frameworks & Libraries:** data (8), [[Hardware]] (7), next (1), [[Microsoft]] (1), [[Windows]] (1)
 > **Analogies:** such as (3)
 > **Code Identifiers:** iphone (1)
 > **Env Vars:** pin (1)
@@ -1408,7 +1412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), dns (4), traffic (2), next (2), data (1)
 > **UI Navigation:** go to (3), scroll down (1), right-click (1)
 > **Env Vars:** dns (4)
 > **Ports:** port 53 (2)
@@ -1500,9 +1504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), next (2), [[Intrusion Detection]] (2), traffic (1), data (1)
 > **Env Vars:** dns (4), tcp (4), udp (2), http (1), blacklist (1)
 > **UI Navigation:** scroll down (4), go to (2)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is an  (2)
 > **Versions:** 119.28.15 (1)
 > **Speakers:** - [instructor] (1)
@@ -1510,7 +1514,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980)
@@ -1539,6 +1543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Security]] (1), [[Intrusion Detection]] (1), [[Hardware]] (1), [[Ethical Hacking]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [lisa] (1)
 

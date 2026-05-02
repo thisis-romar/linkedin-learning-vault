@@ -36,7 +36,7 @@ tags:
   - skill/front-end-development
   - skill/full-stack-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Succeeding%20in%20Web%20Development-%20Full%20Stack%20and%20Front%20End.md)
@@ -55,44 +55,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Becoming a web developer
+  - [Becoming a web developer](#becoming-a-web-developer)
 - [**1. A Developer's Life**](#1-a-developers-life) (3 videos)
-  - Types of web developers
-  - Is the developer life for me?
-  - How much can I make?
+  - [Types of web developers](#types-of-web-developers)
+  - [Is the developer life for me?](#is-the-developer-life-for-me)
+  - [How much can I make?](#how-much-can-i-make)
 - [**2. Core Technologies**](#2-core-technologies) (4 videos)
-  - HTML as the foundation
-  - CSS for design
-  - JavaScript for interactivity
-  - HTTP(S) for connecting
+  - [HTML as the foundation](#html-as-the-foundation)
+  - [CSS for design](#css-for-design)
+  - [JavaScript for interactivity](#javascript-for-interactivity)
+  - [HTTP(S) for connecting](#https-for-connecting)
 - [**3. Core Concepts**](#3-core-concepts) (5 videos)
-  - How the internet works
-  - Building accessible projects
-  - Design methodologies
-  - Development approaches
-  - Version control
+  - [How the internet works](#how-the-internet-works)
+  - [Building accessible projects](#building-accessible-projects)
+  - [Design methodologies](#design-methodologies)
+  - [Development approaches](#development-approaches)
+  - [Version control](#version-control)
 - [**4. Supporting Technologies**](#4-supporting-technologies) (5 videos)
-  - Server technologies
-  - Back-end languages
-  - Developer tools
-  - Frameworks and libraries
-  - APIs and services
+  - [Server technologies](#server-technologies)
+  - [Back-end languages](#back-end-languages)
+  - [Developer tools](#developer-tools)
+  - [Frameworks and libraries](#frameworks-and-libraries)
+  - [APIs and services](#apis-and-services)
 - [**5. Education**](#5-education) (4 videos)
-  - What education do I need?
-  - Traditional education
-  - Coding bootcamps
-  - Online learning
+  - [What education do I need?](#what-education-do-i-need)
+  - [Traditional education](#traditional-education)
+  - [Coding bootcamps](#coding-bootcamps)
+  - [Online learning](#online-learning)
 - [**6. Getting a Job**](#6-getting-a-job) (4 videos)
-  - How do developers find jobs?
-  - The hiring process
-  - Compensation
-  - Negotiating the best deal
+  - [How do developers find jobs?](#how-do-developers-find-jobs)
+  - [The hiring process](#the-hiring-process)
+  - [Compensation](#compensation)
+  - [Negotiating the best deal](#negotiating-the-best-deal)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a web developer
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?u=76281980)
@@ -135,7 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** career (5), web (3), [[Web Development]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)
@@ -144,7 +144,7 @@ created: 2026-04-29
 
 ### 1. A Developer's Life
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of web developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980)
@@ -195,6 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** front-end (6), [[Web Development]] (2), web (2), full-stack (2), [[Google]] (1)
 > **Tools:** notion (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you need to have (1)
@@ -239,8 +240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), web (1), [[Web Development]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - besides (1)
 
@@ -273,6 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), front-end (2), [[LinkedIn]] (1), [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Documentation:** stack overflow (1)
 > **Analogies:** for example (1)
@@ -281,7 +283,7 @@ created: 2026-04-29
 
 ### 2. Core Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### HTML as the foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980)
@@ -338,6 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), dom (4), web (3), [[Document Object Model (DOM)|Document object model]] (1), css (1)
 > **Env Vars:** html (4), dom (4), css (1)
 > **Definitions:** stands for (1), means that (1), is called (1)
 > **Speakers:** - whether (1)
@@ -395,9 +398,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (10), [[HTML]] (3), web (2), [[User Experience (UX)|User experience]] (1), ux (1)
 > **Env Vars:** css (10), html (3), dom (1)
 > **Definitions:** is a  (1), is called (1), stands for (1), in other words (1)
-> **Code Keywords:** interface (1), require (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - design (1)
 
@@ -434,8 +437,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[Web Development]] (2), [[Programming]] (1), dom (1), [[Node.js]] (1)
 > **CLI Commands:** node (1), make (1)
-> **Code Keywords:** this, (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** node.js (1)
 > **Env Vars:** dom (1)
@@ -501,8 +504,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Forms]] (1), [[HTML]] (1), traffic (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** http (12), https (3), post (2), delete (2), c3po (1)
-> **Code Keywords:** delete (3), this. (1)
 > **API Endpoints:** post  (2), get  (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Speakers:** - remember (1)
@@ -510,7 +513,7 @@ created: 2026-04-29
 
 ### 3. Core Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How the internet works
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980)
@@ -589,6 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (4), [[LinkedIn]] (3), web (2), data (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** dns (4), tcp (3), zip (1), actps (1), http (1)
 > **URLs:** [google.com](https://google.com) (1), [linkedin.com](https://linkedin.com) (1), [https://linkedin.com](https://linkedin.com) (1)
 > **Definitions:** is a  (2), known as (1)
@@ -650,9 +654,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Microsoft Products|Products]] (1), web (1), dom (1), [[HTML]] (1)
 > **Env Vars:** oxo (1), dom (1), html (1), aria (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), require (1)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
@@ -714,6 +718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (8), css (3), next (2)
 > **Env Vars:** css (3), oocss (1), smacss (1), bem (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - one (1)
@@ -777,9 +782,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (6), css (5), [[HTML]] (3), functional (3), data (3)
 > **Env Vars:** css (5), html (3), sas (2), mvc (1)
 > **Definitions:** is a  (3), means that (1), is called (1)
-> **Code Keywords:** else, (1), case, (1), finally, (1), self (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - developers (1)
@@ -831,13 +836,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Version Control]] (2), [[Agile Development|Agile]] (2), [[DevOps]] (2), next (1)
 > **CLI Commands:** make (3), git (1)
 > **Speakers:** - a (1)
 
 
 ### 4. Supporting Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Server technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980)
@@ -896,6 +902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (3), cloud (3), web (2), [[Microsoft]] (2), data (2)
 > **Env Vars:** tld (1), cdn (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -962,10 +969,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (7), data (4), [[NoSQL]] (4), web (3), [[SQL]] (3)
 > **CLI Commands:** php (2), node (2), ruby (2), rails (2), make (1)
 > **Env Vars:** sql (3), php (2), net (2)
 > **File Paths:** node.js (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
@@ -1016,8 +1023,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[GitHub]] (1), [[Automation]] (1), application (1)
 > **Tools:** visual studio (3), github (1), sublime (1)
-> **Code Keywords:** let (2), for. (1)
 > **Env Vars:** ide (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -1075,6 +1082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Angular]] (3), data (2), dom (2), [[HTML]] (2)
 > **Env Vars:** dom (2), html (2)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** jquery (2)
@@ -1125,18 +1133,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), application (2), [[JavaScript]] (2), [[LinkedIn]] (2), [[Google]] (1)
 > **Env Vars:** api (1), http (1), post (1), json (1), rest (1)
 > **Definitions:** is a  (3)
 > **API Endpoints:** get  (1), post
  (1)
-> **Code Keywords:** interface (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - a (1)
 
 
 ### 5. Education
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What education do I need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/what-education-do-i-need?u=76281980)
@@ -1179,8 +1187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), career (1), functional (1), teams (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** self (2)
 > **Speakers:** - education (1)
 
 #### Traditional education
@@ -1230,7 +1238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), private (1), self (1)
+> **Frameworks & Libraries:** [[Higher Education]] (1), [[Google]] (1), [[Software Development]] (1), business (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ibm (1)
@@ -1289,6 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), [[Test-Driven Development]] (1), web (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -1333,7 +1342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
+> **Frameworks & Libraries:** web (2), [[Google]] (1), [[GitHub]] (1), [[CodePen]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Documentation:** stack overflow (1)
@@ -1344,7 +1353,7 @@ created: 2026-04-29
 
 ### 6. Getting a Job
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do developers find jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-do-developers-find-jobs?u=76281980)
@@ -1407,9 +1416,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), teams (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **URLs:** [meetup.com](https://meetup.com) (1)
 > **Speakers:** - let (1)
 
@@ -1468,10 +1477,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Human Resources (HR)|Human resources]] (1), [[React.js|React]] (1), [[Vue.js]] (1), application (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2)
 > **File Paths:** vue.js (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
@@ -1525,7 +1534,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (5)
-> **Code Keywords:** raise (1), for, (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - developers (1)
 
@@ -1604,8 +1612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** this, (2), let (1), this. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
 > **Prerequisites:** you'll need (1)
@@ -1614,7 +1622,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980)
@@ -1649,6 +1657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), css (2), [[JavaScript]] (2), [[LinkedIn]] (1), [[Search]] (1)
 > **Env Vars:** html (2), css (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - looks (1)

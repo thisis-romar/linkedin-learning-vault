@@ -39,7 +39,7 @@ tags:
   - skill/algorithm-design
   - skill/programming-foundations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Algorithms.md)
@@ -58,47 +58,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Algorithms power the world
-  - What you should know
+  - [Algorithms power the world](#algorithms-power-the-world)
+  - [What you should know](#what-you-should-know)
 - [**1. Overview**](#1-overview) (3 videos)
-  - What are algorithms?
-  - Common algorithms in programming
-  - Measuring algorithm performance
+  - [What are algorithms?](#what-are-algorithms)
+  - [Common algorithms in programming](#common-algorithms-in-programming)
+  - [Measuring algorithm performance](#measuring-algorithm-performance)
 - [**2. Common Data Structures**](#2-common-data-structures) (7 videos)
-  - Introduction to common data structures
-  - Arrays
-  - Linked lists
-  - Linked lists example
-  - Stacks and queues
-  - Stacks and queues example
-  - Dictionaries
+  - [Introduction to common data structures](#introduction-to-common-data-structures)
+  - [Arrays](#arrays)
+  - [Linked lists](#linked-lists)
+  - [Linked lists example](#linked-lists-example)
+  - [Stacks and queues](#stacks-and-queues)
+  - [Stacks and queues example](#stacks-and-queues-example)
+  - [Dictionaries](#dictionaries)
 - [**3. Recursion**](#3-recursion) (3 videos)
-  - Understanding recursion
-  - Simple recursion example
-  - Calculating power and factorial
+  - [Understanding recursion](#understanding-recursion)
+  - [Simple recursion example](#simple-recursion-example)
+  - [Calculating power and factorial](#calculating-power-and-factorial)
 - [**4. Sorting Information**](#4-sorting-information) (6 videos)
-  - Overview of sorting
-  - The bubble sort
-  - The merge sort
-  - Implementing the merge sort
-  - The quicksort
-  - Implementing the quicksort
+  - [Overview of sorting](#overview-of-sorting)
+  - [The bubble sort](#the-bubble-sort)
+  - [The merge sort](#the-merge-sort)
+  - [Implementing the merge sort](#implementing-the-merge-sort)
+  - [The quicksort](#the-quicksort)
+  - [Implementing the quicksort](#implementing-the-quicksort)
 - [**5. Searching for Data**](#5-searching-for-data) (3 videos)
-  - Unordered list search
-  - Binary search
-  - Determine if a list is sorted
+  - [Unordered list search](#unordered-list-search)
+  - [Binary search](#binary-search)
+  - [Determine if a list is sorted](#determine-if-a-list-is-sorted)
 - [**6. Practical Examples with Data Structures**](#6-practical-examples-with-data-structures) (4 videos)
-  - Unique filtering with sets
-  - Value counting with a dictionary
-  - Find max value recursively
-  - Balancing statements with Stack
+  - [Unique filtering with sets](#unique-filtering-with-sets)
+  - [Value counting with a dictionary](#value-counting-with-a-dictionary)
+  - [Find max value recursively](#find-max-value-recursively)
+  - [Balancing statements with Stack](#balancing-statements-with-stack)
 - [**Glossaries**](#glossaries) (0 videos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Algorithms power the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980)
@@ -127,7 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), data (2)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
@@ -222,10 +222,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Programming]] (3), [[GitHub]] (3), [[Codespaces]] (2), [[Search]] (2)
 > **CLI Commands:** python (11), make (5), find (3)
 > **Prerequisites:** set up (5), install (4), setup (1), you'll need (1)
 > **Tools:** terminal (4), github (3), visual studio (2)
-> **Code Keywords:** let (5), switch (1), this. (1)
 > **UI Navigation:** go to (5), click on (1), open the (1)
 > **Versions:** version 3 (1), 3.10.12 (1)
 > **Exercise Files:** download the (1), zip file (1)
@@ -234,7 +234,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are algorithms?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980)
@@ -287,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), function (1), type. (1)
+> **Frameworks & Libraries:** [[Algorithms]] (8), data (3), [[Forms]] (1), parallel (1), next (1)
 > **Analogies:** for example (3)
 > **Definitions:** in other words (1), means that (1)
 > **CLI Commands:** find (1)
@@ -399,7 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (3), function (2), finally, (1), switch (1)
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (4), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), go build (1), python (1)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** gcd (1)
@@ -481,17 +481,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (4), data (4), [[Programming]] (2), next (2), [[Search]] (2)
 > **Definitions:** is called (2), is an  (1), means that (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Common Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to common data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980)
@@ -532,8 +532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Algorithms]] (7), [[Programming]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -578,9 +578,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### Linked lists
@@ -638,8 +638,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), next (6), data (5)
 > **CLI Commands:** node (7), find (2)
-> **Code Keywords:** case, (3), let (1), this. (1), delete (1)
 > **Definitions:** is a  (1), is called (1), refers to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -768,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (18), next (10), data (7)
 > **CLI Commands:** node (18), find (7), make (1)
-> **Code Keywords:** let (10), delete (7), function (4), implements (1), self (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (1)
@@ -832,10 +832,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Software Development]] (1), [[Forms]] (1), product (1)
 > **Env Vars:** lifo (1), url (1), sms (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -951,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (3), case, (2), this. (2), case. (1)
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (3), next (1)
 > **CLI Commands:** python (3)
 > **Analogies:** just like (2), for example (1)
 > **Tools:** terminal (2)
@@ -1071,7 +1071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (5), this. (2), this, (2), case, (1)
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3), [[Algorithms]] (2), [[Programming]] (1), feature (1)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (3)
 > **Cross-References:** later in (1)
@@ -1081,7 +1081,7 @@ created: 2026-04-29
 
 ### 3. Recursion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding recursion
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/understanding-recursion?u=76281980)
@@ -1166,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (3), this. (1), for, (1)
+> **Frameworks & Libraries:** [[Programming]] (2), next (2), [[Algorithms]] (1), [[Search]] (1), data (1)
 > **Definitions:** is called (3), known as (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -1239,7 +1239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), this. (3), return. (1), case, (1)
+> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (1)
 > **Tools:** terminal (2)
 > **Definitions:** means that (2)
 > **Analogies:** just like (1), picture (1)
@@ -1343,7 +1343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (8), pass (3), raise (2), case, (1)
+> **Frameworks & Libraries:** power (15), [[Data Manipulation]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** recursion_start (2)
 > **Cross-References:** go back to (1), later in (1)
 > **Tools:** terminal (2)
@@ -1353,7 +1353,7 @@ created: 2026-04-29
 
 ### 4. Sorting Information
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of sorting
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/overview-of-sorting?u=76281980)
@@ -1386,8 +1386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (5), [[Programming]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1473,7 +1473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), this. (2), this, (1)
+> **Frameworks & Libraries:** data (4), [[Algorithms]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
@@ -1530,7 +1530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** data (3), next (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
@@ -1599,7 +1599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Cross-References:** as we saw (1), previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -1679,7 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), continue (1), function (1)
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1808,7 +1808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), pass (1), case, (1)
+> **Frameworks & Libraries:** data (14), [[Algorithms]] (2)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -1816,7 +1816,7 @@ created: 2026-04-29
 
 ### 5. Searching for Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unordered list search
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unordered-list-search?u=76281980)
@@ -1869,7 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2), for. (1), function (1), pass (1)
+> **Frameworks & Libraries:** data (6), [[Search]] (6)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the last (1)
 > **Tools:** terminal (1)
@@ -1959,7 +1959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), for, (4), function (3), case, (1), pass (1)
+> **Frameworks & Libraries:** [[Search]] (4), data (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
@@ -2048,7 +2048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (7), this. (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (2), data (1)
 > **CLI Commands:** python (5), make (2)
 > **Code Identifiers:** issorted_start (1), is_sorted (1)
 > **Tools:** terminal (2)
@@ -2058,7 +2058,7 @@ created: 2026-04-29
 
 ### 6. Practical Examples with Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unique filtering with sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980)
@@ -2163,7 +2163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), case, (2), function (1)
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Java]] (1)
 > **Code Identifiers:** unique_items (3), filter_start (1)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
@@ -2225,7 +2225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), function (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2309,7 +2309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (6), this. (2), pass (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **Definitions:** is called (2), is a  (1), basically means (1)
 > **CLI Commands:** find (1), python (1)
 > **Speakers:** - [instructor] (1)
@@ -2405,7 +2405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), case, (1), try. (1)
+> **Frameworks & Libraries:** [[Programming]] (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **Code Identifiers:** statement_stack (4), balancing_start (1), is_balanced (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (1)
@@ -2414,12 +2414,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/next-steps?u=76281980)
@@ -2446,6 +2446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (4), data (3), [[Programming]] (2), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 

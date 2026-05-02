@@ -31,7 +31,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/History%20of%20Responsible%20AI-%20From%20Principles%20to%20Professionalization%20by%20All%20Tech%20Is%20Human.md)
@@ -50,11 +50,11 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**History of Responsible AI**](#history-of-responsible-ai) (1 videos)
-  - History of responsible AI
+  - [History of responsible AI](#history-of-responsible-ai)
 
 ### History of Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### History of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980)
@@ -247,8 +247,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (31), data (4), [[Responsible AI]] (3), [[Ethics]] (3), [[Engineering]] (3)
 > **Env Vars:** oecd (2), ibm (1), eta (1), aies (1), acm (1)
-> **Code Keywords:** public (5), let (1)
 > **Versions:** 1.0 (1)
 > **Tools:** notion (1)
 

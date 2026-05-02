@@ -32,7 +32,7 @@ tags:
   - skill/data-transformation
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep-%202%20Exploring%20Data%20Transformation%20with%20Google%20Cloud.md)
@@ -51,33 +51,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course introduction
+  - [Course introduction](#course-introduction)
 - [**1. The Value of Data**](#1-the-value-of-data) (7 videos)
-  - Introduction
-  - How data creates value
-  - Unlocking business value from data
-  - Data management concepts
-  - The role of data in digital transformation
-  - The data value chain
-  - Data governance
+  - [Introduction](#introduction)
+  - [How data creates value](#how-data-creates-value)
+  - [Unlocking business value from data](#unlocking-business-value-from-data)
+  - [Data management concepts](#data-management-concepts)
+  - [The role of data in digital transformation](#the-role-of-data-in-digital-transformation)
+  - [The data value chain](#the-data-value-chain)
+  - [Data governance](#data-governance)
 - [**2. Google Cloud Data Management Solutions**](#2-google-cloud-data-management-solutions) (6 videos)
-  - Introduction
-  - Unstructured data storage
-  - Structured data storage
-  - Semi-structured data storage
-  - Choosing the right storage product
-  - Database migration and modernization
+  - [Introduction](#introduction)
+  - [Unstructured data storage](#unstructured-data-storage)
+  - [Structured data storage](#structured-data-storage)
+  - [Semi-structured data storage](#semi-structured-data-storage)
+  - [Choosing the right storage product](#choosing-the-right-storage-product)
+  - [Database migration and modernization](#database-migration-and-modernization)
 - [**3. Making Data Useful and Accessible**](#3-making-data-useful-and-accessible) (4 videos)
-  - Introduction
-  - Business intelligence and insights using Looker
-  - Streaming analytics
-  - Pub/Sub and Dataflow
+  - [Introduction](#introduction)
+  - [Business intelligence and insights using Looker](#business-intelligence-and-insights-using-looker)
+  - [Streaming analytics](#streaming-analytics)
+  - [Pub/Sub and Dataflow](#pubsub-and-dataflow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course summary
+  - [Course summary](#course-summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-introduction?u=76281980)
@@ -108,14 +108,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), pass (1), let (1)
+> **Frameworks & Libraries:** data (9), [[Google Cloud Platform (GCP)|Google cloud]] (3), business (2), cloud (2), teams (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. The Value of Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980)
@@ -136,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), business (3), [[Microsoft Word|Word]] (1), [[Decision-Making]] (1), management (1)
 > **Speakers:** - [instructor] (1)
 
 #### How data creates value
@@ -177,6 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), business (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (2), [[Real-Time]] (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -249,6 +251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Unstructured Data]] (10), cloud (3), api (2), [[Digital Transformation]] (1)
 > **Env Vars:** api (2), html (1), json (1), xml (1)
 > **Analogies:** for example (2), picture (2)
 > **CLI Commands:** make (1)
@@ -355,8 +358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (62), database (11), business (7), cloud (5), [[Microsoft Products|Products]] (4)
 > **Definitions:** is an  (3), is a  (3), known as (1), means that (1)
-> **Code Keywords:** let (3), case. (1)
 > **Env Vars:** sql (3), iot (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
@@ -421,8 +424,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), business (6), [[Google Cloud Platform (GCP)|Google cloud]] (1), cloud (1)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** finally, (1), public (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### The data value chain
@@ -492,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), from. (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (26), product (4), business (3), [[IoT]] (1), [[SQL]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -567,7 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), this. (1), implements (1)
+> **Frameworks & Libraries:** data (39), business (3), ai (2), cloud (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -575,7 +578,7 @@ created: 2026-04-29
 
 ### 2. Google Cloud Data Management Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228171?u=76281980)
@@ -592,6 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), management (2), cloud (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Unstructured data storage
@@ -663,7 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case, (1), let (1), type, (1), extends (1)
+> **Frameworks & Libraries:** data (27), cloud (9), feature (2), application (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
@@ -761,9 +765,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), cloud (14), database (14), [[SQL]] (9), [[Google]] (4)
 > **Env Vars:** sql (11), dms (1), acid (1)
 > **Definitions:** is a  (7)
-> **Code Keywords:** require (2), let (1), this. (1)
 > **CLI Commands:** mysql (2), make (1)
 > **Versions:** 99.95 (1), 99.999 (1)
 > **Cross-References:** earlier in (1), we mentioned (1)
@@ -814,6 +818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (6), [[NoSQL]] (3), [[Google]] (2), [[Big Data]] (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
@@ -863,8 +868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), cloud (6), [[SQL]] (6), database (2), [[NoSQL]] (2)
 > **Env Vars:** sql (6), oltp (1), olap (1)
-> **Code Keywords:** require (3), class, (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
@@ -913,8 +918,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Databases]] (8), database (8), [[Google Cloud Platform (GCP)|Google cloud]] (8), data (5)
 > **Env Vars:** sql (6), dms (1), gke (1)
-> **Code Keywords:** private (1), public (1), let (1), case. (1), pub (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** mysql (1)
 > **Definitions:** is a  (1)
@@ -923,7 +928,7 @@ created: 2026-04-29
 
 ### 3. Making Data Useful and Accessible
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980)
@@ -942,8 +947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), business (1), [[Analytics]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** case. (1), pub (1)
 > **Speakers:** - [instructor] (1)
 
 #### Business intelligence and insights using Looker
@@ -1009,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), yield (1)
+> **Frameworks & Libraries:** data (14), business (10), [[Business Intelligence (BI)|Business intelligence]] (4), teams (4), [[Data Engineering]] (2)
 > **Env Vars:** sql (1), covid (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1)
@@ -1069,8 +1074,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Analytics]] (4), [[Microsoft Products|Products]] (2), [[Batch Processing]] (1), [[E-Commerce]] (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** pub (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1123,8 +1128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[IoT]] (2), etl (2), database (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** means that (2), is a  (1), short for (1), refers to (1)
-> **Code Keywords:** pub (1), case, (1)
 > **Env Vars:** etl (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** apache (1)
@@ -1134,7 +1139,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980)
@@ -1157,7 +1162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), pub (1)
+> **Frameworks & Libraries:** data (21), [[Google Cloud Platform (GCP)|Google cloud]] (7), management (3), cloud (3), [[Data Transformation]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 

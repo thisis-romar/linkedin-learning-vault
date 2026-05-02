@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/computer-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Computer%20Science%20Principles%20Digital%20Information.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know beforehand
-  - Contact
+  - [Welcome](#welcome)
+  - [What you should know beforehand](#what-you-should-know-beforehand)
+  - [Contact](#contact)
 - [**1. Innovation and Technology**](#1-innovation-and-technology) (2 videos)
-  - History of innovation
-  - Impact of coding and programming
+  - [History of innovation](#history-of-innovation)
+  - [Impact of coding and programming](#impact-of-coding-and-programming)
 - [**2. Computer Communications**](#2-computer-communications) (4 videos)
-  - Yes and no answers with binary
-  - Binary and bits
-  - Communicating with bits
-  - Digital communication
+  - [Yes and no answers with binary](#yes-and-no-answers-with-binary)
+  - [Binary and bits](#binary-and-bits)
+  - [Communicating with bits](#communicating-with-bits)
+  - [Digital communication](#digital-communication)
 - [**3. Number Systems**](#3-number-systems) (4 videos)
-  - Abstraction of numbers
-  - Binary numbers
-  - Bit size and values
-  - Overflow
+  - [Abstraction of numbers](#abstraction-of-numbers)
+  - [Binary numbers](#binary-numbers)
+  - [Bit size and values](#bit-size-and-values)
+  - [Overflow](#overflow)
 - [**4. Encoding and Sending Text**](#4-encoding-and-sending-text) (2 videos)
-  - ASCII and Unicode
-  - Encoding formatted text
+  - [ASCII and Unicode](#ascii-and-unicode)
+  - [Encoding formatted text](#encoding-formatted-text)
 - [**5. Working with Large Amounts of Data**](#5-working-with-large-amounts-of-data) (4 videos)
-  - File sizes and bytes
-  - Text compression
-  - Encoding images
-  - Image compression and file formats
+  - [File sizes and bytes](#file-sizes-and-bytes)
+  - [Text compression](#text-compression)
+  - [Encoding images](#encoding-images)
+  - [Image compression and file formats](#image-compression-and-file-formats)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980)
@@ -114,6 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Forms]] (2), [[Programming]] (1), data (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - computer (1)
 
@@ -138,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Hardware]] (1), data (1), application (1)
 > **Speakers:** - this (1)
 
 #### Contact
@@ -191,16 +193,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Programming]] (1), next (1), [[Technical Support]] (1)
 > **CLI Commands:** find (4)
 > **URLs:** [dougwinnie.com](https://dougwinnie.com) (1), [linkedin.com](https://linkedin.com) (1), [facebook.com](https://facebook.com) (1)
-> **Code Keywords:** for. (1), finally, (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [voiceover] (1)
 
 
 ### 1. Innovation and Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### History of innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980)
@@ -263,7 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1)
+> **Frameworks & Libraries:** data (2), parallel (1), [[Programming]] (1), [[Algorithms]] (1), traffic (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - innovation (1)
@@ -377,7 +379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), this, (1)
+> **Frameworks & Libraries:** [[Hardware]] (10), [[Programming]] (5), game (5), api (4), application (2)
 > **Env Vars:** api (4)
 > **Definitions:** is called (3)
 > **Code Identifiers:** macos (1), ios (1)
@@ -389,7 +391,7 @@ created: 2026-04-29
 
 ### 2. Computer Communications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Yes and no answers with binary
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/yes-and-no-answers-with-binary?u=76281980)
@@ -511,6 +513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is called (3), is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
@@ -622,7 +625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is called (2), means that (1)
 > **Analogies:** for instance (2), for example (1)
 > **Speakers:** - we (1)
@@ -744,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Office|Office]] (1), power (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
@@ -756,7 +759,7 @@ created: 2026-04-29
 
 ### 3. Number Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Abstraction of numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/abstraction-of-numbers?u=76281980)
@@ -873,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), throw (1), type. (1)
+> **Frameworks & Libraries:** next (4), power (2), web (1)
 > **CLI Commands:** make (2), yarn (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** go to (1)
@@ -945,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** power (10), next (6)
 > **CLI Commands:** find (1)
 > **Speakers:** - [voiceover] (1)
 
@@ -1078,7 +1081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (1)
+> **Frameworks & Libraries:** data (4), power (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1173,15 +1176,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Programming]] (1)
 > **Ports:** :14 (1), :45 (1), :52 (1)
-> **Code Keywords:** let (1), yield (1)
 > **Env Vars:** y2k (1), utc (1)
 > **Speakers:** - when (1)
 
 
 ### 4. Encoding and Sending Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ASCII and Unicode
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/ascii-and-unicode?u=76281980)
@@ -1254,7 +1257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), this, (1), return, (1), case, (1)
+> **Frameworks & Libraries:** web (1)
 > **Env Vars:** ascii (3), utf8 (1)
 > **Definitions:** is called (4)
 > **CLI Commands:** find (1)
@@ -1311,15 +1314,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), [[Typography]] (1), data (1), [[Microsoft Word|Word]] (1), application (1)
 > **Env Vars:** html (4), utf (1)
-> **Code Keywords:** this, (1), let (1), type. (1), this. (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [voiceover] (1)
 
 
 ### 5. Working with Large Amounts of Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File sizes and bytes
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/file-sizes-and-bytes?u=76281980)
@@ -1440,9 +1443,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (3), cloud (1)
 > **Definitions:** is a  (5), is called (2)
 > **Analogies:** just like (1), such as (1)
-> **Code Keywords:** let (1)
 > **Versions:** 4.6 (1)
 > **Speakers:** - the (1)
 
@@ -1493,8 +1496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Search]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - with (1)
@@ -1614,9 +1617,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), web (2)
 > **Env Vars:** rgb (2), tif (1), jpeg (1), png (1), gif (1)
 > **Definitions:** is a  (4), is called (2)
-> **Code Keywords:** let (3), require (2)
 > **CLI Commands:** make (4)
 > **Versions:** 5.9 (1), 8.2 (1), 10.42 (1)
 > **Analogies:** for instance (1), picture (1), for example (1)
@@ -1724,10 +1727,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** gif (7), jpeg (4), rgb (2), raw (2), lzw (1)
 > **Analogies:** for example (1), for instance (1), picture (1), such as (1)
 > **Definitions:** is an  (2), means that (1)
-> **Code Keywords:** type, (1), let (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - images (1)
@@ -1735,7 +1738,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/summary?u=76281980)
@@ -1760,7 +1763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** ascii (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)

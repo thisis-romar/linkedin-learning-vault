@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Design%20Patterns%20as%20Building%20Blocks.md)
@@ -40,45 +40,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Using design patterns
+  - [Using design patterns](#using-design-patterns)
 - [**1. Patterns Overview**](#1-patterns-overview) (5 videos)
-  - What is a design pattern?
-  - Why are design patterns useful?
-  - Design pattern library vs. style guides
-  - When to break a pattern
-  - Anti patterns or dark patterns
+  - [What is a design pattern?](#what-is-a-design-pattern)
+  - [Why are design patterns useful?](#why-are-design-patterns-useful)
+  - [Design pattern library vs. style guides](#design-pattern-library-vs-style-guides)
+  - [When to break a pattern](#when-to-break-a-pattern)
+  - [Anti patterns or dark patterns](#anti-patterns-or-dark-patterns)
 - [**2. Page Structure and Organization**](#2-page-structure-and-organization) (5 videos)
-  - Global navigation
-  - Cards
-  - Tabs
-  - Side navigation
-  - Accordions
+  - [Global navigation](#global-navigation)
+  - [Cards](#cards)
+  - [Tabs](#tabs)
+  - [Side navigation](#side-navigation)
+  - [Accordions](#accordions)
 - [**3. Form and Data Controls**](#3-form-and-data-controls) (8 videos)
-  - Fitts's law, grouping, and cognitive load
-  - Text input
-  - Checkboxes, radio buttons, and dropdowns
-  - Tooltips and popovers
-  - Buttons
-  - Links and breadcrumbs
-  - Toggle switches
-  - Modals
+  - [Fitts's law, grouping, and cognitive load](#fittss-law-grouping-and-cognitive-load)
+  - [Text input](#text-input)
+  - [Checkboxes, radio buttons, and dropdowns](#checkboxes-radio-buttons-and-dropdowns)
+  - [Tooltips and popovers](#tooltips-and-popovers)
+  - [Buttons](#buttons)
+  - [Links and breadcrumbs](#links-and-breadcrumbs)
+  - [Toggle switches](#toggle-switches)
+  - [Modals](#modals)
 - [**4. Indicating Progress and Feedback**](#4-indicating-progress-and-feedback) (5 videos)
-  - Feedback in UX
-  - System messaging
-  - Progress indicators
-  - Progress meters
-  - Progress indicators: Spinners
+  - [Feedback in UX](#feedback-in-ux)
+  - [System messaging](#system-messaging)
+  - [Progress indicators](#progress-indicators)
+  - [Progress meters](#progress-meters)
+  - [Progress indicators: Spinners](#progress-indicators-spinners)
 - [**5. Search and Filtering**](#5-search-and-filtering) (4 videos)
-  - Search input
-  - Autocomplete
-  - Search results
-  - Filtering
+  - [Search input](#search-input)
+  - [Autocomplete](#autocomplete)
+  - [Search results](#search-results)
+  - [Filtering](#filtering)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next Steps
+  - [Next Steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980)
@@ -103,12 +103,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), ux (2), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1), next (1)
 > **Speakers:** - [diane] (1)
 
 
 ### 1. Patterns Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980)
@@ -189,7 +190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1), case, (1), type, (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Design Systems]] (3), ux (2), next (2), [[Automation]] (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -253,9 +254,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (2), ux (2), [[Design Thinking]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** interface (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - design (1)
 
@@ -302,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), web (2), [[Typography]] (1), [[Atlassian]] (1), product (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -357,7 +358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), case, (1), require (1), let (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), ux (1), [[Forms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -406,6 +407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[User Experience (UX)|User experience]] (2), [[E-Commerce]] (2), data (2), [[Design Patterns]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -415,7 +417,7 @@ created: 2026-04-29
 
 ### 2. Page Structure and Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Global navigation
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980)
@@ -478,8 +480,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[User Experience Design (UED)|User experience design]] (1), next (1), [[Usability Testing]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), for, (1)
 > **UI Navigation:** in the menu (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -538,7 +540,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** case. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [tutor] (1)
 
@@ -591,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), for. (1)
+> **Frameworks & Libraries:** functional (1)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -644,7 +645,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** find (1)
 > **Tools:** visual studio (1)
@@ -705,7 +705,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (2), default, (1), case, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** open the (1), select the (1)
@@ -714,7 +713,7 @@ created: 2026-04-29
 
 ### 3. Form and Data Controls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fitts's law, grouping, and cognitive load
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980)
@@ -749,8 +748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (1), [[Microsoft Word|Word]] (1), [[Google]] (1), [[Dashboards]] (1), [[Design Patterns]] (1)
 > **UI Navigation:** click on (3), dropdown (1)
-> **Code Keywords:** interface (2), let (1)
 > **CLI Commands:** find (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
@@ -817,7 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case. (1), let (1)
+> **Frameworks & Libraries:** [[Forms]] (3), data (3), [[Real-Time]] (3), application (2)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -885,7 +884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), default, (2), case, (2), type. (2), type, (1)
+> **Frameworks & Libraries:** business (6), [[Forms]] (1), data (1), application (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **UI Navigation:** select the (2)
@@ -945,8 +944,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Forms]] (1), application (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** case. (1), interface (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** best practice (1)
@@ -1007,7 +1006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), interface (1), from. (1), case, (1)
+> **Frameworks & Libraries:** application (3), [[Forms]] (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** it's best to (1)
@@ -1085,7 +1084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), from. (1), interface (1)
+> **Frameworks & Libraries:** feature (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (1), select the (1), navigate to (1)
 > **Analogies:** for example (3)
 > **Best Practices:** it's best to (1)
@@ -1124,7 +1123,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (8), require (2), interface (1), case. (1)
 > **UI Navigation:** toggle (10), checkbox (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1188,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), interface (1), new, (1), case, (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), product (2), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
@@ -1197,7 +1195,7 @@ created: 2026-04-29
 
 ### 4. Indicating Progress and Feedback
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Feedback in UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/feedback-in-ux?u=76281980)
@@ -1254,7 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), require (1), continue (1)
+> **Frameworks & Libraries:** ux (1), [[Search]] (1), [[React.js|React]] (1)
 > **UI Navigation:** click on (3), select the (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1330,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), require (1), case. (1)
+> **Frameworks & Libraries:** generic (1)
 > **Analogies:** for example (2)
 > **Warnings:** warning (2)
 > **CLI Commands:** make (1)
@@ -1379,6 +1377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), next (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1423,6 +1422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), generic (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1462,13 +1462,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Search and Filtering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Search input
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-input?u=76281980)
@@ -1537,10 +1538,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (27), [[LinkedIn]] (1)
 > **CLI Commands:** find (5)
 > **Definitions:** refers to (2), is a  (2)
 > **Analogies:** for example (3)
-> **Code Keywords:** case. (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1587,11 +1588,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Real-Time]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** dropdown (2), select the (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** for example (2), similar to (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Search results
@@ -1649,7 +1650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), require (1), case. (1)
+> **Frameworks & Libraries:** [[Search]] (13), [[Design Patterns]] (1), [[Microsoft Word|Word]] (1), [[Metadata]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -1718,14 +1719,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), default. (1), case, (1)
+> **Frameworks & Libraries:** [[Search]] (5), product (1), [[Scalability]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980)
@@ -1750,6 +1751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (1), data (1), [[User Experience (UX)|User experience]] (1), next (1), ux (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)

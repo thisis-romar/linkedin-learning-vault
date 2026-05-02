@@ -36,7 +36,7 @@ tags:
   - skill/financial-statement-analysis
   - skill/corporate-finance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Corporate%20Financial%20Statement%20Analysis%20(2023).md)
@@ -55,44 +55,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What is financial statement analysis?
-  - Common methods of analysis
+  - [What is financial statement analysis?](#what-is-financial-statement-analysis)
+  - [Common methods of analysis](#common-methods-of-analysis)
 - [**1. A Review of the Financial Statements**](#1-a-review-of-the-financial-statements) (4 videos)
-  - The accounting equation
-  - Reading the balance sheet
-  - Reading the income statement
-  - Evaluating the statement of cash flows
+  - [The accounting equation](#the-accounting-equation)
+  - [Reading the balance sheet](#reading-the-balance-sheet)
+  - [Reading the income statement](#reading-the-income-statement)
+  - [Evaluating the statement of cash flows](#evaluating-the-statement-of-cash-flows)
 - [**2. The DuPont Framework**](#2-the-dupont-framework) (3 videos)
-  - Determining return on equity
-  - Applying the DuPont framework
-  - Example: Ford vs. General Motors
+  - [Determining return on equity](#determining-return-on-equity)
+  - [Applying the DuPont framework](#applying-the-dupont-framework)
+  - [Example: Ford vs. General Motors](#example-ford-vs-general-motors)
 - [**3. Common-Size Financial Statements**](#3-common-size-financial-statements) (4 videos)
-  - Common-size overview
-  - Common-size income statement
-  - Common-size balance sheet
-  - Example: Walmart vs. Target
+  - [Common-size overview](#common-size-overview)
+  - [Common-size income statement](#common-size-income-statement)
+  - [Common-size balance sheet](#common-size-balance-sheet)
+  - [Example: Walmart vs. Target](#example-walmart-vs-target)
 - [**4. Profitability Ratios**](#4-profitability-ratios) (2 videos)
-  - The many ways to define income and profit
-  - Example: Nordstrom vs. Microsoft
+  - [The many ways to define income and profit](#the-many-ways-to-define-income-and-profit)
+  - [Example: Nordstrom vs. Microsoft](#example-nordstrom-vs-microsoft)
 - [**5. Efficiency Ratios**](#5-efficiency-ratios) (4 videos)
-  - The operating cycle
-  - Days' sales of inventory (DSI)
-  - Average collection period
-  - Examples: Harley and McDonald's
+  - [The operating cycle](#the-operating-cycle)
+  - [Days' sales of inventory (DSI)](#days-sales-of-inventory-dsi)
+  - [Average collection period](#average-collection-period)
+  - [Examples: Harley and McDonald's](#examples-harley-and-mcdonalds)
 - [**6. Leverage Ratios**](#6-leverage-ratios) (3 videos)
-  - Current ratio in theory and practice
-  - The many debt ratios
-  - Example: Comparing tech company debt ratios
+  - [Current ratio in theory and practice](#current-ratio-in-theory-and-practice)
+  - [The many debt ratios](#the-many-debt-ratios)
+  - [Example: Comparing tech company debt ratios](#example-comparing-tech-company-debt-ratios)
 - [**7. Limitations of Financial Statement Analysis**](#7-limitations-of-financial-statement-analysis) (3 videos)
-  - Limits to using past performance
-  - Pitfalls of financial statement analysis
-  - Avoid the temptation of a single reason
+  - [Limits to using past performance](#limits-to-using-past-performance)
+  - [Pitfalls of financial statement analysis](#pitfalls-of-financial-statement-analysis)
+  - [Avoid the temptation of a single reason](#avoid-the-temptation-of-a-single-reason)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is financial statement analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980)
@@ -121,6 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Financial Statement Analysis]] (2), strengths (1)
 > **Speakers:** - hi (1), - i (1), - absolutely (1), - this (1), - you (1)
 
 #### Common methods of analysis
@@ -186,16 +187,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (5), [[Financial Statement Analysis]] (3), [[Ratio Analysis]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - now (1)
 
 
 ### 1. A Review of the Financial Statements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The accounting equation
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-accounting-equation-19829526?u=76281980)
@@ -280,8 +281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (6), business (2), [[Financial Statement Analysis]] (1)
 > **Speakers:** - [instructor (7), - the (3), - now (2), - before (1), - it (1)
-> **Code Keywords:** let (5), from. (1)
 > **Definitions:** is a  (1)
 
 #### Reading the balance sheet
@@ -421,7 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (5), business (5), [[Ratio Analysis]] (2), [[Forms]] (1), strengths (1)
 > **Definitions:** is a  (2), we call this (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -498,7 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), public (1)
+> **Frameworks & Libraries:** business (6), [[Microsoft]] (5), [[Microsoft Products|Products]] (2), [[Hardware]] (1), [[Financial Statement Analysis]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -613,13 +614,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new. (2), this, (1)
+> **Frameworks & Libraries:** business (9), [[Financial Statement Analysis]] (1), [[Ratio Analysis]] (1), [[Financial Statements]] (1)
 > **Speakers:** - the (1)
 
 
 ### 2. The DuPont Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining return on equity
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980)
@@ -702,10 +703,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Microsoft]] (1)
 > **Speakers:** - [jim] (4), - [kay] (4), - when (1), - there (1), - well (1)
 > **Env Vars:** roe (10)
 > **Versions:** 9.3 (4), 20.3 (1), 9.30 (1), 18.5 (1), 21.3 (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 
@@ -798,8 +799,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Ratio Analysis]] (1), business (1)
 > **Versions:** 9.3 (1), 20.3 (1), 1.38 (1), 1.70 (1), 3.50 (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 
@@ -900,8 +901,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), next (1)
 > **Versions:** 10.2 (4), 21.7 (3), 7.26 (2), 7.13 (2), 4.9 (2)
-> **Code Keywords:** let (6)
 > **Env Vars:** roe (4)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -911,7 +912,7 @@ created: 2026-04-29
 
 ### 3. Common-Size Financial Statements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common-size overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980)
@@ -978,8 +979,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (6), [[Ratio Analysis]] (1), [[Financial Analysis]] (1), next (1), [[Financial Statement Analysis]] (1)
 > **Speakers:** - [instructor (2), - so (2), - to (2), - step (1), - the (1)
-> **Code Keywords:** let (3), this: (1), else. (1)
 > **Versions:** 9.5 (1), 3.5 (1), 1.7 (1)
 > **Analogies:** for example (1)
 
@@ -1072,7 +1073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), this, (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), business (2), [[Financial Statement Analysis]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 3.5 (1), 6.2 (1)
 > **Analogies:** for example (2)
@@ -1171,7 +1172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Financial Statements]] (2), management (1), next (1), [[Ratio Analysis]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
@@ -1278,8 +1279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (2), data (2), next (1), [[Stark (Accessibility Software)|Stark]] (1), management (1)
 > **Versions:** 1.4 (1), 2.9 (1), 2.2 (1), 4.2 (1), 8.3 (1)
-> **Code Keywords:** let (4), finally, (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
@@ -1287,7 +1288,7 @@ created: 2026-04-29
 
 ### 4. Profitability Ratios
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The many ways to define income and profit
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980)
@@ -1400,8 +1401,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), [[Microsoft]] (7), cloud (1), product (1)
 > **Speakers:** - [host (6), - yeah (4), - well (2), - okay (2), - hey (1)
-> **Code Keywords:** let (3)
 > **Warnings:** be careful (2)
 > **Definitions:** in other words (1)
 
@@ -1474,16 +1475,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (4)
 > **Versions:** 3.6 (3), 3.1 (2), 0.4 (1)
 > **Env Vars:** roe (4)
-> **Code Keywords:** let (3)
 > **Warnings:** be careful (1)
 > **Speakers:** - as (1)
 
 
 ### 5. Efficiency Ratios
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The operating cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980)
@@ -1568,9 +1569,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (2), product (1), [[Microsoft Products|Products]] (1), business (1), next (1)
 > **Speakers:** - and (3), - [blue (2), - so (2), - one (1), - [pink (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1667,8 +1668,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), business (1)
 > **Versions:** 8.75 (3), 5.9 (2)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1751,8 +1752,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (1)
 > **Analogies:** just like (2), for example (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Versions:** 15.6 (1)
 > **Definitions:** is an  (1)
@@ -1839,7 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** business (3)
 > **Definitions:** in other words (1), is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
@@ -1847,7 +1848,7 @@ created: 2026-04-29
 
 ### 6. Leverage Ratios
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Current ratio in theory and practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/current-ratio-in-theory-and-practice-19833204?u=76281980)
@@ -1933,7 +1934,6 @@ created: 2026-04-29
 > **Speakers:** - [narrator (5), - so (2), - we (1), - in (1), - banks (1)
 > **Versions:** 2.5 (1), 1.5 (1), 0.8 (1), 0.83 (1)
 > **Best Practices:** rule of thumb (3), general rule (1)
-> **Code Keywords:** let (1), default. (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 
@@ -2046,8 +2046,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Microsoft Word|Word]] (1), data (1)
 > **Definitions:** is an  (1), is a  (1), is called (1), means that (1)
-> **Code Keywords:** let (3)
 > **Versions:** 0.5 (1)
 > **Cross-References:** go back to (1)
 > **Best Practices:** rule of thumb (1)
@@ -2154,7 +2154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Google]] (10), [[Microsoft]] (3), hit (1), next (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be careful (2)
 > **Definitions:** is a  (1)
@@ -2164,7 +2164,7 @@ created: 2026-04-29
 
 ### 7. Limitations of Financial Statement Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Limits to using past performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980)
@@ -2243,8 +2243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Analysis]] (1), [[Financial Statement Analysis]] (1), data (1), [[Ratio Analysis]] (1)
 > **Speakers:** - so (3), - well (3), - okay (2), - all (1), - bit (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2313,10 +2313,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (5), [[Financial Statement Analysis]] (2)
 > **Warnings:** be careful (3), common mistake (2), be aware (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - all (1)
 
 #### Avoid the temptation of a single reason
@@ -2382,8 +2382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Financial Statement Analysis]] (2), [[Ratio Analysis]] (1), next (1)
 > **Warnings:** be careful (2), pitfall (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Versions:** 2.5 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - turns (1)
@@ -2391,7 +2391,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980)
@@ -2482,8 +2482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ratio Analysis]] (9), [[Financial Statement Analysis]] (5), [[Financial Statements]] (3), business (2), next (1)
 > **Speakers:** - you (3), - [ken] (2), - now (2), - so (2), - let (1)
-> **Code Keywords:** private (2), let (1), finally, (1), for, (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1), for example (1), picture (1)
 

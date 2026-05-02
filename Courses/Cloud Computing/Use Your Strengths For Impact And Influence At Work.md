@@ -27,7 +27,7 @@ tags:
   - skill/strengths-development
   - skill/influencing-others
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Use%20Your%20Strengths%20For%20Impact%20And%20Influence%20At%20Work.md)
@@ -46,25 +46,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of your professional strengths
+  - [The power of your professional strengths](#the-power-of-your-professional-strengths)
 - [**1. Develop Inner Self-Mastery**](#1-develop-inner-self-mastery) (3 videos)
-  - Manage self-talk
-  - Your mindset matters
-  - Don't think it, ink it
+  - [Manage self-talk](#manage-self-talk)
+  - [Your mindset matters](#your-mindset-matters)
+  - [Don't think it, ink it](#dont-think-it-ink-it)
 - [**2. What Makes You Unique?**](#2-what-makes-you-unique) (3 videos)
-  - Gain clarity on your strengths
-  - Know your value
-  - Evolve your skills
+  - [Gain clarity on your strengths](#gain-clarity-on-your-strengths)
+  - [Know your value](#know-your-value)
+  - [Evolve your skills](#evolve-your-skills)
 - [**3. Build Your Professional Presence**](#3-build-your-professional-presence) (3 videos)
-  - Strengthen your confidence muscle
-  - Get noticed by key decision makers
-  - Demonstrate your strengths online
+  - [Strengthen your confidence muscle](#strengthen-your-confidence-muscle)
+  - [Get noticed by key decision makers](#get-noticed-by-key-decision-makers)
+  - [Demonstrate your strengths online](#demonstrate-your-strengths-online)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Put your strengths into practice
+  - [Put your strengths into practice](#put-your-strengths-into-practice)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of your professional strengths
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/the-power-of-your-professional-strengths?u=76281980)
@@ -101,14 +101,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), finally, (1), let (1)
+> **Frameworks & Libraries:** strengths (2), career (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
 
 ### 1. Develop Inner Self-Mastery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage self-talk
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/manage-self-talk?u=76281980)
@@ -203,7 +203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (1)
+> **Frameworks & Libraries:** career (1), [[Influencing Others]] (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - what (1)
@@ -291,8 +291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (7), business (2), [[Microsoft Outlook|Outlook]] (1), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** public (2), self (1)
 > **Analogies:** such as (1), for example (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -385,14 +385,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
+> **Frameworks & Libraries:** power (1), career (1), express (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - don (1)
 
 
 ### 2. What Makes You Unique?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gain clarity on your strengths
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/gain-clarity-on-your-strengths?u=76281980)
@@ -473,7 +473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), case, (1), self (1), this. (1)
+> **Frameworks & Libraries:** strengths (8), career (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -540,8 +540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wellness]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **Env Vars:** ceo (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - can (1)
@@ -637,14 +637,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), new. (1), this. (1)
+> **Frameworks & Libraries:** career (1), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
 
 
 ### 3. Build Your Professional Presence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strengthen your confidence muscle
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/strengthen-your-confidence-muscle?u=76281980)
@@ -727,7 +727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (8), public (1)
+> **Frameworks & Libraries:** leadership (2), career (1)
 > **CLI Commands:** cat (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -788,8 +788,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - have (1)
 
 #### Demonstrate your strengths online
@@ -869,8 +869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (10), seo (3), [[Personal Branding]] (2), next (1), [[Leadership Development]] (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (3)
 > **Env Vars:** seo (3)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - when (1)
@@ -878,7 +878,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Put your strengths into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/put-your-strengths-into-practice?u=76281980)
@@ -915,6 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [mariellelegair.com](https://mariellelegair.com) (1)
 > **Speakers:** - congratulations (1)

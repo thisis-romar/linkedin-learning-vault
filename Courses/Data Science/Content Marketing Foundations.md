@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/content-marketing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Content%20Marketing%20Foundations.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What is content marketing?
+  - [What is content marketing?](#what-is-content-marketing)
 - [**1. Creating a Content Strategy**](#1-creating-a-content-strategy) (2 videos)
-  - Setting strategic goals
-  - Defining your audience
+  - [Setting strategic goals](#setting-strategic-goals)
+  - [Defining your audience](#defining-your-audience)
 - [**2. Choosing the Right Topics**](#2-choosing-the-right-topics) (2 videos)
-  - Finding relevant topic ideas
-  - Organizing topics into categories
+  - [Finding relevant topic ideas](#finding-relevant-topic-ideas)
+  - [Organizing topics into categories](#organizing-topics-into-categories)
 - [**3. Producing Content**](#3-producing-content) (2 videos)
-  - Tips for successful storytelling
-  - Selecting the right type of content
+  - [Tips for successful storytelling](#tips-for-successful-storytelling)
+  - [Selecting the right type of content](#selecting-the-right-type-of-content)
 - [**4. Optimizing Content**](#4-optimizing-content) (2 videos)
-  - Formatting content for a frictionless experience
-  - Formatting content for distribution
+  - [Formatting content for a frictionless experience](#formatting-content-for-a-frictionless-experience)
+  - [Formatting content for distribution](#formatting-content-for-distribution)
 - [**5. Distributing Content**](#5-distributing-content) (2 videos)
-  - Promoting with owned and shared media
-  - Promoting with earned and paid media
+  - [Promoting with owned and shared media](#promoting-with-owned-and-shared-media)
+  - [Promoting with earned and paid media](#promoting-with-earned-and-paid-media)
 - [**6. Integrating Content**](#6-integrating-content) (2 videos)
-  - Integrating content across departments
-  - Repurposing content to earn more benefits
+  - [Integrating content across departments](#integrating-content-across-departments)
+  - [Repurposing content to earn more benefits](#repurposing-content-to-earn-more-benefits)
 - [**7. Measuring Content**](#7-measuring-content) (1 videos)
-  - Attributing content actions to results
+  - [Attributing content actions to results](#attributing-content-actions-to-results)
 - [**8. Innovating with Content**](#8-innovating-with-content) (3 videos)
-  - Conveying thought leadership with content
-  - The key to the quality versus quantity debate
-  - Experimenting beyond best practices
+  - [Conveying thought leadership with content](#conveying-thought-leadership-with-content)
+  - [The key to the quality versus quantity debate](#the-key-to-the-quality-versus-quantity-debate)
+  - [Experimenting beyond best practices](#experimenting-beyond-best-practices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Staying updated on content marketing
+  - [Staying updated on content marketing](#staying-updated-on-content-marketing)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is content marketing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Forms]] (1)
 > **Env Vars:** nyu (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
@@ -113,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Creating a Content Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting strategic goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980)
@@ -168,9 +169,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Marketing Strategy]] (3), business (2), [[Thought Leadership]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - every (1)
 
@@ -227,6 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), business (1), data (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (1), similar to (1)
 > **Definitions:** is a  (1)
@@ -235,7 +237,7 @@ created: 2026-04-29
 
 ### 2. Choosing the Right Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding relevant topic ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/finding-relevant-topic-ideas?u=76281980)
@@ -294,7 +296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), yield (1)
+> **Frameworks & Libraries:** [[Analytics]] (2), product (1), data (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** crm (1), pos (1)
@@ -345,6 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[LinkedIn]] (1), next (1), business (1), [[Search]] (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -353,7 +356,7 @@ created: 2026-04-29
 
 ### 3. Producing Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tips for successful storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980)
@@ -412,7 +415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), case, (1)
+> **Frameworks & Libraries:** [[Storytelling]] (5), [[Climate Change]] (2), business (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** think of it as (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - storytelling (1)
@@ -470,6 +473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infographics]] (1), [[Analytics]] (1), data (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
@@ -478,7 +482,7 @@ created: 2026-04-29
 
 ### 4. Optimizing Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Formatting content for a frictionless experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-a-frictionless-experience?u=76281980)
@@ -535,8 +539,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), for. (1)
 > **Definitions:** is an  (2)
 > **Best Practices:** you should always (1), make sure to (1)
 > **Cross-References:** in the next (1)
@@ -586,8 +590,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (7), traffic (2), [[Google]] (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** itunes (1)
 > **Env Vars:** url (1)
 > **Analogies:** for instance (1)
@@ -597,7 +601,7 @@ created: 2026-04-29
 
 ### 5. Distributing Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Promoting with owned and shared media
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980)
@@ -642,11 +646,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[LinkedIn]] (1), traffic (1), next (1), prompt (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** for example (2), for instance (1)
 > **Env Vars:** peso (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - after (1)
 
 #### Promoting with earned and paid media
@@ -696,6 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), [[Search]] (2), [[Google]] (1), prompt (1)
 > **Env Vars:** peso (2)
 > **Definitions:** stands for (1)
 > **Speakers:** - earning (1)
@@ -703,7 +708,7 @@ created: 2026-04-29
 
 ### 6. Integrating Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating content across departments
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/integrating-content-across-departments?u=76281980)
@@ -742,9 +747,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), hr (1), teams (1), [[Troubleshooting]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** public (1)
 > **Speakers:** - content (1)
 
 #### Repurposing content to earn more benefits
@@ -796,15 +801,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), [[Google]] (1), [[Analytics]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), for instance (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - you (1)
 
 
 ### 7. Measuring Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Attributing content actions to results
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/attributing-content-actions-to-results?u=76281980)
@@ -859,9 +864,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (2), [[Google]] (2), [[Analytics]] (2), traffic (1)
 > **Analogies:** for example (1), picture (1), for instance (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** roi (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - what (1)
@@ -869,7 +874,7 @@ created: 2026-04-29
 
 ### 8. Innovating with Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conveying thought leadership with content
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980)
@@ -916,6 +921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Thought Leadership]] (2), [[Infographics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), cloud (1), data (1)
 > **Env Vars:** ibm (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), for instance (1)
@@ -975,8 +981,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), generic (1)
 > **Definitions:** is an  (2), is called (1)
-> **Code Keywords:** let (1), public (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - what (1)
 
@@ -1035,9 +1041,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (1), basically means (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - best (1)
@@ -1045,7 +1051,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Staying updated on content marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/staying-updated-on-content-marketing?u=76281980)
@@ -1076,6 +1082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), hit (1)
 > **URLs:** [brianhonigman.com](https://brianhonigman.com) (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** don't forget (1)

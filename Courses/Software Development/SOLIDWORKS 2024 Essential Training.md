@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/solidworks
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/SOLIDWORKS%202024%20Essential%20Training.md)
@@ -45,158 +45,158 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Learn 3D CAD modeling with SOLIDWORKS 2024
+  - [Learn 3D CAD modeling with SOLIDWORKS 2024](#learn-3d-cad-modeling-with-solidworks-2024)
 - [**1. Introduction to SOLIDWORKS**](#1-introduction-to-solidworks) (6 videos)
-  - Launching SOLIDWORKS for the first time
-  - Navigating in the 3D workspace
-  - SOLIDWORKS templates
-  - Saving, renaming, and managing files
-  - Measuring
-  - Interface improvements for SOLIDWORKS 2024
+  - [Launching SOLIDWORKS for the first time](#launching-solidworks-for-the-first-time)
+  - [Navigating in the 3D workspace](#navigating-in-the-3d-workspace)
+  - [SOLIDWORKS templates](#solidworks-templates)
+  - [Saving, renaming, and managing files](#saving-renaming-and-managing-files)
+  - [Measuring](#measuring)
+  - [Interface improvements for SOLIDWORKS 2024](#interface-improvements-for-solidworks-2024)
 - [**2. SOLIDWORKS Quick Start**](#2-solidworks-quick-start) (4 videos)
-  - Creating your first 3D part
-  - Building your first assembly
-  - Making your first CAD drawing
-  - Basic steps for 3D modeling
+  - [Creating your first 3D part](#creating-your-first-3d-part)
+  - [Building your first assembly](#building-your-first-assembly)
+  - [Making your first CAD drawing](#making-your-first-cad-drawing)
+  - [Basic steps for 3D modeling](#basic-steps-for-3d-modeling)
 - [**3. Basic Part Modeling**](#3-basic-part-modeling) (12 videos)
-  - Creating sketches
-  - Understanding relationships
-  - Using the Extrude feature
-  - Using the Extruded Cut feature
-  - Creating revolved features
-  - Making revolved cuts
-  - Applying materials, colors, and finishes
-  - Finding mass properties
-  - System options, units, and templates
-  - Working with dimensions
-  - Selecting colors
-  - Creating reference coordinate systems
+  - [Creating sketches](#creating-sketches)
+  - [Understanding relationships](#understanding-relationships)
+  - [Using the Extrude feature](#using-the-extrude-feature)
+  - [Using the Extruded Cut feature](#using-the-extruded-cut-feature)
+  - [Creating revolved features](#creating-revolved-features)
+  - [Making revolved cuts](#making-revolved-cuts)
+  - [Applying materials, colors, and finishes](#applying-materials-colors-and-finishes)
+  - [Finding mass properties](#finding-mass-properties)
+  - [System options, units, and templates](#system-options-units-and-templates)
+  - [Working with dimensions](#working-with-dimensions)
+  - [Selecting colors](#selecting-colors)
+  - [Creating reference coordinate systems](#creating-reference-coordinate-systems)
 - [**4. Sketch Tools**](#4-sketch-tools) (12 videos)
-  - Line and Centerline tools
-  - Using the Rectangle tool
-  - Circles and arcs
-  - Drawing slots
-  - Working with ellipses and conics
-  - Sketching polygons
-  - Creating text
-  - Using equations and linked variables
-  - Using the Spline tool
-  - Equation driven curve
-  - Sketch Ink
-  - Copying and patterning sketch text
+  - [Line and Centerline tools](#line-and-centerline-tools)
+  - [Using the Rectangle tool](#using-the-rectangle-tool)
+  - [Circles and arcs](#circles-and-arcs)
+  - [Drawing slots](#drawing-slots)
+  - [Working with ellipses and conics](#working-with-ellipses-and-conics)
+  - [Sketching polygons](#sketching-polygons)
+  - [Creating text](#creating-text)
+  - [Using equations and linked variables](#using-equations-and-linked-variables)
+  - [Using the Spline tool](#using-the-spline-tool)
+  - [Equation driven curve](#equation-driven-curve)
+  - [Sketch Ink](#sketch-ink)
+  - [Copying and patterning sketch text](#copying-and-patterning-sketch-text)
 - [**5. Modify Sketches**](#5-modify-sketches) (9 videos)
-  - Trimming and extending a sketch
-  - Creating offset geometry
-  - Moving, copying, rotating, and scaling
-  - Erasing, undoing, and redoing actions
-  - Using the Mirror tools
-  - Creating repeating patterns in a sketch
-  - Using construction lines
-  - Using the Convert Entities tool
-  - Adding fillets and chamfers to sketches
+  - [Trimming and extending a sketch](#trimming-and-extending-a-sketch)
+  - [Creating offset geometry](#creating-offset-geometry)
+  - [Moving, copying, rotating, and scaling](#moving-copying-rotating-and-scaling)
+  - [Erasing, undoing, and redoing actions](#erasing-undoing-and-redoing-actions)
+  - [Using the Mirror tools](#using-the-mirror-tools)
+  - [Creating repeating patterns in a sketch](#creating-repeating-patterns-in-a-sketch)
+  - [Using construction lines](#using-construction-lines)
+  - [Using the Convert Entities tool](#using-the-convert-entities-tool)
+  - [Adding fillets and chamfers to sketches](#adding-fillets-and-chamfers-to-sketches)
 - [**6. Reference Geometry**](#6-reference-geometry) (5 videos)
-  - Working with planes
-  - Making an axis
-  - Creating a coordinate system
-  - Concept sketches
-  - Markup view
+  - [Working with planes](#working-with-planes)
+  - [Making an axis](#making-an-axis)
+  - [Creating a coordinate system](#creating-a-coordinate-system)
+  - [Concept sketches](#concept-sketches)
+  - [Markup view](#markup-view)
 - [**7. Part Modifications**](#7-part-modifications) (7 videos)
-  - Adding fillets to a part
-  - Chamfering edges
-  - Applying draft
-  - Using the Shell command
-  - Using the Mirror command
-  - Creating linear patterns
-  - Creating circular patterns
+  - [Adding fillets to a part](#adding-fillets-to-a-part)
+  - [Chamfering edges](#chamfering-edges)
+  - [Applying draft](#applying-draft)
+  - [Using the Shell command](#using-the-shell-command)
+  - [Using the Mirror command](#using-the-mirror-command)
+  - [Creating linear patterns](#creating-linear-patterns)
+  - [Creating circular patterns](#creating-circular-patterns)
 - [**8. Advanced Part Modeling**](#8-advanced-part-modeling) (20 videos)
-  - Loft tool
-  - Lofted shapes with guide curves
-  - Making lofted cuts
-  - Creating swept shapes
-  - Making swept cuts
-  - Using the Wrap command
-  - Boundary Boss/Base
-  - Intersect tool
-  - Working with configurations
-  - Surface tools
-  - Using surfaces to build solid models
-  - Direct editing: Move/Copy Bodies
-  - Direct editing: Move Face
-  - Direct editing: Combine
-  - Direct editing: Split
-  - Project Curve
-  - Slice tool
-  - Introduction to Sheet Metal tools
-  - Introduction to Weldments
-  - Review of available tool sets
+  - [Loft tool](#loft-tool)
+  - [Lofted shapes with guide curves](#lofted-shapes-with-guide-curves)
+  - [Making lofted cuts](#making-lofted-cuts)
+  - [Creating swept shapes](#creating-swept-shapes)
+  - [Making swept cuts](#making-swept-cuts)
+  - [Using the Wrap command](#using-the-wrap-command)
+  - [Boundary Boss/Base](#boundary-bossbase)
+  - [Intersect tool](#intersect-tool)
+  - [Working with configurations](#working-with-configurations)
+  - [Surface tools](#surface-tools)
+  - [Using surfaces to build solid models](#using-surfaces-to-build-solid-models)
+  - [Direct editing: Move/Copy Bodies](#direct-editing-movecopy-bodies)
+  - [Direct editing: Move Face](#direct-editing-move-face)
+  - [Direct editing: Combine](#direct-editing-combine)
+  - [Direct editing: Split](#direct-editing-split)
+  - [Project Curve](#project-curve)
+  - [Slice tool](#slice-tool)
+  - [Introduction to Sheet Metal tools](#introduction-to-sheet-metal-tools)
+  - [Introduction to Weldments](#introduction-to-weldments)
+  - [Review of available tool sets](#review-of-available-tool-sets)
 - [**9. Hole Wizard**](#9-hole-wizard) (5 videos)
-  - Getting started with the Hole Wizard
-  - Best practices for using the Holewizard
-  - Positioning holes in 3D
-  - Hole Wizard Slots
-  - External Threaded Stud Wizard
+  - [Getting started with the Hole Wizard](#getting-started-with-the-hole-wizard)
+  - [Best practices for using the Holewizard](#best-practices-for-using-the-holewizard)
+  - [Positioning holes in 3D](#positioning-holes-in-3d)
+  - [Hole Wizard Slots](#hole-wizard-slots)
+  - [External Threaded Stud Wizard](#external-threaded-stud-wizard)
 - [**10. Blocks**](#10-blocks) (3 videos)
-  - Using sketch blocks
-  - Creating blocks
-  - Designing with blocks
+  - [Using sketch blocks](#using-sketch-blocks)
+  - [Creating blocks](#creating-blocks)
+  - [Designing with blocks](#designing-with-blocks)
 - [**11. Building Assemblies**](#11-building-assemblies) (9 videos)
-  - Starting an assembly
-  - Copying, moving, and rotating parts
-  - Mating parts together in an assembly
-  - Working with subassemblies
-  - Making linear patterns
-  - Creating circular patterns
-  - Using the Toolbox
-  - Downloading internet parts
-  - Using the Q key for quick references
+  - [Starting an assembly](#starting-an-assembly)
+  - [Copying, moving, and rotating parts](#copying-moving-and-rotating-parts)
+  - [Mating parts together in an assembly](#mating-parts-together-in-an-assembly)
+  - [Working with subassemblies](#working-with-subassemblies)
+  - [Making linear patterns](#making-linear-patterns)
+  - [Creating circular patterns](#creating-circular-patterns)
+  - [Using the Toolbox](#using-the-toolbox)
+  - [Downloading internet parts](#downloading-internet-parts)
+  - [Using the Q key for quick references](#using-the-q-key-for-quick-references)
 - [**12. Advanced Mates**](#12-advanced-mates) (7 videos)
-  - Creating component Mates
-  - Mating parts with Advanced Mates
-  - Mating parts with Path Mate
-  - Mechanical Mates
-  - Mating parts by aligning planes
-  - Magnetic Mates
-  - Asset Publisher for Magnetic Mates
+  - [Creating component Mates](#creating-component-mates)
+  - [Mating parts with Advanced Mates](#mating-parts-with-advanced-mates)
+  - [Mating parts with Path Mate](#mating-parts-with-path-mate)
+  - [Mechanical Mates](#mechanical-mates)
+  - [Mating parts by aligning planes](#mating-parts-by-aligning-planes)
+  - [Magnetic Mates](#magnetic-mates)
+  - [Asset Publisher for Magnetic Mates](#asset-publisher-for-magnetic-mates)
 - [**13. In-Context Modeling**](#13-in-context-modeling) (3 videos)
-  - Linking sketches to other parts
-  - Using layout sketches
-  - Using the Hole Wizard in context
+  - [Linking sketches to other parts](#linking-sketches-to-other-parts)
+  - [Using layout sketches](#using-layout-sketches)
+  - [Using the Hole Wizard in context](#using-the-hole-wizard-in-context)
 - [**14. Using Design Tables**](#14-using-design-tables) (5 videos)
-  - Using design tables
-  - Working with complex calculations
-  - Selecting component configurations
-  - Building assemblies with design tables
-  - Adding to design tables
+  - [Using design tables](#using-design-tables)
+  - [Working with complex calculations](#working-with-complex-calculations)
+  - [Selecting component configurations](#selecting-component-configurations)
+  - [Building assemblies with design tables](#building-assemblies-with-design-tables)
+  - [Adding to design tables](#adding-to-design-tables)
 - [**15. Part Drawings**](#15-part-drawings) (4 videos)
-  - Working with drawing templates
-  - Drawing options and sheet properties
-  - Choosing the correct projection angle
-  - Adding model views to a drawing
+  - [Working with drawing templates](#working-with-drawing-templates)
+  - [Drawing options and sheet properties](#drawing-options-and-sheet-properties)
+  - [Choosing the correct projection angle](#choosing-the-correct-projection-angle)
+  - [Adding model views to a drawing](#adding-model-views-to-a-drawing)
 - [**16. Dimensioning**](#16-dimensioning) (4 videos)
-  - Creating general dimension notations
-  - Creating ordinate dimensions
-  - Dimensioning holes and curved features
-  - Using the Autodimension tool
+  - [Creating general dimension notations](#creating-general-dimension-notations)
+  - [Creating ordinate dimensions](#creating-ordinate-dimensions)
+  - [Dimensioning holes and curved features](#dimensioning-holes-and-curved-features)
+  - [Using the Autodimension tool](#using-the-autodimension-tool)
 - [**17. Add General Annotations**](#17-add-general-annotations) (6 videos)
-  - Adding annotations
-  - Adding special views to your drawings
-  - Adding custom properties
-  - Linking drawing notes
-  - Using the Design Library
-  - Using Equations for Custom Properties
+  - [Adding annotations](#adding-annotations)
+  - [Adding special views to your drawings](#adding-special-views-to-your-drawings)
+  - [Adding custom properties](#adding-custom-properties)
+  - [Linking drawing notes](#linking-drawing-notes)
+  - [Using the Design Library](#using-the-design-library)
+  - [Using Equations for Custom Properties](#using-equations-for-custom-properties)
 - [**18. Assembly Drawings**](#18-assembly-drawings) (6 videos)
-  - Adding assemblies to drawings
-  - Including a bill of materials
-  - Adding balloons on an assembly drawing
-  - Making an exploded view
-  - Adding in custom properties and revision
-  - Detailing Mode
+  - [Adding assemblies to drawings](#adding-assemblies-to-drawings)
+  - [Including a bill of materials](#including-a-bill-of-materials)
+  - [Adding balloons on an assembly drawing](#adding-balloons-on-an-assembly-drawing)
+  - [Making an exploded view](#making-an-exploded-view)
+  - [Adding in custom properties and revision](#adding-in-custom-properties-and-revision)
+  - [Detailing Mode](#detailing-mode)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn 3D CAD modeling with SOLIDWORKS 2024
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/learn-3d-cad-modeling-with-solidworks-2024?u=76281980)
@@ -223,13 +223,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[LinkedIn]] (2), next (1)
 > **Env Vars:** solidworks (3)
 > **Speakers:** - hi (1)
 
 
 ### 1. Introduction to SOLIDWORKS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Launching SOLIDWORKS for the first time
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/launching-solidworks-for-the-first-time?u=76281980)
@@ -600,8 +601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (15), feature (6), [[Zoom]] (6), next (4), [[Representational State Transfer (REST)|Rest]] (2)
 > **UI Navigation:** click on (16), drag and drop (4), toggle (3)
-> **Code Keywords:** let (8), switch (4), new, (3), this, (2), while, (1)
 > **CLI Commands:** make (3), snap (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (2)
@@ -773,10 +774,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (22), hit (3), [[SOLIDWORKS]] (2), next (1)
 > **Env Vars:** ips (3), solidworks (2)
 > **UI Navigation:** click on (4), scroll up (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), switch (1)
 > **Prerequisites:** make sure you have (1), configure (1), set up (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the last (1)
@@ -985,8 +986,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (5), [[LinkedIn]] (3), next (1), [[Metadata]] (1)
 > **Exercise Files:** template (16), exercise files (1)
-> **Code Keywords:** let (10), continue (1), this, (1), else, (1)
 > **UI Navigation:** click on (9), go to (2)
 > **CLI Commands:** make (3)
 > **Versions:** 1.3 (3)
@@ -1197,7 +1198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), for. (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (15), [[Windows]] (3), data (2), hit (2)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** click on (4), open the (1)
 > **Versions:** 1.4 (2), 14.1 (1), 14.4 (1)
@@ -1306,7 +1307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (1), this, (1), case, (1), else. (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), feature (1), power (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.73 (1), 1.18 (1)
 > **UI Navigation:** click on (2)
@@ -1385,8 +1386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (14), [[Microsoft]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (3), go to (1), dropdown (1), open the (1)
-> **Code Keywords:** let (3), switch (1), new. (1)
 > **Env Vars:** pdf (2)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -1394,7 +1395,7 @@ created: 2026-04-29
 
 ### 2. SOLIDWORKS Quick Start
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your first 3D part
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/creating-your-first-3d-part?u=76281980)
@@ -1649,7 +1650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (3), new. (1), else. (1)
+> **Frameworks & Libraries:** feature (9), [[SOLIDWORKS]] (5), hit (2)
 > **UI Navigation:** click on (7), go to (1)
 > **Definitions:** is called (2), is a  (2)
 > **CLI Commands:** make (3)
@@ -1834,7 +1835,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (3), this, (2), continue (1), case, (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), next (3), [[SOLIDWORKS]] (2), hit (1), [[Hardware]] (1)
 > **UI Navigation:** click on (8), drag and drop (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** solidworks (2)
@@ -2062,7 +2063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (2), switch (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[LinkedIn]] (1), hit (1), [[Metadata]] (1)
 > **CLI Commands:** make (5)
 > **Exercise Files:** template (5)
 > **UI Navigation:** click on (4)
@@ -2266,7 +2267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), finally, (1)
+> **Frameworks & Libraries:** feature (10), next (4), [[SOLIDWORKS]] (3)
 > **CLI Commands:** make (3), snap (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** we talked about (1)
@@ -2276,7 +2277,7 @@ created: 2026-04-29
 
 ### 3. Basic Part Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating sketches
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/creating-sketches?u=76281980)
@@ -2445,7 +2446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (2)
+> **Frameworks & Libraries:** feature (7), [[SOLIDWORKS]] (5)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (3)
 > **Speakers:** - [instructor] (1)
@@ -2611,8 +2612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (3), next (2), [[SOLIDWORKS]] (2), feature (1), hit (1)
 > **CLI Commands:** make (11)
-> **Code Keywords:** let (5), delete (4), if, (1)
 > **UI Navigation:** click on (3)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -2782,7 +2783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), from, (1), this. (1)
+> **Frameworks & Libraries:** feature (10), [[Vertex]] (5), next (3), [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), checkbox (1)
 > **Env Vars:** solidworks (1)
@@ -2927,7 +2928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), switch (1), for. (1), this, (1)
+> **Frameworks & Libraries:** feature (7), next (4), [[Vertex]] (3), [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (2)
@@ -3069,7 +3070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), else. (1), this. (1), let (1)
+> **Frameworks & Libraries:** feature (8), next (1), hit (1), [[SOLIDWORKS]] (1), [[Vertex]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** kind of like (1), just like (1)
 > **Warnings:** keep in mind (1)
@@ -3171,7 +3172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (1)
+> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** make (3), snap (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -3307,7 +3308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else, (1), delete (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), feature (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (3), go to (1)
 > **Versions:** 20.34 (1), 2.86 (1), 7.3 (1)
@@ -3442,7 +3443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), this. (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), hit (3), data (2), [[Simulation]] (1)
 > **CLI Commands:** make (4)
 > **Versions:** 72.92 (2), 9.99 (1), 0.4 (1)
 > **Analogies:** it's like (2)
@@ -3558,11 +3559,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), prompt (2), next (1), [[Sketching]] (1), feature (1)
 > **Exercise Files:** template (12)
 > **UI Navigation:** click on (5)
 > **Prerequisites:** configure (2), set up (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), switch (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3703,7 +3704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (2), for, (1), switch (1), this, (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), next (3), hit (2)
 > **UI Navigation:** click on (6), checkbox (1)
 > **CLI Commands:** make (3)
 > **Versions:** 2.5 (1), 1.5 (1)
@@ -3774,7 +3775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), web (1)
 > **Env Vars:** rgb (1), hsv (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -3889,9 +3890,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), data (2)
 > **Env Vars:** solidworks (2), cnc (1), cswp (1), cswa (1)
 > **UI Navigation:** click on (4), dropdown (1)
-> **Code Keywords:** let (2), this. (1), switch (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **Prerequisites:** set up (1)
@@ -3900,7 +3901,7 @@ created: 2026-04-29
 
 ### 4. Sketch Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Line and Centerline tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/line-and-centerline-tools?u=76281980)
@@ -4041,7 +4042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), switch (3), continue (1), delete (1), this, (1)
+> **Frameworks & Libraries:** hit (5), [[SOLIDWORKS]] (4), next (2)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (1)
@@ -4163,7 +4164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (3)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (5), parallel (4), hit (2), next (2)
 > **UI Navigation:** click on (4), dropdown (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -4306,8 +4307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[SOLIDWORKS]] (3), hit (1)
 > **UI Navigation:** click on (7), dropdown (1)
-> **Code Keywords:** this, (3), let (2), continue (1)
 > **CLI Commands:** snap (2)
 > **Analogies:** for instance (1), just like (1)
 > **Versions:** 3.5 (1)
@@ -4388,7 +4389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Analogies:** kind of like (1)
@@ -4543,7 +4544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1), from. (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), next (2), hit (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for instance (3), similar to (2), just like (1)
 > **CLI Commands:** make (4), snap (1)
 > **Versions:** 1.75 (1), 1.0 (1)
@@ -4636,7 +4637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1)
+> **Frameworks & Libraries:** feature (1), hit (1), next (1), [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (3), switch to (1)
 > **Warnings:** heads up (2)
@@ -4809,8 +4810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[SOLIDWORKS]] (2), [[Zoom]] (1), product (1)
 > **CLI Commands:** make (12), find (1), snap (1)
-> **Code Keywords:** let (5), this, (3), switch (2), case, (1), this. (1)
 > **UI Navigation:** click on (8)
 > **Env Vars:** dxf (1), dwg (1)
 > **Definitions:** is a  (2)
@@ -4985,7 +4986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (2)
+> **Frameworks & Libraries:** hit (3), [[SOLIDWORKS]] (2), feature (1), data (1)
 > **UI Navigation:** click on (5)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (2)
@@ -5077,7 +5078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** hit (2), [[Zoom]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** it's like (1), for instance (1)
 > **UI Navigation:** click on (1)
@@ -5173,8 +5174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** from. (1), let (1), switch (1)
 > **Analogies:** just like (1), for instance (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -5305,7 +5306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (5), [[Sketching]] (4), power (1)
 > **UI Navigation:** click on (4)
 > **Cross-References:** go back to (1), coming up (1)
 > **Analogies:** for instance (1), just like (1)
@@ -5401,9 +5402,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** click on (2), dropdown (1), select the (1)
-> **Code Keywords:** let (3)
 > **Versions:** 0.5 (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -5411,7 +5412,7 @@ created: 2026-04-29
 
 ### 5. Modify Sketches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Trimming and extending a sketch
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/trimming-and-extending-a-sketch?u=76281980)
@@ -5554,7 +5555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** power (5), next (2), [[SOLIDWORKS]] (2), hit (2)
 > **Cross-References:** next video (1), go back to (1)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** find (1)
@@ -5755,8 +5756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (8), select the (5)
-> **Code Keywords:** let (8), this, (1)
 > **CLI Commands:** make (4), snap (1)
 > **Analogies:** for instance (3)
 > **Versions:** 1.25 (1)
@@ -5904,8 +5905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (2), hit (1)
 > **CLI Commands:** make (5), snap (2)
-> **Code Keywords:** let (2), case, (2), this, (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -6026,7 +6027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), let (2), else, (1)
+> **Frameworks & Libraries:** hit (3), [[AutoCAD]] (2)
 > **UI Navigation:** click on (4), right-click (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -6142,7 +6143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** feature (2), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -6328,9 +6329,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), feature (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3), delete (1)
 > **Analogies:** just like (2)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** make sure you have (1)
@@ -6561,7 +6562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), delete (6), case, (2), this, (1)
+> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** make (11)
 > **UI Navigation:** click on (2), select the (1), go to (1)
 > **Definitions:** is a  (2), defined as (1)
@@ -6667,7 +6668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), feature (2), data (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** just like (1), for instance (1)
@@ -6804,8 +6805,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), feature (1)
 > **Versions:** 0.5 (3), 0.25 (2), 32.5 (1)
-> **Code Keywords:** let (4), this, (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Cross-References:** go back to (1)
@@ -6814,7 +6815,7 @@ created: 2026-04-29
 
 ### 6. Reference Geometry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with planes
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/working-with-planes?u=76281980)
@@ -6941,8 +6942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), next (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3), else. (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -7031,7 +7032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2)
+> **Frameworks & Libraries:** feature (2), next (2), parallel (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -7131,7 +7132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1), switch (1), default, (1), from, (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), power (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cswp (1), cswa (1), cnc (1), cam (1)
 > **Analogies:** kind of like (2), for instance (1)
@@ -7282,8 +7283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[Sketching]] (1)
 > **CLI Commands:** make (11), snap (1)
-> **Code Keywords:** let (5)
 > **Analogies:** kind of like (2), it's like (1), just like (1)
 > **Versions:** 1.0 (1), 3.0 (1)
 > **Cross-References:** coming up (1)
@@ -7391,8 +7392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), hit (1), product (1)
 > **CLI Commands:** make (9)
-> **Code Keywords:** switch (2), delete (2), this, (1), let (1)
 > **UI Navigation:** click on (3), open the (1)
 > **Analogies:** just like (1), similar to (1), kind of like (1)
 > **Code Identifiers:** edrawing (2)
@@ -7403,7 +7404,7 @@ created: 2026-04-29
 
 ### 7. Part Modifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding fillets to a part
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-fillets-to-a-part?u=76281980)
@@ -7612,7 +7613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), delete (3), switch (2), else, (1)
+> **Frameworks & Libraries:** next (3), feature (1)
 > **Versions:** 0.9 (2), 2.5 (1), 2.0 (1), 0.25 (1), 0.375 (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (2)
@@ -7795,7 +7796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (4), super (1), switch (1), for. (1)
+> **Frameworks & Libraries:** feature (3), next (1), [[Vertex]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Analogies:** similar to (3), kind of like (2), just like (2), for instance (1)
 > **UI Navigation:** click on (6)
@@ -7995,7 +7996,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), delete (1), this. (1)
+> **Frameworks & Libraries:** feature (3)
 > **UI Navigation:** click on (9), go to (2)
 > **Definitions:** is a  (3)
 > **Analogies:** it's like (2)
@@ -8171,7 +8172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), for, (1), case, (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **Versions:** 0.2 (2), 0.3 (2), 0.1 (1), 0.25 (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), select the (1)
@@ -8386,7 +8387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), else. (2), this, (2), this. (2), delete (1)
+> **Frameworks & Libraries:** feature (7), power (3), [[AutoCAD]] (2), [[SOLIDWORKS]] (2)
 > **CLI Commands:** make (14), find (1), snap (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for instance (1), it's like (1)
@@ -8553,7 +8554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (2), this. (1), else. (1)
+> **Frameworks & Libraries:** feature (5), [[SOLIDWORKS]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (4)
 > **Analogies:** just like (1)
@@ -8654,7 +8655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), for. (1)
+> **Frameworks & Libraries:** feature (5)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -8665,7 +8666,7 @@ created: 2026-04-29
 
 ### 8. Advanced Part Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loft tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/loft-tool?u=76281980)
@@ -8934,7 +8935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (3), switch (1), case, (1), for, (1)
+> **Frameworks & Libraries:** next (8), hit (1), [[SOLIDWORKS]] (1), feature (1)
 > **CLI Commands:** make (8), snap (3)
 > **UI Navigation:** click on (5), go to (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -9046,7 +9047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), for, (1), this, (1), for. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (3)
 > **Env Vars:** start (1), end (1)
@@ -9147,8 +9148,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** make (4), find (1), go build (1)
-> **Code Keywords:** switch (2), let (1), for, (1), delete (1)
 > **UI Navigation:** click on (2), dropdown (1)
 > **Analogies:** kind of like (1), just like (1), similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -9288,8 +9289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), next (1), feature (1), [[Routing]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (4)
 > **UI Navigation:** click on (1), go to (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -9474,7 +9475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), for. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5)
 > **Analogies:** similar to (3), it's like (1), kind of like (1)
 > **Env Vars:** cnc (2)
@@ -9611,7 +9612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), else. (1), this. (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), power (1), product (1)
 > **CLI Commands:** make (4), snap (1)
 > **UI Navigation:** click on (3)
 > **Prerequisites:** set up (2)
@@ -9782,8 +9783,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), next (1)
 > **CLI Commands:** make (9), snap (6)
-> **Code Keywords:** let (4), this. (1), case, (1)
 > **UI Navigation:** click on (4)
 > **Analogies:** kind of like (2), similar to (2)
 > **Definitions:** is a  (2)
@@ -9909,7 +9910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (1)
+> **Frameworks & Libraries:** hit (1), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (2), is a  (1)
@@ -10075,7 +10076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (2), case, (2), else. (2), default. (1)
+> **Frameworks & Libraries:** feature (5), [[SOLIDWORKS]] (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
@@ -10217,7 +10218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **Analogies:** for instance (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -10371,7 +10372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), delete (2)
+> **Frameworks & Libraries:** feature (3), hit (1), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1), go back to (1)
@@ -10540,7 +10541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (3), this. (1), case, (1)
+> **Frameworks & Libraries:** feature (4)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** template (1)
@@ -10699,7 +10700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), continue (1), case, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** feature (4), [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** click on (4), in the toolbar (1)
 > **Env Vars:** solidworks (1)
@@ -10827,7 +10828,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), delete (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -10983,7 +10983,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2), coming up (1)
 > **Exercise Files:** template (3)
@@ -11111,9 +11110,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), [[AutoCAD]] (1), hit (1)
 > **UI Navigation:** click on (5), dropdown (1), go to (1)
 > **CLI Commands:** make (3), snap (1)
-> **Code Keywords:** let (2), this, (1), import . (1)
 > **Versions:** 8.16 (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is called (1)
@@ -11206,7 +11205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (1)
+> **Frameworks & Libraries:** data (4), [[SOLIDWORKS]] (2), [[LinkedIn]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (2), snap (1)
 > **Env Vars:** stl (2)
@@ -11384,8 +11383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), [[Vertex]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (12)
-> **Code Keywords:** let (4), continue (1), this, (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** o63 (1)
@@ -11566,7 +11565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (2), this. (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), next (3), [[Representational State Transfer (REST)|Rest]] (2), feature (1)
 > **UI Navigation:** click on (4), right-click (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** dxf (1)
@@ -11762,9 +11761,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (12), next (8), [[Simulation]] (6), express (3), [[Mesh]] (2)
 > **Env Vars:** stl (2), step (2), iges (1), pdf (1), dfm (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (3)
 > **Analogies:** similar to (2)
 > **Code Identifiers:** edrawing (1)
 > **UI Navigation:** click on (1)
@@ -11774,7 +11773,7 @@ created: 2026-04-29
 
 ### 9. Hole Wizard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with the Hole Wizard
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/getting-started-with-the-hole-wizard?u=76281980)
@@ -11881,7 +11880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), let (2), this, (1), this. (1), delete (1)
+> **Frameworks & Libraries:** feature (2), next (1), hit (1), data (1)
 > **UI Navigation:** click on (3), select the (1)
 > **CLI Commands:** make (2), snap (1)
 > **Env Vars:** ansi (2)
@@ -12023,7 +12022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (3), this. (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), hit (1)
 > **UI Navigation:** go to (3), click on (2), select the (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -12166,7 +12165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), delete (3), switch (2), case, (1), class, (1)
+> **Frameworks & Libraries:** feature (5), hit (3)
 > **CLI Commands:** make (9), snap (7)
 > **UI Navigation:** click on (4), select the (1)
 > **Versions:** 0.75 (1)
@@ -12276,7 +12275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (1), type, (1), this, (1), switch (1)
+> **Frameworks & Libraries:** next (3), hit (3), feature (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (3)
 > **Env Vars:** ansi (1)
@@ -12439,7 +12438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), class, (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), next (1), data (1), database (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (2)
@@ -12450,7 +12449,7 @@ created: 2026-04-29
 
 ### 10. Blocks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using sketch blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/using-sketch-blocks?u=76281980)
@@ -12621,8 +12620,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), [[AutoCAD]] (2), data (1), hit (1)
 > **Env Vars:** solidworks (4), dwg (3), vga (3), dxf (2), sldblk (1)
-> **Code Keywords:** let (8), import, (1), this. (1)
 > **UI Navigation:** click on (7), go to (1)
 > **CLI Commands:** make (3), find (2)
 > **Exercise Files:** exercise files (1)
@@ -12793,7 +12792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (2), switch (2), let (2), else. (1), override (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), next (1)
 > **UI Navigation:** click on (8), go to (1)
 > **CLI Commands:** make (4), snap (1)
 > **Versions:** 10.2 (2), 1.75 (1), 1.00 (1), 1.25 (1)
@@ -12913,8 +12912,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sketching]] (1), [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (11)
-> **Code Keywords:** this, (1), let (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** just like (1)
 > **Prerequisites:** make sure you have (1)
@@ -12923,7 +12922,7 @@ created: 2026-04-29
 
 ### 11. Building Assemblies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting an assembly
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/starting-an-assembly?u=76281980)
@@ -13012,11 +13011,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[SOLIDWORKS]] (2)
 > **UI Navigation:** click on (7), drag and drop (4), go to (1)
 > **Env Vars:** solidworks (2)
 > **Versions:** 11.1.1 (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
@@ -13107,9 +13106,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (11), hit (2), next (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), this, (1), delete (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -13388,7 +13387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), delete (3), this. (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** parallel (6), next (4), power (1), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (7), checkbox (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for instance (3), it's like (1), just like (1)
@@ -13481,7 +13480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), else, (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), [[Windows]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (3)
 > **Versions:** 11.4 (2)
@@ -13638,7 +13637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (2), delete (1), this, (1)
+> **Frameworks & Libraries:** hit (2), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** solidworks (1)
@@ -13736,7 +13735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), delete (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), hit (2), feature (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (3)
 > **Versions:** 11.6.2 (1)
@@ -13879,8 +13878,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[Hardware]] (2), [[LinkedIn]] (1), hit (1)
 > **UI Navigation:** click on (4), drag and drop (3)
-> **Code Keywords:** let (2), for. (2), type, (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** solidworks (2), ansi (1)
 > **Prerequisites:** set up (2)
@@ -14057,9 +14056,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (8), [[Hardware]] (7), next (2), product (2), [[Search]] (1)
 > **UI Navigation:** click on (4), go to (2), drag and drop (2), double-click (1)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** for, (1), let (1), this, (1), this. (1), delete (1)
 > **Env Vars:** cad (4)
 > **Analogies:** for instance (2), kind of like (1), just like (1)
 > **Definitions:** is a  (2), is called (1)
@@ -14191,7 +14190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), else, (2), for, (1), delete (1), this, (1)
+> **Frameworks & Libraries:** hit (3), [[SOLIDWORKS]] (2), [[Search]] (1)
 > **UI Navigation:** click on (8)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** just like (1)
@@ -14200,7 +14199,7 @@ created: 2026-04-29
 
 ### 12. Advanced Mates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating component Mates
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/creating-component-mates?u=76281980)
@@ -14539,7 +14538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (5), case, (1)
+> **Frameworks & Libraries:** parallel (9), hit (2), next (1), [[SOLIDWORKS]] (1), feature (1)
 > **UI Navigation:** click on (11), select the (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (1), is called (1), defined as (1)
@@ -14800,8 +14799,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), parallel (1), feature (1)
 > **UI Navigation:** click on (9), go to (1)
-> **Code Keywords:** let (6)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -14929,7 +14928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[Vertex]] (1), feature (1)
 > **Versions:** 0.1 (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -15095,8 +15094,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Zoom]] (2), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (8)
-> **Code Keywords:** let (4)
 > **Speakers:** - [instructor] (1)
 
 #### Mating parts by aligning planes
@@ -15204,7 +15203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (4)
+> **Frameworks & Libraries:** hit (2), power (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** select the (1)
@@ -15323,7 +15322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), else, (1), continue (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **CLI Commands:** snap (7), make (2)
 > **UI Navigation:** click on (5)
 > **Env Vars:** solidworks (2)
@@ -15485,8 +15484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), feature (1), next (1), hit (1)
 > **CLI Commands:** snap (7), make (1)
-> **Code Keywords:** let (5), this, (1), switch (1), else, (1)
 > **UI Navigation:** click on (5), drag and drop (1), switch to (1)
 > **Env Vars:** solidworks (1)
 > **Exercise Files:** template (1)
@@ -15496,7 +15495,7 @@ created: 2026-04-29
 
 ### 13. In-Context Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linking sketches to other parts
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/linking-sketches-to-other-parts?u=76281980)
@@ -15605,7 +15604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (1), case, (1), switch (1)
+> **Frameworks & Libraries:** hit (2), [[SOLIDWORKS]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (3)
 > **Cross-References:** go back to (1)
@@ -15735,7 +15734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), this, (1)
+> **Frameworks & Libraries:** feature (6)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (3), checkbox (1)
 > **Analogies:** just like (1), it's like (1)
@@ -15843,7 +15842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), else. (1)
+> **Frameworks & Libraries:** hit (3), feature (2), next (1)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **CLI Commands:** make (1), snap (1)
 > **Definitions:** is a  (1)
@@ -15853,7 +15852,7 @@ created: 2026-04-29
 
 ### 14. Using Design Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using design tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/using-design-tables?u=76281980)
@@ -16018,7 +16017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (1), super (1), default, (1), else, (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (12), [[Microsoft Excel|Excel]] (5), [[Microsoft Excel]] (2), feature (2), power (1)
 > **UI Navigation:** click on (10)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
@@ -16206,7 +16205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), continue (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (6), [[Microsoft Excel|Excel]] (4), power (2), hit (2), feature (1)
 > **CLI Commands:** make (4)
 > **Analogies:** it's like (1), for instance (1), just like (1), kind of like (1)
 > **UI Navigation:** click on (1), dropdown (1)
@@ -16335,7 +16334,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (3)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -16460,7 +16458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (3)
+> **Frameworks & Libraries:** feature (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for instance (1), just like (1)
@@ -16538,8 +16536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), feature (2), hit (1), next (1)
 > **UI Navigation:** click on (4), go to (1)
-> **Code Keywords:** delete (2), let (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -16547,7 +16545,7 @@ created: 2026-04-29
 
 ### 15. Part Drawings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with drawing templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/working-with-drawing-templates?u=76281980)
@@ -16952,9 +16950,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (5), [[LinkedIn]] (1), [[Zoom]] (1), [[Metadata]] (1)
 > **Exercise Files:** template (22), exercise files (4)
 > **CLI Commands:** make (15), find (5)
-> **Code Keywords:** let (9), new, (2), this. (2), switch (1), from. (1)
 > **UI Navigation:** click on (11), right-click (2), drag and drop (1), checkbox (1), double-click (1)
 > **Env Vars:** solidworks (5), pdm (2), cad (1), ansi (1), iso (1)
 > **Analogies:** picture (4), kind of like (1), for instance (1)
@@ -17164,8 +17162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), next (2), hit (1)
 > **Exercise Files:** template (19), exercise files (4)
-> **Code Keywords:** let (8), delete (2)
 > **CLI Commands:** make (9)
 > **UI Navigation:** click on (6)
 > **Env Vars:** dxf (2), dwg (1), ansi (1), iso (1)
@@ -17270,7 +17268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (2), case, (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** solidworks (1), ansi (1), iso (1)
 > **UI Navigation:** click on (2)
@@ -17432,9 +17430,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), hit (1), [[SOLIDWORKS]] (1), data (1)
 > **CLI Commands:** make (9)
 > **UI Navigation:** click on (5), right-click (2), drag and drop (1)
-> **Code Keywords:** let (5), else. (1)
 > **Exercise Files:** template (4)
 > **Analogies:** for instance (3), just like (1)
 > **Cross-References:** go back to (3)
@@ -17444,7 +17442,7 @@ created: 2026-04-29
 
 ### 16. Dimensioning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating general dimension notations
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/creating-general-dimension-notations?u=76281980)
@@ -17611,7 +17609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (4), continue (1), this. (1), switch (1)
+> **Frameworks & Libraries:** next (4), [[SOLIDWORKS]] (2), hit (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3), we call this (1)
 > **Versions:** 1.25 (1), 0.3 (1)
@@ -17727,8 +17725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (2), feature (1)
 > **UI Navigation:** click on (5), dropdown (1)
-> **Code Keywords:** let (3), from. (1), this. (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -17877,9 +17875,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), data (1), feature (1)
 > **Versions:** 0.3 (2), 0.531 (1), 0.875 (1), 0.4 (1), 0.00 (1)
 > **CLI Commands:** make (6), snap (1)
-> **Code Keywords:** switch (2), let (1), this, (1), else. (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (2)
@@ -18071,7 +18069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (5), try. (1), super (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[ChatGPT]] (2), hit (1), next (1), feature (1)
 > **UI Navigation:** click on (3), right-click (1)
 > **Env Vars:** solidworks (3)
 > **Analogies:** it's like (1), for instance (1)
@@ -18081,7 +18079,7 @@ created: 2026-04-29
 
 ### 17. Add General Annotations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding annotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-annotations?u=76281980)
@@ -18372,8 +18370,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), feature (4), hit (3), [[SOLIDWORKS]] (3), cloud (2)
 > **CLI Commands:** make (12), snap (1)
-> **Code Keywords:** let (4), delete (4), this. (2), else. (1), this, (1)
 > **UI Navigation:** click on (5)
 > **Analogies:** for instance (2), just like (2), kind of like (1)
 > **Env Vars:** astm (1), stm (1), bom (1)
@@ -18560,8 +18558,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), [[Zoom]] (2), hit (1), [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (8), find (1), snap (1)
-> **Code Keywords:** delete (5), let (3), this, (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -18727,7 +18725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (3)
+> **Frameworks & Libraries:** [[Metadata]] (5), [[LinkedIn]] (2), [[Search]] (1), data (1), hit (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** make (4)
 > **Exercise Files:** template (4)
@@ -18821,7 +18819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), [[Metadata]] (1), [[Engineering]] (1), next (1), data (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 > **Analogies:** for instance (2)
@@ -18941,9 +18939,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), [[Zoom]] (1), [[Hardware]] (1), next (1), data (1)
 > **UI Navigation:** click on (4), drag and drop (2)
 > **Analogies:** just like (1), for instance (1)
-> **Code Keywords:** super (1)
 > **Env Vars:** stm (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -19005,14 +19003,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), type, (1)
+> **Frameworks & Libraries:** feature (1)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 18. Assembly Drawings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding assemblies to drawings
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-assemblies-to-drawings?u=76281980)
@@ -19135,7 +19133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), else. (1)
+> **Frameworks & Libraries:** hit (5), [[SOLIDWORKS]] (1), next (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (7)
 > **Exercise Files:** template (3), exercise files (2)
 > **CLI Commands:** make (3)
@@ -19395,7 +19393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (5), delete (4), for, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (2), [[Hardware]] (2), [[Microsoft Word|Word]] (1), data (1)
 > **UI Navigation:** right-click (5), click on (3)
 > **Env Vars:** bom (5), csv (1), p10 (1)
 > **CLI Commands:** make (6)
@@ -19545,7 +19543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (2), this, (2), this. (1)
+> **Frameworks & Libraries:** next (3), data (1), [[Zoom]] (1), hit (1)
 > **CLI Commands:** make (6), find (1), snap (1)
 > **UI Navigation:** click on (6), go to (1)
 > **Cross-References:** in the next (1)
@@ -19781,8 +19779,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), feature (1), hit (1)
 > **UI Navigation:** click on (11), go to (2), dropdown (1), select the (1)
-> **Code Keywords:** let (2), continue (2), delete (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -19888,9 +19886,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), next (1)
 > **CLI Commands:** make (9)
 > **Env Vars:** pdm (3), pdf (3), ansi (1), iso (1)
-> **Code Keywords:** delete (1), this. (1), finally, (1), else. (1)
 > **UI Navigation:** go to (2), right-click (1), double-click (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -20026,8 +20024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (6), next (2)
 > **CLI Commands:** make (5), find (4)
-> **Code Keywords:** let (2), switch (2), case, (1), throw (1)
 > **Env Vars:** pdf (3)
 > **UI Navigation:** open the (2), click on (1)
 > **Definitions:** is a  (1)
@@ -20036,7 +20034,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/next-steps?u=76281980)
@@ -20119,10 +20117,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (9), [[Prototyping]] (2), next (2), [[Microsoft Products|Products]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Env Vars:** cnc (1), cam (1), cad (1)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [gabriel] (1)
 
 

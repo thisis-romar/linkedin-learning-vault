@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/market-research
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Market%20Research%20Foundations.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The power of market research
-  - Primary and secondary research
+  - [The power of market research](#the-power-of-market-research)
+  - [Primary and secondary research](#primary-and-secondary-research)
 - [**1. Qualitative Research**](#1-qualitative-research) (6 videos)
-  - Focus groups
-  - User interviews
-  - Image-based interviews
-  - Ethnography
-  - Diary studies
-  - Usability testing
+  - [Focus groups](#focus-groups)
+  - [User interviews](#user-interviews)
+  - [Image-based interviews](#image-based-interviews)
+  - [Ethnography](#ethnography)
+  - [Diary studies](#diary-studies)
+  - [Usability testing](#usability-testing)
 - [**2. Quantitative Research**](#2-quantitative-research) (3 videos)
-  - Surveys
-  - Data analytics
-  - Eye tracking and biometrics
+  - [Surveys](#surveys)
+  - [Data analytics](#data-analytics)
+  - [Eye tracking and biometrics](#eye-tracking-and-biometrics)
 - [**3. Research Design: Creating Your Marketing Research Plan**](#3-research-design-creating-your-marketing-research-plan) (4 videos)
-  - Articulating your research goals
-  - Qualitative vs. quantitative: When to use each research method
-  - Selling your company on research
-  - Recruiting: How to find the right participants
+  - [Articulating your research goals](#articulating-your-research-goals)
+  - [Qualitative vs. quantitative: When to use each research method](#qualitative-vs-quantitative-when-to-use-each-research-method)
+  - [Selling your company on research](#selling-your-company-on-research)
+  - [Recruiting: How to find the right participants](#recruiting-how-to-find-the-right-participants)
 - [**4. Communicating Your Research: Your Deliverables**](#4-communicating-your-research-your-deliverables) (3 videos)
-  - Presenting your research: A crash course in persuasive techniques
-  - Personas
-  - Journey mapping
+  - [Presenting your research: A crash course in persuasive techniques](#presenting-your-research-a-crash-course-in-persuasive-techniques)
+  - [Personas](#personas)
+  - [Journey mapping](#journey-mapping)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of market research
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/the-power-of-market-research?u=76281980)
@@ -101,6 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), product (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -145,6 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Market Research]] (3), business (2), product (1), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** getting started (1)
@@ -153,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Qualitative Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Focus groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980)
@@ -208,7 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** [[Market Research]] (3), next (2), product (2), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - last (1)
@@ -306,8 +308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), business (1), product (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (2), throw (1), finally, (1), this. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - the (1)
@@ -383,8 +385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), data (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), just like (1), picture (1)
-> **Code Keywords:** finally, (1), else. (1), case, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - as (1)
 
@@ -459,7 +461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try, (1), require (1), let (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** irs (2)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** d.c (1)
@@ -545,8 +547,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (2), product (2), data (2), [[Google]] (1), management (1)
 > **CLI Commands:** make (3), snap (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - what (1)
@@ -612,8 +614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Usability Testing]] (6), [[E-Commerce]] (1), [[Real-Time]] (1), product (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), return. (1), finally, (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
@@ -623,7 +625,7 @@ created: 2026-04-29
 
 ### 2. Quantitative Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Surveys
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/surveys-2?u=76281980)
@@ -716,7 +718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (4), web (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -791,8 +793,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (8), data (4), web (2), [[Search]] (2), [[Real-Time]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (1), for. (1), for, (1)
 > **Env Vars:** faq (1)
 > **Speakers:** - a (1)
 
@@ -841,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), traffic (1), product (1), [[Google]] (1), data (1)
 > **Env Vars:** gsr (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -851,7 +853,7 @@ created: 2026-04-29
 
 ### 3. Research Design: Creating Your Marketing Research Plan
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Articulating your research goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980)
@@ -924,8 +926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), product (3), [[Usability Testing]] (3), [[React.js|React]] (1), game (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** function (1), finally, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - last (1)
 
@@ -976,8 +978,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (2), data (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Analogies:** picture (1)
 > **Speakers:** - when (1)
 
@@ -1044,8 +1046,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** finally, (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -1129,8 +1131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (1), database (1), data (1), product (1)
 > **CLI Commands:** find (7), make (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Code Identifiers:** dscout (1)
 > **Env Vars:** diy (1)
 > **Definitions:** is a  (1)
@@ -1141,7 +1143,7 @@ created: 2026-04-29
 
 ### 4. Communicating Your Research: Your Deliverables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Presenting your research: A crash course in persuasive techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980)
@@ -1218,7 +1220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1)
+> **Frameworks & Libraries:** data (4), teams (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Storytelling]] (1), hit (1)
 > **CLI Commands:** cat (1), make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** picture (1)
@@ -1301,8 +1303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), product (1), feature (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **Code Identifiers:** ipad (1)
 > **URLs:** [firstresponders.gov](https://firstresponders.gov) (1)
 > **Env Vars:** emt (1)
@@ -1381,6 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1), business (1), [[Market Research]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -1390,7 +1393,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/next-steps?u=76281980)
@@ -1425,6 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (1), product (1), teams (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - now (1)

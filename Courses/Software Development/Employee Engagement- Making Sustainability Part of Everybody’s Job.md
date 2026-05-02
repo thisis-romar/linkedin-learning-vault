@@ -30,7 +30,7 @@ tags:
   - skill/corporate-sustainability
   - skill/job-description-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Employee%20Engagement-%20Making%20Sustainability%20Part%20of%20Everybody%E2%80%99s%20Job.md)
@@ -49,31 +49,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Sustainability is part of everybody's job
-  - How I made sustainability part of my job
-  - Defining employee engagement for sustainability
+  - [Sustainability is part of everybody's job](#sustainability-is-part-of-everybodys-job)
+  - [How I made sustainability part of my job](#how-i-made-sustainability-part-of-my-job)
+  - [Defining employee engagement for sustainability](#defining-employee-engagement-for-sustainability)
 - [**1. The Importance of Employee Engagement for Sustainability (What and Why)**](#1-the-importance-of-employee-engagement-for-sustainability-what-and-why) (3 videos)
-  - Employee engagement for sustainability: Expanding the circle
-  - Employee engagement for sustainability: The talent shortage
-  - Employee engagement for sustainability: Avoiding risks
+  - [Employee engagement for sustainability: Expanding the circle](#employee-engagement-for-sustainability-expanding-the-circle)
+  - [Employee engagement for sustainability: The talent shortage](#employee-engagement-for-sustainability-the-talent-shortage)
+  - [Employee engagement for sustainability: Avoiding risks](#employee-engagement-for-sustainability-avoiding-risks)
 - [**2. The Virtuous Cycle Framework (How and Who)**](#2-the-virtuous-cycle-framework-how-and-who) (7 videos)
-  - The virtuous cycle of employee engagement
-  - How to educate employees to engage with sustainability
-  - How to inspire employees to engage with sustainability
-  - How to activate employees to engage with sustainability
-  - Challenge: Create a virtuous cycle in your organization
-  - Sustainability impact vs. influence
-  - Finding your sustainability sweet spot
+  - [The virtuous cycle of employee engagement](#the-virtuous-cycle-of-employee-engagement)
+  - [How to educate employees to engage with sustainability](#how-to-educate-employees-to-engage-with-sustainability)
+  - [How to inspire employees to engage with sustainability](#how-to-inspire-employees-to-engage-with-sustainability)
+  - [How to activate employees to engage with sustainability](#how-to-activate-employees-to-engage-with-sustainability)
+  - [Challenge: Create a virtuous cycle in your organization](#challenge-create-a-virtuous-cycle-in-your-organization)
+  - [Sustainability impact vs. influence](#sustainability-impact-vs-influence)
+  - [Finding your sustainability sweet spot](#finding-your-sustainability-sweet-spot)
 - [**3. Making Sustainability Part of Everybody's Job**](#3-making-sustainability-part-of-everybodys-job) (3 videos)
-  - Challenges and opportunities for employee engagement
-  - Challenge: Overcome barriers to engage employees in sustainability
-  - Solution: Overcome barriers to engage employees in sustainability
+  - [Challenges and opportunities for employee engagement](#challenges-and-opportunities-for-employee-engagement)
+  - [Challenge: Overcome barriers to engage employees in sustainability](#challenge-overcome-barriers-to-engage-employees-in-sustainability)
+  - [Solution: Overcome barriers to engage employees in sustainability](#solution-overcome-barriers-to-engage-employees-in-sustainability)
 - [**Conclusion**](#conclusion) (1 videos)
-  - To change everything, we need everyone
+  - [To change everything, we need everyone](#to-change-everything-we-need-everyone)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability is part of everybody's job
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980)
@@ -102,8 +102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft]] (3), [[Climate Change]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - believe (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -158,8 +158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (7), [[Microsoft]] (4), [[Climate Change]] (2), career (1), leadership (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - what (1)
 
 #### Defining employee engagement for sustainability
@@ -215,7 +215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Sustainability]] (8), [[Climate Change]] (3), [[Microsoft Word|Word]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** refers to (1)
 > **Analogies:** think of it like (1)
@@ -225,7 +225,7 @@ created: 2026-04-29
 
 ### 1. The Importance of Employee Engagement for Sustainability (What and Why)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Employee engagement for sustainability: Expanding the circle
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980)
@@ -294,8 +294,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (8), [[Climate Change]] (3), [[React.js|React]] (2), [[Microsoft Word|Word]] (1), [[Engineering]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - let (1)
 
@@ -346,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), continue (1), switch (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Climate Change]] (2), [[Environmental Sustainability]] (1), [[LinkedIn]] (1), management (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -408,14 +408,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), business (2), management (2), [[Climate Change]] (1), power (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - climate (1)
 
 
 ### 2. The Virtuous Cycle Framework (How and Who)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The virtuous cycle of employee engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980)
@@ -514,7 +514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), case, (1), this, (1), self (1)
+> **Frameworks & Libraries:** [[Sustainability]] (12), hr (2), [[Agile Development|Agile]] (2), [[Microsoft]] (2), business (2)
 > **Definitions:** is a  (3), refers to (2), known as (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cso (1), ceo (1)
@@ -624,9 +624,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (21), [[Climate Change]] (6), [[Microsoft]] (2), business (2), management (2)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** picture (1), for example (1)
-> **Code Keywords:** self (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - although (1)
 
@@ -685,8 +685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft]] (3), next (1), data (1), [[Climate Change]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** abstract (1), function (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - take (1)
 
@@ -765,7 +765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), try. (1)
+> **Frameworks & Libraries:** [[Sustainability]] (9), data (2), [[Forms]] (1), leadership (1), [[Microsoft]] (1)
 > **Env Vars:** aka (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -830,8 +830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (6), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -944,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), public (1), finally, (1)
+> **Frameworks & Libraries:** [[Sustainability]] (15), [[Climate Change]] (4), business (1), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - this (1)
@@ -990,15 +990,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (2), career (1), [[Climate Change]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** for, (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - which (1)
 
 
 ### 3. Making Sustainability Part of Everybody's Job
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges and opportunities for employee engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980)
@@ -1053,8 +1053,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (11), [[Ethics]] (1), job description (1), business (1), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - chances (1)
@@ -1082,6 +1082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (2), next (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise file (1)
@@ -1196,8 +1197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (19), business (3), hr (2), [[Google]] (1), [[Slack]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), this, (1), continue (1), else, (1), function (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **Tools:** slack (1)
@@ -1206,7 +1207,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### To change everything, we need everyone
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980)
@@ -1329,8 +1330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (18), next (2), [[Microsoft]] (2), career (1), power (1)
 > **CLI Commands:** make (7), find (3)
-> **Code Keywords:** let (1), try. (1), new, (1), case, (1), finally, (1)
 > **Cross-References:** we talked about (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - we (1)

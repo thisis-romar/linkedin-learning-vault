@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/usability-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Usability%20Testing.md)
@@ -48,24 +48,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Usability Testing**](#usability-testing) (2 videos)
-  - All about usability testing
-  - Recap of usability testing
+  - [All about usability testing](#all-about-usability-testing)
+  - [Recap of usability testing](#recap-of-usability-testing)
 - [**1. Which Type of Test?**](#1-which-type-of-test) (3 videos)
-  - Usability test locations
-  - Moderated vs. unmoderated usability tests
-  - Using usability tests to explore
+  - [Usability test locations](#usability-test-locations)
+  - [Moderated vs. unmoderated usability tests](#moderated-vs-unmoderated-usability-tests)
+  - [Using usability tests to explore](#using-usability-tests-to-explore)
 - [**2. Running the Tests**](#2-running-the-tests) (3 videos)
-  - Participant recruiting considerations
-  - Usability test logistics and preparation
-  - Tips for moderating effective usability sessions
+  - [Participant recruiting considerations](#participant-recruiting-considerations)
+  - [Usability test logistics and preparation](#usability-test-logistics-and-preparation)
+  - [Tips for moderating effective usability sessions](#tips-for-moderating-effective-usability-sessions)
 - [**3. Analyzing the Test**](#3-analyzing-the-test) (1 videos)
-  - Identifying and sharing true insights
+  - [Identifying and sharing true insights](#identifying-and-sharing-true-insights)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Practice makes perfect
+  - [Practice makes perfect](#practice-makes-perfect)
 
 ### Usability Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### All about usability testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/all-about-usability-testing?u=76281980)
@@ -88,6 +88,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Usability Testing]] (4), ux (1), data (1)
 > **Speakers:** - usability (1)
 
 #### Recap of usability testing
@@ -109,13 +110,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (3), ux (2), product (1)
 > **Speakers:** - a (1)
 
 
 ### 1. Which Type of Test?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Usability test locations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980)
@@ -204,7 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), require (1)
+> **Frameworks & Libraries:** next (3), traffic (2), product (2), [[Microsoft Office|Office]] (1), ux (1)
 > **Prerequisites:** set up (2), before we start (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
@@ -284,8 +285,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), functional (1), product (1), ux (1), parallel (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** super (2), require (1), let (1)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
@@ -336,7 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), include. (1), new. (1)
+> **Frameworks & Libraries:** product (3), [[Usability Testing]] (2), [[E-Commerce]] (1), [[Search]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
@@ -346,7 +347,7 @@ created: 2026-04-29
 
 ### 2. Running the Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Participant recruiting considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980)
@@ -431,8 +432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Usability Testing]] (1), [[E-Commerce]] (1), next (1), data (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** public (1), let (1), include. (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - many (1)
@@ -486,6 +487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Speakers:** - while (1)
@@ -581,8 +583,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), next (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), super (1), continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** remember to (1)
@@ -591,7 +593,7 @@ created: 2026-04-29
 
 ### 3. Analyzing the Test
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying and sharing true insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/identifying-and-sharing-true-insights?u=76281980)
@@ -656,7 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), this, (1), while, (1), case, (1)
+> **Frameworks & Libraries:** next (3), data (2), application (1), product (1), teams (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (2)
 > **Best Practices:** you should always (1)
@@ -665,7 +667,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice makes perfect
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/practice-makes-perfect?u=76281980)
@@ -690,6 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Usability Testing]] (1)
 > **Speakers:** - thank (1)
 
 

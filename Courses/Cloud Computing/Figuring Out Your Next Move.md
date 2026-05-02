@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Figuring%20Out%20Your%20Next%20Move.md)
@@ -50,35 +50,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. What's Next in Your Career**](#1-whats-next-in-your-career) (2 videos)
-  - The career pivot methodology
-  - Pivoting for impact within your current role
+  - [The career pivot methodology](#the-career-pivot-methodology)
+  - [Pivoting for impact within your current role](#pivoting-for-impact-within-your-current-role)
 - [**2. Plant**](#2-plant) (4 videos)
-  - Reverse engineer past career pivots
-  - Inventory your strengths: What's working best?
-  - Craft the vision: What does success look like one year from now?
-  - Identify your pivot brackets: Knowns and unknowns
+  - [Reverse engineer past career pivots](#reverse-engineer-past-career-pivots)
+  - [Inventory your strengths: What's working best?](#inventory-your-strengths-whats-working-best)
+  - [Craft the vision: What does success look like one year from now?](#craft-the-vision-what-does-success-look-like-one-year-from-now)
+  - [Identify your pivot brackets: Knowns and unknowns](#identify-your-pivot-brackets-knowns-and-unknowns)
 - [**3. Scan**](#3-scan) (4 videos)
-  - Scan your network for connection opportunities
-  - Create a skill-building game plan
-  - Create accountability with friend mentors
-  - Make yourself discoverable: Find problems you can help solve
+  - [Scan your network for connection opportunities](#scan-your-network-for-connection-opportunities)
+  - [Create a skill-building game plan](#create-a-skill-building-game-plan)
+  - [Create accountability with friend mentors](#create-accountability-with-friend-mentors)
+  - [Make yourself discoverable: Find problems you can help solve](#make-yourself-discoverable-find-problems-you-can-help-solve)
 - [**4. Pilot**](#4-pilot) (4 videos)
-  - Take small steps to experiment in your career
-  - Aim for the three Es: What makes a strong pilot?
-  - Build momentum from small experiments
-  - Cycle through the pivot process
+  - [Take small steps to experiment in your career](#take-small-steps-to-experiment-in-your-career)
+  - [Aim for the three Es: What makes a strong pilot?](#aim-for-the-three-es-what-makes-a-strong-pilot)
+  - [Build momentum from small experiments](#build-momentum-from-small-experiments)
+  - [Cycle through the pivot process](#cycle-through-the-pivot-process)
 - [**5. Lead**](#5-lead) (3 videos)
-  - Apply pivot as coaching or conversation framework
-  - Career coaching dos and don'ts
-  - Care: Listen deeply
+  - [Apply pivot as coaching or conversation framework](#apply-pivot-as-coaching-or-conversation-framework)
+  - [Career coaching dos and don'ts](#career-coaching-dos-and-donts)
+  - [Care: Listen deeply](#care-listen-deeply)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/welcome-18780141?u=76281980)
@@ -107,14 +107,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), career (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - i (1)
 
 
 ### 1. What's Next in Your Career
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The career pivot methodology
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980)
@@ -207,7 +207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), require (1), else, (1)
+> **Frameworks & Libraries:** career (5), next (4), [[Google]] (4), product (3), [[Career Development]] (3)
 > **Env Vars:** ucla (1)
 > **Speakers:** - when (1)
 
@@ -274,8 +274,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), next (2), [[Google]] (2), business (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1)
 > **Env Vars:** ceo (1)
 > **Warnings:** pitfall (1)
 > **Speakers:** - contrary (1)
@@ -283,7 +283,7 @@ created: 2026-04-29
 
 ### 2. Plant
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reverse engineer past career pivots
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/reverse-engineer-past-career-pivots?u=76281980)
@@ -350,9 +350,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), career (3), strengths (2), business (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), imagine (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - pivots (1)
 
@@ -411,8 +411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (5), next (4)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - when (1)
 
@@ -473,8 +473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (2), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
 
@@ -541,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), finally, (1)
+> **Frameworks & Libraries:** next (4), strengths (2), career (1), leadership (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** such as (1)
 > **Speakers:** - before (1)
@@ -549,7 +549,7 @@ created: 2026-04-29
 
 ### 3. Scan
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scan your network for connection opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/scan-your-network-for-connection-opportunities?u=76281980)
@@ -604,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (2), let (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), business (1), career (1), strengths (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -662,6 +662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (3), [[Agile Development|Agile]] (1), next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -721,9 +722,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), hit (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise file (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** set up (1)
@@ -802,7 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), public (1), private (1), self (1)
+> **Frameworks & Libraries:** career (2), [[Zoom]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** we discussed (1)
@@ -814,7 +815,7 @@ created: 2026-04-29
 
 ### 4. Pilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take small steps to experiment in your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980)
@@ -887,9 +888,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), career (2), data (2), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** download the (1), exercise file (1)
-> **Code Keywords:** throw (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - by (1)
 
@@ -970,6 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), next (3), strengths (2)
 > **CLI Commands:** find (2)
 > **Analogies:** just like (1), think of it like (1)
 > **Prerequisites:** set up (2)
@@ -1043,6 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (11), next (2), [[Search]] (2), strengths (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - piloting (1)
@@ -1106,9 +1109,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), career (2), teams (1), strengths (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), imagine (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** in other words (1)
 > **Warnings:** note that (1)
 > **Speakers:** - you (1)
@@ -1116,7 +1119,7 @@ created: 2026-04-29
 
 ### 5. Lead
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply pivot as coaching or conversation framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980)
@@ -1199,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1), self (1), require (1)
+> **Frameworks & Libraries:** career (11), strengths (4), hit (1), [[Google]] (1), [[Troubleshooting]] (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** picture (1)
 > **Speakers:** - the (1)
@@ -1287,6 +1290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (6), next (5), strengths (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1351,7 +1355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - coaching (1)
@@ -1359,7 +1363,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/next-steps-18777324?u=76281980)
@@ -1396,6 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), [[Agile Development|Agile]] (1), business (1), next (1), strengths (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - hitting (1)

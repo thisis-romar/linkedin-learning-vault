@@ -42,7 +42,7 @@ tags:
   - skill/php
   - skill/code-refactoring
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Refactoring%20with%20GitHub%20Copilot.md)
@@ -61,39 +61,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Refactoring with the GitHub Copilot AI
-  - Prerequisites
-  - How to use Codespaces
+  - [Refactoring with the GitHub Copilot AI](#refactoring-with-the-github-copilot-ai)
+  - [Prerequisites](#prerequisites)
+  - [How to use Codespaces](#how-to-use-codespaces)
 - [**1. GitHub Copilot and Refactoring Basics**](#1-github-copilot-and-refactoring-basics) (6 videos)
-  - What is GitHub Copilot?
-  - Chatting with Copilot
-  - Refactoring explained
-  - Code smells
-  - Refactoring strategies
-  - Refactoring with Copilot
+  - [What is GitHub Copilot?](#what-is-github-copilot)
+  - [Chatting with Copilot](#chatting-with-copilot)
+  - [Refactoring explained](#refactoring-explained)
+  - [Code smells](#code-smells)
+  - [Refactoring strategies](#refactoring-strategies)
+  - [Refactoring with Copilot](#refactoring-with-copilot)
 - [**2. Refactoring Techniques with AI**](#2-refactoring-techniques-with-ai) (5 videos)
-  - Simplifying functionality
-  - Enhancing naming and readability
-  - Removing dead code
-  - Optimizing conditionals and loops
-  - Refactoring data structures
+  - [Simplifying functionality](#simplifying-functionality)
+  - [Enhancing naming and readability](#enhancing-naming-and-readability)
+  - [Removing dead code](#removing-dead-code)
+  - [Optimizing conditionals and loops](#optimizing-conditionals-and-loops)
+  - [Refactoring data structures](#refactoring-data-structures)
 - [**3. Advanced Refactoring for Long-Lived Code Bases**](#3-advanced-refactoring-for-long-lived-code-bases) (4 videos)
-  - Dealing with legacy code
-  - Refactoring for performance
-  - Considerations refactoring large code bases
-  - Refactoring and automated testing
+  - [Dealing with legacy code](#dealing-with-legacy-code)
+  - [Refactoring for performance](#refactoring-for-performance)
+  - [Considerations refactoring large code bases](#considerations-refactoring-large-code-bases)
+  - [Refactoring and automated testing](#refactoring-and-automated-testing)
 - [**4. Refactoring in the Real World**](#4-refactoring-in-the-real-world) (5 videos)
-  - How to convince your team to refactor
-  - Pay down technical debt
-  - Keep devs happy
-  - Lower TCO on the project
-  - The impact of ai on refactoring
+  - [How to convince your team to refactor](#how-to-convince-your-team-to-refactor)
+  - [Pay down technical debt](#pay-down-technical-debt)
+  - [Keep devs happy](#keep-devs-happy)
+  - [Lower TCO on the project](#lower-tco-on-the-project)
+  - [The impact of ai on refactoring](#the-impact-of-ai-on-refactoring)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Refactoring with the GitHub Copilot AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-github-copilot-ai?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (1)
 > **Tools:** github (1)
 
 #### Prerequisites
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[PHP]] (1), [[JavaScript]] (1), [[LinkedIn]] (1), [[Programming]] (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
@@ -164,6 +165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (4), [[GitHub]] (1), game (1)
 > **Code Identifiers:** chapter_video_b (1)
 > **Tools:** github (1)
 > **UI Navigation:** click on (1)
@@ -171,7 +173,7 @@ created: 2026-04-29
 
 ### 1. GitHub Copilot and Refactoring Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980)
@@ -234,10 +236,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), ai (4), [[GitHub]] (4), [[GitHub Copilot]] (2), [[Codespaces]] (1)
 > **Tools:** github (6), command line (1), vs code (1)
 > **Env Vars:** ide (4), dto (1), json (1), cli (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** interface (1), function (1)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** find (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -331,8 +333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[PHP]] (6), feature (1), prompt (1), [[Search]] (1)
 > **CLI Commands:** php (6), git (1), python (1), ruby (1)
-> **Code Keywords:** function (3), pass (1), for. (1), interface (1), this, (1)
 > **Env Vars:** php (6), ide (1), cobol (1)
 > **Versions:** php 8 (3), 8.3 (1)
 > **Definitions:** is a  (1)
@@ -435,7 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), type, (2), this, (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), product (4), [[E-Commerce]] (1), prompt (1), data (1)
 > **Code Identifiers:** apply_discount (3), get_discount_for_product_type (2), display_discount_percent_for_product (1), get_discount_by_product_type (1), display_discount (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** json (1)
@@ -516,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), require (2), pass (1), public (1), for. (1)
+> **Frameworks & Libraries:** next (1), business (1), [[PHP]] (1), feature (1)
 > **Analogies:** imagine (3)
 > **CLI Commands:** php (1)
 > **Code Identifiers:** createuser (1)
@@ -604,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), new. (1), class. (1), finally, (1)
+> **Frameworks & Libraries:** next (4), data (3), [[Microsoft Copilot|Copilot]] (1), [[PHP]] (1), business (1)
 > **CLI Commands:** make (2), php (1), find (1)
 > **Env Vars:** php (1)
 > **Versions:** 0.1 (1)
@@ -695,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), case, (2), super (1), delete (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** createuser (2), processorder (1), validateorder (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -703,7 +705,7 @@ created: 2026-04-29
 
 ### 2. Refactoring Techniques with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simplifying functionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980)
@@ -828,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), private (2), this. (2), function (2), public (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[PHP]] (2), business (1), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** getauthordetails (3), displayauthordetails (2), texturizeauthor (2), formatted_author (2), authordisplay (1)
 > **CLI Commands:** php (2), make (1)
 > **Definitions:** is a  (3)
@@ -898,7 +900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2), class. (1), this, (1), class, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (3), [[Representational State Transfer (REST)|Rest]] (1), [[Codespaces]] (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** getauthordetails (1)
 > **Best Practices:** make sure to (1)
@@ -969,7 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), static (1), this, (1), override (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (1), business (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
 > **Versions:** 0.1 (1)
@@ -1066,7 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), type. (2), let (2), type, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), data (1)
 > **Env Vars:** vip (2), csv (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** isholiday (1)
@@ -1177,7 +1179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), this. (1), this, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), data (6), product (5), [[JSON]] (4), [[Electronics]] (1)
 > **Env Vars:** json (4)
 > **Warnings:** note that (2), be careful (1)
 > **CLI Commands:** make (1)
@@ -1186,7 +1188,7 @@ created: 2026-04-29
 
 ### 3. Advanced Refactoring for Long-Lived Code Bases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dealing with legacy code
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980)
@@ -1245,7 +1247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (1), await (1), class. (1), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[JavaScript]] (2), teams (1), [[Dependency Management]] (1), [[JSON]] (1)
 > **Prerequisites:** install (2)
 > **File Paths:** package.json (1)
 > **CLI Commands:** make (1)
@@ -1311,7 +1313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), match. (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), application (3), [[Web Development]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** findduplicates (1)
 > **Prerequisites:** you'll need (1)
@@ -1389,7 +1391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class, (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[WordPress]] (5), [[Design Patterns]] (3), prompt (1), data (1)
 > **Env Vars:** dry (3), ide (1)
 > **Definitions:** is a  (3), stands for (1)
 > **CLI Commands:** unzip (1)
@@ -1483,7 +1485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), public (3), pass (2), continue (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), ai (1)
 > **Code Identifiers:** asserttrue (1), alphabetized_by_name (1), testadd (1), testsub (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** install (1), set up (1)
@@ -1492,7 +1494,7 @@ created: 2026-04-29
 
 ### 4. Refactoring in the Real World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to convince your team to refactor
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980)
@@ -1543,7 +1545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), ci (1), cd (1), [[Test Automation]] (1)
 > **CLI Commands:** cd (1), make (1)
 > **Definitions:** is a  (1)
 
@@ -1592,6 +1594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), teams (2), [[Microsoft Word|Word]] (1), product (1), next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** php (1), make (1)
 > **Env Vars:** tdd (1), php (1)
@@ -1670,8 +1673,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (4), [[Laravel]] (2), [[E-Commerce]] (2), api (1), data (1)
 > **Env Vars:** cli (4), api (1)
-> **Code Keywords:** static (2), let (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** generate_averages (1)
 > **Analogies:** imagine (1)
@@ -1733,7 +1736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), implements (1)
+> **Frameworks & Libraries:** data (2), database (1), [[Microsoft Copilot|Copilot]] (1), management (1), [[PHP]] (1)
 > **Env Vars:** cpu (3), php (1)
 > **CLI Commands:** make (1), php (1)
 > **Definitions:** is a  (1)
@@ -1785,7 +1788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (3), [[Microsoft Copilot|Copilot]] (2), [[Code Review]] (1), [[GitHub]] (1)
 > **Env Vars:** dry (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -1794,7 +1797,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980)
@@ -1815,9 +1818,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), ai (2), [[PHP]] (2), [[Test-Driven Development]] (1), [[LinkedIn]] (1)
 > **Env Vars:** php (2), ide (1)
 > **CLI Commands:** php (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** install (1)
 
 

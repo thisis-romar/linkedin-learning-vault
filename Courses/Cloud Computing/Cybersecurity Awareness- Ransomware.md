@@ -33,7 +33,7 @@ tags:
   - skill/security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Ransomware.md)
@@ -52,25 +52,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Ransomware: The new cyber extortion
+  - [Ransomware: The new cyber extortion](#ransomware-the-new-cyber-extortion)
 - [**1. Understanding Ransomware**](#1-understanding-ransomware) (4 videos)
-  - Ransomware 101
-  - Elements of ransomware attacks
-  - Why cybercriminals prefer ransomware
-  - The value of data
+  - [Ransomware 101](#ransomware-101)
+  - [Elements of ransomware attacks](#elements-of-ransomware-attacks)
+  - [Why cybercriminals prefer ransomware](#why-cybercriminals-prefer-ransomware)
+  - [The value of data](#the-value-of-data)
 - [**2. Impact of Ransomware**](#2-impact-of-ransomware) (2 videos)
-  - Notable ransomware attacks
-  - The evolution of ransomware attacks
+  - [Notable ransomware attacks](#notable-ransomware-attacks)
+  - [The evolution of ransomware attacks](#the-evolution-of-ransomware-attacks)
 - [**3. Preventing Ransomware Attacks**](#3-preventing-ransomware-attacks) (3 videos)
-  - Unpacking ransomware attacks
-  - Recovering from ransomware attacks
-  - Preventing ransomware attacks
+  - [Unpacking ransomware attacks](#unpacking-ransomware-attacks)
+  - [Recovering from ransomware attacks](#recovering-from-ransomware-attacks)
+  - [Preventing ransomware attacks](#preventing-ransomware-attacks)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Improving your security hygiene
+  - [Improving your security hygiene](#improving-your-security-hygiene)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ransomware: The new cyber extortion
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-the-new-cyber-extortion?u=76281980)
@@ -91,13 +91,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (1), teams (1), [[Cybersecurity]] (1), career (1)
 > **Speakers:** - ransomware (1)
 
 
 ### 1. Understanding Ransomware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ransomware 101
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980)
@@ -146,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), data (1), [[Microsoft Office|Office]] (1), [[Google]] (1), [[Cryptocurrency]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** new. (1), require (1)
 > **Env Vars:** fbi (1), btce (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
@@ -210,6 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (2), data (2), [[Engineering]] (1), [[Security]] (1), teams (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -262,7 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** data (4), business (2), [[Cryptocurrency]] (1), next (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
@@ -318,8 +319,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (2), next (2), [[Financial Data]] (1), [[Security]] (1)
 > **Env Vars:** pii (3)
-> **Code Keywords:** let (2)
 > **Cross-References:** earlier in (1), next chapter (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - ransomware (1)
@@ -327,7 +328,7 @@ created: 2026-04-29
 
 ### 2. Impact of Ransomware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Notable ransomware attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/notable-ransomware-attacks?u=76281980)
@@ -386,10 +387,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (2), [[Algorithms]] (1), management (1), [[Security]] (1)
 > **Env Vars:** cna (3), jbs (3)
 > **Versions:** 2.04 (1), 2.03 (1)
 > **Definitions:** known as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - by (1)
 
 #### The evolution of ransomware attacks
@@ -439,7 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Phishing]] (1), [[Cybersecurity]] (1), teams (1), [[Algorithms]] (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - ransomware (1)
@@ -447,7 +448,7 @@ created: 2026-04-29
 
 ### 3. Preventing Ransomware Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unpacking ransomware attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/unpacking-ransomware-attacks?u=76281980)
@@ -510,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1)
+> **Frameworks & Libraries:** data (10), next (3), [[Engineering]] (2), [[Cybersecurity]] (1), [[Search]] (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -571,7 +572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), finally, (1)
+> **Frameworks & Libraries:** data (5), business (3), teams (2), next (1), [[Regulatory Compliance]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - recovering (1)
 
@@ -630,13 +631,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), data (6), [[Cybersecurity]] (4), teams (2), [[Multi-factor Authentication]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - among (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improving your security hygiene
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980)
@@ -661,6 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Phishing]] (1), [[Cybersecurity]] (1), [[LinkedIn]] (1), business (1)
 > **Speakers:** - are (1)
 
 

@@ -26,7 +26,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Keep%20Your%20Team%20on%20the%20Bleeding%20Edge%20of%20AI%20Innovation.md)
@@ -45,28 +45,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Staying on the edge of AI
+  - [Staying on the edge of AI](#staying-on-the-edge-of-ai)
 - [**1. Keeping Your Team on the Bleeding Edge of AI Innovation**](#1-keeping-your-team-on-the-bleeding-edge-of-ai-innovation) (2 videos)
-  - Introduction to AI innovation
-  - Navigating generative AI
+  - [Introduction to AI innovation](#introduction-to-ai-innovation)
+  - [Navigating generative AI](#navigating-generative-ai)
 - [**2. Building Ethics into Your AI Innovation**](#2-building-ethics-into-your-ai-innovation) (3 videos)
-  - Ethical considerations in AI
-  - Short-term strategies for ethics
-  - Long-term strategies for ethics
+  - [Ethical considerations in AI](#ethical-considerations-in-ai)
+  - [Short-term strategies for ethics](#short-term-strategies-for-ethics)
+  - [Long-term strategies for ethics](#long-term-strategies-for-ethics)
 - [**3. Building Your Team, Strategy, and Resources**](#3-building-your-team-strategy-and-resources) (7 videos)
-  - Building effective AI teams
-  - AI leadership and strategy
-  - Case study
-  - Upskilling your workforce
-  - Leveraging external resources
-  - Overcoming AI implementation challenges
-  - Future-proofing your AI strategy
+  - [Building effective AI teams](#building-effective-ai-teams)
+  - [AI leadership and strategy](#ai-leadership-and-strategy)
+  - [Case study](#case-study)
+  - [Upskilling your workforce](#upskilling-your-workforce)
+  - [Leveraging external resources](#leveraging-external-resources)
+  - [Overcoming AI implementation challenges](#overcoming-ai-implementation-challenges)
+  - [Future-proofing your AI strategy](#future-proofing-your-ai-strategy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with AI in your organization
+  - [Continuing on with AI in your organization](#continuing-on-with-ai-in-your-organization)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Staying on the edge of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/staying-on-the-edge-of-ai?u=76281980)
@@ -89,13 +89,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6), business (2), [[ChatGPT]] (1), application (1), [[Microsoft]] (1)
 > **Prerequisites:** you need to have (1)
 
 
 ### 1. Keeping Your Team on the Bleeding Edge of AI Innovation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/introduction-to-ai-innovation?u=76281980)
@@ -146,6 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), teams (1), business (1), [[Microsoft Products|Products]] (1), data (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 
@@ -216,7 +217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Generative AI]] (10), ai (6), data (2), business (2), [[Deep Learning]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** you need to have (1)
@@ -224,7 +225,7 @@ created: 2026-04-29
 
 ### 2. Building Ethics into Your AI Innovation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical considerations in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/ethical-considerations-in-ai?u=76281980)
@@ -285,8 +286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (21), data (9), next (2), [[Generative AI]] (1), [[Responsible AI]] (1)
 > **Analogies:** such as (3), imagine (1), for instance (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
@@ -340,7 +341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** ai (13), data (10), [[Ethics]] (3), [[Privacy]] (3), next (1)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
@@ -395,14 +396,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (13), data (8), [[Privacy]] (7), [[Ethics]] (2), [[Stark (Accessibility Software)|Stark]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
 
 
 ### 3. Building Your Team, Strategy, and Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building effective AI teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/building-effective-ai-teams?u=76281980)
@@ -465,7 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), raise (1), finally, (1)
+> **Frameworks & Libraries:** ai (21), data (4), product (2), [[Analytics]] (1), business (1)
 > **Cross-References:** go back to (1), earlier in (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
@@ -515,7 +516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), yield (1)
+> **Frameworks & Libraries:** ai (28), leadership (4), [[MLOps]] (4), next (2), data (2)
 > **Env Vars:** dna (1)
 > **Definitions:** is a  (1)
 
@@ -562,8 +563,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (25), [[Microsoft]] (16), leadership (4), [[Generative AI]] (4), [[Microsoft Azure|Azure]] (3)
 > **Tools:** github (2)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 
 #### Upskilling your workforce
@@ -631,6 +632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (7), leadership (6), next (3), business (3)
 > **Cross-References:** we talked about (1), earlier in (1)
 
 #### Leveraging external resources
@@ -686,7 +688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (21), open-source (4), teams (3), cloud (1), [[Microsoft Azure]] (1)
 > **Analogies:** such as (1)
 
 #### Overcoming AI implementation challenges
@@ -738,7 +740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), continue (1)
+> **Frameworks & Libraries:** ai (23), data (7), business (3), cloud (2), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 
@@ -777,13 +779,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1)
+> **Frameworks & Libraries:** ai (9), data (3), [[Ethics]] (2), [[Privacy]] (2), next (1)
 > **Definitions:** is a  (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with AI in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/continuing-on-with-ai-in-your-organization?u=76281980)
@@ -826,6 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Microsoft Azure|Azure]] (4), [[Microsoft]] (2), product (2), [[LinkedIn]] (2)
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
 

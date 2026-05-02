@@ -30,7 +30,7 @@ tags:
   - skill/business-ethics
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20to%20the%20Rescue.md)
@@ -49,18 +49,18 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Responsible AI to the Rescue**](#1-responsible-ai-to-the-rescue) (8 videos)
-  - Introduction to AI
-  - What is AI?
-  - Potential of AI for business and society
-  - Responsible AI
-  - AI issues and failures
-  - Regulatory frameworks for AI
-  - The social license of AI
-  - How to develop responsible AI principles
+  - [Introduction to AI](#introduction-to-ai)
+  - [What is AI?](#what-is-ai)
+  - [Potential of AI for business and society](#potential-of-ai-for-business-and-society)
+  - [Responsible AI](#responsible-ai)
+  - [AI issues and failures](#ai-issues-and-failures)
+  - [Regulatory frameworks for AI](#regulatory-frameworks-for-ai)
+  - [The social license of AI](#the-social-license-of-ai)
+  - [How to develop responsible AI principles](#how-to-develop-responsible-ai-principles)
 
 ### 1. Responsible AI to the Rescue
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980)
@@ -107,10 +107,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Microsoft Products|Products]] (3), business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
 > **Speakers:** - [georgie] (2), - [steve] (2), - [announcer] (1)
 > **Env Vars:** bcg (2), gamma (1)
 > **Non-Speech:** (funky music) (2)
-> **Code Keywords:** self (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -164,6 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (4), next (3), [[Microsoft Word|Word]] (3), [[Algorithms]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [interviewer] (1)
@@ -213,10 +214,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), business (2), [[Algorithms]] (1), product (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [interviewer] (1), - [interviewee] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### Responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/responsible-ai?u=76281980)
@@ -235,6 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2)
 > **Speakers:** - [speaker (2)
 > **CLI Commands:** make (1)
 
@@ -403,7 +405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), private (1), type. (1)
+> **Frameworks & Libraries:** ai (10), data (6), [[Algorithms]] (2), [[Privacy]] (1)
 > **Speakers:** - yeah (2), - i (1), - how (1), - well (1), - you (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1), for example (1)
@@ -503,8 +505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Google]] (2), data (2), power (1), product (1)
 > **Speakers:** - [interviewer] (4), - [interviewee] (3)
-> **Code Keywords:** function (1), public (1), super (1), this, (1), this. (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -608,7 +610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if, (1), require (1), function (1)
+> **Frameworks & Libraries:** ai (4), [[Algorithms]] (3), [[Privacy]] (1), data (1)
 > **Speakers:** - [interviewer] (1), - [interviewee] (1)
 > **CLI Commands:** make (1)
 
@@ -679,8 +681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), ai (3), product (3), data (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (1), this. (1)
 > **Speakers:** - so (1), - yeah (1)
 > **Env Vars:** bcg (1)
 > **Cross-References:** we talked about (1)

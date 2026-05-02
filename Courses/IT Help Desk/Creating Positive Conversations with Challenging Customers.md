@@ -33,7 +33,7 @@ tags:
   - skill/challenging-environment
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Creating%20Positive%20Conversations%20with%20Challenging%20Customers.md)
@@ -52,26 +52,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why telling a customer what you can do is important
+  - [Why telling a customer what you can do is important](#why-telling-a-customer-what-you-can-do-is-important)
 - [**1. Working with Difficult Customers**](#1-working-with-difficult-customers) (3 videos)
-  - Be positive with customers, not provoking
-  - Pacing your customers
-  - Ask your customers "what else?"
+  - [Be positive with customers, not provoking](#be-positive-with-customers-not-provoking)
+  - [Pacing your customers](#pacing-your-customers)
+  - [Ask your customers "what else?"](#ask-your-customers-what-else)
 - [**2. Positive Positioning Skills**](#2-positive-positioning-skills) (4 videos)
-  - Use partnership language with customers
-  - When you can't give the customer what they want
-  - Positively prime customers
-  - Words and phrases to avoid and choosing better options
+  - [Use partnership language with customers](#use-partnership-language-with-customers)
+  - [When you can't give the customer what they want](#when-you-cant-give-the-customer-what-they-want)
+  - [Positively prime customers](#positively-prime-customers)
+  - [Words and phrases to avoid and choosing better options](#words-and-phrases-to-avoid-and-choosing-better-options)
 - [**3. Positive Positioning in Action**](#3-positive-positioning-in-action) (3 videos)
-  - Positioning controversial policies
-  - Issues with billing or customer rewards
-  - Politely distancing from hot topics
+  - [Positioning controversial policies](#positioning-controversial-policies)
+  - [Issues with billing or customer rewards](#issues-with-billing-or-customer-rewards)
+  - [Politely distancing from hot topics](#politely-distancing-from-hot-topics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Start, stop, continue exercise
+  - [Start, stop, continue exercise](#start-stop-continue-exercise)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why telling a customer what you can do is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
@@ -114,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Working with Difficult Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be positive with customers, not provoking
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/be-positive-with-customers-not-provoking?u=76281980)
@@ -174,7 +175,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Versions:** 2.19 (1), 72.88 (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### Pacing your customers
@@ -244,8 +244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - good (1)
 
@@ -322,7 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), finally, (1)
+> **Frameworks & Libraries:** next (1), business (1)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (1)
 > **Best Practices:** it's best to (1)
@@ -331,7 +331,7 @@ created: 2026-04-29
 
 ### 2. Positive Positioning Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use partnership language with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/use-partnership-language-with-customers?u=76281980)
@@ -398,7 +398,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - i (1)
 
 #### When you can't give the customer what they want
@@ -450,8 +449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
@@ -513,8 +512,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** abc (1)
 > **Analogies:** picture (1)
 > **Speakers:** - before (1)
@@ -592,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), try, (1), try. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -601,7 +600,7 @@ created: 2026-04-29
 
 ### 3. Positive Positioning in Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Positioning controversial policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positioning-controversial-policies?u=76281980)
@@ -660,7 +659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** next (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - sometimes (1)
 
@@ -741,8 +740,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), product (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - billing (1)
@@ -794,15 +793,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Customer Support]] (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - a (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start, stop, continue exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/start-stop-continue-exercise?u=76281980)
@@ -837,7 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), finally, (1)
+> **Frameworks & Libraries:** feature (1), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)

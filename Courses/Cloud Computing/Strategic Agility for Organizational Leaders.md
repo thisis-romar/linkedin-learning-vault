@@ -37,7 +37,7 @@ tags:
   - skill/strategy-execution
   - skill/lead-change
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Strategic%20Agility%20for%20Organizational%20Leaders.md)
@@ -56,34 +56,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Strategic agility and the pace of change
+  - [Strategic agility and the pace of change](#strategic-agility-and-the-pace-of-change)
 - [**1. Leading with Strategic Agility**](#1-leading-with-strategic-agility) (4 videos)
-  - Strategic agility is critical to leadership today
-  - From change management to transformation
-  - Strategic agility for the modern organization
-  - Strategic agility: Mindset, skillset, toolset
+  - [Strategic agility is critical to leadership today](#strategic-agility-is-critical-to-leadership-today)
+  - [From change management to transformation](#from-change-management-to-transformation)
+  - [Strategic agility for the modern organization](#strategic-agility-for-the-modern-organization)
+  - [Strategic agility: Mindset, skillset, toolset](#strategic-agility-mindset-skillset-toolset)
 - [**2. Strategic Agiity Mindset**](#2-strategic-agiity-mindset) (3 videos)
-  - Strategic mindset powered by AI
-  - Mindset change powered by AI
-  - Taking intelligent risks
+  - [Strategic mindset powered by AI](#strategic-mindset-powered-by-ai)
+  - [Mindset change powered by AI](#mindset-change-powered-by-ai)
+  - [Taking intelligent risks](#taking-intelligent-risks)
 - [**3. Strategic Agility Skillset**](#3-strategic-agility-skillset) (3 videos)
-  - Strategic skills
-  - Strategic skill development with AI
-  - Build agile teams that thrive in uncertainty
+  - [Strategic skills](#strategic-skills)
+  - [Strategic skill development with AI](#strategic-skill-development-with-ai)
+  - [Build agile teams that thrive in uncertainty](#build-agile-teams-that-thrive-in-uncertainty)
 - [**4. Strategic Agility Toolset**](#4-strategic-agility-toolset) (4 videos)
-  - Practicing futures thinking
-  - Moonshot thinking and prototyping
-  - AI-powered practices to fuel strategic agility
-  - Executing AI-powered strategy
+  - [Practicing futures thinking](#practicing-futures-thinking)
+  - [Moonshot thinking and prototyping](#moonshot-thinking-and-prototyping)
+  - [AI-powered practices to fuel strategic agility](#ai-powered-practices-to-fuel-strategic-agility)
+  - [Executing AI-powered strategy](#executing-ai-powered-strategy)
 - [**5. Continuous Agility**](#5-continuous-agility) (2 videos)
-  - Developing strategic foresight
-  - Being continuously agile
+  - [Developing strategic foresight](#developing-strategic-foresight)
+  - [Being continuously agile](#being-continuously-agile)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Activating strategic agility
+  - [Activating strategic agility](#activating-strategic-agility)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic agility and the pace of change
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-and-the-pace-of-change?u=76281980)
@@ -104,13 +104,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), power (1)
 > **Speakers:** - guiding (1)
 
 
 ### 1. Leading with Strategic Agility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic agility is critical to leadership today
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980)
@@ -177,7 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), next (1), ai (1), [[Prototyping]] (1)
 > **Analogies:** such as (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - suppose (1)
@@ -279,8 +279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Agile Development|Agile]] (2), ai (1), data (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** ceo (1), ibm (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
@@ -367,6 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Agile Development|Agile]] (1), teams (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
@@ -432,14 +433,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), ai (2), management (1), [[Design Thinking]] (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - i (1)
 
 
 ### 2. Strategic Agiity Mindset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic mindset powered by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980)
@@ -504,8 +505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), prompt (2), data (1), [[Cybersecurity]] (1), business (1)
 > **Analogies:** imagine (4), think of it as (1)
-> **Code Keywords:** let (2), this, (2)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - in (1)
 
@@ -588,9 +589,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Decision-Making]] (1), database (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - one (1)
 
@@ -665,15 +666,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), management (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** public (2), let (2), continue (1)
 > **Analogies:** picture (2), for example (1), imagine (1), such as (1)
 > **Speakers:** - we (1)
 
 
 ### 3. Strategic Agility Skillset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980)
@@ -736,9 +737,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Accountability]] (2), next (1), [[Learning Agility]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** scale (2), pace (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - you (1)
@@ -812,9 +813,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), next (2), prompt (1), [[Accountability]] (1)
 > **Env Vars:** scale (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - how (1)
 
@@ -877,8 +878,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), next (2), [[Accountability]] (1), [[Agile Development|Agile]] (1), hr (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
@@ -886,7 +887,7 @@ created: 2026-04-29
 
 ### 4. Strategic Agility Toolset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practicing futures thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980)
@@ -949,8 +950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Prototyping]] (1), [[Engineering]] (1), [[Newsletters]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** self (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
@@ -1045,7 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1), else. (1), for. (1)
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Agile Development|Agile]] (2), next (2), power (2), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** open the (1)
@@ -1115,8 +1116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (6), [[Large Language Models (LLM)|Large language models]] (1), [[Generative AI Tools]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Warnings:** caution (2)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -1189,7 +1190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** ai (6), product (3), [[Prototyping]] (3), power (1), data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -1198,7 +1199,7 @@ created: 2026-04-29
 
 ### 5. Continuous Agility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing strategic foresight
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980)
@@ -1273,7 +1274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), power (1), management (1), teams (1)
 > **Definitions:** known as (1)
 > **Speakers:** - we (1)
 
@@ -1326,15 +1327,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), continue (1)
 > **Definitions:** means that (1)
 > **Speakers:** - everything (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Activating strategic agility
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/activating-strategic-agility?u=76281980)
@@ -1381,8 +1382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Agile Development|Agile]] (1), next (1), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1), finally, (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - because (1)

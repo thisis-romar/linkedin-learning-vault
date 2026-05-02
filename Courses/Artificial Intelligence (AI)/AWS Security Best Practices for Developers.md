@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/aws-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AWS%20Security%20Best%20Practices%20for%20Developers.md)
@@ -49,54 +49,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Securing your application
-  - What you should know
+  - [Securing your application](#securing-your-application)
+  - [What you should know](#what-you-should-know)
 - [**1. Identity and Access Management**](#1-identity-and-access-management) (6 videos)
-  - Important concepts
-  - Uses and access keys
-  - Roles and policies
-  - IAM key points
-  - Challenge: IAM roles and policies
-  - Solution: IAM roles and policies
+  - [Important concepts](#important-concepts)
+  - [Uses and access keys](#uses-and-access-keys)
+  - [Roles and policies](#roles-and-policies)
+  - [IAM key points](#iam-key-points)
+  - [Challenge: IAM roles and policies](#challenge-iam-roles-and-policies)
+  - [Solution: IAM roles and policies](#solution-iam-roles-and-policies)
 - [**2. Amazon Simple Storage Service (S3)**](#2-amazon-simple-storage-service-s3) (7 videos)
-  - S3 as a static website
-  - Bucket policies
-  - S3 bucket encryption
-  - S3 object versioning and MFA delete
-  - S3 key points
-  - Challenge: S3 presigned URL challenge
-  - Solution: S3 presigned URL challenge
+  - [S3 as a static website](#s3-as-a-static-website)
+  - [Bucket policies](#bucket-policies)
+  - [S3 bucket encryption](#s3-bucket-encryption)
+  - [S3 object versioning and MFA delete](#s3-object-versioning-and-mfa-delete)
+  - [S3 key points](#s3-key-points)
+  - [Challenge: S3 presigned URL challenge](#challenge-s3-presigned-url-challenge)
+  - [Solution: S3 presigned URL challenge](#solution-s3-presigned-url-challenge)
 - [**3. Key Management Service Encryption**](#3-key-management-service-encryption) (5 videos)
-  - Key Management Service (KMS) introduction
-  - Using AWS KMS
-  - KMS key points
-  - Challenge: Key Management Service
-  - Solution: Key Management Service
+  - [Key Management Service (KMS) introduction](#key-management-service-kms-introduction)
+  - [Using AWS KMS](#using-aws-kms)
+  - [KMS key points](#kms-key-points)
+  - [Challenge: Key Management Service](#challenge-key-management-service)
+  - [Solution: Key Management Service](#solution-key-management-service)
 - [**4. User Identities with Cognito and Web**](#4-user-identities-with-cognito-and-web) (6 videos)
-  - Cognito concepts
-  - Workflow
-  - Cognito demonstration
-  - Cognito key points
-  - Challenge: Cognito automated login
-  - Solution: Cognito automated login
+  - [Cognito concepts](#cognito-concepts)
+  - [Workflow](#workflow)
+  - [Cognito demonstration](#cognito-demonstration)
+  - [Cognito key points](#cognito-key-points)
+  - [Challenge: Cognito automated login](#challenge-cognito-automated-login)
+  - [Solution: Cognito automated login](#solution-cognito-automated-login)
 - [**5. Certificate Manager**](#5-certificate-manager) (3 videos)
-  - Creating and managing certificates
-  - Using certificates with AWS Resources
-  - AWS Certificates Manager and EC2 instances
+  - [Creating and managing certificates](#creating-and-managing-certificates)
+  - [Using certificates with AWS Resources](#using-certificates-with-aws-resources)
+  - [AWS Certificates Manager and EC2 instances](#aws-certificates-manager-and-ec2-instances)
 - [**6. Parameter Store and Secrets Manager**](#6-parameter-store-and-secrets-manager) (3 videos)
-  - Parameter Store for sensitive data
-  - Using Parameter Store from EC2
-  - Secrets Manager overview
+  - [Parameter Store for sensitive data](#parameter-store-for-sensitive-data)
+  - [Using Parameter Store from EC2](#using-parameter-store-from-ec2)
+  - [Secrets Manager overview](#secrets-manager-overview)
 - [**7. Security Alerts in AWS**](#7-security-alerts-in-aws) (3 videos)
-  - Root login alerts
-  - Detecting unauthorized instance stops
-  - Checking for unused credentials
+  - [Root login alerts](#root-login-alerts)
+  - [Detecting unauthorized instance stops](#detecting-unauthorized-instance-stops)
+  - [Checking for unused credentials](#checking-for-unused-credentials)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Get familiar with AWS tools
+  - [Get familiar with AWS tools](#get-familiar-with-aws-tools)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your application
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/securing-your-application?u=76281980)
@@ -119,9 +119,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), aws (3), cloud (2), data (2), management (2)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [carlos] (1)
 
 #### What you should know
@@ -139,9 +139,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), application (2), [[Amazon EC2|Ec2]] (1), [[Security]] (1), data (1)
 > **Env Vars:** aws (2), ec2 (1)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** require (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -149,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Identity and Access Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Important concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980)
@@ -212,9 +212,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), cloud (3), [[Amazon EC2|Ec2]] (3), application (3), management (1)
 > **Env Vars:** iam (8), aws (6), ec2 (3), json (1)
 > **CLI Commands:** aws (6)
-> **Code Keywords:** let (2), require (1), private (1), super (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (3)
 > **Cross-References:** later in (1), we mentioned (1)
@@ -305,12 +305,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), management (2), [[CLI]] (2), next (1), [[Windows]] (1)
 > **Env Vars:** aws (4), iam (3), cli (1)
 > **CLI Commands:** aws (6), make (1)
 > **Prerequisites:** configure (2), setup (2), set up (1), install (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Tools:** command line (3), aws console (1)
-> **Code Keywords:** let (3)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Cross-References:** go back to (1)
 
@@ -377,9 +377,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Amazon EC2|Ec2]] (3), management (1), [[Java]] (1), web (1)
 > **Env Vars:** aws (7), iam (4), ec2 (3)
 > **CLI Commands:** aws (7), ls (1)
-> **Code Keywords:** let (4), case, (3), case. (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Tools:** aws console (1), terminal (1)
 > **Definitions:** is a  (2)
@@ -415,10 +415,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), application (2), [[Multi-factor Authentication]] (1)
 > **Env Vars:** aws (5), iam (3), mfa (1)
 > **CLI Commands:** aws (5)
 > **Exercise Files:** source code (2)
-> **Code Keywords:** public (1)
 > **Speakers:** - [carlos] (1)
 
 #### Challenge: IAM roles and policies
@@ -442,7 +442,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this: (1)
 > **Env Vars:** iam (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -528,9 +527,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), aws (1), [[Active Directory]] (1)
 > **UI Navigation:** click on (13), go to (2), scroll down (1)
 > **Env Vars:** ec2 (5), vpc (5), iam (1), aws (1)
-> **Code Keywords:** let (6), require (1), import. (1)
 > **CLI Commands:** find (2), aws (1), make (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (1), similar to (1)
@@ -540,7 +539,7 @@ created: 2026-04-29
 
 ### 2. Amazon Simple Storage Service (S3)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### S3 as a static website
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980)
@@ -601,8 +600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), feature (2), [[Security]] (2), data (1), web (1)
 > **UI Navigation:** click on (5), go to (3)
-> **Code Keywords:** let (3), static (2)
 > **File Paths:** index.html (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dns (1)
@@ -671,7 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), static (3), case, (2), public (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JSON]] (2), web (1)
 > **Env Vars:** html (2), arn (2), json (1)
 > **UI Navigation:** go to (3), click on (1)
 > **File Paths:** bucket_policy.json (1), index.html (1)
@@ -721,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), static (1), require (1)
+> **Frameworks & Libraries:** data (1), web (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** aes (1)
 > **Cross-References:** go back to (1)
@@ -797,7 +796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (3), case. (2), override (1), case, (1)
+> **Frameworks & Libraries:** aws (4), next (3), [[Security]] (2), cloud (1), management (1)
 > **Env Vars:** aws (4), cli (1)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** go to (3), click on (1)
@@ -837,8 +836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Server-Sent Events|Sse]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** kms (5), sse (2), ssl (1), tls (1), https (1)
-> **Code Keywords:** let (1), case, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -867,9 +866,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), aws (1), [[CLI]] (1)
 > **Env Vars:** aws (1), cli (1), url (1)
 > **CLI Commands:** make (1), aws (1)
-> **Code Keywords:** public (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -926,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), else, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), aws (1)
 > **Env Vars:** url (5), jpeg (1)
 > **CLI Commands:** aws (1)
 > **Cross-References:** go back to (1)
@@ -936,7 +935,7 @@ created: 2026-04-29
 
 ### 3. Key Management Service Encryption
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key Management Service (KMS) introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/key-management-service-kms-introduction?u=76281980)
@@ -961,6 +960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), data (2), management (1), [[Security]] (1), application (1)
 > **Env Vars:** kms (5), aws (3), ebs (1)
 > **CLI Commands:** aws (3)
 > **Analogies:** such as (1)
@@ -1029,8 +1029,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (3), aws (2), feature (2), [[Security]] (1)
 > **Env Vars:** kms (5), iam (4), aws (2), rds (1), evs (1)
-> **Code Keywords:** delete (3), let (2), finally, (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** aws (2)
@@ -1062,9 +1062,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), api (1), aws (1), cloud (1)
 > **Env Vars:** kms (5), evs (1), rds (1), api (1), aws (1)
 > **CLI Commands:** make (1), aws (1)
-> **Code Keywords:** delete (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** good practice (1), best practice (1)
 > **Analogies:** just like (1)
@@ -1094,6 +1094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), aws (2), [[Security]] (1), [[CLI]] (1)
 > **Env Vars:** kms (3), aws (2), cli (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (1)
@@ -1167,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (3), delete (1), this. (1), pass (1)
+> **Frameworks & Libraries:** data (3), aws (2), management (1), prompt (1), [[CLI]] (1)
 > **Env Vars:** kms (2), aws (2), iam (1), arn (1), cli (1)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** aws (2), make (1)
@@ -1179,7 +1180,7 @@ created: 2026-04-29
 
 ### 4. User Identities with Cognito and Web
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cognito concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980)
@@ -1218,9 +1219,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), application (5), [[Active Directory]] (2), management (1), [[Google]] (1)
 > **Env Vars:** aws (6), saml (3)
 > **CLI Commands:** aws (6), find (1)
-> **Code Keywords:** require (1), let (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -1276,9 +1277,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), [[Active Directory]] (3), application (3), web (2), [[Google]] (1)
 > **Env Vars:** aws (10), saml (1), sts (1), ldap (1), iam (1)
 > **CLI Commands:** aws (10)
-> **Code Keywords:** case, (2), let (2), pass (1)
 > **Cross-References:** go back to (1), as you saw (1)
 > **Tools:** aws console (2)
 > **Analogies:** similar to (1), such as (1)
@@ -1486,7 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (1), pass (1), type, (1), delete (1)
+> **Frameworks & Libraries:** application (3), [[LinkedIn]] (1), aws (1), web (1), api (1)
 > **Env Vars:** url (11), aws (1), api (1), owa (1)
 > **UI Navigation:** click on (6), go to (5), scroll down (1)
 > **Cross-References:** go back to (4)
@@ -1520,9 +1521,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), [[Active Directory]] (1), [[Security]] (1), [[Multi-factor Authentication]] (1), database (1)
 > **Env Vars:** aws (4), saml (1), sts (1), sns (1)
 > **CLI Commands:** aws (4)
-> **Code Keywords:** let (1), lambda (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [carlos] (1)
 
@@ -1547,9 +1548,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), web application (1), feature (1), [[CLI]] (1)
 > **Env Vars:** aws (2), cli (1)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** interface (1), case, (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1641,7 +1642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), interface (1), require (1)
+> **Frameworks & Libraries:** [[CLI]] (3), application (2), aws (1), prompt (1), hit (1)
 > **Env Vars:** cli (3), aws (1), new_password_required (1)
 > **Tools:** command line (2), command prompt (1)
 > **CLI Commands:** make (1), aws (1)
@@ -1652,7 +1653,7 @@ created: 2026-04-29
 
 ### 5. Certificate Manager
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and managing certificates
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980)
@@ -1751,7 +1752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (3), case. (1), case, (1), for. (1)
+> **Frameworks & Libraries:** data (6), dns (4), next (2), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dns (4), cname (4), tls (2), aws (1)
 > **URLs:** [yourdomain.com](https://yourdomain.com) (3), [cjrivas.com](https://cjrivas.com) (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -1829,8 +1830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[LinkedIn]] (3), [[Security]] (2), web (2), [[Ubuntu]] (1)
 > **Env Vars:** ec2 (4), https (3), aws (1), http (1), cname (1)
-> **Code Keywords:** let (5), public (1), case, (1), pass (1), for, (1)
 > **CLI Commands:** find (2), apache (1), aws (1), make (1)
 > **URLs:** [cjrivas.com](https://cjrivas.com) (5)
 > **UI Navigation:** go to (3), scroll down (1), click on (1)
@@ -1879,8 +1880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), web (2), [[WordPress]] (2), [[Amazon EC2|Ec2]] (2), [[Linux]] (2)
 > **Env Vars:** aws (3), ssl (2), tls (2), acm (2), ec2 (2)
-> **Code Keywords:** let (6), private (1), this, (1)
 > **CLI Commands:** aws (3), apache (2), php (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (3)
@@ -1891,7 +1892,7 @@ created: 2026-04-29
 
 ### 6. Parameter Store and Secrets Manager
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Parameter Store for sensitive data
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/parameter-store-for-sensitive-data?u=76281980)
@@ -1958,7 +1959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** data (4), application (2), api (1), aws (1), database (1)
 > **Definitions:** is a  (1), is called (1), in other words (1), means that (1)
 > **Env Vars:** api (1), aws (1), kms (1)
 > **Analogies:** for example (2), such as (1)
@@ -2030,8 +2031,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), data (4), aws (2), application (1)
 > **Env Vars:** ec2 (5), iam (3), aws (2), ecs (1), kms (1)
-> **Code Keywords:** let (5), case, (2), lambda (1), this. (1)
 > **CLI Commands:** make (2), aws (2)
 > **Tools:** aws console (2)
 > **Analogies:** just like (1)
@@ -2068,9 +2069,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (1), [[Databases]] (1), feature (1), next (1), database (1)
 > **Env Vars:** aws (1), kms (1), rds (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2078,7 +2079,7 @@ created: 2026-04-29
 
 ### 7. Security Alerts in AWS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Root login alerts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/root-login-alerts?u=76281980)
@@ -2125,10 +2126,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[Security]] (1), management (1)
 > **Env Vars:** aws (3), sns (2)
 > **CLI Commands:** aws (3), make (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (3)
 > **Prerequisites:** before you begin (1), set up (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -2202,8 +2203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), aws (2), next (2), web (1), [[Security]] (1)
 > **Env Vars:** ami (5), ec2 (3), aws (2), xx1 (1)
-> **Code Keywords:** let (7), public (1)
 > **UI Navigation:** click on (3), go to (2), select the (2)
 > **CLI Commands:** aws (2), find (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2290,8 +2291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), next (2), feature (1), [[Network Security]] (1)
 > **CLI Commands:** aws (7), find (1)
-> **Code Keywords:** let (3), delete (2), this. (1), switch (1), default, (1)
 > **Env Vars:** aws (7)
 > **Prerequisites:** set up (3), setup (1)
 > **UI Navigation:** scroll down (1), select the (1), click on (1)
@@ -2302,7 +2303,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get familiar with AWS tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/get-familiar-with-aws-tools?u=76281980)
@@ -2341,12 +2342,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), [[Security]] (7), cloud (3), next (2), application (1)
 > **Env Vars:** aws (8), api (1)
 > **CLI Commands:** aws (8)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** recommended (1), best practice (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 

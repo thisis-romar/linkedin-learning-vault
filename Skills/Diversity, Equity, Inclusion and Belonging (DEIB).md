@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/diversity-equity-inclusion-and-belonging-deib
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Diversity%2C%20Equity%2C%20Inclusion%20and%20Belonging%20(DEIB).md)

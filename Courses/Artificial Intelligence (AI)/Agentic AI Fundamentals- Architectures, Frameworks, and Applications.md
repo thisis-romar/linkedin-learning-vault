@@ -33,7 +33,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Agentic%20AI%20Fundamentals-%20Architectures%2C%20Frameworks%2C%20and%20Applications.md)
@@ -52,42 +52,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Agentic AI: The future of smart AI is here!
+  - [Agentic AI: The future of smart AI is here!](#agentic-ai-the-future-of-smart-ai-is-here)
 - [**1. Definition and Importance of Agentic AI**](#1-definition-and-importance-of-agentic-ai) (3 videos)
-  - What is agentic AI?
-  - Applications and use cases of agentic AI
-  - Healthcare scenario
+  - [What is agentic AI?](#what-is-agentic-ai)
+  - [Applications and use cases of agentic AI](#applications-and-use-cases-of-agentic-ai)
+  - [Healthcare scenario](#healthcare-scenario)
 - [**2. Agentic Behavior and Adaptation**](#2-agentic-behavior-and-adaptation) (2 videos)
-  - How AI systems perceive their environment
-  - How AI agents make decisions
+  - [How AI systems perceive their environment](#how-ai-systems-perceive-their-environment)
+  - [How AI agents make decisions](#how-ai-agents-make-decisions)
 - [**3. Core Methodology and Tools in Agentic AI**](#3-core-methodology-and-tools-in-agentic-ai) (4 videos)
-  - Machine learning for agents
-  - Policy frameworks
-  - Utility-based frameworks
-  - Reinforcement learning and Q-learning
+  - [Machine learning for agents](#machine-learning-for-agents)
+  - [Policy frameworks](#policy-frameworks)
+  - [Utility-based frameworks](#utility-based-frameworks)
+  - [Reinforcement learning and Q-learning](#reinforcement-learning-and-q-learning)
 - [**4. Agent Architectures in Agentic AI**](#4-agent-architectures-in-agentic-ai) (2 videos)
-  - Agent architectures: major
-  - Agent architectures: minor
+  - [Agent architectures: major](#agent-architectures-major)
+  - [Agent architectures: minor](#agent-architectures-minor)
 - [**5. Advanced Communication Frameworks in Agentic AI**](#5-advanced-communication-frameworks-in-agentic-ai) (4 videos)
-  - Developing a cooperative multiagent system
-  - Implementing communication protocols for agents
-  - Game theory and strategic interaction
-  - Negotiation and conflict resolution
+  - [Developing a cooperative multiagent system](#developing-a-cooperative-multiagent-system)
+  - [Implementing communication protocols for agents](#implementing-communication-protocols-for-agents)
+  - [Game theory and strategic interaction](#game-theory-and-strategic-interaction)
+  - [Negotiation and conflict resolution](#negotiation-and-conflict-resolution)
 - [**6. Ethical and Societal Implications**](#6-ethical-and-societal-implications) (2 videos)
-  - Ethical frameworks and considerations in AI
-  - Societal impact of autonomous agents
+  - [Ethical frameworks and considerations in AI](#ethical-frameworks-and-considerations-in-ai)
+  - [Societal impact of autonomous agents](#societal-impact-of-autonomous-agents)
 - [**7. Security and Robustness**](#7-security-and-robustness) (2 videos)
-  - Security challenges
-  - Robustness and fault tolerance
+  - [Security challenges](#security-challenges)
+  - [Robustness and fault tolerance](#robustness-and-fault-tolerance)
 - [**8. Agentic AI in the Future**](#8-agentic-ai-in-the-future) (2 videos)
-  - The future role of agentic AI in industry 4.0 and beyond
-  - Integration with other technologies
+  - [The future role of agentic AI in industry 4.0 and beyond](#the-future-role-of-agentic-ai-in-industry-40-and-beyond)
+  - [Integration with other technologies](#integration-with-other-technologies)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agentic AI: The future of smart AI is here!
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** ai (7), cloud (1), [[Ethics]] (1), career (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
@@ -121,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Definition and Importance of Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is agentic AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980)
@@ -196,9 +196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (2), [[Security]] (1), product (1), next (1)
 > **Analogies:** for example (4), imagine (1), such as (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - agentic (1)
 
@@ -267,9 +267,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), business (5), data (4), teams (2), [[Software Development]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
 
@@ -330,8 +330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (2), [[Real-Time]] (2), management (2), [[Algorithms]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -339,7 +339,7 @@ created: 2026-04-29
 
 ### 2. Agentic Behavior and Adaptation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How AI systems perceive their environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980)
@@ -418,10 +418,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (7), application (1), [[Databases]] (1), database (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - you (1)
 
 #### How AI agents make decisions
@@ -491,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Security]] (2), business (1), next (1)
 > **Analogies:** such as (5), for instance (2)
-> **Code Keywords:** let (2), case, (2)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -501,7 +501,7 @@ created: 2026-04-29
 
 ### 3. Core Methodology and Tools in Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning for agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980)
@@ -558,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), case, (1), let (1)
+> **Frameworks & Libraries:** data (6), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), next (2), business (2)
 > **Analogies:** such as (1), kind of like (1), for example (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
@@ -618,10 +618,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Decision-Making]] (5), [[Security]] (1)
 > **Analogies:** for example (4), such as (3)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - ai (1)
 
 #### Utility-based frameworks
@@ -685,7 +685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), continue (1), let (1), this, (1)
+> **Frameworks & Libraries:** ai (11), [[Security]] (2)
 > **Analogies:** for example (2), such as (2), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
@@ -765,7 +765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), finally, (1), self (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), ai (4), [[Algorithms]] (2), [[Troubleshooting]] (1)
 > **Definitions:** is a  (3), known as (1), is an  (1)
 > **Analogies:** for instance (1), such as (1), for example (1)
 > **CLI Commands:** find (1)
@@ -774,7 +774,7 @@ created: 2026-04-29
 
 ### 4. Agent Architectures in Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agent architectures: major
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980)
@@ -859,8 +859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Security]] (3), next (1), web (1), [[Search]] (1)
 > **Analogies:** for example (7), such as (1)
-> **Code Keywords:** function (2), let (1), require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - like (1)
 
@@ -901,15 +901,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3)
 > **Cross-References:** in the last (3), we covered (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - in (1)
 
 
 ### 5. Advanced Communication Frameworks in Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing a cooperative multiagent system
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980)
@@ -972,10 +972,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Decision-Making]] (2), next (1), [[Security]] (1), business (1)
 > **Analogies:** for example (4), such as (1)
 > **Env Vars:** tcp (1), rfid (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - taking (1)
 
@@ -1044,10 +1044,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Security]] (4), ai (2), [[JSON]] (1), web (1)
 > **Env Vars:** json (1), xml (1), owl (1), ssl (1), tls (1)
 > **Analogies:** such as (3), just like (1), imagine (1)
 > **Definitions:** known as (1), in other words (1), is a  (1)
-> **Code Keywords:** protected (1)
 > **Speakers:** - implementing (1)
 
 #### Game theory and strategic interaction
@@ -1125,9 +1125,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), game (9), [[Decision-Making]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - what (1)
 
 #### Negotiation and conflict resolution
@@ -1193,16 +1193,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), data (1), application (1), next (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (2)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Speakers:** - negotiation (1)
 
 
 ### 6. Ethical and Societal Implications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical frameworks and considerations in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980)
@@ -1281,8 +1281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (9), [[Ethics]] (3), [[Accountability]] (3), [[Privacy]] (2)
 > **Definitions:** is a  (3), refers to (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
@@ -1337,7 +1337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), protected (1)
+> **Frameworks & Libraries:** ai (10), [[Ethics]] (1), [[Automation]] (1), management (1), leadership (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - along (1)
@@ -1345,7 +1345,7 @@ created: 2026-04-29
 
 ### 7. Security and Robustness
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980)
@@ -1412,8 +1412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Security]] (9), data (3), product (1), [[Decision-Making]] (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1), for. (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - deploying (1)
 
@@ -1512,7 +1512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), switch (2), self (1), finally, (1)
+> **Frameworks & Libraries:** ai (8), data (3), career (2), [[Decision-Making]] (2), power (2)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** switch to (2)
@@ -1522,7 +1522,7 @@ created: 2026-04-29
 
 ### 8. Agentic AI in the Future
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future role of agentic AI in industry 4.0 and beyond
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980)
@@ -1599,8 +1599,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Decision-Making]] (3), management (2), data (1), [[Real-Time]] (1)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** let (1), case. (1)
 > **CLI Commands:** make (1)
 > **Versions:** 4.0 (1)
 > **Definitions:** in other words (1)
@@ -1659,7 +1659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1), function (1), finally, (1)
+> **Frameworks & Libraries:** ai (13), data (5), [[Blockchain]] (4), cloud (3), [[5G]] (3)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (1), aws (1)
 > **Analogies:** for example (1), such as (1)
@@ -1670,7 +1670,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980)
@@ -1713,7 +1713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** ai (6), next (2), cloud (1), [[Security]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - now (1)
 

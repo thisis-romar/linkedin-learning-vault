@@ -32,7 +32,7 @@ tags:
   - skill/test-automation-tools
   - skill/automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Playwright.md)
@@ -51,40 +51,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Unlock the future of test automation with Playwright
-  - What is Playwright, and why choose it?
-  - Using the exercise files
+  - [Unlock the future of test automation with Playwright](#unlock-the-future-of-test-automation-with-playwright)
+  - [What is Playwright, and why choose it?](#what-is-playwright-and-why-choose-it)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Playwright Installation and Configuration**](#1-playwright-installation-and-configuration) (7 videos)
-  - Installing Playwright
-  - Updating the Playwright config
-  - Playwright config browsers and projects
-  - Exploring the test runner command line interface
-  - Overview of package.json
-  - Exploring the VS Code extension
-  - Exploring the Playwright UI Mode
+  - [Installing Playwright](#installing-playwright)
+  - [Updating the Playwright config](#updating-the-playwright-config)
+  - [Playwright config browsers and projects](#playwright-config-browsers-and-projects)
+  - [Exploring the test runner command line interface](#exploring-the-test-runner-command-line-interface)
+  - [Overview of package.json](#overview-of-packagejson)
+  - [Exploring the VS Code extension](#exploring-the-vs-code-extension)
+  - [Exploring the Playwright UI Mode](#exploring-the-playwright-ui-mode)
 - [**2. Creating Tests with Playwright**](#2-creating-tests-with-playwright) (11 videos)
-  - Overview of the website under test
-  - Generating tests with codegen
-  - Overview of locator strategies in Playwright
-  - Overview of assertions in Playwright
-  - Structuring Playwright tests
-  - Handling cookie authentication in Playwright
-  - Visual testing in Playwright
-  - API testing in Playwright
-  - Automating the right things with Playwright
-  - Challenge: Create three automated tests
-  - Solution: Create three automated tests
+  - [Overview of the website under test](#overview-of-the-website-under-test)
+  - [Generating tests with codegen](#generating-tests-with-codegen)
+  - [Overview of locator strategies in Playwright](#overview-of-locator-strategies-in-playwright)
+  - [Overview of assertions in Playwright](#overview-of-assertions-in-playwright)
+  - [Structuring Playwright tests](#structuring-playwright-tests)
+  - [Handling cookie authentication in Playwright](#handling-cookie-authentication-in-playwright)
+  - [Visual testing in Playwright](#visual-testing-in-playwright)
+  - [API testing in Playwright](#api-testing-in-playwright)
+  - [Automating the right things with Playwright](#automating-the-right-things-with-playwright)
+  - [Challenge: Create three automated tests](#challenge-create-three-automated-tests)
+  - [Solution: Create three automated tests](#solution-create-three-automated-tests)
 - [**3. Maintaining Playwright Tests**](#3-maintaining-playwright-tests) (4 videos)
-  - Introduction to maintaining tests with Playwright
-  - Playwright screenshots, videos, and reporters
-  - Playwright trace viewer
-  - Scaling Playwright tests
+  - [Introduction to maintaining tests with Playwright](#introduction-to-maintaining-tests-with-playwright)
+  - [Playwright screenshots, videos, and reporters](#playwright-screenshots-videos-and-reporters)
+  - [Playwright trace viewer](#playwright-trace-viewer)
+  - [Scaling Playwright tests](#scaling-playwright-tests)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock the future of test automation with Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/unlock-the-future-of-test-automation-with-playwright?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test Automation]] (2)
 > **URLs:** [playwrightsolutions.com](https://playwrightsolutions.com) (1)
 > **Speakers:** - [butch] (1)
 
@@ -197,8 +198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), api (2), [[Automation]] (2), [[JavaScript]] (2), [[Selenium]] (2)
 > **Tools:** vs code (2), firefox (1), safari (1), github (1)
-> **Code Keywords:** let (2), from. (1), super (1)
 > **Env Vars:** api (2), net (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** python (1), ruby (1)
@@ -227,11 +228,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), node (1), [[Git]] (1)
 > **Tools:** github (4), vs code (2)
 > **Env Vars:** readme (1), git (1), resources (1)
 > **CLI Commands:** node (1), git (1)
 > **File Paths:** resources.md (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -239,7 +240,7 @@ created: 2026-04-29
 
 ### 1. Playwright Installation and Configuration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980)
@@ -350,10 +351,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), node (6), next (2), [[GitHub]] (2), [[Linux]] (1)
 > **CLI Commands:** node (6), npx (2), npm (1), make (1), find (1)
 > **Tools:** vs code (6), terminal (2), github (2)
 > **Prerequisites:** install (10)
-> **Code Keywords:** this, (2), this. (2)
 > **UI Navigation:** open the (2), go to (1), select the (1)
 > **Versions:** version 18 (1), 18.2 (1), 3.6 (1)
 > **Definitions:** stands for (1)
@@ -504,7 +505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (3), default, (3), default. (2), override (2)
+> **Frameworks & Libraries:** ci (4), parallel (1), [[GitHub]] (1), [[HTML]] (1), hit (1)
 > **Code Identifiers:** defineconfig (3), baseurl (3), globaltimeout (2), fullyparallel (1), actiontimeout (1)
 > **Env Vars:** url (3), html (1), cli (1)
 > **File Paths:** process.env (2), playwright.config.ts (1)
@@ -652,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default, (2), override (1), this, (1), default. (1)
+> **Frameworks & Libraries:** data (1), next (1), [[JavaScript]] (1)
 > **Prerequisites:** setup (8), configure (1), set up (1)
 > **CLI Commands:** make (3), find (2), grep (1)
 > **Documentation:** spec (5), the docs (1)
@@ -800,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (4), this, (4), interface (2), override (1)
+> **Frameworks & Libraries:** hit (4), [[CLI]] (3), ci (1), cd (1), feature (1)
 > **CLI Commands:** npx (4), grep (4), make (3), cd (1)
 > **Tools:** firefox (4), terminal (3), command line (2), vs code (1)
 > **Env Vars:** cli (3)
@@ -918,8 +919,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (6), [[npm]] (6), node (1), [[CLI]] (1), [[Test Automation]] (1)
 > **CLI Commands:** npm (6), npx (5), node (1), grep (1)
-> **Code Keywords:** let (9), interface (1), for, (1), pass (1), this. (1)
 > **Env Vars:** base_url (3), npm (2), json (1), cli (1), npx (1)
 > **File Paths:** package.json (4), package-lock.json (1)
 > **Tools:** command line (3), terminal (1)
@@ -1114,7 +1115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), assert (4), let (3), this, (2), pass (2)
+> **Frameworks & Libraries:** [[Debugging]] (3), next (3), web (2), [[Microsoft]] (1)
 > **Documentation:** spec (4)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (3)
@@ -1226,7 +1227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (1), this, (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[Representational State Transfer (REST)|Rest]] (1), dom (1), web (1), [[Debugging]] (1)
 > **CLI Commands:** npm (1), npx (1), find (1)
 > **UI Navigation:** click on (2), in the sidebar (1)
 > **Env Vars:** mpm (1), npx (1)
@@ -1238,7 +1239,7 @@ created: 2026-04-29
 
 ### 2. Creating Tests with Playwright
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the website under test
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980)
@@ -1375,7 +1376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2), this, (2)
+> **Frameworks & Libraries:** api (3), data (2), [[GitHub]] (2), [[Software Testing]] (1), [[E-Commerce]] (1)
 > **Env Vars:** url (3), api (2), xhr (1)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (3)
 > **Tools:** github (2)
@@ -1515,7 +1516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), assert (3)
+> **Frameworks & Libraries:** [[Windows]] (2), next (2), hit (1), data (1)
 > **CLI Commands:** make (3), find (2)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (2)
 > **Env Vars:** mpx (1), url (1)
@@ -1627,8 +1628,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (9), css (4), data (3), [[JavaScript]] (2), next (2)
 > **Env Vars:** dom (9), css (4), html (1), xpath (1), json (1)
-> **Code Keywords:** let (2), await (1), this. (1), default. (1), pass (1)
 > **Code Identifiers:** getbyrole (1), getbylabel (1), testidattribute (1), getbytestid (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Best Practices:** recommended (3), remember to (1)
@@ -1853,7 +1854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), await (10), pass (6), async (2), this, (2)
+> **Frameworks & Libraries:** data (4), dom (2), [[Search]] (2), [[Software Testing]] (2), next (2)
 > **Code Identifiers:** productgrid (7), tohaveurl (1), getbytestid (1), tohavetext (1), tohavetitle (1)
 > **CLI Commands:** make (10), find (2)
 > **Env Vars:** url (4), dom (2)
@@ -2065,7 +2066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), this, (5), pass (4), continue (2), assert (1)
+> **Frameworks & Libraries:** [[Search]] (10), hit (5), product (3), next (2), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** picture (2), for example (1), think of it like (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -2357,7 +2358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (12), await (8), async (3), this. (3)
+> **Frameworks & Libraries:** [[JSON]] (2), data (1), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[CLI]] (1)
 > **Prerequisites:** setup (16)
 > **Code Identifiers:** getbytestid (5), customer01authfile (2), storagestate (2), beforeeach (2), tobebisible (1)
 > **CLI Commands:** make (2), find (1), npx (1)
@@ -2559,7 +2560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), pass (8), await (3), async (2), this. (2)
+> **Frameworks & Libraries:** ci (2), web (1), application (1), [[Software Testing]] (1), next (1)
 > **CLI Commands:** npx (3), find (3), docker (1)
 > **Code Identifiers:** tohavescreenshot (3), getbytitle (1), waitforloadstate (1)
 > **Documentation:** spec (5)
@@ -2879,7 +2880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), await (4), pass (4), this, (3), assert (3)
+> **Frameworks & Libraries:** api (17), data (8), [[JSON]] (5), [[Microsoft Products|Products]] (4), [[Fetch]] (2)
 > **Env Vars:** api (12), url (8), post (6), xhr (3), json (3)
 > **CLI Commands:** make (16)
 > **Code Identifiers:** apiurl (3), tobe (2), access_token (2), expires_in (1), token_type (1)
@@ -2934,8 +2935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), database (4), strengths (2), [[Security]] (2), [[JavaScript]] (2)
 > **Env Vars:** api (7), csfr (2), dom (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2968,6 +2969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), product (3), [[Test Automation]] (1), [[Microsoft Products|Products]] (1), database (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
@@ -3182,7 +3184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (4), this. (3), default, (2), assert (1)
+> **Frameworks & Libraries:** api (12), next (6), data (3), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (12), css (1), url (1)
 > **Code Identifiers:** productbody (2), productid (2), storagestate (1), beforeeach (1), selectoption (1)
 > **CLI Commands:** make (6), find (1)
@@ -3194,7 +3196,7 @@ created: 2026-04-29
 
 ### 3. Maintaining Playwright Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to maintaining tests with Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/introduction-to-maintaining-tests-with-playwright?u=76281980)
@@ -3257,7 +3259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1), assert (1)
+> **Frameworks & Libraries:** [[Automation]] (3), web (1), data (1), database (1), feature (1)
 > **Speakers:** - [instructor] (1)
 
 #### Playwright screenshots, videos, and reporters
@@ -3371,7 +3373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), default, (2), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (3), ci (3), [[npm]] (2), [[Debugging]] (2), parallel (2)
 > **Env Vars:** html (3), json (2), hdp (1)
 > **CLI Commands:** npm (2), find (2), npx (1)
 > **File Paths:** playwright.config (1)
@@ -3443,7 +3445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[HTML]] (3), dom (2), next (1), [[JavaScript]] (1), api (1)
 > **Env Vars:** html (3), dom (2), api (1), http (1), url (1)
 > **UI Navigation:** click on (2), scroll down (1), open the (1)
 > **Cross-References:** previous video (1), we discussed (1)
@@ -3651,7 +3653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), abstract (3), function (3), class. (2), pass (2)
+> **Frameworks & Libraries:** api (5), [[Test Automation]] (3), [[npm]] (2), [[Software Testing]] (1), node (1)
 > **CLI Commands:** find (3), npm (2), npx (1), node (1), go run (1)
 > **Env Vars:** api (5), url (4)
 > **UI Navigation:** go to (8)
@@ -3663,7 +3665,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980)
@@ -3708,7 +3710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), feature (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** discord (1), github (1)
 > **URLs:** [playwrightsolutions.com](https://playwrightsolutions.com) (1)

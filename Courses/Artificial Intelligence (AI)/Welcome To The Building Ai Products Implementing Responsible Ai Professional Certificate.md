@@ -29,7 +29,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Welcome%20To%20The%20Building%20Ai%20Products%20Implementing%20Responsible%20Ai%20Professional%20Certificate.md)
@@ -48,11 +48,11 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building AI products: Implementing responsible AI
+  - [Building AI products: Implementing responsible AI](#building-ai-products-implementing-responsible-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building AI products: Implementing responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980)
@@ -75,7 +75,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1)
+> **Frameworks & Libraries:** ai (4), [[Responsible AI]] (4), [[Microsoft Products|Products]] (2), data (2), [[Product Development]] (1)
 > **Speakers:** - welcome (1)
 
 

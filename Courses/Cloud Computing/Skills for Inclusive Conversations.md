@@ -31,7 +31,7 @@ tags:
   - skill/interpersonal-communication
   - skill/diversity-and-inclusion
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Skills%20for%20Inclusive%20Conversations.md)
@@ -50,27 +50,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - The need for inclusive conversations
-  - Diversity topics can be polarizing
-  - Thriving with inclusive dialogue
+  - [The need for inclusive conversations](#the-need-for-inclusive-conversations)
+  - [Diversity topics can be polarizing](#diversity-topics-can-be-polarizing)
+  - [Thriving with inclusive dialogue](#thriving-with-inclusive-dialogue)
 - [**1. Inclusive Conversations Skills**](#1-inclusive-conversations-skills) (7 videos)
-  - Six steps to inclusive conversations
-  - Know yourself and others
-  - Inclusive conversations readiness
-  - Prepare for the conversation
-  - Getting to shared meaning
-  - Honing skills for shared meaning
-  - Strive for reciprocal empathy
+  - [Six steps to inclusive conversations](#six-steps-to-inclusive-conversations)
+  - [Know yourself and others](#know-yourself-and-others)
+  - [Inclusive conversations readiness](#inclusive-conversations-readiness)
+  - [Prepare for the conversation](#prepare-for-the-conversation)
+  - [Getting to shared meaning](#getting-to-shared-meaning)
+  - [Honing skills for shared meaning](#honing-skills-for-shared-meaning)
+  - [Strive for reciprocal empathy](#strive-for-reciprocal-empathy)
 - [**2. Inclusive Conversations in Practice**](#2-inclusive-conversations-in-practice) (3 videos)
-  - Talking about race
-  - Talking about religion
-  - Talking about gender
+  - [Talking about race](#talking-about-race)
+  - [Talking about religion](#talking-about-religion)
+  - [Talking about gender](#talking-about-gender)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Inclusivity pledge
+  - [Inclusivity pledge](#inclusivity-pledge)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for inclusive conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980)
@@ -97,7 +97,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - many (1)
 
@@ -150,9 +150,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
-> **Code Keywords:** break. (1)
 > **Env Vars:** lgbtq (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
@@ -231,14 +231,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** business (2), [[Real-Time]] (1)
 > **Env Vars:** lgbtq (1)
 > **Speakers:** - we (1)
 
 
 ### 1. Inclusive Conversations Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Six steps to inclusive conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/six-steps-to-inclusive-conversations?u=76281980)
@@ -313,8 +313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** self (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - it (1)
 
@@ -390,7 +390,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** self (2)
 > **Env Vars:** lgbtq (2)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
@@ -481,7 +480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), yield (1)
+> **Frameworks & Libraries:** teams (1), next (1), [[Organizational Culture]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
@@ -669,8 +668,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Speakers:** - i (2), - you (1), - miriam (1), - well (1), - those (1)
-> **Code Keywords:** let (1), this. (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Warnings:** pitfall (1)
@@ -768,8 +767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - i (5), - sure (2), - why (1), - thank (1), - it (1)
-> **Code Keywords:** self (1), let (1), continue (1)
 > **Definitions:** is an  (1), is a  (1)
 
 #### Strive for reciprocal empathy
@@ -853,14 +852,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Building Trust]] (1)
 > **Speakers:** - yeah (3), - yes (3), - i (2), - our (1), - how (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 
 
 ### 2. Inclusive Conversations in Practice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Talking about race
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980)
@@ -954,7 +953,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - yeah (2), - conversations (1), - thank (1), - hmm (1), - i (1)
-> **Code Keywords:** self (4), let (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 
@@ -1043,9 +1041,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2), business (2)
 > **Speakers:** - okay (3), - religion (1), - i (1), - what (1), - well (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1)
 
@@ -1144,14 +1142,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - okay (3), - so (2), - when (1), - interesting (1), - hmm (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusivity pledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusivity-pledge-14485160?u=76281980)
@@ -1228,7 +1226,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), self (1), finally, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - if (1)

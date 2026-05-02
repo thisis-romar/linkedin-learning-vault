@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20OpenAI%20Services%20and%20Generative%20AI%20Models.md)
@@ -53,41 +53,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Unlocking your AI potential with Azure OpenAI Service
-  - What you should know
+  - [Unlocking your AI potential with Azure OpenAI Service](#unlocking-your-ai-potential-with-azure-openai-service)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Azure OpenAI Service**](#1-introduction-to-azure-openai-service) (7 videos)
-  - What is Azure OpenAI Service?
-  - Azure OpenAI vs. OpenAI Service
-  - Deploying Azure OpenAI Service
-  - Azure AI Foundry: Quick tour
-  - Azure AI Foundry: Model catalog
-  - Azure AI Foundry: Playground
-  - What kind of models are available?
+  - [What is Azure OpenAI Service?](#what-is-azure-openai-service)
+  - [Azure OpenAI vs. OpenAI Service](#azure-openai-vs-openai-service)
+  - [Deploying Azure OpenAI Service](#deploying-azure-openai-service)
+  - [Azure AI Foundry: Quick tour](#azure-ai-foundry-quick-tour)
+  - [Azure AI Foundry: Model catalog](#azure-ai-foundry-model-catalog)
+  - [Azure AI Foundry: Playground](#azure-ai-foundry-playground)
+  - [What kind of models are available?](#what-kind-of-models-are-available)
 - [**2. Chat Completion Models**](#2-chat-completion-models) (4 videos)
-  - How do GPT models work?
-  - What can GPT models do?
-  - Which model should I choose?
-  - The important role of prompt engineering
+  - [How do GPT models work?](#how-do-gpt-models-work)
+  - [What can GPT models do?](#what-can-gpt-models-do)
+  - [Which model should I choose?](#which-model-should-i-choose)
+  - [The important role of prompt engineering](#the-important-role-of-prompt-engineering)
 - [**3. Embedding Models**](#3-embedding-models) (3 videos)
-  - What are embeddings?
-  - Model capabilities
-  - How to use embeddings for a semantic search
+  - [What are embeddings?](#what-are-embeddings)
+  - [Model capabilities](#model-capabilities)
+  - [How to use embeddings for a semantic search](#how-to-use-embeddings-for-a-semantic-search)
 - [**4. Image Generation Models**](#4-image-generation-models) (3 videos)
-  - What are DALL·E models?
-  - How image generation models work
-  - Examples of use cases
+  - [What are DALL·E models?](#what-are-dalle-models)
+  - [How image generation models work](#how-image-generation-models-work)
+  - [Examples of use cases](#examples-of-use-cases)
 - [**5. Audio Models**](#5-audio-models) (4 videos)
-  - What are audio models?
-  - Converting speech to text
-  - Converting text to speech
-  - Audio chat with a chat model
+  - [What are audio models?](#what-are-audio-models)
+  - [Converting speech to text](#converting-speech-to-text)
+  - [Converting text to speech](#converting-text-to-speech)
+  - [Audio chat with a chat model](#audio-chat-with-a-chat-model)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Be careful
-  - More ideas
+  - [Be careful](#be-careful)
+  - [More ideas](#more-ideas)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlocking your AI potential with Azure OpenAI Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [sammy] (1)
@@ -146,7 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor (1)
@@ -154,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Azure OpenAI Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Azure OpenAI Service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980)
@@ -179,8 +179,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[DALL-E]] (1)
 > **Env Vars:** gpt (1), dall (1), rest (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -227,10 +227,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), api (4), [[Microsoft]] (4), [[Security]] (2), data (2)
 > **Env Vars:** api (4), usa (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), private (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -296,7 +296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[LinkedIn]] (1), next (1), feature (1), api (1)
 > **Env Vars:** oai (1), api (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -349,10 +349,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Azure AI Foundry]] (3), ai (1), [[Real-Time]] (1), [[Tokens]] (1)
 > **Env Vars:** gpt (2), sdk (2)
 > **CLI Commands:** make (2), python (1)
 > **Versions:** 3.5 (1), 4.0 (1), 0.3 (1)
-> **Code Keywords:** let (1)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -393,7 +393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (1), ai (1), next (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -454,7 +454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), this, (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[ChatGPT]] (3), feature (2), ai (2)
 > **Speakers:** - [instructor] (3), - [chatgpt] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for example (1)
@@ -502,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), for. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Search]] (1), [[Python (Programming Language)|Python]] (1), [[GitHub Copilot]] (1), [[DALL-E]] (1)
 > **Analogies:** for example (2), picture (2)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** gpt (2)
@@ -513,7 +513,7 @@ created: 2026-04-29
 
 ### 2. Chat Completion Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do GPT models work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980)
@@ -576,7 +576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), this, (1), new, (1)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Microsoft Word|Word]] (4), next (3), [[Probability]] (1), [[ChatGPT]] (1)
 > **Env Vars:** gpt (3)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -680,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), application (1)
 > **Analogies:** imagine (2), for example (2)
 > **Env Vars:** gpt (3)
 > **CLI Commands:** make (2)
@@ -775,9 +775,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GPT-4]] (5), [[Tokens]] (3), [[ChatGPT]] (2), data (2), power (2)
 > **Env Vars:** gpt (18)
 > **Versions:** 1.5 (3), 3.5 (1)
-> **Code Keywords:** public (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** just like (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -919,8 +919,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), [[JSON]] (5), [[Prompt Engineering]] (3), [[Tokens]] (3), application (3)
 > **Env Vars:** json (5), gpt (3), api (1)
-> **Code Keywords:** let (6), this, (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** imagine (2), for example (1)
@@ -931,7 +931,7 @@ created: 2026-04-29
 
 ### 3. Embedding Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are embeddings?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-embeddings?u=76281980)
@@ -986,7 +986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (2), [[Search]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Model capabilities
@@ -1056,8 +1056,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1), power (1)
 > **CLI Commands:** make (4), python (1), find (1)
-> **Code Keywords:** let (2), this, (1), function (1)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** nlp (1)
@@ -1196,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), this. (1), function (1), case. (1)
+> **Frameworks & Libraries:** data (9), [[Tokens]] (6), [[Microsoft Azure|Azure]] (5), next (3), [[Semantic Search]] (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** api (1), csv (1)
@@ -1208,7 +1208,7 @@ created: 2026-04-29
 
 ### 4. Image Generation Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are DALL·E models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-dall-e-models?u=76281980)
@@ -1237,6 +1237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (5), data (2)
 > **Env Vars:** dall (5)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1296,10 +1297,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), [[Microsoft Azure|Azure]] (1), ai (1), [[Big Data]] (1), [[Conditional Image Generation]] (1)
 > **Env Vars:** clip (4), cat (1), glide (1)
 > **Definitions:** is a  (2), is called (1), in other words (1)
 > **CLI Commands:** find (1), cat (1), make (1)
-> **Code Keywords:** let (1), class. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1364,8 +1365,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (7), [[DALL-E]] (4), [[Microsoft Azure|Azure]] (2), web application (1)
 > **Analogies:** picture (10)
-> **Code Keywords:** let (6), private (1), public (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
@@ -1374,7 +1375,7 @@ created: 2026-04-29
 
 ### 5. Audio Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are audio models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-audio-models?u=76281980)
@@ -1419,8 +1420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), ai (2), next (1), power (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** tts (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -1478,9 +1479,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Speech Recognition]] (1), api (1), next (1), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** set up (2), install (1)
-> **Code Keywords:** let (2)
 > **Tools:** visual studio (1), jupyter (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** api (1)
@@ -1549,9 +1550,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (1), api (1), [[Microsoft Azure|Azure]] (1), data (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** tts (4), uri (1), api (1), mp3 (1), wav (1)
 > **Speakers:** - [instructor] (3), - [onyx] (1), - [ai (1)
-> **Code Keywords:** let (2), this. (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), imagine (1)
@@ -1625,17 +1626,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (8), ai (5), power (1), [[Azure AI Foundry]] (1), data (1)
 > **Speakers:** - [instructor] (4), - [ai (3)
 > **CLI Commands:** make (4), python (1), find (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (3)
 > **Tools:** github (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be careful
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980)
@@ -1686,7 +1687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), data (3), [[ChatGPT]] (3), [[Generative AI]] (3), ai (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1742,7 +1743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** ai (5), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **URLs:** [aisongcontest.com](https://aisongcontest.com) (1)
 > **Env Vars:** gpt (1)

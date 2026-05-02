@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20RAG%20Solutions%20with%20Azure%20AI%20Foundry%20(Formerly%20Azure%20AI%20Studio).md)
@@ -55,44 +55,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Create a RAG solution with little coding
+  - [Create a RAG solution with little coding](#create-a-rag-solution-with-little-coding)
 - [**1. Fundamentals of RAG**](#1-fundamentals-of-rag) (5 videos)
-  - The basics of RAG: Adding custom data to your LLM
-  - Understanding tokens: A key factor of costs in your system
-  - Vector embeddings: How words connect to each other
-  - How RAG works: Understanding the process under the hood
-  - RAG high-level architecture: The required components
+  - [The basics of RAG: Adding custom data to your LLM](#the-basics-of-rag-adding-custom-data-to-your-llm)
+  - [Understanding tokens: A key factor of costs in your system](#understanding-tokens-a-key-factor-of-costs-in-your-system)
+  - [Vector embeddings: How words connect to each other](#vector-embeddings-how-words-connect-to-each-other)
+  - [How RAG works: Understanding the process under the hood](#how-rag-works-understanding-the-process-under-the-hood)
+  - [RAG high-level architecture: The required components](#rag-high-level-architecture-the-required-components)
 - [**2. Introduction to Azure AI Foundry**](#2-introduction-to-azure-ai-foundry) (3 videos)
-  - Azure AI Foundry overview: Deploy at scale in a safe, secure, and responsible way
-  - Navigating the Azure AI Foundry
-  - Creating a project in Azure AI Foundry
+  - [Azure AI Foundry overview: Deploy at scale in a safe, secure, and responsible way](#azure-ai-foundry-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way)
+  - [Navigating the Azure AI Foundry](#navigating-the-azure-ai-foundry)
+  - [Creating a project in Azure AI Foundry](#creating-a-project-in-azure-ai-foundry)
 - [**3. Setting Up Azure AI Foundry**](#3-setting-up-azure-ai-foundry) (5 videos)
-  - Understanding content filters
-  - Creating content filters
-  - Creating model deployments
-  - Navigating the Playground
-  - Using the Playground and its settings
+  - [Understanding content filters](#understanding-content-filters)
+  - [Creating content filters](#creating-content-filters)
+  - [Creating model deployments](#creating-model-deployments)
+  - [Navigating the Playground](#navigating-the-playground)
+  - [Using the Playground and its settings](#using-the-playground-and-its-settings)
 - [**4. Creating an Index for RAG Using Azure**](#4-creating-an-index-for-rag-using-azure) (4 videos)
-  - Creating an index using Azure AI Foundry
-  - Creating an index using Azure AI Search
-  - Understanding retrieval and relevance in Azure AI Search
-  - Testing your index in the Playground
+  - [Creating an index using Azure AI Foundry](#creating-an-index-using-azure-ai-foundry)
+  - [Creating an index using Azure AI Search](#creating-an-index-using-azure-ai-search)
+  - [Understanding retrieval and relevance in Azure AI Search](#understanding-retrieval-and-relevance-in-azure-ai-search)
+  - [Testing your index in the Playground](#testing-your-index-in-the-playground)
 - [**5. Introduction to Azure Prompt Flow**](#5-introduction-to-azure-prompt-flow) (4 videos)
-  - Understanding prompt flow
-  - Create a sample prompt flow for RAG
-  - Evaluation and monitoring metrics
-  - Perform evaluations on your RAG system
+  - [Understanding prompt flow](#understanding-prompt-flow)
+  - [Create a sample prompt flow for RAG](#create-a-sample-prompt-flow-for-rag)
+  - [Evaluation and monitoring metrics](#evaluation-and-monitoring-metrics)
+  - [Perform evaluations on your RAG system](#perform-evaluations-on-your-rag-system)
 - [**6. Deploying a RAG Solution**](#6-deploying-a-rag-solution) (3 videos)
-  - Deploying the RAG solution using prompt flow
-  - Testing the REST endpoint using Postman
-  - Deploying the REST endpoint to Copilot Studio and Microsoft Teams
+  - [Deploying the RAG solution using prompt flow](#deploying-the-rag-solution-using-prompt-flow)
+  - [Testing the REST endpoint using Postman](#testing-the-rest-endpoint-using-postman)
+  - [Deploying the REST endpoint to Copilot Studio and Microsoft Teams](#deploying-the-rest-endpoint-to-copilot-studio-and-microsoft-teams)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Key takeaways
-  - Additional learning
+  - [Key takeaways](#key-takeaways)
+  - [Additional learning](#additional-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a RAG solution with little coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-RAG-solution-with-little-coding?u=76281980)
@@ -115,13 +115,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (2), [[Azure AI Studio]] (2), ai (2), power (1), data (1)
 > **Env Vars:** rag (2)
-> **Code Keywords:** let (1)
 
 
 ### 1. Fundamentals of RAG
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of RAG: Adding custom data to your LLM
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980)
@@ -172,10 +172,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), llm (6), rag (3), prompt (3), product (2)
 > **Env Vars:** llm (6), rag (3)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
@@ -231,6 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (8), [[Microsoft Word|Word]] (7), llm (3), [[Large Language Models (LLM)|Large language models]] (1), prompt (1)
 > **Env Vars:** llm (3), gpt (2)
 > **Analogies:** for example (2), imagine (1), similar to (1)
 > **CLI Commands:** cat (3)
@@ -301,11 +302,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (4), [[Tokens]] (3), [[Microsoft Word|Word]] (2), next (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** cat (3)
 > **Analogies:** for example (1), imagine (1)
 > **Prerequisites:** setup (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** previous video (1)
 
 #### How RAG works: Understanding the process under the hood
@@ -367,8 +368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (8), database (3), [[Search]] (3), prompt (2), [[Tokens]] (1)
 > **Env Vars:** rag (8), llm (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** we call this (1)
 > **Analogies:** imagine (1)
@@ -426,8 +427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (7), [[Microsoft Azure|Azure]] (5), llm (4), prompt (3), ai (2)
 > **Env Vars:** llm (4), rag (1), api (1)
-> **Code Keywords:** finally, (2), interface (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -436,7 +437,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Azure AI Foundry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure AI Foundry overview: Deploy at scale in a safe, secure, and responsible way
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980)
@@ -517,8 +518,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), ai (16), data (5), [[Azure AI Studio]] (4), [[Security]] (3)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** finally, (4)
 > **CLI Commands:** docker (1)
 > **Env Vars:** rag (1)
 > **UI Navigation:** go to (1)
@@ -587,7 +588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), finally, (1)
+> **Frameworks & Libraries:** data (5), prompt (5), [[Microsoft Azure|Azure]] (4), ai (4), application (4)
 > **Env Vars:** rag (2), url (1), gpt (1), llm (1)
 > **Cross-References:** previous chapter (2), we discussed (1)
 > **Analogies:** such as (1), for example (1)
@@ -670,7 +671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (2), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), ai (13), [[Search]] (6), data (1), next (1)
 > **UI Navigation:** select the (2), click on (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -678,7 +679,7 @@ created: 2026-04-29
 
 ### 3. Setting Up Azure AI Foundry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding content filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980)
@@ -741,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), protected (2), self (1), public (1)
+> **Frameworks & Libraries:** prompt (3), [[Azure AI Studio]] (2), ai (2), [[Microsoft Azure|Azure]] (2), feature (2)
 > **Env Vars:** gpt (2)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -802,7 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), default, (1), this. (1)
+> **Frameworks & Libraries:** [[Azure AI Studio]] (2), business (1), data (1), next (1)
 > **UI Navigation:** go to (1), select the (1)
 
 #### Creating model deployments
@@ -868,8 +869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), rag (2), [[Tokens]] (2), [[Hugging Face|Huggingface]] (1), [[Microsoft]] (1)
 > **Env Vars:** gpt (4), rag (2)
-> **Code Keywords:** case. (1), finally, (1), type. (1)
 > **Versions:** 3.5 (2)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** required to (1), setup (1)
@@ -940,8 +941,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), api (2), [[Tokens]] (2), [[Microsoft Azure|Azure]] (2), next (2)
 > **Env Vars:** api (2), rag (1), llm (1)
-> **Code Keywords:** module (1), finally, (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -1009,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (2)
+> **Frameworks & Libraries:** [[Tokens]] (4), data (3), api (1), prompt (1), llm (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (1), llm (1), rag (1)
 > **Cross-References:** in the next (1)
@@ -1019,7 +1020,7 @@ created: 2026-04-29
 
 ### 4. Creating an Index for RAG Using Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an index using Azure AI Foundry
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980)
@@ -1084,8 +1085,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Search]] (8), [[Microsoft Azure|Azure]] (6), ai (4), [[Azure AI Studio]] (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** llm (1)
 > **Definitions:** is a  (1)
@@ -1141,7 +1142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), ai (7), data (7), [[Search]] (6), [[Azure AI Studio]] (3)
 > **Cross-References:** in the next (1), previous chapter (1)
 > **UI Navigation:** go to (1), checkbox (1)
 > **CLI Commands:** python (1)
@@ -1209,6 +1210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (22), data (8), [[Microsoft Azure|Azure]] (3), ai (3), rag (3)
 > **Env Vars:** rag (3), hnsw (3), bm25 (2), knn (2), url (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (3)
@@ -1255,15 +1257,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Search]] (5), ai (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** select the (3)
-> **Code Keywords:** case, (1), this. (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 
 
 ### 5. Introduction to Azure Prompt Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding prompt flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980)
@@ -1310,9 +1312,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (8), llm (3), ai (2), [[Azure AI Studio]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** llm (3), url (1)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** finally, (2), interface (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -1386,7 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), default, (1), interface (1)
+> **Frameworks & Libraries:** prompt (8), data (2), llm (2), rag (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** yaml (2), llm (2), rag (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Prerequisites:** configure (1), setup (1)
@@ -1438,7 +1440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), self (1)
+> **Frameworks & Libraries:** application (4), [[Azure AI Studio]] (1)
 > **Env Vars:** url (1), gpt (1)
 > **Best Practices:** remember to (1)
 
@@ -1485,6 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), prompt (3), next (3), rag (1), llm (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rag (1), llm (1)
 > **UI Navigation:** select the (1)
@@ -1492,7 +1495,7 @@ created: 2026-04-29
 
 ### 6. Deploying a RAG Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying the RAG solution using prompt flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980)
@@ -1539,7 +1542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2), public (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[JavaScript]] (2), rag (1), prompt (1), [[Microsoft]] (1)
 > **Env Vars:** rag (1), llm (1), json (1), api (1)
 > **CLI Commands:** make (2), python (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1587,11 +1590,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), application (1), api (1), [[Microsoft Azure|Azure]] (1), prompt (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** url (1), api (1), json (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Tools:** postman (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 
 #### Deploying the REST endpoint to Copilot Studio and Microsoft Teams
@@ -1669,7 +1672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), data (4), [[Microsoft]] (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** http (1), url (1)
 > **Tools:** postman (1)
@@ -1679,7 +1682,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980)
@@ -1736,9 +1739,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (6), data (5), [[Search]] (4), prompt (4)
 > **Env Vars:** rag (2), llm (2), url (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type, (1), finally, (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Definitions:** is a  (1)
 
@@ -1825,7 +1828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (7), finally, (2), self (1)
+> **Frameworks & Libraries:** ai (11), [[Microsoft]] (8), [[Microsoft Azure|Azure]] (8), business (4), [[Microsoft Copilot|Copilot]] (4)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)

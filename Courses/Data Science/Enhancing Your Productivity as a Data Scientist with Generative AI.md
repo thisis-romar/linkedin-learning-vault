@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Enhancing%20Your%20Productivity%20as%20a%20Data%20Scientist%20with%20Generative%20AI.md)
@@ -41,57 +41,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - How GenAI can enhance your productivity
-  - Overview and what you should know
-  - Codespaces and setup
+  - [How GenAI can enhance your productivity](#how-genai-can-enhance-your-productivity)
+  - [Overview and what you should know](#overview-and-what-you-should-know)
+  - [Codespaces and setup](#codespaces-and-setup)
 - [**1. Introduction to Generative AI for Data Science**](#1-introduction-to-generative-ai-for-data-science) (7 videos)
-  - Foundations of generative AI
-  - The data science process: CRISP-DM recap
-  - From augmentation to automation
-  - Principles of effective prompting
-  - ChatGPT setup: Assistants
-  - Gemini or other LLM setup: Copilots
-  - Optional: Building a custom GPT
+  - [Foundations of generative AI](#foundations-of-generative-ai)
+  - [The data science process: CRISP-DM recap](#the-data-science-process-crisp-dm-recap)
+  - [From augmentation to automation](#from-augmentation-to-automation)
+  - [Principles of effective prompting](#principles-of-effective-prompting)
+  - [ChatGPT setup: Assistants](#chatgpt-setup-assistants)
+  - [Gemini or other LLM setup: Copilots](#gemini-or-other-llm-setup-copilots)
+  - [Optional: Building a custom GPT](#optional-building-a-custom-gpt)
 - [**2. Business and Data Understanding with AI**](#2-business-and-data-understanding-with-ai) (7 videos)
-  - Overview: Business and data understanding with GenAI
-  - Use case 1: SMART problem statements assistant
-  - Use case 2: Issue tree builder assistant
-  - Use case 3: Business requirements assistant
-  - Use case 4: Data dictionary assistant
-  - Use case 5: SQL query copilot
-  - Use case 6: EDA report assistant
+  - [Overview: Business and data understanding with GenAI](#overview-business-and-data-understanding-with-genai)
+  - [Use case 1: SMART problem statements assistant](#use-case-1-smart-problem-statements-assistant)
+  - [Use case 2: Issue tree builder assistant](#use-case-2-issue-tree-builder-assistant)
+  - [Use case 3: Business requirements assistant](#use-case-3-business-requirements-assistant)
+  - [Use case 4: Data dictionary assistant](#use-case-4-data-dictionary-assistant)
+  - [Use case 5: SQL query copilot](#use-case-5-sql-query-copilot)
+  - [Use case 6: EDA report assistant](#use-case-6-eda-report-assistant)
 - [**3. AI-Augmented Data Preparation**](#3-ai-augmented-data-preparation) (5 videos)
-  - Overview: Data preparation with GenAI
-  - Use case 7: Data quality assessment copilot
-  - Use case 8: Data cleaning copilot
-  - Use case 9: Text preprocessing copilot
-  - Use case 10: Feature engineering copilot
+  - [Overview: Data preparation with GenAI](#overview-data-preparation-with-genai)
+  - [Use case 7: Data quality assessment copilot](#use-case-7-data-quality-assessment-copilot)
+  - [Use case 8: Data cleaning copilot](#use-case-8-data-cleaning-copilot)
+  - [Use case 9: Text preprocessing copilot](#use-case-9-text-preprocessing-copilot)
+  - [Use case 10: Feature engineering copilot](#use-case-10-feature-engineering-copilot)
 - [**4. AI-Powered Modeling Techniques**](#4-ai-powered-modeling-techniques) (4 videos)
-  - Overview: Modeling with GenAI
-  - Use case 11: Model selection assistant
-  - Use case 12: Model creation copilot
-  - Use case 13: Model documentation copilot
+  - [Overview: Modeling with GenAI](#overview-modeling-with-genai)
+  - [Use case 11: Model selection assistant](#use-case-11-model-selection-assistant)
+  - [Use case 12: Model creation copilot](#use-case-12-model-creation-copilot)
+  - [Use case 13: Model documentation copilot](#use-case-13-model-documentation-copilot)
 - [**5. AI-Augmented Model Evaluation**](#5-ai-augmented-model-evaluation) (3 videos)
-  - Overview: Model evaluation with GenAI
-  - Use case 14: Model performance assistant
-  - Use case 15: Model explainability assistant
+  - [Overview: Model evaluation with GenAI](#overview-model-evaluation-with-genai)
+  - [Use case 14: Model performance assistant](#use-case-14-model-performance-assistant)
+  - [Use case 15: Model explainability assistant](#use-case-15-model-explainability-assistant)
 - [**6. AI-Augmented Deployment and Application Development**](#6-ai-augmented-deployment-and-application-development) (3 videos)
-  - Overview: Model deployment with GenAI
-  - Use case 16: Model deployment assistant
-  - Use case 17: API documentation assistant
+  - [Overview: Model deployment with GenAI](#overview-model-deployment-with-genai)
+  - [Use case 16: Model deployment assistant](#use-case-16-model-deployment-assistant)
+  - [Use case 17: API documentation assistant](#use-case-17-api-documentation-assistant)
 - [**7. AI-Augmented Communication and Documentation**](#7-ai-augmented-communication-and-documentation) (4 videos)
-  - Relevance of communication and documentation
-  - Use case 18: Comprehensive project documentation assistant
-  - Use case 19: Data storytelling assistant
-  - Use case 20: Stakeholder communication assistant
+  - [Relevance of communication and documentation](#relevance-of-communication-and-documentation)
+  - [Use case 18: Comprehensive project documentation assistant](#use-case-18-comprehensive-project-documentation-assistant)
+  - [Use case 19: Data storytelling assistant](#use-case-19-data-storytelling-assistant)
+  - [Use case 20: Stakeholder communication assistant](#use-case-20-stakeholder-communication-assistant)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Course recap and key takeaways
-  - Future trends in AI-augmented data science
-  - Next steps in your GenAI journey
+  - [Course recap and key takeaways](#course-recap-and-key-takeaways)
+  - [Future trends in AI-augmented data science](#future-trends-in-ai-augmented-data-science)
+  - [Next steps in your GenAI journey](#next-steps-in-your-genai-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How GenAI can enhance your productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (5), [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Google Gemini]] (1)
 > **Speakers:** - when (1)
 
 #### Overview and what you should know
@@ -144,9 +144,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Generative AI]] (1), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** assuming you have (1), you'll need (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** class. (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -201,7 +201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), switch (2), this. (1), while, (1)
+> **Frameworks & Libraries:** [[Codespaces]] (5), data (2), [[GitHub]] (2), [[Python (Programming Language)|Python]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** find (2), python (2), make (1)
 > **Tools:** github (2), jupyter (1)
 > **UI Navigation:** click on (2), switch to (1)
@@ -213,7 +213,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Generative AI for Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundations of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980)
@@ -378,7 +378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), case, (2), public (1), super (1)
+> **Frameworks & Libraries:** ai (14), data (13), [[Generative AI]] (10), [[Microsoft Word|Word]] (10), next (7)
 > **Analogies:** such as (2), for example (2), imagine (1), picture (1)
 > **Env Vars:** gpt (2), llm (1)
 > **CLI Commands:** make (2)
@@ -513,8 +513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (34), business (8), [[CRISP-DM]] (6), next (5), [[Generative AI]] (2)
 > **Env Vars:** crisp (6)
-> **Code Keywords:** let (3), switch (1), module (1)
 > **Definitions:** is an  (2), stands for (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
@@ -627,7 +627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1)
+> **Frameworks & Libraries:** ai (24), [[Automation]] (9), data (4), [[Generative AI]] (3), [[ChatGPT]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -772,7 +772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (2), case. (1), default. (1), this, (1)
+> **Frameworks & Libraries:** prompt (9), ai (9), data (4), [[ChatGPT]] (2), llm (2)
 > **CLI Commands:** make (3), python (1)
 > **Env Vars:** llm (2), rgtd (2)
 > **Analogies:** such as (1), for example (1), imagine (1)
@@ -843,8 +843,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Custom GPTs]] (2), [[GitHub]] (2), ai (1), data (1)
 > **Env Vars:** gpt (12), read (1)
-> **Code Keywords:** let (3), interface (1), switch (1), case, (1), type, (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (2), switch to (1)
 > **Tools:** github (2)
@@ -909,8 +909,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (7), api (7), [[Google]] (5), ai (2), [[Google Gemini]] (1)
 > **Env Vars:** api (7), url (1)
-> **Code Keywords:** delete (3), let (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** python (1)
@@ -1027,8 +1027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), [[ChatGPT]] (3), next (2), prompt (2), [[Custom GPTs]] (1)
 > **Env Vars:** gpt (22), url (1), dall (1)
-> **Code Keywords:** let (10), finally, (2), default, (1), interface (1), case, (1)
 > **CLI Commands:** find (2), python (1), make (1)
 > **UI Navigation:** open the (2), go to (1), scroll down (1)
 > **Analogies:** for example (2)
@@ -1039,7 +1039,7 @@ created: 2026-04-29
 
 ### 2. Business and Data Understanding with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Business and data understanding with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980)
@@ -1158,7 +1158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), this. (1)
+> **Frameworks & Libraries:** data (12), business (10), teams (3), [[Generative AI]] (2), [[Marketing Strategy]] (2)
 > **Env Vars:** smart (4), mece (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
@@ -1286,8 +1286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[ChatGPT]] (3), [[GitHub]] (2), business (2), next (2)
 > **Env Vars:** smart (16), gpt (6), erp (2), llm (1)
-> **Code Keywords:** let (6), finally, (3), case, (2), for. (1), super (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 1.5 (2)
 > **Tools:** github (2)
@@ -1406,8 +1406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), next (3), [[Generative AI]] (2), llm (1), ai (1)
 > **Env Vars:** gpt (7), smart (5), mece (3), llm (1)
-> **Code Keywords:** let (3), super (2), case, (2), case. (1), continue (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1), node (1)
 > **Cross-References:** previous video (1)
@@ -1521,8 +1521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), data (9), [[Forecasting]] (5), [[Microsoft Word|Word]] (3), [[GitHub]] (2)
 > **Env Vars:** smart (7), gpt (6), mece (4), brd (4)
-> **Code Keywords:** let (5), this. (2), case, (1), finally, (1)
 > **Analogies:** for example (5), similar to (1)
 > **CLI Commands:** make (2), node (1), find (1)
 > **Tools:** github (2)
@@ -1631,7 +1631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), super (2), case, (2), function (2), this, (1)
+> **Frameworks & Libraries:** data (27), database (6), product (3), [[Microsoft]] (1), ai (1)
 > **Env Vars:** gpt (3), erp (1), json (1)
 > **Tools:** jupyter (3), vs code (1), github (1)
 > **Analogies:** for example (5)
@@ -1795,8 +1795,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (16), [[Gemini]] (11), [[Microsoft Copilot|Copilot]] (7), database (6), [[JSON]] (5)
 > **Env Vars:** sql (16), json (4), api (3), llm (2), gpt (1)
-> **Code Keywords:** let (7), function (4), case, (3), switch (2), case. (2)
 > **Code Identifiers:** generation_config (2), sql_query (2), max_output_tokens (1), chat_session (1), natural_language_query (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), such as (1)
@@ -1917,8 +1917,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Forecasting]] (3), next (3), [[Statistics]] (2), product (2)
 > **Env Vars:** gpt (12), sql (1), eda (1), csv (1)
-> **Code Keywords:** let (4), case. (2), finally, (2), switch (1), case, (1)
 > **CLI Commands:** make (3), find (3)
 > **Analogies:** for example (6)
 > **UI Navigation:** switch to (1), go to (1), open the (1)
@@ -1928,7 +1928,7 @@ created: 2026-04-29
 
 ### 3. AI-Augmented Data Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Data preparation with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980)
@@ -1991,7 +1991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (26), [[Generative AI]] (1), feature (1), [[Engineering]] (1), product (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -2148,7 +2148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (6), case. (2), this. (2), switch (1)
+> **Frameworks & Libraries:** data (21), business (7), next (5), [[Microsoft Copilot|Copilot]] (4), llm (4)
 > **Code Identifiers:** pandas_dq (4), generation_config (2), data_preparation (1), dq_copilot (1), dq_report (1)
 > **Env Vars:** llm (4), json (3), sql (2), api (1)
 > **Analogies:** for example (6), just like (1), similar to (1)
@@ -2260,7 +2260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), finally, (2), switch (1), case. (1)
+> **Frameworks & Libraries:** data (31), [[Pandas (Software)|Pandas]] (5), [[JSON]] (4), llm (4), [[Microsoft Copilot|Copilot]] (3)
 > **Env Vars:** llm (4)
 > **Code Identifiers:** dq_result (1), pandas_script (1)
 > **Analogies:** for example (1), imagine (1)
@@ -2472,7 +2472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), case, (4), switch (2), throw (2), pass (2)
+> **Frameworks & Libraries:** data (20), product (15), [[Microsoft Products|Products]] (9), [[Microsoft Copilot|Copilot]] (6), llm (6)
 > **Env Vars:** llm (6), lms (2), sql (1), fjson (1)
 > **Definitions:** is a  (7)
 > **Analogies:** for example (7)
@@ -2645,7 +2645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), case, (2), finally, (2), switch (1)
+> **Frameworks & Libraries:** data (34), feature (19), business (11), llm (8), ai (5)
 > **Env Vars:** llm (8), json (4), ide (2), csv (1)
 > **Analogies:** for example (6)
 > **Tools:** github (3), colab (1)
@@ -2657,7 +2657,7 @@ created: 2026-04-29
 
 ### 4. AI-Powered Modeling Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Modeling with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980)
@@ -2708,7 +2708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), business (1), data (1), [[Generative AI]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2805,7 +2805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), case. (1), this, (1), class, (1)
+> **Frameworks & Libraries:** data (11), [[Generative AI]] (3), next (3), [[Forecasting]] (3), business (2)
 > **Env Vars:** json (2), o4o2 (1), gpt (1), lgbm (1), act (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2)
@@ -2950,7 +2950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), class, (2), case, (2), type, (1)
+> **Frameworks & Libraries:** data (15), feature (15), [[Microsoft Copilot|Copilot]] (7), business (4), next (3)
 > **CLI Commands:** make (2), find (2), python (1)
 > **Env Vars:** llm (2), csv (1), api (1), gbr (1)
 > **Definitions:** is called (3), is a  (2)
@@ -3028,7 +3028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (1), new. (1), include, (1), this. (1)
+> **Frameworks & Libraries:** data (6), feature (5), llm (3), [[Generative AI]] (2), prompt (2)
 > **Env Vars:** llm (3)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** model_documentation (1)
@@ -3040,7 +3040,7 @@ created: 2026-04-29
 
 ### 5. AI-Augmented Model Evaluation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Model evaluation with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980)
@@ -3079,7 +3079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), case. (1)
+> **Frameworks & Libraries:** data (2), business (2), [[Generative AI]] (1), [[Performance Metrics]] (1), next (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -3207,8 +3207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), feature (4), [[ChatGPT]] (3), next (3), [[GitHub]] (2)
 > **Env Vars:** gpt (10), csv (6), mae (1), mse (1), rmse (1)
-> **Code Keywords:** case, (8), let (6), finally, (1), this. (1), try, (1)
 > **Versions:** 3.53 (1), 0.01 (1), 0.1 (1), 0.005 (1), 0.03 (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** github (2)
@@ -3321,8 +3321,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), feature (5), next (2), [[Generative AI]] (1), [[Codespaces]] (1)
 > **Env Vars:** gpt (12), shap (6), csv (2), gbt (1)
-> **Code Keywords:** case, (3), let (2), this. (2), this, (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** open the (1), go to (1), scroll down (1)
 > **Tools:** github (1)
@@ -3333,7 +3333,7 @@ created: 2026-04-29
 
 ### 6. AI-Augmented Deployment and Application Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Model deployment with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980)
@@ -3370,7 +3370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (2), api (2), [[Generative AI]] (1)
 > **Env Vars:** api (2)
 > **Documentation:** the documentation (1)
 > **Definitions:** is called (1)
@@ -3544,7 +3544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (5), case, (4), this, (3), switch (1)
+> **Frameworks & Libraries:** api (6), next (6), [[Representational State Transfer (REST)|Rest]] (2), aws (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** gpt (12), api (6), url (3), aws (2), html (2)
 > **CLI Commands:** find (3), aws (2), python (2), make (1), docker (1)
 > **Definitions:** is a  (4), is called (2)
@@ -3604,8 +3604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), [[HTML]] (3), next (1), [[Python (Programming Language)|Python]] (1), prompt (1)
 > **Env Vars:** api (13), gpt (7), url (3), html (3)
-> **Code Keywords:** this. (3), case, (2), let (1), case. (1), finally, (1)
 > **CLI Commands:** python (1), make (1)
 > **Exercise Files:** template (2)
 > **Documentation:** the documentation (1)
@@ -3616,7 +3616,7 @@ created: 2026-04-29
 
 ### 7. AI-Augmented Communication and Documentation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relevance of communication and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980)
@@ -3655,7 +3655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2), [[Generative AI]] (1), next (1), [[Data Storytelling]] (1), [[Storytelling]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -3795,7 +3795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (5), case, (4), continue (2), from. (2)
+> **Frameworks & Libraries:** data (6), business (6), [[HTML]] (5), [[GitHub]] (4), [[ChatGPT]] (3)
 > **Env Vars:** html (5), gpt (4), crisp (1)
 > **CLI Commands:** find (4), make (2)
 > **Tools:** github (4)
@@ -3987,7 +3987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (4), super (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (22), business (4), [[Microsoft PowerPoint|Powerpoint]] (3), [[ChatGPT]] (3), next (3)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** gpt (3), bcg (1), llm (1)
 > **Cross-References:** in the next (1), we discussed (1)
@@ -4117,7 +4117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), this. (2), switch (2), this, (1)
+> **Frameworks & Libraries:** data (8), [[Forecasting]] (2), business (2), [[GitHub]] (1), next (1)
 > **Env Vars:** gpt (6), roi (2), gbr (1)
 > **Analogies:** for example (4)
 > **UI Navigation:** open the (1), go to (1), switch to (1)
@@ -4129,7 +4129,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course recap and key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980)
@@ -4216,8 +4216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (8), [[Generative AI]] (3), business (2), prompt (2)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** always make sure (1)
 > **Warnings:** watch out (1)
@@ -4314,7 +4314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (3), finally, (1)
+> **Frameworks & Libraries:** ai (16), data (15), next (2), [[CRISP-DM]] (2), [[Generative AI]] (1)
 > **Analogies:** imagine (2), for example (1), similar to (1)
 > **Env Vars:** crisp (2)
 > **CLI Commands:** make (1)
@@ -4342,6 +4342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[LinkedIn]] (2), data (1), ai (1), next (1)
 > **Speakers:** - [tobias] (1)
 
 

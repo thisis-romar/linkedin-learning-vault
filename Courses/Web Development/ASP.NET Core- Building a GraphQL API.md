@@ -32,7 +32,7 @@ tags:
   - skill/asp-net-core
   - skill/graphql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ASP.NET%20Core-%20Building%20a%20GraphQL%20API.md)
@@ -51,43 +51,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Using GraphQL API
-  - What you should know
+  - [Using GraphQL API](#using-graphql-api)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Started with GraphQL**](#1-getting-started-with-graphql) (5 videos)
-  - What is GraphQL?
-  - GraphQL vs. REST
-  - Open-source GraphQL projects
-  - .NET Web API project overview
-  - Setting up GraphQL in Web API
+  - [What is GraphQL?](#what-is-graphql)
+  - [GraphQL vs. REST](#graphql-vs-rest)
+  - [Open-source GraphQL projects](#open-source-graphql-projects)
+  - [.NET Web API project overview](#net-web-api-project-overview)
+  - [Setting up GraphQL in Web API](#setting-up-graphql-in-web-api)
 - [**2. Data Querying with GraphQL in .NET Web API**](#2-data-querying-with-graphql-in-net-web-api) (8 videos)
-  - Operations in GraphQL
-  - Types in GraphQL
-  - Adding your first object graph type (course entity)
-  - Adding your first query: All courses
-  - Challenge: Add query to get single course
-  - Solution: Add query to get single course
-  - Adding your GraphQL schema file
-  - Testing
+  - [Operations in GraphQL](#operations-in-graphql)
+  - [Types in GraphQL](#types-in-graphql)
+  - [Adding your first object graph type (course entity)](#adding-your-first-object-graph-type-course-entity)
+  - [Adding your first query: All courses](#adding-your-first-query-all-courses)
+  - [Challenge: Add query to get single course](#challenge-add-query-to-get-single-course)
+  - [Solution: Add query to get single course](#solution-add-query-to-get-single-course)
+  - [Adding your GraphQL schema file](#adding-your-graphql-schema-file)
+  - [Testing](#testing)
 - [**3. Data Mutation with GraphQL in .NET Web API**](#3-data-mutation-with-graphql-in-net-web-api) (7 videos)
-  - What is a mutation?
-  - Adding your first mutation: Add data
-  - Add data: Testing
-  - Challenge: Mutation to update data
-  - Solution: Mutation to update data
-  - Update data: Testing
-  - Mutation to delete data
+  - [What is a mutation?](#what-is-a-mutation)
+  - [Adding your first mutation: Add data](#adding-your-first-mutation-add-data)
+  - [Add data: Testing](#add-data-testing)
+  - [Challenge: Mutation to update data](#challenge-mutation-to-update-data)
+  - [Solution: Mutation to update data](#solution-mutation-to-update-data)
+  - [Update data: Testing](#update-data-testing)
+  - [Mutation to delete data](#mutation-to-delete-data)
 - [**4. Querying and Mutating Relational Data with GraphQL in .NET Web API**](#4-querying-and-mutating-relational-data-with-graphql-in-net-web-api) (5 videos)
-  - Adding relationship data
-  - Query to get relational data
-  - Get relational data: Testing
-  - Mutation to add relational data
-  - Add relational data: Testing
+  - [Adding relationship data](#adding-relationship-data)
+  - [Query to get relational data](#query-to-get-relational-data)
+  - [Get relational data: Testing](#get-relational-data-testing)
+  - [Mutation to add relational data](#mutation-to-add-relational-data)
+  - [Add relational data: Testing](#add-relational-data-testing)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps for learning more about GraphQL API
+  - [Next steps for learning more about GraphQL API](#next-steps-for-learning-more-about-graphql-api)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using GraphQL API
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980)
@@ -112,10 +112,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (7), data (6), api (2), application (2), next (1)
 > **Env Vars:** api (3), net (2), asp (1)
 > **URLs:** [stack.net](https://stack.net) (1), [asp.net](https://asp.net) (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** delete (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - with (1)
 
@@ -138,9 +138,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (1), [[ASP.NET Web API]] (1), web (1), api (1), [[Programming]] (1)
 > **Env Vars:** net (2), api (2), asp (1), net5 (1)
 > **Tools:** visual studio (2)
-> **Code Keywords:** let (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with GraphQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GraphQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-graphql?u=76281980)
@@ -197,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), api (11), [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (2), web (2)
 > **Env Vars:** api (11), rest (2), httpget (1), dto (1), net (1)
-> **Code Keywords:** case, (4), let (2), this . (1)
 > **Definitions:** is a  (1), is called (1)
 > **Prerequisites:** you need to have (1), before we start (1)
 > **Analogies:** for example (1)
@@ -241,9 +241,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (10), [[Representational State Transfer (REST)|Rest]] (7), api (6), data (6), [[JSON]] (1)
 > **Env Vars:** rest (6), api (6), http (3), json (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** function (1), delete (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -348,8 +348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (14), api (14), web (4), [[Programming]] (3), data (3)
 > **Env Vars:** api (14), net (3), ceo (2), url (1), php (1)
-> **Code Keywords:** let (11), continue (2), public (1), case, (1)
 > **UI Navigation:** go to (4), scroll down (3), scroll up (2), navigate to (1), open the (1)
 > **CLI Commands:** php (1), python (1), dotnet (1)
 > **Prerequisites:** before we start (1), install (1), set up (1)
@@ -460,8 +460,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), database (5), [[GraphQL]] (4), web (2), data (2)
 > **Env Vars:** api (11), net (2), sql (1), dtr (1)
-> **Code Keywords:** let (4), module (3), delete (2), case, (2), type, (1)
 > **UI Navigation:** go to (2), scroll down (1), scroll up (1)
 > **Analogies:** for example (2), just like (1), imagine (1)
 > **Definitions:** is a  (3)
@@ -564,9 +564,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (13), [[Search]] (3), web (1), api (1), [[ASP.NET Core]] (1)
 > **UI Navigation:** go to (10), scroll down (2), select the (1)
 > **Prerequisites:** install (8), configure (3), set up (1)
-> **Code Keywords:** let (8), interface (1)
 > **Env Vars:** net (3), api (1), asp (1), http (1), json (1)
 > **Code Identifiers:** schemaclass (3), addscope (1), graphiql (1)
 > **Versions:** 5.0 (2)
@@ -576,7 +576,7 @@ created: 2026-04-29
 
 ### 2. Data Querying with GraphQL in .NET Web API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Operations in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/operations-in-graphql?u=76281980)
@@ -611,8 +611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), api (4), [[GraphQL]] (3), database (2)
 > **Env Vars:** api (4), http (3), delete (1)
-> **Code Keywords:** delete (1), type. (1)
 > **API Endpoints:** get  (1), delete  (1)
 > **Code Identifiers:** vquery (1)
 > **Definitions:** is a  (1)
@@ -675,7 +675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for . (4), public (2), let (1), type, (1), pass (1)
+> **Frameworks & Libraries:** [[GraphQL]] (17), data (2), application (2)
 > **Env Vars:** net (9)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
@@ -825,7 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (12), let (7), class. (2), type . (1)
+> **Frameworks & Libraries:** [[GraphQL]] (7), data (2), database (1), next (1), application (1)
 > **UI Navigation:** go to (5), right-click (2)
 > **Env Vars:** net (1)
 > **Tools:** visual studio (1)
@@ -902,7 +902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), class. (1), class, (1), type. (1)
+> **Frameworks & Libraries:** data (7), [[GraphQL]] (5), database (3), [[Microsoft SQL Server|Sql server]] (1), application (1)
 > **UI Navigation:** go to (5)
 > **Definitions:** is a  (2)
 > **URLs:** [graphql.net](https://graphql.net) (1)
@@ -930,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1)
+> **Frameworks & Libraries:** next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1023,7 +1023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (4), pass (3), type. (2), return. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[GraphQL]] (1)
 > **Tools:** visual studio (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
@@ -1072,7 +1072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class. (1), class, (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), data (2), database (1), application (1), next (1)
 > **UI Navigation:** go to (3)
 > **Tools:** visual studio (1)
 > **Prerequisites:** configure (1)
@@ -1193,7 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), class. (1), case, (1)
+> **Frameworks & Libraries:** [[GraphQL]] (8), application (3), data (2), web (1), api (1)
 > **UI Navigation:** go to (7), scroll down (1), scroll up (1)
 > **Tools:** visual studio (3)
 > **Prerequisites:** set up (1), configure (1)
@@ -1205,7 +1205,7 @@ created: 2026-04-29
 
 ### 3. Data Mutation with GraphQL in .NET Web API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a mutation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980)
@@ -1232,8 +1232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (2), [[Data Manipulation]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (1), rest (1), post (1), delete (1), put (1)
-> **Code Keywords:** case, (1), delete (1)
 > **API Endpoints:** get  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1429,7 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), class. (2), pass (2), class, (1), type. (1)
+> **Frameworks & Libraries:** database (6), data (5), [[GraphQL]] (4)
 > **UI Navigation:** go to (9), right-click (3)
 > **Analogies:** for example (2)
 > **Code Identifiers:** addcourse (1)
@@ -1530,7 +1530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (2), type, (1)
+> **Frameworks & Libraries:** database (5), [[GraphQL]] (3), next (1), data (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **Code Identifiers:** addcourse (2)
 > **Prerequisites:** configure (2)
@@ -1551,7 +1551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try, (1)
+> **Frameworks & Libraries:** data (2), database (2), next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1634,7 +1634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (3), pass (3), type. (3), var (2)
+> **Frameworks & Libraries:** database (2), [[GraphQL]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** var (2), ctrl (2)
 > **UI Navigation:** go to (3)
 > **Tools:** visual studio (1)
@@ -1721,7 +1721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
@@ -1775,7 +1775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (3), pass (2), new, (1), require (1)
+> **Frameworks & Libraries:** database (4), data (2), next (1), [[GraphQL]] (1)
 > **Code Identifiers:** deletecourse (5)
 > **UI Navigation:** go to (3)
 > **Tools:** visual studio (2)
@@ -1784,7 +1784,7 @@ created: 2026-04-29
 
 ### 4. Querying and Mutating Relational Data with GraphQL in .NET Web API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding relationship data
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980)
@@ -1903,7 +1903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), class, (3), class. (2), public (2)
+> **Frameworks & Libraries:** database (11), data (9), [[Windows]] (2), [[Search]] (1), [[JSON]] (1)
 > **UI Navigation:** go to (12), click on (1)
 > **File Paths:** appsettings.json (1)
 > **Env Vars:** etr (1)
@@ -1990,7 +1990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), include, (1), include( (1)
+> **Frameworks & Libraries:** data (3), database (2), next (2), [[GraphQL]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Tools:** visual studio (1)
 > **Definitions:** is an  (1)
@@ -2031,7 +2031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[GraphQL]] (2), database (2)
 > **UI Navigation:** go to (2)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
@@ -2125,7 +2125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), var (3), pass (3)
+> **Frameworks & Libraries:** database (4), data (3), [[GraphQL]] (3), next (1)
 > **Code Identifiers:** newcourse (7), newreview (2)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** find (1), make (1)
@@ -2227,7 +2227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (1), return, (1)
+> **Frameworks & Libraries:** database (2), data (1), [[GraphQL]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
@@ -2236,7 +2236,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for learning more about GraphQL API
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980)
@@ -2269,7 +2269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), case, (1)
+> **Frameworks & Libraries:** data (8), [[GraphQL]] (5), next (4), [[LinkedIn]] (2), [[Data Manipulation]] (1)
 > **Env Vars:** net (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [ervis] (1)

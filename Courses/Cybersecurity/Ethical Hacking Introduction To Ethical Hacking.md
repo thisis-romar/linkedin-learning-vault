@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking%20Introduction%20To%20Ethical%20Hacking.md)
@@ -44,51 +44,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Locking down the organization
-  - Discovering resources
-  - Hacking ethically
+  - [Locking down the organization](#locking-down-the-organization)
+  - [Discovering resources](#discovering-resources)
+  - [Hacking ethically](#hacking-ethically)
 - [**1. Protect Data in a Digital World**](#1-protect-data-in-a-digital-world) (6 videos)
-  - Recognizing elements of information security
-  - Providing information assurance
-  - Defending in depth
-  - Using AI and ML in cybersecurity
-  - Adapting to the threats
-  - Leveraging event correlation
+  - [Recognizing elements of information security](#recognizing-elements-of-information-security)
+  - [Providing information assurance](#providing-information-assurance)
+  - [Defending in depth](#defending-in-depth)
+  - [Using AI and ML in cybersecurity](#using-ai-and-ml-in-cybersecurity)
+  - [Adapting to the threats](#adapting-to-the-threats)
+  - [Leveraging event correlation](#leveraging-event-correlation)
 - [**2. Maintain a Vigilant Posture**](#2-maintain-a-vigilant-posture) (6 videos)
-  - Modeling threats
-  - Using cyber threat intelligence
-  - Following the threat intelligence lifecycle
-  - Managing incidents
-  - Challenge: Hardening guide
-  - Solution: Hardening guide
+  - [Modeling threats](#modeling-threats)
+  - [Using cyber threat intelligence](#using-cyber-threat-intelligence)
+  - [Following the threat intelligence lifecycle](#following-the-threat-intelligence-lifecycle)
+  - [Managing incidents](#managing-incidents)
+  - [Challenge: Hardening guide](#challenge-hardening-guide)
+  - [Solution: Hardening guide](#solution-hardening-guide)
 - [**3. Summarize Hacking Frameworks**](#3-summarize-hacking-frameworks) (7 videos)
-  - Understanding the cyber kill chain
-  - Utilizing MITRE ATT&CK
-  - Analyzing using the diamond model
-  - Identifying adversary behavior
-  - Discovering indicators of compromise
-  - Challenge: The cyber kill chain
-  - Solution: The cyber kill chain
+  - [Understanding the cyber kill chain](#understanding-the-cyber-kill-chain)
+  - [Utilizing MITRE ATT&CK](#utilizing-mitre-attck)
+  - [Analyzing using the diamond model](#analyzing-using-the-diamond-model)
+  - [Identifying adversary behavior](#identifying-adversary-behavior)
+  - [Discovering indicators of compromise](#discovering-indicators-of-compromise)
+  - [Challenge: The cyber kill chain](#challenge-the-cyber-kill-chain)
+  - [Solution: The cyber kill chain](#solution-the-cyber-kill-chain)
 - [**4. Review Security Laws and Standards**](#4-review-security-laws-and-standards) (7 videos)
-  - Managing risks
-  - Asset inventory
-  - Defining information security standards
-  - Outlining US regulations
-  - Exploring global cyber laws and standards
-  - Challenge: Cyber threat information sharing
-  - Solution: Cyber threat information sharing
+  - [Managing risks](#managing-risks)
+  - [Asset inventory](#asset-inventory)
+  - [Defining information security standards](#defining-information-security-standards)
+  - [Outlining US regulations](#outlining-us-regulations)
+  - [Exploring global cyber laws and standards](#exploring-global-cyber-laws-and-standards)
+  - [Challenge: Cyber threat information sharing](#challenge-cyber-threat-information-sharing)
+  - [Solution: Cyber threat information sharing](#solution-cyber-threat-information-sharing)
 - [**5. Support Ethical Hacking**](#5-support-ethical-hacking) (5 videos)
-  - Comparing attack types and motives
-  - Outlining the types of hackers
-  - Recognizing the skills of an ethical hacker
-  - Stepping through the hacking phases
-  - Grasping the importance of ethical hacking
+  - [Comparing attack types and motives](#comparing-attack-types-and-motives)
+  - [Outlining the types of hackers](#outlining-the-types-of-hackers)
+  - [Recognizing the skills of an ethical hacker](#recognizing-the-skills-of-an-ethical-hacker)
+  - [Stepping through the hacking phases](#stepping-through-the-hacking-phases)
+  - [Grasping the importance of ethical hacking](#grasping-the-importance-of-ethical-hacking)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Locking down the organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/locking-down-the-organization?u=76281980)
@@ -111,8 +111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Ethical Hacking]] (1), data (1), power (1)
 > **Env Vars:** mitre (1), att (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 
@@ -139,7 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -163,12 +163,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Protect Data in a Digital World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognizing elements of information security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980)
@@ -227,7 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), let (2)
+> **Frameworks & Libraries:** data (7), [[Intrusion Detection]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1), business (1)
 > **Analogies:** such as (3)
 > **Env Vars:** cia (1)
 > **Warnings:** keep in mind (1)
@@ -294,7 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** [[Security]] (12), [[Ethical Hacking]] (5), data (5), [[Intrusion Detection]] (1), management (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** open the (1)
@@ -361,7 +362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[Configuration Management]] (1), [[Intrusion Detection]] (1), cloud (1), next (1)
 > **Analogies:** such as (4)
 > **URLs:** [kapersky.com](https://kapersky.com) (1)
 > **Speakers:** - [instructor] (1)
@@ -423,8 +424,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (6), [[Algorithms]] (3), data (3), [[Cybersecurity]] (2), hit (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -492,8 +493,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), data (4), [[Algorithms]] (2), traffic (1), [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (1)
 > **Analogies:** such as (3), it's like (1)
-> **Code Keywords:** let (2), continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -548,15 +549,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Security]] (2), data (1), [[Algorithms]] (1), business (1)
 > **Ports:** :16 (1), :45 (1), :35 (1)
-> **Code Keywords:** case, (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Maintain a Vigilant Posture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980)
@@ -629,7 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (8), data (3), [[Security]] (2), application (2), [[Microsoft]] (1)
 > **UI Navigation:** scroll down (2), select the (1), open the (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** in the last (1)
@@ -705,9 +706,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (4), database (3), data (3), power (2), [[Security]] (2)
 > **Env Vars:** stix (3), taxii (3), cve (2)
 > **Definitions:** is a  (3), short for (2), is an  (1)
-> **Code Keywords:** let (4)
 > **Analogies:** such as (2), for example (2)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Code Identifiers:** expression (1), exchange (1)
@@ -766,7 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (4), data (3), [[Security]] (3), open-source (1), web (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -852,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), management (2), business (1), application (1), power (1)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** require (1), let (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -883,7 +884,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **UI Navigation:** go to (1), scroll down (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [presenter] (1)
 
 #### Solution: Hardening guide
@@ -907,14 +907,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Summarize Hacking Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the cyber kill chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/understanding-the-cyber-kill-chain?u=76281980)
@@ -1009,8 +1009,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Security]] (1), dns (1), next (1), [[Phishing]] (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), install (1)
@@ -1079,8 +1079,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
 > **Env Vars:** mitre (9), att (6)
-> **Code Keywords:** let (4)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
@@ -1159,7 +1159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), include, (1)
+> **Frameworks & Libraries:** [[Security]] (2), next (1), [[Metadata]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** go to (1)
@@ -1252,8 +1252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (17), data (6), [[Statistics]] (4), [[Security]] (1), application (1)
 > **Env Vars:** dns (17)
-> **Code Keywords:** let (3), interface (2), case, (2), protected (1), finally, (1)
 > **UI Navigation:** go to (3), scroll down (2)
 > **Tools:** command line (2)
 > **URLs:** [espn.com](https://espn.com) (1)
@@ -1358,7 +1358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (2), case, (1)
+> **Frameworks & Libraries:** traffic (2), next (2), [[Wireshark]] (1), [[Phishing]] (1), [[Security]] (1)
 > **Env Vars:** pcap (1), suricata (1), smtp (1), ssl (1), dns (1)
 > **UI Navigation:** go to (3), scroll down (2), select the (1)
 > **Analogies:** such as (3), for instance (1), for example (1)
@@ -1395,8 +1395,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (4), scroll down (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1454,7 +1454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), next (1), [[Microsoft Word|Word]] (1), [[Engineering]] (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** such as (1)
@@ -1463,7 +1463,7 @@ created: 2026-04-29
 
 ### 4. Review Security Laws and Standards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-risks?u=76281980)
@@ -1526,7 +1526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), function (1)
+> **Frameworks & Libraries:** business (1), [[Security]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
@@ -1615,9 +1615,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (3), [[Databases]] (2), [[Hardware]] (2), database (2)
 > **Env Vars:** pci (3), dss (3), cis (1)
 > **Analogies:** for example (4), such as (3)
-> **Code Keywords:** let (3), this, (2)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** scroll down (2)
 > **Versions:** 2.4 (1)
@@ -1681,9 +1681,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), data (3), management (3), [[Privacy]] (1), business (1)
 > **Env Vars:** fisma (4), iso (4), iec (4)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **URLs:** [nist.org](https://nist.org) (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -1743,7 +1743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (3), protected (1), include: (1)
+> **Frameworks & Libraries:** data (4), [[Security]] (2), [[Accountability]] (1), [[Privacy]] (1), management (1)
 > **Env Vars:** sox (5), hipaa (3), ceo (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** good practice (2)
@@ -1809,8 +1809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Security]] (2), [[Privacy]] (1), database (1)
 > **Env Vars:** gdpr (5), pci (3), dss (3), pcidss (1), dpa (1)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1841,9 +1841,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIST]] (1)
 > **UI Navigation:** go to (4), open the (1)
 > **Versions:** 2.1 (1), 2.2 (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nist (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1890,7 +1890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[NIST]] (1), next (1), management (1), [[Probability]] (1)
 > **Env Vars:** nist (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1898,7 +1898,7 @@ created: 2026-04-29
 
 ### 5. Support Ethical Hacking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing attack types and motives
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/comparing-attack-types-and-motives?u=76281980)
@@ -1959,8 +1959,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Hardware]] (1), [[Engineering]] (1), database (1), power (1)
 > **Analogies:** such as (5)
-> **Code Keywords:** let (4)
 > **Speakers:** - [instructor] (1)
 
 #### Outlining the types of hackers
@@ -2034,7 +2034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (1), public (1), protected (1), function (1)
+> **Frameworks & Libraries:** web (6), [[Security]] (1), [[Search]] (1), [[Google]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2102,8 +2102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (8), [[Soft Skills]] (2), [[Windows]] (1), [[Linux]] (1), [[Android]] (1)
 > **CLI Commands:** find (2), python (1)
-> **Code Keywords:** let (3)
 > **Tools:** bash (1), powershell (1)
 > **Analogies:** such as (2)
 > **Definitions:** refers to (1)
@@ -2197,7 +2197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), var (1), delete (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Ethical Hacking]] (2), data (2), [[Linux]] (2), application (2)
 > **Env Vars:** tcp (2), var (1)
 > **Best Practices:** the key is (3)
 > **CLI Commands:** make (1), find (1)
@@ -2271,8 +2271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (8), [[Penetration Testing]] (1), [[Security]] (1), next (1), [[Engineering]] (1)
 > **Analogies:** such as (3), picture (1)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2280,7 +2280,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/next-steps?u=76281980)
@@ -2309,6 +2309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (2), power (1)
 > **Env Vars:** mitre (1), att (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

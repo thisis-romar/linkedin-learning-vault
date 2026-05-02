@@ -39,7 +39,7 @@ tags:
   - skill/react-js
   - skill/authentication-systems
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Authentication.md)
@@ -58,72 +58,72 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Secure authentication practices in React
-  - The structure of this course
+  - [Secure authentication practices in React](#secure-authentication-practices-in-react)
+  - [The structure of this course](#the-structure-of-this-course)
 - [**1. User Authentication Basics**](#1-user-authentication-basics) (16 videos)
-  - What is user authentication?
-  - Basic project setup
-  - Creating private React routes
-  - JSON Web Token basics
-  - Solution: Working with JSON Web Tokens
-  - Adding a sign-up route to the server
-  - Generating JSON Web Tokens
-  - Adding a log-in route to the server
-  - Adding JWTs to the front-end
-  - Parsing JWT data
-  - Adding JWTs to sign-up and log-in pages
-  - Adding JWTs to the user info page
-  - Adding an "update user" route
-  - Adding update functionality to the front-end
-  - State management for tokens
-  - Adding log-out functionality
+  - [What is user authentication?](#what-is-user-authentication)
+  - [Basic project setup](#basic-project-setup)
+  - [Creating private React routes](#creating-private-react-routes)
+  - [JSON Web Token basics](#json-web-token-basics)
+  - [Solution: Working with JSON Web Tokens](#solution-working-with-json-web-tokens)
+  - [Adding a sign-up route to the server](#adding-a-sign-up-route-to-the-server)
+  - [Generating JSON Web Tokens](#generating-json-web-tokens)
+  - [Adding a log-in route to the server](#adding-a-log-in-route-to-the-server)
+  - [Adding JWTs to the front-end](#adding-jwts-to-the-front-end)
+  - [Parsing JWT data](#parsing-jwt-data)
+  - [Adding JWTs to sign-up and log-in pages](#adding-jwts-to-sign-up-and-log-in-pages)
+  - [Adding JWTs to the user info page](#adding-jwts-to-the-user-info-page)
+  - [Adding an "update user" route](#adding-an-update-user-route)
+  - [Adding update functionality to the front-end](#adding-update-functionality-to-the-front-end)
+  - [State management for tokens](#state-management-for-tokens)
+  - [Adding log-out functionality](#adding-log-out-functionality)
 - [**2. Email Verification**](#2-email-verification) (8 videos)
-  - The basic email verification process
-  - Setting up an email provider
-  - Creating an email provider API key
-  - Sending emails from Node
-  - Integrating verification tokens
-  - Adding a "please verify email" page
-  - Adding a verify email route
-  - Creating a verification landing page
+  - [The basic email verification process](#the-basic-email-verification-process)
+  - [Setting up an email provider](#setting-up-an-email-provider)
+  - [Creating an email provider API key](#creating-an-email-provider-api-key)
+  - [Sending emails from Node](#sending-emails-from-node)
+  - [Integrating verification tokens](#integrating-verification-tokens)
+  - [Adding a "please verify email" page](#adding-a-please-verify-email-page)
+  - [Adding a verify email route](#adding-a-verify-email-route)
+  - [Creating a verification landing page](#creating-a-verification-landing-page)
 - [**3. Resetting Passwords**](#3-resetting-passwords) (5 videos)
-  - The basic password reset process
-  - Adding a "forgot password" page
-  - Sending a "reset password" email
-  - Creating a "reset password" landing page
-  - Adding a "reset password" server endpoint
+  - [The basic password reset process](#the-basic-password-reset-process)
+  - [Adding a "forgot password" page](#adding-a-forgot-password-page)
+  - [Sending a "reset password" email](#sending-a-reset-password-email)
+  - [Creating a "reset password" landing page](#creating-a-reset-password-landing-page)
+  - [Adding a "reset password" server endpoint](#adding-a-reset-password-server-endpoint)
 - [**4. OAuth**](#4-oauth) (8 videos)
-  - OAuth basics
-  - Setting up OAuth on Google
-  - Adding an OAuth URL route
-  - Creating a "sign-in with Google" button
-  - Adding an OAuth callback route
-  - Loading user info from Google
-  - Creating new users from OAuth data
-  - Handling successful OAuth authentication
+  - [OAuth basics](#oauth-basics)
+  - [Setting up OAuth on Google](#setting-up-oauth-on-google)
+  - [Adding an OAuth URL route](#adding-an-oauth-url-route)
+  - [Creating a "sign-in with Google" button](#creating-a-sign-in-with-google-button)
+  - [Adding an OAuth callback route](#adding-an-oauth-callback-route)
+  - [Loading user info from Google](#loading-user-info-from-google)
+  - [Creating new users from OAuth data](#creating-new-users-from-oauth-data)
+  - [Handling successful OAuth authentication](#handling-successful-oauth-authentication)
 - [**5. Prebuilt Auth Options**](#5-prebuilt-auth-options) (6 videos)
-  - Why prebuilt auth options?
-  - Authentication with Auth0
-  - Authentication with Firebase
-  - Authentication with NextAuth.js
-  - Authentication with Clerk
-  - Authentication with AWS
+  - [Why prebuilt auth options?](#why-prebuilt-auth-options)
+  - [Authentication with Auth0](#authentication-with-auth0)
+  - [Authentication with Firebase](#authentication-with-firebase)
+  - [Authentication with NextAuth.js](#authentication-with-nextauthjs)
+  - [Authentication with Clerk](#authentication-with-clerk)
+  - [Authentication with AWS](#authentication-with-aws)
 - [**6. Best Practices**](#6-best-practices) (7 videos)
-  - Using HTTPS and SSL
-  - Salting and peppering passwords
-  - Solution: Adding salt and pepper
-  - Never trust the front-end
-  - Authentication error handling
-  - Catching & handling errors
-  - Securing your database
+  - [Using HTTPS and SSL](#using-https-and-ssl)
+  - [Salting and peppering passwords](#salting-and-peppering-passwords)
+  - [Solution: Adding salt and pepper](#solution-adding-salt-and-pepper)
+  - [Never trust the front-end](#never-trust-the-front-end)
+  - [Authentication error handling](#authentication-error-handling)
+  - [Catching & handling errors](#catching-handling-errors)
+  - [Securing your database](#securing-your-database)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in your React journey
+  - [Next steps in your React journey](#next-steps-in-your-react-journey)
 - [**Appendix**](#appendix) (1 videos)
-  - A tour of Coderpad
+  - [A tour of Coderpad](#a-tour-of-coderpad)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure authentication practices in React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react?u=76281980)
@@ -146,7 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Speakers:** - if (1)
 
 #### The structure of this course
@@ -226,8 +226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** full-stack (4), [[React.js|React]] (4), [[JSON]] (2), [[MongoDB]] (1), database (1)
 > **Env Vars:** mern (3), json (2), ern (1)
-> **Code Keywords:** let (2), this, (1), private (1), finally, (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Exercise Files:** template (2)
@@ -237,7 +237,7 @@ created: 2026-04-29
 
 ### 1. User Authentication Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is user authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980)
@@ -350,8 +350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Security]] (2), [[Google]] (1)
 > **Analogies:** such as (4), for example (2), imagine (1), it's like (1)
-> **Code Keywords:** let (3), this, (1), finally, (1), require (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** otp (3), pin (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -427,10 +427,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[npm]] (3), application (2), database (2), [[JSON]] (2)
 > **Prerequisites:** install (4), set up (2), setup (2)
 > **CLI Commands:** npm (3), node (2), make (1)
 > **File Paths:** node.js (1), db.js (1), server.js (1)
-> **Code Keywords:** let (1), function (1), this, (1)
 > **Tools:** terminal (3)
 > **Env Vars:** json (2)
 > **Exercise Files:** exercise files (2)
@@ -619,7 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (11), let (7), this, (4), for. (2), const (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), dom (3), [[Routing]] (1), next (1), application (1)
 > **Code Identifiers:** isallowed (10), redirectpath (3)
 > **CLI Commands:** make (7)
 > **Prerequisites:** set up (3), install (1)
@@ -821,8 +821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (13), [[JSON]] (12), web (7), next (6), database (5)
 > **Env Vars:** json (12), jwt (9), xml (2), hs256 (1), https (1)
-> **Code Keywords:** private (6), let (4), this. (2), finally, (2), public (1)
 > **Definitions:** means that (3), is an  (2), in other words (2)
 > **Analogies:** for example (5), such as (1), similar to (1)
 > **CLI Commands:** make (5)
@@ -885,8 +885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** jwt (5), json (2), url (1), uri (1), iat (1)
-> **Code Keywords:** let (2), try. (1), function (1), const (1), this, (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1176,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), const (7), require (3), this, (3), public (3)
+> **Frameworks & Libraries:** database (16), [[JSON]] (5), api (2), next (2), [[Search]] (2)
 > **CLI Commands:** make (13), find (2), npm (2), node (1)
 > **Env Vars:** json (5), uuid (3), api (2), npm (2), url (2)
 > **Tools:** terminal (3), postman (2)
@@ -1326,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (2), this. (1), this, (1), import. (1)
+> **Frameworks & Libraries:** data (5), database (4), [[npm]] (1), [[Microsoft Word|Word]] (1), [[Databases]] (1)
 > **Env Vars:** secret (3), jwt (2), jwt_secret (1)
 > **CLI Commands:** make (2), npm (1), node (1)
 > **Code Identifiers:** expiresin (2), savedb (1), isverified (1)
@@ -1442,7 +1442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), const (3), try. (2), await (1), pass (1)
+> **Frameworks & Libraries:** database (3), api (1), next (1), [[JSON]] (1), web (1)
 > **CLI Commands:** make (3), find (2)
 > **URLs:** [gmail.com](https://gmail.com) (1)
 > **API Endpoints:** /api/login (1)
@@ -1546,8 +1546,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), next (4), web (3), [[Tokens]] (1), front-end (1)
 > **Code Identifiers:** usetoken (7), useuser (3), settoken (3), newtoken (3), usestate (2)
-> **Code Keywords:** function (4), this. (2), const (1)
 > **Env Vars:** json (4)
 > **CLI Commands:** make (3)
 > **File Paths:** usetoken.js (1), useuser.js (1)
@@ -1643,8 +1643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (3), next (2), data (2), [[React.js|React]] (1), [[Tokens]] (1)
 > **Code Identifiers:** getpayloadfromtoken (5), usetoken (4), setuser (4), useuser (3), useeffect (3)
-> **Code Keywords:** function (6), const (3), finally, (2), let (1), this. (1)
 > **Env Vars:** json (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
@@ -1753,8 +1753,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), api (2), [[Representational State Transfer (REST)|Rest]] (2), [[React.js|React]] (1), [[Codespaces]] (1)
 > **Code Identifiers:** usetoken (8), settoken (3), useuser (2), onloginclicked (2), passwordvalue (2)
-> **Code Keywords:** let (7), const (3), while, (1), await (1)
 > **CLI Commands:** make (10), npm (1)
 > **Prerequisites:** install (3), setup (1)
 > **API Endpoints:** /api/login (1)
@@ -1995,7 +1995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), const (3), public (3), delete (3), private (2)
+> **Frameworks & Libraries:** database (4), [[JSON]] (4), node (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** useuser (9), favoritefood (2), haircolor (2)
 > **CLI Commands:** make (7), node (2), cd (1), npm (1), find (1)
 > **File Paths:** db.json (3), server.js (2), db.js (1), database.json (1)
@@ -2195,7 +2195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (8), this, (5), function (4), case, (3), if ( (3)
+> **Frameworks & Libraries:** [[JSON]] (11), web (7), next (2), data (2), database (2)
 > **Code Identifiers:** favoritefood (7), haircolor (6), userid (3), sendstatus (1), savedb (1)
 > **CLI Commands:** make (12), find (5)
 > **Env Vars:** json (9), jwt (3), jwt_secret (2), url (1)
@@ -2315,7 +2315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), const (3), function (2), this. (2), await (1)
+> **Frameworks & Libraries:** data (3), api (2), hit (2), application (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** api (2)
 > **Cross-References:** go back to (2)
@@ -2497,8 +2497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), front-end (3), [[Codespaces]] (3), management (2), [[React.js|React]] (2)
 > **Code Identifiers:** usetoken (8), usestate (3), usecontext (3), useuser (2), createcontex (1)
-> **Code Keywords:** let (7), import { (1), pass (1), this, (1), delete (1)
 > **CLI Commands:** make (6)
 > **File Paths:** tokencontext.jsx (2), main.jsx (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2599,7 +2599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1)
+> **Frameworks & Libraries:** application (3), hit (2), [[JSON]] (2), functional (1)
 > **Code Identifiers:** localstorage (2), logout (1), settoken (1), newtoken (1), removeitem (1)
 > **File Paths:** db.json (2)
 > **CLI Commands:** make (2)
@@ -2611,7 +2611,7 @@ created: 2026-04-29
 
 ### 2. Email Verification
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basic email verification process
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-email-verification-process?u=76281980)
@@ -2658,8 +2658,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), next (2), database (2), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2751,7 +2751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), from. (1), finally, (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), business (1), [[LinkedIn]] (1), hit (1)
 > **Prerequisites:** set up (2), setup (2)
 > **URLs:** [xyzcompany.com](https://xyzcompany.com) (1), [gmail.com](https://gmail.com) (1)
 > **File Paths:** node.js (1)
@@ -2843,11 +2843,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), [[Codespaces]] (3), application (2), [[Node.js]] (2), [[React.js|React]] (2)
 > **Env Vars:** api (5), sendgrid_api_key (2), jwt_secret (1), jwt (1), npm (1)
 > **CLI Commands:** node (2), npm (2), make (1)
 > **UI Navigation:** click on (2), go to (2), select the (1)
 > **Prerequisites:** set up (3), install (2)
-> **Code Keywords:** let (3), from. (1)
 > **Tools:** github (2), terminal (1)
 > **File Paths:** node.js (2)
 > **Cross-References:** go back to (2)
@@ -3027,7 +3027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (6), function (5), const (4), from, (3)
+> **Frameworks & Libraries:** [[HTML]] (6), api (4), next (4), [[LinkedIn]] (2), [[Node.js]] (2)
 > **Code Identifiers:** sendemail (12), testsendemail (2), setapikey (1)
 > **Env Vars:** api (4), html (4), npm (1), sendgrid_api_key (1), es6 (1)
 > **CLI Commands:** make (3), node (3), npm (1), cd (1)
@@ -3211,7 +3211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), public (3), function (2), this, (2), const (1)
+> **Frameworks & Libraries:** next (7), database (2), application (1), [[JSON]] (1), web (1)
 > **Code Identifiers:** verificationstring (3), isverified (1), sendstatus (1), sendemail (1), testsendemail (1)
 > **CLI Commands:** make (3), find (1), cd (1), npm (1), node (1)
 > **Env Vars:** url (6), json (1)
@@ -3271,7 +3271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1), navigate to (1)
 > **URLs:** [gmail.com](https://gmail.com) (1)
@@ -3387,8 +3387,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[JSON]] (2), application (1), api (1), web (1)
 > **Code Identifiers:** verificationstring (8), isverified (3), expiresin (1)
-> **Code Keywords:** let (4), const (3), async (2), return, (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** url (1), jwt (1), json (1), jwt_secret (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -3509,7 +3509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (3), this, (1)
+> **Frameworks & Libraries:** application (2), [[LinkedIn]] (1), [[JSON]] (1), web (1)
 > **Env Vars:** abc123 (2), jsx (1), url (1), json (1)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (3)
@@ -3521,7 +3521,7 @@ created: 2026-04-29
 
 ### 3. Resetting Passwords
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basic password reset process
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-password-reset-process?u=76281980)
@@ -3558,7 +3558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** next (2), application (1), feature (1), database (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -3598,7 +3598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
@@ -3729,7 +3729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), const (3), this, (2), this. (1), async (1)
+> **Frameworks & Libraries:** next (3), api (1), node (1), [[LinkedIn]] (1)
 > **Code Identifiers:** passwordresetcode (4), sendstatus (2), sendemail (1)
 > **CLI Commands:** find (3), make (2), node (1)
 > **Env Vars:** url (2), uuid (1)
@@ -3797,8 +3797,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), application (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (2)
 > **Env Vars:** url (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -3930,8 +3930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** front-end (5), application (2), database (2), [[LinkedIn]] (2), [[JSON]] (2)
 > **Code Identifiers:** passwordresetcode (11), newpasswordhash (3), newpassword (2), sendstatus (2), passwordhash (2)
-> **Code Keywords:** let (10), const (4), this, (2), await (1), delete (1)
 > **CLI Commands:** find (3), make (3)
 > **Cross-References:** go back to (5), as we saw (1)
 > **URLs:** [gmail.com](https://gmail.com) (3)
@@ -3942,7 +3942,7 @@ created: 2026-04-29
 
 ### 4. OAuth
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OAuth basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980)
@@ -4023,8 +4023,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (5), [[LinkedIn]] (2), database (2), [[JSON]] (1), web (1)
 > **Env Vars:** url (5), json (1)
-> **Code Keywords:** let (2), this. (1), this, (1), finally, (1)
 > **Analogies:** for example (3), such as (1)
 > **Versions:** 2.0 (1), 1.0 (1)
 > **CLI Commands:** make (1)
@@ -4227,7 +4227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), from, (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Google]] (18), next (6), application (4), data (4), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **UI Navigation:** click on (4), dropdown (1), go to (1), select the (1)
 > **Prerequisites:** set up (4), configure (1)
 > **Env Vars:** url (2), gcp (1), uri (1)
@@ -4377,7 +4377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), const (3), function (3), require (1), this. (1)
+> **Frameworks & Libraries:** [[Google]] (11), next (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Codespaces]] (1), [[npm]] (1)
 > **Env Vars:** url (11), npm (1), google_client_id (1), api (1)
 > **Code Identifiers:** getgoogleoauthurl (3), oauthclient (2), googleoauthutil (1), generateauthurl (1)
 > **CLI Commands:** make (3), npm (1), node (1)
@@ -4527,7 +4527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), public (4), this. (3), const (3), async (2)
+> **Frameworks & Libraries:** [[Google]] (7), next (3), api (1), data (1), application (1)
 > **Code Identifiers:** googleoauthurl (3), setgoogleoauthurl (2), loadoauthurl (2), usestate (1), useeffect (1)
 > **Env Vars:** url (7), client_secret (1), client_id (1)
 > **UI Navigation:** scroll down (2), go to (1), open the (1), select the (1)
@@ -4635,7 +4635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), const (2), async (1), function (1)
+> **Frameworks & Libraries:** [[Google]] (7), database (2), [[GitHub]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), api (1)
 > **Env Vars:** url (3), jwt (2), api (1)
 > **Analogies:** such as (1), kind of like (1), just like (1)
 > **Code Identifiers:** createduser (1), sendstatus (1)
@@ -4711,7 +4711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (2), const (2), pass (2), async (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Tokens]] (4), database (2), data (2), next (1)
 > **Code Identifiers:** getgoogleuser (3), oauthuserinfo (1), googleoauthutil (1), oauthclient (1), gettoken (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (1), https (1)
@@ -4859,7 +4859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), const (3), let (3), pass (2), case, (2)
+> **Frameworks & Libraries:** [[Google]] (12), database (3), application (1), front-end (1)
 > **Code Identifiers:** isverified (4), newuser (3), savedb (2), existinguser (1)
 > **CLI Commands:** make (3), find (2)
 > **File Paths:** server.js (2)
@@ -4977,8 +4977,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), [[Search]] (1), data (1), node (1), [[React.js|React]] (1)
 > **Code Identifiers:** oauthtoken (6), queryparams (2), useeffect (2), settoken (2), uselocation (1)
-> **Code Keywords:** const (4), let (3), pass (1), this, (1), while. (1)
 > **CLI Commands:** make (2), node (1)
 > **File Paths:** server.js (1), db.json (1)
 > **Cross-References:** go back to (2)
@@ -4989,7 +4989,7 @@ created: 2026-04-29
 
 ### 5. Prebuilt Auth Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why prebuilt auth options?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980)
@@ -5102,7 +5102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), static (1), for. (1), this, (1)
+> **Frameworks & Libraries:** application (7), next (3), [[Security]] (3), database (1), [[Scalability]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** setup (1)
@@ -5157,7 +5157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** application (2), [[React.js|React]] (2), [[Node.js]] (1), [[Google]] (1), [[Security]] (1)
 > **CLI Commands:** node (1), make (1)
 > **File Paths:** node.js (1)
 > **Prerequisites:** getting started (1)
@@ -5212,7 +5212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), finally, (1), for, (1), this. (1)
+> **Frameworks & Libraries:** [[Firebase]] (10), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), next (1), application (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -5269,8 +5269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Next.js]] (4), next (1), [[React.js|React]] (1), [[Node.js]] (1), [[Databases]] (1)
 > **File Paths:** nextauth.js (7), next.js (4), node.js (1)
-> **Code Keywords:** this, (1), this. (1), finally, (1)
 > **Env Vars:** sql (1), json (1)
 > **CLI Commands:** node (1)
 > **Documentation:** the documentation (1)
@@ -5321,8 +5321,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[Next.js]] (3), front-end (2), management (2), web (1)
 > **File Paths:** next.js (3), nextauth.js (2)
-> **Code Keywords:** let (2), case, (1), self (1), interface (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
@@ -5375,9 +5375,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Amazon Web Services (AWS)|Amazon web services]] (3), [[Representational State Transfer (REST)|Rest]] (1), application (1), [[Databases]] (1)
 > **CLI Commands:** aws (7), make (1)
 > **Env Vars:** aws (7), api (1)
-> **Code Keywords:** let (1), lambda (1)
 > **Analogies:** such as (1), just like (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -5385,7 +5385,7 @@ created: 2026-04-29
 
 ### 6. Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using HTTPS and SSL
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980)
@@ -5442,8 +5442,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), data (3), [[React.js|React]] (2), [[Google]] (2), full-stack (1)
 > **Env Vars:** https (12), ssl (6), tls (5), url (2), httpss (1)
-> **Code Keywords:** let (5), case, (1), public (1), this, (1), this. (1)
 > **Definitions:** in other words (3), stands for (2), means that (1), is a  (1)
 > **CLI Commands:** make (5), ls (1)
 > **Cross-References:** earlier in (1), we talked about (1)
@@ -5500,10 +5500,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** imagine (1), such as (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5572,7 +5572,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), try. (1), function (1), return, (1), const (1)
 > **Code Identifiers:** generaterandomsalt (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - all (1)
@@ -5663,8 +5662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), application (2), [[Security]] (2), database (2), [[JSON]] (1)
 > **CLI Commands:** make (9), find (2)
-> **Code Keywords:** let (4), this, (2), this. (2), if, (1), case, (1)
 > **Tools:** postman (4)
 > **Best Practices:** best practice (2), always make sure (1)
 > **Env Vars:** json (1), css (1)
@@ -5713,8 +5712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), database (2), [[User Experience (UX)|User experience]] (2)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** let (1), try. (1), for, (1), this. (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** best practice (1)
 > **Prerequisites:** set up (1)
@@ -5783,7 +5782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), function (1), throw (1), try. (1)
+> **Frameworks & Libraries:** application (2), data (1), hit (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** jsx (1)
 > **UI Navigation:** scroll down (1)
@@ -5831,8 +5830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[MongoDB]] (8), [[Security]] (4), [[SQL]] (2), data (2)
 > **CLI Commands:** make (2), mongo (1)
-> **Code Keywords:** default, (2), default. (1)
 > **Env Vars:** sql (2), json (1)
 > **Prerequisites:** setup (3)
 > **Analogies:** for example (2)
@@ -5843,7 +5842,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your React journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980)
@@ -5882,15 +5881,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (7), next (3), [[LinkedIn]] (3), full-stack (2), [[Design Patterns]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)
 
 
 ### Appendix
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A tour of Coderpad
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/a-tour-of-coderpad?u=76281980)
@@ -5917,7 +5916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), pass (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Speakers:** - [instructor] (1)
 
 

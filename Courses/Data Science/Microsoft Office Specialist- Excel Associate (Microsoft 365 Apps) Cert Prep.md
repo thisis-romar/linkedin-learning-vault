@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-office
   - skill/microsoft-365
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Microsoft%20Office%20Specialist-%20Excel%20Associate%20(Microsoft%20365%20Apps)%20Cert%20Prep.md)
@@ -47,72 +47,72 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Prove your Excel skills with a MOS certification
-  - Who should take this course?
-  - About the exercise files
-  - About the challenges
+  - [Prove your Excel skills with a MOS certification](#prove-your-excel-skills-with-a-mos-certification)
+  - [Who should take this course?](#who-should-take-this-course)
+  - [About the exercise files](#about-the-exercise-files)
+  - [About the challenges](#about-the-challenges)
 - [**1. Microsoft Office Specialist Exam Overview**](#1-microsoft-office-specialist-exam-overview) (2 videos)
-  - Different kinds of Microsoft Office Specialist certifications
-  - Prepare for the test and review learning objectives
+  - [Different kinds of Microsoft Office Specialist certifications](#different-kinds-of-microsoft-office-specialist-certifications)
+  - [Prepare for the test and review learning objectives](#prepare-for-the-test-and-review-learning-objectives)
 - [**2. Manage Worksheets and Workbooks**](#2-manage-worksheets-and-workbooks) (15 videos)
-  - Import TXT data into a new or existing workbook
-  - Import data from online sources
-  - Search for data within a workbook
-  - Navigate to named cells, ranges, or workbook elements
-  - Insert and remove hyperlinks
-  - Format worksheets and workbooks
-  - Customize headers and footers
-  - Manage the Quick Access Toolbar
-  - Display and modify worksheets in different views
-  - Modify built-in workbook properties
-  - Inspect and export workbooks
-  - Configure print settings
-  - Manage comments and notes
-  - Challenge: Manage worksheets and workbooks
-  - Solution: Manage worksheets and workbooks
+  - [Import TXT data into a new or existing workbook](#import-txt-data-into-a-new-or-existing-workbook)
+  - [Import data from online sources](#import-data-from-online-sources)
+  - [Search for data within a workbook](#search-for-data-within-a-workbook)
+  - [Navigate to named cells, ranges, or workbook elements](#navigate-to-named-cells-ranges-or-workbook-elements)
+  - [Insert and remove hyperlinks](#insert-and-remove-hyperlinks)
+  - [Format worksheets and workbooks](#format-worksheets-and-workbooks)
+  - [Customize headers and footers](#customize-headers-and-footers)
+  - [Manage the Quick Access Toolbar](#manage-the-quick-access-toolbar)
+  - [Display and modify worksheets in different views](#display-and-modify-worksheets-in-different-views)
+  - [Modify built-in workbook properties](#modify-built-in-workbook-properties)
+  - [Inspect and export workbooks](#inspect-and-export-workbooks)
+  - [Configure print settings](#configure-print-settings)
+  - [Manage comments and notes](#manage-comments-and-notes)
+  - [Challenge: Manage worksheets and workbooks](#challenge-manage-worksheets-and-workbooks)
+  - [Solution: Manage worksheets and workbooks](#solution-manage-worksheets-and-workbooks)
 - [**3. Manage Data Cells and Ranges**](#3-manage-data-cells-and-ranges) (11 videos)
-  - Paste data using special paste options
-  - Fill cells by using AutoFill
-  - Insert and delete columns, rows, and cells
-  - Format cells and ranges
-  - Generate random and sequential data using Functions
-  - Apply styles to cells and ranges
-  - Define and reference named ranges
-  - Insert sparklines
-  - Summarize data visually with built-in conditional formatting
-  - Challenge: Manage data, cells, and ranges
-  - Solution: Manage data, cells, and ranges
+  - [Paste data using special paste options](#paste-data-using-special-paste-options)
+  - [Fill cells by using AutoFill](#fill-cells-by-using-autofill)
+  - [Insert and delete columns, rows, and cells](#insert-and-delete-columns-rows-and-cells)
+  - [Format cells and ranges](#format-cells-and-ranges)
+  - [Generate random and sequential data using Functions](#generate-random-and-sequential-data-using-functions)
+  - [Apply styles to cells and ranges](#apply-styles-to-cells-and-ranges)
+  - [Define and reference named ranges](#define-and-reference-named-ranges)
+  - [Insert sparklines](#insert-sparklines)
+  - [Summarize data visually with built-in conditional formatting](#summarize-data-visually-with-built-in-conditional-formatting)
+  - [Challenge: Manage data, cells, and ranges](#challenge-manage-data-cells-and-ranges)
+  - [Solution: Manage data, cells, and ranges](#solution-manage-data-cells-and-ranges)
 - [**4. Manage Tables and Table Data**](#4-manage-tables-and-table-data) (5 videos)
-  - Create and format tables
-  - Modify tables
-  - Filter and sort table data
-  - Challenge: Manage tables and table data
-  - Solution: Manage tables and table data
+  - [Create and format tables](#create-and-format-tables)
+  - [Modify tables](#modify-tables)
+  - [Filter and sort table data](#filter-and-sort-table-data)
+  - [Challenge: Manage tables and table data](#challenge-manage-tables-and-table-data)
+  - [Solution: Manage tables and table data](#solution-manage-tables-and-table-data)
 - [**5. Perform Operations Using Formulas and Functions**](#5-perform-operations-using-formulas-and-functions) (11 videos)
-  - Insert relative, absolute, and mixed references
-  - Use structured references in formulas
-  - Using the AVERAGE(), MAX(), MIN(), and SUM() functions
-  - Count cells using the COUNT(), COUNTA(), and COUNTBLANK() functions
-  - Perform conditional operations using the IF() function
-  - Sort data and return unique values using the SORT() and UNIQUE() functions
-  - Format text using the RIGHT(), LEFT(), and MID() functions
-  - Format text using UPPER(), LOWER(), and LEN() functions
-  - Format text using the CONCAT() and TEXTJOIN() functions
-  - Challenge: Perform operations using formulas and functions
-  - Solution: Perform operations using formulas and functions
+  - [Insert relative, absolute, and mixed references](#insert-relative-absolute-and-mixed-references)
+  - [Use structured references in formulas](#use-structured-references-in-formulas)
+  - [Using the AVERAGE(), MAX(), MIN(), and SUM() functions](#using-the-average-max-min-and-sum-functions)
+  - [Count cells using the COUNT(), COUNTA(), and COUNTBLANK() functions](#count-cells-using-the-count-counta-and-countblank-functions)
+  - [Perform conditional operations using the IF() function](#perform-conditional-operations-using-the-if-function)
+  - [Sort data and return unique values using the SORT() and UNIQUE() functions](#sort-data-and-return-unique-values-using-the-sort-and-unique-functions)
+  - [Format text using the RIGHT(), LEFT(), and MID() functions](#format-text-using-the-right-left-and-mid-functions)
+  - [Format text using UPPER(), LOWER(), and LEN() functions](#format-text-using-upper-lower-and-len-functions)
+  - [Format text using the CONCAT() and TEXTJOIN() functions](#format-text-using-the-concat-and-textjoin-functions)
+  - [Challenge: Perform operations using formulas and functions](#challenge-perform-operations-using-formulas-and-functions)
+  - [Solution: Perform operations using formulas and functions](#solution-perform-operations-using-formulas-and-functions)
 - [**6. Manage Charts**](#6-manage-charts) (5 videos)
-  - Create and modify charts
-  - Add and modify chart elements
-  - Format charts
-  - Challenge: Manage charts
-  - Solution: Manage charts
+  - [Create and modify charts](#create-and-modify-charts)
+  - [Add and modify chart elements](#add-and-modify-chart-elements)
+  - [Format charts](#format-charts)
+  - [Challenge: Manage charts](#challenge-manage-charts)
+  - [Solution: Manage charts](#solution-manage-charts)
 - [**7. Final Practice Exam**](#7-final-practice-exam) (2 videos)
-  - Challenge: Full-length practice exam
-  - Solution: Full-length practice exam
+  - [Challenge: Full-length practice exam](#challenge-full-length-practice-exam)
+  - [Solution: Full-length practice exam](#solution-full-length-practice-exam)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prove your Excel skills with a MOS certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/prove-your-excel-skills-with-a-mos-certification?u=76281980)
@@ -133,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel]] (1), [[Microsoft 365]] (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** mos (1)
 > **Speakers:** - [jen] (1)
 
@@ -157,7 +158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft]] (2), application (1), [[LinkedIn]] (1), data (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -178,6 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Exercise Files:** exercise files (1), download the (1), exercise file (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** such as (1)
@@ -206,7 +208,7 @@ created: 2026-04-29
 
 ### 1. Microsoft Office Specialist Exam Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Different kinds of Microsoft Office Specialist certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/different-kinds-of-microsoft-office-specialist-certifications?u=76281980)
@@ -255,8 +257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Microsoft Office|Office]] (6), [[Microsoft Excel|Excel]] (5), [[Microsoft Office]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is an  (3)
-> **Code Keywords:** continue (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prepare for the test and review learning objectives
@@ -388,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (3), finally, (1)
+> **Frameworks & Libraries:** next (4), [[Microsoft Excel|Excel]] (3), [[Microsoft]] (3), [[JSON]] (1), web (1)
 > **Env Vars:** mos (3), csv (1), json (1), xml (1), pdf (1)
 > **CLI Commands:** make (4), find (2)
 > **URLs:** [certiport.com](https://certiport.com) (3)
@@ -400,7 +402,7 @@ created: 2026-04-29
 
 ### 2. Manage Worksheets and Workbooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Import TXT data into a new or existing workbook
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/import-txt-data-into-a-new-or-existing-workbook?u=76281980)
@@ -491,8 +493,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (5), next (2), product (2), [[LinkedIn]] (1)
 > **Env Vars:** csv (7), txt (2)
-> **Code Keywords:** let (4), case, (1), type, (1), import. (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (2)
@@ -627,8 +629,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[JSON]] (7), web (2), [[Microsoft Excel|Excel]] (2), next (1)
 > **Env Vars:** json (7), xml (6), pdf (4), url (3), fifa (1)
-> **Code Keywords:** let (8), import. (1)
 > **UI Navigation:** go to (5), click on (2), dropdown (1)
 > **File Paths:** movies.json (1)
 > **CLI Commands:** make (1)
@@ -733,8 +735,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Search]] (1)
 > **CLI Commands:** find (20), make (2)
-> **Code Keywords:** let (8), for. (1), for, (1), else. (1), case. (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -856,8 +858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), data (2), [[Microsoft Excel|Excel]] (1), hit (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (10), click on (5), select the (2), right-click (1)
-> **Code Keywords:** let (8), delete (2)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** a12 (1), a13 (1)
@@ -940,8 +942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** go to (4), right-click (2), click on (2), open the (1)
-> **Code Keywords:** let (4)
 > **Env Vars:** alb008 (2)
 > **Cross-References:** go back to (2)
 > **Definitions:** is an  (1)
@@ -1029,7 +1031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Prerequisites:** setup (7)
 > **UI Navigation:** go to (4), toggle (1)
 > **Versions:** 0.75 (1), 0.5 (1)
@@ -1139,8 +1141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (7), click on (3), scroll down (1)
-> **Code Keywords:** let (6), try. (1)
 > **Analogies:** such as (1), for instance (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** setup (1)
@@ -1245,8 +1247,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** dropdown (4), go to (3), toggle (1)
-> **Code Keywords:** let (4), default, (1)
 > **Env Vars:** qat (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1351,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), break, (1), this, (1), break. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), next (1)
 > **UI Navigation:** click on (4), go to (3), scroll down (3), scroll up (1)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (2), find (1)
@@ -1403,9 +1405,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Search]] (2)
 > **UI Navigation:** go to (4), dropdown (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1525,7 +1527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), for. (1), pass (1), case, (1), export, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (1)
 > **UI Navigation:** go to (4), click on (3), right-click (1), open the (1), dropdown (1)
 > **CLI Commands:** make (3), find (3)
 > **Env Vars:** pdf (3), csv (1)
@@ -1659,7 +1661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), hit (1), [[Microsoft Products|Products]] (1), product (1)
 > **CLI Commands:** make (10)
 > **UI Navigation:** go to (5), click on (2)
 > **Prerequisites:** configure (2), set up (1), setup (1)
@@ -1774,7 +1776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (5), this. (2), this, (1), function (1)
+> **Frameworks & Libraries:** [[SharePoint]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Env Vars:** m365 (1)
 > **Definitions:** is a  (1)
@@ -1841,9 +1843,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** open the (2), go to (2), navigate to (1), scroll down (1), click on (1)
 > **Exercise Files:** exercise file (1), exercise files (1), download the (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** pdf (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -2093,7 +2095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), for. (1), import. (1)
+> **Frameworks & Libraries:** next (5), product (2), data (2), [[Microsoft 365|M365]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (12), click on (3), scroll down (2), dropdown (2), toggle (1)
 > **Env Vars:** b14 (3), pdf (3), m365 (1), c12 (1), mos (1)
 > **CLI Commands:** make (7), find (1)
@@ -2105,7 +2107,7 @@ created: 2026-04-29
 
 ### 3. Manage Data Cells and Ranges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Paste data using special paste options
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/paste-data-using-special-paste-options?u=76281980)
@@ -2194,7 +2196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** data (4), hit (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1), select the (1), dropdown (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mos (1), e10 (1)
@@ -2283,7 +2285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), feature (1)
 > **UI Navigation:** go to (3), click on (1), double-click (1)
 > **Analogies:** for instance (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2379,7 +2381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (3), continue (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** right-click (4), select the (2), go to (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** mos (1)
@@ -2472,7 +2474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
 > **UI Navigation:** click on (2), double-click (1)
 > **Env Vars:** a13 (1), mos (1)
 > **Definitions:** is a  (2)
@@ -2590,7 +2592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (4), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), hit (3), data (1)
 > **Env Vars:** sequence (4), randbetween (3), time (2)
 > **Ports:** :00 (3)
 > **CLI Commands:** make (2)
@@ -2778,7 +2780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (2), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** click on (3), select the (2), dropdown (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), for instance (1)
@@ -2863,8 +2865,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), hit (2), product (2), data (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), click on (2), dropdown (1)
-> **Code Keywords:** let (3), this. (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -2956,7 +2958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (1)
+> **Frameworks & Libraries:** data (4), hit (1)
 > **UI Navigation:** select the (2), dropdown (1), go to (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1), for instance (1)
@@ -3029,7 +3031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** data (4)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
@@ -3169,8 +3171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), data (2), hit (1)
 > **Env Vars:** a12 (3), g12 (2), h16 (2), b14 (1), b41 (1)
-> **Code Keywords:** let (5), delete (1)
 > **UI Navigation:** go to (5), click on (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -3181,7 +3183,7 @@ created: 2026-04-29
 
 ### 4. Manage Tables and Table Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and format tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/create-and-format-tables?u=76281980)
@@ -3322,7 +3324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (1), hit (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1)
@@ -3389,8 +3391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), feature (1)
 > **UI Navigation:** right-click (2), go to (1), click on (1), select the (1), dropdown (1)
-> **Code Keywords:** let (3)
 > **Versions:** 25.5 (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -3486,7 +3488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2), next (1)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -3600,8 +3602,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (3), click on (2)
-> **Code Keywords:** let (3), delete (1)
 > **Env Vars:** a13 (1)
 > **Versions:** 33.79 (1)
 > **Cross-References:** go back to (1)
@@ -3612,7 +3614,7 @@ created: 2026-04-29
 
 ### 5. Perform Operations Using Formulas and Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Insert relative, absolute, and mixed references
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/insert-relative-absolute-and-mixed-references?u=76281980)
@@ -3751,7 +3753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), from. (2), for. (1), delete (1)
+> **Frameworks & Libraries:** hit (4), [[Microsoft Excel|Excel]] (1), next (1)
 > **Env Vars:** c10 (2), d10 (2), f14 (2), f10 (2), e14 (1)
 > **UI Navigation:** click on (5), go to (1)
 > **CLI Commands:** make (3)
@@ -3869,7 +3871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (2)
+> **Frameworks & Libraries:** hit (5), [[Microsoft Excel|Excel]] (2), data (1), next (1)
 > **UI Navigation:** go to (2), click on (2), select the (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (1)
@@ -3927,7 +3929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3)
+> **Frameworks & Libraries:** hit (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (2), scroll up (1)
 > **Env Vars:** d20 (1)
 > **Analogies:** such as (1)
@@ -3994,8 +3996,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Microsoft Excel|Excel]] (1), data (1)
 > **Env Vars:** counta (3), countblank (3), count (2), d22 (1), f14 (1)
-> **Code Keywords:** let (4), function (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4080,7 +4082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1), [[Microsoft Word|Word]] (1), hit (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -4188,7 +4190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), hit (4), data (3), product (3), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** unique (3), b913 (1), mos (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -4297,7 +4299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), hit (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -4367,7 +4369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4)
+> **Frameworks & Libraries:** hit (2)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [speaker] (1)
@@ -4445,9 +4447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), next (1)
 > **Env Vars:** textjoin (8), concat (5)
-> **Code Keywords:** let (5), type
-= (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
@@ -4590,7 +4591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), delete (2), if, (1)
+> **Frameworks & Libraries:** hit (5), next (4), data (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** double-click (1), select the (1)
 > **Versions:** 108.91 (1)
@@ -4602,7 +4603,7 @@ created: 2026-04-29
 
 ### 6. Manage Charts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and modify charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/create-and-modify-charts?u=76281980)
@@ -4721,7 +4722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (4), type, (1), type. (1), default, (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (3), [[Microsoft Products|Products]] (1), product (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
@@ -4826,7 +4827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11)
+> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (4), hit (1), product (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -4921,7 +4922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), product (1)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** mos (2)
@@ -5042,7 +5043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (1), delete (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (1), next (1)
 > **UI Navigation:** go to (7)
 > **Cross-References:** go back to (3)
 > **Exercise Files:** exercise file (1)
@@ -5051,7 +5052,7 @@ created: 2026-04-29
 
 ### 7. Final Practice Exam
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Full-length practice exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/challenge-full-length-practice-exam?u=76281980)

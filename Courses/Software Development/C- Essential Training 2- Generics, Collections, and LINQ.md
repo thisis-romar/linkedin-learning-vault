@@ -33,7 +33,7 @@ tags:
   - skill/language-integrated-query-linq
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Essential%20Training%202-%20Generics%2C%20Collections%2C%20and%20LINQ.md)
@@ -52,61 +52,61 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Essentials deep dive
-  - What you should know
-  - CoderPad tour
+  - [Essentials deep dive](#essentials-deep-dive)
+  - [What you should know](#what-you-should-know)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. Generics**](#1-generics) (5 videos)
-  - Understanding generics
-  - Working with generics
-  - Defining generic types and methods
-  - Generic constraints
-  - Solution: Generic type with constraints
+  - [Understanding generics](#understanding-generics)
+  - [Working with generics](#working-with-generics)
+  - [Defining generic types and methods](#defining-generic-types-and-methods)
+  - [Generic constraints](#generic-constraints)
+  - [Solution: Generic type with constraints](#solution-generic-type-with-constraints)
 - [**2. Working with Collections**](#2-working-with-collections) (6 videos)
-  - Understanding collection types in the BCL
-  - Choosing the right collection type
-  - Working with collections
-  - Working with keyed collections
-  - Understanding concurrent collections
-  - Solution: Choose the right collection
+  - [Understanding collection types in the BCL](#understanding-collection-types-in-the-bcl)
+  - [Choosing the right collection type](#choosing-the-right-collection-type)
+  - [Working with collections](#working-with-collections)
+  - [Working with keyed collections](#working-with-keyed-collections)
+  - [Understanding concurrent collections](#understanding-concurrent-collections)
+  - [Solution: Choose the right collection](#solution-choose-the-right-collection)
 - [**3. Exception Handling**](#3-exception-handling) (6 videos)
-  - Basics of try-catch-finally
-  - Exception filtering by type with catch
-  - Exception filtering with when
-  - Throwing and rethrowing exceptions
-  - Creating custom exceptions
-  - Solution: Multiple exception types
+  - [Basics of try-catch-finally](#basics-of-try-catch-finally)
+  - [Exception filtering by type with catch](#exception-filtering-by-type-with-catch)
+  - [Exception filtering with when](#exception-filtering-with-when)
+  - [Throwing and rethrowing exceptions](#throwing-and-rethrowing-exceptions)
+  - [Creating custom exceptions](#creating-custom-exceptions)
+  - [Solution: Multiple exception types](#solution-multiple-exception-types)
 - [**4. Programming Threads with async and await**](#4-programming-threads-with-async-and-await) (5 videos)
-  - Threading basics
-  - Basics of using async and await
-  - Task management
-  - Handling errors when using await
-  - Solution: Task management
+  - [Threading basics](#threading-basics)
+  - [Basics of using async and await](#basics-of-using-async-and-await)
+  - [Task management](#task-management)
+  - [Handling errors when using await](#handling-errors-when-using-await)
+  - [Solution: Task management](#solution-task-management)
 - [**5. Delegates and Events**](#5-delegates-and-events) (7 videos)
-  - Understanding delegates
-  - Understanding events
-  - Common delegates with Action<T> and Func<T>
-  - Understanding lambda expressions
-  - Expressions as delegates
-  - Other uses for expressions
-  - Solution: Delegate using Func<T>
+  - [Understanding delegates](#understanding-delegates)
+  - [Understanding events](#understanding-events)
+  - [Common delegates with Action<T> and Func<T>](#common-delegates-with-actiont-and-funct)
+  - [Understanding lambda expressions](#understanding-lambda-expressions)
+  - [Expressions as delegates](#expressions-as-delegates)
+  - [Other uses for expressions](#other-uses-for-expressions)
+  - [Solution: Delegate using Func<T>](#solution-delegate-using-funct)
 - [**6. Extension Methods**](#6-extension-methods) (5 videos)
-  - The case for extension methods
-  - Writing an extension method
-  - Using an extension method
-  - Common extension methods on collections
-  - Solution: Extension method
+  - [The case for extension methods](#the-case-for-extension-methods)
+  - [Writing an extension method](#writing-an-extension-method)
+  - [Using an extension method](#using-an-extension-method)
+  - [Common extension methods on collections](#common-extension-methods-on-collections)
+  - [Solution: Extension method](#solution-extension-method)
 - [**7. Language Integrated Query (LINQ)**](#7-language-integrated-query-linq) (5 videos)
-  - Understand the purpose of LINQ
-  - Querying collections with LINQ
-  - Filtering and ordering queries
-  - Other sources for LINQ
-  - Solution: LINQ query to filter and sort
+  - [Understand the purpose of LINQ](#understand-the-purpose-of-linq)
+  - [Querying collections with LINQ](#querying-collections-with-linq)
+  - [Filtering and ordering queries](#filtering-and-ordering-queries)
+  - [Other sources for LINQ](#other-sources-for-linq)
+  - [Solution: LINQ query to filter and sort](#solution-linq-query-to-filter-and-sort)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Build something and continue learning
+  - [Build something and continue learning](#build-something-and-continue-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Essentials deep dive
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/essentials-deep-dive?u=76281980)
@@ -125,8 +125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), generic (1), [[Language Integrated Query (LINQ)|Language integrated query]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** lambda (1), continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -168,12 +168,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Windows]] (3), [[LinkedIn]] (1)
 > **Tools:** visual studio (7)
 > **Env Vars:** net (3)
 > **Analogies:** for example (1), similar to (1)
 > **Prerequisites:** prerequisite (1), setup (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -230,7 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), type, (1), try. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -238,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Generics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-generics?u=76281980)
@@ -393,7 +393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (3), type. (3), type, (2), interface (1)
+> **Frameworks & Libraries:** generic (2), [[LinkedIn]] (1), application (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -488,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (3), this. (3), default. (3), type, (2), default, (2)
+> **Frameworks & Libraries:** generic (12), [[JSON]] (11), [[Git]] (4), [[JavaScript]] (1)
 > **Env Vars:** json (10), var (1)
 > **CLI Commands:** git (4), make (1)
 > **Definitions:** is a  (3)
@@ -663,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (10), let (5), type, (5), this, (5), pass (5)
+> **Frameworks & Libraries:** generic (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), similar to (1), just like (1)
@@ -804,7 +804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (3), class. (2), interface (2), class, (2)
+> **Frameworks & Libraries:** generic (3), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** stands for (2)
 > **Analogies:** for example (1), similar to (1)
@@ -849,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), implements (1), interface (1)
+> **Frameworks & Libraries:** generic (1)
 > **Code Identifiers:** findlargest (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -859,7 +859,7 @@ created: 2026-04-29
 
 ### 2. Working with Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding collection types in the BCL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-collection-types-in-the-bcl?u=76281980)
@@ -1020,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (3), type. (2), pass (2), implements (2)
+> **Frameworks & Libraries:** [[Programming]] (3), next (2), generic (1), [[Microsoft Word|Word]] (1)
 > **Tools:** notion (3)
 > **Env Vars:** f12 (2)
 > **UI Navigation:** go to (2)
@@ -1172,7 +1172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), interface (2), implements (1), let (1), break. (1)
+> **Frameworks & Libraries:** generic (6), management (1), [[Programming Concepts]] (1)
 > **Env Vars:** net (3), http (1)
 > **Cross-References:** go back to (1), in the last (1)
 > **Tools:** notion (1)
@@ -1364,7 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), class. (2), case, (2), let (1), struct (1)
+> **Frameworks & Libraries:** next (2), generic (1), feature (1)
 > **CLI Commands:** find (10)
 > **Code Identifiers:** customerthree (1), customerseven (1)
 > **Cross-References:** go back to (2)
@@ -1520,7 +1520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), var (2), this, (2), let (2), finally, (1)
+> **Frameworks & Libraries:** generic (2), next (1)
 > **CLI Commands:** find (4), go run (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** keyfound (1)
@@ -1538,7 +1538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1)
+> **Frameworks & Libraries:** concurrent (1)
 
 #### Solution: Choose the right collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-choose-the-right-collection?u=76281980)
@@ -1585,7 +1585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), private (1), static (1), this, (1), if, (1)
+> **Frameworks & Libraries:** product (6), generic (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1593,7 +1593,7 @@ created: 2026-04-29
 
 ### 3. Exception Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of try-catch-finally
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980)
@@ -1718,7 +1718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** catch. (4), throw (2), finally. (2), class, (1), try, (1)
+> **Frameworks & Libraries:** [[JSON]] (7), [[LinkedIn]] (1), [[JavaScript]] (1), [[SQL]] (1), database (1)
 > **Code Identifiers:** rightpath (6), filestream (6), wrongpath (4), tostring (1), filestreams (1)
 > **Env Vars:** json (5), net (2), sql (1)
 > **CLI Commands:** make (4), find (2)
@@ -1818,7 +1818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), this. (1), this, (1), case. (1)
+> **Frameworks & Libraries:** [[JSON]] (6), hit (1), generic (1)
 > **Env Vars:** json (6)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1926,8 +1926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (12), hit (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (12)
-> **Code Keywords:** let (6), type. (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2075,7 +2075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (15), let (4), pass (3), this. (3), case, (2)
+> **Frameworks & Libraries:** application (5), next (1)
 > **Code Identifiers:** shouldthrow (5)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -2201,7 +2201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (12), let (4), pass (4), class. (2), case, (2)
+> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** ctor (2)
@@ -2281,7 +2281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (3), pass (2), let (1), try. (1), this. (1)
+> **Frameworks & Libraries:** application (3), generic (1)
 > **Env Vars:** nre (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2289,7 +2289,7 @@ created: 2026-04-29
 
 ### 4. Programming Threads with async and await
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Threading basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/threading-basics?u=76281980)
@@ -2422,7 +2422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), this, (1), continue (1)
+> **Frameworks & Libraries:** application (6), [[Programming]] (3), next (1), [[JSON]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** json (1)
@@ -2573,7 +2573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (10), async (7), type, (2), this. (2), pass (1)
+> **Frameworks & Libraries:** [[Programming]] (3), [[JSON]] (2), generic (2), next (2)
 > **Analogies:** for example (2), just like (2), similar to (2), kind of like (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** json (2)
@@ -2691,7 +2691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (9), await (8), let (3), case, (1), function (1)
+> **Frameworks & Libraries:** next (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2814,7 +2814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (7), async (3), let (3), catch. (2), try. (2)
+> **Frameworks & Libraries:** [[JSON]] (6), next (1)
 > **Env Vars:** json (6), net (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is an  (1), is a  (1)
@@ -2858,7 +2858,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), type, (1), return, (1), this, (1), function (1)
 > **Code Identifiers:** tmin (3), tmax (3)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1)
@@ -2867,7 +2866,7 @@ created: 2026-04-29
 
 ### 5. Delegates and Events
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding delegates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-delegates?u=76281980)
@@ -2970,7 +2969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), function (5), public (3), class, (2), static (2)
+> **Frameworks & Libraries:** [[Debugging]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -3155,7 +3154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (4), raise (3), static (3), case, (2)
+> **Frameworks & Libraries:** hit (3), [[React.js|React]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** f10 (1)
@@ -3284,7 +3283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (10), function (8), let (5), static (2), this. (1)
+> **Frameworks & Libraries:** generic (2), game (1), application (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - i (1)
 
@@ -3359,7 +3358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (5), this, (3), var (1), pass (1), case. (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -3453,7 +3452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (5), pass (4), function (3), this, (2), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Other uses for expressions
@@ -3494,7 +3493,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** fname (4)
-> **Code Keywords:** private (1), lambda (1), return. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** caveat (1)
@@ -3540,7 +3538,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), function (3), let (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -3548,7 +3545,7 @@ created: 2026-04-29
 
 ### 6. Extension Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The case for extension methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/the-case-for-extension-methods?u=76281980)
@@ -3655,7 +3652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class. (4), static (2), this, (2), public (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** numchars (3), stingextensions (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** error (1), net (1)
@@ -3688,7 +3685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (2), type, (1), case, (1), class. (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -3746,7 +3743,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), this. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
@@ -3836,7 +3832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), pass (2), lambda (1), var (1)
+> **Frameworks & Libraries:** next (2), [[Language Integrated Query (LINQ)|Language integrated query]] (2)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** orderednames (2)
 > **Cross-References:** in the next (2)
@@ -3895,7 +3891,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), type, (1), case, (1), let (1), function (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** cnumbers (1)
 > **Versions:** 14.5 (1)
@@ -3904,7 +3899,7 @@ created: 2026-04-29
 
 ### 7. Language Integrated Query (LINQ)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the purpose of LINQ
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understand-the-purpose-of-linq?u=76281980)
@@ -3989,7 +3984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (2), return, (1), new, (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (1), next (1)
 > **Code Identifiers:** filteredemployees (1)
 > **Env Vars:** linq (1)
 > **Analogies:** for example (1)
@@ -4072,7 +4067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (2), var (1), this. (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[SQL]] (1), hit (1), business (1)
 > **Code Identifiers:** femployees (5)
 > **Env Vars:** sql (1), f10 (1)
 > **Definitions:** is a  (1)
@@ -4155,7 +4150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Language integrated query]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** just like (1)
@@ -4312,8 +4307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (9), data (4), database (3), [[Microsoft SQL Server|Sql server]] (1), [[JSON]] (1)
 > **Env Vars:** xml (9), linq (8), sql (1), json (1)
-> **Code Keywords:** let (2), var (1), class, (1), pass (1)
 > **Analogies:** for example (3), just like (2)
 > **Code Identifiers:** xemployees (3), xemplinq (1)
 > **File Paths:** employees.xml (2), system.xml (1)
@@ -4360,7 +4355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), switch (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (1), [[Language Integrated Query (LINQ)|Language integrated query]] (1)
 > **Code Identifiers:** orderdate (1), tolist (1)
 > **Env Vars:** linq (1)
 > **Analogies:** for example (1)
@@ -4369,7 +4364,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build something and continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980)
@@ -4414,8 +4409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), [[Windows]] (3), next (2), [[Language Integrated Query (LINQ)|Linq]] (2), web (2)
 > **Env Vars:** linq (2), net (2), asp (1), html (1), maui (1)
-> **Code Keywords:** async (1), await (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** go build (1)
 > **Code Identifiers:** ios (1)

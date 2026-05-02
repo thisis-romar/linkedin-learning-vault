@@ -35,7 +35,7 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Security%20Auditor.md)
@@ -54,28 +54,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Start a Fulfilling Career in Security Auditing and Compliance**](#start-a-fulfilling-career-in-security-auditing-and-compliance) (1 videos)
-  - Helping organizations stay secure through auditing
+  - [Helping organizations stay secure through auditing](#helping-organizations-stay-secure-through-auditing)
 - [**1. Security Auditing Basics**](#1-security-auditing-basics) (3 videos)
-  - What are security auditing and compliance?
-  - Why do organizations need to be audited?
-  - Who can be a security auditor?
+  - [What are security auditing and compliance?](#what-are-security-auditing-and-compliance)
+  - [Why do organizations need to be audited?](#why-do-organizations-need-to-be-audited)
+  - [Who can be a security auditor?](#who-can-be-a-security-auditor)
 - [**2. Security Frameworks**](#2-security-frameworks) (3 videos)
-  - Overview of common security frameworks
-  - NIST security framework
-  - PCI security frameworks
+  - [Overview of common security frameworks](#overview-of-common-security-frameworks)
+  - [NIST security framework](#nist-security-framework)
+  - [PCI security frameworks](#pci-security-frameworks)
 - [**3. Gaining Employment in Security Auditing**](#3-gaining-employment-in-security-auditing) (2 videos)
-  - How to land your first security auditing position
-  - How to level up in security auditing
+  - [How to land your first security auditing position](#how-to-land-your-first-security-auditing-position)
+  - [How to level up in security auditing](#how-to-level-up-in-security-auditing)
 - [**4. Roadmap to Success as a Security Auditor**](#4-roadmap-to-success-as-a-security-auditor) (2 videos)
-  - Be a successful team auditor
-  - How to communicate effectively as a security auditor
+  - [Be a successful team auditor](#be-a-successful-team-auditor)
+  - [How to communicate effectively as a security auditor](#how-to-communicate-effectively-as-a-security-auditor)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Security auditing leads to many opportunities
-  - Continuing on with security auditing
+  - [Security auditing leads to many opportunities](#security-auditing-leads-to-many-opportunities)
+  - [Continuing on with security auditing](#continuing-on-with-security-auditing)
 
 ### Start a Fulfilling Career in Security Auditing and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Helping organizations stay secure through auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980)
@@ -106,15 +106,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), business (1), [[LinkedIn]] (1), [[NIST]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** nist (1), csf (1), pci (1), dss (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - every (1)
 
 
 ### 1. Security Auditing Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are security auditing and compliance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/what-are-security-auditing-and-compliance?u=76281980)
@@ -171,7 +171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), function (1)
+> **Frameworks & Libraries:** [[Security]] (19), data (4), business (1), management (1), [[Windows]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pci (1)
 > **Definitions:** is an  (1)
@@ -255,7 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), for. (1), continue (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (13), data (10), business (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** cvv (1), pii (1)
 > **Analogies:** such as (2)
 > **Speakers:** - every (1)
@@ -341,14 +341,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (12), data (3), business (2), [[Cybersecurity]] (1), [[Soft Skills]] (1)
 > **Env Vars:** pii (1)
 > **Speakers:** - in (1)
 
 
 ### 2. Security Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of common security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980)
@@ -403,9 +403,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), [[NIST]] (4), data (2), business (1), [[Cybersecurity]] (1)
 > **Env Vars:** nist (4), csf (4), pci (3), dss (2)
 > **Definitions:** known as (2), is a  (2)
-> **Code Keywords:** protected (1), case. (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### NIST security framework
@@ -511,10 +511,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), [[NIST]] (7), business (4), traffic (3), [[Cybersecurity]] (2)
 > **Env Vars:** csf (8), nist (7), irp (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** protected (1), public (1)
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -581,16 +581,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), data (3), business (3), express (1), [[Network Security]] (1)
 > **Env Vars:** pci (16), qsa (6), dss (2)
 > **Definitions:** known as (2), stands for (1), is a  (1), means that (1), is an  (1)
 > **Prerequisites:** required to (3)
-> **Code Keywords:** protected (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Gaining Employment in Security Auditing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to land your first security auditing position
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980)
@@ -679,9 +679,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), [[LinkedIn]] (5), career (3), [[Cybersecurity]] (2), [[NIST]] (2)
 > **CLI Commands:** find (4)
 > **Env Vars:** pci (2), nist (2)
-> **Code Keywords:** for. (1), private (1), function (1)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
@@ -742,8 +742,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), career (2), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** super (1)
 > **Env Vars:** pci (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - now (1)
@@ -751,7 +751,7 @@ created: 2026-04-29
 
 ### 4. Roadmap to Success as a Security Auditor
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be a successful team auditor
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/be-a-successful-team-auditor?u=76281980)
@@ -814,8 +814,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), strengths (3), web (1), [[Interviewing]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (3), this, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - by (1)
 
@@ -882,15 +882,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), business (5), [[Secure Coding]] (2), teams (2), [[Cybersecurity]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - communication (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security auditing leads to many opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/security-auditing-leads-to-many-opportunities?u=76281980)
@@ -931,10 +931,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), business (3), management (2), [[Penetration Testing]] (2), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is called (2)
-> **Code Keywords:** super (1)
 > **Env Vars:** pci (1)
 > **Speakers:** - a (1)
 
@@ -961,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Cybersecurity]] (1), career (1), [[Security]] (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - congratulations (1)
 

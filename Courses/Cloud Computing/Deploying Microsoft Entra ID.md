@@ -32,7 +32,7 @@ tags:
   - topic/network-and-system-administration
   - skill/microsoft-entra-id
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Deploying%20Microsoft%20Entra%20ID.md)
@@ -51,60 +51,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Cloud identity
-  - Prerequisites
-  - Roadmap
+  - [Cloud identity](#cloud-identity)
+  - [Prerequisites](#prerequisites)
+  - [Roadmap](#roadmap)
 - [**1. Managing Users**](#1-managing-users) (16 videos)
-  - Types of user accounts
-  - User object overview
-  - Directory roles
-  - Demo: Assigning a directory role
-  - Creating user accounts
-  - Demo: Creating a new cloud user account
-  - Reading user accounts
-  - Demo: Reading a cloud user account
-  - Updating user accounts
-  - Demo: Updating a cloud user account
-  - Deleting user accounts
-  - Demo: Deleting a cloud user account
-  - Blocking user account sign-ins
-  - Demo: Blocking a user account sign-in
-  - User settings
-  - Demo: Configuring user settings
+  - [Types of user accounts](#types-of-user-accounts)
+  - [User object overview](#user-object-overview)
+  - [Directory roles](#directory-roles)
+  - [Demo: Assigning a directory role](#demo-assigning-a-directory-role)
+  - [Creating user accounts](#creating-user-accounts)
+  - [Demo: Creating a new cloud user account](#demo-creating-a-new-cloud-user-account)
+  - [Reading user accounts](#reading-user-accounts)
+  - [Demo: Reading a cloud user account](#demo-reading-a-cloud-user-account)
+  - [Updating user accounts](#updating-user-accounts)
+  - [Demo: Updating a cloud user account](#demo-updating-a-cloud-user-account)
+  - [Deleting user accounts](#deleting-user-accounts)
+  - [Demo: Deleting a cloud user account](#demo-deleting-a-cloud-user-account)
+  - [Blocking user account sign-ins](#blocking-user-account-sign-ins)
+  - [Demo: Blocking a user account sign-in](#demo-blocking-a-user-account-sign-in)
+  - [User settings](#user-settings)
+  - [Demo: Configuring user settings](#demo-configuring-user-settings)
 - [**2. Managing Groups**](#2-managing-groups) (15 videos)
-  - Types of groups
-  - Group object overview
-  - Creating groups
-  - Demo: Creating a new Microsoft 365 group
-  - Reading groups
-  - Demo: Reading a Microsoft 365 group
-  - Updating groups
-  - Demo: Updating a Microsoft 365 group
-  - Deleting groups
-  - Demo: Deleting a Microsoft 365 group
-  - Expiring groups
-  - Demo: Applying an expiration policy
-  - Group settings
-  - Demo: Configuring group settings
-  - Administrative units
+  - [Types of groups](#types-of-groups)
+  - [Group object overview](#group-object-overview)
+  - [Creating groups](#creating-groups)
+  - [Demo: Creating a new Microsoft 365 group](#demo-creating-a-new-microsoft-365-group)
+  - [Reading groups](#reading-groups)
+  - [Demo: Reading a Microsoft 365 group](#demo-reading-a-microsoft-365-group)
+  - [Updating groups](#updating-groups)
+  - [Demo: Updating a Microsoft 365 group](#demo-updating-a-microsoft-365-group)
+  - [Deleting groups](#deleting-groups)
+  - [Demo: Deleting a Microsoft 365 group](#demo-deleting-a-microsoft-365-group)
+  - [Expiring groups](#expiring-groups)
+  - [Demo: Applying an expiration policy](#demo-applying-an-expiration-policy)
+  - [Group settings](#group-settings)
+  - [Demo: Configuring group settings](#demo-configuring-group-settings)
+  - [Administrative units](#administrative-units)
 - [**3. Managing Devices**](#3-managing-devices) (9 videos)
-  - Device management overview
-  - Hybrid Entra ID join
-  - Demo: Implementing hybrid Entra ID join
-  - Entra ID join
-  - Demo: Implementing Entra ID join
-  - Device registration
-  - Demo: Implementing device registration
-  - Device settings
-  - Demo: Configuring device settings
+  - [Device management overview](#device-management-overview)
+  - [Hybrid Entra ID join](#hybrid-entra-id-join)
+  - [Demo: Implementing hybrid Entra ID join](#demo-implementing-hybrid-entra-id-join)
+  - [Entra ID join](#entra-id-join)
+  - [Demo: Implementing Entra ID join](#demo-implementing-entra-id-join)
+  - [Device registration](#device-registration)
+  - [Demo: Implementing device registration](#demo-implementing-device-registration)
+  - [Device settings](#device-settings)
+  - [Demo: Configuring device settings](#demo-configuring-device-settings)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Key takeaways
-  - Your personal checklist
-  - Next steps
+  - [Key takeaways](#key-takeaways)
+  - [Your personal checklist](#your-personal-checklist)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (5), [[Microsoft Entra ID|Azure ad]] (4), management (2), [[LinkedIn]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Prerequisites
@@ -191,7 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), [[Microsoft Entra ID|Azure active directory]] (4), [[Windows Server]] (2), [[Microsoft Azure|Azure]] (2), [[LinkedIn]] (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - here (1)
@@ -237,7 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), finally, (1), let (1)
+> **Frameworks & Libraries:** next (3), [[Microsoft Entra ID|Azure ad]] (2), management (2)
 > **Cross-References:** in the next (1), previous chapter (1), next chapter (1)
 > **Env Vars:** crud (2)
 > **Prerequisites:** you'll need (1), configure (1)
@@ -246,7 +246,7 @@ created: 2026-04-29
 
 ### 1. Managing Users
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980)
@@ -287,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), this. (1)
+> **Frameworks & Libraries:** cloud (7), [[Microsoft Azure|Azure]] (4), [[Microsoft Entra ID|Azure ad]] (2), [[Windows Server]] (2), [[Active Directory]] (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -354,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), this. (1)
+> **Frameworks & Libraries:** cloud (10), [[Microsoft Azure|Azure]] (4), [[Microsoft Entra ID|Azure ad]] (2), [[Windows Server]] (2), functional (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [lecturer] (1)
 
@@ -435,7 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default, (1), default. (1), super (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), [[Microsoft Azure|Azure]] (4), [[Microsoft]] (2), [[Windows Server]] (1), [[Active Directory]] (1)
 > **Analogies:** compare this to (1), imagine (1), kind of like (1), just like (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (1)
@@ -517,7 +517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), continue (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Entra ID|Azure ad]] (3), next (2), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (6), go to (3)
 > **Cross-References:** in the last (2), in the next (1)
 > **URLs:** [http://www.worldtraveler.tv](http://www.worldtraveler.tv) (2)
@@ -603,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), interface (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (12), cloud (4), [[Windows Server]] (3), [[Active Directory]] (3), next (1)
 > **Env Vars:** crud (2), csv (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is an  (1)
@@ -678,8 +678,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **UI Navigation:** click on (2), scroll down (2), go to (1)
-> **Code Keywords:** let (4)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -707,7 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (4), [[Windows Server]] (2), [[Microsoft Entra ID|Azure ad]] (2), [[Microsoft Azure|Azure]] (1), [[Active Directory]] (1)
 > **Env Vars:** crud (1)
 > **Speakers:** - [instructor] (1)
 
@@ -786,8 +786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), next (2), [[Windows Server]] (2), [[Active Directory]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **UI Navigation:** click on (6), scroll down (2), go to (2)
-> **Code Keywords:** let (6), case, (2), this. (1)
 > **Cross-References:** in the last (3), in the next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
@@ -828,7 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), self (1)
+> **Frameworks & Libraries:** cloud (10), [[Microsoft Entra ID|Azure ad]] (6), [[Windows Server]] (2)
 > **Speakers:** - [instructor] (1)
 
 #### Demo: Updating a cloud user account
@@ -898,8 +898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (2), cloud (2), next (1), hit (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **UI Navigation:** scroll down (2), click on (2), scroll up (1), go to (1)
-> **Code Keywords:** let (5)
 > **Env Vars:** upn (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
@@ -952,7 +952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (1)
+> **Frameworks & Libraries:** cloud (3), [[Active Directory]] (3), [[Microsoft Entra ID|Azure ad]] (3), [[Windows Server]] (1)
 > **Env Vars:** crud (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1007,7 +1007,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), let (5)
 > **UI Navigation:** click on (3), go to (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -1039,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (5), [[Windows Server]] (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1084,7 +1083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), feature (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -1159,8 +1158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (7), application (3), [[LinkedIn]] (3), next (2), teams (1)
 > **Prerequisites:** configure (4)
-> **Code Keywords:** finally, (1), let (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
@@ -1268,8 +1267,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Microsoft Entra ID|Azure ad]] (3), [[LinkedIn]] (1), feature (1), [[Security]] (1)
 > **UI Navigation:** click on (7), select the (1), go to (1), scroll down (1)
-> **Code Keywords:** let (4), self (2), default, (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
@@ -1279,7 +1278,7 @@ created: 2026-04-29
 
 ### 2. Managing Groups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980)
@@ -1360,7 +1359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new. (1), type, (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Security]] (8), [[Microsoft Entra ID|Azure ad]] (5), [[Microsoft Entra ID|Azure active directory]] (1), [[SharePoint]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1404,9 +1403,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), cloud (3), [[Microsoft Entra ID|Azure ad]] (2), [[Security]] (2), [[Windows Server]] (1)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1499,7 +1498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2), static (1)
+> **Frameworks & Libraries:** [[Security]] (9), [[Microsoft Entra ID|Azure ad]] (8), [[Microsoft 365]] (5), [[Microsoft Azure|Azure]] (5), cloud (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -1653,7 +1652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type, (2), default. (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Entra ID|Azure ad]] (2), cloud (2), [[Security]] (1), leadership (1)
 > **UI Navigation:** click on (9), go to (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1)
@@ -1686,7 +1685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (6), [[Security]] (2), [[Windows Server]] (1), [[Microsoft Entra ID|Azure ad]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** crud (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1769,7 +1768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (5), switch (1), type. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Security]] (2), cloud (2), [[Windows Server]] (2), [[Active Directory]] (2)
 > **UI Navigation:** go to (4), click on (1), open the (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Cross-References:** in the last (1)
@@ -1797,7 +1796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2)
+> **Frameworks & Libraries:** cloud (4), [[Security]] (2), [[Microsoft Entra ID|Azure ad]] (1), next (1), [[Microsoft 365]] (1)
 > **Env Vars:** crud (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1842,7 +1841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (2), continue (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1), cloud (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1906,7 +1905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1)
+> **Frameworks & Libraries:** cloud (8), [[Security]] (6), [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft 365]] (4), [[Active Directory]] (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1963,7 +1962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1)
 > **UI Navigation:** click on (3)
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)
@@ -2022,7 +2021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1), delete (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Microsoft 365]] (3), data (3), feature (2), [[Microsoft Azure|Azure]] (1)
 > **Warnings:** warning (2), be careful (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2067,8 +2066,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Security]] (1), data (1)
 > **UI Navigation:** click on (4), dropdown (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2115,7 +2114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), switch (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Microsoft 365]] (2), management (1), feature (1), next (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -2169,8 +2168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Security]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** let (1), this. (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2231,14 +2230,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), [[Active Directory]] (2), cloud (2), feature (1), [[Windows Server]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Managing Devices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Device management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980)
@@ -2283,7 +2282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), cloud (3), management (2), [[Microsoft Products|Products]] (2), [[Microsoft]] (2)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2365,8 +2364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Microsoft Entra ID|Azure ad]] (6), management (5), [[Microsoft Azure|Azure]] (4), [[Windows]] (4)
 > **Prerequisites:** setup (2), configure (2)
-> **Code Keywords:** let (1), self (1), super (1)
 > **Env Vars:** sccm (2), msi (1)
 > **Versions:** 8.1 (1)
 > **Analogies:** think of it like (1)
@@ -2579,8 +2578,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (27), next (6), [[Windows 10]] (5), [[Active Directory]] (3), [[Windows]] (3)
 > **UI Navigation:** click on (14), select the (3), scroll down (2), switch to (2), scroll up (1)
-> **Code Keywords:** let (9), switch (3), this, (2), this. (1), type, (1)
 > **Prerequisites:** configure (14)
 > **CLI Commands:** make (2)
 > **Tools:** azure portal (1), command prompt (1)
@@ -2641,9 +2640,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (7), cloud (6), management (4), next (2), [[Windows 10]] (2)
 > **Env Vars:** fido2 (2), ecm (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2728,7 +2727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), this. (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (7), [[Microsoft Entra ID|Azure active directory]] (3), [[Windows Server]] (2), [[Active Directory]] (2), hit (2)
 > **UI Navigation:** click on (6), open the (1), go to (1), switch to (1)
 > **Tools:** azure portal (2), command prompt (1)
 > **Prerequisites:** configure (2)
@@ -2797,6 +2796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (8), management (3), cloud (3), [[Windows]] (2), [[Android]] (2)
 > **Code Identifiers:** macos (2), ios (2)
 > **Env Vars:** byod (3)
 > **CLI Commands:** make (1)
@@ -2900,7 +2900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (11), [[Windows 10]] (2), hit (2), management (1), prompt (1)
 > **UI Navigation:** click on (4), go to (1), switch to (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** wttv (1)
@@ -2964,9 +2964,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (9), data (3), [[Active Directory]] (1), feature (1), [[Security]] (1)
 > **Definitions:** refers to (3), is a  (1)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** require (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3051,7 +3051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (1), require (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), next (2), [[Multi-factor Authentication]] (1), [[Security]] (1), data (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Prerequisites:** configure (2)
 > **Cross-References:** in the next (1)
@@ -3061,7 +3061,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980)
@@ -3112,8 +3112,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (3), next (2), [[Microsoft Azure|Azure]] (2), cloud (1), [[Security]] (1)
 > **Cross-References:** we talked about (2), in the next (1)
-> **Code Keywords:** delete (1), finally, (1)
 > **Env Vars:** crud (2)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -3170,7 +3170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (3), cloud (3), management (2), [[Windows Server]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** crud (1), poc (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -3210,6 +3210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Entra ID|Azure ad]] (1), management (1), next (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Env Vars:** crud (1)
 > **Speakers:** - [instructor] (1)
 

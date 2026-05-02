@@ -28,7 +28,7 @@ tags:
   - skill/linkedin-marketing
   - skill/newsletters
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20LinkedIn%20Newsletters.md)
@@ -47,17 +47,17 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Creating LinkedIn Newsletters**](#1-creating-linkedin-newsletters) (7 videos)
-  - Find your voice with newsletters on LinkedIn
-  - Preparing to publish a LinkedIn newsletter
-  - Writing your article
-  - Publishing a LinkedIn newsletter
-  - Engaging with your LinkedIn newsletter
-  - Technical challenges
-  - Levelling up a LinkedIn newsletter
+  - [Find your voice with newsletters on LinkedIn](#find-your-voice-with-newsletters-on-linkedin)
+  - [Preparing to publish a LinkedIn newsletter](#preparing-to-publish-a-linkedin-newsletter)
+  - [Writing your article](#writing-your-article)
+  - [Publishing a LinkedIn newsletter](#publishing-a-linkedin-newsletter)
+  - [Engaging with your LinkedIn newsletter](#engaging-with-your-linkedin-newsletter)
+  - [Technical challenges](#technical-challenges)
+  - [Levelling up a LinkedIn newsletter](#levelling-up-a-linkedin-newsletter)
 
 ### 1. Creating LinkedIn Newsletters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Find your voice with newsletters on LinkedIn
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters/find-your-voice-with-newsletters-on-linkedin-14656532?u=76281980)
@@ -80,6 +80,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **Speakers:** - in (1)
 
 #### Preparing to publish a LinkedIn newsletter
@@ -139,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Newsletters]] (2), next (2), [[LinkedIn]] (1), leadership (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -213,8 +215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), hit (1), [[Newsletters]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (1), this, (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
@@ -282,8 +284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[LinkedIn]] (3), [[Newsletters]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** super (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - once (1)
@@ -363,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** hit (1), next (1), [[Newsletters]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
@@ -458,7 +460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), else. (1), this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Technical Support]] (1), next (1), [[Newsletters]] (1), application (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
@@ -553,8 +555,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Newsletters]] (3), [[LinkedIn]] (2), [[Analytics]] (1), data (1), [[Market Research]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** include, (1), throw (1), finally, (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - developing (1)
 

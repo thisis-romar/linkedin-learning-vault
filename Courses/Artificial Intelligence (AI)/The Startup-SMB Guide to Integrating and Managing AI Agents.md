@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20Startup-SMB%20Guide%20to%20Integrating%20and%20Managing%20AI%20Agents.md)
@@ -40,31 +40,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The AI imperative for SMBs
+  - [The AI imperative for SMBs](#the-ai-imperative-for-smbs)
 - [**1. Blueprint for an AI Foundation**](#1-blueprint-for-an-ai-foundation) (5 videos)
-  - The promises and limits of today's AI
-  - The AI adoption spectrum
-  - Assessing business readiness for AI agents
-  - Exploring the work hierarchy
-  - AI implementation roadmap
+  - [The promises and limits of today's AI](#the-promises-and-limits-of-todays-ai)
+  - [The AI adoption spectrum](#the-ai-adoption-spectrum)
+  - [Assessing business readiness for AI agents](#assessing-business-readiness-for-ai-agents)
+  - [Exploring the work hierarchy](#exploring-the-work-hierarchy)
+  - [AI implementation roadmap](#ai-implementation-roadmap)
 - [**2. Onboarding Your AI Agents**](#2-onboarding-your-ai-agents) (5 videos)
-  - Your toolkit before agents
-  - A history of AI agents
-  - Types of AI agents
-  - Considerations when hiring AI agents
-  - The promise of AI agents for SMBs and start-ups
+  - [Your toolkit before agents](#your-toolkit-before-agents)
+  - [A history of AI agents](#a-history-of-ai-agents)
+  - [Types of AI agents](#types-of-ai-agents)
+  - [Considerations when hiring AI agents](#considerations-when-hiring-ai-agents)
+  - [The promise of AI agents for SMBs and start-ups](#the-promise-of-ai-agents-for-smbs-and-start-ups)
 - [**3. From Adoption and Governance to Going Big**](#3-from-adoption-and-governance-to-going-big) (5 videos)
-  - Data, process, and talent
-  - Citizens and domain experts
-  - AI governance, guardrails, and guidance
-  - Adopting & scaling agentics in your business
-  - Assessing what's real, reliable, viable, and valuable
+  - [Data, process, and talent](#data-process-and-talent)
+  - [Citizens and domain experts](#citizens-and-domain-experts)
+  - [AI governance, guardrails, and guidance](#ai-governance-guardrails-and-guidance)
+  - [Adopting & scaling agentics in your business](#adopting-scaling-agentics-in-your-business)
+  - [Assessing what's real, reliable, viable, and valuable](#assessing-whats-real-reliable-viable-and-valuable)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The future of AI agents and next steps
+  - [The future of AI agents and next steps](#the-future-of-ai-agents-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The AI imperative for SMBs
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-ai-imperative-for-smbs?u=76281980)
@@ -101,8 +101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Automation]] (2), career (1), rpa (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** while, (1), let (1)
 > **Env Vars:** rpa (1), ceo (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - there (1)
@@ -110,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Blueprint for an AI Foundation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The promises and limits of today's AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-promises-and-limits-of-today-s-ai?u=76281980)
@@ -167,7 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), this, (1), from. (1)
+> **Frameworks & Libraries:** ai (15), data (7), [[Automation]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - ai (1)
@@ -215,8 +215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Automation]] (2), leadership (1), [[Forms]] (1), [[Generative AI]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** new, (1), this, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - you (1)
@@ -300,7 +300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), self (1)
+> **Frameworks & Libraries:** ai (11), data (9), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1), generic (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for instance (1)
@@ -367,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** ai (4), [[Search]] (1), data (1), functional (1), [[Product Development]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - very (1)
@@ -429,7 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1), let (1)
+> **Frameworks & Libraries:** ai (6), leadership (2), [[SaaS]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** smb (1)
 > **Definitions:** is a  (1)
@@ -439,7 +439,7 @@ created: 2026-04-29
 
 ### 2. Onboarding Your AI Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your toolkit before agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/your-toolkit-before-agents?u=76281980)
@@ -484,8 +484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), [[Automation]] (5), rpa (3), data (2), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), finally, (1), self (1)
 > **Env Vars:** rpa (3)
 > **Versions:** 2.0 (1)
 > **Definitions:** refers to (1)
@@ -535,8 +535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (2), next (2), ai (1), [[Automation]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Env Vars:** llm (2), api (1), rpa (1)
-> **Code Keywords:** while, (1), case, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** picture (1)
@@ -609,7 +609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2), finally, (1), self (1), raise (1)
+> **Frameworks & Libraries:** ai (3), strengths (1), [[Customer Support]] (1), leadership (1), data (1)
 > **CLI Commands:** make (2), rails (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - now (1)
@@ -663,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2)
+> **Frameworks & Libraries:** ai (6), data (6), [[Privacy]] (2), [[Accountability]] (2), [[Security]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** be aware (1)
@@ -708,14 +708,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (11), [[Scalability]] (2), hr (1), [[Customer Support]] (1), power (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - one (1)
 
 
 ### 3. From Adoption and Governance to Going Big
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data, process, and talent
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/data-process-and-talent?u=76281980)
@@ -788,7 +788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1), finally, (1)
+> **Frameworks & Libraries:** ai (10), data (6), teams (2), [[Unstructured Data]] (1), [[Customer Support]] (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Env Vars:** rpa (1)
 > **Analogies:** such as (1)
@@ -825,6 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), business (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - two (1)
 
@@ -871,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1)
+> **Frameworks & Libraries:** ai (3), teams (1), data (1), next (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
@@ -915,8 +916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Automation]] (1), power (1), strengths (1), teams (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - you (1)
@@ -962,7 +963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1)
+> **Frameworks & Libraries:** ai (8), business (2), [[Automation]] (2)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - by (1)
@@ -970,7 +971,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of AI agents and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-future-of-ai-agents-and-next-steps?u=76281980)
@@ -1025,7 +1026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (7), [[SaaS]] (2), [[LinkedIn]] (2), next (1), teams (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - the (1)
 

@@ -32,7 +32,7 @@ tags:
   - skill/microservices
   - skill/spring-boot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Creating%20Spring%20Boot%20Microservices.md)
@@ -51,75 +51,75 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Build a RESTful Spring Boot microservice
-  - What you should know
-  - How to use the exercise files
+  - [Build a RESTful Spring Boot microservice](#build-a-restful-spring-boot-microservice)
+  - [What you should know](#what-you-should-know)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Spring Framework Introduction**](#1-spring-framework-introduction) (5 videos)
-  - Inversion of control pattern
-  - Spring ApplicationContext and Spring Beans
-  - Spring autowiring annotations
-  - Challenge
-  - Solution
+  - [Inversion of control pattern](#inversion-of-control-pattern)
+  - [Spring ApplicationContext and Spring Beans](#spring-applicationcontext-and-spring-beans)
+  - [Spring autowiring annotations](#spring-autowiring-annotations)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**2. Create a Spring Boot Microservice**](#2-create-a-spring-boot-microservice) (5 videos)
-  - Introduction to Spring Initializr
-  - Project setup
-  - Build, deploy, and launch the microservice
-  - Challenge: Add the Actuator dependency
-  - Solution: Add the Actuator dependency
+  - [Introduction to Spring Initializr](#introduction-to-spring-initializr)
+  - [Project setup](#project-setup)
+  - [Build, deploy, and launch the microservice](#build-deploy-and-launch-the-microservice)
+  - [Challenge: Add the Actuator dependency](#challenge-add-the-actuator-dependency)
+  - [Solution: Add the Actuator dependency](#solution-add-the-actuator-dependency)
 - [**3. Leverage Spring-Data-JPA Repository Interfaces**](#3-leverage-spring-data-jpa-repository-interfaces) (8 videos)
-  - The domain model
-  - The persistence entities
-  - Declare JPA repositories
-  - Spring Data JPA repository dependency injection
-  - Invoking the repositories
-  - Introduction to Spring Data query methods
-  - Challenge: Create a JPQL query method
-  - Solution: Create a JPQL query method
+  - [The domain model](#the-domain-model)
+  - [The persistence entities](#the-persistence-entities)
+  - [Declare JPA repositories](#declare-jpa-repositories)
+  - [Spring Data JPA repository dependency injection](#spring-data-jpa-repository-dependency-injection)
+  - [Invoking the repositories](#invoking-the-repositories)
+  - [Introduction to Spring Data query methods](#introduction-to-spring-data-query-methods)
+  - [Challenge: Create a JPQL query method](#challenge-create-a-jpql-query-method)
+  - [Solution: Create a JPQL query method](#solution-create-a-jpql-query-method)
 - [**4. Expose RESTful API's with Spring Data REST**](#4-expose-restful-apis-with-spring-data-rest) (6 videos)
-  - Create APIs with Spring Data REST
-  - Mapping API endpoints to repositories
-  - Override default behavior
-  - Swagger UI
-  - Challenge: Modify the URL repository keyword
-  - Solution: Modify the URL repository keyword
+  - [Create APIs with Spring Data REST](#create-apis-with-spring-data-rest)
+  - [Mapping API endpoints to repositories](#mapping-api-endpoints-to-repositories)
+  - [Override default behavior](#override-default-behavior)
+  - [Swagger UI](#swagger-ui)
+  - [Challenge: Modify the URL repository keyword](#challenge-modify-the-url-repository-keyword)
+  - [Solution: Modify the URL repository keyword](#solution-modify-the-url-repository-keyword)
 - [**5. Expose RESTful API's with Spring MVC**](#5-expose-restful-apis-with-spring-mvc) (7 videos)
-  - Choosing the right framework
-  - Declaring a new RestController
-  - Create the RestController HTTP POST endpoint
-  - Create the RestController HTTP GET endpoint
-  - Create the RestController HTTP PUT, PATCH, and DELETE endpoints
-  - Challenge: Add a PATCH endpoint
-  - Solution: Add a PATCH endpoint
+  - [Choosing the right framework](#choosing-the-right-framework)
+  - [Declaring a new RestController](#declaring-a-new-restcontroller)
+  - [Create the RestController HTTP POST endpoint](#create-the-restcontroller-http-post-endpoint)
+  - [Create the RestController HTTP GET endpoint](#create-the-restcontroller-http-get-endpoint)
+  - [Create the RestController HTTP PUT, PATCH, and DELETE endpoints](#create-the-restcontroller-http-put-patch-and-delete-endpoints)
+  - [Challenge: Add a PATCH endpoint](#challenge-add-a-patch-endpoint)
+  - [Solution: Add a PATCH endpoint](#solution-add-a-patch-endpoint)
 - [**6. Best Practices**](#6-best-practices) (5 videos)
-  - Global exception handling
-  - Transaction rollback
-  - Add a runtime logger
-  - JUnit, Mockito, and SpringBootTest
-  - API documentation
+  - [Global exception handling](#global-exception-handling)
+  - [Transaction rollback](#transaction-rollback)
+  - [Add a runtime logger](#add-a-runtime-logger)
+  - [JUnit, Mockito, and SpringBootTest](#junit-mockito-and-springboottest)
+  - [API documentation](#api-documentation)
 - [**7. Dockerized Microservices and Databases**](#7-dockerized-microservices-and-databases) (4 videos)
-  - Why Docker?
-  - Dockerizing a microservice
-  - Spring Boot Docker Compose
-  - Database versioning with Flyway migrate
+  - [Why Docker?](#why-docker)
+  - [Dockerizing a microservice](#dockerizing-a-microservice)
+  - [Spring Boot Docker Compose](#spring-boot-docker-compose)
+  - [Database versioning with Flyway migrate](#database-versioning-with-flyway-migrate)
 - [**8. Create a RESTful MongoDB Microservice**](#8-create-a-restful-mongodb-microservice) (5 videos)
-  - Use cases for an image microservice
-  - Challenge: Create the Spring Boot MongoDB project
-  - Solution: Create the Spring Boot MongoDB project
-  - Image file upload microservice
-  - Spring Data MongoDB documents and repositories
+  - [Use cases for an image microservice](#use-cases-for-an-image-microservice)
+  - [Challenge: Create the Spring Boot MongoDB project](#challenge-create-the-spring-boot-mongodb-project)
+  - [Solution: Create the Spring Boot MongoDB project](#solution-create-the-spring-boot-mongodb-project)
+  - [Image file upload microservice](#image-file-upload-microservice)
+  - [Spring Data MongoDB documents and repositories](#spring-data-mongodb-documents-and-repositories)
 - [**9. Create an API Gateway with Spring Cloud**](#9-create-an-api-gateway-with-spring-cloud) (6 videos)
-  - Use cases for an API gateway microservice
-  - Routing to the JPA microservice
-  - Routing to the MongoDB microservice
-  - Add Spring Security to the gateway
-  - Orchestrate with Docker Compose
-  - Cleaning up the workspace
+  - [Use cases for an API gateway microservice](#use-cases-for-an-api-gateway-microservice)
+  - [Routing to the JPA microservice](#routing-to-the-jpa-microservice)
+  - [Routing to the MongoDB microservice](#routing-to-the-mongodb-microservice)
+  - [Add Spring Security to the gateway](#add-spring-security-to-the-gateway)
+  - [Orchestrate with Docker Compose](#orchestrate-with-docker-compose)
+  - [Cleaning up the workspace](#cleaning-up-the-workspace)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a RESTful Spring Boot microservice
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980)
@@ -150,7 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Microservices]] (2), [[Spring Data]] (1), web (1), cloud (1)
 > **Env Vars:** api (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - would (1)
@@ -188,7 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), let (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Microservices]] (2), [[Java]] (1), business (1), [[Dependency Injection]] (1)
 > **Env Vars:** mvc (1)
 > **Speakers:** - our (1)
 
@@ -273,6 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (10), [[GitHub]] (7), [[Java]] (7), next (1), cloud (1)
 > **Tools:** github (7), terminal (2), visual studio (1)
 > **CLI Commands:** make (4), git (1), docker (1), find (1)
 > **Prerequisites:** set up (4), getting started (1)
@@ -280,12 +281,11 @@ created: 2026-04-29
 > **UI Navigation:** go to (1), dropdown (1)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 
 
 ### 1. Spring Framework Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inversion of control pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980)
@@ -378,7 +378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (5), public (4), let (3), type, (2), finally, (1)
+> **Frameworks & Libraries:** application (6), [[Java]] (6), [[Dependency Injection]] (5), management (3), [[Spring Boot]] (2)
 > **Env Vars:** ioc (2), xml (1), mvc (1), pom (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is an  (2), is a  (1)
@@ -448,7 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), class, (2), let (1), pass (1), continue (1)
+> **Frameworks & Libraries:** application (5), [[Spring Framework]] (2), next (2), [[Dependency Injection]] (1), [[Spring Boot]] (1)
 > **Code Identifiers:** tourrepository (6), tourmanagementservice (2), iskidfriendly (1)
 > **Env Vars:** pom (1), xml (1)
 > **Prerequisites:** set up (1)
@@ -509,7 +509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), class. (2), this. (2), class, (1)
+> **Frameworks & Libraries:** application (5), [[Dependency Injection]] (1)
 > **Code Identifiers:** getpackagename (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
@@ -536,7 +536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), class. (1)
+> **Frameworks & Libraries:** management (2), application (1), [[Java]] (1)
 > **Code Identifiers:** createtour (1)
 > **Speakers:** - [instructor] (1)
 
@@ -575,6 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (2), mvn (1)
 > **Code Identifiers:** getbean (1), createtour (1)
 > **Tools:** command line (2)
@@ -585,7 +586,7 @@ created: 2026-04-29
 
 ### 2. Create a Spring Boot Microservice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring Initializr
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980)
@@ -624,6 +625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (8), [[Java]] (5), [[Gradle]] (4), application (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** rest (2), jar (1), mvc (1), jpa (1)
 > **File Paths:** pom.xml (1), build.gradle (1)
 > **Definitions:** is a  (2)
@@ -708,8 +710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), web (5), application (4), [[Spring Boot]] (3), database (2)
 > **Env Vars:** pom (3), jpa (1), explore (1), generate (1)
-> **Code Keywords:** let (2), this, (2), default, (1)
 > **Versions:** 3.2.5 (1), 3.0.0 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -782,7 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), from, (1), self (1)
+> **Frameworks & Libraries:** web (3), application (3), [[JSON]] (1), hit (1), [[DevOps]] (1)
 > **Env Vars:** ide (1), jpa (1), jvm (1), json (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1), curl (1)
@@ -812,9 +814,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (1), application (1)
 > **File Paths:** pom.xml (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -852,8 +854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (1)
 > **CLI Commands:** make (2), find (1), curl (1)
-> **Code Keywords:** let (2)
 > **File Paths:** pom.xml (1)
 > **URLs:** [localhost:8080](https://localhost:8080) (1)
 > **Ports:** :8080 (1)
@@ -864,7 +866,7 @@ created: 2026-04-29
 
 ### 3. Leverage Spring-Data-JPA Repository Interfaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The domain model
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-domain-model?u=76281980)
@@ -903,9 +905,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2)
-> **Code Keywords:** type, (1)
 > **URLs:** [explorecalifornia.org](https://explorecalifornia.org) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -954,7 +956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), enum (1), static (1)
+> **Frameworks & Libraries:** [[Java]] (2), api (2), business (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** api (2), jpa (1)
 > **Speakers:** - [instructor] (1)
@@ -1034,7 +1036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (4), extends (4), delete (3), override (2)
+> **Frameworks & Libraries:** [[Spring Data]] (6), data (3), [[Java]] (2), next (1), database (1)
 > **Env Vars:** jpa (6), ide (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** repository.java (1)
@@ -1099,8 +1101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Data]] (3), business (2), database (1), next (1)
 > **Code Identifiers:** tourpackagerepository (5), findbyid (3), orelse (2), tourpackagename (2), createtourpackage (1)
-> **Code Keywords:** let (6), throw (2), lambda (1), finally, (1), interface (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** jpa (1)
@@ -1280,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (3), private (3), class. (2), static (2)
+> **Frameworks & Libraries:** application (8), [[Spring Boot]] (6), [[JSON]] (4), web (4), database (3)
 > **Code Identifiers:** createtour (3), createtourallpackages (2), findbyname (2), createtoursfromfiles (1), tourservice (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** json (4), sql (1)
@@ -1351,9 +1353,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Data]] (8), database (1), [[SQL]] (1), application (1), [[LinkedIn]] (1)
 > **Code Identifiers:** findby (1), findbyregion (1), findbytitle (1), countby (1), findbyregionanddifficulty (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** interface (2), implements (1), case. (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** sql (1), jpa (1)
 > **Definitions:** is a  (1)
@@ -1376,7 +1378,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1427,8 +1428,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (2), web (2), next (1)
 > **Code Identifiers:** findbydifficulty (4), findbytourpackage (1), tourrepository (1), findbytourpackagecode (1)
-> **Code Keywords:** let (3), import. (1)
 > **CLI Commands:** find (1)
 > **Ports:** port 8080 (1)
 > **Speakers:** - [instructor] (1)
@@ -1437,7 +1438,7 @@ created: 2026-04-29
 
 ### 4. Expose RESTful API's with Spring Data REST
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create APIs with Spring Data REST
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980)
@@ -1476,9 +1477,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), [[Representational State Transfer (REST)|Rest]] (5), [[Spring Data]] (4), application (2), [[JSON]] (1)
 > **Env Vars:** api (6), rest (5), hateoas (1), http (1), json (1)
 > **Definitions:** is a  (2), is an  (2)
-> **Code Keywords:** interface (2)
 > **URLs:** [localhost:8080](https://localhost:8080) (2)
 > **Ports:** :8080 (2)
 > **Documentation:** specification (1), the documentation (1)
@@ -1541,9 +1542,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Data]] (8), [[Representational State Transfer (REST)|Rest]] (6), application (2), [[JSON]] (2), [[Fetch]] (2)
 > **Env Vars:** http (7), rest (6), jpa (3), put (3), patch (3)
 > **API Endpoints:** delete  (2), get  (2), put  (2), patch  (2), post  (1)
-> **Code Keywords:** delete (3), let (1), finally, (1)
 > **Code Identifiers:** tourpackage (2), findbyid (1), tourrepository (1), findall (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1574,7 +1575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (2), let (1), interface (1)
+> **Frameworks & Libraries:** [[Spring Data]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** showsummary (2)
 > **Env Vars:** rest (1)
 > **Definitions:** is a  (1)
@@ -1685,7 +1686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), from, (1), implements (1), public (1), finally, (1)
+> **Frameworks & Libraries:** web (2), [[Spring Boot]] (2), [[Codespaces]] (2), api (1), application (1)
 > **Tools:** command line (2), postman (1), intellij (1), visual studio (1), github (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** http (2), api (1), mvc (1)
@@ -1709,6 +1710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), application (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** tourpackages (1)
 > **Speakers:** - [instructor] (1)
@@ -1735,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **File Paths:** swagger-ui/index.html (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1743,7 +1745,7 @@ created: 2026-04-29
 
 ### 5. Expose RESTful API's with Spring MVC
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980)
@@ -1820,8 +1822,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), data (4), [[Representational State Transfer (REST)|Rest]] (3), application (2), [[Spring Data]] (2)
 > **Env Vars:** http (5), mvc (4), rest (3), api (2), url (2)
-> **Code Keywords:** finally, (2), delete (2), require (1), let (1), class. (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1946,7 +1948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), let (2), finally, (1), private (1), if, (1)
+> **Frameworks & Libraries:** next (4), business (3), database (3), [[Representational State Transfer (REST)|Rest]] (3), api (2)
 > **CLI Commands:** find (6)
 > **Env Vars:** api (2), uri (1)
 > **Code Identifiers:** tour_rating (1)
@@ -2110,7 +2112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), throw (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), data (2), web (2), [[Java]] (2), [[Spring Boot]] (2)
 > **Env Vars:** dto (6), htp (3), api (1), url (1)
 > **Code Identifiers:** ratingdto (2), groupid (1), getscore (1), getcomment (1)
 > **CLI Commands:** make (2)
@@ -2210,7 +2212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), api (1), database (1)
 > **Env Vars:** url (2), api (1), dto (1)
 > **Versions:** 2.3333 (1)
 > **UI Navigation:** go to (1)
@@ -2290,7 +2292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (6)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** updatewithput (1), tourratingservice (1), tourid (1), customerid (1)
 > **Env Vars:** http (2)
 > **Definitions:** is a  (1)
@@ -2363,7 +2365,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2)
 > **Code Identifiers:** customerid (2), updatewithpatch (1), tourid (1), ratingdto (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -2372,7 +2373,7 @@ created: 2026-04-29
 
 ### 6. Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Global exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/global-exception-handling?u=76281980)
@@ -2473,7 +2474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), extends (1), protected (1), throw (1), finally, (1)
+> **Frameworks & Libraries:** [[Spring Data]] (2), [[Representational State Transfer (REST)|Rest]] (2), application (1), web application (1), web (1)
 > **Env Vars:** htp (1), hgp (1), yyyy (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** best practice (1)
@@ -2556,7 +2557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), public (1), this, (1)
+> **Frameworks & Libraries:** database (3), business (1)
 > **Definitions:** is a  (1), is an  (1)
 > **API Endpoints:** get  (1)
 > **UI Navigation:** go to (1)
@@ -2670,7 +2671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (1), class, (1), private (1)
+> **Frameworks & Libraries:** application (3), [[Java]] (2), [[Debugging]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** tourid (2), logexception (2), verifytour (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** setup (1), set up (1), configure (1)
@@ -2902,7 +2903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** assert (5), delete (4), public (3), let (3), static (2)
+> **Frameworks & Libraries:** [[JUnit]] (4), [[Representational State Transfer (REST)|Rest]] (4), [[Spring Boot]] (4), hit (4), next (2)
 > **Definitions:** is a  (7), is called (2)
 > **Prerequisites:** set up (5), setup (3), install (1)
 > **Env Vars:** api (2), http (2), dto (2), jvm (1), url (1)
@@ -2974,8 +2975,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), application (2), [[Spring Data]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
 > **Env Vars:** api (4), dto (2), rest (1)
-> **Code Keywords:** let (2), public (1), delete (1), class. (1)
 > **CLI Commands:** find (1)
 > **Versions:** 3.0.0 (1)
 > **Definitions:** is a  (1)
@@ -2984,7 +2985,7 @@ created: 2026-04-29
 
 ### 7. Dockerized Microservices and Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Docker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980)
@@ -3045,12 +3046,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (8), application (4), data (3), database (2), [[Spring Boot]] (1)
 > **CLI Commands:** docker (7), node (1), make (1)
 > **Env Vars:** jar (2), jpa (1), sql (1), war (1), ear (1)
 > **Prerequisites:** install (3), configure (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (1), similar to (1), just like (1)
-> **Code Keywords:** let (2)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3173,8 +3174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), [[JSON]] (3), [[Java]] (2), [[Linux]] (1), hit (1)
 > **CLI Commands:** docker (16), find (2)
-> **Code Keywords:** let (3), this. (2), while, (1), for, (1), this, (1)
 > **Tools:** terminal (3), command line (1)
 > **File Paths:** explorecalifornia.json (2), pom.xml (1)
 > **Env Vars:** jpa (2), jvm (1)
@@ -3311,8 +3312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (16), [[MySQL]] (13), [[Spring Boot]] (10), database (8), application (8)
 > **CLI Commands:** docker (24), mysql (13), make (3)
-> **Code Keywords:** let (5), interface (2), switch (1), delete (1), this, (1)
 > **Env Vars:** json (2), cli (1), yaml (1), api (1)
 > **File Paths:** pom.xml (2), compose.yml (2)
 > **Definitions:** is a  (2), is an  (1), is called (1)
@@ -3409,9 +3410,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), application (5), [[MySQL]] (2), [[SQL]] (2), hit (1)
 > **Versions:** 1.4 (3), v1.2 (1), v1.3 (1), 1.5 (1), 1.1 (1)
 > **CLI Commands:** docker (5), mysql (2)
-> **Code Keywords:** let (3)
 > **Code Identifiers:** tour_package (2), tour_rating (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (2)
@@ -3421,7 +3422,7 @@ created: 2026-04-29
 
 ### 8. Create a RESTful MongoDB Microservice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use cases for an image microservice
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-a-image-microservice?u=76281980)
@@ -3446,7 +3447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Speakers:** - so (1)
 
 #### Challenge: Create the Spring Boot MongoDB project
@@ -3474,6 +3475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Java]] (1), web (1), [[Spring Data]] (1), [[MongoDB]] (1)
 > **CLI Commands:** make (2), docker (1)
 > **UI Navigation:** drag and drop (2), navigate to (1)
 > **Versions:** java 21 (1), 3.0.0 (1)
@@ -3481,7 +3483,6 @@ created: 2026-04-29
 > **URLs:** [spring.io](https://spring.io) (1)
 > **Env Vars:** pom (1)
 > **Exercise Files:** download the (1)
-> **Prerequisites:** set up (1)
 
 #### Solution: Create the Spring Boot MongoDB project
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980)
@@ -3532,10 +3533,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), [[MongoDB]] (3), application (3), [[Spring Boot]] (2), web (1)
 > **CLI Commands:** docker (5)
 > **File Paths:** pom.xml (1), compose.yaml (1), launch.json (1)
 > **Env Vars:** pom (1), cli (1), url (1)
-> **Code Keywords:** class. (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -3576,9 +3577,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (3), data (3), next (3), api (2), [[Fetch]] (2)
 > **Definitions:** is a  (9), is an  (2)
 > **CLI Commands:** mongo (5), find (1)
-> **Code Keywords:** let (3), interface (1)
 > **API Endpoints:** /api/images (1), /api/images/upload (1)
 > **Env Vars:** jpa (1), url (1)
 > **Code Identifiers:** getimage (1)
@@ -3716,8 +3717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Spring Data]] (2), [[Java]] (1), next (1), database (1)
 > **CLI Commands:** find (11), mongo (2), make (2), docker (2)
-> **Code Keywords:** let (9), interface (2), this, (2), delete (1), class. (1)
 > **Env Vars:** url (1), api (1)
 > **Ports:** port 8080 (1)
 > **Prerequisites:** install (1)
@@ -3726,7 +3727,7 @@ created: 2026-04-29
 
 ### 9. Create an API Gateway with Spring Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use cases for an API gateway microservice
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980)
@@ -3795,8 +3796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), database (4), api (4), [[Security]] (2), data (2)
 > **Env Vars:** api (4), http (2), url (1)
-> **Code Keywords:** delete (2), require (2), pass (1), module (1)
 > **CLI Commands:** mysql (2), mongo (1)
 > **Definitions:** is a  (1), is called (1)
 > **Versions:** java 21 (1)
@@ -3904,7 +3905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (1)
+> **Frameworks & Libraries:** cloud (7), application (5), [[Microservices]] (2), data (2), [[Java]] (1)
 > **Env Vars:** url (3), server_port (1), maven (1), gad (1), json (1)
 > **Prerequisites:** set up (5), configure (1)
 > **CLI Commands:** curl (3), make (1)
@@ -3972,7 +3973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1)
+> **Frameworks & Libraries:** api (4), application (2), [[Routing]] (2), [[Microsoft]] (1), [[MongoDB]] (1)
 > **CLI Commands:** curl (3), make (2)
 > **Ports:** :8081 (2), port 8082 (1), port 8081 (1)
 > **Env Vars:** api (1), yaml (1), uri (1), url (1)
@@ -4112,8 +4113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Spring Security]] (6), api (1), [[Spring Boot]] (1), prompt (1)
 > **Env Vars:** http (5), jpa (2), api (1), csrf (1), tor (1)
-> **Code Keywords:** let (3), delete (2), require (1), class, (1), protected (1)
 > **CLI Commands:** curl (6)
 > **Cross-References:** go back to (2)
 > **Tools:** github (1)
@@ -4240,8 +4241,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (11), [[MySQL]] (6), [[Microservices]] (5), application (3), [[MongoDB]] (2)
 > **CLI Commands:** docker (15), mongo (7), mysql (6), make (2), curl (2)
-> **Code Keywords:** let (5), override (2), module (1), finally, (1), this. (1)
 > **Env Vars:** jpa_app_uri (2), mongo_app_uri (2), api (1), url (1), http (1)
 > **File Paths:** docker-compose.xml (3), pom.xml (1), application.yaml (1), spring.application.json (1)
 > **Ports:** port 8081 (2), port 8082 (1), port 8080 (1), :8082 (1), :8081 (1)
@@ -4304,15 +4305,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Jetpack Compose|Compose]] (1), [[MySQL]] (1), [[Databases]] (1)
 > **CLI Commands:** docker (4), mongo (1), mysql (1), rm (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980)
@@ -4331,6 +4332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Data]] (2), [[Spring Boot]] (1), [[Microservices]] (1), next (1), [[Java]] (1)
 > **CLI Commands:** docker (2)
 > **Speakers:** - thanks (1)
 

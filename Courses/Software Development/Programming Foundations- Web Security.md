@@ -30,7 +30,7 @@ tags:
   - skill/web-services-security
   - skill/programming-foundations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Web%20Security.md)
@@ -49,52 +49,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The importance of security
+  - [The importance of security](#the-importance-of-security)
 - [**1. Security Overview**](#1-security-overview) (5 videos)
-  - What is security?
-  - Why security matters
-  - What is a hacker?
-  - Threat models
-  - Total security is unachievable
+  - [What is security?](#what-is-security)
+  - [Why security matters](#why-security-matters)
+  - [What is a hacker?](#what-is-a-hacker)
+  - [Threat models](#threat-models)
+  - [Total security is unachievable](#total-security-is-unachievable)
 - [**2. General Security Principles**](#2-general-security-principles) (9 videos)
-  - Least privilege
-  - Simple is more secure
-  - Never trust users
-  - Expect the unexpected
-  - Defense in depth
-  - Resilience
-  - Security through obscurity
-  - Deny-listing and allow-listing
-  - Map exposure points and data passageways
+  - [Least privilege](#least-privilege)
+  - [Simple is more secure](#simple-is-more-secure)
+  - [Never trust users](#never-trust-users)
+  - [Expect the unexpected](#expect-the-unexpected)
+  - [Defense in depth](#defense-in-depth)
+  - [Resilience](#resilience)
+  - [Security through obscurity](#security-through-obscurity)
+  - [Deny-listing and allow-listing](#deny-listing-and-allow-listing)
+  - [Map exposure points and data passageways](#map-exposure-points-and-data-passageways)
 - [**3. Filter Input, Control Output**](#3-filter-input-control-output) (8 videos)
-  - Regulate requests
-  - Validate input
-  - Sanitize data
-  - Label variables
-  - Keep code private
-  - Keep credentials private
-  - Keep error messages vague
-  - Smart logging
+  - [Regulate requests](#regulate-requests)
+  - [Validate input](#validate-input)
+  - [Sanitize data](#sanitize-data)
+  - [Label variables](#label-variables)
+  - [Keep code private](#keep-code-private)
+  - [Keep credentials private](#keep-credentials-private)
+  - [Keep error messages vague](#keep-error-messages-vague)
+  - [Smart logging](#smart-logging)
 - [**4. The Most Common Attacks**](#4-the-most-common-attacks) (13 videos)
-  - Types of credential attacks
-  - Strong passwords
-  - URL manipulation and Insecure Direct Object Reference (IDOR)
-  - SQL injection
-  - Cross-Site Scripting (XSS)
-  - Cross-Site Request Forgery (CSRF)
-  - Cross-Site Request protections
-  - Cookie visibility and theft
-  - Session hijacking
-  - Session fixation
-  - Remote system execution
-  - File upload abuse
-  - Denial of service
+  - [Types of credential attacks](#types-of-credential-attacks)
+  - [Strong passwords](#strong-passwords)
+  - [URL manipulation and Insecure Direct Object Reference (IDOR)](#url-manipulation-and-insecure-direct-object-reference-idor)
+  - [SQL injection](#sql-injection)
+  - [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
+  - [Cross-Site Request Forgery (CSRF)](#cross-site-request-forgery-csrf)
+  - [Cross-Site Request protections](#cross-site-request-protections)
+  - [Cookie visibility and theft](#cookie-visibility-and-theft)
+  - [Session hijacking](#session-hijacking)
+  - [Session fixation](#session-fixation)
+  - [Remote system execution](#remote-system-execution)
+  - [File upload abuse](#file-upload-abuse)
+  - [Denial of service](#denial-of-service)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of security
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/the-importance-of-security?u=76281980)
@@ -129,16 +129,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), web (4), [[PHP]] (1)
 > **CLI Commands:** ruby (2), make (1), php (1), rails (1)
 > **Definitions:** is an  (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** php (1)
 > **Speakers:** - security (1)
 
 
 ### 1. Security Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is security?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-security?u=76281980)
@@ -203,7 +203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (3), let (1), require (1), public (1), assert (1)
+> **Frameworks & Libraries:** [[Security]] (9), web (4), [[Web Development]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -268,10 +268,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), data (5), web (3), [[HTML]] (2), css (1)
 > **Env Vars:** html (2), css (1), url (1), php (1)
 > **CLI Commands:** php (1), make (1)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - let (1)
 
@@ -380,10 +380,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), next (2), [[Electronics]] (1), data (1), [[Databases]] (1)
 > **Analogies:** imagine (2), such as (1), for example (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** yarn (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [forbes.com](https://forbes.com) (1)
 > **Env Vars:** url (1)
 > **Speakers:** - when (1)
@@ -471,6 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), web (2), [[E-Commerce]] (1), [[Microsoft Defender|Defender]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is called (1)
@@ -539,7 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), let (1), raise (1)
+> **Frameworks & Libraries:** [[Security]] (9), data (1), business (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** cia (1)
 > **Speakers:** - i (1)
@@ -547,7 +548,7 @@ created: 2026-04-29
 
 ### 2. General Security Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980)
@@ -636,7 +637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), class. (1), function (1), class, (1)
+> **Frameworks & Libraries:** [[Security]] (6), next (1), [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1), database (1)
 > **CLI Commands:** make (1), php (1)
 > **Env Vars:** php (1)
 > **Analogies:** such as (1)
@@ -727,7 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3)
+> **Frameworks & Libraries:** [[Security]] (5), [[Programming]] (2), feature (2), [[PHP]] (2), [[Windows]] (1)
 > **CLI Commands:** php (2), make (1), find (1)
 > **Env Vars:** php (2)
 > **Definitions:** we call this (1)
@@ -826,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), delete (1)
+> **Frameworks & Libraries:** [[Security]] (3), web application (1), [[HTML]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
@@ -907,10 +908,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Security]] (3), next (1), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Env Vars:** ascii (1), html (1)
 > **Analogies:** think of it as (1), imagine (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - our (1)
 
 #### Defense in depth
@@ -992,7 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (1), self (1), else, (1)
+> **Frameworks & Libraries:** [[Security]] (4), data (4), [[Hardware]] (2), web (2), web application (2)
 > **Analogies:** imagine (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - defense (1)
@@ -1114,6 +1115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), feature (1), [[System Monitoring]] (1), [[Decision-Making]] (1), web (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
@@ -1236,11 +1238,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), web (2), database (2), next (1), [[Microsoft Defender|Defender]] (1)
 > **CLI Commands:** make (3), php (1), find (1)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Env Vars:** http (1), whois (1), url (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** public (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - security (1)
 
@@ -1319,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (3)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Programming]] (2), [[Security]] (2), data (1), web (1)
 > **Env Vars:** html (4)
 > **Definitions:** known as (2), is a  (2)
 > **Best Practices:** remember to (3)
@@ -1422,7 +1424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** data (27), [[Security]] (7), web (4), database (2), [[Hardware]] (2)
 > **Env Vars:** cia (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - our (1)
@@ -1430,7 +1432,7 @@ created: 2026-04-29
 
 ### 3. Filter Input, Control Output
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Regulate requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980)
@@ -1523,8 +1525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), web (5), [[Security]] (4), application (1), [[HTML]] (1)
 > **Env Vars:** post (4), url (2), http (1), connect (1), delete (1)
-> **Code Keywords:** pass (2), require (2), let (1), delete (1), type, (1)
 > **API Endpoints:** get  (4), post  (3)
 > **Analogies:** such as (2), it's like (1)
 > **CLI Commands:** make (1)
@@ -1634,7 +1636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), public (1), type. (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** data (22), web application (4), database (4), next (1), [[Programming]] (1)
 > **CLI Commands:** make (3), find (1), php (1)
 > **Env Vars:** jpeg (1), pdf (1), url (1), php (1)
 > **Analogies:** for example (3), imagine (1)
@@ -1784,11 +1786,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[HTML]] (8), [[JavaScript]] (6), [[SQL]] (5), database (4)
 > **Env Vars:** html (8), sql (5), json (2), xml (2), php (1)
 > **Definitions:** means that (3), is a  (3), known as (1)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** make (2), php (1), cat (1)
-> **Code Keywords:** pass (1), type. (1), let (1)
 > **Best Practices:** don't forget (1), you should always (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - when (1)
@@ -1828,10 +1830,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[PHP]] (1), web (1), [[Security]] (1)
 > **Code Identifiers:** raw_email (2), safe_email (1), dirty_params (1), clean_params (1)
 > **CLI Commands:** php (1), ruby (1), rails (1)
 > **Definitions:** short for (1), is called (1), is a  (1)
-> **Code Keywords:** let (1), function (1)
 > **Analogies:** such as (2)
 > **Env Vars:** php (1)
 > **Speakers:** - it (1)
@@ -1897,7 +1899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (12), private (9)
+> **Frameworks & Libraries:** web (8), [[Security]] (2), [[PHP]] (2), [[Server Configuration]] (1), [[HTML]] (1)
 > **CLI Commands:** php (2), find (1), make (1)
 > **Env Vars:** php (2), html (1)
 > **Analogies:** for example (1)
@@ -2016,7 +2018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (3), this. (1), require (1), let (1)
+> **Frameworks & Libraries:** [[Version Control]] (8), database (3), [[Security]] (3), [[Databases]] (2), data (2)
 > **CLI Commands:** ssh (5), make (2), git (1)
 > **Env Vars:** ssh (5), svn (1), sftp (1)
 > **Best Practices:** best practice (1), you should never (1)
@@ -2086,7 +2088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), function (1), continue (1)
+> **Frameworks & Libraries:** web (6), web application (3), generic (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** configure (1)
@@ -2173,10 +2175,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (3), [[Security]] (2), application (2), [[WordPress]] (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** private (1)
 > **Env Vars:** url (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - logging (1)
@@ -2184,7 +2186,7 @@ created: 2026-04-29
 
 ### 4. The Most Common Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of credential attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980)
@@ -2307,7 +2309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), public (1), else. (1)
+> **Frameworks & Libraries:** data (5), database (4), [[Databases]] (2), feature (1), next (1)
 > **Env Vars:** ceo (1), ncc (1), uss (1)
 > **Analogies:** it's like (1), for example (1)
 > **Prerequisites:** configure (1), required to (1)
@@ -2421,6 +2423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[Hardware]] (1), [[Google]] (1)
 > **CLI Commands:** ssh (3), make (3), find (1)
 > **Env Vars:** ssh (3), sms (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
@@ -2428,7 +2431,6 @@ created: 2026-04-29
 > **Best Practices:** recommended (1), you should never (1)
 > **Tools:** github (1)
 > **Warnings:** common mistake (1)
-> **Speakers:** - developers (1)
 
 #### URL manipulation and Insecure Direct Object Reference (IDOR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/url-manipulation-and-insecure-direct-object-reference-idor?u=76281980)
@@ -2531,8 +2533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), web (2), [[WordPress]] (2), [[Security]] (2), data (1)
 > **Env Vars:** url (13), idor (1)
-> **Code Keywords:** private (2), public (1), require (1), let (1)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** remember to (1)
@@ -2694,8 +2696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (30), data (15), database (8), web (4), application (4)
 > **Env Vars:** sql (30), sqli (6), owasp (1), char (1)
-> **Code Keywords:** function (3), let (2), delete (1)
 > **Analogies:** imagine (2), it's like (1), such as (1)
 > **Definitions:** is an  (1), is called (1), means that (1)
 > **Best Practices:** you should never (1), you should always (1)
@@ -2854,9 +2856,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (19), data (13), [[HTML]] (12), [[Scripting]] (9), [[Security]] (6)
 > **Env Vars:** html (12), dom (6), url (4), xss (3), csp (3)
 > **Analogies:** imagine (2), such as (2), it's like (1), similar to (1), picture (1)
-> **Code Keywords:** let (3), type. (1)
 > **CLI Commands:** php (2), make (1)
 > **Definitions:** is a  (1), known as (1), short for (1)
 > **File Paths:** register.php (2)
@@ -2964,10 +2966,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), web (1), data (1), css (1), [[JavaScript]] (1)
 > **Env Vars:** url (6), csrf (5), html (3), css (1)
 > **Analogies:** imagine (3), picture (1), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), require (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
@@ -3067,9 +3069,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Tokens]] (3), [[HTML]] (2), [[AJAX]] (2), [[Forms]] (2)
 > **Env Vars:** csrf (11), post (4), html (2), url (1), xss (1)
 > **API Endpoints:** get  (4), post  (4)
-> **Code Keywords:** match, (2), require (2), let (1), type. (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), such as (1), similar to (1)
 > **Definitions:** is a  (1)
@@ -3186,8 +3188,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), web (4), [[Scripting]] (2), [[JavaScript]] (2), traffic (1)
 > **Env Vars:** url (3), ssl (3), https (3), http (2), php (1)
-> **Code Keywords:** private (1), delete (1), default, (1), match, (1)
 > **CLI Commands:** php (1), make (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** we discussed (1)
@@ -3316,6 +3318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), web application (3), [[Scripting]] (2), database (1), web (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** https (5), ssl (1)
 > **Best Practices:** don't forget (1), best practice (1), recommended (1)
@@ -3323,7 +3326,6 @@ created: 2026-04-29
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** we discussed (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - session (1)
 
 #### Session fixation
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980)
@@ -3410,11 +3412,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[PHP]] (2), [[Scripting]] (2), web (2), application (1)
 > **Env Vars:** url (2), php (2), post (1), https (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **CLI Commands:** php (2)
 > **API Endpoints:** get  (1), post  (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - session (1)
 
@@ -3477,7 +3479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), delete (1)
+> **Frameworks & Libraries:** data (4), [[Programming]] (3), web (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rce (1)
 > **Documentation:** the documentation (1)
@@ -3561,7 +3563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), type. (2), require (1), finally, (1)
+> **Frameworks & Libraries:** web (2), web application (2), application (1), cloud (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Analogies:** for example (1)
@@ -3683,6 +3685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (13), data (5), [[Hardware]] (4), web (3), hit (2)
 > **Env Vars:** ddos (7), isp (2), aws (1), ram (1)
 > **Definitions:** is a  (3), is an  (2), known as (1)
 > **Analogies:** such as (2), for example (1)
@@ -3692,7 +3695,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980)
@@ -3755,10 +3758,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), data (6), dns (2), web (1), database (1)
 > **Env Vars:** dns (2), dnssec (2)
 > **CLI Commands:** make (2)
 > **Definitions:** short for (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - thank (1)
 

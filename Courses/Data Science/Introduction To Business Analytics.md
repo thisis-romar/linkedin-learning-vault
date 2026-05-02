@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20To%20Business%20Analytics.md)
@@ -43,50 +43,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Empower your business through analytics
+  - [Empower your business through analytics](#empower-your-business-through-analytics)
 - [**1. How Can Data Improve Your Business?**](#1-how-can-data-improve-your-business) (4 videos)
-  - What is the value of data?
-  - How can data drive my decisions?
-  - Data driven vs. data informed
-  - Three types of analytics
+  - [What is the value of data?](#what-is-the-value-of-data)
+  - [How can data drive my decisions?](#how-can-data-drive-my-decisions)
+  - [Data driven vs. data informed](#data-driven-vs-data-informed)
+  - [Three types of analytics](#three-types-of-analytics)
 - [**2. Analytics Fundamentals**](#2-analytics-fundamentals) (6 videos)
-  - Data governance
-  - Data tracking tools
-  - Effective data analysis
-  - Finding insights in data
-  - Statistics for analysts
-  - Data informed decision making
+  - [Data governance](#data-governance)
+  - [Data tracking tools](#data-tracking-tools)
+  - [Effective data analysis](#effective-data-analysis)
+  - [Finding insights in data](#finding-insights-in-data)
+  - [Statistics for analysts](#statistics-for-analysts)
+  - [Data informed decision making](#data-informed-decision-making)
 - [**3. Data Source Map**](#3-data-source-map) (3 videos)
-  - Data source map
-  - Internal vs. external data sources
-  - Combining data sources
+  - [Data source map](#data-source-map)
+  - [Internal vs. external data sources](#internal-vs-external-data-sources)
+  - [Combining data sources](#combining-data-sources)
 - [**4. Managing Data**](#4-managing-data) (5 videos)
-  - Database management
-  - Data silos
-  - Data management tools
-  - Visualizing data
-  - Reporting infrastructure
+  - [Database management](#database-management)
+  - [Data silos](#data-silos)
+  - [Data management tools](#data-management-tools)
+  - [Visualizing data](#visualizing-data)
+  - [Reporting infrastructure](#reporting-infrastructure)
 - [**5. The Value of Data Sources**](#5-the-value-of-data-sources) (5 videos)
-  - Sales data
-  - Marketing data
-  - Cost data
-  - Psychographic data
-  - External data
+  - [Sales data](#sales-data)
+  - [Marketing data](#marketing-data)
+  - [Cost data](#cost-data)
+  - [Psychographic data](#psychographic-data)
+  - [External data](#external-data)
 - [**6. Tracking Data**](#6-tracking-data) (8 videos)
-  - Key sales metrics
-  - Tools to track sales data
-  - Key marketing metrics
-  - Tools to track marketing data
-  - Key cost metrics to track
-  - Tools to track cost data
-  - Key psychographic metrics
-  - Tools to track psychographic data
+  - [Key sales metrics](#key-sales-metrics)
+  - [Tools to track sales data](#tools-to-track-sales-data)
+  - [Key marketing metrics](#key-marketing-metrics)
+  - [Tools to track marketing data](#tools-to-track-marketing-data)
+  - [Key cost metrics to track](#key-cost-metrics-to-track)
+  - [Tools to track cost data](#tools-to-track-cost-data)
+  - [Key psychographic metrics](#key-psychographic-metrics)
+  - [Tools to track psychographic data](#tools-to-track-psychographic-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Empower your business through analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980)
@@ -117,14 +117,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Analytics]] (5), business (3), hr (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - do (1)
 
 
 ### 1. How Can Data Improve Your Business?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the value of data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980)
@@ -199,7 +199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1), finally, (1), raise (1), let (1)
+> **Frameworks & Libraries:** data (15), [[Decision-Making]] (3), product (1), [[Dashboards]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - data (1)
 
@@ -272,6 +272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Dashboards]] (3), [[Tableau]] (2), power (2), bi (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** picture (1)
 > **Speakers:** - data (1)
@@ -325,6 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Decision-Making]] (4), business (2), [[Predictive Modeling]] (1), next (1)
 > **Definitions:** is a  (1), means that (1), is called (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - data (1)
@@ -378,15 +380,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (20), data (5), [[Predictive Modeling]] (3), [[Big Data]] (2), [[Statistics]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - what (1)
 
 
 ### 2. Analytics Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980)
@@ -451,6 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -512,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), switch (1)
+> **Frameworks & Libraries:** data (16), [[Google]] (4), [[Analytics]] (3), [[Decision-Making]] (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
@@ -606,8 +609,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), business (5), [[Tableau]] (1), [[Microsoft Excel|Excel]] (1), power (1)
 > **Env Vars:** kpi (3)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -684,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1), type. (1), from. (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), [[Tableau]] (2), power (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Definitions:** is called (1), is a  (1)
 > **UI Navigation:** click on (1)
@@ -750,7 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), require (1)
+> **Frameworks & Libraries:** data (8), [[Analytics]] (6), business (2), [[Predictive Modeling]] (1), [[Tableau]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), picture (1)
 > **UI Navigation:** toggle (1)
@@ -802,8 +805,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), product (5), [[Decision-Making]] (4), [[Pricing Strategy]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - decision (1)
@@ -811,7 +814,7 @@ created: 2026-04-29
 
 ### 3. Data Source Map
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data source map
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-source-map?u=76281980)
@@ -884,9 +887,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), business (3), [[Analytics]] (1), next (1), product (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** from, (1), finally, (1)
 > **Analogies:** picture (1), such as (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
@@ -966,9 +969,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Decision-Making]] (2), product (2), database (2), next (1)
 > **Definitions:** means that (2), is a  (2), defined as (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - data (1)
 
 #### Combining data sources
@@ -1014,7 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (19), [[Microsoft Products|Products]] (2), next (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** crm (1)
@@ -1024,7 +1027,7 @@ created: 2026-04-29
 
 ### 4. Managing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Database management
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980)
@@ -1075,6 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), business (1), next (1), [[Google]] (1), [[Analytics]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** abc (2)
@@ -1114,6 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), product (1), next (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -1164,10 +1169,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (5), [[Tableau]] (4), database (4), [[Databases]] (2)
 > **Definitions:** is a  (3), in other words (1), short for (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - whether (1)
 
@@ -1254,8 +1259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), business (3), [[Dashboards]] (2), [[LinkedIn]] (1), next (1)
 > **Analogies:** picture (2), for example (2), such as (1)
-> **Code Keywords:** self (1), let (1), extends (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2.5 (1)
 > **Definitions:** is a  (1)
@@ -1334,8 +1339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), power (1), data (1), [[Infographics]] (1), [[Tableau]] (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** this, (1), let (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
@@ -1343,7 +1348,7 @@ created: 2026-04-29
 
 ### 5. The Value of Data Sources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sales data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/sales-data?u=76281980)
@@ -1394,8 +1399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), product (2), hit (1), business (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1), raise (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sales (1)
 
@@ -1456,7 +1461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return. (1), let (1)
+> **Frameworks & Libraries:** data (8), [[Email Marketing]] (3), business (1), [[LinkedIn]] (1), management (1)
 > **Ports:** :00 (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** earlier in (1)
@@ -1517,9 +1522,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (2), [[Forms]] (1), [[Microsoft Office|Office]] (1), product (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - studying (1)
 
 #### Psychographic data
@@ -1589,9 +1594,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), product (3), [[Microsoft Products|Products]] (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - do (1)
 
 #### External data
@@ -1641,16 +1646,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microsoft Products|Products]] (2), [[Market Research]] (1), web (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - how (1)
 
 
 ### 6. Tracking Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key sales metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980)
@@ -1727,7 +1732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Hardware]] (4), data (3), business (2), [[Analytics]] (1), product (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1778,6 +1783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), product (2), [[Google]] (2), [[Analytics]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** such as (2), for example (1)
 > **Exercise Files:** download the (1)
@@ -1845,7 +1851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (12), product (3), [[Tableau]] (3), [[Lead Generation]] (2), [[Email Marketing]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** kind of like (1)
@@ -1904,9 +1910,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Google]] (2), [[Analytics]] (2), web (1), next (1)
 > **Prerequisites:** set up (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - one (1)
@@ -1960,7 +1966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), return. (1)
+> **Frameworks & Libraries:** business (4), hit (2), data (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
@@ -1994,8 +2000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Microsoft Excel|Excel]] (3), data (2), next (1), database (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - tracking (1)
 
 #### Key psychographic metrics
@@ -2057,7 +2063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), interface (1), switch (1)
+> **Frameworks & Libraries:** data (11), product (3)
 > **Analogies:** for example (2)
 > **Warnings:** warning (1)
 > **Speakers:** - wouldn (1)
@@ -2109,7 +2115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (10), [[Google]] (4), [[Forms]] (3), product (2), power (1)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2118,7 +2124,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/next-steps?u=76281980)
@@ -2145,7 +2151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Analytics]] (6), [[LinkedIn]] (2), career (1), next (1), data (1)
 > **Speakers:** - if (1)
 
 

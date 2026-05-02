@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Playwright%20Essential%20Training-%20Abstractions%2C%20Fixtures%2C%20and%20Complex%20Scenarios.md)
@@ -48,55 +48,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Level up your Playwright skills: Complex scenarios simplified
-  - What you need to know
-  - Using the GitHub exercise files
-  - Cloning the repository and installation
-  - Overview of the website under test
+  - [Level up your Playwright skills: Complex scenarios simplified](#level-up-your-playwright-skills-complex-scenarios-simplified)
+  - [What you need to know](#what-you-need-to-know)
+  - [Using the GitHub exercise files](#using-the-github-exercise-files)
+  - [Cloning the repository and installation](#cloning-the-repository-and-installation)
+  - [Overview of the website under test](#overview-of-the-website-under-test)
 - [**1. Abstractions in Playwright**](#1-abstractions-in-playwright) (10 videos)
-  - Abstractions: Pros and cons
-  - Creating a page object in Playwright
-  - Using a page object in Playwright
-  - Overview of test data management in Playwright
-  - Creating a data factory for Playwright tests
-  - Creating helpers for Playwright tests
-  - Creating custom assertions for Playwright tests
-  - Managing TypeScript config
-  - Challenge: Create a test using data factory and helper Functions
-  - Solution: Create a test using data factory and helper functions
+  - [Abstractions: Pros and cons](#abstractions-pros-and-cons)
+  - [Creating a page object in Playwright](#creating-a-page-object-in-playwright)
+  - [Using a page object in Playwright](#using-a-page-object-in-playwright)
+  - [Overview of test data management in Playwright](#overview-of-test-data-management-in-playwright)
+  - [Creating a data factory for Playwright tests](#creating-a-data-factory-for-playwright-tests)
+  - [Creating helpers for Playwright tests](#creating-helpers-for-playwright-tests)
+  - [Creating custom assertions for Playwright tests](#creating-custom-assertions-for-playwright-tests)
+  - [Managing TypeScript config](#managing-typescript-config)
+  - [Challenge: Create a test using data factory and helper Functions](#challenge-create-a-test-using-data-factory-and-helper-functions)
+  - [Solution: Create a test using data factory and helper functions](#solution-create-a-test-using-data-factory-and-helper-functions)
 - [**2. Fixtures in Playwright**](#2-fixtures-in-playwright) (7 videos)
-  - Overview of Playwright fixtures
-  - Creating a fixture in Playwright
-  - Using a fixture in Playwright tests
-  - Overview of advanced fixtures in Playwright
-  - Implementing an advanced fixture in Playwright
-  - Challenge: Update message test to use fixtures
-  - Solution: Update message test to use fixtures
+  - [Overview of Playwright fixtures](#overview-of-playwright-fixtures)
+  - [Creating a fixture in Playwright](#creating-a-fixture-in-playwright)
+  - [Using a fixture in Playwright tests](#using-a-fixture-in-playwright-tests)
+  - [Overview of advanced fixtures in Playwright](#overview-of-advanced-fixtures-in-playwright)
+  - [Implementing an advanced fixture in Playwright](#implementing-an-advanced-fixture-in-playwright)
+  - [Challenge: Update message test to use fixtures](#challenge-update-message-test-to-use-fixtures)
+  - [Solution: Update message test to use fixtures](#solution-update-message-test-to-use-fixtures)
 - [**3. Mocking and Emulation in Playwright**](#3-mocking-and-emulation-in-playwright) (8 videos)
-  - Overview of network routing in Playwright
-  - Intercepting HTTP requests with Playwright
-  - Mocking HTTP responses with Playwright
-  - Browser emulation in Playwright
-  - Localization and geolocation in Playwright
-  - Injecting JavaScript in Playwright
-  - Challenge: Mocking and emulation in Playwright
-  - Solution: Mocking and emulation in Playwright
+  - [Overview of network routing in Playwright](#overview-of-network-routing-in-playwright)
+  - [Intercepting HTTP requests with Playwright](#intercepting-http-requests-with-playwright)
+  - [Mocking HTTP responses with Playwright](#mocking-http-responses-with-playwright)
+  - [Browser emulation in Playwright](#browser-emulation-in-playwright)
+  - [Localization and geolocation in Playwright](#localization-and-geolocation-in-playwright)
+  - [Injecting JavaScript in Playwright](#injecting-javascript-in-playwright)
+  - [Challenge: Mocking and emulation in Playwright](#challenge-mocking-and-emulation-in-playwright)
+  - [Solution: Mocking and emulation in Playwright](#solution-mocking-and-emulation-in-playwright)
 - [**4. Customizing the Playwright Config**](#4-customizing-the-playwright-config) (4 videos)
-  - Running a webserver during a Playwright test
-  - Optimizing Playwright: Workers and sharding
-  - Retrying tests in Playwright
-  - Overview of timeouts in Playwright
+  - [Running a webserver during a Playwright test](#running-a-webserver-during-a-playwright-test)
+  - [Optimizing Playwright: Workers and sharding](#optimizing-playwright-workers-and-sharding)
+  - [Retrying tests in Playwright](#retrying-tests-in-playwright)
+  - [Overview of timeouts in Playwright](#overview-of-timeouts-in-playwright)
 - [**5. Handling Complex Scenarios and Interactions in Playwright**](#5-handling-complex-scenarios-and-interactions-in-playwright) (4 videos)
-  - Working with multiple windows and popups in Playwright
-  - Working with alerts and dialogs in Playwright
-  - Working with uploads and downloads in Playwright
-  - Working with challenging elements in Playwright
+  - [Working with multiple windows and popups in Playwright](#working-with-multiple-windows-and-popups-in-playwright)
+  - [Working with alerts and dialogs in Playwright](#working-with-alerts-and-dialogs-in-playwright)
+  - [Working with uploads and downloads in Playwright](#working-with-uploads-and-downloads-in-playwright)
+  - [Working with challenging elements in Playwright](#working-with-challenging-elements-in-playwright)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Level up your Playwright skills: Complex scenarios simplified
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/level-up-your-playwright-skills-complex-scenarios-simplified?u=76281980)
@@ -119,6 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Automation]] (1)
 > **URLs:** [playwrightsolutions.com](https://playwrightsolutions.com) (1)
 > **Speakers:** - [butch] (1)
 
@@ -163,10 +164,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), [[Programming]] (1), hit (1)
 > **CLI Commands:** node (5), find (1), make (1)
 > **Tools:** vs code (3), terminal (1)
 > **Prerequisites:** install (3), set up (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [butch] (1)
 
@@ -205,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), let (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (1), [[Test Automation]] (1), next (1)
 > **CLI Commands:** git (2), make (1)
 > **UI Navigation:** switch to (2)
 > **Exercise Files:** github repo (1), clone the repo (1)
@@ -309,8 +310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Git]] (5), [[Windows]] (3), hit (3), cd (2)
 > **CLI Commands:** git (5), ssh (4), cd (2), npx (2), ls (1)
-> **Code Keywords:** let (2), switch (2), pass (2), require (1), this, (1)
 > **Tools:** github (7), terminal (1)
 > **Env Vars:** ssh (4), https (1), cli (1)
 > **Prerequisites:** install (4), set up (1), configure (1)
@@ -417,7 +418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), continue (1), this. (1)
+> **Frameworks & Libraries:** api (4), [[Software Testing]] (1), [[GitHub]] (1), [[Fetch]] (1), [[Hardware]] (1)
 > **Env Vars:** api (4)
 > **UI Navigation:** click on (1), scroll down (1), navigate to (1)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (2)
@@ -429,7 +430,7 @@ created: 2026-04-29
 
 ### 1. Abstractions in Playwright
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Abstractions: Pros and cons
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/abstractions-pros-and-cons?u=76281980)
@@ -536,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), abstract (3), let (2), class. (1), for, (1)
+> **Frameworks & Libraries:** data (6), dom (1), generic (1), [[Test Automation]] (1), [[Automation]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Documentation:** spec (2)
 > **Env Vars:** dom (1)
@@ -674,7 +675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (5), abstract (2), class. (2), class, (2)
+> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** getbytestid (3), emailinput (2), passwordinput (2), loginbutton (1)
 > **File Paths:** off.spec.ts (1), off.setup.ts (1), login.page.ts (1)
 > **Prerequisites:** setup (3)
@@ -840,7 +841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (12), function (12), let (10), await (6), this. (5)
+> **Frameworks & Libraries:** next (1), data (1)
 > **Code Identifiers:** loginpage (7), emailinput (2), passwordinput (2), loginbutton (2), getbytestid (1)
 > **Prerequisites:** setup (6)
 > **CLI Commands:** make (4)
@@ -924,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (7), this. (2), delete (1)
+> **Frameworks & Libraries:** data (27), [[Microsoft Products|Products]] (3), [[Test Automation]] (2), next (2), management (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -1227,7 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), pass (12), this, (6), function (5), static (3)
+> **Frameworks & Libraries:** data (15), [[JavaScript]] (5), api (3), next (3), hit (2)
 > **Code Identifiers:** apiurl (3), registeruser (3), requestcontext (2), tobe (2), createrequestcontext (1)
 > **CLI Commands:** make (11)
 > **Env Vars:** api (3), url (3), api_url (2)
@@ -1385,7 +1386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (10), pass (4), const (1), this, (1)
+> **Frameworks & Libraries:** data (4), next (1), [[ChatGPT]] (1)
 > **Versions:** 0.1 (2), 0.3 (2), 0.5 (2), 0.9 (2), 0.2 (1)
 > **CLI Commands:** make (3), find (2)
 > **File Paths:** states.ts (1), arrays.ts (1)
@@ -1533,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (4), assert (2), this. (2), else, (1)
+> **Frameworks & Libraries:** api (4), generic (1), next (1)
 > **Code Identifiers:** tobenumber (4), tobe (2), stringmatching (1), stringcontaining (1), apichallenge (1)
 > **Definitions:** is a  (5)
 > **File Paths:** global.d.ts (2), playwrightconfig.js (1)
@@ -1635,7 +1636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[JSON]] (2), next (2), api (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** json (1), url (1), api (1)
 > **Documentation:** spec (2)
@@ -1706,10 +1707,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), api (2), application (1), traffic (1), [[JSON]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** api (2), json (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1936,7 +1937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (4), pass (2), class. (1), this. (1)
+> **Frameworks & Libraries:** data (7), next (3), api (2), css (2), front-end (1)
 > **Definitions:** is a  (9)
 > **Code Identifiers:** messages_spec (1), loginpage (1), registeruser (1), storagestate (1), messagespage (1)
 > **UI Navigation:** dropdown (4), click on (2), go to (1)
@@ -1948,7 +1949,7 @@ created: 2026-04-29
 
 ### 2. Fixtures in Playwright
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Playwright fixtures
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-playwright-fixtures?u=76281980)
@@ -2019,7 +2020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (2), override (1), function (1)
+> **Frameworks & Libraries:** data (1), power (1), [[Dependency Injection]] (1)
 > **Prerequisites:** setup (2), set up (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2098,7 +2099,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (2), async (1), await (1), type, (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** loginpage (2)
 > **Definitions:** is a  (1), known as (1)
@@ -2181,7 +2181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), import. (1), export, (1), class, (1)
+> **Frameworks & Libraries:** next (1)
 > **Documentation:** spec (6)
 > **Prerequisites:** initialization (2), setup (1)
 > **Definitions:** is a  (1)
@@ -2254,7 +2254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Test Automation]] (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** url (1)
@@ -2457,7 +2457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), pass (7), this. (2), require (1), function (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), next (2), hit (1)
 > **Code Identifiers:** accountpage (5), mergetests (3), pageconsole (3), loginpage (2), mergeexpects (2)
 > **Documentation:** spec (5)
 > **CLI Commands:** find (2), make (1), npx (1)
@@ -2480,7 +2480,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Cross-References:** in the last (1), previous video (1)
-> **Code Keywords:** require (1)
 > **Documentation:** spec (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2529,14 +2528,13 @@ created: 2026-04-29
 > **Code Identifiers:** contactpage (3), loginpage (2), accountpage (2), messagespage (2), messagepage (1)
 > **Documentation:** spec (3)
 > **Prerequisites:** initialization (3)
-> **Code Keywords:** pass (1), case, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
 
 ### 3. Mocking and Emulation in Playwright
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of network routing in Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980)
@@ -2601,8 +2599,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[Microsoft Products|Products]] (4), [[Google]] (3), traffic (1), next (1)
 > **Env Vars:** api (7), har (2)
-> **Code Keywords:** function (2), this, (2), continue (2), this. (1), case. (1)
 > **Code Identifiers:** routefromhar (1), routefromjson (1), waitfortimeout (1)
 > **Analogies:** similar to (1), it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -2864,7 +2862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), await (7), this, (3), const (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), data (11), product (9), [[JSON]] (5), api (4)
 > **Definitions:** is a  (10), is an  (1)
 > **Env Vars:** api (4), json (3), xhr (1), url (1)
 > **CLI Commands:** make (5), find (3)
@@ -3086,7 +3084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), pass (5), continue (2), await (2), this. (2)
+> **Frameworks & Libraries:** product (13), data (6), [[JSON]] (5), api (4), next (3)
 > **Env Vars:** har (12), json (5), api (4), hars (2), url (2)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 1.99 (2), 123.01 (1), 14.15 (1)
@@ -3300,7 +3298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), pass (3), this, (3), override (2), await (1)
+> **Frameworks & Libraries:** [[Search]] (5), data (2), [[Zoom]] (1), [[npm]] (1), hit (1)
 > **Tools:** safari (9), command line (1), terminal (1), vs code (1)
 > **UI Navigation:** click on (4), scroll down (2), go to (2), toggle (2), right-click (1)
 > **CLI Commands:** make (4), find (3), npm (1), npx (1)
@@ -3376,7 +3374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (4), this. (1)
+> **Frameworks & Libraries:** web (1), web application (1)
 > **Prerequisites:** set up (2), setup (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -3617,7 +3615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (4), await (4), pass (1), async (1)
+> **Frameworks & Libraries:** [[JavaScript]] (10), [[Search]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Software Testing]] (1), next (1)
 > **UI Navigation:** go to (7), scroll down (1), scroll up (1)
 > **Code Identifiers:** brokenimages (3), inputswithoutlabels (2), tobe (2)
 > **CLI Commands:** make (4), find (1)
@@ -3653,9 +3651,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ismobile (1), waitfortimeout (1)
-> **Code Keywords:** this. (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -3785,8 +3783,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), data (3), product (3), [[JSON]] (3), [[GitHub]] (1)
 > **Env Vars:** url (6), api (5), json (2), api_url (1), env (1)
-> **Code Keywords:** let (2), continue (1), await (1), default, (1), pass (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** ismobile (2), apiurl (1)
 > **Cross-References:** we talked about (1), in the last (1), next chapter (1)
@@ -3797,7 +3795,7 @@ created: 2026-04-29
 
 ### 4. Customizing the Playwright Config
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running a webserver during a Playwright test
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980)
@@ -3914,8 +3912,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), [[npm]] (5), database (3), [[JSON]] (2), ci (2)
 > **CLI Commands:** npm (5), cd (2), npx (2), find (2)
-> **Code Keywords:** let (5), pass (2), this. (2), case. (1), this, (1)
 > **File Paths:** playwright.config (4), package.json (2)
 > **Code Identifiers:** webserver (3), reuseexistingserver (1), globalsetup (1), globalteardown (1)
 > **Prerequisites:** install (3), configure (1), setup (1)
@@ -4064,7 +4062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), this, (1), override (1), continue (1)
+> **Frameworks & Libraries:** ci (3), product (1), hit (1), prompt (1), parallel (1)
 > **CLI Commands:** npx (5), find (2)
 > **Tools:** terminal (2), command prompt (1), command line (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -4152,7 +4150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (3), await (1), override (1)
+> **Frameworks & Libraries:** data (2), api (2), application (2), feature (1), [[Automation]] (1)
 > **CLI Commands:** make (2), npx (2)
 > **Env Vars:** api (2), npx (2)
 > **Tools:** terminal (1), safari (1)
@@ -4277,7 +4275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), override (3), default, (3), pass (1), this, (1)
+> **Frameworks & Libraries:** next (2), [[Test Automation]] (1), [[Design Systems]] (1), teams (1)
 > **Code Identifiers:** beforeeach (3), settimeout (2), testinfo (2)
 > **Definitions:** is an  (3), is a  (2)
 > **Documentation:** the docs (3)
@@ -4289,7 +4287,7 @@ created: 2026-04-29
 
 ### 5. Handling Complex Scenarios and Interactions in Playwright
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with multiple windows and popups in Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980)
@@ -4384,7 +4382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), await (4), pass (2), this. (1), import, (1)
+> **Frameworks & Libraries:** next (6), [[Windows]] (2), web (2), [[npm]] (2), [[JavaScript]] (1)
 > **CLI Commands:** make (6), npm (2)
 > **Code Identifiers:** waitforevent (1), popupromise (1), waitforever (1), getbyrole (1), popuppromise (1)
 > **Env Vars:** url (3), b6g2 (1)
@@ -4610,7 +4608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (10), let (8), pass (6), this. (3), async (1)
+> **Frameworks & Libraries:** next (4), data (3), web (2), hit (2), [[JavaScript]] (2)
 > **Code Identifiers:** contactpage (7), waitforevent (2), getbyrole (2), tohavevalue (2), contactpagepromise (1)
 > **URLs:** [test.com](https://test.com) (2), [localhost:5173](https://localhost:5173) (1)
 > **Env Vars:** url (1), api (1), llm (1)
@@ -4918,7 +4916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), await (9), pass (7), function (2), async (2)
+> **Frameworks & Libraries:** next (3), data (2), [[JavaScript]] (2), web (1), [[npm]] (1)
 > **Code Identifiers:** setinputfiles (3), getbyrole (3), designupload (2), filecontent (2), onclick (1)
 > **CLI Commands:** make (4), npm (1), find (1)
 > **Documentation:** spec (2), the docs (1), the documentation (1)
@@ -5126,7 +5124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), pass (10), this, (4), await (4), type. (2)
+> **Frameworks & Libraries:** [[HTML]] (3), next (3), web (1)
 > **Code Identifiers:** bageltype (9), getbyrole (8), bagelrow (2), addtocartbutton (2)
 > **CLI Commands:** find (9), make (2)
 > **Definitions:** is a  (3), is an  (1)
@@ -5138,7 +5136,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980)
@@ -5175,8 +5173,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[GitHub]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** continue (2)
 > **Tools:** discord (1), github (1)
 > **URLs:** [playwrightsolutions.com](https://playwrightsolutions.com) (1)
 > **Speakers:** - [instructor] (1)

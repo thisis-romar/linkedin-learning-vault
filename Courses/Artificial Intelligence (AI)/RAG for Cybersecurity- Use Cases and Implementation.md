@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/RAG%20for%20Cybersecurity-%20Use%20Cases%20and%20Implementation.md)
@@ -53,29 +53,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to RAG for Cyber Security
-  - What to know before getting started
+  - [Welcome to RAG for Cyber Security](#welcome-to-rag-for-cyber-security)
+  - [What to know before getting started](#what-to-know-before-getting-started)
 - [**1. Understanding RAG**](#1-understanding-rag) (2 videos)
-  - What is Retrieval-Augmented Generation?
-  - Core components of RAG systems
+  - [What is Retrieval-Augmented Generation?](#what-is-retrieval-augmented-generation)
+  - [Core components of RAG systems](#core-components-of-rag-systems)
 - [**2. RAG in action**](#2-rag-in-action) (4 videos)
-  - Introduce RAGs capabilities for risk and cyber security
-  - Uploading  MITRE ATT&CK techniques to a vector database
-  - Adding the LLM
-  - Case Study: MITRE ATT&CK and RAG in action
+  - [Introduce RAGs capabilities for risk and cyber security](#introduce-rags-capabilities-for-risk-and-cyber-security)
+  - [Uploading  MITRE ATT&CK techniques to a vector database](#uploading-mitre-attck-techniques-to-a-vector-database)
+  - [Adding the LLM](#adding-the-llm)
+  - [Case Study: MITRE ATT&CK and RAG in action](#case-study-mitre-attck-and-rag-in-action)
 - [**3. RAG for GRC**](#3-rag-for-grc) (3 videos)
-  - Using RAG for GRC automation
-  - Enhancing regulatory compliance with RAG
-  - Gap analysis using RAG: A deep dive
+  - [Using RAG for GRC automation](#using-rag-for-grc-automation)
+  - [Enhancing regulatory compliance with RAG](#enhancing-regulatory-compliance-with-rag)
+  - [Gap analysis using RAG: A deep dive](#gap-analysis-using-rag-a-deep-dive)
 - [**4. Advanced RAG Application**](#4-advanced-rag-application) (2 videos)
-  - Maintaining and scaling RAG systems
-  - Course summary
+  - [Maintaining and scaling RAG systems](#maintaining-and-scaling-rag-systems)
+  - [Course summary](#course-summary)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course conclusion
+  - [Course conclusion](#course-conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to RAG for Cyber Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980)
@@ -100,8 +100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), ai (3), [[Cybersecurity]] (2), rag (2), [[Real-Time]] (1)
 > **Env Vars:** rag (2), ceo (1), nyu (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - cybersecurity (1)
 
 #### What to know before getting started
@@ -119,9 +119,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), ai (3), [[Security]] (2), rag (2), power (1)
 > **Env Vars:** rag (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** jupyter (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - here (1)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Understanding RAG
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Retrieval-Augmented Generation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980)
@@ -202,9 +202,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (7), ai (4), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (3), [[Real-Time]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Env Vars:** rag (7), gdpr (1)
 > **Analogies:** imagine (2), such as (1), for instance (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Core components of RAG systems
@@ -362,9 +362,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), llm (11), data (8), [[Cybersecurity]] (6), rag (4)
 > **Env Vars:** llm (11), rag (4), ccpa (2), bert (1)
 > **Analogies:** think of it like (2), imagine (2), for example (1)
-> **Code Keywords:** let (4)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -373,7 +373,7 @@ created: 2026-04-29
 
 ### 2. RAG in action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduce RAGs capabilities for risk and cyber security
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980)
@@ -516,8 +516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (19), data (11), ai (11), [[Cybersecurity]] (6), [[Security]] (4)
 > **Env Vars:** rag (18), nist (1), llm (1)
-> **Code Keywords:** let (3), this, (2), private (2), this. (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -599,9 +599,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (8), data (7), database (7), [[GitHub]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** mitre (2), csv (2), att (1), cisa (1), l12 (1)
 > **Prerequisites:** set up (3), install (2), before we start (1)
-> **Code Keywords:** let (2), case, (2)
 > **Exercise Files:** github repo (2), download the (1)
 > **Tools:** github (2)
 > **Warnings:** warning (2)
@@ -703,8 +703,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (16), api (7), rag (6), [[ChromaDB|Chroma]] (5), next (3)
 > **Env Vars:** llm (16), api (7), rag (6), mitre (5), gpu (2)
-> **Code Keywords:** let (4), function (4), case, (3), interface (2)
 > **Prerequisites:** set up (5), configure (2), you'll need (1)
 > **Exercise Files:** template (2), download the (1), github repo (1)
 > **CLI Commands:** make (2), python (1)
@@ -853,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), rag (6), database (6), llm (5), [[GitHub]] (2)
 > **Env Vars:** mitre (7), rag (6), llm (5), att (2), etl (2)
-> **Code Keywords:** let (2), this, (1), public (1), for. (1), include, (1)
 > **Tools:** github (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** github repo (1)
@@ -863,7 +863,7 @@ created: 2026-04-29
 
 ### 3. RAG for GRC
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using RAG for GRC automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980)
@@ -910,8 +910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (10), data (3), teams (3), game (2), [[Privacy]] (1)
 > **Env Vars:** rag (10), grc (4), gdpr (2), aml (1), hipaa (1)
-> **Code Keywords:** case, (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1050,8 +1050,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (15), data (8), [[Security]] (6), prompt (5), [[Privacy]] (4)
 > **Env Vars:** rag (15), grc (6), soc (4), gdpr (2), unctad (1)
-> **Code Keywords:** let (6), case, (2), require (2), self (1), continue (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1137,8 +1137,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Privacy]] (5), database (5), rag (4), llm (4)
 > **Env Vars:** rag (4), llm (4), grc (1), csv (1), gpu (1)
-> **Code Keywords:** let (8), case, (2), function (1), continue (1)
 > **Cross-References:** in the last (1), we talked about (1), earlier in (1)
 > **Prerequisites:** configure (1), setup (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1147,7 +1147,7 @@ created: 2026-04-29
 
 ### 4. Advanced RAG Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintaining and scaling RAG systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980)
@@ -1306,8 +1306,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), rag (12), database (6), [[MLOps]] (5), [[Cybersecurity]] (3)
 > **Env Vars:** rag (12), grc (2), rbac (2), csa (1), cve (1)
-> **Code Keywords:** let (7), yield (2), this. (1), extends (1), throw (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (1), cd (1)
 > **Definitions:** is a  (2)
@@ -1360,8 +1360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (10), [[Cybersecurity]] (7), ai (7), [[Security]] (4), data (3)
 > **Env Vars:** rag (9), gdpr (1), nycrr (1)
-> **Code Keywords:** continue (3), let (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** we discussed (1)
 > **Tools:** jupyter (1)
@@ -1371,7 +1371,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980)
@@ -1398,8 +1398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Cybersecurity]] (4), data (2), rag (2), power (1)
 > **Env Vars:** rag (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - congratulations (1)
 
 

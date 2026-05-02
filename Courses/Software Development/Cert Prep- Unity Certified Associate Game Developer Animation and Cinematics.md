@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/unity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Animation%20and%20Cinematics.md)
@@ -47,36 +47,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction
-  - Companion files
+  - [Introduction](#introduction)
+  - [Companion files](#companion-files)
 - [**1. Animation with Code and Keyframes**](#1-animation-with-code-and-keyframes) (5 videos)
-  - Rotating through update functions
-  - Animating with Animation Curves
-  - Creating animations
-  - Using the animation window
-  - Working with animation events
+  - [Rotating through update functions](#rotating-through-update-functions)
+  - [Animating with Animation Curves](#animating-with-animation-curves)
+  - [Creating animations](#creating-animations)
+  - [Using the animation window](#using-the-animation-window)
+  - [Working with animation events](#working-with-animation-events)
 - [**2. Character Animation and Programming**](#2-character-animation-and-programming) (5 videos)
-  - Importing characters
-  - Non-humanoid and generic animations
-  - Humanoid animations and configuration
-  - Getting started with parameters
-  - Coding parameters
+  - [Importing characters](#importing-characters)
+  - [Non-humanoid and generic animations](#non-humanoid-and-generic-animations)
+  - [Humanoid animations and configuration](#humanoid-animations-and-configuration)
+  - [Getting started with parameters](#getting-started-with-parameters)
+  - [Coding parameters](#coding-parameters)
 - [**3. Timelines and Art Direction**](#3-timelines-and-art-direction) (4 videos)
-  - Creating a timeline
-  - Keyframes and clips
-  - Working with multiple objects
-  - Working with characters
+  - [Creating a timeline](#creating-a-timeline)
+  - [Keyframes and clips](#keyframes-and-clips)
+  - [Working with multiple objects](#working-with-multiple-objects)
+  - [Working with characters](#working-with-characters)
 - [**4. Cinemachine: Virtual Cinematography**](#4-cinemachine-virtual-cinematography) (4 videos)
-  - Importing Cinemachine
-  - Creating your first camera shot
-  - Free look camera rigs
-  - Following paths
+  - [Importing Cinemachine](#importing-cinemachine)
+  - [Creating your first camera shot](#creating-your-first-camera-shot)
+  - [Free look camera rigs](#free-look-camera-rigs)
+  - [Following paths](#following-paths)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/introduction?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[LinkedIn]] (1), feature (1), game (1), power (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -122,13 +122,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (2)
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Animation with Code and Keyframes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rotating through update functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980)
@@ -261,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), this, (2), static (1), public (1), case, (1)
+> **Frameworks & Libraries:** [[Unity]] (8), hit (2), [[Scripting]] (2), game (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (4), drag and drop (1)
 > **Code Identifiers:** deltatime (3)
@@ -433,8 +434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (4), game (2), hit (2), next (1)
 > **UI Navigation:** select the (3), click on (2), drag and drop (1)
-> **Code Keywords:** function (2), this, (1), delete (1), new. (1)
 > **Tools:** visual studio (3)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -529,11 +530,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (6), next (3), game (2), hit (2), [[Windows]] (1)
 > **UI Navigation:** select the (5), drag and drop (2), right-click (1)
 > **Prerequisites:** set up (3), configure (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), just like (1)
-> **Code Keywords:** this, (1), case, (1)
 > **Warnings:** be careful (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
@@ -631,9 +632,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), hit (1), node (1), next (1)
 > **UI Navigation:** select the (3), go to (1), switch to (1), double-click (1)
 > **CLI Commands:** make (3), node (1)
-> **Code Keywords:** switch (3), this, (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (1)
@@ -842,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), switch (4), this, (2), this. (1), super (1)
+> **Frameworks & Libraries:** game (9), [[Unity]] (4), [[LinkedIn]] (1), [[Search]] (1), hit (1)
 > **UI Navigation:** select the (6), dropdown (4), switch to (2), click on (2)
 > **CLI Commands:** make (4), find (4)
 > **Cross-References:** go back to (2)
@@ -853,7 +854,7 @@ created: 2026-04-29
 
 ### 2. Character Animation and Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing characters
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980)
@@ -974,9 +975,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (5), node (3), generic (2), hit (2), [[Mesh]] (2)
 > **UI Navigation:** select the (7), drag and drop (3), double-click (3), click on (1), go to (1)
 > **CLI Commands:** node (3), find (2)
-> **Code Keywords:** type. (1), type, (1), let (1), case, (1), this, (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **Exercise Files:** exercise files (2)
 > **Prerequisites:** configure (1), set up (1)
@@ -1122,8 +1123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (6), node (5), data (4), [[Unity]] (4), [[Mesh]] (1)
 > **CLI Commands:** node (5), find (1), make (1)
-> **Code Keywords:** default. (2), let (2), case, (1), type. (1), switch (1)
 > **Prerequisites:** set up (5), configure (1)
 > **UI Navigation:** drag and drop (2), select the (2), switch to (1)
 > **Definitions:** means that (3)
@@ -1268,8 +1269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (6), generic (1), next (1), hit (1), game (1)
 > **UI Navigation:** switch to (4), select the (3), drag and drop (3), scroll down (2), dropdown (1)
-> **Code Keywords:** switch (6), let (3), this, (1), case, (1)
 > **Prerequisites:** configure (4), set up (2)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -1462,7 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (3), this. (1), switch (1), this, (1)
+> **Frameworks & Libraries:** game (5), [[Unity]] (3), hit (3), next (2), [[Programming]] (1)
 > **UI Navigation:** click on (4), select the (3), drag and drop (1), switch to (1), right-click (1)
 > **CLI Commands:** make (6), node (1)
 > **Cross-References:** in the next (1)
@@ -1537,7 +1538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case. (1), public (1)
+> **Frameworks & Libraries:** game (3), [[Unity]] (2), next (1), hit (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1), drag and drop (1)
@@ -1549,7 +1550,7 @@ created: 2026-04-29
 
 ### 3. Timelines and Art Direction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-a-timeline?u=76281980)
@@ -1680,7 +1681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2)
+> **Frameworks & Libraries:** game (6), [[Unity]] (5), hit (2), web (1), next (1)
 > **UI Navigation:** navigate to (1), drag and drop (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1859,9 +1860,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), game (1), next (1)
 > **UI Navigation:** drag and drop (4), go to (3), select the (2), scroll down (2), click on (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** fbx (1)
 > **Cross-References:** in the next (1)
@@ -1987,7 +1988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (11), case, (1), this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Analogies:** kind of like (2)
 > **CLI Commands:** make (1)
@@ -2089,8 +2090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (2), game (2), prompt (1), hit (1), data (1)
 > **UI Navigation:** select the (6), click on (2)
-> **Code Keywords:** this. (2), this, (2), let (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2098,7 +2099,7 @@ created: 2026-04-29
 
 ### 4. Cinemachine: Virtual Cinematography
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing Cinemachine
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-cinemachine?u=76281980)
@@ -2165,7 +2166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), static (1), switch (1)
+> **Frameworks & Libraries:** [[Unity]] (4), feature (1), hit (1), next (1)
 > **Prerequisites:** install (4), set up (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -2255,7 +2256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), raise (1), default, (1)
+> **Frameworks & Libraries:** game (2), [[Zoom]] (2), next (1), hit (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** drag and drop (1), click on (1)
 > **Versions:** 5.3 (1)
@@ -2345,8 +2346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (2), [[Search]] (2), game (2), next (2), [[Zoom]] (1)
 > **UI Navigation:** scroll down (2), drag and drop (2), click on (2)
-> **Code Keywords:** case, (2)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -2513,7 +2514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), let (2), raise (1), continue (1), default, (1)
+> **Frameworks & Libraries:** game (3), next (2), [[Unity]] (1), [[Search]] (1), node (1)
 > **Versions:** 0.0 (3), 0.1 (2), 0.2 (2), 2.1 (1), 0.05 (1)
 > **CLI Commands:** make (4), node (1)
 > **Prerequisites:** set up (2), configure (2), setup (1)
@@ -2525,7 +2526,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/next-steps?u=76281980)
@@ -2552,8 +2553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (3), [[LinkedIn]] (2), game (2), feature (2), power (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - well (1)
 

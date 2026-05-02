@@ -20,7 +20,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT's%20Operator-%20Automating%20Everyday%20Tasks%20with%20AI%20Agents.md)
@@ -39,16 +39,16 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Accelerate everyday tasks with OpenAI's Operator
+  - [Accelerate everyday tasks with OpenAI's Operator](#accelerate-everyday-tasks-with-openais-operator)
 - [**1. OpenAI's Operator**](#1-openais-operator) (4 videos)
-  - What is an agent?
-  - Creating and monitoring tasks with OpenAI's Operator
-  - Operator options and settings
-  - Is Operator safe?
+  - [What is an agent?](#what-is-an-agent)
+  - [Creating and monitoring tasks with OpenAI's Operator](#creating-and-monitoring-tasks-with-openais-operator)
+  - [Operator options and settings](#operator-options-and-settings)
+  - [Is Operator safe?](#is-operator-safe)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate everyday tasks with OpenAI's Operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980)
@@ -79,14 +79,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Office|Office]] (1), ai (1)
 > **Analogies:** just like (1), imagine (1)
 > **Speakers:** - think (1)
 
 
 ### 1. OpenAI's Operator
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980)
@@ -145,8 +145,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (9), product (2), ai (1), business (1), teams (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), finally, (1), continue (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** known as (2)
@@ -263,7 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (4)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), hit (3), next (2), prompt (1), [[Forms]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -434,7 +434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (2), this, (1), self (1), interface (1)
+> **Frameworks & Libraries:** data (5), [[ChatGPT]] (5), hit (4), [[Privacy]] (2), next (1)
 > **UI Navigation:** click on (4), go to (4)
 > **CLI Commands:** make (6)
 > **Cross-References:** go back to (2), in the next (1)
@@ -498,9 +498,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[ChatGPT]] (1), product (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)

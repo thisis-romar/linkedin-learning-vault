@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/It%20Service%20Desk%20Service%20Management.md)
@@ -44,41 +44,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Transform your service management
-  - What you should know
+  - [Transform your service management](#transform-your-service-management)
+  - [What you should know](#what-you-should-know)
 - [**1. Overview**](#1-overview) (5 videos)
-  - Service management defined
-  - What is a service?
-  - Service management frameworks
-  - Key service desk practices
-  - Value creation
+  - [Service management defined](#service-management-defined)
+  - [What is a service?](#what-is-a-service)
+  - [Service management frameworks](#service-management-frameworks)
+  - [Key service desk practices](#key-service-desk-practices)
+  - [Value creation](#value-creation)
 - [**2. Service Level Management**](#2-service-level-management) (4 videos)
-  - Service level management
-  - Service level management processes
-  - Service level management components
-  - Service catalog strategies
+  - [Service level management](#service-level-management)
+  - [Service level management processes](#service-level-management-processes)
+  - [Service level management components](#service-level-management-components)
+  - [Service catalog strategies](#service-catalog-strategies)
 - [**3. Incident Management**](#3-incident-management) (4 videos)
-  - Incident management
-  - Process components
-  - Establish a process
-  - Knowledge management
+  - [Incident management](#incident-management)
+  - [Process components](#process-components)
+  - [Establish a process](#establish-a-process)
+  - [Knowledge management](#knowledge-management)
 - [**4. Problem Management**](#4-problem-management) (4 videos)
-  - Manage stakeholder expectations
-  - Manage process flow
-  - Problem management methodologies
-  - Problem management relationships
+  - [Manage stakeholder expectations](#manage-stakeholder-expectations)
+  - [Manage process flow](#manage-process-flow)
+  - [Problem management methodologies](#problem-management-methodologies)
+  - [Problem management relationships](#problem-management-relationships)
 - [**5. Change Management**](#5-change-management) (5 videos)
-  - Change management practices
-  - Change management roles
-  - Change models
-  - Change relationships
-  - Change inputs and outputs
+  - [Change management practices](#change-management-practices)
+  - [Change management roles](#change-management-roles)
+  - [Change models](#change-models)
+  - [Change relationships](#change-relationships)
+  - [Change inputs and outputs](#change-inputs-and-outputs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your service management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980)
@@ -127,10 +127,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (11), business (4), ai (2), [[Digital Transformation]] (1), data (1)
 > **Env Vars:** hdi (3)
 > **Best Practices:** the key is (1), best practice (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
@@ -169,7 +169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** management (4)
 > **CLI Commands:** find (1)
 > **Env Vars:** hdi (1)
 > **Exercise Files:** exercise files (1)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Service management defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-defined?u=76281980)
@@ -234,8 +234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (11), [[Digital Transformation]] (2), business (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - so (1)
 
@@ -296,8 +296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[ITIL]] (1), data (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** itil (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -439,9 +439,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (11), [[Six Sigma]] (8), [[DevOps]] (7), [[ITIL]] (6), [[Agile Development|Agile]] (6)
 > **Env Vars:** itil (6), cobit (5), it4it (3), iso (2), dmaic (1)
 > **Definitions:** is a  (9), is an  (3), refers to (1)
-> **Code Keywords:** let (2), pass (1), self (1), this, (1)
 > **Versions:** 3.4 (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - there (1)
@@ -535,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), self (3), let (1), raise (1)
+> **Frameworks & Libraries:** management (12), teams (2), [[Problem Management]] (2), [[Security]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** spoc (1)
 > **Definitions:** is an  (1)
@@ -650,7 +650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6), let (2), continue (1), interface (1), module (1)
+> **Frameworks & Libraries:** [[ITIL]] (4), [[Microsoft Products|Products]] (4), product (3), application (2), management (1)
 > **Analogies:** for example (5), such as (1)
 > **Env Vars:** itil (4), ces (1)
 > **Definitions:** is a  (3)
@@ -659,7 +659,7 @@ created: 2026-04-29
 
 ### 2. Service Level Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Service level management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management?u=76281980)
@@ -756,7 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** management (6), business (3), generic (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** slm (1)
 > **Exercise Files:** exercise files (1)
@@ -811,7 +811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), include, (1), require (1)
+> **Frameworks & Libraries:** management (6), business (2), [[Building Trust]] (1), [[Continuous Monitoring]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** slr (1)
 > **Speakers:** - service (1)
@@ -889,10 +889,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), business (3), database (1), [[Building Trust]] (1), [[Windows]] (1)
 > **Env Vars:** ola (3), hgi (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - service (1)
 
@@ -941,8 +941,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), management (2), [[Search]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** include, (1)
 > **Env Vars:** hdi (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - service (1)
@@ -950,7 +950,7 @@ created: 2026-04-29
 
 ### 3. Incident Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Incident management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/incident-management?u=76281980)
@@ -1009,6 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (10), business (3), [[Incident Response]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - incident (1)
@@ -1072,7 +1073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** management (4), business (2), teams (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (2)
 > **Analogies:** for example (1)
@@ -1153,9 +1154,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (3), business (2), management (2), next (1), data (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** self (1)
 > **Env Vars:** vip (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
@@ -1205,7 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3)
+> **Frameworks & Libraries:** management (10), [[Microsoft Products|Products]] (2), [[Decision-Making]] (1), [[Problem Management]] (1), [[Software Development]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** hgi (1)
 > **Speakers:** - knowledge (1)
@@ -1213,7 +1214,7 @@ created: 2026-04-29
 
 ### 4. Problem Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage stakeholder expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980)
@@ -1290,7 +1291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Problem Management]] (12), management (4), [[Quality Assurance]] (1), [[Probability]] (1), teams (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - problem (1)
 
@@ -1343,6 +1344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (4), [[Probability]] (2), management (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - each (1)
@@ -1418,8 +1420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (2), product (2), data (1), management (1), power (1)
 > **Definitions:** is a  (4), known as (1)
-> **Code Keywords:** let (2), continue (1)
 > **Analogies:** for example (1)
 > **Speakers:** - each (1)
 
@@ -1480,15 +1482,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (13), management (10), cms (2), [[Microsoft Products|Products]] (2), [[Configuration Management]] (1)
 > **Env Vars:** cms (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
 
 ### 5. Change Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change management practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980)
@@ -1571,7 +1573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), extends (1)
+> **Frameworks & Libraries:** management (6), [[Organizational Change Management]] (2), [[Microsoft Products|Products]] (2), product (1), [[Digital Transformation]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Env Vars:** mtrs (1)
 > **Speakers:** - we (1)
@@ -1621,9 +1623,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2)
 > **Env Vars:** cab (8)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** type, (1), include, (1)
 > **Speakers:** - change (1)
 
 #### Change models
@@ -1685,9 +1687,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), business (3), [[ITIL]] (1), [[Windows]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** require (1)
 > **Env Vars:** itil (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - there (1)
@@ -1753,8 +1755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), management (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cab (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - now (1)
@@ -1814,6 +1816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), business (4), [[Configuration Management]] (2), [[Security]] (2), data (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -1821,7 +1824,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/next-steps?u=76281980)
@@ -1850,6 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[LinkedIn]] (2), next (1), business (1)
 > **Env Vars:** hdi (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)

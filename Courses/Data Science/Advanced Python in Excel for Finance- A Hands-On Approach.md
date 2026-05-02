@@ -33,7 +33,7 @@ tags:
   - skill/microsoft-excel
   - skill/financial-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Python%20in%20Excel%20for%20Finance-%20A%20Hands-On%20Approach.md)
@@ -52,41 +52,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Python in Excel for finance
-  - What you should know
+  - [Python in Excel for finance](#python-in-excel-for-finance)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Python in Excel for Finance**](#1-introduction-to-python-in-excel-for-finance) (3 videos)
-  - Integrating Python with Excel: An overview
-  - Setting up Python in Excel
-  - Basic Python skills for finance
+  - [Integrating Python with Excel: An overview](#integrating-python-with-excel-an-overview)
+  - [Setting up Python in Excel](#setting-up-python-in-excel)
+  - [Basic Python skills for finance](#basic-python-skills-for-finance)
 - [**2. Financial Data Analysis Fundamentals**](#2-financial-data-analysis-fundamentals) (3 videos)
-  - Importing and exporting financial data
-  - Data cleaning and preparation
-  - Basic financial calculations
+  - [Importing and exporting financial data](#importing-and-exporting-financial-data)
+  - [Data cleaning and preparation](#data-cleaning-and-preparation)
+  - [Basic financial calculations](#basic-financial-calculations)
 - [**3. Advanced Financial Analysis in Excel with Python**](#3-advanced-financial-analysis-in-excel-with-python) (4 videos)
-  - Time series analysis
-  - Portfolio analysis
-  - Financial modeling: Part 1
-  - Financial modeling: Part 2
+  - [Time series analysis](#time-series-analysis)
+  - [Portfolio analysis](#portfolio-analysis)
+  - [Financial modeling: Part 1](#financial-modeling-part-1)
+  - [Financial modeling: Part 2](#financial-modeling-part-2)
 - [**4. Data Visualization for Financial Reporting**](#4-data-visualization-for-financial-reporting) (3 videos)
-  - Creating financial charts
-  - Dashboard creation
-  - Reporting automation
+  - [Creating financial charts](#creating-financial-charts)
+  - [Dashboard creation](#dashboard-creation)
+  - [Reporting automation](#reporting-automation)
 - [**5. Python for Risk Management and Compliance**](#5-python-for-risk-management-and-compliance) (3 videos)
-  - Risk analysis techniques
-  - Simulation models
-  - Compliance reporting
+  - [Risk analysis techniques](#risk-analysis-techniques)
+  - [Simulation models](#simulation-models)
+  - [Compliance reporting](#compliance-reporting)
 - [**6. Machine Learning for Financial Forecasting**](#6-machine-learning-for-financial-forecasting) (3 videos)
-  - Introduction to machine learning in finance
-  - Predictive models for financial data
-  - Integrating ML models with Excel
+  - [Introduction to machine learning in finance](#introduction-to-machine-learning-in-finance)
+  - [Predictive models for financial data](#predictive-models-for-financial-data)
+  - [Integrating ML models with Excel](#integrating-ml-models-with-excel)
 - [**7. Final Project**](#7-final-project) (1 videos)
-  - Final project walkthrough
+  - [Final project walkthrough](#final-project-walkthrough)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course summary and further resources
+  - [Course summary and further resources](#course-summary-and-further-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python in Excel for finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980)
@@ -115,8 +115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (4), data (3), strengths (1), [[Financial Analysis]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** interface (1), let (1)
 > **Speakers:** - [rancy (1)
 
 #### What you should know
@@ -174,9 +174,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Microsoft Excel|Excel]] (14), [[Financial Analysis]] (4), [[Microsoft 365]] (3), data (3)
 > **CLI Commands:** python (15), make (2)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** interface (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -185,7 +185,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Python in Excel for Finance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating Python with Excel: An overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980)
@@ -246,9 +246,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Microsoft Excel|Excel]] (13), data (4), [[Financial Analysis]] (2), power (2)
 > **CLI Commands:** python (18)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -587,7 +587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (9), this. (3), default. (1)
+> **Frameworks & Libraries:** data (29), [[Python (Programming Language)|Python]] (17), [[Microsoft Excel|Excel]] (13), next (5), [[Financial Analysis]] (4)
 > **CLI Commands:** python (17), make (1), find (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Env Vars:** url (1), csv (1)
@@ -679,14 +679,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (6), [[Pandas (Software)|Pandas]] (3), power (1), next (1)
 > **CLI Commands:** python (6), make (1)
-> **Code Keywords:** let (3), continue (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Financial Data Analysis Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing and exporting financial data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980)
@@ -775,8 +775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (8), [[Financial Analysis]] (3), [[Pandas (Software)|Pandas]] (3)
 > **CLI Commands:** python (8)
-> **Code Keywords:** let (4), return, (2), interface (1), this. (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** mpi (1)
 > **Warnings:** watch out (1)
@@ -885,7 +885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), while, (1)
+> **Frameworks & Libraries:** data (18), [[Financial Analysis]] (2), next (1), [[Financial Data]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Basic financial calculations
@@ -1315,7 +1315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (19), while, (2), this. (2), case, (1)
+> **Frameworks & Libraries:** next (18), power (6), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), [[Financial Statements]] (2)
 > **Env Vars:** npv (11), irr (6), ebit (4), eps (4), roe (2)
 > **CLI Commands:** python (5), find (4), make (1)
 > **Analogies:** just like (4), it's like (1)
@@ -1327,7 +1327,7 @@ created: 2026-04-29
 
 ### 3. Advanced Financial Analysis in Excel with Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time series analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980)
@@ -1462,7 +1462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (3), type, (1), default, (1), continue (1)
+> **Frameworks & Libraries:** data (19), [[Python (Programming Language)|Python]] (7), next (3), [[Pandas (Software)|Pandas]] (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** python (7), make (1), find (1)
 > **Code Identifiers:** stock_data (4), calculate_moving_average (1)
 > **UI Navigation:** click on (2), go to (2)
@@ -1831,7 +1831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), return. (3), type. (3), return, (2)
+> **Frameworks & Libraries:** data (13), next (7), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Microsoft]] (3)
 > **CLI Commands:** python (3), make (1), find (1)
 > **Env Vars:** stdev (1), ylgn (1), std (1)
 > **Versions:** 0.1221 (1), 0.1202 (1), 0.0938 (1)
@@ -2249,7 +2249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), this. (2), case, (2)
+> **Frameworks & Libraries:** next (15), data (14), [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (5), [[Pandas (Software)|Pandas]] (4)
 > **Env Vars:** ebitda (9), dcf (7), cfo (2), ppnq (1), cfi (1)
 > **Tools:** terminal (8)
 > **CLI Commands:** python (5), make (1)
@@ -2591,7 +2591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), case, (3), this. (3), case. (2), pass (1)
+> **Frameworks & Libraries:** data (22), next (10), [[Python (Programming Language)|Python]] (2), [[Financial Modeling]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dcf (6), ebitda (6), lbo (4), ampi (1), eps (1)
 > **Tools:** terminal (15)
 > **Versions:** 0.5 (3), 0.3 (1), 0.2 (1), 0.30 (1), 0.05 (1)
@@ -2603,7 +2603,7 @@ created: 2026-04-29
 
 ### 4. Data Visualization for Financial Reporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating financial charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980)
@@ -2856,10 +2856,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (10), next (4), [[Pandas (Software)|Pandas]] (3)
 > **Non-Speech:** (keyboard clicking) (10), (mouse clicking) (4)
 > **CLI Commands:** python (11), make (2)
 > **Code Identifiers:** my_df (7), my_data (2), set_index (1)
-> **Code Keywords:** let (5), this, (2), pass (1), this. (1)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [instructor] (1)
@@ -3281,7 +3281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (7), this. (1), this, (1), for. (1)
+> **Frameworks & Libraries:** data (17), next (13), [[Dashboards]] (5), [[Python (Programming Language)|Python]] (5), [[Financial Data]] (3)
 > **CLI Commands:** python (5), make (2), find (2)
 > **Code Identifiers:** yearly_summary (4), our_df (2), ax_plot (1), plot_bar_chart (1)
 > **Env Vars:** ela (1)
@@ -3601,7 +3601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (16), this. (2), return. (1)
+> **Frameworks & Libraries:** data (25), [[Microsoft Excel|Excel]] (9), [[Python (Programming Language)|Python]] (8), [[Forecasting]] (4), [[Automation]] (3)
 > **Code Identifiers:** updated_metrics (6), current_metrics (5), validate_financial_data (3), new_data (2), financial_forecasting (2)
 > **CLI Commands:** python (8), make (3)
 > **Prerequisites:** setup (2)
@@ -3613,7 +3613,7 @@ created: 2026-04-29
 
 ### 5. Python for Risk Management and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Risk analysis techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980)
@@ -3966,7 +3966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (25), let (16), var (12), case, (3), pass (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Microsoft Excel|Excel]] (10), next (6), [[Probability]] (4), [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** sorted_returns (7), index_var (6), confidence_interval (4), credit_risk_analysis (2), total_loss (2)
 > **Versions:** 0.02 (4), 0.03 (4), 0.01 (3), 0.95 (2), 0.05 (2)
 > **CLI Commands:** python (13), make (3), find (1)
@@ -4312,7 +4312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (16), case. (2), return. (1), case, (1)
+> **Frameworks & Libraries:** [[Probability]] (12), [[Python (Programming Language)|Python]] (8), [[Simulation]] (6), [[Microsoft Excel|Excel]] (4), data (2)
 > **CLI Commands:** python (8), make (2)
 > **Code Identifiers:** monte_carlo_intro (1), simulate_stock_price (1), zeros_like (1), analyze_simulation_outputs (1), final_prices (1)
 > **Versions:** 0.5 (1), 0.2 (1), 0.01 (1), 107.38 (1)
@@ -4416,7 +4416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), case, (1), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Automation]] (4), data (4), [[Microsoft Excel|Excel]] (2), [[Financial Operations]] (2)
 > **Code Identifiers:** compliance_status (2), analyze_compliance_data (1), transactions_file (1), transactions_df (1), value_counts (1)
 > **CLI Commands:** python (7)
 > **Env Vars:** false (1)
@@ -4426,7 +4426,7 @@ created: 2026-04-29
 
 ### 6. Machine Learning for Financial Forecasting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to machine learning in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980)
@@ -4779,7 +4779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (7), import, (1), this. (1), continue (1)
+> **Frameworks & Libraries:** data (30), [[Linear Regression]] (10), next (6), [[Financial Forecasting]] (5), [[Microsoft Excel|Excel]] (5)
 > **CLI Commands:** make (5), python (4)
 > **Versions:** 1.4 (1), 0.55 (1), 1.8 (1), 0.0 (1), 2.5 (1)
 > **Best Practices:** don't forget (4)
@@ -5044,7 +5044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (9), this, (3), from, (1), continue (1)
+> **Frameworks & Libraries:** data (28), [[Predictive Modeling]] (6), [[Forecasting]] (4), feature (3), next (3)
 > **Code Identifiers:** prepare_financial_data (2), train_test_split (2), model_economic_indicators (2), x_test (2), date_range (1)
 > **CLI Commands:** make (5), python (1), find (1)
 > **Env Vars:** gdp (6)
@@ -5275,7 +5275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (8), return. (3), interface (1), import. (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (7), [[Financial Analysis]] (6), next (5)
 > **Code Identifiers:** random_state (3), data_encoded (2), implement_ml_models (1), predicted_prices (1), forecasted_prices (1)
 > **CLI Commands:** python (7), make (3), find (1)
 > **Versions:** 0.2 (1), 0.3 (1), 100.10554 (1), 102.005 (1), 102.21 (1)
@@ -5287,7 +5287,7 @@ created: 2026-04-29
 
 ### 7. Final Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980)
@@ -5586,7 +5586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (13), pass (4), this, (4), case, (2)
+> **Frameworks & Libraries:** data (34), [[Python (Programming Language)|Python]] (9), [[Microsoft Excel|Excel]] (6), next (5), [[Financial Analysis]] (3)
 > **CLI Commands:** python (9), make (2)
 > **Env Vars:** macd (5), ema (3), udf (1), ewm (1), wacd (1)
 > **Code Identifiers:** my_df (2), prepare_data (1), load_and_prepare_data (1), sort_values (1), calculate_macd (1)
@@ -5596,7 +5596,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary and further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980)
@@ -5675,8 +5675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (9), [[Financial Analysis]] (6), data (3), [[TensorFlow]] (2)
 > **CLI Commands:** python (12)
-> **Code Keywords:** continue (1), let (1), from. (1)
 > **Speakers:** - [instructor] (1)
 
 

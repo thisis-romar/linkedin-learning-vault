@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Projects-%20Create%20an%20Interactive%20Quiz%20Application.md)
@@ -48,32 +48,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Building a quiz app in Python
-  - What you should know
-  - Setting up the project
+  - [Building a quiz app in Python](#building-a-quiz-app-in-python)
+  - [What you should know](#what-you-should-know)
+  - [Setting up the project](#setting-up-the-project)
 - [**1. Overview**](#1-overview) (4 videos)
-  - Defining the app requirements
-  - Architecting the application
-  - Defining the quiz markup format
-  - Building the app starting point
+  - [Defining the app requirements](#defining-the-app-requirements)
+  - [Architecting the application](#architecting-the-application)
+  - [Defining the quiz markup format](#defining-the-quiz-markup-format)
+  - [Building the app starting point](#building-the-app-starting-point)
 - [**2. The Basics**](#2-the-basics) (7 videos)
-  - Creating the Question and Answer classes
-  - Creating the Quiz class
-  - Reading and parsing the quiz
-  - Creating the QuizManager class
-  - Presenting the quiz
-  - Calculating the results
-  - Saving the results
+  - [Creating the Question and Answer classes](#creating-the-question-and-answer-classes)
+  - [Creating the Quiz class](#creating-the-quiz-class)
+  - [Reading and parsing the quiz](#reading-and-parsing-the-quiz)
+  - [Creating the QuizManager class](#creating-the-quizmanager-class)
+  - [Presenting the quiz](#presenting-the-quiz)
+  - [Calculating the results](#calculating-the-results)
+  - [Saving the results](#saving-the-results)
 - [**3. Improvements**](#3-improvements) (3 videos)
-  - Presenting questions in random order
-  - Timing the quiz
-  - Redoing wrong questions
+  - [Presenting questions in random order](#presenting-questions-in-random-order)
+  - [Timing the quiz](#timing-the-quiz)
+  - [Redoing wrong questions](#redoing-wrong-questions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a quiz app in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python?u=76281980)
@@ -106,8 +106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), feature (1), application (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** interface (1), let (1)
 > **Env Vars:** xml (1)
 > **Tools:** terminal (1)
 > **Definitions:** means that (1)
@@ -146,10 +146,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), application (1), [[Programming]] (1), [[Programming Foundations]] (1), [[HTML]] (1)
 > **Env Vars:** xml (5), html (1), json (1), ide (1)
 > **CLI Commands:** python (7)
 > **Tools:** visual studio (2), vs code (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Setting up the project
@@ -215,19 +215,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Linux]] (3), hit (1), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (17), make (3), find (1)
 > **Tools:** visual studio (3), terminal (2), vs code (2), github (1)
 > **Prerequisites:** install (3), you'll need (2), set up (1), make sure you have (1), setup (1)
 > **UI Navigation:** open the (1), go to (1), click on (1)
 > **Exercise Files:** exercise files (2), download the (1)
-> **Code Keywords:** let (1), return. (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the app requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-app-requirements?u=76281980)
@@ -306,7 +306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** application (2), [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (2), visual studio (1), vs code (1)
 > **File Paths:** pyquiz.py (1)
 > **CLI Commands:** python (1)
@@ -350,7 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class. (1), class, (1)
+> **Frameworks & Libraries:** application (4), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** xml (1)
 > **Analogies:** for example (1)
@@ -469,7 +469,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), this, (1)
 > **Env Vars:** xml (6)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
@@ -675,7 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), self (6), continue (4), finally, (3)
+> **Frameworks & Libraries:** application (5), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** scroll down (2), scroll up (2), right-click (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (3)
@@ -687,7 +686,7 @@ created: 2026-04-29
 
 ### 2. The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the Question and Answer classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-question-and-answer-classes?u=76281980)
@@ -828,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), self (4), function (4), class, (2), pass (2)
+> **Frameworks & Libraries:** prompt (2), application (1), next (1)
 > **Code Identifiers:** is_correct (3), correct_answer (2)
 > **CLI Commands:** make (4)
 > **File Paths:** quiz.py (1)
@@ -962,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7), class. (3), self (3), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
 > **Code Identifiers:** take_quiz (3), correct_count (3), total_points (2), quiz_py (1)
 > **Env Vars:** xml (2)
 > **Cross-References:** earlier in (1), later in (1)
@@ -1200,8 +1199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (1), application (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** parse_state (11), current_question (7), startelement (6), current_answer (5), endelement (4)
-> **Code Keywords:** let (11), function (9), class, (5), self (2), class. (2)
 > **Env Vars:** xml (15), sax (4), parse_quiz (3), parse_question (2), idle (1)
 > **Definitions:** is called (6), is a  (1), means that (1)
 > **CLI Commands:** make (3), python (1)
@@ -1346,7 +1345,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (3), class. (3), raise (2), self (2)
 > **Code Identifiers:** list_quizzes (2), parse_quiz (1), print_results (1), save_results (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1354,6 +1352,7 @@ created: 2026-04-29
 > **Cross-References:** earlier in (1), later in (1)
 > **UI Navigation:** open the (1), in the menu (1)
 > **File Paths:** quizmanager.py (1)
+> **Tools:** terminal (1)
 
 #### Presenting the quiz
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-the-quiz?u=76281980)
@@ -1472,7 +1471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), self (7), pass (5), function (2)
+> **Frameworks & Libraries:** application (3), next (1)
 > **Code Identifiers:** take_quiz (2), the_quiz (2), list_quizzes (1), print_results (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** earlier in (1), go back to (1), in the next (1)
@@ -1576,7 +1575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), self (4), pass (3), function (2), class. (1)
+> **Frameworks & Libraries:** application (1)
 > **Code Identifiers:** the_quiz (1), take_quiz (1), print_header (1), correct_count (1), print_results (1)
 > **File Paths:** pyquiz.py (1), quiz.py (1)
 > **UI Navigation:** in the menu (1)
@@ -1713,7 +1712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (9), pass (3), self (2), this, (2)
+> **Frameworks & Libraries:** application (1), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Code Identifiers:** print_results (8), save_results (2), the_quiz (1)
 > **CLI Commands:** make (4), python (1)
 > **Cross-References:** go back to (4), in the next (1)
@@ -1725,7 +1724,7 @@ created: 2026-04-29
 
 ### 3. Improvements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Presenting questions in random order
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-questions-in-random-order?u=76281980)
@@ -1838,7 +1837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (11), module (3), type, (1), self (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (1), feature (1)
 > **CLI Commands:** python (4), make (1)
 > **UI Navigation:** scroll down (2), click on (1), scroll up (1), go to (1)
 > **Cross-References:** coming up (3), go back to (1)
@@ -1976,7 +1975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), self (5), this, (3), function (2), this. (2)
+> **Frameworks & Libraries:** feature (1), next (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** scroll down (2), scroll up (1)
@@ -2111,7 +2110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), self (4), this. (2), this, (1)
+> **Frameworks & Libraries:** application (2), [[Python (Programming Language)|Python]] (2), data (1)
 > **CLI Commands:** make (2), python (2)
 > **Code Identifiers:** correct_count (1), wrong_qs (1), is_correct (1)
 > **File Paths:** quiz.py (1)
@@ -2121,7 +2120,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980)
@@ -2156,8 +2155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), next (2), application (1), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (12), make (1)
-> **Code Keywords:** finally, (1), continue (1)
 > **Speakers:** - [instructor] (1)
 
 

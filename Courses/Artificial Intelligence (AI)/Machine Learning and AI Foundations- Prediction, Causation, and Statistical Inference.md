@@ -31,7 +31,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Prediction%2C%20Causation%2C%20and%20Statistical%20Inference.md)
@@ -50,49 +50,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Prediction, causation, and statistical inference
+  - [Prediction, causation, and statistical inference](#prediction-causation-and-statistical-inference)
 - [**1. What Is a Casual Model?**](#1-what-is-a-casual-model) (3 videos)
-  - Lady tasting tea
-  - Why causation matters in a business setting
-  - What is a causal model?
+  - [Lady tasting tea](#lady-tasting-tea)
+  - [Why causation matters in a business setting](#why-causation-matters-in-a-business-setting)
+  - [What is a causal model?](#what-is-a-causal-model)
 - [**2. Healthy Skepticism about Our Data and Our Results**](#2-healthy-skepticism-about-our-data-and-our-results) (3 videos)
-  - Skepticism about data: Truman 1948 Election Poll
-  - Skepticism about results: Is that really the best predictor?
-  - Skepticism about causes: Is X really causing Y?
+  - [Skepticism about data: Truman 1948 Election Poll](#skepticism-about-data-truman-1948-election-poll)
+  - [Skepticism about results: Is that really the best predictor?](#skepticism-about-results-is-that-really-the-best-predictor)
+  - [Skepticism about causes: Is X really causing Y?](#skepticism-about-causes-is-x-really-causing-y)
 - [**3. Correlation Does Not Imply Causation**](#3-correlation-does-not-imply-causation) (5 videos)
-  - What is a strong correlation?
-  - Pearson on correlation and causation
-  - Correlation and regression
-  - Challenge: What is causing what?
-  - Solution: What is causing what?
+  - [What is a strong correlation?](#what-is-a-strong-correlation)
+  - [Pearson on correlation and causation](#pearson-on-correlation-and-causation)
+  - [Correlation and regression](#correlation-and-regression)
+  - [Challenge: What is causing what?](#challenge-what-is-causing-what)
+  - [Solution: What is causing what?](#solution-what-is-causing-what)
 - [**4. Prediction and Proof in Statistics**](#4-prediction-and-proof-in-statistics) (6 videos)
-  - Using probability to measure uncertainty
-  - p-value review
-  - Hypothesis testing checklist
-  - Taleb on normality, mediocristan, and extremistan
-  - Challenge: Evaluate significant finding
-  - Solution: Evaluate significant finding
+  - [Using probability to measure uncertainty](#using-probability-to-measure-uncertainty)
+  - [p-value review](#p-value-review)
+  - [Hypothesis testing checklist](#hypothesis-testing-checklist)
+  - [Taleb on normality, mediocristan, and extremistan](#taleb-on-normality-mediocristan-and-extremistan)
+  - [Challenge: Evaluate significant finding](#challenge-evaluate-significant-finding)
+  - [Solution: Evaluate significant finding](#solution-evaluate-significant-finding)
 - [**5. Deduction and Induction**](#5-deduction-and-induction) (5 videos)
-  - What are induction and deduction?
-  - Hume on induction
-  - Popper on induction and falsification
-  - Taleb on induction
-  - Counterfactuals: Pearl on induction and causality
+  - [What are induction and deduction?](#what-are-induction-and-deduction)
+  - [Hume on induction](#hume-on-induction)
+  - [Popper on induction and falsification](#popper-on-induction-and-falsification)
+  - [Taleb on induction](#taleb-on-induction)
+  - [Counterfactuals: Pearl on induction and causality](#counterfactuals-pearl-on-induction-and-causality)
 - [**6. Prediction and Proof in Data Mining**](#6-prediction-and-proof-in-data-mining) (3 videos)
-  - Data mining vs. data dredging
-  - Train/Test: What can go wrong?
-  - A/B testing during the evaluation phase
+  - [Data mining vs. data dredging](#data-mining-vs-data-dredging)
+  - [Train/Test: What can go wrong?](#traintest-what-can-go-wrong)
+  - [A/B testing during the evaluation phase](#ab-testing-during-the-evaluation-phase)
 - [**7. The Two Cultures: Contrasting Statistics and Data Mining**](#7-the-two-cultures-contrasting-statistics-and-data-mining) (4 videos)
-  - The Two Cultures
-  - Explain vs. predict
-  - Comparing CRISP-DM and the scientific method
-  - Applying the two methods at work
+  - [The Two Cultures](#the-two-cultures)
+  - [Explain vs. predict](#explain-vs-predict)
+  - [Comparing CRISP-DM and the scientific method](#comparing-crisp-dm-and-the-scientific-method)
+  - [Applying the two methods at work](#applying-the-two-methods-at-work)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Review
+  - [Review](#review)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prediction, causation, and statistical inference
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/prediction-causation-and-statistical-inference?u=76281980)
@@ -117,14 +117,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), let (1)
+> **Frameworks & Libraries:** data (3), [[Statistics]] (3), career (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [keith] (1)
 
 
 ### 1. What Is a Casual Model?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lady tasting tea
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980)
@@ -205,7 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), data (3)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -234,6 +234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Causal Inference]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -287,14 +288,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1), data (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** super (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Healthy Skepticism about Our Data and Our Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Skepticism about data: Truman 1948 Election Poll
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980)
@@ -353,6 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Statistics]] (1), [[Causal Inference]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Skepticism about results: Is that really the best predictor?
@@ -426,7 +428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), throw (1)
+> **Frameworks & Libraries:** data (5), [[Engineering]] (3), [[Linear Regression]] (1), next (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Env Vars:** sat (1)
 > **Warnings:** caution (1)
@@ -491,7 +493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** [[Search]] (2), data (2), [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1), power (1)
 > **Versions:** 0.95 (1), 0.9 (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (2)
@@ -503,7 +505,7 @@ created: 2026-04-29
 
 ### 3. Correlation Does Not Imply Causation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a strong correlation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980)
@@ -652,7 +654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), case, (1)
+> **Frameworks & Libraries:** data (5), [[Engineering]] (2), [[Statistics]] (1), power (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** autompg_causality (1)
@@ -756,7 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), finally, (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** rule of thumb (1)
@@ -845,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class, (1), switch (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), data (1)
 > **CLI Commands:** make (1)
 > **Versions:** 46.2 (1)
 > **Cross-References:** later in (1)
@@ -885,9 +887,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **Env Vars:** psat (2), sat (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** try, (1)
 > **Versions:** 0.6 (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1011,10 +1013,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1), [[Statistics]] (1)
 > **Env Vars:** psat (4), sat (2)
 > **CLI Commands:** make (3)
 > **Best Practices:** don't forget (3)
-> **Code Keywords:** let (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1022,7 +1024,7 @@ created: 2026-04-29
 
 ### 4. Prediction and Proof in Statistics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using probability to measure uncertainty
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980)
@@ -1189,8 +1191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (5), data (5), [[Statistics]] (2), [[Big Data]] (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (5), this, (1)
 > **Versions:** 178.71 (1), 176.49 (1), 0.05 (1), 0.628 (1)
 > **Env Vars:** pdf (1)
 > **Tools:** notion (1)
@@ -1225,6 +1227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Probability]] (1)
 > **Versions:** 0.05 (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1321,10 +1324,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), data (1), next (1)
 > **Versions:** 0.05 (8), 0.1 (1), 0.01 (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3), in other words (2)
-> **Code Keywords:** this, (1), let (1), for. (1), finally, (1)
 > **Tools:** notion (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [speaker] (1)
@@ -1370,9 +1373,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** imagine (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
@@ -1414,9 +1417,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Engineering]] (2), next (1)
 > **Env Vars:** psat (2), mbti (1), sat (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1531,8 +1534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), [[Statistics]] (1)
 > **Env Vars:** psat (4), sat (3)
-> **Code Keywords:** let (3), class. (1), this. (1)
 > **CLI Commands:** make (3)
 > **Versions:** 0.05 (2), 2.9 (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1543,7 +1546,7 @@ created: 2026-04-29
 
 ### 5. Deduction and Induction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are induction and deduction?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-are-induction-and-deduction?u=76281980)
@@ -1624,7 +1627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), data (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1689,7 +1692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** data (3), [[Causal Inference]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
@@ -1769,7 +1772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1)
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1863,8 +1866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Big Data]] (1), database (1), [[Statistics]] (1), next (1)
 > **Definitions:** is a  (3), in other words (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Analogies:** similar to (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -1920,8 +1923,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), data (1)
 > **Analogies:** imagine (2)
-> **Code Keywords:** this. (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1929,7 +1932,7 @@ created: 2026-04-29
 
 ### 6. Prediction and Proof in Data Mining
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data mining vs. data dredging
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980)
@@ -2016,7 +2019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), if, (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Statistics]] (5), next (2), [[Phishing]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** find (4)
 > **Versions:** 26.5 (1), 99.4 (1)
 > **Definitions:** is a  (1)
@@ -2102,7 +2105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), public (1), self (1)
+> **Frameworks & Libraries:** data (13), [[Statistics]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **Warnings:** be careful (1), watch out (1)
 > **CLI Commands:** make (1)
@@ -2165,6 +2168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Statistics]] (4), [[Microsoft Office|Office]] (2), [[CRISP-DM]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** crisp (1)
 > **Best Practices:** you should always (1)
@@ -2173,7 +2177,7 @@ created: 2026-04-29
 
 ### 7. The Two Cultures: Contrasting Statistics and Data Mining
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Two Cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980)
@@ -2278,7 +2282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), include, (1)
+> **Frameworks & Libraries:** data (10), [[Statistics]] (3), career (1), [[Search]] (1), [[CRISP-DM]] (1)
 > **Env Vars:** cart (2), crisp (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -2395,8 +2399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), power (3), next (2), [[Analytics]] (1), business (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case. (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2491,9 +2495,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (7), [[CRISP-DM]] (5), [[Statistics]] (2), [[Analytics]] (1)
 > **Env Vars:** crisp (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2574,9 +2578,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Statistics]] (4), [[Algorithms]] (2), management (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** note that (2), keep in mind (1)
-> **Code Keywords:** if, (1), while, (1)
 > **Env Vars:** cart (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -2585,7 +2589,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980)
@@ -2610,7 +2614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), next (1), [[Linear Regression]] (1), [[Predictive Analytics]] (1), data (1)
 > **Speakers:** - [keith] (1)
 
 

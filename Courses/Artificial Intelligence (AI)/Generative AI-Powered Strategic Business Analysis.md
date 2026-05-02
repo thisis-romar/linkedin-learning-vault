@@ -34,7 +34,7 @@ tags:
   - skill/business-strategy
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-Powered%20Strategic%20Business%20Analysis.md)
@@ -53,31 +53,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Hands-on AI-powered tactics for business analysis
+  - [Hands-on AI-powered tactics for business analysis](#hands-on-ai-powered-tactics-for-business-analysis)
 - [**1. The Impact of AI on Strategic Business Analysis**](#1-the-impact-of-ai-on-strategic-business-analysis) (6 videos)
-  - What is strategy?
-  - The evolution of strategy
-  - Modern approaches to strategy
-  - How business analysis can support the "new strategy"
-  - How AI enhances strategic alignment
-  - Evaluating AI in strategic planning
+  - [What is strategy?](#what-is-strategy)
+  - [The evolution of strategy](#the-evolution-of-strategy)
+  - [Modern approaches to strategy](#modern-approaches-to-strategy)
+  - [How business analysis can support the "new strategy"](#how-business-analysis-can-support-the-new-strategy)
+  - [How AI enhances strategic alignment](#how-ai-enhances-strategic-alignment)
+  - [Evaluating AI in strategic planning](#evaluating-ai-in-strategic-planning)
 - [**2. Being a Strategic BA in an AI World**](#2-being-a-strategic-ba-in-an-ai-world) (9 videos)
-  - Establishing strategic objectives
-  - Leveraging your existing strategy
-  - Assessing capabilities and needs
-  - Aligning use cases to strategic goals
-  - Enhancing decision-making with AI
-  - Developing strategic contingency plans
-  - Adapting strategy to changing conditions
-  - Growing the culture of AI-driven strategy
-  - Scaling and measuring AI-driven value
+  - [Establishing strategic objectives](#establishing-strategic-objectives)
+  - [Leveraging your existing strategy](#leveraging-your-existing-strategy)
+  - [Assessing capabilities and needs](#assessing-capabilities-and-needs)
+  - [Aligning use cases to strategic goals](#aligning-use-cases-to-strategic-goals)
+  - [Enhancing decision-making with AI](#enhancing-decision-making-with-ai)
+  - [Developing strategic contingency plans](#developing-strategic-contingency-plans)
+  - [Adapting strategy to changing conditions](#adapting-strategy-to-changing-conditions)
+  - [Growing the culture of AI-driven strategy](#growing-the-culture-of-ai-driven-strategy)
+  - [Scaling and measuring AI-driven value](#scaling-and-measuring-ai-driven-value)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Preparing for an AI-driven strategic future
-  - Moving forward
+  - [Preparing for an AI-driven strategic future](#preparing-for-an-ai-driven-strategic-future)
+  - [Moving forward](#moving-forward)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on AI-powered tactics for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/intro-video-to-be-renamed-24300527?u=76281980)
@@ -100,13 +100,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Generative AI]] (2), power (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [vincent] (1)
 
 
 ### 1. The Impact of AI on Strategic Business Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980)
@@ -167,6 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), game (3), [[Microsoft Word|Word]] (1), product (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (2), for example (1)
 > **Env Vars:** ceo (1), esg (1)
 > **CLI Commands:** make (1)
@@ -231,7 +233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), let (1)
+> **Frameworks & Libraries:** data (5), ai (5), [[Agile Development|Agile]] (3), business (3), next (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Analogies:** imagine (1)
@@ -309,8 +311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Agile Development|Agile]] (5), ai (5), data (3), teams (2)
 > **Analogies:** for example (2), think of it as (1), imagine (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -375,7 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1)
+> **Frameworks & Libraries:** business (6), data (5), ai (4), [[Agile Development|Agile]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for instance (1)
 > **Env Vars:** gps (1)
@@ -442,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), implements (1)
+> **Frameworks & Libraries:** ai (15), data (6), business (3), game (1), [[Predictive Analytics]] (1)
 > **Analogies:** picture (1), imagine (1), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1)
@@ -521,8 +523,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), data (10), next (1), [[Forecasting]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - [speaker] (1)
@@ -530,7 +532,7 @@ created: 2026-04-29
 
 ### 2. Being a Strategic BA in an AI World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing strategic objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980)
@@ -597,9 +599,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), teams (4), [[Microsoft Products|Products]] (4), ai (4), next (3)
 > **Analogies:** for instance (2), picture (1), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** in the next (2)
 > **Env Vars:** smart (1)
 > **Definitions:** is a  (1)
@@ -668,9 +670,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), product (1), strengths (1), [[Analytics]] (1), data (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (2)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -743,9 +745,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), strengths (4), data (3), [[Performance Metrics]] (1), management (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** finally, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
@@ -808,7 +810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), case, (1), require (1), finally, (1)
+> **Frameworks & Libraries:** ai (14), application (3), business (2), [[Predictive Analytics]] (1), [[Automation]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -874,9 +876,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (11), [[Decision-Making]] (3), management (1), [[Real-Time]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
@@ -947,9 +949,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), business (1), product (1), next (1), [[Agile Development|Agile]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case. (1), switch (1)
 > **Speakers:** - [instructor] (1)
 
 #### Adapting strategy to changing conditions
@@ -1017,7 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** ai (4), data (3), business (2), product (2), hit (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gps (1)
 > **Definitions:** is an  (1)
@@ -1087,6 +1089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (29), [[Decision-Making]] (3), teams (3), data (1), hr (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1146,8 +1149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), teams (4), data (3), next (1), product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** dna (1)
 > **Analogies:** for example (1)
 > **Warnings:** troubleshoot (1)
@@ -1156,7 +1159,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for an AI-driven strategic future
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980)
@@ -1219,8 +1222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), data (10), business (5), next (1), [[Search]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1289,7 +1292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), yield (1)
+> **Frameworks & Libraries:** ai (18), next (1), [[Newsletters]] (1), [[LinkedIn]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)

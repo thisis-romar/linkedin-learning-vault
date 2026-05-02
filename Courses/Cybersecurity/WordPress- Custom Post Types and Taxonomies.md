@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/WordPress-%20Custom%20Post%20Types%20and%20Taxonomies.md)
@@ -48,65 +48,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Create better content
-  - What you should know
-  - Demo project overview
+  - [Create better content](#create-better-content)
+  - [What you should know](#what-you-should-know)
+  - [Demo project overview](#demo-project-overview)
 - [**1. What Are Custom Post Types and Taxonomies?**](#1-what-are-custom-post-types-and-taxonomies) (3 videos)
-  - What are custom post types?
-  - What are custom taxonomies?
-  - Where does the code belong?
+  - [What are custom post types?](#what-are-custom-post-types)
+  - [What are custom taxonomies?](#what-are-custom-taxonomies)
+  - [Where does the code belong?](#where-does-the-code-belong)
 - [**2. Creating Custom Post Types without Code**](#2-creating-custom-post-types-without-code) (5 videos)
-  - The no-code solution
-  - Creating custom post types
-  - Creating custom post type labels
-  - Custom post type capability settings
-  - Displaying your post type on the front end
+  - [The no-code solution](#the-no-code-solution)
+  - [Creating custom post types](#creating-custom-post-types)
+  - [Creating custom post type labels](#creating-custom-post-type-labels)
+  - [Custom post type capability settings](#custom-post-type-capability-settings)
+  - [Displaying your post type on the front end](#displaying-your-post-type-on-the-front-end)
 - [**3. Creating Custom Taxonomies without Code**](#3-creating-custom-taxonomies-without-code) (4 videos)
-  - Creating custom taxonomies
-  - Creating custom taxonomy labels
-  - Customizing the taxonomies' settings
-  - Importing and exporting your data
+  - [Creating custom taxonomies](#creating-custom-taxonomies)
+  - [Creating custom taxonomy labels](#creating-custom-taxonomy-labels)
+  - [Customizing the taxonomies' settings](#customizing-the-taxonomies-settings)
+  - [Importing and exporting your data](#importing-and-exporting-your-data)
 - [**4. Coding Your Own Custom Post Types**](#4-coding-your-own-custom-post-types) (9 videos)
-  - Creating your plugin
-  - Building a basic custom post type
-  - Customizing your post type labels
-  - Customizing your post type settings
-  - Activating the REST API on your post type
-  - Creating a post with your post type
-  - Challenge: Create an events post type
-  - Solution: Create an events post type
-  - Extending post types with custom fields
+  - [Creating your plugin](#creating-your-plugin)
+  - [Building a basic custom post type](#building-a-basic-custom-post-type)
+  - [Customizing your post type labels](#customizing-your-post-type-labels)
+  - [Customizing your post type settings](#customizing-your-post-type-settings)
+  - [Activating the REST API on your post type](#activating-the-rest-api-on-your-post-type)
+  - [Creating a post with your post type](#creating-a-post-with-your-post-type)
+  - [Challenge: Create an events post type](#challenge-create-an-events-post-type)
+  - [Solution: Create an events post type](#solution-create-an-events-post-type)
+  - [Extending post types with custom fields](#extending-post-types-with-custom-fields)
 - [**5. Coding Your Own Custom Taxonomies**](#5-coding-your-own-custom-taxonomies) (6 videos)
-  - Building a basic custom taxonomy
-  - Creating an advanced custom taxonomy
-  - Activating the REST API for your taxonomy
-  - Adding taxonomy terms to your post types
-  - Challenge: Make location taxonomy
-  - Solution: Make location taxonomy
+  - [Building a basic custom taxonomy](#building-a-basic-custom-taxonomy)
+  - [Creating an advanced custom taxonomy](#creating-an-advanced-custom-taxonomy)
+  - [Activating the REST API for your taxonomy](#activating-the-rest-api-for-your-taxonomy)
+  - [Adding taxonomy terms to your post types](#adding-taxonomy-terms-to-your-post-types)
+  - [Challenge: Make location taxonomy](#challenge-make-location-taxonomy)
+  - [Solution: Make location taxonomy](#solution-make-location-taxonomy)
 - [**6. Creating Custom Post Type Templates**](#6-creating-custom-post-type-templates) (7 videos)
-  - The WordPress template hierarchy
-  - Setting up your child theme
-  - Creating a single custom post template
-  - Modifying the single template header
-  - Creating a custom post archive template
-  - Adding a custom taxonomy to a template
-  - Creating a custom taxonomy template
+  - [The WordPress template hierarchy](#the-wordpress-template-hierarchy)
+  - [Setting up your child theme](#setting-up-your-child-theme)
+  - [Creating a single custom post template](#creating-a-single-custom-post-template)
+  - [Modifying the single template header](#modifying-the-single-template-header)
+  - [Creating a custom post archive template](#creating-a-custom-post-archive-template)
+  - [Adding a custom taxonomy to a template](#adding-a-custom-taxonomy-to-a-template)
+  - [Creating a custom taxonomy template](#creating-a-custom-taxonomy-template)
 - [**7. Custom Post Types and Taxonomies in Other Templates**](#7-custom-post-types-and-taxonomies-in-other-templates) (5 videos)
-  - Custom post types on the front page
-  - Organizing your child theme
-  - Creating a custom loop for post types
-  - Displaying the custom loop
-  - Styling your custom loop
+  - [Custom post types on the front page](#custom-post-types-on-the-front-page)
+  - [Organizing your child theme](#organizing-your-child-theme)
+  - [Creating a custom loop for post types](#creating-a-custom-loop-for-post-types)
+  - [Displaying the custom loop](#displaying-the-custom-loop)
+  - [Styling your custom loop](#styling-your-custom-loop)
 - [**8. Moving Your Post Types to Your Theme**](#8-moving-your-post-types-to-your-theme) (3 videos)
-  - Warning: Custom post types in themes
-  - Adding custom post types to themes
-  - Automatically flushing rewrite riles
+  - [Warning: Custom post types in themes](#warning-custom-post-types-in-themes)
+  - [Adding custom post types to themes](#adding-custom-post-types-to-themes)
+  - [Automatically flushing rewrite riles](#automatically-flushing-rewrite-riles)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create better content
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980)
@@ -135,6 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), web (2), [[Content Management]] (1), [[E-Commerce]] (1), data (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [joe] (1)
@@ -178,9 +179,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (9), [[Windows]] (2), [[HTML]] (1), css (1), [[PHP]] (1)
 > **Env Vars:** html (1), css (1), php (1), wamp (1), mamp (1)
 > **CLI Commands:** php (1)
-> **Code Keywords:** default. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Demo project overview
@@ -212,6 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[WordPress]] (2), [[Search]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
@@ -220,7 +222,7 @@ created: 2026-04-29
 
 ### 1. What Are Custom Post Types and Taxonomies?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are custom post types?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980)
@@ -281,7 +283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), type, (1), type. (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Content Management]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -344,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** business (3), product (2), data (1), [[Microsoft Products|Products]] (1), [[WordPress]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -391,8 +393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** function (1), type, (1), let (1)
 > **Exercise Files:** template (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -400,7 +402,7 @@ created: 2026-04-29
 
 ### 2. Creating Custom Post Types without Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The no-code solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-no-code-solution?u=76281980)
@@ -431,7 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -472,7 +474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), let (2), interface (1), type, (1)
+> **Frameworks & Libraries:** business (3)
 > **Env Vars:** cpt (1), url (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -525,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), let (2)
+> **Frameworks & Libraries:** business (8), [[WordPress]] (2), [[Search]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** cptui (1)
 > **UI Navigation:** go to (1)
@@ -614,7 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (4), public (1), include, (1), function (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Representational State Transfer (REST)|Rest]] (4), api (3), business (3), next (2)
 > **Env Vars:** rest (3), api (3), css (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
@@ -671,7 +673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new. (1), interface (1), finally, (1), type. (1)
+> **Frameworks & Libraries:** business (8), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[PHP]] (1)
 > **Env Vars:** rest (1), api (1), url (1)
 > **File Paths:** single.php (1)
 > **CLI Commands:** php (1)
@@ -682,7 +684,7 @@ created: 2026-04-29
 
 ### 3. Creating Custom Taxonomies without Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating custom taxonomies
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980)
@@ -725,7 +727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cpt (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -774,8 +776,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), business (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** just like (1), for example (1)
 > **Env Vars:** cpt (1)
@@ -840,7 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (2), var (1), default. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (2), api (2)
 > **Env Vars:** rest (2), api (2), url (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -894,17 +896,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (8), [[PHP]] (2)
 > **Env Vars:** json (8), php (2), cpt (1)
 > **CLI Commands:** php (2), find (1)
 > **UI Navigation:** click on (1), go to (1)
-> **Code Keywords:** delete (1)
 > **Warnings:** note that (1)
 > **Speakers:** - the (1)
 
 
 ### 4. Coding Your Own Custom Post Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980)
@@ -965,9 +967,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), [[PHP]] (2), [[Wordpress Development]] (1), [[LinkedIn]] (1), next (1)
 > **Env Vars:** php (1), url (1), wpinc (1), lilpath (1)
 > **CLI Commands:** php (2), make (1)
-> **Code Keywords:** let (2), continue (1)
 > **Exercise Files:** exercise files (2)
 > **File Paths:** lil-post-types.php (1)
 > **UI Navigation:** go to (1)
@@ -1060,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), type. (2), type, (2), pass (2)
+> **Frameworks & Libraries:** [[WordPress]] (7), [[PHP]] (6), business (2), [[Internationalization]] (1)
 > **CLI Commands:** php (6), make (5)
 > **Code Identifiers:** lil_register_business_type (2), register_post_type (2), require_once (1), add_action (1)
 > **Prerequisites:** set up (3), install (1), before we start (1), setup (1)
@@ -1148,7 +1150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (2), type, (1), pass (1), function (1)
+> **Frameworks & Libraries:** business (7), [[WordPress]] (2), [[PHP]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), php (1), find (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** scroll down (1), go to (1), in the menu (1)
@@ -1210,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (2), default, (2), this, (2), finally, (1)
+> **Frameworks & Libraries:** business (4), next (2), [[Microsoft Word|Word]] (1), feature (1)
 > **Code Identifiers:** has_front (2), has_archive (1), menu_icon (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -1256,8 +1258,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (6), api (4), [[WordPress]] (2), feature (2), data (1)
 > **Env Vars:** api (4), rest (3)
-> **Code Keywords:** let (2), class. (1), default. (1)
 > **Code Identifiers:** show_in_rest (4)
 > **Cross-References:** go back to (2)
 > **Versions:** 5.0 (1)
@@ -1304,7 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new, (1), function (1), type. (1)
+> **Frameworks & Libraries:** business (2), [[WordPress]] (1)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1340,6 +1342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1389,8 +1392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (2), [[PHP]] (1), hit (1)
 > **Code Identifiers:** lil_register_event_type (2), singular_name (1), add_new (1), add_new_item (1), has_archive (1)
-> **Code Keywords:** function (4), type. (2), type, (1), delete (1), default. (1)
 > **CLI Commands:** php (1), make (1)
 > **File Paths:** lil-post-types.php (1)
 > **Cross-References:** go back to (1)
@@ -1441,7 +1444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1), finally, (1), require (1)
+> **Frameworks & Libraries:** data (3), [[WordPress]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** cmb2 (2)
 > **Tools:** github (1)
@@ -1452,7 +1455,7 @@ created: 2026-04-29
 
 ### 5. Coding Your Own Custom Taxonomies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a basic custom taxonomy
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980)
@@ -1517,7 +1520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), pass (5), public (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[PHP]] (3), business (2), next (1), [[WordPress]] (1)
 > **Code Identifiers:** require_once (2), post_types (2), register_taxonomy (1), add_action (1), lil_register_size_taxonomy (1)
 > **CLI Commands:** php (3), make (2)
 > **Prerequisites:** set up (3)
@@ -1583,7 +1586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), type, (1), default. (1)
+> **Frameworks & Libraries:** [[Internationalization]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1620,8 +1623,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), [[Representational State Transfer (REST)|Rest]] (4), [[WordPress]] (2), business (2), data (1)
 > **Env Vars:** api (5), rest (4)
-> **Code Keywords:** type. (1), default. (1), let (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** show_in_rest (1)
 > **Speakers:** - [instructor] (1)
@@ -1663,8 +1666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **UI Navigation:** click on (3), go to (3)
-> **Code Keywords:** let (4)
 > **Env Vars:** url (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
@@ -1702,6 +1705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), generic (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -1760,7 +1764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), default. (1)
+> **Frameworks & Libraries:** [[PHP]] (2), business (1)
 > **CLI Commands:** php (2), make (2)
 > **UI Navigation:** go to (2), click on (1)
 > **File Paths:** register.php (1), posttypes.php (1)
@@ -1771,7 +1775,7 @@ created: 2026-04-29
 
 ### 6. Creating Custom Post Type Templates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The WordPress template hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980)
@@ -1848,10 +1852,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (13), [[WordPress]] (4), business (3), front-end (1), css (1)
 > **Exercise Files:** template (17)
 > **File Paths:** index.php (4), single-business.php (2), style.css (1), taxonomy-size-small.php (1), taxonomy.php (1)
 > **CLI Commands:** php (13)
-> **Code Keywords:** let (2), case, (2), this, (1), type, (1), static (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), for example (1)
 > **URLs:** [wphierarchy.com](https://wphierarchy.com) (1)
@@ -1942,7 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (2), this, (1), pass (1)
+> **Frameworks & Libraries:** [[WordPress]] (8), css (7), next (3), [[PHP]] (2)
 > **Env Vars:** uri (4), css (4), url (1)
 > **CLI Commands:** make (5), php (2)
 > **Code Identifiers:** wp_enqueue_style (2), lil_child_enqueue_styles (1), get_template_directory_uri (1), get_stylesheet_directory_uri (1), add_action (1)
@@ -2000,10 +2004,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), [[PHP]] (9), front-end (1)
 > **CLI Commands:** php (9), make (2)
 > **Exercise Files:** template (11)
 > **File Paths:** single-business.php (4), single.php (2), content-single-business.php (2), content-single.php (1)
-> **Code Keywords:** let (4)
 > **Code Identifiers:** the_content (1), the_post_thumbnail (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
@@ -2084,7 +2088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (2), type, (2), else, (1), this, (1)
+> **Frameworks & Libraries:** business (13), [[PHP]] (4)
 > **Exercise Files:** template (12)
 > **CLI Commands:** php (4), make (3)
 > **File Paths:** header.php (2), entry-header-business.php (1)
@@ -2165,8 +2169,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), [[PHP]] (5), next (1), [[Internationalization]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7), php (5), find (1)
-> **Code Keywords:** let (4), function (4), delete (2), this, (2), pass (1)
 > **Exercise Files:** template (9)
 > **UI Navigation:** go to (2), scroll down (1)
 > **File Paths:** archive.php (1), content-excerpt.php (1)
@@ -2247,7 +2251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), this, (2)
+> **Frameworks & Libraries:** [[WordPress]] (4), business (4), [[PHP]] (2), [[Microsoft Word|Word]] (1), [[Search]] (1)
 > **UI Navigation:** go to (2), open the (1), scroll down (1), click on (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** php (2), make (1)
@@ -2302,8 +2306,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[PHP]] (3), [[WordPress]] (1)
 > **Exercise Files:** template (10), source code (1)
-> **Code Keywords:** function (5), let (1)
 > **CLI Commands:** php (3), find (1), make (1)
 > **Cross-References:** go back to (3)
 > **Env Vars:** php (2)
@@ -2313,7 +2317,7 @@ created: 2026-04-29
 
 ### 7. Custom Post Types and Taxonomies in Other Templates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom post types on the front page
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980)
@@ -2376,7 +2380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (3), type. (2), default, (1), if ( (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (2), business (2), next (1), front-end (1)
 > **CLI Commands:** make (4), php (2), find (2)
 > **Code Identifiers:** pre_get_posts (1), lil_add_business_to_query (1), add_action (1), is_home (1), is_main_query (1)
 > **File Paths:** functions.php (2)
@@ -2432,8 +2436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), business (3), [[Search]] (3), generic (2), data (1)
 > **Exercise Files:** template (9)
-> **Code Keywords:** type. (3), type, (2), except, (1), for. (1)
 > **CLI Commands:** php (3), make (1), find (1)
 > **File Paths:** search.php (2), content.php (1)
 > **Speakers:** - [instructor] (1)
@@ -2553,7 +2557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), pass (5), let (4), class= (2), type, (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[PHP]] (1), database (1)
 > **Code Identifiers:** have_posts (3), the_post (3), apply_filters (2), wp_reset_query (2), lil_show_events (1)
 > **CLI Commands:** make (5), php (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2609,7 +2613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3)
+> **Frameworks & Libraries:** business (4), [[PHP]] (2), [[Internationalization]] (1)
 > **CLI Commands:** php (2)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** template (1)
@@ -2663,7 +2667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** css (5), next (1), business (1)
 > **File Paths:** style.css (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (2)
@@ -2674,7 +2678,7 @@ created: 2026-04-29
 
 ### 8. Moving Your Post Types to Your Theme
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Warning: Custom post types in themes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/warning-custom-post-types-in-themes?u=76281980)
@@ -2707,8 +2711,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wordpress Development]] (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** we talked about (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -2780,11 +2784,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (7), [[Representational State Transfer (REST)|Rest]] (1), [[WordPress]] (1)
 > **CLI Commands:** php (7), make (2)
 > **Code Identifiers:** get_stylesheet_directory (3), plugin_dir_path (3), require_once (1), get_stylesheet_directory_uri (1)
 > **File Paths:** functions.php (3), lil-post-types.php (2)
 > **UI Navigation:** go to (3), open the (1)
-> **Code Keywords:** function (2), delete (1)
 > **Env Vars:** php (2), lilpath (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -2870,7 +2874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), type. (2), require (1), switch (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Troubleshooting]] (1), business (1)
 > **CLI Commands:** make (4), php (3)
 > **Env Vars:** lil (4), url (1), cpt (1)
 > **File Paths:** functions.php (2), lil-postypes.php (1)
@@ -2882,7 +2886,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980)
@@ -2915,8 +2919,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), data (2), [[LinkedIn]] (1), [[Metadata]] (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 

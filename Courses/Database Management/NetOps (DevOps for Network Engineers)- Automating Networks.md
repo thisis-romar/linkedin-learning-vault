@@ -32,7 +32,7 @@ tags:
   - skill/devops
   - skill/netops
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/NetOps%20(DevOps%20for%20Network%20Engineers)-%20Automating%20Networks.md)
@@ -51,43 +51,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - DevOps for network engineers
-  - What you should know
+  - [DevOps for network engineers](#devops-for-network-engineers)
+  - [What you should know](#what-you-should-know)
 - [**1. DevOps for Network Engineers Overview**](#1-devops-for-network-engineers-overview) (7 videos)
-  - DevOps principles
-  - DevOps practices
-  - Unique network engineering challenges in DevOps
-  - Prerequisites for this course
-  - Setting up a network DevOps lab
-  - Network automation examples with Python libraries
-  - Network configuration backup example with Ansible
+  - [DevOps principles](#devops-principles)
+  - [DevOps practices](#devops-practices)
+  - [Unique network engineering challenges in DevOps](#unique-network-engineering-challenges-in-devops)
+  - [Prerequisites for this course](#prerequisites-for-this-course)
+  - [Setting up a network DevOps lab](#setting-up-a-network-devops-lab)
+  - [Network automation examples with Python libraries](#network-automation-examples-with-python-libraries)
+  - [Network configuration backup example with Ansible](#network-configuration-backup-example-with-ansible)
 - [**2. GitLab and CI/CD**](#2-gitlab-and-cicd) (9 videos)
-  - Introduction to Git
-  - Basic Git operations
-  - GitLab fundamentals
-  - Network application example
-  - GitLab DevOps CI/CD pipelines
-  - GitLab pipeline example: Build
-  - GitLab pipeline example: Review and test
-  - GitLab pipeline example: Deploy
-  - GitLab pipeline example: Monitor
+  - [Introduction to Git](#introduction-to-git)
+  - [Basic Git operations](#basic-git-operations)
+  - [GitLab fundamentals](#gitlab-fundamentals)
+  - [Network application example](#network-application-example)
+  - [GitLab DevOps CI/CD pipelines](#gitlab-devops-cicd-pipelines)
+  - [GitLab pipeline example: Build](#gitlab-pipeline-example-build)
+  - [GitLab pipeline example: Review and test](#gitlab-pipeline-example-review-and-test)
+  - [GitLab pipeline example: Deploy](#gitlab-pipeline-example-deploy)
+  - [GitLab pipeline example: Monitor](#gitlab-pipeline-example-monitor)
 - [**3. Network DevOps Examples**](#3-network-devops-examples) (4 videos)
-  - Network configuration backup with Ansible
-  - GitLab integration for configuration backup
-  - Network API application example
-  - Network API integration with GitLab
+  - [Network configuration backup with Ansible](#network-configuration-backup-with-ansible)
+  - [GitLab integration for configuration backup](#gitlab-integration-for-configuration-backup)
+  - [Network API application example](#network-api-application-example)
+  - [Network API integration with GitLab](#network-api-integration-with-gitlab)
 - [**4. Testing in DevOps**](#4-testing-in-devops) (4 videos)
-  - Testing fundamentals
-  - Testing with pytest
-  - Network testing with pyATS
-  - Network testing in GitLab
+  - [Testing fundamentals](#testing-fundamentals)
+  - [Testing with pytest](#testing-with-pytest)
+  - [Network testing with pyATS](#network-testing-with-pyats)
+  - [Network testing in GitLab](#network-testing-in-gitlab)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Next steps
-  - Conclusion
+  - [Next steps](#next-steps)
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps for network engineers
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980)
@@ -114,6 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Software Development]] (1), [[Engineering]] (1), [[Automation]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - devops (1)
@@ -155,9 +156,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Engineering]] (4), application (3), [[Ansible]] (3), management (2)
 > **CLI Commands:** ansible (3), python (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ios (1)
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
@@ -165,7 +166,7 @@ created: 2026-04-29
 
 ### 1. DevOps for Network Engineers Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980)
@@ -292,7 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (2), while, (1)
+> **Frameworks & Libraries:** [[DevOps]] (15), [[Software Development]] (6), teams (6), [[Engineering]] (5), [[Agile Development|Agile]] (4)
 > **Analogies:** such as (3), for example (2), similar to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -363,8 +364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (11), [[Continuous Integration (CI)|Continuous integration]] (5), [[Version Control]] (4), [[Google]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2)
 > **Env Vars:** sre (7)
-> **Code Keywords:** for, (1), continue (1), function (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Tools:** gitlab (1)
@@ -514,9 +515,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Engineering]] (3), [[Version Control]] (3), [[Python (Programming Language)|Python]] (3), [[Automation]] (2)
 > **CLI Commands:** make (5), python (3), git (1), ansible (1)
 > **Analogies:** such as (5), for example (4)
-> **Code Keywords:** require (2), let (1), while. (1), continue (1), interface (1)
 > **Definitions:** is a  (4), in other words (1)
 > **Env Vars:** vlan (1), cli (1), napalm (1), snmp (1)
 > **Tools:** command line (1)
@@ -635,8 +636,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (9), [[Python (Programming Language)|Python]] (8), [[Ansible]] (6), [[Automation]] (5), [[Linux]] (4)
 > **CLI Commands:** python (8), ansible (6), docker (2), git (1), sudo (1)
-> **Code Keywords:** let (4), interface (1)
 > **Tools:** gitlab (3), command line (1), terminal (1)
 > **Analogies:** such as (1), for example (1), similar to (1)
 > **Prerequisites:** configure (2), prerequisite (1)
@@ -795,11 +796,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), product (3), [[Automation]] (2), [[Ubuntu]] (2), data (2)
 > **Env Vars:** cml (16), yaml (3), bgp (2), asn (2), ospf (2)
 > **Tools:** gitlab (17)
 > **Prerequisites:** set up (3), install (3), configure (3), setup (1)
 > **CLI Commands:** docker (3), make (2), find (1), ssh (1)
-> **Code Keywords:** let (2), self (2), switch (1)
 > **URLs:** [cisco.com](https://cisco.com) (2)
 > **UI Navigation:** scroll down (2)
 > **Code Identifiers:** ios (1)
@@ -1033,8 +1034,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Automation]] (3), [[Ansible]] (3), next (2), [[DevOps]] (1)
 > **CLI Commands:** python (20), docker (19), ssh (7), make (6), pip (5)
-> **Code Keywords:** let (6), self (2), interface (2), module (2), default, (2)
 > **File Paths:** requirements.txt (4), host.yml (3), show_version.py (3)
 > **Env Vars:** ssh (5), yaml (1), ide (1), napalm (1), pyc (1)
 > **Code Identifiers:** show_version (3), ios (1), nornir_utils (1), nornir_netmiko (1), print_result (1)
@@ -1181,8 +1182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (26), [[Automation]] (8), [[Python (Programming Language)|Python]] (6), [[Programming]] (2), next (2)
 > **CLI Commands:** ansible (26), docker (12), python (6), pip (5), make (2)
-> **Code Keywords:** let (5), module (5), switch (2), from. (2), self (1)
 > **Code Identifiers:** ios (10)
 > **Env Vars:** yaml (5), pip (4), ssh (1)
 > **Tools:** gitlab (7)
@@ -1193,7 +1194,7 @@ created: 2026-04-29
 
 ### 2. GitLab and CI/CD
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Git
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980)
@@ -1282,8 +1283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (16), [[Version Control]] (4), [[DevOps]] (3), [[Linux]] (2), feature (2)
 > **CLI Commands:** git (16), make (2), python (1)
-> **Code Keywords:** let (2), public (1), private (1), else, (1), finally, (1)
 > **Definitions:** is a  (3), in other words (1), known as (1)
 > **Analogies:** such as (4)
 > **Env Vars:** vcs (1), cvs (1), svn (1)
@@ -1533,8 +1534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (32), [[DevOps]] (2), web (1), prompt (1), [[GitHub]] (1)
 > **CLI Commands:** git (32), make (9), find (1)
-> **Code Keywords:** let (24), case, (3), delete (2), default, (1)
 > **Code Identifiers:** my_first_file (7), copp_change (6), my_first_project (3)
 > **Tools:** gitlab (9), command line (2), vim (1), github (1)
 > **Env Vars:** readme (3), url (2), copp (2), http (1), ide (1)
@@ -1675,9 +1676,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (9), ci (8), cd (7), [[Ubuntu]] (2), next (1)
 > **Tools:** gitlab (27), github (1)
 > **CLI Commands:** cd (7), docker (4)
-> **Code Keywords:** let (5), self (1), require (1), private (1), else, (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), picture (1), such as (1), for instance (1)
 > **Cross-References:** go back to (2), in the last (1)
@@ -1803,8 +1804,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (11), [[Python (Programming Language)|Python]] (5), web (1)
 > **CLI Commands:** git (11), python (5), docker (3), make (1)
-> **Code Keywords:** let (11)
 > **File Paths:** host.yaml (3), version.py (2), copp-acl.txt (1), hostfile.yml (1)
 > **Env Vars:** cicd (3), yaml (1)
 > **Tools:** gitlab (2), vim (1), terminal (1)
@@ -1883,10 +1884,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (4), cd (4), [[DevOps]] (2), [[Automation]] (2), [[Java]] (2)
 > **CLI Commands:** cd (4), ansible (1), pip (1), make (1)
 > **Tools:** gitlab (6)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** let (1), continue (1), for. (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** pip (1)
 > **Cross-References:** we mentioned (1)
@@ -2023,7 +2024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), case, (2), this, (2), this. (1)
+> **Frameworks & Libraries:** ci (6), cd (5), [[Python (Programming Language)|Python]] (3), next (3), [[Automation]] (1)
 > **Code Identifiers:** show_version (9), before_script (3), ios (1)
 > **CLI Commands:** cd (5), python (3), pip (2), docker (1), find (1)
 > **Cross-References:** go back to (4), in the next (1), we mentioned (1)
@@ -2163,7 +2164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (2), for, (1), raise (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Search]] (1), ci (1), cd (1), next (1)
 > **CLI Commands:** pip (4), make (2), cd (1)
 > **Cross-References:** go back to (4), as you saw (1)
 > **Prerequisites:** install (4)
@@ -2213,7 +2214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ci (1)
 > **Tools:** gitlab (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -2248,7 +2249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), interface (2)
+> **Frameworks & Libraries:** ci (2), cd (2), generic (1)
 > **CLI Commands:** cd (2), make (1)
 > **Env Vars:** bgp (2), utc (1)
 > **Ports:** :00 (2)
@@ -2258,7 +2259,7 @@ created: 2026-04-29
 
 ### 3. Network DevOps Examples
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Network configuration backup with Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980)
@@ -2407,8 +2408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (2), ci (2), cd (2), [[DevOps]] (2), data (1)
 > **Code Identifiers:** ios (9), ansible_network_os (4), ansible_user (4), stage_cor (3), stage_edge (3)
-> **Code Keywords:** let (7), module (6), this, (1), throw (1), case, (1)
 > **Env Vars:** lax (2), nyc (1), ebgb (1), ospf (1), igp (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** ansible (2), cd (2)
@@ -2539,8 +2540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (7), ci (4), cd (4), [[Git]] (3), feature (3)
 > **CLI Commands:** ansible (7), make (5), pip (5), cd (4), git (3)
-> **Code Keywords:** let (14), case, (2), delete (1), self (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Tools:** gitlab (4)
 > **Prerequisites:** install (4)
@@ -2671,7 +2672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (5), return, (1), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), application (6), api (4), next (2), ci (2)
 > **Env Vars:** api (4), yaml (3), lax (2), r2000 (1), url (1)
 > **CLI Commands:** python (7), cd (2)
 > **Cross-References:** go back to (2), in the next (1)
@@ -2777,8 +2778,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), ci (3), cd (3), feature (2), api (1)
 > **CLI Commands:** docker (26), cd (3), make (2)
-> **Code Keywords:** override (5), let (3), case, (2), default, (1), while, (1)
 > **Env Vars:** ci_registry (2), api (1), ci_registry_image (1), ci_commit_short_sha (1), image (1)
 > **Tools:** gitlab (6), terminal (1)
 > **Definitions:** is a  (3), is called (1)
@@ -2789,7 +2790,7 @@ created: 2026-04-29
 
 ### 4. Testing in DevOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980)
@@ -2858,7 +2859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), new. (1), function (1), from. (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), teams (2), [[Quality Assurance]] (1), [[Unit Testing]] (1), functional (1)
 > **Env Vars:** api (1), cml (1), gns3 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), python (1)
@@ -2963,7 +2964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), assert (4), switch (3), pass (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** ssh (2), ios (1), lax (1), url (1), nxapi (1)
 > **CLI Commands:** ssh (2), python (2)
 > **Prerequisites:** install (2), initialization (1)
@@ -3093,7 +3094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), case, (2), public (1), break. (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Python (Programming Language)|Python]] (2), [[Automation]] (1), management (1), feature (1)
 > **Code Identifiers:** pyats (6)
 > **CLI Commands:** python (2), docker (1), pip (1)
 > **Definitions:** is a  (4)
@@ -3181,8 +3182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), ci (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** cicd (3), bgpa (1), pep (1), bgb (1)
-> **Code Keywords:** assert (1), case, (1), this, (1), function (1)
 > **Tools:** gitlab (3)
 > **Code Identifiers:** pyats (2)
 > **File Paths:** os.py (1)
@@ -3193,7 +3194,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980)
@@ -3226,8 +3227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Automation]] (1), [[Linux]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** keep in mind (1)
@@ -3270,6 +3271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (7), [[Engineering]] (3), [[Git]] (1), [[Python (Programming Language)|Python]] (1), [[Ansible]] (1)
 > **CLI Commands:** git (1), python (1), ansible (1)
 > **Env Vars:** api (1), piats (1)
 > **Tools:** gitlab (1), github (1)

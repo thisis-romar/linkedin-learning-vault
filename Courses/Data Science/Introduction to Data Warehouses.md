@@ -37,7 +37,7 @@ tags:
   - topic/cloud-computing
   - skill/data-warehousing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Data%20Warehouses.md)
@@ -56,35 +56,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to data warehouses
+  - [Introduction to data warehouses](#introduction-to-data-warehouses)
 - [**1. Introduction to Data Warehouses**](#1-introduction-to-data-warehouses) (6 videos)
-  - Data warehouse key concepts
-  - Importance of data warehouses
-  - Data lake vs. data warehouse
-  - Data mart vs. data warehouse
-  - ETL process
-  - Traditional data warehouse options
+  - [Data warehouse key concepts](#data-warehouse-key-concepts)
+  - [Importance of data warehouses](#importance-of-data-warehouses)
+  - [Data lake vs. data warehouse](#data-lake-vs-data-warehouse)
+  - [Data mart vs. data warehouse](#data-mart-vs-data-warehouse)
+  - [ETL process](#etl-process)
+  - [Traditional data warehouse options](#traditional-data-warehouse-options)
 - [**2. Dimension Modeling**](#2-dimension-modeling) (6 videos)
-  - Dimensional modeling
-  - Dimensional modeling vs. a traditional approach
-  - Facts
-  - Dimensions
-  - Star schema
-  - Snowflake schema
+  - [Dimensional modeling](#dimensional-modeling)
+  - [Dimensional modeling vs. a traditional approach](#dimensional-modeling-vs-a-traditional-approach)
+  - [Facts](#facts)
+  - [Dimensions](#dimensions)
+  - [Star schema](#star-schema)
+  - [Snowflake schema](#snowflake-schema)
 - [**3. Create Your First Data Warehouse**](#3-create-your-first-data-warehouse) (3 videos)
-  - How to install SQL Server
-  - How to connect SSMS to SQL Server
-  - How to create a data warehouse using SQL Server
+  - [How to install SQL Server](#how-to-install-sql-server)
+  - [How to connect SSMS to SQL Server](#how-to-connect-ssms-to-sql-server)
+  - [How to create a data warehouse using SQL Server](#how-to-create-a-data-warehouse-using-sql-server)
 - [**4. Modern Data Warehouses**](#4-modern-data-warehouses) (3 videos)
-  - Cloud data warehouse
-  - Cloud vs. on-premises data warehouse
-  - Cloud data warehouse options
+  - [Cloud data warehouse](#cloud-data-warehouse)
+  - [Cloud vs. on-premises data warehouse](#cloud-vs-on-premises-data-warehouse)
+  - [Cloud data warehouse options](#cloud-data-warehouse-options)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data warehouses
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/introduction-to-data-warehouses?u=76281980)
@@ -107,13 +107,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (8), cloud (2)
 > **Speakers:** - [deepak] (1)
 
 
 ### 1. Introduction to Data Warehouses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data warehouse key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980)
@@ -172,6 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), database (8), [[Databases]] (5), [[E-Commerce]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), known as (2), is an  (1), in other words (1)
 > **Env Vars:** oltp (2), olap (2), etl (1)
 > **CLI Commands:** make (1)
@@ -221,8 +222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), business (2), [[Search]] (1), [[Databases]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -283,8 +284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (36), database (1), [[Relational Databases]] (1), [[Unstructured Data]] (1)
 > **Definitions:** is a  (4), means that (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -328,9 +329,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Financial Data]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (4), for example (1), imagine (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** ecg (1), mri (1)
 > **Speakers:** - [instructor] (1)
 
@@ -373,9 +374,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), etl (6), database (3), [[Analytics]] (2), [[Banking]] (1)
 > **Env Vars:** etl (6), atm (1), ssis (1)
 > **Analogies:** such as (6)
-> **Code Keywords:** let (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -422,10 +423,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (7), management (5), [[Microsoft SQL Server]] (2), [[MySQL]] (2)
 > **Env Vars:** ibm (2), sql (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** mysql (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -433,7 +434,7 @@ created: 2026-04-29
 
 ### 2. Dimension Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimensional modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling?u=76281980)
@@ -482,10 +483,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), product (4), business (1), next (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -536,8 +537,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -585,6 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (1), product (1), business (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -625,9 +627,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (1), [[Microsoft Products|Products]] (1), next (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -682,7 +684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), this. (1)
+> **Frameworks & Libraries:** data (16), database (2), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2), imagine (1)
 > **Cross-References:** in the next (1)
@@ -730,6 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Snowflake]] (9), next (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -739,7 +742,7 @@ created: 2026-04-29
 
 ### 3. Create Your First Data Warehouse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to install SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980)
@@ -834,8 +837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (12), prompt (2), [[Windows]] (1), data (1), [[Microsoft]] (1)
 > **Env Vars:** sql (12), ssms (3), url (1), sql2022 (1), ssei (1)
-> **Code Keywords:** let (5), finally, (2), interface (2), require (1), this. (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1), double-click (1)
 > **Tools:** command line (2), command prompt (2)
 > **Prerequisites:** install (4)
@@ -894,9 +897,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), management (3), next (1)
 > **Env Vars:** ssms (6), sql (3)
 > **UI Navigation:** click on (6), open the (1), go to (1)
-> **Code Keywords:** let (4), this. (1)
 > **Prerequisites:** install (4)
 > **Exercise Files:** download the (3)
 > **Cross-References:** in the next (1)
@@ -1013,8 +1016,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (7), product (7), [[Microsoft SQL Server|Sql server]] (2), next (2)
 > **UI Navigation:** click on (7), go to (4), open the (1)
-> **Code Keywords:** let (8), default, (1), type. (1), interface (1)
 > **Env Vars:** sql (3), ssms (3)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
@@ -1025,7 +1028,7 @@ created: 2026-04-29
 
 ### 4. Modern Data Warehouses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse?u=76281980)
@@ -1050,8 +1053,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), cloud (5), [[SQL]] (1), [[Analytics]] (1), next (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
@@ -1114,8 +1117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), cloud (11), [[Hardware]] (2), [[Scalability]] (2), business (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1171,7 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (15), cloud (8), [[Analytics]] (4), business (3), [[Snowflake]] (3)
 > **Env Vars:** sql (2), emr (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
@@ -1180,7 +1183,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980)
@@ -1203,6 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Data Engineering]] (1), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [deepak] (1)
 

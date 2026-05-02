@@ -31,7 +31,7 @@ tags:
   - skill/resiliency
   - skill/wellness
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20Resilience.md)
@@ -50,31 +50,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Thrive by building resilience
+  - [Thrive by building resilience](#thrive-by-building-resilience)
 - [**1. Making Meaning for More Resilience**](#1-making-meaning-for-more-resilience) (3 videos)
-  - What does it mean to be resilient?
-  - Self-compassion and your inner narrator
-  - Tune into emotional patterns for greater resilience
+  - [What does it mean to be resilient?](#what-does-it-mean-to-be-resilient)
+  - [Self-compassion and your inner narrator](#self-compassion-and-your-inner-narrator)
+  - [Tune into emotional patterns for greater resilience](#tune-into-emotional-patterns-for-greater-resilience)
 - [**2. Build Emotional Agility for Resilience**](#2-build-emotional-agility-for-resilience) (8 videos)
-  - Increase mental agility and flexibility to build resilience
-  - Practice acknowledging difficult truths
-  - The importance of grief for resilience
-  - Set goals to build agency during challenges
-  - Celebrate wins for sustained resilience
-  - Reframe unhelpful thoughts to be more resilient
-  - Stress management for resilience
-  - Build a relationship with vulnerability
+  - [Increase mental agility and flexibility to build resilience](#increase-mental-agility-and-flexibility-to-build-resilience)
+  - [Practice acknowledging difficult truths](#practice-acknowledging-difficult-truths)
+  - [The importance of grief for resilience](#the-importance-of-grief-for-resilience)
+  - [Set goals to build agency during challenges](#set-goals-to-build-agency-during-challenges)
+  - [Celebrate wins for sustained resilience](#celebrate-wins-for-sustained-resilience)
+  - [Reframe unhelpful thoughts to be more resilient](#reframe-unhelpful-thoughts-to-be-more-resilient)
+  - [Stress management for resilience](#stress-management-for-resilience)
+  - [Build a relationship with vulnerability](#build-a-relationship-with-vulnerability)
 - [**3. Build Your Support System for More Resilience**](#3-build-your-support-system-for-more-resilience) (4 videos)
-  - Assessing and building internal resources
-  - Assessing and building external resources
-  - Find and vet your mentors
-  - Give support to get support
+  - [Assessing and building internal resources](#assessing-and-building-internal-resources)
+  - [Assessing and building external resources](#assessing-and-building-external-resources)
+  - [Find and vet your mentors](#find-and-vet-your-mentors)
+  - [Give support to get support](#give-support-to-get-support)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Break an emotional sweat
+  - [Break an emotional sweat](#break-an-emotional-sweat)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thrive by building resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/thrive-by-building-resilience?u=76281980)
@@ -104,13 +104,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 
 
 ### 1. Making Meaning for More Resilience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What does it mean to be resilient?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?u=76281980)
@@ -165,9 +164,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 
 #### Self-compassion and your inner narrator
@@ -257,7 +256,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (7), this, (1), this. (1), let (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 
@@ -330,15 +328,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), data (1)
 > **CLI Commands:** make (1), snap (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** self (1)
 > **UI Navigation:** go to (1)
 
 
 ### 2. Build Emotional Agility for Resilience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Increase mental agility and flexibility to build resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/increase-mental-agility-flexibility-to-build-resilience?u=76281980)
@@ -421,7 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new. (1), finally, (1)
+> **Frameworks & Libraries:** next (3), [[Agile Development|Agile]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
@@ -490,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1)
+> **Frameworks & Libraries:** career (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -565,8 +563,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Slack]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Cross-References:** in the last (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
@@ -668,7 +666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (3), finally, (1)
+> **Frameworks & Libraries:** next (3), leadership (2), [[Wellness]] (1), [[Microsoft Word|Word]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -722,8 +720,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), business (1), strengths (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### Reframe unhelpful thoughts to be more resilient
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980)
@@ -804,8 +802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), power (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), leadership (1)
 > **CLI Commands:** find (6), make (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
 
@@ -872,7 +870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** management (2), next (1)
 > **CLI Commands:** find (1)
 
 #### Build a relationship with vulnerability
@@ -942,7 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), raise (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), web (1)
 > **Prerequisites:** you'll need (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** imagine (1)
@@ -950,7 +948,7 @@ created: 2026-04-29
 
 ### 3. Build Your Support System for More Resilience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing and building internal resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980)
@@ -1001,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1), strengths (1), [[Grit]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 
@@ -1060,8 +1058,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), self (1)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** you'll need (1)
 
@@ -1126,8 +1124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Search]] (1), next (1), [[Zoom]] (1), express (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 
@@ -1182,12 +1180,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Break an emotional sweat
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/break-an-emotional-sweat?u=76281980)
@@ -1224,7 +1223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (1), let (1), self (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), power (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 

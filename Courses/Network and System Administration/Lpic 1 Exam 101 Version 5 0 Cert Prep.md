@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Lpic%201%20Exam%20101%20Version%205%200%20Cert%20Prep.md)
@@ -43,127 +43,127 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Get ready for LPIC-1
-  - What you should know
-  - About the LPIC-1 exam
-  - CentOS 7 install
-  - CentOS 7 lab setup
-  - Ubuntu 19.04 install
+  - [Get ready for LPIC-1](#get-ready-for-lpic-1)
+  - [What you should know](#what-you-should-know)
+  - [About the LPIC-1 exam](#about-the-lpic-1-exam)
+  - [CentOS 7 install](#centos-7-install)
+  - [CentOS 7 lab setup](#centos-7-lab-setup)
+  - [Ubuntu 19.04 install](#ubuntu-1904-install)
 - [**1. Determine and Configure Hardware**](#1-determine-and-configure-hardware) (7 videos)
-  - Enable/disable integrated hardware
-  - Determine hardware resources
-  - Working with USB devices
-  - About sysfs, udev, and D-Bus
-  - Manage kernel modules
-  - Manual network configuration
-  - Configure networking using NetworkManager
+  - [Enable/disable integrated hardware](#enabledisable-integrated-hardware)
+  - [Determine hardware resources](#determine-hardware-resources)
+  - [Working with USB devices](#working-with-usb-devices)
+  - [About sysfs, udev, and D-Bus](#about-sysfs-udev-and-d-bus)
+  - [Manage kernel modules](#manage-kernel-modules)
+  - [Manual network configuration](#manual-network-configuration)
+  - [Configure networking using NetworkManager](#configure-networking-using-networkmanager)
 - [**2. Boot the System**](#2-boot-the-system) (5 videos)
-  - Understand the Linux boot process
-  - Using GRUB
-  - Create a custom GRUB menu
-  - Updating the Linux kernel
-  - About acpid
+  - [Understand the Linux boot process](#understand-the-linux-boot-process)
+  - [Using GRUB](#using-grub)
+  - [Create a custom GRUB menu](#create-a-custom-grub-menu)
+  - [Updating the Linux kernel](#updating-the-linux-kernel)
+  - [About acpid](#about-acpid)
 - [**3. System Services and Logging**](#3-system-services-and-logging) (9 videos)
-  - About SysVinit, systemd, and Upstart
-  - Get systemd service status
-  - Manage systemd services
-  - Make systemd services persistent
-  - About SysVinit services
-  - Change runlevels/targets
-  - Boot into the emergency target
-  - Locate and interpret system log files
-  - Reading the system journal
+  - [About SysVinit, systemd, and Upstart](#about-sysvinit-systemd-and-upstart)
+  - [Get systemd service status](#get-systemd-service-status)
+  - [Manage systemd services](#manage-systemd-services)
+  - [Make systemd services persistent](#make-systemd-services-persistent)
+  - [About SysVinit services](#about-sysvinit-services)
+  - [Change runlevels/targets](#change-runlevelstargets)
+  - [Boot into the emergency target](#boot-into-the-emergency-target)
+  - [Locate and interpret system log files](#locate-and-interpret-system-log-files)
+  - [Reading the system journal](#reading-the-system-journal)
 - [**4. Use Debian Package Management**](#4-use-debian-package-management) (4 videos)
-  - Debian software management overview
-  - Get package information with dpkg and APT
-  - Manage software with dpkg and APT
-  - Work with APT repositories
+  - [Debian software management overview](#debian-software-management-overview)
+  - [Get package information with dpkg and APT](#get-package-information-with-dpkg-and-apt)
+  - [Manage software with dpkg and APT](#manage-software-with-dpkg-and-apt)
+  - [Work with APT repositories](#work-with-apt-repositories)
 - [**5. Use Red Hat Package Management**](#5-use-red-hat-package-management) (4 videos)
-  - RPM software management overview
-  - Query packages with RPM
-  - Intall and remove packages with Yum
-  - Install and remove package groups
+  - [RPM software management overview](#rpm-software-management-overview)
+  - [Query packages with RPM](#query-packages-with-rpm)
+  - [Intall and remove packages with Yum](#intall-and-remove-packages-with-yum)
+  - [Install and remove package groups](#install-and-remove-package-groups)
 - [**6. Linux as a Virtualized Guest**](#6-linux-as-a-virtualized-guest) (5 videos)
-  - Compare cloud and virtualization concepts
-  - Types of hypervisors
-  - System images and cloud instances
-  - About containers
-  - Introduction to cloud-init
+  - [Compare cloud and virtualization concepts](#compare-cloud-and-virtualization-concepts)
+  - [Types of hypervisors](#types-of-hypervisors)
+  - [System images and cloud instances](#system-images-and-cloud-instances)
+  - [About containers](#about-containers)
+  - [Introduction to cloud-init](#introduction-to-cloud-init)
 - [**7. Working on the Command Line**](#7-working-on-the-command-line) (10 videos)
-  - Simple and compound commands
-  - Modify the shell environment
-  - Command history
-  - The PATH and command execution
-  - Named and unnamed pipes
-  - Use input-output redirection (>, >>, |, 2>, etc.)
-  - Use text filters
-  - Find files using locate
-  - Finding files with find
-  - Finding text in files with grep
+  - [Simple and compound commands](#simple-and-compound-commands)
+  - [Modify the shell environment](#modify-the-shell-environment)
+  - [Command history](#command-history)
+  - [The PATH and command execution](#the-path-and-command-execution)
+  - [Named and unnamed pipes](#named-and-unnamed-pipes)
+  - [Use input-output redirection (>, >>, |, 2>, etc.)](#use-input-output-redirection-2-etc)
+  - [Use text filters](#use-text-filters)
+  - [Find files using locate](#find-files-using-locate)
+  - [Finding files with find](#finding-files-with-find)
+  - [Finding text in files with grep](#finding-text-in-files-with-grep)
 - [**8. Manage Processes**](#8-manage-processes) (6 videos)
-  - Select and sort processes for display
-  - Monitor active processes
-  - Send signals to processes
-  - Run a program with higher or lower priority than the default
-  - Run jobs in the foreground and background
-  - Signal a program to continue running after logout
+  - [Select and sort processes for display](#select-and-sort-processes-for-display)
+  - [Monitor active processes](#monitor-active-processes)
+  - [Send signals to processes](#send-signals-to-processes)
+  - [Run a program with higher or lower priority than the default](#run-a-program-with-higher-or-lower-priority-than-the-default)
+  - [Run jobs in the foreground and background](#run-jobs-in-the-foreground-and-background)
+  - [Signal a program to continue running after logout](#signal-a-program-to-continue-running-after-logout)
 - [**9. Pattern Matching and Editing Text**](#9-pattern-matching-and-editing-text) (11 videos)
-  - Understand the differences between basic and extended regular expressions
-  - Matching characters and words with regexes
-  - Specifying occurrences with regexes
-  - Alternation and grouping with regexes
-  - Back references and subexpressions
-  - Search text using regular expressions
-  - Use regular expressions to delete, change, and substitute text
-  - Awareness of Emacs, Nano, and Vim
-  - An introduction to Vim
-  - Edit text in Vim
-  - Search and replace in Vim
+  - [Understand the differences between basic and extended regular expressions](#understand-the-differences-between-basic-and-extended-regular-expressions)
+  - [Matching characters and words with regexes](#matching-characters-and-words-with-regexes)
+  - [Specifying occurrences with regexes](#specifying-occurrences-with-regexes)
+  - [Alternation and grouping with regexes](#alternation-and-grouping-with-regexes)
+  - [Back references and subexpressions](#back-references-and-subexpressions)
+  - [Search text using regular expressions](#search-text-using-regular-expressions)
+  - [Use regular expressions to delete, change, and substitute text](#use-regular-expressions-to-delete-change-and-substitute-text)
+  - [Awareness of Emacs, Nano, and Vim](#awareness-of-emacs-nano-and-vim)
+  - [An introduction to Vim](#an-introduction-to-vim)
+  - [Edit text in Vim](#edit-text-in-vim)
+  - [Search and replace in Vim](#search-and-replace-in-vim)
 - [**10. Working with Files**](#10-working-with-files) (7 videos)
-  - File globbing and parameter expansion
-  - Understand filesystem paths
-  - Create files and dirs
-  - Copy files and dirs
-  - Move and rename files and dirs
-  - Remove files and dirs
-  - Create links to files and dirs
+  - [File globbing and parameter expansion](#file-globbing-and-parameter-expansion)
+  - [Understand filesystem paths](#understand-filesystem-paths)
+  - [Create files and dirs](#create-files-and-dirs)
+  - [Copy files and dirs](#copy-files-and-dirs)
+  - [Move and rename files and dirs](#move-and-rename-files-and-dirs)
+  - [Remove files and dirs](#remove-files-and-dirs)
+  - [Create links to files and dirs](#create-links-to-files-and-dirs)
 - [**11. Permissions and Ownership**](#11-permissions-and-ownership) (14 videos)
-  - Create and delete local user accounts
-  - Modify local user accounts
-  - Manage user passwords
-  - What is a file?
-  - Get file attributes
-  - Get extended attributes
-  - About standard Linux permissions
-  - File and directory modes
-  - File ownership
-  - Set permissions using numeric method
-  - Set permissions using symbolic method
-  - Default permissions using umask
-  - Special file bits: SUID and SGID
-  - Special directory bits: SGID and Sticky
+  - [Create and delete local user accounts](#create-and-delete-local-user-accounts)
+  - [Modify local user accounts](#modify-local-user-accounts)
+  - [Manage user passwords](#manage-user-passwords)
+  - [What is a file?](#what-is-a-file)
+  - [Get file attributes](#get-file-attributes)
+  - [Get extended attributes](#get-extended-attributes)
+  - [About standard Linux permissions](#about-standard-linux-permissions)
+  - [File and directory modes](#file-and-directory-modes)
+  - [File ownership](#file-ownership)
+  - [Set permissions using numeric method](#set-permissions-using-numeric-method)
+  - [Set permissions using symbolic method](#set-permissions-using-symbolic-method)
+  - [Default permissions using umask](#default-permissions-using-umask)
+  - [Special file bits: SUID and SGID](#special-file-bits-suid-and-sgid)
+  - [Special directory bits: SGID and Sticky](#special-directory-bits-sgid-and-sticky)
 - [**12. Create Partitions and Filesystems**](#12-create-partitions-and-filesystems) (15 videos)
-  - Hard drive partitioning strategies
-  - List, create, delete partitions on MBR and GPT disks
-  - Create parititons using parted
-  - Resize partitions without losing data
-  - Basic features of logical volume management (LVM)
-  - Manage LVM volumes and volume groups
-  - Extend existing logical volumes
-  - Reduce existing logical volumes
-  - Replace a physical volume
-  - Create EXT filesystems
-  - Repair EXT filesystems
-  - Mount filesystems automatically
-  - Back up and restore an EXT filesystem
-  - Basic features of Btrfs
-  - Archiving files with tar
+  - [Hard drive partitioning strategies](#hard-drive-partitioning-strategies)
+  - [List, create, delete partitions on MBR and GPT disks](#list-create-delete-partitions-on-mbr-and-gpt-disks)
+  - [Create parititons using parted](#create-parititons-using-parted)
+  - [Resize partitions without losing data](#resize-partitions-without-losing-data)
+  - [Basic features of logical volume management (LVM)](#basic-features-of-logical-volume-management-lvm)
+  - [Manage LVM volumes and volume groups](#manage-lvm-volumes-and-volume-groups)
+  - [Extend existing logical volumes](#extend-existing-logical-volumes)
+  - [Reduce existing logical volumes](#reduce-existing-logical-volumes)
+  - [Replace a physical volume](#replace-a-physical-volume)
+  - [Create EXT filesystems](#create-ext-filesystems)
+  - [Repair EXT filesystems](#repair-ext-filesystems)
+  - [Mount filesystems automatically](#mount-filesystems-automatically)
+  - [Back up and restore an EXT filesystem](#back-up-and-restore-an-ext-filesystem)
+  - [Basic features of Btrfs](#basic-features-of-btrfs)
+  - [Archiving files with tar](#archiving-files-with-tar)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Taking the exam
+  - [Taking the exam](#taking-the-exam)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get ready for LPIC-1
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980)
@@ -192,8 +192,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), [[LinkedIn]] (1)
 > **Env Vars:** lpic (4)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [grant] (1)
 
@@ -248,6 +248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (13), [[Ubuntu]] (3), [[Virtual Machines]] (3), [[Windows]] (3), [[Virtualization]] (2)
 > **Env Vars:** amd (3), cpu (1), iso (1), ram (1)
 > **Prerequisites:** you'll need (2), install (1), make sure you have (1)
 > **Versions:** 19.04 (2)
@@ -255,7 +256,6 @@ created: 2026-04-29
 > **Code Identifiers:** macos (1)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** download the (1)
-> **Definitions:** is a  (1)
 
 #### About the LPIC-1 exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980)
@@ -322,6 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), [[Vue.js|Vue]] (2), product (1), [[System Architecture]] (1), [[Virtualization]] (1)
 > **Env Vars:** lpic (5), lxo (2), suse (1), vue (1), lpi (1)
 > **Versions:** version 5 (2)
 > **CLI Commands:** yum (1)
@@ -329,7 +330,6 @@ created: 2026-04-29
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** initialization (1)
-> **Speakers:** - [instructor] (1)
 
 #### CentOS 7 install
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980)
@@ -464,11 +464,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2), next (2), [[Virtualization]] (1), web (1)
 > **UI Navigation:** click on (20), go to (1), scroll down (1), checkbox (1)
 > **Env Vars:** iso (3), gui (3), bios (1), uefi (1), usb (1)
 > **Prerequisites:** install (11), required to (1)
 > **CLI Commands:** sudo (2), make (2), find (1)
-> **Code Keywords:** new. (1), interface (1)
 > **URLs:** [virtualbox.org](https://virtualbox.org) (1), [centos.org](https://centos.org) (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** macos (1)
@@ -644,10 +644,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), hit (4), cd (3), power (3), [[Software Development]] (1)
 > **UI Navigation:** click on (32), right-click (2), select the (1)
 > **CLI Commands:** make (6), sudo (4), yum (3), cd (3)
 > **Prerequisites:** install (7), configure (1), set up (1)
-> **Code Keywords:** let (6), module (1)
 > **Env Vars:** iso (2), mac (2), nat (1), sata (1)
 > **Tools:** terminal (3), firefox (3)
 > **Cross-References:** go back to (2), later in (1)
@@ -762,8 +762,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (9), [[Linux]] (4), next (2), hit (2), [[Package Management]] (1)
 > **UI Navigation:** click on (20), go to (6), scroll down (1), select the (1)
-> **Code Keywords:** continue (5), type, (1), let (1), module (1)
 > **Prerequisites:** install (8)
 > **Env Vars:** iso (3), dvd (2), cpu (1), kvm (1)
 > **Versions:** 19.04 (4)
@@ -774,7 +774,7 @@ created: 2026-04-29
 
 ### 1. Determine and Configure Hardware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable/disable integrated hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980)
@@ -829,8 +829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (5), [[System Configuration]] (1), [[Troubleshooting]] (1)
 > **Env Vars:** bios (11), uefi (9), cpu (2), efi (1), guid (1)
-> **Code Keywords:** interface (4), module (1)
 > **Prerequisites:** you'll need (3), configure (1)
 > **Versions:** 2.8 (1)
 > **UI Navigation:** click on (1)
@@ -1004,8 +1004,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (16), [[HTML]] (6), [[Hardware]] (4), [[Linux]] (1), data (1)
 > **CLI Commands:** sudo (16), cat (2), find (1), ls (1), grep (1)
-> **Code Keywords:** let (9), default, (2), class. (2), this. (1)
 > **Env Vars:** html (3), bios (2), xml (1), json (1), cpu (1)
 > **Tools:** firefox (3), terminal (2)
 > **Analogies:** for instance (3), such as (1)
@@ -1096,8 +1096,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4)
 > **Env Vars:** usb (28), ohci (2), uhci (2), ehci (2), vhci (1)
-> **Code Keywords:** interface (5), let (3), pass (2), this, (1)
 > **Tools:** terminal (4)
 > **CLI Commands:** make (2), grep (1)
 > **Code Identifiers:** xhi (1), extensible (1), xhci (1)
@@ -1180,7 +1180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), interface (1)
+> **Frameworks & Libraries:** [[Hardware]] (7), hit (2), [[Troubleshooting]] (2), [[Linux]] (1), management (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** sudo (2)
 > **Tools:** terminal (2)
@@ -1312,7 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (23), let (3), delete (1)
+> **Frameworks & Libraries:** hit (9), [[Linux]] (4), [[Hardware]] (3), [[Virtualization]] (1)
 > **CLI Commands:** sudo (5), make (4), ls (1), rm (1)
 > **Code Identifiers:** dm_mirror (9), dm_region_hash (1), dm_log (1)
 > **Analogies:** for instance (3), just like (1)
@@ -1410,7 +1410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (12), static (2), match. (1), let (1)
+> **Frameworks & Libraries:** dns (4), [[Linux]] (3), data (2), next (2), hit (1)
 > **Env Vars:** dns (4), ipaddr (1), ipv6addr (1), hwaddr (1), macaddr (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Versions:** 255.255.255 (1)
@@ -1535,8 +1535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (14), generic (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nmcli (10), nmtui (5), tui (1), wpa (1), nmcui (1)
-> **Code Keywords:** interface (6), let (3), default, (1), type, (1)
 > **CLI Commands:** sudo (4), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (2), for instance (1)
@@ -1547,7 +1547,7 @@ created: 2026-04-29
 
 ### 2. Boot the System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Linux boot process
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980)
@@ -1608,10 +1608,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), [[Ubuntu]] (2), next (1), power (1), [[Automation]] (1)
 > **Env Vars:** bios (4), uefi (4), ram (3), post (1), grub2 (1)
 > **Analogies:** such as (3), for instance (1)
 > **Prerequisites:** initialization (3)
-> **Code Keywords:** self (1), interface (1)
 > **File Paths:** flashboot/grub2/grub.cfg (1)
 > **Versions:** version 2 (1)
 > **Definitions:** known as (1)
@@ -1790,9 +1790,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[Linux]] (6), cd (3), data (2), [[Windows]] (2)
 > **Env Vars:** grub (12), grub2 (7), lilo (4), isolinux (1), gnu (1)
 > **CLI Commands:** cat (5), cd (3), sudo (3), ls (2), make (2)
-> **Code Keywords:** let (5), default. (2), interface (1), module (1)
 > **File Paths:** grub.cfg (3), boot/grub2/grub.cfg (1), boot/grub/grub.cfg (1)
 > **Definitions:** is a  (2), short for (1), is called (1)
 > **Prerequisites:** install (2), configure (1)
@@ -1874,9 +1874,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Linux]] (1), [[Search]] (1)
 > **Env Vars:** cfg (8), etc (4), efi (2), tty (1), kbm (1)
 > **CLI Commands:** sudo (4), awk (3), cat (2), find (2), cp (1)
-> **Code Keywords:** let (5), delete (3), static (1), for. (1), for, (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -1998,11 +1998,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Linux]] (2)
 > **CLI Commands:** yum (7), sudo (4), cat (1), make (1)
 > **Env Vars:** vim (3), ram (2), cpu (1)
 > **Tools:** terminal (3), vim (3)
 > **Prerequisites:** install (2), you'll need (1), make sure you have (1)
-> **Code Keywords:** this. (2), let (1)
 > **UI Navigation:** select the (1), click on (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Exercise Files:** download the (1)
@@ -2040,8 +2040,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), management (2), [[Linux]] (1)
 > **Env Vars:** acpid (7), acpi (1)
-> **Code Keywords:** interface (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** for instance (1), such as (1)
 > **File Paths:** etc/acpi/actions/power.sh (1)
@@ -2051,7 +2051,7 @@ created: 2026-04-29
 
 ### 3. System Services and Logging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About SysVinit, systemd, and Upstart
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980)
@@ -2122,8 +2122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (8), web (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** mit (1), unix (1)
-> **Code Keywords:** switch (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 
@@ -2226,8 +2226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6)
 > **CLI Commands:** systemctl (7), cat (1)
-> **Code Keywords:** default, (2), static (2), let (1), case, (1)
 > **Definitions:** means that (2)
 > **Tools:** terminal (1)
 > **Analogies:** for instance (1)
@@ -2296,8 +2296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11)
 > **Env Vars:** ctl (18), atd (12)
-> **Code Keywords:** let (5)
 > **Tools:** terminal (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -2345,8 +2345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Linux]] (1)
 > **CLI Commands:** systemctl (7), sudo (2)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2499,8 +2499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), [[Ubuntu]] (2), ux (1), [[Representational State Transfer (REST)|Rest]] (1), [[System Configuration]] (1)
 > **Prerequisites:** install (2), initialization (2), you'll need (1), configure (1)
-> **Code Keywords:** delete (1), interface (1), function (1), require (1), let (1)
 > **Env Vars:** unix (2), imb (1), aix (1), suse (1)
 > **Analogies:** for instance (3), just like (1)
 > **Versions:** 6.06 (1), 11.2 (1)
@@ -2609,8 +2609,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), prompt (1), next (1)
 > **CLI Commands:** systemctl (4), cat (2), sudo (2), find (1), ls (1)
-> **Code Keywords:** let (3), switch (3), default. (1), interface (1)
 > **Analogies:** for instance (3), just like (2), such as (1), similar to (1)
 > **Env Vars:** gui (2), inet (2)
 > **Definitions:** is an  (2), is a  (1)
@@ -2731,7 +2731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), break. (1), while, (1)
+> **Frameworks & Libraries:** hit (5), prompt (3), [[Linux]] (3), power (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), click on (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** grub (2)
@@ -2869,8 +2869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), [[Search]] (3), data (2), [[Linux]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (4), grep (3), systemctl (2), find (2), make (1)
-> **Code Keywords:** var (6), let (4), default, (1), else, (1), private (1)
 > **Tools:** terminal (3)
 > **Env Vars:** tcp (1), udp (1)
 > **Definitions:** is a  (2)
@@ -2959,8 +2959,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), data (3), prompt (1)
 > **CLI Commands:** journalctl (5), sudo (4), make (2), mkdir (1), systemctl (1)
-> **Code Keywords:** var (4), let (2), for. (1)
 > **Env Vars:** ram (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), just like (1)
@@ -2971,7 +2971,7 @@ created: 2026-04-29
 
 ### 4. Use Debian Package Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debian software management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/debian-software-management-overview?u=76281980)
@@ -3042,11 +3042,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Package Management]] (2), database (2), [[Linux]] (1), [[Search]] (1)
 > **CLI Commands:** apt (25)
 > **Env Vars:** apt (17), dpkg (6), cdrom (1)
 > **Prerequisites:** install (7)
 > **Definitions:** is a  (4)
-> **Code Keywords:** interface (2)
 > **Tools:** command line (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -3208,9 +3208,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (14), [[Package Management]] (3), [[Search]] (3), database (3), application (2)
 > **CLI Commands:** apt (20), sudo (11), yum (3), apache (2), dnf (1)
 > **Prerequisites:** install (16)
-> **Code Keywords:** let (12), require (1), this, (1)
 > **Analogies:** such as (3)
 > **Env Vars:** apt (2)
 > **Definitions:** is a  (2)
@@ -3320,9 +3320,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), web (1), [[Ubuntu]] (1)
 > **CLI Commands:** apt (20), sudo (10), apache (1)
 > **Env Vars:** apt (10)
-> **Code Keywords:** let (4), continue (3)
 > **Prerequisites:** install (5)
 > **Tools:** vim (2), terminal (1)
 > **Warnings:** keep in mind (1)
@@ -3449,19 +3449,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (8), hit (6), web (2), [[Security]] (2), open-source (1)
 > **CLI Commands:** apt (14), grep (2), sudo (2)
 > **Env Vars:** apt (7), ppa (3), gui (2)
 > **Versions:** 19.04 (3), 17.10 (1), 18.04 (1), 18.10 (1)
 > **Prerequisites:** install (4)
 > **Analogies:** such as (2), for instance (1)
-> **Code Keywords:** let (2)
 > **Tools:** terminal (1), command line (1)
 > **URLs:** [http://archive.canonical.com/ubuntu](http://archive.canonical.com/ubuntu) (1)
 
 
 ### 5. Use Red Hat Package Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RPM software management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980)
@@ -3538,12 +3538,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Linux]] (1), [[CLI]] (1), database (1)
 > **CLI Commands:** yum (15), make (1)
 > **Env Vars:** rpm (8), cli (1)
 > **Prerequisites:** install (5)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), just like (1)
-> **Code Keywords:** default. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Query packages with RPM
@@ -3711,9 +3711,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (20), database (12), next (1), [[Search]] (1), [[Linux]] (1)
 > **CLI Commands:** yum (11), find (3), make (3), sudo (3), ls (3)
 > **Tools:** bash (11), terminal (1)
-> **Code Keywords:** let (6), this, (1), from, (1), case. (1)
 > **Prerequisites:** install (6)
 > **Env Vars:** rpm (5)
 > **Documentation:** the documentation (2), man page (1)
@@ -3875,10 +3875,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (19), [[Wireshark]] (10), cd (1), [[Troubleshooting]] (1)
 > **CLI Commands:** yum (29), sudo (13), cd (1), ls (1), find (1)
 > **Prerequisites:** install (24)
 > **Env Vars:** yum (12), rpm (3), kde (2), gnome3 (1), gnome (1)
-> **Code Keywords:** let (9), pass (3), this, (2), this. (1)
 > **Tools:** command line (1), terminal (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), similar to (1)
@@ -4025,8 +4025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), hit (11), [[System Administration]] (1)
 > **CLI Commands:** yum (22), sudo (6), make (1)
-> **Code Keywords:** let (6), continue (4), default, (3), case, (1)
 > **Prerequisites:** install (13)
 > **Cross-References:** we discussed (2), earlier in (1)
 > **Code Identifiers:** group_package_types (2)
@@ -4037,7 +4037,7 @@ created: 2026-04-29
 
 ### 6. Linux as a Virtualized Guest
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compare cloud and virtualization concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980)
@@ -4178,7 +4178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), continue (1), this, (1), for. (1)
+> **Frameworks & Libraries:** cloud (26), [[Virtualization]] (6), database (6), data (2), power (2)
 > **Analogies:** such as (3), just like (1), for instance (1), for example (1), imagine (1)
 > **Env Vars:** cpu (3), sql (1), api (1), bios (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
@@ -4312,10 +4312,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtualization]] (19), [[Hardware]] (9), application (3), [[Windows]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** cpu (7), kvm (4), bios (4), pvh (3), hvm (1)
 > **Definitions:** is a  (2), means that (1), is called (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** require (2), default. (1)
 > **CLI Commands:** make (1), aws (1)
 > **Prerequisites:** install (2)
 > **Cross-References:** previous video (1)
@@ -4448,9 +4448,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtualization]] (4), data (3), web (2), cloud (2), [[Linux]] (2)
 > **Env Vars:** iso (2), suse (1), usb (1), ftp (1), ova (1)
 > **Prerequisites:** install (11), setup (1)
-> **Code Keywords:** pass (2), this, (1), case, (1), let (1), this. (1)
 > **Analogies:** such as (2), for instance (2), imagine (1)
 > **CLI Commands:** make (2), ssh (1)
 > **File Paths:** root/anaconda-ks.cfg (1), libvirt.org/docs.html (1)
@@ -4520,9 +4520,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), [[Virtual Machines]] (4), [[Hardware]] (2), [[Virtualization]] (2), [[Linux]] (1)
 > **CLI Commands:** apache (1), make (1), docker (1)
 > **Analogies:** such as (2), just like (1)
-> **Code Keywords:** super (1)
 > **Env Vars:** cpu (1)
 > **Warnings:** note that (1)
 > **Speakers:** - a (1)
@@ -4646,19 +4646,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), data (10), [[Configuration Management]] (4), [[Hardware]] (2), management (2)
 > **Prerequisites:** install (5), configure (5), set up (2)
 > **CLI Commands:** make (2), ansible (2), ssh (1)
 > **Env Vars:** mac (2), kvm (1), ssh (1), url (1)
 > **Analogies:** such as (3), for instance (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** this, (1), continue (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - on (1)
 
 
 ### 7. Working on the Command Line
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple and compound commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/simple-and-compound-commands?u=76281980)
@@ -4817,7 +4817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (3), this, (2), this. (1)
+> **Frameworks & Libraries:** hit (13), cd (5), prompt (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cd (5), mkdir (4), make (2), cat (2), ls (1)
 > **File Paths:** hello.txt (3)
 > **Analogies:** for instance (2), similar to (1)
@@ -4971,8 +4971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (15), [[Linux]] (2), data (1)
 > **Env Vars:** enter (15), var (8), posix (4), shell (2), test (1)
-> **Code Keywords:** var (8), let (5), default, (1), override (1)
 > **CLI Commands:** grep (6), make (1)
 > **Tools:** bash (6), terminal (1)
 > **Code Identifiers:** bash_profile (2)
@@ -5065,8 +5065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), cd (4), [[Search]] (4), prompt (2), next (1)
 > **CLI Commands:** ls (7), cd (4), cat (4), sudo (4)
-> **Code Keywords:** var (4), let (3), case, (1), else. (1)
 > **Analogies:** for instance (3)
 > **Tools:** command prompt (1)
 > **UI Navigation:** go to (1)
@@ -5177,8 +5177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), [[Search]] (1), data (1)
 > **CLI Commands:** tar (3), make (2), find (1), mkdir (1), sudo (1)
-> **Code Keywords:** let (4), export, (2), this, (1)
 > **Tools:** bash (3), terminal (1)
 > **Warnings:** note that (2)
 > **Prerequisites:** you'll need (2)
@@ -5278,10 +5278,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), [[Microsoft Word|Word]] (3), data (1), [[Metadata]] (1)
 > **Env Vars:** tcp (4), etc (4), fifo (3), awk (1)
 > **Tools:** terminal (12)
 > **CLI Commands:** cat (3), awk (2), ls (2), make (1), rm (1)
-> **Code Keywords:** let (5), from. (1), interface (1), delete (1)
 > **Definitions:** is a  (4), stands for (1)
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -5405,9 +5405,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Linux]] (1), next (1)
 > **File Paths:** etcsort.txt (5), etcerr.txt (3), lsout.txt (2)
 > **CLI Commands:** find (6), ls (1)
-> **Code Keywords:** let (3), this, (2), default, (1), this. (1)
 > **Tools:** terminal (2)
 > **Analogies:** for instance (2)
 > **Warnings:** note that (1)
@@ -5616,9 +5616,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), next (3), [[Linux]] (2), data (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cat (15), awk (5), sed (2), python (1)
 > **File Paths:** tabs.txt (10), words.txt (5)
-> **Code Keywords:** let (8), case. (1), delete (1)
 > **Analogies:** for instance (4), similar to (2)
 > **Warnings:** note that (2), warning (1)
 > **Cross-References:** later in (1)
@@ -5756,8 +5756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), database (7), [[Search]] (6), [[Linux]] (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** find (5), sudo (1)
-> **Code Keywords:** let (2), default, (1), for, (1)
 > **Analogies:** for instance (2)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -5892,8 +5892,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (11), hit (11), [[Linux]] (1), database (1), power (1)
 > **CLI Commands:** find (30), sudo (9)
-> **Code Keywords:** let (4)
 > **Cross-References:** in the last (1)
 > **Documentation:** man page (1)
 > **Definitions:** is a  (1)
@@ -6055,11 +6055,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (9), [[Microsoft Word|Word]] (4), data (1)
 > **CLI Commands:** grep (11), find (2), make (2), apache (1), sed (1)
 > **Analogies:** such as (5), for instance (3), just like (2)
 > **Speakers:** - [instructor] (1), - v (1), - c (1), - o (1), - r (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** match. (1), class. (1), let (1)
 > **Env Vars:** gnu (1)
 > **Documentation:** man page (1)
 > **Tools:** bash (1)
@@ -6067,7 +6067,7 @@ created: 2026-04-29
 
 ### 8. Manage Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Select and sort processes for display
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/select-and-sort-processes-for-display?u=76281980)
@@ -6202,13 +6202,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (14), web (2), [[Linux]] (1)
 > **Env Vars:** cpu (14), uid (4), pid (4), cmd (4), gnu (3)
 > **Tools:** firefox (6), terminal (5)
 > **Analogies:** for instance (2), just like (1)
 > **CLI Commands:** awk (2)
 > **Documentation:** man page (2)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** pass (1)
 > **Cross-References:** go back to (1)
 
 #### Monitor active processes
@@ -6328,11 +6328,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), data (3), prompt (3), next (2), [[Linux]] (1)
 > **Env Vars:** cpu (9)
 > **UI Navigation:** toggle (3)
 > **Tools:** terminal (1), command line (1)
 > **Analogies:** for example (1), just like (1)
-> **Code Keywords:** default. (1)
 > **Documentation:** man page (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -6490,9 +6490,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (17), application (1)
 > **Tools:** terminal (11), firefox (6), command line (1)
 > **Env Vars:** pid (5), sig (3), sighub (2), sigterm (2), sigkill (1)
-> **Code Keywords:** let (7), case, (2), this, (1)
 > **CLI Commands:** sudo (3), make (1), systemctl (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -6576,11 +6576,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Linux]] (1), next (1)
 > **Env Vars:** cpu (8), pid (1), cmd (1)
 > **Tools:** terminal (8)
 > **CLI Commands:** sudo (3)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
@@ -6686,9 +6686,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), prompt (3), data (1)
 > **Tools:** terminal (16), command line (1)
 > **Env Vars:** cpu (4), pid (1), cmd (1)
-> **Code Keywords:** let (3)
 > **Documentation:** spec (3)
 > **UI Navigation:** go to (2)
 > **Best Practices:** don't forget (1)
@@ -6747,7 +6747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1), case, (1)
+> **Frameworks & Libraries:** hit (3)
 > **Analogies:** for instance (3)
 > **Tools:** terminal (2)
 > **UI Navigation:** scroll up (1)
@@ -6756,7 +6756,7 @@ created: 2026-04-29
 
 ### 9. Pattern Matching and Editing Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the differences between basic and extended regular expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-differences-between-basic-and-extended-regular-expressions?u=76281980)
@@ -6853,8 +6853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), next (1)
 > **Env Vars:** gnu (6), posix (3), ere (2), bre (1)
-> **Code Keywords:** let (5), case. (1), default, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - within (1)
 
@@ -6931,7 +6931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), class, (2), match, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **Analogies:** for instance (4), for example (1)
 > **Env Vars:** abc (1), posix (1), gnu (1)
 > **Definitions:** is a  (2)
@@ -6990,7 +6990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (1), case, (1)
+> **Frameworks & Libraries:** power (1), next (1)
 > **Analogies:** such as (1), for instance (1)
 > **Env Vars:** gnu (1)
 > **Cross-References:** we discussed (1)
@@ -7094,7 +7094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), match. (1), for. (1), this. (1), else. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** cat (5), make (2), grep (1)
 > **Env Vars:** ere (2)
 > **Analogies:** for instance (1), similar to (1)
@@ -7161,7 +7161,6 @@ created: 2026-04-29
 > **Warnings:** note that (3), keep in mind (2)
 > **Analogies:** for instance (3), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -7292,8 +7291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Search]] (3), [[Microsoft Word|Word]] (2), [[Linux]] (1), data (1)
 > **CLI Commands:** grep (24), find (1), make (1), ls (1)
-> **Code Keywords:** pass (7), let (3), default, (1), switch (1)
 > **File Paths:** words.txt (4)
 > **Env Vars:** ere (2), bre (1), gnu (1)
 > **Tools:** bash (4)
@@ -7428,8 +7427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Microsoft Word|Word]] (2), [[Mesh]] (1), [[Search]] (1)
 > **CLI Commands:** sed (15), ls (2), cat (2), grep (1)
-> **Code Keywords:** let (10), delete (3), else. (1), this. (1), default. (1)
 > **File Paths:** phonenumbers.txt (3)
 > **Env Vars:** passwd (1), posix (1)
 > **Exercise Files:** exercise files (1)
@@ -7502,7 +7501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1)
+> **Frameworks & Libraries:** hit (4), feature (2), [[Linux]] (1)
 > **File Paths:** nanofile.txt (2)
 > **Documentation:** the documentation (1), man page (1)
 > **Tools:** command line (1), terminal (1)
@@ -7619,9 +7618,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Linux]] (1), prompt (1)
 > **Tools:** vim (17), terminal (1), command prompt (1)
 > **Env Vars:** vim (17), sentas (1)
-> **Code Keywords:** interface (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Warnings:** note that (1)
@@ -7714,7 +7713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), let (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Tools:** vim (7)
 > **UI Navigation:** go to (3)
 > **Analogies:** for instance (2)
@@ -7785,9 +7784,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), [[Search]] (7), [[Microsoft Word|Word]] (2)
 > **Tools:** vim (8), command line (1)
 > **Env Vars:** vim (7)
-> **Code Keywords:** let (5)
 > **File Paths:** searchfile.txt (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)
@@ -7795,7 +7794,7 @@ created: 2026-04-29
 
 ### 10. Working with Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File globbing and parameter expansion
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980)
@@ -7894,7 +7893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (12), class, (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Linux]] (1), power (1), next (1)
 > **Analogies:** for instance (3), such as (1), for example (1)
 > **File Paths:** file1.txt (2), filea.txt (1), file2.txt (1)
 > **CLI Commands:** ls (2)
@@ -8016,8 +8015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (16), hit (9), [[Linux]] (3)
 > **CLI Commands:** cd (16), ls (4), make (1), sudo (1), yum (1)
-> **Code Keywords:** let (4)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** ascii (1)
@@ -8142,11 +8141,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), [[Linux]] (1), [[Metadata]] (1)
 > **CLI Commands:** ls (8), mkdir (8), find (3), cat (2), make (1)
 > **File Paths:** textfile.txt (6), emptyfile.txt (3)
 > **Tools:** vim (7), terminal (1)
 > **Analogies:** such as (2), for instance (2)
-> **Code Keywords:** let (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -8295,9 +8294,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (16), [[Linux]] (2), management (1), cd (1), [[Metadata]] (1)
 > **CLI Commands:** cp (14), make (5), mkdir (4), yum (2), cd (1)
 > **File Paths:** file1.txt (9), file1-copy.txt (3), 1-copy.txt (1), dir1/file1-copy.txt (1)
-> **Code Keywords:** let (7), default, (1)
 > **Tools:** command line (1), terminal (1)
 > **Prerequisites:** install (2)
 > **Speakers:** - everyday (1), - pf (1)
@@ -8411,9 +8410,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), [[Linux]] (5), data (4), cd (1)
 > **CLI Commands:** mv (10), mkdir (3), ls (3), make (1), cd (1)
 > **File Paths:** mvfile1.txt (3), mvfile2.txt (3), mvrenamed.txt (2), home/bob/file1.txt (1), home/ted/file1.txt (1)
-> **Code Keywords:** let (7)
 > **Prerequisites:** install (2)
 > **Documentation:** man page (1)
 > **Tools:** terminal (1)
@@ -8575,8 +8574,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (14), cd (4), [[Linux]] (2), prompt (1)
 > **CLI Commands:** rm (16), ls (8), cd (4), mkdir (2), sudo (1)
-> **Code Keywords:** let (12), delete (9), this, (1), function (1)
 > **File Paths:** filea.txt (2), dir1/file1.txt (1), fileb.txt (1), filec.txt (1), filed.txt (1)
 > **Warnings:** be careful (2), note that (1), keep in mind (1)
 > **Tools:** command line (1), terminal (1)
@@ -8691,8 +8690,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), data (3), cd (1)
 > **File Paths:** file.txt (12), filelink.txt (7), filename.txt (1), fileone.txt (1), filesymlink.txt (1)
-> **Code Keywords:** let (8), case, (1), delete (1)
 > **CLI Commands:** ls (4), mkdir (2), cd (1), rm (1)
 > **Definitions:** is a  (3), means that (1)
 > **Tools:** terminal (1)
@@ -8702,7 +8701,7 @@ created: 2026-04-29
 
 ### 11. Permissions and Ownership
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and delete local user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-and-delete-local-user-accounts?u=76281980)
@@ -8817,8 +8816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (12), [[Linux]] (1)
 > **CLI Commands:** sudo (12), cat (7), ls (3)
-> **Code Keywords:** let (7), case, (1), this. (1), delete (1)
 > **Documentation:** man page (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -8936,8 +8935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (10), cat (6)
-> **Code Keywords:** let (5), override (1)
 > **Env Vars:** bin (4)
 > **Tools:** bash (2), terminal (1)
 > **Cross-References:** in the last (1)
@@ -9068,8 +9067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (2), next (1)
 > **CLI Commands:** sudo (10), ssh (2), cat (2)
-> **Code Keywords:** let (7)
 > **Env Vars:** ssh (2)
 > **Documentation:** man page (1)
 > **Tools:** terminal (1)
@@ -9140,6 +9139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), application (2), [[Linux]] (2)
 > **Analogies:** such as (2), for instance (1), just like (1)
 > **CLI Commands:** ls (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -9245,8 +9245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (6), hit (4), next (4), data (3), [[Security]] (1)
 > **CLI Commands:** ls (6)
-> **Code Keywords:** let (2), type. (1), case, (1)
 > **Tools:** terminal (2)
 > **Analogies:** just like (1), for example (1)
 > **Env Vars:** ascii (1)
@@ -9354,9 +9354,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), [[Security]] (6), [[Linux]] (5), data (3)
 > **File Paths:** aclfile.txt (4), afile.txt (3)
 > **CLI Commands:** ls (4), sudo (1)
-> **Code Keywords:** let (5)
 > **Env Vars:** acl (4), acls (1)
 > **Cross-References:** later in (1)
 > **Documentation:** man page (1)
@@ -9424,6 +9424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (7)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -9465,6 +9466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Linux]] (1), application (1)
 > **CLI Commands:** ls (2)
 > **Definitions:** means that (2)
 > **Tools:** firefox (1)
@@ -9575,9 +9577,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (12), cd (2), data (1), [[Linux]] (1), management (1)
 > **CLI Commands:** chown (10), sudo (7), ls (3), mkdir (3), cat (3)
 > **File Paths:** file.txt (7)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (2)
 > **Warnings:** keep in mind (1), note that (1)
 > **Documentation:** man page (1)
@@ -9655,8 +9657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Linux]] (2), cd (1), application (1)
 > **CLI Commands:** chmod (8), ls (2), mkdir (1), cd (1)
-> **Code Keywords:** let (6), type, (1)
 > **File Paths:** file.txt (2)
 > **Tools:** terminal (2)
 > **UI Navigation:** go to (1)
@@ -9771,8 +9773,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), [[Linux]] (2), cd (2)
 > **CLI Commands:** chmod (11), ls (3), sudo (3), cd (2), mkdir (1)
-> **Code Keywords:** let (8)
 > **Analogies:** for instance (3)
 > **Tools:** terminal (2)
 > **File Paths:** file.txt (1)
@@ -9901,7 +9903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default, (1), this. (1), if [ (1)
+> **Frameworks & Libraries:** hit (18), [[Security]] (2)
 > **CLI Commands:** ls (2), sudo (2), make (1), mkdir (1)
 > **Tools:** terminal (3), bash (1)
 > **File Paths:** umaskfile.txt (1), umask.sh (1), etc/profile.d/umask.sh (1)
@@ -9991,9 +9993,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), power (1), [[Security]] (1)
 > **Env Vars:** suid (9), sgid (8), sjd (1)
 > **CLI Commands:** find (5), chmod (4), sudo (2), ls (1)
-> **Code Keywords:** let (2)
 > **Tools:** terminal (2)
 > **Analogies:** such as (1), similar to (1)
 > **Warnings:** note that (1)
@@ -10156,8 +10158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (19), cd (5), [[Linux]] (1)
 > **CLI Commands:** sudo (9), ls (8), cd (5), mkdir (3), chmod (3)
-> **Code Keywords:** let (23), delete (3), case. (2), this. (1)
 > **File Paths:** file.txt (5)
 > **Tools:** terminal (2)
 > **Env Vars:** sgid (1)
@@ -10166,7 +10168,7 @@ created: 2026-04-29
 
 ### 12. Create Partitions and Filesystems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hard drive partitioning strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980)
@@ -10313,8 +10315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Linux]] (5), management (2), [[Hardware]] (2), [[Windows]] (2)
 > **Env Vars:** bios (8), lvm (6), guid (5), suid (2), sgid (2)
-> **Code Keywords:** var (6), this. (2), from. (1), function (1), default, (1)
 > **Analogies:** for instance (4), such as (3), similar to (1)
 > **Definitions:** is an  (2), short for (1)
 > **Prerequisites:** install (3)
@@ -10477,9 +10479,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (14), power (2), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpt (7), bios (4), mbr (3), uefi (2), guid (1)
 > **CLI Commands:** sudo (6), cat (3)
-> **Code Keywords:** let (5), interface (1), delete (1), this. (1)
 > **Tools:** terminal (2), command line (2)
 > **Warnings:** note that (3)
 > **Definitions:** known as (1), is a  (1)
@@ -10556,8 +10558,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10)
 > **CLI Commands:** sudo (3), cp (1), yum (1)
-> **Code Keywords:** let (4)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2), similar to (2)
 > **Code Identifiers:** fdisk (1), gdisk (1)
@@ -10706,8 +10708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), data (1), prompt (1), [[Linux]] (1)
 > **Env Vars:** sdb (13), lsblk (3), xfs (2), gpt (1), exd (1)
-> **Code Keywords:** let (8), delete (3), default, (2), case, (1), default. (1)
 > **CLI Commands:** sudo (7), make (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -10779,8 +10781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (1)
 > **Env Vars:** lvm (12)
-> **Code Keywords:** default. (1), continue (1), switch (1)
 > **CLI Commands:** snap (2)
 > **UI Navigation:** switch to (1)
 > **Definitions:** stands for (1)
@@ -10936,8 +10938,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), data (4), [[Linux]] (4), management (1), [[Troubleshooting]] (1)
 > **CLI Commands:** sudo (12), make (2), mkdir (2)
-> **Code Keywords:** let (6), this. (2), include. (1), case, (1), this, (1)
 > **Env Vars:** lvm (5), xfs (2), unix (1), raid (1), type (1)
 > **Analogies:** such as (2), for instance (1)
 > **Tools:** terminal (1)
@@ -11024,7 +11026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), continue (1), pass (1)
+> **Frameworks & Libraries:** hit (8), management (1), data (1), next (1)
 > **CLI Commands:** sudo (9), make (1)
 > **Env Vars:** sdc (1), free (1)
 > **Cross-References:** previous video (1)
@@ -11123,7 +11125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (2)
+> **Frameworks & Libraries:** hit (10), data (1)
 > **CLI Commands:** sudo (7)
 > **Env Vars:** e2fsck (2), lvs (2)
 > **Code Identifiers:** resize2fs (1)
@@ -11237,7 +11239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (1), type, (1), this, (1)
+> **Frameworks & Libraries:** hit (13), data (5)
 > **CLI Commands:** sudo (13)
 > **Versions:** 1.5 (2)
 > **Warnings:** be careful (1), warning (1)
@@ -11320,8 +11322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), data (2), front-end (1), [[Linux]] (1)
 > **CLI Commands:** sudo (7), ls (1)
-> **Code Keywords:** let (6), pass (1), type. (1)
 > **Env Vars:** mkfs (2)
 > **Tools:** terminal (1), command line (1)
 > **Best Practices:** recommended (1)
@@ -11452,7 +11454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), if= (1), else, (1), this. (1)
+> **Frameworks & Libraries:** hit (7), data (5), [[Hardware]] (1)
 > **CLI Commands:** sudo (6), make (3), cp (1)
 > **Cross-References:** go back to (2)
 > **Tools:** terminal (1)
@@ -11559,9 +11561,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), data (3)
 > **Env Vars:** tab (8), uuid (6), xfs (2), blk (1), stb (1)
 > **CLI Commands:** sudo (9), mkdir (2), make (2)
-> **Code Keywords:** let (8), this. (1)
 > **Cross-References:** previous video (1), earlier in (1)
 > **Prerequisites:** configure (1), you'll need (1)
 > **UI Navigation:** go to (1)
@@ -11643,8 +11645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), cd (1)
 > **CLI Commands:** sudo (8), ssh (2), make (1), yum (1), ls (1)
-> **Code Keywords:** let (4)
 > **Prerequisites:** install (2)
 
 #### Basic features of Btrfs
@@ -11706,10 +11708,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), data (4), management (1), [[Metadata]] (1)
 > **Env Vars:** zfs (8), raid (4), xfs (3), lvm (2), ext4 (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** self (1)
 > **Speakers:** - [narrator] (1)
 
 #### Archiving files with tar
@@ -11821,9 +11823,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), [[Linux]] (3), [[Metadata]] (2), next (2), [[Windows]] (1)
 > **CLI Commands:** tar (17), sudo (3), grep (1), ls (1)
 > **Env Vars:** tar (5), gzip (3), bzip2 (2), zip (1), edc (1)
-> **Code Keywords:** this. (1), let (1), else, (1), case, (1)
 > **Analogies:** such as (2), for instance (2)
 > **Code Identifiers:** rezip2 (1)
 > **Tools:** terminal (1)
@@ -11833,7 +11835,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980)
@@ -11894,6 +11896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), management (1), [[System Architecture]] (1), [[Package Management]] (1), [[Security]] (1)
 > **Env Vars:** lpi (3), lpic (1), gnu (1)
 > **Versions:** version 5 (1), 102.2 (1)
 > **Analogies:** for example (1)

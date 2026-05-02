@@ -22,7 +22,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20AI%20Agents%20with%20AutoGen.md)
@@ -41,45 +41,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Let's build some AI agents with AutoGen
+  - [Let's build some AI agents with AutoGen](#lets-build-some-ai-agents-with-autogen)
 - [**1. AI Agents with AutoGen**](#1-ai-agents-with-autogen) (4 videos)
-  - Understanding AI agents
-  - Overview of the AutoGen framework
-  - Configuring LLMs and setting up AutoGen
-  - Building a basic
+  - [Understanding AI agents](#understanding-ai-agents)
+  - [Overview of the AutoGen framework](#overview-of-the-autogen-framework)
+  - [Configuring LLMs and setting up AutoGen](#configuring-llms-and-setting-up-autogen)
+  - [Building a basic](#building-a-basic)
 - [**2. Developing a Research Assistant**](#2-developing-a-research-assistant) (4 videos)
-  - Multi-agent conversation
-  - Research assistant design
-  - Creating agents for the assistant
-  - Creating tasks for the agent
+  - [Multi-agent conversation](#multi-agent-conversation)
+  - [Research assistant design](#research-assistant-design)
+  - [Creating agents for the assistant](#creating-agents-for-the-assistant)
+  - [Creating tasks for the agent](#creating-tasks-for-the-agent)
 - [**3. Solving Complex Tasks Using Nested Chats**](#3-solving-complex-tasks-using-nested-chats) (3 videos)
-  - Nested chats to add multi-level reviewing
-  - Creating reviewer agents
-  - Creating nested chat
+  - [Nested chats to add multi-level reviewing](#nested-chats-to-add-multi-level-reviewing)
+  - [Creating reviewer agents](#creating-reviewer-agents)
+  - [Creating nested chat](#creating-nested-chat)
 - [**4. Tool Use and Adding Internet Capability**](#4-tool-use-and-adding-internet-capability) (4 videos)
-  - What are tools?
-  - Add calculation tool to math tutor agent
-  - Register tools and run the agent
-  - Add web search ability to the research assistant
+  - [What are tools?](#what-are-tools)
+  - [Add calculation tool to math tutor agent](#add-calculation-tool-to-math-tutor-agent)
+  - [Register tools and run the agent](#register-tools-and-run-the-agent)
+  - [Add web search ability to the research assistant](#add-web-search-ability-to-the-research-assistant)
 - [**5. Building an End-to-End Coding Copilot in Autogen**](#5-building-an-end-to-end-coding-copilot-in-autogen) (4 videos)
-  - Code executors in AutoGen
-  - Create agents
-  - Define task to analyze data
-  - Execute user-defined code in AutoGen
+  - [Code executors in AutoGen](#code-executors-in-autogen)
+  - [Create agents](#create-agents)
+  - [Define task to analyze data](#define-task-to-analyze-data)
+  - [Execute user-defined code in AutoGen](#execute-user-defined-code-in-autogen)
 - [**6. Teachable Agents**](#6-teachable-agents) (3 videos)
-  - Introduction to teachable agents
-  - Setting up teachable agents
-  - Teaching and retrieving information
+  - [Introduction to teachable agents](#introduction-to-teachable-agents)
+  - [Setting up teachable agents](#setting-up-teachable-agents)
+  - [Teaching and retrieving information](#teaching-and-retrieving-information)
 - [**7. Building a Data Analysis Company with Group Chat**](#7-building-a-data-analysis-company-with-group-chat) (3 videos)
-  - Organizational structure of agents
-  - Build the group chat
-  - Speaker selection config
+  - [Organizational structure of agents](#organizational-structure-of-agents)
+  - [Build the group chat](#build-the-group-chat)
+  - [Speaker selection config](#speaker-selection-config)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with AutoGen
+  - [Next steps with AutoGen](#next-steps-with-autogen)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Let's build some AI agents with AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/let-s-build-some-ai-agents-with-autogen?u=76281980)
@@ -100,13 +100,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (2), power (1)
 > **Analogies:** imagine (1)
 
 
 ### 1. AI Agents with AutoGen
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980)
@@ -155,7 +155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** ai (9), data (3), [[Large Language Models (LLM)|Large language models]] (1), [[Decision-Making]] (1), [[Databases]] (1)
 > **Cross-References:** in the next (1)
 
 #### Overview of the AutoGen framework
@@ -185,8 +185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[GPT-4]] (1), application (1)
 > **Prerequisites:** install (2), configure (2), setup (1)
-> **Code Keywords:** class. (1), function (1), switch (1), interface (1)
 > **CLI Commands:** python (1), pip (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
@@ -271,8 +271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), ai (4), next (2), [[LLaMA]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (5), gpt (2), openai_api_key (1), url (1), llm (1)
-> **Code Keywords:** let (2), module (1), function (1), this. (1), case, (1)
 > **Code Identifiers:** config_list (3), llm_config (2), load_dotenv (1)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** python (1)
@@ -376,7 +376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (3), this, (2), this. (1)
+> **Frameworks & Libraries:** next (3), chatbot (3), ai (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Code Identifiers:** llm_config (4), generate_reply (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** setup (1), configure (1), set up (1)
@@ -385,7 +385,7 @@ created: 2026-04-29
 
 ### 2. Developing a Research Assistant
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Multi-agent conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980)
@@ -504,7 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), function (3), pass (1), let (1), lambda (1)
+> **Frameworks & Libraries:** next (4), ai (1), [[Conversational AI]] (1), llm (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** llm_config (3), config_list (2), initiate_chat (1), chat_history (1), is_termination_msg (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** set up (2), configure (1)
@@ -575,7 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** ai (3), next (2), application (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 
@@ -656,7 +656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1), finally, (1)
+> **Frameworks & Libraries:** llm (2), next (2), ai (1), prompt (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** coming up (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -761,7 +761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), function (2), this. (1), let (1)
+> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1), next (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (4), is an  (1)
 > **Prerequisites:** set up (2)
@@ -769,7 +769,7 @@ created: 2026-04-29
 
 ### 3. Solving Complex Tasks Using Nested Chats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Nested chats to add multi-level reviewing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/nested-chats-to-add-multi-level-reviewing?u=76281980)
@@ -816,7 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (2), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
@@ -889,7 +889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), pass (1), class, (1), finally, (1)
+> **Frameworks & Libraries:** next (2), ai (1), prompt (1)
 > **Code Identifiers:** llm_config (2), generate_reply (1), is_termination_msg (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Env Vars:** gpt (1)
@@ -1052,7 +1052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (4), function (4), finally, (3), pass (1)
+> **Frameworks & Libraries:** seo (7), [[Ethics]] (2), [[Search]] (1)
 > **Env Vars:** seo (7)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** llm_config (1), reflection_message (1)
@@ -1061,7 +1061,7 @@ created: 2026-04-29
 
 ### 4. Tool Use and Adding Internet Capability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are tools?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980)
@@ -1124,7 +1124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2), pass (1)
+> **Frameworks & Libraries:** ai (2), web (2), next (2), [[Search]] (1), api (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** llm_config (1)
@@ -1192,7 +1192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (2), module (1), else. (1), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), llm (1), [[Microsoft Word|Word]] (1), prompt (1), next (1)
 > **Code Identifiers:** llm_config (3), is_termination_msg (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** llm (1)
@@ -1283,7 +1283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), finally, (3), this. (2), this, (1), case. (1)
+> **Frameworks & Libraries:** ai (2), next (1)
 > **Code Identifiers:** register_for_llm (3), register_for_execution (2), register_function (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1412,7 +1412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), finally, (5), this. (3), let (3), this, (2)
+> **Frameworks & Libraries:** [[Search]] (16), api (7), web (5), next (5), prompt (5)
 > **Env Vars:** api (7), t20 (2), sdk (1), llm (1), json (1)
 > **Prerequisites:** set up (2), install (1), configure (1), you'll need (1)
 > **Code Identifiers:** config_list (1), register_function (1), research_assistant (1), user_proxy (1)
@@ -1424,7 +1424,7 @@ created: 2026-04-29
 
 ### 5. Building an End-to-End Coding Copilot in Autogen
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Code executors in AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/code-executors-in-autogen?u=76281980)
@@ -1489,9 +1489,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Security]] (2), llm (1), next (1)
 > **CLI Commands:** docker (6)
 > **Tools:** command line (6)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1582,8 +1582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), llm (2), [[Microsoft Copilot|Copilot]] (2), ai (1)
 > **Code Identifiers:** llm_config (2), code_execution_config (2), code_executor_agent (1), code_writer_agent (1), code_writer_agent_system_message (1)
-> **Code Keywords:** let (3), module (1), this. (1), require (1)
 > **Env Vars:** llm (2)
 > **Tools:** command line (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1712,7 +1712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (3), finally, (1), case, (1), module (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Python (Programming Language)|Python]] (2), data (2), [[Fetch]] (1), hit (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** ytd_stock_gains (2)
 > **Env Vars:** llm (1)
@@ -1820,14 +1820,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (2), finally, (2), let (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), next (2), prompt (2), llm (1), data (1)
 > **Env Vars:** llm (1)
 > **Tools:** command line (1)
 
 
 ### 6. Teachable Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to teachable agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/introduction-to-teachable-agents?u=76281980)
@@ -1880,7 +1880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** llm (2), ai (2), database (1), next (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** in the next (1)
 
@@ -1995,7 +1995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (1), this, (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** database (5), next (3), [[ChromaDB|Chroma]] (1), prompt (1)
 > **Code Identifiers:** reset_db (2), teachable_agent (1), add_to_agent (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Prerequisites:** install (1), configure (1)
@@ -2163,7 +2163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), abstract (8), this. (2), this, (1)
+> **Frameworks & Libraries:** llm (2), hit (1), open-source (1), next (1)
 > **Env Vars:** llm (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** reset_db (1)
@@ -2171,7 +2171,7 @@ created: 2026-04-29
 
 ### 7. Building a Data Analysis Company with Group Chat
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizational structure of agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980)
@@ -2246,6 +2246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (3), ai (1), llm (1), [[Fetch]] (1)
 > **Code Identifiers:** code_execution_config (2), human_input_mode (1)
 > **Prerequisites:** required to (1), set up (1)
 > **Env Vars:** llm (1)
@@ -2359,7 +2360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), this. (1)
+> **Frameworks & Libraries:** data (7), next (3), llm (1), hit (1), [[Financial Analysis]] (1)
 > **Code Identifiers:** chat_manager (3), llm_config (1)
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -2445,7 +2446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), continue (1)
+> **Frameworks & Libraries:** ai (4), feature (1), power (1), data (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** speaker_transitions_type (1)
 > **Analogies:** for example (1)
@@ -2453,7 +2454,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980)
@@ -2492,7 +2493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (11), [[LinkedIn]] (2)
 > **Env Vars:** pdf (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** configure (1)

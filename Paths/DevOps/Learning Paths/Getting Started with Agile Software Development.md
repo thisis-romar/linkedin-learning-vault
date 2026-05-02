@@ -7,59 +7,63 @@ course_count: 10
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/devops
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-02T20:34:06.930Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[Agile Software Development]]'
-    last_opened: null
+  - course: "[[Agile Software Development]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]'
-    last_opened: null
+  - course: "[[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Planning and Releasing Software with Jira]]'
-    last_opened: null
+  - course: "[[Planning and Releasing Software with Jira]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Agile Software Development- Kanban for Developers (2019)]]'
-    last_opened: null
+  - course: "[[Agile Software Development- Kanban for Developers (2019)]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Agile Software Development- Scrum for Developers]]'
-    last_opened: null
+  - course: "[[Agile Software Development- Scrum for Developers]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Agile Software Development- Extreme Programming]]'
-    last_opened: null
+  - course: "[[Agile Software Development- Extreme Programming]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Agile Software Development- Creating an Agile Culture]]'
-    last_opened: null
+  - course: "[[Agile Software Development- Creating an Agile Culture]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Agile Software Development- Dealing with Legacy Code and Technical Debt]]'
-    last_opened: null
+  - course: "[[Agile Software Development- Dealing with Legacy Code and Technical Debt]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Agile Software Development- Transforming Your Organization]]'
-    last_opened: null
+  - course: "[[Agile Software Development- Transforming Your Organization]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Agile Software Development- Remote Teams (2019)]]'
-    last_opened: null
+  - course: "[[Agile Software Development- Remote Teams (2019)]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-04-29'
+  - course: agile-software-development
+    last_opened: 2026-05-02T20:34:06.930Z
+    open_count: 1
+    videos: []
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Getting%20Started%20with%20Agile%20Software%20Development.md)

@@ -23,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Developing%20Chatbots%20with%20Azure.md)
@@ -42,33 +42,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Chatbots are revolutionizing the web
+  - [Chatbots are revolutionizing the web](#chatbots-are-revolutionizing-the-web)
 - [**1. Introduction to Chatbots**](#1-introduction-to-chatbots) (2 videos)
-  - What is a chatbot?
-  - Bots vs. chatbots vs. applications
+  - [What is a chatbot?](#what-is-a-chatbot)
+  - [Bots vs. chatbots vs. applications](#bots-vs-chatbots-vs-applications)
 - [**2. Chatbot Terminology and Architecture**](#2-chatbot-terminology-and-architecture) (5 videos)
-  - Components of a chatbot system
-  - Chatbot engine, a deep dive
-  - Intent classifier
-  - Entity extractor
-  - Action server
+  - [Components of a chatbot system](#components-of-a-chatbot-system)
+  - [Chatbot engine, a deep dive](#chatbot-engine-a-deep-dive)
+  - [Intent classifier](#intent-classifier)
+  - [Entity extractor](#entity-extractor)
+  - [Action server](#action-server)
 - [**3. Design a Chatbot**](#3-design-a-chatbot) (4 videos)
-  - Designing conversation for chatbots
-  - Identifying intents and entities
-  - Challenge: Designing conversations
-  - Solution: Designing conversations
+  - [Designing conversation for chatbots](#designing-conversation-for-chatbots)
+  - [Identifying intents and entities](#identifying-intents-and-entities)
+  - [Challenge: Designing conversations](#challenge-designing-conversations)
+  - [Solution: Designing conversations](#solution-designing-conversations)
 - [**4. Enhancing Your Chatbot Actions**](#4-enhancing-your-chatbot-actions) (5 videos)
-  - Setting up the Azure account and building an echobot
-  - Training QnA Maker and static productbot
-  - Training LUIS and dynamic productbot
-  - Challenge: Write your own chatbot
-  - Solution: Write your own chatbot
+  - [Setting up the Azure account and building an echobot](#setting-up-the-azure-account-and-building-an-echobot)
+  - [Training QnA Maker and static productbot](#training-qna-maker-and-static-productbot)
+  - [Training LUIS and dynamic productbot](#training-luis-and-dynamic-productbot)
+  - [Challenge: Write your own chatbot](#challenge-write-your-own-chatbot)
+  - [Solution: Write your own chatbot](#solution-write-your-own-chatbot)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Advancing the chatbot ladder
+  - [Advancing the chatbot ladder](#advancing-the-chatbot-ladder)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Chatbots are revolutionizing the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980)
@@ -95,13 +95,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Python (Programming Language)|Python]] (2), web (1), [[Microsoft Products|Products]] (1), data (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [bhavani] (1)
 
 
 ### 1. Introduction to Chatbots
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a chatbot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/what-is-a-chatbot?u=76281980)
@@ -132,7 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** chatbot (3), [[Google]] (3), business (2), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -185,7 +186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** chatbot (4), web (2), [[Automation]] (2), [[Forms]] (1)
 > **Env Vars:** htlm (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -194,7 +195,7 @@ created: 2026-04-29
 
 ### 2. Chatbot Terminology and Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of a chatbot system
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980)
@@ -249,7 +250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), abstract (1), interface (1), case. (1)
+> **Frameworks & Libraries:** chatbot (7), api (2), data (2), application (1), web (1)
 > **Env Vars:** nlu (2), api (2), ibm (1)
 > **Definitions:** is a  (1), we call this (1)
 > **URLs:** [wit.ai](https://wit.ai) (1)
@@ -290,6 +291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** chatbot (6), ai (2)
 > **Definitions:** is a  (2), is called (2)
 > **Analogies:** for example (2), imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -333,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), for. (1), for, (1)
+> **Frameworks & Libraries:** chatbot (6), [[Microsoft Word|Word]] (3), nlp (2), feature (1)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -387,11 +389,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** chatbot (10), [[Microsoft Word|Word]] (2), nlp (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **Analogies:** for example (5), just like (1)
 > **Env Vars:** usa (3), nlp (1), nyc (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** case. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Action server
@@ -433,9 +435,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (2), application (1), [[Fetch]] (1), api (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** api (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -443,7 +445,7 @@ created: 2026-04-29
 
 ### 3. Design a Chatbot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing conversation for chatbots
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980)
@@ -532,7 +534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), interface (1), this. (1)
+> **Frameworks & Libraries:** product (12), chatbot (4), [[Microsoft Products|Products]] (4), data (2), [[Microsoft Azure]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** csv (2)
 > **Analogies:** imagine (1), for example (1)
@@ -653,7 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), this, (1)
+> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (3), next (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -683,7 +685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), product (1), job description (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat playful music) (1)
@@ -737,7 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), for. (1), static (1), include, (1), let (1)
+> **Frameworks & Libraries:** application (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** luis (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -745,7 +747,7 @@ created: 2026-04-29
 
 ### 4. Enhancing Your Chatbot Actions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the Azure account and building an echobot
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980)
@@ -972,8 +974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Azure|Azure]] (6), product (5), next (4), [[Search]] (3)
 > **UI Navigation:** click on (16), go to (5), select the (4), dropdown (1)
-> **Code Keywords:** let (14), this. (3), new. (1), case, (1)
 > **Prerequisites:** set up (5), install (4), setup (1)
 > **Env Vars:** url (2), qna (1), csv (1), pip (1), txt (1)
 > **Definitions:** is a  (5)
@@ -1220,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (8), function (3), pass (3), static (2)
+> **Frameworks & Libraries:** product (5), api (3), next (3), ai (2), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (3), click on (3), switch to (1)
 > **File Paths:** app.py (3), config.py (1), load.env (1), bot.py (1)
 > **Env Vars:** api (3), env (2), url (1)
@@ -1454,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (6), module (3), class. (2), self (2)
+> **Frameworks & Libraries:** product (44), data (23), application (4), cloud (4), api (3)
 > **Env Vars:** luis (17), api (3), csv (3), tsb (1)
 > **File Paths:** bot.py (2), product.csv (1), app.py (1)
 > **UI Navigation:** go to (3)
@@ -1492,6 +1494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft Azure|Azure]] (1)
 > **File Paths:** bot.py (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** starter code (1)
@@ -1537,7 +1540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** data (2), product (1), next (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** get_job (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** csv (1)
@@ -1548,7 +1551,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advancing the chatbot ladder
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980)
@@ -1589,7 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), web application (1), [[Software Development]] (1)
 > **Speakers:** - [instructor] (1)
 
 

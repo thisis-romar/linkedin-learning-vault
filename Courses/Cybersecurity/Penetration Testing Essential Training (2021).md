@@ -24,7 +24,7 @@ tags:
   - topic/security
   - skill/penetration-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Penetration%20Testing%20Essential%20Training%20(2021).md)
@@ -43,57 +43,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Build a foundation in penetration testing
-  - What you need to know
-  - Disclaimer
+  - [Build a foundation in penetration testing](#build-a-foundation-in-penetration-testing)
+  - [What you need to know](#what-you-need-to-know)
+  - [Disclaimer](#disclaimer)
 - [**1. What Is Pen Testing?**](#1-what-is-pen-testing) (3 videos)
-  - Pen testing overview
-  - The cyber kill chain
-  - The MITRE ATT&CK repository
+  - [Pen testing overview](#pen-testing-overview)
+  - [The cyber kill chain](#the-cyber-kill-chain)
+  - [The MITRE ATT&CK repository](#the-mitre-attck-repository)
 - [**2. Pen Testing Tools**](#2-pen-testing-tools) (6 videos)
-  - Scan networks with Nmap
-  - A Netcat refresher
-  - Capture packets with tcpdump
-  - Work with netstat, nbtstat, and arp
-  - Script with PowerShell
-  - Extend PowerShell with Nishang
+  - [Scan networks with Nmap](#scan-networks-with-nmap)
+  - [A Netcat refresher](#a-netcat-refresher)
+  - [Capture packets with tcpdump](#capture-packets-with-tcpdump)
+  - [Work with netstat, nbtstat, and arp](#work-with-netstat-nbtstat-and-arp)
+  - [Script with PowerShell](#script-with-powershell)
+  - [Extend PowerShell with Nishang](#extend-powershell-with-nishang)
 - [**3. Bash Scripting**](#3-bash-scripting) (3 videos)
-  - Refresh your Bash skills
-  - Control the flow in a script
-  - Use functions in Bash
+  - [Refresh your Bash skills](#refresh-your-bash-skills)
+  - [Control the flow in a script](#control-the-flow-in-a-script)
+  - [Use functions in Bash](#use-functions-in-bash)
 - [**4. Python Scripting**](#4-python-scripting) (7 videos)
-  - Refresh your Python skills
-  - Use the system functions
-  - Use networking functions
-  - Work with websites
-  - Drive Metasploit through Python
-  - Access SQLite databases
-  - Use Scapy to work with packets
+  - [Refresh your Python skills](#refresh-your-python-skills)
+  - [Use the system functions](#use-the-system-functions)
+  - [Use networking functions](#use-networking-functions)
+  - [Work with websites](#work-with-websites)
+  - [Drive Metasploit through Python](#drive-metasploit-through-python)
+  - [Access SQLite databases](#access-sqlite-databases)
+  - [Use Scapy to work with packets](#use-scapy-to-work-with-packets)
 - [**5. Kali and Metasploit**](#5-kali-and-metasploit) (7 videos)
-  - A Kali refresher
-  - Fuzzing with Spike
-  - Information gathering with Legion
-  - Using Metasploit
-  - Exploit with Armitage
-  - Scan targets with GVM
-  - Managing GVM problems
+  - [A Kali refresher](#a-kali-refresher)
+  - [Fuzzing with Spike](#fuzzing-with-spike)
+  - [Information gathering with Legion](#information-gathering-with-legion)
+  - [Using Metasploit](#using-metasploit)
+  - [Exploit with Armitage](#exploit-with-armitage)
+  - [Scan targets with GVM](#scan-targets-with-gvm)
+  - [Managing GVM problems](#managing-gvm-problems)
 - [**6. Web Testing**](#6-web-testing) (5 videos)
-  - Approach web testing
-  - Test websites with Burp Suite
-  - Check web servers with Nikto
-  - Fingerprint web servers
-  - Web server penetration using sqlmap
+  - [Approach web testing](#approach-web-testing)
+  - [Test websites with Burp Suite](#test-websites-with-burp-suite)
+  - [Check web servers with Nikto](#check-web-servers-with-nikto)
+  - [Fingerprint web servers](#fingerprint-web-servers)
+  - [Web server penetration using sqlmap](#web-server-penetration-using-sqlmap)
 - [**7. Understanding Exploit Code**](#7-understanding-exploit-code) (4 videos)
-  - Exploit a target
-  - Understand code injection
-  - Understand buffer overflows
-  - Find exploit code
+  - [Exploit a target](#exploit-a-target)
+  - [Understand code injection](#understand-code-injection)
+  - [Understand buffer overflows](#understand-buffer-overflows)
+  - [Find exploit code](#find-exploit-code)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a foundation in penetration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/build-a-foundation-in-penetration-testing?u=76281980)
@@ -122,8 +122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), web (1), [[Python (Programming Language)|Python]] (1), career (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
@@ -146,9 +146,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Python (Programming Language)|Python]] (1), [[Scripting]] (1), [[Ethical Hacking]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** public (1)
 > **Tools:** bash (1)
 > **Speakers:** - [narrator] (1)
 
@@ -179,14 +179,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. What Is Pen Testing?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pen testing overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/pen-testing-overview?u=76281980)
@@ -311,9 +311,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), career (3), [[Penetration Testing]] (2), [[OSCP]] (2), [[Software Development]] (1)
 > **CLI Commands:** find (7), make (1), python (1)
 > **Analogies:** such as (5)
-> **Code Keywords:** require (1), public (1), finally, (1), function (1)
 > **Env Vars:** oscp (2), oswp (1), osep (1)
 > **Definitions:** in other words (1), known as (1), is called (1), is an  (1)
 > **Exercise Files:** download the (1)
@@ -436,9 +436,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), next (1), [[Banking]] (1), [[Phishing]] (1), [[HTML]] (1)
 > **Definitions:** known as (6), is a  (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** let (1), self (1), require (1), finally, (1)
 > **Env Vars:** pdf (1), html (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -475,7 +475,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** mitre (3), t1123 (1)
-> **Code Keywords:** let (1), this, (1)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -483,7 +482,7 @@ created: 2026-04-29
 
 ### 2. Pen Testing Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scan networks with Nmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/scan-networks-with-nmap?u=76281980)
@@ -578,8 +577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), next (1), [[Linux]] (1)
 > **Env Vars:** tcp (9), udp (7), syn (3), ack (2), icmp (1)
-> **Code Keywords:** let (7), function (1), while, (1), switch (1)
 > **Ports:** port 22 (2), port 512 (1)
 > **Versions:** 10.0.2 (2)
 > **Definitions:** is called (1), is an  (1)
@@ -731,9 +730,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Google]] (3), [[HTML]] (3), [[Windows]] (2), web (2)
 > **Versions:** 10.0.2 (14), 1.1 (3)
 > **File Paths:** myfile.txt (8), incoming.txt (5), index.html (3)
-> **Code Keywords:** let (6), pass (2), switch (1)
 > **Env Vars:** http (4), ftp (4)
 > **URLs:** [google.com](https://google.com) (3), [example.com](https://example.com) (2)
 > **Prerequisites:** set up (5)
@@ -813,8 +812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), [[Linux]] (2), [[Wireshark]] (1), data (1), [[Forms]] (1)
 > **Env Vars:** tcp (4), et8 (2), ascii (2), udp (2), ssh (2)
-> **Code Keywords:** let (7), interface (1), switch (1), require (1)
 > **CLI Commands:** find (2), ssh (2), make (1)
 > **Analogies:** such as (3), for example (1)
 > **Tools:** command line (2)
@@ -873,8 +872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), next (2), [[Routing]] (2)
 > **Env Vars:** tcp (8), udp (4), arp (3)
-> **Code Keywords:** switch (5), let (2), interface (1)
 > **UI Navigation:** switch to (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - netstat (1)
@@ -982,8 +981,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (17), [[Windows]] (8), [[Scripting]] (4), [[Linux]] (2), [[Network Administration]] (1)
 > **Tools:** powershell (17), bash (2), command line (2)
-> **Code Keywords:** let (3), function (2), interface (1), this, (1), while, (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** ise (2), wmi (1)
 > **CLI Commands:** cd (1), cat (1)
@@ -1096,7 +1095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (2), override (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Microsoft Word|Word]] (4), [[Kali Linux]] (1), [[Windows]] (1), [[GitHub]] (1)
 > **Tools:** powershell (6), github (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** chm (1), ftp (1), api (1)
@@ -1108,7 +1107,7 @@ created: 2026-04-29
 
 ### 3. Bash Scripting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Refresh your Bash skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/refresh-your-bash-skills?u=76281980)
@@ -1163,10 +1162,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scripting]] (4), prompt (3), [[Linux]] (1), next (1)
 > **Tools:** bash (12), command line (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** chmod (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cad (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - one (1)
@@ -1212,7 +1211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** ls (1), find (1)
 > **Tools:** bash (2)
 > **Warnings:** note that (2)
@@ -1251,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), this. (1)
+> **Frameworks & Libraries:** prompt (1)
 > **Env Vars:** ps3 (1)
 > **Tools:** bash (1)
 > **Definitions:** is a  (1)
@@ -1260,7 +1259,7 @@ created: 2026-04-29
 
 ### 4. Python Scripting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Refresh your Python skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/refresh-your-python-skills?u=76281980)
@@ -1399,8 +1398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Programming]] (2), [[Windows]] (2), [[Linux]] (2), data (1)
 > **CLI Commands:** python (17), make (2), find (1)
-> **Code Keywords:** let (8), function (3), type, (1), extends (1), case. (1)
 > **Versions:** 173.23.1 (2), 172.23.1 (2), 12.43 (1)
 > **URLs:** [munless.com](https://munless.com) (2)
 > **Tools:** command line (2)
@@ -1453,7 +1452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), this. (1), pass (1), match, (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Python (Programming Language)|Python]] (1)
 > **File Paths:** dict.txt (2)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** sis (1)
@@ -1508,7 +1507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** ftp (2), tcp (1)
 > **CLI Commands:** python (1)
 > **Ports:** port 21 (1)
@@ -1600,7 +1599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), var (1), function (1), switch (1)
+> **Frameworks & Libraries:** web (5), [[Python (Programming Language)|Python]] (3), [[Manual Testing]] (1), [[Scripting]] (1), next (1)
 > **Env Vars:** ftp (7), retr (1)
 > **UI Navigation:** navigate to (2), open the (1), switch to (1)
 > **CLI Commands:** python (3)
@@ -1654,8 +1653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Windows]] (2), [[Linux]] (1), management (1), [[Powershell]] (1)
 > **Env Vars:** smb (5), tcp (1)
-> **Code Keywords:** function (2), let (2), switch (1)
 > **CLI Commands:** python (3)
 > **Prerequisites:** set up (3)
 > **Ports:** port 3000 (1)
@@ -1706,8 +1705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[Databases]] (1), [[Manual Testing]] (1), [[Python (Programming Language)|Python]] (1), [[Metadata]] (1)
 > **CLI Commands:** sqlite3 (3), python (1), find (1)
-> **Code Keywords:** let (4)
 > **UI Navigation:** open the (2), select the (1)
 > **Speakers:** - when (1)
 
@@ -1736,16 +1735,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), power (1)
 > **CLI Commands:** python (3)
 > **Env Vars:** syn (2), tcp (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Kali and Metasploit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A Kali refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/a-kali-refresher?u=76281980)
@@ -1828,8 +1827,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), application (1), [[Security]] (1), power (1), [[Hardware]] (1)
 > **CLI Commands:** sudo (3), apt (2), make (1), find (1)
-> **Code Keywords:** let (4), switch (1), override (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** click on (1), open the (1)
 > **Speakers:** - if (1), - a (1)
@@ -1907,9 +1906,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** trun (5), tcp (1)
 > **Versions:** 10.0.2 (4)
-> **Code Keywords:** module (1), let (1)
 > **Ports:** port 9999 (2)
 > **Code Identifiers:** s_string_variable (1)
 > **Definitions:** is an  (1)
@@ -1965,9 +1964,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Ports:** port 3306 (1), port 21 (1), port 6000 (1), port 1524 (1), port 22 (1)
 > **CLI Commands:** find (2), mysql (2)
-> **Code Keywords:** let (3), this, (1)
 > **UI Navigation:** click on (2), scroll down (1), open the (1)
 > **Versions:** 10.0.2 (2), 5.0 (1)
 > **File Paths:** unix_users.txt (1), unix_passwords.txt (1)
@@ -2093,7 +2092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), module (1), case, (1), type, (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Windows]] (4), database (3), [[Databases]] (1), prompt (1)
 > **Env Vars:** irc (1), dos (1), rhosts (1), lhost (1)
 > **Versions:** 10.0.2 (3)
 > **CLI Commands:** find (1), ls (1)
@@ -2277,7 +2276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), module (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Windows]] (5), database (3), [[PostgreSQL]] (2), [[MySQL]] (2)
 > **CLI Commands:** sudo (4), find (3), mysql (2), apt (1), systemctl (1)
 > **UI Navigation:** select the (4), right-click (4)
 > **Versions:** 10.0.2 (5)
@@ -2383,11 +2382,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Databases]] (1), database (1), management (1), [[Security]] (1)
 > **Env Vars:** gvm (8), apt (1), https (1)
 > **CLI Commands:** sudo (4), apt (1), make (1), ruby (1), find (1)
 > **UI Navigation:** go to (2), select the (2), click on (2), open the (1)
 > **Prerequisites:** install (2), setup (2), set up (1)
-> **Code Keywords:** while, (1), interface (1), continue (1), let (1)
 > **Ports:** port 9392 (1), port 8787 (1), port 80 (1), port 1524 (1)
 > **Versions:** 127.0.0 (1), 10.0.2 (1)
 > **Speakers:** - [instructor] (1), - u (1)
@@ -2427,16 +2426,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (2), database (1)
 > **CLI Commands:** sudo (4), make (1), systemctl (1)
 > **Env Vars:** gvm (5)
 > **Prerequisites:** setup (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Web Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Approach web testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/approach-web-testing?u=76281980)
@@ -2501,8 +2500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), data (2), traffic (2), [[E-Commerce]] (2), [[Security]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** require (1), interface (1)
 > **Env Vars:** https (1), http (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2581,8 +2580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Burp Suite]] (9), traffic (2), web application (1), next (1)
 > **UI Navigation:** go to (3), select the (2), click on (2)
-> **Code Keywords:** let (1), continue (1), default, (1)
 > **URLs:** [webappsecurity.com](https://webappsecurity.com) (2)
 > **Ports:** port 80 (2)
 > **Env Vars:** url (1)
@@ -2616,10 +2615,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), application (1), [[Ubuntu]] (1), database (1)
 > **CLI Commands:** apache (2)
 > **Versions:** 2.8 (1), 2.2.8 (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** osvdb (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -2721,10 +2720,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), web application (2), application (2), [[Windows]] (2), [[Banking]] (2)
 > **Versions:** 2.2.8 (2), 1.1 (2), 2.0.59 (1), 1.3 (1), 2.0 (1)
 > **CLI Commands:** apache (5), ruby (1)
 > **Env Vars:** ocx (1), http (1), htt (1), icmp (1), ssl (1)
-> **Code Keywords:** let (2), this. (1), this, (1), switch (1)
 > **Definitions:** is an  (3)
 > **File Paths:** zero.html (1)
 > **URLs:** [webappsecurity.com](https://webappsecurity.com) (1)
@@ -2837,7 +2836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), switch (1), continue (1)
+> **Frameworks & Libraries:** database (5), web (2), [[LinkedIn]] (1), vpn (1), [[Security]] (1)
 > **Env Vars:** https (2), vpn (1), ssh (1), http (1), ssl (1)
 > **CLI Commands:** ssh (1), apache (1), sudo (1), find (1), mysql (1)
 > **Versions:** 10.10.10 (4), 2.4.18 (1)
@@ -2849,7 +2848,7 @@ created: 2026-04-29
 
 ### 7. Understanding Exploit Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploit a target
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/exploit-a-target?u=76281980)
@@ -2980,8 +2979,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft]] (2), application (1), [[Microsoft Word|Word]] (1), [[Phishing]] (1)
 > **Env Vars:** smb (5), usb (4), pdf (1), nsa (1)
-> **Code Keywords:** let (2), finally, (1), continue (1), case, (1), module (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** find (1), apache (1)
 > **Analogies:** such as (1), for instance (1)
@@ -3273,7 +3272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (4), this. (2), function (1), for, (1)
+> **Frameworks & Libraries:** data (5), prompt (3), [[Windows]] (2), next (2), [[Search]] (2)
 > **Env Vars:** dos (3), nop (3), x32 (2), pe00 (1), xml (1)
 > **UI Navigation:** click on (3), select the (3), double-click (2), scroll down (1), right-click (1)
 > **CLI Commands:** make (2), wget (1), chmod (1), ssh (1), find (1)
@@ -3481,8 +3480,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (3), [[Windows]] (2), application (1)
 > **Env Vars:** sco (4), edx (4), ebx (3), ecx (3), masm (2)
-> **Code Keywords:** let (13), return, (2), this. (1), finally, (1), case, (1)
 > **Definitions:** known as (1), is a  (1)
 > **Prerequisites:** initialization (1), before we start (1)
 > **Cross-References:** go back to (1)
@@ -3543,7 +3542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1), module (1), this, (1)
+> **Frameworks & Libraries:** database (2), [[GitHub]] (1), [[Security]] (1), [[Search]] (1), application (1)
 > **UI Navigation:** select the (2), click on (1), scroll down (1)
 > **CLI Commands:** python (1), make (1)
 > **Analogies:** for example (2)
@@ -3555,7 +3554,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/next-steps?u=76281980)
@@ -3588,6 +3587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (3), [[Kali Linux]] (2), aws (2), [[Engineering]] (1)
 > **CLI Commands:** find (2), aws (2), python (1)
 > **Env Vars:** aws (2)
 > **UI Navigation:** go to (1)

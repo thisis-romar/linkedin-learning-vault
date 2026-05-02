@@ -34,7 +34,7 @@ tags:
   - skill/spring-framework
   - skill/performance-tuning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Performance%20Tuning%20in%20Spring%20Apps.md)
@@ -53,38 +53,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Performance tuning in Spring
-  - What you should know
-  - Using the exercise files
-  - A Spring developer’s toolkit
+  - [Performance tuning in Spring](#performance-tuning-in-spring)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [A Spring developer’s toolkit](#a-spring-developers-toolkit)
 - [**1. Foundations of Spring Performance**](#1-foundations-of-spring-performance) (5 videos)
-  - Understanding performance
-  - JVM performance
-  - Transaction performance
-  - Challenge: JVM performance tuning
-  - Solution: JVM performance tuning
+  - [Understanding performance](#understanding-performance)
+  - [JVM performance](#jvm-performance)
+  - [Transaction performance](#transaction-performance)
+  - [Challenge: JVM performance tuning](#challenge-jvm-performance-tuning)
+  - [Solution: JVM performance tuning](#solution-jvm-performance-tuning)
 - [**2. Spring Performance Monitoring**](#2-spring-performance-monitoring) (6 videos)
-  - Configuring Spring Actuator with Spring Boot
-  - Spring Actuator customized endpoints and health metrics
-  - Using Spring Actuator for runtime monitoring
-  - Customizing Spring performance logging
-  - Challenge: Spring performance monitoring
-  - Solution: Spring performance monitoring
+  - [Configuring Spring Actuator with Spring Boot](#configuring-spring-actuator-with-spring-boot)
+  - [Spring Actuator customized endpoints and health metrics](#spring-actuator-customized-endpoints-and-health-metrics)
+  - [Using Spring Actuator for runtime monitoring](#using-spring-actuator-for-runtime-monitoring)
+  - [Customizing Spring performance logging](#customizing-spring-performance-logging)
+  - [Challenge: Spring performance monitoring](#challenge-spring-performance-monitoring)
+  - [Solution: Spring performance monitoring](#solution-spring-performance-monitoring)
 - [**3. Tuning for Common Spring Performance Challenges**](#3-tuning-for-common-spring-performance-challenges) (5 videos)
-  - Aspect-Oriented Programming
-  - Hibernate database interactions
-  - Application startup time
-  - Challenge: Spring performance tuning
-  - Solution: Spring performance tuning
+  - [Aspect-Oriented Programming](#aspect-oriented-programming)
+  - [Hibernate database interactions](#hibernate-database-interactions)
+  - [Application startup time](#application-startup-time)
+  - [Challenge: Spring performance tuning](#challenge-spring-performance-tuning)
+  - [Solution: Spring performance tuning](#solution-spring-performance-tuning)
 - [**4. The Spring Developers Performance Toolkit**](#4-the-spring-developers-performance-toolkit) (2 videos)
-  - Compiling a performance profile
-  - Presenting your work
+  - [Compiling a performance profile](#compiling-a-performance-profile)
+  - [Presenting your work](#presenting-your-work)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Performance tuning in Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980)
@@ -111,6 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (3), [[Performance Tuning]] (1), [[Java]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kathy] (1)
@@ -138,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), application (2), [[Performance Tuning]] (1), [[Spring Framework]] (1), [[Spring Boot]] (1)
 > **Env Vars:** jdbc (1), api (1), ide (1)
 > **Tools:** intellij (2)
 > **CLI Commands:** git (1)
@@ -145,7 +147,6 @@ created: 2026-04-29
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
-> **Speakers:** - [instructor] (1)
 
 #### Using the exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980)
@@ -180,9 +181,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Java]] (1), [[Spring Boot]] (1)
 > **Tools:** github (5), command line (2)
 > **Env Vars:** ide (4), readme (1)
-> **Code Keywords:** interface (2)
 > **CLI Commands:** make (1)
 > **Documentation:** the readme (1)
 > **UI Navigation:** open the (1)
@@ -290,10 +291,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), [[Java]] (7), open-source (4), [[GitHub]] (1), database (1)
 > **Env Vars:** jdk (3), jvm (2), ide (2), jar (1)
 > **Prerequisites:** set up (3), configure (1), install (1)
 > **Tools:** intellij (3), github (1)
-> **Code Keywords:** let (2), this. (1)
 > **URLs:** [github.io](https://github.io) (1), [prometheus.io](https://prometheus.io) (1)
 > **Versions:** java 8 (2)
 > **Definitions:** is a  (2)
@@ -302,7 +303,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Spring Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980)
@@ -379,9 +380,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (17), [[Java]] (3), [[Spring Framework]] (2), [[Performance Tuning]] (1), [[Vanilla]] (1)
 > **Env Vars:** jvm (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** continue (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -563,8 +564,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (30), [[Java]] (8), [[Memory Management]] (1), [[GitHub]] (1)
 > **Env Vars:** jvm (14), cpu (12), jdk (1), ide (1), cpo (1)
-> **Code Keywords:** let (9), static (2), finally, (2), this. (1), this, (1)
 > **Definitions:** is a  (5)
 > **Tools:** intellij (2), github (1)
 > **CLI Commands:** make (2)
@@ -749,8 +750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (18), [[Java]] (5), web (3), database (2), hit (2)
 > **Env Vars:** jvm (5), http (3), apm (3), api (2), jdbc (2)
-> **Code Keywords:** let (11), this. (1), self (1), this, (1)
 > **Definitions:** is a  (5), is an  (2), is called (1)
 > **CLI Commands:** make (2), unzip (1)
 > **Prerequisites:** configure (1), install (1), set up (1)
@@ -783,6 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Java]] (1)
 > **Env Vars:** jvm (3), challenge (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous video (1)
@@ -890,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), static (6), case, (3), throw (1)
+> **Frameworks & Libraries:** application (4), [[Java]] (4), hit (1)
 > **Env Vars:** jvm (4), ide (1), cpu (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1), - xmx (1)
@@ -902,7 +904,7 @@ created: 2026-04-29
 
 ### 2. Spring Performance Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring Spring Actuator with Spring Boot
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980)
@@ -1051,7 +1053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), default, (5), default. (2), else. (1)
+> **Frameworks & Libraries:** application (15), web (6), [[Spring Boot]] (5), api (4), [[Security]] (4)
 > **Env Vars:** jmx (5), api (4), http (3), cpu (1), jms (1)
 > **Definitions:** is a  (9), stands for (1)
 > **Analogies:** for example (3), for instance (1)
@@ -1251,7 +1253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), override (3), default, (3), this. (2), interface (2)
+> **Frameworks & Libraries:** application (20), [[Spring Boot]] (5), api (1), data (1), [[Spring Framework]] (1)
 > **File Paths:** pom.xml (3)
 > **Env Vars:** api (1), xml (1)
 > **Cross-References:** go back to (2)
@@ -1439,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), finally, (3), class, (2), interface (1), static (1)
+> **Frameworks & Libraries:** application (10), [[Spring Boot]] (4), api (2), management (1), next (1)
 > **Definitions:** is a  (7), is an  (2)
 > **Env Vars:** cpu (2), xml (2), api (2), http (1), yml (1)
 > **Prerequisites:** configure (2), set up (2)
@@ -1660,7 +1662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), class. (4), class, (4), finally, (3), public (2)
+> **Frameworks & Libraries:** application (3), hit (3), [[Jigsaw]] (2), [[Spring Framework]] (2), generic (2)
 > **Definitions:** is a  (5), is an  (3), is called (1), we call this (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** cpu (4), aop (3)
@@ -1688,6 +1690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (2), application (1)
 > **Env Vars:** jmx (2), challenge (2), actuator (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1730,7 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), include= (1), this, (1)
+> **Frameworks & Libraries:** application (3), [[Spring Boot]] (2), management (2), web (1)
 > **Env Vars:** jmx (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1738,7 +1741,7 @@ created: 2026-04-29
 
 ### 3. Tuning for Common Spring Performance Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Aspect-Oriented Programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980)
@@ -1949,8 +1952,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (15), [[Programming]] (3), [[Security]] (2), business (2), hit (2)
 > **Env Vars:** aop (24), cic (1)
-> **Code Keywords:** let (8), class, (4), class. (3), super (2), for. (1)
 > **Definitions:** is a  (6), in other words (3), is called (1), is an  (1)
 > **Prerequisites:** configure (3), set up (2), setup (1)
 > **UI Navigation:** go to (1), dropdown (1)
@@ -2149,7 +2152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default. (1), finally, (1)
+> **Frameworks & Libraries:** application (14), [[Statistics]] (11), database (8), data (6), hit (2)
 > **Definitions:** is a  (6), is an  (2)
 > **Env Vars:** jdbc (2), sql (2), xml (2), orm (1)
 > **Analogies:** for instance (2), for example (2), kind of like (1)
@@ -2371,7 +2374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), require (2), this. (2), switch (2), this, (2)
+> **Frameworks & Libraries:** application (18), [[Java]] (3), [[Spring Boot]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (1), jdk (1)
@@ -2397,6 +2400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (2), application (1)
 > **Env Vars:** challenge (1), startup (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2448,7 +2452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** application (7), [[Spring Boot]] (5)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2456,7 +2460,7 @@ created: 2026-04-29
 
 ### 4. The Spring Developers Performance Toolkit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compiling a performance profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980)
@@ -2523,9 +2527,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Decision Trees]] (1), next (1), concurrent (1), database (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** jvm (3), cpu (1)
-> **Code Keywords:** this. (1), let (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2600,8 +2604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), career (1), application (1), [[Probability]] (1), [[Microservices]] (1)
 > **Env Vars:** api (6), http (1)
-> **Code Keywords:** this, (2), this. (1), yield (1)
 > **Analogies:** such as (1), for example (1), picture (1), for instance (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (2)
@@ -2610,7 +2614,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980)
@@ -2633,8 +2637,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), [[Spring Boot]] (2), [[LinkedIn]] (1), database (1), [[Memory Management]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** jvm (1)
 > **Versions:** 1.0 (1)
 > **Speakers:** - [kathy] (1)

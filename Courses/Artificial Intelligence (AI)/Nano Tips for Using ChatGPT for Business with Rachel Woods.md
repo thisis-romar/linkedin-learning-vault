@@ -26,7 +26,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Nano%20Tips%20for%20Using%20ChatGPT%20for%20Business%20with%20Rachel%20Woods.md)
@@ -45,20 +45,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Using GPT in Business**](#1-using-gpt-in-business) (10 videos)
-  - Understanding generative AI
-  - ChatGPT and GPT explained
-  - Introduction to prompting
-  - Few-shot learning for better generations
-  - Fine-tuning GPT for your use case
-  - Using AI in your organization
-  - Keeping people in the process
-  - Why AI is allowed to lie
-  - Data privacy and ownership considerations
-  - Common business applications
+  - [Understanding generative AI](#understanding-generative-ai)
+  - [ChatGPT and GPT explained](#chatgpt-and-gpt-explained)
+  - [Introduction to prompting](#introduction-to-prompting)
+  - [Few-shot learning for better generations](#few-shot-learning-for-better-generations)
+  - [Fine-tuning GPT for your use case](#fine-tuning-gpt-for-your-use-case)
+  - [Using AI in your organization](#using-ai-in-your-organization)
+  - [Keeping people in the process](#keeping-people-in-the-process)
+  - [Why AI is allowed to lie](#why-ai-is-allowed-to-lie)
+  - [Data privacy and ownership considerations](#data-privacy-and-ownership-considerations)
+  - [Common business applications](#common-business-applications)
 
 ### 1. Using GPT in Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980)
@@ -87,8 +87,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Generative AI]] (4), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** require (1), public (1)
 > **Definitions:** is a  (1)
 
 #### ChatGPT and GPT explained
@@ -118,9 +118,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[ChatGPT]] (3), next (3), ai (2), application (1)
 > **Env Vars:** gpt (6)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** this. (1)
 
 #### Introduction to prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/introduction-to-prompting?u=76281980)
@@ -163,7 +163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return. (2), finally, (1)
+> **Frameworks & Libraries:** ai (8), prompt (4), generic (3), [[ChatGPT]] (2)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -198,7 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), prompt (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
@@ -225,6 +225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[ChatGPT]] (4), ai (1), prompt (1), database (1)
 > **Analogies:** such as (1)
 
 #### Using AI in your organization
@@ -254,6 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), business (1), data (1), product (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -285,10 +287,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[ChatGPT]] (2), [[DALL-E]] (1), [[Midjourney]] (1)
 > **Env Vars:** dall (1), gpt (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** pass (1)
 
 #### Why AI is allowed to lie
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/why-ai-is-allowed-to-lie?u=76281980)
@@ -315,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), ai (2), data (2), next (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -356,8 +358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (4), [[Microsoft Products|Products]] (3), [[ChatGPT]] (2), business (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
@@ -387,6 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Customer Support]] (1), [[Engineering]] (1)
 > **Analogies:** just like (1), such as (1)
 
 

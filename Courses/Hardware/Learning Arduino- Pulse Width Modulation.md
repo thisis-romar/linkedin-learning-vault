@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Arduino-%20Pulse%20Width%20Modulation.md)
@@ -49,49 +49,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Welcome
-  - What you should know
-  - Using the exercise files
-  - Challenges
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Challenges](#challenges)
 - [**1. Introduction to Pulse-Width Modulation (PWM)**](#1-introduction-to-pulse-width-modulation-pwm) (5 videos)
-  - Exploring the fundamentals of PWM
-  - Using basic PWM output
-  - Faking PWM on a non-PWM pin
-  - Challenge: Matching PWM and non-PWM LED brightness
-  - Solution: Matching PWM and non-PWM LED brightness
+  - [Exploring the fundamentals of PWM](#exploring-the-fundamentals-of-pwm)
+  - [Using basic PWM output](#using-basic-pwm-output)
+  - [Faking PWM on a non-PWM pin](#faking-pwm-on-a-non-pwm-pin)
+  - [Challenge: Matching PWM and non-PWM LED brightness](#challenge-matching-pwm-and-non-pwm-led-brightness)
+  - [Solution: Matching PWM and non-PWM LED brightness](#solution-matching-pwm-and-non-pwm-led-brightness)
 - [**2. Using Analog Inputs to Drive PWM Output**](#2-using-analog-inputs-to-drive-pwm-output) (7 videos)
-  - Introducing various analog inputs
-  - Understanding the basics of analog input
-  - Finding logic bugs in your code
-  - Testing components with a multimeter
-  - Using the map function
-  - Challenge: Understanding the math behind the map function
-  - Solution: Understanding the math behind the map function
+  - [Introducing various analog inputs](#introducing-various-analog-inputs)
+  - [Understanding the basics of analog input](#understanding-the-basics-of-analog-input)
+  - [Finding logic bugs in your code](#finding-logic-bugs-in-your-code)
+  - [Testing components with a multimeter](#testing-components-with-a-multimeter)
+  - [Using the map function](#using-the-map-function)
+  - [Challenge: Understanding the math behind the map function](#challenge-understanding-the-math-behind-the-map-function)
+  - [Solution: Understanding the math behind the map function](#solution-understanding-the-math-behind-the-map-function)
 - [**3. LED and PWM**](#3-led-and-pwm) (8 videos)
-  - Fading an LED with PWM with code
-  - Calibrating an analog input to fade an LED precisely
-  - Challenge: Programming an LED that reacts to brightness
-  - Solution: Programming an LED that reacts to brightness
-  - Using an RGB LED
-  - Mixing colors on an RGB LED using three analog inputs
-  - Challenge: Fading through the rainbow with PWM
-  - Solution: Fading through the rainbow with PWM
+  - [Fading an LED with PWM with code](#fading-an-led-with-pwm-with-code)
+  - [Calibrating an analog input to fade an LED precisely](#calibrating-an-analog-input-to-fade-an-led-precisely)
+  - [Challenge: Programming an LED that reacts to brightness](#challenge-programming-an-led-that-reacts-to-brightness)
+  - [Solution: Programming an LED that reacts to brightness](#solution-programming-an-led-that-reacts-to-brightness)
+  - [Using an RGB LED](#using-an-rgb-led)
+  - [Mixing colors on an RGB LED using three analog inputs](#mixing-colors-on-an-rgb-led-using-three-analog-inputs)
+  - [Challenge: Fading through the rainbow with PWM](#challenge-fading-through-the-rainbow-with-pwm)
+  - [Solution: Fading through the rainbow with PWM](#solution-fading-through-the-rainbow-with-pwm)
 - [**4. Motor Control**](#4-motor-control) (9 videos)
-  - Comparing DC motors, servos, and stepper motors
-  - Implementing basic servo control
-  - Controlling a servo with an analog input
-  - Controlling a continuous rotation servo with an analog input
-  - Controlling DC motor speed with an analog input and transistor
-  - Diving deeper into H bridge control
-  - Controlling a DC motor with an H bridge
-  - Challenge: Controlling a DC motor with an H bridge and potentiometer
-  - Solution: Controlling a DC motor with an H bridge and potentiometer
+  - [Comparing DC motors, servos, and stepper motors](#comparing-dc-motors-servos-and-stepper-motors)
+  - [Implementing basic servo control](#implementing-basic-servo-control)
+  - [Controlling a servo with an analog input](#controlling-a-servo-with-an-analog-input)
+  - [Controlling a continuous rotation servo with an analog input](#controlling-a-continuous-rotation-servo-with-an-analog-input)
+  - [Controlling DC motor speed with an analog input and transistor](#controlling-dc-motor-speed-with-an-analog-input-and-transistor)
+  - [Diving deeper into H bridge control](#diving-deeper-into-h-bridge-control)
+  - [Controlling a DC motor with an H bridge](#controlling-a-dc-motor-with-an-h-bridge)
+  - [Challenge: Controlling a DC motor with an H bridge and potentiometer](#challenge-controlling-a-dc-motor-with-an-h-bridge-and-potentiometer)
+  - [Solution: Controlling a DC motor with an H bridge and potentiometer](#solution-controlling-a-dc-motor-with-an-h-bridge-and-potentiometer)
 - [**Next steps**](#next-steps) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980)
@@ -120,6 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2), [[Programming]] (1), power (1), [[React.js|React]] (1), [[Prototyping]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
@@ -147,6 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (5)
 > **Prerequisites:** you need to have (1), set up (1), you'll need (1)
 > **Speakers:** - before (1)
 
@@ -163,6 +165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** ide (1)
@@ -201,7 +204,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Pulse-Width Modulation (PWM)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the fundamentals of PWM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980)
@@ -266,8 +269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), power (2), [[Electronics]] (1), application (1)
 > **Env Vars:** led (6), pwm (5)
-> **Code Keywords:** switch (2), case, (1)
 > **Analogies:** similar to (3)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - pulse (1)
@@ -335,9 +338,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (6), next (4), data (1)
 > **Env Vars:** led (8), pwm (6), ide (1)
 > **Code Identifiers:** analogwrite (5), pinmode (1), digitalwrite (1)
-> **Code Keywords:** function (4)
 > **Definitions:** is a  (2)
 > **Versions:** 2.5 (1)
 > **Documentation:** the documentation (1)
@@ -403,8 +406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Arduino]] (1), next (1)
 > **Env Vars:** pwm (6), led (5), ide (1)
-> **Code Keywords:** function (3), finally, (1), let (1)
 > **Code Identifiers:** digitalwrite (2), analogwrite (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** toggle (1)
@@ -455,7 +458,6 @@ created: 2026-04-29
 > **Env Vars:** pwm (5), led (3)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** sample code (2), exercise files (1)
-> **Code Keywords:** match. (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - okay (1)
@@ -541,15 +543,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ide (3), led (1), pwm (1)
-> **Code Keywords:** let (1), case, (1)
 > **Exercise Files:** sample code (1)
 > **Definitions:** is an  (1)
 
 
 ### 2. Using Analog Inputs to Drive PWM Output
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing various analog inputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980)
@@ -656,7 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1)
+> **Frameworks & Libraries:** [[Arduino]] (5), parallel (2), data (1), power (1), hit (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - there (1)
@@ -738,7 +740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), default, (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Arduino]] (7), next (1), power (1)
 > **Env Vars:** ide (2), pwm (1), usb (1)
 > **UI Navigation:** open the (1), click on (1)
 > **Definitions:** is called (1)
@@ -820,9 +822,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (4), [[Programming]] (1)
 > **Env Vars:** led (2), ide (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Versions:** 0.0 (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - consider (1)
@@ -912,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), require (1)
+> **Frameworks & Libraries:** [[Arduino]] (2), next (1), [[Soldering]] (1), power (1), data (1)
 > **Env Vars:** led (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** just like (1)
@@ -1001,8 +1003,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2), next (2)
 > **Code Identifiers:** sensorvalue (6), outputvalue (4), analogwrite (3), analogread (1)
-> **Code Keywords:** function (6), let (2), finally, (1)
 > **Env Vars:** led (6), ide (1)
 > **Versions:** 4.2 (2), 2.1 (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1035,9 +1037,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** analoginput (1), analogwrite (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - get (1)
 
 #### Solution: Understanding the math behind the map function
@@ -1077,15 +1079,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2), next (2)
 > **Versions:** 1.66 (1), 5.1 (1), 5.66 (1), 15.3 (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - how (1)
 
 
 ### 3. LED and PWM
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fading an LED with PWM with code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/fading-an-led-with-pwm-with-code?u=76281980)
@@ -1166,8 +1168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (7), next (1)
 > **Env Vars:** led (10)
-> **Code Keywords:** function (2), case, (1), continue (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [voiceover] (1)
 
@@ -1248,8 +1250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (6), [[Hardware]] (1), next (1)
 > **Env Vars:** led (12), ide (1), pwm (1)
-> **Code Keywords:** function (9), let (1), this, (1), super (1), throw (1)
 > **Code Identifiers:** sensorvalue (2), outputvalue (2), sensormax (1), sensormin (1)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** make (1)
@@ -1288,6 +1290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** led (1), ide (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** analoginput (1)
@@ -1354,9 +1357,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Arduino]] (2)
 > **Env Vars:** led (3)
 > **Definitions:** is called (3)
-> **Code Keywords:** let (1), function (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - all (1)
 
@@ -1439,9 +1442,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), next (2), power (1)
 > **Env Vars:** led (14), rgb (8), pwm (2), ide (1)
 > **Definitions:** is a  (3), stands for (1), is called (1)
-> **Code Keywords:** function (3), finally, (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - color (1)
 
@@ -1488,9 +1491,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Arduino]] (1)
 > **Env Vars:** led (6), ide (1)
 > **UI Navigation:** scroll down (1), open the (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - let (1)
 
 #### Challenge: Fading through the rainbow with PWM
@@ -1516,7 +1519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** [[Arduino]] (1), [[Programming]] (1)
 > **Env Vars:** led (1)
 > **Cross-References:** in the last (1)
 
@@ -1579,7 +1582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), continue (1)
+> **Frameworks & Libraries:** next (4), [[Arduino]] (2)
 > **Env Vars:** led (3)
 > **Code Identifiers:** rgbcolor (1)
 > **UI Navigation:** open the (1)
@@ -1589,7 +1592,7 @@ created: 2026-04-29
 
 ### 4. Motor Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing DC motors, servos, and stepper motors
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/comparing-dc-motors-servos-and-stepper-motors?u=76281980)
@@ -1656,8 +1659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), [[Arduino]] (3), generic (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** require (1), function (1)
 > **Env Vars:** pwn (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - when (1)
@@ -1705,8 +1708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** ide (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - controlling (1)
@@ -1742,8 +1745,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - with (1)
 > **Non-Speech:** (servo makes buzzing sound) (1)
@@ -1795,6 +1798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** ide (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
@@ -1871,8 +1875,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (11), [[Arduino]] (7), next (1)
 > **CLI Commands:** make (2), rails (1)
-> **Code Keywords:** require (1), function (1)
 > **Env Vars:** ide (1), led (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** setup (1)
@@ -1959,10 +1963,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), application (1), next (1), [[Arduino]] (1)
 > **Env Vars:** input (6), enable (4), pwm (3), output (3), l293d (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Speakers:** - in (1)
 
 #### Controlling a DC motor with an H bridge
@@ -2022,8 +2026,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (4), power (3)
 > **Tools:** terminal (2)
-> **Code Keywords:** super (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - adding (1)
 
@@ -2052,7 +2056,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
 > **Speakers:** - alright (1)
 
 #### Solution: Controlling a DC motor with an H bridge and potentiometer
@@ -2108,8 +2111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Arduino]] (1)
 > **Code Identifiers:** pinread (10), analogwrite (1)
-> **Code Keywords:** let (1), function (1), finally, (1)
 > **Prerequisites:** setup (2)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - did (1)
@@ -2117,7 +2120,7 @@ created: 2026-04-29
 
 ### Next steps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/conclusion?u=76281980)
@@ -2146,6 +2149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), power (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - there (1)
 

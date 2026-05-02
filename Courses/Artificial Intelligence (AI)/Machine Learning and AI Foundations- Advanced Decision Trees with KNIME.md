@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Advanced%20Decision%20Trees%20with%20KNIME.md)
@@ -53,40 +53,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Advanced decision trees
-  - What you should know
-  - Using the exercise files
+  - [Advanced decision trees](#advanced-decision-trees)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Exploring the Many Decision Tree Algorithms**](#1-exploring-the-many-decision-tree-algorithms) (3 videos)
-  - Why are trees considered greedy algorithms?
-  - Why are there so many algorithms?
-  - Five low node or no code options in KNIME
+  - [Why are trees considered greedy algorithms?](#why-are-trees-considered-greedy-algorithms)
+  - [Why are there so many algorithms?](#why-are-there-so-many-algorithms)
+  - [Five low node or no code options in KNIME](#five-low-node-or-no-code-options-in-knime)
 - [**2. Using Extensions**](#2-using-extensions) (3 videos)
-  - Installing extensions
-  - WEKA LMT demonstration
-  - Interpreting the LMT results
+  - [Installing extensions](#installing-extensions)
+  - [WEKA LMT demonstration](#weka-lmt-demonstration)
+  - [Interpreting the LMT results](#interpreting-the-lmt-results)
 - [**3. What Is Rule Induction?**](#3-what-is-rule-induction) (3 videos)
-  - Comparing trees and rule induction
-  - Rule induction demo
-  - Interpreting the rules
+  - [Comparing trees and rule induction](#comparing-trees-and-rule-induction)
+  - [Rule induction demo](#rule-induction-demo)
+  - [Interpreting the rules](#interpreting-the-rules)
 - [**4. Low Code Python Options in KNIME**](#4-low-code-python-options-in-knime) (4 videos)
-  - Low code options in KNIME
-  - Python script node demo
-  - CHAID demo in KNIME
-  - Advanced code options in KNIME (optimal sparse trees)
+  - [Low code options in KNIME](#low-code-options-in-knime)
+  - [Python script node demo](#python-script-node-demo)
+  - [CHAID demo in KNIME](#chaid-demo-in-knime)
+  - [Advanced code options in KNIME (optimal sparse trees)](#advanced-code-options-in-knime-optimal-sparse-trees)
 - [**5. Ensembles and Random Forests**](#5-ensembles-and-random-forests) (3 videos)
-  - Introducing random forest
-  - Random forests demo
-  - Comparing two models
+  - [Introducing random forest](#introducing-random-forest)
+  - [Random forests demo](#random-forests-demo)
+  - [Comparing two models](#comparing-two-models)
 - [**6. Advanced Tips and Tricks**](#6-advanced-tips-and-tricks) (3 videos)
-  - Data reduction with random forests
-  - The XAI view node
-  - Deployment
+  - [Data reduction with random forests](#data-reduction-with-random-forests)
+  - [The XAI view node](#the-xai-view-node)
+  - [Deployment](#deployment)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Final thoughts and recommendations
+  - [Final thoughts and recommendations](#final-thoughts-and-recommendations)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced decision trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980)
@@ -109,8 +109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (6), [[Algorithms]] (3), [[Decision Trees]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** knime (6)
-> **Code Keywords:** continue (1), let (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [keith] (1)
@@ -136,10 +136,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (2), [[Decision Trees]] (1), node (1), [[Algorithms]] (1)
 > **Env Vars:** knime (2), cart (1)
 > **Cross-References:** we covered (2)
 > **CLI Commands:** node (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using the exercise files
@@ -181,14 +181,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), node (2), [[Analytics]] (1), next (1)
 > **CLI Commands:** make (2), node (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Exploring the Many Decision Tree Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why are trees considered greedy algorithms?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980)
@@ -245,6 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Decision Trees]] (1)
 > **Analogies:** picture (2), for instance (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we discussed (2)
@@ -282,8 +283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (5), node (2), [[Search]] (1), data (1), [[Logistic Regression]] (1)
 > **CLI Commands:** node (2), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** shade (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -353,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), node (3), next (3), [[Algorithms]] (2), feature (2)
 > **CLI Commands:** python (6), node (3), find (2)
-> **Code Keywords:** this. (3), require (1), finally, (1), self (1)
 > **Definitions:** is called (1), is a  (1)
 > **Prerequisites:** install (2)
 > **Cross-References:** in the last (1)
@@ -365,7 +366,7 @@ created: 2026-04-29
 
 ### 2. Using Extensions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/installing-extensions?u=76281980)
@@ -418,6 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (7), node (4), [[Search]] (1), next (1)
 > **CLI Commands:** node (4), find (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -521,6 +523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (6), data (5), next (4), node (4), [[Windows]] (1)
 > **CLI Commands:** node (4), find (3), make (2)
 > **UI Navigation:** click on (4), go to (2)
 > **Env Vars:** lmt (3)
@@ -528,7 +531,6 @@ created: 2026-04-29
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), similar to (1)
 > **Versions:** 0.42 (1)
-> **Prerequisites:** configure (1)
 
 #### Interpreting the LMT results
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980)
@@ -587,8 +589,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (4), [[Linear Regression]] (3), [[Logistic Regression]] (2), node (2), data (1)
 > **CLI Commands:** make (3), find (2), node (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** lmt (2)
 > **Versions:** 1.0 (1)
 > **Cross-References:** coming up (1)
@@ -599,7 +601,7 @@ created: 2026-04-29
 
 ### 3. What Is Rule Induction?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing trees and rule induction
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-trees-and-rule-induction?u=76281980)
@@ -672,8 +674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision Trees]] (3), node (3), data (2), [[Search]] (1), next (1)
 > **CLI Commands:** node (3), make (2), find (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -724,8 +726,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), data (4), next (1)
 > **CLI Commands:** node (5)
-> **Code Keywords:** let (2)
 > **Env Vars:** adv (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -804,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), if. (1)
+> **Frameworks & Libraries:** data (1), [[Decision Trees]] (1)
 > **Versions:** 21.25 (2), 29.67 (1), 70.5 (1), 23.75 (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2)
@@ -814,7 +816,7 @@ created: 2026-04-29
 
 ### 4. Low Code Python Options in KNIME
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Low code options in KNIME
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980)
@@ -917,9 +919,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[Knime]] (15), node (12), [[Java]] (4), next (1)
 > **CLI Commands:** python (19), node (12), make (1)
 > **Env Vars:** knime (15)
-> **Code Keywords:** this. (3), finally, (3), require (2), let (2), interface (1)
 > **Versions:** version 4 (3), 4.6 (2)
 > **Prerequisites:** install (3), setup (2)
 > **UI Navigation:** scroll down (3)
@@ -1013,8 +1015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (16), node (11), [[Knime]] (6), data (2), [[Probability]] (2)
 > **CLI Commands:** python (16), node (11), make (1), find (1)
-> **Code Keywords:** let (3), this. (1), this, (1), require (1), finally, (1)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
 > **Prerequisites:** configure (1), install (1), set up (1)
 > **Code Identifiers:** knime_io (2)
@@ -1185,10 +1187,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (17), [[Python (Programming Language)|Python]] (4), [[Algorithms]] (3), [[Knime]] (3), data (2)
 > **Env Vars:** chaid (22), cart (13), pypi (1), aid (1), py3 (1)
 > **CLI Commands:** node (17), python (4), find (2), make (2)
 > **UI Navigation:** click on (4), go to (1), open the (1)
-> **Code Keywords:** let (3), while. (1), this. (1)
 > **Definitions:** in other words (2), is a  (2), is an  (1)
 > **Cross-References:** we talked about (2)
 > **Versions:** 0.05 (1)
@@ -1231,8 +1233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Decision Trees]] (4), node (3), [[Algorithms]] (2), [[Programming]] (1)
 > **CLI Commands:** python (4), find (3), node (3)
-> **Code Keywords:** this. (2), abstract (1), continue (1)
 > **Env Vars:** lmt (1), weca (1)
 > **Analogies:** imagine (1), just like (1)
 > **Tools:** github (1)
@@ -1242,7 +1244,7 @@ created: 2026-04-29
 
 ### 5. Ensembles and Random Forests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing random forest
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/introducing-random-forest?u=76281980)
@@ -1301,6 +1303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), node (2), data (1)
 > **CLI Commands:** node (2), make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1441,8 +1444,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), data (3), power (1)
 > **CLI Commands:** node (5), make (1)
-> **Code Keywords:** let (5)
 > **UI Navigation:** click on (2), scroll down (1), toggle (1), go to (1)
 > **Env Vars:** cart (3)
 > **Cross-References:** go back to (2)
@@ -1565,7 +1568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), this. (1), default. (1)
+> **Frameworks & Libraries:** [[Probability]] (7), node (2), data (2), power (1), [[Knime]] (1)
 > **Versions:** 0.5 (2), 0.9 (2), 0.899 (2)
 > **CLI Commands:** make (3), node (2)
 > **UI Navigation:** click on (3)
@@ -1577,7 +1580,7 @@ created: 2026-04-29
 
 ### 6. Advanced Tips and Tricks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data reduction with random forests
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980)
@@ -1690,7 +1693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), continue (1), pass (1)
+> **Frameworks & Libraries:** data (6), node (3), [[Algorithms]] (3), [[Windows]] (1), [[Statistics]] (1)
 > **CLI Commands:** node (3), make (2)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1830,8 +1833,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), [[Knime]] (2), feature (2), data (1)
 > **CLI Commands:** node (9), find (1), make (1)
-> **Code Keywords:** let (4), this. (1), this, (1)
 > **UI Navigation:** right-click (2), open the (1), go to (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Cross-References:** go back to (2), coming up (1)
@@ -1888,8 +1891,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (10), data (7), [[SQL]] (3), [[Predictive Modeling]] (2), node (2)
 > **Env Vars:** pmml (11), knime (10), sql (3), pml (2), html (1)
-> **Code Keywords:** let (5), pass (1)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for instance (1)
@@ -1898,7 +1901,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts and recommendations
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980)
@@ -1931,8 +1934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Databases]] (1), concurrent (1), [[Search]] (1), next (1)
 > **Env Vars:** kdd (3), xai (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [keith] (1)
 

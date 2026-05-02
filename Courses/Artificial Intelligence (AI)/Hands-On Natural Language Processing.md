@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20Natural%20Language%20Processing.md)
@@ -50,34 +50,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Gain insights from unstructured text data
-  - What you should know
-  - Exercise files
+  - [Gain insights from unstructured text data](#gain-insights-from-unstructured-text-data)
+  - [What you should know](#what-you-should-know)
+  - [Exercise files](#exercise-files)
 - [**1. Named Entity Recognition (NER)**](#1-named-entity-recognition-ner) (4 videos)
-  - What is named entity recognition (NER)?
-  - NER with spaCy
-  - Data preprocessing for custom NER
-  - Custom model training with spaCy
+  - [What is named entity recognition (NER)?](#what-is-named-entity-recognition-ner)
+  - [NER with spaCy](#ner-with-spacy)
+  - [Data preprocessing for custom NER](#data-preprocessing-for-custom-ner)
+  - [Custom model training with spaCy](#custom-model-training-with-spacy)
 - [**2. Topic Modeling**](#2-topic-modeling) (5 videos)
-  - Introduction to topic modeling
-  - Data preprocessing for topic modeling
-  - Topic modeling with Gensim
-  - Topic modeling visualization with pyLDAvis
-  - Model evaluation for topic modeling
+  - [Introduction to topic modeling](#introduction-to-topic-modeling)
+  - [Data preprocessing for topic modeling](#data-preprocessing-for-topic-modeling)
+  - [Topic modeling with Gensim](#topic-modeling-with-gensim)
+  - [Topic modeling visualization with pyLDAvis](#topic-modeling-visualization-with-pyldavis)
+  - [Model evaluation for topic modeling](#model-evaluation-for-topic-modeling)
 - [**3. Text Summarization**](#3-text-summarization) (3 videos)
-  - What is text summarization?
-  - Text extraction for summarization
-  - Text summarization with sumy
+  - [What is text summarization?](#what-is-text-summarization)
+  - [Text extraction for summarization](#text-extraction-for-summarization)
+  - [Text summarization with sumy](#text-summarization-with-sumy)
 - [**4. Sentiment Analysis**](#4-sentiment-analysis) (3 videos)
-  - What is sentiment analysis?
-  - Sentiment analysis with VADER
-  - Sentiment analysis with transformers
+  - [What is sentiment analysis?](#what-is-sentiment-analysis)
+  - [Sentiment analysis with VADER](#sentiment-analysis-with-vader)
+  - [Sentiment analysis with transformers](#sentiment-analysis-with-transformers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gain insights from unstructured text data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980)
@@ -98,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Natural Language Processing (NLP)|Natural language processing]] (3), business (1), [[Unstructured Data]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -112,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -142,7 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **UI Navigation:** click on (2), select the (1)
 > **Tools:** colab (2)
 > **CLI Commands:** pip (1)
@@ -153,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Named Entity Recognition (NER)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is named entity recognition (NER)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980)
@@ -198,6 +200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[spaCy]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** spacy (2), scispacy (1), flairnlp (1)
 > **Env Vars:** ner (2)
 > **Analogies:** for example (1), such as (1)
@@ -248,9 +251,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ner (6), orj (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** case. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
@@ -310,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), type, (1)
+> **Frameworks & Libraries:** data (10), [[spaCy]] (2), [[LinkedIn]] (1), next (1), nlp (1)
 > **Env Vars:** nlp (1), csv (1)
 > **CLI Commands:** pip (1)
 > **Definitions:** is a  (1)
@@ -390,9 +393,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[spaCy]] (13), [[Pandas (Software)|Pandas]] (1), nlp (1), [[LinkedIn]] (1)
 > **Code Identifiers:** spacy (13), literal_eval (1), train_data (1), test_data (1), test_nlp (1)
 > **Env Vars:** ner (4)
-> **Code Keywords:** let (2)
 > **CLI Commands:** pip (1)
 > **Versions:** 3.2.3 (1)
 > **UI Navigation:** open the (1)
@@ -402,7 +405,7 @@ created: 2026-04-29
 
 ### 2. Topic Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to topic modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980)
@@ -447,11 +450,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (3), application (2), [[Linear Algebra]] (1), product (1)
 > **Env Vars:** lsa (2), lda (2), svd (1)
 > **Definitions:** in other words (2), is an  (1), is a  (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** for, (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - topic (1)
 
@@ -536,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), finally, (1)
+> **Frameworks & Libraries:** data (29), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[Fetch]] (1), strengths (1)
 > **Env Vars:** idf (4), uci (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
@@ -598,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (2), case, (1)
+> **Frameworks & Libraries:** data (11), [[Algorithms]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2), application (1)
 > **Env Vars:** lda (4), lsa (1), nasa (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** python (2)
@@ -657,10 +660,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (2), prompt (1), application (1)
 > **Env Vars:** lda (3), avi (1), pip (1), idf (1), tfidf (1)
 > **Code Identifiers:** pyldavis (3), vis_bov (1), vistfidf (1)
 > **CLI Commands:** python (2), make (1), pip (1)
-> **Code Keywords:** lambda (3), let (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** install (2)
@@ -701,16 +704,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (3), [[Analytics]] (1)
 > **Env Vars:** lda (2), lsi (1), idf (1)
 > **Versions:** 2.61 (1), 4.87 (1), 0.50 (1), 0.45 (1)
 > **Code Identifiers:** u_mass (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - model (1)
 
 
 ### 3. Text Summarization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is text summarization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-text-summarization?u=76281980)
@@ -755,9 +758,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** abstract (1)
 > **Env Vars:** rouge (1)
 > **Speakers:** - [narrator] (1)
 
@@ -820,8 +823,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1), [[Algorithms]] (1), next (1)
 > **Env Vars:** lsa (3), url (2)
-> **Code Keywords:** let (3), pass (1)
 > **Code Identifiers:** sample_text (2), html_parser (1)
 > **CLI Commands:** python (1), pip (1)
 > **Warnings:** note that (1)
@@ -865,7 +868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), private (1)
+> **Frameworks & Libraries:** data (2), [[Hugging Face|Huggingface]] (1), [[LinkedIn]] (1), [[Transformer Models]] (1)
 > **CLI Commands:** pip (1)
 > **Env Vars:** pip (1)
 > **Cross-References:** previous video (1)
@@ -876,7 +879,7 @@ created: 2026-04-29
 
 ### 4. Sentiment Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is sentiment analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980)
@@ -933,6 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Hugging Face]] (1), [[spaCy]] (1)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2)
@@ -974,10 +978,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** vader (6), uci (1)
 > **CLI Commands:** unzip (2), python (1), wget (1)
 > **Versions:** 0.05 (4)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** sentiment (1), vader_sentiment_score (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1030,8 +1034,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (1), [[Transformer Models]] (1)
 > **CLI Commands:** find (1), python (1), make (1)
-> **Code Keywords:** self (1), let (1), case, (1)
 > **Prerequisites:** install (2)
 > **Versions:** 0.99 (1)
 > **Definitions:** is a  (1)
@@ -1041,7 +1045,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980)
@@ -1060,6 +1064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), [[LinkedIn]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 

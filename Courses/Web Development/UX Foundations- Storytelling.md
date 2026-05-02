@@ -28,7 +28,7 @@ tags:
   - skill/storytelling
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Foundations-%20Storytelling.md)
@@ -47,31 +47,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The business of story
+  - [The business of story](#the-business-of-story)
 - [**1. Strategic Story Planning**](#1-strategic-story-planning) (7 videos)
-  - Choose the right story
-  - Defining the story arc
-  - Set the stage
-  - Action sequence
-  - End the story right
-  - Be the guide, not the hero
-  - Clarify your message
+  - [Choose the right story](#choose-the-right-story)
+  - [Defining the story arc](#defining-the-story-arc)
+  - [Set the stage](#set-the-stage)
+  - [Action sequence](#action-sequence)
+  - [End the story right](#end-the-story-right)
+  - [Be the guide, not the hero](#be-the-guide-not-the-hero)
+  - [Clarify your message](#clarify-your-message)
 - [**2. Role of Empathy in Storytelling**](#2-role-of-empathy-in-storytelling) (3 videos)
-  - Embrace emotion to empathize with customers
-  - Authentic, relatable stories
-  - Brain science: Why we buy
+  - [Embrace emotion to empathize with customers](#embrace-emotion-to-empathize-with-customers)
+  - [Authentic, relatable stories](#authentic-relatable-stories)
+  - [Brain science: Why we buy](#brain-science-why-we-buy)
 - [**3. Boosting Sales with Consistent, Targeted Story**](#3-boosting-sales-with-consistent-targeted-story) (5 videos)
-  - Your signature story
-  - Where to tell your story: Evaluating possible platforms
-  - Perspective matters: The angle you choose
-  - From storytelling to story-selling: Monetizing your stories
-  - Visual storytelling: The power of pictures
+  - [Your signature story](#your-signature-story)
+  - [Where to tell your story: Evaluating possible platforms](#where-to-tell-your-story-evaluating-possible-platforms)
+  - [Perspective matters: The angle you choose](#perspective-matters-the-angle-you-choose)
+  - [From storytelling to story-selling: Monetizing your stories](#from-storytelling-to-story-selling-monetizing-your-stories)
+  - [Visual storytelling: The power of pictures](#visual-storytelling-the-power-of-pictures)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The business of story
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/the-business-of-story-21039234?u=76281980)
@@ -92,13 +92,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - our (1)
 
 
 ### 1. Strategic Story Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose the right story
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980)
@@ -171,7 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (2), else. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), management (2), [[Climate Change]] (1), business (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** b2b (1)
 > **Definitions:** means that (1)
@@ -265,8 +266,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), business (1)
 > **Prerequisites:** setup (3), set up (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is called (2)
 > **Env Vars:** irs (1)
 > **Exercise Files:** template (1)
@@ -366,6 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), business (1), traffic (1)
 > **Analogies:** kind of like (1), picture (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - i (1)
@@ -463,8 +465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Market Research]] (1), next (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (2), case, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - here (1)
@@ -516,6 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - years (1)
@@ -637,7 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** product (9), business (2)
 > **CLI Commands:** make (2)
 > **URLs:** [squarespace.com](https://squarespace.com) (1)
 > **UI Navigation:** go to (1)
@@ -739,8 +742,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), business (3), product (3), next (3), management (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), else. (1), for, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - every (1)
@@ -748,7 +751,7 @@ created: 2026-04-29
 
 ### 2. Role of Empathy in Storytelling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace emotion to empathize with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/embrace-emotion-to-empathize-with-customers-24080442?u=76281980)
@@ -827,6 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (2)
 > **CLI Commands:** make (3)
 > **Speakers:** - here (1)
 
@@ -895,7 +899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Market Research]] (1), [[Storytelling]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - motivational (1)
@@ -981,7 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), new. (1)
+> **Frameworks & Libraries:** product (3), [[Storytelling]] (1), [[Microsoft Products|Products]] (1), business (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - consider (1)
@@ -989,7 +993,7 @@ created: 2026-04-29
 
 ### 3. Boosting Sales with Consistent, Targeted Story
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your signature story
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/your-signature-story-21043251?u=76281980)
@@ -1074,7 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), for. (1), finally, (1), abstract (1)
+> **Frameworks & Libraries:** product (3), next (2), business (2), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** stands for (1)
@@ -1133,6 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Email Marketing]] (1), [[Storytelling]] (1), power (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** crm (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1221,7 +1226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), from, (1), switch (1)
+> **Frameworks & Libraries:** product (2), [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Warnings:** warning (1)
@@ -1302,8 +1307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (2), next (2), product (1), [[Storytelling]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** for, (1), let (1), this. (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
@@ -1404,8 +1409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Storytelling]] (1), management (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (11), find (1)
-> **Code Keywords:** for. (1), for, (1), finally, (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - how (1)
@@ -1413,7 +1418,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980)
@@ -1448,9 +1453,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Storytelling]] (1), [[LinkedIn]] (1), [[Market Research]] (1), data (1), hit (1)
 > **Env Vars:** dna (1), pdf (1)
 > **Exercise Files:** download the (1), template (1)
-> **Code Keywords:** else. (1)
 > **URLs:** [sarahweise.com](https://sarahweise.com) (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)

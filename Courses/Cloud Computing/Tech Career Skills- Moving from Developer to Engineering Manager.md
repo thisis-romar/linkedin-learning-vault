@@ -38,7 +38,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Moving%20from%20Developer%20to%20Engineering%20Manager.md)
@@ -57,35 +57,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Moving to management
+  - [Moving to management](#moving-to-management)
 - [**1. Fundamentals of Management**](#1-fundamentals-of-management) (5 videos)
-  - What do managers do?
-  - Skills and attributes you need as a manager
-  - Holding one-on-one meetings
-  - Agendas, note taking, and documentation
-  - Reviews and assessments
+  - [What do managers do?](#what-do-managers-do)
+  - [Skills and attributes you need as a manager](#skills-and-attributes-you-need-as-a-manager)
+  - [Holding one-on-one meetings](#holding-one-on-one-meetings)
+  - [Agendas, note taking, and documentation](#agendas-note-taking-and-documentation)
+  - [Reviews and assessments](#reviews-and-assessments)
 - [**2. Letting Go of the Keyboard**](#2-letting-go-of-the-keyboard) (6 videos)
-  - Shifting your mindset from coding to coaching
-  - Approach technical problems as a manager
-  - Managing junior developers
-  - Managing senior developers
-  - Assess tech skills outside your expertise
-  - Cross-team collaboration
+  - [Shifting your mindset from coding to coaching](#shifting-your-mindset-from-coding-to-coaching)
+  - [Approach technical problems as a manager](#approach-technical-problems-as-a-manager)
+  - [Managing junior developers](#managing-junior-developers)
+  - [Managing senior developers](#managing-senior-developers)
+  - [Assess tech skills outside your expertise](#assess-tech-skills-outside-your-expertise)
+  - [Cross-team collaboration](#cross-team-collaboration)
 - [**3. Managers as Advocates**](#3-managers-as-advocates) (4 videos)
-  - Mentoring as an engineering manager
-  - Advocating for your direct reports
-  - Ethical considerations in management
-  - Having difficult conversations
+  - [Mentoring as an engineering manager](#mentoring-as-an-engineering-manager)
+  - [Advocating for your direct reports](#advocating-for-your-direct-reports)
+  - [Ethical considerations in management](#ethical-considerations-in-management)
+  - [Having difficult conversations](#having-difficult-conversations)
 - [**4. Growing Management and Technical Skills**](#4-growing-management-and-technical-skills) (3 videos)
-  - Maintain and expand your technical skills
-  - Growing your management skills
-  - Setting goals with your team
+  - [Maintain and expand your technical skills](#maintain-and-expand-your-technical-skills)
+  - [Growing your management skills](#growing-your-management-skills)
+  - [Setting goals with your team](#setting-goals-with-your-team)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Tailoring your management journey
+  - [Tailoring your management journey](#tailoring-your-management-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving to management
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980)
@@ -128,7 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** management (9), career (1), [[Microsoft Products|Products]] (1), [[Ethics]] (1), [[Engineering]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - hello (1)
@@ -136,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What do managers do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/what-do-managers-do?u=76281980)
@@ -187,7 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), abstract (1), for. (1), raise (1)
+> **Frameworks & Libraries:** teams (2), [[Engineering]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - let (1)
 
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), for, (1), abstract (1), match. (1)
+> **Frameworks & Libraries:** [[Engineering]] (3), business (2), career (2), management (2), teams (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Speakers:** - you (1)
@@ -380,8 +380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), next (1), teams (1)
 > **Speakers:** - one (1), - we (1), - great (1), - and (1), - oh (1)
-> **Code Keywords:** let (2), this. (1), private (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
@@ -433,7 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), raise (1)
+> **Frameworks & Libraries:** management (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - we (1)
@@ -508,13 +508,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - review (1)
 
 
 ### 2. Letting Go of the Keyboard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shifting your mindset from coding to coaching
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/shifting-your-mindset-from-coding-to-coaching?u=76281980)
@@ -559,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), this, (1), self (1)
+> **Frameworks & Libraries:** management (2), [[Engineering]] (1), [[Microsoft Products|Products]] (1), [[Programming]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
@@ -617,8 +616,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), continue (1)
 > **Speakers:** - when (1)
 
 #### Managing junior developers
@@ -740,8 +739,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), bi (1)
 > **Speakers:** - i (5), - good (4), - yeah (3), - but (2), - and (2)
-> **Code Keywords:** let (2), this. (1), extends (1)
 > **Env Vars:** api (3)
 > **Documentation:** the documentation (3)
 > **CLI Commands:** make (1)
@@ -836,8 +835,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[People Management]] (1), career (1), strengths (1), feature (1), parallel (1)
 > **Speakers:** - so (2), - sure (2), - we (1), - yes (1), - well (1)
-> **Code Keywords:** let (2), this. (2)
 > **Env Vars:** soap (1), cto (1)
 > **Documentation:** the documentation (1)
 
@@ -939,6 +938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (15), leadership (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - we (1)
@@ -946,7 +946,7 @@ created: 2026-04-29
 
 ### 3. Managers as Advocates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mentoring as an engineering manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/mentoring-as-an-engineering-manager?u=76281980)
@@ -995,6 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Soft Skills]] (1), [[People Management]] (1)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
@@ -1045,7 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), raise (1)
+> **Frameworks & Libraries:** power (2), management (1), leadership (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
@@ -1112,6 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethics]] (4), management (3), [[React.js|React]] (2), business (1)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -1164,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), this. (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is a  (1)
@@ -1174,7 +1176,7 @@ created: 2026-04-29
 
 ### 4. Growing Management and Technical Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintain and expand your technical skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/maintain-and-expand-your-technical-skills?u=76281980)
@@ -1237,8 +1239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), business (1), next (1), open-source (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - moving (1)
@@ -1290,8 +1292,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), next (2), career (1), [[Ethics]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** continue (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - we (1)
 
@@ -1362,8 +1364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), product (2), [[LinkedIn]] (1), leadership (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Analogies:** picture (1), for example (1)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is a  (1)
@@ -1372,7 +1374,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tailoring your management journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/tailoring-your-management-journey?u=76281980)
@@ -1413,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this, (1), try, (1)
+> **Frameworks & Libraries:** management (3), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)

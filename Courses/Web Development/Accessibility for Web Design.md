@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessibility%20for%20Web%20Design.md)
@@ -40,48 +40,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Making the digital world accessible
+  - [Making the digital world accessible](#making-the-digital-world-accessible)
 - [**1. Real-World Scenarios**](#1-real-world-scenarios) (2 videos)
-  - An ecommerce purchase
-  - Personas
+  - [An ecommerce purchase](#an-ecommerce-purchase)
+  - [Personas](#personas)
 - [**2. Accessible Visual Design**](#2-accessible-visual-design) (5 videos)
-  - The use of color
-  - Color contrast
-  - Animation, movement, and flashing
-  - Proximity and grouping in design
-  - Effective visual focus indicators
+  - [The use of color](#the-use-of-color)
+  - [Color contrast](#color-contrast)
+  - [Animation, movement, and flashing](#animation-movement-and-flashing)
+  - [Proximity and grouping in design](#proximity-and-grouping-in-design)
+  - [Effective visual focus indicators](#effective-visual-focus-indicators)
 - [**3. Keyboard Interaction**](#3-keyboard-interaction) (3 videos)
-  - Keyboard functionality
-  - Avoiding keyboard traps
-  - Linear flow of content
+  - [Keyboard functionality](#keyboard-functionality)
+  - [Avoiding keyboard traps](#avoiding-keyboard-traps)
+  - [Linear flow of content](#linear-flow-of-content)
 - [**4. Touch Interfaces**](#4-touch-interfaces) (3 videos)
-  - Accessibility and touch
-  - Target sizes
-  - Working with gestures
+  - [Accessibility and touch](#accessibility-and-touch)
+  - [Target sizes](#target-sizes)
+  - [Working with gestures](#working-with-gestures)
 - [**5. Images and Multimedia Accessibility**](#5-images-and-multimedia-accessibility) (4 videos)
-  - Working with audio and video
-  - Understanding media types
-  - The importance of text equivalents
-  - Accessibility for complex visuals
+  - [Working with audio and video](#working-with-audio-and-video)
+  - [Understanding media types](#understanding-media-types)
+  - [The importance of text equivalents](#the-importance-of-text-equivalents)
+  - [Accessibility for complex visuals](#accessibility-for-complex-visuals)
 - [**6. Form Accessibility**](#6-form-accessibility) (4 videos)
-  - Labeling forms
-  - The placeholder attribute
-  - HTML5 form inputs
-  - Form validation and error messaging
+  - [Labeling forms](#labeling-forms)
+  - [The placeholder attribute](#the-placeholder-attribute)
+  - [HTML5 form inputs](#html5-form-inputs)
+  - [Form validation and error messaging](#form-validation-and-error-messaging)
 - [**7. Flexibility and Accessibility**](#7-flexibility-and-accessibility) (3 videos)
-  - Flexible vs. fixed width designs
-  - Responsive design and accessibility
-  - Designing for text resizing
+  - [Flexible vs. fixed width designs](#flexible-vs-fixed-width-designs)
+  - [Responsive design and accessibility](#responsive-design-and-accessibility)
+  - [Designing for text resizing](#designing-for-text-resizing)
 - [**8. Structured Content**](#8-structured-content) (3 videos)
-  - Content hierarchy and headings
-  - The importance of page titles
-  - Page structure
+  - [Content hierarchy and headings](#content-hierarchy-and-headings)
+  - [The importance of page titles](#the-importance-of-page-titles)
+  - [Page structure](#page-structure)
 - [**Conclusion**](#conclusion) (1 videos)
-  - A challenge for you
+  - [A challenge for you](#a-challenge-for-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making the digital world accessible
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980)
@@ -118,14 +118,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), career (2), [[Usability Testing]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - 14 (1)
 
 
 ### 1. Real-World Scenarios
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An ecommerce purchase
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980)
@@ -224,9 +224,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** select the (1), go to (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
@@ -345,16 +345,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (3), next (2)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** asd (1)
 > **Speakers:** - when (1)
 
 
 ### 2. Accessible Visual Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The use of color
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980)
@@ -491,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), product (1), [[Accessible Design]] (1), data (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (3)
 > **Versions:** 4.5 (1)
 > **Definitions:** means that (1)
 > **Speakers:** - for (1)
@@ -566,7 +566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2)
+> **Frameworks & Libraries:** web (1), [[Metadata]] (1), [[Design Systems]] (1)
 > **Versions:** 4.5 (2), version 2 (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** the key is (1), remember to (1)
@@ -664,8 +664,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), functional (1), power (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** interface (1), finally, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** ios (1)
 > **URLs:** [icloud.com](https://icloud.com) (1)
@@ -780,8 +780,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** means that (2), is a  (2), is an  (1)
-> **Code Keywords:** let (3), interface (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), in the sidebar (1)
 > **Analogies:** just like (1), similar to (1)
@@ -872,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1), for : (1), interface (1)
+> **Frameworks & Libraries:** web (2), css (2), next (1)
 > **Tools:** safari (2), firefox (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (2)
@@ -882,7 +882,7 @@ created: 2026-04-29
 
 ### 3. Keyboard Interaction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keyboard functionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980)
@@ -1037,7 +1037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), default. (2), this. (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[JavaScript]] (3), data (3), hit (3), functional (1)
 > **CLI Commands:** make (9)
 > **UI Navigation:** click on (4), drag and drop (1)
 > **Definitions:** is a  (2)
@@ -1163,7 +1163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1), let (1), interface (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[Security]] (4), next (2), teams (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - when (1)
@@ -1241,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), switch (1), this. (1)
+> **Frameworks & Libraries:** next (7), dom (1), css (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ecommerce (1)
 > **Env Vars:** css (1)
@@ -1252,7 +1252,7 @@ created: 2026-04-29
 
 ### 4. Touch Interfaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility and touch
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980)
@@ -1357,7 +1357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), this. (1), switch (1)
+> **Frameworks & Libraries:** product (2), [[Microsoft]] (1), [[Hardware]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1434,8 +1434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Search]] (2), [[Google]] (2), [[Microsoft]] (2)
 > **CLI Commands:** make (7)
-> **Code Keywords:** interface (2), case, (1), switch (1)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - you (1)
 
@@ -1518,7 +1518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), switch (2), else. (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), next (1)
 > **CLI Commands:** make (5)
 > **Analogies:** similar to (1), for example (1), just like (1)
 > **UI Navigation:** toggle (1)
@@ -1528,7 +1528,7 @@ created: 2026-04-29
 
 ### 5. Images and Multimedia Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with audio and video
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-audio-and-video-14870323?u=76281980)
@@ -1605,8 +1605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** mp3 (1)
 > **Speakers:** - the (1)
@@ -1734,7 +1734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), finally, (2)
+> **Frameworks & Libraries:** functional (8), product (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** svg (1)
 > **Definitions:** is a  (1)
@@ -1905,7 +1905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), this, (1), interface (1), case, (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), functional (1)
 > **Speakers:** - [computer] (2), - now (1), - did (1), - the (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2), scroll up (1)
@@ -2028,7 +2028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), require (1), finally, (1), interface (1), switch (1)
+> **Frameworks & Libraries:** functional (6), [[Zoom]] (3), data (3), [[Microsoft Office|Office]] (1), [[Statistics]] (1)
 > **UI Navigation:** toggle (2), click on (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - all (1)
@@ -2036,7 +2036,7 @@ created: 2026-04-29
 
 ### 6. Form Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Labeling forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/labeling-forms-14875142?u=76281980)
@@ -2145,9 +2145,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (6), [[Search]] (1)
 > **UI Navigation:** click on (3), checkbox (2), toggle (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), type, (1)
 > **Definitions:** is a  (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - labeling (1)
@@ -2223,6 +2223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (1), yyyy (1)
 > **Definitions:** is a  (1)
@@ -2274,8 +2275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), [[Forms]] (1), [[Design Systems]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** new, (1), default. (1), finally, (1)
 > **Env Vars:** html5 (2), url (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
@@ -2367,7 +2368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[Forms]] (2), data (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (2)
@@ -2377,7 +2378,7 @@ created: 2026-04-29
 
 ### 7. Flexibility and Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Flexible vs. fixed width designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980)
@@ -2456,7 +2457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), interface (1)
+> **Frameworks & Libraries:** web (5), [[Windows]] (2), [[Analytics]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
@@ -2585,8 +2586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1), [[Zoom]] (1), [[Usability Testing]] (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** interface (7), else. (1)
 > **Definitions:** is a  (2), known as (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - responsive (1)
@@ -2690,8 +2691,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Forms]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (2), interface (1), for. (1)
 > **Definitions:** means that (3)
 > **Env Vars:** rem (1)
 > **Analogies:** it's like (1)
@@ -2701,7 +2702,7 @@ created: 2026-04-29
 
 ### 8. Structured Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Content hierarchy and headings
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/content-hierarchy-and-headings-14869537?u=76281980)
@@ -2842,8 +2843,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Representational State Transfer (REST)|Rest]] (1), web (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -2915,7 +2916,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - page (1)
 
 #### Page structure
@@ -2969,6 +2969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Semantic Markup]] (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), teams (1)
 > **Env Vars:** html (2), html5 (2), nvda (1), jaws (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -2978,7 +2979,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A challenge for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980)
@@ -3005,6 +3006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [simplyaccessible.com](https://simplyaccessible.com) (1)
 > **Speakers:** - almost (1)

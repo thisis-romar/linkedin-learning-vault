@@ -28,7 +28,7 @@ tags:
   - skill/cybersecurity-incident-response
   - skill/crisis-communications
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Crisis%20Communication%20Planning%20After%20a%20Ransomware%20or%20Other%20Cybersecurity%20Attack.md)
@@ -47,24 +47,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Anyone can suffer a ransomware or other cyberattack
+  - [Anyone can suffer a ransomware or other cyberattack](#anyone-can-suffer-a-ransomware-or-other-cyberattack)
 - [**1. The Impact of Cyberattacks**](#1-the-impact-of-cyberattacks) (2 videos)
-  - Why cyberattacks impact every organization
-  - Determining who is on your team when a cyberattack occurs
+  - [Why cyberattacks impact every organization](#why-cyberattacks-impact-every-organization)
+  - [Determining who is on your team when a cyberattack occurs](#determining-who-is-on-your-team-when-a-cyberattack-occurs)
 - [**2. The Cyberattack Crisis Communications Phases**](#2-the-cyberattack-crisis-communications-phases) (4 videos)
-  - What to say and to whom at onset
-  - Prepare your team to address a crisis
-  - Practice to improve crisis communications
-  - What to tell people after the attack
+  - [What to say and to whom at onset](#what-to-say-and-to-whom-at-onset)
+  - [Prepare your team to address a crisis](#prepare-your-team-to-address-a-crisis)
+  - [Practice to improve crisis communications](#practice-to-improve-crisis-communications)
+  - [What to tell people after the attack](#what-to-tell-people-after-the-attack)
 - [**3. Evaluate and Train**](#3-evaluate-and-train) (2 videos)
-  - Continue to evaluate after a training
-  - Design crisis scenario-based training for higher retention
+  - [Continue to evaluate after a training](#continue-to-evaluate-after-a-training)
+  - [Design crisis scenario-based training for higher retention](#design-crisis-scenario-based-training-for-higher-retention)
 - [**Conclusion**](#conclusion) (1 videos)
-  - You can do this
+  - [You can do this](#you-can-do-this)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Anyone can suffer a ransomware or other cyberattack
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/anyone-can-suffer-a-ransomware-or-other-cyberattack?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), public (1), let (1)
+> **Frameworks & Libraries:** hit (1)
 > **Analogies:** imagine (1), such as (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 ### 1. The Impact of Cyberattacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why cyberattacks impact every organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), public (1), continue (1)
+> **Frameworks & Libraries:** data (2), business (2), [[Phishing]] (1), [[ChatGPT]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ibm (1)
 > **Versions:** 4.8 (1)
@@ -264,8 +264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), teams (3), hr (3), next (2), business (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** protected (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -273,7 +273,7 @@ created: 2026-04-29
 
 ### 2. The Cyberattack Crisis Communications Phases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What to say and to whom at onset
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980)
@@ -372,7 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), self (1), this: (1), require (1), case, (1)
+> **Frameworks & Libraries:** business (1), next (1), [[Cybersecurity]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
@@ -484,7 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for, (1), finally, (1), continue (1), require (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), hr (2), leadership (1), express (1), next (1)
 > **Env Vars:** ceo (1), cio (1)
 > **Warnings:** gotcha (2)
 > **CLI Commands:** make (1)
@@ -524,7 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** [[Crisis Communications]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** gotcha (1)
 > **Speakers:** - [instructor] (1)
@@ -582,7 +582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Best Practices:** rule of thumb (1)
@@ -591,7 +591,7 @@ created: 2026-04-29
 
 ### 3. Evaluate and Train
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue to evaluate after a training
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/continue-to-evaluate-after-a-training?u=76281980)
@@ -652,8 +652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Resiliency]] (1), hr (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Warnings:** gotcha (1)
 > **Speakers:** - [narrator] (1)
 
@@ -736,7 +736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (2), finally, (1)
+> **Frameworks & Libraries:** hit (3), data (2)
 > **Env Vars:** cio (2)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -747,7 +747,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### You can do this
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980)
@@ -780,8 +780,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Customer Relations]] (1), management (1), [[Resiliency]] (1), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [dave] (1)
 

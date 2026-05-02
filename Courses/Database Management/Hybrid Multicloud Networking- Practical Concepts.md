@@ -30,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/hybrid-cloud
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Hybrid%20Multicloud%20Networking-%20Practical%20Concepts.md)
@@ -49,30 +49,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Bringing hybrid multicloud networking to the real world
+  - [Bringing hybrid multicloud networking to the real world](#bringing-hybrid-multicloud-networking-to-the-real-world)
 - [**1. The Business and Hybrid Multicloud Networking**](#1-the-business-and-hybrid-multicloud-networking) (4 videos)
-  - Exploring cloud migration strategies
-  - Starting small and failing fast
-  - Cloud networking is a team sport
-  - Building for the future
+  - [Exploring cloud migration strategies](#exploring-cloud-migration-strategies)
+  - [Starting small and failing fast](#starting-small-and-failing-fast)
+  - [Cloud networking is a team sport](#cloud-networking-is-a-team-sport)
+  - [Building for the future](#building-for-the-future)
 - [**2. Hybrid Multicloud Network Options**](#2-hybrid-multicloud-network-options) (5 videos)
-  - Overview of hybrid multicloud networking options
-  - Virtual private networks
-  - Private connections
-  - Software-defined cloud interconnect (SDCI)
-  - Multicloud networking software
+  - [Overview of hybrid multicloud networking options](#overview-of-hybrid-multicloud-networking-options)
+  - [Virtual private networks](#virtual-private-networks)
+  - [Private connections](#private-connections)
+  - [Software-defined cloud interconnect (SDCI)](#software-defined-cloud-interconnect-sdci)
+  - [Multicloud networking software](#multicloud-networking-software)
 - [**3. Planning a Hybrid Multicloud Network**](#3-planning-a-hybrid-multicloud-network) (5 videos)
-  - The shifting acquisition landscape
-  - High availability in the cloud
-  - Disaster recovery in the cloud
-  - Capacity planning
-  - Network segmentation
+  - [The shifting acquisition landscape](#the-shifting-acquisition-landscape)
+  - [High availability in the cloud](#high-availability-in-the-cloud)
+  - [Disaster recovery in the cloud](#disaster-recovery-in-the-cloud)
+  - [Capacity planning](#capacity-planning)
+  - [Network segmentation](#network-segmentation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Moving forward with your hybrid multicloud networking
+  - [Moving forward with your hybrid multicloud networking](#moving-forward-with-your-hybrid-multicloud-networking)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bringing hybrid multicloud networking to the real world
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980)
@@ -101,6 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), business (2), [[Lead Change]] (1), power (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - the (1)
@@ -108,7 +109,7 @@ created: 2026-04-29
 
 ### 1. The Business and Hybrid Multicloud Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring cloud migration strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980)
@@ -179,7 +180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), while. (1)
+> **Frameworks & Libraries:** cloud (7), application (7), [[Design Patterns]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), data (2)
 > **Env Vars:** sql (2), rds (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -282,7 +283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), require (1), from. (1)
+> **Frameworks & Libraries:** teams (11), cloud (4), product (3), business (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -385,8 +386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (15), application (4), cloud (4), data (2), database (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** bgp (1)
 > **Warnings:** troubleshoot (1)
@@ -484,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (1), require (1)
+> **Frameworks & Libraries:** cloud (9), [[Automation]] (3), [[IP Addressing]] (2), next (2), teams (2)
 > **Env Vars:** vpc (3), cicd (1), aws (1)
 > **CLI Commands:** terraform (1), aws (1), find (1)
 > **Definitions:** is a  (2)
@@ -496,7 +497,7 @@ created: 2026-04-29
 
 ### 2. Hybrid Multicloud Network Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of hybrid multicloud networking options
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980)
@@ -623,7 +624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (3), let (2), extends (1), switch (1)
+> **Frameworks & Libraries:** cloud (21), business (5), teams (3), [[Security]] (2), vpn (2)
 > **Env Vars:** sdci (3), vpn (2), opex (2), capex (2), wan (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -725,8 +726,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), vpn (9), traffic (4), [[Routing]] (3), [[Security]] (2)
 > **Env Vars:** vpn (9), bgp (2), vpc (1)
-> **Code Keywords:** let (3), else. (1), function (1), public (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (3)
 > **Cross-References:** we talked about (1)
@@ -850,7 +851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), let (5), function (2), public (2), case. (1)
+> **Frameworks & Libraries:** cloud (17), traffic (3), [[Routing]] (3), data (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2)
 > **Env Vars:** vpc (3), oci (2), vcn (2), loa (2), bgp (2)
 > **Prerequisites:** set up (6), required to (2), configure (1)
 > **Definitions:** is called (5), means that (1)
@@ -927,8 +928,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (6), business (2), dns (2), traffic (1)
 > **Env Vars:** sdci (7), dns (2)
-> **Code Keywords:** let (2), continue (1), case, (1), private (1), public (1)
 > **CLI Commands:** make (1), terraform (1)
 > **Analogies:** picture (1), just like (1)
 > **Warnings:** troubleshoot (1)
@@ -941,7 +942,7 @@ created: 2026-04-29
 
 ### 3. Planning a Hybrid Multicloud Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The shifting acquisition landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980)
@@ -1038,7 +1039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), else. (1)
+> **Frameworks & Libraries:** cloud (11), business (9), data (6), product (3), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it like (1)
@@ -1125,7 +1126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), function (1), for. (1)
+> **Frameworks & Libraries:** data (8), cloud (7), [[Microsoft Office|Office]] (2), [[Hardware]] (2), application (2)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (2)
 > **Env Vars:** sla (1)
@@ -1265,7 +1266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), if, (1), require (1), for. (1), continue (1)
+> **Frameworks & Libraries:** data (6), business (4), traffic (3), application (3), [[Databases]] (2)
 > **Env Vars:** rpo (3), rto (2)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1)
@@ -1390,7 +1391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (3), protected (2)
+> **Frameworks & Libraries:** data (11), cloud (7), traffic (6), [[Hardware]] (4), business (3)
 > **Env Vars:** wan (2), ssl (1), vpn (1), mpls (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
@@ -1484,7 +1485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (9), let (1)
+> **Frameworks & Libraries:** business (14), data (10), [[Security]] (5), teams (5), traffic (2)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (2)
 > **Definitions:** is a  (1)
@@ -1493,7 +1494,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving forward with your hybrid multicloud networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/moving-forward-with-your-hybrid-multicloud-networking?u=76281980)
@@ -1530,8 +1531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), business (3), next (1), aws (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** make (1), aws (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)

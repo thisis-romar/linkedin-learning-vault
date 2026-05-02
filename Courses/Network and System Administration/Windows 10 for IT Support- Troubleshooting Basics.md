@@ -36,7 +36,7 @@ tags:
   - skill/technical-support
   - skill/windows-10
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%2010%20for%20IT%20Support-%20Troubleshooting%20Basics.md)
@@ -55,42 +55,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Learn the basics of troubleshooting in Windows 10
+  - [Learn the basics of troubleshooting in Windows 10](#learn-the-basics-of-troubleshooting-in-windows-10)
 - [**1. An Introduction to Troubleshooting**](#1-an-introduction-to-troubleshooting) (1 videos)
-  - Windows 10 troubleshooting best practices
+  - [Windows 10 troubleshooting best practices](#windows-10-troubleshooting-best-practices)
 - [**2. The Most Common Fixes**](#2-the-most-common-fixes) (5 videos)
-  - Booting into Safe Mode
-  - Resetting Windows
-  - Restoring Windows
-  - Running Windows Update
-  - Removing a buggy update
+  - [Booting into Safe Mode](#booting-into-safe-mode)
+  - [Resetting Windows](#resetting-windows)
+  - [Restoring Windows](#restoring-windows)
+  - [Running Windows Update](#running-windows-update)
+  - [Removing a buggy update](#removing-a-buggy-update)
 - [**3. Troubleshooting Tools**](#3-troubleshooting-tools) (8 videos)
-  - Working with the Reliability Monitor
-  - Using the Steps Recorder
-  - Using the Security and Maintenance Console
-  - Working with troubleshooters
-  - Cleaning up the hard disk
-  - An introduction to the Event Viewer
-  - An introduction to performance monitoring
-  - What is slowing down the system?
+  - [Working with the Reliability Monitor](#working-with-the-reliability-monitor)
+  - [Using the Steps Recorder](#using-the-steps-recorder)
+  - [Using the Security and Maintenance Console](#using-the-security-and-maintenance-console)
+  - [Working with troubleshooters](#working-with-troubleshooters)
+  - [Cleaning up the hard disk](#cleaning-up-the-hard-disk)
+  - [An introduction to the Event Viewer](#an-introduction-to-the-event-viewer)
+  - [An introduction to performance monitoring](#an-introduction-to-performance-monitoring)
+  - [What is slowing down the system?](#what-is-slowing-down-the-system)
 - [**4. Fixing Boot Problems**](#4-fixing-boot-problems) (2 videos)
-  - Fixing boot problems
-  - Windows startup
+  - [Fixing boot problems](#fixing-boot-problems)
+  - [Windows startup](#windows-startup)
 - [**5. Remote Troubleshooting**](#5-remote-troubleshooting) (3 videos)
-  - Using Remote Assistance
-  - Configuring the RDP client
-  - Establishing a Remote Desktop session
+  - [Using Remote Assistance](#using-remote-assistance)
+  - [Configuring the RDP client](#configuring-the-rdp-client)
+  - [Establishing a Remote Desktop session](#establishing-a-remote-desktop-session)
 - [**6. Troubleshooting Applications**](#6-troubleshooting-applications) (4 videos)
-  - Reinstalling a Windows Store application
-  - Reinstalling a Win32 application
-  - Repairing a Win32 application
-  - Fixing an application compatibility problem
+  - [Reinstalling a Windows Store application](#reinstalling-a-windows-store-application)
+  - [Reinstalling a Win32 application](#reinstalling-a-win32-application)
+  - [Repairing a Win32 application](#repairing-a-win32-application)
+  - [Fixing an application compatibility problem](#fixing-an-application-compatibility-problem)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the basics of troubleshooting in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[LinkedIn]] (2), [[Troubleshooting]] (2), [[Microsoft]] (1)
 > **Warnings:** troubleshoot (2)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [brian] (1)
@@ -122,7 +123,7 @@ created: 2026-04-29
 
 ### 1. An Introduction to Troubleshooting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Windows 10 troubleshooting best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980)
@@ -207,16 +208,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (7), [[Search]] (3), power (2), [[Windows 10]] (1), next (1)
 > **CLI Commands:** make (7), find (3)
 > **Best Practices:** best practice (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Warnings:** be careful (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. The Most Common Fixes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Booting into Safe Mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980)
@@ -369,8 +370,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (28), prompt (6), power (5), [[Windows 10]] (2), next (2)
 > **UI Navigation:** click on (9), go to (6), open the (2)
-> **Code Keywords:** let (3), delete (2), if, (1), default, (1), continue (1)
 > **Tools:** command prompt (5)
 > **Env Vars:** bcd (3), cmd (1)
 > **Prerequisites:** install (2), set up (1)
@@ -479,8 +480,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (21), [[Windows 10]] (4), next (4), cloud (3), data (3)
 > **UI Navigation:** click on (7)
-> **Code Keywords:** let (1), case, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** such as (1)
@@ -588,9 +589,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), next (3), [[Windows 10]] (2), data (2), functional (1)
 > **UI Navigation:** click on (4), go to (1), open the (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), default. (1)
 > **Prerequisites:** before you begin (1), configure (1)
 > **Versions:** 1.26 (1)
 > **Speakers:** - [instructor] (1)
@@ -616,8 +617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Windows 10]] (2), [[Microsoft]] (1), [[Microsoft Defender]] (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -688,7 +689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (1), from. (1)
+> **Frameworks & Libraries:** [[Windows]] (9), [[Windows 10]] (3), prompt (2), cd (1), next (1)
 > **CLI Commands:** find (1), cd (1), make (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2)
@@ -700,7 +701,7 @@ created: 2026-04-29
 
 ### 3. Troubleshooting Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with the Reliability Monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980)
@@ -791,8 +792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Security]] (3), [[Windows]] (2), application (1)
 > **UI Navigation:** click on (8), go to (1), open the (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Warnings:** troubleshoot (1), warning (1)
 > **CLI Commands:** find (1)
@@ -878,7 +879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), next (1), [[Troubleshooting]] (1)
 > **UI Navigation:** scroll down (2), go to (1), open the (1), click on (1)
 > **Env Vars:** zip (3)
 > **Exercise Files:** zip file (3)
@@ -956,7 +957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), if, (1)
+> **Frameworks & Libraries:** [[Security]] (7), [[Windows 10]] (4), next (4), feature (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -1020,8 +1021,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (3), next (2), [[Microsoft]] (1), [[Security]] (1)
 > **UI Navigation:** click on (5), go to (1), open the (1)
-> **Code Keywords:** let (4), for. (1)
 > **Warnings:** troubleshoot (4)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1), such as (1)
@@ -1112,8 +1113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), next (1), [[Microsoft Defender]] (1)
 > **UI Navigation:** click on (4), checkbox (3), open the (1), select the (1)
-> **Code Keywords:** let (3), case, (2), delete (2), type. (1)
 > **Versions:** 17.3 (1), 92.1 (1)
 > **Env Vars:** dvd (1)
 > **Analogies:** for example (1)
@@ -1224,7 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (6), let (3), super (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Security]] (3), [[Troubleshooting]] (2), [[Windows 10]] (2), application (2)
 > **UI Navigation:** go to (2), right-click (1), scroll down (1), click on (1), select the (1)
 > **Prerequisites:** setup (3)
 > **Definitions:** is an  (2)
@@ -1324,11 +1325,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Troubleshooting]] (1), data (1), [[Windows]] (1), web (1)
 > **Env Vars:** cpu (8)
 > **UI Navigation:** click on (4)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** interface (1), case, (1), this, (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1399,8 +1400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (2)
 > **Env Vars:** cpu (8), mgr (1), rdp (1)
-> **Code Keywords:** let (2), type, (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 4.1 (1), 16.7 (1)
@@ -1411,7 +1412,7 @@ created: 2026-04-29
 
 ### 4. Fixing Boot Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fixing boot problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980)
@@ -1498,7 +1499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1), case, (1)
+> **Frameworks & Libraries:** [[Windows 10]] (7), prompt (4), [[Windows]] (3), cd (1), next (1)
 > **Env Vars:** dvd (2), usb (1), uefi (1)
 > **UI Navigation:** click on (4)
 > **Warnings:** troubleshoot (3)
@@ -1592,7 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (1), else. (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Microsoft]] (5), [[Search]] (5), [[Windows 10]] (2), web (2)
 > **UI Navigation:** open the (2), click on (2), go to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1602,7 +1603,7 @@ created: 2026-04-29
 
 ### 5. Remote Troubleshooting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Remote Assistance
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980)
@@ -1713,7 +1714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (2), default. (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Search]] (2), next (1)
 > **UI Navigation:** go to (1), checkbox (1), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1820,7 +1821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), delete (1), default, (1), if, (1)
+> **Frameworks & Libraries:** [[Windows]] (4), next (2), [[Windows 10]] (1), dns (1)
 > **Env Vars:** rdp (7), dns (1)
 > **UI Navigation:** click on (5), go to (2), open the (1)
 > **Prerequisites:** configure (3), set up (1)
@@ -1927,8 +1928,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), next (2), [[Security]] (2), [[Windows 10]] (1)
 > **UI Navigation:** click on (9), go to (6), checkbox (2), open the (2), select the (1)
-> **Code Keywords:** require (1), case, (1), let (1)
 > **Env Vars:** rdp (3)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** set up (2)
@@ -1939,7 +1940,7 @@ created: 2026-04-29
 
 ### 6. Troubleshooting Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reinstalling a Windows Store application
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-windows-store-application?u=76281980)
@@ -2002,8 +2003,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (16), data (2), express (1), next (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
-> **Code Keywords:** let (2), delete (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Exercise Files:** download the (1)
 > **Warnings:** warning (1)
@@ -2081,8 +2082,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (11), [[Windows]] (3), data (2), next (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (5), go to (2), open the (1)
-> **Code Keywords:** let (2), this, (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -2161,8 +2162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (11), next (4), [[Windows]] (2), [[Windows 10]] (2), [[Microsoft Office]] (2)
 > **UI Navigation:** go to (3), click on (3), right-click (1)
-> **Code Keywords:** let (3), continue (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -2261,8 +2262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), [[Windows 10]] (6), [[Windows]] (6), next (3), [[Microsoft]] (1)
 > **UI Navigation:** click on (4), go to (3), select the (1)
-> **Code Keywords:** let (3), case, (1)
 > **Warnings:** troubleshoot (4)
 > **Best Practices:** recommended (2)
 > **Definitions:** means that (1)
@@ -2272,7 +2273,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980)
@@ -2291,6 +2292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Troubleshooting]] (1), [[LinkedIn]] (1), cloud (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Inheritance%2C%20Specificity%2C%20and%20the%20Cascade.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The big C in CSS
-  - CSS terminology refresher
+  - [The big C in CSS](#the-big-c-in-css)
+  - [CSS terminology refresher](#css-terminology-refresher)
 - [**1. Understanding Inheritance**](#1-understanding-inheritance) (6 videos)
-  - What is inheritance?
-  - Examples of inheritance
-  - Controlling inheritance with inherit
-  - Exploring initial, unset, revert, and all
-  - Challenge: Working with inheritance
-  - Solution: Working with inheritance
+  - [What is inheritance?](#what-is-inheritance)
+  - [Examples of inheritance](#examples-of-inheritance)
+  - [Controlling inheritance with inherit](#controlling-inheritance-with-inherit)
+  - [Exploring initial, unset, revert, and all](#exploring-initial-unset-revert-and-all)
+  - [Challenge: Working with inheritance](#challenge-working-with-inheritance)
+  - [Solution: Working with inheritance](#solution-working-with-inheritance)
 - [**2. Understanding Specificity**](#2-understanding-specificity) (6 videos)
-  - What is specificity?
-  - How selectors and ordering impact specificity
-  - Selectors with no specificity
-  - The impact of inheritance on specificity
-  - Challenge: Explaining specificity
-  - Solution: Explaining specificity
+  - [What is specificity?](#what-is-specificity)
+  - [How selectors and ordering impact specificity](#how-selectors-and-ordering-impact-specificity)
+  - [Selectors with no specificity](#selectors-with-no-specificity)
+  - [The impact of inheritance on specificity](#the-impact-of-inheritance-on-specificity)
+  - [Challenge: Explaining specificity](#challenge-explaining-specificity)
+  - [Solution: Explaining specificity](#solution-explaining-specificity)
 - [**3. Understanding the Cascade**](#3-understanding-the-cascade) (5 videos)
-  - What is the cascade?
-  - Identifying origins of CSS declarations using browser tools
-  - Sorting declarations by importance
-  - !important: Its use and abuse
-  - @layer: Impacting specificity through components
+  - [What is the cascade?](#what-is-the-cascade)
+  - [Identifying origins of CSS declarations using browser tools](#identifying-origins-of-css-declarations-using-browser-tools)
+  - [Sorting declarations by importance](#sorting-declarations-by-importance)
+  - [!important: Its use and abuse](#important-its-use-and-abuse)
+  - [@layer: Impacting specificity through components](#layer-impacting-specificity-through-components)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Moving forward with CSS
+  - [Moving forward with CSS](#moving-forward-with-css)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The big C in CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-big-c-in-css?u=76281980)
@@ -125,8 +125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), next (1)
 > **Env Vars:** css (8)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [jen] (1)
 
 #### CSS terminology refresher
@@ -186,8 +186,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[HTML]] (1), next (1)
 > **Env Vars:** css (4), html (1)
-> **Code Keywords:** let (2), this, (1), case, (1)
 > **Definitions:** is a  (3), is called (1)
 > **Prerequisites:** before we start (1), required to (1)
 > **Best Practices:** good practice (1)
@@ -196,7 +196,7 @@ created: 2026-04-29
 
 ### 1. Understanding Inheritance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is inheritance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980)
@@ -273,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), dom (2), [[Document Object Model (DOM)|Document object model]] (1), [[HTML]] (1)
 > **Env Vars:** css (4), dom (2), mdn (1), html (1)
-> **Code Keywords:** override (3), let (2), finally, (1), case, (1)
 > **Analogies:** for example (3), imagine (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Versions:** 1.5 (1)
@@ -441,7 +441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (3), class. (1), this, (1), switch (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[CodePen]] (1), css (1), [[Typography]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** html (2), css (1)
 > **Versions:** 1.5 (2)
@@ -515,9 +515,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Definitions:** is a  (2), in other words (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), override (1)
 > **Env Vars:** html (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -728,7 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), default. (2), case, (2), override (2), this, (1)
+> **Frameworks & Libraries:** next (2), css (1)
 > **Definitions:** is a  (3), in other words (2), is called (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** make (3)
@@ -768,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), next (1)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -820,8 +820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), [[CodePen]] (1)
 > **Env Vars:** html (4), rem (4)
-> **Code Keywords:** let (1), class. (1), case, (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
@@ -830,7 +830,7 @@ created: 2026-04-29
 
 ### 2. Understanding Specificity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is specificity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-specificity?u=76281980)
@@ -999,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), class. (1), this. (1), class, (1)
+> **Frameworks & Libraries:** css (3), [[HTML]] (3)
 > **Env Vars:** css (3), html (3), mdn (2)
 > **Definitions:** is a  (7), in other words (1)
 > **Documentation:** mdn (2), specification (2)
@@ -1153,7 +1153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (5), let (4), switch (3), class. (2), class, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), css (3), [[CodePen]] (1), generic (1), [[Content Management]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** html (3), css (3)
 > **Cross-References:** earlier in (2), later in (1)
@@ -1300,7 +1300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (4), case, (3), override (1)
+> **Frameworks & Libraries:** [[HTML]] (4), next (1)
 > **Env Vars:** html (4)
 > **CLI Commands:** sudo (3)
 > **Cross-References:** in the last (1)
@@ -1425,7 +1425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (3), class, (1), this. (1)
+> **Frameworks & Libraries:** css (2), [[HTML]] (2), [[CodePen]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** later in (2), earlier in (2), go back to (1)
 > **Env Vars:** css (2), html (2)
@@ -1496,9 +1496,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1), [[HTML]] (1), next (1)
 > **Env Vars:** css (1), html (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -1619,7 +1619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), override (3), class. (1), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (2), next (1), generic (1)
 > **Definitions:** is a  (3), is an  (2), in other words (1)
 > **Env Vars:** html (2)
 > **Cross-References:** in the last (1), earlier in (1)
@@ -1630,7 +1630,7 @@ created: 2026-04-29
 
 ### 3. Understanding the Cascade
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the cascade?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-the-cascade?u=76281980)
@@ -1711,7 +1711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), override (3), class, (1)
+> **Frameworks & Libraries:** css (3), [[HTML]] (2)
 > **Env Vars:** css (3), mdn (2), html (2)
 > **Documentation:** mdn (2)
 > **Definitions:** is an  (1), in other words (1)
@@ -1918,7 +1918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), override (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (7), web (5), css (4), [[Microsoft]] (2), [[Web Development]] (1)
 > **Env Vars:** html (7), css (4)
 > **Definitions:** is a  (4), in other words (1)
 > **CLI Commands:** find (2)
@@ -1994,7 +1994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), from. (2), case, (2), override (2)
+> **Frameworks & Libraries:** [[HTML]] (3), web (1), css (1), ux (1), next (1)
 > **Env Vars:** html (3), css (1)
 > **UI Navigation:** scroll up (1), select the (1)
 > **CLI Commands:** find (1)
@@ -2134,7 +2134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), override (3), raise (1)
+> **Frameworks & Libraries:** css (4), [[HTML]] (2), [[User Experience (UX)|User experience]] (1), [[Web Development]] (1), web (1)
 > **Env Vars:** css (4), html (2)
 > **Cross-References:** earlier in (2), later in (1)
 > **CLI Commands:** make (2)
@@ -2285,8 +2285,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), [[HTML]] (4), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (7), html (4)
-> **Code Keywords:** let (5), super (1), case, (1), for. (1), switch (1)
 > **Cross-References:** later in (4)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -2297,7 +2297,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving forward with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/moving-forward-with-css?u=76281980)
@@ -2334,9 +2334,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9)
 > **Env Vars:** css (9)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [jen] (1)
 

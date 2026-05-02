@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Agile%20Software%20Development-%20Creating%20an%20Agile%20Culture.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Create an agile culture
-  - Agile in the AI era
+  - [Create an agile culture](#create-an-agile-culture)
+  - [Agile in the AI era](#agile-in-the-ai-era)
 - [**1. Defining Success**](#1-defining-success) (4 videos)
-  - Why culture matters
-  - The importance of psychological safety
-  - Build trust
-  - Mission, vision, and values
+  - [Why culture matters](#why-culture-matters)
+  - [The importance of psychological safety](#the-importance-of-psychological-safety)
+  - [Build trust](#build-trust)
+  - [Mission, vision, and values](#mission-vision-and-values)
 - [**2. Agile Anti-Patterns and Antidotes**](#2-agile-anti-patterns-and-antidotes) (6 videos)
-  - Shame versus empathy
-  - Heroes versus teams
-  - Stress versus calm
-  - Failure versus experimentation
-  - Efficiency versus responsiveness
-  - Silos versus collaboration
+  - [Shame versus empathy](#shame-versus-empathy)
+  - [Heroes versus teams](#heroes-versus-teams)
+  - [Stress versus calm](#stress-versus-calm)
+  - [Failure versus experimentation](#failure-versus-experimentation)
+  - [Efficiency versus responsiveness](#efficiency-versus-responsiveness)
+  - [Silos versus collaboration](#silos-versus-collaboration)
 - [**3. Building Your Team**](#3-building-your-team) (6 videos)
-  - Collection of individuals versus teams
-  - Play to strengths
-  - Diversity, inclusion, and belonging
-  - Support success
-  - Enable flow
-  - Regular reflection
+  - [Collection of individuals versus teams](#collection-of-individuals-versus-teams)
+  - [Play to strengths](#play-to-strengths)
+  - [Diversity, inclusion, and belonging](#diversity-inclusion-and-belonging)
+  - [Support success](#support-success)
+  - [Enable flow](#enable-flow)
+  - [Regular reflection](#regular-reflection)
 - [**4. Empowering Individuals**](#4-empowering-individuals) (5 videos)
-  - Candor and conflict
-  - Avoiding groupthink
-  - Growth mindset
-  - Embrace negotiation
-  - Clear and compassionate communication
+  - [Candor and conflict](#candor-and-conflict)
+  - [Avoiding groupthink](#avoiding-groupthink)
+  - [Growth mindset](#growth-mindset)
+  - [Embrace negotiation](#embrace-negotiation)
+  - [Clear and compassionate communication](#clear-and-compassionate-communication)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an agile culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980)
@@ -130,6 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), [[LinkedIn]] (1)
 > **Analogies:** just like (2), imagine (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - everyone (1)
@@ -199,13 +200,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), ai (10), teams (2), [[Microsoft Office|Office]] (1), [[ChatGPT]] (1)
 > **Env Vars:** dna (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 1. Defining Success
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why culture matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980)
@@ -266,8 +268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), teams (2), [[Organizational Culture]] (1), leadership (1)
 > **Env Vars:** dna (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
@@ -364,7 +366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), new. (1), finally, (1)
+> **Frameworks & Libraries:** [[Google]] (4), teams (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -476,8 +478,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (2), teams (1), power (1), [[Security]] (1), [[Resiliency]] (1)
 > **Definitions:** is a  (9), is an  (1)
-> **Code Keywords:** let (1), self (1), yield (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -561,7 +563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), else, (1), finally, (1), class. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Agile Development|Agile]] (2), next (2), [[Microsoft Word|Word]] (2), generic (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** kind of like (2), just like (1)
 > **Speakers:** - crystal (1)
@@ -569,7 +571,7 @@ created: 2026-04-29
 
 ### 2. Agile Anti-Patterns and Antidotes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shame versus empathy
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980)
@@ -716,9 +718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), [[Agile Development|Agile]] (2), power (2), management (1), next (1)
 > **Speakers:** - this (2), - try (2), - okay (2), - good (1), - who (1)
 > **CLI Commands:** git (4), find (2)
-> **Code Keywords:** let (3), this, (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
 
@@ -815,8 +817,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), teams (2), leadership (1), product (1), next (1)
 > **Speakers:** - one (1), - we (1), - i (1), - weren (1), - yeah (1)
-> **Code Keywords:** self (2), else. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ceo (1)
@@ -932,6 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), business (4), career (3), management (2), teams (1)
 > **Speakers:** - okay (1), - hey (1), - about (1), - wouldn (1), - oh (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -1032,9 +1035,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), business (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), teams (1), next (1)
 > **Speakers:** - ugh (1), - it (1), - yeah (1), - i (1), - done (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), from. (1), finally, (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 
@@ -1103,8 +1106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), business (2), management (2)
 > **Speakers:** - right (2), - i (2), - doesn (1), - excuse (1), - what (1)
-> **Code Keywords:** let (2), this. (1), throw (1), finally, (1), private (1)
 > **CLI Commands:** find (1)
 > **URLs:** [responsive.org](https://responsive.org) (1)
 
@@ -1155,15 +1158,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), teams (1), [[Performance Metrics]] (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
-> **Code Keywords:** this, (1), continue (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - silos (1)
 
 
 ### 3. Building Your Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collection of individuals versus teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/collection-of-individuals-versus-teams?u=76281980)
@@ -1236,8 +1239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (8), [[Agile Development|Agile]] (5), business (2), next (1), management (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - do (1)
 
 #### Play to strengths
@@ -1317,10 +1320,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (15), teams (1), management (1), leadership (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** via (4)
 > **Definitions:** stands for (2), means that (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - what (1)
 
 #### Diversity, inclusion, and belonging
@@ -1380,7 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1)
+> **Frameworks & Libraries:** teams (11), [[Agile Development|Agile]] (2), strengths (1), [[Software Development]] (1), data (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
@@ -1442,9 +1445,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), teams (1), [[Design Systems]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### Enable flow
@@ -1502,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), teams (2), next (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -1556,15 +1559,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Agile Development|Agile]] (5), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (1), is a  (1), refers to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this: (1)
 > **Speakers:** - setting (1)
 
 
 ### 4. Empowering Individuals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Candor and conflict
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/candor-and-conflict?u=76281980)
@@ -1645,9 +1648,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), strengths (1), data (1), teams (1)
 > **Definitions:** is an  (3), refers to (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - by (1)
@@ -1771,9 +1774,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Decision-Making]] (1), [[Security]] (1), business (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** self (1)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
@@ -1864,7 +1867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), business (2), power (1), next (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
 
@@ -1951,8 +1954,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Microsoft Word|Word]] (2), teams (2), feature (1), next (1)
 > **Definitions:** is a  (4), is called (1)
-> **Code Keywords:** finally, (2), require (1), continue (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - like (1)
 
@@ -2031,17 +2034,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), power (1), [[Programming]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** such as (3), just like (1), picture (1), for example (1)
 > **Definitions:** is a  (2), means that (2), refers to (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** interface (1), abstract (1), finally, (1)
 > **URLs:** [plainlanguage.gov](https://plainlanguage.gov) (1)
 > **Speakers:** - communication (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980)
@@ -2088,8 +2091,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Agile Development|Agile]] (2), career (1), power (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** finally, (1)
 > **URLs:** [corgibytes.com](https://corgibytes.com) (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - i (1)

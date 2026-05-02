@@ -32,7 +32,7 @@ tags:
   - skill/github
   - skill/dependency-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/GitHub%20Dependabot-%20Dependency%20Updates.md)
@@ -51,39 +51,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Get started with Dependabot
-  - What you should know
+  - [Get started with Dependabot](#get-started-with-dependabot)
+  - [What you should know](#what-you-should-know)
 - [**1. Dependabot Features and Use Cases**](#1-dependabot-features-and-use-cases) (5 videos)
-  - GitHub and Dependabot features
-  - Dependabot advanced features
-  - Ideal uses cases for Dependabot
-  - Challenge: Dependabot anti-patterns
-  - Solution: Dependabot anti-patterns
+  - [GitHub and Dependabot features](#github-and-dependabot-features)
+  - [Dependabot advanced features](#dependabot-advanced-features)
+  - [Ideal uses cases for Dependabot](#ideal-uses-cases-for-dependabot)
+  - [Challenge: Dependabot anti-patterns](#challenge-dependabot-anti-patterns)
+  - [Solution: Dependabot anti-patterns](#solution-dependabot-anti-patterns)
 - [**2. Dependabot and Python**](#2-dependabot-and-python) (5 videos)
-  - Python project architecture
-  - requirements.txt
-  - dependabot.yml for Python
-  - Challenge: Dependabot pull requests for Python
-  - Solution: Dependabot pull requests for Python
+  - [Python project architecture](#python-project-architecture)
+  - [requirements.txt](#requirementstxt)
+  - [dependabot.yml for Python](#dependabotyml-for-python)
+  - [Challenge: Dependabot pull requests for Python](#challenge-dependabot-pull-requests-for-python)
+  - [Solution: Dependabot pull requests for Python](#solution-dependabot-pull-requests-for-python)
 - [**3. Dependabot and PHP**](#3-dependabot-and-php) (5 videos)
-  - PHP project architecture
-  - composer.json
-  - dependabot.yml for PHP and branches
-  - Challenge: Dependabot pull requests for PHP
-  - Solution: Dependabot pull requests for PHP
+  - [PHP project architecture](#php-project-architecture)
+  - [composer.json](#composerjson)
+  - [dependabot.yml for PHP and branches](#dependabotyml-for-php-and-branches)
+  - [Challenge: Dependabot pull requests for PHP](#challenge-dependabot-pull-requests-for-php)
+  - [Solution: Dependabot pull requests for PHP](#solution-dependabot-pull-requests-for-php)
 - [**4. Dependabot and JavaScript**](#4-dependabot-and-javascript) (5 videos)
-  - JavaScript project architecture
-  - package.json
-  - dependabot.yml for JavaScript projects
-  - Challenge: Dependabot pull requests for JavaScript
-  - Solution: Dependabot pull requests for JavaScript
+  - [JavaScript project architecture](#javascript-project-architecture)
+  - [package.json](#packagejson)
+  - [dependabot.yml for JavaScript projects](#dependabotyml-for-javascript-projects)
+  - [Challenge: Dependabot pull requests for JavaScript](#challenge-dependabot-pull-requests-for-javascript)
+  - [Solution: Dependabot pull requests for JavaScript](#solution-dependabot-pull-requests-for-javascript)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Links and resources
-  - Next steps
+  - [Links and resources](#links-and-resources)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with Dependabot
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Web Development]] (1), [[Python (Programming Language)|Python]] (1), [[Scripting]] (1), [[Security]] (1)
 > **Tools:** github (2)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -137,9 +137,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Version Control]] (1), [[Git]] (1), [[LinkedIn]] (1), [[Programming]] (1)
 > **CLI Commands:** git (1), python (1), ruby (1)
 > **Tools:** github (3)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** phb (1)
 > **Exercise Files:** sample code (1)
 > **Analogies:** such as (1)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Dependabot Features and Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub and Dependabot features
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980)
@@ -191,11 +191,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Version Control]] (1), [[Software Development]] (1), [[Git]] (1), feature (1)
 > **CLI Commands:** docker (2), git (1), make (1), python (1), php (1)
 > **Tools:** github (5)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** case. (1), continue (1)
 > **Env Vars:** php (1)
 > **Cross-References:** in the next (1)
 
@@ -232,9 +232,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1), data (1), [[Tokens]] (1), aws (1), cloud (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** aws (1)
 > **Tools:** github (1)
 > **Best Practices:** best practice (1)
@@ -264,7 +264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), finally, (1), pass (1)
+> **Frameworks & Libraries:** application (1), [[Security]] (1), ci (1), cd (1), [[Automation]] (1)
 > **CLI Commands:** cd (1)
 > **Speakers:** - [instructor] (1)
 
@@ -291,7 +291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), try. (1)
+> **Frameworks & Libraries:** [[Dependency Management]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - all (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -339,7 +339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), interface (1), public (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Dependency Management]] (1), data (1), next (1), [[Software Development]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -351,7 +351,7 @@ created: 2026-04-29
 
 ### 2. Dependabot and Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980)
@@ -408,8 +408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), application (2), aws (2), [[Microsoft Azure]] (2), prompt (2)
 > **CLI Commands:** python (3), aws (2), pip (1)
-> **Code Keywords:** case, (2), module (1), let (1)
 > **Env Vars:** aws (2), nss (1)
 > **Tools:** command prompt (2), github (1)
 > **Versions:** 1.1.0 (1), 0.9.1 (1)
@@ -464,7 +464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (3), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
 > **CLI Commands:** pip (3), python (2)
 > **Versions:** version 0 (1), 6.1 (1), 4.1.1 (1)
 > **Tools:** visual studio (2)
@@ -546,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), self (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Python (Programming Language)|Python]] (2), [[Security]] (1), next (1), hit (1)
 > **File Paths:** dependabot.yml (2), requirements.txt (2)
 > **CLI Commands:** python (2), pip (2)
 > **Tools:** github (4)
@@ -579,7 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), module (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Tools:** github (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - all (1)
@@ -676,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case. (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Python (Programming Language)|Python]] (1), [[Version Control]] (1)
 > **Versions:** 1.2.1 (5), 1.1.0 (5), version 1 (1), 1.0 (1)
 > **UI Navigation:** click on (8), go to (1)
 > **CLI Commands:** make (4), pip (2), python (1)
@@ -688,7 +688,7 @@ created: 2026-04-29
 
 ### 3. Dependabot and PHP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PHP project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980)
@@ -721,8 +721,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[PHP]] (1), application (1), [[HTML]] (1), database (1)
 > **CLI Commands:** php (1), make (1)
-> **Code Keywords:** static (1), let (1)
 > **Env Vars:** php (1), html (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -801,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), require (5), case, (2), case. (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[PHP]] (3), [[Dependency Management]] (2), [[Python (Programming Language)|Python]] (1), [[React.js|React]] (1)
 > **CLI Commands:** composer (5), php (3), python (1), apache (1), find (1)
 > **Versions:** 2.0 (5), php 8 (1), 7.3 (1), 1.2.3 (1), 1.0 (1)
 > **UI Navigation:** go to (3), scroll down (2), click on (2)
@@ -861,8 +861,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[Python (Programming Language)|Python]] (1), [[JSON]] (1)
 > **CLI Commands:** composer (3), php (2), python (1)
-> **Code Keywords:** let (4), case. (1)
 > **File Paths:** composer.json (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** such as (1)
@@ -901,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), next (1)
 > **Tools:** github (3)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
@@ -1100,7 +1100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), case, (4), else. (1), this . (1), this, (1)
+> **Frameworks & Libraries:** [[GitHub]] (11), [[JSON]] (5), prompt (2), [[Git]] (1), cd (1)
 > **CLI Commands:** make (10), composer (7), git (1), cd (1), pip (1)
 > **Tools:** github (11), visual studio (3), command prompt (2)
 > **UI Navigation:** click on (7), go to (7), select the (1)
@@ -1112,7 +1112,7 @@ created: 2026-04-29
 
 ### 4. Dependabot and JavaScript
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980)
@@ -1147,9 +1147,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js]] (4), [[JavaScript]] (3), [[Git]] (2), [[JSON]] (2), [[LinkedIn]] (1)
 > **File Paths:** vue.js (4), package.json (2), dependabot.yml (1)
 > **CLI Commands:** git (2)
-> **Code Keywords:** case, (1), let (1)
 > **Tools:** visual studio (2)
 > **Definitions:** is a  (2)
 > **Documentation:** the documentation (1)
@@ -1186,9 +1186,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (1), next (1), [[PHP]] (1), [[npm]] (1), [[Node.js]] (1)
 > **CLI Commands:** composer (1), php (1), npm (1), node (1), find (1)
 > **Env Vars:** json (1), phb (1), php (1), npm (1), mpm (1)
-> **Code Keywords:** let (2), this. (1)
 > **File Paths:** package.json (1), node.js (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -1284,7 +1284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), try, (1), type. (1), type, (1), case, (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[JavaScript]] (3), [[Package Management]] (2), [[Microsoft Word|Word]] (2), [[GitHub]] (1)
 > **File Paths:** package.json (4), dependabot.yml (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Code Identifiers:** devdependencies (2)
@@ -1322,9 +1322,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[JSON]] (1)
 > **File Paths:** dependabot.yml (3), composer.json (1)
 > **CLI Commands:** php (2), python (1), composer (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** php (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -1434,9 +1434,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (7), [[PHP]] (7), [[JavaScript]] (5), [[GitHub]] (3), application (1)
 > **CLI Commands:** php (7), composer (6), make (1), npm (1), python (1)
 > **File Paths:** composer.json (5), dependabot.yml (3), package.json (2)
-> **Code Keywords:** let (6), this. (2), case, (1)
 > **Env Vars:** php (7), npm (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Tools:** github (3)
@@ -1446,7 +1446,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Links and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980)
@@ -1469,11 +1469,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), pip (2), git (1), python (1), npm (1)
 > **Env Vars:** pip (2), npm (1), php (1)
 > **Tools:** github (3)
 > **File Paths:** requirements.txt (1), package.json (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - real (1)
 
 #### Next steps
@@ -1503,8 +1503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), next (2), [[Automation]] (1), [[LinkedIn]] (1)
 > **Tools:** github (3)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)

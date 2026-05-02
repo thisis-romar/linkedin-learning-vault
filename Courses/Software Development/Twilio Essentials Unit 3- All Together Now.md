@@ -28,7 +28,7 @@ tags:
   - skill/twilio
   - skill/serverless-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Twilio%20Essentials%20Unit%203-%20All%20Together%20Now.md)
@@ -47,19 +47,19 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. All Together Now**](#1-all-together-now) (9 videos)
-  - Introducing the project
-  - Serverless
-  - Understanding conferences
-  - Private data
-  - Text registration
-  - Call registrants
-  - Deploying
-  - Texting a follow-up survey
-  - Wrap up
+  - [Introducing the project](#introducing-the-project)
+  - [Serverless](#serverless)
+  - [Understanding conferences](#understanding-conferences)
+  - [Private data](#private-data)
+  - [Text registration](#text-registration)
+  - [Call registrants](#call-registrants)
+  - [Deploying](#deploying)
+  - [Texting a follow-up survey](#texting-a-follow-up-survey)
+  - [Wrap up](#wrap-up)
 
 ### 1. All Together Now
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980)
@@ -122,7 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), new, (1)
+> **Frameworks & Libraries:** application (5), [[Twilio]] (2), front-end (2), [[Web Development]] (1), product (1)
 > **Env Vars:** fomo (3), pstn (1)
 > **Non-Speech:** (bright music) (1), (upbeat music) (1)
 > **Analogies:** it's like (1)
@@ -561,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (7), this. (7), protected (6), this, (4)
+> **Frameworks & Libraries:** [[Twilio]] (23), web (6), api (3), [[CLI]] (2), cd (2)
 > **Env Vars:** url (4), sid (3), api (3), cli (2), password_for_ (1)
 > **CLI Commands:** make (10), cd (2)
 > **Tools:** terminal (6), visual studio (4), zsh (1), command line (1)
@@ -861,7 +861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (6), this. (5), this, (4), const (2)
+> **Frameworks & Libraries:** [[Twilio]] (8), api (6), data (2), hit (1), [[Fetch]] (1)
 > **Env Vars:** api (5), todo (1), url (1), sid (1)
 > **CLI Commands:** make (6)
 > **Tools:** command line (3)
@@ -1305,7 +1305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), private (10), this. (8), module (5), pass (4)
+> **Frameworks & Libraries:** data (31), api (5), [[JavaScript]] (3), database (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8), find (2), node (1), npm (1)
 > **Env Vars:** api (5), todo (2), rest (1), phonemo (1), npm (1)
 > **Code Identifiers:** getupcomingtalks (4), getassets (3), getcurrenttalk (2)
@@ -1565,7 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (5), let (4), function (4), this. (3), const (2)
+> **Frameworks & Libraries:** [[Twilio]] (11), node (4), application (2), hit (2), cloud (1)
 > **Env Vars:** url (8), http (2), sms (1), smns (1), api (1)
 > **CLI Commands:** make (5), node (4)
 > **Definitions:** is a  (2)
@@ -1658,7 +1658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), function (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Twilio]] (5), cloud (1), application (1), web (1), [[Application Development]] (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 > **Tools:** github (1)

@@ -13,7 +13,7 @@ tags:
   - topic/data-science
   - topic/mobile-development
   - topic/software-development
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Software%20Development/K%C3%A1roly%20Nyisztor.md)

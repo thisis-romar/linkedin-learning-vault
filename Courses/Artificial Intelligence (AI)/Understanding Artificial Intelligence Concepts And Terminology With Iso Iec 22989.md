@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Understanding%20Artificial%20Intelligence%20Concepts%20And%20Terminology%20With%20Iso%20Iec%2022989.md)
@@ -50,51 +50,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The benefits of a common AI language
+  - [The benefits of a common AI language](#the-benefits-of-a-common-ai-language)
 - [**1. AI Concepts: Clauses 5-5.10**](#1-ai-concepts-clauses-5-510) (7 videos)
-  - Overview of AI concepts (Clause 5.1)
-  - Strong, weak, general, and narrow AI (Clause 5-5.2)
-  - AI agents (Clause 5.3)
-  - AI knowledge (Clause 5.4)
-  - Cognitive, semantic, and soft computing (Clause 5.5-5.7)
-  - Genetic symbolic and subsymbolic algorithms (Clause 5.8-5.9)
-  - Data (Clause 5.10)
+  - [Overview of AI concepts (Clause 5.1)](#overview-of-ai-concepts-clause-51)
+  - [Strong, weak, general, and narrow AI (Clause 5-5.2)](#strong-weak-general-and-narrow-ai-clause-5-52)
+  - [AI agents (Clause 5.3)](#ai-agents-clause-53)
+  - [AI knowledge (Clause 5.4)](#ai-knowledge-clause-54)
+  - [Cognitive, semantic, and soft computing (Clause 5.5-5.7)](#cognitive-semantic-and-soft-computing-clause-55-57)
+  - [Genetic symbolic and subsymbolic algorithms (Clause 5.8-5.9)](#genetic-symbolic-and-subsymbolic-algorithms-clause-58-59)
+  - [Data (Clause 5.10)](#data-clause-510)
 - [**2. Machine Learning Concepts: Clauses 5.11-5.12.4**](#2-machine-learning-concepts-clauses-511-5124) (7 videos)
-  - Supervised, unsupervised, and semi-supervised (Clause 5.11-5.11.3)
-  - Additional training processes (Clause 5.11.4-5.11.8)
-  - Retraining ML models (Clause 5.11.9)
-  - Machine learning algorithms, part one (Clause 5.12-5.12.2)
-  - Machine learning algorithms, part two (Clause 5.12.1.3-5.12.1.3.2)
-  - Machine learning algorithms, part three (Clause 5.12.1.4 – 5.12.2)
-  - Machine learning algorithms, part four (Clause 5.12.3 – 5.12.4)
+  - [Supervised, unsupervised, and semi-supervised (Clause 5.11-5.11.3)](#supervised-unsupervised-and-semi-supervised-clause-511-5113)
+  - [Additional training processes (Clause 5.11.4-5.11.8)](#additional-training-processes-clause-5114-5118)
+  - [Retraining ML models (Clause 5.11.9)](#retraining-ml-models-clause-5119)
+  - [Machine learning algorithms, part one (Clause 5.12-5.12.2)](#machine-learning-algorithms-part-one-clause-512-5122)
+  - [Machine learning algorithms, part two (Clause 5.12.1.3-5.12.1.3.2)](#machine-learning-algorithms-part-two-clause-51213-512132)
+  - [Machine learning algorithms, part three (Clause 5.12.1.4 – 5.12.2)](#machine-learning-algorithms-part-three-clause-51214-5122)
+  - [Machine learning algorithms, part four (Clause 5.12.3 – 5.12.4)](#machine-learning-algorithms-part-four-clause-5123-5124)
 - [**3. AI Technology and Administrative Controls**](#3-ai-technology-and-administrative-controls) (5 videos)
-  - Autonomy, heteronomy, and automation (Clause 5.13)
-  - Internet of things and CPS (Clause 5.14)
-  - Trustworthiness, verification, and validation (Clause 5.15-5.16)
-  - Jurisdictional issues and societal impact (Clause 5.17-5.18)
-  - AI stakeholder roles (Clause 5.19-5.19.7)
+  - [Autonomy, heteronomy, and automation (Clause 5.13)](#autonomy-heteronomy-and-automation-clause-513)
+  - [Internet of things and CPS (Clause 5.14)](#internet-of-things-and-cps-clause-514)
+  - [Trustworthiness, verification, and validation (Clause 5.15-5.16)](#trustworthiness-verification-and-validation-clause-515-516)
+  - [Jurisdictional issues and societal impact (Clause 5.17-5.18)](#jurisdictional-issues-and-societal-impact-clause-517-518)
+  - [AI stakeholder roles (Clause 5.19-5.19.7)](#ai-stakeholder-roles-clause-519-5197)
 - [**4. AI System Lifecycle and Functional Overview: Clause 6-7.4**](#4-ai-system-lifecycle-and-functional-overview-clause-6-74) (4 videos)
-  - AI system lifecycle overview (Clause 6.1)
-  - Lifecycle stages and processes (Clause 6.2)
-  - AI data, information, knowledge, and learning (Clause 7-7.3)
-  - AI predictions to actions (Clause 7.4-7.4.4)
+  - [AI system lifecycle overview (Clause 6.1)](#ai-system-lifecycle-overview-clause-61)
+  - [Lifecycle stages and processes (Clause 6.2)](#lifecycle-stages-and-processes-clause-62)
+  - [AI data, information, knowledge, and learning (Clause 7-7.3)](#ai-data-information-knowledge-and-learning-clause-7-73)
+  - [AI predictions to actions (Clause 7.4-7.4.4)](#ai-predictions-to-actions-clause-74-744)
 - [**5. AI Ecosystem: Clause 8-8.7**](#5-ai-ecosystem-clause-8-87) (5 videos)
-  - AI ecosystem and function with ML (Clause 8-8.4)
-  - AI engineering (Clause 8.5-8.5.3)
-  - Big data (Clause 8.6-8.6.1)
-  - Cloud and edge computing (Clause 8.6.2)
-  - Resource pools and ASIC (Clause 8.7-8.7.2)
+  - [AI ecosystem and function with ML (Clause 8-8.4)](#ai-ecosystem-and-function-with-ml-clause-8-84)
+  - [AI engineering (Clause 8.5-8.5.3)](#ai-engineering-clause-85-853)
+  - [Big data (Clause 8.6-8.6.1)](#big-data-clause-86-861)
+  - [Cloud and edge computing (Clause 8.6.2)](#cloud-and-edge-computing-clause-862)
+  - [Resource pools and ASIC (Clause 8.7-8.7.2)](#resource-pools-and-asic-clause-87-872)
 - [**6. Fields and Application of AI: Clause 9-10.4**](#6-fields-and-application-of-ai-clause-9-104) (4 videos)
-  - Computer vision and image recognition (Clause 9.1)
-  - Natural language processing (Clause 9.2-9.2.1)
-  - Data mining and planning (Clause 9.3-9.4)
-  - Application of AI systems (Clause 10-10.4)
+  - [Computer vision and image recognition (Clause 9.1)](#computer-vision-and-image-recognition-clause-91)
+  - [Natural language processing (Clause 9.2-9.2.1)](#natural-language-processing-clause-92-921)
+  - [Data mining and planning (Clause 9.3-9.4)](#data-mining-and-planning-clause-93-94)
+  - [Application of AI systems (Clause 10-10.4)](#application-of-ai-systems-clause-10-104)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your AI journey
+  - [Continue your AI journey](#continue-your-ai-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of a common AI language
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980)
@@ -117,13 +117,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Search]] (1), web (1), [[Cybersecurity]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - just (1)
 
 
 ### 1. AI Concepts: Clauses 5-5.10
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AI concepts (Clause 5.1)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980)
@@ -184,7 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2), self (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** ai (17), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Unstructured Data]] (1), [[Automation]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** iso (2), iec (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
@@ -250,8 +251,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), next (2), [[Microsoft Excel|Excel]] (1), [[Jetpack Compose|Compose]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** imagine (2), it's like (1), for instance (1), picture (1)
-> **Code Keywords:** super (1), let (1), function (1)
 > **Env Vars:** iso (1), iec (1), agi (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - imagine (1)
@@ -329,8 +330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (6), game (2), business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** imagine (4), for instance (1)
-> **Code Keywords:** implements (1), finally, (1), let (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** known as (1)
@@ -386,7 +387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), finally, (1), from, (1), case. (1), let (1)
+> **Frameworks & Libraries:** ai (8), data (6), next (1)
 > **Env Vars:** ascii (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), picture (1)
@@ -462,10 +463,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (4), [[Speech Recognition]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Algorithms]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** implements (1)
 > **Speakers:** - when (1)
 
 #### Genetic symbolic and subsymbolic algorithms (Clause 5.8-5.9)
@@ -531,8 +532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Algorithms]] (5), data (3), [[Routing]] (2), [[Neural Networks]] (2)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** function (2)
 > **CLI Commands:** node (1)
 > **Definitions:** known as (1)
 > **Speakers:** - there (1)
@@ -618,7 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (38), ai (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), database (1), [[Unstructured Data]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (2)
 > **Cross-References:** later in (1)
@@ -628,7 +629,7 @@ created: 2026-04-29
 
 ### 2. Machine Learning Concepts: Clauses 5.11-5.12.4
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supervised, unsupervised, and semi-supervised (Clause 5.11-5.11.3)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980)
@@ -701,7 +702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new, (2), type, (1), abstract (1), case, (1)
+> **Frameworks & Libraries:** data (14), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Programming]] (1), [[Supervised Learning]] (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -802,7 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (18), ai (4), [[Reinforcement Learning]] (2), next (2), [[Malware Detection]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
@@ -853,7 +854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1)
+> **Frameworks & Libraries:** data (8), ai (5), [[Software Development]] (1), [[Lifelong Learning]] (1), [[Algorithms]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Analogies:** for instance (1)
@@ -936,7 +937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), self (1), pass (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (6), data (3), ai (2), [[Artificial Neural Networks]] (2), [[Algorithms]] (1)
 > **Definitions:** known as (3)
 > **CLI Commands:** cat (1), find (1)
 > **Env Vars:** iso (1), iec22989 (1)
@@ -1014,9 +1015,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Neural Networks]] (3), [[Microsoft Word|Word]] (3), next (2), [[Google]] (1)
 > **Env Vars:** rnn (3), lstm (2), rnns (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** while, (1), pass (1), super (1), let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
@@ -1083,8 +1084,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (6), ai (4), data (3), [[Algorithms]] (2), [[Engineering]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** self (1), super (1), let (1), case. (1)
 > **Definitions:** means that (1), known as (1), is a  (1)
 > **Analogies:** kind of like (1), for example (1)
 > **Env Vars:** mri (1)
@@ -1221,8 +1222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Decision Trees]] (4), node (4), [[Algorithms]] (3), ai (2)
 > **CLI Commands:** node (4), make (2), find (2)
-> **Code Keywords:** continue (1), default. (1), case, (1), let (1), case. (1)
 > **Definitions:** is a  (4), is an  (2)
 > **Analogies:** imagine (2), for example (1), picture (1), for instance (1), such as (1)
 > **Env Vars:** svm (4), dna (1)
@@ -1231,7 +1232,7 @@ created: 2026-04-29
 
 ### 3. AI Technology and Administrative Controls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Autonomy, heteronomy, and automation (Clause 5.13)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980)
@@ -1300,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), else. (1), let (1)
+> **Frameworks & Libraries:** [[Automation]] (5), ai (3), [[Programming]] (2), traffic (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), refers to (1), is called (1)
 > **Analogies:** for example (1)
@@ -1383,9 +1384,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (14), data (8), [[Internet of Things (IoT)|Internet of things]] (3), ai (3), [[Algorithms]] (3)
 > **Env Vars:** cps (9)
 > **Definitions:** refers to (2), is a  (2)
-> **Code Keywords:** let (1), self (1), function (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - the (1)
@@ -1491,8 +1492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (26), data (10), [[Algorithms]] (2), generic (1), [[Hardware]] (1)
 > **Definitions:** is a  (3), refers to (1), in other words (1)
-> **Code Keywords:** new, (1), let (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
@@ -1543,7 +1544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6), business (4), power (2), data (1), next (1)
 > **Speakers:** - the (1)
 
 #### AI stakeholder roles (Clause 5.19-5.19.7)
@@ -1621,7 +1622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), raise (1), function (1)
+> **Frameworks & Libraries:** ai (30), [[Microsoft Products|Products]] (6), data (5), product (3), [[Microsoft]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** nvidia (1), aws (1), ibm (1), dgx (1)
 > **CLI Commands:** aws (1)
@@ -1632,7 +1633,7 @@ created: 2026-04-29
 
 ### 4. AI System Lifecycle and Functional Overview: Clause 6-7.4
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI system lifecycle overview (Clause 6.1)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980)
@@ -1679,8 +1680,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (6), [[Security]] (2), [[Forms]] (1), [[Privacy]] (1)
 > **Env Vars:** iso (5), iec (5), oecd (2), nxa (1)
-> **Code Keywords:** from, (1), include, (1), require (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
@@ -1778,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), interface (1), let (1)
+> **Frameworks & Libraries:** ai (17), data (8), business (5), management (5), [[Hardware]] (2)
 > **Env Vars:** iso (1), iec (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - as (1)
@@ -1850,7 +1851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), let (1)
+> **Frameworks & Libraries:** data (5), ai (3), [[Forms]] (1), [[Malware Detection]] (1), next (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -1913,7 +1914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), function (1)
+> **Frameworks & Libraries:** ai (8), next (2), data (1), [[Accountability]] (1), [[Malware Detection]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - i (1)
@@ -1921,7 +1922,7 @@ created: 2026-04-29
 
 ### 5. AI Ecosystem: Clause 8-8.7
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI ecosystem and function with ML (Clause 8-8.4)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980)
@@ -1974,8 +1975,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Hardware]] (3), cloud (2), [[Engineering]] (2), data (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** abstract (1), let (1)
 > **Cross-References:** we discussed (1), later in (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** such as (1)
@@ -2032,7 +2033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), for, (1), let (1)
+> **Frameworks & Libraries:** ai (4), [[Programming]] (3), [[Engineering]] (1), data (1), strengths (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - ai (1)
 
@@ -2093,11 +2094,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Big Data]] (6), ai (2), [[Hadoop]] (1), [[MongoDB]] (1)
 > **Definitions:** is a  (1), refers to (1), is called (1)
 > **Env Vars:** gps (1), pii (1)
 > **Cross-References:** earlier in (1), next video (1)
 > **Analogies:** for instance (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - earlier (1)
 
 #### Cloud and edge computing (Clause 8.6.2)
@@ -2153,7 +2154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** cloud (20), data (4), [[Microsoft Word|Word]] (1), [[Big Data]] (1), ai (1)
 > **Definitions:** is an  (1), means that (1)
 > **Speakers:** - sometimes (1)
 
@@ -2196,16 +2197,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Deep Learning]] (3), parallel (2), data (2), cloud (1)
 > **Env Vars:** gpu (3), npu (1), fpga (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for instance (1)
-> **Code Keywords:** require (1), let (1)
 > **Speakers:** - in (1)
 
 
 ### 6. Fields and Application of AI: Clause 9-10.4
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computer vision and image recognition (Clause 9.1)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980)
@@ -2274,10 +2275,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Vision]] (14), data (4), ai (2), [[Security]] (2), [[Real-Time]] (2)
 > **Definitions:** is a  (4), is an  (1), refers to (1), in other words (1)
 > **Analogies:** picture (2), such as (2), similar to (1)
 > **CLI Commands:** make (2), snap (1), find (1)
-> **Code Keywords:** self (1), include, (1), let (1)
 > **Env Vars:** mit (1)
 > **Speakers:** - in (1)
 
@@ -2340,9 +2341,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (6), [[Natural Language Processing (NLP)|Natural language processing]] (2), data (2), [[Google]] (2), [[Data Acquisition]] (2)
 > **Env Vars:** nlp (6), nlu (1), ner (1), jpl (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
-> **Code Keywords:** abstract (1), function (1)
 > **Definitions:** known as (1)
 > **Speakers:** - i (1)
 
@@ -2425,7 +2426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), this, (1)
+> **Frameworks & Libraries:** data (13), [[Databases]] (2), ai (2), database (1), [[Decision Trees]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** kdd (1)
 > **Cross-References:** earlier in (1)
@@ -2503,8 +2504,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (5), [[Banking]] (3), power (2), [[Security]] (1)
 > **Env Vars:** nvidia (4), lstm (2), gpu (1)
-> **Code Keywords:** let (3), this. (1), self (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
@@ -2513,7 +2514,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your AI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/continue-your-ai-journey?u=76281980)
@@ -2544,7 +2545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), function (1)
+> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (2), data (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Speakers:** - congratulations (1)

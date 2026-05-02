@@ -38,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Foundations-%20Neural%20Networks.md)
@@ -57,44 +57,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Neural networks 101: Your path to AI brilliance
-  - What you should know
+  - [Neural networks 101: Your path to AI brilliance](#neural-networks-101-your-path-to-ai-brilliance)
+  - [What you should know](#what-you-should-know)
 - [**1. What Are Neural Networks?**](#1-what-are-neural-networks) (4 videos)
-  - Neural networks: The building blocks of generative AI
-  - Machine learning and neural networks
-  - Neural network fundamentals
-  - The need for multilayer networks
+  - [Neural networks: The building blocks of generative AI](#neural-networks-the-building-blocks-of-generative-ai)
+  - [Machine learning and neural networks](#machine-learning-and-neural-networks)
+  - [Neural network fundamentals](#neural-network-fundamentals)
+  - [The need for multilayer networks](#the-need-for-multilayer-networks)
 - [**2. Key Components in Neural Network Architecture**](#2-key-components-in-neural-network-architecture) (3 videos)
-  - Layers: Input, hidden, and output
-  - Transfer and activation functions
-  - How neural networks learn
+  - [Layers: Input, hidden, and output](#layers-input-hidden-and-output)
+  - [Transfer and activation functions](#transfer-and-activation-functions)
+  - [How neural networks learn](#how-neural-networks-learn)
 - [**3. Other Types of Neural Networks**](#3-other-types-of-neural-networks) (4 videos)
-  - Convolutional neural networks (CNN)
-  - Transformer architecture: The model that redefined modern AI
-  - Why we need more than CNNs
-  - Self-attention in vision transformers
+  - [Convolutional neural networks (CNN)](#convolutional-neural-networks-cnn)
+  - [Transformer architecture: The model that redefined modern AI](#transformer-architecture-the-model-that-redefined-modern-ai)
+  - [Why we need more than CNNs](#why-we-need-more-than-cnns)
+  - [Self-attention in vision transformers](#self-attention-in-vision-transformers)
 - [**4. Build a Simple Neural Network Using Keras**](#4-build-a-simple-neural-network-using-keras) (8 videos)
-  - The Keras Sequential model
-  - Use case and determine evaluation metric
-  - Data checks and data preparation
-  - Data preprocessing
-  - Train the neural network using Keras
-  - How to use the challenge exercise files
-  - Challenge: Build a neural network
-  - Solution: Build a neural network
+  - [The Keras Sequential model](#the-keras-sequential-model)
+  - [Use case and determine evaluation metric](#use-case-and-determine-evaluation-metric)
+  - [Data checks and data preparation](#data-checks-and-data-preparation)
+  - [Data preprocessing](#data-preprocessing)
+  - [Train the neural network using Keras](#train-the-neural-network-using-keras)
+  - [How to use the challenge exercise files](#how-to-use-the-challenge-exercise-files)
+  - [Challenge: Build a neural network](#challenge-build-a-neural-network)
+  - [Solution: Build a neural network](#solution-build-a-neural-network)
 - [**5. Best Practices for Optimizing a Neural Network**](#5-best-practices-for-optimizing-a-neural-network) (6 videos)
-  - Overfitting and underfitting: Two common ANN problems
-  - Hyperparameters and neural networks
-  - How do you improve model performance?
-  - Regularization techniques to improve overfitting models
-  - Challenge: Manually tune hyperparameters
-  - Solution: Manually tune hyperparameters
+  - [Overfitting and underfitting: Two common ANN problems](#overfitting-and-underfitting-two-common-ann-problems)
+  - [Hyperparameters and neural networks](#hyperparameters-and-neural-networks)
+  - [How do you improve model performance?](#how-do-you-improve-model-performance)
+  - [Regularization techniques to improve overfitting models](#regularization-techniques-to-improve-overfitting-models)
+  - [Challenge: Manually tune hyperparameters](#challenge-manually-tune-hyperparameters)
+  - [Solution: Manually tune hyperparameters](#solution-manually-tune-hyperparameters)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Neural networks 101: Your path to AI brilliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Neural Networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), career (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [gwendolyn] (1)
@@ -134,13 +135,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Neural Networks]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Python (Programming Language)|Python]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. What Are Neural Networks?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Neural networks: The building blocks of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980)
@@ -205,9 +207,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Generative AI]] (7), [[Neural Networks]] (6), data (1), game (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (1), think of it as (1), for example (1), just like (1)
-> **Code Keywords:** let (1)
 
 #### Machine learning and neural networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980)
@@ -280,7 +282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), case, (1)
+> **Frameworks & Libraries:** data (12), [[Neural Networks]] (4), [[Artificial Neural Networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [narrator] (1)
@@ -352,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), self (1), let (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (8), data (2), parallel (2), [[Google]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** later in (1)
 > **Analogies:** think of it as (1)
@@ -454,14 +456,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (2), [[Decision-Making]] (1), [[Deep Learning]] (1), power (1)
 > **CLI Commands:** find (2), cat (1)
 > **Env Vars:** mlp (2)
 
 
 ### 2. Key Components in Neural Network Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Layers: Input, hidden, and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/layers-input-hidden-and-output?u=76281980)
@@ -516,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), function (1), case, (1), let (1)
+> **Frameworks & Libraries:** data (4), node (2), [[Neural Networks]] (1), next (1)
 > **CLI Commands:** node (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -580,7 +582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (2)
+> **Frameworks & Libraries:** node (5), [[Neural Networks]] (3), data (2), product (1)
 > **CLI Commands:** node (5), make (1)
 > **Definitions:** is a  (4), defined as (1)
 > **Analogies:** similar to (1)
@@ -680,14 +682,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), pass (4), case. (1), case, (1)
+> **Frameworks & Libraries:** data (3), [[Neural Networks]] (2), [[Supervised Learning]] (1), [[Calculus]] (1), game (1)
 > **Definitions:** known as (2), is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Other Types of Neural Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Convolutional neural networks (CNN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980)
@@ -818,11 +820,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), feature (6), [[Neural Networks]] (5), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (4), cnn (4)
 > **Analogies:** such as (5), similar to (2), for example (2)
 > **CLI Commands:** cat (5), make (1)
 > **Env Vars:** cnn (4)
 > **Definitions:** known as (1), is an  (1), is a  (1)
-> **Code Keywords:** let (1), self (1)
 > **Speakers:** - [instructor] (1)
 
 #### Transformer architecture: The model that redefined modern AI
@@ -900,9 +902,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (2), ai (1), [[Neural Networks]] (1), parallel (1)
 > **Analogies:** for example (2), imagine (1), similar to (1)
 > **CLI Commands:** cat (2)
-> **Code Keywords:** let (1), self (1)
 
 #### Why we need more than CNNs
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980)
@@ -969,7 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), self (1)
+> **Frameworks & Libraries:** feature (3), [[Computer Vision]] (2), cnn (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Tokens]] (1)
 > **Env Vars:** cnn (2)
 > **Analogies:** for example (2)
 
@@ -1064,7 +1066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1), this. (1), require (1)
+> **Frameworks & Libraries:** product (2), next (2), feature (1), [[Tokens]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Env Vars:** p16 (1), k16 (1), swin (1)
 > **Analogies:** for example (2), just like (1)
 > **Versions:** 1.0 (1)
@@ -1072,7 +1074,7 @@ created: 2026-04-29
 
 ### 4. Build a Simple Neural Network Using Keras
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Keras Sequential model
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980)
@@ -1137,8 +1139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), data (2), [[Neural Networks]] (1), application (1), [[Programming]] (1)
 > **Env Vars:** api (8)
-> **Code Keywords:** require (1), let (1), interface (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), such as (1)
 > **Warnings:** note that (1)
@@ -1219,9 +1221,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Linear Regression]] (3), [[Microsoft Products|Products]] (1), [[Neural Networks]] (1), product (1)
 > **Env Vars:** rmse (3), mse (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** this, (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1277,9 +1279,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[GitHub]] (1), [[Statistics]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Tools:** jupyter (2), github (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** github repo (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -1324,9 +1326,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), feature (1)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Code Identifiers:** train_test_split (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1442,8 +1444,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (6), is an  (2), means that (1), refers to (1), is called (1)
-> **Code Keywords:** function (5), let (1)
 > **Code Identifiers:** y_train (1), validation_data (1)
 > **Versions:** 4.67 (1), 4.72 (1)
 > **CLI Commands:** python (1)
@@ -1488,9 +1490,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Google]] (1)
 > **Exercise Files:** download the (2), clone the repo (1), exercise files (1)
 > **Tools:** github (3)
-> **Code Keywords:** let (2)
 > **UI Navigation:** open the (1), click on (1)
 > **Env Vars:** zip (1)
 > **Speakers:** - [instructor] (1)
@@ -1522,7 +1524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), try. (1), this. (1)
+> **Frameworks & Libraries:** [[Google]] (1), next (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1616,7 +1618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2)
+> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (2), [[GitHub]] (1), [[Statistics]] (1), feature (1)
 > **Env Vars:** api (1), mse (1)
 > **Tools:** github (1), atom (1)
 > **CLI Commands:** make (1)
@@ -1627,7 +1629,7 @@ created: 2026-04-29
 
 ### 5. Best Practices for Optimizing a Neural Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overfitting and underfitting: Two common ANN problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/overfitting-and-underfitting-two-common-ann-problems?u=76281980)
@@ -1718,10 +1720,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21)
 > **Definitions:** is a  (5), means that (1)
 > **Cross-References:** later in (2), previous chapter (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1786,7 +1788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1), function (1)
+> **Frameworks & Libraries:** data (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1)
 > **Cross-References:** previous video (2), later in (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
@@ -1859,7 +1861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), continue (1), let (1)
+> **Frameworks & Libraries:** data (1), node (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **CLI Commands:** make (1), node (1)
 > **Versions:** 0.001 (1)
@@ -1973,8 +1975,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), feature (2), node (1), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (5), means that (4), known as (2), refers to (1)
-> **Code Keywords:** function (7), let (1), yield (1)
 > **CLI Commands:** make (2), node (1)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** best practice (1)
@@ -2001,6 +2003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Tools:** colab (1)
 > **Definitions:** is a  (1)
@@ -2037,7 +2040,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **UI Navigation:** scroll down (2)
 > **Speakers:** - [instructor] (1)
@@ -2046,7 +2048,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980)
@@ -2083,9 +2085,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[LinkedIn]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[Logistic Regression]] (1)
 > **Tools:** colab (1), jupyter (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)

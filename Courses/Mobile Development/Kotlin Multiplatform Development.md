@@ -31,7 +31,7 @@ tags:
   - skill/kotlin
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Kotlin%20Multiplatform%20Development.md)
@@ -50,52 +50,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Kotlin multiplatform development
-  - What you should know
+  - [Kotlin multiplatform development](#kotlin-multiplatform-development)
+  - [What you should know](#what-you-should-know)
 - [**1. Creating Our First Multiplatform App**](#1-creating-our-first-multiplatform-app) (7 videos)
-  - The problem Kotlin Multiplatform solves
-  - Comparison with alternatives
-  - Supported platforms and performance
-  - Just what the KDoctor ordered
-  - Android studio for KMP
-  - Xcode for KMP
-  - Crafting a template with the Kotlin Multiplatform wizard
+  - [The problem Kotlin Multiplatform solves](#the-problem-kotlin-multiplatform-solves)
+  - [Comparison with alternatives](#comparison-with-alternatives)
+  - [Supported platforms and performance](#supported-platforms-and-performance)
+  - [Just what the KDoctor ordered](#just-what-the-kdoctor-ordered)
+  - [Android studio for KMP](#android-studio-for-kmp)
+  - [Xcode for KMP](#xcode-for-kmp)
+  - [Crafting a template with the Kotlin Multiplatform wizard](#crafting-a-template-with-the-kotlin-multiplatform-wizard)
 - [**2. Combining Native with Multiplatform**](#2-combining-native-with-multiplatform) (6 videos)
-  - Building our first multiplatform app
-  - Whether to use Compose Multiplatform
-  - Expect and actual
-  - An actual example
-  - Accessing operating system methods
-  - Multiplatform project structure
+  - [Building our first multiplatform app](#building-our-first-multiplatform-app)
+  - [Whether to use Compose Multiplatform](#whether-to-use-compose-multiplatform)
+  - [Expect and actual](#expect-and-actual)
+  - [An actual example](#an-actual-example)
+  - [Accessing operating system methods](#accessing-operating-system-methods)
+  - [Multiplatform project structure](#multiplatform-project-structure)
 - [**3. KMP and Swift**](#3-kmp-and-swift) (3 videos)
-  - Using Kotlin from Swift code
-  - Making it easier with Swift export
-  - KMP together with SwiftUI
+  - [Using Kotlin from Swift code](#using-kotlin-from-swift-code)
+  - [Making it easier with Swift export](#making-it-easier-with-swift-export)
+  - [KMP together with SwiftUI](#kmp-together-with-swiftui)
 - [**4. Architecture**](#4-architecture) (2 videos)
-  - Recommended architecture with MVVM
-  - Google ViewModel
+  - [Recommended architecture with MVVM](#recommended-architecture-with-mvvm)
+  - [Google ViewModel](#google-viewmodel)
 - [**5. Sharing Network**](#5-sharing-network) (4 videos)
-  - Adding Ktor to your project
-  - Modeling with Kotlinx-serialization
-  - Making network requests
-  - Apollo GraphQL
+  - [Adding Ktor to your project](#adding-ktor-to-your-project)
+  - [Modeling with Kotlinx-serialization](#modeling-with-kotlinx-serialization)
+  - [Making network requests](#making-network-requests)
+  - [Apollo GraphQL](#apollo-graphql)
 - [**6. Sharing Database**](#6-sharing-database) (4 videos)
-  - Adding SQLDelight to your project
-  - Setting up your database and adding objects
-  - Creating queries
-  - Going with the flow
+  - [Adding SQLDelight to your project](#adding-sqldelight-to-your-project)
+  - [Setting up your database and adding objects](#setting-up-your-database-and-adding-objects)
+  - [Creating queries](#creating-queries)
+  - [Going with the flow](#going-with-the-flow)
 - [**7. Quality of Life**](#7-quality-of-life) (5 videos)
-  - Kermit for logging
-  - Managing resources
-  - KOIN for dependency injection
-  - Storing values in multiplatform-settings
-  - Dates in Kotlinx-datetime
+  - [Kermit for logging](#kermit-for-logging)
+  - [Managing resources](#managing-resources)
+  - [KOIN for dependency injection](#koin-for-dependency-injection)
+  - [Storing values in multiplatform-settings](#storing-values-in-multiplatform-settings)
+  - [Dates in Kotlinx-datetime](#dates-in-kotlinx-datetime)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kotlin multiplatform development
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980)
@@ -122,7 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** [[Kotlin Multiplatform]] (2), [[Kotlin]] (2), web (1), ai (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - are (1)
@@ -150,6 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (4), [[Swift (Programming Language)|Swift]] (1)
 > **Tools:** terminal (1), command line (1)
 > **UI Navigation:** go to (1), click on (1)
 > **URLs:** [kotlinlang.org](https://kotlinlang.org) (1)
@@ -159,7 +160,7 @@ created: 2026-04-29
 
 ### 1. Creating Our First Multiplatform App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The problem Kotlin Multiplatform solves
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980)
@@ -226,7 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), require (1), function (1)
+> **Frameworks & Libraries:** [[Kotlin Multiplatform]] (5), [[Kotlin]] (3), web (2), [[JavaScript]] (2), [[Hardware]] (2)
 > **Env Vars:** jvm (1), llvm (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -291,10 +292,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin Multiplatform|Kmp]] (9), [[Kotlin Multiplatform]] (7), [[Kotlin]] (3), business (2), [[Hardware]] (1)
 > **Env Vars:** kmp (9)
 > **Code Identifiers:** ios (2), macos (1), watchos (1), visionos (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** interface (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -344,7 +345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), function (1)
+> **Frameworks & Libraries:** [[Kotlin]] (7), [[JavaScript]] (5), web (3), [[Java]] (3), [[Android]] (3)
 > **Code Identifiers:** ios (2), watchos (1), tvos (1)
 > **Env Vars:** jvm (2), llvm (1)
 > **CLI Commands:** python (1)
@@ -418,6 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), [[Android]] (5), [[Kotlin Multiplatform]] (4), [[Windows]] (2), [[Linux]] (2)
 > **CLI Commands:** make (4), brew (3), find (2), sudo (1), ruby (1)
 > **Tools:** command line (3), terminal (3), bash (1)
 > **Prerequisites:** install (6), setup (1)
@@ -425,7 +427,6 @@ created: 2026-04-29
 > **Env Vars:** url (1), sdk (1), java_home (1)
 > **File Paths:** brew.sh (1)
 > **UI Navigation:** go to (1)
-> **Speakers:** - [instructor] (1)
 
 #### Android studio for KMP
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980)
@@ -610,7 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), module (2), interface (2), switch (1)
+> **Frameworks & Libraries:** [[Android]] (16), [[Kotlin Multiplatform]] (6), web (5), hit (5), [[Jetpack Compose|Compose]] (4)
 > **Code Identifiers:** ios (12), iphone (1)
 > **Env Vars:** ide (7), wasm (3)
 > **UI Navigation:** go to (3), dropdown (2), select the (2), click on (1)
@@ -700,11 +701,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (15), [[Kotlin]] (11), [[Swift (Programming Language)|Swift]] (3), [[Kotlin Multiplatform|Kmp]] (2), next (2)
 > **Code Identifiers:** ios (4), composeapp (1), commonmain (1), iphone (1)
 > **Prerequisites:** install (5), make sure you have (1), setup (1)
 > **CLI Commands:** make (2), brew (2)
 > **UI Navigation:** go to (3), select the (1)
-> **Code Keywords:** require (1), finally, (1)
 > **Env Vars:** kmp (2)
 > **File Paths:** brew.sh (1)
 > **Cross-References:** in the next (1)
@@ -746,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Kotlin Multiplatform|Kmp]] (1), dns (1), next (1), [[Android]] (1), web (1)
 > **Env Vars:** url (1), dns (1), download (1)
 > **Exercise Files:** template (2), boilerplate (1)
 > **Code Identifiers:** ios (2)
@@ -758,7 +759,7 @@ created: 2026-04-29
 
 ### 2. Combining Native with Multiplatform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building our first multiplatform app
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980)
@@ -851,7 +852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (1), this, (1)
+> **Frameworks & Libraries:** [[Android]] (6), [[Gradle]] (6), web (6), [[Kotlin Multiplatform]] (3), hit (3)
 > **Code Identifiers:** ios (3), desktopmain (1), wasmjsbrowserdevelopment (1)
 > **UI Navigation:** open the (2), double-click (1), go to (1), select the (1)
 > **Exercise Files:** template (3), zip file (1)
@@ -913,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (1), require (1), case, (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Android]] (7), [[Kotlin Multiplatform|Multiplatform]] (5), [[Jetpack Compose]] (4), [[Kotlin]] (2)
 > **Code Identifiers:** ios (4)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** kmp (2)
@@ -974,7 +975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5)
+> **Frameworks & Libraries:** [[Kotlin]] (10), [[Kotlin Multiplatform]] (3), feature (2), [[Kotlin Multiplatform|Kmp]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** kmp (1)
 > **Exercise Files:** template (1)
@@ -1088,7 +1089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (3), delete (2), module (1), finally, (1)
+> **Frameworks & Libraries:** [[Android]] (6), [[Kotlin]] (5), web (5), [[Jetpack Compose|Compose]] (2), feature (1)
 > **Env Vars:** todo (5), ide (3), wasm (3), kmp (1)
 > **Code Identifiers:** ios (5), commonmain (1), val_world (1), platformfunction (1)
 > **UI Navigation:** go to (5), open the (1)
@@ -1168,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), finally, (2), interface (1), case, (1)
+> **Frameworks & Libraries:** [[Android]] (8), [[Jetpack Compose|Compose]] (5), [[Kotlin Multiplatform|Multiplatform]] (2), application (2), [[Kotlin Multiplatform]] (2)
 > **Code Identifiers:** ios (4), maketext (2), rootviewcontroller (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)
@@ -1249,9 +1250,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (7), [[Android]] (4), [[Gradle]] (4), [[Kotlin Multiplatform]] (3), web (2)
 > **Code Identifiers:** ios (9), composeapp (2)
 > **Env Vars:** jvm (5), arm (3), kmp (1)
-> **Code Keywords:** module (3), let (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -1261,7 +1262,7 @@ created: 2026-04-29
 
 ### 3. KMP and Swift
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Kotlin from Swift code
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980)
@@ -1346,7 +1347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), this, (2), let (1), enum (1), export. (1)
+> **Frameworks & Libraries:** [[Kotlin]] (16), [[Swift (Programming Language)|Swift]] (16), [[Xcode]] (2), [[Programming]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ios (2), greeting_ioskt (1)
 > **Analogies:** for example (2), such as (1)
@@ -1435,7 +1436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), async (1), await (1), while, (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (16), [[Kotlin]] (12), [[Kotlin Multiplatform|Kmp]] (5), [[Gradle]] (5), feature (3)
 > **Env Vars:** kmp (5), skie (3)
 > **Code Identifiers:** swiftexport (2), useclassfroma (2), flattenpackage (1)
 > **File Paths:** gradle/libs.versions.toml (1), kotlin.experimental.swift (1), project/shared/build.gradle (1), contentview.swift (1)
@@ -1515,8 +1516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (16), [[Jetpack Compose|Compose]] (11), [[Android]] (4), [[Kotlin]] (3), [[Google]] (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** interface (2), function (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** ios (1)
 > **Cross-References:** in the last (1)
@@ -1527,7 +1528,7 @@ created: 2026-04-29
 
 ### 4. Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recommended architecture with MVVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980)
@@ -1580,9 +1581,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin Multiplatform]] (3), [[Software Architecture]] (2), [[Google]] (2), [[Android]] (2), data (2)
 > **Env Vars:** mvvm (4), kmp (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (2)
 > **Code Identifiers:** ios (2)
 > **Speakers:** - [presenter] (1)
 
@@ -1705,7 +1706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), public (3), this. (2), private (2), let (2)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Android]] (5), [[Gradle]] (3), data (3), [[Google]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3), defined as (1)
 > **Code Identifiers:** ios (1)
@@ -1717,7 +1718,7 @@ created: 2026-04-29
 
 ### 5. Sharing Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding Ktor to your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980)
@@ -1820,8 +1821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ktor]] (14), [[Android]] (7), [[Gradle]] (6), [[Kotlin]] (4), [[JSON]] (3)
 > **Env Vars:** jvm (3), http (2), rest (2), json (1), readme (1)
-> **Code Keywords:** module (3), let (2), finally, (2), case. (1), function (1)
 > **CLI Commands:** make (6), find (1)
 > **Code Identifiers:** composeapp (1), androidmain (1), commonmain (1), ios (1), desktopmain (1)
 > **File Paths:** build.gradle (3), ktor.serialization.json (1)
@@ -1904,8 +1905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (11), data (9), api (6), [[Kotlin]] (5), [[Kotlin Multiplatform|Kmp]] (1)
 > **Env Vars:** api (6), json (1), kmp (1), http (1)
-> **Code Keywords:** require (1), interface (1), type. (1), this. (1), pass (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** islenient (1)
@@ -2020,8 +2021,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), [[Kotlin]] (3), [[Dependency Injection]] (2), [[JSON]] (2), [[Android]] (2)
 > **Env Vars:** api (8), http (3), url (3), json (2)
-> **Code Keywords:** function (5), let (2), finally, (2), module (1), this. (1)
 > **Code Identifiers:** ios (2), gettopstories (1), storiesids (1)
 > **Definitions:** is a  (2), means that (1)
 > **File Paths:** app.kt (1)
@@ -2154,8 +2155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[GitHub]] (7), api (4), [[Representational State Transfer (REST)|Rest]] (3), [[Gradle]] (3)
 > **Env Vars:** api (4), url (4), rest (3), kmp (1), post (1)
-> **Code Keywords:** finally, (5), function (5), public (3), require (1), else. (1)
 > **Tools:** github (7)
 > **Code Identifiers:** commonmain (3), composeapp (1), dataassertnoerrors (1), ios (1)
 > **API Endpoints:** get  (1), post  (1), put  (1)
@@ -2166,7 +2167,7 @@ created: 2026-04-29
 
 ### 6. Sharing Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding SQLDelight to your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980)
@@ -2289,7 +2290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (2), finally, (2), delete (2), this, (2)
+> **Frameworks & Libraries:** database (11), [[Android]] (8), next (3), [[SQL]] (3), data (2)
 > **Code Identifiers:** ios (2), selectall (2), createdriver (2), createdatabase (2), composeapp (1)
 > **Env Vars:** jvm (3), sql (3), kmp (2), insert (1), replace (1)
 > **File Paths:** libs.versions.toml (2)
@@ -2365,8 +2366,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (11), database (7), next (2), [[Databases]] (1), data (1)
 > **Env Vars:** sql (11)
-> **Code Keywords:** delete (3), pass (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** means that (1), is a  (1)
@@ -2424,9 +2425,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (17), data (3), [[SQL]] (2), [[Kotlin]] (2), [[Gradle]] (1)
 > **Code Identifiers:** topstoryqueries (3), selectall (2), toprepoqueries (1), topstories (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1), let (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2503,9 +2504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[SQL]] (6), [[Gradle]] (4), [[Kotlin]] (3), [[Android]] (3)
 > **Env Vars:** sql (6), kts (2)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** interface (3), this, (1), function (1)
 > **Code Identifiers:** ios (2)
 > **UI Navigation:** open the (1), go to (1)
 > **Warnings:** note that (1)
@@ -2514,7 +2515,7 @@ created: 2026-04-29
 
 ### 7. Quality of Life
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kermit for logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980)
@@ -2587,8 +2588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gradle]] (2), database (2), [[Debugging]] (1), cloud (1), [[Kotlin]] (1)
 > **CLI Commands:** cat (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** kts (1)
 > **Analogies:** for example (1)
@@ -2655,7 +2656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), function (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), [[Android]] (5), [[Kotlin Multiplatform|Multiplatform]] (4), ai (2), [[Kotlin]] (1)
 > **Code Identifiers:** commonmain (1), composeresources (1), insert_story (1), ios (1)
 > **Env Vars:** xml (1), svg (1), jpeg (1), png (1)
 > **Analogies:** for example (3), similar to (1)
@@ -2811,8 +2812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (9), application (7), [[Dependency Injection]] (4), [[Jetpack Compose|Compose]] (4), database (2)
 > **Code Identifiers:** ios (4), singleof (3), createdatabase (3), startkoin (2), viewmodelof (2)
-> **Code Keywords:** module (8), this. (4), pass (4), let (2), function (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** dsl (1), http (1), sql (1)
 > **Definitions:** is a  (2), is called (1)
@@ -3089,7 +3090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), class. (3), module (3), pass (3)
+> **Frameworks & Libraries:** data (9), [[Android]] (9), database (7), [[Kotlin Multiplatform|Kmp]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** ios (11), composeapp (1), androidmain (1)
 > **Env Vars:** kmp (2), sql (1), arg (1), ktx (1), jvm (1)
 > **Definitions:** is a  (8), is an  (2)
@@ -3227,7 +3228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), let (2), function (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Excel]] (1), [[Kotlin Multiplatform]] (1), [[Kotlin]] (1), database (1)
 > **Env Vars:** iso (1), jvm (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
@@ -3239,7 +3240,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980)
@@ -3272,7 +3273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Kotlin]] (4), [[Kotlin Multiplatform]] (1), [[LinkedIn]] (1), [[Jetpack Compose|Compose]] (1), [[Kotlin Multiplatform|Multiplatform]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

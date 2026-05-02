@@ -40,7 +40,7 @@ tags:
   - topic/web-development
   - skill/nosql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/NoSQL%20Essential%20Training.md)
@@ -59,43 +59,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Get to know NoSQL
-  - What you should know
-  - 2024 update
+  - [Get to know NoSQL](#get-to-know-nosql)
+  - [What you should know](#what-you-should-know)
+  - [2024 update](#2024-update)
 - [**1. What Is NoSQL?**](#1-what-is-nosql) (7 videos)
-  - Why the hype over NoSQL?
-  - NoSQL compared to traditional relational databases
-  - CAP theorem
-  - Explore a NoSQL database
-  - Query a NoSQL database
-  - Challenge: NoSQL query
-  - Solution: NoSQL query
+  - [Why the hype over NoSQL?](#why-the-hype-over-nosql)
+  - [NoSQL compared to traditional relational databases](#nosql-compared-to-traditional-relational-databases)
+  - [CAP theorem](#cap-theorem)
+  - [Explore a NoSQL database](#explore-a-nosql-database)
+  - [Query a NoSQL database](#query-a-nosql-database)
+  - [Challenge: NoSQL query](#challenge-nosql-query)
+  - [Solution: NoSQL query](#solution-nosql-query)
 - [**2. Different Types of NoSQL Databases**](#2-different-types-of-nosql-databases) (7 videos)
-  - Overview of NoSQL database types
-  - NoSQL key-value store type
-  - NoSQL document store type
-  - NoSQL wide column store type
-  - NoSQL graph data store type
-  - Challenge: Which NoSQL database is right for the job
-  - Solution: Common jobs for each type of NoSQL store
+  - [Overview of NoSQL database types](#overview-of-nosql-database-types)
+  - [NoSQL key-value store type](#nosql-key-value-store-type)
+  - [NoSQL document store type](#nosql-document-store-type)
+  - [NoSQL wide column store type](#nosql-wide-column-store-type)
+  - [NoSQL graph data store type](#nosql-graph-data-store-type)
+  - [Challenge: Which NoSQL database is right for the job](#challenge-which-nosql-database-is-right-for-the-job)
+  - [Solution: Common jobs for each type of NoSQL store](#solution-common-jobs-for-each-type-of-nosql-store)
 - [**3. Pros and Cons of NoSQL**](#3-pros-and-cons-of-nosql) (4 videos)
-  - Where NoSQL thrives
-  - Where NoSQL fails
-  - Challenge: Relational or NoSQL
-  - Solution: Relational or NoSQL
+  - [Where NoSQL thrives](#where-nosql-thrives)
+  - [Where NoSQL fails](#where-nosql-fails)
+  - [Challenge: Relational or NoSQL](#challenge-relational-or-nosql)
+  - [Solution: Relational or NoSQL](#solution-relational-or-nosql)
 - [**4. Is NoSQL Right for Your Job?**](#4-is-nosql-right-for-your-job) (3 videos)
-  - Is NoSQL right for you?
-  - Database considerations
-  - Choosing between NoSQL databases
+  - [Is NoSQL right for you?](#is-nosql-right-for-you)
+  - [Database considerations](#database-considerations)
+  - [Choosing between NoSQL databases](#choosing-between-nosql-databases)
 - [**5. Vector Databases**](#5-vector-databases) (2 videos)
-  - Introduction to vector databases
-  - Benefits and use cases of vector databases
+  - [Introduction to vector databases](#introduction-to-vector-databases)
+  - [Benefits and use cases of vector databases](#benefits-and-use-cases-of-vector-databases)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get to know NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/get-to-know-nosql?u=76281980)
@@ -142,8 +142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (7), database (4), web (2), [[SQL]] (2), data (2)
 > **Env Vars:** sql (2), ceo (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [melanie] (1)
 
@@ -176,6 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (5), product (1), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -191,13 +192,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (2), [[Vector Databases]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. What Is NoSQL?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why the hype over NoSQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/why-the-hype-over-nosql?u=76281980)
@@ -270,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (9), [[Relational Databases]] (6), [[SQL]] (4), [[Agile Development|Agile]] (3), [[Big Data]] (3)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (2), super (1)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [narrator] (1)
@@ -327,7 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[NoSQL]] (5), [[Relational Databases]] (5), data (3), [[Databases]] (1), business (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -389,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), finally, (1)
+> **Frameworks & Libraries:** data (10), [[NoSQL]] (4), [[Relational Databases]] (3), database (2), [[Banking]] (1)
 > **Env Vars:** cap (3)
 > **Definitions:** stands for (1), means that (1)
 > **CLI Commands:** cp (1)
@@ -440,11 +442,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (6), [[MongoDB]] (6), database (5), [[Databases]] (3), data (2)
 > **Prerequisites:** setup (2), set up (2)
 > **CLI Commands:** mongo (1), find (1)
 > **URLs:** [mongodb.com](https://mongodb.com) (2)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** delete (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -532,7 +534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type. (2), case, (2), interface (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (3), [[MongoDB]] (1), hit (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -552,6 +554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright rhythmic music) (1)
@@ -627,7 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), type. (2), for. (1), finally, (1)
+> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2), [[NoSQL]] (1), [[Databases]] (1)
 > **Versions:** 1.0 (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -639,7 +642,7 @@ created: 2026-04-29
 
 ### 2. Different Types of NoSQL Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of NoSQL database types
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/overview-of-nosql-database-types?u=76281980)
@@ -674,7 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (1)
+> **Frameworks & Libraries:** [[NoSQL]] (6), [[Databases]] (3), data (2), [[Relational Databases]] (1), web (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -705,7 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Redis]] (3), [[NoSQL]] (2), [[Databases]] (2), [[Unstructured Data]] (1), data (1)
 > **Speakers:** - [narrator] (1)
 
 #### NoSQL document store type
@@ -741,9 +744,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (4), [[JSON]] (4), [[MongoDB]] (3), database (2), next (1)
 > **Env Vars:** json (4), bson (1), sql (1), cms (1)
 > **Analogies:** similar to (3), for example (1), think of it as (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -795,8 +798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Databases]] (4), database (4), [[SQL]] (3), [[NoSQL]] (2)
 > **Env Vars:** sql (3), cql (2)
-> **Code Keywords:** let (3), this, (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** it's best to (1)
 > **Warnings:** note that (1)
@@ -835,7 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Databases]] (4), data (3), [[Neo4j]] (2), [[NoSQL]] (1), node (1)
 > **CLI Commands:** node (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -887,7 +890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[NoSQL]] (6), database (5), data (4), next (3), cms (2)
 > **Env Vars:** cms (2)
 > **Cross-References:** we discussed (1), next video (1)
 > **Speakers:** - [instructor] (1)
@@ -934,7 +937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (4), database (3), [[NoSQL]] (2), next (2), [[Databases]] (1)
 > **Env Vars:** cms (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -942,7 +945,7 @@ created: 2026-04-29
 
 ### 3. Pros and Cons of NoSQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where NoSQL thrives
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/where-nosql-thrives?u=76281980)
@@ -999,9 +1002,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NoSQL]] (8), application (3), data (3), [[Relational Databases]] (2), [[Databases]] (2)
 > **Env Vars:** cap (3)
 > **Definitions:** is an  (1), stands for (1)
-> **Code Keywords:** this. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1048,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1)
+> **Frameworks & Libraries:** [[NoSQL]] (4), data (4), database (2), [[SQL]] (2), [[Banking]] (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1090,7 +1093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[NoSQL]] (3), next (2), database (1), [[Agile Development|Agile]] (1), web application (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1139,14 +1142,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** data (4), [[NoSQL]] (3), [[Scalability]] (3), database (3), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Is NoSQL Right for Your Job?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Is NoSQL right for you?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/is-nosql-right-for-you?u=76281980)
@@ -1209,9 +1212,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[NoSQL]] (7), [[Relational Databases]] (6), [[Databases]] (4), [[Agile Development|Agile]] (2)
 > **Env Vars:** cap (1), sql (1), atm (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1264,7 +1267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** [[NoSQL]] (7), database (2), [[Agile Development|Agile]] (2), product (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1316,7 +1319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), for. (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[NoSQL]] (6), database (5), data (3), [[Databases]] (2), [[MongoDB]] (2)
 > **CLI Commands:** cp (5), mongo (1)
 > **Env Vars:** cap (2), hbase (2)
 > **Speakers:** - [instructor] (1)
@@ -1324,7 +1327,7 @@ created: 2026-04-29
 
 ### 5. Vector Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/introduction-to-vector-databases?u=76281980)
@@ -1345,6 +1348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (3), ai (2), [[NoSQL]] (2), [[Vector Databases]] (2)
 > **Analogies:** just like (1), such as (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1382,7 +1386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Vector Databases]] (3), [[SQL]] (2), data (1), [[Databases]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -1391,7 +1395,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/next-steps-24076573?u=76281980)
@@ -1428,7 +1432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (3), [[LinkedIn]] (2), [[NoSQL]] (1), [[MongoDB]] (1), [[Redis]] (1)
 > **URLs:** [wecancodeit.org](https://wecancodeit.org) (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [melanie] (1)

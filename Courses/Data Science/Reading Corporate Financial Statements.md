@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/financial-statements
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Reading%20Corporate%20Financial%20Statements.md)
@@ -47,41 +47,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of financial statements
+  - [The power of financial statements](#the-power-of-financial-statements)
 - [**1. The Basics of Financial Statement Preparation**](#1-the-basics-of-financial-statement-preparation) (6 videos)
-  - What stories do financial statements tell?
-  - The role of the accounting cycle
-  - Understanding year-end close
-  - Finding financial statements for publicly traded companies
-  - Challenge: Finding financial statements
-  - Solution: Finding financial statements
+  - [What stories do financial statements tell?](#what-stories-do-financial-statements-tell)
+  - [The role of the accounting cycle](#the-role-of-the-accounting-cycle)
+  - [Understanding year-end close](#understanding-year-end-close)
+  - [Finding financial statements for publicly traded companies](#finding-financial-statements-for-publicly-traded-companies)
+  - [Challenge: Finding financial statements](#challenge-finding-financial-statements)
+  - [Solution: Finding financial statements](#solution-finding-financial-statements)
 - [**2. The Basics of Income Statement Preparation**](#2-the-basics-of-income-statement-preparation) (4 videos)
-  - Recognizing revenue and understanding the revenue recognition principle
-  - Recording expenses using the matching principle
-  - Challenge: Working with the income statement
-  - Solution: Working with the income statement
+  - [Recognizing revenue and understanding the revenue recognition principle](#recognizing-revenue-and-understanding-the-revenue-recognition-principle)
+  - [Recording expenses using the matching principle](#recording-expenses-using-the-matching-principle)
+  - [Challenge: Working with the income statement](#challenge-working-with-the-income-statement)
+  - [Solution: Working with the income statement](#solution-working-with-the-income-statement)
 - [**3. The Basics of Balance Sheet Preparation**](#3-the-basics-of-balance-sheet-preparation) (5 videos)
-  - The accounting equation and the assets section of the balance sheet
-  - The accounting equation and the liabilities section of the balance sheet
-  - The accounting equation and the equity section of the balance sheet
-  - Challenge: Working with the balance sheet
-  - Solution: Working with the balance sheet
+  - [The accounting equation and the assets section of the balance sheet](#the-accounting-equation-and-the-assets-section-of-the-balance-sheet)
+  - [The accounting equation and the liabilities section of the balance sheet](#the-accounting-equation-and-the-liabilities-section-of-the-balance-sheet)
+  - [The accounting equation and the equity section of the balance sheet](#the-accounting-equation-and-the-equity-section-of-the-balance-sheet)
+  - [Challenge: Working with the balance sheet](#challenge-working-with-the-balance-sheet)
+  - [Solution: Working with the balance sheet](#solution-working-with-the-balance-sheet)
 - [**4. The Basics of Statement of Cash Flow Preparation**](#4-the-basics-of-statement-of-cash-flow-preparation) (5 videos)
-  - The impact of operating activities on the cash flow statement
-  - The impact of investing activities on the cash flow statement
-  - The impact of financing activities on the cash flow statement
-  - Challenge: Working with the statement of cash flow
-  - Solution: Working with the statement of cash flow
+  - [The impact of operating activities on the cash flow statement](#the-impact-of-operating-activities-on-the-cash-flow-statement)
+  - [The impact of investing activities on the cash flow statement](#the-impact-of-investing-activities-on-the-cash-flow-statement)
+  - [The impact of financing activities on the cash flow statement](#the-impact-of-financing-activities-on-the-cash-flow-statement)
+  - [Challenge: Working with the statement of cash flow](#challenge-working-with-the-statement-of-cash-flow)
+  - [Solution: Working with the statement of cash flow](#solution-working-with-the-statement-of-cash-flow)
 - [**5. The Basics of Statement of Stockholders' Equity Preparation**](#5-the-basics-of-statement-of-stockholders-equity-preparation) (3 videos)
-  - Understanding the statement of stockholder's equity
-  - Challenge: Working with the statement of stockholders' equity
-  - Solution: Working with the statement of stockholders' equity
+  - [Understanding the statement of stockholder's equity](#understanding-the-statement-of-stockholders-equity)
+  - [Challenge: Working with the statement of stockholders' equity](#challenge-working-with-the-statement-of-stockholders-equity)
+  - [Solution: Working with the statement of stockholders' equity](#solution-working-with-the-statement-of-stockholders-equity)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your next steps in creating financial statements
+  - [Your next steps in creating financial statements](#your-next-steps-in-creating-financial-statements)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980)
@@ -122,15 +122,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (7), business (2), next (1), leadership (1), career (1)
 > **Env Vars:** cpa (3)
-> **Code Keywords:** pass (1), let (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - you (1)
 
 
 ### 1. The Basics of Financial Statement Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What stories do financial statements tell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/what-stories-do-financial-statements-tell?u=76281980)
@@ -239,7 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (8), business (2), product (1), next (1)
 > **Analogies:** imagine (2), similar to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pnl (1)
@@ -312,7 +312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Financial Statements]] (8), business (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -429,7 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1)
+> **Frameworks & Libraries:** next (6), [[Financial Statements]] (3), business (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** just like (2)
 > **CLI Commands:** make (1)
@@ -532,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (3), require (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (6), [[Financial Statements]] (3), business (2), data (2), [[HTML]] (1)
 > **Env Vars:** sec (6), edgar (4), html (1)
 > **CLI Commands:** yum (4), find (3)
 > **Definitions:** is called (2)
@@ -568,8 +568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[Financial Statements]] (1)
 > **CLI Commands:** find (4), yum (2)
-> **Code Keywords:** finally, (1)
 > **URLs:** [secedgar.gov](https://secedgar.gov) (1)
 > **Env Vars:** sec (1)
 > **UI Navigation:** go to (1)
@@ -610,8 +610,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (2), next (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** super (1), finally, (1), for, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
@@ -620,7 +620,7 @@ created: 2026-04-29
 
 ### 2. The Basics of Income Statement Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognizing revenue and understanding the revenue recognition principle
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/recognizing-revenue-and-understanding-the-revenue-recognition-principle?u=76281980)
@@ -711,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** career (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -772,8 +772,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), business (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **Speakers:** - if (1)
 
@@ -806,9 +806,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (4), [[Search]] (2)
 > **Env Vars:** sec (1), edgar (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -841,15 +841,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** find (3), yum (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 3. The Basics of Balance Sheet Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The accounting equation and the assets section of the balance sheet
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-assets-section-of-the-balance-sheet?u=76281980)
@@ -920,8 +920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (4), imagine (2), think of it like (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
 
@@ -974,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), raise (1), finally, (1)
+> **Frameworks & Libraries:** business (7), next (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1), picture (1)
 > **Cross-References:** in the next (1)
@@ -1044,8 +1044,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12)
 > **Definitions:** is a  (3), is called (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - the (1)
 
 #### Challenge: Working with the balance sheet
@@ -1077,8 +1077,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (2)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (1), continue (1), finally, (1)
 > **Analogies:** just like (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (bright music) (1)
@@ -1112,13 +1112,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. The Basics of Statement of Cash Flow Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The impact of operating activities on the cash flow statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-operating-activities-on-the-cash-flow-statement?u=76281980)
@@ -1209,7 +1210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** business (3), next (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 1.2 (1)
 > **Cross-References:** in the next (1)
@@ -1265,7 +1266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), business (1), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Security]] (1)
 > **Versions:** 1.2 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - we (1)
@@ -1331,7 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Forms]] (2), business (1)
 > **Versions:** 1.2 (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
@@ -1361,7 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), finally, (1)
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1431,8 +1432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), business (1)
 > **CLI Commands:** find (1), yum (1)
-> **Code Keywords:** finally, (1), this. (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** means that (1)
 > **Speakers:** - well (1)
@@ -1441,7 +1442,7 @@ created: 2026-04-29
 
 ### 5. The Basics of Statement of Stockholders' Equity Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the statement of stockholder's equity
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-the-statement-of-stockholder-s-equity?u=76281980)
@@ -1548,7 +1549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** business (2), [[Financial Statements]] (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** usd (1)
 > **Analogies:** just like (1)
@@ -1582,7 +1583,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (2)
-> **Code Keywords:** public (2)
 > **Speakers:** - it (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -1635,8 +1635,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **CLI Commands:** yum (4), find (1)
-> **Code Keywords:** super (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - well (1)
@@ -1645,7 +1645,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next steps in creating financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980)
@@ -1676,6 +1676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (4), next (1), business (1), [[LinkedIn]] (1)
 > **Speakers:** - thank (1)
 
 

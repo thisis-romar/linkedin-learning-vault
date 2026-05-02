@@ -30,7 +30,7 @@ tags:
   - skill/django
   - skill/forms
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Django-%20Forms.md)
@@ -49,41 +49,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Deep dive into Django forms
-  - What you should know
-  - Project walkthrough
+  - [Deep dive into Django forms](#deep-dive-into-django-forms)
+  - [What you should know](#what-you-should-know)
+  - [Project walkthrough](#project-walkthrough)
 - [**1. Getting Started with Forms**](#1-getting-started-with-forms) (6 videos)
-  - Starting a new project
-  - Making forms from scratch
-  - Form fields
-  - Submitting forms
-  - Django form class
-  - Using submitted data
+  - [Starting a new project](#starting-a-new-project)
+  - [Making forms from scratch](#making-forms-from-scratch)
+  - [Form fields](#form-fields)
+  - [Submitting forms](#submitting-forms)
+  - [Django form class](#django-form-class)
+  - [Using submitted data](#using-submitted-data)
 - [**2. Working with Advanced Form Features**](#2-working-with-advanced-form-features) (10 videos)
-  - Adding models
-  - Model forms
-  - Working with widgets
-  - Advanced widgets
-  - Forms and files
-  - Formsets: Multiple forms on a page
-  - Formset views
-  - Controlling the number of formsets
-  - Editing objects
-  - Input confirmation
+  - [Adding models](#adding-models)
+  - [Model forms](#model-forms)
+  - [Working with widgets](#working-with-widgets)
+  - [Advanced widgets](#advanced-widgets)
+  - [Forms and files](#forms-and-files)
+  - [Formsets: Multiple forms on a page](#formsets-multiple-forms-on-a-page)
+  - [Formset views](#formset-views)
+  - [Controlling the number of formsets](#controlling-the-number-of-formsets)
+  - [Editing objects](#editing-objects)
+  - [Input confirmation](#input-confirmation)
 - [**3. Customizing and Styling Form Appearance**](#3-customizing-and-styling-form-appearance) (7 videos)
-  - Local validation and errors
-  - Server-based errors
-  - Form rendering
-  - Customizing forms
-  - Spicing up forms with CSS
-  - Homepage styling
-  - Form styling
+  - [Local validation and errors](#local-validation-and-errors)
+  - [Server-based errors](#server-based-errors)
+  - [Form rendering](#form-rendering)
+  - [Customizing forms](#customizing-forms)
+  - [Spicing up forms with CSS](#spicing-up-forms-with-css)
+  - [Homepage styling](#homepage-styling)
+  - [Form styling](#form-styling)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deep dive into Django forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/deep-dive-into-django-forms?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Forms]] (2), data (2), [[Programming]] (1)
 > **Speakers:** - django (1)
 
 #### What you should know
@@ -138,10 +138,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Django]] (3), next (1), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (4), pip (1), make (1)
 > **Versions:** python 3 (3)
 > **Prerequisites:** before we start (1), before you begin (1), install (1)
-> **Code Keywords:** let (1), static (1)
 > **Env Vars:** html (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [narrator] (1)
@@ -191,7 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** [[Forms]] (3), hit (3), [[Django]] (2), database (2), feature (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
@@ -200,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Forms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting a new project
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980)
@@ -265,8 +265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (6), cd (2), hit (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), cd (2), ls (2), find (1), pip3 (1)
-> **Code Keywords:** let (9)
 > **Prerequisites:** install (2), set up (1)
 > **File Paths:** manage.py (1)
 > **URLs:** [localhost:8000](https://localhost:8000) (1)
@@ -357,7 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this, (2), function (2), pass (1)
+> **Frameworks & Libraries:** [[HTML]] (6), hit (3), [[Django]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (9), ls (1), python (1)
 > **File Paths:** order.html (3), urls.py (2), home.html (2), settings.py (1), pizza/home.html (1)
 > **Exercise Files:** template (5)
@@ -501,7 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), this. (2), for, (1), case, (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[HTML]] (2), power (1), [[Django]] (1), feature (1)
 > **CLI Commands:** make (5)
 > **File Paths:** order.html (2)
 > **Cross-References:** go back to (1)
@@ -604,9 +604,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), [[Scripting]] (2), data (1), [[Django]] (1), database (1)
 > **Env Vars:** url (6), post (6), csrf (1)
 > **API Endpoints:** get  (6), post  (4)
-> **Code Keywords:** this, (4), let (3), type. (1), protected (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
 > **Code Identifiers:** csrf_token (1)
@@ -690,7 +690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), this, (1), class, (1), from. (1)
+> **Frameworks & Libraries:** [[Forms]] (9), [[Django]] (4), [[HTML]] (3), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** forms.py (3), order.html (3), views.py (1)
 > **CLI Commands:** make (7)
 > **Exercise Files:** template (2)
@@ -782,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (1), class. (1), pass (1)
+> **Frameworks & Libraries:** hit (4), data (4), [[HTML]] (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** filled_form (2), is_valid (1)
 > **File Paths:** views.py (1), order.html (1)
@@ -795,7 +795,7 @@ created: 2026-04-29
 
 ### 2. Working with Advanced Form Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding models
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980)
@@ -894,7 +894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (3), super (3), class, (2), pass (2)
+> **Frameworks & Libraries:** hit (4), [[Python (Programming Language)|Python]] (4), [[Forms]] (3), database (1)
 > **CLI Commands:** make (7), python (4)
 > **File Paths:** manage.py (4), models.py (1), admin.py (1)
 > **Code Identifiers:** max_length (2), on_delete (1)
@@ -1004,7 +1004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (3), this. (3), this, (2), class, (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[Django]] (3), hit (3)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -1160,7 +1160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (4), this. (1)
+> **Frameworks & Libraries:** [[Forms]] (6)
 > **Cross-References:** go back to (3), we talked about (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** checkbox (1)
@@ -1220,7 +1220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class, (2), this, (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Forms]] (5), hit (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** empty_label (1)
 > **Cross-References:** go back to (1)
@@ -1304,7 +1304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (1), pass (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Forms]] (5), [[HTML]] (3), hit (3), data (2), feature (1)
 > **File Paths:** order.html (2), views.py (2), forms.py (1)
 > **CLI Commands:** make (3), pip (2)
 > **Env Vars:** files (2), csv (1), html (1)
@@ -1400,7 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), class, (1), this. (1), return. (1)
+> **Frameworks & Libraries:** [[Forms]] (5), next (5), [[HTML]] (1)
 > **Code Identifiers:** multiple_form (5), min_value (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** go to (2)
@@ -1492,7 +1492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (6), function (2), self (1), import, (1)
+> **Frameworks & Libraries:** data (5), [[Django]] (1), [[Forms]] (1), [[HTML]] (1)
 > **Code Identifiers:** filled_multiple_pizza_form (3), is_valid (3), cleaned_data (3), formset_factory (3), filled_formset (3)
 > **CLI Commands:** make (4), find (1)
 > **API Endpoints:** post  (2), get
@@ -1623,7 +1623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (5), this, (3), function (1), self (1)
+> **Frameworks & Libraries:** [[HTML]] (2), management (2), hit (2), [[Forms]] (1), data (1)
 > **CLI Commands:** make (5)
 > **File Paths:** pizzas.html (2), views.py (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1693,7 +1693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4), function (3), for. (2), from. (1)
+> **Frameworks & Libraries:** next (2), data (2), [[HTML]] (2), database (1)
 > **Code Identifiers:** edit_order (3), createdpizza_pk (2), modelsimportpizza (1), is_valid (1)
 > **CLI Commands:** make (6)
 > **File Paths:** pizzas.html (1), edit_order.html (1)
@@ -1743,7 +1743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), if, (2), this, (1), for. (1), pass (1)
+> **Frameworks & Libraries:** hit (4), [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (1), database (1), [[Django]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** edit_order (3), created_pizza_pk (2)
 > **File Paths:** order.html (2), edit_order.html (1), views.py (1)
@@ -1755,7 +1755,7 @@ created: 2026-04-29
 
 ### 3. Customizing and Styling Form Appearance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Local validation and errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980)
@@ -1832,7 +1832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), throw (1), if, (1)
+> **Frameworks & Libraries:** [[Forms]] (5), data (3), [[Google]] (2), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (6)
 > **Analogies:** for instance (4)
 > **File Paths:** models.py (1), forms.py (1), order.html (1)
@@ -1926,7 +1926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (3), this, (2), function (1), case, (1)
+> **Frameworks & Libraries:** [[Django]] (3), hit (3), [[Forms]] (2), [[HTML]] (2), data (1)
 > **Code Identifiers:** filled_form (4), pizza_pk (1), created_pizza_pk (1)
 > **File Paths:** views.py (2), order.html (2)
 > **CLI Commands:** make (4)
@@ -2018,7 +2018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (6), this. (2)
+> **Frameworks & Libraries:** [[Forms]] (5), [[HTML]] (3), [[Django]] (1)
 > **Definitions:** is a  (3), stands for (1), short for (1)
 > **Code Identifiers:** as_table (1), as_ul (1)
 > **Env Vars:** html (2)
@@ -2112,7 +2112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (6), this. (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[Microsoft Outlook|Outlook]] (1), data (1), [[Django]] (1)
 > **Analogies:** for instance (2), just like (2), for example (1)
 > **Code Identifiers:** label_tag (2), id_for_label (1)
 > **Cross-References:** we talked about (1), go back to (1)
@@ -2257,7 +2257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (4), this, (4), delete (1), for, (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[HTML]] (3), hit (2), css (1), front-end (1)
 > **CLI Commands:** make (14), pip (2)
 > **Code Identifiers:** widget_tweaks (5), label_tag (1), render_field (1)
 > **File Paths:** order.html (3), settings.py (2)
@@ -2339,8 +2339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (13), hit (1), next (1)
 > **File Paths:** base.html (8), order.html (4)
-> **Code Keywords:** let (4), this, (1), extends (1), this. (1)
 > **Cross-References:** go back to (2), next video (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **Env Vars:** html (1)
@@ -2483,7 +2483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), static (13), extends (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (8), [[Databases]] (1), database (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **File Paths:** order.html (3), home.html (2), pizzas.html (2), settings.py (1), manage.py (1)
 > **CLI Commands:** make (3), python (1)
 > **Cross-References:** go back to (4)
@@ -2495,7 +2495,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980)
@@ -2536,6 +2536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (6), [[Forms]] (4), next (1), [[HTML]] (1), css (1)
 > **Env Vars:** html (1), css (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)

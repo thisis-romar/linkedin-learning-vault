@@ -35,7 +35,7 @@ tags:
   - skill/data-modeling
   - skill/dax
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Data%20Modeling%20with%20DAX.md)
@@ -54,46 +54,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build powerful data models with DAX
-  - What you'll need
+  - [Build powerful data models with DAX](#build-powerful-data-models-with-dax)
+  - [What you'll need](#what-youll-need)
 - [**1. Set Up the Data Model**](#1-set-up-the-data-model) (4 videos)
-  - Data modeling: The basics
-  - Get data for your model
-  - Check relationships
-  - Save your data model
+  - [Data modeling: The basics](#data-modeling-the-basics)
+  - [Get data for your model](#get-data-for-your-model)
+  - [Check relationships](#check-relationships)
+  - [Save your data model](#save-your-data-model)
 - [**2. DAX Aggregate Functions**](#2-dax-aggregate-functions) (8 videos)
-  - Create a measure with SUM
-  - Understanding DAX syntax
-  - Display the measure in a matrix
-  - Format a measure
-  - Create measures with COUNT functions
-  - Delete or edit a measure
-  - Check your data with COUNTBLANK
-  - Create a measure with DISTINCTCOUNT
+  - [Create a measure with SUM](#create-a-measure-with-sum)
+  - [Understanding DAX syntax](#understanding-dax-syntax)
+  - [Display the measure in a matrix](#display-the-measure-in-a-matrix)
+  - [Format a measure](#format-a-measure)
+  - [Create measures with COUNT functions](#create-measures-with-count-functions)
+  - [Delete or edit a measure](#delete-or-edit-a-measure)
+  - [Check your data with COUNTBLANK](#check-your-data-with-countblank)
+  - [Create a measure with DISTINCTCOUNT](#create-a-measure-with-distinctcount)
 - [**3. Measures and Calculated Columns**](#3-measures-and-calculated-columns) (6 videos)
-  - Add a calculated column
-  - Understand explicit and implicit measures
-  - Create a measure with operators
-  - Create a measure with DIVIDE
-  - Iterators and row context: SUMX
-  - Basic DAX date and time functions
+  - [Add a calculated column](#add-a-calculated-column)
+  - [Understand explicit and implicit measures](#understand-explicit-and-implicit-measures)
+  - [Create a measure with operators](#create-a-measure-with-operators)
+  - [Create a measure with DIVIDE](#create-a-measure-with-divide)
+  - [Iterators and row context: SUMX](#iterators-and-row-context-sumx)
+  - [Basic DAX date and time functions](#basic-dax-date-and-time-functions)
 - [**4. DAX Logical and Filter Functions**](#4-dax-logical-and-filter-functions) (5 videos)
-  - Use FIND
-  - Use IF
-  - Use OR to handle case sensitivity
-  - Use CALCULATE to create a simple filter
-  - Use SWITCH
+  - [Use FIND](#use-find)
+  - [Use IF](#use-if)
+  - [Use OR to handle case sensitivity](#use-or-to-handle-case-sensitivity)
+  - [Use CALCULATE to create a simple filter](#use-calculate-to-create-a-simple-filter)
+  - [Use SWITCH](#use-switch)
 - [**5. Using DAX Time-Intelligence Functions**](#5-using-dax-time-intelligence-functions) (4 videos)
-  - DAX time-intelligence functions
-  - Summarize year-to-date information with DATESYTD
-  - Visualize cumulative YTD data
-  - Compare totals with SAMEPERIODLASTYEAR
+  - [DAX time-intelligence functions](#dax-time-intelligence-functions)
+  - [Summarize year-to-date information with DATESYTD](#summarize-year-to-date-information-with-datesytd)
+  - [Visualize cumulative YTD data](#visualize-cumulative-ytd-data)
+  - [Compare totals with SAMEPERIODLASTYEAR](#compare-totals-with-sameperiodlastyear)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build powerful data models with DAX
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/build-powerful-data-models-with-dax?u=76281980)
@@ -112,6 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DAX]] (5), data (3), power (3), bi (3), next (1)
 > **Env Vars:** dax (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -122,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Set Up the Data Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data modeling: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/data-modeling-the-basics?u=76281980)
@@ -195,9 +196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), power (2), bi (2), product (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** sql (1), dax (1)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** double-click (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** before you begin (1)
@@ -224,6 +225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), bi (1)
 > **Env Vars:** pbix (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -231,7 +233,7 @@ created: 2026-04-29
 
 ### 2. DAX Aggregate Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a measure with SUM
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-sum?u=76281980)
@@ -260,7 +262,7 @@ created: 2026-04-29
 
 ### 3. Measures and Calculated Columns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add a calculated column
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/add-a-calculated-column?u=76281980)
@@ -318,7 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (1)
+> **Frameworks & Libraries:** data (3), power (2), bi (2)
 > **UI Navigation:** scroll down (1), drag and drop (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -338,7 +340,7 @@ created: 2026-04-29
 
 ### 4. DAX Logical and Filter Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use FIND
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-find?u=76281980)
@@ -403,8 +405,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (2), data (1), next (1)
 > **CLI Commands:** find (8)
-> **Code Keywords:** function (3), case, (1), this, (1)
 > **Env Vars:** dax (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -418,7 +420,7 @@ created: 2026-04-29
 
 ### 5. Using DAX Time-Intelligence Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DAX time-intelligence functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980)
@@ -493,10 +495,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (3), power (1), bi (1), business (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** datesqtd (1), datesmtd (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 
 #### Summarize year-to-date information with DATESYTD
@@ -568,7 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), case, (2), throw (1), this. (1)
+> **Frameworks & Libraries:** business (1)
 > **Analogies:** for example (2)
 > **Env Vars:** calculate (1)
 > **Definitions:** is called (1)
@@ -577,7 +579,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/next-steps?u=76281980)

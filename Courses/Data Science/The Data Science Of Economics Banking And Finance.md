@@ -30,7 +30,7 @@ tags:
   - skill/banking
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Data%20Science%20Of%20Economics%20Banking%20And%20Finance.md)
@@ -49,26 +49,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The data science of finance
+  - [The data science of finance](#the-data-science-of-finance)
 - [**1. Applying Data Science**](#1-applying-data-science) (12 videos)
-  - Data science and money
-  - AI and LLMs in the financial world
-  - Social trading and finance influencers
-  - Social payment apps and informal banking
-  - Cryptocurrencies and blockchain in finance
-  - Responding to financial scams and frauds
-  - Algorithmic and human-in-the-loop trading
-  - Automated reviews for loan, credit, and job applications
-  - Correlation and causality in economic data
-  - Privacy regulations and explainable AI
-  - Bias and risk in financial and economic modeling
-  - Careers for data scientists in economics, banking, and finance
+  - [Data science and money](#data-science-and-money)
+  - [AI and LLMs in the financial world](#ai-and-llms-in-the-financial-world)
+  - [Social trading and finance influencers](#social-trading-and-finance-influencers)
+  - [Social payment apps and informal banking](#social-payment-apps-and-informal-banking)
+  - [Cryptocurrencies and blockchain in finance](#cryptocurrencies-and-blockchain-in-finance)
+  - [Responding to financial scams and frauds](#responding-to-financial-scams-and-frauds)
+  - [Algorithmic and human-in-the-loop trading](#algorithmic-and-human-in-the-loop-trading)
+  - [Automated reviews for loan, credit, and job applications](#automated-reviews-for-loan-credit-and-job-applications)
+  - [Correlation and causality in economic data](#correlation-and-causality-in-economic-data)
+  - [Privacy regulations and explainable AI](#privacy-regulations-and-explainable-ai)
+  - [Bias and risk in financial and economic modeling](#bias-and-risk-in-financial-and-economic-modeling)
+  - [Careers for data scientists in economics, banking, and finance](#careers-for-data-scientists-in-economics-banking-and-finance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The data science of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/the-data-science-of-finance?u=76281980)
@@ -89,13 +89,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (4), [[Banking]] (2), business (1)
 > **Speakers:** - [barton] (1)
 
 
 ### 1. Applying Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science and money
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980)
@@ -244,9 +244,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Banking]] (3), [[Deep Learning]] (3), application (2)
 > **CLI Commands:** make (6)
 > **Analogies:** for instance (3)
-> **Code Keywords:** finally, (1), case, (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
@@ -349,8 +349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), data (5), [[ChatGPT]] (3), [[Generative AI]] (2), game (1)
 > **Env Vars:** cobol (4), ibm (1), llm (1), sql (1), covid (1)
-> **Code Keywords:** let (2), switch (1), finally, (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (2), for instance (1)
@@ -430,6 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
 > **Env Vars:** amc (1)
@@ -519,9 +520,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** fdic (3), afs (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1), protected (1)
 > **Analogies:** it's like (1), for instance (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
@@ -732,7 +733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), this. (2), public (1), from. (1), function (1)
+> **Frameworks & Libraries:** [[Blockchain]] (17), [[Cryptocurrency]] (7), data (6), [[Ethereum]] (3), product (2)
 > **Definitions:** is a  (4), refers to (1), known as (1), is an  (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** fiat (2), fdx (1)
@@ -869,9 +870,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Engineering]] (2), [[Zoom]] (2), power (1), hit (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
-> **Code Keywords:** case, (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1001,6 +1002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (4), [[Algorithmic Trading]] (3), [[React.js|React]] (2), generic (1)
 > **Analogies:** for example (2), picture (1), for instance (1)
 > **Env Vars:** nasdaq (2), covid (1)
 > **CLI Commands:** make (1), rails (1)
@@ -1138,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), for, (1), finally, (1), protected (1)
+> **Frameworks & Libraries:** data (12), application (3), [[Privacy]] (2), [[Algorithms]] (2), [[Financial Data]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for instance (5)
 > **Env Vars:** pdf (1), gdpr (1), cpra (1)
@@ -1301,7 +1303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), this. (1), require (1), finally, (1)
+> **Frameworks & Libraries:** data (15), ai (2), [[Forms]] (1), [[Algorithms]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (1), it's like (1)
@@ -1438,6 +1440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), ai (8), [[Decision Trees]] (2), [[Privacy]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (6), is an  (1), is called (1)
 > **Env Vars:** lime (2), gdpr (1), shap (1), arima (1)
 > **Analogies:** for instance (4)
@@ -1583,7 +1586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (5), this. (2), public (1), require (1)
+> **Frameworks & Libraries:** data (12), game (4), hit (1), [[Microsoft Word|Word]] (1), [[Banking]] (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Analogies:** for instance (4), for example (1)
 > **CLI Commands:** make (2)
@@ -1687,8 +1690,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Banking]] (4), [[LinkedIn]] (4), [[Financial Data]] (2), next (2)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** for, (2), self (1)
 > **Analogies:** for instance (2)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Env Vars:** smb (1)
@@ -1697,7 +1700,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980)
@@ -1762,8 +1765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (3), next (3), [[Banking]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** python (2), find (2), make (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)

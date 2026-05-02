@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/From%20Tool%20to%20Teammates-%20Working%20Smarter%20with%20AI.md)
@@ -52,37 +52,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction: Understanding Your AI Teammates**](#introduction-understanding-your-ai-teammates) (4 videos)
-  - From tool to teammates: Welcome!
-  - Shifting from passive user to team orchestrator
-  - Setting up your voice-enabled AI workspace
-  - Replacing short queries with voice dialogues
+  - [From tool to teammates: Welcome!](#from-tool-to-teammates-welcome)
+  - [Shifting from passive user to team orchestrator](#shifting-from-passive-user-to-team-orchestrator)
+  - [Setting up your voice-enabled AI workspace](#setting-up-your-voice-enabled-ai-workspace)
+  - [Replacing short queries with voice dialogues](#replacing-short-queries-with-voice-dialogues)
 - [**1. Hiring the Assistant**](#1-hiring-the-assistant) (3 videos)
-  - Delegating inbox triage to your assistant
-  - Teaching your assistant how you think
-  - Personalizing your AI with custom instructions
+  - [Delegating inbox triage to your assistant](#delegating-inbox-triage-to-your-assistant)
+  - [Teaching your assistant how you think](#teaching-your-assistant-how-you-think)
+  - [Personalizing your AI with custom instructions](#personalizing-your-ai-with-custom-instructions)
 - [**2. Briefing the Expert**](#2-briefing-the-expert) (3 videos)
-  - Getting curated recommendations from the expert
-  - Briefing the expert for high-stakes decisions
-  - Letting the expert interview you for better advice
+  - [Getting curated recommendations from the expert](#getting-curated-recommendations-from-the-expert)
+  - [Briefing the expert for high-stakes decisions](#briefing-the-expert-for-high-stakes-decisions)
+  - [Letting the expert interview you for better advice](#letting-the-expert-interview-you-for-better-advice)
 - [**3. Engaging the Coach**](#3-engaging-the-coach) (3 videos)
-  - Setting up the framework for your coach project
-  - Running an onboarding session for your coach
-  - Journaling with AI to update your coach
+  - [Setting up the framework for your coach project](#setting-up-the-framework-for-your-coach-project)
+  - [Running an onboarding session for your coach](#running-an-onboarding-session-for-your-coach)
+  - [Journaling with AI to update your coach](#journaling-with-ai-to-update-your-coach)
 - [**4. Partnering with the Creative**](#4-partnering-with-the-creative) (3 videos)
-  - Co-creating ideas using the canvas interface
-  - Training the creative on your voice and style
-  - Building interactive apps without writing code
+  - [Co-creating ideas using the canvas interface](#co-creating-ideas-using-the-canvas-interface)
+  - [Training the creative on your voice and style](#training-the-creative-on-your-voice-and-style)
+  - [Building interactive apps without writing code](#building-interactive-apps-without-writing-code)
 - [**5. Becoming the Orchestrator**](#5-becoming-the-orchestrator) (4 videos)
-  - Mastering the seven habits of orchestration
-  - Project: Automating a weekly news report
-  - Project: Building a custom curiosity GPT
-  - Project: Planning life events with your AI team
+  - [Mastering the seven habits of orchestration](#mastering-the-seven-habits-of-orchestration)
+  - [Project: Automating a weekly news report](#project-automating-a-weekly-news-report)
+  - [Project: Building a custom curiosity GPT](#project-building-a-custom-curiosity-gpt)
+  - [Project: Planning life events with your AI team](#project-planning-life-events-with-your-ai-team)
 - [**Conclusion: Owning Your Future with AI**](#conclusion-owning-your-future-with-ai) (1 videos)
-  - Evolving from AI user to digital product owner
+  - [Evolving from AI user to digital product owner](#evolving-from-ai-user-to-digital-product-owner)
 
 ### Introduction: Understanding Your AI Teammates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From tool to teammates: Welcome!
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), [[Search]] (1), business (1), [[Generative AI]] (1)
 > **Cross-References:** go back to (1)
 
 #### Shifting from passive user to team orchestrator
@@ -155,7 +155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** ai (4), [[Zoom]] (2), [[Search]] (1), [[Vibe Coding]] (1), [[Orchestration]] (1)
 > **Cross-References:** in the next (1)
 
 #### Setting up your voice-enabled AI workspace
@@ -299,7 +299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), this, (1), continue (1), this. (1)
+> **Frameworks & Libraries:** ai (8), next (4), [[ChatGPT]] (3), [[Search]] (2), data (2)
 > **Cross-References:** in the next (2), go back to (1)
 > **Prerequisites:** setup (2), set up (1)
 > **CLI Commands:** make (1), find (1)
@@ -389,13 +389,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), static (1), type, (1), type. (1), this. (1)
+> **Frameworks & Libraries:** ai (8), [[Search]] (3), prompt (2), [[ChatGPT]] (2), [[Google]] (1)
 > **CLI Commands:** make (1)
 
 
 ### 1. Hiring the Assistant
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Delegating inbox triage to your assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980)
@@ -504,7 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type. (1), this, (1), case, (1), extends (1)
+> **Frameworks & Libraries:** ai (5), [[ChatGPT]] (2), [[Microsoft Outlook|Outlook]] (1), [[Search]] (1), data (1)
 > **CLI Commands:** make (3), aws (1)
 > **Env Vars:** aws (1), tldr (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -635,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (2), for, (1), this, (1)
+> **Frameworks & Libraries:** ai (10), [[ChatGPT]] (3), web (2), prompt (2), [[Search]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** glp (1)
 > **Cross-References:** in the last (1)
@@ -697,15 +697,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[ChatGPT]] (2), next (2), generic (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
 
 
 ### 2. Briefing the Expert
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting curated recommendations from the expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/getting-curated-recommendations-from-the-expert?u=76281980)
@@ -814,7 +814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), return. (1), switch (1)
+> **Frameworks & Libraries:** ai (3), next (2), [[Search]] (1), prompt (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** scroll down (1), switch to (1)
 > **Cross-References:** next video (1)
@@ -898,7 +898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (6), generic (2), data (2), prompt (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Analogies:** picture (1)
@@ -1036,7 +1036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), continue (1)
+> **Frameworks & Libraries:** ai (10), next (5), prompt (1), [[Interviewing]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (1), open the (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1045,7 +1045,7 @@ created: 2026-04-29
 
 ### 3. Engaging the Coach
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the framework for your coach project
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980)
@@ -1168,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), let (2), case, (1), this, (1)
+> **Frameworks & Libraries:** ai (11), next (3), [[LinkedIn]] (2), prompt (1), [[React.js|React]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (1), imagine (1)
@@ -1287,7 +1287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), return. (1), finally, (1)
+> **Frameworks & Libraries:** next (4), ai (2), [[LinkedIn]] (2), job description (1), prompt (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1509,7 +1509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (1), this. (1), case, (1), this, (1)
+> **Frameworks & Libraries:** ai (10), prompt (9), [[Microsoft Word|Word]] (3), power (3), next (3)
 > **Definitions:** is a  (7)
 > **CLI Commands:** make (3)
 > **Cross-References:** as you saw (1), in the next (1)
@@ -1520,7 +1520,7 @@ created: 2026-04-29
 
 ### 4. Partnering with the Creative
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Co-creating ideas using the canvas interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980)
@@ -1669,7 +1669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (4), case, (1), for. (1), function (1)
+> **Frameworks & Libraries:** ai (6), next (3), [[Agile Development|Agile]] (2), prompt (2), application (1)
 > **Env Vars:** esn (2), jgpt (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
@@ -1869,7 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), this, (2), for, (1), static (1)
+> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (3), prompt (3), [[ChatGPT]] (2), generic (1)
 > **Definitions:** is a  (4)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
 > **Exercise Files:** exercise file (2)
@@ -1973,7 +1973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), let (2), from. (1), this. (1), interface (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), application (3), ai (2), prompt (2), web (2)
 > **Cross-References:** earlier in (2), we covered (1), we talked about (1)
 > **Env Vars:** html (1), jgpt (1), url (1)
 > **CLI Commands:** make (2)
@@ -1985,7 +1985,7 @@ created: 2026-04-29
 
 ### 5. Becoming the Orchestrator
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering the seven habits of orchestration
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/mastering-the-seven-habits-of-orchestration?u=76281980)
@@ -2078,8 +2078,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), next (4), [[Orchestration]] (1), [[Search]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** from. (1), this. (1), finally, (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2235,7 +2235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), else, (1), try. (1)
+> **Frameworks & Libraries:** ai (14), next (5), web (4), prompt (3), [[Search]] (2)
 > **Env Vars:** json (2), url (1), gpt (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** previous video (1), we discussed (1), in the next (1)
@@ -2388,9 +2388,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), product (2), [[Fetch]] (1), prompt (1), [[Forms]] (1)
 > **Env Vars:** gpt (8), gpd (1)
 > **CLI Commands:** cat (4), find (2), make (1)
-> **Code Keywords:** let (2), this, (1), this. (1), finally, (1), switch (1)
 > **Definitions:** is a  (4)
 > **Cross-References:** previous video (1), go back to (1)
 > **Prerequisites:** configure (1)
@@ -2518,7 +2518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (4), let (3), switch (1), this. (1)
+> **Frameworks & Libraries:** ai (7), next (3), game (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
@@ -2527,7 +2527,7 @@ created: 2026-04-29
 
 ### Conclusion: Owning Your Future with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evolving from AI user to digital product owner
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980)
@@ -2610,7 +2610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1), let (1)
+> **Frameworks & Libraries:** ai (9), [[LinkedIn]] (2), product (2), [[Microsoft Word|Word]] (1), next (1)
 > **Env Vars:** gpt (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

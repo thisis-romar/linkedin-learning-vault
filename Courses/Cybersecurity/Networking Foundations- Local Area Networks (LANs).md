@@ -31,7 +31,7 @@ tags:
   - skill/local-area-network-lan
   - skill/computer-networking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Networking%20Foundations-%20Local%20Area%20Networks%20(LANs).md)
@@ -50,35 +50,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learning networking foundations: LANs
-  - What you should know
+  - [Learning networking foundations: LANs](#learning-networking-foundations-lans)
+  - [What you should know](#what-you-should-know)
 - [**1. Local Area Network (LAN)**](#1-local-area-network-lan) (3 videos)
-  - What is a LAN?
-  - Components of a LAN
-  - LAN topologies
+  - [What is a LAN?](#what-is-a-lan)
+  - [Components of a LAN](#components-of-a-lan)
+  - [LAN topologies](#lan-topologies)
 - [**2. Wired LAN**](#2-wired-lan) (6 videos)
-  - What is Ethernet?
-  - Ethernet standards
-  - Copper cable: Twisted pair
-  - Twisted pair cable configuration
-  - Copper cable: Coaxial cable
-  - Fiber optic cables
+  - [What is Ethernet?](#what-is-ethernet)
+  - [Ethernet standards](#ethernet-standards)
+  - [Copper cable: Twisted pair](#copper-cable-twisted-pair)
+  - [Twisted pair cable configuration](#twisted-pair-cable-configuration)
+  - [Copper cable: Coaxial cable](#copper-cable-coaxial-cable)
+  - [Fiber optic cables](#fiber-optic-cables)
 - [**3. Wireless LAN**](#3-wireless-lan) (3 videos)
-  - What is wireless LAN?
-  - Wireless standards
-  - Wireless LAN configuration via SOHO router
+  - [What is wireless LAN?](#what-is-wireless-lan)
+  - [Wireless standards](#wireless-standards)
+  - [Wireless LAN configuration via SOHO router](#wireless-lan-configuration-via-soho-router)
 - [**4. LAN Configurations**](#4-lan-configurations) (4 videos)
-  - DHCP: Dynamic Host Configuration Protocol
-  - DNS: Domain Name System
-  - VLAN: Virtual local area network
-  - LAN security
+  - [DHCP: Dynamic Host Configuration Protocol](#dhcp-dynamic-host-configuration-protocol)
+  - [DNS: Domain Name System](#dns-domain-name-system)
+  - [VLAN: Virtual local area network](#vlan-virtual-local-area-network)
+  - [LAN security](#lan-security)
 - [**Conclusion**](#conclusion) (2 videos)
-  - LAN troubleshooting
-  - Next steps
+  - [LAN troubleshooting](#lan-troubleshooting)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning networking foundations: LANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/learning-networking-foundations-lans?u=76281980)
@@ -103,8 +103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (7), [[Local Area Network (LAN)|Local area network]] (2), [[Security]] (1)
 > **Env Vars:** lan (7), man (1), wan (1), pan (1), vlan (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [jarrel] (1)
 
 #### What you should know
@@ -128,15 +128,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Computer Networking]] (1), [[Network Switches]] (1), [[Wireshark]] (1)
 > **Env Vars:** soho (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Local Area Network (LAN)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a LAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980)
@@ -217,10 +217,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (21), [[Local Area Network (LAN)|Local area network]] (5), [[Microsoft Office|Office]] (2), data (1), application (1)
 > **Env Vars:** lan (21), pan (5), man (2), wan (2), dns (1)
 > **Definitions:** is a  (7), refers to (2), stands for (1), known as (1)
 > **Prerequisites:** setup (3)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -369,8 +369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (12), [[Microsoft Office|Office]] (4), [[Local Area Network (LAN)|Local area network]] (3), data (3), cloud (2)
 > **Env Vars:** lan (12), nic (6), mac (3), soho (3), voip (1)
-> **Code Keywords:** switch (8), interface (2), finally, (2), let (1), type. (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (2)
@@ -458,9 +458,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (5), [[Mesh]] (4), [[Representational State Transfer (REST)|Rest]] (3), data (2), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** lan (5), ieee (1), fddi (1)
 > **Definitions:** is a  (2), known as (2), refers to (1), is called (1)
-> **Code Keywords:** let (1), interface (1), break, (1), continue (1), finally, (1)
 > **Versions:** 802.5 (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** such as (1)
@@ -470,7 +470,7 @@ created: 2026-04-29
 
 ### 2. Wired LAN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Ethernet?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980)
@@ -575,8 +575,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), lan (2), [[Local Area Network (LAN)|Local area network]] (2), cd (2), [[Wireshark]] (1)
 > **Env Vars:** arp (6), mac (5), lan (2), csma (2), ieee (1)
-> **Code Keywords:** let (4), interface (2), type. (1), this, (1)
 > **Definitions:** is a  (2), refers to (1), known as (1), is an  (1)
 > **CLI Commands:** cd (2)
 > **Versions:** 802.2 (1), 802.3 (1)
@@ -662,8 +662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1), [[Scalability]] (1)
 > **Definitions:** refers to (4), known as (2)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** ieee (1), bnc (1)
 > **Versions:** 802.3 (1)
 > **Speakers:** - [narrator] (1)
@@ -749,8 +749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), data (2), [[Mesh]] (1), next (1)
 > **Env Vars:** stp (8), cat8 (6), cat6 (5), utp (4), cat7 (4)
-> **Code Keywords:** this, (2), let (1), public (1), finally, (1)
 > **Definitions:** refers to (2), means that (1), known as (1)
 > **CLI Commands:** cat (2)
 > **Analogies:** such as (1), for example (1)
@@ -843,8 +843,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[Electronics]] (1), management (1)
 > **Env Vars:** t568a (6), t568b (6), tia (4), ansi (3), mdix (3)
-> **Code Keywords:** switch (4), let (1), interface (1)
 > **UI Navigation:** switch to (2)
 > **Analogies:** such as (2)
 > **Definitions:** known as (1)
@@ -922,8 +922,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (5), [[Microsoft Office|Office]] (1), data (1)
 > **Env Vars:** lan (5), emi (1), rfi (1), bnc (1), cat7 (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (1), short for (1), stands for (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1000,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** emi (1), rfi (1)
 > **Warnings:** caveat (1), be aware (1)
 > **Cross-References:** go back to (1)
@@ -1009,7 +1009,7 @@ created: 2026-04-29
 
 ### 3. Wireless LAN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is wireless LAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980)
@@ -1080,10 +1080,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (5), [[Microsoft Office|Office]] (3), [[IoT]] (3), [[Automation]] (2), data (1)
 > **Env Vars:** lan (5), ant (1), ieee (1), soho (1)
 > **Analogies:** such as (5), for example (1)
 > **Versions:** 2.4 (5)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1), refers to (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1167,9 +1167,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), lan (3)
 > **Versions:** 2.4 (6), 802.11 (2), 6.9 (1)
 > **Env Vars:** lan (3), ieee (2), soho (1)
-> **Code Keywords:** let (2), finally, (2)
 > **Definitions:** known as (1), means that (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
@@ -1289,9 +1289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (4), [[Security]] (2), [[Microsoft Office|Office]] (2), [[LinkedIn]] (2)
 > **Env Vars:** ssid (8), wpa2 (5), wpa3 (5), lan (4), soho (3)
 > **Versions:** 2.4 (5), 822.11 (3)
-> **Code Keywords:** let (3), interface (1), protected (1)
 > **Best Practices:** good practice (3), remember to (2)
 > **Definitions:** is a  (3), refers to (1)
 > **Prerequisites:** configure (4)
@@ -1301,7 +1301,7 @@ created: 2026-04-29
 
 ### 4. LAN Configurations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DHCP: Dynamic Host Configuration Protocol
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980)
@@ -1388,8 +1388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), [[Microsoft Office|Office]] (3), lan (3), [[Local Area Network (LAN)|Local area network]] (2), [[Security]] (1)
 > **Env Vars:** dhcp (13), dns (6), soho (3), lan (3), vlan (1)
-> **Code Keywords:** let (2), while, (1), interface (1)
 > **Prerequisites:** configure (4)
 > **Definitions:** stands for (1), is a  (1), refers to (1)
 > **UI Navigation:** click on (2)
@@ -1438,8 +1438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (9), [[Google]] (2), [[Domain Name System (DNS)|Domain name system]] (1), [[LinkedIn]] (1)
 > **Env Vars:** dns (9), dhcp (1), soho (1), isp (1)
-> **Code Keywords:** public (2), let (1), for. (1)
 > **Definitions:** is an  (1), stands for (1)
 > **Analogies:** such as (2)
 > **URLs:** [example.com](https://example.com) (1)
@@ -1517,7 +1517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (12), let (4), default, (3), private (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (3), traffic (3), [[Microsoft Office|Office]] (2), data (1)
 > **Env Vars:** vlan (6), soho (3), iptv (2), pc1 (1), pc6 (1)
 > **Definitions:** is a  (2), refers to (1), known as (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -1587,8 +1587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), power (3), [[Microsoft Office|Office]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Hardware]] (1)
 > **Env Vars:** wpa2 (2), ups (1), fhrp (1), hsrp (1), glbp (1)
-> **Code Keywords:** let (2), protected (1), switch (1), private (1), finally, (1)
 > **Analogies:** such as (3)
 > **Best Practices:** remember to (1), good practice (1)
 > **Prerequisites:** configure (1)
@@ -1597,7 +1597,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LAN troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980)
@@ -1762,7 +1762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (3), finally, (3), switch (2), case, (2)
+> **Frameworks & Libraries:** [[Troubleshooting]] (5), application (3), [[Windows]] (2), data (2), lan (1)
 > **Env Vars:** dhcp (4), osi (2), wan (2), lan (1), tcp (1)
 > **Definitions:** means that (2), is an  (1), is called (1)
 > **CLI Commands:** find (1)
@@ -1794,6 +1794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (3), [[LinkedIn]] (2), [[Local Area Network (LAN)|Local area network]] (1), next (1), dns (1)
 > **Env Vars:** lan (3), wan (1), dns (1)
 > **Speakers:** - [host] (1)
 

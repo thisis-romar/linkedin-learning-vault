@@ -28,7 +28,7 @@ tags:
   - skill/dashboards
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20Bi%20Dashboards%20For%20Beginners.md)
@@ -47,33 +47,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Unlock the value of Power BI
+  - [Unlock the value of Power BI](#unlock-the-value-of-power-bi)
 - [**1. Understanding Power BI**](#1-understanding-power-bi) (4 videos)
-  - Navigate the Power BI Desktop interface
-  - Distinguish between dashboards and reports
-  - Plan for success with dashboard building blocks
-  - Embrace the modern workplace with next generation AI
+  - [Navigate the Power BI Desktop interface](#navigate-the-power-bi-desktop-interface)
+  - [Distinguish between dashboards and reports](#distinguish-between-dashboards-and-reports)
+  - [Plan for success with dashboard building blocks](#plan-for-success-with-dashboard-building-blocks)
+  - [Embrace the modern workplace with next generation AI](#embrace-the-modern-workplace-with-next-generation-ai)
 - [**2. Getting Data into Power BI**](#2-getting-data-into-power-bi) (5 videos)
-  - Become familiar with the Power BI data types
-  - Get started by connecting with rich source data
-  - Create safeguards by assuring data quality
-  - Challenge: Incorporate source data from a brief
-  - Solution: Incorporate source data from a brief
+  - [Become familiar with the Power BI data types](#become-familiar-with-the-power-bi-data-types)
+  - [Get started by connecting with rich source data](#get-started-by-connecting-with-rich-source-data)
+  - [Create safeguards by assuring data quality](#create-safeguards-by-assuring-data-quality)
+  - [Challenge: Incorporate source data from a brief](#challenge-incorporate-source-data-from-a-brief)
+  - [Solution: Incorporate source data from a brief](#solution-incorporate-source-data-from-a-brief)
 - [**3. Crafting Your Dashboard**](#3-crafting-your-dashboard) (8 videos)
-  - Prepare the optimal layout for stakeholders
-  - Illustrate results by building intuitive charts
-  - Do even more by configuring charts
-  - Drill down on results using slicers
-  - Create a shareable dashboard for collaboration
-  - Wow stakeholders by enhancing your dashboard
-  - Challenge: Build a dashboard from an existing report
-  - Solution: Build a dashboard from an existing report
+  - [Prepare the optimal layout for stakeholders](#prepare-the-optimal-layout-for-stakeholders)
+  - [Illustrate results by building intuitive charts](#illustrate-results-by-building-intuitive-charts)
+  - [Do even more by configuring charts](#do-even-more-by-configuring-charts)
+  - [Drill down on results using slicers](#drill-down-on-results-using-slicers)
+  - [Create a shareable dashboard for collaboration](#create-a-shareable-dashboard-for-collaboration)
+  - [Wow stakeholders by enhancing your dashboard](#wow-stakeholders-by-enhancing-your-dashboard)
+  - [Challenge: Build a dashboard from an existing report](#challenge-build-a-dashboard-from-an-existing-report)
+  - [Solution: Build a dashboard from an existing report](#solution-build-a-dashboard-from-an-existing-report)
 - [**Conclusion**](#conclusion) (1 videos)
-  - How to get the most from Power BI dashboards
+  - [How to get the most from Power BI dashboards](#how-to-get-the-most-from-power-bi-dashboards)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock the value of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980)
@@ -94,12 +94,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), bi (3), data (3), [[Dashboards]] (2), [[Analytics]] (1)
 > **Speakers:** - [joshua] (1)
 
 
 ### 1. Understanding Power BI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate the Power BI Desktop interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980)
@@ -164,8 +165,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (9), bi (9), data (3), [[Dashboards]] (1), application (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** dropdown (1), click on (1)
 > **Warnings:** be aware (1), note that (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -214,6 +215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (6), power (6), bi (6), data (3), business (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
@@ -251,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (4), power (2), bi (2), [[Dashboards]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -262,7 +264,7 @@ created: 2026-04-29
 
 ### 2. Getting Data into Power BI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Become familiar with the Power BI data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980)
@@ -301,9 +303,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), power (6), bi (6), [[Microsoft Excel|Excel]] (3), next (1)
 > **UI Navigation:** click on (2), select the (1), dropdown (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), from. (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -350,8 +352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), power (3), bi (3), [[Microsoft Excel|Excel]] (1), [[E-Commerce]] (1)
 > **UI Navigation:** click on (4), scroll down (1), dropdown (1)
-> **Code Keywords:** let (2), from, (1)
 > **Definitions:** is called (1), known as (1), is a  (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise file (1)
@@ -411,7 +413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1), this, (1)
+> **Frameworks & Libraries:** data (15), next (3), [[Dashboards]] (1), power (1), bi (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** coming up (1)
@@ -440,8 +442,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), power (2), bi (2), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** csv (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** imagine (1)
@@ -500,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (8), next (2), power (1), bi (1)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Env Vars:** csv (1)
 > **Exercise Files:** exercise file (1)
@@ -511,7 +513,7 @@ created: 2026-04-29
 
 ### 3. Crafting Your Dashboard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare the optimal layout for stakeholders
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/prepare-the-optimal-layout-for-stakeholders?u=76281980)
@@ -550,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1)
+> **Frameworks & Libraries:** hit (1), power (1), bi (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -626,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1), case, (1)
+> **Frameworks & Libraries:** data (5), power (2), bi (2), next (1), product (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** ebooks (1)
 > **UI Navigation:** dropdown (1)
@@ -683,7 +685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), from. (1), this. (1)
+> **Frameworks & Libraries:** power (3), bi (3), next (2), [[E-Commerce]] (1), business (1)
 > **UI Navigation:** click on (2), dropdown (2), scroll down (2), select the (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is called (1)
@@ -730,7 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (2), dropdown (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1)
@@ -785,7 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), finally, (1)
+> **Frameworks & Libraries:** power (8), bi (8), data (2), next (1), web (1)
 > **UI Navigation:** click on (3), open the (1), go to (1)
 > **CLI Commands:** make (3)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -865,7 +867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from. (1), interface (1), this, (1)
+> **Frameworks & Libraries:** power (5), bi (5), data (2), [[Analytics]] (1), next (1)
 > **UI Navigation:** click on (5), dropdown (2), go to (1), select the (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** go back to (1)
@@ -900,8 +902,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), bi (4), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Warnings:** heads up (1)
@@ -955,7 +957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), import, (1)
+> **Frameworks & Libraries:** power (2), bi (2), data (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -965,7 +967,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to get the most from Power BI dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980)
@@ -998,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1)
+> **Frameworks & Libraries:** power (3), bi (3), data (3), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [joshua (1)

@@ -27,7 +27,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Welcome%20To%20The%20Building%20Ai%20Products%20Architecture%20And%20Orchestration%20Professional%20Certificate.md)
@@ -46,11 +46,11 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AI orchestration: Your path to success
+  - [AI orchestration: Your path to success](#ai-orchestration-your-path-to-success)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI orchestration: Your path to success
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980)
@@ -75,7 +75,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), [[Orchestration]] (2), [[Microsoft Products|Products]] (1), [[System Architecture]] (1), product (1)
 > **Speakers:** - [narrator] (1)
 
 

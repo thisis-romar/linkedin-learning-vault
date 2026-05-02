@@ -35,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/data-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Working%20With%20Data.md)
@@ -54,42 +54,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Python and Data: Made for each other
-  - Getting Set Up
-  - The sample data set
-  - Tour of CoderPad
+  - [Python and Data: Made for each other](#python-and-data-made-for-each-other)
+  - [Getting Set Up](#getting-set-up)
+  - [The sample data set](#the-sample-data-set)
+  - [Tour of CoderPad](#tour-of-coderpad)
 - [**1. Built-In Data Functions**](#1-built-in-data-functions) (7 videos)
-  - Using built-in functions
-  - Finding min and max values
-  - Data utility functions
-  - Sorting data
-  - Data filtering
-  - Data transformation
-  - Solution: Build a data summary
+  - [Using built-in functions](#using-built-in-functions)
+  - [Finding min and max values](#finding-min-and-max-values)
+  - [Data utility functions](#data-utility-functions)
+  - [Sorting data](#sorting-data)
+  - [Data filtering](#data-filtering)
+  - [Data transformation](#data-transformation)
+  - [Solution: Build a data summary](#solution-build-a-data-summary)
 - [**2. Collection Classes**](#2-collection-classes) (6 videos)
-  - Overview of collection classes
-  - Named tuples
-  - Default dictionaries
-  - Counters
-  - The deque class
-  - Solution: Classify event types
+  - [Overview of collection classes](#overview-of-collection-classes)
+  - [Named tuples](#named-tuples)
+  - [Default dictionaries](#default-dictionaries)
+  - [Counters](#counters)
+  - [The deque class](#the-deque-class)
+  - [Solution: Classify event types](#solution-classify-event-types)
 - [**3. Serializing Data in Python**](#3-serializing-data-in-python) (6 videos)
-  - Overview of serialization
-  - Serializing data as CSV
-  - Serializing data as JSON
-  - Deserialization of data
-  - Challenge: Create a CSV file
-  - Solution: Create a CSV file
+  - [Overview of serialization](#overview-of-serialization)
+  - [Serializing data as CSV](#serializing-data-as-csv)
+  - [Serializing data as JSON](#serializing-data-as-json)
+  - [Deserialization of data](#deserialization-of-data)
+  - [Challenge: Create a CSV file](#challenge-create-a-csv-file)
+  - [Solution: Create a CSV file](#solution-create-a-csv-file)
 - [**4. Python Logging**](#4-python-logging) (3 videos)
-  - Overview of logging
-  - Basic logging
-  - Custom logging
+  - [Overview of logging](#overview-of-logging)
+  - [Basic logging](#basic-logging)
+  - [Custom logging](#custom-logging)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python and Data: Made for each other
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980)
@@ -110,6 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), [[Programming]] (1), [[JSON]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Env Vars:** csv (1), json (1)
 > **Speakers:** - [joe] (1)
@@ -195,12 +196,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[GitHub]] (3), [[Codespaces]] (2), data (1), [[Search]] (1)
 > **CLI Commands:** python (8), find (2), make (2)
 > **Prerequisites:** install (5), set up (3), you'll need (1)
 > **Tools:** github (3), terminal (3), visual studio (1), jupyter (1)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
 > **Exercise Files:** download the (1), zip file (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** zip (1)
 > **Versions:** version 3 (1)
 
@@ -295,8 +296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Python (Programming Language)|Python]] (2), [[Real-Time]] (2), [[JSON]] (2), [[Metadata]] (1)
 > **UI Navigation:** click on (4), scroll down (3)
-> **Code Keywords:** let (4), if, (1), this. (1)
 > **Env Vars:** usgs (1), atom (1), json (1), url (1)
 > **CLI Commands:** python (2)
 > **File Paths:** 30dayquakes.json (1)
@@ -387,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Cross-References:** next video (1)
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 ### 1. Built-In Data Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/using-built-in-functions?u=76281980)
@@ -424,8 +425,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
-> **Code Keywords:** function (3)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
@@ -616,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (10), this. (2), case, (1), this, (1)
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (5), [[JSON]] (4), [[GitHub]] (2), [[Metadata]] (2)
 > **CLI Commands:** find (5), python (5), make (4)
 > **Tools:** terminal (3), github (2), visual studio (1), vs code (1)
 > **Env Vars:** json (4)
@@ -820,7 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (7), case, (4), finally, (1), try. (1)
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), make (1)
 > **Tools:** terminal (3)
 > **File Paths:** utility.py (2)
@@ -946,7 +947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (10), case, (2)
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (3), [[JSON]] (1)
 > **File Paths:** sorting.py (3)
 > **CLI Commands:** python (3)
 > **Tools:** terminal (3)
@@ -1088,7 +1089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), let (11), this. (3), pass (2), this, (1)
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (2), [[JSON]] (1)
 > **Code Identifiers:** filterevens (2), filteruppers (2), notaquake (2)
 > **CLI Commands:** python (2), make (1)
 > **Tools:** terminal (3)
@@ -1296,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), let (16), pass (4), this. (3), module (3)
+> **Frameworks & Libraries:** data (17), [[JSON]] (5), [[Python (Programming Language)|Python]] (2), power (1)
 > **CLI Commands:** make (4), python (2), find (1)
 > **Env Vars:** json (5)
 > **Cross-References:** go back to (3), previous video (1)
@@ -1370,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), this. (1)
+> **Frameworks & Libraries:** data (2), [[Metadata]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1379,7 +1380,7 @@ created: 2026-04-29
 
 ### 2. Collection Classes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of collection classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-collection-classes?u=76281980)
@@ -1406,6 +1407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), [[Programming]] (1), next (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1521,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (2), class. (2), module (1), this, (1)
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), hit (1)
 > **CLI Commands:** make (3), python (2)
 > **File Paths:** namedtuple.py (1)
 > **Tools:** terminal (1)
@@ -1635,7 +1637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3), function (3), module (2), lambda (2)
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Tools:** terminal (2)
 > **Definitions:** is an  (2)
@@ -1781,7 +1783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (6), class. (4), module (1), class, (1)
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -1900,7 +1902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (3), case, (2), this. (2), from. (1)
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** is called (1), stands for (1)
 > **Code Identifiers:** ascii_lowercase (1)
 > **Tools:** terminal (1)
@@ -1962,7 +1964,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), let (2), class. (1), type, (1), function (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1970,7 +1971,7 @@ created: 2026-04-29
 
 ### 3. Serializing Data in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of serialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980)
@@ -2005,9 +2006,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[JSON]] (3), [[Python (Programming Language)|Python]] (2), database (1), [[JavaScript]] (1)
 > **Env Vars:** json (3), csv (2)
 > **CLI Commands:** python (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -2172,7 +2173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (3), finally, (3), function (2), this. (2)
+> **Frameworks & Libraries:** data (16), [[Python (Programming Language)|Python]] (2), [[JSON]] (1), next (1)
 > **Env Vars:** csv (7), json (1), url (1)
 > **CLI Commands:** make (4), python (2), find (1)
 > **Code Identifiers:** serialize_csv (3)
@@ -2352,7 +2353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (14), module (6), this, (2), this. (1)
+> **Frameworks & Libraries:** [[JSON]] (21), data (12), next (1), [[Data Manipulation]] (1)
 > **Env Vars:** json (19), url (1)
 > **CLI Commands:** make (7)
 > **Tools:** terminal (3)
@@ -2476,7 +2477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), module (4), this. (2), class, (1), pass (1)
+> **Frameworks & Libraries:** data (18), [[JSON]] (5), next (2), [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (5)
 > **File Paths:** largequakes.csv (2)
 > **CLI Commands:** python (1), make (1)
@@ -2568,7 +2569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2)
+> **Frameworks & Libraries:** [[Google]] (7), data (4), [[Programming]] (1), [[JSON]] (1), next (1)
 > **Env Vars:** csv (3), json (1), ctrl (1), url (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2655,7 +2656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), lambda (1), module (1)
+> **Frameworks & Libraries:** data (16), [[Google]] (4), [[Python (Programming Language)|Python]] (1), next (1), [[JSON]] (1)
 > **Env Vars:** csv (2), json (1), url (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Cross-References:** go back to (1)
@@ -2667,7 +2668,7 @@ created: 2026-04-29
 
 ### 4. Python Logging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-logging?u=76281980)
@@ -2702,6 +2703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), [[Debugging]] (1), business (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -2868,7 +2870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), module (4), function (4), continue (1), default, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), application (1), data (1), next (1)
 > **Code Identifiers:** basicconfig (7), basiclog_start (1)
 > **Warnings:** warning (7)
 > **CLI Commands:** make (4), python (1)
@@ -3076,7 +3078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (13), module (5), from. (2), pass (1)
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (2), [[Tokens]] (2), [[Search]] (1), feature (1)
 > **CLI Commands:** make (3), python (2)
 > **Analogies:** for example (2), such as (1)
 > **Code Identifiers:** funcname (2)
@@ -3088,7 +3090,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980)
@@ -3107,6 +3109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [joe] (1)
 

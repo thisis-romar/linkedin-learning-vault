@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/vue-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20Vue%20Js.md)
@@ -43,40 +43,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Is Vue for you?
-  - What you should know
+  - [Is Vue for you?](#is-vue-for-you)
+  - [What you should know](#what-you-should-know)
 - [**1. Managing Dynamic Content and Behavior**](#1-managing-dynamic-content-and-behavior) (6 videos)
-  - What problems does Vue.js solve?
-  - Adding Vue.js to a project
-  - Configuring dynamic elements
-  - Binding to inner text and HTML
-  - Dynamic attributes and v-model
-  - Handling events with v-on
+  - [What problems does Vue.js solve?](#what-problems-does-vuejs-solve)
+  - [Adding Vue.js to a project](#adding-vuejs-to-a-project)
+  - [Configuring dynamic elements](#configuring-dynamic-elements)
+  - [Binding to inner text and HTML](#binding-to-inner-text-and-html)
+  - [Dynamic attributes and v-model](#dynamic-attributes-and-v-model)
+  - [Handling events with v-on](#handling-events-with-v-on)
 - [**2. Form Control Bindings**](#2-form-control-bindings) (5 videos)
-  - Text field bindings
-  - Using v-model with related checkboxes
-  - Configuring radio buttons and select elements
-  - Adding modifiers
-  - Computed properties
+  - [Text field bindings](#text-field-bindings)
+  - [Using v-model with related checkboxes](#using-v-model-with-related-checkboxes)
+  - [Configuring radio buttons and select elements](#configuring-radio-buttons-and-select-elements)
+  - [Adding modifiers](#adding-modifiers)
+  - [Computed properties](#computed-properties)
 - [**3. Rendering and Styling Logic**](#3-rendering-and-styling-logic) (5 videos)
-  - Conditional rendering with v-if
-  - Conditional rendering with v-show
-  - Looping and list rendering with v-for
-  - Binding style attributes
-  - Binding CSS classes
+  - [Conditional rendering with v-if](#conditional-rendering-with-v-if)
+  - [Conditional rendering with v-show](#conditional-rendering-with-v-show)
+  - [Looping and list rendering with v-for](#looping-and-list-rendering-with-v-for)
+  - [Binding style attributes](#binding-style-attributes)
+  - [Binding CSS classes](#binding-css-classes)
 - [**4. Using Vue Components**](#4-using-vue-components) (6 videos)
-  - Creating and registering components
-  - Using component props
-  - Configuring custom events
-  - Using component slots
-  - Installing Vue CLI
-  - Creating single file components
+  - [Creating and registering components](#creating-and-registering-components)
+  - [Using component props](#using-component-props)
+  - [Configuring custom events](#configuring-custom-events)
+  - [Using component slots](#using-component-slots)
+  - [Installing Vue CLI](#installing-vue-cli)
+  - [Creating single file components](#creating-single-file-components)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Is Vue for you?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980)
@@ -99,8 +99,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (3), [[Vue.js]] (2), [[HTML]] (1), data (1), next (1)
 > **File Paths:** vue.js (2)
-> **Code Keywords:** switch (1)
 > **Env Vars:** html (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [michael] (1)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), css (1), [[JavaScript]] (1), [[ECMAScript]] (1), [[Node.js]] (1)
 > **CLI Commands:** node (1), npm (1)
 > **Env Vars:** html (1), css (1)
 > **File Paths:** node.js (1)
@@ -127,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Managing Dynamic Content and Behavior
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What problems does Vue.js solve?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980)
@@ -188,7 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this. (1), self (1), finally, (1)
+> **Frameworks & Libraries:** [[Vue.js]] (3), dom (3), [[Vue.js|Vue]] (3), application (3), [[JavaScript]] (2)
 > **Code Identifiers:** appendelement (2), jquery (1), makesureeverythingstaysinsyncfromnowon (1)
 > **File Paths:** vue.js (3)
 > **Prerequisites:** set up (2), required to (1)
@@ -242,8 +243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (4), data (4), [[JavaScript]] (2), [[HTML]] (1), [[npm]] (1)
 > **Env Vars:** url (4), cdn (3), html (1), npm (1), cli (1)
-> **Code Keywords:** for, (1), interface (1), case, (1)
 > **Versions:** version 2 (1), version 3 (1), 3.0.7 (1)
 > **CLI Commands:** npm (1), find (1)
 > **Tools:** command line (2)
@@ -298,7 +299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), const (1), var (1), let (1), pass (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (6), data (5), [[Vue.js]] (3), next (2), dom (2)
 > **Env Vars:** dom (2), css (1), html (1)
 > **File Paths:** vue.js (3)
 > **Code Identifiers:** deckname (1), createapp (1)
@@ -356,7 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** data (7), [[HTML]] (5), [[Vue.js|Vue]] (1), [[JavaScript]] (1), dom (1)
 > **Env Vars:** html (3), dom (1)
 > **Code Identifiers:** deckname (1)
 > **Definitions:** is a  (1)
@@ -418,7 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (1), type, (1), else, (1)
+> **Frameworks & Libraries:** data (8), next (3), [[Vue.js|Vue]] (2), hit (2), [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** readmoreurl (2), userinput (2)
 > **Env Vars:** url (1), css (1), dom (1)
 > **Prerequisites:** set up (1), setup (1)
@@ -522,7 +523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (3), case, (1), pass (1)
+> **Frameworks & Libraries:** next (5), data (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Vue.js|Vue]] (1)
 > **Exercise Files:** template (3)
 > **Env Vars:** html (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -534,7 +535,7 @@ created: 2026-04-29
 
 ### 2. Form Control Bindings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Text field bindings
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980)
@@ -605,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (6), [[Vue.js|Vue]] (4), [[HTML]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **File Paths:** vue.js (1)
 > **Env Vars:** html (1)
 > **Analogies:** for instance (1)
@@ -670,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (4), data (2), [[HTML]] (1), next (1)
 > **UI Navigation:** checkbox (6), toggle (1)
-> **Code Keywords:** let (5), case, (1)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -736,9 +737,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (12), data (4), next (3), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **UI Navigation:** click on (4), dropdown (2), scroll down (1), toggle (1)
 > **Tools:** firefox (5), github (1)
-> **Code Keywords:** let (4), continue (1)
 > **Env Vars:** xpi (1), f12 (1), json (1), api (1)
 > **Non-Speech:** (computer keys clicking) (4)
 > **Definitions:** known as (1), is a  (1), is an  (1)
@@ -816,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), let (1), self (1)
+> **Frameworks & Libraries:** hit (3), data (3), [[Microsoft Word|Word]] (1), next (1), [[AJAX]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ajax (1)
 > **Exercise Files:** template (1)
@@ -883,7 +884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1), function (1), except, (1), this. (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (5), data (4), dom (2), [[Vue.js]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** charsleft (2), deckdescription (2)
 > **Exercise Files:** template (4)
 > **Env Vars:** dom (2), css (1)
@@ -895,7 +896,7 @@ created: 2026-04-29
 
 ### 3. Rendering and Styling Logic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditional rendering with v-if
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980)
@@ -964,8 +965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (3), css (3), [[HTML]] (2), dom (2), [[JavaScript]] (1)
 > **Env Vars:** css (3), dom (2), html (1)
-> **Code Keywords:** if. (2), let (2), else. (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1014,7 +1015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else, (1), finally, (1), else. (1)
+> **Frameworks & Libraries:** next (3), css (2), dom (1), [[JavaScript]] (1), application (1)
 > **Env Vars:** css (2), dom (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), it's like (1)
@@ -1137,7 +1138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (1), if. (1), static (1)
+> **Frameworks & Libraries:** data (4), next (2), dom (1), css (1), [[HTML]] (1)
 > **Code Identifiers:** editindex (3)
 > **Env Vars:** dom (1), css (1)
 > **CLI Commands:** make (1)
@@ -1221,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), let (2), case. (1), this. (1)
+> **Frameworks & Libraries:** css (5), data (4), next (3), [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** css (5), html (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (3)
@@ -1335,7 +1336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (10), let (4), continue (2), else, (1), this, (1)
+> **Frameworks & Libraries:** next (4), css (2), [[Vue.js|Vue]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** isrepeat (9), gotit (2), anotherclass (1)
 > **Env Vars:** got (3), again (3), css (2)
 > **CLI Commands:** make (3)
@@ -1347,7 +1348,7 @@ created: 2026-04-29
 
 ### 4. Using Vue Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and registering components
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980)
@@ -1402,7 +1403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), static (1), this, (1), finally, (1), require (1)
+> **Frameworks & Libraries:** data (5), [[HTML]] (2), next (2), [[Vue.js|Vue]] (1), [[JavaScript]] (1)
 > **Exercise Files:** template (6)
 > **Env Vars:** url (2), html (2)
 > **CLI Commands:** make (3)
@@ -1504,8 +1505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (3), [[Forms]] (1), [[HTML]] (1)
 > **Code Identifiers:** isrepeat (6), readmoreurl (5)
-> **Code Keywords:** pass (4), let (3)
 > **Env Vars:** url (5), html (1)
 > **Exercise Files:** template (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1578,7 +1579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), raise (1), pass (1), this, (1)
+> **Frameworks & Libraries:** data (4), next (1), feature (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** isflipped (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1672,7 +1673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), if, (1), this. (1), default. (1)
+> **Frameworks & Libraries:** data (3), [[HTML]] (1), next (1)
 > **Exercise Files:** template (9)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** url (5), html (1)
@@ -1772,11 +1773,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (18), [[CLI]] (6), [[npm]] (5), next (4), [[Node.js]] (3)
 > **Env Vars:** cli (6), npm (5), html (3), ide (2), lts (1)
 > **CLI Commands:** npm (5), node (4), make (2), find (1), cd (1)
 > **File Paths:** node.js (3), vue.js (2)
 > **Tools:** command line (2), vs code (1), terminal (1), github (1)
-> **Code Keywords:** let (2), interface (1), public (1)
 > **Prerequisites:** configure (2), install (2)
 > **Cross-References:** in the next (2), go back to (1)
 > **UI Navigation:** click on (3)
@@ -1864,7 +1865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (1), export, (1), pass (1), self (1)
+> **Frameworks & Libraries:** css (5), [[JavaScript]] (3), [[Vue.js|Vue]] (3), [[CLI]] (2), data (2)
 > **Env Vars:** css (5), cli (2), ujs (1)
 > **CLI Commands:** make (3), find (1)
 > **Exercise Files:** template (3)
@@ -1876,7 +1877,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980)
@@ -1921,11 +1922,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (10), data (5), dom (2), api (2), next (1)
 > **Env Vars:** dom (2), api (2), ajax (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1), known as (1)
 > **File Paths:** vue.js (1)
-> **Code Keywords:** try. (1)
 > **Speakers:** - [michael] (1)
 
 

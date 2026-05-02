@@ -30,7 +30,7 @@ tags:
   - skill/private-clouds
   - skill/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Computing-%20Understanding%20Private%20Cloud%20Options.md)
@@ -49,71 +49,71 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding private clouds
-  - What you should know
+  - [Understanding private clouds](#understanding-private-clouds)
+  - [What you should know](#what-you-should-know)
 - [**1. Private Cloud Basics**](#1-private-cloud-basics) (6 videos)
-  - Private versus public cloud
-  - Why we leverage private clouds
-  - Why we don't leverage private clouds
-  - Considering costs and making the business case for private clouds
-  - The evolving private cloud market
-  - AI's impact on private clouds
+  - [Private versus public cloud](#private-versus-public-cloud)
+  - [Why we leverage private clouds](#why-we-leverage-private-clouds)
+  - [Why we don't leverage private clouds](#why-we-dont-leverage-private-clouds)
+  - [Considering costs and making the business case for private clouds](#considering-costs-and-making-the-business-case-for-private-clouds)
+  - [The evolving private cloud market](#the-evolving-private-cloud-market)
+  - [AI's impact on private clouds](#ais-impact-on-private-clouds)
 - [**2. Private Cloud Platforms**](#2-private-cloud-platforms) (11 videos)
-  - Types of private clouds
-  - Traditional private clouds
-  - IoT private clouds
-  - Edge private cloud
-  - Private clouds as a service
-  - AI private clouds
-  - Multi-private clouds
-  - Emerging private cloud solutions for the enterprise
-  - Picking the right solution for your enterprise
-  - Challenge: To private cloud or not to private cloud
-  - Solution: From requirements to solution
+  - [Types of private clouds](#types-of-private-clouds)
+  - [Traditional private clouds](#traditional-private-clouds)
+  - [IoT private clouds](#iot-private-clouds)
+  - [Edge private cloud](#edge-private-cloud)
+  - [Private clouds as a service](#private-clouds-as-a-service)
+  - [AI private clouds](#ai-private-clouds)
+  - [Multi-private clouds](#multi-private-clouds)
+  - [Emerging private cloud solutions for the enterprise](#emerging-private-cloud-solutions-for-the-enterprise)
+  - [Picking the right solution for your enterprise](#picking-the-right-solution-for-your-enterprise)
+  - [Challenge: To private cloud or not to private cloud](#challenge-to-private-cloud-or-not-to-private-cloud)
+  - [Solution: From requirements to solution](#solution-from-requirements-to-solution)
 - [**3. Private Clouds within Multicloud and Hybrid Clouds**](#3-private-clouds-within-multicloud-and-hybrid-clouds) (6 videos)
-  - Introduction to private clouds within multiclouds and hybrid clouds
-  - Why do we build complex cloud deployments?
-  - Business case for hybrid and multiclouds with private clouds
-  - Hybrid clouds and private clouds
-  - Multiclouds and private clouds
-  - Future direction of private clouds
+  - [Introduction to private clouds within multiclouds and hybrid clouds](#introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds)
+  - [Why do we build complex cloud deployments?](#why-do-we-build-complex-cloud-deployments)
+  - [Business case for hybrid and multiclouds with private clouds](#business-case-for-hybrid-and-multiclouds-with-private-clouds)
+  - [Hybrid clouds and private clouds](#hybrid-clouds-and-private-clouds)
+  - [Multiclouds and private clouds](#multiclouds-and-private-clouds)
+  - [Future direction of private clouds](#future-direction-of-private-clouds)
 - [**4. OpenStack**](#4-openstack) (7 videos)
-  - OpenStack compatibility
-  - OpenStack flexibility
-  - OpenStack security
-  - OpenStack operations
-  - OpenStack summary
-  - Challenge: When do I use OpenStack?
-  - Solution: From requirements to solution
+  - [OpenStack compatibility](#openstack-compatibility)
+  - [OpenStack flexibility](#openstack-flexibility)
+  - [OpenStack security](#openstack-security)
+  - [OpenStack operations](#openstack-operations)
+  - [OpenStack summary](#openstack-summary)
+  - [Challenge: When do I use OpenStack?](#challenge-when-do-i-use-openstack)
+  - [Solution: From requirements to solution](#solution-from-requirements-to-solution)
 - [**5. AWS Outposts**](#5-aws-outposts) (7 videos)
-  - AWS Outposts compatibility
-  - AWS Outposts flexibility
-  - AWS Outposts security
-  - AWS Outposts operations
-  - AWS Outposts summary
-  - Challenge: When do I use AWS Outposts?
-  - Solution: From requirements to solution
+  - [AWS Outposts compatibility](#aws-outposts-compatibility)
+  - [AWS Outposts flexibility](#aws-outposts-flexibility)
+  - [AWS Outposts security](#aws-outposts-security)
+  - [AWS Outposts operations](#aws-outposts-operations)
+  - [AWS Outposts summary](#aws-outposts-summary)
+  - [Challenge: When do I use AWS Outposts?](#challenge-when-do-i-use-aws-outposts)
+  - [Solution: From requirements to solution](#solution-from-requirements-to-solution)
 - [**6. Microsoft Stack**](#6-microsoft-stack) (7 videos)
-  - Microsoft Stack compatibility
-  - Microsoft Stack flexibility
-  - Microsoft Stack security
-  - Microsoft Stack operations
-  - Microsoft Stack summary
-  - Challenge: When do I use Microsoft Stack?
-  - Solution: From requirements to solution
+  - [Microsoft Stack compatibility](#microsoft-stack-compatibility)
+  - [Microsoft Stack flexibility](#microsoft-stack-flexibility)
+  - [Microsoft Stack security](#microsoft-stack-security)
+  - [Microsoft Stack operations](#microsoft-stack-operations)
+  - [Microsoft Stack summary](#microsoft-stack-summary)
+  - [Challenge: When do I use Microsoft Stack?](#challenge-when-do-i-use-microsoft-stack)
+  - [Solution: From requirements to solution](#solution-from-requirements-to-solution)
 - [**7. Private Cloud Deployment**](#7-private-cloud-deployment) (6 videos)
-  - Should I leverage a private cloud?
-  - Selecting which private cloud to leverage
-  - Preparing for private cloud deployment
-  - Considering private cloud security and operations
-  - Challenge: What are the steps to a sound private cloud deployment?
-  - Solution: Succeeding with private cloud
+  - [Should I leverage a private cloud?](#should-i-leverage-a-private-cloud)
+  - [Selecting which private cloud to leverage](#selecting-which-private-cloud-to-leverage)
+  - [Preparing for private cloud deployment](#preparing-for-private-cloud-deployment)
+  - [Considering private cloud security and operations](#considering-private-cloud-security-and-operations)
+  - [Challenge: What are the steps to a sound private cloud deployment?](#challenge-what-are-the-steps-to-a-sound-private-cloud-deployment)
+  - [Solution: Succeeding with private cloud](#solution-succeeding-with-private-cloud)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Going deeper with private clouds
+  - [Going deeper with private clouds](#going-deeper-with-private-clouds)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding private clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980)
@@ -134,7 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4)
+> **Frameworks & Libraries:** cloud (5), [[Private Clouds]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -162,13 +162,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[LinkedIn]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Private Cloud Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Private versus public cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980)
@@ -203,7 +204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (4)
+> **Frameworks & Libraries:** cloud (9), [[Security]] (2), [[Private Clouds]] (2), [[Cloud Infrastructure]] (1), aws (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
@@ -256,7 +257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (10), public (4), require (2), let (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (10), data (4), [[Security]] (4), cloud (2), feature (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -313,7 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (16), public (5), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (12), cloud (6), [[Hardware]] (2), business (1), [[Security]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** we discussed (1)
 > **Prerequisites:** you need to have (1)
@@ -366,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (15), public (3), require (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (14), business (3), [[Security]] (2), data (2), [[Hardware]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### The evolving private cloud market
@@ -416,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (14), public (5), finally, (1), continue (1)
+> **Frameworks & Libraries:** cloud (14), data (7), [[Private Clouds]] (4), [[Hybrid Cloud]] (2), [[Containerization]] (2)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** docker (1), find (1)
 > **Speakers:** - [instructor] (1)
@@ -454,7 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), let (1), public (1)
+> **Frameworks & Libraries:** ai (11), [[Private Clouds]] (7), data (3), cloud (3), [[Automation]] (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -462,7 +463,7 @@ created: 2026-04-29
 
 ### 2. Private Cloud Platforms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of private clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980)
@@ -501,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (14), function (1), public (1)
+> **Frameworks & Libraries:** cloud (13), [[Private Clouds]] (5), [[Hardware]] (2), data (2), next (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
@@ -534,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), public (1)
+> **Frameworks & Libraries:** cloud (8), data (3), [[Cloud Infrastructure]] (2), [[Private Clouds]] (2), [[Security]] (1)
 > **Cross-References:** we covered (1), in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -571,7 +572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), public (1), require (1)
+> **Frameworks & Libraries:** [[IoT]] (9), data (6), [[Private Clouds]] (5), cloud (4), management (3)
 > **Env Vars:** iot (9)
 > **Speakers:** - [person] (1)
 
@@ -610,7 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (15), extends (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (8), cloud (6), data (6), business (1), [[IoT]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -666,7 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), let (3), require (1), public (1)
+> **Frameworks & Libraries:** cloud (11), business (4), [[Private Clouds]] (3), [[Security]] (2), teams (2)
 > **Env Vars:** msp (3)
 > **Analogies:** such as (2)
 > **Prerequisites:** configure (1)
@@ -703,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), public (4), require (1), let (1)
+> **Frameworks & Libraries:** ai (12), cloud (6), [[Private Clouds]] (5), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpu (1)
 > **Analogies:** for example (1)
@@ -759,7 +760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), let (1)
+> **Frameworks & Libraries:** cloud (7), data (3), management (3), business (2), [[Security]] (2)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** setup (1)
@@ -816,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (14), public (3), let (1), extends (1), self (1)
+> **Frameworks & Libraries:** cloud (22), [[Microsoft Azure|Azure]] (6), data (5), [[Cloud Infrastructure]] (4), [[Security]] (3)
 > **Env Vars:** ibm (4)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
@@ -892,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (13), self (1)
+> **Frameworks & Libraries:** cloud (13), [[Security]] (6), management (5), business (3), [[Scalability]] (2)
 > **Env Vars:** tco (2), hipaa (1), gdpr (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -923,7 +924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), public (1)
+> **Frameworks & Libraries:** cloud (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -975,7 +976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), public (3), let (1)
+> **Frameworks & Libraries:** cloud (6), [[Security]] (5), data (5), [[Hybrid Cloud]] (2), [[Private Clouds]] (1)
 > **Env Vars:** xyz (7)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -985,7 +986,7 @@ created: 2026-04-29
 
 ### 3. Private Clouds within Multicloud and Hybrid Clouds
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to private clouds within multiclouds and hybrid clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980)
@@ -1040,7 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (10), public (4)
+> **Frameworks & Libraries:** cloud (14), data (6), [[Security]] (4), [[Private Clouds]] (3), [[Hybrid Cloud]] (3)
 > **Env Vars:** aws (1), nist (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** aws (1)
@@ -1088,7 +1089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), public (1), let (1)
+> **Frameworks & Libraries:** cloud (7), business (2), management (2), aws (1), [[Microsoft]] (1)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** aws (1), find (1)
 > **Env Vars:** aws (1)
@@ -1151,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), private (2), let (1)
+> **Frameworks & Libraries:** cloud (14), [[Hybrid Cloud]] (6), business (5), [[Private Clouds]] (2), strengths (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **Cross-References:** we covered (1)
@@ -1186,7 +1187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (5), continue (1)
+> **Frameworks & Libraries:** cloud (2), aws (1), [[Microsoft]] (1), [[Microsoft Azure]] (1), [[Linux]] (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -1220,7 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), case, (1), public (1)
+> **Frameworks & Libraries:** cloud (5), aws (3), [[Microsoft]] (2), [[Private Clouds]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
 > **Definitions:** is a  (1)
@@ -1266,7 +1267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (11), public (7), let (1), continue (1)
+> **Frameworks & Libraries:** cloud (14), [[Private Clouds]] (5), data (3), aws (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Definitions:** means that (1)
@@ -1276,7 +1277,7 @@ created: 2026-04-29
 
 ### 4. OpenStack
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OpenStack compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980)
@@ -1349,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (3), function (2)
+> **Frameworks & Libraries:** cloud (9), management (5), [[Orchestration]] (5), [[Cloud Infrastructure]] (3), [[Private Clouds]] (2)
 > **Env Vars:** kvm (1), vmm (1), cpu (1), san (1), nas (1)
 > **CLI Commands:** ansible (1), terraform (1), make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1384,7 +1385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), public (1), private (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (2), [[Scalability]] (2), [[Virtualization]] (1), management (1), [[Private Clouds]] (1)
 > **Env Vars:** kvm (1), sdn (1), nfv (1)
 > **Cross-References:** we covered (1), in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -1438,7 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), public (1), protected (1)
+> **Frameworks & Libraries:** [[Security]] (10), data (3), cloud (3), traffic (2), feature (1)
 > **Env Vars:** rbac (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1486,6 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), management (2), [[Security]] (2), [[Troubleshooting]] (2), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** ansible (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
@@ -1534,8 +1536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Security]] (2), [[Scalability]] (1), [[Private Clouds]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** private (2), this. (1), finally, (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1559,7 +1561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1)
+> **Frameworks & Libraries:** next (2), cloud (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1592,7 +1594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), finally, (1)
+> **Frameworks & Libraries:** cloud (1), [[Cloud Infrastructure]] (1), next (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
@@ -1602,7 +1604,7 @@ created: 2026-04-29
 
 ### 5. AWS Outposts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS Outposts compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980)
@@ -1649,9 +1651,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (21), cloud (10), application (2), [[Security]] (2), web (1)
 > **Env Vars:** aws (21), ec2 (1), ebs (1), rds (1), eks (1)
 > **CLI Commands:** aws (21)
-> **Code Keywords:** public (7), private (2), extends (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
@@ -1691,7 +1693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (2)
+> **Frameworks & Libraries:** cloud (5), aws (4), [[Scalability]] (2), data (2), [[Hybrid Cloud]] (2)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (4)
 > **Cross-References:** in the next (1)
@@ -1731,9 +1733,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), [[Security]] (6), cloud (4), data (4), [[Hardware]] (3)
 > **Env Vars:** aws (11), ssm (2)
 > **CLI Commands:** aws (11), find (1)
-> **Code Keywords:** private (4), public (4)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1777,9 +1779,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), cloud (4), [[Cloud Infrastructure]] (1), [[Programming]] (1), [[Deployment Planning]] (1)
 > **CLI Commands:** aws (8), make (1)
 > **Env Vars:** aws (8)
-> **Code Keywords:** public (1), private (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
@@ -1832,9 +1834,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (11), data (10), cloud (4), [[Scalability]] (3), [[Hybrid Cloud]] (1)
 > **CLI Commands:** aws (11), find (1)
 > **Env Vars:** aws (11)
-> **Code Keywords:** require (2), private (2), public (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1869,9 +1871,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), business (2), aws (2)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1919,9 +1921,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), data (4), cloud (4), [[Security]] (1), [[Hybrid Cloud]] (1)
 > **CLI Commands:** aws (6)
 > **Env Vars:** aws (6)
-> **Code Keywords:** private (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -1930,7 +1932,7 @@ created: 2026-04-29
 
 ### 6. Microsoft Stack
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Stack compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980)
@@ -1981,7 +1983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (11), [[Microsoft Azure]] (9), cloud (4), [[Windows]] (3), data (2)
 > **Env Vars:** aws (1), sql (1), net (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** aws (1)
@@ -2028,7 +2030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (2), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (7), cloud (5), business (4), [[Microsoft Azure|Azure]] (3), [[Windows Server]] (2)
 > **Env Vars:** aws (1), sac (1), net (1)
 > **CLI Commands:** aws (1), python (1)
 > **File Paths:** no.js (1)
@@ -2095,7 +2097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), private (2), extends (1)
+> **Frameworks & Libraries:** [[Security]] (14), [[Microsoft Azure]] (8), cloud (4), [[Microsoft]] (3), data (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** gdpr (1), iso (1)
 > **Analogies:** such as (1)
@@ -2134,6 +2136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Azure]] (3), [[Automation]] (3), [[Security]] (3), [[Microsoft]] (2)
 > **Env Vars:** oms (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2165,7 +2168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Security]] (6), [[Microsoft Azure]] (4), cloud (4), data (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** oms (1)
 > **Speakers:** - [instructor] (1)
@@ -2189,7 +2192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bouncy music) (1)
@@ -2223,7 +2226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), public (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Security]] (4), cloud (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2232,7 +2235,7 @@ created: 2026-04-29
 
 ### 7. Private Cloud Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Should I leverage a private cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980)
@@ -2277,7 +2280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (12), let (1), public (1), require (1), finally, (1)
+> **Frameworks & Libraries:** cloud (9), data (6), [[Private Clouds]] (4), [[Security]] (4), [[Hybrid Cloud]] (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), it's like (1)
 > **Cross-References:** we covered (1)
@@ -2325,7 +2328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), let (1)
+> **Frameworks & Libraries:** cloud (5), [[Security]] (2), [[Scalability]] (1), data (1), application (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** select the (1)
@@ -2414,7 +2417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), finally, (1)
+> **Frameworks & Libraries:** cloud (9), [[Security]] (6), management (5), data (4), business (3)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -2462,7 +2465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3)
+> **Frameworks & Libraries:** [[Security]] (5), cloud (3), data (3), [[Automation]] (2), [[Incident Response]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Best Practices:** don't forget (1)
@@ -2484,7 +2487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** cloud (1), next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2537,7 +2540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5)
+> **Frameworks & Libraries:** cloud (6), [[Security]] (4), management (3), data (2), business (1)
 > **Cross-References:** we covered (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2546,7 +2549,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going deeper with private clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980)
@@ -2591,7 +2594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), continue (1), finally, (1)
+> **Frameworks & Libraries:** cloud (8), [[Private Clouds]] (7), next (1), business (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** we covered (1)

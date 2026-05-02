@@ -29,7 +29,7 @@ tags:
   - skill/legal-compliance
   - skill/general-data-protection-regulation-gdpr
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/GDPR%20Compliance-%20Essential%20Training.md)
@@ -48,51 +48,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting started with GDPR compliance
-  - Not legal advice disclaimer
-  - Definitions
+  - [Getting started with GDPR compliance](#getting-started-with-gdpr-compliance)
+  - [Not legal advice disclaimer](#not-legal-advice-disclaimer)
+  - [Definitions](#definitions)
 - [**1. GDPR Basics**](#1-gdpr-basics) (3 videos)
-  - Overview of GDPR basics
-  - Scope
-  - Important dates
+  - [Overview of GDPR basics](#overview-of-gdpr-basics)
+  - [Scope](#scope)
+  - [Important dates](#important-dates)
 - [**2. GDPR Responsibilities**](#2-gdpr-responsibilities) (3 videos)
-  - Data controllers and processors
-  - Joint controllers and third-party partners
-  - Data protection officer (DPO)
+  - [Data controllers and processors](#data-controllers-and-processors)
+  - [Joint controllers and third-party partners](#joint-controllers-and-third-party-partners)
+  - [Data protection officer (DPO)](#data-protection-officer-dpo)
 - [**3. Technical Components**](#3-technical-components) (5 videos)
-  - Article 24: Responsibilities of the controller
-  - Article 28: Data processor tasks
-  - Run books and processes
-  - PIAs and DPIAs
-  - Trust: A competitive advantage
+  - [Article 24: Responsibilities of the controller](#article-24-responsibilities-of-the-controller)
+  - [Article 28: Data processor tasks](#article-28-data-processor-tasks)
+  - [Run books and processes](#run-books-and-processes)
+  - [PIAs and DPIAs](#pias-and-dpias)
+  - [Trust: A competitive advantage](#trust-a-competitive-advantage)
 - [**4. Requirements**](#4-requirements) (4 videos)
-  - Legal basis
-  - Document activities
-  - Technical measures
-  - Notification
+  - [Legal basis](#legal-basis)
+  - [Document activities](#document-activities)
+  - [Technical measures](#technical-measures)
+  - [Notification](#notification)
 - [**5. Data Subject Rights**](#5-data-subject-rights) (7 videos)
-  - Access
-  - Correction
-  - Right to be forgotten
-  - Objection
-  - Children's data age 13-16
-  - Portability
-  - Prompt response
+  - [Access](#access)
+  - [Correction](#correction)
+  - [Right to be forgotten](#right-to-be-forgotten)
+  - [Objection](#objection)
+  - [Children's data age 13-16](#childrens-data-age-13-16)
+  - [Portability](#portability)
+  - [Prompt response](#prompt-response)
 - [**6. Breach Notification**](#6-breach-notification) (3 videos)
-  - Timing
-  - Public relations
-  - Incident response and forensics
+  - [Timing](#timing)
+  - [Public relations](#public-relations)
+  - [Incident response and forensics](#incident-response-and-forensics)
 - [**7. Real-World Guidance**](#7-real-world-guidance) (3 videos)
-  - Published guidance summary
-  - Enforcement action examples
-  - UK's Data Protection Act of 2018 and Brexit impacts
+  - [Published guidance summary](#published-guidance-summary)
+  - [Enforcement action examples](#enforcement-action-examples)
+  - [UK's Data Protection Act of 2018 and Brexit impacts](#uks-data-protection-act-of-2018-and-brexit-impacts)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Additional references to ensure GDPR compliance
-  - Not legal advice disclaimer
+  - [Additional references to ensure GDPR compliance](#additional-references-to-ensure-gdpr-compliance)
+  - [Not legal advice disclaimer](#not-legal-advice-disclaimer)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with GDPR compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/getting-started-with-gdpr-compliance-23861527?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Privacy]] (1), business (1)
 > **Env Vars:** gdpr (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - gdpr (1)
 
 #### Not legal advice disclaimer
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Env Vars:** gdpr (2)
 > **Speakers:** - [instructor] (1)
 
@@ -212,6 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (3), [[Privacy]] (2), [[Security]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gdpr (3)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -222,7 +224,7 @@ created: 2026-04-29
 
 ### 1. GDPR Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of GDPR basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980)
@@ -295,6 +297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Privacy]] (4), [[Statistics]] (1), application (1)
 > **Env Vars:** gdpr (5), aol (1)
 > **Definitions:** is a  (2), known as (1)
 > **Versions:** 4.9 (1)
@@ -359,7 +362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), require (1), finally, (1), protected (1)
+> **Frameworks & Libraries:** data (18), [[Security]] (1), web (1), business (1)
 > **Env Vars:** gdpr (3), pii (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1)
@@ -420,15 +423,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Office|Office]] (2), [[Security]] (2), business (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gdpr (6)
 > **Warnings:** note that (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. GDPR Responsibilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data controllers and processors
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-controllers-and-processors?u=76281980)
@@ -491,7 +494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** data (32), hr (3), [[Security]] (2), [[Accountability]] (1), product (1)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -546,8 +549,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Google]] (3), [[Security]] (2), [[Analytics]] (1), [[Privacy]] (1)
 > **Env Vars:** gdpr (5)
-> **Code Keywords:** extends (1), let (1), self (1)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -614,8 +617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), management (1), business (1), application (1), next (1)
 > **Env Vars:** dpo (10), gdpr (4)
-> **Code Keywords:** let (1), for. (1), raise (1), finally, (1)
 > **Definitions:** is an  (1)
 > **Warnings:** important note (1)
 > **Prerequisites:** required to (1)
@@ -624,7 +627,7 @@ created: 2026-04-29
 
 ### 3. Technical Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Article 24: Responsibilities of the controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980)
@@ -673,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1)
+> **Frameworks & Libraries:** data (9), next (1), [[Probability]] (1)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -731,9 +734,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Security]] (1), next (1)
 > **Env Vars:** raci (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -793,6 +796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[React.js|React]] (1), application (1), [[System Configuration]] (1), [[Security]] (1)
 > **Analogies:** such as (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -846,8 +850,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Privacy]] (2), [[Microsoft Products|Products]] (2), product (1), management (1)
 > **Env Vars:** pia (5), dpia (5), gdpr (2), pii (2)
-> **Code Keywords:** require (1), implements (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -919,9 +923,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Privacy]] (4), business (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** gdpr (2)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
@@ -930,7 +934,7 @@ created: 2026-04-29
 
 ### 4. Requirements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Legal basis
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/legal-basis?u=76281980)
@@ -995,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), private (1), finally, (1)
+> **Frameworks & Libraries:** data (12), next (3), [[Public Health]] (1)
 > **Env Vars:** gdpr (2), cdc (2)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1), just like (1)
@@ -1075,7 +1079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), this, (1), finally, (1), let (1), protected (1)
+> **Frameworks & Libraries:** data (30), [[Privacy]] (2), next (1), database (1), business (1)
 > **Env Vars:** gdpr (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** we discussed (1)
@@ -1148,8 +1152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Security]] (8), [[Representational State Transfer (REST)|Rest]] (2), next (1), [[NIST]] (1)
 > **Env Vars:** gdpr (2), tls (1), aes256 (1), cia (1), iso (1)
-> **Code Keywords:** this, (1), protected (1), finally, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1218,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), finally, (1), require (1), public (1)
+> **Frameworks & Libraries:** data (19), [[Privacy]] (5), business (2), [[Security]] (1), next (1)
 > **Env Vars:** gdpr (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -1230,7 +1234,7 @@ created: 2026-04-29
 
 ### 5. Data Subject Rights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Access
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980)
@@ -1269,6 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Privacy]] (1), [[Banking]] (1)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1)
@@ -1307,6 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1345,7 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (12), next (2), hr (1)
 > **Env Vars:** gdpr (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1391,7 +1397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), continue (1)
+> **Frameworks & Libraries:** data (14)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1422,7 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1465,7 +1471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** data (17), next (1)
 > **Env Vars:** gdpr (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1503,13 +1509,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), prompt (1), application (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Breach Notification
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Timing
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980)
@@ -1570,6 +1577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Privacy]] (3), teams (2), business (2), [[Security]] (1)
 > **Env Vars:** gdpr (3)
 > **Warnings:** caution (1), note that (1)
 > **Prerequisites:** required to (1)
@@ -1620,7 +1628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), this. (1)
+> **Frameworks & Libraries:** business (7), data (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdpr (1)
@@ -1686,9 +1694,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Incident Response]] (6), data (4), [[Security]] (2), next (1), business (1)
 > **Env Vars:** gdpr (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1696,7 +1704,7 @@ created: 2026-04-29
 
 ### 7. Real-World Guidance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Published guidance summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/published-guidance-summary?u=76281980)
@@ -1727,6 +1735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), application (1), [[Privacy]] (1)
 > **Env Vars:** gdpr (6), edpb (4)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
@@ -1793,10 +1802,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Security]] (3), business (1), power (1), [[Privacy]] (1)
 > **Env Vars:** gdpr (4), dpa (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1844,6 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Office|Office]] (1)
 > **Env Vars:** gdpr (12), dpa (2), ico (1)
 > **CLI Commands:** find (1)
 > **Definitions:** stands for (1)
@@ -1852,7 +1862,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional references to ensure GDPR compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980)
@@ -1875,6 +1885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Privacy]] (1), [[Security]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gdpr (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [mandy] (1)
@@ -1902,6 +1913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Env Vars:** gdpr (2)
 > **Speakers:** - [narrator] (1)
 

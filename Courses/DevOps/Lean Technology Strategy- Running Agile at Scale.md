@@ -22,7 +22,7 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Lean%20Technology%20Strategy-%20Running%20Agile%20at%20Scale.md)
@@ -41,15 +41,15 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Running Agile at Scale**](#1-running-agile-at-scale) (5 videos)
-  - The problems with agile at scale
-  - Principles of high-performance program management
-  - Case study: HP FutureSmart firmware
-  - Continuous improvement
-  - Conclusion
+  - [The problems with agile at scale](#the-problems-with-agile-at-scale)
+  - [Principles of high-performance program management](#principles-of-high-performance-program-management)
+  - [Case study: HP FutureSmart firmware](#case-study-hp-futuresmart-firmware)
+  - [Continuous improvement](#continuous-improvement)
+  - [Conclusion](#conclusion)
 
 ### 1. Running Agile at Scale
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The problems with agile at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980)
@@ -220,7 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), throw (1), this. (1), for, (1)
+> **Frameworks & Libraries:** teams (6), [[Agile Development|Agile]] (2), [[Economic Modeling]] (2), [[Microsoft Products|Products]] (2), product (2)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** hippo (1), cio (1)
@@ -364,9 +364,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (11), [[Engineering]] (8), next (4), feature (4), [[Continuous Integration (CI)|Continuous integration]] (4)
 > **Definitions:** is a  (6)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** this, (2), let (1)
 > **Env Vars:** usa (1)
 > **Versions:** 0.1 (1)
 > **Cross-References:** in the next (1)
@@ -502,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (1), else. (1)
+> **Frameworks & Libraries:** next (6), teams (5), product (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), management (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Versions:** 0.3 (1)
@@ -544,7 +544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), finally, (2)
+> **Frameworks & Libraries:** teams (2), [[Agile Development|Agile]] (1), management (1), feature (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Speakers:** - in (1)
 
 

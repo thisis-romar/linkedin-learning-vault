@@ -28,7 +28,7 @@ tags:
   - skill/office-365-administration
   - skill/powershell
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/PowerShell%20for%20Microsoft%20365%20Administration.md)
@@ -47,52 +47,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - PowerShell for Microsoft 365
-  - What you should know
+  - [PowerShell for Microsoft 365](#powershell-for-microsoft-365)
+  - [What you should know](#what-you-should-know)
 - [**1. Connecting to Microsoft 365 Using PowerShell**](#1-connecting-to-microsoft-365-using-powershell) (9 videos)
-  - Why use PowerShell to manage Microsoft 365?
-  - Overview of PowerShell syntax
-  - How to connect to Azure Active Directory
-  - How to connect SharePoint Online and OneDrive for Business
-  - How to connect to Exchange Online
-  - How to connect to Microsoft Teams
-  - How to connect for security and compliance
-  - Connecting to Microsoft 365 services
-  - The Microsoft PnP PowerShell commands
+  - [Why use PowerShell to manage Microsoft 365?](#why-use-powershell-to-manage-microsoft-365)
+  - [Overview of PowerShell syntax](#overview-of-powershell-syntax)
+  - [How to connect to Azure Active Directory](#how-to-connect-to-azure-active-directory)
+  - [How to connect SharePoint Online and OneDrive for Business](#how-to-connect-sharepoint-online-and-onedrive-for-business)
+  - [How to connect to Exchange Online](#how-to-connect-to-exchange-online)
+  - [How to connect to Microsoft Teams](#how-to-connect-to-microsoft-teams)
+  - [How to connect for security and compliance](#how-to-connect-for-security-and-compliance)
+  - [Connecting to Microsoft 365 services](#connecting-to-microsoft-365-services)
+  - [The Microsoft PnP PowerShell commands](#the-microsoft-pnp-powershell-commands)
 - [**2. Managing SharePoint Online and OneDrive for Business**](#2-managing-sharepoint-online-and-onedrive-for-business) (7 videos)
-  - Connect to SharePoint Online and OneDrive for Business
-  - How to create, update, and delete site collections
-  - How to create, update, and delete sites
-  - How to create, update, and delete lists and libraries
-  - How to manage users and groups within SharePoint Online
-  - How to manage OneDrive for Business using PowerShell
-  - How to manage external sharing capabilities
+  - [Connect to SharePoint Online and OneDrive for Business](#connect-to-sharepoint-online-and-onedrive-for-business)
+  - [How to create, update, and delete site collections](#how-to-create-update-and-delete-site-collections)
+  - [How to create, update, and delete sites](#how-to-create-update-and-delete-sites)
+  - [How to create, update, and delete lists and libraries](#how-to-create-update-and-delete-lists-and-libraries)
+  - [How to manage users and groups within SharePoint Online](#how-to-manage-users-and-groups-within-sharepoint-online)
+  - [How to manage OneDrive for Business using PowerShell](#how-to-manage-onedrive-for-business-using-powershell)
+  - [How to manage external sharing capabilities](#how-to-manage-external-sharing-capabilities)
 - [**3. Managing Exchange Online**](#3-managing-exchange-online) (3 videos)
-  - How to connect to Exchange Online
-  - How to create, update, delete, and manage mailboxes
-  - How to manage exchange online permissions
+  - [How to connect to Exchange Online](#how-to-connect-to-exchange-online)
+  - [How to create, update, delete, and manage mailboxes](#how-to-create-update-delete-and-manage-mailboxes)
+  - [How to manage exchange online permissions](#how-to-manage-exchange-online-permissions)
 - [**4. Managing Microsoft Teams**](#4-managing-microsoft-teams) (6 videos)
-  - How to connect to Microsoft Teams with PowerShell
-  - How to create, update, and delete teams
-  - How to manage channels
-  - How to provision policies in Teams
-  - How to create templates in Teams
-  - Modifying core configuration
+  - [How to connect to Microsoft Teams with PowerShell](#how-to-connect-to-microsoft-teams-with-powershell)
+  - [How to create, update, and delete teams](#how-to-create-update-and-delete-teams)
+  - [How to manage channels](#how-to-manage-channels)
+  - [How to provision policies in Teams](#how-to-provision-policies-in-teams)
+  - [How to create templates in Teams](#how-to-create-templates-in-teams)
+  - [Modifying core configuration](#modifying-core-configuration)
 - [**5. Managing Security and Compliance**](#5-managing-security-and-compliance) (8 videos)
-  - Explain the security and compliance features
-  - Security and compliance demo
-  - How to manage Safe Links, Documents, and Attachments
-  - How to create alerts and activity alerts
-  - How to create data loss prevention policies
-  - How to create sensitivity labels
-  - How to create sensitivity policies
-  - How to review audit logs
+  - [Explain the security and compliance features](#explain-the-security-and-compliance-features)
+  - [Security and compliance demo](#security-and-compliance-demo)
+  - [How to manage Safe Links, Documents, and Attachments](#how-to-manage-safe-links-documents-and-attachments)
+  - [How to create alerts and activity alerts](#how-to-create-alerts-and-activity-alerts)
+  - [How to create data loss prevention policies](#how-to-create-data-loss-prevention-policies)
+  - [How to create sensitivity labels](#how-to-create-sensitivity-labels)
+  - [How to create sensitivity policies](#how-to-create-sensitivity-policies)
+  - [How to review audit logs](#how-to-review-audit-logs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PowerShell for Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980)
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (3), [[Microsoft 365]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** powershell (3)
 > **Speakers:** - [liam] (1)
 
@@ -135,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft 365]] (4), management (1), [[Scripting]] (1)
 > **Tools:** powershell (4)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -142,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Connecting to Microsoft 365 Using PowerShell
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use PowerShell to manage Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980)
@@ -233,8 +235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (14), [[Microsoft 365]] (10), data (4), [[SharePoint]] (3), next (3)
 > **Tools:** powershell (14)
-> **Code Keywords:** interface (6), let (2)
 > **Analogies:** for example (5), such as (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** find (1), make (1)
@@ -385,7 +387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (17), let (7), pass (2), default, (1), function (1)
+> **Frameworks & Libraries:** [[Powershell]] (23), [[Microsoft 365]] (8), [[Microsoft Entra ID|Azure ad]] (8), cloud (5), [[Microsoft]] (2)
 > **Tools:** powershell (23)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** is a  (4), is an  (1)
@@ -469,7 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (19), pass (3), let (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (5), [[Powershell]] (5), [[Microsoft]] (5), [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft 365]] (3)
 > **Tools:** powershell (5)
 > **Versions:** version 1 (2), version 2 (2)
 > **Prerequisites:** install (4)
@@ -541,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (11), pass (1), this, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (13), [[Microsoft OneDrive|Onedrive]] (7), business (5), [[Powershell]] (4), [[Microsoft]] (4)
 > **Prerequisites:** install (6), you need to have (1)
 > **Tools:** powershell (4)
 > **URLs:** [sharepoint.com](https://sharepoint.com) (2)
@@ -623,7 +625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (10), pass (2), let (2)
+> **Frameworks & Libraries:** [[Powershell]] (12), management (2), [[Microsoft]] (2), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Tools:** powershell (12)
 > **Prerequisites:** install (5)
 > **Env Vars:** uri (1), api (1)
@@ -681,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (9), function (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (7), [[Powershell]] (6), teams (5), [[Microsoft 365]] (2), [[Microsoft]] (2)
 > **Tools:** powershell (6), command line (1)
 > **Prerequisites:** install (5)
 > **Env Vars:** gcc (2), dod (1), api (1)
@@ -779,7 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (14), pass (3)
+> **Frameworks & Libraries:** [[Powershell]] (13), [[Security]] (10), [[Microsoft]] (3), [[Microsoft 365]] (2), cross-platform (2)
 > **Tools:** powershell (13)
 > **Code Identifiers:** macos (2), ediscovery (1)
 > **Env Vars:** url (2), ipps (1)
@@ -843,7 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), module (2), import. (1), import, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[SharePoint]] (3), [[Powershell]] (3), next (2), [[Microsoft Entra ID|Azure ad]] (2)
 > **Tools:** powershell (3)
 > **Prerequisites:** install (2), you'll need (1)
 > **Definitions:** means that (1)
@@ -898,8 +900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (11), [[Microsoft]] (6), [[SharePoint]] (2), cross-platform (1), [[Microsoft 365]] (1)
 > **Tools:** powershell (11)
-> **Code Keywords:** module (5), let (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2)
 > **Env Vars:** url (1)
@@ -910,7 +912,7 @@ created: 2026-04-29
 
 ### 2. Managing SharePoint Online and OneDrive for Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to SharePoint Online and OneDrive for Business
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980)
@@ -1027,7 +1029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (18), let (6), pass (4), this. (2), new, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (14), [[Powershell]] (8), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft]] (3), business (2)
 > **Tools:** powershell (8)
 > **Prerequisites:** install (7)
 > **URLs:** [sharepoint.com](https://sharepoint.com) (3), [https://$tenant](https://$tenant) (1)
@@ -1251,8 +1253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (12), teams (4), [[SharePoint]] (3), business (2), [[Microsoft Teams]] (2)
 > **Env Vars:** spo (13), url (12), https (1), m365 (1), sts (1)
-> **Code Keywords:** let (7), pass (2), interface (1), else. (1), delete (1)
 > **Tools:** powershell (12)
 > **Exercise Files:** template (5)
 > **Definitions:** is a  (2), means that (1), is called (1)
@@ -1535,7 +1537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (13), pass (7), delete (2), self (1)
+> **Frameworks & Libraries:** web (21), [[Powershell]] (16), [[SharePoint]] (6), [[Microsoft Office|Office]] (1), [[Microsoft]] (1)
 > **Env Vars:** url (16), csom (6), spo (2)
 > **Tools:** powershell (16)
 > **Definitions:** is a  (3), is called (1)
@@ -1731,7 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), require (1), default. (1), else, (1)
+> **Frameworks & Libraries:** web (8), [[Powershell]] (8), [[SharePoint]] (1)
 > **Env Vars:** url (11), csom (2), sts (1), spo (1)
 > **Exercise Files:** template (10)
 > **Tools:** powershell (8)
@@ -1919,7 +1921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (2), function (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3), [[Powershell]] (2), [[Microsoft OneDrive|Onedrive]] (1), business (1), management (1)
 > **Env Vars:** url (8), html (1), csv (1), spo (1)
 > **Cross-References:** go back to (3), we talked about (1)
 > **CLI Commands:** make (2)
@@ -2075,9 +2077,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (9), [[Microsoft OneDrive|Onedrive]] (6), business (5), [[Microsoft]] (1)
 > **Env Vars:** spo (7), url (6)
 > **CLI Commands:** make (5)
-> **Code Keywords:** for. (2), let (2), this, (1)
 > **URLs:** [sharepoint.com](https://sharepoint.com) (3), [mysharepoint.com](https://mysharepoint.com) (1)
 > **Analogies:** similar to (1), just like (1)
 > **Cross-References:** go back to (1)
@@ -2259,7 +2261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), interface (4), function (1), else. (1)
+> **Frameworks & Libraries:** [[SharePoint]] (12), [[Powershell]] (8), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Entra ID|Azure active directory]] (3), business (2)
 > **Tools:** powershell (8)
 > **Env Vars:** url (6), spo (1)
 > **Cross-References:** go back to (5)
@@ -2271,7 +2273,7 @@ created: 2026-04-29
 
 ### 3. Managing Exchange Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to connect to Exchange Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980)
@@ -2440,7 +2442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (13), let (7), this, (2), require (2), pass (2)
+> **Frameworks & Libraries:** [[Powershell]] (8), [[Microsoft]] (8), management (2), prompt (2), [[Windows]] (1)
 > **Tools:** powershell (8)
 > **Analogies:** for example (6)
 > **Definitions:** is a  (2), is called (1), is an  (1)
@@ -2756,7 +2758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (6), delete (2), else. (1), for. (1)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Statistics]] (7), [[Windows]] (4), next (2), prompt (2)
 > **Tools:** powershell (10)
 > **Env Vars:** exo (5), smtp (2)
 > **CLI Commands:** find (3), make (2)
@@ -2856,8 +2858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), [[Powershell]] (5), [[Microsoft 365]] (4), [[Microsoft Office|Office]] (3), power (1)
 > **Tools:** powershell (5)
-> **Code Keywords:** default, (1), else. (1), case, (1)
 > **UI Navigation:** open the (2), select the (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
@@ -2867,7 +2869,7 @@ created: 2026-04-29
 
 ### 4. Managing Microsoft Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to connect to Microsoft Teams with PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980)
@@ -3002,7 +3004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (11), let (4), pass (4), this. (2), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (6), [[Powershell]] (3), prompt (3), [[Microsoft]] (2), teams (2)
 > **Prerequisites:** install (5)
 > **Tools:** powershell (3)
 > **CLI Commands:** make (2)
@@ -3158,7 +3160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), public (2), private (1), interface (1), require (1)
+> **Frameworks & Libraries:** teams (7), [[Powershell]] (7), [[Microsoft]] (2), [[Microsoft Teams]] (1), [[Microsoft Office|Office]] (1)
 > **Tools:** powershell (7)
 > **Analogies:** for example (2), picture (1), such as (1)
 > **CLI Commands:** make (2)
@@ -3309,7 +3311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (11), let (10), pass (4), delete (4), public (2)
+> **Frameworks & Libraries:** [[Powershell]] (9), teams (7), [[Microsoft Teams]] (1)
 > **Tools:** powershell (9)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (2), is a  (1)
@@ -3469,7 +3471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (2), default. (1), private (1), else. (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), business (2), teams (2), [[Microsoft Teams]] (1), next (1)
 > **Tools:** powershell (4)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** url (1), set (1), giphy (1)
@@ -3601,8 +3603,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (8), [[Powershell]] (5), [[Microsoft Teams]] (2), teams (2)
 > **Exercise Files:** template (29), exercise file (2), download the (2)
-> **Code Keywords:** let (6), pass (3), private (1), public (1), this, (1)
 > **Env Vars:** json (8)
 > **Tools:** powershell (5)
 > **Definitions:** is called (2), means that (1), is a  (1)
@@ -3778,7 +3780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (3), for, (2), this. (1), pass (1)
+> **Frameworks & Libraries:** teams (9), business (3), [[Google Drive]] (2), [[Microsoft Teams]] (1), [[Powershell]] (1)
 > **Analogies:** for example (5), such as (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** find (1), make (1)
@@ -3790,7 +3792,7 @@ created: 2026-04-29
 
 ### 5. Managing Security and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explain the security and compliance features
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980)
@@ -3869,9 +3871,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), management (10), data (10), [[Powershell]] (9), [[Microsoft 365]] (5)
 > **Tools:** powershell (9)
 > **Code Identifiers:** ediscovery (5)
-> **Code Keywords:** interface (1), this. (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3978,7 +3980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), pass (2), let (2), import. (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[Microsoft]] (5), [[Powershell]] (3), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** uri (2), module (1)
 > **Tools:** powershell (3)
 > **Analogies:** for example (2)
@@ -4169,7 +4171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), module (5), this, (2), pass (2), type. (1)
+> **Frameworks & Libraries:** next (3), [[Security]] (2), [[Microsoft Office|Office]] (2), [[Powershell]] (2), web (1)
 > **Env Vars:** atp (7), ippss (2)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (4)
@@ -4403,7 +4405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), type. (2), else, (1), delete (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Security]] (3), [[Microsoft 365]] (3), next (2)
 > **UI Navigation:** scroll up (3), go to (3)
 > **Definitions:** is an  (2), is a  (1), is called (1)
 > **Analogies:** for example (2), such as (1)
@@ -4606,8 +4608,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (7), next (6), data (5), [[Security]] (2), [[Microsoft 365]] (2)
 > **Env Vars:** dlp (32), pii (2), url (1)
-> **Code Keywords:** let (14), require (3), type. (2), interface (1), pass (1)
 > **UI Navigation:** go to (5), scroll up (2)
 > **Analogies:** for example (3), similar to (1), such as (1)
 > **Exercise Files:** template (3)
@@ -4786,7 +4788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (2), type. (1), this. (1)
+> **Frameworks & Libraries:** [[JSON]] (3), data (2), [[Powershell]] (2), next (2), [[Search]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** json (3)
 > **Cross-References:** go back to (2)
@@ -4952,7 +4954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1), interface (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Outlook|Outlook]] (1), next (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** scroll up (2), go to (1)
 > **Env Vars:** json (1), dlp (1)
@@ -5114,7 +5116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (2), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (16), [[Microsoft Entra ID|Azure ad]] (4), [[SharePoint]] (3), [[Microsoft 365]] (2), [[Powershell]] (2)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** scroll up (2), go to (1)
 > **Analogies:** for example (3)
@@ -5126,7 +5128,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980)
@@ -5149,6 +5151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (8), [[Microsoft 365]] (5), next (2), [[Microsoft]] (1), [[Software Development]] (1)
 > **Tools:** powershell (8)
 > **Env Vars:** sdk (1)
 > **Definitions:** is a  (1)

@@ -32,7 +32,7 @@ tags:
   - skill/simulation-software
   - skill/plc-programming
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/PLC%20Simulation%20Software-%20Factory%20I-O%20with%20Connected%20Component%20Workbench.md)
@@ -51,56 +51,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - PLC programming using a 3D factory simulation software
-  - What you should know
-  - Using the exercise files
+  - [PLC programming using a 3D factory simulation software](#plc-programming-using-a-3d-factory-simulation-software)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Connected Components Software**](#1-connected-components-software) (6 videos)
-  - Connected Components Workbench software introduction
-  - Connected Components Workbench software download guide
-  - CCW software interface tour
-  - CCW Micro800 PLC simulator
-  - Establishing the connection path for the PLC Simulator
-  - CCW software demo
+  - [Connected Components Workbench software introduction](#connected-components-workbench-software-introduction)
+  - [Connected Components Workbench software download guide](#connected-components-workbench-software-download-guide)
+  - [CCW software interface tour](#ccw-software-interface-tour)
+  - [CCW Micro800 PLC simulator](#ccw-micro800-plc-simulator)
+  - [Establishing the connection path for the PLC Simulator](#establishing-the-connection-path-for-the-plc-simulator)
+  - [CCW software demo](#ccw-software-demo)
 - [**2. Factory I/O Software**](#2-factory-io-software) (3 videos)
-  - Factory I/O overview and download
-  - Factory I/O software tour
-  - Connect Factory I/O software with CCW software
+  - [Factory I/O overview and download](#factory-io-overview-and-download)
+  - [Factory I/O software tour](#factory-io-software-tour)
+  - [Connect Factory I/O software with CCW software](#connect-factory-io-software-with-ccw-software)
 - [**3. CCW and Factory I/O First Project: Control Panel**](#3-ccw-and-factory-io-first-project-control-panel) (3 videos)
-  - Control panel project
-  - Ladder logic program in CCW software
-  - Project demo
+  - [Control panel project](#control-panel-project)
+  - [Ladder logic program in CCW software](#ladder-logic-program-in-ccw-software)
+  - [Project demo](#project-demo)
 - [**4. CCW and Factory I/O Conveyor Belt Project**](#4-ccw-and-factory-io-conveyor-belt-project) (5 videos)
-  - Conveyor belt project
-  - Part 1: Programming
-  - Part 2: Programming
-  - Project demo
-  - Optional: Retroreflective sensors overview
+  - [Conveyor belt project](#conveyor-belt-project)
+  - [Part 1: Programming](#part-1-programming)
+  - [Part 2: Programming](#part-2-programming)
+  - [Project demo](#project-demo)
+  - [Optional: Retroreflective sensors overview](#optional-retroreflective-sensors-overview)
 - [**5. CCW and Factory I/O Filling Tank with Timer Project**](#5-ccw-and-factory-io-filling-tank-with-timer-project) (7 videos)
-  - Filling a water tank project
-  - Step 1: Program fill and discharge pushbuttons
-  - Step 2: Adding timer (TON) in CCW software
-  - Step 3, part 1: Showing time on display in Factory I/O
-  - Project demo 1
-  - Step 3, part 2: Showing time on display in Factory I/O
-  - Final project demo
+  - [Filling a water tank project](#filling-a-water-tank-project)
+  - [Step 1: Program fill and discharge pushbuttons](#step-1-program-fill-and-discharge-pushbuttons)
+  - [Step 2: Adding timer (TON) in CCW software](#step-2-adding-timer-ton-in-ccw-software)
+  - [Step 3, part 1: Showing time on display in Factory I/O](#step-3-part-1-showing-time-on-display-in-factory-io)
+  - [Project demo 1](#project-demo-1)
+  - [Step 3, part 2: Showing time on display in Factory I/O](#step-3-part-2-showing-time-on-display-in-factory-io)
+  - [Final project demo](#final-project-demo)
 - [**6. Sorting Boxes by Height**](#6-sorting-boxes-by-height) (9 videos)
-  - Sorting boxes by height project
-  - Understanding the Factory I/O scene, part 1: Entry conveyor and light array
-  - Understanding the Factory I/O scene, part 2: Chain transfer
-  - Understanding the Factory I/O scene, part 3: Right and left conveyors
-  - Step 1: Program Start button to start the entry conveyor
-  - Step 2: Program moving into the chain transfer
-  - Step 3: Program sorting the small boxes
-  - Step 4: Program sorting the large boxes
-  - Project demo
+  - [Sorting boxes by height project](#sorting-boxes-by-height-project)
+  - [Understanding the Factory I/O scene, part 1: Entry conveyor and light array](#understanding-the-factory-io-scene-part-1-entry-conveyor-and-light-array)
+  - [Understanding the Factory I/O scene, part 2: Chain transfer](#understanding-the-factory-io-scene-part-2-chain-transfer)
+  - [Understanding the Factory I/O scene, part 3: Right and left conveyors](#understanding-the-factory-io-scene-part-3-right-and-left-conveyors)
+  - [Step 1: Program Start button to start the entry conveyor](#step-1-program-start-button-to-start-the-entry-conveyor)
+  - [Step 2: Program moving into the chain transfer](#step-2-program-moving-into-the-chain-transfer)
+  - [Step 3: Program sorting the small boxes](#step-3-program-sorting-the-small-boxes)
+  - [Step 4: Program sorting the large boxes](#step-4-program-sorting-the-large-boxes)
+  - [Project demo](#project-demo)
 - [**7. Troubleshooting**](#7-troubleshooting) (1 videos)
-  - Troubleshooting tips
+  - [Troubleshooting tips](#troubleshooting-tips)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PLC programming using a 3D factory simulation software
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/plc-programming-using-a-3d-factory-simulation-software-22833119?u=76281980)
@@ -121,8 +121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), plc (3), [[Simulation Software]] (1), [[Automation]] (1), [[Engineering]] (1)
 > **Env Vars:** plc (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - wouldn (1)
 
@@ -143,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), plc (2)
 > **Env Vars:** plc (2)
 > **Speakers:** - before (1)
 
@@ -225,17 +226,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **UI Navigation:** go to (11), open the (8), click on (5), select the (3)
 > **Exercise Files:** exercise files (7)
 > **Analogies:** for example (3), similar to (1)
-> **Code Keywords:** from. (1)
 > **Env Vars:** poc (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Connected Components Software
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connected Components Workbench software introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/connected-components-workbench-software-introduction?u=76281980)
@@ -264,8 +265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), [[Automation]] (1), next (1)
 > **Env Vars:** plc (3)
-> **Code Keywords:** type. (1)
 > **Cross-References:** next chapter (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -318,8 +319,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (1), [[Zoom]] (1), application (1)
 > **UI Navigation:** click on (6), scroll down (2), select the (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -426,8 +427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (16)
 > **Env Vars:** plc (16), pdf (1)
-> **Code Keywords:** switch (3), this. (1), new, (1), case, (1), type. (1)
 > **UI Navigation:** click on (5), select the (4), go to (1)
 > **Analogies:** picture (2), for example (2), similar to (1)
 > **Prerequisites:** configure (2), setup (1)
@@ -496,9 +497,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (11), [[Representational State Transfer (REST)|Rest]] (2), power (2), [[Simulation]] (1)
 > **Env Vars:** plc (11), sim (1), off (1)
 > **UI Navigation:** click on (5), go to (3), open the (1), scroll down (1)
-> **Code Keywords:** type. (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -584,9 +585,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (18), power (1)
 > **Env Vars:** plc (18)
 > **UI Navigation:** click on (9), open the (1), go to (1)
-> **Code Keywords:** let (2), case, (1), case. (1)
 > **Analogies:** picture (2)
 > **Prerequisites:** setup (2)
 > **Cross-References:** go back to (1)
@@ -720,19 +721,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (15), hit (2), power (2), [[Programming]] (1)
 > **Env Vars:** plc (15), xic (1)
 > **UI Navigation:** click on (9), open the (2), go to (2), dropdown (1), scroll down (1)
 > **Definitions:** is a  (4), is an  (1), means that (1)
 > **CLI Commands:** find (2), make (2)
 > **Exercise Files:** download the (2)
 > **Analogies:** similar to (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Factory I/O Software
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Factory I/O overview and download
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/factory-i-o-overview-and-download?u=76281980)
@@ -759,6 +760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), plc (2), [[Simulation]] (1)
 > **Env Vars:** plc (2)
 > **Prerequisites:** you'll need (1), install (1)
 > **UI Navigation:** click on (1)
@@ -863,8 +865,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (12), application (1), next (1), hit (1), data (1)
 > **Env Vars:** plc (12), bool (2)
-> **Code Keywords:** let (4), from, (1), delete (1), case, (1), type. (1)
 > **UI Navigation:** click on (6), dropdown (1)
 > **Analogies:** for example (6)
 > **Definitions:** is a  (3)
@@ -955,6 +957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (13), next (2), power (2)
 > **Env Vars:** plc (13)
 > **UI Navigation:** click on (4), select the (1), dropdown (1), go to (1), open the (1)
 > **Cross-References:** go back to (4), previous chapter (1)
@@ -966,7 +969,7 @@ created: 2026-04-29
 
 ### 3. CCW and Factory I/O First Project: Control Panel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Control panel project
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/control-panel-project?u=76281980)
@@ -1017,6 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (4), power (1)
 > **UI Navigation:** click on (4), dropdown (1), go to (1), scroll down (1)
 > **Env Vars:** plc (4)
 > **CLI Commands:** find (1)
@@ -1133,6 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (5), [[Programming]] (1), [[Simulation]] (1), next (1), power (1)
 > **Env Vars:** led (6), plc (5), xic (3), xio (3)
 > **UI Navigation:** go to (4), select the (4), scroll down (3), click on (3), dropdown (2)
 > **Definitions:** is a  (4), is an  (1)
@@ -1183,16 +1188,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3)
 > **Env Vars:** led (4), plc (3)
 > **UI Navigation:** click on (4), go to (1), select the (1)
-> **Code Keywords:** let (4)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. CCW and Factory I/O Conveyor Belt Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conveyor belt project
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/conveyor-belt-project?u=76281980)
@@ -1245,6 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (2), next (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** plc (2)
@@ -1332,8 +1338,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Programming]] (1), plc (1), next (1)
 > **Env Vars:** xic (6), led (2), xio (2), plc (1)
-> **Code Keywords:** finally, (2)
 > **UI Navigation:** scroll down (1), select the (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -1383,7 +1389,6 @@ created: 2026-04-29
 >
 > **Env Vars:** xic (4), xio (2), led (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1428,6 +1433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (5), power (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** plc (5)
 > **CLI Commands:** make (2)
@@ -1476,7 +1482,7 @@ created: 2026-04-29
 
 ### 5. CCW and Factory I/O Filling Tank with Timer Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filling a water tank project
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/filling-a-water-tank-project?u=76281980)
@@ -1539,6 +1545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (4), [[Programming]] (4), next (1), power (1)
 > **Env Vars:** plc (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
@@ -1616,6 +1623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), next (1)
 > **UI Navigation:** go to (5), scroll down (2), dropdown (1), select the (1)
 > **Env Vars:** led (4), xio (2), xic (1)
 > **CLI Commands:** find (1)
@@ -1739,13 +1747,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), feature (1), hit (1)
 > **UI Navigation:** click on (4), select the (2)
 > **Env Vars:** xic (1), xio (1), ton (1)
 > **Definitions:** stands for (1), is a  (1), is an  (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Step 3, part 1: Showing time on display in Factory I/O
@@ -1811,8 +1819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (2)
 > **UI Navigation:** click on (2), go to (2), right-click (1), select the (1)
-> **Code Keywords:** case, (1), type, (1), type. (1)
 > **Env Vars:** bcd (1), ton (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -1859,10 +1867,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (4), power (1)
 > **UI Navigation:** click on (5), go to (1), select the (1)
 > **Env Vars:** plc (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1979,9 +1987,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), plc (4), [[Programming]] (3), hit (2), power (1)
 > **UI Navigation:** go to (6), click on (3), scroll down (2), select the (2), open the (1)
 > **Env Vars:** plc (4), xio (4), mov (1), any_to_lreal (1), xic (1)
-> **Code Keywords:** type, (3), let (2)
 > **Versions:** 0.001 (4)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -2023,17 +2031,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (5), power (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** plc (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - so (1)
 
 
 ### 6. Sorting Boxes by Height
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sorting boxes by height project
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/sorting-boxes-by-height-project?u=76281980)
@@ -2080,6 +2088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (2), [[Programming]] (2), [[Search]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** plc (2)
 > **UI Navigation:** go to (2)
@@ -2153,9 +2162,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (1), hit (1)
 > **UI Navigation:** click on (5), select the (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** case, (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - this (1)
@@ -2211,6 +2220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2243,7 +2253,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), type. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2369,10 +2378,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), next (2)
 > **Env Vars:** xic (7), xio (2)
 > **UI Navigation:** go to (5), scroll down (3), click on (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2417,10 +2426,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Env Vars:** xic (1), xio (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - the (1)
 
 #### Step 3: Program sorting the small boxes
@@ -2544,12 +2553,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Programming]] (1)
 > **Env Vars:** xic (7), xio (4)
 > **UI Navigation:** go to (7), select the (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** transfer_left (1), add_left (1)
-> **Code Keywords:** type. (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2602,9 +2611,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **UI Navigation:** select the (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** xic (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2656,6 +2665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), power (1)
 > **UI Navigation:** click on (6), go to (2)
 > **Env Vars:** plc (3)
 > **Cross-References:** go back to (2)
@@ -2666,7 +2676,7 @@ created: 2026-04-29
 
 ### 7. Troubleshooting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshooting tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/troubleshooting-tips?u=76281980)
@@ -2717,9 +2727,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (6), power (3), [[Troubleshooting]] (2), [[Simulation]] (1)
 > **Env Vars:** plc (6), iter (1)
 > **UI Navigation:** click on (3), go to (1), open the (1)
-> **Code Keywords:** case, (2), delete (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -2729,7 +2739,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-simulation-software-factory-i-o-with-connected-component-workbench/next-steps?u=76281980)
@@ -2756,6 +2766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (5), [[Automation]] (3), [[Programming]] (2), application (1), next (1)
 > **Env Vars:** plc (5)
 > **Speakers:** - thanks (1)
 

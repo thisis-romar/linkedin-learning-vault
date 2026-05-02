@@ -34,7 +34,7 @@ tags:
   - skill/data-stewardship
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Automated%20Data%20Governance%20in%20Practice.md)
@@ -53,36 +53,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Governance-as-code
-  - What you should know
+  - [Governance-as-code](#governance-as-code)
+  - [What you should know](#what-you-should-know)
 - [**1. The Basics**](#1-the-basics) (3 videos)
-  - Data governance defined
-  - Exploring data operations (DataOps)
-  - DataGovOps: Data governance meets DataOps
+  - [Data governance defined](#data-governance-defined)
+  - [Exploring data operations (DataOps)](#exploring-data-operations-dataops)
+  - [DataGovOps: Data governance meets DataOps](#datagovops-data-governance-meets-dataops)
 - [**2. Functions of DataGovOps**](#2-functions-of-datagovops) (4 videos)
-  - Automating data governance functions
-  - Meeting regulatory and compliance requirements
-  - Data lineage and metadata management
-  - Monitoring and reporting
+  - [Automating data governance functions](#automating-data-governance-functions)
+  - [Meeting regulatory and compliance requirements](#meeting-regulatory-and-compliance-requirements)
+  - [Data lineage and metadata management](#data-lineage-and-metadata-management)
+  - [Monitoring and reporting](#monitoring-and-reporting)
 - [**3. DataGovOps Solution Categories**](#3-datagovops-solution-categories) (6 videos)
-  - Automation
-  - Collaboration
-  - Integration
-  - Data catalogs
-  - Analytics
-  - Artificial intelligence in DataGovOps
+  - [Automation](#automation)
+  - [Collaboration](#collaboration)
+  - [Integration](#integration)
+  - [Data catalogs](#data-catalogs)
+  - [Analytics](#analytics)
+  - [Artificial intelligence in DataGovOps](#artificial-intelligence-in-datagovops)
 - [**4. Implementing DataGovOps**](#4-implementing-datagovops) (5 videos)
-  - Implementation strategy
-  - Training
-  - Scaling DataGovOps
-  - Communication strategy
-  - DataGovOps implementation challenges
+  - [Implementation strategy](#implementation-strategy)
+  - [Training](#training)
+  - [Scaling DataGovOps](#scaling-datagovops)
+  - [Communication strategy](#communication-strategy)
+  - [DataGovOps implementation challenges](#datagovops-implementation-challenges)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your DataGovOps learning journey
+  - [Continuing your DataGovOps learning journey](#continuing-your-datagovops-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Governance-as-code
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (11), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Speakers:** - today (1)
 
 #### What you should know
@@ -129,13 +129,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[LinkedIn]] (2), management (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - while (1)
 
 
 ### 1. The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data governance defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980)
@@ -192,8 +193,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), management (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Accountability]] (1), leadership (1)
 > **Definitions:** is an  (2), means that (1), is a  (1)
-> **Code Keywords:** let (2), protected (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - in (1)
@@ -245,9 +246,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[DevOps]] (5), teams (4), [[Automation]] (4), [[Software Development]] (2)
 > **Analogies:** such as (2), for example (1), similar to (1)
 > **CLI Commands:** cd (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - before (1)
 
 #### DataGovOps: Data governance meets DataOps
@@ -301,7 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), implements (1)
+> **Frameworks & Libraries:** data (20), teams (4), [[Security]] (4), [[Automation]] (3), [[DevOps]] (3)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -309,7 +310,7 @@ created: 2026-04-29
 
 ### 2. Functions of DataGovOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automating data governance functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980)
@@ -368,9 +369,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (7), data (7), teams (3), [[DevOps]] (2), business (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** cd (1)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** required to (1)
@@ -427,8 +428,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), management (2), [[Accountability]] (1), [[Security]] (1), [[Financial Data]] (1)
 > **Env Vars:** hipaa (3), phi (2), pci (1), dss (1)
-> **Code Keywords:** public (1), require (1), this. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** later in (1)
@@ -502,7 +503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), let (1)
+> **Frameworks & Libraries:** data (38), [[Metadata]] (12), management (7), teams (2), business (1)
 > **Definitions:** we call this (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - data (1)
@@ -572,8 +573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), management (2), business (2), [[Accountability]] (1), [[Security]] (1)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** hipaa (1), gdpr (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - monitoring (1)
@@ -581,7 +582,7 @@ created: 2026-04-29
 
 ### 3. DataGovOps Solution Categories
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980)
@@ -634,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), function (1)
+> **Frameworks & Libraries:** data (21), [[Automation]] (10), feature (1), ai (1), [[Continuous Monitoring]] (1)
 > **Env Vars:** rbac (1)
 > **Analogies:** such as (1)
 > **Speakers:** - at (1)
@@ -686,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), require (1)
+> **Frameworks & Libraries:** data (17), [[Automation]] (3), business (3), teams (2), [[Security]] (2)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - while (1)
 
@@ -745,10 +746,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Automation]] (4), [[DevOps]] (1), [[Security]] (1), cloud (1)
 > **Env Vars:** hippa (1), iam (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -809,10 +810,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (36), [[Metadata]] (4), [[Automation]] (4), management (2), [[Troubleshooting]] (1)
 > **Analogies:** such as (4), for example (1), imagine (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** from, (1)
 > **Speakers:** - have (1)
 
 #### Analytics
@@ -868,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** data (27), [[Analytics]] (8), feature (1), [[Continuous Monitoring]] (1), [[Real-Time]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
@@ -935,7 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), require (1), static (1)
+> **Frameworks & Libraries:** data (24), ai (15), [[Metadata]] (3), business (2), [[Automation]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** previous video (1)
@@ -945,7 +946,7 @@ created: 2026-04-29
 
 ### 4. Implementing DataGovOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementation strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980)
@@ -1028,8 +1029,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Automation]] (5), career (2), business (1), functional (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (1), let (1), function (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - now (1)
 
@@ -1082,8 +1083,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), business (2), management (2), [[Automation]] (2), [[Security]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), imagine (1)
 > **Prerequisites:** prerequisite (1)
@@ -1158,7 +1159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), this, (2), finally, (1)
+> **Frameworks & Libraries:** data (33), [[Automation]] (4), management (3), business (2), teams (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** dgb (1)
@@ -1236,10 +1237,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), teams (6), business (4), [[Security]] (2), [[Automation]] (2)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - communication (1)
 
@@ -1302,7 +1303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (2)
+> **Frameworks & Libraries:** data (13), [[Automation]] (2), teams (2), leadership (2), management (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - succeeding (1)
@@ -1310,7 +1311,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your DataGovOps learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980)
@@ -1355,8 +1356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[LinkedIn]] (3), [[Automation]] (2), management (2), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - are (1)
 

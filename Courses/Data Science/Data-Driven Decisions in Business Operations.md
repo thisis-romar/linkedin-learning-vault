@@ -28,7 +28,7 @@ tags:
   - skill/data-driven-decision-making
   - skill/business-operations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data-Driven%20Decisions%20in%20Business%20Operations.md)
@@ -47,28 +47,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Investigating the use of data in business
+  - [Investigating the use of data in business](#investigating-the-use-of-data-in-business)
 - [**1. Starting with Data Analytics**](#1-starting-with-data-analytics) (2 videos)
-  - Comparing business data types
-  - Data analytics tools and techniques
+  - [Comparing business data types](#comparing-business-data-types)
+  - [Data analytics tools and techniques](#data-analytics-tools-and-techniques)
 - [**2. Data Collection and Utilization**](#2-data-collection-and-utilization) (2 videos)
-  - Collect business data effectively
-  - Manage and organize business data
+  - [Collect business data effectively](#collect-business-data-effectively)
+  - [Manage and organize business data](#manage-and-organize-business-data)
 - [**3. Strategically Use Data for Decisions**](#3-strategically-use-data-for-decisions) (3 videos)
-  - Analyze business operations data
-  - Interpret data for business decision making
-  - Predictive analytics for operations
+  - [Analyze business operations data](#analyze-business-operations-data)
+  - [Interpret data for business decision making](#interpret-data-for-business-decision-making)
+  - [Predictive analytics for operations](#predictive-analytics-for-operations)
 - [**4. Overcoming Challenges in Data-Driven Operations**](#4-overcoming-challenges-in-data-driven-operations) (4 videos)
-  - Address data quality issues
-  - Collecting data ethically
-  - Analyzing data ethically
-  - Emerging trends in data analytics
+  - [Address data quality issues](#address-data-quality-issues)
+  - [Collecting data ethically](#collecting-data-ethically)
+  - [Analyzing data ethically](#analyzing-data-ethically)
+  - [Emerging trends in data analytics](#emerging-trends-in-data-analytics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Create your action plan
+  - [Create your action plan](#create-your-action-plan)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Investigating the use of data in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980)
@@ -95,14 +95,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (1), [[Data-driven Decision Making]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 
 
 ### 1. Starting with Data Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing business data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980)
@@ -149,8 +149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), business (7), [[Financial Data]] (2), career (1), management (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** function (1)
 > **Analogies:** such as (1)
 
 #### Data analytics tools and techniques
@@ -200,14 +200,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Tableau]] (3), [[Analytics]] (2), [[Microsoft Excel]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 
 
 ### 2. Data Collection and Utilization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collect business data effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980)
@@ -266,6 +266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), business (3), cloud (2), leadership (1), web (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
@@ -325,6 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), management (5), business (1), [[Metadata]] (1), [[Search]] (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Env Vars:** aws (1), cfo (1)
 > **Analogies:** think of it as (1), for example (1)
@@ -333,7 +335,7 @@ created: 2026-04-29
 
 ### 3. Strategically Use Data for Decisions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze business operations data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980)
@@ -376,6 +378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), leadership (2), [[Tableau]] (2), power (1), business (1)
 > **Env Vars:** erp (1)
 > **Analogies:** such as (1)
 
@@ -430,8 +433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (3), [[Analytics]] (3), next (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 
 #### Predictive analytics for operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980)
@@ -502,14 +505,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Predictive Analytics]] (5), business (2), [[Forms]] (1), next (1)
 > **Analogies:** for example (2), imagine (1), such as (1), for instance (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** yield (1), finally, (1)
 
 
 ### 4. Overcoming Challenges in Data-Driven Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Address data quality issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980)
@@ -552,6 +555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), business (2), [[Decision-Making]] (1), next (1), [[Dashboards]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** set up (1), setup (1)
 
@@ -606,9 +610,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), business (2), [[Privacy]] (2), next (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 
@@ -653,6 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), business (2), [[Legal Compliance]] (1), [[Analytics]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (2)
 
 #### Emerging trends in data analytics
@@ -714,15 +719,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Analytics]] (9), business (6), [[Scalability]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/create-your-action-plan?u=76281980)
@@ -749,6 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 
 

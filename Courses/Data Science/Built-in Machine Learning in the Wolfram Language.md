@@ -37,7 +37,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.md)
@@ -56,13 +56,13 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Built-in Machine Learning in the Wolfram Language**](#1-built-in-machine-learning-in-the-wolfram-language) (1 videos)
-  - Built-in machine learning in the Wolfram language
+  - [Built-in machine learning in the Wolfram language](#built-in-machine-learning-in-the-wolfram-language)
 - [**2. Dedicated Functions: Natural Language Processing**](#2-dedicated-functions-natural-language-processing) (1 videos)
-  - Dedicated functions: Natural language processing
+  - [Dedicated functions: Natural language processing](#dedicated-functions-natural-language-processing)
 
 ### 1. Built-in Machine Learning in the Wolfram Language
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in machine learning in the Wolfram language
 > [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980)
@@ -201,7 +201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (3), this, (2), finally, (2), for, (1)
+> **Frameworks & Libraries:** [[Wolfram Language]] (11), [[Programming]] (5), [[Computer Vision]] (4), data (3), web (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** make (1), cat (1)
 > **Definitions:** is called (1), is a  (1)
@@ -210,7 +210,7 @@ created: 2026-04-29
 
 ### 2. Dedicated Functions: Natural Language Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dedicated functions: Natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980)
@@ -339,7 +339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Wolfram Language]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), next (1)
 > **Analogies:** for example (3), just like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)

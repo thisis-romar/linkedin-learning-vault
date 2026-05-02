@@ -30,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Python%20Quick%20Start.md)
@@ -49,47 +49,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Advancing your career with Python
+  - [Advancing your career with Python](#advancing-your-career-with-python)
 - [**1. Defining Python**](#1-defining-python) (4 videos)
-  - Demystifying Python
-  - Starting with Python
-  - Comparing Python vs. Java
-  - Harnessing the power of Python
+  - [Demystifying Python](#demystifying-python)
+  - [Starting with Python](#starting-with-python)
+  - [Comparing Python vs. Java](#comparing-python-vs-java)
+  - [Harnessing the power of Python](#harnessing-the-power-of-python)
 - [**2. Working with Data in Python**](#2-working-with-data-in-python) (3 videos)
-  - Setting up your Python environment
-  - Sorting your types of data
-  - Storing data using variables
+  - [Setting up your Python environment](#setting-up-your-python-environment)
+  - [Sorting your types of data](#sorting-your-types-of-data)
+  - [Storing data using variables](#storing-data-using-variables)
 - [**3. Using Functions in Python**](#3-using-functions-in-python) (5 videos)
-  - Defining functions in Python
-  - Using built-in functions in Python
-  - Building your own functions
-  - Distinguishing types of functions
-  - Using modules in Python
+  - [Defining functions in Python](#defining-functions-in-python)
+  - [Using built-in functions in Python](#using-built-in-functions-in-python)
+  - [Building your own functions](#building-your-own-functions)
+  - [Distinguishing types of functions](#distinguishing-types-of-functions)
+  - [Using modules in Python](#using-modules-in-python)
 - [**4. Leveraging Sequences in Python**](#4-leveraging-sequences-in-python) (3 videos)
-  - Defining sequences
-  - Using lists in Python
-  - Leveraging tuples in Python
+  - [Defining sequences](#defining-sequences)
+  - [Using lists in Python](#using-lists-in-python)
+  - [Leveraging tuples in Python](#leveraging-tuples-in-python)
 - [**5. Using Conditional Statements in Python**](#5-using-conditional-statements-in-python) (4 videos)
-  - Defining conditional statements
-  - Working with if statements
-  - Using If-else statements
-  - If-elif and if-elif-else statements
+  - [Defining conditional statements](#defining-conditional-statements)
+  - [Working with if statements](#working-with-if-statements)
+  - [Using If-else statements](#using-if-else-statements)
+  - [If-elif and if-elif-else statements](#if-elif-and-if-elif-else-statements)
 - [**6. Working with Iteration in Python**](#6-working-with-iteration-in-python) (3 videos)
-  - Defining iteration
-  - Using a for loop
-  - Writing a while loop
+  - [Defining iteration](#defining-iteration)
+  - [Using a for loop](#using-a-for-loop)
+  - [Writing a while loop](#writing-a-while-loop)
 - [**7. Using Recursive Functions in Python**](#7-using-recursive-functions-in-python) (2 videos)
-  - Demystifying recursive functions
-  - Navigating a recursive function
+  - [Demystifying recursive functions](#demystifying-recursive-functions)
+  - [Navigating a recursive function](#navigating-a-recursive-function)
 - [**8. Object-Oriented Programming in Python**](#8-object-oriented-programming-in-python) (2 videos)
-  - What is object-oriented programming?
-  - Applying object-oriented programming
+  - [What is object-oriented programming?](#what-is-object-oriented-programming)
+  - [Applying object-oriented programming](#applying-object-oriented-programming)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advancing your career with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980)
@@ -116,14 +116,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (5), data (2), career (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (7)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 
 ### 1. Defining Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Demystifying Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980)
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Programming]] (2), web (2), data (1), [[Google]] (1)
 > **CLI Commands:** python (11), make (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** nasa (1)
@@ -186,8 +187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Programming]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** python (13)
-> **Code Keywords:** finally, (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 
@@ -228,6 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Java]] (9), [[Programming]] (4), data (1), [[Android]] (1)
 > **CLI Commands:** python (10), find (1), make (1)
 > **Exercise Files:** source code (1)
 > **Best Practices:** make sure to (1)
@@ -259,13 +261,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), data (5), [[Web Development]] (3), web (1), [[Django]] (1)
 > **CLI Commands:** python (10)
 > **Analogies:** such as (1)
 
 
 ### 2. Working with Data in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up your Python environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/setting-up-your-python-environment?u=76281980)
@@ -342,9 +345,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), hit (3)
 > **CLI Commands:** python (5), make (1)
 > **Tools:** jupyter (4), anaconda (1), terminal (1)
-> **Code Keywords:** let (1), continue (1), new. (1)
 > **Versions:** python 3 (3)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Definitions:** is called (2), is a  (1)
@@ -440,9 +443,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (6), [[Programming]] (3), next (2), [[Zoom]] (1)
 > **Definitions:** is a  (4), is an  (2), known as (1), in other words (1)
 > **CLI Commands:** python (6)
-> **Code Keywords:** let (4), include; (1)
 > **Versions:** 0.0 (1), 4.0 (1), 3.3 (1)
 > **Warnings:** keep in mind (2)
 
@@ -513,14 +516,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** game (13), [[Microsoft Word|Word]] (6), data (3), [[Programming]] (2)
 > **Cross-References:** go back to (2)
 > **Definitions:** known as (2)
 
 
 ### 3. Using Functions in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining functions in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-functions-in-python?u=76281980)
@@ -567,7 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -673,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), this. (2), let (1), this, (1)
+> **Frameworks & Libraries:** data (8), prompt (5), [[Python (Programming Language)|Python]] (4), next (3), hit (3)
 > **Definitions:** is a  (3), in other words (1), known as (1)
 > **CLI Commands:** python (4)
 > **Analogies:** for example (2)
@@ -765,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), pass (2), def. (1), let (1), this. (1)
+> **Frameworks & Libraries:** next (3), hit (1), generic (1)
 > **Code Identifiers:** addfive (11)
 > **Versions:** 62.5 (6), 67.5 (1)
 > **Definitions:** is a  (2), stands for (1), in other words (1)
@@ -940,7 +943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (38), this. (6), let (5), type ( (1), pass (1)
+> **Frameworks & Libraries:** next (5), hit (4), prompt (2), generic (1), [[Programming]] (1)
 > **Code Identifiers:** anotherone (2), sumofsquares (2), is_it_raining (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2)
@@ -1068,7 +1071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (15), function (8), this. (4), pass (2), default, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (2), [[Programming]] (1), game (1), hit (1)
 > **Definitions:** is a  (8), refers to (1)
 > **CLI Commands:** python (5), make (1), find (1)
 > **Analogies:** for example (5)
@@ -1078,7 +1081,7 @@ created: 2026-04-29
 
 ### 4. Leveraging Sequences in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining sequences
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-sequences?u=76281980)
@@ -1109,7 +1112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2)
+> **Frameworks & Libraries:** data (8), [[Programming]] (2)
 > **Definitions:** is a  (2)
 
 #### Using lists in Python
@@ -1213,8 +1216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Programming]] (2), next (1), [[Python (Programming Language)|Python]] (1), hit (1)
 > **Code Identifiers:** lista (12), listb (2)
-> **Code Keywords:** this. (5), this, (2), type. (2), type( (1), case, (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is called (1), in other words (1)
@@ -1350,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (5), type( (2), this, (1)
+> **Frameworks & Libraries:** express (4), data (3), [[Python (Programming Language)|Python]] (1), next (1)
 > **Ports:** :25 (6), :42 (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the next (1)
@@ -1360,7 +1363,7 @@ created: 2026-04-29
 
 ### 5. Using Conditional Statements in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining conditional statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-conditional-statements?u=76281980)
@@ -1395,7 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
@@ -1478,7 +1481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), pass (2), this. (1), case, (1)
+> **Frameworks & Libraries:** next (4), prompt (3), [[Python (Programming Language)|Python]] (2), hit (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** python (2)
 > **Analogies:** for example (1)
@@ -1563,7 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), case, (2), this. (1), this, (1)
+> **Frameworks & Libraries:** next (7), generic (1), hit (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Versions:** 3.1 (2)
 > **Analogies:** for example (1)
@@ -1807,7 +1810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** elif (14), function (13), this. (6), case, (4), if. (1)
+> **Frameworks & Libraries:** next (13), prompt (6), [[Python (Programming Language)|Python]] (3), [[Programming]] (1), generic (1)
 > **Versions:** 78.3 (6), 1.5 (5), 1.0 (2)
 > **Code Identifiers:** abs_val (4)
 > **Definitions:** is a  (2), in other words (2)
@@ -1819,7 +1822,7 @@ created: 2026-04-29
 
 ### 6. Working with Iteration in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining iteration
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980)
@@ -1926,7 +1929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (24), [[Programming]] (3), game (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (2), make (1)
 > **Warnings:** note that (1)
@@ -2018,7 +2021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this. (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1), [[Programming]] (1)
 > **Definitions:** is a  (3)
 > **Warnings:** note that (3)
 > **Analogies:** for example (2)
@@ -2089,7 +2092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this. (2), let (1)
+> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (2)
 > **CLI Commands:** python (1)
@@ -2099,7 +2102,7 @@ created: 2026-04-29
 
 ### 7. Using Recursive Functions in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Demystifying recursive functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-recursive-functions?u=76281980)
@@ -2148,7 +2151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), require (1), let (1), this. (1), else, (1)
+> **Frameworks & Libraries:** [[Programming]] (2), product (2), [[Python (Programming Language)|Python]] (1), express (1), generic (1)
 > **Definitions:** is called (1), in other words (1), is a  (1), means that (1)
 > **Warnings:** note that (2)
 > **CLI Commands:** python (1)
@@ -2283,7 +2286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), case. (5), this. (4), case, (2), let (2)
+> **Frameworks & Libraries:** express (3), next (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (8), in other words (2)
 > **Warnings:** note that (5)
 > **Analogies:** for example (1)
@@ -2291,7 +2294,7 @@ created: 2026-04-29
 
 ### 8. Object-Oriented Programming in Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is object-oriented programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980)
@@ -2394,7 +2397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (8), class. (6), type, (2), this. (2), class, (2)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (3), oop (3), next (3), [[Programming]] (2)
 > **Definitions:** is a  (3), known as (1), is an  (1)
 > **CLI Commands:** python (3)
 > **Env Vars:** oop (3)
@@ -2545,7 +2548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (13), function (6), class, (4), pass (2), this. (1)
+> **Frameworks & Libraries:** oop (4), [[Programming]] (2), power (1), [[Python (Programming Language)|Python]] (1), data (1)
 > **Code Identifiers:** getinfo (8), addyear (6)
 > **Prerequisites:** initialization (6)
 > **Env Vars:** oop (4)
@@ -2557,7 +2560,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980)
@@ -2592,8 +2595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (3), power (1)
 > **CLI Commands:** python (7), find (4)
-> **Code Keywords:** continue (1)
 > **URLs:** [pythoncheatsheet.org](https://pythoncheatsheet.org) (1)
 > **Analogies:** such as (1)
 

@@ -27,7 +27,7 @@ tags:
   - skill/network-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security%20Core%20Security%20Concepts.md)
@@ -46,48 +46,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Defending the network
-  - What you need to know
-  - Preparing for the CCNA exam
+  - [Defending the network](#defending-the-network)
+  - [What you need to know](#what-you-need-to-know)
+  - [Preparing for the CCNA exam](#preparing-for-the-ccna-exam)
 - [**1. Security Principles**](#1-security-principles) (9 videos)
-  - Secure network overview
-  - Security services
-  - Utilizing SIEM technology
-  - Learning security terms
-  - Staying informed
-  - Network security domains
-  - Zone defense
-  - Challenge: Create a security policy
-  - Solution: Create a security policy
+  - [Secure network overview](#secure-network-overview)
+  - [Security services](#security-services)
+  - [Utilizing SIEM technology](#utilizing-siem-technology)
+  - [Learning security terms](#learning-security-terms)
+  - [Staying informed](#staying-informed)
+  - [Network security domains](#network-security-domains)
+  - [Zone defense](#zone-defense)
+  - [Challenge: Create a security policy](#challenge-create-a-security-policy)
+  - [Solution: Create a security policy](#solution-create-a-security-policy)
 - [**2. Common Security Threats**](#2-common-security-threats) (7 videos)
-  - Reviewing security services
-  - Attacking the network
-  - Social engineering
-  - Identify malware
-  - Data loss prevention
-  - Challenge: Understanding botnets
-  - Solution: Understanding botnets
+  - [Reviewing security services](#reviewing-security-services)
+  - [Attacking the network](#attacking-the-network)
+  - [Social engineering](#social-engineering)
+  - [Identify malware](#identify-malware)
+  - [Data loss prevention](#data-loss-prevention)
+  - [Challenge: Understanding botnets](#challenge-understanding-botnets)
+  - [Solution: Understanding botnets](#solution-understanding-botnets)
 - [**3. Cryptography**](#3-cryptography) (6 videos)
-  - Cryptographic concepts
-  - Describing symmetric encryption
-  - Asymmetric encryption
-  - Protecting integrity using a hash function
-  - Key exchange
-  - Public key infrastructure
+  - [Cryptographic concepts](#cryptographic-concepts)
+  - [Describing symmetric encryption](#describing-symmetric-encryption)
+  - [Asymmetric encryption](#asymmetric-encryption)
+  - [Protecting integrity using a hash function](#protecting-integrity-using-a-hash-function)
+  - [Key exchange](#key-exchange)
+  - [Public key infrastructure](#public-key-infrastructure)
 - [**4. Describe Network Topologies**](#4-describe-network-topologies) (7 videos)
-  - Campus area network
-  - Cloud and wide area network
-  - Data center
-  - Small office home office (SOHO)
-  - Securing a virtual environment
-  - Challenge: Cost of a data breach
-  - Solution: Cost of a data breach
+  - [Campus area network](#campus-area-network)
+  - [Cloud and wide area network](#cloud-and-wide-area-network)
+  - [Data center](#data-center)
+  - [Small office home office (SOHO)](#small-office-home-office-soho)
+  - [Securing a virtual environment](#securing-a-virtual-environment)
+  - [Challenge: Cost of a data breach](#challenge-cost-of-a-data-breach)
+  - [Solution: Cost of a data breach](#solution-cost-of-a-data-breach)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defending the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980)
@@ -110,8 +110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (1), [[Engineering]] (1), [[Network Security]] (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** super (1), let (1)
 > **Env Vars:** cia (1), ccna (1)
 > **Speakers:** - [instructor] (1)
 
@@ -144,6 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Cybersecurity]] (1), [[Security]] (1)
 > **Env Vars:** ccna (4), url (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -166,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Automation]] (1), career (1)
 > **Env Vars:** ccna (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -174,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Security Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure network overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980)
@@ -263,10 +265,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), business (4), data (2), cloud (1), [[Virtualization]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** ram (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -336,8 +338,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Intrusion Detection]] (2), [[Privacy]] (1), [[Security]] (1), business (1)
 > **Analogies:** such as (6)
-> **Code Keywords:** function (1)
 > **Env Vars:** cia (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -401,9 +403,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), data (5), management (5), database (2), [[NIST]] (1)
 > **Env Vars:** siem (7), nist (1), mac (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
-> **Code Keywords:** let (2), throw (1)
 > **CLI Commands:** make (1)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 > **UI Navigation:** go to (1)
@@ -468,9 +470,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), management (4), [[Penetration Testing]] (1), [[Accountability]] (1), [[Databases]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2)
-> **Code Keywords:** function (1)
 > **Env Vars:** sans (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -514,10 +516,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), [[Cybersecurity]] (3), cloud (2), [[Network Security]] (1), web application (1)
 > **Env Vars:** owasp (1), isc2 (1), sscp (1), ccsp (1), cissp (1)
 > **URLs:** [mitre.org](https://mitre.org) (1), [sans.org](https://sans.org) (1), [isc2.org](https://isc2.org) (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [host] (1)
 
@@ -604,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), public (1)
+> **Frameworks & Libraries:** [[Security]] (16), data (6), management (4), business (3), [[Data Classification]] (2)
 > **Env Vars:** iso (2), iec (2)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Ports:** :2013 (1)
@@ -667,8 +669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (13), [[Security]] (4), web (2), lan (2), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dmz (10), lan (2)
-> **Code Keywords:** interface (5), public (2)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -694,8 +696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **URLs:** [sans.org](https://sans.org) (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
@@ -783,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), include. (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Microsoft Word|Word]] (1), data (1), business (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -795,7 +797,7 @@ created: 2026-04-29
 
 ### 2. Common Security Threats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing security services
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/reviewing-security-services?u=76281980)
@@ -834,8 +836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (2), traffic (1), [[Ethical Hacking]] (1)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Attacking the network
@@ -909,8 +911,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (4), [[Intrusion Detection]] (2), traffic (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Analogies:** such as (6)
-> **Code Keywords:** case, (1), protected (1), switch (1)
 > **Env Vars:** icmp (1), tcp (1), udp (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** source code (1)
@@ -964,8 +966,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (11), [[Engineering]] (9), [[Security]] (1), web (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** case, (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1065,8 +1067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (3), business (1), game (1)
 > **Analogies:** such as (6)
-> **Code Keywords:** self (3), let (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1156,9 +1158,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), cloud (2), [[Phishing]] (2), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **Analogies:** such as (4)
 > **Warnings:** caution (2), be aware (1)
-> **Code Keywords:** continue (1), public (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ssl (1)
 > **Versions:** 802.11 (1)
@@ -1252,6 +1254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), be aware (1)
 > **CLI Commands:** make (1)
@@ -1261,7 +1264,7 @@ created: 2026-04-29
 
 ### 3. Cryptography
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptographic concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980)
@@ -1332,7 +1335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), function (2), private (1), this, (1)
+> **Frameworks & Libraries:** data (15), [[Representational State Transfer (REST)|Rest]] (3), cloud (2), [[Cryptography]] (1), management (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** scroll down (1)
@@ -1437,7 +1440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (5), [[Data Manipulation]] (1), [[Security]] (1), next (1)
 > **Env Vars:** aes (4), des (2), idea (1)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1541,7 +1544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (11), private (9), let (3), super (2), this. (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), data (1), [[Algorithms]] (1), [[Security]] (1), application (1)
 > **Env Vars:** pgp (7), rsa (1), cpu (1), gpg (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1636,8 +1639,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (4), [[Blockchain]] (1), [[Security]] (1), [[NIST]] (1)
 > **Env Vars:** sha (7), nsa (1), nist (1)
-> **Code Keywords:** function (5)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1)
@@ -1702,7 +1705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (4), let (1)
+> **Frameworks & Libraries:** data (6), [[Privacy]] (2)
 > **Env Vars:** rsa (2), des (1), dddes (1), aes (1)
 > **Analogies:** such as (1), imagine (1)
 > **Definitions:** is an  (1)
@@ -1781,7 +1784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (17), let (3), private (1)
+> **Frameworks & Libraries:** data (5), web (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (3)
 > **URLs:** [amazon.com](https://amazon.com) (1)
@@ -1791,7 +1794,7 @@ created: 2026-04-29
 
 ### 4. Describe Network Topologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Campus area network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980)
@@ -1832,8 +1835,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (4), [[Local Area Network (LAN)|Local area network]] (1), business (1), [[Routing]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** private (1)
 > **Env Vars:** wan (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1895,8 +1898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), cloud (3), [[Security]] (3), management (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** wan (2), vpn (1)
-> **Code Keywords:** require (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1952,10 +1955,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Security]] (2), cloud (1), traffic (1), [[Hardware]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** raid (1), dmz (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1998,9 +2001,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (12), data (2), [[Security]] (1), feature (1)
 > **Env Vars:** wan (1), ssid (1), wpa2 (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 
 #### Securing a virtual environment
@@ -2054,8 +2057,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtualization]] (8), [[Security]] (7), data (5), business (4), [[Hardware]] (3)
 > **Env Vars:** ibm (1), asa (1), vpn (1)
-> **Code Keywords:** new, (1), let (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2085,8 +2088,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **URLs:** [ibm.com](https://ibm.com) (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2170,8 +2173,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), next (2), management (1), ai (1), [[Automation]] (1)
 > **UI Navigation:** scroll down (3), go to (2)
-> **Code Keywords:** let (1), case, (1), this. (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** eriskhub (1)
 > **URLs:** [ibm.com](https://ibm.com) (1)
@@ -2182,7 +2185,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980)
@@ -2213,6 +2216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Engineering]] (1), data (1), [[IoT]] (1), [[Privacy]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** cia (1), iot (1)
 > **Speakers:** - [instructor] (1)

@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Nlp%20With%20Python%20For%20Machine%20Learning.md)
@@ -51,42 +51,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Elevate Your NLP expertise using Python and machine learning
-  - What you should know
-  - How to use the challenge exercise files
+  - [Elevate Your NLP expertise using Python and machine learning](#elevate-your-nlp-expertise-using-python-and-machine-learning)
+  - [What you should know](#what-you-should-know)
+  - [How to use the challenge exercise files](#how-to-use-the-challenge-exercise-files)
 - [**1. Introduction to NLP Libraries**](#1-introduction-to-nlp-libraries) (3 videos)
-  - Overview of natural language processing
-  - Evolution of natural language processing
-  - Natural language processing libraries
+  - [Overview of natural language processing](#overview-of-natural-language-processing)
+  - [Evolution of natural language processing](#evolution-of-natural-language-processing)
+  - [Natural language processing libraries](#natural-language-processing-libraries)
 - [**2. Review NLP and Python Basics**](#2-review-nlp-and-python-basics) (3 videos)
-  - Introduction to spaCy
-  - Challenge: Build a spaCy processing pipeline
-  - Solution: Build a processing pipeline
+  - [Introduction to spaCy](#introduction-to-spacy)
+  - [Challenge: Build a spaCy processing pipeline](#challenge-build-a-spacy-processing-pipeline)
+  - [Solution: Build a processing pipeline](#solution-build-a-processing-pipeline)
 - [**3. Using spaCy for Customer Feedback Analysis**](#3-using-spacy-for-customer-feedback-analysis) (4 videos)
-  - Analyze customer feedback using spaCy
-  - The spaCy processing pipeline
-  - Challenge: Analyze customer feedback
-  - Solution: Analyze customer feedback
+  - [Analyze customer feedback using spaCy](#analyze-customer-feedback-using-spacy)
+  - [The spaCy processing pipeline](#the-spacy-processing-pipeline)
+  - [Challenge: Analyze customer feedback](#challenge-analyze-customer-feedback)
+  - [Solution: Analyze customer feedback](#solution-analyze-customer-feedback)
 - [**4. Modern NLP: Transformers and Large Language Models**](#4-modern-nlp-transformers-and-large-language-models) (5 videos)
-  - Modern natural language processing
-  - Transformers neural networks
-  - Large language models: BERT, GPT
-  - Challenge: Sentiment analysis using DistilBERT
-  - Solution: Sentiment analysis using DistilBERT
+  - [Modern natural language processing](#modern-natural-language-processing)
+  - [Transformers neural networks](#transformers-neural-networks)
+  - [Large language models: BERT, GPT](#large-language-models-bert-gpt)
+  - [Challenge: Sentiment analysis using DistilBERT](#challenge-sentiment-analysis-using-distilbert)
+  - [Solution: Sentiment analysis using DistilBERT](#solution-sentiment-analysis-using-distilbert)
 - [**5. Methods That Improve LLM Performance**](#5-methods-that-improve-llm-performance) (7 videos)
-  - Methods that improve LLM performance
-  - Supervised fine-tuning
-  - Fine-tuning methods
-  - Retrieval-augmented generation (RAG)
-  - Parameter-efficient fine-tuning (PEFT)
-  - Challenge: Parameter-efficient fine-tuning with LoRa
-  - Solution: Parameter-efficient fine-tuning with LoRa
+  - [Methods that improve LLM performance](#methods-that-improve-llm-performance)
+  - [Supervised fine-tuning](#supervised-fine-tuning)
+  - [Fine-tuning methods](#fine-tuning-methods)
+  - [Retrieval-augmented generation (RAG)](#retrieval-augmented-generation-rag)
+  - [Parameter-efficient fine-tuning (PEFT)](#parameter-efficient-fine-tuning-peft)
+  - [Challenge: Parameter-efficient fine-tuning with LoRa](#challenge-parameter-efficient-fine-tuning-with-lora)
+  - [Solution: Parameter-efficient fine-tuning with LoRa](#solution-parameter-efficient-fine-tuning-with-lora)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elevate Your NLP expertise using Python and machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Generative AI]] (1), career (1), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [gwendolyn] (1)
 
@@ -119,6 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -159,9 +161,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), data (2), [[Google]] (1)
 > **Tools:** github (3), colab (1)
 > **Exercise Files:** download the (1), clone the repo (1), exercise files (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** open the (1), click on (1)
 > **Env Vars:** zip (1)
 > **Definitions:** is a  (1)
@@ -171,7 +173,7 @@ created: 2026-04-29
 
 ### 1. Introduction to NLP Libraries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980)
@@ -230,12 +232,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), nlp (6), data (5), [[Python (Programming Language)|Python]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2)
 > **Env Vars:** nlp (6), ner (1)
 > **Analogies:** such as (3), for instance (1), imagine (1), for example (1)
 > **CLI Commands:** python (3)
 > **Versions:** 0.2 (2), 0.5 (1)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - natural (1)
 
 #### Evolution of natural language processing
@@ -321,8 +323,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (11), [[Neural Networks]] (4), data (2), parallel (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** nlp (11), lstm (3), bert (2), gpt (1)
-> **Code Keywords:** let (1), module (1), function (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -358,6 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[spaCy]] (7), nlp (5), [[Python (Programming Language)|Python]] (2), data (2), [[Deep Learning]] (2)
 > **Env Vars:** nltk (8), nlp (5), jax (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
@@ -366,7 +369,7 @@ created: 2026-04-29
 
 ### 2. Review NLP and Python Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980)
@@ -453,11 +456,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (11), [[spaCy]] (10), [[Tokens]] (4), [[Microsoft Word|Word]] (2), product (1)
 > **Env Vars:** nlp (11), ceo (1), gpe (1)
 > **Code Identifiers:** spacy (10)
 > **Definitions:** is an  (2), stands for (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), function (1)
 > **Speakers:** - [narrator] (1)
 
 #### Challenge: Build a spaCy processing pipeline
@@ -485,6 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[spaCy]] (4), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** spacy (4)
 > **Env Vars:** pos (2)
 > **Tools:** colab (1), jupyter (1)
@@ -582,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[spaCy]] (4), [[Tokens]] (4), data (4), [[Microsoft Word|Word]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** pos (1), csv (1)
 > **CLI Commands:** pip (1)
 > **UI Navigation:** scroll down (1)
@@ -594,7 +598,7 @@ created: 2026-04-29
 
 ### 3. Using spaCy for Customer Feedback Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze customer feedback using spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980)
@@ -671,6 +675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[spaCy]] (9), data (2), api (2), [[Microsoft Products|Products]] (1), strengths (1)
 > **Code Identifiers:** spacy (9), sentiment (1)
 > **Env Vars:** api (2), nlp (1), vader (1), ibm (1), nltk (1)
 > **Definitions:** is a  (2)
@@ -752,11 +757,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[spaCy]] (4), nlp (3), [[Microsoft Products|Products]] (2), express (1), product (1)
 > **Code Identifiers:** spacy (4)
 > **URLs:** [email.com](https://email.com) (4)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Env Vars:** nlp (3)
-> **Code Keywords:** let (2)
 > **Versions:** 0.44 (1), 0.66 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
@@ -778,6 +783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), data (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (cheerful music) (1)
@@ -833,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[spaCy]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** spacy (1)
 > **Env Vars:** csv (1)
@@ -845,7 +851,7 @@ created: 2026-04-29
 
 ### 4. Modern NLP: Transformers and Large Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980)
@@ -886,10 +892,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (6), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), [[Deep Learning]] (1), llm (1)
 > **Env Vars:** nlp (6), bert (1), gpt (1), llm (1)
 > **Definitions:** is an  (3), is a  (1), refers to (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
@@ -974,8 +980,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (7), [[Microsoft Word|Word]] (5), [[Tokens]] (4), data (4), [[PyTorch]] (2)
 > **Env Vars:** nlp (7), bert (1), gpt (1)
-> **Code Keywords:** self (5), let (1), function (1)
 > **Analogies:** such as (2), for instance (1)
 > **Versions:** 1.0 (1)
 > **Definitions:** is a  (1)
@@ -1032,6 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), [[Large Language Models (LLM)|Large language models]] (3), [[Tokens]] (2), data (2), next (1)
 > **Env Vars:** gpt (6), bert (5), llm (4)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -1056,6 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), cloud (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1141,7 +1149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** csv (2)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** make (1)
@@ -1153,7 +1161,7 @@ created: 2026-04-29
 
 ### 5. Methods That Improve LLM Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Methods that improve LLM performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980)
@@ -1250,9 +1258,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (9), [[Prompt Engineering]] (7), prompt (7), data (3), llm (3)
 > **Code Identifiers:** input_text (2), return_tensors (1), token_id (1), eos_token_id (1), skip_special_tokens (1)
 > **Env Vars:** llm (3), rag (1), peft (1)
-> **Code Keywords:** let (1), from. (1), case, (1), finally, (1)
 > **Definitions:** is an  (1), is a  (1), known as (1)
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
@@ -1295,6 +1303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), llm (2)
 > **Env Vars:** llm (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -1385,10 +1394,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (10), data (4), llm (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** bert (3), llm (2), gpt (2)
 > **Code Identifiers:** train_texts (3), train_encodings (2), medical_texts (1)
 > **Analogies:** such as (3), for example (3)
-> **Code Keywords:** let (2), function (1), case, (1), require (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Cross-References:** as we saw (1), earlier in (1)
 > **Speakers:** - [instructor] (1)
@@ -1448,6 +1457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), rag (2), llm (1), database (1), [[Search]] (1)
 > **Env Vars:** rag (2), llm (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1527,10 +1537,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fine Tuning]] (7), llm (2), data (1), [[Neural Networks]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** llm (2), gpt (2), bert (2)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Code Identifiers:** requires_grad (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1552,7 +1562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** data (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - in (1)
 
@@ -1683,8 +1693,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Fine Tuning]] (5), business (3), [[PyTorch]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** peft (7)
-> **Code Keywords:** function (4), let (1)
 > **Code Identifiers:** roberta_model_name (1), modified_base (1), base_model (1), data_collator (1)
 > **Versions:** 0.927 (1), 0.946 (1), 0.248 (1)
 > **Exercise Files:** boilerplate (2)
@@ -1695,7 +1705,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980)
@@ -1726,6 +1736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (4), next (2), [[LinkedIn]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1)
 > **Env Vars:** nlp (4)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)

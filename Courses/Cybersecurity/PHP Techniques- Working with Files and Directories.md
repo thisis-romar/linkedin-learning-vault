@@ -31,7 +31,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP%20Techniques-%20Working%20with%20Files%20and%20Directories.md)
@@ -50,46 +50,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Work with files and directories in PHP
-  - Using the exercise files on GitHub
+  - [Work with files and directories in PHP](#work-with-files-and-directories-in-php)
+  - [Using the exercise files on GitHub](#using-the-exercise-files-on-github)
 - [**1. Working with Files**](#1-working-with-files) (13 videos)
-  - Filesystem basics
-  - Relative paths and magic constants
-  - Accessing files
-  - Reading from files
-  - Reading line by line
-  - File permissions
-  - Writing to files
-  - Writing line returns
-  - Deleting files
-  - Moving the file pointer
-  - Examining file details
-  - Challenge: Create a log file
-  - Solution: Create a log file
+  - [Filesystem basics](#filesystem-basics)
+  - [Relative paths and magic constants](#relative-paths-and-magic-constants)
+  - [Accessing files](#accessing-files)
+  - [Reading from files](#reading-from-files)
+  - [Reading line by line](#reading-line-by-line)
+  - [File permissions](#file-permissions)
+  - [Writing to files](#writing-to-files)
+  - [Writing line returns](#writing-line-returns)
+  - [Deleting files](#deleting-files)
+  - [Moving the file pointer](#moving-the-file-pointer)
+  - [Examining file details](#examining-file-details)
+  - [Challenge: Create a log file](#challenge-create-a-log-file)
+  - [Solution: Create a log file](#solution-create-a-log-file)
 - [**2. Working with Directories**](#2-working-with-directories) (7 videos)
-  - Directory basics
-  - Creating and deleting directories
-  - Accessing directory contents
-  - Skipping directory entries
-  - Pattern matching with glob
-  - Challenge: Directory treasure hunt
-  - Solution: Directory treasure hunt
+  - [Directory basics](#directory-basics)
+  - [Creating and deleting directories](#creating-and-deleting-directories)
+  - [Accessing directory contents](#accessing-directory-contents)
+  - [Skipping directory entries](#skipping-directory-entries)
+  - [Pattern matching with glob](#pattern-matching-with-glob)
+  - [Challenge: Directory treasure hunt](#challenge-directory-treasure-hunt)
+  - [Solution: Directory treasure hunt](#solution-directory-treasure-hunt)
 - [**3. Accepting User-Uploaded Files**](#3-accepting-user-uploaded-files) (9 videos)
-  - Configuring PHP for file uploads
-  - Sending files as form data
-  - Inspecting uploaded files
-  - Moving uploaded files
-  - Handling upload errors
-  - Setting file permissions
-  - Securing file uploads
-  - Challenge: Profile photo
-  - Solution: Profile photos
+  - [Configuring PHP for file uploads](#configuring-php-for-file-uploads)
+  - [Sending files as form data](#sending-files-as-form-data)
+  - [Inspecting uploaded files](#inspecting-uploaded-files)
+  - [Moving uploaded files](#moving-uploaded-files)
+  - [Handling upload errors](#handling-upload-errors)
+  - [Setting file permissions](#setting-file-permissions)
+  - [Securing file uploads](#securing-file-uploads)
+  - [Challenge: Profile photo](#challenge-profile-photo)
+  - [Solution: Profile photos](#solution-profile-photos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with files and directories in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980)
@@ -122,6 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), [[Search]] (1), [[Forms]] (1), web (1)
 > **CLI Commands:** php (4)
 > **Env Vars:** php (4)
 > **Speakers:** - [kevin] (1)
@@ -165,19 +166,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), [[GitHub]] (3), [[LinkedIn]] (1), [[PHP]] (1)
 > **CLI Commands:** git (4), find (1), php (1)
 > **Env Vars:** url (4)
 > **Tools:** github (3)
 > **UI Navigation:** switch to (1), click on (1), open the (1)
 > **Exercise Files:** exercise files (1), download the (1)
-> **Code Keywords:** switch (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Working with Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filesystem basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980)
@@ -316,8 +317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (10), [[HTML]] (1), web (1)
 > **CLI Commands:** php (10), find (2)
-> **Code Keywords:** let (8), function (2), else, (1), pass (1)
 > **Env Vars:** php (8), url (2), html (1)
 > **Code Identifiers:** file_exists (2), is_file (2), is_dir (2), file_basics (2), php_sandbox (1)
 > **Definitions:** is a  (5), is an  (1), means that (1), short for (1)
@@ -432,8 +433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (15), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **CLI Commands:** php (15), find (2), make (2)
-> **Code Keywords:** let (14), function (2)
 > **Env Vars:** php (12), file (2), html (1)
 > **Code Identifiers:** file_basics (3), file_relative (2), file_exists (2)
 > **File Paths:** file_basics.php (2), file.txt (1), file_relative.php (1)
@@ -564,7 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), else. (1), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (11), data (9), next (1)
 > **CLI Commands:** php (11), make (1), find (1)
 > **Env Vars:** php (10), txt (1)
 > **UI Navigation:** open the (5)
@@ -676,7 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (7), pass (4)
+> **Frameworks & Libraries:** [[PHP]] (8), data (6), [[HTML]] (4)
 > **CLI Commands:** php (8), find (2)
 > **Env Vars:** php (5), html (4)
 > **Code Identifiers:** file_get_contents (5), file_read (2), file_access (1)
@@ -832,7 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (3), pass (2), case, (2), return. (1)
+> **Frameworks & Libraries:** [[PHP]] (6), next (4), data (4)
 > **Env Vars:** php (4), csv (3), eof (1)
 > **CLI Commands:** php (6), make (1)
 > **File Paths:** fileaccess.php (1), file_lines.php (1), assetsloremipsum.txt (1), uspresidents.csv (1)
@@ -954,9 +955,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[PHP]] (2), [[Windows]] (2), [[Linux]] (2), web (1)
 > **CLI Commands:** chmod (5), ls (4), php (2), sudo (2), make (1)
 > **Code Identifiers:** php_sandbox (8), macos (2)
-> **Code Keywords:** let (3), continue (2), interface (2), delete (1), return. (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Tools:** command line (3)
 > **Env Vars:** php (2)
@@ -1084,7 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (2), delete (1), pass (1)
+> **Frameworks & Libraries:** data (21), [[PHP]] (9), next (1), database (1)
 > **CLI Commands:** php (9), make (5)
 > **Env Vars:** php (9), txt (5)
 > **File Paths:** file.txt (3), file2.txt (2), file_write.php (1), access.php (1), write.php (1)
@@ -1156,7 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), return. (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Windows]] (3), data (3), [[Linux]] (1)
 > **CLI Commands:** php (4)
 > **File Paths:** file_write.php (2), sample_file2.txt (1)
 > **Env Vars:** php (2), dos (1)
@@ -1238,7 +1239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), let (8), function (2), this, (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **CLI Commands:** php (4), make (2)
 > **Code Identifiers:** delete_me (2), file_delete (1), file_put_contents (1), file_exists (1)
 > **File Paths:** file_delete.php (1), __dir__./delete_me.txt (1), delete_me.txt (1)
@@ -1440,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), function (2), delete (1)
+> **Frameworks & Libraries:** [[PHP]] (12), [[Microsoft Word|Word]] (12), data (6), application (1), next (1)
 > **CLI Commands:** php (12), make (4)
 > **Env Vars:** php (11)
 > **File Paths:** sonnet.txt (3), file_pointer.php (1)
@@ -1628,7 +1629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (1)
+> **Frameworks & Libraries:** [[PHP]] (10), next (2), [[Metadata]] (1)
 > **CLI Commands:** php (10), make (2)
 > **Code Identifiers:** is_readable (3), is_executable (3), is_writable (2), file_details (2), is_file (1)
 > **Env Vars:** php (8)
@@ -1688,8 +1689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), next (2), application (1)
 > **CLI Commands:** php (3), make (3)
-> **Code Keywords:** function (4), pass (1)
 > **Env Vars:** php (3)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** open the (1)
@@ -1781,8 +1782,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (7), application (1)
 > **CLI Commands:** php (7), make (3)
-> **Code Keywords:** let (4), function (2), else. (1), this. (1), try. (1)
 > **Code Identifiers:** log_action (7)
 > **Env Vars:** php (5)
 > **File Paths:** log_action.php (2), log.txt (2)
@@ -1793,7 +1794,7 @@ created: 2026-04-29
 
 ### 2. Working with Directories
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Directory basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980)
@@ -1888,7 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (1), default, (1), case, (1)
+> **Frameworks & Libraries:** [[PHP]] (11), cd (1), [[Windows]] (1)
 > **CLI Commands:** php (11), cd (1), make (1)
 > **Env Vars:** php (9)
 > **Code Identifiers:** dir_basics (2), is_dir (1), file_exists (1), is_readable (1), is_writable (1)
@@ -1988,7 +1989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (4), delete (3), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (7), next (1)
 > **CLI Commands:** php (7), make (5), mkdir (2)
 > **Env Vars:** php (6)
 > **Warnings:** warning (3)
@@ -2154,7 +2155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this, (2), this. (1), case, (1), function (1)
+> **Frameworks & Libraries:** [[PHP]] (10), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** php (10)
 > **Env Vars:** php (7)
 > **File Paths:** dir_access.php (2), file_access.php (1)
@@ -2244,7 +2245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (4), function (1)
+> **Frameworks & Libraries:** [[PHP]] (4), next (1)
 > **CLI Commands:** php (4), find (1)
 > **Env Vars:** php (4)
 > **Cross-References:** go back to (1), coming up (1)
@@ -2383,7 +2384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2), pass (1), match. (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (8)
 > **Code Identifiers:** da_glob (2), file_lines (1), file_write (1)
 > **Analogies:** it's like (1), similar to (1), for example (1)
@@ -2443,8 +2444,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[PHP]] (2), [[HTML]] (1), next (1)
 > **CLI Commands:** find (8), php (2)
-> **Code Keywords:** let (2), for. (1)
 > **Env Vars:** php (2), html (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Prerequisites:** you'll need (2)
@@ -2541,8 +2542,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), [[Microsoft Word|Word]] (3), data (2)
 > **CLI Commands:** php (5), find (2)
-> **Code Keywords:** let (3), function (2), pass (1)
 > **Env Vars:** php (5), txt (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -2551,7 +2552,7 @@ created: 2026-04-29
 
 ### 3. Accepting User-Uploaded Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring PHP for file uploads
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980)
@@ -2602,9 +2603,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (11), web (2), [[Content Management]] (1), next (1)
 > **Env Vars:** php (11), ini (2)
 > **CLI Commands:** php (11), find (1)
-> **Code Keywords:** public (1), let (1), function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2727,8 +2728,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (8), [[PHP]] (6), data (4), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (8), php (3), enc (1)
-> **Code Keywords:** let (6), type, (2), type. (1), else. (1)
 > **CLI Commands:** php (6), make (1)
 > **File Paths:** upload_form.php (1), upload.php (1), form.php (1)
 > **Tools:** firefox (2)
@@ -2843,7 +2844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (5), let (5), type, (2), type. (1), private (1)
+> **Frameworks & Libraries:** [[PHP]] (11), data (9), [[HTML]] (2), hit (1), next (1)
 > **CLI Commands:** php (11), make (1)
 > **Env Vars:** php (8), html (2), files (1), mime (1)
 > **File Paths:** upload.php (2), upload_form.php (1), log.txt (1)
@@ -2975,7 +2976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), this, (1), else, (1), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Security]] (2), hit (1), [[HTML]] (1)
 > **CLI Commands:** php (9), make (2), find (1)
 > **Code Identifiers:** move_uploaded_file (6), upload_dir (1), file_upload (1), tmp_name (1), target_path (1)
 > **Env Vars:** php (7), txt (2), html (1)
@@ -3071,7 +3072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), super (3), function (3), this. (1), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (9), hit (1)
 > **CLI Commands:** php (9), make (1)
 > **Env Vars:** php (9)
 > **Definitions:** is an  (2), is called (1)
@@ -3219,10 +3220,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (14), web (1)
 > **CLI Commands:** php (14), chmod (4), make (2), chown (1), sudo (1)
 > **Env Vars:** php (12)
 > **File Paths:** sonnet.txt (5), upload.php (1), upload_chmod.php (1)
-> **Code Keywords:** let (3), function (1), else. (1), this. (1)
 > **Definitions:** we call this (1), is an  (1)
 > **Code Identifiers:** upload_chmod (1)
 > **Cross-References:** we talked about (1)
@@ -3285,9 +3286,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), [[Security]] (1), [[Scripting]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** php (4), pdf (3), ini (1), max_file_size (1)
 > **CLI Commands:** php (4), make (1)
-> **Code Keywords:** require (1), let (1), public (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3390,10 +3391,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (11), data (2), [[HTML]] (2), feature (1), database (1)
 > **CLI Commands:** php (11), make (1)
 > **File Paths:** uploadphoto.php (4), profile.php (2), userprofile.php (1)
 > **Env Vars:** php (4), html (2)
-> **Code Keywords:** let (2), function (1), include. (1), else. (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Code Identifiers:** profile_larry (2)
 > **UI Navigation:** go to (2)
@@ -3496,7 +3497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (2), type, (2), else. (1), function (1)
+> **Frameworks & Libraries:** [[PHP]] (2), data (1)
 > **CLI Commands:** make (2), php (2)
 > **Code Identifiers:** max_file_size (1), file_upload (1)
 > **Env Vars:** php (2)
@@ -3508,7 +3509,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/next-steps?u=76281980)
@@ -3533,6 +3534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), [[Search]] (2), data (1), web (1), next (1)
 > **CLI Commands:** php (5)
 > **Env Vars:** php (5)
 > **Speakers:** - [kevin] (1)

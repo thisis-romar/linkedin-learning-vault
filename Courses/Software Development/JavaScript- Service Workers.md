@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Service%20Workers.md)
@@ -48,67 +48,67 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Implement service workers in JavaScript
-  - What you should know
+  - [Implement service workers in JavaScript](#implement-service-workers-in-javascript)
+  - [What you should know](#what-you-should-know)
 - [**1. A New Citizen for the Web**](#1-a-new-citizen-for-the-web) (9 videos)
-  - Hello, service workers
-  - Abilities
-  - What we can do
-  - Requirements and compatibility
-  - Service workers in action
-  - Understand the life cycle
-  - See all service worker registrations
-  - Understand the scope
-  - Learn vocabulary and concepts
+  - [Hello, service workers](#hello-service-workers)
+  - [Abilities](#abilities)
+  - [What we can do](#what-we-can-do)
+  - [Requirements and compatibility](#requirements-and-compatibility)
+  - [Service workers in action](#service-workers-in-action)
+  - [Understand the life cycle](#understand-the-life-cycle)
+  - [See all service worker registrations](#see-all-service-worker-registrations)
+  - [Understand the scope](#understand-the-scope)
+  - [Learn vocabulary and concepts](#learn-vocabulary-and-concepts)
 - [**2. Work with Service Workers**](#2-work-with-service-workers) (10 videos)
-  - Register a service worker
-  - Change the default scope
-  - Handle service worker events
-  - Debug with Developer Tools in Chrome
-  - Debug with other browsers
-  - Load external files
-  - Work with the registration
-  - Update the service worker
-  - Manage updates in your code
-  - Unregister the service worker
+  - [Register a service worker](#register-a-service-worker)
+  - [Change the default scope](#change-the-default-scope)
+  - [Handle service worker events](#handle-service-worker-events)
+  - [Debug with Developer Tools in Chrome](#debug-with-developer-tools-in-chrome)
+  - [Debug with other browsers](#debug-with-other-browsers)
+  - [Load external files](#load-external-files)
+  - [Work with the registration](#work-with-the-registration)
+  - [Update the service worker](#update-the-service-worker)
+  - [Manage updates in your code](#manage-updates-in-your-code)
+  - [Unregister the service worker](#unregister-the-service-worker)
 - [**3. Acting as a Network Proxy**](#3-acting-as-a-network-proxy) (7 videos)
-  - Capture the fetch event
-  - Synthesize a response
-  - The Response object in detail
-  - The Request object in detail
-  - Work with exact routes
-  - Work with dynamic routes
-  - Clone before reading data
+  - [Capture the fetch event](#capture-the-fetch-event)
+  - [Synthesize a response](#synthesize-a-response)
+  - [The Response object in detail](#the-response-object-in-detail)
+  - [The Request object in detail](#the-request-object-in-detail)
+  - [Work with exact routes](#work-with-exact-routes)
+  - [Work with dynamic routes](#work-with-dynamic-routes)
+  - [Clone before reading data](#clone-before-reading-data)
 - [**4. Cache Storage**](#4-cache-storage) (11 videos)
-  - Understand the new Cache API
-  - Prepare the project
-  - Prefetch files on install
-  - Visualize your cache
-  - Implement a cache-first policy
-  - Implement a network-first policy
-  - Cache new elements after install
-  - Use stale-while-revalidate
-  - Deliver alternate content when offline
-  - Keep your storage clean
-  - Summary of cache strategies
+  - [Understand the new Cache API](#understand-the-new-cache-api)
+  - [Prepare the project](#prepare-the-project)
+  - [Prefetch files on install](#prefetch-files-on-install)
+  - [Visualize your cache](#visualize-your-cache)
+  - [Implement a cache-first policy](#implement-a-cache-first-policy)
+  - [Implement a network-first policy](#implement-a-network-first-policy)
+  - [Cache new elements after install](#cache-new-elements-after-install)
+  - [Use stale-while-revalidate](#use-stale-while-revalidate)
+  - [Deliver alternate content when offline](#deliver-alternate-content-when-offline)
+  - [Keep your storage clean](#keep-your-storage-clean)
+  - [Summary of cache strategies](#summary-of-cache-strategies)
 - [**5. Work with APIs in the Service Worker**](#5-work-with-apis-in-the-service-worker) (6 videos)
-  - What's available in the service worker
-  - Send messages from pages
-  - Receive messages in the service worker
-  - Broadcast messages to clients
-  - Receive messages from the controller
-  - Sync data in the background
+  - [What's available in the service worker](#whats-available-in-the-service-worker)
+  - [Send messages from pages](#send-messages-from-pages)
+  - [Receive messages in the service worker](#receive-messages-in-the-service-worker)
+  - [Broadcast messages to clients](#broadcast-messages-to-clients)
+  - [Receive messages from the controller](#receive-messages-from-the-controller)
+  - [Sync data in the background](#sync-data-in-the-background)
 - [**6. Tips and Tricks for Web Performance**](#6-tips-and-tricks-for-web-performance) (4 videos)
-  - Readable streams
-  - Navigation preload
-  - Defer service worker registration
-  - Make your service worker useful quickly
+  - [Readable streams](#readable-streams)
+  - [Navigation preload](#navigation-preload)
+  - [Defer service worker registration](#defer-service-worker-registration)
+  - [Make your service worker useful quickly](#make-your-service-worker-useful-quickly)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement service workers in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980)
@@ -147,10 +147,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (12), api (2), [[Vanilla]] (1), [[JavaScript]] (1), [[Web Development]] (1)
 > **Env Vars:** api (2), pwa (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
@@ -178,16 +178,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[HTML]] (1), css (1), [[JavaScript]] (1), [[ECMAScript]] (1)
 > **Env Vars:** ojs (2), html (1), css (1), es6 (1)
 > **Prerequisites:** you need to have (1), install (1)
-> **Code Keywords:** let (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. A New Citizen for the Web
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hello, service workers
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980)
@@ -288,7 +288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), interface (1), case, (1)
+> **Frameworks & Libraries:** web (10), api (2), data (1), [[Google]] (1), application (1)
 > **Env Vars:** api (2), lte (1), html5 (1), w3c (1), pwa (1)
 > **Analogies:** for example (5), such as (2)
 > **Documentation:** spec (4), w3c (1)
@@ -354,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), api (2), data (2), css (1), [[Android]] (1)
 > **Analogies:** for example (2), it's like (1), such as (1)
-> **Code Keywords:** let (2), super (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -428,10 +428,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[JavaScript]] (2), css (1), [[Fetch]] (1)
 > **Env Vars:** pwa (2), ios (2), css (1), svg (1), http (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
@@ -494,10 +494,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (4), web (3), [[Microsoft]] (1), [[Windows 10]] (1), [[Windows]] (1)
 > **Code Identifiers:** ios (6), iphone (2), ipad (2)
 > **Tools:** safari (3), firefox (2)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** https (2), tls (1)
 > **Versions:** 11.1 (1), 11.3 (1), version 17 (1)
 > **UI Navigation:** click on (1)
@@ -562,9 +562,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), api (2), [[HTML]] (1), [[Fetch]] (1), [[JavaScript]] (1)
 > **Env Vars:** pwa (2), api (2), url (1), html (1), cdn (1)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
@@ -643,8 +643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), next (2), [[Fetch]] (2)
 > **Definitions:** known as (3), is a  (3), is an  (2), means that (2)
-> **Code Keywords:** while, (1), case, (1), finally, (1)
 > **UI Navigation:** go to (2)
 > **Warnings:** be careful (2)
 > **Code Identifiers:** ios (1)
@@ -699,12 +699,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (2), [[Android]] (1), web (1)
 > **URLs:** [nasa.gov](https://nasa.gov) (4)
 > **UI Navigation:** go to (4)
 > **Env Vars:** url (3)
 > **Tools:** firefox (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** while, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Understand the scope
@@ -800,10 +800,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (13), [[HTML]] (9), [[Microsoft]] (2), application (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (11), [https://linkedin.com](https://linkedin.com) (1), [microsoft.com](https://microsoft.com) (1)
 > **Analogies:** such as (7), for example (4)
 > **File Paths:** index.html (2), learning.html (2), other-pwa/documents/about.html (1), sw-a.js (1)
-> **Code Keywords:** case, (3), static (1), let (1)
 > **Env Vars:** html (4)
 > **Tools:** safari (2)
 > **Definitions:** is a  (1), known as (1)
@@ -884,8 +884,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), [[HTML]] (3)
 > **Analogies:** for example (6), such as (2)
-> **Code Keywords:** case, (2), let (1)
 > **Env Vars:** html (3)
 > **Definitions:** known as (2), is an  (1)
 > **CLI Commands:** make (1)
@@ -894,7 +894,7 @@ created: 2026-04-29
 
 ### 2. Work with Service Workers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Register a service worker
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/register-a-service-worker?u=76281980)
@@ -971,8 +971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), next (2), web (1), api (1)
 > **Env Vars:** html (6), https (2), url (1), api (1), http (1)
-> **Code Keywords:** function (4), let (2), finally, (2), case, (2)
 > **File Paths:** serviceworker.js (3), sw.js (1)
 > **Code Identifiers:** serviceworker (1)
 > **Tools:** visual studio (1)
@@ -1051,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (3), case, (3), function (2), let (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[JavaScript]] (1), [[Security]] (1), [[HTML]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** http (2)
 > **CLI Commands:** make (1)
@@ -1118,9 +1118,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[npm]] (3), [[HTML]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Prerequisites:** install (6)
 > **CLI Commands:** npm (3), sudo (1), npx (1)
-> **Code Keywords:** self (3), let (1), this, (1)
 > **Analogies:** for example (3), similar to (1)
 > **Env Vars:** o2_03 (1), es6 (1), surf (1)
 > **UI Navigation:** open the (2), click on (1)
@@ -1240,7 +1240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), this. (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** application (4), [[JavaScript]] (2)
 > **UI Navigation:** go to (2), open the (2), click on (1)
 > **Analogies:** for example (4), it's like (1)
 > **Env Vars:** o2o4 (1), url (1)
@@ -1310,8 +1310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Search]] (1), [[Debugging]] (1), [[Windows 10]] (1), [[Microsoft]] (1)
 > **UI Navigation:** open the (2), go to (2), click on (1)
-> **Code Keywords:** this, (1), finally, (1), let (1)
 > **Tools:** safari (2), firefox (1)
 > **Env Vars:** url (2)
 > **URLs:** [localhost:5000](https://localhost:5000) (1)
@@ -1370,7 +1370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (2), let (1), catch. (1)
+> **Frameworks & Libraries:** api (2), parallel (2)
 > **Code Identifiers:** importscript (4), importscripts (1)
 > **File Paths:** events.js (3)
 > **Env Vars:** api (2)
@@ -1449,10 +1449,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[HTML]] (2), [[User Experience (UX)|User experience]] (2)
 > **Code Identifiers:** serviceworker (21), scripturl (1), serviceworkers (1), getregistration (1)
 > **Analogies:** for example (4), such as (2)
 > **Env Vars:** api (3), es6 (1), html (1)
-> **Code Keywords:** let (2), if, (1), case, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** index.html (1)
 > **Cross-References:** later in (1)
@@ -1537,7 +1537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (1), function (1)
+> **Frameworks & Libraries:** api (3), [[Fetch]] (1)
 > **Env Vars:** http (4), api (3)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (3)
@@ -1653,7 +1653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), function (3), this. (1), interface (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Debugging]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (2)
@@ -1733,7 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (3), function (2), this, (1), case, (1)
+> **Frameworks & Libraries:** web (1), [[HTML]] (1), prompt (1)
 > **Tools:** safari (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Env Vars:** html (1)
@@ -1743,7 +1743,7 @@ created: 2026-04-29
 
 ### 3. Acting as a Network Proxy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Capture the fetch event
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980)
@@ -1842,8 +1842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (10), css (3), [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** url (9), http (2), html (2), pwa (1), css (1)
-> **Code Keywords:** let (4), this, (2), else, (2), this. (2), self (1)
 > **Definitions:** is a  (3), known as (2)
 > **File Paths:** serviceworker.js (2), styles.css (2)
 > **UI Navigation:** go to (3), open the (1)
@@ -1920,8 +1920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (2), web (2), power (1), [[Java]] (1), [[HTML]] (1)
 > **Env Vars:** url (3), http (2), bwa (1), html (1)
-> **Code Keywords:** function (2), case, (1), static (1), let (1)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **URLs:** [localhost:5000](https://localhost:5000) (1)
@@ -2056,9 +2056,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (9), [[HTML]] (8), data (5), [[JSON]] (2), api (1)
 > **Env Vars:** html (7), url (3), json (2), http (1), api (1)
 > **Analogies:** for example (11), such as (1)
-> **Code Keywords:** let (3), static (2), this, (2), continue (1), case. (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** respondwith (1)
@@ -2134,7 +2134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), this, (2), type, (1), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (4), data (4), api (2), [[Fetch]] (1)
 > **Env Vars:** html (3), post (3), api (2), http (1), delete (1)
 > **Analogies:** for example (8), such as (1)
 > **File Paths:** serviceworker.js (1)
@@ -2202,10 +2202,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[HTML]] (3), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (9)
 > **Analogies:** for example (5)
 > **File Paths:** styles.css (2), serviceworker.js (1)
-> **Code Keywords:** try, (1), return. (1), this, (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (1)
 > **URLs:** [localhost:5000](https://localhost:5000) (1)
@@ -2308,8 +2308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (19), [[JSON]] (5), [[Microsoft Word|Word]] (3), [[HTML]] (2), [[Fetch]] (2)
 > **Env Vars:** api (16), url (4), html (2), json (2), jpeg (1)
-> **Code Keywords:** let (4), case, (3), function (2), this. (2), match. (1)
 > **Analogies:** for example (10), similar to (1)
 > **Code Identifiers:** jsonresponse (1), statustext (1)
 > **Definitions:** is a  (2)
@@ -2372,7 +2372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (3), this, (1), case, (1), return, (1)
+> **Frameworks & Libraries:** data (10), [[Fetch]] (3), api (3), [[JSON]] (3), [[HTML]] (2)
 > **Analogies:** for example (5)
 > **Env Vars:** post (2), put (1), usa (1)
 > **File Paths:** index.html (1)
@@ -2384,7 +2384,7 @@ created: 2026-04-29
 
 ### 4. Cache Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the new Cache API
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980)
@@ -2479,8 +2479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), data (6), web (2), [[Windows 10]] (1), [[HTML]] (1)
 > **Env Vars:** api (9), http (3), pwa (1), html (1)
-> **Code Keywords:** delete (3), case, (2), let (1)
 > **Analogies:** it's like (2), such as (2), for example (1)
 > **Tools:** safari (3), firefox (1)
 > **Definitions:** is an  (1), means that (1), known as (1)
@@ -2579,9 +2579,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[HTML]] (3), application (3), [[JavaScript]] (1), css (1)
 > **Env Vars:** api (4), html (3), url (3), css (1)
 > **File Paths:** app.js (3), serviceworker.js (2), weather.js (1)
-> **Code Keywords:** delete (2), let (2), case, (1), this, (1)
 > **UI Navigation:** go to (2), open the (1), scroll down (1)
 > **Code Identifiers:** serviceworker (3)
 > **CLI Commands:** make (1), find (1)
@@ -2665,10 +2665,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), api (3), data (1)
 > **File Paths:** index.html (2), serviceworker.js (1), mission.html (1), resources.html (1), tours.html (1)
 > **Code Identifiers:** addall (2), precachelist (2), cachename (1), waituntil (1)
 > **Env Vars:** api (3), url (3)
-> **Code Keywords:** case, (3), let (1), this, (1)
 > **Prerequisites:** install (3)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -2755,8 +2755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[Java]] (2), next (2), [[HTML]] (1), application (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** case, (2), this. (1)
 > **Cross-References:** go back to (1), next video (1)
 > **File Paths:** assets.js (1)
 > **Env Vars:** css (1)
@@ -2909,7 +2909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), this, (1), match. (1), for. (1)
+> **Frameworks & Libraries:** [[Fetch]] (5), [[Search]] (4), api (2), [[JavaScript]] (1)
 > **UI Navigation:** go to (6), checkbox (1)
 > **Env Vars:** api (2), url (2)
 > **Speakers:** - [instructor] (2), - [video (1)
@@ -3007,8 +3007,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (11), [[Fetch]] (1), application (1), next (1)
 > **Env Vars:** css (11), url (5)
-> **Code Keywords:** let (5), case, (2), match. (1)
 > **UI Navigation:** go to (5), click on (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -3105,7 +3105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Fetch]] (9), css (2), [[JavaScript]] (1), next (1)
 > **Env Vars:** url (3), css (2)
 > **Analogies:** for example (4), picture (1)
 > **Definitions:** is a  (2)
@@ -3207,7 +3207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (4), switch (1), match. (1), function (1)
+> **Frameworks & Libraries:** [[Fetch]] (9), css (5), next (3), api (2), [[Windows]] (1)
 > **Code Identifiers:** networkresponse (4), networkfetch (3), respondwith (1)
 > **Env Vars:** css (5), api (2)
 > **CLI Commands:** make (5)
@@ -3363,7 +3363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (8), for, (1), this. (1), continue (1), else. (1)
+> **Frameworks & Libraries:** [[JSON]] (10), data (5), [[Fetch]] (5), api (4), css (1)
 > **File Paths:** offline.json (6), weather.js (3)
 > **Env Vars:** api (4), css (1)
 > **CLI Commands:** make (1), find (1)
@@ -3449,7 +3449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), case, (3), let (1), this, (1)
+> **Frameworks & Libraries:** application (1), [[JSON]] (1), data (1), css (1), api (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** cachename (2), indexof (1)
@@ -3517,7 +3517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2)
+> **Frameworks & Libraries:** api (2), css (2), next (1), [[React.js|React]] (1), [[Angular]] (1)
 > **Env Vars:** api (2), css (2), svg (1)
 > **Analogies:** for example (2), such as (2), similar to (1)
 > **Definitions:** is a  (2)
@@ -3529,7 +3529,7 @@ created: 2026-04-29
 
 ### 5. Work with APIs in the Service Worker
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's available in the service worker
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/what-s-available-in-the-service-worker?u=76281980)
@@ -3584,9 +3584,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), web (2), power (1), dom (1), next (1)
 > **Env Vars:** api (9), htext (1), hml (1), http (1), dom (1)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** interface (2), async (2)
 > **Cross-References:** later in (1), in the last (1), in the next (1)
 > **Documentation:** spec (2)
 > **UI Navigation:** go to (1)
@@ -3667,8 +3667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[HTML]] (3), web (3), [[Windows]] (2), [[JSON]] (1)
 > **Env Vars:** api (3), html (3), json (1), pwa (1), css (1)
-> **Code Keywords:** let (4), function (4)
 > **Analogies:** for example (5), such as (3)
 > **Code Identifiers:** ifriends (1), serviceworker (1), postmessage (1), footerresources (1)
 > **File Paths:** app.js (1)
@@ -3784,7 +3784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), self (1), function (1), switch (1)
+> **Frameworks & Libraries:** data (2), [[HTML]] (1), [[Fetch]] (1), application (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), open the (1)
 > **Code Identifiers:** addeventlistener (1)
@@ -3892,7 +3892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), case, (2), default, (1), let (1)
+> **Frameworks & Libraries:** api (3), data (2), web (1), [[HTML]] (1)
 > **Env Vars:** api (3), pwa (1), url (1)
 > **Analogies:** for example (4), such as (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
@@ -3973,7 +3973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), switch (2), let (2), type, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), data (2), [[Windows]] (2), [[HTML]] (1)
 > **Env Vars:** url (4)
 > **Analogies:** for example (4)
 > **File Paths:** app.js (2)
@@ -4084,7 +4084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), function (2), this, (2), new. (1)
+> **Frameworks & Libraries:** [[Fetch]] (8), api (3), [[HTML]] (2), [[JSON]] (1), game (1)
 > **Env Vars:** api (3), html (1), url (1)
 > **Definitions:** is a  (4), known as (1)
 > **Code Identifiers:** tourid (2), getregistration (1), waituntil (1)
@@ -4096,7 +4096,7 @@ created: 2026-04-29
 
 ### 6. Tips and Tricks for Web Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Readable streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980)
@@ -4183,8 +4183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (6), web (4), [[Representational State Transfer (REST)|Rest]] (3), [[JSON]] (2), next (2)
 > **Env Vars:** json (2), http (1), tcp (1), udp (1), api (1)
-> **Code Keywords:** case, (2), let (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -4278,8 +4278,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (6), web (4), [[HTML]] (2), [[Android]] (2), feature (1)
 > **Env Vars:** abi (3), url (1), pwa (1), html (1), cpu (1)
-> **Code Keywords:** let (2), continue (1), case, (1), case. (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
@@ -4310,7 +4310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **UI Navigation:** navigate to (2)
 > **Code Identifiers:** servicwworker (1)
 > **Speakers:** - [instructor] (1)
@@ -4360,8 +4360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** html (3), pwa (1), http (1)
-> **Code Keywords:** let (1), function (1), this, (1), self (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** iframes (1)
 > **UI Navigation:** go to (1)
@@ -4372,7 +4372,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980)
@@ -4413,8 +4413,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), [[LinkedIn]] (2), [[Search]] (1), [[Angular]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (2)
 > **Analogies:** such as (2)
 > **Env Vars:** pwa (1)
 > **Cross-References:** in the next (1)

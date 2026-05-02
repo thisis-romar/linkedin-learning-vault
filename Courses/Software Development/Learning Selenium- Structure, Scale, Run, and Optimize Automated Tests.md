@@ -31,7 +31,7 @@ tags:
   - skill/selenium
   - skill/test-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Selenium-%20Structure%2C%20Scale%2C%20Run%2C%20and%20Optimize%20Automated%20Tests.md)
@@ -50,46 +50,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn Selenium for testing
-  - What you should know
-  - Selenium vs. modern frameworks
+  - [Learn Selenium for testing](#learn-selenium-for-testing)
+  - [What you should know](#what-you-should-know)
+  - [Selenium vs. modern frameworks](#selenium-vs-modern-frameworks)
 - [**1. Getting Started with Selenium**](#1-getting-started-with-selenium) (10 videos)
-  - Setting up the Selenium framework for macOS
-  - Setting up the Selenium framework for Windows
-  - Write your first Selenium test
-  - Locate elements with confidence
-  - Waiting strategy: Page load strategy
-  - Waiting strategy: Elements
-  - Run tests headlessly
-  - Build the framework foundation
-  - Challenge: Fix a failing test
-  - Solution: Fix a failing test
+  - [Setting up the Selenium framework for macOS](#setting-up-the-selenium-framework-for-macos)
+  - [Setting up the Selenium framework for Windows](#setting-up-the-selenium-framework-for-windows)
+  - [Write your first Selenium test](#write-your-first-selenium-test)
+  - [Locate elements with confidence](#locate-elements-with-confidence)
+  - [Waiting strategy: Page load strategy](#waiting-strategy-page-load-strategy)
+  - [Waiting strategy: Elements](#waiting-strategy-elements)
+  - [Run tests headlessly](#run-tests-headlessly)
+  - [Build the framework foundation](#build-the-framework-foundation)
+  - [Challenge: Fix a failing test](#challenge-fix-a-failing-test)
+  - [Solution: Fix a failing test](#solution-fix-a-failing-test)
 - [**2. Structuring Your Tests**](#2-structuring-your-tests) (7 videos)
-  - What is a page object model (POM)?
-  - Create a POM
-  - Implement a POM in a test
-  - Data-driven testing
-  - Organize tests with tags
-  - Challenge: Refactor POM function
-  - Solution: Refactor POM function
+  - [What is a page object model (POM)?](#what-is-a-page-object-model-pom)
+  - [Create a POM](#create-a-pom)
+  - [Implement a POM in a test](#implement-a-pom-in-a-test)
+  - [Data-driven testing](#data-driven-testing)
+  - [Organize tests with tags](#organize-tests-with-tags)
+  - [Challenge: Refactor POM function](#challenge-refactor-pom-function)
+  - [Solution: Refactor POM function](#solution-refactor-pom-function)
 - [**3. Running Tests at Scale**](#3-running-tests-at-scale) (5 videos)
-  - Test across browsers locally
-  - What is Selenium Grid?
-  - Run tests using Selenium Grid
-  - Run tests in parallel
-  - Use GitHub Codespaces for test dev
+  - [Test across browsers locally](#test-across-browsers-locally)
+  - [What is Selenium Grid?](#what-is-selenium-grid)
+  - [Run tests using Selenium Grid](#run-tests-using-selenium-grid)
+  - [Run tests in parallel](#run-tests-in-parallel)
+  - [Use GitHub Codespaces for test dev](#use-github-codespaces-for-test-dev)
 - [**4. Enhancing Tests with Modern Tools**](#4-enhancing-tests-with-modern-tools) (5 videos)
-  - Capture screenshots on failure
-  - Mock APIs with WireMock
-  - Run tests in CI with GitHub Actions
-  - Challenge: Run tests in CI with GitHub Actions
-  - Solution: Run tests in CI with GitHub Actions
+  - [Capture screenshots on failure](#capture-screenshots-on-failure)
+  - [Mock APIs with WireMock](#mock-apis-with-wiremock)
+  - [Run tests in CI with GitHub Actions](#run-tests-in-ci-with-github-actions)
+  - [Challenge: Run tests in CI with GitHub Actions](#challenge-run-tests-in-ci-with-github-actions)
+  - [Solution: Run tests in CI with GitHub Actions](#solution-run-tests-in-ci-with-github-actions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn Selenium for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980)
@@ -114,8 +114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (3), [[Test Automation]] (1), [[Engineering]] (1), teams (1), [[Google]] (1)
 > **Env Vars:** bbc (2)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Speakers:** - if (1)
 
@@ -162,8 +162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), [[GitHub]] (2), [[Selenium]] (2), ci (1), cd (1)
 > **CLI Commands:** make (2), cd (1), find (1)
-> **Code Keywords:** let (2), finally, (1), else, (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Tools:** github (2)
 > **Speakers:** - [narrator] (1)
@@ -223,8 +223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (8), [[Automation]] (2), web (1), [[Jenkins]] (1), [[GitHub]] (1)
 > **CLI Commands:** cd (1), python (1)
-> **Code Keywords:** let (1), super (1)
 > **Env Vars:** w3c (1)
 > **Documentation:** w3c (1)
 > **Tools:** github (1)
@@ -233,7 +233,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Selenium
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the Selenium framework for macOS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-mac?u=76281980)
@@ -272,6 +272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), application (1)
 > **UI Navigation:** click on (9), scroll down (1), select the (1), dropdown (1)
 > **Env Vars:** dmg (2), xml (2), idea (1), jdk (1)
 > **File Paths:** pom.xml (2), main.java (2)
@@ -279,7 +280,6 @@ created: 2026-04-29
 > **Tools:** intellij (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### Setting up the Selenium framework for Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-windows?u=76281980)
@@ -346,11 +346,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[Windows]] (3), next (3), application (1)
 > **UI Navigation:** click on (15), go to (2), scroll down (1), select the (1), dropdown (1)
 > **Prerequisites:** set up (4), install (3), setup (1)
 > **Env Vars:** idea (4), jdk (2)
 > **Tools:** intellij (6)
-> **Code Keywords:** continue (1), let (1)
 > **Versions:** java 21 (1), version 21 (1)
 > **Definitions:** is a  (2)
 > **File Paths:** main.java (1)
@@ -434,9 +434,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (4), [[JUnit]] (4), web (3), api (1)
 > **Code Identifiers:** assertequals (3), checkpagetitle (1), chromedriver (1), webdriver (1), gettitle (1)
 > **UI Navigation:** go to (3), click on (2), open the (1)
-> **Code Keywords:** let (1), assert (1), this, (1), public (1)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (3)
 > **CLI Commands:** make (1), apache (1)
 > **Definitions:** is called (1), is a  (1)
@@ -522,7 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1)
+> **Frameworks & Libraries:** [[Selenium]] (5), web (3), [[HTML]] (1)
 > **UI Navigation:** go to (2), scroll down (1), select the (1)
 > **Code Identifiers:** getelementbytagname (1), checkcontactheading (1), gettext (1)
 > **Definitions:** is a  (2)
@@ -592,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), this. (1)
+> **Frameworks & Libraries:** [[Selenium]] (1), web (1), next (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -676,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), class. (1), from, (1), this. (1)
+> **Frameworks & Libraries:** [[Selenium]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Cross-References:** in the last (1), go back to (1)
 > **Definitions:** is an  (2)
@@ -716,7 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), new. (1)
+> **Frameworks & Libraries:** web (1)
 > **UI Navigation:** click on (1), open the (1)
 > **Code Identifiers:** addarguments (1)
 > **Definitions:** is called (1)
@@ -787,7 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), public (2), protected (1), delete (1)
+> **Frameworks & Libraries:** [[Java]] (1), next (1), [[Selenium]] (1)
 > **Prerequisites:** setup (4)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
@@ -840,6 +840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Tools:** intellij (1)
@@ -850,7 +851,7 @@ created: 2026-04-29
 
 ### 2. Structuring Your Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a page object model (POM)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-the-page-object-model?u=76281980)
@@ -885,8 +886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (3), next (1)
 > **Env Vars:** pom (3)
-> **Code Keywords:** class. (1), class, (1)
 > **Code Identifiers:** fillform (1), sendmessage (1)
 > **Definitions:** basically means (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -984,8 +985,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** fillform (3), findelement (3), alertloc (2), firstnameloc (2), btnsubmit (2)
-> **Code Keywords:** let (3), function (3), this, (2), public (2), this. (1)
 > **Env Vars:** pom (8)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1039,7 +1040,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (1), new. (1)
 > **Code Identifiers:** contactpagepom (2), fillform (1), submitform (1), alertloc (1)
 > **Env Vars:** pom (5)
 > **Speakers:** - [instructor] (1)
@@ -1147,7 +1147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (5), this. (2), pass (1), function (1)
+> **Frameworks & Libraries:** data (5), [[JUnit]] (1), [[Selenium]] (1)
 > **Cross-References:** go back to (3)
 > **File Paths:** login-data.csv (2)
 > **CLI Commands:** make (2)
@@ -1205,7 +1205,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1), case, (1), this. (1)
 > **UI Navigation:** click on (1), dropdown (1)
 > **Tools:** intellij (1)
 > **Analogies:** for example (1)
@@ -1228,7 +1227,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (1)
 > **UI Navigation:** go to (1), open the (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -1294,7 +1292,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), catch. (1), function (1)
 > **Code Identifiers:** firstname (4), lastname (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1305,7 +1302,7 @@ created: 2026-04-29
 
 ### 3. Running Tests at Scale
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test across browsers locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/test-across-browsers-locally?u=76281980)
@@ -1376,8 +1373,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (5), web (2), next (1)
 > **Tools:** firefox (8), command line (4)
-> **Code Keywords:** let (4), switch (2), pass (1), break. (1), default. (1)
 > **UI Navigation:** switch to (1), go to (1)
 > **Code Identifiers:** getproperty (1)
 > **Versions:** version 4 (1)
@@ -1442,8 +1439,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (5), parallel (2), node (1), teams (1), ci (1)
 > **CLI Commands:** find (1), node (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -1531,8 +1528,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (11), [[Java]] (3), web (3), next (1)
 > **Env Vars:** url (9)
-> **Code Keywords:** let (3), function (1), throw (1), case, (1)
 > **Tools:** terminal (4), firefox (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **Cross-References:** go back to (2)
@@ -1589,8 +1586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JUnit]] (4), parallel (4), concurrent (2)
 > **Analogies:** imagine (2), for example (1)
-> **Code Keywords:** let (1), default, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1736,10 +1733,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Codespaces]] (5), [[Google]] (5), [[Java]] (5), prompt (2)
 > **Tools:** github (6), terminal (5), visual studio (4)
 > **Prerequisites:** install (6), set up (5), setup (4)
 > **UI Navigation:** click on (7), switch to (2), dropdown (1), open the (1)
-> **Code Keywords:** switch (2), let (2), this. (2), this, (1), default, (1)
 > **Analogies:** similar to (3), for example (2), think of it like (1), just like (1)
 > **CLI Commands:** make (3), docker (1), python (1), node (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1748,7 +1745,7 @@ created: 2026-04-29
 
 ### 4. Enhancing Tests with Modern Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Capture screenshots on failure
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980)
@@ -1831,7 +1828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), continue (1), case. (1), pass (1), let (1)
+> **Frameworks & Libraries:** [[JUnit]] (2), [[Jira]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Prerequisites:** configure (3)
 > **Definitions:** is called (1), is a  (1)
@@ -1871,10 +1868,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), api (2), [[Microsoft Products|Products]] (2), data (2), [[End-to-end Testing]] (1)
 > **Env Vars:** api (2), json (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1998,9 +1995,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Selenium]] (7), [[Java]] (6), [[Git]] (2), ci (1)
 > **Prerequisites:** set up (4), install (3), setup (2), configure (1)
 > **Tools:** github (9)
-> **Code Keywords:** let (6), this. (1), delete (1)
 > **UI Navigation:** go to (5), click on (2)
 > **CLI Commands:** git (2), mvn (1), mkdir (1)
 > **Definitions:** is called (2), is a  (1)
@@ -2034,6 +2031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Selenium]] (1), ci (1)
 > **Tools:** github (3)
 > **UI Navigation:** click on (2), dropdown (1)
 > **Prerequisites:** you'll need (1)
@@ -2077,8 +2075,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (1)
 > **UI Navigation:** click on (4), go to (2), select the (1)
-> **Code Keywords:** pass (1), let (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -2086,7 +2084,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980)
@@ -2109,6 +2107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (2), [[LinkedIn]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [selenium.dev](https://selenium.dev) (1)
 > **Speakers:** - well (1)

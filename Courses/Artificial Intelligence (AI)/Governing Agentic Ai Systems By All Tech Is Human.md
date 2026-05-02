@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Governing%20Agentic%20Ai%20Systems%20By%20All%20Tech%20Is%20Human.md)
@@ -48,11 +48,11 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Governing Agentic AI Systems**](#governing-agentic-ai-systems) (1 videos)
-  - Governing agentic AI systems
+  - [Governing agentic AI systems](#governing-agentic-ai-systems)
 
 ### Governing Agentic AI Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Governing agentic AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980)
@@ -265,7 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), static (1), from, (1), yield (1)
+> **Frameworks & Libraries:** ai (7), data (6), [[Accountability]] (4), [[Security]] (3), llm (3)
 > **Env Vars:** llm (3), crm (1), api (1), sas (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)

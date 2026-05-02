@@ -24,7 +24,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Integrating%20Generative%20AI%20into%20the%20Creative%20Process.md)
@@ -43,33 +43,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - AI as a creative booster
-  - Meet your new creative sidekicks
-  - Effectively partnering with AI to amplify your skills
+  - [AI as a creative booster](#ai-as-a-creative-booster)
+  - [Meet your new creative sidekicks](#meet-your-new-creative-sidekicks)
+  - [Effectively partnering with AI to amplify your skills](#effectively-partnering-with-ai-to-amplify-your-skills)
 - [**1. Cultivation: Develop Your Creative Skills with AI**](#1-cultivation-develop-your-creative-skills-with-ai) (4 videos)
-  - Using AI to test and develop your creativity
-  - Using AI to enhance combinatorial creativity
-  - Using AI to improve your writing
-  - Using AI to improve your visualization skills
+  - [Using AI to test and develop your creativity](#using-ai-to-test-and-develop-your-creativity)
+  - [Using AI to enhance combinatorial creativity](#using-ai-to-enhance-combinatorial-creativity)
+  - [Using AI to improve your writing](#using-ai-to-improve-your-writing)
+  - [Using AI to improve your visualization skills](#using-ai-to-improve-your-visualization-skills)
 - [**2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas**](#2-inspiration-using-ai-to-get-better-ingredients-for-fresh-ideas) (3 videos)
-  - Using AI to understand your audience's motivations
-  - Using AI to empathize with your audience
-  - Using AI to produce a more inspiring creative brief
+  - [Using AI to understand your audience's motivations](#using-ai-to-understand-your-audiences-motivations)
+  - [Using AI to empathize with your audience](#using-ai-to-empathize-with-your-audience)
+  - [Using AI to produce a more inspiring creative brief](#using-ai-to-produce-a-more-inspiring-creative-brief)
 - [**3. Imagination: Get Help Developing Fresh and Impactful Ideas**](#3-imagination-get-help-developing-fresh-and-impactful-ideas) (5 videos)
-  - Using AI to nudge your thinking in fresh directions
-  - Using AI to suggest analogies
-  - Using AI to dramatize the benefit
-  - Using AI to suggest brand spokespeople
-  - Using AI to flesh out a concept
+  - [Using AI to nudge your thinking in fresh directions](#using-ai-to-nudge-your-thinking-in-fresh-directions)
+  - [Using AI to suggest analogies](#using-ai-to-suggest-analogies)
+  - [Using AI to dramatize the benefit](#using-ai-to-dramatize-the-benefit)
+  - [Using AI to suggest brand spokespeople](#using-ai-to-suggest-brand-spokespeople)
+  - [Using AI to flesh out a concept](#using-ai-to-flesh-out-a-concept)
 - [**4. Implementation: Using AI to Improve the Chances of Ideas Happening**](#4-implementation-using-ai-to-improve-the-chances-of-ideas-happening) (2 videos)
-  - Using AI to understand how to make an idea happen
-  - Using AI to sell your ideas more effectively
+  - [Using AI to understand how to make an idea happen](#using-ai-to-understand-how-to-make-an-idea-happen)
+  - [Using AI to sell your ideas more effectively](#using-ai-to-sell-your-ideas-more-effectively)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI as a creative booster
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/ai-as-a-creative-booster?u=76281980)
@@ -128,7 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (7), [[Generative AI]] (1), cloud (1)
 
 #### Meet your new creative sidekicks
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/meet-your-new-creative-sidekicks?u=76281980)
@@ -181,8 +181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[ChatGPT]] (2), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** think of it as (1)
 > **Prerequisites:** set up (1)
 
@@ -265,15 +265,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Microsoft Products]] (1), power (1), [[Generative AI]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** kind of like (1), it's like (1)
-> **Code Keywords:** this. (1)
 > **Warnings:** caution (1)
 > **Speakers:** - many (1)
 
 
 ### 1. Cultivation: Develop Your Creative Skills with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to test and develop your creativity
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980)
@@ -464,7 +464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), for: (1), function (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), ai (1), [[GPT-4]] (1), prompt (1), hit (1)
 > **Env Vars:** gpt (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** known as (1)
@@ -616,7 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), new. (1), throw (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), prompt (2), ai (2), [[Microsoft Word|Word]] (1), next (1)
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -768,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (2), this, (1), try. (1)
+> **Frameworks & Libraries:** prompt (2), next (2), [[ChatGPT]] (1), hit (1)
 > **Analogies:** it's like (1)
 
 #### Using AI to improve your visualization skills
@@ -928,7 +928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (2), throw (1), else. (1), this, (1)
+> **Frameworks & Libraries:** prompt (5), next (1), game (1)
 > **CLI Commands:** make (7), find (2)
 > **Analogies:** picture (2), imagine (2), for example (1)
 > **Code Identifiers:** ipad (1)
@@ -937,7 +937,7 @@ created: 2026-04-29
 
 ### 2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to understand your audience's motivations
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-your-audience-s-motivations?u=76281980)
@@ -1062,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), return, (1)
+> **Frameworks & Libraries:** product (3), prompt (3), ai (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** it's like (1)
@@ -1182,7 +1182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (1)
+> **Frameworks & Libraries:** prompt (2), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (2)
 > **Cross-References:** coming up (1)
@@ -1326,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for { (1)
+> **Frameworks & Libraries:** prompt (8), [[Forms]] (1)
 > **CLI Commands:** find (3)
 > **Exercise Files:** template (2)
 > **Env Vars:** gps (1)
@@ -1336,7 +1336,7 @@ created: 2026-04-29
 
 ### 3. Imagination: Get Help Developing Fresh and Impactful Ideas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to nudge your thinking in fresh directions
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-nudge-your-thinking-in-fresh-directions?u=76281980)
@@ -1463,7 +1463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), for, (1)
+> **Frameworks & Libraries:** prompt (8), [[ChatGPT]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** imagine (2)
 > **Cross-References:** coming up (1)
@@ -1587,7 +1587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), new. (1)
+> **Frameworks & Libraries:** prompt (2), ai (2), power (1), product (1)
 > **CLI Commands:** make (3), find (3)
 > **Analogies:** it's like (2), for instance (1), imagine (1)
 > **Definitions:** is a  (1)
@@ -1723,8 +1723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this
-{ (1), super (1), this. (1), this, (1)
+> **Frameworks & Libraries:** prompt (5), product (3), ai (1)
 > **CLI Commands:** make (3), find (2), cat (2)
 > **Analogies:** for example (3), imagine (2)
 > **Definitions:** is a  (3)
@@ -1854,8 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for
-{ (1), else. (1), this. (1)
+> **Frameworks & Libraries:** product (4), [[Banking]] (4), prompt (2), [[LinkedIn]] (1), next (1)
 > **Analogies:** imagine (1)
 
 #### Using AI to flesh out a concept
@@ -1975,14 +1973,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), this. (2)
+> **Frameworks & Libraries:** prompt (4), ai (4), hit (1), [[ChatGPT]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 
 
 ### 4. Implementation: Using AI to Improve the Chances of Ideas Happening
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to understand how to make an idea happen
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980)
@@ -2129,7 +2127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), finally, (1), this, (1), interface (1)
+> **Frameworks & Libraries:** prompt (2), ai (2), [[Computer Vision]] (2), [[Microsoft Office|Office]] (1), hit (1)
 > **CLI Commands:** make (9), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** think of it as (1), just like (1)
@@ -2306,7 +2304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1), abstract (1), this, (1)
+> **Frameworks & Libraries:** prompt (3), career (2), [[Microsoft Office|Office]] (2), functional (2), [[Storytelling]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), imagine (1)
@@ -2315,7 +2313,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980)
@@ -2358,6 +2356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (2), [[Generative AI Tools]] (1), [[Prompt Engineering]] (1), next (1)
 > **CLI Commands:** find (4)
 > **Analogies:** it's like (1), picture (1)
 > **Exercise Files:** template (1)

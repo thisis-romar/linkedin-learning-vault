@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Display.md)
@@ -47,24 +47,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. Basic Display Values**](#1-basic-display-values) (4 videos)
-  - Inline elements
-  - Block elements
-  - Understanding proper nesting of block and inline elements
-  - Display: none vs. visibility: hidden
+  - [Inline elements](#inline-elements)
+  - [Block elements](#block-elements)
+  - [Understanding proper nesting of block and inline elements](#understanding-proper-nesting-of-block-and-inline-elements)
+  - [Display: none vs. visibility: hidden](#display-none-vs-visibility-hidden)
 - [**2. Newer Display Values**](#2-newer-display-values) (5 videos)
-  - Understanding layouts with inline flex and grid
-  - Flow-root and floats
-  - Inline-block
-  - Table, inline-table, and its internal structures
-  - List-item
+  - [Understanding layouts with inline flex and grid](#understanding-layouts-with-inline-flex-and-grid)
+  - [Flow-root and floats](#flow-root-and-floats)
+  - [Inline-block](#inline-block)
+  - [Table, inline-table, and its internal structures](#table-inline-table-and-its-internal-structures)
+  - [List-item](#list-item)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/welcome?u=76281980)
@@ -87,7 +87,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** css (2), web (1)
 > **Env Vars:** css (2)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -95,7 +95,7 @@ created: 2026-04-29
 
 ### 1. Basic Display Values
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inline elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/inline-elements?u=76281980)
@@ -234,7 +234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), default, (1), override (1), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (5), next (2), generic (1), feature (1)
 > **Definitions:** in other words (6), is a  (2), defined as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -354,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (1)
+> **Frameworks & Libraries:** [[HTML]] (1), generic (1), [[CodePen]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** html (1)
 > **Analogies:** just like (1)
@@ -431,10 +431,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), css (1)
 > **Definitions:** is a  (4), in other words (1)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -503,7 +503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** css (3), [[CodePen]] (1), [[JavaScript]] (1)
 > **Env Vars:** css (3)
 > **Definitions:** means that (3)
 > **Analogies:** for example (2), kind of like (1)
@@ -513,7 +513,7 @@ created: 2026-04-29
 
 ### 2. Newer Display Values
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding layouts with inline flex and grid
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/understanding-layouts-with-inline-flex-and-grid?u=76281980)
@@ -622,8 +622,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), css (1)
 > **Definitions:** is a  (3), in other words (3)
-> **Code Keywords:** case, (3), class, (1), let (1)
 > **Env Vars:** html (2), css (1)
 > **Tools:** firefox (2)
 > **CLI Commands:** make (1)
@@ -692,9 +692,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1), game (1)
 > **Analogies:** picture (5)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** default. (1), for, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -799,7 +799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), default, (1), switch (1), this, (1)
+> **Frameworks & Libraries:** next (2), [[HTML]] (1), [[Semantic Markup]] (1), css (1)
 > **Definitions:** in other words (2), is a  (1), is an  (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (1), css (1)
@@ -892,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[LinkedIn]] (1), product (1)
 > **Definitions:** is called (1), in other words (1), is a  (1)
 > **Env Vars:** html (2)
 > **CLI Commands:** find (1)
@@ -986,7 +986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), this, (3), let (2), default. (1), case. (1)
+> **Frameworks & Libraries:** [[HTML]] (3), css (2), next (1), [[Search]] (1)
 > **Env Vars:** html (3), css (2)
 > **CLI Commands:** make (2)
 > **Versions:** 1.5 (2)
@@ -996,7 +996,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/next-steps-25753009?u=76281980)
@@ -1033,6 +1033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), next (1)
 > **Env Vars:** css (5)
 > **CLI Commands:** find (1)
 > **Speakers:** - hey (1)

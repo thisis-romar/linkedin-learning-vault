@@ -18,7 +18,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vibe%20Coding%20Fundamentals%20Tools%20And%20Best%20Practices.md)
@@ -37,18 +37,18 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The quiet shift in how developers are writing code
+  - [The quiet shift in how developers are writing code](#the-quiet-shift-in-how-developers-are-writing-code)
 - [**1. Vibe Coding Fundamentals**](#1-vibe-coding-fundamentals) (6 videos)
-  - What happens when AI starts writing code?
-  - The AI-driven tools changing how code is written
-  - Setup can make or break your vibe coding experience
-  - System prompts: The most overlooked step in vibe coding
-  - What makes a good prompt in vibe coding?
-  - Sample vibe coding session
+  - [What happens when AI starts writing code?](#what-happens-when-ai-starts-writing-code)
+  - [The AI-driven tools changing how code is written](#the-ai-driven-tools-changing-how-code-is-written)
+  - [Setup can make or break your vibe coding experience](#setup-can-make-or-break-your-vibe-coding-experience)
+  - [System prompts: The most overlooked step in vibe coding](#system-prompts-the-most-overlooked-step-in-vibe-coding)
+  - [What makes a good prompt in vibe coding?](#what-makes-a-good-prompt-in-vibe-coding)
+  - [Sample vibe coding session](#sample-vibe-coding-session)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The quiet shift in how developers are writing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-quiet-shift-in-how-developers-are-writing-code?u=76281980)
@@ -71,14 +71,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), try, (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (3), [[Software Development]] (2), ai (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - something (1)
 
 
 ### 1. Vibe Coding Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What happens when AI starts writing code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980)
@@ -149,8 +149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Vibe Coding]] (2), [[Software Development]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** it's like (1), for example (1)
 > **Prerequisites:** set up (1), getting started (1)
@@ -359,8 +359,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Vibe Coding]] (5), [[Microsoft Copilot|Copilot]] (4), prompt (3), [[React.js|React]] (3)
 > **Tools:** terminal (4), github (4), visual studio (3), vs code (2), command line (2)
-> **Code Keywords:** let (3), interface (2), this. (1), default. (1), default, (1)
 > **Env Vars:** cli (3), css (1), html (1), ide (1)
 > **CLI Commands:** make (3), python (2)
 > **File Paths:** next.js (3)
@@ -457,8 +457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Vibe Coding]] (3), [[Gemini]] (3), api (2), prompt (1)
 > **Versions:** 3.5 (3), 4.1 (2), 3.7 (2), 2.5 (1)
-> **Code Keywords:** let (1), this, (1), interface (1), require (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** api (2), llm (1)
 > **Definitions:** is a  (1), known as (1)
@@ -538,7 +538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), this. (1), continue (1), include. (1), let (1)
+> **Frameworks & Libraries:** ai (10), prompt (8), data (3), [[Vibe Coding]] (2), [[JavaScript]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** css (2)
 > **Analogies:** for example (1), for instance (1)
@@ -638,8 +638,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (4), feature (2), [[Vibe Coding]] (2), prompt (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** csv (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
@@ -876,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), switch (4), continue (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (7), [[Vibe Coding]] (4), [[npm]] (3), hit (2), ai (2)
 > **CLI Commands:** make (5), npm (3), find (1)
 > **UI Navigation:** toggle (3), click on (2), dropdown (1), go to (1), switch to (1)
 > **Tools:** visual studio (1), terminal (1)

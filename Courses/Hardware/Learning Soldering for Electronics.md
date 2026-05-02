@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/soldering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Soldering%20for%20Electronics.md)
@@ -47,51 +47,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Solder for electronic products and manufacturing
-  - What you need to know about soldering electronics
+  - [Solder for electronic products and manufacturing](#solder-for-electronic-products-and-manufacturing)
+  - [What you need to know about soldering electronics](#what-you-need-to-know-about-soldering-electronics)
 - [**1. Setting Up Your Workbench for Soldering**](#1-setting-up-your-workbench-for-soldering) (5 videos)
-  - Set up a safe work environment when soldering
-  - Basic hand tools used when soldering electronics
-  - What to look for when buying a soldering iron
-  - Available soldering Iron accessories
-  - Secure your work for better connections
+  - [Set up a safe work environment when soldering](#set-up-a-safe-work-environment-when-soldering)
+  - [Basic hand tools used when soldering electronics](#basic-hand-tools-used-when-soldering-electronics)
+  - [What to look for when buying a soldering iron](#what-to-look-for-when-buying-a-soldering-iron)
+  - [Available soldering Iron accessories](#available-soldering-iron-accessories)
+  - [Secure your work for better connections](#secure-your-work-for-better-connections)
 - [**2. Making Connections with Solder**](#2-making-connections-with-solder) (5 videos)
-  - Types of solder used in soldering electronics
-  - The importance of the various available fluxes used in soldering
-  - Set up a new soldering iron
-  - How to make secure connections between wires
-  - How to solder wires to electronic components
+  - [Types of solder used in soldering electronics](#types-of-solder-used-in-soldering-electronics)
+  - [The importance of the various available fluxes used in soldering](#the-importance-of-the-various-available-fluxes-used-in-soldering)
+  - [Set up a new soldering iron](#set-up-a-new-soldering-iron)
+  - [How to make secure connections between wires](#how-to-make-secure-connections-between-wires)
+  - [How to solder wires to electronic components](#how-to-solder-wires-to-electronic-components)
 - [**3. Soldering through Hole Components**](#3-soldering-through-hole-components) (10 videos)
-  - Solder an LED into a PCB
-  - Solder a standard resistor into a PCB
-  - Solder a standard capacitor into a PCB
-  - PCB design files
-  - Ordering a PCB and components
-  - Identify and order components
-  - Identification of part and the board
-  - Soldering complex components with lots of pins
-  - How to solder heavy-duty components
-  - Clean up your solder connections
+  - [Solder an LED into a PCB](#solder-an-led-into-a-pcb)
+  - [Solder a standard resistor into a PCB](#solder-a-standard-resistor-into-a-pcb)
+  - [Solder a standard capacitor into a PCB](#solder-a-standard-capacitor-into-a-pcb)
+  - [PCB design files](#pcb-design-files)
+  - [Ordering a PCB and components](#ordering-a-pcb-and-components)
+  - [Identify and order components](#identify-and-order-components)
+  - [Identification of part and the board](#identification-of-part-and-the-board)
+  - [Soldering complex components with lots of pins](#soldering-complex-components-with-lots-of-pins)
+  - [How to solder heavy-duty components](#how-to-solder-heavy-duty-components)
+  - [Clean up your solder connections](#clean-up-your-solder-connections)
 - [**4. Surface Mount Soldering**](#4-surface-mount-soldering) (4 videos)
-  - First steps when soldering a surface mount component
-  - Solder a surface mount component with a soldering iron
-  - Use a solder stencil for applying solder paste
-  - Solder a surface mount component with a hot air rework station
+  - [First steps when soldering a surface mount component](#first-steps-when-soldering-a-surface-mount-component)
+  - [Solder a surface mount component with a soldering iron](#solder-a-surface-mount-component-with-a-soldering-iron)
+  - [Use a solder stencil for applying solder paste](#use-a-solder-stencil-for-applying-solder-paste)
+  - [Solder a surface mount component with a hot air rework station](#solder-a-surface-mount-component-with-a-hot-air-rework-station)
 - [**5. How to Fix Mistakes**](#5-how-to-fix-mistakes) (8 videos)
-  - Too much solder on a through hole component
-  - Too little solder on a through hole component
-  - Fixing a cold solder joint
-  - Fix a disturbed solder joint
-  - Remove a through hole component
-  - What to do when you have too much solder on surface mount component
-  - How to remove a surface mount integrated circuit
-  - Repair a mistake in a PCB
+  - [Too much solder on a through hole component](#too-much-solder-on-a-through-hole-component)
+  - [Too little solder on a through hole component](#too-little-solder-on-a-through-hole-component)
+  - [Fixing a cold solder joint](#fixing-a-cold-solder-joint)
+  - [Fix a disturbed solder joint](#fix-a-disturbed-solder-joint)
+  - [Remove a through hole component](#remove-a-through-hole-component)
+  - [What to do when you have too much solder on surface mount component](#what-to-do-when-you-have-too-much-solder-on-surface-mount-component)
+  - [How to remove a surface mount integrated circuit](#how-to-remove-a-surface-mount-integrated-circuit)
+  - [Repair a mistake in a PCB](#repair-a-mistake-in-a-pcb)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Things you can do after you learn to solder
+  - [Things you can do after you learn to solder](#things-you-can-do-after-you-learn-to-solder)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solder for electronic products and manufacturing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-for-electronic-products-and-manufacturing?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Soldering]] (3), [[Microsoft Products|Products]] (1), product (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Arduino]] (1)
 > **Env Vars:** pcb (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -181,6 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soldering]] (9), [[Electronics]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** mapp (1)
 > **Definitions:** is a  (1)
@@ -190,7 +191,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Workbench for Soldering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up a safe work environment when soldering
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/set-up-a-safe-work-environment-when-soldering?u=76281980)
@@ -355,7 +356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), this. (2), throw (2), let (1), static (1)
+> **Frameworks & Libraries:** [[Soldering]] (18), [[Flux]] (3), next (1), product (1), [[Arduino]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
@@ -426,8 +427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soldering]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
@@ -548,7 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), new. (1)
+> **Frameworks & Libraries:** [[Soldering]] (18), generic (1), power (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** fx88d (1)
@@ -652,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), while, (1), this, (1)
+> **Frameworks & Libraries:** [[Soldering]] (10), [[Flux]] (8), [[Electronics]] (1), next (1), hit (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -733,9 +734,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Electronics]] (1)
 > **Env Vars:** pcb (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** pro tip (1)
@@ -744,7 +745,7 @@ created: 2026-04-29
 
 ### 2. Making Connections with Solder
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of solder used in soldering electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/types-of-solder-used-in-soldering-electronics?u=76281980)
@@ -855,8 +856,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soldering]] (7), [[Flux]] (4), [[Electronics]] (3), [[Microsoft Word|Word]] (1), next (1)
 > **Versions:** 0.6 (5), 0.8 (4), 1.2 (2), 1.5 (1)
-> **Code Keywords:** let (2), this: (1), super (1), this, (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** usb (2)
 > **Definitions:** is a  (2)
@@ -950,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[Flux]] (19), [[Soldering]] (2)
 > **Env Vars:** esd (2), pcb (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -1035,7 +1036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new, (1), this. (1)
+> **Frameworks & Libraries:** [[Soldering]] (5), [[Flux]] (1), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** set up (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
@@ -1225,7 +1226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), this. (2), pass (1), case, (1)
+> **Frameworks & Libraries:** [[Soldering]] (6), power (1)
 > **CLI Commands:** make (9)
 > **Env Vars:** nasa (1)
 > **Definitions:** is a  (1)
@@ -1414,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), this. (2), switch (1), throw (1)
+> **Frameworks & Libraries:** [[Flux]] (4), [[Soldering]] (3), hit (1)
 > **CLI Commands:** make (7)
 > **Analogies:** just like (3), it's like (1)
 > **Definitions:** is a  (3)
@@ -1424,7 +1425,7 @@ created: 2026-04-29
 
 ### 3. Soldering through Hole Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solder an LED into a PCB
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980)
@@ -1557,8 +1558,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soldering]] (6), data (1), [[Electronics]] (1), next (1)
 > **Env Vars:** led (9), pcb (7)
-> **Code Keywords:** let (9), case, (1), this. (1), this, (1), while, (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
@@ -1642,8 +1643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soldering]] (3)
 > **Env Vars:** pcb (4), led (4)
-> **Code Keywords:** let (2), this. (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - now (1)
@@ -1721,9 +1722,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Soldering]] (1)
 > **Env Vars:** led (2), pcb (2)
 > **Analogies:** just like (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - now (1)
 
 #### PCB design files
@@ -1845,7 +1846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), case, (1), this, (1), else. (1)
+> **Frameworks & Libraries:** [[Soldering]] (1), [[Electronics]] (1), [[Search]] (1), [[GitHub]] (1), [[Simulation]] (1)
 > **Env Vars:** pcb (6), cad (1), ada (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (2), scroll down (1), click on (1), navigate to (1)
@@ -1919,7 +1920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), case, (1), super (1)
+> **Frameworks & Libraries:** open-source (1), [[Hardware]] (1), [[Soldering]] (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** eagle (1)
 > **Versions:** 1.20 (1)
@@ -1984,8 +1985,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soldering]] (3), feature (2), [[Electronics]] (2), [[Programming]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** pcb (3), csv (2), cad (1), ulp (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
@@ -2041,7 +2042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), this, (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), feature (1)
 > **Env Vars:** pcb (3), fcc (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - now (1), - on (1)
@@ -2174,7 +2175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (6), this, (6)
+> **Frameworks & Libraries:** [[Soldering]] (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pcb (5), diy (1), led (1)
 > **Analogies:** just like (2), for instance (1)
 > **Definitions:** is a  (1)
@@ -2236,7 +2237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), require (1), case, (1)
+> **Frameworks & Libraries:** [[Soldering]] (3), [[Electronics]] (1), next (1)
 > **CLI Commands:** make (4), snap (1)
 > **Env Vars:** usb (2), pcb (2)
 > **Definitions:** is a  (2)
@@ -2379,8 +2380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Flux]] (3), [[Electronics]] (3), [[Soldering]] (2), data (1), hit (1)
 > **Env Vars:** ipa (4), diy (2), pcb (1)
-> **Code Keywords:** this, (2), continue (1), let (1), super (1), from, (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** keep in mind (2)
@@ -2391,7 +2392,7 @@ created: 2026-04-29
 
 ### 4. Surface Mount Soldering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### First steps when soldering a surface mount component
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/first-steps-when-soldering-a-surface-mount-component?u=76281980)
@@ -2484,8 +2485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soldering]] (7)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (3), let (1)
 > **Versions:** 99.9 (1), 1.25 (1), 1.5 (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** pcb (1)
@@ -2696,7 +2697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Soldering]] (14), [[Flux]] (5), [[Zoom]] (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (5)
 > **Versions:** 0.8 (2), 1.5 (1), 0.6 (1)
@@ -2888,7 +2889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (6), case, (4)
+> **Frameworks & Libraries:** next (4), [[Soldering]] (2)
 > **Env Vars:** pcb (7), led (3), usb (1), uric (1)
 > **Analogies:** just like (4)
 > **Definitions:** is a  (3)
@@ -2948,7 +2949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** [[Flux]] (1)
 > **Env Vars:** usb (1), uart (1), pcb (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2958,7 +2959,7 @@ created: 2026-04-29
 
 ### 5. How to Fix Mistakes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Too much solder on a through hole component
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/too-much-solder-on-a-through-hole-component?u=76281980)
@@ -3015,8 +3016,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soldering]] (4), [[Flux]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** pcb (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - one (1)
@@ -3044,6 +3045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Flux]] (1), [[Soldering]] (1), hit (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - not (1)
 
@@ -3076,10 +3078,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Flux]] (4), [[Soldering]] (1)
 > **Env Vars:** pcb (2), led (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this. (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - another (1)
 
@@ -3126,6 +3128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soldering]] (2), [[Flux]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
@@ -3246,7 +3249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** [[Soldering]] (3), game (1), [[Flux]] (1)
 > **Env Vars:** led (3), pcb (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
@@ -3335,7 +3338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), new, (1)
+> **Frameworks & Libraries:** [[Soldering]] (4), [[Flux]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -3423,7 +3426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Soldering]] (4), [[Flux]] (1)
 > **Env Vars:** pcb (2), led (1)
 > **Speakers:** - so (1)
 
@@ -3518,8 +3521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Flux]] (2), [[Soldering]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (3), this, (1)
 > **Env Vars:** pcb (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -3528,7 +3531,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Things you can do after you learn to solder
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/things-you-can-do-after-you-learn-to-solder?u=76281980)
@@ -3563,6 +3566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Electronics]] (1), [[Soldering]] (1), [[Arduino]] (1)
 > **Env Vars:** eagle (1), cad (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)

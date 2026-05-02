@@ -30,7 +30,7 @@ tags:
   - skill/knime
   - skill/data-literacy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Low%20Code-No-Code%20Data%20Literacy%20with%20KNIME-%20From%20Basic%20to%20Advanced.md)
@@ -49,60 +49,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. KNIME Analytics Platform**](#1-knime-analytics-platform) (9 videos)
-  - What is KNIME Analytics Platform?
-  - What is a node? What is a workflow?
-  - How to install KNIME Analytics Platform
-  - Tour of the user interface of KNIME Analytics Platform
-  - Build your first workflow with KNIME Analytics Platform
-  - How to import and export KNIME workflows
-  - The KNIME Community Hub
-  - Collaboration and execution on KNIME Community Hub
-  - How to install KNIME extensions
+  - [What is KNIME Analytics Platform?](#what-is-knime-analytics-platform)
+  - [What is a node? What is a workflow?](#what-is-a-node-what-is-a-workflow)
+  - [How to install KNIME Analytics Platform](#how-to-install-knime-analytics-platform)
+  - [Tour of the user interface of KNIME Analytics Platform](#tour-of-the-user-interface-of-knime-analytics-platform)
+  - [Build your first workflow with KNIME Analytics Platform](#build-your-first-workflow-with-knime-analytics-platform)
+  - [How to import and export KNIME workflows](#how-to-import-and-export-knime-workflows)
+  - [The KNIME Community Hub](#the-knime-community-hub)
+  - [Collaboration and execution on KNIME Community Hub](#collaboration-and-execution-on-knime-community-hub)
+  - [How to install KNIME extensions](#how-to-install-knime-extensions)
 - [**2. Data Access**](#2-data-access) (2 videos)
-  - Data access with KNIME: Reading files
-  - Data access with KNIME: Accessing databases
+  - [Data access with KNIME: Reading files](#data-access-with-knime-reading-files)
+  - [Data access with KNIME: Accessing databases](#data-access-with-knime-accessing-databases)
 - [**3. Data Cleaning**](#3-data-cleaning) (3 videos)
-  - Data cleaning with KNIME: How to filter rows
-  - Data cleaning with KNIME: How to filter columns
-  - Data cleaning with KNIME: How to handle missing values
+  - [Data cleaning with KNIME: How to filter rows](#data-cleaning-with-knime-how-to-filter-rows)
+  - [Data cleaning with KNIME: How to filter columns](#data-cleaning-with-knime-how-to-filter-columns)
+  - [Data cleaning with KNIME: How to handle missing values](#data-cleaning-with-knime-how-to-handle-missing-values)
 - [**4. Data Transformation**](#4-data-transformation) (2 videos)
-  - Data transformation with KNIME: Numbers, strings, and rules
-  - Data transformation with KNIME: How to split cells
+  - [Data transformation with KNIME: Numbers, strings, and rules](#data-transformation-with-knime-numbers-strings-and-rules)
+  - [Data transformation with KNIME: How to split cells](#data-transformation-with-knime-how-to-split-cells)
 - [**5. Workflow Documentation**](#5-workflow-documentation) (1 videos)
-  - How to keep workflows tidy and documented
+  - [How to keep workflows tidy and documented](#how-to-keep-workflows-tidy-and-documented)
 - [**6. Data Merging**](#6-data-merging) (3 videos)
-  - Data merging with KNIME: How to concatenate tables
-  - Data merging with KNIME: Value lookup
-  - Data merging with KNIME: How to join two tables
+  - [Data merging with KNIME: How to concatenate tables](#data-merging-with-knime-how-to-concatenate-tables)
+  - [Data merging with KNIME: Value lookup](#data-merging-with-knime-value-lookup)
+  - [Data merging with KNIME: How to join two tables](#data-merging-with-knime-how-to-join-two-tables)
 - [**7. Data Aggregation**](#7-data-aggregation) (3 videos)
-  - Data aggregation with KNIME: Simple aggregations
-  - Data aggregation with KNIME: The GroupBy node
-  - Data aggregation with KNIME: Pivoting
+  - [Data aggregation with KNIME: Simple aggregations](#data-aggregation-with-knime-simple-aggregations)
+  - [Data aggregation with KNIME: The GroupBy node](#data-aggregation-with-knime-the-groupby-node)
+  - [Data aggregation with KNIME: Pivoting](#data-aggregation-with-knime-pivoting)
 - [**8. Data Export and Visualization**](#8-data-export-and-visualization) (3 videos)
-  - Data export with KNIME: Write to a CSV file
-  - Data visualization with KNIME: How to create a scatter plot
-  - Three steps to build an interactive dashboard with KNIME
+  - [Data export with KNIME: Write to a CSV file](#data-export-with-knime-write-to-a-csv-file)
+  - [Data visualization with KNIME: How to create a scatter plot](#data-visualization-with-knime-how-to-create-a-scatter-plot)
+  - [Three steps to build an interactive dashboard with KNIME](#three-steps-to-build-an-interactive-dashboard-with-knime)
 - [**9. Flow Variables**](#9-flow-variables) (1 videos)
-  - Flow variables in KNIME Analytics Platform: Concept and application
+  - [Flow variables in KNIME Analytics Platform: Concept and application](#flow-variables-in-knime-analytics-platform-concept-and-application)
 - [**10. Components**](#10-components) (2 videos)
-  - What is a component in KNIME Analytics Platform?
-  - Create, modify, and configure a component in KNIME Analytics Platform
+  - [What is a component in KNIME Analytics Platform?](#what-is-a-component-in-knime-analytics-platform)
+  - [Create, modify, and configure a component in KNIME Analytics Platform](#create-modify-and-configure-a-component-in-knime-analytics-platform)
 - [**11. Workflow Control**](#11-workflow-control) (3 videos)
-  - What is a loop?
-  - Build, execute, and debug a loop in KNIME Analytics Platform
-  - Switch workflow branch execution in KNIME Analytics Platform
+  - [What is a loop?](#what-is-a-loop)
+  - [Build, execute, and debug a loop in KNIME Analytics Platform](#build-execute-and-debug-a-loop-in-knime-analytics-platform)
+  - [Switch workflow branch execution in KNIME Analytics Platform](#switch-workflow-branch-execution-in-knime-analytics-platform)
 - [**12. Error Handling**](#12-error-handling) (1 videos)
-  - Error handling with try-catch in KNIME Analytics Platform
+  - [Error handling with try-catch in KNIME Analytics Platform](#error-handling-with-try-catch-in-knime-analytics-platform)
 - [**13. Date and Time Data**](#13-date-and-time-data) (2 videos)
-  - Handling date and time data with KNIME: Convert strings, extract date, and time fields
-  - Handling date and time data with KNIME: Modify and filter date and time data
+  - [Handling date and time data with KNIME: Convert strings, extract date, and time fields](#handling-date-and-time-data-with-knime-convert-strings-extract-date-and-time-fields)
+  - [Handling date and time data with KNIME: Modify and filter date and time data](#handling-date-and-time-data-with-knime-modify-and-filter-date-and-time-data)
 - [**14. Databases**](#14-databases) (2 videos)
-  - Querying databases from KNIME Analytics Platform
-  - Modify database tables from KNIME Analytics Platform
+  - [Querying databases from KNIME Analytics Platform](#querying-databases-from-knime-analytics-platform)
+  - [Modify database tables from KNIME Analytics Platform](#modify-database-tables-from-knime-analytics-platform)
 
 ### 1. KNIME Analytics Platform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is KNIME Analytics Platform?
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980)
@@ -131,9 +131,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (8), data (5), [[Analytics]] (4), [[Algorithms]] (1)
 > **Env Vars:** knime (8)
 > **Non-Speech:** (mellow music) (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - hi (1)
 
@@ -188,8 +188,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (13), data (5), [[Knime]] (4), [[Analytics]] (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** node (13)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (2)
 > **Non-Speech:** (upbeat music) (2)
 > **Definitions:** means that (1)
@@ -254,10 +254,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (11), [[Analytics]] (3), [[Windows]] (2), [[Linux]] (2), next (1)
 > **Env Vars:** knime (11)
 > **Prerequisites:** install (5), getting started (1)
 > **UI Navigation:** select the (2), go to (1)
-> **Code Keywords:** let (1), interface (1)
 > **Non-Speech:** (gentle music) (1), (gentle bright music) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
@@ -343,8 +343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (15), [[Knime]] (6), [[Analytics]] (5), next (2), application (1)
 > **CLI Commands:** node (15), find (3)
-> **Code Keywords:** let (2), switch (2), interface (1), default, (1), finally, (1)
 > **UI Navigation:** drag and drop (2), click on (1), open the (1)
 > **Non-Speech:** (gentle upbeat music) (2)
 > **Documentation:** the documentation (1)
@@ -399,9 +399,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), data (3), [[Microsoft Excel|Excel]] (3), next (1), [[Search]] (1)
 > **CLI Commands:** node (7)
 > **UI Navigation:** navigate to (2), open the (2), drag and drop (2), go to (1)
-> **Code Keywords:** let (3)
 > **Non-Speech:** (bright music) (2), (bright music fades) (1)
 > **Env Vars:** knime (1)
 > **Speakers:** - in (1)
@@ -477,8 +477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (15), [[Analytics]] (4), data (3), business (3)
 > **UI Navigation:** select the (4), navigate to (1), open the (1), drag and drop (1), click on (1)
-> **Code Keywords:** let (3), import. (1), export. (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** knwf (1), knar (1)
 > **Best Practices:** make sure to (1)
@@ -519,8 +519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (12), [[Analytics]] (3), feature (1), data (1)
 > **Env Vars:** knime (12)
-> **Code Keywords:** public (2), let (1), private (1)
 > **CLI Commands:** make (2), find (1)
 > **Non-Speech:** (gentle music) (1), (upbeat music) (1)
 > **Cross-References:** go back to (1)
@@ -564,7 +564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), let (1)
+> **Frameworks & Libraries:** data (2), teams (1), [[Knime]] (1), [[Team Collaboration]] (1), hit (1)
 > **Non-Speech:** (upbeat music) (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** knime (1)
@@ -635,9 +635,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (17), [[Analytics]] (4), next (2), [[Image Processing]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** knime (17)
 > **Prerequisites:** install (5)
-> **Code Keywords:** finally, (2), let (1)
 > **UI Navigation:** select the (2), drag and drop (1)
 > **Non-Speech:** (gentle music) (2)
 > **Analogies:** for example (1)
@@ -647,7 +647,7 @@ created: 2026-04-29
 
 ### 2. Data Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data access with KNIME: Reading files
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980)
@@ -754,8 +754,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (8), node (6), data (6), [[Microsoft Excel|Excel]] (3), business (3)
 > **Env Vars:** knime (8), csv (3), url (3), local (2), pmml (1)
-> **Code Keywords:** let (5), type, (3), interface (1), default, (1), switch (1)
 > **UI Navigation:** select the (8), dropdown (2), in the menu (1), open the (1)
 > **CLI Commands:** node (6), find (1)
 > **Analogies:** for example (4), such as (1)
@@ -870,9 +870,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (23), node (14), [[Java Database Connectivity (JDBC)|Jdbc]] (13), [[Knime]] (11), [[MySQL]] (7)
 > **Env Vars:** jdbc (13), knime (11), sap (4), hana (4), url (2)
 > **CLI Commands:** node (14), mysql (7), apache (1)
-> **Code Keywords:** let (3), finally, (2), case, (1), type, (1), case. (1)
 > **UI Navigation:** select the (3), dropdown (2), go to (1), in the menu (1), open the (1)
 > **Analogies:** such as (3)
 > **Exercise Files:** template (2)
@@ -882,7 +882,7 @@ created: 2026-04-29
 
 ### 3. Data Cleaning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data cleaning with KNIME: How to filter rows
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980)
@@ -965,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), match. (1), finally, (1)
+> **Frameworks & Libraries:** data (7), node (3), [[Analytics]] (2), [[Knime]] (1), product (1)
 > **Analogies:** for example (7)
 > **UI Navigation:** select the (3), open the (1)
 > **CLI Commands:** node (3)
@@ -1029,7 +1029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), case, (1), type. (1)
+> **Frameworks & Libraries:** [[Analytics]] (2), product (2), node (2), data (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** node (2), make (1)
 > **UI Navigation:** toggle (1), select the (1)
 > **Non-Speech:** (casual music) (2)
@@ -1110,7 +1110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2), case, (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** node (5), [[Knime]] (3), [[Analytics]] (3), data (3), [[Statistics]] (2)
 > **Analogies:** for example (5), such as (2)
 > **CLI Commands:** node (5)
 > **Env Vars:** knime (3)
@@ -1122,7 +1122,7 @@ created: 2026-04-29
 
 ### 4. Data Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data transformation with KNIME: Numbers, strings, and rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-transformation-with-knime-numbers-strings-and-rules?u=76281980)
@@ -1241,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), finally, (2), case, (2), type. (1)
+> **Frameworks & Libraries:** node (9), data (5), [[Analytics]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** node (9), find (2)
 > **Definitions:** is a  (2), means that (1)
 > **Non-Speech:** (upbeat music) (1), (uplifting music) (1)
@@ -1313,8 +1313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (6), [[Knime]] (2), [[Analytics]] (2), data (2), product (1)
 > **CLI Commands:** node (6), make (1)
-> **Code Keywords:** case, (3), let (2), finally, (1)
 > **UI Navigation:** select the (3), checkbox (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** knime (2)
@@ -1325,7 +1325,7 @@ created: 2026-04-29
 
 ### 5. Workflow Documentation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to keep workflows tidy and documented
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980)
@@ -1404,8 +1404,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), node (4), [[Analytics]] (2), [[Programming]] (1), [[Metadata]] (1)
 > **CLI Commands:** node (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (2), imagine (1)
 > **Warnings:** note that (2)
 > **Non-Speech:** (mellow music) (1), (mellow music continues) (1)
@@ -1415,7 +1415,7 @@ created: 2026-04-29
 
 ### 6. Data Merging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data merging with KNIME: How to concatenate tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-concatenate-tables?u=76281980)
@@ -1496,8 +1496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), [[Knime]] (3), [[Analytics]] (3), data (2)
 > **CLI Commands:** node (5)
-> **Code Keywords:** let (3), finally, (1)
 > **Env Vars:** knime (3)
 > **Non-Speech:** (lively music) (2)
 > **Warnings:** note that (1)
@@ -1554,7 +1554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), match. (1), type, (1)
+> **Frameworks & Libraries:** data (6), node (5), [[Analytics]] (3), next (1)
 > **CLI Commands:** node (5)
 > **Definitions:** is an  (2)
 > **Warnings:** note that (2)
@@ -1656,8 +1656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (11), [[Knime]] (2), [[Analytics]] (2), next (1), data (1)
 > **CLI Commands:** node (11)
-> **Code Keywords:** finally, (2), let (2), case, (2), match. (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Env Vars:** knime (2)
 > **UI Navigation:** open the (1), select the (1)
@@ -1668,7 +1668,7 @@ created: 2026-04-29
 
 ### 7. Data Aggregation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data aggregation with KNIME: Simple aggregations
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980)
@@ -1735,8 +1735,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), node (7), product (3), [[Knime]] (2), [[Analytics]] (2)
 > **CLI Commands:** node (7)
-> **Code Keywords:** let (2), case, (2), finally, (2)
 > **UI Navigation:** select the (3), drag and drop (1)
 > **Env Vars:** knime (2)
 > **Definitions:** is called (1), means that (1)
@@ -1795,10 +1795,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), data (6), product (5), [[Analytics]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** node (7)
 > **Warnings:** note that (2)
 > **Non-Speech:** (upbeat music) (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** knime (1)
 > **UI Navigation:** checkbox (1)
 > **Analogies:** for example (1)
@@ -1913,8 +1913,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), node (7), [[Analytics]] (4), data (1), next (1)
 > **CLI Commands:** node (7), find (1)
-> **Code Keywords:** let (3), type. (2), type, (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Non-Speech:** (upbeat music) (2)
 > **Definitions:** means that (1)
@@ -1925,7 +1925,7 @@ created: 2026-04-29
 
 ### 8. Data Export and Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data export with KNIME: Write to a CSV file
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980)
@@ -2002,10 +2002,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), node (8), [[Microsoft Excel|Excel]] (1), [[JSON]] (1), [[Analytics]] (1)
 > **Env Vars:** csv (14), json (1), url (1)
 > **CLI Commands:** node (8)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** let (2)
 > **Warnings:** note that (2)
 > **Non-Speech:** (lively music) (2)
 > **Definitions:** is a  (1)
@@ -2094,9 +2094,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), data (4), [[Analytics]] (2), [[Zoom]] (1), [[Dashboards]] (1)
 > **CLI Commands:** node (8), find (1)
 > **UI Navigation:** select the (5), scroll down (1)
-> **Code Keywords:** let (2), case, (1)
 > **Warnings:** note that (2)
 > **Non-Speech:** (chill lofi music) (2)
 > **Cross-References:** in the last (1)
@@ -2196,10 +2196,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Knime]] (4), [[Analytics]] (2), node (2), business (2)
 > **Env Vars:** knime (4), csv (1), html (1), khime (1)
 > **UI Navigation:** right-click (2), open the (2), select the (1), in the toolbar (1), drag and drop (1)
 > **CLI Commands:** node (2), make (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (3)
 > **Non-Speech:** (bright music) (2), (bright music fades) (1)
 > **Definitions:** is a  (2)
@@ -2208,7 +2208,7 @@ created: 2026-04-29
 
 ### 9. Flow Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Flow variables in KNIME Analytics Platform: Concept and application
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/flow-variables-in-knime-analytics-platform-concept-and-application?u=76281980)
@@ -2325,8 +2325,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (22), data (2), [[Knime]] (2), prompt (1)
 > **CLI Commands:** node (22), find (1)
-> **Code Keywords:** let (4), pass (2), finally, (1), case, (1)
 > **Env Vars:** usa (4), knime (2)
 > **UI Navigation:** select the (2), checkbox (1), dropdown (1), right-click (1)
 > **Definitions:** is a  (4)
@@ -2337,7 +2337,7 @@ created: 2026-04-29
 
 ### 10. Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a component in KNIME Analytics Platform?
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980)
@@ -2414,9 +2414,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (15), data (8), business (5), node (3), [[Jetpack Compose|Compose]] (2)
 > **Env Vars:** knime (15)
 > **CLI Commands:** node (3), find (2), make (2)
-> **Code Keywords:** let (4), case. (1)
 > **Analogies:** for example (4), similar to (1)
 > **UI Navigation:** open the (1), drag and drop (1)
 > **Definitions:** is a  (2)
@@ -2532,8 +2532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), node (6), [[Knime]] (4), business (3), next (2)
 > **UI Navigation:** open the (4), right-click (2), select the (2), navigate to (1), drag and drop (1)
-> **Code Keywords:** let (5), type. (1), default, (1)
 > **CLI Commands:** node (6)
 > **Env Vars:** knime (4)
 > **Analogies:** for example (1), such as (1), similar to (1)
@@ -2544,7 +2544,7 @@ created: 2026-04-29
 
 ### 11. Workflow Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a loop?
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980)
@@ -2641,8 +2641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (20), data (13), [[Analytics]] (4), [[Knime]] (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** node (20)
-> **Code Keywords:** let (4), case. (1), finally, (1)
 > **Env Vars:** knime (4)
 > **Analogies:** for example (3), imagine (1)
 > **Definitions:** is a  (3)
@@ -2743,8 +2743,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (15), [[Knime]] (2), [[Analytics]] (2), next (2), data (2)
 > **CLI Commands:** node (15)
-> **Code Keywords:** let (3), finally, (2), default, (1)
 > **Env Vars:** knime (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (1), for instance (1)
@@ -2869,7 +2869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (26), let (4), continue (3), default, (1)
+> **Frameworks & Libraries:** node (21), data (13), [[Knime]] (3), [[Analytics]] (2)
 > **CLI Commands:** node (21), make (1)
 > **Env Vars:** case (9), knime (3)
 > **UI Navigation:** drag and drop (1), dropdown (1)
@@ -2881,7 +2881,7 @@ created: 2026-04-29
 
 ### 12. Error Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Error handling with try-catch in KNIME Analytics Platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980)
@@ -2992,8 +2992,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (19), data (13), [[Google]] (4), [[Knime]] (2), next (1)
 > **CLI Commands:** node (19)
-> **Code Keywords:** let (6), continue (2), case, (1), catch. (1), require (1)
 > **Analogies:** for example (5), imagine (1)
 > **Env Vars:** knime (2)
 > **Non-Speech:** (lively music) (2)
@@ -3003,7 +3003,7 @@ created: 2026-04-29
 
 ### 13. Date and Time Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling date and time data with KNIME: Convert strings, extract date, and time fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/handling-date-and-time-data-with-knime-convert-strings-and-extract-date-and-time-fields?u=76281980)
@@ -3090,7 +3090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), let (3), type. (2), case, (2), finally, (1)
+> **Frameworks & Libraries:** data (8), node (6), next (4)
 > **CLI Commands:** node (6)
 > **UI Navigation:** select the (2), dropdown (2), in the menu (1)
 > **Non-Speech:** (upbeat music) (2)
@@ -3194,8 +3194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), node (7), next (3), bi (1)
 > **CLI Commands:** node (7)
-> **Code Keywords:** let (2), case, (1), case. (1), type, (1), type. (1)
 > **UI Navigation:** select the (4), checkbox (1), dropdown (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - in (1)
@@ -3203,7 +3203,7 @@ created: 2026-04-29
 
 ### 14. Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying databases from KNIME Analytics Platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980)
@@ -3340,9 +3340,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (21), node (20), data (14), [[Knime]] (13), [[Microsoft Products|Products]] (11)
 > **Env Vars:** knime (13), sql (9)
 > **CLI Commands:** node (20)
-> **Code Keywords:** let (8), case. (2), finally, (2), function (1), case, (1)
 > **UI Navigation:** select the (3), dropdown (1)
 > **Analogies:** for example (2), such as (1), similar to (1)
 > **Non-Speech:** (relaxing jazz music) (2)
@@ -3436,8 +3436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (23), [[Knime]] (13), data (11), node (10), [[SQL]] (3)
 > **Env Vars:** knime (13), sql (3)
-> **Code Keywords:** let (3), type, (2), delete (2), case, (1), type. (1)
 > **CLI Commands:** node (10)
 > **Analogies:** for example (7)
 > **UI Navigation:** select the (2), in the menu (1)

@@ -28,7 +28,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-word
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Word%20Desktop%20(Microsoft%20365).md)
@@ -47,22 +47,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Get up and running quickly with Word
+  - [Get up and running quickly with Word](#get-up-and-running-quickly-with-word)
 - [**1. Up and Running with Microsoft Word**](#1-up-and-running-with-microsoft-word) (8 videos)
-  - Work with ribbons and the Backstage view
-  - Create and save documents
-  - Work with Word Online
-  - Write and format text
-  - Format a document
-  - Insert page breaks, section breaks, and columns
-  - Add and format images
-  - Add headers, footers, and page numbers
+  - [Work with ribbons and the Backstage view](#work-with-ribbons-and-the-backstage-view)
+  - [Create and save documents](#create-and-save-documents)
+  - [Work with Word Online](#work-with-word-online)
+  - [Write and format text](#write-and-format-text)
+  - [Format a document](#format-a-document)
+  - [Insert page breaks, section breaks, and columns](#insert-page-breaks-section-breaks-and-columns)
+  - [Add and format images](#add-and-format-images)
+  - [Add headers, footers, and page numbers](#add-headers-footers-and-page-numbers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to learn more about Word
+  - [Where to learn more about Word](#where-to-learn-more-about-word)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get up and running quickly with Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980)
@@ -85,6 +85,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word]] (2), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (2), application (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [nick] (1)
@@ -92,7 +93,7 @@ created: 2026-04-29
 
 ### 1. Up and Running with Microsoft Word
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with ribbons and the Backstage view
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980)
@@ -155,8 +156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft Word]] (3), [[Microsoft Word|Word]] (3), next (1), application (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** interface (5)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is called (2), is a  (1)
 > **Cross-References:** go back to (1)
@@ -287,8 +288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Word|Word]] (3), [[Microsoft]] (2), [[SharePoint]] (2)
 > **CLI Commands:** make (8), find (2)
-> **Code Keywords:** let (4), continue (2), for. (1), finally, (1)
 > **UI Navigation:** go to (3), click on (1), toggle (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -388,8 +389,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Microsoft Word]] (11), web (11), [[Microsoft OneDrive|Onedrive]] (11), [[Microsoft 365]] (7)
 > **UI Navigation:** click on (3), go to (2), open the (1)
-> **Code Keywords:** let (1), finally, (1), this, (1), this. (1), switch (1)
 > **Prerequisites:** install (1), you'll need (1), required to (1)
 > **CLI Commands:** make (2)
 > **URLs:** [office.com](https://office.com) (1)
@@ -480,10 +481,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), hit (2), next (2), [[Microsoft Word]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (4), select the (2), go to (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (2), just like (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -584,9 +585,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), hit (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (6), click on (3), select the (1), scroll down (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), switch (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -678,8 +679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (14), hit (3)
 > **UI Navigation:** go to (10), scroll up (3), scroll down (2), click on (1)
-> **Code Keywords:** break. (4), let (3), delete (2), break, (2), this. (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** best practice (1)
@@ -803,9 +804,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Windows]] (2), [[Microsoft Word|Word]] (1), hit (1)
 > **Analogies:** picture (32), just like (1)
 > **UI Navigation:** go to (5), click on (4), select the (2), navigate to (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
@@ -879,8 +880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (1), [[Windows]] (1)
 > **UI Navigation:** double-click (5)
-> **Code Keywords:** let (2), default, (1), finally, (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -889,7 +890,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more about Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980)
@@ -910,6 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word]] (3), [[Microsoft Word|Word]] (3), [[Microsoft 365]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Office]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

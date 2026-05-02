@@ -22,7 +22,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Structure%20Vibe%20Coding%20to%20Save%20Build%20Time.md)
@@ -41,22 +41,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Save time by structuring your vibe coding
+  - [Save time by structuring your vibe coding](#save-time-by-structuring-your-vibe-coding)
 - [**1. The Essence of Vibe Coding**](#1-the-essence-of-vibe-coding) (2 videos)
-  - What is vibe coding and why do most people get it wrong?
-  - The critical role of AI guidance in vibe coding
+  - [What is vibe coding and why do most people get it wrong?](#what-is-vibe-coding-and-why-do-most-people-get-it-wrong)
+  - [The critical role of AI guidance in vibe coding](#the-critical-role-of-ai-guidance-in-vibe-coding)
 - [**2. Your AI's Guiding Documents**](#2-your-ais-guiding-documents) (5 videos)
-  - Define the spec, blueprint, and todos
-  - Step 1: Crafting the project spec with AI
-  - Step 2: Developing the AI blueprint
-  - Step 3: Creating the roadmap and final setup
-  - Tips for your AI vibe coding journey
+  - [Define the spec, blueprint, and todos](#define-the-spec-blueprint-and-todos)
+  - [Step 1: Crafting the project spec with AI](#step-1-crafting-the-project-spec-with-ai)
+  - [Step 2: Developing the AI blueprint](#step-2-developing-the-ai-blueprint)
+  - [Step 3: Creating the roadmap and final setup](#step-3-creating-the-roadmap-and-final-setup)
+  - [Tips for your AI vibe coding journey](#tips-for-your-ai-vibe-coding-journey)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Move forward with structure
+  - [Move forward with structure](#move-forward-with-structure)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Save time by structuring your vibe coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/save-time-by-using-vibe-coding-structure?u=76281980)
@@ -87,13 +87,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Vibe Coding]] (1), next (1), product (1), teams (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - you (1)
 
 
 ### 1. The Essence of Vibe Coding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is vibe coding and why do most people get it wrong?
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980)
@@ -190,7 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (1), this. (1), let (1)
+> **Frameworks & Libraries:** ai (11), [[Vibe Coding]] (8), product (1), hr (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1), rails (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -273,9 +274,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), application (3), prompt (2), [[ChatGPT]] (1), [[Gemini]] (1)
 > **Cross-References:** go back to (2), we discussed (1)
 > **CLI Commands:** make (1), go build (1)
-> **Code Keywords:** case, (1)
 > **Documentation:** specification (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
@@ -284,7 +285,7 @@ created: 2026-04-29
 
 ### 2. Your AI's Guiding Documents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define the spec, blueprint, and todos
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980)
@@ -349,7 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), pass (2), let (1)
+> **Frameworks & Libraries:** ai (5), next (2), product (2), prompt (1), [[Vibe Coding]] (1)
 > **Documentation:** specification (5)
 > **Cross-References:** previous video (1), we talked about (1)
 > **CLI Commands:** make (1)
@@ -681,7 +682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), case, (3), let (2), static (2), new. (1)
+> **Frameworks & Libraries:** ai (20), application (19), next (12), prompt (10), data (4)
 > **Documentation:** specification (9), spec (3)
 > **CLI Commands:** cd (2), find (1), make (1)
 > **UI Navigation:** go to (4)
@@ -863,7 +864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), this, (4), let (4), this. (2), throw (1)
+> **Frameworks & Libraries:** ai (18), prompt (11), application (5), [[Gemini]] (3), [[ChatGPT]] (3)
 > **Versions:** 3.7 (4), 2.5 (3)
 > **Documentation:** specification (3), spec (2)
 > **Env Vars:** spec (1), llm (1), ide (1)
@@ -929,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while. (2), from, (1), this. (1), let (1), for, (1)
+> **Frameworks & Libraries:** ai (6), cloud (2), application (2), prompt (1), next (1)
 > **Documentation:** specification (3)
 > **UI Navigation:** go to (2)
 > **File Paths:** todo.md (1)
@@ -1063,10 +1064,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Vibe Coding]] (3), next (3), api (3), [[Search]] (2)
 > **Versions:** 2.5 (8), 3.7 (3), 4.1 (1), 3.5 (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** command line (2)
 > **UI Navigation:** go to (2)
 > **Analogies:** such as (1), similar to (1)
@@ -1075,7 +1076,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Move forward with structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/move-forward-with-structure?u=76281980)
@@ -1096,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** ai (3), [[Automation]] (1), application (1)
 > **Speakers:** - here (1)
 
 

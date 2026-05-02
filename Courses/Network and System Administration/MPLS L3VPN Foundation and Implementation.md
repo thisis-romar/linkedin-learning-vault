@@ -30,7 +30,7 @@ tags:
   - skill/virtual-private-network-vpn
   - skill/multiprotocol-label-switching-mpls
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/MPLS%20L3VPN%20Foundation%20and%20Implementation.md)
@@ -49,48 +49,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Foundation and implementation
+  - [Foundation and implementation](#foundation-and-implementation)
 - [**1. Introduction to MPLS and L3VPN**](#1-introduction-to-mpls-and-l3vpn) (4 videos)
-  - What is MPLS? Understanding the basics
-  - Introduction to Layer 3 VPNs (L3VPN) and their use cases
-  - Benefits of MPLS L3VPN for enterprises and service providers
-  - Overview of course objectives and target audience
+  - [What is MPLS? Understanding the basics](#what-is-mpls-understanding-the-basics)
+  - [Introduction to Layer 3 VPNs (L3VPN) and their use cases](#introduction-to-layer-3-vpns-l3vpn-and-their-use-cases)
+  - [Benefits of MPLS L3VPN for enterprises and service providers](#benefits-of-mpls-l3vpn-for-enterprises-and-service-providers)
+  - [Overview of course objectives and target audience](#overview-of-course-objectives-and-target-audience)
 - [**2. MPLS Fundamentals**](#2-mpls-fundamentals) (5 videos)
-  - MPLS architecture and components
-  - Label distribution protocol (LDP) and resource reservation protocol (RSVP) explained
-  - MPLS packet flow and label switching
-  - Understanding MPLS terminology (PE, CE, P routers)
-  - Introduction to MPLS L3VPN concepts
+  - [MPLS architecture and components](#mpls-architecture-and-components)
+  - [Label distribution protocol (LDP) and resource reservation protocol (RSVP) explained](#label-distribution-protocol-ldp-and-resource-reservation-protocol-rsvp-explained)
+  - [MPLS packet flow and label switching](#mpls-packet-flow-and-label-switching)
+  - [Understanding MPLS terminology (PE, CE, P routers)](#understanding-mpls-terminology-pe-ce-p-routers)
+  - [Introduction to MPLS L3VPN concepts](#introduction-to-mpls-l3vpn-concepts)
 - [**3. L3VPN Core Concepts**](#3-l3vpn-core-concepts) (5 videos)
-  - What makes L3VPN unique? VRFs and route distinguishers
-  - The role of MP-BGP in L3VPN
-  - Route targets: Importing and exporting routes
-  - Control plane vs. data plane in L3VPN
-  - Common L3VPN topologies (hub-and-spoke, full mesh)
+  - [What makes L3VPN unique? VRFs and route distinguishers](#what-makes-l3vpn-unique-vrfs-and-route-distinguishers)
+  - [The role of MP-BGP in L3VPN](#the-role-of-mp-bgp-in-l3vpn)
+  - [Route targets: Importing and exporting routes](#route-targets-importing-and-exporting-routes)
+  - [Control plane vs. data plane in L3VPN](#control-plane-vs-data-plane-in-l3vpn)
+  - [Common L3VPN topologies (hub-and-spoke, full mesh)](#common-l3vpn-topologies-hub-and-spoke-full-mesh)
 - [**4. Designing MPLS L3VPN**](#4-designing-mpls-l3vpn) (5 videos)
-  - Planning an MPLS L3VPN deployment
-  - Addressing and routing considerations
-  - Scaling L3VPN: Best practices and limitations
-  - Security features in MPLS L3VPN
-  - Quality of service (QoS) in MPLS L3VPN: Ensuring performance
+  - [Planning an MPLS L3VPN deployment](#planning-an-mpls-l3vpn-deployment)
+  - [Addressing and routing considerations](#addressing-and-routing-considerations)
+  - [Scaling L3VPN: Best practices and limitations](#scaling-l3vpn-best-practices-and-limitations)
+  - [Security features in MPLS L3VPN](#security-features-in-mpls-l3vpn)
+  - [Quality of service (QoS) in MPLS L3VPN: Ensuring performance](#quality-of-service-qos-in-mpls-l3vpn-ensuring-performance)
 - [**5. Implementing MPLS L3VPN**](#5-implementing-mpls-l3vpn) (6 videos)
-  - Case study: Step-by-step L3VPN deployment
-  - Configuring VRFs on PE routers
-  - Setting up MP-BGP for L3VPN
-  - Connecting CE to PE: Static and dynamic routing options
-  - Enabling MPLS in the service provider network
-  - Verifying connectivity and testing the VPN
+  - [Case study: Step-by-step L3VPN deployment](#case-study-step-by-step-l3vpn-deployment)
+  - [Configuring VRFs on PE routers](#configuring-vrfs-on-pe-routers)
+  - [Setting up MP-BGP for L3VPN](#setting-up-mp-bgp-for-l3vpn)
+  - [Connecting CE to PE: Static and dynamic routing options](#connecting-ce-to-pe-static-and-dynamic-routing-options)
+  - [Enabling MPLS in the service provider network](#enabling-mpls-in-the-service-provider-network)
+  - [Verifying connectivity and testing the VPN](#verifying-connectivity-and-testing-the-vpn)
 - [**6. Advanced Topics and Wrap-Up**](#6-advanced-topics-and-wrap-up) (4 videos)
-  - Inter-AS L3VPN: Connecting multiple providers
-  - MPLS L3VPN in modern networks (SD-WAN integration)
-  - Common pitfalls and how to avoid them
-  - The future of MPLS L3VPN: Trends and evolution
+  - [Inter-AS L3VPN: Connecting multiple providers](#inter-as-l3vpn-connecting-multiple-providers)
+  - [MPLS L3VPN in modern networks (SD-WAN integration)](#mpls-l3vpn-in-modern-networks-sd-wan-integration)
+  - [Common pitfalls and how to avoid them](#common-pitfalls-and-how-to-avoid-them)
+  - [The future of MPLS L3VPN: Trends and evolution](#the-future-of-mpls-l3vpn-trends-and-evolution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course summary and next steps for learners
+  - [Course summary and next steps for learners](#course-summary-and-next-steps-for-learners)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundation and implementation
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-foundation-and-implementation?u=76281980)
@@ -113,14 +113,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), power (1)
 > **Env Vars:** mpls (3), mpbgp (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to MPLS and L3VPN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is MPLS? Understanding the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980)
@@ -195,8 +195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), traffic (3), next (3), [[Routing]] (2), vpn (1)
 > **Env Vars:** mpls (12), vpn (1), vip (1), ler (1), lsr (1)
-> **Code Keywords:** let (2), pass (1), switch (1)
 > **Cross-References:** next video (1), in the next (1)
 > **Analogies:** picture (1), think of it as (1)
 > **CLI Commands:** find (1)
@@ -269,8 +269,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), vpn (4), traffic (4), data (2), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1)
 > **Env Vars:** mpls (8), vpn (4), l3vpn (4), lan (1)
-> **Code Keywords:** private (5), let (3), public (1), case, (1)
 > **Analogies:** think of it as (1), imagine (1), picture (1)
 > **Versions:** 10.0.0 (1)
 > **Cross-References:** next video (1)
@@ -357,8 +357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Scalability]] (5), [[Security]] (5), vpn (4), traffic (2)
 > **Env Vars:** mpls (10), vpn (4), mps (3), bgp (1)
-> **Code Keywords:** let (3), this. (1), private (1), public (1)
 > **Analogies:** imagine (1), it's like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -440,15 +440,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), next (3), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1), [[Routing]] (1), [[Scalability]] (1)
 > **Env Vars:** l3vpn (12), mpls (11), mps (1), wan (1), ccna (1)
-> **Code Keywords:** let (1), for, (1), else. (1), finally, (1), this. (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [lecturer] (1)
 
 
 ### 2. MPLS Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MPLS architecture and components
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980)
@@ -521,8 +521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), traffic (5), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1), [[Routing]] (1), next (1)
 > **Env Vars:** mpls (8), ler (3), l3vpn (1), lsr (1), ldp (1)
-> **Code Keywords:** switch (2), let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** setup (1)
@@ -607,8 +607,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), [[Traffic Engineering]] (5), [[Routing]] (3), vpn (2), next (2)
 > **Env Vars:** ldp (13), rsvp (12), mpls (11), vpn (2), mps (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### MPLS packet flow and label switching
@@ -684,8 +684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), next (2), vpn (1), traffic (1)
 > **Env Vars:** mpls (12), vpn (1)
-> **Code Keywords:** let (3), pass (2), continue (1)
 > **Analogies:** imagine (1), think of it like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -768,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), next (2), [[Microsoft Office|Office]] (1), [[Routing]] (1), traffic (1)
 > **Env Vars:** mpls (12), l3vpn (2)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -843,8 +843,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), vpn (6), traffic (5), data (2), [[Routing]] (1)
 > **Env Vars:** mpls (11), vpn (6), l3vpn (3)
-> **Code Keywords:** private (4), let (3), for. (1), switch (1)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Versions:** 10.0.0 (1)
@@ -853,7 +853,7 @@ created: 2026-04-29
 
 ### 3. L3VPN Core Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes L3VPN unique? VRFs and route distinguishers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980)
@@ -930,8 +930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (9), [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), power (1), traffic (1), next (1)
 > **Env Vars:** mpls (6), vrf (5), l3vpn (4), vfs (1), bgp (1)
-> **Code Keywords:** private (4), let (3), match, (1)
 > **Versions:** 10.0.0 (5)
 > **Ports:** :10 (2), :100 (1), :200 (1)
 > **Analogies:** imagine (1), for example (1)
@@ -1014,9 +1014,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (6), [[Multiprotocol Label Switching (MPLS)|Mpls]] (5), traffic (2), [[Routing]] (2), power (1)
 > **Env Vars:** bgp (15), vpn (6), mpls (5), l3vpn (5)
 > **Versions:** 10.0.0 (1), 100.10.0 (1), 0.0 (1)
-> **Code Keywords:** let (1), this. (1)
 > **Analogies:** for example (1), it's like (1)
 > **Ports:** :100 (1)
 > **Speakers:** - [instructor] (1)
@@ -1092,11 +1092,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (7), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), next (2), [[Routing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** vrf (12), vpn (7), l3vpn (3), mpls (2), bgp (2)
 > **Ports:** :100 (8), :200 (1), :300 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** match, (1)
 > **Versions:** 10.0.0 (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -1186,8 +1186,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), traffic (4), [[Routing]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), vpn (1)
 > **Env Vars:** l3vpn (4), mpls (3), bgp (3), vpn (1)
-> **Code Keywords:** switch (2), let (1), pass (1), this. (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** setup (1)
@@ -1288,8 +1288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (10), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), traffic (3), data (2), strengths (1)
 > **Env Vars:** l3vpn (8), mpls (4)
-> **Code Keywords:** let (3), case. (1)
 > **Analogies:** picture (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -1298,7 +1298,7 @@ created: 2026-04-29
 
 ### 4. Designing MPLS L3VPN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning an MPLS L3VPN deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980)
@@ -1373,8 +1373,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), traffic (3), [[Routing]] (2), next (2), vpn (1)
 > **Env Vars:** l3vpn (6), mpls (4), vpn (1), vrf (1), rfs (1)
-> **Code Keywords:** let (1), for. (1)
 > **Prerequisites:** setup (1), configure (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
@@ -1454,9 +1454,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (10), vpn (7), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), traffic (2), next (1)
 > **Env Vars:** vpn (7), l3vpn (4), bgp (4), mpls (3), vrf (2)
 > **Versions:** 10.0.0 (6)
-> **Code Keywords:** let (2), catch. (1), private (1), static (1)
 > **Ports:** :100 (1), :200 (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** setup (1)
@@ -1543,8 +1543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), traffic (3), [[Scalability]] (2), vpn (1), [[Hardware]] (1)
 > **Env Vars:** mpls (4), l3vpn (4), mpbgp (2), vpn (1), cpu (1)
-> **Code Keywords:** let (2)
 > **Versions:** 10.10.0 (1), 10.0.0 (1)
 > **Best Practices:** best practice (2)
 > **Speakers:** - [instructor] (1)
@@ -1632,8 +1632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), data (9), [[Security]] (4), vpn (4), traffic (3)
 > **Env Vars:** mpls (10), l3vpn (7), vpn (4), vrf (2), mpgbp (1)
-> **Code Keywords:** let (2), private (2), switch (1)
 > **Speakers:** - [instructor] (1)
 
 #### Quality of service (QoS) in MPLS L3VPN: Ensuring performance
@@ -1707,8 +1707,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (11), [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), data (6), vpn (3), next (1)
 > **Env Vars:** mpls (9), l3vpn (7), vpn (3), exp (3), npls (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** set up (1)
@@ -1717,7 +1717,7 @@ created: 2026-04-29
 
 ### 5. Implementing MPLS L3VPN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Case study: Step-by-step L3VPN deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980)
@@ -1812,9 +1812,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), next (3), traffic (2), [[IP Addressing]] (2), vpn (1)
 > **Env Vars:** pe1 (10), pe2 (10), l3vpn (7), ospf (4), mpls (3)
 > **Versions:** 10.0.12 (3), 10.0.23 (3), 10.0.34 (3), 10.0.1 (2), 255.255.255 (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** set up (1), setup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1973,9 +1973,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), next (2), [[IP Addressing]] (1), vpn (1)
 > **Versions:** 255.255.255 (15), 192.168.1 (7), 192.168.2 (7), 192.168.3 (7), 192.168.4 (7)
 > **Env Vars:** pe1 (10), red (8), blue (8), pe2 (6), mpls (2)
-> **Code Keywords:** interface (12), let (1)
 > **Prerequisites:** configure (4)
 > **Speakers:** - [instructor] (1)
 
@@ -2074,10 +2074,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (3), traffic (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), next (1), [[Routing]] (1)
 > **Env Vars:** bgp (10), pe2 (9), pe1 (8), vrf (8), l3vpn (4)
 > **Versions:** 10.0.4 (8), 10.0.1 (8), 172.16.1 (3), 172.16.2 (3), 172.16.3 (3)
 > **Prerequisites:** set up (2), setup (1)
-> **Code Keywords:** let (1), static (1)
 > **Code Identifiers:** ibgp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2198,9 +2198,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), next (1)
 > **Env Vars:** bgp (19), vrf (13), pe2 (6), mpls (4), pe1 (4)
 > **Versions:** 255.255.255 (11), 192.168.1 (7), 172.16.2 (7), 172.16.4 (7), 192.168.3 (5)
-> **Code Keywords:** static (12), override (9), let (1), this. (1), continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Enabling MPLS in the service provider network
@@ -2284,8 +2284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (19), vpn (9), [[Routing]] (4), traffic (3), [[Scalability]] (1)
 > **Env Vars:** mpls (19), vpn (9), bgp (3), pe1 (3), pe2 (3)
-> **Code Keywords:** interface (6), let (2), switch (1), default. (1)
 > **Prerequisites:** set up (2), configure (2), setup (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
@@ -2395,16 +2395,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), vpn (8), next (3), [[Routing]] (2), traffic (1)
 > **Env Vars:** pe2 (10), vpn (8), pe1 (8), mpls (7), red (3)
 > **Versions:** 192.168.3 (3), 192.168.1 (2), 192.168.2 (2), 192.168.4 (2), 10.0.4 (1)
-> **Code Keywords:** let (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Advanced Topics and Wrap-Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inter-AS L3VPN: Connecting multiple providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980)
@@ -2499,8 +2499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (9), [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), traffic (3), feature (2), [[Routing]] (1)
 > **Env Vars:** vpn (9), mpls (6), l3vpn (6), asbr (4), asbr1 (2)
-> **Code Keywords:** let (2)
 > **Analogies:** imagine (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -2604,8 +2604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (19), traffic (7), vpn (4), [[Orchestration]] (1), [[Real-Time]] (1)
 > **Env Vars:** mpls (19), wan (18), l3vpn (7), vpn (4), pe1 (2)
-> **Code Keywords:** let (2), pass (2), else. (1), this, (1), public (1)
 > **Analogies:** picture (1), for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -2689,8 +2689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), [[Routing]] (3), vpn (2), next (2), hit (1)
 > **Env Vars:** mpls (7), vrf (6), bgp (5), l3vpn (4), ospf (4)
-> **Code Keywords:** interface (3), let (1), this, (1), finally, (1), break. (1)
 > **Versions:** 1.1.1 (1), 2.2.2 (1)
 > **Ports:** port 179 (1)
 > **Analogies:** imagine (1)
@@ -2780,8 +2780,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (14), cloud (9), [[5G]] (6), next (4), vpn (4)
 > **Env Vars:** mpls (14), l3vpn (9), vpn (4), ibn (4), qos (2)
-> **Code Keywords:** let (2), pass (2), private (1), finally, (1), extends (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
@@ -2789,7 +2789,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary and next steps for learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980)
@@ -2880,9 +2880,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (13), next (3), [[Routing]] (3), data (1), cloud (1)
 > **Env Vars:** mpls (13), l3vpn (4), ltp (1), bgp (1), vrf (1)
 > **Prerequisites:** setup (2), set up (1)
-> **Code Keywords:** let (1), private (1)
 > **Tools:** atom (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)

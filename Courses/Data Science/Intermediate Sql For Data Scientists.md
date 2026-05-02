@@ -29,7 +29,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Intermediate%20Sql%20For%20Data%20Scientists.md)
@@ -48,76 +48,76 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The need for SQL in data science
-  - What you should know
+  - [The need for SQL in data science](#the-need-for-sql-in-data-science)
+  - [What you should know](#what-you-should-know)
 - [**1. Foundations of SQL for Data Science**](#1-foundations-of-sql-for-data-science) (4 videos)
-  - Overview of data science operations
-  - Data manipulation commands
-  - Data definition commands
-  - SQL standards
+  - [Overview of data science operations](#overview-of-data-science-operations)
+  - [Data manipulation commands](#data-manipulation-commands)
+  - [Data definition commands](#data-definition-commands)
+  - [SQL standards](#sql-standards)
 - [**2. Basic Statistics with SQL**](#2-basic-statistics-with-sql) (8 videos)
-  - Getting started with GitHub Codespaces
-  - Creating tables and loading data
-  - Basic aggregate functions
-  - Statistical aggregate functions
-  - Grouping and filtering data
-  - Joining and filtering data
-  - Challenge: Test an attribute for normal distribution
-  - Solution: Test an attribute for normal distribution
+  - [Getting started with GitHub Codespaces](#getting-started-with-github-codespaces)
+  - [Creating tables and loading data](#creating-tables-and-loading-data)
+  - [Basic aggregate functions](#basic-aggregate-functions)
+  - [Statistical aggregate functions](#statistical-aggregate-functions)
+  - [Grouping and filtering data](#grouping-and-filtering-data)
+  - [Joining and filtering data](#joining-and-filtering-data)
+  - [Challenge: Test an attribute for normal distribution](#challenge-test-an-attribute-for-normal-distribution)
+  - [Solution: Test an attribute for normal distribution](#solution-test-an-attribute-for-normal-distribution)
 - [**3. Data Munging with SQL**](#3-data-munging-with-sql) (7 videos)
-  - Reformatting character data
-  - Extracting strings from character data
-  - Filtering with regular expressions
-  - Reformatting numeric data
-  - Fuzzy string matching
-  - Challenge: Prepare a data set for analysis
-  - Solution: Prepare a data set for analysis
+  - [Reformatting character data](#reformatting-character-data)
+  - [Extracting strings from character data](#extracting-strings-from-character-data)
+  - [Filtering with regular expressions](#filtering-with-regular-expressions)
+  - [Reformatting numeric data](#reformatting-numeric-data)
+  - [Fuzzy string matching](#fuzzy-string-matching)
+  - [Challenge: Prepare a data set for analysis](#challenge-prepare-a-data-set-for-analysis)
+  - [Solution: Prepare a data set for analysis](#solution-prepare-a-data-set-for-analysis)
 - [**4. Filtering and Aggregation**](#4-filtering-and-aggregation) (9 videos)
-  - Using the HAVING clause to find subgroups
-  - Subqueries for column values
-  - Subqueries in FROM clauses
-  - Subqueries in WHERE clauses
-  - Using ROLLUP to create subtotals
-  - Using CUBE to total across dimensions
-  - Using Top-N queries to find top results
-  - Challenge: Filter and aggregate a data set
-  - Solution: Filter and aggregate a data set
+  - [Using the HAVING clause to find subgroups](#using-the-having-clause-to-find-subgroups)
+  - [Subqueries for column values](#subqueries-for-column-values)
+  - [Subqueries in FROM clauses](#subqueries-in-from-clauses)
+  - [Subqueries in WHERE clauses](#subqueries-in-where-clauses)
+  - [Using ROLLUP to create subtotals](#using-rollup-to-create-subtotals)
+  - [Using CUBE to total across dimensions](#using-cube-to-total-across-dimensions)
+  - [Using Top-N queries to find top results](#using-top-n-queries-to-find-top-results)
+  - [Challenge: Filter and aggregate a data set](#challenge-filter-and-aggregate-a-data-set)
+  - [Solution: Filter and aggregate a data set](#solution-filter-and-aggregate-a-data-set)
 - [**5. Window Functions and Ordered Data**](#5-window-functions-and-ordered-data) (6 videos)
-  - Introducing window functions
-  - NTH_VALUE and NTH_TILE
-  - RANK, LEAD, and LAG
-  - Width_buckets and CUME_DIST
-  - Challenge: Segment a data set using window functions
-  - Solution: Segment a data set using window functions
+  - [Introducing window functions](#introducing-window-functions)
+  - [NTH_VALUE and NTH_TILE](#nth_value-and-nth_tile)
+  - [RANK, LEAD, and LAG](#rank-lead-and-lag)
+  - [Width_buckets and CUME_DIST](#width_buckets-and-cume_dist)
+  - [Challenge: Segment a data set using window functions](#challenge-segment-a-data-set-using-window-functions)
+  - [Solution: Segment a data set using window functions](#solution-segment-a-data-set-using-window-functions)
 - [**6. Common Table Expressions**](#6-common-table-expressions) (6 videos)
-  - Introducing common table expressions (CTEs)
-  - Multiple table common table expressions
-  - Hierarchical tables
-  - Recursive common table expressions
-  - Challenge: Rewriting a complex query to use CTEs
-  - Solution: Rewriting a complex query to use CTEs
+  - [Introducing common table expressions (CTEs)](#introducing-common-table-expressions-ctes)
+  - [Multiple table common table expressions](#multiple-table-common-table-expressions)
+  - [Hierarchical tables](#hierarchical-tables)
+  - [Recursive common table expressions](#recursive-common-table-expressions)
+  - [Challenge: Rewriting a complex query to use CTEs](#challenge-rewriting-a-complex-query-to-use-ctes)
+  - [Solution: Rewriting a complex query to use CTEs](#solution-rewriting-a-complex-query-to-use-ctes)
 - [**7. Types of Joins**](#7-types-of-joins) (7 videos)
-  - Overview of types of joins
-  - Inner joins
-  - Right outer joins
-  - Left outer joins
-  - Full outer joins
-  - Challenge: Choose the correct type of join
-  - Solution: Choose the correct type of join
+  - [Overview of types of joins](#overview-of-types-of-joins)
+  - [Inner joins](#inner-joins)
+  - [Right outer joins](#right-outer-joins)
+  - [Left outer joins](#left-outer-joins)
+  - [Full outer joins](#full-outer-joins)
+  - [Challenge: Choose the correct type of join](#challenge-choose-the-correct-type-of-join)
+  - [Solution: Choose the correct type of join](#solution-choose-the-correct-type-of-join)
 - [**8. Working with JSON**](#8-working-with-json) (7 videos)
-  - JSON in relational databases
-  - JSON data types
-  - Inserting JSON data
-  - Querying JSON data
-  - Indexing JSON data
-  - Challenge: Query a JSON column
-  - Solution: Query a JSON column
+  - [JSON in relational databases](#json-in-relational-databases)
+  - [JSON data types](#json-data-types)
+  - [Inserting JSON data](#inserting-json-data)
+  - [Querying JSON data](#querying-json-data)
+  - [Indexing JSON data](#indexing-json-data)
+  - [Challenge: Query a JSON column](#challenge-query-a-json-column)
+  - [Solution: Query a JSON column](#solution-query-a-json-column)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for SQL in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980)
@@ -134,6 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[SQL]] (3)
 > **Env Vars:** sql (3)
 > **Speakers:** - [dan] (1)
 
@@ -152,6 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), [[Relational Databases]] (1), [[Codespaces]] (1), [[GitHub]] (1)
 > **Env Vars:** sql (2), ide (1)
 > **Tools:** visual studio (1), github (1)
 > **CLI Commands:** make (1)
@@ -162,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Foundations of SQL for Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data science operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980)
@@ -269,10 +271,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (52), database (8), business (5), [[NoSQL]] (4), application (4)
 > **CLI Commands:** make (4), find (2), python (1)
 > **Analogies:** for example (4), picture (2)
 > **Env Vars:** sql (3), iot (2)
-> **Code Keywords:** finally, (3), let (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -427,7 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), case, (7), this, (1), continue (1), this. (1)
+> **Frameworks & Libraries:** data (13), [[SQL]] (6), [[Data Manipulation]] (4), database (1), product (1)
 > **Env Vars:** sql (6), usa (4)
 > **Definitions:** is called (2), is a  (2), known as (2), is an  (1)
 > **Analogies:** for example (2), such as (1), imagine (1)
@@ -595,7 +597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), type. (2), let (1), delete (1)
+> **Frameworks & Libraries:** data (20), database (4), [[Relational Databases]] (4), [[SQL]] (3), [[Data Manipulation]] (2)
 > **Definitions:** short for (2), is a  (2), stands for (1), is called (1)
 > **Env Vars:** sql (3), idx_ (1), idx (1)
 > **CLI Commands:** cd (2), make (1), find (1)
@@ -653,8 +655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), data (6), [[SQL]] (6), [[Databases]] (3), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** sql (7), ansi (3), varchar (2), db2 (1), json (1)
-> **Code Keywords:** function (3)
 > **SQL:** varchar (2)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (2)
@@ -664,7 +666,7 @@ created: 2026-04-29
 
 ### 2. Basic Statistics with SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980)
@@ -833,9 +835,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (17), [[GitHub]] (12), [[Codespaces]] (9), [[SQL]] (5), database (5)
 > **Tools:** github (12), visual studio (1), command line (1)
 > **Env Vars:** sql (4), url (3), readme (2), ide (2)
-> **Code Keywords:** this. (3), public (2), let (1), delete (1)
 > **UI Navigation:** click on (3), go to (2), navigate to (1), scroll down (1)
 > **Exercise Files:** exercise files (4), exercise file (2)
 > **Definitions:** is a  (5), is called (1)
@@ -941,8 +943,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), next (4), data (3), [[Codespaces]] (2), [[Search]] (1)
 > **Code Identifiers:** data_sci (7), company_regions (3), last_name (2), exercise_data (1), company_departments (1)
-> **Code Keywords:** let (2), default. (1), default, (1), case, (1), this. (1)
 > **Env Vars:** sql (6)
 > **UI Navigation:** click on (3), open the (1), scroll down (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1105,7 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), this, (2), from, (1), function (1)
+> **Frameworks & Libraries:** data (18), [[SQL]] (1), [[Analytics]] (1), game (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (3)
@@ -1289,7 +1291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (8), case, (4), this. (2)
+> **Frameworks & Libraries:** data (9), [[Statistics]] (4), [[PostgreSQL|Postgres]] (1), [[SQL]] (1)
 > **Code Identifiers:** department_id (3), data_sci (1), var_pop (1), avg_salary (1), stddev_pop (1)
 > **Definitions:** is a  (2), known as (1), stands for (1), is an  (1)
 > **CLI Commands:** make (2), find (2)
@@ -1437,7 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (3), match. (2), continue (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (5), data (2), [[PostgreSQL|Postgres]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1657,8 +1659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[SQL]] (3), [[Relational Databases]] (1), [[PostgreSQL|Postgres]] (1), [[Microsoft Excel|Excel]] (1)
 > **Code Identifiers:** country_name (15), company_regions (9), region_name (7), region_id (6), department_id (3)
-> **Code Keywords:** let (10), case, (2), this. (2), function (1), this, (1)
 > **CLI Commands:** make (9), find (1)
 > **Env Vars:** where (4), sql (3), select (1), join (1)
 > **SQL:** where (4), select (1), join (1)
@@ -1711,11 +1713,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (2)
 > **Code Identifiers:** company_departments (2), data_sci (1)
 > **SQL:** select (1), join (1), where (1)
 > **Env Vars:** select (1), join (1), where (1)
 > **CLI Commands:** cd (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1723,7 +1725,7 @@ created: 2026-04-29
 
 ### 3. Data Munging with SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reformatting character data
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980)
@@ -1912,7 +1914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (8), case, (6), pass (5), this, (2)
+> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (4), [[SQL]] (2), database (1)
 > **Code Identifiers:** department_name (5), company_departments (3)
 > **Analogies:** for example (4), such as (1), imagine (1)
 > **CLI Commands:** make (3)
@@ -2086,7 +2088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (3), case, (2), this. (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[SQL]] (3), data (3), [[Microsoft Office|Office]] (2), business (2)
 > **Code Identifiers:** is_assistant (2), data_sci (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -2308,7 +2310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), this. (3), switch (2), match, (2), from, (1)
+> **Frameworks & Libraries:** web (15), data (3), product (2), business (1), management (1)
 > **Analogies:** similar to (8), for example (2), imagine (1), just like (1)
 > **CLI Commands:** find (5), make (1)
 > **Documentation:** specification (4)
@@ -2392,7 +2394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), this, (1)
+> **Frameworks & Libraries:** data (3), next (2), [[PostgreSQL|Postgres]] (1), business (1)
 > **Versions:** 0.5 (2), 97.33 (1), 54.55 (1), 97433.54 (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1), short for (1)
@@ -2573,7 +2575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (9), match. (6), this, (3), this. (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (18), [[Microsoft Word|Word]] (3), data (2), [[MySQL]] (2), database (1)
 > **CLI Commands:** make (9), mysql (2)
 > **Env Vars:** p232 (2), utf (2), sql (1), select (1), k232 (1)
 > **Analogies:** for example (4)
@@ -2599,7 +2601,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat instrumental music) (1)
 
@@ -2620,7 +2621,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), finally, (1)
 > **Env Vars:** round (1), trunc (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2630,7 +2630,7 @@ created: 2026-04-29
 
 ### 4. Filtering and Aggregation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the HAVING clause to find subgroups
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-the-having-clause-to-find-subgroups?u=76281980)
@@ -2791,9 +2791,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (5), data (2), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** order (9), where (8), having (4), asc (3), select (2)
 > **SQL:** order by (9), where (8), having (4), select (2), group by (2)
-> **Code Keywords:** let (11), this. (3), default. (1), for. (1)
 > **Code Identifiers:** department_name (7), company_departments (3), data_sci (3), department_id (1)
 > **CLI Commands:** cd (5), make (4)
 > **Analogies:** for example (2), similar to (1)
@@ -2965,7 +2965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), case, (1)
+> **Frameworks & Libraries:** [[SQL]] (2), business (2), data (2)
 > **Env Vars:** select (9), sql (2)
 > **SQL:** select (9)
 > **Code Identifiers:** data_sci (4), department_id (1)
@@ -3021,7 +3021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), this, (1)
+> **Frameworks & Libraries:** data (1), business (1)
 > **SQL:** where (3), select (2)
 > **Env Vars:** where (3), select (2)
 > **Code Identifiers:** data_sci (3)
@@ -3082,7 +3082,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (3)
 > **Code Identifiers:** data_sci (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -3232,7 +3231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), this. (1), for. (1), export. (1)
+> **Frameworks & Libraries:** data (8), [[SQL]] (3), feature (2), [[PostgreSQL|Postgres]] (1), database (1)
 > **Env Vars:** sql (3), usa (2)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (4)
@@ -3451,7 +3450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), from, (2), finally, (2), this. (2), for, (1)
+> **Frameworks & Libraries:** data (10), cd (1), [[PostgreSQL|Postgres]] (1)
 > **Analogies:** for example (4), similar to (2), kind of like (1)
 > **Definitions:** is a  (5), is an  (1)
 > **UI Navigation:** scroll down (2), select the (1), switch to (1)
@@ -3522,7 +3521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), this. (1), interface (1)
+> **Frameworks & Libraries:** data (5), database (3), [[SQL]] (3), [[Fetch]] (3), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** sql (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** it's like (1), for example (1)
@@ -3575,7 +3574,7 @@ created: 2026-04-29
 
 ### 5. Window Functions and Ordered Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-window-functions?u=76281980)
@@ -3684,8 +3683,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), next (2)
 > **Code Identifiers:** first_value (11), department_id (3), data_sci (1), last_name (1)
-> **Code Keywords:** let (5), function (3), case, (1)
 > **Env Vars:** sql (3), order (3), select (1), partition (1)
 > **SQL:** order by (3), select (1)
 > **Definitions:** is a  (3), known as (1)
@@ -3808,7 +3807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), case, (2), this, (2), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **Documentation:** specification (2)
@@ -3951,7 +3950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (10), case, (3), switch (2)
+> **Frameworks & Libraries:** next (3), hit (1)
 > **Code Identifiers:** department_id (4), last_name (1), data_sci (1)
 > **Env Vars:** partition (3)
 > **Definitions:** is a  (2), is called (1)
@@ -4170,7 +4169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (11), case, (2), pass (2), finally, (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), data (2)
 > **Code Identifiers:** width_bucket (9), cume_dist (5), last_name (3), department_id (2), width_buckets (1)
 > **Definitions:** is a  (3), is called (2), is an  (2), stands for (1), known as (1)
 > **Analogies:** similar to (2), for example (1), it's like (1)
@@ -4214,7 +4213,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** department_id (2), last_name (1), data_sci (1)
-> **Code Keywords:** function (1)
 > **SQL:** select (1)
 > **Env Vars:** select (1)
 > **Speakers:** - [instructor] (1)
@@ -4223,7 +4221,7 @@ created: 2026-04-29
 
 ### 6. Common Table Expressions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing common table expressions (CTEs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980)
@@ -4276,8 +4274,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), data (2), feature (1), [[Software Development]] (1), management (1)
 > **Env Vars:** cte (7), select (4)
-> **Code Keywords:** module (2), function (1), case, (1), require (1), this, (1)
 > **SQL:** select (4)
 > **Definitions:** known as (2)
 > **Analogies:** for example (1), imagine (1)
@@ -4417,9 +4415,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), data (2), [[SQL]] (1)
 > **Env Vars:** cte (9), sql (1)
 > **Definitions:** is a  (5), is called (3), is an  (1)
-> **Code Keywords:** let (3), function (2), this. (2), from. (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** data_sci (1)
 > **Speakers:** - [instructor] (1)
@@ -4505,9 +4503,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), management (3), [[Microsoft Office|Office]] (3), database (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** union (9), cte (7), ceo (3), recursive (2)
 > **Code Identifiers:** parent_department_id (3), org_structure (2), department_name (2), data_sci (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Tools:** terminal (4)
 > **Definitions:** is an  (2), known as (1)
 > **Cross-References:** in the next (1)
@@ -4583,8 +4581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), [[Microsoft Office|Office]] (4), management (1), data (1)
 > **Env Vars:** cte (6), ceo (2)
-> **Code Keywords:** let (2), self (1), case, (1)
 > **Tools:** terminal (4)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -4614,7 +4612,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** data_sci (3), company_regions (2), region_id (1), region_name (1)
-> **Code Keywords:** let (1), case, (1)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -4636,6 +4633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** cte (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -4643,7 +4641,7 @@ created: 2026-04-29
 
 ### 7. Types of Joins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of types of joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980)
@@ -4708,8 +4706,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), product (2), [[SQL]] (1)
 > **Env Vars:** left (7), outer (5), right (4), cross (4), inner (3)
-> **Code Keywords:** self (2), let (1)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -4786,7 +4784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (2), from, (1), case. (1), this. (1)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** company_regions (3), region_id (2), data_sci (1), employee_regions (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
@@ -4894,7 +4892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), switch (1), case, (1)
+> **Frameworks & Libraries:** data (3), [[SQL]] (2)
 > **Env Vars:** sql (2), id8 (1)
 > **Definitions:** is a  (2), basically means (1)
 > **CLI Commands:** make (1), find (1)
@@ -4939,7 +4937,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), case, (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** data_sci (2)
 > **Speakers:** - [instructor] (1)
@@ -4985,7 +4982,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), return, (1)
 > **Code Identifiers:** data_sci (2), company_regions (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), similar to (1)
@@ -5009,7 +5005,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5028,14 +5023,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 8. Working with JSON
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JSON in relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980)
@@ -5124,8 +5118,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (25), data (23), [[Relational Databases]] (7), database (4), management (3)
 > **Env Vars:** json (25), api (3), grpc (1)
-> **Code Keywords:** for. (1), case, (1), for, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** mysql (1)
 > **Analogies:** for example (1)
@@ -5182,10 +5176,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (14), data (12), api (2), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** json (14), jsonb (3), api (2), gin (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), think of it as (1)
-> **Code Keywords:** type. (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
@@ -5251,8 +5245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[JSON]] (15), api (3), next (2), [[Relational Databases]] (1)
 > **Env Vars:** json (15), jsonb (3), api (3), hctp (1)
-> **Code Keywords:** let (2), type. (1), this, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** it's like (1), for example (1)
 > **URLs:** [example.com](https://example.com) (1)
@@ -5312,7 +5306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), for. (1), continue (1)
+> **Frameworks & Libraries:** [[JSON]] (7), data (7), api (1)
 > **Env Vars:** json (7), api (1), http (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** select the (1)
@@ -5373,8 +5367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (6), data (3), api (2)
 > **Env Vars:** json (6), api (2), jsonb (1)
-> **Code Keywords:** case, (2), let (1), delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Query a JSON column
@@ -5392,6 +5386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[JSON]] (2)
 > **Code Identifiers:** api_response (2)
 > **Env Vars:** json (2)
 > **Speakers:** - [instructor] (1)
@@ -5426,6 +5421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (3), data (2), [[Metadata]] (1)
 > **Env Vars:** json (3)
 > **Code Identifiers:** user_api (1)
 > **Speakers:** - [instructor] (1)
@@ -5434,7 +5430,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980)
@@ -5467,8 +5463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[SQL]] (9), [[Analytics]] (2), [[Relational Databases]] (2), [[Application Development]] (1)
 > **Env Vars:** sql (9), iot (1), pdx (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 

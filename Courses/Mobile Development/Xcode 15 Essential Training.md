@@ -32,7 +32,7 @@ tags:
   - skill/xcode
   - skill/ios-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Xcode%2015%20Essential%20Training.md)
@@ -51,51 +51,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Becoming an Xcode expert
-  - What you should know
+  - [Becoming an Xcode expert](#becoming-an-xcode-expert)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Started**](#1-getting-started) (10 videos)
-  - Installing Xcode
-  - Creating your first Xcode project
-  - Exploring the user interface
-  - Xcode settings
-  - Working with files
-  - Using Quick Help and documentation
-  - Groups
-  - Localization using .xcstrings
-  - Working with color sets
-  - Adding app icons
+  - [Installing Xcode](#installing-xcode)
+  - [Creating your first Xcode project](#creating-your-first-xcode-project)
+  - [Exploring the user interface](#exploring-the-user-interface)
+  - [Xcode settings](#xcode-settings)
+  - [Working with files](#working-with-files)
+  - [Using Quick Help and documentation](#using-quick-help-and-documentation)
+  - [Groups](#groups)
+  - [Localization using .xcstrings](#localization-using-xcstrings)
+  - [Working with color sets](#working-with-color-sets)
+  - [Adding app icons](#adding-app-icons)
 - [**2. Efficient Coding with SwiftUI and Prototyping**](#2-efficient-coding-with-swiftui-and-prototyping) (5 videos)
-  - Using the canvas with SwiftUI
-  - The SwiftUI library
-  - Creating snippets
-  - Prototyping in a playground
-  - Regular expressions in playgrounds
+  - [Using the canvas with SwiftUI](#using-the-canvas-with-swiftui)
+  - [The SwiftUI library](#the-swiftui-library)
+  - [Creating snippets](#creating-snippets)
+  - [Prototyping in a playground](#prototyping-in-a-playground)
+  - [Regular expressions in playgrounds](#regular-expressions-in-playgrounds)
 - [**3. Source Control**](#3-source-control) (7 videos)
-  - Creating a local repository
-  - Connecting source control accounts
-  - Creating a remote repository
-  - Committing and pushing changes
-  - Branches
-  - Merging branches
-  - Resolving conflicts
+  - [Creating a local repository](#creating-a-local-repository)
+  - [Connecting source control accounts](#connecting-source-control-accounts)
+  - [Creating a remote repository](#creating-a-remote-repository)
+  - [Committing and pushing changes](#committing-and-pushing-changes)
+  - [Branches](#branches)
+  - [Merging branches](#merging-branches)
+  - [Resolving conflicts](#resolving-conflicts)
 - [**4. Storyboard Design Basics**](#4-storyboard-design-basics) (6 videos)
-  - Exploring Interface Builder
-  - Creating a user interface
-  - Connecting a label
-  - Connecting a button
-  - Troubleshoot broken connections
-  - Understanding pinning
+  - [Exploring Interface Builder](#exploring-interface-builder)
+  - [Creating a user interface](#creating-a-user-interface)
+  - [Connecting a label](#connecting-a-label)
+  - [Connecting a button](#connecting-a-button)
+  - [Troubleshoot broken connections](#troubleshoot-broken-connections)
+  - [Understanding pinning](#understanding-pinning)
 - [**5. Debugging and Testing**](#5-debugging-and-testing) (4 videos)
-  - Using the debugger
-  - Correcting errors with Fix-It
-  - Refactoring code
-  - Creating unit tests
+  - [Using the debugger](#using-the-debugger)
+  - [Correcting errors with Fix-It](#correcting-errors-with-fix-it)
+  - [Refactoring code](#refactoring-code)
+  - [Creating unit tests](#creating-unit-tests)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming an Xcode expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/becoming-an-xcode-expert?u=76281980)
@@ -114,6 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (3)
 > **Code Identifiers:** ios (3), tvos (1)
 > **Speakers:** - [todd] (1)
 
@@ -132,7 +133,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Code Identifiers:** macos (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -140,7 +140,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/installing-xcode?u=76281980)
@@ -159,10 +159,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (3), application (1)
 > **Prerequisites:** install (3)
 > **Code Identifiers:** ios (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -217,9 +217,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (4), hit (3), product (3), next (2), [[Git]] (2)
 > **Code Identifiers:** ios (5), macos (1), first_project (1)
 > **CLI Commands:** make (2), git (2)
-> **Code Keywords:** interface (3), new, (1)
 > **Exercise Files:** exercise files (2), template (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Best Practices:** make sure to (1)
@@ -279,7 +279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (2), [[Debugging]] (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (1)
@@ -363,10 +363,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (15), hit (2), data (2), [[Git]] (1), application (1)
 > **CLI Commands:** make (4), find (3), git (1)
 > **UI Navigation:** click on (2), select the (1), toggle (1)
 > **Analogies:** for example (3), just like (1)
-> **Code Keywords:** interface (1), default, (1), delete (1)
 > **Prerequisites:** install (2), set up (1)
 > **Cross-References:** later in (1), go back to (1)
 > **Exercise Files:** template (1)
@@ -437,9 +437,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (7), next (3)
 > **UI Navigation:** click on (2), in the tab (1), double-click (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
@@ -476,6 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (2), hit (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -539,7 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), finally, (1)
+> **Frameworks & Libraries:** [[Xcode]] (2), hit (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -631,7 +632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (3)
+> **Frameworks & Libraries:** hit (4), next (2), [[Xcode]] (1), [[Microsoft Word|Word]] (1), [[Debugging]] (1)
 > **Code Identifiers:** hello_world (4)
 > **UI Navigation:** scroll down (2), click on (2)
 > **CLI Commands:** find (2)
@@ -726,7 +727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), case, (1), switch (1)
+> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** foregroundstyle (1), srgb (1), ios (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -811,9 +812,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), application (3), [[Xcode]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** ios (10), iphone (2)
 > **UI Navigation:** click on (2), dropdown (1), open the (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** png (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
@@ -823,7 +824,7 @@ created: 2026-04-29
 
 ### 2. Efficient Coding with SwiftUI and Prototyping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the canvas with SwiftUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980)
@@ -892,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), require (1), case, (1), else. (1), let (1)
+> **Frameworks & Libraries:** application (2), [[Xcode]] (1), [[Zoom]] (1), next (1)
 > **Cross-References:** earlier in (3), go back to (1)
 > **UI Navigation:** click on (2), dropdown (1)
 > **Analogies:** for example (3)
@@ -944,8 +945,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4)
 > **UI Navigation:** in the toolbar (1), scroll down (1), click on (1), double-click (1)
-> **Code Keywords:** let (1), interface (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1002,7 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), delete (1), return, (1)
+> **Frameworks & Libraries:** hit (2), power (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
@@ -1069,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), new, (1), else. (1), let (1), pass (1)
+> **Frameworks & Libraries:** hit (5), next (3), [[Xcode]] (2), [[Algorithms]] (2)
 > **Code Identifiers:** addnumbers (2)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** template (1)
@@ -1113,7 +1114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), match. (2), match = (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), hit (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** firstmatchof (1)
 > **Speakers:** - [instructor] (1)
@@ -1121,7 +1122,7 @@ created: 2026-04-29
 
 ### 3. Source Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a local repository
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-local-repository?u=76281980)
@@ -1168,10 +1169,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (4), [[Xcode]] (3), [[GitHub]] (1), [[Bitbucket]] (1), hit (1)
 > **CLI Commands:** git (4)
 > **UI Navigation:** go to (2), click on (1)
 > **Tools:** github (1), bitbucket (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** xc15 (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1213,8 +1214,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (4), [[GitHub]] (4), cloud (2), [[Bitbucket]] (1), hit (1)
 > **Tools:** github (4), bitbucket (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1245,7 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[GitHub]] (1), hit (1)
 > **Tools:** github (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
@@ -1311,9 +1312,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), next (3), [[Xcode]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** right-click (1), go to (1), dropdown (1), click on (1)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1378,9 +1379,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (5), [[Xcode]] (2), hit (2)
 > **CLI Commands:** make (6)
 > **UI Navigation:** dropdown (1), click on (1)
-> **Code Keywords:** class. (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1435,7 +1436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), delete (5), let (1)
+> **Frameworks & Libraries:** feature (7), hit (4)
 > **UI Navigation:** switch to (1), go to (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -1510,8 +1511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), feature (2), [[Swift (Programming Language)|Swift]] (2), [[Git]] (1), next (1)
 > **UI Navigation:** switch to (2), go to (2), in the toolbar (1), click on (1), dropdown (1)
-> **Code Keywords:** switch (3), let (2)
 > **File Paths:** contentview.swift (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** git (1)
@@ -1521,7 +1522,7 @@ created: 2026-04-29
 
 ### 4. Storyboard Design Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Interface Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980)
@@ -1604,8 +1605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (3), hit (3), next (2), product (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** ios (3), macos (3)
-> **Code Keywords:** interface (4), let (1)
 > **CLI Commands:** find (2), make (1), git (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Cross-References:** earlier in (1), we talked about (1)
@@ -1688,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (3), type. (1)
+> **Frameworks & Libraries:** application (2)
 > **UI Navigation:** double-click (2), drag and drop (1), in the toolbar (1), click on (1), go to (1)
 > **CLI Commands:** make (2), find (2)
 > **Speakers:** - [instructor] (1)
@@ -1778,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3), type, (2), super (1), this, (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), hit (2), next (1), data (1)
 > **Code Identifiers:** macos (2), viewdidload (2), ios (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is called (1)
@@ -1830,7 +1831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), return. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), hit (1)
 > **UI Navigation:** right-click (3), click on (2)
 > **Code Identifiers:** viewdidload (1), buttonwaspressed (1)
 > **Definitions:** is a  (2)
@@ -1930,9 +1931,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (4), application (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), class. (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** in other words (1)
 > **Best Practices:** make sure to (1)
@@ -2008,7 +2009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (3)
+> **Frameworks & Libraries:** next (2), application (1)
 > **Definitions:** means that (1), is called (1)
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** click on (1)
@@ -2018,7 +2019,7 @@ created: 2026-04-29
 
 ### 5. Debugging and Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980)
@@ -2083,7 +2084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1)
+> **Frameworks & Libraries:** application (4), next (2), [[Microsoft Word|Word]] (2), [[Xcode]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** ide (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** defined as (1)
@@ -2138,6 +2139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[Xcode]] (2), [[Microsoft Word|Word]] (2), hit (1)
 > **UI Navigation:** click on (2)
 > **Warnings:** keep in mind (1), warning (1)
 > **Definitions:** in other words (1)
@@ -2170,8 +2172,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (1), feature (1)
 > **UI Navigation:** right-click (2), select the (1), go to (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** gettext (1), getthetext (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2291,7 +2293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4), assert (2), delete (1), class. (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (5), [[Xcode]] (5), hit (4), next (4), [[Debugging]] (3)
 > **UI Navigation:** go to (4), click on (2), scroll down (1), select the (1)
 > **CLI Commands:** make (5)
 > **Analogies:** just like (2)
@@ -2302,7 +2304,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/next-steps?u=76281980)
@@ -2327,9 +2329,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (5), next (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** wwdc (1), ide (1)
-> **Code Keywords:** interface (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

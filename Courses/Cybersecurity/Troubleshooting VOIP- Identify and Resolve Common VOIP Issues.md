@@ -20,7 +20,7 @@ tags:
   - topic/security
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Troubleshooting%20VOIP-%20Identify%20and%20Resolve%20Common%20VOIP%20Issues.md)
@@ -39,34 +39,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Ensuring seamless communication
-  - What you need to know
+  - [Ensuring seamless communication](#ensuring-seamless-communication)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Understanding VoIP Fundamentals**](#1-understanding-voip-fundamentals) (5 videos)
-  - Recognizing key VoIP protocols
-  - Navigating NAT settings for VoIP
-  - Monitoring VoIP health with SNMP
-  - Ensuring security and authentication
-  - Resolving infrastructure misconfigurations
+  - [Recognizing key VoIP protocols](#recognizing-key-voip-protocols)
+  - [Navigating NAT settings for VoIP](#navigating-nat-settings-for-voip)
+  - [Monitoring VoIP health with SNMP](#monitoring-voip-health-with-snmp)
+  - [Ensuring security and authentication](#ensuring-security-and-authentication)
+  - [Resolving infrastructure misconfigurations](#resolving-infrastructure-misconfigurations)
 - [**2. Enhancing VoIP Performance**](#2-enhancing-voip-performance) (4 videos)
-  - Tuning network devices
-  - Ensuring quality of service (QoS)
-  - Optimizing DNS services
-  - Preventing DNS configuration issues
+  - [Tuning network devices](#tuning-network-devices)
+  - [Ensuring quality of service (QoS)](#ensuring-quality-of-service-qos)
+  - [Optimizing DNS services](#optimizing-dns-services)
+  - [Preventing DNS configuration issues](#preventing-dns-configuration-issues)
 - [**3. Optimizing DHCP**](#3-optimizing-dhcp) (3 videos)
-  - Managing DHCP servers
-  - Provisioning DHCP
-  - Mitigating 66/150 errors
+  - [Managing DHCP servers](#managing-dhcp-servers)
+  - [Provisioning DHCP](#provisioning-dhcp)
+  - [Mitigating 66/150 errors](#mitigating-66150-errors)
 - [**4. Managing Common SIP Issues**](#4-managing-common-sip-issues) (4 videos)
-  - Resolving SIP registration issues
-  - Preventing setup and routing challenges
-  - Using a SIP proxy
-  - Identifying SIP communication issues
+  - [Resolving SIP registration issues](#resolving-sip-registration-issues)
+  - [Preventing setup and routing challenges](#preventing-setup-and-routing-challenges)
+  - [Using a SIP proxy](#using-a-sip-proxy)
+  - [Identifying SIP communication issues](#identifying-sip-communication-issues)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What’s next
+  - [What’s next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensuring seamless communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-seamless-communication?u=76281980)
@@ -91,8 +91,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Troubleshooting]] (1), dns (1), management (1), next (1)
 > **Env Vars:** dns (1), dhcp (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - voice (1)
 
 #### What you need to know
@@ -116,7 +116,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -125,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Understanding VoIP Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognizing key VoIP protocols
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/recognizing-key-voip-protocols?u=76281980)
@@ -224,8 +223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), application (1), management (1), [[Security]] (1), [[Real-Time]] (1)
 > **Env Vars:** sip (9), rtp (6), tcp (2), udp (1)
-> **Code Keywords:** let (5), private (1), public (1), switch (1), finally, (1)
 > **Analogies:** such as (5), similar to (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Ports:** port 5060 (1), port 5061 (1)
@@ -334,8 +333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), [[Wireshark]] (3), [[Security]] (2)
 > **Env Vars:** nat (21), sip (10), stun (7), turn (6), ice (5)
-> **Code Keywords:** public (8), let (5), pass (3), private (3), case, (3)
 > **Analogies:** such as (5)
 > **UI Navigation:** go to (2), double-click (1), scroll down (1)
 > **Prerequisites:** setup (2), set up (1)
@@ -430,8 +429,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), traffic (3), data (2), [[Performance Metrics]] (1), next (1)
 > **Env Vars:** snmp (13), set (1), smmp (1), rtp (1), pbx (1)
-> **Code Keywords:** let (4), finally, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **API Endpoints:** get  (1)
@@ -486,8 +485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Real-Time]] (2), next (1), [[Troubleshooting]] (1)
 > **Env Vars:** stir (8), shaken (8), sip (4), rtp (1)
-> **Code Keywords:** let (4), private (1), module (1), include: (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
@@ -540,8 +539,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (3), [[Troubleshooting]] (2), [[Security]] (1), traffic (1), next (1)
 > **Env Vars:** sip (18), nat (4), uri (1), pbx (1), invite (1)
-> **Code Keywords:** public (2), let (2), switch (1)
 > **Warnings:** troubleshoot (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -551,7 +550,7 @@ created: 2026-04-29
 
 ### 2. Enhancing VoIP Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tuning network devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980)
@@ -658,7 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), finally, (1), switch (1)
+> **Frameworks & Libraries:** traffic (19), [[Wireshark]] (4), [[Statistics]] (2), next (1), [[Routing]] (1)
 > **Analogies:** such as (3), for example (2)
 > **UI Navigation:** go to (2), right-click (1), double-click (1)
 > **CLI Commands:** make (2), find (1)
@@ -767,8 +766,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (15), next (3), lan (1), [[Troubleshooting]] (1), data (1)
 > **Env Vars:** dscp (6), lan (1), wan (1), red (1)
-> **Code Keywords:** let (6), require (1), interface (1)
 > **Versions:** version 4 (3), version 6 (2)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** find (1), make (1)
@@ -849,8 +848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (26), [[Domain Name System (DNS)|Domain name system]] (1), [[Google]] (1), next (1), management (1)
 > **Env Vars:** dns (26), sip (4), aaaa (1), naptr (1), txt (1)
-> **Code Keywords:** let (5), public (2), this. (1)
 > **Analogies:** for example (3), such as (2)
 > **Prerequisites:** setup (2), configure (1)
 > **CLI Commands:** make (2)
@@ -931,8 +930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (29), [[Routing]] (2), [[Google]] (1), data (1), [[Security]] (1)
 > **Env Vars:** dns (29), sip (5), pbx (1), naptr (1)
-> **Code Keywords:** this, (5), let (2), public (1), switch (1), finally, (1)
 > **Analogies:** such as (5), for example (3)
 > **Prerequisites:** configure (2), setup (2), set up (1)
 > **URLs:** [provider.com](https://provider.com) (1)
@@ -942,7 +941,7 @@ created: 2026-04-29
 
 ### 3. Optimizing DHCP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing DHCP servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980)
@@ -1005,8 +1004,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), management (2), [[IP Addressing]] (1), [[Databases]] (1), next (1)
 > **Env Vars:** dhcp (16)
-> **Code Keywords:** let (6), this, (2), interface (1), finally, (1)
 > **Analogies:** such as (2)
 > **Best Practices:** best practice (1), it's best to (1)
 > **Prerequisites:** configure (1)
@@ -1089,8 +1088,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), traffic (4), [[Local Area Network (LAN)|Local area network]] (2), management (1), next (1)
 > **Env Vars:** dhcp (24), dns (5), mac (1), vlan (1)
-> **Code Keywords:** let (3), require (1), finally, (1)
 > **Analogies:** such as (2), just like (1), for example (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** configure (2)
@@ -1183,8 +1182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (2), next (1), [[Server Configuration]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** dhcp (17), tftp (7), dhc (1), url (1), hcp (1)
-> **Code Keywords:** let (5), static (1), require (1), finally, (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** open the (1), scroll down (1)
 > **Analogies:** for example (1), such as (1)
@@ -1195,7 +1194,7 @@ created: 2026-04-29
 
 ### 4. Managing Common SIP Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resolving SIP registration issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-sip-registration-issues?u=76281980)
@@ -1296,8 +1295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), next (2), [[Wireshark]] (2), dns (1), [[Security]] (1)
 > **Env Vars:** sip (27), nat (4), rtp (2), pbx (1), stun (1)
-> **Code Keywords:** let (4), this, (4), private (1), pass (1), finally, (1)
 > **Analogies:** such as (5), for example (1)
 > **Prerequisites:** configure (2), you'll need (1), setup (1)
 > **CLI Commands:** find (2), make (1)
@@ -1373,9 +1372,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (4), traffic (3), dns (3), data (1), [[Hardware]] (1)
 > **Env Vars:** sip (17), nat (4), dns (3), rtp (3), refer (1)
 > **Prerequisites:** setup (6), configure (4)
-> **Code Keywords:** let (3), this, (2)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** best practice (1)
@@ -1464,8 +1463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), [[Routing]] (6), [[Security]] (2), [[Troubleshooting]] (2), cloud (1)
 > **Env Vars:** sip (29), nat (5), rtp (3), invite (3), subscribe (2)
-> **Code Keywords:** let (5), this, (1)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** dsiprouter (1)
@@ -1552,8 +1551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), next (1), [[Routing]] (1), [[Wireshark]] (1), traffic (1)
 > **Env Vars:** sip (15), nat (2), pcm (1), pcmu (1), e911 (1)
-> **Code Keywords:** let (5), export, (1), this, (1), finally, (1), private (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** setup (2)
@@ -1564,7 +1563,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What’s next
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980)
@@ -1591,9 +1590,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (1), dns (1), management (1), [[Routing]] (1), [[Wireshark]] (1)
 > **Env Vars:** dhcp (2), sip (2), nat (1), dns (1)
 > **Prerequisites:** setup (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - thank (1)
 
 

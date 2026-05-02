@@ -37,7 +37,7 @@ tags:
   - skill/r-programming-language
   - skill/data-mapping
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Creating%20Maps%20with%20R.md)
@@ -56,62 +56,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Why create maps with R?
-  - Base knowledge
-  - GitHub repository and exercise files
+  - [Why create maps with R?](#why-create-maps-with-r)
+  - [Base knowledge](#base-knowledge)
+  - [GitHub repository and exercise files](#github-repository-and-exercise-files)
 - [**1. Mapping Fundamentals**](#1-mapping-fundamentals) (7 videos)
-  - How to choose a map
-  - Geo marker and scatter plots
-  - Geo bubble charts
-  - Choropleth: Shaded area maps
-  - Hexbin maps or hexagonally binned choropleth
-  - Dot density
-  - Cartograms: Distorted area maps
+  - [How to choose a map](#how-to-choose-a-map)
+  - [Geo marker and scatter plots](#geo-marker-and-scatter-plots)
+  - [Geo bubble charts](#geo-bubble-charts)
+  - [Choropleth: Shaded area maps](#choropleth-shaded-area-maps)
+  - [Hexbin maps or hexagonally binned choropleth](#hexbin-maps-or-hexagonally-binned-choropleth)
+  - [Dot density](#dot-density)
+  - [Cartograms: Distorted area maps](#cartograms-distorted-area-maps)
 - [**2. Processing GIS Data from Excel**](#2-processing-gis-data-from-excel) (5 videos)
-  - Standardize country names with {countrycode}
-  - Join shapefiles with data in Excel files
-  - Convert addresses to coordinates with geocoding
-  - Challenge: Geolocate all US state capitol buildings
-  - Solution: Geolocate all US state capitol buildings
+  - [Standardize country names with {countrycode}](#standardize-country-names-with-countrycode)
+  - [Join shapefiles with data in Excel files](#join-shapefiles-with-data-in-excel-files)
+  - [Convert addresses to coordinates with geocoding](#convert-addresses-to-coordinates-with-geocoding)
+  - [Challenge: Geolocate all US state capitol buildings](#challenge-geolocate-all-us-state-capitol-buildings)
+  - [Solution: Geolocate all US state capitol buildings](#solution-geolocate-all-us-state-capitol-buildings)
 - [**3. Working with GIS Data Formats**](#3-working-with-gis-data-formats) (5 videos)
-  - GIS data formats: Raster or vector
-  - Vector GIS data: sf and sp
-  - Work with sf datasets and the tidyverse
-  - Challenge: Visualizing continent populations
-  - Solution: Visualizing continent populations
+  - [GIS data formats: Raster or vector](#gis-data-formats-raster-or-vector)
+  - [Vector GIS data: sf and sp](#vector-gis-data-sf-and-sp)
+  - [Work with sf datasets and the tidyverse](#work-with-sf-datasets-and-the-tidyverse)
+  - [Challenge: Visualizing continent populations](#challenge-visualizing-continent-populations)
+  - [Solution: Visualizing continent populations](#solution-visualizing-continent-populations)
 - [**4. Static Maps with ggplot2**](#4-static-maps-with-ggplot2) (10 videos)
-  - Use geom_sf to visualize geo locations
-  - ggplot2 choropleth and continuous data
-  - ggplot2 choropleth and discrete data
-  - Label maps with ggrepel package
-  - Zoom into regions with coords_sf()
-  - Transform CRS with coord_sf()
-  - Challenge: Label a geobubble chart of Germany's biggest cities
-  - Solution: Label a geobubble chart of Germany's biggest cities
-  - Challenge: Visualize state coastline length with choropleth
-  - Solution: Visualize state coastline length with choropleth
+  - [Use geom_sf to visualize geo locations](#use-geom_sf-to-visualize-geo-locations)
+  - [ggplot2 choropleth and continuous data](#ggplot2-choropleth-and-continuous-data)
+  - [ggplot2 choropleth and discrete data](#ggplot2-choropleth-and-discrete-data)
+  - [Label maps with ggrepel package](#label-maps-with-ggrepel-package)
+  - [Zoom into regions with coords_sf()](#zoom-into-regions-with-coords_sf)
+  - [Transform CRS with coord_sf()](#transform-crs-with-coord_sf)
+  - [Challenge: Label a geobubble chart of Germany's biggest cities](#challenge-label-a-geobubble-chart-of-germanys-biggest-cities)
+  - [Solution: Label a geobubble chart of Germany's biggest cities](#solution-label-a-geobubble-chart-of-germanys-biggest-cities)
+  - [Challenge: Visualize state coastline length with choropleth](#challenge-visualize-state-coastline-length-with-choropleth)
+  - [Solution: Visualize state coastline length with choropleth](#solution-visualize-state-coastline-length-with-choropleth)
 - [**5. Interactive Maps with Leaflet**](#5-interactive-maps-with-leaflet) (10 videos)
-  - The basics of using Leaflet
-  - Use Leaflet to visualize geo locations
-  - Add labels and pop-ups to Leaflet maps
-  - Leaflet choropleth and continuous data
-  - Leaflet choropleth and discontinuous data
-  - Set a background color with leaflet.extras
-  - Challenge: Add pop-up labels to a map of German cities
-  - Solution: Add pop-up labels to a map of German cities
-  - Challenge: Interactive choropleth of state coastline length
-  - Solution: Interactive choropleth of state coastline length
+  - [The basics of using Leaflet](#the-basics-of-using-leaflet)
+  - [Use Leaflet to visualize geo locations](#use-leaflet-to-visualize-geo-locations)
+  - [Add labels and pop-ups to Leaflet maps](#add-labels-and-pop-ups-to-leaflet-maps)
+  - [Leaflet choropleth and continuous data](#leaflet-choropleth-and-continuous-data)
+  - [Leaflet choropleth and discontinuous data](#leaflet-choropleth-and-discontinuous-data)
+  - [Set a background color with leaflet.extras](#set-a-background-color-with-leafletextras)
+  - [Challenge: Add pop-up labels to a map of German cities](#challenge-add-pop-up-labels-to-a-map-of-german-cities)
+  - [Solution: Add pop-up labels to a map of German cities](#solution-add-pop-up-labels-to-a-map-of-german-cities)
+  - [Challenge: Interactive choropleth of state coastline length](#challenge-interactive-choropleth-of-state-coastline-length)
+  - [Solution: Interactive choropleth of state coastline length](#solution-interactive-choropleth-of-state-coastline-length)
 - [**6. CRS, Projections, and Map Tiles**](#6-crs-projections-and-map-tiles) (4 videos)
-  - Base maps and tiles
-  - What are projections and CRS?
-  - Geographics vs. projected CRS
-  - How to choose CRS and use them with {sf}
+  - [Base maps and tiles](#base-maps-and-tiles)
+  - [What are projections and CRS?](#what-are-projections-and-crs)
+  - [Geographics vs. projected CRS](#geographics-vs-projected-crs)
+  - [How to choose CRS and use them with {sf}](#how-to-choose-crs-and-use-them-with-sf)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What else can you learn about creating maps in R?
+  - [What else can you learn about creating maps in R?](#what-else-can-you-learn-about-creating-maps-in-r)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why create maps with R?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/why-create-maps-with-r?u=76281980)
@@ -134,8 +134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), gis (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** static (1), let (1)
 > **Env Vars:** gis (1)
 > **Speakers:** - [charlie] (1)
 
@@ -172,6 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[RStudio]] (2), data (2)
 > **Code Identifiers:** read_csv (1), read_excel (1)
 > **Speakers:** - [instructor] (1)
 
@@ -218,11 +219,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Git]] (1), [[RStudio]] (1)
 > **UI Navigation:** click on (3), go to (2), dropdown (1), select the (1), double-click (1)
 > **CLI Commands:** git (1), unzip (1), find (1)
 > **Env Vars:** zip (2)
 > **Tools:** github (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -230,7 +231,7 @@ created: 2026-04-29
 
 ### 1. Mapping Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to choose a map
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-a-map?u=76281980)
@@ -353,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), database (2), [[Google]] (1)
 > **Definitions:** is a  (4), known as (1)
-> **Code Keywords:** let (3), case, (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** for instance (1)
@@ -425,7 +426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), let (1), this. (1)
+> **Frameworks & Libraries:** data (2), [[Google]] (2), next (1), generic (1), [[Zoom]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** vsd (1)
@@ -478,9 +479,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1)
 > **Analogies:** similar to (1), for instance (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -543,6 +544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Statistics]] (1), [[Forms]] (1)
 > **CLI Commands:** find (7)
 > **URLs:** [colorbrewer2.org](https://colorbrewer2.org) (1)
 > **Definitions:** is a  (1)
@@ -632,7 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), this, (1)
+> **Frameworks & Libraries:** traffic (3), data (2), next (1), feature (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -694,9 +696,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (1), data (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - this (1)
@@ -744,7 +746,7 @@ created: 2026-04-29
 
 ### 2. Processing GIS Data from Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Standardize country names with {countrycode}
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/standardize-country-names-with-countrycode?u=76281980)
@@ -781,9 +783,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** usa (2)
 > **Analogies:** for instance (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -890,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4)
 > **Code Identifiers:** world_sf (2), country_name (2), world_gdp (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** aus (1)
@@ -1032,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (4), for, (2), require (1), this, (1)
+> **Frameworks & Libraries:** api (8), [[Microsoft Excel|Excel]] (3), data (3), [[Analytics]] (1), [[Tokens]] (1)
 > **Env Vars:** api (8), locationiq_api_key (1)
 > **Code Identifiers:** addresses_geocoded (2), international_addresses (1), street_address (1), post_code (1), st_as_sf (1)
 > **UI Navigation:** click on (2), open the (2), go to (1)
@@ -1060,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), function (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** usa (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** you'll need (1)
@@ -1140,7 +1142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), this. (1), default. (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), feature (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** usa (1)
 > **Speakers:** - okay (1)
@@ -1149,7 +1151,7 @@ created: 2026-04-29
 
 ### 3. Working with GIS Data Formats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GIS data formats: Raster or vector
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/gis-data-formats-raster-or-vector?u=76281980)
@@ -1216,9 +1218,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), gis (8)
 > **Env Vars:** gis (8)
 > **Definitions:** means that (2), is a  (2)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), similar to (1)
 > **Prerequisites:** you'll need (1), required to (1)
@@ -1251,9 +1253,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), gis (2)
 > **Env Vars:** gis (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1337,7 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6)
+> **Frameworks & Libraries:** data (9), feature (3)
 > **Env Vars:** csv (1)
 > **Speakers:** - let (1)
 
@@ -1356,7 +1358,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), function (1)
 > **Code Identifiers:** group_by (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1412,7 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3)
+> **Frameworks & Libraries:** data (5)
 > **Code Identifiers:** pop_est (3), world_sf (1), left_join (1), sf_objects (1), sf_object (1)
 > **CLI Commands:** rm (1)
 > **Speakers:** - [instructor] (1)
@@ -1421,7 +1422,7 @@ created: 2026-04-29
 
 ### 4. Static Maps with ggplot2
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use geom_sf to visualize geo locations
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/use-geom-sf-to-visualize-geo-locations?u=76281980)
@@ -1540,7 +1541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), this. (1), this, (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Code Identifiers:** geom_sf (2), brazil_sf (2), brazil_cities (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (1), find (1)
@@ -1694,7 +1695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5), override (2)
+> **Frameworks & Libraries:** data (7)
 > **Env Vars:** aes (4)
 > **CLI Commands:** make (3)
 > **Definitions:** stands for (1), is called (1)
@@ -1843,7 +1844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), static (2), this. (1), throw (1)
+> **Frameworks & Libraries:** data (4), [[Zoom]] (2)
 > **File Paths:** d.c (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** aes (2)
@@ -1961,8 +1962,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10)
 > **Code Identifiers:** st_coordinates (4), brazil_cities (4), geom_label_repel (4), st_drop_geometry (3), brazil_cities_df (2)
-> **Code Keywords:** let (6), function (4), delete (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2048,7 +2049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1), function (1), this, (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), data (2)
 > **Analogies:** for instance (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - sometimes (1)
@@ -2102,8 +2103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), product (1)
 > **Env Vars:** crs (4), epsg (3)
-> **Code Keywords:** function (3), let (2), this, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -2218,8 +2219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (2)
 > **Code Identifiers:** germany_cities (3), germany_cities_df (3), geom_sf (2), geom_label_repel (2), st_drop_geometry (1)
-> **Code Keywords:** let (6), function (2)
 > **Env Vars:** true (1), false (1)
 > **CLI Commands:** make (1)
 > **Versions:** 3.0 (1)
@@ -2242,7 +2243,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2331,7 +2331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), override (2)
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** aes (3)
 > **Best Practices:** make sure to (1), don't forget (1)
 > **CLI Commands:** make (1)
@@ -2341,7 +2341,7 @@ created: 2026-04-29
 
 ### 5. Interactive Maps with Leaflet
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of using Leaflet
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980)
@@ -2422,7 +2422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (2), data (1)
 > **Code Identifiers:** world_sf (2), addprovidertiles (1), addpolygons (1)
 > **Env Vars:** html (4)
 > **Definitions:** is an  (2)
@@ -2556,7 +2556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (3), static (1)
+> **Frameworks & Libraries:** data (6), [[Zoom]] (3), [[Google]] (1)
 > **Code Identifiers:** brazil_cities (5), city_type (4), pal_city_type (3), addmarkers (2), addcirclemarkers (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1)
@@ -2641,7 +2641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (8), break, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), feature (2), data (2)
 > **Code Identifiers:** label_city_pop (2), city_name (1), big_mark (1)
 > **Env Vars:** html (3)
 > **UI Navigation:** open the (1), click on (1)
@@ -2783,7 +2783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (2), this, (2)
+> **Frameworks & Libraries:** data (8)
 > **Env Vars:** crs (4), hdml (2)
 > **UI Navigation:** scroll up (1), go to (1)
 > **CLI Commands:** find (1)
@@ -2917,7 +2917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (5)
+> **Frameworks & Libraries:** data (5), [[Zoom]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1), known as (1)
 > **UI Navigation:** go to (1)
@@ -2959,7 +2959,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1), let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - oftentimes (1)
 
@@ -2980,7 +2979,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Add pop-up labels to a map of German cities
@@ -3092,7 +3090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (4)
+> **Frameworks & Libraries:** data (2), next (1), [[HTML]] (1)
 > **Code Identifiers:** germany_cities (4), city_type (4), pal_city_type (3), popup_city_pop (2), colorfactor (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Env Vars:** html (1)
@@ -3114,6 +3112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3219,7 +3218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), function (9), break, (1)
+> **Frameworks & Libraries:** next (5), data (2)
 > **Env Vars:** hdml (4)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** make (2)
@@ -3230,7 +3229,7 @@ created: 2026-04-29
 
 ### 6. CRS, Projections, and Map Tiles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Base maps and tiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980)
@@ -3363,7 +3362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (2), for { (1), static (1), from { (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Google]] (3), api (2), feature (1), [[Search]] (1)
 > **Code Identifiers:** annotation_map_tile (2), geom_sf (2), brazil_sf (1), addprovidertiles (1), satelliteday (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
@@ -3437,8 +3436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Google]] (2), feature (1), product (1), data (1)
 > **Env Vars:** crs (6), usa (2), epsg (2), gif (1)
-> **Code Keywords:** let (1), type. (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3489,9 +3488,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), gis (1)
 > **Env Vars:** crs (15), gis (1)
 > **Warnings:** be careful (2)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** st_buffer (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -3579,8 +3578,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (2), [[Search]] (1), [[Zoom]] (1)
 > **Env Vars:** crs (14), epsg (3), nzgd (3), wkt (2)
-> **Code Keywords:** let (6), this, (1)
 > **URLs:** [projectionwizard.org](https://projectionwizard.org) (2), [epsg.io](https://epsg.io) (1)
 > **UI Navigation:** go to (1), select the (1), scroll up (1)
 > **CLI Commands:** make (1), find (1)
@@ -3591,7 +3590,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What else can you learn about creating maps in R?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/what-else-can-you-learn-about-creating-maps-in-r?u=76281980)
@@ -3612,7 +3611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1)
+> **Frameworks & Libraries:** data (3), gis (1), [[Dashboards]] (1)
 > **Env Vars:** gis (1)
 > **Speakers:** - [charlie] (1)
 

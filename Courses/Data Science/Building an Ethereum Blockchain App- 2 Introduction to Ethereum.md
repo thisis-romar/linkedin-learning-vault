@@ -36,7 +36,7 @@ tags:
   - skill/ethereum
   - skill/application-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%202%20Introduction%20to%20Ethereum.md)
@@ -55,20 +55,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. What Is Ethereum?**](#1-what-is-ethereum) (10 videos)
-  - Introduction to Ethereum
-  - Ethereum in financial services
-  - Ethereum in digital identity management
-  - Ethereum in industry applications
-  - Ethereum in government
-  - Ethereum smart contracts
-  - Ether (ETH) and the initial coin offering (ICO)
-  - Decentralized autonomous organization (DAO)
-  - The Ethereum ecosystem
-  - Building blockchain apps
+  - [Introduction to Ethereum](#introduction-to-ethereum)
+  - [Ethereum in financial services](#ethereum-in-financial-services)
+  - [Ethereum in digital identity management](#ethereum-in-digital-identity-management)
+  - [Ethereum in industry applications](#ethereum-in-industry-applications)
+  - [Ethereum in government](#ethereum-in-government)
+  - [Ethereum smart contracts](#ethereum-smart-contracts)
+  - [Ether (ETH) and the initial coin offering (ICO)](#ether-eth-and-the-initial-coin-offering-ico)
+  - [Decentralized autonomous organization (DAO)](#decentralized-autonomous-organization-dao)
+  - [The Ethereum ecosystem](#the-ethereum-ecosystem)
+  - [Building blockchain apps](#building-blockchain-apps)
 
 ### 1. What Is Ethereum?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Ethereum
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980)
@@ -133,8 +133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (13), [[Ethereum]] (6), [[Cryptocurrency]] (4), [[Microsoft Word|Word]] (4), [[Smart Contracts]] (3)
 > **Definitions:** is an  (3), in other words (1), is a  (1), means that (1)
-> **Code Keywords:** let (2), implements (1)
 > **CLI Commands:** find (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - in (1)
@@ -326,8 +326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (14), [[Blockchain]] (9), [[Cryptocurrency]] (9), [[Tokens]] (4), data (2)
 > **Definitions:** means that (2), in other words (1), is called (1), is a  (1), basically means (1)
-> **Code Keywords:** let (2), continue (1), type. (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1)
@@ -442,7 +442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), this, (1), private (1), else. (1)
+> **Frameworks & Libraries:** [[Ethereum]] (12), [[Blockchain]] (4), data (3), management (1), [[IoT]] (1)
 > **Definitions:** in other words (2), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** erc (1)
@@ -582,7 +582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (1), let (1)
+> **Frameworks & Libraries:** [[Blockchain]] (14), data (9), product (7), [[Ethereum]] (5), [[Smart Contracts]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** ehr (2)
@@ -651,8 +651,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (9), [[Ethereum]] (4), application (2), [[Cryptocurrency]] (1), [[Tokens]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - remember (1)
@@ -722,10 +722,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (10), [[Ethereum]] (7), [[Smart Contracts]] (5), node (5), data (4)
 > **Env Vars:** evm (11), evms (1)
 > **CLI Commands:** node (5)
 > **Definitions:** in other words (1), is a  (1), is called (1), means that (1)
-> **Code Keywords:** implements (1)
 > **Speakers:** - so (1)
 
 #### Ether (ETH) and the initial coin offering (ICO)
@@ -845,7 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), public (5), let (2), case, (1), raise (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (14), [[Ethereum]] (8), business (7), [[Blockchain]] (5), [[Tokens]] (4)
 > **Definitions:** is a  (3), in other words (3), is an  (1)
 > **Env Vars:** ico (2), eth (1), ipo (1)
 > **CLI Commands:** make (3)
@@ -914,9 +914,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), [[Blockchain]] (3), [[Ethereum]] (2), [[Smart Contracts]] (2)
 > **Env Vars:** dao (4), ico (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** raise (1), new, (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Cross-References:** we talked about (1)
@@ -1036,7 +1036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (4), private (3), let (2), interface (2), function (1)
+> **Frameworks & Libraries:** [[Blockchain]] (20), [[Ethereum]] (8), data (6), database (2), [[Smart Contracts]] (2)
 > **CLI Commands:** make (7)
 > **Env Vars:** evm (5), ide (2)
 > **Definitions:** is a  (2), in other words (1), is called (1), stands for (1)
@@ -1156,10 +1156,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (14), data (12), application (2), node (2), [[Fetch]] (2)
 > **CLI Commands:** node (2), make (2), find (1), go build (1)
 > **Warnings:** be aware (4), keep in mind (1), be careful (1)
 > **Definitions:** means that (4), is a  (1)
-> **Code Keywords:** let (1), finally, (1), public (1)
 > **Env Vars:** pin (1)
 > **Speakers:** - before (1)
 

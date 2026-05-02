@@ -43,7 +43,7 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Data%20Analytics-%201%20Foundations.md)
@@ -62,69 +62,69 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Beginning your data analysis journey
-  - What you should know
-  - Using the exercise files
+  - [Beginning your data analysis journey](#beginning-your-data-analysis-journey)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Getting Started with Data Analysis**](#1-getting-started-with-data-analysis) (5 videos)
-  - Defining data analysis and data analyst
-  - Discovering if you are an analyst
-  - Organizational roles in data
-  - Understanding types of data job roles
-  - Discovering skills of the data analyst
+  - [Defining data analysis and data analyst](#defining-data-analysis-and-data-analyst)
+  - [Discovering if you are an analyst](#discovering-if-you-are-an-analyst)
+  - [Organizational roles in data](#organizational-roles-in-data)
+  - [Understanding types of data job roles](#understanding-types-of-data-job-roles)
+  - [Discovering skills of the data analyst](#discovering-skills-of-the-data-analyst)
 - [**2. Fundamentals of Data Understanding**](#2-fundamentals-of-data-understanding) (7 videos)
-  - Learning to identify data
-  - Learning about data fields and types
-  - Dealing with the data you don't have
-  - Learning syntax
-  - Learning basic SQL statements
-  - Challenge: Reading SQL
-  - Solution: Reading SQL
+  - [Learning to identify data](#learning-to-identify-data)
+  - [Learning about data fields and types](#learning-about-data-fields-and-types)
+  - [Dealing with the data you don't have](#dealing-with-the-data-you-dont-have)
+  - [Learning syntax](#learning-syntax)
+  - [Learning basic SQL statements](#learning-basic-sql-statements)
+  - [Challenge: Reading SQL](#challenge-reading-sql)
+  - [Solution: Reading SQL](#solution-reading-sql)
 - [**3. Key Elements to Understand when Starting Data Analysis**](#3-key-elements-to-understand-when-starting-data-analysis) (8 videos)
-  - Learning to interpret existing data
-  - Finding existing data
-  - Cleaning data
-  - Understanding data and workflow
-  - Understanding joins
-  - Working with joins and validation
-  - Challenge: Products are not categorized
-  - Solution: Products are not categorized
+  - [Learning to interpret existing data](#learning-to-interpret-existing-data)
+  - [Finding existing data](#finding-existing-data)
+  - [Cleaning data](#cleaning-data)
+  - [Understanding data and workflow](#understanding-data-and-workflow)
+  - [Understanding joins](#understanding-joins)
+  - [Working with joins and validation](#working-with-joins-and-validation)
+  - [Challenge: Products are not categorized](#challenge-products-are-not-categorized)
+  - [Solution: Products are not categorized](#solution-products-are-not-categorized)
 - [**4. Getting Started with a Data Project**](#4-getting-started-with-a-data-project) (6 videos)
-  - Getting started with data projects
-  - Discovering common beginner mistakes
-  - Learning Excel datasets
-  - Learning database datasets
-  - Maintaining original data
-  - Understanding truths
+  - [Getting started with data projects](#getting-started-with-data-projects)
+  - [Discovering common beginner mistakes](#discovering-common-beginner-mistakes)
+  - [Learning Excel datasets](#learning-excel-datasets)
+  - [Learning database datasets](#learning-database-datasets)
+  - [Maintaining original data](#maintaining-original-data)
+  - [Understanding truths](#understanding-truths)
 - [**5. Data Importing, Exporting, and Connections**](#5-data-importing-exporting-and-connections) (5 videos)
-  - Learning about data governance
-  - Understanding source data
-  - Working with flat files
-  - Working with connections
-  - Creating datasets for others
+  - [Learning about data governance](#learning-about-data-governance)
+  - [Understanding source data](#understanding-source-data)
+  - [Working with flat files](#working-with-flat-files)
+  - [Working with connections](#working-with-connections)
+  - [Creating datasets for others](#creating-datasets-for-others)
 - [**6. Getting Started with Data Cleaning and Modeling**](#6-getting-started-with-data-cleaning-and-modeling) (8 videos)
-  - Understanding ETL in data
-  - Cleaning data using Excel macros
-  - Cleaning data with Power Query
-  - Working with reusable data
-  - Modeling data with queries
-  - Modeling data in Power Query
-  - Challenge: Rename headers in Power Query
-  - Solution: Rename headers in Power Query
+  - [Understanding ETL in data](#understanding-etl-in-data)
+  - [Cleaning data using Excel macros](#cleaning-data-using-excel-macros)
+  - [Cleaning data with Power Query](#cleaning-data-with-power-query)
+  - [Working with reusable data](#working-with-reusable-data)
+  - [Modeling data with queries](#modeling-data-with-queries)
+  - [Modeling data in Power Query](#modeling-data-in-power-query)
+  - [Challenge: Rename headers in Power Query](#challenge-rename-headers-in-power-query)
+  - [Solution: Rename headers in Power Query](#solution-rename-headers-in-power-query)
 - [**7. Applying Common Techniques for All Data Analysts**](#7-applying-common-techniques-for-all-data-analysts) (8 videos)
-  - Convert data in Power Query
-  - Finding and removing duplicates
-  - Changing case and replace values
-  - Combining data with merge columns
-  - Creating logical functions
-  - Building aggregate datasets
-  - Challenge: Count and amounts of products
-  - Solution: Count and amounts of products
+  - [Convert data in Power Query](#convert-data-in-power-query)
+  - [Finding and removing duplicates](#finding-and-removing-duplicates)
+  - [Changing case and replace values](#changing-case-and-replace-values)
+  - [Combining data with merge columns](#combining-data-with-merge-columns)
+  - [Creating logical functions](#creating-logical-functions)
+  - [Building aggregate datasets](#building-aggregate-datasets)
+  - [Challenge: Count and amounts of products](#challenge-count-and-amounts-of-products)
+  - [Solution: Count and amounts of products](#solution-count-and-amounts-of-products)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More resources for your learning data analytics journey
+  - [More resources for your learning data analytics journey](#more-resources-for-your-learning-data-analytics-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beginning your data analysis journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (7), [[Statistics]] (1), [[LinkedIn]] (1), career (1)
 > **Speakers:** - if (1)
 
 #### What you should know
@@ -167,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), [[Linux]] (1)
 > **Speakers:** - there (1)
 
 #### Using the exercise files
@@ -184,7 +185,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
 > **Cross-References:** previous video (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -192,7 +192,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining data analysis and data analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980)
@@ -241,7 +241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (18), [[Microsoft Word|Word]] (3), [[Statistics]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -322,8 +322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), [[Decision-Making]] (2), next (1), [[Microsoft Word|Word]] (1), leadership (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** self (1), delete (1)
 > **Env Vars:** csv (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -384,8 +384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), business (1), [[Accountability]] (1), [[Microsoft Office|Office]] (1), [[Security]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -482,8 +482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (37), business (9), database (3), [[Business Intelligence (BI)|Business intelligence]] (2), [[Dashboards]] (1)
 > **CLI Commands:** find (6)
-> **Code Keywords:** public (1), let (1), require (1), for, (1)
 > **URLs:** [cio.com](https://cio.com) (1)
 > **Env Vars:** cio (1)
 > **Definitions:** refers to (1)
@@ -609,7 +609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (1), function (1)
+> **Frameworks & Libraries:** data (29), [[Soft Skills]] (1), power (1), bi (1), [[Tableau]] (1)
 > **Cross-References:** we talked about (1), we discussed (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -619,7 +619,7 @@ created: 2026-04-29
 
 ### 2. Fundamentals of Data Understanding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning to identify data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-identify-data?u=76281980)
@@ -724,7 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (1), from. (1)
+> **Frameworks & Libraries:** data (25), traffic (2), [[Zoom]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (3)
 > **Cross-References:** later in (1)
@@ -873,7 +873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (4), let (4), case. (1), from. (1)
+> **Frameworks & Libraries:** data (32), [[Microsoft Excel|Excel]] (11), database (4), [[Databases]] (2), [[SQL]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **Env Vars:** sql (2)
@@ -1001,7 +1001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), if. (2), type. (1), super (1)
+> **Frameworks & Libraries:** data (19), [[Microsoft Excel|Excel]] (3), career (1), hr (1), [[Decision-Making]] (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1094,7 +1094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), try. (1), interface (1)
+> **Frameworks & Libraries:** data (4), [[SQL]] (2), hit (1), career (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (2), gui (2), dos (1), concat (1), vba (1)
 > **Analogies:** just like (2), for example (2), imagine (1), it's like (1)
 > **CLI Commands:** find (4)
@@ -1227,9 +1227,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (16), data (8), next (3), [[Microsoft Excel|Excel]] (2), database (1)
 > **Env Vars:** sql (16), select (9), where (7), order (6), gui (1)
 > **SQL:** select (9), where (7), order by (6)
-> **Code Keywords:** let (4), from, (2), interface (1), delete (1), type, (1)
 > **Definitions:** is a  (3), stands for (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1265,6 +1265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), next (1)
 > **Env Vars:** sql (4)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
@@ -1316,15 +1317,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), data (2), next (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Key Elements to Understand when Starting Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning to interpret existing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-interpret-existing-data?u=76281980)
@@ -1407,8 +1408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), business (2), [[Databases]] (2), next (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
@@ -1507,7 +1508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** data (13), database (3), [[Microsoft Excel|Excel]] (1), next (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - [robin] (1)
@@ -1557,9 +1558,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), business (1)
 > **Env Vars:** trim (1), clean (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1691,7 +1692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), super (1)
+> **Frameworks & Libraries:** data (14), product (3), management (1)
 > **Env Vars:** crm (2), pdf (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
@@ -1764,8 +1765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (2), [[Databases]] (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** vlookups (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1925,7 +1926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (2), this. (2), type, (2), delete (1)
+> **Frameworks & Libraries:** product (22), data (11), [[Microsoft Products|Products]] (11), [[Engineering]] (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
 > **Warnings:** common mistake (2), be aware (1)
@@ -1956,6 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), database (2), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (mellow music) (1)
@@ -2031,7 +2033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1)
+> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (5), hit (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -2041,7 +2043,7 @@ created: 2026-04-29
 
 ### 4. Getting Started with a Data Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with data projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980)
@@ -2110,7 +2112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (1), throw (1)
+> **Frameworks & Libraries:** data (8), [[React.js|React]] (1), [[Microsoft Word|Word]] (1), career (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
 > **Best Practices:** best practice (1)
@@ -2219,6 +2221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), product (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2384,7 +2387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** data (16), product (2), [[Zoom]] (2), [[Microsoft Excel|Excel]] (1), feature (1)
 > **UI Navigation:** go to (3), right-click (1), click on (1)
 > **Definitions:** is called (1), is a  (1), means that (1)
 > **CLI Commands:** make (2)
@@ -2566,7 +2569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), super (1)
+> **Frameworks & Libraries:** database (9), data (3), [[Databases]] (1), business (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **CLI Commands:** make (2)
@@ -2699,7 +2702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), delete (2), case. (1), export. (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (2), next (1), hit (1), cloud (1)
 > **Env Vars:** csv (3), f12 (3)
 > **UI Navigation:** drag and drop (2), click on (2), double-click (1)
 > **CLI Commands:** make (2), find (1)
@@ -2782,9 +2785,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), business (9), [[Microsoft Products|Products]] (2), product (2), career (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - the (1)
@@ -2792,7 +2795,7 @@ created: 2026-04-29
 
 ### 5. Data Importing, Exporting, and Connections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning about data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980)
@@ -2881,8 +2884,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (41), management (1), [[Forms]] (1), career (1), [[Decision-Making]] (1)
 > **Env Vars:** sox (3), crm (1)
-> **Code Keywords:** public (1), protected (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -2962,7 +2965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (2), pass (2), let (2), protected (1), from. (1)
+> **Frameworks & Libraries:** data (32), hr (7), [[Databases]] (2), [[Human Resources (HR)|Human resources]] (2)
 > **CLI Commands:** find (4)
 > **Env Vars:** csv (3)
 > **Definitions:** is a  (1)
@@ -3153,7 +3156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12)
+> **Frameworks & Libraries:** data (36), [[Microsoft Excel|Excel]] (9), [[Microsoft Power Query|Power query]] (6), next (2), database (1)
 > **Env Vars:** csv (10)
 > **UI Navigation:** go to (5), navigate to (1), dropdown (1)
 > **Ports:** :23 (1), :27 (1), :30 (1), :01 (1)
@@ -3211,7 +3214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1)
+> **Frameworks & Libraries:** data (16), power (4), bi (4), [[Microsoft Excel|Excel]] (2), career (1)
 > **Env Vars:** odbc (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -3416,7 +3419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (3), from, (1), new. (1), switch (1)
+> **Frameworks & Libraries:** data (20), business (1), teams (1), [[Windows]] (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** go back to (3)
@@ -3425,7 +3428,7 @@ created: 2026-04-29
 
 ### 6. Getting Started with Data Cleaning and Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding ETL in data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-etl-in-data?u=76281980)
@@ -3474,8 +3477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), etl (9), career (1), business (1), [[Search]] (1)
 > **Env Vars:** etl (9)
-> **Code Keywords:** else. (1), super (1), this. (1), let (1)
 > **Definitions:** stands for (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -3655,7 +3658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (5), module (2), while, (1), this, (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (2), next (1), hit (1)
 > **UI Navigation:** go to (7)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is called (1)
@@ -3811,7 +3814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), delete (1), type, (1), type. (1)
+> **Frameworks & Libraries:** data (15), [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (4), hit (1), next (1)
 > **UI Navigation:** navigate to (1), go to (1), double-click (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -3940,8 +3943,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), business (1), power (1), bi (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (3), default, (1)
 > **URLs:** [geonames.org](https://geonames.org) (1)
 > **Env Vars:** eomonth (1)
 > **Speakers:** - [instructor] (1)
@@ -4141,7 +4144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** data (18), next (5), database (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -4376,7 +4379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type. (3), delete (3), type, (2), new. (2)
+> **Frameworks & Libraries:** data (29), [[Microsoft Power Query|Power query]] (6), hit (3), [[Microsoft Excel|Excel]] (2), database (1)
 > **UI Navigation:** go to (5), dropdown (2), select the (2), navigate to (1), drag and drop (1)
 > **Cross-References:** go back to (3)
 > **URLs:** [geonames.org](https://geonames.org) (1)
@@ -4410,6 +4413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2), data (1), next (1)
 > **Env Vars:** vba (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -4512,7 +4516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1), delete (1), return. (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Power Query|Power query]] (3), [[Windows]] (1), next (1), [[Automation]] (1)
 > **UI Navigation:** navigate to (2), go to (2), scroll down (1)
 > **Env Vars:** vba (1)
 > **Cross-References:** go back to (1)
@@ -4522,7 +4526,7 @@ created: 2026-04-29
 
 ### 7. Applying Common Techniques for All Data Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Convert data in Power Query
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980)
@@ -4603,7 +4607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), while, (1), let (1), type. (1), delete (1)
+> **Frameworks & Libraries:** data (22), [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (2), hit (1), product (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** means that (1), is a  (1)
@@ -4800,7 +4804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from. (1), this. (1)
+> **Frameworks & Libraries:** data (19), hit (4), product (3), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** go to (7), scroll down (2)
 > **Versions:** 7.95 (2), 8.58 (2), 0.64 (1), 8.59 (1), 78.76 (1)
 > **CLI Commands:** make (2)
@@ -4898,7 +4902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (4), let (3), function (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Power Query|Power query]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (1), imagine (1)
@@ -5011,8 +5015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Power Query|Power query]] (1), next (1)
 > **UI Navigation:** right-click (5), go to (4), click on (3)
-> **Code Keywords:** let (7), this, (1), delete (1), this. (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -5098,9 +5102,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), career (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (4), right-click (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** function (2), let (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -5207,7 +5211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), function (1), delete (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel|Excel]] (1), hit (1)
 > **UI Navigation:** go to (5), right-click (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -5232,6 +5236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
@@ -5306,8 +5311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), data (2), [[Microsoft Products|Products]] (2), [[Microsoft Power Query|Power query]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - i (1)
 > **Non-Speech:** (joyful music) (1)
@@ -5315,7 +5320,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More resources for your learning data analytics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980)
@@ -5342,7 +5347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (8), next (1), [[Relational Databases]] (1), [[Microsoft Power Query|Power query]] (1), [[Soft Skills]] (1)
 > **Speakers:** - [robin] (1)
 
 

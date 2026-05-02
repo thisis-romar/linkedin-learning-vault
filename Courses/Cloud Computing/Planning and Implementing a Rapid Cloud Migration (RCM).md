@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Planning%20and%20Implementing%20a%20Rapid%20Cloud%20Migration%20(RCM).md)
@@ -42,44 +42,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Overview of rapid migration
-  - What you should know
-  - What defines a crisis?
+  - [Overview of rapid migration](#overview-of-rapid-migration)
+  - [What you should know](#what-you-should-know)
+  - [What defines a crisis?](#what-defines-a-crisis)
 - [**1. Introduction to Crisis-Driven Rapid Migration**](#1-introduction-to-crisis-driven-rapid-migration) (5 videos)
-  - Understanding when to use rapid migration
-  - Understanding the risks of moving to the cloud quickly
-  - Rapid public cloud migration
-  - Rapid hybrid cloud migration
-  - Rapid multicloud migration
+  - [Understanding when to use rapid migration](#understanding-when-to-use-rapid-migration)
+  - [Understanding the risks of moving to the cloud quickly](#understanding-the-risks-of-moving-to-the-cloud-quickly)
+  - [Rapid public cloud migration](#rapid-public-cloud-migration)
+  - [Rapid hybrid cloud migration](#rapid-hybrid-cloud-migration)
+  - [Rapid multicloud migration](#rapid-multicloud-migration)
 - [**2. Selecting the Workloads**](#2-selecting-the-workloads) (3 videos)
-  - Good candidates for rapid migration
-  - Bad candidates for rapid migration
-  - Leveraging workload categories for rapid migration
+  - [Good candidates for rapid migration](#good-candidates-for-rapid-migration)
+  - [Bad candidates for rapid migration](#bad-candidates-for-rapid-migration)
+  - [Leveraging workload categories for rapid migration](#leveraging-workload-categories-for-rapid-migration)
 - [**3. Picking the Target Platform for Rapid Migration**](#3-picking-the-target-platform-for-rapid-migration) (4 videos)
-  - Leveraging public clouds in a rapid migration
-  - Leveraging hybrid clouds in a rapid migration
-  - Leveraging multicloud in a rapid migration
-  - Leveraging nontraditional clouds in a rapid migration
+  - [Leveraging public clouds in a rapid migration](#leveraging-public-clouds-in-a-rapid-migration)
+  - [Leveraging hybrid clouds in a rapid migration](#leveraging-hybrid-clouds-in-a-rapid-migration)
+  - [Leveraging multicloud in a rapid migration](#leveraging-multicloud-in-a-rapid-migration)
+  - [Leveraging nontraditional clouds in a rapid migration](#leveraging-nontraditional-clouds-in-a-rapid-migration)
 - [**4. Cloud-Based Tools for Rapid Migration**](#4-cloud-based-tools-for-rapid-migration) (2 videos)
-  - AWS migration tools
-  - Microsoft Azure migration tools
+  - [AWS migration tools](#aws-migration-tools)
+  - [Microsoft Azure migration tools](#microsoft-azure-migration-tools)
 - [**5. Setting Up a Rapid Migration Factory**](#5-setting-up-a-rapid-migration-factory) (4 videos)
-  - Rapid workload triage
-  - Rapid migration tools
-  - Rapid migration and DevOps
-  - Creating a rapid migration process
+  - [Rapid workload triage](#rapid-workload-triage)
+  - [Rapid migration tools](#rapid-migration-tools)
+  - [Rapid migration and DevOps](#rapid-migration-and-devops)
+  - [Creating a rapid migration process](#creating-a-rapid-migration-process)
 - [**6. Rapid Migration at Scale**](#6-rapid-migration-at-scale) (5 videos)
-  - Getting up to 100 applications and data sets migrated daily
-  - Organization and skill considerations
-  - Security considerations for rapid migration
-  - Governance considerations for rapid migration
-  - What you learned about rapid migration
+  - [Getting up to 100 applications and data sets migrated daily](#getting-up-to-100-applications-and-data-sets-migrated-daily)
+  - [Organization and skill considerations](#organization-and-skill-considerations)
+  - [Security considerations for rapid migration](#security-considerations-for-rapid-migration)
+  - [Governance considerations for rapid migration](#governance-considerations-for-rapid-migration)
+  - [What you learned about rapid migration](#what-you-learned-about-rapid-migration)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go from here with rapid migration
+  - [Where to go from here with rapid migration](#where-to-go-from-here-with-rapid-migration)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/overview-of-rapid-migration?u=76281980)
@@ -96,6 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), data (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -117,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Security]] (2), [[Enterprise Architecture]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What defines a crisis?
@@ -154,15 +156,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), data (1)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** require (2), public (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Crisis-Driven Rapid Migration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding when to use rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-when-to-use-rapid-migration?u=76281980)
@@ -257,10 +259,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), cloud (6), [[Databases]] (4), product (1), data (1)
 > **Analogies:** such as (7), for example (2)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), finally, (1), public (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -311,8 +313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), cloud (5), business (2), teams (2), database (1)
 > **Analogies:** such as (3), for instance (1), for example (1)
-> **Code Keywords:** finally, (2)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** rails (1)
 > **Speakers:** - [instructor] (1)
@@ -360,7 +362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), from. (1), for. (1)
+> **Frameworks & Libraries:** cloud (11), [[Security]] (3), data (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2)
 > **Env Vars:** ibm (1)
@@ -428,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (19), private (15), finally, (1), let (1)
+> **Frameworks & Libraries:** cloud (17), data (7), [[Hybrid Cloud]] (6), [[Security]] (6), [[Private Clouds]] (4)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -495,7 +497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (2), include, (1)
+> **Frameworks & Libraries:** cloud (10), data (5), [[Security]] (2), database (2), application (2)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** cmp (1)
 > **Definitions:** means that (1)
@@ -505,7 +507,7 @@ created: 2026-04-29
 
 ### 2. Selecting the Workloads
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Good candidates for rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980)
@@ -554,8 +556,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), application (4), [[Security]] (3), data (3), [[Linux]] (2)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** require (2), public (2)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** means that (1)
@@ -607,6 +609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), application (4), data (3), [[Security]] (3), database (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - applications (1)
@@ -670,6 +673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (13), cloud (11), [[SaaS|Software as a service]] (2), data (2), teams (1)
 > **Definitions:** means that (3), is a  (2), refers to (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -681,7 +685,7 @@ created: 2026-04-29
 
 ### 3. Picking the Target Platform for Rapid Migration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging public clouds in a rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980)
@@ -746,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (11), let (2), finally, (1), for, (1)
+> **Frameworks & Libraries:** cloud (12), [[Scalability]] (1), application (1), feature (1), database (1)
 > **Definitions:** means that (3), is a  (1)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -785,7 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (8), private (2)
+> **Frameworks & Libraries:** cloud (9), [[Private Clouds]] (1), data (1), [[Hybrid Cloud]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -822,8 +826,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Security]] (3), [[Private Clouds]] (1), database (1), management (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** public (2), private (1), pass (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** set up (1), required to (1)
 > **Speakers:** - [instructor] (1)
@@ -853,7 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** cloud (3), data (1), business (1)
 > **Env Vars:** msp (1), colo (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -861,7 +865,7 @@ created: 2026-04-29
 
 ### 4. Cloud-Based Tools for Rapid Migration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS migration tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980)
@@ -998,9 +1002,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), aws (9), cloud (5), [[Amazon Web Services (AWS)|Amazon web services]] (4), database (3)
 > **Env Vars:** aws (9), ec2 (2), diy (1), url (1)
 > **CLI Commands:** aws (9), find (1), make (1)
-> **Code Keywords:** let (5), import, (1), case, (1), public (1)
 > **Definitions:** in other words (2), stands for (1), is a  (1)
 > **Prerequisites:** set up (4)
 > **UI Navigation:** go to (1)
@@ -1124,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (5), case, (5), from, (1), try. (1)
+> **Frameworks & Libraries:** cloud (16), [[Microsoft Azure|Azure]] (8), data (8), [[Microsoft]] (5), aws (3)
 > **CLI Commands:** make (5), aws (3), find (3)
 > **Env Vars:** aws (3), sql (2), iot (1), csv (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1136,7 +1140,7 @@ created: 2026-04-29
 
 ### 5. Setting Up a Rapid Migration Factory
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rapid workload triage
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-workload-triage?u=76281980)
@@ -1175,6 +1179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), application (3)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1210,8 +1215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), cloud (1), [[Quality Assurance]] (1), [[Automation]] (1), [[Programming]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), from. (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1246,6 +1251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (9), cloud (4), [[DevSecOps]] (4), [[Automation]] (3), [[Security]] (2)
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (2)
 > **Definitions:** is called (1)
@@ -1274,14 +1280,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** application (3), data (3), [[Security]] (2), cloud (2), [[Automation]] (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Rapid Migration at Scale
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting up to 100 applications and data sets migrated daily
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980)
@@ -1322,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), include: (1)
+> **Frameworks & Libraries:** cloud (7), business (5), [[Microsoft Office|Office]] (2), [[Microsoft Products|Products]] (1), [[Security]] (1)
 > **Env Vars:** cbo (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1373,6 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), data (4), [[Security]] (4), aws (2), [[Microsoft]] (1)
 > **CLI Commands:** aws (2), make (2)
 > **Env Vars:** aws (2), ibm (1), iot (1)
 > **Analogies:** such as (3)
@@ -1412,7 +1419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), function (1)
+> **Frameworks & Libraries:** cloud (10), data (8), [[Security]] (5), [[Privacy]] (4), next (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1450,7 +1457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** cloud (7), [[Automation]] (2), [[Databases]] (1), data (1)
 > **Definitions:** refers to (2), is an  (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** cpu (1)
@@ -1493,8 +1500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), cloud (6), next (2), application (1), [[Security]] (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1), public (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** mvc (1)
 > **Speakers:** - [instructor] (1)
@@ -1502,7 +1509,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here with rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/where-to-go-from-here-with-rapid-migration?u=76281980)
@@ -1527,8 +1534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), cloud (2), power (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), public (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 

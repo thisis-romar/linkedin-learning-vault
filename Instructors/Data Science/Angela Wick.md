@@ -13,7 +13,7 @@ tags:
   - topic/artificial-intelligence
   - topic/security
   - topic/data-science
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Data%20Science/Angela%20Wick.md)

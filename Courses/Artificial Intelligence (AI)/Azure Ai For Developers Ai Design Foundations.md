@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20Ai%20For%20Developers%20Ai%20Design%20Foundations.md)
@@ -50,38 +50,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What this course is about
-  - Prerequisites
+  - [What this course is about](#what-this-course-is-about)
+  - [Prerequisites](#prerequisites)
 - [**1. Understanding Large Language Models**](#1-understanding-large-language-models) (2 videos)
-  - Introduction to large language models (LLMs)
-  - Choosing the right model
+  - [Introduction to large language models (LLMs)](#introduction-to-large-language-models-llms)
+  - [Choosing the right model](#choosing-the-right-model)
 - [**2. Grounding LLMs to Data**](#2-grounding-llms-to-data) (4 videos)
-  - How data grounding works
-  - Embeddings and vector search
-  - Connecting to structured data sources
-  - Preventing hallucination
+  - [How data grounding works](#how-data-grounding-works)
+  - [Embeddings and vector search](#embeddings-and-vector-search)
+  - [Connecting to structured data sources](#connecting-to-structured-data-sources)
+  - [Preventing hallucination](#preventing-hallucination)
 - [**3. Introduction to LLMOps**](#3-introduction-to-llmops) (3 videos)
-  - Running pilots with real users
-  - Evaluating your AI
-  - Monitoring your AI
+  - [Running pilots with real users](#running-pilots-with-real-users)
+  - [Evaluating your AI](#evaluating-your-ai)
+  - [Monitoring your AI](#monitoring-your-ai)
 - [**4. Ensuring the Safe and Responsible Operation of Your AI**](#4-ensuring-the-safe-and-responsible-operation-of-your-ai) (3 videos)
-  - Responsible AI concerns and their mitigations
-  - User experience and system prompt design
-  - Content safety
+  - [Responsible AI concerns and their mitigations](#responsible-ai-concerns-and-their-mitigations)
+  - [User experience and system prompt design](#user-experience-and-system-prompt-design)
+  - [Content safety](#content-safety)
 - [**5. Multimodal AI**](#5-multimodal-ai) (4 videos)
-  - Introduction to multimodal AI
-  - Allowing your AI to speak
-  - Enabling your AI to see
-  - General purpose models vs. task-specific models
+  - [Introduction to multimodal AI](#introduction-to-multimodal-ai)
+  - [Allowing your AI to speak](#allowing-your-ai-to-speak)
+  - [Enabling your AI to see](#enabling-your-ai-to-see)
+  - [General purpose models vs. task-specific models](#general-purpose-models-vs-task-specific-models)
 - [**6. Introduction to AI Agents**](#6-introduction-to-ai-agents) (2 videos)
-  - What is an AI agent?
-  - Single agent vs. multiple agents
+  - [What is an AI agent?](#what-is-an-ai-agent)
+  - [Single agent vs. multiple agents](#single-agent-vs-multiple-agents)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more
+  - [Learning more](#learning-more)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What this course is about
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6), power (2), [[Large Language Models (LLM)|Large language models]] (2), [[Microsoft Azure|Azure]] (2), data (1)
 > **Speakers:** - [marco] (1)
 
 #### Prerequisites
@@ -126,14 +126,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (1), [[Microsoft Azure|Azure]] (1), [[Programming]] (1), ai (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding Large Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to large language models (LLMs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980)
@@ -180,8 +180,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (6), [[Microsoft Copilot]] (2), [[Microsoft Word|Word]] (2), next (2), llm (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** new, (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -247,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[GitHub]] (2), application (2), [[LLaMA]] (2), prompt (1)
 > **Env Vars:** gpt (5)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** github (2)
@@ -259,7 +259,7 @@ created: 2026-04-29
 
 ### 2. Grounding LLMs to Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How data grounding works
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980)
@@ -344,8 +344,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (5), [[Azure AI Foundry]] (3), [[Search]] (3), [[Large Language Models (LLM)|Large language models]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** gpt (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
@@ -388,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (7), data (1), [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1), ai (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** set up (1)
@@ -463,7 +463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** product (4), data (3), [[Large Language Models (LLM)|Large language models]] (2), [[SQL]] (2), ai (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** sql (2), kql (1)
 > **URLs:** [little.net](https://little.net) (1)
@@ -520,7 +520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (2), api (2), [[Large Language Models (LLM)|Large language models]] (1), next (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** later in (1)
@@ -531,7 +531,7 @@ created: 2026-04-29
 
 ### 3. Introduction to LLMOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running pilots with real users
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/running-pilots-with-real-users?u=76281980)
@@ -544,6 +544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), application (2), [[Generative AI]] (1), prompt (1), [[Engineering]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Evaluating your AI
@@ -671,8 +672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), ai (5), [[GPT-4]] (3), [[Azure AI Foundry]] (2), web (2)
 > **Env Vars:** gpt (4), jsonl (3), sdk (1)
-> **Code Keywords:** continue (2), let (1), from, (1), this. (1), case. (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** we mentioned (2)
 > **Definitions:** is a  (2)
@@ -731,9 +732,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), ai (3), [[Tokens]] (3), traffic (3), [[Microsoft Azure|Azure]] (3)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** http (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** click on (1)
@@ -742,7 +743,7 @@ created: 2026-04-29
 
 ### 4. Ensuring the Safe and Responsible Operation of Your AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI concerns and their mitigations
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980)
@@ -767,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** ai (2), [[Large Language Models (LLM)|Large language models]] (1), [[User Experience (UX)|User experience]] (1), [[Responsible AI]] (1), application (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Speakers:** - [instructor] (1)
 
@@ -814,8 +815,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Microsoft Copilot|Copilot]] (2), application (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Copilot]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -914,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (2), self (1), case, (1), case. (1)
+> **Frameworks & Libraries:** ai (7), prompt (5), [[Microsoft Azure|Azure]] (4), [[Azure AI Foundry]] (3), application (2)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -926,7 +927,7 @@ created: 2026-04-29
 
 ### 5. Multimodal AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to multimodal AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-multimodal-ai?u=76281980)
@@ -945,7 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Allowing your AI to speak
@@ -1033,8 +1034,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Microsoft Azure|Azure]] (4), [[Azure AI Foundry]] (1), application (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - [instructor] (5), - [speaker] (4)
-> **Code Keywords:** super (3), let (2), this, (1), case, (1), require (1)
 > **Env Vars:** gpt (4)
 > **Analogies:** it's like (2), for example (1)
 
@@ -1069,10 +1070,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), ai (2), prompt (2), [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gpt (3)
 > **Analogies:** picture (2)
-> **Code Keywords:** while, (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1125,8 +1126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (3), [[Microsoft Azure|Azure]] (2), ai (2), web (1), [[Azure AI Foundry]] (1)
 > **Env Vars:** gpt (3), json (3), slats (1)
-> **Code Keywords:** interface (2), case. (1)
 > **CLI Commands:** find (1)
 > **Versions:** 62.40 (1)
 > **Definitions:** is a  (1)
@@ -1135,7 +1136,7 @@ created: 2026-04-29
 
 ### 6. Introduction to AI Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an AI agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980)
@@ -1228,8 +1229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), power (6), [[Microsoft Outlook|Outlook]] (4), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (3)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (2), function (1), case, (1)
 > **Env Vars:** api (1)
 > **Documentation:** spec (1)
 > **Definitions:** is a  (1)
@@ -1328,7 +1329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (2), this. (1), continue (1), case, (1)
+> **Frameworks & Libraries:** ai (3), prompt (3), [[Generative AI]] (2), [[Microsoft Azure|Azure]] (2), [[Search]] (2)
 > **CLI Commands:** make (2), rails (1)
 > **Cross-References:** in the last (1), earlier in (1), as you saw (1)
 > **Env Vars:** rfp (1), gpt (1)
@@ -1338,7 +1339,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980)
@@ -1359,6 +1360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Microsoft Azure|Azure]] (2), [[Azure AI Foundry]] (1), [[Microsoft]] (1), [[Search]] (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [instructor] (1)
 

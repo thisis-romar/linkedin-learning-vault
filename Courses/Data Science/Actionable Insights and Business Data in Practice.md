@@ -30,7 +30,7 @@ tags:
   - skill/data-analysis
   - skill/business-data-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Actionable%20Insights%20and%20Business%20Data%20in%20Practice.md)
@@ -49,35 +49,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - More about the course
-  - Accessing files
+  - [Welcome](#welcome)
+  - [More about the course](#more-about-the-course)
+  - [Accessing files](#accessing-files)
 - [**1. Focus on Actionable Insights**](#1-focus-on-actionable-insights) (9 videos)
-  - Identify actionable insights
-  - Challenge: Is it actionable?
-  - Solution: Is it actionable?
-  - Make insights actionable
-  - Challenge: Make it actionable
-  - Solution: Make it actionable
-  - Address ROI
-  - Challenge: What's the ROI?
-  - Solution: What's the ROI?
+  - [Identify actionable insights](#identify-actionable-insights)
+  - [Challenge: Is it actionable?](#challenge-is-it-actionable)
+  - [Solution: Is it actionable?](#solution-is-it-actionable)
+  - [Make insights actionable](#make-insights-actionable)
+  - [Challenge: Make it actionable](#challenge-make-it-actionable)
+  - [Solution: Make it actionable](#solution-make-it-actionable)
+  - [Address ROI](#address-roi)
+  - [Challenge: What's the ROI?](#challenge-whats-the-roi)
+  - [Solution: What's the ROI?](#solution-whats-the-roi)
 - [**2. Present Actionable Insights**](#2-present-actionable-insights) (9 videos)
-  - Choose and prepare graphics for insight
-  - Challenge: Graphics for insight
-  - Solution: Graphics for insight
-  - Include insights on slides
-  - Challenge: Insights on slides
-  - Solution: Insights on slides
-  - Arrange presentations for insight
-  - Challenge: Arrange for insight
-  - Solution: Arrange for insight
+  - [Choose and prepare graphics for insight](#choose-and-prepare-graphics-for-insight)
+  - [Challenge: Graphics for insight](#challenge-graphics-for-insight)
+  - [Solution: Graphics for insight](#solution-graphics-for-insight)
+  - [Include insights on slides](#include-insights-on-slides)
+  - [Challenge: Insights on slides](#challenge-insights-on-slides)
+  - [Solution: Insights on slides](#solution-insights-on-slides)
+  - [Arrange presentations for insight](#arrange-presentations-for-insight)
+  - [Challenge: Arrange for insight](#challenge-arrange-for-insight)
+  - [Solution: Arrange for insight](#solution-arrange-for-insight)
 - [**3. Keep the Actionable Insights Process Going**](#3-keep-the-actionable-insights-process-going) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/welcome?u=76281980)
@@ -96,8 +96,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for, (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - [barton] (1)
 
@@ -122,6 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Google]] (2), [[Pivot Tables]] (1)
 > **Speakers:** - [presenter] (1)
 
 #### Accessing files
@@ -149,6 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel]] (1), application (1), [[Google]] (1), [[Microsoft PowerPoint]] (1)
 > **Exercise Files:** exercise files (3)
 > **Env Vars:** pdf (1)
 > **Analogies:** such as (1)
@@ -157,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Focus on Actionable Insights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify actionable insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980)
@@ -284,8 +286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), product (2), [[Analytics]] (1), next (1), feature (1)
 > **CLI Commands:** find (9), make (6)
-> **Code Keywords:** let (6), this, (2), require (1), for. (1), from, (1)
 > **Analogies:** for example (3), similar to (1), think of it as (1), imagine (1)
 > **Definitions:** is an  (2)
 > **Warnings:** keep in mind (2)
@@ -352,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[E-Commerce]] (1), next (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -441,7 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1), this. (1)
+> **Frameworks & Libraries:** web (5)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -604,8 +606,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (2), product (1), [[Customer Support]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** pass (1), let (1), else. (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -660,8 +662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (1), data (1), next (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (2), case, (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -746,9 +748,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (1), product (1), business (1), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -962,8 +964,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (3), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1)
 > **Env Vars:** roi (16)
-> **Code Keywords:** switch (2), let (2), this. (1), super (1), return. (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (3), it's like (1)
 > **Definitions:** stands for (1), is a  (1), means that (1)
@@ -1034,7 +1036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), return, (1), return. (1), case, (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), management (1), next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** roi (4)
 > **Definitions:** is a  (2)
@@ -1119,8 +1121,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **Env Vars:** roi (15)
-> **Code Keywords:** return, (2), let (1), case, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1129,7 +1131,7 @@ created: 2026-04-29
 
 ### 2. Present Actionable Insights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose and prepare graphics for insight
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980)
@@ -1246,8 +1248,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Google]] (4), [[Business Intelligence (BI)|Business intelligence]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Search]] (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), switch (1), require (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** in the last (1)
@@ -1327,8 +1329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), business (1), [[Microsoft Excel]] (1), [[Google]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (1), finally, (1)
 > **Env Vars:** roi (2)
 > **Analogies:** for instance (2)
 > **UI Navigation:** switch to (1)
@@ -1439,10 +1441,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Google]] (2), [[Decision-Making]] (1), next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** roi (4)
 > **Definitions:** is a  (2)
-> **Code Keywords:** switch (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -1580,8 +1582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), ai (3), [[Search]] (2), [[Google]] (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** else. (1), let (1), switch (1), from. (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [presenter] (1)
@@ -1690,9 +1692,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (2), business (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), this. (1)
 > **UI Navigation:** go to (2)
 > **Non-Speech:** (lively music begins) (1), (lively music ends) (1)
 > **Speakers:** - [instructor] (1)
@@ -1820,7 +1822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), from. (1)
+> **Frameworks & Libraries:** data (9), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Google]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** iso (1)
 > **UI Navigation:** go to (1)
@@ -1842,6 +1844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1981,8 +1984,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Representational State Transfer (REST)|Rest]] (3), business (1), [[Google]] (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **Env Vars:** roi (8)
-> **Code Keywords:** let (2), switch (2), this. (1), else. (1), return, (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** switch to (2), go to (1)
 > **Definitions:** is a  (3)
@@ -1992,7 +1995,7 @@ created: 2026-04-29
 
 ### 3. Keep the Actionable Insights Process Going
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/next-steps-and-additional-resources?u=76281980)
@@ -2033,6 +2036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (4), [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** roi (1)
 > **Speakers:** - [instructor] (1)

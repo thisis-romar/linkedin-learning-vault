@@ -31,7 +31,7 @@ tags:
   - skill/cloud-storage
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Data%20and%20Storage%20Foundations.md)
@@ -50,33 +50,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Google Cloud storage and databases
+  - [Google Cloud storage and databases](#google-cloud-storage-and-databases)
 - [**1. Object Storage on GCP**](#1-object-storage-on-gcp) (5 videos)
-  - Understanding your storage and database options
-  - What does object storage look like?
-  - Popular Google Cloud storage features
-  - Optimizing Cloud Storage Costs with Autoclass
-  - Demo: Migrating data in Cloud Storage
+  - [Understanding your storage and database options](#understanding-your-storage-and-database-options)
+  - [What does object storage look like?](#what-does-object-storage-look-like)
+  - [Popular Google Cloud storage features](#popular-google-cloud-storage-features)
+  - [Optimizing Cloud Storage Costs with Autoclass](#optimizing-cloud-storage-costs-with-autoclass)
+  - [Demo: Migrating data in Cloud Storage](#demo-migrating-data-in-cloud-storage)
 - [**2. Relational Databases**](#2-relational-databases) (5 videos)
-  - Understanding relational database options on GCP
-  - Enterprise PostgreSQL with AlloyDB
-  - Relational databases: When to use Cloud SQL or Cloud Spanner
-  - The benefits of using Cloud SQL and Cloud Spanner
-  - Demo: Connecting to GCP from a WordPress app
+  - [Understanding relational database options on GCP](#understanding-relational-database-options-on-gcp)
+  - [Enterprise PostgreSQL with AlloyDB](#enterprise-postgresql-with-alloydb)
+  - [Relational databases: When to use Cloud SQL or Cloud Spanner](#relational-databases-when-to-use-cloud-sql-or-cloud-spanner)
+  - [The benefits of using Cloud SQL and Cloud Spanner](#the-benefits-of-using-cloud-sql-and-cloud-spanner)
+  - [Demo: Connecting to GCP from a WordPress app](#demo-connecting-to-gcp-from-a-wordpress-app)
 - [**3. Non-Relational Databases**](#3-non-relational-databases) (3 videos)
-  - Understanding non-relational database options on GCP
-  - Non-relational databases: When to use Cloud Firestore or Cloud Bigtable
-  - Demo: Setting up a Firestore and Bigtable database
+  - [Understanding non-relational database options on GCP](#understanding-non-relational-database-options-on-gcp)
+  - [Non-relational databases: When to use Cloud Firestore or Cloud Bigtable](#non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable)
+  - [Demo: Setting up a Firestore and Bigtable database](#demo-setting-up-a-firestore-and-bigtable-database)
 - [**4. Data Warehouse and Analytics**](#4-data-warehouse-and-analytics) (3 videos)
-  - Using BigQuery as a data warehouse
-  - Why use BigQuery instead of Cloud SQL or Cloud Spanner
-  - Demo: Creating an interactive report in Data Studio
+  - [Using BigQuery as a data warehouse](#using-bigquery-as-a-data-warehouse)
+  - [Why use BigQuery instead of Cloud SQL or Cloud Spanner](#why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner)
+  - [Demo: Creating an interactive report in Data Studio](#demo-creating-an-interactive-report-in-data-studio)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Cloud storage and databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/google-cloud-storage-and-databases?u=76281980)
@@ -95,13 +95,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), data (2)
 > **Speakers:** - hey (1)
 
 
 ### 1. Object Storage on GCP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your storage and database options
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980)
@@ -196,9 +196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), database (7), data (6), [[Google Cloud Platform (GCP)|Google cloud]] (3), next (3)
 > **Env Vars:** sql (2), htap (2), nas (1)
 > **Definitions:** is a  (3), known as (1)
-> **Code Keywords:** case, (1), require (1)
 > **Analogies:** similar to (1), picture (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -248,8 +248,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), cloud (7), gcp (2), product (1), next (1)
 > **Env Vars:** gcp (2), cdn (1)
-> **Code Keywords:** from. (1), delete (1)
 > **Definitions:** is a  (2)
 > **Versions:** 99.99 (1)
 > **UI Navigation:** scroll down (1)
@@ -353,7 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), delete (4), let (3), class, (1), continue (1)
+> **Frameworks & Libraries:** cloud (6), [[Google Cloud Platform (GCP)|Google cloud]] (5), hit (4), data (4), application (3)
 > **CLI Commands:** make (3), ls (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** such as (1), just like (1), picture (1)
@@ -457,7 +457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (3), class, (2), this, (1), else, (1)
+> **Frameworks & Libraries:** data (5), hit (5), [[Google Cloud Platform (GCP)|Google cloud]] (2), feature (2), [[Security]] (1)
 > **UI Navigation:** click on (4), checkbox (1)
 > **Cross-References:** we covered (1), earlier in (1), in the next (1)
 > **Prerequisites:** setup (2), set up (1)
@@ -679,8 +679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), cloud (10), gcp (10), hit (9), [[Google Cloud Platform (GCP)|Google cloud]] (6)
 > **Env Vars:** gcp (10), png (3), url (1), html (1), gsu (1)
-> **Code Keywords:** class. (4), let (3), continue (3), interface (2), delete (2)
 > **UI Navigation:** click on (6), go to (3), dropdown (1), drag and drop (1)
 > **CLI Commands:** make (2), find (1), ls (1), cp (1), aws (1)
 > **Analogies:** just like (6)
@@ -691,7 +691,7 @@ created: 2026-04-29
 
 ### 2. Relational Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding relational database options on GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980)
@@ -774,8 +774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[SQL]] (10), [[Google]] (6), database (5), data (4)
 > **Env Vars:** sql (12), gcp (3)
-> **Code Keywords:** let (3), continue (1), from. (1)
 > **CLI Commands:** mysql (3), make (1)
 > **Prerequisites:** set up (4)
 > **Definitions:** is a  (2)
@@ -918,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), continue (2), switch (2), let (1), while, (1)
+> **Frameworks & Libraries:** database (8), [[PostgreSQL]] (8), cloud (7), data (5), [[SQL]] (3)
 > **Env Vars:** sql (3), htap (3), gcp (1), sla (1), etl (1)
 > **UI Navigation:** click on (2), dropdown (1), go to (1), select the (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1008,8 +1008,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (19), [[SQL]] (9), [[Google Cloud Platform (GCP)|Google cloud]] (3), data (3), next (2)
 > **Env Vars:** sql (9)
-> **Code Keywords:** let (4), type, (1), for, (1)
 > **CLI Commands:** node (2), mysql (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** coming up (1)
@@ -1221,8 +1221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), cloud (11), [[SQL]] (11), [[MySQL]] (9), [[Google Cloud Platform (GCP)|Google cloud]] (5)
 > **Env Vars:** sql (11), gcp (2), php (2), cpu (1), hctps (1)
-> **Code Keywords:** public (5), let (4), private (2), switch (1), new. (1)
 > **CLI Commands:** mysql (9), php (2)
 > **Prerequisites:** set up (7), setup (1), configure (1)
 > **UI Navigation:** click on (4), go to (3)
@@ -1439,8 +1439,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), cloud (11), [[SQL]] (11), [[MySQL]] (9), [[Google Cloud Platform (GCP)|Google cloud]] (5)
 > **Env Vars:** sql (11), gcp (2), php (2), cpu (1), https (1)
-> **Code Keywords:** public (5), let (4), new. (2), private (2), this, (2)
 > **CLI Commands:** mysql (9), php (2), ssh (1)
 > **Prerequisites:** set up (7), setup (1), configure (1)
 > **UI Navigation:** click on (4), go to (3)
@@ -1451,7 +1451,7 @@ created: 2026-04-29
 
 ### 3. Non-Relational Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding non-relational database options on GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980)
@@ -1492,7 +1492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** database (7), cloud (6), data (6), gcp (2), [[NoSQL]] (2)
 > **Env Vars:** gcp (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
@@ -1546,10 +1546,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (18), [[SQL]] (5), database (4), data (4), [[Databases]] (1)
 > **Env Vars:** sql (5), gcp (1)
 > **Cross-References:** we talked about (2), earlier in (1), later in (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** for. (1), this, (1)
 > **Code Identifiers:** rooma (1), roomb (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -1726,7 +1726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), this, (1), else. (1), continue (1)
+> **Frameworks & Libraries:** data (10), database (9), cloud (5), hit (5), application (4)
 > **CLI Commands:** node (4), make (3), python (1)
 > **Prerequisites:** set up (5), setup (2)
 > **UI Navigation:** click on (4)
@@ -1738,7 +1738,7 @@ created: 2026-04-29
 
 ### 4. Data Warehouse and Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using BigQuery as a data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980)
@@ -1783,8 +1783,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (3), [[Big Data]] (2), [[Microsoft Products|Products]] (2), gcp (1)
 > **Env Vars:** sql (3), gcp (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Why use BigQuery instead of Cloud SQL or Cloud Spanner
@@ -1936,8 +1936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[SQL]] (10), cloud (5), [[Search]] (4), gcp (3)
 > **Env Vars:** sql (10), gcp (3), ncaa (2), compose (1), query (1)
-> **Code Keywords:** let (5), public (2), this, (2), for, (1), this. (1)
 > **UI Navigation:** click on (3), scroll down (1), select the (1)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** venue_name (1), venue_capacity (1)
@@ -2026,7 +2026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from, (2), this, (2), throw (1)
+> **Frameworks & Libraries:** data (18), [[Google]] (3), cloud (1), [[SQL]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (4), go to (1), dropdown (1)
 > **Env Vars:** sql (1), csv (1)
@@ -2038,7 +2038,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/next-steps?u=76281980)
@@ -2085,8 +2085,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), cloud (4), database (3), next (2), data (1)
 > **UI Navigation:** go to (2), click on (2), scroll down (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)

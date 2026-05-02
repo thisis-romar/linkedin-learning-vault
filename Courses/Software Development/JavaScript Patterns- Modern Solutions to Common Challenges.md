@@ -28,7 +28,7 @@ tags:
   - skill/javascript
   - skill/coding-practices
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript%20Patterns-%20Modern%20Solutions%20to%20Common%20Challenges.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Learning Javascript: Finding the utility in less common patterns
-  - What you should know
-  - Using the exercise files
-  - How to work with CoderPad challenges
+  - [Learning Javascript: Finding the utility in less common patterns](#learning-javascript-finding-the-utility-in-less-common-patterns)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [How to work with CoderPad challenges](#how-to-work-with-coderpad-challenges)
 - [**1. Improving on Loops**](#1-improving-on-loops) (5 videos)
-  - Pain point: Sequential "for" loops become tedious
-  - Solution: Three alternatives sequential "for" loops
-  - Pain point: Processing arrays with loops is inelegant
-  - Solution: Use filter(), map(), and reduce()
-  - Solution: Transform a list of places
+  - [Pain point: Sequential "for" loops become tedious](#pain-point-sequential-for-loops-become-tedious)
+  - [Solution: Three alternatives sequential "for" loops](#solution-three-alternatives-sequential-for-loops)
+  - [Pain point: Processing arrays with loops is inelegant](#pain-point-processing-arrays-with-loops-is-inelegant)
+  - [Solution: Use filter(), map(), and reduce()](#solution-use-filter-map-and-reduce)
+  - [Solution: Transform a list of places](#solution-transform-a-list-of-places)
 - [**2. Objects Can Confuse**](#2-objects-can-confuse) (6 videos)
-  - Pain point: Copied objects are not actually copies
-  - Solution: JSON.stringify() and JSON.parse()
-  - Pain point: The value of "this" can be hard to follow
-  - Solution: Fix "this" using bind()
-  - ES6+ solution: Arrow functions
-  - Solution: Creating a unique robot army
+  - [Pain point: Copied objects are not actually copies](#pain-point-copied-objects-are-not-actually-copies)
+  - [Solution: JSON.stringify() and JSON.parse()](#solution-jsonstringify-and-jsonparse)
+  - [Pain point: The value of "this" can be hard to follow](#pain-point-the-value-of-this-can-be-hard-to-follow)
+  - [Solution: Fix "this" using bind()](#solution-fix-this-using-bind)
+  - [ES6+ solution: Arrow functions](#es6-solution-arrow-functions)
+  - [Solution: Creating a unique robot army](#solution-creating-a-unique-robot-army)
 - [**3. Oh Functions, My Functions**](#3-oh-functions-my-functions) (7 videos)
-  - Pain point: Send extra parameters to an event handler
-  - Solution: Use bind() a different way
-  - Pain point: Function signature doesn’t accept arrays
-  - Solution: Apply and spread
-  - Pain point: Refactoring function signatures
-  - Solution: Objects for arguments
-  - Solution overview: Story generator
+  - [Pain point: Send extra parameters to an event handler](#pain-point-send-extra-parameters-to-an-event-handler)
+  - [Solution: Use bind() a different way](#solution-use-bind-a-different-way)
+  - [Pain point: Function signature doesn’t accept arrays](#pain-point-function-signature-doesnt-accept-arrays)
+  - [Solution: Apply and spread](#solution-apply-and-spread)
+  - [Pain point: Refactoring function signatures](#pain-point-refactoring-function-signatures)
+  - [Solution: Objects for arguments](#solution-objects-for-arguments)
+  - [Solution overview: Story generator](#solution-overview-story-generator)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and thank you
+  - [Next steps and thank you](#next-steps-and-thank-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Javascript: Finding the utility in less common patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/learning-javascript-finding-the-utility-in-less-common-patterns?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (2), let (1), from, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Programming]] (2), game (1), feature (1)
 > **Speakers:** - do (1)
 
 #### What you should know
@@ -148,8 +148,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ECMAScript]] (3), css (3), [[HTML]] (1), web (1)
 > **Env Vars:** css (3), html (1), es6 (1)
-> **Code Keywords:** let (1), for. (1), finally, (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Definitions:** short for (1)
 > **Analogies:** for example (1)
@@ -197,6 +197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[Windows]] (2), web (1)
 > **Exercise Files:** exercise files (3), exercise file (1), zip file (1)
 > **File Paths:** start.js (1), index.html (1), end.js (1), end.html (1)
 > **CLI Commands:** make (1)
@@ -204,7 +205,6 @@ created: 2026-04-29
 > **Tools:** visual studio (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** means that (1)
-> **Best Practices:** make sure to (1)
 
 #### How to work with CoderPad challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/how-to-work-with-coderpad-challenges?u=76281980)
@@ -263,14 +263,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), type. (1), type, (1), let (1), case, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Improving on Loops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pain point: Sequential "for" loops become tedious
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-sequential-for-loops-become-tedious-14183623?u=76281980)
@@ -369,8 +369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), data (1), next (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), for. (1), this, (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -549,7 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), pass (7), switch (5), this. (4), let (3)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1), [[Windows]] (1), [[Linux]] (1), [[Zoom]] (1)
 > **Code Identifiers:** foreach (16), jquery (2), foreached (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), is called (2)
@@ -623,7 +623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (1), finally, (1)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** indexof (1)
 > **URLs:** [allmusic.com](https://allmusic.com) (1)
@@ -872,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), this, (7), let (6), case, (5), this. (4)
+> **Frameworks & Libraries:** data (3), [[React.js|React]] (1), [[JavaScript]] (1), dom (1), next (1)
 > **Definitions:** is a  (4), is called (1), in other words (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2)
@@ -915,7 +915,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), function (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -923,7 +922,7 @@ created: 2026-04-29
 
 ### 2. Objects Can Confuse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pain point: Copied objects are not actually copies
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-copied-objects-are-not-actually-copies-14181695?u=76281980)
@@ -988,9 +987,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[JavaScript]] (1), data (1), hit (1)
 > **CLI Commands:** make (3), cat (1)
 > **Exercise Files:** template (3), source code (1)
-> **Code Keywords:** let (2), return. (1)
 > **Code Identifiers:** mycopy (2)
 > **UI Navigation:** open the (1)
 > **Definitions:** is an  (1)
@@ -1153,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (8), this, (2), this. (2), switch (2)
+> **Frameworks & Libraries:** [[JSON]] (6), data (4), [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** json (6), ea6 (1)
 > **CLI Commands:** make (4), cat (2)
 > **Definitions:** is a  (2)
@@ -1283,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (4), function (3), this. (2), switch (2)
+> **Frameworks & Libraries:** [[Drupal]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[HTML]] (1), [[PHP]] (1), cms (1)
 > **Code Identifiers:** getdata (5), mymodule (1), clickgo (1)
 > **Env Vars:** url (2), html (1), php (1), cms (1)
 > **CLI Commands:** find (2), php (1)
@@ -1441,7 +1440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), this. (5), let (5), switch (4), this, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (2), application (1), business (1), next (1)
 > **Code Identifiers:** clickgo (5), mymodule (3), getdata (2)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** refers to (4), is a  (1)
@@ -1531,7 +1530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (3), return, (2), pass (1), switch (1)
+> **Frameworks & Libraries:** feature (2), [[ECMAScript]] (2), node (1), [[JavaScript]] (1)
 > **CLI Commands:** find (1), make (1), node (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Code Identifiers:** clickgo (1)
@@ -1595,7 +1594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), this. (1)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **Env Vars:** json (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** robottemplate (1), randomint (1)
@@ -1606,7 +1605,7 @@ created: 2026-04-29
 
 ### 3. Oh Functions, My Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pain point: Send extra parameters to an event handler
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980)
@@ -1671,7 +1670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), pass (2), this. (1), while, (1)
+> **Frameworks & Libraries:** data (8), [[AJAX]] (2), [[JavaScript]] (1), web (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** ajax (2)
 > **Code Identifiers:** rowid (1)
@@ -1807,7 +1806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), pass (7), case, (4), this. (3), switch (3)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), [[JavaScript]] (1), dom (1), generic (1)
 > **Code Identifiers:** placebot (5), myapp (1), preventdefault (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** dom (1)
@@ -1859,7 +1858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), match. (1), this, (1), pass (1)
+> **Frameworks & Libraries:** data (3), web (1), api (1), next (1)
 > **Code Identifiers:** jquery (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** api (1)
@@ -2025,7 +2024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this, (3), this. (2), switch (2), let (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), [[JavaScript]] (5), data (3), feature (2), dom (1)
 > **Env Vars:** es6 (5), dom (1)
 > **Analogies:** just like (2), similar to (1)
 > **Code Identifiers:** jqueries (1), foreach (1)
@@ -2077,7 +2076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), this, (3), let (1), pass (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** es6 (3), ide (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** placebot (1)
@@ -2216,7 +2215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (4), pass (3), switch (2), this, (1)
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[JavaScript]] (1), [[ECMAScript]] (1)
 > **Code Identifiers:** toppadding (3), leftpadding (3)
 > **Env Vars:** es6 (5), api (1)
 > **CLI Commands:** make (5)
@@ -2276,7 +2275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (2), let (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Code Identifiers:** makestory (1), word_key (1), wordlength (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2285,7 +2284,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980)
@@ -2338,10 +2337,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (11), [[Functional Programming]] (3), [[PHP]] (2), [[Laravel]] (2), next (1)
 > **Env Vars:** php (2), api (1), es6 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** php (2)
-> **Code Keywords:** let (1), self (1)
 > **File Paths:** collect.js (1)
 > **Speakers:** - [joe] (1)
 

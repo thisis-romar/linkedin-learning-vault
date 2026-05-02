@@ -35,7 +35,7 @@ tags:
   - skill/stata
   - skill/financial-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Algorithmic%20Trading%20and%20Finance%20Models%20with%20Python%2C%20R%2C%20and%20Stata%20Essential%20Training.md)
@@ -54,55 +54,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting started with algorithmic trading and finance
-  - What you should know
-  - Disclaimer
+  - [Getting started with algorithmic trading and finance](#getting-started-with-algorithmic-trading-and-finance)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. The Basics of Algo Trading**](#1-the-basics-of-algo-trading) (8 videos)
-  - Basics of algo trading
-  - Market making with algos
-  - An algorithm example
-  - Prop trading with algos
-  - Algos in practice
-  - Textual analysis and algo trading
-  - Algorithmic trading with qualitative and text data
-  - Careers in algorithmic trading
+  - [Basics of algo trading](#basics-of-algo-trading)
+  - [Market making with algos](#market-making-with-algos)
+  - [An algorithm example](#an-algorithm-example)
+  - [Prop trading with algos](#prop-trading-with-algos)
+  - [Algos in practice](#algos-in-practice)
+  - [Textual analysis and algo trading](#textual-analysis-and-algo-trading)
+  - [Algorithmic trading with qualitative and text data](#algorithmic-trading-with-qualitative-and-text-data)
+  - [Careers in algorithmic trading](#careers-in-algorithmic-trading)
 - [**2. Stock Trading with Python**](#2-stock-trading-with-python) (6 videos)
-  - One software option: Python
-  - Importing data in Python
-  - Quandl and Python
-  - CSVs and Python
-  - Financial data and Python
-  - Python and building financial databases
+  - [One software option: Python](#one-software-option-python)
+  - [Importing data in Python](#importing-data-in-python)
+  - [Quandl and Python](#quandl-and-python)
+  - [CSVs and Python](#csvs-and-python)
+  - [Financial data and Python](#financial-data-and-python)
+  - [Python and building financial databases](#python-and-building-financial-databases)
 - [**3. R and Bond Trading**](#3-r-and-bond-trading) (5 videos)
-  - One software option: R
-  - Importing data with R
-  - quantmod and R
-  - Data analysis in R
-  - Regressions in R
+  - [One software option: R](#one-software-option-r)
+  - [Importing data with R](#importing-data-with-r)
+  - [quantmod and R](#quantmod-and-r)
+  - [Data analysis in R](#data-analysis-in-r)
+  - [Regressions in R](#regressions-in-r)
 - [**4. Investment Analysis and Stata**](#4-investment-analysis-and-stata) (6 videos)
-  - One software option: Stata
-  - Getting currency data
-  - Cleaning up data for algorithms
-  - Strategies in currencies
-  - Testing strategies in Stata
-  - Regressions in Stata
+  - [One software option: Stata](#one-software-option-stata)
+  - [Getting currency data](#getting-currency-data)
+  - [Cleaning up data for algorithms](#cleaning-up-data-for-algorithms)
+  - [Strategies in currencies](#strategies-in-currencies)
+  - [Testing strategies in Stata](#testing-strategies-in-stata)
+  - [Regressions in Stata](#regressions-in-stata)
 - [**5. Data and Trading**](#5-data-and-trading) (4 videos)
-  - Getting broad market data
-  - Types of data
-  - CRSP and Compustat
-  - Other financial markets data
+  - [Getting broad market data](#getting-broad-market-data)
+  - [Types of data](#types-of-data)
+  - [CRSP and Compustat](#crsp-and-compustat)
+  - [Other financial markets data](#other-financial-markets-data)
 - [**6. Strategies, Patterns, and Wall Street**](#6-strategies-patterns-and-wall-street) (5 videos)
-  - Choosing tactics: Trading or investing
-  - Finding strategies in trading: Market microstructure
-  - Finding strategies in investing: Factors
-  - Risk management and stress testing
-  - Model aging and obsolescence
+  - [Choosing tactics: Trading or investing](#choosing-tactics-trading-or-investing)
+  - [Finding strategies in trading: Market microstructure](#finding-strategies-in-trading-market-microstructure)
+  - [Finding strategies in investing: Factors](#finding-strategies-in-investing-factors)
+  - [Risk management and stress testing](#risk-management-and-stress-testing)
+  - [Model aging and obsolescence](#model-aging-and-obsolescence)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with algorithmic trading and finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980)
@@ -123,6 +123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (2), [[Programming]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
@@ -153,7 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), else. (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (3), [[LinkedIn]] (2), [[Programming]] (1), [[Windows]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
@@ -174,12 +175,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. The Basics of Algo Trading
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of algo trading
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980)
@@ -260,8 +262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (8), data (6), [[Algorithms]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), for. (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -373,8 +375,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (3), [[Security]] (1)
 > **Versions:** 113.10 (3), 113.9 (1), 113.8 (1), 113.13 (1), 113.12 (1)
-> **Code Keywords:** finally, (3), case, (2), function (1), let (1)
 > **Analogies:** just like (2), for example (1), similar to (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -436,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (4), [[Algorithmic Trading]] (1)
 > **Ports:** :45 (1), :30 (1)
 > **Versions:** 13.69 (1), 13.56 (1)
 > **CLI Commands:** make (1)
@@ -551,9 +553,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (6), [[Algorithms]] (5), data (3), [[Statistics]] (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** before we start (1), set up (1), you'll need (1), you need to have (1)
-> **Code Keywords:** let (1), this, (1), finally, (1)
 > **Definitions:** means that (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -629,7 +631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (4), data (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphones (1)
 > **Analogies:** for example (1)
@@ -702,9 +704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Algorithmic Trading]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Search]] (1), web (1)
 > **Env Vars:** edgar (2), sec (2), xml (1), sas (1), net (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** let (1)
 > **URLs:** [vb.net](https://vb.net) (1)
 > **Versions:** 22.7 (1)
 > **Definitions:** is a  (1)
@@ -817,7 +819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Algorithmic Trading]] (2), [[Microsoft Excel|Excel]] (2), power (1)
 > **Versions:** 1.6 (2), 2.2 (2)
 > **Definitions:** is an  (1), is a  (1)
 > **URLs:** [seekingalpha.com](https://seekingalpha.com) (1)
@@ -894,8 +896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (7), career (2), [[Programming]] (2), [[LinkedIn]] (2), [[Search]] (2)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -903,7 +905,7 @@ created: 2026-04-29
 
 ### 2. Stock Trading with Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### One software option: Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980)
@@ -956,9 +958,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Algorithmic Trading]] (2), [[Programming]] (2), [[Google]] (1)
 > **CLI Commands:** python (13), cat (1)
 > **Tools:** anaconda (7), jupyter (2)
-> **Code Keywords:** let (4)
 > **URLs:** [anaconda.org](https://anaconda.org) (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
@@ -1060,8 +1062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (4), [[Algorithmic Trading]] (3), [[Microsoft]] (3)
 > **CLI Commands:** python (4), make (4), pip (1)
-> **Code Keywords:** let (3), case, (1), function (1), module (1)
 > **Code Identifiers:** pandas_datareader (2), panda_datareader (1)
 > **Prerequisites:** install (2)
 > **Definitions:** is a  (1)
@@ -1156,7 +1158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2), case. (1), this. (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (6), feature (2), prompt (2), [[Algorithmic Trading]] (1)
 > **CLI Commands:** python (6), make (1), pip (1)
 > **Prerequisites:** install (3), assuming you have (1), you'll need (1), set up (1)
 > **Tools:** jupyter (3), anaconda (1)
@@ -1220,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), this. (1), for, (1)
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (2), next (2), [[Stata]] (1)
 > **CLI Commands:** python (5), make (1)
 > **Env Vars:** csv (4)
 > **Code Identifiers:** pandas_datareader (1), get_data (1), to_csv (1)
@@ -1323,7 +1325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for. (1), function (1), case, (1), this. (1)
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Code Identifiers:** pandas_datareader (1)
 > **Tools:** jupyter (1)
@@ -1438,7 +1440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), from, (2), case, (1), require (1)
+> **Frameworks & Libraries:** data (20), [[Microsoft]] (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Algorithmic Trading]] (2)
 > **CLI Commands:** python (2), make (2)
 > **Env Vars:** csv (3)
 > **Code Identifiers:** all_data (2)
@@ -1450,7 +1452,7 @@ created: 2026-04-29
 
 ### 3. R and Bond Trading
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### One software option: R
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980)
@@ -1551,9 +1553,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[RStudio]] (8), [[Python (Programming Language)|Python]] (7), hit (5), [[Windows]] (3), data (2)
 > **CLI Commands:** python (7), make (2)
 > **Tools:** anaconda (3), jupyter (2)
-> **Code Keywords:** let (1), function (1), for, (1), for. (1)
 > **Prerequisites:** install (4)
 > **Env Vars:** spss (1)
 > **UI Navigation:** open the (1)
@@ -1673,7 +1675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), require (1)
+> **Frameworks & Libraries:** data (19), feature (5), hit (2), [[Data Manipulation]] (2), [[Programming]] (1)
 > **Env Vars:** csv (2), ebitda (1), ibm (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** just like (1), for example (1)
@@ -1855,7 +1857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), else. (1), try, (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft]] (6), hit (2), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** aapl (4), macd (2), msft (1)
 > **Code Identifiers:** getsymbols (2), barchart (2), chartseries (1), addmacd (1)
 > **CLI Commands:** make (4), rm (1)
@@ -1989,7 +1991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1)
+> **Frameworks & Libraries:** data (14), [[Statistics]] (5), [[Microsoft]] (3), hit (2), [[Algorithms]] (1)
 > **Env Vars:** msft (3), spy (2), aapl (1), sp500 (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** install (3)
@@ -2056,9 +2058,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (6), [[Algorithmic Trading]] (4), [[RStudio]] (1), data (1), [[Windows]] (1)
 > **Env Vars:** ebitda (6)
 > **Definitions:** is a  (2), is called (1), means that (1)
-> **Code Keywords:** let (2), case. (1)
 > **Versions:** 2.8 (1), 2.9 (1), 0.17 (1)
 > **Code Identifiers:** linearmod (1)
 > **Speakers:** - [instructor] (1)
@@ -2066,7 +2068,7 @@ created: 2026-04-29
 
 ### 4. Investment Analysis and Stata
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### One software option: Stata
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980)
@@ -2119,6 +2121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stata]] (16), data (8), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Statistics]] (1)
 > **CLI Commands:** python (3), make (1), find (1)
 > **Env Vars:** csv (1), sas (1)
 > **Analogies:** just like (1), kind of like (1)
@@ -2157,7 +2160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), import, (1)
+> **Frameworks & Libraries:** data (9), [[Stata]] (5), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithmic Trading]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [rates.org](https://rates.org) (1)
 > **Cross-References:** we talked about (1)
@@ -2325,7 +2328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5), this, (4), this. (1), throw (1)
+> **Frameworks & Libraries:** data (14), [[Stata]] (13), next (2), [[Algorithmic Trading]] (1)
 > **Definitions:** is a  (2), is called (1), in other words (1)
 > **Env Vars:** dow (1), date (1), mdy (1)
 > **Analogies:** for instance (1), for example (1)
@@ -2410,7 +2413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), for. (1)
+> **Frameworks & Libraries:** data (3), [[Stata]] (2), [[Algorithmic Trading]] (1)
 > **Versions:** 32.62709 (2), 111.91399 (1), 0.29154 (1), 32.6274 (1)
 > **Env Vars:** jpy (2), dta (1), thb (1)
 > **CLI Commands:** make (1)
@@ -2579,7 +2582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Stata]] (5), data (2), feature (1), next (1), [[Algorithmic Trading]] (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Env Vars:** usd (1)
@@ -2676,7 +2679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), throw (1), case, (1), super (1)
+> **Frameworks & Libraries:** [[Stata]] (11), data (4), [[Algorithmic Trading]] (2), [[Microsoft Excel|Excel]] (2), feature (1)
 > **Definitions:** is a  (3), in other words (1)
 > **Env Vars:** ebitda (3)
 > **CLI Commands:** make (1)
@@ -2686,7 +2689,7 @@ created: 2026-04-29
 
 ### 5. Data and Trading
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting broad market data
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980)
@@ -2743,9 +2746,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), api (4), [[Algorithmic Trading]] (3), management (3), [[Real-Time]] (2)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2807,8 +2810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), api (3), [[Microsoft Products|Products]] (2), [[Algorithms]] (1), database (1)
 > **Env Vars:** wrds (6), api (3), msrb (1), otc (1), trace (1)
-> **Code Keywords:** public (1), else, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -2895,9 +2898,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Stata]] (2), business (1), career (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** crsp (2), wrds (1), csv (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** case, (1), from, (1), else, (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2963,8 +2966,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (2), [[Stata]] (2), [[Algorithmic Trading]] (1), [[Programming]] (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** this, (1), this. (1)
 > **Env Vars:** wrds (1), cusip (1)
 > **Cross-References:** previous video (1), as we saw (1)
 > **Analogies:** for instance (1)
@@ -2973,7 +2976,7 @@ created: 2026-04-29
 
 ### 6. Strategies, Patterns, and Wall Street
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing tactics: Trading or investing
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980)
@@ -3090,7 +3093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), return, (2), return. (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Stata]] (4), next (2), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Versions:** 0.03 (1), 6.7 (1), 1.02 (1), 9.38 (1), 8.2 (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -3216,8 +3219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Stata]] (4), [[Calculus]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** find (3), make (3), python (1)
-> **Code Keywords:** let (2), this, (1), class, (1), function (1)
 > **Definitions:** is a  (4)
 > **Versions:** 1.46 (1)
 > **Exercise Files:** exercise file (1)
@@ -3327,7 +3330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1)
+> **Frameworks & Libraries:** data (6), [[Algorithmic Trading]] (4), [[Microsoft Excel|Excel]] (2), [[Stata]] (1), next (1)
 > **Env Vars:** dfa (1), aqr (1)
 > **Versions:** 11.7 (1), 37.7 (1)
 > **CLI Commands:** make (1)
@@ -3480,9 +3483,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Probability]] (2), [[Security]] (1), business (1), next (1)
 > **Env Vars:** sic (11), naics (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Versions:** 49.2 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -3569,8 +3572,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Algorithmic Trading]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (6), make (2)
-> **Code Keywords:** this, (2), let (1), this. (1), else, (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [michael] (1)
@@ -3578,7 +3581,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980)
@@ -3615,8 +3618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Programming]] (2), career (1), [[Algorithmic Trading]] (1), [[Stata]] (1)
 > **CLI Commands:** find (2), python (1)
-> **Code Keywords:** require (1), this, (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 

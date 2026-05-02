@@ -42,7 +42,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/logistic-regression
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20Logistic%20Regression.md)
@@ -61,30 +61,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Classifying data with logistic regression
-  - What you should know
-  - Using the exercise files
-  - Using GitHub Codespaces with this course
+  - [Classifying data with logistic regression](#classifying-data-with-logistic-regression)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Regression**](#1-regression) (3 videos)
-  - What is regression?
-  - The anatomy of a regression model
-  - Common types of regression
+  - [What is regression?](#what-is-regression)
+  - [The anatomy of a regression model](#the-anatomy-of-a-regression-model)
+  - [Common types of regression](#common-types-of-regression)
 - [**2. Logistic Regression**](#2-logistic-regression) (4 videos)
-  - What is logistic regression?
-  - Making predictions with logistic regression
-  - Interpreting the coefficients of logistic regression
-  - Why and when to use logistic regression
+  - [What is logistic regression?](#what-is-logistic-regression)
+  - [Making predictions with logistic regression](#making-predictions-with-logistic-regression)
+  - [Interpreting the coefficients of logistic regression](#interpreting-the-coefficients-of-logistic-regression)
+  - [Why and when to use logistic regression](#why-and-when-to-use-logistic-regression)
 - [**3. Classifying Data with Logistic Regression**](#3-classifying-data-with-logistic-regression) (4 videos)
-  - How to explore data for logistic regression in Python
-  - How to prepare data for logistic regression in Python
-  - How to build a logistic regression model in Python
-  - How to interpret a logistic regression model in Python
+  - [How to explore data for logistic regression in Python](#how-to-explore-data-for-logistic-regression-in-python)
+  - [How to prepare data for logistic regression in Python](#how-to-prepare-data-for-logistic-regression-in-python)
+  - [How to build a logistic regression model in Python](#how-to-build-a-logistic-regression-model-in-python)
+  - [How to interpret a logistic regression model in Python](#how-to-interpret-a-logistic-regression-model-in-python)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classifying data with logistic regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980)
@@ -115,8 +115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Logistic Regression]] (5), data (2), [[Python (Programming Language)|Python]] (2), [[Probability]] (1), ai (1)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - logistic (1)
 
 #### What you should know
@@ -146,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), next (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -192,8 +192,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (2), data (2), [[Logistic Regression]] (1), [[Python (Programming Language)|Python]] (1), cloud (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** src (1), csv (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** python (1)
@@ -337,7 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -349,7 +349,7 @@ created: 2026-04-29
 
 ### 1. Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-regression?u=76281980)
@@ -408,8 +408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Algorithms]] (1), product (1)
 > **Definitions:** is a  (4), known as (2)
-> **Code Keywords:** function (2), let (1), pass (1)
 > **Analogies:** for example (3), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -490,8 +490,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Linear Regression]] (4), [[Algorithms]] (1)
 > **Definitions:** is a  (6), known as (3)
-> **Code Keywords:** let (1), this. (1), require (1), function (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ols (2)
 > **Analogies:** imagine (1)
@@ -574,15 +574,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (9), data (6), [[Logistic Regression]] (2), [[Forms]] (1)
 > **Definitions:** known as (4), is a  (2), in other words (2)
-> **Code Keywords:** let (3), this, (1), this. (1)
 > **Analogies:** for example (3), such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Logistic Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is logistic regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980)
@@ -661,7 +661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this. (2), let (1), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (20), [[Probability]] (11), data (5), [[Algorithms]] (2), [[LinkedIn]] (1)
 > **Definitions:** known as (4)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Versions:** 0.5 (1), 0.9 (1), 0.8 (1)
@@ -743,7 +743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Probability]] (19), [[Logistic Regression]] (4), game (4), [[Algorithms]] (2), [[Python (Programming Language)|Python]] (2)
 > **Versions:** 14.8 (2), 0.148 (2), 0.8 (1), 0.2 (1), 1.75 (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** python (2)
@@ -857,9 +857,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (14), [[Logistic Regression]] (2)
 > **Versions:** 0.84 (3), 5.95 (2), 0.12 (2), 1.13 (2), 0.17 (2)
 > **Definitions:** is a  (2), in other words (2), means that (2), known as (1)
-> **Code Keywords:** let (5), function (1)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
@@ -898,15 +898,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Logistic Regression]] (10), data (4), strengths (2), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), for example (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Classifying Data with Logistic Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to explore data for logistic regression in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980)
@@ -1147,7 +1147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), default, (6), function (3), default. (3), delete (1)
+> **Frameworks & Libraries:** data (29), [[Logistic Regression]] (6), next (5), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), make (3)
 > **Code Identifiers:** read_csv (2)
 > **Definitions:** is a  (1), is called (1)
@@ -1273,8 +1273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Logistic Regression]] (3), next (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** y_train (3), train_test_split (2), test_split (2), y_test (2), train_size (2)
-> **Code Keywords:** let (9), function (4), finally, (1)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** python (2), make (1)
 > **Versions:** 0.7 (3)
@@ -1385,7 +1385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (10), function (3), import, (1), this. (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (7), data (4), [[Python (Programming Language)|Python]] (2), next (2)
 > **CLI Commands:** python (2), make (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Code Identifiers:** x_test (1), y_test (1), confusion_matrix (1)
@@ -1567,7 +1567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (7), default. (2), import, (1), pass (1)
+> **Frameworks & Libraries:** data (9), [[Logistic Regression]] (6), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (3), [[Probability]] (1)
 > **Versions:** 1.02 (2), 0.15 (2), 1.16 (2), 15.467 (1), 0.36 (1)
 > **CLI Commands:** python (3), make (3)
 > **Definitions:** known as (1), is called (1), means that (1), is a  (1)
@@ -1579,7 +1579,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980)
@@ -1626,8 +1626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Logistic Regression]] (6), [[Python (Programming Language)|Python]] (5), [[LinkedIn]] (3), next (2), [[Linear Regression]] (1)
 > **CLI Commands:** python (5), find (2)
-> **Code Keywords:** continue (3), finally, (2), import, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)

@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Javascript%20Best%20Practices%20For%20Code%20Formatting.md)
@@ -43,46 +43,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Modern standards for your JavaScript
-  - What you should know
-  - Set up your environment
+  - [Modern standards for your JavaScript](#modern-standards-for-your-javascript)
+  - [What you should know](#what-you-should-know)
+  - [Set up your environment](#set-up-your-environment)
 - [**1. Why Best Practices?**](#1-why-best-practices) (4 videos)
-  - Style guides
-  - Use modern deployment tools
-  - ESLint
-  - Foundational practice: Use strict mode
+  - [Style guides](#style-guides)
+  - [Use modern deployment tools](#use-modern-deployment-tools)
+  - [ESLint](#eslint)
+  - [Foundational practice: Use strict mode](#foundational-practice-use-strict-mode)
 - [**2. Creating Comments**](#2-creating-comments) (5 videos)
-  - Use single-line syntax for single lines
-  - Multi-line syntax with leading asterisks
-  - Include leading spaces in comments
-  - Challenge: Create JavaScript comments
-  - Solution: Create JavaScript comments
+  - [Use single-line syntax for single lines](#use-single-line-syntax-for-single-lines)
+  - [Multi-line syntax with leading asterisks](#multi-line-syntax-with-leading-asterisks)
+  - [Include leading spaces in comments](#include-leading-spaces-in-comments)
+  - [Challenge: Create JavaScript comments](#challenge-create-javascript-comments)
+  - [Solution: Create JavaScript comments](#solution-create-javascript-comments)
 - [**3. Using Punctuation**](#3-using-punctuation) (7 videos)
-  - End statements with a semicolon
-  - Don't rely on auto semicolon insertion
-  - Standardize line length
-  - Use commas consistently
-  - Include a comma in a list of values
-  - Challenge: Optimize punctuation
-  - Solution: Optimize punctuation
+  - [End statements with a semicolon](#end-statements-with-a-semicolon)
+  - [Don't rely on auto semicolon insertion](#dont-rely-on-auto-semicolon-insertion)
+  - [Standardize line length](#standardize-line-length)
+  - [Use commas consistently](#use-commas-consistently)
+  - [Include a comma in a list of values](#include-a-comma-in-a-list-of-values)
+  - [Challenge: Optimize punctuation](#challenge-optimize-punctuation)
+  - [Solution: Optimize punctuation](#solution-optimize-punctuation)
 - [**4. Using Spacing**](#4-using-spacing) (11 videos)
-  - Indent consistently
-  - Space before and after operators
-  - Use a consistent format for blocks
-  - Include a space after keywords and arrows
-  - Use consistent spacing before function signature parentheses
-  - Break up and indent long-method chains
-  - Space consistently within enclosing characters
-  - Space after commas, but not before
-  - Limit blank space to one line
-  - Challenge: Optimize spacing
-  - Solution: Optimize spacing
+  - [Indent consistently](#indent-consistently)
+  - [Space before and after operators](#space-before-and-after-operators)
+  - [Use a consistent format for blocks](#use-a-consistent-format-for-blocks)
+  - [Include a space after keywords and arrows](#include-a-space-after-keywords-and-arrows)
+  - [Use consistent spacing before function signature parentheses](#use-consistent-spacing-before-function-signature-parentheses)
+  - [Break up and indent long-method chains](#break-up-and-indent-long-method-chains)
+  - [Space consistently within enclosing characters](#space-consistently-within-enclosing-characters)
+  - [Space after commas, but not before](#space-after-commas-but-not-before)
+  - [Limit blank space to one line](#limit-blank-space-to-one-line)
+  - [Challenge: Optimize spacing](#challenge-optimize-spacing)
+  - [Solution: Optimize spacing](#solution-optimize-spacing)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern standards for your JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980)
@@ -103,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[ESLint]] (1), teams (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - have (1)
@@ -120,6 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), front-end (1)
 > **Env Vars:** es6 (2)
 > **Speakers:** - [instructor] (1)
 
@@ -198,19 +200,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (7), [[npm]] (6), node (3), web (2), [[Microsoft]] (2)
 > **Tools:** visual studio (3), command line (2), firefox (2), terminal (1), command prompt (1)
 > **CLI Commands:** npm (6), node (3)
 > **Prerequisites:** install (4), configure (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** navigate to (1), toggle (1)
-> **Code Keywords:** let (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Env Vars:** lts (1)
 
 
 ### 1. Why Best Practices?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Style guides
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980)
@@ -271,7 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), const (3), let (2), from, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Debugging]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), known as (1)
@@ -319,6 +321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (10), feature (3), [[Java]] (1), [[Fetch]] (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -381,11 +384,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (8), [[JavaScript]] (3), strengths (1), [[JSON]] (1), [[Windows]] (1)
 > **File Paths:** eslintrc.js (3), package.json (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [eslint.org](https://eslint.org) (1), [stackoverflow.com](https://stackoverflow.com) (1)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** module (1)
 > **Env Vars:** env (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
@@ -491,7 +494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (3), throw (1), switch (1), require (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (3), [[HTML]] (2), prompt (1), [[Coding Practices]] (1)
 > **CLI Commands:** make (3)
 > **File Paths:** eslintrc.js (1), app.js (1)
 > **Env Vars:** html (2)
@@ -503,7 +506,7 @@ created: 2026-04-29
 
 ### 2. Creating Comments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use single-line syntax for single lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980)
@@ -600,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), throw (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[JavaScript]] (1), [[LinkedIn]] (1), [[ESLint]] (1)
 > **File Paths:** app.js (2)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (2)
@@ -648,9 +651,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (2), known as (2)
 > **File Paths:** app.js (1)
-> **Code Keywords:** type, (1)
 > **Tools:** visual studio (1)
 > **Analogies:** just like (1)
 
@@ -697,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[ESLint]] (2)
 > **Warnings:** note that (2)
 > **File Paths:** app.js (1)
 > **Documentation:** the documentation (1)
@@ -726,6 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), next (1)
 > **File Paths:** script.js (1), eslintrc.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -799,7 +803,6 @@ created: 2026-04-29
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **File Paths:** script.js (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -807,7 +810,7 @@ created: 2026-04-29
 
 ### 3. Using Punctuation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### End statements with a semicolon
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980)
@@ -908,7 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), function (1), const (1), else, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), data (3), next (2), [[Microsoft Word|Word]] (2), [[ESLint]] (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
 > **File Paths:** app.js (2)
 > **Analogies:** such as (2)
@@ -996,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), break. (3), require (1), case. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[ESLint]] (3), [[HTML]] (1), prompt (1)
 > **File Paths:** app.js (2), index.html (1)
 > **Code Identifiers:** makelowercase (1), userprefs (1), maklowercase (1)
 > **CLI Commands:** make (2)
@@ -1106,10 +1109,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (3), [[JavaScript]] (2), [[ESLint]] (2), [[Microsoft Word|Word]] (2), [[Search]] (2)
 > **Tools:** visual studio (2), sublime (1), atom (1)
 > **UI Navigation:** toggle (2), go to (2)
 > **File Paths:** app.js (2), settings.json (1)
-> **Code Keywords:** this. (1), break. (1), catch. (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
 > **Analogies:** for instance (1)
@@ -1172,10 +1175,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Fetch]] (1), [[ESLint]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **File Paths:** app.js (1)
-> **Code Keywords:** switch (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1225,8 +1228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Fetch]] (1), [[ESLint]] (1)
 > **Tools:** terminal (4)
-> **Code Keywords:** function (1), require (1), this. (1)
 > **Env Vars:** insert (1), api (1), key (1)
 > **File Paths:** app.js (1), apa.js (1)
 > **Definitions:** is an  (1)
@@ -1252,6 +1255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), next (1)
 > **File Paths:** script.js (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1382,7 +1386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (2), finally, (1), switch (1), let (1), return, (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[ESLint]] (1)
 > **CLI Commands:** make (3)
 > **Tools:** terminal (3)
 > **Definitions:** is an  (3)
@@ -1391,7 +1395,7 @@ created: 2026-04-29
 
 ### 4. Using Spacing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Indent consistently
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980)
@@ -1480,7 +1484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (1), default. (1), function (1), else, (1)
+> **Frameworks & Libraries:** [[ESLint]] (2), [[Search]] (2), [[JavaScript]] (1), data (1), hit (1)
 > **Definitions:** means that (4)
 > **Tools:** visual studio (2), vs code (1)
 > **File Paths:** app.js (2)
@@ -1560,7 +1564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), default, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (1), [[Search]] (1), parallel (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), means that (1)
 > **File Paths:** app.js (1)
@@ -1642,7 +1646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), default, (1), default. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (2), [[Search]] (1)
 > **File Paths:** app.js (2)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (1)
@@ -1710,7 +1714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), if, (3), else, (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (3), next (1), [[Search]] (1), [[Control Flow]] (1)
 > **CLI Commands:** make (3)
 > **File Paths:** app.js (2)
 > **Tools:** visual studio (1)
@@ -1783,7 +1787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), finally, (2), async (1), this. (1)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[JavaScript]] (2), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** asyncarrow (1)
@@ -1821,7 +1825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), for. (1)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[Fetch]] (2), api (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Cross-References:** go back to (1)
@@ -1920,7 +1924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (2), finally, (1), this, (1), default, (1)
+> **Frameworks & Libraries:** [[ESLint]] (8), [[JavaScript]] (3), data (1), [[JSON]] (1), node (1)
 > **File Paths:** app.js (3), eslintrc.js (1), package-lock.json (1)
 > **CLI Commands:** make (2), node (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -1964,9 +1968,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Search]] (2), [[ESLint]] (1), feature (1)
 > **Tools:** terminal (1), vs code (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** throw (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2015,7 +2019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), delete (1), this, (1), const (1)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[JavaScript]] (1)
 > **Best Practices:** best practice (2), it's best to (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** maxeof (1), distanceto (1)
@@ -2043,6 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), next (1)
 > **File Paths:** script.js (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -2131,7 +2136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), throw (1), let (1), for, (1), default. (1)
+> **Frameworks & Libraries:** [[ESLint]] (2), next (2), [[Fetch]] (2), prompt (1), [[Microsoft Word|Word]] (1)
 > **File Paths:** script.js (5)
 > **Code Identifiers:** asyncarrow (1), maxeof (1), itemlookup (1)
 > **Tools:** terminal (1)
@@ -2143,7 +2148,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/next-steps?u=76281980)
@@ -2166,6 +2171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Vanilla]] (3), [[Debugging]] (1)
 > **Speakers:** - [sasha] (1)
 
 

@@ -30,7 +30,7 @@ tags:
   - skill/front-end-development
   - skill/programming-foundations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Web%20Programming%20Foundations.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. Deconstructing the Web**](#1-deconstructing-the-web) (6 videos)
-  - From URL to website
-  - The web, in a browser
-  - The structure of a web document visualized
-  - The node tree: How the browser sees a web document
-  - HTML: The source code of the web
-  - The web document is a document with superpowers
+  - [From URL to website](#from-url-to-website)
+  - [The web, in a browser](#the-web-in-a-browser)
+  - [The structure of a web document visualized](#the-structure-of-a-web-document-visualized)
+  - [The node tree: How the browser sees a web document](#the-node-tree-how-the-browser-sees-a-web-document)
+  - [HTML: The source code of the web](#html-the-source-code-of-the-web)
+  - [The web document is a document with superpowers](#the-web-document-is-a-document-with-superpowers)
 - [**2. The Duality of Web Programming**](#2-the-duality-of-web-programming) (4 videos)
-  - The dual purpose of web code
-  - Content and structure
-  - Metadata and purpose
-  - Accessibility
+  - [The dual purpose of web code](#the-dual-purpose-of-web-code)
+  - [Content and structure](#content-and-structure)
+  - [Metadata and purpose](#metadata-and-purpose)
+  - [Accessibility](#accessibility)
 - [**3. Which Came First: The Browser or the Editor?**](#3-which-came-first-the-browser-or-the-editor) (3 videos)
-  - The web browser of today and of tomorrow
-  - What is a code editor?
-  - Developer tools
+  - [The web browser of today and of tomorrow](#the-web-browser-of-today-and-of-tomorrow)
+  - [What is a code editor?](#what-is-a-code-editor)
+  - [Developer tools](#developer-tools)
 - [**4. The Parts That Make up the Web**](#4-the-parts-that-make-up-the-web) (6 videos)
-  - HTML
-  - CSS
-  - JavaScript
-  - The Document Object Model (DOM)
-  - Events
-  - Putting it all together
+  - [HTML](#html)
+  - [CSS](#css)
+  - [JavaScript](#javascript)
+  - [The Document Object Model (DOM)](#the-document-object-model-dom)
+  - [Events](#events)
+  - [Putting it all together](#putting-it-all-together)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980)
@@ -125,17 +125,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), [[JavaScript]] (2)
 > **Env Vars:** url (4)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Deconstructing the Web
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From URL to website
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980)
@@ -188,8 +188,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), [[HTML]] (4), dns (3), data (2), css (2)
 > **Env Vars:** url (6), html (4), dns (3), css (2)
-> **Code Keywords:** let (2), return. (1), for. (1), else, (1), finally, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -226,7 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this: (1)
+> **Frameworks & Libraries:** web (3), css (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** css (1)
@@ -289,6 +289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (5), node (4), [[HTML]] (2), [[Document Object Model (DOM)|Document object model]] (2), web (2)
 > **Env Vars:** dom (4), html (2)
 > **CLI Commands:** node (4), find (1)
 > **Definitions:** is a  (4), is called (1)
@@ -335,10 +336,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (11), dom (5), web (3), application (2), node (2)
 > **Env Vars:** html (11), dom (5)
 > **Definitions:** is a  (4), is an  (3), known as (1)
 > **CLI Commands:** make (3), node (2), find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - at (1)
 
@@ -395,8 +396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (13), [[HTML]] (6), application (1)
 > **Env Vars:** html (6), pdf (1)
-> **Code Keywords:** for. (1), pass (1), else, (1), this, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
@@ -404,7 +405,7 @@ created: 2026-04-29
 
 ### 2. The Duality of Web Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The dual purpose of web code
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-dual-purpose-of-web-code?u=76281980)
@@ -443,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** web (2), css (1), next (1)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -501,8 +502,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[HTML]] (4), node (3), application (1), [[JavaScript]] (1)
 > **CLI Commands:** node (3), find (2)
-> **Code Keywords:** let (3), function (1)
 > **Env Vars:** html (4)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -540,9 +541,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), data (4), [[Metadata]] (3), web (2), [[Search]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** aria (2), html (1)
-> **Code Keywords:** for, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Accessibility
@@ -608,8 +609,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), [[Web Accessibility]] (4), [[HTML]] (2), [[Programming]] (1), product (1)
 > **CLI Commands:** make (10)
-> **Code Keywords:** default. (1), let (1), finally, (1), from. (1)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -617,7 +618,7 @@ created: 2026-04-29
 
 ### 3. Which Came First: The Browser or the Editor?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The web browser of today and of tomorrow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980)
@@ -692,10 +693,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (18), application (1), [[HTML]] (1), api (1), css (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** html (1), api (1), css (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - so (1)
 
@@ -772,6 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), application (2), [[HTML]] (2), css (2), [[JavaScript]] (2)
 > **Env Vars:** wysiwyg (4), html (2), css (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), in other words (1)
@@ -863,9 +865,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (7), web (4), [[JavaScript]] (3), css (2), feature (1)
 > **Env Vars:** dom (7), cta (3), css (2), hex (1), rgb (1)
 > **CLI Commands:** make (5), find (3), node (1)
-> **Code Keywords:** else, (3), let (2), default. (1), class, (1), case, (1)
 > **UI Navigation:** click on (6), open the (1)
 > **Tools:** firefox (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -875,7 +877,7 @@ created: 2026-04-29
 
 ### 4. The Parts That Make up the Web
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980)
@@ -924,8 +926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (13), web (8), application (3), [[JavaScript]] (2), data (2)
 > **Env Vars:** html (13), css (1), cms (1)
-> **Code Keywords:** static (3), case, (1), continue (1)
 > **Exercise Files:** template (3)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -960,9 +962,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (12), [[HTML]] (7), dom (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), node (1)
 > **Env Vars:** css (12), html (7), dom (2), ccs (1)
 > **CLI Commands:** node (1), make (1)
-> **Code Keywords:** switch (1), override (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [tutor] (1)
@@ -1000,10 +1002,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (14), [[HTML]] (7), css (6), web (4), dom (3)
 > **Env Vars:** html (7), css (6), dom (3), php (1)
 > **CLI Commands:** make (3), php (1), ruby (1)
 > **Definitions:** is a  (2), in other words (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1054,6 +1056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (12), [[HTML]] (8), dom (7), css (3), [[Document Object Model (DOM)|Document object model]] (2)
 > **Env Vars:** dom (7), html (7), css (3)
 > **CLI Commands:** node (12), find (1)
 > **Definitions:** is a  (2)
@@ -1109,8 +1112,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), dom (4), node (2), web (2), [[HTML]] (2)
 > **Env Vars:** dom (4), html (2), css (2), url (1)
-> **Code Keywords:** else, (1), function (1), else. (1), finally, (1)
 > **CLI Commands:** node (2), make (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is called (1)
@@ -1172,9 +1175,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (8), [[HTML]] (3), css (1), [[JavaScript]] (1)
 > **Tools:** visual studio (3), firefox (1), atom (1), command line (1)
 > **Env Vars:** html (3), mamp (1), css (1)
-> **Code Keywords:** this, (2), require (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
 > **UI Navigation:** click on (1)
@@ -1183,7 +1186,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980)
@@ -1210,6 +1213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), [[Programming]] (2), [[JavaScript]] (2), [[LinkedIn]] (2), [[HTML]] (1)
 > **CLI Commands:** make (1), find (1), go build (1)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** in the next (1)

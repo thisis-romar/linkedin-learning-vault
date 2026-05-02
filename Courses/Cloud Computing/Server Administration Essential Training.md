@@ -33,7 +33,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Server%20Administration%20Essential%20Training.md)
@@ -52,55 +52,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with server administration
-  - What you should know
+  - [Getting started with server administration](#getting-started-with-server-administration)
+  - [What you should know](#what-you-should-know)
 - [**1. Server Architecture**](#1-server-architecture) (3 videos)
-  - Server form factors
-  - Server components
-  - Power and cooling components
+  - [Server form factors](#server-form-factors)
+  - [Server components](#server-components)
+  - [Power and cooling components](#power-and-cooling-components)
 - [**2. Server Administration**](#2-server-administration) (4 videos)
-  - Server installation
-  - Post-installation configuration
-  - Server roles
-  - Server connectivity options
+  - [Server installation](#server-installation)
+  - [Post-installation configuration](#post-installation-configuration)
+  - [Server roles](#server-roles)
+  - [Server connectivity options](#server-connectivity-options)
 - [**3. Server Maintenance**](#3-server-maintenance) (5 videos)
-  - General server management
-  - Performance management
-  - Event logging
-  - Asset management
-  - Documentation
+  - [General server management](#general-server-management)
+  - [Performance management](#performance-management)
+  - [Event logging](#event-logging)
+  - [Asset management](#asset-management)
+  - [Documentation](#documentation)
 - [**4. Networking**](#4-networking) (4 videos)
-  - Basic IP configuration
-  - Common ports and protocols
-  - Network cabling
-  - Wireless networking
+  - [Basic IP configuration](#basic-ip-configuration)
+  - [Common ports and protocols](#common-ports-and-protocols)
+  - [Network cabling](#network-cabling)
+  - [Wireless networking](#wireless-networking)
 - [**5. Storage**](#5-storage) (3 videos)
-  - Storage technologies
-  - Understanding RAID
-  - Capacity planning
+  - [Storage technologies](#storage-technologies)
+  - [Understanding RAID](#understanding-raid)
+  - [Capacity planning](#capacity-planning)
 - [**6. Security**](#6-security) (4 videos)
-  - Rights and permissions
-  - Encryption
-  - Server hardening
-  - Physical security
+  - [Rights and permissions](#rights-and-permissions)
+  - [Encryption](#encryption)
+  - [Server hardening](#server-hardening)
+  - [Physical security](#physical-security)
 - [**7. Environmental Protection**](#7-environmental-protection) (3 videos)
-  - Power protection
-  - Environment and safety
-  - Secure disposal
+  - [Power protection](#power-protection)
+  - [Environment and safety](#environment-and-safety)
+  - [Secure disposal](#secure-disposal)
 - [**8. Virtualization and Cloud Computing**](#8-virtualization-and-cloud-computing) (3 videos)
-  - Benefits of virtualization
-  - Implementing virtual servers
-  - Overview of cloud computing
+  - [Benefits of virtualization](#benefits-of-virtualization)
+  - [Implementing virtual servers](#implementing-virtual-servers)
+  - [Overview of cloud computing](#overview-of-cloud-computing)
 - [**9. Disaster Recovery**](#9-disaster-recovery) (3 videos)
-  - Planning for a disaster
-  - Backup strategies
-  - Troubleshooting methodology
+  - [Planning for a disaster](#planning-for-a-disaster)
+  - [Backup strategies](#backup-strategies)
+  - [Troubleshooting methodology](#troubleshooting-methodology)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with server administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/getting-started-with-server-administration?u=76281980)
@@ -127,6 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), cloud (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -168,13 +169,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (8), [[Microsoft]] (3), [[Windows Server]] (1), [[Ubuntu]] (1), [[Security]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Server Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Server form factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-form-factors?u=76281980)
@@ -251,10 +253,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), management (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** stands for (2), refers to (1)
 > **Warnings:** keep in mind (3)
-> **Code Keywords:** let (2)
 > **Versions:** 1.75 (2)
 > **Env Vars:** kvm (1)
 > **Speakers:** - [narrator] (1)
@@ -378,10 +380,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), power (1), express (1)
 > **Env Vars:** ecc (3), pci (3), ddr (2), cpu (1), arm (1)
 > **Definitions:** is a  (5), known as (4), stands for (2), means that (1)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** type. (2), let (1), this, (1), interface (1), else. (1)
 > **Cross-References:** we talked about (1), previous video (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** install (1)
@@ -480,8 +482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (15)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1), stands for (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for instance (1)
@@ -490,7 +492,7 @@ created: 2026-04-29
 
 ### 2. Server Administration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Server installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980)
@@ -589,8 +591,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (6), next (4), [[Virtualization]] (3), data (2), [[Hardware]] (1)
 > **Prerequisites:** install (6), setup (1), set up (1)
-> **Code Keywords:** super (3), this. (1), let (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -721,8 +723,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (5), [[Windows]] (4), [[Linux]] (2), [[Microsoft Defender|Defender]] (2), management (1)
 > **UI Navigation:** click on (6), go to (1)
-> **Code Keywords:** let (2), case, (1), super (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Env Vars:** nic (1), dhcp (1)
 > **Cross-References:** go back to (2)
@@ -829,8 +831,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), web (4), dns (3), [[Microsoft]] (3), [[Windows Server]] (2)
 > **Prerequisites:** configure (6), set up (4), before you begin (1), install (1), setup (1)
-> **Code Keywords:** let (3), default. (1), static (1), this. (1), continue (1)
 > **Env Vars:** dns (3), dhcp (1), iis (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (1)
@@ -910,7 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), case, (1), switch (1), interface (1)
+> **Frameworks & Libraries:** [[Virtualization]] (3), [[Hardware]] (2), management (2), next (1)
 > **Definitions:** known as (1), stands for (1), is a  (1), refers to (1)
 > **Env Vars:** kvm (2), ssh (1)
 > **CLI Commands:** find (1), ssh (1)
@@ -922,7 +924,7 @@ created: 2026-04-29
 
 ### 3. Server Maintenance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### General server management
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980)
@@ -993,11 +995,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), [[Windows Server]] (3), [[Windows]] (3), next (1), generic (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for instance (2)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** default. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1104,9 +1106,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), data (4), [[Windows Server]] (1), generic (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (3)
 > **Cross-References:** go back to (2), in the last (1)
 > **Env Vars:** cpu (2)
 > **CLI Commands:** make (1)
@@ -1201,9 +1203,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Windows Server]] (1), [[Windows]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Warnings:** warning (4)
-> **Code Keywords:** let (2), for. (1)
 > **Definitions:** is called (1), is a  (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Speakers:** - [narrator] (1)
@@ -1291,8 +1293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (6), next (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (3), this, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1380,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** management (3), data (3), [[Troubleshooting]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2)
 > **Documentation:** the documentation (1)
@@ -1390,7 +1392,7 @@ created: 2026-04-29
 
 ### 4. Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic IP configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980)
@@ -1479,9 +1481,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (3), [[Windows Server]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** tcp (5), dhcp (3), dns (3)
 > **Prerequisites:** configure (5), set up (4), install (1)
-> **Code Keywords:** this. (2), let (2), static (2), require (1), private (1)
 > **Versions:** 192.168.1 (3), 255.255.255 (1), 192.168 (1)
 > **Definitions:** means that (2), in other words (1), is a  (1)
 > **UI Navigation:** click on (3)
@@ -1541,10 +1543,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), management (2), [[Security]] (1), dns (1)
 > **Env Vars:** pop (3), imap (3), ftp (2), http (1), https (1)
 > **Ports:** port 80 (1), port 443 (1), port 110 (1), port 995 (1), port 143 (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we talked about (1)
 > **Tools:** terminal (1)
 > **Prerequisites:** set up (1)
@@ -1647,8 +1649,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireless Networking]] (1), next (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** this. (1), switch (1)
 > **Env Vars:** tia (1), eia (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -1695,7 +1697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), require (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (2)
 > **CLI Commands:** find (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1703,7 +1705,7 @@ created: 2026-04-29
 
 ### 5. Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/storage-technologies?u=76281980)
@@ -1776,8 +1778,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), lan (1), management (1)
 > **Env Vars:** raid (2), ssd (1), tcp (1), nas (1), san (1)
-> **Code Keywords:** let (1), function (1), private (1), switch (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Documentation:** specification (1)
@@ -1902,8 +1904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Forms]] (4), next (1)
 > **Env Vars:** raid (27)
-> **Code Keywords:** let (5), function (1), continue (1)
 > **Definitions:** known as (3), means that (2), is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1976,9 +1978,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Capacity Planning]] (4)
 > **Warnings:** be careful (2), keep in mind (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this. (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1986,7 +1988,7 @@ created: 2026-04-29
 
 ### 6. Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rights and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980)
@@ -2085,7 +2087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), function (1), case, (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft]] (3), [[Security]] (3), [[Windows Server]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), click on (2), right-click (1)
 > **Analogies:** kind of like (2), for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -2171,8 +2173,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (5), [[Microsoft]] (2), feature (2), [[Windows Server]] (1)
 > **UI Navigation:** click on (4), go to (1), checkbox (1)
-> **Code Keywords:** public (2), this. (2), private (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** before you begin (1), set up (1)
 > **Env Vars:** efs (1)
@@ -2257,7 +2259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (2)
+> **Frameworks & Libraries:** [[Security]] (4), [[Hardware]] (3), application (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** bios (2)
 > **Prerequisites:** install (2)
@@ -2378,7 +2380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (1), throw (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (14), [[Multi-factor Authentication]] (5), next (1), [[Forms]] (1)
 > **Env Vars:** dna (3), rfid (2)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** picture (2), kind of like (1)
@@ -2389,7 +2391,7 @@ created: 2026-04-29
 
 ### 7. Environmental Protection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Power protection
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/power-protection?u=76281980)
@@ -2460,9 +2462,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (28), feature (3), business (2), generic (1), management (1)
 > **Env Vars:** ups (12)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (2), protected (1), require (1), new, (1), switch (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Prerequisites:** you need to have (1), make sure you have (1)
 > **Best Practices:** make sure to (1)
@@ -2515,8 +2517,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Electronics]] (2), power (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** static (3), let (1), case, (1), protected (1)
 > **Env Vars:** esd (3), hvac (2)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Definitions:** known as (1), is a  (1)
@@ -2599,7 +2601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), throw (2), this. (1), private (1)
+> **Frameworks & Libraries:** data (12), next (2), [[Security]] (1), business (1), [[Jigsaw]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
@@ -2609,7 +2611,7 @@ created: 2026-04-29
 
 ### 8. Virtualization and Cloud Computing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/benefits-of-virtualization?u=76281980)
@@ -2674,7 +2676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2)
+> **Frameworks & Libraries:** [[Virtualization]] (3), [[Hardware]] (3), feature (1), [[Troubleshooting]] (1), data (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -2798,10 +2800,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Windows Server]] (4), [[Virtualization]] (3), [[Microsoft]] (3), [[Virtual Machines]] (3)
 > **Env Vars:** dvd (7)
 > **UI Navigation:** click on (3), go to (2), checkbox (1), select the (1)
 > **Prerequisites:** install (3), before you begin (1), set up (1)
-> **Code Keywords:** else, (1), else. (1), case, (1), private (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - there (1)
 
@@ -2888,7 +2890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (11), public (7), let (2), self (1)
+> **Frameworks & Libraries:** cloud (25), data (9), [[Hybrid Cloud]] (5), business (4), [[Hardware]] (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2896,7 +2898,7 @@ created: 2026-04-29
 
 ### 9. Disaster Recovery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning for a disaster
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/planning-for-a-disaster?u=76281980)
@@ -3011,7 +3013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), else. (1)
+> **Frameworks & Libraries:** business (5), data (2)
 > **Definitions:** known as (3), is a  (2), is called (1)
 > **Cross-References:** we talked about (2), coming up (1)
 > **UI Navigation:** go to (1)
@@ -3146,7 +3148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), if, (1)
+> **Frameworks & Libraries:** data (16), next (1), business (1)
 > **Definitions:** is a  (2), known as (1), in other words (1), means that (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** just like (1), imagine (1)
@@ -3278,8 +3280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (5), next (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** else, (3), let (2), else. (2)
 > **Warnings:** be careful (2), troubleshoot (1)
 > **Env Vars:** kiss (2)
 > **Definitions:** is called (1)
@@ -3289,7 +3291,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/next-steps?u=76281980)
@@ -3304,6 +3306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), next (1)
 > **Speakers:** - [ed] (1)
 
 

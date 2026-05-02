@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Structure.md)
@@ -40,31 +40,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Structure is the backbone of UX
+  - [Structure is the backbone of UX](#structure-is-the-backbone-of-ux)
 - [**1. Understanding Structure**](#1-understanding-structure) (5 videos)
-  - Understanding the big picture
-  - Defining different structural flows
-  - Role of information architecture
-  - Defining information architecture
-  - Navigation labels and content inventory
+  - [Understanding the big picture](#understanding-the-big-picture)
+  - [Defining different structural flows](#defining-different-structural-flows)
+  - [Role of information architecture](#role-of-information-architecture)
+  - [Defining information architecture](#defining-information-architecture)
+  - [Navigation labels and content inventory](#navigation-labels-and-content-inventory)
 - [**2. Designing Page-Level Structure**](#2-designing-page-level-structure) (4 videos)
-  - Information scent and hierarchy
-  - Overview of page-level elements
-  - Overview of information density
-  - Organizing with a grid
+  - [Information scent and hierarchy](#information-scent-and-hierarchy)
+  - [Overview of page-level elements](#overview-of-page-level-elements)
+  - [Overview of information density](#overview-of-information-density)
+  - [Organizing with a grid](#organizing-with-a-grid)
 - [**3. Interface Design Considerations**](#3-interface-design-considerations) (6 videos)
-  - Sitemap and flow diagram
-  - Establishing the goals of the site
-  - Layout, hierarchy, and grouping
-  - Headings and content
-  - Iterating through layouts
-  - Determining the right interface elements to put it all together
+  - [Sitemap and flow diagram](#sitemap-and-flow-diagram)
+  - [Establishing the goals of the site](#establishing-the-goals-of-the-site)
+  - [Layout, hierarchy, and grouping](#layout-hierarchy-and-grouping)
+  - [Headings and content](#headings-and-content)
+  - [Iterating through layouts](#iterating-through-layouts)
+  - [Determining the right interface elements to put it all together](#determining-the-right-interface-elements-to-put-it-all-together)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structure is the backbone of UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/structure-is-the-backbone-of-ux?u=76281980)
@@ -83,13 +83,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (4), [[LinkedIn]] (1), career (1), next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the big picture
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/understanding-the-big-picture?u=76281980)
@@ -132,7 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), this. (1)
+> **Frameworks & Libraries:** ux (3), product (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -205,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this. (1)
+> **Frameworks & Libraries:** next (1), database (1), ux (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (1), is a  (1)
@@ -279,10 +280,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Search]] (2), [[Microsoft Word|Word]] (2), [[E-Commerce]] (1), web (1)
 > **Analogies:** for example (4), think of it as (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2), known as (1), is an  (1)
-> **Code Keywords:** for. (1), case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Defining information architecture
@@ -338,8 +339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** make (3), cat (3), find (1)
-> **Code Keywords:** let (1), type. (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -414,7 +415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), case, (1)
+> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
@@ -423,7 +424,7 @@ created: 2026-04-29
 
 ### 2. Designing Page-Level Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Information scent and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/information-scent-and-hierarchy?u=76281980)
@@ -484,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1)
+> **Frameworks & Libraries:** product (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -556,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (9)
+> **Frameworks & Libraries:** web (2), [[Prototyping]] (1), [[Google]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** iphone (1)
@@ -641,7 +642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (1), this. (1), switch (1)
+> **Frameworks & Libraries:** data (5), product (1), [[Microsoft Products|Products]] (1), ux (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** it (1)
 > **Best Practices:** the key is (1)
@@ -704,7 +705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2)
+> **Frameworks & Libraries:** [[Graphic Design]] (2), web (1), [[Zoom]] (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** make (1)
@@ -714,7 +715,7 @@ created: 2026-04-29
 
 ### 3. Interface Design Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sitemap and flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/sitemap-and-flow-diagram?u=76281980)
@@ -756,7 +757,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** cat (3), make (1)
-> **Code Keywords:** let (1), type. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -809,8 +809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Search]] (1)
 > **CLI Commands:** cat (6), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -877,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), module (2), case, (2), this, (1)
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -954,7 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (3)
+> **Frameworks & Libraries:** [[Search]] (3), [[GitHub]] (1), ux (1), data (1), [[Typography]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -1022,7 +1022,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), interface (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Versions:** version 3 (1)
@@ -1055,14 +1054,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980)
@@ -1083,6 +1082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), next (1), [[Prototyping]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [diane] (1)
 
 

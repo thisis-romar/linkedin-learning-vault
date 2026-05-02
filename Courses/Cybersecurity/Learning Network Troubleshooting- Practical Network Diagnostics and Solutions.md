@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-troubleshooting
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20Network%20Troubleshooting-%20Practical%20Network%20Diagnostics%20and%20Solutions.md)
@@ -48,38 +48,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Need to troubleshoot your network?
+  - [Need to troubleshoot your network?](#need-to-troubleshoot-your-network)
 - [**1. Training Network Problems**](#1-training-network-problems) (3 videos)
-  - How to determine the severity of network problems
-  - Fixing corporate resource issues
-  - Breaking down basic TCP/IP issues and causes
+  - [How to determine the severity of network problems](#how-to-determine-the-severity-of-network-problems)
+  - [Fixing corporate resource issues](#fixing-corporate-resource-issues)
+  - [Breaking down basic TCP/IP issues and causes](#breaking-down-basic-tcpip-issues-and-causes)
 - [**2. Troubleshooting Remote User Network Problems**](#2-troubleshooting-remote-user-network-problems) (3 videos)
-  - Common home networking issues
-  - Common home wireless issues
-  - Internet provider problems
+  - [Common home networking issues](#common-home-networking-issues)
+  - [Common home wireless issues](#common-home-wireless-issues)
+  - [Internet provider problems](#internet-provider-problems)
 - [**3. Troubleshooting Corporate Wireless Network Problems**](#3-troubleshooting-corporate-wireless-network-problems) (2 videos)
-  - Most common issues with corporate wireless
-  - Troubleshooting Wi-Fi interference
+  - [Most common issues with corporate wireless](#most-common-issues-with-corporate-wireless)
+  - [Troubleshooting Wi-Fi interference](#troubleshooting-wi-fi-interference)
 - [**4. Troubleshooting VPN Network Problems**](#4-troubleshooting-vpn-network-problems) (3 videos)
-  - What VPN types work in hotels and restaurants
-  - VPN works but cannot access any resources
-  - Common VPN error codes and how to fix them
+  - [What VPN types work in hotels and restaurants](#what-vpn-types-work-in-hotels-and-restaurants)
+  - [VPN works but cannot access any resources](#vpn-works-but-cannot-access-any-resources)
+  - [Common VPN error codes and how to fix them](#common-vpn-error-codes-and-how-to-fix-them)
 - [**5. Network Tools Administrators Need to Know**](#5-network-tools-administrators-need-to-know) (5 videos)
-  - Windows command-line tools
-  - PowerShell tools
-  - Linux networking tools
-  - Windows routing command-line tools
-  - Wireshark basics
+  - [Windows command-line tools](#windows-command-line-tools)
+  - [PowerShell tools](#powershell-tools)
+  - [Linux networking tools](#linux-networking-tools)
+  - [Windows routing command-line tools](#windows-routing-command-line-tools)
+  - [Wireshark basics](#wireshark-basics)
 - [**6. Troubleshooting Routing, Switching, and Firewalls**](#6-troubleshooting-routing-switching-and-firewalls) (3 videos)
-  - Modern network design
-  - How to fix data packets stuck en route
-  - Troubleshooting open firewall ports
+  - [Modern network design](#modern-network-design)
+  - [How to fix data packets stuck en route](#how-to-fix-data-packets-stuck-en-route)
+  - [Troubleshooting open firewall ports](#troubleshooting-open-firewall-ports)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Need to troubleshoot your network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Troubleshooting]] (3), [[Troubleshooting]] (2), cloud (1), vpn (1), hit (1)
 > **Env Vars:** tcp (1), vpn (1)
 > **Tools:** command line (1), powershell (1)
 > **CLI Commands:** make (1)
@@ -116,7 +117,7 @@ created: 2026-04-29
 
 ### 1. Training Network Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine the severity of network problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980)
@@ -195,6 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), hr (1), dns (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** dns (1)
 > **Definitions:** is an  (1)
@@ -304,11 +306,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), dns (6), vpn (4), [[Microsoft Outlook|Outlook]] (3), web (3)
 > **Env Vars:** dns (6), vpn (4), isp (3), lan (2), mapi (2)
 > **CLI Commands:** make (4), find (2), aws (1)
 > **Prerequisites:** set up (4), setup (1), you'll need (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** public (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -435,7 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), default. (1), private (1), this. (1)
+> **Frameworks & Libraries:** dns (5), lan (3), [[Routing]] (3), [[IP Addressing]] (2), next (2)
 > **Env Vars:** dns (5), lan (3), vpn (1), vlan (1)
 > **Versions:** 192.168.21 (2), 192.168.1 (1), 255.255.00 (1), 21.1 (1)
 > **CLI Commands:** make (3), find (1)
@@ -446,7 +448,7 @@ created: 2026-04-29
 
 ### 2. Troubleshooting Remote User Network Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common home networking issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980)
@@ -625,10 +627,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (8), dns (4), [[Active Directory]] (3), [[Windows]] (3), [[Windows 10]] (3)
 > **Env Vars:** vpn (8), dns (4), rdp (2), sstp (2), ssl (1)
 > **CLI Commands:** make (19)
 > **UI Navigation:** click on (5), go to (3), scroll down (1)
-> **Code Keywords:** let (1), default. (1), function (1)
 > **Versions:** 192.168.21 (1), 21.1 (1)
 > **Definitions:** short for (1), stands for (1)
 > **Analogies:** such as (1), for instance (1)
@@ -761,8 +763,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), [[Security]] (4), [[Microsoft Office|Office]] (2), [[Troubleshooting]] (2), [[Windows]] (2)
 > **Env Vars:** dns (5), dhcp (4), wpa2 (2), tkip (2), ssid (1)
-> **Code Keywords:** switch (2), else. (2), public (1), type. (1), case, (1)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 2.4 (4)
 > **Analogies:** for instance (2), such as (1), similar to (1)
@@ -973,8 +975,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (29), [[Windows]] (8), [[Google]] (4), [[Routing]] (3), [[Search]] (1)
 > **Env Vars:** dns (29), dhcp (8), ipv6 (4), ipv4 (4), https (1)
-> **Code Keywords:** public (5), case, (4), let (4), static (2), case. (2)
 > **UI Navigation:** click on (7), go to (5)
 > **CLI Commands:** make (7)
 > **Analogies:** such as (3), similar to (1)
@@ -985,7 +987,7 @@ created: 2026-04-29
 
 ### 3. Troubleshooting Corporate Wireless Network Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Most common issues with corporate wireless
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980)
@@ -1052,9 +1054,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Privacy]] (1), data (1), [[Security]] (1), traffic (1)
 > **Versions:** 2.4 (2), 802.11 (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** public (1), private (1)
 > **Env Vars:** aes (1), ssid (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -1102,8 +1104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), game (1), [[Security]] (1)
 > **Analogies:** such as (5)
-> **Code Keywords:** switch (1), public (1), this, (1), interface (1)
 > **Versions:** 2.4 (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
@@ -1113,7 +1115,7 @@ created: 2026-04-29
 
 ### 4. Troubleshooting VPN Network Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What VPN types work in hotels and restaurants
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980)
@@ -1182,8 +1184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (10), [[Windows]] (5), [[Windows Server]] (3), [[Security]] (2), [[Microsoft]] (2)
 > **Env Vars:** vpn (10), ssl (4), l2tp (4), sstp (3), pptp (1)
-> **Code Keywords:** public (3)
 > **Definitions:** known as (2), stands for (1)
 > **Ports:** port 443 (2)
 > **CLI Commands:** make (1)
@@ -1345,8 +1347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (18), dns (9), [[Windows Server]] (6), [[Windows]] (6), [[Routing]] (5)
 > **Env Vars:** vpn (18), dns (9), l2tp (3), sstp (3), dhcp (3)
-> **Code Keywords:** case, (3), default, (2), from. (2), let (1), default. (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** click on (4), go to (3)
 > **Prerequisites:** configure (3), you need to have (2), you'll need (1), set up (1)
@@ -1395,17 +1397,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (11), [[Windows]] (2), traffic (1), [[Active Directory]] (1)
 > **Env Vars:** vpn (11), l2tp (2)
 > **Definitions:** is a  (3)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** finally, (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 5. Network Tools Administrators Need to Know
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Windows command-line tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980)
@@ -1604,8 +1606,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (10), [[Windows]] (3), [[Windows 10]] (2), [[Active Directory]] (2), [[Google]] (2)
 > **Env Vars:** dns (10), tcp (3), ldap (3), arp (3), listening (2)
-> **Code Keywords:** switch (2), this, (2), let (2), from . (1), continue (1)
 > **Analogies:** such as (5), for instance (1), for example (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (2), short for (1), is called (1), is an  (1)
@@ -1680,8 +1682,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (11), dns (8), [[Windows]] (4), [[Microsoft]] (4), next (3)
 > **Tools:** powershell (11), windows terminal (1), terminal (1), command line (1)
-> **Code Keywords:** let (6), switch (2), public (1), private (1), default, (1)
 > **Env Vars:** dns (7), rtt (1), established (1), close_wait (1), https (1)
 > **Definitions:** means that (3), is a  (1)
 > **Analogies:** such as (3), for instance (1)
@@ -1780,9 +1782,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (8), dns (8), [[Windows]] (7), [[Microsoft]] (4), hit (2)
 > **Env Vars:** dns (8), netstat (2), ipv6 (1), dig (1), ldap (1)
 > **Analogies:** similar to (3), for instance (1)
-> **Code Keywords:** interface (2), switch (1)
 > **Definitions:** means that (2), is a  (1)
 > **Versions:** 192.168.21 (1), 8.8.8 (1)
 > **CLI Commands:** make (1)
@@ -1918,8 +1920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (7), dns (4), [[Windows]] (2), [[Google]] (2), [[Microsoft]] (2)
 > **Env Vars:** dns (4), isp (2), vlan (2), ipv6 (2), tcp (1)
-> **Code Keywords:** let (5), switch (3), this. (1), this, (1), type, (1)
 > **CLI Commands:** find (5), make (1)
 > **Analogies:** such as (4), for instance (1), for example (1)
 > **Versions:** 206.72.100 (1), 8.8.8 (1), 21.1 (1)
@@ -2102,8 +2104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (11), [[Windows]] (9), traffic (8), [[Windows Server]] (2), dns (2)
 > **Env Vars:** udp (3), ldap (2), sip (2), tcp (2), dns (2)
-> **Code Keywords:** switch (4), let (3), case, (2), function (1), interface (1)
 > **Ports:** port 80 (5), port 53 (1), port 445 (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
 > **Prerequisites:** install (6)
@@ -2114,7 +2116,7 @@ created: 2026-04-29
 
 ### 6. Troubleshooting Routing, Switching, and Firewalls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern network design
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980)
@@ -2227,8 +2229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), cloud (4), vpn (4), [[Routing]] (2), dns (2)
 > **Env Vars:** vpn (4), vlan (2), dns (2), san (2), wan (2)
-> **Code Keywords:** switch (6), finally, (1)
 > **Analogies:** such as (5), picture (1)
 > **Prerequisites:** you'll need (2), setup (1), set up (1)
 > **CLI Commands:** aws (2), find (1)
@@ -2353,7 +2355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (14), let (6), interface (3), default, (1)
+> **Frameworks & Libraries:** [[Routing]] (4), traffic (1), lan (1), [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** vlan (14), lan (1), wan (1), ipv4 (1), com4 (1)
 > **Prerequisites:** set up (7), you'll need (1), setup (1)
 > **CLI Commands:** make (4), find (1)
@@ -2451,10 +2453,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Powershell]] (3), prompt (1), application (1), data (1)
 > **Env Vars:** tcp (6), udp (3)
 > **Tools:** powershell (3), windows terminal (1), terminal (1), command prompt (1), command line (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** switch (1), continue (1), let (1)
 > **Warnings:** troubleshoot (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** open the (1), scroll up (1)
@@ -2463,7 +2465,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980)
@@ -2486,6 +2488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Troubleshooting]] (1), [[Microsoft Office|Office]] (1), [[Powershell]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** powershell (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [robert] (1)

@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/search-engine-optimization-seo
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SEO%20Foundations.md)
@@ -47,40 +47,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Leveraging search to accomplish your business goals
+  - [Leveraging search to accomplish your business goals](#leveraging-search-to-accomplish-your-business-goals)
 - [**1. Overview of SEO**](#1-overview-of-seo) (3 videos)
-  - What is search engine optimization?
-  - Reading search engine result pages
-  - How SEO affects your business
+  - [What is search engine optimization?](#what-is-search-engine-optimization)
+  - [Reading search engine result pages](#reading-search-engine-result-pages)
+  - [How SEO affects your business](#how-seo-affects-your-business)
 - [**2. Keywords: The Foundation of SEO**](#2-keywords-the-foundation-of-seo) (3 videos)
-  - Planning and researching your SEO keywords
-  - Analyzing SEO keywords and leveraging keyword attributes
-  - Mapping SEO keyword distribution and continually evaluating
+  - [Planning and researching your SEO keywords](#planning-and-researching-your-seo-keywords)
+  - [Analyzing SEO keywords and leveraging keyword attributes](#analyzing-seo-keywords-and-leveraging-keyword-attributes)
+  - [Mapping SEO keyword distribution and continually evaluating](#mapping-seo-keyword-distribution-and-continually-evaluating)
 - [**3. Content Optimization for SEO: How Search Engines and People View Webpages**](#3-content-optimization-for-seo-how-search-engines-and-people-view-webpages) (3 videos)
-  - Outlining content optimization
-  - Optimizing site structure
-  - Optimizing on-page elements
+  - [Outlining content optimization](#outlining-content-optimization)
+  - [Optimizing site structure](#optimizing-site-structure)
+  - [Optimizing on-page elements](#optimizing-on-page-elements)
 - [**4. Content Optimization: Technical SEO**](#4-content-optimization-technical-seo) (7 videos)
-  - Interpreting the code behind webpages for SEO
-  - Outlining how search engines index content
-  - Working with canonical URLs and redirects: Technical SEO
-  - Leveraging structured data: Technical SEO
-  - Using Google Search Console for SEO
-  - Using the Google Page Experience signal and Core Web Vitals
-  - Planning content over the long term
+  - [Interpreting the code behind webpages for SEO](#interpreting-the-code-behind-webpages-for-seo)
+  - [Outlining how search engines index content](#outlining-how-search-engines-index-content)
+  - [Working with canonical URLs and redirects: Technical SEO](#working-with-canonical-urls-and-redirects-technical-seo)
+  - [Leveraging structured data: Technical SEO](#leveraging-structured-data-technical-seo)
+  - [Using Google Search Console for SEO](#using-google-search-console-for-seo)
+  - [Using the Google Page Experience signal and Core Web Vitals](#using-the-google-page-experience-signal-and-core-web-vitals)
+  - [Planning content over the long term](#planning-content-over-the-long-term)
 - [**5. Links, Measurement, and AI for SEO**](#5-links-measurement-and-ai-for-seo) (6 videos)
-  - Outlining the importance of links for SEO
-  - Building links for SEO
-  - Measuring SEO performance
-  - Analyzing keywords and links
-  - AI for discovery
-  - SEO measurement and AI
+  - [Outlining the importance of links for SEO](#outlining-the-importance-of-links-for-seo)
+  - [Building links for SEO](#building-links-for-seo)
+  - [Measuring SEO performance](#measuring-seo-performance)
+  - [Analyzing keywords and links](#analyzing-keywords-and-links)
+  - [AI for discovery](#ai-for-discovery)
+  - [SEO measurement and AI](#seo-measurement-and-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Using your SEO foundational knowledge
+  - [Using your SEO foundational knowledge](#using-your-seo-foundational-knowledge)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging search to accomplish your business goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980)
@@ -117,15 +117,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), [[Search Engine Optimization (SEO)|Search engine optimization]] (2), seo (2), product (1), web (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** seo (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - search (1)
 
 
 ### 1. Overview of SEO
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is search engine optimization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980)
@@ -194,7 +194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Search]] (18), web (4), next (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** means that (1)
@@ -241,9 +241,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (17), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (2), seo (1)
 > **Env Vars:** seo (1), url (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
@@ -296,8 +296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (9), seo (7), business (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (2), traffic (1)
 > **Env Vars:** seo (7)
-> **Code Keywords:** for. (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -306,7 +306,7 @@ created: 2026-04-29
 
 ### 2. Keywords: The Foundation of SEO
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning and researching your SEO keywords
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980)
@@ -395,10 +395,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), seo (3), [[Microsoft Products|Products]] (2), [[Google]] (2), traffic (1)
 > **Code Identifiers:** iphone (6)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** seo (3)
-> **Code Keywords:** for. (2)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
@@ -460,7 +460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for. (2), this. (1), case, (1)
+> **Frameworks & Libraries:** data (7), [[Search]] (6), [[Google]] (1), seo (1)
 > **Code Identifiers:** iphone (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** seo (1)
@@ -540,10 +540,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), seo (2), traffic (2), [[Content Creation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Definitions:** is an  (2), is a  (2), defined as (1)
 > **Env Vars:** url (2), seo (2)
-> **Code Keywords:** for. (1), include. (1), function (1)
 > **Best Practices:** don't forget (1), make sure to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - keyword (1)
@@ -551,7 +551,7 @@ created: 2026-04-29
 
 ### 3. Content Optimization for SEO: How Search Engines and People View Webpages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Outlining content optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-content-optimization?u=76281980)
@@ -622,7 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1)
+> **Frameworks & Libraries:** [[Search]] (9), next (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - content (1)
@@ -704,9 +704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), web (1), product (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (7)
 > **Analogies:** imagine (3), for example (1)
-> **Code Keywords:** for. (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
 > **Speakers:** - as (1)
@@ -852,7 +852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), for. (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (26), next (5), data (3), [[Google]] (2), [[Metadata]] (2)
 > **Env Vars:** url (8), seo (1), json (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (2)
@@ -864,7 +864,7 @@ created: 2026-04-29
 
 ### 4. Content Optimization: Technical SEO
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Interpreting the code behind webpages for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980)
@@ -913,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[Search]] (8), web (1), [[Metadata]] (1), [[HTML]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** html (1)
 > **Cross-References:** earlier in (1)
@@ -995,11 +995,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (16), web (7), [[HTML]] (1), data (1), [[Programming]] (1)
 > **Env Vars:** xml (4), html (1), https (1)
 > **File Paths:** robots.txt (5)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), stands for (1), known as (1)
-> **Code Keywords:** let (1), switch (1)
 > **URLs:** [sitemaps.org](https://sitemaps.org) (1), [robotstxt.org](https://robotstxt.org) (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - search (1)
@@ -1065,8 +1065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (12), seo (3), web (2), data (1), [[Google]] (1)
 > **Env Vars:** url (11), seo (3)
-> **Code Keywords:** else. (1), this, (1), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - search (1)
@@ -1134,10 +1134,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (13), data (8), product (2), business (2), web (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [schema.org](https://schema.org) (3)
 > **Best Practices:** general rule (1), recommended (1)
-> **Code Keywords:** this, (1)
 > **Code Identifiers:** ecommerce (1)
 > **Env Vars:** json (1)
 > **Definitions:** is a  (1)
@@ -1258,7 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), from. (1), continue (1)
+> **Frameworks & Libraries:** [[Search]] (16), [[Google]] (9), data (4), hit (2), next (2)
 > **Env Vars:** url (2), html (1), dns (1), xml (1), amp (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** earlier in (2)
@@ -1350,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), for, (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (10), web (8), [[Search]] (7), [[Google]] (6), [[User Experience (UX)|User experience]] (2)
 > **Env Vars:** seo (1), lcp (1), fid (1), cls (1), https (1)
 > **CLI Commands:** find (2)
 > **Definitions:** known as (1), is a  (1)
@@ -1476,8 +1476,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), next (3), web (3), business (2), [[Newsletters]] (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3)
 > **Analogies:** for example (2), picture (1)
 > **Env Vars:** seo (1), kpi (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1488,7 +1488,7 @@ created: 2026-04-29
 
 ### 5. Links, Measurement, and AI for SEO
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Outlining the importance of links for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-the-importance-of-links-for-seo?u=76281980)
@@ -1565,9 +1565,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (13), seo (4), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** seo (4)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), try, (1)
 > **Definitions:** known as (2)
 > **Analogies:** for example (2)
 > **Best Practices:** recommended (1)
@@ -1678,8 +1678,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), web (2), business (2), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** find (5), make (1)
-> **Code Keywords:** let (4), for. (1), this, (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** seo (1)
 > **Best Practices:** general rule (1)
@@ -1749,10 +1749,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (10), data (7), [[Analytics]] (6), business (4), traffic (4)
 > **Env Vars:** seo (10)
 > **CLI Commands:** make (7), find (1)
 > **Prerequisites:** you'll need (3), set up (1)
-> **Code Keywords:** this, (2), case, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** make sure to (1), don't forget (1)
 > **Analogies:** for example (1)
@@ -1841,8 +1841,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (14), data (7), [[Google]] (5), traffic (4), [[Analytics]] (3)
 > **CLI Commands:** find (4), make (3)
-> **Code Keywords:** this, (1), for. (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** for example (2)
 > **Env Vars:** seo (1)
@@ -1921,9 +1921,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), seo (7), [[Search]] (7), chatbot (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Env Vars:** seo (7)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (3)
 > **Speakers:** - [instructor] (1)
 
 #### SEO measurement and AI
@@ -1993,7 +1993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1)
+> **Frameworks & Libraries:** data (10), ai (5), seo (3), business (3), [[Search]] (3)
 > **Env Vars:** seo (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
@@ -2003,7 +2003,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using your SEO foundational knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980)
@@ -2030,9 +2030,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** seo (9), [[Search]] (3), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[E-Commerce]] (1), [[Analytics]] (1)
 > **Env Vars:** seo (9)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - hopefully (1)
 

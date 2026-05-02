@@ -25,7 +25,7 @@ tags:
   - topic/security
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Analyzing%20VoIP%20Traffic%20with%20Wireshark.md)
@@ -44,43 +44,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understand and troubleshoot VoIP
-  - Getting the most out of this course
+  - [Understand and troubleshoot VoIP](#understand-and-troubleshoot-voip)
+  - [Getting the most out of this course](#getting-the-most-out-of-this-course)
 - [**1. VoIP Overview**](#1-voip-overview) (4 videos)
-  - Voice over IP (VoIP)
-  - VoIP and Unified Communications (UC)
-  - Digitizing a signal
-  - VoIP components
+  - [Voice over IP (VoIP)](#voice-over-ip-voip)
+  - [VoIP and Unified Communications (UC)](#voip-and-unified-communications-uc)
+  - [Digitizing a signal](#digitizing-a-signal)
+  - [VoIP components](#voip-components)
 - [**2. Protocols**](#2-protocols) (6 videos)
-  - Protocols overview
-  - TCP/IP
-  - DHCP
-  - Real-Time Transport Protocol
-  - Real-Time Control Protocol
-  - Skinny Client Control Protocol (SCCP)
+  - [Protocols overview](#protocols-overview)
+  - [TCP/IP](#tcpip)
+  - [DHCP](#dhcp)
+  - [Real-Time Transport Protocol](#real-time-transport-protocol)
+  - [Real-Time Control Protocol](#real-time-control-protocol)
+  - [Skinny Client Control Protocol (SCCP)](#skinny-client-control-protocol-sccp)
 - [**3. Connecting Systems**](#3-connecting-systems) (6 videos)
-  - Gateways and gatekeepers
-  - Understanding MGCP and Megaco (H.248)
-  - Session Initiation Protocol
-  - H.323 family
-  - Establishing an H.323 connection
-  - Evaluating H.323
+  - [Gateways and gatekeepers](#gateways-and-gatekeepers)
+  - [Understanding MGCP and Megaco (H.248)](#understanding-mgcp-and-megaco-h248)
+  - [Session Initiation Protocol](#session-initiation-protocol)
+  - [H.323 family](#h323-family)
+  - [Establishing an H.323 connection](#establishing-an-h323-connection)
+  - [Evaluating H.323](#evaluating-h323)
 - [**4. Network Operations**](#4-network-operations) (5 videos)
-  - Performance overview
-  - Quality of service
-  - Domain Name System
-  - Directory integration
-  - Using STIR/SHAKEN to reduce robocalls
+  - [Performance overview](#performance-overview)
+  - [Quality of service](#quality-of-service)
+  - [Domain Name System](#domain-name-system)
+  - [Directory integration](#directory-integration)
+  - [Using STIR/SHAKEN to reduce robocalls](#using-stirshaken-to-reduce-robocalls)
 - [**5. Wireshark Statistics**](#5-wireshark-statistics) (4 videos)
-  - Dissecting a VoIP call
-  - Evaluating call quality
-  - Analyzing an RTP stream
-  - Recognizing jitter
+  - [Dissecting a VoIP call](#dissecting-a-voip-call)
+  - [Evaluating call quality](#evaluating-call-quality)
+  - [Analyzing an RTP stream](#analyzing-an-rtp-stream)
+  - [Recognizing jitter](#recognizing-jitter)
 - [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand and troubleshoot VoIP
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980)
@@ -99,8 +99,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Real-Time]] (1), [[Wireshark]] (1), [[Statistics]] (1), traffic (1)
 > **Env Vars:** tcp (1), rtp (1)
-> **Code Keywords:** let (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [lisa] (1)
 
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -140,7 +140,7 @@ created: 2026-04-29
 
 ### 1. VoIP Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Voice over IP (VoIP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980)
@@ -189,8 +189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), [[Google]] (1), web (1), business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** isp (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -235,8 +235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), [[Business Communications]] (1), [[Microsoft Outlook|Outlook]] (1), [[Customer Relations]] (1), management (1)
 > **Env Vars:** voip (2)
-> **Code Keywords:** interface (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -287,6 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), traffic (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
 > **Versions:** 3.5 (1), 4.2 (1)
 > **Env Vars:** mos (1)
@@ -337,7 +338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), public (1), switch (1)
+> **Frameworks & Libraries:** data (3), management (1), [[Network Security]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** isdn (1), rtp (1), sip (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** you'll need (1), setup (1)
@@ -349,7 +350,7 @@ created: 2026-04-29
 
 ### 2. Protocols
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protocols overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980)
@@ -384,10 +385,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Real-Time]] (3), [[Call Control]] (1)
 > **Env Vars:** tcp (1), rtp (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** setup (2)
-> **Code Keywords:** private (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -432,6 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Routing]] (2), dns (1)
 > **Env Vars:** tcp (8), icmp (2), udp (2), http (1), ftp (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (3)
@@ -480,9 +482,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Local Area Network (LAN)|Local area network]] (1), traffic (1)
 > **Env Vars:** dhcp (8), vlan (2)
 > **Prerequisites:** you'll need (1), set up (1), configure (1)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
@@ -597,8 +599,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Wireshark]] (4), traffic (1), [[Statistics]] (1), next (1)
 > **Env Vars:** rtp (13), udp (3), tcp (2)
-> **Code Keywords:** case, (3), this. (2), export, (1), type. (1)
 > **UI Navigation:** go to (2), scroll up (2), scroll down (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** such as (1)
@@ -710,11 +712,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (15), [[Statistics]] (5), data (2), application (2), management (1)
 > **Env Vars:** rtp (10), udp (1), cname (1), bye (1), sip (1)
 > **Definitions:** is a  (7)
 > **UI Navigation:** go to (1), scroll up (1), scroll down (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** type, (1), export, (1)
 > **Ports:** port 8000 (1), port 8001 (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
@@ -808,8 +810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (6), data (2), [[Statistics]] (1), [[Search]] (1)
 > **Env Vars:** rtp (18), udp (3)
-> **Code Keywords:** let (7), case, (3), this, (2)
 > **UI Navigation:** go to (7), scroll down (1)
 > **CLI Commands:** make (2), find (1)
 > **Ports:** port 16384 (2), port 2000 (1)
@@ -820,7 +822,7 @@ created: 2026-04-29
 
 ### 3. Connecting Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gateways and gatekeepers
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/gateways-and-gatekeepers?u=76281980)
@@ -863,7 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), public (1), interface (1), private (1)
+> **Frameworks & Libraries:** traffic (2), management (1), application (1)
 > **Env Vars:** rtp (1), sip (1), sigtran (1), ss7 (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** such as (2)
@@ -966,7 +968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (1), delete (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), traffic (1), management (1), next (1), [[Statistics]] (1)
 > **Env Vars:** mgcp (2), sip (1), udp (1)
 > **Definitions:** is a  (2), known as (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -1058,8 +1060,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Microsoft Products|Products]] (1), [[Wireshark]] (1), [[Statistics]] (1)
 > **Env Vars:** sip (13), rtp (4)
-> **Code Keywords:** let (2), private (1), this. (1), from, (1), case, (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (2), - [caller] (1)
@@ -1113,7 +1115,6 @@ created: 2026-04-29
 > **Env Vars:** itu (1), tcp (1), udp (1), rtp (1), sip (1)
 > **Prerequisites:** setup (3)
 > **Analogies:** such as (2)
-> **Code Keywords:** switch (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1220,9 +1221,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Troubleshooting]] (1), [[Statistics]] (1), traffic (1)
 > **Env Vars:** tcp (4), tpkt (2), isdn (2), rtp (1), pcap (1)
 > **Prerequisites:** setup (7), set up (1)
-> **Code Keywords:** let (5), this, (2)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
@@ -1290,9 +1291,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), data (2), [[Wireshark]] (2), [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rtp (3), udp (2), tcp (1)
 > **Prerequisites:** setup (2), set up (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** terminalcapabilityset (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
@@ -1301,7 +1302,7 @@ created: 2026-04-29
 
 ### 4. Network Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Performance overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/performance-overview?u=76281980)
@@ -1358,9 +1359,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (11), web (1), data (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (2), for example (1), it's like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1452,7 +1453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), let (2), else, (1), case, (1)
+> **Frameworks & Libraries:** traffic (8), data (3), [[Real-Time]] (2), [[Microsoft Word|Word]] (1), [[Routing Protocols]] (1)
 > **Env Vars:** eigrp (3), rfc (2)
 > **Documentation:** rfc (2)
 > **Definitions:** is a  (2)
@@ -1503,8 +1504,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (5), web (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** sip (6), dns (5), http (1), ldap (1)
-> **Code Keywords:** public (1), type, (1), class, (1)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1537,6 +1538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (1), application (1), [[Search]] (1), web (1), database (1)
 > **Env Vars:** ldap (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1607,7 +1609,6 @@ created: 2026-04-29
 >
 > **Env Vars:** stir (7), shaken (6), sip (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (3), this, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1615,7 +1616,7 @@ created: 2026-04-29
 
 ### 5. Wireshark Statistics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dissecting a VoIP call
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980)
@@ -1696,8 +1697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (7), [[Statistics]] (2), [[Troubleshooting]] (2)
 > **Env Vars:** call (4), rejected (3), sip (2), setup (2), ringing (2)
-> **Code Keywords:** let (3), case, (3), from. (1), from, (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** setup (2)
@@ -1759,7 +1760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Troubleshooting]] (3), [[Real-Time]] (1), [[Statistics]] (1), feature (1), next (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1857,8 +1858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (3), data (2), [[Statistics]] (2), next (1), feature (1)
 > **Env Vars:** rtp (16)
-> **Code Keywords:** let (3)
 > **UI Navigation:** select the (2), go to (1)
 > **Ports:** port 4800 (1)
 > **Speakers:** - [instructor] (1)
@@ -1946,8 +1947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (4), next (1)
 > **Env Vars:** rtp (9), udp (2), pcap (1)
-> **Code Keywords:** let (4), this. (1)
 > **Versions:** 0.83 (3), 12.83 (2)
 > **UI Navigation:** go to (5)
 > **Definitions:** is a  (2)
@@ -1956,7 +1957,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

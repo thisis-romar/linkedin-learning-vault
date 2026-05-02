@@ -24,7 +24,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20Responsible%20AI%20in%20Organizations.md)
@@ -43,24 +43,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Leading responsible AI in organizations
+  - [Leading responsible AI in organizations](#leading-responsible-ai-in-organizations)
 - [**1. Key Factors to Build a Responsible AI Culture**](#1-key-factors-to-build-a-responsible-ai-culture) (12 videos)
-  - Leading responsible AI with ethics as core values
-  - Ensuring data governance as responsible leadership
-  - Transparency and explainability to cultivate trust
-  - Regulatory compliance as a standard of integrity
-  - Creating a responsible AI hub of excellence
-  - Accountability and security as a fundamental practice
-  - Inclusive collaboration in AI development
-  - Employee stakeholder collaboration as a partnership model
-  - Cultivating continuous responsible AI learning
-  - Organizational responsiveness in AI ethics
-  - External engagement as a responsible leadership approach
-  - Sustainability as an ethical obligation
+  - [Leading responsible AI with ethics as core values](#leading-responsible-ai-with-ethics-as-core-values)
+  - [Ensuring data governance as responsible leadership](#ensuring-data-governance-as-responsible-leadership)
+  - [Transparency and explainability to cultivate trust](#transparency-and-explainability-to-cultivate-trust)
+  - [Regulatory compliance as a standard of integrity](#regulatory-compliance-as-a-standard-of-integrity)
+  - [Creating a responsible AI hub of excellence](#creating-a-responsible-ai-hub-of-excellence)
+  - [Accountability and security as a fundamental practice](#accountability-and-security-as-a-fundamental-practice)
+  - [Inclusive collaboration in AI development](#inclusive-collaboration-in-ai-development)
+  - [Employee stakeholder collaboration as a partnership model](#employee-stakeholder-collaboration-as-a-partnership-model)
+  - [Cultivating continuous responsible AI learning](#cultivating-continuous-responsible-ai-learning)
+  - [Organizational responsiveness in AI ethics](#organizational-responsiveness-in-ai-ethics)
+  - [External engagement as a responsible leadership approach](#external-engagement-as-a-responsible-leadership-approach)
+  - [Sustainability as an ethical obligation](#sustainability-as-an-ethical-obligation)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading responsible AI in organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980)
@@ -81,13 +81,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), business (1), leadership (1), data (1), [[Security]] (1)
 > **Speakers:** - business (1)
 
 
 ### 1. Key Factors to Build a Responsible AI Culture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading responsible AI with ethics as core values
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980)
@@ -150,7 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (14), ai (6), [[Ethics]] (5), leadership (3), [[Regulatory Compliance]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
@@ -209,8 +209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Responsible AI]] (9), business (1), ai (1)
 > **Definitions:** is a  (3), means that (1)
-> **Code Keywords:** raise (1), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
@@ -275,8 +275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Responsible AI]] (2), [[Algorithms]] (1), leadership (1), business (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (3), continue (1), this. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - over (1)
 
@@ -333,8 +333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (7), ai (5), leadership (3), [[Accountability]] (2), data (2)
 > **Definitions:** is an  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - as (1)
 
 #### Creating a responsible AI hub of excellence
@@ -386,8 +386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (5), ai (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - many (1)
@@ -445,8 +445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Security]] (6), [[Responsible AI]] (3), data (1), business (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
 #### Inclusive collaboration in AI development
@@ -508,6 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (8), teams (5), ai (3), data (3), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1)
 > **Speakers:** - promoting (1)
@@ -563,7 +564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (6), teams (2), ai (1), [[Organizational Culture]] (1), leadership (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - stakeholders (1)
 
@@ -614,7 +615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), continue (1)
+> **Frameworks & Libraries:** ai (7), [[Responsible AI]] (4), [[Accountability]] (1), teams (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
@@ -670,7 +671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), continue (1)
+> **Frameworks & Libraries:** ai (6), [[Responsible AI]] (4), business (2), leadership (1), [[Organizational Culture]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
 
@@ -731,7 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), business (3), [[Accountability]] (1), leadership (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - many (1)
 
@@ -794,9 +795,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (8), [[Responsible AI]] (6), ai (6), data (3), power (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - responsible (1)
 

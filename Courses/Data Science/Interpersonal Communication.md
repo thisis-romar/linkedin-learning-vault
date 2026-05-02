@@ -29,7 +29,7 @@ tags:
   - topic/data-science
   - skill/interpersonal-communication
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Interpersonal%20Communication.md)
@@ -48,29 +48,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Build your interpersonal communication skills
+  - [Build your interpersonal communication skills](#build-your-interpersonal-communication-skills)
 - [**1. Communicating with Your Colleagues**](#1-communicating-with-your-colleagues) (4 videos)
-  - Building rapport
-  - How to interpret nonverbal cues
-  - How to make requests effectively
-  - When to send an email vs. have a call or meeting
+  - [Building rapport](#building-rapport)
+  - [How to interpret nonverbal cues](#how-to-interpret-nonverbal-cues)
+  - [How to make requests effectively](#how-to-make-requests-effectively)
+  - [When to send an email vs. have a call or meeting](#when-to-send-an-email-vs-have-a-call-or-meeting)
 - [**2. Communicating with Your Supervisor**](#2-communicating-with-your-supervisor) (4 videos)
-  - How to manage expectations
-  - Get the guidance you need
-  - Ask your boss the right questions
-  - Know when to listen and when to speak
+  - [How to manage expectations](#how-to-manage-expectations)
+  - [Get the guidance you need](#get-the-guidance-you-need)
+  - [Ask your boss the right questions](#ask-your-boss-the-right-questions)
+  - [Know when to listen and when to speak](#know-when-to-listen-and-when-to-speak)
 - [**3. Communicating in Tricky Situations**](#3-communicating-in-tricky-situations) (5 videos)
-  - Communication and cultural differences
-  - How to handle an interruption
-  - How to respond to critical feedback
-  - How to communicate as an introvert
-  - Communicating through tense situations
+  - [Communication and cultural differences](#communication-and-cultural-differences)
+  - [How to handle an interruption](#how-to-handle-an-interruption)
+  - [How to respond to critical feedback](#how-to-respond-to-critical-feedback)
+  - [How to communicate as an introvert](#how-to-communicate-as-an-introvert)
+  - [Communicating through tense situations](#communicating-through-tense-situations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Investing in communication skills
+  - [Investing in communication skills](#investing-in-communication-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your interpersonal communication skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=76281980)
@@ -99,14 +99,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** career (1), game (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
 
 ### 1. Communicating with Your Colleagues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980)
@@ -177,8 +177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Relationship Building]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - it (1)
 
@@ -263,7 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Office|Office]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -345,7 +345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** business (1), next (1), express (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for instance (2)
@@ -426,8 +426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), next (2), business (1), prompt (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** else, (1), case, (1), let (1)
 > **Best Practices:** it's best to (2)
 > **Ports:** :00 (1)
 > **Definitions:** is a  (1)
@@ -436,7 +436,7 @@ created: 2026-04-29
 
 ### 2. Communicating with Your Supervisor
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to manage expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-manage-expectations?u=76281980)
@@ -491,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), power (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
@@ -564,8 +564,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), business (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Documentation:** reference guide (1)
 > **Speakers:** - one (1)
 
@@ -711,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), while. (1), finally, (1)
+> **Frameworks & Libraries:** data (1), business (1)
 > **Env Vars:** sec (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - it (1)
@@ -719,7 +719,7 @@ created: 2026-04-29
 
 ### 3. Communicating in Tricky Situations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communication and cultural differences
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/communication-and-cultural-differences?u=76281980)
@@ -782,8 +782,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Relationship Building]] (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (2)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -856,7 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -944,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (3), from. (1), for, (1), this, (1)
+> **Frameworks & Libraries:** career (1), next (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1025,8 +1025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** strengths (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** pass (1), else, (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - i (1)
 
@@ -1095,8 +1095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
@@ -1105,7 +1105,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Investing in communication skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/investing-in-communication-skills?u=76281980)
@@ -1130,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Interpersonal Communication]] (1)
 > **URLs:** [dorieclark.com](https://dorieclark.com) (1)
 > **Speakers:** - we (1)
 

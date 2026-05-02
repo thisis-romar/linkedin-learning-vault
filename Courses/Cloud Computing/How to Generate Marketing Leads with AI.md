@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/lead-generation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/How%20to%20Generate%20Marketing%20Leads%20with%20AI.md)
@@ -51,19 +51,19 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Boost your lead generation with AI
+  - [Boost your lead generation with AI](#boost-your-lead-generation-with-ai)
 - [**1. Applying AI to Lead Generation**](#1-applying-ai-to-lead-generation) (5 videos)
-  - Understanding AI for lead generation
-  - Using essential AI technologies
-  - AI driven customer segmentation
-  - Personalization and AI for lead nurturing
-  - AI in predictive analysis for lead scoring
+  - [Understanding AI for lead generation](#understanding-ai-for-lead-generation)
+  - [Using essential AI technologies](#using-essential-ai-technologies)
+  - [AI driven customer segmentation](#ai-driven-customer-segmentation)
+  - [Personalization and AI for lead nurturing](#personalization-and-ai-for-lead-nurturing)
+  - [AI in predictive analysis for lead scoring](#ai-in-predictive-analysis-for-lead-scoring)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Cultivate a growth mindset
+  - [Cultivate a growth mindset](#cultivate-a-growth-mindset)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Boost your lead generation with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/boost-your-lead-generation-with-ai?u=76281980)
@@ -92,13 +92,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), ai (4), [[Lead Generation]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - so (1)
 
 
 ### 1. Applying AI to Lead Generation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AI for lead generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980)
@@ -201,6 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Lead Generation]] (4), data (4), [[Content Creation]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Env Vars:** roi (1)
@@ -297,9 +299,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Lead Generation]] (5), [[ChatGPT]] (4), next (3), data (3)
 > **Env Vars:** crm (3), gpt (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** for, (1), this. (1), case. (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (2)
 > **URLs:** [calendar.ai](https://calendar.ai) (1)
@@ -390,10 +392,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (7)
 > **CLI Commands:** make (2)
 > **Env Vars:** crm (2)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - customer (1)
 
@@ -480,7 +482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** ai (4), [[Lead Generation]] (2), [[Automation]] (2), [[Microsoft Word|Word]] (1), power (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - so (1)
@@ -584,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), from. (1), for. (1), this. (1)
+> **Frameworks & Libraries:** data (7), ai (5), next (3), game (1), business (1)
 > **Analogies:** imagine (3), for example (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** crm (1)
@@ -595,7 +597,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cultivate a growth mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980)
@@ -666,7 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), super (2), from, (1), for. (1)
+> **Frameworks & Libraries:** ai (7), [[LinkedIn]] (2), next (1), [[ChatGPT]] (1), [[DALL-E]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** dall (1)

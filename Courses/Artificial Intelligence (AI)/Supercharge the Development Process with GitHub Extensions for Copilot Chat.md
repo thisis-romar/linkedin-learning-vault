@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Supercharge%20the%20Development%20Process%20with%20GitHub%20Extensions%20for%20Copilot%20Chat.md)
@@ -49,16 +49,16 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Extending GitHub Copilot Chat
+  - [Extending GitHub Copilot Chat](#extending-github-copilot-chat)
 - [**1. Using Copilot Extensions**](#1-using-copilot-extensions) (4 videos)
-  - Prerequisites for using GitHub Extensions
-  - Installing extensions from the GitHub Marketplace
-  - Using GitHub Extensions in code editors
-  - Using GitHub Copilot on GitHub.com
+  - [Prerequisites for using GitHub Extensions](#prerequisites-for-using-github-extensions)
+  - [Installing extensions from the GitHub Marketplace](#installing-extensions-from-the-github-marketplace)
+  - [Using GitHub Extensions in code editors](#using-github-extensions-in-code-editors)
+  - [Using GitHub Copilot on GitHub.com](#using-github-copilot-on-githubcom)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending GitHub Copilot Chat
 > [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980)
@@ -83,15 +83,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (2), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **Tools:** github (3)
 > **CLI Commands:** find (1), docker (1)
-> **Code Keywords:** let (1), this. (1)
 > **Speakers:** - one (1)
 
 
 ### 1. Using Copilot Extensions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites for using GitHub Extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980)
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[GitHub]] (11), business (2), [[Security]] (2), [[GitHub Copilot]] (1)
 > **Tools:** github (12), visual studio (2), neovim (1)
 > **URLs:** [github.com](https://github.com) (1)
 > **UI Navigation:** scroll down (1)
@@ -212,12 +213,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Codespaces]] (5), [[GitHub Copilot]] (3), hit (3), cloud (2)
 > **Tools:** visual studio (5), github (4)
 > **Prerequisites:** install (6), setup (1)
 > **Env Vars:** ide (2), html (1), css (1), api (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (4)
-> **Code Keywords:** default. (1), let (1)
 > **Definitions:** is a  (2)
 > **Documentation:** the readme (1)
 
@@ -274,10 +275,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Microsoft Copilot|Copilot]] (4), hit (3), application (3), [[GitHub Copilot]] (2)
 > **CLI Commands:** make (4), docker (2), find (1)
 > **Tools:** github (6)
 > **Prerequisites:** install (5), make sure you have (1)
-> **Code Keywords:** public (1), let (1), case, (1), require (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -376,7 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), switch (2), else. (1), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[GitHub]] (5), chatbot (4), generic (2), [[GitHub Copilot]] (1)
 > **UI Navigation:** click on (3), go to (3), switch to (2)
 > **Tools:** github (6)
 > **Env Vars:** readme (2), gpt (1)

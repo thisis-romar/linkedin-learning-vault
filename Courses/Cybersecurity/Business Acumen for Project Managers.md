@@ -28,7 +28,7 @@ tags:
   - skill/project-management
   - skill/business-acumen
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Business%20Acumen%20for%20Project%20Managers.md)
@@ -47,38 +47,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building your business acumen as a project manager
+  - [Building your business acumen as a project manager](#building-your-business-acumen-as-a-project-manager)
 - [**1. Strategy and Business Management for Project Managers**](#1-strategy-and-business-management-for-project-managers) (1 videos)
-  - The Talent Triangle in project management
+  - [The Talent Triangle in project management](#the-talent-triangle-in-project-management)
 - [**2. Aligning Projects with Business Strategy**](#2-aligning-projects-with-business-strategy) (8 videos)
-  - The role of projects in your business strategy
-  - Strategic, tactical, and operational aspects of projects
-  - Define your strategic project goals
-  - Define the benefits of your project for stakeholders
-  - Define the risks of your project
-  - Define the sustainability of your project
-  - Process improvement methods in project management
-  - Align your project scope, schedule, and budget
+  - [The role of projects in your business strategy](#the-role-of-projects-in-your-business-strategy)
+  - [Strategic, tactical, and operational aspects of projects](#strategic-tactical-and-operational-aspects-of-projects)
+  - [Define your strategic project goals](#define-your-strategic-project-goals)
+  - [Define the benefits of your project for stakeholders](#define-the-benefits-of-your-project-for-stakeholders)
+  - [Define the risks of your project](#define-the-risks-of-your-project)
+  - [Define the sustainability of your project](#define-the-sustainability-of-your-project)
+  - [Process improvement methods in project management](#process-improvement-methods-in-project-management)
+  - [Align your project scope, schedule, and budget](#align-your-project-scope-schedule-and-budget)
 - [**3. Recognizing Business Function Priorities**](#3-recognizing-business-function-priorities) (13 videos)
-  - Prioritizing the customer for business acumen
-  - Insights on marketing and sales for project managers
-  - Insights on procurement, operations, and logistics for PMs
-  - Insights on supply chain management for PMs
-  - Insights on human resources for project managers
-  - Insights on safety and physical security for PMs
-  - Insights on information technology for PMs
-  - Insights on finance and accounting documents for PMs
-  - Insights on finance and accounting calculations for PMs
-  - Insights on Capital Expenses (CapEx) and Operational Expenses (OpEx)
-  - Insights on AI
-  - Insights on supply chain resilience
-  - Insights on startups
+  - [Prioritizing the customer for business acumen](#prioritizing-the-customer-for-business-acumen)
+  - [Insights on marketing and sales for project managers](#insights-on-marketing-and-sales-for-project-managers)
+  - [Insights on procurement, operations, and logistics for PMs](#insights-on-procurement-operations-and-logistics-for-pms)
+  - [Insights on supply chain management for PMs](#insights-on-supply-chain-management-for-pms)
+  - [Insights on human resources for project managers](#insights-on-human-resources-for-project-managers)
+  - [Insights on safety and physical security for PMs](#insights-on-safety-and-physical-security-for-pms)
+  - [Insights on information technology for PMs](#insights-on-information-technology-for-pms)
+  - [Insights on finance and accounting documents for PMs](#insights-on-finance-and-accounting-documents-for-pms)
+  - [Insights on finance and accounting calculations for PMs](#insights-on-finance-and-accounting-calculations-for-pms)
+  - [Insights on Capital Expenses (CapEx) and Operational Expenses (OpEx)](#insights-on-capital-expenses-capex-and-operational-expenses-opex)
+  - [Insights on AI](#insights-on-ai)
+  - [Insights on supply chain resilience](#insights-on-supply-chain-resilience)
+  - [Insights on startups](#insights-on-startups)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Leverage your business acumen for project success
+  - [Leverage your business acumen for project success](#leverage-your-business-acumen-for-project-success)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your business acumen as a project manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/building-your-business-acumen-as-a-project-manager?u=76281980)
@@ -107,15 +107,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), teams (2), management (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - project (1)
 
 
 ### 1. Strategy and Business Management for Project Managers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Talent Triangle in project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-talent-triangle-in-project-management?u=76281980)
@@ -160,6 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (9), business (6), leadership (6), next (1), career (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -168,7 +169,7 @@ created: 2026-04-29
 
 ### 2. Aligning Projects with Business Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of projects in your business strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-role-of-projects-in-your-business-strategy?u=76281980)
@@ -235,6 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Agile Development|Agile]] (1)
 > **Definitions:** is an  (2), is called (1), refers to (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - have (1)
@@ -312,7 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), this. (1), continue (1)
+> **Frameworks & Libraries:** business (5), next (3), career (1)
 > **Cross-References:** in the next (2)
 > **Speakers:** - stop (1)
 
@@ -383,10 +385,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), in other words (1), is an  (1)
 > **Env Vars:** smart (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - great (1)
@@ -454,11 +456,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** wiifm (2)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - people (1)
 
 #### Define the risks of your project
@@ -544,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** management (2), teams (2), business (2), next (1), [[Microsoft Outlook|Outlook]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -620,9 +622,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (8), business (1), next (1), [[Electronics]] (1)
 > **Definitions:** means that (1), is called (1), in other words (1), is a  (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** co2 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
@@ -696,8 +698,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (4), [[Microsoft Products|Products]] (2), [[Statistics]] (1), business (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), catch, (1)
 > **Env Vars:** dmaic (1)
 > **Versions:** 3.4 (1)
 > **Definitions:** in other words (1)
@@ -781,7 +783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), return. (1), case, (1)
+> **Frameworks & Libraries:** management (2), [[Microsoft Office|Office]] (1), product (1), feature (1), business (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
@@ -792,7 +794,7 @@ created: 2026-04-29
 
 ### 3. Recognizing Business Function Priorities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prioritizing the customer for business acumen
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980)
@@ -849,8 +851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (2), product (1), [[Engineering]] (1), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** in other words (1), is called (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Analogies:** such as (1)
@@ -920,6 +922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), business (2), teams (1), game (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - every (1)
@@ -997,8 +1000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** in other words (1), refers to (1), is an  (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1066,6 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Supply Chain Management]] (8), management (2), product (1), business (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** apec (1)
 > **Analogies:** for example (1)
@@ -1148,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (1), for. (1), protected (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (12), hr (2), job description (2), teams (1), business (1)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1219,7 +1223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (1), protected (1)
+> **Frameworks & Libraries:** [[Security]] (5), teams (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** ppe (1), cpr (1)
 > **Analogies:** such as (1), for example (1)
@@ -1301,8 +1305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), data (5), [[Hardware]] (4), cloud (2), [[IoT]] (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), raise (1)
 > **Analogies:** such as (2), picture (1)
 > **Env Vars:** byod (1), iot (1)
 > **Definitions:** is called (2)
@@ -1365,6 +1369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Financial Statements]] (1), product (1)
 > **Definitions:** is called (2), is an  (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -1457,10 +1462,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[Microsoft Products|Products]] (1), next (1)
 > **Env Vars:** roi (7), npv (5), opex (2), capex (2), cogs (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is called (1)
-> **Code Keywords:** yield (1), finally, (1), let (1)
 > **Speakers:** - money (1)
 
 #### Insights on Capital Expenses (CapEx) and Operational Expenses (OpEx)
@@ -1524,9 +1529,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Financial Statements]] (1), hit (1), teams (1)
 > **Definitions:** refers to (1), in other words (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** irs (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1588,8 +1593,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), management (8), data (4), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
@@ -1643,7 +1648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2)
+> **Frameworks & Libraries:** [[Engineering]] (6), [[Decentralization]] (1), ai (1), [[Real-Time]] (1), semiconductor (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1699,8 +1704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), business (5), [[Microsoft Products|Products]] (1), next (1)
 > **Env Vars:** mvp (5), bmc (5)
-> **Code Keywords:** let (3), return. (1), finally, (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1708,7 +1713,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage your business acumen for project success
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980)
@@ -1761,6 +1766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), management (6), leadership (1), [[Human Resources (HR)|Human resources]] (1), career (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** it's like (1)

@@ -35,7 +35,7 @@ tags:
   - skill/embedded-c
   - skill/c-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%20Programming%20for%20Embedded%20Applications.md)
@@ -54,50 +54,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting started in embedded systems
-  - What you should know
-  - Using the exercise files
+  - [Getting started in embedded systems](#getting-started-in-embedded-systems)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Embedded Systems**](#1-embedded-systems) (7 videos)
-  - Applications: OS vs. embedded
-  - Memory
-  - Storage
-  - Energy consumption
-  - Processing power
-  - Hardware awareness
-  - C vs. Embedded C
+  - [Applications: OS vs. embedded](#applications-os-vs-embedded)
+  - [Memory](#memory)
+  - [Storage](#storage)
+  - [Energy consumption](#energy-consumption)
+  - [Processing power](#processing-power)
+  - [Hardware awareness](#hardware-awareness)
+  - [C vs. Embedded C](#c-vs-embedded-c)
 - [**2. Data Types**](#2-data-types) (4 videos)
-  - Integral types
-  - Floating-point types
-  - A quick analysis of memory usage with Keil
-  - Checking memory usage with Arduino
+  - [Integral types](#integral-types)
+  - [Floating-point types](#floating-point-types)
+  - [A quick analysis of memory usage with Keil](#a-quick-analysis-of-memory-usage-with-keil)
+  - [Checking memory usage with Arduino](#checking-memory-usage-with-arduino)
 - [**3. Bit Manipulation**](#3-bit-manipulation) (4 videos)
-  - Masking
-  - Bit masking with Arduino
-  - Bit fields
-  - A bit field example with Keil
+  - [Masking](#masking)
+  - [Bit masking with Arduino](#bit-masking-with-arduino)
+  - [Bit fields](#bit-fields)
+  - [A bit field example with Keil](#a-bit-field-example-with-keil)
 - [**4. Qualifiers**](#4-qualifiers) (4 videos)
-  - The volatile qualifier
-  - The const qualifier
-  - Protect variables using volatile
-  - Don't let the optimizer remove your while loop
+  - [The volatile qualifier](#the-volatile-qualifier)
+  - [The const qualifier](#the-const-qualifier)
+  - [Protect variables using volatile](#protect-variables-using-volatile)
+  - [Don't let the optimizer remove your while loop](#dont-let-the-optimizer-remove-your-while-loop)
 - [**5. Function Alternatives**](#5-function-alternatives) (6 videos)
-  - Lookup tables
-  - Macro functions
-  - Inline functions
-  - LUT vs. function example in Arduino
-  - LUT vs. function example in Keil
-  - Inline function example in Keil
+  - [Lookup tables](#lookup-tables)
+  - [Macro functions](#macro-functions)
+  - [Inline functions](#inline-functions)
+  - [LUT vs. function example in Arduino](#lut-vs-function-example-in-arduino)
+  - [LUT vs. function example in Keil](#lut-vs-function-example-in-keil)
+  - [Inline function example in Keil](#inline-function-example-in-keil)
 - [**6. Floating-Point Unit Alternatives**](#6-floating-point-unit-alternatives) (4 videos)
-  - Software implementation of float
-  - Fixed-point math
-  - Float-point vs. fixed-point example
-  - Float-point unit example in Keil
+  - [Software implementation of float](#software-implementation-of-float)
+  - [Fixed-point math](#fixed-point-math)
+  - [Float-point vs. fixed-point example](#float-point-vs-fixed-point-example)
+  - [Float-point unit example in Keil](#float-point-unit-example-in-keil)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started in embedded systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980)
@@ -130,9 +130,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), game (1), [[Programming]] (1), [[Arduino]] (1)
 > **Env Vars:** cpu (2), uno (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -160,6 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (4), [[Programming]] (1), data (1), [[Electronics]] (1)
 > **Env Vars:** mdk (4), ide (1)
 > **Prerequisites:** before we start (1), required to (1), you'll need (1)
 > **Exercise Files:** download the (1)
@@ -189,6 +190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), [[Arduino]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** zip file (1), exercise files (1)
 > **Versions:** version 4 (1)
@@ -200,7 +202,7 @@ created: 2026-04-29
 
 ### 1. Embedded Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applications: OS vs. embedded
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980)
@@ -279,7 +281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1), let (1), function (1)
+> **Frameworks & Libraries:** power (3), application (3), [[Engineering]] (2), [[Hardware]] (2), [[Real-Time]] (1)
 > **Env Vars:** cpu (2), rtos (2)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (2)
@@ -357,9 +359,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Arduino]] (1), [[Windows]] (1), [[Android]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ram (9), cpu (5), arm (2), nxp (1), stm32f (1)
 > **Definitions:** is an  (2), is a  (2), means that (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -401,8 +403,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (1), application (1), [[Windows]] (1)
 > **Env Vars:** ram (5), rom (2), nxp (1), stm32f (1)
-> **Code Keywords:** require (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -450,7 +452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6)
+> **Frameworks & Libraries:** power (4), application (2), [[Hardware]] (1), next (1)
 > **Prerequisites:** you'll need (1), initialization (1)
 > **Code Identifiers:** sleep_ms (1)
 > **Definitions:** is a  (1)
@@ -492,8 +494,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Algorithms]] (1), [[Arduino]] (1), semiconductor (1)
 > **Env Vars:** cpu (4), arm (2), so8 (1), nxp (1), msp (1)
-> **Code Keywords:** require (1), finally, (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
@@ -545,7 +547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Hardware]] (9), data (3), parallel (2)
 > **Env Vars:** cpu (2), hvac (1)
 > **Analogies:** such as (1), for example (1), picture (1)
 > **Versions:** 3.44 (1)
@@ -584,8 +586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Embedded C]] (5), [[Programming]] (2), [[Hardware]] (1), [[Security]] (1), [[Arduino]] (1)
 > **Env Vars:** iso (1), iec (1), misra (1), cert (1), arm (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -593,7 +595,7 @@ created: 2026-04-29
 
 ### 2. Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integral types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/integral-types?u=76281980)
@@ -684,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), type. (2), finally, (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (7), [[Hardware]] (2), power (1), [[Programming]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (2)
 > **File Paths:** stdint.h (1)
@@ -801,9 +803,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (2), power (2), [[Programming]] (1)
 > **Env Vars:** fpu (15), m4f (3), cpu (3), ieee (1), mc4 (1)
 > **Definitions:** is a  (5), known as (3), stands for (2), means that (1)
-> **Code Keywords:** let (4), finally, (2), type. (1), for. (1), case. (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (2), for example (1)
 > **Versions:** 0.1 (1)
@@ -923,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (1), finally, (1)
+> **Frameworks & Libraries:** data (14), application (5), [[Hardware]] (1), next (1)
 > **Env Vars:** ram (3), stm32f303 (1), sdm32f303 (1), stm32 (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
@@ -1005,7 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), type. (2)
+> **Frameworks & Libraries:** [[Arduino]] (5), data (5), application (1)
 > **Env Vars:** ram (1), sdb (1), ide (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
@@ -1016,7 +1018,7 @@ created: 2026-04-29
 
 ### 3. Bit Manipulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Masking
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980)
@@ -1113,7 +1115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), function (2), else. (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), data (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (5), is called (1)
 > **Env Vars:** cpu (3), ccs (1), so8 (1)
 > **Analogies:** for example (1), just like (1)
@@ -1185,8 +1187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (6), application (2), data (2), next (1)
 > **Env Vars:** uno (4), led (4), ddrb (4)
-> **Code Keywords:** let (4), function (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** setup (1)
@@ -1247,7 +1249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (3), let (1)
+> **Frameworks & Libraries:** data (6), application (2), [[Programming]] (1), [[Microsoft Word|Word]] (1), [[Hardware]] (1)
 > **Code Identifiers:** active_days (2), byte_sized (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -1349,7 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (1), struct (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** data (2), next (2), hit (2), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** clks (3), soa (1), nxp (1), ps0 (1), ps1 (1)
 > **Definitions:** is a  (4), is called (3)
 > **Exercise Files:** exercise files (1)
@@ -1361,7 +1363,7 @@ created: 2026-04-29
 
 ### 4. Qualifiers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The volatile qualifier
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-volatile-qualifier?u=76281980)
@@ -1454,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), finally, (2), case. (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Programming]] (1), data (1)
 > **Env Vars:** cpu (6), ram (1), rom (1)
 > **Definitions:** in other words (1), is a  (1), known as (1)
 > **CLI Commands:** make (1)
@@ -1572,7 +1574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (15), this, (2), case. (1)
+> **Frameworks & Libraries:** [[Arduino]] (2), parallel (1), data (1)
 > **Env Vars:** rom (7), ram (2), led (1), uno (1), progmem (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Analogies:** for example (2)
@@ -1697,7 +1699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (8), this. (2)
+> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (2), is called (1), is a  (1)
 > **UI Navigation:** open the (1), go to (1), select the (1)
@@ -1787,7 +1789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (10)
+> **Frameworks & Libraries:** application (1), [[Arduino]] (1)
 > **Env Vars:** led (8)
 > **UI Navigation:** go to (1), toggle (1), open the (1)
 > **CLI Commands:** find (2)
@@ -1799,7 +1801,7 @@ created: 2026-04-29
 
 ### 5. Function Alternatives
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lookup tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980)
@@ -1894,7 +1896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), finally, (2), let (2), const (1)
+> **Frameworks & Libraries:** power (1), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** rom (3), cpu (2), ram (2)
 > **Definitions:** means that (2), is called (1), is an  (1)
 > **File Paths:** math.h (1)
@@ -1987,7 +1989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (1), finally, (1), break, (1)
+> **Frameworks & Libraries:** next (2), [[Programming]] (2), product (1)
 > **Definitions:** is an  (1), means that (1), is called (1), known as (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** source code (2)
@@ -2062,7 +2064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (1), type. (1), else, (1)
+> **Frameworks & Libraries:** [[Programming]] (1), data (1), next (1), ai (1), [[Debugging]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
@@ -2209,7 +2211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (6), const (3), type, (1), switch (1)
+> **Frameworks & Libraries:** [[Arduino]] (5), next (2), application (1)
 > **Env Vars:** uno (5), use_log (3), progmem (3), rom (3), use_lut (2)
 > **Definitions:** is called (2), is a  (2), in other words (1), is an  (1)
 > **Versions:** 18.8 (2), 29.2 (1), 4.84 (1)
@@ -2307,7 +2309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), const (7), this, (1)
+> **Frameworks & Libraries:** [[Simulation]] (5), data (4), [[Arduino]] (2), [[Zoom]] (1)
 > **Env Vars:** rom (3), ram (3), arm (2), uno (1)
 > **CLI Commands:** make (5), find (1)
 > **Versions:** 57.6 (2), 7.53 (1)
@@ -2379,7 +2381,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), let (8), super (1)
 > **Definitions:** is called (1), we call this (1), is an  (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **CLI Commands:** find (1)
@@ -2387,11 +2388,12 @@ created: 2026-04-29
 > **Versions:** 1.5 (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 6. Floating-Point Unit Alternatives
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Software implementation of float
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980)
@@ -2460,10 +2462,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Hardware]] (1), data (1), next (1), [[Algorithms]] (1)
 > **Env Vars:** cpu (4), fpu (4), ram (1), rom (1), ieee (1)
 > **Definitions:** means that (1), known as (1), is a  (1)
 > **Warnings:** caution (1), common mistake (1), be careful (1)
-> **Code Keywords:** finally, (2)
 > **Speakers:** - [narrator] (1)
 
 #### Fixed-point math
@@ -2533,7 +2535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1), require (1), implements (1), finally, (1)
+> **Frameworks & Libraries:** application (1), [[Banking]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** just like (2), for instance (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ieee (1)
@@ -2630,7 +2632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (1), function (1), switch (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), application (1), [[Search]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** ide (1), use_fixed_point (1), cpu (1)
 > **Prerequisites:** install (2), you'll need (1)
@@ -2734,7 +2736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), this, (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Arduino]] (1), application (1)
 > **Env Vars:** cpu (3), arm (2), sdm32f303k8 (1), m4f (1), uno (1)
 > **UI Navigation:** go to (3), click on (2), dropdown (2), open the (2)
 > **Definitions:** means that (1), is an  (1), stands for (1), is a  (1)
@@ -2746,7 +2748,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980)
@@ -2777,6 +2779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), next (2), [[Hardware]] (1), application (1)
 > **Env Vars:** ide (1), arm (1)
 > **URLs:** [mbed.com](https://mbed.com) (1)
 > **Definitions:** is a  (1)

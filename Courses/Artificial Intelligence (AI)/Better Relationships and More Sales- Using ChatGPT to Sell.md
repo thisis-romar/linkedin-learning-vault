@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Better%20Relationships%20and%20More%20Sales-%20Using%20ChatGPT%20to%20Sell.md)
@@ -53,31 +53,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AI and the art of strong sales relationships
+  - [AI and the art of strong sales relationships](#ai-and-the-art-of-strong-sales-relationships)
 - [**1. Building Trust in a Digital-First Sales World**](#1-building-trust-in-a-digital-first-sales-world) (3 videos)
-  - Identify what matters to buyers when building trust
-  - Basics of ChatGPT for sales teams
-  - Leverage ChatGPT to build sales relationships
+  - [Identify what matters to buyers when building trust](#identify-what-matters-to-buyers-when-building-trust)
+  - [Basics of ChatGPT for sales teams](#basics-of-chatgpt-for-sales-teams)
+  - [Leverage ChatGPT to build sales relationships](#leverage-chatgpt-to-build-sales-relationships)
 - [**2. Building Relationships to Get More Meetings**](#2-building-relationships-to-get-more-meetings) (4 videos)
-  - Avoid pitfalls when using ChatGPT to build relationships
-  - Turn content into connections: Use AI to create conversations
-  - Get up-to-speed on industry trends to build trust
-  - Decode preferred communication styles
+  - [Avoid pitfalls when using ChatGPT to build relationships](#avoid-pitfalls-when-using-chatgpt-to-build-relationships)
+  - [Turn content into connections: Use AI to create conversations](#turn-content-into-connections-use-ai-to-create-conversations)
+  - [Get up-to-speed on industry trends to build trust](#get-up-to-speed-on-industry-trends-to-build-trust)
+  - [Decode preferred communication styles](#decode-preferred-communication-styles)
 - [**3. Modeling Conversations to Build Trust throughout the Sales Process**](#3-modeling-conversations-to-build-trust-throughout-the-sales-process) (4 videos)
-  - Engaging in technical and HR-focused conversations
-  - Engaging in ROI and finance conversations
-  - Engaging in sales and marketing conversations
-  - Navigating conversations across teams
+  - [Engaging in technical and HR-focused conversations](#engaging-in-technical-and-hr-focused-conversations)
+  - [Engaging in ROI and finance conversations](#engaging-in-roi-and-finance-conversations)
+  - [Engaging in sales and marketing conversations](#engaging-in-sales-and-marketing-conversations)
+  - [Navigating conversations across teams](#navigating-conversations-across-teams)
 - [**4. Building Better Relationships with Current Clients**](#4-building-better-relationships-with-current-clients) (3 videos)
-  - Learn your new clients' business in minutes
-  - Build your account plans to cultivate new relationships
-  - Grow your business through needs-based upselling
+  - [Learn your new clients' business in minutes](#learn-your-new-clients-business-in-minutes)
+  - [Build your account plans to cultivate new relationships](#build-your-account-plans-to-cultivate-new-relationships)
+  - [Grow your business through needs-based upselling](#grow-your-business-through-needs-based-upselling)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Tying it all together and what's up next!
+  - [Tying it all together and what's up next!](#tying-it-all-together-and-whats-up-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and the art of strong sales relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980)
@@ -96,13 +96,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[LinkedIn]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Building Trust in a Digital-First Sales World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify what matters to buyers when building trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980)
@@ -171,8 +172,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), next (2), [[LinkedIn]] (1), business (1), teams (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - an (1)
 
@@ -219,7 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (4), [[Custom GPTs]] (4), next (2), game (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
@@ -265,7 +266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (2), prompt (2), [[Building Trust]] (1), game (1)
 > **Analogies:** similar to (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
@@ -273,7 +274,7 @@ created: 2026-04-29
 
 ### 2. Building Relationships to Get More Meetings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid pitfalls when using ChatGPT to build relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980)
@@ -330,7 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), ai (4), teams (2), [[Building Trust]] (1), generic (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** b2b (1)
 > **Speakers:** - in (1)
@@ -396,10 +397,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), prompt (4), [[Generative AI]] (1), [[ChatGPT]] (1), data (1)
 > **Env Vars:** b2b (3), roi (1)
 > **Analogies:** imagine (1), for instance (1), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - today (1)
 
 #### Get up-to-speed on industry trends to build trust
@@ -467,7 +468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), continue (1)
+> **Frameworks & Libraries:** game (5), [[ChatGPT]] (3), ai (2), product (1), prompt (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** b2b (1)
 > **Analogies:** imagine (1)
@@ -519,7 +520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** ai (7), data (4), prompt (3), product (2), [[Building Trust]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - when (1)
@@ -527,7 +528,7 @@ created: 2026-04-29
 
 ### 3. Modeling Conversations to Build Trust throughout the Sales Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Engaging in technical and HR-focused conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980)
@@ -582,7 +583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** hr (9), prompt (5), ai (4), product (3), next (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
@@ -641,9 +642,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), prompt (5), product (2), data (2), [[Generative AI]] (1)
 > **Env Vars:** roi (6)
 > **Analogies:** imagine (2), for instance (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - today (1)
 
 #### Engaging in sales and marketing conversations
@@ -699,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (3), [[ChatGPT]] (2), prompt (2), next (2), hit (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -747,9 +748,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (3), teams (2), [[Building Trust]] (2), [[Product Development]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** roi (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - forging (1)
@@ -757,7 +758,7 @@ created: 2026-04-29
 
 ### 4. Building Better Relationships with Current Clients
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn your new clients' business in minutes
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/learn-your-new-clients-business-in-minutes?u=76281980)
@@ -806,7 +807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), try, (1)
+> **Frameworks & Libraries:** business (3), [[ChatGPT]] (2), prompt (2), product (2), career (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** b2b (1)
 > **Definitions:** is a  (1)
@@ -862,7 +863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), super (1), for, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), next (3), [[Generative AI]] (2), business (2), [[Real-Time]] (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - have (1)
@@ -914,8 +915,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[ChatGPT]] (3), prompt (3), product (2), business (1)
 > **Analogies:** picture (1), for example (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** b2b (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - think (1)
@@ -923,7 +924,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tying it all together and what's up next!
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980)
@@ -966,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1), finally, (1)
+> **Frameworks & Libraries:** ai (4), [[Generative AI]] (4), power (3), [[ChatGPT]] (2), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** we discussed (1)

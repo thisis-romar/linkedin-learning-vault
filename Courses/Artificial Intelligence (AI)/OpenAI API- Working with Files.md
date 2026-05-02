@@ -36,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Working%20with%20Files.md)
@@ -55,23 +55,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Uploading large files to the OpenAI API
-  - What you should know
+  - [Uploading large files to the OpenAI API](#uploading-large-files-to-the-openai-api)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding the Files API**](#1-understanding-the-files-api) (2 videos)
-  - The significance of the Files API
-  - Benefits of the Files API
+  - [The significance of the Files API](#the-significance-of-the-files-api)
+  - [Benefits of the Files API](#benefits-of-the-files-api)
 - [**2. Using the Files API**](#2-using-the-files-api) (5 videos)
-  - Setting up your development environment
-  - Uploading files
-  - Query a file
-  - Listing files
-  - Deleting files
+  - [Setting up your development environment](#setting-up-your-development-environment)
+  - [Uploading files](#uploading-files)
+  - [Query a file](#query-a-file)
+  - [Listing files](#listing-files)
+  - [Deleting files](#deleting-files)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Uploading large files to the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-large-files-to-the-openai-api?u=76281980)
@@ -90,8 +90,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), data (1), ai (1), next (1)
 > **Env Vars:** api (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [fikayo] (1)
 
 #### What you should know
@@ -113,14 +113,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[Programming]] (3), ai (1)
 > **Env Vars:** api (4)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding the Files API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The significance of the Files API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980)
@@ -159,9 +159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), api (9), ai (4), [[Security]] (2), game (1)
 > **Env Vars:** api (9)
 > **CLI Commands:** make (2)
-> **Code Keywords:** delete (1), this, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -228,8 +228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), api (18), [[Security]] (4), ai (3), next (2)
 > **Env Vars:** api (18)
-> **Code Keywords:** let (2), case. (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -238,7 +238,7 @@ created: 2026-04-29
 
 ### 2. Using the Files API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980)
@@ -353,11 +353,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (18), api (9), [[npm]] (7), next (4), [[OpenAI API]] (4)
 > **Env Vars:** api (13), sdk (8), npm (7), env (6), dir (1)
 > **CLI Commands:** node (18), npm (7), make (2), cd (1), git (1)
 > **File Paths:** node.js (18), package.json (1), lock.json (1)
 > **Prerequisites:** install (9), set up (1), you need to have (1), initialization (1)
-> **Code Keywords:** let (4), public (1)
 > **Tools:** command line (1), visual studio (1), vs code (1), github (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Cross-References:** in the next (1)
@@ -589,7 +589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), function (9), module (3), import. (2), pass (2)
+> **Frameworks & Libraries:** api (14), next (8), [[JSON]] (5), [[Node.js]] (3), prompt (2)
 > **File Paths:** assistant_queries.txt (6), node.js (3), upload_files.js (3), openaiconfig.js (2), package.json (2)
 > **Env Vars:** api (15), json (3)
 > **Code Identifiers:** assistant_queries (6), openaiconfig (4), upload_files (4), file_upload_response (1), file_upload (1)
@@ -675,7 +675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), await (1), finally, (1), type, (1)
+> **Frameworks & Libraries:** api (6), ai (1), node (1), hit (1), [[Fine Tuning]] (1)
 > **Code Identifiers:** retrieve_file (3), status_details (2), created_at (1)
 > **Env Vars:** api (6)
 > **File Paths:** retrieve_file.js (3)
@@ -789,7 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (7), this, (1), pass (1), delete (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (4), data (4), api (3), next (3), node (3)
 > **Code Identifiers:** list_files (3), upload_files (2), spanish_translated_sample_file (2), assistant_queries (1), uploadedfiles (1)
 > **Env Vars:** jsonl (3), api (3)
 > **Tools:** terminal (5), vs code (1)
@@ -877,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), delete (13), function (3)
+> **Frameworks & Libraries:** api (8), data (1), [[Microsoft Word|Word]] (1), node (1), hit (1)
 > **File Paths:** file.txt (5), file.js (3), testfile.txt (1)
 > **Env Vars:** api (8)
 > **Tools:** vs code (4), terminal (3)
@@ -888,7 +888,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980)
@@ -915,9 +915,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OpenAI API]] (3), api (2), ai (2), [[LinkedIn]] (1)
 > **Env Vars:** api (5), gpt (1)
 > **CLI Commands:** go build (1)
-> **Code Keywords:** case. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

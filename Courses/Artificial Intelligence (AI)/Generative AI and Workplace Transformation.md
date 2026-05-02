@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-transformation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20and%20Workplace%20Transformation.md)
@@ -52,23 +52,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The transformative nature of generative AI
+  - [The transformative nature of generative AI](#the-transformative-nature-of-generative-ai)
 - [**1. Employing the Mindset to Imagine the Implications**](#1-employing-the-mindset-to-imagine-the-implications) (3 videos)
-  - Generative AI will bring exponential thinking
-  - The coming mega change transformation
-  - Asking great questions to create alignment
+  - [Generative AI will bring exponential thinking](#generative-ai-will-bring-exponential-thinking)
+  - [The coming mega change transformation](#the-coming-mega-change-transformation)
+  - [Asking great questions to create alignment](#asking-great-questions-to-create-alignment)
 - [**2. Transforming Your Workforce Strategy To Support Generative AI Opportunities**](#2-transforming-your-workforce-strategy-to-support-generative-ai-opportunities) (3 videos)
-  - Prioritizing your AI efforts
-  - How generative AI is changing roles and collaboration
-  - Preparing your workforce for the changes to come
+  - [Prioritizing your AI efforts](#prioritizing-your-ai-efforts)
+  - [How generative AI is changing roles and collaboration](#how-generative-ai-is-changing-roles-and-collaboration)
+  - [Preparing your workforce for the changes to come](#preparing-your-workforce-for-the-changes-to-come)
 - [**3. Leading Your Generative AI Superhuman Workforce**](#3-leading-your-generative-ai-superhuman-workforce) (3 videos)
-  - Emerging skillsets of the AI era
-  - Help your workforce thrive with AI
-  - Leading in the generative AI era
+  - [Emerging skillsets of the AI era](#emerging-skillsets-of-the-ai-era)
+  - [Help your workforce thrive with AI](#help-your-workforce-thrive-with-ai)
+  - [Leading in the generative AI era](#leading-in-the-generative-ai-era)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The transformative nature of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-transformative-nature-of-generative-ai-22831869?u=76281980)
@@ -95,13 +95,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), business (2)
 > **Speakers:** - in (1)
 
 
 ### 1. Employing the Mindset to Imagine the Implications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI will bring exponential thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980)
@@ -166,8 +166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), ai (6), power (1), data (1), [[Statistics]] (1)
 > **Analogies:** such as (2), compare this to (1), imagine (1)
-> **Code Keywords:** function (1), throw (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
@@ -232,7 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), next (2), [[Microsoft Office|Office]] (1), business (1), [[E-Commerce]] (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - think (1)
@@ -298,7 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (11), ai (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** detail (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - my (1)
@@ -306,7 +306,7 @@ created: 2026-04-29
 
 ### 2. Transforming Your Workforce Strategy To Support Generative AI Opportunities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prioritizing your AI efforts
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980)
@@ -375,7 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Analytics]] (5), [[Automation]] (3), data (2), ai (1)
 > **Analogies:** for example (2)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -440,6 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (4), ai (2), [[Automation]] (1), hr (1), next (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** you need to have (2)
@@ -527,16 +528,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), career (1), ai (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Best Practices:** best practice (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - knowing (1)
 
 
 ### 3. Leading Your Generative AI Superhuman Workforce
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Emerging skillsets of the AI era
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980)
@@ -605,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), if, (1), public (1), this, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), ai (3), data (2), [[Software Development]] (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -677,6 +678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
@@ -740,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), leadership (4), power (2)
 > **Analogies:** it's like (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - have (1)

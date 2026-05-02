@@ -38,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Excel%20Statistics%20with%20Copilot.md)
@@ -57,94 +57,94 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Using Excel for statistics
-  - What you need to know
-  - Using the exercise files
-  - Excel on Mac or PC
-  - Using Copilot
+  - [Using Excel for statistics](#using-excel-for-statistics)
+  - [What you need to know](#what-you-need-to-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Excel on Mac or PC](#excel-on-mac-or-pc)
+  - [Using Copilot](#using-copilot)
 - [**1. Starting with Excel**](#1-starting-with-excel) (3 videos)
-  - Excel basics
-  - Random number generator
-  - Copilot: Basic assistance
+  - [Excel basics](#excel-basics)
+  - [Random number generator](#random-number-generator)
+  - [Copilot: Basic assistance](#copilot-basic-assistance)
 - [**2. Dataset Basics**](#2-dataset-basics) (3 videos)
-  - SUM, COUNT, MAX, MIN, and Range
-  - Means, medians, and modes
-  - Copilot: Dataset exploration
+  - [SUM, COUNT, MAX, MIN, and Range](#sum-count-max-min-and-range)
+  - [Means, medians, and modes](#means-medians-and-modes)
+  - [Copilot: Dataset exploration](#copilot-dataset-exploration)
 - [**3. Looking at Data**](#3-looking-at-data) (3 videos)
-  - Frequency table
-  - Histogram
-  - Copilot: Tables and charts
+  - [Frequency table](#frequency-table)
+  - [Histogram](#histogram)
+  - [Copilot: Tables and charts](#copilot-tables-and-charts)
 - [**4. Dataset Variability**](#4-dataset-variability) (5 videos)
-  - Standard deviation
-  - Normal curve and normal distribution
-  - Skewness and kurtosis
-  - Empirical rule
-  - Copilot: Measuring variability
+  - [Standard deviation](#standard-deviation)
+  - [Normal curve and normal distribution](#normal-curve-and-normal-distribution)
+  - [Skewness and kurtosis](#skewness-and-kurtosis)
+  - [Empirical rule](#empirical-rule)
+  - [Copilot: Measuring variability](#copilot-measuring-variability)
 - [**5. Excel Descriptive Tools**](#5-excel-descriptive-tools) (3 videos)
-  - Descriptive tool
-  - Descriptive tool exercise
-  - Copilot: Descriptive tool
+  - [Descriptive tool](#descriptive-tool)
+  - [Descriptive tool exercise](#descriptive-tool-exercise)
+  - [Copilot: Descriptive tool](#copilot-descriptive-tool)
 - [**6. Basic Probability Concepts**](#6-basic-probability-concepts) (8 videos)
-  - Probability explained
-  - Percentiles
-  - Permutations
-  - Combinations
-  - Addition rule of probability
-  - Multiplication rule of probability
-  - Conditional probability and probability trees
-  - Copilot: Probability
+  - [Probability explained](#probability-explained)
+  - [Percentiles](#percentiles)
+  - [Permutations](#permutations)
+  - [Combinations](#combinations)
+  - [Addition rule of probability](#addition-rule-of-probability)
+  - [Multiplication rule of probability](#multiplication-rule-of-probability)
+  - [Conditional probability and probability trees](#conditional-probability-and-probability-trees)
+  - [Copilot: Probability](#copilot-probability)
 - [**7. Discrete Probabilities**](#7-discrete-probabilities) (5 videos)
-  - Discrete probability explained
-  - Discrete: Mean
-  - Discrete: Standard deviation
-  - Discrete: Binomial distribution
-  - Copilot: Discrete probability
+  - [Discrete probability explained](#discrete-probability-explained)
+  - [Discrete: Mean](#discrete-mean)
+  - [Discrete: Standard deviation](#discrete-standard-deviation)
+  - [Discrete: Binomial distribution](#discrete-binomial-distribution)
+  - [Copilot: Discrete probability](#copilot-discrete-probability)
 - [**8. Continuous Probabilities**](#8-continuous-probabilities) (5 videos)
-  - Continuous: Z-score tables
-  - Continuous: Creating a normal curve in Excel
-  - Continuous: Calculating normal distribution probabilities
-  - Copilot: Continuous probability
-  - Getting ready for part two
+  - [Continuous: Z-score tables](#continuous-z-score-tables)
+  - [Continuous: Creating a normal curve in Excel](#continuous-creating-a-normal-curve-in-excel)
+  - [Continuous: Calculating normal distribution probabilities](#continuous-calculating-normal-distribution-probabilities)
+  - [Copilot: Continuous probability](#copilot-continuous-probability)
+  - [Getting ready for part two](#getting-ready-for-part-two)
 - [**9. Sampling**](#9-sampling) (4 videos)
-  - Sample considerations
-  - The central limit theorem
-  - t-statistic vs. z-statistic
-  - Copilot: Sampling concepts
+  - [Sample considerations](#sample-considerations)
+  - [The central limit theorem](#the-central-limit-theorem)
+  - [t-statistic vs. z-statistic](#t-statistic-vs-z-statistic)
+  - [Copilot: Sampling concepts](#copilot-sampling-concepts)
 - [**10. Confidence Intervals**](#10-confidence-intervals) (4 videos)
-  - Introduction to confidence intervals
-  - Creating confidence intervals in Excel: Proportions
-  - Creating confidence intervals in Excel: Means
-  - Copilot: Confidence intervals
+  - [Introduction to confidence intervals](#introduction-to-confidence-intervals)
+  - [Creating confidence intervals in Excel: Proportions](#creating-confidence-intervals-in-excel-proportions)
+  - [Creating confidence intervals in Excel: Means](#creating-confidence-intervals-in-excel-means)
+  - [Copilot: Confidence intervals](#copilot-confidence-intervals)
 - [**11. Hypothesis Tests**](#11-hypothesis-tests) (6 videos)
-  - How to test a hypothesis
-  - Five steps of hypothesis testing
-  - One-tailed vs. two-tailed tests
-  - Hypothesis test exercise: Means
-  - Hypothesis test exercise: Proportions
-  - Copilot: Hypothesis testing
+  - [How to test a hypothesis](#how-to-test-a-hypothesis)
+  - [Five steps of hypothesis testing](#five-steps-of-hypothesis-testing)
+  - [One-tailed vs. two-tailed tests](#one-tailed-vs-two-tailed-tests)
+  - [Hypothesis test exercise: Means](#hypothesis-test-exercise-means)
+  - [Hypothesis test exercise: Proportions](#hypothesis-test-exercise-proportions)
+  - [Copilot: Hypothesis testing](#copilot-hypothesis-testing)
 - [**12. Comparing Two Populations**](#12-comparing-two-populations) (4 videos)
-  - Explanation of two population comparisons
-  - Comparing two populations: Proportions
-  - Comparing two populations: Means
-  - Copilot: Comparing two populations
+  - [Explanation of two population comparisons](#explanation-of-two-population-comparisons)
+  - [Comparing two populations: Proportions](#comparing-two-populations-proportions)
+  - [Comparing two populations: Means](#comparing-two-populations-means)
+  - [Copilot: Comparing two populations](#copilot-comparing-two-populations)
 - [**13. ANOVA: Analysis of Variance**](#13-anova-analysis-of-variance) (3 videos)
-  - ANOVA: What is analysis of variance?
-  - Hypothesis test and the F-statistic
-  - Copilot: ANOVA
+  - [ANOVA: What is analysis of variance?](#anova-what-is-analysis-of-variance)
+  - [Hypothesis test and the F-statistic](#hypothesis-test-and-the-f-statistic)
+  - [Copilot: ANOVA](#copilot-anova)
 - [**14. Regression**](#14-regression) (4 videos)
-  - What is regression?
-  - Regression terminology
-  - Linear regressions
-  - Copilot: Linear regression
+  - [What is regression?](#what-is-regression)
+  - [Regression terminology](#regression-terminology)
+  - [Linear regressions](#linear-regressions)
+  - [Copilot: Linear regression](#copilot-linear-regression)
 - [**15. Simulation**](#15-simulation) (2 videos)
-  - Business simulation example
-  - Copilot: Simulations
+  - [Business simulation example](#business-simulation-example)
+  - [Copilot: Simulations](#copilot-simulations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning Excel statistics
+  - [Continue learning Excel statistics](#continue-learning-excel-statistics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Excel for statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980)
@@ -167,7 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (3), [[Statistics]] (2), [[Probability]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Speakers:** - did (1)
 
 #### What you need to know
@@ -193,7 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Statistics]] (3)
 > **Speakers:** - [instructor] (1)
 
 #### Using the exercise files
@@ -227,8 +227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
 > **Exercise Files:** exercise files (5), exercise file (1)
-> **Code Keywords:** let (1), class, (1), require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Excel on Mac or PC
@@ -256,6 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Statistics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -321,8 +322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (2), [[Microsoft]] (1), ai (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (2), case, (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -332,7 +333,7 @@ created: 2026-04-29
 
 ### 1. Starting with Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Excel basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980)
@@ -575,7 +576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), fn (4), case, (3), this, (3), function (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), data (5), hit (5), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** b12 (5)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -841,7 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (3), case, (3), this. (3), else. (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (6), hit (5), [[Statistics]] (1), application (1)
 > **UI Navigation:** click on (8), go to (3), double-click (1)
 > **Env Vars:** rand (4), between (2), randarray (2), round (1)
 > **CLI Commands:** find (3)
@@ -1043,7 +1044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), this. (3), function (3), case, (2), this, (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), data (5), [[Statistics]] (2), prompt (1)
 > **Env Vars:** norm (1), inv (1), rand (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -1053,7 +1054,7 @@ created: 2026-04-29
 
 ### 2. Dataset Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SUM, COUNT, MAX, MIN, and Range
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980)
@@ -1314,7 +1315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), this, (3), class. (3), case, (3)
+> **Frameworks & Libraries:** data (13), next (2), [[Statistics]] (1), [[Financial Data]] (1), hit (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Versions:** 12.4 (2)
 > **Analogies:** imagine (1), it's like (1)
@@ -1546,7 +1547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (6), case, (3), this, (2), class. (2)
+> **Frameworks & Libraries:** data (27), [[Microsoft Excel|Excel]] (3), [[Financial Data]] (1)
 > **CLI Commands:** find (7)
 > **Versions:** 26.5 (1), 76.7 (1), 525.56 (1), 790.97 (1), 9.32 (1)
 > **Definitions:** is a  (3), known as (1), means that (1)
@@ -1679,7 +1680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (2), case, (1), try, (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), data (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (6), find (5)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1)
@@ -1689,7 +1690,7 @@ created: 2026-04-29
 
 ### 3. Looking at Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Frequency table
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980)
@@ -1862,7 +1863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (4), this, (3), return. (1), case, (1)
+> **Frameworks & Libraries:** data (7), next (5), hit (5), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** frequency (6), countifs (3), count (1), countif (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2011,8 +2012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Excel|Excel]] (2), generic (1)
 > **UI Navigation:** go to (8), click on (4), right-click (3)
-> **Code Keywords:** let (8), this. (3), from. (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **Exercise Files:** exercise file (1)
@@ -2194,7 +2195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), this, (2), static (1), delete (1), this. (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Copilot|Copilot]] (4), feature (2), prompt (2)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** set up (1)
@@ -2203,7 +2204,7 @@ created: 2026-04-29
 
 ### 4. Dataset Variability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Standard deviation
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980)
@@ -2462,7 +2463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (6), var (3), this. (1), return, (1)
+> **Frameworks & Libraries:** data (30), [[Microsoft Excel|Excel]] (4), hit (3), power (1), [[Big Data]] (1)
 > **CLI Commands:** find (6), make (4)
 > **Versions:** 15.8 (2), 15.81 (1), 0.5 (1), 614.71 (1), 13.2 (1)
 > **Definitions:** is a  (2), means that (2), in other words (1)
@@ -2527,9 +2528,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Statistics]] (1)
 > **Definitions:** in other words (3)
 > **Analogies:** similar to (1), for example (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Skewness and kurtosis
@@ -2769,7 +2770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (1), throw (1), this. (1), case, (1)
+> **Frameworks & Libraries:** data (20), [[Statistics]] (2), [[Microsoft Excel|Excel]] (2), [[Financial Data]] (1)
 > **Versions:** 1.0 (5), 0.5 (4), 1.2 (1), 0.16 (1), 1.49 (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -3023,7 +3024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (3), this, (2), for. (1), fn (1)
+> **Frameworks & Libraries:** data (19), next (2), [[Microsoft Excel|Excel]] (1), power (1)
 > **Versions:** 99.7 (3), 0.3 (2), 11.56 (1), 11.5 (1), 42.88 (1)
 > **Env Vars:** nba (3), abs (1), frequency (1)
 > **CLI Commands:** find (2), make (1)
@@ -3176,7 +3177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), case, (2), this, (1), for. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Cross-References:** previous video (2), we covered (1), as we saw (1)
 > **Versions:** 13.197 (1), 195.5 (1), 155.5 (1)
 > **Env Vars:** nba (2)
@@ -3188,7 +3189,7 @@ created: 2026-04-29
 
 ### 5. Excel Descriptive Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Descriptive tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980)
@@ -3329,7 +3330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class, (1), this, (1), class. (1), while. (1)
+> **Frameworks & Libraries:** data (21), [[Statistics]] (8), [[Microsoft Excel|Excel]] (4), next (1)
 > **CLI Commands:** make (5), find (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Versions:** 92.2 (1)
@@ -3526,7 +3527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), for. (1), for, (1), this. (1)
+> **Frameworks & Libraries:** data (17), [[Statistics]] (9), next (5), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** nba (3)
 > **Versions:** 46.23 (1), 43.79 (1)
@@ -3620,7 +3621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1), this, (1), static (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), [[Statistics]] (5), data (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** c229 (1), e10 (1)
 > **Cross-References:** go back to (1), as we saw (1)
@@ -3631,7 +3632,7 @@ created: 2026-04-29
 
 ### 6. Basic Probability Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980)
@@ -3820,7 +3821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (3), let (3), function (3), for, (1), if, (1)
+> **Frameworks & Libraries:** [[Probability]] (13), next (5), [[Statistics]] (3), data (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (7), make (3)
 > **Definitions:** is a  (5), means that (1)
 > **Env Vars:** nba (1), nfl (1)
@@ -4111,7 +4112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), class. (4), include, (2), case, (2), return. (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (5), next (2), hit (2)
 > **Versions:** 132.5 (1), 0.995 (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -4261,7 +4262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (5), function (3)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 7.7 (1), 12.5 (1)
 > **Definitions:** we call this (1), is a  (1)
@@ -4415,7 +4416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Probability]] (2), next (2), power (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (3)
 > **Env Vars:** fact (1)
@@ -4565,7 +4566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), this. (1), function (1)
+> **Frameworks & Libraries:** [[Probability]] (26), [[Microsoft Excel|Excel]] (1), data (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** countif (4), countifs (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -4663,8 +4664,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (5), [[Microsoft Excel|Excel]] (1), product (1)
 > **Versions:** 16.7 (4), 2.79 (2), 38.46 (2), 37.25 (2), 5.16 (1)
-> **Code Keywords:** let (2), function (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -4804,9 +4805,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (17), next (2), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.0001 (2), 0.99999 (1), 0.9999 (1), 0.98 (1), 0.02 (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** let (4), this, (1), finally, (1)
 > **Definitions:** is a  (2), in other words (1), we call this (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -5043,8 +5044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), this. (4), this
-( (2), delete (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Probability]] (8)
 > **Non-Speech:** (mouse clicking) (14)
 > **Versions:** 28.24 (2), 16.34 (1), 12.5 (1), 28.7 (1)
 > **CLI Commands:** find (3), make (1)
@@ -5056,7 +5056,7 @@ created: 2026-04-29
 
 ### 7. Discrete Probabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discrete probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980)
@@ -5161,7 +5161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1), require (1)
+> **Frameworks & Libraries:** [[Probability]] (3), next (2), [[Microsoft Word|Word]] (1), data (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 0.58 (1), 2.35 (1), 4.77 (1)
 > **Speakers:** - [instructor] (1)
@@ -5247,10 +5247,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Excel|Excel]] (1), data (1)
 > **Versions:** 5.4 (3), 1.8 (2), 1.77 (2), 0.35 (1), 0.64 (1)
 > **Ports:** :00 (4)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5419,8 +5419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), power (2), hit (1)
 > **Versions:** 1.77 (4), 0.67 (3), 99.7 (2), 2.87 (2), 0.5 (1)
-> **Code Keywords:** let (5), raise (2), finally, (2), this. (2), this, (1)
 > **CLI Commands:** make (4), find (3)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** go to (1)
@@ -5632,8 +5632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (19), next (5), [[Microsoft Excel|Excel]] (3)
 > **Versions:** 12.8 (3), 38.4 (2), 0.3 (2), 0.50 (1), 0.55 (1)
-> **Code Keywords:** let (4), this. (4), case. (1), case, (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **Env Vars:** false (2), binom (1), dist (1), true (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -5748,7 +5748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this, (4), this. (3), case, (2), for, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Probability]] (3), data (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -5758,7 +5758,7 @@ created: 2026-04-29
 
 ### 8. Continuous Probabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous: Z-score tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-z-score-tables?u=76281980)
@@ -5875,10 +5875,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), power (1), next (1)
 > **Versions:** 0.99 (3), 0.8389 (2), 1.52 (2), 1.520 (2), 93.57 (2)
 > **CLI Commands:** find (9), make (1)
 > **Env Vars:** nba (7), norm (1), dist (1)
-> **Code Keywords:** let (3), for. (1), function (1)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -6027,8 +6027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (4), data (4), [[Microsoft Excel|Excel]] (3), next (3), power (1)
 > **CLI Commands:** make (9), find (2)
-> **Code Keywords:** let (5), this, (1), this. (1), case, (1)
 > **UI Navigation:** go to (5), select the (1), click on (1)
 > **Versions:** 0.1 (1), 2.0 (1), 0.9772 (1), 0.10 (1), 2.9 (1)
 > **Env Vars:** norm (2), dist (2)
@@ -6176,9 +6176,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), hit (1)
 > **Versions:** 1.5 (2), 0.5 (2), 37.53 (2), 1.63 (2), 99.7 (1)
 > **CLI Commands:** find (11), make (1)
-> **Code Keywords:** let (8), switch (2), this, (1), return. (1)
 > **Env Vars:** nba (2), norm (1), dist (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -6300,7 +6300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), this, (1), case. (1), throw (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Probability]] (5), data (1)
 > **CLI Commands:** find (4)
 > **Versions:** 1.50 (1)
 > **Speakers:** - [instructor] (1)
@@ -6320,6 +6320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** exercise file (2), exercise files (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - all (1)
@@ -6327,7 +6328,7 @@ created: 2026-04-29
 
 ### 9. Sampling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sample considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980)
@@ -6646,7 +6647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), from. (2), this, (2), function (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (4), [[Statistics]] (2), [[Microsoft Office|Office]] (2), next (2)
 > **Definitions:** means that (3), is a  (2), in other words (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** d229 (3)
@@ -6840,7 +6841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), this, (2), this. (2), class. (1)
+> **Frameworks & Libraries:** data (7), next (7), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** frequency (1), f20 (1), index (1), d951 (1), randbetween (1)
 > **SQL:** index (1)
 > **Versions:** 706.2 (1)
@@ -7112,8 +7113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (6), data (5), [[Microsoft Excel|Excel]] (2), next (2), [[Forms]] (1)
 > **Versions:** 2.5 (5), 70.8 (4), 2.093 (4), 16.4 (3), 97.5 (3)
-> **Code Keywords:** let (13), function (5), case, (2), class, (2), this. (2)
 > **Env Vars:** norm (7), dist (7), inv (4), stdev (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** in other words (1), stands for (1), means that (1), is a  (1)
@@ -7225,7 +7226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (2), case, (1), this. (1), for, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), next (2), data (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 2.5 (4), 0.975 (1), 2.09 (1), 3.1 (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is a  (3)
@@ -7235,7 +7236,7 @@ created: 2026-04-29
 
 ### 10. Confidence Intervals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to confidence intervals
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/introduction-to-confidence-intervals?u=76281980)
@@ -7312,7 +7313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), case, (1), let (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1)
 > **Versions:** 6.25 (3)
 > **Speakers:** - [host] (1)
 
@@ -7581,8 +7582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1)
 > **Versions:** 0.40 (3), 2.0 (3), 2.5 (3), 0.05 (2), 1.96 (2)
-> **Code Keywords:** let (11), this. (4), case. (2), finally, (1), this, (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** double-click (1), go to (1)
 > **CLI Commands:** find (1)
@@ -7858,8 +7859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (5), [[Probability]] (3), [[Statistics]] (3), next (1)
 > **Versions:** 2.326 (3), 1.96 (2), 0.99 (2), 30.12 (1), 41.88 (1)
-> **Code Keywords:** let (7), this, (3), case, (2), this. (1), function (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** inv (2), d41 (1), norm (1), stdev (1)
 > **Definitions:** means that (2), is a  (2)
@@ -8030,7 +8031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (2), this. (1), case, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Versions:** 0.52 (3), 1.96 (2), 0.8 (1), 0.07065 (1), 0.60 (1)
 > **CLI Commands:** find (7)
 > **Definitions:** is a  (2)
@@ -8041,7 +8042,7 @@ created: 2026-04-29
 
 ### 11. Hypothesis Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to test a hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/how-to-test-a-hypothesis?u=76281980)
@@ -8100,10 +8101,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), next (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), just like (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -8254,9 +8255,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (4), next (3), [[Probability]] (1)
 > **Versions:** 2.50 (2), 0.0062 (2), 0.9938 (1), 99.38 (1), 0.05 (1)
 > **Definitions:** means that (2), is called (1), is a  (1), is an  (1)
-> **Code Keywords:** let (2), this, (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -8347,7 +8348,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1), case, (1), for, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -8743,7 +8743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), this, (4), case, (3), require (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1), next (1), [[Probability]] (1)
 > **Versions:** 8.5 (5), 39.59 (3), 1.91 (3), 1.55 (3), 1.5 (2)
 > **Env Vars:** dist (3), norm (1), inv (1)
 > **UI Navigation:** go to (5)
@@ -8944,7 +8944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), case, (3), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1), next (1)
 > **Versions:** 0.50 (5), 1.88 (5), 0.542 (1), 0.0224 (1), 1.644 (1)
 > **Env Vars:** norm (2), sqrt (1), dist (1), inv (1), b35 (1)
 > **CLI Commands:** make (2), find (1)
@@ -9109,8 +9109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), data (1), prompt (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 0.05 (5), 1.5 (3), 1.91 (3), 0.50 (3), 39.59 (2)
-> **Code Keywords:** let (9), for, (2), this. (2), for. (1), case, (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
@@ -9118,7 +9118,7 @@ created: 2026-04-29
 
 ### 12. Comparing Two Populations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanation of two population comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/explanation-of-two-population-comparisons?u=76281980)
@@ -9167,9 +9167,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** required to (2)
-> **Code Keywords:** this: (1)
 > **Speakers:** - [instructor] (1)
 
 #### Comparing two populations: Proportions
@@ -9429,8 +9429,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (3), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 2.75 (2), 0.0117 (1), 0.01693 (1), 1.7 (1), 1.1 (1)
-> **Code Keywords:** let (6), case, (3), this, (1), this. (1)
 > **CLI Commands:** find (7)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** norm (1), dist (1)
@@ -9800,8 +9800,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (16), [[Microsoft Excel|Excel]] (4), data (4)
 > **Versions:** 151.9 (4), 140.7 (3), 0.05 (3), 1.43 (3), 35.5 (2)
-> **Code Keywords:** let (18), this, (4), case, (3), this. (1), require (1)
 > **Definitions:** is a  (7)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -9942,7 +9942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (2), for, (1), throw (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), data (3), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 1.96 (4), 0.05 (2), 2.052 (2), 1.4263 (1), 27.9 (1)
 > **Warnings:** be careful (4)
 > **Cross-References:** previous video (1), earlier in (1), as we saw (1)
@@ -9953,7 +9953,7 @@ created: 2026-04-29
 
 ### 13. ANOVA: Analysis of Variance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ANOVA: What is analysis of variance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/anova-what-is-analysis-of-variance?u=76281980)
@@ -10172,7 +10172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (2), case, (2), this, (2), from. (1)
+> **Frameworks & Libraries:** data (13), next (4), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** anova (6), b10 (3), sst (2), ssw (1), ssb (1)
 > **Cross-References:** in the next (2), next video (1)
 > **Versions:** 0.05 (2)
@@ -10464,7 +10464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (5), this, (1), case. (1), this. (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
 > **Versions:** 0.05 (7), 5.14 (2), 7.8 (1), 11.84 (1), 0.828 (1)
 > **Env Vars:** anova (8), ssb (1), ssw (1)
 > **CLI Commands:** find (3), make (1)
@@ -10606,7 +10606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), this, (2), while, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), data (2), product (1)
 > **CLI Commands:** find (7)
 > **Env Vars:** anova (2)
 > **Cross-References:** previous video (1)
@@ -10616,7 +10616,7 @@ created: 2026-04-29
 
 ### 14. Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980)
@@ -10695,6 +10695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2), next (1)
 > **Analogies:** for example (1), just like (1)
 > **Versions:** 0.10 (1)
 > **Cross-References:** in the next (1)
@@ -10780,8 +10781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), next (3)
 > **Definitions:** is a  (4), is called (2), is an  (1), means that (1)
-> **Code Keywords:** let (2), case, (1)
 > **Versions:** 1.0 (1), 0.75 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -11097,7 +11098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (6), case, (2), this, (2)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (5), teams (1)
 > **UI Navigation:** go to (8), click on (5)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** nba (4), nfl (2), anova (1)
@@ -11167,7 +11168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), prompt (2), data (2)
 > **UI Navigation:** click on (3), go to (2), right-click (2), select the (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
@@ -11177,7 +11178,7 @@ created: 2026-04-29
 
 ### 15. Simulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business simulation example
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/business-simulation-example?u=76281980)
@@ -11362,7 +11363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), this. (3), fn (1), delete (1)
+> **Frameworks & Libraries:** [[Simulation]] (5), data (4), business (2), hit (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (1), means that (1)
@@ -11433,7 +11434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (1), if, (1)
+> **Frameworks & Libraries:** [[Simulation]] (5), [[Microsoft Copilot|Copilot]] (4), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.5 (4)
 > **Prerequisites:** set up (1), setup (1)
 > **Speakers:** - [instructor] (1)
@@ -11441,7 +11442,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Excel statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980)
@@ -11470,6 +11471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), [[Statistics]] (2), [[Microsoft Copilot|Copilot]] (2), [[Probability]] (1)
 > **Env Vars:** anova (1), spss (1)
 > **Speakers:** - congrats (1)
 

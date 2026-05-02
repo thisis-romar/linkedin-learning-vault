@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Essential%20Training%20Syntax%20And%20Structure.md)
@@ -47,74 +47,74 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn the essentials of Java 17
-  - CoderPad tour
-  - Programming and algorithms
+  - [Learn the essentials of Java 17](#learn-the-essentials-of-java-17)
+  - [CoderPad tour](#coderpad-tour)
+  - [Programming and algorithms](#programming-and-algorithms)
 - [**1. Getting Started with Java**](#1-getting-started-with-java) (2 videos)
-  - Install IntelliJ Community Edition
-  - Install the Java Development Kit (JDK)
+  - [Install IntelliJ Community Edition](#install-intellij-community-edition)
+  - [Install the Java Development Kit (JDK)](#install-the-java-development-kit-jdk)
 - [**2. Java Basics**](#2-java-basics) (5 videos)
-  - Packages
-  - Classes
-  - Main method
-  - Reserved words
-  - Code Solution: Method names
+  - [Packages](#packages)
+  - [Classes](#classes)
+  - [Main method](#main-method)
+  - [Reserved words](#reserved-words)
+  - [Code Solution: Method names](#code-solution-method-names)
 - [**3. Variables**](#3-variables) (7 videos)
-  - Creating variables
-  - Primitive data types
-  - Local variable type inference
-  - Naming variables
-  - Modifying variables
-  - Arithmetic operators
-  - Code Solution: Fill in the blanks
+  - [Creating variables](#creating-variables)
+  - [Primitive data types](#primitive-data-types)
+  - [Local variable type inference](#local-variable-type-inference)
+  - [Naming variables](#naming-variables)
+  - [Modifying variables](#modifying-variables)
+  - [Arithmetic operators](#arithmetic-operators)
+  - [Code Solution: Fill in the blanks](#code-solution-fill-in-the-blanks)
 - [**4. Decision Structures**](#4-decision-structures) (9 videos)
-  - If statements
-  - If-else statements
-  - If-else-if statements
-  - Switch statements
-  - Switch expressions
-  - Relational operators
-  - Logical operators
-  - Short circuit logic
-  - Code Solution: Change for a dollar game
+  - [If statements](#if-statements)
+  - [If-else statements](#if-else-statements)
+  - [If-else-if statements](#if-else-if-statements)
+  - [Switch statements](#switch-statements)
+  - [Switch expressions](#switch-expressions)
+  - [Relational operators](#relational-operators)
+  - [Logical operators](#logical-operators)
+  - [Short circuit logic](#short-circuit-logic)
+  - [Code Solution: Change for a dollar game](#code-solution-change-for-a-dollar-game)
 - [**5. Repetition Structures**](#5-repetition-structures) (6 videos)
-  - While loop
-  - Do while loop
-  - For loop
-  - Nested loops
-  - Break statement
-  - Code Solution: Roll the die game
+  - [While loop](#while-loop)
+  - [Do while loop](#do-while-loop)
+  - [For loop](#for-loop)
+  - [Nested loops](#nested-loops)
+  - [Break statement](#break-statement)
+  - [Code Solution: Roll the die game](#code-solution-roll-the-die-game)
 - [**6. Methods**](#6-methods) (7 videos)
-  - Creating methods
-  - Calling methods
-  - Variable scope
-  - Passing data to methods
-  - Returning data from methods
-  - Overloading methods
-  - Code Solution: Calculator
+  - [Creating methods](#creating-methods)
+  - [Calling methods](#calling-methods)
+  - [Variable scope](#variable-scope)
+  - [Passing data to methods](#passing-data-to-methods)
+  - [Returning data from methods](#returning-data-from-methods)
+  - [Overloading methods](#overloading-methods)
+  - [Code Solution: Calculator](#code-solution-calculator)
 - [**7. Objects**](#7-objects) (8 videos)
-  - Defining classes for objects
-  - Constructors
-  - Instantiating objects
-  - Objects as method parameters
-  - Objects as method return types
-  - Wrapper classes
-  - Records
-  - Code Solution: Create a car object
+  - [Defining classes for objects](#defining-classes-for-objects)
+  - [Constructors](#constructors)
+  - [Instantiating objects](#instantiating-objects)
+  - [Objects as method parameters](#objects-as-method-parameters)
+  - [Objects as method return types](#objects-as-method-return-types)
+  - [Wrapper classes](#wrapper-classes)
+  - [Records](#records)
+  - [Code Solution: Create a car object](#code-solution-create-a-car-object)
 - [**8. Arrays**](#8-arrays) (3 videos)
-  - Arrays
-  - Variable arguments
-  - Code Solution: Generate a bingo card
+  - [Arrays](#arrays)
+  - [Variable arguments](#variable-arguments)
+  - [Code Solution: Generate a bingo card](#code-solution-generate-a-bingo-card)
 - [**9. Text Processing**](#9-text-processing) (3 videos)
-  - Strings
-  - Text blocks
-  - Code Solution: Password validator
+  - [Strings](#strings)
+  - [Text blocks](#text-blocks)
+  - [Code Solution: Password validator](#code-solution-password-validator)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the essentials of Java 17
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980)
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (8), [[Programming]] (2), data (1), [[LinkedIn]] (1)
 > **Versions:** java 17 (1)
 > **Speakers:** - [angie] (1)
 
@@ -200,7 +201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Programming]] (4), [[Java]] (3), data (1), [[Hardware]] (1), next (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -208,7 +209,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install IntelliJ Community Edition
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-intellij-community-edition?u=76281980)
@@ -237,6 +238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (1), application (1)
 > **UI Navigation:** go to (2)
 > **URLs:** [jetbrains.com](https://jetbrains.com) (1)
 > **Env Vars:** ide (1)
@@ -244,7 +246,6 @@ created: 2026-04-29
 > **Exercise Files:** source code (1)
 > **Definitions:** stands for (1)
 > **Prerequisites:** install (1)
-> **Speakers:** - [angie] (1)
 
 #### Install the Java Development Kit (JDK)
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-the-java-development-kit-jdk?u=76281980)
@@ -275,6 +276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5)
 > **Env Vars:** jdk (2), ide (1)
 > **UI Navigation:** in the menu (1), dropdown (1)
 > **Versions:** java 17 (1)
@@ -285,7 +287,7 @@ created: 2026-04-29
 
 ### 2. Java Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Packages
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/packages?u=76281980)
@@ -350,8 +352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (9), next (2), hit (1)
 > **Definitions:** is a  (4), is called (1)
-> **Code Keywords:** let (2), new, (1), this, (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** gross_calculator (2)
 > **Exercise Files:** template (1), source code (1)
@@ -417,7 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (6), let (2), class, (1), public (1)
+> **Frameworks & Libraries:** [[Java]] (16), [[Microsoft Word|Word]] (3), next (1)
 > **UI Navigation:** right-click (1), double-click (1)
 > **Definitions:** known as (1), is a  (1)
 > **File Paths:** grosspaycalculator.java (1)
@@ -483,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), let (3), class. (2), public (1), static (1)
+> **Frameworks & Libraries:** [[Java]] (7), [[Programming]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (2)
 > **Speakers:** - [angie] (1)
@@ -513,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), case, (1), class, (1), static (1), for. (1)
+> **Frameworks & Libraries:** [[Programming]] (1), [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -532,7 +534,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
 > **Code Identifiers:** methodname (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -540,7 +541,7 @@ created: 2026-04-29
 
 ### 3. Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980)
@@ -669,7 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (2), finally, (1), class, (1)
+> **Frameworks & Libraries:** data (17), [[Java]] (3), [[Programming]] (3), next (2), [[JavaScript]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **Versions:** 25.50 (2)
 > **Code Identifiers:** grosspay (1)
@@ -710,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Java]] (2)
 > **Versions:** 9.2 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [angie] (1)
@@ -738,7 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (4), let (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (3), data (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** var (4)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** iswaterwet (1)
@@ -795,8 +796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (3), [[Programming]] (1)
 > **Analogies:** for example (3), such as (1), just like (1)
-> **Code Keywords:** self (1), class, (1), case. (1), let (1)
 > **Code Identifiers:** payrate (1)
 > **Definitions:** means that (1)
 > **Warnings:** be careful (1)
@@ -891,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), class. (1), class, (1), type. (1)
+> **Frameworks & Libraries:** data (3), prompt (3), [[Java]] (2), [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** payrate (4), nextint (1), nextdouble (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Tools:** intellij (2)
@@ -925,6 +926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), data (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [angie] (1)
@@ -952,14 +954,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Decision Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-statements?u=76281980)
@@ -1044,7 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), if, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Programming]] (1), [[Java]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** right-click (1)
@@ -1105,7 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** salesshort (2)
 > **Definitions:** is a  (1)
@@ -1202,7 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), else. (2), else, (2), if. (2), if, (2)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1295,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (12), case. (3), case, (2), class, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (2), for example (1)
 > **Best Practices:** good practice (1)
@@ -1350,7 +1352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (15), this. (1), let (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1406,7 +1408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Java]] (2), data (1)
 > **Speakers:** - [angie] (1)
 
 #### Logical operators
@@ -1486,7 +1488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), this, (1)
+> **Frameworks & Libraries:** next (2), [[Java]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1533,6 +1535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Definitions:** known as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -1564,6 +1567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1571,7 +1575,7 @@ created: 2026-04-29
 
 ### 5. Repetition Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### While loop
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/while-loop?u=76281980)
@@ -1668,7 +1672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (2), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1)
 > **Code Identifiers:** hoursworked (6), maxhours (3), payrate (1)
 > **Best Practices:** it's best to (2)
 > **CLI Commands:** make (1)
@@ -1762,8 +1766,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1)
 > **Code Identifiers:** runagain (4), nextint (1)
-> **Code Keywords:** let (4)
 > **Analogies:** similar to (1), just like (1)
 > **Definitions:** means that (1)
 > **Best Practices:** it's best to (1)
@@ -1877,7 +1881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
@@ -1976,7 +1980,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), class. (1), class, (1), this, (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** nextdouble (1)
 > **Versions:** 76.25 (1)
@@ -2026,7 +2029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), for, (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** currentletter (1), charat (1), letterfound (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [angie] (1)
@@ -2064,14 +2067,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** game (7)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980)
@@ -2178,7 +2181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (4), let (1), public (1), static (1), abstract (1)
+> **Frameworks & Libraries:** data (7), [[Java]] (3), next (3), [[Microsoft Word|Word]] (2), [[Programming]] (1)
 > **Definitions:** is a  (3), known as (2), is called (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** required to (2)
@@ -2223,8 +2226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1), application (1)
 > **Code Identifiers:** greetuser (7)
-> **Code Keywords:** let (2), class, (2), class. (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2306,8 +2309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** myvariable (16)
-> **Code Keywords:** class. (2), class, (1), default, (1), this. (1), let (1)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2393,7 +2396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), require (1), public (1), static (1)
+> **Frameworks & Libraries:** data (3)
 > **Code Identifiers:** isuserqualified (6), double_salary (1), requiredsalary (1), requiredcreditscore (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2462,8 +2465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1)
 > **Code Identifiers:** notifyuser (6), isuserqualified (4), isqualified (3)
-> **Code Keywords:** let (7), pass (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2500,7 +2503,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2)
 > **Code Identifiers:** getmonth (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -2531,14 +2533,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), this. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 7. Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining classes for objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/defining-classes-for-objects?u=76281980)
@@ -2633,7 +2634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), private (4), public (4), class. (3), protected (2)
+> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **Definitions:** known as (1), means that (1), is a  (1)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** make (1)
@@ -2708,7 +2709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), class. (2), class, (1), pass (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is a  (1), known as (1), is called (1)
 > **Code Identifiers:** setlength (1), setwidth (1)
 > **Prerequisites:** set up (2)
@@ -2791,7 +2792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class, (3), pass (3), class. (2), case, (1)
+> **Frameworks & Libraries:** data (3), next (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** calculatearea (2), setwidth (1), setlength (1), areaofroom1 (1), areaofroom2 (1)
 > **Analogies:** such as (2)
 > **Tools:** intellij (1)
@@ -2840,7 +2841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (3), public (1), static (1), type. (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Code Identifiers:** calculatetotalarea (2), calculatearea (2), double_area (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2890,7 +2891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), return, (1), case, (1), pass (1), this. (1)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** getroom (4), return_new (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2931,7 +2932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (1)
+> **Frameworks & Libraries:** data (7), [[Java]] (1)
 > **Code Identifiers:** doublevalue (1), flowvalue (1)
 > **Env Vars:** min_value (1), max_value (1)
 > **Analogies:** for example (1), such as (1)
@@ -2985,8 +2986,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Java]] (2)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** class. (1), class, (1)
 > **Cross-References:** later in (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -3024,7 +3025,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), let (2), pass (2), class. (1), finally, (1)
 > **Code Identifiers:** buildscar (1), setyear (1), setcolor (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -3033,7 +3033,7 @@ created: 2026-04-29
 
 ### 8. Arrays
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/arrays?u=76281980)
@@ -3120,8 +3120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (1), [[Programming]] (1)
 > **Analogies:** for example (3), picture (1), it's like (1)
-> **Code Keywords:** type, (2), type. (1), this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Variable arguments
@@ -3185,7 +3185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (1)
+> **Frameworks & Libraries:** data (1)
 > **Analogies:** for example (2), just like (1)
 > **Code Identifiers:** calculatesum (1)
 > **Cross-References:** in the last (1)
@@ -3225,7 +3225,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), pass (1)
 > **Code Identifiers:** generatecolumn (2), elementexists (1), getbingocard (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -3233,7 +3232,7 @@ created: 2026-04-29
 
 ### 9. Text Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980)
@@ -3360,7 +3359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), class. (2), finally, (2), type. (1), case, (1)
+> **Frameworks & Libraries:** data (1), [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (3), is a  (3), in other words (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -3392,6 +3391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (1), [[SQL]] (1)
 > **Env Vars:** json (1), sql (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3431,7 +3431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** isvalid (1)
 > **Speakers:** - [instructor] (1)
@@ -3440,7 +3440,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980)
@@ -3467,6 +3467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), [[LinkedIn]] (2), [[Search]] (1)
 > **Versions:** java 17 (1)
 > **Speakers:** - [angie] (1)
 

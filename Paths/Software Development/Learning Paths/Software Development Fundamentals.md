@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/software-development-fundamentals
 course_count: 10
 linkedin_topics:
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/software-development
@@ -57,7 +57,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/Software%20Development%20Fundamentals.md)

@@ -30,7 +30,7 @@ tags:
   - skill/software-design-patterns
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Patterns.md)
@@ -49,47 +49,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - JavaScript design patterns
-  - What you should know
+  - [JavaScript design patterns](#javascript-design-patterns)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction**](#1-introduction) (5 videos)
-  - What is a pattern?
-  - Setting up your base project
-  - Functions as first-class citizens
-  - What is a callback and its role?
-  - CoderPad introduction
+  - [What is a pattern?](#what-is-a-pattern)
+  - [Setting up your base project](#setting-up-your-base-project)
+  - [Functions as first-class citizens](#functions-as-first-class-citizens)
+  - [What is a callback and its role?](#what-is-a-callback-and-its-role)
+  - [CoderPad introduction](#coderpad-introduction)
 - [**2. Creational Patterns**](#2-creational-patterns) (6 videos)
-  - What are creational patterns?
-  - Class design pattern
-  - Constructor pattern
-  - Singleton pattern
-  - Factory pattern
-  - Abstract factory pattern
+  - [What are creational patterns?](#what-are-creational-patterns)
+  - [Class design pattern](#class-design-pattern)
+  - [Constructor pattern](#constructor-pattern)
+  - [Singleton pattern](#singleton-pattern)
+  - [Factory pattern](#factory-pattern)
+  - [Abstract factory pattern](#abstract-factory-pattern)
 - [**3. Structural Patterns**](#3-structural-patterns) (9 videos)
-  - What are structural patterns?
-  - Module pattern
-  - Mixins pattern
-  - Facade pattern
-  - Flyweight pattern
-  - Decorator pattern
-  - Model-View-Controller (MVC) pattern
-  - Model-View-Presenter (MVP) pattern
-  - Model-View-ViewModel (MVVM) pattern
+  - [What are structural patterns?](#what-are-structural-patterns)
+  - [Module pattern](#module-pattern)
+  - [Mixins pattern](#mixins-pattern)
+  - [Facade pattern](#facade-pattern)
+  - [Flyweight pattern](#flyweight-pattern)
+  - [Decorator pattern](#decorator-pattern)
+  - [Model-View-Controller (MVC) pattern](#model-view-controller-mvc-pattern)
+  - [Model-View-Presenter (MVP) pattern](#model-view-presenter-mvp-pattern)
+  - [Model-View-ViewModel (MVVM) pattern](#model-view-viewmodel-mvvm-pattern)
 - [**4. Behavioral Patterns**](#4-behavioral-patterns) (9 videos)
-  - What are behavioral patterns?
-  - Observer pattern
-  - State pattern
-  - Chain of responsibility
-  - Iterator pattern
-  - Strategy pattern
-  - Memento pattern
-  - Mediator pattern
-  - Command pattern
+  - [What are behavioral patterns?](#what-are-behavioral-patterns)
+  - [Observer pattern](#observer-pattern)
+  - [State pattern](#state-pattern)
+  - [Chain of responsibility](#chain-of-responsibility)
+  - [Iterator pattern](#iterator-pattern)
+  - [Strategy pattern](#strategy-pattern)
+  - [Memento pattern](#memento-pattern)
+  - [Mediator pattern](#mediator-pattern)
+  - [Command pattern](#command-pattern)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/javascript-design-patterns?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Design Patterns]] (3), next (1)
 > **Analogies:** such as (2)
 > **Speakers:** - have (1)
 
@@ -135,7 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Programming Foundations]] (1)
 > **Env Vars:** es6 (1)
 > **Tools:** vs code (1)
 > **Speakers:** - for (1)
@@ -143,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980)
@@ -176,8 +176,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Software Design]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
@@ -266,7 +266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Windows]] (3), [[JavaScript]] (3), [[Search]] (1), [[Google]] (1)
 > **File Paths:** index.js (4), index.html (3), dot.js (1)
 > **Env Vars:** html (7), css (1)
 > **UI Navigation:** click on (4), go to (3), scroll down (1)
@@ -334,7 +334,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (5), pass (2), const (1), this. (1)
 > **Definitions:** means that (3), is a  (1)
 > **Cross-References:** go back to (3)
 > **Code Identifiers:** anumber (2)
@@ -411,7 +410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (25), let (7), pass (4), continue (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is called (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** printcalc (2)
@@ -449,14 +448,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Creational Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are creational patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-creational-patterns?u=76281980)
@@ -473,7 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 
@@ -534,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (10), class. (3), switch (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **CLI Commands:** make (2)
 > **File Paths:** index.js (1)
 > **Ports:** port 5500 (1)
@@ -638,7 +636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), class. (4), super (3), class, (2), this. (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Env Vars:** suv (11)
 > **Cross-References:** go back to (2), previous video (1)
 > **Definitions:** is called (1), is a  (1)
@@ -708,7 +706,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), except, (1), pass (1), else. (1), if, (1)
 > **Cross-References:** go back to (4)
 > **Env Vars:** suv (2), cx5 (1)
 > **CLI Commands:** make (2)
@@ -852,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (8), type, (3), case, (3), this, (2)
+> **Frameworks & Libraries:** application (2), game (2)
 > **Code Identifiers:** carfactory (6), myhonda (3), createcar (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -1002,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (7), pass (7), this. (6), type. (3), switch (2)
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** suv (20), cx5 (5)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (1), go to (1)
@@ -1013,7 +1010,7 @@ created: 2026-04-29
 
 ### 3. Structural Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are structural patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-structural-patterns?u=76281980)
@@ -1040,7 +1037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), module (1), let (1)
+> **Frameworks & Libraries:** application (2)
 > **Env Vars:** mvc (1), mvp (1), mvvm (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - have (1)
@@ -1238,7 +1235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), module (7), let (7), this. (4), export. (2)
+> **Frameworks & Libraries:** node (6), [[npm]] (3), [[Microsoft Word|Word]] (2), [[Windows]] (2), [[JavaScript]] (1)
 > **CLI Commands:** node (6), make (4), npm (3), find (2)
 > **Ports:** port 3000 (4)
 > **Cross-References:** go back to (3), previous chapter (1)
@@ -1296,7 +1293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (7), this, (4), pass (3), class, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** suv (3)
 > **Cross-References:** go back to (2)
 > **Exercise Files:** exercise files (1), template (1)
@@ -1342,7 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (2), this, (1), function (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), application (1)
 > **Definitions:** is a  (2)
 > **File Paths:** app.js (1)
 > **Tools:** visual studio (1)
@@ -1379,9 +1376,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** index.js (1)
-> **Code Keywords:** class. (1)
 > **Tools:** visual studio (1)
 > **UI Navigation:** drag and drop (1)
 > **Exercise Files:** exercise files (1)
@@ -1440,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), class. (3), extends (1), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Angular]] (1)
 > **UI Navigation:** scroll down (3), go to (1)
 > **Analogies:** similar to (3), for example (1)
 > **Code Identifiers:** carmixin (3)
@@ -1480,8 +1477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), data (2), [[Programming]] (1), [[HTML]] (1), [[React.js|React]] (1)
 > **Env Vars:** html (1), mvvm (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - if (1)
 
 #### Model-View-Presenter (MVP) pattern
@@ -1513,6 +1510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Android]] (2), next (1), application (1)
 > **Env Vars:** mvc (2), mvp (2)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
@@ -1545,6 +1543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[React.js|React]] (3), application (1), [[Application Development]] (1)
 > **Env Vars:** mvvm (2), mvvc (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -1552,7 +1551,7 @@ created: 2026-04-29
 
 ### 4. Behavioral Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are behavioral patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-behavioral-patterns?u=76281980)
@@ -1637,9 +1636,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Search]] (1)
 > **UI Navigation:** go to (3), scroll down (2), drag and drop (1), click on (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (2), class, (1)
 > **CLI Commands:** find (1)
 > **URLs:** [meteor.com](https://meteor.com) (1)
 > **Documentation:** the docs (1)
@@ -1675,7 +1674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), function (1), pass (1)
+> **Frameworks & Libraries:** application (13), data (10), [[React.js|React]] (6), api (4), management (2)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (2)
@@ -1715,7 +1714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2), pass (1), let (1), function (1)
+> **Frameworks & Libraries:** hit (2), application (2), next (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1809,7 +1808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (1), else. (1), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[React.js|React]] (2), application (2)
 > **Cross-References:** go back to (3)
 > **Tools:** visual studio (3)
 > **UI Navigation:** open the (2), drag and drop (1)
@@ -1861,7 +1860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), class, (1), function (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** suv (3)
 > **Tools:** visual studio (1)
 > **UI Navigation:** drag and drop (1)
@@ -1885,8 +1884,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[JavaScript]] (2), [[JSON]] (2), application (1)
 > **Env Vars:** json (2), http (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Mediator pattern
@@ -1922,8 +1921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5)
 > **Code Identifiers:** traffictower (1), requestpositions (1)
-> **Code Keywords:** function (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [emmanuel] (1)
@@ -1985,7 +1984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), switch (2), abstract (1), this, (1)
+> **Frameworks & Libraries:** functional (1), application (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
 > **Definitions:** is a  (2), in other words (1)
 > **File Paths:** redux.js (1)
@@ -1997,7 +1996,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980)
@@ -2016,8 +2015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Design Patterns]] (1), next (1), [[React.js|React]] (1), [[Angular]] (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** es7 (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)

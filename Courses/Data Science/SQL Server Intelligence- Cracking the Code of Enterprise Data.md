@@ -35,7 +35,7 @@ tags:
   - topic/network-and-system-administration
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Server%20Intelligence-%20Cracking%20the%20Code%20of%20Enterprise%20Data.md)
@@ -54,38 +54,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Why data? The role of SQL and how you can get involved
-  - What you should know: Microsoft SQL Server and installation
-  - Environment orientation
-  - Introduction to CoderPad
+  - [Why data? The role of SQL and how you can get involved](#why-data-the-role-of-sql-and-how-you-can-get-involved)
+  - [What you should know: Microsoft SQL Server and installation](#what-you-should-know-microsoft-sql-server-and-installation)
+  - [Environment orientation](#environment-orientation)
+  - [Introduction to CoderPad](#introduction-to-coderpad)
 - [**1. How to Optimize Your DB Software**](#1-how-to-optimize-your-db-software) (2 videos)
-  - Tweaking your settings
-  - Loading the database file
+  - [Tweaking your settings](#tweaking-your-settings)
+  - [Loading the database file](#loading-the-database-file)
 - [**2. Get Familiar with Your Database and Its Data**](#2-get-familiar-with-your-database-and-its-data) (5 videos)
-  - Getting familiar with your database
-  - The basic query structure and using aliases
-  - Aliases and sorting
-  - Common mistakes
-  - Solution: Crafting queries
+  - [Getting familiar with your database](#getting-familiar-with-your-database)
+  - [The basic query structure and using aliases](#the-basic-query-structure-and-using-aliases)
+  - [Aliases and sorting](#aliases-and-sorting)
+  - [Common mistakes](#common-mistakes)
+  - [Solution: Crafting queries](#solution-crafting-queries)
 - [**3. Understand Simple and Powerful Syntax to Filter and Analyze Data**](#3-understand-simple-and-powerful-syntax-to-filter-and-analyze-data) (5 videos)
-  - The WHERE clause: Finding numeric data
-  - The WHERE clause: Operators IN and BETWEEN
-  - The WHERE clause: Finding text data and using Wildcards
-  - The WHERE clause: Finding data using dates
-  - Solution: Date range and set analysis
+  - [The WHERE clause: Finding numeric data](#the-where-clause-finding-numeric-data)
+  - [The WHERE clause: Operators IN and BETWEEN](#the-where-clause-operators-in-and-between)
+  - [The WHERE clause: Finding text data and using Wildcards](#the-where-clause-finding-text-data-and-using-wildcards)
+  - [The WHERE clause: Finding data using dates](#the-where-clause-finding-data-using-dates)
+  - [Solution: Date range and set analysis](#solution-date-range-and-set-analysis)
 - [**4. Filter Data Based on More than One Condition**](#4-filter-data-based-on-more-than-one-condition) (2 videos)
-  - Introducing AND and OR
-  - Solution: Filtering with logical operators
+  - [Introducing AND and OR](#introducing-and-and-or)
+  - [Solution: Filtering with logical operators](#solution-filtering-with-logical-operators)
 - [**5. Analyze Data with Flexibility, Efficiency, and Calculated Fields**](#5-analyze-data-with-flexibility-efficiency-and-calculated-fields) (3 videos)
-  - Calculated columns
-  - The CASE statement
-  - Solution: Calculated columns and conditional logic
+  - [Calculated columns](#calculated-columns)
+  - [The CASE statement](#the-case-statement)
+  - [Solution: Calculated columns and conditional logic](#solution-calculated-columns-and-conditional-logic)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why data? The role of SQL and how you can get involved
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980)
@@ -112,6 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (4), [[Google]] (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2)
 > **Versions:** 2.4 (1)
@@ -209,11 +210,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Microsoft SQL Server]] (8), management (8), [[SQL]] (4), [[Windows]] (4)
 > **Env Vars:** sql (21), ssms (2)
 > **Prerequisites:** install (7), you need to have (1), you'll need (1)
 > **UI Navigation:** click on (6), navigate to (2)
 > **Definitions:** is a  (3), is called (1), is an  (1)
-> **Code Keywords:** let (2), this, (1), this. (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -281,8 +282,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), management (7), [[Microsoft SQL Server]] (4), [[SQL]] (4), data (4)
 > **Env Vars:** sql (12)
-> **Code Keywords:** let (4), type, (1)
 > **UI Navigation:** click on (3), go to (1), dropdown (1)
 > **Definitions:** refers to (2), is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -328,6 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (3), [[MySQL]] (2), management (2), [[SQL]] (2)
 > **Env Vars:** sql (4)
 > **CLI Commands:** mysql (2)
 > **Cross-References:** next video (1)
@@ -337,7 +339,7 @@ created: 2026-04-29
 
 ### 1. How to Optimize Your DB Software
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tweaking your settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980)
@@ -488,7 +490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (3), type. (2), function (1)
+> **Frameworks & Libraries:** data (5), [[SQL]] (5), hit (3), [[Transact-SQL (T-SQL)|Transact-sql]] (3), [[Security]] (1)
 > **CLI Commands:** make (10), composer (1)
 > **Env Vars:** sql (8)
 > **Definitions:** is a  (3), is called (1)
@@ -604,8 +606,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (14), [[SQL]] (5), next (2), [[Microsoft]] (1), management (1)
 > **UI Navigation:** click on (5), scroll down (2), go to (1), navigate to (1)
-> **Code Keywords:** case, (3), let (3), this, (2)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** we talked about (1), we mentioned (1)
@@ -615,7 +617,7 @@ created: 2026-04-29
 
 ### 2. Get Familiar with Your Database and Its Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting familiar with your database
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/getting-familiar-with-your-database-23857340?u=76281980)
@@ -728,7 +730,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), type, (1)
+> **Frameworks & Libraries:** database (19), data (7), next (2), [[Databases]] (2)
 > **Definitions:** is a  (2), is an  (2), short for (1), is called (1), refers to (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** customer_id (1)
@@ -954,7 +956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (3), case, (2), from, (2), continue (1)
+> **Frameworks & Libraries:** database (17), [[SQL]] (14), [[Databases]] (4), next (4), data (3)
 > **Env Vars:** sql (16), select (5)
 > **Code Identifiers:** customer_details (13), firstname (7)
 > **UI Navigation:** drag and drop (3), click on (2), go to (2), dropdown (1), select the (1)
@@ -1066,7 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), case, (1), this. (1), from, (1), default, (1)
+> **Frameworks & Libraries:** database (6), hit (5), [[SQL]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (4)
 > **Analogies:** just like (2)
 > **Cross-References:** as we saw (1)
@@ -1226,9 +1228,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (14), hit (4), [[Microsoft SQL Server|Sql server]] (3), management (2), feature (1)
 > **Env Vars:** sql (17), select (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** this. (2), let (1)
 > **Code Identifiers:** firstname (1), firstnam (1)
 > **UI Navigation:** click on (1), drag and drop (1)
 > **Definitions:** is called (1), means that (1)
@@ -1272,8 +1274,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[SQL]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** customer_details (2), firstname (2), lastname (2)
-> **Code Keywords:** let (2), include. (1)
 > **Env Vars:** sql (1), select (1), order (1)
 > **SQL:** select (1), order by (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -1282,7 +1284,7 @@ created: 2026-04-29
 
 ### 3. Understand Simple and Powerful Syntax to Filter and Analyze Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The WHERE clause: Finding numeric data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-numeric-data-23857339?u=76281980)
@@ -1403,7 +1405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (2)
+> **Frameworks & Libraries:** data (3), [[SQL]] (2), database (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - so (1), - okay (1)
 > **CLI Commands:** make (1)
@@ -1493,8 +1495,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), hit (4), [[Microsoft SQL Server|Sql server]] (1), management (1), data (1)
 > **Env Vars:** where (8), sql (6), between (5)
-> **Code Keywords:** let (15), continue (1), interface (1)
 > **SQL:** where (8)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -1624,7 +1626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), type. (2), continue (1), switch (1), for. (1)
+> **Frameworks & Libraries:** data (14), [[SQL]] (3), database (2), next (2), hit (1)
 > **Code Identifiers:** firstname (6), customer_details (1)
 > **Env Vars:** where (4), sql (3)
 > **SQL:** where (4)
@@ -1778,7 +1780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), from, (3), finally, (1), type. (1)
+> **Frameworks & Libraries:** data (12), [[SQL]] (3), database (1)
 > **UI Navigation:** drag and drop (3), click on (1), select the (1), go to (1)
 > **Env Vars:** sql (3)
 > **Analogies:** just like (2), picture (1)
@@ -1836,15 +1838,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[SQL]] (1), management (1)
 > **Env Vars:** where (3), select (1), sql (1), order (1)
 > **SQL:** where (3), select (1), order by (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Filter Data Based on More than One Condition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing AND and OR
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980)
@@ -1955,7 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (5), this. (1), case. (1), for, (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft SQL Server|Sql server]] (2), management (2), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** where (6), sql (4)
 > **SQL:** where (6)
 > **Definitions:** is a  (2)
@@ -2021,9 +2023,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), management (2), data (2), [[MySQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (5), select (2), concat (1), where (1), order (1)
 > **Code Identifiers:** firstname (3), lastname (2), customer_details (1)
-> **Code Keywords:** let (3), function (1), this. (1)
 > **SQL:** select (2), where (1), order by (1)
 > **CLI Commands:** mysql (1)
 > **Definitions:** is an  (1)
@@ -2032,7 +2034,7 @@ created: 2026-04-29
 
 ### 5. Analyze Data with Flexibility, Efficiency, and Calculated Fields
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculated columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/calculated-columns-23859325?u=76281980)
@@ -2169,7 +2171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), type, (3), this. (2), pass (1), type. (1)
+> **Frameworks & Libraries:** [[SQL]] (11), data (10), hit (2), database (1), business (1)
 > **Env Vars:** sql (11), aka (1)
 > **Versions:** 11.93 (1), 1.5 (1), 27.99 (1), 22.99 (1), 12.50 (1)
 > **Definitions:** is a  (4)
@@ -2265,7 +2267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), case, (1), this. (1)
+> **Frameworks & Libraries:** hit (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2328,14 +2330,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** management (2), data (1), next (1)
 > **Env Vars:** concat (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980)
@@ -2374,6 +2376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), data (5), next (2), [[Microsoft Power BI]] (1)
 > **Env Vars:** sql (7)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

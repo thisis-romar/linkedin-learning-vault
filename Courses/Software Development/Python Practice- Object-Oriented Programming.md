@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/object-oriented-programming-oop
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Practice-%20Object-Oriented%20Programming.md)
@@ -49,21 +49,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Try your Python programming skills
-  - What you should know
-  - Exploring the Lab environment
+  - [Try your Python programming skills](#try-your-python-programming-skills)
+  - [What you should know](#what-you-should-know)
+  - [Exploring the Lab environment](#exploring-the-lab-environment)
 - [**1. Code Challenges**](#1-code-challenges) (5 videos)
-  - Solution: Define a class and create objects
-  - Solution: Add a method to a class
-  - Solution: Refactor a class
-  - Solution: Protect an attribute
-  - Solution: Compare instances
+  - [Solution: Define a class and create objects](#solution-define-a-class-and-create-objects)
+  - [Solution: Add a method to a class](#solution-add-a-method-to-a-class)
+  - [Solution: Refactor a class](#solution-refactor-a-class)
+  - [Solution: Protect an attribute](#solution-protect-an-attribute)
+  - [Solution: Compare instances](#solution-compare-instances)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Try your Python programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980)
@@ -90,8 +90,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Programming]] (1), data (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** let (1)
 > **Speakers:** - [scott] (1)
 
 #### What you should know
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), next (1)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
@@ -175,14 +176,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Code Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Define a class and create objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-1-define-a-class-and-create-objects?u=76281980)
@@ -213,7 +214,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), pass (1), class, (1), this, (1), class. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Add a method to a class
@@ -261,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -303,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (5), self (1), type, (1), case, (1), class, (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -353,7 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), this, (2), self (2), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (3), python (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** initialization (1)
@@ -400,7 +400,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), continue (1)
 > **Code Identifiers:** spice_cake (2), chocolate_cake (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -408,7 +407,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980)
@@ -423,6 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [narrator] (1)
 

@@ -34,7 +34,7 @@ tags:
   - skill/data-analysis
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Basics%20of%20Data%20Visualization%20Analysis.md)
@@ -53,40 +53,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The value of visual analysis
+  - [The value of visual analysis](#the-value-of-visual-analysis)
 - [**1. Basics of Analysis**](#1-basics-of-analysis) (3 videos)
-  - Types of data
-  - Basic graph elements
-  - Univariate, bivariate, and multivariate analysis
+  - [Types of data](#types-of-data)
+  - [Basic graph elements](#basic-graph-elements)
+  - [Univariate, bivariate, and multivariate analysis](#univariate-bivariate-and-multivariate-analysis)
 - [**2. Distributional Analysis with Continuous Data**](#2-distributional-analysis-with-continuous-data) (4 videos)
-  - Histograms
-  - Density plots
-  - Strip plots
-  - Box plots
+  - [Histograms](#histograms)
+  - [Density plots](#density-plots)
+  - [Strip plots](#strip-plots)
+  - [Box plots](#box-plots)
 - [**3. Distributional Analysis with Discrete Data**](#3-distributional-analysis-with-discrete-data) (3 videos)
-  - Bar graphs and dot plots
-  - Pie charts
-  - Radar plots
+  - [Bar graphs and dot plots](#bar-graphs-and-dot-plots)
+  - [Pie charts](#pie-charts)
+  - [Radar plots](#radar-plots)
 - [**4. Visualizing Multiple Distributions**](#4-visualizing-multiple-distributions) (4 videos)
-  - Multiple histogram and density plots
-  - Multiple box and violin plots
-  - Multiple bar graphs and dot plots
-  - Multiple pie and radar plots
+  - [Multiple histogram and density plots](#multiple-histogram-and-density-plots)
+  - [Multiple box and violin plots](#multiple-box-and-violin-plots)
+  - [Multiple bar graphs and dot plots](#multiple-bar-graphs-and-dot-plots)
+  - [Multiple pie and radar plots](#multiple-pie-and-radar-plots)
 - [**5. Visualizing Relationships**](#5-visualizing-relationships) (4 videos)
-  - Scatter plots
-  - Lines of best fit
-  - Line plots
-  - Table plots
+  - [Scatter plots](#scatter-plots)
+  - [Lines of best fit](#lines-of-best-fit)
+  - [Line plots](#line-plots)
+  - [Table plots](#table-plots)
 - [**6. Visualizing Multi-Dimensional Relationships**](#6-visualizing-multi-dimensional-relationships) (3 videos)
-  - Matrix scatter and trellis plots
-  - Bubble plots
-  - Contour plots
+  - [Matrix scatter and trellis plots](#matrix-scatter-and-trellis-plots)
+  - [Bubble plots](#bubble-plots)
+  - [Contour plots](#contour-plots)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Time to visualize
+  - [Time to visualize](#time-to-visualize)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of visual analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980)
@@ -123,13 +123,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), power (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - whether (1)
 
 
 ### 1. Basics of Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980)
@@ -204,8 +205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (5), for example (3)
-> **Code Keywords:** require (2)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Env Vars:** gdp (1)
 > **Definitions:** is a  (1)
@@ -334,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), next (5), [[Microsoft Word|Word]] (2), [[Forms]] (1)
 > **Analogies:** such as (4), for example (2)
-> **Code Keywords:** for. (1), this. (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
@@ -426,9 +427,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Statistical Analysis]] (3), [[Statistical Data Analysis]] (2), [[Statistics]] (2)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** type, (1)
 > **Env Vars:** mri (1)
 > **Best Practices:** rule of thumb (1)
 > **Prerequisites:** you'll need (1)
@@ -437,7 +438,7 @@ created: 2026-04-29
 
 ### 2. Distributional Analysis with Continuous Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Histograms
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/histograms?u=76281980)
@@ -512,6 +513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - histograms (1)
@@ -591,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), let (1), default, (1)
+> **Frameworks & Libraries:** data (7), next (1)
 > **Analogies:** similar to (1), picture (1)
 > **Best Practices:** you should always (1), rule of thumb (1)
 > **Definitions:** is a  (1)
@@ -648,8 +650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), business (1), feature (1)
 > **Analogies:** similar to (3), for example (1), just like (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - today (1)
 
@@ -738,8 +740,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Statistics]] (2), next (2)
 > **Definitions:** is an  (3), is a  (2), is called (2), in other words (1), means that (1)
-> **Code Keywords:** case, (2), let (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - today (1)
@@ -747,7 +749,7 @@ created: 2026-04-29
 
 ### 3. Distributional Analysis with Discrete Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bar graphs and dot plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bar-graphs-and-dot-plots?u=76281980)
@@ -840,8 +842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), feature (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), means that (1)
-> **Code Keywords:** this. (1), let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - bar (1)
 
@@ -930,9 +932,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Statistics]] (1), next (1)
 > **Definitions:** known as (1), in other words (1), is a  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1), finally, (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - do (1)
 
@@ -1007,8 +1009,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), web (1), next (1), [[Statistics]] (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** case. (1), case, (1), let (1), require (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Warnings:** warning (1)
@@ -1017,7 +1019,7 @@ created: 2026-04-29
 
 ### 4. Visualizing Multiple Distributions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Multiple histogram and density plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-histogram-and-density-plots?u=76281980)
@@ -1094,7 +1096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), super (1)
+> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2)
 > **Best Practices:** general rule (1)
@@ -1170,8 +1172,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), power (3), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), is called (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
 
@@ -1256,7 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), case, (1)
+> **Frameworks & Libraries:** data (6), next (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), picture (1)
 > **CLI Commands:** make (1)
@@ -1329,7 +1331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), this. (1)
+> **Frameworks & Libraries:** data (7), [[Statistics]] (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -1338,7 +1340,7 @@ created: 2026-04-29
 
 ### 5. Visualizing Relationships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scatter plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/scatter-plots?u=76281980)
@@ -1421,9 +1423,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), next (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), continue (1)
 > **Analogies:** for example (2)
 > **Speakers:** - what (1)
 
@@ -1540,7 +1542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), type. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (17), [[Microsoft Excel|Excel]] (1), next (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -1636,10 +1638,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), next (2)
 > **Definitions:** is a  (4), in other words (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - visualizing (1)
 
@@ -1718,14 +1720,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (12), [[Statistics]] (3), next (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
 
 
 ### 6. Visualizing Multi-Dimensional Relationships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Matrix scatter and trellis plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/matrix-scatter-and-trellis-plots?u=76281980)
@@ -1808,8 +1810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Statistics]] (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (1), this. (1), case, (1)
 > **Analogies:** for example (2), imagine (1)
 > **Speakers:** - multivariate (1)
 
@@ -1906,6 +1908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), power (2)
 > **Env Vars:** gdp (6)
 > **Definitions:** is a  (3), is an  (2)
 > **Warnings:** keep in mind (1), be careful (1)
@@ -1992,7 +1995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), case, (1), extends (1), this. (1)
+> **Frameworks & Libraries:** data (10)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** remember to (1)
@@ -2001,7 +2004,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time to visualize
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980)
@@ -2058,9 +2061,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Statistics]] (4), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), [[Microsoft Excel]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Env Vars:** stata (1), spss (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - you (1)

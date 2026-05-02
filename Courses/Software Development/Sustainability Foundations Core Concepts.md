@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/environmental-sustainability
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Sustainability%20Foundations%20Core%20Concepts.md)
@@ -43,29 +43,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Sustainability and transformation
+  - [Sustainability and transformation](#sustainability-and-transformation)
 - [**1. What Is Sustainability?**](#1-what-is-sustainability) (3 videos)
-  - Definition of sustainability
-  - The Sustainable Development Goals (SDGs)
-  - Sustainability is a global and local issue
+  - [Definition of sustainability](#definition-of-sustainability)
+  - [The Sustainable Development Goals (SDGs)](#the-sustainable-development-goals-sdgs)
+  - [Sustainability is a global and local issue](#sustainability-is-a-global-and-local-issue)
 - [**2. Three Paradigms at the Root of the World’s Unsustainable Path**](#2-three-paradigms-at-the-root-of-the-worlds-unsustainable-path) (4 videos)
-  - Circular model of production and consumption
-  - Move to dynamic thinking
-  - Systems approach
-  - Unpacking the systems approach
+  - [Circular model of production and consumption](#circular-model-of-production-and-consumption)
+  - [Move to dynamic thinking](#move-to-dynamic-thinking)
+  - [Systems approach](#systems-approach)
+  - [Unpacking the systems approach](#unpacking-the-systems-approach)
 - [**3. Environmental Sustainability**](#3-environmental-sustainability) (3 videos)
-  - Net zero
-  - Nature positive
-  - Environmental resilience
+  - [Net zero](#net-zero)
+  - [Nature positive](#nature-positive)
+  - [Environmental resilience](#environmental-resilience)
 - [**4. Sustainability Accounting and Reporting**](#4-sustainability-accounting-and-reporting) (2 videos)
-  - Carbon and environmental accounting
-  - Climate risk
+  - [Carbon and environmental accounting](#carbon-and-environmental-accounting)
+  - [Climate risk](#climate-risk)
 - [**5. Need for Transformation**](#5-need-for-transformation) (1 videos)
-  - Three transformations for a sustainable world
+  - [Three transformations for a sustainable world](#three-transformations-for-a-sustainable-world)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability and transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980)
@@ -90,13 +90,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), business (1)
 > **Speakers:** - when (1)
 
 
 ### 1. What Is Sustainability?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Definition of sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/definition-of-sustainability?u=76281980)
@@ -181,6 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (8)
 > **Analogies:** such as (1), for example (1), for instance (1)
 > **Speakers:** - we (1)
 
@@ -273,8 +274,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Climate Change]] (3), next (2), [[Biodiversity]] (1)
 > **Env Vars:** sdg (20), sgd (1)
-> **Code Keywords:** let (2), continue (1)
 > **Cross-References:** in the last (1), previous video (1), in the next (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** imagine (1)
@@ -365,15 +366,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft Word|Word]] (2), [[Climate Change]] (2), power (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - have (1)
 
 
 ### 2. Three Paradigms at the Root of the World’s Unsustainable Path
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Circular model of production and consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980)
@@ -444,10 +445,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), [[Sustainability]] (2), next (1)
 > **Analogies:** for example (2), think of it like (1)
 > **Definitions:** in other words (1), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** iucn (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
@@ -523,7 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), let (2), require (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[Climate Change]] (2), next (1), power (1)
 > **Analogies:** imagine (2), for example (1)
 > **Speakers:** - humanity (1)
 
@@ -572,9 +573,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[Jigsaw]] (1), [[Climate Change]] (1), web (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** picture (1), for instance (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - ever (1)
 
 #### Unpacking the systems approach
@@ -684,7 +685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[Sustainability]] (7), cloud (2), web (1)
 > **Definitions:** is called (1), is a  (1), in other words (1), means that (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
@@ -693,7 +694,7 @@ created: 2026-04-29
 
 ### 3. Environmental Sustainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Net zero
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980)
@@ -816,9 +817,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Climate Change]] (5), [[Sustainability]] (2), next (1), [[Probability]] (1), power (1)
 > **Env Vars:** co2 (5), dacs (4)
 > **Analogies:** such as (4), for example (2), it's like (1)
-> **Code Keywords:** let (3), continue (2), public (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), refers to (1)
 > **Versions:** 1.5 (1)
@@ -888,9 +889,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Climate Change]] (4), [[Biodiversity]] (3), [[Sustainability]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - in (1)
 
@@ -965,16 +966,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Climate Change]] (2)
 > **Analogies:** such as (3), imagine (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** from, (1)
 > **Warnings:** warning (1)
 > **Speakers:** - have (1)
 
 
 ### 4. Sustainability Accounting and Reporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Carbon and environmental accounting
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980)
@@ -1059,6 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (3), data (3), [[Sustainability]] (2), next (1)
 > **Definitions:** is a  (2), known as (2)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
@@ -1140,8 +1142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Climate Change]] (4), [[Sustainability]] (1), semiconductor (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** this, (1), finally, (1)
 > **Env Vars:** tcfd (2)
 > **Cross-References:** in the last (1), we talked about (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -1151,7 +1153,7 @@ created: 2026-04-29
 
 ### 5. Need for Transformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three transformations for a sustainable world
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/three-transformations-for-a-sustainable-world?u=76281980)
@@ -1184,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2)
+> **Frameworks & Libraries:** [[Sustainability]] (4), web (1)
 > **Speakers:** - you (1)
 
 

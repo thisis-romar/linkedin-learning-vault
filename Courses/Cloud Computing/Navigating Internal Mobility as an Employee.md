@@ -29,7 +29,7 @@ tags:
   - skill/internal-mobility
   - skill/career-path-planning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Navigating%20Internal%20Mobility%20as%20an%20Employee.md)
@@ -48,29 +48,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Accelerate your career satisfaction
+  - [Accelerate your career satisfaction](#accelerate-your-career-satisfaction)
 - [**1. Internal Mobility and the Great Reshuffle**](#1-internal-mobility-and-the-great-reshuffle) (3 videos)
-  - Benefits of internal mobility
-  - Is internal mobility right for you?
-  - Identify the right move: up, down, or across?
+  - [Benefits of internal mobility](#benefits-of-internal-mobility)
+  - [Is internal mobility right for you?](#is-internal-mobility-right-for-you)
+  - [Identify the right move: up, down, or across?](#identify-the-right-move-up-down-or-across)
 - [**2. Positioning Yourself for an Internal Move**](#2-positioning-yourself-for-an-internal-move) (5 videos)
-  - Assess your skills
-  - Close skills gaps
-  - Share your accomplishments
-  - Manage your reputation
-  - Make the case for your internal move
+  - [Assess your skills](#assess-your-skills)
+  - [Close skills gaps](#close-skills-gaps)
+  - [Share your accomplishments](#share-your-accomplishments)
+  - [Manage your reputation](#manage-your-reputation)
+  - [Make the case for your internal move](#make-the-case-for-your-internal-move)
 - [**3. How to Find Internal Opportunities**](#3-how-to-find-internal-opportunities) (5 videos)
-  - Know where to look for internal opportunities
-  - Refresh your networking skills
-  - Seek out internal influencers and advisers
-  - Applying for internal jobs
-  - Create a new role for yourself
+  - [Know where to look for internal opportunities](#know-where-to-look-for-internal-opportunities)
+  - [Refresh your networking skills](#refresh-your-networking-skills)
+  - [Seek out internal influencers and advisers](#seek-out-internal-influencers-and-advisers)
+  - [Applying for internal jobs](#applying-for-internal-jobs)
+  - [Create a new role for yourself](#create-a-new-role-for-yourself)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Take the first step
+  - [Take the first step](#take-the-first-step)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate your career satisfaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980)
@@ -107,14 +107,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (5), [[Internal Mobility]] (3), next (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
 
 ### 1. Internal Mobility and the Great Reshuffle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of internal mobility
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/benefits-of-internal-mobility?u=76281980)
@@ -187,8 +187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (7), [[Internal Mobility]] (4), leadership (1), [[Search]] (1), next (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1), require (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - if (1)
 
@@ -263,9 +263,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (12), management (1), [[Internal Mobility]] (1), strengths (1)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - like (1)
 
 #### Identify the right move: up, down, or across?
@@ -357,7 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** career (6), business (2), [[Internal Mobility]] (1), management (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** in other words (1)
@@ -367,7 +367,7 @@ created: 2026-04-29
 
 ### 2. Positioning Yourself for an Internal Move
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980)
@@ -446,7 +446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** leadership (3), management (2), career (1), [[Microsoft Products|Products]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** don't forget (1), good practice (1)
@@ -545,7 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), require (1), public (1), let (1)
+> **Frameworks & Libraries:** next (1), job description (1), [[LinkedIn]] (1), management (1), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Analogies:** for example (2)
@@ -635,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), let (1), finally, (1), self (1)
+> **Frameworks & Libraries:** [[Search]] (1), [[Internal Mobility]] (1), career (1)
 > **Definitions:** stands for (3), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** car (1)
@@ -718,9 +718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Internal Mobility]] (2), management (1), strengths (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), in other words (1), known as (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
@@ -789,16 +789,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Internal Mobility]] (8), [[Interviewing]] (2), [[LinkedIn]] (1), [[Career Development]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 2.9 (1), 5.4 (1), 3.5 (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - knowing (1)
 
 
 ### 3. How to Find Internal Opportunities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Know where to look for internal opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980)
@@ -875,8 +875,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Internal Mobility]] (5), [[Search]] (3), hr (2), application (1), business (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (2)
 > **Warnings:** heads up (1), be aware (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -972,8 +972,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** case, (1), let (1), return. (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
@@ -1065,7 +1065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), self (1), this, (1)
+> **Frameworks & Libraries:** career (8), leadership (2), game (1), [[Career Development]] (1), business (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** erg (1)
 > **UI Navigation:** go to (1)
@@ -1153,7 +1153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** application (5), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Best Practices:** it's best to (1), you should always (1)
 > **Definitions:** is an  (1)
@@ -1242,15 +1242,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), job description (1), leadership (1), game (1), career (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - can (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the first step
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980)
@@ -1299,8 +1299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (5), [[Internal Mobility]] (2), [[LinkedIn]] (2), [[Career Development]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - everybody (1)

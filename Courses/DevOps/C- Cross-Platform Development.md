@@ -33,7 +33,7 @@ tags:
   - skill/c
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C-%20Cross-Platform%20Development.md)
@@ -52,29 +52,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with .NET
-  - What you should know
+  - [Getting started with .NET](#getting-started-with-net)
+  - [What you should know](#what-you-should-know)
 - [**1. Setting Up**](#1-setting-up) (2 videos)
-  - Installing .NET 7 SDK
-  - Creating a .NET Core application
+  - [Installing .NET 7 SDK](#installing-net-7-sdk)
+  - [Creating a .NET Core application](#creating-a-net-core-application)
 - [**2. Building the Core Application**](#2-building-the-core-application) (3 videos)
-  - Creating the note model
-  - Establishing the SQLite database connection
-  - Building with the command pattern
+  - [Creating the note model](#creating-the-note-model)
+  - [Establishing the SQLite database connection](#establishing-the-sqlite-database-connection)
+  - [Building with the command pattern](#building-with-the-command-pattern)
 - [**3. Refactoring and Enhancing the Application**](#3-refactoring-and-enhancing-the-application) (4 videos)
-  - Creating a note command
-  - Reading a note command
-  - Updating a note command
-  - Deleting a note command
+  - [Creating a note command](#creating-a-note-command)
+  - [Reading a note command](#reading-a-note-command)
+  - [Updating a note command](#updating-a-note-command)
+  - [Deleting a note command](#deleting-a-note-command)
 - [**4. Integrating a Database**](#4-integrating-a-database) (2 videos)
-  - Implementing note search
-  - Executing search and displaying results
+  - [Implementing note search](#implementing-note-search)
+  - [Executing search and displaying results](#executing-search-and-displaying-results)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Leveling up with .NET
+  - [Leveling up with .NET](#leveling-up-with-net)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980)
@@ -93,8 +93,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (1), [[Search]] (1), [[Application Development]] (1)
 > **Env Vars:** net (2), net7 (1)
-> **Code Keywords:** delete (1), let (1)
 > **Tools:** visual studio (1)
 > **Analogies:** such as (1)
 > **Speakers:** - hi (1)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Databases]] (1), [[Relational Databases]] (1), data (1)
 > **Tools:** command line (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -125,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing .NET 7 SDK
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980)
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[CLI]] (1)
 > **Env Vars:** net (5), sdk (2), ide (1), cli (1)
 > **Tools:** visual studio (6), command line (1)
 > **Versions:** 7.0 (2), 6.0 (1)
@@ -159,7 +160,6 @@ created: 2026-04-29
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - [instructor] (1)
 
 #### Creating a .NET Core application
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980)
@@ -212,7 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (1)
+> **Frameworks & Libraries:** application (3), [[Microsoft]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (1), click on (1), go to (1)
 > **Env Vars:** net (2)
 > **CLI Commands:** make (1)
@@ -224,7 +224,7 @@ created: 2026-04-29
 
 ### 2. Building the Core Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the note model
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980)
@@ -327,7 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), class. (5), override (3), finally, (2), pass (2)
+> **Frameworks & Libraries:** database (9), data (5), application (4), next (3), hit (1)
 > **Tools:** visual studio (2)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -378,10 +378,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** command line (3), visual studio (2), terminal (2)
 > **CLI Commands:** dotnet (4)
 > **Prerequisites:** install (2), set up (1), configure (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** sql (1), net (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **Definitions:** is a  (1)
@@ -552,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), interface (6), pass (6), continue (6), var (4)
+> **Frameworks & Libraries:** application (9), database (4), next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Code Identifiers:** dbcontext (5), appdbcontext (1), commandname (1)
 > **Cross-References:** go back to (3)
 > **Tools:** command line (1), terminal (1), visual studio (1)
@@ -564,7 +564,7 @@ created: 2026-04-29
 
 ### 3. Refactoring and Enhancing the Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a note command
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-note-command?u=76281980)
@@ -669,7 +669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (5), interface (2), public (1), throw (1)
+> **Frameworks & Libraries:** database (4), next (3), hit (2), application (1)
 > **Code Identifiers:** dbcontext (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -779,7 +779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (5), interface (2), class, (1), public (1)
+> **Frameworks & Libraries:** database (5), application (3), next (2), hit (2), business (1)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** dbcontext (3), appdbcontext (1)
 > **Analogies:** just like (3), similar to (1)
@@ -885,7 +885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), pass (4), private (2), return. (2), continue (1)
+> **Frameworks & Libraries:** application (4), next (3), hit (3)
 > **Code Identifiers:** newcontent (2), dbcontext (1)
 > **Analogies:** just like (2), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -968,7 +968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), delete (9), pass (5), continue (2), interface (2)
+> **Frameworks & Libraries:** database (4), application (3), hit (3), next (1), [[Search]] (1)
 > **Warnings:** note that (3)
 > **Code Identifiers:** dbcontext (2)
 > **Analogies:** just like (1)
@@ -977,7 +977,7 @@ created: 2026-04-29
 
 ### 4. Integrating a Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing note search
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/implementing-note-search?u=76281980)
@@ -1042,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (3), for, (2), interface (1), public (1)
+> **Frameworks & Libraries:** [[Search]] (16), application (3), next (3), prompt (1), hit (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -1128,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (3), finally, (2), return, (2), pass (1)
+> **Frameworks & Libraries:** [[Search]] (6), hit (4), [[Microsoft Word|Word]] (4), [[Language Integrated Query (LINQ)|Linq]] (2), database (2)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** linq (2)
 > **Cross-References:** previous video (2)
@@ -1140,7 +1140,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveling up with .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980)
@@ -1161,7 +1161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** next (2), application (1), [[CLI]] (1), [[Microsoft]] (1)
 > **Env Vars:** cli (1)
 > **Speakers:** - well (1)
 

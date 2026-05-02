@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands%20On%20Introduction%20Sql.md)
@@ -46,31 +46,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to SQL
-  - Using GitHub Codespaces with this course
+  - [Introduction to SQL](#introduction-to-sql)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. The Select Statement**](#1-the-select-statement) (5 videos)
-  - Fetch data
-  - Filtering data
-  - Types of functions, part 1
-  - Types of functions, part 2
-  - Using multiple tables
+  - [Fetch data](#fetch-data)
+  - [Filtering data](#filtering-data)
+  - [Types of functions, part 1](#types-of-functions-part-1)
+  - [Types of functions, part 2](#types-of-functions-part-2)
+  - [Using multiple tables](#using-multiple-tables)
 - [**2. New Tables and Data**](#2-new-tables-and-data) (5 videos)
-  - Create new tables
-  - Change table structure
-  - Add new rows to a table
-  - Delete rows in a table
-  - Commit and rollback
+  - [Create new tables](#create-new-tables)
+  - [Change table structure](#change-table-structure)
+  - [Add new rows to a table](#add-new-rows-to-a-table)
+  - [Delete rows in a table](#delete-rows-in-a-table)
+  - [Commit and rollback](#commit-and-rollback)
 - [**3. Modifying Existing Tables**](#3-modifying-existing-tables) (4 videos)
-  - Modify rows and columns in tables
-  - Merge rows in a table
-  - Drop or truncate a table
-  - Rename a table
+  - [Modify rows and columns in tables](#modify-rows-and-columns-in-tables)
+  - [Merge rows in a table](#merge-rows-in-a-table)
+  - [Drop or truncate a table](#drop-or-truncate-a-table)
+  - [Rename a table](#rename-a-table)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980)
@@ -101,8 +101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Databases]] (3), database (2), [[SQL]] (2)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [deepa] (1)
 
 #### Using GitHub Codespaces with this course
@@ -152,10 +152,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), [[GitHub]] (2), [[Codespaces]] (1), database (1)
 > **UI Navigation:** click on (6), navigate to (2), go to (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** interface (1), let (1)
 > **Tools:** github (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -163,7 +163,7 @@ created: 2026-04-29
 
 ### 1. The Select Statement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fetch data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980)
@@ -300,8 +300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (11), data (7), [[SQL]] (7), database (2), [[GitHub]] (2)
 > **Env Vars:** select (7), sql (7), emp (4), distinct (1)
-> **Code Keywords:** this, (5), let (3), interface (1), this. (1), throw (1)
 > **UI Navigation:** click on (8), go to (2), navigate to (2)
 > **SQL:** select (7)
 > **CLI Commands:** find (2)
@@ -516,7 +516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this, (7), this. (1), default. (1)
+> **Frameworks & Libraries:** data (5), [[SQL]] (3)
 > **Env Vars:** where (8), select (4), king (3), sql (3), between (2)
 > **SQL:** where (8), select (4), order by (1)
 > **UI Navigation:** go to (5), navigate to (3), click on (2)
@@ -604,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (3), this, (2), function (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[Fetch]] (2), data (1), [[Search]] (1)
 > **Env Vars:** upper (2), lower (2), substr (2), select (1), round (1)
 > **Versions:** 92.43 (2), 92.427 (1), 92.423 (1), 92.42 (1)
 > **UI Navigation:** go to (3)
@@ -765,9 +765,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Fetch]] (1)
 > **Env Vars:** group (15), where (8), select (7), max (7), having (6)
 > **SQL:** group by (14), where (8), select (7), having (6), order by (3)
-> **Code Keywords:** let (6), function (6), this, (5), this. (2), finally, (1)
 > **Code Identifiers:** emp_tab (6), group_conditions (1)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1)
@@ -988,9 +988,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (6), data (4), [[SQL]] (1)
 > **Code Identifiers:** country_tab (10), states_tab (9), country_id (8), country_ids (3), emp_tab (2)
 > **Env Vars:** select (14), usa (4), join (3), inner (1), sql (1)
-> **Code Keywords:** let (8), this, (5), this. (4), function (2)
 > **SQL:** select (14), join (2), inner join (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1000,7 +1000,7 @@ created: 2026-04-29
 
 ### 2. New Tables and Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create new tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980)
@@ -1105,7 +1105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), type, (1), delete (1)
+> **Frameworks & Libraries:** data (4), [[Fetch]] (1), feature (1), [[Databases]] (1)
 > **Definitions:** is a  (6), means that (2), stands for (1)
 > **Env Vars:** ddl (3)
 > **Documentation:** specification (3)
@@ -1185,8 +1185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (1), [[SQL]] (1), feature (1), [[Databases]] (1)
 > **Env Vars:** alter (8), table (4), column (2), rename (2), ddl (1)
-> **Code Keywords:** let (11), this. (2), this, (1)
 > **UI Navigation:** go to (6)
 > **SQL:** alter table (4)
 > **Definitions:** is a  (2)
@@ -1310,8 +1310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), next (1), [[SQL]] (1), [[Data Manipulation]] (1)
 > **Env Vars:** insert (15), into (3), values (3), where (3), select (2)
-> **Code Keywords:** let (7), this, (4), this. (1)
 > **SQL:** insert into (3), where (3), select (2)
 > **Code Identifiers:** table_name (2), location_id (2), new_table (1), old_table_name (1)
 > **Definitions:** is a  (1), known as (1)
@@ -1396,7 +1396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (13), let (4), this. (2)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** delete (4), where (4), dml (2), select (2)
 > **Code Identifiers:** emp_tab (4), table_name (2), old_emp_tab (2), employee_tab (1)
 > **SQL:** where (4), delete from (2), select (2)
@@ -1490,9 +1490,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), next (1), database (1)
 > **Env Vars:** dml (4), tcl (3), ddl (2), dcl (2), select (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), delete (1)
 > **Definitions:** is a  (3)
 > **SQL:** select (2)
 > **API Endpoints:** delete  (1)
@@ -1501,7 +1501,7 @@ created: 2026-04-29
 
 ### 3. Modifying Existing Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modify rows and columns in tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/modify-rows-and-columns-in-tables?u=76281980)
@@ -1612,10 +1612,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** emp_tab (10), old_emp_tab (5), table_name (1), column_name (1), ept_tab (1)
 > **Env Vars:** update (7), set (3), where (3), dml (2), select (2)
 > **SQL:** update (7), where (3), select (2)
-> **Code Keywords:** let (5), this. (4), case, (1), this, (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1658,6 +1658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Env Vars:** dml (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1711,8 +1712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), data (1), next (1)
 > **Env Vars:** truncate (5), delete (4), ddl (2), drop (2)
-> **Code Keywords:** delete (7), let (4)
 > **Code Identifiers:** dept_copy_tab (3)
 > **API Endpoints:** delete  (3)
 > **Definitions:** is a  (1)
@@ -1738,13 +1739,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** ddl (1), rename (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/next-steps?u=76281980)
@@ -1765,8 +1765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (3), database (2), [[Databases]] (1)
 > **Env Vars:** sql (3)
-> **Code Keywords:** continue (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)

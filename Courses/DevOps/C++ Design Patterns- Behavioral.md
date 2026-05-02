@@ -31,7 +31,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C%2B%2B%20Design%20Patterns-%20Behavioral.md)
@@ -50,64 +50,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Behavioral patterns improve software design
-  - What you should know
+  - [Behavioral patterns improve software design](#behavioral-patterns-improve-software-design)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Design Patterns**](#1-introduction-to-design-patterns) (1 videos)
-  - What are design patterns?
+  - [What are design patterns?](#what-are-design-patterns)
 - [**2. Behavioral Patterns Group 1**](#2-behavioral-patterns-group-1) (15 videos)
-  - The Chain of Responsibility pattern
-  - Implementing the Chain of Responsibility pattern
-  - Create Chain of Responsibility handlers
-  - The Command pattern
-  - Implementing the Command pattern
-  - Increasing code reuse with commands
-  - The Mediator pattern
-  - Implementing the Mediator pattern
-  - Using the Mediator from inside other classes
-  - The Observer pattern
-  - Creating publishers
-  - Creating subscribers
-  - Project: Create a group-chat program
-  - Challenge: Apply the Command pattern
-  - Solution: Apply the Command pattern
+  - [The Chain of Responsibility pattern](#the-chain-of-responsibility-pattern)
+  - [Implementing the Chain of Responsibility pattern](#implementing-the-chain-of-responsibility-pattern)
+  - [Create Chain of Responsibility handlers](#create-chain-of-responsibility-handlers)
+  - [The Command pattern](#the-command-pattern)
+  - [Implementing the Command pattern](#implementing-the-command-pattern)
+  - [Increasing code reuse with commands](#increasing-code-reuse-with-commands)
+  - [The Mediator pattern](#the-mediator-pattern)
+  - [Implementing the Mediator pattern](#implementing-the-mediator-pattern)
+  - [Using the Mediator from inside other classes](#using-the-mediator-from-inside-other-classes)
+  - [The Observer pattern](#the-observer-pattern)
+  - [Creating publishers](#creating-publishers)
+  - [Creating subscribers](#creating-subscribers)
+  - [Project: Create a group-chat program](#project-create-a-group-chat-program)
+  - [Challenge: Apply the Command pattern](#challenge-apply-the-command-pattern)
+  - [Solution: Apply the Command pattern](#solution-apply-the-command-pattern)
 - [**3. Behavioral Patterns Group 2: Strategies, States, and Interpretations**](#3-behavioral-patterns-group-2-strategies-states-and-interpretations) (18 videos)
-  - The Interpreter pattern
-  - Implementing the Interpreter pattern
-  - Applying the Interpreter pattern
-  - The State pattern
-  - Implementing the State pattern
-  - Applying the State pattern
-  - The Strategy pattern
-  - Creating strategies
-  - Rewriting classes to use strategies
-  - The Template Method pattern
-  - Creating template methods
-  - Modifying templates using subclasses
-  - The Visitor pattern
-  - Implementing visitors
-  - Allowing classes to accept visitors
-  - Project: Create a greeting-card generator program
-  - Challenge: Modifying the card generator
-  - Solution: Modifying the card generator
+  - [The Interpreter pattern](#the-interpreter-pattern)
+  - [Implementing the Interpreter pattern](#implementing-the-interpreter-pattern)
+  - [Applying the Interpreter pattern](#applying-the-interpreter-pattern)
+  - [The State pattern](#the-state-pattern)
+  - [Implementing the State pattern](#implementing-the-state-pattern)
+  - [Applying the State pattern](#applying-the-state-pattern)
+  - [The Strategy pattern](#the-strategy-pattern)
+  - [Creating strategies](#creating-strategies)
+  - [Rewriting classes to use strategies](#rewriting-classes-to-use-strategies)
+  - [The Template Method pattern](#the-template-method-pattern)
+  - [Creating template methods](#creating-template-methods)
+  - [Modifying templates using subclasses](#modifying-templates-using-subclasses)
+  - [The Visitor pattern](#the-visitor-pattern)
+  - [Implementing visitors](#implementing-visitors)
+  - [Allowing classes to accept visitors](#allowing-classes-to-accept-visitors)
+  - [Project: Create a greeting-card generator program](#project-create-a-greeting-card-generator-program)
+  - [Challenge: Modifying the card generator](#challenge-modifying-the-card-generator)
+  - [Solution: Modifying the card generator](#solution-modifying-the-card-generator)
 - [**4. Behavioral Patterns Group 3**](#4-behavioral-patterns-group-3) (12 videos)
-  - The Iterator pattern
-  - Implementing the Iterator pattern
-  - Using iterators
-  - The Memento pattern
-  - Creating a Memento class
-  - Using Memento classes
-  - The Null Object pattern
-  - Creating Null Object classes
-  - Setting null objects as the default
-  - Project: Create an instant replay program
-  - Challenge: Apply the Null Object pattern
-  - Solution: Apply the Null Object pattern
+  - [The Iterator pattern](#the-iterator-pattern)
+  - [Implementing the Iterator pattern](#implementing-the-iterator-pattern)
+  - [Using iterators](#using-iterators)
+  - [The Memento pattern](#the-memento-pattern)
+  - [Creating a Memento class](#creating-a-memento-class)
+  - [Using Memento classes](#using-memento-classes)
+  - [The Null Object pattern](#the-null-object-pattern)
+  - [Creating Null Object classes](#creating-null-object-classes)
+  - [Setting null objects as the default](#setting-null-objects-as-the-default)
+  - [Project: Create an instant replay program](#project-create-an-instant-replay-program)
+  - [Challenge: Apply the Null Object pattern](#challenge-apply-the-null-object-pattern)
+  - [Solution: Apply the Null Object pattern](#solution-apply-the-null-object-pattern)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Behavioral patterns improve software design
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/behavioral-patterns-improve-software-design?u=76281980)
@@ -140,7 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Programming]] (3), [[Design Patterns]] (3), next (1)
 > **Speakers:** - [shaun] (1)
 
 #### What you should know
@@ -170,6 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Design Patterns]] (1)
 > **Env Vars:** uml (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -178,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Design Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980)
@@ -219,13 +220,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (7), [[Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Behavioral Patterns Group 1
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Chain of Responsibility pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-chain-of-responsibility-pattern?u=76281980)
@@ -318,7 +319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (3), this. (2), pass (2), finally, (1)
+> **Frameworks & Libraries:** next (6), application (4), express (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** uml (1)
@@ -537,7 +538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), public (2), pass (2), override (2)
+> **Frameworks & Libraries:** next (23), application (1), [[Windows]] (1), generic (1)
 > **UI Navigation:** click on (6), go to (4)
 > **CLI Commands:** make (6), find (1)
 > **Exercise Files:** exercise files (2), starter code (1)
@@ -661,7 +662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), function (2), public (1), return, (1), this, (1)
+> **Frameworks & Libraries:** next (10), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), means that (1), is called (1), is an  (1), in other words (1)
 > **Exercise Files:** exercise files (4)
 > **CLI Commands:** make (3)
@@ -742,7 +743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), this. (2), delete (1), implements (1)
+> **Frameworks & Libraries:** application (10), [[Forms]] (1), express (1)
 > **Code Identifiers:** clearall (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -830,7 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (3), class. (3), public (3), class, (1)
+> **Frameworks & Libraries:** next (3), application (1)
 > **Code Identifiers:** shapename (2), addshape (1), clearall (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1)
@@ -896,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (2), class. (2), interface (2), function (2)
+> **Frameworks & Libraries:** application (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
@@ -974,7 +975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), let (7), this. (1), case, (1), class. (1)
+> **Frameworks & Libraries:** data (4), web (2), next (1), application (1)
 > **Definitions:** is called (1), is a  (1), in other words (1)
 > **Env Vars:** uml (2)
 > **CLI Commands:** make (1)
@@ -1098,7 +1099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (18), let (5), delete (5), case, (3), pass (3)
+> **Frameworks & Libraries:** next (2), application (1)
 > **Code Identifiers:** ismarried (6), submitbutton (4), nametextbox (4), spousesnametextbox (2), ismarriedcheckbox (2)
 > **UI Navigation:** checkbox (10), click on (1)
 > **Exercise Files:** starter code (1), exercise files (1)
@@ -1232,7 +1233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (9), delete (3), this. (1), protected (1), pass (1)
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** checkbox (7)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -1280,7 +1281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3)
+> **Frameworks & Libraries:** application (4), next (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** uml (1)
 > **Analogies:** for example (1)
@@ -1403,7 +1404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), override (4), pass (3), this. (2), this, (2)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** getname (3), groupname (3), remove_if (2), push_back (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
@@ -1535,7 +1536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (3), class. (2), interface (2), pass (2)
+> **Frameworks & Libraries:** application (1)
 > **Code Identifiers:** getname (3), publishername (2), username (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1639,7 +1640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), interface (1), this, (1), delete (1)
+> **Frameworks & Libraries:** next (6), [[Design Patterns]] (2), application (1), generic (1)
 > **CLI Commands:** make (3), find (2)
 > **Code Identifiers:** sendmessagechain (1), sendmessagchain (1), setnext (1)
 > **Definitions:** is an  (2)
@@ -1673,7 +1674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Apply the Command pattern
@@ -1773,7 +1774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), interface (5), let (3), class. (2), try. (1)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** getmessage (7), chatgroup (5), emptymessage (2), tooshortmessage (2), sendmessagechain (1)
 > **Analogies:** just like (2)
 > **CLI Commands:** make (1)
@@ -1784,7 +1785,7 @@ created: 2026-04-29
 
 ### 3. Behavioral Patterns Group 2: Strategies, States, and Interpretations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Interpreter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-interpreter-pattern?u=76281980)
@@ -1835,8 +1836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Tools:** terminal (9)
-> **Code Keywords:** interface (2), this, (1), delete (1)
 > **Analogies:** such as (3), for example (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [tutor] (1)
@@ -1986,7 +1987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), this. (5), this, (2), public (1), override (1)
+> **Frameworks & Libraries:** express (1)
 > **Code Identifiers:** operatorsymbol (6), numberstring (5), lefthandside (3), righthandside (3)
 > **Tools:** terminal (2)
 > **Speakers:** - [instructor] (1)
@@ -2086,7 +2087,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (2), delete (1), this. (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** complexop (2)
 > **Definitions:** is a  (1)
@@ -2136,7 +2136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), this. (2), class, (2), this, (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** imagine (1), for example (1)
 > **Code Identifiers:** ecommerce (1)
 > **Env Vars:** uml (1)
@@ -2244,7 +2244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (2), class, (2), this. (1), public (1)
+> **Frameworks & Libraries:** next (17), [[Microsoft Products|Products]] (1), [[E-Commerce]] (1)
 > **UI Navigation:** go to (3)
 > **Exercise Files:** starter code (1), exercise files (1)
 > **CLI Commands:** make (1)
@@ -2355,7 +2355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), pass (3), let (2), this. (1)
+> **Frameworks & Libraries:** next (8), product (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -2406,7 +2406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1), class. (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -2477,7 +2477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2), class, (1)
+> **Frameworks & Libraries:** business (4), [[Algorithms]] (1)
 > **Exercise Files:** starter code (1), exercise files (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
@@ -2559,7 +2559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (3), class. (2), delete (1), this, (1)
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -2616,7 +2616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (6), require (3), class, (3), finally, (2), override (2)
+> **Frameworks & Libraries:** data (16), database (6), [[JSON]] (4), api (3), web (2)
 > **Env Vars:** json (4), api (3), uml (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** find (1), make (1)
@@ -2728,7 +2728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (2), from, (2), pass (2), class. (1)
+> **Frameworks & Libraries:** generic (5), next (1)
 > **Exercise Files:** template (12)
 > **Definitions:** is a  (2)
 > **Speakers:** - okay (1)
@@ -2838,7 +2838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (6), let (4), class, (3), class. (3), this. (2)
+> **Frameworks & Libraries:** next (2), power (1)
 > **Exercise Files:** template (18), exercise files (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (1), just like (1)
@@ -2899,7 +2899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1), this. (1)
+> **Frameworks & Libraries:** database (6), [[JSON]] (3), next (1), data (1)
 > **Env Vars:** json (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** writetodatabase (1)
@@ -2953,7 +2953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (4), class, (3), function (1), public (1)
+> **Frameworks & Libraries:** database (11), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (2)
 > **Env Vars:** pdf (1)
@@ -3029,7 +3029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), except, (1), interface (1), this. (1), delete (1)
+> **Frameworks & Libraries:** database (8), data (1), [[Microsoft Excel|Excel]] (1), express (1)
 > **Code Identifiers:** visitorhandleperson (1), handleperson (1), handlelandmark (1), cityname (1), handlecar (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
@@ -3243,8 +3243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Design Patterns]] (2)
 > **Exercise Files:** template (32), exercise files (1)
-> **Code Keywords:** pass (4), public (4), interface (3), this. (3), let (2)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** previous chapter (1), go back to (1)
 > **Analogies:** just like (2)
@@ -3298,8 +3298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** template (3)
-> **Code Keywords:** for, (1), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3370,7 +3370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try. (1), pass (1), return. (1), return, (1)
+> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
 > **Definitions:** in other words (1)
@@ -3382,7 +3382,7 @@ created: 2026-04-29
 
 ### 4. Behavioral Patterns Group 3
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Iterator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980)
@@ -3433,7 +3433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), this. (1), abstract (1)
+> **Frameworks & Libraries:** next (5), data (5), business (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (1), is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -3564,7 +3564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (3), this. (3), public (2), finally, (1)
+> **Frameworks & Libraries:** next (6), generic (1), data (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [lecturer] (1)
 
@@ -3647,7 +3647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), pass (2), let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** next (2), bi (2)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
@@ -3713,7 +3713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), this, (2), pass (1)
+> **Frameworks & Libraries:** data (5), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** uml (1)
@@ -3780,7 +3780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), private (2), let (1), this, (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** starter code (1)
@@ -3845,8 +3845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** oldstates (12), previousstate (6), push_back (2), pop_back (2), addshape (1)
-> **Code Keywords:** delete (5), let (2), class, (1)
 > **Analogies:** just like (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -3902,7 +3902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), implements (2), interface (2), class, (2), this. (1)
+> **Frameworks & Libraries:** api (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** null (3), api (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3948,7 +3948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), let (1), interface (1), case. (1), case, (1)
+> **Frameworks & Libraries:** data (1), api (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Exercise Files:** starter code (1)
@@ -4026,7 +4026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), delete (1), case, (1)
+> **Frameworks & Libraries:** api (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (3), rest (1)
 > **File Paths:** logs.txt (1)
 > **CLI Commands:** make (1)
@@ -4247,7 +4247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (5), class. (5), public (4), delete (3)
+> **Frameworks & Libraries:** next (9), [[Design Patterns]] (2), feature (1), management (1)
 > **Code Identifiers:** oldstates (8), addstate (4), historyiterator (4), newstate (3), isfinished (2)
 > **CLI Commands:** make (3), find (2)
 > **Exercise Files:** exercise files (3)
@@ -4285,7 +4285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (3), pass (2), this. (2), interface (1), public (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4357,7 +4357,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), try. (1), this, (1), pass (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -4366,7 +4365,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980)
@@ -4409,6 +4408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), next (3), [[Programming]] (2), [[LinkedIn]] (2)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)

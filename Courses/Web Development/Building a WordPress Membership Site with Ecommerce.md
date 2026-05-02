@@ -28,7 +28,7 @@ tags:
   - skill/wordpress-development
   - skill/e-commerce
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20WordPress%20Membership%20Site%20with%20Ecommerce.md)
@@ -47,45 +47,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Build a paid membership website
-  - What you need
-  - Demo project overview
+  - [Build a paid membership website](#build-a-paid-membership-website)
+  - [What you need](#what-you-need)
+  - [Demo project overview](#demo-project-overview)
 - [**1. Getting Started**](#1-getting-started) (5 videos)
-  - What is a paid membership site?
-  - Define project requirements
-  - Why WooCommerce?
-  - Why WooCommerce Memberships?
-  - Set up your site
+  - [What is a paid membership site?](#what-is-a-paid-membership-site)
+  - [Define project requirements](#define-project-requirements)
+  - [Why WooCommerce?](#why-woocommerce)
+  - [Why WooCommerce Memberships?](#why-woocommerce-memberships)
+  - [Set up your site](#set-up-your-site)
 - [**2. Setting Up Your Store**](#2-setting-up-your-store) (2 videos)
-  - Installing WooCommerce
-  - Importing demo products
+  - [Installing WooCommerce](#installing-woocommerce)
+  - [Importing demo products](#importing-demo-products)
 - [**3. Setting Up Your Memberships**](#3-setting-up-your-memberships) (6 videos)
-  - Get and install WooCommerce Memberships
-  - Setup and configuration
-  - Create products for memberships
-  - Create a membership plan
-  - Add custom profile fields
-  - Create member discounts
+  - [Get and install WooCommerce Memberships](#get-and-install-woocommerce-memberships)
+  - [Setup and configuration](#setup-and-configuration)
+  - [Create products for memberships](#create-products-for-memberships)
+  - [Create a membership plan](#create-a-membership-plan)
+  - [Add custom profile fields](#add-custom-profile-fields)
+  - [Create member discounts](#create-member-discounts)
 - [**4. Restricting Content and Products**](#4-restricting-content-and-products) (4 videos)
-  - Understanding restriction rules
-  - Restrict content to members
-  - Restrict products to members
-  - Dripping content
+  - [Understanding restriction rules](#understanding-restriction-rules)
+  - [Restrict content to members](#restrict-content-to-members)
+  - [Restrict products to members](#restrict-products-to-members)
+  - [Dripping content](#dripping-content)
 - [**5. Managing Members**](#5-managing-members) (3 videos)
-  - Set up member account area
-  - Manual member management
-  - Customize email content
+  - [Set up member account area](#set-up-member-account-area)
+  - [Manual member management](#manual-member-management)
+  - [Customize email content](#customize-email-content)
 - [**6. Before You Launch**](#6-before-you-launch) (3 videos)
-  - Test registration and payments
-  - Test access to content
-  - Test email deliverability
+  - [Test registration and payments](#test-registration-and-payments)
+  - [Test access to content](#test-access-to-content)
+  - [Test email deliverability](#test-email-deliverability)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Additional integrations
-  - Next steps
+  - [Additional integrations](#additional-integrations)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a paid membership website
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/build-a-paid-membership-website?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[E-Commerce]] (1), hit (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -141,7 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[WooCommerce]] (4), [[E-Commerce]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -164,13 +164,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[E-Commerce]] (1), business (1), [[WordPress]] (1), product (1)
 > **Prerequisites:** install (1), set up (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a paid membership site?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980)
@@ -231,7 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), while, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), [[LinkedIn]] (2), traffic (1), next (1)
 > **CLI Commands:** make (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Definitions:** is a  (1)
@@ -263,7 +264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[WordPress]] (1), product (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -312,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), finally, (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (8), [[E-Commerce]] (5), [[WordPress]] (2), management (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ebooks (1)
 > **Definitions:** in other words (1)
@@ -357,6 +358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (7), [[E-Commerce]] (3), [[WordPress]] (1), functional (1), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
@@ -475,7 +477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), import, (1), static (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[WooCommerce]] (3), [[Wordpress Development]] (1), [[Typography]] (1), feature (1)
 > **UI Navigation:** go to (5), click on (1)
 > **Prerequisites:** install (5), set up (1)
 > **CLI Commands:** make (3)
@@ -487,7 +489,7 @@ created: 2026-04-29
 
 ### 2. Setting Up Your Store
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980)
@@ -570,8 +572,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (12), data (3), [[Microsoft Products|Products]] (2), [[E-Commerce]] (1), [[WordPress]] (1)
 > **Prerequisites:** setup (6), install (4), set up (1), configure (1)
-> **Code Keywords:** new, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -639,7 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), import, (1), continue (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (17), [[WooCommerce]] (9), data (4), [[WordPress]] (2), [[E-Commerce]] (1)
 > **Prerequisites:** install (3), setup (2), set up (1)
 > **UI Navigation:** go to (3), select the (1)
 > **File Paths:** sample_products.csv (2), sample_products.xml (1)
@@ -651,7 +653,7 @@ created: 2026-04-29
 
 ### 3. Setting Up Your Memberships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get and install WooCommerce Memberships
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/get-and-install-woocommerce-memberships?u=76281980)
@@ -692,10 +694,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (3), next (1)
 > **Prerequisites:** you'll need (1), install (1), set up (1), setup (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** select the (1), click on (1)
-> **Code Keywords:** new, (1)
 > **Env Vars:** zip (1)
 > **Exercise Files:** zip file (1)
 > **Speakers:** - [instructor] (1)
@@ -799,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), override (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (10), [[Search]] (4), next (3), [[Microsoft Products|Products]] (3), traffic (1)
 > **UI Navigation:** go to (3), checkbox (1), toggle (1)
 > **Prerequisites:** set up (2), setup (2), configure (1)
 > **CLI Commands:** find (1), make (1)
@@ -851,7 +853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1)
+> **Frameworks & Libraries:** product (12), [[WooCommerce]] (4), [[Microsoft Products|Products]] (4), next (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -933,7 +935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (1), case, (1)
+> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (4), [[WooCommerce]] (3), [[Search]] (1), [[WordPress]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -1061,7 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), super (1)
+> **Frameworks & Libraries:** product (8), [[WooCommerce]] (2), next (1), [[Microsoft Products|Products]] (1)
 > **Cross-References:** go back to (5), later in (1)
 > **UI Navigation:** go to (5)
 > **Definitions:** is a  (1), known as (1)
@@ -1128,9 +1130,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (4), [[WooCommerce]] (1), [[Search]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** new. (1), let (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
@@ -1139,7 +1141,7 @@ created: 2026-04-29
 
 ### 4. Restricting Content and Products
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding restriction rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/understanding-restriction-rules?u=76281980)
@@ -1208,7 +1210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (2), override (1)
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2)
 > **Analogies:** for instance (1), such as (1), for example (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
@@ -1392,7 +1394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this. (3), this, (2), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), hit (1), [[Search]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), checkbox (1)
 > **Env Vars:** url (2)
@@ -1458,7 +1460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), override (2), this, (1)
+> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (8), [[WordPress]] (1), [[WooCommerce]] (1)
 > **Analogies:** just like (2), for instance (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1509,7 +1511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Microsoft Products|Products]] (1), product (1)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1519,7 +1521,7 @@ created: 2026-04-29
 
 ### 5. Managing Members
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up member account area
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980)
@@ -1574,7 +1576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[WooCommerce]] (9), product (1), management (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1626,8 +1628,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (2), product (1), [[WordPress]] (1), feature (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **UI Navigation:** select the (1)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
@@ -1674,8 +1676,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (5)
 > **UI Navigation:** go to (2), select the (1)
-> **Code Keywords:** let (1), case, (1)
 > **Exercise Files:** template (2)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** find (1)
@@ -1686,7 +1688,7 @@ created: 2026-04-29
 
 ### 6. Before You Launch
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test registration and payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980)
@@ -1727,6 +1729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (3), business (2), product (2), [[WordPress]] (1), data (1)
 > **Prerequisites:** install (1), you need to have (1), setup (1)
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (1)
@@ -1759,7 +1762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1784,6 +1787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (1), web (1), [[WordPress]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), toggle (1)
 > **Speakers:** - [instructor] (1)
@@ -1791,7 +1795,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional integrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980)
@@ -1824,6 +1828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (9), [[Microsoft Products|Products]] (2), management (2), next (1), product (1)
 > **Code Identifiers:** bbpress (1)
 > **Env Vars:** lms (1)
 > **Definitions:** is a  (1)
@@ -1843,6 +1848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[WooCommerce]] (1), web (1)
 > **Speakers:** - thank (1)
 
 

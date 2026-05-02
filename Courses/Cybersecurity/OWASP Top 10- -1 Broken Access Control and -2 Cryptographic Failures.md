@@ -30,7 +30,7 @@ tags:
   - skill/owasp
   - skill/application-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-1%20Broken%20Access%20Control%20and%20-2%20Cryptographic%20Failures.md)
@@ -49,27 +49,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - OWASP Top 10
+  - [OWASP Top 10](#owasp-top-10)
 - [**1. Broken Access Control**](#1-broken-access-control) (6 videos)
-  - What is broken access control?
-  - Example 1: 2021 Facebook broken access control vulnerability
-  - Example 2: 2021 personal data travel breach
-  - Prevention techniques: Least privilege
-  - Prevention techniques: Record ownership and logging
-  - Prevention techniques: Functional access control testing
+  - [What is broken access control?](#what-is-broken-access-control)
+  - [Example 1: 2021 Facebook broken access control vulnerability](#example-1-2021-facebook-broken-access-control-vulnerability)
+  - [Example 2: 2021 personal data travel breach](#example-2-2021-personal-data-travel-breach)
+  - [Prevention techniques: Least privilege](#prevention-techniques-least-privilege)
+  - [Prevention techniques: Record ownership and logging](#prevention-techniques-record-ownership-and-logging)
+  - [Prevention techniques: Functional access control testing](#prevention-techniques-functional-access-control-testing)
 - [**2. Cryptographic Failure**](#2-cryptographic-failure) (6 videos)
-  - What is cryptographic failure?
-  - Example 1: 2021 GoDaddy plaintext passwords
-  - Example 2: Using a broken or risky cryptographic algorithm
-  - Prevention techniques: Data classification
-  - Prevention techniques: Proper key management
-  - Prevention techniques: Secure protocols
+  - [What is cryptographic failure?](#what-is-cryptographic-failure)
+  - [Example 1: 2021 GoDaddy plaintext passwords](#example-1-2021-godaddy-plaintext-passwords)
+  - [Example 2: Using a broken or risky cryptographic algorithm](#example-2-using-a-broken-or-risky-cryptographic-algorithm)
+  - [Prevention techniques: Data classification](#prevention-techniques-data-classification)
+  - [Prevention techniques: Proper key management](#prevention-techniques-proper-key-management)
+  - [Prevention techniques: Secure protocols](#prevention-techniques-secure-protocols)
 - [**Conclusion**](#conclusion) (1 videos)
-  - OWASP Top 10 keep learning
+  - [OWASP Top 10 keep learning](#owasp-top-10-keep-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980)
@@ -110,7 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), raise (1), let (1)
+> **Frameworks & Libraries:** web (6), [[Security]] (4), [[OWASP]] (2), web application (1), application (1)
 > **Env Vars:** owasp (2)
 > **Definitions:** stands for (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 ### 1. Broken Access Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is broken access control?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980)
@@ -166,6 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), web (2), data (2), [[OWASP]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (1), kind of like (1), such as (1)
 > **Env Vars:** xml (1), owasp (1)
 > **Definitions:** is a  (2)
@@ -214,6 +215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[Security]] (3), application (2), api (1)
 > **Env Vars:** usd (1), api (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -240,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), public (1)
+> **Frameworks & Libraries:** data (2), [[Security]] (1), database (1), [[Privacy]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Prevention techniques: Least privilege
@@ -290,7 +292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), default. (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Google]] (2), [[Twilio]] (2), data (2), web application (1)
 > **Definitions:** is a  (3), in other words (1), means that (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
@@ -342,7 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), protected (1), case, (1)
+> **Frameworks & Libraries:** data (3), database (3), application (2), [[Security]] (2)
 > **Code Identifiers:** ecommerce (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -395,15 +397,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Data Classification]] (3), [[OWASP]] (3), [[Security]] (2), [[Software Development]] (1)
 > **Env Vars:** owasp (3)
-> **Code Keywords:** protected (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Cryptographic Failure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cryptographic failure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980)
@@ -434,7 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), protected (1)
+> **Frameworks & Libraries:** [[Cryptography]] (3), data (3), power (1), [[Algorithms]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -472,6 +474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), web (1), data (1), [[Troubleshooting]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sftp (6), sec (2)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - [instructor] (1)
@@ -511,8 +514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (4), data (2), database (1), [[Statistics]] (1), [[Search]] (1)
 > **Env Vars:** nvd (5), md5 (1), sha1 (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -572,7 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), type. (1)
+> **Frameworks & Libraries:** data (29), [[Data Classification]] (5), [[Security]] (3), web application (1), api (1)
 > **Env Vars:** api (1), gdpr (1), hipaa (1), ccpa (1)
 > **Definitions:** is a  (2), is called (1), defined as (1)
 > **CLI Commands:** make (2)
@@ -631,7 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), private (1)
+> **Frameworks & Libraries:** data (8), next (4), management (3), [[Security]] (1), [[Databases]] (1)
 > **Best Practices:** the key is (1), best practice (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** just like (1)
@@ -690,7 +693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), match, (1), finally, (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), database (2), [[Security]] (1), power (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** md5 (1), sha1 (1)
 > **Analogies:** such as (1)
@@ -699,7 +702,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OWASP Top 10 keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980)
@@ -726,8 +729,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Cryptography]] (1), [[Security]] (1), data (1), web (1)
 > **Env Vars:** owasp (2)
-> **Code Keywords:** let (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 

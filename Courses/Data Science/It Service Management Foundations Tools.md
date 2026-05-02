@@ -26,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/It%20Service%20Management%20Foundations%20Tools.md)
@@ -45,42 +45,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Making the right choice for ITSM tools
+  - [Making the right choice for ITSM tools](#making-the-right-choice-for-itsm-tools)
 - [**1. Tools Included**](#1-tools-included) (1 videos)
-  - Why these tools?
+  - [Why these tools?](#why-these-tools)
 - [**2. Considerations Covered**](#2-considerations-covered) (1 videos)
-  - What are the considerations?
+  - [What are the considerations?](#what-are-the-considerations)
 - [**3. Accessible Consideration**](#3-accessible-consideration) (2 videos)
-  - Accessible
-  - Notable tool features highlighting ServiceNow
+  - [Accessible](#accessible)
+  - [Notable tool features highlighting ServiceNow](#notable-tool-features-highlighting-servicenow)
 - [**4. Auditable Consideration**](#4-auditable-consideration) (2 videos)
-  - Auditable
-  - Notable tool features highlighting BMC
+  - [Auditable](#auditable)
+  - [Notable tool features highlighting BMC](#notable-tool-features-highlighting-bmc)
 - [**5. Efficient Consideration**](#5-efficient-consideration) (2 videos)
-  - Efficient
-  - Notable tool features highlighting Ivanti
+  - [Efficient](#efficient)
+  - [Notable tool features highlighting Ivanti](#notable-tool-features-highlighting-ivanti)
 - [**6. Functional Consideration**](#6-functional-consideration) (2 videos)
-  - Functional
-  - Notable tool features highlighting EasyVista
+  - [Functional](#functional)
+  - [Notable tool features highlighting EasyVista](#notable-tool-features-highlighting-easyvista)
 - [**7. Measureable Consideration**](#7-measureable-consideration) (2 videos)
-  - Measureable
-  - Notable tool features highlighting ManageEngine
+  - [Measureable](#measureable)
+  - [Notable tool features highlighting ManageEngine](#notable-tool-features-highlighting-manageengine)
 - [**8. Permissive Consideration**](#8-permissive-consideration) (2 videos)
-  - Permissive
-  - Notable tool features highlighting ServiceNow
+  - [Permissive](#permissive)
+  - [Notable tool features highlighting ServiceNow](#notable-tool-features-highlighting-servicenow)
 - [**9. Reportable Consideration**](#9-reportable-consideration) (2 videos)
-  - Reportable
-  - Notable tool features highlighting BMC
+  - [Reportable](#reportable)
+  - [Notable tool features highlighting BMC](#notable-tool-features-highlighting-bmc)
 - [**10. Upgradeable Consideration**](#10-upgradeable-consideration) (2 videos)
-  - Upgradeable
-  - Notable tool features highlighting Freshworks
+  - [Upgradeable](#upgradeable)
+  - [Notable tool features highlighting Freshworks](#notable-tool-features-highlighting-freshworks)
 - [**Conclusion**](#conclusion) (2 videos)
-  - The broader ITSM tool ecosystem
-  - Next steps
+  - [The broader ITSM tool ecosystem](#the-broader-itsm-tool-ecosystem)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making the right choice for ITSM tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980)
@@ -113,14 +113,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (2)
+> **Frameworks & Libraries:** [[IT Service Management]] (3), [[React.js|React]] (1), data (1)
 > **Env Vars:** itsm (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Tools Included
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why these tools?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/why-these-tools?u=76281980)
@@ -163,15 +163,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **Env Vars:** itsm (2), url (1), pdf (1)
 > **Warnings:** note that (2)
-> **Code Keywords:** private (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Considerations Covered
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the considerations?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/what-are-the-considerations?u=76281980)
@@ -202,15 +202,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), management (1)
 > **Env Vars:** itsm (2)
-> **Code Keywords:** implements (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Accessible Consideration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/accessible?u=76281980)
@@ -231,6 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1)
 > **Env Vars:** itsm (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -273,6 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Representational state transfer]] (1), web (1)
 > **Env Vars:** rest (2), itsm (2), cmdb (2), csv (1), bmc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -280,7 +282,7 @@ created: 2026-04-29
 
 ### 4. Auditable Consideration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Auditable
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/auditable?u=76281980)
@@ -313,6 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), management (2), [[IT Service Management]] (1)
 > **Env Vars:** itsm (4)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
@@ -385,17 +388,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Forms]] (2), business (1), api (1)
 > **Env Vars:** itsm (4), bmc (1), api (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** checkbox (2)
 > **Definitions:** is an  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Efficient Consideration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Efficient
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/efficient?u=76281980)
@@ -420,8 +423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Forms]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** while. (1)
 > **Env Vars:** itsm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -498,9 +501,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (5), data (4), business (3), next (1)
 > **Env Vars:** itsm (4), bmc (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), type, (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** dropdown (1)
 > **Exercise Files:** template (1)
@@ -510,7 +513,7 @@ created: 2026-04-29
 
 ### 6. Functional Consideration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/functional?u=76281980)
@@ -535,6 +538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (1), functional (1), [[Dashboards]] (1)
 > **Env Vars:** itsm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -587,6 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Dashboards]] (6), [[Statistics]] (1), [[Real-Time]] (1)
 > **Env Vars:** cmdb (2), bmc (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -597,7 +602,7 @@ created: 2026-04-29
 
 ### 7. Measureable Consideration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measureable
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/measureable?u=76281980)
@@ -614,6 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** itsm (2), csi (1)
 > **Cross-References:** next video (1)
 > **Prerequisites:** you'll need (1)
@@ -674,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Dashboards]] (7), [[Analytics]] (6), cloud (2), functional (1), product (1)
 > **Env Vars:** bmc (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -683,7 +689,7 @@ created: 2026-04-29
 
 ### 8. Permissive Consideration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Permissive
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/permissive?u=76281980)
@@ -704,8 +710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** itsm (2)
-> **Code Keywords:** module (1)
 > **Speakers:** - [instructor] (1)
 
 #### Notable tool features highlighting ServiceNow
@@ -795,15 +801,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), application (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), management (1)
 > **Env Vars:** itsm (2), acl (2), bmc (1), api (1)
-> **Code Keywords:** default, (1), self (1), delete (1), pass (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 9. Reportable Consideration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reportable
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/reportable?u=76281980)
@@ -818,6 +824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -858,6 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), next (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** bmc (1), ssrc (1), url (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** template (1)
@@ -866,7 +874,7 @@ created: 2026-04-29
 
 ### 10. Upgradeable Consideration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Upgradeable
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/upgradeable?u=76281980)
@@ -943,9 +951,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), feature (1), [[Quality Assurance]] (1), management (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** itsm (2), crm (1), xml (1)
-> **Code Keywords:** new, (1), require (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
@@ -954,7 +962,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The broader ITSM tool ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/the-broader-itsm-tool-ecosystem?u=76281980)
@@ -977,6 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), teams (1)
 > **Env Vars:** itsm (5), cmdb (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1011,8 +1020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** itsm (3), pdf (1)
-> **Code Keywords:** let (1), continue (1), finally, (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)

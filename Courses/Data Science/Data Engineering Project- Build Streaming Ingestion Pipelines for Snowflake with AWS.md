@@ -33,7 +33,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/snowflake
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering%20Project-%20Build%20Streaming%20Ingestion%20Pipelines%20for%20Snowflake%20with%20AWS.md)
@@ -52,30 +52,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Building streaming data pipelines
-  - What you should know
-  - Prerequisites
+  - [Building streaming data pipelines](#building-streaming-data-pipelines)
+  - [What you should know](#what-you-should-know)
+  - [Prerequisites](#prerequisites)
 - [**1. Introduction to Data Streaming, AWS, and Snowflake**](#1-introduction-to-data-streaming-aws-and-snowflake) (4 videos)
-  - Why AWS and Snowflake?
-  - Introduction to streaming ingestion pipelines
-  - Streaming data pipelines: A deeper dive
-  - Overview of streaming pipeline project
+  - [Why AWS and Snowflake?](#why-aws-and-snowflake)
+  - [Introduction to streaming ingestion pipelines](#introduction-to-streaming-ingestion-pipelines)
+  - [Streaming data pipelines: A deeper dive](#streaming-data-pipelines-a-deeper-dive)
+  - [Overview of streaming pipeline project](#overview-of-streaming-pipeline-project)
 - [**2. Building a Streaming Pipeline**](#2-building-a-streaming-pipeline) (9 videos)
-  - Setting up your MSK cluster and EC2 instance
-  - Setting up your keys
-  - What is Snowpipe?
-  - Installing Snowpipe Kafka connector
-  - Set up config for provider-MSK connection and create topic
-  - Preparing your Snowflake environment
-  - Setting up your Snowpipe Kafka connect config
-  - Sending data to Snowflake
-  - Final considerations
+  - [Setting up your MSK cluster and EC2 instance](#setting-up-your-msk-cluster-and-ec2-instance)
+  - [Setting up your keys](#setting-up-your-keys)
+  - [What is Snowpipe?](#what-is-snowpipe)
+  - [Installing Snowpipe Kafka connector](#installing-snowpipe-kafka-connector)
+  - [Set up config for provider-MSK connection and create topic](#set-up-config-for-provider-msk-connection-and-create-topic)
+  - [Preparing your Snowflake environment](#preparing-your-snowflake-environment)
+  - [Setting up your Snowpipe Kafka connect config](#setting-up-your-snowpipe-kafka-connect-config)
+  - [Sending data to Snowflake](#sending-data-to-snowflake)
+  - [Final considerations](#final-considerations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course review and next steps
+  - [Course review and next steps](#course-review-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building streaming data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980)
@@ -98,7 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1)
+> **Frameworks & Libraries:** data (6), cloud (2), aws (1), [[Snowflake]] (1), functional (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - as (1)
@@ -122,9 +122,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[SQL]] (1), [[Scripting]] (1), aws (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** sql (1), aws (1), ec2 (1)
 > **CLI Commands:** aws (1), find (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
@@ -169,10 +169,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), [[Snowflake]] (5), data (4), cloud (2), next (1)
 > **CLI Commands:** aws (9), make (2)
 > **Env Vars:** aws (7), vpc (2)
 > **Prerequisites:** set up (5), make sure you have (2), you'll need (1)
-> **Code Keywords:** private (2)
 > **URLs:** [snowflake.com](https://snowflake.com) (1), [amazon.com](https://amazon.com) (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Data Streaming, AWS, and Snowflake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why AWS and Snowflake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980)
@@ -208,6 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Snowflake]] (5), cloud (4), aws (2), [[Scalability]] (1)
 > **Env Vars:** aws (2), ipo (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (1)
@@ -250,9 +251,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Real-Time]] (3), application (2), [[Data Engineering]] (1), [[Snowflake]] (1)
 > **Env Vars:** elt (1), etl (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -334,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), interface (1)
+> **Frameworks & Libraries:** data (8), database (3), [[IoT]] (2), [[Microsoft Products|Products]] (1), application (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** iot (2), api (1)
 > **Definitions:** is a  (3)
@@ -376,17 +377,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), data (3), database (3), [[Snowflake]] (3), [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** aws (5), msk (3), ec2 (3)
 > **CLI Commands:** aws (5), apache (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Building a Streaming Pipeline
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up your MSK cluster and EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980)
@@ -477,8 +478,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), next (7), [[Security]] (3), [[JSON]] (2), aws (2)
 > **Env Vars:** msk (10), ec2 (8), json (2), aws (2)
-> **Code Keywords:** let (3), public (3), private (3), from. (1), finally, (1)
 > **Exercise Files:** template (6)
 > **Prerequisites:** set up (3), setup (1)
 > **CLI Commands:** aws (2), make (1)
@@ -583,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), let (8), private (8), pub (5), throw (3)
+> **Frameworks & Libraries:** next (5), [[Snowflake]] (4), [[Amazon EC2|Ec2]] (2), aws (2), [[Linux]] (2)
 > **Env Vars:** ec2 (2), aws (2), ssh (1), tls (1), rsa (1)
 > **CLI Commands:** aws (2), cat (2), ssh (1), cd (1)
 > **UI Navigation:** scroll down (3), click on (2)
@@ -623,8 +624,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Snowflake]] (10), data (6), next (2), [[Java]] (1), application (1)
 > **Prerequisites:** install (3), configure (1), set up (1)
-> **Code Keywords:** self (2), require (1)
 > **Env Vars:** sdk (1), msk (1), jar (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** next video (2)
@@ -700,8 +701,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), [[Snowflake]] (3), cd (1), web (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** msk (5), tgz (3), jar (3), ec2 (1), sdk (1)
-> **Code Keywords:** let (5), throw (4), super (1), delete (1)
 > **CLI Commands:** wget (3), make (1), cd (1), sudo (1)
 > **Prerequisites:** install (4), set up (2)
 > **Cross-References:** previous video (1), in the next (1), next video (1)
@@ -824,7 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), throw (4), private (1), delete (1)
+> **Frameworks & Libraries:** [[Security]] (5), data (4), [[Amazon EC2|Ec2]] (3), next (3), [[Snowflake]] (2)
 > **Env Vars:** msk (10), ec2 (3), aws (1), json (1)
 > **Cross-References:** previous video (1), later in (1), go back to (1), in the last (1), next video (1)
 > **CLI Commands:** cat (2), aws (1), ls (1)
@@ -934,8 +935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[Snowflake]] (6), data (6), product (4), next (3)
 > **Env Vars:** msk (6), user (6), create (4), replace (4), kafka_user (4)
-> **Code Keywords:** public (6), let (4), finally, (2), this. (1)
 > **CLI Commands:** make (4), aws (1), cat (1)
 > **Cross-References:** previous video (1), earlier in (1), next video (1)
 > **Prerequisites:** set up (2)
@@ -1022,7 +1023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), private (4), switch (1), throw (1), this, (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), next (8), data (3), cd (1), generic (1)
 > **Cross-References:** in the next (3)
 > **CLI Commands:** cd (1), cat (1)
 > **Env Vars:** url (1)
@@ -1105,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[Snowflake]] (4), data (3), [[Metadata]] (3), next (2), hit (1)
 > **Env Vars:** msk (1), json (1), ec2 (1)
 > **File Paths:** connect-standalone.sh (1), kafka-console-producer.sh (1)
 > **Cross-References:** next video (1)
@@ -1162,8 +1163,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), data (3), aws (1), management (1), [[Search]] (1)
 > **Env Vars:** msk (8), ec2 (4), zip (2), aws (1)
-> **Code Keywords:** let (2), private (1), self (1), delete (1)
 > **Exercise Files:** template (3), zip file (1)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** aws (1)
@@ -1174,7 +1175,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course review and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980)
@@ -1203,7 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), function (1)
+> **Frameworks & Libraries:** data (1), aws (1), [[Snowflake]] (1), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - congratulations (1)

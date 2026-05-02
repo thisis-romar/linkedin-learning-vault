@@ -27,7 +27,7 @@ tags:
   - skill/design-thinking
   - skill/prototyping
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Design%20Thinking-%20Prototyping.md)
@@ -46,35 +46,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Prototyping for creative problem solving
-  - The power of prototyping
-  - The four categories of prototyping
+  - [Prototyping for creative problem solving](#prototyping-for-creative-problem-solving)
+  - [The power of prototyping](#the-power-of-prototyping)
+  - [The four categories of prototyping](#the-four-categories-of-prototyping)
 - [**1. Why Prototyping?**](#1-why-prototyping) (3 videos)
-  - Generate ideas rapidly
-  - The value of a prototype: Is the time right?
-  - Reduce design and technical debt
+  - [Generate ideas rapidly](#generate-ideas-rapidly)
+  - [The value of a prototype: Is the time right?](#the-value-of-a-prototype-is-the-time-right)
+  - [Reduce design and technical debt](#reduce-design-and-technical-debt)
 - [**2. Where in the Design Process?**](#2-where-in-the-design-process) (4 videos)
-  - Use simulations to study interactions and flows
-  - Explore technologies
-  - Creating objects
-  - Convey: When pages are not enough
+  - [Use simulations to study interactions and flows](#use-simulations-to-study-interactions-and-flows)
+  - [Explore technologies](#explore-technologies)
+  - [Creating objects](#creating-objects)
+  - [Convey: When pages are not enough](#convey-when-pages-are-not-enough)
 - [**3. Modern Uses and Solutions**](#3-modern-uses-and-solutions) (2 videos)
-  - Document: When requirement docs and pages fall short
-  - Document better with prototyping
+  - [Document: When requirement docs and pages fall short](#document-when-requirement-docs-and-pages-fall-short)
+  - [Document better with prototyping](#document-better-with-prototyping)
 - [**4. Methods and Approaches**](#4-methods-and-approaches) (2 videos)
-  - Get to the next steps faster
-  - Learn: User study and validation
+  - [Get to the next steps faster](#get-to-the-next-steps-faster)
+  - [Learn: User study and validation](#learn-user-study-and-validation)
 - [**5. Choosing What to Prototype**](#5-choosing-what-to-prototype) (4 videos)
-  - Deciding what to prototype
-  - Choosing the right prototyping approach
-  - Challenge: Prototype an app experience
-  - Solution: Prototype an app experience
+  - [Deciding what to prototype](#deciding-what-to-prototype)
+  - [Choosing the right prototyping approach](#choosing-the-right-prototyping-approach)
+  - [Challenge: Prototype an app experience](#challenge-prototype-an-app-experience)
+  - [Solution: Prototype an app experience](#solution-prototype-an-app-experience)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototyping for creative problem solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/prototyping-for-creative-problem-solving?u=76281980)
@@ -99,6 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Design Thinking]] (1), career (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - prototyping (1)
@@ -140,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (7), product (2), teams (2), business (2), [[Design Thinking]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - for (1)
@@ -183,15 +185,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[React.js|React]] (1), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Design Thinking]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **Env Vars:** ucd (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - to (1)
 
 
 ### 1. Why Prototyping?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generate ideas rapidly
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980)
@@ -252,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), abstract (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2), product (1), [[React.js|React]] (1), career (1), teams (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -305,9 +307,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (6), [[Design Thinking]] (2), teams (2), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** module (1)
 > **Speakers:** - prototyping (1)
 
 #### Reduce design and technical debt
@@ -397,8 +399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Prototyping]] (3), product (2), [[Agile Development|Agile]] (2), next (2)
 > **Analogies:** similar to (1), such as (1)
-> **Code Keywords:** case, (1)
 > **Tools:** figma (1)
 > **Definitions:** refers to (1)
 > **Best Practices:** the key is (1)
@@ -407,7 +409,7 @@ created: 2026-04-29
 
 ### 2. Where in the Design Process?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use simulations to study interactions and flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980)
@@ -476,9 +478,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (3), functional (2), [[Simulation]] (2), [[Design Systems]] (1), ai (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (3), such as (1), similar to (1)
-> **Code Keywords:** static (1), delete (1), super (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - user (1)
@@ -556,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), case, (1), static (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), next (3), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), application (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1), for example (1)
 > **Best Practices:** recommended (1)
@@ -619,9 +621,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (5), next (2), [[Hardware]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** diy (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - a (1)
@@ -675,7 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (1), case, (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), product (1), application (1), next (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** it's like (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - user (1)
@@ -683,7 +685,7 @@ created: 2026-04-29
 
 ### 3. Modern Uses and Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Document: When requirement docs and pages fall short
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980)
@@ -748,8 +750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Microsoft Products|Products]] (1), [[Engineering]] (1), business (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), this, (1)
 > **Best Practices:** remember to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - modern (1)
@@ -809,7 +811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (2), for. (1), require (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (2), [[Forms]] (1), [[Simulation]] (1), functional (1), ux (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -819,7 +821,7 @@ created: 2026-04-29
 
 ### 4. Methods and Approaches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get to the next steps faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980)
@@ -890,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Prototyping]] (5), next (3), [[Microsoft Products|Products]] (1), product (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
@@ -960,7 +962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this, (1), super (1), finally, (1)
+> **Frameworks & Libraries:** next (4), [[Prototyping]] (3), ivr (2), [[Usability Testing]] (2), teams (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** ivr (2)
 > **Analogies:** imagine (1)
@@ -969,7 +971,7 @@ created: 2026-04-29
 
 ### 5. Choosing What to Prototype
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deciding what to prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980)
@@ -1042,8 +1044,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (8), business (2), [[Design Thinking]] (1), mobile application (1), application (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
@@ -1130,7 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Prototyping]] (7), [[Google]] (2), [[Engineering]] (1), next (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - not (1)
@@ -1204,7 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2), data (1), functional (1), [[Sketching]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - now (1)
@@ -1250,7 +1252,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980)
@@ -1289,7 +1291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), else, (1)
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Design Thinking]] (2), business (1), product (1), teams (1)
 > **CLI Commands:** make (1)
 > **URLs:** [randallelliott.com](https://randallelliott.com) (1)
 > **Exercise Files:** exercise files (1)

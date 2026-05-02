@@ -30,7 +30,7 @@ tags:
   - topic/data-science
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%2B%2B%20Development-%20Advanced%20Concepts%2C%20Lambda%20Expressions%2C%20and%20Best%20Practices.md)
@@ -49,60 +49,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - About this course
-  - Using the exercise files
+  - [About this course](#about-this-course)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Operator Overloads**](#1-operator-overloads) (5 videos)
-  - Operator overloads
-  - Nonmember operators
-  - Conversion operators
-  - Increment and decrement operators
-  - Functors
+  - [Operator overloads](#operator-overloads)
+  - [Nonmember operators](#nonmember-operators)
+  - [Conversion operators](#conversion-operators)
+  - [Increment and decrement operators](#increment-and-decrement-operators)
+  - [Functors](#functors)
 - [**2. Move Semantics**](#2-move-semantics) (7 videos)
-  - What is move semantics?
-  - Understanding lvalues and rvalues
-  - Using std::move
-  - The move constructor
-  - The move assignment operator
-  - The copy-and-swap idiom
-  - Rule of three and five
+  - [What is move semantics?](#what-is-move-semantics)
+  - [Understanding lvalues and rvalues](#understanding-lvalues-and-rvalues)
+  - [Using std::move](#using-stdmove)
+  - [The move constructor](#the-move-constructor)
+  - [The move assignment operator](#the-move-assignment-operator)
+  - [The copy-and-swap idiom](#the-copy-and-swap-idiom)
+  - [Rule of three and five](#rule-of-three-and-five)
 - [**3. Lambda Expressions**](#3-lambda-expressions) (4 videos)
-  - Lambda syntax
-  - Closures
-  - Algorithm predicates
-  - Challenge: A Lambda jump table
+  - [Lambda syntax](#lambda-syntax)
+  - [Closures](#closures)
+  - [Algorithm predicates](#algorithm-predicates)
+  - [Challenge: A Lambda jump table](#challenge-a-lambda-jump-table)
 - [**4. Constraints and Concepts**](#4-constraints-and-concepts) (3 videos)
-  - Why constraints?
-  - Constraint syntax
-  - Defining concepts
+  - [Why constraints?](#why-constraints)
+  - [Constraint syntax](#constraint-syntax)
+  - [Defining concepts](#defining-concepts)
 - [**5. Optionals and Variants**](#5-optionals-and-variants) (3 videos)
-  - The optional class
-  - The any class
-  - The variant class
+  - [The optional class](#the-optional-class)
+  - [The any class](#the-any-class)
+  - [The variant class](#the-variant-class)
 - [**6. Concurrency**](#6-concurrency) (6 videos)
-  - Sleeping
-  - Threads
-  - The async function
-  - Mutex and lock
-  - Atomic variables
-  - The producer-consumer idiom
+  - [Sleeping](#sleeping)
+  - [Threads](#threads)
+  - [The async function](#the-async-function)
+  - [Mutex and lock](#mutex-and-lock)
+  - [Atomic variables](#atomic-variables)
+  - [The producer-consumer idiom](#the-producer-consumer-idiom)
 - [**7. Other Subjects**](#7-other-subjects) (5 videos)
-  - Initialization
-  - Structured bindings
-  - Random number engines
-  - The chrono library
-  - The filesystem library
+  - [Initialization](#initialization)
+  - [Structured bindings](#structured-bindings)
+  - [Random number engines](#random-number-engines)
+  - [The chrono library](#the-chrono-library)
+  - [The filesystem library](#the-filesystem-library)
 - [**8. Other C++20 New Features**](#8-other-c20-new-features) (4 videos)
-  - The format library
-  - The spaceship operator
-  - Integer comparisons
-  - The span class
+  - [The format library](#the-format-library)
+  - [The spaceship operator](#the-spaceship-operator)
+  - [Integer comparisons](#integer-comparisons)
+  - [The span class](#the-span-class)
 - [**Final Project and Conclusion**](#final-project-and-conclusion) (2 videos)
-  - Final project: Numword
-  - Thank you
+  - [Final project: Numword](#final-project-numword)
+  - [Thank you](#thank-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/about-this-course-18745415?u=76281980)
@@ -131,7 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (1), let (1)
+> **Frameworks & Libraries:** feature (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [bill] (1)
 
@@ -176,9 +176,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Microsoft]] (1)
 > **Exercise Files:** exercise files (6)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** function (3)
 > **File Paths:** working.cpp (1)
 > **URLs:** [youtube.com](https://youtube.com) (1)
 > **Env Vars:** gcc (1)
@@ -188,7 +188,7 @@ created: 2026-04-29
 
 ### 1. Operator Overloads
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Operator overloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/operator-overloads-18749200?u=76281980)
@@ -361,7 +361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), this. (2), class. (1), let (1), return, (1)
+> **Frameworks & Libraries:** next (2), feature (1), data (1)
 > **Cross-References:** in the next (2), later in (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** algol (1), nan (1)
@@ -531,7 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), private (2), class. (1), this. (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (3), is a  (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -637,7 +637,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (3), class. (2), case, (1), type. (1)
 > **Env Vars:** stl (3)
 > **File Paths:** rational2.cpp (1)
 > **Exercise Files:** exercise files (1)
@@ -738,7 +737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (1), class. (1), function (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** getvalue (2), setvalue (1)
 > **File Paths:** incr-decr.cpp (1)
 > **Exercise Files:** exercise files (1)
@@ -818,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), lambda (6), pass (1), this, (1), const (1)
+> **Frameworks & Libraries:** data (1), product (1)
 > **Env Vars:** cpp (1), ide (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
@@ -827,7 +826,7 @@ created: 2026-04-29
 
 ### 2. Move Semantics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is move semantics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/what-is-move-semantics-18748264?u=76281980)
@@ -878,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (2), type. (2), class, (1)
+> **Frameworks & Libraries:** data (5), next (1), feature (1)
 > **Definitions:** is a  (2), is called (2), means that (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -930,8 +929,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (2), stands for (2), is a  (2)
-> **Code Keywords:** function (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1061,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (3), this. (3), this, (2), class, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **File Paths:** vectortest.cpp (1)
 > **Env Vars:** stl (1)
@@ -1250,7 +1249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this, (3), this. (1), let (1), const (1)
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (3), is an  (3), is called (2)
 > **CLI Commands:** make (5)
 > **Cross-References:** as we saw (1)
@@ -1334,7 +1333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (3), let (2), this, (1), type. (1), this. (1)
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is called (2), means that (1), is a  (1), is an  (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -1400,7 +1399,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), function (2), const (1), this. (1), delete (1)
 > **Definitions:** we call this (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -1438,8 +1436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (1), means that (1), is an  (1)
-> **Code Keywords:** class, (1), function (1)
 > **Best Practices:** best practice (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1447,7 +1445,7 @@ created: 2026-04-29
 
 ### 3. Lambda Expressions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lambda syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/lambda-syntax-18745407?u=76281980)
@@ -1540,7 +1538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (23), function (6), const (4), type. (2), type, (1)
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (1)
 > **Definitions:** is an  (1), is called (1), stands for (1), means that (1)
 > **File Paths:** lambda-hello.cpp (1)
 > **Documentation:** specification (1)
@@ -1601,7 +1599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (7), function (3), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Analogies:** just like (2)
 > **File Paths:** lambda-capture.cpp (1)
 > **Exercise Files:** exercise files (1)
@@ -1711,7 +1709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (7), function (4), this. (3), this, (2), let (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Representational State Transfer (REST)|Rest]] (2), next (2)
 > **Code Identifiers:** char_upper (4), count_if (2), back_inserter (2), title_case (2), copy_if (1)
 > **Definitions:** is a  (2), is an  (2)
 > **File Paths:** lambda-predicate.cpp (1)
@@ -1768,7 +1766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), lambda (4), this. (1), class. (1)
+> **Frameworks & Libraries:** prompt (1), generic (1), functional (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **Definitions:** is a  (2)
 > **File Paths:** jump.cpp (1)
@@ -1780,7 +1778,7 @@ created: 2026-04-29
 
 ### 4. Constraints and Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why constraints?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980)
@@ -1915,7 +1913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), type. (2), this. (2), const (2), this, (2)
+> **Frameworks & Libraries:** generic (1), [[Xcode]] (1), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (9), exercise files (1)
 > **Versions:** 7.9 (4), 49.9 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1974,8 +1972,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** template (7), exercise files (1)
-> **Code Keywords:** function (3), this. (1), const (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
@@ -2034,7 +2032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this, (3), class. (1), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** template (4), exercise files (1)
 > **Env Vars:** stl (2)
 > **File Paths:** constraints.cpp (1)
@@ -2045,7 +2043,7 @@ created: 2026-04-29
 
 ### 5. Optionals and Variants
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The optional class
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-optional-class-18747308?u=76281980)
@@ -2092,7 +2090,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (3), class, (2), let (1)
 > **Code Identifiers:** return_status (1), have_value (1), has_value (1)
 > **File Paths:** optional.cpp (1)
 > **CLI Commands:** make (1)
@@ -2143,7 +2140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), function (1)
+> **Frameworks & Libraries:** [[Scripting]] (1), application (1)
 > **File Paths:** any.cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - the (1)
@@ -2247,7 +2244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), pass (3), let (2), class. (1), from, (1)
+> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** cat (8), make (1)
 > **Exercise Files:** template (4), exercise files (1)
 > **Definitions:** is a  (4), is called (1)
@@ -2257,7 +2254,7 @@ created: 2026-04-29
 
 ### 6. Concurrency
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sleeping
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/sleeping-18750200?u=76281980)
@@ -2315,7 +2312,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** sleep_for (4), sleep_until (3), steady_clock (2), this_thread (2)
-> **Code Keywords:** function (3), case, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -2413,7 +2409,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), case, (3), class. (1), this, (1), this. (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** thread_func (2)
 > **File Paths:** thread.cpp (1)
@@ -2527,7 +2522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (11), function (11), class. (2), this. (2), this, (2)
+> **Frameworks & Libraries:** [[Linux]] (2), parallel (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 1.6 (2), 1.7 (2)
 > **Exercise Files:** exercise files (2), template (2)
 > **Definitions:** is an  (2), is a  (2)
@@ -2661,7 +2656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (4), this. (3), delete (2), class, (1), function (1)
+> **Frameworks & Libraries:** data (4)
 > **Code Identifiers:** lock_guard (6), animal_mutex (1), delete_friend (1), is_friend (1), find_friend (1)
 > **Env Vars:** raii (3)
 > **Definitions:** is a  (1), refers to (1), is called (1)
@@ -2745,7 +2740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), type. (1), type, (1), function (1), yield (1)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **UI Navigation:** scroll down (2), click on (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -2813,7 +2808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1)
+> **Frameworks & Libraries:** data (9)
 > **Code Identifiers:** atomic_flag (2)
 > **Definitions:** is a  (2)
 > **File Paths:** producer-consumer.cpp (1)
@@ -2824,7 +2819,7 @@ created: 2026-04-29
 
 ### 7. Other Subjects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Initialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/initialization-18748260?u=76281980)
@@ -3119,7 +3114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), class. (3), case. (1), type. (1)
+> **Frameworks & Libraries:** next (5)
 > **Prerequisites:** initialization (13)
 > **Definitions:** is a  (7), is called (2), is an  (2), we call this (1)
 > **Env Vars:** cvp (2), stl (1)
@@ -3183,7 +3178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** struct (3), const (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), feature (1)
 > **Versions:** 73.2 (1), 112.5 (1), 500.9 (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1), template (1)
@@ -3275,7 +3270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
 > **Code Identifiers:** default_random_engine (4), random_device (3)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (2)
@@ -3397,7 +3392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), this, (3), pass (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Windows]] (1)
 > **Code Identifiers:** system_clock (3), steady_clock (1), count_primes (1)
 > **Definitions:** is a  (1), means that (1)
 > **File Paths:** chrono.cpp (1)
@@ -3569,7 +3564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), this, (6), let (3), class. (2), this. (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Xcode]] (1)
 > **Exercise Files:** exercise files (7)
 > **Env Vars:** ide (2), posix (1), cbp (1)
 > **Definitions:** is a  (4)
@@ -3581,7 +3576,7 @@ created: 2026-04-29
 
 ### 8. Other C++20 New Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The format library
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980)
@@ -3770,7 +3765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), this. (5), case, (2), class. (2), from. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), next (1)
 > **Env Vars:** int (5), cpp (1), stl (1)
 > **Exercise Files:** template (4), exercise files (1)
 > **Definitions:** is a  (4)
@@ -3856,7 +3851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), const (2), default. (2), let (2), static (2)
+> **Frameworks & Libraries:** feature (1), power (1)
 > **Code Identifiers:** static_assert (2), static_asserts (1)
 > **File Paths:** spaceship.cpp (1), spaceship-frac.cpp (1)
 > **Exercise Files:** exercise files (2)
@@ -3915,7 +3910,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), else, (1)
 > **Definitions:** is an  (1), means that (1)
 > **File Paths:** working.cpp (1)
 > **Exercise Files:** exercise files (1)
@@ -3963,7 +3957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (1), case, (1)
+> **Frameworks & Libraries:** data (6)
 > **Env Vars:** stl (2)
 > **File Paths:** span.cpp (1)
 > **Exercise Files:** exercise files (1)
@@ -3973,7 +3967,7 @@ created: 2026-04-29
 
 ### Final Project and Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project: Numword
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/final-project-numword-18750196?u=76281980)
@@ -4006,7 +4000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), class. (1)
+> **Frameworks & Libraries:** career (1), [[Programming]] (1), [[Banking]] (1)
 > **File Paths:** chap09/numword/numword-test.cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -4038,7 +4032,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (1), async (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [bill] (1)

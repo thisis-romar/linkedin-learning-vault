@@ -34,7 +34,7 @@ tags:
   - skill/spring-framework
   - skill/spring-boot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advanced%20Spring-%20Spring%20Boot%20Actuator.md)
@@ -53,37 +53,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Need to monitor the performance of your applications?
-  - What you should know
+  - [Need to monitor the performance of your applications?](#need-to-monitor-the-performance-of-your-applications)
+  - [What you should know](#what-you-should-know)
 - [**1. Intro to Spring Boot Actuator**](#1-intro-to-spring-boot-actuator) (6 videos)
-  - Introduction to Spring Boot Actuator
-  - Actuator endpoints and documentation
-  - Exposing and enabling endpoints
-  - Show details and create health endpoint groups
-  - Show application information with the info endpoint
-  - Overriding the Actuator base path
+  - [Introduction to Spring Boot Actuator](#introduction-to-spring-boot-actuator)
+  - [Actuator endpoints and documentation](#actuator-endpoints-and-documentation)
+  - [Exposing and enabling endpoints](#exposing-and-enabling-endpoints)
+  - [Show details and create health endpoint groups](#show-details-and-create-health-endpoint-groups)
+  - [Show application information with the info endpoint](#show-application-information-with-the-info-endpoint)
+  - [Overriding the Actuator base path](#overriding-the-actuator-base-path)
 - [**2. Creating and Securing Actuator Endpoints**](#2-creating-and-securing-actuator-endpoints) (3 videos)
-  - Implementing the Health Indicator interface
-  - Creating a custom Actuator endpoint
-  - How to secure Actuator endpoints with Spring Security
+  - [Implementing the Health Indicator interface](#implementing-the-health-indicator-interface)
+  - [Creating a custom Actuator endpoint](#creating-a-custom-actuator-endpoint)
+  - [How to secure Actuator endpoints with Spring Security](#how-to-secure-actuator-endpoints-with-spring-security)
 - [**3. Metrics and Prometheus**](#3-metrics-and-prometheus) (7 videos)
-  - Spring Boot Actuator metrics and Prometheus
-  - Micrometer Prometheus registry
-  - Prometheus configuration
-  - Installing and running a Prometheus Docker image
-  - Take the Prometheus UI for a spin
-  - Adding custom metrics
-  - Viewing custom metrics from the Prometheus UI
+  - [Spring Boot Actuator metrics and Prometheus](#spring-boot-actuator-metrics-and-prometheus)
+  - [Micrometer Prometheus registry](#micrometer-prometheus-registry)
+  - [Prometheus configuration](#prometheus-configuration)
+  - [Installing and running a Prometheus Docker image](#installing-and-running-a-prometheus-docker-image)
+  - [Take the Prometheus UI for a spin](#take-the-prometheus-ui-for-a-spin)
+  - [Adding custom metrics](#adding-custom-metrics)
+  - [Viewing custom metrics from the Prometheus UI](#viewing-custom-metrics-from-the-prometheus-ui)
 - [**4. Grafana Dashboards**](#4-grafana-dashboards) (3 videos)
-  - Installing and running a Grafana Docker image
-  - Import metrics data from Prometheus to Grafana
-  - Creating dashboards with Grafana
+  - [Installing and running a Grafana Docker image](#installing-and-running-a-grafana-docker-image)
+  - [Import metrics data from Prometheus to Grafana](#import-metrics-data-from-prometheus-to-grafana)
+  - [Creating dashboards with Grafana](#creating-dashboards-with-grafana)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Need to monitor the performance of your applications?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (4), [[Microservices]] (1), database (1), [[Dashboards]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [mikaila] (1)
@@ -126,6 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), [[Spring Boot]] (1), [[Spring Security]] (1), [[CLI]] (1), [[Databases]] (1)
 > **Env Vars:** cli (1), http (1), api (1)
 > **CLI Commands:** docker (1), make (1)
 > **Tools:** postman (1)
@@ -135,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Intro to Spring Boot Actuator
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring Boot Actuator
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980)
@@ -226,7 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (1), case, (1)
+> **Frameworks & Libraries:** application (10), [[Spring Boot]] (6), database (2), [[Java]] (1), management (1)
 > **Env Vars:** http (2), jmx (2), json (1)
 > **Tools:** intellij (2), postman (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -288,7 +289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (3), let (3), default. (1)
+> **Frameworks & Libraries:** application (4), [[Spring Boot]] (1), next (1)
 > **Env Vars:** http (1), cpu (1), jvm (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Analogies:** such as (2), for example (1)
@@ -427,7 +428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default. (5), case, (2), include, (2), default, (2)
+> **Frameworks & Libraries:** application (7), management (4), hit (3), [[Security]] (1), web (1)
 > **Tools:** postman (5)
 > **UI Navigation:** go to (2), scroll down (2)
 > **CLI Commands:** make (2), find (1)
@@ -537,7 +538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1), this. (1), include, (1)
+> **Frameworks & Libraries:** application (9), hit (4), management (2), database (1)
 > **Cross-References:** go back to (4)
 > **Tools:** postman (3)
 > **CLI Commands:** make (2)
@@ -595,7 +596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2)
+> **Frameworks & Libraries:** [[Java]] (5), application (3), next (2), [[Git]] (1), data (1)
 > **CLI Commands:** git (1), make (1)
 > **Code Identifiers:** iphone (2)
 > **URLs:** [info.app](https://info.app) (2)
@@ -721,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), else. (2), override (1), default. (1)
+> **Frameworks & Libraries:** hit (4), management (3), web (3), application (3), next (1)
 > **Cross-References:** go back to (4)
 > **Tools:** postman (4)
 > **Analogies:** such as (2), for example (1)
@@ -731,7 +732,7 @@ created: 2026-04-29
 
 ### 2. Creating and Securing Actuator Endpoints
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing the Health Indicator interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/implementing-the-health-indicator-interface?u=76281980)
@@ -864,7 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (4), override (3), class, (1), case, (1)
+> **Frameworks & Libraries:** application (6), database (6), hit (3), next (2), [[Spring Boot]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** postman (3), intellij (1)
 > **Cross-References:** go back to (2), in the last (1)
@@ -976,7 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (3), case, (3), finally, (2), delete (2)
+> **Frameworks & Libraries:** application (5), [[Spring Boot]] (1), [[Jira]] (1), [[JSON]] (1)
 > **Tools:** postman (2), intellij (2), jira (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -1151,8 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), override (3), pass (3), this. (2), this
-( (1)
+> **Frameworks & Libraries:** [[Security]] (6), application (4), web (4), [[Spring Security]] (3), hit (3)
 > **Prerequisites:** configure (5), set up (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** http (5)
@@ -1164,7 +1164,7 @@ created: 2026-04-29
 
 ### 3. Metrics and Prometheus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spring Boot Actuator metrics and Prometheus
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980)
@@ -1193,6 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Spring Boot]] (1), application (1), [[Databases]] (1)
 > **Analogies:** such as (6)
 > **Prerequisites:** install (1), configure (1)
 > **Definitions:** is a  (1)
@@ -1255,7 +1256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
+> **Frameworks & Libraries:** application (2), hit (2), data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** xml (1)
 > **Cross-References:** go back to (1)
@@ -1315,8 +1316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), next (2), data (1), hit (1), [[Slack]] (1)
 > **CLI Commands:** docker (2), make (1)
-> **Code Keywords:** let (2), pass (1)
 > **Env Vars:** yaml (2)
 > **Tools:** intellij (1), slack (1)
 > **File Paths:** prometheus.yml (1)
@@ -1381,8 +1382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), hit (1)
 > **CLI Commands:** docker (7), ls (1)
-> **Code Keywords:** let (2), pass (2)
 > **Non-Speech:** (keyboard clicking) (4)
 > **Env Vars:** yaml (3)
 > **File Paths:** prometheus.yml (1), etc/prometheus/prometheus.yml (1)
@@ -1469,7 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), default. (1)
+> **Frameworks & Libraries:** application (1), [[Search]] (1), data (1), next (1)
 > **UI Navigation:** scroll down (2), select the (1), dropdown (1), go to (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **CLI Commands:** make (1)
@@ -1568,7 +1569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (1), pass (1), this, (1)
+> **Frameworks & Libraries:** hit (8), next (2), [[Search]] (2), application (1), api (1)
 > **Code Identifiers:** hitcounter (2), hit_counter (2), meterregistry (1)
 > **Analogies:** such as (4), similar to (1)
 > **CLI Commands:** find (2), make (1)
@@ -1632,7 +1633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), delete (1)
+> **Frameworks & Libraries:** application (4), [[Search]] (2), hit (2), [[Fetch]] (1), data (1)
 > **Cross-References:** go back to (4)
 > **Definitions:** known as (2), is a  (1)
 > **Ports:** :00 (1)
@@ -1642,7 +1643,7 @@ created: 2026-04-29
 
 ### 4. Grafana Dashboards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing and running a Grafana Docker image
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980)
@@ -1689,9 +1690,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), hit (3), open-source (1), aws (1), [[CLI]] (1)
 > **CLI Commands:** docker (6), ls (2), aws (1), make (1)
 > **Ports:** port 3000 (4), :3000 (2)
-> **Code Keywords:** let (4), interface (1)
 > **Env Vars:** aws (1), cli (1), http (1)
 > **Prerequisites:** install (2)
 > **URLs:** [localhost:3000](https://localhost:3000) (1)
@@ -1751,9 +1752,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), application (1), [[Dashboards]] (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1), scroll down (1)
-> **Code Keywords:** case, (1)
 > **Tools:** terminal (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1905,7 +1906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), import. (3), this. (2), this, (2), for, (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (5), data (4), hit (3), [[Statistics]] (2), next (1)
 > **UI Navigation:** scroll down (3), select the (1), dropdown (1)
 > **Exercise Files:** template (5)
 > **Env Vars:** cpu (3), apm (1)
@@ -1917,7 +1918,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/next-steps?u=76281980)
@@ -1954,6 +1955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Search]] (2), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [tech552.com](https://tech552.com) (1)
 > **Cross-References:** we covered (1)

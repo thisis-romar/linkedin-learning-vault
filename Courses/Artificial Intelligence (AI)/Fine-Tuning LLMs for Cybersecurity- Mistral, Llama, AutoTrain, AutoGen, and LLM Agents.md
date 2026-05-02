@@ -38,7 +38,7 @@ tags:
   - skill/large-language-models-llm
   - skill/ai-for-cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Fine-Tuning%20LLMs%20for%20Cybersecurity-%20Mistral%2C%20Llama%2C%20AutoTrain%2C%20AutoGen%2C%20and%20LLM%20Agents.md)
@@ -57,71 +57,71 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Introduction to LLMs and LLM agents for cybersecurity
-  - Prerequisites of the course
-  - What can be learned in this course
-  - Google Colab and other important tools
-  - How to make the most of this course
+  - [Introduction to LLMs and LLM agents for cybersecurity](#introduction-to-llms-and-llm-agents-for-cybersecurity)
+  - [Prerequisites of the course](#prerequisites-of-the-course)
+  - [What can be learned in this course](#what-can-be-learned-in-this-course)
+  - [Google Colab and other important tools](#google-colab-and-other-important-tools)
+  - [How to make the most of this course](#how-to-make-the-most-of-this-course)
 - [**1. Open-Source LLMs and Why They're Important**](#1-open-source-llms-and-why-theyre-important) (7 videos)
-  - GenAI and top LLMs: GPT4, Claude, and Gemini (closed source)
-  - Important LLM concepts: Transformer architecture, attention, quantization, parameter offloading, and fine-tuning
-  - Open source LLMs: Llama, Mistral, Mixtral, and Code Llama
-  - Assets to find and run models: Hugging Face, Replicate, Google Colab, and Ollama
-  - Fine-tuning models: QLoRA, PEFT, and Unsloth
-  - Challenge: Import an LLM in Colab
-  - Solution: Learn how to import an LLM from Hugging Face
+  - [GenAI and top LLMs: GPT4, Claude, and Gemini (closed source)](#genai-and-top-llms-gpt4-claude-and-gemini-closed-source)
+  - [Important LLM concepts: Transformer architecture, attention, quantization, parameter offloading, and fine-tuning](#important-llm-concepts-transformer-architecture-attention-quantization-parameter-offloading-and-fine-tuning)
+  - [Open source LLMs: Llama, Mistral, Mixtral, and Code Llama](#open-source-llms-llama-mistral-mixtral-and-code-llama)
+  - [Assets to find and run models: Hugging Face, Replicate, Google Colab, and Ollama](#assets-to-find-and-run-models-hugging-face-replicate-google-colab-and-ollama)
+  - [Fine-tuning models: QLoRA, PEFT, and Unsloth](#fine-tuning-models-qlora-peft-and-unsloth)
+  - [Challenge: Import an LLM in Colab](#challenge-import-an-llm-in-colab)
+  - [Solution: Learn how to import an LLM from Hugging Face](#solution-learn-how-to-import-an-llm-from-hugging-face)
 - [**2. LLMs and Cybersecurity**](#2-llms-and-cybersecurity) (7 videos)
-  - New evolving threats, powered by LLMs
-  - Advanced attacks by hackers using LLMs
-  - How cybersecurity professionals use LLMs for good
-  - Synthetic data generation: Introduction
-  - Synthetic data generation: Code example
-  - Challenge: Identify phishing emails using LLMs
-  - Solution: Fine-tune LLMs with email phishing datasets in Colab
+  - [New evolving threats, powered by LLMs](#new-evolving-threats-powered-by-llms)
+  - [Advanced attacks by hackers using LLMs](#advanced-attacks-by-hackers-using-llms)
+  - [How cybersecurity professionals use LLMs for good](#how-cybersecurity-professionals-use-llms-for-good)
+  - [Synthetic data generation: Introduction](#synthetic-data-generation-introduction)
+  - [Synthetic data generation: Code example](#synthetic-data-generation-code-example)
+  - [Challenge: Identify phishing emails using LLMs](#challenge-identify-phishing-emails-using-llms)
+  - [Solution: Fine-tune LLMs with email phishing datasets in Colab](#solution-fine-tune-llms-with-email-phishing-datasets-in-colab)
 - [**3. Code Vulnerability Scanning with LLMs**](#3-code-vulnerability-scanning-with-llms) (6 videos)
-  - Introduction to code vulnerability scanning
-  - Blockchains and smart contract auditing
-  - Out-of-the-box output (vulnerability scanning) from an LLM
-  - Fine-tuning and mapping a dataset
-  - Training the model
-  - Inference and benchmarking
+  - [Introduction to code vulnerability scanning](#introduction-to-code-vulnerability-scanning)
+  - [Blockchains and smart contract auditing](#blockchains-and-smart-contract-auditing)
+  - [Out-of-the-box output (vulnerability scanning) from an LLM](#out-of-the-box-output-vulnerability-scanning-from-an-llm)
+  - [Fine-tuning and mapping a dataset](#fine-tuning-and-mapping-a-dataset)
+  - [Training the model](#training-the-model)
+  - [Inference and benchmarking](#inference-and-benchmarking)
 - [**4. OSINT with LLM Agents**](#4-osint-with-llm-agents) (6 videos)
-  - Introduction to OSINT and how LLMs can help
-  - Introduction to agents and agent workflows
-  - Agent frameworks and Crew AI: Tools and tasks
-  - Planning the agents, their tasks, and their responsibilities
-  - Setting up the project: LLMs, Agents, and defining tasks
-  - Finishing touches and analyzing the output
+  - [Introduction to OSINT and how LLMs can help](#introduction-to-osint-and-how-llms-can-help)
+  - [Introduction to agents and agent workflows](#introduction-to-agents-and-agent-workflows)
+  - [Agent frameworks and Crew AI: Tools and tasks](#agent-frameworks-and-crew-ai-tools-and-tasks)
+  - [Planning the agents, their tasks, and their responsibilities](#planning-the-agents-their-tasks-and-their-responsibilities)
+  - [Setting up the project: LLMs, Agents, and defining tasks](#setting-up-the-project-llms-agents-and-defining-tasks)
+  - [Finishing touches and analyzing the output](#finishing-touches-and-analyzing-the-output)
 - [**5. Web Vulnerability Scanning with LLM Agents**](#5-web-vulnerability-scanning-with-llm-agents) (6 videos)
-  - Introduction to web vulnerability scanning
-  - Planning the project and discovering the right tools
-  - Getting network and DOM data and processing it
-  - Analyzing logs and setting up tools
-  - Setting up agents and their tasks
-  - Kicking off the crew and analyzing the output
+  - [Introduction to web vulnerability scanning](#introduction-to-web-vulnerability-scanning)
+  - [Planning the project and discovering the right tools](#planning-the-project-and-discovering-the-right-tools)
+  - [Getting network and DOM data and processing it](#getting-network-and-dom-data-and-processing-it)
+  - [Analyzing logs and setting up tools](#analyzing-logs-and-setting-up-tools)
+  - [Setting up agents and their tasks](#setting-up-agents-and-their-tasks)
+  - [Kicking off the crew and analyzing the output](#kicking-off-the-crew-and-analyzing-the-output)
 - [**6. LLM-Powered Firewall**](#6-llm-powered-firewall) (7 videos)
-  - Introduction to LLM-powered firewall projects
-  - Planning the approach
-  - Network data gathering and storing
-  - Data preprocessing
-  - LLM setup
-  - LLM fine-tuning
-  - Inference output and closing notes
+  - [Introduction to LLM-powered firewall projects](#introduction-to-llm-powered-firewall-projects)
+  - [Planning the approach](#planning-the-approach)
+  - [Network data gathering and storing](#network-data-gathering-and-storing)
+  - [Data preprocessing](#data-preprocessing)
+  - [LLM setup](#llm-setup)
+  - [LLM fine-tuning](#llm-fine-tuning)
+  - [Inference output and closing notes](#inference-output-and-closing-notes)
 - [**7. The Future of Cybersecurity with LLMs**](#7-the-future-of-cybersecurity-with-llms) (7 videos)
-  - Threats of the future
-  - LLM powered agents for hacking
-  - Decentralized botnets for decentralized DOS attacks
-  - Swarm learning with decentralized AI botnets
-  - Predictive security with LLMs
-  - Resources to take your learning further
-  - Keep up with the ever-changing dynamic tech landscape
+  - [Threats of the future](#threats-of-the-future)
+  - [LLM powered agents for hacking](#llm-powered-agents-for-hacking)
+  - [Decentralized botnets for decentralized DOS attacks](#decentralized-botnets-for-decentralized-dos-attacks)
+  - [Swarm learning with decentralized AI botnets](#swarm-learning-with-decentralized-ai-botnets)
+  - [Predictive security with LLMs](#predictive-security-with-llms)
+  - [Resources to take your learning further](#resources-to-take-your-learning-further)
+  - [Keep up with the ever-changing dynamic tech landscape](#keep-up-with-the-ever-changing-dynamic-tech-landscape)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Summarizing the course
-  - Key learnings, best practices, and parting statements
+  - [Summarizing the course](#summarizing-the-course)
+  - [Key learnings, best practices, and parting statements](#key-learnings-best-practices-and-parting-statements)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LLMs and LLM agents for cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980)
@@ -140,8 +140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), llm (2), [[Cybersecurity]] (2), teams (1), [[LinkedIn]] (1)
 > **Env Vars:** llm (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [akhil] (1)
@@ -201,8 +201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Security]] (4), [[Kali Linux]] (4), [[Linux]] (3), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (1), make (1)
-> **Code Keywords:** this, (3), let (1), raise (1)
 > **Env Vars:** llm (2), osint (1), nvidia (1)
 > **Cross-References:** in the next (2)
 > **Tools:** colab (1)
@@ -263,8 +263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), data (3), web (3), [[Cybersecurity]] (2), next (2)
 > **Env Vars:** llm (5), osint (3)
-> **Code Keywords:** require (2), let (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** setup (1)
@@ -343,10 +343,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (7), api (6), [[Linux]] (3), [[Hugging Face]] (3), [[GitHub]] (2)
 > **Env Vars:** api (7), gpu (3), lms (3), ssh (2), https (2)
 > **Tools:** colab (9), vs code (3), github (2), jupyter (2), terminal (1)
 > **CLI Commands:** ssh (2), apt (1), snap (1), python (1), aws (1)
-> **Code Keywords:** let (1), super (1), require (1), from. (1), this. (1)
 > **Cross-References:** previous video (1), later in (1), in the next (1)
 > **Prerequisites:** set up (3)
 > **Analogies:** for example (2)
@@ -401,8 +401,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), next (3), [[LinkedIn]] (1), [[GitHub]] (1), [[Google]] (1)
 > **CLI Commands:** find (2), make (1), python (1)
-> **Code Keywords:** case, (1), let (1)
 > **Cross-References:** next video (1), in the next (1)
 > **Documentation:** the documentation (1)
 > **Tools:** github (1)
@@ -411,7 +411,7 @@ created: 2026-04-29
 
 ### 1. Open-Source LLMs and Why They're Important
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI and top LLMs: GPT4, Claude, and Gemini (closed source)
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980)
@@ -518,8 +518,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), open-source (9), [[Security]] (4), [[Large Language Models (LLM)|Large language models]] (3), next (3)
 > **Env Vars:** llm (2), llms (2), gbd (2), osint (1), gbt (1)
-> **Code Keywords:** let (3), case. (1), public (1), private (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is called (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
@@ -602,7 +602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), this, (1), let (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), ai (2), [[Microsoft Word|Word]] (2), data (2), next (2)
 > **Env Vars:** llm (1), gpt (1), ptq (1), qat (1)
 > **Cross-References:** we discussed (1), previous video (1), in the next (1)
 > **Definitions:** is a  (3)
@@ -690,12 +690,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LLaMA]] (22), ai (7), [[Hugging Face]] (6), [[Programming]] (3), data (2)
 > **Versions:** 3.1 (2), 7.3 (1), 2.0 (1), 3.5 (1)
 > **CLI Commands:** python (2), apache (1), find (1)
 > **Env Vars:** rlhf (1), gpt (1), stem (1), nlp (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Tools:** colab (1)
 
@@ -774,9 +774,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (5), [[Large Language Models (LLM)|Large language models]] (4), [[Google]] (3), llm (3), next (3)
 > **Env Vars:** llm (3), gpu (2), gpt (2), ram (1), lms (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** function (2), from. (1), this, (1)
 > **Cross-References:** in the next (2), we talked about (1), previous video (1)
 > **Tools:** colab (4)
 > **CLI Commands:** make (1), find (1)
@@ -838,11 +838,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (3), [[Hugging Face]] (2), next (2), [[Cybersecurity]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (3), peft (1), nlp (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **Prerequisites:** setup (1), configure (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -891,7 +891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Google]] (3), llm (2), next (2), prompt (1)
 > **Env Vars:** llm (2), gpu (1)
 > **Tools:** colab (3)
 > **Prerequisites:** install (2), set up (1)
@@ -989,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), pass (2), function (1), interface (1)
+> **Frameworks & Libraries:** prompt (7), next (4), llm (4), [[Hugging Face]] (2), [[Google]] (2)
 > **Code Identifiers:** xformers (1), torch_dtype (1), device_map (1), apply_chat_template (1), add_generation_prompt (1)
 > **Env Vars:** llm (4), gpu (2)
 > **Prerequisites:** install (3), set up (2)
@@ -1001,7 +1001,7 @@ created: 2026-04-29
 
 ### 2. LLMs and Cybersecurity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### New evolving threats, powered by LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980)
@@ -1070,8 +1070,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), next (4), [[Cybersecurity]] (3), data (3), [[Security]] (3)
 > **Env Vars:** lmm (3), llm (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1139,9 +1139,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), data (3), next (2), llm (2), [[Cybersecurity]] (2)
 > **Env Vars:** llms (8), llm (2), lims (1)
 > **Cross-References:** previous video (1), in the last (1), next video (1), in the next (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** note that (1)
@@ -1196,8 +1196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), data (5), traffic (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1), this. (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1249,8 +1249,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), llm (5), next (4), generic (1), [[Fine Tuning]] (1)
 > **Env Vars:** llm (5)
-> **Code Keywords:** let (4)
 > **Cross-References:** in the next (4)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
@@ -1326,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), function (2), this. (1), let (1), finally, (1)
+> **Frameworks & Libraries:** data (7), next (6), api (5), [[Google]] (3), prompt (2)
 > **Env Vars:** api (5)
 > **Cross-References:** in the next (4), previous video (1)
 > **Tools:** colab (3)
@@ -1405,10 +1405,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), [[Phishing]] (4), next (3), [[Microsoft Products|Products]] (1), data (1)
 > **Env Vars:** llm (4)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** case. (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1529,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), pass (2), this, (1)
+> **Frameworks & Libraries:** [[Phishing]] (14), next (9), llm (6), [[Fine Tuning]] (5), data (4)
 > **Env Vars:** llm (6), gpu (1), sft (1), mrl (1)
 > **Cross-References:** in the next (4), next chapter (1)
 > **Versions:** 119.43 (1), 4.637 (1), 16.97 (1), 2.336 (1)
@@ -1541,7 +1541,7 @@ created: 2026-04-29
 
 ### 3. Code Vulnerability Scanning with LLMs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to code vulnerability scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980)
@@ -1584,7 +1584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1)
+> **Frameworks & Libraries:** data (3), llm (2), [[Smart Contracts]] (2), next (2), open-source (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is called (1), is a  (1)
@@ -1650,9 +1650,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Smart Contracts]] (8), [[Blockchain]] (8), llm (5), data (5), [[Rust (Programming Language)|Rust]] (2)
 > **Env Vars:** llm (5)
 > **Cross-References:** previous video (2), we discussed (1), previous chapter (1), in the next (1)
-> **Code Keywords:** let (2), static (1), this, (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1709,8 +1709,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), next (4), [[Smart Contracts]] (1), data (1), [[Google]] (1)
 > **Env Vars:** llm (6), gpu (1)
-> **Code Keywords:** let (3), pass (2), function (1)
 > **Cross-References:** in the next (4)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** load_dataset (1)
@@ -1779,8 +1779,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Hugging Face]] (2), data (2), prompt (2), [[Smart Contracts]] (2)
 > **Definitions:** is a  (6), is an  (2)
-> **Code Keywords:** let (3), function (2), case, (1)
 > **Exercise Files:** template (3)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
@@ -1867,7 +1867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1)
+> **Frameworks & Libraries:** data (2), next (2), [[Hardware]] (1)
 > **Cross-References:** in the next (2)
 > **Code Identifiers:** train_dataset (1)
 > **Definitions:** means that (1)
@@ -1936,7 +1936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), this, (1), from. (1)
+> **Frameworks & Libraries:** ai (6), [[Security]] (3), next (3), llm (3), data (2)
 > **Env Vars:** llm (3), nft (2)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** alpaca_prompt (1), max_new_tokens (1)
@@ -1947,7 +1947,7 @@ created: 2026-04-29
 
 ### 4. OSINT with LLM Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OSINT and how LLMs can help
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980)
@@ -2012,8 +2012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), data (5), [[Cybersecurity]] (2), [[Security]] (2), next (2)
 > **Env Vars:** osint (7), llm (6)
-> **Code Keywords:** let (2), public (2), this. (1)
 > **Analogies:** such as (3)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** find (1)
@@ -2110,11 +2110,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), next (3), feature (2), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** llm (6), exa (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** in the next (2)
-> **Code Keywords:** let (1)
 > **URLs:** [booking.com](https://booking.com) (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** be aware (1)
@@ -2202,9 +2202,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (12), data (12), next (4), api (4), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** llm (12), api (4), aws (2)
 > **Analogies:** for example (7), for instance (2), such as (1)
-> **Code Keywords:** let (3), lambda (2), this. (1), this, (1)
 > **Cross-References:** next video (3), previous video (1), we discussed (1), in the next (1)
 > **CLI Commands:** aws (2), python (1)
 > **Tools:** slack (2)
@@ -2282,9 +2282,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), next (3), business (2), [[Metadata]] (1), dns (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** osint (2), dns (1), url (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** such as (1), similar to (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
@@ -2419,7 +2419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), pass (3), finally, (1)
+> **Frameworks & Libraries:** ai (5), next (3), llm (3), [[Search]] (2), api (2)
 > **CLI Commands:** make (3), find (2), python (1)
 > **Env Vars:** llm (3), api (2), url (1)
 > **Cross-References:** previous video (3), in the next (2)
@@ -2523,7 +2523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), for. (1)
+> **Frameworks & Libraries:** next (6), llm (3), [[Metadata]] (2), business (2), [[Tokens]] (1)
 > **Env Vars:** llm (3), osint (2), url (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** in the next (3), previous video (1)
@@ -2534,7 +2534,7 @@ created: 2026-04-29
 
 ### 5. Web Vulnerability Scanning with LLM Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to web vulnerability scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980)
@@ -2625,9 +2625,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (10), web (5), data (5), [[Security]] (4), next (3)
 > **Env Vars:** llm (10), ssl (1), tls (1), sql (1), llms (1)
 > **Analogies:** such as (6), for instance (1)
-> **Code Keywords:** let (2), this, (1)
 > **Cross-References:** in the next (3)
 > **Speakers:** - [instructor] (1)
 
@@ -2708,8 +2708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (7), data (5), [[Security]] (4), next (3), generic (2)
 > **Env Vars:** llm (7), gpu (1), http (1)
-> **Code Keywords:** function (5), this. (1), pass (1), case, (1)
 > **Code Identifiers:** analyze_logs (1), extract_meaning_from_logs (1), analyze_http_requests (1), analyze_resources (1), analyze_network_data (1)
 > **Analogies:** just like (2), similar to (1), such as (1)
 > **CLI Commands:** find (2), make (1)
@@ -2830,8 +2830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Security]] (5), next (5), [[Selenium]] (4), api (4)
 > **Env Vars:** url (7), http (6), api (4), html (1), json (1)
-> **Code Keywords:** function (7), let (2), finally, (1), if, (1), type, (1)
 > **Tools:** colab (4)
 > **Code Identifiers:** google_colab_selenium (1), domcontenteventfired (1), loadeventfired (1)
 > **Prerequisites:** set up (3)
@@ -2948,8 +2948,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Search]] (6), [[HTML]] (3), next (3), llm (3)
 > **Env Vars:** http (3), html (3), llm (3), https (2), api (2)
-> **Code Keywords:** function (5), let (3), super (2), finally, (1), pass (1)
 > **Code Identifiers:** analyze_logs (3), search_and_contents (1), get_contents (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** in the next (3), previous chapter (1)
@@ -3068,8 +3068,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), next (4), data (4), [[SQL]] (1), [[Scripting]] (1)
 > **Code Identifiers:** industry_analysis_agent (1), frontend_security_agent (1), network_security_agent (1), summary_and_briefing_agent (1), research_task (1)
-> **Code Keywords:** let (2), protected (2), for. (1), pass (1)
 > **Env Vars:** sql (1), url (1), xss (1), csrf (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **CLI Commands:** find (1), make (1)
@@ -3160,7 +3160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (2), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (6), next (5), llm (3), [[Microsoft Products|Products]] (2), hit (1)
 > **Env Vars:** llm (3), tls (1), https (1), tldr (1)
 > **Cross-References:** in the next (4), previous video (1), next chapter (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -3172,7 +3172,7 @@ created: 2026-04-29
 
 ### 6. LLM-Powered Firewall
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LLM-powered firewall projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980)
@@ -3229,7 +3229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1), this, (1)
+> **Frameworks & Libraries:** traffic (5), llm (3), data (3), [[Security]] (2), [[Real-Time]] (1)
 > **Env Vars:** llm (3), lms (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -3301,8 +3301,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), llm (5), [[Fine Tuning]] (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** llm (5), csv (3), http (1), tcp (1), udp (1)
-> **Code Keywords:** let (3), interface (1)
 > **Cross-References:** previous video (1), we talked about (1), next video (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** python (1)
@@ -3391,7 +3391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (4), interface (3), default, (1), finally, (1)
+> **Frameworks & Libraries:** data (16), [[Google Drive]] (1), traffic (1), [[Cybersecurity]] (1), product (1)
 > **Code Identifiers:** extract_data (3), default_values (2), update_csv (2), get_interface (2), attack_cat (1)
 > **Env Vars:** csv (5), http (2), tcp (1), udp (1), icmp (1)
 > **Tools:** colab (1), command line (1)
@@ -3467,7 +3467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (22), llm (2), next (2)
 > **Code Identifiers:** train_data (1), test_data (1), combined_data (1), attack_cat (1), processed_data_encoded (1)
 > **Env Vars:** llm (2), csv (1)
 > **Cross-References:** in the next (2)
@@ -3551,8 +3551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Fine Tuning]] (5), [[LLaMA]] (4), llm (3), [[Large Language Models (LLM)|Large language models]] (2)
 > **Env Vars:** llm (3), gpu (3), trl (1), llms (1), bnb (1)
-> **Code Keywords:** let (2), function (1), finally, (1)
 > **CLI Commands:** pip (1), find (1)
 > **Cross-References:** in the next (2)
 > **Prerequisites:** set up (1), setup (1)
@@ -3631,7 +3631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** prompt (3), [[Fine Tuning]] (3), data (3), llm (1), [[Statistics]] (1)
 > **Env Vars:** eos (2), llm (1), sft (1), gps (1), fp16 (1)
 > **Definitions:** is a  (4)
 > **Exercise Files:** template (3)
@@ -3691,8 +3691,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), prompt (3), data (2), next (2), [[Tokens]] (1)
 > **Env Vars:** llm (5), gpu (1)
-> **Code Keywords:** let (3), function (2)
 > **Cross-References:** in the next (2), previous video (1)
 > **Code Identifiers:** alpaca_prompt (1), text_streamer (1)
 > **Warnings:** note that (1)
@@ -3701,7 +3701,7 @@ created: 2026-04-29
 
 ### 7. The Future of Cybersecurity with LLMs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Threats of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980)
@@ -3770,8 +3770,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), ai (4), [[Security]] (2), next (2), data (2)
 > **Env Vars:** llm (5), osint (1)
-> **Code Keywords:** let (3), public (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3837,9 +3837,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (7), data (3), [[Security]] (2), next (2), [[Decision-Making]] (1)
 > **Env Vars:** llm (7)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (2)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -3922,7 +3922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), protected (1), continue (1), switch (1)
+> **Frameworks & Libraries:** traffic (6), next (3), [[Security]] (1), llm (1), power (1)
 > **Cross-References:** in the next (3), previous video (1), we talked about (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is a  (1)
@@ -3988,7 +3988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1)
+> **Frameworks & Libraries:** ai (6), node (3), [[Security]] (3), [[Real-Time]] (2), next (2)
 > **CLI Commands:** node (3)
 > **Cross-References:** in the next (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -4062,8 +4062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (5), [[Security]] (4), [[Incident Response]] (2), llm (2)
 > **Env Vars:** llm (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -4109,7 +4109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Newsletters]] (4), [[GitHub]] (3), [[Cybersecurity]] (3), [[Hugging Face]] (2), data (2)
 > **Tools:** github (3)
 > **CLI Commands:** find (2)
 > **URLs:** [arxiv.org](https://arxiv.org) (1), [a-r-x-i-v.org](https://a-r-x-i-v.org) (1)
@@ -4175,8 +4175,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), game (1), [[GitHub]] (1), [[Slack]] (1), next (1)
 > **Tools:** discord (3), github (1), slack (1)
-> **Code Keywords:** finally, (1), continue (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
@@ -4185,7 +4185,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980)
@@ -4244,8 +4244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), next (4), data (2), open-source (1), [[Google]] (1)
 > **Env Vars:** llm (6), osint (1)
-> **Code Keywords:** finally, (2), let (1), for, (1), continue (1)
 > **Cross-References:** in the next (2), next video (1)
 > **Tools:** colab (3)
 > **Analogies:** such as (2), just like (1)
@@ -4325,6 +4325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[LinkedIn]] (3), llm (2), ai (2), [[Blockchain]] (1)
 > **Env Vars:** llm (2), lms (2)
 > **Analogies:** just like (2), for example (1)
 > **CLI Commands:** make (1), find (1)

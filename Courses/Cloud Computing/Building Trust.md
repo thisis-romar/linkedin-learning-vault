@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20Trust.md)
@@ -43,32 +43,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why trust matters more than ever
-  - Trust drivers: Competency, empathy, and authenticity
+  - [Why trust matters more than ever](#why-trust-matters-more-than-ever)
+  - [Trust drivers: Competency, empathy, and authenticity](#trust-drivers-competency-empathy-and-authenticity)
 - [**1. Competency: A Trust Driver**](#1-competency-a-trust-driver) (1 videos)
-  - Be results focused
+  - [Be results focused](#be-results-focused)
 - [**2. Empathy: A Trust Driver**](#2-empathy-a-trust-driver) (4 videos)
-  - Convey your warmth and concern
-  - Listen and empathize
-  - Be intentional about touching base
-  - Assume positive intent
+  - [Convey your warmth and concern](#convey-your-warmth-and-concern)
+  - [Listen and empathize](#listen-and-empathize)
+  - [Be intentional about touching base](#be-intentional-about-touching-base)
+  - [Assume positive intent](#assume-positive-intent)
 - [**3. Authenticity: A Trust Driver**](#3-authenticity-a-trust-driver) (3 videos)
-  - Make sure your actions match your words
-  - Self disclose to build trust
-  - Avoid bias while detecting trustworthiness
+  - [Make sure your actions match your words](#make-sure-your-actions-match-your-words)
+  - [Self disclose to build trust](#self-disclose-to-build-trust)
+  - [Avoid bias while detecting trustworthiness](#avoid-bias-while-detecting-trustworthiness)
 - [**4. Team Trust**](#4-team-trust) (3 videos)
-  - Build team trust by extending trust
-  - Prepare for inclusive hybrid team meetings
-  - Structure hybrid meetings to build trust
+  - [Build team trust by extending trust](#build-team-trust-by-extending-trust)
+  - [Prepare for inclusive hybrid team meetings](#prepare-for-inclusive-hybrid-team-meetings)
+  - [Structure hybrid meetings to build trust](#structure-hybrid-meetings-to-build-trust)
 - [**5. Lost Trust**](#5-lost-trust) (2 videos)
-  - How to manage a betrayal
-  - Apologize and make it right
+  - [How to manage a betrayal](#how-to-manage-a-betrayal)
+  - [Apologize and make it right](#apologize-and-make-it-right)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Evolve with the shifting workplace
+  - [Evolve with the shifting workplace](#evolve-with-the-shifting-workplace)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why trust matters more than ever
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/why-trust-matters-more-than-ever?u=76281980)
@@ -99,6 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), hit (2), business (2), [[Building Trust]] (1)
 > **Speakers:** - trust (1)
 
 #### Trust drivers: Competency, empathy, and authenticity
@@ -178,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), super (1), finally, (1)
+> **Frameworks & Libraries:** power (3), business (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - trust (1)
@@ -186,7 +187,7 @@ created: 2026-04-29
 
 ### 1. Competency: A Trust Driver
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be results focused
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980)
@@ -309,8 +310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), business (1), [[Interviewing]] (1), next (1), generic (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1)
 > **Ports:** :00 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
@@ -318,7 +319,7 @@ created: 2026-04-29
 
 ### 2. Empathy: A Trust Driver
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Convey your warmth and concern
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/convey-your-warmth-and-concern?u=76281980)
@@ -409,9 +410,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), teams (1), [[Building Trust]] (1), business (1), express (1)
 > **Speakers:** - oh (2), - jason (1), - use (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 
 #### Listen and empathize
@@ -485,7 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), self (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), feature (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -538,8 +539,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), next (2), [[LinkedIn]] (1), power (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - one (1)
 
@@ -658,7 +659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (1), else. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -667,7 +668,7 @@ created: 2026-04-29
 
 ### 3. Authenticity: A Trust Driver
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make sure your actions match your words
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980)
@@ -730,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), this. (1), let (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Word|Word]] (1)
 > **Speakers:** - dana (2), - ugh (1), - her (1)
 > **CLI Commands:** find (1), cat (1), make (1)
 > **Definitions:** is a  (1)
@@ -828,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6), this, (1), let (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
@@ -918,7 +919,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - wouldn (1)
@@ -926,7 +926,7 @@ created: 2026-04-29
 
 ### 4. Team Trust
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build team trust by extending trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/build-team-trust-by-extending-trust?u=76281980)
@@ -973,7 +973,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - my (1)
@@ -1047,8 +1046,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** set up (1)
@@ -1161,16 +1160,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Teams]] (3), power (2), teams (1), [[Microsoft Word|Word]] (1), next (1)
 > **Speakers:** - team (1), - hey (1), - we (1), - i (1), - sorry (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Ports:** :00 (2)
 > **Cross-References:** we discussed (1)
 
 
 ### 5. Lost Trust
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to manage a betrayal
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/how-to-manage-a-betrayal?u=76281980)
@@ -1257,7 +1256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1), switch (1)
+> **Frameworks & Libraries:** hit (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
@@ -1353,8 +1352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3), finally, (1)
 > **Speakers:** - thanks (2), - your (1), - finally (1)
 > **Best Practices:** recommended (1), don't forget (1)
 > **UI Navigation:** go to (1)
@@ -1363,7 +1362,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evolve with the shifting workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/evolve-with-the-shifting-workplace?u=76281980)
@@ -1388,6 +1387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 

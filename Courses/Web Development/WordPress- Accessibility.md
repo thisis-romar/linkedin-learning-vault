@@ -32,7 +32,7 @@ tags:
   - skill/digital-accessibility
   - skill/wordpress
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress-%20Accessibility.md)
@@ -51,59 +51,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Making accessible websites using WordPress
-  - WordPress base knowledge
+  - [Making accessible websites using WordPress](#making-accessible-websites-using-wordpress)
+  - [WordPress base knowledge](#wordpress-base-knowledge)
 - [**1. What Is Web Accessibility**](#1-what-is-web-accessibility) (3 videos)
-  - Web accessibility concepts
-  - Accessibility and your business
-  - Assistive technology overview
+  - [Web accessibility concepts](#web-accessibility-concepts)
+  - [Accessibility and your business](#accessibility-and-your-business)
+  - [Assistive technology overview](#assistive-technology-overview)
 - [**2. Accessibility and WordPress**](#2-accessibility-and-wordpress) (6 videos)
-  - Understanding accessibility in WordPress
-  - WordPress core features
-  - WordPress Classic themes
-  - WordPress full site editing
-  - WordPress plugins
-  - Creating accessible content
+  - [Understanding accessibility in WordPress](#understanding-accessibility-in-wordpress)
+  - [WordPress core features](#wordpress-core-features)
+  - [WordPress Classic themes](#wordpress-classic-themes)
+  - [WordPress full site editing](#wordpress-full-site-editing)
+  - [WordPress plugins](#wordpress-plugins)
+  - [Creating accessible content](#creating-accessible-content)
 - [**3. Accessibility in Your Theme**](#3-accessibility-in-your-theme) (7 videos)
-  - Examining accessible design
-  - Accessible color
-  - Accessible navigation
-  - Perceivable images and icons
-  - Page architecture and HTML semantics
-  - Page builders
-  - Block themes vs. classic themes vs. page builders
+  - [Examining accessible design](#examining-accessible-design)
+  - [Accessible color](#accessible-color)
+  - [Accessible navigation](#accessible-navigation)
+  - [Perceivable images and icons](#perceivable-images-and-icons)
+  - [Page architecture and HTML semantics](#page-architecture-and-html-semantics)
+  - [Page builders](#page-builders)
+  - [Block themes vs. classic themes vs. page builders](#block-themes-vs-classic-themes-vs-page-builders)
 - [**4. Using Accessible WordPress Plugins**](#4-using-accessible-wordpress-plugins) (4 videos)
-  - How to assess plugin accessibility
-  - ARIA, AJAX, and other four-letter words
-  - Interacting with forms and their responses
-  - Authoring tools and accessibility guidelines
+  - [How to assess plugin accessibility](#how-to-assess-plugin-accessibility)
+  - [ARIA, AJAX, and other four-letter words](#aria-ajax-and-other-four-letter-words)
+  - [Interacting with forms and their responses](#interacting-with-forms-and-their-responses)
+  - [Authoring tools and accessibility guidelines](#authoring-tools-and-accessibility-guidelines)
 - [**5. Accessibility Plugins for WordPress**](#5-accessibility-plugins-for-wordpress) (3 videos)
-  - Testing tools for WordPress
-  - Accessibility overlays
-  - Accessibility add-ons
+  - [Testing tools for WordPress](#testing-tools-for-wordpress)
+  - [Accessibility overlays](#accessibility-overlays)
+  - [Accessibility add-ons](#accessibility-add-ons)
 - [**6. Authoring Accessible Content**](#6-authoring-accessible-content) (5 videos)
-  - Writing accessible content
-  - Using audio and video
-  - Organizing content on the page
-  - Accessibility support in the Block Editor
-  - Accessibility support in the Classic Editor
+  - [Writing accessible content](#writing-accessible-content)
+  - [Using audio and video](#using-audio-and-video)
+  - [Organizing content on the page](#organizing-content-on-the-page)
+  - [Accessibility support in the Block Editor](#accessibility-support-in-the-block-editor)
+  - [Accessibility support in the Classic Editor](#accessibility-support-in-the-classic-editor)
 - [**7. Testing for Accessibility**](#7-testing-for-accessibility) (5 videos)
-  - Automated and manual testing
-  - Testing accessibility with the keyboard
-  - Testing accessibility with WAVE by WebAIM
-  - Testing accessibility with AXE by Deque
-  - Using bookmarklets for quick assessments
+  - [Automated and manual testing](#automated-and-manual-testing)
+  - [Testing accessibility with the keyboard](#testing-accessibility-with-the-keyboard)
+  - [Testing accessibility with WAVE by WebAIM](#testing-accessibility-with-wave-by-webaim)
+  - [Testing accessibility with AXE by Deque](#testing-accessibility-with-axe-by-deque)
+  - [Using bookmarklets for quick assessments](#using-bookmarklets-for-quick-assessments)
 - [**8. Remediation Workshop**](#8-remediation-workshop) (4 videos)
-  - Finding the issue
-  - Identifying the source of an issue
-  - What needs to change?
-  - Making the change
+  - [Finding the issue](#finding-the-issue)
+  - [Identifying the source of an issue](#identifying-the-source-of-an-issue)
+  - [What needs to change?](#what-needs-to-change)
+  - [Making the change](#making-the-change)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making accessible websites using WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980)
@@ -130,8 +130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -174,6 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), [[HTML]] (3), css (2), web (2), [[Content Management]] (1)
 > **Env Vars:** html (3), css (2), w3c (2), aaa (2), wcag (1)
 > **Documentation:** w3c (2)
 > **Definitions:** refers to (1), is a  (1)
@@ -182,7 +183,7 @@ created: 2026-04-29
 
 ### 1. What Is Web Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Web accessibility concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980)
@@ -237,8 +238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Web Accessibility]] (1), [[HTML]] (1)
 > **Env Vars:** w3c (1), wcag (1), html (1)
-> **Code Keywords:** let (1), switch (1)
 > **Documentation:** w3c (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -290,7 +291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), require (1), this. (1), public (1)
+> **Frameworks & Libraries:** business (3), [[Ethics]] (2), [[Microsoft Products|Products]] (1), [[E-Commerce]] (1), [[Banking]] (1)
 > **Env Vars:** wcag (1)
 > **Versions:** version 2 (1)
 > **Prerequisites:** required to (1)
@@ -377,8 +378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[Hardware]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** adhd (1)
 > **Analogies:** such as (1)
@@ -387,7 +388,7 @@ created: 2026-04-29
 
 ### 2. Accessibility and WordPress
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding accessibility in WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980)
@@ -452,9 +453,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (19), [[Windows]] (1), business (1), [[Search]] (1), [[Forms]] (1)
 > **Prerequisites:** set up (3), install (2), you'll need (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), new. (1)
 > **Env Vars:** html (1), css (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** later in (1)
@@ -521,6 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (14), [[HTML]] (5), [[Forms]] (4), [[Search]] (2), css (2)
 > **Env Vars:** html (5), css (2)
 > **UI Navigation:** dropdown (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -610,9 +612,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (12), [[Forms]] (2), [[Content Creation]] (1), product (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** aria (2), html (1), wcag (1)
-> **Code Keywords:** this, (1), continue (1), finally, (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -661,6 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), [[HTML]] (1)
 > **UI Navigation:** dropdown (2), toggle (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -741,8 +744,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), css (4), [[Forms]] (1), [[E-Commerce]] (1), [[Search]] (1)
 > **Env Vars:** css (4), html (1)
-> **Code Keywords:** this, (2), pass (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
@@ -818,8 +821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (5), web (2)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (1), interface (1)
 > **Env Vars:** wcag (1)
 > **Versions:** 5.0 (1)
 > **Cross-References:** later in (1)
@@ -830,7 +833,7 @@ created: 2026-04-29
 
 ### 3. Accessibility in Your Theme
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Examining accessible design
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980)
@@ -915,9 +918,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[WordPress]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** this, (1), for. (1)
 > **UI Navigation:** toggle (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1032,10 +1035,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), web (1), next (1), feature (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 5.27 (1), 2.1 (1), 3.0 (1), 4.5 (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** pass (1), if, (1), require (1)
 > **Analogies:** for example (2), just like (1)
 > **Env Vars:** wcag (1)
 > **Speakers:** - [instructor] (1)
@@ -1159,12 +1162,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Scripting]] (2), css (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** wcag (3), css (1)
 > **Versions:** 2.1 (2), 2.0 (1)
 > **UI Navigation:** in the menu (1), open the (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Perceivable images and icons
@@ -1318,9 +1321,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (3), [[Search]] (2), css (2), [[WordPress]] (2)
 > **Env Vars:** svg (13), css (2), alt (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1), private (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -1436,9 +1439,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), css (2), power (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), web (1)
 > **Env Vars:** html (7), css (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for, (1)
 > **Cross-References:** later in (1)
 > **Tools:** firefox (1)
 > **Analogies:** such as (1)
@@ -1709,8 +1712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[HTML]] (3), [[WordPress]] (2), [[Google]] (1)
 > **Speakers:** - [instructor] (11), - [screen (10)
-> **Code Keywords:** let (12), interface (5), case, (1), default. (1)
 > **Definitions:** is a  (7), is an  (3), means that (1)
 > **Env Vars:** html (3), url (3), svg (1), aria (1)
 > **CLI Commands:** make (3), find (2)
@@ -1787,7 +1790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), new. (1), require (1), if, (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), product (1), teams (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1)
@@ -1796,7 +1799,7 @@ created: 2026-04-29
 
 ### 4. Using Accessible WordPress Plugins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to assess plugin accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980)
@@ -1911,7 +1914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1), interface (1)
+> **Frameworks & Libraries:** [[WordPress]] (10), [[Search]] (9), [[Forms]] (2), [[AJAX]] (2), data (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** html (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
@@ -2031,10 +2034,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (8), [[AJAX]] (5), dom (3), [[JavaScript]] (2), [[Web Development]] (1)
 > **Env Vars:** aria (35), html (8), ajax (5), dom (3), xml (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), refers to (1)
-> **Code Keywords:** extends (1), let (1)
 > **UI Navigation:** checkbox (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2154,8 +2157,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AJAX]] (7), [[WordPress]] (3), next (1)
 > **Speakers:** - [instructor] (6), - [automated (5)
-> **Code Keywords:** let (5), case, (2), default, (1), this. (1)
 > **Env Vars:** ajax (4), nvda (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -2379,8 +2382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (7), next (3), web (1), data (1), management (1)
 > **Speakers:** - [instructor] (16), - [computer] (15)
-> **Code Keywords:** let (5), require (2), for. (1), interface (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** toggle (3), in the tab (1)
 > **Ports:** :00 (3)
@@ -2390,7 +2393,7 @@ created: 2026-04-29
 
 ### 5. Accessibility Plugins for WordPress
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing tools for WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980)
@@ -2485,10 +2488,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), product (1), web (1), feature (1), data (1)
 > **Env Vars:** ada (2), llc (1), php (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1), php (1), find (1)
-> **Code Keywords:** case, (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2593,9 +2596,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), web (1), [[WordPress]] (1), [[Privacy Issues]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** band (1), aid (1), ada (1), wcag (1)
-> **Code Keywords:** function (2), let (1)
 > **Warnings:** be aware (1), warning (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** install (1)
@@ -2668,8 +2671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), switch (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Env Vars:** vtt (1)
 > **Best Practices:** best practice (1)
@@ -2678,7 +2681,7 @@ created: 2026-04-29
 
 ### 6. Authoring Accessible Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing accessible content
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/writing-accessible-content?u=76281980)
@@ -2787,7 +2790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), public (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), seo (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** seo (1)
@@ -2898,7 +2901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), require (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), web (1), [[Search]] (1), feature (1), [[Video Production]] (1)
 > **Env Vars:** wcag (1), css (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -3007,6 +3010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[HTML]] (7), web (1), [[WordPress]] (1), next (1)
 > **Definitions:** is a  (8)
 > **Env Vars:** html (7)
 > **CLI Commands:** find (3), make (1)
@@ -3076,9 +3080,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (9), feature (1), data (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** default, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Accessibility support in the Classic Editor
@@ -3126,7 +3130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), interface (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[WordPress]] (1)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [host] (1)
@@ -3134,7 +3138,7 @@ created: 2026-04-29
 
 ### 7. Testing for Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automated and manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980)
@@ -3233,7 +3237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1)
+> **Frameworks & Libraries:** [[Forms]] (1), data (1), [[WordPress]] (1), web (1), [[Manual Testing]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** dropdown (1)
@@ -3333,6 +3337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Document Object Model (DOM)|Document object model]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** wave (2)
 > **Code Identifiers:** webaim (1)
@@ -3429,8 +3434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), web (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case, (1), case. (1)
 > **Env Vars:** aria (1), wcag (1)
 > **Definitions:** is a  (2)
 > **URLs:** [webaim.org](https://webaim.org) (1)
@@ -3494,7 +3499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), web (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -3556,7 +3561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), from. (1), finally, (1), type. (1)
+> **Frameworks & Libraries:** next (2), [[Forms]] (2), [[JavaScript]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [accessibilitybookmarklets.org](https://accessibilitybookmarklets.org) (1)
 > **Speakers:** - [instructor] (1)
@@ -3564,7 +3569,7 @@ created: 2026-04-29
 
 ### 8. Remediation Workshop
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding the issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/finding-the-issue?u=76281980)
@@ -3629,7 +3634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **UI Navigation:** dropdown (1), in the menu (1), toggle (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3702,7 +3707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), case, (2), case. (1), for. (1), let (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), next (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is an  (1)
@@ -3745,10 +3750,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), next (2), [[JavaScript]] (2), [[WordPress]] (1), feature (1)
 > **Env Vars:** css (3), wcag (1)
 > **UI Navigation:** dropdown (1), toggle (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** raise (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -3816,9 +3821,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[WordPress]] (2), [[JavaScript]] (2), next (1)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** from, (1), case, (1)
 > **Prerequisites:** install (2)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
@@ -3826,7 +3831,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980)
@@ -3863,8 +3868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [joe] (1)
 

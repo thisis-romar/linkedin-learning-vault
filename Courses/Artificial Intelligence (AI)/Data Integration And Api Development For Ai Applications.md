@@ -31,7 +31,7 @@ tags:
   - skill/application-programming-interfaces-api
   - skill/data-integration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Data%20Integration%20And%20Api%20Development%20For%20Ai%20Applications.md)
@@ -50,35 +50,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - The need for data integration and APIs
-  - Prerequisites
-  - The need for data integration in AI
-  - Data silos
+  - [The need for data integration and APIs](#the-need-for-data-integration-and-apis)
+  - [Prerequisites](#prerequisites)
+  - [The need for data integration in AI](#the-need-for-data-integration-in-ai)
+  - [Data silos](#data-silos)
 - [**1. Approaches to Data Integration**](#1-approaches-to-data-integration) (7 videos)
-  - Phases of data integration: Data sources
-  - Phases of data integration: Data ingestion
-  - Phases of data integration: Data mapping, transformation, and loading
-  - Methods of data integration
-  - ETL and ELT
-  - Streaming integration and change data capture
-  - Best practices and challenges in data integration
+  - [Phases of data integration: Data sources](#phases-of-data-integration-data-sources)
+  - [Phases of data integration: Data ingestion](#phases-of-data-integration-data-ingestion)
+  - [Phases of data integration: Data mapping, transformation, and loading](#phases-of-data-integration-data-mapping-transformation-and-loading)
+  - [Methods of data integration](#methods-of-data-integration)
+  - [ETL and ELT](#etl-and-elt)
+  - [Streaming integration and change data capture](#streaming-integration-and-change-data-capture)
+  - [Best practices and challenges in data integration](#best-practices-and-challenges-in-data-integration)
 - [**2. Integrate Data into a Unified Analytics Platform**](#2-integrate-data-into-a-unified-analytics-platform) (3 videos)
-  - Uploading data to Azure Blob storage
-  - Ingesting data into Microsoft Fabric using shortcuts
-  - ETL with Fabric dataflows
+  - [Uploading data to Azure Blob storage](#uploading-data-to-azure-blob-storage)
+  - [Ingesting data into Microsoft Fabric using shortcuts](#ingesting-data-into-microsoft-fabric-using-shortcuts)
+  - [ETL with Fabric dataflows](#etl-with-fabric-dataflows)
 - [**3. API Development for AI Applications**](#3-api-development-for-ai-applications) (6 videos)
-  - APIs to work with data and AI
-  - API types, benefits, and best practices
-  - Designing APIs
-  - Steps in API design
-  - API gateways
-  - Capabilities and benefits of API gateways
+  - [APIs to work with data and AI](#apis-to-work-with-data-and-ai)
+  - [API types, benefits, and best practices](#api-types-benefits-and-best-practices)
+  - [Designing APIs](#designing-apis)
+  - [Steps in API design](#steps-in-api-design)
+  - [API gateways](#api-gateways)
+  - [Capabilities and benefits of API gateways](#capabilities-and-benefits-of-api-gateways)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and further study
+  - [Summary and further study](#summary-and-further-study)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for data integration and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980)
@@ -131,7 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new, (1), require (1)
+> **Frameworks & Libraries:** data (27), ai (14), api (1), [[Decision-Making]] (1), [[Databases]] (1)
 > **Env Vars:** api (1)
 
 #### Prerequisites
@@ -155,8 +155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (2), [[Microsoft]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Analytics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** you need to have (1)
 
 #### The need for data integration in AI
@@ -318,7 +318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), require (1), from, (1), finally. (1)
+> **Frameworks & Libraries:** data (78), ai (20), [[Decision-Making]] (2), teams (2), [[Databases]] (2)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2), picture (1)
 > **Definitions:** refers to (1)
@@ -427,14 +427,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (41), teams (3), business (3), database (1), web (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1), picture (1)
 
 
 ### 1. Approaches to Data Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Phases of data integration: Data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980)
@@ -577,8 +577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (55), [[Databases]] (3), cloud (2), next (2), [[SQL]] (2)
 > **Env Vars:** sql (2), json (2), xml (2), api (2), jdbc (1)
-> **Code Keywords:** finally, (2), let (1), require (1), this. (1)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** setup (1)
@@ -646,9 +646,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Real-Time]] (2), [[IoT]] (1), [[Batch Processing]] (1), business (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** set up (2), make sure you have (1), setup (1)
-> **Code Keywords:** let (1), from, (1)
 > **Analogies:** for example (1), such as (1)
 
 #### Phases of data integration: Data mapping, transformation, and loading
@@ -758,7 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally. (1), for, (1), finally, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (55), [[Analytics]] (3), ai (3), next (2), [[Data Transformation]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sku (1), pin (1)
@@ -809,6 +809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), ai (7), etl (3), [[Real-Time]] (3), cloud (1)
 > **Env Vars:** etl (3), elt (2)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (1)
@@ -920,8 +921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (44), etl (10), power (5), ai (2), [[Unstructured Data]] (2)
 > **Env Vars:** etl (10), elt (10), xml (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 
@@ -962,9 +963,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (1), ai (1), [[IoT]] (1), [[Analytics]] (1)
 > **CLI Commands:** apache (2)
 > **Env Vars:** cdc (2)
-> **Code Keywords:** let (1)
 
 #### Best practices and challenges in data integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980)
@@ -1061,14 +1062,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), ai (2), [[Metadata]] (2), [[Debugging]] (1), [[Automation]] (1)
 > **CLI Commands:** make (9)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 
 
 ### 2. Integrate Data into a Unified Analytics Platform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Uploading data to Azure Blob storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980)
@@ -1157,8 +1158,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Microsoft]] (8), [[Microsoft Azure|Azure]] (4), [[Engineering]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (2), type, (1), default. (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** sas (2)
 > **Definitions:** is a  (2)
@@ -1264,8 +1265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Microsoft Azure|Azure]] (7), [[Microsoft]] (5), [[Analytics]] (3), next (3)
 > **UI Navigation:** click on (7), select the (3)
-> **Code Keywords:** let (4), this, (1), case, (1), this. (1)
 > **Env Vars:** sql (3), sas (2), url (1), csv (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -1416,8 +1417,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Microsoft Azure|Azure]] (7), [[Microsoft Power Query|Power query]] (6), etl (5), hit (4)
 > **Env Vars:** etl (5), sql (3), sas (1), url (1), csv (1)
-> **Code Keywords:** let (4), this, (2), continue (1), interface (1), case, (1)
 > **UI Navigation:** click on (4), select the (3), right-click (1)
 > **CLI Commands:** find (6), make (1)
 > **Definitions:** is a  (2)
@@ -1425,7 +1426,7 @@ created: 2026-04-29
 
 ### 3. API Development for AI Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### APIs to work with data and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980)
@@ -1528,8 +1529,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), api (14), data (13), application (4), [[Programming]] (1)
 > **Env Vars:** api (14), http (1), post (1), put (1), delete (1)
-> **Code Keywords:** interface (3), let (2), this, (1), delete (1), continue (1)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
@@ -1645,9 +1646,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), api (14), data (13), [[Security]] (3), [[Algorithms]] (2)
 > **Env Vars:** api (14), rest (2), json (2), tls (1), url (1)
 > **CLI Commands:** make (11)
-> **Code Keywords:** let (3), public (3), finally, (1), require (1), self (1)
 > **Prerequisites:** set up (2), make sure you have (2), setup (1)
 > **Analogies:** such as (2), for example (1)
 > **Code Identifiers:** grpc (1)
@@ -1789,10 +1790,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (21), data (11), ai (7), [[Security]] (3), [[JSON]] (2)
 > **Env Vars:** api (21), json (2), http (1), jwt (1), https (1)
 > **CLI Commands:** make (21), python (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** finally, (1), case. (1)
 > **Versions:** 2.0 (1)
 > **Definitions:** stands for (1)
 > **Best Practices:** don't forget (1)
@@ -1911,8 +1912,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (21), data (11), ai (5), application (5), [[Security]] (5)
 > **Env Vars:** api (21), rbac (2), rest (1), http (1), post (1)
-> **Code Keywords:** let (3), delete (2), protected (1)
 > **CLI Commands:** make (5)
 > **API Endpoints:** get  (1), post  (1), put  (1), delete  (1)
 > **Analogies:** such as (2)
@@ -2049,9 +2050,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (34), traffic (10), [[Routing]] (10), cloud (8), management (7)
 > **Env Vars:** api (33), url (2), aws (1), http (1), json (1)
 > **Analogies:** for example (7), such as (4)
-> **Code Keywords:** let (1), interface (1), function (1), finally, (1)
 > **CLI Commands:** aws (1), nginx (1), make (1)
 > **URLs:** [example.com](https://example.com) (2)
 > **Code Identifiers:** grpc (1)
@@ -2127,6 +2128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), traffic (4), data (3), ai (3), management (2)
 > **Env Vars:** api (8), http (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -2135,7 +2137,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and further study
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980)
@@ -2166,8 +2168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), ai (5), api (1), etl (1), [[Microsoft]] (1)
 > **Env Vars:** api (1), elt (1), etl (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** such as (1)
 

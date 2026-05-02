@@ -31,7 +31,7 @@ tags:
   - skill/penetration-testing
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20System%20Hacking.md)
@@ -50,58 +50,58 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Hacking the system
-  - Getting the most out of this course
-  - Hacking ethically
+  - [Hacking the system](#hacking-the-system)
+  - [Getting the most out of this course](#getting-the-most-out-of-this-course)
+  - [Hacking ethically](#hacking-ethically)
 - [**1. Understanding System Hacking**](#1-understanding-system-hacking) (5 videos)
-  - Setting the stage
-  - Getting a foothold
-  - Authenticating a user
-  - Challenge: Reviewing Entra ID authentication methods
-  - Solution: Reviewing Entra ID authentication methods
+  - [Setting the stage](#setting-the-stage)
+  - [Getting a foothold](#getting-a-foothold)
+  - [Authenticating a user](#authenticating-a-user)
+  - [Challenge: Reviewing Entra ID authentication methods](#challenge-reviewing-entra-id-authentication-methods)
+  - [Solution: Reviewing Entra ID authentication methods](#solution-reviewing-entra-id-authentication-methods)
 - [**2. Gaining Access**](#2-gaining-access) (5 videos)
-  - Acquiring passwords
-  - Discovering password tools
-  - Cracking passwords
-  - Employing rainbow tables
-  - Defending against password attacks
+  - [Acquiring passwords](#acquiring-passwords)
+  - [Discovering password tools](#discovering-password-tools)
+  - [Cracking passwords](#cracking-passwords)
+  - [Employing rainbow tables](#employing-rainbow-tables)
+  - [Defending against password attacks](#defending-against-password-attacks)
 - [**3. Exploiting Vulnerabilities**](#3-exploiting-vulnerabilities) (3 videos)
-  - Leveraging security flaws
-  - Overflowing the buffer
-  - Enhancing software security
+  - [Leveraging security flaws](#leveraging-security-flaws)
+  - [Overflowing the buffer](#overflowing-the-buffer)
+  - [Enhancing software security](#enhancing-software-security)
 - [**4. Escalating Privileges**](#4-escalating-privileges) (3 videos)
-  - Understanding privilege escalation
-  - Obtaining administrator privileges
-  - Defending against privilege escalation
+  - [Understanding privilege escalation](#understanding-privilege-escalation)
+  - [Obtaining administrator privileges](#obtaining-administrator-privileges)
+  - [Defending against privilege escalation](#defending-against-privilege-escalation)
 - [**5. Maintaining Access**](#5-maintaining-access) (4 videos)
-  - Dissecting rootkits
-  - User Mode and Kernel Mode
-  - Using rootkits
-  - Detect, remove, and avoid rootkits
+  - [Dissecting rootkits](#dissecting-rootkits)
+  - [User Mode and Kernel Mode](#user-mode-and-kernel-mode)
+  - [Using rootkits](#using-rootkits)
+  - [Detect, remove, and avoid rootkits](#detect-remove-and-avoid-rootkits)
 - [**6. Grasping Keyloggers**](#6-grasping-keyloggers) (2 videos)
-  - Outlining keystroke loggers
-  - Protecting against keylogging
+  - [Outlining keystroke loggers](#outlining-keystroke-loggers)
+  - [Protecting against keylogging](#protecting-against-keylogging)
 - [**7. Recognizing Spyware**](#7-recognizing-spyware) (3 videos)
-  - Explaining spyware behavior
-  - Mobile spyware and invasive apps
-  - Defending against spyware
+  - [Explaining spyware behavior](#explaining-spyware-behavior)
+  - [Mobile spyware and invasive apps](#mobile-spyware-and-invasive-apps)
+  - [Defending against spyware](#defending-against-spyware)
 - [**8. Hiding in Plain Sight**](#8-hiding-in-plain-sight) (4 videos)
-  - Using steganography
-  - Swimming in the NTFS data stream
-  - Using whitespace steganography
-  - Detecting steganography
+  - [Using steganography](#using-steganography)
+  - [Swimming in the NTFS data stream](#swimming-in-the-ntfs-data-stream)
+  - [Using whitespace steganography](#using-whitespace-steganography)
+  - [Detecting steganography](#detecting-steganography)
 - [**9. Maintaining Persistence**](#9-maintaining-persistence) (3 videos)
-  - Remaining in the system
-  - Staying under the radar
-  - Defend against persistence attacks
+  - [Remaining in the system](#remaining-in-the-system)
+  - [Staying under the radar](#staying-under-the-radar)
+  - [Defend against persistence attacks](#defend-against-persistence-attacks)
 - [**10. Covering Tracks**](#10-covering-tracks) (3 videos)
-  - Disabling logging and hiding files
-  - Outlining ways to cover your tracks
-  - Summarize the course and what's next
+  - [Disabling logging and hiding files](#disabling-logging-and-hiding-files)
+  - [Outlining ways to cover your tracks](#outlining-ways-to-cover-your-tracks)
+  - [Summarize the course and what's next](#summarize-the-course-and-whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hacking the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-the-system?u=76281980)
@@ -128,8 +128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Security]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [lisa] (1)
 
 #### Getting the most out of this course
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
@@ -181,12 +181,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding System Hacking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting the stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/setting-the-stage?u=76281980)
@@ -253,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** data (2), [[Ethical Hacking]] (1), teams (1), next (1), application (1)
 > **Analogies:** such as (4)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
@@ -303,7 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1)
+> **Frameworks & Libraries:** [[Engineering]] (2), next (1), [[Ethical Hacking]] (1), [[Hardware]] (1), [[Google]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Authenticating a user
@@ -361,8 +362,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Linux]] (4), lan (4), [[Security]] (3), management (3)
 > **Env Vars:** lan (4), sasl (3), api (1), ldap (1), pam (1)
-> **Code Keywords:** let (4)
 > **Analogies:** such as (1), for example (1)
 > **Ports:** port 88 (1)
 > **Definitions:** is a  (1)
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (2), [[Microsoft Entra ID]] (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
@@ -452,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (3), [[Microsoft Entra ID]] (1), application (1), [[Security]] (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -461,7 +462,7 @@ created: 2026-04-29
 
 ### 2. Gaining Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Acquiring passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980)
@@ -532,7 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (3)
+> **Frameworks & Libraries:** [[Security]] (6), [[Windows]] (5), database (3), [[Microsoft]] (2), application (2)
 > **Env Vars:** sam (4), lan (1), ram (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
@@ -598,7 +599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Windows]] (3), data (2), [[Linux]] (1), database (1)
 > **Env Vars:** sam (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -678,7 +679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), default, (1), try. (1), this, (1)
+> **Frameworks & Libraries:** [[Forms]] (1), application (1), data (1), [[Windows]] (1), [[Google]] (1)
 > **CLI Commands:** find (1), apache (1), make (1)
 > **UI Navigation:** scroll down (2)
 > **Analogies:** such as (1), for example (1)
@@ -790,7 +791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (2), match, (2), pass (2)
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (2), database (2), management (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sha (6), sha256 (1)
 > **UI Navigation:** go to (3), scroll down (2), dropdown (1)
 > **CLI Commands:** make (3)
@@ -854,7 +855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Hardware]] (2), [[Privacy]] (1), database (1), [[NIST]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
 > **Analogies:** such as (1)
@@ -863,7 +864,7 @@ created: 2026-04-29
 
 ### 3. Exploiting Vulnerabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging security flaws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980)
@@ -950,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Security]] (5), database (3), [[Engineering]] (2), [[Search]] (2), [[SQL]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1), php (1)
 > **Env Vars:** sql (1), php (1)
@@ -998,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (8), [[Windows]] (2), [[Programming]] (1), management (1), [[Microsoft]] (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -1070,7 +1071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (2)
+> **Frameworks & Libraries:** data (6), [[Security]] (1), [[Programming]] (1), application (1), [[Ethical Hacking]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** sql (1)
 > **Exercise Files:** source code (1)
@@ -1081,7 +1082,7 @@ created: 2026-04-29
 
 ### 4. Escalating Privileges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding privilege escalation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/understanding-privilege-escalation?u=76281980)
@@ -1146,7 +1147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1), protected (1)
+> **Frameworks & Libraries:** application (3), [[Security]] (1), next (1), [[Engineering]] (1), traffic (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -1219,8 +1220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), feature (3), prompt (3), next (2), [[Security]] (2)
 > **Env Vars:** uac (2), dll (2), alt (1)
-> **Code Keywords:** let (2), continue (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** command prompt (1)
 > **Analogies:** such as (1)
@@ -1303,7 +1304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Accountability]] (1), traffic (1), [[Engineering]] (1), [[Phishing]] (1)
 > **Best Practices:** recommended (1), best practice (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -1312,7 +1313,7 @@ created: 2026-04-29
 
 ### 5. Maintaining Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dissecting rootkits
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980)
@@ -1367,8 +1368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Malware Detection]] (1), [[Engineering]] (1), [[Phishing]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1436,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (2), interface (1)
+> **Frameworks & Libraries:** [[Security]] (3), data (3)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Env Vars:** ram (1)
@@ -1522,8 +1523,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), hit (1)
 > **Analogies:** such as (4), for example (2)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** apache (1), make (1)
 > **Exercise Files:** source code (2)
@@ -1595,7 +1596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), database (2), product (2), [[Algorithms]] (1), [[Hardware]] (1)
 > **Env Vars:** md5 (1), sha (1), blake2 (1), sha256 (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -1607,7 +1608,7 @@ created: 2026-04-29
 
 ### 6. Grasping Keyloggers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Outlining keystroke loggers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980)
@@ -1688,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** [[Hardware]] (7), data (4), [[Microsoft Word|Word]] (1), [[Security]] (1), [[Privacy]] (1)
 > **Env Vars:** gnu (1), usb (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1752,7 +1753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (4), [[Security]] (2), game (1), [[Network Security]] (1), [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** safari (1), firefox (1)
 > **Best Practices:** make sure to (2)
@@ -1764,7 +1765,7 @@ created: 2026-04-29
 
 ### 7. Recognizing Spyware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining spyware behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/explaining-spyware-behavior?u=76281980)
@@ -1827,7 +1828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** data (4), web (2), [[Forms]] (1), [[Search]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Env Vars:** pdf (1)
@@ -1892,7 +1893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Security]] (3), data (1), [[User Experience (UX)|User experience]] (1), [[Phishing]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** cpu (1)
 > **Speakers:** - spyware (1)
@@ -1962,7 +1963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (1), finally, (1), raise (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Security]] (2), [[Phishing]] (1), [[Engineering]] (1), feature (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1973,7 +1974,7 @@ created: 2026-04-29
 
 ### 8. Hiding in Plain Sight
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using steganography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-steganography?u=76281980)
@@ -2062,8 +2063,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), application (2)
 > **Env Vars:** gif (3), wav (2), mp3 (1)
-> **Code Keywords:** let (4), default. (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** keep in mind (2)
@@ -2143,8 +2144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Windows]] (2), feature (2), [[Security]] (2), [[Microsoft]] (1)
 > **File Paths:** sample.txt (4), secret.txt (1)
-> **Code Keywords:** let (2)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2195,7 +2196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1)
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [instructor] (1)
 
 #### Detecting steganography
@@ -2299,7 +2300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), require (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Products|Products]] (1), [[Search]] (1), [[Algorithms]] (1)
 > **Analogies:** picture (2), such as (1), for example (1)
 > **Definitions:** is a  (3)
 > **File Paths:** secret.txt (1)
@@ -2311,7 +2312,7 @@ created: 2026-04-29
 
 ### 9. Maintaining Persistence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Remaining in the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/remaining-in-the-system?u=76281980)
@@ -2360,7 +2361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** [[Powershell]] (1), [[Active Directory]] (1), management (1)
 > **Tools:** powershell (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -2420,7 +2421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2)
+> **Frameworks & Libraries:** data (5), [[Active Directory]] (5), api (3), [[Windows]] (3), [[Security]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** api (3)
 > **Prerequisites:** install (1), set up (1)
@@ -2480,7 +2481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Security]] (6), data (1), [[Intrusion Detection]] (1), [[Incident Response]] (1), [[Engineering]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2488,7 +2489,7 @@ created: 2026-04-29
 
 ### 10. Covering Tracks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Disabling logging and hiding files
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980)
@@ -2555,7 +2556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1)
+> **Frameworks & Libraries:** [[Security]] (11), [[Ethical Hacking]] (1), data (1), teams (1), [[Active Directory]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
 > **Analogies:** such as (2)
@@ -2632,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (3), [[Security]] (2), application (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** you'll need (3)
 > **UI Navigation:** go to (2)
@@ -2667,7 +2668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), data (1), [[Wireshark]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [narrator] (1)
 
 

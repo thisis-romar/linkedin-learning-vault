@@ -30,7 +30,7 @@ tags:
   - skill/spring-framework
   - skill/graphql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%20with%20GraphQL.md)
@@ -49,29 +49,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build a GraphQL API with Spring Boot
-  - What you should know
+  - [Build a GraphQL API with Spring Boot](#build-a-graphql-api-with-spring-boot)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting to Know GraphQL**](#1-getting-to-know-graphql) (5 videos)
-  - The power of GraphQL
-  - GraphQL in Java
-  - GraphQL terminology
-  - GraphQL schemas
-  - Using the playground
+  - [The power of GraphQL](#the-power-of-graphql)
+  - [GraphQL in Java](#graphql-in-java)
+  - [GraphQL terminology](#graphql-terminology)
+  - [GraphQL schemas](#graphql-schemas)
+  - [Using the playground](#using-the-playground)
 - [**2. Building GraphQL APIs**](#2-building-graphql-apis) (8 videos)
-  - Setting up the project
-  - Creating the schema
-  - Creating a Spring Data repository
-  - Creating the GraphQL controller
-  - Mutations
-  - Errors
-  - Challenge: Extending the API
-  - Solution: Extending the API
+  - [Setting up the project](#setting-up-the-project)
+  - [Creating the schema](#creating-the-schema)
+  - [Creating a Spring Data repository](#creating-a-spring-data-repository)
+  - [Creating the GraphQL controller](#creating-the-graphql-controller)
+  - [Mutations](#mutations)
+  - [Errors](#errors)
+  - [Challenge: Extending the API](#challenge-extending-the-api)
+  - [Solution: Extending the API](#solution-extending-the-api)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a GraphQL API with Spring Boot
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/build-a-graphql-api-with-spring-boot?u=76281980)
@@ -90,6 +90,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Spring Boot]] (2), data (1), [[Java]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** jvm (1)
 > **Speakers:** - [frank] (1)
@@ -209,8 +210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[Spring Boot]] (7), [[Java]] (5), [[Spring Data]] (3), application (2)
 > **Env Vars:** ide (3), jpa (3), jdk (2), lts (1), jre (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
@@ -220,7 +221,7 @@ created: 2026-04-29
 
 ### 1. Getting to Know GraphQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980)
@@ -287,8 +288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (13), api (8), [[Representational State Transfer (REST)|Rest]] (6), data (4), [[JavaScript]] (2)
 > **Env Vars:** api (8), rest (6), url (1)
-> **Code Keywords:** interface (1), for. (1), type. (1), let (1), return, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -348,8 +349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (12), [[Java]] (6), [[Spring Boot]] (2), [[Spring Data]] (2), [[Node.js]] (1)
 > **Env Vars:** mvc (3), http (2), oss (1), mit (1), crud (1)
-> **Code Keywords:** static (2), let (1), interface (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
@@ -450,7 +451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), type. (1), let (1), interface (1)
+> **Frameworks & Libraries:** [[GraphQL]] (12), data (11), [[Java]] (3), [[JSON]] (2), oop (1)
 > **Analogies:** imagine (2), similar to (1), just like (1)
 > **Env Vars:** json (2), oop (1)
 > **Documentation:** spec (1)
@@ -521,8 +522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[GraphQL]] (6), [[Spring Boot]] (1), next (1)
 > **Env Vars:** api (7), url (1), sdl (1)
-> **Code Keywords:** let (3), this. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -642,7 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), this. (2), switch (1), for. (1)
+> **Frameworks & Libraries:** api (9), [[GraphQL]] (6), hit (4), data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (9), url (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [https://countries.trevorblades.com](https://countries.trevorblades.com) (1), [trevorblades.com](https://trevorblades.com) (1)
@@ -654,7 +655,7 @@ created: 2026-04-29
 
 ### 2. Building GraphQL APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980)
@@ -805,8 +806,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), [[GraphQL]] (6), [[Spring Boot]] (4), [[Java]] (3), data (2)
 > **Env Vars:** ide (2), jpa (2), zip (2), api (1), jar (1)
-> **Code Keywords:** this. (3), let (1), public (1)
 > **CLI Commands:** unzip (2), make (2)
 > **Versions:** 2.7.0 (2), java 17 (1)
 > **Tools:** terminal (1), command line (1), intellij (1)
@@ -887,7 +888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), type, (2), continue (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Spring Boot]] (3), data (3), application (2), web (1)
 > **Code Identifiers:** customerbyid (2), customerbyemail (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -1023,8 +1024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[SQL]] (7), database (6), [[Spring Data]] (4), [[GraphQL]] (3)
 > **Env Vars:** ddl (3), jpa (3), ide (2), customer (2), rest (1)
-> **Code Keywords:** let (5), case, (3), private (2), pass (2), override (1)
 > **Code Identifiers:** generatedvalue (1), firstname (1), findcustomerbyemail (1)
 > **Cross-References:** go back to (1), coming up (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -1139,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (6), this. (4), public (3), this, (2)
+> **Frameworks & Libraries:** [[GraphQL]] (12), data (6), [[Spring Boot]] (4), [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** customerrepository (3), customerbyemail (3), customerbyid (2), findall (1), findbyid (1)
 > **Env Vars:** ide (2), mvc (1), http (1), pojo (1)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -1287,7 +1288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), public (2), case, (1), interface (1), yield (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3), next (3), data (2), database (2), [[Java]] (2)
 > **Code Identifiers:** addcustomer (4), customerinput (2), getcustomerentity (2), firstname (1)
 > **CLI Commands:** make (2), go build (1)
 > **Cross-References:** go back to (1), next video (1)
@@ -1387,7 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), override (3), this. (2), else, (1), type. (1)
+> **Frameworks & Libraries:** data (4), [[GraphQL]] (3), application (2), [[Java]] (1), database (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Env Vars:** env (1)
@@ -1431,9 +1432,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), data (3), api (1), [[GraphQL]] (1), database (1)
 > **File Paths:** schema.sql (2), data.sql (1)
 > **Env Vars:** api (1), jpa (1), sql (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1534,7 +1535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), case, (1)
+> **Frameworks & Libraries:** product (7), data (7), database (4), [[GraphQL]] (4), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** api (1), ide (1)
 > **Definitions:** is a  (2)
@@ -1544,7 +1545,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980)
@@ -1657,7 +1658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), this. (2), finally, (2), let (1), static (1)
+> **Frameworks & Libraries:** [[GraphQL]] (13), data (6), [[Representational State Transfer (REST)|Rest]] (4), [[Java]] (3), application (3)
 > **Env Vars:** rest (4), jpa (2), mvc (1), html (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (3)

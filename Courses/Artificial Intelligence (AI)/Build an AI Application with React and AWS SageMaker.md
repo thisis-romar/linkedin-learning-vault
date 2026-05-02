@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/aws-sagemaker
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20an%20AI%20Application%20with%20React%20and%20AWS%20SageMaker.md)
@@ -55,33 +55,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build an AI application with React and SageMaker
-  - Course prerequisites
+  - [Build an AI application with React and SageMaker](#build-an-ai-application-with-react-and-sagemaker)
+  - [Course prerequisites](#course-prerequisites)
 - [**1. Introduction and Setup**](#1-introduction-and-setup) (4 videos)
-  - Basics of machine learning
-  - Introduction to SageMaker
-  - AWS SageMaker setup
-  - Initializing the React project
+  - [Basics of machine learning](#basics-of-machine-learning)
+  - [Introduction to SageMaker](#introduction-to-sagemaker)
+  - [AWS SageMaker setup](#aws-sagemaker-setup)
+  - [Initializing the React project](#initializing-the-react-project)
 - [**2. Feature Engineering**](#2-feature-engineering) (3 videos)
-  - Introduction to SageMaker Data Wrangler
-  - Data cleaning and processing with Data Wrangler
-  - Feature engineering and transforming data
+  - [Introduction to SageMaker Data Wrangler](#introduction-to-sagemaker-data-wrangler)
+  - [Data cleaning and processing with Data Wrangler](#data-cleaning-and-processing-with-data-wrangler)
+  - [Feature engineering and transforming data](#feature-engineering-and-transforming-data)
 - [**3. Training and Deployment**](#3-training-and-deployment) (4 videos)
-  - Overview of algorithms and the training process
-  - Train the model with Autopilot
-  - Review models and deploy
-  - Predict and clean up resources
+  - [Overview of algorithms and the training process](#overview-of-algorithms-and-the-training-process)
+  - [Train the model with Autopilot](#train-the-model-with-autopilot)
+  - [Review models and deploy](#review-models-and-deploy)
+  - [Predict and clean up resources](#predict-and-clean-up-resources)
 - [**4. React Front End**](#4-react-front-end) (4 videos)
-  - Base app component
-  - Form component
-  - Results component
-  - Finish results component
+  - [Base app component](#base-app-component)
+  - [Form component](#form-component)
+  - [Results component](#results-component)
+  - [Finish results component](#finish-results-component)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning SageMaker
+  - [Continue learning SageMaker](#continue-learning-sagemaker)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build an AI application with React and SageMaker
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/build-an-ai-application-with-react-and-sagemaker?u=76281980)
@@ -94,8 +94,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), application (3), next (1), data (1)
 > **Versions:** react 3 (1), react 12 (1), react 20 (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [emmanuel] (1)
 
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), aws (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is a  (1)
@@ -126,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Introduction and Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980)
@@ -151,8 +152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Supervised Learning]] (1), [[Reinforcement Learning]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
@@ -182,6 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Scalability]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -234,10 +236,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2)
 > **Prerequisites:** set up (4), setup (1)
 > **CLI Commands:** aws (2), find (2)
 > **UI Navigation:** click on (3), select the (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** aws (2)
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
@@ -258,10 +260,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[npm]] (3), [[Remix]] (1), [[Next.js]] (1), [[JavaScript]] (1)
 > **Tools:** terminal (3), vs code (1)
 > **File Paths:** next.js (1), app.jsx (1), main.jsx (1)
 > **CLI Commands:** npm (3)
-> **Code Keywords:** static (1), public (1), let (1)
 > **Env Vars:** css (1)
 > **UI Navigation:** drag and drop (1)
 > **Prerequisites:** install (1)
@@ -270,7 +272,7 @@ created: 2026-04-29
 
 ### 2. Feature Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to SageMaker Data Wrangler
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980)
@@ -433,7 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), type, (1), for. (1), type. (1)
+> **Frameworks & Libraries:** data (25), ai (3), next (3), application (2), [[RStudio]] (1)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **Env Vars:** noaa (1), ghcn (1), pdf (1), csv (1)
 > **CLI Commands:** make (2), python (1)
@@ -543,7 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (4), case, (1), else, (1)
+> **Frameworks & Libraries:** data (35), next (4), [[Microsoft Excel|Excel]] (2), aws (1), prompt (1)
 > **Env Vars:** tmax (2), aws (1), noaa (1), tmin_attributes (1), csv (1)
 > **CLI Commands:** make (5), aws (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
@@ -673,7 +675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), let (4), this. (4)
+> **Frameworks & Libraries:** data (9), [[Feature Engineering]] (3), [[Algorithms]] (1), ai (1), feature (1)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** tmax (3), date (3), tmin (2)
 > **Code Identifiers:** max_temperature (2), min_temperature (1)
@@ -685,7 +687,7 @@ created: 2026-04-29
 
 ### 3. Training and Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of algorithms and the training process
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980)
@@ -768,7 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), class. (1)
+> **Frameworks & Libraries:** data (4), [[Linear Regression]] (2), [[Neural Networks]] (2), [[Deep Learning]] (2), [[Algorithms]] (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -864,7 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), case, (2), type. (1), this, (1)
+> **Frameworks & Libraries:** data (13), next (2), aws (1), [[Fine Tuning]] (1)
 > **CLI Commands:** aws (1), find (1), make (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Code Identifiers:** weathermodel (1)
@@ -972,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), require (1), continue (1), case, (1)
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (4)
 > **Versions:** 9.11 (2), 3.297 (1)
 > **UI Navigation:** go to (2)
@@ -1020,9 +1022,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Python (Programming Language)|Python]] (2), front-end (2), data (1)
 > **CLI Commands:** make (2), python (2)
 > **UI Navigation:** click on (2), go to (1), select the (1)
-> **Code Keywords:** let (3)
 > **Exercise Files:** sample code (2)
 > **Env Vars:** url (1)
 > **Analogies:** for example (1)
@@ -1031,7 +1033,7 @@ created: 2026-04-29
 
 ### 4. React Front End
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Base app component
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/base-app-component?u=76281980)
@@ -1132,7 +1134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), try, (2), this. (1), this, (1)
+> **Frameworks & Libraries:** ai (2), next (2), css (1)
 > **Code Identifiers:** usestate (3), setmintemp (1), settemperature (1), handlemintempchange (1), handledatechange (1)
 > **CLI Commands:** make (2)
 > **File Paths:** app.jsx (1)
@@ -1242,7 +1244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (2), delete (2), this. (2), switch (1)
+> **Frameworks & Libraries:** css (7), next (4)
 > **Code Identifiers:** handlesubmit (4), classname (3), setloading (2), onsubmit (1), onchange (1)
 > **Env Vars:** css (6)
 > **CLI Commands:** make (4)
@@ -1384,7 +1386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), public (2), delete (1), this. (1)
+> **Frameworks & Libraries:** application (6), css (3), [[npm]] (1), [[HTML]] (1), next (1)
 > **CLI Commands:** make (3), npm (1)
 > **Analogies:** picture (4)
 > **Env Vars:** css (2), fyi (1)
@@ -1568,7 +1570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (6), throw (4), this, (1), else. (1)
+> **Frameworks & Libraries:** aws (3), [[React.js|React]] (3), [[npm]] (3), application (2), data (2)
 > **Env Vars:** csv (7), aws (3), npm (3), api (1), npmi (1)
 > **CLI Commands:** make (10), aws (3), npm (3)
 > **Prerequisites:** install (4), make sure you have (2), you need to have (1), configure (1)
@@ -1580,7 +1582,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning SageMaker
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980)
@@ -1599,7 +1601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Search]] (1), [[TensorFlow]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

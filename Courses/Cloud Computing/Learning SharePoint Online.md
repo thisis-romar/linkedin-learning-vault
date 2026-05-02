@@ -28,7 +28,7 @@ tags:
   - topic/cloud-computing
   - skill/sharepoint
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20SharePoint%20Online.md)
@@ -47,44 +47,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Creative collaborative digital spaces with SharePoint Online
+  - [Creative collaborative digital spaces with SharePoint Online](#creative-collaborative-digital-spaces-with-sharepoint-online)
 - [**1. Get Started with SharePoint Online**](#1-get-started-with-sharepoint-online) (7 videos)
-  - Tools and permissions
-  - Login to SharePoint
-  - Use SharePoint home
-  - Navigate and search in a team site
-  - Search in SharePoint
-  - Use Office 365 Groups with SharePoint
-  - Use a communication site
+  - [Tools and permissions](#tools-and-permissions)
+  - [Login to SharePoint](#login-to-sharepoint)
+  - [Use SharePoint home](#use-sharepoint-home)
+  - [Navigate and search in a team site](#navigate-and-search-in-a-team-site)
+  - [Search in SharePoint](#search-in-sharepoint)
+  - [Use Office 365 Groups with SharePoint](#use-office-365-groups-with-sharepoint)
+  - [Use a communication site](#use-a-communication-site)
 - [**2. Work with Libraries and Documents**](#2-work-with-libraries-and-documents) (8 videos)
-  - Store documents
-  - Upload and create documents
-  - Open and edit a document
-  - Save a document from Office
-  - Share a file or site
-  - Add metadata to a document
-  - Coauthor an Office document
-  - Use your team's notebook
+  - [Store documents](#store-documents)
+  - [Upload and create documents](#upload-and-create-documents)
+  - [Open and edit a document](#open-and-edit-a-document)
+  - [Save a document from Office](#save-a-document-from-office)
+  - [Share a file or site](#share-a-file-or-site)
+  - [Add metadata to a document](#add-metadata-to-a-document)
+  - [Coauthor an Office document](#coauthor-an-office-document)
+  - [Use your team's notebook](#use-your-teams-notebook)
 - [**3. Personal and News**](#3-personal-and-news) (2 videos)
-  - Edit your profile
-  - Post news for your team
+  - [Edit your profile](#edit-your-profile)
+  - [Post news for your team](#post-news-for-your-team)
 - [**4. Customize with List Apps**](#4-customize-with-list-apps) (6 videos)
-  - Use a list
-  - Export a list to Excel
-  - Sort and filter in lists and libraries
-  - Create new list and library views
-  - Get updates from lists and libraries
-  - Request an approval with Microsoft Flow
+  - [Use a list](#use-a-list)
+  - [Export a list to Excel](#export-a-list-to-excel)
+  - [Sort and filter in lists and libraries](#sort-and-filter-in-lists-and-libraries)
+  - [Create new list and library views](#create-new-list-and-library-views)
+  - [Get updates from lists and libraries](#get-updates-from-lists-and-libraries)
+  - [Request an approval with Microsoft Flow](#request-an-approval-with-microsoft-flow)
 - [**5. SharePoint on the Road**](#5-sharepoint-on-the-road) (3 videos)
-  - Use the SharePoint mobile app
-  - OneDrive for Business app
-  - Sync SharePoint and OneDrive to a device
+  - [Use the SharePoint mobile app](#use-the-sharepoint-mobile-app)
+  - [OneDrive for Business app](#onedrive-for-business-app)
+  - [Sync SharePoint and OneDrive to a device](#sync-sharepoint-and-onedrive-to-a-device)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creative collaborative digital spaces with SharePoint Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/creative-collaborative-digital-spaces-with-sharepoint-online?u=76281980)
@@ -105,13 +105,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (5), business (2), teams (1), data (1), [[Search]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [gini] (1)
 
 
 ### 1. Get Started with SharePoint Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980)
@@ -186,7 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (13), data (3), [[Microsoft Office|Office]] (2), next (2), [[Search]] (2)
 > **CLI Commands:** make (1), cd (1)
 > **Tools:** firefox (1), safari (1)
 > **Definitions:** is a  (2)
@@ -253,6 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (17), [[Microsoft Office|Office]] (5), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Office]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -340,8 +342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (14), next (1)
 > **UI Navigation:** go to (5)
-> **Code Keywords:** let (1), continue (1), return. (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -434,7 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (2), this, (1), if, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (5), application (3), [[Microsoft]] (2), next (2), web (1)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
@@ -520,7 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), type. (1), case, (1)
+> **Frameworks & Libraries:** [[Search]] (16), [[SharePoint]] (10), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft OneDrive|Onedrive]] (2), power (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -583,8 +585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (13), [[Microsoft Outlook|Outlook]] (10), [[Microsoft Office|Office]] (5)
 > **UI Navigation:** go to (3), dropdown (1)
-> **Code Keywords:** switch (2)
 > **Cross-References:** go back to (2)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
@@ -659,7 +661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), new, (1), let (1)
+> **Frameworks & Libraries:** [[SharePoint]] (1), power (1), bi (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -670,7 +672,7 @@ created: 2026-04-29
 
 ### 2. Work with Libraries and Documents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Store documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980)
@@ -773,7 +775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1), private (1), public (1), finally, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (14), [[Microsoft OneDrive|Onedrive]] (10), business (4), [[Metadata]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -848,7 +850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), new, (1), new. (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Excel|Excel]] (3), [[SharePoint]] (2), [[Lead Generation]] (2), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** drag and drop (2), go to (1), navigate to (1)
 > **Analogies:** for example (2)
 > **Env Vars:** jpeg (1)
@@ -956,11 +958,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft Word|Word]] (7), [[Microsoft Word]] (4), [[Search]] (2), next (1)
 > **UI Navigation:** double-click (1), go to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1042,9 +1044,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (8), [[Microsoft OneDrive|Onedrive]] (6), [[Microsoft Office]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (4)
 > **Speakers:** - [instructor] (1)
 
 #### Share a file or site
@@ -1138,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2)
+> **Frameworks & Libraries:** [[SharePoint]] (3), [[Microsoft Word|Word]] (3), [[Microsoft Word]] (2), [[Microsoft Outlook|Outlook]] (2)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** in other words (3)
 > **CLI Commands:** find (1)
@@ -1248,7 +1250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), let (3), throw (1), case, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (9), [[Metadata]] (6), hr (4), data (3), [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2), just like (1)
@@ -1337,9 +1339,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (6), [[Microsoft Word|Word]] (4), application (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** rm (2)
-> **Code Keywords:** pass (1), continue (1)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1375,6 +1377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OneNote]] (7), [[SharePoint]] (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1382,7 +1385,7 @@ created: 2026-04-29
 
 ### 3. Personal and News
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Edit your profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980)
@@ -1499,10 +1502,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), application (3), power (2), [[SharePoint]] (1), [[Microsoft Office]] (1)
 > **Analogies:** picture (5), for example (2)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** interface (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1579,7 +1582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), this. (1), else. (1), default. (1), let (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3), web (3), feature (1), [[Microsoft]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
 > **Analogies:** for example (1), picture (1)
@@ -1590,7 +1593,7 @@ created: 2026-04-29
 
 ### 4. Customize with List Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use a list
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980)
@@ -1653,6 +1656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (5), data (3), [[Microsoft Excel]] (2), product (1), web (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1720,7 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (2), for. (1), delete (1)
+> **Frameworks & Libraries:** data (12), [[SharePoint]] (10), [[Microsoft Excel|Excel]] (9), power (2), bi (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1811,10 +1815,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[SharePoint]] (4), data (3), [[Databases]] (2), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** open the (2), toggle (2), scroll down (1), checkbox (1)
 > **Env Vars:** sku (3), sql (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** this, (1), super (1), let (1)
 > **CLI Commands:** find (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1920,7 +1924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), this, (1), switch (1), delete (1)
+> **Frameworks & Libraries:** [[SharePoint]] (2), product (2), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (5), open the (1), dropdown (1)
 > **Analogies:** for example (4)
 > **Definitions:** is called (1), means that (1)
@@ -2011,7 +2015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), delete (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3)
 > **Analogies:** for example (2)
 > **Env Vars:** sms (1)
 > **UI Navigation:** go to (1)
@@ -2087,15 +2091,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft]] (3), next (3), [[Active Directory]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Warnings:** note that (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. SharePoint on the Road
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the SharePoint mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980)
@@ -2190,8 +2194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (11), [[Microsoft Word|Word]] (3), [[Search]] (2), [[Windows]] (1), [[Android]] (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** let (2), return. (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** for example (3)
 > **Code Identifiers:** ios (1), iphone (1)
@@ -2275,8 +2279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (14), business (10), [[SharePoint]] (7), [[Microsoft Office|Office]] (3), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **Analogies:** for example (3), picture (1)
-> **Code Keywords:** case, (1), let (1), switch (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Exercise Files:** download the (1)
@@ -2390,9 +2394,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (21), [[SharePoint]] (7), feature (2), [[Microsoft]] (1), next (1)
 > **Prerequisites:** set up (4), install (1), configure (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), switch (1), else. (1)
 > **UI Navigation:** go to (2), drag and drop (1)
 > **Analogies:** for example (3)
 > **Code Identifiers:** ipad (1)
@@ -2402,7 +2406,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980)
@@ -2443,6 +2447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[LinkedIn]] (3), power (3), next (2), leadership (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)

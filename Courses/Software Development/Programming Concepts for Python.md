@@ -34,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/programming-concepts
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Concepts%20for%20Python.md)
@@ -53,61 +53,61 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Programming concepts with Python
-  - What you should know
-  - Using GitHub Codespaces
+  - [Programming concepts with Python](#programming-concepts-with-python)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces](#using-github-codespaces)
 - [**1. Functions**](#1-functions) (5 videos)
-  - Functions
-  - Code reuse
-  - Parameters and arguments
-  - Multiple parameters
-  - Local and global variables
+  - [Functions](#functions)
+  - [Code reuse](#code-reuse)
+  - [Parameters and arguments](#parameters-and-arguments)
+  - [Multiple parameters](#multiple-parameters)
+  - [Local and global variables](#local-and-global-variables)
 - [**2. Objects**](#2-objects) (4 videos)
-  - Objects
-  - Classes
-  - Object names
-  - Mutability
+  - [Objects](#objects)
+  - [Classes](#classes)
+  - [Object names](#object-names)
+  - [Mutability](#mutability)
 - [**3. Class Inheritance**](#3-class-inheritance) (2 videos)
-  - Class inheritance
-  - Overriding inherited methods
+  - [Class inheritance](#class-inheritance)
+  - [Overriding inherited methods](#overriding-inherited-methods)
 - [**4. Modules and Packages**](#4-modules-and-packages) (2 videos)
-  - Modules
-  - Packages
+  - [Modules](#modules)
+  - [Packages](#packages)
 - [**5. Lists and Tuples**](#5-lists-and-tuples) (3 videos)
-  - Lists
-  - Multidimensional lists
-  - Tuples
+  - [Lists](#lists)
+  - [Multidimensional lists](#multidimensional-lists)
+  - [Tuples](#tuples)
 - [**6. Queues and Stacks**](#6-queues-and-stacks) (2 videos)
-  - Queues
-  - Stacks
+  - [Queues](#queues)
+  - [Stacks](#stacks)
 - [**7. Sets**](#7-sets) (3 videos)
-  - Create and combine sets
-  - Sort sets
-  - Add and remove items from sets
+  - [Create and combine sets](#create-and-combine-sets)
+  - [Sort sets](#sort-sets)
+  - [Add and remove items from sets](#add-and-remove-items-from-sets)
 - [**8. Dictionaries**](#8-dictionaries) (3 videos)
-  - Dictionaries
-  - Add items to dictionaries
-  - Reverse lookup issues
+  - [Dictionaries](#dictionaries)
+  - [Add items to dictionaries](#add-items-to-dictionaries)
+  - [Reverse lookup issues](#reverse-lookup-issues)
 - [**9. Conditional Execution**](#9-conditional-execution) (2 videos)
-  - If-else statements
-  - Match statements
+  - [If-else statements](#if-else-statements)
+  - [Match statements](#match-statements)
 - [**10. Loops**](#10-loops) (3 videos)
-  - For loops
-  - While loops
-  - Break statements
+  - [For loops](#for-loops)
+  - [While loops](#while-loops)
+  - [Break statements](#break-statements)
 - [**11. Error Handling**](#11-error-handling) (3 videos)
-  - Catch errors
-  - Validate input
-  - Customize errors
+  - [Catch errors](#catch-errors)
+  - [Validate input](#validate-input)
+  - [Customize errors](#customize-errors)
 - [**12. Polling and Event-Driven Programming**](#12-polling-and-event-driven-programming) (2 videos)
-  - Polling
-  - Event-driven programming
+  - [Polling](#polling)
+  - [Event-driven programming](#event-driven-programming)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Programming concepts with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/programming-concepts-with-python?u=76281980)
@@ -134,8 +134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), data (1), [[Python (Programming Language)|Python]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** abstract (1), let (1)
 > **Speakers:** - when (1)
 
 #### What you should know
@@ -159,9 +159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming Concepts]] (1), [[Programming]] (1)
 > **CLI Commands:** python (5)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - the (1)
 
 #### Using GitHub Codespaces
@@ -193,9 +193,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (5), [[Python (Programming Language)|Python]] (4), [[GitHub]] (3)
 > **CLI Commands:** python (4), find (2), make (1)
 > **Tools:** github (3), visual studio (1)
-> **Code Keywords:** this. (1), case, (1)
 > **URLs:** [python.com](https://python.com) (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
@@ -204,7 +204,7 @@ created: 2026-04-29
 
 ### 1. Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980)
@@ -355,7 +355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (27), let (10), delete (2), case, (1), def, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (2), [[Codespaces]] (2), functional (1)
 > **CLI Commands:** make (17), python (5)
 > **Code Identifiers:** make_omelette (6), functions_begin (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -465,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), let (5), this. (1), pass (1)
+> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** mix_and_cook (13), make_pancake (8), make_omelette (7)
 > **CLI Commands:** make (7), python (1)
 > **Speakers:** - eating (1), - how (1), - sounds (1), - [olivia] (1)
@@ -533,7 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (4), pass (2)
+> **Frameworks & Libraries:** generic (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** make (13), python (2)
 > **Definitions:** is a  (5), is called (1), refers to (1)
 > **Cross-References:** previous video (1)
@@ -614,7 +614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (3), pass (2), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** make (6), python (4), find (1)
 > **Code Identifiers:** make_omelette (2), make_fancy_omelette (2)
 > **Speakers:** - sometimes (1), - hey (1), - no (1), - [olivia] (1)
@@ -792,7 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (48), let (11), case, (1), throw (1), delete (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Search]] (3), [[Programming]] (1)
 > **Code Identifiers:** make_omelette (17), make_pancake (8), make_omelet (1)
 > **CLI Commands:** python (10), make (5), find (4)
 > **Speakers:** - but (2), - while (1), - ooh (1), - oh (1), - olivia (1)
@@ -803,7 +803,7 @@ created: 2026-04-29
 
 ### 2. Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980)
@@ -944,8 +944,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Programming]] (4), data (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (12), make (1)
-> **Code Keywords:** function (7), let (4), this, (1)
 > **Definitions:** is an  (6), short for (1), is a  (1)
 > **Analogies:** for example (5), just like (2), imagine (1)
 > **Env Vars:** dir (3), str (1)
@@ -1069,8 +1069,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), next (1)
 > **Code Identifiers:** my_jeans (7), put_on (4), take_off (4), classes_begin (2)
-> **Code Keywords:** self (5), pass (4), let (2), function (2), class. (2)
 > **CLI Commands:** python (11), make (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** later in (1)
@@ -1203,8 +1203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Speakers:** - as (2), - i (2), - the (2), - [olivia] (2), - ah (1)
-> **Code Keywords:** let (5), function (3), case, (1)
 > **Code Identifiers:** make_clean (3), make_dirty (2)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** for example (1), just like (1)
@@ -1310,7 +1310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), type. (1), switch (1), type, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (4), [[Programming]] (1)
 > **CLI Commands:** python (8), make (2)
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - as (1), - what (1), - you (1)
@@ -1320,7 +1320,7 @@ created: 2026-04-29
 
 ### 3. Class Inheritance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Class inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980)
@@ -1475,7 +1475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class. (6), class, (5), finally, (2), pass (1)
+> **Frameworks & Libraries:** data (7), [[Windows]] (4), [[Python (Programming Language)|Python]] (3), generic (2), next (1)
 > **CLI Commands:** make (4), python (3)
 > **Definitions:** is a  (3)
 > **Tools:** terminal (1)
@@ -1549,7 +1549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (8), let (6), class, (4), delete (2), new, (1)
+> **Frameworks & Libraries:** data (3), [[Windows]] (2), power (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (6), python (1)
 > **Code Identifiers:** my_ecar (1)
 > **Cross-References:** previous video (1)
@@ -1560,7 +1560,7 @@ created: 2026-04-29
 
 ### 4. Modules and Packages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980)
@@ -1677,7 +1677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (32), function (20), let (3), require (1), import, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
 > **CLI Commands:** python (10), find (1)
 > **Analogies:** for example (2), just like (1), such as (1)
 > **UI Navigation:** select the (3)
@@ -1755,7 +1755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (9), function (3), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Google]] (2), next (1), [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **CLI Commands:** python (9), cd (1), ls (1), make (1)
 > **Analogies:** for example (3), similar to (1), such as (1), just like (1)
 > **Definitions:** is a  (4), refers to (1)
@@ -1767,7 +1767,7 @@ created: 2026-04-29
 
 ### 5. Lists and Tuples
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980)
@@ -1940,7 +1940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), pass (1), case, (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (6), [[Python (Programming Language)|Python]] (4), next (2), data (1), [[Programming]] (1)
 > **Speakers:** - well (2), - lists (1), - hey (1), - yep (1), - what (1)
 > **CLI Commands:** find (4), python (4), make (3)
 > **Env Vars:** pop (4), bmw (2)
@@ -2083,7 +2083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (3), this, (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (2), [[Search]] (1), hit (1)
 > **CLI Commands:** python (3), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** later in (1)
@@ -2147,8 +2147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (1)
 > **Analogies:** just like (4), similar to (2), for example (1)
-> **Code Keywords:** function (3), let (2), pass (1)
 > **CLI Commands:** python (3), find (1), make (1)
 > **Env Vars:** gps (5)
 > **Code Identifiers:** my_tuple (2)
@@ -2158,7 +2158,7 @@ created: 2026-04-29
 
 ### 6. Queues and Stacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980)
@@ -2331,7 +2331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (3), default, (2), pass (2), type, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (6), next (5)
 > **Speakers:** - and (2), - queues (1), - sure (1), - sounds (1), - these (1)
 > **CLI Commands:** python (7), make (1)
 > **Definitions:** is a  (2), stands for (1), is an  (1)
@@ -2419,7 +2419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (4), case, (1), continue (1), super (1)
+> **Frameworks & Libraries:** data (3), next (2), [[Python (Programming Language)|Python]] (1)
 > **Speakers:** - while (1), - hey (1), - whoops (1), - [olivia] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
@@ -2428,7 +2428,7 @@ created: 2026-04-29
 
 ### 7. Sets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and combine sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/create-and-combine-sets?u=76281980)
@@ -2517,7 +2517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), pass (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Tools:** terminal (1)
@@ -2633,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** game (6), [[Python (Programming Language)|Python]] (2), next (2)
 > **CLI Commands:** find (2), python (2)
 > **Speakers:** - now (1), - here (1), - thank (1)
 > **Tools:** terminal (1)
@@ -2764,7 +2764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), throw (2), continue (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), game (3)
 > **CLI Commands:** python (4), make (2), find (2)
 > **Speakers:** - now (1), - hey (1), - well (1)
 > **Tools:** terminal (1)
@@ -2773,7 +2773,7 @@ created: 2026-04-29
 
 ### 8. Dictionaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dictionaries
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980)
@@ -2852,8 +2852,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (3), [[Microsoft Word|Word]] (2), data (1), [[Search]] (1)
 > **CLI Commands:** python (7), find (3), make (1)
-> **Code Keywords:** function (7), let (1), pass (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
 > **Tools:** terminal (1)
@@ -2970,8 +2970,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (2), data (2), game (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (5), find (2), make (2)
-> **Code Keywords:** function (1), throw (1), let (1)
 > **Analogies:** just like (1), similar to (1)
 > **Speakers:** - a (1), - here (1)
 > **Tools:** terminal (1)
@@ -3073,8 +3073,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Search]] (2), feature (1)
 > **CLI Commands:** find (8), python (6), make (2)
-> **Code Keywords:** function (10), let (3), for, (1), match, (1), pass (1)
 > **Code Identifiers:** caller_id (8)
 > **Definitions:** is a  (2)
 > **Versions:** version 3 (1)
@@ -3085,7 +3085,7 @@ created: 2026-04-29
 
 ### 9. Conditional Execution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### If-else statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/if-else-statements?u=76281980)
@@ -3218,7 +3218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** elif (8), let (2), this, (1), case, (1), else, (1)
+> **Frameworks & Libraries:** [[Programming]] (2), [[Python (Programming Language)|Python]] (2), next (2)
 > **Speakers:** - well (2), - every (1), - that (1), - hmm (1), - yes (1)
 > **CLI Commands:** make (4), python (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -3365,7 +3365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), case, (4), elif (3), else, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (8), make (3), find (1)
 > **Speakers:** - in (1), - you (1), - well (1), - but (1), - as (1)
 > **Definitions:** is a  (2), known as (1)
@@ -3377,7 +3377,7 @@ created: 2026-04-29
 
 ### 10. Loops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### For loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/for-loops?u=76281980)
@@ -3492,7 +3492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2), [[Programming]] (1)
 > **CLI Commands:** python (2), make (2)
 > **Analogies:** such as (1), just like (1)
 > **Cross-References:** in the next (1)
@@ -3570,7 +3570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), function (2), let (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - the (1), - [narrator] (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -3656,14 +3656,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (2), continue (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
 
 ### 11. Error Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Catch errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980)
@@ -3782,7 +3782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), module (3), case, (2), interface (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Google]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Env Vars:** url (13), http (1), html (1)
 > **CLI Commands:** make (3), python (3)
 > **URLs:** [google.com](https://google.com) (3)
@@ -3938,7 +3938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (6), let (5), class, (3), pass (2), case, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), generic (4), power (2), [[Programming]] (1)
 > **CLI Commands:** python (7), make (2)
 > **Speakers:** - time (1), - sure (1), - thanks (1), - the (1), - ah (1)
 > **Analogies:** just like (1), such as (1), similar to (1)
@@ -4088,7 +4088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (11), function (6), let (4), pass (3), class. (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), generic (7), [[Programming]] (2), next (1)
 > **CLI Commands:** python (8), find (1)
 > **Code Identifiers:** cause_error (5), error_type (2)
 > **Speakers:** - with (1), - barron (1), - uh (1), - [olivia] (1)
@@ -4099,7 +4099,7 @@ created: 2026-04-29
 
 ### 12. Polling and Event-Driven Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Polling
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980)
@@ -4216,7 +4216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), implements (2), interface (1), module (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[React.js|React]] (1), [[Programming]] (1), application (1), [[Java]] (1)
 > **CLI Commands:** python (5), find (1), make (1)
 > **Code Identifiers:** front_door (5)
 > **Env Vars:** cpu (3)
@@ -4382,7 +4382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (5), module (2), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (2), next (2), [[Concurrent Programming]] (2), [[Slack]] (1)
 > **CLI Commands:** python (3), make (2), find (1)
 > **Code Identifiers:** call_later (2), get_event_loop (1), run_forever (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
@@ -4394,7 +4394,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/next-steps?u=76281980)
@@ -4417,6 +4417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Speakers:** - thanks (1), - or (1), - [both] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we covered (1)

@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20Intelligent%20Chatbots%20on%20AWS.md)
@@ -51,51 +51,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Creating chatbots
-  - What you should know
+  - [Creating chatbots](#creating-chatbots)
+  - [What you should know](#what-you-should-know)
 - [**1. AWS Lex Overview**](#1-aws-lex-overview) (4 videos)
-  - Introduction to AWS Lex
-  - AWS account and console
-  - Chatbot concepts
-  - Lex API and CLI
+  - [Introduction to AWS Lex](#introduction-to-aws-lex)
+  - [AWS account and console](#aws-account-and-console)
+  - [Chatbot concepts](#chatbot-concepts)
+  - [Lex API and CLI](#lex-api-and-cli)
 - [**2. Creating a Bot**](#2-creating-a-bot) (6 videos)
-  - Lex Bot creation
-  - Intents
-  - Kicking off the conversation
-  - Testing the bot
-  - Challenge: OrderDrink intent
-  - Solution: OrderDrink intent
+  - [Lex Bot creation](#lex-bot-creation)
+  - [Intents](#intents)
+  - [Kicking off the conversation](#kicking-off-the-conversation)
+  - [Testing the bot](#testing-the-bot)
+  - [Challenge: OrderDrink intent](#challenge-orderdrink-intent)
+  - [Solution: OrderDrink intent](#solution-orderdrink-intent)
 - [**3. Slots and Slot Types**](#3-slots-and-slot-types) (6 videos)
-  - Slot types
-  - Custom slot types
-  - User input prompts
-  - Confirmation prompts
-  - Challenge: Create a restricted slot
-  - Solution: Create a restricted slot
+  - [Slot types](#slot-types)
+  - [Custom slot types](#custom-slot-types)
+  - [User input prompts](#user-input-prompts)
+  - [Confirmation prompts](#confirmation-prompts)
+  - [Challenge: Create a restricted slot](#challenge-create-a-restricted-slot)
+  - [Solution: Create a restricted slot](#solution-create-a-restricted-slot)
 - [**4. Responses**](#4-responses) (4 videos)
-  - Closing response
-  - Prompting with card group
-  - Challenge: Closing response for dessert
-  - Solution: Closing response for dessert
+  - [Closing response](#closing-response)
+  - [Prompting with card group](#prompting-with-card-group)
+  - [Challenge: Closing response for dessert](#challenge-closing-response-for-dessert)
+  - [Solution: Closing response for dessert](#solution-closing-response-for-dessert)
 - [**5. Publishing**](#5-publishing) (7 videos)
-  - Versions and aliases
-  - Client creation
-  - Client preparation
-  - Gathering configuration data
-  - Testing the bot with text
-  - Challenge: Engage bot from CLI
-  - Solution: Engage bot from CLI
+  - [Versions and aliases](#versions-and-aliases)
+  - [Client creation](#client-creation)
+  - [Client preparation](#client-preparation)
+  - [Gathering configuration data](#gathering-configuration-data)
+  - [Testing the bot with text](#testing-the-bot-with-text)
+  - [Challenge: Engage bot from CLI](#challenge-engage-bot-from-cli)
+  - [Solution: Engage bot from CLI](#solution-engage-bot-from-cli)
 - [**6. Functionality of Lambdas**](#6-functionality-of-lambdas) (4 videos)
-  - Lex and Lambdas
-  - BookTrip sample bot
-  - Creating and connecting Lambdas
-  - Testing with Lambdas
+  - [Lex and Lambdas](#lex-and-lambdas)
+  - [BookTrip sample bot](#booktrip-sample-bot)
+  - [Creating and connecting Lambdas](#creating-and-connecting-lambdas)
+  - [Testing with Lambdas](#testing-with-lambdas)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue training your chatbots
+  - [Continue training your chatbots](#continue-training-your-chatbots)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating chatbots
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-chatbots?u=76281980)
@@ -120,8 +120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), aws (1), next (1), chatbot (1)
 > **CLI Commands:** make (2), aws (1)
-> **Code Keywords:** let (2), interface (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - artificial (1)
 
@@ -144,17 +144,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (1), [[JavaScript]] (1), [[npm]] (1)
 > **Env Vars:** aws (1), iam (1), npm (1)
 > **CLI Commands:** aws (1), npm (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** lambda (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. AWS Lex Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AWS Lex
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/introduction-to-aws-lex?u=76281980)
@@ -183,6 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 
 #### AWS account and console
@@ -218,6 +219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Representational State Transfer (REST)|Rest]] (1), [[Cost Management]] (1)
 > **CLI Commands:** aws (5), make (2)
 > **Env Vars:** aws (4)
 > **UI Navigation:** go to (2)
@@ -269,10 +271,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -325,8 +327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), api (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** aws (3), api (3), iam (1)
-> **Code Keywords:** interface (3), delete (1)
 > **CLI Commands:** aws (3)
 > **Tools:** command line (3)
 > **Prerequisites:** you'll need (1), getting started (1)
@@ -337,7 +339,7 @@ created: 2026-04-29
 
 ### 2. Creating a Bot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lex Bot creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-bot-creation?u=76281980)
@@ -404,6 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), next (2), [[Search]] (1), generic (1)
 > **Env Vars:** iam (3), aws (2), coppa (1)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -411,7 +414,6 @@ created: 2026-04-29
 > **Versions:** 0.4 (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
-> **Prerequisites:** getting started (1)
 
 #### Intents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/intents?u=76281980)
@@ -518,7 +520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (2), super (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), aws (1), database (1), [[Analytics]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
@@ -601,8 +603,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), next (1)
 > **UI Navigation:** click on (1), scroll down (1), go to (1)
-> **Code Keywords:** else. (1), lambda (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
@@ -658,7 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (1), [[JSON]] (1)
 > **Env Vars:** json (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -726,6 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Analogies:** such as (1), just like (1)
 > **Speakers:** - [instructor] (1)
@@ -734,7 +737,7 @@ created: 2026-04-29
 
 ### 3. Slots and Slot Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Slot types
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/slot-types?u=76281980)
@@ -781,7 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), case. (1)
+> **Frameworks & Libraries:** data (4), next (2), generic (1), [[Forms]] (1), game (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -878,7 +881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), this, (1), else. (1)
+> **Frameworks & Libraries:** data (2), prompt (1), next (1)
 > **Speakers:** - [narrator] (1)
 
 #### User input prompts
@@ -982,7 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (4), this. (2), case, (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** prompt (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (1), click on (1), dropdown (1), scroll down (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** loc (2), lock (1)
@@ -1053,7 +1056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), lambda (1), else. (1), this, (1), else, (1)
+> **Frameworks & Libraries:** prompt (2), generic (2), data (1), next (1), power (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1082,7 +1085,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), from. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant music) (1)
@@ -1170,7 +1172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), finally, (2), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), prompt (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), select the (1)
 > **Definitions:** is a  (2)
@@ -1182,7 +1184,7 @@ created: 2026-04-29
 
 ### 4. Responses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Closing response
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/closing-response?u=76281980)
@@ -1233,8 +1235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (1), data (1), next (1)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** this. (1), interface (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1303,8 +1305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4)
 > **UI Navigation:** go to (2), scroll down (2), select the (1)
-> **Code Keywords:** this, (1), type, (1)
 > **Env Vars:** url (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1340,7 +1342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), switch (1)
+> **Frameworks & Libraries:** prompt (1), next (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -1409,8 +1411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1)
 > **UI Navigation:** scroll down (2), go to (2), click on (1)
-> **Code Keywords:** let (2), else. (1), this, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1418,7 +1420,7 @@ created: 2026-04-29
 
 ### 5. Publishing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Versions and aliases
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/versions-and-aliases?u=76281980)
@@ -1483,8 +1485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **Versions:** version 1 (6)
-> **Code Keywords:** this. (1), while, (1), let (1), this, (1)
 > **UI Navigation:** click on (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1598,12 +1600,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[npm]] (4), next (3), application (2), [[JavaScript]] (1)
 > **CLI Commands:** aws (5), npm (4), make (2), node (1), git (1)
 > **Env Vars:** aws (4), npm (4), cli (1), npx (1)
 > **Tools:** terminal (5), command line (1)
 > **Prerequisites:** configure (1), install (1), setup (1), getting started (1), set up (1)
 > **UI Navigation:** click on (1), dropdown (1), go to (1), switch to (1)
-> **Code Keywords:** interface (1), switch (1), delete (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **File Paths:** node.js (1), index.js (1)
 
@@ -1686,10 +1688,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), hit (4), next (1)
 > **CLI Commands:** aws (4), make (3)
 > **Env Vars:** aws (4), iam (3)
 > **UI Navigation:** go to (2), checkbox (1), click on (1)
-> **Code Keywords:** let (2), this, (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1763,6 +1765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), next (2), hit (1), [[Google]] (1)
 > **CLI Commands:** aws (3)
 > **UI Navigation:** go to (3)
 > **Env Vars:** aws (2)
@@ -1820,7 +1823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), this, (1), this. (1), continue (1)
+> **Frameworks & Libraries:** hit (2), [[JavaScript]] (2), next (1), [[npm]] (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1), dropdown (1)
 > **CLI Commands:** make (1), npm (1)
 > **File Paths:** index.js (1)
@@ -1868,7 +1871,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
 > **Versions:** version 2 (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1919,7 +1921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), this. (1)
+> **Frameworks & Libraries:** aws (1), ai (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** just like (1)
@@ -1929,7 +1931,7 @@ created: 2026-04-29
 
 ### 6. Functionality of Lambdas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lex and Lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-and-lambdas?u=76281980)
@@ -2000,7 +2002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (13), else. (1), function (1)
+> **Frameworks & Libraries:** aws (2), next (2), [[Python (Programming Language)|Python]] (1), [[PHP]] (1), [[Databases]] (1)
 > **CLI Commands:** aws (2), python (1), php (1)
 > **Env Vars:** aws (2), php (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -2086,7 +2088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** iam (1), coppa (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2158,7 +2160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (7), function (7), from, (1), case, (1), super (1)
+> **Frameworks & Libraries:** [[Search]] (3), aws (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), next (1)
 > **CLI Commands:** find (2), aws (2)
 > **UI Navigation:** scroll down (2), click on (1), go to (1)
 > **Versions:** version 2 (2), version 1 (1)
@@ -2264,7 +2266,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (12), function (2)
 > **Prerequisites:** set up (4), initialization (1)
 > **UI Navigation:** click on (3)
 > **Documentation:** the documentation (2)
@@ -2275,7 +2276,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue training your chatbots
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/continue-training-your-chatbots?u=76281980)
@@ -2324,8 +2325,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (1), next (1), power (1), [[LinkedIn]] (1)
 > **Speakers:** - [lex] (5), - order (1), - pizza (1), - monica (1), - the (1)
-> **Code Keywords:** delete (1), let (1)
 > **CLI Commands:** aws (1)
 > **URLs:** [brainwashinc.com](https://brainwashinc.com) (1)
 > **Env Vars:** aws (1)

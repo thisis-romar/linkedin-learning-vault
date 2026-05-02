@@ -36,7 +36,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Accelerate%20Your%20Developer%20Career.md)
@@ -55,43 +55,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Leveling up your software development career
+  - [Leveling up your software development career](#leveling-up-your-software-development-career)
 - [**1. Cross-Functional Collaboration**](#1-cross-functional-collaboration) (8 videos)
-  - Why form cross-functional teams?
-  - Collaborating with product management
-  - Collaborating with UI/UX design
-  - Collaborating with architecture
-  - Collaborating with QA
-  - Collaborating with operations
-  - Challenge: Cross-functional teammates
-  - Solution: Cross-functional teammates
+  - [Why form cross-functional teams?](#why-form-cross-functional-teams)
+  - [Collaborating with product management](#collaborating-with-product-management)
+  - [Collaborating with UI/UX design](#collaborating-with-uiux-design)
+  - [Collaborating with architecture](#collaborating-with-architecture)
+  - [Collaborating with QA](#collaborating-with-qa)
+  - [Collaborating with operations](#collaborating-with-operations)
+  - [Challenge: Cross-functional teammates](#challenge-cross-functional-teammates)
+  - [Solution: Cross-functional teammates](#solution-cross-functional-teammates)
 - [**2. Software Delivery Is a Team Sport**](#2-software-delivery-is-a-team-sport) (6 videos)
-  - Psychological safety and risk-taking
-  - A knowledge-sharing culture
-  - Building trust
-  - Giving and receiving feedback
-  - Challenge: Are you a true team player?
-  - Solution: Are you a true team player?
+  - [Psychological safety and risk-taking](#psychological-safety-and-risk-taking)
+  - [A knowledge-sharing culture](#a-knowledge-sharing-culture)
+  - [Building trust](#building-trust)
+  - [Giving and receiving feedback](#giving-and-receiving-feedback)
+  - [Challenge: Are you a true team player?](#challenge-are-you-a-true-team-player)
+  - [Solution: Are you a true team player?](#solution-are-you-a-true-team-player)
 - [**3.  Develop Emotional Intelligence**](#3-develop-emotional-intelligence) (6 videos)
-  - Why EQ is a critical skill?
-  - Handling conflict effectively
-  - Coping with stress and burnout
-  - Demonstrating empathy
-  - Overcoming self-doubt
-  - Challenge: Developing your EQ skills
+  - [Why EQ is a critical skill?](#why-eq-is-a-critical-skill)
+  - [Handling conflict effectively](#handling-conflict-effectively)
+  - [Coping with stress and burnout](#coping-with-stress-and-burnout)
+  - [Demonstrating empathy](#demonstrating-empathy)
+  - [Overcoming self-doubt](#overcoming-self-doubt)
+  - [Challenge: Developing your EQ skills](#challenge-developing-your-eq-skills)
 - [**4. Be Heard with Compelling Communication**](#4-be-heard-with-compelling-communication) (6 videos)
-  - Communicate proactively
-  - Influence through clarity
-  - Express curiosity
-  - Choosing your communication method
-  - Challenge: Effective communication
-  - Solution: Effective communication
+  - [Communicate proactively](#communicate-proactively)
+  - [Influence through clarity](#influence-through-clarity)
+  - [Express curiosity](#express-curiosity)
+  - [Choosing your communication method](#choosing-your-communication-method)
+  - [Challenge: Effective communication](#challenge-effective-communication)
+  - [Solution: Effective communication](#solution-effective-communication)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveling up your software development career
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/leveling-up-your-software-development-career?u=76281980)
@@ -110,13 +110,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** functional (2), career (1), product (1), [[Engineering]] (1), teams (1)
 > **Speakers:** - [janan] (1)
 
 
 ### 1. Cross-Functional Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why form cross-functional teams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980)
@@ -171,8 +171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (13), teams (8), functional (7), [[Accountability]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** include. (1), interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Collaborating with product management
@@ -234,8 +234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (15), business (4), feature (2), [[User Experience (UX)|User experience]] (2), [[Programming]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
@@ -281,8 +281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[User Experience (UX)|User experience]] (2), feature (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [presenter] (1)
 
 #### Collaborating with architecture
@@ -334,7 +334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), let (1)
+> **Frameworks & Libraries:** product (3), [[Programming]] (2), [[Security]] (1), [[Scalability]] (1), [[Software Architecture]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -399,8 +399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (5), [[Quality Assurance]] (2), product (2), application (2), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** implements (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -459,7 +459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (4), application (1), [[Continuous Integration (CI)|Continuous integration]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -480,6 +480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -502,13 +503,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (2)
 > **Speakers:** - after (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 2. Software Delivery Is a Team Sport
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Psychological safety and risk-taking
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980)
@@ -563,8 +565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), product (1), [[Representational State Transfer (REST)|Rest]] (1), business (1), [[Google]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - think (1)
 
@@ -629,6 +631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), career (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -697,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** teams (3), [[Building Trust]] (3), [[Agile Development|Agile]] (1), [[Scrum]] (1), product (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -770,8 +773,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), career (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** self (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Are you a true team player?
@@ -822,15 +825,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Building Trust]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
 ### 3.  Develop Emotional Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why EQ is a critical skill?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/why-eq-is-a-critical-skill?u=76281980)
@@ -883,7 +886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (2), extends (1), finally, (1)
+> **Frameworks & Libraries:** career (3), management (3), teams (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -932,8 +935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[React.js|React]] (1)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Coping with stress and burnout
@@ -991,7 +994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (1)
+> **Frameworks & Libraries:** product (3), feature (2), [[React.js|React]] (1), career (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [narrator] (1)
@@ -1045,7 +1048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** product (3), [[LinkedIn]] (1), application (1), [[Technical Documentation]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
@@ -1109,7 +1112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), let (1), raise (1)
+> **Frameworks & Libraries:** career (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1133,6 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1)
 > **Cross-References:** we covered (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - in (1)
@@ -1141,7 +1145,7 @@ created: 2026-04-29
 
 ### 4. Be Heard with Compelling Communication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicate proactively
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/communicate-proactively?u=76281980)
@@ -1196,7 +1200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** feature (2), career (1), product (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -1260,8 +1264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), feature (3), product (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1312,8 +1316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Choosing your communication method
@@ -1363,8 +1367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), application (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
@@ -1402,13 +1406,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980)
@@ -1433,7 +1438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), career (2), next (2), [[LinkedIn]] (2), [[Team Collaboration]] (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)

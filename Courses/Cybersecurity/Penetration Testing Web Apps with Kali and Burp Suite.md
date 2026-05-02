@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/penetration-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Penetration%20Testing%20Web%20Apps%20with%20Kali%20and%20Burp%20Suite.md)
@@ -47,46 +47,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Protecting your websites
-  - What you should know before watching this course
-  - Disclaimer
+  - [Protecting your websites](#protecting-your-websites)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
+  - [Disclaimer](#disclaimer)
 - [**1. Setting Up**](#1-setting-up) (4 videos)
-  - Preparing the test environment
-  - Setting up WordPress
-  - Setting up Joomla
-  - Online testing sites
+  - [Preparing the test environment](#preparing-the-test-environment)
+  - [Setting up WordPress](#setting-up-wordpress)
+  - [Setting up Joomla](#setting-up-joomla)
+  - [Online testing sites](#online-testing-sites)
 - [**2. Refresher**](#2-refresher) (3 videos)
-  - A refresher on web technology
-  - Refreshing your basic web testing skills
-  - A refresher on website shell implants
+  - [A refresher on web technology](#a-refresher-on-web-technology)
+  - [Refreshing your basic web testing skills](#refreshing-your-basic-web-testing-skills)
+  - [A refresher on website shell implants](#a-refresher-on-website-shell-implants)
 - [**3. Advanced Website Enumeration**](#3-advanced-website-enumeration) (3 videos)
-  - Busting open a website
-  - Identifying virtual websites
-  - More ways to find web pages
+  - [Busting open a website](#busting-open-a-website)
+  - [Identifying virtual websites](#identifying-virtual-websites)
+  - [More ways to find web pages](#more-ways-to-find-web-pages)
 - [**4. Finding Vulnerabilities**](#4-finding-vulnerabilities) (2 videos)
-  - Vulnerability scanning with Burp Suite
-  - Using sqlmap to validate SQL injections
+  - [Vulnerability scanning with Burp Suite](#vulnerability-scanning-with-burp-suite)
+  - [Using sqlmap to validate SQL injections](#using-sqlmap-to-validate-sql-injections)
 - [**5. Attacking the Website**](#5-attacking-the-website) (9 videos)
-  - Exploiting your way into the gym
-  - Exploiting through an ASPX shell with Cadaver
-  - Checking web page source
-  - Injecting HTML into a web page
-  - Exploiting tools left on websites
-  - Injecting SQL using Burp Suite
-  - Exploiting Node.js
-  - Injecting XML into a web page
-  - File access through a web application URL
+  - [Exploiting your way into the gym](#exploiting-your-way-into-the-gym)
+  - [Exploiting through an ASPX shell with Cadaver](#exploiting-through-an-aspx-shell-with-cadaver)
+  - [Checking web page source](#checking-web-page-source)
+  - [Injecting HTML into a web page](#injecting-html-into-a-web-page)
+  - [Exploiting tools left on websites](#exploiting-tools-left-on-websites)
+  - [Injecting SQL using Burp Suite](#injecting-sql-using-burp-suite)
+  - [Exploiting Node.js](#exploiting-nodejs)
+  - [Injecting XML into a web page](#injecting-xml-into-a-web-page)
+  - [File access through a web application URL](#file-access-through-a-web-application-url)
 - [**6. Content Management**](#6-content-management) (4 videos)
-  - Understanding CMS targets
-  - Getting into WordPress
-  - Shelling through WordPress
-  - Exploiting Joomla via SQL
+  - [Understanding CMS targets](#understanding-cms-targets)
+  - [Getting into WordPress](#getting-into-wordpress)
+  - [Shelling through WordPress](#shelling-through-wordpress)
+  - [Exploiting Joomla via SQL](#exploiting-joomla-via-sql)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting your websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (1), let (1)
+> **Frameworks & Libraries:** web (7), cloud (1), [[HTML]] (1), [[Content Management Systems (CMS)|Content management systems]] (1), cms (1)
 > **Env Vars:** html (1), cms (1)
 > **Speakers:** - [malcolm (1)
 
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Kali Linux]] (1), [[Security]] (1), [[Penetration Testing]] (1), [[OWASP]] (1)
 > **Env Vars:** owasp (1), http (1), php (1)
 > **CLI Commands:** php (1), python (1)
 > **Prerequisites:** you'll need (1), install (1)
@@ -184,13 +185,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Kali Linux]] (1), open-source (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Setting Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing the test environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980)
@@ -277,10 +278,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), cd (2), [[Git]] (2), database (2), [[Security]] (1)
 > **CLI Commands:** sudo (3), ssh (2), cd (2), git (2), apache (1)
 > **Env Vars:** lamp (3), ssh (2), php (1), sql (1)
 > **Prerequisites:** set up (5), install (1)
-> **Code Keywords:** let (4), var (1)
 > **Versions:** 192.168.1 (2)
 > **URLs:** [https://github.com/webpwnized/mutillidae.git](https://github.com/webpwnized/mutillidae.git) (1)
 > **Tools:** github (1)
@@ -357,9 +358,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (16), [[PHP]] (11), data (4), [[HTML]] (3), cms (2)
 > **CLI Commands:** php (11), sudo (6), tar (4), curl (3), chown (2)
 > **Env Vars:** php (5), abspath (3), cms (2), sql (2), sshd (1)
-> **Code Keywords:** let (5), require (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (2), [cybex.com](https://cybex.com) (1)
 > **Prerequisites:** set up (2), install (1)
 > **Versions:** 1.1 (1), 7.4 (1)
@@ -446,8 +447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[HTML]] (3), [[MySQL]] (2), web (2), data (2)
 > **CLI Commands:** sudo (4), mysql (2), unzip (2), cd (1), wget (1)
-> **Code Keywords:** let (5), var (3), interface (1), finally, (1)
 > **Prerequisites:** install (3), set up (3), setup (1)
 > **Code Identifiers:** joomla_db (2)
 > **URLs:** [https://downloads.joomla.org](https://downloads.joomla.org) (1), [cybex.com](https://cybex.com) (1)
@@ -508,9 +509,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Security]] (2), [[Penetration Testing]] (2), vpn (2)
 > **Env Vars:** vpn (2), htb (1)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** require (1)
 > **Versions:** 192.168.55 (1)
 > **Cross-References:** later in (1)
 > **Tools:** firefox (1)
@@ -520,7 +521,7 @@ created: 2026-04-29
 
 ### 2. Refresher
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A refresher on web technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980)
@@ -671,9 +672,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (18), data (10), web application (9), [[HTML]] (9), application (5)
 > **Env Vars:** http (10), html (7), php (4), https (3), wss (1)
 > **Definitions:** is a  (5), known as (2), is an  (2), means that (1)
-> **Code Keywords:** delete (2), interface (1), let (1), var (1), pass (1)
 > **API Endpoints:** get  (2), head  (1), post  (1), options  (1), put  (1)
 > **CLI Commands:** php (4), apache (1), make (1)
 > **Analogies:** such as (3)
@@ -763,8 +764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), application (2), traffic (1), [[Linux]] (1), database (1)
 > **Env Vars:** url (3), owasp (1), zap (1), sql (1)
-> **Code Keywords:** let (4)
 > **CLI Commands:** apache (2), cat (1)
 > **Versions:** 192.168.1 (3)
 > **Cross-References:** we covered (2)
@@ -895,9 +896,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (12), [[PHP]] (8), [[Forms]] (3), [[Windows]] (3), [[Linux]] (2)
 > **Env Vars:** asp (15), aspx (4), jsp (4), php (4), iis (3)
 > **CLI Commands:** php (8), sudo (3), apache (1), ls (1), find (1)
-> **Code Keywords:** let (8), var (2), switch (1)
 > **Versions:** 10.0.2 (4), 5.1 (2)
 > **Definitions:** is a  (4), is an  (1), known as (1)
 > **Code Identifiers:** reverse_tcp (1), shikata_ga_nai (1), jsp_shell_reverse_tcp (1)
@@ -907,7 +908,7 @@ created: 2026-04-29
 
 ### 3. Advanced Website Enumeration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Busting open a website
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980)
@@ -1012,10 +1013,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (6), [[Microsoft Word|Word]] (3), management (1), [[WordPress]] (1), [[System Configuration]] (1)
 > **CLI Commands:** find (8), php (6), apache (2)
 > **Versions:** 192.168.1 (2), 2.3 (2), 192.168.60 (2), version 7 (1), 20.04 (1)
 > **Env Vars:** php (4), url (2), sql (1)
-> **Code Keywords:** let (5), switch (1)
 > **Speakers:** - [instructor] (1), - u (1), - x (1)
 > **File Paths:** directory-list-lowercase-2.3-medium.txt (1), phpinfo.php (1)
 > **Tools:** command line (1)
@@ -1102,7 +1103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case. (1), this. (1), interface (1), case, (1)
+> **Frameworks & Libraries:** web (4), dns (1)
 > **CLI Commands:** find (4), apache (3), make (1), sudo (1)
 > **Env Vars:** url (3), dns (1), axfr (1)
 > **Definitions:** is a  (4)
@@ -1228,7 +1229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), interface (1), default, (1), for. (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), web (2), [[PHP]] (2), [[HTML]] (2), next (2)
 > **Env Vars:** url (3), http (3), dirb (3), php (2), html (2)
 > **Versions:** 192.168.60 (8), 48.1898 (2), 2.3 (2)
 > **URLs:** [http://192.168.60.48:1898](http://192.168.60.48:1898) (6), [http://192.168.60.48.1898](http://192.168.60.48.1898) (2)
@@ -1240,7 +1241,7 @@ created: 2026-04-29
 
 ### 4. Finding Vulnerabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vulnerability scanning with Burp Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980)
@@ -1301,7 +1302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (1), continue (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (5), web (2), web application (2), [[Penetration Testing]] (1), application (1)
 > **Env Vars:** http (2), https (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -1351,7 +1352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), case, (1), for, (1)
+> **Frameworks & Libraries:** web (2), [[SQL]] (2), [[Databases]] (2), [[Burp Suite]] (1), database (1)
 > **Env Vars:** sql (2), http (1), post (1)
 > **UI Navigation:** select the (2), open the (1), switch to (1)
 > **CLI Commands:** make (1), find (1)
@@ -1363,7 +1364,7 @@ created: 2026-04-29
 
 ### 5. Attacking the Website
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploiting your way into the gym
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980)
@@ -1446,8 +1447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (6), management (4), [[Python (Programming Language)|Python]] (4), application (2), [[SQL]] (2)
 > **CLI Commands:** php (6), python (4), find (2), make (2)
-> **Code Keywords:** let (5), function (2), require (1), this. (1)
 > **Speakers:** - let (1), - or (1), - one (1), - hash (1), - and (1)
 > **Env Vars:** php (2), sql (2), png (2)
 > **Definitions:** is a  (2)
@@ -1564,8 +1565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), prompt (2), [[ASP.NET]] (1), business (1)
 > **Env Vars:** aspx (6), http (4), asp (4), put (2), pen (1)
-> **Code Keywords:** let (9)
 > **Definitions:** is an  (2), is a  (2)
 > **Tools:** command line (1), bash (1), command prompt (1)
 > **Speakers:** - web (1), - [male (1), - it (1)
@@ -1616,7 +1617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** web (1), [[PHP]] (1)
 > **CLI Commands:** find (2), php (1)
 > **Versions:** 10.10.10 (3)
 > **URLs:** [http://10.10.10.27](http://10.10.10.27) (2)
@@ -1694,9 +1695,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (4), [[Scripting]] (1), data (1), [[Penetration Testing]] (1)
 > **CLI Commands:** php (9), ls (2), cat (1)
 > **Env Vars:** php (6), html (4), lhost (1), lport (1)
-> **Code Keywords:** let (8)
 > **Versions:** 10.10.14 (3)
 > **File Paths:** user.txt (1), salvas/user.txt (1)
 > **Code Identifiers:** reverse_tcp (2)
@@ -1758,8 +1759,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), [[Scripting]] (1), data (1), web (1), [[Troubleshooting]] (1)
 > **CLI Commands:** php (4), find (1), ls (1), cat (1)
-> **Code Keywords:** let (6), this, (1)
 > **Env Vars:** dlrb (3), php (1), http (1)
 > **File Paths:** phpbash.php (2)
 > **Versions:** 10.10.10 (2)
@@ -1856,7 +1857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** [[Burp Suite]] (4), [[SQL]] (4)
 > **Env Vars:** sql (4), post (2)
 > **UI Navigation:** go to (2), open the (1)
 > **CLI Commands:** sudo (1), find (1)
@@ -1980,7 +1981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (3), module (2), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Node.js]] (12), [[JavaScript]] (4), [[Burp Suite]] (3), web (2), data (2)
 > **CLI Commands:** node (13), make (3), find (2), npm (1), python (1)
 > **File Paths:** node.js (12), njs.py (1), script.py (1), user.txt (1), documents/user.txt (1)
 > **Ports:** port 2222 (2), port 3000 (1), :3000 (1)
@@ -2028,8 +2029,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** xml (7)
-> **Code Keywords:** let (3), case, (1), type. (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - xml (1)
 
@@ -2066,7 +2067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1)
+> **Frameworks & Libraries:** [[Windows]] (2), application (2), web (2), [[Burp Suite]] (2), web application (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Env Vars:** url (1), http (1)
 > **Versions:** 192.168.1 (2)
@@ -2077,7 +2078,7 @@ created: 2026-04-29
 
 ### 6. Content Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding CMS targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980)
@@ -2132,10 +2133,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cms (8), web (4), database (3), [[WordPress]] (3), [[Content Management Systems (CMS)|Content management systems]] (3)
 > **Env Vars:** cms (8), html (1), php (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** php (1)
-> **Code Keywords:** interface (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2236,9 +2237,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (9), [[SQL]] (9), [[PHP]] (7), [[Databases]] (2), database (2)
 > **Env Vars:** sql (6), php (3), http (2), https (2), map (2)
 > **CLI Commands:** php (7), find (2), unzip (2), ssh (1), cd (1)
-> **Code Keywords:** let (11)
 > **Versions:** 10.10.10 (4), 2.3 (1), 10.61 (1)
 > **Ports:** port 443 (1), port 22 (1), port
 32812 (1), port
@@ -2302,8 +2303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (8), [[WordPress]] (4), web (1), data (1)
 > **CLI Commands:** php (8), find (1)
-> **Code Keywords:** let (4), this, (2), new, (1)
 > **File Paths:** wplug.php (2), wphead.txt (1), nano/usr/share/webshells/php/php-reverse-shell.php (1)
 > **Env Vars:** php (3)
 > **Prerequisites:** set up (1), install (1)
@@ -2365,7 +2366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Databases]] (3), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1), database (1), web (1)
 > **Versions:** version 1 (2), 1.5 (2), 192.168.1 (1)
 > **Code Identifiers:** jm_users (2), joomla_db (1)
 > **Env Vars:** sql (2), url (1)
@@ -2377,7 +2378,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980)
@@ -2406,6 +2407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), web (3), [[Cybersecurity]] (1), [[Ethical Hacking]] (1), [[Active Directory]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)

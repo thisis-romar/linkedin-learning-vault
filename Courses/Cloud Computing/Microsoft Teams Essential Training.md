@@ -38,7 +38,7 @@ tags:
   - topic/data-science
   - skill/microsoft-teams
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Teams%20Essential%20Training.md)
@@ -57,85 +57,85 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Communicate effectively with Microsoft Teams
+  - [Communicate effectively with Microsoft Teams](#communicate-effectively-with-microsoft-teams)
 - [**1. Sign In and Get Started**](#1-sign-in-and-get-started) (5 videos)
-  - Understand the different versions of Teams
-  - Use Teams on the web or the desktop application
-  - Use Teams as a guest: Client and contractor access
-  - Join a meeting without a Teams account
-  - Keep teams and chats combined or separated
+  - [Understand the different versions of Teams](#understand-the-different-versions-of-teams)
+  - [Use Teams on the web or the desktop application](#use-teams-on-the-web-or-the-desktop-application)
+  - [Use Teams as a guest: Client and contractor access](#use-teams-as-a-guest-client-and-contractor-access)
+  - [Join a meeting without a Teams account](#join-a-meeting-without-a-teams-account)
+  - [Keep teams and chats combined or separated](#keep-teams-and-chats-combined-or-separated)
 - [**2. Join or Make a Team**](#2-join-or-make-a-team) (5 videos)
-  - Join a team in Teams
-  - Manage your list of teams
-  - Create a team and add members in Teams for Business or Enterprise
-  - Create a team and add members in Teams for Education
-  - Invite people to a private team
+  - [Join a team in Teams](#join-a-team-in-teams)
+  - [Manage your list of teams](#manage-your-list-of-teams)
+  - [Create a team and add members in Teams for Business or Enterprise](#create-a-team-and-add-members-in-teams-for-business-or-enterprise)
+  - [Create a team and add members in Teams for Education](#create-a-team-and-add-members-in-teams-for-education)
+  - [Invite people to a private team](#invite-people-to-a-private-team)
 - [**3. Group Conversations using Teams and Channels**](#3-group-conversations-using-teams-and-channels) (7 videos)
-  - Organize conversations with channels
-  - Create private or shared channels
-  - Post and read messages
-  - Target messages with @mentions
-  - Edit and delete messages
-  - Add text-free reactions to messages
-  - Add emojis and animated gifs
+  - [Organize conversations with channels](#organize-conversations-with-channels)
+  - [Create private or shared channels](#create-private-or-shared-channels)
+  - [Post and read messages](#post-and-read-messages)
+  - [Target messages with @mentions](#target-messages-with-mentions)
+  - [Edit and delete messages](#edit-and-delete-messages)
+  - [Add text-free reactions to messages](#add-text-free-reactions-to-messages)
+  - [Add emojis and animated gifs](#add-emojis-and-animated-gifs)
 - [**4. Private Chats**](#4-private-chats) (3 videos)
-  - Use chats for private messages
-  - Chat with people outside of your organization
-  - Schedule messages, organize conversations, and other chat features
+  - [Use chats for private messages](#use-chats-for-private-messages)
+  - [Chat with people outside of your organization](#chat-with-people-outside-of-your-organization)
+  - [Schedule messages, organize conversations, and other chat features](#schedule-messages-organize-conversations-and-other-chat-features)
 - [**5. Meetings and Calls**](#5-meetings-and-calls) (12 videos)
-  - Get set up for calls and meetings
-  - Choose whether to use the New Calendar
-  - Start a call or meeting from the Chats section
-  - Start a meeting on-demand
-  - Schedule a meeting and invite attendees
-  - RSVP and join a meeting
-  - Manage lobby settings in Teams
-  - Use virtual backgrounds and other video effects
-  - Use optional features during a meeting
-  - Use breakout rooms in Microsoft Teams
-  - Record and transcribe a meeting in Teams
-  - Share your screen during a call, meeting, or chat
+  - [Get set up for calls and meetings](#get-set-up-for-calls-and-meetings)
+  - [Choose whether to use the New Calendar](#choose-whether-to-use-the-new-calendar)
+  - [Start a call or meeting from the Chats section](#start-a-call-or-meeting-from-the-chats-section)
+  - [Start a meeting on-demand](#start-a-meeting-on-demand)
+  - [Schedule a meeting and invite attendees](#schedule-a-meeting-and-invite-attendees)
+  - [RSVP and join a meeting](#rsvp-and-join-a-meeting)
+  - [Manage lobby settings in Teams](#manage-lobby-settings-in-teams)
+  - [Use virtual backgrounds and other video effects](#use-virtual-backgrounds-and-other-video-effects)
+  - [Use optional features during a meeting](#use-optional-features-during-a-meeting)
+  - [Use breakout rooms in Microsoft Teams](#use-breakout-rooms-in-microsoft-teams)
+  - [Record and transcribe a meeting in Teams](#record-and-transcribe-a-meeting-in-teams)
+  - [Share your screen during a call, meeting, or chat](#share-your-screen-during-a-call-meeting-or-chat)
 - [**6. Copilot and Teams Premium: AI and Security Add-Ons**](#6-copilot-and-teams-premium-ai-and-security-add-ons) (6 videos)
-  - Compare Copilot and Teams Premium
-  - Get meeting summaries and recaps using AI
-  - Use Facilitator for AI Notes during chats and meetings
-  - Streamline your work with Copilot AI and Business Chat
-  - Make meetings more secure using Teams Premium
-  - Customize meeting experiences with Teams Premium
+  - [Compare Copilot and Teams Premium](#compare-copilot-and-teams-premium)
+  - [Get meeting summaries and recaps using AI](#get-meeting-summaries-and-recaps-using-ai)
+  - [Use Facilitator for AI Notes during chats and meetings](#use-facilitator-for-ai-notes-during-chats-and-meetings)
+  - [Streamline your work with Copilot AI and Business Chat](#streamline-your-work-with-copilot-ai-and-business-chat)
+  - [Make meetings more secure using Teams Premium](#make-meetings-more-secure-using-teams-premium)
+  - [Customize meeting experiences with Teams Premium](#customize-meeting-experiences-with-teams-premium)
 - [**7. Sharing Files and Loop Components**](#7-sharing-files-and-loop-components) (3 videos)
-  - Share files in Microsoft Teams
-  - Edit and collaborate on files
-  - Share Loop components in Teams and other applications
+  - [Share files in Microsoft Teams](#share-files-in-microsoft-teams)
+  - [Edit and collaborate on files](#edit-and-collaborate-on-files)
+  - [Share Loop components in Teams and other applications](#share-loop-components-in-teams-and-other-applications)
 - [**8. Explore Apps and Optional Features in Teams**](#8-explore-apps-and-optional-features-in-teams) (2 videos)
-  - Customize channel tabs in Teams
-  - Use apps to add extra functionality to Teams
+  - [Customize channel tabs in Teams](#customize-channel-tabs-in-teams)
+  - [Use apps to add extra functionality to Teams](#use-apps-to-add-extra-functionality-to-teams)
 - [**9. Search, Settings, and Customization**](#9-search-settings-and-customization) (5 videos)
-  - Set your status message in Teams
-  - Use the search tool to find specific messages or files
-  - Use the command box and trigger quick commands
-  - Adjust settings and notification options
-  - Customize the sidebar in Teams
+  - [Set your status message in Teams](#set-your-status-message-in-teams)
+  - [Use the search tool to find specific messages or files](#use-the-search-tool-to-find-specific-messages-or-files)
+  - [Use the command box and trigger quick commands](#use-the-command-box-and-trigger-quick-commands)
+  - [Adjust settings and notification options](#adjust-settings-and-notification-options)
+  - [Customize the sidebar in Teams](#customize-the-sidebar-in-teams)
 - [**10. Managing Teams for Team Owners**](#10-managing-teams-for-team-owners) (3 videos)
-  - Make a team from a template or an existing team
-  - Add, remove, and manage members of a team
-  - Adjust settings and permissions in a team
+  - [Make a team from a template or an existing team](#make-a-team-from-a-template-or-an-existing-team)
+  - [Add, remove, and manage members of a team](#add-remove-and-manage-members-of-a-team)
+  - [Adjust settings and permissions in a team](#adjust-settings-and-permissions-in-a-team)
 - [**11. Teams for Education: Manage Assignments**](#11-teams-for-education-manage-assignments) (3 videos)
-  - Make and grade assignments in Teams
-  - Make and manage quizzes in Teams
-  - Manage assignments and grades in Teams
+  - [Make and grade assignments in Teams](#make-and-grade-assignments-in-teams)
+  - [Make and manage quizzes in Teams](#make-and-manage-quizzes-in-teams)
+  - [Manage assignments and grades in Teams](#manage-assignments-and-grades-in-teams)
 - [**12. Accessibility Features**](#12-accessibility-features) (4 videos)
-  - Make the Teams interface easier to see
-  - Use live captions and other tools in Teams for hearing impairments
-  - Translate messages in other languages
-  - Designate an interpreter during a meeting
+  - [Make the Teams interface easier to see](#make-the-teams-interface-easier-to-see)
+  - [Use live captions and other tools in Teams for hearing impairments](#use-live-captions-and-other-tools-in-teams-for-hearing-impairments)
+  - [Translate messages in other languages](#translate-messages-in-other-languages)
+  - [Designate an interpreter during a meeting](#designate-an-interpreter-during-a-meeting)
 - [**13. Working with the Mobile App**](#13-working-with-the-mobile-app) (1 videos)
-  - Use the mobile app for iOS and Android
+  - [Use the mobile app for iOS and Android](#use-the-mobile-app-for-ios-and-android)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learn more about Microsoft Teams
+  - [Learn more about Microsoft Teams](#learn-more-about-microsoft-teams)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicate effectively with Microsoft Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/communicate-effectively-with-microsoft-teams?u=76281980)
@@ -156,14 +156,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), let (1)
+> **Frameworks & Libraries:** teams (3), [[Microsoft Teams]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - communication (1)
 
 
 ### 1. Sign In and Get Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the different versions of Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980)
@@ -246,7 +246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), require (1), finally, (1)
+> **Frameworks & Libraries:** teams (22), [[Microsoft Teams]] (6), [[Microsoft 365]] (5), business (4), [[Microsoft]] (4)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Cross-References:** later in (1)
@@ -324,8 +324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (19), application (11), web (7), [[Microsoft]] (3), [[Microsoft 365]] (3)
 > **Prerequisites:** set up (3), install (2), you'll need (1), configure (1)
-> **Code Keywords:** type, (1), let (1), case, (1), this. (1), interface (1)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** find (3)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [office.com](https://office.com) (1)
@@ -420,7 +420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), interface (3), let (2), private (2), case, (1)
+> **Frameworks & Libraries:** teams (20), business (1), [[Microsoft]] (1), feature (1), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (1), click on (1), in the sidebar (1), switch to (1)
 > **Definitions:** is a  (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -458,8 +458,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (7), [[Microsoft Teams]] (1), business (1), web (1), prompt (1)
 > **UI Navigation:** click on (1), open the (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -546,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), switch (3), private (2), public (2), this, (1)
+> **Frameworks & Libraries:** teams (17), feature (1), next (1), application (1)
 > **UI Navigation:** in the sidebar (6), go to (2), right-click (2), switch to (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** setup (1)
@@ -555,7 +555,7 @@ created: 2026-04-29
 
 ### 2. Join or Make a Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Join a team in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980)
@@ -700,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (8), public (5), switch (3), let (2), continue (1)
+> **Frameworks & Libraries:** teams (26), [[Search]] (7), business (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Teams]] (1)
 > **UI Navigation:** go to (5), switch to (1)
 > **Definitions:** is called (2), is a  (2), means that (1)
 > **Cross-References:** go back to (2), previous chapter (1)
@@ -754,7 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** teams (7), next (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -904,10 +904,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (12), web (4), next (3), business (1), [[SharePoint]] (1)
 > **CLI Commands:** make (11)
 > **Cross-References:** later in (3), earlier in (1), as we saw (1)
 > **UI Navigation:** go to (3), in the sidebar (1), open the (1)
-> **Code Keywords:** private (2), else. (1), public (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Definitions:** is called (1)
 > **Warnings:** be aware (1)
@@ -1036,7 +1036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), public (2), private (2), continue (2), let (2)
+> **Frameworks & Libraries:** teams (12), [[Search]] (3), business (2), [[Privacy]] (2), [[Microsoft 365]] (1)
 > **Prerequisites:** set up (4), you'll need (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1108,7 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), public (1), default, (1), this, (1)
+> **Frameworks & Libraries:** teams (2), web (1), next (1)
 > **UI Navigation:** go to (4), in the sidebar (1), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1117,7 +1117,7 @@ created: 2026-04-29
 
 ### 3. Group Conversations using Teams and Channels
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organize conversations with channels
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/organize-conversations-with-channels-25634941?u=76281980)
@@ -1236,7 +1236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), private (1), this. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** teams (5), next (3), web (2)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** open the (5), go to (2), click on (1)
 > **Cross-References:** later in (1), go back to (1)
@@ -1356,7 +1356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (15), let (2), type. (1)
+> **Frameworks & Libraries:** web (5), [[Search]] (2), [[Microsoft 365]] (1)
 > **Definitions:** is a  (6), means that (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** open the (3)
@@ -1456,8 +1456,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Microsoft Teams]] (1), web (1)
 > **UI Navigation:** select the (2), click on (2), go to (1), in the sidebar (1)
-> **Code Keywords:** let (2), switch (1), this. (1), this, (1)
 > **CLI Commands:** make (2), find (1)
 > **Non-Speech:** (typing loudly) (2)
 > **Cross-References:** later in (1)
@@ -1522,8 +1522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), web (2), next (2), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), in the sidebar (2), click on (1)
-> **Code Keywords:** let (2), for, (1), delete (1), finally, (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1593,7 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), this, (1), this. (1)
+> **Frameworks & Libraries:** teams (3), hit (1), business (1), [[Microsoft 365]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
@@ -1636,6 +1636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1695,7 +1696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), delete (1)
+> **Frameworks & Libraries:** [[Search]] (4), teams (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1705,7 +1706,7 @@ created: 2026-04-29
 
 ### 4. Private Chats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use chats for private messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-chats-for-private-messages-25637952?u=76281980)
@@ -1816,7 +1817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), private (1), switch (1), this. (1)
+> **Frameworks & Libraries:** teams (5), [[Search]] (3), feature (1), next (1), web (1)
 > **UI Navigation:** click on (2), go to (2), switch to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -1860,6 +1861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), [[Search]] (2), [[Microsoft Teams]] (1), [[Jetpack Compose|Compose]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - microsoft (1)
 
@@ -1972,7 +1974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), continue (2), delete (2), try. (1), else. (1)
+> **Frameworks & Libraries:** next (3), teams (1), feature (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Definitions:** is a  (2)
@@ -1982,7 +1984,7 @@ created: 2026-04-29
 
 ### 5. Meetings and Calls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get set up for calls and meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-set-up-for-calls-and-meetings?u=76281980)
@@ -2049,9 +2051,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4)
 > **UI Navigation:** go to (3), click on (2), select the (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** finally, (1), let (1), switch (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - there (1)
@@ -2105,7 +2107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), interface (2)
+> **Frameworks & Libraries:** teams (3), [[Microsoft Outlook|Outlook]] (3), [[Microsoft]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** switch to (2), in the sidebar (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -2219,9 +2221,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), teams (1), [[Search]] (1), prompt (1)
 > **UI Navigation:** click on (4), go to (2), in the sidebar (1)
 > **Speakers:** - hello (3), - so (2), - from (1), - hi (1)
-> **Code Keywords:** this, (2), let (1), interface (1), switch (1), continue (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
@@ -2328,7 +2330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), continue (2), switch (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (2), teams (2), web (1), next (1)
 > **UI Navigation:** switch to (1), click on (1), go to (1)
 > **Speakers:** - [instructor] (1), - hey (1), - and (1)
 > **CLI Commands:** make (1), find (1)
@@ -2464,7 +2466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (6), interface (1), this, (1)
+> **Frameworks & Libraries:** teams (8), [[Search]] (3)
 > **UI Navigation:** click on (2), switch to (1), toggle (1), double-click (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is an  (3), means that (1)
@@ -2542,8 +2544,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), teams (3), [[Microsoft 365]] (2), prompt (1), web (1)
 > **UI Navigation:** click on (5), go to (1)
-> **Code Keywords:** this, (2), let (1), this. (1), switch (1)
 > **Env Vars:** rsvp (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (1), install (1)
@@ -2634,7 +2636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), interface (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** teams (3)
 > **UI Navigation:** go to (5), click on (2), open the (1), in the toolbar (1)
 > **CLI Commands:** make (6), find (2)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -2760,11 +2762,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Microsoft Office|Office]] (2), [[Privacy]] (1), [[Microsoft Teams]] (1)
 > **Speakers:** - [instructor] (1), - hey (1), - all (1), - correct (1), - great (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Warnings:** be aware (1), be careful (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** setup (1)
@@ -2902,7 +2904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (5), let (3), switch (2), this. (1), for. (1)
+> **Frameworks & Libraries:** next (6), teams (2), [[Microsoft Copilot|Copilot]] (2), application (1), web (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we talked about (1), go back to (1)
 > **UI Navigation:** in the toolbar (1), switch to (1)
@@ -3068,7 +3070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1), this. (1)
+> **Frameworks & Libraries:** next (2), hit (1)
 > **Prerequisites:** set up (5), setup (2), you'll need (1)
 > **Speakers:** - during (1), - hello (1), - and (1)
 > **CLI Commands:** make (1)
@@ -3212,10 +3214,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), business (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **UI Navigation:** go to (4), click on (2), double-click (1), open the (1)
 > **CLI Commands:** find (4), make (3)
 > **Speakers:** - it (1), - so (1), - yep (1), - great (1), - you (1)
-> **Code Keywords:** case, (2), this. (1)
 > **Cross-References:** go back to (3)
 > **Warnings:** keep in mind (2)
 > **Exercise Files:** download the (1)
@@ -3398,8 +3400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), application (5), teams (5), [[Windows]] (4), [[Microsoft Excel|Excel]] (3)
 > **Speakers:** - yep (2), - as (1), - hey (1), - all (1), - perfect (1)
-> **Code Keywords:** let (5), switch (4)
 > **CLI Commands:** make (4)
 > **UI Navigation:** switch to (1), go to (1), scroll down (1)
 > **Definitions:** is a  (1)
@@ -3407,7 +3409,7 @@ created: 2026-04-29
 
 ### 6. Copilot and Teams Premium: AI and Security Add-Ons
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compare Copilot and Teams Premium
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980)
@@ -3454,7 +3456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1), let (1), continue (1)
+> **Frameworks & Libraries:** teams (9), [[Microsoft Copilot|Copilot]] (7), [[Microsoft 365]] (4), ai (4), [[Security]] (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -3577,9 +3579,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), teams (11), ai (11), [[Microsoft 365]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** click on (4), go to (2), double-click (1)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** let (2), case, (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - there (1)
@@ -3671,6 +3673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[Microsoft Copilot|Copilot]] (4), feature (2), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (2), open the (2), click on (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
@@ -3800,7 +3803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1), for. (1), type, (1), for, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), next (5), ai (3), [[Microsoft 365]] (3), feature (2)
 > **CLI Commands:** find (4)
 > **UI Navigation:** click on (3), select the (1)
 > **Cross-References:** go back to (1)
@@ -3865,7 +3868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2), this. (1), default, (1), switch (1)
+> **Frameworks & Libraries:** teams (10), [[Security]] (5), application (4), [[Microsoft]] (1)
 > **UI Navigation:** go to (4), double-click (1), switch to (1), scroll down (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
@@ -3979,7 +3982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), interface (2), this, (2), let (2), default. (1)
+> **Frameworks & Libraries:** teams (10), [[Microsoft]] (2), application (1), next (1), feature (1)
 > **Prerequisites:** set up (7), configure (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -3990,7 +3993,7 @@ created: 2026-04-29
 
 ### 7. Sharing Files and Loop Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Share files in Microsoft Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980)
@@ -4083,7 +4086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), switch (1), let (1), this. (1), interface (1)
+> **Frameworks & Libraries:** teams (3), web (1), [[Microsoft OneDrive|Onedrive]] (1), cloud (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (2), navigate to (1), in the tab (1), switch to (1), go to (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -4136,7 +4139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), interface (1), require (1)
+> **Frameworks & Libraries:** teams (6), application (5), [[Microsoft Word|Word]] (4), [[Microsoft Word]] (3), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (2), open the (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (1)
@@ -4189,7 +4192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (1), default, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Outlook|Outlook]] (4), teams (1), application (1), [[Microsoft Word]] (1)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4197,7 +4200,7 @@ created: 2026-04-29
 
 ### 8. Explore Apps and Optional Features in Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Customize channel tabs in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980)
@@ -4280,8 +4283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), web (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (3), go to (2), open the (2), select the (1), in the tab (1)
-> **Code Keywords:** this. (2), switch (1), delete (1), let (1), this, (1)
 > **Env Vars:** pdf (4), https (1), http (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -4419,7 +4422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), this. (2), finally, (1), new. (1)
+> **Frameworks & Libraries:** teams (4), [[Search]] (4), application (3), [[Microsoft]] (2), [[Microsoft 365]] (1)
 > **UI Navigation:** in the sidebar (4), click on (4), go to (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** known as (1), is a  (1)
@@ -4431,7 +4434,7 @@ created: 2026-04-29
 
 ### 9. Search, Settings, and Customization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set your status message in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/set-your-status-message-in-teams?u=76281980)
@@ -4490,7 +4493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), while, (1), let (1)
+> **Frameworks & Libraries:** teams (3), [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (2), application (1)
 > **Definitions:** means that (4)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
@@ -4546,7 +4549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), return. (1), continue (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (15), [[Microsoft Word|Word]] (5), teams (3), hit (2), feature (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Speakers:** - [instructor] (1)
@@ -4614,8 +4617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), hit (3), teams (2), [[Windows]] (1), next (1)
 > **UI Navigation:** go to (5), click on (4)
-> **Code Keywords:** finally, (1), private (1), type. (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (2)
@@ -4696,7 +4699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), this, (1), continue (1)
+> **Frameworks & Libraries:** teams (8), next (4), web (2), [[Search]] (2), [[Windows]] (2)
 > **UI Navigation:** click on (1), go to (1), select the (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** find (1), make (1)
@@ -4774,7 +4777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), switch (1), finally, (1)
+> **Frameworks & Libraries:** teams (7), [[Zoom]] (2), application (1), next (1)
 > **UI Navigation:** in the sidebar (4), right-click (4)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** go back to (2), earlier in (1)
@@ -4786,7 +4789,7 @@ created: 2026-04-29
 
 ### 10. Managing Teams for Team Owners
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make a team from a template or an existing team
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980)
@@ -4903,7 +4906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), let (3), case, (1), default, (1), delete (1)
+> **Frameworks & Libraries:** teams (7), web (5), [[Microsoft Outlook|Outlook]] (3), [[SharePoint]] (2), next (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** open the (2), go to (2), select the (1)
 > **Exercise Files:** template (4)
@@ -4993,7 +4996,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), switch (4), public (2), this. (1)
+> **Frameworks & Libraries:** next (5), teams (2), web (1), [[Search]] (1), management (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** earlier in (1), go back to (1)
 > **UI Navigation:** go to (1)
@@ -5089,7 +5092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), private (4), public (2), this. (2), default, (1)
+> **Frameworks & Libraries:** teams (6), next (4), [[Privacy]] (2), web (2), management (2)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** scroll down (2), open the (1)
 > **Definitions:** is a  (1), means that (1)
@@ -5101,7 +5104,7 @@ created: 2026-04-29
 
 ### 11. Teams for Education: Manage Assignments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make and grade assignments in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980)
@@ -5226,7 +5229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), class. (2), continue (2), let (2), class, (1)
+> **Frameworks & Libraries:** teams (7), next (6), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Word]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** in the sidebar (2), click on (2), go to (1)
 > **Cross-References:** go back to (1)
@@ -5340,7 +5343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), new. (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Forms]] (4), teams (1), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1), click on (1), open the (1)
 > **Non-Speech:** (keyboard clicking) (3)
@@ -5431,7 +5434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), class. (2), let (2), class, (1), finally, (1)
+> **Frameworks & Libraries:** teams (2), [[Microsoft Excel|Excel]] (1), data (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** click on (3), go to (2)
 > **Cross-References:** go back to (2)
@@ -5442,7 +5445,7 @@ created: 2026-04-29
 
 ### 12. Accessibility Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make the Teams interface easier to see
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980)
@@ -5541,7 +5544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (1), private (1), finally, (1), interface (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), next (3), teams (2), feature (1), [[Windows]] (1)
 > **UI Navigation:** go to (3), open the (1), click on (1), switch to (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2), earlier in (2)
@@ -5601,6 +5604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Search]] (1), next (1), feature (1)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** earlier in (1)
@@ -5691,8 +5695,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Microsoft Word|Word]] (4), application (1), feature (1)
 > **UI Navigation:** open the (3), go to (1), scroll down (1), click on (1)
-> **Code Keywords:** interface (1), private (1), this, (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5789,17 +5793,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), next (2), web (1), [[Search]] (1)
 > **Definitions:** is a  (5), is an  (2)
 > **UI Navigation:** go to (4), click on (1), in the toolbar (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
 
 
 ### 13. Working with the Mobile App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the mobile app for iOS and Android
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980)
@@ -5920,7 +5924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), private (1), continue (1), interface (1)
+> **Frameworks & Libraries:** teams (9), [[Android]] (3), application (3), next (2), [[Microsoft Word|Word]] (2)
 > **Analogies:** just like (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** iphone (2)
@@ -5930,7 +5934,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more about Microsoft Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980)
@@ -5959,6 +5963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Microsoft Teams]] (3), [[Microsoft 365]] (3), web (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)

@@ -39,7 +39,7 @@ tags:
   - skill/data-analysis
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20Data%20Analysis%20for%20Healthcare.md)
@@ -58,52 +58,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Python data analysis in healthcare
-  - What you should know
-  - How to use the exercise files
+  - [Python data analysis in healthcare](#python-data-analysis-in-healthcare)
+  - [What you should know](#what-you-should-know)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Data Analysis for Healthcare**](#1-data-analysis-for-healthcare) (6 videos)
-  - Data analysis in healthcare
-  - Types of data in healthcare
-  - Sources of healthcare data
-  - Databases and storage for healthcare data
-  - Data analysis tools and technologies for healthcare data
-  - Healthcare data analytics use cases
+  - [Data analysis in healthcare](#data-analysis-in-healthcare)
+  - [Types of data in healthcare](#types-of-data-in-healthcare)
+  - [Sources of healthcare data](#sources-of-healthcare-data)
+  - [Databases and storage for healthcare data](#databases-and-storage-for-healthcare-data)
+  - [Data analysis tools and technologies for healthcare data](#data-analysis-tools-and-technologies-for-healthcare-data)
+  - [Healthcare data analytics use cases](#healthcare-data-analytics-use-cases)
 - [**2. Analyze Visit Data from an Outpatient Clinic Using Python**](#2-analyze-visit-data-from-an-outpatient-clinic-using-python) (11 videos)
-  - Explore patient visit demo dataset
-  - Save and load the patient visit demo dataset (different format)
-  - Demography analysis of the patient visit demo dataset: Part 1
-  - Demography analysis of the patient visit demo dataset: Part 2
-  - Trend analysis of patient visit demo dataset: Part 1
-  - Trend analysis of the patient visit demo dataset: Part 2
-  - Wait time analysis of the patient visit demo dataset: Part 1
-  - Wait time analysis of the patient visit demo dataset: Part 2
-  - Correlation analysis of the patient visit demo dataset
-  - Cost and insurance analysis of the patient visit demo dataset: Part 1
-  - Cost and insurance analysis of the patient visit demo dataset: Part 2
+  - [Explore patient visit demo dataset](#explore-patient-visit-demo-dataset)
+  - [Save and load the patient visit demo dataset (different format)](#save-and-load-the-patient-visit-demo-dataset-different-format)
+  - [Demography analysis of the patient visit demo dataset: Part 1](#demography-analysis-of-the-patient-visit-demo-dataset-part-1)
+  - [Demography analysis of the patient visit demo dataset: Part 2](#demography-analysis-of-the-patient-visit-demo-dataset-part-2)
+  - [Trend analysis of patient visit demo dataset: Part 1](#trend-analysis-of-patient-visit-demo-dataset-part-1)
+  - [Trend analysis of the patient visit demo dataset: Part 2](#trend-analysis-of-the-patient-visit-demo-dataset-part-2)
+  - [Wait time analysis of the patient visit demo dataset: Part 1](#wait-time-analysis-of-the-patient-visit-demo-dataset-part-1)
+  - [Wait time analysis of the patient visit demo dataset: Part 2](#wait-time-analysis-of-the-patient-visit-demo-dataset-part-2)
+  - [Correlation analysis of the patient visit demo dataset](#correlation-analysis-of-the-patient-visit-demo-dataset)
+  - [Cost and insurance analysis of the patient visit demo dataset: Part 1](#cost-and-insurance-analysis-of-the-patient-visit-demo-dataset-part-1)
+  - [Cost and insurance analysis of the patient visit demo dataset: Part 2](#cost-and-insurance-analysis-of-the-patient-visit-demo-dataset-part-2)
 - [**3. Medication Demand Forecasting Using Python**](#3-medication-demand-forecasting-using-python) (5 videos)
-  - Explore the pharmacy sales demo dataset
-  - Medication class analysis: Part 1
-  - Medication class analysis: Part 2
-  - Medication demand forecast using Prophet: Part 1
-  - Medication demand forecast using Prophet: Part 2
+  - [Explore the pharmacy sales demo dataset](#explore-the-pharmacy-sales-demo-dataset)
+  - [Medication class analysis: Part 1](#medication-class-analysis-part-1)
+  - [Medication class analysis: Part 2](#medication-class-analysis-part-2)
+  - [Medication demand forecast using Prophet: Part 1](#medication-demand-forecast-using-prophet-part-1)
+  - [Medication demand forecast using Prophet: Part 2](#medication-demand-forecast-using-prophet-part-2)
 - [**4. Patient Experience Analytics Using Python**](#4-patient-experience-analytics-using-python) (2 videos)
-  - Explore laboratory patient experience demo dataset with Plotly
-  - Sentiment analysis of patient experience reviews using TextBlob
+  - [Explore laboratory patient experience demo dataset with Plotly](#explore-laboratory-patient-experience-demo-dataset-with-plotly)
+  - [Sentiment analysis of patient experience reviews using TextBlob](#sentiment-analysis-of-patient-experience-reviews-using-textblob)
 - [**5. Public Health Facilities GeoSpatial Analysis Using Python**](#5-public-health-facilities-geospatial-analysis-using-python) (5 videos)
-  - Explore the public health facilities geolocation demo dataset using GeoPandas: Part 1
-  - Explore the public health facilities geolocation demo dataset using GeoPandas: Part 2
-  - Interactive map for public health facilities geolocation demo dataset using folium: Part 1
-  - Interactive map for public health facilities geolocation demo dataset using folium: Part 2
-  - Interactive map for public health facilities geolocation demo dataset using folium: Part 3
+  - [Explore the public health facilities geolocation demo dataset using GeoPandas: Part 1](#explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1)
+  - [Explore the public health facilities geolocation demo dataset using GeoPandas: Part 2](#explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-2)
+  - [Interactive map for public health facilities geolocation demo dataset using folium: Part 1](#interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1)
+  - [Interactive map for public health facilities geolocation demo dataset using folium: Part 2](#interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-2)
+  - [Interactive map for public health facilities geolocation demo dataset using folium: Part 3](#interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3)
 - [**6. Healthcare Data Wrangling Using Python**](#6-healthcare-data-wrangling-using-python) (2 videos)
-  - Practical data manipulation and wrangling using pandas: Part 1
-  - Practical data manipulation and wrangling using pandas: Part 2
+  - [Practical data manipulation and wrangling using pandas: Part 1](#practical-data-manipulation-and-wrangling-using-pandas-part-1)
+  - [Practical data manipulation and wrangling using pandas: Part 2](#practical-data-manipulation-and-wrangling-using-pandas-part-2)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Using Python to analyze your healthcare data
+  - [Using Python to analyze your healthcare data](#using-python-to-analyze-your-healthcare-data)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python data analysis in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980)
@@ -130,8 +130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3), [[Programming]] (2), [[Healthcare Industry]] (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - the (1)
 
 #### What you should know
@@ -147,8 +147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### How to use the exercise files
@@ -172,10 +172,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Exercise Files:** exercise files (4), exercise file (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** from. (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Tools:** colab (1)
 > **Speakers:** - [instructor] (1)
@@ -183,7 +183,7 @@ created: 2026-04-29
 
 ### 1. Data Analysis for Healthcare
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data analysis in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980)
@@ -212,9 +212,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Forecasting]] (1), [[Healthcare Industry]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - as (1)
 
@@ -281,8 +281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Unstructured Data]] (1)
 > **Analogies:** for example (4), such as (3)
-> **Code Keywords:** let (1), finally, (1), from. (1)
 > **Env Vars:** mri (1), dna (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -324,7 +324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), self (1)
+> **Frameworks & Libraries:** data (14), [[Public Health]] (2), [[Healthcare Industry]] (1), [[Databases]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Databases and storage for healthcare data
@@ -368,9 +368,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Databases]] (5), cloud (3), database (3), [[Security]] (2)
 > **Env Vars:** nosql (1), hdd (1), ssd (1)
 > **CLI Commands:** mysql (1), make (1)
-> **Code Keywords:** type, (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
@@ -415,9 +415,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), cloud (3), [[Python (Programming Language)|Python]] (2), [[Analytics]] (2), [[Healthcare Analytics]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** spss (1), sas (1)
-> **Code Keywords:** this. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -440,14 +440,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** [[Analytics]] (5), data (3), management (3), [[Public Health]] (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Analyze Visit Data from an Outpatient Clinic Using Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore patient visit demo dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980)
@@ -582,8 +582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** df_visit (10), demo_hospital_outpatient_data (1), read_csv (1), column_mapping (1), registration_minutes (1)
-> **Code Keywords:** let (11), continue (1)
 > **CLI Commands:** make (3), python (1), find (1)
 > **File Paths:** demo_hospital_outpatient_data.csv (1)
 > **UI Navigation:** go to (1)
@@ -720,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this, (2), continue (1), case, (1), module (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3), next (1), [[Metadata]] (1)
 > **Code Identifiers:** df_visit (5), demo_hospital_outpatient_data_clean (4), zipped_file_name (2), to_csv (1), read_csv (1)
 > **Env Vars:** csv (11), spss (3), xlsx (1), zip_deflated (1), sav (1)
 > **Versions:** 72.85 (1), 20.47 (1)
@@ -844,7 +844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (1), type. (1), this. (1)
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** df_visit (3), visit_gender (3), demo_hospital_outpatient_data_clean (1), value_counts (1)
 > **Definitions:** is a  (3), means that (1)
 > **Exercise Files:** zip file (1), exercise files (1)
@@ -1020,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), from, (3), function (2), this, (2), this. (1)
+> **Frameworks & Libraries:** data (4)
 > **Code Identifiers:** df_visit (4), value_counts (2), age_distribution (1), postcode_counts (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1205,7 +1205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), type, (1), type. (1), this, (1), this ( (1)
+> **Frameworks & Libraries:** data (20), [[Pandas (Software)|Pandas]] (3), next (1)
 > **Code Identifiers:** df_visit (5), to_datetime (1), df_resampled (1), df_resampled_year (1), df_resampled_month (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -1316,7 +1316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), while. (1), this. (1)
+> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** monthly_ticks (1)
 > **Speakers:** - [lecturer] (1)
@@ -1402,7 +1402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), this. (1)
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** df_visit (8), demo_hospital_outpatient_data_clean (1), read_csv (1), average_total_time_in_hours (1), max_time_department (1)
 > **Definitions:** is an  (3), means that (1)
 > **CLI Commands:** find (1)
@@ -1490,7 +1490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (8), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Python (Programming Language)|Python]] (2), data (1)
 > **Code Identifiers:** wait_time_hours (4), department_wait_time_statistics (3), wait_time_column (3), wait_time_minutes (2), df_visit (2)
 > **CLI Commands:** python (2)
 > **Versions:** 0.08 (1), 0.56 (1)
@@ -1638,7 +1638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (1)
+> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (3), just like (1)
@@ -1776,8 +1776,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (2), management (1)
 > **Code Identifiers:** df_visit (8), annual_total_cost (3), read_csv (1), avg_cost_by_gender (1), avg_cost_by_insurance (1)
-> **Code Keywords:** let (13), this. (2)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Exercise Files:** exercise file (1)
@@ -1844,8 +1844,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Code Identifiers:** df_visit (4), has_insurance_false (2), has_insurance_true (2), reset_index (1), set_index (1)
-> **Code Keywords:** let (4)
 > **Cross-References:** previous video (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1853,7 +1853,7 @@ created: 2026-04-29
 
 ### 3. Medication Demand Forecasting Using Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the pharmacy sales demo dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980)
@@ -1986,7 +1986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (4), class. (1), function (1), class, (1)
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (3), [[Statistics]] (3), generic (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** df_pharmacy_sales (3), read_csv (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2122,7 +2122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), class, (3), class. (2), this, (1), for. (1)
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), generic (1)
 > **Code Identifiers:** df_pharmacy_sales (4), df_top_med_classes (4), demo_pharmacy_sales (1), read_csv (1), top_number (1)
 > **Definitions:** is a  (5), means that (1)
 > **CLI Commands:** python (1)
@@ -2258,7 +2258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (3), class, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), cloud (11), data (4)
 > **Code Identifiers:** med_classes (3), top_med_classes (2), top_number (1), df_pharmacy_sales (1), med_names (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
@@ -2375,8 +2375,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Forecasting]] (2), [[Pandas (Software)|Pandas]] (2), next (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** df_prophet (8), df_pharmacy_sales (3), demo_pharmacy_sales_data (1), read_csv (1), reset_index (1)
-> **Code Keywords:** let (6), type. (2), class. (1), class, (1), function (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the next (1)
@@ -2462,8 +2462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), data (2), [[Forecasting]] (1)
 > **Code Identifiers:** med_class (6), df_filtered (5), med_name (5), medication_quantity_forecaster (2), to_datetime (1)
-> **Code Keywords:** function (7), let (2), elif (1), raise (1)
 > **Cross-References:** previous video (3)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -2473,7 +2473,7 @@ created: 2026-04-29
 
 ### 4. Patient Experience Analytics Using Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore laboratory patient experience demo dataset with Plotly
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980)
@@ -2594,7 +2594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (2), type, (1), function (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** df_lab (6), demo_patient_experience_data (1), read_csv (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1), python (1)
@@ -2730,7 +2730,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), lambda (3), function (2)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** df_experience (6), read_csv (1), sentiment_counts (1)
 > **Versions:** 0.58 (2), 0.765 (1)
 > **Definitions:** is a  (2)
@@ -2741,7 +2741,7 @@ created: 2026-04-29
 
 ### 5. Public Health Facilities GeoSpatial Analysis Using Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the public health facilities geolocation demo dataset using GeoPandas: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980)
@@ -2844,7 +2844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (3), public (2)
+> **Frameworks & Libraries:** data (9), [[Public Health]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** df_geo (5), read_csv (1), value_counts (1), point_from_xy (1)
 > **Analogies:** for example (2), it's like (1), just like (1)
 > **CLI Commands:** make (2)
@@ -2952,7 +2952,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1)
 > **Versions:** 0.8 (2), 0.10 (1), 0.1 (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
@@ -3057,7 +3056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type, (3), interface (2), type. (2), public (1)
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Public Health]] (1)
 > **Code Identifiers:** df_geo (6), read_csv (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** python (2), make (1)
@@ -3133,7 +3132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (2), this, (2), function (2), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** df_geo (4), filtered_df (2), facility_type (2), facility_types_to_visualize (1), facility_type_to_visualize (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)
@@ -3214,8 +3213,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[HTML]] (2), [[Public Health]] (1), data (1)
 > **Code Identifiers:** df_geo (3), marker_cluster (3), heat_data (2), add_to (2), facility_heatmap (1)
-> **Code Keywords:** let (4), public (1), this. (1), type. (1)
 > **File Paths:** facility_heatmap.html (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** html (1)
@@ -3226,7 +3225,7 @@ created: 2026-04-29
 
 ### 6. Healthcare Data Wrangling Using Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practical data manipulation and wrangling using pandas: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-1?u=76281980)
@@ -3403,7 +3402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), lambda (3), class. (2), this. (1)
+> **Frameworks & Libraries:** data (14), [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** df_med (8), med_class (2), read_csv (1)
 > **Definitions:** is a  (8), is called (1), means that (1), is an  (1)
 > **Versions:** 5.4 (2)
@@ -3548,7 +3547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2), class. (1), this, (1)
+> **Frameworks & Libraries:** data (8)
 > **Code Identifiers:** df_med (6), to_csv (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
@@ -3560,7 +3559,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Python to analyze your healthcare data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980)
@@ -3585,6 +3584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), ai (3), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - this (1)

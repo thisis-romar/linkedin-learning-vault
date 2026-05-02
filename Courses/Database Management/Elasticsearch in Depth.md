@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/elasticsearch
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Elasticsearch%20in%20Depth.md)
@@ -48,40 +48,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Much more than full-text searches
+  - [Much more than full-text searches](#much-more-than-full-text-searches)
 - [**1. Getting Started**](#1-getting-started) (6 videos)
-  - The Elasticsearch stack
-  - Installing Elasticsearch and Kibana locally
-  - Executing basic CRUD-like data operations
-  - Using Elastic SQL
-  - Basic Elastic schema and data design
-  - Document database schema topics
+  - [The Elasticsearch stack](#the-elasticsearch-stack)
+  - [Installing Elasticsearch and Kibana locally](#installing-elasticsearch-and-kibana-locally)
+  - [Executing basic CRUD-like data operations](#executing-basic-crud-like-data-operations)
+  - [Using Elastic SQL](#using-elastic-sql)
+  - [Basic Elastic schema and data design](#basic-elastic-schema-and-data-design)
+  - [Document database schema topics](#document-database-schema-topics)
 - [**2. Specialized Data Type and Query Support**](#2-specialized-data-type-and-query-support) (6 videos)
-  - Finding objects with GeoShape
-  - Storing data and searching complex nested data
-  - Creating parent/child relationships between documents
-  - Combining multiple fields to simplify searching
-  - Using Elasticsearch pipelines to enhance data
-  - Storing data with varying structures using flatten
+  - [Finding objects with GeoShape](#finding-objects-with-geoshape)
+  - [Storing data and searching complex nested data](#storing-data-and-searching-complex-nested-data)
+  - [Creating parent/child relationships between documents](#creating-parentchild-relationships-between-documents)
+  - [Combining multiple fields to simplify searching](#combining-multiple-fields-to-simplify-searching)
+  - [Using Elasticsearch pipelines to enhance data](#using-elasticsearch-pipelines-to-enhance-data)
+  - [Storing data with varying structures using flatten](#storing-data-with-varying-structures-using-flatten)
 - [**3. Advanced Queries**](#3-advanced-queries) (6 videos)
-  - Filtering, matching, and scoring explained
-  - Retrieving large result sets using the Scroll API
-  - Performing aggregations
-  - Indexing templates to define index properties
-  - Implementing expiring data with lifecycle management
-  - Working with index aliases
+  - [Filtering, matching, and scoring explained](#filtering-matching-and-scoring-explained)
+  - [Retrieving large result sets using the Scroll API](#retrieving-large-result-sets-using-the-scroll-api)
+  - [Performing aggregations](#performing-aggregations)
+  - [Indexing templates to define index properties](#indexing-templates-to-define-index-properties)
+  - [Implementing expiring data with lifecycle management](#implementing-expiring-data-with-lifecycle-management)
+  - [Working with index aliases](#working-with-index-aliases)
 - [**4. Modifying Data**](#4-modifying-data) (5 videos)
-  - Updating documents using scripting
-  - Saving scripts for reuse
-  - Updating by query
-  - Using document versioning
-  - Managing long-running operations using Task API
+  - [Updating documents using scripting](#updating-documents-using-scripting)
+  - [Saving scripts for reuse](#saving-scripts-for-reuse)
+  - [Updating by query](#updating-by-query)
+  - [Using document versioning](#using-document-versioning)
+  - [Managing long-running operations using Task API](#managing-long-running-operations-using-task-api)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Much more than full-text searches
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980)
@@ -104,13 +104,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Elasticsearch]] (3), [[Search]] (2), database (1), [[Big Data]] (1), data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Elasticsearch stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980)
@@ -197,8 +198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Elasticsearch]] (10), node (5), database (4), web (3)
 > **Definitions:** is a  (9), is an  (1), is called (1)
-> **Code Keywords:** interface (4), let (2), case, (1), finally, (1)
 > **CLI Commands:** node (5), apache (1)
 > **Env Vars:** json (1), api (1), sql (1), hdp (1)
 > **Warnings:** note that (3)
@@ -294,7 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1), from. (1), this, (1), switch (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (8), application (3), [[Windows]] (2), [[Java]] (2), data (2)
 > **CLI Commands:** cd (2), python (1), curl (1), find (1)
 > **UI Navigation:** navigate to (3)
 > **Warnings:** note that (2), warning (1)
@@ -464,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (6), this, (4), interface (1), type. (1)
+> **Frameworks & Libraries:** data (8), [[Search]] (5), [[Elasticsearch]] (3), [[JSON]] (3), api (2)
 > **Env Vars:** url (6), crud (3), json (3), http (2), api (2)
 > **API Endpoints:** put  (2), get  (2), delete  (1), post  (1)
 > **CLI Commands:** find (2), curl (1)
@@ -544,8 +545,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (10), data (3), [[JSON]] (3), database (2), [[Search]] (2)
 > **Env Vars:** sql (10), dsl (6), json (3)
-> **Code Keywords:** let (6), interface (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
@@ -681,7 +682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (4), this, (1), while. (1)
+> **Frameworks & Libraries:** data (20), [[Search]] (7), database (4), [[Elasticsearch]] (2), api (2)
 > **Definitions:** is an  (3), is a  (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2)
@@ -800,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (1), throw (1), delete (1)
+> **Frameworks & Libraries:** data (10), [[Search]] (5), database (4), [[Databases]] (4), [[Relational Databases]] (2)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Code Identifiers:** nosql (1), newsql (1)
 > **Best Practices:** rule of thumb (2)
@@ -811,7 +812,7 @@ created: 2026-04-29
 
 ### 2. Specialized Data Type and Query Support
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding objects with GeoShape
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/finding-objects-with-geoshape?u=76281980)
@@ -912,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), interface (2), finally, (1)
+> **Frameworks & Libraries:** data (3), next (2), database (2), career (1), [[Elasticsearch]] (1)
 > **Code Identifiers:** geo_point (1), attraction_type (1), match_all (1), geo_distance (1), distance_feature (1)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** navigate to (1)
@@ -998,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), type. (1), delete (1)
+> **Frameworks & Libraries:** [[Search]] (10), [[JSON]] (1), teams (1)
 > **Env Vars:** json (1)
 > **UI Navigation:** scroll up (1)
 > **Definitions:** is a  (1)
@@ -1107,7 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** feature (3), data (3), database (2), [[Routing]] (2), [[Elasticsearch]] (1)
 > **Code Identifiers:** join_field (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -1193,7 +1194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), case. (1)
+> **Frameworks & Libraries:** data (8), feature (4), [[Search]] (3), next (2), [[JSON]] (1)
 > **Env Vars:** url (3), json (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
@@ -1309,7 +1310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), override (2), this. (1), default, (1)
+> **Frameworks & Libraries:** data (8), [[Elasticsearch]] (2), feature (1), database (1), web (1)
 > **Code Identifiers:** bowled_over (5), add_index_time (2), conditional_pipeline (1)
 > **Definitions:** known as (3), is a  (1)
 > **API Endpoints:** put  (2)
@@ -1416,7 +1417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (4), from, (3), break. (1), try. (1)
+> **Frameworks & Libraries:** data (5), [[Search]] (2), feature (1), [[Metadata]] (1)
 > **Definitions:** is a  (3), defined as (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (2)
@@ -1425,7 +1426,7 @@ created: 2026-04-29
 
 ### 3. Advanced Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering, matching, and scoring explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/filtering-matching-and-scoring-explained?u=76281980)
@@ -1550,7 +1551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (4), this, (1), for. (1), match. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), data (5), [[Search]] (4)
 > **Definitions:** is a  (7), known as (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** bowled_over_artist_guild (1)
@@ -1634,8 +1635,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Search]] (4), feature (2), next (1)
 > **Env Vars:** pit (12)
-> **Code Keywords:** delete (3), let (2), case. (1), case, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - [instructor] (1)
@@ -1715,7 +1716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), this. (1), function (1)
+> **Frameworks & Libraries:** data (10), game (2), teams (2), [[Search]] (2), [[SQL]] (2)
 > **Env Vars:** sql (2), dsl (1)
 > **Code Identifiers:** bowled_over_team_scores (1)
 > **Definitions:** is called (1)
@@ -1796,7 +1797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (3), this, (1)
+> **Frameworks & Libraries:** data (9), database (1), [[Search]] (1), application (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** template (2)
 > **Analogies:** just like (1)
@@ -1887,8 +1888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), management (3), next (2), feature (1), [[Hardware]] (1)
 > **Env Vars:** ilm (8), ttl (4)
-> **Code Keywords:** delete (3), let (2), raise (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** template (2)
 > **CLI Commands:** cat (1)
@@ -1973,7 +1974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), this. (2), this, (1)
+> **Frameworks & Libraries:** data (5), [[Elasticsearch]] (2), api (2), [[Search]] (2), management (1)
 > **CLI Commands:** find (1), go run (1), make (1)
 > **Env Vars:** api (2)
 > **Exercise Files:** template (1)
@@ -1983,7 +1984,7 @@ created: 2026-04-29
 
 ### 4. Modifying Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Updating documents using scripting
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-documents-using-scripting?u=76281980)
@@ -2108,7 +2109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (3), break, (1)
+> **Frameworks & Libraries:** [[Scripting]] (2), game (2), [[Search]] (1), data (1), [[Elasticsearch]] (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -2172,7 +2173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (2), [[Scripting]] (2), application (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2253,7 +2254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1)
+> **Frameworks & Libraries:** feature (3), [[Elasticsearch]] (1), game (1), [[Search]] (1), data (1)
 > **Code Identifiers:** bowled_over_games (1)
 > **Env Vars:** dsl (1)
 > **Versions:** 9.25 (1)
@@ -2364,7 +2365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), case. (1), match. (1)
+> **Frameworks & Libraries:** data (3), feature (1), [[Forms]] (1), [[Databases]] (1), next (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** oltp (1), acid (1)
@@ -2438,7 +2439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (2), case, (1)
+> **Frameworks & Libraries:** data (2), feature (1), [[Search]] (1), database (1), [[Elasticsearch]] (1)
 > **Analogies:** imagine (2), for example (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2446,7 +2447,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/next-steps?u=76281980)

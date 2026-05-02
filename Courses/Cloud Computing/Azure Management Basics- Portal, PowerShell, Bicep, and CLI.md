@@ -31,7 +31,7 @@ tags:
   - skill/cloud-administration
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Management%20Basics-%20Portal%2C%20PowerShell%2C%20Bicep%2C%20and%20CLI.md)
@@ -50,40 +50,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Get started with Azure tools
+  - [Get started with Azure tools](#get-started-with-azure-tools)
 - [**1. Getting Started with the Azure Portal**](#1-getting-started-with-the-azure-portal) (6 videos)
-  - Understand the Azure portal
-  - The layout of Microsoft Azure portal
-  - Create and use a dashboard in Azure
-  - Create and deploy a resource in the Azure portal
-  - Work with resources in the Azure portal
-  - Use the Azure remote app
+  - [Understand the Azure portal](#understand-the-azure-portal)
+  - [The layout of Microsoft Azure portal](#the-layout-of-microsoft-azure-portal)
+  - [Create and use a dashboard in Azure](#create-and-use-a-dashboard-in-azure)
+  - [Create and deploy a resource in the Azure portal](#create-and-deploy-a-resource-in-the-azure-portal)
+  - [Work with resources in the Azure portal](#work-with-resources-in-the-azure-portal)
+  - [Use the Azure remote app](#use-the-azure-remote-app)
 - [**2. Getting Started with the Azure CLI**](#2-getting-started-with-the-azure-cli) (4 videos)
-  - Understand the Azure CLI
-  - Get help with the Azure CLI
-  - Deploy resources with the Azure CLI
-  - Use Azure CLI interactive mode
+  - [Understand the Azure CLI](#understand-the-azure-cli)
+  - [Get help with the Azure CLI](#get-help-with-the-azure-cli)
+  - [Deploy resources with the Azure CLI](#deploy-resources-with-the-azure-cli)
+  - [Use Azure CLI interactive mode](#use-azure-cli-interactive-mode)
 - [**3. Getting Started with Azure PowerShell**](#3-getting-started-with-azure-powershell) (5 videos)
-  - Understand Azure PowerShell
-  - Use Azure PowerShell
-  - Get help in Azure PowerShell
-  - Deploy a resource in Azure PowerShell
-  - Configure resources in Azure PowerShell
+  - [Understand Azure PowerShell](#understand-azure-powershell)
+  - [Use Azure PowerShell](#use-azure-powershell)
+  - [Get help in Azure PowerShell](#get-help-in-azure-powershell)
+  - [Deploy a resource in Azure PowerShell](#deploy-a-resource-in-azure-powershell)
+  - [Configure resources in Azure PowerShell](#configure-resources-in-azure-powershell)
 - [**4. Getting Started with JSON Templates**](#4-getting-started-with-json-templates) (4 videos)
-  - Understand JSON templates
-  - Find the appropriate JSON template
-  - Deploy a resource with a JSON template
-  - Redeploy a resource with a JSON template
+  - [Understand JSON templates](#understand-json-templates)
+  - [Find the appropriate JSON template](#find-the-appropriate-json-template)
+  - [Deploy a resource with a JSON template](#deploy-a-resource-with-a-json-template)
+  - [Redeploy a resource with a JSON template](#redeploy-a-resource-with-a-json-template)
 - [**5. Getting Started with Bicep**](#5-getting-started-with-bicep) (3 videos)
-  - Understand Azure Bicep
-  - Introduction to infrastructure as code
-  - Deploy a resource with Azure Bicep
+  - [Understand Azure Bicep](#understand-azure-bicep)
+  - [Introduction to infrastructure as code](#introduction-to-infrastructure-as-code)
+  - [Deploy a resource with Azure Bicep](#deploy-a-resource-with-azure-bicep)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with Azure tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Azure]] (2), cloud (2), [[CLI]] (1), [[Powershell]] (1)
 > **Env Vars:** cli (1), arm (1)
 > **Tools:** powershell (1)
 > **Speakers:** - do (1)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with the Azure Portal
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Azure portal
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980)
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), new, (1)
+> **Frameworks & Libraries:** feature (3), next (2), [[Microsoft Azure|Azure]] (1), [[Virtual Machines]] (1), web (1)
 > **Tools:** azure portal (1), command line (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -268,7 +268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), this, (2), finally, (2)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (11), [[Microsoft Azure|Azure]] (3), cloud (3), [[Google]] (1), hit (1)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** make (2)
 > **URLs:** [azure.com](https://azure.com) (1)
@@ -390,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), delete (1), else. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (7), [[Microsoft Azure|Azure]] (3), [[Microsoft]] (1), [[SQL]] (1), [[Databases]] (1)
 > **CLI Commands:** make (5), find (3)
 > **UI Navigation:** click on (5), scroll down (3)
 > **Tools:** azure portal (2)
@@ -535,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), this. (2), this, (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), next (3), web (2), [[Virtual Machines]] (1), hit (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Definitions:** is a  (2)
@@ -703,7 +703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), interface (6), this, (4), let (4), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (6), [[Windows]] (2), database (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Entra ID|Entra id]] (1)
 > **UI Navigation:** click on (5), go to (4)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (2)
@@ -805,7 +805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), interface (2), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Azure]] (5), cloud (3), [[Microsoft]] (2), [[Google]] (1)
 > **UI Navigation:** scroll down (2), go to (1), scroll up (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** command line (1), powershell (1)
@@ -816,7 +816,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with the Azure CLI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Azure CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980)
@@ -933,7 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (3), this, (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[CLI]] (5), cross-platform (3), [[Microsoft Azure]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** az (6), find (1)
 > **Env Vars:** cli (5)
 > **Tools:** command line (2)
@@ -1057,7 +1057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (6), let (5), module (1), function (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[CLI]] (12), cloud (3), [[Microsoft Azure]] (2), hit (2)
 > **CLI Commands:** az (8), find (4), mysql (2)
 > **Env Vars:** cli (12)
 > **UI Navigation:** scroll up (2), go to (1), click on (1)
@@ -1249,7 +1249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (8), let (7), delete (5), this. (2), case, (2)
+> **Frameworks & Libraries:** hit (7), [[Microsoft Azure|Azure]] (5), [[CLI]] (4), power (2), cloud (1)
 > **CLI Commands:** az (5)
 > **Env Vars:** cli (4), mac (1)
 > **UI Navigation:** scroll up (2), go to (1), click on (1)
@@ -1447,7 +1447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), delete (3), return. (3), return, (2)
+> **Frameworks & Libraries:** hit (34), [[Microsoft Azure|Azure]] (6), [[CLI]] (5), prompt (3), cloud (1)
 > **Env Vars:** cli (5), azvm (3), azcli (1), vmazcli (1)
 > **CLI Commands:** make (5), az (4)
 > **UI Navigation:** scroll up (2), go to (1)
@@ -1459,7 +1459,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Azure PowerShell
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Azure PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980)
@@ -1536,8 +1536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Microsoft Azure]] (4), [[Scripting]] (4), [[Microsoft]] (1), [[Windows]] (1)
 > **Tools:** powershell (12), command line (1)
-> **Code Keywords:** module (2), this. (2), let (2), interface (1), finally, (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** az (1)
 > **Speakers:** - [instructor] (1)
@@ -1619,9 +1619,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (8), hit (7), cloud (2), [[Microsoft Azure]] (2), [[Microsoft]] (1)
 > **Tools:** powershell (8)
 > **CLI Commands:** az (4), find (1)
-> **Code Keywords:** this, (1), new, (1), return. (1), return, (1), let (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
@@ -1731,7 +1731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (4), new. (4), return. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), hit (4), [[Powershell]] (3), [[Microsoft Azure|Azure]] (2), cloud (1)
 > **Tools:** powershell (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -1889,7 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), default, (2), this. (2), this, (1), return, (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft Azure]] (4), hit (4), cloud (1), prompt (1)
 > **Tools:** powershell (4), command line (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2092,7 +2092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), return, (3), case, (3), for, (2)
+> **Frameworks & Libraries:** hit (9), [[Powershell]] (6), [[Virtual Machines]] (4), cloud (1), data (1)
 > **Tools:** powershell (6)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), az (1)
@@ -2103,7 +2103,7 @@ created: 2026-04-29
 
 ### 4. Getting Started with JSON Templates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand JSON templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980)
@@ -2190,8 +2190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (8), [[Microsoft Azure]] (5), database (4), web (3), [[SQL]] (2)
 > **Env Vars:** json (8), arm (4), sql (2), cli (1)
-> **Code Keywords:** let (5), this. (2), finally, (2), this, (1), for. (1)
 > **Exercise Files:** template (8)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Prerequisites:** set up (1)
@@ -2278,7 +2278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), for. (1), this, (1), public (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Search]] (6), [[Microsoft Azure|Azure]] (4), [[SQL]] (3), web (2)
 > **UI Navigation:** click on (5), scroll up (1), go to (1), scroll down (1)
 > **Tools:** github (7)
 > **Env Vars:** sql (3), tde (1)
@@ -2384,8 +2384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure]] (2), [[Windows]] (1), [[Microsoft Azure|Azure]] (1), hit (1), prompt (1)
 > **Exercise Files:** template (16)
-> **Code Keywords:** this, (3), public (3), let (2), this. (2), interface (1)
 > **UI Navigation:** go to (4), click on (3), scroll down (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** arm (2)
@@ -2510,8 +2510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Azure]] (1), [[Search]] (1), next (1)
 > **Exercise Files:** template (16)
-> **Code Keywords:** let (6), this. (2)
 > **UI Navigation:** go to (4), click on (2), scroll down (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** url (1), arm (1)
@@ -2522,7 +2522,7 @@ created: 2026-04-29
 
 ### 5. Getting Started with Bicep
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Azure Bicep
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980)
@@ -2585,8 +2585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), management (3), [[Virtual Machines]] (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (2), this. (1), module (1), this, (1)
 > **Definitions:** means that (2), known as (1)
 > **Env Vars:** dsl (1)
 > **Speakers:** - [narrator] (1)
@@ -2662,7 +2662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), this: (2), this. (2), let (2), case, (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (2), feature (2), cloud (1), web (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** cli (1)
 > **Tools:** powershell (1)
@@ -2787,7 +2787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), this. (4), let (2), case, (2), else. (2)
+> **Frameworks & Libraries:** hit (3), [[Microsoft Azure]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), power (1), dns (1)
 > **Code Identifiers:** adminusername (3), publicip (1), publicipallocationmethod (1)
 > **CLI Commands:** make (4)
 > **Tools:** command line (2)
@@ -2799,7 +2799,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980)
@@ -2820,6 +2820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure]] (1), [[LinkedIn]] (1)
 > **Env Vars:** arm (2)
 > **Speakers:** - with (1)
 

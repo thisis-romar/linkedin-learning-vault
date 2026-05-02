@@ -36,7 +36,7 @@ tags:
   - skill/package-management
   - skill/npm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20npm-%20A%20Package%20Manager.md)
@@ -55,36 +55,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learning npm
-  - What you should know
-  - Using GitHub Codespaces with this course
+  - [Learning npm](#learning-npm)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Definition and Installation**](#1-definition-and-installation) (2 videos)
-  - Defining a package and npm
-  - Installing Node and npm
+  - [Defining a package and npm](#defining-a-package-and-npm)
+  - [Installing Node and npm](#installing-node-and-npm)
 - [**2. Getting Started with npm**](#2-getting-started-with-npm) (7 videos)
-  - Initializing a package.json file
-  - Adding node packages
-  - Managing global directory
-  - Updating a dependency
-  - Removing a dependency
-  - Semantic versioning
-  - Introduction to package-lock.json
+  - [Initializing a package.json file](#initializing-a-packagejson-file)
+  - [Adding node packages](#adding-node-packages)
+  - [Managing global directory](#managing-global-directory)
+  - [Updating a dependency](#updating-a-dependency)
+  - [Removing a dependency](#removing-a-dependency)
+  - [Semantic versioning](#semantic-versioning)
+  - [Introduction to package-lock.json](#introduction-to-package-lockjson)
 - [**3. Publishing Your Package**](#3-publishing-your-package) (3 videos)
-  - Publishing an unscoped package
-  - Publishing a scoped package
-  - Publishing a private package
+  - [Publishing an unscoped package](#publishing-an-unscoped-package)
+  - [Publishing a scoped package](#publishing-a-scoped-package)
+  - [Publishing a private package](#publishing-a-private-package)
 - [**4. Advanced Subjects**](#4-advanced-subjects) (5 videos)
-  - Working with your npm cache
-  - Running an npm audit
-  - Scripting in package.json
-  - Introduction to npx
-  - Alternatives to npm
+  - [Working with your npm cache](#working-with-your-npm-cache)
+  - [Running an npm audit](#running-an-npm-audit)
+  - [Scripting in package.json](#scripting-in-packagejson)
+  - [Introduction to npx](#introduction-to-npx)
+  - [Alternatives to npm](#alternatives-to-npm)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Furthering your npm journey
+  - [Furthering your npm journey](#furthering-your-npm-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning npm
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980)
@@ -105,9 +105,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (4), node (2), [[JavaScript]] (1), next (1), [[GitHub]] (1)
 > **Env Vars:** npm (4), mpm (3)
 > **CLI Commands:** npm (4), node (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** such as (2)
 > **Tools:** github (1)
 > **Speakers:** - if (1)
@@ -125,6 +125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (1), [[Node.js]] (1), [[JavaScript]] (1)
 > **CLI Commands:** npm (1), node (1)
 > **File Paths:** node.js (1)
 > **Definitions:** is an  (1)
@@ -263,7 +264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), open the (1), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -275,7 +276,7 @@ created: 2026-04-29
 
 ### 1. Definition and Installation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a package and npm
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980)
@@ -318,10 +319,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Node.js]] (2), [[npm]] (2), [[Search]] (2), css (2)
 > **Prerequisites:** install (6)
 > **CLI Commands:** node (2), npm (2), find (1)
 > **File Paths:** node.js (2), package.json (1)
-> **Code Keywords:** function (2), module (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **URLs:** [npmjs.com](https://npmjs.com) (1)
@@ -356,19 +357,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (3), [[Node.js]] (1), [[Windows]] (1), [[Linux]] (1), node (1)
 > **CLI Commands:** npm (3), node (2), find (2), make (1)
 > **Env Vars:** npm (3), lts (2)
 > **UI Navigation:** go to (3)
 > **Exercise Files:** download the (2), source code (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** let (1), this, (1)
 > **File Paths:** node.js (1)
 > **Code Identifiers:** macos (1)
 
 
 ### 2. Getting Started with npm
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Initializing a package.json file
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980)
@@ -443,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), this. (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[npm]] (1), [[Git]] (1)
 > **Tools:** terminal (3)
 > **Prerequisites:** install (2), set up (1)
 > **CLI Commands:** npm (1), git (1)
@@ -495,8 +496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (3), express (2), [[CLI]] (2), [[JSON]] (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** install (7)
-> **Code Keywords:** let (3), case, (2)
 > **CLI Commands:** npm (3)
 > **Env Vars:** npm (1), es6 (1)
 > **Tools:** terminal (2)
@@ -549,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), continue (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), application (3), [[CLI]] (1), [[npm]] (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** npx (2), npm (1), sudo (1)
 > **Env Vars:** eacces (2), cli (1)
@@ -615,8 +616,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (4), [[ESLint]] (3), [[JSON]] (1)
 > **Prerequisites:** install (15)
-> **Code Keywords:** let (5), case, (2), this, (1), this. (1)
 > **Versions:** 8.32 (2), version 5 (1), 2.0 (1), version 8 (1), 5.2 (1)
 > **CLI Commands:** npm (4), find (1)
 > **File Paths:** package.json (1)
@@ -651,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[npm]] (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** npm (1)
 > **Speakers:** - [instructor] (1)
@@ -695,10 +696,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (3), [[JSON]] (1), application (1)
 > **Versions:** 4.16 (2), version 4 (1), 16.3 (1), 4.25.4 (1), version 5 (1)
 > **Definitions:** means that (3), is a  (2), in other words (2)
 > **Prerequisites:** install (6)
-> **Code Keywords:** let (2), finally, (1), self (1)
 > **Env Vars:** mpm (2), json (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** go to (1)
@@ -745,10 +746,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (9), [[npm]] (5), application (1), express (1)
 > **File Paths:** package-lock.json (7), package.json (2)
 > **CLI Commands:** npm (5), make (1)
 > **Prerequisites:** install (6)
-> **Code Keywords:** pass (2), let (1), delete (1)
 > **Versions:** 4.15.4 (2), 4.25.3 (2)
 > **Cross-References:** in the last (1), go back to (1)
 > **Analogies:** imagine (1)
@@ -757,7 +758,7 @@ created: 2026-04-29
 
 ### 3. Publishing Your Package
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Publishing an unscoped package
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980)
@@ -868,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), case, (3), let (2), private (2), default. (1)
+> **Frameworks & Libraries:** [[npm]] (6), [[GitHub]] (2), web (1)
 > **CLI Commands:** npm (6), make (2), find (1)
 > **Tools:** github (2), visual studio (1)
 > **Prerequisites:** install (3)
@@ -986,7 +987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), let (5), private (3), super (2), case, (1)
+> **Frameworks & Libraries:** [[npm]] (12), [[JSON]] (5), [[Angular]] (3), express (2), [[CLI]] (1)
 > **CLI Commands:** npm (12), make (2)
 > **File Paths:** npm.js (6), package.json (4), package-lock.json (1)
 > **Prerequisites:** install (4), set up (2)
@@ -1040,7 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), let (1), this. (1), this, (1), default. (1)
+> **Frameworks & Libraries:** [[npm]] (5), [[JSON]] (2)
 > **CLI Commands:** npm (5), make (2)
 > **File Paths:** package.json (2), npm.js (2)
 > **Cross-References:** previous video (2), go back to (1)
@@ -1049,7 +1050,7 @@ created: 2026-04-29
 
 ### 4. Advanced Subjects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with your npm cache
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/working-with-your-npm-cache?u=76281980)
@@ -1106,8 +1107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (8), [[Troubleshooting]] (1)
 > **CLI Commands:** npm (8), make (3), find (1)
-> **Code Keywords:** module (2), self (1), let (1)
 > **Documentation:** official docs (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1199,8 +1200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (7), [[Security]] (2), application (2)
 > **CLI Commands:** npm (7), make (5)
-> **Code Keywords:** let (5), this. (2), case, (2), raise (1)
 > **Prerequisites:** install (4), make sure you have (2)
 > **Definitions:** is an  (2), means that (1)
 > **Env Vars:** npm (1), asap (1)
@@ -1313,8 +1314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (10), [[npm]] (9), express (7), [[Scripting]] (5), api (2)
 > **CLI Commands:** node (10), npm (9), make (5)
-> **Code Keywords:** let (9), this, (1)
 > **Prerequisites:** install (3), set up (2)
 > **File Paths:** package.json (2)
 > **Code Identifiers:** devdependencies (1), node_modules (1)
@@ -1455,9 +1456,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular CLI]] (7), [[Angular]] (7), cd (2), application (2), [[CLI]] (1)
 > **Env Vars:** npx (12), cli (8), mpm (5)
 > **CLI Commands:** npx (12), make (4), cd (2)
-> **Code Keywords:** let (8), new, (1), delete (1), this, (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** install (2), make sure you have (1)
 > **Cross-References:** go back to (2)
@@ -1501,9 +1502,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (8), [[JSON]] (1), web (1)
 > **CLI Commands:** yarn (9), npm (8), find (1)
 > **Env Vars:** npm (8)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** is a  (2)
 > **File Paths:** package-lock.json (1)
 > **Cross-References:** go back to (1)
@@ -1513,7 +1514,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Furthering your npm journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980)
@@ -1540,10 +1541,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), [[Node.js]] (1), api (1), application (1), express (1)
 > **Env Vars:** mpm (6), api (1)
 > **CLI Commands:** node (3)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** finally, (1), throw (1)
 > **File Paths:** node.js (1)
 > **Speakers:** - [instructor] (1)
 

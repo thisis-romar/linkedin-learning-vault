@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/e-commerce
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Foundations-%20Ecommerce.md)
@@ -47,38 +47,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Unlocking key principles and strategies of ecommerce marketing
+  - [Unlocking key principles and strategies of ecommerce marketing](#unlocking-key-principles-and-strategies-of-ecommerce-marketing)
 - [**1. The Pillars of Ecommerce**](#1-the-pillars-of-ecommerce) (4 videos)
-  - Ecommerce customer research
-  - Ecommerce product research
-  - Ecommerce platform breakdown
-  - Building a profitable ecommerce website
+  - [Ecommerce customer research](#ecommerce-customer-research)
+  - [Ecommerce product research](#ecommerce-product-research)
+  - [Ecommerce platform breakdown](#ecommerce-platform-breakdown)
+  - [Building a profitable ecommerce website](#building-a-profitable-ecommerce-website)
 - [**2. Niche Marketing in Ecommerce**](#2-niche-marketing-in-ecommerce) (4 videos)
-  - The customer journey in ecommerce
-  - Researching your market for ecommerce
-  - Articulating your unique selling point (USP)
-  - Sales copy for successful ecommerce
+  - [The customer journey in ecommerce](#the-customer-journey-in-ecommerce)
+  - [Researching your market for ecommerce](#researching-your-market-for-ecommerce)
+  - [Articulating your unique selling point (USP)](#articulating-your-unique-selling-point-usp)
+  - [Sales copy for successful ecommerce](#sales-copy-for-successful-ecommerce)
 - [**3. Free Traffic for Ecommerce**](#3-free-traffic-for-ecommerce) (5 videos)
-  - Navigating free traffic in ecommerce
-  - SEO for ecommerce websites
-  - Building brand awareness on social media
-  - YouTube marketing for ecommerce
-  - Blogging for ecommerce
+  - [Navigating free traffic in ecommerce](#navigating-free-traffic-in-ecommerce)
+  - [SEO for ecommerce websites](#seo-for-ecommerce-websites)
+  - [Building brand awareness on social media](#building-brand-awareness-on-social-media)
+  - [YouTube marketing for ecommerce](#youtube-marketing-for-ecommerce)
+  - [Blogging for ecommerce](#blogging-for-ecommerce)
 - [**4. Paid Traffic for Ecommerce**](#4-paid-traffic-for-ecommerce) (4 videos)
-  - Driving paid traffic for ecommerce
-  - Paid traffic sources
-  - Influencer marketing for ecommerce
-  - Attracting affiliates to your ecommerce store
+  - [Driving paid traffic for ecommerce](#driving-paid-traffic-for-ecommerce)
+  - [Paid traffic sources](#paid-traffic-sources)
+  - [Influencer marketing for ecommerce](#influencer-marketing-for-ecommerce)
+  - [Attracting affiliates to your ecommerce store](#attracting-affiliates-to-your-ecommerce-store)
 - [**5. Increasing Conversions for Ecommerce**](#5-increasing-conversions-for-ecommerce) (3 videos)
-  - Website conversions in ecommerce
-  - Ecommerce retargeting
-  - Email marketing for ecommerce
+  - [Website conversions in ecommerce](#website-conversions-in-ecommerce)
+  - [Ecommerce retargeting](#ecommerce-retargeting)
+  - [Email marketing for ecommerce](#email-marketing-for-ecommerce)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your ecommerce learning
+  - [Continuing your ecommerce learning](#continuing-your-ecommerce-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlocking key principles and strategies of ecommerce marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/unlocking-key-principles-and-strategies-of-ecommerce-marketing?u=76281980)
@@ -103,14 +103,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (4), [[Microsoft Products|Products]] (2), business (1), product (1), traffic (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), let (1)
 > **Speakers:** - literally (1)
 
 
 ### 1. The Pillars of Ecommerce
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ecommerce customer research
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980)
@@ -159,9 +159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Analytics]] (3), [[E-Commerce]] (2), [[React.js|React]] (1), [[Google]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Ecommerce product research
@@ -315,11 +315,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (32), [[Microsoft Products|Products]] (18), [[Google]] (16), [[Search]] (15), data (1)
 > **UI Navigation:** click on (7), go to (2)
 > **Analogies:** for example (5), such as (1), similar to (1), compare this to (1)
 > **Definitions:** is a  (6)
 > **Code Identifiers:** ebay (4)
-> **Code Keywords:** for. (1), for, (1), this. (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** seo (1)
 > **Cross-References:** in the last (1)
@@ -367,8 +367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (6), business (4), [[Microsoft Products|Products]] (2), product (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
 
@@ -421,13 +421,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (7), [[Google]] (3), [[Search]] (2), [[E-Commerce]] (2), product (2)
 > **Speakers:** - maximizing (1)
 
 
 ### 2. Niche Marketing in Ecommerce
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The customer journey in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980)
@@ -466,10 +466,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), [[Google]] (2), [[Marketing Strategy]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** for, (1)
 > **Env Vars:** seo (1)
 > **Speakers:** - e (1)
 
@@ -592,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), for, (2), for. (2), this. (1)
+> **Frameworks & Libraries:** [[Search]] (10), traffic (6), [[Google]] (4), [[Microsoft Products|Products]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
 > **Analogies:** similar to (2), for example (1)
@@ -643,9 +643,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** usp (5)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - what (1)
@@ -691,14 +691,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Email Marketing]] (1), product (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** this, (1)
 > **Speakers:** - as (1)
 
 
 ### 3. Free Traffic for Ecommerce
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating free traffic in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980)
@@ -747,9 +747,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), [[Google]] (5), seo (3), [[Forms]] (2), [[Search]] (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** seo (3)
-> **Code Keywords:** include: (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -808,9 +808,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), seo (2), [[Google]] (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** seo (2), ssl (1), url (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** new, (1), super (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -869,8 +869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), [[LinkedIn]] (1), business (1), [[Social Media Marketing]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** if, (1), for, (1), for. (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -981,9 +981,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[E-Commerce]] (3), [[Google]] (3), business (2), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **Definitions:** is a  (4), is an  (1), known as (1)
-> **Code Keywords:** let (1), for, (1), for. (1), this. (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
@@ -1044,6 +1044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[E-Commerce]] (6), [[Search]] (4), product (4), traffic (3)
 > **URLs:** [answerthepublic.com](https://answerthepublic.com) (5)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -1054,7 +1055,7 @@ created: 2026-04-29
 
 ### 4. Paid Traffic for Ecommerce
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Driving paid traffic for ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980)
@@ -1121,6 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), [[Google]] (3), [[LinkedIn]] (3), [[E-Commerce]] (2), [[Search]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1176,8 +1178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), data (3), [[E-Commerce]] (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** yield (1)
 > **Analogies:** such as (1)
 > **Speakers:** - with (1)
 
@@ -1236,8 +1238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - influencer (1)
@@ -1287,9 +1289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[LinkedIn]] (1), product (1), traffic (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1299,7 +1301,7 @@ created: 2026-04-29
 
 ### 5. Increasing Conversions for Ecommerce
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Website conversions in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980)
@@ -1326,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), web (1), [[Google]] (1), [[Analytics]] (1), traffic (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1371,9 +1373,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - only (1)
 
 #### Email marketing for ecommerce
@@ -1421,6 +1423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[E-Commerce]] (3), [[Microsoft Products|Products]] (3), data (2), database (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1429,7 +1432,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your ecommerce learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980)
@@ -1448,7 +1451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[E-Commerce]] (1)
 > **Speakers:** - a (1)
 
 

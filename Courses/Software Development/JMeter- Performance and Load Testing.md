@@ -30,7 +30,7 @@ tags:
   - skill/load-testing
   - skill/jmeter
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JMeter-%20Performance%20and%20Load%20Testing.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Testing with JMeter
-  - What is load testing, and why do we do it?
+  - [Testing with JMeter](#testing-with-jmeter)
+  - [What is load testing, and why do we do it?](#what-is-load-testing-and-why-do-we-do-it)
 - [**1. Getting Started**](#1-getting-started) (6 videos)
-  - Installing graph plugins
-  - Creating a load test
-  - Adding a thread group
-  - Adding a sampler
-  - Adding a listener
-  - Running your first load test
+  - [Installing graph plugins](#installing-graph-plugins)
+  - [Creating a load test](#creating-a-load-test)
+  - [Adding a thread group](#adding-a-thread-group)
+  - [Adding a sampler](#adding-a-sampler)
+  - [Adding a listener](#adding-a-listener)
+  - [Running your first load test](#running-your-first-load-test)
 - [**2. Improving the Test**](#2-improving-the-test) (4 videos)
-  - Adding timers
-  - Adding assertions
-  - Adding HTTP managers
-  - Challenge: Create a simple test plan with Thread Group, Sampler, and Listener
+  - [Adding timers](#adding-timers)
+  - [Adding assertions](#adding-assertions)
+  - [Adding HTTP managers](#adding-http-managers)
+  - [Challenge: Create a simple test plan with Thread Group, Sampler, and Listener](#challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener)
 - [**3. JMeter CLI**](#3-jmeter-cli) (5 videos)
-  - Why use the command line?
-  - Opening JMeter through the CLI
-  - Running your load test through the CLI
-  - Saving CLI results to a .jtl file
-  - Challenge: Run a load test via CLI
+  - [Why use the command line?](#why-use-the-command-line)
+  - [Opening JMeter through the CLI](#opening-jmeter-through-the-cli)
+  - [Running your load test through the CLI](#running-your-load-test-through-the-cli)
+  - [Saving CLI results to a .jtl file](#saving-cli-results-to-a-jtl-file)
+  - [Challenge: Run a load test via CLI](#challenge-run-a-load-test-via-cli)
 - [**4. Viewing the Results**](#4-viewing-the-results) (4 videos)
-  - Importing a .jtl file to JMeter graphs
-  - Creating an HTML dashboard at CLI runtime
-  - Viewing the dashboard
-  - Pros and cons
+  - [Importing a .jtl file to JMeter graphs](#importing-a-jtl-file-to-jmeter-graphs)
+  - [Creating an HTML dashboard at CLI runtime](#creating-an-html-dashboard-at-cli-runtime)
+  - [Viewing the dashboard](#viewing-the-dashboard)
+  - [Pros and cons](#pros-and-cons)
 - [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing with JMeter
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
+> **Frameworks & Libraries:** [[Load Testing]] (1), [[LinkedIn]] (1), [[JMeter]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What is load testing, and why do we do it?
@@ -143,14 +143,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Load Testing]] (4), [[JMeter]] (2), application (1), teams (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** case. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing graph plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/installing-graph-plugins?u=76281980)
@@ -193,7 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), function (1), self (1)
+> **Frameworks & Libraries:** [[JMeter]] (10), [[Search]] (2)
 > **CLI Commands:** find (2), apache (1)
 > **Prerequisites:** install (2)
 > **Versions:** 0.4 (1)
@@ -230,8 +230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JMeter]] (3)
 > **UI Navigation:** navigate to (1), click on (1)
-> **Code Keywords:** this, (1)
 > **URLs:** [landonhotels.com](https://landonhotels.com) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -268,9 +268,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JMeter]] (3)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** gui (1)
 > **Speakers:** - [announcer] (1)
 
@@ -313,9 +313,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JMeter]] (1), web application (1)
 > **Env Vars:** http (4)
 > **Analogies:** think of it as (1), for example (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Adding a listener
@@ -355,7 +355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), this. (1)
+> **Frameworks & Libraries:** [[JMeter]] (2), data (1)
 > **UI Navigation:** click on (2)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
@@ -418,7 +418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), from. (1), default. (1)
+> **Frameworks & Libraries:** [[JMeter]] (3)
 > **UI Navigation:** go to (1), click on (1)
 > **Env Vars:** http (1)
 > **Tools:** command line (1)
@@ -430,7 +430,7 @@ created: 2026-04-29
 
 ### 2. Improving the Test
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding timers
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980)
@@ -485,8 +485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test Automation]] (2), business (1), [[JMeter]] (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for, (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -540,7 +540,6 @@ created: 2026-04-29
 >
 > **UI Navigation:** click on (2), go to (2), select the (1)
 > **Env Vars:** http (1), url (1)
-> **Code Keywords:** assert (1)
 > **Speakers:** - [instructor] (1)
 
 #### Adding HTTP managers
@@ -574,8 +573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JMeter]] (1), web (1), data (1)
 > **Env Vars:** http (9)
-> **Code Keywords:** this. (1), this, (1), delete (1), if, (1)
 > **Definitions:** means that (4)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -631,6 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[JMeter]] (1), [[Load Testing]] (1)
 > **Env Vars:** http (1), url (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -638,7 +638,7 @@ created: 2026-04-29
 
 ### 3. JMeter CLI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use the command line?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980)
@@ -663,8 +663,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JMeter]] (4), [[CLI]] (3), [[Debugging]] (1), power (1), [[Load Testing]] (1)
 > **Env Vars:** cli (3), ram (1), cpu (1)
-> **Code Keywords:** interface (2), this. (1)
 > **Tools:** command line (3)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -696,6 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JMeter]] (8), application (2), [[Windows]] (1), [[Debugging]] (1), [[CLI]] (1)
 > **Env Vars:** gui (4), cli (1)
 > **Tools:** command line (4)
 > **UI Navigation:** navigate to (1), open the (1)
@@ -752,7 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), return. (1), from. (1)
+> **Frameworks & Libraries:** [[JMeter]] (7), hit (1), application (1), [[Debugging]] (1)
 > **Tools:** command line (3), terminal (1)
 > **CLI Commands:** make (1), find (1)
 > **File Paths:** jmeter.sh (1)
@@ -792,8 +793,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (1)
 > **Env Vars:** gui (3), bin (1)
-> **Code Keywords:** this, (1), switch (1)
 > **Tools:** terminal (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -847,6 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JMeter]] (7), [[CLI]] (1), [[Automation]] (1), ci (1), prompt (1)
 > **Env Vars:** gui (2), cli (1), jtl (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** command line (1), command prompt (1), terminal (1)
@@ -856,7 +858,7 @@ created: 2026-04-29
 
 ### 4. Viewing the Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing a .jtl file to JMeter graphs
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980)
@@ -883,8 +885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JMeter]] (2), data (2), [[Load Testing]] (1)
 > **UI Navigation:** go to (3), click on (1), select the (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -915,8 +917,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JMeter]] (5), hit (2), [[CLI]] (2), [[HTML]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this, (1), return. (1)
 > **Env Vars:** cli (2)
 > **Speakers:** - if (1), - e (1)
 > **File Paths:** index.html (1)
@@ -949,6 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[HTML]] (2), [[Statistics]] (1)
 > **Env Vars:** jmx (2)
 > **File Paths:** index.html (1)
 > **UI Navigation:** open the (1)
@@ -988,14 +991,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** data (3), [[Statistics]] (1), [[JMeter]] (1)
 > **Env Vars:** jtl (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

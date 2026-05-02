@@ -34,7 +34,7 @@ tags:
   - skill/microsoft-entra-id
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Planning%20for%20Microsoft%20Entra%20ID.md)
@@ -53,47 +53,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Hybrid identity
-  - Prerequisites
-  - Roadmap
+  - [Hybrid identity](#hybrid-identity)
+  - [Prerequisites](#prerequisites)
+  - [Roadmap](#roadmap)
 - [**1. Entra ID Connect Fundamentals**](#1-entra-id-connect-fundamentals) (5 videos)
-  - Entra ID Connect overview
-  - Deployment configurations
-  - Rules for integration
-  - Component architecture
-  - Supporting tools
+  - [Entra ID Connect overview](#entra-id-connect-overview)
+  - [Deployment configurations](#deployment-configurations)
+  - [Rules for integration](#rules-for-integration)
+  - [Component architecture](#component-architecture)
+  - [Supporting tools](#supporting-tools)
 - [**2. Planning for Users and Devices**](#2-planning-for-users-and-devices) (7 videos)
-  - Password hash synchronization
-  - Entra ID FS Authentication
-  - Pass-through Authentication
-  - Defining user strategy
-  - Defining device strategy
-  - Filtering objects
-  - Understanding writeback
+  - [Password hash synchronization](#password-hash-synchronization)
+  - [Entra ID FS Authentication](#entra-id-fs-authentication)
+  - [Pass-through Authentication](#pass-through-authentication)
+  - [Defining user strategy](#defining-user-strategy)
+  - [Defining device strategy](#defining-device-strategy)
+  - [Filtering objects](#filtering-objects)
+  - [Understanding writeback](#understanding-writeback)
 - [**3. Preparing the Environment**](#3-preparing-the-environment) (8 videos)
-  - Preparing Windows Server AD
-  - Demo: Preparing Windows Server AD
-  - Preparing the Entra ID Connect server
-  - Demo: Preparing the Entra ID Connect server
-  - Preparing the firewalls and ports
-  - Demo: Preparing the firewalls and ports
-  - Preparing the Entra ID tenant
-  - Demo: Preparing the Entra ID tenant
+  - [Preparing Windows Server AD](#preparing-windows-server-ad)
+  - [Demo: Preparing Windows Server AD](#demo-preparing-windows-server-ad)
+  - [Preparing the Entra ID Connect server](#preparing-the-entra-id-connect-server)
+  - [Demo: Preparing the Entra ID Connect server](#demo-preparing-the-entra-id-connect-server)
+  - [Preparing the firewalls and ports](#preparing-the-firewalls-and-ports)
+  - [Demo: Preparing the firewalls and ports](#demo-preparing-the-firewalls-and-ports)
+  - [Preparing the Entra ID tenant](#preparing-the-entra-id-tenant)
+  - [Demo: Preparing the Entra ID tenant](#demo-preparing-the-entra-id-tenant)
 - [**4. Deploying Entra ID Connect**](#4-deploying-entra-id-connect) (6 videos)
-  - Deployment methods
-  - Demo: Installing Entra ID Connect
-  - Demo: Running the Entra ID Connect wizard
-  - Monitoring using Entra ID Connect Health
-  - Demo: Monitoring using Entra ID Connect Health
-  - Understanding Entra ID Connect staging mode
+  - [Deployment methods](#deployment-methods)
+  - [Demo: Installing Entra ID Connect](#demo-installing-entra-id-connect)
+  - [Demo: Running the Entra ID Connect wizard](#demo-running-the-entra-id-connect-wizard)
+  - [Monitoring using Entra ID Connect Health](#monitoring-using-entra-id-connect-health)
+  - [Demo: Monitoring using Entra ID Connect Health](#demo-monitoring-using-entra-id-connect-health)
+  - [Understanding Entra ID Connect staging mode](#understanding-entra-id-connect-staging-mode)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Key takeaways
-  - Your personal checklist
-  - Next steps
+  - [Key takeaways](#key-takeaways)
+  - [Your personal checklist](#your-personal-checklist)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980)
@@ -152,7 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), cloud (4), [[Microsoft Entra ID|Azure active directory]] (3), [[LinkedIn]] (2), [[Microsoft]] (2)
 > **Definitions:** is an  (2), is called (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - welcome (1)
@@ -188,7 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), require (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Microsoft Entra ID|Azure ad]] (3), [[Windows Server]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (2), next (2)
 > **Prerequisites:** configure (1), install (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - here (1)
@@ -239,7 +239,7 @@ created: 2026-04-29
 
 ### 1. Entra ID Connect Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Entra ID Connect overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980)
@@ -282,7 +282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), function (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Windows Server]] (2), [[Microsoft Azure|Azure]] (2), database (2), [[Microsoft]] (1)
 > **Prerequisites:** setup (2)
 > **Env Vars:** sql (1)
 > **Definitions:** in other words (1)
@@ -334,7 +334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), [[Active Directory]] (2), management (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
@@ -423,7 +423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (10), [[Active Directory]] (1), next (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** basically means (1)
@@ -525,9 +525,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), cloud (3), next (3), database (2), [[Troubleshooting]] (1)
 > **Env Vars:** adfs (3), isr (1), sql (1), osr (1)
 > **Definitions:** is called (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -597,10 +597,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (3), feature (1), [[Search]] (1), database (1)
 > **Env Vars:** isr (1), osr (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** require (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
@@ -608,7 +608,7 @@ created: 2026-04-29
 
 ### 2. Planning for Users and Devices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Password hash synchronization
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980)
@@ -691,7 +691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), this, (1), require (1), case, (1)
+> **Frameworks & Libraries:** cloud (10), [[Microsoft Entra ID|Azure ad]] (6), [[Active Directory]] (2), [[Windows Server]] (1), [[Microsoft Azure|Azure]] (1)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** https (1)
@@ -747,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), cloud (3), [[Active Directory]] (2), application (2), [[Windows Server]] (1)
 > **Env Vars:** adfs (2), wap (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -807,7 +807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), cloud (4), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
 > **Env Vars:** adfs (3), wap (1)
 > **Analogies:** just like (3), similar to (1)
 > **Definitions:** is a  (2)
@@ -934,7 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), static (1), let (1), finally, (1)
+> **Frameworks & Libraries:** cloud (16), [[Microsoft Entra ID|Azure ad]] (13), [[Security]] (6), [[Windows Server]] (4), [[Active Directory]] (3)
 > **Env Vars:** adfs (2), phs (1), pta (1)
 > **Definitions:** in other words (1), is a  (1), is an  (1)
 > **CLI Commands:** make (2)
@@ -1005,7 +1005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (9), cloud (8), management (1), [[Windows]] (1), feature (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1106,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), next (2), [[Active Directory]] (1), cloud (1), database (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), similar to (1)
@@ -1191,7 +1191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), protected (2), else, (1), default, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (12), [[Active Directory]] (2), next (2), feature (2), [[Microsoft Office|Office]] (2)
 > **Env Vars:** adfs (2), sspr (1)
 > **Definitions:** is called (1), known as (1), is a  (1)
 > **CLI Commands:** make (2)
@@ -1201,7 +1201,7 @@ created: 2026-04-29
 
 ### 3. Preparing the Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing Windows Server AD
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980)
@@ -1278,7 +1278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), match, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Windows Server]] (4), [[Active Directory]] (3), [[Microsoft]] (2), next (2)
 > **Env Vars:** upn (3), adds (1), mmc (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1), install (1)
@@ -1358,8 +1358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (6), next (4), [[Microsoft Entra ID|Azure ad]] (3), [[Windows Server]] (1), [[Search]] (1)
 > **UI Navigation:** click on (9), go to (4), right-click (1)
-> **Code Keywords:** let (3), for. (1), this, (1), interface (1)
 > **Env Vars:** upn (5)
 > **CLI Commands:** make (1)
 > **Tools:** powershell (1)
@@ -1423,11 +1423,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[Microsoft SQL Server|Sql server]] (7), express (3), [[Windows Server]] (2), next (2)
 > **Env Vars:** sql (7), gui (1), nano (1), ram (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
 > **Prerequisites:** you'll need (1), install (1)
-> **Code Keywords:** let (1)
 > **Versions:** 1.6 (1)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** recommended (1)
@@ -1467,10 +1467,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), express (2), data (1)
 > **Env Vars:** sql (4), aad (1), wdtv (1), url (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1511,8 +1511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Microsoft Entra ID|Azure ad]] (2), [[Windows]] (2), [[SQL]] (1), dns (1)
 > **Env Vars:** ldap (2), rpc (2), sql (1), http (1), https (1)
-> **Code Keywords:** this, (1), this. (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
 > **Warnings:** important note (1)
@@ -1577,8 +1577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Search]] (4), dns (3), next (3), [[Security]] (2)
 > **Env Vars:** ldap (4), dns (3), tcp (3), udp (3), smb (2)
-> **Code Keywords:** let (8), require (1), switch (1)
 > **Ports:** port 53 (1), port 88 (1), port 389 (1), port 636 (1), port 445 (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3), switch to (1), open the (1)
@@ -1615,7 +1615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft]] (2), cloud (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** upn (1)
 > **Analogies:** imagine (1)
@@ -1701,7 +1701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (1), for, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), [[Windows Server]] (2), next (2), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (4), scroll down (3), select the (1)
 > **Env Vars:** aadc (2)
 > **Cross-References:** in the next (2)
@@ -1712,7 +1712,7 @@ created: 2026-04-29
 
 ### 4. Deploying Entra ID Connect
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deployment methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980)
@@ -1771,7 +1771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), let (1), from. (1), default, (1), pass (1)
+> **Frameworks & Libraries:** express (10), [[SQL]] (2), [[Microsoft]] (1), database (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (3), adfs (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1968,8 +1968,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (12), [[Microsoft Entra ID|Azure ad]] (10), express (5), [[Microsoft SQL Server|Sql server]] (3), [[Windows]] (1)
 > **UI Navigation:** click on (20), select the (4), checkbox (3), open the (1), scroll down (1)
-> **Code Keywords:** let (6), this. (2), pass (2), continue (1), default. (1)
 > **Prerequisites:** configure (5), install (4), required to (1)
 > **Env Vars:** sql (3), wttv (1), configured (1), directories (1)
 > **CLI Commands:** make (2)
@@ -2022,8 +2022,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Microsoft Entra ID|Azure ad]] (2)
 > **UI Navigation:** click on (8), double-click (1), select the (1)
-> **Code Keywords:** let (2), this. (2), this, (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** configure (2), install (1)
 > **Cross-References:** we discussed (1)
@@ -2067,8 +2067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1), feature (1)
 > **Env Vars:** adfs (1), fsmo (1)
-> **Code Keywords:** default, (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - you (1)
 
@@ -2267,8 +2267,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (14), data (7), [[Windows Server]] (2), [[Search]] (2), next (2)
 > **UI Navigation:** click on (19), go to (2), scroll down (1)
-> **Code Keywords:** let (14), this. (5), type. (1), this, (1)
 > **Env Vars:** fsmo (6), sql (2), aadconnect (1), pdc (1), rid (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** configure (2), install (2)
@@ -2329,13 +2329,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** database (3), business (2), [[Active Directory]] (2), data (2), next (2)
 > **Speakers:** - one (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980)
@@ -2396,7 +2396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (2), [[Windows Server]] (1), [[Active Directory]] (1)
 > **Env Vars:** adfs (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2451,7 +2451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), self (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), next (1), database (1), express (1), product (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** adfs (1)
@@ -2496,8 +2496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), express (2), [[Microsoft Entra ID|Azure active directory]] (2), [[LinkedIn]] (2), [[Microsoft Entra ID|Azure ad]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** we covered (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [kunal] (1)

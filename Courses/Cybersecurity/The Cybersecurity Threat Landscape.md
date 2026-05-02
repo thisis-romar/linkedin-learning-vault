@@ -43,7 +43,7 @@ tags:
   - skill/threat-vulnerability-management
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md)
@@ -62,46 +62,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Examine the cybersecurity threat landscape
+  - [Examine the cybersecurity threat landscape](#examine-the-cybersecurity-threat-landscape)
 - [**1. Malware and Ransomware**](#1-malware-and-ransomware) (2 videos)
-  - Explore the threat of malware and ransomware
-  - Protect against malware and ransomware
+  - [Explore the threat of malware and ransomware](#explore-the-threat-of-malware-and-ransomware)
+  - [Protect against malware and ransomware](#protect-against-malware-and-ransomware)
 - [**2. Phishing and Smishing**](#2-phishing-and-smishing) (2 videos)
-  - Explore the threat of phishing and smishing
-  - Protect against phishing and smishing
+  - [Explore the threat of phishing and smishing](#explore-the-threat-of-phishing-and-smishing)
+  - [Protect against phishing and smishing](#protect-against-phishing-and-smishing)
 - [**3. Business Email Compromise**](#3-business-email-compromise) (2 videos)
-  - Explore the threat of business email compromise
-  - Protect against business email compromise
+  - [Explore the threat of business email compromise](#explore-the-threat-of-business-email-compromise)
+  - [Protect against business email compromise](#protect-against-business-email-compromise)
 - [**4. Botnets and DDoS attacks**](#4-botnets-and-ddos-attacks) (2 videos)
-  - Explore the threat of botnets and DDoS attacks
-  - Protect against botnets and DDoS threats
+  - [Explore the threat of botnets and DDoS attacks](#explore-the-threat-of-botnets-and-ddos-attacks)
+  - [Protect against botnets and DDoS threats](#protect-against-botnets-and-ddos-threats)
 - [**5. Zero-Day Attacks**](#5-zero-day-attacks) (2 videos)
-  - Exploring the threat of zero-day attacks
-  - Mitigating zero-day attacks
+  - [Exploring the threat of zero-day attacks](#exploring-the-threat-of-zero-day-attacks)
+  - [Mitigating zero-day attacks](#mitigating-zero-day-attacks)
 - [**6. AI-Based cyberattacks**](#6-ai-based-cyberattacks) (2 videos)
-  - Exploring the threat of AI-based cyberattacks
-  - Protecting against AI-based cyberattacks
+  - [Exploring the threat of AI-based cyberattacks](#exploring-the-threat-of-ai-based-cyberattacks)
+  - [Protecting against AI-based cyberattacks](#protecting-against-ai-based-cyberattacks)
 - [**7. Advanced Persistent Threats (APTs)**](#7-advanced-persistent-threats-apts) (2 videos)
-  - Exploring the threat of advanced persistent threats (APTs)
-  - Protecting against advanced persistent threats (APTs)
+  - [Exploring the threat of advanced persistent threats (APTs)](#exploring-the-threat-of-advanced-persistent-threats-apts)
+  - [Protecting against advanced persistent threats (APTs)](#protecting-against-advanced-persistent-threats-apts)
 - [**8. Insider Threats**](#8-insider-threats) (2 videos)
-  - Explore the risk of insider threats
-  - Protect against insider threats
+  - [Explore the risk of insider threats](#explore-the-risk-of-insider-threats)
+  - [Protect against insider threats](#protect-against-insider-threats)
 - [**9. Unmanaged IoT Devices**](#9-unmanaged-iot-devices) (2 videos)
-  - Explore the threat of unmanaged IoT devices
-  - Protect against unmanaged IoT devices
+  - [Explore the threat of unmanaged IoT devices](#explore-the-threat-of-unmanaged-iot-devices)
+  - [Protect against unmanaged IoT devices](#protect-against-unmanaged-iot-devices)
 - [**10. Shadow IT**](#10-shadow-it) (2 videos)
-  - Explore the threat of shadow IT
-  - Protect against shadow IT
+  - [Explore the threat of shadow IT](#explore-the-threat-of-shadow-it)
+  - [Protect against shadow IT](#protect-against-shadow-it)
 - [**11. Supply Chain Attacks and Third-Party Risks**](#11-supply-chain-attacks-and-third-party-risks) (2 videos)
-  - The threat of supply chain attacks and third-party risks
-  - Protect against supply chain attacks and third-party risks
+  - [The threat of supply chain attacks and third-party risks](#the-threat-of-supply-chain-attacks-and-third-party-risks)
+  - [Protect against supply chain attacks and third-party risks](#protect-against-supply-chain-attacks-and-third-party-risks)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Stay up to date on cybersecurity
+  - [Stay up to date on cybersecurity](#stay-up-to-date-on-cybersecurity)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Examine the cybersecurity threat landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980)
@@ -140,14 +140,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Security]] (2), [[Internet of Things (IoT)|Internet of things]] (1), data (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [marc] (1)
 
 
 ### 1. Malware and Ransomware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of malware and ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980)
@@ -216,8 +216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Engineering]] (2), data (2), [[Forms]] (1), [[Cryptocurrency]] (1)
 > **Definitions:** is a  (3), known as (2)
-> **Code Keywords:** function (1), let (1), public (1), continue (1)
 > **Env Vars:** fbi (2), ic3 (1)
 > **Versions:** 29.1 (1)
 > **UI Navigation:** open the (1)
@@ -280,15 +280,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Security]] (3), traffic (2), next (1), [[Forms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Phishing and Smishing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of phishing and smishing
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980)
@@ -365,8 +365,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (13), [[Engineering]] (1), [[Security]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** ceo (2), ibm (1), sms (1)
-> **Code Keywords:** let (1), continue (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -439,7 +439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), else. (1), finally, (1)
+> **Frameworks & Libraries:** [[Phishing]] (11), [[Security]] (3), [[Forms]] (1), [[Cybersecurity]] (1), next (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -451,7 +451,7 @@ created: 2026-04-29
 
 ### 3. Business Email Compromise
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of business email compromise
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980)
@@ -510,6 +510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (4), business (2), [[Cybersecurity]] (2), teams (1), [[Engineering]] (1)
 > **Env Vars:** bec (11), ceo (2), fbi (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2.4 (1)
@@ -573,18 +574,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Phishing]] (2), [[Cybersecurity]] (2), next (2), [[LinkedIn]] (1)
 > **Env Vars:** bec (8), dkim (2), mfa (2), fbi (2), spf (1)
 > **Analogies:** similar to (1), for instance (1), such as (1)
 > **Definitions:** is a  (2)
 > **Warnings:** warning (2)
-> **Code Keywords:** from. (1)
 > **URLs:** [ic3.gov](https://ic3.gov) (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Botnets and DDoS attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of botnets and DDoS attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980)
@@ -633,8 +634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), continue (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** http (1)
 > **Speakers:** - [instructor] (1)
@@ -706,7 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), include, (1)
+> **Frameworks & Libraries:** traffic (6), [[Security]] (5), web (2), next (2), web application (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (1)
 > **Analogies:** for instance (1)
@@ -716,7 +717,7 @@ created: 2026-04-29
 
 ### 5. Zero-Day Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the threat of zero-day attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980)
@@ -761,6 +762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Hardware]] (2), data (2), product (1), [[Security]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -820,16 +822,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (4), management (2), next (1), ai (1)
 > **Env Vars:** siem (2), cisa (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 6. AI-Based cyberattacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the threat of AI-based cyberattacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-ai-based-cyberattacks?u=76281980)
@@ -872,6 +874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Phishing]] (2), [[Engineering]] (1), business (1), [[Security]] (1)
 > **Env Vars:** ceo (3), cgi (1), bec (1)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -913,7 +916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for: (1)
+> **Frameworks & Libraries:** ai (5), [[Phishing]] (3), [[Engineering]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for instance (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
@@ -921,7 +924,7 @@ created: 2026-04-29
 
 ### 7. Advanced Persistent Threats (APTs)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the threat of advanced persistent threats (APTs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980)
@@ -974,9 +977,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (4), next (3), [[Phishing]] (1), [[Healthcare Industry]] (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **CLI Commands:** apt (1)
-> **Code Keywords:** return, (1)
 > **Env Vars:** apt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1030,16 +1033,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (3), [[Incident Response]] (2), [[Intrusion Detection]] (1), management (1)
 > **Env Vars:** cisa (1), apt (1)
 > **CLI Commands:** apt (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Insider Threats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the risk of insider threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980)
@@ -1092,7 +1095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** data (8), [[Cybersecurity]] (2), [[Security]] (2), business (1), [[Forms]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Protect against insider threats
@@ -1166,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (3), hr (2), business (1), next (1), management (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sim (2)
 > **Definitions:** is a  (1)
@@ -1175,7 +1178,7 @@ created: 2026-04-29
 
 ### 9. Unmanaged IoT Devices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of unmanaged IoT devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980)
@@ -1230,7 +1233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), raise (1), continue (1)
+> **Frameworks & Libraries:** [[IoT]] (21), [[Security]] (5), [[Cybersecurity]] (4), [[Internet of Things (IoT)|Internet of things]] (2), data (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1299,7 +1302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), case, (1), protected (1)
+> **Frameworks & Libraries:** [[IoT]] (17), [[Security]] (5), next (2), [[Internet of Things (IoT)|Internet of things]] (1), traffic (1)
 > **Prerequisites:** install (2), configure (1)
 > **CLI Commands:** make (2)
 > **Ports:** port 23 (1)
@@ -1311,7 +1314,7 @@ created: 2026-04-29
 
 ### 10. Shadow IT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of shadow IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980)
@@ -1368,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), continue (1)
+> **Frameworks & Libraries:** data (5), [[Security]] (4), [[Cybersecurity]] (3), cloud (1), [[SaaS]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -1436,9 +1439,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), cloud (3), next (2), [[SaaS]] (2), [[Executive Leadership]] (1)
 > **Env Vars:** nac (2), casb (2), siem (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you need to have (1)
@@ -1447,7 +1450,7 @@ created: 2026-04-29
 
 ### 11. Supply Chain Attacks and Third-Party Risks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The threat of supply chain attacks and third-party risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980)
@@ -1516,8 +1519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Cybersecurity]] (2), [[SaaS|Software as a service]] (2), business (1), [[Security]] (1)
 > **Env Vars:** log4j (3), sas (2)
-> **Code Keywords:** function (1), let (1), finally, (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1593,8 +1596,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), open-source (5), management (2), business (2), next (2)
 > **Env Vars:** tprm (4), mfa (1), siem (1), sbom (1)
-> **Code Keywords:** finally, (2), require (2), protected (1), let (1)
 > **CLI Commands:** find (1)
 > **URLs:** [ntia.gov](https://ntia.gov) (1)
 > **Definitions:** is a  (1)
@@ -1604,7 +1607,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay up to date on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980)
@@ -1649,7 +1652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Security]] (8), next (2), [[Newsletters]] (1), [[Simulation]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sans (1)
 > **Speakers:** - [instructor] (1)

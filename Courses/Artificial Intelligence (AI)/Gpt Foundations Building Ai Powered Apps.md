@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Gpt%20Foundations%20Building%20Ai%20Powered%20Apps.md)
@@ -54,42 +54,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to GPT-4 foundations
+  - [Welcome to GPT-4 foundations](#welcome-to-gpt-4-foundations)
 - [**1. Introduction to OpenAI**](#1-introduction-to-openai) (2 videos)
-  - Getting started with ChatGPT-4
-  - What are large language models (LLMs)?
+  - [Getting started with ChatGPT-4](#getting-started-with-chatgpt-4)
+  - [What are large language models (LLMs)?](#what-are-large-language-models-llms)
 - [**2. Beginner Prompting**](#2-beginner-prompting) (4 videos)
-  - Introduction to prompting
-  - Tailoring your own prompts
-  - Challenge: Generating a superpower for Bubbles
-  - Solution: Generating a superpower for Bubbles
+  - [Introduction to prompting](#introduction-to-prompting)
+  - [Tailoring your own prompts](#tailoring-your-own-prompts)
+  - [Challenge: Generating a superpower for Bubbles](#challenge-generating-a-superpower-for-bubbles)
+  - [Solution: Generating a superpower for Bubbles](#solution-generating-a-superpower-for-bubbles)
 - [**3. Intermediate Prompting**](#3-intermediate-prompting) (5 videos)
-  - Summarization and classification prompt techniques with GPT
-  - Giving GPT-4 a persona
-  - Formatting your prompts
-  - Challenge: Placing a Binaryville character order
-  - Solution: Placing a Binaryville character order
+  - [Summarization and classification prompt techniques with GPT](#summarization-and-classification-prompt-techniques-with-gpt)
+  - [Giving GPT-4 a persona](#giving-gpt-4-a-persona)
+  - [Formatting your prompts](#formatting-your-prompts)
+  - [Challenge: Placing a Binaryville character order](#challenge-placing-a-binaryville-character-order)
+  - [Solution: Placing a Binaryville character order](#solution-placing-a-binaryville-character-order)
 - [**4. Advanced Prompting**](#4-advanced-prompting) (5 videos)
-  - Configuring the system prompt
-  - Adding memory to ChatGPT-4
-  - Prompt chaining with ChatGPT-4
-  - Challenge: Remembering your order
-  - Solution: Remembering your order
+  - [Configuring the system prompt](#configuring-the-system-prompt)
+  - [Adding memory to ChatGPT-4](#adding-memory-to-chatgpt-4)
+  - [Prompt chaining with ChatGPT-4](#prompt-chaining-with-chatgpt-4)
+  - [Challenge: Remembering your order](#challenge-remembering-your-order)
+  - [Solution: Remembering your order](#solution-remembering-your-order)
 - [**5. Building a BigStarCollectibles Chatbot**](#5-building-a-bigstarcollectibles-chatbot) (8 videos)
-  - Vibe coding a chatbot with GPT-4
-  - Showing a no-code chatbot
-  - Building a no-code chatbot
-  - Customizing your chatbot
-  - Prompt chaining for your chatbot
-  - Incorporating memory and knowledge into your AI app
-  - Challenge: A BigStarCollectibles chatbot
-  - Solution: A BigStarCollectibles chatbot
+  - [Vibe coding a chatbot with GPT-4](#vibe-coding-a-chatbot-with-gpt-4)
+  - [Showing a no-code chatbot](#showing-a-no-code-chatbot)
+  - [Building a no-code chatbot](#building-a-no-code-chatbot)
+  - [Customizing your chatbot](#customizing-your-chatbot)
+  - [Prompt chaining for your chatbot](#prompt-chaining-for-your-chatbot)
+  - [Incorporating memory and knowledge into your AI app](#incorporating-memory-and-knowledge-into-your-ai-app)
+  - [Challenge: A BigStarCollectibles chatbot](#challenge-a-bigstarcollectibles-chatbot)
+  - [Solution: A BigStarCollectibles chatbot](#solution-a-bigstarcollectibles-chatbot)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to GPT-4 foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980)
@@ -112,13 +112,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1), power (1)
 > **Speakers:** - you (1)
 
 
 ### 1. Introduction to OpenAI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with ChatGPT-4
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980)
@@ -213,7 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), from, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), data (2), business (1), hit (1), web (1)
 > **Prerequisites:** configure (3), set up (2)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (2), [openai.com](https://openai.com) (2)
 > **UI Navigation:** click on (4)
@@ -347,10 +347,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (12), [[ChatGPT]] (7), data (7), llm (5), [[Google]] (3)
 > **Env Vars:** gpt (6), llm (5)
 > **CLI Commands:** make (6), cat (1)
 > **Analogies:** for example (5)
-> **Code Keywords:** let (1), case, (1), this, (1), interface (1)
 > **Versions:** 1.5 (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -359,7 +359,7 @@ created: 2026-04-29
 
 ### 2. Beginner Prompting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980)
@@ -468,7 +468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1)
+> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (3), hit (2), llm (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (3), llm (1), gbt (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** cat (1), make (1)
@@ -553,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (1), for. (1)
+> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (3), hit (3), [[Microsoft Office|Office]] (1), ai (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gpt (2)
@@ -591,8 +591,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (1), prompt (1), next (1)
 > **Cross-References:** later in (1), go back to (1), in the next (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** chatgpt (1)
@@ -641,7 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** prompt (2), hit (2), [[ChatGPT]] (1), power (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Warnings:** keep in mind (1)
@@ -651,7 +651,7 @@ created: 2026-04-29
 
 ### 3. Intermediate Prompting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarization and classification prompt techniques with GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980)
@@ -760,7 +760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), else. (2), this, (1), case, (1), function (1)
+> **Frameworks & Libraries:** hit (6), [[ChatGPT]] (5), prompt (5), chatbot (3), web (3)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** in the next (1)
@@ -896,7 +896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), for. (1), case, (1), this. (1), delete (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), hit (7), prompt (5), [[Search]] (2), web (2)
 > **UI Navigation:** go to (4), click on (1), scroll down (1)
 > **Env Vars:** gpt (3)
 > **Versions:** 4.1 (1), 4.0 (1)
@@ -976,7 +976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), hit (2), [[GPT-4]] (1), prompt (1), ai (1)
 > **Env Vars:** csv (2), gpt (1)
 > **UI Navigation:** go to (3)
 > **File Paths:** 03_03.txt (1)
@@ -1005,6 +1005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1)
 > **File Paths:** 03_04.txt (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -1051,7 +1052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** prompt (4), hit (3), [[ChatGPT]] (1), chatbot (1), data (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1059,7 +1060,7 @@ created: 2026-04-29
 
 ### 4. Advanced Prompting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring the system prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/configuring-the-system-prompt?u=76281980)
@@ -1162,8 +1163,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (13), [[GPT-4]] (3), hit (1), ai (1)
 > **Env Vars:** gpt (18)
-> **Code Keywords:** let (12)
 > **Versions:** 4.1 (4), 4.0 (1)
 > **UI Navigation:** go to (4), click on (1)
 > **Cross-References:** go back to (2), as we saw (1), previous video (1)
@@ -1246,7 +1247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), default. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Conversational AI]] (2), [[E-Commerce]] (2), feature (1), ai (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
@@ -1415,7 +1416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), finally, (2), else. (1)
+> **Frameworks & Libraries:** prompt (10), hit (8), [[ChatGPT]] (4), [[E-Commerce]] (3), chatbot (1)
 > **File Paths:** prompt1.txt (1), prompt2.txt (1), prompt3.txt (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Exercise Files:** exercise files (3)
@@ -1453,6 +1454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), prompt (2), [[ChatGPT]] (1), [[Customer Support]] (1)
 > **File Paths:** 04_04.txt (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -1569,7 +1571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), for. (1), delete (1)
+> **Frameworks & Libraries:** prompt (6), [[ChatGPT]] (5), hit (4), data (2), chatbot (2)
 > **UI Navigation:** go to (2), scroll up (2)
 > **Cross-References:** go back to (1), we covered (1), in the next (1)
 > **Exercise Files:** exercise file (2), exercise files (1)
@@ -1581,7 +1583,7 @@ created: 2026-04-29
 
 ### 5. Building a BigStarCollectibles Chatbot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vibe coding a chatbot with GPT-4
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980)
@@ -1690,7 +1692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), interface (1), try, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Vibe Coding]] (4), hit (3), chatbot (2), [[Search]] (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -1750,7 +1752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** ai (3), [[E-Commerce]] (1), [[ChatGPT]] (1), hit (1), business (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1851,7 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), require (1), interface (1), from, (1)
+> **Frameworks & Libraries:** prompt (3), chatbot (2), hit (2), [[User Experience (UX)|User experience]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (2), exercise files (1)
 > **Env Vars:** gpt (2)
@@ -2029,7 +2031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (34), continue (3), interface (2), case, (2), finally, (1)
+> **Frameworks & Libraries:** ai (7), api (2), next (2), [[Security]] (2), application (2)
 > **UI Navigation:** click on (12), go to (4), scroll down (2), scroll up (1)
 > **Cross-References:** go back to (4), previous video (1), in the next (1)
 > **CLI Commands:** make (4)
@@ -2181,7 +2183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), interface (1), throw (1)
+> **Frameworks & Libraries:** prompt (6), llm (4), hit (3), chatbot (2), ai (2)
 > **UI Navigation:** click on (9), go to (1)
 > **Env Vars:** llm (4)
 > **Cross-References:** previous video (1), in the next (1)
@@ -2320,7 +2322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), interface (2), default. (2), default, (1), import. (1)
+> **Frameworks & Libraries:** ai (10), llm (5), prompt (4), hit (3), [[Vanilla]] (2)
 > **Env Vars:** llm (5), rag (2)
 > **UI Navigation:** click on (4), go to (1)
 > **Cross-References:** go back to (2), previous video (1), in the next (1)
@@ -2355,7 +2357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), finally, (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), ai (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2433,7 +2435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** power (2), data (1), hit (1), ai (1), prompt (1)
 > **UI Navigation:** click on (2)
 > **URLs:** [fakeemail.com](https://fakeemail.com) (1)
 > **Env Vars:** rag (1)
@@ -2444,7 +2446,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980)
@@ -2463,8 +2465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[ChatGPT]] (2), [[E-Commerce]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gpt (2)
-> **Code Keywords:** let (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Speakers:** - thank (1)
 

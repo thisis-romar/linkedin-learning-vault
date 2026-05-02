@@ -32,7 +32,7 @@ tags:
   - skill/circuit-design
   - skill/electronics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Electronics%20Foundations-%20Basic%20Circuits.md)
@@ -51,75 +51,75 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Principles of basic electronic circuits
-  - What you should know
-  - Using the exercise files
-  - Safety warnings
+  - [Principles of basic electronic circuits](#principles-of-basic-electronic-circuits)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Safety warnings](#safety-warnings)
 - [**1. Building Circuits**](#1-building-circuits) (2 videos)
-  - Read electrical schematics
-  - Build circuits on breadboards
+  - [Read electrical schematics](#read-electrical-schematics)
+  - [Build circuits on breadboards](#build-circuits-on-breadboards)
 - [**2. Resistors**](#2-resistors) (4 videos)
-  - Types of resistors
-  - Resistor characteristics
-  - Read resistor color codes
-  - Measure resistance
+  - [Types of resistors](#types-of-resistors)
+  - [Resistor characteristics](#resistor-characteristics)
+  - [Read resistor color codes](#read-resistor-color-codes)
+  - [Measure resistance](#measure-resistance)
 - [**3. Resistive Circuits**](#3-resistive-circuits) (10 videos)
-  - Resistors in series
-  - Voltage dividers
-  - Shift voltage levels
-  - Measure resistive sensors
-  - Potentiometers
-  - Resistors in parallel
-  - Kirchhoff's circuit laws
-  - Wheatstone Bridge
-  - Challenge: Light activated switch
-  - Solution: Challenge: Light activated switch
+  - [Resistors in series](#resistors-in-series)
+  - [Voltage dividers](#voltage-dividers)
+  - [Shift voltage levels](#shift-voltage-levels)
+  - [Measure resistive sensors](#measure-resistive-sensors)
+  - [Potentiometers](#potentiometers)
+  - [Resistors in parallel](#resistors-in-parallel)
+  - [Kirchhoff's circuit laws](#kirchhoffs-circuit-laws)
+  - [Wheatstone Bridge](#wheatstone-bridge)
+  - [Challenge: Light activated switch](#challenge-light-activated-switch)
+  - [Solution: Challenge: Light activated switch](#solution-challenge-light-activated-switch)
 - [**4. Oscilloscope Measurements**](#4-oscilloscope-measurements) (4 videos)
-  - What is an oscilloscope?
-  - Measure a signal
-  - Oscilloscope display settings
-  - Oscilloscope trigger settings
+  - [What is an oscilloscope?](#what-is-an-oscilloscope)
+  - [Measure a signal](#measure-a-signal)
+  - [Oscilloscope display settings](#oscilloscope-display-settings)
+  - [Oscilloscope trigger settings](#oscilloscope-trigger-settings)
 - [**5. Capacitors**](#5-capacitors) (9 videos)
-  - What is a capacitor?
-  - Types of capacitors
-  - Read capacitor values
-  - Capacitor characteristics
-  - Capacitors in parallel
-  - Capacitors in series
-  - RC circuits
-  - Challenge: Camera flash
-  - Solution: Camera flash
+  - [What is a capacitor?](#what-is-a-capacitor)
+  - [Types of capacitors](#types-of-capacitors)
+  - [Read capacitor values](#read-capacitor-values)
+  - [Capacitor characteristics](#capacitor-characteristics)
+  - [Capacitors in parallel](#capacitors-in-parallel)
+  - [Capacitors in series](#capacitors-in-series)
+  - [RC circuits](#rc-circuits)
+  - [Challenge: Camera flash](#challenge-camera-flash)
+  - [Solution: Camera flash](#solution-camera-flash)
 - [**6. Alternating Current**](#6-alternating-current) (3 videos)
-  - Alternating current vs. direct current
-  - Sine wave characteristics
-  - Measure AC voltage
+  - [Alternating current vs. direct current](#alternating-current-vs-direct-current)
+  - [Sine wave characteristics](#sine-wave-characteristics)
+  - [Measure AC voltage](#measure-ac-voltage)
 - [**7. Electrical Signals**](#7-electrical-signals) (3 videos)
-  - Frequency domain
-  - Bandwidth and square waves
-  - Signal sources
+  - [Frequency domain](#frequency-domain)
+  - [Bandwidth and square waves](#bandwidth-and-square-waves)
+  - [Signal sources](#signal-sources)
 - [**8. Reactive Circuits**](#8-reactive-circuits) (10 videos)
-  - Impedance
-  - Filter frequency response
-  - Logarithmic scale
-  - Decibels
-  - RC low pass filter
-  - Decoupling capacitors
-  - RC high pass filter
-  - Impedance matching and bridging
-  - Challenge: Filter audio
-  - Solution: Filter audio
+  - [Impedance](#impedance)
+  - [Filter frequency response](#filter-frequency-response)
+  - [Logarithmic scale](#logarithmic-scale)
+  - [Decibels](#decibels)
+  - [RC low pass filter](#rc-low-pass-filter)
+  - [Decoupling capacitors](#decoupling-capacitors)
+  - [RC high pass filter](#rc-high-pass-filter)
+  - [Impedance matching and bridging](#impedance-matching-and-bridging)
+  - [Challenge: Filter audio](#challenge-filter-audio)
+  - [Solution: Filter audio](#solution-filter-audio)
 - [**9. Inductors**](#9-inductors) (5 videos)
-  - Inductance
-  - What is an inductor?
-  - Types of inductors
-  - L/R response
-  - Capacitors vs. inductors
+  - [Inductance](#inductance)
+  - [What is an inductor?](#what-is-an-inductor)
+  - [Types of inductors](#types-of-inductors)
+  - [L/R response](#lr-response)
+  - [Capacitors vs. inductors](#capacitors-vs-inductors)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue to learn more on electronics
+  - [Continue to learn more on electronics](#continue-to-learn-more-on-electronics)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Principles of basic electronic circuits
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/principles-of-basic-electronic-circuits?u=76281980)
@@ -150,9 +150,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Non-Speech:** (upbeat music) (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - to (1)
 
@@ -177,6 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Electronics]] (1), [[Calculus]] (1), express (1)
 > **Analogies:** such as (1)
 > **Speakers:** - before (1)
 
@@ -219,10 +220,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (1), [[Electronics]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
 > **Exercise Files:** exercise files (4)
 > **Env Vars:** dmm (2), pdf (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** interface (1)
 > **UI Navigation:** navigate to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -258,6 +259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (2), power (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -266,7 +268,7 @@ created: 2026-04-29
 
 ### 1. Building Circuits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Read electrical schematics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-electrical-schematics-14160027?u=76281980)
@@ -379,8 +381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), next (2), parallel (2), [[Debugging]] (1), [[Arduino]] (1)
 > **Analogies:** for example (3), imagine (1), just like (1)
-> **Code Keywords:** let (1), this. (1), finally, (1)
 > **Env Vars:** sck (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
@@ -501,8 +503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (16), [[Electronics]] (1), [[Prototyping]] (1), [[Soldering]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** case, (1), finally, (1)
 > **Analogies:** imagine (1), for example (1)
 > **Best Practices:** you should always (2)
 > **Versions:** 3.3 (1)
@@ -512,7 +514,7 @@ created: 2026-04-29
 
 ### 2. Resistors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of resistors
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-resistors-14155501?u=76281980)
@@ -591,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (6)
+> **Frameworks & Libraries:** power (8), [[Prototyping]] (2), product (1)
 > **Env Vars:** smd (3), pth (1)
 > **Definitions:** stands for (2)
 > **CLI Commands:** find (1)
@@ -695,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), function (2)
+> **Frameworks & Libraries:** power (10), feature (2), [[Electronics]] (1), [[Microsoft Products|Products]] (1), [[Search]] (1)
 > **Definitions:** is a  (3)
 > **Versions:** 9.5 (1), 10.5 (1)
 > **Analogies:** for example (2)
@@ -779,10 +781,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **URLs:** [hobby-hour.com](https://hobby-hour.com) (1)
 > **Versions:** 31.6 (1)
 > **UI Navigation:** select the (1)
@@ -861,9 +863,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** dmm (10), com (1)
 > **Versions:** 0.8 (1), 0.988 (1), 0.984 (1), 0.67 (1)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - since (1)
@@ -871,7 +873,7 @@ created: 2026-04-29
 
 ### 3. Resistive Circuits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resistors in series
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistors-in-series-14158256?u=76281980)
@@ -930,10 +932,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (11)
 > **Versions:** 0.5 (4), 0.4 (1), 0.2 (1), 0.8 (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -990,8 +992,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** pass (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1065,8 +1067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (8), [[Arduino]] (2)
 > **Versions:** 3.3 (8)
-> **Code Keywords:** require (2), case, (1), pass (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1126,6 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (4), power (1)
 > **Versions:** 4.7 (1), 1.2 (1), 2.2 (1), 3.8 (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise files (1)
@@ -1185,6 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Prototyping]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2)
 > **Tools:** terminal (1)
@@ -1274,6 +1278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (15), power (3)
 > **Versions:** 6.66 (2), 0.75 (2), 3.75 (2), 0.0001 (1), 0.00005 (1)
 > **Env Vars:** dmm (2)
 > **Tools:** terminal (1)
@@ -1349,9 +1354,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (11), parallel (3)
 > **CLI Commands:** node (11), make (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** pass (1), raise (1)
 > **Tools:** terminal (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1423,11 +1428,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (2), node (2), power (1)
 > **CLI Commands:** node (2), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** dmm (2)
 > **Versions:** 2.3 (2)
-> **Code Keywords:** case, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1486,7 +1491,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), interface (2), static (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dmm (1)
 > **Speakers:** - [instructor] (1)
@@ -1550,8 +1554,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), parallel (1), next (1)
 > **CLI Commands:** make (2), node (2), find (1)
-> **Code Keywords:** switch (2)
 > **Analogies:** for example (1), just like (1)
 > **Env Vars:** dmm (1)
 > **Versions:** 2.5 (1)
@@ -1561,7 +1565,7 @@ created: 2026-04-29
 
 ### 4. Oscilloscope Measurements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an oscilloscope?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-oscilloscope-14154695?u=76281980)
@@ -1648,10 +1652,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (3), [[Debugging]] (1), functional (1), next (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** lcd (1), rigol (1), ds1054z (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** ebay (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
@@ -1744,7 +1748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), pass (1)
+> **Frameworks & Libraries:** next (1)
 > **Prerequisites:** configure (3), you'll need (1)
 > **Env Vars:** bnc (1)
 > **Cross-References:** in the next (1)
@@ -1821,8 +1825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (6), [[Forms]] (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
@@ -1941,8 +1945,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2), [[Zoom]] (2), feature (1), [[Electronics]] (1)
 > **Analogies:** picture (3), just like (1), similar to (1), for example (1)
-> **Code Keywords:** type. (1), new. (1), raise (1), continue (1)
 > **Non-Speech:** (camera shutter clicking) (4)
 > **CLI Commands:** snap (3)
 > **Tools:** terminal (3)
@@ -1953,7 +1957,7 @@ created: 2026-04-29
 
 ### 5. Capacitors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a capacitor?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-a-capacitor-14155491?u=76281980)
@@ -2046,10 +2050,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), parallel (1), [[Electronics]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Tools:** terminal (2)
 > **Analogies:** think of it like (1), similar to (1)
-> **Code Keywords:** this, (1)
 > **URLs:** [sparkfun.com](https://sparkfun.com) (1)
 > **Speakers:** - objects (1)
 
@@ -2128,6 +2132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** terminal (3)
 > **Best Practices:** always make sure (1), you should always (1)
@@ -2201,6 +2206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), express (1), feature (1)
 > **Analogies:** for example (2), just like (1), similar to (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -2259,6 +2265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), power (1)
 > **Env Vars:** esr (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
@@ -2302,6 +2309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (9)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** is a  (1)
@@ -2362,6 +2370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (3)
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -2475,7 +2484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (7), finally, (1), require (1)
+> **Frameworks & Libraries:** power (3)
 > **Definitions:** is called (1), means that (1), is a  (1)
 > **UI Navigation:** switch to (2)
 > **Analogies:** it's like (1), for example (1)
@@ -2527,7 +2536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4)
+> **Frameworks & Libraries:** power (2)
 > **UI Navigation:** select the (2), switch to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -2584,7 +2593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3)
+> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 13.2 (1), 3.3 (1)
 > **UI Navigation:** switch to (2)
@@ -2593,7 +2602,7 @@ created: 2026-04-29
 
 ### 6. Alternating Current
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Alternating current vs. direct current
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/alternating-current-vs-direct-current-14154693?u=76281980)
@@ -2658,7 +2667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3)
+> **Frameworks & Libraries:** power (6), next (1)
 > **Env Vars:** vdc (1), vac (1), usb (1)
 > **Tools:** terminal (3)
 > **Analogies:** for example (1), it's like (1), just like (1)
@@ -2758,9 +2767,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (2), power (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (1), function (1)
 > **Best Practices:** always make sure (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -2850,9 +2859,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (14), next (1)
 > **Env Vars:** dmm (6), rms (6)
 > **Definitions:** is a  (5), is called (1), refers to (1)
-> **Code Keywords:** function (2), finally, (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - the (1)
@@ -2860,7 +2869,7 @@ created: 2026-04-29
 
 ### 7. Electrical Signals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Frequency domain
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/frequency-domain-14158269?u=76281980)
@@ -2933,7 +2942,6 @@ created: 2026-04-29
 >
 > **Definitions:** is called (2), is a  (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** function (2)
 > **Env Vars:** fft (1), ifft (1)
 > **Speakers:** - from (1)
 
@@ -3006,7 +3014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), pass (1), let (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** next (1), [[Zoom]] (1)
 > **Analogies:** just like (1), kind of like (1), picture (1), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -3077,7 +3085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), interface (1), while. (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Forms]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (1)
 > **Versions:** 3.5 (1)
@@ -3088,7 +3096,7 @@ created: 2026-04-29
 
 ### 8. Reactive Circuits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Impedance
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-14157280?u=76281980)
@@ -3205,7 +3213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2), similar to (2), just like (1), it's like (1)
 > **Definitions:** is called (1), is an  (1), means that (1), is a  (1)
 > **Versions:** 15.9 (2)
@@ -3325,7 +3333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), require (1), function (1), let (1), continue (1)
+> **Frameworks & Libraries:** power (10), semiconductor (1)
 > **Versions:** 0.998 (1), 3.6 (1), 0.954 (1), 17.44 (1), 0.847 (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is called (1)
@@ -3449,8 +3457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Electronics]] (1), next (1)
 > **Definitions:** is called (3), is a  (2)
-> **Code Keywords:** let (1), pass (1), this, (1), case, (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -3596,10 +3604,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (29), [[Electronics]] (3), express (3), feature (2)
 > **Code Identifiers:** db (26), dbm (1), dbw (1), dbv (1)
 > **Definitions:** is a  (9)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (1), continue (1), switch (1), function (1)
 > **Analogies:** such as (2), for example (2)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [tutor] (1), - 10 (1)
@@ -3737,7 +3745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (18), function (2), this. (1), continue (1)
+> **Frameworks & Libraries:** power (2), parallel (1), hit (1)
 > **Versions:** 9.95 (2), 1.6 (2), 0.708 (1)
 > **Definitions:** is a  (2), is called (2), known as (1)
 > **Code Identifiers:** db (3)
@@ -3806,7 +3814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), switch (1)
+> **Frameworks & Libraries:** power (11), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2), kind of like (1)
 > **Best Practices:** rule of thumb (1), you should always (1)
 > **CLI Commands:** make (1)
@@ -3890,7 +3898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (17), function (4), raise (1), continue (1), case, (1)
+> **Frameworks & Libraries:** parallel (1), node (1), power (1)
 > **Versions:** 1.6 (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** node (1)
@@ -3977,9 +3985,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Electronics]] (1)
 > **Analogies:** such as (2), similar to (1), for example (1)
 > **Definitions:** known as (3)
-> **Code Keywords:** function (1)
 > **Versions:** 99.9 (1)
 > **Best Practices:** rule of thumb (1)
 > **Warnings:** keep in mind (1)
@@ -4082,7 +4090,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), pass (1)
 > **Non-Speech:** (electronic music) (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4090,7 +4097,7 @@ created: 2026-04-29
 
 ### 9. Inductors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inductance
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/inductance-14159237?u=76281980)
@@ -4175,6 +4182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), parallel (3), next (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
@@ -4269,7 +4277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
@@ -4329,7 +4337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), this. (1), case. (1)
+> **Frameworks & Libraries:** parallel (4), power (1)
 > **Analogies:** similar to (3), just like (1)
 > **CLI Commands:** find (2)
 > **Documentation:** specification (1)
@@ -4402,7 +4410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), pass (1)
+> **Frameworks & Libraries:** power (6)
 > **Analogies:** similar to (2), for example (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is called (1)
@@ -4492,7 +4500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (11)
+> **Frameworks & Libraries:** [[React.js|React]] (1), power (1), application (1)
 > **Analogies:** for example (3)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
@@ -4500,7 +4508,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue to learn more on electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/continue-to-learn-more-on-electronics?u=76281980)
@@ -4521,7 +4529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** power (1), [[Electronics]] (1)
 > **Speakers:** - thanks (1)
 
 

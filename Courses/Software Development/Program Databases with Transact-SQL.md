@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/transact-sql-t-sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Program%20Databases%20with%20Transact-SQL.md)
@@ -47,53 +47,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Program databases with SQL Server
-  - What you should know
-  - Using the exercise files
+  - [Program databases with SQL Server](#program-databases-with-sql-server)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Create Views of the Data**](#1-create-views-of-the-data) (4 videos)
-  - Save a query as a view object
-  - Explore existing views
-  - SchemaBind a view
-  - Leverage view objects with indexes
+  - [Save a query as a view object](#save-a-query-as-a-view-object)
+  - [Explore existing views](#explore-existing-views)
+  - [SchemaBind a view](#schemabind-a-view)
+  - [Leverage view objects with indexes](#leverage-view-objects-with-indexes)
 - [**2. Create User-Defined Functions**](#2-create-user-defined-functions) (6 videos)
-  - Deterministic vs. nondeterministic functions
-  - Scalar-valued user-defined functions
-  - IF ELSE and CASE statements
-  - Table-valued user-defined functions
-  - Challenge: Create a function
-  - Solution: Create a function
+  - [Deterministic vs. nondeterministic functions](#deterministic-vs-nondeterministic-functions)
+  - [Scalar-valued user-defined functions](#scalar-valued-user-defined-functions)
+  - [IF ELSE and CASE statements](#if-else-and-case-statements)
+  - [Table-valued user-defined functions](#table-valued-user-defined-functions)
+  - [Challenge: Create a function](#challenge-create-a-function)
+  - [Solution: Create a function](#solution-create-a-function)
 - [**3. Work with Stored Procedures**](#3-work-with-stored-procedures) (6 videos)
-  - Write and execute a stored procedure
-  - Stored procedure input parameters
-  - Stored procedure output parameters
-  - Create a database trigger
-  - Challenge: Use function in a stored procedure
-  - Solution: Use function in a stored procedure
+  - [Write and execute a stored procedure](#write-and-execute-a-stored-procedure)
+  - [Stored procedure input parameters](#stored-procedure-input-parameters)
+  - [Stored procedure output parameters](#stored-procedure-output-parameters)
+  - [Create a database trigger](#create-a-database-trigger)
+  - [Challenge: Use function in a stored procedure](#challenge-use-function-in-a-stored-procedure)
+  - [Solution: Use function in a stored procedure](#solution-use-function-in-a-stored-procedure)
 - [**4. Create Transactions**](#4-create-transactions) (6 videos)
-  - Ensure data consistency with transactions
-  - Create a transaction
-  - Transaction savepoints
-  - Automatically roll back transactions
-  - Challenge: Create a transaction
-  - Solution: Create a transaction
+  - [Ensure data consistency with transactions](#ensure-data-consistency-with-transactions)
+  - [Create a transaction](#create-a-transaction)
+  - [Transaction savepoints](#transaction-savepoints)
+  - [Automatically roll back transactions](#automatically-roll-back-transactions)
+  - [Challenge: Create a transaction](#challenge-create-a-transaction)
+  - [Solution: Create a transaction](#solution-create-a-transaction)
 - [**5. Implement Error Handling**](#5-implement-error-handling) (6 videos)
-  - What is error handling?
-  - Capture errors with TRY and CATCH
-  - Generate errors with THROW
-  - Manage transaction control
-  - Challenge: Add error handling to a stored procedure
-  - Solution: Add error handling to a stored procedure
+  - [What is error handling?](#what-is-error-handling)
+  - [Capture errors with TRY and CATCH](#capture-errors-with-try-and-catch)
+  - [Generate errors with THROW](#generate-errors-with-throw)
+  - [Manage transaction control](#manage-transaction-control)
+  - [Challenge: Add error handling to a stored procedure](#challenge-add-error-handling-to-a-stored-procedure)
+  - [Solution: Add error handling to a stored procedure](#solution-add-error-handling-to-a-stored-procedure)
 - [**6. Data Type Conversions and NULLs**](#6-data-type-conversions-and-nulls) (4 videos)
-  - Implicit data type conversions
-  - Understand NULL values
-  - The ISNULL function
-  - Merge rows with COALESCE
+  - [Implicit data type conversions](#implicit-data-type-conversions)
+  - [Understand NULL values](#understand-null-values)
+  - [The ISNULL function](#the-isnull-function)
+  - [Merge rows with COALESCE](#merge-rows-with-coalesce)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Program databases with SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980)
@@ -116,8 +116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [adam] (1)
 
@@ -138,8 +138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), management (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1), database (1)
 > **Env Vars:** sql (5)
-> **Code Keywords:** interface (1)
 > **Versions:** version 18 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -214,10 +214,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[Databases]] (3), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), management (2)
 > **Env Vars:** sql (6), mssql (2), url (1), mssql15 (1), server (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** click on (2), checkbox (1)
-> **Code Keywords:** continue (1), let (1)
 > **Definitions:** is a  (2)
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
@@ -226,7 +226,7 @@ created: 2026-04-29
 
 ### 1. Create Views of the Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Save a query as a view object
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/save-a-query-as-a-view-object?u=76281980)
@@ -347,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), this, (1), require (1), type, (1)
+> **Frameworks & Libraries:** data (7), database (6), [[Fetch]] (1), application (1)
 > **Prerequisites:** you need to have (2), assuming you have (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -433,7 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (2), function (2), from, (1)
+> **Frameworks & Libraries:** database (5), [[SQL]] (3), management (1)
 > **CLI Commands:** find (7)
 > **Code Identifiers:** object_id (3), ansi_nuls (1), sp_helptext (1)
 > **Env Vars:** sql (3)
@@ -577,7 +577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), this, (1)
+> **Frameworks & Libraries:** database (11), [[Microsoft SQL Server|Sql server]] (2), [[Security]] (1), management (1), [[SQL]] (1)
 > **Env Vars:** alter (3), sql (2), where (1)
 > **CLI Commands:** make (3), find (2)
 > **Code Identifiers:** sp_rename (2), dm_sql_referencing_entities (1)
@@ -711,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), function (2)
+> **Frameworks & Libraries:** database (9), data (7), [[Hardware]] (2), hit (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for instance (2), such as (1), just like (1)
 > **CLI Commands:** find (2), make (1)
@@ -723,7 +723,7 @@ created: 2026-04-29
 
 ### 2. Create User-Defined Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deterministic vs. nondeterministic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980)
@@ -848,7 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (2), require (1)
+> **Frameworks & Libraries:** data (5), database (4), [[Microsoft SQL Server|Sql server]] (3), [[Programming]] (2), [[Windows]] (1)
 > **Env Vars:** rand (4), sql (3)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 3.99 (2)
@@ -1024,7 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (35), let (7), pass (4), return. (2), this, (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), database (5), application (5), next (4), data (4)
 > **Env Vars:** sql (6), udf (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** select the (2), click on (1)
@@ -1134,7 +1134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (22), let (5), type. (2), this, (2), type, (1)
+> **Frameworks & Libraries:** data (5), application (2), database (2), next (1)
 > **Definitions:** means that (2), is called (1), is a  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
@@ -1243,7 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (5), pass (2), type . (1), return, (1)
+> **Frameworks & Libraries:** data (4), database (1), [[Programming]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** where (3), usb (1), return (1)
 > **Analogies:** just like (3), for instance (1)
@@ -1277,7 +1277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), pass (1)
+> **Frameworks & Libraries:** database (1), next (1)
 > **Versions:** 3.5 (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [illustrator] (1)
@@ -1510,7 +1510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), function (22), pass (3), match. (1), type, (1)
+> **Frameworks & Libraries:** data (13), next (2), database (1), management (1), [[SQL]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** select the (3)
 > **Versions:** 3.5 (2)
@@ -1522,7 +1522,7 @@ created: 2026-04-29
 
 ### 3. Work with Stored Procedures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Write and execute a stored procedure
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/write-and-execute-a-stored-procedure?u=76281980)
@@ -1667,7 +1667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (5), fn (1), interface (1)
+> **Frameworks & Libraries:** database (13), application (10), next (3), data (1), [[SQL]] (1)
 > **Code Identifiers:** uspviewemployees (3), uspviewdata (2)
 > **Definitions:** is a  (3), stands for (1)
 > **Env Vars:** exec (2), sql (1)
@@ -1845,7 +1845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (4), type. (1), var (1), function (1)
+> **Frameworks & Libraries:** data (4), database (3), [[Microsoft SQL Server|Sql server]] (2), application (1), [[Databases]] (1)
 > **Code Identifiers:** uspinsertcolor (3), uspremovelastcolor (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (2)
@@ -1938,7 +1938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), interface (1), type. (1), type, (1), let (1)
+> **Frameworks & Libraries:** application (7), database (3), data (3), next (1), management (1)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** usp (1)
@@ -2004,7 +2004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), case, (1), pass (1)
+> **Frameworks & Libraries:** database (5), [[Data Manipulation]] (1), data (1), [[Search]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2)
 > **Env Vars:** sql (1)
@@ -2045,8 +2045,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[SQL]] (1), next (1)
 > **File Paths:** 03_06_challenge-start.sql (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** customeraccountaudit (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -2185,7 +2185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), pass (2), from, (2), this. (2), function (1)
+> **Frameworks & Libraries:** database (2), [[Search]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (2), scroll down (1)
 > **Env Vars:** sql (2)
@@ -2197,7 +2197,7 @@ created: 2026-04-29
 
 ### 4. Create Transactions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensure data consistency with transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/ensure-data-consistency-with-transactions?u=76281980)
@@ -2260,7 +2260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), module (1)
+> **Frameworks & Libraries:** data (5), database (3)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - when (1)
@@ -2358,7 +2358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), database (1), data (1), next (1)
 > **Env Vars:** sql (1), usp (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - to (1)
@@ -2448,7 +2448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (2), this, (1)
+> **Frameworks & Libraries:** data (2), [[Programming]] (1), database (1), next (1), game (1)
 > **Env Vars:** trancount (6)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -2565,8 +2565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), database (2), data (1), next (1)
 > **Env Vars:** xact_abort (6), sql (3), select (3), set (2), off (1)
-> **Code Keywords:** let (6), case. (1), this. (1)
 > **CLI Commands:** find (3)
 > **SQL:** select (3)
 > **Cross-References:** in the next (1)
@@ -2601,8 +2601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[SQL]] (1), data (1), database (1)
 > **Cross-References:** in the next (2), next chapter (1)
-> **Code Keywords:** pass (1), finally, (1)
 > **File Paths:** 04_06_challenge-start.sql (1)
 > **Speakers:** - [illustrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2850,7 +2850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), type. (2), this. (2), pass (2), this, (2)
+> **Frameworks & Libraries:** next (10), data (3), [[SQL]] (1), database (1)
 > **Env Vars:** dbo (7)
 > **Cross-References:** in the next (6)
 > **CLI Commands:** make (3)
@@ -2862,7 +2862,7 @@ created: 2026-04-29
 
 ### 5. Implement Error Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is error handling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-is-error-handling?u=76281980)
@@ -2905,7 +2905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), this, (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** database (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -3012,8 +3012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), application (4), generic (1)
 > **Env Vars:** catch (12), try (8), sql (4), begin (2), end (2)
-> **Code Keywords:** let (5), case, (4), try, (1), catch. (1), catch . (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3102,7 +3102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (12), let (2), finally, (1), var (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), database (2), [[SQL]] (1), business (1), application (1)
 > **Env Vars:** sql (7)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
@@ -3197,7 +3197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try. (2), pass (2), throw (1), switch (1)
+> **Frameworks & Libraries:** data (1), hit (1), database (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1), go back to (1)
 > **Code Identifiers:** uspinsertcolor (1)
@@ -3236,10 +3236,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **File Paths:** 05_06_challenge-start.sql (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
@@ -3460,7 +3460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), throw (9), this, (5), this. (4), pass (2)
+> **Frameworks & Libraries:** next (1), data (1), [[Microsoft Word|Word]] (1), database (1), [[SQL]] (1)
 > **Env Vars:** begin (13), catch (9), end (7), null (5), try (3)
 > **CLI Commands:** make (11)
 > **SQL:** where (3)
@@ -3472,7 +3472,7 @@ created: 2026-04-29
 
 ### 6. Data Type Conversions and NULLs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implicit data type conversions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980)
@@ -3577,7 +3577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (5), let (3), type, (2), function (2), override (1)
+> **Frameworks & Libraries:** data (26), [[Microsoft SQL Server|Sql server]] (9), [[Databases]] (1), [[Microsoft Word|Word]] (1), [[SQL]] (1)
 > **Env Vars:** sql (10), var (5), url (2)
 > **CLI Commands:** find (2)
 > **Versions:** 500.5 (1), 1500.5 (1)
@@ -3669,7 +3669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), type. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), data (2)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -3775,7 +3775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (2), switch (1), pass (1)
+> **Frameworks & Libraries:** database (2), [[Microsoft Word|Word]] (1), data (1), application (1)
 > **Env Vars:** isnull (11)
 > **Analogies:** for instance (3), for example (1)
 > **CLI Commands:** make (1), find (1)
@@ -3926,7 +3926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (7), this, (1), pass (1), return. (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Products|Products]] (4), next (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **UI Navigation:** scroll down (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sql (2)
@@ -3938,7 +3938,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980)
@@ -3961,9 +3961,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2), next (2), database (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [narrator] (1)
 
 

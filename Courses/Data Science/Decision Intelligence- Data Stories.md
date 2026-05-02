@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Decision%20Intelligence-%20Data%20Stories.md)
@@ -41,23 +41,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Theory is good, but practice can be better
-  - What you should know
+  - [Theory is good, but practice can be better](#theory-is-good-but-practice-can-be-better)
+  - [What you should know](#what-you-should-know)
 - [**1. Data Stories**](#1-data-stories) (8 videos)
-  - Why perfect predictions can backfire
-  - Why inaccurate modelling can cause harm
-  - Why causality needs careful thought
-  - Why experiments need ethical considerations
-  - How dashboards and visualizations can clarify or obscure
-  - Why early modeling success should not be taken for granted
-  - Why effective communication between stakeholders matters
-  - Why survey quality shouldn't be taken for granted
+  - [Why perfect predictions can backfire](#why-perfect-predictions-can-backfire)
+  - [Why inaccurate modelling can cause harm](#why-inaccurate-modelling-can-cause-harm)
+  - [Why causality needs careful thought](#why-causality-needs-careful-thought)
+  - [Why experiments need ethical considerations](#why-experiments-need-ethical-considerations)
+  - [How dashboards and visualizations can clarify or obscure](#how-dashboards-and-visualizations-can-clarify-or-obscure)
+  - [Why early modeling success should not be taken for granted](#why-early-modeling-success-should-not-be-taken-for-granted)
+  - [Why effective communication between stakeholders matters](#why-effective-communication-between-stakeholders-matters)
+  - [Why survey quality shouldn't be taken for granted](#why-survey-quality-shouldnt-be-taken-for-granted)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Boost your data skills
+  - [Boost your data skills](#boost-your-data-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Theory is good, but practice can be better
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/theory-is-good-but-practice-can-be-better?u=76281980)
@@ -80,8 +80,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (1), power (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - data (1)
 
 #### What you should know
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Statistics]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2)
 > **Prerequisites:** you'll need (1), you need to have (1)
 > **Analogies:** for example (1)
 > **Speakers:** - this (1)
@@ -126,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Data Stories
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why perfect predictions can backfire
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980)
@@ -209,7 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), private (1), public (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Products|Products]] (2), [[Privacy]] (2), next (1), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
@@ -305,7 +305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), case, (1), this. (1)
+> **Frameworks & Libraries:** data (10), [[Statistics]] (1), [[Public Health]] (1), teams (1)
 > **Env Vars:** gdp (4)
 > **Versions:** 1.7 (1), 3.7 (1)
 > **Warnings:** be aware (1)
@@ -400,7 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (4), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -498,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** data (9), [[Ethics]] (4), power (1), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** checkbox (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - randomized (1)
@@ -636,7 +636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (11), let (3), interface (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (22), [[Public Health]] (10), [[Dashboards]] (6), power (1), [[Zoom]] (1)
 > **Env Vars:** covid (9)
 > **Analogies:** picture (2), such as (1), similar to (1), for example (1)
 > **CLI Commands:** make (2)
@@ -754,7 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (1), case, (1)
+> **Frameworks & Libraries:** data (12), [[Google]] (12), [[Search]] (10), [[Public Health]] (3), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -874,7 +874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), public (2), let (2), case. (1)
+> **Frameworks & Libraries:** data (19), [[Probability]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[Logistic Regression]] (1), business (1)
 > **Env Vars:** nasa (3)
 > **Versions:** 99.99 (1)
 > **Analogies:** picture (1)
@@ -999,8 +999,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Statistics]] (6), [[Privacy]] (2), [[Microsoft Office|Office]] (1), [[Interviewing]] (1)
 > **Analogies:** such as (3), picture (1), for example (1)
-> **Code Keywords:** public (1), let (1), continue (1), protected (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** covid (2)
 > **Speakers:** - [instructor] (1)
@@ -1008,7 +1008,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Boost your data skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980)
@@ -1063,7 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** data (13), [[Statistics]] (4), [[Storytelling]] (2), [[LinkedIn]] (1), [[Ethics]] (1)
 > **URLs:** [medium.com](https://medium.com) (1), [informationisbeautiful.net](https://informationisbeautiful.net) (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)

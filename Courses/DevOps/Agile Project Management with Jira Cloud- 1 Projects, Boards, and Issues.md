@@ -30,7 +30,7 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Project%20Management%20with%20Jira%20Cloud-%201%20Projects%2C%20Boards%2C%20and%20Issues.md)
@@ -49,27 +49,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course overview
+  - [Course overview](#course-overview)
 - [**1. Agile and Jira**](#1-agile-and-jira) (3 videos)
-  - Agile and Jira overview
-  - Lab: Cloud company-managed
-  - Lab: Cloud team-managed
+  - [Agile and Jira overview](#agile-and-jira-overview)
+  - [Lab: Cloud company-managed](#lab-cloud-company-managed)
+  - [Lab: Cloud team-managed](#lab-cloud-team-managed)
 - [**2. Project Boards**](#2-project-boards) (3 videos)
-  - Using project boards
-  - Lab: Cloud company-managed
-  - Lab: Cloud team-managed
+  - [Using project boards](#using-project-boards)
+  - [Lab: Cloud company-managed](#lab-cloud-company-managed)
+  - [Lab: Cloud team-managed](#lab-cloud-team-managed)
 - [**3. Enrich Issues**](#3-enrich-issues) (3 videos)
-  - Enriching issues
-  - Lab: Cloud company-managed
-  - Lab: Cloud team-managed
+  - [Enriching issues](#enriching-issues)
+  - [Lab: Cloud company-managed](#lab-cloud-company-managed)
+  - [Lab: Cloud team-managed](#lab-cloud-team-managed)
 - [**4. Kanban Method**](#4-kanban-method) (3 videos)
-  - Using the kanban method
-  - Lab: Cloud company-managed
-  - Lab: Cloud team-managed
+  - [Using the kanban method](#using-the-kanban-method)
+  - [Lab: Cloud company-managed](#lab-cloud-company-managed)
+  - [Lab: Cloud team-managed](#lab-cloud-team-managed)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/course-overview?u=76281980)
@@ -114,8 +114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (8), [[Agile Development|Agile]] (6), [[Atlassian]] (5), cloud (4), next (3)
 > **Tools:** jira (8)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Prerequisites:** configure (2)
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Agile and Jira
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile and Jira overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980)
@@ -289,9 +289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (42), [[Agile Development|Agile]] (28), teams (8), management (7), data (2)
 > **Tools:** jira (42)
 > **Definitions:** is a  (10), means that (3), is an  (3), known as (1)
-> **Code Keywords:** finally, (2), let (1), type. (1), type, (1), case, (1)
 > **Env Vars:** proj (2)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (2)
@@ -375,9 +375,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5)
 > **Env Vars:** jira (5)
 > **Tools:** jira (5)
-> **Code Keywords:** let (3), default, (1)
 > **UI Navigation:** select the (2), checkbox (2)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (2)
@@ -425,9 +425,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Jira]] (1)
 > **UI Navigation:** select the (1), checkbox (1)
 > **Exercise Files:** template (2)
-> **Code Keywords:** let (1)
 > **Tools:** jira (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -435,7 +435,7 @@ created: 2026-04-29
 
 ### 2. Project Boards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using project boards
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980)
@@ -580,12 +580,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (10), next (3), [[Agile Development|Agile]] (2), [[Dashboards]] (2)
 > **Tools:** jira (10)
 > **Definitions:** is a  (3), is an  (1), known as (1)
 > **Prerequisites:** configure (2), setup (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Lab: Cloud company-managed
@@ -689,8 +689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Jira]] (2)
 > **Prerequisites:** configure (7)
-> **Code Keywords:** let (3), type, (1), delete (1), interface (1)
 > **UI Navigation:** in the sidebar (2), navigate to (1), drag and drop (1), go to (1)
 > **Code Identifiers:** projecta (3)
 > **Definitions:** is a  (3)
@@ -817,8 +817,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6)
 > **UI Navigation:** open the (2), select the (2), in the sidebar (2), drag and drop (1)
-> **Code Keywords:** let (4), delete (1), interface (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** make (1)
@@ -828,7 +828,7 @@ created: 2026-04-29
 
 ### 3. Enrich Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enriching issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980)
@@ -983,9 +983,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Version Control]] (7), [[Jira]] (7), [[Search]] (3), next (2), database (1)
 > **Tools:** jira (7)
 > **Definitions:** is a  (6), is an  (1)
-> **Code Keywords:** case, (3), type. (2), type, (1)
 > **Analogies:** such as (3), for example (2), for instance (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1141,7 +1141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (2), default, (2), type. (2), type, (1)
+> **Frameworks & Libraries:** database (5), [[Search]] (3), [[Confluence]] (3), [[Jira]] (2), [[Interviewing]] (1)
 > **UI Navigation:** dropdown (2), open the (2), click on (1), in the toolbar (1), navigate to (1)
 > **Tools:** confluence (3), jira (2)
 > **Analogies:** for instance (2), just like (1), for example (1)
@@ -1358,7 +1358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), type. (3), default, (2), type, (2), interface (1)
+> **Frameworks & Libraries:** [[Confluence]] (3), next (3), [[Jira]] (2), [[Search]] (2), product (1)
 > **UI Navigation:** open the (4), dropdown (3), in the toolbar (1), navigate to (1), in the sidebar (1)
 > **Tools:** confluence (3), jira (2)
 > **Analogies:** for example (2), just like (2)
@@ -1369,7 +1369,7 @@ created: 2026-04-29
 
 ### 4. Kanban Method
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the kanban method
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980)
@@ -1618,10 +1618,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), [[Jira]] (5), next (4), [[Scrum]] (2), [[Programming]] (1)
 > **Definitions:** is a  (7), is an  (2), known as (1), means that (1), is called (1)
 > **Analogies:** for example (3), such as (2), for instance (1)
 > **Tools:** jira (5)
-> **Code Keywords:** case. (1), case, (1), let (1)
 > **Cross-References:** we discussed (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -1713,7 +1713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** in the sidebar (2)
 > **Definitions:** is a  (2)
@@ -1803,7 +1803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1)
+> **Frameworks & Libraries:** next (2), feature (2), [[Zoom]] (2), [[Jira]] (1)
 > **UI Navigation:** in the sidebar (3), open the (2), select the (1)
 > **Cross-References:** go back to (5)
 > **Definitions:** means that (1), is a  (1), is an  (1)

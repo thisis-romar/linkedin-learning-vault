@@ -35,7 +35,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analysis-%20Investigate%20with%20SQL.md)
@@ -54,36 +54,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Why learn SQL today?
-  - What you should know
-  - Solve a crime with SQL
+  - [Why learn SQL today?](#why-learn-sql-today)
+  - [What you should know](#what-you-should-know)
+  - [Solve a crime with SQL](#solve-a-crime-with-sql)
 - [**1. Starting the Investigation with SQL Query**](#1-starting-the-investigation-with-sql-query) (3 videos)
-  - Data analysis: First steps
-  - SQL core concepts: Data types, tables, columns, and records
-  - First query: Comments, aliases, and sorting
+  - [Data analysis: First steps](#data-analysis-first-steps)
+  - [SQL core concepts: Data types, tables, columns, and records](#sql-core-concepts-data-types-tables-columns-and-records)
+  - [First query: Comments, aliases, and sorting](#first-query-comments-aliases-and-sorting)
 - [**2. Filter Data for Refined Results**](#2-filter-data-for-refined-results) (4 videos)
-  - Adding criteria to SQL queries
-  - Second query: WHERE clause, operators, date, and texts
-  - Query composition: More operators for refining results
-  - Third query: Operators and context understanding
+  - [Adding criteria to SQL queries](#adding-criteria-to-sql-queries)
+  - [Second query: WHERE clause, operators, date, and texts](#second-query-where-clause-operators-date-and-texts)
+  - [Query composition: More operators for refining results](#query-composition-more-operators-for-refining-results)
+  - [Third query: Operators and context understanding](#third-query-operators-and-context-understanding)
 - [**3. Performing Manual Data Analysis**](#3-performing-manual-data-analysis) (2 videos)
-  - Logical deduction by observing results
-  - Crime-solving SQL analysis recap
+  - [Logical deduction by observing results](#logical-deduction-by-observing-results)
+  - [Crime-solving SQL analysis recap](#crime-solving-sql-analysis-recap)
 - [**4. Exploring Related Table Data**](#4-exploring-related-table-data) (4 videos)
-  - Examining the evidence in related tables
-  - Fourth query breakdown: BETWEEN operator and date ranges
-  - Finding supporting evidence to align objectives
-  - Fifth query breakdown: Using the IN and AND operators
+  - [Examining the evidence in related tables](#examining-the-evidence-in-related-tables)
+  - [Fourth query breakdown: BETWEEN operator and date ranges](#fourth-query-breakdown-between-operator-and-date-ranges)
+  - [Finding supporting evidence to align objectives](#finding-supporting-evidence-to-align-objectives)
+  - [Fifth query breakdown: Using the IN and AND operators](#fifth-query-breakdown-using-the-in-and-and-operators)
 - [**5. Conclusive Analysis for Data-Driven Action**](#5-conclusive-analysis-for-data-driven-action) (3 videos)
-  - Solving the case with data-driven insights
-  - Project: The art of disguise
-  - Project: Solution walkthrough
+  - [Solving the case with data-driven insights](#solving-the-case-with-data-driven-insights)
+  - [Project: The art of disguise](#project-the-art-of-disguise)
+  - [Project: Solution walkthrough](#project-solution-walkthrough)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue enhancing your SQL data-driven skills
+  - [Continue enhancing your SQL data-driven skills](#continue-enhancing-your-sql-data-driven-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why learn SQL today?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/delete-why-learn-sql-today?u=76281980)
@@ -100,9 +100,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (1), [[SQL]] (1)
 > **Env Vars:** sql (1), select (1), where (1), order (1), limit (1)
 > **SQL:** select (1), where (1), order by (1)
-> **Code Keywords:** from, (1), case. (1)
 > **Speakers:** - the (1)
 
 #### What you should know
@@ -176,8 +176,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), database (2), ai (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (8), wsda (2)
-> **Code Keywords:** let (1), case, (1), this, (1), case. (1), finally, (1)
 > **Prerequisites:** install (1), setup (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
@@ -246,10 +246,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), next (3), database (2), ai (2), [[Windows]] (1)
 > **Env Vars:** sql (6), wsda (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** reference guide (1)
 > **UI Navigation:** click on (1)
@@ -258,7 +258,7 @@ created: 2026-04-29
 
 ### 1. Starting the Investigation with SQL Query
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data analysis: First steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/data-analysis-first-steps-25848460?u=76281980)
@@ -325,7 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), case. (1)
+> **Frameworks & Libraries:** [[SQL]] (5), data (2), database (2), next (1)
 > **Env Vars:** sql (5), wsda (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Analogies:** think of it as (1), just like (1)
@@ -373,9 +373,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (2), next (2), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Definitions:** is called (1), in other words (1), is a  (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
@@ -456,8 +456,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), next (3), hit (2), data (1), [[Forms]] (1)
 > **Env Vars:** sql (4), select (1), order (1), limit (1)
-> **Code Keywords:** let (4), case, (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **SQL:** select (1), order by (1)
@@ -468,7 +468,7 @@ created: 2026-04-29
 
 ### 2. Filter Data for Refined Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding criteria to SQL queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/adding-criteria-to-sql-queries-25843468?u=76281980)
@@ -527,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), from, (1)
+> **Frameworks & Libraries:** data (5), [[SQL]] (3), hit (2), database (1), next (1)
 > **Env Vars:** sql (3), select (1), order (1), limit (1), wsda (1)
 > **Code Identifiers:** flight_details (1), customer_id (1), start_city (1), dest_city (1), flightdate (1)
 > **CLI Commands:** find (2), make (1)
@@ -593,10 +593,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), feature (1)
 > **CLI Commands:** find (2), make (1)
 > **SQL:** where (3)
 > **Env Vars:** where (3)
-> **Code Keywords:** let (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - we (1)
@@ -626,7 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** hit (1), next (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - in (1)
 
@@ -671,7 +671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** feature (1), next (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -681,7 +681,7 @@ created: 2026-04-29
 
 ### 3. Performing Manual Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Logical deduction by observing results
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980)
@@ -792,7 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** ai (4), next (4), hit (3), [[SQL]] (2), [[Jetpack Compose|Compose]] (2)
 > **Env Vars:** csv (3), wsda (2), sql (2)
 > **UI Navigation:** go to (3), open the (3)
 > **URLs:** [wsdalearning.ai](https://wsdalearning.ai) (4)
@@ -852,8 +852,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), [[Search]] (1), [[Probability]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (2), in other words (1)
 > **UI Navigation:** scroll down (2)
 > **Cross-References:** in the next (1)
@@ -862,7 +862,7 @@ created: 2026-04-29
 
 ### 4. Exploring Related Table Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Examining the evidence in related tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/examining-the-evidence-in-related-tables-25846440?u=76281980)
@@ -901,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** database (3), data (2), [[SQL]] (1), hit (1), next (1)
 > **Env Vars:** wsda (2), sql (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -962,7 +962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[SQL]] (1), database (1), next (1)
 > **Env Vars:** wsda (1), sql (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** similar to (1), for example (1)
@@ -993,7 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[SQL]] (1), hit (1), next (1)
 > **Env Vars:** wsda (1), sql (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
@@ -1036,14 +1036,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - let (1)
 
 
 ### 5. Conclusive Analysis for Data-Driven Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving the case with data-driven insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solving-the-case-with-data-driven-insights-25845462?u=76281980)
@@ -1136,8 +1136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), [[SQL]] (2)
 > **Ports:** :00 (2), :10 (2), :01 (1), :15 (1), :30 (1)
-> **Code Keywords:** let (5), this, (1), pass (1)
 > **Cross-References:** in the next (4), in the last (2)
 > **Env Vars:** sql (2), wsda (1), jfk (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1165,6 +1165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is called (1)
@@ -1275,7 +1276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (2), else. (1)
+> **Frameworks & Libraries:** data (2), [[SQL]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1284,7 +1285,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue enhancing your SQL data-driven skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980)
@@ -1331,10 +1332,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[SQL]] (5), [[LinkedIn]] (3), database (1), [[Databases]] (1)
 > **Env Vars:** sql (5), wsda (2), where (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** don't forget (2)
-> **Code Keywords:** let (1)
 > **SQL:** where (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)

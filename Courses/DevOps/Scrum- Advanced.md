@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Scrum-%20Advanced.md)
@@ -48,34 +48,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Take scrum to the next level
+  - [Take scrum to the next level](#take-scrum-to-the-next-level)
 - [**1. Adding Finesse to Your Scrum**](#1-adding-finesse-to-your-scrum) (3 videos)
-  - Review scrum fundamentals
-  - Product owner and scrum master roles
-  - Relationship of the product owner and scrum master
+  - [Review scrum fundamentals](#review-scrum-fundamentals)
+  - [Product owner and scrum master roles](#product-owner-and-scrum-master-roles)
+  - [Relationship of the product owner and scrum master](#relationship-of-the-product-owner-and-scrum-master)
 - [**2. Product Owner as Business Representative**](#2-product-owner-as-business-representative) (4 videos)
-  - Product owner as chief negotiator
-  - Set the product vision
-  - Turn the vision into a road map
-  - Manage the misses
+  - [Product owner as chief negotiator](#product-owner-as-chief-negotiator)
+  - [Set the product vision](#set-the-product-vision)
+  - [Turn the vision into a road map](#turn-the-vision-into-a-road-map)
+  - [Manage the misses](#manage-the-misses)
 - [**3. Product Owner as Team Business Guide**](#3-product-owner-as-team-business-guide) (3 videos)
-  - Advanced story-writing tips
-  - Detailed release planning
-  - Continual backlog refinement
+  - [Advanced story-writing tips](#advanced-story-writing-tips)
+  - [Detailed release planning](#detailed-release-planning)
+  - [Continual backlog refinement](#continual-backlog-refinement)
 - [**4. Scrum Master as Team Advocate**](#4-scrum-master-as-team-advocate) (3 videos)
-  - Be a leader who serves
-  - Guide team forming and storming stages
-  - Lead from norming to performing
+  - [Be a leader who serves](#be-a-leader-who-serves)
+  - [Guide team forming and storming stages](#guide-team-forming-and-storming-stages)
+  - [Lead from norming to performing](#lead-from-norming-to-performing)
 - [**5. Scrum Master as Team Guardian**](#5-scrum-master-as-team-guardian) (3 videos)
-  - Remove impediments for the team
-  - Protect the scrum team
-  - Celebrate success on your scrum team
+  - [Remove impediments for the team](#remove-impediments-for-the-team)
+  - [Protect the scrum team](#protect-the-scrum-team)
+  - [Celebrate success on your scrum team](#celebrate-success-on-your-scrum-team)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take scrum to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980)
@@ -98,13 +98,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1), let (1)
+> **Frameworks & Libraries:** [[Scrum]] (4), teams (2), management (1), [[Agile Development|Agile]] (1), next (1)
 > **Speakers:** - after (1)
 
 
 ### 1. Adding Finesse to Your Scrum
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review scrum fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980)
@@ -165,8 +165,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (8), next (3), product (2), functional (2), business (1)
 > **Definitions:** is a  (3), known as (1)
-> **Code Keywords:** while, (1), let (1), for. (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - you (1)
@@ -242,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** [[Scrum]] (14), product (11), [[Microsoft Products|Products]] (1)
 > **Env Vars:** mvp (1)
 > **Definitions:** known as (1)
 > **Speakers:** - while (1)
@@ -314,8 +314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (12), product (9), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - given (1)
@@ -323,7 +323,7 @@ created: 2026-04-29
 
 ### 2. Product Owner as Business Representative
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Product owner as chief negotiator
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-as-chief-negotiator?u=76281980)
@@ -390,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** business (7), product (5), functional (3), database (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
@@ -469,7 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** product (12), teams (2), [[Microsoft Word|Word]] (1), functional (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - every (1)
@@ -549,7 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), this. (1), let (1)
+> **Frameworks & Libraries:** product (7), [[Scrum]] (3), database (2), management (1), teams (1)
 > **Analogies:** for instance (2), imagine (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** crm (2)
@@ -651,7 +651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (1), this, (1)
+> **Frameworks & Libraries:** [[Scrum]] (12), teams (3), next (2), product (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** crm (1)
@@ -661,7 +661,7 @@ created: 2026-04-29
 
 ### 3. Product Owner as Team Business Guide
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced story-writing tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/advanced-story-writing-tips?u=76281980)
@@ -734,7 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), function (1), this: (1), interface (1)
+> **Frameworks & Libraries:** functional (2), [[Scrum]] (1), [[Search]] (1), teams (1), next (1)
 > **Env Vars:** crud (2), crm (1), invest (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -825,6 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (2), product (1), next (1), teams (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Analogies:** for example (1), imagine (1)
 > **Prerequisites:** you'll need (2)
@@ -894,13 +895,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Scrum]] (3), product (2), next (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - one (1)
 
 
 ### 4. Scrum Master as Team Advocate
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Be a leader who serves
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980)
@@ -993,7 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), this, (1), let (1)
+> **Frameworks & Libraries:** [[Scrum]] (8), leadership (6), management (4), teams (2), [[Microsoft Word|Word]] (1)
 > **Speakers:** - servant (1)
 
 #### Guide team forming and storming stages
@@ -1071,7 +1073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), finally, (1)
+> **Frameworks & Libraries:** teams (3), [[Forms]] (2), next (2), [[Agile Development|Agile]] (1), leadership (1)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - there (1)
@@ -1137,8 +1139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Unity]] (1), product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
@@ -1147,7 +1149,7 @@ created: 2026-04-29
 
 ### 5. Scrum Master as Team Guardian
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Remove impediments for the team
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980)
@@ -1220,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Scrum]] (16), teams (2), product (2), [[Dependency Management]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1293,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), for. (1), protected (1), continue (1)
+> **Frameworks & Libraries:** [[Scrum]] (12), product (5), next (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1387,14 +1389,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (7), teams (6), product (3), next (2), [[Accountability]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - in (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980)
@@ -1433,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), finally, (1), yield (1)
+> **Frameworks & Libraries:** [[Scrum]] (5), leadership (2), [[Agile Development|Agile]] (2), game (1), teams (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - scrum (1)
 

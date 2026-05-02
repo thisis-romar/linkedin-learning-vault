@@ -34,7 +34,7 @@ tags:
   - skill/full-stack-development
   - skill/react-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/React-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md)
@@ -53,64 +53,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build your own full-stack website using React
-  - What you should know
+  - [Build your own full-stack website using React](#build-your-own-full-stack-website-using-react)
+  - [What you should know](#what-you-should-know)
 - [**1. Creating a React Front-End**](#1-creating-a-react-front-end) (9 videos)
-  - Why React?
-  - Setting up a React project
-  - Creating the home page
-  - Adding React Router to an application
-  - Using React Router links
-  - URL parameters with React Router
-  - Creating and linking the articles list
-  - Creating a 404 page in React
-  - Adding styles
+  - [Why React?](#why-react)
+  - [Setting up a React project](#setting-up-a-react-project)
+  - [Creating the home page](#creating-the-home-page)
+  - [Adding React Router to an application](#adding-react-router-to-an-application)
+  - [Using React Router links](#using-react-router-links)
+  - [URL parameters with React Router](#url-parameters-with-react-router)
+  - [Creating and linking the articles list](#creating-and-linking-the-articles-list)
+  - [Creating a 404 page in React](#creating-a-404-page-in-react)
+  - [Adding styles](#adding-styles)
 - [**2. Creating a Node.js Back-End**](#2-creating-a-nodejs-back-end) (7 videos)
-  - Why Node.js?
-  - Setting up an Express server
-  - Testing an Express server with Postman
-  - Route parameters in Express
-  - Upvoting articles
-  - Automatically updating with Nodemon
-  - Adding comments
+  - [Why Node.js?](#why-nodejs)
+  - [Setting up an Express server](#setting-up-an-express-server)
+  - [Testing an Express server with Postman](#testing-an-express-server-with-postman)
+  - [Route parameters in Express](#route-parameters-in-express)
+  - [Upvoting articles](#upvoting-articles)
+  - [Automatically updating with Nodemon](#automatically-updating-with-nodemon)
+  - [Adding comments](#adding-comments)
 - [**3. Adding MongoDB to Node.js**](#3-adding-mongodb-to-nodejs) (5 videos)
-  - Why MongoDB?
-  - Downloading and installing MongoDB
-  - Adding MongoDB to Express
-  - Rewriting the upvote endpoint
-  - Rewriting the comments endpoint
+  - [Why MongoDB?](#why-mongodb)
+  - [Downloading and installing MongoDB](#downloading-and-installing-mongodb)
+  - [Adding MongoDB to Express](#adding-mongodb-to-express)
+  - [Rewriting the upvote endpoint](#rewriting-the-upvote-endpoint)
+  - [Rewriting the comments endpoint](#rewriting-the-comments-endpoint)
 - [**4. Connecting the Front-End and Back-End**](#4-connecting-the-front-end-and-back-end) (7 videos)
-  - The Axios library
-  - Loading data For React Router routes
-  - Using the useLoaderData hook
-  - Using route parameters in loaders
-  - Displaying comments
-  - Creating an upvote button
-  - Creating an add comment form
+  - [The Axios library](#the-axios-library)
+  - [Loading data For React Router routes](#loading-data-for-react-router-routes)
+  - [Using the useLoaderData hook](#using-the-useloaderdata-hook)
+  - [Using route parameters in loaders](#using-route-parameters-in-loaders)
+  - [Displaying comments](#displaying-comments)
+  - [Creating an upvote button](#creating-an-upvote-button)
+  - [Creating an add comment form](#creating-an-add-comment-form)
 - [**5. Adding User Authentication with Firebase Auth**](#5-adding-user-authentication-with-firebase-auth) (11 videos)
-  - Why Firebase Auth?
-  - Creating a Firebase project
-  - Adding Firebase Auth to React
-  - Build a login form
-  - Build a create account page
-  - Making interface adjustments for authenticated users
-  - Creating a custom auth hook
-  - Adding Firebase Auth to Node.js
-  - Protecting endpoints using auth tokens
-  - Protecting the upvote and comment endpoints
-  - Making requests with auth tokens
+  - [Why Firebase Auth?](#why-firebase-auth)
+  - [Creating a Firebase project](#creating-a-firebase-project)
+  - [Adding Firebase Auth to React](#adding-firebase-auth-to-react)
+  - [Build a login form](#build-a-login-form)
+  - [Build a create account page](#build-a-create-account-page)
+  - [Making interface adjustments for authenticated users](#making-interface-adjustments-for-authenticated-users)
+  - [Creating a custom auth hook](#creating-a-custom-auth-hook)
+  - [Adding Firebase Auth to Node.js](#adding-firebase-auth-to-nodejs)
+  - [Protecting endpoints using auth tokens](#protecting-endpoints-using-auth-tokens)
+  - [Protecting the upvote and comment endpoints](#protecting-the-upvote-and-comment-endpoints)
+  - [Making requests with auth tokens](#making-requests-with-auth-tokens)
 - [**6. Hosting a Full-Stack React Application**](#6-hosting-a-full-stack-react-application) (5 videos)
-  - Preparing an app for release
-  - Setting up hosting for MongoDB
-  - Defining environment variables
-  - Deploying a full-stack application
-  - Shutting down a Google Cloud project
+  - [Preparing an app for release](#preparing-an-app-for-release)
+  - [Setting up hosting for MongoDB](#setting-up-hosting-for-mongodb)
+  - [Defining environment variables](#defining-environment-variables)
+  - [Deploying a full-stack application](#deploying-a-full-stack-application)
+  - [Shutting down a Google Cloud project](#shutting-down-a-google-cloud-project)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in your React journey
+  - [Next steps in your React journey](#next-steps-in-your-react-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your own full-stack website using React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980)
@@ -133,10 +133,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), application (3), [[Web Development]] (1), [[Node.js]] (1), express (1)
 > **CLI Commands:** make (1), node (1)
 > **Analogies:** imagine (2)
 > **File Paths:** node.js (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** mern (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - imagine (1)
@@ -174,7 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[React.js|React]] (5)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -182,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Creating a React Front-End
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980)
@@ -211,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[HTML]] (1), css (1), [[JavaScript]] (1), functional (1)
 > **Env Vars:** html (1), css (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -286,8 +286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (12), application (8), [[npm]] (5), next (4), front-end (4)
 > **CLI Commands:** make (8), npm (5)
-> **Code Keywords:** this, (2), let (2), this. (1), module (1)
 > **Tools:** terminal (4), github (1), visual studio (1)
 > **Env Vars:** hmr (2), http (1), url (1), ports (1)
 > **Prerequisites:** install (3), set up (1), setup (1)
@@ -374,7 +374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), this. (1), function (1), case. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), application (3), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Routing]] (1)
 > **File Paths:** homepage.jsx (1), main.jsx (1), app.jsx (1)
 > **Definitions:** in other words (2), known as (1)
 > **CLI Commands:** make (2)
@@ -546,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), const (2), this, (2), function (2), pass (2)
+> **Frameworks & Libraries:** [[React.js|React]] (8), dom (8), application (7), next (3), [[npm]] (2)
 > **Prerequisites:** install (4), set up (2), setup (1)
 > **CLI Commands:** npm (2), make (2)
 > **Env Vars:** url (3), jsx (1)
@@ -724,7 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), function (1), this. (1), default, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10), dom (3), application (3), next (2), [[JavaScript]] (1)
 > **CLI Commands:** make (4)
 > **File Paths:** navbar.jsx (1), layout.jsx (1), app.jsx (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -876,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), const (5), this, (3), case, (2), function (2)
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[MongoDB]] (6), [[JavaScript]] (4), application (3), node (3)
 > **CLI Commands:** find (5), node (3), make (2)
 > **Code Identifiers:** useparams (6)
 > **Analogies:** such as (3), for example (3)
@@ -1024,7 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (3), pass (2), function (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), dom (3), node (2), [[MongoDB]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), node (2)
 > **UI Navigation:** click on (3), select the (1), go to (1)
 > **Env Vars:** url (2), jsx (1)
@@ -1100,7 +1100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (2), case, (2), for, (2), function (1)
+> **Frameworks & Libraries:** application (3), [[React.js|React]] (2), next (1)
 > **Code Identifiers:** errorelement (3)
 > **UI Navigation:** go to (3)
 > **File Paths:** app.jsx (1), notfoundpage.jsx (1)
@@ -1134,11 +1134,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), functional (1), [[GitHub]] (1), [[React.js|React]] (1), application (1)
 > **File Paths:** app.css (5), index.css (3), app.jsx (1)
 > **Exercise Files:** exercise files (2), github repo (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), you'll need (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** css (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -1146,7 +1146,7 @@ created: 2026-04-29
 
 ### 2. Creating a Node.js Back-End
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980)
@@ -1175,9 +1175,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), [[JavaScript]] (4), express (2), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (4), php (1), python (1), npm (1)
 > **File Paths:** node.js (4)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** php (1), npm (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1303,7 +1303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), this. (3), pass (2), case, (1)
+> **Frameworks & Libraries:** express (12), front-end (5), [[npm]] (5), application (5), [[JavaScript]] (4)
 > **CLI Commands:** node (5), npm (5), make (3), cd (2)
 > **File Paths:** node.js (3), package.json (3), server.js (1), src/server.js (1)
 > **Prerequisites:** install (3), setup (2), set up (1)
@@ -1439,7 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (4), this. (2), private (2), function (1)
+> **Frameworks & Libraries:** application (5), data (4), [[JSON]] (4), express (3), next (2)
 > **API Endpoints:** get  (8), post  (7)
 > **Env Vars:** post (8), json (3), url (2), html (1), http (1)
 > **Tools:** postman (9)
@@ -1535,7 +1535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), case, (1), delete (1), function (1)
+> **Frameworks & Libraries:** express (7), data (5), [[React.js|React]] (3), [[JSON]] (2), node (2)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** node (2), make (2)
 > **Env Vars:** json (1), url (1)
@@ -1651,7 +1651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), const (2), this, (1), new, (1)
+> **Frameworks & Libraries:** api (4), database (3), [[MongoDB]] (3), [[JavaScript]] (3), node (3)
 > **CLI Commands:** make (4), node (3), find (3)
 > **Code Identifiers:** articlename (5), articleinfo (2)
 > **Env Vars:** post (2), put (1), url (1), api (1)
@@ -1733,8 +1733,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (4), node (2), hit (2), api (1), [[JSON]] (1)
 > **CLI Commands:** make (5), npm (4), npx (4), node (2)
-> **Code Keywords:** let (9)
 > **File Paths:** src/server.js (4), server.js (1), package.json (1)
 > **Prerequisites:** install (4)
 > **Env Vars:** npm (1), npx (1), post (1)
@@ -1853,7 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), const (3), function (1)
+> **Frameworks & Libraries:** [[JSON]] (5), data (4), next (2), api (2), node (2)
 > **Env Vars:** json (5), api (2), url (1), ide (1)
 > **Analogies:** just like (4), such as (2)
 > **CLI Commands:** find (2), node (2)
@@ -1865,7 +1865,7 @@ created: 2026-04-29
 
 ### 3. Adding MongoDB to Node.js
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980)
@@ -1896,8 +1896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[MongoDB]] (6), application (3), database (3), [[JavaScript]] (3)
 > **Env Vars:** json (1), sql (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1978,8 +1978,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[MongoDB]] (5), node (3), hit (2), [[Databases]] (2)
 > **CLI Commands:** mongo (9), find (8), node (3), make (2)
-> **Code Keywords:** let (2), function (1), pass (1)
 > **Prerequisites:** install (2), setup (1), set up (1)
 > **Code Identifiers:** findone (2), insertmany (1)
 > **Definitions:** is a  (2), known as (1)
@@ -2082,7 +2082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), const (5), pass (2), await (2), public (2)
+> **Frameworks & Libraries:** [[MongoDB]] (15), database (7), next (5), data (4), [[React.js|React]] (3)
 > **CLI Commands:** make (6), node (4), mongo (2), find (2), cd (1)
 > **Tools:** terminal (7), postman (1)
 > **Code Identifiers:** findone (2), serverapi (1), deprecationerrors (1)
@@ -2214,7 +2214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), await (7), let (6), async (3), const (2)
+> **Frameworks & Libraries:** [[MongoDB]] (8), database (7), [[JSON]] (2), next (1), [[React.js|React]] (1)
 > **Code Identifiers:** connecttodb (4), findoneandupdate (3), updatedarticle (2), articleinfo (1), findone (1)
 > **CLI Commands:** make (7), find (1), mongo (1)
 > **Definitions:** stands for (1), is a  (1), in other words (1)
@@ -2284,7 +2284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), await (2), const (2), function (1), async (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[JSON]] (1), data (1), express (1)
 > **CLI Commands:** find (2), make (2)
 > **Code Identifiers:** newcomment (2), postedby (1), updatedarticle (1)
 > **Analogies:** just like (4)
@@ -2296,7 +2296,7 @@ created: 2026-04-29
 
 ### 4. Connecting the Front-End and Back-End
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Axios library
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980)
@@ -2325,6 +2325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1), [[MongoDB]] (1), data (1), [[React.js|React]] (1), [[npm]] (1)
 > **CLI Commands:** make (3), npm (1)
 > **Prerequisites:** install (3)
 > **Tools:** postman (1), terminal (1)
@@ -2391,7 +2392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (4), let (3), function (3), await (3), while, (1)
+> **Frameworks & Libraries:** data (5), [[React.js|React]] (3), application (3), api (1), node (1)
 > **Env Vars:** url (5), cors (1)
 > **CLI Commands:** make (3), find (1), node (1)
 > **Code Identifiers:** articledata (2), useloaderdata (1)
@@ -2513,7 +2514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (1), const (1), case, (1), try. (1)
+> **Frameworks & Libraries:** node (4), [[React.js|React]] (3), data (3), front-end (3), next (2)
 > **CLI Commands:** make (8), node (4), npm (1), find (1)
 > **Env Vars:** url (6), xhr (1), ide (1)
 > **UI Navigation:** go to (5), click on (1), right-click (1)
@@ -2575,7 +2576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (5), pass (3), async (3), delete (1)
+> **Frameworks & Libraries:** data (5), node (4), [[React.js|React]] (3), [[MongoDB]] (3), application (1)
 > **CLI Commands:** make (6), node (4)
 > **Cross-References:** go back to (4)
 > **Code Identifiers:** articleloader (2), mongodb (1)
@@ -2655,7 +2656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), function (1), pass (1), interface (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[MongoDB]] (2), next (1), front-end (1), [[ESLint]] (1)
 > **File Paths:** commentslist.jsx (1)
 > **Code Identifiers:** postedby (1)
 > **Cross-References:** go back to (1)
@@ -2762,7 +2763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5), const (3), interface (2), async (2)
+> **Frameworks & Libraries:** data (4), next (3), api (1), [[React.js|React]] (1), [[MongoDB]] (1)
 > **Code Identifiers:** onupvoteclicked (3), updatedarticledata (2), usestate (2), initialupvotes (2), initialcomments (2)
 > **CLI Commands:** make (5)
 > **API Endpoints:** get  (1), /api/articles (1)
@@ -2912,7 +2913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (9), pass (3), this, (2), type = (1)
+> **Frameworks & Libraries:** application (2), [[React.js|React]] (1), [[JavaScript]] (1), data (1), functional (1)
 > **Code Identifiers:** nametext (5), commenttext (5), onaddcomment (4), usestate (4), setnametext (3)
 > **Cross-References:** go back to (4)
 > **Analogies:** just like (2), similar to (1)
@@ -2924,7 +2925,7 @@ created: 2026-04-29
 
 ### 5. Adding User Authentication with Firebase Auth
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Firebase Auth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-firebase-auth?u=76281980)
@@ -2967,7 +2968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), continue (1)
+> **Frameworks & Libraries:** application (4), [[Firebase]] (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Analogies:** kind of like (1)
@@ -3012,7 +3013,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), let (2), this, (1)
+> **Frameworks & Libraries:** [[Firebase]] (3), [[React.js|React]] (2), [[Google]] (1), [[Analytics]] (1), next (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** node (1)
@@ -3156,7 +3157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), function (1), finally, (1), super (1)
+> **Frameworks & Libraries:** [[Firebase]] (11), [[React.js|React]] (5), next (3), [[npm]] (3), application (2)
 > **CLI Commands:** npm (3), make (3)
 > **File Paths:** main.jsx (1), loginpage.jsx (1), createaccountpage.jsx (1), app.jsx (1)
 > **Env Vars:** npm (2), ide (1), url (1)
@@ -3312,7 +3313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (6), const (4), import { (2), interface (2)
+> **Frameworks & Libraries:** [[Firebase]] (7), [[React.js|React]] (5), next (4), dom (1), prompt (1)
 > **Code Identifiers:** usestate (5), usenavigate (2), getauth (2), signinwithemailandpassword (2), setemail (2)
 > **Definitions:** is a  (2), in other words (1), we call this (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -3471,7 +3472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), match. (3), interface (1), if ( (1)
+> **Frameworks & Libraries:** [[Firebase]] (7), application (2), [[React.js|React]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** confirmpassword (2), createaccount (2), setconfirmpassword (1), seterror (1), signinwithemailandpassword (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2)
@@ -3587,7 +3588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), const (3), function (3), interface (2), case, (1)
+> **Frameworks & Libraries:** next (5), [[React.js|React]] (2), [[Firebase]] (2), dom (1), application (1)
 > **Code Identifiers:** usenavigate (4), isloggedin (3), signout (3), getauth (3), onclick (1)
 > **Cross-References:** in the next (3), go back to (2)
 > **CLI Commands:** make (2), find (1)
@@ -3729,8 +3730,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (10), [[React.js|React]] (6), next (3), data (2), application (2)
 > **Code Identifiers:** useuser (7), useeffect (5), onauthstatechanged (5), isloading (4), usestate (3)
-> **Code Keywords:** function (8), let (5), const (3), import { (2), pass (2)
 > **CLI Commands:** make (6), find (2)
 > **Analogies:** such as (2), for example (1)
 > **URLs:** [gmail.com](https://gmail.com) (2)
@@ -3855,8 +3856,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (12), [[JSON]] (8), [[npm]] (3), node (2), [[GitHub]] (2)
 > **CLI Commands:** make (6), npm (3), node (2)
-> **Code Keywords:** private (2), this, (2), let (2), function (1), require (1)
 > **File Paths:** credentials.json (5)
 > **Env Vars:** json (3), npm (1), ide (1)
 > **Tools:** postman (2), github (2), terminal (1)
@@ -3931,7 +3932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), this, (2), async (2), pass (2), const (2)
+> **Frameworks & Libraries:** express (4), [[Firebase]] (3), next (3), api (1), front-end (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** sendstatus (1), verifyidtoken (1)
 > **Env Vars:** api (1)
@@ -4023,9 +4024,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), next (2)
 > **Code Identifiers:** upvoteids (6), canupvote (2), findone (1), findoneandupdate (1), sendstatus (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** const (3), protected (1), this, (1), this. (1), await (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4160,7 +4161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), const (3), protected (2), pass (2), from, (1)
+> **Frameworks & Libraries:** next (3), [[JavaScript]] (2), application (2), [[Firebase]] (1), database (1)
 > **CLI Commands:** make (9)
 > **Code Identifiers:** useuser (3), isloading (2), onupvoteclicked (1), getidtoken (1), sendstatus (1)
 > **URLs:** [gmail.com](https://gmail.com) (1)
@@ -4172,7 +4173,7 @@ created: 2026-04-29
 
 ### 6. Hosting a Full-Stack React Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing an app for release
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980)
@@ -4329,7 +4330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), static (3), module (3), const (3), import, (1)
+> **Frameworks & Libraries:** application (5), express (4), api (4), [[npm]] (2), [[React.js|React]] (2)
 > **CLI Commands:** make (6), npm (2), mongo (1), node (1)
 > **Env Vars:** port (3), api (2), url (1)
 > **File Paths:** server.js (2), node.js (1), build/index.html (1), process.env (1)
@@ -4517,7 +4518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), while, (1), case, (1), from, (1), from. (1)
+> **Frameworks & Libraries:** [[MongoDB]] (14), database (6), next (5), [[Codespaces]] (5), [[React.js|React]] (5)
 > **CLI Commands:** make (10), node (2), mongo (2)
 > **Env Vars:** mongodb_username (1), mongodb_password (1), ide (1), add (1), address (1)
 > **Best Practices:** make sure to (4), recommended (1)
@@ -4627,10 +4628,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Node.js]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), next (3), database (2)
 > **File Paths:** node.js (3), process.env (3), prod-env.yaml (3), package.json (2), src/server.js (2)
 > **CLI Commands:** make (5), node (5), mongo (2), find (1), npx (1)
 > **Env Vars:** url (4), mongodb_password (2), mongodb_username (2), uri (1), mongodb (1)
-> **Code Keywords:** let (5), this, (2), this . (1), finally, (1), case, (1)
 > **Cross-References:** go back to (2)
 > **Tools:** terminal (1), github (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -4793,8 +4794,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Firebase]] (4), hit (4), [[CLI]] (3)
 > **CLI Commands:** gcloud (10), find (4), make (2)
-> **Code Keywords:** let (5), continue (3), try. (1), this. (1), require (1)
 > **Env Vars:** cli (3), url (3), ide (2)
 > **Cross-References:** go back to (3), in the next (1)
 > **Prerequisites:** install (2), setup (1), set up (1)
@@ -4821,13 +4822,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[React.js|React]] (1), application (1), management (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your React journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980)
@@ -4860,7 +4862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[LinkedIn]] (2), full-stack (1), express (1), database (1)
 > **Speakers:** - well (1)
 
 

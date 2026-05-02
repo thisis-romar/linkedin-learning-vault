@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics-%20Forecasting%20with%20Exponential%20Smoothing.md)
@@ -47,30 +47,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. The Idea Behind Exponential Smoothing**](#1-the-idea-behind-exponential-smoothing) (4 videos)
-  - Self-correcting forecasts
-  - From error correction to smoothing
-  - Exponentially declining influence of observations
-  - Identify the appropriate baseline
+  - [Self-correcting forecasts](#self-correcting-forecasts)
+  - [From error correction to smoothing](#from-error-correction-to-smoothing)
+  - [Exponentially declining influence of observations](#exponentially-declining-influence-of-observations)
+  - [Identify the appropriate baseline](#identify-the-appropriate-baseline)
 - [**2. The Forecasting Equation**](#2-the-forecasting-equation) (4 videos)
-  - Dissect the error correction form
-  - Dissect the smoothing form
-  - Exponential smoothing tool
-  - Initialize the forecasts
+  - [Dissect the error correction form](#dissect-the-error-correction-form)
+  - [Dissect the smoothing form](#dissect-the-smoothing-form)
+  - [Exponential smoothing tool](#exponential-smoothing-tool)
+  - [Initialize the forecasts](#initialize-the-forecasts)
 - [**3. Measuring Forecast Accuracy**](#3-measuring-forecast-accuracy) (2 videos)
-  - The absolute deviation approach
-  - The least squares approach
+  - [The absolute deviation approach](#the-absolute-deviation-approach)
+  - [The least squares approach](#the-least-squares-approach)
 - [**4. Optimizing Forecasts**](#4-optimizing-forecasts) (3 videos)
-  - Solver
-  - Set up the smoothing formula for Solver
-  - Solution in R
+  - [Solver](#solver)
+  - [Set up the smoothing formula for Solver](#set-up-the-smoothing-formula-for-solver)
+  - [Solution in R](#solution-in-r)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980)
@@ -99,8 +99,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Forecasting]] (2), next (1), data (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** self (1), let (1)
 > **Analogies:** such as (2)
 > **Env Vars:** sas (1)
 > **Definitions:** is an  (1)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 ### 1. The Idea Behind Exponential Smoothing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Self-correcting forecasts
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980)
@@ -218,7 +218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (2), finally, (1)
+> **Frameworks & Libraries:** next (4), product (3), [[Forecasting]] (2), [[Forms]] (2), data (1)
 > **Versions:** 0.2 (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -281,8 +281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Forms]] (3), [[Forecasting]] (2), product (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Versions:** 1.0 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -367,8 +367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), next (2), product (2), [[Representational State Transfer (REST)|Rest]] (1), [[Forecasting]] (1)
 > **Versions:** 0.9 (4), 0.81 (2), 0.1 (1), 1.0 (1)
-> **Code Keywords:** let (2), continue (1), for, (1), case, (1)
 > **Env Vars:** b10 (1), b12 (1), b14 (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -531,11 +531,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), [[Forecasting]] (1)
 > **Versions:** 0.13 (2), 0.05 (2), 0.45 (1), 1.96 (1), 0.6 (1)
 > **Analogies:** such as (4), for example (3)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** open the (2), in the menu (1), checkbox (1)
-> **Code Keywords:** let (2), case, (1)
 > **Env Vars:** acf (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -543,7 +543,7 @@ created: 2026-04-29
 
 ### 2. The Forecasting Equation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dissect the error correction form
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980)
@@ -634,9 +634,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (2), next (2), product (2)
 > **Env Vars:** c21 (5), c20 (2), d20 (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Versions:** 1.0 (1)
 > **Analogies:** for example (1)
@@ -717,9 +717,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (2), product (2), [[Forecasting]] (2), [[Microsoft Excel|Excel]] (1), next (1)
 > **Versions:** 1.0 (4)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** case, (2), let (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -844,8 +844,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2)
 > **UI Navigation:** checkbox (4), scroll down (1), select the (1)
-> **Code Keywords:** let (2), include. (1), static (1)
 > **Env Vars:** c21 (2), c20 (1)
 > **Versions:** 0.8 (2), 0.2 (1)
 > **CLI Commands:** make (1), find (1)
@@ -940,7 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** next (3), [[Jenkins]] (1), [[Time Series Analysis]] (1), data (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -952,7 +952,7 @@ created: 2026-04-29
 
 ### 3. Measuring Forecast Accuracy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The absolute deviation approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980)
@@ -997,8 +997,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (2), [[Microsoft Excel|Excel]] (2), data (1), [[Forecasting]] (1), next (1)
 > **Env Vars:** abs (2), mad (2)
-> **Code Keywords:** function (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### The least squares approach
@@ -1062,8 +1062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), business (1), [[Statistics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1071,7 +1071,7 @@ created: 2026-04-29
 
 ### 4. Optimizing Forecasts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solver
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solver?u=76281980)
@@ -1146,6 +1146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (3)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (3)
@@ -1256,10 +1257,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), [[Probability]] (1), business (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.1 (3), 1.0 (2), 0.9 (1), 0.328 (1)
 > **Env Vars:** grg (2), c22 (1), rmse (1)
 > **UI Navigation:** dropdown (2), checkbox (2)
-> **Code Keywords:** case, (1), require (1), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -1364,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), switch (1), finally, (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (10), application (2), next (1)
 > **Prerequisites:** install (7), you'll need (2)
 > **Versions:** 690.095 (2), 0.2718683 (1)
 > **Cross-References:** earlier in (1), in the next (1)
@@ -1376,7 +1377,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/next-steps?u=76281980)
@@ -1393,6 +1394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (2), next (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [conrad] (1)
 

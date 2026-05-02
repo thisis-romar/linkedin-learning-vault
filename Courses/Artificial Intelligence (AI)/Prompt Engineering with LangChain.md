@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20with%20LangChain.md)
@@ -51,65 +51,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Create powerful LLM driven applications
+  - [Create powerful LLM driven applications](#create-powerful-llm-driven-applications)
 - [**1. Introduction to Language Models**](#1-introduction-to-language-models) (1 videos)
-  - What are language models?
+  - [What are language models?](#what-are-language-models)
 - [**2. LLMs and Text Generation**](#2-llms-and-text-generation) (4 videos)
-  - How do language models generate text?
-  - Base LLMs vs. instruction-tuned LLMs
-  - Training, fine-tuning, and in-context learning
-  - Prompt engineering
+  - [How do language models generate text?](#how-do-language-models-generate-text)
+  - [Base LLMs vs. instruction-tuned LLMs](#base-llms-vs-instruction-tuned-llms)
+  - [Training, fine-tuning, and in-context learning](#training-fine-tuning-and-in-context-learning)
+  - [Prompt engineering](#prompt-engineering)
 - [**3. Components of LangChain**](#3-components-of-langchain) (7 videos)
-  - What is LangChain?
-  - LangChain overview
-  - Model I/O: Interface with language models
-  - Retrieval: Interface with application-specific data
-  - Chains: Construct sequences of calls
-  - Agents: Let chains choose tools based on high-level directives
-  - Memory: Persist application state between runs of a chain
+  - [What is LangChain?](#what-is-langchain)
+  - [LangChain overview](#langchain-overview)
+  - [Model I/O: Interface with language models](#model-io-interface-with-language-models)
+  - [Retrieval: Interface with application-specific data](#retrieval-interface-with-application-specific-data)
+  - [Chains: Construct sequences of calls](#chains-construct-sequences-of-calls)
+  - [Agents: Let chains choose tools based on high-level directives](#agents-let-chains-choose-tools-based-on-high-level-directives)
+  - [Memory: Persist application state between runs of a chain](#memory-persist-application-state-between-runs-of-a-chain)
 - [**4. Basics of Prompting**](#4-basics-of-prompting) (2 videos)
-  - Prompt basics
-  - Principles and tactics for prompting
+  - [Prompt basics](#prompt-basics)
+  - [Principles and tactics for prompting](#principles-and-tactics-for-prompting)
 - [**5. Prompt Templates Deep Dive**](#5-prompt-templates-deep-dive) (17 videos)
-  - Introduction to prompt templates
-  - Multi-input prompt templates
-  - Chat prompt template
-  - Serializing prompts
-  - Zero-shot prompts
-  - Custom prompt templates
-  - Prompt pipelining
-  - Chat prompt pipelining
-  - Prompt composition
-  - Few-shot prompt templates
-  - Few-shot prompt templates for chat
-  - Introduction to example selectors
-  - Length-based example selector
-  - Max marginal relevance example selector
-  - N-gram overlap example selector
-  - Semantic similarity example selector
-  - Partial prompt templates
+  - [Introduction to prompt templates](#introduction-to-prompt-templates)
+  - [Multi-input prompt templates](#multi-input-prompt-templates)
+  - [Chat prompt template](#chat-prompt-template)
+  - [Serializing prompts](#serializing-prompts)
+  - [Zero-shot prompts](#zero-shot-prompts)
+  - [Custom prompt templates](#custom-prompt-templates)
+  - [Prompt pipelining](#prompt-pipelining)
+  - [Chat prompt pipelining](#chat-prompt-pipelining)
+  - [Prompt composition](#prompt-composition)
+  - [Few-shot prompt templates](#few-shot-prompt-templates)
+  - [Few-shot prompt templates for chat](#few-shot-prompt-templates-for-chat)
+  - [Introduction to example selectors](#introduction-to-example-selectors)
+  - [Length-based example selector](#length-based-example-selector)
+  - [Max marginal relevance example selector](#max-marginal-relevance-example-selector)
+  - [N-gram overlap example selector](#n-gram-overlap-example-selector)
+  - [Semantic similarity example selector](#semantic-similarity-example-selector)
+  - [Partial prompt templates](#partial-prompt-templates)
 - [**6. Prompting Techniques**](#6-prompting-techniques) (7 videos)
-  - Chain of thought
-  - Self-consistency
-  - Self-ask
-  - ReAct
-  - RAG
-  - FLARE
-  - Plan and execute
+  - [Chain of thought](#chain-of-thought)
+  - [Self-consistency](#self-consistency)
+  - [Self-ask](#self-ask)
+  - [ReAct](#react)
+  - [RAG](#rag)
+  - [FLARE](#flare)
+  - [Plan and execute](#plan-and-execute)
 - [**7. Prompt Management a.k.a. PromptOps**](#7-prompt-management-aka-promptops) (6 videos)
-  - Prompt management
-  - LangSmith
-  - LangSmith walkthrough
-  - Prompt versioning in LangSmith
-  - LangSmith deep dive
-  - Managing prompt length for agents
+  - [Prompt management](#prompt-management)
+  - [LangSmith](#langsmith)
+  - [LangSmith walkthrough](#langsmith-walkthrough)
+  - [Prompt versioning in LangSmith](#prompt-versioning-in-langsmith)
+  - [LangSmith deep dive](#langsmith-deep-dive)
+  - [Managing prompt length for agents](#managing-prompt-length-for-agents)
 - [**8. The LLM Landscape**](#8-the-llm-landscape) (2 videos)
-  - Applications of language models
-  - The LLM landscape
+  - [Applications of language models](#applications-of-language-models)
+  - [The LLM landscape](#the-llm-landscape)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create powerful LLM driven applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980)
@@ -142,14 +142,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[LangChain]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Orchestration]] (1), llm (1), ai (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - hi (1)
 
 
 ### 1. Introduction to Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980)
@@ -230,8 +230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (3), data (2), [[Large Language Models (LLM)|Large language models]] (2), ai (2)
 > **Env Vars:** gpt (4), bert (1), api (1)
-> **Code Keywords:** self (1), interface (1), function (1), continue (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** similar to (1), for instance (1), for example (1)
 > **Warnings:** note that (1)
@@ -240,7 +240,7 @@ created: 2026-04-29
 
 ### 2. LLMs and Text Generation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do language models generate text?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980)
@@ -345,8 +345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (10), [[Microsoft Word|Word]] (7), [[Probability]] (6), next (5), [[Tokens]] (5)
 > **Env Vars:** llm (10)
-> **Code Keywords:** self (1), function (1), finally, (1), yield (1), continue (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** cat (1)
 > **UI Navigation:** select the (1)
@@ -508,10 +508,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (7), [[Hugging Face]] (6), [[Tokens]] (5), [[Google]] (4), next (4)
 > **Env Vars:** llm (7), gpu (1), gt3 (1), gt2 (1)
 > **UI Navigation:** go to (6), click on (2), scroll down (1)
 > **Tools:** colab (4), jupyter (3)
-> **Code Keywords:** let (2), case, (1), case. (1), pass (1), finally, (1)
 > **Warnings:** keep in mind (4)
 > **Analogies:** for instance (2), such as (1)
 > **URLs:** [google.com](https://google.com) (1), [huggingface.co](https://huggingface.co) (1)
@@ -594,10 +594,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (5), data (4), rag (4), [[Large Language Models (LLM)|Large language models]] (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (3)
 > **Env Vars:** rag (4), llm (1)
 > **Definitions:** refers to (1), known as (1), is a  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), super (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
@@ -692,8 +692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (15), prompt (6), llm (4), [[Large Language Models (LLM)|Large language models]] (4), ai (2)
 > **Env Vars:** llm (4), gpt (2)
-> **Code Keywords:** module (1), function (1), abstract (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [presenter] (1)
@@ -701,7 +701,7 @@ created: 2026-04-29
 
 ### 3. Components of LangChain
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is LangChain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980)
@@ -778,10 +778,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LangChain]] (22), [[Large Language Models (LLM)|Large language models]] (5), prompt (2), [[Microsoft Products|Products]] (2), application (2)
 > **Definitions:** is a  (5), means that (1)
 > **CLI Commands:** make (4), python (1)
 > **Env Vars:** api (2), gpt (1), rest (1), llm (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### LangChain overview
@@ -877,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (8), let (2), require (2), interface (1), this, (1)
+> **Frameworks & Libraries:** [[LangChain]] (9), prompt (4), application (3), llm (3), ai (2)
 > **Env Vars:** llm (3), api (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), such as (1), for instance (1)
@@ -1201,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (5), this. (2), finally, (2), this, (2)
+> **Frameworks & Libraries:** [[LangChain]] (19), data (16), prompt (12), [[Fetch]] (6), [[Python (Programming Language)|Python]] (3)
 > **Code Identifiers:** similarity_search (3), length_function (2), golden_hymns_of_epictetus (1), chunk_size (1), max_marginal_relevant_search (1)
 > **CLI Commands:** make (4), python (3), snap (1)
 > **Exercise Files:** template (6)
@@ -1551,7 +1551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), pass (10), case, (10), function (7), this, (3)
+> **Frameworks & Libraries:** prompt (26), [[LangChain]] (14), next (5), [[Routing]] (4), api (1)
 > **Exercise Files:** template (11)
 > **Code Identifiers:** prompt_template_one (2), literature_template (1), history_template (1), biology_template (1), philosophy_template (1)
 > **Env Vars:** gpt (2), api (1), llm (1)
@@ -1799,7 +1799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (3), function (3), interface (1), from, (1)
+> **Frameworks & Libraries:** [[LangChain]] (9), prompt (9), [[Search]] (7), llm (4), data (2)
 > **Env Vars:** llm (4), api (2), ddg (1)
 > **CLI Commands:** make (2), find (2)
 > **Versions:** v0.2 (4)
@@ -1995,7 +1995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (4), interface (2), pass (2), case, (2)
+> **Frameworks & Libraries:** [[LangChain]] (7), prompt (7), next (3), llm (2), data (1)
 > **CLI Commands:** make (4), find (1)
 > **Exercise Files:** template (3)
 > **Env Vars:** llm (2)
@@ -2007,7 +2007,7 @@ created: 2026-04-29
 
 ### 4. Basics of Prompting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980)
@@ -2086,8 +2086,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (8), llm (1), [[Databases]] (1), data (1), [[Prompt Engineering]] (1)
 > **Definitions:** means that (2), essentially is (1), is a  (1), refers to (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** llm (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -2275,8 +2275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (15), [[Tokens]] (4), next (3), llm (3), [[JSON]] (3)
 > **Env Vars:** json (3), api (2), llm (2), gpt (2), xml (1)
-> **Code Keywords:** this. (2), case, (1), function (1), else. (1), finally, (1)
 > **Exercise Files:** template (7)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (2)
@@ -2287,7 +2287,7 @@ created: 2026-04-29
 
 ### 5. Prompt Templates Deep Dive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to prompt templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980)
@@ -2436,8 +2436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (33), [[LangChain]] (4), llm (4), [[Python (Programming Language)|Python]] (1), next (1)
 > **Exercise Files:** template (34)
-> **Code Keywords:** pass (9), function (6), let (5), case, (3), require (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** find (1), make (1), python (1)
 > **Best Practices:** recommended (2)
@@ -2560,7 +2560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (3), function (2), finally, (1), for, (1)
+> **Frameworks & Libraries:** prompt (16), llm (4), next (1)
 > **Exercise Files:** template (9)
 > **Env Vars:** llm (4)
 > **Code Identifiers:** from_template (1), llm_chain (1)
@@ -2673,8 +2673,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (24), ai (4), llm (4), [[LangChain]] (2), next (2)
 > **Exercise Files:** template (18)
-> **Code Keywords:** let (3), pass (2), case, (2), this. (1), super (1)
 > **Definitions:** is a  (7)
 > **Env Vars:** llm (4), api (1), gpt (1)
 > **Versions:** 3.5 (1), 0.8 (1)
@@ -2749,8 +2749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (13), [[LangChain]] (9), [[JSON]] (4), [[Python (Programming Language)|Python]] (1), management (1)
 > **Env Vars:** json (4), yaml (2)
-> **Code Keywords:** type. (1), case, (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** python (1)
 > **Cross-References:** later in (1)
@@ -2861,7 +2861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), this, (1), for. (1), case, (1)
+> **Frameworks & Libraries:** prompt (7), data (3), ai (3), [[Large Language Models (LLM)|Large language models]] (2), feature (2)
 > **Exercise Files:** template (7)
 > **Analogies:** for example (3), kind of like (1)
 > **CLI Commands:** find (2)
@@ -3042,7 +3042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (25), let (8), case, (8), pass (3), this. (2)
+> **Frameworks & Libraries:** prompt (30), llm (5), [[LangChain]] (3), [[Fetch]] (1)
 > **Exercise Files:** template (16), source code (9)
 > **Code Identifiers:** get_source_code (4), algorithm_function (2), fn_explainer (1), function_name (1), prompt_type (1)
 > **Env Vars:** llm (5)
@@ -3169,7 +3169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (3), pass (3), case, (2), this, (2)
+> **Frameworks & Libraries:** prompt (37), [[Jetpack Compose|Compose]] (1), parallel (1), next (1)
 > **Exercise Files:** template (8)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -3264,7 +3264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (2)
+> **Frameworks & Libraries:** prompt (19), [[LangChain]] (3), ai (3), llm (1), [[Debugging]] (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
@@ -3376,7 +3376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1), class, (1)
+> **Frameworks & Libraries:** prompt (29)
 > **Exercise Files:** template (10)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -3548,7 +3548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), this, (2), from. (1), this. (1)
+> **Frameworks & Libraries:** prompt (20), [[Large Language Models (LLM)|Large language models]] (2), [[LangChain]] (2), generic (1), [[Hugging Face]] (1)
 > **Cross-References:** earlier in (1), we talked about (1), in the next (1)
 > **Exercise Files:** template (3)
 > **Definitions:** is a  (2)
@@ -3662,7 +3662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (2), case. (1), function (1), this. (1)
+> **Frameworks & Libraries:** prompt (9), ai (5), power (2)
 > **Exercise Files:** template (5)
 > **Env Vars:** gpt (3)
 > **Versions:** 3.5 (3)
@@ -3725,8 +3725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), [[LangChain]] (2), generic (1)
 > **Code Identifiers:** select_examples (3), add_example (1), select_example (1)
-> **Code Keywords:** let (2), class. (1), class, (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -3800,7 +3800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), function (1), continue (1)
+> **Frameworks & Libraries:** prompt (14)
 > **Exercise Files:** template (2)
 > **Analogies:** just like (1), for example (1)
 > **Cross-References:** coming up (1)
@@ -3891,8 +3891,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (6), [[LangChain]] (2), next (2), [[Information Retrieval]] (1), [[Fetch]] (1)
 > **Env Vars:** mmr (13)
-> **Code Keywords:** lambda (3), case, (2), continue (1), let (1), class, (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** example_selector (2), from_examples (1)
 > **Exercise Files:** template (2)
@@ -4001,7 +4001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4), function (1), case, (1)
+> **Frameworks & Libraries:** prompt (9)
 > **Versions:** 1.0 (3), 0.0 (1), 0.25 (1)
 > **UI Navigation:** toggle (1), select the (1)
 > **Exercise Files:** template (2)
@@ -4069,7 +4069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), pass (2), let (1)
+> **Frameworks & Libraries:** prompt (4)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (2)
 > **UI Navigation:** select the (1)
@@ -4159,15 +4159,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (16), [[LangChain]] (2), [[Real-Time]] (2), [[Fetch]] (2), next (1)
 > **Exercise Files:** template (11)
-> **Code Keywords:** function (3), let (2), pass (1), super (1), this, (1)
 > **Analogies:** such as (1), for instance (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Prompting Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Chain of thought
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980)
@@ -4334,7 +4334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), pass (2), require (1), from, (1)
+> **Frameworks & Libraries:** prompt (8), data (5), llm (3), [[Large Language Models (LLM)|Large language models]] (2), [[Hugging Face]] (2)
 > **Env Vars:** llm (3), gpu (2), nasa (1), bge (1), mmr (1)
 > **Definitions:** is a  (3)
 > **Versions:** 1.8 (1), 0.0 (1)
@@ -4476,7 +4476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (12), let (2), finally, (2), require (1), case, (1)
+> **Frameworks & Libraries:** prompt (12), llm (3), [[Hugging Face]] (2), [[Large Language Models (LLM)|Large language models]] (1), data (1)
 > **Env Vars:** llm (3), bge (1), mmr (1), gpt (1)
 > **Exercise Files:** download the (1), template (1)
 > **CLI Commands:** find (1)
@@ -4750,7 +4750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (11), let (5), function (4), this. (3), require (2)
+> **Frameworks & Libraries:** prompt (14), llm (13), [[Search]] (8), [[LangChain]] (4), data (2)
 > **Env Vars:** llm (13), rwkv (5), gpt (3), api (1), rlhf (1)
 > **Code Identifiers:** self_ask (1), call_gpt (1), get_last_line (1), extract_questions (1), get_answer (1)
 > **Definitions:** is a  (2), essentially is (1), stands for (1)
@@ -4914,7 +4914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (3), let (2), type. (1), require (1), self (1)
+> **Frameworks & Libraries:** [[React.js|React]] (18), [[LangChain]] (9), [[Search]] (9), data (2), prompt (2)
 > **UI Navigation:** go to (4), click on (1)
 > **Exercise Files:** source code (4), template (1)
 > **Definitions:** is an  (2), stands for (1)
@@ -5302,7 +5302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (6), pass (4), static (2), class, (2)
+> **Frameworks & Libraries:** data (18), rag (15), prompt (13), [[LangChain]] (7), [[Search]] (6)
 > **Env Vars:** rag (15), llm (3), faiss (1)
 > **Definitions:** is a  (5), known as (1)
 > **Analogies:** such as (2), for example (2)
@@ -5468,8 +5468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (10), next (4), [[Probability]] (4), prompt (3), [[Search]] (3)
 > **Env Vars:** flare (15), llm (1)
-> **Code Keywords:** let (4), continue (2), pass (2), from. (1), for, (1)
 > **Definitions:** stands for (1), is a  (1), is called (1)
 > **Cross-References:** as we saw (1), coming up (1)
 > **Prerequisites:** set up (2)
@@ -5726,7 +5726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), import. (1), module (1), case, (1), require (1)
+> **Frameworks & Libraries:** prompt (8), next (5), [[LangChain]] (5), [[Search]] (5), [[GPT-4]] (3)
 > **CLI Commands:** find (5), make (2), python (1)
 > **Env Vars:** gpt (2), json (2), api (1), dpo (1)
 > **Definitions:** is a  (3)
@@ -5738,7 +5738,7 @@ created: 2026-04-29
 
 ### 7. Prompt Management a.k.a. PromptOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt management
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980)
@@ -5795,9 +5795,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (14), [[Prompt Engineering]] (4), management (4), [[Version Control]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** imagine (1), just like (1)
-> **Code Keywords:** super (1)
 > **Speakers:** - [instructor] (1)
 
 #### LangSmith
@@ -5839,6 +5839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), [[Prototyping]] (2), [[Debugging]] (2), application (2), [[LangChain]] (1)
 > **Env Vars:** llm (5)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** in the next (1)
@@ -6019,7 +6020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (4), for, (2), private (2), this, (2)
+> **Frameworks & Libraries:** prompt (12), api (9), hit (8), [[LinkedIn]] (3), [[PyTorch]] (3)
 > **Env Vars:** api (11), llm (2), gpt (2)
 > **CLI Commands:** make (3)
 > **Versions:** 3.5 (2)
@@ -6237,7 +6238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), pass (3), this, (3), this. (2)
+> **Frameworks & Libraries:** prompt (37), [[LangChain]] (16), llm (3), application (2), [[LinkedIn]] (2)
 > **Code Identifiers:** chain_new (2), langchain_community (2), langchain_core (2), output_parsers (1)
 > **Env Vars:** llm (3), api (2), pep8 (1)
 > **Analogies:** for example (2), just like (2)
@@ -6473,7 +6474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (1)
+> **Frameworks & Libraries:** [[LangChain]] (6), ai (4), [[Metadata]] (4), llm (3), [[Engineering]] (2)
 > **UI Navigation:** click on (3), go to (2), navigate to (1)
 > **Code Identifiers:** chunk_size (1), chunk_overlap (1), split_documents (1), prompt_template (1), prompt_templates (1)
 > **Env Vars:** llm (3), api (2)
@@ -6635,7 +6636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (3), case, (2), for. (1), this. (1)
+> **Frameworks & Libraries:** prompt (14), [[Search]] (5), [[Tokens]] (5), [[LangChain]] (4), [[Deep Learning]] (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** llm (1), gpt (1)
 > **Versions:** 3.5 (1)
@@ -6646,7 +6647,7 @@ created: 2026-04-29
 
 ### 8. The LLM Landscape
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applications of language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980)
@@ -6731,8 +6732,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Large Language Models (LLM)|Large language models]] (3), llm (3), [[Real-Time]] (2), product (2)
 > **Env Vars:** llm (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Warnings:** caution (1)
@@ -6837,8 +6838,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (12), ai (6), data (5), [[LLaMA]] (3), [[Google]] (2)
 > **Env Vars:** gpt (4), bert (1), api (1), nlp (1), llm (1)
-> **Code Keywords:** self (2), public (1), require (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Versions:** 3.5 (1)

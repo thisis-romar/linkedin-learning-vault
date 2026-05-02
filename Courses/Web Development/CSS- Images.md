@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Images.md)
@@ -48,50 +48,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Working with images in CSS
-  - What you should know
-  - Using GitHub Codespaces with this course
+  - [Working with images in CSS](#working-with-images-in-css)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Basic Image Fitting and Positioning**](#1-basic-image-fitting-and-positioning) (7 videos)
-  - Modern image markup
-  - Removing space underneath an image
-  - Fitting an image inside any container
-  - Fitting and positioning a background image in a container
-  - Creating square and proportionate images
-  - Fitting an image inside a grid cell
-  - Fitting an image inside a flexbox
+  - [Modern image markup](#modern-image-markup)
+  - [Removing space underneath an image](#removing-space-underneath-an-image)
+  - [Fitting an image inside any container](#fitting-an-image-inside-any-container)
+  - [Fitting and positioning a background image in a container](#fitting-and-positioning-a-background-image-in-a-container)
+  - [Creating square and proportionate images](#creating-square-and-proportionate-images)
+  - [Fitting an image inside a grid cell](#fitting-an-image-inside-a-grid-cell)
+  - [Fitting an image inside a flexbox](#fitting-an-image-inside-a-flexbox)
 - [**2. Clip Masks, Paths, and Custom Shapes**](#2-clip-masks-paths-and-custom-shapes) (9 videos)
-  - Rounded corners with border-radius
-  - Custom shapes using clip-path
-  - Creating circles and ellipses with clip-path
-  - Creating straight-lined shapes with polygon
-  - Creating rectangles with clip-path
-  - Creating custom paths with clip-path
-  - Creating custom shapes with SVG
-  - Using an alternative to clip-path: mask-image
-  - Creating a text knockout effect with background-clip
+  - [Rounded corners with border-radius](#rounded-corners-with-border-radius)
+  - [Custom shapes using clip-path](#custom-shapes-using-clip-path)
+  - [Creating circles and ellipses with clip-path](#creating-circles-and-ellipses-with-clip-path)
+  - [Creating straight-lined shapes with polygon](#creating-straight-lined-shapes-with-polygon)
+  - [Creating rectangles with clip-path](#creating-rectangles-with-clip-path)
+  - [Creating custom paths with clip-path](#creating-custom-paths-with-clip-path)
+  - [Creating custom shapes with SVG](#creating-custom-shapes-with-svg)
+  - [Using an alternative to clip-path: mask-image](#using-an-alternative-to-clip-path-mask-image)
+  - [Creating a text knockout effect with background-clip](#creating-a-text-knockout-effect-with-background-clip)
 - [**3. Filtering and Blending**](#3-filtering-and-blending) (7 videos)
-  - Filtering and blending
-  - Looking at the filter property
-  - Combining filters
-  - Using custom SVG filters
-  - Mix-blend-mode
-  - Experimenting with blend modes
-  - Background-blend-mode
+  - [Filtering and blending](#filtering-and-blending)
+  - [Looking at the filter property](#looking-at-the-filter-property)
+  - [Combining filters](#combining-filters)
+  - [Using custom SVG filters](#using-custom-svg-filters)
+  - [Mix-blend-mode](#mix-blend-mode)
+  - [Experimenting with blend modes](#experimenting-with-blend-modes)
+  - [Background-blend-mode](#background-blend-mode)
 - [**4. Transformations and Animations**](#4-transformations-and-animations) (4 videos)
-  - Translate, scale, rotate, and manipulate perspective
-  - Animated effects with transitions
-  - Keyframe animations for image effects
-  - Important notes on using animations
+  - [Translate, scale, rotate, and manipulate perspective](#translate-scale-rotate-and-manipulate-perspective)
+  - [Animated effects with transitions](#animated-effects-with-transitions)
+  - [Keyframe animations for image effects](#keyframe-animations-for-image-effects)
+  - [Important notes on using animations](#important-notes-on-using-animations)
 - [**5. Image Optimization and Performance**](#5-image-optimization-and-performance) (3 videos)
-  - Delivering responsive images
-  - Optimizing performance
-  - Ensuring cross-browser compatibility
+  - [Delivering responsive images](#delivering-responsive-images)
+  - [Optimizing performance](#optimizing-performance)
+  - [Ensuring cross-browser compatibility](#ensuring-cross-browser-compatibility)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with images in CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/working-with-images-in-css?u=76281980)
@@ -122,8 +122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), web (1), hit (1)
 > **Env Vars:** css (3)
-> **Code Keywords:** require (1), let (1)
 > **Speakers:** - did (1)
 
 #### What you should know
@@ -145,6 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[HTML]] (1), [[GitHub]] (1), [[Codespaces]] (1), next (1)
 > **Env Vars:** css (2), html (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
@@ -202,10 +203,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (8), [[GitHub]] (4), feature (1)
 > **UI Navigation:** go to (3), navigate to (2)
 > **Tools:** github (4)
 > **Analogies:** for example (3)
-> **Code Keywords:** this. (1), let (1)
 > **Definitions:** stands for (2)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -214,7 +215,7 @@ created: 2026-04-29
 
 ### 1. Basic Image Fitting and Positioning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern image markup
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980)
@@ -347,7 +348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), while, (1), override (1), function (1)
+> **Frameworks & Libraries:** [[HTML]] (5), css (3), next (2), [[Privacy]] (1), web (1)
 > **Env Vars:** html (4), css (3), url (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** such as (1), for example (1)
@@ -429,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (2), else, (1), this, (1), extends (1)
+> **Frameworks & Libraries:** [[HTML]] (4), web (2)
 > **Env Vars:** html (4)
 > **Analogies:** such as (3), imagine (1)
 > **Cross-References:** go back to (2)
@@ -553,7 +554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), for. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -669,7 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (3), let (3), case, (2), this, (1)
+> **Frameworks & Libraries:** css (1), web (1)
 > **Env Vars:** css (1), mdn (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -805,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), this. (1), this, (1), function (1)
+> **Frameworks & Libraries:** css (5), [[HTML]] (3), next (2), [[Design Patterns]] (1)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** imagine (1), for example (1)
@@ -904,7 +905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** css (3), web (1), [[Responsive Web Design]] (1)
 > **CLI Commands:** cat (3)
 > **Env Vars:** css (2)
 > **Cross-References:** go back to (2)
@@ -1086,7 +1087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (2), default, (1), default. (1)
+> **Frameworks & Libraries:** css (1), next (1)
 > **Tools:** firefox (3), safari (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Analogies:** just like (2)
@@ -1098,7 +1099,7 @@ created: 2026-04-29
 
 ### 2. Clip Masks, Paths, and Custom Shapes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rounded corners with border-radius
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/rounded-corners-with-border-radius?u=76281980)
@@ -1195,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** css (1), next (1)
 > **Cross-References:** previous chapter (2), later in (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
@@ -1225,6 +1226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1), web (1), next (1)
 > **Env Vars:** css (1), svg (1), mdn (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** mdn (1)
@@ -1362,7 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (4), this, (3), pass (1), case, (1)
+> **Frameworks & Libraries:** css (3)
 > **Tools:** firefox (4)
 > **Env Vars:** css (3)
 > **Cross-References:** go back to (2), later in (1)
@@ -1464,7 +1466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Search]] (1), css (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** css (1)
 > **Cross-References:** go back to (1)
@@ -1527,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
+> **Frameworks & Libraries:** feature (2), css (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (1)
 > **Env Vars:** css (1)
@@ -1603,7 +1605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** svg (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1716,9 +1718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (10), next (2), application (1), data (1), [[HTML]] (1)
 > **Env Vars:** svg (24), css (10), html (1)
 > **Code Identifiers:** clippath (21), clippathunits (3), objectboundingbox (3), clippaths (1)
-> **Code Keywords:** let (6), this, (3), case, (3), default, (2), catch. (1)
 > **Non-Speech:** (keys clicking) (7)
 > **CLI Commands:** make (6)
 > **Cross-References:** go back to (2)
@@ -1782,7 +1784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), else, (1), this. (1)
+> **Frameworks & Libraries:** css (2)
 > **Env Vars:** svg (5), css (2), url (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1826,15 +1828,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[HTML]] (1), next (1)
 > **Env Vars:** css (3), svg (1), html (1)
-> **Code Keywords:** this. (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Filtering and Blending
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering and blending
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/filtering-and-blending?u=76281980)
@@ -1857,8 +1859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), css (2)
 > **Env Vars:** css (2), svg (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Looking at the filter property
@@ -1960,7 +1962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), for. (1), finally, (1)
+> **Frameworks & Libraries:** css (2), next (2)
 > **Definitions:** is a  (4)
 > **Analogies:** similar to (2), think of it like (1), just like (1)
 > **CLI Commands:** make (2)
@@ -2017,7 +2019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), case, (1), raise (1), override (1)
+> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -2103,8 +2105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[HTML]] (2), next (1)
 > **Env Vars:** svg (10), css (5), url (2)
-> **Code Keywords:** let (7), this. (2)
 > **CLI Commands:** make (1), find (1), cat (1)
 > **File Paths:** index.html (2)
 > **Definitions:** means that (1), is a  (1)
@@ -2152,7 +2154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), this. (1)
+> **Frameworks & Libraries:** web (2)
 > **CLI Commands:** find (1)
 > **Documentation:** mdn (1)
 > **Tools:** firefox (1)
@@ -2204,7 +2206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (1), case, (1), for, (1)
+> **Frameworks & Libraries:** web (1), feature (1), css (1)
 > **Env Vars:** svg (1), mdn (1), css (1)
 > **CLI Commands:** make (1)
 > **Documentation:** mdn (1)
@@ -2247,7 +2249,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Documentation:** the docs (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
@@ -2255,7 +2256,7 @@ created: 2026-04-29
 
 ### 4. Transformations and Animations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Translate, scale, rotate, and manipulate perspective
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/translate-scale-rotate-and-manipulate-perspective?u=76281980)
@@ -2406,7 +2407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), module (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** css (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (4), sku (1)
 > **Versions:** 0.5 (3), 0.25 (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -2490,7 +2491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), case, (1), this, (1)
+> **Frameworks & Libraries:** css (2), next (1)
 > **Env Vars:** css (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** means that (1), is a  (1)
@@ -2632,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), case, (3), function (2), throw (1), this, (1)
+> **Frameworks & Libraries:** css (4), [[Search]] (1), [[JavaScript]] (1)
 > **Env Vars:** css (4)
 > **Cross-References:** go back to (3), in the last (1)
 > **Analogies:** for example (2), just like (1)
@@ -2707,6 +2708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), css (2), next (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Env Vars:** css (2)
@@ -2715,7 +2717,7 @@ created: 2026-04-29
 
 ### 5. Image Optimization and Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Delivering responsive images
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/delivering-responsive-images?u=76281980)
@@ -2750,6 +2752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), next (2), [[HTML]] (1)
 > **Analogies:** picture (4), imagine (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the next (1)
@@ -2786,8 +2789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[User Experience (UX)|User experience]] (1), web (1)
 > **Env Vars:** png (1), jpeg (1), cdn (1)
-> **Code Keywords:** require (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -2836,11 +2839,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (5), css (3), web (3)
 > **Env Vars:** css (3), mdn (2)
 > **Documentation:** mdn (2)
 > **UI Navigation:** in the sidebar (1), click on (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -2848,7 +2851,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/next-steps?u=76281980)
@@ -2875,10 +2878,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), web (2), next (1)
 > **Env Vars:** css (4), mdn (1)
 > **CLI Commands:** find (1), go build (1)
 > **Cross-References:** we covered (1), in the next (1)
-> **Code Keywords:** continue (1)
 > **Documentation:** mdn (1)
 > **Speakers:** - [instructor] (1)
 

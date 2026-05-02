@@ -26,7 +26,7 @@ tags:
   - skill/django
   - skill/react-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20React%20And%20Django%20Apps.md)
@@ -45,50 +45,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Create a full-stack React app with Django REST framework
-  - What you should know
-  - Demo project overview
+  - [Create a full-stack React app with Django REST framework](#create-a-full-stack-react-app-with-django-rest-framework)
+  - [What you should know](#what-you-should-know)
+  - [Demo project overview](#demo-project-overview)
 - [**1. Django and React Preparation**](#1-django-and-react-preparation) (4 videos)
-  - Running the React and Django development servers
-  - Preparing React code for production
-  - Serving React code through Django's static files
-  - Navigating between React components using React Router
+  - [Running the React and Django development servers](#running-the-react-and-django-development-servers)
+  - [Preparing React code for production](#preparing-react-code-for-production)
+  - [Serving React code through Django's static files](#serving-react-code-through-djangos-static-files)
+  - [Navigating between React components using React Router](#navigating-between-react-components-using-react-router)
 - [**2. Filtering and Pagination with Django and React**](#2-filtering-and-pagination-with-django-and-react) (8 videos)
-  - Creating a ViewSet with Django
-  - Displaying a list of items with React
-  - Deleting an item using React and Django
-  - Partially updating an item using React
-  - Pagination with Django
-  - Pagination with React
-  - Filtering with Django
-  - Filtering with React
+  - [Creating a ViewSet with Django](#creating-a-viewset-with-django)
+  - [Displaying a list of items with React](#displaying-a-list-of-items-with-react)
+  - [Deleting an item using React and Django](#deleting-an-item-using-react-and-django)
+  - [Partially updating an item using React](#partially-updating-an-item-using-react)
+  - [Pagination with Django](#pagination-with-django)
+  - [Pagination with React](#pagination-with-react)
+  - [Filtering with Django](#filtering-with-django)
+  - [Filtering with React](#filtering-with-react)
 - [**3. Forms with React and Django**](#3-forms-with-react-and-django) (7 videos)
-  - Handling creating models with Django REST framework
-  - Creating a REST API Service class with React and Axios
-  - Creating a basic form as a React component
-  - Creating form fields for basic form
-  - Connecting a React component to a service
-  - Validating form data with Django REST framework
-  - Displaying validation errors with React
+  - [Handling creating models with Django REST framework](#handling-creating-models-with-django-rest-framework)
+  - [Creating a REST API Service class with React and Axios](#creating-a-rest-api-service-class-with-react-and-axios)
+  - [Creating a basic form as a React component](#creating-a-basic-form-as-a-react-component)
+  - [Creating form fields for basic form](#creating-form-fields-for-basic-form)
+  - [Connecting a React component to a service](#connecting-a-react-component-to-a-service)
+  - [Validating form data with Django REST framework](#validating-form-data-with-django-rest-framework)
+  - [Displaying validation errors with React](#displaying-validation-errors-with-react)
 - [**4. Refactoring React with Hooks and Higher-Order Components**](#4-refactoring-react-with-hooks-and-higher-order-components) (4 videos)
-  - Using timers with state to display data
-  - Creating a higher-order component with React
-  - Using React hooks and refactoring a component to use hooks
-  - Refactoring a higher-order component to use hooks
+  - [Using timers with state to display data](#using-timers-with-state-to-display-data)
+  - [Creating a higher-order component with React](#creating-a-higher-order-component-with-react)
+  - [Using React hooks and refactoring a component to use hooks](#using-react-hooks-and-refactoring-a-component-to-use-hooks)
+  - [Refactoring a higher-order component to use hooks](#refactoring-a-higher-order-component-to-use-hooks)
 - [**5. Testing React and Django**](#5-testing-react-and-django) (7 videos)
-  - Unit testing a component
-  - Unit testing two React routes and navigation between components
-  - End2End testing the form submission process
-  - End2End testing the filtered data table
-  - Unit testing caching with Django REST framework
-  - Unit testing sorting and filtering
-  - Unit testing validation for the REST API
+  - [Unit testing a component](#unit-testing-a-component)
+  - [Unit testing two React routes and navigation between components](#unit-testing-two-react-routes-and-navigation-between-components)
+  - [End2End testing the form submission process](#end2end-testing-the-form-submission-process)
+  - [End2End testing the filtered data table](#end2end-testing-the-filtered-data-table)
+  - [Unit testing caching with Django REST framework](#unit-testing-caching-with-django-rest-framework)
+  - [Unit testing sorting and filtering](#unit-testing-sorting-and-filtering)
+  - [Unit testing validation for the REST API](#unit-testing-validation-for-the-rest-api)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a full-stack React app with Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980)
@@ -111,6 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Django]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [rudolf] (1)
@@ -144,6 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (7), [[Representational State Transfer (REST)|Rest]] (5), [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (3), [[JavaScript]] (3)
 > **Env Vars:** rest (5), api (2), url (1), es6 (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -172,6 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (6), [[React.js|React]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[React.js]] (1), [[Unit Testing]] (1)
 > **Env Vars:** rest (1), api (1)
 > **File Paths:** react.js (1)
 > **Speakers:** - [narrator] (1)
@@ -179,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Django and React Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running the React and Django development servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980)
@@ -200,6 +203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Django]] (2), [[Python (Programming Language)|Python]] (1), [[JSON]] (1), [[npm]] (1)
 > **CLI Commands:** python (1), npm (1)
 > **File Paths:** package.json (1)
 > **Tools:** command line (1)
@@ -226,6 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JSON]] (1), [[Angular]] (1), [[Java]] (1), [[JavaScript]] (1)
 > **Env Vars:** json (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -245,6 +250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Django]] (3)
 > **Speakers:** - [instructor] (1)
 
 #### Navigating between React components using React Router
@@ -292,13 +298,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), web application (1)
 > **Env Vars:** url (1)
 > **Speakers:** - react (1)
 
 
 ### 2. Filtering and Pagination with Django and React
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a ViewSet with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-viewset-with-django?u=76281980)
@@ -321,7 +328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), class. (1)
+> **Frameworks & Libraries:** api (1), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -375,8 +382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), data (4), [[Representational State Transfer (REST)|Rest]] (3), [[Django]] (1), [[React.js|React]] (1)
 > **Env Vars:** api (4), rest (3), http (1)
-> **Code Keywords:** let (2), static (1), pass (1), public (1)
 > **Code Identifiers:** retrievelist (2), testid (1), togglewishlist (1), getconfig (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -405,7 +412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), class, (1), override (1)
+> **Frameworks & Libraries:** [[Django]] (2), api (1), [[Search]] (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
@@ -453,10 +460,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Env Vars:** patch (2), api (1), http (1), xhr (1)
 > **Code Identifiers:** setorderitem (1), added_to_cart (1)
 > **API Endpoints:** patch  (2)
-> **Code Keywords:** pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### Pagination with Django
@@ -476,6 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rest (1)
 > **Speakers:** - [instructor] (1)
 
@@ -524,8 +532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), api (3), [[React.js|React]] (1), data (1)
 > **Env Vars:** api (3), http (1)
-> **Code Keywords:** function (2), let (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -571,8 +579,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** set up (2), configure (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** rest (1)
 > **Speakers:** - [male (1)
 
@@ -675,8 +683,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), [[React.js|React]] (1), api (1)
 > **Code Identifiers:** price_min (4), onfilterupdate (3), price_max (2), queryparams (2), updatefilter (1)
-> **Code Keywords:** let (2), pass (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** go to (1)
@@ -685,7 +693,7 @@ created: 2026-04-29
 
 ### 3. Forms with React and Django
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling creating models with Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980)
@@ -724,6 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (4), [[Representational State Transfer (REST)|Rest]] (3), api (1), [[Tokens]] (1), [[HTML]] (1)
 > **Env Vars:** rest (3), api (1), url (1), html (1)
 > **Speakers:** - [instructor] (1)
 
@@ -772,7 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class, (1), finally, (1)
+> **Frameworks & Libraries:** api (4), [[Django]] (2), web (2), data (1), application (1)
 > **Env Vars:** api (4), htp (1), url (1)
 > **Code Identifiers:** retrievewishlist (1), getaccesstoken (1), client_credentials (1), client_secret (1), createbooking (1)
 > **Speakers:** - we (1)
@@ -820,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2)
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** formfield (1), updatefield (1), clearorderitem (1), formfields (1)
 > **Speakers:** - [narrator] (1)
 
@@ -867,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (1)
+> **Frameworks & Libraries:** data (1), css (1), [[Forms]] (1)
 > **Code Identifiers:** onupdate (2), onchange (2)
 > **Prerequisites:** setup (2), set up (1)
 > **File Paths:** checkout.css (1)
@@ -920,8 +929,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), data (1), web (1)
 > **Code Identifiers:** placeorder (2), createbooking (1), orderplaced (1)
-> **Code Keywords:** let (2), pass (1)
 > **Env Vars:** api (2), xhr (1)
 > **Speakers:** - [instructor] (1)
 
@@ -946,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), match, (1), raise (1)
+> **Frameworks & Libraries:** [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rest (1)
 > **Speakers:** - [instructor] (1)
 
@@ -977,14 +986,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Refactoring React with Hooks and Higher-Order Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using timers with state to display data
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/using-timers-with-state-to-display-data?u=76281980)
@@ -1017,7 +1025,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Speakers:** - [narrator] (1)
 
 #### Creating a higher-order component with React
@@ -1051,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** front-end (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** onupdate (1)
 > **Speakers:** - we (1)
@@ -1101,8 +1108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Hooks]] (3), [[React.js|React]] (2), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** useeffect (3), usestate (2), setstate (2), setremaining (1)
-> **Code Keywords:** function (3), except, (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
@@ -1147,7 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), this, (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** usevalidation (4), usestate (1), errordisplay (1), onchange (1), onupdate (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -1157,7 +1164,7 @@ created: 2026-04-29
 
 ### 5. Testing React and Django
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unit testing a component
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-a-component?u=76281980)
@@ -1206,7 +1213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), import, (1), pass (1)
+> **Frameworks & Libraries:** dom (3), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
@@ -1257,7 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), async (1), function (1)
+> **Frameworks & Libraries:** data (6), [[React.js|React]] (4), api (4), dom (2)
 > **Env Vars:** api (4), http (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** navigate to (1)
@@ -1297,7 +1304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), match. (1)
+> **Frameworks & Libraries:** next (1), [[Django]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - we (1)
@@ -1321,8 +1328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Search]] (2), [[Django]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1345,8 +1352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1383,7 +1390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** database (1), api (1), [[Search]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** discount_package (1)
 > **Env Vars:** api (1)
@@ -1408,8 +1415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), api (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), assert (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1417,7 +1424,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980)
@@ -1432,8 +1439,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[LinkedIn]] (3), [[Django]] (3), [[React.js]] (1)
 > **File Paths:** react.js (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [rudolf] (1)
 
 

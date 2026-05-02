@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/game-programming
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Building%20the%20Classic%20Snake%20Game%20with%20Python.md)
@@ -50,35 +50,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Take your Python skills to the next level
-  - What you should know
+  - [Take your Python skills to the next level](#take-your-python-skills-to-the-next-level)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Python Turtle Graphics**](#1-introduction-to-python-turtle-graphics) (6 videos)
-  - Meet turtle graphics
-  - Working with the repository for this course
-  - A starter template for turtle graphics programs
-  - Animation with Python turtle graphics
-  - Global variables
-  - Drawing with stamps
+  - [Meet turtle graphics](#meet-turtle-graphics)
+  - [Working with the repository for this course](#working-with-the-repository-for-this-course)
+  - [A starter template for turtle graphics programs](#a-starter-template-for-turtle-graphics-programs)
+  - [Animation with Python turtle graphics](#animation-with-python-turtle-graphics)
+  - [Global variables](#global-variables)
+  - [Drawing with stamps](#drawing-with-stamps)
 - [**2. The Snake Game**](#2-the-snake-game) (7 videos)
-  - Snake representation and movement
-  - Basic snake movement program
-  - Controlling the snake's direction
-  - The game loop
-  - Snake food
-  - Keeping score
-  - Game reset
+  - [Snake representation and movement](#snake-representation-and-movement)
+  - [Basic snake movement program](#basic-snake-movement-program)
+  - [Controlling the snake's direction](#controlling-the-snakes-direction)
+  - [The game loop](#the-game-loop)
+  - [Snake food](#snake-food)
+  - [Keeping score](#keeping-score)
+  - [Game reset](#game-reset)
 - [**3. Finishing Touches**](#3-finishing-touches) (5 videos)
-  - Avoiding repetition by using Lambda expressions
-  - Personalizing your game
-  - Adding graphics to the snake game
-  - Adding the snake head to the game
-  - Adding a high-score feature
+  - [Avoiding repetition by using Lambda expressions](#avoiding-repetition-by-using-lambda-expressions)
+  - [Personalizing your game](#personalizing-your-game)
+  - [Adding graphics to the snake game](#adding-graphics-to-the-snake-game)
+  - [Adding the snake head to the game](#adding-the-snake-head-to-the-game)
+  - [Adding a high-score feature](#adding-a-high-score-feature)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Integrating material covered
+  - [Integrating material covered](#integrating-material-covered)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take your Python skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980)
@@ -97,6 +97,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), game (2), next (1), [[Programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 
@@ -117,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Python Turtle Graphics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet turtle graphics
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980)
@@ -194,11 +195,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Python (Programming Language)|Python]] (2), game (2), [[Programming Concepts]] (1), [[Windows]] (1)
 > **Env Vars:** idle (4), ide (2)
 > **Definitions:** is a  (5)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
@@ -244,12 +245,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Git]] (2), next (1), [[Windows]] (1)
 > **Tools:** github (2), terminal (2), pycharm (2)
 > **Env Vars:** url (2), zip (1), f12 (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Exercise Files:** github repo (1), download the (1), zip file (1), clone the repo (1)
 > **CLI Commands:** git (2), unzip (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
@@ -384,7 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), module (4), let (3), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), oop (1), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4), make (3)
 > **Code Identifiers:** my_turtle (4), oop_turtle (1)
 > **Definitions:** is a  (3)
@@ -466,7 +467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), default. (1), case, (1)
+> **Frameworks & Libraries:** game (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -570,7 +571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (2), def, (1), default, (1)
+> **Frameworks & Libraries:** game (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** my_turtle (1)
@@ -669,17 +670,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), next (1)
 > **CLI Commands:** make (5)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
 
 ### 2. The Snake Game
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Snake representation and movement
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980)
@@ -776,9 +777,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2), game (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), python (2)
 > **Code Identifiers:** new_head (4)
-> **Code Keywords:** let (2), case, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
@@ -991,7 +992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (5), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), game (2), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **CLI Commands:** make (4), python (2)
 > **Cross-References:** previous video (4), we discussed (1), we talked about (1)
 > **UI Navigation:** go to (3)
@@ -1213,7 +1214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2)
+> **Frameworks & Libraries:** game (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2), [[Tkinter]] (1), next (1)
 > **CLI Commands:** make (3), python (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
@@ -1317,7 +1318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (2), function (2), this. (2), require (1)
+> **Frameworks & Libraries:** game (12), hit (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -1513,7 +1514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (8), case, (2), this. (1), from, (1)
+> **Frameworks & Libraries:** game (7), [[Programming]] (2), [[Game Development]] (1), power (1), next (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (3), short for (1)
 > **Cross-References:** we talked about (1), previous video (1)
@@ -1565,7 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), finally, (1)
+> **Frameworks & Libraries:** game (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - adding (1)
@@ -1633,14 +1634,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), this, (2), let (2)
+> **Frameworks & Libraries:** game (7)
 > **CLI Commands:** make (2)
 > **Speakers:** - at (1)
 
 
 ### 3. Finishing Touches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding repetition by using Lambda expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/avoiding-repetition-by-using-lambda-expressions?u=76281980)
@@ -1755,7 +1756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (6), lambda (4), pass (4), def, (1)
+> **Frameworks & Libraries:** next (1), game (1)
 > **Non-Speech:** (keyboard clicking) (4), (mouse clicking) (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
@@ -1830,7 +1831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), catch. (1)
+> **Frameworks & Libraries:** game (3)
 > **Non-Speech:** (continuing keyboard clicking) (5), (keyboard clicking) (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), kind of like (1)
@@ -1883,7 +1884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), delete (1)
+> **Frameworks & Libraries:** game (2), next (1)
 > **Code Identifiers:** register_shape (1)
 
 #### Adding the snake head to the game
@@ -1973,8 +1974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), feature (1)
 > **CLI Commands:** make (3), python (2)
-> **Code Keywords:** let (2), function (1), finally, (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (2)
 > **Cross-References:** in the last (1)
@@ -2119,7 +2120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), case, (2), pass (1), this. (1)
+> **Frameworks & Libraries:** game (5), feature (3), next (2)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** def_update_high_score (1), update_high_score (1)
 > **Tools:** pycharm (2)
@@ -2128,7 +2129,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating material covered
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980)
@@ -2149,6 +2150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Tkinter]] (1), [[Programming]] (1)
 > **Env Vars:** gui (1)
 > **Speakers:** - [robin] (1)
 

@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Google%20Cloud%20Platform%20for%20Machine%20Learning%20Essential%20Training.md)
@@ -53,44 +53,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - GCP and Machine Learning
-  - What you should know
-  - About using cloud services
+  - [GCP and Machine Learning](#gcp-and-machine-learning)
+  - [What you should know](#what-you-should-know)
+  - [About using cloud services](#about-using-cloud-services)
 - [**1. Vertex AI Studio**](#1-vertex-ai-studio) (7 videos)
-  - Use Vertex AI Model Garden
-  - Design and test language model prompts
-  - Design and test multimodal model prompts
-  - Test image model generative output
-  - Design and test speech generative output
-  - Challenge: Select and test GenAI models
-  - Solution: Select and test GenAI models
+  - [Use Vertex AI Model Garden](#use-vertex-ai-model-garden)
+  - [Design and test language model prompts](#design-and-test-language-model-prompts)
+  - [Design and test multimodal model prompts](#design-and-test-multimodal-model-prompts)
+  - [Test image model generative output](#test-image-model-generative-output)
+  - [Design and test speech generative output](#design-and-test-speech-generative-output)
+  - [Challenge: Select and test GenAI models](#challenge-select-and-test-genai-models)
+  - [Solution: Select and test GenAI models](#solution-select-and-test-genai-models)
 - [**2. Vertex AI Notebooks**](#2-vertex-ai-notebooks) (7 videos)
-  - Understand available services
-  - Use TensorFlow example: MNIST
-  - Use managed and user-managed notebooks
-  - Update notebook instance
-  - Use notebook instances
-  - Challenge: Setup notebook
-  - Solution: Setup notebook
+  - [Understand available services](#understand-available-services)
+  - [Use TensorFlow example: MNIST](#use-tensorflow-example-mnist)
+  - [Use managed and user-managed notebooks](#use-managed-and-user-managed-notebooks)
+  - [Update notebook instance](#update-notebook-instance)
+  - [Use notebook instances](#use-notebook-instances)
+  - [Challenge: Setup notebook](#challenge-setup-notebook)
+  - [Solution: Setup notebook](#solution-setup-notebook)
 - [**3. Model Development**](#3-model-development) (5 videos)
-  - Understand Vector Search
-  - Use Vector Search
-  - Understand Feature Store
-  - Challenge: Create a Feature Store
-  - Solution: Create a Feature Store
+  - [Understand Vector Search](#understand-vector-search)
+  - [Use Vector Search](#use-vector-search)
+  - [Understand Feature Store](#understand-feature-store)
+  - [Challenge: Create a Feature Store](#challenge-create-a-feature-store)
+  - [Solution: Create a Feature Store](#solution-create-a-feature-store)
 - [**4. Model Deployment**](#4-model-deployment) (6 videos)
-  - Use the model registry
-  - Register a model in the registry
-  - Review batch and online endpoints
-  - Understand model pipeline templates
-  - Challenge: Run and evaluate a model pipeline job
-  - Solution: Run and evaluate a model pipeline job
+  - [Use the model registry](#use-the-model-registry)
+  - [Register a model in the registry](#register-a-model-in-the-registry)
+  - [Review batch and online endpoints](#review-batch-and-online-endpoints)
+  - [Understand model pipeline templates](#understand-model-pipeline-templates)
+  - [Challenge: Run and evaluate a model pipeline job](#challenge-run-and-evaluate-a-model-pipeline-job)
+  - [Solution: Run and evaluate a model pipeline job](#solution-run-and-evaluate-a-model-pipeline-job)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GCP and Machine Learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980)
@@ -115,7 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), [[Vertex]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1)
 > **Analogies:** such as (1)
 
 #### What you should know
@@ -141,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gcp (2), cloud (1), [[Python (Programming Language)|Python]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** gcp (2), iam (1)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
@@ -179,7 +180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Virtual Machines]] (1), gcp (1)
 > **Env Vars:** gcp (1)
 > **Analogies:** such as (1)
 > **Best Practices:** best practice (1)
@@ -188,7 +189,7 @@ created: 2026-04-29
 
 ### 1. Vertex AI Studio
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Vertex AI Model Garden
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980)
@@ -325,8 +326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (8), prompt (6), [[Generative AI]] (5), ai (3), [[Search]] (3)
 > **Definitions:** is a  (7)
-> **Code Keywords:** type. (1), this, (1)
 > **Env Vars:** view (1), details (1)
 > **Cross-References:** later in (1)
 > **Tools:** colab (1)
@@ -447,9 +448,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), [[Gemini]] (5), ai (3), application (3), [[Vertex]] (2)
 > **Env Vars:** lgm (2), text (1), prompt (1), view (1), details (1)
 > **Tools:** colab (6)
-> **Code Keywords:** let (2), this. (1), this, (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Definitions:** is an  (1), stands for (1)
 > **Best Practices:** recommended (2)
@@ -517,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** prompt (6), [[Gemini]] (4), [[Google]] (3), [[Tokens]] (3), [[Vertex]] (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 
@@ -600,6 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), [[Google]] (1), [[Gemini]] (1), [[Vertex]] (1), ai (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** picture (1)
@@ -653,8 +655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), [[Python (Programming Language)|Python]] (2), product (1), [[Vertex]] (1), ai (1)
 > **CLI Commands:** python (2), curl (2), node (1)
-> **Code Keywords:** case, (2), this. (1), interface (1), continue (1)
 > **Env Vars:** open (1), code (1), lgm (1)
 > **Tools:** colab (2)
 > **API Endpoints:** get  (1)
@@ -692,8 +694,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (5), [[Vertex]] (2), ai (2), [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gcp (1), api (1)
-> **Code Keywords:** let (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
@@ -757,17 +759,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (6), ai (6), [[Vertex]] (5), [[Gemini]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (2), python (1)
 > **Env Vars:** code (1), open (1), notebook (1)
 > **Tools:** colab (3)
 > **Prerequisites:** install (1), configure (1)
-> **Code Keywords:** this. (1)
 > **API Endpoints:** get  (1)
 
 
 ### 2. Vertex AI Notebooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand available services
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980)
@@ -852,8 +854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vertex]] (8), ai (8), next (4), data (4), [[Google]] (3)
 > **Env Vars:** gcp (3), sql (2), llm (1)
-> **Code Keywords:** case, (1), super (1), let (1), type. (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
@@ -949,10 +951,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (12), [[Google]] (5), ai (3), open-source (2), data (2)
 > **Env Vars:** mnist (4), gcp (2)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **Analogies:** it's like (1), such as (1), kind of like (1)
-> **Code Keywords:** case, (1), for, (1)
 > **CLI Commands:** python (1)
 > **URLs:** [tensorflow.org](https://tensorflow.org) (1)
 
@@ -1087,7 +1089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), new, (2), public (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Python (Programming Language)|Python]] (3), [[Vertex]] (2), ai (2), [[PaaS]] (2)
 > **Tools:** colab (5), jupyter (1)
 > **Env Vars:** mnist (3), gpu (1), ssh (1)
 > **CLI Commands:** python (3), ssh (1)
@@ -1222,8 +1224,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (3), feature (2), [[Python (Programming Language)|Python]] (1), [[Hardware]] (1), [[Kubernetes]] (1)
 > **Env Vars:** gpu (12), ram (2), cpu (2), ssh (1)
-> **Code Keywords:** let (4), this, (3), case. (1), this. (1), type. (1)
 > **CLI Commands:** make (3), ssh (1), python (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Prerequisites:** install (1), configure (1), set up (1)
@@ -1276,7 +1278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), from. (1), public (1)
+> **Frameworks & Libraries:** feature (2), [[Google]] (1), data (1), [[Security]] (1), [[Vertex]] (1)
 > **Env Vars:** gpu (1), ssh (1)
 > **Tools:** colab (2)
 > **CLI Commands:** ssh (1)
@@ -1304,6 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vertex]] (2), ai (2), [[TensorFlow]] (1)
 > **Env Vars:** cpu (1), ram (1)
 > **Prerequisites:** set up (2)
 > **UI Navigation:** select the (1)
@@ -1361,8 +1364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Google]] (1), web (1), business (1), next (1)
 > **Env Vars:** gpu (3), ssh (1)
-> **Code Keywords:** public (1), this, (1)
 > **UI Navigation:** open the (1), scroll down (1)
 > **CLI Commands:** ssh (1)
 > **Tools:** colab (1)
@@ -1371,7 +1374,7 @@ created: 2026-04-29
 
 ### 3. Model Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Vector Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980)
@@ -1432,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Search]] (8), data (5), [[Vertex]] (4), ai (4), [[Google]] (3)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), such as (1)
 > **CLI Commands:** find (1)
@@ -1565,8 +1568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), ai (5), data (5), [[Vertex]] (4), [[Google]] (2)
 > **Env Vars:** ann (3), api (2), gcp (1), pip (1), toc (1)
-> **Code Keywords:** public (3), this. (2), yield (1), while. (1), this, (1)
 > **Tools:** colab (6)
 > **Definitions:** is a  (4), is an  (1)
 > **Documentation:** stack overflow (4)
@@ -1639,10 +1642,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (12), [[Vertex]] (4), ai (4), data (4), database (2)
 > **Env Vars:** poc (1), gcp (1), api (1)
 > **Documentation:** the documentation (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
@@ -1677,7 +1680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** feature (4), next (3), [[Vertex]] (2), ai (2), gcp (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** gcp (2)
 > **Cross-References:** in the next (1)
@@ -1735,7 +1738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1), type. (1), case, (1), this, (1)
+> **Frameworks & Libraries:** feature (14), data (4), [[Vertex]] (3), ai (3), web (2)
 > **Env Vars:** gpu (2), sdk (1), json (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (1)
@@ -1743,7 +1746,7 @@ created: 2026-04-29
 
 ### 4. Model Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the model registry
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980)
@@ -1820,8 +1823,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vertex]] (4), ai (4), next (3), web (3), [[MLOps]] (2)
 > **Cross-References:** in the next (2), we discussed (1), go back to (1)
-> **Code Keywords:** this, (1), match. (1), interface (1)
 > **Tools:** colab (3)
 > **CLI Commands:** docker (1), python (1)
 > **Versions:** 2.5 (1)
@@ -1922,7 +1925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1), pass (1), self (1), switch (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Vertex]] (2), ai (2), [[Metadata]] (2), web (2)
 > **Versions:** version 1 (2), version 2 (2)
 > **Env Vars:** gcp (1), aip (1), api (1)
 > **Definitions:** is a  (2)
@@ -2046,7 +2049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), continue (1), this, (1), type, (1)
+> **Frameworks & Libraries:** web (9), api (5), [[Google]] (3), [[MLOps]] (2), management (1)
 > **Env Vars:** api (5), aip (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
@@ -2146,7 +2149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (3), case. (2), new, (1), continue (1)
+> **Frameworks & Libraries:** ai (4), web (4), [[Vertex]] (3), [[Google]] (3), [[MLOps]] (2)
 > **Env Vars:** llm (2), dag (1)
 > **Exercise Files:** template (3)
 > **Definitions:** is a  (3)
@@ -2202,11 +2205,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gcp (1), [[Vertex]] (1), ai (1), web (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Exercise Files:** template (4)
 > **Env Vars:** gcp (1), url (1)
 > **Tools:** jupyter (1), colab (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this, (1)
 > **Prerequisites:** set up (1)
 
 #### Solution: Run and evaluate a model pipeline job
@@ -2300,11 +2303,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (4), web (3), ai (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Vertex]] (2)
 > **Env Vars:** dag (3), gcp (2), uuid (1), sdk (1)
 > **Prerequisites:** setup (2), install (1), set up (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** public (1), this. (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -2312,7 +2315,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980)
@@ -2357,8 +2360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (5), [[GitHub]] (2), gcp (2), [[Gemini]] (2), [[LinkedIn]] (1)
 > **Env Vars:** gcp (2), gde (1)
-> **Code Keywords:** for. (1), public (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)

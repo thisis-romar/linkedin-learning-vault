@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/it-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Generative%20AI%20Tech%20Strategy.md)
@@ -55,29 +55,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building a generative AI tech strategy
+  - [Building a generative AI tech strategy](#building-a-generative-ai-tech-strategy)
 - [**1. Identifying Opportunities for Generative AI in Your Business**](#1-identifying-opportunities-for-generative-ai-in-your-business) (4 videos)
-  - Conducting a generative AI opportunity assessment
-  - Mapping generative AI use cases to your business goals
-  - Evaluating integration of generative AI into your tech strategy
-  - Understanding the biases and ethical implications
+  - [Conducting a generative AI opportunity assessment](#conducting-a-generative-ai-opportunity-assessment)
+  - [Mapping generative AI use cases to your business goals](#mapping-generative-ai-use-cases-to-your-business-goals)
+  - [Evaluating integration of generative AI into your tech strategy](#evaluating-integration-of-generative-ai-into-your-tech-strategy)
+  - [Understanding the biases and ethical implications](#understanding-the-biases-and-ethical-implications)
 - [**2. Building a Generative AI-Powered Tech Strategy**](#2-building-a-generative-ai-powered-tech-strategy) (3 videos)
-  - Defining your generative AI vision
-  - Identifying implementation requirements
-  - Creating a roadmap
+  - [Defining your generative AI vision](#defining-your-generative-ai-vision)
+  - [Identifying implementation requirements](#identifying-implementation-requirements)
+  - [Creating a roadmap](#creating-a-roadmap)
 - [**3. Designing and Implementing Generative AI Applications**](#3-designing-and-implementing-generative-ai-applications) (6 videos)
-  - Creating a user-centric solutions approach
-  - Addressing bias in generative AI systems
-  - Mitigating the risks of generative AI
-  - Designing effective workflows for interaction
-  - Integrating generative AI with existing solutions
-  - Continuous learning and adaptation
+  - [Creating a user-centric solutions approach](#creating-a-user-centric-solutions-approach)
+  - [Addressing bias in generative AI systems](#addressing-bias-in-generative-ai-systems)
+  - [Mitigating the risks of generative AI](#mitigating-the-risks-of-generative-ai)
+  - [Designing effective workflows for interaction](#designing-effective-workflows-for-interaction)
+  - [Integrating generative AI with existing solutions](#integrating-generative-ai-with-existing-solutions)
+  - [Continuous learning and adaptation](#continuous-learning-and-adaptation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next Steps
+  - [Next Steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a generative AI tech strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/building-a-generative-ai-tech-strategy?u=76281980)
@@ -98,8 +98,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (2), [[Generative AI]] (1), cloud (1), [[Content Creation]] (1)
 > **Analogies:** just like (1), such as (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ewow (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -108,7 +108,7 @@ created: 2026-04-29
 
 ### 1. Identifying Opportunities for Generative AI in Your Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conducting a generative AI opportunity assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/conducting-a-generative-ai-opportunity-assessment?u=76281980)
@@ -153,8 +153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), ai (6), data (2), business (2), [[Content Creation]] (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), this, (1)
 > **Env Vars:** nlp (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -195,8 +195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), business (6), ai (3), next (1), [[Customer Support]] (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
@@ -230,6 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), ai (2), teams (1), product (1), leadership (1)
 > **Env Vars:** nps (1), roi (1)
 > **Analogies:** for example (2)
 > **Speakers:** - implementing (1)
@@ -275,6 +276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (8), [[Generative AI]] (4), [[Algorithms]] (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - like (1)
@@ -282,7 +284,7 @@ created: 2026-04-29
 
 ### 2. Building a Generative AI-Powered Tech Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining your generative AI vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/defining-your-generative-ai-vision?u=76281980)
@@ -311,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), ai (2), business (2), product (1), [[Supply Chain Operations]] (1)
 > **Speakers:** - when (1)
 
 #### Identifying implementation requirements
@@ -391,7 +393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2)
+> **Frameworks & Libraries:** data (16), [[Generative AI]] (5), ai (4), power (2), [[Security]] (2)
 > **Speakers:** - you (1)
 
 #### Creating a roadmap
@@ -431,12 +433,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (3), [[Generative AI]] (1), business (1), leadership (1)
 > **Speakers:** - to (1)
 
 
 ### 3. Designing and Implementing Generative AI Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a user-centric solutions approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-user-centric-solutions-approach?u=76281980)
@@ -471,8 +474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Prototyping]] (2), data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** new, (1)
 > **Speakers:** - to (1)
 
 #### Addressing bias in generative AI systems
@@ -514,6 +517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (2), [[Generative AI]] (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - as (1)
@@ -565,6 +569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), data (7), [[Algorithms]] (3), ai (2), [[Privacy]] (2)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -616,6 +621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), prompt (3), [[Generative AI]] (1), [[Fine Tuning]] (1), application (1)
 > **Analogies:** for example (3)
 > **Speakers:** - an (1)
 
@@ -662,6 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), data (6), ai (1), [[Security]] (1), [[Troubleshooting]] (1)
 > **Speakers:** - as (1)
 
 #### Continuous learning and adaptation
@@ -703,13 +710,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (4), [[Generative AI]] (3), [[User Experience (UX)|User experience]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - generative (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/next-steps?u=76281980)
@@ -726,6 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), ai (2), [[LinkedIn]] (2), business (1), next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - generative (1)
 

@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/azure-databricks
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Azure%20Spark%20Databricks%20Essential%20Training.md)
@@ -47,54 +47,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Optimize data pipelines
-  - What you should know
-  - About using cloud services
+  - [Optimize data pipelines](#optimize-data-pipelines)
+  - [What you should know](#what-you-should-know)
+  - [About using cloud services](#about-using-cloud-services)
 - [**1. Big Data on Azure Databricks**](#1-big-data-on-azure-databricks) (7 videos)
-  - Meet Databricks Apache Spark clusters
-  - Business scenarios for Spark
-  - Understand Spark key components
-  - Azure Databricks concepts
-  - Quick start: Use a notebook
-  - Set up Databricks AI Playground
-  - Use Databricks AI Playground
+  - [Meet Databricks Apache Spark clusters](#meet-databricks-apache-spark-clusters)
+  - [Business scenarios for Spark](#business-scenarios-for-spark)
+  - [Understand Spark key components](#understand-spark-key-components)
+  - [Azure Databricks concepts](#azure-databricks-concepts)
+  - [Quick start: Use a notebook](#quick-start-use-a-notebook)
+  - [Set up Databricks AI Playground](#set-up-databricks-ai-playground)
+  - [Use Databricks AI Playground](#use-databricks-ai-playground)
 - [**2. Core Azure Databricks Workloads**](#2-core-azure-databricks-workloads) (7 videos)
-  - Review Databricks Azure cluster setup
-  - Use a Python notebook with dashboards
-  - Use an R notebook
-  - Use a Scala notebook for visualization
-  - Use a notebook with scikit-learn
-  - Use a Spark Streaming notebook
-  - Use an external Scala library: variant-spark
+  - [Review Databricks Azure cluster setup](#review-databricks-azure-cluster-setup)
+  - [Use a Python notebook with dashboards](#use-a-python-notebook-with-dashboards)
+  - [Use an R notebook](#use-an-r-notebook)
+  - [Use a Scala notebook for visualization](#use-a-scala-notebook-for-visualization)
+  - [Use a notebook with scikit-learn](#use-a-notebook-with-scikit-learn)
+  - [Use a Spark Streaming notebook](#use-a-spark-streaming-notebook)
+  - [Use an external Scala library: variant-spark](#use-an-external-scala-library-variant-spark)
 - [**3. Scaling Azure Databricks Workloads**](#3-scaling-azure-databricks-workloads) (6 videos)
-  - Understand data engineering workload steps
-  - Understand cluster configurations
-  - Understand Spark job execution overhead
-  - Explore optimization control planes
-  - Optimize a cluster and job
-  - Run a production-size job
+  - [Understand data engineering workload steps](#understand-data-engineering-workload-steps)
+  - [Understand cluster configurations](#understand-cluster-configurations)
+  - [Understand Spark job execution overhead](#understand-spark-job-execution-overhead)
+  - [Explore optimization control planes](#explore-optimization-control-planes)
+  - [Optimize a cluster and job](#optimize-a-cluster-and-job)
+  - [Run a production-size job](#run-a-production-size-job)
 - [**4. Data Pipelines with Azure Databricks**](#4-data-pipelines-with-azure-databricks) (9 videos)
-  - Use Databricks jobs and role-based control
-  - Use Databricks Runtime ML
-  - Understand ML Pipelines API
-  - Use ML Pipelines API
-  - Use distributed ML training
-  - Understand Databricks Delta
-  - Use Databricks Delta
-  - Use Azure Blob storage
-  - Understand MLflow
+  - [Use Databricks jobs and role-based control](#use-databricks-jobs-and-role-based-control)
+  - [Use Databricks Runtime ML](#use-databricks-runtime-ml)
+  - [Understand ML Pipelines API](#understand-ml-pipelines-api)
+  - [Use ML Pipelines API](#use-ml-pipelines-api)
+  - [Use distributed ML training](#use-distributed-ml-training)
+  - [Understand Databricks Delta](#understand-databricks-delta)
+  - [Use Databricks Delta](#use-databricks-delta)
+  - [Use Azure Blob storage](#use-azure-blob-storage)
+  - [Understand MLflow](#understand-mlflow)
 - [**5. Machine Learning Architectures**](#5-machine-learning-architectures) (5 videos)
-  - Azure Databricks pipeline considerations
-  - Azure Databricks for data warehousing
-  - Azure Databricks and machine learning
-  - Azure Databricks for churn analysis
-  - Azure Databricks for intrusion detection
+  - [Azure Databricks pipeline considerations](#azure-databricks-pipeline-considerations)
+  - [Azure Databricks for data warehousing](#azure-databricks-for-data-warehousing)
+  - [Azure Databricks and machine learning](#azure-databricks-and-machine-learning)
+  - [Azure Databricks for churn analysis](#azure-databricks-for-churn-analysis)
+  - [Azure Databricks for intrusion detection](#azure-databricks-for-intrusion-detection)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980)
@@ -117,9 +117,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Apache Spark]] (1), [[Microsoft Azure|Azure]] (1), [[SQL]] (1), [[TensorFlow]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [lynn] (1)
 
@@ -142,6 +142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), database (2), [[SQL]] (2), [[Virtual Machines]] (1), [[Security]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** sql (2)
 > **CLI Commands:** python (1)
@@ -162,13 +163,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), cloud (1), [[Azure Databricks]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Big Data on Azure Databricks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet Databricks Apache Spark clusters
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980)
@@ -207,8 +208,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Apache Spark]] (3), [[Azure Databricks]] (2), cloud (2), [[SQL]] (2)
 > **CLI Commands:** apache (3), python (1)
-> **Code Keywords:** let (1), public (1), private (1)
 > **Env Vars:** sql (2), api (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -236,6 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Apache Spark]] (4), data (3), [[Microsoft Azure|Azure]] (3), [[Hadoop]] (2), cloud (1)
 > **CLI Commands:** apache (4)
 > **Env Vars:** dbfs (2), hdfs (2)
 > **Analogies:** similar to (2), for example (1), such as (1)
@@ -280,10 +282,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Apache Spark]] (2), database (1), product (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** apache (2)
 > **Env Vars:** rdd (1), dag (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
@@ -381,9 +383,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Apache Spark]] (9), data (6), [[Security]] (5), cloud (4)
 > **CLI Commands:** apache (10), aws (1), docker (1)
 > **Env Vars:** cli (3), sql (2), ive (1), aws (1)
-> **Code Keywords:** interface (3), let (1), case. (1)
 > **Analogies:** such as (3), think of it as (1), kind of like (1)
 > **Tools:** jupyter (4)
 > **Definitions:** is a  (2)
@@ -489,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), data (7), [[Python (Programming Language)|Python]] (4), [[Microsoft Azure]] (1), [[Apache Spark]] (1)
 > **Env Vars:** sql (7), ide (1), csv (1), rdd (1), dag (1)
-> **Code Keywords:** this, (5), let (2), super (1), interface (1)
 > **CLI Commands:** python (4), make (2), apache (1)
 > **Versions:** 4.3 (1), 2.3.1 (1), 2.11 (1), version 2 (1), 0.3 (1)
 > **Definitions:** is a  (5)
@@ -521,9 +523,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), feature (4), aws (2), [[Microsoft Azure|Azure]] (2), cloud (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), api (1)
-> **Code Keywords:** require (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [presenter] (1)
@@ -595,9 +597,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LLaMA]] (5), ai (4), [[Tokens]] (3), [[Generative AI]] (2), prompt (2)
 > **Env Vars:** dbrx (6)
 > **UI Navigation:** select the (1), dropdown (1), open the (1), scroll up (1), scroll down (1)
-> **Code Keywords:** return. (1), super (1), interface (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** getting started (2)
 > **Versions:** 3.3 (1)
@@ -606,7 +608,7 @@ created: 2026-04-29
 
 ### 2. Core Azure Databricks Workloads
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review Databricks Azure cluster setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980)
@@ -677,8 +679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), data (3), business (1), [[Azure Databricks]] (1), [[Microsoft]] (1)
 > **Prerequisites:** set up (5), setup (4)
-> **Code Keywords:** interface (5)
 > **Tools:** azure portal (2)
 > **UI Navigation:** go to (1), select the (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -791,10 +793,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (6), [[Microsoft Azure|Azure]] (5), teams (4), [[HTML]] (4)
 > **Env Vars:** sql (3), dbc (3), html (3), gui (1), cli (1)
 > **CLI Commands:** python (6)
 > **UI Navigation:** scroll down (2), click on (2), go to (1)
-> **Code Keywords:** interface (1), let (1), delete (1)
 > **Tools:** bash (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), install (1)
@@ -889,9 +891,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Programming]] (1), teams (1), api (1), [[Azure Databricks]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (2), set up (1)
-> **Code Keywords:** import, (1), let (1)
 > **Env Vars:** cran (1), api (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** click on (1)
@@ -1026,7 +1028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), import, (1), super (1), this, (1), pass (1)
+> **Frameworks & Libraries:** data (17), [[Scala]] (4), next (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** dbc (2), loess (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1186,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), function (2), this. (1), import, (1), public (1)
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (5), product (3), node (3), parallel (3)
 > **CLI Commands:** python (5), node (3), make (2), find (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Prerequisites:** set up (3)
@@ -1346,7 +1348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), this. (2), let (2), function (2), require (1)
+> **Frameworks & Libraries:** data (19), [[SQL]] (7), [[Python (Programming Language)|Python]] (5), [[JSON]] (4), [[PySpark]] (4)
 > **Env Vars:** sql (6), json (4), api (2)
 > **CLI Commands:** python (5), find (1)
 > **Definitions:** is a  (5)
@@ -1562,8 +1564,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (6), [[Scala]] (3), feature (2), [[SQL]] (2)
 > **Env Vars:** jar (3), csiro (2), sql (2), dbfs (1), cran (1)
-> **Code Keywords:** case. (3), case, (2), continue (1), interface (1), pass (1)
 > **CLI Commands:** python (6), find (1)
 > **Definitions:** is a  (4), is an  (2), in other words (1)
 > **Versions:** 2.2 (2), 2.3 (1), 2.4 (1), 2.1 (1)
@@ -1574,7 +1576,7 @@ created: 2026-04-29
 
 ### 3. Scaling Azure Databricks Workloads
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand data engineering workload steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980)
@@ -1635,7 +1637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), case, (2), let (1), interface (1), from, (1)
+> **Frameworks & Libraries:** data (8), [[Apache Spark]] (1), [[Data Engineering]] (1), [[Engineering]] (1), cloud (1)
 > **CLI Commands:** apache (1), find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1725,7 +1727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), type, (2), this, (1), default, (1), default. (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Scala]] (3), [[Azure Databricks]] (2), [[SQL]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** sql (2), gpu (2), cpu (2), api (2)
 > **CLI Commands:** python (2), apache (1), node (1)
 > **Prerequisites:** set up (4)
@@ -1849,8 +1851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (2), node (1), api (1), [[Scripting]] (1)
 > **UI Navigation:** click on (4), go to (3), scroll down (2), scroll up (1)
-> **Code Keywords:** let (2), import. (1), this, (1), this. (1)
 > **Env Vars:** dag (2), api (1), rdd (1), vcf (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** node (1), find (1), make (1)
@@ -1943,7 +1945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), let (1), interface (1)
+> **Frameworks & Libraries:** data (8), next (2), [[TensorFlow]] (1), [[Microsoft Azure|Azure]] (1), node (1)
 > **Env Vars:** csv (1), csiro (1), cpu (1), gpu (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is an  (1), is called (1)
@@ -2014,8 +2016,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), hit (1), [[Virtual Machines]] (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (1), super (1)
 > **UI Navigation:** click on (2)
 > **Versions:** 2.74 (1)
 > **Cross-References:** in the next (1)
@@ -2183,7 +2185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), for, (1), super (1)
+> **Frameworks & Libraries:** data (3), [[SQL]] (3), next (1), traffic (1), database (1)
 > **Env Vars:** sql (3), csi (1), dag (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Analogies:** for example (3)
@@ -2195,7 +2197,7 @@ created: 2026-04-29
 
 ### 4. Data Pipelines with Azure Databricks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Databricks jobs and role-based control
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980)
@@ -2258,7 +2260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3), public (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), api (2), [[Azure Databricks]] (1), data (1), [[Analytics]] (1)
 > **Prerequisites:** set up (4), configure (1)
 > **Env Vars:** api (2), jdbc (1), odbc (1)
 > **UI Navigation:** click on (3), scroll down (1)
@@ -2320,8 +2322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Python (Programming Language)|Python]] (2), data (1), [[Microsoft Word|Word]] (1), feature (1)
 > **Versions:** 4.1 (2), version 5 (1), 2.4 (1), 2.1.1 (1), 5.0 (1)
-> **Code Keywords:** interface (1), type, (1), case, (1), let (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** gpu (3)
 > **Definitions:** is an  (2), is a  (1)
@@ -2408,8 +2410,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (8), api (3), next (3), [[Decision Trees]] (2), [[TensorFlow]] (2)
 > **Definitions:** is an  (5), is a  (5)
-> **Code Keywords:** let (2), function (1)
 > **Env Vars:** api (3)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** later in (1), coming up (1)
@@ -2621,8 +2623,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), api (4), [[Decision Trees]] (4), [[SQL]] (2), [[Algorithms]] (2)
 > **Env Vars:** api (4), roc (3), sql (2), uci (1)
-> **Code Keywords:** case, (1), public (1), default, (1), class. (1)
 > **Code Identifiers:** bestmodel (2), explainparams (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -2797,8 +2799,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (8), data (8), api (3), [[Google]] (2), [[Deep Learning]] (2)
 > **Env Vars:** mnist (5), gpu (4), api (3), sql (2), cpu (1)
-> **Code Keywords:** this, (3), fn (3), let (2), this. (1), function (1)
 > **Definitions:** is a  (3), is an  (3)
 > **Analogies:** such as (3), for example (1)
 > **Documentation:** the documentation (2), spec (1)
@@ -2885,7 +2887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), delete (1), case, (1)
+> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (5), [[Azure Databricks]] (4), next (1), [[SQL]] (1)
 > **Env Vars:** sql (1), acid (1), crud (1), etl (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (3)
@@ -2966,7 +2968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), interface (1), case, (1), switch (1)
+> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), database (1), [[JSON]] (1)
 > **Env Vars:** csv (2), dbfs (1), json (1), gui (1), acid (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (1), make (1)
@@ -3024,8 +3026,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microsoft Azure|Azure]] (8), [[SQL]] (3), [[Python (Programming Language)|Python]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** sql (3), dbfs (1), jdbc (1)
-> **Code Keywords:** type. (2), let (1), self (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** createorreplacetempview (1), saveastable (1)
@@ -3144,7 +3146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), case. (1), type, (1), self (1), let (1)
+> **Frameworks & Libraries:** data (14), [[MLflow]] (9), business (2), [[Microsoft Azure|Azure]] (2), [[SQL]] (2)
 > **Env Vars:** sql (2), gif (2)
 > **Analogies:** for example (4)
 > **Definitions:** is an  (1), is a  (1)
@@ -3156,7 +3158,7 @@ created: 2026-04-29
 
 ### 5. Machine Learning Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Databricks pipeline considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980)
@@ -3209,8 +3211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (8), power (2), next (2), [[SQL]] (2)
 > **Analogies:** such as (3)
-> **Code Keywords:** require (1), case, (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -3251,8 +3253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Microsoft Azure|Azure]] (4), [[Azure Databricks]] (3), [[SQL]] (3), etl (1)
 > **Env Vars:** sql (2), etl (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3314,7 +3316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), type, (1), let (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (9), [[Azure Databricks]] (4), business (2), next (1)
 > **Env Vars:** csv (1), sql (1), api (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
@@ -3363,7 +3365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), case, (1)
+> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (3), [[Analytics]] (3), power (2), bi (2)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3427,7 +3429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), case, (1)
+> **Frameworks & Libraries:** data (19), [[Microsoft Azure|Azure]] (8), [[Intrusion Detection]] (1), [[Algorithms]] (1), [[Metadata]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1), apache (1)
 > **Env Vars:** api (1), sql (1)
@@ -3437,7 +3439,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980)
@@ -3470,8 +3472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Azure Databricks]] (2), [[Apache Spark]] (1), [[Microsoft]] (1), [[GitHub]] (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** continue (1)
 > **Documentation:** the documentation (1)
 > **Tools:** github (1)
 > **Speakers:** - [lynn] (1)

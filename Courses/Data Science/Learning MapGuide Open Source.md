@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/mapguide
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20MapGuide%20Open%20Source.md)
@@ -47,43 +47,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Explore what MapGuide has to offer
-  - Using the exercise files
+  - [Explore what MapGuide has to offer](#explore-what-mapguide-has-to-offer)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Understanding and Installing MapGuide**](#1-understanding-and-installing-mapguide) (3 videos)
-  - Understanding the components of MapGuide
-  - Installing MapGuide Server and MapGuide Maestro
-  - Using the MapGuide web viewer
+  - [Understanding the components of MapGuide](#understanding-the-components-of-mapguide)
+  - [Installing MapGuide Server and MapGuide Maestro](#installing-mapguide-server-and-mapguide-maestro)
+  - [Using the MapGuide web viewer](#using-the-mapguide-web-viewer)
 - [**2. Connecting and Loading Data with MapGuide Maestro**](#2-connecting-and-loading-data-with-mapguide-maestro) (3 videos)
-  - Creating project folders in Maestro
-  - Loading data using Maestro
-  - Creating data connections with Maestro
+  - [Creating project folders in Maestro](#creating-project-folders-in-maestro)
+  - [Loading data using Maestro](#loading-data-using-maestro)
+  - [Creating data connections with Maestro](#creating-data-connections-with-maestro)
 - [**3. Stylizing Data**](#3-stylizing-data) (6 videos)
-  - Creating point layers
-  - Creating polyline layers
-  - Creating polygon layers
-  - Creating raster layers
-  - Creating thematic layers
-  - Labeling vector layers
+  - [Creating point layers](#creating-point-layers)
+  - [Creating polyline layers](#creating-polyline-layers)
+  - [Creating polygon layers](#creating-polygon-layers)
+  - [Creating raster layers](#creating-raster-layers)
+  - [Creating thematic layers](#creating-thematic-layers)
+  - [Labeling vector layers](#labeling-vector-layers)
 - [**4. Maps**](#4-maps) (1 videos)
-  - Creating maps in Maestro
+  - [Creating maps in Maestro](#creating-maps-in-maestro)
 - [**5. Basic Web Layouts**](#5-basic-web-layouts) (2 videos)
-  - Creating basic web layouts
-  - Creating searches in basic web layouts
+  - [Creating basic web layouts](#creating-basic-web-layouts)
+  - [Creating searches in basic web layouts](#creating-searches-in-basic-web-layouts)
 - [**6. Application Definitions**](#6-application-definitions) (4 videos)
-  - Creating application definitions
-  - Using Google and other external providers in application definitions
-  - Creating searches in application definitions
-  - Creating a QuickPlot
+  - [Creating application definitions](#creating-application-definitions)
+  - [Using Google and other external providers in application definitions](#using-google-and-other-external-providers-in-application-definitions)
+  - [Creating searches in application definitions](#creating-searches-in-application-definitions)
+  - [Creating a QuickPlot](#creating-a-quickplot)
 - [**7. Publishing to the Web**](#7-publishing-to-the-web) (3 videos)
-  - Publishing to the web
-  - Publishing basic web layouts
-  - Publishing application definitions
+  - [Publishing to the web](#publishing-to-the-web)
+  - [Publishing basic web layouts](#publishing-basic-web-layouts)
+  - [Publishing application definitions](#publishing-application-definitions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore what MapGuide has to offer
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980)
@@ -104,6 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (4), web (3), [[MapGuide]] (2), data (1), [[LinkedIn]] (1)
 > **Env Vars:** gis (4), cad (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [gordon] (1)
@@ -137,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[MapGuide]] (2), [[LinkedIn]] (1), hit (1), next (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -147,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Understanding and Installing MapGuide
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the components of MapGuide
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980)
@@ -372,11 +374,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MapGuide]] (32), [[PHP]] (17), web (14), [[Java]] (12), [[Linux]] (6)
 > **Env Vars:** php (17), iis (15), net (12), fdo (3), sdf (1)
 > **CLI Commands:** php (17), apache (15), make (1)
 > **Prerequisites:** install (15), configure (1)
 > **Definitions:** is a  (6), is an  (1), means that (1)
-> **Code Keywords:** let (1), default, (1), this. (1), this, (1)
 > **Analogies:** for example (3)
 > **Tools:** firefox (1), safari (1)
 > **URLs:** [vb.net](https://vb.net) (1)
@@ -718,8 +720,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MapGuide]] (38), next (12), web (11), [[Windows]] (7), [[PHP]] (6)
 > **Env Vars:** iis (10), howls1 (6), php (6), net (5), http (3)
-> **Code Keywords:** let (21), case. (2), default, (2), default. (2), this, (1)
 > **Prerequisites:** install (20), setup (1), set up (1)
 > **CLI Commands:** apache (7), php (6), make (3), mysql (2), find (1)
 > **UI Navigation:** go to (6), click on (5), right-click (3), scroll up (1), switch to (1)
@@ -1042,7 +1044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (4), type. (1), switch (1), pass (1)
+> **Frameworks & Libraries:** [[Zoom]] (15), hit (7), web (6), [[MapGuide]] (5), data (5)
 > **Env Vars:** xyz (5), esri (3), url (2), css (1)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** make (3)
@@ -1054,7 +1056,7 @@ created: 2026-04-29
 
 ### 2. Connecting and Loading Data with MapGuide Maestro
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating project folders in Maestro
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980)
@@ -1217,9 +1219,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MapGuide]] (12), data (11), database (3), web (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** nanaimo (4), symbols (3), howls1 (2), howls (2), url (1)
 > **CLI Commands:** make (11), python (2)
-> **Code Keywords:** let (5), case, (2), default, (1), from. (1), finally, (1)
 > **Definitions:** is called (4), is a  (1), is an  (1)
 > **Exercise Files:** template (4)
 > **Cross-References:** go back to (2)
@@ -1521,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (2), override (2), interface (1), from, (1)
+> **Frameworks & Libraries:** data (15), [[MapGuide]] (8), hit (6), feature (3), [[Metadata]] (2)
 > **Env Vars:** iis (5), utm (5), prj (3), ftp (2), dbf (2)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** click on (3), go to (1), scroll down (1), right-click (1)
@@ -1713,8 +1715,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MapGuide]] (17), data (15), hit (6), feature (3), [[Databases]] (2)
 > **Env Vars:** raster (7), airphotos (7), sql (2), wfs (2), wms (2)
-> **Code Keywords:** let (10), this, (2), case, (1), case. (1), this. (1)
 > **Prerequisites:** set up (4), install (2), configure (1)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** make (3), mysql (1)
@@ -1725,7 +1727,7 @@ created: 2026-04-29
 
 ### 3. Stylizing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating point layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-point-layers?u=76281980)
@@ -1977,7 +1979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), default, (1), else. (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), hit (6), data (3), next (2)
 > **CLI Commands:** make (13), find (1)
 > **Versions:** 0.25 (3), 5000.0001 (1)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
@@ -2176,7 +2178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), case, (3), default, (2), type. (1)
+> **Frameworks & Libraries:** hit (15), data (8), [[Zoom]] (4), database (3), next (1)
 > **UI Navigation:** go to (2), dropdown (2), scroll down (2), click on (1), double-click (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** abc123 (1), mobile_home (1), fff (1)
@@ -2323,7 +2325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** data (11), [[Zoom]] (9), hit (4), feature (1), [[Google]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gdal (3), rgb (1)
 > **Analogies:** for example (2), such as (1)
@@ -2627,8 +2629,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), data (5), next (1), [[MapGuide]] (1)
 > **Env Vars:** class (10), arterial (6), lanes (6), roads (6), highway (5)
-> **Code Keywords:** let (13), class. (3), case, (2), type. (1), this. (1)
 > **CLI Commands:** make (10)
 > **Definitions:** is a  (5)
 > **UI Navigation:** click on (1), checkbox (1)
@@ -2832,7 +2834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), function (2), type. (1), else. (1)
+> **Frameworks & Libraries:** data (6), hit (5), next (2), [[Microsoft SQL Server|Sql server]] (1), database (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** double-click (1), scroll down (1), click on (1), go to (1)
 > **Analogies:** just like (2), for example (1)
@@ -2843,7 +2845,7 @@ created: 2026-04-29
 
 ### 4. Maps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating maps in Maestro
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980)
@@ -3188,7 +3190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (2), extends (2), case, (1), default. (1)
+> **Frameworks & Libraries:** [[Zoom]] (9), hit (4), web (4), [[Google]] (2), business (2)
 > **CLI Commands:** make (7)
 > **UI Navigation:** click on (2), select the (2), drag and drop (1), checkbox (1)
 > **Prerequisites:** set up (4)
@@ -3200,7 +3202,7 @@ created: 2026-04-29
 
 ### 5. Basic Web Layouts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating basic web layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980)
@@ -3511,7 +3513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), override (3), pass (2), case. (1), delete (1)
+> **Frameworks & Libraries:** web (14), hit (8), [[Zoom]] (8), [[Search]] (5), prompt (3)
 > **Env Vars:** url (12), gis (3), api (2), iis (1), apn (1)
 > **UI Navigation:** go to (2), scroll down (2), click on (1), in the toolbar (1), select the (1)
 > **Cross-References:** go back to (5)
@@ -3739,7 +3741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (3), for, (2), this, (1), this . (1)
+> **Frameworks & Libraries:** [[Search]] (23), hit (6), web (5), [[Zoom]] (2), prompt (2)
 > **CLI Commands:** find (6), make (3), cat (1)
 > **Env Vars:** pid (5), housenumber (2), streetname (2)
 > **UI Navigation:** in the toolbar (1), scroll down (1), click on (1), select the (1), go to (1)
@@ -3751,7 +3753,7 @@ created: 2026-04-29
 
 ### 6. Application Definitions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating application definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980)
@@ -3940,7 +3942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), from. (1), public (1), override (1)
+> **Frameworks & Libraries:** web (12), application (10), hit (7), [[Zoom]] (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** url (6), pdf (2), imo (1)
 > **UI Navigation:** go to (3), select the (1), dropdown (1)
 > **Definitions:** is a  (2), is called (2), refers to (1)
@@ -4222,7 +4224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (5), require (3), this, (1), default. (1)
+> **Frameworks & Libraries:** [[Google]] (24), api (14), hit (10), application (4), generic (3)
 > **Env Vars:** api (14), url (4), xyz (3), topo (1)
 > **UI Navigation:** dropdown (2), scroll down (1), go to (1)
 > **Analogies:** for example (3), such as (1)
@@ -4428,7 +4430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case. (1), function (1), match. (1), for, (1)
+> **Frameworks & Libraries:** [[Search]] (23), [[Google]] (12), application (7), hit (5), api (5)
 > **Env Vars:** api (5), xml (1), xyz (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** scroll down (3), go to (1)
@@ -4576,7 +4578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), switch (1), interface (1), default, (1)
+> **Frameworks & Libraries:** hit (9), [[PHP]] (3), web (3), [[MapGuide]] (2), application (2)
 > **Env Vars:** pdf (4), iusr (2), dpi (1), php (1), iis (1)
 > **CLI Commands:** make (4), php (3)
 > **UI Navigation:** scroll down (2), go to (2), toggle (1)
@@ -4588,7 +4590,7 @@ created: 2026-04-29
 
 ### 7. Publishing to the Web
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Publishing to the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980)
@@ -4635,10 +4637,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MapGuide]] (13), data (2), web (1), application (1), cloud (1)
 > **CLI Commands:** find (1), aws (1), make (1)
 > **Env Vars:** dmz (1), vps (1), aws (1)
 > **Tools:** firefox (1), safari (1)
-> **Code Keywords:** else. (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -4800,8 +4802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (12), [[HTML]] (7), hit (4), [[Microsoft]] (1), [[Windows]] (1)
 > **Env Vars:** url (17), html (7), http (2), htm (1), css (1)
-> **Code Keywords:** let (4), this, (1), new, (1), delete (1), this. (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (5), click on (1)
 > **Definitions:** is called (3)
@@ -4922,8 +4924,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), web (5), application (4), [[Microsoft Word|Word]] (1), [[MapGuide]] (1)
 > **Env Vars:** url (14), html (5), css (1)
-> **Code Keywords:** let (7), case. (1), case, (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [http://howls1](http://howls1) (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -4934,7 +4936,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980)
@@ -4965,10 +4967,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MapGuide]] (7), [[JavaScript]] (2), [[LinkedIn]] (1), [[PHP]] (1), [[ASP.NET]] (1)
 > **URLs:** [osgeo.org](https://osgeo.org) (1), [asp.net](https://asp.net) (1)
 > **Exercise Files:** download the (1), sample code (1)
 > **CLI Commands:** php (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** php (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)

@@ -30,7 +30,7 @@ tags:
   - skill/interactive-voice-response-ivr
   - skill/twilio
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Twilio%20Essentials%20Unit%202-%20Programmable%20Voice.md)
@@ -49,15 +49,15 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Programmable Voice**](#1-programmable-voice) (5 videos)
-  - Appreciating the phone
-  - Receive a call
-  - Gather input
-  - Create an outbound call
-  - Review and practice
+  - [Appreciating the phone](#appreciating-the-phone)
+  - [Receive a call](#receive-a-call)
+  - [Gather input](#gather-input)
+  - [Create an outbound call](#create-an-outbound-call)
+  - [Review and practice](#review-and-practice)
 
 ### 1. Programmable Voice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Appreciating the phone
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/appreciating-the-phone?u=76281980)
@@ -146,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Twilio]] (5), prompt (1), api (1), application (1)
 > **CLI Commands:** snap (1), make (1)
-> **Code Keywords:** public (1), let (1)
 > **Env Vars:** api (1), pstn (1)
 > **Analogies:** for instance (1), similar to (1)
 > **Definitions:** is a  (1)
@@ -380,7 +380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (3), super (2), default. (1), break. (1)
+> **Frameworks & Libraries:** application (2), [[Google]] (1), api (1), [[Microsoft Products|Products]] (1), [[Twilio]] (1)
 > **Speakers:** - [machine (7), - [craig] (3), - text (1), - hi (1)
 > **CLI Commands:** make (5), find (3)
 > **UI Navigation:** scroll down (3), go to (2), navigate to (1), click on (1)
@@ -688,7 +688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (2), this. (2), case. (1), case, (1)
+> **Frameworks & Libraries:** web (5), [[Twilio]] (5), application (2), web application (2), api (2)
 > **Env Vars:** url (10), dtmf (2), api (2), html (1), http (1)
 > **Speakers:** - [automated (2), - [instructor] (2), - so (1), - [female (1)
 > **CLI Commands:** make (4)
@@ -1058,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (3), this. (3), from. (2), function (2)
+> **Frameworks & Libraries:** api (9), [[Twilio]] (7), web (4), application (3), [[CLI]] (2)
 > **Env Vars:** url (13), api (9), cli (2), cps (2), ivr (1)
 > **Speakers:** - [phone] (4), - [instructor] (4), - we (1)
 > **CLI Commands:** make (6), python (1), find (1)
@@ -1166,9 +1166,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Twilio]] (2), [[Real-Time]] (1), api (1), oop (1)
 > **Env Vars:** sip (4), sdk (4), url (3), pstn (2), api (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** pass (1), public (1)
 > **Speakers:** - awesome (1), - we (1)
 > **Code Identifiers:** ios (1)
 > **Cross-References:** we talked about (1)

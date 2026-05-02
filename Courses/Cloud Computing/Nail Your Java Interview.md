@@ -31,7 +31,7 @@ tags:
   - skill/interview-preparation
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Nail%20Your%20Java%20Interview.md)
@@ -50,56 +50,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - The secret to nailing your Java interview
-  - Understand types of interview questions
-  - Get ready for your technical interview
-  - How to use CoderPad
+  - [The secret to nailing your Java interview](#the-secret-to-nailing-your-java-interview)
+  - [Understand types of interview questions](#understand-types-of-interview-questions)
+  - [Get ready for your technical interview](#get-ready-for-your-technical-interview)
+  - [How to use CoderPad](#how-to-use-coderpad)
 - [**1. Answering Java-Specific Questions**](#1-answering-java-specific-questions) (6 videos)
-  - What's the Java Virtual Machine?
-  - What's the JDK and JRE?
-  - What are classes, instances, and constructors?
-  - What's the difference between static and non-static methods?
-  - How is scope used in Java?
-  - How do you access modifiers restrict scope?
+  - [What's the Java Virtual Machine?](#whats-the-java-virtual-machine)
+  - [What's the JDK and JRE?](#whats-the-jdk-and-jre)
+  - [What are classes, instances, and constructors?](#what-are-classes-instances-and-constructors)
+  - [What's the difference between static and non-static methods?](#whats-the-difference-between-static-and-non-static-methods)
+  - [How is scope used in Java?](#how-is-scope-used-in-java)
+  - [How do you access modifiers restrict scope?](#how-do-you-access-modifiers-restrict-scope)
 - [**2. Leveraging New Java Features**](#2-leveraging-new-java-features) (6 videos)
-  - Understand the impact of Jigsaw
-  - Use optionals to avoid NullPointerExceptions
-  - Create Lambdas to pass functionality as data
-  - Use the Streams API to process collections
-  - Discuss the pros and cons of local variable type inference
-  - Leverage new switch expressions
+  - [Understand the impact of Jigsaw](#understand-the-impact-of-jigsaw)
+  - [Use optionals to avoid NullPointerExceptions](#use-optionals-to-avoid-nullpointerexceptions)
+  - [Create Lambdas to pass functionality as data](#create-lambdas-to-pass-functionality-as-data)
+  - [Use the Streams API to process collections](#use-the-streams-api-to-process-collections)
+  - [Discuss the pros and cons of local variable type inference](#discuss-the-pros-and-cons-of-local-variable-type-inference)
+  - [Leverage new switch expressions](#leverage-new-switch-expressions)
 - [**3. Solving Technical Interview Questions: String Manipulation**](#3-solving-technical-interview-questions-string-manipulation) (7 videos)
-  - Concatenate strings with different methods
-  - Normalize string input
-  - Access data from strings
-  - Apply string functions in technical interviews
-  - Understand string equality
-  - Solution: Developing a Palindrome Checker
-  - Solution: Counting with String Manipulation
+  - [Concatenate strings with different methods](#concatenate-strings-with-different-methods)
+  - [Normalize string input](#normalize-string-input)
+  - [Access data from strings](#access-data-from-strings)
+  - [Apply string functions in technical interviews](#apply-string-functions-in-technical-interviews)
+  - [Understand string equality](#understand-string-equality)
+  - [Solution: Developing a Palindrome Checker](#solution-developing-a-palindrome-checker)
+  - [Solution: Counting with String Manipulation](#solution-counting-with-string-manipulation)
 - [**4. Solving Technical Interview Questions: Arrays and Linked Lists**](#4-solving-technical-interview-questions-arrays-and-linked-lists) (4 videos)
-  - Review arrays for technical interviews
-  - Solution: Maximum Product of Two Numbers
-  - Mastering linked lists for whiteboard coding interviews
-  - Solution: Delete the Middle of a Linked List
+  - [Review arrays for technical interviews](#review-arrays-for-technical-interviews)
+  - [Solution: Maximum Product of Two Numbers](#solution-maximum-product-of-two-numbers)
+  - [Mastering linked lists for whiteboard coding interviews](#mastering-linked-lists-for-whiteboard-coding-interviews)
+  - [Solution: Delete the Middle of a Linked List](#solution-delete-the-middle-of-a-linked-list)
 - [**5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures**](#5-solving-technical-interview-questions-stacks-queues-and-hash-based-structures) (6 videos)
-  - Leveraging stacks as a data structure
-  - Using queues in technical interviews
-  - Mastering hash-based structures
-  - Solution: Generate Binary Numbers
-  - Solution: Matching Parentheses
-  - Solution: Find Most Repeated Word
+  - [Leveraging stacks as a data structure](#leveraging-stacks-as-a-data-structure)
+  - [Using queues in technical interviews](#using-queues-in-technical-interviews)
+  - [Mastering hash-based structures](#mastering-hash-based-structures)
+  - [Solution: Generate Binary Numbers](#solution-generate-binary-numbers)
+  - [Solution: Matching Parentheses](#solution-matching-parentheses)
+  - [Solution: Find Most Repeated Word](#solution-find-most-repeated-word)
 - [**6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism**](#6-solving-technical-interview-questions-abstraction-encapsulation-inheritance-and-polymorphism) (5 videos)
-  - Mastering abstraction for technical interviews
-  - Add encapsulation to your programs to impress interviewers
-  - Leveraging inheritance in your technical interview solutions
-  - Use polymorphism to reduce complexity in coding interviews
-  - Mastering polymorphism with a deeper look at Java
+  - [Mastering abstraction for technical interviews](#mastering-abstraction-for-technical-interviews)
+  - [Add encapsulation to your programs to impress interviewers](#add-encapsulation-to-your-programs-to-impress-interviewers)
+  - [Leveraging inheritance in your technical interview solutions](#leveraging-inheritance-in-your-technical-interview-solutions)
+  - [Use polymorphism to reduce complexity in coding interviews](#use-polymorphism-to-reduce-complexity-in-coding-interviews)
+  - [Mastering polymorphism with a deeper look at Java](#mastering-polymorphism-with-a-deeper-look-at-java)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Good luck in your interview
+  - [Good luck in your interview](#good-luck-in-your-interview)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The secret to nailing your Java interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980)
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), [[Software Development]] (4), [[Programming]] (2), hr (1), [[Algorithms]] (1)
 > **Speakers:** - [kathryn] (1)
 
 #### Understand types of interview questions
@@ -179,6 +180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), product (3), [[Programming]] (2), [[Software Development]] (2), [[Algorithms]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -271,7 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** starter code (1)
@@ -280,7 +282,7 @@ created: 2026-04-29
 
 ### 1. Answering Java-Specific Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's the Java Virtual Machine?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980)
@@ -319,9 +321,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (17), [[Windows]] (1), power (1)
 > **Env Vars:** jvm (5), cpu (1)
 > **Documentation:** specification (4)
-> **Code Keywords:** abstract (2), type. (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -367,11 +369,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (20), java software (2), [[Software Development]] (1)
 > **Env Vars:** jdk (10), jre (7), ide (4)
 > **Definitions:** is a  (3), short for (2), in other words (1)
 > **Prerequisites:** install (1), required to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -434,7 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class. (2), class, (2), enum (1)
+> **Frameworks & Libraries:** [[Java]] (3), data (2), [[Programming]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -569,7 +571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (36), class. (4), let (4), case, (1), class, (1)
+> **Frameworks & Libraries:** next (2), [[Java]] (1)
 > **Definitions:** is an  (4), is a  (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (2)
@@ -627,7 +629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), class, (2), pass (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Programming]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lecturer] (1)
@@ -691,7 +693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (5), protected (4), class. (3), let (2)
+> **Frameworks & Libraries:** [[Java]] (3), application (3)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** getbalance (1), setbalance (1)
 > **Definitions:** in other words (1)
@@ -700,7 +702,7 @@ created: 2026-04-29
 
 ### 2. Leveraging New Java Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the impact of Jigsaw
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980)
@@ -753,8 +755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (11), [[Jigsaw]] (5), application (5), cloud (1), [[LinkedIn]] (1)
 > **Env Vars:** jdk (5), jar (2)
-> **Code Keywords:** module (3), interface (1), this, (1), public (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -841,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), this, (1), else, (1)
+> **Frameworks & Libraries:** data (13), [[Java]] (4), generic (2)
 > **Code Identifiers:** ispresent (2), nameopt (2), orelse (2), printlnhinameopt (1), printlnhi (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -964,7 +966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), lambda (13), let (4), class. (2), pass (1)
+> **Frameworks & Libraries:** data (2), [[Functional Programming]] (1), [[Java]] (1), [[Debugging]] (1)
 > **Definitions:** is a  (5), is called (1), is an  (1)
 > **Code Identifiers:** printitem (2), foreach (1)
 > **CLI Commands:** make (2)
@@ -1052,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), lambda (5), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Java]] (4), api (4), parallel (1)
 > **Env Vars:** api (4)
 > **Code Identifiers:** foreach (2)
 > **Versions:** java 8 (1)
@@ -1114,7 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (6), type. (1), let (1), type, (1), this, (1)
+> **Frameworks & Libraries:** [[Java]] (6), feature (4), data (2), [[Programming]] (1)
 > **Env Vars:** var (6)
 > **Versions:** java 10 (1), 38.23 (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1199,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (13), case, (3), yield (2), let (2), enum (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Versions:** java 12 (1), java 14 (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1207,7 +1209,7 @@ created: 2026-04-29
 
 ### 3. Solving Technical Interview Questions: String Manipulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Concatenate strings with different methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/concatenate-strings-with-different-methods?u=76281980)
@@ -1272,7 +1274,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), this, (1), throw (1), delete (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** firstname (1)
 > **Definitions:** is a  (1)
@@ -1360,8 +1361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), data (2), [[Java]] (2)
 > **Code Identifiers:** realanimals (3), tolist (2), foureach (1), tolowercase (1), twolist (1)
-> **Code Keywords:** let (2), throw (1), this. (1), function (1)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1465,7 +1466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), this, (1), require (1)
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** charat (3), indexof (2), applesarray (2), tochararray (1), chararray (1)
 > **Definitions:** is a  (4)
 > **Warnings:** be careful (1)
@@ -1568,7 +1569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), function (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1655,7 +1656,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), function (1)
 > **Code Identifiers:** equalsobjecta (1), literala (1), literalc (1), objectc (1)
 > **Env Vars:** abc (2)
 > **Cross-References:** in the last (1)
@@ -1734,7 +1734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), pass (2), match. (1), match, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Java]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
@@ -1805,7 +1805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), pass (1)
+> **Frameworks & Libraries:** [[Java]] (2), functional (1), [[Programming]] (1)
 > **Code Identifiers:** chararray (1), indexof (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1814,7 +1814,7 @@ created: 2026-04-29
 
 ### 4. Solving Technical Interview Questions: Arrays and Linked Lists
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review arrays for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980)
@@ -1915,7 +1915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), case, (2), case. (2), type. (1)
+> **Frameworks & Libraries:** data (11), next (2), [[Programming]] (1), [[Java]] (1)
 > **Code Identifiers:** unavailablepet (5), availablepets (3), availablepet (2), unavailablepets (2), indexofavailablepet (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** cat (1), make (1)
@@ -2051,7 +2051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), this, (1), case, (1), throw (1)
+> **Frameworks & Libraries:** product (13), [[Representational State Transfer (REST)|Rest]] (2), [[Algorithms]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** min_value (1)
 > **Cross-References:** later in (1)
@@ -2201,8 +2201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), node (13), next (11), [[Java]] (4), [[Search]] (2)
 > **CLI Commands:** node (13)
-> **Code Keywords:** let (4), class. (2)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** we mentioned (1)
@@ -2239,7 +2239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** data (2), next (2), node (1)
 > **CLI Commands:** node (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -2249,7 +2249,7 @@ created: 2026-04-29
 
 ### 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging stacks as a data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-stacks-as-a-data-structure?u=76281980)
@@ -2344,7 +2344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), type. (1), this. (1), function (1)
+> **Frameworks & Libraries:** data (5), [[Java]] (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** lifo (1)
@@ -2431,7 +2431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (4), case, (1)
+> **Frameworks & Libraries:** next (7), [[Java]] (4), data (2)
 > **Analogies:** just like (1), similar to (1)
 > **Code Identifiers:** isempty (1)
 > **Cross-References:** in the next (1)
@@ -2551,8 +2551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (3), [[Java]] (2)
 > **Env Vars:** four (6), three (3), five (2), two (1)
-> **Code Keywords:** function (5), let (4)
 > **Code Identifiers:** wordtonum (1), keyset (1)
 > **Exercise Files:** sample code (1)
 > **Definitions:** is a  (1)
@@ -2666,7 +2666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), case, (1), case. (1)
+> **Frameworks & Libraries:** [[Java]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Code Identifiers:** tobinarystring (4), generatebinarynumbers (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2753,7 +2753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), match. (2), continue (1)
+> **Frameworks & Libraries:** next (2), data (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** earlier in (1)
@@ -2838,7 +2838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), data (1), next (1), api (1)
 > **Non-Speech:** (typing) (5), (upbeat music) (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** api (1)
@@ -2848,7 +2848,7 @@ created: 2026-04-29
 
 ### 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering abstraction for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980)
@@ -2961,7 +2961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (14), class, (6), let (4), class. (4), this, (1)
+> **Frameworks & Libraries:** data (10), cloud (7), [[Java]] (4), [[Algorithms]] (3), generic (2)
 > **Code Identifiers:** gettablename (4), putitem (3), getdbclient (1), usertablemanager (1)
 > **Env Vars:** api (1), usertable (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -3058,7 +3058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (7), public (7), private (4), let (3), this, (1)
+> **Frameworks & Libraries:** data (23), [[Java]] (2), [[Unit Testing]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** getname (1), gethouse (1)
 > **Definitions:** known as (1)
@@ -3287,7 +3287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (9), let (9), class, (5), override (4), abstract (3)
+> **Frameworks & Libraries:** [[Algorithms]] (2), data (2), [[Java]] (1), api (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
@@ -3408,7 +3408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), continue (3), class. (1), override (1)
+> **Frameworks & Libraries:** [[Forms]] (2), data (2), [[Java]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1)
 > **Analogies:** similar to (1)
@@ -3566,7 +3566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (15), abstract (8), class. (7), let (5), extends (3)
+> **Frameworks & Libraries:** data (4), [[Forms]] (2), [[Java]] (1)
 > **Definitions:** is an  (3), is a  (1), we call this (1)
 > **Documentation:** specification (3)
 > **CLI Commands:** make (2)
@@ -3577,7 +3577,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Good luck in your interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980)
@@ -3600,6 +3600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), [[Interviewing]] (1), [[Software Development]] (1), data (1)
 > **Speakers:** - [kathryn] (1)
 
 

@@ -30,7 +30,7 @@ tags:
   - skill/software-development-security
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Foundational%20JavaScript%20Security.md)
@@ -49,49 +49,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Foundational JavaScript security
-  - What you should know
+  - [Foundational JavaScript security](#foundational-javascript-security)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction and Setup**](#1-introduction-and-setup) (6 videos)
-  - What is ethical hacking?
-  - Overview of cyber kill chain
-  - Plan an attack strategy
-  - Base project setup
-  - Challenge: What is ethical hacking?
-  - Solution: What is ethical hacking?
+  - [What is ethical hacking?](#what-is-ethical-hacking)
+  - [Overview of cyber kill chain](#overview-of-cyber-kill-chain)
+  - [Plan an attack strategy](#plan-an-attack-strategy)
+  - [Base project setup](#base-project-setup)
+  - [Challenge: What is ethical hacking?](#challenge-what-is-ethical-hacking)
+  - [Solution: What is ethical hacking?](#solution-what-is-ethical-hacking)
 - [**2. Reconnaissance**](#2-reconnaissance) (7 videos)
-  - Reconnaissance introduction
-  - Introduction and setup for Snyk
-  - Introduction to GitHub Dependabot
-  - Introduction to AppSensor
-  - Reconnaissance applied to project
-  - Challenge: What is the purpose of reconnaissance?
-  - Solution: What is the purpose of reconnaissance?
+  - [Reconnaissance introduction](#reconnaissance-introduction)
+  - [Introduction and setup for Snyk](#introduction-and-setup-for-snyk)
+  - [Introduction to GitHub Dependabot](#introduction-to-github-dependabot)
+  - [Introduction to AppSensor](#introduction-to-appsensor)
+  - [Reconnaissance applied to project](#reconnaissance-applied-to-project)
+  - [Challenge: What is the purpose of reconnaissance?](#challenge-what-is-the-purpose-of-reconnaissance)
+  - [Solution: What is the purpose of reconnaissance?](#solution-what-is-the-purpose-of-reconnaissance)
 - [**3. Top Security Threats**](#3-top-security-threats) (10 videos)
-  - Injection threat
-  - Broken authentication
-  - Sensitive data
-  - XML external entities
-  - Security misconfiguration
-  - Insecure deserialization
-  - Components with known vulnerabilities
-  - Insufficient logging and monitoring
-  - Challenge: What is the best resource for top threats?
-  - Solution: What is the best resource for top threats?
+  - [Injection threat](#injection-threat)
+  - [Broken authentication](#broken-authentication)
+  - [Sensitive data](#sensitive-data)
+  - [XML external entities](#xml-external-entities)
+  - [Security misconfiguration](#security-misconfiguration)
+  - [Insecure deserialization](#insecure-deserialization)
+  - [Components with known vulnerabilities](#components-with-known-vulnerabilities)
+  - [Insufficient logging and monitoring](#insufficient-logging-and-monitoring)
+  - [Challenge: What is the best resource for top threats?](#challenge-what-is-the-best-resource-for-top-threats)
+  - [Solution: What is the best resource for top threats?](#solution-what-is-the-best-resource-for-top-threats)
 - [**4. Security Threats Applied**](#4-security-threats-applied) (8 videos)
-  - Injection threat resources
-  - Broken authentication resources
-  - Sensitive data exposure resources
-  - XML external entities resources
-  - Security misconfiguration resources
-  - Secure deserialization resources
-  - Challenge: What is secured deserialization?
-  - Solution: What is secured deserialization?
+  - [Injection threat resources](#injection-threat-resources)
+  - [Broken authentication resources](#broken-authentication-resources)
+  - [Sensitive data exposure resources](#sensitive-data-exposure-resources)
+  - [XML external entities resources](#xml-external-entities-resources)
+  - [Security misconfiguration resources](#security-misconfiguration-resources)
+  - [Secure deserialization resources](#secure-deserialization-resources)
+  - [Challenge: What is secured deserialization?](#challenge-what-is-secured-deserialization)
+  - [Solution: What is secured deserialization?](#solution-what-is-secured-deserialization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundational JavaScript security
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[JavaScript]] (3), application (1)
 > **Speakers:** - [manny] (1)
 
 #### What you should know
@@ -134,13 +134,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[JavaScript]] (3), [[Programming]] (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction and Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ethical hacking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/what-is-ethical-hacking?u=76281980)
@@ -171,7 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (4), data (3)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -214,8 +215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), next (2), [[Hardware]] (1), data (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
@@ -252,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** application (7), database (2), next (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -294,8 +295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[npm]] (2)
 > **Tools:** terminal (3), visual studio (2)
-> **Code Keywords:** let (3), case, (1)
 > **Prerequisites:** install (4)
 > **CLI Commands:** npm (2), find (1)
 > **Exercise Files:** template (2), exercise files (1)
@@ -322,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -341,15 +342,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2)
 > **Non-Speech:** (lively music) (1), (lively music ends) (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Reconnaissance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reconnaissance introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980)
@@ -450,8 +451,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (5), application (5), [[Security]] (2), [[JSON]] (1), [[GitHub]] (1)
 > **CLI Commands:** npm (5), make (3)
-> **Code Keywords:** let (3), while, (1), for. (1), break. (1), case, (1)
 > **Env Vars:** npm (5), ajv (1)
 > **UI Navigation:** scroll up (2), click on (1)
 > **Prerequisites:** install (3)
@@ -542,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), from. (2), include. (1), continue (1)
+> **Frameworks & Libraries:** application (4), [[GitHub]] (3), [[React.js|React]] (3), [[npm]] (2), [[CLI]] (1)
 > **UI Navigation:** go to (5), click on (4), select the (1)
 > **CLI Commands:** make (2), npm (2)
 > **Env Vars:** npm (2), cli (1), agv (1)
@@ -606,7 +607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), this, (1), from, (1)
+> **Frameworks & Libraries:** application (5), [[React.js|React]] (5), [[Security]] (5), [[GitHub]] (1)
 > **UI Navigation:** click on (3), go to (3)
 > **Analogies:** for example (3)
 > **Cross-References:** go back to (1)
@@ -634,6 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -657,6 +659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -673,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Non-Speech:** (upbeat music) (1), (upbeat music ends) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -692,14 +695,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **Non-Speech:** (lively music) (1), (lively music ends) (1)
-> **Code Keywords:** for: (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Top Security Threats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Injection threat
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980)
@@ -758,7 +761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), public (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Search]] (3), [[OWASP]] (2), [[SQL]] (1), [[JavaScript]] (1)
 > **Env Vars:** owasp (1), sql (1), xss (1)
 > **Definitions:** is an  (2), in other words (1)
 > **Analogies:** such as (2), for example (1)
@@ -802,9 +805,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), data (1)
 > **Env Vars:** http (1), https (1)
 > **Analogies:** such as (1), imagine (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 #### Sensitive data
@@ -832,7 +835,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (1), function (1)
+> **Frameworks & Libraries:** data (6), application (2)
 > **Env Vars:** jss (2), https (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
@@ -860,9 +863,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[OWASP]] (1)
 > **Env Vars:** xml (7), owasp (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -905,7 +908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** application (4), data (3), [[Security]] (1), [[Debugging]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Insecure deserialization
@@ -937,8 +940,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[JSON]] (2), application (2), [[Search]] (1), [[npm]] (1)
 > **Env Vars:** json (2), xml (1)
-> **Code Keywords:** let (1), this, (1)
 > **CLI Commands:** npm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -957,6 +960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Routing]] (2), [[React.js|React]] (1)
 > **File Paths:** retire.js (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -986,6 +990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), data (1), [[Google]] (1), [[Analytics]] (1), [[Search]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dos (1)
 > **Analogies:** such as (1)
@@ -1004,8 +1009,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Non-Speech:** (upbeat music begins) (1), (upbeat music ends) (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1026,8 +1031,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[OWASP]] (1)
 > **URLs:** [owasp.org](https://owasp.org) (1), [o-w-a-s-p.org](https://o-w-a-s-p.org) (1)
-> **Code Keywords:** for. (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -1035,7 +1040,7 @@ created: 2026-04-29
 
 ### 4. Security Threats Applied
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Injection threat resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980)
@@ -1080,7 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), this, (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), data (3), [[Security]] (2), application (2)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** cat (1)
@@ -1110,8 +1115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[OWASP]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** owasp (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
@@ -1138,8 +1143,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), application (3), [[Security]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), private (1)
 > **Env Vars:** hsts (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1167,6 +1172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), data (1), web (1)
 > **Env Vars:** xml (4), sast (2), xxe (1), asap (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1204,7 +1210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), public (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (2), application (2), api (2), data (2)
 > **Env Vars:** api (2)
 > **UI Navigation:** open the (1), go to (1)
 > **Tools:** visual studio (1)
@@ -1234,9 +1240,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), application (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Challenge: What is secured deserialization?
@@ -1256,7 +1262,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1278,15 +1283,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), application (2), [[JSON]] (1)
 > **Env Vars:** json (1), xml (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/next-steps?u=76281980)
@@ -1321,8 +1326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Search]] (1), [[JavaScript]] (1), teams (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [emmanuel] (1)

@@ -30,7 +30,7 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Audio%20and%20Effects.md)
@@ -49,38 +49,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Creating audio and effects for your games
-  - Excercise files
+  - [Creating audio and effects for your games](#creating-audio-and-effects-for-your-games)
+  - [Excercise files](#excercise-files)
 - [**1. Audio Assets and Basics**](#1-audio-assets-and-basics) (5 videos)
-  - Audio files: Music and SFX
-  - Configuring audio files
-  - Audio listeners and sources
-  - Creating mixers and groups
-  - 2D vs. 3D sound
+  - [Audio files: Music and SFX](#audio-files-music-and-sfx)
+  - [Configuring audio files](#configuring-audio-files)
+  - [Audio listeners and sources](#audio-listeners-and-sources)
+  - [Creating mixers and groups](#creating-mixers-and-groups)
+  - [2D vs. 3D sound](#2d-vs-3d-sound)
 - [**2. Coding with Audio**](#2-coding-with-audio) (5 videos)
-  - Coding with audiomixers
-  - Create a volume fade-in
-  - Characters and footsteps
-  - Detecting audio completion
-  - Audio events
+  - [Coding with audiomixers](#coding-with-audiomixers)
+  - [Create a volume fade-in](#create-a-volume-fade-in)
+  - [Characters and footsteps](#characters-and-footsteps)
+  - [Detecting audio completion](#detecting-audio-completion)
+  - [Audio events](#audio-events)
 - [**3. VFX Graph**](#3-vfx-graph) (4 videos)
-  - Create a VFX graph asset
-  - Creating a VFX renderer
-  - Working with sprites
-  - Controls size, color, and motion
+  - [Create a VFX graph asset](#create-a-vfx-graph-asset)
+  - [Creating a VFX renderer](#creating-a-vfx-renderer)
+  - [Working with sprites](#working-with-sprites)
+  - [Controls size, color, and motion](#controls-size-color-and-motion)
 - [**4. Particle Systems and Effects**](#4-particle-systems-and-effects) (6 videos)
-  - Understanding particle systems
-  - Exploring the particles package
-  - Building a particle system
-  - Controlling particle color and appearance
-  - Configuring particle collisions: Part 1
-  - Configuring particle collisions: Part 2
+  - [Understanding particle systems](#understanding-particle-systems)
+  - [Exploring the particles package](#exploring-the-particles-package)
+  - [Building a particle system](#building-a-particle-system)
+  - [Controlling particle color and appearance](#controlling-particle-color-and-appearance)
+  - [Configuring particle collisions: Part 1](#configuring-particle-collisions-part-1)
+  - [Configuring particle collisions: Part 2](#configuring-particle-collisions-part-2)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating audio and effects for your games
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-audio-and-effects-for-your-games?u=76281980)
@@ -105,9 +105,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (3), [[LinkedIn]] (1), feature (1), power (1)
 > **Env Vars:** wav (1), vfx (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -130,6 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (4)
 > **Exercise Files:** exercise files (3), download the (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -137,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Audio Assets and Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Audio files: Music and SFX
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980)
@@ -272,7 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (2), let (1), module (1), type, (1)
+> **Frameworks & Libraries:** [[Unity]] (14), [[Search]] (6), game (3), feature (2), web (2)
 > **UI Navigation:** go to (2), click on (2), drag and drop (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Exercise Files:** exercise files (2)
@@ -356,7 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), for. (1), type. (1)
+> **Frameworks & Libraries:** [[Unity]] (1), next (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** sfx (3)
 > **Analogies:** for example (1), just like (1)
@@ -490,8 +491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), next (2), [[Unity]] (1)
 > **UI Navigation:** select the (2), drag and drop (2), checkbox (1), switch to (1)
-> **Code Keywords:** default, (2), case, (2), switch (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -652,8 +653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), [[Simulation]] (1), game (1), [[Unity]] (1), next (1)
 > **UI Navigation:** click on (4), select the (4)
-> **Code Keywords:** let (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** refers to (1), means that (1)
@@ -824,7 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (6), let (5), this, (1), this. (1)
+> **Frameworks & Libraries:** hit (2), game (2), next (1)
 > **UI Navigation:** click on (3), select the (3), switch to (2), scroll down (2)
 > **CLI Commands:** make (3)
 > **Definitions:** refers to (2)
@@ -836,7 +837,7 @@ created: 2026-04-29
 
 ### 2. Coding with Audio
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coding with audiomixers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/coding-with-audiomixers?u=76281980)
@@ -911,8 +912,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (3), next (3), game (1)
 > **UI Navigation:** right-click (3), select the (2), click on (1), dropdown (1), drag and drop (1)
-> **Code Keywords:** function (3), public (2), this, (1), let (1)
 > **Cross-References:** go back to (2), previous chapter (1), in the next (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (2)
@@ -1014,7 +1015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), public (4), yield (2), continue (1), case, (1)
+> **Frameworks & Libraries:** next (5), [[Unity]] (4), [[Microsoft Word|Word]] (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** select the (1), switch to (1)
 > **Definitions:** is a  (2)
@@ -1142,7 +1143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), private (1), switch (1)
+> **Frameworks & Libraries:** next (4), data (1), [[Unity]] (1), hit (1)
 > **UI Navigation:** click on (2), select the (2), scroll down (1), switch to (1)
 > **Prerequisites:** set up (2), configure (1)
 > **CLI Commands:** make (2)
@@ -1270,7 +1271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (5), public (3), this, (2), private (2)
+> **Frameworks & Libraries:** [[Unity]] (2), game (2), next (2), hit (1)
 > **Tools:** visual studio (3)
 > **Code Identifiers:** isplaying (2)
 > **UI Navigation:** drag and drop (1), switch to (1)
@@ -1416,7 +1417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (3), case, (1)
+> **Frameworks & Libraries:** next (3), [[Unity]] (2), [[Mesh]] (1), hit (1)
 > **CLI Commands:** find (5), make (3)
 > **UI Navigation:** select the (3), scroll down (1), click on (1), go to (1)
 > **Tools:** visual studio (2)
@@ -1428,7 +1429,7 @@ created: 2026-04-29
 
 ### 3. VFX Graph
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a VFX graph asset
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-vfx-graph-asset?u=76281980)
@@ -1517,8 +1518,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (6), traffic (1), next (1), hit (1)
 > **UI Navigation:** double-click (2), right-click (1), drag and drop (1), click on (1), dropdown (1)
-> **Code Keywords:** this, (3), default, (1), let (1)
 > **Env Vars:** vfx (5)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
@@ -1656,7 +1657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (13), let (4), delete (3), function (1), finally, (1)
+> **Frameworks & Libraries:** next (4), [[Unity]] (4), node (1)
 > **Env Vars:** vfx (5)
 > **UI Navigation:** click on (3), drag and drop (1), go to (1)
 > **Cross-References:** in the next (2)
@@ -1780,7 +1781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), case. (1)
+> **Frameworks & Libraries:** hit (1), next (1)
 > **Env Vars:** vfx (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
@@ -1915,7 +1916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), default, (1), this, (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[Unity]] (2), feature (1)
 > **Env Vars:** vfx (3)
 > **UI Navigation:** select the (2), click on (1)
 > **CLI Commands:** make (1)
@@ -1927,7 +1928,7 @@ created: 2026-04-29
 
 ### 4. Particle Systems and Effects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding particle systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/understanding-particle-systems?u=76281980)
@@ -2000,8 +2001,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (10), functional (1), web (1), [[Search]] (1), next (1)
 > **Cross-References:** go back to (2), in the next (1)
-> **Code Keywords:** let (1), finally, (1)
 > **UI Navigation:** navigate to (1), drag and drop (1)
 > **Definitions:** known as (1), is a  (1)
 > **URLs:** [unity.com](https://unity.com) (1)
@@ -2122,8 +2123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (1), hit (1), next (1)
 > **UI Navigation:** select the (5), click on (2), drag and drop (1)
-> **Code Keywords:** from. (1), let (1), delete (1), this, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
@@ -2252,7 +2253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), case, (3), let (2)
+> **Frameworks & Libraries:** [[Mesh]] (4), next (3), [[Unity]] (1), hit (1), game (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** click on (2), scroll up (1), dropdown (1)
 > **Env Vars:** vfx (1)
@@ -2348,8 +2349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Mesh]] (1), [[Angular]] (1), data (1), game (1)
 > **UI Navigation:** select the (3), scroll down (1), scroll up (1), click on (1), dropdown (1)
-> **Code Keywords:** let (2), continue (1), module (1), pass (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2459,7 +2460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (2), function (2), continue (1), this. (1)
+> **Frameworks & Libraries:** next (4), game (3), [[Unity]] (1)
 > **UI Navigation:** select the (3), scroll down (2), drag and drop (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Tools:** visual studio (2)
@@ -2597,7 +2598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), switch (3), public (2), delete (1), private (1)
+> **Frameworks & Libraries:** power (4), next (3), [[Unity]] (3), game (1), hit (1)
 > **UI Navigation:** switch to (3), select the (2), go to (1), drag and drop (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **CLI Commands:** make (2)
@@ -2607,7 +2608,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/next-steps?u=76281980)
@@ -2644,9 +2645,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (5), [[LinkedIn]] (1), data (1), next (1)
 > **Env Vars:** wav (1), vfx (1)
 > **Prerequisites:** configure (1), set up (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 

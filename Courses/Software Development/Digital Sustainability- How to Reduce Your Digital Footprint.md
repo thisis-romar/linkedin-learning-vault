@@ -28,7 +28,7 @@ tags:
   - skill/digital-sustainability
   - skill/carbon-footprinting
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Digital%20Sustainability-%20How%20to%20Reduce%20Your%20Digital%20Footprint.md)
@@ -47,36 +47,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Reducing your digital footprint
+  - [Reducing your digital footprint](#reducing-your-digital-footprint)
 - [**1. How Is Digital Connected to the Environment?**](#1-how-is-digital-connected-to-the-environment) (2 videos)
-  - The impact and sustainability of digital transformation on the environment
-  - Responsible use of digital assets to reduce carbon footprint
+  - [The impact and sustainability of digital transformation on the environment](#the-impact-and-sustainability-of-digital-transformation-on-the-environment)
+  - [Responsible use of digital assets to reduce carbon footprint](#responsible-use-of-digital-assets-to-reduce-carbon-footprint)
 - [**2. What Is the Carbon Footprint and the Digital Carbon Footprint?**](#2-what-is-the-carbon-footprint-and-the-digital-carbon-footprint) (2 videos)
-  - What is the carbon footprint?
-  - What is digital or invisible waste?
+  - [What is the carbon footprint?](#what-is-the-carbon-footprint)
+  - [What is digital or invisible waste?](#what-is-digital-or-invisible-waste)
 - [**3. The Impact of Personal Activities on the Digital Carbon Footprint**](#3-the-impact-of-personal-activities-on-the-digital-carbon-footprint) (7 videos)
-  - The impact of device use on the carbon footprint
-  - The impact on the carbon footprint of devices on standby
-  - The impact of energy consumption
-  - The impact of digital assets on the carbon footprint
-  - Technological waste: Marketing and planned obsolescence vs. real needs
-  - The impact of teleworking
-  - The impact of ecommerce
+  - [The impact of device use on the carbon footprint](#the-impact-of-device-use-on-the-carbon-footprint)
+  - [The impact on the carbon footprint of devices on standby](#the-impact-on-the-carbon-footprint-of-devices-on-standby)
+  - [The impact of energy consumption](#the-impact-of-energy-consumption)
+  - [The impact of digital assets on the carbon footprint](#the-impact-of-digital-assets-on-the-carbon-footprint)
+  - [Technological waste: Marketing and planned obsolescence vs. real needs](#technological-waste-marketing-and-planned-obsolescence-vs-real-needs)
+  - [The impact of teleworking](#the-impact-of-teleworking)
+  - [The impact of ecommerce](#the-impact-of-ecommerce)
 - [**4. Your Own Carbon Fingerprint on the World**](#4-your-own-carbon-fingerprint-on-the-world) (2 videos)
-  - Awareness of our own digital impact
-  - How to measure the time of use of digital services
+  - [Awareness of our own digital impact](#awareness-of-our-own-digital-impact)
+  - [How to measure the time of use of digital services](#how-to-measure-the-time-of-use-of-digital-services)
 - [**5. Design Your Strategy to Reduce Digital Waste**](#5-design-your-strategy-to-reduce-digital-waste) (4 videos)
-  - Goals and objectives to reduce your digital carbon footprint
-  - Implement your digital impact reduction plan
-  - Modify your behavior to reduce your carbon footprint
-  - Measure your digital carbon footprint reduction results
+  - [Goals and objectives to reduce your digital carbon footprint](#goals-and-objectives-to-reduce-your-digital-carbon-footprint)
+  - [Implement your digital impact reduction plan](#implement-your-digital-impact-reduction-plan)
+  - [Modify your behavior to reduce your carbon footprint](#modify-your-behavior-to-reduce-your-carbon-footprint)
+  - [Measure your digital carbon footprint reduction results](#measure-your-digital-carbon-footprint-reduction-results)
 - [**Conclusion: Become a Change Agent**](#conclusion-become-a-change-agent) (2 videos)
-  - Make changes in your workplace
-  - Influence others by sharing your results and best practices
+  - [Make changes in your workplace](#make-changes-in-your-workplace)
+  - [Influence others by sharing your results and best practices](#influence-others-by-sharing-your-results-and-best-practices)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reducing your digital footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/reducing-your-digital-footprint?u=76281980)
@@ -97,12 +97,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), management (1)
 > **Speakers:** - are (1)
 
 
 ### 1. How Is Digital Connected to the Environment?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The impact and sustainability of digital transformation on the environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980)
@@ -131,8 +132,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), [[Microsoft Products|Products]] (1), data (1), cloud (1), [[Big Data]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), let (1)
 > **Speakers:** - digital (1)
 
 #### Responsible use of digital assets to reduce carbon footprint
@@ -162,15 +163,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
 
 ### 2. What Is the Carbon Footprint and the Digital Carbon Footprint?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the carbon footprint?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-the-carbon-footprint?u=76281980)
@@ -207,6 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), teams (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - greenhouse (1)
@@ -242,7 +244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4)
+> **Frameworks & Libraries:** cloud (3), data (2), [[Search]] (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - have (1)
@@ -250,7 +252,7 @@ created: 2026-04-29
 
 ### 3. The Impact of Personal Activities on the Digital Carbon Footprint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The impact of device use on the carbon footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-device-use-on-the-carbon-footprint?u=76281980)
@@ -281,6 +283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), cloud (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - using (1)
 
@@ -327,8 +330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), game (1), [[Climate Change]] (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** function (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - have (1)
@@ -374,7 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** power (2), feature (1), data (1)
 > **Speakers:** - think (1)
 
 #### The impact of digital assets on the carbon footprint
@@ -416,7 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), this. (1)
+> **Frameworks & Libraries:** cloud (1), [[Newsletters]] (1)
 > **Env Vars:** sms (1)
 > **Speakers:** - sending (1)
 
@@ -451,6 +454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Sustainability]] (2), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -489,7 +493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1)
+> **Frameworks & Libraries:** cloud (2), data (1)
 > **Analogies:** such as (1)
 > **Speakers:** - remote (1)
 
@@ -542,16 +546,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (8), [[Search]] (5), [[Microsoft Products|Products]] (3), [[Windows]] (2), product (2)
 > **CLI Commands:** make (5), find (3)
 > **Best Practices:** make sure to (2)
-> **Code Keywords:** require (1)
 > **Analogies:** such as (1)
 > **Speakers:** - e (1)
 
 
 ### 4. Your Own Carbon Fingerprint on the World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Awareness of our own digital impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/awareness-of-our-own-digital-impact?u=76281980)
@@ -600,7 +604,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1), delete (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Exercise Files:** exercise file (1)
@@ -649,8 +652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), [[Android]] (1), application (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** this. (1)
 > **Code Identifiers:** ios (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - are (1)
@@ -658,7 +661,7 @@ created: 2026-04-29
 
 ### 5. Design Your Strategy to Reduce Digital Waste
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Goals and objectives to reduce your digital carbon footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/goals-and-objectives-to-reduce-your-digital-carbon-footprint?u=76281980)
@@ -689,6 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), cloud (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - during (1)
@@ -721,7 +725,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Analogies:** for instance (1), such as (1), for example (1)
-> **Code Keywords:** delete (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - once (1)
 
@@ -748,8 +751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OneNote]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - with (1)
@@ -789,6 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), cloud (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
@@ -797,7 +801,7 @@ created: 2026-04-29
 
 ### Conclusion: Become a Change Agent
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make changes in your workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/make-changes-in-your-workplace?u=76281980)
@@ -838,7 +842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), raise (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Human Resources (HR)|Human resources]] (1), teams (1)
 > **Speakers:** - your (1)
 
 #### Influence others by sharing your results and best practices
@@ -864,8 +868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** raise (1)
 > **Speakers:** - once (1)
 
 

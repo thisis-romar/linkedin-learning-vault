@@ -29,7 +29,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-onedrive
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/OneDrive%20for%20Business%20Essential%20Training.md)
@@ -48,36 +48,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Collaborate with your team using OneDrive
-  - What is OneDrive for Business?
+  - [Collaborate with your team using OneDrive](#collaborate-with-your-team-using-onedrive)
+  - [What is OneDrive for Business?](#what-is-onedrive-for-business)
 - [**1. Get Started**](#1-get-started) (2 videos)
-  - Sign in, access, and navigate OneDrive
-  - Sync with the OneDrive client app
+  - [Sign in, access, and navigate OneDrive](#sign-in-access-and-navigate-onedrive)
+  - [Sync with the OneDrive client app](#sync-with-the-onedrive-client-app)
 - [**2. Work with Files and Folders**](#2-work-with-files-and-folders) (6 videos)
-  - Upload files via the web
-  - Upload via the OneDrive client app
-  - Organize files and folders
-  - Rename, download, and work with files
-  - Delete and recover files
-  - Search your files
+  - [Upload files via the web](#upload-files-via-the-web)
+  - [Upload via the OneDrive client app](#upload-via-the-onedrive-client-app)
+  - [Organize files and folders](#organize-files-and-folders)
+  - [Rename, download, and work with files](#rename-download-and-work-with-files)
+  - [Delete and recover files](#delete-and-recover-files)
+  - [Search your files](#search-your-files)
 - [**3. Use OneDrive with Microsoft 365**](#3-use-onedrive-with-microsoft-365) (5 videos)
-  - Save a file to OneDrive
-  - Use OneDrive with desktop apps
-  - Use OneDrive with Teams
-  - Restore a file to a previous version
-  - Use Copilot with OneDrive for Business
+  - [Save a file to OneDrive](#save-a-file-to-onedrive)
+  - [Use OneDrive with desktop apps](#use-onedrive-with-desktop-apps)
+  - [Use OneDrive with Teams](#use-onedrive-with-teams)
+  - [Restore a file to a previous version](#restore-a-file-to-a-previous-version)
+  - [Use Copilot with OneDrive for Business](#use-copilot-with-onedrive-for-business)
 - [**4. Collaborate with Others**](#4-collaborate-with-others) (5 videos)
-  - Share files and use an expiring link
-  - Request files from your coworkers
-  - Work simultaneously with a coworker
-  - Add comments to files and annotate PDFs
-  - Use OneDrive on your mobile device
+  - [Share files and use an expiring link](#share-files-and-use-an-expiring-link)
+  - [Request files from your coworkers](#request-files-from-your-coworkers)
+  - [Work simultaneously with a coworker](#work-simultaneously-with-a-coworker)
+  - [Add comments to files and annotate PDFs](#add-comments-to-files-and-annotate-pdfs)
+  - [Use OneDrive on your mobile device](#use-onedrive-on-your-mobile-device)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Master the Microsoft 365 Suite
+  - [Master the Microsoft 365 Suite](#master-the-microsoft-365-suite)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaborate with your team using OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980)
@@ -102,6 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft OneDrive]] (1), business (1), [[Microsoft]] (1)
 > **Env Vars:** mvp (2)
 > **Speakers:** - did (1)
 
@@ -138,8 +139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft 365]] (3), [[Microsoft OneDrive]] (2), cloud (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** pdf (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -147,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Get Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign in, access, and navigate OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980)
@@ -260,8 +261,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (10), business (3), teams (2), [[Microsoft]] (2), [[Microsoft 365]] (2)
 > **UI Navigation:** click on (11)
-> **Code Keywords:** this. (2), let (1), this, (1), type, (1), finally, (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [microsoft365.com](https://microsoft365.com) (1), [landonhotel.com](https://landonhotel.com) (1)
@@ -348,9 +349,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (15), cloud (4), business (3), [[Windows]] (2), next (2)
 > **Definitions:** means that (4), is a  (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1)
 > **Cross-References:** next chapter (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -360,7 +361,7 @@ created: 2026-04-29
 
 ### 2. Work with Files and Folders
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Upload files via the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980)
@@ -461,7 +462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new. (2), while. (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Microsoft 365]] (1), teams (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (4), drag and drop (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
@@ -548,7 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), case, (1), new. (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), web (4), [[Windows]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** right-click (1)
@@ -671,7 +672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), new, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), next (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (3), right-click (2)
 > **Speakers:** - [instructor] (1)
 
@@ -758,8 +759,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Word|Word]] (2), [[Microsoft Outlook|Outlook]] (2), teams (1), business (1)
 > **UI Navigation:** right-click (3), go to (2), click on (1)
-> **Code Keywords:** let (2), finally, (1), case, (1), else, (1)
 > **Exercise Files:** download the (1), zip file (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -872,7 +873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (13), let (1), self (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (13), next (3), cloud (1), web (1), feature (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -949,9 +950,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word|Word]] (4), [[Microsoft OneDrive|Onedrive]] (3), web (1)
 > **CLI Commands:** find (7), make (2)
 > **Analogies:** for example (7)
-> **Code Keywords:** for. (1), type, (1), else, (1), type. (1)
 > **UI Navigation:** click on (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -959,7 +960,7 @@ created: 2026-04-29
 
 ### 3. Use OneDrive with Microsoft 365
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Save a file to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980)
@@ -1056,7 +1057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (14), [[Microsoft Word|Word]] (8), [[Microsoft Outlook|Outlook]] (3), [[Microsoft 365]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1130,7 +1131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (20), business (2), [[Microsoft Outlook|Outlook]] (2), web (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (2), toggle (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (2)
@@ -1194,8 +1195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (8), [[Microsoft OneDrive|Onedrive]] (7), [[Microsoft Teams]] (1), cloud (1), web (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** new. (1), let (1), interface (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
@@ -1276,8 +1277,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), product (2), [[Microsoft Office]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (4), right-click (2)
-> **Code Keywords:** finally, (1), delete (1), continue (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
@@ -1388,7 +1389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Microsoft OneDrive|Onedrive]] (3), data (3), business (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (2), dropdown (1), scroll down (1), go to (1)
 > **Env Vars:** faq (3)
 > **CLI Commands:** find (1)
@@ -1399,7 +1400,7 @@ created: 2026-04-29
 
 ### 4. Collaborate with Others
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Share files and use an expiring link
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980)
@@ -1504,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), for. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft OneDrive|Onedrive]] (1), business (1), product (1)
 > **Analogies:** picture (2), for example (2)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1), make (1)
@@ -1592,7 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), feature (1), business (1), next (1), [[Security]] (1)
 > **Warnings:** note that (2)
 > **Prerequisites:** prerequisite (1), you'll need (1)
 > **Cross-References:** go back to (1)
@@ -1655,7 +1656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), open the (1)
 > **Analogies:** just like (1)
@@ -1735,8 +1736,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), feature (2), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** pdf (4), jpeg (1), png (1)
-> **Code Keywords:** this. (1), let (1), case, (1), else. (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1822,7 +1823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), case, (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft 365]] (2), [[Security]] (2), [[Google]] (1), [[Search]] (1)
 > **Analogies:** just like (4), for example (2)
 > **UI Navigation:** toggle (2)
 > **CLI Commands:** find (1)
@@ -1831,7 +1832,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Master the Microsoft 365 Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980)
@@ -1846,6 +1847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), business (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [jess] (1)
 
 

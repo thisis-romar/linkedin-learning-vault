@@ -35,7 +35,7 @@ tags:
   - skill/programming
   - skill/programming-foundations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Programming%20Foundations-%20Conducting%20Code%20Reviews.md)
@@ -54,46 +54,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Write great code reviews to advance your career
-  - What you need to know
+  - [Write great code reviews to advance your career](#write-great-code-reviews-to-advance-your-career)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Basics of Code Reviews**](#1-basics-of-code-reviews) (4 videos)
-  - What is a code review?
-  - Code reviews in the software development life cycle
-  - Who should review code?
-  - How long should a code review really take
+  - [What is a code review?](#what-is-a-code-review)
+  - [Code reviews in the software development life cycle](#code-reviews-in-the-software-development-life-cycle)
+  - [Who should review code?](#who-should-review-code)
+  - [How long should a code review really take](#how-long-should-a-code-review-really-take)
 - [**2. Performing a Code Review**](#2-performing-a-code-review) (7 videos)
-  - Understand the author’s purpose
-  - Review implementation details
-  - Review maintainability and design
-  - Review unfamiliar code
-  - Providing constructive feedback
-  - Common challenges
-  - Using AI in code reviews
+  - [Understand the author’s purpose](#understand-the-authors-purpose)
+  - [Review implementation details](#review-implementation-details)
+  - [Review maintainability and design](#review-maintainability-and-design)
+  - [Review unfamiliar code](#review-unfamiliar-code)
+  - [Providing constructive feedback](#providing-constructive-feedback)
+  - [Common challenges](#common-challenges)
+  - [Using AI in code reviews](#using-ai-in-code-reviews)
 - [**3. Reviewing Code on the Cloud**](#3-reviewing-code-on-the-cloud) (6 videos)
-  - Find code to review on GitHub
-  - Test code on a local machine
-  - Write code review comments
-  - Approve code
-  - Challenge: Give a code review
-  - Solution: Give a code review
+  - [Find code to review on GitHub](#find-code-to-review-on-github)
+  - [Test code on a local machine](#test-code-on-a-local-machine)
+  - [Write code review comments](#write-code-review-comments)
+  - [Approve code](#approve-code)
+  - [Challenge: Give a code review](#challenge-give-a-code-review)
+  - [Solution: Give a code review](#solution-give-a-code-review)
 - [**4. Implementing a Feature**](#4-implementing-a-feature) (4 videos)
-  - Scope of a code change
-  - Implement a code change
-  - Commit a code change
-  - Prepare code for review
+  - [Scope of a code change](#scope-of-a-code-change)
+  - [Implement a code change](#implement-a-code-change)
+  - [Commit a code change](#commit-a-code-change)
+  - [Prepare code for review](#prepare-code-for-review)
 - [**5. Submitting Code for Review**](#5-submitting-code-for-review) (6 videos)
-  - Create a pull request (PR)
-  - Find code reviewers
-  - Handle code review comments
-  - Respond to code reviews comments
-  - Challenge: Add a feature and submit a PR
-  - Solution: Add a feature and submit a PR
+  - [Create a pull request (PR)](#create-a-pull-request-pr)
+  - [Find code reviewers](#find-code-reviewers)
+  - [Handle code review comments](#handle-code-review-comments)
+  - [Respond to code reviews comments](#respond-to-code-reviews-comments)
+  - [Challenge: Add a feature and submit a PR](#challenge-add-a-feature-and-submit-a-pr)
+  - [Solution: Add a feature and submit a PR](#solution-add-a-feature-and-submit-a-pr)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Add code reviews into your daily job
+  - [Add code reviews into your daily job](#add-code-reviews-into-your-daily-job)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Write great code reviews to advance your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-great-code-reviews-to-advance-your-career?u=76281980)
@@ -128,8 +128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (3), product (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you need to know
@@ -153,15 +153,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Programming]] (2), [[Software Development]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (5)
 > **CLI Commands:** python (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Basics of Code Reviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a code review?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980)
@@ -222,7 +222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** [[Code Review]] (2), api (1), product (1), [[HTML]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Env Vars:** api (1), html (1)
@@ -252,6 +252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Software Development]] (1), [[Agile Software Development]] (1), [[Code Review]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -310,6 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### How long should a code review really take
@@ -345,8 +347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** return. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
@@ -354,7 +356,7 @@ created: 2026-04-29
 
 ### 2. Performing a Code Review
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the author’s purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/understand-the-author-s-purpose?u=76281980)
@@ -405,7 +407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), case, (1)
+> **Frameworks & Libraries:** application (5), feature (2), game (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), such as (1)
 > **Code Identifiers:** ios (1)
@@ -510,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), case, (3), let (2), case. (1), this, (1)
+> **Frameworks & Libraries:** [[Java]] (7), application (2), next (2), [[Programming]] (2), feature (1)
 > **Env Vars:** java (7), int (2)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** is a  (4)
@@ -579,8 +581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (2), [[Design Patterns]] (2), feature (2), [[Security]] (2), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** class, (1), function (1), case, (1)
 > **Analogies:** picture (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -620,6 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (2), [[Representational State Transfer (REST)|Rest]] (1), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -688,7 +691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -732,8 +735,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (2), management (1), teams (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** covid (1)
 > **Speakers:** - [instructor] (1)
 
@@ -786,7 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1)
+> **Frameworks & Libraries:** ai (12), [[Software Development]] (2), feature (2), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is an  (2)
 > **Tools:** github (1)
 > **Analogies:** for instance (1)
@@ -795,7 +798,7 @@ created: 2026-04-29
 
 ### 3. Reviewing Code on the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Find code to review on GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980)
@@ -914,8 +917,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Version Control]] (3), [[Code Review]] (3), application (3), [[LinkedIn]] (2)
 > **Tools:** github (9)
-> **Code Keywords:** let (3), case, (3), switch (1), this, (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the last (1), we talked about (1), as we saw (1)
 > **UI Navigation:** click on (1), toggle (1)
@@ -1044,7 +1047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (3), case, (1), super (1), continue (1)
+> **Frameworks & Libraries:** application (9), [[GitHub]] (6), [[Git]] (4), [[Java]] (4), [[CLI]] (3)
 > **Tools:** github (6), intellij (3), command line (1), terminal (1)
 > **CLI Commands:** git (4), make (2), apache (1), mvn (1), find (1)
 > **Prerequisites:** install (2), set up (2), you'll need (1)
@@ -1124,7 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), this, (1)
+> **Frameworks & Libraries:** [[Code Review]] (11), [[Representational State Transfer (REST)|Rest]] (1), game (1), [[GitHub]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** nextint (3)
 > **Cross-References:** in the last (1)
@@ -1198,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), catch. (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Code Review]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -1256,7 +1259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), from. (1)
+> **Frameworks & Libraries:** feature (3), [[Java]] (2), [[Python (Programming Language)|Python]] (2), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** calc (1), dig (1)
 > **Speakers:** - [instructor] (1)
@@ -1401,7 +1404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (6), class. (2), switch (2), class, (1)
+> **Frameworks & Libraries:** application (5), [[Code Review]] (3), [[GitHub]] (2), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python3 (3), make (2), mvn (1), python (1), cd (1)
 > **Tools:** github (2), intellij (1), terminal (1)
 > **File Paths:** calculator.py (1), calculatortest.py (1)
@@ -1413,7 +1416,7 @@ created: 2026-04-29
 
 ### 4. Implementing a Feature
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scope of a code change
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/scope-of-a-code-change?u=76281980)
@@ -1472,7 +1475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (1)
+> **Frameworks & Libraries:** product (3), [[Agile Development|Agile]] (2), application (1), [[Engineering]] (1), teams (1)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** rule of thumb (1)
 > **Warnings:** keep in mind (1)
@@ -1599,7 +1602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), elif (1), this, (1), switch (1)
+> **Frameworks & Libraries:** power (6), feature (4), [[Python (Programming Language)|Python]] (3), application (3), [[Java]] (2)
 > **CLI Commands:** python (3), make (3), python3 (3), find (1), ls (1)
 > **Tools:** github (2), terminal (2), sublime (1)
 > **File Paths:** calculator.py (2), test.py (1)
@@ -1658,7 +1661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (1), this, (1), case, (1), super (1)
+> **Frameworks & Libraries:** feature (5), [[GitHub]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (1)
 > **Definitions:** is an  (1)
@@ -1705,8 +1708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), application (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** delete (2)
 > **Prerequisites:** make sure you have (1), you'll need (1)
 > **Definitions:** in other words (1)
 > **Best Practices:** make sure to (1)
@@ -1715,7 +1718,7 @@ created: 2026-04-29
 
 ### 5. Submitting Code for Review
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a pull request (PR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/create-a-pull-request-pr?u=76281980)
@@ -1798,9 +1801,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (6), [[GitHub]] (5), cloud (1), prompt (1), application (1)
 > **Tools:** github (5)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (2), case, (2)
 > **UI Navigation:** go to (1), open the (1)
 > **Env Vars:** dig (1)
 > **Speakers:** - [instructor] (1)
@@ -1856,9 +1859,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (4), [[GitHub]] (1), [[Slack]] (1), [[Microsoft Teams]] (1)
 > **Tools:** github (1), slack (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dig (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
@@ -1923,8 +1926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (7), [[Software Development]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** for, (1), case. (1), this. (1), private (1)
 > **Speakers:** - [instructor] (1)
 
 #### Respond to code reviews comments
@@ -2014,7 +2017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2)
+> **Frameworks & Libraries:** [[Code Review]] (6), [[GitHub]] (2), feature (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **CLI Commands:** make (4)
 > **Documentation:** the documentation (1), spec (1)
 > **Tools:** github (2)
@@ -2052,7 +2055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1)
+> **Frameworks & Libraries:** application (1), feature (1), [[Programming]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2165,7 +2168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), pass (2), assert (2), case, (1)
+> **Frameworks & Libraries:** application (4), [[Java]] (3), feature (2)
 > **UI Navigation:** go to (2), open the (1)
 > **File Paths:** main.java (1), calculator.java (1)
 > **Env Vars:** nvn (1)
@@ -2177,7 +2180,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add code reviews into your daily job
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980)
@@ -2206,8 +2209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Code Review]] (3), [[GitHub]] (1), leadership (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kathryn] (1)

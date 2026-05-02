@@ -31,7 +31,7 @@ tags:
   - skill/digital-accessibility
   - skill/figma-software
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessibility%20and%20Inclusion%20with%20Figma.md)
@@ -50,47 +50,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Figma accessibility plugins
+  - [Figma accessibility plugins](#figma-accessibility-plugins)
 - [**1. Stark**](#1-stark) (12 videos)
-  - Accessibility
-  - Installing the Stark plugin for Figma
-  - Using Stark’s contrast checker
-  - Using Stark’s typography checker
-  - Reviewing alt text
-  - Correct focus order
-  - Using Stark’s vision simulator
-  - Touch targets
-  - Adding landmarks
-  - Add Aria notes
-  - Using Sidekick
-  - The Stark accessibility checklist widget
+  - [Accessibility](#accessibility)
+  - [Installing the Stark plugin for Figma](#installing-the-stark-plugin-for-figma)
+  - [Using Stark’s contrast checker](#using-starks-contrast-checker)
+  - [Using Stark’s typography checker](#using-starks-typography-checker)
+  - [Reviewing alt text](#reviewing-alt-text)
+  - [Correct focus order](#correct-focus-order)
+  - [Using Stark’s vision simulator](#using-starks-vision-simulator)
+  - [Touch targets](#touch-targets)
+  - [Adding landmarks](#adding-landmarks)
+  - [Add Aria notes](#add-aria-notes)
+  - [Using Sidekick](#using-sidekick)
+  - [The Stark accessibility checklist widget](#the-stark-accessibility-checklist-widget)
 - [**2. Adee**](#2-adee) (5 videos)
-  - Installing Adee
-  - Using Adee’s contrast checker
-  - Using the alt text generator
-  - Using Adee’s color blindness simulator
-  - Checking touch sizes
+  - [Installing Adee](#installing-adee)
+  - [Using Adee’s contrast checker](#using-adees-contrast-checker)
+  - [Using the alt text generator](#using-the-alt-text-generator)
+  - [Using Adee’s color blindness simulator](#using-adees-color-blindness-simulator)
+  - [Checking touch sizes](#checking-touch-sizes)
 - [**3. Contrast Checkers**](#3-contrast-checkers) (3 videos)
-  - Installing Able and Ally
-  - Checking color contrast with Able
-  - Checking color contrast with Ally
+  - [Installing Able and Ally](#installing-able-and-ally)
+  - [Checking color contrast with Able](#checking-color-contrast-with-able)
+  - [Checking color contrast with Ally](#checking-color-contrast-with-ally)
 - [**4. Humaaans**](#4-humaaans) (4 videos)
-  - Inclusion
-  - Using Humaaans with Figma
-  - Create an onboarding frame
-  - Persona
+  - [Inclusion](#inclusion)
+  - [Using Humaaans with Figma](#using-humaaans-with-figma)
+  - [Create an onboarding frame](#create-an-onboarding-frame)
+  - [Persona](#persona)
 - [**5. Lokalise**](#5-lokalise) (2 videos)
-  - An overview of Lokalise
-  - Changing text to French
+  - [An overview of Lokalise](#an-overview-of-lokalise)
+  - [Changing text to French](#changing-text-to-french)
 - [**6. Inclusivity Sources**](#6-inclusivity-sources) (2 videos)
-  - An overview of inclusive design in Microsoft
-  - Cards for Humanity
+  - [An overview of inclusive design in Microsoft](#an-overview-of-inclusive-design-in-microsoft)
+  - [Cards for Humanity](#cards-for-humanity)
 - [**Taking Accessibilty and Inclusivity Forward**](#taking-accessibilty-and-inclusivity-forward) (1 videos)
-  - Next steps for accessible, inclusive design
+  - [Next steps for accessible, inclusive design](#next-steps-for-accessible-inclusive-design)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Figma accessibility plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980)
@@ -109,8 +109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Stark (Accessibility Software)|Stark]] (1)
 > **Tools:** figma (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [tom] (1)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Stark
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), [[Figma (Software)|Figma]] (2), power (1), ux (1), [[Microsoft Word|Word]] (1)
 > **Tools:** figma (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -213,8 +213,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Figma (Software)|Figma]] (4), product (2), feature (2), ux (1)
 > **Tools:** figma (4)
-> **Code Keywords:** case, (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -312,7 +312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (2), case, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), web (1)
 > **UI Navigation:** open the (2), click on (2), select the (1)
 > **Env Vars:** wcag (2), aaa (2)
 > **CLI Commands:** make (2)
@@ -374,8 +374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Typography]] (7), [[Stark (Accessibility Software)|Stark]] (2), [[Figma (Software)|Figma]] (1), [[LinkedIn]] (1), [[Zoom]] (1)
 > **UI Navigation:** open the (2), scroll up (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
@@ -443,7 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), [[Zoom]] (1), ux (1)
 > **Analogies:** picture (2)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
@@ -509,7 +509,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), delete (1), finally, (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -602,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (1)
+> **Frameworks & Libraries:** [[Simulation]] (6), [[Zoom]] (2), [[Microsoft Word|Word]] (1), ux (1), feature (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** open the (1)
@@ -657,9 +656,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Stark (Accessibility Software)|Stark]] (2), [[Google]] (1), [[Android]] (1)
 > **Code Identifiers:** iphone (1), ios (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** open the (1)
 > **Best Practices:** rule of thumb (1)
 > **Warnings:** keep in mind (1)
@@ -712,9 +711,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** open the (2), select the (1), scroll down (1)
-> **Code Keywords:** for. (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -787,8 +786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Stark (Accessibility Software)|Stark]] (1)
 > **Env Vars:** aria (8)
-> **Code Keywords:** this, (2), function (1), self (1), case, (1), delete (1)
 > **Definitions:** is a  (2), short for (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
@@ -847,7 +846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (2)
 > **Cross-References:** as you saw (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is an  (1)
@@ -962,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (8), product (3), [[Zoom]] (1), ux (1), [[Typography]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** dev (1)
 > **UI Navigation:** open the (1)
@@ -972,7 +971,7 @@ created: 2026-04-29
 
 ### 2. Adee
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Adee
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-adee?u=76281980)
@@ -1001,8 +1000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **Tools:** figma (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1066,8 +1065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** open the (3), go to (1), select the (1)
-> **Code Keywords:** interface (2), let (2)
 > **Env Vars:** aaa (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1158,7 +1157,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2), this, (1), case, (1)
 > **Env Vars:** svg (3), jpeg (1), png (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Definitions:** is an  (1)
@@ -1258,7 +1256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** traffic (2), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** open the (2), select the (1)
 > **Warnings:** be aware (2)
@@ -1358,7 +1356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), from. (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[Zoom]] (1), generic (1), css (1)
 > **Code Identifiers:** iphone (3), ios (2)
 > **Env Vars:** wcag (4), css (1)
 > **UI Navigation:** open the (2), select the (1)
@@ -1368,7 +1366,7 @@ created: 2026-04-29
 
 ### 3. Contrast Checkers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Able and Ally
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980)
@@ -1411,7 +1409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (1), [[Microsoft]] (1)
 > **Env Vars:** a11y (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1490,7 +1488,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** click (1)
 > **UI Navigation:** open the (1)
@@ -1541,7 +1538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** as you saw (1)
 > **UI Navigation:** open the (1)
@@ -1552,7 +1549,7 @@ created: 2026-04-29
 
 ### 4. Humaaans
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980)
@@ -1627,7 +1624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ux (2), [[Statistics]] (1), [[Microsoft]] (1)
 > **Tools:** figma (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
@@ -1724,7 +1721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), application (1), next (1), [[Microsoft Word|Word]] (1)
 > **Tools:** figma (4)
 > **Prerequisites:** install (2)
 > **CLI Commands:** find (1)
@@ -1787,7 +1784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Diversity and Inclusion]] (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1865,8 +1862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Statistics]] (1), ux (1), [[Microsoft Word|Word]] (1), web (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (6), for. (1)
 > **UI Navigation:** select the (2), open the (1), click on (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1874,7 +1871,7 @@ created: 2026-04-29
 
 ### 5. Lokalise
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of Lokalise
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-lokalise?u=76281980)
@@ -1923,9 +1920,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), next (1)
 > **Tools:** figma (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1), let (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -2071,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), include, (1), require (1), from. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (8), [[Microsoft Word|Word]] (3), web (2), next (2), ai (2)
 > **Tools:** figma (8)
 > **UI Navigation:** click on (2), open the (1), select the (1)
 > **CLI Commands:** make (1), find (1)
@@ -2083,7 +2080,7 @@ created: 2026-04-29
 
 ### 6. Inclusivity Sources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of inclusive design in Microsoft
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980)
@@ -2136,8 +2133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), product (2), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), game (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -2207,6 +2204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Search]] (1), game (1)
 > **Tools:** figma (2)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -2215,7 +2213,7 @@ created: 2026-04-29
 
 ### Taking Accessibilty and Inclusivity Forward
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for accessible, inclusive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980)
@@ -2246,8 +2244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[LinkedIn]] (1), ux (1), [[Diversity and Inclusion]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [tom] (1)
 
 

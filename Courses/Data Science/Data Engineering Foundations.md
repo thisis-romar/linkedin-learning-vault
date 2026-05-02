@@ -34,7 +34,7 @@ tags:
   - topic/database-management
   - skill/data-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering%20Foundations.md)
@@ -53,38 +53,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - What is data engineering?
+  - [What is data engineering?](#what-is-data-engineering)
 - [**1. Introduction to Data Engineering**](#1-introduction-to-data-engineering) (3 videos)
-  - Introduction to data engineering
-  - Data engineer vs. data scientist
-  - Essential tools for data engineering
+  - [Introduction to data engineering](#introduction-to-data-engineering)
+  - [Data engineer vs. data scientist](#data-engineer-vs-data-scientist)
+  - [Essential tools for data engineering](#essential-tools-for-data-engineering)
 - [**2. Databases and Dataframes**](#2-databases-and-dataframes) (3 videos)
-  - Intro to databases and their types
-  - Understanding database schema
-  - Distributive computing
+  - [Intro to databases and their types](#intro-to-databases-and-their-types)
+  - [Understanding database schema](#understanding-database-schema)
+  - [Distributive computing](#distributive-computing)
 - [**3. Data Engineering Tools**](#3-data-engineering-tools) (4 videos)
-  - MapReduce and Hadoop
-  - Hive
-  - Spark
-  - Airflow
+  - [MapReduce and Hadoop](#mapreduce-and-hadoop)
+  - [Hive](#hive)
+  - [Spark](#spark)
+  - [Airflow](#airflow)
 - [**4. ETL Pipelines**](#4-etl-pipelines) (11 videos)
-  - Sources of data extraction
-  - Data extraction from a PostgreSQL database
-  - Challenge: Data extraction
-  - Solution: Data extraction
-  - Transforming data
-  - Challenge: Transforming data
-  - Solution: Transforming data
-  - Loading data into a DB
-  - Challenge: Loading data
-  - Solution: Loading data
-  - Scheduling ETL pipeline using Airflow
+  - [Sources of data extraction](#sources-of-data-extraction)
+  - [Data extraction from a PostgreSQL database](#data-extraction-from-a-postgresql-database)
+  - [Challenge: Data extraction](#challenge-data-extraction)
+  - [Solution: Data extraction](#solution-data-extraction)
+  - [Transforming data](#transforming-data)
+  - [Challenge: Transforming data](#challenge-transforming-data)
+  - [Solution: Transforming data](#solution-transforming-data)
+  - [Loading data into a DB](#loading-data-into-a-db)
+  - [Challenge: Loading data](#challenge-loading-data)
+  - [Solution: Loading data](#solution-loading-data)
+  - [Scheduling ETL pipeline using Airflow](#scheduling-etl-pipeline-using-airflow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980)
@@ -117,9 +117,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (2), [[Big Data]] (2), [[Data Engineering]] (2), etl (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** etl (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [harshit] (1)
@@ -127,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Data Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980)
@@ -190,9 +190,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Data Engineering]] (4), database (3), [[Databases]] (2), [[Programming]] (2)
 > **CLI Commands:** make (3), python (1)
 > **Analogies:** such as (2), imagine (1)
-> **Code Keywords:** for. (1)
 > **Env Vars:** sql (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
@@ -229,8 +229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), business (3), cloud (2), [[Decision-Making]] (2), [[Data Architecture]] (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
@@ -321,8 +321,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Databases]] (7), database (6), [[Data Engineering]] (2), [[NoSQL]] (2)
 > **CLI Commands:** make (4), apache (2), mysql (1)
-> **Code Keywords:** let (1), function (1), finally, (1)
 > **Env Vars:** sql (1), api (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -331,7 +331,7 @@ created: 2026-04-29
 
 ### 2. Databases and Dataframes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to databases and their types
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980)
@@ -422,10 +422,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Databases]] (17), database (10), [[Unstructured Data]] (4), [[SQL]] (4)
 > **Env Vars:** sql (4), json (2), dbms (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), mysql (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -494,10 +494,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[SQL]] (5), data (4), [[Databases]] (3), next (1)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (1), we call this (1), refers to (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Distributive computing
@@ -601,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), module (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (14), parallel (6), [[Big Data]] (2), power (2), [[Forms]] (1)
 > **Code Identifiers:** athlete_avg_age (1), grouped_data (1)
 > **Env Vars:** ram (1), api (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -613,7 +613,7 @@ created: 2026-04-29
 
 ### 3. Data Engineering Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MapReduce and Hadoop
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980)
@@ -672,11 +672,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hadoop]] (4), [[Big Data]] (3), parallel (2), open-source (2), data (2)
 > **Env Vars:** hdfs (4), etl (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** similar to (2)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -715,8 +715,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[SQL]] (4), [[Hadoop]] (3), etl (1), [[Databases]] (1)
 > **Env Vars:** sql (4), etl (1), api (1)
-> **Code Keywords:** interface (1), let (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** as we saw (1)
@@ -787,9 +787,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[PySpark]] (6), parallel (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **CLI Commands:** apache (1), python (1)
-> **Code Keywords:** interface (2)
 > **Code Identifiers:** groupbykey (1)
 > **Env Vars:** etl (1)
 > **Analogies:** similar to (1)
@@ -888,8 +888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (3), [[Linux]] (2), api (2), [[SQL]] (1)
 > **Env Vars:** dag (7), csv (3), api (2), sql (1), etl (1)
-> **Code Keywords:** let (8), this, (1), this. (1), finally, (1), function (1)
 > **CLI Commands:** python (3), apache (2), node (1)
 > **Definitions:** is a  (3), means that (1)
 > **Tools:** bash (2)
@@ -900,7 +900,7 @@ created: 2026-04-29
 
 ### 4. ETL Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sources of data extraction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980)
@@ -1013,8 +1013,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[JSON]] (12), [[Databases]] (12), web (7), api (7)
 > **Env Vars:** json (9), api (7), etl (2), oltp (2), olap (2)
-> **Code Keywords:** let (3), pass (3), finally, (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** stands for (1), is a  (1), is an  (1), is called (1)
 > **Analogies:** for example (3)
@@ -1166,8 +1166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), data (9), hit (7), [[PostgreSQL|Postgres]] (5), [[Java Database Connectivity (JDBC)|Jdbc]] (5)
 > **Env Vars:** jdbc (5), csv (3), create (2), database (1), table (1)
-> **Code Keywords:** let (5), finally, (2), function (2), this. (2), this, (1)
 > **Code Identifiers:** etl_pipeline (3), movies_df (2), getorcreate (1)
 > **File Paths:** movies.csv (3), users.csv (1), 04_02.py (1)
 > **CLI Commands:** python (3), psql (1)
@@ -1196,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
+> **Frameworks & Libraries:** data (4), [[PostgreSQL]] (2), database (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -1227,7 +1227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** data (4), [[PostgreSQL]] (2), database (1)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1272,7 +1272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4)
+> **Frameworks & Libraries:** data (10), [[Databases]] (1), next (1), etl (1), database (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1295,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** data (5)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -1328,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), finally, (1)
+> **Frameworks & Libraries:** data (6)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1383,7 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (5), override (2)
+> **Frameworks & Libraries:** data (18), database (8), [[PostgreSQL]] (2), [[Automation]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** etl_pipeline (2), users_df (2), user_dataframe (1), underscore_df (1), ratings_df (1)
 > **Env Vars:** url (2)
 > **Definitions:** is called (1), we call this (1)
@@ -1415,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (1)
+> **Frameworks & Libraries:** data (7), database (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1447,7 +1447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** data (6), database (3)
 > **Code Identifiers:** movies_data (1), user_dataframe (1), ratings_df (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1701,7 +1701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), module (5), let (3), class. (2), this, (1)
+> **Frameworks & Libraries:** etl (10), next (7), web (5), [[Python (Programming Language)|Python]] (5), data (5)
 > **CLI Commands:** apache (6), python (5), mkdir (1), sudo (1), pip (1)
 > **Env Vars:** etl (10), airflow_home (2), edl (1), url (1)
 > **Prerequisites:** set up (2), install (2), initialization (1)
@@ -1713,7 +1713,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980)
@@ -1734,6 +1734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Databases]] (1), [[LinkedIn]] (1), next (1)
 > **Speakers:** - [harshit] (1)
 
 

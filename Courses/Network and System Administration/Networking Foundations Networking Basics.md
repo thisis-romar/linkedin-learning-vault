@@ -38,7 +38,7 @@ tags:
   - topic/devops
   - skill/network-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Networking%20Foundations%20Networking%20Basics.md)
@@ -57,48 +57,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to the network
+  - [Welcome to the network](#welcome-to-the-network)
 - [**1. A Network's Purpose in Life**](#1-a-networks-purpose-in-life) (3 videos)
-  - A high-level look at a network
-  - Benefits of a network
-  - How you're using networking every day
+  - [A high-level look at a network](#a-high-level-look-at-a-network)
+  - [Benefits of a network](#benefits-of-a-network)
+  - [How you're using networking every day](#how-youre-using-networking-every-day)
 - [**2. Network Addresses**](#2-network-addresses) (3 videos)
-  - MAC addresses
-  - IP version 4 addresses
-  - IP version 6 addresses
+  - [MAC addresses](#mac-addresses)
+  - [IP version 4 addresses](#ip-version-4-addresses)
+  - [IP version 6 addresses](#ip-version-6-addresses)
 - [**3. Pieces and Parts of a Network**](#3-pieces-and-parts-of-a-network) (6 videos)
-  - Network interface cards
-  - Switches
-  - Routers
-  - Wireless access points
-  - Copper cabling
-  - Fiber-optic cabling
+  - [Network interface cards](#network-interface-cards)
+  - [Switches](#switches)
+  - [Routers](#routers)
+  - [Wireless access points](#wireless-access-points)
+  - [Copper cabling](#copper-cabling)
+  - [Fiber-optic cabling](#fiber-optic-cabling)
 - [**4. The OSI Model**](#4-the-osi-model) (3 videos)
-  - Learning the seven layers
-  - Comparison to the TCP/IP model
-  - Common protocols to know
+  - [Learning the seven layers](#learning-the-seven-layers)
+  - [Comparison to the TCP/IP model](#comparison-to-the-tcpip-model)
+  - [Common protocols to know](#common-protocols-to-know)
 - [**5. Network Services**](#5-network-services) (5 videos)
-  - DHCP overview
-  - DNS overview
-  - NAT overview
-  - NTP overview
-  - QoS overview
+  - [DHCP overview](#dhcp-overview)
+  - [DNS overview](#dns-overview)
+  - [NAT overview](#nat-overview)
+  - [NTP overview](#ntp-overview)
+  - [QoS overview](#qos-overview)
 - [**6. Wireless Networks**](#6-wireless-networks) (4 videos)
-  - Types of wireless LANs
-  - 2.4 GHz vs. 5 GHz wireless networking
-  - 6 GHz frequency band
-  - Wireless network antenna types
+  - [Types of wireless LANs](#types-of-wireless-lans)
+  - [2.4 GHz vs. 5 GHz wireless networking](#24-ghz-vs-5-ghz-wireless-networking)
+  - [6 GHz frequency band](#6-ghz-frequency-band)
+  - [Wireless network antenna types](#wireless-network-antenna-types)
 - [**7. Emerging Trends in Networking**](#7-emerging-trends-in-networking) (4 videos)
-  - Software-defined networking (SDN)
-  - Virtualization
-  - Cloud technologies
-  - 5G and Wi-Fi 6
+  - [Software-defined networking (SDN)](#software-defined-networking-sdn)
+  - [Virtualization](#virtualization)
+  - [Cloud technologies](#cloud-technologies)
+  - [5G and Wi-Fi 6](#5g-and-wi-fi-6)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Keep networking
+  - [Keep networking](#keep-networking)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/welcome-to-the-network-24998881?u=76281980)
@@ -125,6 +125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1), [[LinkedIn]] (1)
 > **Non-Speech:** (upbeat music) (2)
 > **Env Vars:** ccie (1)
 > **Analogies:** for example (1)
@@ -133,7 +134,7 @@ created: 2026-04-29
 
 ### 1. A Network's Purpose in Life
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A high-level look at a network
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980)
@@ -222,8 +223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (2), [[Local Area Network (LAN)|Local area network]] (2), lan (2), business (2)
 > **Env Vars:** wan (4), cat (2), lan (2), pan (2), man (2)
-> **Code Keywords:** private (2), let (1), finally, (1), public (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** cat (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -282,9 +283,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Office|Office]] (1), next (1), [[Search]] (1), [[Security]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
@@ -321,6 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (2), cloud (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Security]] (1), next (1)
 > **Env Vars:** iot (2), dvr (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - think (1)
@@ -328,7 +330,7 @@ created: 2026-04-29
 
 ### 2. Network Addresses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MAC addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/mac-addresses-25201754?u=76281980)
@@ -373,8 +375,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** mac (9), oui (2), nic (1)
-> **Code Keywords:** interface (1), let (1), switch (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
@@ -430,8 +432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (5), stands for (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** mac (2), nat (1)
 > **Speakers:** - now (1)
 
@@ -480,15 +482,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Scalability]] (1), [[LinkedIn]] (1), [[IP Addressing]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - now (1)
 
 
 ### 3. Pieces and Parts of a Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Network interface cards
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/network-interface-cards-25000814?u=76281980)
@@ -519,8 +521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** nic (11), usb (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - if (1)
 
 #### Switches
@@ -604,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (33), interface (2), let (1)
+> **Frameworks & Libraries:** traffic (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is called (1)
 > **UI Navigation:** switch to (1)
@@ -678,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (10), switch (3), let (2)
+> **Frameworks & Libraries:** [[Routing]] (6), traffic (3), web (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Versions:** 192.168.1 (5), 203.0.113 (2), version 4 (2), 10.1.1 (1), 0.0.0 (1)
 > **Env Vars:** pc1 (5), mac (2), ospf (1)
 > **CLI Commands:** make (3)
@@ -718,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2)
+> **Frameworks & Libraries:** business (2)
 > **Definitions:** is a  (1), is called (1)
 > **Env Vars:** dsl (1)
 > **Cross-References:** later in (1)
@@ -800,8 +802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Env Vars:** hvac (2), t568b (2), utp (1), stp (1), t568a (1)
-> **Code Keywords:** this, (1), let (1), switch (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -877,7 +879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1)
+> **Frameworks & Libraries:** data (2), hit (1)
 > **Env Vars:** smf (1), mmf (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -887,7 +889,7 @@ created: 2026-04-29
 
 ### 4. The OSI Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning the seven layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980)
@@ -990,8 +992,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), dns (4), [[Hardware]] (1), [[IP Addressing]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
 > **Env Vars:** osi (4), dns (4), tcp (2), udp (2), jpeg (2)
-> **Code Keywords:** let (4), function (1), finally, (1), throw (1)
 > **Definitions:** stands for (3), is called (1), short for (1), is an  (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** picture (2), such as (1)
@@ -1032,8 +1034,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), data (2), next (1)
 > **Env Vars:** tcp (7), osi (5)
-> **Code Keywords:** let (2), interface (2), finally, (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -1113,9 +1115,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), next (4), [[LinkedIn]] (3), dns (3), application (2)
 > **Env Vars:** tcp (8), udp (6), ntp (5), dns (3), dhcp (3)
 > **Ports:** port 80 (2), port 443 (1), port 53 (1), port 123 (1), port 67 (1)
-> **Code Keywords:** let (2), super (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
 > **Cross-References:** in the next (2), next chapter (1)
 > **Definitions:** stands for (2), is a  (1)
@@ -1125,7 +1127,7 @@ created: 2026-04-29
 
 ### 5. Network Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DHCP overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/dhcp-overview-25000813?u=76281980)
@@ -1230,9 +1232,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (3), next (1), feature (1)
 > **Env Vars:** dhcp (30), dns (3), dora (1), ndp (1), eui (1)
 > **Versions:** version 6 (6), version 4 (3)
-> **Code Keywords:** let (3), case, (2), finally, (1), interface (1), self (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** such as (2)
@@ -1262,9 +1264,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[LinkedIn]] (3), web (2), traffic (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (8), dhcp (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
-> **Code Keywords:** case, (1), continue (1)
 > **Versions:** 203.0.113 (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - when (1)
@@ -1396,7 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), private (9), public (5), case, (3), continue (1)
+> **Frameworks & Libraries:** web (9), traffic (4), [[Microsoft Word|Word]] (3), business (1), [[Microsoft Office|Office]] (1)
 > **Versions:** 192.0.2 (6), 10.1.1 (4), 203.0.113 (3), 192.0.113 (1)
 > **Env Vars:** nat (10), pat (2)
 > **Definitions:** refers to (4), is called (2), is an  (1)
@@ -1476,10 +1478,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Troubleshooting]] (1)
 > **Env Vars:** ntp (6), udp (2), abc (1)
 > **CLI Commands:** make (2)
 > **File Paths:** d.c (1)
-> **Code Keywords:** this, (1)
 > **Ports:** port 123 (1)
 > **Speakers:** - in (1)
 
@@ -1562,7 +1564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (9), let (5), pass (3)
+> **Frameworks & Libraries:** traffic (20), feature (2), next (2), business (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** imagine (2)
@@ -1572,7 +1574,7 @@ created: 2026-04-29
 
 ### 6. Wireless Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of wireless LANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980)
@@ -1645,8 +1647,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (7), [[Mesh]] (3), [[Security]] (2), power (2), business (1)
 > **Env Vars:** lan (7)
-> **Code Keywords:** let (3), switch (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Code Identifiers:** iphones (1)
@@ -1750,7 +1752,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Versions:** 2.4 (10)
-> **Code Keywords:** let (1), continue (1), case, (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - wireless (1)
 
@@ -1779,6 +1780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ieee (1), wpa3 (1)
 > **Versions:** 2.4 (2)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -1833,7 +1835,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), business (1)
 > **Env Vars:** mimo (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** stands for (1)
@@ -1843,7 +1845,7 @@ created: 2026-04-29
 
 ### 7. Emerging Trends in Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Software-defined networking (SDN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980)
@@ -1932,8 +1934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Representational State Transfer (REST)|Rest]] (3), web (3), [[Security]] (1), express (1)
 > **Env Vars:** sdn (25), rest (3), http (3), api (1), sbi (1)
-> **Code Keywords:** interface (2), switch (2), let (2)
 > **Definitions:** stands for (2), is called (2), in other words (1), is a  (1)
 > **CLI Commands:** make (3), python (1)
 > **API Endpoints:** post  (1), get  (1)
@@ -2013,8 +2015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows]] (6), [[Virtual Machines]] (3), power (1), business (1)
 > **Prerequisites:** install (5)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** docker (1)
 > **Env Vars:** dvd (1)
@@ -2095,7 +2097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), let (3), public (3), for. (2), finally, (1)
+> **Frameworks & Libraries:** cloud (21), data (6), [[Hardware]] (4), power (3), [[Google]] (3)
 > **Env Vars:** vpn (2), hvac (1), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **Definitions:** is called (2)
@@ -2207,8 +2209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[5G]] (16), data (3), power (2), lan (1), [[Windows]] (1)
 > **Definitions:** is a  (3), means that (2), stands for (1), in other words (1), is called (1)
-> **Code Keywords:** let (5), self (1)
 > **Env Vars:** lan (1), vlf (1), ieee (1), qam (1), ofdma (1)
 > **Versions:** 1.5 (1), 2.4 (1), 9.6 (1), 3.5 (1)
 > **Cross-References:** we mentioned (1), coming up (1), earlier in (1)
@@ -2219,7 +2221,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980)
@@ -2244,9 +2246,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[IP Addressing]] (3), [[Wireless Networking]] (3)
 > **Env Vars:** ccnp (1), encore (1)
 > **Cross-References:** we discussed (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 

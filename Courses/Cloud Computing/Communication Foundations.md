@@ -24,7 +24,7 @@ tags:
   - skill/interpersonal-communication
   - skill/professional-communication
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Communication%20Foundations.md)
@@ -43,38 +43,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Communication for career success
+  - [Communication for career success](#communication-for-career-success)
 - [**1. The Four Communication Building Blocks**](#1-the-four-communication-building-blocks) (4 videos)
-  - The four building blocks: People and perspective
-  - The four building blocks: Message
-  - The four building blocks: Context
-  - The four building blocks: Listening
+  - [The four building blocks: People and perspective](#the-four-building-blocks-people-and-perspective)
+  - [The four building blocks: Message](#the-four-building-blocks-message)
+  - [The four building blocks: Context](#the-four-building-blocks-context)
+  - [The four building blocks: Listening](#the-four-building-blocks-listening)
 - [**2. Communication for Common Situations**](#2-communication-for-common-situations) (10 videos)
-  - When you give an update
-  - Tool kit: Giving an update
-  - When you attend meetings
-  - Tool kit: Meetings
-  - When you want to build rapport
-  - Tool kit: Building rapport
-  - When you communicate digitally
-  - Tool kit: Digital communication
-  - Pitching your ideas
-  - Tool kit: Pitching your ideas
+  - [When you give an update](#when-you-give-an-update)
+  - [Tool kit: Giving an update](#tool-kit-giving-an-update)
+  - [When you attend meetings](#when-you-attend-meetings)
+  - [Tool kit: Meetings](#tool-kit-meetings)
+  - [When you want to build rapport](#when-you-want-to-build-rapport)
+  - [Tool kit: Building rapport](#tool-kit-building-rapport)
+  - [When you communicate digitally](#when-you-communicate-digitally)
+  - [Tool kit: Digital communication](#tool-kit-digital-communication)
+  - [Pitching your ideas](#pitching-your-ideas)
+  - [Tool kit: Pitching your ideas](#tool-kit-pitching-your-ideas)
 - [**3. Communication in Difficult Situations**](#3-communication-in-difficult-situations) (8 videos)
-  - When you are nervous
-  - Tool kit: Managing nervousness
-  - When you disagree with someone
-  - Tool kit: Managing disagreement
-  - When you are making an ask
-  - Tool kit: Making an ask
-  - When you are criticized or caught off guard
-  - Tool kit: Criticism
+  - [When you are nervous](#when-you-are-nervous)
+  - [Tool kit: Managing nervousness](#tool-kit-managing-nervousness)
+  - [When you disagree with someone](#when-you-disagree-with-someone)
+  - [Tool kit: Managing disagreement](#tool-kit-managing-disagreement)
+  - [When you are making an ask](#when-you-are-making-an-ask)
+  - [Tool kit: Making an ask](#tool-kit-making-an-ask)
+  - [When you are criticized or caught off guard](#when-you-are-criticized-or-caught-off-guard)
+  - [Tool kit: Criticism](#tool-kit-criticism)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Putting your communication skills into practice
+  - [Putting your communication skills into practice](#putting-your-communication-skills-into-practice)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communication for career success
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/communication-for-career-success?u=76281980)
@@ -101,14 +101,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Speakers:** - business (1), - we (1), - and (1), - [brenda] (1), - improving (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 
 ### 1. The Four Communication Building Blocks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The four building blocks: People and perspective
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-people-and-perspective?u=76281980)
@@ -177,7 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1), coming up (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -242,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), let (1), return. (1), finally, (1)
+> **Frameworks & Libraries:** business (1), next (1)
 > **Analogies:** for example (1), for instance (1)
 > **Cross-References:** later in (1)
 > **Warnings:** be careful (1)
@@ -323,6 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Microsoft Office|Office]] (1), leadership (1), [[LinkedIn]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - communication (1)
 
@@ -389,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), snap (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
@@ -399,7 +400,7 @@ created: 2026-04-29
 
 ### 2. Communication for Common Situations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When you give an update
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980)
@@ -476,8 +477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Market Research]] (2), game (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** for example (1), for instance (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -551,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), this, (1)
+> **Frameworks & Libraries:** next (2), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** coming up (1), go back to (1)
 > **URLs:** [yoodli.ai](https://yoodli.ai) (1)
@@ -679,8 +680,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), express (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Warnings:** be careful (1)
@@ -713,8 +714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), strengths (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** self (1)
 > **Analogies:** for example (1)
 > **Speakers:** - it (1)
 
@@ -797,9 +798,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), ai (2), career (1), [[LinkedIn]] (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** private (1), finally, (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - my (1)
 
@@ -868,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** next (3), game (1), [[Electronics]] (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** switch to (1), go to (1)
 > **Analogies:** for example (1)
@@ -965,8 +966,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), ai (2), prompt (1), express (1), data (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - annabel (1)
 
@@ -1053,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), finally, (2), let (1)
+> **Frameworks & Libraries:** ai (5), next (2), [[Microsoft Word|Word]] (2), data (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** go to (2)
@@ -1152,7 +1153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), this. (1)
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1), teams (1), [[Slack]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Tools:** slack (1)
@@ -1219,14 +1220,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), finally, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - quick (1)
 
 
 ### 3. Communication in Difficult Situations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When you are nervous
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-are-nervous?u=76281980)
@@ -1321,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), raise (1), throw (1), self (1)
+> **Frameworks & Libraries:** power (2), next (1)
 > **Env Vars:** breathe (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)
@@ -1371,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (2)
+> **Frameworks & Libraries:** game (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
@@ -1442,8 +1442,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (4), next (2), [[Microsoft Office|Office]] (1), power (1), leadership (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** from. (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - it (1)
 
@@ -1526,9 +1526,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (2), express (1)
 > **Speakers:** - prepare (1), - thank (1), - definitely (1), - did (1), - both (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** this. (2), let (1)
 
 #### When you are making an ask
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-are-making-an-ask?u=76281980)
@@ -1617,8 +1617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), leadership (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (1), for. (1), else. (1), let (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - need (1)
 
@@ -1679,7 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), let (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), next (1), data (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
@@ -1771,7 +1771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), self (1), let (1)
+> **Frameworks & Libraries:** data (1), leadership (1)
 > **Speakers:** - the (1), - hey (1), - i (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sbi (2)
@@ -1838,7 +1838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), throw (1)
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1848,7 +1848,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting your communication skills into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/putting-your-communication-skills-into-practice?u=76281980)
@@ -1867,9 +1867,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - thank (1), - now (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 
 
 ## Resources

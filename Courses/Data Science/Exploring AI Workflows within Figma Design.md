@@ -33,7 +33,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Exploring%20AI%20Workflows%20within%20Figma%20Design.md)
@@ -52,37 +52,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Explore AI workflows with Figma Design
-  - What you should know
-  - Figma Make and Figma Sites
-  - Use the exercise files
+  - [Explore AI workflows with Figma Design](#explore-ai-workflows-with-figma-design)
+  - [What you should know](#what-you-should-know)
+  - [Figma Make and Figma Sites](#figma-make-and-figma-sites)
+  - [Use the exercise files](#use-the-exercise-files)
 - [**1. Generating Content and Interactions**](#1-generating-content-and-interactions) (7 videos)
-  - Explore the Figma Design project
-  - Generate a set of screens with a text prompt
-  - Auto-wire screens together for prototyping
-  - Generate an image based upon a text prompt
-  - Boost the resolution of an image
-  - Remove an image's background
-  - Edit an image through text prompts
+  - [Explore the Figma Design project](#explore-the-figma-design-project)
+  - [Generate a set of screens with a text prompt](#generate-a-set-of-screens-with-a-text-prompt)
+  - [Auto-wire screens together for prototyping](#auto-wire-screens-together-for-prototyping)
+  - [Generate an image based upon a text prompt](#generate-an-image-based-upon-a-text-prompt)
+  - [Boost the resolution of an image](#boost-the-resolution-of-an-image)
+  - [Remove an image's background](#remove-an-images-background)
+  - [Edit an image through text prompts](#edit-an-image-through-text-prompts)
 - [**2. Modifying and Organizing Content**](#2-modifying-and-organizing-content) (6 videos)
-  - Rename layers in a Figma Design file
-  - Replace existing text content
-  - Rewrite text to better suit the audience
-  - Translate text into different languages
-  - Shorten lengthy text elements
-  - Find assets and design elements
+  - [Rename layers in a Figma Design file](#rename-layers-in-a-figma-design-file)
+  - [Replace existing text content](#replace-existing-text-content)
+  - [Rewrite text to better suit the audience](#rewrite-text-to-better-suit-the-audience)
+  - [Translate text into different languages](#translate-text-into-different-languages)
+  - [Shorten lengthy text elements](#shorten-lengthy-text-elements)
+  - [Find assets and design elements](#find-assets-and-design-elements)
 - [**3. AI in FigJam and Figma Slides**](#3-ai-in-figjam-and-figma-slides) (5 videos)
-  - Use the generate feature in FigJam
-  - Generate a summary in FigJam
-  - Create a Figma Slides outline from FigJam
-  - Draft presenter notes in Figma Slides
-  - Adjust the tone in Figma Slides
+  - [Use the generate feature in FigJam](#use-the-generate-feature-in-figjam)
+  - [Generate a summary in FigJam](#generate-a-summary-in-figjam)
+  - [Create a Figma Slides outline from FigJam](#create-a-figma-slides-outline-from-figjam)
+  - [Draft presenter notes in Figma Slides](#draft-presenter-notes-in-figma-slides)
+  - [Adjust the tone in Figma Slides](#adjust-the-tone-in-figma-slides)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore AI workflows with Figma Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980)
@@ -107,8 +107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), ai (5), [[Prototyping]] (2), [[User Interface Design]] (1), [[LinkedIn]] (1)
 > **Tools:** figma (7)
-> **Code Keywords:** this, (1), interface (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [joseph] (1)
@@ -132,6 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6), ai (2)
 > **Tools:** figma (6)
 > **URLs:** [figma.com](https://figma.com) (1)
 > **Speakers:** - [instructor] (1)
@@ -179,10 +180,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (10), ai (6), [[Microsoft Products|Products]] (2), prompt (2), functional (1)
 > **Tools:** figma (10)
 > **CLI Commands:** make (4)
 > **URLs:** [figma.com](https://figma.com) (3)
-> **Code Keywords:** try. (1)
 > **Speakers:** - [narrator] (1)
 
 #### Use the exercise files
@@ -220,6 +221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6)
 > **Tools:** figma (6)
 > **Exercise Files:** exercise files (2), starter file (1)
 > **CLI Commands:** find (2)
@@ -229,7 +231,7 @@ created: 2026-04-29
 
 ### 1. Generating Content and Interactions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the Figma Design project
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-the-figma-design-project?u=76281980)
@@ -274,10 +276,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6), ai (2)
 > **Tools:** figma (6)
 > **UI Navigation:** drag and drop (1), go to (1)
 > **Exercise Files:** starter project (1), exercise files (1)
-> **Code Keywords:** import. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Generate a set of screens with a text prompt
@@ -407,8 +409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (7), [[Figma (Software)|Figma]] (6), ai (6), feature (2), [[Generative AI]] (1)
 > **CLI Commands:** make (8), find (1)
-> **Code Keywords:** let (5), this, (2), finally, (1)
 > **Tools:** figma (6)
 > **Speakers:** - [instructor] (1)
 
@@ -493,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), interface (1), this, (1), switch (1)
+> **Frameworks & Libraries:** ai (3), feature (2), [[Figma (Software)|Figma]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (3), switch to (1), in the toolbar (1), navigate to (1), go to (1)
 > **Tools:** figma (2)
 > **Speakers:** - [instructor] (1)
@@ -555,8 +557,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), [[Figma (Software)|Figma]] (4), ai (3), [[Generative AI]] (1), [[Google]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (2), this, (1), else. (1)
 > **Tools:** figma (4)
 > **UI Navigation:** click on (3), dropdown (1)
 > **Env Vars:** gpt (1)
@@ -610,7 +612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (2), require (1), let (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ai (2), prompt (1)
 > **Tools:** figma (2)
 > **UI Navigation:** click on (1), in the toolbar (1)
 > **Warnings:** note that (2)
@@ -672,8 +674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ai (1), product (1), prompt (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), this. (1)
 > **Tools:** figma (2)
 > **Analogies:** such as (1), just like (1)
 > **UI Navigation:** click on (1)
@@ -724,8 +726,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), ai (2), prompt (1), [[Adobe Photoshop]] (1)
 > **UI Navigation:** click on (3), in the toolbar (1)
-> **Code Keywords:** this, (1), let (1), this. (1)
 > **Tools:** figma (3)
 > **Analogies:** for instance (1), such as (1)
 > **Definitions:** is an  (1)
@@ -734,7 +736,7 @@ created: 2026-04-29
 
 ### 2. Modifying and Organizing Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rename layers in a Figma Design file
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980)
@@ -783,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), ai (1), [[Jetpack Compose|Compose]] (1), feature (1)
 > **UI Navigation:** click on (1), in the toolbar (1)
 > **Analogies:** for instance (2)
 > **Tools:** figma (1)
@@ -844,7 +846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), ai (1), prompt (1), hit (1), [[Generative AI]] (1)
 > **Env Vars:** ceo (1), cso (1), cmo (1), coo (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** such as (1), similar to (1)
@@ -908,7 +910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), for. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), ai (2), data (2), [[Figma (Software)|Figma]] (1), prompt (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
@@ -972,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ai (2)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** figma (2)
 > **UI Navigation:** click on (2)
@@ -1005,7 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), ai (1), prompt (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
 > **Tools:** figma (1)
@@ -1063,7 +1065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), else. (1), for. (1)
+> **Frameworks & Libraries:** feature (2), [[Figma (Software)|Figma]] (2), ai (2)
 > **CLI Commands:** find (5)
 > **Tools:** figma (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -1073,7 +1075,7 @@ created: 2026-04-29
 
 ### 3. AI in FigJam and Figma Slides
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the generate feature in FigJam
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-generate-feature-in-figjam?u=76281980)
@@ -1134,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), else. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), ai (2), prompt (2), hit (2), next (1)
 > **Tools:** figma (4)
 > **Analogies:** similar to (1), such as (1)
 > **Cross-References:** in the next (1)
@@ -1172,7 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (2), [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
 > **Cross-References:** in the last (1)
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
@@ -1234,8 +1236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), ai (3), feature (1)
 > **Tools:** figma (7)
-> **Code Keywords:** let (4), from. (1), this, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** template (1)
@@ -1273,7 +1275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), continue (1)
+> **Frameworks & Libraries:** ai (3), [[Figma (Software)|Figma]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** figma (2)
 > **Analogies:** for instance (1)
@@ -1330,14 +1332,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), case. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ai (1), feature (1)
 > **Tools:** figma (2)
 > **Speakers:** - [presenter] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/next-steps?u=76281980)
@@ -1356,8 +1358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), ai (4)
 > **Tools:** figma (7)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 

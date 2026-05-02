@@ -29,7 +29,7 @@ tags:
   - skill/tableau
   - skill/data-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Tableau%20and%20R%20for%20Analytics%20Projects.md)
@@ -48,50 +48,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Gain valuable insights using Tableau and R
+  - [Gain valuable insights using Tableau and R](#gain-valuable-insights-using-tableau-and-r)
 - [**1. Introducing Tableau and R**](#1-introducing-tableau-and-r) (5 videos)
-  - Compare the strengths of Tableau and R
-  - How Tableau and R can work together
-  - Install R on a computer
-  - Download and install CRAN packages in R
-  - Run RServe and establish a connection to Tableau
+  - [Compare the strengths of Tableau and R](#compare-the-strengths-of-tableau-and-r)
+  - [How Tableau and R can work together](#how-tableau-and-r-can-work-together)
+  - [Install R on a computer](#install-r-on-a-computer)
+  - [Download and install CRAN packages in R](#download-and-install-cran-packages-in-r)
+  - [Run RServe and establish a connection to Tableau](#run-rserve-and-establish-a-connection-to-tableau)
 - [**2. Preparing for Analysis Using Tableau and R**](#2-preparing-for-analysis-using-tableau-and-r) (5 videos)
-  - Import data into R
-  - Create calculations in R
-  - Import data into Tableau
-  - Create a visualization in Tableau
-  - Create a calculated field in Tableau
+  - [Import data into R](#import-data-into-r)
+  - [Create calculations in R](#create-calculations-in-r)
+  - [Import data into Tableau](#import-data-into-tableau)
+  - [Create a visualization in Tableau](#create-a-visualization-in-tableau)
+  - [Create a calculated field in Tableau](#create-a-calculated-field-in-tableau)
 - [**3. Creating and Visualizing Linear Regression Models**](#3-creating-and-visualizing-linear-regression-models) (5 videos)
-  - Describe linear regression and multiple regression models
-  - Create single- and multiple-variable linear regression models
-  - Analyze regression variables for significance
-  - Visualize data for linear regression in Tableau
-  - Add an R regression model to a Tableau viz
+  - [Describe linear regression and multiple regression models](#describe-linear-regression-and-multiple-regression-models)
+  - [Create single- and multiple-variable linear regression models](#create-single--and-multiple-variable-linear-regression-models)
+  - [Analyze regression variables for significance](#analyze-regression-variables-for-significance)
+  - [Visualize data for linear regression in Tableau](#visualize-data-for-linear-regression-in-tableau)
+  - [Add an R regression model to a Tableau viz](#add-an-r-regression-model-to-a-tableau-viz)
 - [**4. Classifying Data Using Logistic Regression**](#4-classifying-data-using-logistic-regression) (4 videos)
-  - Describe logistic regression algorithms
-  - Create a logistic regression model
-  - Visualize data for logistic regression in Tableau
-  - Add an R logistic regression model to a Tableau viz
+  - [Describe logistic regression algorithms](#describe-logistic-regression-algorithms)
+  - [Create a logistic regression model](#create-a-logistic-regression-model)
+  - [Visualize data for logistic regression in Tableau](#visualize-data-for-logistic-regression-in-tableau)
+  - [Add an R logistic regression model to a Tableau viz](#add-an-r-logistic-regression-model-to-a-tableau-viz)
 - [**5. Classifying Data Using Support Vector Machines**](#5-classifying-data-using-support-vector-machines) (4 videos)
-  - Describe support vector machine algorithms
-  - Create a support vector machine model
-  - Visualize support vector machine data in Tableau
-  - Add an R support vector machine model to a Tableau viz
+  - [Describe support vector machine algorithms](#describe-support-vector-machine-algorithms)
+  - [Create a support vector machine model](#create-a-support-vector-machine-model)
+  - [Visualize support vector machine data in Tableau](#visualize-support-vector-machine-data-in-tableau)
+  - [Add an R support vector machine model to a Tableau viz](#add-an-r-support-vector-machine-model-to-a-tableau-viz)
 - [**6. Grouping Data Using Cluster Analysis**](#6-grouping-data-using-cluster-analysis) (4 videos)
-  - Describe cluster analysis
-  - Do cluster analysis in R
-  - Troubleshoot cluster analysis in Tableau
-  - Write cluster data to a CSV file for use in Tableau
+  - [Describe cluster analysis](#describe-cluster-analysis)
+  - [Do cluster analysis in R](#do-cluster-analysis-in-r)
+  - [Troubleshoot cluster analysis in Tableau](#troubleshoot-cluster-analysis-in-tableau)
+  - [Write cluster data to a CSV file for use in Tableau](#write-cluster-data-to-a-csv-file-for-use-in-tableau)
 - [**7. Classifying Data Using Random Forests**](#7-classifying-data-using-random-forests) (3 videos)
-  - Describe random forest analysis
-  - Create a random forest analysis model in R
-  - Visualize data for random forest analysis in Tableau
+  - [Describe random forest analysis](#describe-random-forest-analysis)
+  - [Create a random forest analysis model in R](#create-a-random-forest-analysis-model-in-r)
+  - [Visualize data for random forest analysis in Tableau](#visualize-data-for-random-forest-analysis-in-tableau)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further resources
+  - [Further resources](#further-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gain valuable insights using Tableau and R
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/gain-valuable-insights-using-tableau-and-r?u=76281980)
@@ -108,14 +108,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), power (3), data (2), business (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [curt] (1)
 
 
 ### 1. Introducing Tableau and R
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compare the strengths of Tableau and R
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/compare-the-strengths-of-tableau-and-r?u=76281980)
@@ -162,7 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Tableau]] (4), strengths (1)
 > **Tools:** command line (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
@@ -253,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), from, (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** data (10), [[Tableau]] (6), next (3), [[Supervised Learning]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** cran (1)
@@ -341,6 +341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), next (6), [[Linux]] (2), [[Tableau]] (1), open-source (1)
 > **Prerequisites:** install (6), setup (1)
 > **Versions:** 4.5.1 (3)
 > **CLI Commands:** find (1), make (1)
@@ -348,7 +349,6 @@ created: 2026-04-29
 > **URLs:** [r-project.org](https://r-project.org) (1)
 > **Env Vars:** cran (1)
 > **Definitions:** is an  (1)
-> **Speakers:** - [instructor] (1)
 
 #### Download and install CRAN packages in R
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/download-and-install-cran-packages-in-r?u=76281980)
@@ -391,10 +391,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (1), data (1), [[Programming]] (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Warnings:** warning (2)
 > **Prerequisites:** install (2)
-> **Code Keywords:** interface (1)
 > **Env Vars:** cran (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -476,8 +476,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Analytics]] (2), data (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** switch (1), type. (1)
 > **Env Vars:** gui (1), usa (1)
 > **UI Navigation:** scroll down (1), open the (1)
 > **CLI Commands:** find (1)
@@ -487,7 +487,7 @@ created: 2026-04-29
 
 ### 2. Preparing for Analysis Using Tableau and R
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Import data into R
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980)
@@ -582,7 +582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), type. (1), let (1), function (1), import. (1)
+> **Frameworks & Libraries:** data (9), [[Windows]] (2), [[Tableau]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dim (2), sep (1)
 > **Definitions:** is a  (2), means that (1)
@@ -717,8 +717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4), short for (1)
-> **Code Keywords:** case, (2), interface (1), function (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rgy (1)
 > **Cross-References:** go back to (1)
@@ -777,10 +777,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Tableau]] (5), [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (2), [[JSON]] (1)
 > **UI Navigation:** double-click (1), scroll down (1), go to (1), select the (1)
 > **Env Vars:** json (1), pdf (1), sql (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** case, (2)
 > **CLI Commands:** mysql (1)
 > **Speakers:** - [narrator] (1)
 
@@ -869,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), from. (1), case. (1)
+> **Frameworks & Libraries:** data (11), product (6), [[Tableau]] (1), next (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** o204 (1)
 > **Cross-References:** go back to (1)
@@ -934,9 +934,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Tableau]] (4), product (4), next (1), power (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** year (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -945,7 +945,7 @@ created: 2026-04-29
 
 ### 3. Creating and Visualizing Linear Regression Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe linear regression and multiple regression models
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-linear-regression-and-multiple-regression-models?u=76281980)
@@ -990,8 +990,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (4), data (3)
 > **Versions:** 573.59 (2), 8.0339 (1), 0.42 (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Warnings:** be careful (1)
@@ -1124,11 +1124,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Linear Regression]] (3), [[Forms]] (1), next (1)
 > **Versions:** 733.6 (1), 0.507 (1), 733.60 (1), 378.23 (1), 2.45 (1)
 > **Definitions:** is a  (3), short for (1), in other words (1)
 > **Env Vars:** csv (1), sep (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you need to have (1)
@@ -1276,9 +1276,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Linear Regression]] (1), next (1)
 > **Versions:** 378.233 (1), 2.45 (1), 10.621 (1), 543.30 (1), 32.8 (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** csv (1), sep (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -1338,6 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Linear Regression]] (3), [[Tableau]] (2)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -1500,10 +1501,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (10), [[Tableau]] (7), [[Analytics]] (1)
 > **UI Navigation:** go to (4), switch to (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** switch (1), delete (1)
 > **Env Vars:** script_real (1), avg (1)
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** exercise files (1)
@@ -1512,7 +1513,7 @@ created: 2026-04-29
 
 ### 4. Classifying Data Using Logistic Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe logistic regression algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-logistic-regression-algorithms?u=76281980)
@@ -1533,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), data (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1665,10 +1666,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), next (1)
 > **Definitions:** is a  (6), means that (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), continue (1)
 > **Cross-References:** go back to (1), in the last (1)
 > **File Paths:** testdata.csv (1)
 > **Env Vars:** pred (1)
@@ -1707,6 +1708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Logistic Regression]] (3), [[Tableau]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1838,7 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (6), [[Tableau]] (6), next (3), [[Analytics]] (2), [[Logistic Regression]] (1)
 > **UI Navigation:** go to (2), select the (1), right-click (1), scroll down (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
@@ -1850,7 +1852,7 @@ created: 2026-04-29
 
 ### 5. Classifying Data Using Support Vector Machines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe support vector machine algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-support-vector-machine-algorithms?u=76281980)
@@ -1873,7 +1875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2058,8 +2060,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), next (2), [[Supervised Learning]] (1), [[Algorithms]] (1), product (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
-> **Code Keywords:** case, (1), type = (1), switch (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** svm_test (2)
 > **Env Vars:** cran (2)
@@ -2100,6 +2102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Tableau]] (2), product (1), next (1)
 > **Env Vars:** svm (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -2261,9 +2264,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Tableau]] (6), product (1), [[Analytics]] (1)
 > **Non-Speech:** (keys clicking) (7)
 > **CLI Commands:** find (3), make (3)
-> **Code Keywords:** let (2), try. (1), finally, (1), function (1)
 > **Env Vars:** svm (3), script_int (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (4)
@@ -2273,7 +2276,7 @@ created: 2026-04-29
 
 ### 6. Grouping Data Using Cluster Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe cluster analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980)
@@ -2328,8 +2331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (4), [[Microsoft Products|Products]] (1), [[Security]] (1), next (1)
 > **Env Vars:** vba (3)
-> **Code Keywords:** case, (1), continue (1)
 > **Versions:** 5.28 (1), 4.14 (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -2403,10 +2406,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Algorithms]] (2), [[Microsoft Excel]] (1)
 > **Definitions:** is a  (1), short for (1), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** csv (2)
-> **Code Keywords:** case, (1)
 > **Versions:** 90.3 (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** right-click (1)
@@ -2525,10 +2528,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (7), data (6), next (3), [[Analytics]] (3)
 > **Cross-References:** in the next (2), later in (1)
 > **UI Navigation:** go to (2), in the sidebar (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** function (1), let (1)
 > **Definitions:** is a  (2)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** exercise files (1)
@@ -2689,7 +2692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), switch (1)
+> **Frameworks & Libraries:** data (20), [[Tableau]] (7), [[Microsoft Excel|Excel]] (2), product (1)
 > **File Paths:** write.csv (2), clusterdata.csv (1), clusterassignment.csv (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (2)
@@ -2701,7 +2704,7 @@ created: 2026-04-29
 
 ### 7. Classifying Data Using Random Forests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe random forest analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-random-forest-analysis?u=76281980)
@@ -2726,6 +2729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Algorithms]] (1), [[Decision Trees]] (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
@@ -2942,7 +2946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), class. (1), class, (1), case, (1)
+> **Frameworks & Libraries:** data (14), [[Tableau]] (1), next (1)
 > **File Paths:** glasstrain.csv (1), glasstest.csv (1), write.csv (1), predictions.csv (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** randomforest (3)
@@ -3010,8 +3014,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Tableau]] (4), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** else, (1), case, (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (1), means that (1)
@@ -3021,7 +3025,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980)
@@ -3062,6 +3066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (4), data (4), web (1), career (1)
 > **CLI Commands:** find (1)
 > **URLs:** [tableau.com](https://tableau.com) (1)
 > **UI Navigation:** go to (1)

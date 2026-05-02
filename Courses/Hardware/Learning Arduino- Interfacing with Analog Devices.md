@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Arduino-%20Interfacing%20with%20Analog%20Devices.md)
@@ -49,57 +49,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Integrating analog devices with Arduino
-  - What you should know before watching
+  - [Integrating analog devices with Arduino](#integrating-analog-devices-with-arduino)
+  - [What you should know before watching](#what-you-should-know-before-watching)
 - [**1. Analog Inputs**](#1-analog-inputs) (14 videos)
-  - What are analog devices?
-  - Understanding analog-to-digital converters
-  - Exploring our temperature sensor (TMP37)
-  - Understanding how to interpret the sensor values
-  - Interpreting the sensor values
-  - Wiring up the temperature sensor
-  - Coding to read the temperature sensor
-  - LDR (light-dependent resistor) sensor
-  - Using a voltage divider with our LDR
-  - Wiring up our LDR circuit
-  - Coding to read the LDR circuit
-  - Joystick module
-  - Wiring up our joystick
-  - Coding the joystick circuit
+  - [What are analog devices?](#what-are-analog-devices)
+  - [Understanding analog-to-digital converters](#understanding-analog-to-digital-converters)
+  - [Exploring our temperature sensor (TMP37)](#exploring-our-temperature-sensor-tmp37)
+  - [Understanding how to interpret the sensor values](#understanding-how-to-interpret-the-sensor-values)
+  - [Interpreting the sensor values](#interpreting-the-sensor-values)
+  - [Wiring up the temperature sensor](#wiring-up-the-temperature-sensor)
+  - [Coding to read the temperature sensor](#coding-to-read-the-temperature-sensor)
+  - [LDR (light-dependent resistor) sensor](#ldr-light-dependent-resistor-sensor)
+  - [Using a voltage divider with our LDR](#using-a-voltage-divider-with-our-ldr)
+  - [Wiring up our LDR circuit](#wiring-up-our-ldr-circuit)
+  - [Coding to read the LDR circuit](#coding-to-read-the-ldr-circuit)
+  - [Joystick module](#joystick-module)
+  - [Wiring up our joystick](#wiring-up-our-joystick)
+  - [Coding the joystick circuit](#coding-the-joystick-circuit)
 - [**2. Analog Outputs**](#2-analog-outputs) (8 videos)
-  - How Arduino generates analog output
-  - Understanding pulse-width modulation (PWM)
-  - Understanding the analogWrite function with PWM
-  - Wire up an LED
-  - Write code to use PWM with the LED
-  - Understanding the map() function
-  - Wiring a potentiometer to control LED
-  - Coding to control the LED with a potentiometer
+  - [How Arduino generates analog output](#how-arduino-generates-analog-output)
+  - [Understanding pulse-width modulation (PWM)](#understanding-pulse-width-modulation-pwm)
+  - [Understanding the analogWrite function with PWM](#understanding-the-analogwrite-function-with-pwm)
+  - [Wire up an LED](#wire-up-an-led)
+  - [Write code to use PWM with the LED](#write-code-to-use-pwm-with-the-led)
+  - [Understanding the map() function](#understanding-the-map-function)
+  - [Wiring a potentiometer to control LED](#wiring-a-potentiometer-to-control-led)
+  - [Coding to control the LED with a potentiometer](#coding-to-control-the-led-with-a-potentiometer)
 - [**3. Interfacing with a Stepper Motor**](#3-interfacing-with-a-stepper-motor) (8 videos)
-  - Stepper motor introduction
-  - Unipolar stepper motors
-  - Stepper motor driver board ULN2003
-  - Wiring a stepper motor to Arduino
-  - Coding to control the motor directly
-  - Exploring the Stepper Library
-  - Coding for the stepper motor
-  - Coding using the Stepper() function
+  - [Stepper motor introduction](#stepper-motor-introduction)
+  - [Unipolar stepper motors](#unipolar-stepper-motors)
+  - [Stepper motor driver board ULN2003](#stepper-motor-driver-board-uln2003)
+  - [Wiring a stepper motor to Arduino](#wiring-a-stepper-motor-to-arduino)
+  - [Coding to control the motor directly](#coding-to-control-the-motor-directly)
+  - [Exploring the Stepper Library](#exploring-the-stepper-library)
+  - [Coding for the stepper motor](#coding-for-the-stepper-motor)
+  - [Coding using the Stepper() function](#coding-using-the-stepper-function)
 - [**4. Projects**](#4-projects) (9 videos)
-  - Using the joystick to control LEDs
-  - Wiring up the joystick and LEDs
-  - Coding for the joystick and LEDs
-  - Using an LDR sensor to control a motor
-  - Wiring
-  - Coding the LDR and sensor
-  - Using a joystick to control a motor
-  - Wiring up the joystick and motor
-  - Coding the joystick and motor
+  - [Using the joystick to control LEDs](#using-the-joystick-to-control-leds)
+  - [Wiring up the joystick and LEDs](#wiring-up-the-joystick-and-leds)
+  - [Coding for the joystick and LEDs](#coding-for-the-joystick-and-leds)
+  - [Using an LDR sensor to control a motor](#using-an-ldr-sensor-to-control-a-motor)
+  - [Wiring](#wiring)
+  - [Coding the LDR and sensor](#coding-the-ldr-and-sensor)
+  - [Using a joystick to control a motor](#using-a-joystick-to-control-a-motor)
+  - [Wiring up the joystick and motor](#wiring-up-the-joystick-and-motor)
+  - [Coding the joystick and motor](#coding-the-joystick-and-motor)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating analog devices with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/integrating-analog-devices-with-arduino?u=76281980)
@@ -122,7 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[Arduino]] (2), [[Engineering]] (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** ldr (1)
 > **Speakers:** - when (1)
@@ -156,16 +156,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (6), [[Programming Concepts]] (1), [[Programming]] (1), [[Hardware]] (1), [[Electronics]] (1)
 > **Env Vars:** tmp37 (1), lm35 (1), ldr (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Analog Inputs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are analog devices?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-are-analog-devices?u=76281980)
@@ -206,9 +206,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** led (1), tmp37 (1), lm35 (1), ldr (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** interface (1), switch (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -249,8 +249,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (6)
 > **Env Vars:** adc (6)
-> **Code Keywords:** let (1), case, (1)
 > **Versions:** 3.3 (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -302,6 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (7), power (1)
 > **Env Vars:** tmp37 (2)
 > **Versions:** 2.7 (1), 5.5 (1)
 > **Analogies:** for example (1)
@@ -352,8 +353,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (5), data (3)
 > **Env Vars:** tmp37 (3), tmp36 (1), ied (1)
-> **Code Keywords:** let (3), type, (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.5 (1)
 > **Analogies:** for example (1)
@@ -387,8 +388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** adc (1)
 > **Versions:** 26.8 (1)
 > **Definitions:** is an  (1)
@@ -418,7 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Coding to read the temperature sensor
@@ -498,7 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), default. (1), from. (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** analogpin (3), analogreference (2), analogread (2)
 > **Non-Speech:** (keyboard sounds) (6)
 > **UI Navigation:** go to (3)
@@ -546,9 +547,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** ldr (5), lrd (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [narrator] (1)
 
 #### Using a voltage divider with our LDR
@@ -628,9 +629,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (6)
 > **Env Vars:** ldr (16), adc (2)
 > **Definitions:** in other words (2), means that (1)
-> **Code Keywords:** let (1), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -671,6 +672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** ldr (7)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -750,9 +752,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Env Vars:** ldr (7)
 > **Code Identifiers:** sensorpin (3), sensorvalue (3)
-> **Code Keywords:** if. (1), from, (1), let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
@@ -800,7 +802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), module (1)
+> **Frameworks & Libraries:** [[Arduino]] (4), game (1), [[Programming]] (1)
 > **Env Vars:** gnd (1), vcc (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -828,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), finally, (1)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **UI Navigation:** go to (1), switch to (1)
 > **Env Vars:** vcc (1)
 > **Speakers:** - [instructor] (1)
@@ -898,9 +900,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Non-Speech:** (typing on computer) (14)
 > **Code Identifiers:** xpin (2), ypin (2), pinmode (1), digitalwrite (1), keypin (1)
-> **Code Keywords:** finally, (3), switch (2), let (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -910,7 +912,7 @@ created: 2026-04-29
 
 ### 2. Analog Outputs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How Arduino generates analog output
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/how-arduino-generates-analog-output?u=76281980)
@@ -935,6 +937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** dac (2), adc (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -983,7 +986,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** means that (3), is called (2), is a  (1)
-> **Code Keywords:** let (1), interface (1)
 > **Env Vars:** pwm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1010,7 +1012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), function (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** analogwrite (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1039,6 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **Env Vars:** led (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1094,6 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** led (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1133,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), case, (1)
+> **Frameworks & Libraries:** [[Arduino]] (1), next (1)
 > **Code Identifiers:** fromlow (1), fromhigh (1), tohigh (1), fromvalue (1), tovalue (1)
 > **Env Vars:** led (3)
 > **UI Navigation:** go to (1)
@@ -1169,6 +1173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** led (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1229,9 +1234,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Arduino]] (1)
 > **Code Identifiers:** outputvalue (3), ledpin (2), inputvalue (2), pinmode (2), analogpin (1)
 > **Env Vars:** led (7), output (1), input (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** setup (1)
@@ -1240,7 +1245,7 @@ created: 2026-04-29
 
 ### 3. Interfacing with a Stepper Motor
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stepper motor introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-introduction?u=76281980)
@@ -1283,6 +1288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Arduino]] (1)
 > **Definitions:** is a  (1), is an  (1), is called (1)
 > **Env Vars:** nema (1)
 > **Speakers:** - stepper (1)
@@ -1324,6 +1330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3)
 > **Speakers:** - [instructor] (1)
 
 #### Stepper motor driver board ULN2003
@@ -1351,8 +1358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), power (2)
 > **Env Vars:** uln2003 (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Wiring a stepper motor to Arduino
@@ -1390,6 +1397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3), power (2)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1446,7 +1454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), continue (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Representational State Transfer (REST)|Rest]] (3), next (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Code Identifiers:** digitalwrite (1)
 > **Analogies:** for example (1)
@@ -1526,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2)
+> **Frameworks & Libraries:** data (5), [[Arduino]] (3), bi (1), application (1), [[Hardware]] (1)
 > **Versions:** 5.625 (2), 11.25 (1)
 > **Env Vars:** led (2)
 > **CLI Commands:** find (1)
@@ -1611,7 +1619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** led (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
@@ -1699,7 +1707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (1), case, (1), pass (1)
+> **Frameworks & Libraries:** [[Arduino]] (2), data (2), next (1)
 > **CLI Commands:** make (6), find (2)
 > **Code Identifiers:** setspeed (2), stepsperrevolution (1), stepsperevolution (1)
 > **UI Navigation:** click on (2)
@@ -1711,7 +1719,7 @@ created: 2026-04-29
 
 ### 4. Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the joystick to control LEDs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-the-joystick-to-control-leds?u=76281980)
@@ -1757,6 +1765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -1856,9 +1865,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), next (1), [[Arduino]] (1)
 > **Code Identifiers:** xvalue (2), redx (2), ypin (2), yellowz (2), xpin (1)
 > **Env Vars:** led (10)
-> **Code Keywords:** finally, (3), function (2), let (1)
 > **UI Navigation:** open the (1), go to (1)
 > **Exercise Files:** starter file (2)
 > **CLI Commands:** make (1)
@@ -1896,8 +1905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ldr (4)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1952,8 +1961,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** ldr (8)
-> **Code Keywords:** function (6), let (1)
 > **Code Identifiers:** sensorvalue (2), setspeed (1), motorspeed (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** setup (1)
@@ -1982,6 +1991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **Speakers:** - [instructor] (1)
 
 #### Wiring up the joystick and motor
@@ -2094,8 +2104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** xvalue (6), xpin (2), ypin (1), keypin (1), pinmode (1)
-> **Code Keywords:** function (6)
 > **UI Navigation:** open the (1), go to (1)
 > **Exercise Files:** starter file (2)
 > **Prerequisites:** setup (1)
@@ -2104,7 +2114,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/next-steps?u=76281980)
@@ -2115,6 +2125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Arduino]] (7), [[Hardware]] (1), [[LinkedIn]] (1), [[Prototyping]] (1)
 > **Env Vars:** led (1), lcd (1)
 > **Speakers:** - thanks (1)
 

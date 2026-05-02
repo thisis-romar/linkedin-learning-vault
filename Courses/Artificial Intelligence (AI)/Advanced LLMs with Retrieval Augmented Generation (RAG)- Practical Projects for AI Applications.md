@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20LLMs%20with%20Retrieval%20Augmented%20Generation%20(RAG)-%20Practical%20Projects%20for%20AI%20Applications.md)
@@ -53,34 +53,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Course introductions
-  - Understanding the basics of RAG
-  - Building a simple RAG example
-  - Issues with simple RAG
+  - [Course introductions](#course-introductions)
+  - [Understanding the basics of RAG](#understanding-the-basics-of-rag)
+  - [Building a simple RAG example](#building-a-simple-rag-example)
+  - [Issues with simple RAG](#issues-with-simple-rag)
 - [**1. Text Encoding Using Embedding Vectors**](#1-text-encoding-using-embedding-vectors) (6 videos)
-  - Embedding introduction
-  - Hands-on lab: Embedding tokenization
-  - Hands-on lab: Embedding vocabulary
-  - Hands-on lab: Sentence embedding
-  - Hands-on lab: Content embedding
-  - Embedding notebook summary
+  - [Embedding introduction](#embedding-introduction)
+  - [Hands-on lab: Embedding tokenization](#hands-on-lab-embedding-tokenization)
+  - [Hands-on lab: Embedding vocabulary](#hands-on-lab-embedding-vocabulary)
+  - [Hands-on lab: Sentence embedding](#hands-on-lab-sentence-embedding)
+  - [Hands-on lab: Content embedding](#hands-on-lab-content-embedding)
+  - [Embedding notebook summary](#embedding-notebook-summary)
 - [**2. Document Chunking and Enrichment Strategies**](#2-document-chunking-and-enrichment-strategies) (6 videos)
-  - Chunking introduction
-  - Hands-on lab: Semantic chunking
-  - Chunking overview
-  - Hands-on lab: Contextual retrieval
-  - Query document alignment
-  - Hands-on lab: Reverse HyDE
+  - [Chunking introduction](#chunking-introduction)
+  - [Hands-on lab: Semantic chunking](#hands-on-lab-semantic-chunking)
+  - [Chunking overview](#chunking-overview)
+  - [Hands-on lab: Contextual retrieval](#hands-on-lab-contextual-retrieval)
+  - [Query document alignment](#query-document-alignment)
+  - [Hands-on lab: Reverse HyDE](#hands-on-lab-reverse-hyde)
 - [**3. Improving Document Retrieval**](#3-improving-document-retrieval) (5 videos)
-  - Hybrid search introduction
-  - Hands-on lab: Hybrid search
-  - Hands-on lab: Reranking
-  - Multimodal retrieval introduction
-  - Hands-on lab: Multimodal PDF retrieval
+  - [Hybrid search introduction](#hybrid-search-introduction)
+  - [Hands-on lab: Hybrid search](#hands-on-lab-hybrid-search)
+  - [Hands-on lab: Reranking](#hands-on-lab-reranking)
+  - [Multimodal retrieval introduction](#multimodal-retrieval-introduction)
+  - [Hands-on lab: Multimodal PDF retrieval](#hands-on-lab-multimodal-pdf-retrieval)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introductions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980)
@@ -173,8 +173,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (12), llm (4), ai (4), data (3), database (3)
 > **Env Vars:** rag (12), llm (4)
-> **Code Keywords:** class. (1), let (1)
 > **Tools:** jupyter (1)
 > **Definitions:** known as (1)
 > **Analogies:** similar to (1)
@@ -272,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), prompt (3), rag (3), application (2), [[Semantic Search]] (1)
 > **Env Vars:** rag (3), llm (1), poc (1)
-> **Code Keywords:** let (2), case, (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -448,9 +448,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (6), database (5), rag (5), [[Rust (Programming Language)|Rust]] (4), data (4)
 > **Env Vars:** rag (5), llm (3), csv (1)
 > **CLI Commands:** python (3), make (3), pip (1), find (1)
-> **Code Keywords:** static (1), function (1), match. (1), let (1)
 > **Tools:** github (2), jupyter (1), visual studio (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** setup (1), install (1)
@@ -540,7 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** rag (2), generic (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), application (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** rag (2)
 > **CLI Commands:** make (1)
@@ -550,7 +550,7 @@ created: 2026-04-29
 
 ### 1. Text Encoding Using Embedding Vectors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embedding introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980)
@@ -711,8 +711,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (16), rag (2), game (2), [[Large Language Models (LLM)|Large language models]] (1), [[Generative AI]] (1)
 > **CLI Commands:** find (6), make (2)
-> **Code Keywords:** pass (2), let (1), continue (1), self (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** rag (2)
 > **UI Navigation:** go to (1)
@@ -810,7 +810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), match, (1)
+> **Frameworks & Libraries:** [[Tokens]] (7), [[Microsoft Word|Word]] (4), open-source (3), llm (1), [[Gemini]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** llm (1), gpt (1)
 > **UI Navigation:** go to (1)
@@ -983,7 +983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), self (1), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Tokens]] (20), [[Microsoft Word|Word]] (11), [[Zoom]] (3), [[Security]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (2)
 > **CLI Commands:** find (1)
@@ -1046,7 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Tokens]] (3)
 > **Versions:** 0.1 (1), 0.5 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
@@ -1190,10 +1190,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Tokens]] (2), bi (1), data (1), prompt (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 0.5 (1), 0.6 (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** gpu (1)
 > **Speakers:** - so (1)
 
@@ -1216,7 +1216,7 @@ created: 2026-04-29
 
 ### 2. Document Chunking and Enrichment Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Chunking introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980)
@@ -1315,8 +1315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), rag (2), application (2), [[Representational State Transfer (REST)|Rest]] (1), [[Tokens]] (1)
 > **Definitions:** is a  (5), is an  (2)
-> **Code Keywords:** let (4), case. (1), include, (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** rag (2)
 > **Speakers:** - let (1)
@@ -1488,7 +1488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), abstract (2), pass (1), break. (1)
+> **Frameworks & Libraries:** [[Metadata]] (6), [[Statistics]] (3), rag (2), next (2), application (1)
 > **Definitions:** is a  (8)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** rag (2)
@@ -1582,9 +1582,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (9), next (4), [[Tokens]] (3), application (2), [[Metadata]] (1)
 > **Env Vars:** llm (9)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), case, (1)
 > **Cross-References:** in the next (1), as we saw (1), we talked about (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - the (1)
@@ -1702,7 +1702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), else. (1)
+> **Frameworks & Libraries:** prompt (5), cloud (4), data (3), llm (2), ai (1)
 > **Definitions:** is a  (6)
 > **Env Vars:** llm (2), xml (1)
 > **Speakers:** - to (1)
@@ -1818,10 +1818,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), [[Vector Databases]] (1), [[Semantic Search]] (1), database (1), [[Probability]] (1)
 > **Env Vars:** llm (5)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** similar to (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - to (1)
 
@@ -1924,7 +1924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), class. (2), pass (1)
+> **Frameworks & Libraries:** [[Search]] (4), prompt (2), llm (2), database (2), api (1)
 > **Versions:** 0.82 (2), 0.5 (2), 3.5 (1)
 > **Env Vars:** llm (2), gpt (1), api (1)
 > **Code Identifiers:** get_embedding (1), generate_reverse_hyde (1)
@@ -1935,7 +1935,7 @@ created: 2026-04-29
 
 ### 3. Improving Document Retrieval
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid search introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980)
@@ -1982,8 +1982,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Microsoft Word|Word]] (2), [[Semantic Search]] (1), [[Probability]] (1), database (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - we (1)
 
@@ -2158,7 +2158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Search]] (15), [[Microsoft Word|Word]] (10), [[Tokens]] (5), [[Python (Programming Language)|Python]] (2), next (2)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 1.1 (1), 0.2 (1), 0.8 (1), 3.5 (1)
 > **CLI Commands:** python (2), make (1)
@@ -2252,9 +2252,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), llm (4), next (1), [[Hugging Face]] (1)
 > **Env Vars:** llm (4), gpt (1)
 > **Versions:** 7.1 (2), 5.0 (1), 3.3 (1), 3.5 (1)
-> **Code Keywords:** let (3), self (1)
 > **Definitions:** is a  (2), is called (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - we (1)
@@ -2322,7 +2322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), function (1)
+> **Frameworks & Libraries:** application (2), [[Vector Databases]] (1), database (1), [[Representational State Transfer (REST)|Rest]] (1), game (1)
 > **Env Vars:** ocr (1), p99 (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2565,7 +2565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (2)
+> **Frameworks & Libraries:** database (9), [[Search]] (6), data (5), [[Hugging Face]] (1), [[Tokens]] (1)
 > **Env Vars:** pdf (5), gpu (1), ram (1), llm (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Versions:** 0.99 (1), 14.19 (1), 3.5 (1)

@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress-%20Speeding%20Up%20Your%20Site.md)
@@ -47,41 +47,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Make your WordPress website lightning fast
-  - What you should know
+  - [Make your WordPress website lightning fast](#make-your-wordpress-website-lightning-fast)
+  - [What you should know](#what-you-should-know)
 - [**1. Fundamentals of Performance**](#1-fundamentals-of-performance) (4 videos)
-  - Why speed is important for websites
-  - How to check and monitor your speed
-  - How websites slow down
-  - Static vs. dynamic sites
+  - [Why speed is important for websites](#why-speed-is-important-for-websites)
+  - [How to check and monitor your speed](#how-to-check-and-monitor-your-speed)
+  - [How websites slow down](#how-websites-slow-down)
+  - [Static vs. dynamic sites](#static-vs-dynamic-sites)
 - [**2. Hosting**](#2-hosting) (3 videos)
-  - Why hosting matters
-  - PHP versions
-  - Server location
+  - [Why hosting matters](#why-hosting-matters)
+  - [PHP versions](#php-versions)
+  - [Server location](#server-location)
 - [**3. Media**](#3-media) (5 videos)
-  - Optimize images
-  - Install an image optimizing plug-in
-  - Use a content delivery network (CDN)
-  - Offload audio and video files
-  - Use lazy loading
+  - [Optimize images](#optimize-images)
+  - [Install an image optimizing plug-in](#install-an-image-optimizing-plug-in)
+  - [Use a content delivery network (CDN)](#use-a-content-delivery-network-cdn)
+  - [Offload audio and video files](#offload-audio-and-video-files)
+  - [Use lazy loading](#use-lazy-loading)
 - [**4. Plugins and Themes**](#4-plugins-and-themes) (3 videos)
-  - Your theme matters
-  - Plugins: Quality over quantity
-  - Concatenate and minify scripts and styles
+  - [Your theme matters](#your-theme-matters)
+  - [Plugins: Quality over quantity](#plugins-quality-over-quantity)
+  - [Concatenate and minify scripts and styles](#concatenate-and-minify-scripts-and-styles)
 - [**5. Database**](#5-database) (3 videos)
-  - WordPress database structure
-  - Custom database tables
-  - Limit post revisions
+  - [WordPress database structure](#wordpress-database-structure)
+  - [Custom database tables](#custom-database-tables)
+  - [Limit post revisions](#limit-post-revisions)
 - [**6. Caching**](#6-caching) (3 videos)
-  - What is caching?
-  - Configuring caching plugins
-  - Cache busting
+  - [What is caching?](#what-is-caching)
+  - [Configuring caching plugins](#configuring-caching-plugins)
+  - [Cache busting](#cache-busting)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make your WordPress website lightning fast
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980)
@@ -112,6 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (8), [[Search]] (2), [[Content Management]] (1), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [patrick] (1)
 
@@ -144,7 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), next (2), [[HTML]] (1), css (1), [[JavaScript]] (1)
 > **Env Vars:** html (1), css (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **CLI Commands:** find (1)
@@ -153,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why speed is important for websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980)
@@ -224,8 +225,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), web (2), [[Lead Generation]] (1), [[E-Commerce]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** case, (1), let (1)
 > **Best Practices:** rule of thumb (2)
 > **Env Vars:** seo (1)
 > **Definitions:** is a  (1)
@@ -316,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (1)
+> **Frameworks & Libraries:** [[Google]] (4), web (2), [[HTML]] (1), feature (1), [[WordPress]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
 > **Env Vars:** html (1), url (1)
@@ -448,12 +449,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), [[WordPress]] (5), [[Search]] (3), [[Google]] (3), [[PHP]] (2)
 > **Env Vars:** http (7), html (6), fcp (5), lcp (4), ttfb (3)
 > **CLI Commands:** make (3), php (2)
 > **Definitions:** is called (3), is a  (1), basically means (1)
 > **Versions:** 1.1 (1), 0.9 (1), 1.2 (1)
 > **Analogies:** imagine (1), for instance (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
@@ -504,7 +505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (6), let (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (3), web (2), [[HTML]] (1), next (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Env Vars:** html (1)
 > **Cross-References:** later in (1)
@@ -514,7 +515,7 @@ created: 2026-04-29
 
 ### 2. Hosting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why hosting matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980)
@@ -603,10 +604,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (8), [[PHP]] (5), web (4), [[WordPress]] (2), css (1)
 > **Env Vars:** html (7), php (5), cpu (2), css (1), ram (1)
 > **CLI Commands:** php (5)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** static (2), for. (1)
 > **File Paths:** yoursite.com/readme.html (1)
 > **URLs:** [yoursite.com](https://yoursite.com) (1)
 > **Versions:** 1.5 (1)
@@ -661,11 +662,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (10), [[WordPress]] (3), data (1), [[Drupal]] (1)
 > **CLI Commands:** php (10), make (3), find (1)
 > **Env Vars:** php (10), phpbb (1)
 > **Versions:** php 5 (2), 7.4 (2), 7.0 (1), 1.8 (1), version 7 (1)
 > **UI Navigation:** scroll down (3), go to (1), click on (1)
-> **Code Keywords:** case, (2), this. (1), this, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** always make sure (1)
 > **Prerequisites:** make sure you have (1)
@@ -741,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** web (6), game (2), data (1)
 > **Versions:** 1.37 (3), 2.1 (2), 2.9 (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** url (1)
@@ -752,7 +753,7 @@ created: 2026-04-29
 
 ### 3. Media
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize images
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980)
@@ -889,8 +890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Google]] (1), data (1), feature (1)
 > **Env Vars:** png (10), jpg (4), svg (4), jpeg (1)
-> **Code Keywords:** case, (2), let (2), export. (1), default. (1), case. (1)
 > **CLI Commands:** make (3)
 > **Versions:** 7.1 (1), 1.2 (1)
 > **Definitions:** is a  (2)
@@ -951,7 +952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), default, (1)
+> **Frameworks & Libraries:** api (3), data (2), game (1), [[WordPress]] (1)
 > **Env Vars:** api (3)
 > **Versions:** 1.5 (1), 5.2 (1), 3.6 (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -1056,8 +1057,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), css (5), [[JavaScript]] (5), [[WordPress]] (4), feature (1)
 > **Env Vars:** cdn (24), css (5), url (1)
-> **Code Keywords:** static (3), let (3), this, (1)
 > **Versions:** 2.7 (1), 2.8 (1), 0.1 (1)
 > **Analogies:** similar to (1), it's like (1), think of it as (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (1), [wordpress.org](https://wordpress.org) (1)
@@ -1132,8 +1133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), css (4), web (4), [[WordPress]] (2), game (1)
 > **Env Vars:** css (4)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** download the (1)
 > **Analogies:** just like (1)
@@ -1219,7 +1220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (1), case, (1)
+> **Frameworks & Libraries:** [[Web Development]] (1)
 > **UI Navigation:** scroll down (4), go to (2), click on (1)
 > **Versions:** 1.5 (1), 4.7 (1), 0.4 (1), 4.1 (1), 1.01 (1)
 > **Env Vars:** cdn (1), url (1)
@@ -1231,7 +1232,7 @@ created: 2026-04-29
 
 ### 4. Plugins and Themes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your theme matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/your-theme-matters?u=76281980)
@@ -1346,7 +1347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), from. (1), include. (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), data (3), hit (1)
 > **Versions:** 1.8 (3), 3.9 (1), 1.2 (1), 4.7 (1), 3.7 (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** go to (5)
@@ -1496,8 +1497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (4), [[AJAX]] (4), [[Forms]] (3), next (2), [[WordPress]] (2)
 > **CLI Commands:** find (6), make (2), php (2)
-> **Code Keywords:** let (5), case. (1), delete (1)
 > **Env Vars:** php (2), seo (1), post (1)
 > **UI Navigation:** scroll down (2), go to (2)
 > **Definitions:** is a  (3)
@@ -1618,8 +1619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (12), [[JavaScript]] (9), web (2), data (1), [[Debugging]] (1)
 > **Env Vars:** css (10), tcp (1), url (1)
-> **Code Keywords:** let (6), break. (2), delete (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3), scroll down (2)
 > **Definitions:** is called (1), is a  (1), is an  (1)
@@ -1630,7 +1631,7 @@ created: 2026-04-29
 
 ### 5. Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### WordPress database structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980)
@@ -1709,8 +1710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (16), [[WordPress]] (13), data (4), [[Databases]] (2), [[PHP]] (1)
 > **Code Identifiers:** wp_posts (3), wp_postmeta (3), oembed (1), phpmyadmin (1)
-> **Code Keywords:** let (5), from. (1), interface (1)
 > **CLI Commands:** php (1), make (1), mysql (1), find (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Env Vars:** php (1), seo (1)
@@ -1776,8 +1777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[WooCommerce]] (5), data (4), [[WordPress]] (1), web (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -1869,7 +1870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (3), case, (1), this. (1), new. (1)
+> **Frameworks & Libraries:** database (8), [[SQL]] (4), data (3), [[Search]] (2), feature (1)
 > **Env Vars:** sql (4), delete (1), css (1)
 > **CLI Commands:** make (4), mysql (1)
 > **Code Identifiers:** post_type (2), mysql (1), phpmyadmin (1), post_types (1)
@@ -1881,7 +1882,7 @@ created: 2026-04-29
 
 ### 6. Caching
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is caching?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980)
@@ -1968,9 +1969,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), [[PHP]] (5), database (5), [[HTML]] (3), data (2)
 > **Env Vars:** php (5), html (3), css (1)
 > **CLI Commands:** php (5), make (1), find (1)
-> **Code Keywords:** let (3), static (2)
 > **Prerequisites:** configure (2), set up (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2046,7 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), database (1), hit (1)
 > **Versions:** 1.8 (1), 0.7 (1), 3.2 (1)
 > **Env Vars:** gzip (1), cdn (1)
 > **CLI Commands:** make (1)
@@ -2110,8 +2111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[WordPress]] (1), [[JavaScript]] (1)
 > **File Paths:** style.v2.css (1), style-v2.css (1), style.css (1)
-> **Code Keywords:** let (1), finally, (1), this. (1)
 > **Env Vars:** cdn (2), css (1)
 > **CLI Commands:** make (2)
 > **API Endpoints:** /v2/your (1)
@@ -2122,7 +2123,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/next-steps?u=76281980)
@@ -2171,7 +2172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Search]] (1), [[Programming]] (1)
 > **URLs:** [speakinginbytes.com](https://speakinginbytes.com) (1)
 > **Cross-References:** we covered (1)
 > **Warnings:** keep in mind (1)

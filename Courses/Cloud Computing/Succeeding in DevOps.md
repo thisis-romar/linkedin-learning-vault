@@ -36,7 +36,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Succeeding%20in%20DevOps.md)
@@ -55,26 +55,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Your role as a DevOps engineer
-  - Setting the stage for DevOps
+  - [Your role as a DevOps engineer](#your-role-as-a-devops-engineer)
+  - [Setting the stage for DevOps](#setting-the-stage-for-devops)
 - [**1. Getting Started**](#1-getting-started) (3 videos)
-  - What is unique about DevOps?
-  - DevOps qualifications and training
-  - Learning and hands-on experience in DevOps
+  - [What is unique about DevOps?](#what-is-unique-about-devops)
+  - [DevOps qualifications and training](#devops-qualifications-and-training)
+  - [Learning and hands-on experience in DevOps](#learning-and-hands-on-experience-in-devops)
 - [**2. Pathways to DevOps**](#2-pathways-to-devops) (3 videos)
-  - DevOps skills for developers
-  - The Ops in DevOps
-  - Entry-level DevOps
+  - [DevOps skills for developers](#devops-skills-for-developers)
+  - [The Ops in DevOps](#the-ops-in-devops)
+  - [Entry-level DevOps](#entry-level-devops)
 - [**3. Increasing Your Chances of Success**](#3-increasing-your-chances-of-success) (3 videos)
-  - Success tips from a DevOps recruiter
-  - Being a change agent DevOps
-  - Achieving your DevOps goals
+  - [Success tips from a DevOps recruiter](#success-tips-from-a-devops-recruiter)
+  - [Being a change agent DevOps](#being-a-change-agent-devops)
+  - [Achieving your DevOps goals](#achieving-your-devops-goals)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about DevOps
+  - [Learning more about DevOps](#learning-more-about-devops)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your role as a DevOps engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/your-role-as-a-devops-engineer-15039480?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[DevOps]] (9), career (1), business (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -128,14 +128,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (2)
+> **Frameworks & Libraries:** product (2), [[Software Development]] (1), [[DevOps]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - historically (1)
 
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is unique about DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980)
@@ -178,8 +178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (15), functional (1), product (1), [[System Administration]] (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1)
 > **Documentation:** specification (1)
 > **Speakers:** - you (1)
 
@@ -214,7 +214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** [[DevOps]] (8), management (1), [[Agile Development|Agile]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), cloud (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** required to (1)
@@ -267,7 +267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), application (2), [[Virtualization]] (1), web (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -277,7 +277,7 @@ created: 2026-04-29
 
 ### 2. Pathways to DevOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps skills for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980)
@@ -306,6 +306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[DevOps]] (2), [[Engineering]] (1), [[Software Development]] (1), [[Version Control]] (1)
 > **CLI Commands:** git (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - one (1)
@@ -339,6 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Troubleshooting]] (1), [[Virtualization]] (1), teams (1), [[Automation]] (1)
 > **Prerequisites:** set up (1), required to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -379,6 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (5), career (2), [[Automation]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Programming]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** python (1), aws (1), make (1)
@@ -390,7 +393,7 @@ created: 2026-04-29
 
 ### 3. Increasing Your Chances of Success
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Success tips from a DevOps recruiter
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980)
@@ -541,9 +544,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (12), business (3), [[Search]] (2), career (2), next (2)
 > **Speakers:** - yeah (5), - i (2), - awesome (2), - hey (1), - cool (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (2), this. (1)
 > **URLs:** [enjinia.io](https://enjinia.io) (1)
 > **Env Vars:** qbq (1)
 > **Definitions:** is a  (1)
@@ -606,7 +609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new. (1), finally, (1)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[Engineering]] (2), [[Software Development]] (1), [[Agile Software Development]] (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** such as (1)
@@ -680,9 +683,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (6), next (2), web application (2), [[Linux]] (2), career (1)
 > **CLI Commands:** make (3), python (1), ruby (1)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** osi (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
@@ -692,7 +695,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/learning-more-about-devops?u=76281980)
@@ -715,6 +718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - thanks (1)
 

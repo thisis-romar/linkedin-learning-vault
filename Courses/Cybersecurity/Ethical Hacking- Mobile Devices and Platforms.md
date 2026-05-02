@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Mobile%20Devices%20and%20Platforms.md)
@@ -48,46 +48,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Keeping your mobile devices safe
-  - Before watching this course
-  - Course disclaimer
+  - [Keeping your mobile devices safe](#keeping-your-mobile-devices-safe)
+  - [Before watching this course](#before-watching-this-course)
+  - [Course disclaimer](#course-disclaimer)
 - [**1. Mobile Technology**](#1-mobile-technology) (4 videos)
-  - Understand and test for mobile vulnerabilities
-  - Static analysis of applications
-  - Dynamic analysis of applications
-  - Mobile web testing
+  - [Understand and test for mobile vulnerabilities](#understand-and-test-for-mobile-vulnerabilities)
+  - [Static analysis of applications](#static-analysis-of-applications)
+  - [Dynamic analysis of applications](#dynamic-analysis-of-applications)
+  - [Mobile web testing](#mobile-web-testing)
 - [**2. Android**](#2-android) (12 videos)
-  - Understanding the Android operating system
-  - Understanding the Android security model
-  - Preparing for Android testing
-  - Extracting and reading the manifest file
-  - Extracting and reading JavaScript code
-  - Recreating Java source code with JAD
-  - Browsing applications directly with JADX
-  - Getting command-line access with ADB
-  - Install an Android emulator from the SDK
-  - Dynamic analysis of Android applications
-  - Using Drozer to analyze applications
-  - Checking for scam phones
+  - [Understanding the Android operating system](#understanding-the-android-operating-system)
+  - [Understanding the Android security model](#understanding-the-android-security-model)
+  - [Preparing for Android testing](#preparing-for-android-testing)
+  - [Extracting and reading the manifest file](#extracting-and-reading-the-manifest-file)
+  - [Extracting and reading JavaScript code](#extracting-and-reading-javascript-code)
+  - [Recreating Java source code with JAD](#recreating-java-source-code-with-jad)
+  - [Browsing applications directly with JADX](#browsing-applications-directly-with-jadx)
+  - [Getting command-line access with ADB](#getting-command-line-access-with-adb)
+  - [Install an Android emulator from the SDK](#install-an-android-emulator-from-the-sdk)
+  - [Dynamic analysis of Android applications](#dynamic-analysis-of-android-applications)
+  - [Using Drozer to analyze applications](#using-drozer-to-analyze-applications)
+  - [Checking for scam phones](#checking-for-scam-phones)
 - [**3. iOS**](#3-ios) (8 videos)
-  - iOS applications and vulnerabilities
-  - Securing iOS applications by design
-  - Jailbreaking for command-line access
-  - More jailbreak and extractor tools
-  - Preparing to test iOS applications
-  - Extracting properties and class headers
-  - Disassembling iOS executable code
-  - Advancing into dynamic analysis of iOS
+  - [iOS applications and vulnerabilities](#ios-applications-and-vulnerabilities)
+  - [Securing iOS applications by design](#securing-ios-applications-by-design)
+  - [Jailbreaking for command-line access](#jailbreaking-for-command-line-access)
+  - [More jailbreak and extractor tools](#more-jailbreak-and-extractor-tools)
+  - [Preparing to test iOS applications](#preparing-to-test-ios-applications)
+  - [Extracting properties and class headers](#extracting-properties-and-class-headers)
+  - [Disassembling iOS executable code](#disassembling-ios-executable-code)
+  - [Advancing into dynamic analysis of iOS](#advancing-into-dynamic-analysis-of-ios)
 - [**4. Security Shepherd**](#4-security-shepherd) (3 videos)
-  - Taking a look at Security Shepherd
-  - Watching for bad cryptography
-  - Insecure data when in developer mode
+  - [Taking a look at Security Shepherd](#taking-a-look-at-security-shepherd)
+  - [Watching for bad cryptography](#watching-for-bad-cryptography)
+  - [Insecure data when in developer mode](#insecure-data-when-in-developer-mode)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping your mobile devices safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/keeping-your-mobile-devices-safe?u=76281980)
@@ -110,7 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), let (1)
+> **Frameworks & Libraries:** business (2), [[Security]] (1), career (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
@@ -133,8 +133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), [[Ubuntu]] (1), [[Android]] (1)
 > **Code Identifiers:** iphone (1), ipad (1), ios (1)
-> **Code Keywords:** interface (1), require (1)
 > **Tools:** command line (2)
 > **Env Vars:** gnome (1)
 > **Definitions:** is a  (1)
@@ -165,14 +165,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Microsoft Products|Products]] (1), open-source (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Mobile Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand and test for mobile vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980)
@@ -283,9 +283,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), [[OWASP]] (6), application (6), data (5), mobile application (3)
 > **Env Vars:** owasp (6), ssl (1), md4 (1), md5 (1)
 > **Definitions:** is a  (3), is an  (2), known as (1)
-> **Code Keywords:** let (1), function (1), static (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
@@ -386,8 +386,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (17), data (9), [[Security]] (7), business (3), [[OWASP]] (3)
 > **Env Vars:** owasp (3), gps (1), usb (1), api (1), html (1)
-> **Code Keywords:** public (4), static (2), case, (1)
 > **Analogies:** such as (6), for example (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Exercise Files:** source code (2)
@@ -430,6 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (13), data (3), [[Security]] (1), web (1), [[JavaScript]] (1)
 > **Env Vars:** imei (1), html (1), xml (1)
 > **Definitions:** is called (1), is an  (1)
 > **Exercise Files:** source code (1)
@@ -462,16 +463,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Burp Suite]] (5), web (5), traffic (4), application (1), [[Android]] (1)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Android
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the Android operating system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980)
@@ -592,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), delete (1)
+> **Frameworks & Libraries:** [[Android]] (27), application (19), [[Linux]] (10), [[Security]] (3), [[Google]] (2)
 > **Definitions:** is a  (4), known as (1), is called (1)
 > **Env Vars:** arm (1), cpu (1), aot (1), sql (1)
 > **CLI Commands:** chmod (1), ls (1)
@@ -686,8 +687,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (19), application (18), data (8), [[Security]] (5), [[Linux]] (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** self (1), default, (1), require (1), interface (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** wpa3 (1)
 > **Analogies:** such as (1)
@@ -734,10 +735,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (5), [[Java]] (2), [[Windows]] (1)
 > **Env Vars:** sdk (6), jre (1)
 > **Prerequisites:** install (5)
 > **Versions:** 8.01 (1), 8.02 (1), java 8 (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** select the (1), click on (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
@@ -861,8 +862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), [[Android]] (8), [[Google]] (3), [[Search]] (2), api (2)
 > **Env Vars:** apk (8), url (4), sms (3), api (2), xml (1)
-> **Code Keywords:** let (6), default, (1), private (1)
 > **Versions:** version 2 (2), 4.0 (1), 2.17 (1), version 5 (1)
 > **File Paths:** androidmanifest.xml (2), apktool.yml (1)
 > **Prerequisites:** install (2), you'll need (1)
@@ -965,9 +966,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (11), [[Android]] (7), [[Java]] (5), [[Windows]] (4), [[JavaScript]] (1)
 > **Env Vars:** gui (3), sms (3), apk (2), bat (1), api (1)
 > **Exercise Files:** source code (5), zip file (2)
-> **Code Keywords:** module (3), let (2), class, (1)
 > **UI Navigation:** click on (1), scroll down (1), open the (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Tools:** bash (1)
@@ -1014,6 +1015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), application (2), [[Android]] (1)
 > **Env Vars:** gui (4), sms (4), apk (1), jar (1)
 > **Exercise Files:** source code (4)
 > **CLI Commands:** find (1)
@@ -1064,8 +1066,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), application (4), [[Android]] (1), [[GitHub]] (1)
 > **Env Vars:** jadx (5), apk (2), gui (1), sms (1), xml (1)
-> **Code Keywords:** this, (2), let (1), interface (1), class, (1), function (1)
 > **UI Navigation:** click on (3), open the (2), navigate to (1)
 > **File Paths:** manifest.xml (1)
 > **Tools:** github (1)
@@ -1192,8 +1194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (12), application (4), [[Debugging]] (3), data (2), feature (1)
 > **Env Vars:** adb (11), apk (4), usb (3), odex (3), sdk (2)
-> **Code Keywords:** let (5), this: (1), this, (1), protected (1), this. (1)
 > **Tools:** command line (2), bash (1)
 > **Prerequisites:** install (3)
 > **Definitions:** is called (1), is a  (1)
@@ -1258,9 +1260,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (8), api (1), prompt (1)
 > **Env Vars:** sdk (3), arm (1), eabi (1), api (1), wsvta (1)
 > **UI Navigation:** select the (3), scroll down (1)
-> **Code Keywords:** let (2), while, (1)
 > **Versions:** 4.4.2 (3)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1436,8 +1438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (13), data (8), [[Databases]] (5), application (4), next (2)
 > **Tools:** slack (13)
-> **Code Keywords:** let (11)
 > **Env Vars:** url (2), t2e39pbe1 (2), apk (1), adb (1), lan (1)
 > **Prerequisites:** install (3), setup (3)
 > **Definitions:** is a  (5)
@@ -1562,7 +1564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (2), switch (1), static (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Android]] (1), [[GitHub]] (1), [[Windows]] (1), [[Java]] (1)
 > **Env Vars:** jdk (2), fortify (1), mwr (1), labs (1), gui (1)
 > **Tools:** github (1), command line (1), slack (1)
 > **CLI Commands:** find (2)
@@ -1630,8 +1632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (1), prompt (1)
 > **Env Vars:** p40 (3), ram (3), cpu (2), mtk6799 (2), dcim (1)
-> **Code Keywords:** let (7)
 > **CLI Commands:** cat (2)
 > **Documentation:** specification (1)
 > **UI Navigation:** go to (1)
@@ -1641,7 +1643,7 @@ created: 2026-04-29
 
 ### 3. iOS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### iOS applications and vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980)
@@ -1738,10 +1740,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (34), data (15), web (3), [[Security]] (1), management (1)
 > **Code Identifiers:** ios (9)
 > **Env Vars:** url (2), uuid (1), xml (1), utf (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** require (1)
 > **URLs:** [batman.app](https://batman.app) (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
@@ -1834,7 +1836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), protected (2), default, (2), function (1)
+> **Frameworks & Libraries:** application (9), data (6), [[Security]] (3), feature (3), [[Hardware]] (2)
 > **Code Identifiers:** ios (4), iboot (2), idevices (1)
 > **Analogies:** such as (3), similar to (1)
 > **Env Vars:** rom (1), arm (1), api (1)
@@ -2005,8 +2007,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), [[Search]] (3), database (3), [[Security]] (2), data (2)
 > **Code Identifiers:** iphone (9), ios (5)
-> **Code Keywords:** let (5), var (4), this, (1), default, (1), function (1)
 > **CLI Commands:** find (5), ssh (1)
 > **Env Vars:** sms (2), usb (1), ssid (1), ssh (1), dcim (1)
 > **Versions:** 9.2 (1), 9.3 (1), 7.1.2 (1), 192.168.1 (1)
@@ -2045,9 +2047,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1), web (1), [[Simulation]] (1)
 > **Code Identifiers:** ios (5)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (1), this. (1)
 > **Env Vars:** rpc (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -2141,7 +2143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), static (2), let (1), this, (1)
+> **Frameworks & Libraries:** application (6), [[Windows]] (3), next (2), [[Engineering]] (2), data (1)
 > **Env Vars:** ipa (2), ssh (1), ios (1), url (1), ida (1)
 > **Prerequisites:** install (5)
 > **Code Identifiers:** ios (4)
@@ -2267,7 +2269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), static (2), switch (2), interface (2), private (1)
+> **Frameworks & Libraries:** application (18), [[Windows]] (3), [[Forms]] (1), next (1)
 > **Env Vars:** ipa (2), png (1), plist (1), uuid (1), e36f9e3e (1)
 > **UI Navigation:** navigate to (2), open the (1), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -2455,7 +2457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), this, (1), static (1)
+> **Frameworks & Libraries:** application (6), [[Engineering]] (2), data (2), [[Ubuntu]] (2), [[Search]] (2)
 > **Env Vars:** ida (7)
 > **UI Navigation:** click on (4), select the (2), scroll down (1)
 > **Code Identifiers:** ios (4)
@@ -2599,8 +2601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (11), web (6), data (3), database (2), mobile application (1)
 > **Env Vars:** url (2), uuid (1), e36f (1), tjc (1), mac (1)
-> **Code Keywords:** let (3), static (2), function (1)
 > **UI Navigation:** click on (2), scroll down (2), select the (1)
 > **Code Identifiers:** ios (1), ksec (1), hellosnoopi (1), irate (1)
 > **CLI Commands:** make (2), find (1)
@@ -2611,7 +2613,7 @@ created: 2026-04-29
 
 ### 4. Security Shepherd
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking a look at Security Shepherd
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980)
@@ -2674,7 +2676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (1), pass (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Android]] (2), [[OWASP]] (1), [[Mobile Testing]] (1), management (1)
 > **Versions:** 10.0.2 (4)
 > **Env Vars:** owasp (1), apk (1), adb (1)
 > **Ports:** port 5555 (1), :5555 (1)
@@ -2732,7 +2734,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
 > **UI Navigation:** click on (2), select the (1), scroll up (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** ascii (2)
@@ -2799,7 +2800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), continue (1)
+> **Frameworks & Libraries:** data (10), [[Databases]] (3), database (2), [[Android]] (1), application (1)
 > **Env Vars:** adb (2), varchar (2), sql (1)
 > **CLI Commands:** cat (2), make (1), cd (1)
 > **UI Navigation:** click on (1), select the (1), navigate to (1)
@@ -2811,7 +2812,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980)
@@ -2844,6 +2845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (3), [[Kali Linux]] (2), cloud (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

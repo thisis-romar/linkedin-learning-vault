@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/marketing-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics-%20Marketing%20Data%20(2022).md)
@@ -47,35 +47,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Gaining marketing insights
+  - [Gaining marketing insights](#gaining-marketing-insights)
 - [**1. Intro to Marketing Data**](#1-intro-to-marketing-data) (4 videos)
-  - The value of data
-  - Common challenges
-  - Data source map
-  - Types of analysis
+  - [The value of data](#the-value-of-data)
+  - [Common challenges](#common-challenges)
+  - [Data source map](#data-source-map)
+  - [Types of analysis](#types-of-analysis)
 - [**2. Marketing Data Metrics and Goals**](#2-marketing-data-metrics-and-goals) (3 videos)
-  - Tools for studying your data
-  - Metrics to track
-  - Goals in Google Analytics
+  - [Tools for studying your data](#tools-for-studying-your-data)
+  - [Metrics to track](#metrics-to-track)
+  - [Goals in Google Analytics](#goals-in-google-analytics)
 - [**3. Utilizing Data Visualization**](#3-utilizing-data-visualization) (3 videos)
-  - Data visualization basics
-  - Reporting infrastructure
-  - Marketing dashboard
+  - [Data visualization basics](#data-visualization-basics)
+  - [Reporting infrastructure](#reporting-infrastructure)
+  - [Marketing dashboard](#marketing-dashboard)
 - [**4. Evaluating Your Marketing**](#4-evaluating-your-marketing) (4 videos)
-  - Key performance indicators
-  - Click-through rates
-  - Open rates
-  - Finding insights in dashboards
+  - [Key performance indicators](#key-performance-indicators)
+  - [Click-through rates](#click-through-rates)
+  - [Open rates](#open-rates)
+  - [Finding insights in dashboards](#finding-insights-in-dashboards)
 - [**5. Resources for Business Analytics**](#5-resources-for-business-analytics) (3 videos)
-  - Engaging with community forums
-  - Utilizing Reddit
-  - Watching YouTube
+  - [Engaging with community forums](#engaging-with-community-forums)
+  - [Utilizing Reddit](#utilizing-reddit)
+  - [Watching YouTube](#watching-youtube)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Time to analyze
+  - [Time to analyze](#time-to-analyze)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gaining marketing insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980)
@@ -104,14 +104,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Analytics]] (4), power (1), business (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - as (1)
 
 
 ### 1. Intro to Marketing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980)
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return. (2), let (1)
+> **Frameworks & Libraries:** data (7), [[Email Marketing]] (1), business (1), [[LinkedIn]] (1), management (1)
 > **Ports:** :00 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - marketing (1)
@@ -210,8 +210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Google]] (3), [[Analytics]] (3), [[Tableau]] (1), power (1)
 > **Analogies:** such as (1), picture (1)
-> **Code Keywords:** this. (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
@@ -272,10 +272,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), product (3), feature (2), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
 > **Definitions:** is an  (1), means that (1), in other words (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -314,6 +314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (9), data (5), [[Forms]] (1), [[Linear Regression]] (1), [[Predictive Analytics]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -321,7 +322,7 @@ created: 2026-04-29
 
 ### 2. Marketing Data Metrics and Goals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools for studying your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980)
@@ -382,10 +383,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Microsoft Excel|Excel]] (3), [[Analytics]] (2), next (2), [[Tableau]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** vba (1), vlookup (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** function (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -432,8 +433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Lead Generation]] (2), product (1), [[Marketing Analytics]] (1), [[Email Marketing]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
@@ -484,16 +485,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), [[Analytics]] (2), [[Lead Generation]] (2), product (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Utilizing Data Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data visualization basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980)
@@ -556,9 +557,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Dashboards]] (2), business (2), power (1), bi (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -610,6 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), traffic (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (2), for instance (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -661,6 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Google]] (5), [[Analytics]] (5), [[Tableau]] (3), power (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (1)
@@ -669,7 +672,7 @@ created: 2026-04-29
 
 ### 4. Evaluating Your Marketing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key performance indicators
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980)
@@ -744,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this. (1)
+> **Frameworks & Libraries:** data (12), next (3), [[Email Marketing]] (2), [[Tableau]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** kpi (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** toggle (1)
@@ -782,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[Tableau]] (1), data (1), [[Analytics]] (1)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [narrator] (1)
 
@@ -819,7 +822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), type, (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (2), [[Tableau]] (2), data (1)
 > **UI Navigation:** click on (2), right-click (1)
 > **Speakers:** - [instructor] (1)
 
@@ -866,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1), type, (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (5), data (4), [[Tableau]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -875,7 +878,7 @@ created: 2026-04-29
 
 ### 5. Resources for Business Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Engaging with community forums
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/engaging-with-community-forums?u=76281980)
@@ -906,7 +909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** [[Tableau]] (8), [[Marketing Analytics]] (2), data (2), [[Analytics]] (1), [[Search]] (1)
 > **Exercise Files:** download the (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -948,6 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Tableau]] (1), power (1), bi (1), [[Analytics]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -982,13 +986,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Analytics]] (4), [[Marketing Analytics]] (2), [[Search]] (2), [[Google]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time to analyze
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980)
@@ -1017,6 +1021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (7), [[Marketing Analytics]] (5), [[LinkedIn]] (2), data (1), career (1)
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)
 

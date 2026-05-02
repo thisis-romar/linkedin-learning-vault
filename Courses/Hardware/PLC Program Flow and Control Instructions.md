@@ -28,7 +28,7 @@ tags:
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/PLC%20Program%20Flow%20and%20Control%20Instructions.md)
@@ -47,41 +47,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - PLC program flow and control
-  - What you should know before watching
+  - [PLC program flow and control](#plc-program-flow-and-control)
+  - [What you should know before watching](#what-you-should-know-before-watching)
 - [**1. Bit Shift Register**](#1-bit-shift-register) (6 videos)
-  - Concepts of bits and words
-  - Bit shift registers intro
-  - Bit shift register parameters
-  - BSL instruction (bit shift left)
-  - BSR instruction (bit shift right)
-  - BSL instruction demonstration
+  - [Concepts of bits and words](#concepts-of-bits-and-words)
+  - [Bit shift registers intro](#bit-shift-registers-intro)
+  - [Bit shift register parameters](#bit-shift-register-parameters)
+  - [BSL instruction (bit shift left)](#bsl-instruction-bit-shift-left)
+  - [BSR instruction (bit shift right)](#bsr-instruction-bit-shift-right)
+  - [BSL instruction demonstration](#bsl-instruction-demonstration)
 - [**2. Word Shift Operations**](#2-word-shift-operations) (9 videos)
-  - Word shift operations intro
-  - First in, first out (FIFO) instruction
-  - FFL (FIFO load) parameters, part 1
-  - FFL (FIFO load) parameters, part 2
-  - FFU (FIFO unload) parameters
-  - Illustrate FIFO operation: Example
-  - Illustrate FFL operation, part 1
-  - Illustrate FFL operation, part 2
-  - Example program
+  - [Word shift operations intro](#word-shift-operations-intro)
+  - [First in, first out (FIFO) instruction](#first-in-first-out-fifo-instruction)
+  - [FFL (FIFO load) parameters, part 1](#ffl-fifo-load-parameters-part-1)
+  - [FFL (FIFO load) parameters, part 2](#ffl-fifo-load-parameters-part-2)
+  - [FFU (FIFO unload) parameters](#ffu-fifo-unload-parameters)
+  - [Illustrate FIFO operation: Example](#illustrate-fifo-operation-example)
+  - [Illustrate FFL operation, part 1](#illustrate-ffl-operation-part-1)
+  - [Illustrate FFL operation, part 2](#illustrate-ffl-operation-part-2)
+  - [Example program](#example-program)
 - [**3. Program Flow Control Instructions**](#3-program-flow-control-instructions) (9 videos)
-  - Intro to program control instructions
-  - Jump (JMP) to label (LBL) instructions
-  - Master control rest (MCR) instruction
-  - Difference between JMP and MCR
-  - Introduction to subroutines
-  - Jump to subroutine (JSR) instruction
-  - Subroutine (SBR) instruction
-  - Return from subroutine (RET)
-  - Nested subroutines
+  - [Intro to program control instructions](#intro-to-program-control-instructions)
+  - [Jump (JMP) to label (LBL) instructions](#jump-jmp-to-label-lbl-instructions)
+  - [Master control rest (MCR) instruction](#master-control-rest-mcr-instruction)
+  - [Difference between JMP and MCR](#difference-between-jmp-and-mcr)
+  - [Introduction to subroutines](#introduction-to-subroutines)
+  - [Jump to subroutine (JSR) instruction](#jump-to-subroutine-jsr-instruction)
+  - [Subroutine (SBR) instruction](#subroutine-sbr-instruction)
+  - [Return from subroutine (RET)](#return-from-subroutine-ret)
+  - [Nested subroutines](#nested-subroutines)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PLC program flow and control
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980)
@@ -108,6 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (5), [[Programming]] (3), [[LinkedIn]] (2), [[Microsoft Word|Word]] (1), [[Engineering]] (1)
 > **Env Vars:** plc (5), mcr (1)
 > **Analogies:** similar to (1), just like (1)
 > **Speakers:** - [zahraa] (1)
@@ -133,13 +134,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), [[Programming]] (2), [[Microsoft Word|Word]] (1), [[Simulation Software]] (1)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Bit Shift Register
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Concepts of bits and words
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980)
@@ -178,6 +180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (6), [[Microsoft Word|Word]] (4), data (1)
 > **Env Vars:** plc (6), lsb (1), msb (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -229,10 +232,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), [[Simulation Software]] (1)
 > **Definitions:** is an  (3), is a  (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** bsl (1), bsr (1)
-> **Code Keywords:** case. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -283,6 +286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), data (1), plc (1)
 > **Env Vars:** bsl (1), bsr (1), plc (1)
 > **Ports:** :10 (1)
 > **Definitions:** is a  (1)
@@ -319,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (3), plc (2), [[Programming]] (1)
 > **Env Vars:** plc (2), bsl (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** good practice (1)
@@ -348,6 +352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** bsr (1)
 > **Speakers:** - [instructor] (1)
 
@@ -388,7 +393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5)
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** click on (3), switch to (2)
 > **Env Vars:** bsl (2)
 > **Exercise Files:** download the (1)
@@ -398,7 +403,7 @@ created: 2026-04-29
 
 ### 2. Word Shift Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Word shift operations intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/word-shift-operations-intro?u=76281980)
@@ -443,9 +448,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), data (7)
 > **Env Vars:** fifo (4), lifo (4)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [tutor] (1)
 
 #### First in, first out (FIFO) instruction
@@ -485,9 +490,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1)
 > **Env Vars:** fifo (7), lifo (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
@@ -520,8 +525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (2), plc (1)
 > **Env Vars:** fifo (8), plc (1)
-> **Code Keywords:** type. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -562,8 +567,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (4), data (3)
 > **Env Vars:** fifo (5)
-> **Code Keywords:** continue (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -588,6 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** fifo (2), led (1)
 > **Speakers:** - [instructor] (1)
 
@@ -624,8 +630,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** fifo (4), led (2)
-> **Code Keywords:** let (1), default, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -654,8 +660,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** fifo (3)
-> **Code Keywords:** switch (2)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
@@ -690,8 +696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** fifo (3), led (1)
-> **Code Keywords:** switch (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -738,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), finally, (1)
+> **Frameworks & Libraries:** next (3), data (2), [[Simulation Software]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), right-click (1), go to (1)
 > **Env Vars:** fifo (1), led (1)
 > **CLI Commands:** find (1)
@@ -748,7 +754,7 @@ created: 2026-04-29
 
 ### 3. Program Flow Control Instructions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to program control instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980)
@@ -765,6 +771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (1), [[Simulation Software]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** plc (1)
 > **Prerequisites:** required to (1)
@@ -803,8 +810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -875,6 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** mcr (7), plc (2)
 > **Analogies:** similar to (1)
 > **Best Practices:** you should never (1)
@@ -921,10 +929,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Programming]] (1), [[Simulation Software]] (1)
 > **Env Vars:** jsr (1), sbr (1), ret (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Warnings:** troubleshoot (1)
@@ -988,7 +996,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** gsr (1), jsr (1), sbr (1)
-> **Code Keywords:** type. (1), from. (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1005,6 +1012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1012,7 +1020,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980)
@@ -1029,6 +1037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (3), plc (2), [[Programming]] (1)
 > **Env Vars:** plc (2)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)

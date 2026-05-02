@@ -24,7 +24,7 @@ tags:
   - topic/software-development
   - skill/autocad
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Autocad%202022%20Essential%20Training.md)
@@ -43,75 +43,75 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - The essentials of AutoCAD
-  - The advantages of using AutoCAD
-  - What you should know before watching this course
-  - Using the exercise files
-  - The new AutoCAD 2022 interface
+  - [The essentials of AutoCAD](#the-essentials-of-autocad)
+  - [The advantages of using AutoCAD](#the-advantages-of-using-autocad)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [The new AutoCAD 2022 interface](#the-new-autocad-2022-interface)
 - [**1. Using Units and Options**](#1-using-units-and-options) (4 videos)
-  - Setting drawing units
-  - Setting options
-  - Objects using different units
-  - Working with templates: DWT
+  - [Setting drawing units](#setting-drawing-units)
+  - [Setting options](#setting-options)
+  - [Objects using different units](#objects-using-different-units)
+  - [Working with templates: DWT](#working-with-templates-dwt)
 - [**2. Drawing More Objects**](#2-drawing-more-objects) (4 videos)
-  - Rectangles and polygons
-  - Points and donuts
-  - Ellipses
-  - Isometric views and elliptical arcs
+  - [Rectangles and polygons](#rectangles-and-polygons)
+  - [Points and donuts](#points-and-donuts)
+  - [Ellipses](#ellipses)
+  - [Isometric views and elliptical arcs](#isometric-views-and-elliptical-arcs)
 - [**3. Modifying Objects**](#3-modifying-objects) (14 videos)
-  - Selecting objects
-  - Using Offset and Mirror
-  - Using Move and Copy
-  - Using Rotate and Scale
-  - Creating and using arrays
-  - Using Stretch and Lengthen
-  - Using Trim and Extend
-  - Using Break and Join
-  - Using grips and grip editing
-  - Using Boundaries
-  - Using Selection Cycling
-  - Using Fillet and Chamfer
-  - Using Divide and Measure
-  - Editing polylines and splines
+  - [Selecting objects](#selecting-objects)
+  - [Using Offset and Mirror](#using-offset-and-mirror)
+  - [Using Move and Copy](#using-move-and-copy)
+  - [Using Rotate and Scale](#using-rotate-and-scale)
+  - [Creating and using arrays](#creating-and-using-arrays)
+  - [Using Stretch and Lengthen](#using-stretch-and-lengthen)
+  - [Using Trim and Extend](#using-trim-and-extend)
+  - [Using Break and Join](#using-break-and-join)
+  - [Using grips and grip editing](#using-grips-and-grip-editing)
+  - [Using Boundaries](#using-boundaries)
+  - [Using Selection Cycling](#using-selection-cycling)
+  - [Using Fillet and Chamfer](#using-fillet-and-chamfer)
+  - [Using Divide and Measure](#using-divide-and-measure)
+  - [Editing polylines and splines](#editing-polylines-and-splines)
 - [**4. Hatching and Gradients**](#4-hatching-and-gradients) (3 videos)
-  - Using the Hatch command
-  - Using the Gradient command
-  - Editing hatches and gradients
+  - [Using the Hatch command](#using-the-hatch-command)
+  - [Using the Gradient command](#using-the-gradient-command)
+  - [Editing hatches and gradients](#editing-hatches-and-gradients)
 - [**5. More Text Techniques**](#5-more-text-techniques) (2 videos)
-  - Aligning text
-  - Framing text in a title block
+  - [Aligning text](#aligning-text)
+  - [Framing text in a title block](#framing-text-in-a-title-block)
 - [**6. More Dimensioning Techniques**](#6-more-dimensioning-techniques) (5 videos)
-  - Editing dimensions and dimension overrides
-  - Using Continue and Baseline
-  - Breaking and spacing dimensions
-  - Automatic dimensioning
-  - Using multileaders
+  - [Editing dimensions and dimension overrides](#editing-dimensions-and-dimension-overrides)
+  - [Using Continue and Baseline](#using-continue-and-baseline)
+  - [Breaking and spacing dimensions](#breaking-and-spacing-dimensions)
+  - [Automatic dimensioning](#automatic-dimensioning)
+  - [Using multileaders](#using-multileaders)
 - [**7. Reusing Content**](#7-reusing-content) (6 videos)
-  - Using groups
-  - Creating and inserting a block
-  - Using the EXPLODE command
-  - Redefining a block definition
-  - Using WBLOCK
-  - Creating a simple dynamic block
+  - [Using groups](#using-groups)
+  - [Creating and inserting a block](#creating-and-inserting-a-block)
+  - [Using the EXPLODE command](#using-the-explode-command)
+  - [Redefining a block definition](#redefining-a-block-definition)
+  - [Using WBLOCK](#using-wblock)
+  - [Creating a simple dynamic block](#creating-a-simple-dynamic-block)
 - [**8. Attributes and Tables**](#8-attributes-and-tables) (5 videos)
-  - Creating a simple block with attributes
-  - Enhanced Attribute Editor
-  - Working with table styles
-  - Designing a table
-  - Adding fields to a table
+  - [Creating a simple block with attributes](#creating-a-simple-block-with-attributes)
+  - [Enhanced Attribute Editor](#enhanced-attribute-editor)
+  - [Working with table styles](#working-with-table-styles)
+  - [Designing a table](#designing-a-table)
+  - [Adding fields to a table](#adding-fields-to-a-table)
 - [**9. External References (XRefs)**](#9-external-references-xrefs) (5 videos)
-  - Working with XRefs
-  - Attaching and overlaying XRefs
-  - Clipping XRefs
-  - Editing XRefs
-  - Editing XRefs in-place
+  - [Working with XRefs](#working-with-xrefs)
+  - [Attaching and overlaying XRefs](#attaching-and-overlaying-xrefs)
+  - [Clipping XRefs](#clipping-xrefs)
+  - [Editing XRefs](#editing-xrefs)
+  - [Editing XRefs in-place](#editing-xrefs-in-place)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Conclusion and summary
-  - Where to next?
+  - [Conclusion and summary](#conclusion-and-summary)
+  - [Where to next?](#where-to-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The essentials of AutoCAD
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/the-essentials-of-autocad?u=76281980)
@@ -138,7 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (11)
 > **Env Vars:** dwg (1)
 > **Speakers:** - hello (1)
 
@@ -177,6 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (12), application (1), [[Forms]] (1)
 > **Env Vars:** dwg (4), cad (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
@@ -232,6 +233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (11), [[Windows]] (5), [[Microsoft]] (1)
 > **Env Vars:** cad (1)
 > **Speakers:** - [instructor] (1)
 
@@ -278,9 +280,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (4), cloud (1), prompt (1)
 > **Exercise Files:** exercise files (6), download the (2), exercise file (2)
 > **Env Vars:** dwg (4)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** you need to have (1)
@@ -369,7 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), default, (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (18), application (1), [[Search]] (1), hit (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Env Vars:** iso (1)
@@ -380,7 +382,7 @@ created: 2026-04-29
 
 ### 1. Using Units and Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting drawing units
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980)
@@ -591,11 +593,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (10), [[Zoom]] (3), hit (1), [[Microsoft Word|Word]] (1), [[Engineering]] (1)
 > **Versions:** 0.70 (2), 1.5 (2), 10.4 (1), 1155.7 (1), 0.7 (1)
 > **UI Navigation:** click on (4), go to (3), dropdown (1)
 > **CLI Commands:** snap (3), make (2)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** set up (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -759,10 +761,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (10), application (2), [[Zoom]] (1), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** dwg (5)
 > **UI Navigation:** click on (3), go to (2)
-> **Code Keywords:** let (2), function (1)
 > **Cross-References:** previous video (1), go back to (1), we mentioned (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -909,8 +911,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (10), [[Zoom]] (1), feature (1)
 > **UI Navigation:** click on (4), go to (2), drag and drop (1)
-> **Code Keywords:** from, (1), let (1), default, (1), this, (1)
 > **Cross-References:** go back to (3), previous video (1)
 > **Env Vars:** insunitsdefsource (1), insunitdeftarget (1)
 > **Versions:** 431.8 (2)
@@ -1087,11 +1089,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (12), hit (3), [[Zoom]] (1), next (1)
 > **UI Navigation:** click on (9), go to (4), dropdown (4)
 > **Exercise Files:** template (17)
 > **Env Vars:** dwt (7), units (4), dwg (3), acad (1)
 > **Prerequisites:** set up (7)
-> **Code Keywords:** let (4), new, (1), this, (1)
 > **Cross-References:** go back to (2), we talked about (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -1099,7 +1101,7 @@ created: 2026-04-29
 
 ### 2. Drawing More Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rectangles and polygons
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980)
@@ -1326,10 +1328,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (9), [[Zoom]] (8), hit (1), next (1), [[Forms]] (1)
 > **UI Navigation:** click on (11), go to (2), right-click (2), scroll up (1), double-click (1)
 > **Env Vars:** furniture (7), m_ffe (1), furnitre (1)
 > **CLI Commands:** make (5), snap (1)
-> **Code Keywords:** let (3)
 > **Prerequisites:** set up (2)
 > **Cross-References:** previous chapter (1)
 > **Tools:** command line (1)
@@ -1504,10 +1506,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (13), node (5), [[AutoCAD]] (4), hit (1)
 > **Env Vars:** points (10), setting (7), point (7), sop (1)
 > **CLI Commands:** make (7), snap (7), node (5)
 > **UI Navigation:** click on (6), go to (4), select the (1), double-click (1), dropdown (1)
-> **Code Keywords:** let (5), override (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** just like (1)
@@ -1620,8 +1622,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (3), [[AutoCAD]] (2), [[Microsoft Word|Word]] (1), next (1)
 > **UI Navigation:** click on (3), go to (2), dropdown (1), scroll down (1)
-> **Code Keywords:** let (3), interface (1), from, (1), case, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -1698,11 +1700,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (2), prompt (1), [[Zoom]] (1)
 > **UI Navigation:** go to (4), click on (3), dropdown (1)
 > **CLI Commands:** snap (1), make (1)
 > **Tools:** command line (2)
 > **Analogies:** just like (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** dwg (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -1710,7 +1712,7 @@ created: 2026-04-29
 
 ### 3. Modifying Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980)
@@ -1879,8 +1881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), [[AutoCAD]] (8), [[Zoom]] (5), [[Windows]] (1)
 > **UI Navigation:** click on (5), select the (1), go to (1)
-> **Code Keywords:** let (3), this, (1), switch (1)
 > **Definitions:** known as (2), is called (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** be aware (2)
@@ -2071,8 +2073,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), [[AutoCAD]] (2), prompt (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (7), go to (3), click on (2)
-> **Code Keywords:** let (3), this. (1), switch (1), case, (1), delete (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we talked about (1), previous video (1), go back to (1)
 > **Definitions:** is a  (2)
@@ -2215,8 +2217,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (21), [[AutoCAD]] (8), prompt (1), hit (1), [[Windows]] (1)
 > **CLI Commands:** node (21), snap (7), find (2), make (1)
-> **Code Keywords:** let (2), from. (2), case. (1), switch (1), override (1)
 > **UI Navigation:** click on (3), dropdown (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2338,10 +2340,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (4), [[Zoom]] (3), hit (1)
 > **UI Navigation:** right-click (12), click on (7), double-click (1)
 > **CLI Commands:** snap (4), make (2)
 > **Versions:** 1.5 (4)
-> **Code Keywords:** let (1), while. (1), case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2646,9 +2648,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (9), [[Zoom]] (7), hit (3)
 > **UI Navigation:** click on (9), go to (6), select the (5), double-click (3), right-click (2)
 > **CLI Commands:** snap (4), make (3)
-> **Code Keywords:** delete (1), else, (1), this. (1), switch (1), let (1)
 > **Versions:** 968.5 (2), 1968.5 (1)
 > **Definitions:** is called (3)
 > **Cross-References:** go back to (1)
@@ -2776,9 +2778,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (3), hit (3), [[AutoCAD]] (1), prompt (1)
 > **UI Navigation:** select the (5), go to (2), click on (2), double-click (1), open the (1)
 > **CLI Commands:** snap (6), make (4)
-> **Code Keywords:** let (5), this, (1), this. (1)
 > **Definitions:** is a  (2), is called (1)
 > **Tools:** command line (2)
 > **Code Identifiers:** autocad (1)
@@ -2917,9 +2919,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (8), [[Zoom]] (2), hit (2), node (1)
 > **CLI Commands:** make (5), snap (3), node (1), find (1)
 > **UI Navigation:** click on (9), right-click (1)
-> **Code Keywords:** this. (1), extends (1), from. (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), just like (1)
 > **Cross-References:** go back to (1)
@@ -3043,8 +3045,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), [[AutoCAD]] (4), [[Forms]] (2), prompt (1), next (1)
 > **UI Navigation:** click on (5), go to (3), select the (2)
-> **Code Keywords:** let (2), break, (2), break. (1), delete (1)
 > **CLI Commands:** make (1), snap (1)
 > **Cross-References:** go back to (2)
 > **Tools:** command line (1)
@@ -3222,9 +3224,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (9), hit (7), [[AutoCAD]] (4), [[Vertex]] (2)
 > **UI Navigation:** click on (14), go to (4), select the (3), right-click (3), double-click (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), switch (1), raise (1)
 > **Prerequisites:** before we start (2), set up (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -3377,9 +3379,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (4), [[Zoom]] (4), management (3), hit (2)
 > **UI Navigation:** click on (9), go to (4), dropdown (1), scroll down (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** type, (1), this, (1), case. (1), let (1)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
@@ -3465,8 +3467,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[AutoCAD]] (2), [[Zoom]] (1)
 > **UI Navigation:** click on (7), select the (1), double-click (1)
-> **Code Keywords:** switch (2), function (1), delete (1), let (1)
 > **Cross-References:** in the last (3), go back to (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - once (1)
@@ -3640,8 +3642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (1), feature (1)
 > **UI Navigation:** go to (5), select the (3), click on (2)
-> **Code Keywords:** let (8)
 > **Cross-References:** go back to (7)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -3817,9 +3819,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (7), hit (4), node (4), [[AutoCAD]] (2), [[Snowflake]] (1)
 > **UI Navigation:** click on (8), go to (6), right-click (5), select the (4), scroll down (1)
 > **CLI Commands:** snap (4), node (4), find (2), make (2)
-> **Code Keywords:** this, (1), break, (1), let (1), case. (1), from. (1)
 > **Env Vars:** points (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3979,9 +3981,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (3), hit (2), [[AutoCAD]] (2), [[Vertex]] (1), prompt (1)
 > **UI Navigation:** click on (4), select the (2), go to (1)
 > **CLI Commands:** make (2), snap (1), find (1)
-> **Code Keywords:** let (2), this. (1)
 > **Env Vars:** dwg (1), nurbs (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -3990,7 +3992,7 @@ created: 2026-04-29
 
 ### 4. Hatching and Gradients
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Hatch command
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980)
@@ -4159,8 +4161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (3), prompt (1), hit (1)
 > **UI Navigation:** click on (8), go to (2), select the (2), scroll down (1), double-click (1)
-> **Code Keywords:** for, (2), this, (1), let (1), for. (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ansi (2)
 > **Definitions:** is a  (1), stands for (1)
@@ -4295,9 +4297,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (6), [[AutoCAD]] (4), hit (3), next (1), [[Snowflake]] (1)
 > **UI Navigation:** click on (7), select the (3), dropdown (3), go to (2)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (2), this. (1), extends (1), throw (1)
 > **Cross-References:** previous video (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
@@ -4450,8 +4452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (6), hit (6), [[AutoCAD]] (5)
 > **UI Navigation:** click on (6), select the (2), go to (2), double-click (1)
-> **Code Keywords:** let (3), switch (1), delete (1)
 > **Env Vars:** ansi38 (2), b816 (1), b816c (1), ansi31 (1)
 > **Cross-References:** go back to (2), in the last (1)
 > **Analogies:** for example (3)
@@ -4462,7 +4464,7 @@ created: 2026-04-29
 
 ### 5. More Text Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Aligning text
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980)
@@ -4719,8 +4721,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (6), [[Microsoft Word|Word]] (2), hit (2), next (1)
 > **UI Navigation:** go to (6), click on (6), dropdown (1), select the (1), double-click (1)
-> **Code Keywords:** let (5), function (1), delete (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** dwg (1), ws001 (1), abc (1)
 > **Definitions:** is a  (3)
@@ -4957,9 +4959,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (6), next (5), [[AutoCAD]] (4)
 > **UI Navigation:** click on (9), go to (4), double-click (2), select the (1)
 > **CLI Commands:** make (6), snap (2)
-> **Code Keywords:** let (4), this, (1), new. (1), delete (1), this. (1)
 > **Env Vars:** cad (2), layout (1), notes (1), abc (1)
 > **Versions:** 3.5 (1)
 > **Cross-References:** previous video (1)
@@ -4969,7 +4971,7 @@ created: 2026-04-29
 
 ### 6. More Dimensioning Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Editing dimensions and dimension overrides
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980)
@@ -5126,7 +5128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (14), let (4), delete (1), this. (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (5), [[Zoom]] (2), next (1), feature (1), hit (1)
 > **UI Navigation:** go to (3), double-click (2), click on (2)
 > **Versions:** 1.2 (2), 9601.2 (1), 1.1 (1)
 > **Env Vars:** ddedit (2), iso (1)
@@ -5262,7 +5264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (15), delete (4), let (3)
+> **Frameworks & Libraries:** [[Zoom]] (5), hit (4), next (3), [[AutoCAD]] (1)
 > **UI Navigation:** go to (5), click on (3), select the (1)
 > **Cross-References:** go back to (2), next video (1)
 > **CLI Commands:** find (1), make (1)
@@ -5456,9 +5458,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Zoom]] (2), [[AutoCAD]] (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dimbreak (10), dimspace (6), d_dim (1)
 > **UI Navigation:** select the (7), go to (2), click on (2)
-> **Code Keywords:** let (3), delete (2), override (1), break. (1), case, (1)
 > **Definitions:** is a  (3), known as (1)
 > **Code Identifiers:** moredimensioning (1)
 > **Cross-References:** previous video (1)
@@ -5562,7 +5564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), override (2), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[AutoCAD]] (3), feature (1), [[Angular]] (1)
 > **UI Navigation:** click on (4), go to (2), select the (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1), known as (1)
@@ -5703,10 +5705,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), hit (2), [[AutoCAD]] (1), next (1)
 > **UI Navigation:** click on (9), go to (4), select the (2), dropdown (1)
 > **Env Vars:** mtext (3), dwg (1), a010d (1), cad (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** new, (1), continue (1), type. (1), case, (1), let (1)
 > **Cross-References:** go back to (2), previous video (1)
 > **Versions:** 1.5 (1)
 > **Definitions:** is a  (1)
@@ -5715,7 +5717,7 @@ created: 2026-04-29
 
 ### 7. Reusing Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980)
@@ -5888,9 +5890,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (7), hit (5), [[Zoom]] (4)
 > **UI Navigation:** click on (11), go to (8), select the (5), scroll up (1), dropdown (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (3), new. (2)
 > **Cross-References:** go back to (1)
 > **Tools:** command line (1)
 > **Prerequisites:** before we start (1)
@@ -6057,9 +6059,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Forms]] (3), [[AutoCAD]] (2), [[Microsoft Word|Word]] (1), hit (1)
 > **UI Navigation:** click on (9), go to (8), scroll down (2), scroll up (1), select the (1)
 > **CLI Commands:** make (10)
-> **Code Keywords:** delete (3), let (2)
 > **Env Vars:** dwg (3)
 > **Cross-References:** go back to (2)
 > **Tools:** command line (1)
@@ -6135,10 +6137,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (2), next (2), [[Zoom]] (1), hit (1)
 > **UI Navigation:** right-click (4), click on (2)
 > **Cross-References:** previous video (2), in the next (1), next video (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Redefining a block definition
@@ -6240,6 +6242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (2), [[Forms]] (1), hit (1), [[Zoom]] (1), [[AutoCAD]] (1)
 > **CLI Commands:** make (4), find (1), snap (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Definitions:** defined as (1), is a  (1)
@@ -6414,11 +6417,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (8), [[Zoom]] (2), hit (1), business (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (9), go to (8), dropdown (2), scroll down (1), select the (1)
 > **Env Vars:** wblock (7), dwg (6), cadfm (1)
 > **CLI Commands:** find (6)
 > **Cross-References:** previous video (2), go back to (2)
-> **Code Keywords:** case. (1), else. (1)
 > **Definitions:** is a  (1), means that (1)
 > **Tools:** command line (1)
 > **Exercise Files:** exercise files (1)
@@ -6624,18 +6627,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (4), hit (3), feature (1), next (1)
 > **UI Navigation:** click on (9), go to (6), select the (4), in the tab (1)
 > **CLI Commands:** make (9), snap (2)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Cross-References:** go back to (3)
-> **Code Keywords:** override (1), let (1)
 > **Env Vars:** dyn (1), cad (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Attributes and Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a simple block with attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980)
@@ -6900,10 +6903,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), [[Zoom]] (2), prompt (2), [[AutoCAD]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (15), go to (5), select the (4), dropdown (2)
 > **CLI Commands:** snap (8), make (4), find (1)
 > **Env Vars:** esc (4), d999 (3), o1od_dim (1), url (1)
-> **Code Keywords:** switch (2), delete (2), let (1), override (1)
 > **Cross-References:** go back to (1), previous chapter (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -6966,7 +6969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), type, (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** d100 (2), d101 (1)
 > **Cross-References:** previous video (1)
@@ -7144,8 +7147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[AutoCAD]] (4), next (2)
 > **UI Navigation:** go to (11), click on (5), dropdown (2)
-> **Code Keywords:** let (4), new, (1), continue (1), this. (1), from, (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 1.5 (1)
@@ -7288,10 +7291,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), next (3), [[AutoCAD]] (2), [[Zoom]] (1)
 > **UI Navigation:** click on (4), go to (1), double-click (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the last (1), previous video (1), in the next (1)
-> **Code Keywords:** switch (1), let (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
@@ -7523,8 +7526,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[AutoCAD]] (3), data (2), [[Microsoft Word|Word]] (1), next (1)
 > **UI Navigation:** click on (11), double-click (3), select the (2), go to (2), right-click (1)
-> **Code Keywords:** case. (2), type. (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -7534,7 +7537,7 @@ created: 2026-04-29
 
 ### 9. External References (XRefs)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with XRefs
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980)
@@ -7641,8 +7644,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (3), hit (2), [[Microsoft Office|Office]] (1), data (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2), else. (1), type, (1), delete (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Definitions:** is an  (2), is called (1)
 > **Env Vars:** cad (2)
@@ -7763,7 +7766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), let (1), for, (1), case, (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (4), hit (2), [[Search]] (1), next (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
@@ -7877,8 +7880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (3), hit (1), feature (1)
 > **UI Navigation:** click on (2), go to (2), select the (1)
-> **Code Keywords:** delete (2), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - once (1)
 
@@ -7995,11 +7998,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (4), hit (3), feature (3), cloud (3), [[Zoom]] (2)
 > **UI Navigation:** click on (7), select the (4), go to (2)
 > **CLI Commands:** make (9)
 > **Env Vars:** dwg (7), amd (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Tools:** command line (1)
 > **Prerequisites:** make sure you have (1)
@@ -8187,11 +8190,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (1)
 > **CLI Commands:** make (18), find (1)
 > **Env Vars:** dwg (12), dot (6)
 > **Cross-References:** go back to (6), previous video (1), earlier in (1)
 > **UI Navigation:** click on (4), select the (1), go to (1)
-> **Code Keywords:** let (2), switch (1), else. (1), case, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -8199,7 +8202,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion and summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980)
@@ -8234,7 +8237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (8), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Where to next?
@@ -8272,6 +8275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AutoCAD]] (9), [[Microsoft Office|Office]] (2)
 > **Env Vars:** cad (3)
 > **Speakers:** - so (1)
 

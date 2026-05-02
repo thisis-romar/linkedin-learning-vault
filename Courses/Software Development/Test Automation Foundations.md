@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Test%20Automation%20Foundations.md)
@@ -52,43 +52,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Build a foundation of test automation
-  - What you should know
-  - Value of automation
+  - [Build a foundation of test automation](#build-a-foundation-of-test-automation)
+  - [What you should know](#what-you-should-know)
+  - [Value of automation](#value-of-automation)
 - [**1. Test Types**](#1-test-types) (5 videos)
-  - Agile Testing Quadrants
-  - The test pyramid
-  - Unit tests
-  - Integration tests
-  - UI tests
+  - [Agile Testing Quadrants](#agile-testing-quadrants)
+  - [The test pyramid](#the-test-pyramid)
+  - [Unit tests](#unit-tests)
+  - [Integration tests](#integration-tests)
+  - [UI tests](#ui-tests)
 - [**2. How to Approach Automation**](#2-how-to-approach-automation) (5 videos)
-  - Get the whole team involved
-  - Make a strategy
-  - Test tools
-  - Development processes
-  - Follow test design patterns
+  - [Get the whole team involved](#get-the-whole-team-involved)
+  - [Make a strategy](#make-a-strategy)
+  - [Test tools](#test-tools)
+  - [Development processes](#development-processes)
+  - [Follow test design patterns](#follow-test-design-patterns)
 - [**3. Testing Tools**](#3-testing-tools) (3 videos)
-  - Framework
-  - Assertion library
-  - Test results
+  - [Framework](#framework)
+  - [Assertion library](#assertion-library)
+  - [Test results](#test-results)
 - [**4. Decide What to Automate**](#4-decide-what-to-automate) (5 videos)
-  - Scenarios to automate
-  - Give each scenario a value
-  - Risk of automation
-  - The cost of automation
-  - Select what to automate
+  - [Scenarios to automate](#scenarios-to-automate)
+  - [Give each scenario a value](#give-each-scenario-a-value)
+  - [Risk of automation](#risk-of-automation)
+  - [The cost of automation](#the-cost-of-automation)
+  - [Select what to automate](#select-what-to-automate)
 - [**5. Adopt Test Automation**](#5-adopt-test-automation) (5 videos)
-  - Maintain standards
-  - Make a maintenance plan
-  - Use continuous integration
-  - Measure code coverage
-  - Share automation success
+  - [Maintain standards](#maintain-standards)
+  - [Make a maintenance plan](#make-a-maintenance-plan)
+  - [Use continuous integration](#use-continuous-integration)
+  - [Measure code coverage](#measure-code-coverage)
+  - [Share automation success](#share-automation-success)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Advance your skills
+  - [Advance your skills](#advance-your-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a foundation of test automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation-26042946?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Test Automation]] (4), application (1), [[Automation]] (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - automated (1)
 
@@ -136,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (2), application (2), [[Test Automation]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
 > **Prerequisites:** set up (1)
@@ -178,13 +179,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Manual Testing]] (2), [[Microsoft Products|Products]] (2), product (1), [[Automation]] (1), teams (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - every (1)
 
 
 ### 1. Test Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile Testing Quadrants
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980)
@@ -297,7 +299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), include: (1), finally, (1), require (1)
+> **Frameworks & Libraries:** application (9), [[Agile Development|Agile]] (3), business (3), product (3), functional (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -399,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), interface (2), case, (1)
+> **Frameworks & Libraries:** data (2), [[Test Automation]] (1), [[Agile Development|Agile]] (1), [[Software Projects]] (1), database (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -551,8 +553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), next (6), database (5), [[Codespaces]] (4), ai (2)
 > **File Paths:** node.js (2), routes.js (2), database.js (2), calculatetotalprice.test.js (1), test/unit/calculatetotalprice.test.js (1)
-> **Code Keywords:** let (3), function (2), require (1), case, (1), pass (1)
 > **Definitions:** is a  (4), is called (3), means that (1)
 > **CLI Commands:** node (2), make (1), find (1), npx (1)
 > **Code Identifiers:** calculatetotalprice (3), totalprice (1)
@@ -633,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), let (1), super (1), function (1)
+> **Frameworks & Libraries:** application (6), database (3), [[Unit Testing]] (1), ai (1), [[Codespaces]] (1)
 > **Env Vars:** http (1), sql (1), url (1)
 > **File Paths:** routes.test.js (1), test/integration/routes.test.js (1)
 > **UI Navigation:** open the (1), navigate to (1)
@@ -740,10 +742,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Selenium]] (3), [[HTML]] (2), functional (1), database (1)
 > **CLI Commands:** find (3), make (1), npm (1), npx (1)
 > **UI Navigation:** go to (2), navigate to (2)
 > **Tools:** terminal (3)
-> **Code Keywords:** require (1), let (1)
 > **Env Vars:** html (2)
 > **Analogies:** picture (1), such as (1)
 > **File Paths:** test/ui/end-to-end.test.js (1)
@@ -752,7 +754,7 @@ created: 2026-04-29
 
 ### 2. How to Approach Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get the whole team involved
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980)
@@ -829,9 +831,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (8), [[Test Automation]] (6), business (5), product (1), functional (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** require (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
 
@@ -878,6 +880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (4), business (1), feature (1), application (1), data (1)
 > **Best Practices:** general rule (1), it's best to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - before (1)
@@ -931,6 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (2), express (1), [[Automation]] (1), [[Test Automation]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** select the (1)
 > **Best Practices:** it's best to (1)
@@ -975,6 +979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), feature (1), application (1)
 > **Best Practices:** it's best to (1), best practice (1)
 > **Env Vars:** tdd (1)
 > **Definitions:** is a  (1)
@@ -1033,8 +1038,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Automation]] (2), [[Design Patterns]] (2), [[Software Development]] (1), business (1)
 > **Env Vars:** dry (3), dsl (2), readme (1)
-> **Code Keywords:** self (1), finally, (1), function (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Best Practices:** it's best to (1)
@@ -1043,7 +1048,7 @@ created: 2026-04-29
 
 ### 3. Testing Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980)
@@ -1118,10 +1123,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), application (2), [[React.js|React]] (2), [[Selenium]] (2), [[Test Automation]] (1)
 > **Env Vars:** bdd (2), dom (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), node (1)
-> **Code Keywords:** for. (1), require (1)
 > **File Paths:** node.js (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
@@ -1195,7 +1200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** assert (7), function (2), let (1), module (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Automation]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (3), node (2), find (1)
 > **File Paths:** node.js (2)
 > **Env Vars:** bdd (1)
@@ -1274,11 +1279,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), next (1), node (1), [[npm]] (1)
 > **CLI Commands:** npx (4), make (2), node (1), npm (1)
 > **Tools:** terminal (6), command line (1)
 > **File Paths:** package.json (2), calculatetotalprice.test.js (1), test/unit/calculatetotalprice.test.js (1)
 > **Env Vars:** npx (2), json (2)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** calculatetotalprice (1)
 > **UI Navigation:** go to (1)
@@ -1286,7 +1291,7 @@ created: 2026-04-29
 
 ### 4. Decide What to Automate
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scenarios to automate
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980)
@@ -1327,8 +1332,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), [[Representational State Transfer (REST)|Rest]] (1), ai (1), application (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** cat (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [narrator] (1)
 
 #### Give each scenario a value
@@ -1394,6 +1399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (8), [[Probability]] (1), [[Microsoft Products|Products]] (1), next (1)
 > **Definitions:** is a  (4)
 > **Speakers:** - after (1)
 
@@ -1442,6 +1448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (6), [[Probability]] (4), [[Microsoft Products|Products]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
@@ -1490,7 +1497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), this, (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[Automation]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - risk (1)
@@ -1530,7 +1537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** data (2), [[Automation]] (1), next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - after (1)
@@ -1538,7 +1545,7 @@ created: 2026-04-29
 
 ### 5. Adopt Test Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintain standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/maintain-standards-14470766?u=76281980)
@@ -1591,6 +1598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), [[Test Automation]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -1641,7 +1649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), pass (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1), [[Software Development]] (1), data (1), feature (1), [[Automation]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - test (1)
@@ -1755,12 +1763,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Continuous Integration (CI)|Continuous integration]] (6), [[npm]] (5), [[Node.js]] (4), node (3)
 > **CLI Commands:** node (7), npm (5)
 > **Tools:** github (7)
 > **UI Navigation:** select the (2), go to (2), scroll up (1), click on (1)
 > **Env Vars:** yaml (3), mpmci (1), npm (1)
 > **File Paths:** node.js (2), node.js.yaml (2)
-> **Code Keywords:** let (3), public (1)
 > **Prerequisites:** configure (2), install (2)
 > **Definitions:** is a  (2), is called (1)
 
@@ -1827,11 +1835,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (4), data (2), application (1), open-source (1), [[JavaScript]] (1)
 > **CLI Commands:** npm (4), make (2)
 > **Env Vars:** nyc (6)
 > **Prerequisites:** install (4), set up (2)
 > **Tools:** terminal (4)
-> **Code Keywords:** let (2), function (1)
 > **File Paths:** istanbul.js (1), package.json (1)
 > **URLs:** [js.org](https://js.org) (1)
 > **Cross-References:** in the last (1)
@@ -1871,14 +1879,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (11), [[Representational State Transfer (REST)|Rest]] (2), [[Test Automation]] (2), application (1), feature (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advance your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980)
@@ -1901,7 +1909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Test Automation]] (3), [[Automation]] (1), application (1), [[LinkedIn]] (1)
 > **Speakers:** - thank (1)
 
 

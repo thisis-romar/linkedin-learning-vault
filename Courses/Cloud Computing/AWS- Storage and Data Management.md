@@ -32,7 +32,7 @@ tags:
   - skill/data-management
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS-%20Storage%20and%20Data%20Management.md)
@@ -51,86 +51,86 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Storage and AWS
-  - What you should know
-  - Exercise files
+  - [Storage and AWS](#storage-and-aws)
+  - [What you should know](#what-you-should-know)
+  - [Exercise files](#exercise-files)
 - [**1. Overview**](#1-overview) (3 videos)
-  - What is data management?
-  - Data security in AWS
-  - Regulatory compliance and AWS
+  - [What is data management?](#what-is-data-management)
+  - [Data security in AWS](#data-security-in-aws)
+  - [Regulatory compliance and AWS](#regulatory-compliance-and-aws)
 - [**2. Object Storage**](#2-object-storage) (11 videos)
-  - AWS S3 basics
-  - Durability and availability
-  - S3 bucket creation
-  - S3 upload and logging
-  - S3 cross-region replication
-  - Set up SNS for event notifications
-  - Set up S3 for event notifications
-  - AWS Glacier and S3 lifecycle rules
-  - S3 data lifecycle configuration
-  - Versioning in S3
-  - S3 teardown
+  - [AWS S3 basics](#aws-s3-basics)
+  - [Durability and availability](#durability-and-availability)
+  - [S3 bucket creation](#s3-bucket-creation)
+  - [S3 upload and logging](#s3-upload-and-logging)
+  - [S3 cross-region replication](#s3-cross-region-replication)
+  - [Set up SNS for event notifications](#set-up-sns-for-event-notifications)
+  - [Set up S3 for event notifications](#set-up-s3-for-event-notifications)
+  - [AWS Glacier and S3 lifecycle rules](#aws-glacier-and-s3-lifecycle-rules)
+  - [S3 data lifecycle configuration](#s3-data-lifecycle-configuration)
+  - [Versioning in S3](#versioning-in-s3)
+  - [S3 teardown](#s3-teardown)
 - [**3. File Systems**](#3-file-systems) (10 videos)
-  - Elastic Block Storage
-  - Create an instance with multiple EBS volumes
-  - Modify the type and size of an EBS volume
-  - Detach and reattach an EBS volume
-  - EBS backup, restore, and schedule with CloudWatch
-  - Elastic File System
-  - EFS demo create EFS
-  - EFS demo mount EFS
-  - EBS and EFS teardown
-  - Amazon FSx
+  - [Elastic Block Storage](#elastic-block-storage)
+  - [Create an instance with multiple EBS volumes](#create-an-instance-with-multiple-ebs-volumes)
+  - [Modify the type and size of an EBS volume](#modify-the-type-and-size-of-an-ebs-volume)
+  - [Detach and reattach an EBS volume](#detach-and-reattach-an-ebs-volume)
+  - [EBS backup, restore, and schedule with CloudWatch](#ebs-backup-restore-and-schedule-with-cloudwatch)
+  - [Elastic File System](#elastic-file-system)
+  - [EFS demo create EFS](#efs-demo-create-efs)
+  - [EFS demo mount EFS](#efs-demo-mount-efs)
+  - [EBS and EFS teardown](#ebs-and-efs-teardown)
+  - [Amazon FSx](#amazon-fsx)
 - [**4. Database Services**](#4-database-services) (9 videos)
-  - RDS
-  - Create a MySQL RDS instance
-  - Connect with MySQL Workbench
-  - Create an Aurora read replica
-  - RDS backup and recovery
-  - RDS teardown
-  - DynamoDB
-  - Create a DynamoDB table
-  - Dynamo teardown
+  - [RDS](#rds)
+  - [Create a MySQL RDS instance](#create-a-mysql-rds-instance)
+  - [Connect with MySQL Workbench](#connect-with-mysql-workbench)
+  - [Create an Aurora read replica](#create-an-aurora-read-replica)
+  - [RDS backup and recovery](#rds-backup-and-recovery)
+  - [RDS teardown](#rds-teardown)
+  - [DynamoDB](#dynamodb)
+  - [Create a DynamoDB table](#create-a-dynamodb-table)
+  - [Dynamo teardown](#dynamo-teardown)
 - [**5. Getting Data to AWS**](#5-getting-data-to-aws) (20 videos)
-  - Move data to AWS
-  - Transfer data using the AWS CLI
-  - Storage Gateway
-  - Configure File Gateway and shares
-  - Connect to File Gateway via NFS
-  - File Gateway teardown
-  - Transfer data with AWS Snowball
-  - AWS Database Migration Service
-  - DMS demo: Setup steps
-  - DMS demo: Create replication instance
-  - DMS demo: Create and execute task
-  - DMS teardown
-  - AWS SFTP service
-  - AWS SFTP prerequisites
-  - Create an SFTP endpoint
-  - Send data to S3 using AWS SFTP
-  - AWS SFTP teardown
-  - AWS DataSync
-  - Move data with AWS DataSync
-  - AWS DataSync teardown
+  - [Move data to AWS](#move-data-to-aws)
+  - [Transfer data using the AWS CLI](#transfer-data-using-the-aws-cli)
+  - [Storage Gateway](#storage-gateway)
+  - [Configure File Gateway and shares](#configure-file-gateway-and-shares)
+  - [Connect to File Gateway via NFS](#connect-to-file-gateway-via-nfs)
+  - [File Gateway teardown](#file-gateway-teardown)
+  - [Transfer data with AWS Snowball](#transfer-data-with-aws-snowball)
+  - [AWS Database Migration Service](#aws-database-migration-service)
+  - [DMS demo: Setup steps](#dms-demo-setup-steps)
+  - [DMS demo: Create replication instance](#dms-demo-create-replication-instance)
+  - [DMS demo: Create and execute task](#dms-demo-create-and-execute-task)
+  - [DMS teardown](#dms-teardown)
+  - [AWS SFTP service](#aws-sftp-service)
+  - [AWS SFTP prerequisites](#aws-sftp-prerequisites)
+  - [Create an SFTP endpoint](#create-an-sftp-endpoint)
+  - [Send data to S3 using AWS SFTP](#send-data-to-s3-using-aws-sftp)
+  - [AWS SFTP teardown](#aws-sftp-teardown)
+  - [AWS DataSync](#aws-datasync)
+  - [Move data with AWS DataSync](#move-data-with-aws-datasync)
+  - [AWS DataSync teardown](#aws-datasync-teardown)
 - [**6. Moving Data in AWS**](#6-moving-data-in-aws) (7 videos)
-  - AWS Glue overview
-  - AWS Glue: Create an S3 metadata crawler
-  - AWS Glue networking
-  - AWS Glue: Create a connection to RDS
-  - AWS Glue: RDS data crawler
-  - AWS Glue: Create and run a job
-  - Glue and course teardown
+  - [AWS Glue overview](#aws-glue-overview)
+  - [AWS Glue: Create an S3 metadata crawler](#aws-glue-create-an-s3-metadata-crawler)
+  - [AWS Glue networking](#aws-glue-networking)
+  - [AWS Glue: Create a connection to RDS](#aws-glue-create-a-connection-to-rds)
+  - [AWS Glue: RDS data crawler](#aws-glue-rds-data-crawler)
+  - [AWS Glue: Create and run a job](#aws-glue-create-and-run-a-job)
+  - [Glue and course teardown](#glue-and-course-teardown)
 - [**7. Backup**](#7-backup) (4 videos)
-  - Understand AWS Backup
-  - Create and configure an AWS Backup job
-  - Restore from backup
-  - AWS Backup teardown
+  - [Understand AWS Backup](#understand-aws-backup)
+  - [Create and configure an AWS Backup job](#create-and-configure-an-aws-backup-job)
+  - [Restore from backup](#restore-from-backup)
+  - [AWS Backup teardown](#aws-backup-teardown)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage and AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980)
@@ -159,9 +159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), aws (3), data (3), management (1), business (1)
 > **Env Vars:** aws (3), rds (1), efs (1)
 > **CLI Commands:** aws (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### What you should know
@@ -195,9 +195,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), aws (8), cloud (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[NoSQL]] (2)
 > **Env Vars:** aws (8), rds (2), ebs (2), ec2 (1), rest (1)
 > **CLI Commands:** aws (8)
-> **Code Keywords:** throw (1)
 > **Analogies:** such as (1)
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
@@ -225,10 +225,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[SQL]] (2), aws (2), [[GitHub]] (1), database (1)
 > **Env Vars:** sql (2), aws (2), sns (1), rds (1), json (1)
 > **CLI Commands:** aws (2), python (1)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Tools:** github (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [narrator] (1)
@@ -236,7 +236,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-is-data-management?u=76281980)
@@ -267,6 +267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), management (2), business (1), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -367,9 +368,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (25), [[Security]] (17), data (11), cloud (8), [[Hardware]] (2)
 > **Env Vars:** aws (25), efs (2), rds (2), ebs (2), ec2 (1)
 > **CLI Commands:** aws (25), make (1), find (1)
-> **Code Keywords:** let (1), extends (1), match. (1), public (1), this, (1)
 > **Analogies:** for instance (2), just like (1)
 > **Prerequisites:** you'll need (2), configure (1)
 > **Definitions:** means that (1), is a  (1)
@@ -466,19 +467,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (19), data (3), cloud (3), [[Security]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2)
 > **Env Vars:** aws (17), pci (2), dss (2), hipaa (2), hitech (1)
 > **CLI Commands:** aws (19), find (5), make (1)
 > **Definitions:** is a  (2), is an  (2), means that (1)
 > **URLs:** [amazon.com](https://amazon.com) (2)
 > **UI Navigation:** go to (2)
 > **Analogies:** for instance (1), such as (1)
-> **Code Keywords:** this, (1)
 > **Prerequisites:** configure (1)
 
 
 ### 2. Object Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS S3 basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980)
@@ -573,10 +574,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), data (3), [[Hardware]] (2), [[Metadata]] (2), cloud (1)
 > **Env Vars:** aws (3), fat32 (1), ntfs (1), hfs (1), sdk (1)
 > **CLI Commands:** aws (3), python (1), ruby (1)
 > **Definitions:** is a  (2), known as (1), is called (1), means that (1)
-> **Code Keywords:** throw (1), abstract (1), interface (1), let (1)
 > **Analogies:** for instance (1), such as (1)
 > **Prerequisites:** before we start (1), you'll need (1)
 > **Cross-References:** in the next (1)
@@ -697,9 +698,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), aws (10), [[Representational State Transfer (REST)|Rest]] (5), concurrent (1), [[Slack]] (1)
 > **Env Vars:** aws (9), kms (2), rest (2), byo (1), tls (1)
 > **CLI Commands:** aws (10), make (5), az (1)
-> **Code Keywords:** finally, (3), let (2), pass (2), else. (1), case, (1)
 > **Definitions:** refers to (2), means that (1), is a  (1), is an  (1)
 > **Analogies:** such as (3)
 > **Tools:** slack (1), aws console (1)
@@ -875,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (2), this. (1), default, (1)
+> **Frameworks & Libraries:** aws (6), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
 > **CLI Commands:** aws (6), make (2)
 > **Env Vars:** aws (6), kms (2)
 > **UI Navigation:** dropdown (3), go to (2), select the (1), scroll down (1)
@@ -958,7 +959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (1), class. (1), default, (1), finally, (1)
+> **Frameworks & Libraries:** [[Metadata]] (5), data (4), feature (2), api (2), aws (1)
 > **Env Vars:** api (2), csv (1), sdk (1), aws (1)
 > **CLI Commands:** make (1), find (1), aws (1)
 > **File Paths:** states.csv (1)
@@ -1126,7 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (3), this, (3), default. (1), case, (1)
+> **Frameworks & Libraries:** data (4), aws (3), feature (1), management (1), [[Metadata]] (1)
 > **CLI Commands:** aws (3), make (2), find (1)
 > **Env Vars:** aws (3)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
@@ -1254,8 +1255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), aws (1), [[Search]] (1), [[JSON]] (1), [[Fetch]] (1)
 > **Env Vars:** sns (11), arn (4), aws (1), sqs (1)
-> **Code Keywords:** let (2), pub (2), case, (2), lambda (1), this, (1)
 > **CLI Commands:** make (3), aws (1), find (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1328,7 +1329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), lambda (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), feature (1), aws (1)
 > **Env Vars:** sns (2), aws (1)
 > **UI Navigation:** scroll down (1), dropdown (1), go to (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1452,8 +1453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), aws (5), next (1)
 > **CLI Commands:** aws (5), az (3)
-> **Code Keywords:** let (3), try. (1), case, (1), finally, (1)
 > **Env Vars:** aws (5)
 > **Definitions:** is a  (2), stands for (1)
 > **Versions:** 2.30 (1), 99.5 (1)
@@ -1585,7 +1586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2), finally, (1), default, (1), case. (1)
+> **Frameworks & Libraries:** data (3), management (2), next (1)
 > **CLI Commands:** make (4)
 > **Warnings:** warning (4)
 > **UI Navigation:** go to (3)
@@ -1632,7 +1633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** data (1), hit (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** csv (1)
 > **Cross-References:** go back to (1)
@@ -1702,7 +1703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (13), let (3), this. (1)
+> **Frameworks & Libraries:** aws (4), next (2), [[Microsoft Word|Word]] (1), prompt (1)
 > **CLI Commands:** aws (4), make (2)
 > **Env Vars:** aws (4), sns (2)
 > **UI Navigation:** in the menu (1), go to (1), checkbox (1)
@@ -1713,7 +1714,7 @@ created: 2026-04-29
 
 ### 3. File Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elastic Block Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980)
@@ -1792,12 +1793,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), [[Amazon EC2|Ec2]] (4), [[Hardware]] (4), data (2), feature (1)
 > **Env Vars:** ebs (15), aws (6), ec2 (4), cpu (1), ram (1)
 > **CLI Commands:** aws (6), make (2)
 > **Versions:** 0.1 (1), 0.2 (1)
 > **Definitions:** means that (1), is a  (1)
 > **Warnings:** be aware (2)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2034,9 +2035,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Linux]] (3), data (3), [[Microsoft Word|Word]] (2), [[Security]] (1)
 > **Env Vars:** ebs (11), ssh (8), xvda (6), xvdb (6), aws (5)
 > **CLI Commands:** ssh (8), sudo (6), aws (5), make (4), ls (3)
-> **Code Keywords:** let (11), public (3), delete (2), type, (1), default, (1)
 > **UI Navigation:** dropdown (1), click on (1), go to (1), open the (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** just like (1), similar to (1)
@@ -2112,9 +2113,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), next (2), aws (1)
 > **Env Vars:** ebs (2), ec2 (2), aws (1), sdb (1)
 > **CLI Commands:** make (2), aws (1), find (1), sudo (1)
-> **Code Keywords:** let (2), this, (1)
 > **UI Navigation:** checkbox (2), click on (1)
 > **Tools:** aws console (1)
 > **Speakers:** - [instructor] (1)
@@ -2252,10 +2253,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), hit (2), data (2), [[Linux]] (1), [[Security]] (1)
 > **CLI Commands:** sudo (4), ssh (3), make (2), az (2), aws (1)
 > **Env Vars:** ec2 (5), ebs (4), ami (1), aws (1), sim (1)
 > **UI Navigation:** go to (4), checkbox (3), dropdown (2), select the (1), scroll down (1)
-> **Code Keywords:** let (6), type. (1), default. (1), default, (1), public (1)
 > **File Paths:** hello.txt (1)
 > **Tools:** aws console (1)
 > **Analogies:** just like (1)
@@ -2336,9 +2337,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), aws (2), data (1), [[Linux]] (1), business (1)
 > **Env Vars:** ami (9), ebs (4), ec2 (3), aws (2)
 > **UI Navigation:** go to (3), dropdown (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** aws (2)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
@@ -2459,10 +2460,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (12), data (7), [[Windows]] (3), [[Security]] (3), web (1)
 > **Env Vars:** efs (25), aws (12), ebs (5), nfs (5), iops (4)
 > **CLI Commands:** aws (12), az (2), make (1), find (1)
 > **Analogies:** such as (2), it's like (1), imagine (1), picture (1), for instance (1)
-> **Code Keywords:** require (1), finally, (1), default, (1), let (1)
 > **Versions:** 4.0 (1), 4.1 (1)
 > **Prerequisites:** you'll need (1), configure (1)
 > **Definitions:** is an  (1)
@@ -2625,8 +2626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), next (7), [[Amazon EC2|Ec2]] (6), aws (4), traffic (4)
 > **Env Vars:** vpc (13), efs (8), ec2 (6), nfs (5), aws (4)
-> **Code Keywords:** let (5), default. (3), this, (2), this. (1), self (1)
 > **CLI Commands:** aws (4), find (3), az (2), make (1)
 > **UI Navigation:** go to (2), dropdown (2), click on (1), checkbox (1), scroll down (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
@@ -2717,9 +2718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), cd (2), prompt (1), aws (1), dns (1)
 > **Env Vars:** efs (13), ec2 (5), ebs (4), aws (1), dns (1)
 > **CLI Commands:** sudo (4), make (3), yum (2), cd (2), ls (2)
-> **Code Keywords:** let (5), this, (1)
 > **Tools:** terminal (4), aws console (1)
 > **Prerequisites:** install (3)
 > **UI Navigation:** go to (1)
@@ -2810,8 +2811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), aws (2), [[Amazon EC2|Ec2]] (2), hit (1), [[Search]] (1)
 > **Env Vars:** ebs (5), efs (4), ami (3), aws (2), ec2 (2)
-> **Code Keywords:** delete (11), let (1), continue (1)
 > **CLI Commands:** aws (2), snap (1)
 > **UI Navigation:** go to (2), checkbox (1)
 > **Warnings:** be aware (1)
@@ -2872,11 +2873,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (9), aws (8), [[Active Directory]] (3), [[Microsoft]] (1), [[Windows Server]] (1)
 > **Env Vars:** aws (8), ontap (2), smb (1), ec2 (1), zfs (1)
 > **CLI Commands:** aws (8), node (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Prerequisites:** set up (2), setup (1), configure (1)
-> **Code Keywords:** finally, (1), this, (1), this. (1)
 > **Analogies:** for instance (1), just like (1), such as (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -2884,7 +2885,7 @@ created: 2026-04-29
 
 ### 4. Database Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RDS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980)
@@ -3057,9 +3058,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (24), aws (11), data (7), [[MySQL]] (6), [[Amazon EC2|Ec2]] (4)
 > **Env Vars:** rds (24), aws (11), ec2 (4), sql (2), ebs (1)
 > **CLI Commands:** aws (11), mysql (6), az (2)
-> **Code Keywords:** let (4), finally, (2), continue (1), require (1), default, (1)
 > **Definitions:** means that (2), is a  (1)
 > **Warnings:** be aware (2), keep in mind (1)
 > **Prerequisites:** install (1), configure (1), you'll need (1)
@@ -3203,9 +3204,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (16), [[MySQL]] (10), [[Security]] (8), aws (4), [[Amazon EC2|Ec2]] (2)
 > **CLI Commands:** mysql (10), make (5), aws (4), az (2)
 > **Env Vars:** rds (7), aws (4), ec2 (2), ipv4 (1), sql (1)
-> **Code Keywords:** let (3), default. (2), private (1), this, (1), case, (1)
 > **UI Navigation:** dropdown (2), scroll down (1)
 > **Versions:** version 8 (1), 0.23 (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -3293,9 +3294,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (10), data (5), database (5), next (3), aws (2)
 > **CLI Commands:** mysql (10), aws (2), make (1)
 > **Env Vars:** rds (6), aws (2), url (2), sql (1)
-> **Code Keywords:** let (5), continue (1), interface (1), delete (1)
 > **Code Identifiers:** my_database (2), mysql_rds_user (1), employee_data (1)
 > **UI Navigation:** click on (2), navigate to (1)
 > **File Paths:** employee_data.sql (1)
@@ -3513,8 +3514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (17), database (11), aws (4), [[Databases]] (4), [[Security]] (3)
 > **CLI Commands:** mysql (17), az (4), make (4), aws (4), find (3)
-> **Code Keywords:** let (7), case, (3), this, (2), type. (1), class. (1)
 > **Env Vars:** rds (7), aws (4), vpc (2)
 > **UI Navigation:** go to (2), dropdown (1), select the (1)
 > **Definitions:** is a  (2), is called (1), refers to (1)
@@ -3591,9 +3592,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), [[MySQL]] (5), data (4), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rds (6)
 > **CLI Commands:** mysql (5)
-> **Code Keywords:** let (3), type, (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** imagine (1)
@@ -3639,7 +3640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), continue (1), this. (1)
+> **Frameworks & Libraries:** [[MySQL]] (3), database (2), next (1)
 > **CLI Commands:** mysql (3), make (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** rds (2)
@@ -3770,8 +3771,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), aws (3), [[NoSQL]] (3), database (3), [[Databases]] (2)
 > **Env Vars:** aws (3), rds (2), json (2), ssd (1), ec2 (1)
-> **Code Keywords:** finally, (3), let (3), switch (1), lambda (1)
 > **Definitions:** is a  (4), is an  (2), means that (1)
 > **Analogies:** such as (1), for instance (1), imagine (1), similar to (1)
 > **CLI Commands:** aws (3)
@@ -3934,9 +3935,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (10), data (10), [[Search]] (5), application (2), database (2)
 > **Env Vars:** json (9), aws (2), gui (1), sdk (1), api (1)
 > **UI Navigation:** go to (4), toggle (2), dropdown (2), click on (2)
-> **Code Keywords:** let (2), delete (1), for. (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** aws (2), python (1)
 > **Code Identifiers:** film_data (1), film_title (1)
@@ -3964,7 +3965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1)
+> **Frameworks & Libraries:** next (1), data (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** checkbox (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -3972,7 +3973,7 @@ created: 2026-04-29
 
 ### 5. Getting Data to AWS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Move data to AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980)
@@ -4029,11 +4030,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), data (8), next (3), [[Relational Databases]] (1), [[Microsoft]] (1)
 > **Env Vars:** aws (10), nfs (2), sql (1), efs (1), rds (1)
 > **CLI Commands:** aws (10), mysql (1), make (1)
 > **Cross-References:** in the next (2)
 > **Tools:** command line (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - unless (1)
@@ -4099,8 +4100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (6), aws (5), [[Automation]] (1), cd (1)
 > **CLI Commands:** aws (5), make (3), ls (1), cd (1)
-> **Code Keywords:** let (3), interface (1), function (1), this, (1)
 > **Env Vars:** cli (3), aws (2)
 > **Cross-References:** go back to (2)
 > **Tools:** terminal (1), command line (1)
@@ -4221,9 +4222,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), aws (10), cloud (3), [[Hybrid Cloud]] (2), [[Metadata]] (2)
 > **Env Vars:** aws (10), nfs (6), smb (2), efs (2), http (1)
 > **CLI Commands:** aws (10), make (1)
-> **Code Keywords:** interface (4), case, (2), default, (1), let (1), require (1)
 > **Definitions:** means that (4), is a  (2), is an  (1)
 > **Analogies:** such as (3)
 > **Code Identifiers:** iscsi (1)
@@ -4403,9 +4404,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Security]] (6), next (4), [[Amazon EC2|Ec2]] (3), [[Search]] (3)
 > **Env Vars:** aws (7), ec2 (4), http (2), nfs (2), fsx (1)
 > **CLI Commands:** aws (7), make (4), find (1), ssh (1)
-> **Code Keywords:** public (3), let (2), default, (1), finally, (1), case. (1)
 > **Prerequisites:** configure (4), set up (2), setup (1)
 > **Ports:** port 80 (4), port 2049 (1)
 > **UI Navigation:** go to (1), scroll down (1), checkbox (1), select the (1)
@@ -4533,8 +4534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Amazon EC2|Ec2]] (3), aws (3), [[Security]] (2), [[Linux]] (1)
 > **Env Vars:** ec2 (3), aws (3), nfs (2), cidr (1), vpc (1)
-> **Code Keywords:** let (4), default. (2), interface (1)
 > **CLI Commands:** aws (3), sudo (2), make (1)
 > **UI Navigation:** checkbox (2), dropdown (1), scroll down (1), go to (1)
 > **File Paths:** hello.txt (2)
@@ -4605,7 +4606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), finally, (1), let (1), case, (1)
+> **Frameworks & Libraries:** aws (3), [[Amazon EC2|Ec2]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** aws (3), ec2 (2), ebs (1)
 > **CLI Commands:** aws (3), make (1)
 > **Warnings:** warning (2)
@@ -4750,9 +4751,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), aws (20), cloud (5), [[Security]] (1), management (1)
 > **Env Vars:** aws (20), kms (3), xkcd (1), nist (1), sns (1)
 > **CLI Commands:** aws (20), make (1)
-> **Code Keywords:** lambda (3), else, (1), import. (1), module (1), finally, (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** for example (1), for instance (1)
 > **Prerequisites:** configure (1), install (1)
@@ -4852,9 +4853,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), data (14), aws (10), cloud (5), [[Databases]] (5)
 > **Env Vars:** aws (10), dms (4), rds (3), sql (3), ec2 (3)
 > **CLI Commands:** aws (10), mysql (2), mongo (1), az (1), make (1)
-> **Code Keywords:** let (4), finally, (2), switch (1), interface (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Prerequisites:** set up (4)
 > **Definitions:** is an  (1), means that (1), is called (1)
@@ -5038,10 +5039,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), [[MySQL]] (16), [[Security]] (6), [[PostgreSQL|Postgres]] (4), next (3)
 > **CLI Commands:** mysql (16), make (3), aws (2), psql (1), find (1)
 > **Env Vars:** rds (9), aws (2), ec2 (2), vpc (2)
 > **UI Navigation:** dropdown (5), scroll down (3), click on (2), go to (2)
-> **Code Keywords:** continue (3), private (1), this, (1), default. (1), public (1)
 > **Code Identifiers:** psql_rds_user (1), binlog_format (1), log_bin_trust (1), logbin_trust_function_creators (1), mysql_rds_demo (1)
 > **Versions:** 8.0 (2), 13.4 (1)
 > **Prerequisites:** set up (2), configure (1)
@@ -5198,7 +5199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (6), private (2), this, (2), default, (2)
+> **Frameworks & Libraries:** database (14), [[MySQL]] (10), [[PostgreSQL|Postgres]] (6), [[Databases]] (4), aws (4)
 > **CLI Commands:** mysql (10), aws (4), make (3), az (1), ssh (1)
 > **Env Vars:** rds (11), aws (4), vpc (2), ssh (1), dms (1)
 > **UI Navigation:** go to (3), click on (2), checkbox (2), scroll up (1), dropdown (1)
@@ -5304,8 +5305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (14), [[MySQL]] (8), [[PostgreSQL|Postgres]] (6), data (4), [[SQL]] (2)
 > **CLI Commands:** mysql (8), psql (1), make (1)
-> **Code Keywords:** let (3), type, (1), default. (1), include. (1)
 > **UI Navigation:** click on (2), scroll down (2), go to (2)
 > **Code Identifiers:** my_database (3), performance_schema (1)
 > **Env Vars:** sql (2), dms (1), rds (1)
@@ -5396,7 +5397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (14), let (3), type, (1), while. (1)
+> **Frameworks & Libraries:** database (7), [[PostgreSQL|Postgres]] (3), aws (2), [[MySQL]] (2), [[Amazon EC2|Ec2]] (2)
 > **CLI Commands:** aws (2), mysql (2), make (1), psql (1)
 > **Env Vars:** aws (2), ec2 (2), rds (2)
 > **UI Navigation:** go to (2), checkbox (2)
@@ -5489,9 +5490,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), data (5), cloud (2), database (1), [[Linux]] (1)
 > **Env Vars:** sftp (20), aws (6), nfs (1), ec2 (1), ebs (1)
 > **CLI Commands:** aws (6), make (3), ssh (1)
-> **Code Keywords:** this. (2), finally, (1), let (1)
 > **Prerequisites:** configure (1), setup (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -5670,8 +5671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (12), [[JSON]] (6), aws (3), [[Search]] (2), management (1)
 > **Env Vars:** sftp (11), arn (5), json (5), aws (3), iam (3)
-> **Code Keywords:** let (5), delete (2), finally, (2), public (1), default. (1)
 > **UI Navigation:** go to (2), checkbox (2), dropdown (1)
 > **CLI Commands:** aws (3), make (1)
 > **Definitions:** refers to (1), means that (1), is a  (1)
@@ -5814,9 +5815,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), aws (6), hit (6), [[Search]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** sftp (13), aws (6), ssh (2), rsa (2), iam (1)
 > **CLI Commands:** aws (6), ssh (5), make (2), cat (2), ls (1)
-> **Code Keywords:** let (3), public (3), private (2), case, (1), interface (1)
 > **Cross-References:** earlier in (1), go back to (1), in the next (1)
 > **Tools:** terminal (1), github (1)
 > **Definitions:** is a  (1)
@@ -5888,9 +5889,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), [[Windows]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** sftp (13), aws (4), ssh (2), url (1), ec2 (1)
 > **CLI Commands:** aws (4), find (3), make (3), ssh (2)
-> **Code Keywords:** let (4), private (3), default. (1), public (1), this, (1)
 > **UI Navigation:** drag and drop (1), go to (1)
 > **URLs:** [cyberduck.io](https://cyberduck.io) (1)
 > **Cross-References:** go back to (1)
@@ -5944,7 +5945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), let (2)
+> **Frameworks & Libraries:** next (3), aws (2), hit (2)
 > **Env Vars:** sftp (4), aws (2)
 > **CLI Commands:** aws (2), make (1)
 > **UI Navigation:** go to (2), checkbox (1)
@@ -5999,9 +6000,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), aws (4), cloud (3), [[Hadoop]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** aws (4), efs (4), nfs (1), cifs (1), kvm (1)
 > **CLI Commands:** aws (4)
-> **Code Keywords:** case, (1), this, (1), let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Move data with AWS DataSync
@@ -6131,8 +6132,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), aws (5), next (3), [[Amazon EC2|Ec2]] (2), [[CLI]] (2)
 > **Env Vars:** efs (12), aws (5), ec2 (2), cli (2), iam (2)
-> **Code Keywords:** this, (2), let (2), from. (1), public (1), default. (1)
 > **CLI Commands:** aws (5), ruby (1)
 > **UI Navigation:** dropdown (2), select the (1), scroll down (1)
 > **Prerequisites:** set up (3)
@@ -6173,7 +6174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** ec2 (1), efs (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** setup (1)
@@ -6182,7 +6183,7 @@ created: 2026-04-29
 
 ### 6. Moving Data in AWS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS Glue overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980)
@@ -6239,9 +6240,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3), [[Metadata]] (3), [[PySpark]] (2), [[Apache Spark]] (2)
 > **Env Vars:** gui (2), etl (2), aws (1), ec2 (1), rds (1)
 > **CLI Commands:** python (3), apache (2), aws (1)
-> **Code Keywords:** finally, (2), this, (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -6353,9 +6354,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), next (8), data (7), [[MySQL]] (3), [[Metadata]] (3)
 > **Env Vars:** rds (3), iam (3), aws (2), csv (1)
 > **CLI Commands:** mysql (3), aws (2), make (1)
-> **Code Keywords:** this. (2), let (1), default, (1), type, (1)
 > **UI Navigation:** go to (3), dropdown (1), scroll down (1)
 > **Code Identifiers:** demo_metadata (2), parks_and_landmarks_detroit (1)
 > **Cross-References:** earlier in (1), later in (1), in the next (1)
@@ -6427,9 +6428,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), database (5), [[Security]] (5), data (2), traffic (2)
 > **Env Vars:** vpc (11), aws (9), rds (7), cidr (1)
 > **CLI Commands:** aws (9), mysql (1), node (1)
-> **Code Keywords:** private (4), let (2), public (2), interface (1), self (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Documentation:** the docs (1)
 > **Definitions:** is a  (1)
@@ -6583,9 +6584,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), aws (7), [[MySQL]] (7), [[Security]] (6), next (3)
 > **Env Vars:** rds (9), aws (7), vpc (4), ec2 (1), tcp (1)
 > **CLI Commands:** aws (7), mysql (7), make (5), find (1)
-> **Code Keywords:** self (4), let (3), interface (2), else. (1), type, (1)
 > **UI Navigation:** dropdown (3), scroll down (3), click on (2), checkbox (1), go to (1)
 > **Prerequisites:** set up (2), you need to have (2), you'll need (1)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
@@ -6657,9 +6658,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), data (6), [[MySQL]] (2), [[SQL]] (2), [[Metadata]] (2)
 > **Env Vars:** rds (7), csv (2), aws (2), jdbc (2), sql (1)
 > **CLI Commands:** mysql (2), find (2), aws (2), make (1)
-> **Code Keywords:** case, (1), let (1)
 > **Code Identifiers:** mysql_states_table (1), my_database (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** scroll down (1), dropdown (1)
@@ -6817,7 +6818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (4), default, (1), this: (1), delete (1)
+> **Frameworks & Libraries:** [[Metadata]] (9), data (7), database (6), [[MySQL]] (3), aws (2)
 > **CLI Commands:** mysql (3), aws (2), python (2), node (2), find (2)
 > **Env Vars:** rds (2), aws (2), mysql (2), etl (2), csv (2)
 > **UI Navigation:** go to (5), drag and drop (4), click on (2)
@@ -6909,7 +6910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (17), let (2), self (1)
+> **Frameworks & Libraries:** next (4), database (3), data (3), aws (2), hit (2)
 > **UI Navigation:** go to (8), checkbox (4), scroll down (1)
 > **Env Vars:** rds (4), aws (2), vpc (2), iam (1)
 > **CLI Commands:** aws (2), make (1)
@@ -6920,7 +6921,7 @@ created: 2026-04-29
 
 ### 7. Backup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand AWS Backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980)
@@ -6997,9 +6998,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), data (9), [[CLI]] (2), application (1), feature (1)
 > **Env Vars:** aws (13), ebs (3), rds (2), efs (2), cli (2)
 > **CLI Commands:** aws (13)
-> **Code Keywords:** finally, (1), for, (1), interface (1), let (1)
 > **Tools:** command line (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - throughout (1)
@@ -7207,8 +7208,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Amazon EC2|Ec2]] (2), data (2), [[JSON]] (1), [[Search]] (1)
 > **Env Vars:** efs (13), aws (7), ec2 (2), json (1), rds (1)
-> **Code Keywords:** let (3), continue (2), default. (1), case, (1), switch (1)
 > **CLI Commands:** aws (7), go run (1)
 > **UI Navigation:** go to (2), dropdown (2), scroll down (1)
 > **Ports:** :00 (1)
@@ -7273,10 +7274,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), data (2), next (1), [[Amazon EC2|Ec2]] (1), database (1)
 > **Env Vars:** efs (4), aws (2), ec2 (1)
 > **CLI Commands:** aws (2), ls (1), make (1)
 > **UI Navigation:** go to (3), click on (1)
-> **Code Keywords:** protected (2), let (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -7348,7 +7349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (13), let (2), for, (1)
+> **Frameworks & Libraries:** aws (3), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** efs (5), aws (3), ec2 (2)
 > **CLI Commands:** aws (3), make (1)
 > **UI Navigation:** go to (2), checkbox (1), click on (1)
@@ -7357,7 +7358,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980)
@@ -7382,9 +7383,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Amazon Web Services (AWS)|Amazon web services]] (2), cloud (2), data (1), management (1)
 > **CLI Commands:** aws (5), find (1), apache (1)
 > **Env Vars:** aws (4)
-> **Code Keywords:** finally, (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Speakers:** - [brandon] (1)
 

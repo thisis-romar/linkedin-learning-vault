@@ -25,7 +25,7 @@ tags:
   - topic/security
   - topic/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/IT%20Security%20Foundations-%20Operating%20System%20Security.md)
@@ -44,48 +44,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Ensuring system security
-  - Resources
+  - [Ensuring system security](#ensuring-system-security)
+  - [Resources](#resources)
 - [**1. Working with a Window OS**](#1-working-with-a-window-os) (7 videos)
-  - Securing the Windows OS
-  - Visualizing the Windows architecture
-  - Dissecting the NTFS
-  - NTFS demo
-  - Controlling folder access
-  - Using runas
-  - Exploring User Account Control (UAC)
+  - [Securing the Windows OS](#securing-the-windows-os)
+  - [Visualizing the Windows architecture](#visualizing-the-windows-architecture)
+  - [Dissecting the NTFS](#dissecting-the-ntfs)
+  - [NTFS demo](#ntfs-demo)
+  - [Controlling folder access](#controlling-folder-access)
+  - [Using runas](#using-runas)
+  - [Exploring User Account Control (UAC)](#exploring-user-account-control-uac)
 - [**2. Locking Down Linux and macOS**](#2-locking-down-linux-and-macos) (4 videos)
-  - Protecting your macOS
-  - Interacting with a Linux OS
-  - Using the Linux file system
-  - Avoiding malware on a Linux host
+  - [Protecting your macOS](#protecting-your-macos)
+  - [Interacting with a Linux OS](#interacting-with-a-linux-os)
+  - [Using the Linux file system](#using-the-linux-file-system)
+  - [Avoiding malware on a Linux host](#avoiding-malware-on-a-linux-host)
 - [**3. Understand User Authentication**](#3-understand-user-authentication) (5 videos)
-  - Identify and authenticate
-  - Passwords and complexity
-  - Smart cards and tokens
-  - Biometric identification
-  - Multi-factor authentication
+  - [Identify and authenticate](#identify-and-authenticate)
+  - [Passwords and complexity](#passwords-and-complexity)
+  - [Smart cards and tokens](#smart-cards-and-tokens)
+  - [Biometric identification](#biometric-identification)
+  - [Multi-factor authentication](#multi-factor-authentication)
 - [**4. Protecting and Monitoring the OS**](#4-protecting-and-monitoring-the-os) (4 videos)
-  - Using a firewall
-  - Locking down the browser
-  - Hardening the OS
-  - Protocol good practices
+  - [Using a firewall](#using-a-firewall)
+  - [Locking down the browser](#locking-down-the-browser)
+  - [Hardening the OS](#hardening-the-os)
+  - [Protocol good practices](#protocol-good-practices)
 - [**5. Providing Email Protection**](#5-providing-email-protection) (3 videos)
-  - Email clients and servers
-  - Email and SPAM
-  - PTR records
+  - [Email clients and servers](#email-clients-and-servers)
+  - [Email and SPAM](#email-and-spam)
+  - [PTR records](#ptr-records)
 - [**6. Understanding Encryption**](#6-understanding-encryption) (5 videos)
-  - Cryptographic techniques
-  - Symmetric encryption
-  - Asymmetric encryption
-  - Diving into hash algorithms
-  - Public Key Infrastructure
+  - [Cryptographic techniques](#cryptographic-techniques)
+  - [Symmetric encryption](#symmetric-encryption)
+  - [Asymmetric encryption](#asymmetric-encryption)
+  - [Diving into hash algorithms](#diving-into-hash-algorithms)
+  - [Public Key Infrastructure](#public-key-infrastructure)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensuring system security
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ensuring-system-security?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Security]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -136,7 +137,7 @@ created: 2026-04-29
 
 ### 1. Working with a Window OS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing the Windows OS
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980)
@@ -213,6 +214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (12), data (7), [[Windows 10]] (4), [[Microsoft]] (2), [[Microsoft Office|Office]] (2)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** keep in mind (2)
@@ -293,7 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), super (1)
+> **Frameworks & Libraries:** [[Hardware]] (9), [[Windows]] (6), application (4), [[Security]] (2), data (1)
 > **Env Vars:** cpu (2), cis (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - today (1)
@@ -377,6 +379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Security]] (3), [[Active Directory]] (2), [[Accountability]] (1), [[Microsoft]] (1)
 > **Env Vars:** ntfs (9), fat (4)
 > **Analogies:** such as (2)
 > **Definitions:** means that (1)
@@ -435,9 +438,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **UI Navigation:** go to (7)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [announcer] (1)
 
@@ -502,7 +505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (5), let (1)
+> **Frameworks & Libraries:** feature (3), [[Windows 10]] (3), [[Windows]] (3), [[Security]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** scroll down (1), toggle (1)
 > **Analogies:** such as (2)
@@ -565,11 +568,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Security]] (1), [[Windows]] (1), prompt (1), feature (1)
 > **Analogies:** for example (2), such as (1)
 > **Tools:** powershell (2)
 > **Best Practices:** it's best to (1), good practice (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - to (1)
 
 #### Exploring User Account Control (UAC)
@@ -653,8 +656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Security]] (3), prompt (2), feature (1), [[Search]] (1)
 > **CLI Commands:** make (12)
-> **Code Keywords:** let (4), require (4), case, (1), protected (1)
 > **Best Practices:** recommended (2), you should always (1)
 > **Warnings:** be careful (3)
 > **Definitions:** is a  (1)
@@ -665,7 +668,7 @@ created: 2026-04-29
 
 ### 2. Locking Down Linux and macOS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting your macOS
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protecting-your-macos?u=76281980)
@@ -734,8 +737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), data (5)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** default, (1), protected (1)
 > **Best Practices:** best practice (1), recommended (1)
 > **Prerequisites:** set up (2)
 > **Code Identifiers:** macos (1)
@@ -792,7 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (12), require (1), function (1)
+> **Frameworks & Libraries:** [[Linux]] (5), prompt (1), application (1)
 > **Env Vars:** gnome (3), kde (2), gui (1)
 > **Tools:** terminal (3), command prompt (1)
 > **UI Navigation:** go to (2)
@@ -865,8 +868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), data (2), power (1)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** var (1), this, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** analyst.txt (1)
 > **Speakers:** - [narrator] (1)
@@ -916,7 +919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Security]] (4), open-source (3), [[Intrusion Detection]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -925,7 +928,7 @@ created: 2026-04-29
 
 ### 3. Understand User Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify and authenticate
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/identify-and-authenticate?u=76281980)
@@ -976,8 +979,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), database (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** pin (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1054,9 +1057,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[NIST]] (2), [[Multi-factor Authentication]] (1), [[Banking]] (1), [[Forms]] (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** include: (1), let (1)
 > **Env Vars:** nist (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
@@ -1121,6 +1124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (3), data (2), [[Security]] (2), [[Forms]] (1), [[Banking]] (1)
 > **Analogies:** such as (7), picture (1)
 > **Env Vars:** usb (1), vip (1)
 > **CLI Commands:** make (1)
@@ -1219,6 +1223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Speech Recognition]] (1), feature (1), [[Privacy]] (1), [[Microsoft Products|Products]] (1)
 > **Exercise Files:** template (2)
 > **Analogies:** such as (2)
 > **Env Vars:** api (1)
@@ -1282,17 +1287,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (3), [[Blockchain]] (3), application (1), [[Tokens]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Protecting and Monitoring the OS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980)
@@ -1367,7 +1372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), interface (1), pass (1)
+> **Frameworks & Libraries:** traffic (6), application (3), [[Windows]] (3), [[Microsoft Defender|Defender]] (3), [[Linux]] (3)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1429,9 +1434,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Security]] (3), data (2), [[Banking]] (1), [[Phishing]] (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** scroll down (2)
-> **Code Keywords:** let (1)
 > **Tools:** firefox (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1487,7 +1492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default. (1), protected (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **Best Practices:** good practice (2)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is an  (1)
@@ -1569,8 +1574,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Security]] (1), vpn (1), data (1), web (1)
 > **Env Vars:** ftp (8), https (1), http (1), vpn (1), ssh (1)
-> **Code Keywords:** let (3), require (1)
 > **CLI Commands:** make (2), ssh (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
 > **Analogies:** such as (2), for example (1)
@@ -1581,7 +1586,7 @@ created: 2026-04-29
 
 ### 5. Providing Email Protection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Email clients and servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980)
@@ -1672,7 +1677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (2), case, (1), let (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), traffic (2), cloud (2), [[Engineering]] (1), business (1)
 > **Analogies:** such as (2), imagine (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** smtp (1)
@@ -1751,9 +1756,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (4), dns (2), [[Statistics]] (1)
 > **Env Vars:** dkim (4), dmarc (4), smtp (2), dns (2), spf (1)
 > **Definitions:** is an  (2)
-> **Code Keywords:** let (1)
 > **URLs:** [barracuda.com](https://barracuda.com) (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -1805,8 +1810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (4), business (2), [[Domain Name System (DNS)|Domain name system]] (1), generic (1)
 > **Env Vars:** dns (4), ptr (4)
-> **Code Keywords:** let (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -1815,7 +1820,7 @@ created: 2026-04-29
 
 ### 6. Understanding Encryption
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptographic techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980)
@@ -1890,7 +1895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), function (2), private (1)
+> **Frameworks & Libraries:** data (11), [[Representational State Transfer (REST)|Rest]] (3), cloud (2), [[Cryptography]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1956,6 +1961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Algorithms]] (2), [[Security]] (1)
 > **Env Vars:** des (2), idea (1), ssl (1), tls (1), aes (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Analogies:** such as (3)
@@ -2031,7 +2037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (19), private (8), include: (1), let (1), this. (1)
+> **Frameworks & Libraries:** web (2), [[Microsoft Office|Office]] (2), [[Security]] (1), cloud (1), [[Privacy]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2119,8 +2125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (6), [[NIST]] (4), [[Blockchain]] (3), [[Security]] (1)
 > **Env Vars:** sha (12), nist (2)
-> **Code Keywords:** function (4), let (3), case, (1)
 > **Definitions:** is a  (2), known as (1), is called (1)
 > **URLs:** [nist.gov](https://nist.gov) (2)
 > **CLI Commands:** find (1)
@@ -2186,7 +2192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (18), private (3), let (2)
+> **Frameworks & Libraries:** data (3), [[Google]] (2), [[Security]] (1)
 > **URLs:** [google.com](https://google.com) (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** https (1)
@@ -2195,7 +2201,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980)
@@ -2226,8 +2232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Windows]] (1), [[Linux]] (1), [[Engineering]] (1), [[IoT]] (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** self (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [lisa] (1)
 

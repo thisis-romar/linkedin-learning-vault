@@ -48,7 +48,7 @@ tags:
   - topic/software-development
   - skill/microsoft-entra-id
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Microsoft%20Entra%20ID%20Fundamentals.md)
@@ -67,40 +67,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - A world of modern identity
-  - History of Active Directory
-  - The Microsoft Entra family
-  - Course overview
-  - Microsoft Entra admin center
+  - [A world of modern identity](#a-world-of-modern-identity)
+  - [History of Active Directory](#history-of-active-directory)
+  - [The Microsoft Entra family](#the-microsoft-entra-family)
+  - [Course overview](#course-overview)
+  - [Microsoft Entra admin center](#microsoft-entra-admin-center)
 - [**1. Microsoft Entra ID Basics**](#1-microsoft-entra-id-basics) (6 videos)
-  - Identity and access
-  - What is Microsoft Entra ID?
-  - Sign up for an Azure subscription
-  - Entra ID architecture
-  - Configure the default directory
-  - Active Directory vs. Entra ID
+  - [Identity and access](#identity-and-access)
+  - [What is Microsoft Entra ID?](#what-is-microsoft-entra-id)
+  - [Sign up for an Azure subscription](#sign-up-for-an-azure-subscription)
+  - [Entra ID architecture](#entra-id-architecture)
+  - [Configure the default directory](#configure-the-default-directory)
+  - [Active Directory vs. Entra ID](#active-directory-vs-entra-id)
 - [**2. Core Components of Entra ID**](#2-core-components-of-entra-id) (6 videos)
-  - Understand Entra Cloud Sync
-  - Manage users
-  - Manage groups
-  - Manage devices
-  - Provision enterprise apps
-  - Manage administrative units
+  - [Understand Entra Cloud Sync](#understand-entra-cloud-sync)
+  - [Manage users](#manage-users)
+  - [Manage groups](#manage-groups)
+  - [Manage devices](#manage-devices)
+  - [Provision enterprise apps](#provision-enterprise-apps)
+  - [Manage administrative units](#manage-administrative-units)
 - [**3. Standards and Compliance**](#3-standards-and-compliance) (2 videos)
-  - Industry standards
-  - Regulatory compliance
+  - [Industry standards](#industry-standards)
+  - [Regulatory compliance](#regulatory-compliance)
 - [**4. Administering an Entra Tenant**](#4-administering-an-entra-tenant) (4 videos)
-  - Managing an Entra tenant
-  - Securing an Entra tenant
-  - Potential benefits of deploying Entra ID
-  - Case study: Audi AG
+  - [Managing an Entra tenant](#managing-an-entra-tenant)
+  - [Securing an Entra tenant](#securing-an-entra-tenant)
+  - [Potential benefits of deploying Entra ID](#potential-benefits-of-deploying-entra-id)
+  - [Case study: Audi AG](#case-study-audi-ag)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Course summary
-  - Next steps
+  - [Course summary](#course-summary)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A world of modern identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980)
@@ -131,8 +131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Security]] (1), management (1), [[Microsoft Entra ID]] (1)
 > **CLI Commands:** cat (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### History of Active Directory
@@ -234,7 +234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** cloud (14), [[Active Directory]] (9), [[Microsoft]] (5), [[Windows]] (5), [[Windows Server]] (4)
 > **Definitions:** is a  (2)
 > **CLI Commands:** cat (1)
 > **Env Vars:** ceo (1)
@@ -302,7 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (13), cloud (5), [[Microsoft Azure|Azure]] (5), [[Microsoft Word|Word]] (3), [[Microsoft Entra ID]] (3)
 > **Definitions:** is a  (1), known as (1)
 > **Env Vars:** ntlm (1)
 > **Analogies:** picture (1)
@@ -360,8 +360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (5), [[Microsoft Entra ID|Entra]] (4), [[Microsoft Entra ID]] (3), [[Microsoft Azure|Azure]] (3), next (1)
 > **Cross-References:** in the next (1), in the last (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** pdf (1)
 > **Versions:** 4.8 (1)
 > **Exercise Files:** exercise files (1)
@@ -434,7 +434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new, (1), this. (1), type, (1), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (11), [[Microsoft]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Entra ID]] (1), next (1)
 > **UI Navigation:** click on (3), scroll down (2)
 > **Definitions:** is a  (3), is an  (1)
 > **URLs:** [serverbaba.com](https://serverbaba.com) (1)
@@ -444,7 +444,7 @@ created: 2026-04-29
 
 ### 1. Microsoft Entra ID Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identity and access
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980)
@@ -515,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), throw (1), require (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (2), management (2), [[Microsoft Entra ID]] (1), [[Windows Server]] (1), [[Active Directory]] (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Env Vars:** iam (1)
 > **Definitions:** is called (1)
@@ -539,9 +539,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (12), cloud (3), [[Microsoft]] (2), [[Windows]] (2), [[Windows Server]] (2)
 > **Env Vars:** saml (1), scim (1), fido (1), iso (1), soc (1)
 > **Analogies:** for example (2), imagine (1)
-> **Code Keywords:** else. (1), let (1)
 > **Code Identifiers:** macos (1), ios (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** go to (1)
@@ -664,8 +664,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), next (5), [[Microsoft]] (4), [[Microsoft Outlook|Outlook]] (2), [[Search]] (2)
 > **UI Navigation:** click on (9), open the (1), checkbox (1), go to (1)
-> **Code Keywords:** let (4), new, (1), this, (1), switch (1)
 > **URLs:** [outlook.com](https://outlook.com) (2), [azure.com](https://azure.com) (1), [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** url (1), default (1), directory (1)
 > **CLI Commands:** make (1)
@@ -766,7 +766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), protected (1)
+> **Frameworks & Libraries:** data (19), [[Microsoft Azure|Azure]] (8), cloud (4), [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (3)
 > **Definitions:** is a  (4)
 > **Analogies:** it's like (1), for example (1), such as (1), imagine (1)
 > **CLI Commands:** make (3)
@@ -951,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), interface (1), default, (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Entra ID|Entra]] (6), management (6), dns (5), [[Microsoft Entra ID|Entra id]] (3)
 > **UI Navigation:** click on (10), go to (2), scroll down (2), toggle (2)
 > **Env Vars:** dns (5), txt (4)
 > **Prerequisites:** configure (3), getting started (1), you'll need (1)
@@ -1013,17 +1013,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (11), [[Active Directory]] (9), [[Microsoft Entra ID|Entra]] (4), [[Microsoft]] (3), [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** dns (2), ntlm (1), ldap (1), saml (1), api (1)
 > **Tools:** azure portal (3), powershell (1)
 > **Definitions:** is an  (3)
-> **Code Keywords:** public (1), finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Core Components of Entra ID
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Entra Cloud Sync
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980)
@@ -1144,7 +1144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (2), function (1), case. (1), this, (1)
+> **Frameworks & Libraries:** cloud (25), [[Microsoft Entra ID|Entra]] (14), [[Microsoft Entra ID|Entra id]] (8), [[Active Directory]] (7), [[Windows Server]] (5)
 > **Definitions:** is a  (2), means that (1), known as (1)
 > **Analogies:** for instance (2), for example (1)
 > **Prerequisites:** configure (2), install (1)
@@ -1366,8 +1366,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (22), [[Microsoft Azure|Azure]] (13), [[Active Directory]] (11), [[Microsoft Entra ID|Entra]] (8), next (6)
 > **UI Navigation:** click on (10), go to (2), checkbox (1), scroll down (1)
-> **Code Keywords:** let (5), this, (1), require (1), type. (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the last (2), in the next (1)
 > **Definitions:** is a  (2)
@@ -1538,8 +1538,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[Security]] (9), [[Microsoft Entra ID|Entra id]] (6), [[Active Directory]] (4), [[Microsoft Azure|Azure]] (3)
 > **UI Navigation:** click on (12), dropdown (2), toggle (1), go to (1), select the (1)
-> **Code Keywords:** let (6), require (2), continue (1), finally, (1), type, (1)
 > **Analogies:** similar to (1), just like (1), such as (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (1)
@@ -1678,8 +1678,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (12), [[Microsoft Entra ID|Entra id]] (10), [[Windows]] (8), [[Active Directory]] (4), cloud (3)
 > **UI Navigation:** click on (11), go to (3), switch to (1)
-> **Code Keywords:** let (7), require (1), for. (1), switch (1), type, (1)
 > **Prerequisites:** configure (3), required to (1)
 > **Env Vars:** byod (2), mdm (1)
 > **Code Identifiers:** macos (1), ios (1)
@@ -1832,7 +1832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (2), module (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (12), application (8), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (4), [[Search]] (4)
 > **UI Navigation:** click on (8), scroll down (2)
 > **Exercise Files:** source code (5)
 > **Definitions:** is a  (3), is an  (1)
@@ -1918,7 +1918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** management (6), [[Microsoft Entra ID|Entra id]] (5), [[Active Directory]] (3), [[Accountability]] (1), next (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** rmau (1)
@@ -1928,7 +1928,7 @@ created: 2026-04-29
 
 ### 3. Standards and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Industry standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980)
@@ -2015,10 +2015,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Entra ID|Entra id]] (4), [[Microsoft Entra ID|Entra]] (4), product (2), [[Microsoft]] (2)
 > **Env Vars:** scim (4), saml (3), fido (3), net (2), php (1)
 > **Definitions:** is an  (2), means that (1), stands for (1), is a  (1)
 > **CLI Commands:** php (1), python (1), ruby (1), make (1)
-> **Code Keywords:** let (2), switch (1)
 > **Documentation:** the documentation (3)
 > **UI Navigation:** scroll down (3)
 > **Analogies:** such as (1), for instance (1)
@@ -2097,9 +2097,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Security]] (4), [[Microsoft Azure|Azure]] (4), product (3), [[Microsoft]] (3)
 > **Env Vars:** iso (2), soc (2), pci (2), dss (2), gdpr (2)
 > **Definitions:** stands for (2), means that (1), is a  (1), known as (1)
-> **Code Keywords:** let (1), private (1), this, (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Analogies:** such as (2)
 > **Exercise Files:** exercise files (1)
@@ -2109,7 +2109,7 @@ created: 2026-04-29
 
 ### 4. Administering an Entra Tenant
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing an Entra tenant
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980)
@@ -2166,7 +2166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), self (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (5), cloud (3), [[Microsoft Entra ID|Entra id]] (2), [[Microsoft Azure|Azure]] (1), [[Active Directory]] (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** aws (1), gcp (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2230,8 +2230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), [[Microsoft Entra ID|Entra id]] (4), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1), [[Windows]] (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** require (2), let (1)
 > **Env Vars:** fido (1)
 > **Versions:** 99.9 (1)
 > **Analogies:** such as (1)
@@ -2283,8 +2283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (6), [[Hardware]] (2), business (2), [[Security]] (2), [[Windows Server]] (1)
 > **Env Vars:** roi (1), lan (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Case study: Audi AG
@@ -2316,7 +2316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), self (1)
+> **Frameworks & Libraries:** management (3), [[Microsoft]] (1), [[Security]] (1), [[Microsoft Entra ID|Entra id]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -2325,7 +2325,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980)
@@ -2400,6 +2400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (11), cloud (7), [[Security]] (6), next (4), [[Microsoft Entra ID|Entra]] (4)
 > **Env Vars:** isv (1), aws (1), gcp (1)
 > **Cross-References:** we talked about (2), we discussed (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -2440,6 +2441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Entra id]] (2), [[Microsoft Entra ID]] (1), [[Security]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Speakers:** - [kunal] (1)

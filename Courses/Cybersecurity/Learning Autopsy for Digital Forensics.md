@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/digital-forensics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20Autopsy%20for%20Digital%20Forensics.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Hey, where's the data?
-  - Getting the most out of this course
+  - [Hey, where's the data?](#hey-wheres-the-data)
+  - [Getting the most out of this course](#getting-the-most-out-of-this-course)
 - [**1. Preparing Autopsy**](#1-preparing-autopsy) (7 videos)
-  - Introduction and installation of Autopsy
-  - Autopsy workflow
-  - Creating a case
-  - What data sources are allowed?
-  - Viewing case logs and output
-  - Challenge: View case logs and output
-  - Solution: View case logs and output
+  - [Introduction and installation of Autopsy](#introduction-and-installation-of-autopsy)
+  - [Autopsy workflow](#autopsy-workflow)
+  - [Creating a case](#creating-a-case)
+  - [What data sources are allowed?](#what-data-sources-are-allowed)
+  - [Viewing case logs and output](#viewing-case-logs-and-output)
+  - [Challenge: View case logs and output](#challenge-view-case-logs-and-output)
+  - [Solution: View case logs and output](#solution-view-case-logs-and-output)
 - [**2. Ingest Modules**](#2-ingest-modules) (6 videos)
-  - Utilizing Automated Analysis in Autopsy
-  - The Extension Mismatch and USB device-attached modules
-  - The Recent Activity and Interesting Files modules
-  - Installing third-party modules
-  - Challenge: Install a third-party module
-  - Solution: Install a third-party module
+  - [Utilizing Automated Analysis in Autopsy](#utilizing-automated-analysis-in-autopsy)
+  - [The Extension Mismatch and USB device-attached modules](#the-extension-mismatch-and-usb-device-attached-modules)
+  - [The Recent Activity and Interesting Files modules](#the-recent-activity-and-interesting-files-modules)
+  - [Installing third-party modules](#installing-third-party-modules)
+  - [Challenge: Install a third-party module](#challenge-install-a-third-party-module)
+  - [Solution: Install a third-party module](#solution-install-a-third-party-module)
 - [**3. Reviewing Results**](#3-reviewing-results) (3 videos)
-  - UI layout
-  - The image and video gallery
-  - The timeline tool
+  - [UI layout](#ui-layout)
+  - [The image and video gallery](#the-image-and-video-gallery)
+  - [The timeline tool](#the-timeline-tool)
 - [**4. Searching and Reporting**](#4-searching-and-reporting) (5 videos)
-  - Searching for keywords and files
-  - Tagging
-  - Generating reports in Autopsy
-  - Challenge: Search for all instances of a file
-  - Solution: Search for all instances of a file
+  - [Searching for keywords and files](#searching-for-keywords-and-files)
+  - [Tagging](#tagging)
+  - [Generating reports in Autopsy](#generating-reports-in-autopsy)
+  - [Challenge: Search for all instances of a file](#challenge-search-for-all-instances-of-a-file)
+  - [Solution: Search for all instances of a file](#solution-search-for-all-instances-of-a-file)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps: Create your own case and analyze your files
+  - [Next steps: Create your own case and analyze your files](#next-steps-create-your-own-case-and-analyze-your-files)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hey, where's the data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980)
@@ -110,8 +110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Cybersecurity]] (1), [[Digital Forensics]] (1)
 > **Env Vars:** iii (1), soc (1)
-> **Code Keywords:** from. (1)
 > **Speakers:** - between (1)
 
 #### Getting the most out of this course
@@ -137,14 +137,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** product (1), data (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - h (1)
 
 
 ### 1. Preparing Autopsy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and installation of Autopsy
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/introduction-and-installation-of-autopsy?u=76281980)
@@ -215,7 +215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), interface (1), require (1)
+> **Frameworks & Libraries:** prompt (2), [[Security]] (1), [[Windows]] (1), next (1)
 > **UI Navigation:** go to (2), select the (1), open the (1)
 > **Prerequisites:** install (3)
 > **URLs:** [autopsy.com](https://autopsy.com) (1)
@@ -259,7 +259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), interface (1), this, (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Search]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -329,7 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), case. (2), let (2), require (1), throw (1)
+> **Frameworks & Libraries:** data (6), next (6), [[Search]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1), next video (1)
 > **Analogies:** such as (2)
@@ -474,8 +474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), next (8), feature (1), product (1), [[Virtual Machines]] (1)
 > **Env Vars:** xry (3), usb (1), gps (1), nvm (1), e01 (1)
-> **Code Keywords:** case. (2), continue (2), type. (2), case, (1), let (1)
 > **UI Navigation:** select the (6), navigate to (1), scroll down (1)
 > **Analogies:** such as (6), for example (2)
 > **Definitions:** is a  (7)
@@ -537,8 +537,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), data (1), next (1)
 > **UI Navigation:** in the menu (2), scroll down (2), go to (1), open the (1), right-click (1)
-> **Code Keywords:** continue (2), this. (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
@@ -565,6 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** next video (1)
 > **Speakers:** - for (1)
@@ -625,9 +626,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), next (1)
 > **UI Navigation:** go to (2), click on (2), in the menu (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** this, (1), let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -636,7 +637,7 @@ created: 2026-04-29
 
 ### 2. Ingest Modules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Utilizing Automated Analysis in Autopsy
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980)
@@ -777,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), case. (4), case, (2), let (2), interface (2)
+> **Frameworks & Libraries:** data (12), [[Android]] (2), next (2), [[Real-Time]] (1)
 > **Analogies:** for example (5)
 > **UI Navigation:** go to (3), select the (1)
 > **Best Practices:** recommended (3), bad practice (1)
@@ -885,7 +886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (4), case. (2), type, (1)
+> **Frameworks & Libraries:** data (3), [[Windows]] (2), application (2), next (2), [[Unity]] (1)
 > **UI Navigation:** go to (3), scroll down (2), select the (1)
 > **Env Vars:** usb (4), pdf (1)
 > **CLI Commands:** find (1), make (1)
@@ -1013,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (7), delete (2), from, (1), continue (1)
+> **Frameworks & Libraries:** web (4), data (3), [[Windows]] (3), next (3), database (2)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** such as (1), for example (1), it's like (1)
@@ -1115,7 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (8), this, (2), case. (2), case, (1), let (1)
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), application (2), [[Metadata]] (1), prompt (1)
 > **UI Navigation:** go to (10), select the (2)
 > **Prerequisites:** install (5)
 > **CLI Commands:** python (2)
@@ -1153,6 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** select the (1)
@@ -1228,9 +1230,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), database (1)
 > **UI Navigation:** go to (4), scroll down (2), select the (1)
 > **Env Vars:** url (2), jpeg (2), mime (1)
-> **Code Keywords:** this, (1), module (1), type. (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** zip file (1)
 > **Definitions:** is a  (1)
@@ -1240,7 +1242,7 @@ created: 2026-04-29
 
 ### 3. Reviewing Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### UI layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980)
@@ -1477,7 +1479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3), type. (3), case. (2), this, (2)
+> **Frameworks & Libraries:** data (9), [[Search]] (5), next (2), [[HTML]] (2), feature (1)
 > **Analogies:** for example (7), such as (3), picture (1)
 > **Env Vars:** csv (2), html (2), usb (1), png (1), jpeg (1)
 > **Definitions:** is a  (2), means that (2), is an  (1), known as (1), stands for (1)
@@ -1583,8 +1585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), feature (2), next (1), [[Windows]] (1), cloud (1)
 > **Env Vars:** nsrl (6), rds (3), nis (1), fyi (1)
-> **Code Keywords:** let (3), this, (2), interface (1), case, (1)
 > **Analogies:** for example (4), such as (2), picture (1)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -1676,7 +1678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), let (2), continue (1), function (1), type, (1)
+> **Frameworks & Libraries:** next (3), feature (3), data (3), web (2), [[Android]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** picture (2), for example (2), such as (1)
 > **UI Navigation:** go to (3), select the (1)
@@ -1688,7 +1690,7 @@ created: 2026-04-29
 
 ### 4. Searching and Reporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Searching for keywords and files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980)
@@ -1823,7 +1825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), module (2), else, (2), for. (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (16), data (5), [[Microsoft Word|Word]] (4), next (2), node (1)
 > **CLI Commands:** find (2), node (1), make (1)
 > **Analogies:** for example (3)
 > **File Paths:** h-sport-employee-info.csv (2)
@@ -1969,8 +1971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), data (1), [[Search]] (1)
 > **UI Navigation:** go to (6), select the (2), right-click (1)
-> **Code Keywords:** let (4), delete (2), type, (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** previous video (1), we discussed (1), in the next (1)
 > **Analogies:** for example (2), such as (1)
@@ -2045,8 +2047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft Excel|Excel]] (4), data (4), next (2), [[Google]] (2)
 > **Env Vars:** html (5), csv (2), kml (2), gps (1)
-> **Code Keywords:** module (3), case. (2), require (1), include. (1), case, (1)
 > **Analogies:** similar to (2), such as (1), for example (1)
 > **CLI Commands:** find (1), node (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -2071,6 +2073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
@@ -2142,9 +2145,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), application (2), [[Metadata]] (1), data (1)
 > **Env Vars:** md5 (4), sha (3), mime (1), sport (1)
 > **UI Navigation:** go to (3), right-click (2), select the (1)
-> **Code Keywords:** let (1), type. (1), this, (1), this. (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -2154,7 +2157,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps: Create your own case and analyze your files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/next-steps-create-your-own-case-and-analyze-your-files?u=76281980)
@@ -2175,6 +2178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
 > **URLs:** [cyberbennett.com](https://cyberbennett.com) (1)

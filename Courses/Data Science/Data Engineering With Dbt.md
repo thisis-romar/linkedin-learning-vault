@@ -35,7 +35,7 @@ tags:
   - skill/data-engineering
   - skill/data-build-tool-dbt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering%20With%20Dbt.md)
@@ -54,53 +54,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Build your first dbt project
-  - Introducing the dbt project
-  - The project in GitHub Codespaces
+  - [Build your first dbt project](#build-your-first-dbt-project)
+  - [Introducing the dbt project](#introducing-the-dbt-project)
+  - [The project in GitHub Codespaces](#the-project-in-github-codespaces)
 - [**1. Prepare Your Coding Environment**](#1-prepare-your-coding-environment) (4 videos)
-  - Install the dbt Core via pip
-  - Install the dbt connector to DuckDB
-  - Install DuckDB via pip
-  - Update your requirements.txt file within your project
+  - [Install the dbt Core via pip](#install-the-dbt-core-via-pip)
+  - [Install the dbt connector to DuckDB](#install-the-dbt-connector-to-duckdb)
+  - [Install DuckDB via pip](#install-duckdb-via-pip)
+  - [Update your requirements.txt file within your project](#update-your-requirementstxt-file-within-your-project)
 - [**2. Prepare Your Database Environment**](#2-prepare-your-database-environment) (2 videos)
-  - Create your database file
-  - Import CSV data into your new database
+  - [Create your database file](#create-your-database-file)
+  - [Import CSV data into your new database](#import-csv-data-into-your-new-database)
 - [**3. Create a dbt Project**](#3-create-a-dbt-project) (1 videos)
-  - Start your project with dbt init
+  - [Start your project with dbt init](#start-your-project-with-dbt-init)
 - [**4. Prepare Your dbt Environment**](#4-prepare-your-dbt-environment) (3 videos)
-  - Understand the dbt_project.yml file
-  - Create your profiles YAML file
-  - Connect your profiles and project YAML files
+  - [Understand the dbt_project.yml file](#understand-the-dbt_projectyml-file)
+  - [Create your profiles YAML file](#create-your-profiles-yaml-file)
+  - [Connect your profiles and project YAML files](#connect-your-profiles-and-project-yaml-files)
 - [**5. Your First dbt Model**](#5-your-first-dbt-model) (2 videos)
-  - Create your first dbt model file
-  - Using the dbt CLI commands
+  - [Create your first dbt model file](#create-your-first-dbt-model-file)
+  - [Using the dbt CLI commands](#using-the-dbt-cli-commands)
 - [**6. Introduction to dbt Ref Function**](#6-introduction-to-dbt-ref-function) (3 videos)
-  - Create your dbt model utilizing ref
-  - Run your dbt models with the ref syntax
-  - View your dbt project data lineage
+  - [Create your dbt model utilizing ref](#create-your-dbt-model-utilizing-ref)
+  - [Run your dbt models with the ref syntax](#run-your-dbt-models-with-the-ref-syntax)
+  - [View your dbt project data lineage](#view-your-dbt-project-data-lineage)
 - [**7. Implementing Medallion Architecture with dbt**](#7-implementing-medallion-architecture-with-dbt) (4 videos)
-  - Planning your medallion architecture project
-  - Medallion architecture: Bronze data
-  - Medallion architecture: Silver data
-  - Medallion architecture: Gold data
+  - [Planning your medallion architecture project](#planning-your-medallion-architecture-project)
+  - [Medallion architecture: Bronze data](#medallion-architecture-bronze-data)
+  - [Medallion architecture: Silver data](#medallion-architecture-silver-data)
+  - [Medallion architecture: Gold data](#medallion-architecture-gold-data)
 - [**8. Materialization of dbt Models**](#8-materialization-of-dbt-models) (2 videos)
-  - Materialization in your dbt project
-  - Implement materialization in your dbt_project.yml file
+  - [Materialization in your dbt project](#materialization-in-your-dbt-project)
+  - [Implement materialization in your dbt_project.yml file](#implement-materialization-in-your-dbt_projectyml-file)
 - [**9. Documentation as Code via dbt**](#9-documentation-as-code-via-dbt) (2 videos)
-  - Further documentation via schema.yml file
-  - The docs_blocks.md file
+  - [Further documentation via schema.yml file](#further-documentation-via-schemayml-file)
+  - [The docs_blocks.md file](#the-docs_blocksmd-file)
 - [**10. Implementing Tests within Your dbt Project**](#10-implementing-tests-within-your-dbt-project) (2 videos)
-  - Creating custom singular tests
-  - Implementing tests within the schema.yml file
+  - [Creating custom singular tests](#creating-custom-singular-tests)
+  - [Implementing tests within the schema.yml file](#implementing-tests-within-the-schemayml-file)
 - [**11. Deploying Your dbt Project**](#11-deploying-your-dbt-project) (2 videos)
-  - Utilizing multiple dbt profiles
-  - Deploying with GitHub workflows
+  - [Utilizing multiple dbt profiles](#utilizing-multiple-dbt-profiles)
+  - [Deploying with GitHub workflows](#deploying-with-github-workflows)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your first dbt project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980)
@@ -127,8 +127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), dbt (4), database (3), [[SQL]] (1), business (1)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Definitions:** known as (1)
 > **Speakers:** - are (1)
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (3), let (2), public (1), this. (1)
+> **Frameworks & Libraries:** data (15), dbt (3), [[Programming]] (2), [[Metadata]] (2), [[Engineering]] (1)
 > **Env Vars:** sql (1), nyc (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (1)
@@ -217,7 +217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), let (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Codespaces]] (2), dbt (2), data (1), [[SQL]] (1)
 > **Tools:** github (2)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** make (1)
@@ -229,7 +229,7 @@ created: 2026-04-29
 
 ### 1. Prepare Your Coding Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install the dbt Core via pip
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-core-via-pip?u=76281980)
@@ -258,6 +258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (5), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dbt (5), pip (4)
 > **CLI Commands:** pip (4), python (1), make (1)
 > **Prerequisites:** install (2)
@@ -291,10 +292,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (7), [[Databases]] (2), data (1)
 > **Env Vars:** dbt (7), pip (2)
 > **Prerequisites:** install (3), set up (1)
 > **CLI Commands:** pip (2), make (1)
-> **Code Keywords:** let (1)
 > **Versions:** 1.6 (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
@@ -326,10 +327,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (2), database (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dbt (2), pip (2)
 > **CLI Commands:** pip (2), python (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** let (1)
 > **Versions:** 0.90 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -358,14 +359,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (2), teams (1)
 > **Env Vars:** dbt (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Prepare Your Database Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your database file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980)
@@ -426,10 +427,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (9), database (7), [[Python (Programming Language)|Python]] (4), data (4), [[Databases]] (2)
 > **Env Vars:** sql (9)
 > **CLI Commands:** python (4), make (2)
 > **Tools:** jupyter (4), vs code (1)
-> **Code Keywords:** from. (1), let (1), function (1)
 > **File Paths:** con.sql (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -514,8 +515,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (5), [[SQL]] (5), dbt (4), [[Zoom]] (2)
 > **Env Vars:** sql (5), dbt (4), csv (3)
-> **Code Keywords:** function (2), let (2), import. (1), super (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Tools:** jupyter (1)
@@ -526,7 +527,7 @@ created: 2026-04-29
 
 ### 3. Create a dbt Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start your project with dbt init
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/start-your-project-with-dbt-init?u=76281980)
@@ -567,15 +568,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (10), database (1), next (1)
 > **Env Vars:** dbt (10), nyc (2), yaml (1)
-> **Code Keywords:** let (2), new. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Prepare Your dbt Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the dbt_project.yml file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/understand-the-dbt-project-yml-file?u=76281980)
@@ -614,8 +615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (7)
 > **Env Vars:** dbt (7), yaml (3), nit (1)
-> **Code Keywords:** this. (1), finally, (1)
 > **Code Identifiers:** nyc_parking_violations (2)
 > **Definitions:** stands for (1)
 > **Analogies:** think of it as (1)
@@ -680,6 +681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (4), next (2), cd (1), database (1)
 > **Env Vars:** dbt (4), nyc (2)
 > **Tools:** terminal (2), command line (1)
 > **CLI Commands:** make (1), cd (1)
@@ -687,7 +689,6 @@ created: 2026-04-29
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** stands for (1)
-> **Best Practices:** pro tip (1)
 
 #### Connect your profiles and project YAML files
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/connect-your-profiles-and-project-yaml-files?u=76281980)
@@ -748,8 +749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (18), data (1), cd (1)
 > **Env Vars:** dbt (18), nyc (4)
-> **Code Keywords:** let (3), this. (2), default. (1), match. (1), pass (1)
 > **CLI Commands:** find (2), make (1), ls (1), cd (1)
 > **Tools:** command line (2)
 > **Best Practices:** remember to (1)
@@ -758,7 +759,7 @@ created: 2026-04-29
 
 ### 5. Your First dbt Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your first dbt model file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-first-dbt-model-file?u=76281980)
@@ -807,9 +808,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), dbt (4), cd (1)
 > **Env Vars:** sql (5), dbt (4), nyc (2)
 > **CLI Commands:** make (2), cd (1)
-> **Code Keywords:** delete (2)
 > **File Paths:** model.sql (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -901,8 +902,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (27), [[SQL]] (4), database (4), data (3), next (2)
 > **Env Vars:** dbt (27), sql (4), nyc (3), csv (1)
-> **Code Keywords:** let (5), finally. (1), pass (1), finally, (1), function (1)
 > **CLI Commands:** ls (1), cd (1), find (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Tools:** command line (2)
@@ -913,7 +914,7 @@ created: 2026-04-29
 
 ### 6. Introduction to dbt Ref Function
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your dbt model utilizing ref
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-dbt-model-utilizing-ref?u=76281980)
@@ -968,8 +969,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (9), [[SQL]] (2), database (2), data (1), [[Orchestration]] (1)
 > **Env Vars:** dbt (9), sql (1), nyc (1)
-> **Code Keywords:** let (2), from, (1)
 > **Code Identifiers:** ref_model (2), first_model (1)
 > **CLI Commands:** make (1), ls (1)
 > **File Paths:** ref_model.sql (1)
@@ -1020,8 +1021,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (6), [[Orchestration]] (1), database (1), data (1), next (1)
 > **Code Identifiers:** ref_model (3), nyc_parking_violations (1), first_model (1), run_sql_queries_here (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (2)
 > **SQL:** select (1)
 > **Env Vars:** select (1)
@@ -1069,9 +1070,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (12), [[Metadata]] (3), database (2), data (2), power (1)
 > **Env Vars:** dbt (12), cli (1), nyc (1), json (1)
 > **CLI Commands:** make (1), cd (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1079,7 +1080,7 @@ created: 2026-04-29
 
 ### 7. Implementing Medallion Architecture with dbt
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning your medallion architecture project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/planning-your-medallion-architecture-project?u=76281980)
@@ -1108,7 +1109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (8), dbt (3), [[SQL]] (1)
 > **Env Vars:** dbt (2), nyc (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1223,8 +1224,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), dbt (8), [[SQL]] (7), database (3), [[CLI]] (1)
 > **Env Vars:** dbt (8), sql (5), nyc (1), cli (1)
-> **Code Keywords:** let (5), case, (1), this, (1), from. (1), finally, (1)
 > **CLI Commands:** make (5), mkdir (1)
 > **File Paths:** codes.sql (1), violations.sql (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1327,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), finally, (1), super (1), from. (1)
+> **Frameworks & Libraries:** data (12), dbt (8), [[SQL]] (3), database (1), [[Data Engineering]] (1)
 > **Code Identifiers:** silver_parking_violation_codes (3), silver_parking_violations (2), silver_violation_tickets (2), fee_usd (2), silver_violation_vehicles (1)
 > **Env Vars:** sql (3), nyc (1), csv (1), select (1), usd (1)
 > **CLI Commands:** make (6)
@@ -1401,8 +1402,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (7), data (6), [[Dashboards]] (2), database (2), [[SQL]] (2)
 > **Env Vars:** dbt (7), sql (2), nyc (1), cli (1)
-> **Code Keywords:** let (8), this, (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
@@ -1411,7 +1412,7 @@ created: 2026-04-29
 
 ### 8. Materialization of dbt Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Materialization in your dbt project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980)
@@ -1448,8 +1449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), dbt (6), database (5)
 > **Env Vars:** dbt (6)
-> **Code Keywords:** super (1), finally, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Implement materialization in your dbt_project.yml file
@@ -1505,8 +1506,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (8), next (1)
 > **Env Vars:** dbt (8), yaml (1), nyc (1), dvt (1)
-> **Code Keywords:** let (4), this. (1)
 > **CLI Commands:** make (2), go run (1)
 > **Prerequisites:** set up (3)
 > **Cross-References:** previous video (1), next video (1)
@@ -1517,7 +1518,7 @@ created: 2026-04-29
 
 ### 9. Documentation as Code via dbt
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further documentation via schema.yml file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/further-documentation-via-schema-yml-file?u=76281980)
@@ -1586,7 +1587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1), this. (1)
+> **Frameworks & Libraries:** dbt (7), data (4), [[Zoom]] (1), next (1)
 > **Documentation:** the documentation (4), the docs (1)
 > **File Paths:** schema.yaml (1), touchmodels/docs/schema.yaml (1)
 > **UI Navigation:** go to (1)
@@ -1672,7 +1673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (2), function (1), delete (1)
+> **Frameworks & Libraries:** dbt (9), [[Python (Programming Language)|Python]] (1), [[Engineering]] (1), next (1)
 > **Env Vars:** dbt (9)
 > **File Paths:** schema.yaml (3), blocks.md (2)
 > **CLI Commands:** make (2), python (1)
@@ -1684,7 +1685,7 @@ created: 2026-04-29
 
 ### 10. Implementing Tests within Your dbt Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating custom singular tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980)
@@ -1763,7 +1764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), this, (1)
+> **Frameworks & Libraries:** dbt (6), [[SQL]] (5), generic (3), [[CLI]] (1), feature (1)
 > **Env Vars:** sql (4), usd (1), cli (1)
 > **Code Identifiers:** violation_codes_revenue (2), not_null (1), accepted_values (1), nyc_parking_violations (1)
 > **Definitions:** is a  (2)
@@ -1879,8 +1880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (10), generic (6), [[SQL]] (2), cd (1)
 > **Code Identifiers:** generic_not_null (4), not_null (3), summons_number (2), bronze_parking_violation (1), bronze_parking_violations (1)
-> **Code Keywords:** let (10), function (1), finally, (1)
 > **CLI Commands:** make (5), cd (1)
 > **File Paths:** schema.yml (2), generic_not_null.sql (1), dbt_project.yml (1)
 > **Env Vars:** sql (1)
@@ -1891,7 +1892,7 @@ created: 2026-04-29
 
 ### 11. Deploying Your dbt Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Utilizing multiple dbt profiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980)
@@ -1968,8 +1969,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), dbt (8), data (2), [[SQL]] (1), next (1)
 > **Env Vars:** dbt (8), nyc (3), csv (2), yaml (1), sql (1)
-> **Code Keywords:** let (4), import. (2), super (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
@@ -2116,7 +2117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (3), this, (1), delete (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), dbt (5), database (2), [[Zoom]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (6), terminal (2)
 > **File Paths:** profiles.yml (3), run-dbt-prod.yml (1)
 > **Env Vars:** dbt (4)
@@ -2128,7 +2129,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/next-steps?u=76281980)
@@ -2151,6 +2152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dbt (3), data (3), database (2), [[LinkedIn]] (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [onthemarkdata.com](https://onthemarkdata.com) (1)
 > **UI Navigation:** go to (1)

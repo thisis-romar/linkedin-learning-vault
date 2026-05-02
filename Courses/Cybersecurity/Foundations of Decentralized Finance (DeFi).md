@@ -29,7 +29,7 @@ tags:
   - skill/decentralization
   - skill/finance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Foundations%20of%20Decentralized%20Finance%20(DeFi).md)
@@ -48,33 +48,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The rapid growth of DeFi
+  - [The rapid growth of DeFi](#the-rapid-growth-of-defi)
 - [**1. What is Decentralized Finance?**](#1-what-is-decentralized-finance) (6 videos)
-  - What is DeFi?
-  - Money legos
-  - Stablecoins
-  - DEXs
-  - Automated market makers
-  - Decentralized lending platforms
+  - [What is DeFi?](#what-is-defi)
+  - [Money legos](#money-legos)
+  - [Stablecoins](#stablecoins)
+  - [DEXs](#dexs)
+  - [Automated market makers](#automated-market-makers)
+  - [Decentralized lending platforms](#decentralized-lending-platforms)
 - [**2. Yields Available in DeFi**](#2-yields-available-in-defi) (5 videos)
-  - Higher-risk adjusted returns
-  - Where do yields come from?
-  - Risk within DeFi yield farming
-  - Yield farming types
-  - Yield farming portfolio
+  - [Higher-risk adjusted returns](#higher-risk-adjusted-returns)
+  - [Where do yields come from?](#where-do-yields-come-from)
+  - [Risk within DeFi yield farming](#risk-within-defi-yield-farming)
+  - [Yield farming types](#yield-farming-types)
+  - [Yield farming portfolio](#yield-farming-portfolio)
 - [**3. Essential Tools of DeFi**](#3-essential-tools-of-defi) (6 videos)
-  - How to enter the world of DeFi
-  - Set up your DeFi wallet
-  - Join your DeFi community
-  - How to use a DEX
-  - How to add liquidity to an LP
-  - How to loan and borrow in DeFi
+  - [How to enter the world of DeFi](#how-to-enter-the-world-of-defi)
+  - [Set up your DeFi wallet](#set-up-your-defi-wallet)
+  - [Join your DeFi community](#join-your-defi-community)
+  - [How to use a DEX](#how-to-use-a-dex)
+  - [How to add liquidity to an LP](#how-to-add-liquidity-to-an-lp)
+  - [How to loan and borrow in DeFi](#how-to-loan-and-borrow-in-defi)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learn more about DeFi
+  - [Learn more about DeFi](#learn-more-about-defi)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The rapid growth of DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/the-rapid-growth-of-defi?u=76281980)
@@ -117,13 +117,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (3), let (1)
+> **Frameworks & Libraries:** career (1)
 > **Speakers:** - let (1)
 
 
 ### 1. What is Decentralized Finance?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DeFi?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980)
@@ -206,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (2), this. (1), require (1), this, (1), new. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), product (5), [[Banking]] (3), data (2), [[Statistics]] (1)
 > **CLI Commands:** find (1)
 > **Versions:** 1.7 (1)
 > **Definitions:** is a  (1)
@@ -249,7 +249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new. (1), break, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
@@ -324,8 +324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Blockchain]] (3)
 > **Env Vars:** btc (1), usdc (1), ust (1)
-> **Code Keywords:** else. (1)
 > **Definitions:** known as (1)
 > **Speakers:** - so (1)
 
@@ -374,6 +374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (4), business (1), [[Blockchain]] (1)
 > **Env Vars:** dex (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
@@ -405,7 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Tokens]] (2)
 > **Env Vars:** amm (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -450,7 +451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (2), this, (2), let (1)
+> **Frameworks & Libraries:** [[Ethereum]] (2), [[Tokens]] (1), [[Cryptocurrency]] (1), [[Smart Contracts]] (1), [[Blockchain]] (1)
 > **Env Vars:** dex (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
@@ -458,7 +459,7 @@ created: 2026-04-29
 
 ### 2. Yields Available in DeFi
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Higher-risk adjusted returns
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/higher-risk-adjusted-returns?u=76281980)
@@ -493,7 +494,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (5)
 > **Speakers:** - so (1)
 
 #### Where do yields come from?
@@ -535,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (2), continue (1)
+> **Frameworks & Libraries:** [[Tokens]] (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
 
@@ -618,7 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (4), let (3)
+> **Frameworks & Libraries:** next (2), [[Smart Contracts]] (2), [[Blockchain]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Speakers:** - so (1), - this (1), - now (1)
@@ -746,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (19), return. (2), let (1), for, (1)
+> **Frameworks & Libraries:** next (4), [[Forms]] (1), [[Search]] (1), [[Smart Contracts]] (1), [[Blockchain]] (1)
 > **Env Vars:** apy (6), tvl (2), dao (2), usdc (1), dai (1)
 > **Speakers:** - [instructor] (4), - now (3), - so (1), - the (1)
 > **UI Navigation:** go to (5), click on (1), scroll down (1)
@@ -829,7 +829,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (3), this. (2), finally, (1)
 > **Versions:** 39.6 (3)
 > **Env Vars:** roi (2)
 > **Definitions:** is a  (1)
@@ -838,7 +837,7 @@ created: 2026-04-29
 
 ### 3. Essential Tools of DeFi
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to enter the world of DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-enter-the-world-of-defi?u=76281980)
@@ -859,6 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Cryptocurrency]] (1), [[Ethereum]] (1)
 > **Env Vars:** eth (3)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - next (1)
@@ -1002,7 +1002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (4), interface (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Ethereum]] (7), [[Blockchain]] (4), [[Tokens]] (4), feature (1), [[Hardware]] (1)
 > **UI Navigation:** click on (4), select the (1)
 > **Speakers:** - now (1), - [instructor] (1), - for (1)
 > **Analogies:** for example (1), such as (1)
@@ -1067,11 +1067,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[Customer Support]] (1), product (1), next (1)
 > **Tools:** discord (7)
 > **Speakers:** - discord (1), - [instructor] (1), - it (1)
 > **Warnings:** caution (1), keep in mind (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** yield (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is an  (1)
@@ -1231,8 +1231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (13), [[Ethereum]] (4), [[Blockchain]] (2), next (1)
 > **Env Vars:** usdc (9), uniswap (3), eth (2), dex (1), jpeg (1)
-> **Code Keywords:** let (7), interface (3), yield (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - decentralized (1), - [speaker] (1), - once (1)
 > **CLI Commands:** find (2)
@@ -1343,8 +1343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Ethereum]] (3), next (2), [[Blockchain]] (1), [[Analytics]] (1)
 > **Env Vars:** usdc (8), eth (2), amm (1), amms (1)
-> **Code Keywords:** interface (3), yield (3), let (2), this. (2)
 > **Versions:** 0.00006723 (1), 13.19 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1499,8 +1499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (3), next (2)
 > **Env Vars:** dai (10), avax (4), max (2), usdc (1), ust (1)
-> **Code Keywords:** let (6), this. (3), yield (2), this, (1)
 > **Versions:** 1.41 (3), 3.28 (2), 1.89 (1), 3.81 (1), 0.1 (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **Cross-References:** go back to (2)
@@ -1511,7 +1511,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more about DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/learn-more-about-defi?u=76281980)
@@ -1570,7 +1570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), this. (1), finally, (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Zoom]] (1)
 > **Env Vars:** nft (5)
 > **Speakers:** - congratulations (1)
 

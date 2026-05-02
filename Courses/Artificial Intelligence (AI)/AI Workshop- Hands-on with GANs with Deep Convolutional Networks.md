@@ -35,7 +35,7 @@ tags:
   - skill/convolutional-neural-networks-cnn
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Workshop-%20Hands-on%20with%20GANs%20with%20Deep%20Convolutional%20Networks.md)
@@ -54,36 +54,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - A quick overview of GANs
+  - [A quick overview of GANs](#a-quick-overview-of-gans)
 - [**1. Understanding Convolutional and Pooling Layers**](#1-understanding-convolutional-and-pooling-layers) (6 videos)
-  - Course outline and prerequisites
-  - Setting up Google Colab cloud-hosted notebooks
-  - Understanding convolutional neural networks
-  - Transforming a multichannel image to tensor
-  - Applying convolutional and pooling layers
-  - Viewing the effect of different filters
+  - [Course outline and prerequisites](#course-outline-and-prerequisites)
+  - [Setting up Google Colab cloud-hosted notebooks](#setting-up-google-colab-cloud-hosted-notebooks)
+  - [Understanding convolutional neural networks](#understanding-convolutional-neural-networks)
+  - [Transforming a multichannel image to tensor](#transforming-a-multichannel-image-to-tensor)
+  - [Applying convolutional and pooling layers](#applying-convolutional-and-pooling-layers)
+  - [Viewing the effect of different filters](#viewing-the-effect-of-different-filters)
 - [**2. Training a Discriminator as a Classification Model**](#2-training-a-discriminator-as-a-classification-model) (7 videos)
-  - Types of convolutional layers
-  - Training data for discriminator bad fakes and real images
-  - Loading and transforming training image data
-  - Understanding the discriminator architecture
-  - Training a discriminator on bad fakes
-  - Training data for discriminator good fakes and real images
-  - Training a discriminator on good fakes
+  - [Types of convolutional layers](#types-of-convolutional-layers)
+  - [Training data for discriminator bad fakes and real images](#training-data-for-discriminator-bad-fakes-and-real-images)
+  - [Loading and transforming training image data](#loading-and-transforming-training-image-data)
+  - [Understanding the discriminator architecture](#understanding-the-discriminator-architecture)
+  - [Training a discriminator on bad fakes](#training-a-discriminator-on-bad-fakes)
+  - [Training data for discriminator good fakes and real images](#training-data-for-discriminator-good-fakes-and-real-images)
+  - [Training a discriminator on good fakes](#training-a-discriminator-on-good-fakes)
 - [**3. Training a Deep Convolutional GAN**](#3-training-a-deep-convolutional-gan) (7 videos)
-  - Generator and discriminator
-  - Deep convolutional GANs (DCGANs)
-  - Setting up data for GAN training
-  - Setting up the generator and discriminator
-  - Output from an untrained generator and discriminator
-  - Setting up the GAN training loop
-  - Viewing GAN training results
+  - [Generator and discriminator](#generator-and-discriminator)
+  - [Deep convolutional GANs (DCGANs)](#deep-convolutional-gans-dcgans)
+  - [Setting up data for GAN training](#setting-up-data-for-gan-training)
+  - [Setting up the generator and discriminator](#setting-up-the-generator-and-discriminator)
+  - [Output from an untrained generator and discriminator](#output-from-an-untrained-generator-and-discriminator)
+  - [Setting up the GAN training loop](#setting-up-the-gan-training-loop)
+  - [Viewing GAN training results](#viewing-gan-training-results)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick overview of GANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980)
@@ -154,16 +154,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Neural Networks]] (3), ai (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2)
 > **Env Vars:** gan (5), cnn (1), dcgan (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Analogies:** similar to (1)
 
 
 ### 1. Understanding Convolutional and Pooling Layers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course outline and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980)
@@ -198,10 +198,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[PyTorch]] (1), ai (1)
 > **CLI Commands:** make (2), python (2)
 > **Env Vars:** gan (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you need to have (1)
 
 #### Setting up Google Colab cloud-hosted notebooks
@@ -293,8 +293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (9), cloud (5), [[Python (Programming Language)|Python]] (2), [[Hardware]] (2), web (1)
 > **Tools:** colab (13), jupyter (3)
-> **Code Keywords:** let (4), function (1)
 > **Env Vars:** gpu (2), cpu (2), gan (1)
 > **UI Navigation:** select the (2), click on (1), right-click (1)
 > **Prerequisites:** set up (1), you'll need (1), before we start (1)
@@ -419,8 +419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), feature (8), [[Neural Networks]] (4), cnn (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (3)
 > **Definitions:** refers to (5), is a  (1)
-> **Code Keywords:** let (4), this. (1)
 > **Env Vars:** cnn (3)
 > **Analogies:** picture (1), such as (1)
 
@@ -509,7 +509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** [[PyTorch]] (9), [[Neural Networks]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), functional (1), data (1)
 > **Definitions:** is a  (2), refers to (2)
 > **Code Identifiers:** img_tensor (2)
 > **Env Vars:** rgb (2)
@@ -612,7 +612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), function (2), default, (1)
+> **Frameworks & Libraries:** next (3), feature (3), [[PyTorch]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Code Identifiers:** sharpen_filter (2)
 > **Analogies:** for example (1)
@@ -724,7 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), pass (2), this. (1)
+> **Frameworks & Libraries:** feature (5), next (2)
 > **Code Identifiers:** apply_kernel_and_show (1), img_tensor (1), vertical_edge_kernel (1)
 > **Analogies:** similar to (2)
 > **Definitions:** is a  (1)
@@ -732,7 +732,7 @@ created: 2026-04-29
 
 ### 2. Training a Discriminator as a Classification Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of convolutional layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/types-of-convolutional-layers?u=76281980)
@@ -805,7 +805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), this, (1)
+> **Frameworks & Libraries:** feature (12), data (1)
 > **Definitions:** is a  (1), refers to (1), is an  (1)
 
 #### Training data for discriminator bad fakes and real images
@@ -901,9 +901,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Drive]] (7), [[Google]] (5), data (4), [[PyTorch]] (2)
 > **Code Identifiers:** bad_fake_images (3), real_images (2), ai_workshop_dcgans (1), anime_classification (1), bad_fake (1)
 > **Env Vars:** gan (6), gpu (2)
-> **Code Keywords:** let (6), default. (1)
 > **Tools:** colab (7)
 > **Prerequisites:** set up (4), you'll need (1)
 > **CLI Commands:** find (2), make (2)
@@ -1023,7 +1023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4)
+> **Frameworks & Libraries:** data (19), next (5), [[PyTorch]] (4), [[Google Drive]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** make_grid (2), ai_workshop_dcgans (1), anime_classification (1), bad_fake_images (1), real_images (1)
 > **Env Vars:** gpu (2), cpu (1), cuda (1), rgb (1)
 > **Versions:** 0.5 (5)
@@ -1152,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), module (1), class, (1), finally, (1)
+> **Frameworks & Libraries:** feature (6), [[Probability]] (3), [[PyTorch]] (1), next (1), data (1)
 > **Code Identifiers:** out_channels (4), weights_init (2), in_channels (2)
 > **Prerequisites:** set up (4), initialization (1)
 > **Env Vars:** gan (2), gpu (1)
@@ -1288,7 +1288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (3), function (2), class, (1), super (1)
+> **Frameworks & Libraries:** data (11), [[Probability]] (4), next (4)
 > **Env Vars:** gan (4), gpu (3)
 > **Code Identifiers:** correct_pred (2), total_pred (2), zero_grad (1), no_grad (1)
 > **CLI Commands:** make (3)
@@ -1368,8 +1368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Google Drive]] (2)
 > **Code Identifiers:** good_fake_images (4), ai_workshop_dcgans (1), anime_classification (1), make_grid (1)
-> **Code Keywords:** let (3), this, (1), function (1)
 > **Env Vars:** gan (2), gpu (2)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** colab (2)
@@ -1470,7 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), class. (2), pass (1)
+> **Frameworks & Libraries:** data (6), next (3), feature (1)
 > **Code Identifiers:** all_predictions (4), all_labels (3)
 > **Prerequisites:** set up (6)
 > **CLI Commands:** make (4)
@@ -1481,7 +1481,7 @@ created: 2026-04-29
 
 ### 3. Training a Deep Convolutional GAN
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generator and discriminator
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/generator-and-discriminator?u=76281980)
@@ -1514,8 +1514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (2), [[Probability]] (1)
 > **Env Vars:** gan (4)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 
@@ -1616,8 +1616,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cnn (3), feature (3), data (2), [[Neural Networks]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Env Vars:** gan (9), cnn (3)
-> **Code Keywords:** finally, (2), let (1), function (1), pass (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (1), initialization (1)
 > **URLs:** [arxive.org](https://arxive.org) (1)
@@ -1725,8 +1725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Google Drive]] (3), [[PyTorch]] (1), [[Google]] (1), cloud (1)
 > **Env Vars:** gpu (3), gan (2), cpu (1), cuda (1)
-> **Code Keywords:** let (6)
 > **Code Identifiers:** ai_workshop_dcgans (1), anime_classification (1), anime_images (1), anime_faces_dataset (1), drop_last (1)
 > **Prerequisites:** set up (2), make sure you have (1), setup (1), before we start (1)
 > **CLI Commands:** make (2), unzip (1), find (1)
@@ -1857,8 +1857,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), next (2), [[Neural Networks]] (1), data (1), [[PyTorch]] (1)
 > **Code Identifiers:** out_channels (6), in_channels (4), weights_init (2)
-> **Code Keywords:** function (4), let (2), module (1), class, (1), finally, (1)
 > **Env Vars:** gan (4), gpu (3), cuda (1), cpu (1)
 > **Prerequisites:** set up (3), initialization (1)
 > **Versions:** 0.02 (2), 0.002 (1)
@@ -1929,7 +1929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Definitions:** is a  (2)
 > **Versions:** 0.5 (1)
 > **Prerequisites:** set up (1)
@@ -2057,7 +2057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), function (5), let (2)
+> **Frameworks & Libraries:** next (5), data (4), [[Probability]] (2)
 > **Prerequisites:** set up (7)
 > **Code Identifiers:** real_score_list (1), fake_score_list (1), optimizerd (1), optimizerg (1)
 > **CLI Commands:** make (3)
@@ -2170,7 +2170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), continue (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Versions:** 0.412 (1), 7.63 (1), 0.523 (1), 7.788 (1), 0.619 (1)
 > **Env Vars:** gan (4), gpu (1)
 > **Warnings:** keep in mind (2)
@@ -2179,7 +2179,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980)
@@ -2208,8 +2208,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), ai (1), [[LinkedIn]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** gan (1)
 > **Cross-References:** we covered (1)
 

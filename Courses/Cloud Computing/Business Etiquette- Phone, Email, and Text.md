@@ -30,7 +30,7 @@ tags:
   - skill/professional-communication
   - skill/email-etiquette
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Business%20Etiquette-%20Phone%2C%20Email%2C%20and%20Text.md)
@@ -49,31 +49,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Business etiquette for today's workplace
+  - [Business etiquette for today's workplace](#business-etiquette-for-todays-workplace)
 - [**1. Etiquette for Business Emails**](#1-etiquette-for-business-emails) (5 videos)
-  - Email etiquette: Subjects, salutations, and signatures
-  - Respectfully addressing recipients: Names, gender, and pronouns
-  - Email etiquette: BCC, CC, automatic messages, and read receipts
-  - Email etiquette: Anticipating the needs of the recipient
-  - Email etiquette: Tone and timing
+  - [Email etiquette: Subjects, salutations, and signatures](#email-etiquette-subjects-salutations-and-signatures)
+  - [Respectfully addressing recipients: Names, gender, and pronouns](#respectfully-addressing-recipients-names-gender-and-pronouns)
+  - [Email etiquette: BCC, CC, automatic messages, and read receipts](#email-etiquette-bcc-cc-automatic-messages-and-read-receipts)
+  - [Email etiquette: Anticipating the needs of the recipient](#email-etiquette-anticipating-the-needs-of-the-recipient)
+  - [Email etiquette: Tone and timing](#email-etiquette-tone-and-timing)
 - [**2. Etiquette for Business Messaging**](#2-etiquette-for-business-messaging) (2 videos)
-  - Messaging etiquette: Texting
-  - Messaging etiquette: Instant messaging (IMs) and chat
+  - [Messaging etiquette: Texting](#messaging-etiquette-texting)
+  - [Messaging etiquette: Instant messaging (IMs) and chat](#messaging-etiquette-instant-messaging-ims-and-chat)
 - [**3. Etiquette for Business Phone Calls**](#3-etiquette-for-business-phone-calls) (4 videos)
-  - Understanding etiquette for phone calls
-  - Phone etiquette: Leaving a formal voicemail
-  - Phone etiquette: Creating a professional voicemail greeting
-  - Knowing when to call vs. text vs. email
+  - [Understanding etiquette for phone calls](#understanding-etiquette-for-phone-calls)
+  - [Phone etiquette: Leaving a formal voicemail](#phone-etiquette-leaving-a-formal-voicemail)
+  - [Phone etiquette: Creating a professional voicemail greeting](#phone-etiquette-creating-a-professional-voicemail-greeting)
+  - [Knowing when to call vs. text vs. email](#knowing-when-to-call-vs-text-vs-email)
 - [**4. Etiquette for Written Business Communication**](#4-etiquette-for-written-business-communication) (3 videos)
-  - Written communication etiquette: Business letter
-  - Written communication etiquette: Contact information
-  - Written communication etiquette: Thanks, celebration, and sympathy
+  - [Written communication etiquette: Business letter](#written-communication-etiquette-business-letter)
+  - [Written communication etiquette: Contact information](#written-communication-etiquette-contact-information)
+  - [Written communication etiquette: Thanks, celebration, and sympathy](#written-communication-etiquette-thanks-celebration-and-sympathy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Etiquette is all about relationships
+  - [Etiquette is all about relationships](#etiquette-is-all-about-relationships)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business etiquette for today's workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/business-etiquette-for-today-s-workplace?u=76281980)
@@ -94,13 +94,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 
 
 ### 1. Etiquette for Business Emails
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Email etiquette: Subjects, salutations, and signatures
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980)
@@ -187,7 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), let (1), require (1), this. (1)
+> **Frameworks & Libraries:** business (1), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **Analogies:** similar to (1), think of it as (1)
 > **Best Practices:** pro tip (2)
 
@@ -250,8 +251,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 > **Analogies:** for example (1)
 
 #### Email etiquette: BCC, CC, automatic messages, and read receipts
@@ -323,7 +324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), return. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** feature (3), [[Privacy]] (2), business (2), [[Microsoft Office|Office]] (1)
 > **Best Practices:** pro tip (1), remember to (1), it's best to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -417,8 +418,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Excel|Excel]] (2), next (1), hit (1), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), public (1), private (1)
 > **Analogies:** for example (1)
 
 #### Email etiquette: Tone and timing
@@ -486,7 +487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** business (6), next (2), [[Microsoft Word|Word]] (1), [[Real-Time]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -495,7 +496,7 @@ created: 2026-04-29
 
 ### 2. Etiquette for Business Messaging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Messaging etiquette: Texting
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-texting?u=76281980)
@@ -584,7 +585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), else, (1)
+> **Frameworks & Libraries:** business (2), [[Interviewing]] (1), feature (1), career (1)
 > **CLI Commands:** find (1), snap (1)
 > **Analogies:** think of it as (1)
 > **Warnings:** caution (1)
@@ -670,14 +671,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** business (3), feature (2), [[Zoom]] (1), [[Microsoft Teams]] (1), [[Slack]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Tools:** slack (1)
 
 
 ### 3. Etiquette for Business Phone Calls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding etiquette for phone calls
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980)
@@ -746,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), let (1)
+> **Frameworks & Libraries:** [[Phone Etiquette]] (4), [[Interviewing]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** xyz (1)
 > **Definitions:** is a  (1)
@@ -856,7 +857,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (3), this. (1), this, (1), private (1)
 > **Env Vars:** xyz (2), urs (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -928,7 +928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (1), else. (1), return. (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **Env Vars:** xyz (2)
 
 #### Knowing when to call vs. text vs. email
@@ -1016,15 +1016,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Privacy]] (1), [[Banking]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (2), for instance (1)
 > **Best Practices:** pro tip (1)
 
 
 ### 4. Etiquette for Written Business Communication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Written communication etiquette: Business letter
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-business-letter?u=76281980)
@@ -1093,7 +1093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** business (2), generic (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** template (1)
@@ -1190,7 +1190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** business (8), [[LinkedIn]] (2), career (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** pro tip (2)
 > **Analogies:** for example (1)
@@ -1286,7 +1286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1), public (1), pass (1), this, (1)
+> **Frameworks & Libraries:** business (4), [[Microsoft Office|Office]] (1), career (1), next (1), [[Privacy]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -1296,7 +1296,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Etiquette is all about relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/etiquette-is-all-about-relationships?u=76281980)
@@ -1345,6 +1345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), [[LinkedIn]] (1)
 > **URLs:** [disruptiveetiquette.com](https://disruptiveetiquette.com) (1)
 > **Definitions:** is an  (1)
 

@@ -35,7 +35,7 @@ tags:
   - skill/javascript
   - skill/ecmascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20ECMAScript%206%2B%20(ES6%2B).md)
@@ -54,56 +54,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Using modern JavaScript today
-  - What you should know before watching this course
-  - How to use CoderPad
+  - [Using modern JavaScript today](#using-modern-javascript-today)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
+  - [How to use CoderPad](#how-to-use-coderpad)
 - [**1. What Is ECMAScript?**](#1-what-is-ecmascript) (3 videos)
-  - What is ECMAScript?
-  - Staying up to date with new releases
-  - Understanding browser support
+  - [What is ECMAScript?](#what-is-ecmascript)
+  - [Staying up to date with new releases](#staying-up-to-date-with-new-releases)
+  - [Understanding browser support](#understanding-browser-support)
 - [**2. ECMAScript Variables and Data Structures**](#2-ecmascript-variables-and-data-structures) (8 videos)
-  - Using the let keyword
-  - Working with the const keyword
-  - Writing template strings
-  - Searching strings
-  - Using symbols
-  - Writing maps
-  - Working with sets
-  - Solution: Building a user processor function
+  - [Using the let keyword](#using-the-let-keyword)
+  - [Working with the const keyword](#working-with-the-const-keyword)
+  - [Writing template strings](#writing-template-strings)
+  - [Searching strings](#searching-strings)
+  - [Using symbols](#using-symbols)
+  - [Writing maps](#writing-maps)
+  - [Working with sets](#working-with-sets)
+  - [Solution: Building a user processor function](#solution-building-a-user-processor-function)
 - [**3. Arrays and Array Methods**](#3-arrays-and-array-methods) (4 videos)
-  - Using the array spread operator
-  - Destructuring arrays
-  - Searching arrays with the .includes function
-  - Solution: Implementing a Smart Array processor
+  - [Using the array spread operator](#using-the-array-spread-operator)
+  - [Destructuring arrays](#destructuring-arrays)
+  - [Searching arrays with the .includes function](#searching-arrays-with-the-includes-function)
+  - [Solution: Implementing a Smart Array processor](#solution-implementing-a-smart-array-processor)
 - [**4. ECMAScript Objects**](#4-ecmascript-objects) (8 videos)
-  - Enhancing object literals
-  - Creating objects with the spread operator
-  - Destructuring objects
-  - Iterating with the for/of loop
-  - Introducing classes
-  - Inheritance with JavaScript classes
-  - Getting and setting class values
-  - Solution: Building a product object
+  - [Enhancing object literals](#enhancing-object-literals)
+  - [Creating objects with the spread operator](#creating-objects-with-the-spread-operator)
+  - [Destructuring objects](#destructuring-objects)
+  - [Iterating with the for/of loop](#iterating-with-the-forof-loop)
+  - [Introducing classes](#introducing-classes)
+  - [Inheritance with JavaScript classes](#inheritance-with-javascript-classes)
+  - [Getting and setting class values](#getting-and-setting-class-values)
+  - [Solution: Building a product object](#solution-building-a-product-object)
 - [**5. ECMAScript Functions**](#5-ecmascript-functions) (6 videos)
-  - Using the string.repeat function
-  - Setting default function parameters
-  - Writing arrow functions
-  - Understanding this in arrow functions
-  - Working with generators
-  - Solution: Implementing advanced function patterns
+  - [Using the string.repeat function](#using-the-stringrepeat-function)
+  - [Setting default function parameters](#setting-default-function-parameters)
+  - [Writing arrow functions](#writing-arrow-functions)
+  - [Understanding this in arrow functions](#understanding-this-in-arrow-functions)
+  - [Working with generators](#working-with-generators)
+  - [Solution: Implementing advanced function patterns](#solution-implementing-advanced-function-patterns)
 - [**6. Asynchronous JavaScript**](#6-asynchronous-javascript) (6 videos)
-  - Building promises
-  - Loading remote data with promises
-  - Returning promises with fetch
-  - Using async/await syntax
-  - Incorporating fetch with async/await
-  - Solution: Building an async data handler
+  - [Building promises](#building-promises)
+  - [Loading remote data with promises](#loading-remote-data-with-promises)
+  - [Returning promises with fetch](#returning-promises-with-fetch)
+  - [Using async/await syntax](#using-asyncawait-syntax)
+  - [Incorporating fetch with async/await](#incorporating-fetch-with-asyncawait)
+  - [Solution: Building an async data handler](#solution-building-an-async-data-handler)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using modern JavaScript today
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980)
@@ -138,7 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), web (2), [[ECMAScript]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -168,8 +168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1), css (1)
 > **Env Vars:** html (1), css (1)
-> **Code Keywords:** class, (1)
 > **Tools:** vs code (1)
 > **Speakers:** - [narrator] (1)
 
@@ -238,7 +238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), else. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Code Identifiers:** bycategory (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** cat (1)
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 ### 1. What Is ECMAScript?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ECMAScript?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-is-ecmascript?u=76281980)
@@ -289,9 +289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ECMAScript]] (11), [[JavaScript]] (6), [[Microsoft]] (1)
 > **Documentation:** spec (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** ecma (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -327,6 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ECMAScript]] (2), [[JavaScript]] (1), [[GitHub]] (1), feature (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **UI Navigation:** click on (2)
 > **URLs:** [github.com](https://github.com) (1)
@@ -348,13 +349,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ECMAScript]] (2), web (1), [[JavaScript]] (1), feature (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. ECMAScript Variables and Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the let keyword
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980)
@@ -453,7 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), var (4), function (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[ECMAScript]] (3), [[HTML]] (2), dom (2), next (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (3)
 > **Code Identifiers:** getelementbyid (1), createelement (1)
@@ -507,7 +509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), const (3), var (3), this, (1), this. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), next (1), hit (1)
 > **Cross-References:** later in (1)
 > **Analogies:** just like (1)
 > **Warnings:** warning (1)
@@ -590,8 +592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (5), feature (1)
 > **Exercise Files:** template (15)
-> **Code Keywords:** function (4), let (3), finally, (1)
 > **CLI Commands:** make (2)
 > **File Paths:** script.js (1)
 > **Versions:** 5.95 (1)
@@ -664,7 +666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), match, (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (8), [[JavaScript]] (1)
 > **Code Identifiers:** endswith (3), startswith (2)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** note that (1), keep in mind (1)
@@ -723,7 +725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** es6 (1)
 > **Definitions:** in other words (1)
@@ -810,7 +812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), type. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JavaScript]] (2), hit (1), data (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
@@ -881,7 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (3), delete (2), type, (1), pass (1)
+> **Frameworks & Libraries:** api (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -939,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), this, (1)
+> **Frameworks & Libraries:** data (3), next (1), power (1)
 > **Code Identifiers:** isadmin (3), tolowercase (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
@@ -949,7 +951,7 @@ created: 2026-04-29
 
 ### 3. Arrays and Array Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the array spread operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-array-spread-operator?u=76281980)
@@ -1000,7 +1002,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), this. (1), for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Destructuring arrays
@@ -1048,7 +1049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1071,7 +1072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1)
+> **Frameworks & Libraries:** [[Search]] (2)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Implementing a Smart Array processor
@@ -1107,14 +1108,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (3)
 > **Env Vars:** es6 (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. ECMAScript Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhancing object literals
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/enhancing-object-literals?u=76281980)
@@ -1173,7 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), this. (1)
+> **Frameworks & Libraries:** [[ECMAScript]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is called (1)
 > **Exercise Files:** template (1)
@@ -1222,7 +1223,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
 > **Code Identifiers:** backpackingmeals (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1291,7 +1291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), this, (2), pass (2), for, (1)
+> **Frameworks & Libraries:** feature (1), [[JavaScript]] (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1357,7 +1357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), return, (1), finally, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), css (4), [[HTML]] (4), node (1), data (1)
 > **Env Vars:** css (4), html (3)
 > **CLI Commands:** node (1), find (1)
 > **Exercise Files:** template (1)
@@ -1419,7 +1419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), this. (3), class. (3)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), next (1)
 > **Code Identifiers:** describeyourself (3), coolskivan (2)
 > **Definitions:** is a  (2)
 > **Exercise Files:** template (1)
@@ -1456,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), pass (2), function (2), super (2), class. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** describeyourself (1)
@@ -1554,7 +1554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), this. (3), class. (2), this, (1)
+> **Frameworks & Libraries:** [[Programming]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** addname (2), calclength (1), mttallac (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -1595,7 +1595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), this, (1), let (1)
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** es6 (2)
 > **Definitions:** is a  (1)
@@ -1604,7 +1604,7 @@ created: 2026-04-29
 
 ### 5. ECMAScript Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the string.repeat function
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-string-repeat-function?u=76281980)
@@ -1657,7 +1657,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), function (4), let (2), finally, (1)
 > **CLI Commands:** make (2), cat (2)
 > **Code Identifiers:** startswith (1), endswith (1)
 > **Definitions:** is a  (1)
@@ -1720,7 +1719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (6), pass (5), override (1), default. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** havefun (3)
 > **Versions:** 2.5 (2)
 > **Prerequisites:** set up (1)
@@ -1803,7 +1802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (4), return. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** studentlist (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1859,7 +1858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (2), let (2), pass (1), return. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **CLI Commands:** make (3)
 > **Speakers:** - in (1)
 
@@ -1914,7 +1913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), yield (5), let (3)
+> **Frameworks & Libraries:** next (6), hit (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1963,7 +1962,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), return, (1), this, (1), return. (1)
 > **Code Identifiers:** indentlevel (2), formattext (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -1972,7 +1970,7 @@ created: 2026-04-29
 
 ### 6. Asynchronous JavaScript
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building promises
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/building-promises?u=76281980)
@@ -2063,7 +2061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (5), pass (2), return. (1), this, (1)
+> **Frameworks & Libraries:** data (3), [[JavaScript]] (1), api (1)
 > **Code Identifiers:** settimeout (3)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
@@ -2143,8 +2141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), api (6), [[Fetch]] (3), [[JavaScript]] (1), next (1)
 > **Env Vars:** api (6), http (3), xml (1)
-> **Code Keywords:** let (3), function (3), else, (1)
 > **Code Identifiers:** spacepeople (4)
 > **Definitions:** in other words (2), is a  (1)
 > **Exercise Files:** boilerplate (2)
@@ -2233,7 +2231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), pass (2), let (1), this. (1)
+> **Frameworks & Libraries:** [[Fetch]] (12), data (7), [[JSON]] (4), api (3), node (2)
 > **Env Vars:** api (2), json (2), url (1), xml (1), http (1)
 > **Code Identifiers:** spacepeople (2), getspacepeople (2), spacenames (1)
 > **CLI Commands:** node (2), make (1)
@@ -2319,7 +2317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (10), await (10), function (8), let (2), this. (1)
+> **Frameworks & Libraries:** next (2), feature (1), [[JavaScript]] (1), hit (1), [[Debugging]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
@@ -2399,7 +2397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (6), await (5), let (5), function (5), pass (2)
+> **Frameworks & Libraries:** [[Fetch]] (7), api (6), [[GitHub]] (4), data (3), [[JSON]] (3)
 > **Env Vars:** api (5), json (2)
 > **Tools:** github (4)
 > **CLI Commands:** make (2)
@@ -2471,7 +2469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), async (2), delete (1)
+> **Frameworks & Libraries:** data (7), api (3), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **Env Vars:** api (3), es6 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2480,7 +2478,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980)
@@ -2515,6 +2513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[JavaScript]] (2), next (1), [[React.js|React]] (1), [[Vue.js|Vue]] (1)
 > **Env Vars:** tc39 (1)
 > **Speakers:** - [instructor] (1)
 

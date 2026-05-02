@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/slack
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Slack%20Essential%20Training.md)
@@ -48,44 +48,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Communicate and collaborate with Slack
-  - Slack products and plans
+  - [Communicate and collaborate with Slack](#communicate-and-collaborate-with-slack)
+  - [Slack products and plans](#slack-products-and-plans)
 - [**1. Get Started with Slack**](#1-get-started-with-slack) (5 videos)
-  - Log in to Slack
-  - A quick tour of Slack
-  - Edit your profile
-  - Join or leave a channel
-  - Set your status and availability
+  - [Log in to Slack](#log-in-to-slack)
+  - [A quick tour of Slack](#a-quick-tour-of-slack)
+  - [Edit your profile](#edit-your-profile)
+  - [Join or leave a channel](#join-or-leave-a-channel)
+  - [Set your status and availability](#set-your-status-and-availability)
 - [**2. Work with Messages**](#2-work-with-messages) (9 videos)
-  - Create a message in a channel
-  - Respond to a message
-  - Share a link to a webpage
-  - Add and share files
-  - Make an announcement
-  - Send a direct message
-  - Make and receive Slack calls
-  - Create a post or snippet
-  - Direct message yourself or Slackbot
+  - [Create a message in a channel](#create-a-message-in-a-channel)
+  - [Respond to a message](#respond-to-a-message)
+  - [Share a link to a webpage](#share-a-link-to-a-webpage)
+  - [Add and share files](#add-and-share-files)
+  - [Make an announcement](#make-an-announcement)
+  - [Send a direct message](#send-a-direct-message)
+  - [Make and receive Slack calls](#make-and-receive-slack-calls)
+  - [Create a post or snippet](#create-a-post-or-snippet)
+  - [Direct message yourself or Slackbot](#direct-message-yourself-or-slackbot)
 - [**3. Work with Channels**](#3-work-with-channels) (3 videos)
-  - Understand roles and permissions
-  - Create a new channel
-  - Manage a channel
+  - [Understand roles and permissions](#understand-roles-and-permissions)
+  - [Create a new channel](#create-a-new-channel)
+  - [Manage a channel](#manage-a-channel)
 - [**4. Add Apps to Slack**](#4-add-apps-to-slack) (3 videos)
-  - Install a storage app
-  - Add a poll app to Slack
-  - Install a Slack desktop or mobile app
+  - [Install a storage app](#install-a-storage-app)
+  - [Add a poll app to Slack](#add-a-poll-app-to-slack)
+  - [Install a Slack desktop or mobile app](#install-a-slack-desktop-or-mobile-app)
 - [**5. Search and Preferences**](#5-search-and-preferences) (3 videos)
-  - Search in Slack
-  - Set notification preferences
-  - Set sidebar, message, and theme preferences
+  - [Search in Slack](#search-in-slack)
+  - [Set notification preferences](#set-notification-preferences)
+  - [Set sidebar, message, and theme preferences](#set-sidebar-message-and-theme-preferences)
 - [**6. Create a New Workspace**](#6-create-a-new-workspace) (1 videos)
-  - Create a new Slack workspace
+  - [Create a new Slack workspace](#create-a-new-slack-workspace)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicate and collaborate with Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980)
@@ -120,6 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (13), [[Android]] (1), [[Search]] (1)
 > **Tools:** slack (13)
 > **Code Identifiers:** iphone (1)
 > **Definitions:** is a  (1)
@@ -192,9 +193,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (25), [[Search]] (4), web (2), [[Windows]] (2), [[Android]] (2)
 > **Tools:** slack (25)
 > **Definitions:** is a  (2), is an  (2), means that (1)
-> **Code Keywords:** finally, (1), let (1), new, (1)
 > **URLs:** [slack.com](https://slack.com) (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -204,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Slack
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Log in to Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980)
@@ -259,11 +260,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (24), web (1), [[Microsoft]] (1)
 > **Tools:** slack (24)
 > **URLs:** [slack.com](https://slack.com) (4)
 > **UI Navigation:** go to (3), dropdown (1)
 > **Prerequisites:** set up (3), you need to have (1)
-> **Code Keywords:** case, (1), continue (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
@@ -360,8 +361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (10), [[Search]] (3)
 > **Tools:** slack (10)
-> **Code Keywords:** public (3), private (2), let (1), this, (1), for, (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (2), click on (1)
@@ -426,7 +427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Slack]] (2), next (1)
 > **Tools:** slack (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -521,7 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (4), default, (1), this, (1), while. (1)
+> **Frameworks & Libraries:** [[Slack]] (8), [[Search]] (2), [[Privacy]] (1)
 > **Tools:** slack (8), notion (1)
 > **UI Navigation:** click on (3), open the (1), go to (1)
 > **Definitions:** is a  (2), is called (1)
@@ -633,8 +634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (13), next (3), [[Microsoft Outlook|Outlook]] (3), [[Microsoft Office|Office]] (1)
 > **Tools:** slack (13)
-> **Code Keywords:** let (2), this. (1), default, (1)
 > **Analogies:** for example (1), kind of like (1)
 > **Warnings:** note that (2)
 > **UI Navigation:** click on (1)
@@ -643,7 +644,7 @@ created: 2026-04-29
 
 ### 2. Work with Messages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a message in a channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980)
@@ -740,7 +741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (2), finally, (1), let (1), this, (1)
+> **Frameworks & Libraries:** [[Slack]] (6), hit (5), next (3), [[Search]] (2)
 > **Tools:** slack (6)
 > **Analogies:** for example (3), picture (1), just like (1)
 > **CLI Commands:** make (3), find (1)
@@ -871,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1), private (1), continue (1), delete (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), next (2), [[Slack]] (1), [[Search]] (1)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** sales_events (2)
@@ -948,7 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (3), this, (1)
+> **Frameworks & Libraries:** [[Slack]] (6), hit (2)
 > **Tools:** slack (6)
 > **Env Vars:** url (2)
 > **CLI Commands:** find (1)
@@ -1030,8 +1031,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Google Drive]] (2), [[Windows]] (2), [[SharePoint]] (1), cloud (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this. (1)
 > **Env Vars:** url (1)
 > **Tools:** slack (1)
 > **UI Navigation:** drag and drop (1)
@@ -1122,7 +1123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (1), return. (1), case. (1)
+> **Frameworks & Libraries:** next (2), [[Slack]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **UI Navigation:** go to (1)
@@ -1205,7 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else, (1), this, (1), case. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1254,6 +1255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (4), [[Microsoft]] (1), [[Google]] (1)
 > **Tools:** slack (4)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
@@ -1344,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), this, (2), private (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[Slack]] (5), teams (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** slack (5)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (3)
@@ -1416,10 +1418,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (6), [[Microsoft Office|Office]] (3), hit (1)
 > **Tools:** slack (6)
 > **Ports:** :00 (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [gini] (1)
@@ -1427,7 +1429,7 @@ created: 2026-04-29
 
 ### 3. Work with Channels
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand roles and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980)
@@ -1498,7 +1500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), public (3), else. (1), private (1)
+> **Frameworks & Libraries:** [[Slack]] (7), [[Security]] (1), [[Search]] (1), next (1), [[Microsoft]] (1)
 > **Tools:** slack (7)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1), is an  (1)
@@ -1565,7 +1567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), private (8), let (1), default, (1)
+> **Frameworks & Libraries:** next (1), [[Search]] (1), [[Slack]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Tools:** slack (1)
@@ -1676,7 +1678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), public (4), delete (3), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (3), [[Slack]] (2), management (1)
 > **Tools:** slack (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -1687,7 +1689,7 @@ created: 2026-04-29
 
 ### 4. Add Apps to Slack
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install a storage app
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980)
@@ -1732,8 +1734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (6), application (4), cloud (3), [[Google Drive]] (2), [[Microsoft OneDrive|Onedrive]] (2)
 > **Tools:** slack (6)
-> **Code Keywords:** let (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1840,8 +1842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (8), next (2), teams (1), [[Security]] (1), business (1)
 > **Tools:** slack (8)
-> **Code Keywords:** let (1), continue (1), while. (1), this. (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (2)
 > **UI Navigation:** open the (1)
@@ -1898,10 +1900,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (10), [[Windows 10]] (2), product (1), [[Google]] (1)
 > **Tools:** slack (10)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **URLs:** [slack.com](https://slack.com) (1)
 > **Env Vars:** ios (1)
 > **Exercise Files:** download the (1)
@@ -1910,7 +1912,7 @@ created: 2026-04-29
 
 ### 5. Search and Preferences
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Search in Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980)
@@ -2031,8 +2033,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (18), [[Slack]] (7), [[Microsoft Word|Word]] (1), data (1), next (1)
 > **Tools:** slack (7)
-> **Code Keywords:** for. (2), public (2), else. (1), private (1)
 > **Analogies:** for example (3), imagine (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** as we saw (1), go back to (1)
@@ -2185,8 +2187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (17), [[Privacy]] (2), feature (1), [[Microsoft Office|Office]] (1)
 > **Tools:** slack (17)
-> **Code Keywords:** finally, (2), while. (1), default, (1), from, (1), continue (1)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** make (2), find (1)
 > **Ports:** :30 (3)
@@ -2289,7 +2291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), static (1), public (1), private (1)
+> **Frameworks & Libraries:** [[Slack]] (5), next (1)
 > **Tools:** slack (5)
 > **UI Navigation:** click on (1), in the sidebar (1)
 > **Analogies:** for example (1), picture (1)
@@ -2300,7 +2302,7 @@ created: 2026-04-29
 
 ### 6. Create a New Workspace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new Slack workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-new-slack-workspace?u=76281980)
@@ -2381,8 +2383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Slack]] (16), next (3)
 > **Tools:** slack (16)
-> **Code Keywords:** let (2), continue (2), switch (1)
 > **UI Navigation:** go to (2), click on (1)
 > **URLs:** [slack.com](https://slack.com) (1)
 > **Definitions:** is a  (1)
@@ -2393,7 +2395,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980)
@@ -2412,6 +2414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Slack]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)

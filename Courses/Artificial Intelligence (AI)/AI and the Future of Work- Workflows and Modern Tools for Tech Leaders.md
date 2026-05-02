@@ -36,7 +36,7 @@ tags:
   - skill/ai-for-leadership
   - skill/workflow-optimization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20and%20the%20Future%20of%20Work-%20Workflows%20and%20Modern%20Tools%20for%20Tech%20Leaders.md)
@@ -55,30 +55,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - Why is this important?
+  - [Welcome](#welcome)
+  - [Why is this important?](#why-is-this-important)
 - [**1. Streamlining AI Workflows with Modern Tools**](#1-streamlining-ai-workflows-with-modern-tools) (8 videos)
-  - Data versioning and management
-  - Experiment tracking and management
-  - Model monitoring and performance evaluation
-  - AutoML
-  - Automated pipelines
-  - Explainability and interpretability of models
-  - Model deployment and serving
-  - Tools for working with LLMs
+  - [Data versioning and management](#data-versioning-and-management)
+  - [Experiment tracking and management](#experiment-tracking-and-management)
+  - [Model monitoring and performance evaluation](#model-monitoring-and-performance-evaluation)
+  - [AutoML](#automl)
+  - [Automated pipelines](#automated-pipelines)
+  - [Explainability and interpretability of models](#explainability-and-interpretability-of-models)
+  - [Model deployment and serving](#model-deployment-and-serving)
+  - [Tools for working with LLMs](#tools-for-working-with-llms)
 - [**2. Developing Future-Ready AI Skills**](#2-developing-future-ready-ai-skills) (5 videos)
-  - Assessing and upskilling existing teams
-  - Navigating the hybrid skill set landscape
-  - Creating an environment for experimentation
-  - Emerging trends in how you build AI
-  - Challenges and opportunities for organizations
+  - [Assessing and upskilling existing teams](#assessing-and-upskilling-existing-teams)
+  - [Navigating the hybrid skill set landscape](#navigating-the-hybrid-skill-set-landscape)
+  - [Creating an environment for experimentation](#creating-an-environment-for-experimentation)
+  - [Emerging trends in how you build AI](#emerging-trends-in-how-you-build-ai)
+  - [Challenges and opportunities for organizations](#challenges-and-opportunities-for-organizations)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Recap of key takeaways
-  - Actionable insights for implementing best practices
+  - [Recap of key takeaways](#recap-of-key-takeaways)
+  - [Actionable insights for implementing best practices](#actionable-insights-for-implementing-best-practices)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980)
@@ -96,6 +96,10 @@ created: 2026-04-29
 > **[0:33](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980&t=33)** I'm Kristen Kehrer, a data scientist since 2010, founder of Data Moves Me and speaker on data science and AI.
 >
 > **[0:41](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980&t=41)** I cannot wait to dive deeper with you on these topics to set you up for success in the modern world of data science.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** data (6), [[MLOps]] (1), ai (1)
 
 #### Why is this important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980)
@@ -150,15 +154,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[MLOps]] (9), business (4), next (3), teams (2)
 > **Definitions:** short for (1), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Warnings:** troubleshoot (1)
 
 
 ### 1. Streamlining AI Workflows with Modern Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data versioning and management
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980)
@@ -239,8 +243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), [[Git]] (4), management (3), [[E-Commerce]] (1)
 > **CLI Commands:** git (4), find (2)
-> **Code Keywords:** let (2), override (1)
 > **Analogies:** imagine (1), it's like (1)
 > **Env Vars:** dvc (1)
 
@@ -309,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** [[Troubleshooting]] (2), data (1), [[MLflow]] (1), [[Performance Metrics]] (1), [[Debugging]] (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
@@ -363,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** data (5), business (1), teams (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is called (1)
 > **Analogies:** imagine (1)
@@ -404,6 +408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[MLOps]] (3), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1), next (1), [[Scalability]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 
@@ -449,6 +454,10 @@ created: 2026-04-29
 > **[2:36](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=156)** By automating various stages of model development and orchestrating the entire process through automated pipelines, you're achieving scalability, efficiency, and consistency.
 >
 > **[2:49](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=169)** However, to truly harness the power of these practices, seamless integration of MLOps tools is essential.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** data (9), [[Scalability]] (3), [[MLOps]] (3), [[Automation]] (2), [[Decision-Making]] (2)
 
 #### Explainability and interpretability of models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/explainability-and-interpretability-of-models?u=76281980)
@@ -519,10 +528,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (6), data (3), next (1), [[Debugging]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** shap (7), lime (3)
 > **CLI Commands:** make (2), find (1), python (1)
 > **Definitions:** means that (1), is a  (1), stands for (1)
-> **Code Keywords:** this. (1), let (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Code Identifiers:** explanations (1)
 
@@ -603,11 +612,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Kubernetes]] (2), ci (2), cd (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** docker (2), cd (2), aws (1)
 > **Definitions:** is a  (2), stands for (1), means that (1)
 > **Prerequisites:** you'll need (2), set up (2)
 > **Env Vars:** aws (1), gcp (1), api (1)
-> **Code Keywords:** switch (1), let (1)
 > **Warnings:** troubleshoot (1)
 
 #### Tools for working with LLMs
@@ -659,10 +668,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (7), management (3), api (3), next (1), [[ChatGPT]] (1)
 > **Env Vars:** api (3), llm (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** require (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Analogies:** picture (1)
@@ -671,7 +680,7 @@ created: 2026-04-29
 
 ### 2. Developing Future-Ready AI Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing and upskilling existing teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980)
@@ -746,10 +755,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[MLOps]] (5), ai (3), cloud (2), aws (2)
 > **CLI Commands:** aws (2), make (1), cd (1), find (1)
 > **Env Vars:** aws (2), roi (1)
 > **Prerequisites:** required to (1), set up (1), setup (1)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** picture (1)
 
 #### Navigating the hybrid skill set landscape
@@ -819,10 +828,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (3), management (3), feature (1), power (1)
 > **Env Vars:** shap (1), lime (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Code Identifiers:** edx (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -900,7 +909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (2), new, (1), this, (1)
+> **Frameworks & Libraries:** data (6), business (4), management (2), [[E-Commerce]] (1), [[Decision-Making]] (1)
 > **URLs:** [booking.com](https://booking.com) (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
@@ -966,6 +975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (4), [[Decision-Making]] (3), [[LangChain]] (3), power (2)
 > **Env Vars:** gpt (1), usd (1), cpu (1), gpu (1)
 > **Versions:** 3.2 (1)
 > **Documentation:** specification (1)
@@ -1038,13 +1048,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), ai (3), [[Automation]] (2), [[Security]] (1), [[Privacy]] (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is a  (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap of key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980)
@@ -1091,6 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), ai (4), management (2), [[Scalability]] (2), teams (2)
 > **Env Vars:** dvc (1), shap (1), lime (1)
 > **Cross-References:** we talked about (2), we covered (1)
 > **CLI Commands:** cd (1), docker (1)
@@ -1149,10 +1161,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), open-source (3), next (3), [[MLflow]] (2), ai (1)
 > **Env Vars:** lime (2), shap (2), dvc (2), h2o (1)
 > **CLI Commands:** find (4)
 > **URLs:** [h2o.ai](https://h2o.ai) (1), [datamovesme.com](https://datamovesme.com) (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** best practice (1)
 
 

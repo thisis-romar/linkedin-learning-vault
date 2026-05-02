@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/woocommerce
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress%20Ecommerce-%20WooCommerce.md)
@@ -47,78 +47,78 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Sell anything with WooCommerce
-  - What to know ahead of time
+  - [Sell anything with WooCommerce](#sell-anything-with-woocommerce)
+  - [What to know ahead of time](#what-to-know-ahead-of-time)
 - [**1. Getting Started**](#1-getting-started) (2 videos)
-  - Why WooCommerce?
-  - Setting up WordPress for eCommerce
+  - [Why WooCommerce?](#why-woocommerce)
+  - [Setting up WordPress for eCommerce](#setting-up-wordpress-for-ecommerce)
 - [**2. Setting Up Shop with WooCommerce**](#2-setting-up-shop-with-woocommerce) (3 videos)
-  - Downloading and installing WooCommerce
-  - Setting up through the welcome wizard
-  - Installing Jetpack via the welcome wizard
+  - [Downloading and installing WooCommerce](#downloading-and-installing-woocommerce)
+  - [Setting up through the welcome wizard](#setting-up-through-the-welcome-wizard)
+  - [Installing Jetpack via the welcome wizard](#installing-jetpack-via-the-welcome-wizard)
 - [**3. Adding Products**](#3-adding-products) (12 videos)
-  - Adding a new product
-  - Adding an image to a product
-  - Adding an image gallery
-  - Working with product data
-  - Adding categories and tags
-  - Creating product variations
-  - Creating global attributes
-  - Creating digital products
-  - Adding descriptions
-  - Grouping products and creating product bundles
-  - Creating a subscription product
-  - Importing products
+  - [Adding a new product](#adding-a-new-product)
+  - [Adding an image to a product](#adding-an-image-to-a-product)
+  - [Adding an image gallery](#adding-an-image-gallery)
+  - [Working with product data](#working-with-product-data)
+  - [Adding categories and tags](#adding-categories-and-tags)
+  - [Creating product variations](#creating-product-variations)
+  - [Creating global attributes](#creating-global-attributes)
+  - [Creating digital products](#creating-digital-products)
+  - [Adding descriptions](#adding-descriptions)
+  - [Grouping products and creating product bundles](#grouping-products-and-creating-product-bundles)
+  - [Creating a subscription product](#creating-a-subscription-product)
+  - [Importing products](#importing-products)
 - [**4. Customizing Your Theme**](#4-customizing-your-theme) (7 videos)
-  - Installing Storefront
-  - Customizing theme colors
-  - Customizing the welcome page
-  - Customizing the shop page
-  - Configuring the sidebar
-  - Customizing the product page
-  - Customizing cart and checkout page
+  - [Installing Storefront](#installing-storefront)
+  - [Customizing theme colors](#customizing-theme-colors)
+  - [Customizing the welcome page](#customizing-the-welcome-page)
+  - [Customizing the shop page](#customizing-the-shop-page)
+  - [Configuring the sidebar](#configuring-the-sidebar)
+  - [Customizing the product page](#customizing-the-product-page)
+  - [Customizing cart and checkout page](#customizing-cart-and-checkout-page)
 - [**5. Setting Up Shipping Options**](#5-setting-up-shipping-options) (7 videos)
-  - Choosing shipping options
-  - Creating shipping zones
-  - Setting up flat rate shipping
-  - Setting up free shipping
-  - Setting up live rates
-  - Printing shipping labels
-  - Consolidating multichannel shipping
+  - [Choosing shipping options](#choosing-shipping-options)
+  - [Creating shipping zones](#creating-shipping-zones)
+  - [Setting up flat rate shipping](#setting-up-flat-rate-shipping)
+  - [Setting up free shipping](#setting-up-free-shipping)
+  - [Setting up live rates](#setting-up-live-rates)
+  - [Printing shipping labels](#printing-shipping-labels)
+  - [Consolidating multichannel shipping](#consolidating-multichannel-shipping)
 - [**6. Setting Up Payment**](#6-setting-up-payment) (4 videos)
-  - Configuring payment options
-  - Setting up PayPal
-  - Setting up Stripe
-  - Configuring additional payment methods
+  - [Configuring payment options](#configuring-payment-options)
+  - [Setting up PayPal](#setting-up-paypal)
+  - [Setting up Stripe](#setting-up-stripe)
+  - [Configuring additional payment methods](#configuring-additional-payment-methods)
 - [**7. Setting Up Taxes**](#7-setting-up-taxes) (4 videos)
-  - Configuring tax settings
-  - Adding tax rates
-  - Using additional tax rates
-  - Connecting your store to TaxJar
+  - [Configuring tax settings](#configuring-tax-settings)
+  - [Adding tax rates](#adding-tax-rates)
+  - [Using additional tax rates](#using-additional-tax-rates)
+  - [Connecting your store to TaxJar](#connecting-your-store-to-taxjar)
 - [**8. Connecting to Services**](#8-connecting-to-services) (3 videos)
-  - Installing Google Analytics
-  - Installing Mailchimp for WooCommerce
-  - Installing Facebook for WooCommerce
+  - [Installing Google Analytics](#installing-google-analytics)
+  - [Installing Mailchimp for WooCommerce](#installing-mailchimp-for-woocommerce)
+  - [Installing Facebook for WooCommerce](#installing-facebook-for-woocommerce)
 - [**9. Managing Sales**](#9-managing-sales) (5 videos)
-  - Testing the customer experience
-  - Managing orders
-  - Managing refunds
-  - Managing reports
-  - Creating coupons
+  - [Testing the customer experience](#testing-the-customer-experience)
+  - [Managing orders](#managing-orders)
+  - [Managing refunds](#managing-refunds)
+  - [Managing reports](#managing-reports)
+  - [Creating coupons](#creating-coupons)
 - [**10. WooCommerce Settings**](#10-woocommerce-settings) (5 videos)
-  - General settings
-  - Product settings
-  - Checkout settings
-  - Email settings
-  - Integrating with 3rd party platforms
+  - [General settings](#general-settings)
+  - [Product settings](#product-settings)
+  - [Checkout settings](#checkout-settings)
+  - [Email settings](#email-settings)
+  - [Integrating with 3rd party platforms](#integrating-with-3rd-party-platforms)
 - [**11. Mobile Apps**](#11-mobile-apps) (1 videos)
-  - Installing the WooCommerce mobile app
+  - [Installing the WooCommerce mobile app](#installing-the-woocommerce-mobile-app)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sell anything with WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980)
@@ -143,8 +143,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (3), business (1), [[LinkedIn]] (1), [[WordPress]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [patrick] (1)
 
@@ -175,6 +175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (6), [[WooCommerce]] (4)
 > **Prerequisites:** install (2), set up (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -183,7 +184,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why WooCommerce?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980)
@@ -276,9 +277,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (13), [[WordPress]] (12), [[E-Commerce]] (3), business (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** gpl (3), seo (1), ups (1), usps (1)
 > **Definitions:** means that (2), is a  (2)
-> **Code Keywords:** continue (1), throw (1)
 > **URLs:** [freelancer.com](https://freelancer.com) (1), [woocommerce.com](https://woocommerce.com) (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
@@ -345,10 +346,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[WooCommerce]] (4), web (1), product (1)
 > **Cross-References:** go back to (4), later in (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Prerequisites:** set up (3), install (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** page_id (1), ecommerce (1)
 > **Definitions:** is a  (1)
@@ -357,7 +358,7 @@ created: 2026-04-29
 
 ### 2. Setting Up Shop with WooCommerce
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Downloading and installing WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980)
@@ -434,7 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (2), this. (1), new, (1), else. (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (12), [[WordPress]] (4), next (3), [[Microsoft Products|Products]] (2), prompt (1)
 > **Prerequisites:** install (6)
 > **URLs:** [wordpress.com](https://wordpress.com) (3), [woocommerce.com](https://woocommerce.com) (2)
 > **Env Vars:** zip (1), url (1), https (1)
@@ -556,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (4), this, (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (6), next (3), product (2), [[Customer Support]] (2), [[WordPress]] (2)
 > **Cross-References:** later in (3), in the next (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (2), [woocommerce.com](https://woocommerce.com) (1)
 > **Prerequisites:** configure (2), install (1)
@@ -670,11 +671,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), feature (2), next (2), product (1), express (1)
 > **Cross-References:** later in (2), next video (2), go back to (1)
 > **Prerequisites:** install (3), configure (1), set up (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (4)
 > **Definitions:** is a  (4)
-> **Code Keywords:** continue (2), let (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ecommerce (1)
@@ -682,7 +683,7 @@ created: 2026-04-29
 
 ### 3. Adding Products
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding a new product
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980)
@@ -759,7 +760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new. (1), type. (1)
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (3), [[WooCommerce]] (2), data (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is called (1)
@@ -878,7 +879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), return, (1)
+> **Frameworks & Libraries:** product (14), functional (3), [[Microsoft Products|Products]] (3), [[WordPress]] (3), seo (2)
 > **UI Navigation:** scroll down (3), go to (2)
 > **Env Vars:** seo (2), img12345 (1), alt (1)
 > **CLI Commands:** make (3)
@@ -948,7 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** product (5), [[WooCommerce]] (3), [[E-Commerce]] (1), data (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
@@ -1086,7 +1087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type. (1), case, (1), type, (1), this. (1)
+> **Frameworks & Libraries:** product (20), [[Microsoft Products|Products]] (11), [[WooCommerce]] (4), data (1), next (1)
 > **Env Vars:** sku (3), usps (1), ups (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** later in (3), go back to (1)
@@ -1150,7 +1151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (6), [[Search]] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
@@ -1221,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), this, (2)
+> **Frameworks & Libraries:** product (13), [[Microsoft Products|Products]] (7)
 > **Cross-References:** go back to (6), later in (1)
 > **UI Navigation:** scroll down (2), click on (2), go to (2)
 > **CLI Commands:** make (1)
@@ -1297,7 +1298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15)
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (5), data (1)
 > **UI Navigation:** go to (3), in the menu (1), click on (1), scroll down (1), select the (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1361,7 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (4), [[WooCommerce]] (1), data (1), cd (1)
 > **Exercise Files:** download the (3), exercise files (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** pdf (1), url (1)
@@ -1409,7 +1410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** product (5), [[WooCommerce]] (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), known as (1)
@@ -1514,7 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), new, (2), this, (1), delete (1), case, (1)
+> **Frameworks & Libraries:** product (14), [[Microsoft Products|Products]] (10), [[WooCommerce]] (4), front-end (2), data (1)
 > **UI Navigation:** go to (3), select the (2), click on (1)
 > **Definitions:** is a  (2)
 > **URLs:** [woocommerce.com](https://woocommerce.com) (1)
@@ -1609,7 +1610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[WooCommerce]] (11), product (6), [[Microsoft Products|Products]] (3), business (1)
 > **Prerequisites:** set up (3), install (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (2)
@@ -1689,7 +1690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), import. (1), continue (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (12), [[WooCommerce]] (8), data (5), next (2), database (2)
 > **UI Navigation:** go to (4), click on (2), scroll down (1)
 > **Env Vars:** csv (5)
 > **Prerequisites:** set up (2), install (2)
@@ -1701,7 +1702,7 @@ created: 2026-04-29
 
 ### 4. Customizing Your Theme
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Storefront
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980)
@@ -1742,8 +1743,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[WooCommerce]] (4), [[WordPress]] (1), feature (1), product (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** recommended (1)
@@ -1888,7 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), this, (2), this. (2), case, (2), delete (1)
+> **Frameworks & Libraries:** product (3), [[WordPress]] (2), [[WooCommerce]] (2), [[Microsoft Products|Products]] (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** ddd (2), html (1), seo (1), ada80d (1)
 > **UI Navigation:** go to (2), scroll down (2)
@@ -2020,7 +2021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), new, (1), delete (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (12), product (11), [[WooCommerce]] (3), power (1), next (1)
 > **UI Navigation:** go to (4)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
@@ -2074,9 +2075,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[WooCommerce]] (3), product (3)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), scroll down (1)
-> **Code Keywords:** let (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** you should always (1)
 > **Warnings:** be aware (1)
@@ -2193,7 +2194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), product (8), [[WooCommerce]] (6), [[Search]] (5)
 > **CLI Commands:** make (3), find (2)
 > **Code Identifiers:** ecommerce (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -2273,7 +2274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new, (1), module (1)
+> **Frameworks & Libraries:** product (11), feature (3), [[WooCommerce]] (2), [[Microsoft Products|Products]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** go back to (3)
 > **Prerequisites:** install (2), set up (1)
@@ -2311,7 +2312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[WooCommerce]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (1)
@@ -2320,7 +2321,7 @@ created: 2026-04-29
 
 ### 5. Setting Up Shipping Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing shipping options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980)
@@ -2359,6 +2360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[E-Commerce]] (2), [[Microsoft Office|Office]] (1), [[WooCommerce]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** usps (2), ups (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
@@ -2437,7 +2439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), else. (2)
+> **Frameworks & Libraries:** [[WooCommerce]] (5), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -2520,7 +2522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1)
+> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1), [[E-Commerce]] (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
@@ -2611,7 +2613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), [[WooCommerce]] (1), product (1), data (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is called (1)
@@ -2690,7 +2692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), require (1), default, (1), case, (1), this. (1)
+> **Frameworks & Libraries:** api (4), [[WooCommerce]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** usps (7), api (4), ups (1)
 > **UI Navigation:** go to (4), click on (1), scroll down (1)
 > **Prerequisites:** install (1), set up (1), setup (1), configure (1)
@@ -2795,7 +2797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (5), [[Microsoft Office|Office]] (2), next (2), [[WordPress]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** scroll down (2), go to (1), select the (1)
 > **Env Vars:** usps (3)
 > **CLI Commands:** make (2)
@@ -2833,16 +2835,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[WooCommerce]] (2)
 > **Env Vars:** dhl (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Setting Up Payment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring payment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-payment-options?u=76281980)
@@ -2899,9 +2901,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (2), next (1), business (1), [[Security]] (1)
 > **Env Vars:** ssl (8), https (4)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this. (1), protected (1), let (1)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -3031,10 +3033,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (12), api (3), business (2), data (2), [[Security]] (1)
 > **Prerequisites:** set up (4), configure (3), setup (2), install (1)
 > **Env Vars:** api (3), ipn (2), pdt (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (4)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Cross-References:** we mentioned (1), later in (1)
 > **Definitions:** is a  (1)
@@ -3185,7 +3187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (1), public (1), case. (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[Tokens]] (2), [[E-Commerce]] (1), [[WordPress]] (1), business (1)
 > **Prerequisites:** configure (2), install (1), set up (1), make sure you have (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3), earlier in (1)
@@ -3239,10 +3241,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (6), [[E-Commerce]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Prerequisites:** set up (3)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** super (1)
 > **URLs:** [woocommerce.com](https://woocommerce.com) (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
@@ -3250,7 +3252,7 @@ created: 2026-04-29
 
 ### 7. Setting Up Taxes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring tax settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-tax-settings?u=76281980)
@@ -3337,9 +3339,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[WooCommerce]] (3), next (1)
 > **Prerequisites:** configure (2), setup (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** from. (1), public (1)
 > **Versions:** 9.99 (1)
 > **Cross-References:** next chapter (1)
 > **UI Navigation:** go to (1)
@@ -3423,7 +3425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[WooCommerce]] (1), feature (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** think of it as (2), just like (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.5 (1)
@@ -3466,7 +3468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[WooCommerce]] (3), product (2)
 > **Versions:** 8.31 (2), 4.31 (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1)
@@ -3510,7 +3512,7 @@ created: 2026-04-29
 
 ### 8. Connecting to Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Google Analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980)
@@ -3603,7 +3605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), while. (1), switch (1), new, (1)
+> **Frameworks & Libraries:** [[Analytics]] (22), [[Google]] (16), data (10), [[WooCommerce]] (6), business (1)
 > **Code Identifiers:** ecommerce (6)
 > **Prerequisites:** setup (2), install (2), configure (1), getting started (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -3680,9 +3682,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[Microsoft Products|Products]] (2), [[WooCommerce]] (1), generic (1), data (1)
 > **Env Vars:** api (4), gdpr (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), this. (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Prerequisites:** install (2)
 > **Code Identifiers:** ecommerce (1)
@@ -3766,7 +3768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), delete (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (2), next (2), feature (1), [[Search]] (1)
 > **Prerequisites:** install (3), configure (2), setup (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -3777,7 +3779,7 @@ created: 2026-04-29
 
 ### 9. Managing Sales
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing the customer experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980)
@@ -3870,7 +3872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[E-Commerce]] (1), product (1), hit (1), next (1)
 > **CLI Commands:** make (5), find (2)
 > **Env Vars:** url (1), usps (1), cvc (1)
 > **Non-Speech:** (typing on keyboard) (2)
@@ -3936,7 +3938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (1), [[Microsoft Office|Office]] (1), next (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -3996,7 +3998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (4), [[Microsoft Products|Products]] (1), api (1)
 > **CLI Commands:** find (2), snap (1)
 > **UI Navigation:** scroll down (1), switch to (1)
 > **Best Practices:** recommended (2)
@@ -4088,7 +4090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1), default, (1), super (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (6), [[Microsoft Products|Products]] (5), feature (3), [[Analytics]] (2), data (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 3.8 (1)
 > **UI Navigation:** go to (1)
@@ -4148,7 +4150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[WooCommerce]] (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -4157,7 +4159,7 @@ created: 2026-04-29
 
 ### 10. WooCommerce Settings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### General settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980)
@@ -4244,7 +4246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), from, (1)
+> **Frameworks & Libraries:** next (4), [[Microsoft Products|Products]] (3), functional (1), [[WooCommerce]] (1), product (1)
 > **Env Vars:** vat (1), url (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** known as (1)
@@ -4380,7 +4382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), super (1)
+> **Frameworks & Libraries:** product (11), next (9), [[Microsoft Products|Products]] (8), [[WooCommerce]] (4), management (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** refers to (1)
@@ -4498,7 +4500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (3), super (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), next (4), data (4), [[WooCommerce]] (2), feature (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **Env Vars:** gdpr (1)
@@ -4559,10 +4561,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[HTML]] (1), next (1), [[WordPress]] (1)
 > **Env Vars:** smtp (1), html (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -4653,8 +4655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), data (5), [[WooCommerce]] (4), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **Env Vars:** api (7), url (1)
-> **Code Keywords:** let (4), default, (1)
 > **Prerequisites:** set up (2), configure (1), setup (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
@@ -4665,7 +4667,7 @@ created: 2026-04-29
 
 ### 11. Mobile Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing the WooCommerce mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980)
@@ -4744,7 +4746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), for, (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Android]] (2), [[WordPress]] (2), [[Google]] (1), feature (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** ios (1)
@@ -4755,7 +4757,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980)
@@ -4800,8 +4802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (4), [[Microsoft Products|Products]] (1), [[WordPress]] (1), next (1), seo (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** seo (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [patrick] (1)

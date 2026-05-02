@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20Your%20Generative%20AI%20Plan%20for%20Marketing%20Success.md)
@@ -51,34 +51,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Practical applications of generative AI for marketers
-  - What you should know
+  - [Practical applications of generative AI for marketers](#practical-applications-of-generative-ai-for-marketers)
+  - [What you should know](#what-you-should-know)
 - [**1. Delegate Marketing Tasks to Your AI Deputy**](#1-delegate-marketing-tasks-to-your-ai-deputy) (5 videos)
-  - Analogies for working with AI
-  - Content generation: Generative AI's starting point
-  - Using generative AI for admin tasks and internal communications
-  - Simple marketing tasks generative AI can do in a heartbeat
-  - Performing sophisticated marketing tasks with generative AI
+  - [Analogies for working with AI](#analogies-for-working-with-ai)
+  - [Content generation: Generative AI's starting point](#content-generation-generative-ais-starting-point)
+  - [Using generative AI for admin tasks and internal communications](#using-generative-ai-for-admin-tasks-and-internal-communications)
+  - [Simple marketing tasks generative AI can do in a heartbeat](#simple-marketing-tasks-generative-ai-can-do-in-a-heartbeat)
+  - [Performing sophisticated marketing tasks with generative AI](#performing-sophisticated-marketing-tasks-with-generative-ai)
 - [**2. Create Your Own Marketing Analytics Assistant**](#2-create-your-own-marketing-analytics-assistant) (3 videos)
-  - Creative campaign development with generative AI
-  - How generative AI aids marketing measurement
-  - Identifying marketing insights with generative AI
+  - [Creative campaign development with generative AI](#creative-campaign-development-with-generative-ai)
+  - [How generative AI aids marketing measurement](#how-generative-ai-aids-marketing-measurement)
+  - [Identifying marketing insights with generative AI](#identifying-marketing-insights-with-generative-ai)
 - [**3. Boost Your Career with a Strategic Brainstorming Partner**](#3-boost-your-career-with-a-strategic-brainstorming-partner) (4 videos)
-  - Asking generative AI to help you ask it
-  - Asking generative AI for its opinion: Brainstorming
-  - Asking generative AI to be your teacher or mentor
-  - Long-term career planning and development with GenAI
+  - [Asking generative AI to help you ask it](#asking-generative-ai-to-help-you-ask-it)
+  - [Asking generative AI for its opinion: Brainstorming](#asking-generative-ai-for-its-opinion-brainstorming)
+  - [Asking generative AI to be your teacher or mentor](#asking-generative-ai-to-be-your-teacher-or-mentor)
+  - [Long-term career planning and development with GenAI](#long-term-career-planning-and-development-with-genai)
 - [**4. Becoming a Marketing Trailblazer with Generative AI**](#4-becoming-a-marketing-trailblazer-with-generative-ai) (4 videos)
-  - Organizational readiness and executive alignment
-  - Training the whole company on generative AI
-  - Integrating GenAI into processes, products, and services
-  - Measuring the value and long-term impact of GenAI
+  - [Organizational readiness and executive alignment](#organizational-readiness-and-executive-alignment)
+  - [Training the whole company on generative AI](#training-the-whole-company-on-generative-ai)
+  - [Integrating GenAI into processes, products, and services](#integrating-genai-into-processes-products-and-services)
+  - [Measuring the value and long-term impact of GenAI](#measuring-the-value-and-long-term-impact-of-genai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to leverage AI to support your marketing
+  - [Continuing to leverage AI to support your marketing](#continuing-to-leverage-ai-to-support-your-marketing)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practical applications of generative AI for marketers
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/practical-applications-of-generative-ai-for-marketers?u=76281980)
@@ -97,6 +97,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (5), career (1), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - generative (1)
 
@@ -115,13 +116,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[ChatGPT]] (1), [[Google Gemini]] (1), [[Anthropic Claude]] (1), [[Generative AI Tools]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Delegate Marketing Tasks to Your AI Deputy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analogies for working with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980)
@@ -196,6 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Email Marketing]] (2), business (1), [[Microsoft Products|Products]] (1), next (1)
 > **Env Vars:** ceo (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -278,8 +281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), next (2), [[Microsoft Word|Word]] (2), ai (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** known as (1), stands for (1), refers to (1)
-> **Code Keywords:** this. (1), this, (1)
 > **Analogies:** for example (1), picture (1)
 > **Tools:** notion (1)
 > **Warnings:** keep in mind (1)
@@ -329,8 +332,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (5), business (2), [[ChatGPT]] (2), [[Zoom]] (2), [[Newsletters]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -453,8 +456,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Generative AI]] (2), [[Microsoft Products|Products]] (2), next (2), management (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** crm (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
@@ -535,7 +538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[LangChain]] (2), [[Google]] (2), [[Slack]] (2), [[Entrepreneurship]] (1)
 > **Tools:** slack (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -547,7 +550,7 @@ created: 2026-04-29
 
 ### 2. Create Your Own Marketing Analytics Assistant
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creative campaign development with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980)
@@ -598,10 +601,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Generative AI]] (3), next (2), product (1), [[Marketing Strategy]] (1)
 > **URLs:** [automatecreative.net](https://automatecreative.net) (1), [ariel.com](https://ariel.com) (1)
 > **Best Practices:** make sure to (1), don't forget (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - it (1)
@@ -653,6 +656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (6), data (4), [[Generative AI]] (2), power (2), [[Google]] (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** api (1)
 > **Analogies:** picture (1)
@@ -728,6 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Generative AI]] (4), data (3), [[Analytics]] (2), product (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1)
 > **Warnings:** caution (1)
@@ -737,7 +742,7 @@ created: 2026-04-29
 
 ### 3. Boost Your Career with a Strategic Brainstorming Partner
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Asking generative AI to help you ask it
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980)
@@ -804,8 +809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Word|Word]] (3), data (2), next (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** cat (2), make (2)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** don't make the mistake (1)
@@ -910,8 +915,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), prompt (4), business (2), product (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gpt (1), imd (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -1009,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), finally, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[ChatGPT]] (2), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1), ai (1)
 > **Best Practices:** remember to (1), you should always (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** python (1)
@@ -1080,7 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** career (8), [[Generative AI]] (5), [[LinkedIn]] (2), product (1), [[Engineering]] (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1089,7 +1094,7 @@ created: 2026-04-29
 
 ### 4. Becoming a Marketing Trailblazer with Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizational readiness and executive alignment
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980)
@@ -1178,8 +1183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (14), ai (4), [[Security]] (3), management (2), data (1)
 > **CLI Commands:** make (3), find (2), rails (1)
-> **Code Keywords:** super (1)
 > **Speakers:** - [instructor] (1)
 
 #### Training the whole company on generative AI
@@ -1241,6 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), ai (4), career (1), [[Ethics]] (1), management (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1302,8 +1308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Products|Products]] (5), career (1), ai (1), [[Engineering]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Measuring the value and long-term impact of GenAI
@@ -1377,8 +1383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), business (4), [[Microsoft Products|Products]] (3), next (3), power (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** roi (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lecturer] (1)
@@ -1386,7 +1392,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to leverage AI to support your marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980)
@@ -1415,8 +1421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[LinkedIn]] (3), leadership (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** new, (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - well (1)
 

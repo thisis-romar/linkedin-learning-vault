@@ -32,7 +32,7 @@ tags:
   - skill/software-design-patterns
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Complete%20Guide%20to%20Java%20Design%20Patterns-%20Creational%2C%20Behavioral%2C%20and%20Structural.md)
@@ -51,156 +51,156 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Improve your code with design patterns
-  - What you should know
+  - [Improve your code with design patterns](#improve-your-code-with-design-patterns)
+  - [What you should know](#what-you-should-know)
 - [**1. Design Patterns**](#1-design-patterns) (1 videos)
-  - What is a design pattern?
+  - [What is a design pattern?](#what-is-a-design-pattern)
 - [**2. Creational Design Patterns**](#2-creational-design-patterns) (1 videos)
-  - What are creational design patterns?
+  - [What are creational design patterns?](#what-are-creational-design-patterns)
 - [**3. The Builder Pattern**](#3-the-builder-pattern) (6 videos)
-  - Avoiding complex constructors
-  - Recognize where to use the Builder pattern
-  - Implement a complete Builder pattern
-  - Improving the Builder pattern
-  - Challenge: The Builder pattern
-  - Solution: The Builder pattern
+  - [Avoiding complex constructors](#avoiding-complex-constructors)
+  - [Recognize where to use the Builder pattern](#recognize-where-to-use-the-builder-pattern)
+  - [Implement a complete Builder pattern](#implement-a-complete-builder-pattern)
+  - [Improving the Builder pattern](#improving-the-builder-pattern)
+  - [Challenge: The Builder pattern](#challenge-the-builder-pattern)
+  - [Solution: The Builder pattern](#solution-the-builder-pattern)
 - [**4. The Singleton Pattern**](#4-the-singleton-pattern) (5 videos)
-  - When to use the Singleton pattern
-  - Implementing the Singleton pattern
-  - Thread safety with the Singleton pattern
-  - Challenge: The Singleton pattern
-  - Solution: The Singleton pattern
+  - [When to use the Singleton pattern](#when-to-use-the-singleton-pattern)
+  - [Implementing the Singleton pattern](#implementing-the-singleton-pattern)
+  - [Thread safety with the Singleton pattern](#thread-safety-with-the-singleton-pattern)
+  - [Challenge: The Singleton pattern](#challenge-the-singleton-pattern)
+  - [Solution: The Singleton pattern](#solution-the-singleton-pattern)
 - [**5. The Prototype Pattern**](#5-the-prototype-pattern) (5 videos)
-  - Understand the Prototype pattern
-  - Implement the Prototype pattern
-  - Handling mutability
-  - Challenge: The Prototype pattern
-  - Solution: The Prototype pattern
+  - [Understand the Prototype pattern](#understand-the-prototype-pattern)
+  - [Implement the Prototype pattern](#implement-the-prototype-pattern)
+  - [Handling mutability](#handling-mutability)
+  - [Challenge: The Prototype pattern](#challenge-the-prototype-pattern)
+  - [Solution: The Prototype pattern](#solution-the-prototype-pattern)
 - [**6. The Factory Method**](#6-the-factory-method) (5 videos)
-  - Understand the Factory Method pattern
-  - Implement the Factory Method pattern
-  - Improve the Factory Method pattern with functional programming
-  - Challenge: The Factory Method pattern
-  - Solution: The Factory Method pattern
+  - [Understand the Factory Method pattern](#understand-the-factory-method-pattern)
+  - [Implement the Factory Method pattern](#implement-the-factory-method-pattern)
+  - [Improve the Factory Method pattern with functional programming](#improve-the-factory-method-pattern-with-functional-programming)
+  - [Challenge: The Factory Method pattern](#challenge-the-factory-method-pattern)
+  - [Solution: The Factory Method pattern](#solution-the-factory-method-pattern)
 - [**7. Abstract Factories**](#7-abstract-factories) (6 videos)
-  - Understand abstract factories
-  - Recognize where to use abstract factories
-  - Create factories for families of objects
-  - Implement the complete Abstract Factory pattern
-  - Challenge: The Abstract Factory pattern
-  - Solution: The Abstract Factory pattern
+  - [Understand abstract factories](#understand-abstract-factories)
+  - [Recognize where to use abstract factories](#recognize-where-to-use-abstract-factories)
+  - [Create factories for families of objects](#create-factories-for-families-of-objects)
+  - [Implement the complete Abstract Factory pattern](#implement-the-complete-abstract-factory-pattern)
+  - [Challenge: The Abstract Factory pattern](#challenge-the-abstract-factory-pattern)
+  - [Solution: The Abstract Factory pattern](#solution-the-abstract-factory-pattern)
 - [**8. Structural Design Patterns**](#8-structural-design-patterns) (1 videos)
-  - What are structural design patterns?
+  - [What are structural design patterns?](#what-are-structural-design-patterns)
 - [**9. The Adapter Pattern**](#9-the-adapter-pattern) (5 videos)
-  - Understand the Adapter pattern
-  - Implement the object Adapter pattern
-  - Implement the class Adapter pattern
-  - Challenge: The Adapter pattern
-  - Solution: The Adapter pattern
+  - [Understand the Adapter pattern](#understand-the-adapter-pattern)
+  - [Implement the object Adapter pattern](#implement-the-object-adapter-pattern)
+  - [Implement the class Adapter pattern](#implement-the-class-adapter-pattern)
+  - [Challenge: The Adapter pattern](#challenge-the-adapter-pattern)
+  - [Solution: The Adapter pattern](#solution-the-adapter-pattern)
 - [**10. The Bridge Pattern**](#10-the-bridge-pattern) (4 videos)
-  - Understand the Bridge pattern
-  - Implement the Bridge pattern
-  - Challenge: The Bridge pattern
-  - Solution: The Bridge pattern
+  - [Understand the Bridge pattern](#understand-the-bridge-pattern)
+  - [Implement the Bridge pattern](#implement-the-bridge-pattern)
+  - [Challenge: The Bridge pattern](#challenge-the-bridge-pattern)
+  - [Solution: The Bridge pattern](#solution-the-bridge-pattern)
 - [**11. The Composite Pattern**](#11-the-composite-pattern) (4 videos)
-  - Understand the Composite pattern
-  - Implement the Composite pattern
-  - Challenge: the Composite pattern
-  - Solution: the Composite pattern
+  - [Understand the Composite pattern](#understand-the-composite-pattern)
+  - [Implement the Composite pattern](#implement-the-composite-pattern)
+  - [Challenge: the Composite pattern](#challenge-the-composite-pattern)
+  - [Solution: the Composite pattern](#solution-the-composite-pattern)
 - [**12. The Decorator Pattern**](#12-the-decorator-pattern) (5 videos)
-  - Understand the Decorator pattern
-  - Change behavior dynamically with a decorator
-  - Add multiple decorations to an object
-  - Challenge: The Decorator pattern
-  - Solution: The Decorator pattern
+  - [Understand the Decorator pattern](#understand-the-decorator-pattern)
+  - [Change behavior dynamically with a decorator](#change-behavior-dynamically-with-a-decorator)
+  - [Add multiple decorations to an object](#add-multiple-decorations-to-an-object)
+  - [Challenge: The Decorator pattern](#challenge-the-decorator-pattern)
+  - [Solution: The Decorator pattern](#solution-the-decorator-pattern)
 - [**13. The Facade Pattern**](#13-the-facade-pattern) (4 videos)
-  - Understand the Facade pattern
-  - Implement the Facade pattern
-  - Challenge: The Facade pattern
-  - Solution: The Facade pattern
+  - [Understand the Facade pattern](#understand-the-facade-pattern)
+  - [Implement the Facade pattern](#implement-the-facade-pattern)
+  - [Challenge: The Facade pattern](#challenge-the-facade-pattern)
+  - [Solution: The Facade pattern](#solution-the-facade-pattern)
 - [**14. The Flyweight Pattern**](#14-the-flyweight-pattern) (4 videos)
-  - Understand the Flyweight pattern
-  - Implement the Flyweight pattern
-  - Challenge: The Flyweight pattern
-  - Solution: The Flyweight pattern
+  - [Understand the Flyweight pattern](#understand-the-flyweight-pattern)
+  - [Implement the Flyweight pattern](#implement-the-flyweight-pattern)
+  - [Challenge: The Flyweight pattern](#challenge-the-flyweight-pattern)
+  - [Solution: The Flyweight pattern](#solution-the-flyweight-pattern)
 - [**15. The Proxy Pattern**](#15-the-proxy-pattern) (6 videos)
-  - Understand the Proxy pattern
-  - Recognize where to use the Proxy pattern
-  - Use a proxy to create objects on demand
-  - Use a proxy to control access
-  - Challenge: The Proxy pattern
-  - Solution: The Proxy pattern
+  - [Understand the Proxy pattern](#understand-the-proxy-pattern)
+  - [Recognize where to use the Proxy pattern](#recognize-where-to-use-the-proxy-pattern)
+  - [Use a proxy to create objects on demand](#use-a-proxy-to-create-objects-on-demand)
+  - [Use a proxy to control access](#use-a-proxy-to-control-access)
+  - [Challenge: The Proxy pattern](#challenge-the-proxy-pattern)
+  - [Solution: The Proxy pattern](#solution-the-proxy-pattern)
 - [**16. Behavioral Design Patterns**](#16-behavioral-design-patterns) (1 videos)
-  - What are behavioral design patterns?
+  - [What are behavioral design patterns?](#what-are-behavioral-design-patterns)
 - [**17. The Chain of Responsibility Pattern**](#17-the-chain-of-responsibility-pattern) (5 videos)
-  - Understand the Chain of Responsibility pattern
-  - Recognize where to use the Chain of Responsibility pattern
-  - Implement a successor chain
-  - Challenge: The Chain of Responsibility pattern
-  - Solution: The Chain of Responsibility pattern
+  - [Understand the Chain of Responsibility pattern](#understand-the-chain-of-responsibility-pattern)
+  - [Recognize where to use the Chain of Responsibility pattern](#recognize-where-to-use-the-chain-of-responsibility-pattern)
+  - [Implement a successor chain](#implement-a-successor-chain)
+  - [Challenge: The Chain of Responsibility pattern](#challenge-the-chain-of-responsibility-pattern)
+  - [Solution: The Chain of Responsibility pattern](#solution-the-chain-of-responsibility-pattern)
 - [**18. The Command Pattern**](#18-the-command-pattern) (5 videos)
-  - Understand the Command pattern
-  - Implement the Command pattern
-  - Use the Command pattern to delay operations
-  - Challenge: The Command pattern
-  - Solution: The Command pattern
+  - [Understand the Command pattern](#understand-the-command-pattern)
+  - [Implement the Command pattern](#implement-the-command-pattern)
+  - [Use the Command pattern to delay operations](#use-the-command-pattern-to-delay-operations)
+  - [Challenge: The Command pattern](#challenge-the-command-pattern)
+  - [Solution: The Command pattern](#solution-the-command-pattern)
 - [**19. The Interpreter Pattern**](#19-the-interpreter-pattern) (5 videos)
-  - Understand the Interpreter pattern
-  - Creating an interpreter for a language
-  - Interpreting a variable
-  - Challenge: The Interpreter pattern
-  - Solution: The Interpreter pattern
+  - [Understand the Interpreter pattern](#understand-the-interpreter-pattern)
+  - [Creating an interpreter for a language](#creating-an-interpreter-for-a-language)
+  - [Interpreting a variable](#interpreting-a-variable)
+  - [Challenge: The Interpreter pattern](#challenge-the-interpreter-pattern)
+  - [Solution: The Interpreter pattern](#solution-the-interpreter-pattern)
 - [**20. The Iterator Pattern**](#20-the-iterator-pattern) (5 videos)
-  - Understand the Iterator pattern
-  - Create an Iterable
-  - Create an Iterator
-  - Challenge: The Iterator pattern
-  - Solution: The Iterator pattern
+  - [Understand the Iterator pattern](#understand-the-iterator-pattern)
+  - [Create an Iterable](#create-an-iterable)
+  - [Create an Iterator](#create-an-iterator)
+  - [Challenge: The Iterator pattern](#challenge-the-iterator-pattern)
+  - [Solution: The Iterator pattern](#solution-the-iterator-pattern)
 - [**21. The Mediator Pattern**](#21-the-mediator-pattern) (5 videos)
-  - Understand the Mediator pattern
-  - Avoid tight coupling between objects
-  - Create a Mediator object
-  - Challenge: The Mediator pattern
-  - Solution: The Mediator pattern
+  - [Understand the Mediator pattern](#understand-the-mediator-pattern)
+  - [Avoid tight coupling between objects](#avoid-tight-coupling-between-objects)
+  - [Create a Mediator object](#create-a-mediator-object)
+  - [Challenge: The Mediator pattern](#challenge-the-mediator-pattern)
+  - [Solution: The Mediator pattern](#solution-the-mediator-pattern)
 - [**22. The Memento Pattern**](#22-the-memento-pattern) (4 videos)
-  - Understand the Memento pattern
-  - Restoring an object's state
-  - Challenge: The Memento pattern
-  - Solution: The Memento pattern
+  - [Understand the Memento pattern](#understand-the-memento-pattern)
+  - [Restoring an object's state](#restoring-an-objects-state)
+  - [Challenge: The Memento pattern](#challenge-the-memento-pattern)
+  - [Solution: The Memento pattern](#solution-the-memento-pattern)
 - [**23. The Observer Pattern**](#23-the-observer-pattern) (5 videos)
-  - Understand the Observer pattern
-  - Implementing an Observer
-  - Implementing an Observable
-  - Challenge: The Observer pattern
-  - Solution: The Observer pattern
+  - [Understand the Observer pattern](#understand-the-observer-pattern)
+  - [Implementing an Observer](#implementing-an-observer)
+  - [Implementing an Observable](#implementing-an-observable)
+  - [Challenge: The Observer pattern](#challenge-the-observer-pattern)
+  - [Solution: The Observer pattern](#solution-the-observer-pattern)
 - [**24. The State Pattern**](#24-the-state-pattern) (5 videos)
-  - Understand the State pattern
-  - Avoiding multiple if-else statements
-  - Allowing an object to change its behavior
-  - Challenge: The State pattern
-  - Solution: The State pattern
+  - [Understand the State pattern](#understand-the-state-pattern)
+  - [Avoiding multiple if-else statements](#avoiding-multiple-if-else-statements)
+  - [Allowing an object to change its behavior](#allowing-an-object-to-change-its-behavior)
+  - [Challenge: The State pattern](#challenge-the-state-pattern)
+  - [Solution: The State pattern](#solution-the-state-pattern)
 - [**25. The Strategy Pattern**](#25-the-strategy-pattern) (5 videos)
-  - Understand the Strategy pattern
-  - Implement the Strategy pattern
-  - Improve the Strategy pattern
-  - Challenge: The Strategy pattern
-  - Solution: The Strategy pattern
+  - [Understand the Strategy pattern](#understand-the-strategy-pattern)
+  - [Implement the Strategy pattern](#implement-the-strategy-pattern)
+  - [Improve the Strategy pattern](#improve-the-strategy-pattern)
+  - [Challenge: The Strategy pattern](#challenge-the-strategy-pattern)
+  - [Solution: The Strategy pattern](#solution-the-strategy-pattern)
 - [**26. The Template Method Pattern**](#26-the-template-method-pattern) (4 videos)
-  - Understand the Template Method pattern
-  - Implement the Template Method pattern
-  - Challenge: The Template Method pattern
-  - Solution: The Template Method pattern
+  - [Understand the Template Method pattern](#understand-the-template-method-pattern)
+  - [Implement the Template Method pattern](#implement-the-template-method-pattern)
+  - [Challenge: The Template Method pattern](#challenge-the-template-method-pattern)
+  - [Solution: The Template Method pattern](#solution-the-template-method-pattern)
 - [**27. The Visitor Pattern**](#27-the-visitor-pattern) (4 videos)
-  - Understand the Visitor pattern
-  - Implement the Visitor pattern
-  - Challenge: The Visitor pattern
-  - Solution: The Visitor pattern
+  - [Understand the Visitor pattern](#understand-the-visitor-pattern)
+  - [Implement the Visitor pattern](#implement-the-visitor-pattern)
+  - [Challenge: The Visitor pattern](#challenge-the-visitor-pattern)
+  - [Solution: The Visitor pattern](#solution-the-visitor-pattern)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your code with design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980)
@@ -229,6 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), [[Design Patterns]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ide (1)
 > **Tools:** github (1)
@@ -248,12 +249,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[Codespaces]] (1)
 > **Env Vars:** ide (1)
 
 
 ### 1. Design Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980)
@@ -310,16 +312,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (6), application (2), web (1), [[Java]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** require (1)
 > **Exercise Files:** template (1)
 > **Analogies:** imagine (1)
 
 
 ### 2. Creational Design Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are creational design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-creational-design-patterns?u=76281980)
@@ -366,13 +368,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3)
+> **Frameworks & Libraries:** [[Design Patterns]] (3), application (1)
 > **Analogies:** for example (1)
 
 
 ### 3. The Builder Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding complex constructors
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-complex-constructors?u=76281980)
@@ -441,7 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4), interface (2), this. (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (4), product (1)
 > **Analogies:** for example (4)
 > **Definitions:** is called (2), means that (1)
 
@@ -516,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), class. (1), this, (1)
+> **Frameworks & Libraries:** application (2), [[GitHub]] (1), [[Codespaces]] (1), feature (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** addpersontoleadtracker (1)
@@ -676,7 +678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), class. (4), public (4), class, (3), static (3)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** middlename (8), emailaddress (5), firstname (3), lastname (3), dateofbirth (3)
 > **Cross-References:** go back to (3)
 > **Definitions:** means that (1), is a  (1)
@@ -734,7 +736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), pass (2), this. (2), public (1), private (1)
+> **Frameworks & Libraries:** application (2)
 > **Code Identifiers:** personbuilder (3), firstname (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -776,8 +778,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), application (1)
 > **Code Identifiers:** storeitem (2), shortdescription (1), longdescription (1), stockavailable (1), packagingtype (1)
-> **Code Keywords:** class. (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 
@@ -814,7 +816,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), finally, (2), let (1), static (1), private (1)
 > **Code Identifiers:** shortdescription (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -822,7 +823,7 @@ created: 2026-04-29
 
 ### 4. The Singleton Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to use the Singleton pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980)
@@ -883,7 +884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), class, (2), case, (1), this. (1)
+> **Frameworks & Libraries:** database (4), application (2), [[Design Patterns]] (1), [[Java]] (1), next (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (3)
 > **Definitions:** known as (1)
@@ -991,7 +992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (7), private (5), class, (4), public (4), class. (3)
+> **Frameworks & Libraries:** application (2), next (2), [[Java]] (1)
 > **Env Vars:** instance (6)
 > **Code Identifiers:** getinstance (3), printdocuments (1), printimage (1)
 > **CLI Commands:** make (2)
@@ -1053,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (5), class, (1), public (1), private (1), static (1)
+> **Frameworks & Libraries:** next (2), application (1), [[Microsoft Word|Word]] (1), [[Java]] (1)
 > **Env Vars:** instance (3)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
@@ -1100,8 +1101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (1), next (1)
 > **CLI Commands:** cat (4), make (1)
-> **Code Keywords:** class, (2), finally, (1), this, (1)
 > **Cross-References:** previous video (1), next video (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -1163,7 +1164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), enum (3), let (2), private (2), public (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1)
 > **Code Identifiers:** getinstance (4)
 > **Env Vars:** instance (4)
 > **CLI Commands:** cat (2)
@@ -1171,7 +1172,7 @@ created: 2026-04-29
 
 ### 5. The Prototype Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Prototype pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-prototype-pattern?u=76281980)
@@ -1230,7 +1231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), let (1), extends (1), pass (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Analogies:** imagine (1), for example (1)
 
@@ -1347,7 +1348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (5), class. (5), let (3), extends (2), pass (2)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** hawaiianpizza1 (2), placeorder (1), getprice (1), getflavor (1), hawaiianpizza2 (1)
 > **Definitions:** is a  (6), is an  (2)
 > **Cross-References:** go back to (1)
@@ -1404,7 +1405,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (3), class, (1), this, (1), class. (1)
 > **Code Identifiers:** getflavor (3), setname (1), getprice (1), getname (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** scroll down (1)
@@ -1459,7 +1459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), let (2), abstract (1), extends (1), type, (1)
+> **Frameworks & Libraries:** application (1), next (1)
 > **Code Identifiers:** heightinpixels (2), buildingtype (2), housebuildingtype (2), skyscraperbuildingtype (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1526,7 +1526,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), public (2), pass (2), this. (2), let (2)
 > **Code Identifiers:** getheightinpixels (1), getbuildingtype (1), gettype (1)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
@@ -1535,7 +1534,7 @@ created: 2026-04-29
 
 ### 6. The Factory Method
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Factory Method pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-factory-method-pattern?u=76281980)
@@ -1582,7 +1581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), class. (1), public (1), interface (1), case, (1)
+> **Frameworks & Libraries:** application (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** createticket (2)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is a  (1)
@@ -1712,7 +1711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4), interface (3), class. (3), override (2)
+> **Frameworks & Libraries:** application (1), next (1), [[Microsoft Office|Office]] (1), [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** getprice (5), createticket (5), buyabusticket (4), tickettype (2), buyatrainticket (2)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** trainticket.java (1)
@@ -1838,7 +1837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (5), pass (3), let (2), type. (2), lambda (2)
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (2), application (1), functional (1)
 > **Code Identifiers:** ticketmap (5), tickettype (5), createticket (2), ticketmachine (1)
 > **Definitions:** is a  (4)
 > **Best Practices:** the key is (4)
@@ -1899,8 +1898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Functional Programming]] (1), next (1)
 > **Code Identifiers:** getprice (3), getsnack (3), snacktype (2), buysnack (2)
-> **Code Keywords:** interface (2), let (1), override (1), class. (1), finally, (1)
 > **Env Vars:** vending_machine (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
@@ -1982,7 +1981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (3), static (2), throw (2), class. (1), private (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** snackmap (4), snacktype (2), getsnack (1), getsnacktype (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -1992,7 +1991,7 @@ created: 2026-04-29
 
 ### 7. Abstract Factories
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand abstract factories
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-abstract-factories?u=76281980)
@@ -2063,7 +2062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (12), from. (1), this, (1), abstract (1), let (1)
+> **Frameworks & Libraries:** application (5), next (1)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
@@ -2163,7 +2162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), abstract (3), class. (3), this, (2), pass (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), application (4)
 > **Code Identifiers:** buildbike (3), fronttire (1), backtire (1), gettype (1), getwidth (1)
 > **Env Vars:** spd (2), road (2), mountain (2), flat (1), drop (1)
 > **Analogies:** for example (6), similar to (1)
@@ -2314,7 +2313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), override (4), var (4), class, (3), finally, (3)
+> **Frameworks & Libraries:** application (3), [[Java]] (1), next (1)
 > **Code Identifiers:** roadbikefactory (4), createhandlebars (3), createtire (3), createpedals (2), fronttire (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** right-click (1), go to (1)
@@ -2452,7 +2451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (6), class, (4), type. (4), pass (4), class. (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (1)
 > **Code Identifiers:** biketypes (5), biketype (5), createfactory (4), bikefactory (4), roadbikefactory (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** road (1), mountain (1)
@@ -2504,7 +2503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), abstract (2), this, (1), class. (1)
+> **Frameworks & Libraries:** application (2), next (1)
 > **Cross-References:** previous video (1), next video (1)
 > **Code Identifiers:** createuserinterface (1)
 
@@ -2575,7 +2574,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), static (3), abstract (2), class, (2), new. (2)
 > **Code Identifiers:** createbutton (2), createscrollbar (2), createfactory (2), userinterfacefactories (1), createuserinterface (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** blue (1), red (1)
@@ -2585,7 +2583,7 @@ created: 2026-04-29
 
 ### 8. Structural Design Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are structural design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-structural-design-patterns?u=76281980)
@@ -2618,6 +2616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2625,7 +2624,7 @@ created: 2026-04-29
 
 ### 9. The Adapter Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-adapter-pattern?u=76281980)
@@ -2676,7 +2675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), class, (1), class. (1), case. (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -2790,7 +2789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (6), let (2), interface (2), public (2), override (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), application (1), [[Java]] (1)
 > **Code Identifiers:** worddocumentuploader (5), uploaddocument (3), documentuploader (2), uploadworddocument (2), onlineapplication2 (2)
 > **Env Vars:** pdf (8)
 > **CLI Commands:** make (1)
@@ -2867,7 +2866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (4), class. (3), extends (2), class, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (1)
 > **Code Identifiers:** uploadworddocument (4), worddocumentuploader (3)
 > **Env Vars:** pdf (3)
 > **Analogies:** for example (2)
@@ -2929,8 +2928,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** localizedmessage (4), sayhello (3), frenchlocalizedmessage (3), englishlocalizedmessage (2), englishgreeting (1)
-> **Code Keywords:** class. (3), interface (3), class, (1), implements (1), this, (1)
 
 #### Solution: The Adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-adapter-pattern?u=76281980)
@@ -2985,14 +2984,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), override (2), let (2), var (2), class, (1)
 > **Code Identifiers:** frenchlocalizedmessage (6), sayhello (2), frenchgreeting (2), saybonjour (1)
 > **Cross-References:** go back to (1)
 
 
 ### 10. The Bridge Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Bridge pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-bridge-pattern?u=76281980)
@@ -3033,7 +3031,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1), case, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
@@ -3148,7 +3145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), class, (4), pass (4), class. (3), let (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **Code Identifiers:** getsize (8), gettype (6)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (3)
@@ -3191,7 +3188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (3), interface (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (1)
 > **Code Identifiers:** gettype (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -3266,7 +3263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), public (3), private (2), pass (2), this. (2)
+> **Frameworks & Libraries:** application (1)
 > **Code Identifiers:** getcolor (7), gettype (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -3275,7 +3272,7 @@ created: 2026-04-29
 
 ### 11. The Composite Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Composite pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-decorator-pattern-23224165?u=76281980)
@@ -3314,7 +3311,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), class. (1), abstract (1), from. (1)
 > **Code Identifiers:** iscomplete (3)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -3418,7 +3414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), override (3), class. (2), implements (2), class, (2)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** iscompleted (12), todoitems (2), addtodoitem (1), foreach (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
@@ -3472,7 +3468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), class, (1), interface (1), implements (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** addnote (2), getnotes (1), doreme (1)
 > **Env Vars:** cdecece (1)
 > **Cross-References:** in the next (1)
@@ -3533,7 +3529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), implements (4), override (3), class. (2), public (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** foreach (1), doreme (1)
 > **Env Vars:** cdecece (1)
@@ -3543,7 +3539,7 @@ created: 2026-04-29
 
 ### 12. The Decorator Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Decorator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-decorator-pattern?u=76281980)
@@ -3596,7 +3592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), case, (2), pass (2), class, (1), class. (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (3)
 
 #### Change behavior dynamically with a decorator
@@ -3704,7 +3700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), class. (4), public (4), override (4), implements (3)
+> **Frameworks & Libraries:** [[Java]] (2), application (1), [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** printprivileges (9), adminuser (2), printsprivileges (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -3753,7 +3749,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (1), class, (1), var (1), this, (1)
 > **Code Identifiers:** printprivileges (2), developeruser (2), adminuser (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -3800,7 +3795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), implements (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** printfurniture (3)
 > **Cross-References:** in the next (1)
 
@@ -3905,7 +3900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), public (6), override (6), class. (5), super (4)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (2), next (1)
 > **Code Identifiers:** printfurniture (11), roomwithcouch (4), roomwithcouchandtable (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -3913,7 +3908,7 @@ created: 2026-04-29
 
 ### 13. The Facade Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Facade pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-facade-pattern?u=76281980)
@@ -3952,7 +3947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
@@ -4015,7 +4010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), class, (1), public (1), var (1), pass (1)
+> **Frameworks & Libraries:** [[Java]] (2), application (1), next (1)
 > **Cross-References:** go back to (3)
 > **Code Identifiers:** encryptionfacade (2)
 > **Env Vars:** jdk (2)
@@ -4046,7 +4041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), this. (1)
+> **Frameworks & Libraries:** [[Routing]] (1), next (1)
 > **Cross-References:** in the next (1)
 
 #### Solution: The Facade pattern
@@ -4082,14 +4077,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), public (1), delete (1), var (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Routing]] (1)
 > **Code Identifiers:** sendmessage (4), sendmessagefacade (2)
 > **Cross-References:** go back to (1)
 
 
 ### 14. The Flyweight Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Flyweight pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980)
@@ -4134,6 +4129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Java]] (1), data (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1)
 
@@ -4280,7 +4276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), static (4), this. (3), class, (3), private (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** ordercache (5), createorder (3), computeifabsent (3), containskey (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Cross-References:** go back to (1)
@@ -4318,7 +4314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
@@ -4383,7 +4379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (3), static (2), pass (2), private (1), public (1)
+> **Frameworks & Libraries:** [[Java]] (1), next (1), [[Functional Programming]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** createflower (4), flowercache (2), computeifabsent (1), computerifabsent (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -4392,7 +4388,7 @@ created: 2026-04-29
 
 ### 15. The Proxy Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Proxy pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-proxy-pattern?u=76281980)
@@ -4433,8 +4429,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (1)
 > **Prerequisites:** setup (5)
-> **Code Keywords:** case, (2), class. (1), let (1)
 > **Analogies:** for example (3), imagine (1)
 > **Definitions:** is a  (1)
 
@@ -4537,8 +4533,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), data (1), application (1)
 > **Code Identifiers:** showrecommendations (4), loadhomepage (4), loaddiscoverpage (4), getdata (2), getname (1)
-> **Code Keywords:** pass (3), interface (2), implements (2), public (1), finally, (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -4631,7 +4627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), private (2), override (2), interface (1), implements (1)
+> **Frameworks & Libraries:** database (3), [[Java]] (1), data (1)
 > **Code Identifiers:** showrecommendations (6), recommendationsproxy (3), loadhomepage (2), loaddiscoverpage (2), songrecommendations (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** setup (1), initialization (1)
@@ -4690,8 +4686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **Code Identifiers:** ispremium (9), showrecommendations (1)
-> **Code Keywords:** class. (2), let (1), private (1), this. (1), public (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
@@ -4738,8 +4734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1)
 > **Code Identifiers:** playmedia (4), loadvideo (2), gotomovielibrary (2), gotofavoritemovies (2)
-> **Code Keywords:** interface (1), implements (1), class, (1), finally, (1), class. (1)
 > **Cross-References:** in the next (1)
 
 #### Solution: The Proxy pattern
@@ -4787,14 +4783,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** moviemediaplayer (7), playmedia (5), mediaplayerproxy (2), gotomovielibrary (1), gotofavoritemovies (1)
-> **Code Keywords:** private (2), override (2), var (2), let (1), interface (1)
 > **Cross-References:** go back to (1)
 
 
 ### 16. Behavioral Design Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are behavioral design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980)
@@ -4817,10 +4813,14 @@ created: 2026-04-29
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980&t=36)** Some other object patterns are more focused on encapsulating behavior in a single object, and then delegating requests to it.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** [[Design Patterns]] (2)
+
 
 ### 17. The Chain of Responsibility Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Chain of Responsibility pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-chain-of-responsibility-pattern?u=76281980)
@@ -4861,8 +4861,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Analogies:** for example (4)
-> **Code Keywords:** pass (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
@@ -4941,7 +4941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), extends (2), enum (1), class, (1), abstract (1)
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** log.txt (3)
 > **Code Identifiers:** loggertype (3)
 > **Definitions:** is an  (1), is a  (1)
@@ -5063,7 +5063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (12), public (4), class. (3), super (2), var (2)
+> **Frameworks & Libraries:** next (6)
 > **Code Identifiers:** nextlogger (14), getloggertype (2), buildchain (2), filelogger (1), consolelogger (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
@@ -5114,8 +5114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** atm (9), usd (1), eur (1)
-> **Code Keywords:** enum (1), class, (1), abstract (1), finally, (1), class. (1)
 > **Cross-References:** previous video (1), next video (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -5203,7 +5203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (9), public (4), class. (3), var (3), super (2)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** nextatm (12), euroatm (4), getcurrency (2), buildchain (2)
 > **Env Vars:** atm (12), usd (4), eur (2)
 > **CLI Commands:** make (2)
@@ -5214,7 +5214,7 @@ created: 2026-04-29
 
 ### 18. The Command Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Command pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-command-pattern?u=76281980)
@@ -5263,7 +5263,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class. (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 
@@ -5390,7 +5389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), public (5), override (4), class, (3), interface (3)
+> **Frameworks & Libraries:** [[Java]] (1), next (1)
 > **Code Identifiers:** addtobasket (5), removefrombasket (4), dooperation (3), itemoperationexecutor (2), itemoperation (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
@@ -5455,7 +5454,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** itemoperations (4), itemoperation (2), dooperation (1), queueoperation (1), foreach (1)
-> **Code Keywords:** class. (2), let (1), pass (1), public (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -5493,8 +5491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** ison (4), turnonlight (1), turnofflight (1)
-> **Code Keywords:** this, (1), this. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 
@@ -5595,7 +5593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), public (5), interface (4), override (4), private (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** turnonlight (3), lightcommandexecutor (2), turnofflight (1), lightcommand (1), ison (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -5603,7 +5601,7 @@ created: 2026-04-29
 
 ### 19. The Interpreter Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Interpreter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980)
@@ -5662,8 +5660,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Google]] (1), [[SQL]] (1), [[Java]] (1), express (1)
 > **Tools:** terminal (6)
-> **Code Keywords:** abstract (2), let (1), class. (1), interface (1)
 > **Definitions:** is an  (2), is a  (1), is called (1)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** sql (1)
@@ -5792,7 +5790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), override (6), interface (5), class, (3), public (3)
+> **Frameworks & Libraries:** [[Java]] (3), next (3), feature (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** nowhitespace (2), firstlettershouldnotbelowercase (2), replaceall (1), tolowercase (1), startswith (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** ide (3)
@@ -5839,7 +5837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (3), pass (2), class. (1), type. (1), this, (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** firstlettershouldnotbeunderscore (2)
 > **CLI Commands:** make (1)
 
@@ -5872,7 +5870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), interface (1), this. (1), class. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
@@ -5963,7 +5961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), override (4), interface (3), class, (3), var (3)
+> **Frameworks & Libraries:** [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** firstletter (2), firstlettershouldbeacapital (2), sentenceshouldendwithaperiod (2), touppercase (1), endswith (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -5971,7 +5969,7 @@ created: 2026-04-29
 
 ### 20. The Iterator Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Iterator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-iterator-pattern?u=76281980)
@@ -6012,7 +6010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), implements (2)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 
@@ -6081,7 +6079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), interface (2), override (2), pass (2), implements (1)
+> **Frameworks & Libraries:** [[Java]] (4), next (2), feature (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** getname (1), getquantity (1), getitems (1)
 > **Definitions:** is a  (2), is called (1)
@@ -6226,7 +6224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (6), pass (5), interface (3), override (3), public (3)
+> **Frameworks & Libraries:** next (7), [[Java]] (2)
 > **Code Identifiers:** hasnext (6), stockiterator (2), getitems (1), getquantity (1), getname (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
@@ -6250,7 +6248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (1)
 
 #### Solution: The Iterator pattern
@@ -6384,7 +6382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), pass (6), this. (5), override (5), var (5)
+> **Frameworks & Libraries:** next (5), [[Java]] (3)
 > **Code Identifiers:** hasnext (6), countrycollection (3), countrylist (3), countryiterator (3), getcountries (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
@@ -6392,7 +6390,7 @@ created: 2026-04-29
 
 ### 21. The Mediator Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Mediator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-mediator-pattern?u=76281980)
@@ -6439,10 +6437,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (2)
-> **Code Keywords:** self (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
@@ -6521,7 +6519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), class. (2), enum (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** inprogresstickets (1), donetickets (1), addtickettoinprogresstickets (1), addtickettodonetickets (1), pickuptickets (1)
 > **Definitions:** is an  (2), means that (2), is a  (1)
 > **CLI Commands:** make (1)
@@ -6647,7 +6645,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (11), class. (5), private (3), public (3), this. (3)
 > **Code Identifiers:** pickupticket (6), resolveticket (3), pickuptickets (2), resolvetickets (2), setassignee (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (2)
@@ -6702,7 +6699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), finally, (1), this, (1), class, (1)
+> **Frameworks & Libraries:** traffic (11), next (1)
 > **Code Identifiers:** changetogreen (2), pedestriancrossinglight (2), pedestriancrossinglights (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -6793,15 +6790,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (10), [[Java]] (1)
 > **Code Identifiers:** pedestriancrossinglight (10), trafficlight (8), changetored (4), changetogreen (4), changetrafficlighttoamber (3)
-> **Code Keywords:** pass (6), public (4), class. (4), private (2), this. (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1)
 
 
 ### 22. The Memento Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Memento pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-memento-pattern?u=76281980)
@@ -6858,7 +6855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), this. (1), public (1)
+> **Frameworks & Libraries:** [[Java]] (1), data (1)
 > **Definitions:** is called (2), is a  (2)
 > **Analogies:** for example (3), imagine (1)
 > **Cross-References:** go back to (2)
@@ -6981,7 +6978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), public (5), pass (3), this, (2), class, (2)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** textdocument (4), getstate (2), setstate (2)
 > **Cross-References:** go back to (5)
 > **Definitions:** is an  (1)
@@ -7011,6 +7008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** go back to (1), in the next (1)
 
 #### Solution: The Memento pattern
@@ -7070,7 +7068,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), pass (4), this. (2), private (1), class. (1)
 > **Code Identifiers:** getstate (2), setstate (2), itemstate (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -7078,7 +7075,7 @@ created: 2026-04-29
 
 ### 23. The Observer Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Observer pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-observer-pattern?u=76281980)
@@ -7119,8 +7116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), data (1), application (1), product (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** this. (1)
 > **Versions:** java 9 (1)
 > **Best Practices:** recommended (1)
 
@@ -7197,7 +7194,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), class, (3), this, (2), finally, (1), let (1)
 > **Code Identifiers:** printstatuses (2), getnewvalue (2), setstatus (1), propertychange (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
@@ -7280,7 +7276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (9), class. (4), this. (2), private (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** addpropertychangelistener (4), setstatus (1), firepropertychange (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -7330,8 +7326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** weatherupdates (2), weatherevent (1), setweatherevent (1), printupdates (1)
-> **Code Keywords:** let (2), class. (1), finally, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 
@@ -7398,7 +7394,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), class. (3), override (2), class, (2), public (2)
 > **Code Identifiers:** weatherevent (4), weatherupdates (4), addpropertychangelistner (3), propertychange (1), whetherupdates (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -7408,7 +7403,7 @@ created: 2026-04-29
 
 ### 24. The State Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the State pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-state-pattern?u=76281980)
@@ -7455,8 +7450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Analogies:** for example (3), imagine (1)
-> **Code Keywords:** interface (2), switch (1)
 > **Definitions:** is a  (1)
 
 #### Avoiding multiple if-else statements
@@ -7502,7 +7497,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
 > **Code Identifiers:** isopen (2)
 > **Definitions:** is a  (1)
 
@@ -7645,7 +7639,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (15), override (12), interface (7), public (7), this. (5)
 > **Code Identifiers:** placebid (8), closeauction (7), setstate (6), startauction (5), isopen (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -7684,7 +7677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), class, (1), interface (1)
+> **Frameworks & Libraries:** application (1), next (1)
 > **Code Identifiers:** isplaying (3)
 > **Cross-References:** in the next (1)
 
@@ -7769,14 +7762,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), interface (4), override (4), implements (3), public (3)
 > **Code Identifiers:** pressbutton (6), setstate (4), pressedbutton (1), isplaying (1)
 > **Cross-References:** go back to (2)
 
 
 ### 25. The Strategy Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Strategy pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980)
@@ -7817,7 +7809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), static (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Algorithms]] (2), game (2), [[Microsoft Word|Word]] (1), [[Functional Programming]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** refers to (1), is a  (1)
@@ -7910,7 +7902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), override (4), pass (4), public (3), implements (2)
+> **Frameworks & Libraries:** [[Java]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** loginuser (3), loginpage (3)
 > **File Paths:** singlesignonauthenticator.java (1)
 
@@ -7991,7 +7983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (6), interface (4), pass (2), this, (1), static (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Java]] (1)
 > **Code Identifiers:** passwordauthenticator (2), singlesignonauthenticator (2)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (1)
@@ -8033,8 +8025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (1), [[Programming]] (1)
 > **Code Identifiers:** paywithcard (2), paybybanktransfer (1), paywithbanktransfer (1)
-> **Code Keywords:** class. (2), this, (1)
 
 #### Solution: The Strategy pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-strategy-pattern?u=76281980)
@@ -8089,7 +8081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), lambda (2), class. (2), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[Java]] (1), generic (1)
 > **Code Identifiers:** checkoutpage (3), banktransfer (2), paymentmethod (2), payforitems (2), paywithcard (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -8097,7 +8089,7 @@ created: 2026-04-29
 
 ### 26. The Template Method Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Template Method pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980)
@@ -8136,7 +8128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (3), case. (1), class. (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Java]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** addtopping (2)
@@ -8234,7 +8226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (6), class. (5), class, (3), public (2), extends (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** sendgreeting (5), sendmessagebody (4), sendclosing (4), sendmessagbody (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -8264,9 +8256,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 
 #### Solution: The Template Method pattern
@@ -8312,7 +8304,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), abstract (3), class, (2), extends (2), override (2)
 > **Code Identifiers:** makebase (3), addtoppings (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
@@ -8322,7 +8313,7 @@ created: 2026-04-29
 
 ### 27. The Visitor Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Visitor pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-visitor-pattern?u=76281980)
@@ -8389,7 +8380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (3), implements (1), type. (1), case. (1)
+> **Frameworks & Libraries:** [[Java]] (1), next (1)
 > **Analogies:** imagine (2), such as (1), for example (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
@@ -8532,7 +8523,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), interface (5), class, (5), class. (5), override (4)
 > **Code Identifiers:** totalsize (3), getname (2), getelements (2), addelement (1), getsize (1)
 > **File Paths:** file1.txt (3), file2.txt (3)
 > **Cross-References:** go back to (3)
@@ -8587,7 +8577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), class. (2), this. (1), implements (1), finally, (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** getprice (3), setprice (1), addelement (1), getelements (1)
 > **Cross-References:** next video (1)
 
@@ -8662,7 +8652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (10), override (5), interface (3), public (3), this. (2)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** adultticket (3), groupticket (2), setprice (1), grouptickets (1), getelements (1)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
@@ -8670,7 +8660,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980)
@@ -8692,6 +8682,10 @@ created: 2026-04-29
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=26)** There are several other intermediate courses or there are many courses on more advanced topics.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=31)** Good luck with your continued learning.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** [[Java]] (3), [[Design Patterns]] (2), [[LinkedIn]] (1)
 
 
 ## Instructor

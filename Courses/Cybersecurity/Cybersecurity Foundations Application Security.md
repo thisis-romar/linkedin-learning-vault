@@ -26,7 +26,7 @@ tags:
   - skill/application-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Foundations%20Application%20Security.md)
@@ -45,29 +45,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn to secure applications
-  - The most reported vulnerabilities today
+  - [Learn to secure applications](#learn-to-secure-applications)
+  - [The most reported vulnerabilities today](#the-most-reported-vulnerabilities-today)
 - [**1. Access Control**](#1-access-control) (2 videos)
-  - Improper authentication
-  - Improper authorization
+  - [Improper authentication](#improper-authentication)
+  - [Improper authorization](#improper-authorization)
 - [**2. Tainted Input**](#2-tainted-input) (3 videos)
-  - Insecure direct object references (IDOR)
-  - Cross-site scripting (XSS)
-  - Cross-site request forgery (CSRF)
+  - [Insecure direct object references (IDOR)](#insecure-direct-object-references-idor)
+  - [Cross-site scripting (XSS)](#cross-site-scripting-xss)
+  - [Cross-site request forgery (CSRF)](#cross-site-request-forgery-csrf)
 - [**3. Insecure Design**](#3-insecure-design) (3 videos)
-  - Information disclosure
-  - Open redirect
-  - Business logic errors
+  - [Information disclosure](#information-disclosure)
+  - [Open redirect](#open-redirect)
+  - [Business logic errors](#business-logic-errors)
 - [**4. Industry Trends**](#4-industry-trends) (3 videos)
-  - Web application firewall (WAF)
-  - DevSecOps
-  - Practice platforms
+  - [Web application firewall (WAF)](#web-application-firewall-waf)
+  - [DevSecOps](#devsecops)
+  - [Practice platforms](#practice-platforms)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to secure applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/learn-to-secure-applications?u=76281980)
@@ -88,7 +88,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), public (1)
+> **Frameworks & Libraries:** web (3), application (2), cloud (1), [[LinkedIn]] (1), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### The most reported vulnerabilities today
@@ -110,12 +110,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Cybersecurity]] (2), [[Security]] (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Access Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improper authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980)
@@ -190,7 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), require (1)
+> **Frameworks & Libraries:** application (8), data (3), [[PHP]] (2), [[Programming]] (1), next (1)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** url (1), otp (1), php (1)
 > **File Paths:** home.php (1)
@@ -261,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), public (1), finally, (1)
+> **Frameworks & Libraries:** application (8), [[Security]] (2), database (2), data (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Env Vars:** url (2), http (1)
 > **Definitions:** known as (2), is an  (1)
 > **Analogies:** such as (2), for example (1)
@@ -270,7 +271,7 @@ created: 2026-04-29
 
 ### 2. Tainted Input
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Insecure direct object references (IDOR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/insecure-direct-object-references-idor?u=76281980)
@@ -339,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (11), function (3), let (3)
+> **Frameworks & Libraries:** application (4), web application (1), [[Microsoft Word|Word]] (1), database (1)
 > **Env Vars:** idor (3), f12 (1)
 > **Analogies:** such as (3), for example (1)
 > **Tools:** firefox (2)
@@ -423,7 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (1), this, (1)
+> **Frameworks & Libraries:** application (7), next (2), web application (1), [[Scripting]] (1), data (1)
 > **Env Vars:** xss (4), http (1), url (1)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Definitions:** means that (1)
@@ -483,6 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), web (1), [[Security]] (1)
 > **Env Vars:** csrf (4), cors (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -493,7 +495,7 @@ created: 2026-04-29
 
 ### 3. Insecure Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Information disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980)
@@ -578,10 +580,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), [[GitHub]] (6), database (3), [[Security]] (2), [[PHP]] (1)
 > **Tools:** github (6), gitlab (1)
 > **UI Navigation:** click on (3), scroll down (2), navigate to (1)
 > **CLI Commands:** find (2), php (1), make (1), aws (1)
-> **Code Keywords:** let (2), require (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
 > **Env Vars:** php (1), aws (1)
 > **Cross-References:** go back to (1)
@@ -636,8 +638,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), web (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** url (3)
-> **Code Keywords:** let (1), function (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
@@ -694,16 +696,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), application (4), web application (1), web (1), [[Security]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Industry Trends
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Web application firewall (WAF)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980)
@@ -822,9 +824,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (22), web application (8), [[Routing]] (4), [[Security]] (3), next (3)
 > **UI Navigation:** click on (20), select the (2), go to (2), switch to (1)
 > **Env Vars:** waf (12), xss (3), dns (2), http (1), sql (1)
-> **Code Keywords:** public (3), let (2), case, (1), type, (1), new, (1)
 > **Code Identifiers:** agbackendpool (2), mywafpolicy (1), agsubnet (1), agpublicip (1), agroutingrule (1)
 > **Analogies:** for example (3), such as (1)
 > **Cross-References:** go back to (1)
@@ -906,8 +908,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (16), [[Security]] (14), teams (7), [[DevSecOps]] (3), [[Security Engineering]] (1)
 > **Env Vars:** sast (3), dast (3), iast (1), cicd (1), url (1)
-> **Code Keywords:** static (2), module (1)
 > **Tools:** gitlab (2)
 > **Definitions:** known as (2)
 > **UI Navigation:** click on (1)
@@ -952,6 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Security]] (2), [[OWASP]] (2), [[Ethical Hacking]] (1), web application (1)
 > **CLI Commands:** docker (1), make (1)
 > **Env Vars:** owasp (2)
 > **Analogies:** such as (1)
@@ -962,7 +965,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980)
@@ -997,6 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Security]] (6), [[Cybersecurity]] (3), cloud (3), [[Programming]] (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 

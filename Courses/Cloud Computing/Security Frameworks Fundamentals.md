@@ -31,7 +31,7 @@ tags:
   - skill/risk-frameworks
   - skill/governance-risk-management-and-compliance-grc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Security%20Frameworks%20Fundamentals.md)
@@ -50,39 +50,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Security frameworks
-  - Who uses security frameworks?
-  - Why are security frameworks important?
-  - Definitions
+  - [Security frameworks](#security-frameworks)
+  - [Who uses security frameworks?](#who-uses-security-frameworks)
+  - [Why are security frameworks important?](#why-are-security-frameworks-important)
+  - [Definitions](#definitions)
 - [**1. Frameworks, Regulation, and Risk**](#1-frameworks-regulation-and-risk) (6 videos)
-  - Major security frameworks
-  - Domain-specific frameworks and guidance
-  - Maturity frameworks
-  - Privacy frameworks
-  - Regulatory frameworks
-  - Risk assessment
+  - [Major security frameworks](#major-security-frameworks)
+  - [Domain-specific frameworks and guidance](#domain-specific-frameworks-and-guidance)
+  - [Maturity frameworks](#maturity-frameworks)
+  - [Privacy frameworks](#privacy-frameworks)
+  - [Regulatory frameworks](#regulatory-frameworks)
+  - [Risk assessment](#risk-assessment)
 - [**2. Security Framework Deep Dive**](#2-security-framework-deep-dive) (4 videos)
-  - PCI DSS and credit card payments
-  - CIS security controls
-  - NIST 800-53: Guidance for (US) companies
-  - ISO 27001/2: A global approach with certification
+  - [PCI DSS and credit card payments](#pci-dss-and-credit-card-payments)
+  - [CIS security controls](#cis-security-controls)
+  - [NIST 800-53: Guidance for (US) companies](#nist-800-53-guidance-for-us-companies)
+  - [ISO 27001/2: A global approach with certification](#iso-270012-a-global-approach-with-certification)
 - [**3. Framework Comparison**](#3-framework-comparison) (4 videos)
-  - How the frameworks compare
-  - Mapping the controls to one another
-  - Resources available for mapping controls
-  - Choosing a framework that is relevant to your business
+  - [How the frameworks compare](#how-the-frameworks-compare)
+  - [Mapping the controls to one another](#mapping-the-controls-to-one-another)
+  - [Resources available for mapping controls](#resources-available-for-mapping-controls)
+  - [Choosing a framework that is relevant to your business](#choosing-a-framework-that-is-relevant-to-your-business)
 - [**4. The Core Security Set**](#4-the-core-security-set) (5 videos)
-  - Understanding control families and domains
-  - The measures
-  - The assurances
-  - Enabling technologies
-  - Security mindset
+  - [Understanding control families and domains](#understanding-control-families-and-domains)
+  - [The measures](#the-measures)
+  - [The assurances](#the-assurances)
+  - [Enabling technologies](#enabling-technologies)
+  - [Security mindset](#security-mindset)
 - [**Conclusion**](#conclusion) (1 videos)
-  - How to get started
+  - [How to get started](#how-to-get-started)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-frameworks?u=76281980)
@@ -107,6 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), business (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - security (1)
 
@@ -139,7 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), public (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (7), data (3), product (1)
 > **Speakers:** - [narrator] (1)
 
 #### Why are security frameworks important?
@@ -213,7 +214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), finally, (1), raise (1)
+> **Frameworks & Libraries:** [[Security]] (16), data (5), business (1), management (1), [[Legal Compliance]] (1)
 > **Versions:** 4.5 (1)
 > **Analogies:** it's like (1)
 > **Best Practices:** don't forget (1)
@@ -274,9 +275,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[NIST]] (1), [[Engineering]] (1), management (1)
 > **Definitions:** is a  (4), is an  (3), stands for (1), known as (1)
 > **Env Vars:** pci (1), cis (1), nist (1), iso (1), sig (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -284,7 +285,7 @@ created: 2026-04-29
 
 ### 1. Frameworks, Regulation, and Risk
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Major security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980)
@@ -357,8 +358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), business (4), [[NIST]] (2), [[Information Security Management]] (1), functional (1)
 > **Env Vars:** pci (2), cis (2), iso (2), nist (2)
-> **Code Keywords:** finally, (2), this. (1), require (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** don't forget (1)
@@ -424,9 +425,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), cloud (6), [[OWASP]] (3), data (2), web application (1)
 > **Env Vars:** owasp (3), ics (3), nist (1), cis (1), mitre (1)
 > **Definitions:** is a  (2), stands for (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Maturity frameworks
@@ -472,8 +473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (4), [[NIST]] (3), business (1), strengths (1)
 > **Env Vars:** cmmc (3), nist (3), csf (2)
-> **Code Keywords:** let (1), self (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -565,10 +566,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (26), data (12), [[Security]] (4), [[NIST]] (3), [[Analytics]] (1)
 > **Env Vars:** iso (7), nist (3), gdpr (1), pii (1), iec (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), private (1)
 > **Analogies:** such as (2)
 > **Ports:** :2019 (1)
 
@@ -633,9 +634,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), business (3), [[Privacy]] (2), [[Regulatory Compliance]] (1), [[Healthcare Industry]] (1)
 > **Env Vars:** hipaa (2), ephi (1), hitrust (1), sox (1), isac (1)
 > **Definitions:** is a  (3), is an  (2)
-> **Code Keywords:** require (2), private (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** required to (2)
 > **Analogies:** such as (1)
@@ -711,16 +712,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), management (3), [[Privacy]] (2), business (2), [[NIST]] (1)
 > **Env Vars:** fair (3), cobit (3), isaca (3), sig (2), nist (1)
 > **Definitions:** is a  (10), stands for (2), is called (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Security Framework Deep Dive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PCI DSS and credit card payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980)
@@ -781,9 +782,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Security]] (5), next (2), business (2), management (1)
 > **Env Vars:** pci (5), dss (1), pos (1)
 > **Definitions:** is an  (2), is a  (2)
-> **Code Keywords:** finally, (1), self (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -852,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (14), [[Microsoft Office|Office]] (1), [[Cybersecurity]] (1), data (1), web (1)
 > **Env Vars:** cis (7), nsa (1), sans (1), ig1 (1)
-> **Code Keywords:** public (1), private (1), continue (1), let (1), require (1)
 > **Definitions:** stands for (1), known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -938,10 +939,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), [[NIST]] (10), management (4), business (4), data (2)
 > **Env Vars:** nist (10), cia (2), fisma (1), vpn (1)
 > **Definitions:** is a  (6), is an  (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1), case, (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1050,8 +1051,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), management (3), [[Information Security Management]] (2), data (1), generic (1)
 > **Env Vars:** iso (15), isms (7), iec (1), nist (1), csf (1)
-> **Code Keywords:** let (2), implements (1), this. (1), require (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** required to (2)
@@ -1060,7 +1061,7 @@ created: 2026-04-29
 
 ### 3. Framework Comparison
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How the frameworks compare
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-the-frameworks-compare?u=76281980)
@@ -1115,6 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[NIST]] (2), management (2), data (1), business (1)
 > **Env Vars:** pci (2), cis (2), nist (2), iso (2)
 > **Definitions:** is a  (4)
 > **Best Practices:** best practice (2)
@@ -1184,8 +1186,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Incident Response]] (10), [[Security]] (8), [[NIST]] (2), management (1), business (1)
 > **Env Vars:** pci (2), nist (2), iso (2), cis (1)
-> **Code Keywords:** let (2), from. (1)
 > **Versions:** 16.1 (1), 12.2 (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -1233,6 +1235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIST]] (7), [[Security]] (3), [[Privacy]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** nist (7), cis (4), iso (2), scf (1), sig (1)
 > **Definitions:** is a  (5), is called (1)
 > **Cross-References:** as we saw (1), previous chapter (1)
@@ -1292,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (5), management (3), business (2), next (1), hr (1)
 > **Warnings:** important note (1), keep in mind (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
@@ -1303,7 +1306,7 @@ created: 2026-04-29
 
 ### 4. The Core Security Set
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding control families and domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/understanding-control-families-and-domains?u=76281980)
@@ -1346,8 +1349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), business (2), next (1)
 > **Env Vars:** iso (2), pci (1)
-> **Code Keywords:** finally, (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -1397,7 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (4), management (1), business (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1433,8 +1436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Configuration Management]] (1), leadership (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** cis (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1491,7 +1494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2), from. (1)
+> **Frameworks & Libraries:** business (5), [[Security]] (2), [[Search]] (1)
 > **Env Vars:** grc (5)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1545,8 +1548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), business (2), [[Incident Response]] (2), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this. (1), raise (1)
 > **Analogies:** for example (1), such as (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
@@ -1555,7 +1558,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to get started
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-to-get-started?u=76281980)
@@ -1608,8 +1611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), next (3), [[Privacy]] (2), [[LinkedIn]] (1), [[OWASP]] (1)
 > **Env Vars:** owasp (1), nist (1), iso (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)

@@ -32,7 +32,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Level%20Up-%20Advanced%20Python.md)
@@ -51,21 +51,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Slither into advanced core Python code challenges
-  - Using GitHub Codespaces with this course
+  - [Slither into advanced core Python code challenges](#slither-into-advanced-core-python-code-challenges)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Code Challenges**](#1-code-challenges) (8 videos)
-  - Find a runner’s average race time
-  - HTML to markdown converter
-  - Create a pairwise offset
-  - Find a runner’s age at slowest race time
-  - Context managers: Calculator
-  - Get Olympic medals
-  - Create an argument checker
-  - Implement a LinkedIn checker
+  - [Find a runner’s average race time](#find-a-runners-average-race-time)
+  - [HTML to markdown converter](#html-to-markdown-converter)
+  - [Create a pairwise offset](#create-a-pairwise-offset)
+  - [Find a runner’s age at slowest race time](#find-a-runners-age-at-slowest-race-time)
+  - [Context managers: Calculator](#context-managers-calculator)
+  - [Get Olympic medals](#get-olympic-medals)
+  - [Create an argument checker](#create-an-argument-checker)
+  - [Implement a LinkedIn checker](#implement-a-linkedin-checker)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Slither into advanced core Python code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/slither-into-advanced-core-python-code-challenges?u=76281980)
@@ -104,8 +104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (1), ai (1)
 > **CLI Commands:** python (5)
-> **Code Keywords:** self (1), let (1)
 > **Non-Speech:** (electronic music) (1), (electronic chime) (1)
 > **Speakers:** - [johnathon] (1)
 
@@ -246,7 +246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -258,7 +258,7 @@ created: 2026-04-29
 
 ### 1. Code Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Find a runner’s average race time
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-average-race-time?u=76281980)
@@ -353,7 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (4), this. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (1), [[GitHub]] (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **CLI Commands:** pip (1)
 > **Tools:** github (1)
@@ -431,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (4), return. (1), default, (1), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **Env Vars:** html (6), url (3)
 > **CLI Commands:** python (1), make (1)
 > **Non-Speech:** (energetic music) (2)
@@ -524,7 +524,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (4), module (2)
 > **Code Identifiers:** pairwise_offset (4), zip_longest (1)
 > **File Paths:** pairwise_offset.py (4)
 > **Env Vars:** it1 (2), it2 (1)
@@ -609,7 +608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), pass (4), let (2), module (1)
+> **Frameworks & Libraries:** data (1), next (1), [[GitHub]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -723,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), pass (2), self (2), type. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1)
 > **File Paths:** calculator.py (1)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** exc_types (1)
@@ -807,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** get_medals (3), test_medal (1)
 > **Non-Speech:** (8-bit music) (2)
 > **File Paths:** medals.py (1)
@@ -899,7 +898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (5), raise (4), module (1), match, (1)
+> **Frameworks & Libraries:** product (3), game (1), [[Python (Programming Language)|Python]] (1), next (1), [[GitHub]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** means that (2)
 > **Non-Speech:** (upbeat video game music) (1), (upbeat music) (1)
@@ -1033,7 +1032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), function (3), finally, (2), module (1)
+> **Frameworks & Libraries:** feature (8), [[LinkedIn]] (6), game (2), data (1), next (1)
 > **Env Vars:** url (11)
 > **Definitions:** is a  (3), is an  (1), short for (1), means that (1)
 > **File Paths:** specifications.txt (2), linkedin_checker.py (2)

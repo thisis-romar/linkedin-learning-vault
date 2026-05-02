@@ -32,7 +32,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20Framework%20for%20Your%20Enterprise%20AI%20Product.md)
@@ -51,24 +51,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The five rings of responsible AI
-  - Why we need responsible AI: Lessons from the paperclip maximizer
+  - [The five rings of responsible AI](#the-five-rings-of-responsible-ai)
+  - [Why we need responsible AI: Lessons from the paperclip maximizer](#why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer)
 - [**1. Before You Build Your AI Products**](#1-before-you-build-your-ai-products) (2 videos)
-  - The Three Laws of Robotics by Isaac Asimov
-  - Responsible AI framework: The five rings
+  - [The Three Laws of Robotics by Isaac Asimov](#the-three-laws-of-robotics-by-isaac-asimov)
+  - [Responsible AI framework: The five rings](#responsible-ai-framework-the-five-rings)
 - [**2. What We Talk About When We Talk About Responsible AI**](#2-what-we-talk-about-when-we-talk-about-responsible-ai) (5 videos)
-  - Ethical AI
-  - Secure AI
-  - Explainable AI
-  - Privacy-preserving AI
-  - Fair AI
+  - [Ethical AI](#ethical-ai)
+  - [Secure AI](#secure-ai)
+  - [Explainable AI](#explainable-ai)
+  - [Privacy-preserving AI](#privacy-preserving-ai)
+  - [Fair AI](#fair-ai)
 - [**Conclusion**](#conclusion) (2 videos)
-  - The limitation of this course
-  - Build your responsible ex machina
+  - [The limitation of this course](#the-limitation-of-this-course)
+  - [Build your responsible ex machina](#build-your-responsible-ex-machina)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The five rings of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-five-rings-of-responsible-ai?u=76281980)
@@ -91,7 +91,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6), [[Microsoft Products|Products]] (2), power (1), data (1), [[Responsible AI]] (1)
 > **Speakers:** - ai (1)
 
 #### Why we need responsible AI: Lessons from the paperclip maximizer
@@ -151,8 +151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Responsible AI]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** super (1), let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -161,7 +161,7 @@ created: 2026-04-29
 
 ### 1. Before You Build Your AI Products
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Three Laws of Robotics by Isaac Asimov
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980)
@@ -246,7 +246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this: (1), self (1), new. (1), include: (1)
+> **Frameworks & Libraries:** ai (10), [[Privacy]] (2), data (2), [[Accountability]] (2), [[Responsible AI]] (2)
 > **Analogies:** imagine (2)
 > **Speakers:** - [presenter] (1)
 
@@ -301,7 +301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** ai (17), [[Privacy]] (3), [[Responsible AI]] (2), next (2), data (2)
 > **Env Vars:** lime (1), shap (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
@@ -310,7 +310,7 @@ created: 2026-04-29
 
 ### 2. What We Talk About When We Talk About Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980)
@@ -403,7 +403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1)
+> **Frameworks & Libraries:** ai (20), [[Microsoft Products|Products]] (5), [[Ethics]] (2), [[Accountability]] (2), [[Hardware]] (2)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** fbi (1)
 > **Definitions:** is an  (1)
@@ -502,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this: (1), self (1), else, (1), include: (1)
+> **Frameworks & Libraries:** ai (14), data (5), [[Security]] (3), [[Deep Learning]] (1), traffic (1)
 > **Analogies:** picture (1), just like (1), imagine (1)
 > **Speakers:** - [presenter] (1)
 
@@ -595,8 +595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), feature (3), [[Algorithms]] (2), management (1), [[Accountability]] (1)
 > **Env Vars:** lime (6), compas (3), shap (3)
-> **Code Keywords:** let (2), this, (1), public (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** picture (1), for example (1), analogous to (1)
 > **CLI Commands:** make (1)
@@ -733,7 +733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), let (1), else. (1), function (1), try. (1)
+> **Frameworks & Libraries:** data (30), ai (10), [[Privacy]] (5), traffic (5), [[Microsoft Products|Products]] (3)
 > **Analogies:** imagine (4), for example (1), picture (1), it's like (1)
 > **Definitions:** is a  (3), known as (1)
 > **Env Vars:** smpc (2), gdpr (1)
@@ -826,16 +826,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (7), leadership (1), teams (1)
 > **Env Vars:** covid (3)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The limitation of this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980)
@@ -868,6 +868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Responsible AI]] (2), [[Privacy]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)

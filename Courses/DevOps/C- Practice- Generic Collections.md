@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/C-%20Practice-%20Generic%20Collections.md)
@@ -47,22 +47,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Practice your C# generic collections skills
-  - What you should know
-  - Explore the code challenge
+  - [Practice your C# generic collections skills](#practice-your-c-generic-collections-skills)
+  - [What you should know](#what-you-should-know)
+  - [Explore the code challenge](#explore-the-code-challenge)
 - [**1. Collections Code Challenges**](#1-collections-code-challenges) (6 videos)
-  - Solution: Insert into List<T>
-  - Solution: Examine dictionary contents
-  - Solution: PriorityQueue
-  - Solution: Use a slice to get a subset
-  - Solution: ConvertAll
-  - Solution: HashSet operations
+  - [Solution: Insert into List<T>](#solution-insert-into-listt)
+  - [Solution: Examine dictionary contents](#solution-examine-dictionary-contents)
+  - [Solution: PriorityQueue](#solution-priorityqueue)
+  - [Solution: Use a slice to get a subset](#solution-use-a-slice-to-get-a-subset)
+  - [Solution: ConvertAll](#solution-convertall)
+  - [Solution: HashSet operations](#solution-hashset-operations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice your C# generic collections skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/practice-your-c-sharp-generic-collections-skills?u=76281980)
@@ -84,7 +84,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** net (5)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - are (1)
 
@@ -157,8 +156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (8), generic (4), next (1), concurrent (1), [[Databases]] (1)
 > **Env Vars:** linq (8), net (6), xml (1)
-> **Code Keywords:** let (1), class. (1), type. (1), finally, (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (3)
 > **Analogies:** picture (1)
@@ -338,7 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), lambda (4), class. (2), for, (1), case, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), application (1), data (1), next (1)
 > **Code Identifiers:** topnumbers (4)
 > **Definitions:** is a  (3), is called (1)
 > **Tools:** visual studio (2)
@@ -350,7 +349,7 @@ created: 2026-04-29
 
 ### 1. Collections Code Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Insert into List<T>
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/4481725?u=76281980)
@@ -473,7 +472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), let (3), return. (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (2), next (1), functional (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** starter code (1)
@@ -560,10 +559,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), concurrent (1)
 > **Code Identifiers:** teamname (4), allteamitems (2), teamcard (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** interface (1), class. (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - the (1)
@@ -599,7 +598,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
 > **Code Identifiers:** prioritylevel (1)
 > **Speakers:** - [instructor] (1)
 
@@ -632,9 +630,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** for. (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: ConvertAll
@@ -670,7 +668,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), type. (1)
 > **Speakers:** - for (1)
 
 #### Solution: HashSet operations
@@ -762,14 +759,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), match. (1), this. (1), default, (1), except, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), generic (1), [[Search]] (1), game (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/next-steps?u=76281980)
@@ -788,6 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1), [[JavaScript]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1), net (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - thanks (1)

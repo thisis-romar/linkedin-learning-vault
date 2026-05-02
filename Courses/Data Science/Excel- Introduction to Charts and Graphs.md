@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Introduction%20to%20Charts%20and%20Graphs.md)
@@ -47,33 +47,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Craft engaging charts and graphs in Excel
+  - [Craft engaging charts and graphs in Excel](#craft-engaging-charts-and-graphs-in-excel)
 - [**1. Understanding Excel Chart Concepts**](#1-understanding-excel-chart-concepts) (4 videos)
-  - Identifying chart elements
-  - Selecting the right chart type
-  - Understanding chart sub-types
-  - Using the chart design and format tabs
+  - [Identifying chart elements](#identifying-chart-elements)
+  - [Selecting the right chart type](#selecting-the-right-chart-type)
+  - [Understanding chart sub-types](#understanding-chart-sub-types)
+  - [Using the chart design and format tabs](#using-the-chart-design-and-format-tabs)
 - [**2. Creating Basic Charts Quickly**](#2-creating-basic-charts-quickly) (4 videos)
-  - Selecting data to display as a chart
-  - Creating charts instantly with shortcuts and Quick Analysis
-  - Creating charts with the Recommended Charts button
-  - Creating charts with standard menu commands
+  - [Selecting data to display as a chart](#selecting-data-to-display-as-a-chart)
+  - [Creating charts instantly with shortcuts and Quick Analysis](#creating-charts-instantly-with-shortcuts-and-quick-analysis)
+  - [Creating charts with the Recommended Charts button](#creating-charts-with-the-recommended-charts-button)
+  - [Creating charts with standard menu commands](#creating-charts-with-standard-menu-commands)
 - [**3. Modifying Chart Appearances**](#3-modifying-chart-appearances) (5 videos)
-  - Choosing a chart layout with Quick Layout
-  - Selecting a chart style
-  - Change the orientation of a chart
-  - Changing a chart's type
-  - Moving, copying, and resizing charts
+  - [Choosing a chart layout with Quick Layout](#choosing-a-chart-layout-with-quick-layout)
+  - [Selecting a chart style](#selecting-a-chart-style)
+  - [Change the orientation of a chart](#change-the-orientation-of-a-chart)
+  - [Changing a chart's type](#changing-a-charts-type)
+  - [Moving, copying, and resizing charts](#moving-copying-and-resizing-charts)
 - [**4. Working with Column, Bar, and Line Charts**](#4-working-with-column-bar-and-line-charts) (3 videos)
-  - Using column and bar charts
-  - Working with line charts
-  - Exploring other chart types
+  - [Using column and bar charts](#using-column-and-bar-charts)
+  - [Working with line charts](#working-with-line-charts)
+  - [Exploring other chart types](#exploring-other-chart-types)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to learn more about Excel
+  - [Where to learn more about Excel](#where-to-learn-more-about-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Craft engaging charts and graphs in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/craft-engaging-charts-and-graphs-in-excel?u=76281980)
@@ -94,14 +94,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [dennis] (1)
 
 
 ### 1. Understanding Excel Chart Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying chart elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/identifying-chart-elements?u=76281980)
@@ -252,11 +252,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (5), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** click on (5), double-click (3), go to (1), open the (1), right-click (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (2), refers to (1), is a  (1)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** else, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Selecting the right chart type
@@ -416,9 +416,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), next (5), data (4), product (2), feature (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), this. (1)
 > **Analogies:** picture (1), for example (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
@@ -516,7 +516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), switch (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), next (1), application (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (2)
 > **Cross-References:** as we saw (1)
@@ -595,7 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** in other words (1)
@@ -604,7 +604,7 @@ created: 2026-04-29
 
 ### 2. Creating Basic Charts Quickly
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting data to display as a chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-data-to-display-as-a-chart?u=76281980)
@@ -667,7 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), this, (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (2), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -771,7 +771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), case, (1), type, (1)
+> **Frameworks & Libraries:** data (13)
 > **CLI Commands:** make (2)
 > **Env Vars:** f11 (2)
 > **Cross-References:** we mentioned (1)
@@ -863,6 +863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), feature (4), [[Microsoft Excel|Excel]] (1), next (1)
 > **Best Practices:** recommended (6)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** imagine (1), picture (1)
@@ -923,7 +924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), type, (1), case, (1)
+> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -933,7 +934,7 @@ created: 2026-04-29
 
 ### 3. Modifying Chart Appearances
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing a chart layout with Quick Layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/choosing-a-chart-layout-with-quick-layout?u=76281980)
@@ -1036,10 +1037,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** click on (3), go to (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1128,9 +1129,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Fine Tuning]] (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1207,7 +1208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), let (2), case, (1)
+> **Frameworks & Libraries:** data (7), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), refers to (1)
 > **UI Navigation:** toggle (1)
@@ -1288,7 +1289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (4), type. (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -1372,7 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), switch (2), this. (1), super (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (10)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -1380,7 +1381,7 @@ created: 2026-04-29
 
 ### 4. Working with Column, Bar, and Line Charts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using column and bar charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-column-and-bar-charts?u=76281980)
@@ -1545,8 +1546,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (3), type. (2), this, (1), type, (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1)
@@ -1613,7 +1614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), try. (1), switch (1), this. (1), let (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** be careful (1), keep in mind (1)
 > **UI Navigation:** click on (1)
@@ -1732,16 +1733,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1), be careful (1)
-> **Code Keywords:** this. (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more about Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980)
@@ -1760,6 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[LinkedIn]] (2), next (1), [[Pivot Tables]] (1)
 > **Speakers:** - [dennis] (1)
 
 

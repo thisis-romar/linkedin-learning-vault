@@ -39,7 +39,7 @@ tags:
   - skill/cloud-administration
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Administration%20Essential%20Training.md)
@@ -58,57 +58,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The Essentials of Microsoft Azure
+  - [The Essentials of Microsoft Azure](#the-essentials-of-microsoft-azure)
 - [**1. Getting Familiar with Microsoft Azure**](#1-getting-familiar-with-microsoft-azure) (4 videos)
-  - Fundamentals of cloud computing
-  - Fundamentals of cloud service offerings
-  - Microsoft 365 and Microsoft Azure: key concepts
-  - Controlling Azure costs
+  - [Fundamentals of cloud computing](#fundamentals-of-cloud-computing)
+  - [Fundamentals of cloud service offerings](#fundamentals-of-cloud-service-offerings)
+  - [Microsoft 365 and Microsoft Azure: key concepts](#microsoft-365-and-microsoft-azure-key-concepts)
+  - [Controlling Azure costs](#controlling-azure-costs)
 - [**2. Managing Microsoft Azure resources**](#2-managing-microsoft-azure-resources) (10 videos)
-  - Azure management tools
-  - Fundamentals of Azure management
-  - Fundamentals of Azure resource hierarchy
-  - Adding resources to Resource groups
-  - Creating resources in an Azure subscription
-  - Managing Azure with Azure PowerShell and Azure CLI
-  - Optimizing Azure with Azure Advisor
-  - Explore Microsoft Defender for Cloud (formerly Azure Security Center and Azure Defender)
-  - Explore Deployment Options (ARM and Bicep)
-  - Getting Azure support
+  - [Azure management tools](#azure-management-tools)
+  - [Fundamentals of Azure management](#fundamentals-of-azure-management)
+  - [Fundamentals of Azure resource hierarchy](#fundamentals-of-azure-resource-hierarchy)
+  - [Adding resources to Resource groups](#adding-resources-to-resource-groups)
+  - [Creating resources in an Azure subscription](#creating-resources-in-an-azure-subscription)
+  - [Managing Azure with Azure PowerShell and Azure CLI](#managing-azure-with-azure-powershell-and-azure-cli)
+  - [Optimizing Azure with Azure Advisor](#optimizing-azure-with-azure-advisor)
+  - [Explore Microsoft Defender for Cloud (formerly Azure Security Center and Azure Defender)](#explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender)
+  - [Explore Deployment Options (ARM and Bicep)](#explore-deployment-options-arm-and-bicep)
+  - [Getting Azure support](#getting-azure-support)
 - [**3. Microsoft Azure Storage**](#3-microsoft-azure-storage) (5 videos)
-  - Exploring Azure storage services
-  - Implementing a storage account
-  - Managing Azure storage account basic settings
-  - Managing Azure storage account advanced settings
-  - Explore Microsoft Purview
+  - [Exploring Azure storage services](#exploring-azure-storage-services)
+  - [Implementing a storage account](#implementing-a-storage-account)
+  - [Managing Azure storage account basic settings](#managing-azure-storage-account-basic-settings)
+  - [Managing Azure storage account advanced settings](#managing-azure-storage-account-advanced-settings)
+  - [Explore Microsoft Purview](#explore-microsoft-purview)
 - [**4. Microsoft Azure  Web Apps**](#4-microsoft-azure-web-apps) (2 videos)
-  - Implementing Azure web apps
-  - Managing Azure web apps
+  - [Implementing Azure web apps](#implementing-azure-web-apps)
+  - [Managing Azure web apps](#managing-azure-web-apps)
 - [**5. Microsoft Azure Virtual Machines**](#5-microsoft-azure-virtual-machines) (5 videos)
-  - Creating virtual machines in Azure
-  - Managing virtual machines in Azure: Basic
-  - Managing virtual machines in Azure: Networking
-  - Managing virtual machines in Azure: Advanced
-  - Connecting to virtual machines in Azure
+  - [Creating virtual machines in Azure](#creating-virtual-machines-in-azure)
+  - [Managing virtual machines in Azure: Basic](#managing-virtual-machines-in-azure-basic)
+  - [Managing virtual machines in Azure: Networking](#managing-virtual-machines-in-azure-networking)
+  - [Managing virtual machines in Azure: Advanced](#managing-virtual-machines-in-azure-advanced)
+  - [Connecting to virtual machines in Azure](#connecting-to-virtual-machines-in-azure)
 - [**6. Microsoft Microsoft Entra ID**](#6-microsoft-microsoft-entra-id) (8 videos)
-  - Exploring Microsoft Entra ID
-  - A look into Microsoft Entra
-  - Exploring Administrative (RBAC) roles
-  - Managing users in Azure AD
-  - Create member users in Azure AD
-  - Enable Multi Factor Authentication for a User
-  - Managing groups in Azure AD
-  - Exploring advanced Azure AD features
+  - [Exploring Microsoft Entra ID](#exploring-microsoft-entra-id)
+  - [A look into Microsoft Entra](#a-look-into-microsoft-entra)
+  - [Exploring Administrative (RBAC) roles](#exploring-administrative-rbac-roles)
+  - [Managing users in Azure AD](#managing-users-in-azure-ad)
+  - [Create member users in Azure AD](#create-member-users-in-azure-ad)
+  - [Enable Multi Factor Authentication for a User](#enable-multi-factor-authentication-for-a-user)
+  - [Managing groups in Azure AD](#managing-groups-in-azure-ad)
+  - [Exploring advanced Azure AD features](#exploring-advanced-azure-ad-features)
 - [**7. Microsoft Azure Networking**](#7-microsoft-azure-networking) (3 videos)
-  - Explore the Azure virtual networking resources
-  - Creating a virtual network
-  - Create a load balancer
+  - [Explore the Azure virtual networking resources](#explore-the-azure-virtual-networking-resources)
+  - [Creating a virtual network](#creating-a-virtual-network)
+  - [Create a load balancer](#create-a-load-balancer)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about Microsoft Azure
+  - [Learning more about Microsoft Azure](#learning-more-about-microsoft-azure)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Essentials of Microsoft Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980)
@@ -127,14 +127,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), cloud (1), [[Security]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [david] (1)
 
 
 ### 1. Getting Familiar with Microsoft Azure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980)
@@ -271,7 +271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (17), private (10), let (4), for. (1), case, (1)
+> **Frameworks & Libraries:** cloud (37), [[Microsoft Azure|Azure]] (10), [[Hardware]] (9), data (9), [[Microsoft Azure]] (5)
 > **Analogies:** such as (2), for example (1), imagine (1)
 > **Definitions:** is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -389,7 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), else, (1), for. (1), case. (1)
+> **Frameworks & Libraries:** cloud (24), data (16), [[Microsoft Azure|Azure]] (12), application (9), [[Microsoft Azure]] (7)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** required to (1)
@@ -440,6 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Microsoft Azure|Azure]] (8), [[Microsoft]] (6), [[SaaS|Software as a service]] (5), [[IaaS|Infrastructure as a service]] (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **Tools:** azure portal (1)
@@ -517,10 +518,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Cost Management]] (5), [[Security]] (2), data (2), [[SQL]] (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is an  (3), is a  (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** from. (1), let (1)
 > **Analogies:** for example (2)
 > **Env Vars:** sql (1)
 > **Versions:** 234.17 (1)
@@ -529,7 +530,7 @@ created: 2026-04-29
 
 ### 2. Managing Microsoft Azure resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980)
@@ -624,8 +625,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), [[Powershell]] (12), [[Windows]] (11), [[Microsoft Entra ID|Azure active directory]] (8), cloud (8)
 > **Tools:** powershell (12), azure portal (8), bash (3), command line (2)
-> **Code Keywords:** interface (9), let (2), delete (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is an  (1), is a  (1)
 > **URLs:** [azure.com](https://azure.com) (1)
@@ -784,9 +785,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[Security]] (3), [[Databases]] (2), [[Search]] (2), data (1)
 > **UI Navigation:** click on (7), select the (1)
 > **Analogies:** for example (4), such as (2), think of it as (1)
-> **Code Keywords:** let (2), interface (2), default, (1), private (1)
 > **Env Vars:** rg1 (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), is a  (1)
@@ -868,8 +869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (15), [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (1), product (1), cloud (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** function (1), delete (1), interface (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** previous video (1)
 > **Tools:** azure portal (1)
@@ -943,9 +944,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), [[Microsoft Azure|Azure]] (5), [[SQL]] (1), next (1)
 > **Env Vars:** rg1 (2), sql (1), sql1 (1)
 > **UI Navigation:** click on (3)
-> **Code Keywords:** case, (1), throw (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -999,8 +1000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft]] (3), data (3), [[Microsoft Azure]] (1), management (1)
 > **UI Navigation:** click on (5), go to (1)
-> **Code Keywords:** interface (3), let (1)
 > **Analogies:** for example (3), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1093,11 +1094,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[Powershell]] (14), [[CLI]] (12), [[Windows]] (6), cloud (4)
 > **Tools:** powershell (14), command line (5), azure portal (4), command prompt (2), bash (2)
 > **Env Vars:** cli (12), vnet (1), find (1)
 > **CLI Commands:** az (8), find (4)
 > **Prerequisites:** install (5)
-> **Code Keywords:** interface (2), switch (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
@@ -1193,10 +1194,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Security]] (6), [[Microsoft]] (3), database (3), [[Search]] (2)
 > **UI Navigation:** click on (6)
 > **Definitions:** is a  (5)
 > **Env Vars:** nat (4)
-> **Code Keywords:** let (2), switch (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
@@ -1325,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (2), else. (1), case, (1)
+> **Frameworks & Libraries:** [[Security]] (21), [[Microsoft Defender]] (12), [[Microsoft Azure|Azure]] (9), cloud (7), [[Virtual Machines]] (5)
 > **Env Vars:** mfa (4), css (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **UI Navigation:** click on (3)
@@ -1395,6 +1396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[JSON]] (9), [[Microsoft]] (2), web (1), management (1)
 > **Env Vars:** arm (10), json (9), cli (1)
 > **Tools:** azure portal (2), visual studio (2), powershell (1)
 > **Definitions:** is a  (3), is an  (2)
@@ -1486,7 +1488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), require (1), interface (1), self (1)
+> **Frameworks & Libraries:** [[Microsoft]] (10), [[Microsoft Azure|Azure]] (4), product (1), data (1), functional (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** azure portal (1)
@@ -1496,7 +1498,7 @@ created: 2026-04-29
 
 ### 3. Microsoft Azure Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Azure storage services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980)
@@ -1547,12 +1549,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), data (9), database (5), [[IaaS|Infrastructure as a service]] (2), [[PaaS|Platform as a service]] (2)
 > **Env Vars:** sql (2)
 > **Cross-References:** earlier in (1), we talked about (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Tools:** azure portal (1)
 > **Prerequisites:** install (1)
 
@@ -1621,9 +1623,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Definitions:** is an  (1), is a  (1), basically means (1)
-> **Code Keywords:** let (1), pass (1)
 > **Env Vars:** rg1 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1737,7 +1739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2), static (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (4), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (3)
@@ -1923,7 +1925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), default. (4), private (2), delete (2), let (1)
+> **Frameworks & Libraries:** data (24), application (8), [[Microsoft Azure|Azure]] (7), [[Search]] (1), [[Powershell]] (1)
 > **Env Vars:** uri (2), cli (1), grs (1)
 > **Analogies:** for example (3)
 > **Cross-References:** previous video (2)
@@ -1981,6 +1983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Microsoft]] (8), [[Microsoft Azure|Azure]] (5), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
@@ -1989,7 +1992,7 @@ created: 2026-04-29
 
 ### 4. Microsoft Azure  Web Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing Azure web apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980)
@@ -2050,7 +2053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), interface (1), let (1)
+> **Frameworks & Libraries:** web (8), [[Microsoft Azure|Azure]] (6), cloud (2), [[Linux]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** docker (2), make (1)
 > **Env Vars:** url (3)
@@ -2173,8 +2176,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), application (7), data (5), web (3), hit (1)
 > **Env Vars:** url (3), ftp (2), https (2), tls (1), ssl (1)
-> **Code Keywords:** case, (2), public (1), require (1), default. (1), from. (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **UI Navigation:** click on (2), go to (1)
 > **URLs:** [azurewebsites.net](https://azurewebsites.net) (2)
@@ -2185,7 +2188,7 @@ created: 2026-04-29
 
 ### 5. Microsoft Azure Virtual Machines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating virtual machines in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980)
@@ -2324,8 +2327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (15), [[Windows Server]] (6), [[Microsoft Azure|Azure]] (5), cloud (4), [[Security]] (4)
 > **Env Vars:** rdp (3), rg1 (1), vm1 (1)
-> **Code Keywords:** let (1), function (1), type. (1), default, (1)
 > **Cross-References:** in the next (2), earlier in (1), we talked about (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** means that (1), is a  (1), is an  (1)
@@ -2436,8 +2439,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), data (4), management (1), dns (1), [[Windows Server]] (1)
 > **Env Vars:** rdp (4), vnic (2), ds1 (1), dns (1), x64 (1)
-> **Code Keywords:** public (3), pass (2), let (1), interface (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **Cross-References:** previous video (1), we discussed (1)
 > **Analogies:** for example (2)
@@ -2580,7 +2583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), private (3), interface (3), let (2), match, (2)
+> **Frameworks & Libraries:** [[Network Security]] (5), [[Microsoft Azure|Azure]] (4)
 > **Env Vars:** vm1 (9), nsg (5), tcp (2), rg1 (2), nic (2)
 > **Definitions:** is a  (3), is called (2), basically means (1), is an  (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -2704,9 +2707,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (4), data (3), [[Hardware]] (2)
 > **Env Vars:** ssd (5), lun (5), lrs (1), hdd (1), ade (1)
 > **Definitions:** is an  (3), is a  (3)
-> **Code Keywords:** let (2), type, (1), function (1)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Code Identifiers:** iops (3)
 > **Prerequisites:** configure (3)
@@ -2784,8 +2787,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Windows]] (2), [[Linux]] (2), [[Microsoft Azure|Azure]] (2), [[Network Security]] (1)
 > **Env Vars:** rdp (9), ssh (3), tcp (1)
-> **Code Keywords:** public (2), require (2), private (2), let (1), case, (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** ssh (3)
 > **UI Navigation:** click on (3)
@@ -2796,7 +2799,7 @@ created: 2026-04-29
 
 ### 6. Microsoft Microsoft Entra ID
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Microsoft Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980)
@@ -2851,8 +2854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (12), [[Active Directory]] (7), [[Microsoft Azure|Azure]] (5), [[Microsoft]] (1), cloud (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -2940,8 +2943,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (13), [[Microsoft Entra ID|Azure active directory]] (9), [[Microsoft]] (8), [[Microsoft Azure|Azure]] (3), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** interface (2)
 > **UI Navigation:** click on (2)
 > **Analogies:** similar to (1), for example (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -3023,9 +3026,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (5), [[Microsoft Entra ID|Azure ad]] (4), [[Search]] (2), [[Microsoft]] (1), management (1)
 > **UI Navigation:** click on (6)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** let (2), type, (1), delete (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** rbac (2)
 > **Prerequisites:** you need to have (1), set up (1)
@@ -3171,8 +3174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (9), [[Microsoft 365]] (6), [[Security]] (2), [[SharePoint]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **UI Navigation:** click on (6), checkbox (1)
-> **Code Keywords:** delete (3), interface (2), let (1)
 > **Env Vars:** csv (2), mfa (2)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (2)
@@ -3241,8 +3244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (3), [[Active Directory]] (1), [[Microsoft Entra ID|Azure ad]] (1), [[Search]] (1), next (1)
 > **UI Navigation:** click on (4), switch to (1)
-> **Code Keywords:** let (3), switch (1)
 > **Env Vars:** upn (1), rbac (1)
 > **Cross-References:** we talked about (1)
 > **Exercise Files:** template (1)
@@ -3332,8 +3335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Security]] (3), [[Forms]] (3), [[Search]] (3), [[Windows]] (1)
 > **Env Vars:** mfa (19)
-> **Code Keywords:** require (3), let (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
@@ -3448,9 +3451,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (10), [[Microsoft Entra ID|Azure ad]] (6), [[Security]] (5), [[Microsoft Entra ID|Azure active directory]] (2), [[Windows]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Definitions:** is a  (4), means that (2)
-> **Code Keywords:** type. (2), let (1), require (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -3553,8 +3556,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (11), [[Microsoft Entra ID|Azure active directory]] (6), [[Microsoft]] (6), [[Active Directory]] (5), [[Microsoft Azure|Azure]] (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (5)
-> **Code Keywords:** let (1), self (1), from. (1), default. (1)
 > **Env Vars:** upn (3)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1), troubleshoot (1)
@@ -3565,7 +3568,7 @@ created: 2026-04-29
 
 ### 7. Microsoft Azure Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the Azure virtual networking resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980)
@@ -3630,7 +3633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (6), [[Microsoft Azure|Azure]] (4), cloud (4), [[Network Security]] (2), application (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** vpn (2), iot (1)
 > **Analogies:** for example (2), just like (1)
@@ -3724,8 +3727,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), prompt (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (1), default. (1), case, (1)
 > **Env Vars:** cidr (3)
 > **Versions:** 10.0.0 (2)
 > **Analogies:** for example (2)
@@ -3785,7 +3788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1), if, (1)
+> **Frameworks & Libraries:** application (6), [[Virtual Machines]] (5), database (2), vpn (1), [[Microsoft]] (1)
 > **Env Vars:** lb5 (1), sku (1), vpn (1)
 > **Cross-References:** earlier in (1), we discussed (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -3797,7 +3800,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about Microsoft Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980)
@@ -3820,6 +3823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Azure]] (2), [[Microsoft]] (2), [[Technical Documentation]] (2), next (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)

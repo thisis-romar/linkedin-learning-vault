@@ -32,7 +32,7 @@ tags:
   - skill/large-language-models-llm
   - skill/enterprise-software
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LLM%20Foundations-%20Building%20Effective%20Applications%20for%20Enterprises.md)
@@ -51,56 +51,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Starting your GenAI adoption journey
-  - Course content and prerequisites
+  - [Starting your GenAI adoption journey](#starting-your-genai-adoption-journey)
+  - [Course content and prerequisites](#course-content-and-prerequisites)
 - [**1. Generative AI in Enterprises**](#1-generative-ai-in-enterprises) (4 videos)
-  - The GenAI revolution
-  - How GenAI is impacting enterprises
-  - GenAI challenges for enterprises
-  - GenAI adoption process
+  - [The GenAI revolution](#the-genai-revolution)
+  - [How GenAI is impacting enterprises](#how-genai-is-impacting-enterprises)
+  - [GenAI challenges for enterprises](#genai-challenges-for-enterprises)
+  - [GenAI adoption process](#genai-adoption-process)
 - [**2. GenAI Use Case Selection**](#2-genai-use-case-selection) (5 videos)
-  - Popular GenAI use cases
-  - Identifying and evaluating GenAI use cases
-  - Creating a GenAI roadmap
-  - Building proof-of-concepts for GenAI
-  - Course use case: GenAI-powered email helpdesk
+  - [Popular GenAI use cases](#popular-genai-use-cases)
+  - [Identifying and evaluating GenAI use cases](#identifying-and-evaluating-genai-use-cases)
+  - [Creating a GenAI roadmap](#creating-a-genai-roadmap)
+  - [Building proof-of-concepts for GenAI](#building-proof-of-concepts-for-genai)
+  - [Course use case: GenAI-powered email helpdesk](#course-use-case-genai-powered-email-helpdesk)
 - [**3. Choosing GenAI Models**](#3-choosing-genai-models) (5 videos)
-  - The GenAI model landscape
-  - Selection criteria for GenAI models
-  - Build vs. buy for GenAI
-  - GenAI model deployment considerations
-  - Impact of training data in GenAI
+  - [The GenAI model landscape](#the-genai-model-landscape)
+  - [Selection criteria for GenAI models](#selection-criteria-for-genai-models)
+  - [Build vs. buy for GenAI](#build-vs-buy-for-genai)
+  - [GenAI model deployment considerations](#genai-model-deployment-considerations)
+  - [Impact of training data in GenAI](#impact-of-training-data-in-genai)
 - [**4. Evaluation and Fine-Tuning for GenAI**](#4-evaluation-and-fine-tuning-for-genai) (5 videos)
-  - Evaluating GenAI models
-  - Fine-tuning GenAI models
-  - Building datasets for evaluation and fine-tuning
-  - Metrics for GenAI
-  - Course use case: Evaluation and model selection
+  - [Evaluating GenAI models](#evaluating-genai-models)
+  - [Fine-tuning GenAI models](#fine-tuning-genai-models)
+  - [Building datasets for evaluation and fine-tuning](#building-datasets-for-evaluation-and-fine-tuning)
+  - [Metrics for GenAI](#metrics-for-genai)
+  - [Course use case: Evaluation and model selection](#course-use-case-evaluation-and-model-selection)
 - [**5. Design Considerations for GenAI Applications**](#5-design-considerations-for-genai-applications) (6 videos)
-  - A typical GenAI app
-  - Batch generation with GenAI models
-  - User and API interfaces
-  - Prompt engineering
-  - Data collection and monitoring
-  - Course use case: Architecture
+  - [A typical GenAI app](#a-typical-genai-app)
+  - [Batch generation with GenAI models](#batch-generation-with-genai-models)
+  - [User and API interfaces](#user-and-api-interfaces)
+  - [Prompt engineering](#prompt-engineering)
+  - [Data collection and monitoring](#data-collection-and-monitoring)
+  - [Course use case: Architecture](#course-use-case-architecture)
 - [**6. Safety and Trust with GenAI**](#6-safety-and-trust-with-genai) (5 videos)
-  - Ethical and legal considerations
-  - Protecting against vulnerabilities
-  - Toxicity and bias in GenAI
-  - Hallucinations
-  - Course use case: Guardrails
+  - [Ethical and legal considerations](#ethical-and-legal-considerations)
+  - [Protecting against vulnerabilities](#protecting-against-vulnerabilities)
+  - [Toxicity and bias in GenAI](#toxicity-and-bias-in-genai)
+  - [Hallucinations](#hallucinations)
+  - [Course use case: Guardrails](#course-use-case-guardrails)
 - [**7. Managing GenAI Application Performance**](#7-managing-genai-application-performance) (5 videos)
-  - Performance goals for GenAI apps
-  - Improving GenAI accuracy
-  - Reducing latency for GenAI
-  - GenAI cost control
-  - Course use case: Performance considerations
+  - [Performance goals for GenAI apps](#performance-goals-for-genai-apps)
+  - [Improving GenAI accuracy](#improving-genai-accuracy)
+  - [Reducing latency for GenAI](#reducing-latency-for-genai)
+  - [GenAI cost control](#genai-cost-control)
+  - [Course use case: Performance considerations](#course-use-case-performance-considerations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your GenAI journey
+  - [Continue your GenAI journey](#continue-your-genai-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting your GenAI adoption journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/starting-your-gen-ai-adoption-journey?u=76281980)
@@ -120,10 +120,6 @@ created: 2026-04-29
 > **[0:31](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/starting-your-gen-ai-adoption-journey?u=76281980&t=31)** I am Kumaran Ponnambalm.
 >
 > **[0:33](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/starting-your-gen-ai-adoption-journey?u=76281980&t=33)** If you are ready to see just how GenAI can work for your organization, let's get started.
-
-> [!info]- Semantic Content
->
-> **Code Keywords:** let (1)
 
 #### Course content and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-content-and-pre-requisites?u=76281980)
@@ -168,14 +164,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Fine Tuning]] (1), application (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** prerequisite (1)
 
 
 ### 1. Generative AI in Enterprises
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The GenAI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/the-gen-ai-revolution?u=76281980)
@@ -216,7 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), business (2), [[Automation]] (1), web (1), next (1)
 > **Cross-References:** in the next (1)
 
 #### How GenAI is impacting enterprises
@@ -258,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (3), [[Generative AI]] (1), [[Customer Support]] (1), [[Human Resources (HR)|Human resources]] (1), teams (1)
 
 #### GenAI challenges for enterprises
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-challenges-for-enterprises?u=76281980)
@@ -311,7 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 
 #### GenAI adoption process
@@ -355,13 +351,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), finally, (1)
+> **Frameworks & Libraries:** business (1), next (1), [[Generative AI]] (1), application (1)
 > **Best Practices:** recommended (1)
 
 
 ### 2. GenAI Use Case Selection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Popular GenAI use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/popular-gen-ai-use-cases?u=76281980)
@@ -416,7 +412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (6), [[Content Creation]] (1), [[Human Resources (HR)|Human resources]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (1)
 
 #### Identifying and evaluating GenAI use cases
@@ -494,7 +490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1), finally, (1), this, (1), case. (1)
+> **Frameworks & Libraries:** business (3), data (3), product (2), application (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 
@@ -571,8 +567,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Automation]] (3), next (2), business (2), [[Content Creation]] (1)
 > **Cross-References:** previous video (1), in the next (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** poc (1)
 > **Analogies:** for example (1)
 
@@ -639,8 +635,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), application (1)
 > **Env Vars:** poc (14)
-> **Code Keywords:** case, (2), require (1), case. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 
@@ -691,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (2), this, (1)
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), [[Troubleshooting]] (2), [[Electronics]] (1), [[Technical Support]] (1)
 > **Env Vars:** rag (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
@@ -699,7 +695,7 @@ created: 2026-04-29
 
 ### 3. Choosing GenAI Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The GenAI model landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-model-landscape?u=76281980)
@@ -786,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), case. (2)
+> **Frameworks & Libraries:** data (4), [[Algorithms]] (2), aws (2), gcp (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** aws (2), gcp (2), bert (1), api (1), gpt (1)
 > **CLI Commands:** aws (2), make (1)
 > **Tools:** github (1)
@@ -855,7 +851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (7), case, (1), function (1)
+> **Frameworks & Libraries:** rag (1), [[Real-Time]] (1), next (1), data (1), cloud (1)
 > **Env Vars:** rag (1)
 > **Analogies:** for example (1)
 
@@ -914,7 +910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), let (1)
+> **Frameworks & Libraries:** data (4), open-source (2), next (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
 
@@ -1007,7 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), private (2)
+> **Frameworks & Libraries:** data (8), cloud (4), api (3), [[Fine Tuning]] (2), application (2)
 > **Env Vars:** api (3), aws (1), vpc (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** aws (1), make (1)
@@ -1058,14 +1054,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), case. (1)
+> **Frameworks & Libraries:** data (15), [[Forms]] (1), open-source (1), [[Fine Tuning]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
 
 ### 4. Evaluation and Fine-Tuning for GenAI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating GenAI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/evaluating-gen-ai-models?u=76281980)
@@ -1168,7 +1164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (3), case, (1), case. (1)
+> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the last (1)
@@ -1239,7 +1235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (4), require (3), case, (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Reinforcement Learning]] (1), data (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -1301,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), let (1)
+> **Frameworks & Libraries:** data (19), [[Engineering]] (1), [[Fine Tuning]] (1), [[Algorithms]] (1), [[Version Control]] (1)
 > **Analogies:** similar to (3)
 > **Env Vars:** dvc (1)
 
@@ -1370,7 +1366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), case. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Algorithms]] (1)
 > **Env Vars:** bleu (1), rouge (1)
 > **Cross-References:** we talked about (1), previous video (1)
 
@@ -1443,7 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), let (2), module (2)
+> **Frameworks & Libraries:** product (3), prompt (3), llm (3), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** llm (3), rag (1), blue (1), vpc (1)
 > **Cross-References:** previous chapter (1)
 > **UI Navigation:** select the (1)
@@ -1452,7 +1448,7 @@ created: 2026-04-29
 
 ### 5. Design Considerations for GenAI Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A typical GenAI app
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/a-typical-gen-ai-app?u=76281980)
@@ -1497,7 +1493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (2), module (2), interface (1)
+> **Frameworks & Libraries:** application (5), prompt (3), data (3), business (1), api (1)
 > **Env Vars:** api (1)
 
 #### Batch generation with GenAI models
@@ -1557,7 +1553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1)
+> **Frameworks & Libraries:** application (4), data (3), [[Generative AI]] (2), prompt (2), [[Batch Processing]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** apache (1)
 > **Env Vars:** rdbms (1)
@@ -1635,7 +1631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), public (1), finally, (1), interface (1)
+> **Frameworks & Libraries:** data (6), application (5), api (3), [[User Experience (UX)|User experience]] (2), [[Unstructured Data]] (1)
 > **Env Vars:** api (3), rag (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
@@ -1683,7 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (4), prompt (4), application (2), [[JSON]] (1), rag (1)
 > **Env Vars:** json (1), rag (1)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
@@ -1733,7 +1729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1)
+> **Frameworks & Libraries:** data (5), application (4), prompt (1)
 
 #### Course use case: Architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-architecture?u=76281980)
@@ -1808,7 +1804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), interface (2), let (1), case. (1)
+> **Frameworks & Libraries:** data (7), prompt (4), application (2), rag (2), product (2)
 > **Env Vars:** rag (2), llm (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1816,7 +1812,7 @@ created: 2026-04-29
 
 ### 6. Safety and Trust with GenAI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical and legal considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/ethical-and-legal-considerations?u=76281980)
@@ -1871,7 +1867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), public (1)
+> **Frameworks & Libraries:** data (5), application (2), business (2), ai (2), [[Personal Data Protection]] (1)
 > **Env Vars:** gdpr (1), hipaa (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1953,7 +1949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1)
+> **Frameworks & Libraries:** data (10), prompt (4), [[OWASP]] (2), application (2), business (2)
 > **Env Vars:** owasp (2), api (1), pii (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Best Practices:** recommended (2)
@@ -2034,7 +2030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2), public (1)
+> **Frameworks & Libraries:** business (4), data (4), application (2), prompt (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -2094,7 +2090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Generative AI]] (2), prompt (2), business (1), [[Fine Tuning]] (1)
 > **Env Vars:** rag (1)
 > **Analogies:** for example (1)
 
@@ -2143,14 +2139,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), prompt (4), application (2), [[Zoom]] (1)
 > **Env Vars:** llm (6)
-> **Code Keywords:** let (2), case, (1), require (1)
 > **Cross-References:** previous chapter (1)
 
 
 ### 7. Managing GenAI Application Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Performance goals for GenAI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/performance-goals-for-gen-ai-apps?u=76281980)
@@ -2217,7 +2213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** application (4), business (3), data (1), [[Generative AI]] (1), prompt (1)
 > **Analogies:** for example (2)
 
 #### Improving GenAI accuracy
@@ -2255,7 +2251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (4)
+> **Frameworks & Libraries:** data (3), [[Prompt Engineering]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** we discussed (1)
 
@@ -2300,7 +2296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), case, (1)
+> **Frameworks & Libraries:** prompt (2), [[Hardware]] (1), ai (1), hit (1), data (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 
@@ -2339,7 +2335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), let (1)
+> **Frameworks & Libraries:** prompt (2), [[Tokens]] (1), [[Batch Processing]] (1), application (1), hit (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
@@ -2379,14 +2375,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (2)
+> **Frameworks & Libraries:** [[Hardware]] (1), business (1), [[Batch Processing]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** go back to (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your GenAI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/continue-your-gen-ai-journey?u=76281980)
@@ -2415,8 +2411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1), application (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 
 
 ## Instructor

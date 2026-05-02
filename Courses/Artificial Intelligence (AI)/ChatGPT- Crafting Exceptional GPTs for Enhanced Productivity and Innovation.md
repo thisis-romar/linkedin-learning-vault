@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT-%20Crafting%20Exceptional%20GPTs%20for%20Enhanced%20Productivity%20and%20Innovation.md)
@@ -49,46 +49,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Foundations of GPT Creation**](#1-foundations-of-gpt-creation) (6 videos)
-  - GPTs and ChatGPT: Introduction to crafting your own powerful AI
-  - GPTs and ChatGPT: Programming with prompts for effective AI instructions
-  - GPTs and ChatGPT: Mastering custom instructions for tailored AI performance
-  - GPTs and ChatGPT: Enhancing performance with retrieval-augmented generation
-  - GPTs and ChatGPT: Building powerful AI with integrated capabilities
-  - GPTs and ChatGPT: Understanding tool use for enhanced capabilities and actions
+  - [GPTs and ChatGPT: Introduction to crafting your own powerful AI](#gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai)
+  - [GPTs and ChatGPT: Programming with prompts for effective AI instructions](#gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions)
+  - [GPTs and ChatGPT: Mastering custom instructions for tailored AI performance](#gpts-and-chatgpt-mastering-custom-instructions-for-tailored-ai-performance)
+  - [GPTs and ChatGPT: Enhancing performance with retrieval-augmented generation](#gpts-and-chatgpt-enhancing-performance-with-retrieval-augmented-generation)
+  - [GPTs and ChatGPT: Building powerful AI with integrated capabilities](#gpts-and-chatgpt-building-powerful-ai-with-integrated-capabilities)
+  - [GPTs and ChatGPT: Understanding tool use for enhanced capabilities and actions](#gpts-and-chatgpt-understanding-tool-use-for-enhanced-capabilities-and-actions)
 - [**2. Personal Development and Testing**](#2-personal-development-and-testing) (5 videos)
-  - GPTs and ChatGPT: Creating a persona for your custom AI
-  - GPTs and ChatGPT: The importance of effective testing
-  - GPTs and ChatGPT: Building benchmarks to measure AI performance
-  - GPTs and ChatGPT: Generating test cases with custom AI
-  - GPTs and ChatGPT: Helping users solve problems without giving direct answers
+  - [GPTs and ChatGPT: Creating a persona for your custom AI](#gpts-and-chatgpt-creating-a-persona-for-your-custom-ai)
+  - [GPTs and ChatGPT: The importance of effective testing](#gpts-and-chatgpt-the-importance-of-effective-testing)
+  - [GPTs and ChatGPT: Building benchmarks to measure AI performance](#gpts-and-chatgpt-building-benchmarks-to-measure-ai-performance)
+  - [GPTs and ChatGPT: Generating test cases with custom AI](#gpts-and-chatgpt-generating-test-cases-with-custom-ai)
+  - [GPTs and ChatGPT: Helping users solve problems without giving direct answers](#gpts-and-chatgpt-helping-users-solve-problems-without-giving-direct-answers)
 - [**3. Ensuring Accuracy and Readability**](#3-ensuring-accuracy-and-readability) (5 videos)
-  - GPTs and ChatGPT: Citing knowledge to ensure accuracy and credibility
-  - GPTs and ChatGPT: Effective output formatting for enhanced readability
-  - GPTs and ChatGPT: Providing accurate information and ensuring factual responses
-  - GPTs and ChatGPT: Hedging while helping—crafting balanced responses
-  - GPTs and ChatGPT: Designing interactive experiences with menu action patterns
+  - [GPTs and ChatGPT: Citing knowledge to ensure accuracy and credibility](#gpts-and-chatgpt-citing-knowledge-to-ensure-accuracy-and-credibility)
+  - [GPTs and ChatGPT: Effective output formatting for enhanced readability](#gpts-and-chatgpt-effective-output-formatting-for-enhanced-readability)
+  - [GPTs and ChatGPT: Providing accurate information and ensuring factual responses](#gpts-and-chatgpt-providing-accurate-information-and-ensuring-factual-responses)
+  - [GPTs and ChatGPT: Hedging while helping—crafting balanced responses](#gpts-and-chatgpt-hedging-while-helpingcrafting-balanced-responses)
+  - [GPTs and ChatGPT: Designing interactive experiences with menu action patterns](#gpts-and-chatgpt-designing-interactive-experiences-with-menu-action-patterns)
 - [**4. Optimizing User Experience**](#4-optimizing-user-experience) (5 videos)
-  - GPTs and ChatGPT: Finding additional resources and support
-  - GPTs and ChatGPT: Ensuring that GPTs have the information for better decision-making
-  - GPTs and ChatGPT: Flipped interaction pattern for dynamic conversations
-  - GPTs and ChatGPT: Addressing missing context for better user interaction
-  - GPTs and ChatGPT: Creating tailored user experiences
+  - [GPTs and ChatGPT: Finding additional resources and support](#gpts-and-chatgpt-finding-additional-resources-and-support)
+  - [GPTs and ChatGPT: Ensuring that GPTs have the information for better decision-making](#gpts-and-chatgpt-ensuring-that-gpts-have-the-information-for-better-decision-making)
+  - [GPTs and ChatGPT: Flipped interaction pattern for dynamic conversations](#gpts-and-chatgpt-flipped-interaction-pattern-for-dynamic-conversations)
+  - [GPTs and ChatGPT: Addressing missing context for better user interaction](#gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction)
+  - [GPTs and ChatGPT: Creating tailored user experiences](#gpts-and-chatgpt-creating-tailored-user-experiences)
 - [**5. Managing AI Boundaries and Ambiguity**](#5-managing-ai-boundaries-and-ambiguity) (5 videos)
-  - GPTs and ChatGPT: Setting boundaries and defining limits in AI responses
-  - GPTs and ChatGPT: Responding to knowledge gaps with effective strategies
-  - GPTs and ChatGPT: Handling ambiguity and refining user prompts
-  - GPTs and ChatGPT: Enforcing boundaries with alternative approaches
-  - GPTs and ChatGPT: Ensuring accuracy with cognitive verifier patterns
+  - [GPTs and ChatGPT: Setting boundaries and defining limits in AI responses](#gpts-and-chatgpt-setting-boundaries-and-defining-limits-in-ai-responses)
+  - [GPTs and ChatGPT: Responding to knowledge gaps with effective strategies](#gpts-and-chatgpt-responding-to-knowledge-gaps-with-effective-strategies)
+  - [GPTs and ChatGPT: Handling ambiguity and refining user prompts](#gpts-and-chatgpt-handling-ambiguity-and-refining-user-prompts)
+  - [GPTs and ChatGPT: Enforcing boundaries with alternative approaches](#gpts-and-chatgpt-enforcing-boundaries-with-alternative-approaches)
+  - [GPTs and ChatGPT: Ensuring accuracy with cognitive verifier patterns](#gpts-and-chatgpt-ensuring-accuracy-with-cognitive-verifier-patterns)
 - [**6. Advanced GPT Techniques and Next Steps**](#6-advanced-gpt-techniques-and-next-steps) (5 videos)
-  - GPTs and ChatGPT: Managing ambiguity in concept mapping
-  - GPTs and ChatGPT: Resolving knowledge conflicts in AI outputs
-  - GPTs and ChatGPT: Understanding accountability in AI usage
-  - GPTs and ChatGPT: Conducting adversarial testing for robustness
-  - GPTs and ChatGPT: Your next steps in crafting personalized AI automation
+  - [GPTs and ChatGPT: Managing ambiguity in concept mapping](#gpts-and-chatgpt-managing-ambiguity-in-concept-mapping)
+  - [GPTs and ChatGPT: Resolving knowledge conflicts in AI outputs](#gpts-and-chatgpt-resolving-knowledge-conflicts-in-ai-outputs)
+  - [GPTs and ChatGPT: Understanding accountability in AI usage](#gpts-and-chatgpt-understanding-accountability-in-ai-usage)
+  - [GPTs and ChatGPT: Conducting adversarial testing for robustness](#gpts-and-chatgpt-conducting-adversarial-testing-for-robustness)
+  - [GPTs and ChatGPT: Your next steps in crafting personalized AI automation](#gpts-and-chatgpt-your-next-steps-in-crafting-personalized-ai-automation)
 
 ### 1. Foundations of GPT Creation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Introduction to crafting your own powerful AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Custom GPTs]] (2), [[Generative AI]] (2)
 > **Env Vars:** gpt (1)
 > **Speakers:** - welcome (1)
 
@@ -323,7 +324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (2), this, (2), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Programming]] (8), data (6), [[Generative AI]] (5), [[ChatGPT]] (5), ai (3)
 > **Env Vars:** gpt (2), csv (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -486,7 +487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), interface (2), let (2), switch (2), this. (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Programming]] (7), [[GPT-4]] (1), prompt (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** bmx (4), gpt (2)
 > **Definitions:** is a  (4)
 > **Analogies:** imagine (2), kind of like (1)
@@ -730,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), let (3), this, (3), from. (1), case, (1)
+> **Frameworks & Libraries:** prompt (27), [[Search]] (10), [[Generative AI]] (8), rag (7), web (7)
 > **Env Vars:** rag (7), gpt (3), cpu (1)
 > **Definitions:** is a  (5), is called (1)
 > **Analogies:** think of it as (3), just like (1), imagine (1), for example (1)
@@ -942,8 +943,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (4), hit (4), [[Programming]] (3), [[Custom GPTs]] (1)
 > **Env Vars:** gpt (15), rag (1)
-> **Code Keywords:** let (4), from, (3), this. (2), interface (1), default, (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** just like (1), similar to (1), it's like (1), think of it as (1)
 > **Cross-References:** we talked about (2)
@@ -1195,8 +1196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), prompt (5), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), database (2), [[ChatGPT]] (2)
 > **Env Vars:** tps (12), gpt (5), dall (1), api (1), json (1)
-> **Code Keywords:** this. (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Analogies:** kind of like (1), think of it as (1)
@@ -1207,7 +1208,7 @@ created: 2026-04-29
 
 ### 2. Personal Development and Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Creating a persona for your custom AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-a-persona-for-your-custom-ai?u=76281980)
@@ -1346,8 +1347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpt (9)
-> **Code Keywords:** let (2), this. (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1379,6 +1380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Custom GPTs]] (1)
 > **Env Vars:** gpt (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
@@ -1490,9 +1492,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), [[GPT-4]] (1), next (1), [[Engineering]] (1)
 > **Env Vars:** gpt (9)
 > **CLI Commands:** make (6)
-> **Code Keywords:** this, (3), finally, (1), class, (1), this. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** the key is (2)
 > **Cross-References:** we covered (1)
@@ -1681,8 +1683,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), [[Microsoft Excel|Excel]] (2), [[Custom GPTs]] (1), next (1), business (1)
 > **Env Vars:** gpt (15), csv (1)
-> **Code Keywords:** let (5), this. (3), case. (1), switch (1), else. (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (3)
 > **Speakers:** - thinking (1)
@@ -1730,8 +1732,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Custom GPTs]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** module (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -1739,7 +1741,7 @@ created: 2026-04-29
 
 ### 3. Ensuring Accuracy and Readability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Citing knowledge to ensure accuracy and credibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-citing-knowledge-to-ensure-accuracy-and-credibility?u=76281980)
@@ -1804,8 +1806,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Search]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** this. (1), from, (1), case, (1), let (1), else. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** gpt (2)
 > **Exercise Files:** download the (1)
@@ -1974,8 +1976,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (1), business (1)
 > **Exercise Files:** template (15)
-> **Code Keywords:** let (2), case. (1), this. (1), else. (1), switch (1)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (1)
@@ -2115,7 +2117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), type, (1), require (1), this. (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (1), [[Decision-Making]] (1), power (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** gpt (5)
 > **Definitions:** is a  (2)
@@ -2215,7 +2217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), class. (1), case, (1), else, (1), let (1)
+> **Frameworks & Libraries:** business (5), prompt (1), game (1)
 > **Env Vars:** gpt (5)
 > **CLI Commands:** make (2)
 > **Warnings:** be aware (2)
@@ -2367,7 +2369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), let (2), type. (1), switch (1), public (1)
+> **Frameworks & Libraries:** business (7), prompt (2), [[Custom GPTs]] (1), [[Microsoft Word|Word]] (1), [[ChatGPT]] (1)
 > **Env Vars:** gpt (5), gbt (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -2378,7 +2380,7 @@ created: 2026-04-29
 
 ### 4. Optimizing User Experience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Finding additional resources and support
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980)
@@ -2439,8 +2441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Routing]] (1)
 > **Env Vars:** gpt (5)
-> **Code Keywords:** this, (2), else. (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
@@ -2536,10 +2538,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** gpt (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - generative (1)
 
 #### GPTs and ChatGPT: Flipped interaction pattern for dynamic conversations
@@ -2659,7 +2661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), for. (1), case, (1), let (1), this. (1)
+> **Frameworks & Libraries:** prompt (2), [[Custom GPTs]] (2), [[ChatGPT]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** gpt (4), gbt (1)
 > **Definitions:** is a  (3)
 > **Analogies:** picture (1)
@@ -2792,7 +2794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), case, (1), this. (1), for. (1)
+> **Frameworks & Libraries:** business (2), [[Custom GPTs]] (1), [[ChatGPT]] (1), [[GPT-4]] (1), hr (1)
 > **Env Vars:** gpt (7)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is an  (1)
@@ -2875,8 +2877,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (9), [[Custom GPTs]] (1), business (1)
 > **Env Vars:** faq (14), gpt (3)
-> **Code Keywords:** let (1), this. (1), case, (1), switch (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -2885,7 +2887,7 @@ created: 2026-04-29
 
 ### 5. Managing AI Boundaries and Ambiguity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Setting boundaries and defining limits in AI responses
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-setting-boundaries-and-defining-limits-in-ai-responses?u=76281980)
@@ -3000,9 +3002,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), [[DALL-E]] (2), express (1)
 > **Env Vars:** gpt (15), dall (2)
 > **CLI Commands:** make (4), rails (2)
-> **Code Keywords:** this. (2), case, (1)
 > **Speakers:** - it (1)
 
 #### GPTs and ChatGPT: Responding to knowledge gaps with effective strategies
@@ -3124,8 +3126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), prompt (2)
 > **Env Vars:** gpt (11)
-> **Code Keywords:** this. (3), let (1), this, (1), case, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
@@ -3260,8 +3262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), prompt (2)
 > **Env Vars:** gpt (13), gbt (1)
-> **Code Keywords:** let (1), for, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
@@ -3361,7 +3363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), try, (1), for, (1), let (1), require (1)
+> **Frameworks & Libraries:** business (4), prompt (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gpt (3)
 > **Definitions:** is a  (1)
@@ -3453,7 +3455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), this, (1)
+> **Frameworks & Libraries:** business (3)
 > **Env Vars:** gpt (6)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -3463,7 +3465,7 @@ created: 2026-04-29
 
 ### 6. Advanced GPT Techniques and Next Steps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Managing ambiguity in concept mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-managing-ambiguity-in-concept-mapping?u=76281980)
@@ -3542,8 +3544,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), prompt (1)
 > **Env Vars:** gpt (7)
-> **Code Keywords:** this. (2), let (1)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (2)
 > **Speakers:** - a (1)
@@ -3625,7 +3627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (1), let (1)
+> **Frameworks & Libraries:** business (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** gpt (1)
 > **Speakers:** - when (1)
@@ -3729,7 +3731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), this, (1), for, (1)
+> **Frameworks & Libraries:** chatbot (5), [[Custom GPTs]] (1), ai (1), [[Generative AI]] (1)
 > **Env Vars:** gpt (3)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -3862,8 +3864,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), game (3)
 > **Env Vars:** gpt (13), dalle (1)
-> **Code Keywords:** let (3), this. (2), public (1), this, (1), raise (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2), kind of like (1)
 > **Cross-References:** earlier in (1)
@@ -3886,6 +3888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Custom GPTs]] (2), [[LinkedIn]] (1)
 > **Speakers:** - thank (1)
 
 

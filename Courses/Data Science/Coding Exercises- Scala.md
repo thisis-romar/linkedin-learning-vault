@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/scala
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Coding%20Exercises-%20Scala.md)
@@ -48,27 +48,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Test your Scala skills
+  - [Test your Scala skills](#test-your-scala-skills)
 - [**1. Challenges**](#1-challenges) (15 videos)
-  - Palindrome detector
-  - Password checker
-  - Colored boxes
-  - System properties
-  - Resistor tolerance
-  - Snakes and camels
-  - Stuff the stats sheet
-  - A slice of Pi
-  - Cron and regular expressions
-  - Reservoir sampling
-  - Evaluate a decision tree
-  - Calculator
-  - Error handling
-  - Sierpinski Triangle
-  - Rocketship
+  - [Palindrome detector](#palindrome-detector)
+  - [Password checker](#password-checker)
+  - [Colored boxes](#colored-boxes)
+  - [System properties](#system-properties)
+  - [Resistor tolerance](#resistor-tolerance)
+  - [Snakes and camels](#snakes-and-camels)
+  - [Stuff the stats sheet](#stuff-the-stats-sheet)
+  - [A slice of Pi](#a-slice-of-pi)
+  - [Cron and regular expressions](#cron-and-regular-expressions)
+  - [Reservoir sampling](#reservoir-sampling)
+  - [Evaluate a decision tree](#evaluate-a-decision-tree)
+  - [Calculator](#calculator)
+  - [Error handling](#error-handling)
+  - [Sierpinski Triangle](#sierpinski-triangle)
+  - [Rocketship](#rocketship)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test your Scala skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/test-your-scala-skills?u=76281980)
@@ -95,6 +95,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scala]] (5), [[Programming]] (2), game (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat video game music) (1)
@@ -102,7 +103,7 @@ created: 2026-04-29
 
 ### 1. Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Palindrome detector
 > [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980)
@@ -175,7 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), game (2), [[Scala]] (1)
 > **Analogies:** for example (2)
 > **Non-Speech:** (video game sounds and music) (1), (video game music) (1)
 > **CLI Commands:** make (1)
@@ -285,7 +286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), for. (2), this, (1), for, (1)
+> **Frameworks & Libraries:** web (1), [[Scala]] (1), next (1)
 > **Code Identifiers:** haspunctuation (2), isvalidpassword (1), isupper (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -353,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (6), [[Scala]] (2), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), let (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Non-Speech:** (video game beeps) (1), (video game chiptune music) (1)
 > **Exercise Files:** download the (1)
@@ -402,11 +403,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), [[Java]] (2), [[Scala]] (2), api (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** jvm (1), api (1)
 > **Speakers:** - [instructor] (1), - here (1)
 > **Non-Speech:** (arcade game sounds) (2)
-> **Code Keywords:** for. (1)
 
 #### Resistor tolerance
 > [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/resistor-tolerance?u=76281980)
@@ -471,11 +472,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), data (1), [[Scala]] (1), next (1)
 > **Env Vars:** e12 (3)
 > **Analogies:** for example (2)
 > **Non-Speech:** (video game noises) (1), (upbeat video game music) (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Versions:** 1.0 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -531,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), function (1)
+> **Frameworks & Libraries:** [[Scala]] (3), [[Microsoft Word|Word]] (2), [[Rust (Programming Language)|Rust]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1), make (1)
 > **Code Identifiers:** printall (1), print_all (1)
 > **Non-Speech:** (electronic music) (1), (lively electronic music) (1)
@@ -613,8 +614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), data (1)
 > **Code Identifiers:** groupby (3), boxscore (2), eventsbyteam (2), homestats (2), makestatline (1)
-> **Code Keywords:** let (6), this, (1), function (1), match. (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (8-bit music) (2)
@@ -755,7 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1), this. (1)
+> **Frameworks & Libraries:** [[Scala]] (2), [[Simulation]] (1), next (1)
 > **Versions:** 0.5 (4), 3.1452 (1)
 > **UI Navigation:** click on (2)
 > **Non-Speech:** (digital jingle music plays) (2)
@@ -865,7 +866,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), match, (1), match. (1)
 > **Code Identifiers:** fromstring (2), dayofweek (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -994,7 +994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2)
+> **Frameworks & Libraries:** [[Probability]] (7), game (2), next (2)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (gentle 8-bit video game music) (2)
 > **Versions:** 1.0 (1)
@@ -1071,7 +1071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), match. (2), case. (2), enum (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (videogame music) (1)
@@ -1139,7 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), match. (1), pass (1)
+> **Frameworks & Libraries:** data (1), [[Scala]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Definitions:** is an  (2)
 > **Non-Speech:** (videogame music) (2)
 > **CLI Commands:** make (1)
@@ -1212,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), this, (1), yield (1), pass (1)
+> **Frameworks & Libraries:** next (3), game (2), [[Scala]] (2)
 > **Code Identifiers:** ecommerce (1), processorderforuser (1)
 > **Definitions:** is an  (2)
 > **Non-Speech:** (bright video game music) (2)
@@ -1277,7 +1277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), else, (1), let (1), while. (1), this. (1)
+> **Frameworks & Libraries:** game (2), [[Scala]] (1)
 > **Non-Speech:** (playful game music) (1), (system chimes) (1), (upbeat retro video game music) (1)
 > **Env Vars:** sbt (2)
 > **Definitions:** is an  (1)
@@ -1476,7 +1476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (5), else. (1), match. (1), switch (1)
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** drawcountdown (2), drawflying (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** sbt (1)

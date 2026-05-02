@@ -32,7 +32,7 @@ tags:
   - skill/cloud-security
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep-%205%20Trust%20and%20Security%20with%20Google%20Cloud.md)
@@ -51,31 +51,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course introduction
+  - [Course introduction](#course-introduction)
 - [**1. Trust and Security in the Cloud**](#1-trust-and-security-in-the-cloud) (5 videos)
-  - Introduction
-  - Key security terms and concepts
-  - Cloud security components
-  - Cloud security vs. traditional on-premises security
-  - Cybersecurity threats
+  - [Introduction](#introduction)
+  - [Key security terms and concepts](#key-security-terms-and-concepts)
+  - [Cloud security components](#cloud-security-components)
+  - [Cloud security vs. traditional on-premises security](#cloud-security-vs-traditional-on-premises-security)
+  - [Cybersecurity threats](#cybersecurity-threats)
 - [**2. Google’s Trusted Infrastructure**](#2-googles-trusted-infrastructure) (6 videos)
-  - Introduction
-  - Data centers
-  - Secure storage
-  - Identity
-  - Network security
-  - Security operations
+  - [Introduction](#introduction)
+  - [Data centers](#data-centers)
+  - [Secure storage](#secure-storage)
+  - [Identity](#identity)
+  - [Network security](#network-security)
+  - [Security operations](#security-operations)
 - [**3. Google Cloud’s Trust Principles and Compliance**](#3-google-clouds-trust-principles-and-compliance) (4 videos)
-  - Introduction
-  - The Google Cloud trust principles and transparency reports
-  - Data residency and data sovereignty
-  - Industry and regional compliance
+  - [Introduction](#introduction)
+  - [The Google Cloud trust principles and transparency reports](#the-google-cloud-trust-principles-and-transparency-reports)
+  - [Data residency and data sovereignty](#data-residency-and-data-sovereignty)
+  - [Industry and regional compliance](#industry-and-regional-compliance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course summary
+  - [Course summary](#course-summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980)
@@ -104,14 +104,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (8), [[Google Cloud Platform (GCP)|Google cloud]] (3), data (3), cloud (3), business (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Trust and Security in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980)
@@ -136,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), cloud (5), data (2), [[Cybersecurity]] (1), business (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -210,7 +211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (18), cloud (6), data (6), traffic (3), [[Troubleshooting]] (1)
 > **Definitions:** is a  (2), refers to (2)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Env Vars:** crm (1)
@@ -283,8 +284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), data (13), [[Security]] (11), business (1), [[Privacy]] (1)
 > **Analogies:** think of it like (1), such as (1), it's like (1)
-> **Code Keywords:** protected (1), finally, (1)
 > **Env Vars:** cia (2)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -353,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1)
+> **Frameworks & Libraries:** [[Security]] (17), cloud (11), data (8), [[Hardware]] (4), [[Scalability]] (4)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
@@ -428,6 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Security]] (5), [[Cybersecurity]] (2), next (2), career (1)
 > **Analogies:** imagine (2), such as (2), it's like (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
@@ -436,7 +438,7 @@ created: 2026-04-29
 
 ### 2. Google’s Trusted Infrastructure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980)
@@ -455,6 +457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), data (4), [[Hardware]] (2), [[Google]] (2), cloud (2)
 > **Env Vars:** iam (1)
 > **Speakers:** - [narrator] (1)
 
@@ -523,7 +526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default. (1)
+> **Frameworks & Libraries:** data (18), [[Google]] (9), [[Security]] (8), [[Hardware]] (5), [[Scalability]] (2)
 > **Env Vars:** pue (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [presenter] (1)
@@ -587,11 +590,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Representational State Transfer (REST)|Rest]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Algorithms]] (2), cloud (2)
 > **Analogies:** it's like (3), such as (1), imagine (1)
 > **Env Vars:** aes (2), kms (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [presenter] (1)
 
 #### Identity
@@ -653,9 +656,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), management (3), data (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), cloud (2)
 > **Analogies:** think of it as (2), for example (2), such as (1), just like (1), imagine (1)
 > **Env Vars:** iam (4)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -728,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (2), protected (1)
+> **Frameworks & Libraries:** cloud (15), [[Google Cloud Platform (GCP)|Google cloud]] (9), [[Security]] (5), data (1), power (1)
 > **Definitions:** means that (2), stands for (1), is a  (1)
 > **Env Vars:** vpc (2), vpn (1)
 > **CLI Commands:** make (1), terraform (1)
@@ -801,8 +804,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), data (7), [[Google Cloud Platform (GCP)|Google cloud]] (4), cloud (3), management (2)
 > **Analogies:** it's like (2), think of it as (1), imagine (1), just like (1), such as (1)
-> **Code Keywords:** let (1), protected (1)
 > **Env Vars:** scc (1), gdpr (1)
 > **Definitions:** short for (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -810,7 +813,7 @@ created: 2026-04-29
 
 ### 3. Google Cloud’s Trust Principles and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23227177?u=76281980)
@@ -825,6 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), [[Privacy]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### The Google Cloud trust principles and transparency reports
@@ -880,7 +884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), export, (1), delete (1), default. (1), protected (1)
+> **Frameworks & Libraries:** data (14), [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Google]] (4), [[Security]] (3), [[Privacy]] (3)
 > **Speakers:** - [narrator] (1)
 
 #### Data residency and data sovereignty
@@ -928,9 +932,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Google]] (1), traffic (1)
 > **Env Vars:** gdpr (1), iam (1), vpc (1)
 > **Analogies:** for example (2), for instance (1)
-> **Code Keywords:** require (1), let (1)
 > **Definitions:** refers to (2)
 > **Speakers:** - [narrator] (1)
 
@@ -989,9 +993,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Security]] (4), [[Google]] (2), [[Privacy]] (1)
 > **Env Vars:** hipaa (2), iso (2), iec (2), pci (1), dss (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), self (1)
 > **URLs:** [google.com](https://google.com) (2)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** imagine (2)
@@ -1000,7 +1004,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980)
@@ -1023,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (8), [[Google Cloud Platform (GCP)|Google cloud]] (8), cloud (7), [[Google]] (4), data (4)
 > **Env Vars:** iam (1)
 > **Speakers:** - [instructor] (1)
 

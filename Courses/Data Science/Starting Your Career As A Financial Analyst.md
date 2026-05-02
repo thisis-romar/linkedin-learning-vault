@@ -24,7 +24,7 @@ tags:
   - skill/financial-analysis
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Starting%20Your%20Career%20As%20A%20Financial%20Analyst.md)
@@ -43,29 +43,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Starting Your Career as a Financial Analyst**](#1-starting-your-career-as-a-financial-analyst) (19 videos)
-  - Intro
-  - Christian's backstory and living in Australia
-  - The Financial Fox backstory
-  - Key lessons for financial analysts
-  - Finance vs. accounting
-  - What is finance automation?
-  - What tools are good for finance analysts?
-  - Day in the life of a financial analyst
-  - Presentation musts for financial analysts
-  - How important are soft skills for financial analysts?
-  - Should I learn crypto as a financial analyst?
-  - Will quantum computing change everything?
-  - What machine learning skills should I learn for finance?
-  - Benefits of becoming a financial analyst
-  - Skills you need to level up your finance career
-  - What the future holds for financial analysts
-  - What is AutoML?
-  - What is blockchain?
-  - Outro
+  - [Intro](#intro)
+  - [Christian's backstory and living in Australia](#christians-backstory-and-living-in-australia)
+  - [The Financial Fox backstory](#the-financial-fox-backstory)
+  - [Key lessons for financial analysts](#key-lessons-for-financial-analysts)
+  - [Finance vs. accounting](#finance-vs-accounting)
+  - [What is finance automation?](#what-is-finance-automation)
+  - [What tools are good for finance analysts?](#what-tools-are-good-for-finance-analysts)
+  - [Day in the life of a financial analyst](#day-in-the-life-of-a-financial-analyst)
+  - [Presentation musts for financial analysts](#presentation-musts-for-financial-analysts)
+  - [How important are soft skills for financial analysts?](#how-important-are-soft-skills-for-financial-analysts)
+  - [Should I learn crypto as a financial analyst?](#should-i-learn-crypto-as-a-financial-analyst)
+  - [Will quantum computing change everything?](#will-quantum-computing-change-everything)
+  - [What machine learning skills should I learn for finance?](#what-machine-learning-skills-should-i-learn-for-finance)
+  - [Benefits of becoming a financial analyst](#benefits-of-becoming-a-financial-analyst)
+  - [Skills you need to level up your finance career](#skills-you-need-to-level-up-your-finance-career)
+  - [What the future holds for financial analysts](#what-the-future-holds-for-financial-analysts)
+  - [What is AutoML?](#what-is-automl)
+  - [What is blockchain?](#what-is-blockchain)
+  - [Outro](#outro)
 
 ### 1. Starting Your Career as a Financial Analyst
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/intro-14781673?u=76281980)
@@ -146,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Analytics]] (4), business (2), [[Automation]] (2), career (1)
 > **Speakers:** - [christian] (2), - [narrator] (1), - [instructor] (1)
-> **Code Keywords:** from. (1), finally, (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** coming up (1)
@@ -221,7 +221,6 @@ created: 2026-04-29
 >
 > **Speakers:** - [interviewer] (9), - [interviewee] (6)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** covid (1)
 
 #### The Financial Fox backstory
@@ -291,6 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (1)
 > **Speakers:** - yeah (3), - that (1), - oh (1)
 > **Cross-References:** coming up (1)
 
@@ -339,7 +339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), if, (1), new, (1)
+> **Frameworks & Libraries:** data (4), [[Analytics]] (2), teams (1), hr (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (1), it's like (1)
 > **Speakers:** - the (1), - yeah (1)
 
@@ -374,6 +374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (1)
 > **Speakers:** - [host] (2), - [guest] (1)
 > **Definitions:** is a  (1)
 
@@ -400,6 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (3), [[Analytics]] (2), business (1), [[Tableau]] (1), power (1)
 > **Speakers:** - [interviewer] (1), - [guest] (1)
 
 #### What tools are good for finance analysts?
@@ -519,10 +521,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (11), power (9), bi (8), data (5), [[Microsoft Excel|Excel]] (4)
 > **Speakers:** - [interviewer] (4), - [interviewee] (3)
 > **CLI Commands:** python (4)
 > **Tools:** jupyter (3), colab (1)
-> **Code Keywords:** let (1), public (1), switch (1)
 > **UI Navigation:** go to (2), switch to (1)
 > **Env Vars:** sql (2)
 > **Analogies:** similar to (1), just like (1)
@@ -567,10 +569,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), data (1), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Tableau]] (1)
 > **Speakers:** - [man (3)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** from. (1)
 
 #### Presentation musts for financial analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/presentation-musts-for-financial-analysts?u=76281980)
@@ -645,10 +647,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), data (1), teams (1), [[Microsoft]] (1)
 > **Speakers:** - [interviewer] (3), - yeah (2), - and (1), - so (1)
 > **Analogies:** just like (2), picture (1)
 > **Env Vars:** wto (1), covid (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 
 #### How important are soft skills for financial analysts?
@@ -712,9 +714,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Soft Skills]] (2), [[Stakeholder Engagement]] (1), business (1), data (1), [[LinkedIn]] (1)
 > **Speakers:** - [interviewer] (3), - [interviewee] (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** self (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
@@ -759,6 +761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Cryptocurrency]] (1), [[Google]] (1), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - [interviewer] (4), - [interviewee] (4)
 > **Analogies:** for example (1), just like (1), such as (1)
 > **Cross-References:** in the next (1)
@@ -814,8 +817,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (2), [[Algorithms]] (1), [[Security]] (1)
 > **Speakers:** - yeah (2), - and (1), - aaah (1), - so (1)
-> **Code Keywords:** let (3), case, (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** such as (1)
 
@@ -958,8 +961,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Algorithms]] (4), [[Linear Regression]] (3), [[Microsoft Excel|Excel]] (2), next (2)
 > **Speakers:** - [interviewer] (5), - [interviewee] (4), - [interviwer] (1), - [interviwee] (1)
-> **Code Keywords:** let (7), this, (1)
 > **Analogies:** for example (2), it's like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
@@ -1016,7 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1), continue (1)
+> **Frameworks & Libraries:** career (2), [[Analytics]] (2), [[Microsoft Products|Products]] (1), next (1)
 > **Speakers:** - [man (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1078,9 +1081,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (3), next (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - now (1), - [interviewee] (1), - [interviewer] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** rule of thumb (1)
 
@@ -1123,7 +1126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Algorithms]] (2), data (2), [[Cryptocurrency]] (1)
 > **Cross-References:** we talked about (2), coming up (1)
 > **Speakers:** - [interviewer] (2), - [man] (1)
 
@@ -1198,8 +1201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (3), data (3), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Google]] (1)
 > **Speakers:** - yeah (2), - tell (1), - got (1), - which (1), - yes (1)
-> **Code Keywords:** let (1), this, (1), new, (1)
 > **CLI Commands:** aws (1), python (1)
 > **Env Vars:** aws (1), sql (1)
 > **Analogies:** just like (2)
@@ -1245,6 +1248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (6), ai (1), node (1)
 > **Speakers:** - [interviewer] (3), - [respondent] (2)
 > **Analogies:** it's like (2), for example (1)
 > **CLI Commands:** make (1), node (1)
@@ -1261,6 +1265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [narrator] (1)
 
 

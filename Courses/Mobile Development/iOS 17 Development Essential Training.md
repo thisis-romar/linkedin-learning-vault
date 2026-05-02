@@ -28,7 +28,7 @@ tags:
   - topic/mobile-development
   - skill/ios-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/iOS%2017%20Development%20Essential%20Training.md)
@@ -47,53 +47,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Starting a career in iOS development
-  - What you should know before watching this course
+  - [Starting a career in iOS development](#starting-a-career-in-ios-development)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
 - [**1. Xcode Fundamentals**](#1-xcode-fundamentals) (3 videos)
-  - Downloading and installing Xcode
-  - Creating your first iOS app
-  - Key parts of the Xcode interface
+  - [Downloading and installing Xcode](#downloading-and-installing-xcode)
+  - [Creating your first iOS app](#creating-your-first-ios-app)
+  - [Key parts of the Xcode interface](#key-parts-of-the-xcode-interface)
 - [**2. UI Development with Storyboards**](#2-ui-development-with-storyboards) (12 videos)
-  - Choosing between SwiftUI and storyboards
-  - Drag and drop user interface creation with storyboards
-  - Change a label's text at runtime
-  - Handling a button press
-  - Using text gathered from text fields
-  - Showing the software keyboard
-  - Dismissing the software keyboard
-  - Troubleshoot common UI problems
-  - Working with pins
-  - Troubleshooting pins
-  - Challenge: Storyboards
-  - Solution: Storyboards
+  - [Choosing between SwiftUI and storyboards](#choosing-between-swiftui-and-storyboards)
+  - [Drag and drop user interface creation with storyboards](#drag-and-drop-user-interface-creation-with-storyboards)
+  - [Change a label's text at runtime](#change-a-labels-text-at-runtime)
+  - [Handling a button press](#handling-a-button-press)
+  - [Using text gathered from text fields](#using-text-gathered-from-text-fields)
+  - [Showing the software keyboard](#showing-the-software-keyboard)
+  - [Dismissing the software keyboard](#dismissing-the-software-keyboard)
+  - [Troubleshoot common UI problems](#troubleshoot-common-ui-problems)
+  - [Working with pins](#working-with-pins)
+  - [Troubleshooting pins](#troubleshooting-pins)
+  - [Challenge: Storyboards](#challenge-storyboards)
+  - [Solution: Storyboards](#solution-storyboards)
 - [**3. SwiftUI Basics**](#3-swiftui-basics) (6 videos)
-  - SwiftUI fundamentals
-  - Creating horizontal and vertical layouts
-  - Modifying fonts and spacing in SwiftUI
-  - Loading images in SwiftUI
-  - Challenge: SwiftUI
-  - Solution: SwiftUI
+  - [SwiftUI fundamentals](#swiftui-fundamentals)
+  - [Creating horizontal and vertical layouts](#creating-horizontal-and-vertical-layouts)
+  - [Modifying fonts and spacing in SwiftUI](#modifying-fonts-and-spacing-in-swiftui)
+  - [Loading images in SwiftUI](#loading-images-in-swiftui)
+  - [Challenge: SwiftUI](#challenge-swiftui)
+  - [Solution: SwiftUI](#solution-swiftui)
 - [**4. SwiftUI Binding**](#4-swiftui-binding) (6 videos)
-  - Getting text input with SwiftUI
-  - Using a slider in SwiftUI
-  - Making a custom SwiftUI view
-  - Adding custom SwiftUI attributes
-  - Challenge: Build a color picker app
-  - Solution: Build a color picker app
+  - [Getting text input with SwiftUI](#getting-text-input-with-swiftui)
+  - [Using a slider in SwiftUI](#using-a-slider-in-swiftui)
+  - [Making a custom SwiftUI view](#making-a-custom-swiftui-view)
+  - [Adding custom SwiftUI attributes](#adding-custom-swiftui-attributes)
+  - [Challenge: Build a color picker app](#challenge-build-a-color-picker-app)
+  - [Solution: Build a color picker app](#solution-build-a-color-picker-app)
 - [**5. Working with Multiple Screen Views in SwiftUI**](#5-working-with-multiple-screen-views-in-swiftui) (7 videos)
-  - Creating data for a list
-  - Using list views
-  - Creating detail views
-  - Displaying and dismissing popover views
-  - Setting an app icon
-  - Challenge: Lists
-  - Solution: Lists
+  - [Creating data for a list](#creating-data-for-a-list)
+  - [Using list views](#using-list-views)
+  - [Creating detail views](#creating-detail-views)
+  - [Displaying and dismissing popover views](#displaying-and-dismissing-popover-views)
+  - [Setting an app icon](#setting-an-app-icon)
+  - [Challenge: Lists](#challenge-lists)
+  - [Solution: Lists](#solution-lists)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting a career in iOS development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/starting-a-career-in-ios-development?u=76281980)
@@ -110,8 +110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[iOS Development]] (1)
 > **Code Identifiers:** ios (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### What you should know before watching this course
@@ -129,7 +129,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Code Identifiers:** macos (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -137,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Xcode Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Downloading and installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/downloading-and-installing-xcode?u=76281980)
@@ -156,10 +155,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (3), application (1)
 > **Prerequisites:** install (3)
 > **Code Identifiers:** ios (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -212,9 +211,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (4), hit (3), product (3), next (2), [[Git]] (2)
 > **Code Identifiers:** ios (5)
 > **CLI Commands:** make (2), git (2)
-> **Code Keywords:** interface (3), new, (1)
 > **Exercise Files:** exercise files (2), template (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Best Practices:** make sure to (1)
@@ -272,7 +271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Debugging]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (1)
@@ -284,7 +283,7 @@ created: 2026-04-29
 
 ### 2. UI Development with Storyboards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing between SwiftUI and storyboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980)
@@ -333,8 +332,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (3), application (2), [[Swift (Programming Language)|Swift]] (1), [[iOS Development]] (1)
 > **Code Identifiers:** ios (6)
-> **Code Keywords:** interface (3)
 > **Definitions:** in other words (2)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
@@ -448,7 +447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (4)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), hit (3), application (1), product (1), next (1)
 > **UI Navigation:** in the toolbar (2), go to (1), select the (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** ios (2)
@@ -524,9 +523,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (4), hit (3), application (1)
 > **UI Navigation:** right-click (3), go to (2), in the toolbar (1)
 > **Definitions:** short for (1), refers to (1), is a  (1), is called (1)
-> **Code Keywords:** this, (1), interface (1), let (1)
 > **Code Identifiers:** viewdidload (3)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
@@ -585,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (1), default, (1)
+> **Frameworks & Libraries:** hit (2)
 > **UI Navigation:** dropdown (2), click on (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -704,7 +703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (2), delete (1)
+> **Frameworks & Libraries:** hit (4), data (3), next (2), [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** in the toolbar (1), right-click (1), go to (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -763,7 +762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), default. (1)
+> **Frameworks & Libraries:** [[Xcode]] (2), application (1)
 > **UI Navigation:** toggle (2), click on (1), go to (1)
 > **Code Identifiers:** ios (2)
 > **CLI Commands:** make (1)
@@ -826,8 +825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), feature (1), hit (1)
 > **Code Identifiers:** resignfirstresponder (5), buttonwaspressed (2), textfield (2), ios (2), touchesbegan (2)
-> **Code Keywords:** let (2), return. (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is an  (1)
@@ -952,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), case, (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), application (1), [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** ios (2)
@@ -1036,7 +1035,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **UI Navigation:** click on (3), go to (1), select the (1)
-> **Code Keywords:** let (4)
 > **Code Identifiers:** iphone (4)
 > **Definitions:** refers to (2)
 > **Cross-References:** go back to (1)
@@ -1138,8 +1136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (7)
 > **UI Navigation:** select the (4), click on (2), go to (1)
-> **Code Keywords:** delete (3), let (2), return, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1167,6 +1165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Storyboards
@@ -1260,7 +1259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), this, (1), case, (1), return. (1)
+> **Frameworks & Libraries:** application (1), hit (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** viewdidload (1)
 > **UI Navigation:** go to (1)
@@ -1270,7 +1269,7 @@ created: 2026-04-29
 
 ### 3. SwiftUI Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SwiftUI fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/swiftui-fundamentals?u=76281980)
@@ -1333,7 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3), else. (1)
+> **Frameworks & Libraries:** hit (3), next (2), [[Swift (Programming Language)|Swift]] (1), [[Xcode]] (1)
 > **Definitions:** is called (2), short for (1), is an  (1), is a  (1)
 > **Exercise Files:** exercise files (2)
 > **Analogies:** just like (2)
@@ -1404,7 +1403,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -1502,8 +1500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), application (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** foregroundstyle (8), imagescale (5), largetitle (2), fontweight (1), ios (1)
-> **Code Keywords:** let (3), delete (1), return, (1), from, (1), type, (1)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)
 > **Analogies:** just like (1), for example (1)
 > **Prerequisites:** set up (1)
@@ -1584,7 +1582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), import, (1), type ( (1), pass (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), hit (1), next (1)
 > **Code Identifiers:** scaledtofit (2), clipshape (2), buttonborder (2), containerrelative (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2)
@@ -1630,9 +1628,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **Exercise Files:** download the (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **URLs:** [apple.com](https://apple.com) (1)
 > **Cross-References:** we talked about (1)
 > **Prerequisites:** install (1)
@@ -1660,7 +1658,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Analogies:** just like (2), similar to (1)
-> **Code Keywords:** this, (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1668,7 +1665,7 @@ created: 2026-04-29
 
 ### 4. SwiftUI Binding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting text input with SwiftUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980)
@@ -1763,7 +1760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), struct (1), var (1), pass (1)
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), [[Swift (Programming Language)|Swift]] (1), hit (1)
 > **Analogies:** just like (2), for example (1)
 > **UI Navigation:** in the toolbar (1), click on (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1876,7 +1873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), var (1), type . (1)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Versions:** 0.0 (2), 1.0 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1975,7 +1972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (3), new, (1), this. (1), var (1)
+> **Frameworks & Libraries:** hit (3), next (1), [[Microsoft Word|Word]] (1), data (1)
 > **Code Identifiers:** colorvalue (4), ios (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** find (1), make (1)
@@ -2113,7 +2110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4), type . (2), else, (1), default. (1)
+> **Frameworks & Libraries:** next (2), hit (1)
 > **UI Navigation:** go to (3), click on (1), scroll down (1)
 > **Analogies:** just like (2), picture (1)
 > **Code Identifiers:** colorvalue (1), foregroundstyle (1)
@@ -2150,8 +2147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** we talked about (5)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Build a color picker app
@@ -2173,13 +2170,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
+> **Frameworks & Libraries:** power (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Working with Multiple Screen Views in SwiftUI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating data for a list
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980)
@@ -2284,7 +2281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (2), static (2), class, (1), class. (1)
+> **Frameworks & Libraries:** data (7), next (3), application (2), hit (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (1)
@@ -2394,7 +2391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), delete (1), return, (1), pass (1), implements (1)
+> **Frameworks & Libraries:** data (7), next (1)
 > **Code Identifiers:** ios (1), navigationtitle (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (2)
@@ -2455,7 +2452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type . (1), self (1), return, (1), pass (1)
+> **Frameworks & Libraries:** application (1), data (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** ios (1), navigationtitle (1), navigationdestination (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Prerequisites:** set up (2)
@@ -2536,7 +2533,6 @@ created: 2026-04-29
 >
 > **Code Identifiers:** ispresenting (4), ispresented (2)
 > **UI Navigation:** click on (5), toggle (1)
-> **Code Keywords:** type . (2), var (1), return. (1), pass (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2587,6 +2583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), hit (2)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** ios (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -2622,8 +2619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Prerequisites:** you'll need (4)
-> **Code Keywords:** let (1), struct (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2662,7 +2659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type . (1)
+> **Frameworks & Libraries:** hit (1), next (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** you'll need (1)
@@ -2671,7 +2668,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980)
@@ -2698,6 +2695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[iOS Development]] (1), [[Test-Driven Development]] (1), [[Security]] (1), next (1)
 > **Code Identifiers:** ios (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

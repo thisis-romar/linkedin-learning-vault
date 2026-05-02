@@ -31,7 +31,7 @@ tags:
   - skill/virtual-collaboration
   - skill/microsoft-products
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Collaboration-%20SharePoint%2C%20Teams%2C%20Groups%2C%20and%20Yammer.md)
@@ -50,34 +50,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Collaborate with Teams, SharePoint, Microsoft 365 Groups, and Yammer
-  - What you need to know
+  - [Collaborate with Teams, SharePoint, Microsoft 365 Groups, and Yammer](#collaborate-with-teams-sharepoint-microsoft-365-groups-and-yammer)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Getting Started with Microsoft Collaboration**](#1-getting-started-with-microsoft-collaboration) (5 videos)
-  - How collaboration begins
-  - Microsoft Teams for collaboration
-  - SharePoint for collaboration
-  - Microsoft 365 Groups for collaboration
-  - Yammer for collaboration
+  - [How collaboration begins](#how-collaboration-begins)
+  - [Microsoft Teams for collaboration](#microsoft-teams-for-collaboration)
+  - [SharePoint for collaboration](#sharepoint-for-collaboration)
+  - [Microsoft 365 Groups for collaboration](#microsoft-365-groups-for-collaboration)
+  - [Yammer for collaboration](#yammer-for-collaboration)
 - [**2. Creating Spaces for Collaboration**](#2-creating-spaces-for-collaboration) (6 videos)
-  - Create a team and a channel
-  - Create a team from an existing group
-  - Create a SharePoint team site
-  - Create a Microsoft 365 group
-  - Create a Yammer community
-  - Collaborating with Microsoft tools
+  - [Create a team and a channel](#create-a-team-and-a-channel)
+  - [Create a team from an existing group](#create-a-team-from-an-existing-group)
+  - [Create a SharePoint team site](#create-a-sharepoint-team-site)
+  - [Create a Microsoft 365 group](#create-a-microsoft-365-group)
+  - [Create a Yammer community](#create-a-yammer-community)
+  - [Collaborating with Microsoft tools](#collaborating-with-microsoft-tools)
 - [**3. Putting It Together in Teams**](#3-putting-it-together-in-teams) (6 videos)
-  - Teams as your collaboration hub
-  - Add cloud storage to Teams
-  - Make a file its own tab in Teams
-  - Display a SharePoint page in Teams
-  - Display a SharePoint list in Teams
-  - Display a Yammer community in Teams
+  - [Teams as your collaboration hub](#teams-as-your-collaboration-hub)
+  - [Add cloud storage to Teams](#add-cloud-storage-to-teams)
+  - [Make a file its own tab in Teams](#make-a-file-its-own-tab-in-teams)
+  - [Display a SharePoint page in Teams](#display-a-sharepoint-page-in-teams)
+  - [Display a SharePoint list in Teams](#display-a-sharepoint-list-in-teams)
+  - [Display a Yammer community in Teams](#display-a-yammer-community-in-teams)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaborate with Teams, SharePoint, Microsoft 365 Groups, and Yammer
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborate-with-teams-sharepoint-microsoft-365-groups-and-yammer?u=76281980)
@@ -96,6 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (2), [[Microsoft Teams]] (2), [[Microsoft 365]] (2), [[Microsoft]] (1), teams (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [gini] (1)
 
@@ -138,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft 365]] (4), [[Microsoft Teams]] (3), [[Microsoft]] (1), [[Microsoft Office|Office]] (1)
 > **Prerequisites:** you'll need (3), you need to have (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -145,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Microsoft Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How collaboration begins
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980)
@@ -186,6 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft]] (2), [[SharePoint]] (2), teams (1), [[Microsoft Outlook]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -265,7 +268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (1)
+> **Frameworks & Libraries:** teams (23), [[Microsoft Teams]] (6), power (6), [[Microsoft]] (3), feature (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -328,6 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (24), data (5), [[Search]] (4), [[Security]] (4), power (3)
 > **Definitions:** is a  (3), in other words (1), refers to (1), means that (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -405,7 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), this. (1), public (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (14), [[SharePoint]] (7), [[Microsoft Outlook|Outlook]] (4), teams (3), [[Microsoft Office|Office]] (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -453,8 +457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), teams (3), web (3), [[Search]] (2), [[Microsoft 365]] (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** private (1)
 > **URLs:** [yammer.com](https://yammer.com) (1)
 > **Tools:** firefox (1)
 > **UI Navigation:** go to (1)
@@ -464,7 +468,7 @@ created: 2026-04-29
 
 ### 2. Creating Spaces for Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a team and a channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980)
@@ -587,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), this. (2), self (2), let (1), public (1)
+> **Frameworks & Libraries:** hr (14), teams (6), [[Microsoft 365]] (3), next (2), [[Microsoft Teams]] (2)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (2)
@@ -658,9 +662,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (14), teams (7), [[Microsoft Teams]] (4), [[SharePoint]] (4)
 > **CLI Commands:** make (5)
 > **Warnings:** note that (2)
-> **Code Keywords:** continue (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -737,7 +741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), private (1)
+> **Frameworks & Libraries:** [[SharePoint]] (10), management (7), [[Microsoft 365]] (5), teams (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [sharepoint.com](https://sharepoint.com) (2)
 > **UI Navigation:** go to (1)
@@ -815,7 +819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), case, (1), public (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft Outlook|Outlook]] (3), [[SharePoint]] (1), web (1), [[Privacy]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -919,7 +923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), else. (1), this. (1), continue (1)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (3), product (1), [[Microsoft]] (1), [[Search]] (1), hr (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (1), best practice (1)
@@ -1026,7 +1030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1), private (1)
+> **Frameworks & Libraries:** [[SharePoint]] (15), teams (11), [[Microsoft 365]] (10), business (3), next (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** set up (2)
 > **Env Vars:** ceo (1)
@@ -1038,7 +1042,7 @@ created: 2026-04-29
 
 ### 3. Putting It Together in Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Teams as your collaboration hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980)
@@ -1085,6 +1089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (14), [[SharePoint]] (5), cloud (4), [[Microsoft Teams]] (2), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1162,11 +1167,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (11), teams (5), cloud (3), [[Microsoft 365]] (2), next (2)
 > **Env Vars:** url (3)
 > **UI Navigation:** go to (1), select the (1)
 > **Analogies:** it's like (1), just like (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1217,9 +1222,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** pdf (2)
-> **Code Keywords:** case, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1320,7 +1325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), this, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (13), teams (5), [[Microsoft Teams]] (3), [[Microsoft 365]] (2), power (2)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** note that (2)
@@ -1377,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (7), teams (4), feature (1), [[Microsoft]] (1), application (1)
 > **Env Vars:** url (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** checkbox (1)
@@ -1469,7 +1474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new. (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), teams (1), [[Diversity and Inclusion]] (1)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** find (1)
@@ -1481,7 +1486,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980)
@@ -1520,7 +1525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (6), [[LinkedIn]] (3), [[SharePoint]] (3), teams (3), power (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)

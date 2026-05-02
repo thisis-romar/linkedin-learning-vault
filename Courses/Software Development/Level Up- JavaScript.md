@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Level%20Up-%20JavaScript.md)
@@ -48,28 +48,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Put your JavaScript skills to the test
-  - Using GitHub Codespaces with this course
+  - [Put your JavaScript skills to the test](#put-your-javascript-skills-to-the-test)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Challenges**](#1-challenges) (15 videos)
-  - Available books
-  - Movie object
-  - Vegetarian dinner
-  - Technical books
-  - Private object
-  - Ticking time
-  - Classroom attendance
-  - Dynamic colors
-  - Coffee calculations
-  - Food truck
-  - Train generator
-  - String permutation
-  - Five friends
-  - URLify
-  - Password strength
+  - [Available books](#available-books)
+  - [Movie object](#movie-object)
+  - [Vegetarian dinner](#vegetarian-dinner)
+  - [Technical books](#technical-books)
+  - [Private object](#private-object)
+  - [Ticking time](#ticking-time)
+  - [Classroom attendance](#classroom-attendance)
+  - [Dynamic colors](#dynamic-colors)
+  - [Coffee calculations](#coffee-calculations)
+  - [Food truck](#food-truck)
+  - [Train generator](#train-generator)
+  - [String permutation](#string-permutation)
+  - [Five friends](#five-friends)
+  - [URLify](#urlify)
+  - [Password strength](#password-strength)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Put your JavaScript skills to the test
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980)
@@ -94,7 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), data (1)
 > **Speakers:** - whether (1)
 > **Non-Speech:** (tinny upbeat music) (1)
 
@@ -243,19 +243,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (10), [[Codespaces]] (10), [[HTML]] (9), hit (5), [[JavaScript]] (3)
 > **Tools:** github (10), terminal (4), visual studio (2), vs code (1)
 > **Env Vars:** html (9), dom (1)
 > **CLI Commands:** make (2), node (2), cd (1)
 > **UI Navigation:** click on (2), open the (2), dropdown (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (1), delete (1)
 > **Prerequisites:** getting started (2)
 > **Exercise Files:** github repo (1)
 
 
 ### 1. Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Available books
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980)
@@ -374,7 +374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (21), let (4), class, (3), class. (3)
+> **Frameworks & Libraries:** [[JavaScript]] (5), next (2), [[Programming]] (1), [[Java]] (1), application (1)
 > **Code Identifiers:** getavailability (3), numcopies (2), numcopiessold (1), numcopiesstocked (1)
 > **Non-Speech:** (electronic beeping) (2), (cheery chiptune music) (1), (cheerful beeping) (1)
 > **CLI Commands:** make (1), cd (1), node (1)
@@ -472,7 +472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (22), let (2), class. (2), private (1), finally, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), game (3), [[Programming]] (2), next (1), [[Java]] (1)
 > **Exercise Files:** template (4)
 > **Non-Speech:** (video game music) (2), (video game sound effect) (1)
 > **Tools:** terminal (2)
@@ -531,7 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), pass (2), class. (1), finally, (1)
+> **Frameworks & Libraries:** data (4), dom (1), next (1), [[JavaScript]] (1)
 > **Non-Speech:** (electronic music) (5)
 > **Code Identifiers:** createelement (1)
 > **Env Vars:** dom (1)
@@ -590,7 +590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (2), function (2), class, (2), super (2)
+> **Frameworks & Libraries:** [[Programming]] (2), data (1), [[JavaScript]] (1)
 > **Code Identifiers:** getedition (2), numcopies (2)
 > **Env Vars:** isbn (4)
 > **Exercise Files:** template (3)
@@ -636,7 +636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), let (2), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), game (1), data (1), [[Programming]] (1)
 > **Non-Speech:** (lively game music) (1), (lively music) (1), (beeping music) (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
@@ -688,7 +688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), pass (2), let (2)
+> **Frameworks & Libraries:** dom (3), [[JavaScript]] (2), data (2), [[Programming]] (2), [[HTML]] (1)
 > **Env Vars:** dom (3), html (1)
 > **Non-Speech:** (electronic beeps) (3), (video game music) (1)
 > **File Paths:** index.html (1)
@@ -759,7 +759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), finally, (1), abstract (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (1)
 > **Code Identifiers:** getstudents (3), hasteachingassistant (2)
 > **Definitions:** is an  (2), is a  (1)
 > **Non-Speech:** (bright music) (2)
@@ -847,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (4), pass (4)
+> **Frameworks & Libraries:** game (2)
 > **Code Identifiers:** changecolor (4), eventlisteners (4)
 > **Non-Speech:** (video game music) (2)
 > **Analogies:** for example (1)
@@ -914,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (3), pass (1), super (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Exercise Files:** template (5)
 > **Versions:** 1.25 (2), 23.75 (1)
 > **Code Identifiers:** totalcoffees (1), numcoffees (1)
@@ -974,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), finally, (2)
+> **Frameworks & Libraries:** node (2), data (1), dom (1), [[HTML]] (1), game (1)
 > **CLI Commands:** node (2)
 > **Env Vars:** html (1)
 > **Definitions:** is an  (1)
@@ -1052,7 +1052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), yield (4), let (3), async (1), await (1)
+> **Frameworks & Libraries:** next (10), node (2), [[Programming]] (1), [[JavaScript]] (1), hit (1)
 > **Code Identifiers:** nyctrainline (1), queryselector (1), nextstopbutton (1)
 > **CLI Commands:** node (2)
 > **Non-Speech:** (gaming music) (2)
@@ -1117,7 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), this. (1), case. (1), case, (1)
+> **Frameworks & Libraries:** game (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **Non-Speech:** (lively music) (2), (lively game music) (1)
 > **CLI Commands:** make (1)
 > **Documentation:** stack overflow (1)
@@ -1205,7 +1205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (4), async (3), await (3), finally, (2)
+> **Frameworks & Libraries:** api (12), data (6), [[Fetch]] (5), [[JSON]] (3), game (2)
 > **Env Vars:** api (11), json (3), url (1), dom (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Analogies:** picture (2)
@@ -1295,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this. (3), let (2)
+> **Frameworks & Libraries:** data (2), [[JavaScript]] (1), [[Microsoft Word|Word]] (1), next (1), [[Programming]] (1)
 > **Non-Speech:** (rhythmic gaming music) (2), (beeping sounding) (1)
 > **Code Identifiers:** tolowercase (1), replaceall (1)
 > **Env Vars:** url (2)
@@ -1387,7 +1387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), match. (1), finally, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **Tools:** terminal (1)
 > **Speakers:** - regular (1)

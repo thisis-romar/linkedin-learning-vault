@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/neo4j
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Graph%20Databases-%20Neo4j%20for%20Complex%20Data%20Relationships.md)
@@ -48,37 +48,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Course introduction and goals
-  - What you should know
-  - Real-world graph database use cases
+  - [Course introduction and goals](#course-introduction-and-goals)
+  - [What you should know](#what-you-should-know)
+  - [Real-world graph database use cases](#real-world-graph-database-use-cases)
 - [**1. Neo4j Fundamentals**](#1-neo4j-fundamentals) (5 videos)
-  - Neo4j fundamental terminology
-  - CRUD and ACID properties of graph databases
-  - Graph database vs. relational database design
-  - Neo4j query language explained
-  - Neo4j deployment and scaling explained
+  - [Neo4j fundamental terminology](#neo4j-fundamental-terminology)
+  - [CRUD and ACID properties of graph databases](#crud-and-acid-properties-of-graph-databases)
+  - [Graph database vs. relational database design](#graph-database-vs-relational-database-design)
+  - [Neo4j query language explained](#neo4j-query-language-explained)
+  - [Neo4j deployment and scaling explained](#neo4j-deployment-and-scaling-explained)
 - [**2. Environment Setup**](#2-environment-setup) (4 videos)
-  - How to install Neo4j
-  - Neo4j user interface and CLI explained
-  - How to use Python to work with Neo4j
-  - Neo4j security best practices
+  - [How to install Neo4j](#how-to-install-neo4j)
+  - [Neo4j user interface and CLI explained](#neo4j-user-interface-and-cli-explained)
+  - [How to use Python to work with Neo4j](#how-to-use-python-to-work-with-neo4j)
+  - [Neo4j security best practices](#neo4j-security-best-practices)
 - [**3. Writing Data**](#3-writing-data) (6 videos)
-  - The data set explained and goals
-  - Modeling data as a relational database
-  - Modeling the Neo4j database
-  - How to bulk import CSV data into Neo4j
-  - How to bulk import relational CSV data into Neo4j
-  - How to write transactions to Neo4j with Python
+  - [The data set explained and goals](#the-data-set-explained-and-goals)
+  - [Modeling data as a relational database](#modeling-data-as-a-relational-database)
+  - [Modeling the Neo4j database](#modeling-the-neo4j-database)
+  - [How to bulk import CSV data into Neo4j](#how-to-bulk-import-csv-data-into-neo4j)
+  - [How to bulk import relational CSV data into Neo4j](#how-to-bulk-import-relational-csv-data-into-neo4j)
+  - [How to write transactions to Neo4j with Python](#how-to-write-transactions-to-neo4j-with-python)
 - [**4. Query Data**](#4-query-data) (3 videos)
-  - How to explore Neo4j data with the user interface
-  - How to query Neo4j database with Python
-  - Neo4j query optimization
+  - [How to explore Neo4j data with the user interface](#how-to-explore-neo4j-data-with-the-user-interface)
+  - [How to query Neo4j database with Python](#how-to-query-neo4j-database-with-python)
+  - [Neo4j query optimization](#neo4j-query-optimization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1)
+> **Frameworks & Libraries:** data (8), [[Neo4j]] (2), [[Analytics]] (1), [[NoSQL]] (1), [[Databases]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Code Identifiers:** nosql (1)
 > **Speakers:** - [instructor] (1)
@@ -141,9 +141,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (4), data (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (2)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
@@ -270,9 +270,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Databases]] (3), business (2), product (1), management (1)
 > **CLI Commands:** find (5), cat (1), make (1)
 > **Analogies:** for instance (4)
-> **Code Keywords:** let (3)
 > **Ports:** :00 (1), :15 (1), :30 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -280,7 +280,7 @@ created: 2026-04-29
 
 ### 1. Neo4j Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Neo4j fundamental terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980)
@@ -349,9 +349,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), node (9), database (6), [[Neo4j]] (5), [[Databases]] (3)
 > **CLI Commands:** node (9), find (3), make (1)
 > **Versions:** node 1 (4), node 2 (4)
-> **Code Keywords:** this, (3), let (2), interface (1), type. (1)
 > **Code Identifiers:** ecommerce (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), picture (1)
@@ -428,8 +428,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), data (10), [[NoSQL]] (2), [[Databases]] (2), [[Relational Databases]] (1)
 > **Env Vars:** crud (3), acid (3)
-> **Code Keywords:** delete (2), pass (2), let (1)
 > **Definitions:** is a  (2), means that (2)
 > **Speakers:** - [narrator] (1)
 
@@ -508,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), type. (1), this. (1)
+> **Frameworks & Libraries:** data (4), node (4), [[Neo4j]] (3), [[Relational Databases]] (2), database (1)
 > **Code Identifiers:** visitedpage (3), visitedby (2), user_first (1), user_last (1), user_id (1)
 > **CLI Commands:** node (4)
 > **Analogies:** for instance (4)
@@ -612,8 +612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), database (2), [[Relational Databases]] (2), data (1), [[SQL]] (1)
 > **CLI Commands:** node (8), make (3), python (1)
-> **Code Keywords:** this. (3), let (2), match, (1), return. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** visitedpage (1)
 > **Env Vars:** sql (1)
@@ -686,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (1)
+> **Frameworks & Libraries:** database (8), [[Neo4j]] (5), cloud (1), [[NoSQL]] (1), [[Databases]] (1)
 > **Env Vars:** ram (1), rdb (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
@@ -695,7 +695,7 @@ created: 2026-04-29
 
 ### 2. Environment Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to install Neo4j
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980)
@@ -826,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (6), let (5), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Neo4j]] (5), database (5), next (2), [[Google]] (1), cloud (1)
 > **Code Identifiers:** contact_tracing (3)
 > **UI Navigation:** go to (1), in the menu (1), scroll down (1)
 > **Prerequisites:** set up (3)
@@ -912,7 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (4), this. (2), interface (1), super (1)
+> **Frameworks & Libraries:** business (8), [[Neo4j]] (3), data (3), database (3), [[Zoom]] (1)
 > **Env Vars:** visited (4), islocated (1)
 > **Code Identifiers:** business_address (1), deviceid (1), user_name (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -995,9 +995,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), database (3), [[Python (Programming Language)|Python]] (3), data (2), [[Powershell]] (2)
 > **Tools:** anaconda (3), vs code (2), powershell (2), command prompt (2), terminal (1)
 > **CLI Commands:** find (4), python (3), pip (2), make (1)
-> **Code Keywords:** this. (4), this, (1), continue (1)
 > **Env Vars:** pip (2), csv (1), cmd (1)
 > **UI Navigation:** go to (1), scroll down (1), scroll up (1), dropdown (1)
 > **Prerequisites:** install (3)
@@ -1097,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), this. (1), from. (1), let (1), self (1)
+> **Frameworks & Libraries:** database (12), data (10), [[Security]] (6), web (6), [[Tokens]] (3)
 > **CLI Commands:** python (2), make (1)
 > **Prerequisites:** set up (3)
 > **Cross-References:** we discussed (1)
@@ -1106,7 +1106,7 @@ created: 2026-04-29
 
 ### 3. Writing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The data set explained and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/the-data-set-explained-and-goals?u=76281980)
@@ -1147,7 +1147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (5), business (4), database (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** deviceid (1)
@@ -1246,7 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (4), this, (1)
+> **Frameworks & Libraries:** business (10), database (6), [[Neo4j]] (3), data (2), [[Relational Databases]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** zip (1)
@@ -1323,7 +1323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), type. (1), this, (1), continue (1)
+> **Frameworks & Libraries:** business (10), database (9), [[Neo4j]] (4), node (4), data (1)
 > **CLI Commands:** node (4), make (2)
 > **Code Identifiers:** user_name (1), deviceid (1), business_id (1), business_name (1), business_address (1)
 > **Env Vars:** visited (4), islocated (2)
@@ -1430,8 +1430,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (15), data (11), database (6), [[JSON]] (6), node (6)
 > **Code Identifiers:** business_id (7), deviceid (3), business_name (2), scan_timestamp (2), read_csv (1)
-> **Code Keywords:** let (5), this, (5), this. (2), import, (1), function (1)
 > **Env Vars:** json (6), csv (3), zip (3)
 > **CLI Commands:** node (6)
 > **Definitions:** is a  (4)
@@ -1562,7 +1562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), this. (2), continue (2), new. (1)
+> **Frameworks & Libraries:** business (10), node (4), data (3), next (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (4), python (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** previous video (1), in the next (1)
@@ -1703,7 +1703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (4), raise (3), import, (1), this, (1)
+> **Frameworks & Libraries:** node (8), business (8), database (7), [[Neo4j]] (2), data (2)
 > **CLI Commands:** node (8)
 > **Env Vars:** blic (1), csv (1)
 > **Code Identifiers:** scan_timestamp (1)
@@ -1714,7 +1714,7 @@ created: 2026-04-29
 
 ### 4. Query Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to explore Neo4j data with the user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980)
@@ -1805,7 +1805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (3), this. (2), case, (1), match, (1)
+> **Frameworks & Libraries:** business (12), data (8), [[Neo4j]] (3), node (2), database (2)
 > **CLI Commands:** node (2), find (1), python (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** click on (1)
@@ -1937,7 +1937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (4), interface (1), return. (1), else. (1)
+> **Frameworks & Libraries:** business (11), data (7), [[Python (Programming Language)|Python]] (2), next (2), database (1)
 > **CLI Commands:** find (4), python (2)
 > **Definitions:** is called (1), is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -2043,7 +2043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (3), this, (2), type. (1), match, (1)
+> **Frameworks & Libraries:** node (8), database (5), data (4), hit (3), next (1)
 > **CLI Commands:** node (8), make (2), find (1)
 > **Env Vars:** match (6), where (1)
 > **UI Navigation:** go to (2)
@@ -2054,7 +2054,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980)
@@ -2093,6 +2093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (2), [[LinkedIn]] (2), [[Data Engineering]] (2), database (1), next (1)
 > **CLI Commands:** find (3)
 > **URLs:** [learndataengineering.com](https://learndataengineering.com) (1)
 > **Definitions:** is a  (1)

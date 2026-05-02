@@ -17,7 +17,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessibility%20For%20Managers%20And%20Non%20Designers.md)
@@ -36,45 +36,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Accessibility for managers and non-designers
-  - What is accessibility and why does it matter?
-  - How non-developers impact accessibility
-  - Designing with an inclusive orientation
-  - Leveraging value from accessibility
+  - [Accessibility for managers and non-designers](#accessibility-for-managers-and-non-designers)
+  - [What is accessibility and why does it matter?](#what-is-accessibility-and-why-does-it-matter)
+  - [How non-developers impact accessibility](#how-non-developers-impact-accessibility)
+  - [Designing with an inclusive orientation](#designing-with-an-inclusive-orientation)
+  - [Leveraging value from accessibility](#leveraging-value-from-accessibility)
 - [**1. Breaking Down Accessibility**](#1-breaking-down-accessibility) (5 videos)
-  - Designing for accessible visual perception
-  - Designing for audio accessibility
-  - Aligning design for operative mobility
-  - Designing with understandable and robust cognition
-  - Avoiding triggering medical issues
+  - [Designing for accessible visual perception](#designing-for-accessible-visual-perception)
+  - [Designing for audio accessibility](#designing-for-audio-accessibility)
+  - [Aligning design for operative mobility](#aligning-design-for-operative-mobility)
+  - [Designing with understandable and robust cognition](#designing-with-understandable-and-robust-cognition)
+  - [Avoiding triggering medical issues](#avoiding-triggering-medical-issues)
 - [**2. Developing Accessible Products**](#2-developing-accessible-products) (7 videos)
-  - Development standards for accessible products
-  - Accessible forms
-  - Image accessibility
-  - Audio accessibilty
-  - Content hierarchy and structure
-  - Semantic markup
-  - The role of ARIA
+  - [Development standards for accessible products](#development-standards-for-accessible-products)
+  - [Accessible forms](#accessible-forms)
+  - [Image accessibility](#image-accessibility)
+  - [Audio accessibilty](#audio-accessibilty)
+  - [Content hierarchy and structure](#content-hierarchy-and-structure)
+  - [Semantic markup](#semantic-markup)
+  - [The role of ARIA](#the-role-of-aria)
 - [**3. Testing for Accessibility**](#3-testing-for-accessibility) (3 videos)
-  - Testing with impacted users
-  - Nontechnical testing resources
-  - Common-sense testing with an inclusive mindset
+  - [Testing with impacted users](#testing-with-impacted-users)
+  - [Nontechnical testing resources](#nontechnical-testing-resources)
+  - [Common-sense testing with an inclusive mindset](#common-sense-testing-with-an-inclusive-mindset)
 - [**4. Leading Designers and Developers**](#4-leading-designers-and-developers) (5 videos)
-  - Creating an inclusive-conscious environment
-  - Informed orientation and policies
-  - Unleashing accessible design and development
-  - Developing relationships with impacted user groups
-  - Iterative testing
+  - [Creating an inclusive-conscious environment](#creating-an-inclusive-conscious-environment)
+  - [Informed orientation and policies](#informed-orientation-and-policies)
+  - [Unleashing accessible design and development](#unleashing-accessible-design-and-development)
+  - [Developing relationships with impacted user groups](#developing-relationships-with-impacted-user-groups)
+  - [Iterative testing](#iterative-testing)
 - [**5. Leveraging Accessibility**](#5-leveraging-accessibility) (3 videos)
-  - Making a11y features visible to all users
-  - Promoting products as accessible
-  - Promoting accessibility policies
+  - [Making a11y features visible to all users](#making-a11y-features-visible-to-all-users)
+  - [Promoting products as accessible](#promoting-products-as-accessible)
+  - [Promoting accessibility policies](#promoting-accessibility-policies)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility for managers and non-designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980)
@@ -97,7 +97,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Accessible Design]] (1), [[Engineering]] (1)
 > **Env Vars:** nyu (1)
 > **Speakers:** - [david] (1)
 
@@ -214,8 +214,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (6), [[Microsoft Products|Products]] (6), web (4), [[Web Accessibility]] (2)
 > **CLI Commands:** make (9)
-> **Code Keywords:** self (1), let (1), else. (1), require (1), raise (1)
 > **Definitions:** is a  (3), stands for (2)
 > **Env Vars:** wai (2), pour (1), wcag (1)
 > **Analogies:** for example (3)
@@ -261,6 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (5), product (3), [[Microsoft Products|Products]] (2), [[Forms]] (1), data (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -306,8 +307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), product (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nyu (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -367,15 +368,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (9), [[User Experience (UX)|User experience]] (2), product (2)
 > **Analogies:** for example (5)
-> **Code Keywords:** let (4)
 > **Env Vars:** adhd (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Breaking Down Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for accessible visual perception
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-accessible-visual-perception?u=76281980)
@@ -426,7 +427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), include. (1), from, (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (3), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [webaim.org](https://webaim.org) (1)
 > **Definitions:** short for (1)
@@ -498,7 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), case. (1), let (1), finally, (1), public (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (3), [[Statistics]] (1)
 > **CLI Commands:** make (5)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Speakers:** - [lecturer] (1)
@@ -580,8 +581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (2), [[Forms]] (2), [[Statistics]] (1), web (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** require (2), public (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **URLs:** [ideum.com](https://ideum.com) (1)
@@ -686,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), from, (1), interface (1)
+> **Frameworks & Libraries:** express (1), [[Forms]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), ux (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
@@ -736,8 +737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (1), web (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1), product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for, (1)
 > **Versions:** 2.7 (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
@@ -745,7 +746,7 @@ created: 2026-04-29
 
 ### 2. Developing Accessible Products
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Development standards for accessible products
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980)
@@ -836,8 +837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (3), [[Microsoft Products|Products]] (2), [[Accessible Design]] (1), [[Typography]] (1)
 > **Env Vars:** html (3), aria (3), css (1), aaa (1)
-> **Code Keywords:** finally, (4), type, (1), this, (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -923,8 +924,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (10), data (5), [[HTML]] (2), next (2), hit (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** finally, (2), let (2), this, (1)
 > **Env Vars:** html (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -1033,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), abstract (1), type, (1), type = (1)
+> **Frameworks & Libraries:** product (2), seo (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Microsoft Products|Products]] (1), [[Accessible Design]] (1)
 > **Speakers:** - [instructor] (2), - [narrator] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** seo (1), peat (1)
@@ -1096,6 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[Digital Accessibility]] (1), seo (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** seo (1)
@@ -1103,7 +1105,6 @@ created: 2026-04-29
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
-> **Speakers:** - [instructor] (1)
 
 #### Content hierarchy and structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/content-hierarchy-and-structure?u=76281980)
@@ -1202,9 +1203,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Semantic Markup]] (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[HTML]] (1), generic (1), [[Accessible Design]] (1)
 > **Definitions:** is a  (3), short for (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** else. (1)
 > **Env Vars:** html (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -1241,8 +1242,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (2), next (1)
 > **Env Vars:** aria (10), html (4)
-> **Code Keywords:** extends (1), require (1), this, (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Code Identifiers:** jquery (1)
@@ -1252,7 +1253,7 @@ created: 2026-04-29
 
 ### 3. Testing for Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing with impacted users
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980)
@@ -1331,6 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Web Accessibility]] (2), strengths (1), web (1), [[Accessible Design]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (3)
 > **Env Vars:** wche (1), w3c (1)
@@ -1395,8 +1397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Semantic Markup]] (2), [[Digital Accessibility]] (1), [[HTML]] (1), [[Accessible Design]] (1)
 > **Env Vars:** wave (6), html (1)
-> **Code Keywords:** interface (2), let (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** picture (1)
@@ -1473,7 +1475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (1), case, (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1), application (1), hit (1), [[Forms]] (1), prompt (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** pour (1)
@@ -1485,7 +1487,7 @@ created: 2026-04-29
 
 ### 4. Leading Designers and Developers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an inclusive-conscious environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980)
@@ -1530,8 +1532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (4), [[Microsoft Products|Products]] (3), web (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), public (1)
 > **Env Vars:** wcag (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1595,8 +1597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (4), web (2), data (1), [[Typography]] (1), [[LinkedIn]] (1)
 > **Env Vars:** wcag (7), wave (3), pour (1)
-> **Code Keywords:** let (2), require (1), public (1), finally, (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
 > **Warnings:** be aware (1)
@@ -1671,9 +1673,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Web Accessibility]] (3), [[Accessible Design]] (2), [[Accountability]] (1), ux (1)
 > **Env Vars:** a11y (2), wcag (1), wave (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), pass (1)
 > **URLs:** [webaim.org](https://webaim.org) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1720,6 +1722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (2), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** adhd (1)
 > **Analogies:** for example (1)
@@ -1790,17 +1793,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (4), [[Analytics]] (3), [[HTML]] (2), [[Digital Accessibility]] (2), career (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **Env Vars:** html (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Leveraging Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making a11y features visible to all users
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980)
@@ -1833,8 +1836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accessible Design]] (2), [[Forms]] (2), data (1), business (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** implements (1)
 > **Env Vars:** adhd (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1883,8 +1886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), [[Accessible Design]] (2), [[Forms]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** public (2), let (1)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is an  (2)
 > **URLs:** [idea.com](https://idea.com) (1)
@@ -1918,7 +1921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), implements (1)
+> **Frameworks & Libraries:** product (1), [[Accessible Design]] (1), teams (1)
 > **CLI Commands:** make (2)
 > **URLs:** [idm.com](https://idm.com) (1)
 > **Env Vars:** idm (1)
@@ -1928,7 +1931,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980)
@@ -1947,8 +1950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Accessible Design]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [david] (1)
 
 

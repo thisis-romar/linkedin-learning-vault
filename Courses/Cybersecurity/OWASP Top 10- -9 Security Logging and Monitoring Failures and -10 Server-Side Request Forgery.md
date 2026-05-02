@@ -28,7 +28,7 @@ tags:
   - skill/owasp
   - skill/web-application-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-9%20Security%20Logging%20and%20Monitoring%20Failures%20and%20-10%20Server-Side%20Request%20Forgery.md)
@@ -47,28 +47,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - 2021 OWASP Top 10
-  - OWASP Top 10 series
+  - [2021 OWASP Top 10](#2021-owasp-top-10)
+  - [OWASP Top 10 series](#owasp-top-10-series)
 - [**1. Security Monitoring and Logging Failures**](#1-security-monitoring-and-logging-failures) (6 videos)
-  - What are security monitoring and logging failures?
-  - Example 1: 2018 Starwood data breach
-  - Example 2: 2021 South Georgia Medical Center insider threat
-  - Prevention technique: Ensure logging includes sufficient user context
-  - Prevention technique: Ensure monitoring and alerting are active and consistent
-  - Prevention technique: Establish an incident response and recovery plan
+  - [What are security monitoring and logging failures?](#what-are-security-monitoring-and-logging-failures)
+  - [Example 1: 2018 Starwood data breach](#example-1-2018-starwood-data-breach)
+  - [Example 2: 2021 South Georgia Medical Center insider threat](#example-2-2021-south-georgia-medical-center-insider-threat)
+  - [Prevention technique: Ensure logging includes sufficient user context](#prevention-technique-ensure-logging-includes-sufficient-user-context)
+  - [Prevention technique: Ensure monitoring and alerting are active and consistent](#prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent)
+  - [Prevention technique: Establish an incident response and recovery plan](#prevention-technique-establish-an-incident-response-and-recovery-plan)
 - [**2. Server-Side Request Forgery**](#2-server-side-request-forgery) (6 videos)
-  - What is Server-Side Request Forgery (SSRF)?
-  - Example 1: 2019 Capital One breach
-  - Example 2: 2017 GitHub Enterprise chained exploits
-  - Prevention technique: Network layer prevention techniques
-  - Prevention technique: Application layer
-  - Prevention technique: Require authentication for internal services
+  - [What is Server-Side Request Forgery (SSRF)?](#what-is-server-side-request-forgery-ssrf)
+  - [Example 1: 2019 Capital One breach](#example-1-2019-capital-one-breach)
+  - [Example 2: 2017 GitHub Enterprise chained exploits](#example-2-2017-github-enterprise-chained-exploits)
+  - [Prevention technique: Network layer prevention techniques](#prevention-technique-network-layer-prevention-techniques)
+  - [Prevention technique: Application layer](#prevention-technique-application-layer)
+  - [Prevention technique: Require authentication for internal services](#prevention-technique-require-authentication-for-internal-services)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Explore more of the OWASP Top 10
+  - [Explore more of the OWASP Top 10](#explore-more-of-the-owasp-top-10)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/2021-owasp-top-10?u=76281980)
@@ -97,10 +97,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Security]] (4), [[OWASP]] (2), web application (1)
 > **Env Vars:** owasp (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - we (1)
 
 #### OWASP Top 10 series
@@ -124,15 +124,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (2), web (1), product (1), [[Security]] (1)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Security Monitoring and Logging Failures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are security monitoring and logging failures?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980)
@@ -179,6 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[OWASP]] (3), application (2), power (1), [[Hardware]] (1)
 > **Env Vars:** owasp (3)
 > **Prerequisites:** install (1), setup (1)
 > **Best Practices:** recommended (1)
@@ -223,8 +224,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (3), database (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** private (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -267,8 +268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (4), [[Stark (Accessibility Software)|Stark]] (1), next (1), [[Privacy]] (1)
 > **Env Vars:** usb (2), sgmc (1), ceo (1)
-> **Code Keywords:** private (1), case, (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -317,10 +318,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (3), application (2), data (2), management (1), [[Security]] (1)
 > **Env Vars:** owasp (3)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** export, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
@@ -377,8 +378,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Real-Time]] (2), [[OWASP]] (1), [[Incident Response]] (1), application (1)
 > **Definitions:** is called (1), in other words (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -439,15 +440,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Incident Response]] (9), teams (5), data (2), web (1), [[Regulatory Compliance]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** public (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Server-Side Request Forgery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Server-Side Request Forgery (SSRF)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980)
@@ -490,10 +491,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web application (6), web (4), database (3), [[Phishing]] (2), [[OWASP]] (1)
 > **Analogies:** such as (4), kind of like (1)
 > **Env Vars:** ssrf (2), owasp (1), rce (1)
 > **Definitions:** stands for (1), known as (1)
-> **Code Keywords:** include: (1)
 > **Speakers:** - [instructor] (1)
 
 #### Example 1: 2019 Capital One breach
@@ -537,10 +538,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), cloud (3), [[GitHub]] (3), [[Cybersecurity]] (2), [[Banking]] (1)
 > **Tools:** github (3), slack (1)
 > **Env Vars:** ssrf (2), fbi (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** protected (1)
 > **Speakers:** - [narrator] (1)
 
 #### Example 2: 2017 GitHub Enterprise chained exploits
@@ -586,6 +587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Security]] (3), teams (1), [[Statistics]] (1), application (1)
 > **Env Vars:** ssrf (7), rce (2)
 > **Tools:** github (6)
 > **CLI Commands:** find (3)
@@ -635,9 +637,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (4), traffic (3), [[Cybersecurity]] (2), [[Network Security]] (1)
 > **Env Vars:** owasp (4), ssrf (3)
 > **Definitions:** is called (1), is a  (1), means that (1)
-> **Code Keywords:** default. (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -698,9 +700,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), data (7), [[OWASP]] (2), web (2), web application (2)
 > **Env Vars:** url (5), ssrf (3), owasp (2), http (2)
 > **Definitions:** means that (3), stands for (1), is a  (1)
-> **Code Keywords:** pass (1), continue (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
@@ -741,8 +743,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[MongoDB]] (2), [[Security]] (1), [[OWASP]] (1), data (1)
 > **Env Vars:** ssrf (3), owasp (1)
-> **Code Keywords:** private (2), require (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -750,7 +752,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore more of the OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980)
@@ -781,7 +783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Security]] (4), [[Software Development]] (2), [[OWASP]] (1), web (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)

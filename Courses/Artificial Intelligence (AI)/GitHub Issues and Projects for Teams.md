@@ -32,7 +32,7 @@ tags:
   - skill/github
   - skill/issue-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GitHub%20Issues%20and%20Projects%20for%20Teams.md)
@@ -51,41 +51,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Collaboration at its finest with GitHub issues and projects
-  - What you should know
+  - [Collaboration at its finest with GitHub issues and projects](#collaboration-at-its-finest-with-github-issues-and-projects)
+  - [What you should know](#what-you-should-know)
 - [**1. Basics of Issues**](#1-basics-of-issues) (10 videos)
-  - Creating an issue
-  - Using task lists
-  - Adding assignees
-  - Linking pull requests
-  - Differences between an issue, a discussion, and a pull request
-  - Managing labels
-  - Managing milestones
-  - Using templates
-  - Challenge: DIY issue
-  - Solution: DIY issue
+  - [Creating an issue](#creating-an-issue)
+  - [Using task lists](#using-task-lists)
+  - [Adding assignees](#adding-assignees)
+  - [Linking pull requests](#linking-pull-requests)
+  - [Differences between an issue, a discussion, and a pull request](#differences-between-an-issue-a-discussion-and-a-pull-request)
+  - [Managing labels](#managing-labels)
+  - [Managing milestones](#managing-milestones)
+  - [Using templates](#using-templates)
+  - [Challenge: DIY issue](#challenge-diy-issue)
+  - [Solution: DIY issue](#solution-diy-issue)
 - [**2. Managing Issues**](#2-managing-issues) (4 videos)
-  - Marking duplicates
-  - Closing and deleting an issue
-  - Pinning an issue
-  - Viewing all issues
+  - [Marking duplicates](#marking-duplicates)
+  - [Closing and deleting an issue](#closing-and-deleting-an-issue)
+  - [Pinning an issue](#pinning-an-issue)
+  - [Viewing all issues](#viewing-all-issues)
 - [**3. Basics of Projects**](#3-basics-of-projects) (7 videos)
-  - Creating a project
-  - Attaching and removing issues to and from a project board
-  - Toggling view and layout
-  - Managing iterations
-  - Automation through workflows
-  - Challenge: DIY project
-  - Solution: DIY project
+  - [Creating a project](#creating-a-project)
+  - [Attaching and removing issues to and from a project board](#attaching-and-removing-issues-to-and-from-a-project-board)
+  - [Toggling view and layout](#toggling-view-and-layout)
+  - [Managing iterations](#managing-iterations)
+  - [Automation through workflows](#automation-through-workflows)
+  - [Challenge: DIY project](#challenge-diy-project)
+  - [Solution: DIY project](#solution-diy-project)
 - [**4. Combining Knowledge**](#4-combining-knowledge) (2 videos)
-  - Using issues and projects for teamwork planning
-  - Best practices for managing issues and projects
+  - [Using issues and projects for teamwork planning](#using-issues-and-projects-for-teamwork-planning)
+  - [Best practices for managing issues and projects](#best-practices-for-managing-issues-and-projects)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaboration at its finest with GitHub issues and projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980)
@@ -106,8 +106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), teams (1), [[Automation]] (1), web (1), [[Team Collaboration]] (1)
 > **Tools:** github (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [teresa (1)
 
@@ -126,13 +126,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5)
 > **Tools:** github (5)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Basics of Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980)
@@ -231,9 +232,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[LinkedIn]] (1), teams (1), feature (1), [[CLI]] (1)
 > **UI Navigation:** click on (11), navigate to (2), go to (1), select the (1)
 > **Tools:** github (5)
-> **Code Keywords:** let (1), include. (1)
 > **Analogies:** such as (1), for example (1)
 > **URLs:** [github.com](https://github.com) (1)
 > **Env Vars:** cli (1)
@@ -283,6 +284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), feature (1)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** checkbox (1)
 > **Analogies:** for example (1)
@@ -323,6 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1), feature (1), next (1), [[Search]] (1)
 > **UI Navigation:** navigate to (1), click on (1), select the (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -374,10 +377,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), feature (2), teams (1)
 > **Tools:** github (3)
 > **UI Navigation:** navigate to (1), select the (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -428,10 +431,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), feature (4), management (1)
 > **Tools:** github (6)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), type, (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -486,7 +489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (1), default, (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), teams (1), next (1), prompt (1)
 > **UI Navigation:** select the (4), checkbox (1)
 > **Tools:** github (4)
 > **CLI Commands:** find (1)
@@ -538,8 +541,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (2), select the (2), checkbox (1), dropdown (1)
-> **Code Keywords:** delete (3)
 > **Analogies:** such as (1), picture (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -603,10 +606,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[GitHub]] (1), teams (1), prompt (1), [[Team Collaboration]] (1)
 > **Exercise Files:** template (21)
 > **UI Navigation:** click on (3), select the (2), navigate to (1), scroll down (1), dropdown (1)
 > **Prerequisites:** set up (1), setup (1), required to (1)
-> **Code Keywords:** let (1), default, (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -625,6 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -732,9 +736,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1), application (1)
 > **UI Navigation:** click on (6), select the (3)
 > **Exercise Files:** template (8)
-> **Code Keywords:** continue (2), let (1), interface (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
 > **Tools:** github (1)
@@ -744,7 +748,7 @@ created: 2026-04-29
 
 ### 2. Managing Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Marking duplicates
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/marking-duplicates?u=76281980)
@@ -779,7 +783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), continue (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Tools:** github (2)
 > **UI Navigation:** click on (1)
 > **Best Practices:** recommended (1)
@@ -836,7 +840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (11), let (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Security]] (1), data (1), next (1)
 > **UI Navigation:** navigate to (1), scroll down (1), dropdown (1), click on (1)
 > **Tools:** github (2)
 > **Analogies:** such as (1)
@@ -878,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -910,6 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Search]] (1), next (1)
 > **Tools:** github (2)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
@@ -917,7 +922,7 @@ created: 2026-04-29
 
 ### 3. Basics of Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980)
@@ -1014,9 +1019,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Windows]] (2), [[Linux]] (2), teams (1), feature (1)
 > **UI Navigation:** select the (4), click on (2), open the (2), toggle (1), dropdown (1)
 > **Tools:** github (5)
-> **Code Keywords:** let (2), default, (1), type, (1)
 > **Env Vars:** readme (4)
 > **Exercise Files:** template (2)
 > **Analogies:** for example (1), such as (1)
@@ -1112,8 +1117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Windows]] (1), [[Linux]] (1)
 > **UI Navigation:** select the (6), click on (4), go to (1), navigate to (1), toggle (1)
-> **Code Keywords:** delete (4), let (1), interface (1), from, (1)
 > **Env Vars:** url (5)
 > **Tools:** github (4)
 > **Cross-References:** go back to (2)
@@ -1200,8 +1205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1), next (1), [[LinkedIn]] (1), [[Windows]] (1), [[Linux]] (1)
 > **UI Navigation:** toggle (3), dropdown (3), click on (3), select the (1), switch to (1)
-> **Code Keywords:** switch (7), let (1)
 > **Analogies:** for example (2), similar to (1)
 > **Tools:** github (1)
 > **Best Practices:** remember to (1)
@@ -1278,8 +1283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Scrum]] (1), [[GitHub]] (1), next (1), prompt (1)
 > **UI Navigation:** click on (7), dropdown (3), select the (1)
-> **Code Keywords:** let (2), default, (1), this, (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1336,8 +1341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), management (1), [[Automation]] (1)
 > **Tools:** github (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** toggle (1)
 > **Best Practices:** recommended (1)
@@ -1356,6 +1361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1488,8 +1494,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), [[Windows]] (1), [[Linux]] (1), next (1), application (1)
 > **UI Navigation:** click on (6), select the (4), go to (2), toggle (2)
-> **Code Keywords:** switch (3), this, (2), let (1), break. (1), continue (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** readme (3), url (1)
 > **Cross-References:** go back to (4)
@@ -1500,7 +1506,7 @@ created: 2026-04-29
 
 ### 4. Combining Knowledge
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using issues and projects for teamwork planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-issues-and-projects-for-teamwork-planning?u=76281980)
@@ -1529,6 +1535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), teams (3), [[Analytics]] (1), product (1), management (1)
 > **Tools:** github (3)
 > **Analogies:** such as (2), for example (1)
 > **Exercise Files:** template (1)
@@ -1640,7 +1647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), feature (2), functional (1), [[Search]] (1), [[Forms]] (1)
 > **Tools:** github (3)
 > **Best Practices:** remember to (2), best practice (1)
 > **CLI Commands:** make (1), find (1)
@@ -1651,7 +1658,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/next-steps?u=76281980)
@@ -1678,6 +1685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), next (1), teams (1), management (1)
 > **Tools:** github (4)
 > **Analogies:** such as (1)
 > **Best Practices:** best practice (1)

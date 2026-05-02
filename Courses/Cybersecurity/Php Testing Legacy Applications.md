@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Php%20Testing%20Legacy%20Applications.md)
@@ -45,41 +45,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you need you to know
-  - Exercise files
+  - [Welcome](#welcome)
+  - [What you need you to know](#what-you-need-you-to-know)
+  - [Exercise files](#exercise-files)
 - [**1. What Changes When Testing Legacy Code**](#1-what-changes-when-testing-legacy-code) (5 videos)
-  - TDD vs. test after
-  - How the tools change
-  - Quick primer on test doubles
-  - Code coverage and confidence levels
-  - Difficult people
+  - [TDD vs. test after](#tdd-vs-test-after)
+  - [How the tools change](#how-the-tools-change)
+  - [Quick primer on test doubles](#quick-primer-on-test-doubles)
+  - [Code coverage and confidence levels](#code-coverage-and-confidence-levels)
+  - [Difficult people](#difficult-people)
 - [**2. Why Legacy Code Can Be Hard to Test**](#2-why-legacy-code-can-be-hard-to-test) (5 videos)
-  - Bootstrap sequences, part 1
-  - Bootstrap sequences, part 2
-  - Hard-coded dependencies
-  - Difficult deployments
-  - Poor package management practices
+  - [Bootstrap sequences, part 1](#bootstrap-sequences-part-1)
+  - [Bootstrap sequences, part 2](#bootstrap-sequences-part-2)
+  - [Hard-coded dependencies](#hard-coded-dependencies)
+  - [Difficult deployments](#difficult-deployments)
+  - [Poor package management practices](#poor-package-management-practices)
 - [**3. Laying the Foundation**](#3-laying-the-foundation) (4 videos)
-  - Just how many tests do we need?
-  - Tests as questions
-  - How we decide what to test?
-  - Real vs. monkey patch vs. double
+  - [Just how many tests do we need?](#just-how-many-tests-do-we-need)
+  - [Tests as questions](#tests-as-questions)
+  - [How we decide what to test?](#how-we-decide-what-to-test)
+  - [Real vs. monkey patch vs. double](#real-vs-monkey-patch-vs-double)
 - [**4. Testing Legacy Code**](#4-testing-legacy-code) (8 videos)
-  - Why test a legacy application?
-  - Identifying dependencies
-  - Planning a scenario
-  - Building a scenario
-  - Planning real to doubles
-  - Building real to doubles
-  - Refactor your tests
-  - Add getters and setters
+  - [Why test a legacy application?](#why-test-a-legacy-application)
+  - [Identifying dependencies](#identifying-dependencies)
+  - [Planning a scenario](#planning-a-scenario)
+  - [Building a scenario](#building-a-scenario)
+  - [Planning real to doubles](#planning-real-to-doubles)
+  - [Building real to doubles](#building-real-to-doubles)
+  - [Refactor your tests](#refactor-your-tests)
+  - [Add getters and setters](#add-getters-and-setters)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980)
@@ -124,9 +124,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), application (2), [[Test-Driven Development]] (2), [[Unit Testing]] (1), next (1)
 > **CLI Commands:** php (3), make (2)
 > **Env Vars:** php (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [chris] (1)
 
@@ -157,11 +157,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), application (2), next (1)
 > **CLI Commands:** php (2), composer (1)
 > **Tools:** command line (2), bash (1)
 > **Env Vars:** php (2)
 > **Versions:** php 7 (1), 6.5 (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
@@ -182,6 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -189,7 +190,7 @@ created: 2026-04-29
 
 ### 1. What Changes When Testing Legacy Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### TDD vs. test after
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/tdd-vs-test-after?u=76281980)
@@ -234,8 +235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), power (1)
 > **Env Vars:** tdd (3)
-> **Code Keywords:** else. (1), pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### How the tools change
@@ -277,7 +278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), assert (2), pass (1), for. (1)
+> **Frameworks & Libraries:** application (2), web (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[PHP]] (3), next (2), database (1), api (1)
 > **Env Vars:** php (3), tdd (1), api (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** php (3), find (1)
@@ -521,8 +522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[PHP]] (1), next (1)
 > **CLI Commands:** make (7), php (1), find (1)
-> **Code Keywords:** finally, (3), let (2), continue (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
 > **Prerequisites:** you'll need (1), install (1)
@@ -695,8 +696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Software Development]] (1), [[Programming]] (1), business (1)
 > **CLI Commands:** find (4), php (3), make (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** php (3)
 > **Definitions:** is a  (2)
 > **Prerequisites:** setup (1)
@@ -705,7 +706,7 @@ created: 2026-04-29
 
 ### 2. Why Legacy Code Can Be Hard to Test
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bootstrap sequences, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980)
@@ -838,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (3), super (2), case, (2), let (1), this. (1)
+> **Frameworks & Libraries:** application (17), [[PHP]] (7), web (3), generic (2), [[Debugging]] (2)
 > **CLI Commands:** php (7), find (2)
 > **Env Vars:** php (7), cfp (1)
 > **Definitions:** is a  (3), known as (1), means that (1)
@@ -1033,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (13), case, (5), assert (4), class, (2), switch (1)
+> **Frameworks & Libraries:** application (5), web (2), data (2), [[PHP]] (1), hit (1)
 > **Env Vars:** url (6), http (2), php (1), html (1)
 > **CLI Commands:** make (5), php (1)
 > **UI Navigation:** scroll down (3), scroll up (1)
@@ -1139,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (5), require (2), let (1), class. (1), function (1)
+> **Frameworks & Libraries:** application (3), [[Representational State Transfer (REST)|Rest]] (2), [[Simulation]] (1), [[Code Refactoring]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1235,11 +1236,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), data (7), [[Package Management]] (2), [[PHP]] (2), [[JavaScript]] (2)
 > **CLI Commands:** composer (5), make (2), php (2), find (1)
 > **Prerequisites:** install (7), make sure you have (1)
 > **Env Vars:** php (2), css (2)
 > **Definitions:** is a  (4)
-> **Code Keywords:** this, (1), finally, (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1310,9 +1311,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), [[PHP]] (7), [[Package Management]] (2), open-source (1), [[Linux]] (1)
 > **CLI Commands:** composer (14), php (7), find (2), make (2)
 > **Env Vars:** php (7), pear (1), zip (1), ftp (1)
-> **Code Keywords:** else. (3), private (1), require (1)
 > **Prerequisites:** install (2)
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
@@ -1322,7 +1323,7 @@ created: 2026-04-29
 
 ### 3. Laying the Foundation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Just how many tests do we need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980)
@@ -1397,7 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), else, (1)
+> **Frameworks & Libraries:** application (2), [[PHP]] (1), [[Version Control]] (1), [[Programming]] (1)
 > **CLI Commands:** make (2), php (1)
 > **Env Vars:** php (1)
 > **Speakers:** - [instructor] (1)
@@ -1483,7 +1484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), else, (1), from, (1)
+> **Frameworks & Libraries:** application (2), [[Test-Driven Development]] (2), data (2), database (1), next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** tdd (1)
 > **Definitions:** is a  (1)
@@ -1566,8 +1567,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), next (2), functional (1)
 > **Definitions:** means that (2), is a  (1), known as (1), in other words (1)
-> **Code Keywords:** let (2), require (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1664,8 +1665,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), data (2), database (2), [[Microsoft Word|Word]] (1), [[Fetch]] (1)
 > **CLI Commands:** php (5), make (4), ruby (1), find (1), python (1)
-> **Code Keywords:** override (4), assert (4), from, (1), require (1), finally, (1)
 > **Env Vars:** php (5), pdo (2), http (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** make sure to (1)
@@ -1675,7 +1676,7 @@ created: 2026-04-29
 
 ### 4. Testing Legacy Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why test a legacy application?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980)
@@ -1722,7 +1723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1), pass (1), finally, (1), break. (1)
+> **Frameworks & Libraries:** application (6), [[Simulation]] (1), teams (1), [[Git]] (1), database (1)
 > **CLI Commands:** make (2), git (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1794,10 +1795,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[PostgreSQL|Postgres]] (4), data (3), [[PHP]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pdo (3), php (2)
 > **Prerequisites:** install (2), make sure you have (1), set up (1)
 > **CLI Commands:** php (2), make (1)
-> **Code Keywords:** super (1), finally, (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** sample code (1)
 > **Definitions:** is an  (1)
@@ -1956,7 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), assert (2), case, (1), function (1)
+> **Frameworks & Libraries:** application (2), [[PHP]] (2), next (2), database (2), functional (1)
 > **CLI Commands:** make (3), composer (2), php (2)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** sortorderworksasexpected (1), asserttrue (1), getbynickname (1)
@@ -2068,7 +2069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (2), pass (2), this. (1), delete (1)
+> **Frameworks & Libraries:** data (5), next (4), [[PHP]] (1)
 > **Cross-References:** go back to (10), previous video (2)
 > **Code Identifiers:** db_config (2), file_get_contents (2), rostermodel (2), expectedroster (1), mad_roster (1)
 > **CLI Commands:** make (3), find (3), php (1), go run (1)
@@ -2148,7 +2149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), override (5), public (2), function (1), class. (1)
+> **Frameworks & Libraries:** database (8), next (4), data (3), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** pdo (5)
 > **Code Identifiers:** sortorderworksasexpectedwithdoubles (1), getbynickname (1)
@@ -2256,7 +2257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), public (1), function (1), delete (1), static (1)
+> **Frameworks & Libraries:** next (4), [[Fetch]] (2), application (1), [[PHP]] (1), data (1)
 > **Env Vars:** pdo (4), php (1), todo (1)
 > **CLI Commands:** make (2), composer (1), php (1)
 > **Definitions:** is a  (3)
@@ -2352,7 +2353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3), this, (1), class, (1), case, (1)
+> **Frameworks & Libraries:** database (1), application (1), generic (1)
 > **Tools:** terminal (4)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** createnewselectmock (2), newselect (1)
@@ -2455,7 +2456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), pass (5), private (2), public (2), function (2)
+> **Frameworks & Libraries:** application (1), [[Java]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** pdo (5)
 > **Tools:** terminal (5)
@@ -2467,7 +2468,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/next-steps?u=76281980)
@@ -2500,6 +2501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **URLs:** [grumpy-learning.com](https://grumpy-learning.com) (1)
 > **Speakers:** - [chris] (1)
 

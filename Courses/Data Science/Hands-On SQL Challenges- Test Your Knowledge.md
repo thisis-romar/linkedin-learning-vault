@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-On%20SQL%20Challenges-%20Test%20Your%20Knowledge.md)
@@ -52,37 +52,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - SQL challenges to test your knowledge
-  - Exploring the databases
-  - CoderPad tour
+  - [SQL challenges to test your knowledge](#sql-challenges-to-test-your-knowledge)
+  - [Exploring the databases](#exploring-the-databases)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. In the Restaurant**](#1-in-the-restaurant) (12 videos)
-  - Solution: Create invitations for a party
-  - Solution: Create a table to store information
-  - Solution: Print a menu
-  - Solution: Sign a customer up for your loyalty program
-  - Solution: Update a customer's personal information
-  - Solution: Remove information from the database
-  - Solution: Log customer responses to an invitation
-  - Solution: Look up reservations
-  - Solution: Take a reservation
-  - Solution: Take a delivery order
-  - Solution: Track your customer's favorite dishes
-  - Solution: Prepare a report of your top customers
+  - [Solution: Create invitations for a party](#solution-create-invitations-for-a-party)
+  - [Solution: Create a table to store information](#solution-create-a-table-to-store-information)
+  - [Solution: Print a menu](#solution-print-a-menu)
+  - [Solution: Sign a customer up for your loyalty program](#solution-sign-a-customer-up-for-your-loyalty-program)
+  - [Solution: Update a customer's personal information](#solution-update-a-customers-personal-information)
+  - [Solution: Remove information from the database](#solution-remove-information-from-the-database)
+  - [Solution: Log customer responses to an invitation](#solution-log-customer-responses-to-an-invitation)
+  - [Solution: Look up reservations](#solution-look-up-reservations)
+  - [Solution: Take a reservation](#solution-take-a-reservation)
+  - [Solution: Take a delivery order](#solution-take-a-delivery-order)
+  - [Solution: Track your customer's favorite dishes](#solution-track-your-customers-favorite-dishes)
+  - [Solution: Prepare a report of your top customers](#solution-prepare-a-report-of-your-top-customers)
 - [**2. At the Library**](#2-at-the-library) (8 videos)
-  - Solution: Check book availability
-  - Solution: Add new books to the library
-  - Solution: Check out books
-  - Solution: Check for books due back
-  - Solution: Return books to the library
-  - Solution: Encourage patrons to check out books
-  - Solution: Find books to feature for an event
-  - Solution: Book statistics
+  - [Solution: Check book availability](#solution-check-book-availability)
+  - [Solution: Add new books to the library](#solution-add-new-books-to-the-library)
+  - [Solution: Check out books](#solution-check-out-books)
+  - [Solution: Check for books due back](#solution-check-for-books-due-back)
+  - [Solution: Return books to the library](#solution-return-books-to-the-library)
+  - [Solution: Encourage patrons to check out books](#solution-encourage-patrons-to-check-out-books)
+  - [Solution: Find books to feature for an event](#solution-find-books-to-feature-for-an-event)
+  - [Solution: Book statistics](#solution-book-statistics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in your SQL journey
+  - [Next steps in your SQL journey](#next-steps-in-your-sql-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL challenges to test your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980)
@@ -101,8 +101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (1), database (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [scott] (1)
 
 #### Exploring the databases
@@ -160,9 +160,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[Databases]] (3), next (2)
 > **Definitions:** refers to (2), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** before we start (1)
@@ -201,13 +201,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. In the Restaurant
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Create invitations for a party
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-create-invitations-for-a-party?u=76281980)
@@ -236,7 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** database (4)
 > **SQL:** select (1), order by (1)
 > **Env Vars:** select (1), order (1)
 > **Speakers:** - [instructor] (1)
@@ -292,8 +293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (1)
 > **Env Vars:** create (3), table (1), int (1), null (1), show (1)
-> **Code Keywords:** case. (1), this. (1)
 > **CLI Commands:** make (1)
 > **SQL:** create table (1)
 > **Analogies:** for example (1)
@@ -327,7 +328,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -377,8 +377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Update a customer's personal information
@@ -440,10 +440,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Jenkins]] (3)
 > **CLI Commands:** find (1), make (1)
 > **SQL:** update (1), where (1)
 > **Env Vars:** update (1), where (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Remove information from the database
@@ -527,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), case, (2), this. (2), let (1), function (1)
+> **Frameworks & Libraries:** database (6), data (4), business (1)
 > **SQL:** select (4)
 > **Env Vars:** select (4)
 > **CLI Commands:** find (1), make (1)
@@ -574,9 +574,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (1), next (1)
 > **Env Vars:** select (3), values (2), insert (1), into (1)
 > **SQL:** select (3), insert into (1)
-> **Code Keywords:** case, (1), this, (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -612,7 +612,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
 > **Env Vars:** asc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -648,9 +647,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** dbms (1), sql (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -719,7 +718,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), for. (1), function (1), this. (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -754,8 +752,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **SQL:** group by (1)
 > **Env Vars:** group (1)
 > **Analogies:** for example (1)
@@ -802,14 +800,13 @@ created: 2026-04-29
 >
 > **Env Vars:** having (2), group (1), count (1), where (1), order (1)
 > **SQL:** having (2), group by (1), where (1), order by (1)
-> **Code Keywords:** function (1), this. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. At the Library
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Check book availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-book-availability?u=76281980)
@@ -846,9 +843,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Env Vars:** null (5), select (2), count (2), where (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** function (1), for. (1), this, (1)
 > **SQL:** select (2), where (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -900,8 +897,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), management (1)
 > **Env Vars:** insert (2), into (1), select (1), limit (1)
-> **Code Keywords:** this, (1), for. (1), this. (1)
 > **SQL:** insert into (1), select (1)
 > **Speakers:** - [instructor] (1)
 
@@ -954,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** database (1), [[SQL]] (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -1010,8 +1007,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Return books to the library
@@ -1067,7 +1064,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return. (1), case, (1), match. (1), for. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [speaker] (1)
 
@@ -1112,10 +1108,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **Env Vars:** having (2), select (1), where (1), between (1), order (1)
 > **SQL:** having (2), select (1), where (1), order by (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1156,10 +1152,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), next (1)
 > **Env Vars:** where (3), count (2), between (1), null (1), group (1)
 > **CLI Commands:** find (3), make (1)
 > **SQL:** where (3), group by (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1236,7 +1232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case, (2), this, (1), this. (1)
+> **Frameworks & Libraries:** database (1)
 > **Env Vars:** dense_rank (4), select (2), where (1), order (1)
 > **SQL:** select (2), where (1), order by (1)
 > **Analogies:** for example (1)
@@ -1245,7 +1241,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your SQL journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980)
@@ -1264,6 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), database (1), [[LinkedIn]] (1), next (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 

@@ -30,7 +30,7 @@ tags:
   - skill/cloud-native-applications
   - skill/kubernetes
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Kubernetes-%20Cloud%20Native%20Ecosystem.md)
@@ -49,29 +49,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Kubernetes: Cloud native ecosystem
-  - What you need to know
+  - [Kubernetes: Cloud native ecosystem](#kubernetes-cloud-native-ecosystem)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Cloud Native Computing Foundation**](#1-cloud-native-computing-foundation) (2 videos)
-  - What is the CNCF?
-  - First look at the CNCF landscape
+  - [What is the CNCF?](#what-is-the-cncf)
+  - [First look at the CNCF landscape](#first-look-at-the-cncf-landscape)
 - [**2. Management and Orchestration**](#2-management-and-orchestration) (3 videos)
-  - Application development and deployment
-  - Service discovery and registry
-  - Managing cloud native services
+  - [Application development and deployment](#application-development-and-deployment)
+  - [Service discovery and registry](#service-discovery-and-registry)
+  - [Managing cloud native services](#managing-cloud-native-services)
 - [**3. Networking and Runtime**](#3-networking-and-runtime) (2 videos)
-  - Container networking 101
-  - Container storage and runtime projects
+  - [Container networking 101](#container-networking-101)
+  - [Container storage and runtime projects](#container-storage-and-runtime-projects)
 - [**4. Application Observability, Analysis, and Security**](#4-application-observability-analysis-and-security) (4 videos)
-  - Cloud native monitoring with Prometheus
-  - Application logging
-  - Application tracing
-  - Security, policy, and distribution
+  - [Cloud native monitoring with Prometheus](#cloud-native-monitoring-with-prometheus)
+  - [Application logging](#application-logging)
+  - [Application tracing](#application-tracing)
+  - [Security, policy, and distribution](#security-policy-and-distribution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The CNCF today and tomorrow
+  - [The CNCF today and tomorrow](#the-cncf-today-and-tomorrow)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kubernetes: Cloud native ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/kubernetes-cloud-native-ecosystem?u=76281980)
@@ -98,8 +98,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (2), cloud (1), management (1), [[Orchestration]] (1), application (1)
 > **Env Vars:** cncf (2)
-> **Code Keywords:** let (1)
 > **URLs:** [agileadmin.com](https://agileadmin.com) (1)
 > **Speakers:** - [karthik] (1)
 
@@ -118,12 +118,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (3), cloud (1), [[DevOps]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Cloud Native Computing Foundation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the CNCF?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980)
@@ -160,8 +161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (6), cloud (4), [[Linux]] (1), ux (1), [[GitHub]] (1)
 > **Env Vars:** cncf (5), grpc (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** github (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -243,7 +244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), interface (1), let (1)
+> **Frameworks & Libraries:** cloud (10), data (5), next (4), [[Microservices]] (2), [[Security]] (2)
 > **Env Vars:** cncf (1), cni (1), rest (1)
 > **CLI Commands:** docker (1), cd (1)
 > **Definitions:** is a  (1), known as (1)
@@ -255,7 +256,7 @@ created: 2026-04-29
 
 ### 2. Management and Orchestration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application development and deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980)
@@ -328,9 +329,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (11), cloud (5), [[Helm]] (5), ci (3), application (2)
 > **CLI Commands:** cd (3), docker (1), npm (1), node (1), find (1)
 > **Env Vars:** npm (1), cncf (1), rest (1), soap (1), nats (1)
-> **Code Keywords:** finally, (2), pass (1), interface (1)
 > **Code Identifiers:** grpc (2)
 > **Definitions:** is called (1), known as (1)
 > **Documentation:** specification (1)
@@ -400,8 +401,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), dns (4), [[Kubernetes]] (2), data (2), [[Git]] (1)
 > **Env Vars:** dns (4), cncf (3)
-> **Code Keywords:** let (2), this. (1), super (1), private (1)
 > **CLI Commands:** docker (3), git (1)
 > **Tools:** github (1), gitlab (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -476,10 +477,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (3), management (2), [[Mesh]] (2), application (2), next (1)
 > **Code Identifiers:** grpc (3)
 > **Env Vars:** tls (1), cpu (1), rest (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** in the next (1), we covered (1)
 > **Analogies:** such as (1), similar to (1)
 > **Documentation:** the docs (1)
@@ -488,7 +489,7 @@ created: 2026-04-29
 
 ### 3. Networking and Runtime
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Container networking 101
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980)
@@ -533,8 +534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (3), generic (1), [[GitHub]] (1), [[JSON]] (1)
 > **Env Vars:** cni (4), cncf (1), json (1)
-> **Code Keywords:** let (1), interface (1), finally, (1), case, (1)
 > **Definitions:** means that (1), is a  (1)
 > **Documentation:** spec (1)
 > **Tools:** github (1)
@@ -603,16 +604,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (9), data (3), [[Databases]] (2), [[MySQL]] (2), [[Security]] (2)
 > **Env Vars:** cri (4), sql (1), cncf (1), ibm (1), suse (1)
 > **CLI Commands:** mysql (2), docker (1)
-> **Code Keywords:** finally, (1), let (1), interface (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Application Observability, Analysis, and Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud native monitoring with Prometheus
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980)
@@ -655,8 +656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (10), application (4), cloud (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Env Vars:** cncf (2), rest (1), api (1)
-> **Code Keywords:** finally, (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -705,9 +706,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (6), cloud (5), application (2), management (1), [[DevOps]] (1)
 > **Env Vars:** cncf (4), elk (1), api (1)
 > **CLI Commands:** node (1), kubectl (1), docker (1)
-> **Code Keywords:** module (1)
 > **Analogies:** similar to (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
@@ -775,8 +776,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Debugging]] (3), [[Microservices]] (3), application (3), cloud (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** cncf (1)
 > **Documentation:** spec (1)
@@ -844,10 +845,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), cloud (2), [[Kubernetes]] (2), [[DevSecOps]] (1), management (1)
 > **Env Vars:** tuf (4), cncf (3), opa (2), cni (1), api (1)
 > **CLI Commands:** docker (3), make (1)
 > **Definitions:** is a  (3), known as (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Documentation:** specification (1), spec (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** configure (1)
@@ -856,7 +857,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The CNCF today and tomorrow
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980)
@@ -903,8 +904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Sustainability]] (2), cloud (2), ci (1), application (1)
 > **Env Vars:** cncf (9)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** getting started (1)

@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Dashboards%20and%20Visualization.md)
@@ -40,31 +40,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Designing dashboards and data
+  - [Designing dashboards and data](#designing-dashboards-and-data)
 - [**1. Graph Fundamentals**](#1-graph-fundamentals) (4 videos)
-  - Displaying the right data
-  - Common graph types
-  - More common graphs
-  - Cautionary charts and elements
+  - [Displaying the right data](#displaying-the-right-data)
+  - [Common graph types](#common-graph-types)
+  - [More common graphs](#more-common-graphs)
+  - [Cautionary charts and elements](#cautionary-charts-and-elements)
 - [**2. Color Deep Dive**](#2-color-deep-dive) (3 videos)
-  - Color foundations
-  - Color use
-  - Color accessibility
+  - [Color foundations](#color-foundations)
+  - [Color use](#color-use)
+  - [Color accessibility](#color-accessibility)
 - [**3. Applied Visual Design**](#3-applied-visual-design) (3 videos)
-  - Layout and hierarchy
-  - Dashboard interactivity
-  - Reducing graph visual noise
+  - [Layout and hierarchy](#layout-and-hierarchy)
+  - [Dashboard interactivity](#dashboard-interactivity)
+  - [Reducing graph visual noise](#reducing-graph-visual-noise)
 - [**4. Putting It Together**](#4-putting-it-together) (4 videos)
-  - Conceptualizing a dashboard
-  - Layout considerations
-  - Visual design considerations
-  - Dashboard interactivity
+  - [Conceptualizing a dashboard](#conceptualizing-a-dashboard)
+  - [Layout considerations](#layout-considerations)
+  - [Visual design considerations](#visual-design-considerations)
+  - [Dashboard interactivity](#dashboard-interactivity)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Goodbye
+  - [Goodbye](#goodbye)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing dashboards and data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/designing-dashboards-and-data?u=76281980)
@@ -87,12 +87,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Dashboards]] (4), ux (1)
 > **Speakers:** - [diane] (1)
 
 
 ### 1. Graph Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Displaying the right data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980)
@@ -135,7 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (16), [[Dashboards]] (1), [[Sketching]] (1), next (1), [[Prototyping]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -204,7 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1), public (1)
+> **Frameworks & Libraries:** data (14), next (2), [[Google]] (1), [[Analytics]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -277,7 +278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (9), next (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** nasa (1)
@@ -347,10 +348,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **Definitions:** is a  (3)
 > **Warnings:** caution (1), be careful (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Analogies:** just like (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -358,7 +359,7 @@ created: 2026-04-29
 
 ### 2. Color Deep Dive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Color foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-foundations?u=76281980)
@@ -421,7 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (3), [[Google]] (1), [[Analytics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -487,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (6), traffic (2), [[Analytics]] (1)
 > **Best Practices:** it's best to (1), remember to (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **CLI Commands:** make (1)
@@ -565,8 +566,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Dashboards]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1), case, (1), from. (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
@@ -576,7 +577,7 @@ created: 2026-04-29
 
 ### 3. Applied Visual Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Layout and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980)
@@ -653,7 +654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2)
+> **Frameworks & Libraries:** data (12), [[Dashboards]] (2), web (2), [[Analytics]] (2), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** refers to (1)
 > **Warnings:** keep in mind (1)
@@ -710,7 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1), this. (1), match. (1)
+> **Frameworks & Libraries:** data (12), [[Dashboards]] (3), [[Zoom]] (2), [[Statistics]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -791,13 +792,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Economic Analysis]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Putting It Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conceptualizing a dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/conceptualizing-a-dashboard?u=76281980)
@@ -856,7 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), interface (1)
+> **Frameworks & Libraries:** data (3), [[Sketching]] (3), business (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -936,7 +937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), for, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), data (3), ux (1)
 > **Tools:** figma (4)
 > **Speakers:** - [instructor] (1)
 
@@ -1005,7 +1006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (5), [[Dashboards]] (2), next (2), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1083,9 +1084,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Figma (Software)|Figma]] (4), [[Dashboards]] (3), [[Prototyping]] (2), [[LinkedIn]] (1)
 > **Tools:** figma (4)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** static (1), function (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** dropdown (1)
@@ -1095,7 +1096,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/goodbye?u=76281980)
@@ -1120,6 +1121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2), [[LinkedIn]] (2), ux (1), [[Prototyping]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [diane] (1)
 

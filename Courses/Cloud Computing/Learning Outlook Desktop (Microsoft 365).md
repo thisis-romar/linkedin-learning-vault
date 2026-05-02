@@ -28,7 +28,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Outlook%20Desktop%20(Microsoft%20365).md)
@@ -47,31 +47,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Stay organized and collaborate with Outlook
-  - What can you do with Outlook?
+  - [Stay organized and collaborate with Outlook](#stay-organized-and-collaborate-with-outlook)
+  - [What can you do with Outlook?](#what-can-you-do-with-outlook)
 - [**1. Get Started**](#1-get-started) (2 videos)
-  - Add an email account
-  - Navigate the interface
+  - [Add an email account](#add-an-email-account)
+  - [Navigate the interface](#navigate-the-interface)
 - [**2. Work with Email**](#2-work-with-email) (5 videos)
-  - Read your mail
-  - Organize your mail
-  - Search your mail
-  - Create, reply to, and forward an email
-  - Work with attachments
+  - [Read your mail](#read-your-mail)
+  - [Organize your mail](#organize-your-mail)
+  - [Search your mail](#search-your-mail)
+  - [Create, reply to, and forward an email](#create-reply-to-and-forward-an-email)
+  - [Work with attachments](#work-with-attachments)
 - [**3. Work with Contacts**](#3-work-with-contacts) (2 videos)
-  - Create a new contact
-  - Create a contact group
+  - [Create a new contact](#create-a-new-contact)
+  - [Create a contact group](#create-a-contact-group)
 - [**4. Work with the Calendar**](#4-work-with-the-calendar) (4 videos)
-  - Navigate the calendar
-  - Create an appointment
-  - Create a meeting
-  - Respond to a meeting invitation
+  - [Navigate the calendar](#navigate-the-calendar)
+  - [Create an appointment](#create-an-appointment)
+  - [Create a meeting](#create-a-meeting)
+  - [Respond to a meeting invitation](#respond-to-a-meeting-invitation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learn more features of Outlook
+  - [Learn more features of Outlook](#learn-more-features-of-outlook)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay organized and collaborate with Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980)
@@ -94,6 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Outlook]] (1), [[LinkedIn]] (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - do (1)
 
@@ -140,7 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Microsoft 365]] (2), [[Microsoft Office]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -148,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Get Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add an email account
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980)
@@ -195,7 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), new, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[Microsoft Office|Office]] (1), prompt (1), [[Google]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (instructor typing on keyboard) (1)
@@ -305,7 +306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1), module (1), from, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[Microsoft Outlook]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Newsletters]] (1)
 > **UI Navigation:** click on (5), switch to (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (3)
@@ -317,7 +318,7 @@ created: 2026-04-29
 
 ### 2. Work with Email
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Read your mail
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980)
@@ -388,7 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), from. (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft]] (1), [[Newsletters]] (1), [[Microsoft Outlook|Outlook]] (1), [[Search]] (1)
 > **UI Navigation:** click on (3), select the (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -506,8 +507,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Search]] (2), hit (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (7), select the (1)
-> **Code Keywords:** delete (3), from. (1), case, (1), let (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -569,7 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), continue (2), case, (1), for, (1)
+> **Frameworks & Libraries:** [[Search]] (13), [[Microsoft Word|Word]] (3), hit (3), [[Microsoft Outlook|Outlook]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
@@ -662,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), from. (1), continue (1), delete (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), next (1), hit (1), [[Search]] (1), web (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** bcc (2)
 > **UI Navigation:** click on (2)
@@ -745,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), cloud (2), [[Microsoft 365]] (2), [[SharePoint]] (1), next (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
@@ -754,7 +755,7 @@ created: 2026-04-29
 
 ### 3. Work with Contacts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new contact
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-new-contact?u=76281980)
@@ -829,10 +830,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Non-Speech:** (keyboard typing) (2), (button clicking) (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -913,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), finally, (1), new. (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), next (1), [[Search]] (1), hit (1)
 > **UI Navigation:** click on (5)
 > **Cross-References:** previous video (1), go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -921,7 +922,7 @@ created: 2026-04-29
 
 ### 4. Work with the Calendar
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate the calendar
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-calendar?u=76281980)
@@ -992,8 +993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2)
 > **UI Navigation:** go to (2), click on (2)
-> **Code Keywords:** let (1), interface (1), finally, (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1082,7 +1083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), finally, (2), for. (1), this, (1)
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (2), open the (1)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (1)
@@ -1187,9 +1188,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** just like (2), such as (1)
-> **Code Keywords:** let (1), extends (1)
 > **Prerequisites:** required to (1), set up (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1260,7 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (1), scroll up (1)
 > **CLI Commands:** make (1)
@@ -1270,7 +1271,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more features of Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980)
@@ -1295,6 +1296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), [[Windows]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** ipad (1), iphone (1)
 > **Analogies:** such as (1)

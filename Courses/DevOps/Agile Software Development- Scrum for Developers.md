@@ -37,7 +37,7 @@ tags:
   - skill/agile-software-development
   - skill/scrum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Scrum%20for%20Developers.md)
@@ -56,53 +56,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Scrum for agile software development
-  - What you should know
+  - [Scrum for agile software development](#scrum-for-agile-software-development)
+  - [What you should know](#what-you-should-know)
 - [**1. Scrum Roles**](#1-scrum-roles) (5 videos)
-  - Product owner: The what
-  - Product owner example
-  - Development team: The how
-  - Understanding the development team
-  - Scrum master: The servant leader
+  - [Product owner: The what](#product-owner-the-what)
+  - [Product owner example](#product-owner-example)
+  - [Development team: The how](#development-team-the-how)
+  - [Understanding the development team](#understanding-the-development-team)
+  - [Scrum master: The servant leader](#scrum-master-the-servant-leader)
 - [**2. Scrum Artifacts**](#2-scrum-artifacts) (7 videos)
-  - Software tools for scrum
-  - Product backlog overview
-  - Product backlog characteristics and tips
-  - Sample product backlog
-  - Sprint backlog overview
-  - Product increment overview
-  - The definition of done
+  - [Software tools for scrum](#software-tools-for-scrum)
+  - [Product backlog overview](#product-backlog-overview)
+  - [Product backlog characteristics and tips](#product-backlog-characteristics-and-tips)
+  - [Sample product backlog](#sample-product-backlog)
+  - [Sprint backlog overview](#sprint-backlog-overview)
+  - [Product increment overview](#product-increment-overview)
+  - [The definition of done](#the-definition-of-done)
 - [**3. Scrum Events: Sprints and Sprint Planning**](#3-scrum-events-sprints-and-sprint-planning) (6 videos)
-  - Sprint overview
-  - Sprint best practices
-  - Sprint planning: Part 1
-  - Sprint planning: Part 2
-  - Sprint planning in Jira
-  - Boards in Jira
+  - [Sprint overview](#sprint-overview)
+  - [Sprint best practices](#sprint-best-practices)
+  - [Sprint planning: Part 1](#sprint-planning-part-1)
+  - [Sprint planning: Part 2](#sprint-planning-part-2)
+  - [Sprint planning in Jira](#sprint-planning-in-jira)
+  - [Boards in Jira](#boards-in-jira)
 - [**4. Scrum Events: Daily Scrum**](#4-scrum-events-daily-scrum) (3 videos)
-  - Daily scrum overview
-  - Daily scrum example
-  - Tracking progress
+  - [Daily scrum overview](#daily-scrum-overview)
+  - [Daily scrum example](#daily-scrum-example)
+  - [Tracking progress](#tracking-progress)
 - [**5. Scrum Events: Sprint Review**](#5-scrum-events-sprint-review) (1 videos)
-  - Sprint review overview
+  - [Sprint review overview](#sprint-review-overview)
 - [**6. Scrum Events: Daily Retrospective**](#6-scrum-events-daily-retrospective) (2 videos)
-  - Sprint retrospective overview
-  - Tracking retrospective items
+  - [Sprint retrospective overview](#sprint-retrospective-overview)
+  - [Tracking retrospective items](#tracking-retrospective-items)
 - [**7. Product Backlog Refinement**](#7-product-backlog-refinement) (3 videos)
-  - Product backlog refinement
-  - Planning poker
-  - Technical debt
+  - [Product backlog refinement](#product-backlog-refinement)
+  - [Planning poker](#planning-poker)
+  - [Technical debt](#technical-debt)
 - [**8. Certifications**](#8-certifications) (4 videos)
-  - Scrum certifications
-  - Certified scrum master
-  - Professional scrum master
-  - Certification advice
+  - [Scrum certifications](#scrum-certifications)
+  - [Certified scrum master](#certified-scrum-master)
+  - [Professional scrum master](#professional-scrum-master)
+  - [Certification advice](#certification-advice)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum for agile software development
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980)
@@ -125,7 +125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Scrum]] (6), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1), application (1), [[LinkedIn]] (1)
 > **Speakers:** - [shashi] (1)
 
 #### What you should know
@@ -153,13 +153,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (4), [[Software Development]] (2), [[Agile Software Development]] (1), [[Product Development]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Scrum Roles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Product owner: The what
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-the-what?u=76281980)
@@ -194,6 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (20), [[Scrum]] (7)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [sashi] (1)
 
@@ -246,6 +248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), business (4), [[Scrum]] (4), management (2), [[Software Development]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -299,8 +302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (6), product (5), [[Scrum]] (2), [[Automation]] (1), teams (1)
 > **Definitions:** is a  (3), known as (1), is an  (1), in other words (1)
-> **Code Keywords:** self (3), let (1)
 > **Analogies:** such as (2), just like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -353,7 +356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), switch (1), self (1)
+> **Frameworks & Libraries:** teams (10), [[Scrum]] (6), feature (3), functional (2), business (2)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
@@ -440,7 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1)
+> **Frameworks & Libraries:** [[Scrum]] (20), [[Agile Development|Agile]] (5), [[Microsoft Word|Word]] (1), business (1), management (1)
 > **Definitions:** in other words (2), known as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - last (1)
@@ -448,7 +451,7 @@ created: 2026-04-29
 
 ### 2. Scrum Artifacts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Software tools for scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/software-tools-for-scrum?u=76281980)
@@ -475,6 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Agile Development|Agile]] (3), [[Jira]] (1), [[Trello]] (1), [[Automation]] (1)
 > **CLI Commands:** make (3)
 > **Tools:** jira (1)
 > **Definitions:** is a  (1)
@@ -538,7 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), abstract (1)
+> **Frameworks & Libraries:** product (11), [[Scrum]] (2), data (2), [[Analytics]] (2), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -567,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (14), feature (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
@@ -612,7 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** product (8), [[Agile Development|Agile]] (1), [[Scrum]] (1), next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -650,8 +654,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Scrum]] (3), next (1), teams (1), application (1)
 > **Definitions:** is an  (1), known as (1), is called (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -686,6 +690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Scrum]] (3), business (2), [[Agile Development|Agile]] (1), [[Search]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -726,15 +731,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Agile Development|Agile]] (2), [[Scrum]] (2), teams (1), [[Unit Testing]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1), let (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Scrum Events: Sprints and Sprint Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sprint overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-overview?u=76281980)
@@ -777,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), continue (1)
+> **Frameworks & Libraries:** product (10), [[Scrum]] (6), business (4), teams (2), database (2)
 > **Definitions:** is called (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -832,6 +837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (11), product (6), business (6), [[Microsoft Products|Products]] (3), teams (3)
 > **Definitions:** known as (1), is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (2)
@@ -900,6 +906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Scrum]] (5), business (3), teams (1), generic (1)
 > **Env Vars:** cio (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** required to (1)
@@ -946,7 +953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (3), next (2), [[Agile Development|Agile]] (2), [[Scrum]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -970,7 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Jira]] (1), product (1)
 > **Env Vars:** jira (1)
 > **Tools:** jira (1)
 > **Definitions:** known as (1)
@@ -1013,14 +1020,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Scrum]] (6), management (1), [[Agile Development|Agile]] (1), teams (1), [[Product Development]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Scrum Events: Daily Scrum
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Daily scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980)
@@ -1077,8 +1084,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (20), product (3), teams (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (2), known as (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1141,7 +1148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Scrum]] (6), [[Agile Development|Agile]] (4), management (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1182,7 +1189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2)
+> **Frameworks & Libraries:** [[Scrum]] (2), management (1), business (1), next (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** cio (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -1192,7 +1199,7 @@ created: 2026-04-29
 
 ### 5. Scrum Events: Sprint Review
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sprint review overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980)
@@ -1245,14 +1252,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (12), [[Scrum]] (6), next (2), [[Agile Development|Agile]] (1), teams (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Scrum Events: Daily Retrospective
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sprint retrospective overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980)
@@ -1319,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** [[Scrum]] (4), teams (4), product (3), [[Agile Development|Agile]] (1), [[Programming]] (1)
 > **Env Vars:** xml (2)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** such as (2)
@@ -1351,13 +1358,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (1), teams (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Product Backlog Refinement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Product backlog refinement
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980)
@@ -1402,10 +1410,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), [[Scrum]] (3), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Planning poker
@@ -1475,7 +1483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), continue (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), teams (3), product (2), [[Agile Software Development]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1539,7 +1547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), continue (1)
+> **Frameworks & Libraries:** product (4), [[Programming]] (3), [[Microsoft Products|Products]] (2), feature (2), business (2)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
@@ -1549,7 +1557,7 @@ created: 2026-04-29
 
 ### 8. Certifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-certifications?u=76281980)
@@ -1584,6 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (17), product (2)
 > **URLs:** [scrumalliance.org](https://scrumalliance.org) (1), [scrum.org](https://scrum.org) (1)
 > **Env Vars:** csm (1), psm (1)
 > **CLI Commands:** make (1)
@@ -1617,8 +1626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (3)
 > **Env Vars:** csm (5)
-> **Code Keywords:** pass (2), continue (1)
 > **CLI Commands:** find (1)
 > **URLs:** [scrumalliances.org](https://scrumalliances.org) (1)
 > **Definitions:** is an  (1)
@@ -1653,6 +1662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (7)
 > **Env Vars:** psm (8), iii (1)
 > **URLs:** [scrum.org](https://scrum.org) (4)
 > **Speakers:** - [presenter] (1)
@@ -1696,17 +1706,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (9), [[Agile Development|Agile]] (2), management (2), generic (1)
 > **Env Vars:** psm (2), iii (2), acp (2), pmi (2)
 > **URLs:** [scrum.org](https://scrum.org) (2), [scrumalliances.org](https://scrumalliances.org) (1), [pmi.org](https://pmi.org) (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980)
@@ -1735,9 +1745,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (9), [[LinkedIn]] (2), [[Jira]] (2), next (1)
 > **URLs:** [scrum.org](https://scrum.org) (2), [scrumalliance.org](https://scrumalliance.org) (1)
 > **Tools:** jira (2)
-> **Code Keywords:** continue (1)
 > **Env Vars:** psm (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [shashi] (1)

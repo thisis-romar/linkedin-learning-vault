@@ -39,7 +39,7 @@ tags:
   - skill/ai-for-leadership
   - skill/leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20with%20Innovation%20in%20the%20Age%20of%20AI.md)
@@ -58,32 +58,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The innovation imperative
+  - [The innovation imperative](#the-innovation-imperative)
 - [**1. Innovation Fundamentals**](#1-innovation-fundamentals) (3 videos)
-  - Why organizations often fail at innovation
-  - The core logic of innovation
-  - What AI means for innovation
+  - [Why organizations often fail at innovation](#why-organizations-often-fail-at-innovation)
+  - [The core logic of innovation](#the-core-logic-of-innovation)
+  - [What AI means for innovation](#what-ai-means-for-innovation)
 - [**2. The Innovation Process**](#2-the-innovation-process) (5 videos)
-  - Fostering creativity without losing control
-  - The lean startup process
-  - Design thinking
-  - Collaborative innovation
-  - Accelerating innovation with AI
+  - [Fostering creativity without losing control](#fostering-creativity-without-losing-control)
+  - [The lean startup process](#the-lean-startup-process)
+  - [Design thinking](#design-thinking)
+  - [Collaborative innovation](#collaborative-innovation)
+  - [Accelerating innovation with AI](#accelerating-innovation-with-ai)
 - [**3. Theaters of Innovation**](#3-theaters-of-innovation) (4 videos)
-  - Rethinking the target customer
-  - Reimagining customer value
-  - Reengineering the value chain
-  - Social innovation
+  - [Rethinking the target customer](#rethinking-the-target-customer)
+  - [Reimagining customer value](#reimagining-customer-value)
+  - [Reengineering the value chain](#reengineering-the-value-chain)
+  - [Social innovation](#social-innovation)
 - [**4. The Role of Leaders**](#4-the-role-of-leaders) (2 videos)
-  - The role of leaders in driving innovation
-  - Cultivating an innovation culture
+  - [The role of leaders in driving innovation](#the-role-of-leaders-in-driving-innovation)
+  - [Cultivating an innovation culture](#cultivating-an-innovation-culture)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Balancing order and chaos in innovation
-  - Next steps
+  - [Balancing order and chaos in innovation](#balancing-order-and-chaos-in-innovation)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The innovation imperative
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-innovation-imperative?u=76281980)
@@ -110,12 +110,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), business (1)
 > **Analogies:** such as (1)
 
 
 ### 1. Innovation Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why organizations often fail at innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/why-organizations-often-fail-at-innovation?u=76281980)
@@ -198,10 +199,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), business (2), [[Microsoft Products|Products]] (2), power (1), ai (1)
 > **Code Identifiers:** iphone (3)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** new, (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -276,6 +277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), [[Search]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1), ai (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 
@@ -354,7 +356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** ai (17), product (4), [[Google]] (1), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), imagine (1)
 > **Env Vars:** ceo (1)
@@ -363,7 +365,7 @@ created: 2026-04-29
 
 ### 2. The Innovation Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fostering creativity without losing control
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980)
@@ -442,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1), let (1)
+> **Frameworks & Libraries:** [[Google]] (7), business (2), [[Microsoft Products|Products]] (1), leadership (1), game (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), required to (1)
 > **CLI Commands:** find (1)
@@ -532,8 +534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Market Research]] (1), next (1), product (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
@@ -622,9 +624,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Design Thinking]] (3), functional (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** refers to (4), is a  (1)
 > **Code Identifiers:** iphone (1), iphones (1)
-> **Code Keywords:** finally, (1)
 
 #### Collaborative innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/collaborative-innovation?u=76281980)
@@ -697,11 +699,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (2), strengths (1), [[Open Innovation]] (1), leadership (1)
 > **Analogies:** such as (3), for instance (1)
 > **Env Vars:** lfp (2), oled (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** require (1)
 > **Code Identifiers:** iphone (1)
 
 #### Accelerating innovation with AI
@@ -785,16 +787,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), product (10), [[Microsoft Products|Products]] (3), data (3), database (3)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ibm (1)
 > **UI Navigation:** go to (1)
 
 
 ### 3. Theaters of Innovation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rethinking the target customer
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980)
@@ -883,8 +885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), llm (3), [[Microsoft Products|Products]] (2), product (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** llm (3), dec (2), ibm (1), ceo (1), mit (1)
-> **Code Keywords:** interface (1), finally, (1)
 > **Code Identifiers:** edx (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -972,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Microsoft Office]] (2), [[Microsoft]] (2), application (2), product (2)
 > **Env Vars:** crm (2)
 > **Definitions:** is an  (2)
 > **Code Identifiers:** iphone (1)
@@ -1047,6 +1049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Engineering]] (2), business (2), management (1)
 > **Env Vars:** led (1), co2 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -1140,14 +1143,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), finally, (1)
+> **Frameworks & Libraries:** ai (2), career (2), [[Google]] (1), data (1), next (1)
 > **Definitions:** is an  (2)
 > **Analogies:** it's like (1), such as (1)
 
 
 ### 4. The Role of Leaders
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of leaders in driving innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980)
@@ -1232,8 +1235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), cloud (2), power (1), [[E-Commerce]] (1), business (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), new. (1)
 > **Env Vars:** ceo (2)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
@@ -1315,15 +1318,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (2), ai (2), [[Performance Metrics]] (1), [[Product Development]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** ceo (1), b2c (1), b2b (1)
-> **Code Keywords:** require (2)
 > **Analogies:** similar to (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Balancing order and chaos in innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980)
@@ -1408,8 +1411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (2), business (1), [[Search]] (1), [[Android]] (1)
 > **Analogies:** such as (2), imagine (1), it's like (1)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
@@ -1464,8 +1467,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), ai (2), [[Microsoft]] (2), next (1), [[Design Thinking]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** new, (1), finally, (1)
 > **Env Vars:** ceo (2)
 
 

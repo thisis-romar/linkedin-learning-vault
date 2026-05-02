@@ -32,7 +32,7 @@ tags:
   - skill/bitbucket
   - skill/continuous-integration-and-continuous-delivery-ci-cd
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Bitbucket%20Pipelines%20for%20CI-CD.md)
@@ -51,37 +51,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - From commit to deployment with Bitbucket Pipelines
-  - What you should know
-  - Overview of CI/CD
-  - Understanding pipeline limits
+  - [From commit to deployment with Bitbucket Pipelines](#from-commit-to-deployment-with-bitbucket-pipelines)
+  - [What you should know](#what-you-should-know)
+  - [Overview of CI/CD](#overview-of-cicd)
+  - [Understanding pipeline limits](#understanding-pipeline-limits)
 - [**1. Getting Started with Bitbucket Pipelines**](#1-getting-started-with-bitbucket-pipelines) (7 videos)
-  - Create a pipeline
-  - Bitbucket Pipelines configuration
-  - Configure pipeline stages
-  - Configure pipeline triggers
-  - Use YAML anchors
-  - Challenge: Create a pipeline
-  - Solution: Create a pipeline
+  - [Create a pipeline](#create-a-pipeline)
+  - [Bitbucket Pipelines configuration](#bitbucket-pipelines-configuration)
+  - [Configure pipeline stages](#configure-pipeline-stages)
+  - [Configure pipeline triggers](#configure-pipeline-triggers)
+  - [Use YAML anchors](#use-yaml-anchors)
+  - [Challenge: Create a pipeline](#challenge-create-a-pipeline)
+  - [Solution: Create a pipeline](#solution-create-a-pipeline)
 - [**2. Working with Variables and Artifacts**](#2-working-with-variables-and-artifacts) (6 videos)
-  - Variables and secrets
-  - Use environment and deployment variables
-  - Create and share artifacts
-  - Create and download packages
-  - Challenge: Deploy an artifact
-  - Solution: Deploy an artifact
+  - [Variables and secrets](#variables-and-secrets)
+  - [Use environment and deployment variables](#use-environment-and-deployment-variables)
+  - [Create and share artifacts](#create-and-share-artifacts)
+  - [Create and download packages](#create-and-download-packages)
+  - [Challenge: Deploy an artifact](#challenge-deploy-an-artifact)
+  - [Solution: Deploy an artifact](#solution-deploy-an-artifact)
 - [**3. Configuring Build Environments**](#3-configuring-build-environments) (5 videos)
-  - Use default images and tools
-  - Use public and custom images
-  - Use services
-  - Challenge: Create a pipeline with images and services
-  - Solution: Create a pipeline with images and services
+  - [Use default images and tools](#use-default-images-and-tools)
+  - [Use public and custom images](#use-public-and-custom-images)
+  - [Use services](#use-services)
+  - [Challenge: Create a pipeline with images and services](#challenge-create-a-pipeline-with-images-and-services)
+  - [Solution: Create a pipeline with images and services](#solution-create-a-pipeline-with-images-and-services)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From commit to deployment with Bitbucket Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980)
@@ -102,9 +102,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Software Development]] (2), [[Automation]] (2), ci (2), cd (2)
 > **Tools:** bitbucket (3)
 > **CLI Commands:** cd (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [michael] (1)
 
@@ -171,6 +171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (7), aws (2), cloud (1), [[Git]] (1), [[Atlassian]] (1)
 > **CLI Commands:** find (3), aws (2), git (1), docker (1)
 > **Tools:** bitbucket (7)
 > **Env Vars:** yaml (3), aws (1)
@@ -220,9 +221,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (6), ci (5), [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (2)
 > **CLI Commands:** cd (6)
 > **Definitions:** known as (1), is an  (1), in other words (1)
-> **Code Keywords:** let (1), case, (1)
 > **Tools:** bitbucket (1)
 > **Speakers:** - [instructor] (1)
 
@@ -249,8 +250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (4), teams (1)
 > **Tools:** bitbucket (4)
-> **Code Keywords:** public (1), private (1)
 > **Env Vars:** lfs (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** known as (1)
@@ -259,7 +260,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Bitbucket Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980)
@@ -326,7 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Atlassian]] (2), [[Bitbucket]] (1), feature (1), application (1), [[Software Projects]] (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Definitions:** is a  (1), known as (1)
 > **Cross-References:** go back to (1)
@@ -387,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (1), let (1), continue (1), interface (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Software Development]] (1), parallel (1), web (1)
 > **CLI Commands:** find (2), docker (1)
 > **Tools:** bitbucket (3)
 > **Env Vars:** yaml (2)
@@ -423,7 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (1), parallel (1)
 > **Tools:** bitbucket (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -549,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2), require (1), continue (1)
+> **Frameworks & Libraries:** feature (7), [[Bitbucket]] (5), web (2), [[Security]] (1), [[Automation]] (1)
 > **Tools:** bitbucket (5)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
@@ -609,8 +610,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Bitbucket]] (1)
 > **Env Vars:** yaml (7), dry (3)
-> **Code Keywords:** override (3), case, (1), continue (1)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is an  (1), stands for (1)
 > **CLI Commands:** make (1)
@@ -671,10 +672,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (4), feature (2), [[Software Development]] (1), application (1), ci (1)
 > **Tools:** bitbucket (4)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** cd (1), find (1)
-> **Code Keywords:** public (1), require (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -838,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case. (2), case, (1), delete (1), interface (1)
+> **Frameworks & Libraries:** feature (12), parallel (8), next (3), [[Bitbucket]] (2), web (1)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** build_and_test (3), security_scan (2), deployment_to_staging (1)
 > **Env Vars:** yaml (4)
@@ -850,7 +851,7 @@ created: 2026-04-29
 
 ### 2. Working with Variables and Artifacts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Variables and secrets
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/variables-and-secrets?u=76281980)
@@ -941,9 +942,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), api (1), next (1), ci (1), cd (1)
 > **UI Navigation:** scroll down (4), select the (1)
 > **CLI Commands:** make (2), find (1), cd (1)
-> **Code Keywords:** let (2), pass (1), finally, (1)
 > **Env Vars:** api (1)
 > **Tools:** bitbucket (1)
 > **Exercise Files:** exercise files (1)
@@ -1007,7 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), override (1), default, (1), interface (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Software Development]] (1), web (1)
 > **Tools:** bitbucket (3)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Env Vars:** yaml (1)
@@ -1061,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), let (1), interface (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (1), web (1)
 > **Env Vars:** jar (1), zip (1)
 > **Warnings:** note that (1), keep in mind (1)
 > **Tools:** bitbucket (1)
@@ -1183,7 +1184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (1), default, (1), pass (1), interface (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (9), api (2), [[Tokens]] (2), feature (1), web (1)
 > **Tools:** bitbucket (9)
 > **Env Vars:** api (2), url (1), bitbucket_access_token (1)
 > **UI Navigation:** scroll down (3), open the (1)
@@ -1237,11 +1238,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), next (1)
 > **Exercise Files:** zip file (2), exercise files (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** cicd (1), url (1)
 > **Tools:** bitbucket (2)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1489,7 +1490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), interface (4), public (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (8), web (4), [[Git]] (4), [[Tokens]] (1)
 > **Tools:** bitbucket (8), terminal (2)
 > **CLI Commands:** make (4), git (4), find (1)
 > **UI Navigation:** go to (5), scroll down (3)
@@ -1501,7 +1502,7 @@ created: 2026-04-29
 
 ### 3. Configuring Build Environments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use default images and tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980)
@@ -1532,6 +1533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Linux]] (2), [[Atlassian]] (1), [[Ubuntu]] (1), web (1)
 > **Tools:** bitbucket (3)
 > **CLI Commands:** docker (2)
 > **Exercise Files:** exercise files (1)
@@ -1627,8 +1629,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), [[Bitbucket]] (4), [[Ubuntu]] (3), [[Node.js]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** apt (4), docker (2), node (2), python (2), make (1)
-> **Code Keywords:** public (3), let (3), override (2), continue (1), interface (1)
 > **Tools:** bitbucket (4)
 > **Prerequisites:** install (4)
 > **File Paths:** node.js (2)
@@ -1715,7 +1717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), interface (1), function (1)
+> **Frameworks & Libraries:** database (6), application (4), [[Bitbucket]] (3), [[PostgreSQL|Postgres]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (2), python (2)
 > **Tools:** bitbucket (3)
 > **Versions:** 127.0.0 (1), python 3 (1)
@@ -1769,6 +1771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), data (2), [[Microservices]] (2), [[Python (Programming Language)|Python]] (2), [[PostgreSQL|Postgres]] (2)
 > **CLI Commands:** python (2), ruby (2), make (2), find (1)
 > **Exercise Files:** exercise files (2)
 > **Cross-References:** in the next (1)
@@ -1997,8 +2000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (16), database (14), [[Bitbucket]] (8), [[Git]] (4), [[PostgreSQL|Postgres]] (3)
 > **CLI Commands:** ruby (17), python (16), make (6), git (4)
-> **Code Keywords:** let (25), from. (1), override (1), case, (1)
 > **Tools:** bitbucket (8), terminal (4)
 > **Env Vars:** yaml (11)
 > **Cross-References:** go back to (9)
@@ -2009,7 +2012,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980)
@@ -2030,9 +2033,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (5), ci (1), cd (1), next (1), [[LinkedIn]] (1)
 > **Tools:** bitbucket (5)
 > **CLI Commands:** cd (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [michael] (1)
 
 

@@ -21,7 +21,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20for%20Busy%20Professionals.md)
@@ -40,27 +40,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Anyone can do business analysis to solve problems
+  - [Anyone can do business analysis to solve problems](#anyone-can-do-business-analysis-to-solve-problems)
 - [**1. Know Your Business Inside Out**](#1-know-your-business-inside-out) (3 videos)
-  - Start with the business requirements
-  - Align with strategic planning and direction
-  - Business change opportunity
+  - [Start with the business requirements](#start-with-the-business-requirements)
+  - [Align with strategic planning and direction](#align-with-strategic-planning-and-direction)
+  - [Business change opportunity](#business-change-opportunity)
 - [**2. Analyze and Prioritize Your Options**](#2-analyze-and-prioritize-your-options) (3 videos)
-  - Options for reaching the desired future state
-  - Prioritize and validate solutions
-  - Assess capability gaps
+  - [Options for reaching the desired future state](#options-for-reaching-the-desired-future-state)
+  - [Prioritize and validate solutions](#prioritize-and-validate-solutions)
+  - [Assess capability gaps](#assess-capability-gaps)
 - [**3. Evaluate a Business Change Scenario**](#3-evaluate-a-business-change-scenario) (2 videos)
-  - Analyze a value proposition
-  - Set the change strategy
+  - [Analyze a value proposition](#analyze-a-value-proposition)
+  - [Set the change strategy](#set-the-change-strategy)
 - [**4. Craft a Bulletproof Business Case**](#4-craft-a-bulletproof-business-case) (2 videos)
-  - Analyze your risk, cost, and benefits
-  - Bring your stakeholders on board
+  - [Analyze your risk, cost, and benefits](#analyze-your-risk-cost-and-benefits)
+  - [Bring your stakeholders on board](#bring-your-stakeholders-on-board)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Three tips on turning your solution into action
+  - [Three tips on turning your solution into action](#three-tips-on-turning-your-solution-into-action)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Anyone can do business analysis to solve problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/anyone-can-do-business-analysis-to-solve-problems?u=76281980)
@@ -95,14 +95,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (1), let (1)
+> **Frameworks & Libraries:** business (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - trust (1)
 
 
 ### 1. Know Your Business Inside Out
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start with the business requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** business (5), [[Microsoft Outlook|Outlook]] (1), hr (1), next (1), [[Interviewing]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -255,6 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), management (3), [[Microsoft Office|Office]] (2), [[Operational Excellence]] (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
@@ -326,8 +327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (2), business (1), [[Search]] (1), [[Marketing Leadership]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -336,7 +337,7 @@ created: 2026-04-29
 
 ### 2. Analyze and Prioritize Your Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Options for reaching the desired future state
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/options-for-reaching-the-desired-future-state?u=76281980)
@@ -429,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break, (1), this, (1)
+> **Frameworks & Libraries:** web (1), [[Diagramming]] (1), data (1), hr (1)
 > **Exercise Files:** template (1), exercise file (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -521,7 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), this. (1)
+> **Frameworks & Libraries:** strengths (2), hr (1), teams (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** template (1)
 > **Definitions:** stands for (1)
@@ -614,8 +615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), business (3), [[Organizational Culture]] (3), teams (3), hr (1)
 > **Env Vars:** swot (3)
-> **Code Keywords:** let (1), new, (1)
 > **Analogies:** picture (1), just like (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
@@ -624,7 +625,7 @@ created: 2026-04-29
 
 ### 3. Evaluate a Business Change Scenario
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze a value proposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-a-value-proposition?u=76281980)
@@ -695,7 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** business (3), [[Representational State Transfer (REST)|Rest]] (2), hr (1), teams (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** think of it as (1), for example (1)
 > **Cross-References:** earlier in (1)
@@ -774,7 +775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), throw (1), include, (1), try. (1)
+> **Frameworks & Libraries:** hr (3), business (2), product (2), [[Microsoft Word|Word]] (1), teams (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (2)
@@ -784,7 +785,7 @@ created: 2026-04-29
 
 ### 4. Craft a Bulletproof Business Case
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze your risk, cost, and benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-your-risk-cost-and-benefits?u=76281980)
@@ -863,8 +864,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), hr (1), leadership (1), teams (1), product (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - my (1)
 
@@ -937,7 +938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type, (1), case, (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), leadership (2), data (1), next (1), hr (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
 > **Best Practices:** recommended (1)
@@ -946,7 +947,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three tips on turning your solution into action
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/three-tips-on-turning-your-solution-into-action?u=76281980)
@@ -1027,6 +1028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[LinkedIn]] (2), data (1)
 > **CLI Commands:** make (3), find (2)
 > **URLs:** [beyondbuzz.co](https://beyondbuzz.co) (1)
 > **Best Practices:** make sure to (1)

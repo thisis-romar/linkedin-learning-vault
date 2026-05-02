@@ -28,7 +28,7 @@ tags:
   - topic/devops
   - skill/kubernetes
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Kubernetes-%20Essential%20Tools.md)
@@ -47,35 +47,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Unlocking Kubernetes: Your essential tools guide
-  - Prerequisites
-  - An overview of essential Kubernetes tools
+  - [Unlocking Kubernetes: Your essential tools guide](#unlocking-kubernetes-your-essential-tools-guide)
+  - [Prerequisites](#prerequisites)
+  - [An overview of essential Kubernetes tools](#an-overview-of-essential-kubernetes-tools)
 - [**1. Kubernetes Command-Line Tools**](#1-kubernetes-command-line-tools) (3 videos)
-  - kubectl
-  - kubie
-  - K9s
+  - [kubectl](#kubectl)
+  - [kubie](#kubie)
+  - [K9s](#k9s)
 - [**2. Tools for Running Kubernetes**](#2-tools-for-running-kubernetes) (4 videos)
-  - minikube
-  - kubeadm
-  - kOps
-  - Managed Kubernetes platforms
+  - [minikube](#minikube)
+  - [kubeadm](#kubeadm)
+  - [kOps](#kops)
+  - [Managed Kubernetes platforms](#managed-kubernetes-platforms)
 - [**3. Kubernetes Development Tools**](#3-kubernetes-development-tools) (3 videos)
-  - Telepresence
-  - Tilt
-  - Lens IDE
+  - [Telepresence](#telepresence)
+  - [Tilt](#tilt)
+  - [Lens IDE](#lens-ide)
 - [**4. Kubernetes Deployment Tools**](#4-kubernetes-deployment-tools) (2 videos)
-  - Helm
-  - Kubespray
+  - [Helm](#helm)
+  - [Kubespray](#kubespray)
 - [**5. Kubernetes Monitoring Tools**](#5-kubernetes-monitoring-tools) (3 videos)
-  - Kubernetes Dashboard
-  - Prometheus
-  - Jaeger
+  - [Kubernetes Dashboard](#kubernetes-dashboard)
+  - [Prometheus](#prometheus)
+  - [Jaeger](#jaeger)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlocking Kubernetes: Your essential tools guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/unlocking-kubernetes-your-essential-tools-guide?u=76281980)
@@ -96,6 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (5), application (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** cncf (1)
 > **Speakers:** - [edidiong] (1)
@@ -113,6 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Microservices]] (1), [[Containerization]] (1), [[LinkedIn]] (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -146,7 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (14), application (2)
 > **Tools:** command line (1), terminal (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -154,7 +156,7 @@ created: 2026-04-29
 
 ### 1. Kubernetes Command-Line Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### kubectl
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980)
@@ -241,9 +243,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (16), api (2), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** ctl (15), api (2), xrl (1)
 > **CLI Commands:** kubectl (3), mongo (2), make (1)
-> **Code Keywords:** type, (2), type. (2), finally, (1), this. (1)
 > **Code Identifiers:** helloworld (3), macos (1)
 > **Analogies:** similar to (1), for instance (1)
 > **File Paths:** learning-is-fun.yaml (1)
@@ -289,8 +291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[GitHub]] (2), prompt (1), feature (1)
 > **CLI Commands:** kubectl (6), make (2), find (1), docker (1)
-> **Code Keywords:** switch (4)
 > **Analogies:** for instance (2), just like (1)
 > **Env Vars:** ctx (2)
 > **Tools:** github (2)
@@ -343,10 +345,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Linux]] (1), [[Windows]] (1), [[CLI]] (1), [[Search]] (1)
 > **Tools:** terminal (4), vim (2), command line (1)
 > **CLI Commands:** kubectl (3), find (2), brew (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** this, (2)
 > **Code Identifiers:** macos (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** cli (1)
@@ -355,7 +357,7 @@ created: 2026-04-29
 
 ### 2. Tools for Running Kubernetes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### minikube
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980)
@@ -402,6 +404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (13), feature (4), [[CLI]] (2), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** kubectl (3), docker (1), mongo (1)
 > **Env Vars:** cli (2)
 > **Analogies:** for instance (2)
@@ -451,10 +454,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (6), node (4), [[Linux]] (2), [[Automation]] (1), [[Ansible]] (1)
 > **Prerequisites:** configure (3), install (3), you need to have (1), set up (1), initialization (1)
 > **CLI Commands:** node (4), kubectl (2), ansible (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
-> **Code Keywords:** finally, (2)
 > **Env Vars:** ram (1), mac (1)
 > **Code Identifiers:** product_uuid (1)
 > **Speakers:** - [instructor] (1)
@@ -498,9 +501,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (5), cloud (2), [[Linux]] (1), [[Windows]] (1), aws (1)
 > **Code Identifiers:** kops (13), macos (1)
 > **CLI Commands:** kubectl (1), aws (1)
-> **Code Keywords:** delete (1), finally, (1)
 > **Env Vars:** aws (1), gce (1)
 > **Documentation:** specification (2)
 > **Prerequisites:** install (1), you need to have (1)
@@ -538,15 +541,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (11), [[Security]] (2), [[Orchestration]] (1), management (1), application (1)
 > **Prerequisites:** configure (1), set up (1)
-> **Code Keywords:** self (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Kubernetes Development Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Telepresence
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980)
@@ -623,8 +626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), application (6), [[Kubernetes]] (5), cloud (2), traffic (2)
 > **UI Navigation:** click on (5), go to (1), select the (1)
-> **Code Keywords:** this, (3), let (1), case, (1), finally, (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** url (2), cli (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -681,7 +684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), interface (1)
+> **Frameworks & Libraries:** application (11), web (2), [[Microservices]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Prerequisites:** set up (2), install (1)
 > **Tools:** terminal (2)
 > **CLI Commands:** make (1)
@@ -743,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), finally, (1), case, (1), switch (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Helm]] (3), cloud (2), [[Probability]] (1), [[Dashboards]] (1)
 > **Env Vars:** qctl (2), ide (1), gke (1), ekas (1), api (1)
 > **Tools:** terminal (2), docker desktop (1), command line (1)
 > **CLI Commands:** docker (1)
@@ -755,7 +758,7 @@ created: 2026-04-29
 
 ### 4. Kubernetes Deployment Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Helm
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980)
@@ -830,10 +833,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Helm]] (19), [[Kubernetes]] (11), application (4), [[Search]] (2), api (1)
 > **Prerequisites:** install (7)
 > **Env Vars:** yaml (3), api (1)
 > **CLI Commands:** apt (1), yum (1), find (1)
-> **Code Keywords:** let (1), finally, (1), continue (1)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1), for instance (1)
 > **Tools:** terminal (1)
@@ -874,11 +877,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Ansible]] (5), cloud (3), power (2), [[Automation]] (1)
 > **CLI Commands:** ansible (5), make (1), aws (1), python (1)
 > **Env Vars:** gke (1), eks (1), aks (1), aws (1), gcp (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** set up (2), install (1)
-> **Code Keywords:** public (1), finally, (1)
 > **Tools:** github (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -886,7 +889,7 @@ created: 2026-04-29
 
 ### 5. Kubernetes Monitoring Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kubernetes Dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980)
@@ -967,8 +970,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (25), node (4), application (2), data (2), web (1)
 > **Tools:** kubernetes dashboard (8), terminal (1), command line (1), github (1)
-> **Code Keywords:** interface (2), let (2), default. (1), default, (1), this, (1)
 > **CLI Commands:** node (4)
 > **Env Vars:** qctl (1), url (1), cpu (1)
 > **Analogies:** for instance (3)
@@ -1037,9 +1040,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (5), data (4), [[Orchestration]] (1), [[Helm]] (1)
 > **Prerequisites:** install (3)
 > **CLI Commands:** docker (2)
-> **Code Keywords:** finally, (1), require (1)
 > **Best Practices:** recommended (2)
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
@@ -1092,7 +1095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** application (4), [[Kubernetes]] (2), data (2), api (2), open-source (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Prerequisites:** install (2), set up (1)
 > **CLI Commands:** docker (1), find (1)
@@ -1104,7 +1107,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980)
@@ -1125,6 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Search]] (1), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** cncf (1)
 > **Documentation:** stack overflow (1)

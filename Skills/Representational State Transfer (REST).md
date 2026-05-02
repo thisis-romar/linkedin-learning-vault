@@ -9,7 +9,7 @@ level_advanced: 1
 tags:
   - skill
   - skill/representational-state-transfer-rest
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Representational%20State%20Transfer%20(REST).md)

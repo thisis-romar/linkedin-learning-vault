@@ -39,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Pair%20Programming%20with%20GitHub%20Copilot.md)
@@ -58,35 +58,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - GitHub Copilot and the GenAI revolution
+  - [GitHub Copilot and the GenAI revolution](#github-copilot-and-the-genai-revolution)
 - [**1. Getting Familiar with Copilot**](#1-getting-familiar-with-copilot) (5 videos)
-  - What is Copilot?
-  - Warning: Use responsibly
-  - Test flight
-  - Code completions
-  - Productivity tips and tricks for code completions
+  - [What is Copilot?](#what-is-copilot)
+  - [Warning: Use responsibly](#warning-use-responsibly)
+  - [Test flight](#test-flight)
+  - [Code completions](#code-completions)
+  - [Productivity tips and tricks for code completions](#productivity-tips-and-tricks-for-code-completions)
 - [**2. Building a Project with Copilot**](#2-building-a-project-with-copilot) (2 videos)
-  - What we will build
-  - Security considerations
+  - [What we will build](#what-we-will-build)
+  - [Security considerations](#security-considerations)
 - [**3. Back-End Code with Copilot**](#3-back-end-code-with-copilot) (5 videos)
-  - What Copilot Chat means for project boilerplate
-  - Brainstorming with Copilot conversational interface
-  - Creating a data model with Copilot with Code Completion
-  - Implementing a REST API with Copilot
-  - Test strategy and implementation with Chat Interface
+  - [What Copilot Chat means for project boilerplate](#what-copilot-chat-means-for-project-boilerplate)
+  - [Brainstorming with Copilot conversational interface](#brainstorming-with-copilot-conversational-interface)
+  - [Creating a data model with Copilot with Code Completion](#creating-a-data-model-with-copilot-with-code-completion)
+  - [Implementing a REST API with Copilot](#implementing-a-rest-api-with-copilot)
+  - [Test strategy and implementation with Chat Interface](#test-strategy-and-implementation-with-chat-interface)
 - [**4. Front-End Fun with Copilot**](#4-front-end-fun-with-copilot) (6 videos)
-  - Where Copilot differs in front-end work
-  - Consuming our API with client-side code
-  - Presentation logic and HTML
-  - Styles
-  - Copilot Chat Agent Mode
-  - GitHub Copilot extensions
+  - [Where Copilot differs in front-end work](#where-copilot-differs-in-front-end-work)
+  - [Consuming our API with client-side code](#consuming-our-api-with-client-side-code)
+  - [Presentation logic and HTML](#presentation-logic-and-html)
+  - [Styles](#styles)
+  - [Copilot Chat Agent Mode](#copilot-chat-agent-mode)
+  - [GitHub Copilot extensions](#github-copilot-extensions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Advance your AI skills with LinkedIn Learning
+  - [Advance your AI skills with LinkedIn Learning](#advance-your-ai-skills-with-linkedin-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub Copilot and the GenAI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980)
@@ -115,14 +115,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), [[Microsoft Copilot|Copilot]] (2), [[GitHub Copilot]] (1)
 > **Tools:** github (1)
 > **Speakers:** - use (1)
 
 
 ### 1. Getting Familiar with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980)
@@ -167,8 +167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (2), application (1), ai (1), data (1)
 > **Env Vars:** gpt (3)
-> **Code Keywords:** finally, (1), function (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -205,9 +205,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), power (1), [[Generative AI]] (1), [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1), for example (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - there (1)
 
 #### Test flight
@@ -321,7 +321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1), function (1), import, (1), super (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[GitHub]] (5), [[Programming]] (1), open-source (1), [[Codespaces]] (1)
 > **Code Identifiers:** lru_cache (4), average_age (2), test_flight (1), fibonacci_memoized (1)
 > **Env Vars:** ide (3), ages (3), five_names (1), map_name_to_age (1)
 > **Tools:** github (6), vs code (1)
@@ -381,7 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this, (1), from. (1)
+> **Frameworks & Libraries:** hit (3), [[GitHub Copilot]] (2), [[Microsoft Copilot|Copilot]] (2), next (1)
 > **Tools:** github (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -469,8 +469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Copilot|Copilot]] (3), next (2), [[GitHub Copilot]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** this, (1), this . (1), interface (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (2)
@@ -481,7 +481,7 @@ created: 2026-04-29
 
 ### 2. Building a Project with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What we will build
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-we-will-build?u=76281980)
@@ -508,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** [[Django]] (2), next (1), api (1), [[Representational State Transfer (REST)|Rest]] (1), [[Vanilla]] (1)
 > **Env Vars:** api (1), rest (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** it's like (1)
@@ -545,10 +545,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Security]] (4), application (2), [[GitHub]] (2), [[GitHub Copilot]] (2)
 > **Tools:** github (4)
 > **CLI Commands:** make (3)
 > **Exercise Files:** source code (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -556,7 +556,7 @@ created: 2026-04-29
 
 ### 3. Back-End Code with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What Copilot Chat means for project boilerplate
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980)
@@ -669,10 +669,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Python (Programming Language)|Python]] (4), [[Django]] (4), power (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), python (4), python3 (3), pip (2), cd (1)
 > **Tools:** terminal (6)
 > **File Paths:** manage.py (3), settings.py (1)
-> **Code Keywords:** let (2), if, (1)
 > **Best Practices:** best practice (2), always make sure (1)
 > **Prerequisites:** install (2), make sure you have (1)
 > **Code Identifiers:** expense_calculator (2)
@@ -699,6 +699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), database (2), application (1), front-end (1), api (1)
 > **Env Vars:** api (1), json (1)
 > **Speakers:** - [instructor] (1)
 
@@ -877,7 +878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (4), for. (1), super (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Python (Programming Language)|Python]] (6), [[Django]] (3), next (3), database (1)
 > **CLI Commands:** python (6), make (2)
 > **Tools:** terminal (8)
 > **File Paths:** manage.py (6), models.py (1)
@@ -1065,7 +1066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this, (2), from . (2), delete (2), this. (2)
+> **Frameworks & Libraries:** api (12), [[Microsoft Copilot|Copilot]] (7), [[Representational State Transfer (REST)|Rest]] (3), [[Routing]] (1), next (1)
 > **Env Vars:** api (8), rest (2), ide (1), rest_framework (1), default_permission_classes (1)
 > **Code Identifiers:** rest_framework (5), allow_any (3)
 > **UI Navigation:** go to (3)
@@ -1253,7 +1254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), this. (4), delete (4), this, (2), from . (1)
+> **Frameworks & Libraries:** api (4), [[Microsoft Copilot|Copilot]] (4), [[Django]] (3), [[Python (Programming Language)|Python]] (1), [[Search]] (1)
 > **CLI Commands:** find (5), python (1), make (1)
 > **Code Identifiers:** django_rest_framework (1), setup (1), bulk_create (1), teardown (1), assertequals (1)
 > **Env Vars:** api (2), crud (1), url (1)
@@ -1265,7 +1266,7 @@ created: 2026-04-29
 
 ### 4. Front-End Fun with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where Copilot differs in front-end work
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/where-copilot-differs-in-front-end-work?u=76281980)
@@ -1288,6 +1289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Front-End Development]] (1), data (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - i (1)
 
@@ -1494,7 +1496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), delete (5), finally, (1), type, (1), for, (1)
+> **Frameworks & Libraries:** api (9), [[Python (Programming Language)|Python]] (7), [[Microsoft Copilot|Copilot]] (5), [[HTML]] (2), [[JavaScript]] (2)
 > **Env Vars:** api (9), url (4), uri (3), html (2), json (2)
 > **CLI Commands:** python (7), make (2), git (1), cd (1), ls (1)
 > **Tools:** terminal (6), github (1)
@@ -1702,7 +1704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), delete (8), this. (3), function (2), const (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), api (2), [[HTML]] (2), [[JavaScript]] (2), next (2)
 > **Code Identifiers:** postexpense (4), renderexpense (3), addeventlistener (3), refreshtable (3), queryselector (3)
 > **Env Vars:** api (2), html (2)
 > **CLI Commands:** make (3)
@@ -1828,7 +1830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), delete (2), this. (1), self (1), class, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), application (3), css (2), [[HTML]] (2)
 > **Definitions:** is a  (3)
 > **File Paths:** index.html (2)
 > **CLI Commands:** find (1), make (1)
@@ -1958,7 +1960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (3), this, (2), this. (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), api (3), ai (3), [[Privacy]] (2), cd (2)
 > **CLI Commands:** make (6), cd (2), python3 (2), find (1), git (1)
 > **Tools:** visual studio (5), terminal (3), vs code (1)
 > **Env Vars:** api (3), url (1)
@@ -1988,6 +1990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub Copilot]] (3), [[Microsoft Copilot|Copilot]] (2)
 > **CLI Commands:** docker (2), make (2)
 > **Tools:** github (3)
 > **Definitions:** is a  (1)
@@ -1997,7 +2000,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advance your AI skills with LinkedIn Learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980)
@@ -2026,8 +2029,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[Git]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (2), game (1)
 > **CLI Commands:** git (2), find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - this (1)
 

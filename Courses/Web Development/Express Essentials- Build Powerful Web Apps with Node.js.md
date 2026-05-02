@@ -37,7 +37,7 @@ tags:
   - skill/web-application-development
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Express%20Essentials-%20Build%20Powerful%20Web%20Apps%20with%20Node.js.md)
@@ -56,39 +56,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Generate server-side code with Express
-  - What you should know
+  - [Generate server-side code with Express](#generate-server-side-code-with-express)
+  - [What you should know](#what-you-should-know)
 - [**1. Installation and First Steps: Node.js and Express**](#1-installation-and-first-steps-nodejs-and-express) (3 videos)
-  - What are Node.js and npm?
-  - What is Express?
-  - What is Express Application Generator?
+  - [What are Node.js and npm?](#what-are-nodejs-and-npm)
+  - [What is Express?](#what-is-express)
+  - [What is Express Application Generator?](#what-is-express-application-generator)
 - [**2. Express Basics**](#2-express-basics) (6 videos)
-  - Getting started: Server and project setup
-  - Mock data is served: Adding data to your server
-  - What are HTTP methods and routes?
-  - Postman: A free tool for testing
-  - Let's GET some data: Creating a basic data endpoint
-  - Serving static files with Express
+  - [Getting started: Server and project setup](#getting-started-server-and-project-setup)
+  - [Mock data is served: Adding data to your server](#mock-data-is-served-adding-data-to-your-server)
+  - [What are HTTP methods and routes?](#what-are-http-methods-and-routes)
+  - [Postman: A free tool for testing](#postman-a-free-tool-for-testing)
+  - [Let's GET some data: Creating a basic data endpoint](#lets-get-some-data-creating-a-basic-data-endpoint)
+  - [Serving static files with Express](#serving-static-files-with-express)
 - [**3. Express Routing Fundamentals**](#3-express-routing-fundamentals) (4 videos)
-  - What are routing parameters?
-  - What are route handlers?
-  - What are common methods for Express routing?
-  - What is route chaining in Express?
+  - [What are routing parameters?](#what-are-routing-parameters)
+  - [What are route handlers?](#what-are-route-handlers)
+  - [What are common methods for Express routing?](#what-are-common-methods-for-express-routing)
+  - [What is route chaining in Express?](#what-is-route-chaining-in-express)
 - [**4. Express Essentials: Middleware**](#4-express-essentials-middleware) (4 videos)
-  - What is middleware?
-  - Out of the box: Built-in middleware with Express
-  - Handling errors: Utilizing middleware for errors
-  - Third-party middleware: Suggestions and how to add it
+  - [What is middleware?](#what-is-middleware)
+  - [Out of the box: Built-in middleware with Express](#out-of-the-box-built-in-middleware-with-express)
+  - [Handling errors: Utilizing middleware for errors](#handling-errors-utilizing-middleware-for-errors)
+  - [Third-party middleware: Suggestions and how to add it](#third-party-middleware-suggestions-and-how-to-add-it)
 - [**5. Taking Express One Step Further**](#5-taking-express-one-step-further) (3 videos)
-  - How to debug your express application
-  - Using express with a database
-  - Security concerns and best practices
+  - [How to debug your express application](#how-to-debug-your-express-application)
+  - [Using express with a database](#using-express-with-a-database)
+  - [Security concerns and best practices](#security-concerns-and-best-practices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generate server-side code with Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** express (2), [[Full-Stack Development]] (1), [[Routing]] (1), full-stack (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [jamie] (1)
 
@@ -144,10 +144,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (3), [[Node.js]] (2), [[JavaScript]] (2), web (1)
 > **Tools:** terminal (4), visual studio (1), vs code (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
-> **Code Keywords:** require (1), let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** you'll need (1)
@@ -156,7 +156,7 @@ created: 2026-04-29
 
 ### 1. Installation and First Steps: Node.js and Express
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Node.js and npm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980)
@@ -227,10 +227,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (10), [[npm]] (8), node (8), express (5), [[JavaScript]] (4)
 > **CLI Commands:** node (18), npm (8), find (1)
 > **File Paths:** node.js (10)
 > **Env Vars:** npm (6), lts (2), mpm (1)
-> **Code Keywords:** let (5)
 > **Prerequisites:** install (4), required to (1)
 > **Tools:** terminal (2), command line (1)
 > **Analogies:** just like (2), similar to (1)
@@ -263,6 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (7), node (3), application (2), [[HTML]] (2), web (1)
 > **CLI Commands:** node (3), make (1)
 > **Env Vars:** html (2), api (1)
 > **Definitions:** is a  (2)
@@ -451,8 +452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (23), application (11), [[npm]] (6), next (3), [[Git]] (2)
 > **CLI Commands:** npm (6), make (2), find (2), git (2), mkdir (1)
-> **Code Keywords:** let (10), this, (1), public (1), pass (1), this. (1)
 > **Tools:** terminal (8), command line (4), vs code (2)
 > **Prerequisites:** install (7), set up (4), getting started (1)
 > **UI Navigation:** navigate to (3), open the (2), go to (2)
@@ -463,7 +464,7 @@ created: 2026-04-29
 
 ### 2. Express Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started: Server and project setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980)
@@ -696,9 +697,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (13), [[npm]] (9), [[JSON]] (8), next (6), [[JavaScript]] (5)
 > **CLI Commands:** make (15), npm (9), node (5), cd (1), mkdir (1)
 > **File Paths:** index.js (9), package.json (5), app.js (3), node.js (1), apt.js (1)
-> **Code Keywords:** let (6), function (4), module (2), pass (2), require (1)
 > **Tools:** terminal (10), command line (3), vs code (2)
 > **Prerequisites:** install (6), set up (4), setup (1), before we start (1)
 > **Env Vars:** es6 (7), json (2), port (1)
@@ -832,7 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from, (1), function (1)
+> **Frameworks & Libraries:** data (32), [[JSON]] (6), next (2), express (2), api (1)
 > **Env Vars:** json (4), http (2), api (1), csv (1)
 > **Tools:** terminal (4), command line (2), vs code (1)
 > **File Paths:** mock.json (3), index.js (1)
@@ -996,8 +997,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (3), application (2), express (2), web (1)
 > **Env Vars:** http (12), post (10), put (6), delete (4), crud (3)
-> **Code Keywords:** let (14), delete (10), function (4), pass (2)
 > **API Endpoints:** get  (7), put  (5), post  (4), get
  (2), delete
  (1)
@@ -1104,7 +1105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), let (3), new. (2), this, (1)
+> **Frameworks & Libraries:** next (3), data (1), express (1), prompt (1), hit (1)
 > **Tools:** postman (12)
 > **Definitions:** is a  (10)
 > **Env Vars:** http (5), url (3)
@@ -1174,7 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), pass (1)
+> **Frameworks & Libraries:** data (10), express (3), [[JSON]] (3), database (2), application (1)
 > **CLI Commands:** make (3), node (1)
 > **Tools:** postman (4)
 > **Env Vars:** http (1), url (1)
@@ -1320,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (11), let (7), public (7), pass (5), function (4)
+> **Frameworks & Libraries:** express (9), [[Fetch]] (1), data (1), [[HTML]] (1), css (1)
 > **CLI Commands:** make (4)
 > **Tools:** vs code (3), command line (1)
 > **Env Vars:** html (1), css (1), port (1)
@@ -1332,7 +1333,7 @@ created: 2026-04-29
 
 ### 3. Express Routing Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are routing parameters?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980)
@@ -1573,7 +1574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), pass (5), function (5), class. (3), delete (1)
+> **Frameworks & Libraries:** data (16), [[Routing]] (9), express (6), application (4), [[JavaScript]] (3)
 > **Env Vars:** url (4), crud (1), req (1), res (1)
 > **Prerequisites:** set up (6)
 > **Definitions:** is a  (2), means that (1), is an  (1), basically means (1)
@@ -1661,7 +1662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (4)
+> **Frameworks & Libraries:** next (13), express (2), [[JSON]] (2), hit (2), node (1)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** make (2), node (1)
 > **File Paths:** response.json (2)
@@ -1733,8 +1734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), [[LinkedIn]] (4), express (3), application (2), data (1)
 > **Env Vars:** json (3), url (2), http (1)
-> **Code Keywords:** let (3), pass (1)
 > **CLI Commands:** make (2)
 > **URLs:** [http://www.linkedin.com](http://www.linkedin.com) (1), [localhost:3000](https://localhost:3000) (1)
 > **UI Navigation:** go to (2)
@@ -1845,7 +1846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class, (4), class. (3), this, (2), case, (1)
+> **Frameworks & Libraries:** hit (4), express (2), [[Routing]] (1)
 > **Tools:** postman (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1)
@@ -1856,7 +1857,7 @@ created: 2026-04-29
 
 ### 4. Express Essentials: Middleware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is middleware?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980)
@@ -1891,7 +1892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** express (4), next (3), [[Routing]] (2), data (1), [[Forms]] (1)
 > **File Paths:** index.js (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -2062,7 +2063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), static (4), function (3), pass (3), this, (2)
+> **Frameworks & Libraries:** [[JSON]] (18), express (17), application (4), next (2), data (2)
 > **Env Vars:** json (9), url (5), post (2), http (2), key (2)
 > **Tools:** postman (6), terminal (5)
 > **File Paths:** express.json (7), node.js (1)
@@ -2184,7 +2185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (7), throw (4), pass (3), class. (1)
+> **Frameworks & Libraries:** next (3), application (2), express (1), hit (1), [[Routing]] (1)
 > **CLI Commands:** make (6)
 > **Ports:** :3000 (1), :300 (1), port 3000 (1)
 > **Tools:** terminal (3)
@@ -2252,7 +2253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (1), var (1), require (1), case, (1)
+> **Frameworks & Libraries:** express (6), [[npm]] (2), [[Security]] (1), api (1)
 > **Prerequisites:** install (4), set up (2)
 > **Env Vars:** npm (2), api (1), es6 (1)
 > **CLI Commands:** npm (2)
@@ -2264,7 +2265,7 @@ created: 2026-04-29
 
 ### 5. Taking Express One Step Further
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to debug your express application
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980)
@@ -2405,8 +2406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (12), [[JSON]] (8), application (4), [[npm]] (4), [[Windows]] (4)
 > **CLI Commands:** make (10), npm (4), node (2)
-> **Code Keywords:** let (10), module (2), this. (1), class, (1), for, (1)
 > **Env Vars:** debug (5), json (5), es6 (2), http (1)
 > **Tools:** terminal (10), command line (1)
 > **UI Navigation:** go to (4), scroll down (1)
@@ -2439,7 +2440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), module (1)
+> **Frameworks & Libraries:** database (5), express (4), data (3), [[MongoDB]] (2), [[Databases]] (1)
 > **Env Vars:** http (1)
 > **Tools:** github (1)
 > **UI Navigation:** click on (1)
@@ -2493,9 +2494,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), express (4), application (4), data (2), web (2)
 > **CLI Commands:** make (5), find (1), npm (1)
 > **Env Vars:** tls (2), http (2)
-> **Code Keywords:** let (1), module (1)
 > **Definitions:** is a  (2)
 > **Tools:** command line (1)
 > **Warnings:** keep in mind (1)
@@ -2504,7 +2505,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980)
@@ -2533,6 +2534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (8), [[LinkedIn]] (2), [[MongoDB]] (2), node (2), [[Node.js]] (1)
 > **CLI Commands:** node (3)
 > **Env Vars:** mean (1), mern (1)
 > **File Paths:** node.js (1)

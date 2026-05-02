@@ -31,7 +31,7 @@ tags:
   - skill/mysql
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%202%20Build%20a%20CMS.md)
@@ -50,63 +50,63 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - PHP with MySQL Essential Training: Build a CMS
-  - How to use the exercise files
+  - [PHP with MySQL Essential Training: Build a CMS](#php-with-mysql-essential-training-build-a-cms)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Create a Content Management System**](#1-create-a-content-management-system) (3 videos)
-  - Blueprint the application
-  - Set up the database
-  - Set up the project files
+  - [Blueprint the application](#blueprint-the-application)
+  - [Set up the database](#set-up-the-database)
+  - [Set up the project files](#set-up-the-project-files)
 - [**2. Build Dynamic Content Navigation**](#2-build-dynamic-content-navigation) (7 videos)
-  - List subjects
-  - Add pages for each subject
-  - Add page content
-  - Use navigation to select pages
-  - Highlight the current page
-  - Challenge: Collapsing navigation
-  - Solution: Collapsing navigation
+  - [List subjects](#list-subjects)
+  - [Add pages for each subject](#add-pages-for-each-subject)
+  - [Add page content](#add-page-content)
+  - [Use navigation to select pages](#use-navigation-to-select-pages)
+  - [Highlight the current page](#highlight-the-current-page)
+  - [Challenge: Collapsing navigation](#challenge-collapsing-navigation)
+  - [Solution: Collapsing navigation](#solution-collapsing-navigation)
 - [**3. Use Context and Options**](#3-use-context-and-options) (8 videos)
-  - The public context
-  - Skip hidden subjects and pages
-  - Use an option for conditional code
-  - Insecure Direct Object Reference (IDOR)
-  - Protect page visibility
-  - Allow HTML in dynamic content
-  - Challenge: Preview content
-  - Solution: Preview content
+  - [The public context](#the-public-context)
+  - [Skip hidden subjects and pages](#skip-hidden-subjects-and-pages)
+  - [Use an option for conditional code](#use-an-option-for-conditional-code)
+  - [Insecure Direct Object Reference (IDOR)](#insecure-direct-object-reference-idor)
+  - [Protect page visibility](#protect-page-visibility)
+  - [Allow HTML in dynamic content](#allow-html-in-dynamic-content)
+  - [Challenge: Preview content](#challenge-preview-content)
+  - [Solution: Preview content](#solution-preview-content)
 - [**4. Cookies and Sessions**](#4-cookies-and-sessions) (7 videos)
-  - Work with cookies
-  - Set and read cookie values
-  - Unset cookie values
-  - Work with sessions
-  - Set and read session values
-  - Challenge: Status messages
-  - Solution: Status messages
+  - [Work with cookies](#work-with-cookies)
+  - [Set and read cookie values](#set-and-read-cookie-values)
+  - [Unset cookie values](#unset-cookie-values)
+  - [Work with sessions](#work-with-sessions)
+  - [Set and read session values](#set-and-read-session-values)
+  - [Challenge: Status messages](#challenge-status-messages)
+  - [Solution: Status messages](#solution-status-messages)
 - [**5. Regulate Page Access**](#5-regulate-page-access) (10 videos)
-  - User authentication overview
-  - Create admins table
-  - Challenge: Build admin management
-  - Solution: Build admin management
-  - PHP password functions
-  - Authenticate user access
-  - Require authorization
-  - Log out a user
-  - Optional password updating
-  - Authorized previewing
+  - [User authentication overview](#user-authentication-overview)
+  - [Create admins table](#create-admins-table)
+  - [Challenge: Build admin management](#challenge-build-admin-management)
+  - [Solution: Build admin management](#solution-build-admin-management)
+  - [PHP password functions](#php-password-functions)
+  - [Authenticate user access](#authenticate-user-access)
+  - [Require authorization](#require-authorization)
+  - [Log out a user](#log-out-a-user)
+  - [Optional password updating](#optional-password-updating)
+  - [Authorized previewing](#authorized-previewing)
 - [**6. Nesting Related Resources**](#6-nesting-related-resources) (8 videos)
-  - Understand nested resources
-  - List pages by subject
-  - Use nested links
-  - Use nested redirects
-  - Add page count to each subject
-  - Scope page position by subject
-  - Challenge: Update positions
-  - Solution: Update positions
+  - [Understand nested resources](#understand-nested-resources)
+  - [List pages by subject](#list-pages-by-subject)
+  - [Use nested links](#use-nested-links)
+  - [Use nested redirects](#use-nested-redirects)
+  - [Add page count to each subject](#add-page-count-to-each-subject)
+  - [Scope page position by subject](#scope-page-position-by-subject)
+  - [Challenge: Update positions](#challenge-update-positions)
+  - [Solution: Update positions](#solution-update-positions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PHP with MySQL Essential Training: Build a CMS
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980)
@@ -133,8 +133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[MySQL]] (2), [[Content Management]] (1), next (1), database (1)
 > **CLI Commands:** php (3), mysql (2)
-> **Code Keywords:** public (1), protected (1), let (1)
 > **Env Vars:** php (3)
 > **Speakers:** - [kevin] (1)
 
@@ -189,10 +189,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[MySQL]] (3), data (3), [[PHP]] (2), web (2)
 > **CLI Commands:** make (4), mysql (3), php (2), find (2)
 > **Exercise Files:** exercise files (10)
 > **Env Vars:** mysql (3), php (2), sql (2)
-> **Code Keywords:** return, (1)
 > **Code Identifiers:** globe_bank (1)
 > **Tools:** command line (1)
 > **Analogies:** such as (1)
@@ -201,7 +201,7 @@ created: 2026-04-29
 
 ### 1. Create a Content Management System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blueprint the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980)
@@ -334,7 +334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), public (7), delete (2), protected (1), switch (1)
+> **Frameworks & Libraries:** [[PHP]] (2), web application (2), cms (2), web (2), [[Content Management]] (1)
 > **Env Vars:** crud (4), cms (2), php (1)
 > **CLI Commands:** make (3), php (2)
 > **UI Navigation:** click on (2), go to (2)
@@ -522,8 +522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (21), [[MySQL]] (13), data (5), [[Databases]] (4), web application (2)
 > **CLI Commands:** mysql (13), make (8), php (1)
-> **Code Keywords:** import. (3), let (3), case, (1), default, (1), from. (1)
 > **Code Identifiers:** globe_bank (9), subject_id (2), web_user (1)
 > **Tools:** command line (4), terminal (3), command prompt (1)
 > **Env Vars:** sql (2), php (1)
@@ -642,7 +642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (8), private (4), let (2), function (1)
+> **Frameworks & Libraries:** [[PHP]] (8), database (6), web (4), css (3), [[HTML]] (1)
 > **CLI Commands:** php (8), make (2), find (1)
 > **File Paths:** index.php (4), initialize.php (3), public_header.php (1), staff.css (1), public.css (1)
 > **Code Identifiers:** public_footer (4), public_header (3), require_once (1), url_for (1), gbi_logo (1)
@@ -654,7 +654,7 @@ created: 2026-04-29
 
 ### 2. Build Dynamic Content Navigation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### List subjects
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980)
@@ -795,7 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), public (7), let (7), pass (1), finally, (1)
+> **Frameworks & Libraries:** database (16), [[PHP]] (12), [[SQL]] (10), [[HTML]] (3), data (2)
 > **Env Vars:** sql (10), php (5), html (3), url (2)
 > **CLI Commands:** php (12), make (4), find (2)
 > **File Paths:** initialize.php (3), index.php (2), database.php (1), public_navigation.php (1)
@@ -961,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), pass (3), public (2), this. (1)
+> **Frameworks & Libraries:** database (3), [[SQL]] (3), [[PHP]] (1), [[MySQL]] (1)
 > **CLI Commands:** find (11), make (4), php (1), mysql (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (1), is called (1)
@@ -1109,7 +1109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), static (9), public (4), switch (3), private (1)
+> **Frameworks & Libraries:** database (11), [[PHP]] (9), [[Content Management]] (2), next (2), [[HTML]] (1)
 > **CLI Commands:** php (9), make (4), find (3), mysql (1)
 > **File Paths:** static_homepage.php (4), index.php (3), public/staffindex.php (1)
 > **Code Identifiers:** static_homepage (3), homepage_assets (1), page_assets (1), globe_bank (1)
@@ -1263,7 +1263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (2), super (1), pass (1), for. (1)
+> **Frameworks & Libraries:** [[HTML]] (8), database (4), [[PHP]] (4), data (1), hit (1)
 > **Env Vars:** url (6), html (3), todo (2)
 > **CLI Commands:** php (4), find (3), make (3)
 > **Code Identifiers:** page_id (3), nav_page (2), find_page_by_id (2), public_navigation (1), menu_name (1)
@@ -1383,7 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (2), public (1), if, (1), this, (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[HTML]] (2), data (2), css (1), leadership (1)
 > **CLI Commands:** php (5), make (2), find (1)
 > **Env Vars:** php (3), html (2), url (1)
 > **UI Navigation:** click on (4), scroll down (1), go to (1)
@@ -1461,8 +1461,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), feature (1), [[JavaScript]] (1), [[HTML]] (1), business (1)
 > **UI Navigation:** click on (5)
-> **Code Keywords:** let (2), public (1), default. (1)
 > **Env Vars:** php (2), html (1)
 > **CLI Commands:** php (2)
 > **Definitions:** means that (1), is a  (1)
@@ -1581,9 +1581,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1), [[PHP]] (1)
 > **Code Identifiers:** subject_id (10), page_id (5), nav_subject (1), find_pages_by_subject_id (1), mysqli_fetch_assoc (1)
 > **CLI Commands:** find (3), make (2), php (1)
-> **Code Keywords:** public (2), let (1)
 > **Env Vars:** url (1), html (1)
 > **File Paths:** index.php (1)
 > **Cross-References:** go back to (1)
@@ -1593,7 +1593,7 @@ created: 2026-04-29
 
 ### 3. Use Context and Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The public context
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980)
@@ -1716,7 +1716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (15), let (7), function (7), pass (2), delete (1)
+> **Frameworks & Libraries:** business (4), [[HTML]] (3), feature (2), [[SQL]] (2), next (2)
 > **CLI Commands:** find (4), make (3)
 > **Env Vars:** html (3), sql (2), crud (1)
 > **Cross-References:** go back to (2), in the next (2)
@@ -1822,7 +1822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (2), continue (2), this. (1), function (1)
+> **Frameworks & Libraries:** next (5), [[PHP]] (3), business (2), data (1), database (1)
 > **CLI Commands:** find (5), php (3)
 > **UI Navigation:** go to (3), click on (3)
 > **Env Vars:** php (2)
@@ -2012,7 +2012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), function (7), pass (6), public (3), else. (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[PHP]] (2), feature (1), business (1)
 > **CLI Commands:** find (8), make (4), php (2)
 > **Env Vars:** sql (5), where (3), php (1)
 > **Definitions:** is a  (3), is an  (2), means that (1)
@@ -2138,7 +2138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), public (6), protected (1), private (1)
+> **Frameworks & Libraries:** database (4), [[Security]] (3), application (2), [[PHP]] (2), data (2)
 > **Env Vars:** url (5), idor (1), owasp (1), ss48923 (1), php (1)
 > **CLI Commands:** make (5), php (2), find (1)
 > **UI Navigation:** click on (2)
@@ -2314,7 +2314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), pass (5), function (3), default. (1), case. (1)
+> **Frameworks & Libraries:** [[SQL]] (4), database (4), business (3), application (1), [[PHP]] (1)
 > **CLI Commands:** find (15), make (8), php (1)
 > **Env Vars:** sql (4), url (1), php (1)
 > **UI Navigation:** scroll up (2), click on (2), go to (1)
@@ -2470,8 +2470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (27), [[PHP]] (6), database (2), power (2), data (1)
 > **Env Vars:** html (27), php (6)
-> **Code Keywords:** let (19), public (5), function (3)
 > **CLI Commands:** php (6), make (4), find (2)
 > **Definitions:** is a  (3), stands for (1)
 > **Prerequisites:** install (2), before we start (1)
@@ -2530,7 +2530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), let (1), delete (1), this, (1), this. (1)
+> **Frameworks & Libraries:** feature (3), [[PHP]] (2), [[HTML]] (1), next (1)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** url (2), html (1)
 > **File Paths:** show.php (1), public/index.php (1)
@@ -2680,7 +2680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), public (5), pass (2), default, (1), case, (1)
+> **Frameworks & Libraries:** [[PHP]] (3), feature (1), application (1), [[HTML]] (1), hit (1)
 > **CLI Commands:** php (3), make (2), find (1)
 > **Env Vars:** url (3), html (1)
 > **File Paths:** index.php (2), show.php (1)
@@ -2692,7 +2692,7 @@ created: 2026-04-29
 
 ### 4. Cookies and Sessions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with cookies
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980)
@@ -2791,9 +2791,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[PHP]] (8), web (7), next (1), [[HTML]] (1)
 > **CLI Commands:** php (8), make (2)
 > **Env Vars:** php (5), html (1), http (1)
-> **Code Keywords:** let (2), this. (1), for, (1), delete (1)
 > **Cross-References:** we talked about (4), in the next (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **File Paths:** first.php (2), second.php (1)
@@ -3033,7 +3033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), super (5), function (2), public (2), for. (1)
+> **Frameworks & Libraries:** [[PHP]] (9), data (6), [[JavaScript]] (3), next (2), hit (2)
 > **Env Vars:** php (9), https (2), http (2), url (2), phb (1)
 > **CLI Commands:** php (9), make (2)
 > **File Paths:** language.php (3)
@@ -3099,7 +3099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), super (2), function (1)
+> **Frameworks & Libraries:** [[PHP]] (4), data (2), next (1)
 > **CLI Commands:** php (4)
 > **Env Vars:** php (4)
 > **UI Navigation:** go to (1)
@@ -3253,8 +3253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[PHP]] (7), web (4), next (2), strengths (1)
 > **CLI Commands:** php (7), find (2)
-> **Code Keywords:** let (3), delete (1), default, (1), default. (1)
 > **Env Vars:** php (4), html (1), url (1)
 > **Prerequisites:** configure (4)
 > **File Paths:** php.ini (2)
@@ -3467,7 +3467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), super (3), public (1), switch (1), function (1)
+> **Frameworks & Libraries:** [[PHP]] (17), data (3), database (3), application (1), next (1)
 > **CLI Commands:** php (17), make (8), find (2)
 > **File Paths:** login.php (4), initialize.php (3), index.php (2), logout.php (1), staff_header.php (1)
 > **Env Vars:** php (4), session (4), sessions (1)
@@ -3525,8 +3525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), database (2), application (1), next (1)
 > **CLI Commands:** make (5), php (3)
-> **Code Keywords:** delete (2), let (1), new. (1)
 > **File Paths:** new.php (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
@@ -3622,7 +3622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), delete (2), new. (1), new, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[PHP]] (2), application (1), data (1), database (1)
 > **CLI Commands:** php (2), make (2), find (1)
 > **File Paths:** new.php (1), edit.php (1), staff.css (1)
 > **Env Vars:** html (3)
@@ -3634,7 +3634,7 @@ created: 2026-04-29
 
 ### 5. Regulate Page Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### User authentication overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/user-authentication-overview-14245854?u=76281980)
@@ -3765,7 +3765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), protected (3), public (1), finally, (1), match. (1)
+> **Frameworks & Libraries:** application (5), database (5), [[Security]] (3), data (2), web application (1)
 > **Analogies:** it's like (2), imagine (1), picture (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we talked about (1), in the last (1)
@@ -3859,8 +3859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[MySQL]] (3), [[SQL]] (1), web (1), next (1)
 > **CLI Commands:** mysql (3), find (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** sql (1), create (1), table (1)
 > **Cross-References:** we talked about (2), in the last (1)
 > **Code Identifiers:** hashed_password (1), globe_bank (1)
@@ -3971,8 +3971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[PHP]] (3), web (3), management (2), data (1)
 > **CLI Commands:** make (5), php (3), find (2)
-> **Code Keywords:** delete (3), let (2)
 > **Env Vars:** php (3), crud (2)
 > **Definitions:** is a  (3)
 > **Best Practices:** don't forget (2)
@@ -4177,9 +4177,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (10), database (6), management (2), business (1), next (1)
 > **CLI Commands:** php (10), make (10), find (1)
 > **Code Identifiers:** find_all_admins (2), insert_admin (2), mysqli_fetch_association (1), is_post_request (1), mysqli_insert_id (1)
-> **Code Keywords:** let (5), function (2), type= (2), pass (2), new. (1)
 > **File Paths:** index.php (3), show.php (3), staff/admins/index.php (1), new.php (1), edit.php (1)
 > **Env Vars:** asc (2), php (1), url (1), select (1), insert (1)
 > **Definitions:** is an  (2), we call this (1), is a  (1)
@@ -4403,7 +4403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (7), else. (2), default, (2), public (2)
+> **Frameworks & Libraries:** database (9), [[PHP]] (8), [[Security]] (1), application (1), [[SQL]] (1)
 > **Env Vars:** bcrypt (9), php (8), isp (1), bcyrpt (1), sql (1)
 > **CLI Commands:** php (8), make (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -4667,7 +4667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), pass (4), function (3), private (1), else. (1)
+> **Frameworks & Libraries:** [[PHP]] (8), business (1), [[Security]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** password_verify (5), login_failure_msg (4), auth_functions (2), log_in_admin (2), session_regenerate_id (1)
 > **CLI Commands:** php (8), make (4), find (3)
 > **File Paths:** login.php (4), auth_functions.php (2), initialize.php (1), staff/login.php (1)
@@ -4817,7 +4817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), function (4), require (3), delete (3), new, (2)
+> **Frameworks & Libraries:** [[PHP]] (18), database (1), next (1)
 > **CLI Commands:** php (18), make (4), find (2)
 > **Code Identifiers:** require_login (11), admin_id (5), is_logged_in (4), off_functions (1)
 > **File Paths:** index.php (4), show.php (2), edit.php (2), off_functions.php (1), initialize.php (1)
@@ -4917,7 +4917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1), switch (1), function (1)
+> **Frameworks & Libraries:** [[PHP]] (4), database (2), business (1)
 > **File Paths:** logout.php (2), auth_functions.php (1), index.php (1)
 > **CLI Commands:** php (4)
 > **Code Identifiers:** admin_id (2), auth_functions (1), last_login (1)
@@ -5112,7 +5112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), require (1), function (1), pass (1), this. (1)
+> **Frameworks & Libraries:** database (5), [[SQL]] (1), [[PHP]] (1), hit (1)
 > **CLI Commands:** make (7), php (1)
 > **UI Navigation:** click on (1), go to (1), scroll up (1), scroll down (1)
 > **Env Vars:** sql (1), php (1)
@@ -5242,7 +5242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), public (5), function (3), this. (1), require (1)
+> **Frameworks & Libraries:** [[PHP]] (3), feature (2)
 > **CLI Commands:** make (4), php (3), find (2)
 > **Code Identifiers:** is_logged_in (3), auth_functions (1), require_login (1)
 > **File Paths:** index.php (2), auth_functions.php (1)
@@ -5253,7 +5253,7 @@ created: 2026-04-29
 
 ### 6. Nesting Related Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand nested resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/understand-nested-resources-14244850?u=76281980)
@@ -5322,7 +5322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), delete (1), super (1)
+> **Frameworks & Libraries:** data (2), application (1), database (1), [[PHP]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** php (1), make (1)
 > **Env Vars:** php (1)
@@ -5483,7 +5483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), delete (2), function (1), pass (1), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (9), hr (1), [[HTML]] (1), business (1), [[Security]] (1)
 > **CLI Commands:** php (9), make (4), find (4)
 > **File Paths:** index.php (5), show.php (3), staff/index.php (1)
 > **UI Navigation:** go to (4), click on (2), scroll down (1)
@@ -5715,7 +5715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), delete (6), new. (3), pass (3), this, (1)
+> **Frameworks & Libraries:** [[PHP]] (11), data (3), [[HTML]] (1), database (1), next (1)
 > **CLI Commands:** php (11), make (3), find (3)
 > **UI Navigation:** click on (9), go to (6), dropdown (1)
 > **File Paths:** show.php (3), new.php (3), edit.php (2), staffpagesindex.php (1), pagesindex.php (1)
@@ -5833,8 +5833,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[PHP]] (6), database (3), application (1), [[Forms]] (1)
 > **CLI Commands:** php (6), find (6), make (5)
-> **Code Keywords:** delete (10), new. (1), else. (1), require (1), case, (1)
 > **File Paths:** new.php (1), staff/pages/show.php (1), pages/show.php (1), delete.php (1), pages/index.php (1)
 > **Env Vars:** url (3)
 > **Cross-References:** go back to (2), in the last (1)
@@ -6037,7 +6037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (4), new. (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[SQL]] (6), data (6), [[PHP]] (4), [[MySQL]] (3), database (1)
 > **Code Identifiers:** mysqli_fetch_row (4), find_pages_by_subject_id (3), count_pages_by_subject_id (3), mysqli_num_rows (2), page_count (2)
 > **CLI Commands:** php (4), make (3), mysql (3), find (2)
 > **Env Vars:** sql (6), count (3), order (1), php (1)
@@ -6199,7 +6199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (2), switch (2), function (1), new. (1)
+> **Frameworks & Libraries:** [[PHP]] (2), data (2), next (1), feature (1), [[AJAX]] (1)
 > **CLI Commands:** make (3), find (3), php (2)
 > **Cross-References:** in the last (2), we talked about (1), go back to (1)
 > **UI Navigation:** go to (2), click on (2)
@@ -6410,7 +6410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (5), function (2), this, (1), this. (1)
+> **Frameworks & Libraries:** [[SQL]] (3), business (2), [[MySQL]] (2), database (1), next (1)
 > **CLI Commands:** make (5), mysql (2)
 > **Code Identifiers:** subject_id (3), shift_subject_positions (2), current_id (2)
 > **Cross-References:** earlier in (3), later in (2), in the next (1)
@@ -6662,7 +6662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), delete (7), finally, (2), function (1), case. (1)
+> **Frameworks & Libraries:** [[SQL]] (5), database (5), business (2), data (1), next (1)
 > **Code Identifiers:** old_position (5), shift_subject_positions (3), old_subject (2), shift_page_positions (2), old_page (2)
 > **CLI Commands:** make (8), find (3)
 > **Env Vars:** sql (5), crud (1)
@@ -6674,7 +6674,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980)
@@ -6705,9 +6705,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[PHP]] (2), [[MySQL]] (2), [[Content Management]] (2), [[HTML]] (1)
 > **CLI Commands:** php (2), mysql (2)
 > **Env Vars:** php (2), mysql (1), html (1)
-> **Code Keywords:** public (2), require (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Benefits%20of%20GitHub%20Community.md)
@@ -46,23 +46,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why the GitHub community is important
+  - [Why the GitHub community is important](#why-the-github-community-is-important)
 - [**1. Benefits of the open source community**](#1-benefits-of-the-open-source-community) (5 videos)
-  - What is Open Source
-  - Sponsoring and being sponsored
-  - How GitHub supports open source
-  - Community members and organizations
-  - The benefits of the GitHub marketplace
+  - [What is Open Source](#what-is-open-source)
+  - [Sponsoring and being sponsored](#sponsoring-and-being-sponsored)
+  - [How GitHub supports open source](#how-github-supports-open-source)
+  - [Community members and organizations](#community-members-and-organizations)
+  - [The benefits of the GitHub marketplace](#the-benefits-of-the-github-marketplace)
 - [**2. Open Source Applications**](#2-open-source-applications) (5 videos)
-  - What is Innersource
-  - What is Forking?
-  - Discoverable repositories
-  - Creating issue templates
-  - Pull request templates
+  - [What is Innersource](#what-is-innersource)
+  - [What is Forking?](#what-is-forking)
+  - [Discoverable repositories](#discoverable-repositories)
+  - [Creating issue templates](#creating-issue-templates)
+  - [Pull request templates](#pull-request-templates)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why the GitHub community is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980)
@@ -83,15 +83,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (2)
 > **CLI Commands:** git (2), find (1)
 > **Tools:** github (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - with (1)
 
 
 ### 1. Benefits of the open source community
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Open Source
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-open-source?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), this, (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (2), cloud (1)
 > **Tools:** github (4)
 > **CLI Commands:** git (2), make (1)
 > **Definitions:** is a  (1)
@@ -187,6 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (6), [[GitHub]] (5), [[WordPress]] (3), [[Linux]] (2), [[Microsoft Products|Products]] (1)
 > **Tools:** github (5)
 > **URLs:** [wordpress.com](https://wordpress.com) (1), [github.com](https://github.com) (1)
 > **File Paths:** vue.js (1)
@@ -228,9 +229,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Automation]] (1), data (1)
 > **Tools:** github (6)
 > **CLI Commands:** find (3)
-> **Code Keywords:** public (1), private (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - besides (1)
 
@@ -263,7 +264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -293,6 +294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Programming]] (1), api (1), [[Statistics]] (1), application (1)
 > **Tools:** github (4)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** api (1)
@@ -303,7 +305,7 @@ created: 2026-04-29
 
 ### 2. Open Source Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Innersource
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980)
@@ -338,6 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), open-source (2), [[Security]] (2), application (1), [[Agile Development|Agile]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** we call this (1)
@@ -370,8 +373,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** default, (1)
 > **Tools:** github (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - one (1)
@@ -435,8 +438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Search]] (2), next (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** private (3), public (2)
 > **Tools:** github (3)
 > **Env Vars:** readme (2)
 > **UI Navigation:** drag and drop (1)
@@ -485,10 +488,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), [[GitHub]] (1), [[Forms]] (1)
 > **Env Vars:** issues_templates (1), yaml (1), issue_template (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), default. (1)
 > **File Paths:** config.yml (1)
 > **Cross-References:** go back to (1)
 > **Tools:** github (1)
@@ -515,6 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Exercise Files:** template (3)
 > **File Paths:** template.md (1)
 > **Tools:** github (1)

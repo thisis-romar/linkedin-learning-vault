@@ -31,7 +31,7 @@ tags:
   - skill/data-structures
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Applied%20Data%20Structures.md)
@@ -50,39 +50,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Wrangling data in C#
-  - What you should know
+  - [Wrangling data in C#](#wrangling-data-in-c)
+  - [What you should know](#what-you-should-know)
 - [**1. Overview of Data Structures**](#1-overview-of-data-structures) (4 videos)
-  - Basic C# data structures
-  - Introduction to C# data collections
-  - Generic vs. non-generic collections
-  - Selecting a data structure class
+  - [Basic C# data structures](#basic-c-data-structures)
+  - [Introduction to C# data collections](#introduction-to-c-data-collections)
+  - [Generic vs. non-generic collections](#generic-vs-non-generic-collections)
+  - [Selecting a data structure class](#selecting-a-data-structure-class)
 - [**2. Basic Data Structures**](#2-basic-data-structures) (6 videos)
-  - Basic List operations
-  - Searching List content
-  - LinkedList
-  - List vs. LinkedList comparison
-  - Challenge: Shopping list
-  - Solution: Shopping list
+  - [Basic List operations](#basic-list-operations)
+  - [Searching List content](#searching-list-content)
+  - [LinkedList](#linkedlist)
+  - [List vs. LinkedList comparison](#list-vs-linkedlist-comparison)
+  - [Challenge: Shopping list](#challenge-shopping-list)
+  - [Solution: Shopping list](#solution-shopping-list)
 - [**3. Advanced Data Structures**](#3-advanced-data-structures) (5 videos)
-  - Stacks
-  - Queues
-  - Dictionaries
-  - Challenge: Balance the statement
-  - Solution: Balance the statement
+  - [Stacks](#stacks)
+  - [Queues](#queues)
+  - [Dictionaries](#dictionaries)
+  - [Challenge: Balance the statement](#challenge-balance-the-statement)
+  - [Solution: Balance the statement](#solution-balance-the-statement)
 - [**4. Specialized Data Structures**](#4-specialized-data-structures) (6 videos)
-  - ListDictionary and HybridDictionary
-  - OrderedDictionary
-  - StringCollection
-  - StringBuilder
-  - Challenge: Strings
-  - Solution: Strings
+  - [ListDictionary and HybridDictionary](#listdictionary-and-hybriddictionary)
+  - [OrderedDictionary](#ordereddictionary)
+  - [StringCollection](#stringcollection)
+  - [StringBuilder](#stringbuilder)
+  - [Challenge: Strings](#challenge-strings)
+  - [Solution: Strings](#solution-strings)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrangling data in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/wrangling-data-in-c-sharp?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (7), application (1), [[Software Development]] (1)
 > **Env Vars:** net (1)
 > **Speakers:** - working (1)
 
@@ -182,19 +182,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), data (1), feature (1), [[Search]] (1)
 > **Tools:** github (3), terminal (3), visual studio (1)
 > **CLI Commands:** make (3), find (2), dotnet (1)
 > **Prerequisites:** set up (2), before you begin (1), setup (1), install (1), you'll need (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Env Vars:** net (3)
-> **Code Keywords:** let (2)
 > **Exercise Files:** download the (1), zip file (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Overview of Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic C# data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-c-sharp-data-structures?u=76281980)
@@ -391,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), var (5), case, (2), function (2), type. (2)
+> **Frameworks & Libraries:** data (18), next (1), hit (1)
 > **CLI Commands:** make (4), dotnet (4)
 > **Tools:** terminal (4), visual studio (1)
 > **Definitions:** is a  (3), in other words (1), is an  (1)
@@ -453,8 +453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), generic (2), application (1), next (1)
 > **Env Vars:** net (5)
-> **Code Keywords:** implements (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -490,8 +490,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (13), data (6), [[Microsoft]] (2), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** net (3)
-> **Code Keywords:** let (1), type. (1)
 > **Versions:** 2.0 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -543,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), finally, (1), type. (1)
+> **Frameworks & Libraries:** data (18), application (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** lifo (1), fifo (1)
 > **Analogies:** such as (2)
@@ -553,7 +553,7 @@ created: 2026-04-29
 
 ### 2. Basic Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic List operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-list-operations?u=76281980)
@@ -676,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (8), pass (2), class. (1), this. (1)
+> **Frameworks & Libraries:** generic (3), data (2), [[Search]] (1)
 > **Code Identifiers:** strlist (9)
 > **Tools:** terminal (3)
 > **Analogies:** similar to (1), for example (1), just like (1)
@@ -771,7 +771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), let (11), lambda (3), finally, (2), for. (1)
+> **Frameworks & Libraries:** data (3), [[Search]] (2)
 > **CLI Commands:** find (11), make (1), dotnet (1)
 > **Code Identifiers:** strlist (4)
 > **Analogies:** for example (2), imagine (1)
@@ -951,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (8), switch (1), class. (1), pass (1)
+> **Frameworks & Libraries:** node (11), next (6), data (3), generic (2)
 > **CLI Commands:** node (11), find (5), dotnet (1), make (1)
 > **Tools:** terminal (5)
 > **Analogies:** for example (2), imagine (1), such as (1), just like (1)
@@ -1010,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1062,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), class. (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1108,7 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1117,7 +1117,7 @@ created: 2026-04-29
 
 ### 3. Advanced Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stacks?u=76281980)
@@ -1222,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (5), module (1)
+> **Frameworks & Libraries:** data (4), generic (1), [[Search]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (2)
@@ -1325,7 +1325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), function (7), class, (1), this. (1), case, (1)
+> **Frameworks & Libraries:** data (6), generic (1), [[Search]] (1)
 > **Code Identifiers:** myq (5)
 > **Analogies:** similar to (3), just like (1)
 > **Tools:** terminal (3)
@@ -1480,7 +1480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (4), finally, (2), case, (2), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (7), product (2), data (1), application (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** filetypes (7), filettypes (1)
 > **Env Vars:** html (4), jpeg (1), net (1)
 > **Analogies:** for example (4), imagine (1)
@@ -1550,7 +1550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), this, (1), try, (1)
+> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **Tools:** vs code (1), terminal (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** in other words (1)
@@ -1600,7 +1600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), this. (1), match, (1), for. (1)
+> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -1609,7 +1609,7 @@ created: 2026-04-29
 
 ### 4. Specialized Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ListDictionary and HybridDictionary
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/listdictionary-and-hybriddictionary?u=76281980)
@@ -1710,7 +1710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (3), implements (1), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Search]] (1)
 > **Code Identifiers:** myhbd (5), caseinsensitive (1)
 > **CLI Commands:** make (1), find (1), dotnet (1)
 > **Tools:** terminal (1)
@@ -1807,7 +1807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (3), module (1), pass (1), type, (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (4)
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll down (1)
@@ -1920,7 +1920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (4), module (1), finally, (1)
+> **Frameworks & Libraries:** data (3), generic (1), application (1), [[Search]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1), for example (1)
 > **Cross-References:** go back to (1)
@@ -2041,7 +2041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5), module (1), this. (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1)
 > **Tools:** terminal (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ghi (1)
@@ -2108,7 +2108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), this. (2), pass (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), data (4), [[Programming]] (1), next (1)
 > **Cross-References:** earlier in (2), we covered (1), go back to (1)
 > **CLI Commands:** find (1)
 > **Tools:** terminal (1)
@@ -2196,7 +2196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), pass (1), interface (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), data (2), next (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -2206,7 +2206,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/next-steps?u=76281980)
@@ -2229,6 +2229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **Env Vars:** net (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [joe] (1)

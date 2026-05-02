@@ -36,7 +36,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%207%20Smart%20Contracts.md)
@@ -55,24 +55,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Learning about Smart Contracts**](#1-learning-about-smart-contracts) (14 videos)
-  - Smart contracts review
-  - What is the supply chain?
-  - Supply chain challenges and blockchain solutions
-  - Blockchain solution examples
-  - Ethereum tokens
-  - Supply chain project
-  - Exploring solidity
-  - Defining types of data
-  - Data types
-  - Solidity data modifiers, part 1
-  - Solidity data modifiers, part 2
-  - Revisiting gas
-  - Controlling flow
-  - Handling errors
+  - [Smart contracts review](#smart-contracts-review)
+  - [What is the supply chain?](#what-is-the-supply-chain)
+  - [Supply chain challenges and blockchain solutions](#supply-chain-challenges-and-blockchain-solutions)
+  - [Blockchain solution examples](#blockchain-solution-examples)
+  - [Ethereum tokens](#ethereum-tokens)
+  - [Supply chain project](#supply-chain-project)
+  - [Exploring solidity](#exploring-solidity)
+  - [Defining types of data](#defining-types-of-data)
+  - [Data types](#data-types)
+  - [Solidity data modifiers, part 1](#solidity-data-modifiers-part-1)
+  - [Solidity data modifiers, part 2](#solidity-data-modifiers-part-2)
+  - [Revisiting gas](#revisiting-gas)
+  - [Controlling flow](#controlling-flow)
+  - [Handling errors](#handling-errors)
 
 ### 1. Learning about Smart Contracts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Smart contracts review
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980)
@@ -145,7 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Smart Contracts]] (10), data (9), [[Blockchain]] (8), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), in other words (1), means that (1)
 > **Speakers:** - okay (1)
 
@@ -290,7 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), pass (1), from. (1), for, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), next (3), product (2), [[Microsoft Products|Products]] (1), data (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Cross-References:** in the next (1)
@@ -445,7 +445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), else, (1), interface (1)
+> **Frameworks & Libraries:** data (29), product (6), [[Blockchain]] (6), [[Smart Contracts]] (3), [[Databases]] (2)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** means that (1), in other words (1)
@@ -529,8 +529,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (14), [[Cryptocurrency]] (3), [[Tokens]] (2), data (1), hit (1)
 > **Env Vars:** po8 (7), evoo (3)
-> **Code Keywords:** let (4)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we talked about (1), in the last (1)
@@ -640,9 +640,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (14), [[Ethereum]] (5), [[Cryptocurrency]] (4), data (2), [[Smart Contracts]] (1)
 > **Env Vars:** erc (10), usd (1)
 > **Definitions:** is a  (4), means that (2), in other words (2), is called (1)
-> **Code Keywords:** let (5), else. (1), this, (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
 > **URLs:** [etherscan.io](https://etherscan.io) (1)
@@ -826,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), pass (2), let (2), function (2), throw (1)
+> **Frameworks & Libraries:** product (12), data (8), [[Smart Contracts]] (3), [[Blockchain]] (3), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (4)
 > **Env Vars:** rfid (1)
 > **Cross-References:** go back to (1)
@@ -1040,7 +1040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (2), throw (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Solidity]] (16), [[Smart Contracts]] (7), [[Blockchain]] (7), [[Programming]] (3), [[JavaScript]] (3)
 > **Definitions:** is a  (6), in other words (4), means that (2)
 > **CLI Commands:** make (7)
 > **Versions:** 0.5.0 (2), version 0 (1), 0.6 (1), 0.5.10 (1)
@@ -1168,8 +1168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Blockchain]] (10), database (5), [[Solidity]] (3), product (2)
 > **Definitions:** is a  (4), in other words (2), means that (1), is called (1)
-> **Code Keywords:** let (2), delete (2)
 > **Env Vars:** evm (3)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Cross-References:** in the next (1)
@@ -1353,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (4), function (3), case, (2), default, (1)
+> **Frameworks & Libraries:** data (27), [[Solidity]] (9), next (6), [[Blockchain]] (5), product (3)
 > **Definitions:** is a  (6), is an  (4), means that (1), stands for (1)
 > **CLI Commands:** make (4), find (2), cd (1)
 > **Code Identifiers:** bmsg (2), isethereumcool (1), smsg (1)
@@ -1451,7 +1451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), private (5), public (3), let (2), interface (2)
+> **Frameworks & Libraries:** api (2), [[Solidity]] (1), data (1), application (1), parallel (1)
 > **Definitions:** means that (6), in other words (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
@@ -1547,7 +1547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (25), public (7), private (6), let (4), case, (2)
+> **Frameworks & Libraries:** product (4), data (3), [[Blockchain]] (2), [[React.js|React]] (1), feature (1)
 > **Code Identifiers:** setbmsg (4), getstatevariables (3), newvalue (3), bmsg (3)
 > **Definitions:** is a  (3), means that (2), in other words (1)
 > **CLI Commands:** find (3), make (1)
@@ -1659,7 +1659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Ethereum]] (2), [[Solidity]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** basically means (1), means that (1), is called (1)
 > **Env Vars:** evm (1)
@@ -1898,7 +1898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (10), case, (7), private (2), else. (2)
+> **Frameworks & Libraries:** [[Solidity]] (6), next (2), [[Programming]] (2), data (1), application (1)
 > **Code Identifiers:** numdonuts (14), givedozenprice (12), calcdozendiscountif (2), calcdozendiscountwhile (1), calcdozendiscountdo (1)
 > **Definitions:** is a  (6), is an  (4), is called (1), means that (1)
 > **CLI Commands:** make (2)
@@ -2026,7 +2026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), assert (6), throw (4), let (3), this, (3)
+> **Frameworks & Libraries:** [[Solidity]] (5), data (2), [[Algorithms]] (1), [[Blockchain]] (1), next (1)
 > **Definitions:** in other words (2), is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)

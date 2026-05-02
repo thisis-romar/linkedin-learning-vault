@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/application-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Project%20with%20the%20ChatGPT%20API.md)
@@ -54,55 +54,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to the OpenAI API
-  - Review the OpenAI API scenario
+  - [Introduction to the OpenAI API](#introduction-to-the-openai-api)
+  - [Review the OpenAI API scenario](#review-the-openai-api-scenario)
 - [**1. Understanding the OpenAI Platform**](#1-understanding-the-openai-platform) (3 videos)
-  - Explore the OpenAI platform
-  - Understand generative AI models
-  - Access models using the OpenAI API
+  - [Explore the OpenAI platform](#explore-the-openai-platform)
+  - [Understand generative AI models](#understand-generative-ai-models)
+  - [Access models using the OpenAI API](#access-models-using-the-openai-api)
 - [**2. Exploring the OpenAI API**](#2-exploring-the-openai-api) (8 videos)
-  - Create chatbots using chat completion
-  - Generate text using text completion
-  - Measure relatedness using embeddings
-  - Turn audio into text using Whisper
-  - Generate images using DALL-E
-  - Customize a model using fine-tuning
-  - Examine key concepts
-  - Understand pricing models
+  - [Create chatbots using chat completion](#create-chatbots-using-chat-completion)
+  - [Generate text using text completion](#generate-text-using-text-completion)
+  - [Measure relatedness using embeddings](#measure-relatedness-using-embeddings)
+  - [Turn audio into text using Whisper](#turn-audio-into-text-using-whisper)
+  - [Generate images using DALL-E](#generate-images-using-dall-e)
+  - [Customize a model using fine-tuning](#customize-a-model-using-fine-tuning)
+  - [Examine key concepts](#examine-key-concepts)
+  - [Understand pricing models](#understand-pricing-models)
 - [**3. Setting Up Your Environment**](#3-setting-up-your-environment) (3 videos)
-  - Install Python and Jupyter Notebook
-  - Sign up for an OpenAI API account
-  - Test the APIs
+  - [Install Python and Jupyter Notebook](#install-python-and-jupyter-notebook)
+  - [Sign up for an OpenAI API account](#sign-up-for-an-openai-api-account)
+  - [Test the APIs](#test-the-apis)
 - [**4. Writing a Prompt for ChatGPT**](#4-writing-a-prompt-for-chatgpt) (4 videos)
-  - Explore chat completion API call
-  - Review chat completion API response
-  - Challenge: Build a dialog using chat completion
-  - Solution: Build a dialog using chat completion
+  - [Explore chat completion API call](#explore-chat-completion-api-call)
+  - [Review chat completion API response](#review-chat-completion-api-response)
+  - [Challenge: Build a dialog using chat completion](#challenge-build-a-dialog-using-chat-completion)
+  - [Solution: Build a dialog using chat completion](#solution-build-a-dialog-using-chat-completion)
 - [**5. Constructing a Multi-Turn Conversation with ChatGPT**](#5-constructing-a-multi-turn-conversation-with-chatgpt) (3 videos)
-  - Construct a multi-turn conversation
-  - Challenge: Generate tweet content using chat completion
-  - Solution: Generate tweet content using chat completion
+  - [Construct a multi-turn conversation](#construct-a-multi-turn-conversation)
+  - [Challenge: Generate tweet content using chat completion](#challenge-generate-tweet-content-using-chat-completion)
+  - [Solution: Generate tweet content using chat completion](#solution-generate-tweet-content-using-chat-completion)
 - [**6. Generating an Image Using DALL-E**](#6-generating-an-image-using-dall-e) (4 videos)
-  - Explore images API call
-  - Review images API response
-  - Challenge: Generate images using images API
-  - Solution: Generate images using images API
+  - [Explore images API call](#explore-images-api-call)
+  - [Review images API response](#review-images-api-response)
+  - [Challenge: Generate images using images API](#challenge-generate-images-using-images-api)
+  - [Solution: Generate images using images API](#solution-generate-images-using-images-api)
 - [**7. Integrating with the Twitter API**](#7-integrating-with-the-twitter-api) (4 videos)
-  - Sign up for a Twitter API account
-  - Explore Twitter API call and response
-  - Challenge: Post a tweet using the Twitter API
-  - Solution: Post a tweet using the Twitter API
+  - [Sign up for a Twitter API account](#sign-up-for-a-twitter-api-account)
+  - [Explore Twitter API call and response](#explore-twitter-api-call-and-response)
+  - [Challenge: Post a tweet using the Twitter API](#challenge-post-a-tweet-using-the-twitter-api)
+  - [Solution: Post a tweet using the Twitter API](#solution-post-a-tweet-using-the-twitter-api)
 - [**8. Troubleshooting Errors and Getting Help**](#8-troubleshooting-errors-and-getting-help) (2 videos)
-  - Understand common error codes
-  - Get help from the community
+  - [Understand common error codes](#understand-common-error-codes)
+  - [Get help from the community](#get-help-from-the-community)
 - [**9. Effectively Managing API Costs**](#9-effectively-managing-api-costs) (1 videos)
-  - Manage your spend
+  - [Manage your spend](#manage-your-spend)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your OpenAI API journey
+  - [Your OpenAI API journey](#your-openai-api-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980)
@@ -123,6 +123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (1), power (1), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **Speakers:** - you (1)
 
 #### Review the OpenAI API scenario
@@ -166,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[ChatGPT]] (2), [[OpenAI API]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[DALL-E]] (1)
 > **Env Vars:** api (2), dall (1)
 > **CLI Commands:** python (1), make (1)
 > **Exercise Files:** exercise files (1), download the (1)
@@ -176,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Understanding the OpenAI Platform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the OpenAI platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980)
@@ -235,8 +237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (10), ai (6), power (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), next (2)
 > **Env Vars:** gpt (11), dall (2), api (2)
-> **Code Keywords:** let (4), interface (2)
 > **Definitions:** is an  (3), is a  (1)
 > **Versions:** 3.5 (3)
 > **Cross-References:** later in (1)
@@ -303,9 +305,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[ChatGPT]] (4), [[Generative AI]] (3), ai (3), [[Reinforcement Learning]] (2)
 > **Env Vars:** gpt (12), nlp (1), rlhf (1), api (1)
 > **Versions:** 3.5 (5), 3.0 (1), 4.0 (1)
-> **Code Keywords:** new, (1), continue (1), let (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -370,8 +372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), [[Tokens]] (7), application (4), prompt (3), next (3)
 > **Env Vars:** api (12), tpm (1)
-> **Code Keywords:** interface (1), this, (1), case, (1), let (1)
 > **Versions:** 3.5 (3), 0.002 (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** for example (1), for instance (1)
@@ -380,7 +382,7 @@ created: 2026-04-29
 
 ### 2. Exploring the OpenAI API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create chatbots using chat completion
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980)
@@ -469,8 +471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), api (3), [[ChatGPT]] (2), [[Tokens]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** gpt (4), api (3)
-> **Code Keywords:** pass (2), let (2), this. (1), this, (1)
 > **Tools:** jupyter (2), github (1), postman (1)
 > **CLI Commands:** python (2), curl (1)
 > **Definitions:** is a  (2), known as (1)
@@ -545,8 +547,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), [[OpenAI API]] (4), prompt (3), [[Probability]] (3), ai (2)
 > **Env Vars:** api (16), gpt (5)
-> **Code Keywords:** let (3)
 > **CLI Commands:** python (1), curl (1)
 > **Versions:** 0.5 (1), 3.0 (1)
 > **Analogies:** imagine (1), similar to (1)
@@ -635,7 +637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1)
+> **Frameworks & Libraries:** api (5), [[Microsoft Word|Word]] (3), product (2), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1)
 > **CLI Commands:** find (2), cat (2), python (2), curl (1)
 > **Env Vars:** api (5)
 > **Definitions:** is a  (4), known as (1)
@@ -711,7 +713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), from, (1), case, (1)
+> **Frameworks & Libraries:** web (2), ai (2), [[Python (Programming Language)|Python]] (2), [[Speech Recognition]] (1), data (1)
 > **Env Vars:** url (2), mp3 (1), mp4 (1), gpt (1), api (1)
 > **CLI Commands:** python (2), curl (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -839,8 +841,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (13), prompt (7), api (7), [[Python (Programming Language)|Python]] (2), next (2)
 > **Env Vars:** dall (13), api (7), url (1)
-> **Code Keywords:** let (12), this. (1), this, (1), interface (1), case. (1)
 > **CLI Commands:** python (2), curl (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Code Identifiers:** create_edit (1), create_variation (1)
@@ -1001,7 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case. (1), from. (1), type. (1), pass (1)
+> **Frameworks & Libraries:** data (15), prompt (5), next (2), [[OpenAI API]] (1), api (1)
 > **Env Vars:** gpt (4), api (2), csv (2), jsonl (1)
 > **UI Navigation:** scroll down (5)
 > **Analogies:** imagine (2), for example (1)
@@ -1073,7 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), pass (1)
+> **Frameworks & Libraries:** next (5), [[Tokens]] (4), [[Probability]] (4), data (2), [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** max_tokens (1), presence_penalty (1), frequency_penalty (1)
 > **Versions:** 0.1 (2), 2.26 (1)
 > **Env Vars:** gpt (1), llm (1)
@@ -1129,8 +1131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (7), api (5), [[ChatGPT]] (4), [[OpenAI API]] (2), prompt (2)
 > **Env Vars:** api (7)
-> **Code Keywords:** interface (1), let (1)
 > **Versions:** 0.0015 (1), 0.002 (1)
 > **CLI Commands:** make (1)
 > **URLs:** [openai.com](https://openai.com) (1)
@@ -1140,7 +1142,7 @@ created: 2026-04-29
 
 ### 3. Setting Up Your Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install Python and Jupyter Notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980)
@@ -1217,11 +1219,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[OpenAI API]] (2), next (2), api (2), [[ChatGPT]] (1)
 > **CLI Commands:** python (17), pip (10), make (2), python3 (1), pip3 (1)
 > **Tools:** jupyter (11), terminal (2)
 > **Prerequisites:** install (6), configure (1), you'll need (1)
 > **Versions:** python 3 (3), 7.1 (1), 8.9 (1), 3.4 (1), 3.8 (1)
-> **Code Keywords:** interface (3), let (2)
 > **Env Vars:** api (4), cli (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
@@ -1281,10 +1283,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (20), application (2), [[OpenAI API]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Env Vars:** api (21)
 > **Prerequisites:** you'll need (3), set up (2), configure (1)
 > **UI Navigation:** click on (3), navigate to (1), go to (1)
-> **Code Keywords:** pass (1), let (1), case, (1), delete (1)
 > **CLI Commands:** python (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Cross-References:** in the next (1)
@@ -1371,8 +1373,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), application (2), [[Windows]] (1), [[OpenAI API]] (1), prompt (1)
 > **Env Vars:** api (13), gpt (3), url (2)
-> **Code Keywords:** let (6), pass (1), interface (1)
 > **CLI Commands:** curl (6), find (1)
 > **Tools:** postman (3), terminal (1)
 > **Versions:** 3.5 (2), 0.5 (1)
@@ -1383,7 +1385,7 @@ created: 2026-04-29
 
 ### 4. Writing a Prompt for ChatGPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore chat completion API call
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980)
@@ -1500,8 +1502,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (16), [[Python (Programming Language)|Python]] (4), application (2), [[ChatGPT]] (1), ai (1)
 > **Env Vars:** api (16), gpt (2), url (1), json (1)
-> **Code Keywords:** let (7), case, (2), interface (1), include. (1), this. (1)
 > **CLI Commands:** python (4), make (1)
 > **Tools:** postman (5)
 > **Best Practices:** recommended (5)
@@ -1620,7 +1622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type. (1)
+> **Frameworks & Libraries:** [[Tokens]] (7), next (6), api (4), prompt (3), ai (2)
 > **Env Vars:** api (4), gpt (3)
 > **UI Navigation:** scroll down (4)
 > **Versions:** 3.5 (3)
@@ -1658,7 +1660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** api (2), ai (1)
 > **Env Vars:** api (2)
 > **Tools:** jupyter (1)
 > **Prerequisites:** set up (1)
@@ -1740,7 +1742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), module (1)
+> **Frameworks & Libraries:** next (4), ai (3), api (3), [[Python (Programming Language)|Python]] (1), [[OpenAI API]] (1)
 > **Env Vars:** api (4)
 > **UI Navigation:** scroll down (4)
 > **Code Identifiers:** get_completion (2), generate_prompt (1)
@@ -1752,7 +1754,7 @@ created: 2026-04-29
 
 ### 5. Constructing a Multi-Turn Conversation with ChatGPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Construct a multi-turn conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980)
@@ -1853,7 +1855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (1), function (1), case, (1)
+> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (3), ai (3), next (3), api (2)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Env Vars:** api (2)
 > **Tools:** jupyter (2)
@@ -1887,7 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** ai (2), prompt (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -2000,7 +2002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), module (1)
+> **Frameworks & Libraries:** next (11), [[LinkedIn]] (6), prompt (5), api (4), ai (3)
 > **Definitions:** is an  (3), is called (1), is a  (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** python (1), make (1)
@@ -2012,7 +2014,7 @@ created: 2026-04-29
 
 ### 6. Generating an Image Using DALL-E
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore images API call
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980)
@@ -2103,8 +2105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), prompt (5), [[DALL-E]] (3), [[Generative AI]] (1), [[OpenAI API]] (1)
 > **Env Vars:** api (12), dall (3), url (2)
-> **Code Keywords:** let (8), pass (1), finally, (1), function (1)
 > **Tools:** postman (2), jupyter (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (1)
@@ -2205,7 +2207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (2), continue (1)
+> **Frameworks & Libraries:** prompt (4), api (2), [[JSON]] (2), [[Python (Programming Language)|Python]] (2), web (1)
 > **Env Vars:** url (6), api (2), png (1), json (1), dall (1)
 > **UI Navigation:** navigate to (3), scroll down (3)
 > **CLI Commands:** python (2)
@@ -2235,7 +2237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** prompt (2), api (1)
 > **Env Vars:** api (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - let (1)
@@ -2294,7 +2296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), this. (1), case. (1)
+> **Frameworks & Libraries:** prompt (2), api (2), next (2), career (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** generate_image (2), image_url (1)
 > **Env Vars:** api (2), url (1)
 > **CLI Commands:** python (1)
@@ -2306,7 +2308,7 @@ created: 2026-04-29
 
 ### 7. Integrating with the Twitter API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign up for a Twitter API account
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980)
@@ -2355,10 +2357,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), next (2), [[Tokens]] (2), ai (1), web (1)
 > **Env Vars:** api (6), http (1)
 > **UI Navigation:** click on (3), navigate to (2), select the (1), scroll down (1)
 > **CLI Commands:** make (5), python (1)
-> **Code Keywords:** let (3), case, (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2423,7 +2425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), interface (3), this, (1), delete (1)
+> **Frameworks & Libraries:** api (6), next (4), [[Python (Programming Language)|Python]] (3), [[Search]] (1), data (1)
 > **Env Vars:** api (6), http (2), pip (1)
 > **CLI Commands:** python (3), pip (1)
 > **Tools:** jupyter (3)
@@ -2461,8 +2463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), ai (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (5), rest (1)
-> **Code Keywords:** function (2), interface (2)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
 > **Best Practices:** don't forget (1)
@@ -2576,7 +2578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (7), pass (2), case, (1), delete (1)
+> **Frameworks & Libraries:** api (10), next (5), ai (4), [[Python (Programming Language)|Python]] (2), aws (2)
 > **Env Vars:** api (10), aws (2), url (2), http (1), rest (1)
 > **Code Identifiers:** upload_image (2), send_tweet (2), download_image (1), dalle_image (1), media_upload (1)
 > **CLI Commands:** pip (2), python (2), aws (2), make (1)
@@ -2588,7 +2590,7 @@ created: 2026-04-29
 
 ### 8. Troubleshooting Errors and Getting Help
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand common error codes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-common-error-codes?u=76281980)
@@ -2651,9 +2653,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), [[Troubleshooting]] (2), [[Python (Programming Language)|Python]] (2), hit (1), management (1)
 > **Env Vars:** api (6)
 > **CLI Commands:** make (3), python (2)
-> **Code Keywords:** let (3), this. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** make sure to (1)
@@ -2694,7 +2696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Search]] (1), api (1), next (1), [[Microsoft Office|Office]] (1), prompt (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -2703,7 +2705,7 @@ created: 2026-04-29
 
 ### 9. Effectively Managing API Costs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage your spend
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980)
@@ -2762,8 +2764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (6), ai (3), traffic (2), prompt (1), api (1)
 > **Prerequisites:** you'll need (2), configure (1)
-> **Code Keywords:** pass (1), let (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -2772,7 +2774,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your OpenAI API journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980)
@@ -2805,7 +2807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** ai (2), [[ChatGPT]] (1), power (1), [[Prompt Engineering]] (1), [[Generative AI]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)
 

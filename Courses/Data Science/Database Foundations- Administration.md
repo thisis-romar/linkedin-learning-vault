@@ -36,7 +36,7 @@ tags:
   - topic/software-development
   - skill/database-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations-%20Administration.md)
@@ -55,45 +55,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Administer a database server
-  - What you should know
-  - How to work with the exercise files
+  - [Administer a database server](#administer-a-database-server)
+  - [What you should know](#what-you-should-know)
+  - [How to work with the exercise files](#how-to-work-with-the-exercise-files)
 - [**1. Backup and Restore**](#1-backup-and-restore) (8 videos)
-  - Backup plans
-  - Create a PostgreSQL backup
-  - Use pg_dump in the Postgres container
-  - Restore a Postgres database
-  - Create a full SQL Server backup
-  - Restore a SQL Server database
-  - Incremental and differential backups
-  - Point-in-time restores
+  - [Backup plans](#backup-plans)
+  - [Create a PostgreSQL backup](#create-a-postgresql-backup)
+  - [Use pg_dump in the Postgres container](#use-pg_dump-in-the-postgres-container)
+  - [Restore a Postgres database](#restore-a-postgres-database)
+  - [Create a full SQL Server backup](#create-a-full-sql-server-backup)
+  - [Restore a SQL Server database](#restore-a-sql-server-database)
+  - [Incremental and differential backups](#incremental-and-differential-backups)
+  - [Point-in-time restores](#point-in-time-restores)
 - [**2. Server Security**](#2-server-security) (5 videos)
-  - Principals and securables
-  - Server authentication and login accounts
-  - Granting and revoking permissions
-  - PostgreSQL role permissions
-  - SQL Server user permissions
+  - [Principals and securables](#principals-and-securables)
+  - [Server authentication and login accounts](#server-authentication-and-login-accounts)
+  - [Granting and revoking permissions](#granting-and-revoking-permissions)
+  - [PostgreSQL role permissions](#postgresql-role-permissions)
+  - [SQL Server user permissions](#sql-server-user-permissions)
 - [**3. Database Security**](#3-database-security) (4 videos)
-  - View permissions on PostgreSQL
-  - View permissions on SQL Server
-  - Column-level permissions
-  - Group permissions
+  - [View permissions on PostgreSQL](#view-permissions-on-postgresql)
+  - [View permissions on SQL Server](#view-permissions-on-sql-server)
+  - [Column-level permissions](#column-level-permissions)
+  - [Group permissions](#group-permissions)
 - [**4. High Availability**](#4-high-availability) (4 videos)
-  - Managing server uptime
-  - Standby servers
-  - Synchronize servers with log shipping
-  - Server failover clusters
+  - [Managing server uptime](#managing-server-uptime)
+  - [Standby servers](#standby-servers)
+  - [Synchronize servers with log shipping](#synchronize-servers-with-log-shipping)
+  - [Server failover clusters](#server-failover-clusters)
 - [**5. Health and Maintenance of the System**](#5-health-and-maintenance-of-the-system) (4 videos)
-  - Server maintenance tasks
-  - Closing user sessions
-  - Reviewing system statistics
-  - Reading system logs
+  - [Server maintenance tasks](#server-maintenance-tasks)
+  - [Closing user sessions](#closing-user-sessions)
+  - [Reviewing system statistics](#reviewing-system-statistics)
+  - [Reading system logs](#reading-system-logs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Administer a database server
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980)
@@ -122,7 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** database (3), data (2), [[Hardware]] (2), [[LinkedIn]] (1), [[Relational Databases]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [adam] (1)
 
@@ -141,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[SQL]] (1), [[Databases]] (1), data (1), management (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -269,8 +270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (20), data (7), [[PostgreSQL]] (7), [[Databases]] (7), [[Microsoft SQL Server|Sql server]] (6)
 > **CLI Commands:** make (6), find (3), docker (2)
-> **Code Keywords:** let (7), continue (2), delete (1), case, (1)
 > **Env Vars:** sql (6), rdbms (1), dbs4 (1), dbf (1)
 > **UI Navigation:** click on (4), scroll up (1), scroll down (1)
 > **Exercise Files:** exercise files (3), download the (1)
@@ -281,7 +282,7 @@ created: 2026-04-29
 
 ### 1. Backup and Restore
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Backup plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980)
@@ -364,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** database (16), data (7), [[Databases]] (4), business (3), [[Hardware]] (2)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rdbms (2)
@@ -437,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), this, (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (5), database (5), data (4), [[PostgreSQL|Postgres]] (3), [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** docker (3)
 > **Versions:** version 13 (2), 12.4 (1)
 > **UI Navigation:** click on (3)
@@ -581,8 +582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[PostgreSQL]] (5), [[Microsoft Azure|Azure]] (4), data (4), [[Linux]] (3)
 > **CLI Commands:** docker (9), make (3), cp (2), cd (1)
-> **Code Keywords:** let (4), interface (3), this, (1), finally, (1), pass (1)
 > **Tools:** terminal (4), command line (3), powershell (1), command prompt (1), bash (1)
 > **Env Vars:** dir (4), sql (3), dbf (1)
 > **Cross-References:** as we saw (1), go back to (1)
@@ -799,10 +800,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), [[PostgreSQL]] (7), [[SQL]] (6), [[Windows]] (5), next (5)
 > **CLI Commands:** docker (8), make (4), find (2), psql (2), mkdir (1)
 > **Code Identifiers:** two_trees_phoenix (5), two_trees_backup (4), two_trees_db (1), cd_backups (1), macos (1)
 > **Tools:** terminal (4), powershell (3), bash (3), command prompt (2), command line (1)
-> **Code Keywords:** let (3), finally, (1), case, (1), switch (1), delete (1)
 > **Env Vars:** rdbms (3), sql (2), postgresql_password (1)
 > **File Paths:** two_trees_backup.sql (3), postgresql.txt (1), tilda/desktop/two_trees_backup.sql (1)
 > **Exercise Files:** exercise files (2)
@@ -941,8 +942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[Microsoft SQL Server|Sql server]] (8), data (6), [[PostgreSQL]] (3), [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** sql (10), rdbms (5), var (1), opt (1), mssql (1)
-> **Code Keywords:** protected (2), let (2), interface (2), var (2), from, (1)
 > **CLI Commands:** docker (4), cp (3), make (2)
 > **Analogies:** just like (6), for example (1), picture (1), for instance (1)
 > **Tools:** terminal (3), command line (1)
@@ -1011,8 +1012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (19), [[Microsoft SQL Server|Sql server]] (7), [[PostgreSQL]] (2), [[Databases]] (2), [[SQL]] (1)
 > **Env Vars:** sql (8), rdbms (1)
-> **Code Keywords:** let (2), delete (1), this, (1), var (1)
 > **CLI Commands:** docker (2), make (2)
 > **UI Navigation:** click on (2)
 > **Code Identifiers:** two_trees_sql_server (1)
@@ -1098,8 +1099,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), data (5), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (11), find (1)
-> **Code Keywords:** switch (1), require (1)
 > **Env Vars:** rdbms (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1199,10 +1200,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), data (5), [[Databases]] (3), next (2), [[Relational Databases]] (1)
 > **Env Vars:** rdbms (2), null (2), sql (1), select (1), lsn (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1), is a  (1), stands for (1)
-> **Code Keywords:** function (1), let (1)
 > **Code Identifiers:** fn_dblog (1)
 > **SQL:** select (1)
 > **UI Navigation:** click on (1)
@@ -1211,7 +1212,7 @@ created: 2026-04-29
 
 ### 2. Server Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Principals and securables
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980)
@@ -1274,8 +1275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[Security]] (1), [[Databases]] (1), [[Human Resources (HR)|Human resources]] (1), product (1)
 > **Analogies:** such as (2), just like (1)
-> **Code Keywords:** public (1), protected (1)
 > **Env Vars:** sql (1), rdbms (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1338,8 +1339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), management (1), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** rdbms (2), sql (1)
-> **Code Keywords:** finally, (1), this, (1)
 > **CLI Commands:** docker (1)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
@@ -1421,8 +1422,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (3), [[SQL]] (2)
 > **Env Vars:** table (6), grant (5), select (4), insert (3), rdbms (2)
-> **Code Keywords:** delete (5), require (1), this. (1), finally, (1)
 > **SQL:** select (4), update (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (2)
@@ -1600,8 +1601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[PostgreSQL]] (8), data (5), [[PostgreSQL|Postgres]] (4), [[Databases]] (3)
 > **Env Vars:** select (4), schema (4), role (2), revoke (2), drop (2)
-> **Code Keywords:** let (6), delete (2), this, (1), finally, (1)
 > **SQL:** select (4), update (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (3)
@@ -1819,8 +1820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (23), [[Microsoft SQL Server|Sql server]] (14), [[Security]] (7), [[Databases]] (6), [[PostgreSQL]] (3)
 > **Env Vars:** sql (16), login (3), create (2), user (2), select (2)
-> **Code Keywords:** let (13), delete (3), finally, (1)
 > **UI Navigation:** click on (8), in the sidebar (1), right-click (1), select the (1)
 > **CLI Commands:** find (5), make (1)
 > **Analogies:** similar to (1), for instance (1), just like (1), picture (1)
@@ -1830,7 +1831,7 @@ created: 2026-04-29
 
 ### 3. Database Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### View permissions on PostgreSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980)
@@ -1945,7 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), super (1), case, (1), delete (1)
+> **Frameworks & Libraries:** database (10), [[PostgreSQL]] (4), [[PostgreSQL|Postgres]] (2), [[Security]] (1), next (1)
 > **Definitions:** is a  (3), is an  (1), in other words (1), means that (1), known as (1)
 > **UI Navigation:** right-click (3), click on (1), in the sidebar (1)
 > **Code Identifiers:** role_table_grants (2), pg_user (1), information_schema (1)
@@ -2043,8 +2044,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[Microsoft SQL Server|Sql server]] (6), data (3), [[PostgreSQL]] (2), [[Security]] (2)
 > **Env Vars:** sql (6), login (2), create (1), user (1), without (1)
-> **Code Keywords:** let (5), delete (2), finally, (1), type, (1)
 > **CLI Commands:** find (1), make (1)
 > **File Paths:** permissions.sqlserver.txt (1)
 > **UI Navigation:** right-click (1)
@@ -2146,9 +2147,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (2), feature (1)
 > **Env Vars:** select (8), sql (4), rdbms (2), current_user (2), grant (1)
 > **SQL:** select (8), update (1)
-> **Code Keywords:** let (6), switch (2)
 > **Analogies:** such as (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [lecturer] (1)
@@ -2212,7 +2213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), require (1), delete (1)
+> **Frameworks & Libraries:** business (3), data (3), database (2), [[Human Resources (HR)|Human resources]] (2), next (1)
 > **Code Identifiers:** human_resources (3)
 > **Env Vars:** rdbms (2), sql (1)
 > **Analogies:** just like (1), for example (1), such as (1)
@@ -2222,7 +2223,7 @@ created: 2026-04-29
 
 ### 4. High Availability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing server uptime
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/managing-server-uptime?u=76281980)
@@ -2257,6 +2258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (1), [[Hardware]] (1), business (1), next (1)
 > **Versions:** 99.9 (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** required to (1)
@@ -2349,9 +2351,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (3), [[Databases]] (1), [[Hardware]] (1)
 > **Env Vars:** rdbms (3), eta (1)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** think of it as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
@@ -2411,7 +2413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), while, (1)
+> **Frameworks & Libraries:** database (9), next (2), [[Automation]] (1), [[Databases]] (1), data (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rdbms (1)
 > **Cross-References:** we discussed (1)
@@ -2479,10 +2481,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (10), [[Linux]] (3), database (2), data (1), [[Ubuntu]] (1)
 > **CLI Commands:** node (10)
 > **Code Identifiers:** vsphere (1), vmotion (1)
 > **Env Vars:** rdbms (1), suse (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2490,7 +2492,7 @@ created: 2026-04-29
 
 ### 5. Health and Maintenance of the System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Server maintenance tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980)
@@ -2599,8 +2601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), data (5), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL|Postgres]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** sql (4), dbcc (3), checkdb (3), rdbms (2)
-> **Code Keywords:** let (4), delete (1), require (1), this. (1)
 > **Definitions:** is an  (1), stands for (1)
 > **Analogies:** it's like (1), for instance (1)
 > **Code Identifiers:** two_trees (1)
@@ -2685,9 +2687,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), [[Microsoft SQL Server|Sql server]] (3), [[PostgreSQL]] (1)
 > **Env Vars:** pid (3), sql (3), spid (3), dbf4 (2)
 > **CLI Commands:** find (5), docker (1)
-> **Code Keywords:** case, (3), let (3)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2758,8 +2760,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (11), [[Microsoft SQL Server|Sql server]] (4), data (3), database (2), [[PostgreSQL]] (2)
 > **Env Vars:** sql (4), rdbms (3)
-> **Code Keywords:** let (4), this. (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1), for instance (1)
 > **Definitions:** is a  (1)
@@ -2831,8 +2833,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[Microsoft SQL Server|Sql server]] (3), [[Troubleshooting]] (2), [[Databases]] (2), [[PostgreSQL]] (2)
 > **CLI Commands:** docker (10)
-> **Code Keywords:** let (2), this, (1), switch (1)
 > **Env Vars:** sql (3), rdbms (1)
 > **Tools:** terminal (2), powershell (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2842,7 +2844,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980)
@@ -2865,9 +2867,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), database (1), [[Relational Databases]] (1), [[Windows Server]] (1)
 > **Tools:** command line (2)
 > **CLI Commands:** docker (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20in%20Azure%20AI%20Foundry.md)
@@ -54,27 +54,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Build your AI applications with Azure AI Foundry
+  - [Build your AI applications with Azure AI Foundry](#build-your-ai-applications-with-azure-ai-foundry)
 - [**1. Overview of Azure AI Foundry**](#1-overview-of-azure-ai-foundry) (2 videos)
-  - What is Azure AI Foundry?
-  - Manage AI applications
+  - [What is Azure AI Foundry?](#what-is-azure-ai-foundry)
+  - [Manage AI applications](#manage-ai-applications)
 - [**2. Get Started with Azure AI Foundry**](#2-get-started-with-azure-ai-foundry) (6 videos)
-  - Create your AI project
-  - Explore and deploy AI models
-  - Use the chat playground and system message
-  - Use your data
-  - Create content filters
-  - Deploy your AI application
+  - [Create your AI project](#create-your-ai-project)
+  - [Explore and deploy AI models](#explore-and-deploy-ai-models)
+  - [Use the chat playground and system message](#use-the-chat-playground-and-system-message)
+  - [Use your data](#use-your-data)
+  - [Create content filters](#create-content-filters)
+  - [Deploy your AI application](#deploy-your-ai-application)
 - [**3. Explore Advanced Capabilities**](#3-explore-advanced-capabilities) (3 videos)
-  - Create prompt flows
-  - Evaluate your AI application
-  - Apply evaluation metrics
+  - [Create prompt flows](#create-prompt-flows)
+  - [Evaluate your AI application](#evaluate-your-ai-application)
+  - [Apply evaluation metrics](#apply-evaluation-metrics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course conclusion
+  - [Course conclusion](#course-conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your AI applications with Azure AI Foundry
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980)
@@ -95,12 +95,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Azure AI Foundry]] (3), [[Application Development]] (1), [[Generative AI]] (1), data (1)
 > **Speakers:** - do (1)
 
 
 ### 1. Overview of Azure AI Foundry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Azure AI Foundry?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980)
@@ -145,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Azure AI Foundry]] (6), [[Microsoft Word|Word]] (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2)
 > **Definitions:** known as (1), is an  (1), refers to (1)
-> **Code Keywords:** let (1)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
@@ -173,6 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Azure AI Foundry]] (3), [[Microsoft]] (1), prompt (1), management (1)
 > **Analogies:** such as (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -180,7 +182,7 @@ created: 2026-04-29
 
 ### 2. Get Started with Azure AI Foundry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your AI project
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980)
@@ -273,8 +275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[Microsoft Azure|Azure]] (8), next (3), [[Azure AI Foundry]] (2), application (2)
 > **Analogies:** for example (5)
-> **Code Keywords:** let (3)
 > **UI Navigation:** select the (1), click on (1), in the menu (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
@@ -386,8 +388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Azure AI Foundry]] (2), [[Microsoft Azure|Azure]] (2), [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (10)
-> **Code Keywords:** let (2), switch (1), type, (1), finally, (1)
 > **Env Vars:** gpt (5)
 > **UI Navigation:** in the menu (2), switch to (1), select the (1)
 > **CLI Commands:** find (3)
@@ -512,7 +514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** ai (17), application (3), [[Azure AI Foundry]] (2), [[Generative AI]] (1), [[Tokens]] (1)
 > **Analogies:** such as (1), similar to (1), just like (1), imagine (1), for example (1)
 > **UI Navigation:** in the menu (1), select the (1)
 > **Definitions:** means that (1), is called (1)
@@ -639,7 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** ai (13), [[Search]] (13), data (9), [[Microsoft Azure|Azure]] (7), next (4)
 > **CLI Commands:** find (4)
 > **UI Navigation:** select the (2), go to (1), dropdown (1)
 > **Analogies:** for example (3), for instance (1)
@@ -727,7 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (2), protected (2), public (1)
+> **Frameworks & Libraries:** ai (4), next (4), prompt (3), [[Security]] (2), [[Generative AI]] (1)
 > **UI Navigation:** in the menu (2), select the (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2)
@@ -828,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (1), export. (1), import. (1)
+> **Frameworks & Libraries:** web (11), [[Azure AI Foundry]] (3), [[Microsoft Azure|Azure]] (3), [[GitHub]] (3), ai (2)
 > **Tools:** github (3), azure portal (2)
 > **UI Navigation:** in the menu (2), select the (1), go to (1)
 > **Env Vars:** json (2)
@@ -840,7 +842,7 @@ created: 2026-04-29
 
 ### 3. Explore Advanced Capabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create prompt flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980)
@@ -927,9 +929,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (13), application (5), [[Azure AI Foundry]] (5), ai (3), llm (2)
 > **CLI Commands:** node (2), python (1), find (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** let (2), interface (1)
 > **Env Vars:** llm (2)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** in the menu (1)
@@ -1043,8 +1045,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (6), [[Azure AI Foundry]] (3), application (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** let (2), finally, (1)
 > **UI Navigation:** in the menu (1), click on (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -1124,10 +1126,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), prompt (5), ai (4), next (3), application (1)
 > **UI Navigation:** in the menu (1), select the (1), open the (1)
 > **Prerequisites:** configure (3)
 > **Exercise Files:** template (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** json (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -1135,7 +1137,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980)
@@ -1166,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), data (2), [[Microsoft Azure|Azure]] (1), ai (1), [[Generative AI]] (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - you (1)
 

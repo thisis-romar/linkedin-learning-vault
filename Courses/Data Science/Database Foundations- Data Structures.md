@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/data-structures
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations-%20Data%20Structures.md)
@@ -52,71 +52,71 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Organizing data in a database
-  - What you should know
-  - Making the most of the exercise files
-  - Set up the database servers
-  - CoderPad tour
+  - [Organizing data in a database](#organizing-data-in-a-database)
+  - [What you should know](#what-you-should-know)
+  - [Making the most of the exercise files](#making-the-most-of-the-exercise-files)
+  - [Set up the database servers](#set-up-the-database-servers)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. Data Types**](#1-data-types) (9 videos)
-  - Data integrity concepts
-  - The role of data types
-  - Numeric data types
-  - Character data types
-  - Date and time data types
-  - Additional common types
-  - Challenge: Choosing data types
-  - Solution: Choosing data types
-  - Solution: Store data in a table
+  - [Data integrity concepts](#data-integrity-concepts)
+  - [The role of data types](#the-role-of-data-types)
+  - [Numeric data types](#numeric-data-types)
+  - [Character data types](#character-data-types)
+  - [Date and time data types](#date-and-time-data-types)
+  - [Additional common types](#additional-common-types)
+  - [Challenge: Choosing data types](#challenge-choosing-data-types)
+  - [Solution: Choosing data types](#solution-choosing-data-types)
+  - [Solution: Store data in a table](#solution-store-data-in-a-table)
 - [**2. Design a Normalized Database**](#2-design-a-normalized-database) (6 videos)
-  - Protect data integrity with normalization
-  - First normal form
-  - Second normal form
-  - Third normal form
-  - Denormalization considerations
-  - Solution: Normalize a data table
+  - [Protect data integrity with normalization](#protect-data-integrity-with-normalization)
+  - [First normal form](#first-normal-form)
+  - [Second normal form](#second-normal-form)
+  - [Third normal form](#third-normal-form)
+  - [Denormalization considerations](#denormalization-considerations)
+  - [Solution: Normalize a data table](#solution-normalize-a-data-table)
 - [**3. Identify Rows with Primary Keys**](#3-identify-rows-with-primary-keys) (8 videos)
-  - Purpose of a primary key
-  - Establish the table's primary key
-  - Natural keys
-  - Composite keys
-  - Surrogate keys
-  - Challenge: Add a primary key to a table
-  - Solution: Add a primary key to a table
-  - Solution: Alter a table's design
+  - [Purpose of a primary key](#purpose-of-a-primary-key)
+  - [Establish the table's primary key](#establish-the-tables-primary-key)
+  - [Natural keys](#natural-keys)
+  - [Composite keys](#composite-keys)
+  - [Surrogate keys](#surrogate-keys)
+  - [Challenge: Add a primary key to a table](#challenge-add-a-primary-key-to-a-table)
+  - [Solution: Add a primary key to a table](#solution-add-a-primary-key-to-a-table)
+  - [Solution: Alter a table's design](#solution-alter-a-tables-design)
 - [**4. Link Data with Foreign Keys**](#4-link-data-with-foreign-keys) (5 videos)
-  - What are foreign keys?
-  - Add a foreign key column to a table
-  - Create a relationship between tables
-  - IDENTITY column sequences
-  - Solution: Create a table constraint
+  - [What are foreign keys?](#what-are-foreign-keys)
+  - [Add a foreign key column to a table](#add-a-foreign-key-column-to-a-table)
+  - [Create a relationship between tables](#create-a-relationship-between-tables)
+  - [IDENTITY column sequences](#identity-column-sequences)
+  - [Solution: Create a table constraint](#solution-create-a-table-constraint)
 - [**5. Formalize Data Relationships**](#5-formalize-data-relationships) (8 videos)
-  - One-to-many relationships
-  - One-to-one relationships
-  - Many-to-many relationships
-  - Self-referencing relationships
-  - Cascade updates and deletes
-  - Challenge: Link tables with keys
-  - Solution: Link tables with keys
-  - Solution: Build a relationship between tables
+  - [One-to-many relationships](#one-to-many-relationships)
+  - [One-to-one relationships](#one-to-one-relationships)
+  - [Many-to-many relationships](#many-to-many-relationships)
+  - [Self-referencing relationships](#self-referencing-relationships)
+  - [Cascade updates and deletes](#cascade-updates-and-deletes)
+  - [Challenge: Link tables with keys](#challenge-link-tables-with-keys)
+  - [Solution: Link tables with keys](#solution-link-tables-with-keys)
+  - [Solution: Build a relationship between tables](#solution-build-a-relationship-between-tables)
 - [**6. Indexes**](#6-indexes) (3 videos)
-  - Table indexes
-  - Add indexes to a table
-  - View index statistics
+  - [Table indexes](#table-indexes)
+  - [Add indexes to a table](#add-indexes-to-a-table)
+  - [View index statistics](#view-index-statistics)
 - [**7. Constraints**](#7-constraints) (8 videos)
-  - Validate data with constraints
-  - Null constraints
-  - Unique constraints
-  - Setting default values
-  - Check constraints
-  - Challenge: Add constraints to a table
-  - Solution: Add constraints to a table
-  - Solution: Set additional constraints on the data
+  - [Validate data with constraints](#validate-data-with-constraints)
+  - [Null constraints](#null-constraints)
+  - [Unique constraints](#unique-constraints)
+  - [Setting default values](#setting-default-values)
+  - [Check constraints](#check-constraints)
+  - [Challenge: Add constraints to a table](#challenge-add-constraints-to-a-table)
+  - [Solution: Add constraints to a table](#solution-add-constraints-to-a-table)
+  - [Solution: Set additional constraints on the data](#solution-set-additional-constraints-on-the-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing data in a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980)
@@ -141,8 +141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (4), [[Database Development]] (1), [[Databases]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [adam] (1)
 
 #### What you should know
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), interface (1)
+> **Frameworks & Libraries:** database (5), front-end (1), data (1), [[Database Development]] (1), [[Databases]] (1)
 > **CLI Commands:** docker (1)
 > **Speakers:** - [instructor] (1)
 
@@ -187,10 +187,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), application (1), [[Microsoft Azure|Azure]] (1), data (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (3), rdbms (1), post (1)
 > **Exercise Files:** exercise files (3), download the (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** interface (1)
 > **API Endpoints:** post  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -377,8 +377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[PostgreSQL]] (9), data (8), database (7), [[Microsoft Azure|Azure]] (7)
 > **CLI Commands:** docker (11), make (3), rm (2), find (1)
-> **Code Keywords:** delete (4), let (4), this, (3), switch (2), finally, (2)
 > **Env Vars:** sql (10), sa_password (2), mssql_sa_password (2), mssql_sq_password (1)
 > **UI Navigation:** click on (6), scroll down (1), in the sidebar (1), go to (1)
 > **Tools:** command prompt (4), docker desktop (2), command line (1)
@@ -427,6 +427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Env Vars:** select (1), max (1)
 > **UI Navigation:** click on (2)
 > **SQL:** select (1)
@@ -436,7 +437,7 @@ created: 2026-04-29
 
 ### 1. Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data integrity concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980)
@@ -523,8 +524,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), database (10), [[Databases]] (2), management (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (3)
-> **Code Keywords:** let (2), finally, (1), from, (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
@@ -602,9 +603,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), database (7), product (4), business (3), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** create (2), table (2), sql (2), rdbms (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this. (1), finally, (1), let (1)
 > **Analogies:** for instance (2), just like (1)
 > **SQL:** create table (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -724,9 +725,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (7), [[Relational Databases]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Financial Data]] (1)
 > **Env Vars:** rdbms (2), sql (2)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), this, (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -848,9 +849,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), database (8), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (4), game (2)
 > **Env Vars:** sql (5), rdbms (3)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** type. (1), require (1), this. (1), switch (1), finally, (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Best Practices:** it's best to (2), general rule (1)
 > **Prerequisites:** you'll need (3)
@@ -994,8 +995,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (12), database (9), [[PostgreSQL]] (7), data (6), [[Relational Databases]] (1)
 > **Env Vars:** sql (13), rdbms (2), utc (1), iso (1)
-> **Code Keywords:** let (7), function (2), require (1), this, (1), finally, (1)
 > **UI Navigation:** select the (2), scroll down (2)
 > **Analogies:** for instance (2), such as (1), just like (1)
 > **Prerequisites:** set up (3), you'll need (1)
@@ -1114,8 +1115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), [[Microsoft SQL Server|Sql server]] (11), [[PostgreSQL]] (10), database (4), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** sql (11), rdbms (4), gps (1), cidr (1), json (1)
-> **Code Keywords:** type. (6), this. (2), type, (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **UI Navigation:** checkbox (1), scroll down (1)
 > **Analogies:** such as (1), for example (1)
@@ -1152,7 +1153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (4), database (1), [[Microsoft Office|Office]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1388,7 +1389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this, (4), type. (2), finally, (2), this. (2)
+> **Frameworks & Libraries:** data (20), [[Microsoft SQL Server|Sql server]] (12), [[PostgreSQL]] (7), database (6), next (5)
 > **Env Vars:** sql (12), table (2), create (1), values (1), insert (1)
 > **Code Identifiers:** first_name (3), phone_number (3), hire_date (3), annual_salary (3), office_number (2)
 > **CLI Commands:** make (3)
@@ -1512,8 +1513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[SQL]] (5), next (3), [[Microsoft SQL Server|Sql server]] (3), database (1)
 > **Env Vars:** sql (8), ansi (5), create (2), table (2)
-> **Code Keywords:** type. (4), type, (3), let (1)
 > **SQL:** create table (2)
 > **Definitions:** is called (1), is a  (1)
 > **Best Practices:** don't forget (1)
@@ -1523,7 +1524,7 @@ created: 2026-04-29
 
 ### 2. Design a Normalized Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect data integrity with normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980)
@@ -1594,8 +1595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), database (9), [[Forms]] (6), next (3), [[Database Applications]] (2)
 > **Analogies:** for instance (1), picture (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
@@ -1668,7 +1669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (5), database (4)
 > **CLI Commands:** make (2), cat (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1737,8 +1738,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (2), functional (1)
 > **CLI Commands:** find (8), make (1)
-> **Code Keywords:** else. (1)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1804,7 +1805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** data (3), database (2)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1885,10 +1886,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (6), [[Databases]] (5), [[Forms]] (2), [[Relational Databases]] (1)
 > **Env Vars:** olap (4), oltp (2), usa (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** stands for (2), is called (1)
-> **Code Keywords:** pass (1), case, (1)
 > **Analogies:** for example (1), for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -2022,7 +2023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (5), let (2), finally, (1)
+> **Frameworks & Libraries:** data (15), next (5)
 > **Definitions:** is a  (5), is called (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -2031,7 +2032,7 @@ created: 2026-04-29
 
 ### 3. Identify Rows with Primary Keys
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose of a primary key
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980)
@@ -2102,10 +2103,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), data (7), application (2), [[Relational Databases]] (1), management (1)
 > **Env Vars:** select (2), order (1), sql (1), update (1), set (1)
 > **SQL:** select (2), order by (1), update (1), where (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** interface (1), let (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -2297,7 +2298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), type. (1), case, (1)
+> **Frameworks & Libraries:** data (8), database (5), [[Microsoft Azure|Azure]] (3), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (4), fv418 (3), dbo (1), wr421 (1)
 > **CLI Commands:** make (4), find (4)
 > **UI Navigation:** in the sidebar (3), scroll down (2), dropdown (1), right-click (1)
@@ -2353,8 +2354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (2), [[Microsoft Office|Office]] (1), next (1), [[Security]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** is called (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -2472,7 +2473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (2), this, (2), finally, (1), type. (1)
+> **Frameworks & Libraries:** database (8), data (5), next (2), [[Microsoft Azure|Azure]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** sql (1), drop (1), table (1)
 > **SQL:** drop table (1)
@@ -2569,8 +2570,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (4), [[PostgreSQL]] (4), [[Microsoft SQL Server|Sql server]] (4), management (1)
 > **Env Vars:** sql (4), rdbms (2)
-> **Code Keywords:** let (3), type. (2)
 > **UI Navigation:** scroll up (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for instance (1)
@@ -2601,6 +2602,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** rdbms (1), identity (1), sql (1), alter (1), table (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
@@ -2768,8 +2770,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), database (3), [[SQL]] (2), [[Microsoft Office|Office]] (1), feature (1)
 > **Env Vars:** sql (8)
-> **Code Keywords:** let (4), this. (2), type. (1)
 > **CLI Commands:** make (4)
 > **File Paths:** challengetwo-complete.txt (1)
 > **Cross-References:** in the last (1)
@@ -2950,8 +2952,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (9), [[Graphic Design]] (1), [[SQL]] (1)
 > **Env Vars:** projectname (2), clientname (2), alter (2), table (2), contactemail (1)
-> **Code Keywords:** let (11), finally, (2), for. (2)
 > **SQL:** alter table (2), primary key (1), select (1)
 > **URLs:** [kinetico.com](https://kinetico.com) (1)
 > **UI Navigation:** select the (1)
@@ -2962,7 +2964,7 @@ created: 2026-04-29
 
 ### 4. Link Data with Foreign Keys
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are foreign keys?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/what-are-foreign-keys?u=76281980)
@@ -3001,7 +3003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), type, (1), let (1)
+> **Frameworks & Libraries:** data (9), database (3), [[Databases]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rdbms (1)
 > **Speakers:** - [instructor] (1)
@@ -3117,7 +3119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (4), this, (1), function (1)
+> **Frameworks & Libraries:** data (8), next (3), database (1), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **Code Identifiers:** customer_id (5), order_date (2), order_id (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** sql (1), fv418 (1), rdbms (1)
@@ -3273,7 +3275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1), delete (1)
+> **Frameworks & Libraries:** database (9), data (6), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** df399 (4), rdbms (2), sql (2)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** scroll down (2)
@@ -3316,7 +3318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), delete (1), this, (1)
+> **Frameworks & Libraries:** database (3), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** identity (1), rdbms (1)
 > **UI Navigation:** right-click (1)
@@ -3379,9 +3381,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (2), [[Microsoft Office|Office]] (1), next (1)
 > **Env Vars:** where (3), select (3), table (2), add (1), update (1)
 > **SQL:** where (3), select (3), update (1), alter table (1), inner join (1)
-> **Code Keywords:** let (3), switch (1), type, (1), finally, (1), this, (1)
 > **Prerequisites:** required to (2), set up (1)
 > **CLI Commands:** find (1), cat (1)
 > **Definitions:** is a  (2)
@@ -3391,7 +3393,7 @@ created: 2026-04-29
 
 ### 5. Formalize Data Relationships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### One-to-many relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-many-relationships?u=76281980)
@@ -3448,6 +3450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
@@ -3483,6 +3486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (3), [[Security]] (2), database (1), data (1), [[Relational Databases]] (1)
 > **Analogies:** such as (1)
 
 #### Many-to-many relationships
@@ -3528,8 +3532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[Calculus]] (2), data (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this. (1), case, (1), class. (1), require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3578,7 +3582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (7), class. (1), this. (1)
+> **Frameworks & Libraries:** data (3), database (1)
 > **Definitions:** is called (1), known as (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
@@ -3686,7 +3690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), let (3), this, (1), this. (1)
+> **Frameworks & Libraries:** database (5), data (3), management (1)
 > **Env Vars:** wr421 (4), wr521 (3)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** scroll down (3)
@@ -3720,7 +3724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bouncy techy music) (1)
@@ -3882,7 +3886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), type. (2), this. (1)
+> **Frameworks & Libraries:** data (6), database (3), next (2), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (1), just like (1)
 > **File Paths:** complete.txt (1)
@@ -4070,9 +4074,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), database (1)
 > **Env Vars:** key (22), table (13), primary (13), create (10), foreign (9)
 > **SQL:** primary key (13), create table (10), foreign key (8), alter table (1)
-> **Code Keywords:** let (4), finally, (2), for. (1), this. (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** make sure to (1)
@@ -4082,7 +4086,7 @@ created: 2026-04-29
 
 ### 6. Indexes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Table indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980)
@@ -4149,9 +4153,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (5), [[Search]] (3), [[Databases]] (2), next (2)
 > **CLI Commands:** find (8)
 > **Definitions:** is called (2), is a  (2), means that (1)
-> **Code Keywords:** this. (1), finally, (1), for. (1)
 > **Env Vars:** rdbms (1), ace (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4224,8 +4228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (3), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** sql (3), index (3), create (2), rdbms (1), drop (1)
-> **Code Keywords:** let (3), case, (1)
 > **CLI Commands:** make (2), find (1)
 > **SQL:** index (3)
 > **Prerequisites:** required to (1)
@@ -4380,7 +4384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), public (2), switch (1)
+> **Frameworks & Libraries:** database (15), [[PostgreSQL]] (6), [[Microsoft SQL Server|Sql server]] (5), management (4), [[Statistics]] (3)
 > **CLI Commands:** find (7), make (1)
 > **Env Vars:** sql (5), rdbms (1)
 > **UI Navigation:** select the (2), scroll down (1)
@@ -4392,7 +4396,7 @@ created: 2026-04-29
 
 ### 7. Constraints
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Validate data with constraints
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980)
@@ -4451,9 +4455,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (5)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2)
-> **Code Keywords:** let (1)
 > **Tools:** notion (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -4597,7 +4601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1), pass (1), case, (1)
+> **Frameworks & Libraries:** data (9), database (3), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (3), business (2)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** sql (5), rdbms (1)
 > **Code Identifiers:** sp_columns (2), information_schema (1), is_nullable (1)
@@ -4689,9 +4693,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3)
 > **Env Vars:** constraint (4), table (3), drop (3), unique (2), alter (2)
 > **CLI Commands:** find (5), make (4)
-> **Code Keywords:** let (3), case, (1)
 > **SQL:** alter table (2), create table (1), index (1)
 > **Code Identifiers:** customer_id (2), unique_company (1)
 > **Documentation:** specification (1)
@@ -4761,8 +4765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (3), database (1), [[PostgreSQL|Postgres]] (1), express (1)
 > **Env Vars:** sql (4), rdbms (4), add (1), constraint (1), create (1)
-> **Code Keywords:** let (3), for, (1), finally, (1), default, (1), override (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** scroll down (2)
 > **SQL:** create table (1)
@@ -4841,7 +4845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** data (7), database (2), business (2), application (1), [[Microsoft Excel]] (1)
 > **Code Identifiers:** total_price (2)
 > **Env Vars:** rdbms (1)
 > **Definitions:** is called (1)
@@ -4872,7 +4876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat, techno music) (1)
 
@@ -5051,7 +5055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (1), default, (1)
+> **Frameworks & Libraries:** database (2), [[Microsoft SQL Server|Sql server]] (2), data (2), [[Microsoft Office|Office]] (2), next (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sql (2)
@@ -5285,8 +5289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), application (7), next (5), database (2), job description (2)
 > **Env Vars:** alter (10), table (8), url (8), column (7), create (4)
-> **Code Keywords:** let (5), type. (2), default. (2), finally, (2), function (1)
 > **SQL:** create table (4), alter table (4), varchar (2)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (5)
@@ -5297,7 +5301,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980)
@@ -5318,6 +5322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Relational Databases]] (1), [[Diagramming]] (1), [[PostgreSQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rdbms (1)
 > **Speakers:** - [adam] (1)

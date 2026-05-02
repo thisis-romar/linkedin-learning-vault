@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/marketing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Foundations.md)
@@ -50,34 +50,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Think like a marketer
+  - [Think like a marketer](#think-like-a-marketer)
 - [**1. The Building Blocks of Your Marketing Strategy**](#1-the-building-blocks-of-your-marketing-strategy) (5 videos)
-  - Defining brands and brand architecture
-  - Choosing a business category
-  - Investigating your organization and your competition
-  - Developing a practical customer definition
-  - Navigating three types of customer loyalty
+  - [Defining brands and brand architecture](#defining-brands-and-brand-architecture)
+  - [Choosing a business category](#choosing-a-business-category)
+  - [Investigating your organization and your competition](#investigating-your-organization-and-your-competition)
+  - [Developing a practical customer definition](#developing-a-practical-customer-definition)
+  - [Navigating three types of customer loyalty](#navigating-three-types-of-customer-loyalty)
 - [**2. Developing a Value Proposition for Your Brand**](#2-developing-a-value-proposition-for-your-brand) (5 videos)
-  - Discovering customer segments
-  - Discover customer insights
-  - Mapping your business category
-  - Writing a target audience persona
-  - Articulating your brand's value proposition
+  - [Discovering customer segments](#discovering-customer-segments)
+  - [Discover customer insights](#discover-customer-insights)
+  - [Mapping your business category](#mapping-your-business-category)
+  - [Writing a target audience persona](#writing-a-target-audience-persona)
+  - [Articulating your brand's value proposition](#articulating-your-brands-value-proposition)
 - [**3. Creating the Customer-Brand Experience**](#3-creating-the-customer-brand-experience) (5 videos)
-  - Building a brand-customer experience map
-  - Align your products and services to the value proposition
-  - Aligning your price to your brand's value proposition
-  - Developing the communications plan
-  - Mapping brand-customer touchpoints
+  - [Building a brand-customer experience map](#building-a-brand-customer-experience-map)
+  - [Align your products and services to the value proposition](#align-your-products-and-services-to-the-value-proposition)
+  - [Aligning your price to your brand's value proposition](#aligning-your-price-to-your-brands-value-proposition)
+  - [Developing the communications plan](#developing-the-communications-plan)
+  - [Mapping brand-customer touchpoints](#mapping-brand-customer-touchpoints)
 - [**4. Creating the Marketing Plan and Learning from Your Work**](#4-creating-the-marketing-plan-and-learning-from-your-work) (2 videos)
-  - Writing the strategic narrative: The marketing plan
-  - Learning from your work: Marketing metrics
+  - [Writing the strategic narrative: The marketing plan](#writing-the-strategic-narrative-the-marketing-plan)
+  - [Learning from your work: Marketing metrics](#learning-from-your-work-marketing-metrics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Thinking like a marketer
+  - [Thinking like a marketer](#thinking-like-a-marketer)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Think like a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/think-like-a-marketer?u=76281980)
@@ -106,14 +106,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (1)
 > **Analogies:** picture (1)
 > **Speakers:** - have (1)
 
 
 ### 1. The Building Blocks of Your Marketing Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining brands and brand architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980)
@@ -210,9 +210,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Search]] (1), [[Marketing Strategy]] (1), product (1), [[Quality Assurance]] (1)
 > **Env Vars:** bmw (2), ibm (1), kpmg (1), lvmh (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** finally, (1), let (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -313,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), finally, (1)
+> **Frameworks & Libraries:** business (8), [[Electronics]] (1), product (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -384,7 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this: (1), self (1), finally, (1)
+> **Frameworks & Libraries:** express (2), [[Software Development]] (1), management (1), product (1), functional (1)
 > **Env Vars:** bmw (1), sap (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -475,8 +475,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Decision-Making]] (3), [[Microsoft Products|Products]] (2), [[Customer Marketing]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (5)
-> **Code Keywords:** finally, (2), require (1)
 > **Speakers:** - a (1)
 
 #### Navigating three types of customer loyalty
@@ -568,8 +568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (2), business (1), [[Microsoft Word|Word]] (1), functional (1), [[Operational Excellence]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** require (1), finally, (1)
 > **Code Identifiers:** iphone (2)
 > **Analogies:** such as (1)
 > **Speakers:** - customer (1)
@@ -577,7 +577,7 @@ created: 2026-04-29
 
 ### 2. Developing a Value Proposition for Your Brand
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discovering customer segments
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/discovering-customer-segments?u=76281980)
@@ -636,6 +636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), data (2), next (2), functional (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** bmw (1)
@@ -707,8 +708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), functional (2), power (1), [[Customer Journey Mapping]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** try, (1), abstract (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
@@ -785,9 +786,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** else. (1), self (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - once (1)
@@ -861,7 +862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), require (1)
+> **Frameworks & Libraries:** business (2), career (1), product (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2)
 > **Versions:** 1.5 (1)
 > **Analogies:** imagine (1)
@@ -952,8 +953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Marketing Strategy]] (2), business (2), teams (2), product (1), functional (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** else. (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Tools:** slack (1)
 > **Exercise Files:** exercise files (1)
@@ -962,7 +963,7 @@ created: 2026-04-29
 
 ### 3. Creating the Customer-Brand Experience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a brand-customer experience map
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/building-a-brand-customer-experience-map?u=76281980)
@@ -1025,8 +1026,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (1)
 > **Analogies:** imagine (2), for example (1), such as (1)
-> **Code Keywords:** this, (1), super (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
@@ -1125,8 +1126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (5), [[Search]] (3), [[Microsoft Word|Word]] (1), data (1)
 > **Env Vars:** sec (4), fiji (1)
-> **Code Keywords:** finally, (2), type, (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - although (1)
@@ -1210,7 +1211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (2), product (1), [[Representational State Transfer (REST)|Rest]] (1), [[Marketing Strategy]] (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - think (1)
 
@@ -1309,7 +1310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), function (1), self (1), public (1), private (1)
+> **Frameworks & Libraries:** product (3), data (1), [[LinkedIn]] (1), web (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -1371,7 +1372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** product (3), business (1), [[Performance Metrics]] (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - you (1)
@@ -1379,7 +1380,7 @@ created: 2026-04-29
 
 ### 4. Creating the Marketing Plan and Learning from Your Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing the strategic narrative: The marketing plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/writing-the-strategic-narrative-the-marketing-plan?u=76281980)
@@ -1424,6 +1425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), career (1), teams (1), data (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1513,8 +1515,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** tam (1)
 > **Analogies:** for example (1)
 > **Speakers:** - great (1)
@@ -1522,7 +1524,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking like a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980)
@@ -1571,8 +1573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Marketing Strategy]] (2), product (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - well (1)
 
 

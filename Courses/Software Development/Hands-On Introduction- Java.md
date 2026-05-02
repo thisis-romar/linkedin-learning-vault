@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Hands-On%20Introduction-%20Java.md)
@@ -48,32 +48,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Getting hands on with Java
-  - What you should know
-  - Using GitHub Codespaces with this course
-  - Project setup
+  - [Getting hands on with Java](#getting-hands-on-with-java)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
+  - [Project setup](#project-setup)
 - [**1. Model Objects**](#1-model-objects) (3 videos)
-  - Design a solution
-  - Create customer
-  - Create account
+  - [Design a solution](#design-a-solution)
+  - [Create customer](#create-customer)
+  - [Create account](#create-account)
 - [**2. External Data Sources**](#2-external-data-sources) (3 videos)
-  - Connect to data source
-  - Construct customer from data source
-  - Construct account from data source
+  - [Connect to data source](#connect-to-data-source)
+  - [Construct customer from data source](#construct-customer-from-data-source)
+  - [Construct account from data source](#construct-account-from-data-source)
 - [**3. Utility Classes**](#3-utility-classes) (3 videos)
-  - Create Authenticator
-  - Create menu
-  - Display menu options
+  - [Create Authenticator](#create-authenticator)
+  - [Create menu](#create-menu)
+  - [Display menu options](#display-menu-options)
 - [**4. State Management**](#4-state-management) (3 videos)
-  - Deposit
-  - Update data source
-  - Withdraw
+  - [Deposit](#deposit)
+  - [Update data source](#update-data-source)
+  - [Withdraw](#withdraw)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with Java and project-based learning
+  - [Continuing on with Java and project-based learning](#continuing-on-with-java-and-project-based-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting hands on with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980)
@@ -94,6 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (6), [[Programming]] (2), web (1), [[Big Data]] (1), cloud (1)
 > **Tools:** github (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -116,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), application (1), data (1), [[GitHub]] (1)
 > **Versions:** java 17 (1)
 > **Tools:** github (1)
 > **Prerequisites:** setup (1)
@@ -259,7 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (1), go to (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -335,7 +336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Java]] (4), database (3), [[Banking]] (2), [[Codespaces]] (1), application (1)
 > **UI Navigation:** scroll down (1), click on (1), right-click (1)
 > **Prerequisites:** install (2), configure (1)
 > **File Paths:** src.main.java (1)
@@ -347,7 +348,7 @@ created: 2026-04-29
 
 ### 1. Model Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design a solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980)
@@ -398,7 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), finally, (1), class, (1), type. (1)
+> **Frameworks & Libraries:** database (4), application (2), [[Banking]] (1), [[Java]] (1), [[Security]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** account_id (1)
 > **Best Practices:** it's best to (1)
@@ -513,7 +514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (8), let (6), private (6), pass (3), case. (1)
+> **Frameworks & Libraries:** [[Java]] (6), data (2), database (1), [[Programming]] (1), next (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Best Practices:** best practice (1), don't forget (1)
 > **Prerequisites:** set up (2)
@@ -561,7 +562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), private (3), class. (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Java]] (2), database (1)
 > **Code Identifiers:** settype (1), setbalance (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - in (1)
@@ -570,7 +571,7 @@ created: 2026-04-29
 
 ### 2. External Data Sources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to data source
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980)
@@ -679,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), static (3), public (2), case, (2), this. (1)
+> **Frameworks & Libraries:** database (7), [[Java]] (4), [[SQL]] (3), data (2), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
 > **Env Vars:** sql (3), jdbc (1)
 > **CLI Commands:** make (3)
 > **API Endpoints:** get  (2)
@@ -821,7 +822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), pass (6), this. (1), class, (1), public (1)
+> **Frameworks & Libraries:** [[SQL]] (12), database (10), data (8), [[Java]] (6), next (1)
 > **Env Vars:** sql (12)
 > **Definitions:** is a  (3), is an  (1), we call this (1)
 > **File Paths:** java.sql (3)
@@ -917,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (2), class, (1), public (1), static (1)
+> **Frameworks & Libraries:** database (5), [[SQL]] (3), data (1), application (1), [[Java]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft music) (1)
@@ -925,7 +926,7 @@ created: 2026-04-29
 
 ### 3. Utility Classes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create Authenticator
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980)
@@ -1046,7 +1047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), throw (5), static (3), pass (3), public (2)
+> **Frameworks & Libraries:** data (4), [[Security]] (3), database (3), [[Java]] (3), application (2)
 > **Code Identifiers:** getcustomer (2), isauthenticated (2), getauthenticated (2), setauthenticated (2), getpassword (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1180,7 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), interface (3), private (3), static (3), pass (3)
+> **Frameworks & Libraries:** [[Java]] (4), next (4), application (1), prompt (1), data (1)
 > **Code Identifiers:** authenticateuser (3), showmenu (3), getmessage (1), getaccounts (1), getaccountid (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** make (2)
@@ -1301,7 +1302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (8), switch (7), continue (5), class, (3)
+> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2), application (2), prompt (1), [[Java]] (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** nextdouble (2), showmenu (1), nextint (1), getbalance (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
@@ -1313,7 +1314,7 @@ created: 2026-04-29
 
 ### 4. State Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deposit
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980)
@@ -1416,7 +1417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), class. (5), throw (3), pass (3), super (2)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (1), data (1), database (1), next (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** newbalance (2), getmessage (1), setbalance (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1534,7 +1535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), class. (3), pass (2), class, (1), public (1)
+> **Frameworks & Libraries:** database (7), data (4), [[SQL]] (2)
 > **Versions:** 230.49 (2), 330.49 (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** updateaccountbalance (1), setint (1)
@@ -1602,7 +1603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class. (3), throw (2), pass (1)
+> **Frameworks & Libraries:** prompt (1), database (1)
 > **Code Identifiers:** newbalance (3), updateaccountbalance (2), getmessage (1), getbalance (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
@@ -1611,7 +1612,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Java and project-based learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980)
@@ -1640,7 +1641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[LinkedIn]] (2), [[Programming]] (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **Tools:** github (1)
 > **Speakers:** - [angie] (1)
 

@@ -30,7 +30,7 @@ tags:
   - skill/sustainability
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Including%20Sustainability%20in%20Your%20Cloud%20Strategy.md)
@@ -49,40 +49,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Do not waste water
-  - Designing for scarcity in a world of abundance
-  - The green behind the cloud
-  - The rise of carbon-aware cloud computing
+  - [Do not waste water](#do-not-waste-water)
+  - [Designing for scarcity in a world of abundance](#designing-for-scarcity-in-a-world-of-abundance)
+  - [The green behind the cloud](#the-green-behind-the-cloud)
+  - [The rise of carbon-aware cloud computing](#the-rise-of-carbon-aware-cloud-computing)
 - [**1. Foundations of Cloud Sustainability**](#1-foundations-of-cloud-sustainability) (7 videos)
-  - Factors affecting carbon consumption in the cloud
-  - Understanding types of emissions
-  - Impact of CPU utilization on carbon consumption
-  - Power usage effectiveness
-  - Cloud shared responsibility models
-  - To autoscale or not to autoscale
-  - Sustainable FinOps: Managing costs and carbon together
+  - [Factors affecting carbon consumption in the cloud](#factors-affecting-carbon-consumption-in-the-cloud)
+  - [Understanding types of emissions](#understanding-types-of-emissions)
+  - [Impact of CPU utilization on carbon consumption](#impact-of-cpu-utilization-on-carbon-consumption)
+  - [Power usage effectiveness](#power-usage-effectiveness)
+  - [Cloud shared responsibility models](#cloud-shared-responsibility-models)
+  - [To autoscale or not to autoscale](#to-autoscale-or-not-to-autoscale)
+  - [Sustainable FinOps: Managing costs and carbon together](#sustainable-finops-managing-costs-and-carbon-together)
 - [**2. Why Are Some Technologies More Efficient Than Others?**](#2-why-are-some-technologies-more-efficient-than-others) (2 videos)
-  - Measuring parallel efficiency of cloud systems
-  - The role of AI: Efficiency vs. carbon cost
+  - [Measuring parallel efficiency of cloud systems](#measuring-parallel-efficiency-of-cloud-systems)
+  - [The role of AI: Efficiency vs. carbon cost](#the-role-of-ai-efficiency-vs-carbon-cost)
 - [**3. Carbon Measurements and Their Implications**](#3-carbon-measurements-and-their-implications) (7 videos)
-  - Carbon tax rates and carbon intensity
-  - CSP sustainability calculators
-  - Using golden coefficients for carbon estimation
-  - Evolving carbon measurement tools in the cloud
-  - Cloud sustainability regulations: What businesses need to know
-  - Compliance challenges: Aligning cloud strategy with sustainability laws
-  - Cloud hardware innovations
+  - [Carbon tax rates and carbon intensity](#carbon-tax-rates-and-carbon-intensity)
+  - [CSP sustainability calculators](#csp-sustainability-calculators)
+  - [Using golden coefficients for carbon estimation](#using-golden-coefficients-for-carbon-estimation)
+  - [Evolving carbon measurement tools in the cloud](#evolving-carbon-measurement-tools-in-the-cloud)
+  - [Cloud sustainability regulations: What businesses need to know](#cloud-sustainability-regulations-what-businesses-need-to-know)
+  - [Compliance challenges: Aligning cloud strategy with sustainability laws](#compliance-challenges-aligning-cloud-strategy-with-sustainability-laws)
+  - [Cloud hardware innovations](#cloud-hardware-innovations)
 - [**4. Energy Consumption Case Studies**](#4-energy-consumption-case-studies) (2 videos)
-  - Energy consumption, case study 1
-  - Energy consumption, case study 2
+  - [Energy consumption, case study 1](#energy-consumption-case-study-1)
+  - [Energy consumption, case study 2](#energy-consumption-case-study-2)
 - [**5. Consolidation for a Greener Future**](#5-consolidation-for-a-greener-future) (1 videos)
-  - Benefits of consolidation
+  - [Benefits of consolidation](#benefits-of-consolidation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learning more about sustainability
+  - [Learning more about sustainability](#learning-more-about-sustainability)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Do not waste water
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/do-not-waste-water?u=76281980)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (2), next (1), [[Sustainability]] (1), data (1), [[Analytics]] (1)
 > **Speakers:** - [fawad] (1)
 
 #### Designing for scarcity in a world of abundance
@@ -143,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Sustainability]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
@@ -195,7 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4)
+> **Frameworks & Libraries:** cloud (10), power (4), data (4), [[Hardware]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** diy (1), aws (1), cpu (1)
 > **CLI Commands:** aws (1)
 > **Versions:** 3.6 (1)
@@ -235,7 +236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1)
+> **Frameworks & Libraries:** ai (3), cloud (3), [[Hardware]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Software Development]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -243,7 +244,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Cloud Sustainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Factors affecting carbon consumption in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/factors-impacting-carbon-consumption-in-the-cloud?u=76281980)
@@ -324,6 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), data (5), [[Hardware]] (3), next (3), power (2)
 > **Analogies:** such as (3), for example (1), imagine (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gva (1), cpu (1), pec (1)
@@ -371,7 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1), public (1)
+> **Frameworks & Libraries:** business (4), data (2), cloud (2), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
 > **Cross-References:** we talked about (1)
@@ -421,8 +423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (11), data (2), node (1), cloud (1), next (1)
 > **Env Vars:** cpu (5), spec (2)
-> **Code Keywords:** require (2)
 > **Documentation:** spec (2)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** node (1)
@@ -469,9 +471,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Electronics]] (3), cloud (3), power (2), game (1)
 > **Definitions:** is a  (3), means that (1)
 > **Env Vars:** pue (2)
-> **Code Keywords:** new, (1)
 > **Versions:** 1.1 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -517,10 +519,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[IaaS|Infrastructure as a service]] (2), [[PaaS]] (2), [[SaaS]] (2), [[PaaS|Platform as a service]] (1)
 > **Env Vars:** aws (3), crm (1), ec2 (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
 > **CLI Commands:** aws (3)
-> **Code Keywords:** lambda (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -569,7 +571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), pass (1), throw (1)
+> **Frameworks & Libraries:** cloud (5), [[Hardware]] (4), [[Design Patterns]] (2), [[Security]] (1), [[Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -592,13 +594,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), cloud (2), [[Sustainability]] (2), data (1), [[Decision-Making]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Why Are Some Technologies More Efficient Than Others?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring parallel efficiency of cloud systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980)
@@ -675,11 +678,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (10), database (2), data (2), [[SQL]] (1), power (1)
 > **Definitions:** means that (2), known as (1), is an  (1), is a  (1)
 > **Analogies:** imagine (3)
 > **Env Vars:** sql (1), cpu (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
@@ -708,13 +711,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), business (2), [[ChatGPT]] (1), cloud (1), next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Carbon Measurements and Their Implications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Carbon tax rates and carbon intensity
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/carbon-tax-rates-and-carbon-intensity?u=76281980)
@@ -773,6 +777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), data (1), power (1), next (1)
 > **Env Vars:** ppp (2), oecd (1), ets (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -812,9 +817,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), cloud (4), node (1), next (1), power (1)
 > **Env Vars:** csp (2)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using golden coefficients for carbon estimation
@@ -840,6 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), data (1), power (1)
 > **Versions:** 2.1 (1), 0.89 (1), 1.52 (1)
 > **Env Vars:** hdd (1), ssd (1)
 > **Code Identifiers:** vcpu (1)
@@ -886,9 +892,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), aws (5), [[Microsoft]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2)
 > **Env Vars:** aws (5), csp (1), ccft (1)
 > **CLI Commands:** aws (5), make (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Cloud sustainability regulations: What businesses need to know
@@ -918,6 +924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (2), business (2), ai (2), data (1), cloud (1)
 > **Env Vars:** csrd (1), sec (1), ghg (1), apac (1), tcfd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -963,7 +970,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), throw (1), let (1)
+> **Frameworks & Libraries:** cloud (2), [[Hardware]] (2), [[Sustainability]] (1), [[Dashboards]] (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -1013,17 +1020,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), cloud (2), aws (2), [[Google]] (2), power (2)
 > **Env Vars:** aws (2), tpu (1), cpu (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 4. Energy Consumption Case Studies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Energy consumption, case study 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/energy-consumption-case-study-1?u=76281980)
@@ -1068,10 +1075,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** cpu (1), csp (1)
 > **Versions:** 2.47 (1), 0.62 (1)
 > **Cross-References:** earlier in (1), in the next (1)
-> **Code Keywords:** let (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1100,15 +1107,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), node (1), next (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 5. Consolidation for a Greener Future
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of consolidation
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/benefits-of-consolidation?u=76281980)
@@ -1143,7 +1150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (1)
+> **Frameworks & Libraries:** cloud (5), data (5), business (3), application (2), [[Sustainability]] (2)
 > **Cross-References:** we talked about (1), we discussed (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1151,7 +1158,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/learning-more-about-sustainability?u=76281980)
@@ -1214,6 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (2), [[Sustainability]] (1), business (1), [[Software Development]] (1), cloud (1)
 > **Versions:** 8.5 (1), 4.2 (1), 122.6 (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** csp (1)

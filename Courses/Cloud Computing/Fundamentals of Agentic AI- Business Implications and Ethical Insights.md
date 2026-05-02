@@ -29,7 +29,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Fundamentals%20of%20Agentic%20AI-%20Business%20Implications%20and%20Ethical%20Insights.md)
@@ -48,30 +48,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to agentic AI for businesses
+  - [Introduction to agentic AI for businesses](#introduction-to-agentic-ai-for-businesses)
 - [**1. Understanding the Evolution of Agentic AI**](#1-understanding-the-evolution-of-agentic-ai) (3 videos)
-  - What is agentic AI?
-  - How does agentic AI broadly function?
-  - Historical improvements and limitations
+  - [What is agentic AI?](#what-is-agentic-ai)
+  - [How does agentic AI broadly function?](#how-does-agentic-ai-broadly-function)
+  - [Historical improvements and limitations](#historical-improvements-and-limitations)
 - [**2. Business Applications of Agentic AI**](#2-business-applications-of-agentic-ai) (3 videos)
-  - Impacts on processes
-  - Changing team dynamics
-  - Varying implications across industries
+  - [Impacts on processes](#impacts-on-processes)
+  - [Changing team dynamics](#changing-team-dynamics)
+  - [Varying implications across industries](#varying-implications-across-industries)
 - [**3. Agentic AI Theoretical and Ethical Considerations**](#3-agentic-ai-theoretical-and-ethical-considerations) (3 videos)
-  - Realized versus expected applications of agentic AI
-  - Ethical concerns of implementing AI into business practices
-  - Planning for AI ethics
+  - [Realized versus expected applications of agentic AI](#realized-versus-expected-applications-of-agentic-ai)
+  - [Ethical concerns of implementing AI into business practices](#ethical-concerns-of-implementing-ai-into-business-practices)
+  - [Planning for AI ethics](#planning-for-ai-ethics)
 - [**4. Future Outlook on Agentic AI**](#4-future-outlook-on-agentic-ai) (2 videos)
-  - How agentic AI may evolve in the next ten years
-  - Upcoming challenges with rapid innovation
+  - [How agentic AI may evolve in the next ten years](#how-agentic-ai-may-evolve-in-the-next-ten-years)
+  - [Upcoming challenges with rapid innovation](#upcoming-challenges-with-rapid-innovation)
 - [**5. Strategic Planning for Agentic AI Implementation**](#5-strategic-planning-for-agentic-ai-implementation) (3 videos)
-  - Strategic planning for AI integration
-  - Balancing innovation with practicality
-  - Next steps in planning for agentic AI
+  - [Strategic planning for AI integration](#strategic-planning-for-ai-integration)
+  - [Balancing innovation with practicality](#balancing-innovation-with-practicality)
+  - [Next steps in planning for agentic AI](#next-steps-in-planning-for-agentic-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to agentic AI for businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/introduction-to-agentic-ai-for-businesses?u=76281980)
@@ -94,13 +94,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), business (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
 
 
 ### 1. Understanding the Evolution of Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is agentic AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980)
@@ -157,7 +158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), require (1), self (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** ai (13), [[Decision-Making]] (4), [[Forms]] (2), [[ChatGPT]] (1), [[React.js|React]] (1)
 > **Analogies:** imagine (2), such as (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rpa (1)
@@ -210,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (4), next (2), [[Decision-Making]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - each (1)
@@ -255,6 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Reinforcement Learning]] (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), data (1), business (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -263,7 +265,7 @@ created: 2026-04-29
 
 ### 2. Business Applications of Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Impacts on processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980)
@@ -302,7 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (8), business (2), data (2), [[Supply Chain Management]] (1), next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
@@ -343,8 +345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), teams (3), [[Team Collaboration]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - as (1)
 
 #### Varying implications across industries
@@ -382,15 +384,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Supply Chain Operations]] (1), product (1), [[Predictive Analytics]] (1), management (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - we (1)
 
 
 ### 3. Agentic AI Theoretical and Ethical Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Realized versus expected applications of agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980)
@@ -445,8 +447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[Real-Time]] (2), management (1), power (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), yield (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Warnings:** caution (1)
@@ -511,7 +513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), function (1), abstract (1)
+> **Frameworks & Libraries:** ai (16), data (5), [[Decision-Making]] (2), [[Ethics]] (2), next (2)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Definitions:** refers to (2)
 > **Cross-References:** in the next (1)
@@ -568,15 +570,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), [[Accountability]] (2), [[Ethics]] (1), business (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Analogies:** such as (1)
 > **Speakers:** - while (1)
 
 
 ### 4. Future Outlook on Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How agentic AI may evolve in the next ten years
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980)
@@ -625,8 +627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), next (2), teams (1), data (1), [[Generative AI Tools]] (1)
 > **Analogies:** for example (2), such as (1), just like (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - agentic (1)
@@ -678,14 +680,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), self (1)
+> **Frameworks & Libraries:** ai (7), data (4), [[Privacy]] (2), teams (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
 
 ### 5. Strategic Planning for Agentic AI Implementation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic planning for AI integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980)
@@ -740,6 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), business (4), [[Automation]] (1), [[Search]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
@@ -786,6 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), business (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
@@ -844,7 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this, (1)
+> **Frameworks & Libraries:** ai (16), business (2), [[Forms]] (1), [[Decision-Making]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [zackkass.com](https://zackkass.com) (1)
 > **Cross-References:** we covered (1)

@@ -28,7 +28,7 @@ tags:
   - skill/apache-kafka
   - skill/scalable-web-applications
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Apache%20Kafka%20Essential%20Training%20Building%20Scalable%20Applications.md)
@@ -47,52 +47,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building robust Kafka applications
+  - [Building robust Kafka applications](#building-robust-kafka-applications)
 - [**1. Introduction to Kafka**](#1-introduction-to-kafka) (4 videos)
-  - What is Kafka?
-  - Prerequisites for the course
-  - Kafka scaling and resiliency
-  - Setting up the exercise files
+  - [What is Kafka?](#what-is-kafka)
+  - [Prerequisites for the course](#prerequisites-for-the-course)
+  - [Kafka scaling and resiliency](#kafka-scaling-and-resiliency)
+  - [Setting up the exercise files](#setting-up-the-exercise-files)
 - [**2. Kafka Scaling Concepts**](#2-kafka-scaling-concepts) (5 videos)
-  - A Kafka cluster
-  - Kafka controllers
-  - Replication
-  - Partition leaders
-  - Security
+  - [A Kafka cluster](#a-kafka-cluster)
+  - [Kafka controllers](#kafka-controllers)
+  - [Replication](#replication)
+  - [Partition leaders](#partition-leaders)
+  - [Security](#security)
 - [**3. Building a Kafka Cluster**](#3-building-a-kafka-cluster) (5 videos)
-  - Kafka cluster setup
-  - Running the cluster
-  - Creating topics with replication
-  - Kafka clusters in action
-  - Kafka resiliency in action
+  - [Kafka cluster setup](#kafka-cluster-setup)
+  - [Running the cluster](#running-the-cluster)
+  - [Creating topics with replication](#creating-topics-with-replication)
+  - [Kafka clusters in action](#kafka-clusters-in-action)
+  - [Kafka resiliency in action](#kafka-resiliency-in-action)
 - [**4. Building Scalable Producers**](#4-building-scalable-producers) (5 videos)
-  - Producer internals
-  - Producer publishing options
-  - Acknowledgments in Kafka
-  - Additional producer parameters
-  - Java producer options example
+  - [Producer internals](#producer-internals)
+  - [Producer publishing options](#producer-publishing-options)
+  - [Acknowledgments in Kafka](#acknowledgments-in-kafka)
+  - [Additional producer parameters](#additional-producer-parameters)
+  - [Java producer options example](#java-producer-options-example)
 - [**5. Building Scalable Consumers**](#5-building-scalable-consumers) (5 videos)
-  - How consumer works
-  - Batching message consumption
-  - Committing messages
-  - Java consumer example
-  - Multi-threaded consumers
+  - [How consumer works](#how-consumer-works)
+  - [Batching message consumption](#batching-message-consumption)
+  - [Committing messages](#committing-messages)
+  - [Java consumer example](#java-consumer-example)
+  - [Multi-threaded consumers](#multi-threaded-consumers)
 - [**6. Kafka Best Practices**](#6-kafka-best-practices) (4 videos)
-  - Managing partition counts
-  - Managing messages
-  - Managing consumer settings
-  - Managing resiliency
+  - [Managing partition counts](#managing-partition-counts)
+  - [Managing messages](#managing-messages)
+  - [Managing consumer settings](#managing-consumer-settings)
+  - [Managing resiliency](#managing-resiliency)
 - [**7. Use Case Project**](#7-use-case-project) (4 videos)
-  - Kafka applications use case: Problem definition
-  - Setting up topics
-  - Producing data in Java
-  - Consuming data in Java
+  - [Kafka applications use case: Problem definition](#kafka-applications-use-case-problem-definition)
+  - [Setting up topics](#setting-up-topics)
+  - [Producing data in Java](#producing-data-in-java)
+  - [Consuming data in Java](#consuming-data-in-java)
 - [**Conclusion**](#conclusion) (1 videos)
-  - How do you extend your Kafka learning journey?
+  - [How do you extend your Kafka learning journey?](#how-do-you-extend-your-kafka-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building robust Kafka applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980)
@@ -113,15 +113,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Big Data]] (3), [[Apache Kafka]] (3), data (1), [[Scalability]] (1)
 > **CLI Commands:** apache (3)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [kumaran] (1)
 
 
 ### 1. Introduction to Kafka
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Kafka?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980)
@@ -170,7 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Big Data]] (2), [[Apache Kafka]] (1), concurrent (1), next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** in the next (1)
@@ -211,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[Scalability]] (2), [[Apache Kafka]] (2), data (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** docker (3), apache (2)
-> **Code Keywords:** let (3)
 > **Prerequisites:** set up (2), getting started (1)
 > **Versions:** java 19 (2)
 > **Cross-References:** in the next (1)
@@ -270,8 +270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Scalability]] (3), [[Resiliency]] (2), parallel (2), [[Big Data]] (1)
 > **CLI Commands:** make (1), node (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -327,11 +327,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), next (1)
 > **CLI Commands:** make (2), docker (1), unzip (1)
 > **Env Vars:** idea (2), sdk (2)
 > **Tools:** intellij (2), command line (2)
 > **Exercise Files:** exercise files (4)
-> **Code Keywords:** let (2), case, (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Versions:** java 19 (2)
 > **File Paths:** kafka-cluster.yml (1)
@@ -339,7 +339,7 @@ created: 2026-04-29
 
 ### 2. Kafka Scaling Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A Kafka cluster
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/a-kafka-cluster?u=76281980)
@@ -396,9 +396,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), [[Metadata]] (4), data (3), management (2), next (1)
 > **CLI Commands:** node (4)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -445,8 +445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (4), node (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -519,7 +519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Resiliency]] (4), feature (1), next (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -603,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), continue (1)
+> **Frameworks & Libraries:** data (3), [[Metadata]] (2), leadership (1)
 > **Cross-References:** in the last (1), we discussed (1), previous video (1)
 > **Warnings:** note that (2)
 > **Definitions:** is called (1)
@@ -642,9 +642,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (3), [[Representational State Transfer (REST)|Rest]] (2), api (1), management (1)
 > **Env Vars:** ssl (3), sasl (1), api (1)
 > **Best Practices:** recommended (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** docker (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -653,7 +653,7 @@ created: 2026-04-29
 
 ### 3. Building a Kafka Cluster
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kafka cluster setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980)
@@ -766,10 +766,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), next (5), [[Scalability]] (1), [[Resiliency]] (1), [[Java]] (1)
 > **CLI Commands:** node (7), docker (6)
 > **Ports:** port 9092 (3), port 19012 (2), port 9000 (1)
 > **Prerequisites:** setup (4), set up (2)
-> **Code Keywords:** let (3), finally, (1), interface (1)
 > **File Paths:** resources/chapter3commands.txt (1), kafka-cluster.yml (1)
 > **Versions:** version 3 (1)
 > **Cross-References:** in the next (1)
@@ -828,6 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[Linux]] (1), [[Windows]] (1), [[Powershell]] (1), application (1)
 > **Tools:** terminal (3), docker desktop (1), powershell (1), command line (1)
 > **CLI Commands:** docker (5)
 > **UI Navigation:** navigate to (1), go to (1), open the (1)
@@ -835,7 +836,6 @@ created: 2026-04-29
 > **Prerequisites:** install (1), setup (1)
 > **Code Identifiers:** macos (1)
 > **URLs:** [localhost:9000](https://localhost:9000) (1)
-> **Ports:** :9000 (1)
 
 #### Creating topics with replication
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/creating-topics-with-replication?u=76281980)
@@ -902,7 +902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** hit (1), node (1), next (1)
 > **UI Navigation:** click on (2), open the (1)
 > **CLI Commands:** find (1), node (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1000,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), switch (2)
+> **Frameworks & Libraries:** [[Java]] (2), data (2), parallel (1), [[Scalability]] (1), next (1)
 > **UI Navigation:** go to (3), click on (2), switch to (2)
 > **Cross-References:** go back to (3), in the next (1)
 > **File Paths:** kafkasimpleconsumer.java (1)
@@ -1117,7 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[Metadata]] (4), leadership (3), next (2), node (2), [[Search]] (1)
 > **CLI Commands:** node (2), docker (1), make (1)
 > **UI Navigation:** go to (3), navigate to (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1129,7 +1129,7 @@ created: 2026-04-29
 
 ### 4. Building Scalable Producers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Producer internals
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980)
@@ -1186,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), next (2), [[Programming]] (1), [[Scala]] (1), [[Java]] (1)
 > **Cross-References:** in the last (1), later in (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** python (1)
@@ -1260,7 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), function (2), let (1)
+> **Frameworks & Libraries:** next (2), [[Metadata]] (1), data (1), [[Java]] (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1314,8 +1314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** previous video (2), we discussed (1), in the next (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** acks (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** note that (2)
@@ -1366,7 +1366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** next (2), [[Java]] (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -1456,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), class. (2), finally, (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Java]] (3), next (2), [[Metadata]] (2), hit (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **File Paths:** kafkaproducerwithoptions.java (1), kafkacallback.java (1)
 > **Env Vars:** acks (1), gzip (1)
@@ -1468,7 +1468,7 @@ created: 2026-04-29
 
 ### 5. Building Scalable Consumers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How consumer works
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-consumer-works?u=76281980)
@@ -1523,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1585,8 +1585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (6), data (1), next (1)
 > **Env Vars:** fetch (6), bytes (4), min (3), max (3), wait (2)
-> **Code Keywords:** let (2)
 > **Prerequisites:** required to (1), configure (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1644,7 +1644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (2), case. (2), let (1), case, (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** commitsync (1), commitasync (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1716,7 +1716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), async (2), finally, (1)
+> **Frameworks & Libraries:** next (3), [[Java]] (2), [[Batch Processing]] (1), [[Fetch]] (1)
 > **Env Vars:** fetch_min_bytes (2), max_partition_fetch_bytes (1), auto_commit (1), enable_auto_commit (1)
 > **File Paths:** kafkaconsumerwithoptions.java (1)
 > **Code Identifiers:** commitasync (1)
@@ -1816,7 +1816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), static (3), case. (1), class. (1), implements (1)
+> **Frameworks & Libraries:** parallel (2), [[Scalability]] (2), [[Java]] (2), [[Resiliency]] (1), next (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **Warnings:** note that (2)
 > **File Paths:** scalableconsumer.java (1)
@@ -1828,7 +1828,7 @@ created: 2026-04-29
 
 ### 6. Kafka Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing partition counts
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-partition-counts?u=76281980)
@@ -1881,10 +1881,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** note that (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [host] (1)
 
 #### Managing messages
@@ -1930,7 +1930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** hdfs (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1966,7 +1966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (1), [[Real-Time]] (1), data (1), [[Resiliency]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -2007,16 +2007,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Resiliency]] (2), data (2), next (1)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Use Case Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kafka applications use case: Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980)
@@ -2055,7 +2055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Fetch]] (2), [[Scalability]] (1), [[Resiliency]] (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2078,8 +2078,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), next (1)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2119,7 +2119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Java]] (2), next (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **File Paths:** options.java (1)
 > **Prerequisites:** set up (1)
@@ -2162,7 +2162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), case. (1)
+> **Frameworks & Libraries:** [[Java]] (2), data (2), [[Fetch]] (1)
 > **File Paths:** usecaseconsumerwithoptions.java (1)
 > **Code Identifiers:** commitasync (1)
 > **Env Vars:** fetch_max_wait_ms (1)
@@ -2171,7 +2171,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do you extend your Kafka learning journey?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980)
@@ -2192,8 +2192,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Big Data]] (2), [[Apache Kafka]] (1), [[Apache Spark]] (1)
 > **CLI Commands:** apache (3), find (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [kumaran] (1)
 
 

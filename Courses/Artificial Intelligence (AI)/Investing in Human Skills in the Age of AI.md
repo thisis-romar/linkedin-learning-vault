@@ -28,7 +28,7 @@ tags:
   - skill/emotional-intelligence
   - skill/critical-thinking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Investing%20in%20Human%20Skills%20in%20the%20Age%20of%20AI.md)
@@ -47,21 +47,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Human skills and AI
+  - [Human skills and AI](#human-skills-and-ai)
 - [**1. Human Skills in the Age of AI**](#1-human-skills-in-the-age-of-ai) (9 videos)
-  - What will make human skills valuable in the age of AI?
-  - Understanding terms used in the AI discussion
-  - What’s the “relationship economy”?
-  - Career changes brought about by AI
-  - Industries and human skills evolving due to AI
-  - The most helpful human skills
-  - What are ways in which AI might strengthen human capabilities?
-  - What’s the ideal collaboration between human skills and AI tools?
-  - How do we develop, validate, and demonstrate our human skills?
+  - [What will make human skills valuable in the age of AI?](#what-will-make-human-skills-valuable-in-the-age-of-ai)
+  - [Understanding terms used in the AI discussion](#understanding-terms-used-in-the-ai-discussion)
+  - [What’s the “relationship economy”?](#whats-the-relationship-economy)
+  - [Career changes brought about by AI](#career-changes-brought-about-by-ai)
+  - [Industries and human skills evolving due to AI](#industries-and-human-skills-evolving-due-to-ai)
+  - [The most helpful human skills](#the-most-helpful-human-skills)
+  - [What are ways in which AI might strengthen human capabilities?](#what-are-ways-in-which-ai-might-strengthen-human-capabilities)
+  - [What’s the ideal collaboration between human skills and AI tools?](#whats-the-ideal-collaboration-between-human-skills-and-ai-tools)
+  - [How do we develop, validate, and demonstrate our human skills?](#how-do-we-develop-validate-and-demonstrate-our-human-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Human skills and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/human-skills-and-ai?u=76281980)
@@ -80,6 +80,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - here (1)
@@ -87,7 +88,7 @@ created: 2026-04-29
 
 ### 1. Human Skills in the Age of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What will make human skills valuable in the age of AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980)
@@ -160,7 +161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (1), if, (1)
+> **Frameworks & Libraries:** ai (4), [[Soft Skills]] (2), power (1), career (1), [[Sustainability]] (1)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
@@ -204,7 +205,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - before (1)
 
 #### What’s the “relationship economy”?
@@ -274,6 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), next (3), [[LinkedIn]] (1), [[Big Data]] (1)
 > **Speakers:** - we (1)
 
 #### Career changes brought about by AI
@@ -353,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[LinkedIn]] (2), [[Agile Development|Agile]] (1), data (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** function (1), require (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - so (1)
 
@@ -393,6 +394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), leadership (1), [[Internal Mobility]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - ai (1)
 
@@ -512,8 +514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), career (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - ai (1)
 
 #### What’s the ideal collaboration between human skills and AI tools?
@@ -559,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), case, (2), case. (1)
+> **Frameworks & Libraries:** ai (6), data (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - ai (1)
 
@@ -598,6 +600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - for (1)

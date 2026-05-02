@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/IoT%20Foundations-%20Standards%20and%20Ecosystems.md)
@@ -41,52 +41,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The foundations of IoT
-  - What you should know
+  - [The foundations of IoT](#the-foundations-of-iot)
+  - [What you should know](#what-you-should-know)
 - [**1. IoT Overview**](#1-iot-overview) (9 videos)
-  - Early IoT definitions
-  - Definition of IoT
-  - Web of Things (WoT)
-  - IoT architectures
-  - IoT components
-  - IoT example: Healthcare
-  - IoT architecture of a system
-  - IoT components of a system
-  - IoT smart watch example
+  - [Early IoT definitions](#early-iot-definitions)
+  - [Definition of IoT](#definition-of-iot)
+  - [Web of Things (WoT)](#web-of-things-wot)
+  - [IoT architectures](#iot-architectures)
+  - [IoT components](#iot-components)
+  - [IoT example: Healthcare](#iot-example-healthcare)
+  - [IoT architecture of a system](#iot-architecture-of-a-system)
+  - [IoT components of a system](#iot-components-of-a-system)
+  - [IoT smart watch example](#iot-smart-watch-example)
 - [**2. IoT Ecosystem**](#2-iot-ecosystem) (5 videos)
-  - The IoT ecosystem
-  - IoT technology
-  - IoT markets, part 1
-  - IoT markets, part 2
-  - IoT standards
+  - [The IoT ecosystem](#the-iot-ecosystem)
+  - [IoT technology](#iot-technology)
+  - [IoT markets, part 1](#iot-markets-part-1)
+  - [IoT markets, part 2](#iot-markets-part-2)
+  - [IoT standards](#iot-standards)
 - [**3. IoT Standards**](#3-iot-standards) (7 videos)
-  - Standards organizations
-  - Standards name format
-  - Standardization development process stages, part 1
-  - Standardization development process stages, part 2
-  - Standardization development process stages, part 3
-  - Overview of IEEE IoT standards
-  - Standardization challenges
+  - [Standards organizations](#standards-organizations)
+  - [Standards name format](#standards-name-format)
+  - [Standardization development process stages, part 1](#standardization-development-process-stages-part-1)
+  - [Standardization development process stages, part 2](#standardization-development-process-stages-part-2)
+  - [Standardization development process stages, part 3](#standardization-development-process-stages-part-3)
+  - [Overview of IEEE IoT standards](#overview-of-ieee-iot-standards)
+  - [Standardization challenges](#standardization-challenges)
 - [**4. IoT Challenges**](#4-iot-challenges) (4 videos)
-  - Security
-  - Privacy
-  - Complexity and standards
-  - Legal issues
+  - [Security](#security)
+  - [Privacy](#privacy)
+  - [Complexity and standards](#complexity-and-standards)
+  - [Legal issues](#legal-issues)
 - [**5. IoT in Industrial Automation**](#5-iot-in-industrial-automation) (4 videos)
-  - Overview of IoT ecosystem in industrial automation
-  - Industrial IoT
-  - Common IoT standards in industrial automation
-  - IoT industrial example: Smart factory
+  - [Overview of IoT ecosystem in industrial automation](#overview-of-iot-ecosystem-in-industrial-automation)
+  - [Industrial IoT](#industrial-iot)
+  - [Common IoT standards in industrial automation](#common-iot-standards-in-industrial-automation)
+  - [IoT industrial example: Smart factory](#iot-industrial-example-smart-factory)
 - [**6. IoT in Community: Smart Cities**](#6-iot-in-community-smart-cities) (3 videos)
-  - Smart cities
-  - Smart city example: Singapore
-  - Smart city example: San Francisco
+  - [Smart cities](#smart-cities)
+  - [Smart city example: Singapore](#smart-city-example-singapore)
+  - [Smart city example: San Francisco](#smart-city-example-san-francisco)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The foundations of IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-foundations-of-iot-22850846?u=76281980)
@@ -107,8 +107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (2), [[IoT]] (2), [[Security]] (1), management (1), power (1)
 > **Env Vars:** iot (2)
-> **Code Keywords:** public (1)
 > **Speakers:** - controlling (1)
 
 #### What you should know
@@ -124,12 +124,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (4), [[Internet of Things (IoT)|Internet of things]] (1), [[Automation]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. IoT Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Early IoT definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/early-iot-definitions?u=76281980)
@@ -156,6 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (5), [[Internet of Things (IoT)|Internet of things]] (2), management (1), [[Forms]] (1), [[Supply Chain Management]] (1)
 > **Env Vars:** mit (1), m2m (1), scada (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -183,6 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (2), [[Electronics]] (1), [[Engineering]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -209,6 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[Internet of Things (IoT)|Internet of things]] (4), application (2), [[IoT]] (2), data (1)
 > **Env Vars:** iot (2), wot (1)
 > **Speakers:** - [narrator] (1)
 
@@ -257,8 +261,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (8), data (7), application (5), database (1), generic (1)
 > **Env Vars:** osi (3), iso (1), iot (1), gps (1)
-> **Code Keywords:** finally, (1), for. (1), let (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -294,6 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Hardware]] (5), [[IoT]] (4), application (2), [[Real-Time]] (2)
 > **Analogies:** such as (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -327,6 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[IoT]] (4), [[Security]] (3), application (1), web (1)
 > **Env Vars:** ssl (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -351,6 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), application (2), [[IoT]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** iot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -365,6 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), [[IoT]] (1), [[Virtual Machines]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 
 #### IoT smart watch example
@@ -394,13 +402,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[IoT]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. IoT Ecosystem
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The IoT ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-iot-ecosystem?u=76281980)
@@ -415,6 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (5), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -447,6 +457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (9), [[5G]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -487,6 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (12), business (1), [[E-Commerce]] (1), [[Automation]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### IoT markets, part 2
@@ -512,6 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (6), [[Security]] (2), [[Microsoft Products|Products]] (2), traffic (1), [[Automation]] (1)
 > **Env Vars:** iot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -554,9 +567,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (12), [[Engineering]] (2), [[Electronics]] (1), [[Automation]] (1), management (1)
 > **Env Vars:** ieee (4), iso (3), iot (2), iec (2)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** public (1)
 > **Versions:** 802.11 (1)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
@@ -565,7 +578,7 @@ created: 2026-04-29
 
 ### 3. IoT Standards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Standards organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/standards-organizations?u=76281980)
@@ -588,6 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Engineering]] (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
@@ -636,6 +650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (2), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Env Vars:** iso (7), jtc (6), iec (5), ieee (2)
 > **Definitions:** is called (2), stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -682,7 +697,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Standardization development process stages, part 2
@@ -708,6 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Standardization development process stages, part 3
@@ -755,8 +770,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ieee (3), iso (1)
-> **Code Keywords:** pass (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -813,6 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (9), [[Internet of Things (IoT)|Internet of things]] (2), [[Security]] (1), [[Privacy]] (1), data (1)
 > **Env Vars:** ieee (17), bog (1), cag (1)
 > **Definitions:** stands for (2)
 > **Versions:** 802.3 (1)
@@ -835,7 +851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[IoT]] (2), data (1), [[Scalability]] (1)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -843,7 +859,7 @@ created: 2026-04-29
 
 ### 4. IoT Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/security?u=76281980)
@@ -876,6 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (6), [[Security]] (2), [[Cybersecurity]] (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -915,7 +932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** [[IoT]] (6), [[Privacy]] (6), data (5)
 > **Speakers:** - [instructor] (1)
 
 #### Complexity and standards
@@ -945,6 +962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (8), [[Microsoft Products|Products]] (1), product (1), application (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -981,14 +999,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), raise (1)
+> **Frameworks & Libraries:** data (8), [[IoT]] (7), [[Privacy]] (1), [[Big Data]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Versions:** 5.9 (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. IoT in Industrial Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of IoT ecosystem in industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/overview-of-iot-ecosystem-in-industrial-automation?u=76281980)
@@ -1019,6 +1037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (5), [[Automation]] (4), management (2), next (1), power (1)
 > **Env Vars:** plc (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1048,6 +1067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (5), [[Internet of Things (IoT)|Internet of things]] (2), [[Big Data]] (1), data (1), management (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1086,6 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (5), [[Automation]] (3), management (1), application (1), data (1)
 > **Env Vars:** iec (3), ieee (2), profinet (1), hart (1), profibus (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1131,14 +1152,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1)
+> **Frameworks & Libraries:** data (8), [[IoT]] (5), cloud (1), [[Big Data Analytics]] (1), management (1)
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. IoT in Community: Smart Cities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Smart cities
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/smart-cities?u=76281980)
@@ -1173,8 +1194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (5), power (1), [[Real-Time]] (1), [[Security]] (1)
 > **Env Vars:** ieee (3), ttc (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1212,9 +1233,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (3), [[Real-Time]] (1), data (1), traffic (1), application (1)
 > **Env Vars:** iot (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** public (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1249,8 +1270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** public (1)
 > **Env Vars:** leed (1)
 > **Definitions:** means that (1)
 > **Speakers:** - san (1)
@@ -1258,7 +1279,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/next-steps?u=76281980)
@@ -1279,7 +1300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[Automation]] (3), [[Internet of Things (IoT)|Internet of things]] (1), next (1)
 > **Speakers:** - [zahraa] (1)
 
 

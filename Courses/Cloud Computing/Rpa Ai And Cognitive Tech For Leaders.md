@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/digital-transformation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Rpa%20Ai%20And%20Cognitive%20Tech%20For%20Leaders.md)
@@ -56,39 +56,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Your digital ops journey
-  - What's changed in the age of generative AI?
-  - My discussion with a CEO
-  - The imperative of the digital-era executive
+  - [Your digital ops journey](#your-digital-ops-journey)
+  - [What's changed in the age of generative AI?](#whats-changed-in-the-age-of-generative-ai)
+  - [My discussion with a CEO](#my-discussion-with-a-ceo)
+  - [The imperative of the digital-era executive](#the-imperative-of-the-digital-era-executive)
 - [**1. The Technology Landscape**](#1-the-technology-landscape) (5 videos)
-  - Software is eating the world—of work
-  - The digital operations landscape
-  - Piecing it all together with Legos
-  - Playing with AI Legos
-  - New Legos
+  - [Software is eating the world—of work](#software-is-eating-the-worldof-work)
+  - [The digital operations landscape](#the-digital-operations-landscape)
+  - [Piecing it all together with Legos](#piecing-it-all-together-with-legos)
+  - [Playing with AI Legos](#playing-with-ai-legos)
+  - [New Legos](#new-legos)
 - [**2. Use Cases**](#2-use-cases) (4 videos)
-  - Where is digital ops?
-  - Front-office use cases
-  - Back-office use cases
-  - The whole digital operation
+  - [Where is digital ops?](#where-is-digital-ops)
+  - [Front-office use cases](#front-office-use-cases)
+  - [Back-office use cases](#back-office-use-cases)
+  - [The whole digital operation](#the-whole-digital-operation)
 - [**3. The Top-Down Mandate for Change**](#3-the-top-down-mandate-for-change) (4 videos)
-  - The need for a strong, top-down mandate
-  - Examples of top-down mandates
-  - How to draft your top-down mandate
-  - Examples of successful outcomes
+  - [The need for a strong, top-down mandate](#the-need-for-a-strong-top-down-mandate)
+  - [Examples of top-down mandates](#examples-of-top-down-mandates)
+  - [How to draft your top-down mandate](#how-to-draft-your-top-down-mandate)
+  - [Examples of successful outcomes](#examples-of-successful-outcomes)
 - [**4. Tips from the Trenches**](#4-tips-from-the-trenches) (6 videos)
-  - Benefits: ROP portfolio
-  - Invest reasonably
-  - The DIY fallacy
-  - Grassroots Innovation
-  - Labor stays, and so do bots
-  - Managing AI expectations
+  - [Benefits: ROP portfolio](#benefits-rop-portfolio)
+  - [Invest reasonably](#invest-reasonably)
+  - [The DIY fallacy](#the-diy-fallacy)
+  - [Grassroots Innovation](#grassroots-innovation)
+  - [Labor stays, and so do bots](#labor-stays-and-so-do-bots)
+  - [Managing AI expectations](#managing-ai-expectations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your digital ops journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/your-digital-ops-journey-25743614?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (3), rpa (1), ai (1), [[Automation]] (1)
 > **Env Vars:** rpa (1)
 > **Speakers:** - companies (1)
 
@@ -144,7 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** ai (4), [[Large Language Models (LLM)|Large language models]] (1), [[Automation]] (1), [[Generative AI]] (1)
 > **Speakers:** - before (1)
 
 #### My discussion with a CEO
@@ -182,6 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), business (1), [[Algorithms]] (1), power (1), [[Blockchain]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** ceo (1), mba (1)
 > **Exercise Files:** exercise files (2)
@@ -248,7 +249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** business (4), ai (2), [[Algorithms]] (2), [[Automation]] (2), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rpa (1)
 > **Definitions:** known as (1)
@@ -257,7 +258,7 @@ created: 2026-04-29
 
 ### 1. The Technology Landscape
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Software is eating the world—of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980)
@@ -308,7 +309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), continue (1)
+> **Frameworks & Libraries:** business (2), [[Automation]] (2), [[Algorithms]] (1), hr (1), teams (1)
 > **Env Vars:** rpa (1)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** exercise files (1)
@@ -376,6 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Automation]] (5), business (3), teams (2), rpa (1)
 > **Env Vars:** rpa (1), rpi (1), iaa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
@@ -431,8 +433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (2), [[Digital Transformation]] (1), business (1), generic (1), functional (1)
 > **Env Vars:** rpa (2), erp (1)
-> **Code Keywords:** require (1), function (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - leading (1)
@@ -504,9 +506,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), generic (2), [[Enterprise Software]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
 > **Env Vars:** lego (5), legos (2), ocr (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** function (1), let (1), for. (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -541,15 +543,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), power (1), hr (1), job description (1)
 > **Env Vars:** agi (1), ocr (1), idp (1)
-> **Code Keywords:** finally, (1), case, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - as (1)
 
 
 ### 2. Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where is digital ops?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/where-is-digital-ops?u=76281980)
@@ -576,6 +578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -632,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), for. (1), yield (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Automation]] (5), data (2), rpa (2), [[Databases]] (1)
 > **Env Vars:** rpa (2), rda (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1), for example (1)
@@ -690,9 +693,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (5), [[Forms]] (5), data (4), [[Microsoft Office|Office]] (3), hr (3)
 > **Env Vars:** rpa (5), ocr (3), icr (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -750,7 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), function (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), data (4), [[Automation]] (2), [[Design Thinking]] (2), [[Forms]] (1)
 > **Cross-References:** we mentioned (2)
 > **Analogies:** picture (1), for instance (1)
 > **Env Vars:** hfs (1)
@@ -760,7 +763,7 @@ created: 2026-04-29
 
 ### 3. The Top-Down Mandate for Change
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for a strong, top-down mandate
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-need-for-a-strong-top-down-mandate?u=76281980)
@@ -797,6 +800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), business (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
@@ -836,7 +840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1), else. (1)
+> **Frameworks & Libraries:** [[Automation]] (2), [[Banking]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ceo (2)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -927,9 +931,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (2), [[Automation]] (2), business (2), [[Forms]] (1), teams (1)
 > **Analogies:** for instance (3), imagine (1), such as (1)
 > **Env Vars:** rpa (2), ceo (1)
-> **Code Keywords:** public (1), this. (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **Definitions:** in other words (1), refers to (1)
 > **Cross-References:** in the next (1)
@@ -958,6 +962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (1), [[Automation]] (1), business (1), [[Algorithms]] (1), next (1)
 > **Env Vars:** ceo (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - if (1)
@@ -965,7 +970,7 @@ created: 2026-04-29
 
 ### 4. Tips from the Trenches
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits: ROP portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980)
@@ -1004,8 +1009,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rpa (2), data (2), [[Automation]] (1), [[Algorithms]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** rpa (2)
-> **Code Keywords:** for. (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1040,6 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), game (1), [[Digital Transformation]] (1), teams (1), rpa (1)
 > **Env Vars:** rpa (1)
 > **Speakers:** - this (1)
 
@@ -1084,8 +1090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), teams (1)
 > **Env Vars:** diy (2), dna (1)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - i (1)
@@ -1123,6 +1129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), data (2), [[Microsoft]] (1), power (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - the (1)
@@ -1190,7 +1197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), this. (1), this: (1)
+> **Frameworks & Libraries:** [[Automation]] (4), business (3), ai (2), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Versions:** 3.5 (1)
 > **Cross-References:** in the next (1)
@@ -1298,14 +1305,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), finally, (1)
+> **Frameworks & Libraries:** ai (9), data (9), teams (2), next (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/next-steps?u=76281980)
@@ -1348,8 +1355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), teams (2), leadership (1), business (1), [[Automation]] (1)
 > **Env Vars:** ceo (2), dna (1), diy (1)
-> **Code Keywords:** for. (1), finally, (1), continue (1)
 > **Speakers:** - so (1)
 
 

@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Data%20Dashboards.md)
@@ -47,62 +47,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Building data dashboards in Power BI
-  - What you should know
-  - Setting up the Power BI model
-  - Building the Power BI ecosystem
-  - Choosing colors
+  - [Building data dashboards in Power BI](#building-data-dashboards-in-power-bi)
+  - [What you should know](#what-you-should-know)
+  - [Setting up the Power BI model](#setting-up-the-power-bi-model)
+  - [Building the Power BI ecosystem](#building-the-power-bi-ecosystem)
+  - [Choosing colors](#choosing-colors)
 - [**1. Working with Data**](#1-working-with-data) (9 videos)
-  - Configuring table and matrix visuals
-  - Building hierarchies
-  - Creating lists and bins
-  - Applying filters
-  - Building and using DAX formulas
-  - Using quick measures formulas
-  - Formatting visuals
-  - Adding color gradients to heatmaps
-  - Utilizing report themes
+  - [Configuring table and matrix visuals](#configuring-table-and-matrix-visuals)
+  - [Building hierarchies](#building-hierarchies)
+  - [Creating lists and bins](#creating-lists-and-bins)
+  - [Applying filters](#applying-filters)
+  - [Building and using DAX formulas](#building-and-using-dax-formulas)
+  - [Using quick measures formulas](#using-quick-measures-formulas)
+  - [Formatting visuals](#formatting-visuals)
+  - [Adding color gradients to heatmaps](#adding-color-gradients-to-heatmaps)
+  - [Utilizing report themes](#utilizing-report-themes)
 - [**2. Visualizing Data**](#2-visualizing-data) (8 videos)
-  - Visualizing time-intelligence trends
-  - Using column charts to visualize trends
-  - Ranking categorical totals
-  - Comparing proportions
-  - Setting up histograms
-  - Utilizing scatter plots
-  - Challenge: Visualizing data
-  - Solution: Visualizing data
+  - [Visualizing time-intelligence trends](#visualizing-time-intelligence-trends)
+  - [Using column charts to visualize trends](#using-column-charts-to-visualize-trends)
+  - [Ranking categorical totals](#ranking-categorical-totals)
+  - [Comparing proportions](#comparing-proportions)
+  - [Setting up histograms](#setting-up-histograms)
+  - [Utilizing scatter plots](#utilizing-scatter-plots)
+  - [Challenge: Visualizing data](#challenge-visualizing-data)
+  - [Solution: Visualizing data](#solution-visualizing-data)
 - [**3. Comparing Multiple Variables**](#3-comparing-multiple-variables) (7 videos)
-  - Analytics options: Reference, trend, and forecast lines
-  - Creating sparklines to quickly view trends
-  - Leveraging box plots and violin plots
-  - Visualizing flows with Sankey charts
-  - Examining key performance indicators (KPIs)
-  - Challenge: Analyzing multiple variables
-  - Solution: Analyzing multiple variables
+  - [Analytics options: Reference, trend, and forecast lines](#analytics-options-reference-trend-and-forecast-lines)
+  - [Creating sparklines to quickly view trends](#creating-sparklines-to-quickly-view-trends)
+  - [Leveraging box plots and violin plots](#leveraging-box-plots-and-violin-plots)
+  - [Visualizing flows with Sankey charts](#visualizing-flows-with-sankey-charts)
+  - [Examining key performance indicators (KPIs)](#examining-key-performance-indicators-kpis)
+  - [Challenge: Analyzing multiple variables](#challenge-analyzing-multiple-variables)
+  - [Solution: Analyzing multiple variables](#solution-analyzing-multiple-variables)
 - [**4. Mapping Options**](#4-mapping-options) (6 videos)
-  - Exploring map options
-  - Shape map visual
-  - Drilling through map levels
-  - Mapping flow patterns
-  - Challenge: Map visuals
-  - Solution: Map visuals
+  - [Exploring map options](#exploring-map-options)
+  - [Shape map visual](#shape-map-visual)
+  - [Drilling through map levels](#drilling-through-map-levels)
+  - [Mapping flow patterns](#mapping-flow-patterns)
+  - [Challenge: Map visuals](#challenge-map-visuals)
+  - [Solution: Map visuals](#solution-map-visuals)
 - [**5. Putting It All Together**](#5-putting-it-all-together) (6 videos)
-  - Customing tooltips
-  - Configuring chiclet slicers
-  - Displaying Top N rankings
-  - Syncing slicers between pages
-  - Creating dashboards
-  - Adding nudge prompts to promote interactions
+  - [Customing tooltips](#customing-tooltips)
+  - [Configuring chiclet slicers](#configuring-chiclet-slicers)
+  - [Displaying Top N rankings](#displaying-top-n-rankings)
+  - [Syncing slicers between pages](#syncing-slicers-between-pages)
+  - [Creating dashboards](#creating-dashboards)
+  - [Adding nudge prompts to promote interactions](#adding-nudge-prompts-to-promote-interactions)
 - [**6. Sharing Your Work**](#6-sharing-your-work) (3 videos)
-  - Creating a phone view
-  - Publishing to Power BI service
-  - Sharing Power BI models
+  - [Creating a phone view](#creating-a-phone-view)
+  - [Publishing to Power BI service](#publishing-to-power-bi-service)
+  - [Sharing Power BI models](#sharing-power-bi-models)
 - [**Conclusion **](#conclusion) (1 videos)
-  - Getting more out of Power BI
+  - [Getting more out of Power BI](#getting-more-out-of-power-bi)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building data dashboards in Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980)
@@ -125,7 +125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** power (4), bi (4), data (2), [[Dashboards]] (2), business (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - power (1)
 
@@ -150,7 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** power (7), bi (7), [[Windows]] (1), cloud (1), [[Microsoft]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Setting up the Power BI model
@@ -192,6 +192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), power (4), bi (4), [[Microsoft Power Query|Power query]] (2), [[GitHub]] (1)
 > **Exercise Files:** exercise files (2), github repo (1)
 > **Env Vars:** tiger (1), irs (1)
 > **CLI Commands:** make (1)
@@ -199,7 +200,6 @@ created: 2026-04-29
 > **UI Navigation:** navigate to (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - [instructor] (1)
 
 #### Building the Power BI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/building-the-power-bi-ecosystem?u=76281980)
@@ -242,9 +242,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (4), power (1), bi (1), product (1), next (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -329,16 +329,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (9), bi (9), data (2), [[Dashboards]] (1), application (1)
 > **Env Vars:** rgb (4), cmyk (2)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Working with Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring table and matrix visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980)
@@ -431,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** power (6), bi (6), data (6), next (1), feature (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** in the menu (1)
@@ -502,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (2)
+> **Frameworks & Libraries:** power (4), bi (4), data (2), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** earlier in (1), later in (1)
 > **UI Navigation:** click on (1)
@@ -603,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), for. (1), this. (1), default, (1), type, (1)
+> **Frameworks & Libraries:** data (8), power (5), bi (5), next (4), [[Representational State Transfer (REST)|Rest]] (3)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), dropdown (1), select the (1)
 > **Cross-References:** in the next (1)
@@ -678,7 +678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), static (3), include, (1)
+> **Frameworks & Libraries:** power (5), bi (5), data (4), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** dropdown (4), select the (2), open the (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** set up (1)
@@ -773,7 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (4), from. (1), case. (1)
+> **Frameworks & Libraries:** [[DAX]] (13), data (10), power (2), bi (2), next (2)
 > **Env Vars:** dax (12)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (2)
@@ -875,7 +875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (5)
+> **Frameworks & Libraries:** [[DAX]] (9), power (4), bi (4), next (1), data (1)
 > **Env Vars:** dax (9)
 > **CLI Commands:** make (2)
 > **Versions:** 2.55 (1), 2.5 (1)
@@ -951,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (3), case, (1)
+> **Frameworks & Libraries:** power (4), bi (4), generic (1), [[Microsoft Excel|Excel]] (1), next (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)
 > **Env Vars:** din (1)
@@ -1046,7 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), power (1), bi (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** select the (1), click on (1)
 > **Analogies:** for example (2)
@@ -1098,9 +1098,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), bi (4), [[JSON]] (4), data (1), [[Microsoft]] (1)
 > **Env Vars:** json (4), ide (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), switch (1)
 > **Tools:** visual studio (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -1110,7 +1110,7 @@ created: 2026-04-29
 
 ### 2. Visualizing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing time-intelligence trends
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980)
@@ -1179,7 +1179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (4), power (2), bi (2), [[DAX]] (1), web (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous chapter (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1283,7 +1283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), override (1), case, (1)
+> **Frameworks & Libraries:** power (3), bi (3), data (2), strengths (1), [[Time Series Analysis]] (1)
 > **Analogies:** for example (5)
 > **Cross-References:** previous chapter (1), in the last (1), later in (1)
 > **CLI Commands:** find (1), make (1)
@@ -1394,7 +1394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1)
+> **Frameworks & Libraries:** data (5), power (3), bi (3), next (1), feature (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** warning (1)
@@ -1446,7 +1446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), continue (1), for. (1)
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1503,7 +1503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2)
+> **Frameworks & Libraries:** [[DAX]] (1), data (1), power (1), bi (1)
 > **Env Vars:** dax (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is a  (1)
@@ -1577,7 +1577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** data (7), [[DAX]] (2), power (1), bi (1)
 > **Env Vars:** dax (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1606,6 +1606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), power (1), bi (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1661,14 +1662,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** power (1), bi (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 3. Comparing Multiple Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analytics options: Reference, trend, and forecast lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980)
@@ -1723,7 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), default, (1)
+> **Frameworks & Libraries:** data (6), [[Forecasting]] (6), power (5), bi (5), [[Analytics]] (4)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
@@ -1768,7 +1769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (3), power (2), bi (2), application (1), feature (1)
 > **UI Navigation:** click on (1), open the (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1820,7 +1821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), this. (1)
+> **Frameworks & Libraries:** data (6), power (2), bi (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1894,7 +1895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), case, (1)
+> **Frameworks & Libraries:** power (2), bi (2), data (2), web (2), next (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
@@ -1947,7 +1948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2)
+> **Frameworks & Libraries:** data (2), power (1), bi (1)
 > **Env Vars:** kpi (4)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1971,8 +1972,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2022,14 +2023,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** power (2), bi (2), [[Forecasting]] (2), data (2), next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Mapping Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring map options
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980)
@@ -2082,9 +2083,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), bi (3), data (1), [[Microsoft Azure|Azure]] (1), [[Zoom]] (1)
 > **Non-Speech:** (mouse clicking) (7)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2179,7 +2180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), override (1), match. (1)
+> **Frameworks & Libraries:** power (4), bi (4), data (4), [[Microsoft Power Query|Power query]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** cmsa (4), usa (1), cbsafp (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Analogies:** such as (1), for example (1)
@@ -2258,7 +2259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), data (2)
 > **Env Vars:** argus (1), esri (1), map (1)
 > **Non-Speech:** (mouse clicking) (3)
 > **CLI Commands:** make (2)
@@ -2322,7 +2323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default, (3), case, (1), type. (1)
+> **Frameworks & Libraries:** web (1), [[DAX]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dax (1)
 > **Cross-References:** previous chapter (1)
@@ -2393,7 +2394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** power (2), bi (2), data (1), [[DAX]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dax (1)
 > **Cross-References:** as we saw (1)
@@ -2403,7 +2404,7 @@ created: 2026-04-29
 
 ### 5. Putting It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Customing tooltips
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980)
@@ -2486,7 +2487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), type. (1)
+> **Frameworks & Libraries:** data (4), power (2), bi (2), [[Dashboards]] (1), strengths (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [presenter] (1)
@@ -2562,7 +2563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** data (11), power (3), bi (3), [[Microsoft Power Query|Power query]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** url (3), jpeg (2)
 > **Best Practices:** make sure to (1), remember to (1)
@@ -2623,7 +2624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** power (4), bi (4), [[DAX]] (2), next (1)
 > **Env Vars:** dax (2), rankx (1)
 > **Prerequisites:** set up (2)
 > **File Paths:** d.c (1)
@@ -2705,7 +2706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** power (3), bi (3), data (3), next (1)
 > **UI Navigation:** navigate to (2), checkbox (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -2752,7 +2753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), throw (1), case, (1)
+> **Frameworks & Libraries:** power (3), bi (3), [[Dashboards]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [jennifer] (1)
 
@@ -2821,7 +2822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), for, (1)
+> **Frameworks & Libraries:** power (5), bi (5), data (2), [[DAX]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** dax (2)
 > **Prerequisites:** set up (2)
@@ -2831,7 +2832,7 @@ created: 2026-04-29
 
 ### 6. Sharing Your Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a phone view
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-a-phone-view?u=76281980)
@@ -2894,6 +2895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), bi (2), [[Dashboards]] (2), [[Analytics]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (1), click on (1)
 > **Definitions:** in other words (1)
@@ -2969,8 +2971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (10), bi (10), next (1), data (1), [[Microsoft]] (1)
 > **CLI Commands:** make (8), find (1)
-> **Code Keywords:** let (5), for. (1), finally, (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -3045,8 +3047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (15), bi (15), data (6), [[Microsoft Excel|Excel]] (3), application (1)
 > **Env Vars:** pbit (5), pdf (3), csv (2), pbix (1), pbx (1)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
@@ -3057,7 +3059,7 @@ created: 2026-04-29
 
 ### Conclusion 
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting more out of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980)
@@ -3084,6 +3086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Dashboards]] (1), [[LinkedIn]] (1), power (1), bi (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - thanks (1)

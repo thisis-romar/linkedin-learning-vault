@@ -33,7 +33,7 @@ tags:
   - skill/ai-security
   - skill/security-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20for%20Security%20Testing.md)
@@ -52,41 +52,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AI tools for security testing
+  - [AI tools for security testing](#ai-tools-for-security-testing)
 - [**1. AI's Role in Security Testing**](#1-ais-role-in-security-testing) (2 videos)
-  - Types of security testing
-  - Using AI in your security testing
+  - [Types of security testing](#types-of-security-testing)
+  - [Using AI in your security testing](#using-ai-in-your-security-testing)
 - [**2. Using AI in Risk Assessments**](#2-using-ai-in-risk-assessments) (4 videos)
-  - What is a risk assessment?
-  - AI-augmented risk assessments
-  - Incorporating human risk appetite
-  - Demo: Risk assessment with ChatGPT
+  - [What is a risk assessment?](#what-is-a-risk-assessment)
+  - [AI-augmented risk assessments](#ai-augmented-risk-assessments)
+  - [Incorporating human risk appetite](#incorporating-human-risk-appetite)
+  - [Demo: Risk assessment with ChatGPT](#demo-risk-assessment-with-chatgpt)
 - [**3. Using AI in Security Controls Assessments**](#3-using-ai-in-security-controls-assessments) (4 videos)
-  - What is a security controls assessment?
-  - AI-augmented controls assessments
-  - Controls assessment dos and don'ts
-  - Demo: Controls assessment with Bard
+  - [What is a security controls assessment?](#what-is-a-security-controls-assessment)
+  - [AI-augmented controls assessments](#ai-augmented-controls-assessments)
+  - [Controls assessment dos and don'ts](#controls-assessment-dos-and-donts)
+  - [Demo: Controls assessment with Bard](#demo-controls-assessment-with-bard)
 - [**4. Using AI in Compliance Assessments**](#4-using-ai-in-compliance-assessments) (4 videos)
-  - What is a compliance assessment?
-  - AI-augmented compliance assessments
-  - Responding to auditors
-  - Compliance assessment with Bing Chat
+  - [What is a compliance assessment?](#what-is-a-compliance-assessment)
+  - [AI-augmented compliance assessments](#ai-augmented-compliance-assessments)
+  - [Responding to auditors](#responding-to-auditors)
+  - [Compliance assessment with Bing Chat](#compliance-assessment-with-bing-chat)
 - [**5. Using AI in Vulnerability Assessments**](#5-using-ai-in-vulnerability-assessments) (4 videos)
-  - What is a vulnerability assessment?
-  - AI-augmented vulnerability assessments
-  - Trust but verify
-  - Demo: Vulnerability assessment with Bard
+  - [What is a vulnerability assessment?](#what-is-a-vulnerability-assessment)
+  - [AI-augmented vulnerability assessments](#ai-augmented-vulnerability-assessments)
+  - [Trust but verify](#trust-but-verify)
+  - [Demo: Vulnerability assessment with Bard](#demo-vulnerability-assessment-with-bard)
 - [**6. Using AI in Penetration Tests**](#6-using-ai-in-penetration-tests) (4 videos)
-  - What is a penetration test?
-  - AI-augmented penetration tests
-  - Ethical considerations
-  - Demo: Pen test with Bard and ChatGPT
+  - [What is a penetration test?](#what-is-a-penetration-test)
+  - [AI-augmented penetration tests](#ai-augmented-penetration-tests)
+  - [Ethical considerations](#ethical-considerations)
+  - [Demo: Pen test with Bard and ChatGPT](#demo-pen-test-with-bard-and-chatgpt)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Planning future security tests with AI
+  - [Planning future security tests with AI](#planning-future-security-tests-with-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI tools for security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-tools-for-security-testing?u=76281980)
@@ -109,12 +109,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Security]] (3), [[ChatGPT]] (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. AI's Role in Security Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/types-of-security-testing?u=76281980)
@@ -169,6 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), data (2), career (1), business (1), [[Vulnerability Assessment]] (1)
 > **Definitions:** is a  (3), we call this (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -212,13 +214,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** catch. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), data (6), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Security]] (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Using AI in Risk Assessments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a risk assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-risk-assessment?u=76281980)
@@ -251,6 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[NIST]] (2), web application (1), web (1), data (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** nist (2)
 > **CLI Commands:** make (1)
@@ -351,10 +354,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI Tools]] (6), [[Generative AI]] (6), [[Cybersecurity]] (4), data (3), web (2)
 > **Warnings:** keep in mind (2), be careful (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** private (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -447,9 +450,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), career (2), [[Soft Skills]] (2), data (1), business (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -589,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), data (10), prompt (5), [[Cybersecurity]] (3), [[GPT-4]] (2)
 > **Cross-References:** go back to (2), earlier in (1)
 > **Env Vars:** gpt (2)
 > **Definitions:** is a  (2)
@@ -601,7 +604,7 @@ created: 2026-04-29
 
 ### 3. Using AI in Security Controls Assessments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a security controls assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-security-controls-assessment?u=76281980)
@@ -638,8 +641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), [[NIST]] (1), [[Cybersecurity]] (1), [[ChatGPT]] (1), data (1)
 > **Env Vars:** nist (1), iso (1), iec (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -693,6 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI Tools]] (3), data (2), [[Security]] (2), [[Generative AI]] (2), [[NIST]] (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be careful (1), caution (1)
 > **Env Vars:** nist (1)
@@ -782,7 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (4), prompt (4), ai (3), management (3)
 > **Env Vars:** nist (2), iso (1)
 > **Versions:** 10.2.2137 (1)
 > **Speakers:** - [instructor] (1)
@@ -882,7 +886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), from. (1), new. (1), pass (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (7), [[Google]] (5), [[NIST]] (4), prompt (4)
 > **Versions:** version 1 (3), 1.1 (2), 2.0 (2), 1.0 (1)
 > **Env Vars:** nist (4), url (1), pdf (1)
 > **CLI Commands:** find (3)
@@ -894,7 +898,7 @@ created: 2026-04-29
 
 ### 4. Using AI in Compliance Assessments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a compliance assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-compliance-assessment?u=76281980)
@@ -947,9 +951,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), data (3), leadership (1), business (1), [[Healthcare Industry]] (1)
 > **Env Vars:** pcidss (5), pci (1), hipaa (1), nerc (1), glba (1)
 > **Analogies:** kind of like (1), similar to (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1062,11 +1066,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Generative AI Tools]] (6), prompt (5), data (3), ai (3)
 > **Env Vars:** pci (7), dss (4), qsa (2), rdp (2), cde (1)
 > **Versions:** 1.2.6 (3), version 4 (2)
 > **Ports:** port 3386 (2)
 > **Analogies:** for example (1), it's like (1)
-> **Code Keywords:** raise (1)
 > **Definitions:** is an  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
@@ -1128,7 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Generative AI]] (9), [[Security]] (5), ai (4), [[Generative AI Tools]] (2), [[ChatGPT]] (1)
 > **Env Vars:** isaca (2)
 > **Exercise Files:** template (2)
 > **UI Navigation:** select the (1)
@@ -1224,8 +1228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (5), data (2), [[GPT-4]] (1), [[Cybersecurity]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** hitrust (13), gpt (1), pci (1)
-> **Code Keywords:** let (4), interface (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **CLI Commands:** find (1)
 > **URLs:** [bing.com](https://bing.com) (1)
@@ -1236,7 +1240,7 @@ created: 2026-04-29
 
 ### 5. Using AI in Vulnerability Assessments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a vulnerability assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-vulnerability-assessment?u=76281980)
@@ -1287,7 +1291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case, (1)
+> **Frameworks & Libraries:** [[Vulnerability Assessment]] (4), application (2), [[Security]] (1), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** sql (1), nist (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
@@ -1377,9 +1381,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), data (4), [[Generative AI Tools]] (3), [[Security]] (3), prompt (3)
 > **Env Vars:** cve (5), cia (1), rce (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1422,7 +1426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), application (2), [[Generative AI Tools]] (2), [[ChatGPT]] (2), management (1)
 > **Env Vars:** http (1), sql (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -1548,8 +1552,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (8), application (7), [[SQL]] (7), [[Vulnerability Assessment]] (4), web application (4)
 > **Env Vars:** sql (7), owasp (4), sans (1), mitre (1), html (1)
-> **Code Keywords:** let (8), interface (1), from. (1), case, (1), continue (1)
 > **CLI Commands:** find (1), python (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1560,7 +1564,7 @@ created: 2026-04-29
 
 ### 6. Using AI in Penetration Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a penetration test?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-penetration-test?u=76281980)
@@ -1629,9 +1633,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Penetration Testing]] (2), data (2), database (1), [[Ethics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cfo (1), cia (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1738,8 +1742,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), [[Generative AI Tools]] (6), [[Penetration Testing]] (4), [[Threat Modeling]] (3), [[Security]] (2)
 > **Env Vars:** osint (3), mitre (2), att (2), ptes (1), osstmm (1)
-> **Code Keywords:** this, (1), continue (1), super (1), this. (1), let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1838,8 +1842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), [[Generative AI Tools]] (7), ai (5), [[Security]] (5), [[Generative AI]] (4)
 > **CLI Commands:** find (2), python (2)
-> **Code Keywords:** let (2), extends (1), for. (1)
 > **Env Vars:** llm (2)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -2044,7 +2048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), protected (2), continue (1), public (1), case, (1)
+> **Frameworks & Libraries:** prompt (13), [[Generative AI Tools]] (7), [[Security]] (5), [[Microsoft Defender|Defender]] (5), [[ChatGPT]] (3)
 > **CLI Commands:** find (10)
 > **Env Vars:** osint (2), cve (2), siem (2), ptes (1), url (1)
 > **URLs:** [dnsdumpster.com](https://dnsdumpster.com) (1), [shodan.io](https://shodan.io) (1), [censys.io](https://censys.io) (1), [bugcrowd.com](https://bugcrowd.com) (1), [hackerone.com](https://hackerone.com) (1)
@@ -2056,7 +2060,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning future security tests with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/planning-future-security-tests-with-ai?u=76281980)
@@ -2115,10 +2119,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), [[Generative AI Tools]] (7), [[Generative AI]] (2), [[LinkedIn]] (2), next (1)
 > **Cross-References:** we discussed (2), we covered (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 

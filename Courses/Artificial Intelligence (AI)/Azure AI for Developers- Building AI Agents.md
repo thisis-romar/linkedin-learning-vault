@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/semantic-kernel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Building%20AI%20Agents.md)
@@ -53,43 +53,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build AI agents with Azure
-  - What you should know
+  - [Build AI agents with Azure](#build-ai-agents-with-azure)
+  - [What you should know](#what-you-should-know)
 - [**1. Working with AI Agents**](#1-working-with-ai-agents) (9 videos)
-  - Understanding AI agents
-  - OpenAI API Assistants overview
-  - Function calling
-  - File search
-  - Code Interpreter
-  - Multi-agent collaboration
-  - Creating assistants in Azure AI Foundry
-  - Challenge: Create agents using Assistants API
-  - Solution: Create agents using Assistants API
+  - [Understanding AI agents](#understanding-ai-agents)
+  - [OpenAI API Assistants overview](#openai-api-assistants-overview)
+  - [Function calling](#function-calling)
+  - [File search](#file-search)
+  - [Code Interpreter](#code-interpreter)
+  - [Multi-agent collaboration](#multi-agent-collaboration)
+  - [Creating assistants in Azure AI Foundry](#creating-assistants-in-azure-ai-foundry)
+  - [Challenge: Create agents using Assistants API](#challenge-create-agents-using-assistants-api)
+  - [Solution: Create agents using Assistants API](#solution-create-agents-using-assistants-api)
 - [**2. Semantic Kernel**](#2-semantic-kernel) (7 videos)
-  - Semantic Kernel Agent Framework overview
-  - Chat completion agent and adding plugins
-  - OpenAI Assistant Agent: Code Interpreter
-  - OpenAI Assistant Agent: File search
-  - Agent collaboration
-  - Challenge: Creating agents with Semantic Kernal
-  - Solution: Creating agents with Semantic Kernal
+  - [Semantic Kernel Agent Framework overview](#semantic-kernel-agent-framework-overview)
+  - [Chat completion agent and adding plugins](#chat-completion-agent-and-adding-plugins)
+  - [OpenAI Assistant Agent: Code Interpreter](#openai-assistant-agent-code-interpreter)
+  - [OpenAI Assistant Agent: File search](#openai-assistant-agent-file-search)
+  - [Agent collaboration](#agent-collaboration)
+  - [Challenge: Creating agents with Semantic Kernal](#challenge-creating-agents-with-semantic-kernal)
+  - [Solution: Creating agents with Semantic Kernal](#solution-creating-agents-with-semantic-kernal)
 - [**3. Autogen**](#3-autogen) (10 videos)
-  - AutoGen overview
-  - AutoGen Assistant Agent
-  - Other AutoGen agents
-  - AutoGen RoundRobinGroupChat
-  - Adding humans in the loop
-  - AutoGen SelectorGroupChat
-  - AutoGen Swarm
-  - AutoGen Magentic-One
-  - Challenge: Creating agents with AutoGen
-  - Solution: Creating agents with AutoGen
+  - [AutoGen overview](#autogen-overview)
+  - [AutoGen Assistant Agent](#autogen-assistant-agent)
+  - [Other AutoGen agents](#other-autogen-agents)
+  - [AutoGen RoundRobinGroupChat](#autogen-roundrobingroupchat)
+  - [Adding humans in the loop](#adding-humans-in-the-loop)
+  - [AutoGen SelectorGroupChat](#autogen-selectorgroupchat)
+  - [AutoGen Swarm](#autogen-swarm)
+  - [AutoGen Magentic-One](#autogen-magentic-one)
+  - [Challenge: Creating agents with AutoGen](#challenge-creating-agents-with-autogen)
+  - [Solution: Creating agents with AutoGen](#solution-creating-agents-with-autogen)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Key takeaways and next steps
+  - [Key takeaways and next steps](#key-takeaways-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build AI agents with Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980)
@@ -114,8 +114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), ai (2), [[Microsoft]] (2), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -136,15 +136,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[GitHub]] (2), [[Microsoft Azure|Azure]] (1), ai (1)
 > **Tools:** github (2), visual studio (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** require (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Working with AI Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980)
@@ -191,9 +191,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), product (3), [[Large Language Models (LLM)|Large language models]] (2), [[Search]] (2), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### OpenAI API Assistants overview
@@ -293,9 +293,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), [[Microsoft Azure|Azure]] (4), ai (4), [[Search]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** api (10), gpt (1)
 > **Definitions:** is a  (5), means that (1), is an  (1)
-> **Code Keywords:** finally, (2), let (1)
 > **CLI Commands:** python (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -397,7 +397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (3), require (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), api (2), ai (2), [[JSON]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (2), json (1), usa (1)
 > **Cross-References:** we mentioned (1), previous video (1)
 > **CLI Commands:** python (1)
@@ -476,7 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), finally, (2), this, (1), delete (1)
+> **Frameworks & Libraries:** [[Search]] (6), [[Microsoft Azure|Azure]] (3), rag (3), [[Tokens]] (2), data (2)
 > **Env Vars:** pdf (3), csv (1), json (1), nasa (1)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
@@ -533,7 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), function (1), case, (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[Microsoft Azure|Azure]] (2), api (1), [[Search]] (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** api (1), csv (1)
 > **Tools:** github (1)
@@ -631,7 +631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), finally, (2), require (1), let (1), case, (1)
+> **Frameworks & Libraries:** [[DALL-E]] (10), prompt (9), next (4), [[GPT-4]] (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** gpt (2)
 > **Analogies:** such as (1)
 > **Speakers:** - this (1)
@@ -675,8 +675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Azure AI Foundry]] (3), [[Search]] (2), data (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (2), pdf (1)
-> **Code Keywords:** delete (1), function (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** python (1)
 > **Cross-References:** previous video (1)
@@ -721,7 +721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2), [[Search]] (2), [[Microsoft Azure|Azure]] (1), api (1)
 > **Env Vars:** api (1), pdf (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -785,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), case, (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), ai (1), [[Python (Programming Language)|Python]] (1), [[Search]] (1), product (1)
 > **Code Identifiers:** get_destinations (2), get_hiking_budget (2), get_weather (2), file_search (1), tool_resources (1)
 > **CLI Commands:** python (1)
 > **Best Practices:** don't forget (1)
@@ -795,7 +795,7 @@ created: 2026-04-29
 
 ### 2. Semantic Kernel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Semantic Kernel Agent Framework overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980)
@@ -856,9 +856,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Semantic Kernel]] (4), ai (4), [[Microsoft Azure|Azure]] (3), [[Search]] (2), api (1)
 > **Cross-References:** previous chapter (2), we discussed (1), in the next (1)
 > **CLI Commands:** python (1), make (1), find (1)
-> **Code Keywords:** function (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Env Vars:** api (1)
@@ -940,7 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (3), finally, (1)
+> **Frameworks & Libraries:** [[Semantic Kernel]] (4), [[Microsoft Azure|Azure]] (4), api (2), next (1)
 > **Cross-References:** previous chapter (1), we discussed (1), previous video (1), in the next (1)
 > **Env Vars:** api (2)
 > **Analogies:** similar to (2)
@@ -1003,7 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Python (Programming Language)|Python]] (2), [[Semantic Kernel]] (1), data (1), next (1)
 > **CLI Commands:** python (2), find (2)
 > **Env Vars:** csv (3), api (1)
 > **UI Navigation:** open the (1)
@@ -1067,7 +1067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (2)
 > **Code Identifiers:** reformat_citations (3), vector_store_filename (1), run_agent (1), get_thread_messages (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is an  (1)
@@ -1156,7 +1156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this. (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[DALL-E]] (12), prompt (4), [[Microsoft Azure|Azure]] (2), [[Semantic Kernel]] (1), generic (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - the (1)
 
@@ -1207,7 +1207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), delete (1)
+> **Frameworks & Libraries:** [[Semantic Kernel]] (3), [[Microsoft Products|Products]] (3), product (3), [[Search]] (2), next (1)
 > **Env Vars:** pdf (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1256,8 +1256,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Search]] (1)
 > **Code Identifiers:** get_destinations (2), get_hiking_budget (2), get_weather (2), reformat_citations (1)
-> **Code Keywords:** function (4), finally, (1), delete (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1265,7 +1265,7 @@ created: 2026-04-29
 
 ### 3. Autogen
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AutoGen overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980)
@@ -1318,8 +1318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), [[Microsoft]] (4), [[Semantic Kernel]] (3), ai (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** api (8), gui (1)
-> **Code Keywords:** implements (2), continue (2), finally, (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** python (1), docker (1)
 > **Versions:** python 3 (1), version 0 (1)
@@ -1422,8 +1422,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), api (4), next (2), ai (1)
 > **Code Identifiers:** run_stream (2), on_messages (2), get_weather (1), chat_message (1), inner_messages (1)
-> **Code Keywords:** let (2), function (1), case, (1), default, (1), override (1)
 > **Env Vars:** api (4), gpt (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
@@ -1509,8 +1509,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), [[Search]] (4), api (3), data (1), [[Semantic Kernel]] (1)
 > **Code Identifiers:** docker_code_executor (3), on_messages (2), file_search (1), tool_resources (1), code_interpreter (1)
-> **Code Keywords:** finally, (3), let (2), require (1), delete (1), pass (1)
 > **CLI Commands:** docker (2), python (1)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1605,7 +1605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), raise (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Word|Word]] (2), teams (1), next (1), [[Tokens]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1675,7 +1675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1), require (1), this, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (1), next (1)
 > **Definitions:** is a  (1), is called (1)
 > **Code Identifiers:** max_turns (1)
 > **Cross-References:** in the last (1)
@@ -1768,8 +1768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (9), next (7), [[Microsoft Azure|Azure]] (3), prompt (3)
 > **Env Vars:** dall (9)
-> **Code Keywords:** function (2), case, (2), implements (1), override (1), continue (1)
 > **Code Identifiers:** generate_image (2), run_stream (2), analyze_image (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1833,7 +1833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), implements (1)
+> **Frameworks & Libraries:** prompt (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -1923,7 +1923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), function (1), let (1), module (1), self (1)
+> **Frameworks & Libraries:** llm (3), web (2), [[Microsoft Azure|Azure]] (2), [[Python (Programming Language)|Python]] (2), product (2)
 > **CLI Commands:** python (2), find (1), docker (1), make (1)
 > **Env Vars:** llm (3), csv (1)
 > **Definitions:** is an  (3), is a  (1)
@@ -1965,8 +1965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Microsoft Azure|Azure]] (1), [[GPT-4]] (1), web (1), [[Search]] (1)
 > **Env Vars:** gpt (1), usa (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -2061,7 +2061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (3), class. (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** product (11), [[Microsoft Azure|Azure]] (2), web (2), data (2), ai (1)
 > **Code Identifiers:** openai (1)
 > **Cross-References:** as you saw (1)
 > **Analogies:** such as (1)
@@ -2071,7 +2071,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980)
@@ -2148,7 +2148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), function (1), continue (1)
+> **Frameworks & Libraries:** api (3), next (3), [[Search]] (2), management (2), ai (1)
 > **Env Vars:** api (3)
 > **Analogies:** such as (3)
 > **Cross-References:** we discussed (2)

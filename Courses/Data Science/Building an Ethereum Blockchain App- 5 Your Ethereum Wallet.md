@@ -36,7 +36,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%205%20Your%20Ethereum%20Wallet.md)
@@ -55,15 +55,15 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Your Ethereum Wallet**](#1-your-ethereum-wallet) (5 videos)
-  - What is an Ethereum wallet?
-  - Types of Ethereum wallets
-  - Web and desktop wallets
-  - Mobile, hardware, and paper wallets
-  - Installing MetaMask
+  - [What is an Ethereum wallet?](#what-is-an-ethereum-wallet)
+  - [Types of Ethereum wallets](#types-of-ethereum-wallets)
+  - [Web and desktop wallets](#web-and-desktop-wallets)
+  - [Mobile, hardware, and paper wallets](#mobile-hardware-and-paper-wallets)
+  - [Installing MetaMask](#installing-metamask)
 
 ### 1. Your Ethereum Wallet
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Ethereum wallet?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (1)
+> **Frameworks & Libraries:** [[Blockchain]] (8), [[Ethereum]] (6), [[Cryptocurrency]] (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
@@ -254,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (2)
+> **Frameworks & Libraries:** web (8), [[Hardware]] (5), [[Ethereum]] (3), [[Blockchain]] (2), [[Security]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** usb (3)
@@ -424,8 +424,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (12), web (6), [[Blockchain]] (3), [[Hardware]] (2), [[Cryptocurrency]] (2)
 > **Definitions:** is a  (6), is an  (3)
-> **Code Keywords:** let (5), type. (1)
 > **Prerequisites:** install (2), configure (2)
 > **Exercise Files:** source code (2), download the (1)
 > **CLI Commands:** make (1), find (1)
@@ -604,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), let (4), type. (1), require (1), this, (1)
+> **Frameworks & Libraries:** product (3), [[Cryptocurrency]] (3), [[Hardware]] (3), next (2), [[Ethereum]] (2)
 > **Env Vars:** usb (3), brd (1), readme (1)
 > **Definitions:** is a  (3), basically means (1), in other words (1)
 > **CLI Commands:** make (2), snap (1)
@@ -776,7 +776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (2), private (2), new. (2)
+> **Frameworks & Libraries:** [[Ethereum]] (5), [[Blockchain]] (3), data (3), [[Windows]] (2), next (2)
 > **CLI Commands:** make (5), find (2)
 > **Tools:** firefox (5)
 > **Definitions:** is a  (3), in other words (1)

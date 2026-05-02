@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/SQL%20Server%202022%20Administration.md)
@@ -48,98 +48,98 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction
+  - [Introduction](#introduction)
 - [**Lesson 1: Installing and Using SQL Server Administration and Development Tools**](#lesson-1-installing-and-using-sql-server-administration-and-development-tools) (6 videos)
-  - Module 1 introduction
-  - Learning objectives
-  - Understand the installation center
-  - Find the tools installed with the SQL Server
-  - Use the performance and reliability monitoring tools
-  - Understand SQL Server Management Studio
+  - [Module 1 introduction](#module-1-introduction)
+  - [Learning objectives](#learning-objectives)
+  - [Understand the installation center](#understand-the-installation-center)
+  - [Find the tools installed with the SQL Server](#find-the-tools-installed-with-the-sql-server)
+  - [Use the performance and reliability monitoring tools](#use-the-performance-and-reliability-monitoring-tools)
+  - [Understand SQL Server Management Studio](#understand-sql-server-management-studio)
 - [**Lesson 2: Introducing Database Server Components**](#lesson-2-introducing-database-server-components) (5 videos)
-  - Learning objectives
-  - Configure server memory
-  - Setup database files
-  - Configure network settings
-  - Setup SQL Server security
+  - [Learning objectives](#learning-objectives)
+  - [Configure server memory](#configure-server-memory)
+  - [Setup database files](#setup-database-files)
+  - [Configure network settings](#configure-network-settings)
+  - [Setup SQL Server security](#setup-sql-server-security)
 - [**Lesson 3: Provisioning SQL Server SQL Databases**](#lesson-3-provisioning-sql-server-sql-databases) (6 videos)
-  - Module 2 introduction
-  - Learning objectives
-  - Install a new instance
-  - Make post-installation server configuration changes
-  - Install and configure database features
-  - Create SQL Server databases
+  - [Module 2 introduction](#module-2-introduction)
+  - [Learning objectives](#learning-objectives)
+  - [Install a new instance](#install-a-new-instance)
+  - [Make post-installation server configuration changes](#make-post-installation-server-configuration-changes)
+  - [Install and configure database features](#install-and-configure-database-features)
+  - [Create SQL Server databases](#create-sql-server-databases)
 - [**Lesson 4: Provisioning Azure SQL Database**](#lesson-4-provisioning-azure-sql-database) (5 videos)
-  - Learning objectives
-  - Understand Microsoft Azure and database-as-a-service concepts
-  - Provision a logical SQL Server
-  - Provision a database
-  - Setup security in Azure SQL databases
+  - [Learning objectives](#learning-objectives)
+  - [Understand Microsoft Azure and database-as-a-service concepts](#understand-microsoft-azure-and-database-as-a-service-concepts)
+  - [Provision a logical SQL Server](#provision-a-logical-sql-server)
+  - [Provision a database](#provision-a-database)
+  - [Setup security in Azure SQL databases](#setup-security-in-azure-sql-databases)
 - [**Lesson 5: Implementing and Managing SQL Server User Security and Permissions**](#lesson-5-implementing-and-managing-sql-server-user-security-and-permissions) (5 videos)
-  - Module 3 introduction
-  - Learning objectives
-  - Understand logins and users
-  - Setup permissions in SQL Server
-  - Migrate SQL Server logins and permissions
+  - [Module 3 introduction](#module-3-introduction)
+  - [Learning objectives](#learning-objectives)
+  - [Understand logins and users](#understand-logins-and-users)
+  - [Setup permissions in SQL Server](#setup-permissions-in-sql-server)
+  - [Migrate SQL Server logins and permissions](#migrate-sql-server-logins-and-permissions)
 - [**Lesson 6: Securing the Server and Data**](#lesson-6-securing-the-server-and-data) (5 videos)
-  - Learning objectives
-  - Handle encryption in SQL Server
-  - Setup row level security
-  - Understand data masking
-  - Configure SQL Server audits
+  - [Learning objectives](#learning-objectives)
+  - [Handle encryption in SQL Server](#handle-encryption-in-sql-server)
+  - [Setup row level security](#setup-row-level-security)
+  - [Understand data masking](#understand-data-masking)
+  - [Configure SQL Server audits](#configure-sql-server-audits)
 - [**Lesson 7: Understanding and Designing SQL Server Tables**](#lesson-7-understanding-and-designing-sql-server-tables) (7 videos)
-  - Module 4 introduction
-  - Learning objectives
-  - Review table design
-  - Understand special table types
-  - Create views
-  - Use change tracking
-  - Understand change data capture
+  - [Module 4 introduction](#module-4-introduction)
+  - [Learning objectives](#learning-objectives)
+  - [Review table design](#review-table-design)
+  - [Understand special table types](#understand-special-table-types)
+  - [Create views](#create-views)
+  - [Use change tracking](#use-change-tracking)
+  - [Understand change data capture](#understand-change-data-capture)
 - [**Lesson 8: Performance Tuning and Optimizing SQL**](#lesson-8-performance-tuning-and-optimizing-sql) (6 videos)
-  - Learning objectives
-  - Understand isolation levels
-  - Use execution plans
-  - Configure clustered indexes
-  - Configure non-clustered indexes
-  - Use index statistics
+  - [Learning objectives](#learning-objectives)
+  - [Understand isolation levels](#understand-isolation-levels)
+  - [Use execution plans](#use-execution-plans)
+  - [Configure clustered indexes](#configure-clustered-indexes)
+  - [Configure non-clustered indexes](#configure-non-clustered-indexes)
+  - [Use index statistics](#use-index-statistics)
 - [**Lesson 9: Developing, Deploying, and Managing Data Recovery**](#lesson-9-developing-deploying-and-managing-data-recovery) (8 videos)
-  - Module 5 introduction
-  - Learning objectives
-  - Understand data recovery fundamentals
-  - Understand backup devices
-  - Understand different types of backups
-  - Create and verify backups
-  - Restore a database
-  - Define a backup and recovery strategy
+  - [Module 5 introduction](#module-5-introduction)
+  - [Learning objectives](#learning-objectives)
+  - [Understand data recovery fundamentals](#understand-data-recovery-fundamentals)
+  - [Understand backup devices](#understand-backup-devices)
+  - [Understand different types of backups](#understand-different-types-of-backups)
+  - [Create and verify backups](#create-and-verify-backups)
+  - [Restore a database](#restore-a-database)
+  - [Define a backup and recovery strategy](#define-a-backup-and-recovery-strategy)
 - [**Lesson 10: Implementing SQL Server High Availability and Disaster Recovery**](#lesson-10-implementing-sql-server-high-availability-and-disaster-recovery) (5 videos)
-  - Learning objectives
-  - Review high availability and disaster recovery technologies
-  - Setup SQL Server Log shipping
-  - Replication for high availability
-  - Read secondary database copies
+  - [Learning objectives](#learning-objectives)
+  - [Review high availability and disaster recovery technologies](#review-high-availability-and-disaster-recovery-technologies)
+  - [Setup SQL Server Log shipping](#setup-sql-server-log-shipping)
+  - [Replication for high availability](#replication-for-high-availability)
+  - [Read secondary database copies](#read-secondary-database-copies)
 - [**Lesson 11: Managing and Monitoring SQL Server Databases**](#lesson-11-managing-and-monitoring-sql-server-databases) (11 videos)
-  - Module 6 Introduction
-  - Learning objectives
-  - Schedule and monitor database backups
-  - Deal with database corruption
-  - Setup index maintenance
-  - Cleanup history
-  - Shrink databases
-  - Monitor database activity
-  - Use performance monitor
-  - Monitor database logs
-  - Use resource governor
+  - [Module 6 Introduction](#module-6-introduction)
+  - [Learning objectives](#learning-objectives)
+  - [Schedule and monitor database backups](#schedule-and-monitor-database-backups)
+  - [Deal with database corruption](#deal-with-database-corruption)
+  - [Setup index maintenance](#setup-index-maintenance)
+  - [Cleanup history](#cleanup-history)
+  - [Shrink databases](#shrink-databases)
+  - [Monitor database activity](#monitor-database-activity)
+  - [Use performance monitor](#use-performance-monitor)
+  - [Monitor database logs](#monitor-database-logs)
+  - [Use resource governor](#use-resource-governor)
 - [**Lesson 12: Automating SQL Server Administration**](#lesson-12-automating-sql-server-administration) (4 videos)
-  - Learning objectives
-  - Understand the components of SQL Server automated administration
-  - Setup database maintenance plans
-  - Use PowerShell to automate SQL Server administration
+  - [Learning objectives](#learning-objectives)
+  - [Understand the components of SQL Server automated administration](#understand-the-components-of-sql-server-automated-administration)
+  - [Setup database maintenance plans](#setup-database-maintenance-plans)
+  - [Use PowerShell to automate SQL Server administration](#use-powershell-to-automate-sql-server-administration)
 - [**Summary**](#summary) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980)
@@ -196,15 +196,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (15), database (6), [[Databases]] (5), [[SQL]] (4), data (4)
 > **Env Vars:** sql (19)
-> **Code Keywords:** let (2), finally, (1)
 > **Tools:** powershell (1)
 > **Prerequisites:** install (1)
 
 
 ### Lesson 1: Installing and Using SQL Server Administration and Development Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Module 1 introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-1-introduction?u=76281980)
@@ -219,8 +219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), database (2), [[Security]] (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** install (1)
 
 #### Learning objectives
@@ -240,9 +240,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), product (1), management (1), data (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** install (1)
 
 #### Understand the installation center
@@ -362,9 +362,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), [[SQL]] (9), [[Hardware]] (2), database (1), [[Databases]] (1)
 > **Env Vars:** sql (31), map (1)
 > **Prerequisites:** install (12), set up (3), setup (1)
-> **Code Keywords:** this, (2), function (1), let (1), throw (1), finally, (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
@@ -542,10 +542,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (16), database (6), [[SQL]] (6), [[Microsoft]] (5), management (5)
 > **Env Vars:** sql (26), ssms (1), bids (1)
 > **Tools:** visual studio (21)
 > **Prerequisites:** install (10), setup (2), set up (1), configure (1)
-> **Code Keywords:** this. (1), this, (1), function (1), case, (1), continue (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
 > **Definitions:** is called (1), stands for (1)
 > **Analogies:** such as (1), for example (1)
@@ -703,8 +703,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (19), management (13), hit (8), [[Microsoft SQL Server|Sql server]] (6), [[Microsoft Azure|Azure]] (6)
 > **Env Vars:** sql (12), ssis (2), ssms (1)
-> **Code Keywords:** this, (4), default. (2), let (2), else, (1), case, (1)
 > **UI Navigation:** dropdown (3), drag and drop (1), switch to (1)
 > **Tools:** visual studio (2)
 > **Analogies:** for example (2)
@@ -715,7 +715,7 @@ created: 2026-04-29
 
 ### Lesson 2: Introducing Database Server Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307475?u=76281980)
@@ -736,9 +736,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), database (1), [[SQL]] (1), [[Security]] (1)
 > **Env Vars:** sql (3)
 > **Prerequisites:** set up (1), configure (1)
-> **Code Keywords:** let (1)
 
 #### Configure server memory
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980)
@@ -887,8 +887,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (17), [[SQL]] (13), web (4), [[Hardware]] (2), data (1)
 > **Env Vars:** sql (30)
-> **Code Keywords:** let (4), case, (2), require (2), function (1), except, (1)
 > **CLI Commands:** make (5), node (1)
 > **Prerequisites:** configure (2), set up (1), install (1), setup (1)
 > **Analogies:** imagine (1), for example (1), it's like (1)
@@ -1195,8 +1195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (46), database (33), [[Microsoft SQL Server|Sql server]] (9), hit (5), [[Databases]] (3)
 > **Env Vars:** log (16), sql (10), rows (9), userdata (7), filestream (5)
-> **Code Keywords:** case, (7), this. (2), continue (2), finally, (1), delete (1)
 > **Prerequisites:** set up (3), configure (2), install (1)
 > **UI Navigation:** go to (3), click on (1), dropdown (1)
 > **Analogies:** imagine (2), it's like (1), for example (1), kind of like (1)
@@ -1535,9 +1535,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (33), [[SQL]] (23), hit (6), next (3), management (2)
 > **Env Vars:** sql (56), tcp (12), insideout (7), ericjwork (5), sqlinsideout (3)
 > **Prerequisites:** configure (10), set up (6), install (2)
-> **Code Keywords:** case, (5), let (2), this. (2), default, (2), this, (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
@@ -1841,8 +1841,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), [[Windows]] (22), [[SQL]] (15), [[Security]] (12), database (8)
 > **Env Vars:** sql (37), insideout (1)
-> **Code Keywords:** let (6), this, (3), type. (1), match. (1)
 > **Prerequisites:** set up (4), configure (4)
 > **Definitions:** is a  (3), means that (1), is an  (1), is called (1)
 > **UI Navigation:** click on (2), go to (1), in the toolbar (1)
@@ -1853,7 +1853,7 @@ created: 2026-04-29
 
 ### Lesson 3: Provisioning SQL Server SQL Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Module 2 introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-2-introduction?u=76281980)
@@ -1868,6 +1868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Databases]] (2), database (1), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **Env Vars:** sql (2)
 > **Prerequisites:** set up (1), configure (1)
 
@@ -1888,8 +1889,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (2), database (2), [[Server Configuration]] (1)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (1)
 
 #### Install a new instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/install-a-new-instance?u=76281980)
@@ -2113,8 +2114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (45), [[Databases]] (16), hit (9), data (8), [[Microsoft SQL Server|Sql server]] (7)
 > **Env Vars:** sql (12), msdb (1), mssql16 (1), mssql (1), gui (1)
-> **Code Keywords:** delete (4), default, (2), let (2), else, (1), this, (1)
 > **UI Navigation:** go to (5), dropdown (1), scroll down (1)
 > **Prerequisites:** set up (4), configure (1), install (1)
 > **CLI Commands:** make (5)
@@ -2124,7 +2125,7 @@ created: 2026-04-29
 
 ### Lesson 4: Provisioning Azure SQL Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980)
@@ -2143,8 +2144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[SQL]] (3), database (3), [[Databases]] (2), cloud (1)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 
 #### Understand Microsoft Azure and database-as-a-service concepts
@@ -2298,9 +2299,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (24), [[Microsoft Azure|Azure]] (17), cloud (9), [[Databases]] (8), [[SQL]] (7)
 > **Env Vars:** sql (13)
 > **Prerequisites:** set up (5), install (1)
-> **Code Keywords:** let (2), this, (2), case, (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
 > **URLs:** [windows.net](https://windows.net) (2)
@@ -2644,8 +2645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), hit (11), [[Microsoft SQL Server|Sql server]] (8), database (8), [[SQL]] (8)
 > **Env Vars:** sql (16)
-> **Code Keywords:** this, (4), case, (2), public (2), function (1), this. (1)
 > **Prerequisites:** set up (9), configure (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [windows.net](https://windows.net) (3), [azure.com](https://azure.com) (1)
@@ -2916,10 +2917,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (29), [[Microsoft Azure|Azure]] (14), data (12), [[Databases]] (9), [[SQL]] (5)
 > **Prerequisites:** set up (5), configure (5), install (1)
 > **Env Vars:** sql (9), dtu (1)
 > **UI Navigation:** go to (7)
-> **Code Keywords:** this. (1), new, (1), let (1), private (1), finally, (1)
 > **Tools:** azure portal (3)
 > **Versions:** 14.72 (2)
 > **Analogies:** compare this to (1), similar to (1)
@@ -3160,8 +3161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (22), [[Microsoft Azure|Azure]] (20), [[Security]] (15), [[Databases]] (13), [[Microsoft SQL Server|Sql server]] (7)
 > **Env Vars:** sql (11), information (1), schema (1), ssms (1)
-> **Code Keywords:** let (3), public (2), this. (1), private (1), delete (1)
 > **Prerequisites:** set up (6)
 > **Code Identifiers:** db_owner (2), db_datareader (1), db_datawriter (1)
 > **CLI Commands:** make (3)
@@ -3172,7 +3173,7 @@ created: 2026-04-29
 
 ### Lesson 5: Implementing and Managing SQL Server User Security and Permissions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Module 3 introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-3-introduction?u=76281980)
@@ -3187,7 +3188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (3), [[Microsoft SQL Server|Sql server]] (2), [[Security]] (1)
 > **Env Vars:** sql (2)
 
 #### Learning objectives
@@ -3211,8 +3212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Security]] (5), data (2), [[SQL]] (1)
 > **Env Vars:** sql (6), sox (1)
-> **Code Keywords:** delete (1), let (1)
 
 #### Understand logins and users
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980)
@@ -3471,8 +3472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (22), [[SQL]] (17), [[Microsoft SQL Server|Sql server]] (12), hr (11), [[Security]] (11)
 > **Env Vars:** sql (29)
-> **Code Keywords:** let (4), public (2), this, (1), else. (1), match. (1)
 > **CLI Commands:** make (5), find (4)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** set up (3)
@@ -3768,8 +3769,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (24), hr (9), [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (6), hit (5)
 > **Env Vars:** sql (13), sid (6), ssis (4)
-> **Code Keywords:** this. (3), this, (3), from. (2), delete (2), let (1)
 > **Code Identifiers:** sp_help_revlogin (6), sp_hexadecimal (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** set up (3)
@@ -3780,7 +3781,7 @@ created: 2026-04-29
 
 ### Lesson 6: Securing the Server and Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307476?u=76281980)
@@ -3799,9 +3800,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft SQL Server|Sql server]] (3), [[Security]] (2)
 > **Env Vars:** sql (3)
 > **Prerequisites:** set up (1), configure (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 
 #### Handle encryption in SQL Server
@@ -4041,7 +4042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), type, (1), pass (1), this. (1)
+> **Frameworks & Libraries:** data (17), hit (8), database (7), next (4), [[SQL]] (3)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** sql (5)
 > **UI Navigation:** go to (2), select the (1), checkbox (1)
@@ -4309,7 +4310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (5), this, (4), pass (2), this. (1)
+> **Frameworks & Libraries:** [[Security]] (15), data (10), database (6), hr (4), hit (3)
 > **Env Vars:** select (10), user_name (4), sql (2), execute (2), grant (2)
 > **SQL:** select (10)
 > **CLI Commands:** make (3)
@@ -4495,8 +4496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), database (5), application (5), hit (2), [[SQL]] (2)
 > **Env Vars:** alter (4), table (4), sql (3), msdn (2)
-> **Code Keywords:** function (4), this, (2), let (2), super (1), type, (1)
 > **CLI Commands:** make (4)
 > **URLs:** [s.com](https://s.com) (2), [xxxxx.com](https://xxxxx.com) (1), [xxx.com](https://xxx.com) (1)
 > **SQL:** alter table (4)
@@ -4795,7 +4796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (13), let (4), this, (3), this. (3), continue (3)
+> **Frameworks & Libraries:** database (15), data (8), hit (6), [[Microsoft SQL Server|Sql server]] (4), [[Security]] (4)
 > **Code Identifiers:** db_owner (4), orderid (4)
 > **Env Vars:** sql (4)
 > **Documentation:** specification (3)
@@ -4807,7 +4808,7 @@ created: 2026-04-29
 
 ### Lesson 7: Understanding and Designing SQL Server Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Module 4 introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-4-introduction?u=76281980)
@@ -4822,7 +4823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), database (1), [[Performance Tuning]] (1), [[Statistics]] (1)
 > **Env Vars:** sql (1)
 
 #### Learning objectives
@@ -4842,7 +4843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** database (3), data (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (1)
 
 #### Review table design
@@ -5098,7 +5099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), this, (3), let (2), this. (2), from, (1)
+> **Frameworks & Libraries:** database (17), data (17), application (7), management (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Definitions:** is a  (5), is called (1), known as (1), is an  (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** sql (4)
@@ -5245,10 +5246,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), application (8), database (5), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (4)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (3), node (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** this, (1), case, (1), let (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** set up (3)
 > **Cross-References:** go back to (1)
@@ -5458,8 +5459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), database (10), application (4), hit (3), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** select (6), sql (3), create (2), view (2), gui (1)
-> **Code Keywords:** let (4), interface (3), this, (2), this. (1), finally, (1)
 > **SQL:** select (6)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -5757,7 +5758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), require (3), this, (2), function (2)
+> **Frameworks & Libraries:** data (17), database (13), hit (8), [[Microsoft SQL Server|Sql server]] (4), hr (3)
 > **Code Identifiers:** email_list (8), email_address (1)
 > **Definitions:** is a  (4), means that (1)
 > **Env Vars:** sql (4)
@@ -5965,8 +5966,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), hit (8), database (7), [[Microsoft SQL Server|Sql server]] (2), hr (2)
 > **Code Identifiers:** email_list (11), dbo_email_list (2), sp_cdc (1), sp_cdc_enable_db (1)
-> **Code Keywords:** let (5), this, (4), delete (2), function (1), for. (1)
 > **Env Vars:** sql (3), dml (1), alter (1), table (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (4)
@@ -5977,7 +5978,7 @@ created: 2026-04-29
 
 ### Lesson 8: Performance Tuning and Optimizing SQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980)
@@ -5998,8 +5999,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Performance Tuning]] (2), [[Databases]] (2), [[SQL]] (1), data (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 
 #### Understand isolation levels
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-isolation-levels?u=76281980)
@@ -6219,8 +6220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (4), application (3), hit (2), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (12), go run (1)
-> **Code Keywords:** this, (2), case, (1), let (1), match. (1), continue (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** similar to (1), imagine (1), kind of like (1)
 > **Env Vars:** sql (2)
@@ -6583,8 +6584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (41), [[Microsoft SQL Server|Sql server]] (7), hit (7), [[Pandas (Software)|Pandas]] (4), database (4)
 > **CLI Commands:** find (17), make (3)
-> **Code Keywords:** this. (3), case, (3), delete (3), else. (2), super (1)
 > **Env Vars:** sql (7), gui (1)
 > **UI Navigation:** go to (5), scroll up (1), select the (1)
 > **Definitions:** is a  (4), is called (1), is an  (1)
@@ -6828,8 +6829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (21), data (18), hit (2), [[SQL]] (1), database (1)
 > **Env Vars:** dbcc (3), show_statistics (3), sql (1), ix_ (1), update (1)
-> **Code Keywords:** let (5), delete (2), case, (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (1), select the (1), scroll down (1)
 > **SQL:** update (1)
@@ -6839,7 +6840,7 @@ created: 2026-04-29
 
 ### Lesson 9: Developing, Deploying, and Managing Data Recovery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Module 5 introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-5-introduction?u=76281980)
@@ -6856,6 +6857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (2), data (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (1)
 
 #### Learning objectives
@@ -6877,7 +6879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2), [[Databases]] (1), [[Security]] (1), database (1)
 
 #### Understand data recovery fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-recovery-fundamentals?u=76281980)
@@ -6926,6 +6928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (4), database (2)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you need to have (1)
@@ -7055,7 +7058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), this, (2), for, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), database (4), [[SQL]] (2), [[Databases]] (1), cloud (1)
 > **Env Vars:** sql (6), nas (1), url (1), gui (1)
 > **Prerequisites:** set up (6)
 > **CLI Commands:** make (1)
@@ -7280,8 +7283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (30), data (16), [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (4), [[Windows]] (2)
 > **Env Vars:** sql (6)
-> **Code Keywords:** this. (1), let (1), type, (1), self (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** basically means (2)
 > **Cross-References:** we talked about (1)
@@ -7496,9 +7499,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (21), data (9), [[Databases]] (8), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (2)
 > **Env Vars:** sql (4), msdb (3), oltp (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (2), throw (1)
 > **Cross-References:** we talked about (2)
 > **UI Navigation:** go to (2)
 > **Best Practices:** don't forget (2)
@@ -7508,7 +7511,7 @@ created: 2026-04-29
 
 ### Lesson 10: Implementing SQL Server High Availability and Disaster Recovery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22310441?u=76281980)
@@ -7533,8 +7536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft SQL Server|Sql server]] (2), power (1), database (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 
 #### Review high availability and disaster recovery technologies
@@ -7618,10 +7621,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (5), database (5), [[Databases]] (3)
 > **Env Vars:** sql (12)
 > **Prerequisites:** set up (5), configure (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** continue (1)
 
 #### Setup SQL Server Log shipping
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-log-shipping?u=76281980)
@@ -7850,7 +7853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), else, (1), default, (1), switch (1), require (1)
+> **Frameworks & Libraries:** database (21), data (8), [[Databases]] (2), [[Microsoft SQL Server]] (1), next (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** just like (3), for example (1), such as (1)
 > **UI Navigation:** go to (3)
@@ -7862,7 +7865,7 @@ created: 2026-04-29
 
 ### Lesson 11: Managing and Monitoring SQL Server Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Module 6 Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980)
@@ -7879,6 +7882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), [[SQL]] (1), [[Powershell]] (1)
 > **Env Vars:** sql (2)
 > **Tools:** powershell (1)
 
@@ -7899,9 +7903,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Databases]] (2), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 
 #### Schedule and monitor database backups
@@ -8175,9 +8179,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (24), [[Microsoft SQL Server|Sql server]] (11), [[Databases]] (6), hit (6), node (3)
 > **Env Vars:** sql (15), gui (1)
 > **Prerequisites:** set up (15), setup (1)
-> **Code Keywords:** case, (2), type. (1), new. (1), this, (1), raise (1)
 > **CLI Commands:** node (3), make (2)
 > **UI Navigation:** click on (2), go to (2), select the (1)
 > **Analogies:** just like (1), for example (1), kind of like (1)
@@ -8259,8 +8263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (16), data (4), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
 > **Env Vars:** dbcc (9), checkdb (9), repair_allow_data_loss (3), sql (2), repair_fast (2)
-> **Code Keywords:** while. (1), delete (1), finally, (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1), is a  (1)
 > **UI Navigation:** scroll down (1)
@@ -8542,7 +8546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), pass (6), this, (5), let (4), case, (2)
+> **Frameworks & Libraries:** database (23), data (9), [[SQL]] (4), [[Statistics]] (3), hit (3)
 > **Env Vars:** sql (4), alter (3), index (3), db_id (2), reorganize (2)
 > **Definitions:** is a  (5), is called (1), means that (1), is an  (1)
 > **Code Identifiers:** dm_db_index_physical_stats (4), physical_stats (1)
@@ -8742,8 +8746,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[Microsoft SQL Server|Sql server]] (5), hit (4), [[Databases]] (1), data (1)
 > **Env Vars:** msdb (9), sql (5), dta (1), dba (1)
-> **Code Keywords:** let (3), this, (3), this. (2), for. (1)
 > **Code Identifiers:** sp_purge_jobhistory (2), purge_jobhistory (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
@@ -8985,7 +8989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), this, (1), for, (1)
+> **Frameworks & Libraries:** data (39), database (27), [[Databases]] (9), [[SQL]] (3), hit (2)
 > **Env Vars:** sql (3), dba (1), filestream (1), dbcc (1), shrinkfile (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), cat (1)
@@ -9183,7 +9187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), case, (2), let (2), for. (1)
+> **Frameworks & Libraries:** database (6), [[Microsoft SQL Server|Sql server]] (4), management (3), data (3), hit (3)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (2)
@@ -9300,8 +9304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft SQL Server|Sql server]] (12), [[SQL]] (7), hit (2), data (2)
 > **Env Vars:** sql (19)
-> **Code Keywords:** case, (1), this, (1), let (1), this. (1)
 > **CLI Commands:** node (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
@@ -9403,8 +9407,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[SQL]] (6), [[Databases]] (2), [[Windows]] (1), hit (1)
 > **Env Vars:** sql (6), dbcc (4)
-> **Code Keywords:** this, (2), function (1), let (1), pass (1)
 > **CLI Commands:** make (2), go run (1), find (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -9616,7 +9620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (5), super (2), this. (2), default. (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), node (2), hit (2), management (1), power (1)
 > **Env Vars:** sql (5), cpu (3), msdn (2), gui (1)
 > **Ports:** :30 (4), :15 (4)
 > **CLI Commands:** make (3), node (2), find (1)
@@ -9628,7 +9632,7 @@ created: 2026-04-29
 
 ### Lesson 12: Automating SQL Server Administration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980)
@@ -9649,8 +9653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), database (1), [[Powershell]] (1)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (1)
 > **Tools:** powershell (1)
 
 #### Understand the components of SQL Server automated administration
@@ -9951,8 +9955,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (20), [[Databases]] (12), hit (10), [[Microsoft SQL Server|Sql server]] (9), [[SQL]] (6)
 > **Env Vars:** sql (15), ssis (4), dbcc (3), msdb (1)
-> **Code Keywords:** let (8), this, (4), case, (2), default. (1), type, (1)
 > **Prerequisites:** set up (6), configure (2), install (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** kind of like (1), for example (1), similar to (1), just like (1)
@@ -10041,9 +10045,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (30), [[Microsoft SQL Server|Sql server]] (12), [[SQL]] (10), database (5), hit (4)
 > **Tools:** powershell (30), command line (1), command prompt (1)
 > **Env Vars:** sql (23)
-> **Code Keywords:** this, (1), case, (1), let (1)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -10052,7 +10056,7 @@ created: 2026-04-29
 
 ### Summary
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980)
@@ -10109,9 +10113,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), [[Databases]] (4), [[SQL]] (4), database (3), data (3)
 > **Env Vars:** sql (12)
 > **Cross-References:** we covered (5), we talked about (3)
-> **Code Keywords:** let (1), finally, (1), case, (1)
 > **Prerequisites:** install (1), configure (1)
 > **Tools:** powershell (1)
 

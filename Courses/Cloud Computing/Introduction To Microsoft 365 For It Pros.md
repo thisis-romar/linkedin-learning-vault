@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/microsoft-365
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20To%20Microsoft%20365%20For%20It%20Pros.md)
@@ -44,39 +44,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Modernize IT infrastructure with Microsoft 365
+  - [Modernize IT infrastructure with Microsoft 365](#modernize-it-infrastructure-with-microsoft-365)
 - [**1. Microsoft 365 Overview**](#1-microsoft-365-overview) (7 videos)
-  - What is Microsoft 365?
-  - Versioning and pricing options
-  - Benefits of cloud vs. on-premises
-  - Adopting Microsoft 365
-  - Understanding the modern workplace
-  - Microsoft 365 productivity apps
-  - Ensuring user buy-in
+  - [What is Microsoft 365?](#what-is-microsoft-365)
+  - [Versioning and pricing options](#versioning-and-pricing-options)
+  - [Benefits of cloud vs. on-premises](#benefits-of-cloud-vs-on-premises)
+  - [Adopting Microsoft 365](#adopting-microsoft-365)
+  - [Understanding the modern workplace](#understanding-the-modern-workplace)
+  - [Microsoft 365 productivity apps](#microsoft-365-productivity-apps)
+  - [Ensuring user buy-in](#ensuring-user-buy-in)
 - [**2. Getting Started with Microsoft 365**](#2-getting-started-with-microsoft-365) (3 videos)
-  - Creating a free Microsoft 365 E5 trial account
-  - Microsoft final setup procedures
-  - Deleting a Microsoft 365 trial account
+  - [Creating a free Microsoft 365 E5 trial account](#creating-a-free-microsoft-365-e5-trial-account)
+  - [Microsoft final setup procedures](#microsoft-final-setup-procedures)
+  - [Deleting a Microsoft 365 trial account](#deleting-a-microsoft-365-trial-account)
 - [**3. Basic Administration of Microsoft 365**](#3-basic-administration-of-microsoft-365) (13 videos)
-  - Introduction to the Microsoft 365 Admin Center
-  - Managing users
-  - Managing groups
-  - Managing roles
-  - Managing resources
-  - Managing billing
-  - Getting support for Microsoft 365
-  - Configuring settings
-  - Additional setup tasks
-  - Viewing reports
-  - Monitoring health
-  - Microsoft 365 security and compliance
-  - Additional Admin Centers
+  - [Introduction to the Microsoft 365 Admin Center](#introduction-to-the-microsoft-365-admin-center)
+  - [Managing users](#managing-users)
+  - [Managing groups](#managing-groups)
+  - [Managing roles](#managing-roles)
+  - [Managing resources](#managing-resources)
+  - [Managing billing](#managing-billing)
+  - [Getting support for Microsoft 365](#getting-support-for-microsoft-365)
+  - [Configuring settings](#configuring-settings)
+  - [Additional setup tasks](#additional-setup-tasks)
+  - [Viewing reports](#viewing-reports)
+  - [Monitoring health](#monitoring-health)
+  - [Microsoft 365 security and compliance](#microsoft-365-security-and-compliance)
+  - [Additional Admin Centers](#additional-admin-centers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning Microsoft 365
+  - [Continue learning Microsoft 365](#continue-learning-microsoft-365)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modernize IT infrastructure with Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980)
@@ -93,13 +93,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Security]] (1), [[Microsoft Products]] (1)
 > **Speakers:** - are (1)
 
 
 ### 1. Microsoft 365 Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980)
@@ -274,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (32), [[Microsoft Office|Office]] (10), [[Search]] (7), [[Microsoft]] (4), business (4)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
 > **Definitions:** is a  (4), in other words (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (3)
@@ -484,8 +484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (17), [[Microsoft 365]] (14), cloud (3), [[Security]] (3), data (2)
 > **UI Navigation:** click on (7), scroll down (5), go to (2)
-> **Code Keywords:** let (2), this, (2)
 > **Definitions:** in other words (2), stands for (1)
 > **Code Identifiers:** iphone (1), ipad (1)
 > **Versions:** 12.50 (1), 8.25 (1)
@@ -680,9 +680,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (19), data (14), [[Security]] (10), [[Cloud Infrastructure]] (6), [[Microsoft Office|Office]] (3)
 > **Warnings:** keep in mind (2), be aware (1), be careful (1)
 > **Prerequisites:** set up (3), required to (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** vpn (2)
 > **UI Navigation:** go to (2)
@@ -768,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft]] (5), [[Windows]] (5), cloud (4), [[Search]] (3)
 > **UI Navigation:** click on (5), go to (2), scroll up (1)
-> **Code Keywords:** this, (4), this. (1), require (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** pdf (2)
@@ -872,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** cloud (11), [[Microsoft 365]] (6), [[Security]] (5), management (4), [[Microsoft]] (3)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Definitions:** is a  (2)
@@ -957,8 +957,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), business (4), application (3), data (3), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (2), is an  (2), means that (1)
-> **Code Keywords:** let (1), public (1), for, (1), finally, (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1017,7 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while. (1), let (1), continue (1), else. (1), this, (1)
+> **Frameworks & Libraries:** product (2), business (1), [[Microsoft 365]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2), it's like (1)
 > **Warnings:** keep in mind (2)
@@ -1026,7 +1026,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Microsoft 365
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a free Microsoft 365 E5 trial account
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980)
@@ -1171,8 +1171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), product (4), next (4)
 > **UI Navigation:** click on (8), checkbox (1)
-> **Code Keywords:** for, (1), let (1), this, (1), match, (1), this. (1)
 > **Prerequisites:** set up (3), configure (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [outlook.com](https://outlook.com) (1)
 > **Analogies:** kind of like (1), it's like (1)
@@ -1318,8 +1318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (3), dns (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (5), go to (2), checkbox (1)
-> **Code Keywords:** continue (3), let (1), if ( (1), this, (1), this. (1)
 > **Prerequisites:** install (2), configure (2), setup (1), set up (1)
 > **Env Vars:** dns (2), csv (1), dkim (1)
 > **URLs:** [onmicrosoft.com](https://onmicrosoft.com) (3)
@@ -1410,7 +1410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), delete (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), product (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (4), select the (1)
 > **Speakers:** - [instructor] (1)
@@ -1418,7 +1418,7 @@ created: 2026-04-29
 
 ### 3. Basic Administration of Microsoft 365
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the Microsoft 365 Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980)
@@ -1499,8 +1499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft]] (3), [[Algorithms]] (1), teams (1), management (1)
 > **UI Navigation:** click on (8), go to (1), dropdown (1), open the (1), scroll down (1)
-> **Code Keywords:** let (6), this, (1), default. (1)
 > **Definitions:** means that (2), known as (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -1669,8 +1669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[User Management]] (3), next (3), [[Microsoft OneDrive|Onedrive]] (3), management (2)
 > **UI Navigation:** click on (8), checkbox (2), dropdown (1)
-> **Code Keywords:** let (2), case, (2), from. (1), this. (1), delete (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** setup (1), set up (1)
 > **URLs:** [landonhotelonmicrosoft.com](https://landonhotelonmicrosoft.com) (1)
@@ -1820,7 +1820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (3), let (2), default. (2), delete (2)
+> **Frameworks & Libraries:** next (7), teams (7), [[Microsoft 365]] (6), management (5), [[Security]] (2)
 > **UI Navigation:** click on (10), checkbox (1)
 > **Analogies:** similar to (3), kind of like (1), just like (1)
 > **CLI Commands:** make (3), find (1)
@@ -1921,8 +1921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Microsoft 365]] (2), next (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (12), go to (1)
-> **Code Keywords:** let (4), default. (1), delete (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (1)
 > **Warnings:** warning (1)
@@ -2047,7 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), this, (1), default. (1), default, (1)
+> **Frameworks & Libraries:** management (2), [[Microsoft 365]] (2), [[SharePoint]] (2), [[Microsoft]] (1), next (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** make (1)
@@ -2139,7 +2139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), default, (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** next (3), management (2), [[Microsoft 365]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (5), select the (1)
 > **Prerequisites:** set up (2), required to (1)
 > **Definitions:** is a  (2)
@@ -2237,7 +2237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft]] (4), [[Hardware]] (3), [[Search]] (1), data (1)
 > **Definitions:** is a  (5)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** find (2)
@@ -2329,7 +2329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (1), self (1), this. (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Security]] (2), [[Privacy]] (2), [[Search]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Prerequisites:** configure (3), setup (1)
 > **Analogies:** for instance (1)
@@ -2426,9 +2426,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft]] (2), [[Security]] (1), feature (1), teams (1)
 > **Prerequisites:** setup (6), configure (3), set up (1)
 > **UI Navigation:** click on (2), scroll down (2)
-> **Code Keywords:** let (1), default. (1), self (1)
 > **Definitions:** is a  (1), basically means (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -2493,7 +2493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[SharePoint]] (2), data (2), [[Digital Transformation]] (1), product (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** similar to (1), for instance (1)
 > **Definitions:** is a  (1)
@@ -2588,8 +2588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[SharePoint]] (3), product (1), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Teams]] (1)
 > **UI Navigation:** click on (5), scroll down (2)
-> **Code Keywords:** let (3), default, (1), this. (1), this, (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
@@ -2668,8 +2668,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), [[Microsoft 365]] (6), [[Microsoft]] (6), [[Microsoft Defender|Defender]] (2)
 > **UI Navigation:** click on (6), scroll down (1)
-> **Code Keywords:** let (3), default, (1), from. (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (2)
 > **Definitions:** is a  (2)
@@ -2742,8 +2742,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[SharePoint]] (8), [[Microsoft]] (3), [[Microsoft Entra ID|Azure active directory]] (2), teams (2)
 > **UI Navigation:** click on (5), go to (2), scroll down (1)
-> **Code Keywords:** default, (2), finally, (1), let (1), interface (1), this. (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -2752,7 +2752,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980)
@@ -2769,6 +2769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (1), next (1)
 > **Speakers:** - thank (1)
 
 

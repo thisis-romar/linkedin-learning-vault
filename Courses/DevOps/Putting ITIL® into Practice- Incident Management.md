@@ -29,7 +29,7 @@ tags:
   - skill/itil
   - skill/cybersecurity-incident-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20Incident%20Management.md)
@@ -48,65 +48,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Stand apart as a incident management practitioner
-  - What is incident management?
-  - What you'll learn
-  - How you'll learn it
+  - [Stand apart as a incident management practitioner](#stand-apart-as-a-incident-management-practitioner)
+  - [What is incident management?](#what-is-incident-management)
+  - [What you'll learn](#what-youll-learn)
+  - [How you'll learn it](#how-youll-learn-it)
 - [**1. Incident Reduction**](#1-incident-reduction) (6 videos)
-  - What is incident reduction, and why use it?
-  - Where and when to use incident reduction
-  - Incident reduction steps
-  - Incident reduction example
-  - You try it: Incident reduction
-  - Review it: Incident reduction
+  - [What is incident reduction, and why use it?](#what-is-incident-reduction-and-why-use-it)
+  - [Where and when to use incident reduction](#where-and-when-to-use-incident-reduction)
+  - [Incident reduction steps](#incident-reduction-steps)
+  - [Incident reduction example](#incident-reduction-example)
+  - [You try it: Incident reduction](#you-try-it-incident-reduction)
+  - [Review it: Incident reduction](#review-it-incident-reduction)
 - [**2. Incident Shift-Left**](#2-incident-shift-left) (6 videos)
-  - What is incident shift-left, and why use it?
-  - Where and when to use incident shift-left
-  - Steps to creating an incident shift-left response
-  - Example of creating an incident shift-left response
-  - You try it: Creating an incident shift-left response
-  - Review it: Creating an incident shift-left response
+  - [What is incident shift-left, and why use it?](#what-is-incident-shift-left-and-why-use-it)
+  - [Where and when to use incident shift-left](#where-and-when-to-use-incident-shift-left)
+  - [Steps to creating an incident shift-left response](#steps-to-creating-an-incident-shift-left-response)
+  - [Example of creating an incident shift-left response](#example-of-creating-an-incident-shift-left-response)
+  - [You try it: Creating an incident shift-left response](#you-try-it-creating-an-incident-shift-left-response)
+  - [Review it: Creating an incident shift-left response](#review-it-creating-an-incident-shift-left-response)
 - [**3. Incident Monitoring Optimization**](#3-incident-monitoring-optimization) (6 videos)
-  - What is the incident monitoring optimization response, and why do it?
-  - Where and when to use the incident monitoring optimization response
-  - Steps in incident monitoring optimization
-  - Example of incident monitoring optimization
-  - You try it: Incident monitoring optimization
-  - Review it: Incident monitoring optimization
+  - [What is the incident monitoring optimization response, and why do it?](#what-is-the-incident-monitoring-optimization-response-and-why-do-it)
+  - [Where and when to use the incident monitoring optimization response](#where-and-when-to-use-the-incident-monitoring-optimization-response)
+  - [Steps in incident monitoring optimization](#steps-in-incident-monitoring-optimization)
+  - [Example of incident monitoring optimization](#example-of-incident-monitoring-optimization)
+  - [You try it: Incident monitoring optimization](#you-try-it-incident-monitoring-optimization)
+  - [Review it: Incident monitoring optimization](#review-it-incident-monitoring-optimization)
 - [**4. Incident Cycle Time Reduction**](#4-incident-cycle-time-reduction) (6 videos)
-  - What is incident cycle time reduction, and why use it?
-  - Where and when to use incident cycle time reduction
-  - Steps in incident cycle time reduction
-  - Example of incident cycle time reduction
-  - You try it: Incident cycle time reduction
-  - Review it: Incident cycle time reduction
+  - [What is incident cycle time reduction, and why use it?](#what-is-incident-cycle-time-reduction-and-why-use-it)
+  - [Where and when to use incident cycle time reduction](#where-and-when-to-use-incident-cycle-time-reduction)
+  - [Steps in incident cycle time reduction](#steps-in-incident-cycle-time-reduction)
+  - [Example of incident cycle time reduction](#example-of-incident-cycle-time-reduction)
+  - [You try it: Incident cycle time reduction](#you-try-it-incident-cycle-time-reduction)
+  - [Review it: Incident cycle time reduction](#review-it-incident-cycle-time-reduction)
 - [**5. Incident Reassignment Reduction**](#5-incident-reassignment-reduction) (6 videos)
-  - What is incident reassignment reduction, and why use it?
-  - Where and when to use incident reassignment reduction
-  - Steps in incident reassignment reduction
-  - Example of incident reassignment reduction
-  - You try it: Incident reassignment reduction
-  - Review it: Incident reassignment reduction
+  - [What is incident reassignment reduction, and why use it?](#what-is-incident-reassignment-reduction-and-why-use-it)
+  - [Where and when to use incident reassignment reduction](#where-and-when-to-use-incident-reassignment-reduction)
+  - [Steps in incident reassignment reduction](#steps-in-incident-reassignment-reduction)
+  - [Example of incident reassignment reduction](#example-of-incident-reassignment-reduction)
+  - [You try it: Incident reassignment reduction](#you-try-it-incident-reassignment-reduction)
+  - [Review it: Incident reassignment reduction](#review-it-incident-reassignment-reduction)
 - [**6. First-Contact Closure Rate Optimization**](#6-first-contact-closure-rate-optimization) (6 videos)
-  - What is first-contact closure rate optimization, and why use it?
-  - Where and when to use first-contact closure rate optimization
-  - Steps in first-contact closure rate optimization
-  - Example of first-contact closure rate optimization
-  - You try it: First-contact closure rate optimization
-  - Review it: First-contact closure rate optimization
+  - [What is first-contact closure rate optimization, and why use it?](#what-is-first-contact-closure-rate-optimization-and-why-use-it)
+  - [Where and when to use first-contact closure rate optimization](#where-and-when-to-use-first-contact-closure-rate-optimization)
+  - [Steps in first-contact closure rate optimization](#steps-in-first-contact-closure-rate-optimization)
+  - [Example of first-contact closure rate optimization](#example-of-first-contact-closure-rate-optimization)
+  - [You try it: First-contact closure rate optimization](#you-try-it-first-contact-closure-rate-optimization)
+  - [Review it: First-contact closure rate optimization](#review-it-first-contact-closure-rate-optimization)
 - [**7. Knowledge Base Optimization**](#7-knowledge-base-optimization) (6 videos)
-  - What is knowledge base optimization, and why use it?
-  - Where and when to use knowledge base optimization
-  - Steps in knowledge base optimization
-  - Example of knowledge base optimization
-  - You try it: Knowledge base optimization
-  - Review it: Knowledge base optimization
+  - [What is knowledge base optimization, and why use it?](#what-is-knowledge-base-optimization-and-why-use-it)
+  - [Where and when to use knowledge base optimization](#where-and-when-to-use-knowledge-base-optimization)
+  - [Steps in knowledge base optimization](#steps-in-knowledge-base-optimization)
+  - [Example of knowledge base optimization](#example-of-knowledge-base-optimization)
+  - [You try it: Knowledge base optimization](#you-try-it-knowledge-base-optimization)
+  - [Review it: Knowledge base optimization](#review-it-knowledge-base-optimization)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further your journey into incident management
+  - [Further your journey into incident management](#further-your-journey-into-incident-management)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stand apart as a incident management practitioner
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/stand-apart-as-a-incident-management-practitioner?u=76281980)
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (1), career (1)
 > **Env Vars:** itil (1)
 > **Speakers:** - think (1)
 
@@ -207,7 +208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1)
+> **Frameworks & Libraries:** management (5), [[Security]] (2), [[ITIL]] (2), [[React.js|React]] (1), hit (1)
 > **Env Vars:** itil (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [david] (1)
@@ -273,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), continue (1)
+> **Frameworks & Libraries:** management (2), [[User Experience (UX)|User experience]] (2), [[React.js|React]] (1), [[Routing]] (1), [[Automation]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### How you'll learn it
@@ -341,15 +342,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), application (1), power (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Incident Reduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is incident reduction, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-incident-reduction-and-why-use-it?u=76281980)
@@ -380,6 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1), next (1)
 > **Speakers:** - incident (1)
 
 #### Where and when to use incident reduction
@@ -425,8 +427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** self (1)
 > **Speakers:** - [instructor] (1)
 
 #### Incident reduction steps
@@ -556,6 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), teams (2), business (1), [[Analytics]] (1), leadership (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** don't forget (2)
 > **Env Vars:** sla (1)
@@ -691,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), implements (1)
+> **Frameworks & Libraries:** teams (4), business (3), application (2), data (2), leadership (2)
 > **Env Vars:** itsm (3)
 > **CLI Commands:** make (1)
 > **Tools:** colab (1)
@@ -732,6 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Accountability]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [narrator] (1)
@@ -809,15 +813,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), leadership (1), game (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** this, (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Incident Shift-Left
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is incident shift-left, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-shift-left-and-why-use-it?u=76281980)
@@ -852,7 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Interactive Voice Response (IVR)|Interactive voice response]] (1), [[Predictive Analytics]] (1), management (1), power (1)
 > **Speakers:** - shift (1)
 
 #### Where and when to use incident shift-left
@@ -908,7 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6), require (1)
+> **Frameworks & Libraries:** [[Troubleshooting]] (2), [[Automation]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
@@ -1044,7 +1048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4)
+> **Frameworks & Libraries:** [[Automation]] (5), teams (3), management (2), [[Analytics]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** don't forget (2)
 > **Speakers:** - [instructor] (1)
@@ -1178,7 +1182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (14), let (1), implements (1)
+> **Frameworks & Libraries:** chatbot (9), [[Slack]] (4), teams (4), leadership (2), [[Analytics]] (1)
 > **Tools:** slack (4)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** itsm (1)
@@ -1217,7 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** data (1), teams (1), [[Automation]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review it: Creating an incident shift-left response
@@ -1287,8 +1291,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), next (4), [[Predictive Analytics]] (1), [[Automation]] (1), hit (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** self (1), continue (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1296,7 +1300,7 @@ created: 2026-04-29
 
 ### 3. Incident Monitoring Optimization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the incident monitoring optimization response, and why do it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-monitoring-optimization-and-why-do-it?u=76281980)
@@ -1323,6 +1327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1)
 > **Speakers:** - incident (1)
 
 #### Where and when to use the incident monitoring optimization response
@@ -1366,6 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Real-Time]] (1), ai (1), game (1), data (1)
 > **CLI Commands:** find (1)
 
 #### Steps in incident monitoring optimization
@@ -1509,6 +1515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), teams (4), [[Dashboards]] (2), ai (1), [[Real-Time]] (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
@@ -1659,7 +1666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** teams (3), data (2), leadership (2), hit (1), [[Microsoft Teams]] (1)
 > **Env Vars:** itsm (2)
 > **Warnings:** warning (1)
 > **Prerequisites:** configure (1)
@@ -1783,6 +1790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (9), next (4), data (1), [[Predictive Analytics]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1790,7 +1798,7 @@ created: 2026-04-29
 
 ### 4. Incident Cycle Time Reduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is incident cycle time reduction, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-cycle-time-reduction-and-why-use-it?u=76281980)
@@ -1888,6 +1896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), [[Security]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2032,9 +2041,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), data (3), [[Dashboards]] (2), [[Automation]] (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
@@ -2198,8 +2207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (6), data (4), business (4), [[Automation]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### You try it: Incident cycle time reduction
@@ -2233,6 +2242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Automation]] (2), data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review it: Incident cycle time reduction
@@ -2294,6 +2304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), next (2), [[Troubleshooting]] (1), [[Automation]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2301,7 +2312,7 @@ created: 2026-04-29
 
 ### 5. Incident Reassignment Reduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is incident reassignment reduction, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-reassignment-reduction-and-why-do-it?u=76281980)
@@ -2330,7 +2341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** hit (2), teams (1)
 > **Speakers:** - every (1)
 
 #### Where and when to use incident reassignment reduction
@@ -2376,9 +2387,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Routing]] (3), data (2), [[Automation]] (1), ai (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### Steps in incident reassignment reduction
@@ -2516,8 +2527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), teams (6), [[Routing]] (4), [[Automation]] (2), ai (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
@@ -2682,9 +2693,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (7), teams (5), [[Automation]] (3), next (1), data (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** picture (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### You try it: Incident reassignment reduction
@@ -2726,6 +2737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), data (1), [[Routing]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review it: Incident reassignment reduction
@@ -2803,15 +2815,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), next (3)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 6. First-Contact Closure Rate Optimization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is first-contact closure rate optimization, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-first-contact-closure-rate-optimization-and-why-use-it?u=76281980)
@@ -2848,7 +2860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), else. (1)
+> **Frameworks & Libraries:** [[Automation]] (3)
 > **Definitions:** is a  (1)
 
 #### Where and when to use first-contact closure rate optimization
@@ -2888,7 +2900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5)
+> **Frameworks & Libraries:** [[Automation]] (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3015,8 +3027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (3), [[Automation]] (2), leadership (1), [[Analytics]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** self (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -3196,9 +3208,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Troubleshooting]] (2), next (1), business (1), [[Routing]] (1)
 > **Warnings:** troubleshoot (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -3235,6 +3247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), teams (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review it: First-contact closure rate optimization
@@ -3302,6 +3315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), next (3)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -3309,7 +3323,7 @@ created: 2026-04-29
 
 ### 7. Knowledge Base Optimization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is knowledge base optimization, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-knowledgebase-optimization-and-why-use-it?u=76281980)
@@ -3338,6 +3352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), power (1), [[Search]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - with (1)
 
@@ -3374,7 +3389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2)
+> **Frameworks & Libraries:** [[Analytics]] (1), [[Search]] (1), [[User Experience (UX)|User experience]] (1), [[Troubleshooting]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Steps in knowledge base optimization
@@ -3536,6 +3551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), teams (5), data (4), [[Analytics]] (1), ai (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -3697,8 +3713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), data (3), [[Analytics]] (2), teams (1), [[Version Control]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), extends (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3735,6 +3751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3801,15 +3818,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), next (3), [[Search]] (2), management (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further your journey into incident management
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980)
@@ -3880,7 +3897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), self (2), for. (1)
+> **Frameworks & Libraries:** next (3), management (3), [[Automation]] (2), ai (2), [[LinkedIn]] (2)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [devops.com](https://devops.com) (1)
 > **Env Vars:** hdi (1)

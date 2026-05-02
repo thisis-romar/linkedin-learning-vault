@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/graphic-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Graphic%20Design-%20Layouts.md)
@@ -47,27 +47,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What is layout
-  - The hidden page (visible and invisible properties)
+  - [Welcome](#welcome)
+  - [What is layout](#what-is-layout)
+  - [The hidden page (visible and invisible properties)](#the-hidden-page-visible-and-invisible-properties)
 - [**1. Universal Principles**](#1-universal-principles) (4 videos)
-  - Keep it simple
-  - Have a focal point and think boldly
-  - The necessary silence of white space
-  - Handling images
+  - [Keep it simple](#keep-it-simple)
+  - [Have a focal point and think boldly](#have-a-focal-point-and-think-boldly)
+  - [The necessary silence of white space](#the-necessary-silence-of-white-space)
+  - [Handling images](#handling-images)
 - [**2. Page Margins and the Grid**](#2-page-margins-and-the-grid) (3 videos)
-  - Symmetrical
-  - Asymmetrical
-  - Two-page book grid
+  - [Symmetrical](#symmetrical)
+  - [Asymmetrical](#asymmetrical)
+  - [Two-page book grid](#two-page-book-grid)
 - [**3. Putting a Layout Together**](#3-putting-a-layout-together) (2 videos)
-  - A campus poster
-  - A magazine article
+  - [A campus poster](#a-campus-poster)
+  - [A magazine article](#a-magazine-article)
 - [**Closing**](#closing) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/welcome?u=76281980)
@@ -106,8 +106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Graphic Design]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - layout (1)
 
@@ -172,9 +172,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), data (1)
 > **Analogies:** think of it as (2), it's like (1)
 > **CLI Commands:** snap (1), find (1)
-> **Code Keywords:** static (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - layout (1)
 
@@ -233,15 +233,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **Analogies:** think of it as (1), for example (1)
-> **Code Keywords:** super (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - layout (1)
 
 
 ### 1. Universal Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep it simple
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/keep-it-simple?u=76281980)
@@ -408,7 +408,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), type. (3), type, (1), this, (1)
 > **CLI Commands:** make (7)
 > **Speakers:** - always (1)
 
@@ -449,7 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - white (1)
 
 #### Handling images
@@ -508,14 +507,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3)
-> **Code Keywords:** while. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
 
 ### 2. Page Margins and the Grid
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Symmetrical
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980)
@@ -610,8 +608,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Typography]] (1), data (1)
 > **Definitions:** is a  (5), is an  (1)
-> **Code Keywords:** let (3), type, (1), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
@@ -724,7 +722,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), this. (1), case, (1)
 > **Cross-References:** go back to (1), as we saw (1)
 > **Speakers:** - grids (1)
 
@@ -769,13 +766,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), case, (1)
 > **Speakers:** - if (1)
 
 
 ### 3. Putting a Layout Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A campus poster
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980)
@@ -1036,7 +1032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (6), this. (5), super (3), type. (3)
+> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[Typography]] (1), [[Forms]] (1)
 > **CLI Commands:** make (11), find (3), ls (2)
 > **Definitions:** is a  (8), is an  (1)
 > **Analogies:** picture (8), it's like (1)
@@ -1313,7 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (7), this. (3), let (2), super (2), type, (2)
+> **Frameworks & Libraries:** next (5), [[Zoom]] (1)
 > **Analogies:** picture (15), for example (1), just like (1)
 > **Definitions:** is a  (14), is an  (1)
 > **Cross-References:** earlier in (2), as we saw (2), as you saw (1), we talked about (1)
@@ -1324,7 +1320,7 @@ created: 2026-04-29
 
 ### Closing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/conclusion?u=76281980)
@@ -1341,7 +1337,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - layout (1)
 

@@ -34,7 +34,7 @@ tags:
   - topic/software-development
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Data%20Science.md)
@@ -53,54 +53,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Beginning your data science exploration
+  - [Beginning your data science exploration](#beginning-your-data-science-exploration)
 - [**1. Defining Data Science**](#1-defining-data-science) (3 videos)
-  - Demystifying data science
-  - The value of data science
-  - Defining the data science life cycle
+  - [Demystifying data science](#demystifying-data-science)
+  - [The value of data science](#the-value-of-data-science)
+  - [Defining the data science life cycle](#defining-the-data-science-life-cycle)
 - [**2. Starting with Data Design**](#2-starting-with-data-design) (2 videos)
-  - Reducing bias with probability sampling
-  - Using non-probability sampling
+  - [Reducing bias with probability sampling](#reducing-bias-with-probability-sampling)
+  - [Using non-probability sampling](#using-non-probability-sampling)
 - [**3. Utilizing Computational Tools**](#3-utilizing-computational-tools) (2 videos)
-  - Comparing Python and R
-  - Setting up your Jupyter environment
+  - [Comparing Python and R](#comparing-python-and-r)
+  - [Setting up your Jupyter environment](#setting-up-your-jupyter-environment)
 - [**4. Structuring Your Tabular Data**](#4-structuring-your-tabular-data) (5 videos)
-  - Defining tabular data
-  - Reading tabular data
-  - Interpreting tabular data
-  - Gathering insights
-  - Answering specific questions
+  - [Defining tabular data](#defining-tabular-data)
+  - [Reading tabular data](#reading-tabular-data)
+  - [Interpreting tabular data](#interpreting-tabular-data)
+  - [Gathering insights](#gathering-insights)
+  - [Answering specific questions](#answering-specific-questions)
 - [**5. Using Exploratory Data Analysis**](#5-using-exploratory-data-analysis) (3 videos)
-  - Defining exploratory data analysis
-  - Recognizing statistical data types
-  - Distinguishing properties of data
+  - [Defining exploratory data analysis](#defining-exploratory-data-analysis)
+  - [Recognizing statistical data types](#recognizing-statistical-data-types)
+  - [Distinguishing properties of data](#distinguishing-properties-of-data)
 - [**6. Cleaning Your Data**](#6-cleaning-your-data) (2 videos)
-  - Explaining data cleaning
-  - Questions to guide data cleaning
+  - [Explaining data cleaning](#explaining-data-cleaning)
+  - [Questions to guide data cleaning](#questions-to-guide-data-cleaning)
 - [**7. Using Data Visualization**](#7-using-data-visualization) (3 videos)
-  - Demystifying data visualization
-  - Visualizing your qualitative data
-  - Visualizing your quantitative data
+  - [Demystifying data visualization](#demystifying-data-visualization)
+  - [Visualizing your qualitative data](#visualizing-your-qualitative-data)
+  - [Visualizing your quantitative data](#visualizing-your-quantitative-data)
 - [**8. Using Inference and Statistical Analysis**](#8-using-inference-and-statistical-analysis) (5 videos)
-  - Defining inference
-  - Designing a hypothesis test
-  - Creating a permutation
-  - Conducting a permutation test
-  - Bootstrapping a confidence interval
+  - [Defining inference](#defining-inference)
+  - [Designing a hypothesis test](#designing-a-hypothesis-test)
+  - [Creating a permutation](#creating-a-permutation)
+  - [Conducting a permutation test](#conducting-a-permutation-test)
+  - [Bootstrapping a confidence interval](#bootstrapping-a-confidence-interval)
 - [**9. Using Prediction in Data Science**](#9-using-prediction-in-data-science) (7 videos)
-  - Defining prediction for data science
-  - Navigating classification
-  - Recognizing the k-NN algorithm
-  - Implementing k-Nearest Neighbors
-  - Navigating regression
-  - Checking assumptions of regression
-  - Implementing linear regression
+  - [Defining prediction for data science](#defining-prediction-for-data-science)
+  - [Navigating classification](#navigating-classification)
+  - [Recognizing the k-NN algorithm](#recognizing-the-k-nn-algorithm)
+  - [Implementing k-Nearest Neighbors](#implementing-k-nearest-neighbors)
+  - [Navigating regression](#navigating-regression)
+  - [Checking assumptions of regression](#checking-assumptions-of-regression)
+  - [Implementing linear regression](#implementing-linear-regression)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beginning your data science exploration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=76281980)
@@ -127,13 +127,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (10), career (1), [[Programming]] (1)
 > **CLI Commands:** find (1)
 
 
 ### 1. Defining Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Demystifying data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980)
@@ -200,10 +200,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (48), business (8), [[Automation]] (4), next (2), [[Algorithms]] (2)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** nasa (1), roi (1)
-> **Code Keywords:** continue (1)
 
 #### The value of data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980)
@@ -242,6 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), business (1), [[Real-Time]] (1), power (1), [[Algorithms]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2)
 
@@ -270,10 +271,14 @@ created: 2026-04-29
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-the-data-science-life-cycle?u=76281980&t=45)** The data science lifecycle is critical to how data scientists approach their work, and now you know the major stages of this process.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** data (8), next (1)
+
 
 ### 2. Starting with Data Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reducing bias with probability sampling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980)
@@ -358,11 +363,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (6), data (4), cd (1)
 > **Definitions:** is a  (3), is called (3), known as (1)
 > **Env Vars:** srs (4)
 > **CLI Commands:** make (1), cd (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** this, (1)
 
 #### Using non-probability sampling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980)
@@ -417,15 +422,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (5), data (2), [[Forms]] (1)
 > **Definitions:** is a  (2), in other words (2)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 
 
 ### 3. Utilizing Computational Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing Python and R
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980)
@@ -478,9 +483,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), data (6), strengths (2), web (1), database (1)
 > **CLI Commands:** python (12), find (1)
 > **Definitions:** stands for (2)
-> **Code Keywords:** require (1)
 > **Env Vars:** cran (1)
 
 #### Setting up your Jupyter environment
@@ -572,8 +577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), hit (5), data (2), [[Programming]] (1)
 > **CLI Commands:** python (7), find (1), make (1)
-> **Code Keywords:** let (3), continue (2), this, (1), new. (1)
 > **Versions:** python 3 (6), 3.7 (1)
 > **Tools:** jupyter (2), terminal (2), anaconda (1)
 > **UI Navigation:** click on (3), scroll down (1)
@@ -583,7 +588,7 @@ created: 2026-04-29
 
 ### 4. Structuring Your Tabular Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining tabular data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980)
@@ -642,12 +647,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (10)
 > **Code Identifiers:** us_baby_names (2), us_babies (2), us_baby_names_csv (1), read_csv (1)
 > **Definitions:** refers to (1), is a  (1), means that (1), is called (1)
 > **File Paths:** us_baby_names.csv (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** this. (1)
 > **Analogies:** for example (1)
 
 #### Reading tabular data
@@ -785,9 +790,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Pandas (Software)|Pandas]] (10), [[Python (Programming Language)|Python]] (1), [[Data Manipulation]] (1), [[Programming]] (1)
 > **Code Identifiers:** us_babies (7), us_baby_names (2), read_csv (1), us_baby_names_csv (1)
 > **Definitions:** is a  (4), means that (2), is called (2), refers to (1), in other words (1)
-> **Code Keywords:** pass (2), let (1), this, (1), finally, (1)
 > **Env Vars:** csv (4)
 > **File Paths:** us_baby_names.csv (2)
 > **CLI Commands:** python (1), make (1)
@@ -845,7 +850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (2), next (2)
 > **Analogies:** imagine (1)
 
 #### Gathering insights
@@ -965,7 +970,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), case, (2), pass (2), let (1), this, (1)
+> **Frameworks & Libraries:** data (25), [[Pandas (Software)|Pandas]] (8), next (4), hit (3), [[Programming]] (1)
 > **Code Identifiers:** ca_babies (3), states_babies (2), state_babies (1), sort_values (1)
 > **Definitions:** is a  (3), is called (2), means that (1), in other words (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1026,14 +1031,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (3), [[Data Manipulation]] (1)
 > **Code Identifiers:** us_babies (4), us_lav (3)
-> **Code Keywords:** this, (2), let (1)
 > **Cross-References:** go back to (1)
 
 
 ### 5. Using Exploratory Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining exploratory data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-exploratory-data-analysis?u=76281980)
@@ -1058,6 +1063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13)
 > **Env Vars:** eda (5)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** known as (1), is a  (1)
@@ -1125,10 +1131,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), [[Windows]] (1), [[Linux]] (1), next (1)
 > **Analogies:** such as (4), for example (3)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 2.7 (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** macos (1)
 > **Definitions:** in other words (1)
 > **Warnings:** keep in mind (1)
@@ -1242,8 +1248,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (47), next (2)
 > **Code Identifiers:** date_added (3), release_year (3)
-> **Code Keywords:** let (4), finally, (1)
 > **Definitions:** known as (2), refers to (2)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** eda (2)
@@ -1253,7 +1259,7 @@ created: 2026-04-29
 
 ### 6. Cleaning Your Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining data cleaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/explaining-data-cleaning?u=76281980)
@@ -1282,8 +1288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
@@ -1374,7 +1380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2), this, (1), function (1), finally, (1)
+> **Frameworks & Libraries:** data (36), [[Pandas (Software)|Pandas]] (3), next (1), generic (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1383,7 +1389,7 @@ created: 2026-04-29
 
 ### 7. Using Data Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Demystifying data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980)
@@ -1412,6 +1418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Documentation:** the documentation (1)
@@ -1516,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3)
+> **Frameworks & Libraries:** data (26), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (2), ci (2), next (1)
 > **Code Identifiers:** neighborhood_group (3), read_csv (1)
 > **Env Vars:** csv (2), nyc (1)
 > **File Paths:** 2019.csv (1), airbnb_nyc_2019.csv (1)
@@ -1660,7 +1667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3)
+> **Frameworks & Libraries:** data (16), next (5), [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (4)
 > **CLI Commands:** python (4), make (1)
 > **Env Vars:** csv (2), nyc (1)
 > **Definitions:** is a  (3)
@@ -1672,7 +1679,7 @@ created: 2026-04-29
 
 ### 8. Using Inference and Statistical Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining inference
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980)
@@ -1689,6 +1696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Forecasting]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -1799,8 +1807,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), next (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is called (2), is an  (1), in other words (1)
-> **Code Keywords:** let (1), this, (1), finally, (1)
 > **CLI Commands:** make (1), python (1)
 > **Exercise Files:** exercise file (2)
 > **UI Navigation:** open the (1)
@@ -1904,10 +1912,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Pandas (Software)|Pandas]] (4), next (3), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** avocado_info (2), observed_test_stat (2), not_fertilized (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** this, (1)
 > **Exercise Files:** exercise file (1)
 
 #### Conducting a permutation test
@@ -2051,7 +2059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this, (2), this. (1), def, (1), pass (1)
+> **Frameworks & Libraries:** data (18), next (7), generic (1), [[Probability]] (1)
 > **Code Identifiers:** sim_test_stat (5), not_fertilized (1), sim_test (1), p_value (1)
 > **Definitions:** in other words (3), is an  (1), known as (1), is a  (1)
 > **Cross-References:** earlier in (1), in the next (1)
@@ -2190,7 +2198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), this, (2), def, (2), let (1)
+> **Frameworks & Libraries:** data (9), next (8), generic (3), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** not_fertilized (3), avocado_info (1), ridge_sample (1), new_sample (1), new_mean (1)
 > **Versions:** 2.5 (1), 97.5 (1), 11.34 (1), 7.19 (1)
 > **Definitions:** is a  (3), means that (1)
@@ -2202,7 +2210,7 @@ created: 2026-04-29
 
 ### 9. Using Prediction in Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining prediction for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980)
@@ -2253,6 +2261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (1), [[Linear Regression]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** cat (2)
 > **Definitions:** in other words (1)
@@ -2304,9 +2313,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (1)
 > **Definitions:** is an  (2), is a  (2), is called (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** class. (1)
 
 #### Recognizing the k-NN algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-the-k-nn-algorithm?u=76281980)
@@ -2375,9 +2384,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), next (3)
 > **Definitions:** is a  (2), is called (1), is an  (1), known as (1), in other words (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** class, (1), let (1)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1)
 
@@ -2538,7 +2547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7), match, (2), case, (1), class. (1)
+> **Frameworks & Libraries:** data (26), next (5), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1)
 > **Env Vars:** ckd (14)
 > **Code Identifiers:** x_train (2), x_test (2), y_train (1), y_test (1), preds_train (1)
 > **CLI Commands:** make (3), python (2), find (1)
@@ -2602,6 +2611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (11), data (5), feature (4), [[Representational State Transfer (REST)|Rest]] (1), [[Customer Support]] (1)
 > **Definitions:** known as (2), in other words (2), is a  (1)
 > **Env Vars:** wbc (2), faq (1)
 > **Analogies:** imagine (2), for example (1)
@@ -2660,10 +2670,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Linear Regression]] (4), cloud (3), next (1)
 > **Definitions:** means that (1), known as (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be aware (1), note that (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 
 #### Implementing linear regression
@@ -2789,9 +2799,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Linear Regression]] (11), next (5), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** ols (7), csv (1)
 > **Versions:** 0.75 (2), 42.8594 (1), 8.4170 (1), 8.417 (1)
-> **Code Keywords:** function (2), continue (1), finally, (1)
 > **Definitions:** known as (2), stands for (1), is a  (1)
 > **CLI Commands:** python (2), make (1)
 > **Code Identifiers:** ols_market (1)
@@ -2801,7 +2811,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/next-steps?u=76281980)
@@ -2834,7 +2844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** data (9), next (1)
 > **Definitions:** is a  (1)
 
 

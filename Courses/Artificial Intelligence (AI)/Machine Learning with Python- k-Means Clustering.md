@@ -41,7 +41,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20k-Means%20Clustering.md)
@@ -60,26 +60,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Getting started with Python and k-means clustering
-  - What you should know
-  - The tools you need
-  - Using the exercise files
+  - [Getting started with Python and k-means clustering](#getting-started-with-python-and-k-means-clustering)
+  - [What you should know](#what-you-should-know)
+  - [The tools you need](#the-tools-you-need)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Understanding K-Means Clustering**](#1-understanding-k-means-clustering) (4 videos)
-  - What is clustering?
-  - What is k-means clustering?
-  - Choosing the right number of clusters
-  - Why and when to use k-means clustering
+  - [What is clustering?](#what-is-clustering)
+  - [What is k-means clustering?](#what-is-k-means-clustering)
+  - [Choosing the right number of clusters](#choosing-the-right-number-of-clusters)
+  - [Why and when to use k-means clustering](#why-and-when-to-use-k-means-clustering)
 - [**2. Segmenting Data with K-Means Clustering**](#2-segmenting-data-with-k-means-clustering) (4 videos)
-  - How to segment data with k-means clustering in Python
-  - How to evaluate and visualize clusters in Python
-  - How to find the right number of clusters in Python
-  - How to interpret the results of k-means clustering in Python
+  - [How to segment data with k-means clustering in Python](#how-to-segment-data-with-k-means-clustering-in-python)
+  - [How to evaluate and visualize clusters in Python](#how-to-evaluate-and-visualize-clusters-in-python)
+  - [How to find the right number of clusters in Python](#how-to-find-the-right-number-of-clusters-in-python)
+  - [How to interpret the results of k-means clustering in Python](#how-to-interpret-the-results-of-k-means-clustering-in-python)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Python and k-means clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980)
@@ -104,8 +104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[k-means clustering]] (4), [[Python (Programming Language)|Python]] (2), [[Search]] (1), data (1), ai (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [fred] (1)
 
 #### What you should know
@@ -133,8 +133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), next (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -167,11 +167,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), make (2)
 > **Tools:** jupyter (3), anaconda (3)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** interface (1)
 > **Versions:** python 3 (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -225,18 +225,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[k-means clustering]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** anaconda (2), jupyter (2)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** exercise files (3)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding K-Means Clustering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is clustering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-clustering?u=76281980)
@@ -343,8 +343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Network Security]] (1), strengths (1)
 > **Definitions:** known as (4), means that (4), is an  (2), is a  (2), in other words (1)
-> **Code Keywords:** case, (1), let (1), this, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -412,9 +412,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[k-means clustering]] (5), [[Representational State Transfer (REST)|Rest]] (1), feature (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (2), imagine (1)
-> **Code Keywords:** let (2)
 > **Versions:** 1.414 (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -542,11 +542,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[k-means clustering]] (2), next (2), business (1), ai (1)
 > **Env Vars:** wcss (12), bcss (2)
 > **Definitions:** is a  (4), means that (3), known as (3), is an  (1)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **Best Practices:** rule of thumb (3)
-> **Code Keywords:** this. (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -604,17 +604,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[k-means clustering]] (10), data (7), strengths (2), [[Search]] (1)
 > **Definitions:** means that (4), is a  (1)
 > **Env Vars:** wcss (1), dbscan (1), optics (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Segmenting Data with K-Means Clustering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to segment data with k-means clustering in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980)
@@ -769,7 +769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), finally, (2), class. (2), default, (1)
+> **Frameworks & Libraries:** data (24), next (7), [[Statistics]] (6), [[k-means clustering]] (4), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (6), is called (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** fit_transform (2)
@@ -841,9 +841,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[k-means clustering]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** cluster_centers (3), value_count (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Versions:** 0.8 (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** means that (1)
@@ -949,7 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (4), this. (3)
+> **Frameworks & Libraries:** data (8), next (5), [[Pandas (Software)|Pandas]] (3), [[k-means clustering]] (2)
 > **Code Identifiers:** silhouette_score (2), calinski_harabasz_score (2), wcss_series (1), silhouette_series (1), calinski_series (1)
 > **Definitions:** known as (1), is a  (1)
 > **Warnings:** note that (2)
@@ -1036,16 +1036,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), feature (6), [[Statistics]] (4), [[k-means clustering]] (2), next (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), similar to (1)
-> **Code Keywords:** let (1), this, (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980)
@@ -1090,8 +1090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[k-means clustering]] (3), next (2), [[Ethics]] (2)
 > **CLI Commands:** python (4), find (2)
-> **Code Keywords:** continue (3), finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)

@@ -28,7 +28,7 @@ tags:
   - skill/client-rapport
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Building%20Rapport%20with%20Customers%20(2022).md)
@@ -47,26 +47,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Does rapport really matter?
+  - [Does rapport really matter?](#does-rapport-really-matter)
 - [**1. Simple Ways to Build Rapport with Customers**](#1-simple-ways-to-build-rapport-with-customers) (2 videos)
-  - Build rapport in six seconds or less
-  - Acknowledge concern with customers
+  - [Build rapport in six seconds or less](#build-rapport-in-six-seconds-or-less)
+  - [Acknowledge concern with customers](#acknowledge-concern-with-customers)
 - [**2. Techniques for Maintaining Rapport**](#2-techniques-for-maintaining-rapport) (3 videos)
-  - Yield to customers
-  - Pace customers
-  - Speak in complete sentences with customers
+  - [Yield to customers](#yield-to-customers)
+  - [Pace customers](#pace-customers)
+  - [Speak in complete sentences with customers](#speak-in-complete-sentences-with-customers)
 - [**3. Building Rapport in Specific Situations**](#3-building-rapport-in-specific-situations) (5 videos)
-  - End customer interactions with a fond farewell
-  - Create rapport in a customer chat interaction
-  - Create rapport in a customer email
-  - Use rapport to disarm angry customers
-  - Maintain rapport when delivering bad news to customers
+  - [End customer interactions with a fond farewell](#end-customer-interactions-with-a-fond-farewell)
+  - [Create rapport in a customer chat interaction](#create-rapport-in-a-customer-chat-interaction)
+  - [Create rapport in a customer email](#create-rapport-in-a-customer-email)
+  - [Use rapport to disarm angry customers](#use-rapport-to-disarm-angry-customers)
+  - [Maintain rapport when delivering bad news to customers](#maintain-rapport-when-delivering-bad-news-to-customers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Start, stop, continue exercise
+  - [Start, stop, continue exercise](#start-stop-continue-exercise)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Does rapport really matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980)
@@ -115,7 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - you (1)
@@ -123,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Simple Ways to Build Rapport with Customers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build rapport in six seconds or less
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/build-rapport-in-six-seconds-or-less-14480262?u=76281980)
@@ -171,7 +171,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - one (1)
 
@@ -246,7 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -255,7 +254,7 @@ created: 2026-04-29
 
 ### 2. Techniques for Maintaining Rapport
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Yield to customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/yield-to-customers-14476332?u=76281980)
@@ -308,7 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), yield (1)
+> **Frameworks & Libraries:** traffic (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1)
 > **Speakers:** - recently (1)
@@ -386,8 +385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** pass (1)
 > **Definitions:** is called (1)
 > **Warnings:** caution (1)
 > **Speakers:** - when (1)
@@ -449,14 +448,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Building Rapport in Specific Situations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### End customer interactions with a fond farewell
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/end-customer-interactions-with-a-fond-farewell-14479289?u=76281980)
@@ -513,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1), return. (1), include, (1), for. (1)
+> **Frameworks & Libraries:** next (3), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -586,7 +584,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), return. (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** abc (1)
 > **Analogies:** for example (1)
@@ -643,6 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), express (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** abc (1)
 > **Definitions:** is a  (1)
@@ -695,7 +693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -775,15 +773,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (1)
 > **Code Identifiers:** iphone (4)
-> **Code Keywords:** let (1), this. (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start, stop, continue exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/start-stop-continue-exercise-14481266?u=76281980)
@@ -820,7 +818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), finally, (1)
+> **Frameworks & Libraries:** feature (1), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)

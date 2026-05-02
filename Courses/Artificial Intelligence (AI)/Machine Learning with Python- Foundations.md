@@ -43,7 +43,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20Foundations.md)
@@ -62,43 +62,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Machine learning in our world
-  - What you should know
-  - The tools you need
-  - Using the exercise files
+  - [Machine learning in our world](#machine-learning-in-our-world)
+  - [What you should know](#what-you-should-know)
+  - [The tools you need](#the-tools-you-need)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Machine Learning**](#1-machine-learning) (6 videos)
-  - What is machine learning?
-  - What is not machine learning?
-  - What is unsupervised learning?
-  - What is supervised learning?
-  - What is reinforcement learning?
-  - What are the steps to machine learning?
+  - [What is machine learning?](#what-is-machine-learning)
+  - [What is not machine learning?](#what-is-not-machine-learning)
+  - [What is unsupervised learning?](#what-is-unsupervised-learning)
+  - [What is supervised learning?](#what-is-supervised-learning)
+  - [What is reinforcement learning?](#what-is-reinforcement-learning)
+  - [What are the steps to machine learning?](#what-are-the-steps-to-machine-learning)
 - [**2. Collecting Data for Machine Learning**](#2-collecting-data-for-machine-learning) (2 videos)
-  - Things to consider when collecting data
-  - How to import data in Python
+  - [Things to consider when collecting data](#things-to-consider-when-collecting-data)
+  - [How to import data in Python](#how-to-import-data-in-python)
 - [**3. Understanding Data for Machine Learning**](#3-understanding-data-for-machine-learning) (4 videos)
-  - Describe your data
-  - How to summarize data in Python
-  - Visualize your data
-  - How to visualize data in Python
+  - [Describe your data](#describe-your-data)
+  - [How to summarize data in Python](#how-to-summarize-data-in-python)
+  - [Visualize your data](#visualize-your-data)
+  - [How to visualize data in Python](#how-to-visualize-data-in-python)
 - [**4. Preparing Data for Machine Learning**](#4-preparing-data-for-machine-learning) (7 videos)
-  - Common data quality issues
-  - How to resolve missing data in Python
-  - Normalizing your data
-  - How to normalize data in Python
-  - Sampling your data
-  - How to sample data in Python
-  - Reducing the dimensionality of your data
+  - [Common data quality issues](#common-data-quality-issues)
+  - [How to resolve missing data in Python](#how-to-resolve-missing-data-in-python)
+  - [Normalizing your data](#normalizing-your-data)
+  - [How to normalize data in Python](#how-to-normalize-data-in-python)
+  - [Sampling your data](#sampling-your-data)
+  - [How to sample data in Python](#how-to-sample-data-in-python)
+  - [Reducing the dimensionality of your data](#reducing-the-dimensionality-of-your-data)
 - [**5. Types of Machine Learning Models**](#5-types-of-machine-learning-models) (3 videos)
-  - Classification vs. regression problems
-  - How to build a machine learning model in Python
-  - Common machine learning algorithms
+  - [Classification vs. regression problems](#classification-vs-regression-problems)
+  - [How to build a machine learning model in Python](#how-to-build-a-machine-learning-model-in-python)
+  - [Common machine learning algorithms](#common-machine-learning-algorithms)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with applied machine learning
+  - [Next steps with applied machine learning](#next-steps-with-applied-machine-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning in our world
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980)
@@ -123,8 +123,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), ai (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -150,8 +150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -186,12 +186,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), make (2)
 > **Tools:** jupyter (3), anaconda (3)
 > **Versions:** python 3 (4), python 2 (1)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** interface (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -232,19 +232,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (1)
 > **Exercise Files:** exercise files (4)
 > **Tools:** anaconda (1), jupyter (1)
 > **UI Navigation:** click on (1), navigate to (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is machine learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980)
@@ -321,8 +321,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Supervised Learning]] (2), [[Reinforcement Learning]] (2), next (1), game (1)
 > **Definitions:** is a  (5), known as (2), is an  (1), in other words (1)
-> **Code Keywords:** let (2), yield (2), self (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -419,8 +419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Generative AI]] (7), ai (7), [[Statistics]] (6), [[Analytics]] (6)
 > **Definitions:** known as (3), in other words (2), is a  (2)
-> **Code Keywords:** let (4), extends (1), function (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [fred] (1)
@@ -476,7 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1)
+> **Frameworks & Libraries:** data (5), [[Marketing Strategy]] (3), [[Analytics]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is called (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -551,7 +551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (2), match. (2)
+> **Frameworks & Libraries:** data (10), [[Supervised Learning]] (1), [[Analytics]] (1)
 > **Definitions:** is a  (3), known as (1), means that (1), we call this (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -672,8 +672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (9), game (4), data (2), [[Supervised Learning]] (1), [[Forms]] (1)
 > **Definitions:** known as (7), is a  (5), stands for (2), means that (1), in other words (1)
-> **Code Keywords:** let (3), this. (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 0.5 (2)
 > **Tools:** terminal (1)
@@ -789,8 +789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), [[Supervised Learning]] (3), [[Reinforcement Learning]] (2), next (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** yield (1), this. (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -798,7 +798,7 @@ created: 2026-04-29
 
 ### 2. Collecting Data for Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Things to consider when collecting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980)
@@ -877,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), this, (1), let (1), finally, (1)
+> **Frameworks & Libraries:** data (30), [[Algorithms]] (2), [[Supervised Learning]] (1), next (1), [[Ethics]] (1)
 > **Analogies:** such as (2), for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -983,7 +983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), pass (4), let (3), default. (1)
+> **Frameworks & Libraries:** data (23), [[Pandas (Software)|Pandas]] (15), [[Microsoft Excel|Excel]] (5), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** python (1), make (1)
@@ -995,7 +995,7 @@ created: 2026-04-29
 
 ### 3. Understanding Data for Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/describe-your-data?u=76281980)
@@ -1086,9 +1086,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), feature (10), application (1)
 > **Definitions:** is a  (3), is an  (3), refers to (2), known as (2)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** class. (2), function (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1211,7 +1211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (4), this. (1), pass (1)
+> **Frameworks & Libraries:** data (26), [[Statistics]] (4), [[Pandas (Software)|Pandas]] (3), next (1)
 > **Analogies:** for example (5), such as (1)
 > **Versions:** 4.4 (1), 1.9 (1), 6.2 (1), 4.37 (1)
 > **CLI Commands:** make (1)
@@ -1295,9 +1295,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), feature (10)
 > **Analogies:** for example (4), such as (2), picture (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** class. (1)
 > **Speakers:** - [instructor] (1)
 
 #### How to visualize data in Python
@@ -1411,10 +1411,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), feature (4), [[Python (Programming Language)|Python]] (3), next (3), [[Statistics]] (1)
 > **Definitions:** is a  (5), in other words (1), is an  (1)
 > **Env Vars:** co2 (3), mpg (1), nan (1), epa (1)
 > **CLI Commands:** python (3), make (1)
-> **Code Keywords:** let (1), this, (1)
 > **Analogies:** picture (1), for example (1)
 > **UI Navigation:** select the (1)
 > **Warnings:** note that (1)
@@ -1423,7 +1423,7 @@ created: 2026-04-29
 
 ### 4. Preparing Data for Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common data quality issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980)
@@ -1502,8 +1502,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), feature (2), express (1), front-end (1), [[Algorithms]] (1)
 > **Definitions:** is a  (4), known as (4), means that (1)
-> **Code Keywords:** function (1), for, (1), class. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1660,7 +1660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), else. (1), function (1)
+> **Frameworks & Libraries:** data (26), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1), next (1)
 > **Analogies:** for example (8)
 > **CLI Commands:** find (1), python (1), make (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -1748,11 +1748,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), feature (11), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Versions:** 0.024 (2), 0.209 (2), 4.991 (2), 0.859 (1), 0.5 (1)
 > **Definitions:** is a  (4), known as (3)
 > **Code Identifiers:** minf (1), maxf (1), upperf (1), lowerf (1)
 > **Speakers:** - 0 (3), - [narrator] (1)
-> **Code Keywords:** let (2), require (1)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (2)
 > **Analogies:** such as (1)
@@ -1832,7 +1832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), from, (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** data (23), [[Statistics]] (6), [[Python (Programming Language)|Python]] (2), next (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** co2 (9)
 > **Versions:** 1269.57 (1), 476.55 (1), 467.74 (1), 3.8 (1), 6.7 (1)
 > **CLI Commands:** python (2), make (1)
@@ -1942,8 +1942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), next (3), feature (3)
 > **Definitions:** known as (7), is a  (3), means that (3), in other words (1)
-> **Code Keywords:** let (4), this, (2)
 > **Analogies:** for example (1), imagine (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -2069,7 +2069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), pass (3), this, (1), this. (1)
+> **Frameworks & Libraries:** data (29), next (3)
 > **Env Vars:** co2 (4), epa (1)
 > **Definitions:** is a  (2), means that (1)
 > **Versions:** 0.4 (1)
@@ -2144,8 +2144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (14), data (9)
 > **Definitions:** is a  (3), is an  (1), in other words (1), known as (1)
-> **Code Keywords:** let (2), this. (1), this, (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -2153,7 +2153,7 @@ created: 2026-04-29
 
 ### 5. Types of Machine Learning Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classification vs. regression problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/classification-vs-regression-problems?u=76281980)
@@ -2212,9 +2212,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (2), [[Decision Trees]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (3), known as (2), means that (2)
 > **Analogies:** such as (3)
-> **Code Keywords:** default, (1)
 > **Versions:** 0.75 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2313,7 +2313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), pass (4), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (15), [[Linear Regression]] (8), next (4), [[Statistics]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** means that (4), is a  (2), we call this (1)
 > **Versions:** 3800.68 (1), 80.35 (1), 4665.74 (1), 196.22 (1), 98.2 (1)
 > **CLI Commands:** python (1)
@@ -2398,7 +2398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), from. (1), let (1), for. (1)
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (6), [[Linear Regression]] (3), [[Decision Trees]] (3), [[Logistic Regression]] (2)
 > **Definitions:** known as (5), is a  (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** find (2)
@@ -2408,7 +2408,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with applied machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980)
@@ -2459,8 +2459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), data (7), next (5), [[Logistic Regression]] (3), [[Ethics]] (2)
 > **CLI Commands:** python (12), find (2)
-> **Code Keywords:** continue (2), finally, (1)
 > **Definitions:** known as (2), is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)

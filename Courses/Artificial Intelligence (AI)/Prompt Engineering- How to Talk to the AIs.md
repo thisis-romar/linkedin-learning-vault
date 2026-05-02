@@ -42,7 +42,7 @@ tags:
   - skill/large-language-models-llm
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering-%20How%20to%20Talk%20to%20the%20AIs.md)
@@ -61,22 +61,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Talking to the AIs
-  - Using the included handouts
+  - [Talking to the AIs](#talking-to-the-ais)
+  - [Using the included handouts](#using-the-included-handouts)
 - [**1. What Is Prompt Engineering?**](#1-what-is-prompt-engineering) (7 videos)
-  - The generative AI revolution
-  - What is a prompt?
-  - Designing a prompt
-  - Basic prompt examples
-  - What is prompt engineering?
-  - Advanced prompt examples
-  - Prompt engineering tips and tricks
+  - [The generative AI revolution](#the-generative-ai-revolution)
+  - [What is a prompt?](#what-is-a-prompt)
+  - [Designing a prompt](#designing-a-prompt)
+  - [Basic prompt examples](#basic-prompt-examples)
+  - [What is prompt engineering?](#what-is-prompt-engineering)
+  - [Advanced prompt examples](#advanced-prompt-examples)
+  - [Prompt engineering tips and tricks](#prompt-engineering-tips-and-tricks)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and resources
+  - [Next steps and resources](#next-steps-and-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Talking to the AIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/talking-to-the-ais?u=76281980)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** ai (5), [[Prompt Engineering]] (4), [[ChatGPT]] (1), [[LinkedIn]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt4 (1)
 > **Speakers:** - if (1)
@@ -135,6 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[GPT-4]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** gpt (1)
 > **Exercise Files:** exercise files (1)
@@ -143,7 +144,7 @@ created: 2026-04-29
 
 ### 1. What Is Prompt Engineering?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The generative AI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/the-generative-ai-revolution?u=76281980)
@@ -210,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), ai (7), prompt (2), [[Large Language Models (LLM)|Large language models]] (2), next (2)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** gpt (1), dall (1), rlhf (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
@@ -263,8 +264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (9), [[Generative AI]] (3), ai (2), data (2), [[LinkedIn]] (1)
 > **Analogies:** such as (4), for example (3), picture (1)
-> **Code Keywords:** interface (2), let (1), case, (1)
 > **Env Vars:** gbt (2), csb (1), gpt (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -319,7 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), this, (1), let (1)
+> **Frameworks & Libraries:** prompt (7), ai (1), next (1), [[Microsoft Word|Word]] (1), data (1)
 > **Analogies:** for example (3)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - so (1)
@@ -397,7 +398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), include, (1)
+> **Frameworks & Libraries:** prompt (5), data (5), [[Generative AI]] (2), [[GPT-4]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** open the (1)
@@ -441,7 +442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (7), prompt (6), [[Engineering]] (4), database (2), [[Feature Engineering]] (1)
 > **Env Vars:** user (1), user_blurb (1), gpt (1)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **Definitions:** is a  (2)
@@ -598,8 +599,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (13), [[GPT-4]] (6), ai (5), web (2), next (2)
 > **Env Vars:** gpt (7), api (1)
-> **Code Keywords:** let (2), for. (1), this. (1), continue (1), case, (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Warnings:** keep in mind (2), note that (2)
 > **CLI Commands:** make (2), find (1)
@@ -655,9 +656,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GPT-4]] (5), prompt (4), [[Programming]] (2), next (1), [[GitHub]] (1)
 > **Env Vars:** gpt (6)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), function (1)
 > **Tools:** github (1)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
@@ -666,7 +667,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/next-steps-and-resources?u=76281980)
@@ -699,6 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), ai (1), [[ChatGPT]] (1), [[Generative AI Tools]] (1), career (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - if (1)
 

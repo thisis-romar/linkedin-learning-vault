@@ -36,7 +36,7 @@ tags:
   - skill/data-structures
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java-%20Data%20Structures.md)
@@ -55,28 +55,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Data structures in Java
-  - What you should know
-  - Using the exercise files
-  - Tour of CoderPad
+  - [Data structures in Java](#data-structures-in-java)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Tour of CoderPad](#tour-of-coderpad)
 - [**1. Java Data Structures**](#1-java-data-structures) (2 videos)
-  - What is a data structure?
-  - How to choose a data structure
+  - [What is a data structure?](#what-is-a-data-structure)
+  - [How to choose a data structure](#how-to-choose-a-data-structure)
 - [**2. Using Arrays**](#2-using-arrays) (2 videos)
-  - Understanding arrays
-  - Using arrays
+  - [Understanding arrays](#understanding-arrays)
+  - [Using arrays](#using-arrays)
 - [**3. Java Collections**](#3-java-collections) (5 videos)
-  - The Collection interface
-  - LinkedLists
-  - Stacks
-  - Queues
-  - TreeSets
+  - [The Collection interface](#the-collection-interface)
+  - [LinkedLists](#linkedlists)
+  - [Stacks](#stacks)
+  - [Queues](#queues)
+  - [TreeSets](#treesets)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data structures in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Java]] (5), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [bethan] (1)
 
@@ -127,6 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Env Vars:** ide (2)
 > **URLs:** [jetbrains.com](https://jetbrains.com) (1)
 > **Tools:** intellij (1)
@@ -265,10 +267,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), data (6), [[GitHub]] (3), next (3), prompt (3)
 > **Tools:** intellij (6), command line (5), github (3), command prompt (3), terminal (2)
 > **UI Navigation:** click on (9), go to (6), dropdown (2), open the (2)
 > **CLI Commands:** git (7), cd (3), find (1)
-> **Code Keywords:** let (2), class. (1), if, (1), default, (1), this, (1)
 > **Env Vars:** ide (4), url (1)
 > **Exercise Files:** download the (2), exercise files (1)
 > **Cross-References:** go back to (2)
@@ -339,16 +341,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type. (1), type, (1)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Java Data Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a data structure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980)
@@ -403,8 +405,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), application (2), [[Java]] (2), [[Programming]] (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** delete (1), class, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -459,14 +461,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), for. (1), case, (1), delete (1)
+> **Frameworks & Libraries:** data (9), career (1), next (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Using Arrays
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/understanding-arrays?u=76281980)
@@ -509,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), class, (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (2), data (1), [[Search]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -650,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (4), type. (1), this. (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** tostring (2), touppercase (1)
 > **Tools:** intellij (3)
@@ -661,7 +663,7 @@ created: 2026-04-29
 
 ### 3. Java Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Collection interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/the-collection-interface-23038543?u=76281980)
@@ -718,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** implements (6), interface (6), extends (2), this. (1)
+> **Frameworks & Libraries:** [[Java]] (4), data (2), api (1)
 > **Analogies:** for example (3)
 > **Definitions:** means that (2)
 > **Code Identifiers:** isempty (1)
@@ -847,8 +849,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (1)
 > **Code Identifiers:** shoppinglist (10), removefirst (2), synchronizedshoppinglist (2), addfirst (1), addlast (1)
-> **Code Keywords:** pass (7), let (3), continue (1)
 > **Definitions:** means that (2), is a  (2), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1)
@@ -965,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), class, (4), interface (3), new. (1), type. (1)
+> **Frameworks & Libraries:** data (2), next (1), [[Java]] (1)
 > **Definitions:** is called (3), is a  (1), is an  (1), means that (1)
 > **Analogies:** think of it like (1), for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -1108,7 +1110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class, (1), interface (1), class. (1), type. (1)
+> **Frameworks & Libraries:** data (2), [[Java]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** think of it like (1), similar to (1), for example (1)
 > **Cross-References:** previous video (1)
@@ -1238,7 +1240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (11), let (9), interface (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), next (1), data (1), feature (1)
 > **Definitions:** means that (1), is called (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1248,7 +1250,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980)
@@ -1271,6 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Java]] (2), [[LinkedIn]] (1)
 > **Speakers:** - [narrator] (1)
 
 

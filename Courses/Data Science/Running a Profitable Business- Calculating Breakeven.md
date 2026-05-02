@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/break-even-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Running%20a%20Profitable%20Business-%20Calculating%20Breakeven.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The basics of breakeven analysis
+  - [The basics of breakeven analysis](#the-basics-of-breakeven-analysis)
 - [**1. Importance of Analysis**](#1-importance-of-analysis) (2 videos)
-  - Importance of breakeven analysis
-  - Cost-volume-profit (CVP) analysis
+  - [Importance of breakeven analysis](#importance-of-breakeven-analysis)
+  - [Cost-volume-profit (CVP) analysis](#cost-volume-profit-cvp-analysis)
 - [**2. Types of Costs**](#2-types-of-costs) (4 videos)
-  - When variable costs become fixed costs
-  - Breaking down fixed and variable costs
-  - Fixed and variable cost examples
-  - Pricing a service to cover costs
+  - [When variable costs become fixed costs](#when-variable-costs-become-fixed-costs)
+  - [Breaking down fixed and variable costs](#breaking-down-fixed-and-variable-costs)
+  - [Fixed and variable cost examples](#fixed-and-variable-cost-examples)
+  - [Pricing a service to cover costs](#pricing-a-service-to-cover-costs)
 - [**3. Contribution Margin and the CVP Equation**](#3-contribution-margin-and-the-cvp-equation) (4 videos)
-  - Identifying high contribution margins
-  - Contribution margin and profitability
-  - Calculate a company's breakeven point
-  - McDonald's breakeven point
+  - [Identifying high contribution margins](#identifying-high-contribution-margins)
+  - [Contribution margin and profitability](#contribution-margin-and-profitability)
+  - [Calculate a company's breakeven point](#calculate-a-companys-breakeven-point)
+  - [McDonald's breakeven point](#mcdonalds-breakeven-point)
 - [**4. The Breakeven Equation**](#4-the-breakeven-equation) (4 videos)
-  - When to conduct breakeven analysis
-  - Breakeven equation and covering costs
-  - Breakeven equations for an airline
-  - Breakeven analysis for multiple products
+  - [When to conduct breakeven analysis](#when-to-conduct-breakeven-analysis)
+  - [Breakeven equation and covering costs](#breakeven-equation-and-covering-costs)
+  - [Breakeven equations for an airline](#breakeven-equations-for-an-airline)
+  - [Breakeven analysis for multiple products](#breakeven-analysis-for-multiple-products)
 - [**5. Computing Target Net Income**](#5-computing-target-net-income) (3 videos)
-  - Importance of total contribution margin
-  - How to forecast a target profit
-  - Calculate McDonald's target profit
+  - [Importance of total contribution margin](#importance-of-total-contribution-margin)
+  - [How to forecast a target profit](#how-to-forecast-a-target-profit)
+  - [Calculate McDonald's target profit](#calculate-mcdonalds-target-profit)
 - [**6. Sensitivity Analysis**](#6-sensitivity-analysis) (3 videos)
-  - Analyzing a business before making changes
-  - What-if analysis for multiple scenarios
-  - Lessons for running a profitable company
+  - [Analyzing a business before making changes](#analyzing-a-business-before-making-changes)
+  - [What-if analysis for multiple scenarios](#what-if-analysis-for-multiple-scenarios)
+  - [Lessons for running a profitable company](#lessons-for-running-a-profitable-company)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Risks and rewards of fixed costs
+  - [Risks and rewards of fixed costs](#risks-and-rewards-of-fixed-costs)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/the-basics-of-breakeven-analysis?u=76281980)
@@ -138,15 +138,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3)
 > **Speakers:** - in (2), - [jim] (2), - i (2), - [kay] (1), - hi (1)
-> **Code Keywords:** self (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
 
 ### 1. Importance of Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-breakeven-analysis-14748318?u=76281980)
@@ -239,8 +239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Speakers:** - well (3), - [kay] (3), - okay (3), - i (2), - [jim] (1)
-> **Code Keywords:** let (5), this. (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1)
 > **Prerequisites:** you need to have (1)
@@ -330,16 +330,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), product (3)
 > **Env Vars:** cvp (5)
 > **CLI Commands:** make (4)
-> **Code Keywords:** raise (2), case, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - just (1)
 
 
 ### 2. Types of Costs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When variable costs become fixed costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-variable-costs-become-fixed-costs-14753221?u=76281980)
@@ -410,7 +410,6 @@ created: 2026-04-29
 >
 > **Speakers:** - [instructor (4), - now (2), - clear (1), - during (1), - here (1)
 > **Env Vars:** uaw (6)
-> **Code Keywords:** continue (2), pass (1), function (1)
 > **CLI Commands:** make (1)
 
 #### Breaking down fixed and variable costs
@@ -508,7 +507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), require (1)
+> **Frameworks & Libraries:** hit (1), next (1), product (1), business (1)
 > **Env Vars:** cvp (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -620,7 +619,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
@@ -712,7 +710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Prerequisites:** required to (1)
@@ -721,7 +719,7 @@ created: 2026-04-29
 
 ### 3. Contribution Margin and the CVP Equation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying high contribution margins
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/identifying-high-contribution-margins?u=76281980)
@@ -784,8 +782,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), generic (1), next (1)
 > **Speakers:** - now (4), - we (2), - a (1), - as (1), - i (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -888,7 +886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), case, (2), require (1), module (1)
+> **Frameworks & Libraries:** business (3), management (2), express (1), next (1)
 > **Env Vars:** cvp (7)
 > **Definitions:** is a  (2), is called (1), means that (1), in other words (1)
 > **Cross-References:** in the next (1)
@@ -1001,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), module (1)
+> **Frameworks & Libraries:** business (3), power (2), product (1), data (1), next (1)
 > **Env Vars:** cvp (5)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (2), defined as (1)
@@ -1127,7 +1125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** cvp (1)
 > **Versions:** 2.50 (1)
@@ -1137,7 +1135,7 @@ created: 2026-04-29
 
 ### 4. The Breakeven Equation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to conduct breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-to-conduct-breakeven-analysis-14749292?u=76281980)
@@ -1246,8 +1244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), next (1), data (1)
 > **Speakers:** - [man (5), - of (2), - many (1), - 18 (1), - well (1)
-> **Code Keywords:** case, (1), raise (1), module (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -1341,8 +1339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), business (3), [[Market Research]] (1), next (1)
 > **Versions:** 8.30 (2), 2.25 (1), 4.25 (1), 1.80 (1), 13.75 (1)
-> **Code Keywords:** let (3), this. (1), throw (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** cvp (1)
 > **Cross-References:** in the next (1)
@@ -1447,8 +1445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), data (1)
 > **Versions:** 68.15 (3), 232.98 (2), 82.15 (2), 257.90 (1)
-> **Code Keywords:** let (5), pass (1)
 > **Env Vars:** slc (1), lax (1), cvp (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (2)
@@ -1551,7 +1549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (1), business (1), data (1), traffic (1)
 > **CLI Commands:** make (4)
 > **Versions:** 27.54 (1)
 > **Cross-References:** go back to (1)
@@ -1562,7 +1560,7 @@ created: 2026-04-29
 
 ### 5. Computing Target Net Income
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of total contribution margin
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-total-contribution-margin-14748316?u=76281980)
@@ -1637,8 +1635,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor (5), - now (3), - we (1), - let (1), - our (1)
-> **Code Keywords:** let (2), case, (2), module (1)
 > **Definitions:** is a  (1)
 
 #### How to forecast a target profit
@@ -1706,7 +1704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** business (1)
 > **Env Vars:** cvp (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -1814,8 +1812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (2), product (1), business (1), [[Microsoft Products|Products]] (1)
 > **Ports:** :00 (6)
-> **Code Keywords:** let (3), require (1)
 > **Definitions:** is an  (2), means that (2)
 > **Env Vars:** cvp (3)
 > **Versions:** 3.30 (2)
@@ -1826,7 +1824,7 @@ created: 2026-04-29
 
 ### 6. Sensitivity Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyzing a business before making changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/analyzing-a-business-before-making-changes?u=76281980)
@@ -1899,7 +1897,6 @@ created: 2026-04-29
 >
 > **Speakers:** - okay (2), - [man] (2), - [man (2), - do (1), - thai (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** we talked about (1)
 
 #### What-if analysis for multiple scenarios
@@ -1997,7 +1994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4)
+> **Frameworks & Libraries:** business (3), product (1)
 > **Env Vars:** cvp (3)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1)
@@ -2120,8 +2117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), product (2), power (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** this. (1), let (1), finally, (1)
 > **Definitions:** is a  (3)
 > **Warnings:** be careful (2), keep in mind (1)
 > **Env Vars:** cvp (2)
@@ -2131,7 +2128,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Risks and rewards of fixed costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/risks-and-rewards-of-fixed-costs-14750282?u=76281980)
@@ -2212,6 +2209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12), [[Security]] (1)
 > **Speakers:** - [instructor (6), - fixed (2), - yes (2), - i (1), - that (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is called (2), is a  (1)

@@ -30,7 +30,7 @@ tags:
   - skill/programming-foundations
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Complete%20Guide%20To%20C%20Plus%20Plus%20Programming%20Foundations.md)
@@ -49,93 +49,93 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Getting started with C++
-  - What you should know
-  - Using the exercise files in GitHub Codespaces
-  - Solving challenges in Coderpad
+  - [Getting started with C++](#getting-started-with-c)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files in GitHub Codespaces](#using-the-exercise-files-in-github-codespaces)
+  - [Solving challenges in Coderpad](#solving-challenges-in-coderpad)
 - [**1. Getting Started with C++ Foundations**](#1-getting-started-with-c-foundations) (7 videos)
-  - About C++
-  - Creating a simple program in C++
-  - Anatomy of a C++ source file
-  - Statements and expressions
-  - Identifiers
-  - Elements of object-oriented programming
-  - Terminal interaction
+  - [About C++](#about-c)
+  - [Creating a simple program in C++](#creating-a-simple-program-in-c)
+  - [Anatomy of a C++ source file](#anatomy-of-a-c-source-file)
+  - [Statements and expressions](#statements-and-expressions)
+  - [Identifiers](#identifiers)
+  - [Elements of object-oriented programming](#elements-of-object-oriented-programming)
+  - [Terminal interaction](#terminal-interaction)
 - [**2. Variables and Data Types**](#2-variables-and-data-types) (12 videos)
-  - Basic data types
-  - Integer types
-  - Floating point types
-  - Variables
-  - Using variables
-  - Type aliases
-  - Enumerations
-  - Structures
-  - Type casting
-  - Type casting examples
-  - Type inference with auto
-  - Solution: Data types
+  - [Basic data types](#basic-data-types)
+  - [Integer types](#integer-types)
+  - [Floating point types](#floating-point-types)
+  - [Variables](#variables)
+  - [Using variables](#using-variables)
+  - [Type aliases](#type-aliases)
+  - [Enumerations](#enumerations)
+  - [Structures](#structures)
+  - [Type casting](#type-casting)
+  - [Type casting examples](#type-casting-examples)
+  - [Type inference with auto](#type-inference-with-auto)
+  - [Solution: Data types](#solution-data-types)
 - [**3. Expressions and Operations**](#3-expressions-and-operations) (7 videos)
-  - Expressions and assignments
-  - Operators
-  - Increment and decrement operators
-  - Compound assignment operators
-  - Preprocessor directives
-  - Constants
-  - Solution: Calculate an average
+  - [Expressions and assignments](#expressions-and-assignments)
+  - [Operators](#operators)
+  - [Increment and decrement operators](#increment-and-decrement-operators)
+  - [Compound assignment operators](#compound-assignment-operators)
+  - [Preprocessor directives](#preprocessor-directives)
+  - [Constants](#constants)
+  - [Solution: Calculate an average](#solution-calculate-an-average)
 - [**4. Arrays, Pointers, and Strings**](#4-arrays-pointers-and-strings) (10 videos)
-  - Arrays
-  - Pointers
-  - How arrays and pointers are related
-  - Using objects with pointers
-  - The vector class
-  - Using objects with vectors
-  - References
-  - C strings
-  - The string class
-  - Solution: Vector manipulation
+  - [Arrays](#arrays)
+  - [Pointers](#pointers)
+  - [How arrays and pointers are related](#how-arrays-and-pointers-are-related)
+  - [Using objects with pointers](#using-objects-with-pointers)
+  - [The vector class](#the-vector-class)
+  - [Using objects with vectors](#using-objects-with-vectors)
+  - [References](#references)
+  - [C strings](#c-strings)
+  - [The string class](#the-string-class)
+  - [Solution: Vector manipulation](#solution-vector-manipulation)
 - [**5. Control Statements**](#5-control-statements) (6 videos)
-  - If statements
-  - Switch statements
-  - While loops
-  - Traditional for loops
-  - Ranged for loops
-  - Solution: Calculate resource cost
+  - [If statements](#if-statements)
+  - [Switch statements](#switch-statements)
+  - [While loops](#while-loops)
+  - [Traditional for loops](#traditional-for-loops)
+  - [Ranged for loops](#ranged-for-loops)
+  - [Solution: Calculate resource cost](#solution-calculate-resource-cost)
 - [**6. Functions**](#6-functions) (6 videos)
-  - Overview of functions
-  - Passing values to a function
-  - Returning values from a function
-  - Writing functions
-  - Overloading functions
-  - Challenge: Calculate rhythm game scores
+  - [Overview of functions](#overview-of-functions)
+  - [Passing values to a function](#passing-values-to-a-function)
+  - [Returning values from a function](#returning-values-from-a-function)
+  - [Writing functions](#writing-functions)
+  - [Overloading functions](#overloading-functions)
+  - [Challenge: Calculate rhythm game scores](#challenge-calculate-rhythm-game-scores)
 - [**7. Creating Your Own Classes**](#7-creating-your-own-classes) (9 videos)
-  - Overview of classes and objects
-  - Data members
-  - Function members
-  - Constructors and destructors
-  - Using classes
-  - Header and implementation files
-  - Working with several source files
-  - Operator overload
-  - Solution: Create a person class
+  - [Overview of classes and objects](#overview-of-classes-and-objects)
+  - [Data members](#data-members)
+  - [Function members](#function-members)
+  - [Constructors and destructors](#constructors-and-destructors)
+  - [Using classes](#using-classes)
+  - [Header and implementation files](#header-and-implementation-files)
+  - [Working with several source files](#working-with-several-source-files)
+  - [Operator overload](#operator-overload)
+  - [Solution: Create a person class](#solution-create-a-person-class)
 - [**8. The Standard Template Library**](#8-the-standard-template-library) (8 videos)
-  - Understanding templates
-  - Template functions
-  - Template classes
-  - Overview of the STL
-  - Queues and stacks
-  - Advanced concepts: Iterators
-  - Advanced concepts: Algorithms
-  - Solution: Virtual pet schedule
+  - [Understanding templates](#understanding-templates)
+  - [Template functions](#template-functions)
+  - [Template classes](#template-classes)
+  - [Overview of the STL](#overview-of-the-stl)
+  - [Queues and stacks](#queues-and-stacks)
+  - [Advanced concepts: Iterators](#advanced-concepts-iterators)
+  - [Advanced concepts: Algorithms](#advanced-concepts-algorithms)
+  - [Solution: Virtual pet schedule](#solution-virtual-pet-schedule)
 - [**9. File Handling**](#9-file-handling) (3 videos)
-  - Working with files
-  - Opening a text file for reading
-  - Opening a text file for writing
+  - [Working with files](#working-with-files)
+  - [Opening a text file for reading](#opening-a-text-file-for-reading)
+  - [Opening a text file for writing](#opening-a-text-file-for-writing)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980)
@@ -156,7 +156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Programming]] (1), [[GitHub]] (1), [[Codespaces]] (1), [[Programming Foundations]] (1)
 > **Env Vars:** ide (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -201,10 +201,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Game Development]] (3), [[GitHub]] (2), [[Codespaces]] (1), cloud (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Tools:** github (2), visual studio (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), this, (1)
 > **Prerequisites:** before we start (1), install (1)
 > **URLs:** [cppreference.com](https://cppreference.com) (1)
 > **Env Vars:** ide (1)
@@ -407,7 +407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), continue (2), this, (1), delete (1), while. (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Codespaces]] (3), cloud (2), application (2), next (2)
 > **Tools:** github (5), visual studio (3), terminal (3), vs code (1)
 > **UI Navigation:** click on (7), open the (2), checkbox (1), toggle (1), select the (1)
 > **Env Vars:** ide (2), terminal (1), problems (1), watch (1), source (1)
@@ -537,7 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (7), this. (1), return. (1)
+> **Frameworks & Libraries:** next (2), [[LinkedIn]] (1), [[GitHub]] (1), [[Debugging]] (1)
 > **Tools:** github (1), visual studio (1), terminal (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1), next video (1)
@@ -548,7 +548,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with C++ Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### About C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/about-c-plus-plus?u=76281980)
@@ -571,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
@@ -679,7 +679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (6), this. (3), default. (1), this, (1)
+> **Frameworks & Libraries:** next (1), [[Windows]] (1), [[Linux]] (1), [[Google]] (1), [[Programming]] (1)
 > **Definitions:** is a  (7), short for (2), is called (1)
 > **CLI Commands:** python (1), make (1)
 > **Tools:** command line (1), terminal (1)
@@ -805,7 +805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (5), case, (2), type, (2), include. (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), [[Linux]] (1), [[Windows]] (1), [[Git]] (1)
 > **Tools:** command line (5), terminal (3)
 > **Definitions:** is a  (4), is an  (2), means that (1)
 > **CLI Commands:** make (1), git (1)
@@ -854,7 +854,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), finally, (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -937,8 +936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Programming]] (1), game (1), next (1)
 > **Code Identifiers:** playersprite2 (1), my_int (1), camelcase (1), snake_case (1)
-> **Code Keywords:** let (1), case. (1), private (1)
 > **Warnings:** be careful (1), note that (1), caution (1)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** recommended (1), it's best to (1)
@@ -1038,7 +1037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), public (2), private (2), class. (2)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), data (4), [[Programming]] (1), next (1), feature (1)
 > **Definitions:** is a  (3), is an  (1), known as (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** python (1)
@@ -1105,7 +1104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), default, (1), function (1), finally, (1)
+> **Frameworks & Libraries:** next (2), prompt (2)
 > **Cross-References:** later in (1)
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
@@ -1114,7 +1113,7 @@ created: 2026-04-29
 
 ### 2. Variables and Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/basic-data-types?u=76281980)
@@ -1157,7 +1156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class, (1)
+> **Frameworks & Libraries:** data (7), feature (1), [[Programming]] (1)
 > **URLs:** [cppreference.com](https://cppreference.com) (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1211,8 +1210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** known as (2), short for (1), is an  (1), is a  (1)
-> **Code Keywords:** type. (2), type, (2)
 > **Analogies:** for example (2)
 > **File Paths:** stdint.h (1)
 > **Env Vars:** ascii (1)
@@ -1247,7 +1246,6 @@ created: 2026-04-29
 >
 > **Versions:** 1.333 (1), 0.5 (1), 12.44 (1)
 > **Env Vars:** ieee754 (2)
-> **Code Keywords:** extends (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1302,7 +1300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** data (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1402,7 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (3), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (1), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), feature (1), power (1)
 > **Definitions:** is a  (2), means that (1), known as (1)
 > **UI Navigation:** go to (2), toggle (1)
 > **Code Identifiers:** my_flag (1)
@@ -1480,7 +1478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (5), type. (4), let (3), case, (2), this, (1)
+> **Frameworks & Libraries:** game (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** highscore (1)
@@ -1664,7 +1662,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (14), let (9), function (5), this. (3), class. (1)
+> **Frameworks & Libraries:** game (4), [[Programming]] (2), application (2)
 > **Code Identifiers:** asset_value (8), asset_type (7)
 > **Definitions:** is a  (4), known as (3), means that (1), is an  (1)
 > **CLI Commands:** find (1), make (1)
@@ -1740,7 +1738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), require (2), enum (2), this, (1), struct (1)
+> **Frameworks & Libraries:** game (5), data (2)
 > **Definitions:** is a  (2), means that (1), short for (1)
 > **Env Vars:** npc (1)
 > **UI Navigation:** go to (1)
@@ -1858,7 +1856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (2), this. (1), type, (1)
+> **Frameworks & Libraries:** data (4), game (1), next (1), power (1)
 > **Code Identifiers:** static_cast (3)
 > **CLI Commands:** make (2)
 > **Versions:** 123.45 (2)
@@ -2002,7 +2000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2), require (1), type. (1)
+> **Frameworks & Libraries:** [[Programming]] (2), [[Java]] (2), [[Python (Programming Language)|Python]] (2), feature (1), power (1)
 > **Versions:** 10.99 (3), 9.0 (1), 0.99 (1)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** is a  (3)
@@ -2089,7 +2087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (3), this, (1), function (1), default. (1)
+> **Frameworks & Libraries:** game (4), next (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **Tools:** visual studio (1), github (1)
 > **Code Identifiers:** is_active (1)
 > **Env Vars:** ide (1)
@@ -2122,7 +2120,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), this, (1), static (1)
 > **Code Identifiers:** add_int (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -2131,7 +2128,7 @@ created: 2026-04-29
 
 ### 3. Expressions and Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expressions and assignments
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/expressions-and-assignments?u=76281980)
@@ -2162,7 +2159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), match. (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)
@@ -2232,8 +2229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1)
 > **Warnings:** be careful (2), common mistake (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** later in (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -2299,8 +2296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (2), game (1), next (1)
 > **Code Identifiers:** player_lives (6), player_score (5)
-> **Code Keywords:** let (7), finally, (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [lecturer] (1)
@@ -2372,7 +2369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (1)
+> **Frameworks & Libraries:** game (1), next (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2531,7 +2528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), type. (2), include, (1), require (1), function (1)
+> **Frameworks & Libraries:** game (3), [[Programming]] (1), [[Debugging]] (1), [[Simulation]] (1)
 > **Env Vars:** max_ammo (4), debug (3)
 > **Code Identifiers:** health_items (5)
 > **Definitions:** is a  (3), known as (1), means that (1)
@@ -2595,7 +2592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), const (2), type, (1), type. (1)
+> **Frameworks & Libraries:** game (1)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **Env Vars:** player (1), count (1)
 > **Warnings:** be aware (1), warning (1)
@@ -2635,7 +2632,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), pass (1)
 > **Versions:** 20.3333 (2), 3.0 (1)
 > **Code Identifiers:** my_average (1)
 > **Speakers:** - [instructor] (1)
@@ -2644,7 +2640,7 @@ created: 2026-04-29
 
 ### 4. Arrays, Pointers, and Strings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/arrays?u=76281980)
@@ -2805,7 +2801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (4), this. (3), type. (2), const (2)
+> **Frameworks & Libraries:** data (2), game (2), next (1), [[Debugging]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **Versions:** 1.0 (1), 3.5 (1), 6.0 (1), 10.5 (1)
 > **Env Vars:** level_count (3)
@@ -2951,7 +2947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (5), type, (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[Programming]] (1), management (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** null (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Best Practices:** recommended (1), remember to (1)
@@ -3045,7 +3041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), case. (1), this, (1)
+> **Frameworks & Libraries:** data (3), next (2), game (1)
 > **Code Identifiers:** highscores (4), scoreptr (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -3225,7 +3221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (12), this. (5), delete (4), class. (3)
+> **Frameworks & Libraries:** game (4), [[Memory Management]] (2), [[Microsoft Word|Word]] (2), [[Generic Programming]] (2), next (1)
 > **Definitions:** known as (2), is a  (2), short for (1), is an  (1), means that (1)
 > **Code Identifiers:** elapsed_seconds (6)
 > **Non-Speech:** (mouse clicking) (3)
@@ -3321,7 +3317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), class. (2), delete (1), type. (1), default, (1)
+> **Frameworks & Libraries:** data (2), game (2), generic (1), [[Algorithms]] (1), [[Generic Programming]] (1)
 > **Definitions:** means that (4), is a  (3)
 > **Env Vars:** sdl (2)
 > **Exercise Files:** template (2)
@@ -3439,7 +3435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (8), case, (2), class, (1), this, (1)
+> **Frameworks & Libraries:** game (1), next (1)
 > **Versions:** 3.5 (1), 2.1 (1), 5.3 (1), 8.9 (1)
 > **Env Vars:** sdl (1), std (1)
 > **CLI Commands:** make (1)
@@ -3541,7 +3537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), type, (1), type. (1), default, (1)
+> **Frameworks & Libraries:** data (11), [[Programming]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (4)
 > **Code Identifiers:** my_ref (1), my_int (1)
@@ -3739,7 +3735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (9), case, (1), case. (1), this, (1)
+> **Frameworks & Libraries:** [[Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[Codespaces]] (1), [[Windows]] (1)
 > **Definitions:** is a  (4), means that (1), is called (1), in other words (1), is an  (1)
 > **Code Identifiers:** raceresult (5)
 > **CLI Commands:** make (3)
@@ -3823,7 +3819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (1), class, (1)
+> **Frameworks & Libraries:** feature (2), game (1), next (1), [[Memory Management]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is a  (1)
 > **URLs:** [cppreference.com](https://cppreference.com) (1)
@@ -3878,7 +3874,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2)
 > **Code Identifiers:** push_back (1), checkpointindex (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -3887,7 +3882,7 @@ created: 2026-04-29
 
 ### 5. Control Statements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980)
@@ -4042,7 +4037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (3), case, (1)
+> **Frameworks & Libraries:** game (5), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** for example (1)
@@ -4115,7 +4110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (7), let (5), this, (2), type, (1), break. (1)
+> **Frameworks & Libraries:** next (1), [[React.js|React]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -4209,7 +4204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), while, (2), raise (1), class. (1)
+> **Frameworks & Libraries:** [[Forms]] (1), generic (1), next (1)
 > **Code Identifiers:** playerscores (3), scoreptr (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -4283,13 +4278,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Non-Speech:** (keyboard clicking) (7)
-> **Code Keywords:** let (4), for. (1), require (1)
 > **Prerequisites:** initialization (2)
 > **Versions:** 88.4 (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
+> **Speakers:** - [instructor] (1)
 
 #### Ranged for loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/ranged-for-loops?u=76281980)
@@ -4340,7 +4335,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
 > **Code Identifiers:** laptimes (2)
 > **Versions:** 88.4 (1)
 > **Tools:** terminal (1)
@@ -4379,7 +4373,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), type, (1), type. (1), this, (1)
 > **Code Identifiers:** costwithtax (2), basecost (1)
 > **Versions:** 1.05 (1), 1.15 (1), 411.25 (1)
 > **Non-Speech:** (upbeat intro music) (1), (music ends) (1)
@@ -4388,7 +4381,7 @@ created: 2026-04-29
 
 ### 6. Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-functions?u=76281980)
@@ -4501,7 +4494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (36), let (4), class, (1), type, (1), pass (1)
+> **Frameworks & Libraries:** data (2), [[Programming]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** timetaken (2), calculatedistance2d (2), calculatescore (1)
 > **Definitions:** is called (3), means that (1), is a  (1)
 > **CLI Commands:** python (1), find (1)
@@ -4636,7 +4629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (9), pass (3), implements (1), this. (1)
+> **Frameworks & Libraries:** [[Programming]] (1), power (1)
 > **Definitions:** means that (2), is an  (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -4712,7 +4705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (4), return, (1), const (1), delete (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** topscorer (3), calculatehighscore (1), createweapon (1), findtopscorer (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
@@ -4871,7 +4864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (28), let (10), finally, (1), class. (1), this, (1)
+> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** getplayername (3), calculatescore (3), displayscore (2), basescore (1)
 > **Definitions:** is a  (2), is an  (1), means that (1), is called (1), refers to (1)
 > **CLI Commands:** make (2)
@@ -5015,7 +5008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (15), case, (2), this, (1), class. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** speedint (2), getspeed (2), speedstr (2)
 > **Definitions:** is an  (2), is a  (2)
 > **Versions:** 3.5 (1), 46.166668 (1)
@@ -5060,7 +5053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2)
+> **Frameworks & Libraries:** hit (1), game (1)
 > **Versions:** 1.0 (1), 1.5 (1), 87.5 (1)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5068,7 +5061,7 @@ created: 2026-04-29
 
 ### 7. Creating Your Own Classes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-classes-and-objects?u=76281980)
@@ -5149,7 +5142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), private (3), class. (2), public (2), protected (2)
+> **Frameworks & Libraries:** data (4)
 > **Analogies:** for example (2), similar to (1), for instance (1), such as (1)
 > **Prerequisites:** before we start (1), set up (1)
 > **Exercise Files:** template (1)
@@ -5212,7 +5205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (3), class. (2), public (2), protected (1)
+> **Frameworks & Libraries:** game (4), data (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), feature (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -5342,7 +5335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (11), private (4), this, (3), class. (2)
+> **Frameworks & Libraries:** data (11), [[Search]] (2), [[Forms]] (1), [[Programming]] (1)
 > **Non-Speech:** (typing loudly) (8)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (1), make (1)
@@ -5464,7 +5457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (5), class. (3), this. (2), public (1)
+> **Frameworks & Libraries:** data (3), functional (1)
 > **Definitions:** known as (2), is called (2), is a  (2), we call this (1)
 > **Prerequisites:** initialization (3)
 > **CLI Commands:** make (1)
@@ -5520,7 +5513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), this, (2)
+> **Frameworks & Libraries:** next (4)
 > **Speakers:** - [instructor] (1)
 
 #### Header and implementation files
@@ -5604,7 +5597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), case. (1), case, (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Software Development]] (1)
 > **Env Vars:** ide (2), cpu (1), hpp (1), cpp (1)
 > **Definitions:** known as (3), is a  (2)
 > **CLI Commands:** make (2)
@@ -5742,7 +5735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (7), class. (2), this. (1), def, (1)
+> **Frameworks & Libraries:** [[JSON]] (3), application (2), hit (1), data (1)
 > **File Paths:** inventory.h (5), inventory.cpp (3), codedemo.cpp (2), tasks.json (1), task.json (1)
 > **Tools:** vs code (3), visual studio (2), command line (1)
 > **Env Vars:** cpp (2), ide (1), json (1)
@@ -5826,7 +5819,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (8), this. (1), type. (1), case, (1)
 > **Code Identifiers:** additem (4), removeitem (4), getitem (4)
 > **UI Navigation:** go to (4)
 > **File Paths:** inventory.cpp (1), codedemo.cpp (1)
@@ -5885,7 +5877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2), function (2), const (2), private (1)
+> **Frameworks & Libraries:** [[Simulation]] (1), game (1), data (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -5896,7 +5888,7 @@ created: 2026-04-29
 
 ### 8. The Standard Template Library
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980)
@@ -5955,7 +5947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2)
+> **Frameworks & Libraries:** data (7), [[Generic Programming]] (3), [[Programming]] (3), application (1), generic (1)
 > **Exercise Files:** template (8)
 > **Code Identifiers:** size_in_bits (1)
 > **Definitions:** is a  (1)
@@ -6019,7 +6011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), type. (2), this. (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Exercise Files:** template (4)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1)
@@ -6084,7 +6076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), type. (2), private (1), type, (1)
+> **Frameworks & Libraries:** game (5), data (3), power (1)
 > **Exercise Files:** template (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -6135,7 +6127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), implements (1)
+> **Frameworks & Libraries:** data (4), [[Algorithms]] (4), [[Generic Programming]] (2), [[Search]] (1), functional (1)
 > **Env Vars:** stl (5)
 > **Exercise Files:** template (3)
 > **Definitions:** means that (1), is a  (1), is called (1)
@@ -6230,7 +6222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (5)
+> **Frameworks & Libraries:** game (3), data (2)
 > **Env Vars:** lifo (4), stl (1), fifo (1)
 > **Definitions:** is a  (2), short for (2), means that (1)
 > **Code Identifiers:** eventqueue (1), currentevent (1)
@@ -6341,7 +6333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), function (2), abstract (1), require (1)
+> **Frameworks & Libraries:** data (2), application (1), next (1)
 > **Env Vars:** sdl (5)
 > **Analogies:** such as (2), similar to (1), imagine (1)
 > **Definitions:** defined as (1), is a  (1), is an  (1)
@@ -6417,7 +6409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (6), this. (3)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Search]] (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** stl (3), std (1)
 > **Tools:** terminal (3)
@@ -6462,7 +6454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), switch (1)
+> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** initialactivities (1), push_front (1), push_back (1)
 > **Non-Speech:** (upbeat intro music) (1), (music ends) (1)
 > **Analogies:** for example (1)
@@ -6471,7 +6463,7 @@ created: 2026-04-29
 
 ### 9. File Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with files
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-files?u=76281980)
@@ -6526,7 +6518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), this, (1)
+> **Frameworks & Libraries:** data (5), next (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** stands for (2), is a  (1)
 > **Analogies:** similar to (2), for example (1)
 > **Code Identifiers:** is_open (1)
@@ -6638,7 +6630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (7), class. (1)
+> **Frameworks & Libraries:** next (2), game (2), data (1)
 > **Definitions:** is an  (2), is a  (1), is called (1)
 > **Code Identifiers:** infile (3)
 > **CLI Commands:** find (2)
@@ -6694,7 +6686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), default, (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** product (1)
 > **Code Identifiers:** outfile (2)
 > **UI Navigation:** open the (2)
 > **File Paths:** calculations.txt (1)
@@ -6703,7 +6695,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/next-steps?u=76281980)
@@ -6734,6 +6726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [cppreference.com](https://cppreference.com) (1)
 > **Definitions:** is a  (1)

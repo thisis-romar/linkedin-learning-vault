@@ -35,7 +35,7 @@ tags:
   - skill/product-design
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Integrating%20AI%20into%20the%20Product%20Architecture.md)
@@ -54,49 +54,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Welcome to the Course**](#welcome-to-the-course) (1 videos)
-  - Course introduction and prerequisites
+  - [Course introduction and prerequisites](#course-introduction-and-prerequisites)
 - [**1. Foundations of LLM Integration**](#1-foundations-of-llm-integration) (4 videos)
-  - What LLMs can (and can't) do in production
-  - Deep dive into LLMs: Recap of the mechanics
-  - Prompt engineering techniques to improve LLM output
-  - Cross-functional team for LLM integration
+  - [What LLMs can (and can't) do in production](#what-llms-can-and-cant-do-in-production)
+  - [Deep dive into LLMs: Recap of the mechanics](#deep-dive-into-llms-recap-of-the-mechanics)
+  - [Prompt engineering techniques to improve LLM output](#prompt-engineering-techniques-to-improve-llm-output)
+  - [Cross-functional team for LLM integration](#cross-functional-team-for-llm-integration)
 - [**2. Integrating LLMs into Your Product**](#2-integrating-llms-into-your-product) (6 videos)
-  - Choosing your LLM provider: Navigating the LLM landscape
-  - API-based access: Simplifying LLM integration
-  - Hands-on: your first LLM integration
-  - Sync vs. Async: Integrating LLMs effectively
-  - Real-time data pipelines for LLM integration
-  - Secure LLM integration: API keys, rate limiting, and data access
+  - [Choosing your LLM provider: Navigating the LLM landscape](#choosing-your-llm-provider-navigating-the-llm-landscape)
+  - [API-based access: Simplifying LLM integration](#api-based-access-simplifying-llm-integration)
+  - [Hands-on: your first LLM integration](#hands-on-your-first-llm-integration)
+  - [Sync vs. Async: Integrating LLMs effectively](#sync-vs-async-integrating-llms-effectively)
+  - [Real-time data pipelines for LLM integration](#real-time-data-pipelines-for-llm-integration)
+  - [Secure LLM integration: API keys, rate limiting, and data access](#secure-llm-integration-api-keys-rate-limiting-and-data-access)
 - [**3. Deployment Strategies**](#3-deployment-strategies) (6 videos)
-  - Understanding deployment options
-  - Cloud-based LLMs: Advantages and disadvantages
-  - On-premise LLMs: Control and customization
-  - Edge deployment: Low latency and privacy
-  - Hybrid deployment: Balancing flexibility and complexity
-  - Choosing the right deployment strategy
+  - [Understanding deployment options](#understanding-deployment-options)
+  - [Cloud-based LLMs: Advantages and disadvantages](#cloud-based-llms-advantages-and-disadvantages)
+  - [On-premise LLMs: Control and customization](#on-premise-llms-control-and-customization)
+  - [Edge deployment: Low latency and privacy](#edge-deployment-low-latency-and-privacy)
+  - [Hybrid deployment: Balancing flexibility and complexity](#hybrid-deployment-balancing-flexibility-and-complexity)
+  - [Choosing the right deployment strategy](#choosing-the-right-deployment-strategy)
 - [**4. Optimizing Performance and Reliability**](#4-optimizing-performance-and-reliability) (4 videos)
-  - Fine-tuning overview: Tailoring LLMs to specific needs
-  - Caching LLM responses: Optimizing performance and cost
-  - Handling LLM failures: Building a reliable retry system
-  - Scaling: Architectural patterns for LLM integration
+  - [Fine-tuning overview: Tailoring LLMs to specific needs](#fine-tuning-overview-tailoring-llms-to-specific-needs)
+  - [Caching LLM responses: Optimizing performance and cost](#caching-llm-responses-optimizing-performance-and-cost)
+  - [Handling LLM failures: Building a reliable retry system](#handling-llm-failures-building-a-reliable-retry-system)
+  - [Scaling: Architectural patterns for LLM integration](#scaling-architectural-patterns-for-llm-integration)
 - [**5. Production Readiness: Testing, Validation, and Monitoring**](#5-production-readiness-testing-validation-and-monitoring) (5 videos)
-  - Validating and sanitizing LLM inputs and outputs
-  - Testing your LLM integration: Strategies and best practices
-  - Key metrics for LLM integration: What to track
-  - Setting up alerts: Monitoring your LLM integration
-  - Optimizing LLM costs in production
+  - [Validating and sanitizing LLM inputs and outputs](#validating-and-sanitizing-llm-inputs-and-outputs)
+  - [Testing your LLM integration: Strategies and best practices](#testing-your-llm-integration-strategies-and-best-practices)
+  - [Key metrics for LLM integration: What to track](#key-metrics-for-llm-integration-what-to-track)
+  - [Setting up alerts: Monitoring your LLM integration](#setting-up-alerts-monitoring-your-llm-integration)
+  - [Optimizing LLM costs in production](#optimizing-llm-costs-in-production)
 - [**6. User Experience, Ethics, and Governance**](#6-user-experience-ethics-and-governance) (4 videos)
-  - Graceful degradation and transparent communication
-  - Explainable AI: Providing insights into LLM decisions
-  - Ethical considerations: Bias, fairness, and responsible use
-  - LLM usage tracking and compliance
+  - [Graceful degradation and transparent communication](#graceful-degradation-and-transparent-communication)
+  - [Explainable AI: Providing insights into LLM decisions](#explainable-ai-providing-insights-into-llm-decisions)
+  - [Ethical considerations: Bias, fairness, and responsible use](#ethical-considerations-bias-fairness-and-responsible-use)
+  - [LLM usage tracking and compliance](#llm-usage-tracking-and-compliance)
 - [**Conclusion**](#conclusion) (2 videos)
-  - LLMs for business growth: Revisiting the potential
-  - Course summary and future learning
+  - [LLMs for business growth: Revisiting the potential](#llms-for-business-growth-revisiting-the-potential)
+  - [Course summary and future learning](#course-summary-and-future-learning)
 
 ### Welcome to the Course
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/course-introduction-and-prerequisites?u=76281980)
@@ -115,13 +115,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), product (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - to (1)
 
 
 ### 1. Foundations of LLM Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What LLMs can (and can't) do in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/what-llms-can-and-can-t-do-in-production?u=76281980)
@@ -212,7 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), require (1)
+> **Frameworks & Libraries:** llm (3), product (2), data (2), management (2), prompt (2)
 > **Env Vars:** llm (3)
 > **Analogies:** for example (3)
 > **Warnings:** note that (1)
@@ -283,8 +283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (3), llm (3), [[Prompt Engineering]] (1), [[Fine Tuning]] (1)
 > **CLI Commands:** cat (2), make (1)
-> **Code Keywords:** this, (1), finally, (1), require (1)
 > **Env Vars:** llm (3)
 > **Analogies:** for example (2), for instance (1)
 > **Speakers:** - [speaker] (1)
@@ -384,7 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), yield (1)
+> **Frameworks & Libraries:** prompt (6), [[Prompt Engineering]] (4), ai (3), product (2), data (2)
 > **Analogies:** think of it as (1), for example (1), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** lms (1)
@@ -473,9 +473,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (11), data (11), product (6), prompt (5), ai (4)
 > **Env Vars:** llm (11)
 > **CLI Commands:** make (1), cd (1)
-> **Code Keywords:** let (2)
 > **Analogies:** imagine (1), think of it as (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -484,7 +484,7 @@ created: 2026-04-29
 
 ### 2. Integrating LLMs into Your Product
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing your LLM provider: Navigating the LLM landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/choosing-your-llm-provider-navigating-the-llm-landscape?u=76281980)
@@ -565,8 +565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), data (4), api (3), product (2), application (2)
 > **Env Vars:** llm (5), api (3), gpt (1), ai21 (1), soc (1)
-> **Code Keywords:** let (4), require (1), default. (1), finally, (1)
 > **Analogies:** for example (3), imagine (1), just like (1), such as (1), for instance (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (1)
@@ -648,9 +648,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), llm (4), product (3), management (3), [[JSON]] (2)
 > **Env Vars:** api (10), llm (4), json (2), http (1), post (1)
 > **Analogies:** such as (4), for example (2), for instance (1)
-> **Code Keywords:** let (1), function (1), finally, (1), this, (1), interface (1)
 > **CLI Commands:** make (1)
 > **API Endpoints:** post  (1)
 > **Warnings:** be aware (1)
@@ -721,11 +721,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (10), api (4), prompt (3), [[Prompt Engineering]] (2), application (1)
 > **Env Vars:** llm (10), api (4), json (1)
 > **Code Identifiers:** topp (1), topk (1)
 > **Analogies:** think of it like (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
@@ -816,9 +816,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (9), api (9), application (4), ai (2), [[Scalability]] (2)
 > **Env Vars:** llm (9), api (9), sdk (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** async (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [narrator] (1)
 
@@ -893,8 +893,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (13), data (11), api (5), application (3), [[JSON]] (3)
 > **Env Vars:** llm (13), api (5), json (3), xml (1)
-> **Code Keywords:** let (3), interface (2), this. (1), finally, (1)
 > **Analogies:** such as (2), imagine (1), for example (1), for instance (1)
 > **Code Identifiers:** restaurant_name (1), user_rating (1), review_text (1)
 > **CLI Commands:** make (1)
@@ -964,9 +964,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), api (7), llm (6), management (4), database (3)
 > **Env Vars:** api (7), llm (6), iam (2), aws (1), gcp (1)
 > **Analogies:** for example (2), such as (2), imagine (1)
-> **Code Keywords:** let (2), super (1), interface (1)
 > **CLI Commands:** make (2), aws (1)
 > **Cross-References:** we discussed (1)
 > **Exercise Files:** source code (1)
@@ -976,7 +976,7 @@ created: 2026-04-29
 
 ### 3. Deployment Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding deployment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/understanding-deployment-options?u=76281980)
@@ -1073,9 +1073,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), llm (5), api (5), ai (3), product (3)
 > **Env Vars:** llm (5), api (5), lms (1), aws (1)
 > **Analogies:** imagine (3), for example (2)
-> **Code Keywords:** module (1), function (1), private (1), type. (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1148,8 +1148,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), [[Security]] (9), data (6), api (4), [[Scalability]] (3)
 > **Env Vars:** api (4), llm (2), aws (2), ec2 (1)
-> **Code Keywords:** let (1), module (1), lambda (1), switch (1), finally, (1)
 > **CLI Commands:** make (2), aws (2)
 > **Warnings:** note that (1), keep in mind (1), be aware (1)
 > **Definitions:** refers to (1)
@@ -1227,11 +1227,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), llm (4), [[Hardware]] (3), cloud (2), [[Fine Tuning]] (2)
 > **Env Vars:** llm (4), hipaa (1), pci (1), dss (1), gpt (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **Best Practices:** remember to (1), the key is (1)
 > **CLI Commands:** docker (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1316,7 +1316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), finally, (2), let (1)
+> **Frameworks & Libraries:** data (16), [[Privacy]] (4), llm (2), ai (1), [[IoT]] (1)
 > **Env Vars:** llm (2), iot (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1411,9 +1411,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), data (10), [[Security]] (7), llm (6), ai (4)
 > **Env Vars:** llm (6), pii (1), aws (1), hipaa (1), xai (1)
 > **Analogies:** for instance (3), imagine (1), for example (1)
-> **Code Keywords:** finally, (2), require (1)
 > **CLI Commands:** aws (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1494,8 +1494,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (4), llm (3), api (3), power (3)
 > **Env Vars:** llm (3), api (3), gpu (2), hipaa (2), tco (1)
-> **Code Keywords:** let (2), require (1), finally, (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** required to (2)
 > **Documentation:** specification (1)
@@ -1504,7 +1504,7 @@ created: 2026-04-29
 
 ### 4. Optimizing Performance and Reliability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fine-tuning overview: Tailoring LLMs to specific needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/fine-tuning-overview-tailoring-llms-to-specific-needs?u=76281980)
@@ -1587,9 +1587,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), product (2), llm (2), next (2), ai (1)
 > **Env Vars:** llm (2), peft (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
@@ -1684,8 +1684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), llm (4), application (2), data (2), prompt (2)
 > **Env Vars:** api (4), llm (4), gpt (2), ram (1), lru (1)
-> **Code Keywords:** let (1), finally, (1), static (1), case. (1)
 > **Analogies:** think of it like (1), for example (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.95 (1)
@@ -1771,9 +1771,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), api (5), data (2), application (2), power (1)
 > **Env Vars:** llm (6), api (5), http (2), utc (1), json (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1), abstract (1)
 > **CLI Commands:** python (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -1879,10 +1879,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (17), application (5), [[Microservices]] (4), [[Scalability]] (3), traffic (3)
 > **Env Vars:** llm (17)
 > **Analogies:** for example (4), imagine (4), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1890,7 +1890,7 @@ created: 2026-04-29
 
 ### 5. Production Readiness: Testing, Validation, and Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Validating and sanitizing LLM inputs and outputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/validating-and-sanitizing-llm-inputs-and-outputs?u=76281980)
@@ -1967,9 +1967,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), data (5), prompt (5), chatbot (2), [[Security]] (2)
 > **Env Vars:** llm (6), sql (2), xss (1), ner (1), pii (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
@@ -2051,8 +2051,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), llm (6), prompt (6), api (2), application (2)
 > **Env Vars:** llm (6), api (2), bleu (1), rouge (1), cpu (1)
-> **Code Keywords:** finally, (3), function (1)
 > **Analogies:** for example (2), for instance (1), such as (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -2152,8 +2152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), product (3), api (3), [[Tokens]] (3), prompt (2)
 > **Env Vars:** llm (4), api (3), rouge (1), ndcg (1)
-> **Code Keywords:** let (3), finally, (1), case, (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -2245,8 +2245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), llm (3), api (2), [[Algorithms]] (2), [[E-Commerce]] (1)
 > **Env Vars:** llm (3), api (2), blue (1), dbscan (1), json (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (2), imagine (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Definitions:** is a  (2)
@@ -2333,9 +2333,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (8), [[Tokens]] (4), prompt (4), [[Prompt Engineering]] (2), [[Customer Support]] (1)
 > **Env Vars:** llm (8), api (1), gpt (1), bert (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (1), this. (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2343,7 +2343,7 @@ created: 2026-04-29
 
 ### 6. User Experience, Ethics, and Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Graceful degradation and transparent communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/graceful-degradation-and-transparent-communication?u=76281980)
@@ -2446,7 +2446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1)
+> **Frameworks & Libraries:** ai (13), [[Search]] (4), [[E-Commerce]] (2), product (1), hit (1)
 > **Analogies:** think of it like (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rei (1)
@@ -2551,10 +2551,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), llm (9), [[Microsoft Word|Word]] (1), chatbot (1), [[Decision-Making]] (1)
 > **Env Vars:** llm (9), xai (7), lime (1)
 > **Analogies:** it's like (2), imagine (1), for instance (1), for example (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** class. (1)
 > **Speakers:** - ever (1)
 
 #### Ethical considerations: Bias, fairness, and responsible use
@@ -2644,9 +2644,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), product (4), [[Security]] (2), llm (2), data (2)
 > **Env Vars:** llm (2), aif360 (1), xai (1), lime (1), shap (1)
 > **Analogies:** picture (1), just like (1), it's like (1), such as (1), similar to (1)
-> **Code Keywords:** this, (1), function (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -2746,10 +2746,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), llm (10), [[Privacy]] (5), [[Security]] (4), application (2)
 > **Env Vars:** llm (10), gdpr (2), ccpa (2), hipaa (2), json (1)
 > **Analogies:** think of it as (2), imagine (2)
 > **Warnings:** be careful (1), be aware (1), warning (1)
-> **Code Keywords:** protected (1), finally, (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -2757,7 +2757,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LLMs for business growth: Revisiting the potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/llms-for-business-growth-revisiting-the-potential?u=76281980)
@@ -2834,9 +2834,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), ai (5), product (3), llm (3), data (3)
 > **Env Vars:** llm (3), okra (1), lcm (1), roi (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** throw (1)
 > **URLs:** [jasper.ai](https://jasper.ai) (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** watch out (1)
@@ -2927,8 +2927,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (7), business (4), ai (3), product (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** llm (7)
-> **Code Keywords:** continue (1)
 > **Speakers:** - remember (1)
 
 

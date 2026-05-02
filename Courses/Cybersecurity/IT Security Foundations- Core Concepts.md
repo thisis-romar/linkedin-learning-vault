@@ -30,7 +30,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/IT%20Security%20Foundations-%20Core%20Concepts.md)
@@ -49,49 +49,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Tech savvy, tech safe
-  - Discovering resources
+  - [Tech savvy, tech safe](#tech-savvy-tech-safe)
+  - [Discovering resources](#discovering-resources)
 - [**1. Core Security Principles**](#1-core-security-principles) (6 videos)
-  - Providing a secure system
-  - Keeping information safe
-  - Managing risk
-  - Analyzing risk
-  - Avoiding scam artists
-  - Recognizing the Internet of Things
+  - [Providing a secure system](#providing-a-secure-system)
+  - [Keeping information safe](#keeping-information-safe)
+  - [Managing risk](#managing-risk)
+  - [Analyzing risk](#analyzing-risk)
+  - [Avoiding scam artists](#avoiding-scam-artists)
+  - [Recognizing the Internet of Things](#recognizing-the-internet-of-things)
 - [**2. Understanding Malware**](#2-understanding-malware) (5 videos)
-  - Comparing malicious programs
-  - Explaining viruses and worms
-  - Eliminating unwanted surveillance
-  - Holding data hostage
-  - Defending the OS
+  - [Comparing malicious programs](#comparing-malicious-programs)
+  - [Explaining viruses and worms](#explaining-viruses-and-worms)
+  - [Eliminating unwanted surveillance](#eliminating-unwanted-surveillance)
+  - [Holding data hostage](#holding-data-hostage)
+  - [Defending the OS](#defending-the-os)
 - [**3. Breaching Your System**](#3-breaching-your-system) (5 videos)
-  - Stopping the imposters
-  - Getting in the backdoor
-  - Exploiting the unknown
-  - Challenge: Recognizing IoT threats
-  - Solution: Recognizing IoT threats
+  - [Stopping the imposters](#stopping-the-imposters)
+  - [Getting in the backdoor](#getting-in-the-backdoor)
+  - [Exploiting the unknown](#exploiting-the-unknown)
+  - [Challenge: Recognizing IoT threats](#challenge-recognizing-iot-threats)
+  - [Solution: Recognizing IoT threats](#solution-recognizing-iot-threats)
 - [**4. Investigating Internet Security**](#4-investigating-internet-security) (5 videos)
-  - Accessing cloud resources
-  - Using a secure connection
-  - Accepting cookies
-  - Blocking malicious content
-  - Ensuring browser privacy
+  - [Accessing cloud resources](#accessing-cloud-resources)
+  - [Using a secure connection](#using-a-secure-connection)
+  - [Accepting cookies](#accepting-cookies)
+  - [Blocking malicious content](#blocking-malicious-content)
+  - [Ensuring browser privacy](#ensuring-browser-privacy)
 - [**5. Mobile and Wireless Security**](#5-mobile-and-wireless-security) (4 videos)
-  - Securing your Wi-Fi
-  - Sharing a secret
-  - Concealing your access point
-  - Protecting mobile devices
+  - [Securing your Wi-Fi](#securing-your-wi-fi)
+  - [Sharing a secret](#sharing-a-secret)
+  - [Concealing your access point](#concealing-your-access-point)
+  - [Protecting mobile devices](#protecting-mobile-devices)
 - [**6. Secure Devices and Applications**](#6-secure-devices-and-applications) (4 videos)
-  - Providing data confidentiality
-  - Ensuring data integrity
-  - Using cryptographic techniques
-  - Securing email
+  - [Providing data confidentiality](#providing-data-confidentiality)
+  - [Ensuring data integrity](#ensuring-data-integrity)
+  - [Using cryptographic techniques](#using-cryptographic-techniques)
+  - [Securing email](#securing-email)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tech savvy, tech safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/tech-savvy-tech-safe?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Search]] (1), [[Privacy]] (1)
 > **Speakers:** - [lisa] (1)
 
 #### Discovering resources
@@ -146,7 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (3)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -155,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Core Security Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing a secure system
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980)
@@ -216,7 +216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), let (4), finally, (1)
+> **Frameworks & Libraries:** data (11), [[Security]] (1), business (1), [[Microsoft Office|Office]] (1), next (1)
 > **Definitions:** is called (1), stands for (1), is an  (1)
 > **Env Vars:** cia (2)
 > **Analogies:** such as (1)
@@ -269,7 +269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), let (3), else. (1), finally, (1)
+> **Frameworks & Libraries:** data (17), next (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -316,9 +316,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Databases]] (1), [[Security]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** function (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Analyzing risk
@@ -362,7 +362,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -427,7 +426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Engineering]] (12), [[Phishing]] (1), web (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -498,7 +497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (1)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Internet of Things (IoT)|Internet of things]] (3), data (2), [[Automation]] (1), [[Big Data]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** make (1)
@@ -507,7 +506,7 @@ created: 2026-04-29
 
 ### 2. Understanding Malware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing malicious programs
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/comparing-malicious-programs?u=76281980)
@@ -570,7 +569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (2), while, (1), continue (1)
+> **Frameworks & Libraries:** data (5)
 > **Definitions:** is a  (4)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** click on (1)
@@ -627,7 +626,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (2)
 > **Analogies:** such as (5)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -693,7 +691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
+> **Frameworks & Libraries:** data (2), [[Security]] (1)
 > **UI Navigation:** scroll down (2)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (2)
@@ -781,7 +779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), private (1)
+> **Frameworks & Libraries:** data (3), [[Phishing]] (3), database (1), business (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** such as (1)
@@ -871,9 +869,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (4), [[Microsoft]] (3), data (2), prompt (1)
 > **Env Vars:** dep (4)
 > **UI Navigation:** go to (3), scroll down (1)
-> **Code Keywords:** let (3)
 > **Code Identifiers:** macos (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
@@ -883,7 +881,7 @@ created: 2026-04-29
 
 ### 3. Breaching Your System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stopping the imposters
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/stopping-the-imposters?u=76281980)
@@ -948,7 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), super (1)
+> **Frameworks & Libraries:** game (3), [[Engineering]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1)
@@ -1019,9 +1017,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Engineering]] (1), [[Phishing]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** good practice (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
@@ -1107,7 +1105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Security]] (2), [[Real-Time]] (1), web (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), refers to (1)
@@ -1136,8 +1134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (2), [[Internet of Things (IoT)|Internet of things]] (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Recognizing IoT threats
@@ -1173,7 +1171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** power (1), [[Automation]] (1), data (1), [[Security]] (1), [[IoT]] (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1181,7 +1179,7 @@ created: 2026-04-29
 
 ### 4. Investigating Internet Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing cloud resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980)
@@ -1232,8 +1230,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), data (3), [[IaaS|Infrastructure as a service]] (2), [[PaaS|Platform as a service]] (2), [[SaaS|Software as a service]] (2)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** icloud (1)
 > **Speakers:** - [narrator] (1)
@@ -1311,8 +1309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (2), data (1), web (1), [[Banking]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (3), protected (1), this, (1)
 > **Env Vars:** https (3)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** for example (2), such as (1)
@@ -1395,11 +1393,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Privacy]] (1), [[Security]] (1)
 > **Analogies:** for example (3), such as (1), imagine (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** http (4)
 > **UI Navigation:** go to (3), scroll down (1)
-> **Code Keywords:** let (3)
 > **URLs:** [cleopatra.com](https://cleopatra.com) (2)
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
@@ -1465,9 +1463,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), web (2), [[JavaScript]] (2), [[Privacy]] (1), data (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Tools:** firefox (4)
-> **Code Keywords:** let (2), interface (1)
 > **CLI Commands:** make (2)
 > **URLs:** [browser.org](https://browser.org) (1)
 > **Analogies:** for example (1)
@@ -1537,7 +1535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), case, (1), include: (1), let (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), web (6), [[Search]] (4), [[Security]] (2), next (1)
 > **Analogies:** such as (2)
 > **Warnings:** warning (1), be aware (1)
 > **CLI Commands:** make (1)
@@ -1549,7 +1547,7 @@ created: 2026-04-29
 
 ### 5. Mobile and Wireless Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your Wi-Fi
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980)
@@ -1620,7 +1618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default, (1), protected (1)
+> **Frameworks & Libraries:** [[Security]] (4), data (2), [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Office|Office]] (1), [[Search]] (1)
 > **Env Vars:** ssid (2), wpa (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** configure (2)
@@ -1704,7 +1702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (1), protected (1)
+> **Frameworks & Libraries:** [[Security]] (7), data (4), traffic (2)
 > **Env Vars:** wpa (2), ssid (2), wpa3 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1771,8 +1769,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** mac (9), ssid (7), isp (1)
-> **Code Keywords:** let (3), default. (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1), think of it as (1)
 > **Definitions:** is a  (1)
@@ -1865,9 +1863,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Privacy]] (3), [[Phishing]] (2), data (2), [[Banking]] (1)
 > **Analogies:** such as (6)
 > **Warnings:** be aware (2), keep in mind (1), caution (1)
-> **Code Keywords:** let (3)
 > **Prerequisites:** set up (1), install (1)
 > **Code Identifiers:** itunes (1)
 > **Env Vars:** https (1)
@@ -1877,7 +1875,7 @@ created: 2026-04-29
 
 ### 6. Secure Devices and Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing data confidentiality
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980)
@@ -1950,7 +1948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (5), private (4), from, (2)
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (2), [[HTML]] (1)
 > **Env Vars:** des (2), html (1), https (1), aes (1), rsa (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -2034,7 +2032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), super (3), match, (1)
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (3)
 > **Definitions:** is a  (5)
 > **Env Vars:** sha (3)
 > **CLI Commands:** make (1)
@@ -2100,7 +2098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), let (3), protected (1)
+> **Frameworks & Libraries:** data (10), [[Accountability]] (3), [[Blockchain]] (2), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** mime (2), vpn (1), https (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1), for example (1)
@@ -2179,8 +2177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (10), business (1), [[Security]] (1), management (1)
 > **UI Navigation:** open the (1), click on (1), scroll down (1)
-> **Code Keywords:** case, (1), let (1)
 > **CLI Commands:** make (1)
 > **URLs:** [patra.com](https://patra.com) (1)
 > **Definitions:** is a  (1)
@@ -2191,7 +2189,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/next-steps?u=76281980)
@@ -2222,6 +2220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Internet of Things (IoT)|Internet of things]] (1), [[Network Security]] (1)
 > **Cross-References:** we discussed (1), we covered (1)
 > **Speakers:** - [lisa] (1)
 

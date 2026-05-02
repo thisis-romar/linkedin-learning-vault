@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Images%20and%20Figures.md)
@@ -47,43 +47,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know
-  - Setting up your computer
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [Setting up your computer](#setting-up-your-computer)
 - [**1. Image Essentials**](#1-image-essentials) (4 videos)
-  - Using the img element and src attribute
-  - Accessibility: alt and title attributes
-  - Image size: Width and height
-  - Obtaining images
+  - [Using the img element and src attribute](#using-the-img-element-and-src-attribute)
+  - [Accessibility: alt and title attributes](#accessibility-alt-and-title-attributes)
+  - [Image size: Width and height](#image-size-width-and-height)
+  - [Obtaining images](#obtaining-images)
 - [**2. Image Formats**](#2-image-formats) (4 videos)
-  - Image format overview
-  - GIF and PNG: The format for line art
-  - JPEG: The format for photos
-  - SVG: The format for vector line art
+  - [Image format overview](#image-format-overview)
+  - [GIF and PNG: The format for line art](#gif-and-png-the-format-for-line-art)
+  - [JPEG: The format for photos](#jpeg-the-format-for-photos)
+  - [SVG: The format for vector line art](#svg-the-format-for-vector-line-art)
 - [**3. Images and CSS**](#3-images-and-css) (6 videos)
-  - Borders, padding, and spacing
-  - Alignment
-  - Challenge: Images and text
-  - Solution: Images and text
-  - Special effects
-  - Background images
+  - [Borders, padding, and spacing](#borders-padding-and-spacing)
+  - [Alignment](#alignment)
+  - [Challenge: Images and text](#challenge-images-and-text)
+  - [Solution: Images and text](#solution-images-and-text)
+  - [Special effects](#special-effects)
+  - [Background images](#background-images)
 - [**4. Responsive Images**](#4-responsive-images) (7 videos)
-  - Resolution and pixel density
-  - Handling pixel density
-  - Using srcset and sizes
-  - Testing screen resolutions
-  - Challenge: Use srcset
-  - Solution: Use srcset
-  - Art direction: The picture element
+  - [Resolution and pixel density](#resolution-and-pixel-density)
+  - [Handling pixel density](#handling-pixel-density)
+  - [Using srcset and sizes](#using-srcset-and-sizes)
+  - [Testing screen resolutions](#testing-screen-resolutions)
+  - [Challenge: Use srcset](#challenge-use-srcset)
+  - [Solution: Use srcset](#solution-use-srcset)
+  - [Art direction: The picture element](#art-direction-the-picture-element)
 - [**5. Figures**](#5-figures) (2 videos)
-  - Using figure and figcaption elements
-  - Autonumbering figures with CSS
+  - [Using figure and figcaption elements](#using-figure-and-figcaption-elements)
+  - [Autonumbering figures with CSS](#autonumbering-figures-with-css)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/welcome?u=76281980)
@@ -116,10 +116,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), web (1)
 > **Env Vars:** html (4)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [j (1)
 
 #### What you should know
@@ -141,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), css (1)
 > **Env Vars:** html (4), css (1)
 > **Speakers:** - [instructor] (1)
 
@@ -177,19 +178,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Windows]] (2), [[Linux]] (2), [[HTML]] (2), [[Google]] (1)
 > **Tools:** firefox (2), atom (1), visual studio (1)
 > **Exercise Files:** exercise files (2)
 > **Prerequisites:** set up (2)
 > **File Paths:** links.html (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Image Essentials
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the img element and src attribute
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-the-img-element-and-src-attribute?u=76281980)
@@ -240,12 +241,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), web (3), css (1)
 > **Env Vars:** html (4), xml (2), src (1), xhtml5 (1), html5 (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** picture (2)
 > **File Paths:** index.html (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
@@ -330,8 +331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), web (1)
 > **Speakers:** - [instructor] (3), - [computer] (2)
-> **Code Keywords:** let (2), case, (1), this. (1)
 > **Analogies:** picture (3), such as (1)
 > **CLI Commands:** make (3)
 > **Definitions:** stands for (1), is a  (1)
@@ -429,8 +430,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Windows]] (2), [[HTML]] (1), [[Linux]] (1)
 > **Analogies:** picture (13)
-> **Code Keywords:** let (4), case, (2), for, (1)
 > **Versions:** 3.4 (5)
 > **Code Identifiers:** cherry_blossoms_closeup (1), cherry_blossoms_closeup_small (1)
 > **Env Vars:** html (1), gnu (1)
@@ -485,9 +486,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Google]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** istock (1)
 > **URLs:** [flickr.com](https://flickr.com) (1)
 > **Env Vars:** url (1)
@@ -497,7 +498,7 @@ created: 2026-04-29
 
 ### 2. Image Formats
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Image format overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/image-format-overview?u=76281980)
@@ -534,6 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2)
 > **Env Vars:** gif (1), png (1), svg (1), jpeg (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -590,8 +592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[Algorithms]] (1), [[Statistics]] (1)
 > **Env Vars:** gif (9), png (4)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### JPEG: The format for photos
@@ -644,7 +646,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** jpeg (6), png (1), gif (1)
-> **Code Keywords:** let (3)
 > **Definitions:** stands for (1), is called (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
@@ -693,14 +694,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), product (1)
 > **Env Vars:** svg (6), png (2), gif (1), jpeg (1), html (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Images and CSS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Borders, padding, and spacing
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/borders-padding-and-spacing?u=76281980)
@@ -769,7 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1)
+> **Frameworks & Libraries:** css (4), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** css (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1), picture (1), similar to (1)
@@ -850,7 +851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), case, (1)
+> **Frameworks & Libraries:** css (2), next (2), career (1), web (1), [[Zoom]] (1)
 > **Env Vars:** css (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -890,8 +891,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), next (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** html (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
@@ -970,9 +971,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), css (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (4)
-> **Code Keywords:** let (2)
 > **Env Vars:** css (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1060,8 +1061,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), next (1), [[Search]] (1)
 > **Analogies:** picture (5)
-> **Code Keywords:** let (4)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (1)
 > **URLs:** [css-tricks.com](https://css-tricks.com) (1)
@@ -1158,8 +1159,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[HTML]] (2)
 > **Env Vars:** css (3), url (3), html (2)
-> **Code Keywords:** let (4), this. (1)
 > **URLs:** [mozilla.org](https://mozilla.org) (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -1168,7 +1169,7 @@ created: 2026-04-29
 
 ### 4. Responsive Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Resolution and pixel density
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/resolution-and-pixel-density?u=76281980)
@@ -1203,6 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Analogies:** such as (1), picture (1)
 > **Env Vars:** html (1)
 > **Definitions:** in other words (1)
@@ -1243,9 +1245,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Versions:** 1.5 (2), 0.1 (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1315,8 +1317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), next (1), [[Windows]] (1), web (1)
 > **Analogies:** picture (3), for example (1)
-> **Code Keywords:** let (2), case, (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (1)
 > **Tools:** firefox (1)
@@ -1371,8 +1373,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2)
 > **UI Navigation:** select the (2), go to (1), toggle (1)
-> **Code Keywords:** this. (2)
 > **Tools:** firefox (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -1431,6 +1433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
@@ -1488,8 +1491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Search]] (1), [[Responsive Web Design]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1548,8 +1551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** picture (4)
-> **Code Keywords:** let (2), else, (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ipad (1)
 > **Cross-References:** previous video (1)
@@ -1558,7 +1561,7 @@ created: 2026-04-29
 
 ### 5. Figures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using figure and figcaption elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-figure-and-figcaption-elements?u=76281980)
@@ -1609,7 +1612,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1671,16 +1673,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[Google]] (1), web (1), [[HTML]] (1), next (1)
 > **Env Vars:** css (5), html (1)
 > **UI Navigation:** scroll down (2), go to (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980)
@@ -1723,6 +1725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), next (1), [[Responsive Web Design]] (1), [[Graphic Design]] (1), [[HTML]] (1)
 > **Env Vars:** css (4), html (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

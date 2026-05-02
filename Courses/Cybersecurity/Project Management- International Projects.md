@@ -26,7 +26,7 @@ tags:
   - topic/security
   - skill/international-project-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Project%20Management-%20International%20Projects.md)
@@ -45,36 +45,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Improve your global project results
+  - [Improve your global project results](#improve-your-global-project-results)
 - [**1. Collaboration**](#1-collaboration) (3 videos)
-  - Assessing collaboration
-  - We do as the leader does
-  - Building skills for collaboration
+  - [Assessing collaboration](#assessing-collaboration)
+  - [We do as the leader does](#we-do-as-the-leader-does)
+  - [Building skills for collaboration](#building-skills-for-collaboration)
 - [**2. True Communication**](#2-true-communication) (4 videos)
-  - Avoiding the illusion
-  - Effective supplier communication steps
-  - Effective customer communication steps
-  - New obstacles to clarity
+  - [Avoiding the illusion](#avoiding-the-illusion)
+  - [Effective supplier communication steps](#effective-supplier-communication-steps)
+  - [Effective customer communication steps](#effective-customer-communication-steps)
+  - [New obstacles to clarity](#new-obstacles-to-clarity)
 - [**3. Distance**](#3-distance) (3 videos)
-  - Addressing physical separation
-  - Improving affiliation
-  - Considering time zones
+  - [Addressing physical separation](#addressing-physical-separation)
+  - [Improving affiliation](#improving-affiliation)
+  - [Considering time zones](#considering-time-zones)
 - [**4. Culture**](#4-culture) (4 videos)
-  - Social programming and values
-  - High vs. low context
-  - Power distance
-  - Monochronic vs. polychronic
+  - [Social programming and values](#social-programming-and-values)
+  - [High vs. low context](#high-vs-low-context)
+  - [Power distance](#power-distance)
+  - [Monochronic vs. polychronic](#monochronic-vs-polychronic)
 - [**5. Language**](#5-language) (4 videos)
-  - Common language
-  - Emails and texts
-  - Translations
-  - Drawings and specifications
+  - [Common language](#common-language)
+  - [Emails and texts](#emails-and-texts)
+  - [Translations](#translations)
+  - [Drawings and specifications](#drawings-and-specifications)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your global project results
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/improve-your-global-project-results?u=76281980)
@@ -105,13 +105,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** teams (1)
 > **Speakers:** - things (1)
 
 
 ### 1. Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/assessing-collaboration?u=76281980)
@@ -178,6 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), leadership (3), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -229,7 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this, (1)
+> **Frameworks & Libraries:** teams (2), [[Building Trust]] (1), next (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -292,6 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), teams (1), management (1), [[Six Sigma]] (1), functional (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** oem (1)
 > **UI Navigation:** open the (1)
@@ -302,7 +304,7 @@ created: 2026-04-29
 
 ### 2. True Communication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding the illusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/avoiding-the-illusion?u=76281980)
@@ -367,6 +369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -440,6 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
@@ -497,7 +501,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), continue (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - applying (1)
@@ -555,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (1)
+> **Frameworks & Libraries:** teams (1), next (1), business (1), management (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -565,7 +568,7 @@ created: 2026-04-29
 
 ### 3. Distance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Addressing physical separation
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980)
@@ -618,6 +621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -693,6 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), web (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), it's like (1)
 > **Speakers:** - who (1)
@@ -754,11 +759,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), next (1)
 > **Env Vars:** utc (4), cst (1), est (1)
 > **CLI Commands:** make (3)
 > **Ports:** :00 (2)
 > **Prerequisites:** set up (1), make sure you have (1)
-> **Code Keywords:** require (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - did (1)
@@ -766,7 +771,7 @@ created: 2026-04-29
 
 ### 4. Culture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Social programming and values
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/social-programming-and-values?u=76281980)
@@ -831,7 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), teams (1), next (1), express (1), hit (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -896,9 +901,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - edward (1)
 
@@ -957,8 +962,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - power (1)
 
@@ -1023,14 +1028,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Microsoft Word|Word]] (1), teams (1), express (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - different (1)
 
 
 ### 5. Language
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common language
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980)
@@ -1093,6 +1098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[SOLIDWORKS]] (1), next (1), express (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** solidworks (1), catia (1), cad (1), oem (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** make (1)
@@ -1160,12 +1166,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (1)
 > **Env Vars:** lol (1), idk (1), cob (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), just like (1)
 > **Warnings:** be aware (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - i (1)
 
@@ -1236,6 +1242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), next (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
@@ -1299,15 +1306,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[Engineering]] (1), functional (1)
 > **CLI Commands:** make (2)
 > **Documentation:** specification (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - i (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/next-steps?u=76281980)
@@ -1350,7 +1357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** teams (1), [[Search]] (1), next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - what (1)

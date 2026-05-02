@@ -32,7 +32,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20Agents-%20Build%20Your%20Own%20AI%20Assistant%20in%20Copilot%20and%20Teams%20(No%20Code%20Required)%20(February%202025).md)
@@ -51,22 +51,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Use agents for specialized AI tasks
-  - Accounts and subscriptions required
+  - [Use agents for specialized AI tasks](#use-agents-for-specialized-ai-tasks)
+  - [Accounts and subscriptions required](#accounts-and-subscriptions-required)
 - [**1. Use Agents in Microsoft 365 Copilot**](#1-use-agents-in-microsoft-365-copilot) (3 videos)
-  - Understand how Copilot agents work
-  - Use agents and install new agents
-  - Use an agent with a 3rd party account
+  - [Understand how Copilot agents work](#understand-how-copilot-agents-work)
+  - [Use agents and install new agents](#use-agents-and-install-new-agents)
+  - [Use an agent with a 3rd party account](#use-an-agent-with-a-3rd-party-account)
 - [**2. Create Your Own Agents**](#2-create-your-own-agents) (5 videos)
-  - Create a basic Copilot agent
-  - Modify and refine a custom agent
-  - Create an agent using knowledge sources
-  - Share an agent with teammates
-  - Explore next steps with Copilot Studio
+  - [Create a basic Copilot agent](#create-a-basic-copilot-agent)
+  - [Modify and refine a custom agent](#modify-and-refine-a-custom-agent)
+  - [Create an agent using knowledge sources](#create-an-agent-using-knowledge-sources)
+  - [Share an agent with teammates](#share-an-agent-with-teammates)
+  - [Explore next steps with Copilot Studio](#explore-next-steps-with-copilot-studio)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use agents for specialized AI tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980)
@@ -87,6 +87,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), next (1), [[Microsoft Copilot]] (1), [[Microsoft Copilot|Copilot]] (1), [[Programming]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - it (1)
 
@@ -155,8 +156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[Microsoft 365]] (4), feature (2), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (2), scroll down (1)
-> **Code Keywords:** switch (1), case, (1)
 > **URLs:** [office.com](https://office.com) (1), [microsoft365.com](https://microsoft365.com) (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -165,7 +166,7 @@ created: 2026-04-29
 
 ### 1. Use Agents in Microsoft 365 Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand how Copilot agents work
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980)
@@ -224,7 +225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), continue (1), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), business (5), prompt (4), ai (3), [[Prompt Engineering]] (3)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Warnings:** be aware (1)
@@ -307,10 +308,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Microsoft]] (2), [[Microsoft Office|Office]] (1), [[Windows]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** picture (4), just like (1)
 > **UI Navigation:** go to (1), open the (1), select the (1), click on (1)
-> **Code Keywords:** interface (2), continue (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** install (1), set up (1)
 > **Best Practices:** make sure to (1)
@@ -395,7 +396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), require (1), let (1), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), prompt (4), career (1), [[Microsoft]] (1), [[Trello]] (1)
 > **Prerequisites:** install (3), setup (1), you'll need (1), set up (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** pdf (2)
@@ -407,7 +408,7 @@ created: 2026-04-29
 
 ### 2. Create Your Own Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a basic Copilot agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980)
@@ -526,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2), switch (2), continue (2), try, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), ai (2), prompt (1), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** configure (2), set up (1)
 > **Cross-References:** go back to (1), later in (1)
@@ -663,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (3)
+> **Frameworks & Libraries:** prompt (6), next (2), ai (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), select the (1), scroll down (1)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -784,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), type, (1), continue (1), public (1)
+> **Frameworks & Libraries:** [[SharePoint]] (5), hr (3), [[Microsoft Copilot|Copilot]] (3), next (2), ai (1)
 > **CLI Commands:** find (3), make (2)
 > **Prerequisites:** configure (2), set up (2), you'll need (1)
 > **UI Navigation:** go to (1)
@@ -867,8 +868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (9), [[Microsoft Copilot|Copilot]] (5), [[Microsoft 365]] (3), [[Security]] (3), [[Microsoft]] (1)
 > **Prerequisites:** you'll need (2), set up (2)
-> **Code Keywords:** for. (1), let (1), switch (1)
 > **UI Navigation:** go to (2), in the sidebar (1)
 > **Speakers:** - if (1)
 
@@ -913,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[Microsoft]] (3), [[Generative AI]] (1), [[Orchestration]] (1), teams (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), switch to (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)

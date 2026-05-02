@@ -25,7 +25,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Decision-Making%20and%20Communication%20for%20Leaders%20with%20Nancy%20Duarte.md)
@@ -44,27 +44,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Principles of Data Decision-Making and Communication**](#principles-of-data-decision-making-and-communication) (4 videos)
-  - Become a data-driven leader
-  - Lead and inspire action through data storytelling
-  - Applying the Duarte Method to data storytelling
-  - Three levels of data-driven decision-making
+  - [Become a data-driven leader](#become-a-data-driven-leader)
+  - [Lead and inspire action through data storytelling](#lead-and-inspire-action-through-data-storytelling)
+  - [Applying the Duarte Method to data storytelling](#applying-the-duarte-method-to-data-storytelling)
+  - [Three levels of data-driven decision-making](#three-levels-of-data-driven-decision-making)
 - [**1. Communicating Action from Data through Storytelling**](#1-communicating-action-from-data-through-storytelling) (3 videos)
-  - Customize your message to the audience
-  - Make charts work harder to clarify decisions
-  - Craft clear recommendations from data
+  - [Customize your message to the audience](#customize-your-message-to-the-audience)
+  - [Make charts work harder to clarify decisions](#make-charts-work-harder-to-clarify-decisions)
+  - [Craft clear recommendations from data](#craft-clear-recommendations-from-data)
 - [**2. Using Slidedocs to Communicate Data to the Wider Organization**](#2-using-slidedocs-to-communicate-data-to-the-wider-organization) (3 videos)
-  - What’s a Slidedoc?
-  - Using Slidedocs for proposals and updates
-  - Distributing a Slidedoc effectively
+  - [What’s a Slidedoc?](#whats-a-slidedoc)
+  - [Using Slidedocs for proposals and updates](#using-slidedocs-for-proposals-and-updates)
+  - [Distributing a Slidedoc effectively](#distributing-a-slidedoc-effectively)
 - [**3. Using AI to Critique and Observe Data**](#3-using-ai-to-critique-and-observe-data) (2 videos)
-  - Use AI to critique a chart
-  - Use AI to remove bias in data
+  - [Use AI to critique a chart](#use-ai-to-critique-a-chart)
+  - [Use AI to remove bias in data](#use-ai-to-remove-bias-in-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The power of communicating data well
+  - [The power of communicating data well](#the-power-of-communicating-data-well)
 
 ### Principles of Data Decision-Making and Communication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Become a data-driven leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/introduction-to-data-decision-making?u=76281980)
@@ -87,8 +87,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), career (1), [[Data Storytelling]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - how (1)
 
 #### Lead and inspire action through data storytelling
@@ -182,9 +182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), next (2), hit (2), career (1), [[Storytelling]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** imagine (2), picture (1)
-> **Code Keywords:** pass (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
@@ -273,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), next (2), [[Data Storytelling]] (1), [[Financial Data]] (1)
 > **Env Vars:** ceo (2), cfo (1), roi (1)
-> **Code Keywords:** let (1), finally, (1), public (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
@@ -398,7 +398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (5), let (4)
+> **Frameworks & Libraries:** data (36), business (2), [[Dashboards]] (2), product (2), next (2)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
@@ -408,7 +408,7 @@ created: 2026-04-29
 
 ### 1. Communicating Action from Data through Storytelling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Customize your message to the audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/customize-your-message-to-the-audience?u=76281980)
@@ -485,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1), this, (1), this. (1)
+> **Frameworks & Libraries:** next (6), data (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1), such as (1)
@@ -575,8 +575,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), [[Statistics]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** super (1), this. (1), let (1)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1)
 > **Speakers:** - you (1)
@@ -666,7 +666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), finally, (1), let (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (3), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** set up (1)
@@ -675,7 +675,7 @@ created: 2026-04-29
 
 ### 2. Using Slidedocs to Communicate Data to the Wider Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What’s a Slidedoc?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/what-s-a-slidedoc?u=76281980)
@@ -752,7 +752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), super (1), require (1)
+> **Frameworks & Libraries:** power (2), data (2), hit (2), strengths (1), business (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [slidedocs.com](https://slidedocs.com) (1)
 > **Cross-References:** in the last (1)
@@ -825,6 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), power (1), [[Pivot Tables]] (1), [[Dashboards]] (1)
 > **Analogies:** for example (1), imagine (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
@@ -894,17 +895,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), next (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** ceo (1), pdf (1)
 > **Best Practices:** best practice (1), make sure to (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - even (1)
 
 
 ### 3. Using AI to Critique and Observe Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use AI to critique a chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-critique-a-chart?u=76281980)
@@ -985,9 +986,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), prompt (5), data (3), next (2), hit (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (2), gpt (1)
-> **Code Keywords:** let (1), super (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **URLs:** [duarte.ai](https://duarte.ai) (1)
 > **UI Navigation:** open the (1)
@@ -1077,7 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1), this, (1)
+> **Frameworks & Libraries:** ai (11), data (10), next (3), prompt (1), hit (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1086,7 +1087,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of communicating data well
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980)
@@ -1135,8 +1136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), career (1), [[Storytelling]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), continue (1)
 > **URLs:** [duarte.com](https://duarte.com) (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - congratulations (1)

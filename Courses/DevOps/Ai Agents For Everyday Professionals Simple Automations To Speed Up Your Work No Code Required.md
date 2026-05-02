@@ -31,7 +31,7 @@ tags:
   - skill/automation
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Ai%20Agents%20For%20Everyday%20Professionals%20Simple%20Automations%20To%20Speed%20Up%20Your%20Work%20No%20Code%20Required.md)
@@ -50,16 +50,16 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - When to use and not use an AI agent
-  - What to know before starting
+  - [When to use and not use an AI agent](#when-to-use-and-not-use-an-ai-agent)
+  - [What to know before starting](#what-to-know-before-starting)
 - [**1. AI Agents for Everyday Professionals**](#1-ai-agents-for-everyday-professionals) (3 videos)
-  - Overview of AI agent interface
-  - Building an AI agent workflow using a template
-  - Building an AI agent workflow from scratch
+  - [Overview of AI agent interface](#overview-of-ai-agent-interface)
+  - [Building an AI agent workflow using a template](#building-an-ai-agent-workflow-using-a-template)
+  - [Building an AI agent workflow from scratch](#building-an-ai-agent-workflow-from-scratch)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to use and not use an AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (2), super (1), for. (1)
+> **Frameworks & Libraries:** ai (16), data (8), product (1), [[Security]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Best Practices:** it's best to (1)
 > **Warnings:** be careful (1)
@@ -182,9 +182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), node (3), api (3), [[Gemini]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is a  (3), is an  (2), is called (1), stands for (1)
 > **Env Vars:** api (3), pdf (2)
-> **Code Keywords:** interface (3), throw (1)
 > **CLI Commands:** node (3)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
@@ -192,7 +192,7 @@ created: 2026-04-29
 
 ### 1. AI Agents for Everyday Professionals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AI agent interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980)
@@ -339,8 +339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), ai (7), prompt (5), data (4), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** api (10), rss (4), json (1), gpt (1), url (1)
-> **Code Keywords:** this, (3), let (3), interface (2), else. (1), for. (1)
 > **UI Navigation:** dropdown (3), go to (2), click on (2)
 > **CLI Commands:** make (3), find (2), node (1)
 > **Definitions:** is a  (5), is called (1)
@@ -503,7 +503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), this, (2), interface (2), else, (1)
+> **Frameworks & Libraries:** data (20), [[Google]] (5), ai (4), prompt (2), next (2)
 > **CLI Commands:** find (7), make (1)
 > **Exercise Files:** template (8)
 > **UI Navigation:** click on (3), go to (2)
@@ -791,9 +791,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (23), node (14), prompt (13), data (4), api (4)
 > **Env Vars:** pdf (18), api (4), url (2), n8n (1), nai (1)
 > **CLI Commands:** node (14), make (12)
-> **Code Keywords:** let (6), case, (2), for. (1), this, (1), try. (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Prerequisites:** set up (4)
 > **UI Navigation:** go to (3)

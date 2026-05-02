@@ -39,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Decision%20Trees%20with%20KNIME.md)
@@ -58,52 +58,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - The basics of decision trees
-  - What you should know
-  - How to use the practice files
+  - [The basics of decision trees](#the-basics-of-decision-trees)
+  - [What you should know](#what-you-should-know)
+  - [How to use the practice files](#how-to-use-the-practice-files)
 - [**1. Introducing Decision Trees**](#1-introducing-decision-trees) (5 videos)
-  - What is a decision tree?
-  - The pros and cons of decision trees
-  - Introducing KNIME
-  - A quick review of machine learning basics with examples
-  - An overview of decision tree algorithms
+  - [What is a decision tree?](#what-is-a-decision-tree)
+  - [The pros and cons of decision trees](#the-pros-and-cons-of-decision-trees)
+  - [Introducing KNIME](#introducing-knime)
+  - [A quick review of machine learning basics with examples](#a-quick-review-of-machine-learning-basics-with-examples)
+  - [An overview of decision tree algorithms](#an-overview-of-decision-tree-algorithms)
 - [**2. Introducing the C5.0 Algorithm**](#2-introducing-the-c50-algorithm) (12 videos)
-  - Ross Quinlan, ID3, C4.5, and C5.0
-  - Understanding the entropy calculation
-  - How C4.5 handles missing data
-  - The Give Me Some Credit data set
-  - Working with the prebuilt example
-  - KNIME settings for C4.5
-  - How C4.5 handles nominal variables
-  - How C4.5 handles continuous variables
-  - Equal size sampling
-  - A quick look at the complete C4.5 tree
-  - Evaluating the accuracy of your C4.5 tree
-  - When to turn off pruning
+  - [Ross Quinlan, ID3, C4.5, and C5.0](#ross-quinlan-id3-c45-and-c50)
+  - [Understanding the entropy calculation](#understanding-the-entropy-calculation)
+  - [How C4.5 handles missing data](#how-c45-handles-missing-data)
+  - [The Give Me Some Credit data set](#the-give-me-some-credit-data-set)
+  - [Working with the prebuilt example](#working-with-the-prebuilt-example)
+  - [KNIME settings for C4.5](#knime-settings-for-c45)
+  - [How C4.5 handles nominal variables](#how-c45-handles-nominal-variables)
+  - [How C4.5 handles continuous variables](#how-c45-handles-continuous-variables)
+  - [Equal size sampling](#equal-size-sampling)
+  - [A quick look at the complete C4.5 tree](#a-quick-look-at-the-complete-c45-tree)
+  - [Evaluating the accuracy of your C4.5 tree](#evaluating-the-accuracy-of-your-c45-tree)
+  - [When to turn off pruning](#when-to-turn-off-pruning)
 - [**3. Introducing Classification Trees**](#3-introducing-classification-trees) (7 videos)
-  - Introducing Leo Breiman and CART
-  - What is the Gini coefficient?
-  - How CART handles missing data using surrogates
-  - Changing the settings in KNIME
-  - How CART handles nominal variables
-  - A quick look at the complete CART tree
-  - Evaluating the accuracy of your CART tree
+  - [Introducing Leo Breiman and CART](#introducing-leo-breiman-and-cart)
+  - [What is the Gini coefficient?](#what-is-the-gini-coefficient)
+  - [How CART handles missing data using surrogates](#how-cart-handles-missing-data-using-surrogates)
+  - [Changing the settings in KNIME](#changing-the-settings-in-knime)
+  - [How CART handles nominal variables](#how-cart-handles-nominal-variables)
+  - [A quick look at the complete CART tree](#a-quick-look-at-the-complete-cart-tree)
+  - [Evaluating the accuracy of your CART tree](#evaluating-the-accuracy-of-your-cart-tree)
 - [**4. Introducing Regression Trees**](#4-introducing-regression-trees) (9 videos)
-  - MPG data set
-  - The regression tree prebuilt example
-  - The math behind regression trees
-  - How RT handles nominal variables
-  - Ordinal variable handling
-  - Closer look at a full regression tree
-  - KNIME's missing data options for regression trees
-  - Line plot
-  - Accuracy
+  - [MPG data set](#mpg-data-set)
+  - [The regression tree prebuilt example](#the-regression-tree-prebuilt-example)
+  - [The math behind regression trees](#the-math-behind-regression-trees)
+  - [How RT handles nominal variables](#how-rt-handles-nominal-variables)
+  - [Ordinal variable handling](#ordinal-variable-handling)
+  - [Closer look at a full regression tree](#closer-look-at-a-full-regression-tree)
+  - [KNIME's missing data options for regression trees](#knimes-missing-data-options-for-regression-trees)
+  - [Line plot](#line-plot)
+  - [Accuracy](#accuracy)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of decision trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980)
@@ -136,9 +136,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Decision Trees]] (3), [[Analytics]] (2), career (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [keith] (1)
 
 #### What you should know
@@ -166,8 +166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (4), [[Predictive Analytics]] (1), data (1)
 > **Env Vars:** knime (4)
-> **Code Keywords:** super (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
@@ -211,15 +211,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (4), data (2), node (2), [[Analytics]] (1), next (1)
 > **CLI Commands:** make (2), node (2)
 > **Env Vars:** knime (4)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introducing Decision Trees
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a decision tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980)
@@ -286,8 +286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision Trees]] (5), node (4), data (4), [[Knime]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (4), python (1)
-> **Code Keywords:** finally, (2), this, (1)
 > **Analogies:** for instance (3)
 > **Versions:** 6.7 (1), 62.2 (1)
 > **Env Vars:** knime (1)
@@ -389,8 +389,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Decision Trees]] (2), [[Algorithms]] (2), next (2), [[Forms]] (2)
 > **Analogies:** for instance (3), imagine (1), just like (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -458,10 +458,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (9), [[Decision Trees]] (4), [[Windows]] (4), node (3), [[Analytics]] (2)
 > **Env Vars:** knime (9), examples (1)
 > **CLI Commands:** make (3), node (3), find (1)
 > **UI Navigation:** go to (2), double-click (2), click on (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (3)
 > **Prerequisites:** install (1), setup (1)
 > **Analogies:** for instance (1)
@@ -586,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (3), this. (2)
+> **Frameworks & Libraries:** data (19), node (6), [[Statistics]] (2), [[Decision Trees]] (2), next (1)
 > **CLI Commands:** node (6), find (1)
 > **UI Navigation:** go to (3), click on (3)
 > **Definitions:** means that (2), is a  (1), is called (1)
@@ -657,9 +657,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (6), node (4), [[Algorithms]] (3), [[Windows]] (1), [[Search]] (1)
 > **Env Vars:** knime (6), cart (5)
 > **CLI Commands:** node (4), make (1), python (1)
-> **Code Keywords:** let (3)
 > **Prerequisites:** configure (1), set up (1)
 > **Cross-References:** go back to (1)
 > **Tools:** notion (1)
@@ -669,7 +669,7 @@ created: 2026-04-29
 
 ### 2. Introducing the C5.0 Algorithm
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ross Quinlan, ID3, C4.5, and C5.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980)
@@ -722,9 +722,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (3), node (2), [[IBM SPSS]] (1), data (1), [[Analytics]] (1)
 > **Env Vars:** knime (3), spss (3), id3 (1), ibm (1), gnu (1)
 > **CLI Commands:** node (2), python (1)
-> **Code Keywords:** let (1), public (1)
 > **Versions:** 4.5 (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1), means that (1)
@@ -798,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (3), node (2), [[Algorithms]] (2), hit (1), [[Statistics]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** node (2)
 > **Tools:** notion (1)
@@ -860,9 +860,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Knime]] (3), feature (2), node (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** knime (3)
 > **CLI Commands:** make (1), node (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -931,9 +931,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Knime]] (5), [[Microsoft Excel|Excel]] (3), next (1), ai (1)
 > **Env Vars:** knime (5)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), from. (1), finally, (1)
 > **UI Navigation:** go to (1), click on (1)
 > **File Paths:** cs-training.csv (1)
 > **Exercise Files:** download the (1)
@@ -1069,11 +1069,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), node (5), [[Knime]] (4), [[Search]] (2), data (2)
 > **CLI Commands:** node (5), make (4)
 > **UI Navigation:** click on (4), go to (1)
 > **Env Vars:** knime (4)
 > **Prerequisites:** configure (3), set up (1)
-> **Code Keywords:** let (1), delete (1), this. (1)
 > **Analogies:** for instance (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
@@ -1145,9 +1145,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), [[Microsoft Excel|Excel]] (1), next (1)
 > **Versions:** 4.5 (11)
 > **CLI Commands:** make (3), node (2)
-> **Code Keywords:** finally, (2), let (1), this, (1)
 > **UI Navigation:** click on (2), dropdown (1), checkbox (1)
 > **Env Vars:** cart (1), mdl (1)
 > **Definitions:** is a  (2)
@@ -1197,7 +1197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** feature (1), next (1), [[Zoom]] (1), node (1), data (1)
 > **CLI Commands:** node (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1241,7 +1241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (1)
+> **Frameworks & Libraries:** node (1), next (1)
 > **Versions:** 6.7 (1), 5.6 (1), 55.7 (1)
 > **UI Navigation:** right-click (1), dropdown (1)
 > **CLI Commands:** node (1)
@@ -1300,8 +1300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), prompt (1)
 > **CLI Commands:** node (3)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1361,8 +1361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), [[Zoom]] (1)
 > **Versions:** 91.5 (3), 35.7 (1), 82.5 (1), 43.3 (1), 62.9 (1)
-> **Code Keywords:** let (3), this, (1)
 > **CLI Commands:** node (2), find (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - okay (1)
@@ -1434,8 +1434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), data (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (3), make (1), find (1)
-> **Code Keywords:** let (4), this, (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Versions:** 71.398 (1)
 > **Prerequisites:** configure (1)
@@ -1580,7 +1580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), data (3), node (2)
 > **CLI Commands:** node (2), find (1), make (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (1)
@@ -1590,7 +1590,7 @@ created: 2026-04-29
 
 ### 3. Introducing Classification Trees
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Leo Breiman and CART
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980)
@@ -1659,6 +1659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (3), node (2), [[Thought Leadership]] (1), [[Statistics]] (1), data (1)
 > **Env Vars:** cart (10), knime (3)
 > **CLI Commands:** node (2), python (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1720,8 +1721,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (1), data (1)
 > **CLI Commands:** node (1), find (1)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1812,7 +1813,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), finally, (1), this, (1)
 > **Env Vars:** cart (7)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -1899,7 +1899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1950,7 +1950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** next (1), data (1), node (1)
 > **Versions:** 55.0 (2), 4.5 (2)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** node (1)
@@ -2012,7 +2012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (4), this. (2), default. (1)
+> **Frameworks & Libraries:** node (2), [[Zoom]] (1), data (1), next (1)
 > **UI Navigation:** click on (2), scroll up (1)
 > **CLI Commands:** node (2)
 > **Versions:** 20.6 (1)
@@ -2047,7 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** next (1)
 > **Prerequisites:** configure (1), set up (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** right-click (1)
@@ -2056,7 +2056,7 @@ created: 2026-04-29
 
 ### 4. Introducing Regression Trees
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MPG data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/mpg-data-set?u=76281980)
@@ -2089,8 +2089,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Env Vars:** cart (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2197,7 +2197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), from. (1), this, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (3), [[Knime]] (2), node (2), [[Windows]] (1)
 > **CLI Commands:** make (3), node (2)
 > **UI Navigation:** click on (4), go to (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -2244,7 +2244,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Versions:** 23.8 (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -2352,9 +2351,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (6), node (4), [[Microsoft Excel|Excel]] (2), data (1), [[Zoom]] (1)
 > **Env Vars:** knime (6)
 > **CLI Commands:** node (4), make (1)
-> **Code Keywords:** this. (3), let (1), finally, (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Versions:** 1.5 (3)
 > **Definitions:** is a  (2), means that (1)
@@ -2420,7 +2419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), throw (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Zoom]] (1), node (1)
 > **CLI Commands:** node (1), make (1)
 > **Versions:** 4.5 (2)
 > **Analogies:** similar to (1), for instance (1)
@@ -2502,7 +2501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** next (2), [[Zoom]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -2562,7 +2561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), case, (1)
+> **Frameworks & Libraries:** data (3), [[Decision Trees]] (1), [[Algorithms]] (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -2620,7 +2619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1)
+> **Frameworks & Libraries:** node (1), data (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** node (1), make (1)
 > **Speakers:** - continuing (1)
@@ -2668,7 +2667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (3), [[Time Series Analysis]] (1), [[Linear Regression]] (1), [[Engineering]] (1), [[Knime]] (1)
 > **Env Vars:** knime (1)
 > **Versions:** 73.1 (1)
 > **UI Navigation:** click on (1)
@@ -2679,7 +2678,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980)
@@ -2716,7 +2715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (2), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Knime]] (2), next (1), data (1), [[Algorithms]] (1), feature (1)
 > **Env Vars:** knime (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)

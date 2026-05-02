@@ -39,7 +39,7 @@ tags:
   - skill/data-modeling
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20To%20R%20Wrangling%20Visualizing%20And%20Modeling%20Data.md)
@@ -58,92 +58,92 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Make your data make sense
-  - Using the exercise files
+  - [Make your data make sense](#make-your-data-make-sense)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. What Is R?**](#1-what-is-r) (2 videos)
-  - R in context
-  - Data science with R: A case study
+  - [R in context](#r-in-context)
+  - [Data science with R: A case study](#data-science-with-r-a-case-study)
 - [**2. Getting Started**](#2-getting-started) (10 videos)
-  - Installing R
-  - Environments for R
-  - Installing RStudio
-  - Navigating the RStudio environment
-  - Entering data
-  - Data types and structures
-  - Comments and headers
-  - Packages for R
-  - The tidyverse
-  - Piping commands with %>%
+  - [Installing R](#installing-r)
+  - [Environments for R](#environments-for-r)
+  - [Installing RStudio](#installing-rstudio)
+  - [Navigating the RStudio environment](#navigating-the-rstudio-environment)
+  - [Entering data](#entering-data)
+  - [Data types and structures](#data-types-and-structures)
+  - [Comments and headers](#comments-and-headers)
+  - [Packages for R](#packages-for-r)
+  - [The tidyverse](#the-tidyverse)
+  - [Piping commands with %>%](#piping-commands-with)
 - [**3. Importing Data**](#3-importing-data) (6 videos)
-  - R's built-in datasets
-  - Exploring sample datasets with pacman
-  - Importing data from a spreadsheet
-  - Importing XML data
-  - Importing JSON data
-  - Saving data in native R formats
+  - [R's built-in datasets](#rs-built-in-datasets)
+  - [Exploring sample datasets with pacman](#exploring-sample-datasets-with-pacman)
+  - [Importing data from a spreadsheet](#importing-data-from-a-spreadsheet)
+  - [Importing XML data](#importing-xml-data)
+  - [Importing JSON data](#importing-json-data)
+  - [Saving data in native R formats](#saving-data-in-native-r-formats)
 - [**4. Visualizing Data with ggplot2**](#4-visualizing-data-with-ggplot2) (9 videos)
-  - Introduction to ggplot2
-  - Using colors in R
-  - Using color palettes
-  - Creating bar charts
-  - Creating histograms
-  - Creating box plots
-  - Creating scatterplots
-  - Creating multiple graphs
-  - Creating cluster charts
+  - [Introduction to ggplot2](#introduction-to-ggplot2)
+  - [Using colors in R](#using-colors-in-r)
+  - [Using color palettes](#using-color-palettes)
+  - [Creating bar charts](#creating-bar-charts)
+  - [Creating histograms](#creating-histograms)
+  - [Creating box plots](#creating-box-plots)
+  - [Creating scatterplots](#creating-scatterplots)
+  - [Creating multiple graphs](#creating-multiple-graphs)
+  - [Creating cluster charts](#creating-cluster-charts)
 - [**5. Wrangling Data**](#5-wrangling-data) (10 videos)
-  - Creating tidy data
-  - Using tibbles
-  - Using data.table
-  - Converting data from wide to tall and from tall to wide
-  - Converting data from tables to rows
-  - Working with dates and times
-  - Working with list data
-  - Working with XML data
-  - Working with categorical variables
-  - Filtering cases and subgroups
+  - [Creating tidy data](#creating-tidy-data)
+  - [Using tibbles](#using-tibbles)
+  - [Using data.table](#using-datatable)
+  - [Converting data from wide to tall and from tall to wide](#converting-data-from-wide-to-tall-and-from-tall-to-wide)
+  - [Converting data from tables to rows](#converting-data-from-tables-to-rows)
+  - [Working with dates and times](#working-with-dates-and-times)
+  - [Working with list data](#working-with-list-data)
+  - [Working with XML data](#working-with-xml-data)
+  - [Working with categorical variables](#working-with-categorical-variables)
+  - [Filtering cases and subgroups](#filtering-cases-and-subgroups)
 - [**6. Recoding Data**](#6-recoding-data) (5 videos)
-  - Recoding categorical data
-  - Recoding quantitative data
-  - Transforming outliers
-  - Creating scale scores by counting
-  - Creating scale scores by averaging
+  - [Recoding categorical data](#recoding-categorical-data)
+  - [Recoding quantitative data](#recoding-quantitative-data)
+  - [Transforming outliers](#transforming-outliers)
+  - [Creating scale scores by counting](#creating-scale-scores-by-counting)
+  - [Creating scale scores by averaging](#creating-scale-scores-by-averaging)
 - [**7. An R for Data Science Case Study**](#7-an-r-for-data-science-case-study) (1 videos)
-  - Data science with R: A case study
+  - [Data science with R: A case study](#data-science-with-r-a-case-study)
 - [**8. Exploring Data**](#8-exploring-data) (7 videos)
-  - Computing frequencies
-  - Computing descriptive statistics
-  - Computing correlations
-  - Creating contingency tables
-  - Conducting a principal component analysis
-  - Conducting an item analysis
-  - Conducting a confirmatory factor analysis
+  - [Computing frequencies](#computing-frequencies)
+  - [Computing descriptive statistics](#computing-descriptive-statistics)
+  - [Computing correlations](#computing-correlations)
+  - [Creating contingency tables](#creating-contingency-tables)
+  - [Conducting a principal component analysis](#conducting-a-principal-component-analysis)
+  - [Conducting an item analysis](#conducting-an-item-analysis)
+  - [Conducting a confirmatory factor analysis](#conducting-a-confirmatory-factor-analysis)
 - [**9. Analyzing Data**](#9-analyzing-data) (6 videos)
-  - Comparing proportions
-  - Comparing one mean to a population: One-sample t-test
-  - Comparing paired means: Paired samples t-test
-  - Comparing two means: Independent samples t-test
-  - Comparing multiple means: One-factor analysis of variance
-  - Comparing means with multiple categorical predictors: Factorial analysis of variance
+  - [Comparing proportions](#comparing-proportions)
+  - [Comparing one mean to a population: One-sample t-test](#comparing-one-mean-to-a-population-one-sample-t-test)
+  - [Comparing paired means: Paired samples t-test](#comparing-paired-means-paired-samples-t-test)
+  - [Comparing two means: Independent samples t-test](#comparing-two-means-independent-samples-t-test)
+  - [Comparing multiple means: One-factor analysis of variance](#comparing-multiple-means-one-factor-analysis-of-variance)
+  - [Comparing means with multiple categorical predictors: Factorial analysis of variance](#comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance)
 - [**10. Predicting Outcomes**](#10-predicting-outcomes) (6 videos)
-  - Predicting outcomes with linear regression
-  - Predicting outcomes with lasso regression
-  - Predicting outcomes with quantile regression
-  - Predicting outcomes with logistic regression
-  - Predicting outcomes with Poisson or log-linear regression
-  - Assessing predictions with blocked-entry models
+  - [Predicting outcomes with linear regression](#predicting-outcomes-with-linear-regression)
+  - [Predicting outcomes with lasso regression](#predicting-outcomes-with-lasso-regression)
+  - [Predicting outcomes with quantile regression](#predicting-outcomes-with-quantile-regression)
+  - [Predicting outcomes with logistic regression](#predicting-outcomes-with-logistic-regression)
+  - [Predicting outcomes with Poisson or log-linear regression](#predicting-outcomes-with-poisson-or-log-linear-regression)
+  - [Assessing predictions with blocked-entry models](#assessing-predictions-with-blocked-entry-models)
 - [**11. Clustering and Classifying Cases**](#11-clustering-and-classifying-cases) (5 videos)
-  - Grouping cases with hierarchical clustering
-  - Grouping cases with k-means clustering
-  - Classifying cases with k-nearest neighbors
-  - Classifying cases with decision tree analysis
-  - Creating ensemble models with random forest classification
+  - [Grouping cases with hierarchical clustering](#grouping-cases-with-hierarchical-clustering)
+  - [Grouping cases with k-means clustering](#grouping-cases-with-k-means-clustering)
+  - [Classifying cases with k-nearest neighbors](#classifying-cases-with-k-nearest-neighbors)
+  - [Classifying cases with decision tree analysis](#classifying-cases-with-decision-tree-analysis)
+  - [Creating ensemble models with random forest classification](#creating-ensemble-models-with-random-forest-classification)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Make your data make sense
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=76281980)
@@ -166,8 +166,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Programming]] (2), open-source (1), [[Statistical Analysis]] (1), power (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -198,6 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** exercise files (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** readme (1)
@@ -206,7 +207,7 @@ created: 2026-04-29
 
 ### 1. What Is R?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### R in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980)
@@ -323,11 +324,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), [[Python (Programming Language)|Python]] (10), application (5), [[Programming]] (4), business (3)
 > **CLI Commands:** python (10), make (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** spss (2), sql (1)
 > **Prerequisites:** you'll need (3)
-> **Code Keywords:** let (1), from. (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** dropdown (1)
 > **Best Practices:** general rule (1)
@@ -593,7 +594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (3), self (2), raise (1)
+> **Frameworks & Libraries:** data (9), [[Zoom]] (5), [[Statistics]] (2), product (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (2)
@@ -603,7 +604,7 @@ created: 2026-04-29
 
 ### 2. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980)
@@ -646,6 +647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), application (2), [[Windows]] (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Prerequisites:** install (2), getting started (1)
 > **Code Identifiers:** macos (1)
@@ -733,11 +735,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), data (3), application (2), [[RStudio]] (2), [[Google]] (2)
 > **Definitions:** is a  (5), known as (1)
 > **CLI Commands:** make (4), python (1)
 > **URLs:** [posit.cloud](https://posit.cloud) (3), [posit.co](https://posit.co) (1)
 > **UI Navigation:** go to (2), click on (1), dropdown (1)
-> **Code Keywords:** interface (2), for. (1)
 > **Tools:** colab (2)
 > **Prerequisites:** install (1), set up (1)
 > **Env Vars:** spss (1)
@@ -753,11 +755,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[RStudio]] (8), [[Windows]] (1), [[Linux]] (1), application (1), hit (1)
 > **Env Vars:** download (2), rstudio (2), ide (1)
 > **URLs:** [posit.co](https://posit.co) (2), [rstudio.com](https://rstudio.com) (1)
 > **UI Navigation:** click on (2)
 > **Prerequisites:** install (2)
-> **Code Keywords:** interface (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is an  (1)
@@ -905,7 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3), case, (1)
+> **Frameworks & Libraries:** data (8), [[Zoom]] (7), [[RStudio]] (4), next (2), [[GitHub]] (1)
 > **Analogies:** for instance (3), picture (2), similar to (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** terminal (1), bash (1), github (1)
@@ -1051,7 +1053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), return, (1), function (1), this, (1), case, (1)
+> **Frameworks & Libraries:** data (4), hit (2), [[Programming]] (2), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** it's like (1), think of it as (1)
 > **CLI Commands:** python (1)
@@ -1364,7 +1366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (5), type, (2), this, (1), for. (1)
+> **Frameworks & Libraries:** data (28), next (3), [[Microsoft Word|Word]] (2), [[JSON]] (1), [[Zoom]] (1)
 > **Definitions:** is a  (5), is an  (2), short for (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** true (3), false (1), json (1), xml (1)
@@ -1480,7 +1482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), function (2), let (2)
+> **Frameworks & Libraries:** data (4), [[Programming]] (1), [[Metadata]] (1), next (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (2)
@@ -1594,7 +1596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default. (1), case, (1), require (1), this. (1)
+> **Frameworks & Libraries:** data (4), [[Programming]] (1), [[Search]] (1), [[Decision Trees]] (1), hit (1)
 > **UI Navigation:** click on (4), scroll down (2), go to (1)
 > **Env Vars:** cran (3), car (2), pdf (1)
 > **Definitions:** stands for (3), is a  (1)
@@ -1650,8 +1652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Search]] (1), [[Functional Programming]] (1)
 > **Definitions:** is a  (3), is called (1), refers to (1)
-> **Code Keywords:** self (2), import. (1), let (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** install (3)
@@ -1783,7 +1785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (3), else. (2), this, (2), this. (2)
+> **Frameworks & Libraries:** data (7), next (3), [[Programming]] (1), feature (1)
 > **Analogies:** for instance (2), for example (1), think of it as (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
@@ -1795,7 +1797,7 @@ created: 2026-04-29
 
 ### 3. Importing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### R's built-in datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-s-built-in-datasets?u=76281980)
@@ -1888,7 +1890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), default. (1), require (1)
+> **Frameworks & Libraries:** data (21), next (1)
 > **Definitions:** is a  (3), known as (1)
 > **UI Navigation:** click on (2), open the (1)
 > **CLI Commands:** make (1), find (1)
@@ -2033,10 +2035,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (34), [[Statistics]] (4), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** p_data (5), p_load (2), up_data (1)
 > **Definitions:** is a  (6), stands for (2)
 > **Env Vars:** mass (2), car (1), iris (1), nlme (1), qcc (1)
-> **Code Keywords:** let (3), function (2), this, (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for instance (2), for example (1)
 > **Prerequisites:** install (1), set up (1)
@@ -2105,7 +2107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), from. (1), default, (1)
+> **Frameworks & Libraries:** data (21), [[Google]] (3), [[Microsoft Excel|Excel]] (2), [[Zoom]] (2), business (1)
 > **Definitions:** is a  (2), stands for (2), is an  (1)
 > **Code Identifiers:** read_csv (2)
 > **Env Vars:** csv (2)
@@ -2201,7 +2203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), this. (2), function (2), override (1)
+> **Frameworks & Libraries:** data (26), [[Zoom]] (4), web (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** xml (8), url (3), xml2r (1), xml2 (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -2335,8 +2337,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[JSON]] (7), [[Zoom]] (3), web (1), [[Java]] (1)
 > **Env Vars:** json (7), xml (4), url (2), api (1)
-> **Code Keywords:** let (5), this. (3), this, (1), for, (1), for. (1)
 > **UI Navigation:** select the (4), go to (1)
 > **Definitions:** is a  (2), stands for (1), short for (1)
 > **CLI Commands:** find (2), make (1)
@@ -2512,7 +2514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1), function (1), import. (1), default, (1)
+> **Frameworks & Libraries:** data (29), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** rds (5), csv (2)
 > **Code Identifiers:** write_rds (2), read_rds (2), saverds (1)
 > **Definitions:** is a  (3), stands for (2)
@@ -2522,7 +2524,7 @@ created: 2026-04-29
 
 ### 4. Visualizing Data with ggplot2
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ggplot2
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/introduction-to-ggplot2?u=76281980)
@@ -2603,7 +2605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), from, (1), abstract (1), finally, (1)
+> **Frameworks & Libraries:** data (8), power (2)
 > **Env Vars:** geom (2), aes (1), facet (1), pdf (1)
 > **Definitions:** stands for (2), is a  (1)
 > **Analogies:** for instance (2)
@@ -2731,7 +2733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (4), web (2), [[Google]] (1), [[Microsoft Excel|Excel]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), short for (1), stands for (1)
 > **Env Vars:** rgb (2), pdf (1)
@@ -2948,7 +2950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (1), case. (1), for, (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), data (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** rgb (1), jama (1)
@@ -3224,7 +3226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (1), switch (1), case. (1), from, (1)
+> **Frameworks & Libraries:** data (10), next (2), generic (2), [[Statistics]] (1), power (1)
 > **Code Identifiers:** geom_bar (3), position_dodge (2), coord_flip (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (2)
@@ -3376,7 +3378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), this. (1), super (1), this, (1)
+> **Frameworks & Libraries:** data (10), [[Probability]] (3), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for instance (1), similar to (1)
@@ -3505,7 +3507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (3), this. (2), function (1)
+> **Frameworks & Libraries:** data (6), [[Zoom]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1)
@@ -3668,7 +3670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this, (2), this. (2)
+> **Frameworks & Libraries:** data (9), [[Zoom]] (3)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), stands for (1), is an  (1)
 > **Code Identifiers:** geom_point (2)
@@ -3773,7 +3775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), else. (1), function (1), finally, (1)
+> **Frameworks & Libraries:** next (3), data (1), game (1), [[Zoom]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -3998,7 +4000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), function (2), this, (1)
+> **Frameworks & Libraries:** data (16), generic (2), [[Zoom]] (2), [[Statistics]] (1)
 > **Definitions:** is a  (3), stands for (2), means that (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** rx4 (2)
@@ -4010,7 +4012,7 @@ created: 2026-04-29
 
 ### 5. Wrangling Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating tidy data
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-tidy-data?u=76281980)
@@ -4199,7 +4201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), this, (2), case. (1), finally, (1)
+> **Frameworks & Libraries:** data (48), [[JSON]] (3), [[JavaScript]] (1), web (1), generic (1)
 > **Env Vars:** xml (11), json (3)
 > **Definitions:** is a  (11), stands for (1)
 > **CLI Commands:** make (5)
@@ -4351,7 +4353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), for. (2), this. (1), function (1)
+> **Frameworks & Libraries:** data (16), [[Zoom]] (3)
 > **CLI Commands:** make (6)
 > **Definitions:** is an  (2), short for (1), is a  (1)
 > **Code Identifiers:** as_tibble (1)
@@ -4481,7 +4483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), while, (1), finally, (1)
+> **Frameworks & Libraries:** data (30), [[Zoom]] (2), parallel (1), web (1), [[Statistics]] (1)
 > **Env Vars:** url (3), httr (2), csv (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (2)
@@ -4580,7 +4582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1), function (1)
+> **Frameworks & Libraries:** data (17), [[Zoom]] (2), generic (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Code Identifiers:** df_wide (1)
 > **Env Vars:** mass (1)
@@ -4706,7 +4708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), this. (2), super (2), this, (1)
+> **Frameworks & Libraries:** data (13), [[Zoom]] (2)
 > **Definitions:** is a  (5), stands for (1)
 > **Env Vars:** ucb (5)
 > **CLI Commands:** make (2), find (1)
@@ -4873,7 +4875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), from. (1), case, (1), for. (1)
+> **Frameworks & Libraries:** data (21), [[Zoom]] (2)
 > **Env Vars:** roi (3), gam (1), smi (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), find (1)
@@ -4902,7 +4904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), this, (1)
+> **Frameworks & Libraries:** data (15), [[Zoom]] (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** means that (1), short for (1), is a  (1)
 > **Env Vars:** sql (1)
@@ -5046,7 +5048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), for. (2), this, (1), function (1), this. (1)
+> **Frameworks & Libraries:** data (17), [[JSON]] (2), [[Statistics]] (2), web (1)
 > **Env Vars:** xml (6), url (3), json (2)
 > **Code Identifiers:** unnest_wider (3), read_xml (1), unnest_longer (1), row_id (1), str_squish (1)
 > **UI Navigation:** click on (1), select the (1)
@@ -5138,7 +5140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (2), case, (2), override (1), finally, (1)
+> **Frameworks & Libraries:** data (14), [[Zoom]] (3), [[Statistics]] (1), next (1)
 > **Definitions:** is a  (4), stands for (1)
 > **Code Identifiers:** group_by (1), as_tibble (1)
 > **CLI Commands:** find (1)
@@ -5317,7 +5319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (2), this, (1)
+> **Frameworks & Libraries:** data (13), [[Zoom]] (6), [[Search]] (5), [[Google]] (3), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** psychregions (2)
 > **Definitions:** is an  (1), defined as (1)
@@ -5329,7 +5331,7 @@ created: 2026-04-29
 
 ### 6. Recoding Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recoding categorical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980)
@@ -5546,8 +5548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Android]] (5), [[Zoom]] (4), [[Representational State Transfer (REST)|Rest]] (4), power (1)
 > **Code Identifiers:** ios (7), fct_relevel (1), fct_infreq (1), unknown_other (1), fct_lump (1)
-> **Code Keywords:** function (3), this. (1), let (1), finally, (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (4)
 > **Env Vars:** fct (1), os_2010 (1)
@@ -5658,7 +5660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (2), case, (2), for. (1)
+> **Frameworks & Libraries:** data (10), [[Zoom]] (1)
 > **Analogies:** for instance (3), for example (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** false (1), true (1), mmpi (1)
@@ -5887,7 +5889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (3), throw (2), function (2), this, (1)
+> **Frameworks & Libraries:** data (15), [[Zoom]] (5), [[Algorithms]] (1), [[Decision Trees]] (1), [[Neural Networks]] (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
@@ -6004,8 +6006,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Search]] (4), [[Zoom]] (3), [[Google]] (2)
 > **Code Identifiers:** moderndance (4), artscount (4), case_when (2), state_code (1), likearts (1)
-> **Code Keywords:** let (8), function (3)
 > **Definitions:** means that (2), is a  (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** true (1)
@@ -6080,7 +6082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), let (2), function (2), this, (1)
+> **Frameworks & Libraries:** data (4), [[Search]] (4), [[Zoom]] (2), [[Google]] (1), next (1)
 > **Code Identifiers:** artscrafts (2), rowmeans (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.83 (1)
@@ -6090,7 +6092,7 @@ created: 2026-04-29
 
 ### 7. An R for Data Science Case Study
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science with R: A case study
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980)
@@ -6487,7 +6489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), this, (6), function (2), this. (2), class, (1)
+> **Frameworks & Libraries:** data (39), [[Zoom]] (7), [[Decision Trees]] (4), [[Statistics]] (2), [[Statistical Analysis]] (1)
 > **Definitions:** is a  (9), is an  (1), is called (1)
 > **Versions:** 3.13 (1), 2.89 (1), 61.8 (1), 57.6 (1), 3.7 (1)
 > **CLI Commands:** find (4), make (1)
@@ -6499,7 +6501,7 @@ created: 2026-04-29
 
 ### 8. Exploring Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
@@ -6614,7 +6616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), this, (1), for, (1), this. (1)
+> **Frameworks & Libraries:** data (13), [[Zoom]] (2), [[RStudio]] (1), [[Google]] (1), [[Search]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** psychregions (2), psychregion (1)
 > **UI Navigation:** go to (2), open the (1)
@@ -6802,7 +6804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (6), this, (1), case, (1), else, (1)
+> **Frameworks & Libraries:** data (17), [[Statistics]] (8), [[Zoom]] (8), [[Google]] (5), [[Search]] (3)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (2), similar to (1)
@@ -6958,8 +6960,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (11), data (4), [[Google]] (2), [[Zoom]] (2), [[Privacy]] (2)
 > **Versions:** 0.04 (2), 1.00 (1), 0.12 (1), 0.55 (1), 0.15 (1)
-> **Code Keywords:** let (5), this, (2), function (2)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdpr (1)
@@ -7105,7 +7107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (3), this, (2), else. (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[Search]] (2), [[Google]] (1), [[Zoom]] (1)
 > **Code Identifiers:** psychregions (4), prop_table (3), fct_recode (1), rowsums (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** select the (1)
@@ -7378,7 +7380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), this, (3), for. (2), this. (1)
+> **Frameworks & Libraries:** data (21), [[Zoom]] (8), next (2), power (1), [[Programming]] (1)
 > **Definitions:** is a  (6), is called (1), stands for (1), is an  (1)
 > **Env Vars:** vss (3), gpa (1), bic (1), mr1 (1)
 > **CLI Commands:** find (2)
@@ -7732,7 +7734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), let (6), this, (4), case. (2), abstract (1)
+> **Frameworks & Libraries:** data (23), [[Zoom]] (7), [[Statistics]] (4), next (2), hit (1)
 > **Definitions:** is a  (6), means that (1)
 > **Env Vars:** gpa (1), csv (1), spss (1), rev_1_5 (1), o10 (1)
 > **Versions:** 0.7 (2), 0.8 (1), 9.8 (1), 0.79 (1)
@@ -7828,7 +7830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), this, (2), let (2), function (1)
+> **Frameworks & Libraries:** data (8), [[Zoom]] (1)
 > **Env Vars:** cfa (4), scm (1), tilda (1)
 > **CLI Commands:** make (5)
 > **Versions:** 0.735 (1), 0.748 (1), 0.9 (1), 0.95 (1)
@@ -7838,7 +7840,7 @@ created: 2026-04-29
 
 ### 9. Analyzing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
@@ -8005,7 +8007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), else, (1), finally, (1)
+> **Frameworks & Libraries:** data (9), [[Zoom]] (2), [[Probability]] (2)
 > **Versions:** 0.5 (2), 18.8 (2), 12.42 (1), 0.0004247 (1), 58.9 (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is called (1)
@@ -8124,8 +8126,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), hit (1), [[Statistics]] (1), generic (1), [[Zoom]] (1)
 > **Versions:** 4.6 (4), 4.3 (1), 4.9 (1), 4.62 (1), 362.76 (1)
-> **Code Keywords:** let (4), function (2), this, (1), case, (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
@@ -8335,7 +8337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), class. (1), from. (1), this. (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft Products|Products]] (3), parallel (2)
 > **Versions:** 12.066 (2), 13.69 (1), 10.26 (1), 13.86 (1), 2.3448 (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (5)
@@ -8528,8 +8530,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Zoom]] (2), next (1), generic (1)
 > **Versions:** 1.86 (2), 17.776 (1), 0.07 (1), 0.75 (1), 2.33 (1)
-> **Code Keywords:** let (6), function (2), this. (1)
 > **Definitions:** is a  (4), is an  (1), is called (1), stands for (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -8715,7 +8717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (7), this, (3)
+> **Frameworks & Libraries:** data (9), [[Search]] (7), [[Zoom]] (3), [[Google]] (2), [[Probability]] (2)
 > **Code Identifiers:** psychregions (5), describeby (4)
 > **Definitions:** is a  (5), means that (1), stands for (1)
 > **Env Vars:** anova (4), aov (1)
@@ -8909,7 +8911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (1), function (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** data (19), [[Zoom]] (2), [[Statistics]] (2), generic (2), [[Probability]] (2)
 > **Versions:** 3.765 (1), 0.000693 (1), 0.001 (1), 4.189 (1), 2.889 (1)
 > **Definitions:** is a  (4), is an  (1), means that (1)
 > **CLI Commands:** make (3), yarn (1)
@@ -8921,7 +8923,7 @@ created: 2026-04-29
 
 ### 10. Predicting Outcomes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Predicting outcomes with linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980)
@@ -9128,7 +9130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), return. (1), case, (1), function (1)
+> **Frameworks & Libraries:** data (16), [[Zoom]] (8), [[Linear Regression]] (5), bi (3), [[Probability]] (2)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
@@ -9296,7 +9298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), override (1), else, (1), type, (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Linear Regression]] (1), generic (1), data (1)
 > **Definitions:** is a  (3), stands for (2), is an  (2)
 > **Code Identifiers:** fit_step (2), rename_all (1), fit_lasso (1)
 > **CLI Commands:** find (1), make (1)
@@ -9412,7 +9414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), case, (1)
+> **Frameworks & Libraries:** data (9), bi (4), [[Linear Regression]] (2), [[Google]] (2), [[Zoom]] (2)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
 > **Versions:** 0.5 (3)
@@ -9688,7 +9690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (6), case, (1), else, (1), this, (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (8), [[Probability]] (7), data (6), [[Zoom]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (8), stands for (1)
 > **Env Vars:** glm (2), roc (2), gpa (1)
 > **CLI Commands:** make (3)
@@ -9802,7 +9804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), this, (1)
+> **Frameworks & Libraries:** data (7), [[Zoom]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** glm (1)
 > **Prerequisites:** set up (1)
@@ -10025,7 +10027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), this. (3), let (1), function (1)
+> **Frameworks & Libraries:** data (11), application (6), [[Windows]] (1), [[Linux]] (1), hit (1)
 > **CLI Commands:** find (3), make (3)
 > **Versions:** 0.0168 (1), 1.5 (1), 0.0249 (1), 0.00814 (1), 0.06 (1)
 > **Prerequisites:** set up (4), install (1)
@@ -10037,7 +10039,7 @@ created: 2026-04-29
 
 ### 11. Clustering and Classifying Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping cases with hierarchical clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980)
@@ -10284,7 +10286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3), this, (2), this. (2), super (1)
+> **Frameworks & Libraries:** data (13), [[Search]] (6), [[Google]] (5), [[Zoom]] (5), generic (1)
 > **CLI Commands:** make (5), find (4)
 > **Definitions:** is a  (5), is called (3)
 > **Analogies:** similar to (5), for example (1), imagine (1)
@@ -10478,7 +10480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), for, (1), case, (1), this, (1), let (1)
+> **Frameworks & Libraries:** data (13), [[Zoom]] (2), [[k-means clustering]] (1), next (1)
 > **Env Vars:** rx4 (1), fun (1), z28 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -10742,7 +10744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), case, (1), this, (1), case. (1)
+> **Frameworks & Libraries:** data (34), [[Zoom]] (3), [[Statistics]] (2), [[Algorithms]] (1)
 > **Definitions:** is an  (3), is a  (2), short for (1), stands for (1)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 4.3 (1), 2.6 (1), 0.56 (1), 56.08 (1)
@@ -10948,7 +10950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class, (2), var (1), function (1), this, (1)
+> **Frameworks & Libraries:** data (28), [[Zoom]] (6), [[Statistics]] (3), [[Decision Trees]] (2), [[E-Commerce]] (1)
 > **Definitions:** is a  (4), short for (1), stands for (1)
 > **Versions:** 4.1 (2), 4.05 (1), 2.9 (1)
 > **CLI Commands:** make (1)
@@ -11152,7 +11154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), case, (1)
+> **Frameworks & Libraries:** data (22), [[Decision Trees]] (9), [[Zoom]] (4), parallel (3), next (2)
 > **Definitions:** is an  (2), is a  (2), known as (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** oob (1)
@@ -11164,7 +11166,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)
@@ -11215,8 +11217,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Programming]] (2), business (2), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** sas (1)
 > **Speakers:** - [instructor] (1)
 

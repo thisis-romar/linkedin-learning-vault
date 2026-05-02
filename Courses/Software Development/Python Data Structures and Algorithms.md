@@ -36,7 +36,7 @@ tags:
   - skill/python-programming-language
   - skill/algorithms
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md)
@@ -55,55 +55,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Python data structures and algorithms in action
-  - What you should know
+  - [Python data structures and algorithms in action](#python-data-structures-and-algorithms-in-action)
+  - [What you should know](#what-you-should-know)
 - [**1. Pathfinding Algorithms in a Maze Game**](#1-pathfinding-algorithms-in-a-maze-game) (2 videos)
-  - Understand the example application
-  - Navigate the GUI
+  - [Understand the example application](#understand-the-example-application)
+  - [Navigate the GUI](#navigate-the-gui)
 - [**2. The Stack Data Structure**](#2-the-stack-data-structure) (3 videos)
-  - Understand the stack data structure
-  - Build a stack class in Python
-  - Solution: Reverse a string using a stack
+  - [Understand the stack data structure](#understand-the-stack-data-structure)
+  - [Build a stack class in Python](#build-a-stack-class-in-python)
+  - [Solution: Reverse a string using a stack](#solution-reverse-a-string-using-a-stack)
 - [**3. The 2D List Data Structure**](#3-the-2d-list-data-structure) (5 videos)
-  - Understand the 2D list data structure
-  - Represent a maze as a 2D list
-  - Read a maze from a text file
-  - Challenge: Read and display a maze from a text file
-  - Solution: Read and display a maze from a text file
+  - [Understand the 2D list data structure](#understand-the-2d-list-data-structure)
+  - [Represent a maze as a 2D list](#represent-a-maze-as-a-2d-list)
+  - [Read a maze from a text file](#read-a-maze-from-a-text-file)
+  - [Challenge: Read and display a maze from a text file](#challenge-read-and-display-a-maze-from-a-text-file)
+  - [Solution: Read and display a maze from a text file](#solution-read-and-display-a-maze-from-a-text-file)
 - [**4. Depth-First Search Algorithm**](#4-depth-first-search-algorithm) (6 videos)
-  - Understand the depth-first search algorithm
-  - Visualize depth-first search on a grid
-  - Use the Grid Tracer app
-  - Code a depth-first search in Python
-  - Challenge: Trace the path of a depth-first search
-  - Solution: Trace the path of a depth-first search
+  - [Understand the depth-first search algorithm](#understand-the-depth-first-search-algorithm)
+  - [Visualize depth-first search on a grid](#visualize-depth-first-search-on-a-grid)
+  - [Use the Grid Tracer app](#use-the-grid-tracer-app)
+  - [Code a depth-first search in Python](#code-a-depth-first-search-in-python)
+  - [Challenge: Trace the path of a depth-first search](#challenge-trace-the-path-of-a-depth-first-search)
+  - [Solution: Trace the path of a depth-first search](#solution-trace-the-path-of-a-depth-first-search)
 - [**5. The Queue Data Structure**](#5-the-queue-data-structure) (3 videos)
-  - Understand the queue data structure
-  - Build a queue class in Python
-  - Solution: Practice queue methods
+  - [Understand the queue data structure](#understand-the-queue-data-structure)
+  - [Build a queue class in Python](#build-a-queue-class-in-python)
+  - [Solution: Practice queue methods](#solution-practice-queue-methods)
 - [**6. The Breadth-First Search Algorithm**](#6-the-breadth-first-search-algorithm) (5 videos)
-  - Understand the breadth-first search algorithm
-  - Visualize breadth-first search in a grid
-  - Code a breadth-first search in Python
-  - Challenge: Trace the path of a breadth-first search
-  - Solution: Trace the path of a breadth-first search
+  - [Understand the breadth-first search algorithm](#understand-the-breadth-first-search-algorithm)
+  - [Visualize breadth-first search in a grid](#visualize-breadth-first-search-in-a-grid)
+  - [Code a breadth-first search in Python](#code-a-breadth-first-search-in-python)
+  - [Challenge: Trace the path of a breadth-first search](#challenge-trace-the-path-of-a-breadth-first-search)
+  - [Solution: Trace the path of a breadth-first search](#solution-trace-the-path-of-a-breadth-first-search)
 - [**7. The Priority Queue Data Structure**](#7-the-priority-queue-data-structure) (3 videos)
-  - Understand the priority queue data structure
-  - Use the heap module to implement a priority queue
-  - Solution: Heapq methods practice
+  - [Understand the priority queue data structure](#understand-the-priority-queue-data-structure)
+  - [Use the heap module to implement a priority queue](#use-the-heap-module-to-implement-a-priority-queue)
+  - [Solution: Heapq methods practice](#solution-heapq-methods-practice)
 - [**8. The A* Search Algorithm**](#8-the-a-search-algorithm) (5 videos)
-  - Understand the A* search algorithm
-  - Visualize the A* algorithm
-  - Code the A* algorithm in Python
-  - Challenge: Trace the path of an A* search
-  - Solution: Trace the path of an A* search
+  - [Understand the A* search algorithm](#understand-the-a-search-algorithm)
+  - [Visualize the A* algorithm](#visualize-the-a-algorithm)
+  - [Code the A* algorithm in Python](#code-the-a-algorithm-in-python)
+  - [Challenge: Trace the path of an A* search](#challenge-trace-the-path-of-an-a-search)
+  - [Solution: Trace the path of an A* search](#solution-trace-the-path-of-an-a-search)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Pathfinding algorithms in the course maze GUI
-  - Parting comments and what comes next
+  - [Pathfinding algorithms in the course maze GUI](#pathfinding-algorithms-in-the-course-maze-gui)
+  - [Parting comments and what comes next](#parting-comments-and-what-comes-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python data structures and algorithms in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980)
@@ -130,6 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (4), data (4), [[Search]] (2), [[Google]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** required to (1)
@@ -154,16 +155,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** python (3)
 > **Env Vars:** ide (1), idle (1)
 > **Tools:** pycharm (1), visual studio (1)
-> **Code Keywords:** default, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Pathfinding Algorithms in a Maze Game
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the example application
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980)
@@ -332,7 +333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), module (2), interface (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (8), game (7), [[Algorithms]] (6), [[Python (Programming Language)|Python]] (2), data (1)
 > **Env Vars:** gui (6), ide (2), f10 (1)
 > **CLI Commands:** python (2), find (2), pip (2)
 > **Tools:** pycharm (3)
@@ -400,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (5), [[Algorithms]] (2), game (1), data (1)
 > **Env Vars:** gui (3), dfs (1)
 > **File Paths:** maze_gui_game.py (1), maze_gui_explore.py (1)
 > **CLI Commands:** find (2)
@@ -412,7 +413,7 @@ created: 2026-04-29
 
 ### 2. The Stack Data Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the stack data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980)
@@ -471,8 +472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Programming]] (2), [[Microsoft Word|Word]] (2), next (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** finally, (1), function (1)
 > **Env Vars:** lifo (1), cpu (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -748,7 +749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (17), let (14), pass (3), function (3), case, (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (2), feature (1), next (1)
 > **CLI Commands:** python (6), make (6), find (2)
 > **Tools:** terminal (5), pycharm (3)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -763,7 +764,7 @@ created: 2026-04-29
 
 ### 3. The 2D List Data Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the 2D list data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-2d-list-data-structure?u=76281980)
@@ -806,8 +807,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2), game (1), [[Programming]] (1)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** type, (1), this. (1)
 > **Code Identifiers:** my_list (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -905,8 +906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), next (1)
 > **CLI Commands:** node (2), python (2)
-> **Code Keywords:** let (1), finally, (1), case, (1)
 > **Env Vars:** ida (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1034,7 +1035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2)
+> **Frameworks & Libraries:** game (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **UI Navigation:** go to (3), open the (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** read_maze (1)
@@ -1061,7 +1062,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **File Paths:** challenge_maze.txt (1)
-> **Code Keywords:** function (1)
 > **Code Identifiers:** challenge_maze (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
@@ -1088,8 +1088,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** read_maze (2), challenge_maze (2)
-> **Code Keywords:** this, (1), let (1), function (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instuctor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1097,7 +1097,7 @@ created: 2026-04-29
 
 ### 4. Depth-First Search Algorithm
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the depth-first search algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-depth-first-search-algorithm?u=76281980)
@@ -1164,8 +1164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), data (1), [[Simulation]] (1), game (1)
 > **Env Vars:** dfs (5), gui (4), f10 (3)
-> **Code Keywords:** let (5), case, (1), continue (1), if, (1)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** maze_gui_explore (1)
 > **Cross-References:** go back to (1)
@@ -1264,7 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (5), case, (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Python (Programming Language)|Python]] (1), data (1), next (1), [[Algorithms]] (1)
 > **CLI Commands:** python (1), find (1), make (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
@@ -1340,7 +1340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Algorithms]] (1)
 > **File Paths:** index.html (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), picture (1)
@@ -1624,7 +1624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (7), this, (4), assert (4), finally, (2)
+> **Frameworks & Libraries:** [[Search]] (4), [[Python (Programming Language)|Python]] (2), node (1), [[Test-Driven Development]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** current_cell (6), row_offset (3), col_offset (3), is_legal_pos (2), get_path (2)
 > **CLI Commands:** find (4), python (2), make (2), node (1)
 > **Definitions:** is a  (6), means that (1)
@@ -1655,7 +1655,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** dfs (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1689,7 +1688,7 @@ created: 2026-04-29
 
 ### 5. The Queue Data Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the queue data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-queue-data-structure?u=76281980)
@@ -1732,6 +1731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (3), [[Algorithms]] (1)
 > **Env Vars:** fifo (2), cpu (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), compare this to (1)
@@ -1866,7 +1866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (11), let (7), module (4), this, (2), override (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (5), feature (1), next (1), [[Search]] (1)
 > **CLI Commands:** python (5), make (2), find (1)
 > **File Paths:** q_ll.py (1), q.py (1)
 > **Code Identifiers:** q_ll (1), q_llq (1)
@@ -1881,7 +1881,7 @@ created: 2026-04-29
 
 ### 6. The Breadth-First Search Algorithm
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the breadth-first search algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980)
@@ -1958,8 +1958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), application (3), [[Vertex]] (2), data (1), node (1)
 > **Env Vars:** bfs (5), gui (1), maze_file (1), f10 (1), dfs (1)
-> **Code Keywords:** let (3), else, (1)
 > **File Paths:** maze_gui_explore.py (2), gui_mazes/walled_garden_20x20.txt (1)
 > **Code Identifiers:** maze_gui_explore (2), gui_mazes (1)
 > **CLI Commands:** find (1), node (1)
@@ -2095,7 +2095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), from, (1)
+> **Frameworks & Libraries:** [[Search]] (2), data (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** fifo (1)
 > **Definitions:** is a  (1)
@@ -2243,7 +2243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), module (1), while. (1), case. (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Python (Programming Language)|Python]] (2), [[Grit]] (1), data (1)
 > **Env Vars:** dfs (4), bfs (3)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Non-Speech:** (keyboard clicking) (4), (mouse clicking) (1)
@@ -2269,6 +2269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Env Vars:** ita (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2299,7 +2300,7 @@ created: 2026-04-29
 
 ### 7. The Priority Queue Data Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the priority queue data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980)
@@ -2340,6 +2341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), management (1), [[Statistical Analysis]] (1)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2553,7 +2555,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (11), let (8), interface (3), module (2), finally, (2)
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **CLI Commands:** make (4), python (1)
 > **Tools:** terminal (2)
 > **Env Vars:** len (1)
@@ -2566,7 +2568,7 @@ created: 2026-04-29
 
 ### 8. The A* Search Algorithm
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the A* search algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980)
@@ -2663,9 +2665,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), next (2), traffic (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Algorithms]] (1)
 > **Env Vars:** bfs (2), gps (1), gui (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** let (2), abstract (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), defined as (1)
 > **Best Practices:** rule of thumb (2)
@@ -2948,7 +2950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (2), from. (1), from, (1)
+> **Frameworks & Libraries:** [[Search]] (4), next (3), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -3108,8 +3110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Search]] (2)
 > **Code Identifiers:** g_values (7), current_cell (5), new_cost (4), a_star (3), f_value (3)
-> **Code Keywords:** let (3), finally, (2), return. (1), this. (1), throw (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Analogies:** for example (1), similar to (1)
 > **Prerequisites:** setup (2)
@@ -3138,8 +3140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - here (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -3194,7 +3196,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), assert (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** bfs (2)
 > **Analogies:** similar to (1), for example (1)
@@ -3204,7 +3205,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pathfinding algorithms in the course maze GUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980)
@@ -3297,10 +3298,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tkinter]] (11), [[Python (Programming Language)|Python]] (6), [[Algorithms]] (2), [[Search]] (1), data (1)
 > **CLI Commands:** python (6), find (1)
 > **Env Vars:** gui (5), bfs (1)
 > **Definitions:** is a  (4), is an  (2)
-> **Code Keywords:** let (2), module (2), this. (1)
 > **Cross-References:** coming up (1), as we saw (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -3346,6 +3347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (6), data (2), next (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** gui (1)
 > **Definitions:** is a  (1)

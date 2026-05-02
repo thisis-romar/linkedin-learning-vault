@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20XAI-%20Explainable%20Artificial%20Intelligence.md)
@@ -53,50 +53,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - XAI: the key to fair and transparent AI for all
+  - [XAI: the key to fair and transparent AI for all](#xai-the-key-to-fair-and-transparent-ai-for-all)
 - [**1. Understanding the AI Landscape**](#1-understanding-the-ai-landscape) (3 videos)
-  - Bias in AI and its impact
-  - How does generative AI work
-  - Challenges of bias mitigation
+  - [Bias in AI and its impact](#bias-in-ai-and-its-impact)
+  - [How does generative AI work](#how-does-generative-ai-work)
+  - [Challenges of bias mitigation](#challenges-of-bias-mitigation)
 - [**2. Bias in GenAI**](#2-bias-in-genai) (3 videos)
-  - Bias in data: "Bad data in, bad data out"
-  - Prompt engineering crash course
-  - Bias in mathetmical assumptions
+  - [Bias in data: "Bad data in, bad data out"](#bias-in-data-bad-data-in-bad-data-out)
+  - [Prompt engineering crash course](#prompt-engineering-crash-course)
+  - [Bias in mathetmical assumptions](#bias-in-mathetmical-assumptions)
 - [**3. Bias in Model Training**](#3-bias-in-model-training) (7 videos)
-  - Introduction to GenAI model training
-  - Demographic parity and its applications
-  - Equal opportunity parity for evaluating fairness
-  - Equalized odds parity to compare subgroup performance
-  - HELM
-  - Red-teaming
-  - Exercise: Building an evaluation pipeline
+  - [Introduction to GenAI model training](#introduction-to-genai-model-training)
+  - [Demographic parity and its applications](#demographic-parity-and-its-applications)
+  - [Equal opportunity parity for evaluating fairness](#equal-opportunity-parity-for-evaluating-fairness)
+  - [Equalized odds parity to compare subgroup performance](#equalized-odds-parity-to-compare-subgroup-performance)
+  - [HELM](#helm)
+  - [Red-teaming](#red-teaming)
+  - [Exercise: Building an evaluation pipeline](#exercise-building-an-evaluation-pipeline)
 - [**4. Counterfactuals in Bias Analysis**](#4-counterfactuals-in-bias-analysis) (5 videos)
-  - What is a counterfactual?
-  - Concept of counterfactuals and what-if scenarios
-  - Applications of counterfactuals for transparency
-  - Counterfactual modeling for improved fairness
-  - Exercise: TensorFlow counterfactual
+  - [What is a counterfactual?](#what-is-a-counterfactual)
+  - [Concept of counterfactuals and what-if scenarios](#concept-of-counterfactuals-and-what-if-scenarios)
+  - [Applications of counterfactuals for transparency](#applications-of-counterfactuals-for-transparency)
+  - [Counterfactual modeling for improved fairness](#counterfactual-modeling-for-improved-fairness)
+  - [Exercise: TensorFlow counterfactual](#exercise-tensorflow-counterfactual)
 - [**5. Data Sampling for Bias Reduction**](#5-data-sampling-for-bias-reduction) (7 videos)
-  - The power of sampling data
-  - Data validation and evaluation
-  - Overview of stratified sampling
-  - Sampling based on demographics
-  - Random sampling within stratified groups
-  - Testing model performance across diverse samples
-  - Exercise: Design sampling criteria with RAI principles
+  - [The power of sampling data](#the-power-of-sampling-data)
+  - [Data validation and evaluation](#data-validation-and-evaluation)
+  - [Overview of stratified sampling](#overview-of-stratified-sampling)
+  - [Sampling based on demographics](#sampling-based-on-demographics)
+  - [Random sampling within stratified groups](#random-sampling-within-stratified-groups)
+  - [Testing model performance across diverse samples](#testing-model-performance-across-diverse-samples)
+  - [Exercise: Design sampling criteria with RAI principles](#exercise-design-sampling-criteria-with-rai-principles)
 - [**6. Post-Training Model Constraints**](#6-post-training-model-constraints) (4 videos)
-  - Introduction to model constraints to control bias
-  - Power of flagging, pruning, and nudging
-  - Using human-in-the-loop tools
-  - Exercise: Model constraint pipeline
+  - [Introduction to model constraints to control bias](#introduction-to-model-constraints-to-control-bias)
+  - [Power of flagging, pruning, and nudging](#power-of-flagging-pruning-and-nudging)
+  - [Using human-in-the-loop tools](#using-human-in-the-loop-tools)
+  - [Exercise: Model constraint pipeline](#exercise-model-constraint-pipeline)
 - [**7. Case Study: Breakdown of a GenAI Story**](#7-case-study-breakdown-of-a-genai-story) (1 videos)
-  - Explore an example of GenAI output
+  - [Explore an example of GenAI output](#explore-an-example-of-genai-output)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your XAI learning journey
+  - [Continuing your XAI learning journey](#continuing-your-xai-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### XAI: the key to fair and transparent AI for all
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/xai-the-key-to-fair-and-transparent-ai-for-all?u=76281980)
@@ -117,13 +117,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** ai (4), [[Microsoft]] (1)
 > **Speakers:** - ai (1)
 
 
 ### 1. Understanding the AI Landscape
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias in AI and its impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980)
@@ -172,7 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1), public (1)
+> **Frameworks & Libraries:** ai (9), [[Generative AI]] (4), data (2), [[Microsoft Word|Word]] (1), [[Probability]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is an  (1)
@@ -237,6 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (8), data (6), ai (3), [[Microsoft Word|Word]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - ai (1)
@@ -284,13 +285,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (3), database (1), [[Microsoft Word|Word]] (1), power (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
 
 
 ### 2. Bias in GenAI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias in data: "Bad data in, bad data out"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980)
@@ -351,7 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1), this. (1)
+> **Frameworks & Libraries:** data (13), ai (3), [[Google]] (2), [[Search]] (2), [[Algorithms]] (1)
 > **Env Vars:** bert (1), gpt (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
@@ -518,8 +520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Hugging Face]] (4), [[Google]] (3), [[Prompt Engineering]] (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (11), python (7), pip (2)
-> **Code Keywords:** let (8), this, (2), switch (1), module (1), case. (1)
 > **Tools:** colab (3), bash (3), terminal (2)
 > **Env Vars:** nltk (4), api (1), nht (1)
 > **Prerequisites:** set up (3), install (1)
@@ -572,7 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (1), [[Microsoft Word|Word]] (1), data (1), next (1)
 > **Env Vars:** bert (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** it's like (1)
@@ -581,7 +583,7 @@ created: 2026-04-29
 
 ### 3. Bias in Model Training
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to GenAI model training
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-genai-model-training?u=76281980)
@@ -626,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1)
+> **Frameworks & Libraries:** data (11), database (1), web (1), [[Databases]] (1)
 > **Versions:** 5.5 (1), 5.2 (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpt (1)
@@ -679,7 +681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (3), [[Large Language Models (LLM)|Large language models]] (1), [[Accountability]] (1), next (1)
 > **Cross-References:** next video (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
@@ -721,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), this. (1)
+> **Frameworks & Libraries:** ai (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - let (1)
 
@@ -768,7 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (2), let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Forms]] (1), ai (1), next (1)
 > **Cross-References:** next video (1)
 > **Analogies:** think of it like (1)
 > **Speakers:** - remember (1)
@@ -824,8 +826,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Helm]] (7), ai (4), data (1)
 > **Env Vars:** helm (7)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
@@ -864,6 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Red Teaming]] (3), ai (2), [[Security]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** think of it like (1)
@@ -1035,8 +1038,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (3), [[Generative AI]] (1), [[Troubleshooting]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (17), python (6), find (1)
-> **Code Keywords:** let (5), case, (5), case. (3), this. (1), this, (1)
 > **Versions:** python 3 (5), 13.2 (1), 9.6 (1), 3.8 (1)
 > **Tools:** terminal (3), jupyter (1), vs code (1)
 > **Cross-References:** we talked about (3), as we saw (1)
@@ -1047,7 +1050,7 @@ created: 2026-04-29
 
 ### 4. Counterfactuals in Bias Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a counterfactual?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980)
@@ -1110,7 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), let (1)
+> **Frameworks & Libraries:** data (5), ai (3), [[Microsoft Word|Word]] (2), [[Generative AI]] (1), prompt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
@@ -1185,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1), for, (1)
+> **Frameworks & Libraries:** ai (6), power (1), data (1), teams (1), strengths (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - what (1)
 
@@ -1250,8 +1253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), [[Large Language Models (LLM)|Large language models]] (3), application (2), [[Fine Tuning]] (2), power (1)
 > **Env Vars:** llm (4)
-> **Code Keywords:** let (1), yield (1), require (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1324,7 +1327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), let (2)
+> **Frameworks & Libraries:** data (1), ai (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** for example (1)
 > **Speakers:** - an (1)
@@ -1462,8 +1465,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Generative AI]] (1), next (1)
 > **CLI Commands:** make (10)
-> **Code Keywords:** let (4), for. (1), case, (1), protected (1), this, (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1471,7 +1474,7 @@ created: 2026-04-29
 
 ### 5. Data Sampling for Bias Reduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of sampling data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/the-power-of-sampling-data?u=76281980)
@@ -1558,7 +1561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (1), case, (1)
+> **Frameworks & Libraries:** data (13), ai (4), power (2), feature (2), next (1)
 > **Cross-References:** we discussed (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
@@ -1639,7 +1642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), type. (1)
+> **Frameworks & Libraries:** data (18), ai (3), next (2), generic (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
@@ -1708,7 +1711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** data (9), ai (2), [[Generative AI]] (2), feature (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - let (1)
@@ -1780,7 +1783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (7), ai (2), [[Algorithms]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** such as (1)
@@ -1835,8 +1838,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), llm (4), [[Large Language Models (LLM)|Large language models]] (2), business (1)
 > **Env Vars:** llm (4)
-> **Code Keywords:** let (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -1905,7 +1908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** leadership (1), [[User Experience (UX)|User experience]] (1), [[Prompt Engineering]] (1), data (1), [[Responsible AI]] (1)
 > **Speakers:** - we (1)
 
 #### Exercise: Design sampling criteria with RAI principles
@@ -2031,7 +2034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3), case, (1), from, (1)
+> **Frameworks & Libraries:** [[Google]] (6), data (5), [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (1), ai (1)
 > **Tools:** colab (5), vs code (3)
 > **CLI Commands:** make (6), python (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
@@ -2043,7 +2046,7 @@ created: 2026-04-29
 
 ### 6. Post-Training Model Constraints
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to model constraints to control bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980)
@@ -2130,7 +2133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), protected (1), continue (1)
+> **Frameworks & Libraries:** ai (9), [[Responsible AI]] (3), [[Forms]] (1), next (1), prompt (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - even (1)
@@ -2192,7 +2195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1)
+> **Frameworks & Libraries:** ai (2), management (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 > **Speakers:** - so (1)
@@ -2262,7 +2265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), function (1)
+> **Frameworks & Libraries:** ai (14), [[Microsoft Excel|Excel]] (3), teams (1), strengths (1)
 > **Speakers:** - throughout (1)
 
 #### Exercise: Model constraint pipeline
@@ -2362,8 +2365,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Python (Programming Language)|Python]] (2), next (2), [[Engineering]] (1), cd (1)
 > **CLI Commands:** python (2), make (1), cd (1)
-> **Code Keywords:** let (2), case, (1), this, (1)
 > **Code Identifiers:** post_training_model_constraints (1), constraint_pipeline (1)
 > **Versions:** python 3 (1), 3.8 (1)
 > **Definitions:** is called (1)
@@ -2373,7 +2376,7 @@ created: 2026-04-29
 
 ### 7. Case Study: Breakdown of a GenAI Story
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore an example of GenAI output
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980)
@@ -2436,15 +2439,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (5), business (1), [[Generative AI]] (1), [[Responsible AI]] (1)
 > **Env Vars:** clip (4), gpt (1)
-> **Code Keywords:** let (1), continue (1)
 > **Analogies:** picture (1)
 > **Speakers:** - when (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your XAI learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980)
@@ -2507,7 +2510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** ai (9), data (7), [[Generative AI]] (1), [[LinkedIn]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [jazmiahenry.com](https://jazmiahenry.com) (1)
 > **Definitions:** is a  (1)

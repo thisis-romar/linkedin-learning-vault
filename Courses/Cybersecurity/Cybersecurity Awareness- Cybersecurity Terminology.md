@@ -39,7 +39,7 @@ tags:
   - skill/information-security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Awareness-%20Cybersecurity%20Terminology.md)
@@ -58,32 +58,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to Cybersecurity Terminology 101
+  - [Welcome to Cybersecurity Terminology 101](#welcome-to-cybersecurity-terminology-101)
 - [**1. Defining Cybersecurity and People, Process, and Technology**](#1-defining-cybersecurity-and-people-process-and-technology) (2 videos)
-  - What is cybersecurity?
-  - People, process, and technology
+  - [What is cybersecurity?](#what-is-cybersecurity)
+  - [People, process, and technology](#people-process-and-technology)
 - [**2. People**](#2-people) (4 videos)
-  - Security awareness and leadership
-  - Red vs. blue vs. purple teams
-  - Who are the adversaries?
-  - Understanding privacy
+  - [Security awareness and leadership](#security-awareness-and-leadership)
+  - [Red vs. blue vs. purple teams](#red-vs-blue-vs-purple-teams)
+  - [Who are the adversaries?](#who-are-the-adversaries)
+  - [Understanding privacy](#understanding-privacy)
 - [**3. Process**](#3-process) (2 videos)
-  - Understanding processes and documentation
-  - Technical controls
+  - [Understanding processes and documentation](#understanding-processes-and-documentation)
+  - [Technical controls](#technical-controls)
 - [**4. Technology**](#4-technology) (3 videos)
-  - Secure practices, terms, and exercises
-  - Network controls
-  - Advancements in technology
+  - [Secure practices, terms, and exercises](#secure-practices-terms-and-exercises)
+  - [Network controls](#network-controls)
+  - [Advancements in technology](#advancements-in-technology)
 - [**5. Threat Actors and Risks**](#5-threat-actors-and-risks) (3 videos)
-  - Threat actors and definitions
-  - Technical risks
-  - Threats that target the human element
+  - [Threat actors and definitions](#threat-actors-and-definitions)
+  - [Technical risks](#technical-risks)
+  - [Threats that target the human element](#threats-that-target-the-human-element)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Apply cybersecurity terminology
+  - [Apply cybersecurity terminology](#apply-cybersecurity-terminology)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Cybersecurity Terminology 101
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/welcome-to-cybersecurity-terminology-101?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lauren] (1)
 > **Non-Speech:** (cheerful music) (1)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Defining Cybersecurity and People, Process, and Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cybersecurity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980)
@@ -161,7 +161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), let (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), data (6), [[Security]] (4), [[IoT]] (1), teams (1)
 > **CLI Commands:** find (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
@@ -196,14 +196,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Cybersecurity]] (3), teams (1), next (1), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. People
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security awareness and leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/security-awareness-and-leadership?u=76281980)
@@ -248,10 +248,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (23), business (2), leadership (1), teams (1), data (1)
 > **Env Vars:** ciso (4), cso (4)
 > **Definitions:** stands for (2), means that (2), is a  (2), defined as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -298,8 +298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), teams (2), [[Engineering]] (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -352,9 +352,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Cybersecurity]] (1), [[Security]] (1), next (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (2), else. (1)
 > **Speakers:** - the (1)
 
 #### Understanding privacy
@@ -408,9 +408,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Security]] (2), [[Cybersecurity]] (2), data (2), [[Search]] (2)
 > **Env Vars:** pii (6)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** public (1), private (1)
 > **Analogies:** think of it as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -418,7 +418,7 @@ created: 2026-04-29
 
 ### 3. Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding processes and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-processes-and-documentation?u=76281980)
@@ -483,10 +483,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (3)
 > **Definitions:** is a  (3), stands for (1), means that (1), defined as (1), is called (1)
 > **Env Vars:** cia (1), gdpr (1), hipaa (1), pci (1)
 > **Documentation:** the documentation (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - if (1)
@@ -548,16 +548,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), data (4), [[Multi-factor Authentication]] (2), [[Cybersecurity]] (1), teams (1)
 > **Env Vars:** mfa (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure practices, terms, and exercises
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980)
@@ -614,7 +614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), default. (1), case. (1)
+> **Frameworks & Libraries:** [[Security]] (3), data (3), [[Computer Forensics]] (2), [[Digital Forensics]] (1), teams (1)
 > **CLI Commands:** find (3)
 > **Analogies:** such as (1), similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -664,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), private (1), require (1), continue (1)
+> **Frameworks & Libraries:** [[Security]] (5), vpn (2), data (2), [[Virtual Private Network (VPN)|Virtual private network]] (1), traffic (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** vpn (2)
@@ -712,6 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), cloud (4), [[Cryptocurrency]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** ibm (1)
@@ -722,7 +723,7 @@ created: 2026-04-29
 
 ### 5. Threat Actors and Risks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Threat actors and definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threat-actors-and-definitions?u=76281980)
@@ -773,8 +774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Security]] (1), leadership (1)
 > **Analogies:** similar to (2), such as (2), think of it like (1)
-> **Code Keywords:** let (1), private (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
@@ -835,11 +836,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **Definitions:** is a  (3), known as (2)
 > **CLI Commands:** apt (2), make (1)
 > **Env Vars:** apt (2), aka (1)
 > **Analogies:** similar to (2), think of it like (1)
-> **Code Keywords:** let (1), self (1)
 > **Speakers:** - [instructor] (1)
 
 #### Threats that target the human element
@@ -909,7 +910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), this, (1)
+> **Frameworks & Libraries:** [[Phishing]] (5), [[Engineering]] (3), [[Security]] (1), [[Cryptocurrency]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sms (1)
 > **Analogies:** similar to (1)
@@ -918,7 +919,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply cybersecurity terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980)
@@ -943,6 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we covered (1)
 > **Best Practices:** make sure to (1)

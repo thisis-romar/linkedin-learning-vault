@@ -30,7 +30,7 @@ tags:
   - skill/professional-phone-skills
   - skill/customer-service
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Phone-Based%20Customer%20Service.md)
@@ -49,30 +49,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Phone service still matters
-  - Understand the phone's unique challenges
+  - [Phone service still matters](#phone-service-still-matters)
+  - [Understand the phone's unique challenges](#understand-the-phones-unique-challenges)
 - [**1. Build Rapport over the Phone**](#1-build-rapport-over-the-phone) (5 videos)
-  - Develop the perfect phone greeting
-  - Create personal connections
-  - How to fill dead air
-  - Manage holds and transfers
-  - Control the call with friendliness
+  - [Develop the perfect phone greeting](#develop-the-perfect-phone-greeting)
+  - [Create personal connections](#create-personal-connections)
+  - [How to fill dead air](#how-to-fill-dead-air)
+  - [Manage holds and transfers](#manage-holds-and-transfers)
+  - [Control the call with friendliness](#control-the-call-with-friendliness)
 - [**2. Exceed Expectations over the Phone**](#2-exceed-expectations-over-the-phone) (4 videos)
-  - Tune out distractions
-  - Listen over the phone
-  - Use advanced communication techniques
-  - Deliver moments of "wow"
+  - [Tune out distractions](#tune-out-distractions)
+  - [Listen over the phone](#listen-over-the-phone)
+  - [Use advanced communication techniques](#use-advanced-communication-techniques)
+  - [Deliver moments of "wow"](#deliver-moments-of-wow)
 - [**3. Solve Problems over the Phone**](#3-solve-problems-over-the-phone) (4 videos)
-  - How to express empathy
-  - De-escalate angry calls
-  - Friendly follow-up
-  - Stay focused while you work
+  - [How to express empathy](#how-to-express-empathy)
+  - [De-escalate angry calls](#de-escalate-angry-calls)
+  - [Friendly follow-up](#friendly-follow-up)
+  - [Stay focused while you work](#stay-focused-while-you-work)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Create your action plan
+  - [Create your action plan](#create-your-action-plan)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Phone service still matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/phone-service-still-matters?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** career (1), teams (1), next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - many (1)
 
@@ -245,13 +245,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - [woman] (5), - [man] (4), - okay (4), - yes (3), - thank (2)
-> **Code Keywords:** let (3), for. (1)
 > **Warnings:** watch out (1)
 
 
 ### 1. Build Rapport over the Phone
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop the perfect phone greeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/develop-the-perfect-phone-greeting-2?u=76281980)
@@ -368,8 +367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), feature (1)
 > **Speakers:** - thank (4), - what (2), - i (1), - [woman] (1), - this (1)
-> **Code Keywords:** let (5), try. (1), finally, (1)
 > **CLI Commands:** make (6)
 > **Analogies:** such as (2), imagine (1)
 > **Definitions:** is a  (2)
@@ -469,8 +468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Technical Support]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), try. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** caution (1)
@@ -529,7 +528,6 @@ created: 2026-04-29
 >
 > **Speakers:** - have (1), - bear (1), - another (1), - while (1), - now (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** continue (1), from. (1)
 > **Cross-References:** we covered (1), later in (1)
 > **Prerequisites:** you'll need (1)
 
@@ -632,7 +630,6 @@ created: 2026-04-29
 >
 > **Speakers:** - hi (2), - nobody (1), - i (1), - sometimes (1), - okay (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (2), else, (2), switch (1), case, (1)
 > **Definitions:** is a  (1)
 > **Non-Speech:** (mellow music) (1)
 
@@ -707,15 +704,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Call Control]] (2)
 > **Speakers:** - there (1), - wow (1), - another (1), - your (1), - i (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (1), such as (1)
 
 
 ### 2. Exceed Expectations over the Phone
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tune out distractions
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/tune-out-distractions-2?u=76281980)
@@ -807,7 +804,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), break. (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - exceeding (1), - this (1)
 
@@ -892,7 +888,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), finally, (1)
 > **CLI Commands:** make (5)
 > **Speakers:** - now (1), - [man] (1), - okay (1), - let (1), - in (1)
 > **Analogies:** imagine (2)
@@ -996,9 +991,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** find (5), make (5)
 > **Speakers:** - you (2), - one (1), - do (1), - notice (1), - [representative] (1)
-> **Code Keywords:** let (3), this. (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** make sure you have (1)
@@ -1086,8 +1081,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Technical Support]] (1), product (1), next (1), power (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), case, (1)
 > **Analogies:** imagine (1), for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
@@ -1095,7 +1090,7 @@ created: 2026-04-29
 
 ### 3. Solve Problems over the Phone
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to express empathy
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980)
@@ -1210,9 +1205,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vanilla]] (5), express (2), [[Technical Support]] (1), product (1), next (1)
 > **Speakers:** - [man] (4), - [woman] (4), - one (1), - you (1)
 > **CLI Commands:** make (6), find (2)
-> **Code Keywords:** finally, (3), try. (1), let (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** download the (1)
 > **Definitions:** defined as (1)
@@ -1320,8 +1315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (6)
 > **Speakers:** - angry (1), - oh (1), - that (1), - i (1), - this (1)
 > **Cross-References:** previous video (1), we covered (1)
 > **Definitions:** is a  (1)
@@ -1380,7 +1375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), try. (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1469,7 +1464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), this. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (2)
 > **Analogies:** just like (1)
@@ -1479,7 +1474,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/create-your-action-plan?u=76281980)
@@ -1515,7 +1510,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (2)
 > **URLs:** [toistersolutions.com](https://toistersolutions.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)

@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Artificial%20Intelligence.md)
@@ -54,69 +54,69 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why you need to know about artificial intelligence
+  - [Why you need to know about artificial intelligence](#why-you-need-to-know-about-artificial-intelligence)
 - [**1. What Is Artificial Intelligence?**](#1-what-is-artificial-intelligence) (3 videos)
-  - Define general intelligence
-  - The general problem-solver
-  - Strong vs. weak AI
+  - [Define general intelligence](#define-general-intelligence)
+  - [The general problem-solver](#the-general-problem-solver)
+  - [Strong vs. weak AI](#strong-vs-weak-ai)
 - [**2. Popular Uses for Artificial Intelligence**](#2-popular-uses-for-artificial-intelligence) (2 videos)
-  - Predictive AI
-  - Generative AI
+  - [Predictive AI](#predictive-ai)
+  - [Generative AI](#generative-ai)
 - [**3. The Rise of Machine Learning**](#3-the-rise-of-machine-learning) (2 videos)
-  - Machine learning
-  - Artificial neural networks
+  - [Machine learning](#machine-learning)
+  - [Artificial neural networks](#artificial-neural-networks)
 - [**4. Common AI Systems**](#4-common-ai-systems) (5 videos)
-  - Searching for patterns in data
-  - Robotics
-  - Natural language processing
-  - The internet of things
-  - Generative systems
+  - [Searching for patterns in data](#searching-for-patterns-in-data)
+  - [Robotics](#robotics)
+  - [Natural language processing](#natural-language-processing)
+  - [The internet of things](#the-internet-of-things)
+  - [Generative systems](#generative-systems)
 - [**5. Learn from Data**](#5-learn-from-data) (3 videos)
-  - Labeled and unlabeled data
-  - Massive datasets
-  - Data models
+  - [Labeled and unlabeled data](#labeled-and-unlabeled-data)
+  - [Massive datasets](#massive-datasets)
+  - [Data models](#data-models)
 - [**6. Identify Patterns**](#6-identify-patterns) (3 videos)
-  - Classify data
-  - Cluster data
-  - Reinforcement learning
+  - [Classify data](#classify-data)
+  - [Cluster data](#cluster-data)
+  - [Reinforcement learning](#reinforcement-learning)
 - [**7. Machine Learning Algorithms**](#7-machine-learning-algorithms) (5 videos)
-  - Common algorithms
-  - K-nearest neighbor
-  - K-means clustering
-  - Regression
-  - Naive Bayes
+  - [Common algorithms](#common-algorithms)
+  - [K-nearest neighbor](#k-nearest-neighbor)
+  - [K-means clustering](#k-means-clustering)
+  - [Regression](#regression)
+  - [Naive Bayes](#naive-bayes)
 - [**8. Fit the Algorithm**](#8-fit-the-algorithm) (3 videos)
-  - Select the best algorithm
-  - Follow the data
-  - Overfitting and underfitting
+  - [Select the best algorithm](#select-the-best-algorithm)
+  - [Follow the data](#follow-the-data)
+  - [Overfitting and underfitting](#overfitting-and-underfitting)
 - [**9. Artificial Neural Networks**](#9-artificial-neural-networks) (3 videos)
-  - Build a neural network
-  - Weighing the connections
-  - The activation bias
+  - [Build a neural network](#build-a-neural-network)
+  - [Weighing the connections](#weighing-the-connections)
+  - [The activation bias](#the-activation-bias)
 - [**10. Improve Accuracy**](#10-improve-accuracy) (2 videos)
-  - Learning from mistakes
-  - Step through the network
+  - [Learning from mistakes](#learning-from-mistakes)
+  - [Step through the network](#step-through-the-network)
 - [**11. The Rise of Generative AI**](#11-the-rise-of-generative-ai) (4 videos)
-  - Self-supervised learning
-  - Foundation models
-  - Large language models (LLM)
-  - Image diffusion models
+  - [Self-supervised learning](#self-supervised-learning)
+  - [Foundation models](#foundation-models)
+  - [Large language models (LLM)](#large-language-models-llm)
+  - [Image diffusion models](#image-diffusion-models)
 - [**12. Generative AI Architecture**](#12-generative-ai-architecture) (3 videos)
-  - Generative adversarial networks (GAN)
-  - Variational autoencoder (VAE)
-  - Transformers
+  - [Generative adversarial networks (GAN)](#generative-adversarial-networks-gan)
+  - [Variational autoencoder (VAE)](#variational-autoencoder-vae)
+  - [Transformers](#transformers)
 - [**13. Ethical and Legal Challenges**](#13-ethical-and-legal-challenges) (4 videos)
-  - The alignment problem
-  - Decision traceability
-  - Copyright challenges
-  - Privacy concerns
+  - [The alignment problem](#the-alignment-problem)
+  - [Decision traceability](#decision-traceability)
+  - [Copyright challenges](#copyright-challenges)
+  - [Privacy concerns](#privacy-concerns)
 - [**14. Where to Go from Here**](#14-where-to-go-from-here) (2 videos)
-  - Using AI systems
-  - Applying AI to solve problems
+  - [Using AI systems](#using-ai-systems)
+  - [Applying AI to solve problems](#applying-ai-to-solve-problems)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why you need to know about artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980)
@@ -139,14 +139,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Microsoft Products|Products]] (1), [[Algorithms]] (1), [[Artificial Neural Networks]] (1), business (1)
 > **Analogies:** just like (1)
 > **Speakers:** - artificial (1)
 
 
 ### 1. What Is Artificial Intelligence?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define general intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980)
@@ -235,6 +235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (4), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), chatbot (3), [[Google]] (2)
 > **Definitions:** means that (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - one (1)
@@ -322,6 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), [[Microsoft Word|Word]] (1), ai (1), [[Programming]] (1)
 > **Analogies:** imagine (2), just like (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -418,16 +420,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (1), database (1)
 > **Analogies:** just like (2), it's like (1)
 > **Env Vars:** c3po (1), gofai (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** match. (1)
 > **Speakers:** - so (1)
 
 
 ### 2. Popular Uses for Artificial Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980)
@@ -506,8 +508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (8), ai (3), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Search]] (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** pass (1)
 > **Speakers:** - for (1)
 
 #### Generative AI
@@ -587,8 +589,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Generative AI]] (5), ai (3), [[Predictive AI]] (2), chatbot (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (2), new. (1)
 > **Analogies:** just like (1), imagine (1)
 > **Env Vars:** jrr (1)
 > **Speakers:** - over (1)
@@ -596,7 +598,7 @@ created: 2026-04-29
 
 ### 3. The Rise of Machine Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980)
@@ -689,8 +691,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1)
 > **CLI Commands:** cat (2), find (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
@@ -783,9 +785,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), data (2), [[Artificial Neural Networks]] (1), ai (1), [[Zoom]] (1)
 > **CLI Commands:** cat (2), make (1)
 > **Analogies:** picture (2), just like (1)
-> **Code Keywords:** except, (1), let (1)
 > **Definitions:** is an  (1), is called (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - machine (1)
@@ -793,7 +795,7 @@ created: 2026-04-29
 
 ### 4. Common AI Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Searching for patterns in data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980)
@@ -884,9 +886,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (3)
 > **Analogies:** it's like (1), such as (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - over (1)
 
@@ -973,7 +975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6)
+> **Frameworks & Libraries:** data (4), ai (3), [[React.js|React]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Artificial Neural Networks]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
@@ -1066,7 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this, (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (7), [[Google]] (5), [[Search]] (2), [[Artificial Neural Networks]] (2), database (2)
 > **Definitions:** means that (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - as (1)
@@ -1150,6 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (10), data (9), ai (2), [[Internet of Things (IoT)|Internet of things]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** ekg (2)
 > **Definitions:** means that (1)
@@ -1239,8 +1242,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Generative AI]] (6), [[Predictive AI]] (4), power (3), chatbot (3)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** public (1), new. (1)
 > **Env Vars:** dall (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** such as (1)
@@ -1249,7 +1252,7 @@ created: 2026-04-29
 
 ### 5. Learn from Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Labeled and unlabeled data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980)
@@ -1342,8 +1345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), game (3), [[Supervised Learning]] (3), strengths (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** public (2), let (1), for, (1)
 > **Analogies:** imagine (3)
 > **UI Navigation:** go to (2)
 > **Best Practices:** the key is (1)
@@ -1444,7 +1447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (14), [[Algorithms]] (5), [[Programming]] (2), [[Microsoft Word|Word]] (2), [[Statistics]] (2)
 > **Definitions:** is a  (1), means that (1), is called (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** iphone (1)
@@ -1526,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), new. (1)
+> **Frameworks & Libraries:** data (20), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (2), [[Generative AI]] (2)
 > **Versions:** 99.9 (1), 99.999 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -1535,7 +1538,7 @@ created: 2026-04-29
 
 ### 6. Identify Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classify data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980)
@@ -1618,6 +1621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Microsoft Word]] (1), business (1), [[Search]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1)
 > **Warnings:** warning (1)
@@ -1718,9 +1722,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Supervised Learning]] (2), feature (1), [[Algorithms]] (1), [[Search]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - classifying (1)
@@ -1810,8 +1814,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (6), [[Algorithms]] (2), business (1), power (1), [[Google]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** new. (1), case, (1)
 > **Best Practices:** recommended (1), make sure to (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is called (1)
@@ -1821,7 +1825,7 @@ created: 2026-04-29
 
 ### 7. Machine Learning Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980)
@@ -1900,7 +1904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), let (1)
+> **Frameworks & Libraries:** [[Algorithms]] (11), data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[Microsoft Office]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - machine (1)
@@ -1996,7 +2000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), match, (1)
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (3), is called (1), means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
@@ -2082,8 +2086,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[k-means clustering]] (4), data (1), [[Algorithms]] (1), business (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1), self (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** imagine (1)
@@ -2187,8 +2191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (2), [[Algorithms]] (1), product (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** case, (1), type. (1), new. (1)
 > **Definitions:** is a  (3)
 > **Analogies:** imagine (2)
 > **Speakers:** - i (1)
@@ -2274,7 +2278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class. (1)
+> **Frameworks & Libraries:** [[Probability]] (7), data (5), [[Algorithms]] (1), next (1), [[Banking]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -2284,7 +2288,7 @@ created: 2026-04-29
 
 ### 8. Fit the Algorithm
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Select the best algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980)
@@ -2379,7 +2383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Algorithms]] (5), data (5), teams (1)
 > **Speakers:** - so (1)
 
 #### Follow the data
@@ -2459,9 +2463,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (2), game (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** means that (4), is called (1)
-> **Code Keywords:** let (1), throw (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
@@ -2542,17 +2546,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (2)
 > **Warnings:** keep in mind (2)
-> **Code Keywords:** this, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
 
 ### 9. Artificial Neural Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a neural network
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980)
@@ -2637,7 +2641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), this, (1), case, (1), self (1)
+> **Frameworks & Libraries:** data (9), [[Artificial Neural Networks]] (4), [[Algorithms]] (3), next (2), [[Deep Learning]] (1)
 > **Definitions:** means that (1), is a  (1), is called (1)
 > **Analogies:** imagine (1), think of it as (1)
 > **Cross-References:** we talked about (1)
@@ -2716,7 +2720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), case, (1)
+> **Frameworks & Libraries:** data (6), [[Artificial Neural Networks]] (2), next (1)
 > **Definitions:** is a  (3)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
@@ -2798,8 +2802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Artificial Neural Networks]] (1)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** throw (4), self (1)
 > **Analogies:** it's like (3)
 > **Definitions:** is called (1)
 > **Speakers:** - an (1)
@@ -2807,7 +2811,7 @@ created: 2026-04-29
 
 ### 10. Improve Accuracy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning from mistakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980)
@@ -2902,8 +2906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (2), [[Neural Networks]] (2), hit (1), data (1)
 > **CLI Commands:** make (4), cat (1)
-> **Code Keywords:** function (2), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - we (1)
@@ -2991,7 +2995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), case, (1), function (1)
+> **Frameworks & Libraries:** data (15), ai (2), next (2), [[Algorithms]] (2), [[IoT]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** iot (1)
 > **Cross-References:** go back to (1)
@@ -3000,7 +3004,7 @@ created: 2026-04-29
 
 ### 11. The Rise of Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Self-supervised learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980)
@@ -3085,8 +3089,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Supervised Learning]] (5), ai (2), [[Unstructured Data]] (2), power (2)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** self (5)
 > **Definitions:** means that (3)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
@@ -3177,8 +3181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Generative AI]] (5), [[Supervised Learning]] (4), chatbot (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** self (3)
 > **Analogies:** imagine (2), it's like (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -3263,6 +3267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Microsoft Word|Word]] (2), data (2), [[Large Language Models (LLM)|Large language models]] (2), [[Remix]] (1)
 > **Definitions:** means that (2), is a  (2)
 > **Analogies:** imagine (2), similar to (1)
 > **Warnings:** keep in mind (2)
@@ -3356,7 +3361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (3), this, (1), new, (1), self (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Vanilla]] (3), ai (1), data (1), [[Statistics]] (1)
 > **Analogies:** imagine (2), it's like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3365,7 +3370,7 @@ created: 2026-04-29
 
 ### 12. Generative AI Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative adversarial networks (GAN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980)
@@ -3450,7 +3455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), new. (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (3), data (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), [[Microsoft Word|Word]] (1), [[Artificial Neural Networks]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** it's like (1), imagine (1)
 > **Env Vars:** gan (1)
@@ -3528,10 +3533,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1), ai (1)
 > **Definitions:** is called (2), means that (1), is a  (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - generative (1)
 
 #### Transformers
@@ -3607,7 +3612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), break, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Google]] (2), ai (2), [[ChatGPT]] (1), data (1)
 > **CLI Commands:** find (3)
 > **Definitions:** means that (2)
 > **Analogies:** such as (1), imagine (1)
@@ -3616,7 +3621,7 @@ created: 2026-04-29
 
 ### 13. Ethical and Legal Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The alignment problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980)
@@ -3701,6 +3706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Forms]] (1), data (1), [[Programming]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -3781,6 +3787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (3), [[Predictive AI]] (2), [[Algorithms]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2), find (1), cat (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** xai (1)
@@ -3864,8 +3871,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Large Language Models (LLM)|Large language models]] (4), chatbot (2), [[ChatGPT]] (1), power (1)
 > **Definitions:** means that (4), is called (1)
-> **Code Keywords:** protected (2), public (1), super (1)
 > **Analogies:** such as (3), just like (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - when (1)
@@ -3951,7 +3958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), from. (1), public (1)
+> **Frameworks & Libraries:** data (11), [[Privacy]] (5), ai (2), database (2), [[Privacy Protection]] (2)
 > **Analogies:** think of it like (1), imagine (1)
 > **Best Practices:** you should never (2)
 > **Definitions:** means that (1)
@@ -3961,7 +3968,7 @@ created: 2026-04-29
 
 ### 14. Where to Go from Here
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980)
@@ -4048,9 +4055,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), data (7), business (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), next (2)
 > **Analogies:** just like (2), imagine (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this. (1), finally, (1)
 > **Cross-References:** in the next (2)
 > **Env Vars:** gpt (1)
 > **Definitions:** means that (1)
@@ -4093,8 +4100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (3), ai (2), [[Ethics]] (2), [[Algorithms]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 

@@ -33,7 +33,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Service%20Management%20Foundations-%20Problem%20Management.md)
@@ -52,42 +52,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The art of asking the right questions
-  - What you should know
+  - [The art of asking the right questions](#the-art-of-asking-the-right-questions)
+  - [What you should know](#what-you-should-know)
 - [**1. What Is Problem Management?**](#1-what-is-problem-management) (4 videos)
-  - Introduction to problem management
-  - Roles and responsibilities
-  - Key metrics and success factors
-  - Related processes and functions
+  - [Introduction to problem management](#introduction-to-problem-management)
+  - [Roles and responsibilities](#roles-and-responsibilities)
+  - [Key metrics and success factors](#key-metrics-and-success-factors)
+  - [Related processes and functions](#related-processes-and-functions)
 - [**2. Phase I: Problem Identification**](#2-phase-i-problem-identification) (1 videos)
-  - Tracking and trending
+  - [Tracking and trending](#tracking-and-trending)
 - [**3. Phase II: Problem Control**](#3-phase-ii-problem-control) (3 videos)
-  - Selecting high-value targets
-  - Cause analysis
-  - Workarounds and known errors
+  - [Selecting high-value targets](#selecting-high-value-targets)
+  - [Cause analysis](#cause-analysis)
+  - [Workarounds and known errors](#workarounds-and-known-errors)
 - [**4. Phase III: Error Control**](#4-phase-iii-error-control) (2 videos)
-  - Managing known errors
-  - Identifying permanent solutions
+  - [Managing known errors](#managing-known-errors)
+  - [Identifying permanent solutions](#identifying-permanent-solutions)
 - [**5. Techniques**](#5-techniques) (7 videos)
-  - Clarify and verify
-  - Problem statements
-  - Data gathering
-  - Identifying and testing possible causes
-  - Decision-making
-  - Risk management
-  - Action items and tasks
+  - [Clarify and verify](#clarify-and-verify)
+  - [Problem statements](#problem-statements)
+  - [Data gathering](#data-gathering)
+  - [Identifying and testing possible causes](#identifying-and-testing-possible-causes)
+  - [Decision-making](#decision-making)
+  - [Risk management](#risk-management)
+  - [Action items and tasks](#action-items-and-tasks)
 - [**6. Tools and Frameworks**](#6-tools-and-frameworks) (5 videos)
-  - Problem clarification tools
-  - Prioritization tools
-  - Possible cause identification
-  - Cause mapping and avoidance tools
-  - Investigation frameworks
+  - [Problem clarification tools](#problem-clarification-tools)
+  - [Prioritization tools](#prioritization-tools)
+  - [Possible cause identification](#possible-cause-identification)
+  - [Cause mapping and avoidance tools](#cause-mapping-and-avoidance-tools)
+  - [Investigation frameworks](#investigation-frameworks)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The art of asking the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/the-art-of-asking-the-right-questions?u=76281980)
@@ -112,6 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (3), career (2), data (1), next (1), management (1)
 > **Speakers:** - [shane] (1)
 
 #### What you should know
@@ -143,15 +144,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Problem Management]] (1), [[Troubleshooting]] (1), business (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** require (1), finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - before (1)
 
 
 ### 1. What Is Problem Management?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to problem management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980)
@@ -256,7 +257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), function (1), require (1)
+> **Frameworks & Libraries:** [[Problem Management]] (6), business (2), functional (1), teams (1), product (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -301,8 +302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (2), product (1), business (1), management (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Key metrics and success factors
@@ -378,7 +379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1), from, (1)
+> **Frameworks & Libraries:** [[Problem Management]] (6), data (1), management (1), next (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** set up (1), required to (1)
@@ -463,8 +464,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), teams (7), [[Problem Management]] (5), [[IoT]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1), function (1)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** fbi (1)
 > **Definitions:** known as (1)
@@ -474,7 +475,7 @@ created: 2026-04-29
 
 ### 2. Phase I: Problem Identification
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tracking and trending
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980)
@@ -581,8 +582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Problem Management]] (1), [[Microsoft Products|Products]] (1), [[Hardware]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1), python (1)
-> **Code Keywords:** let (2), this. (1)
 > **Tools:** safari (3)
 > **Env Vars:** matlab (1), sql (1)
 > **Definitions:** is a  (2)
@@ -592,7 +593,7 @@ created: 2026-04-29
 
 ### 3. Phase II: Problem Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting high-value targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980)
@@ -691,7 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), yield (2)
+> **Frameworks & Libraries:** [[Problem Management]] (3), data (3), next (3), [[Probability]] (2), game (1)
 > **CLI Commands:** find (3)
 > **Definitions:** known as (2)
 > **Env Vars:** rca (1)
@@ -791,8 +792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Problem Management]] (2)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** let (3), continue (3)
 > **Analogies:** picture (1), for example (1), for instance (1)
 > **Definitions:** is an  (1), is called (1)
 > **Documentation:** the documentation (1)
@@ -867,7 +868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), throw (1), let (1)
+> **Frameworks & Libraries:** management (4), database (4), [[Problem Management]] (2), next (2), power (2)
 > **Analogies:** imagine (1), for instance (1), such as (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -879,7 +880,7 @@ created: 2026-04-29
 
 ### 4. Phase III: Error Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing known errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980)
@@ -952,8 +953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), next (2), data (2), management (2), [[Problem Management]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), continue (1), delete (1)
 > **Analogies:** imagine (1), picture (1), such as (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
@@ -1055,7 +1056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while, (1), let (1), finally, (1), from, (1), yield (1)
+> **Frameworks & Libraries:** [[Probability]] (2), business (1), database (1), data (1), management (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for instance (1), such as (1), picture (1)
 > **Best Practices:** make sure to (1)
@@ -1064,7 +1065,7 @@ created: 2026-04-29
 
 ### 5. Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Clarify and verify
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980)
@@ -1163,7 +1164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Outlook]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** ssl (2)
 > **Definitions:** means that (1), is a  (1)
@@ -1250,7 +1251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Office|Office]] (1), teams (1), [[Windows]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Versions:** 192.168.1 (1)
 > **Speakers:** - [instructor] (1)
@@ -1312,8 +1313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** function (1), finally, (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1408,7 +1409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), match, (1), while, (1), this, (1)
+> **Frameworks & Libraries:** data (3), [[Network Security]] (2), [[Mesh]] (1), teams (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (6), for instance (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** it's best to (1), make sure to (1)
@@ -1512,8 +1513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Decision-Making]] (1), product (1), [[Jira]] (1), database (1), data (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this. (1), let (1), finally, (1)
 > **Analogies:** such as (1), for instance (1), for example (1)
 > **Env Vars:** jira (1)
 > **Tools:** jira (1)
@@ -1620,8 +1621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), next (2), [[React.js|React]] (1)
 > **CLI Commands:** make (4), rails (1)
-> **Code Keywords:** let (2), finally, (1), if. (1), require (1)
 > **Prerequisites:** install (3), required to (1)
 > **Env Vars:** capa (2), a38d (1)
 > **Best Practices:** make sure to (2)
@@ -1675,7 +1676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), new, (1), for, (1), continue (1)
+> **Frameworks & Libraries:** management (3), [[Problem Management]] (1), [[Jira]] (1), teams (1), feature (1)
 > **Analogies:** imagine (1), such as (1)
 > **Tools:** jira (1)
 > **Definitions:** known as (1)
@@ -1685,7 +1686,7 @@ created: 2026-04-29
 
 ### 6. Tools and Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Problem clarification tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-clarification-tools?u=76281980)
@@ -1742,7 +1743,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (2)
 > **CLI Commands:** find (2), make (2)
 > **Documentation:** the documentation (1)
 > **Definitions:** is an  (1)
@@ -1901,8 +1901,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Trello]] (1), [[Jira]] (1), [[Microsoft Teams]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (3), is called (1), known as (1)
-> **Code Keywords:** this, (1), finally, (1), require (1), delete (1)
 > **Analogies:** for example (1), for instance (1), imagine (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
@@ -2019,7 +2019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (2)
+> **Frameworks & Libraries:** [[Windows 10]] (2), feature (1), [[Search]] (1), [[Forms]] (1), [[Hardware]] (1)
 > **Definitions:** known as (3), is a  (1), is an  (1)
 > **Analogies:** for instance (2), for example (1), picture (1)
 > **CLI Commands:** find (1)
@@ -2079,6 +2079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Probability]] (1)
 > **Definitions:** is a  (2), known as (1), defined as (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** fmea (1)
@@ -2142,16 +2143,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (2), strengths (1), data (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** pdca (1), dmaic (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980)
@@ -2194,7 +2195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), finally, (1)
+> **Frameworks & Libraries:** next (3), data (2), [[Six Sigma]] (1), management (1), [[SQL]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [narrator] (1)

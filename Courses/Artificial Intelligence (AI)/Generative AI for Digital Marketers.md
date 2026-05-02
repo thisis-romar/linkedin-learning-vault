@@ -28,7 +28,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20for%20Digital%20Marketers.md)
@@ -47,26 +47,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Digital marketing meets generative AI
+  - [Digital marketing meets generative AI](#digital-marketing-meets-generative-ai)
 - [**1. Defining AI Terms for Marketers**](#1-defining-ai-terms-for-marketers) (3 videos)
-  - Narrow versus general AI
-  - Four AI concepts marketers need to know
-  - Crafting a marketing prompt
+  - [Narrow versus general AI](#narrow-versus-general-ai)
+  - [Four AI concepts marketers need to know](#four-ai-concepts-marketers-need-to-know)
+  - [Crafting a marketing prompt](#crafting-a-marketing-prompt)
 - [**2. Navigating AI Tools for Marketers**](#2-navigating-ai-tools-for-marketers) (5 videos)
-  - AI and writing in marketing
-  - AI and design in marketing
-  - AI and video in marketing
-  - Generative AI beyond writing and design
-  - AI, the metaverse, and immersive marketing
+  - [AI and writing in marketing](#ai-and-writing-in-marketing)
+  - [AI and design in marketing](#ai-and-design-in-marketing)
+  - [AI and video in marketing](#ai-and-video-in-marketing)
+  - [Generative AI beyond writing and design](#generative-ai-beyond-writing-and-design)
+  - [AI, the metaverse, and immersive marketing](#ai-the-metaverse-and-immersive-marketing)
 - [**3. Developing Your AI Marketing Strategy**](#3-developing-your-ai-marketing-strategy) (2 videos)
-  - AI issues, risks, and policies
-  - AI workflow and marketing tools
+  - [AI issues, risks, and policies](#ai-issues-risks-and-policies)
+  - [AI workflow and marketing tools](#ai-workflow-and-marketing-tools)
 - [**Conclusion**](#conclusion) (1 videos)
-  - AI and your marketing and creative team
+  - [AI and your marketing and creative team](#ai-and-your-marketing-and-creative-team)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital marketing meets generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980)
@@ -91,13 +91,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - it (1)
 
 
 ### 1. Defining AI Terms for Marketers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Narrow versus general AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980)
@@ -142,7 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new, (1)
+> **Frameworks & Libraries:** ai (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), data (4), [[Generative AI]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - for (1)
@@ -188,8 +189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (6), ai (5), [[Generative AI]] (4), [[Computer Vision]] (3), data (3)
 > **Env Vars:** nlp (6)
-> **Code Keywords:** let (2), public (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
@@ -234,16 +235,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Prompt Engineering]] (3), [[Generative AI]] (2), prompt (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from. (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Navigating AI Tools for Marketers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and writing in marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980)
@@ -322,9 +323,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), ai (3), [[Generative AI]] (2), generic (1), [[Vanilla]] (1)
 > **Speakers:** - [martin] (4), - [audrey] (3)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (2), type. (1)
 > **Prerequisites:** you'll need (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -398,8 +399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), ai (4), [[Storytelling]] (1), [[DALL-E]] (1), [[Stable Diffusion]] (1)
 > **Speakers:** - [martin] (4), - [leslie] (3)
-> **Code Keywords:** let (4), for, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (1), similar to (1)
 > **Env Vars:** dall (1)
@@ -437,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2), [[Video Production]] (1), prompt (1), [[Jetpack Compose|Compose]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Generative AI beyond writing and design
@@ -473,7 +474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (7), [[Generative AI]] (2), management (2), chatbot (1), prompt (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** roi (1)
 > **Best Practices:** remember to (1)
@@ -517,8 +518,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), prompt (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), feature (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** evoo (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
@@ -526,7 +527,7 @@ created: 2026-04-29
 
 ### 3. Developing Your AI Marketing Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI issues, risks, and policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980)
@@ -571,9 +572,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), ai (4), [[Generative AI]] (2), [[Forms]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), you'll need (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nist (1)
 > **Speakers:** - generative (1)
 
@@ -646,7 +647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (7), [[Generative AI]] (2), next (1), [[Prompt Engineering]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Best Practices:** don't forget (1)
@@ -655,7 +656,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and your marketing and creative team
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980)
@@ -682,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2), [[LinkedIn]] (1)
 > **Speakers:** - well (1)
 
 

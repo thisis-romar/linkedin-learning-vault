@@ -38,7 +38,7 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Creating%20Interactive%20Tableau%20Dashboards.md)
@@ -57,78 +57,78 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Designing dashboards in Tableau
+  - [Designing dashboards in Tableau](#designing-dashboards-in-tableau)
 - [**1. How to Create the Right Kind of Dashboard**](#1-how-to-create-the-right-kind-of-dashboard) (5 videos)
-  - Who, what, where, and why: The four questions for every dashboard
-  - Who is the dashboard for?
-  - Where will the dashboard be viewed?
-  - Why are you making the dashboard?
-  - What question do you want to answer?
+  - [Who, what, where, and why: The four questions for every dashboard](#who-what-where-and-why-the-four-questions-for-every-dashboard)
+  - [Who is the dashboard for?](#who-is-the-dashboard-for)
+  - [Where will the dashboard be viewed?](#where-will-the-dashboard-be-viewed)
+  - [Why are you making the dashboard?](#why-are-you-making-the-dashboard)
+  - [What question do you want to answer?](#what-question-do-you-want-to-answer)
 - [**2. Dashboard Structure**](#2-dashboard-structure) (8 videos)
-  - Create a basic dashboard
-  - Sizing your dashboard
-  - Floating vs. tiles layouts
-  - How to use layout containers
-  - Using padding objects to help with tiled dashboards
-  - Adding a download button
-  - Challenge: Create a basic dashboard
-  - Solution: Create a basic dashboard
+  - [Create a basic dashboard](#create-a-basic-dashboard)
+  - [Sizing your dashboard](#sizing-your-dashboard)
+  - [Floating vs. tiles layouts](#floating-vs-tiles-layouts)
+  - [How to use layout containers](#how-to-use-layout-containers)
+  - [Using padding objects to help with tiled dashboards](#using-padding-objects-to-help-with-tiled-dashboards)
+  - [Adding a download button](#adding-a-download-button)
+  - [Challenge: Create a basic dashboard](#challenge-create-a-basic-dashboard)
+  - [Solution: Create a basic dashboard](#solution-create-a-basic-dashboard)
 - [**3. Dashboard Objects**](#3-dashboard-objects) (13 videos)
-  - Adding a horizontal container
-  - Adding a vertical container
-  - Using color to help with container layouts
-  - Adding text
-  - Dashboard extensions
-  - Adding images
-  - Adding blanks to help with layouts
-  - Adding a webpage to a dashboard
-  - Adding navigation between sheets
-  - Adding a download button
-  - Add filters
-  - Challenge: Adding dashboard objects
-  - Solution: Adding dashboard objects
+  - [Adding a horizontal container](#adding-a-horizontal-container)
+  - [Adding a vertical container](#adding-a-vertical-container)
+  - [Using color to help with container layouts](#using-color-to-help-with-container-layouts)
+  - [Adding text](#adding-text)
+  - [Dashboard extensions](#dashboard-extensions)
+  - [Adding images](#adding-images)
+  - [Adding blanks to help with layouts](#adding-blanks-to-help-with-layouts)
+  - [Adding a webpage to a dashboard](#adding-a-webpage-to-a-dashboard)
+  - [Adding navigation between sheets](#adding-navigation-between-sheets)
+  - [Adding a download button](#adding-a-download-button)
+  - [Add filters](#add-filters)
+  - [Challenge: Adding dashboard objects](#challenge-adding-dashboard-objects)
+  - [Solution: Adding dashboard objects](#solution-adding-dashboard-objects)
 - [**4. Dashboard Design Elements**](#4-dashboard-design-elements) (9 videos)
-  - Giving a dashboard a good title
-  - Dashboard colors
-  - Remove chart junk
-  - Visually group elements with borders
-  - Apply filters across sheets
-  - Highlight data with annotations
-  - Collapsible containers to show or hide elements
-  - Challenge: Dashboard design
-  - Solution: Dashboard design
+  - [Giving a dashboard a good title](#giving-a-dashboard-a-good-title)
+  - [Dashboard colors](#dashboard-colors)
+  - [Remove chart junk](#remove-chart-junk)
+  - [Visually group elements with borders](#visually-group-elements-with-borders)
+  - [Apply filters across sheets](#apply-filters-across-sheets)
+  - [Highlight data with annotations](#highlight-data-with-annotations)
+  - [Collapsible containers to show or hide elements](#collapsible-containers-to-show-or-hide-elements)
+  - [Challenge: Dashboard design](#challenge-dashboard-design)
+  - [Solution: Dashboard design](#solution-dashboard-design)
 - [**5. Interactions with Dashboard Actions**](#5-interactions-with-dashboard-actions) (10 videos)
-  - Adding interaction with actions
-  - Filter actions
-  - Highlight actions
-  - URL actions
-  - The Go to Sheet action
-  - Proportional brushing using set actions
-  - Asymmetric drill down using set actions
-  - Highlighting with parameter actions
-  - Challenge: Dashboard actions
-  - Solution: Dashboard actions
+  - [Adding interaction with actions](#adding-interaction-with-actions)
+  - [Filter actions](#filter-actions)
+  - [Highlight actions](#highlight-actions)
+  - [URL actions](#url-actions)
+  - [The Go to Sheet action](#the-go-to-sheet-action)
+  - [Proportional brushing using set actions](#proportional-brushing-using-set-actions)
+  - [Asymmetric drill down using set actions](#asymmetric-drill-down-using-set-actions)
+  - [Highlighting with parameter actions](#highlighting-with-parameter-actions)
+  - [Challenge: Dashboard actions](#challenge-dashboard-actions)
+  - [Solution: Dashboard actions](#solution-dashboard-actions)
 - [**6. Using Story Dashboards**](#6-using-story-dashboards) (6 videos)
-  - DataViz vs. data stories
-  - Narrative structure
-  - Big stories
-  - Small stories
-  - Challenge: Dashboard stories
-  - Solution: Dashboard stories
+  - [DataViz vs. data stories](#dataviz-vs-data-stories)
+  - [Narrative structure](#narrative-structure)
+  - [Big stories](#big-stories)
+  - [Small stories](#small-stories)
+  - [Challenge: Dashboard stories](#challenge-dashboard-stories)
+  - [Solution: Dashboard stories](#solution-dashboard-stories)
 - [**7. One Dataset, Five Dashboards**](#7-one-dataset-five-dashboards) (7 videos)
-  - Build an exploratory dashboard
-  - Build an informative dashboard
-  - Build a data story
-  - Build a KPI dashboard
-  - Design for tablets and mobiles
-  - Challenge: Dashboard styles
-  - Solution: Dashboard styles
+  - [Build an exploratory dashboard](#build-an-exploratory-dashboard)
+  - [Build an informative dashboard](#build-an-informative-dashboard)
+  - [Build a data story](#build-a-data-story)
+  - [Build a KPI dashboard](#build-a-kpi-dashboard)
+  - [Design for tablets and mobiles](#design-for-tablets-and-mobiles)
+  - [Challenge: Dashboard styles](#challenge-dashboard-styles)
+  - [Solution: Dashboard styles](#solution-dashboard-styles)
 - [**Conclusion: Continuing Your Tableau Dashboard Learning Journey**](#conclusion-continuing-your-tableau-dashboard-learning-journey) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing dashboards in Tableau
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980)
@@ -157,13 +157,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (4), [[Dashboards]] (4), [[Tableau]] (4)
 > **Speakers:** - [matt] (1)
 
 
 ### 1. How to Create the Right Kind of Dashboard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Who, what, where, and why: The four questions for every dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/the-four-questions-for-every-dashboard?u=76281980)
@@ -298,8 +298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), product (1), business (1), [[Dashboards]] (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** finally, (1), else. (1)
 > **Env Vars:** kpi (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -407,7 +407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), public (2), let (1), for, (1), this, (1)
+> **Frameworks & Libraries:** data (30), [[Dashboards]] (3), management (3), teams (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1), means that (1)
 > **Speakers:** - [instructor] (1)
@@ -541,8 +541,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1), web (1)
 > **CLI Commands:** make (4), find (3)
-> **Code Keywords:** let (2), case, (1), this, (1), include, (1), static (1)
 > **Definitions:** means that (2)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
@@ -693,8 +693,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Dashboards]] (16), next (2), business (1)
 > **CLI Commands:** make (9), find (4)
-> **Code Keywords:** case, (3), let (2), finally, (1), for, (1), for. (1)
 > **Env Vars:** kpi (6)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (3)
@@ -823,7 +823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), case, (1)
+> **Frameworks & Libraries:** data (25), [[Tableau]] (2), [[Dashboards]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** common mistake (1)
@@ -832,7 +832,7 @@ created: 2026-04-29
 
 ### 2. Dashboard Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a basic dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980)
@@ -997,7 +997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (2), this. (2), interface (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Dashboards]] (1), [[Zoom]] (1)
 > **UI Navigation:** go to (1), drag and drop (1), checkbox (1), click on (1), select the (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Cross-References:** later in (1)
@@ -1111,7 +1111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** product (3), [[Dashboards]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Speakers:** - [instructor] (1)
@@ -1221,7 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), next (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** snap (1)
 > **Speakers:** - [instructor] (1)
@@ -1373,8 +1373,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (7), data (3), [[Dashboards]] (1)
 > **UI Navigation:** go to (7), drag and drop (4), double-click (2), select the (1)
-> **Code Keywords:** let (6), override (1), else. (1)
 > **Definitions:** means that (2), is a  (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [presenter] (1)
@@ -1526,7 +1526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), default, (1), try. (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), data (2), [[Dashboards]] (1), next (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
 > **Definitions:** is a  (1)
@@ -1646,9 +1646,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (1), data (1)
 > **UI Navigation:** go to (3), drag and drop (1), select the (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (1), let (1), this, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
@@ -1685,6 +1685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), next (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [lecturer] (1)
@@ -1847,7 +1848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1)
+> **Frameworks & Libraries:** product (10), data (7), next (3), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
@@ -1858,7 +1859,7 @@ created: 2026-04-29
 
 ### 3. Dashboard Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding a horizontal container
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980)
@@ -2007,7 +2008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), try, (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Zoom]] (1)
 > **UI Navigation:** click on (3), drag and drop (1), go to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -2131,7 +2132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (1), override (1), case, (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), next (2), data (2)
 > **UI Navigation:** click on (3), scroll down (1), select the (1), go to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
@@ -2287,9 +2288,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (4), next (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** go to (3), select the (1), right-click (1), click on (1), double-click (1)
-> **Code Keywords:** let (4)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2378,8 +2379,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), type. (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -2499,7 +2500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), public (2), this. (2), extends (1), export. (1)
+> **Frameworks & Libraries:** [[Tableau]] (7), data (4), [[Microsoft Excel|Excel]] (4), [[Dashboards]] (2), application (2)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **UI Navigation:** drag and drop (1), click on (1)
@@ -2666,7 +2667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), try, (1), case, (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), data (2), hit (2), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** make (2)
 > **Analogies:** kind of like (1), for example (1)
@@ -2807,9 +2808,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **UI Navigation:** go to (3), dropdown (2), select the (2), click on (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (3), function (1)
 > **Speakers:** - [instructor] (1)
 
 #### Adding a webpage to a dashboard
@@ -2897,7 +2898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (2)
+> **Frameworks & Libraries:** data (10), [[Dashboards]] (2), [[Fetch]] (1), application (1), web (1)
 > **Env Vars:** url (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -3010,8 +3011,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (6), hit (2), next (2), data (1)
 > **UI Navigation:** go to (9), click on (5), select the (2), toggle (2)
-> **Code Keywords:** let (5), switch (1), function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3108,10 +3109,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft PowerPoint|Powerpoint]] (2), hit (2)
 > **Env Vars:** pdf (12)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3250,8 +3251,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), hit (2), product (1), [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (7), dropdown (3), select the (2), click on (1)
-> **Code Keywords:** default, (3), let (2), else. (2), case, (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** means that (1), is a  (1)
@@ -3280,7 +3281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), next (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -3463,7 +3464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), self (1), case, (1)
+> **Frameworks & Libraries:** hit (3), next (2), [[Dashboards]] (1)
 > **UI Navigation:** go to (7), click on (2), drag and drop (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** pdf (4)
@@ -3474,7 +3475,7 @@ created: 2026-04-29
 
 ### 4. Dashboard Design Elements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Giving a dashboard a good title
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980)
@@ -3677,8 +3678,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Products|Products]] (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (3), else. (1), case, (1), for, (1)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Speakers:** - [instructor] (1)
@@ -3854,7 +3855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), case, (1)
+> **Frameworks & Libraries:** data (14), hit (4), business (1)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** click on (3), go to (3)
 > **Cross-References:** go back to (3)
@@ -4061,8 +4062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Tableau]] (3), [[Dashboards]] (1), next (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (2), throw (1), from. (1)
 > **Definitions:** refers to (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1), - 20 (1)
@@ -4177,9 +4178,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Tableau]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Dashboards]] (1)
 > **UI Navigation:** go to (5), click on (2), drag and drop (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (1), case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Apply filters across sheets
@@ -4297,8 +4298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), hit (2)
 > **UI Navigation:** go to (5), select the (2), click on (1)
-> **Code Keywords:** let (2), default, (1), for. (1), case, (1)
 > **Definitions:** means that (3), refers to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -4440,8 +4441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Microsoft Products|Products]] (2), business (1), [[Lead Generation]] (1), hit (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), default, (1), continue (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** month (1)
 > **UI Navigation:** select the (1)
@@ -4589,9 +4590,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), select the (3), go to (1)
 > **Definitions:** is a  (2), means that (2), is an  (1)
-> **Code Keywords:** this, (2), let (1), case. (1)
 > **Warnings:** be aware (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4627,8 +4628,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** for. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4872,9 +4873,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), product (3), hit (1), [[Tableau]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** select the (5), go to (5), click on (3), dropdown (1)
 > **CLI Commands:** make (13)
-> **Code Keywords:** let (11), else, (1), else. (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -4883,7 +4884,7 @@ created: 2026-04-29
 
 ### 5. Interactions with Dashboard Actions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding interaction with actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980)
@@ -4986,9 +4987,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Dashboards]] (4), [[Tableau]] (2), web (2), [[Analytics]] (1)
 > **Env Vars:** url (8)
 > **UI Navigation:** click on (6), go to (1), select the (1)
-> **Code Keywords:** pass (1), else. (1), static (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -5140,8 +5141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Tableau]] (1), hit (1)
 > **UI Navigation:** click on (4), go to (3), select the (2), dropdown (1)
-> **Code Keywords:** let (4), case, (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -5275,7 +5276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Office|Office]] (2), [[Tableau]] (1), product (1)
 > **UI Navigation:** go to (4), select the (3)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (1)
@@ -5385,9 +5386,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), web (1), product (1), next (1), [[Tableau]] (1)
 > **Env Vars:** url (13)
 > **UI Navigation:** go to (7), open the (2), select the (2), click on (2)
-> **Code Keywords:** pass (4), case, (3), this, (2), from, (1), let (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -5495,8 +5496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (3), data (3), prompt (1)
 > **UI Navigation:** go to (14), select the (2), click on (1)
-> **Code Keywords:** let (2), else. (1), interface (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -5629,8 +5630,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (6), right-click (1)
-> **Code Keywords:** let (4)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -5764,8 +5765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (1), next (1), power (1)
 > **UI Navigation:** click on (4), go to (4), right-click (1)
-> **Code Keywords:** let (5), case, (1), else, (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -5876,7 +5877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2)
+> **Frameworks & Libraries:** data (5), [[Dashboards]] (2)
 > **UI Navigation:** dropdown (1), go to (1), select the (1), click on (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -5901,7 +5902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (1), product (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
@@ -6054,7 +6055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), public (2), case, (1), this. (1), else, (1)
+> **Frameworks & Libraries:** product (11), next (2), data (1)
 > **UI Navigation:** go to (4), select the (2), click on (2)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (1)
@@ -6066,7 +6067,7 @@ created: 2026-04-29
 
 ### 6. Using Story Dashboards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DataViz vs. data stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980)
@@ -6195,9 +6196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), business (1), [[Tableau]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (5), find (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), else. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Narrative structure
@@ -6323,8 +6324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Dashboards]] (4), [[Storytelling]] (1), hit (1), next (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** this. (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Big stories
@@ -6468,8 +6469,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (2), power (2), [[Big Data]] (1), [[Tableau]] (1)
 > **CLI Commands:** make (13), find (2)
-> **Code Keywords:** let (6), this, (3), function (1), else. (1), new. (1)
 > **UI Navigation:** click on (4)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
@@ -6633,7 +6634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), this, (1), case. (1)
+> **Frameworks & Libraries:** next (6), data (4), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Analogies:** for example (2)
@@ -6658,6 +6659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -6828,7 +6830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), from, (1)
+> **Frameworks & Libraries:** data (11), product (4), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), next (1)
 > **CLI Commands:** make (3), find (2)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** click on (2), select the (1)
@@ -6839,7 +6841,7 @@ created: 2026-04-29
 
 ### 7. One Dataset, Five Dashboards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build an exploratory dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980)
@@ -7168,7 +7170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), this. (1), delete (1)
+> **Frameworks & Libraries:** data (18), [[Dashboards]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), find (3)
 > **UI Navigation:** go to (6), select the (1), click on (1)
 > **Definitions:** is a  (2), we call this (1), is an  (1)
@@ -7376,7 +7378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this, (1)
+> **Frameworks & Libraries:** product (6), data (5), [[Microsoft Products|Products]] (5), [[Zoom]] (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** select the (2), go to (1), click on (1)
 > **Definitions:** is a  (2)
@@ -7596,8 +7598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Dashboards]] (6), next (4), [[Tableau]] (3), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (3), click on (3), select the (1)
-> **Code Keywords:** let (3), this. (1), case, (1), static (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3)
 > **Analogies:** for example (1)
@@ -7891,7 +7893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (1)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (4), click on (3), right-click (2), select the (1), drag and drop (1)
 > **Env Vars:** kpi (10)
 > **CLI Commands:** make (4)
@@ -8095,7 +8097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (4), default, (2), public (1), switch (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Dashboards]] (2), generic (2), [[React.js|React]] (1), data (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
 > **UI Navigation:** click on (2)
@@ -8324,7 +8326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default, (3), for. (1), case, (1), default. (1)
+> **Frameworks & Libraries:** generic (3), product (2), [[Tableau]] (1)
 > **UI Navigation:** go to (9), click on (1)
 > **CLI Commands:** make (6), find (1)
 > **Cross-References:** go back to (4)
@@ -8335,7 +8337,7 @@ created: 2026-04-29
 
 ### Conclusion: Continuing Your Tableau Dashboard Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/next-steps-and-additional-resources?u=76281980)
@@ -8394,8 +8396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (12), data (9), next (1), [[Search]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** public (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

@@ -40,7 +40,7 @@ tags:
   - skill/cloud-infrastructure
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Determining%20Your%20Cloud%20Strategy-%20Planning%20for%20Roadmap%2C%20Infrastructure%2C%20and%20Deployment.md)
@@ -59,33 +59,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How to determine your cloud strategy
+  - [How to determine your cloud strategy](#how-to-determine-your-cloud-strategy)
 - [**1. Starting the Journey with the Cloud**](#1-starting-the-journey-with-the-cloud) (5 videos)
-  - Defining the need to move to the cloud
-  - Understanding cloud deployment models
-  - Evaluating sustainability
-  - Educating your stakeholders
-  - Creating a future roadmap
+  - [Defining the need to move to the cloud](#defining-the-need-to-move-to-the-cloud)
+  - [Understanding cloud deployment models](#understanding-cloud-deployment-models)
+  - [Evaluating sustainability](#evaluating-sustainability)
+  - [Educating your stakeholders](#educating-your-stakeholders)
+  - [Creating a future roadmap](#creating-a-future-roadmap)
 - [**2. Identifying a Proof of Concept (POC) Project**](#2-identifying-a-proof-of-concept-poc-project) (2 videos)
-  - Identifying the right candidate for a POC
-  - Building your POC team
+  - [Identifying the right candidate for a POC](#identifying-the-right-candidate-for-a-poc)
+  - [Building your POC team](#building-your-poc-team)
 - [**3. Creating a Center of Excellence (COE)**](#3-creating-a-center-of-excellence-coe) (3 videos)
-  - Defining the roles and responsibilities of the COE
-  - Building the COE team
-  - Enabling the COE
+  - [Defining the roles and responsibilities of the COE](#defining-the-roles-and-responsibilities-of-the-coe)
+  - [Building the COE team](#building-the-coe-team)
+  - [Enabling the COE](#enabling-the-coe)
 - [**4. Leveraging the Partner Ecosystem**](#4-leveraging-the-partner-ecosystem) (2 videos)
-  - Finding the right partner
-  - Evaluating the need for a managed service provider (MSP)
+  - [Finding the right partner](#finding-the-right-partner)
+  - [Evaluating the need for a managed service provider (MSP)](#evaluating-the-need-for-a-managed-service-provider-msp)
 - [**5. Designing for Emerging Tech Use Cases**](#5-designing-for-emerging-tech-use-cases) (3 videos)
-  - Designing for GenAI
-  - Designing for 6G
-  - Designing for natural language processing (NLP)
+  - [Designing for GenAI](#designing-for-genai)
+  - [Designing for 6G](#designing-for-6g)
+  - [Designing for natural language processing (NLP)](#designing-for-natural-language-processing-nlp)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine your cloud strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/how-to-determine-your-cloud-strategy?u=76281980)
@@ -108,8 +108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), ai (1), aws (1), [[Automation]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ewow (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - in (1)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 ### 1. Starting the Journey with the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the need to move to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980)
@@ -162,7 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2)
+> **Frameworks & Libraries:** cloud (10), ai (3), business (1), power (1), [[DevOps]] (1)
 > **Speakers:** - organizations (1)
 
 #### Understanding cloud deployment models
@@ -212,7 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), private (5)
+> **Frameworks & Libraries:** cloud (14), data (8), ai (6), [[Hybrid Cloud]] (4), business (2)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2)
 > **Analogies:** for example (2)
@@ -257,7 +257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), cloud (5), ai (3), power (1)
 > **Env Vars:** esg (1)
 > **Analogies:** such as (1)
 > **Speakers:** - sustainability (1)
@@ -299,6 +299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), management (2), business (2), teams (2), [[Engineering]] (1)
 > **Env Vars:** poc (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - cloud (1)
@@ -342,6 +343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), business (3), ai (3), [[Forms]] (1), application (1)
 > **Env Vars:** poc (2), sla (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - many (1)
@@ -349,7 +351,7 @@ created: 2026-04-29
 
 ### 2. Identifying a Proof of Concept (POC) Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the right candidate for a POC
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/identifying-the-right-candidate-for-poc?u=76281980)
@@ -390,8 +392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), business (2), application (1), ai (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - most (1)
 
@@ -422,6 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), next (1), ai (1)
 > **CLI Commands:** make (1)
 > **Warnings:** caution (1)
 > **Speakers:** - after (1)
@@ -429,7 +432,7 @@ created: 2026-04-29
 
 ### 3. Creating a Center of Excellence (COE)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the roles and responsibilities of the COE
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-roles-and-responsibilities-of-the-coe?u=76281980)
@@ -470,6 +473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), business (2), [[Security]] (1), [[Automation]] (1), ai (1)
 > **Env Vars:** coe (8)
 > **Prerequisites:** set up (1)
 > **Speakers:** - starting (1)
@@ -517,8 +521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), teams (1), functional (1), [[Security]] (1), database (1)
 > **Env Vars:** coe (11), ceo (1)
-> **Code Keywords:** static (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - cloud (1)
@@ -562,14 +566,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), teams (3), ai (3), [[LinkedIn]] (1), [[Scrum]] (1)
 > **Env Vars:** coe (9)
-> **Code Keywords:** this. (1)
 > **Speakers:** - one (1)
 
 
 ### 4. Leveraging the Partner Ecosystem
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding the right partner
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/finding-the-right-partner?u=76281980)
@@ -602,6 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), ai (2), [[Automation]] (2), nlp (2), aws (1)
 > **Env Vars:** nlp (2), aws (1)
 > **CLI Commands:** aws (1), find (1)
 > **Analogies:** such as (1), for example (1)
@@ -636,6 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Security]] (2), ai (2), [[DevOps]] (1), [[Automation]] (1)
 > **Env Vars:** msp (5), hipaa (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
@@ -645,7 +651,7 @@ created: 2026-04-29
 
 ### 5. Designing for Emerging Tech Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980)
@@ -686,6 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), cloud (4), data (4), [[Generative AI]] (3), [[DevOps]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - generative (1)
@@ -723,7 +730,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** data (7), cloud (5), [[Sustainability]] (2), next (1), [[Real-Time]] (1)
 > **Speakers:** - 6g (1)
 
 #### Designing for natural language processing (NLP)
@@ -765,16 +772,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (10), cloud (4), data (3), ai (2), [[Security]] (2)
 > **Env Vars:** nlp (10), aws (1), api (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - natural (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980)
@@ -793,6 +800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[LinkedIn]] (2), next (1), [[Generative AI]] (1)
 > **Speakers:** - in (1)
 
 

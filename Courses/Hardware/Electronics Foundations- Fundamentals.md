@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/electronics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Electronics%20Foundations-%20Fundamentals.md)
@@ -49,38 +49,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - The fundamentals of electronics
-  - What you should know
-  - Using the exercise files
-  - Safety message
+  - [The fundamentals of electronics](#the-fundamentals-of-electronics)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [Safety message](#safety-message)
 - [**1. Fundamentals of Electricity**](#1-fundamentals-of-electricity) (9 videos)
-  - Electrical charge
-  - Conductors and insulators
-  - Voltage
-  - Current
-  - Circuit basics
-  - Resistance and Ohm's Law
-  - SI prefixes
-  - Challenge: Limit current to an LED
-  - Solution: Limit current to an LED
+  - [Electrical charge](#electrical-charge)
+  - [Conductors and insulators](#conductors-and-insulators)
+  - [Voltage](#voltage)
+  - [Current](#current)
+  - [Circuit basics](#circuit-basics)
+  - [Resistance and Ohm's Law](#resistance-and-ohms-law)
+  - [SI prefixes](#si-prefixes)
+  - [Challenge: Limit current to an LED](#challenge-limit-current-to-an-led)
+  - [Solution: Limit current to an LED](#solution-limit-current-to-an-led)
 - [**2. Multimeter Measurements**](#2-multimeter-measurements) (3 videos)
-  - What is a multimeter?
-  - Measure DC voltage
-  - Measure direct current
+  - [What is a multimeter?](#what-is-a-multimeter)
+  - [Measure DC voltage](#measure-dc-voltage)
+  - [Measure direct current](#measure-direct-current)
 - [**3. Power**](#3-power) (7 videos)
-  - Electric power
-  - Ideal vs. real-world power sources
-  - Battery capacity
-  - Batteries in series and parallel
-  - Grounded vs. floating power sources
-  - Challenge: Power a light bulb
-  - Solution: Power a light bulb
+  - [Electric power](#electric-power)
+  - [Ideal vs. real-world power sources](#ideal-vs-real-world-power-sources)
+  - [Battery capacity](#battery-capacity)
+  - [Batteries in series and parallel](#batteries-in-series-and-parallel)
+  - [Grounded vs. floating power sources](#grounded-vs-floating-power-sources)
+  - [Challenge: Power a light bulb](#challenge-power-a-light-bulb)
+  - [Solution: Power a light bulb](#solution-power-a-light-bulb)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your electronics journey
+  - [Continue your electronics journey](#continue-your-electronics-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The fundamentals of electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/the-fundamentals-of-electronics?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** power (5), [[Electronics]] (3), [[Debugging]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - working (1)
 
@@ -136,6 +136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - if (1)
 
@@ -168,6 +169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Electronics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** exercise files (3), exercise file (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pdf (1)
@@ -205,6 +207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (2), power (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -213,7 +216,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Electricity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Electrical charge
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electrical-charge-14050884?u=76281980)
@@ -284,7 +287,6 @@ created: 2026-04-29
 >
 > **Tools:** atom (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
@@ -345,7 +347,6 @@ created: 2026-04-29
 >
 > **Analogies:** such as (2), analogous to (1), similar to (1), for example (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** pass (2)
 > **Tools:** atom (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - electricity (1), - for (1)
@@ -453,6 +454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4)
 > **Tools:** terminal (8)
 > **Analogies:** for example (2)
 > **Env Vars:** mp3 (1)
@@ -514,6 +516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1)
 > **Tools:** terminal (6)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** mp3 (1)
@@ -584,8 +587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), next (1)
 > **Definitions:** is a  (3), is called (2)
-> **Code Keywords:** continue (2), finally, (1), switch (1)
 > **CLI Commands:** make (2)
 > **Tools:** terminal (2)
 > **Analogies:** for example (2)
@@ -668,7 +671,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** this, (1)
 > **Versions:** 0.45 (1)
 > **Speakers:** - as (1)
 
@@ -715,9 +717,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Electronics]] (2)
 > **Versions:** 0.003 (1), 0.042 (1), 0.15 (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -770,6 +772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Env Vars:** led (14)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
@@ -836,7 +839,6 @@ created: 2026-04-29
 > **Definitions:** is a  (4)
 > **Tools:** terminal (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Versions:** 466.7 (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (upbeat bright bouncy music) (1)
@@ -844,7 +846,7 @@ created: 2026-04-29
 
 ### 2. Multimeter Measurements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a multimeter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980)
@@ -915,11 +917,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Troubleshooting]] (1), [[Hardware]] (1)
 > **Env Vars:** dmm (14), mn36 (1)
 > **URLs:** [amazon.com](https://amazon.com) (1), [sparkfun.com](https://sparkfun.com) (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - when (1)
@@ -1021,8 +1023,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), feature (1)
 > **Env Vars:** dmm (13), led (5), vac (1), vdc (1)
-> **Code Keywords:** require (1), case, (1), this, (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
@@ -1101,8 +1103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dmm (19), led (5)
-> **Code Keywords:** break, (1), continue (1), let (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
@@ -1113,7 +1115,7 @@ created: 2026-04-29
 
 ### 3. Power
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Electric power
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980)
@@ -1206,9 +1208,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (20), [[Forms]] (3), [[Electronics]] (2), [[React.js|React]] (1), [[Arduino]] (1)
 > **Definitions:** is a  (3), known as (2), means that (1)
 > **Env Vars:** led (3), uno (1)
-> **Code Keywords:** require (1), static (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1269,8 +1271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (8), [[Circuit Design]] (1), [[Prototyping]] (1)
 > **Env Vars:** led (1), usb (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - when (1)
@@ -1352,7 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1)
+> **Frameworks & Libraries:** power (4)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), just like (1)
 > **Speakers:** - unfortunately (1)
@@ -1424,10 +1426,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (16), power (3)
 > **Tools:** terminal (4)
 > **Versions:** 1.5 (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Grounded vs. floating power sources
@@ -1485,9 +1487,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7)
 > **Tools:** terminal (6)
 > **Env Vars:** com (2), gnd (1)
-> **Code Keywords:** static (1), this. (1)
 > **CLI Commands:** find (1)
 > **Versions:** 1.5 (1)
 > **Definitions:** is a  (1)
@@ -1523,7 +1525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1), from, (1)
+> **Frameworks & Libraries:** parallel (2), power (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** aaa (1)
 > **Exercise Files:** exercise files (1)
@@ -1583,7 +1585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (2)
+> **Frameworks & Libraries:** parallel (2), next (1), [[Electronics]] (1)
 > **Env Vars:** aaa (2)
 > **Versions:** 1.5 (1)
 > **Speakers:** - [instructor] (1)
@@ -1592,7 +1594,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your electronics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/continue-your-electronics-journey?u=76281980)
@@ -1613,7 +1615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - thanks (1)
 

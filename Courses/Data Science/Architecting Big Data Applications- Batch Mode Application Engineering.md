@@ -35,7 +35,7 @@ tags:
   - skill/big-data
   - skill/batch-processing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Architecting%20Big%20Data%20Applications-%20Batch%20Mode%20Application%20Engineering.md)
@@ -54,52 +54,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Architecting big data applications
+  - [Architecting big data applications](#architecting-big-data-applications)
 - [**1. Introduction to Big Data Applications**](#1-introduction-to-big-data-applications) (5 videos)
-  - Characteristics of batch processing
-  - Challenges building batch applications
-  - Technologies for batch big data engineering
-  - Use cases for batch big data
-  - Architecture process for data engineering
+  - [Characteristics of batch processing](#characteristics-of-batch-processing)
+  - [Challenges building batch applications](#challenges-building-batch-applications)
+  - [Technologies for batch big data engineering](#technologies-for-batch-big-data-engineering)
+  - [Use cases for batch big data](#use-cases-for-batch-big-data)
+  - [Architecture process for data engineering](#architecture-process-for-data-engineering)
 - [**2. Big Data Architecture Principles**](#2-big-data-architecture-principles) (5 videos)
-  - Making the choice: Real-time vs. batch
-  - Horizontal scaling
-  - Distributed processing
-  - Technology selection
-  - Technology integrations
+  - [Making the choice: Real-time vs. batch](#making-the-choice-real-time-vs-batch)
+  - [Horizontal scaling](#horizontal-scaling)
+  - [Distributed processing](#distributed-processing)
+  - [Technology selection](#technology-selection)
+  - [Technology integrations](#technology-integrations)
 - [**3. Batch Application Architecture Principles**](#3-batch-application-architecture-principles) (5 videos)
-  - Schedule selection
-  - Minimizing data volumes
-  - Uniform load distribution
-  - Using caches
-  - Reprocessing
+  - [Schedule selection](#schedule-selection)
+  - [Minimizing data volumes](#minimizing-data-volumes)
+  - [Uniform load distribution](#uniform-load-distribution)
+  - [Using caches](#using-caches)
+  - [Reprocessing](#reprocessing)
 - [**4. Use Case 1: Audit Trail Data Archive**](#4-use-case-1-audit-trail-data-archive) (6 videos)
-  - Audit trail: Define the problem
-  - Audit trail: Study requirements
-  - Audit trail: Create a workflow
-  - Audit trail: Scale the workflow
-  - Audit trail: Select technologies
-  - Audit trail: Review final architecture
+  - [Audit trail: Define the problem](#audit-trail-define-the-problem)
+  - [Audit trail: Study requirements](#audit-trail-study-requirements)
+  - [Audit trail: Create a workflow](#audit-trail-create-a-workflow)
+  - [Audit trail: Scale the workflow](#audit-trail-scale-the-workflow)
+  - [Audit trail: Select technologies](#audit-trail-select-technologies)
+  - [Audit trail: Review final architecture](#audit-trail-review-final-architecture)
 - [**5. Use Case 2: Advertising Analytics**](#5-use-case-2-advertising-analytics) (6 videos)
-  - Advertising analytics: Define the problem
-  - Advertising analytics: Study requirements
-  - Advertising analytics: Create a workflow
-  - Advertising analytics: Scale the workflow
-  - Advertising analytics: Select technologies
-  - Advertising analytics: Review final architecture
+  - [Advertising analytics: Define the problem](#advertising-analytics-define-the-problem)
+  - [Advertising analytics: Study requirements](#advertising-analytics-study-requirements)
+  - [Advertising analytics: Create a workflow](#advertising-analytics-create-a-workflow)
+  - [Advertising analytics: Scale the workflow](#advertising-analytics-scale-the-workflow)
+  - [Advertising analytics: Select technologies](#advertising-analytics-select-technologies)
+  - [Advertising analytics: Review final architecture](#advertising-analytics-review-final-architecture)
 - [**6. Use Case 3: Product Recommendations**](#6-use-case-3-product-recommendations) (6 videos)
-  - Product recommendations: Define the problem
-  - Product recommendations: Study requirements
-  - Product recommendations: Create a workflow
-  - Product recommendations: Scale the workflow
-  - Product recommendations: Select technologies
-  - Product recommendations: Review the final architecture
+  - [Product recommendations: Define the problem](#product-recommendations-define-the-problem)
+  - [Product recommendations: Study requirements](#product-recommendations-study-requirements)
+  - [Product recommendations: Create a workflow](#product-recommendations-create-a-workflow)
+  - [Product recommendations: Scale the workflow](#product-recommendations-scale-the-workflow)
+  - [Product recommendations: Select technologies](#product-recommendations-select-technologies)
+  - [Product recommendations: Review the final architecture](#product-recommendations-review-the-final-architecture)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to architect big data applications
+  - [Continuing to architect big data applications](#continuing-to-architect-big-data-applications)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecting big data applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecting-big-data-applications?u=76281980)
@@ -118,13 +118,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[LinkedIn]] (1)
 > **Speakers:** - architecting (1)
 
 
 ### 1. Introduction to Big Data Applications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of batch processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980)
@@ -171,7 +171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (11), [[Batch Processing]] (6), application (3), [[Big Data]] (1), business (1)
 > **Speakers:** - let (1)
 
 #### Challenges building batch applications
@@ -205,8 +205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Big Data]] (5), concurrent (1), application (1), [[Troubleshooting]] (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Technologies for batch big data engineering
@@ -248,8 +248,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Big Data]] (4), [[Databases]] (3), [[Apache Spark]] (1), cloud (1)
 > **CLI Commands:** apache (4), aws (1)
-> **Code Keywords:** case, (1), interface (1)
 > **Env Vars:** aws (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -295,8 +295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Big Data]] (5), [[Batch Processing]] (3), business (2), product (2)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -347,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), type. (1), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), data (3), [[Big Data]] (2), functional (2), next (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** select the (1)
@@ -357,7 +357,7 @@ created: 2026-04-29
 
 ### 2. Big Data Architecture Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making the choice: Real-time vs. batch
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980)
@@ -424,6 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (9), data (4), [[Big Data]] (3), business (2), [[Batch Processing]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous chapter (1)
@@ -506,8 +507,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), node (10), application (4), [[Big Data]] (2), database (2)
 > **CLI Commands:** node (10)
-> **Code Keywords:** require (2), static (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -552,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
+> **Frameworks & Libraries:** data (6), [[Big Data]] (3), [[Microservices]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -641,7 +642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), require (3), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Databases]] (4), application (2), [[NoSQL]] (2), data (2)
 > **CLI Commands:** make (2), apache (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** later in (1)
@@ -685,6 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Big Data]] (2), [[Apache Spark]] (2), [[Apache Kafka]] (1), [[Scalability]] (1)
 > **CLI Commands:** apache (3), node (1)
 > **Env Vars:** hdfs (4)
 > **Analogies:** for example (2)
@@ -694,7 +696,7 @@ created: 2026-04-29
 
 ### 3. Batch Application Architecture Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Schedule selection
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980)
@@ -745,6 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Batch Processing]] (3), [[Big Data]] (2), next (1), [[Apache Spark]] (1)
 > **CLI Commands:** apache (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -803,9 +806,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Big Data]] (3), product (3), [[Batch Processing]] (1), [[Analytics]] (1)
 > **Env Vars:** hdfs (3), cpu (1), rdbms (1), where (1), sql (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** interface (1), pass (1)
 > **Analogies:** for example (2)
 > **SQL:** where (1)
 > **Best Practices:** recommended (1)
@@ -874,8 +877,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Big Data]] (4), node (4), data (4), [[Apache Spark]] (1), [[Apache Kafka]] (1)
 > **CLI Commands:** node (4), apache (2)
-> **Code Keywords:** require (1), this, (1)
 > **Env Vars:** htfs (1), rdbms (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -920,7 +923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3)
+> **Frameworks & Libraries:** data (15), [[Big Data]] (2), [[Databases]] (1), [[Redis]] (1), node (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** node (1)
 > **Prerequisites:** set up (1)
@@ -973,7 +976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), case, (1)
+> **Frameworks & Libraries:** data (9), [[Big Data]] (1), [[Analytics]] (1), next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** recommended (2)
 > **Cross-References:** in the next (1)
@@ -982,7 +985,7 @@ created: 2026-04-29
 
 ### 4. Use Case 1: Audit Trail Data Archive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Audit trail: Define the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980)
@@ -1037,7 +1040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (1)
+> **Frameworks & Libraries:** data (10), [[Analytics]] (3), database (3), application (2), functional (2)
 > **Env Vars:** rdbms (2), abc (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1116,7 +1119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), case. (2), finally, (2), interface (1)
+> **Frameworks & Libraries:** data (13), database (8), [[SQL]] (5), [[Security]] (2), functional (2)
 > **Env Vars:** sql (5), rdbms (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1165,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** database (5), data (3), [[Big Data]] (1), [[SQL]] (1), [[Fetch]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1211,7 +1214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** database (6), concurrent (5), etl (2), data (2), [[Big Data]] (1)
 > **Env Vars:** etl (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous video (1)
@@ -1315,7 +1318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (3), finally, (2), interface (1), this. (1)
+> **Frameworks & Libraries:** database (5), [[MySQL]] (4), [[MongoDB]] (4), data (4), [[Apache Spark]] (3)
 > **Env Vars:** hdfs (5), rdbms (3), etl (2), sql (1)
 > **CLI Commands:** apache (5), mysql (4)
 > **Definitions:** is an  (2), is a  (2)
@@ -1371,8 +1374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (2), etl (2), [[Apache Spark]] (2)
 > **Env Vars:** hdfs (5), etl (2), rdbms (1)
-> **Code Keywords:** let (2), case. (1)
 > **CLI Commands:** apache (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -1381,7 +1384,7 @@ created: 2026-04-29
 
 ### 5. Use Case 2: Advertising Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advertising analytics: Define the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980)
@@ -1438,8 +1441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (3), data (3), product (2), [[Big Data]] (1), [[Engineering]] (1)
 > **Env Vars:** ctr (3), abc (1), sql (1)
-> **Code Keywords:** let (3)
 > **Versions:** 0.75 (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1505,8 +1508,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Analytics]] (3), product (3), database (3), [[E-Commerce]] (2)
 > **Env Vars:** api (2), sql (2), json (1), csv (1), ctr (1)
-> **Code Keywords:** let (2), case. (1), private (1)
 > **Versions:** 0.75 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1551,7 +1554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), let (2)
+> **Frameworks & Libraries:** data (14), [[Analytics]] (3), [[E-Commerce]] (2), database (2), management (2)
 > **Env Vars:** ctr (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1609,7 +1612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (11), [[Analytics]] (3), concurrent (3), api (2), database (2)
 > **Env Vars:** api (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1709,9 +1712,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (8), [[MySQL]] (6), [[Analytics]] (5), api (3)
 > **Env Vars:** hdfs (4), api (3), sql (2), sdk (1), rdbms (1)
 > **CLI Commands:** mysql (6), python (1), apache (1)
-> **Code Keywords:** let (4), finally, (2), case, (1), type, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** similar to (1)
@@ -1751,7 +1754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), let (2), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Analytics]] (2), [[Apache Spark]] (2), [[MySQL]] (2), database (1)
 > **Env Vars:** hdfs (3), api (1), jdbc (1)
 > **CLI Commands:** apache (2), mysql (2)
 > **Speakers:** - [instructor] (1)
@@ -1759,7 +1762,7 @@ created: 2026-04-29
 
 ### 6. Use Case 3: Product Recommendations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Product recommendations: Define the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980)
@@ -1806,8 +1809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), data (3), [[E-Commerce]] (2), api (2), database (2)
 > **Env Vars:** xyz (3), api (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1876,7 +1879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** database (9), product (3), data (2), [[E-Commerce]] (2), [[SQL]] (1)
 > **Env Vars:** rdbms (1), sql (1), api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1915,8 +1918,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), api (2), database (2), [[SQL]] (1), data (1)
 > **Env Vars:** api (2), rdbms (1), sql (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1970,7 +1973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** database (5), concurrent (5), data (4), product (2), api (2)
 > **Env Vars:** api (2)
 > **CLI Commands:** node (1)
 > **Cross-References:** previous video (1)
@@ -2060,9 +2063,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[MySQL]] (9), [[MongoDB]] (5), concurrent (2), [[Big Data]] (2)
 > **CLI Commands:** mysql (9), apache (2)
 > **Env Vars:** hdfs (9), rdbms (1)
-> **Code Keywords:** let (3), case. (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2100,7 +2103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), case, (1)
+> **Frameworks & Libraries:** database (5), product (3), [[Apache Spark]] (1), [[MongoDB]] (1), [[Scalability]] (1)
 > **Env Vars:** rdbms (1), apa (1)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
@@ -2108,7 +2111,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to architect big data applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/continuing-to-architect-big-data-applications?u=76281980)
@@ -2131,7 +2134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Real-Time]] (2), data (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - there (1)
 

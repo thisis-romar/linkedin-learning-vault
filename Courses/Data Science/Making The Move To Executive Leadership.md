@@ -28,7 +28,7 @@ tags:
   - skill/career-management
   - skill/executive-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Making%20The%20Move%20To%20Executive%20Leadership.md)
@@ -47,35 +47,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Three circles of executive performance
+  - [Three circles of executive performance](#three-circles-of-executive-performance)
 - [**1. Personal Leadership Skills**](#1-personal-leadership-skills) (6 videos)
-  - Scaled, deep leadership
-  - Change agent: Inventing and solving
-  - Invention
-  - Trusted decision maker
-  - How to: Build and demonstrate executive presence
-  - How to: Know where you stand
+  - [Scaled, deep leadership](#scaled-deep-leadership)
+  - [Change agent: Inventing and solving](#change-agent-inventing-and-solving)
+  - [Invention](#invention)
+  - [Trusted decision maker](#trusted-decision-maker)
+  - [How to: Build and demonstrate executive presence](#how-to-build-and-demonstrate-executive-presence)
+  - [How to: Know where you stand](#how-to-know-where-you-stand)
 - [**2. Team Leadership Skills**](#2-team-leadership-skills) (3 videos)
-  - Executing with little oversight
-  - Taking risks and recovering from setbacks
-  - Delivering results
+  - [Executing with little oversight](#executing-with-little-oversight)
+  - [Taking risks and recovering from setbacks](#taking-risks-and-recovering-from-setbacks)
+  - [Delivering results](#delivering-results)
 - [**3. Leadership for Organizational Impact**](#3-leadership-for-organizational-impact) (4 videos)
-  - Developing strategic vision
-  - Leading the whole enterprise
-  - Leading with influence
-  - How to: Engage executive sponsors
+  - [Developing strategic vision](#developing-strategic-vision)
+  - [Leading the whole enterprise](#leading-the-whole-enterprise)
+  - [Leading with influence](#leading-with-influence)
+  - [How to: Engage executive sponsors](#how-to-engage-executive-sponsors)
 - [**4. Managing the Executive Promotion Process**](#4-managing-the-executive-promotion-process) (5 videos)
-  - How to: Get unstuck in your career
-  - Understand your organization's executive promotion process
-  - Confirm the challenge level
-  - How to: Increase your scope
-  - How to: Work around poor managers
+  - [How to: Get unstuck in your career](#how-to-get-unstuck-in-your-career)
+  - [Understand your organization's executive promotion process](#understand-your-organizations-executive-promotion-process)
+  - [Confirm the challenge level](#confirm-the-challenge-level)
+  - [How to: Increase your scope](#how-to-increase-your-scope)
+  - [How to: Work around poor managers](#how-to-work-around-poor-managers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - From action to results
+  - [From action to results](#from-action-to-results)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three circles of executive performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980)
@@ -102,14 +102,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), leadership (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - whether (1)
 
 
 ### 1. Personal Leadership Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaled, deep leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/scaled-deep-leadership?u=76281980)
@@ -178,6 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), next (1), business (1), career (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** pitfall (1)
 > **Speakers:** - steve (1)
@@ -250,7 +251,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **Speakers:** - i (1)
 
@@ -307,6 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), [[Google]] (1), management (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - while (1)
@@ -388,9 +389,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), data (2), business (1)
 > **CLI Commands:** make (8)
 > **Analogies:** for example (1), picture (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is an  (1)
 > **Warnings:** common mistake (1)
@@ -467,7 +468,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), self (1), finally, (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - i (1)
 
@@ -540,7 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (1), strengths (1)
 > **Analogies:** picture (1)
 > **Warnings:** warning (1)
 > **Speakers:** - many (1)
@@ -548,7 +548,7 @@ created: 2026-04-29
 
 ### 2. Team Leadership Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Executing with little oversight
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980)
@@ -617,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), require (1), this. (1)
+> **Frameworks & Libraries:** teams (3), hit (2), [[Team Leadership]] (1), [[Human Resources (HR)|Human resources]] (1), hr (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** you'll need (1)
@@ -698,6 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), next (1), management (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** for example (1)
@@ -768,6 +769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), product (1), leadership (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** dvr (1)
 > **Speakers:** - i (1)
@@ -775,7 +777,7 @@ created: 2026-04-29
 
 ### 3. Leadership for Organizational Impact
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing strategic vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980)
@@ -846,10 +848,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), next (2), leadership (1), feature (1), teams (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ceo (1)
 > **Warnings:** note that (1)
 > **Speakers:** - executives (1)
@@ -911,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** business (3), teams (2), product (1), [[Google]] (1), [[Android]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -978,8 +980,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), data (2), power (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - the (1)
 
 #### How to: Engage executive sponsors
@@ -1055,14 +1057,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), product (1), leadership (1), career (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Speakers:** - you (1)
 
 
 ### 4. Managing the Executive Promotion Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to: Get unstuck in your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-get-unstuck-in-your-career?u=76281980)
@@ -1131,7 +1133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), finally, (1)
+> **Frameworks & Libraries:** career (5), leadership (4), next (2), management (1), [[Microsoft Products|Products]] (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 > **Speakers:** - it (1)
@@ -1207,6 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - having (1)
@@ -1276,6 +1279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), product (1), leadership (1), teams (1)
 > **Speakers:** - a (1)
 
 #### How to: Increase your scope
@@ -1351,7 +1355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), try. (1)
+> **Frameworks & Libraries:** next (3), teams (2), business (2), leadership (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - executive (1)
@@ -1415,15 +1419,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1), require (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - it (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From action to results
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980)
@@ -1506,8 +1510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[LinkedIn]] (2), [[Team Leadership]] (1), leadership (1), career (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (1), class. (1)
 > **URLs:** [ethanevans.com](https://ethanevans.com) (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - we (1)

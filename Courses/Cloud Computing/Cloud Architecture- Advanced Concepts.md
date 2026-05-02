@@ -34,7 +34,7 @@ tags:
   - skill/solution-architecture
   - skill/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Architecture-%20Advanced%20Concepts.md)
@@ -53,58 +53,58 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Orchestrating your cloud architecture
-  - Course audience
-  - Intricacies of cloud architecture
+  - [Orchestrating your cloud architecture](#orchestrating-your-cloud-architecture)
+  - [Course audience](#course-audience)
+  - [Intricacies of cloud architecture](#intricacies-of-cloud-architecture)
 - [**1. Cloud Types and Structures**](#1-cloud-types-and-structures) (3 videos)
-  - Public, private, and hybrid cloud
-  - Multicloud and polycloud
-  - Selecting the right cloud type
+  - [Public, private, and hybrid cloud](#public-private-and-hybrid-cloud)
+  - [Multicloud and polycloud](#multicloud-and-polycloud)
+  - [Selecting the right cloud type](#selecting-the-right-cloud-type)
 - [**2. Microservices**](#2-microservices) (4 videos)
-  - Understanding microservices
-  - Why use microservices?
-  - Types of services
-  - Running microservices in the cloud
+  - [Understanding microservices](#understanding-microservices)
+  - [Why use microservices?](#why-use-microservices)
+  - [Types of services](#types-of-services)
+  - [Running microservices in the cloud](#running-microservices-in-the-cloud)
 - [**3. Data and Data Management**](#3-data-and-data-management) (3 videos)
-  - Data storage in the cloud
-  - Data across services
-  - Selecting the right data model
+  - [Data storage in the cloud](#data-storage-in-the-cloud)
+  - [Data across services](#data-across-services)
+  - [Selecting the right data model](#selecting-the-right-data-model)
 - [**4. Serverless Computing**](#4-serverless-computing) (3 videos)
-  - Advantages of serverless computing
-  - Disadvantages of serverless computing
-  - Serverless computing and your applications
+  - [Advantages of serverless computing](#advantages-of-serverless-computing)
+  - [Disadvantages of serverless computing](#disadvantages-of-serverless-computing)
+  - [Serverless computing and your applications](#serverless-computing-and-your-applications)
 - [**5. Cloud Security**](#5-cloud-security) (4 videos)
-  - Cloud vs. on-premises security
-  - Leveraging cloud provider expertise
-  - Security zones
-  - Identity and permissions in the cloud
+  - [Cloud vs. on-premises security](#cloud-vs-on-premises-security)
+  - [Leveraging cloud provider expertise](#leveraging-cloud-provider-expertise)
+  - [Security zones](#security-zones)
+  - [Identity and permissions in the cloud](#identity-and-permissions-in-the-cloud)
 - [**6. Constructing a Cloud Infrastructure**](#6-constructing-a-cloud-infrastructure) (3 videos)
-  - Dynamic infrastructures
-  - Infrastructures brick by brick
-  - Infrastructure as code
+  - [Dynamic infrastructures](#dynamic-infrastructures)
+  - [Infrastructures brick by brick](#infrastructures-brick-by-brick)
+  - [Infrastructure as code](#infrastructure-as-code)
 - [**7. Managing the Cloud**](#7-managing-the-cloud) (3 videos)
-  - Single Team Oriented Service Architecture (STOSA) organizations
-  - Effective devops in the cloud
-  - Understanding automation
+  - [Single Team Oriented Service Architecture (STOSA) organizations](#single-team-oriented-service-architecture-stosa-organizations)
+  - [Effective devops in the cloud](#effective-devops-in-the-cloud)
+  - [Understanding automation](#understanding-automation)
 - [**8. AI and the Cloud**](#8-ai-and-the-cloud) (6 videos)
-  - Foundations of AI in cloud computing
-  - AI integration patterns
-  - Resource and cost considerations
-  - AI-assisted cloud operations
-  - AI-assisted security and governance
-  - Why use the cloud for AI/ML?
+  - [Foundations of AI in cloud computing](#foundations-of-ai-in-cloud-computing)
+  - [AI integration patterns](#ai-integration-patterns)
+  - [Resource and cost considerations](#resource-and-cost-considerations)
+  - [AI-assisted cloud operations](#ai-assisted-cloud-operations)
+  - [AI-assisted security and governance](#ai-assisted-security-and-governance)
+  - [Why use the cloud for AI/ML?](#why-use-the-cloud-for-aiml)
 - [**9. The Edge of the Cloud**](#9-the-edge-of-the-cloud) (2 videos)
-  - The Internet of Things
-  - Extending the cloud to the edge
+  - [The Internet of Things](#the-internet-of-things)
+  - [Extending the cloud to the edge](#extending-the-cloud-to-the-edge)
 - [**10. Cloud Sustainability and Green Computing**](#10-cloud-sustainability-and-green-computing) (2 videos)
-  - The environmental cost of computing
-  - Why the cloud is greener than on-premises
+  - [The environmental cost of computing](#the-environmental-cost-of-computing)
+  - [Why the cloud is greener than on-premises](#why-the-cloud-is-greener-than-on-premises)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Cloud Center of Excellence (CoE)
+  - [Cloud Center of Excellence (CoE)](#cloud-center-of-excellence-coe)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Orchestrating your cloud architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980)
@@ -125,7 +125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (6), application (2), [[Application Development]] (1), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - [lee] (1)
 
 #### Course audience
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), application (1), [[LinkedIn]] (1), [[Software Architecture]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Intricacies of cloud architecture
@@ -216,15 +217,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (24), application (9), traffic (6), data (3), management (2)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Cloud Types and Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Public, private, and hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980)
@@ -347,7 +348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (16), private (14), let (4), finally, (1), interface (1)
+> **Frameworks & Libraries:** cloud (36), application (9), [[Databases]] (5), management (4), [[Hybrid Cloud]] (3)
 > **Prerequisites:** set up (2), setup (2)
 > **Env Vars:** api (3)
 > **Analogies:** such as (1), for example (1)
@@ -412,9 +413,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), application (11), aws (3), gcp (3), data (2)
 > **Env Vars:** aws (3), gcp (3)
 > **CLI Commands:** aws (3), make (1)
-> **Code Keywords:** public (1), private (1)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
@@ -515,7 +516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), private (1), this, (1), this. (1)
+> **Frameworks & Libraries:** cloud (26), application (6), generic (5), api (4), data (2)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -525,7 +526,7 @@ created: 2026-04-29
 
 ### 2. Microservices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980)
@@ -560,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** application (9), teams (2), business (2), [[Microservices]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Why use microservices?
@@ -602,6 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), business (2), teams (2), [[Scalability]] (1), concurrent (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -644,7 +646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), self (1), module (1), implements (1), case, (1)
+> **Frameworks & Libraries:** cloud (11), application (5), [[Redis]] (3), database (2), aws (2)
 > **Env Vars:** aws (2), api (1), rds (1)
 > **CLI Commands:** aws (2), mysql (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -688,13 +690,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), application (3), teams (3), management (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Data and Data Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data storage in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980)
@@ -793,9 +796,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), [[Databases]] (8), [[SQL]] (7), database (5), [[NoSQL]] (5)
 > **Env Vars:** sql (7), aws (1), api (1)
 > **CLI Commands:** mysql (4), aws (1), make (1)
-> **Code Keywords:** require (3), let (1)
 > **Analogies:** such as (3), for instance (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** next video (1)
@@ -877,7 +880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (4), this, (1)
+> **Frameworks & Libraries:** data (28), application (7), management (6), cloud (2), [[SQL]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (2), api (1)
 > **Cross-References:** we talked about (1), previous chapter (1)
@@ -983,7 +986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), require (2), this, (1)
+> **Frameworks & Libraries:** data (24), [[Redis]] (4), cloud (3), application (3), database (3)
 > **Env Vars:** sql (2), aws (1), rds (1)
 > **CLI Commands:** make (1), aws (1), mysql (1)
 > **Analogies:** such as (3)
@@ -992,7 +995,7 @@ created: 2026-04-29
 
 ### 4. Serverless Computing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advantages of serverless computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980)
@@ -1103,9 +1106,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), cloud (5), [[Serverless Computing]] (5), application (2), aws (2)
 > **Env Vars:** rds (4), aws (2), sqs (1)
 > **Definitions:** is a  (7)
-> **Code Keywords:** let (4), lambda (2)
 > **CLI Commands:** aws (2)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** set up (1)
@@ -1194,7 +1197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (2), let (1), while, (1)
+> **Frameworks & Libraries:** application (9), [[Serverless Computing]] (4), aws (1), cloud (1)
 > **CLI Commands:** make (2), aws (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Analogies:** such as (2)
@@ -1248,7 +1251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), self (1), case. (1), require (1)
+> **Frameworks & Libraries:** data (2), web (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ift (1)
 > **Analogies:** for example (1)
@@ -1257,7 +1260,7 @@ created: 2026-04-29
 
 ### 5. Cloud Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud vs. on-premises security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-vs-on-premises-security-25351363?u=76281980)
@@ -1302,10 +1305,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), [[Security]] (8), data (4), [[Banking]] (1), aws (1)
 > **CLI Commands:** make (3), aws (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** private (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1364,9 +1367,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), [[Security]] (11), application (5), aws (5), [[Cloud Infrastructure]] (2)
 > **Env Vars:** aws (5), ec2 (2)
 > **CLI Commands:** aws (5)
-> **Code Keywords:** finally, (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1407,7 +1410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), public (5), function (1)
+> **Frameworks & Libraries:** [[Security]] (8), application (8), cloud (3), traffic (2), data (1)
 > **Env Vars:** dmz (3)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1482,7 +1485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2), else. (1), require (1)
+> **Frameworks & Libraries:** application (23), cloud (4), [[Security]] (3), data (3), [[Cloud Infrastructure]] (1)
 > **Definitions:** is a  (3), is an  (1), known as (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -1490,7 +1493,7 @@ created: 2026-04-29
 
 ### 6. Constructing a Cloud Infrastructure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic infrastructures
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/dynamic-infrastructures-25354418?u=76281980)
@@ -1531,6 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), traffic (3), power (1), business (1)
 > **Env Vars:** cfo (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -1576,7 +1580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), module (1), static (1)
+> **Frameworks & Libraries:** cloud (9), application (7), database (4), [[SaaS]] (2), web (1)
 > **CLI Commands:** nginx (2)
 > **Env Vars:** cdn (1)
 > **Analogies:** such as (1)
@@ -1653,9 +1657,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), data (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), application (1), [[SaaS]] (1)
 > **CLI Commands:** make (1), aws (1), terraform (1), git (1)
 > **Analogies:** such as (2), just like (1)
-> **Code Keywords:** require (1), function (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [presenter] (1)
@@ -1663,7 +1667,7 @@ created: 2026-04-29
 
 ### 7. Managing the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Single Team Oriented Service Architecture (STOSA) organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/single-team-oriented-service-architecture-stosa-organizations-25358324?u=76281980)
@@ -1768,6 +1772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (17), teams (9), data (5), cloud (1)
 > **Env Vars:** stosa (16)
 > **Definitions:** is an  (2), is a  (1)
 > **URLs:** [stosa.org](https://stosa.org) (1)
@@ -1810,6 +1815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (10), cloud (10), [[Software Development]] (1), management (1), application (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1854,6 +1860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), application (8), data (6), [[Analytics]] (5), business (1)
 > **CLI Commands:** find (1), aws (1)
 > **Definitions:** refers to (2)
 > **Analogies:** such as (2)
@@ -1863,7 +1870,7 @@ created: 2026-04-29
 
 ### 8. AI and the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundations of AI in cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980)
@@ -1946,9 +1953,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (30), business (7), cloud (6), [[Microsoft]] (4), next (1)
 > **CLI Commands:** make (3), aws (1)
 > **Env Vars:** cto (1), aws (1), api (1)
-> **Code Keywords:** this. (1), case, (1)
 > **Analogies:** for example (1), picture (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -2036,8 +2043,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (30), cloud (7), [[SaaS]] (6), application (5), open-source (3)
 > **Analogies:** such as (5), just like (3)
-> **Code Keywords:** self (2), interface (2), require (2), let (1)
 > **Env Vars:** aws (2), api (2), glue (1), rest (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (2)
@@ -2153,7 +2160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (4), self (4), let (1), function (1)
+> **Frameworks & Libraries:** ai (28), cloud (5), application (5), [[Tokens]] (5), [[Generative AI]] (1)
 > **Env Vars:** gpu (4), cpu (3), ram (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), such as (1)
@@ -2215,9 +2222,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), data (7), management (5), [[Cloud Infrastructure]] (3), application (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2290,7 +2297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), require (1)
+> **Frameworks & Libraries:** ai (11), [[Security]] (11), cloud (2), data (2), management (1)
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2370,6 +2377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (33), cloud (32), data (3), [[Privacy]] (3), product (2)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1), previous video (1)
@@ -2379,7 +2387,7 @@ created: 2026-04-29
 
 ### 9. The Edge of the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980)
@@ -2516,7 +2524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), require (1)
+> **Frameworks & Libraries:** [[IoT]] (19), cloud (17), data (14), [[Security]] (6), application (5)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2682,7 +2690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (7), this. (1), continue (1), finally, (1), require (1)
+> **Frameworks & Libraries:** cloud (40), data (10), ai (5), [[Security]] (3), node (3)
 > **CLI Commands:** make (3), node (3), aws (1)
 > **Analogies:** such as (2), for example (2)
 > **Env Vars:** gps (1), ift (1), aws (1)
@@ -2692,7 +2700,7 @@ created: 2026-04-29
 
 ### 10. Cloud Sustainability and Green Computing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The environmental cost of computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-environmental-cost-of-computing-25358323?u=76281980)
@@ -2787,9 +2795,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), power (5), cloud (2), management (1), next (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
@@ -2870,7 +2878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), finally, (1)
+> **Frameworks & Libraries:** data (19), cloud (15), power (5), application (4), business (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2879,7 +2887,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Center of Excellence (CoE)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980)
@@ -2932,10 +2940,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (24), teams (5), application (2), management (2), data (1)
 > **Env Vars:** ccoe (13)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 

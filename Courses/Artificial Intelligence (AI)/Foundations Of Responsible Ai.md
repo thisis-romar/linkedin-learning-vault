@@ -44,7 +44,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Foundations%20Of%20Responsible%20Ai.md)
@@ -63,43 +63,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Intro to the course
+  - [Intro to the course](#intro-to-the-course)
 - [**1. Reframing Responsible AI for Technical Teams**](#1-reframing-responsible-ai-for-technical-teams) (4 videos)
-  - Introduction to course objectives
-  - The business case for early integration of responsible AI
-  - Engineers as ethics first responders
-  - Mapping technical choices to ethical principles
+  - [Introduction to course objectives](#introduction-to-course-objectives)
+  - [The business case for early integration of responsible AI](#the-business-case-for-early-integration-of-responsible-ai)
+  - [Engineers as ethics first responders](#engineers-as-ethics-first-responders)
+  - [Mapping technical choices to ethical principles](#mapping-technical-choices-to-ethical-principles)
 - [**2. Where Technical Decisions Shape Responsible AI**](#2-where-technical-decisions-shape-responsible-ai) (3 videos)
-  - Critical decision points in AI development
-  - Translating values into code
-  - Integrating RAI into existing workflows
+  - [Critical decision points in AI development](#critical-decision-points-in-ai-development)
+  - [Translating values into code](#translating-values-into-code)
+  - [Integrating RAI into existing workflows](#integrating-rai-into-existing-workflows)
 - [**3. Architecture Decisions That Matter**](#3-architecture-decisions-that-matter) (3 videos)
-  - Model selection trade-offs
-  - Building explainability from day one
-  - Privacy-preserving architectures
+  - [Model selection trade-offs](#model-selection-trade-offs)
+  - [Building explainability from day one](#building-explainability-from-day-one)
+  - [Privacy-preserving architectures](#privacy-preserving-architectures)
 - [**4. Monitoring and Testing for Responsible AI**](#4-monitoring-and-testing-for-responsible-ai) (5 videos)
-  - Metrics for responsible AI
-  - Designing effective monitoring systems
-  - Systematic approaches to bias detection
-  - Balancing automation and human judgment
-  - Comprehensive testing for ethical robustness
+  - [Metrics for responsible AI](#metrics-for-responsible-ai)
+  - [Designing effective monitoring systems](#designing-effective-monitoring-systems)
+  - [Systematic approaches to bias detection](#systematic-approaches-to-bias-detection)
+  - [Balancing automation and human judgment](#balancing-automation-and-human-judgment)
+  - [Comprehensive testing for ethical robustness](#comprehensive-testing-for-ethical-robustness)
 - [**5. Team Structures and Processes**](#5-team-structures-and-processes) (4 videos)
-  - Distributing RAI expertise in teams
-  - Documentation that builds trust
-  - Lightweight but effective review checkpoints
-  - Breaking down communication barriers
+  - [Distributing RAI expertise in teams](#distributing-rai-expertise-in-teams)
+  - [Documentation that builds trust](#documentation-that-builds-trust)
+  - [Lightweight but effective review checkpoints](#lightweight-but-effective-review-checkpoints)
+  - [Breaking down communication barriers](#breaking-down-communication-barriers)
 - [**6. Risk Assessment and Decision Frameworks**](#6-risk-assessment-and-decision-frameworks) (5 videos)
-  - Solution-focused risk assessment
-  - Early warning signs in system behavior
-  - Frameworks for complex trade-off decisions
-  - Learning from real-world RAI implementations
-  - A roadmap for the future
+  - [Solution-focused risk assessment](#solution-focused-risk-assessment)
+  - [Early warning signs in system behavior](#early-warning-signs-in-system-behavior)
+  - [Frameworks for complex trade-off decisions](#frameworks-for-complex-trade-off-decisions)
+  - [Learning from real-world RAI implementations](#learning-from-real-world-rai-implementations)
+  - [A roadmap for the future](#a-roadmap-for-the-future)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction?u=76281980)
@@ -126,13 +126,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), career (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (bright music) (1)
 
 
 ### 1. Reframing Responsible AI for Technical Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to course objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980)
@@ -169,8 +170,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (1), teams (1), [[Privacy]] (1), [[Performance Metrics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** abstract (1)
 > **Speakers:** - you (1)
 
 #### The business case for early integration of responsible AI
@@ -230,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1)
+> **Frameworks & Libraries:** teams (4), [[Engineering]] (3), product (2), ai (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
@@ -314,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), raise (1), require (1)
+> **Frameworks & Libraries:** next (3), teams (2), ai (1), [[Performance Metrics]] (1), product (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
@@ -401,14 +402,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), for, (1), finally, (1)
+> **Frameworks & Libraries:** data (2), next (2), ai (1), [[Engineering]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - every (1)
 
 
 ### 2. Where Technical Decisions Shape Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Critical decision points in AI development
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/critical-decision-points-in-ai-development?u=76281980)
@@ -475,8 +476,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (2), ai (1), product (1), teams (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), function (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - every (1)
 
@@ -551,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), abstract (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Privacy]] (4), next (3), [[Accountability]] (2), teams (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - many (1)
@@ -647,8 +648,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Responsible AI]] (4), data (3), next (2), management (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
 > **Definitions:** is a  (1)
@@ -658,7 +659,7 @@ created: 2026-04-29
 
 ### 3. Architecture Decisions That Matter
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Model selection trade-offs
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980)
@@ -717,7 +718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** next (3), teams (2), [[Responsible AI]] (1), [[Customer Support]] (1), [[Deep Learning]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** gpu (1)
@@ -799,7 +800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), class. (1), require (1)
+> **Frameworks & Libraries:** feature (3), teams (2), [[Debugging]] (1), [[Accountability]] (1), [[Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -872,14 +873,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** data (15), [[Privacy]] (11), teams (6), next (3), product (1)
 > **Analogies:** for example (1)
 > **Speakers:** - privacy (1)
 
 
 ### 4. Monitoring and Testing for Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Metrics for responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980)
@@ -948,9 +949,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Performance Metrics]] (2), [[Responsible AI]] (1), application (1), next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for example (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - metrics (1)
 
@@ -1015,6 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Responsible AI]] (1), [[Accountability]] (1), next (1), product (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -1055,7 +1057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** product (2), teams (2), ai (1), data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - bias (1)
 
@@ -1108,8 +1110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), [[Design Systems]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), static (1)
 > **Speakers:** - automation (1)
 
 #### Comprehensive testing for ethical robustness
@@ -1165,14 +1167,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), override (1), require (1)
+> **Frameworks & Libraries:** teams (2), data (1), [[Quality Assurance]] (1), functional (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - ethical (1)
 
 
 ### 5. Team Structures and Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Distributing RAI expertise in teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980)
@@ -1219,8 +1221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Responsible AI]] (4), [[Accountability]] (1), data (1), product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** raise (1)
 > **Analogies:** just like (1)
 > **Speakers:** - responsible (1)
 
@@ -1275,6 +1277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), data (3), [[Responsible AI]] (2), [[Engineering]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 > **Warnings:** caution (1)
@@ -1331,6 +1334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), data (1), [[Ethics]] (1), product (1), [[Engineering]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - review (1)
 
@@ -1373,13 +1377,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** teams (6), [[Responsible AI]] (2), product (2), leadership (1), data (1)
 > **Speakers:** - in (1)
 
 
 ### 6. Risk Assessment and Decision Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution-focused risk assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/solution-focused-risk-assessment?u=76281980)
@@ -1436,7 +1440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), abstract (1), require (1)
+> **Frameworks & Libraries:** teams (4), product (1), next (1)
 > **Speakers:** - let (1)
 
 #### Early warning signs in system behavior
@@ -1480,6 +1484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), ai (1), [[React.js|React]] (1), teams (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** warning (1)
@@ -1542,7 +1547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), require (1), finally, (1)
+> **Frameworks & Libraries:** teams (2), ai (1), [[Deployment Planning]] (1), [[Real-Time]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - many (1)
@@ -1596,7 +1601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (5), teams (5), data (1), [[Engineering]] (1), product (1)
 > **Speakers:** - implementing (1)
 
 #### A roadmap for the future
@@ -1640,13 +1645,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Responsible AI]] (2), teams (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - responsible (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/what-s-next?u=76281980)
@@ -1683,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), require (1), abstract (1), protected (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), leadership (1), teams (1), ai (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 

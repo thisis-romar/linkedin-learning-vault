@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/angular
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Angular-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md)
@@ -48,76 +48,76 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Front-end to back-end creating and hosting a full-stack site
-  - What you should know
-  - Install Node.js and npm
-  - Exercise files
-  - The approach
+  - [Front-end to back-end creating and hosting a full-stack site](#front-end-to-back-end-creating-and-hosting-a-full-stack-site)
+  - [What you should know](#what-you-should-know)
+  - [Install Node.js and npm](#install-nodejs-and-npm)
+  - [Exercise files](#exercise-files)
+  - [The approach](#the-approach)
 - [**1. Creating an Angular Front End**](#1-creating-an-angular-front-end) (14 videos)
-  - Why Angular?
-  - Set up an Angular project
-  - Angular project structure
-  - Create your first Angular component
-  - Routes and routing in Angular
-  - Add fake data
-  - Implement the Listings page
-  - Create a Listing Detail page
-  - Create a Contact Seller page
-  - Create a My Listings page
-  - Create a New Listings page
-  - Create a Listing Data form
-  - Create an Edit Listing page
-  - Create a navigation bar
+  - [Why Angular?](#why-angular)
+  - [Set up an Angular project](#set-up-an-angular-project)
+  - [Angular project structure](#angular-project-structure)
+  - [Create your first Angular component](#create-your-first-angular-component)
+  - [Routes and routing in Angular](#routes-and-routing-in-angular)
+  - [Add fake data](#add-fake-data)
+  - [Implement the Listings page](#implement-the-listings-page)
+  - [Create a Listing Detail page](#create-a-listing-detail-page)
+  - [Create a Contact Seller page](#create-a-contact-seller-page)
+  - [Create a My Listings page](#create-a-my-listings-page)
+  - [Create a New Listings page](#create-a-new-listings-page)
+  - [Create a Listing Data form](#create-a-listing-data-form)
+  - [Create an Edit Listing page](#create-an-edit-listing-page)
+  - [Create a navigation bar](#create-a-navigation-bar)
 - [**2. Creating a Node Back End**](#2-creating-a-node-back-end) (7 videos)
-  - Why Node.js?
-  - Set up a hapi server
-  - Test a hapi server with Postman
-  - Create a listings endpoint
-  - Restart a Node server automatically
-  - Create an individual listing endpoint
-  - Errors in hapi using hapi/boom
+  - [Why Node.js?](#why-nodejs)
+  - [Set up a hapi server](#set-up-a-hapi-server)
+  - [Test a hapi server with Postman](#test-a-hapi-server-with-postman)
+  - [Create a listings endpoint](#create-a-listings-endpoint)
+  - [Restart a Node server automatically](#restart-a-node-server-automatically)
+  - [Create an individual listing endpoint](#create-an-individual-listing-endpoint)
+  - [Errors in hapi using hapi/boom](#errors-in-hapi-using-hapiboom)
 - [**3. Adding MySQL to Your Back End**](#3-adding-mysql-to-your-back-end) (10 videos)
-  - Why MySQL?
-  - Install MySQL and MySQL Workbench
-  - Set up a MySQL database
-  - Connect to a MySQL database from Node
-  - Rewrite the listings endpoints
-  - Create an endpoint for adding views
-  - Create an endpoint to get a user listing
-  - Create an endpoint to create listings
-  - Create an endpoint to edit listings
-  - Create an endpoint to delete listings
+  - [Why MySQL?](#why-mysql)
+  - [Install MySQL and MySQL Workbench](#install-mysql-and-mysql-workbench)
+  - [Set up a MySQL database](#set-up-a-mysql-database)
+  - [Connect to a MySQL database from Node](#connect-to-a-mysql-database-from-node)
+  - [Rewrite the listings endpoints](#rewrite-the-listings-endpoints)
+  - [Create an endpoint for adding views](#create-an-endpoint-for-adding-views)
+  - [Create an endpoint to get a user listing](#create-an-endpoint-to-get-a-user-listing)
+  - [Create an endpoint to create listings](#create-an-endpoint-to-create-listings)
+  - [Create an endpoint to edit listings](#create-an-endpoint-to-edit-listings)
+  - [Create an endpoint to delete listings](#create-an-endpoint-to-delete-listings)
 - [**4. Connecting the Front and Back Ends**](#4-connecting-the-front-and-back-ends) (7 videos)
-  - Services in Angular
-  - RxJS and the Angular HttpClient
-  - Avoid CORS errors
-  - Connect the Listing Detail page
-  - Connect the My Listings page
-  - Connect the New Listing page
-  - Connect the Edit Listing page
+  - [Services in Angular](#services-in-angular)
+  - [RxJS and the Angular HttpClient](#rxjs-and-the-angular-httpclient)
+  - [Avoid CORS errors](#avoid-cors-errors)
+  - [Connect the Listing Detail page](#connect-the-listing-detail-page)
+  - [Connect the My Listings page](#connect-the-my-listings-page)
+  - [Connect the New Listing page](#connect-the-new-listing-page)
+  - [Connect the Edit Listing page](#connect-the-edit-listing-page)
 - [**5. Authentication**](#5-authentication) (9 videos)
-  - What is Firebase Auth?
-  - Set up a Firebase account
-  - Add Firebase to Angular
-  - Add Firebase to hapi
-  - Sign in and out
-  - Load user listings with Auth
-  - Create listings with Auth
-  - Edit listings with Auth
-  - Delete listings with Auth
+  - [What is Firebase Auth?](#what-is-firebase-auth)
+  - [Set up a Firebase account](#set-up-a-firebase-account)
+  - [Add Firebase to Angular](#add-firebase-to-angular)
+  - [Add Firebase to hapi](#add-firebase-to-hapi)
+  - [Sign in and out](#sign-in-and-out)
+  - [Load user listings with Auth](#load-user-listings-with-auth)
+  - [Create listings with Auth](#create-listings-with-auth)
+  - [Edit listings with Auth](#edit-listings-with-auth)
+  - [Delete listings with Auth](#delete-listings-with-auth)
 - [**6. Hosting Your Site**](#6-hosting-your-site) (6 videos)
-  - Move a full-stack app to the cloud
-  - Installing the Google Cloud CLI
-  - Moving MySQL to the cloud
-  - Environment variables
-  - Host a Node server on Google Cloud
-  - Build and serve an Angular app
+  - [Move a full-stack app to the cloud](#move-a-full-stack-app-to-the-cloud)
+  - [Installing the Google Cloud CLI](#installing-the-google-cloud-cli)
+  - [Moving MySQL to the cloud](#moving-mysql-to-the-cloud)
+  - [Environment variables](#environment-variables)
+  - [Host a Node server on Google Cloud](#host-a-node-server-on-google-cloud)
+  - [Build and serve an Angular app](#build-and-serve-an-angular-app)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Front-end to back-end creating and hosting a full-stack site
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980)
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Angular]] (4), [[Node.js]] (2), [[Databases]] (1), [[Programming]] (1)
 > **CLI Commands:** node (2), mysql (1)
 > **File Paths:** node.js (2)
 > **Analogies:** such as (2)
@@ -170,9 +171,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Windows]] (2), cd (1), [[Node.js]] (1), [[Linux]] (1)
 > **CLI Commands:** mkdir (1), make (1), cd (1), ls (1), node (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** case, (1)
 > **Tools:** command line (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** keep in mind (1)
@@ -225,6 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (9), [[npm]] (8), [[JavaScript]] (3), [[Programming]] (1), [[Windows]] (1)
 > **CLI Commands:** node (10), npm (8), make (2), sudo (1)
 > **File Paths:** node.js (9)
 > **Env Vars:** npm (7)
@@ -232,7 +234,6 @@ created: 2026-04-29
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **Tools:** command line (1), terminal (1)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** let (1)
 
 #### Exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/exercise-files?u=76281980)
@@ -261,10 +262,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Firebase]] (1)
 > **Prerequisites:** install (2), you'll need (1), setup (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** npm (2)
-> **Code Keywords:** require (1), let (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -293,17 +294,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), web application (1), [[Google]] (1), [[Angular]] (1), [[Node.js]] (1)
 > **CLI Commands:** node (1), make (1)
 > **Env Vars:** api (1), sql (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Creating an Angular Front End
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Angular?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980)
@@ -352,11 +353,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (14), web (3), [[React.js|React]] (3), front-end (2), [[HTML]] (2)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** html (2), css (1)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -387,9 +388,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (7), hit (2), [[npm]] (1), [[CLI]] (1), [[Angular CLI]] (1)
 > **Tools:** terminal (3), vs code (2)
 > **CLI Commands:** npm (1), sudo (1), cd (1), make (1)
-> **Code Keywords:** let (1), this, (1), case, (1), delete (1)
 > **Env Vars:** cli (1), css (1)
 > **Analogies:** such as (2)
 > **Exercise Files:** boilerplate (1)
@@ -461,8 +462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (9), application (7), [[HTML]] (4), css (4), [[Routing]] (2)
 > **File Paths:** app.component.ts (2), index.html (1), main.ts (1), styles.css (1), test.ts (1)
-> **Code Keywords:** let (4), module (3), from. (1)
 > **Env Vars:** html (4), css (2), ide (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
@@ -527,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), case, (1), throw (1), delete (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[HTML]] (5), application (2), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
 > **Env Vars:** html (5), css (1)
 > **Exercise Files:** boilerplate (1), sample code (1)
 > **File Paths:** component.ts (1)
@@ -741,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (2), case, (2), from . (2), delete (2)
+> **Frameworks & Libraries:** application (8), [[Routing]] (5), [[HTML]] (4), [[Angular]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** url (4), html (4)
 > **Code Identifiers:** pathmatch (4), redirectto (1)
 > **UI Navigation:** go to (5)
@@ -817,7 +818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), type, (2), interface (1), import, (1)
+> **Frameworks & Libraries:** data (10), application (6), css (4), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
 > **File Paths:** fake-data.js (1), types.ts (1), styles.css (1)
 > **Env Vars:** css (2), html (1)
 > **CLI Commands:** make (2)
@@ -915,7 +916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (3), import, (2), this. (2), type, (1)
+> **Frameworks & Libraries:** [[HTML]] (6), data (6), [[Angular]] (4), [[GitHub]] (1), next (1)
 > **Env Vars:** html (6)
 > **Code Identifiers:** ngoninit (2), ngfor (2), routerlink (1)
 > **CLI Commands:** make (1)
@@ -1029,7 +1030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), from . (2), private (1), case, (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[HTML]] (3), data (3), next (2), product (1)
 > **Code Identifiers:** routerlink (4), fakelistings (2), ngoninit (1), parammap (1), ngonit (1)
 > **Env Vars:** url (7), html (3)
 > **CLI Commands:** find (2), make (1)
@@ -1194,7 +1195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (9), let (5), module (4), private (2), case, (2)
+> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (5), next (3), [[Forms]] (3), [[Firebase]] (1)
 > **Code Identifiers:** ngmodel (4), sendmessage (2), parammap (1), fakelistings (1), ngoninit (1)
 > **Env Vars:** url (5), html (5)
 > **Analogies:** just like (4), such as (1)
@@ -1294,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (5), this. (3), class= (2), import { (1)
+> **Frameworks & Libraries:** data (3), [[HTML]] (2), application (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** fakemylistings (2), ondeleteclicked (2), ngoninit (1), listingid (1), ngfor (1)
 > **Env Vars:** html (2), ide (1)
 > **UI Navigation:** click on (2), open the (1)
@@ -1399,8 +1400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), next (1), [[Angular]] (1), data (1)
 > **Code Identifiers:** ngmodel (4), onsubmit (3), ngsubmit (2), navigatebyurl (1)
-> **Code Keywords:** let (3), this. (3), private (1), this, (1), delete (1)
 > **Analogies:** similar to (2), just like (1)
 > **File Paths:** my-listings-page-component.html (1)
 > **CLI Commands:** make (1)
@@ -1493,8 +1494,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[HTML]] (9), [[Angular]] (2), next (1), hit (1)
 > **Env Vars:** html (9)
-> **Code Keywords:** let (5), from. (1), this. (1)
 > **Analogies:** just like (2), similar to (1), for example (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Tools:** terminal (1)
@@ -1674,7 +1675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (14), pass (8), let (4), case, (3), this, (2)
+> **Frameworks & Libraries:** data (17), [[HTML]] (7), [[Forms]] (6), [[Angular]] (1)
 > **Code Identifiers:** onsubmit (14), currentname (4), currentdescription (4), currentprice (3), ngoninit (2)
 > **Env Vars:** html (7), url (4)
 > **CLI Commands:** make (5), find (3)
@@ -1736,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (4), hit (1), application (1)
 > **File Paths:** nav-bar.component.html (1), app.component.html (1)
 > **Code Identifiers:** routerlink (2)
 > **Env Vars:** html (2)
@@ -1748,7 +1749,7 @@ created: 2026-04-29
 
 ### 2. Creating a Node Back End
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980)
@@ -1771,9 +1772,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), [[JavaScript]] (3), [[PHP]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **CLI Commands:** node (4), php (1), python (1), npm (1)
 > **File Paths:** node.js (4)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** php (1), npm (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1903,7 +1904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), this. (2), const (2), await (2)
+> **Frameworks & Libraries:** node (8), [[JavaScript]] (7), hit (6), [[npm]] (5), front-end (4)
 > **CLI Commands:** node (8), npm (5), make (4), npx (1)
 > **Prerequisites:** install (7), set up (1)
 > **File Paths:** server.js (2), source/server.js (2)
@@ -2003,10 +2004,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[JSON]] (2), feature (1), application (1)
 > **API Endpoints:** get  (7), post  (7), get
  (1)
 > **Env Vars:** post (9), url (3)
-> **Code Keywords:** let (3), const (2), this. (1), pass (1)
 > **Tools:** postman (6)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (3)
@@ -2074,7 +2075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), from . (2), from, (1), const (1), this, (1)
+> **Frameworks & Libraries:** data (9), api (3), database (1), application (1), hit (1)
 > **Code Identifiers:** getalllistingsroute (4), getalllistings (2), fakelistings (1), foreach (1)
 > **File Paths:** fake-data.js (2), server.js (2), getalllistings.js (1), index.js (1)
 > **API Endpoints:** /api/listings (2)
@@ -2132,9 +2133,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), [[npm]] (3), hit (3), [[JSON]] (3)
 > **CLI Commands:** npx (7), node (4), npm (3), make (2)
 > **File Paths:** src/server.js (4), package.json (3)
-> **Code Keywords:** let (2), this. (1), type. (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** install (2)
 > **Env Vars:** npm (1)
@@ -2192,9 +2193,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), api (2), [[SQL]] (1), database (1), hit (1)
 > **Code Identifiers:** getlistingroute (3), getlisting (2), fakelistings (2)
 > **Env Vars:** url (4), sql (1), api (1)
-> **Code Keywords:** const (2), switch (1), from . (1), this. (1)
 > **File Paths:** getlisting.js (1), index.js (1)
 > **CLI Commands:** find (1)
 > **API Endpoints:** /api/listings/ (1)
@@ -2276,7 +2277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), throw (4), this, (3), this. (2), continue (1)
+> **Frameworks & Libraries:** database (2), [[npm]] (2), hit (1), express (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (5), npm (2), make (1)
 > **Prerequisites:** install (2), setup (1), set up (1)
 > **Env Vars:** npm (2), api (1)
@@ -2288,7 +2289,7 @@ created: 2026-04-29
 
 ### 3. Adding MySQL to Your Back End
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why MySQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980)
@@ -2341,10 +2342,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), data (7), [[MySQL]] (4), [[SQL]] (4), [[Databases]] (3)
 > **CLI Commands:** mysql (4), make (1), mongo (1)
 > **Env Vars:** sql (4), json (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** case, (1), this, (1)
 > **Definitions:** is an  (1), means that (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -2414,8 +2415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (16), database (4), next (3), [[Databases]] (2)
 > **CLI Commands:** mysql (16), make (1)
-> **Code Keywords:** let (3), continue (3), case, (1), interface (1)
 > **UI Navigation:** click on (3), go to (2), dropdown (1)
 > **Prerequisites:** install (5)
 > **URLs:** [mysql.com](https://mysql.com) (2)
@@ -2496,11 +2497,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), data (7), [[SQL]] (4), next (4), application (3)
 > **Env Vars:** sql (4), varchar (2)
 > **CLI Commands:** make (5)
 > **SQL:** varchar (2)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** this. (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
@@ -2650,7 +2651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), function (4), await (4), let (3), this. (3)
+> **Frameworks & Libraries:** database (13), [[MySQL]] (12), [[npm]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** mysql (12), npm (2)
 > **Code Identifiers:** querystring (2), escapedvalues (2), createconnection (1), unhandledrejection (1)
 > **Prerequisites:** set up (2), install (2)
@@ -2792,7 +2793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (4), function (4), await (4), async (4)
+> **Frameworks & Libraries:** database (16), [[SQL]] (8), [[MySQL]] (5), api (5), data (3)
 > **Env Vars:** sql (8), select (2), drop (2), table (2), sigint (1)
 > **CLI Commands:** make (5), mysql (5), npm (1), node (1)
 > **Code Identifiers:** getalllistings (3), fakelistings (3), getlisting (2), notfound (1)
@@ -2902,7 +2903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (4), this. (2), await (2), while, (1), async (1)
+> **Frameworks & Libraries:** database (6), data (5), next (2), api (2), [[SQL]] (1)
 > **Env Vars:** url (3), api (2), sql (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
@@ -2984,8 +2985,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), api (2), data (2), next (1), [[Fetch]] (1)
 > **Code Identifiers:** userid (7), getuserlistingsroute (3), getuserlistings (2), user_id (2)
-> **Code Keywords:** const (3), finally, (1), async (1), await (1), import { (1)
 > **Env Vars:** url (2), select (1), where (1), api (1), post (1)
 > **API Endpoints:** get  (2), /api/users/ (1), post  (1)
 > **File Paths:** getuserlistings.js (1), index.js (1)
@@ -3094,7 +3095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (5), this, (3), function (2), async (2), throw (1)
+> **Frameworks & Libraries:** data (5), database (4), api (3), hit (2), next (1)
 > **Env Vars:** uuid (5), post (2), npm (1), nojs (1)
 > **CLI Commands:** npm (1), node (1), make (1)
 > **File Paths:** createnewlisting.js (1), index.js (1)
@@ -3172,7 +3173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (4), let (2), this. (2), await (2), async (1)
+> **Frameworks & Libraries:** database (2), api (2), next (1), business (1), data (1)
 > **Env Vars:** post (3), url (1), api (1)
 > **CLI Commands:** make (3), mysql (1)
 > **API Endpoints:** post  (2)
@@ -3236,7 +3237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (2), this. (2), const (2), from . (1)
+> **Frameworks & Libraries:** api (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** deletelisting (2), deletelistingroute (2)
 > **Env Vars:** url (2), api (1)
 > **File Paths:** deletelisting.js (1), index.js (1)
@@ -3247,7 +3248,7 @@ created: 2026-04-29
 
 ### 4. Connecting the Front and Back Ends
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Services in Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980)
@@ -3368,7 +3369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), delete (2), import, (1), from . (1), private (1)
+> **Frameworks & Libraries:** [[Angular]] (8), data (7), application (2), next (1), [[HTML]] (1)
 > **Code Identifiers:** getlistings (3), fakelistings (2), listingsservice (2)
 > **Analogies:** for example (2), just like (2)
 > **Prerequisites:** set up (2)
@@ -3449,7 +3450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), module (3), let (2), case, (2), function (2)
+> **Frameworks & Libraries:** [[Angular]] (7), data (3), next (2), generic (2), api (1)
 > **Code Identifiers:** getlistings (5), listingservice (1), listingsservice (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (2), is an  (2)
@@ -3539,8 +3540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** front-end (7), [[JSON]] (6), api (3), database (2), [[npm]] (2)
 > **CLI Commands:** make (5), find (2), npm (2)
-> **Code Keywords:** case, (2), this. (2), let (1), this, (1)
 > **File Paths:** proxy.config.json (3), package.json (2)
 > **Prerequisites:** set up (4), setup (1)
 > **Env Vars:** cors (2), json (1), enter (1)
@@ -3695,7 +3696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (12), let (5), pass (4), private (2), delete (1)
+> **Frameworks & Libraries:** data (4), next (3), [[Representational State Transfer (REST)|Rest]] (2), application (2), [[JSON]] (2)
 > **Code Identifiers:** ngoninit (4), getlistingbyid (3), addviewtolisting (3), listingservice (3), isloading (3)
 > **UI Navigation:** click on (2), open the (1)
 > **API Endpoints:** /api/listings (1), /api/listings/id/add-view (1)
@@ -3809,7 +3810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (12), let (4), this, (1), private (1)
+> **Frameworks & Libraries:** next (3), api (2), [[MySQL]] (1), database (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** click on (2)
@@ -3857,7 +3858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), this. (3), this, (3), let (2), from . (1)
+> **Frameworks & Libraries:** data (7), api (1), [[JavaScript]] (1), next (1), [[HTML]] (1)
 > **Code Identifiers:** onsubmit (6), navigatebyurl (1)
 > **Env Vars:** url (1), http (1), html (1)
 > **Analogies:** just like (3)
@@ -3947,7 +3948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (5), pass (3), let (2), private (1), delete (1)
+> **Frameworks & Libraries:** data (2), api (1), [[HTML]] (1)
 > **Env Vars:** http (2), url (2), api (1), html (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ngif (2), ngon (1)
@@ -3958,7 +3959,7 @@ created: 2026-04-29
 
 ### 5. Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Firebase Auth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980)
@@ -4007,8 +4008,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Firebase]] (5), [[Google]] (2), functional (1), front-end (1)
 > **Definitions:** means that (2), is a  (2), is called (1)
-> **Code Keywords:** delete (1), function (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -4089,8 +4090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (11), [[Google]] (6), application (4), [[Analytics]] (2)
 > **UI Navigation:** click on (8), go to (1), checkbox (1)
-> **Code Keywords:** let (4), continue (3), this, (1)
 > **Analogies:** for example (2), similar to (1)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** find (1)
@@ -4175,7 +4176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (2), case, (1), this, (1), from . (1)
+> **Frameworks & Libraries:** [[Firebase]] (16), [[Angular]] (8), application (2), [[npm]] (2), web (1)
 > **UI Navigation:** click on (3), checkbox (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Prerequisites:** install (3)
@@ -4263,7 +4264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), pass (2), delete (1), continue (1), private (1)
+> **Frameworks & Libraries:** [[Firebase]] (12), [[JSON]] (7), next (1), [[npm]] (1), [[Tokens]] (1)
 > **File Paths:** credentials.json (4), server.js (1), credential.json (1)
 > **CLI Commands:** make (2), npm (1), mv (1)
 > **Prerequisites:** install (3), set up (1)
@@ -4379,7 +4380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (9), async (3), public (2), function (2), from. (1)
+> **Frameworks & Libraries:** next (5), [[Google]] (5), [[Firebase]] (2), [[Angular]] (1), [[HTML]] (1)
 > **Code Identifiers:** signinclicked (2), signoutclicked (2), ngif (2), signinwithpopup (1), signout (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), setup (1)
@@ -4504,7 +4505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (4), private (2), const (2), throw (2)
+> **Frameworks & Libraries:** [[Firebase]] (5), [[Angular]] (4), next (4), data (1), application (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** http (7)
 > **Definitions:** is a  (2)
@@ -4572,7 +4573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (4), let (2), this. (2), pass (1), await (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), api (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), sql (1)
@@ -4644,7 +4645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (4), this. (1), let (1), await (1)
+> **Frameworks & Libraries:** next (2), [[Firebase]] (1), application (1), database (1)
 > **Code Identifiers:** userid (2), editlisting (1), getidtoken (1), httpoptionswithauthtoken (1), verifyidtoken (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1)
@@ -4714,7 +4715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), const (3), pass (2), let (2), else. (1)
+> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Firebase]] (1), [[SQL]] (1)
 > **Env Vars:** http (3), sql (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), such as (1)
@@ -4725,7 +4726,7 @@ created: 2026-04-29
 
 ### 6. Hosting Your Site
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Move a full-stack app to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980)
@@ -4780,9 +4781,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Firebase]] (4), database (3), full-stack (2), [[MySQL]] (2)
 > **CLI Commands:** mysql (2)
 > **Prerequisites:** set up (1), install (1)
-> **Code Keywords:** let (1)
 > **Tools:** command line (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -4866,13 +4867,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (8), [[Firebase]] (3), cloud (3), [[Google]] (3), hit (3)
 > **Prerequisites:** set up (5), install (2), setup (1)
 > **Tools:** terminal (3), command line (1), bash (1)
 > **CLI Commands:** gcloud (2), curl (1), make (1)
 > **URLs:** [console.cloud](https://console.cloud) (1), [google.com](https://google.com) (1), [https://sdk.cloud.google.com](https://sdk.cloud.google.com) (1)
 > **Env Vars:** cli (2), shell (1)
 > **UI Navigation:** click on (3)
-> **Code Keywords:** continue (1), let (1)
 > **Cross-References:** go back to (1)
 
 #### Moving MySQL to the cloud
@@ -5004,9 +5005,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (17), [[SQL]] (10), [[Google Cloud Platform (GCP)|Google cloud]] (8), cloud (6), [[MySQL]] (6)
 > **UI Navigation:** click on (11), scroll down (2), go to (2), dropdown (1)
 > **CLI Commands:** mysql (6), find (4), make (3)
-> **Code Keywords:** let (7), public (2), this, (1), self (1), delete (1)
 > **Env Vars:** sql (10)
 > **Prerequisites:** setup (5), set up (1), you'll need (1)
 > **Cross-References:** go back to (3), earlier in (1)
@@ -5072,7 +5073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2), from. (1), default, (1), function (1)
+> **Frameworks & Libraries:** cloud (2), [[MySQL]] (2), [[npm]] (2), database (2), [[Databases]] (1)
 > **CLI Commands:** mysql (2), node (2), npm (2), make (1)
 > **File Paths:** node.js (1), dot.env (1)
 > **Prerequisites:** install (2)
@@ -5148,9 +5149,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (10), node (7), next (3), [[npm]] (3), cloud (2)
 > **CLI Commands:** node (7), make (5), gcloud (4), npm (3), find (1)
 > **Env Vars:** db_socket (3), db_host (2), url (2), db_user (1), db_pass (1)
-> **Code Keywords:** let (4), this, (1), while, (1), this. (1), from. (1)
 > **File Paths:** package.json (2), app.yaml (1), database.js (1), process.env (1), server.js (1)
 > **Code Identifiers:** beta_settings (1), cloud_sql_instances (1), env_variables (1), socketpath (1)
 > **Prerequisites:** install (2), set up (1)
@@ -5298,7 +5299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), const (2), module (1), await (1), case, (1)
+> **Frameworks & Libraries:** application (6), [[HTML]] (4), [[Angular]] (3), [[Firebase]] (3), hit (2)
 > **Code Identifiers:** staticfilesroute (3), angularroutepaths (2), filesroutes (2)
 > **File Paths:** index.html (2), server.js (1), files.js (1), dist/buy-and-sell/index.html (1), index.js (1)
 > **CLI Commands:** npm (2), gcloud (2), make (1)
@@ -5311,7 +5312,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980)
@@ -5354,9 +5355,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Angular]] (2), web (2), [[Full-Stack Development]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** node (1), mysql (1), make (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** http (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)

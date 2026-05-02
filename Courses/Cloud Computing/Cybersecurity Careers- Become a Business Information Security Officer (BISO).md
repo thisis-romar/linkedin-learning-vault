@@ -35,7 +35,7 @@ tags:
   - skill/information-security-management
   - skill/tech-career-skills
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Business%20Information%20Security%20Officer%20(BISO).md)
@@ -54,30 +54,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - A bridge between business and tech
+  - [A bridge between business and tech](#a-bridge-between-business-and-tech)
 - [**1. BISO Basics**](#1-biso-basics) (3 videos)
-  - The BizOps and cybersecurity disconnect
-  - What is a business information security officer (BISO)?
-  - Organizational architecture
+  - [The BizOps and cybersecurity disconnect](#the-bizops-and-cybersecurity-disconnect)
+  - [What is a business information security officer (BISO)?](#what-is-a-business-information-security-officer-biso)
+  - [Organizational architecture](#organizational-architecture)
 - [**2. Becoming a BISO**](#2-becoming-a-biso) (3 videos)
-  - The instructor's journey to becoming a BISO
-  - Core skills for aspiring BISOs
-  - Interviewing for a BISO role
+  - [The instructor's journey to becoming a BISO](#the-instructors-journey-to-becoming-a-biso)
+  - [Core skills for aspiring BISOs](#core-skills-for-aspiring-bisos)
+  - [Interviewing for a BISO role](#interviewing-for-a-biso-role)
 - [**3. Building Partnerships**](#3-building-partnerships) (4 videos)
-  - Relationship management
-  - Partnering with the CISO
-  - Collaborating with business leaders
-  - Connecting with InfoSec teams
+  - [Relationship management](#relationship-management)
+  - [Partnering with the CISO](#partnering-with-the-ciso)
+  - [Collaborating with business leaders](#collaborating-with-business-leaders)
+  - [Connecting with InfoSec teams](#connecting-with-infosec-teams)
 - [**4. A Day in the Life of a BISO**](#4-a-day-in-the-life-of-a-biso) (3 videos)
-  - Innovative problem-solving
-  - Special projects
-  - Common challenges
+  - [Innovative problem-solving](#innovative-problem-solving)
+  - [Special projects](#special-projects)
+  - [Common challenges](#common-challenges)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue to evolve
+  - [Continue to evolve](#continue-to-evolve)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A bridge between business and tech
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980)
@@ -112,15 +112,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Security]] (5), teams (2), [[Cybersecurity]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** biso (6)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - technology (1)
 
 
 ### 1. BISO Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The BizOps and cybersecurity disconnect
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980)
@@ -163,9 +163,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (13), [[Security]] (7), [[Cybersecurity]] (5), teams (3), [[Microsoft Office|Office]] (1)
 > **Env Vars:** biso (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - many (1)
 
 #### What is a business information security officer (BISO)?
@@ -215,8 +215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (18), business (17), [[Microsoft Products|Products]] (2), [[Cybersecurity]] (1), management (1)
 > **Env Vars:** biso (11)
-> **Code Keywords:** function (4), for. (1)
 > **Definitions:** short for (1)
 > **Speakers:** - the (1)
 
@@ -261,8 +261,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), business (14), teams (2), career (1), [[Decision-Making]] (1)
 > **Env Vars:** biso (5), ciso (2)
-> **Code Keywords:** function (5)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Warnings:** be aware (1)
@@ -271,7 +271,7 @@ created: 2026-04-29
 
 ### 2. Becoming a BISO
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The instructor's journey to becoming a BISO
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-instructor-s-journey-to-becoming-a-biso?u=76281980)
@@ -322,8 +322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), career (4), [[Security]] (3), management (3), teams (2)
 > **Env Vars:** biso (9)
-> **Code Keywords:** let (1), continue (1)
 > **Definitions:** means that (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - being (1)
@@ -383,8 +383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), business (8), teams (3), management (3), [[Soft Skills]] (2)
 > **Env Vars:** biso (12), ciso (1)
-> **Code Keywords:** let (2), function (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -447,8 +447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** job description (4), [[Interviewing]] (2), next (2), career (2), [[Security]] (1)
 > **Env Vars:** biso (8)
-> **Code Keywords:** let (2), for, (1), self (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -457,7 +457,7 @@ created: 2026-04-29
 
 ### 3. Building Partnerships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relationship management
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980)
@@ -504,9 +504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Security]] (4), teams (3), [[Decision-Making]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** bso (7)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** super (1), let (1), continue (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - relationships (1)
@@ -570,8 +570,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (13), [[Security]] (8), teams (4), data (1), [[Privacy]] (1)
 > **Env Vars:** ciso (13), biso (11)
-> **Code Keywords:** function (2), finally, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -633,6 +633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (18), teams (9), [[Security]] (8), leadership (2), [[Privacy]] (1)
 > **Env Vars:** biso (7), ciso (1), dna (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
@@ -676,8 +677,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), teams (6), business (5), management (2), [[Incident Response]] (1)
 > **Env Vars:** biso (5)
-> **Code Keywords:** function (2), super (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - while (1)
@@ -685,7 +686,7 @@ created: 2026-04-29
 
 ### 4. A Day in the Life of a BISO
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Innovative problem-solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/innovative-problem-solving?u=76281980)
@@ -736,7 +737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** business (10), [[Security]] (3), teams (3), product (1), next (1)
 > **Env Vars:** bso (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - business (1)
@@ -788,8 +789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), teams (9), business (9), [[Forms]] (2), [[Infographics]] (1)
 > **Env Vars:** bso (5)
-> **Code Keywords:** let (1), require (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - bsos (1)
 
@@ -836,8 +837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12), [[Security]] (11), teams (6), [[Cybersecurity]] (2), next (1)
 > **Env Vars:** bso (8)
-> **Code Keywords:** let (1), function (1), new, (1), pass (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - being (1)
@@ -845,7 +846,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue to evolve
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980)
@@ -876,10 +877,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Security]] (4), [[Cybersecurity]] (1), data (1), [[Privacy]] (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Env Vars:** bso (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - constantly (1)
 
 

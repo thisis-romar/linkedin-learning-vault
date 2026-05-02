@@ -17,7 +17,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Finance%20Foundations.md)
@@ -36,82 +36,82 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The essentials of finance
-  - What you should know before watching this course
+  - [The essentials of finance](#the-essentials-of-finance)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
 - [**1. What Is Finance?**](#1-what-is-finance) (3 videos)
-  - The board of directors discusses finance
-  - Finance inside of companies
-  - Finance outside of companies
+  - [The board of directors discusses finance](#the-board-of-directors-discusses-finance)
+  - [Finance inside of companies](#finance-inside-of-companies)
+  - [Finance outside of companies](#finance-outside-of-companies)
 - [**2. Risk and Return**](#2-risk-and-return) (9 videos)
-  - Introducing risk and return
-  - What is risk?
-  - Why we don’t like risk
-  - Reducing risk through diversification
-  - Beta: The concept
-  - Beta: Examples
-  - Risk-free rate
-  - Equity risk premium
-  - Capital asset pricing model (CAPM)
+  - [Introducing risk and return](#introducing-risk-and-return)
+  - [What is risk?](#what-is-risk)
+  - [Why we don’t like risk](#why-we-dont-like-risk)
+  - [Reducing risk through diversification](#reducing-risk-through-diversification)
+  - [Beta: The concept](#beta-the-concept)
+  - [Beta: Examples](#beta-examples)
+  - [Risk-free rate](#risk-free-rate)
+  - [Equity risk premium](#equity-risk-premium)
+  - [Capital asset pricing model (CAPM)](#capital-asset-pricing-model-capm)
 - [**3. Understanding Financial Statements**](#3-understanding-financial-statements) (8 videos)
-  - Overview of financial statements
-  - The balance sheet
-  - The income statement
-  - The statement of cash flows
-  - Widely-used ratios: Debt ratio and current ratio
-  - Return on sales, asset turnover, and return on equity
-  - Widely-used ratios: Price-earnings ratio
-  - Forecasting financial statements
+  - [Overview of financial statements](#overview-of-financial-statements)
+  - [The balance sheet](#the-balance-sheet)
+  - [The income statement](#the-income-statement)
+  - [The statement of cash flows](#the-statement-of-cash-flows)
+  - [Widely-used ratios: Debt ratio and current ratio](#widely-used-ratios-debt-ratio-and-current-ratio)
+  - [Return on sales, asset turnover, and return on equity](#return-on-sales-asset-turnover-and-return-on-equity)
+  - [Widely-used ratios: Price-earnings ratio](#widely-used-ratios-price-earnings-ratio)
+  - [Forecasting financial statements](#forecasting-financial-statements)
 - [**4. Short-Term Financial Management**](#4-short-term-financial-management) (6 videos)
-  - Introducing short-term financial management
-  - The operating cycle
-  - Cash management
-  - Managing receivables and inventory
-  - Obtaining short-term financing
-  - Internal controls
+  - [Introducing short-term financial management](#introducing-short-term-financial-management)
+  - [The operating cycle](#the-operating-cycle)
+  - [Cash management](#cash-management)
+  - [Managing receivables and inventory](#managing-receivables-and-inventory)
+  - [Obtaining short-term financing](#obtaining-short-term-financing)
+  - [Internal controls](#internal-controls)
 - [**5. Obtaining Long-Term Financing**](#5-obtaining-long-term-financing) (7 videos)
-  - Introducing long-term financing
-  - Does capital structure matter? No?
-  - Does capital structure matter? Yes?
-  - Does capital structure matter? Factors influencing optimal capital structure
-  - Cost of capital: All debt or all equity financing
-  - Cost of capital: Split debt-equity financing
-  - Weighted-average cost of capital
+  - [Introducing long-term financing](#introducing-long-term-financing)
+  - [Does capital structure matter? No?](#does-capital-structure-matter-no)
+  - [Does capital structure matter? Yes?](#does-capital-structure-matter-yes)
+  - [Does capital structure matter? Factors influencing optimal capital structure](#does-capital-structure-matter-factors-influencing-optimal-capital-structure)
+  - [Cost of capital: All debt or all equity financing](#cost-of-capital-all-debt-or-all-equity-financing)
+  - [Cost of capital: Split debt-equity financing](#cost-of-capital-split-debt-equity-financing)
+  - [Weighted-average cost of capital](#weighted-average-cost-of-capital)
 - [**6. Understanding Securities Markets**](#6-understanding-securities-markets) (7 videos)
-  - Introducing securities markets
-  - The difference between a stock and a bond
-  - Stock markets
-  - Bond markets
-  - Publicly-traded shares: What impacts the share price?
-  - Initial public offering (IPO): Microsoft
-  - Can you pick stocks in the stock market?
+  - [Introducing securities markets](#introducing-securities-markets)
+  - [The difference between a stock and a bond](#the-difference-between-a-stock-and-a-bond)
+  - [Stock markets](#stock-markets)
+  - [Bond markets](#bond-markets)
+  - [Publicly-traded shares: What impacts the share price?](#publicly-traded-shares-what-impacts-the-share-price)
+  - [Initial public offering (IPO): Microsoft](#initial-public-offering-ipo-microsoft)
+  - [Can you pick stocks in the stock market?](#can-you-pick-stocks-in-the-stock-market)
 - [**7. Financial Institutions**](#7-financial-institutions) (6 videos)
-  - Introducing financial institutions
-  - Traditional banks
-  - Investment banks
-  - Investment funds: Index funds
-  - Investment funds: Managed funds, private-equity funds, and hedge funds
-  - Insurance companies
+  - [Introducing financial institutions](#introducing-financial-institutions)
+  - [Traditional banks](#traditional-banks)
+  - [Investment banks](#investment-banks)
+  - [Investment funds: Index funds](#investment-funds-index-funds)
+  - [Investment funds: Managed funds, private-equity funds, and hedge funds](#investment-funds-managed-funds-private-equity-funds-and-hedge-funds)
+  - [Insurance companies](#insurance-companies)
 - [**8. Capital Budgeting**](#8-capital-budgeting) (4 videos)
-  - Introducing capital budgeting
-  - Capital budgeting overview
-  - The importance of the time value of money
-  - Example: Buying a car in Hong Kong
+  - [Introducing capital budgeting](#introducing-capital-budgeting)
+  - [Capital budgeting overview](#capital-budgeting-overview)
+  - [The importance of the time value of money](#the-importance-of-the-time-value-of-money)
+  - [Example: Buying a car in Hong Kong](#example-buying-a-car-in-hong-kong)
 - [**9. Advances Using Technology in Finance**](#9-advances-using-technology-in-finance) (4 videos)
-  - What is fintech?
-  - Blockchain: Introduction
-  - Cryptocurrency
-  - Alternative financing
+  - [What is fintech?](#what-is-fintech)
+  - [Blockchain: Introduction](#blockchain-introduction)
+  - [Cryptocurrency](#cryptocurrency)
+  - [Alternative financing](#alternative-financing)
 - [**10. Personal Financial Planning**](#10-personal-financial-planning) (4 videos)
-  - Introducing personal financing planning
-  - The secret to financial security
-  - The importance of personal budgeting
-  - Simple savings and investment plans
+  - [Introducing personal financing planning](#introducing-personal-financing-planning)
+  - [The secret to financial security](#the-secret-to-financial-security)
+  - [The importance of personal budgeting](#the-importance-of-personal-budgeting)
+  - [Simple savings and investment plans](#simple-savings-and-investment-plans)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Reviewing corporate finance
+  - [Reviewing corporate finance](#reviewing-corporate-finance)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The essentials of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980)
@@ -154,6 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft]] (1), [[Financial Planning]] (1)
 > **Speakers:** - and (2), - [kay] (2), - [jim] (2), - it (1), - deciding (1)
 > **Env Vars:** capm (1)
 
@@ -196,15 +197,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), power (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
 
 ### 1. What Is Finance?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The board of directors discusses finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-board-of-directors-discusses-finance?u=76281980)
@@ -303,8 +304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), management (2), business (1)
 > **Speakers:** - okay (4), - now (3), - [jim] (3), - what (2), - well (2)
-> **Code Keywords:** private (3), from, (1), for, (1), super (1), let (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** in other words (1)
 
@@ -381,7 +382,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), this. (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - so (1)
@@ -453,14 +453,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1), finally, (1), private (1), function (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - so (1)
 
 
 ### 2. Risk and Return
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing risk and return
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-risk-and-return?u=76281980)
@@ -533,8 +532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Security]] (1)
 > **Speakers:** - okay (4), - let (2), - that (1), - return (1), - well (1)
-> **Code Keywords:** let (5), return. (3)
 > **Definitions:** in other words (1), is a  (1)
 
 #### What is risk?
@@ -638,7 +637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (1)
+> **Frameworks & Libraries:** business (5), product (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -755,7 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), return. (1)
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** fdic (1)
 > **Analogies:** for example (1)
@@ -852,8 +851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), [[Microsoft]] (3), cloud (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** case. (1)
 > **Speakers:** - we (1)
 
 #### Beta: The concept
@@ -967,7 +966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), return. (2)
+> **Frameworks & Libraries:** business (1), database (1)
 > **Definitions:** is called (1), in other words (1), is a  (1), means that (1)
 > **Env Vars:** capm (2)
 > **Analogies:** for example (1), imagine (1)
@@ -1052,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - let (1)
 
@@ -1131,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return, (2), let (2), require (1), return. (1)
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** imagine (2), for example (1)
 > **Versions:** 2.5 (1)
 > **Definitions:** in other words (1)
@@ -1187,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return. (3), let (2), this, (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (1)
 > **Definitions:** we call this (1)
 > **Analogies:** for example (1)
 > **Speakers:** - another (1)
@@ -1271,8 +1270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (2), next (1)
 > **Versions:** 1.41 (2), 8.5 (2), 13.5 (2), 3.1 (2), 0.52 (1)
-> **Code Keywords:** return. (2), let (2), this. (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** capm (2)
 > **UI Navigation:** go to (1)
@@ -1281,7 +1280,7 @@ created: 2026-04-29
 
 ### 3. Understanding Financial Statements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980)
@@ -1366,10 +1365,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Financial Statements]] (4), [[Representational State Transfer (REST)|Rest]] (2)
 > **Speakers:** - [presenter] (10), - the (2), - and (2), - finance (1), - to (1)
 > **Definitions:** is a  (4), is called (2)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), private (1)
 
 #### The balance sheet
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-balance-sheet?u=76281980)
@@ -1490,7 +1489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), this; (1)
+> **Frameworks & Libraries:** business (7), [[Corporate Finance]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
@@ -1619,8 +1618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), [[Microsoft]] (2), [[Hardware]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1), defined as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
@@ -1758,7 +1757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** business (5), [[Financial Statements]] (1), next (1), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -1850,10 +1849,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (1), business (1)
 > **Definitions:** is a  (7), is an  (1)
 > **Versions:** 0.83 (2), 76.9 (1), 92.4 (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - you (1)
@@ -1929,10 +1928,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1)
 > **Versions:** 15.5 (2), 648.1 (1), 2.6 (1), 2.60 (1), 1.9 (1)
 > **Definitions:** is a  (4), means that (2)
 > **Env Vars:** roe (3)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - another (1)
@@ -2006,8 +2005,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1)
 > **Versions:** 3.36 (1), 15.5 (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
@@ -2102,8 +2101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (5), next (3), [[Forecasting]] (2)
 > **Analogies:** for example (3), such as (1), picture (1)
-> **Code Keywords:** let (2), function (2)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - now (1)
@@ -2111,7 +2110,7 @@ created: 2026-04-29
 
 ### 4. Short-Term Financial Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing short-term financial management
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-short-term-financial-management?u=76281980)
@@ -2172,8 +2171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), product (1)
 > **Speakers:** - okay (3), - well (2), - on (2), - nike (1), - yeah (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 
 #### The operating cycle
@@ -2239,8 +2238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), business (2), prompt (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - remember (1)
 
 #### Cash management
@@ -2322,9 +2321,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
@@ -2400,9 +2399,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), management (1)
 > **Definitions:** is called (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - a (1)
 
 #### Obtaining short-term financing
@@ -2476,12 +2475,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), business (1), next (1)
 > **Analogies:** such as (4), for example (3)
 > **Definitions:** is a  (2), is called (2), means that (1)
 > **Env Vars:** ibm (2), iou (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** let (1)
 > **Versions:** 4.33 (1)
 > **Speakers:** - an (1)
 
@@ -2560,7 +2559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), protected (1), else. (1), case. (1)
+> **Frameworks & Libraries:** management (1), data (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** go to (1)
@@ -2570,7 +2569,7 @@ created: 2026-04-29
 
 ### 5. Obtaining Long-Term Financing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing long-term financing
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980)
@@ -2645,8 +2644,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (2), data (1), [[Probability]] (1)
 > **Speakers:** - so (3), - [instructor] (2), - us (1), - one (1), - let (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -2728,7 +2727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3)
+> **Frameworks & Libraries:** business (2), [[Corporate Finance]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** in other words (1), defined as (1)
 > **Analogies:** such as (2)
@@ -2815,8 +2814,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (2), [[Slack]] (1), management (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (1)
 > **Tools:** slack (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
@@ -2912,7 +2911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (1)
+> **Frameworks & Libraries:** [[Google]] (13), business (4)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** means that (1)
 > **Speakers:** - so (1)
@@ -3020,7 +3019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), else. (1), protected (1)
+> **Frameworks & Libraries:** business (2)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -3133,7 +3132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), case. (2)
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
@@ -3184,16 +3183,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Corporate Finance]] (1)
 > **Env Vars:** wacc (11)
 > **Versions:** 10.5 (5), 0.9 (1)
-> **Code Keywords:** this, (1), return, (1), return. (1), this. (1), case, (1)
 > **CLI Commands:** find (3)
 > **Speakers:** - we (1)
 
 
 ### 6. Understanding Securities Markets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing securities markets
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-securities-markets?u=76281980)
@@ -3256,6 +3255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2)
 > **Speakers:** - okay (2), - a (1), - [jim] (1), - do (1), - i (1)
 > **Env Vars:** iou (1)
 > **Definitions:** refers to (1)
@@ -3361,7 +3361,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is an  (2), in other words (1)
 > **Env Vars:** iou (1)
 > **Analogies:** for example (1)
@@ -3444,7 +3443,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - now (1)
 
@@ -3540,7 +3538,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** is called (5), means that (1), is a  (1)
-> **Code Keywords:** private (3), public (2)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
@@ -3636,7 +3633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), raise (1)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is called (2), is a  (2)
 > **Analogies:** for example (3)
 > **Env Vars:** ipo (1)
@@ -3743,9 +3740,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (9), data (2)
 > **Versions:** 16.50 (5), 1.10 (3), 27.75 (1)
 > **Env Vars:** ipo (8)
-> **Code Keywords:** public (6), let (1)
 > **Definitions:** is called (1), in other words (1), is a  (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
@@ -3815,6 +3812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Financial Data]] (2), data (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3823,7 +3821,7 @@ created: 2026-04-29
 
 ### 7. Financial Institutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing financial institutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-financial-institutions?u=76281980)
@@ -3894,8 +3892,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **Speakers:** - well (3), - no (2), - so (2), - and (2), - okay (1)
-> **Code Keywords:** let (4), this, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -3989,10 +3987,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), data (1), management (1), next (1)
 > **Versions:** 3.3 (2), 2.8 (2), 1.1 (1), 2.2 (1), 1.9 (1)
 > **Env Vars:** bnp (4)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), function (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - financial (1)
@@ -4086,7 +4084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), let (3), function (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -4168,7 +4166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1)
+> **Frameworks & Libraries:** management (1)
 > **Definitions:** is called (1), stands for (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.04 (1)
@@ -4258,7 +4256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6)
+> **Frameworks & Libraries:** management (3), express (1)
 > **Versions:** 9.3 (1), 10.2 (1), 19.8 (1)
 > **Env Vars:** amu (1), ceo (1)
 > **Analogies:** such as (1), for example (1)
@@ -4352,6 +4350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2)
 > **Env Vars:** aig (1)
@@ -4360,7 +4359,7 @@ created: 2026-04-29
 
 ### 8. Capital Budgeting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing capital budgeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-capital-budgeting?u=76281980)
@@ -4453,8 +4452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **Speakers:** - well (5), - okay (2), - yeah (2), - i (1), - money (1)
-> **Code Keywords:** let (1)
 
 #### Capital budgeting overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/capital-budgeting-overview?u=76281980)
@@ -4555,7 +4554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), return. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -4628,7 +4627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (3), business (2), [[Microsoft Excel|Excel]] (2)
 > **Definitions:** in other words (1), is called (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -4732,8 +4731,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), business (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), is called (2), in other words (1)
-> **Code Keywords:** let (3), this. (1), case, (1)
 > **Env Vars:** npv (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
@@ -4741,7 +4740,7 @@ created: 2026-04-29
 
 ### 9. Advances Using Technology in Finance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is fintech?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980)
@@ -4832,9 +4831,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptocurrency]] (5), [[Banking]] (2), [[Blockchain]] (2), [[Financial Data]] (1), traffic (1)
 > **Speakers:** - fintech (4), - [instructor (3), - well (3), - and (2), - yeah (2)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** case, (1), module (1)
 > **Analogies:** for example (2)
 > **Env Vars:** covid (1)
 
@@ -4905,8 +4904,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Blockchain]] (12), [[Security]] (3), database (2), [[Databases]] (1)
 > **Analogies:** such as (2), imagine (1), for example (1)
-> **Code Keywords:** require (1), let (1), this, (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
@@ -5015,7 +5014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), public (3), let (2), finally, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Cryptocurrency]] (5), next (3), data (2), [[Forms]] (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -5111,10 +5110,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11), data (1), next (1), product (1)
 > **Versions:** 1.2 (3), 1.7 (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), public (1)
 > **Definitions:** is called (1), is an  (1)
 > **Env Vars:** ipo (1)
 > **Warnings:** note that (1)
@@ -5123,7 +5122,7 @@ created: 2026-04-29
 
 ### 10. Personal Financial Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing personal financing planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-personal-financing-planning?u=76281980)
@@ -5200,8 +5199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Planning]] (3), traffic (1)
 > **Speakers:** - well (3), - all (2), - so (2), - yes (1), - okay (1)
-> **Code Keywords:** let (2), while. (1), this, (1)
 > **CLI Commands:** make (2)
 
 #### The secret to financial security
@@ -5301,8 +5300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), next (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** continue (2), let (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Env Vars:** covid (1)
 > **Speakers:** - okay (1)
@@ -5406,7 +5405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1), data (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
@@ -5485,7 +5484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** next (3), product (1)
 > **Analogies:** such as (2)
 > **URLs:** [daveramsey.com](https://daveramsey.com) (1)
 > **Speakers:** - let (1)
@@ -5493,7 +5492,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing corporate finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980)
@@ -5542,9 +5541,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), business (2), [[Financial Statements]] (1), [[Financial Planning]] (1), [[LinkedIn]] (1)
 > **Speakers:** - we (3), - then (3), - and (2), - let (1), - the (1)
 > **Cross-References:** we talked about (5), we discussed (1)
-> **Code Keywords:** let (1), return. (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** esg (1)
 

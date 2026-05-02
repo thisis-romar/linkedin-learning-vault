@@ -34,7 +34,7 @@ tags:
   - skill/spring-framework
   - skill/spring-boot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Spring%206%20With%20Spring%20Boot.md)
@@ -53,47 +53,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn the premier framework for the JVM
-  - What you should know
-  - Run PostgreSQL
+  - [Learn the premier framework for the JVM](#learn-the-premier-framework-for-the-jvm)
+  - [What you should know](#what-you-should-know)
+  - [Run PostgreSQL](#run-postgresql)
 - [**1. Getting Started with Spring Boot**](#1-getting-started-with-spring-boot) (5 videos)
-  - Introduction to Spring
-  - Introduction to Spring Boot
-  - Create a project
-  - Examine a Spring Boot skeleton project
-  - Annotations everywhere
+  - [Introduction to Spring](#introduction-to-spring)
+  - [Introduction to Spring Boot](#introduction-to-spring-boot)
+  - [Create a project](#create-a-project)
+  - [Examine a Spring Boot skeleton project](#examine-a-spring-boot-skeleton-project)
+  - [Annotations everywhere](#annotations-everywhere)
 - [**2. Data Access in Spring**](#2-data-access-in-spring) (6 videos)
-  - Welcome to Spring Data
-  - Embedded databases with Spring Boot
-  - Repositories with Spring Data
-  - Use a remote database
-  - Challenge: Data access
-  - Solution: Data access
+  - [Welcome to Spring Data](#welcome-to-spring-data)
+  - [Embedded databases with Spring Boot](#embedded-databases-with-spring-boot)
+  - [Repositories with Spring Data](#repositories-with-spring-data)
+  - [Use a remote database](#use-a-remote-database)
+  - [Challenge: Data access](#challenge-data-access)
+  - [Solution: Data access](#solution-data-access)
 - [**3. Service Tier**](#3-service-tier) (3 videos)
-  - Understand dependency injection
-  - Build a service abstraction
-  - Develop a service object with Spring
+  - [Understand dependency injection](#understand-dependency-injection)
+  - [Build a service abstraction](#build-a-service-abstraction)
+  - [Develop a service object with Spring](#develop-a-service-object-with-spring)
 - [**4. Web Pages with Spring**](#4-web-pages-with-spring) (5 videos)
-  - Introduction to the controller
-  - Build your first controller
-  - Thymeleaf as a rendering engine
-  - Challenge: Create a web page
-  - Solution: Create a web page
+  - [Introduction to the controller](#introduction-to-the-controller)
+  - [Build your first controller](#build-your-first-controller)
+  - [Thymeleaf as a rendering engine](#thymeleaf-as-a-rendering-engine)
+  - [Challenge: Create a web page](#challenge-create-a-web-page)
+  - [Solution: Create a web page](#solution-create-a-web-page)
 - [**5. Exposing RESTful Endpoints**](#5-exposing-restful-endpoints) (4 videos)
-  - Understanding RestController
-  - Expose a service layer through REST
-  - Challenge: RESTful endpoints
-  - Solution: RESTful endpoints
+  - [Understanding RestController](#understanding-restcontroller)
+  - [Expose a service layer through REST](#expose-a-service-layer-through-rest)
+  - [Challenge: RESTful endpoints](#challenge-restful-endpoints)
+  - [Solution: RESTful endpoints](#solution-restful-endpoints)
 - [**6. Additional Topics with Spring Boot**](#6-additional-topics-with-spring-boot) (3 videos)
-  - Test Spring Boot applications
-  - Spring Security basics
-  - Other topics
+  - [Test Spring Boot applications](#test-spring-boot-applications)
+  - [Spring Security basics](#spring-security-basics)
+  - [Other topics](#other-topics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the premier framework for the JVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980)
@@ -114,6 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), [[Spring Boot]] (2), [[Spring Framework]] (1), [[Engineering]] (1)
 > **Env Vars:** jvm (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [frank] (1)
@@ -207,13 +208,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (10), database (8), web (4), [[Spring Boot]] (2), [[PostgreSQL|Postgres]] (2)
 > **CLI Commands:** docker (3), find (1), apache (1), curl (1), make (1)
 > **Env Vars:** ide (3), jvm (1), jdk (1), lts (1), json (1)
 > **Prerequisites:** install (3), you'll need (1)
 > **Versions:** 3.0 (1), java 17 (1), java 20 (1)
 > **Tools:** command line (2), intellij (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Run PostgreSQL
@@ -297,9 +298,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[PostgreSQL]] (4), database (3), [[Windows]] (2), data (2)
 > **CLI Commands:** docker (9), psql (4), make (1)
 > **Tools:** terminal (7), bash (2)
-> **Code Keywords:** let (2), this, (1), pass (1)
 > **Env Vars:** psql (3)
 > **Definitions:** is a  (3)
 > **File Paths:** start_postgres.sh (1), schema.sql (1)
@@ -309,7 +310,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Spring Boot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980)
@@ -396,8 +397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (7), application (6), [[Spring Framework]] (3), oop (2), [[Spring Boot]] (2)
 > **Env Vars:** jvm (2), oop (2), pojo (2), xml (2), ejb (1)
-> **Code Keywords:** class. (1), let (1), while, (1), this, (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -454,7 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** application (6), [[Spring Boot]] (5), web (3), web application (2), [[Application Development]] (2)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -534,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), type. (1), default. (1)
+> **Frameworks & Libraries:** web (5), [[Spring Boot]] (2), [[Java]] (2), application (1), [[Gradle]] (1)
 > **Env Vars:** ide (2), zip (2), jar (1)
 > **Versions:** 3.1.3 (3), java 20 (1)
 > **UI Navigation:** navigate to (1), go to (1), scroll down (1)
@@ -634,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (3), static (3), this. (2), function (1)
+> **Frameworks & Libraries:** application (7), [[Spring Boot]] (6), [[HTML]] (4), [[Java]] (3), web (3)
 > **Env Vars:** ide (4), html (3), iml (1)
 > **File Paths:** palm.xml (2), help.md (1), index.html (1)
 > **Definitions:** is a  (3)
@@ -746,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), application (4), [[Spring Boot]] (3), [[Metadata]] (1), power (1)
 > **Code Identifiers:** getx (4), gety (4)
-> **Code Keywords:** let (2), case, (1), class. (1), override (1), class, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** xml (2)
 > **Prerequisites:** configure (2)
@@ -756,7 +757,7 @@ created: 2026-04-29
 
 ### 2. Data Access in Spring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980)
@@ -839,8 +840,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Data]] (11), database (8), data (7), [[Java Database Connectivity (JDBC)|Jdbc]] (5), [[NoSQL]] (2)
 > **Env Vars:** jdbc (5), orm (2), jpa (2), rdbms (1), jvm (1)
-> **Code Keywords:** interface (4), let (1), require (1), class. (1), case, (1)
 > **Exercise Files:** template (5), boilerplate (1)
 > **Code Identifiers:** findby (2), findallby (1)
 > **Documentation:** specification (1)
@@ -898,9 +899,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (5), application (3), [[Databases]] (1), [[Spring Boot]] (1)
 > **Env Vars:** ide (1), jpa (1), default (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** schema.sql (1)
@@ -1035,7 +1036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), private (5), pass (2), require (2), this. (1)
+> **Frameworks & Libraries:** data (8), [[Java]] (3), application (3), database (2), [[SQL]] (2)
 > **Code Identifiers:** roomnumber (3), findbyroomnumberignorecase (2), room_id (1), room_number (1), bed_info (1)
 > **CLI Commands:** make (2), find (1)
 > **File Paths:** schema.sql (1), data.sql (1)
@@ -1121,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), import. (1), else, (1), delete (1)
+> **Frameworks & Libraries:** data (11), [[PostgreSQL|Postgres]] (7), database (6), [[PostgreSQL]] (3), application (3)
 > **Env Vars:** lil (2), pom (2), ide (1), dns (1)
 > **CLI Commands:** make (3), docker (2)
 > **File Paths:** pom.xml (1), data.sql (1)
@@ -1161,6 +1162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[SQL]] (1)
 > **Env Vars:** jpa (2), sql (1), bin (1), res_date (1)
 > **File Paths:** schema.sql (1)
 > **Cross-References:** go back to (1)
@@ -1207,7 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), extends (1), continue (1)
+> **Frameworks & Libraries:** [[Java]] (3), data (2), [[SQL]] (2), database (1), application (1)
 > **File Paths:** java.sql (2)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** res_date (1), reservationdate (1)
@@ -1219,7 +1221,7 @@ created: 2026-04-29
 
 ### 3. Service Tier
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand dependency injection
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980)
@@ -1310,7 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), case, (2), interface (1), default, (1)
+> **Frameworks & Libraries:** application (6), [[Spring Boot]] (3), [[Dependency Injection]] (2), business (2), [[Spring Framework]] (2)
 > **Definitions:** is a  (1), is called (1)
 > **Best Practices:** rule of thumb (1), you should never (1)
 > **Prerequisites:** configure (2)
@@ -1398,7 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (1), class, (1), else. (1), class. (1)
+> **Frameworks & Libraries:** api (3), web (2), application (2), business (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** go build (1)
@@ -1538,8 +1540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (5), data (3), [[SQL]] (1)
 > **Code Identifiers:** roomreservation (5), getid (4), roomid (2), foreach (2), roomreservations (2)
-> **Code Keywords:** let (12), private (10), this, (3), this. (3), lambda (2)
 > **CLI Commands:** go build (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -1550,7 +1552,7 @@ created: 2026-04-29
 
 ### 4. Web Pages with Spring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980)
@@ -1631,8 +1633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), data (6), [[HTML]] (5), web application (4), application (2)
 > **Env Vars:** html (5), mvc (3), json (2), rest (1), url (1)
-> **Code Keywords:** case. (3), let (2), case, (1), implements (1), for, (1)
 > **Exercise Files:** template (6)
 > **Definitions:** is a  (3)
 > **Warnings:** important note (1)
@@ -1669,7 +1671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), class, (1), public (1), pass (1)
+> **Frameworks & Libraries:** web (3), [[Java]] (1)
 > **Code Identifiers:** getwelcome (1), isnotblank (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1718,7 +1720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1)
+> **Frameworks & Libraries:** data (3), next (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** queryparam (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
@@ -1795,7 +1797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (2), function (2), continue (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), data (2), [[Java]] (1), [[SQL]] (1), [[HTML]] (1)
 > **Env Vars:** sql (1), html (1), iso (1), url (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **File Paths:** java.sql (1)
@@ -1806,7 +1808,7 @@ created: 2026-04-29
 
 ### 5. Exposing RESTful Endpoints
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding RestController
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980)
@@ -1843,8 +1845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), [[Spring Boot]] (3), [[JSON]] (2), [[Spring Framework]] (2), data (1)
 > **Env Vars:** json (2), xml (2), mvc (1), rest (1)
-> **Code Keywords:** else, (1), let (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1938,7 +1940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (6), public (5), let (4), pass (4), throw (3)
+> **Frameworks & Libraries:** web (4), api (4), [[Java]] (2), application (1), functional (1)
 > **Code Identifiers:** roomrepository (5), findall (1), getroom (1), findbyid (1), isempty (1)
 > **Env Vars:** api (2), http (1)
 > **Definitions:** is a  (3)
@@ -1973,6 +1975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), data (1), api (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
@@ -2031,9 +2034,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), web (2)
 > **UI Navigation:** go to (3), click on (1)
 > **Env Vars:** api (3)
-> **Code Keywords:** case, (1), let (1)
 > **CLI Commands:** go build (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2042,7 +2045,7 @@ created: 2026-04-29
 
 ### 6. Additional Topics with Spring Boot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test Spring Boot applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980)
@@ -2099,8 +2102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Integration Testing]] (6), [[Unit Testing]] (3), api (2), database (2), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
 > **Env Vars:** api (2), jdbc (2), xml (1), html (1), json (1)
-> **Code Keywords:** finally, (2), this. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Documentation:** the documentation (2)
 > **Warnings:** note that (1)
@@ -2157,8 +2160,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Security]] (13), application (3), web application (2), [[LinkedIn]] (1), [[Spring Boot]] (1)
 > **Env Vars:** ldap (2), crsf (1), jwt (1), nginx (1)
-> **Code Keywords:** let (1), public (1), finally, (1)
 > **CLI Commands:** find (1), nginx (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1)
@@ -2263,17 +2266,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), web (5), [[Spring Framework]] (4), [[Spring Boot]] (3), [[GraphQL]] (3)
 > **Env Vars:** amqp (3), jms (2), aop (1), aws (1), gcp (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** find (2), make (1), aws (1)
-> **Code Keywords:** let (2), this, (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980)
@@ -2330,6 +2333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Spring Boot]] (3), next (2), web (2), [[Spring Framework]] (2)
 > **Cross-References:** we talked about (4), we discussed (1), previous video (1)
 > **CLI Commands:** make (2), find (1)
 > **Documentation:** stack overflow (1)

@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Agents%20Made%20Simple-%20Your%20Zero-to-Hero%20Guide%20to%20Prompting%20for%20Work%20Automation.md)
@@ -49,31 +49,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of smart prompting for AI agents
+  - [The power of smart prompting for AI agents](#the-power-of-smart-prompting-for-ai-agents)
 - [**1. Getting to Know AI Agents**](#1-getting-to-know-ai-agents) (3 videos)
-  - Meet your new AI assistant
-  - Real-world benefits of AI agents
-  - Seeing AI agents in action
+  - [Meet your new AI assistant](#meet-your-new-ai-assistant)
+  - [Real-world benefits of AI agents](#real-world-benefits-of-ai-agents)
+  - [Seeing AI agents in action](#seeing-ai-agents-in-action)
 - [**2. Agent Prompting Fundamentals: Asking for What You Need**](#2-agent-prompting-fundamentals-asking-for-what-you-need) (3 videos)
-  - Prompting best practices: Clear and simple instructions
-  - Adding personality and tone
-  - Getting the right answer
+  - [Prompting best practices: Clear and simple instructions](#prompting-best-practices-clear-and-simple-instructions)
+  - [Adding personality and tone](#adding-personality-and-tone)
+  - [Getting the right answer](#getting-the-right-answer)
 - [**3. Intermediate Techniques: Breaking It Down**](#3-intermediate-techniques-breaking-it-down) (6 videos)
-  - Step-by-step thinking: Guided reasoning
-  - Step-by-step thinking: Example-driven reasoning
-  - Step-by-step thinking: Consensus check
-  - From step-by-step to all-in-one prompting
-  - Review and improve: Learn from each attempt
-  - Splitting big tasks into smaller ones
+  - [Step-by-step thinking: Guided reasoning](#step-by-step-thinking-guided-reasoning)
+  - [Step-by-step thinking: Example-driven reasoning](#step-by-step-thinking-example-driven-reasoning)
+  - [Step-by-step thinking: Consensus check](#step-by-step-thinking-consensus-check)
+  - [From step-by-step to all-in-one prompting](#from-step-by-step-to-all-in-one-prompting)
+  - [Review and improve: Learn from each attempt](#review-and-improve-learn-from-each-attempt)
+  - [Splitting big tasks into smaller ones](#splitting-big-tasks-into-smaller-ones)
 - [**4. Advanced Techniques: Thinking and Acting**](#4-advanced-techniques-thinking-and-acting) (2 videos)
-  - Smart moves: Combining thought and action
-  - Thinking aloud for transparent AI
+  - [Smart moves: Combining thought and action](#smart-moves-combining-thought-and-action)
+  - [Thinking aloud for transparent AI](#thinking-aloud-for-transparent-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Key takeaways and practical tips
+  - [Key takeaways and practical tips](#key-takeaways-and-practical-tips)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of smart prompting for AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980)
@@ -98,14 +98,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), prompt (1), power (1), [[Prompt Engineering]] (1), [[Microsoft]] (1)
 > **Env Vars:** mvp (1)
 > **Speakers:** - what (1)
 
 
 ### 1. Getting to Know AI Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet your new AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980)
@@ -202,7 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (1), case, (1), type, (1)
+> **Frameworks & Libraries:** ai (13), next (5), business (3), [[Microsoft Word|Word]] (3), web (2)
 > **Analogies:** for example (4), imagine (1), think of it as (1), such as (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** find (2)
@@ -300,7 +300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), this, (1)
+> **Frameworks & Libraries:** ai (12), business (4), data (2), [[Wellness]] (1), prompt (1)
 > **Analogies:** for example (2), just like (2), it's like (1)
 > **URLs:** [claude.ai](https://claude.ai) (1)
 > **Versions:** 7.5 (1)
@@ -402,7 +402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), case, (1), super (1), type, (1)
+> **Frameworks & Libraries:** ai (8), prompt (5), data (3), [[Decision-Making]] (2), next (2)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
 > **UI Navigation:** drag and drop (1)
 > **Exercise Files:** exercise files (1)
@@ -412,7 +412,7 @@ created: 2026-04-29
 
 ### 2. Agent Prompting Fundamentals: Asking for What You Need
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompting best practices: Clear and simple instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980)
@@ -551,7 +551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), continue (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** prompt (15), ai (10), next (3), business (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **URLs:** [claude.ai](https://claude.ai) (3), [claude.com](https://claude.com) (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Cross-References:** go back to (3)
@@ -678,7 +678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1), continue (1)
+> **Frameworks & Libraries:** ai (8), [[Microsoft Copilot|Copilot]] (3), prompt (3), [[Microsoft]] (2), power (2)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (2)
 > **UI Navigation:** navigate to (1), drag and drop (1)
@@ -839,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2), this, (1)
+> **Frameworks & Libraries:** ai (21), prompt (7), data (6), business (2), next (1)
 > **CLI Commands:** make (4), cat (3)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -851,7 +851,7 @@ created: 2026-04-29
 
 ### 3. Intermediate Techniques: Breaking It Down
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Step-by-step thinking: Guided reasoning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980)
@@ -892,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** ai (6), prompt (2), [[ChatGPT]] (1), next (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -948,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), this. (1)
+> **Frameworks & Libraries:** ai (5), prompt (2), [[ChatGPT]] (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
@@ -1098,7 +1098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (2), this, (1), this. (1), break, (1)
+> **Frameworks & Libraries:** ai (5), prompt (3), next (2), hit (1), [[Continuous Monitoring]] (1)
 > **Analogies:** for example (2), similar to (2), it's like (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** make (1)
@@ -1265,7 +1265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** prompt (9), strengths (5), feature (5), ai (4), next (4)
 > **CLI Commands:** find (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** crm (1)
@@ -1465,7 +1465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), self (3), this. (2), include. (1), this, (1)
+> **Frameworks & Libraries:** ai (11), prompt (10), next (2), [[Jetpack Compose|Compose]] (2), business (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** imagine (1), just like (1)
@@ -1477,7 +1477,7 @@ created: 2026-04-29
 
 ### 4. Advanced Techniques: Thinking and Acting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Smart moves: Combining thought and action
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980)
@@ -1612,7 +1612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1)
+> **Frameworks & Libraries:** ai (7), data (4), business (2), prompt (2), [[Real-Time]] (1)
 > **Definitions:** is a  (3), we call this (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), drag and drop (1)
@@ -1738,7 +1738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), super (2)
+> **Frameworks & Libraries:** ai (12), next (3), prompt (2), data (1)
 > **CLI Commands:** make (5), cat (2)
 > **Analogies:** just like (3), for example (2)
 > **Definitions:** is a  (3)
@@ -1749,7 +1749,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways and practical tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980)
@@ -1798,7 +1798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** prompt (5), ai (4), business (2), [[Prompt Engineering]] (1), next (1)
 > **Speakers:** - congratulations (1)
 
 

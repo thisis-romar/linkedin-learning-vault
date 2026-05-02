@@ -25,7 +25,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Everyday%20AI%20Business%20Tools.md)
@@ -44,32 +44,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Exploring essential AI tools for everyday business
+  - [Exploring essential AI tools for everyday business](#exploring-essential-ai-tools-for-everyday-business)
 - [**1. Key Tools in the AI Tool Chest**](#1-key-tools-in-the-ai-tool-chest) (3 videos)
-  - Tools for toolmakers
-  - The rise of AI systems
-  - Artificial neural networks
+  - [Tools for toolmakers](#tools-for-toolmakers)
+  - [The rise of AI systems](#the-rise-of-ai-systems)
+  - [Artificial neural networks](#artificial-neural-networks)
 - [**2. Predictive Artificial Intelligence**](#2-predictive-artificial-intelligence) (2 videos)
-  - How to build a machine learning platform
-  - Fine-tune your data model
+  - [How to build a machine learning platform](#how-to-build-a-machine-learning-platform)
+  - [Fine-tune your data model](#fine-tune-your-data-model)
 - [**3. Generative Artificial Intelligence**](#3-generative-artificial-intelligence) (5 videos)
-  - The flexibility of foundation models
-  - Generate text with large language models (LLM)
-  - Run a local LLM with Llama
-  - The promise of prompt engineering
-  - Create graphics with image diffusion models
+  - [The flexibility of foundation models](#the-flexibility-of-foundation-models)
+  - [Generate text with large language models (LLM)](#generate-text-with-large-language-models-llm)
+  - [Run a local LLM with Llama](#run-a-local-llm-with-llama)
+  - [The promise of prompt engineering](#the-promise-of-prompt-engineering)
+  - [Create graphics with image diffusion models](#create-graphics-with-image-diffusion-models)
 - [**4. Administration at Scale**](#4-administration-at-scale) (2 videos)
-  - How machines learn
-  - Self-supervised learning
+  - [How machines learn](#how-machines-learn)
+  - [Self-supervised learning](#self-supervised-learning)
 - [**5. Tools of Today to Build Tomorrow's Tools**](#5-tools-of-today-to-build-tomorrows-tools) (2 videos)
-  - The AI upskilling framework
-  - Human intelligence
+  - [The AI upskilling framework](#the-ai-upskilling-framework)
+  - [Human intelligence](#human-intelligence)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Tools and concepts
+  - [Tools and concepts](#tools-and-concepts)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring essential AI tools for everyday business
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980)
@@ -98,7 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1), let (1)
+> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[Artificial Neural Networks]] (1), [[TensorFlow]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** you'll need (1)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 ### 1. Key Tools in the AI Tool Chest
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools for toolmakers
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-for-toolmakers?u=76281980)
@@ -188,9 +188,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (4), game (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
 > **CLI Commands:** cat (3), make (1), find (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** new. (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - a (1)
@@ -278,8 +278,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Generative AI]] (2), [[Microsoft Word|Word]] (2), [[Search]] (1)
 > **CLI Commands:** cat (2)
-> **Code Keywords:** new. (1)
 > **Speakers:** - some (1)
 
 #### Artificial neural networks
@@ -369,7 +369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), raise (1), pass (1)
+> **Frameworks & Libraries:** [[Algorithms]] (9), data (9), [[Artificial Neural Networks]] (4), [[Statistics]] (2), teams (1)
 > **CLI Commands:** cat (2)
 > **Definitions:** is an  (2)
 > **UI Navigation:** go to (1)
@@ -379,7 +379,7 @@ created: 2026-04-29
 
 ### 2. Predictive Artificial Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to build a machine learning platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980)
@@ -456,9 +456,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Deep Learning]] (5), [[Artificial Neural Networks]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), teams (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - deep (1)
 
 #### Fine-tune your data model
@@ -532,9 +532,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Artificial Neural Networks]] (4), [[TensorFlow]] (4), data (2), [[Google]] (2)
 > **Env Vars:** cpu (1), ceo (1), gpu (1), ide (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** interface (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
@@ -542,7 +542,7 @@ created: 2026-04-29
 
 ### 3. Generative Artificial Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The flexibility of foundation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980)
@@ -627,8 +627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Generative AI]] (8), [[Programming]] (6), [[Python (Programming Language)|Python]] (4), api (3)
 > **CLI Commands:** python (4), cat (1)
-> **Code Keywords:** interface (2), require (1)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** download the (1)
@@ -705,9 +705,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (5), api (5), [[Python (Programming Language)|Python]] (4), [[Programming]] (3)
 > **Env Vars:** api (5), gpu (1), gpt (1)
 > **CLI Commands:** python (4), apache (1)
-> **Code Keywords:** interface (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -791,10 +791,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (6), [[Search]] (4), cloud (4), [[LLaMA]] (4), llm (3)
 > **Env Vars:** llm (3), ibm (2), api (1), nvidia (1), gpu (1)
 > **Definitions:** is a  (3), is called (1), stands for (1), is an  (1)
 > **Prerequisites:** install (1), you'll need (1)
-> **Code Keywords:** interface (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - large (1)
 
@@ -883,10 +883,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (4), [[Deep Learning]] (2), [[Artificial Neural Networks]] (2), chatbot (1), [[ChatGPT]] (1)
 > **Env Vars:** eliza (9)
 > **Analogies:** such as (1), imagine (1), just like (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** type, (2)
 > **Warnings:** keep in mind (2)
 > **Definitions:** is called (1)
 > **Speakers:** - in (1)
@@ -966,10 +966,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Stable Diffusion]] (4), cloud (2), open-source (2), [[Forms]] (1)
 > **Env Vars:** gan (2), gpu (1)
 > **Analogies:** it's like (2), picture (1)
 > **CLI Commands:** cat (2)
-> **Code Keywords:** new. (1)
 > **Cross-References:** we discussed (1)
 > **Tools:** discord (1)
 > **Definitions:** is a  (1)
@@ -978,7 +978,7 @@ created: 2026-04-29
 
 ### 4. Administration at Scale
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How machines learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980)
@@ -1053,10 +1053,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Generative AI]] (4), [[Python (Programming Language)|Python]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (2)
 > **CLI Commands:** python (4)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (1), is called (1), means that (1)
-> **Code Keywords:** interface (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - earlier (1)
@@ -1140,15 +1140,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Supervised Learning]] (4), [[Unstructured Data]] (2), [[Deep Learning]] (1), [[Artificial Neural Networks]] (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** self (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
 
 ### 5. Tools of Today to Build Tomorrow's Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The AI upskilling framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980)
@@ -1223,8 +1223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Python (Programming Language)|Python]] (6), [[LinkedIn]] (3), [[TensorFlow]] (2), [[PyTorch]] (2)
 > **CLI Commands:** python (6), find (1)
-> **Code Keywords:** finally, (1), continue (1)
 > **Env Vars:** api (2)
 > **Cross-References:** as you saw (1)
 > **Definitions:** is a  (1)
@@ -1303,8 +1303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[ChatGPT]] (7), data (3), [[Programming]] (2), [[Java]] (2)
 > **CLI Commands:** make (3), python (1)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Best Practices:** remember to (1)
@@ -1313,7 +1313,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-and-concepts?u=76281980)
@@ -1338,7 +1338,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (7), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 

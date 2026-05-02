@@ -35,7 +35,7 @@ tags:
   - skill/artificial-neural-networks
   - skill/generative-adversarial-networks-gans
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Workshop-%20Hands-on%20with%20GANs%20Using%20Dense%20Neural%20Networks%20(2023).md)
@@ -54,32 +54,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Understanding generative modeling
+  - [Understanding generative modeling](#understanding-generative-modeling)
 - [**1. Introducing Generative Adversarial Networks**](#1-introducing-generative-adversarial-networks) (5 videos)
-  - Course outline and prerequisites
-  - Set up the virtual environment and run the notebook server
-  - Introducing generative adversarial networks (GANs)
-  - Instantiating the dataset and data loader
-  - Viewing training data
+  - [Course outline and prerequisites](#course-outline-and-prerequisites)
+  - [Set up the virtual environment and run the notebook server](#set-up-the-virtual-environment-and-run-the-notebook-server)
+  - [Introducing generative adversarial networks (GANs)](#introducing-generative-adversarial-networks-gans)
+  - [Instantiating the dataset and data loader](#instantiating-the-dataset-and-data-loader)
+  - [Viewing training data](#viewing-training-data)
 - [**2. Stand-Alone Training of Adversaries**](#2-stand-alone-training-of-adversaries) (6 videos)
-  - Big picture overview of a GAN
-  - Training the adversaries
-  - The generator architecture and discriminator architecture
-  - Understanding the generator and discriminator outputs
-  - Stand-alone training of discriminator as classification model
-  - Stand-alone training of generator
+  - [Big picture overview of a GAN](#big-picture-overview-of-a-gan)
+  - [Training the adversaries](#training-the-adversaries)
+  - [The generator architecture and discriminator architecture](#the-generator-architecture-and-discriminator-architecture)
+  - [Understanding the generator and discriminator outputs](#understanding-the-generator-and-discriminator-outputs)
+  - [Stand-alone training of discriminator as classification model](#stand-alone-training-of-discriminator-as-classification-model)
+  - [Stand-alone training of generator](#stand-alone-training-of-generator)
 - [**3. Training Generative Adversarial Networks**](#3-training-generative-adversarial-networks) (5 videos)
-  - Computing losses for generator and discriminator
-  - Understanding the minimax loss function
-  - Setting up GAN training
-  - Visualizing GAN training results
-  - Problems with GANs and potential mitigations
+  - [Computing losses for generator and discriminator](#computing-losses-for-generator-and-discriminator)
+  - [Understanding the minimax loss function](#understanding-the-minimax-loss-function)
+  - [Setting up GAN training](#setting-up-gan-training)
+  - [Visualizing GAN training results](#visualizing-gan-training-results)
+  - [Problems with GANs and potential mitigations](#problems-with-gans-and-potential-mitigations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding generative modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980)
@@ -176,7 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1)
+> **Frameworks & Libraries:** data (14), [[Probability]] (9), ai (1), [[Neural Networks]] (1), [[ChatGPT]] (1)
 > **Analogies:** such as (3), imagine (3)
 > **CLI Commands:** cat (1), find (1), make (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -185,7 +185,7 @@ created: 2026-04-29
 
 ### 1. Introducing Generative Adversarial Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course outline and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980)
@@ -222,7 +222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Python (Programming Language)|Python]] (2), [[Programming]] (2), [[PyTorch]] (2), ai (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** mnist (1)
 > **Prerequisites:** you need to have (1)
@@ -340,11 +340,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[PyTorch]] (3), data (2), next (2), cd (1)
 > **CLI Commands:** python (15), find (2), make (2), pip (2), cd (1)
 > **Code Identifiers:** pytorch_venv (13), ai_workshop_gans (1)
 > **Tools:** jupyter (12), terminal (1)
 > **Prerequisites:** install (8), set up (1)
-> **Code Keywords:** let (5), module (2), self (1)
 > **UI Navigation:** click on (2), toggle (2), dropdown (1), select the (1)
 > **Env Vars:** gan (3), mnist (1), url (1)
 > **Definitions:** is a  (3), refers to (1)
@@ -414,9 +414,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Probability]] (1), [[Neural Networks]] (1)
 > **Env Vars:** gan (4)
 > **Analogies:** picture (1), for example (1), similar to (1)
-> **Code Keywords:** let (1), while. (1)
 > **URLs:** [archive.org](https://archive.org) (1)
 
 #### Instantiating the dataset and data loader
@@ -520,8 +520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[PyTorch]] (5), next (2), [[Neural Networks]] (1), [[Computer Vision]] (1)
 > **Env Vars:** mnist (7), gan (5), nist (1)
-> **Code Keywords:** let (6), switch (1)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** pytorch_venv (1), drop_last (1)
 > **Versions:** 0.5 (2)
@@ -616,7 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), pass (1)
+> **Frameworks & Libraries:** data (5), [[PyTorch]] (4), next (1)
 > **Env Vars:** gan (3), mnist (2)
 > **Versions:** 0.5 (4)
 > **Definitions:** is a  (2), refers to (1)
@@ -626,7 +626,7 @@ created: 2026-04-29
 
 ### 2. Stand-Alone Training of Adversaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Big picture overview of a GAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/big-picture-overview-of-a-gan?u=76281980)
@@ -713,8 +713,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), game (3), [[Neural Networks]] (2), database (2)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (4)
 > **Env Vars:** gan (3)
 > **Analogies:** picture (2), imagine (1)
 > **CLI Commands:** make (1)
@@ -792,8 +792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (1), game (1)
 > **Env Vars:** gan (7)
-> **Code Keywords:** continue (1), let (1), this, (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -926,7 +926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), class. (3), module (2), pass (2)
+> **Frameworks & Libraries:** data (4), next (4), [[Probability]] (3), [[Neural Networks]] (2), [[PyTorch]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (2), configure (1)
@@ -1028,7 +1028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), pass (2)
+> **Frameworks & Libraries:** [[Probability]] (3), [[PyTorch]] (2), [[Neural Networks]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** netg (1), make_grid (1), netd (1)
 > **Definitions:** is a  (2)
@@ -1168,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (4), function (3)
+> **Frameworks & Libraries:** data (11), next (6), [[Probability]] (4), [[Deep Learning]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Versions:** 0.0002 (1), 0.73 (1), 0.64 (1), 0.5 (1), 0.001 (1)
 > **Code Identifiers:** netd (1), netg (1)
@@ -1268,7 +1268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), continue (2), function (2), let (2), this. (1)
+> **Frameworks & Libraries:** data (2), [[PyTorch]] (1), [[Probability]] (1), next (1)
 > **CLI Commands:** make (5), find (1)
 > **Code Identifiers:** display_image_grid (2), netg (1), g_optimizer (1)
 > **Versions:** 0.292 (1), 0.998 (1)
@@ -1279,7 +1279,7 @@ created: 2026-04-29
 
 ### 3. Training Generative Adversarial Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computing losses for generator and discriminator
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/computing-losses-for-generator-and-discriminator?u=76281980)
@@ -1370,7 +1370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), pass (3), let (2)
+> **Frameworks & Libraries:** data (19), [[Probability]] (3), next (1)
 > **Env Vars:** gan (4)
 > **Definitions:** means that (1), known as (1)
 > **Prerequisites:** set up (2)
@@ -1481,7 +1481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (6)
+> **Frameworks & Libraries:** data (10), [[Probability]] (6)
 > **Definitions:** refers to (3), is a  (1), means that (1)
 > **Code Identifiers:** ming (1), maxd (1)
 > **Analogies:** imagine (1)
@@ -1617,7 +1617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), let (1), function (1)
+> **Frameworks & Libraries:** [[Probability]] (5), next (4), data (3)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** real_score_list (1), fake_score_list (1), d_optimizer (1), g_optimizer (1)
 > **Env Vars:** gan (2)
@@ -1742,8 +1742,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2)
 > **Versions:** 0.5 (3), 0.0 (1), 0.168 (1), 1.972 (1), 0.0154 (1)
-> **Code Keywords:** let (10), continue (2), else, (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** refers to (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -1815,15 +1815,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
 > **Env Vars:** gan (8)
-> **Code Keywords:** function (2), while, (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** means that (2)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980)
@@ -1862,7 +1862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1)
+> **Frameworks & Libraries:** ai (1), [[Neural Networks]] (1), data (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gan (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)

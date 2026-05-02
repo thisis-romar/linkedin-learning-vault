@@ -39,7 +39,7 @@ tags:
   - skill/tableau
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20Tableau%20to%20Discover%20Powerful%20Business%20Insights.md)
@@ -58,62 +58,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Using Tableau to create business insights
+  - [Using Tableau to create business insights](#using-tableau-to-create-business-insights)
 - [**1. Introducing Tableau**](#1-introducing-tableau) (6 videos)
-  - What is Tableau?
-  - How to use Tableau effectively for business
-  - Excel vs. Tableau
-  - What is data visualization?
-  - Four main functions of Tableau
-  - Basic Tableau terminology
+  - [What is Tableau?](#what-is-tableau)
+  - [How to use Tableau effectively for business](#how-to-use-tableau-effectively-for-business)
+  - [Excel vs. Tableau](#excel-vs-tableau)
+  - [What is data visualization?](#what-is-data-visualization)
+  - [Four main functions of Tableau](#four-main-functions-of-tableau)
+  - [Basic Tableau terminology](#basic-tableau-terminology)
 - [**2. Connecting to Data**](#2-connecting-to-data) (9 videos)
-  - Data connection screen
-  - Types of data to connect to
-  - Live vs. extracted data sources
-  - Defining joins, unions, and data blending
-  - Creating joins, unions, and data blending
-  - Changing field types
-  - Creating an alias
-  - Default formatting
-  - Case study part 1
+  - [Data connection screen](#data-connection-screen)
+  - [Types of data to connect to](#types-of-data-to-connect-to)
+  - [Live vs. extracted data sources](#live-vs-extracted-data-sources)
+  - [Defining joins, unions, and data blending](#defining-joins-unions-and-data-blending)
+  - [Creating joins, unions, and data blending](#creating-joins-unions-and-data-blending)
+  - [Changing field types](#changing-field-types)
+  - [Creating an alias](#creating-an-alias)
+  - [Default formatting](#default-formatting)
+  - [Case study part 1](#case-study-part-1)
 - [**3. Exploring Data and Building Visualizations**](#3-exploring-data-and-building-visualizations) (12 videos)
-  - Interface overview
-  - Building visualizations
-  - Creating calculated fields
-  - Groups
-  - Sets
-  - Table calculations
-  - Sorting
-  - Filters
-  - Histogram and bins
-  - Analytics pane overview
-  - Scatter plot and clustering
-  - Case study, part 2
+  - [Interface overview](#interface-overview)
+  - [Building visualizations](#building-visualizations)
+  - [Creating calculated fields](#creating-calculated-fields)
+  - [Groups](#groups)
+  - [Sets](#sets)
+  - [Table calculations](#table-calculations)
+  - [Sorting](#sorting)
+  - [Filters](#filters)
+  - [Histogram and bins](#histogram-and-bins)
+  - [Analytics pane overview](#analytics-pane-overview)
+  - [Scatter plot and clustering](#scatter-plot-and-clustering)
+  - [Case study, part 2](#case-study-part-2)
 - [**4. Sharing Insights**](#4-sharing-insights) (6 videos)
-  - Dashboard interface overview
-  - Basic dashboarding
-  - Interactive elements
-  - Tiled vs. floating objects
-  - Creating stories
-  - Case study, part 3
+  - [Dashboard interface overview](#dashboard-interface-overview)
+  - [Basic dashboarding](#basic-dashboarding)
+  - [Interactive elements](#interactive-elements)
+  - [Tiled vs. floating objects](#tiled-vs-floating-objects)
+  - [Creating stories](#creating-stories)
+  - [Case study, part 3](#case-study-part-3)
 - [**5. Tableau Concepts**](#5-tableau-concepts) (5 videos)
-  - Dimension vs. measure
-  - Discrete vs. continuous
-  - Aggregation
-  - Timeliness
-  - Visual analytics best practices
+  - [Dimension vs. measure](#dimension-vs-measure)
+  - [Discrete vs. continuous](#discrete-vs-continuous)
+  - [Aggregation](#aggregation)
+  - [Timeliness](#timeliness)
+  - [Visual analytics best practices](#visual-analytics-best-practices)
 - [**6. Expanding Your Tableau Skills**](#6-expanding-your-tableau-skills) (5 videos)
-  - Public Tableau forums
-  - Sharing your Tableau portfolio
-  - Reddit
-  - Forums
-  - YouTube
+  - [Public Tableau forums](#public-tableau-forums)
+  - [Sharing your Tableau portfolio](#sharing-your-tableau-portfolio)
+  - [Reddit](#reddit)
+  - [Forums](#forums)
+  - [YouTube](#youtube)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Wrap up your Tableau journey
+  - [Wrap up your Tableau journey](#wrap-up-your-tableau-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Tableau to create business insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980)
@@ -152,15 +152,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Tableau]] (6), [[Analytics]] (4), [[Business Intelligence (BI)|Business intelligence]] (2), [[Decision-Making]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - it (1)
 
 
 ### 1. Introducing Tableau
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Tableau?
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980)
@@ -207,8 +207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (13), data (8), business (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Infographics]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** interface (1), let (1)
 > **Env Vars:** sql (1), mba (1)
 > **Speakers:** - [instructor] (1)
 
@@ -261,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (2), self (2), super (2), function (1)
+> **Frameworks & Libraries:** [[Tableau]] (10), data (10), business (3), game (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -322,8 +322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), data (9), [[Tableau]] (9), [[Scripting]] (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** interface (2), from, (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** vba (1)
 > **UI Navigation:** click on (1)
@@ -411,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), extends (1)
+> **Frameworks & Libraries:** data (14), business (3), [[Dashboards]] (2), [[LinkedIn]] (1), next (1)
 > **Analogies:** picture (2), for example (1), such as (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2.5 (1)
@@ -467,7 +467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** data (14), [[Tableau]] (9), [[Analytics]] (2), feature (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -560,7 +560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** data (14), [[Tableau]] (11), hit (2), [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (4), toggle (1), select the (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
@@ -570,7 +570,7 @@ created: 2026-04-29
 
 ### 2. Connecting to Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data connection screen
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980)
@@ -653,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (21), [[Tableau]] (8), [[Microsoft Excel|Excel]] (4), [[Microsoft Excel]] (3), next (2)
 > **Env Vars:** sql (1), vlookup (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -721,10 +721,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Tableau]] (5), web (3), [[SQL]] (2), database (2)
 > **Env Vars:** sql (2), csv (2), spss (1), json (1), pdf (1)
 > **Definitions:** is a  (1), is an  (1), short for (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** case, (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -784,8 +784,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Tableau]] (6), [[Dashboards]] (3), next (1), [[Healthcare Industry]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1), let (1)
 > **Definitions:** means that (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -845,6 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Tableau]] (4), feature (1), business (1)
 > **Definitions:** is a  (2), means that (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -899,7 +900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1), case. (1)
+> **Frameworks & Libraries:** data (14), [[Tableau]] (2), [[Microsoft Excel]] (1), next (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Speakers:** - creating (1)
 
@@ -980,7 +981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (1), type, (1)
+> **Frameworks & Libraries:** data (9), [[Tableau]] (3), next (2), hit (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** dropdown (5), select the (2), go to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -1031,7 +1032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (4), [[Tableau]] (2), [[Microsoft Excel]] (1), next (1), hit (1)
 > **UI Navigation:** dropdown (1), double-click (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1085,7 +1086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), data (2), feature (1), next (1), hit (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1137,7 +1138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (4), [[Microsoft Excel]] (3), [[Tableau]] (3), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1145,7 +1146,7 @@ created: 2026-04-29
 
 ### 3. Exploring Data and Building Visualizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Interface overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980)
@@ -1234,7 +1235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (1), self (1), from. (1)
+> **Frameworks & Libraries:** [[Tableau]] (10), data (6), [[Electronics]] (4), [[Hardware]] (4), [[Sales Analysis]] (3)
 > **Analogies:** for example (2), similar to (1), kind of like (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** kpi (2)
@@ -1311,7 +1312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (3), [[Tableau]] (2), [[Electronics]] (2), next (2), [[Hardware]] (1)
 > **UI Navigation:** click on (2), dropdown (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1385,7 +1386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), case. (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Zoom]] (1), product (1), hit (1)
 > **Definitions:** is a  (4)
 > **Speakers:** - [instructor] (1)
 
@@ -1434,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), data (2), hit (2), next (1)
 > **UI Navigation:** dropdown (1), toggle (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1496,7 +1497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case. (1)
+> **Frameworks & Libraries:** data (2), hit (2), [[Tableau]] (1), next (1), [[Zoom]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** dropdown (1)
@@ -1551,7 +1552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (1), from, (1), require (1)
+> **Frameworks & Libraries:** [[Electronics]] (3), data (2), hit (1), [[Microsoft Products|Products]] (1), next (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1618,8 +1619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Tableau]] (2), hit (1), product (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), type. (1)
 > **UI Navigation:** dropdown (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1657,7 +1658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Tableau]] (4), data (2), hit (2), [[User Experience (UX)|User experience]] (1), [[Electronics]] (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1706,7 +1707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), super (1)
+> **Frameworks & Libraries:** data (5), [[Tableau]] (2)
 > **Versions:** 0.0043 (1), 0.002 (1), 0.98 (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -1762,7 +1763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** [[Analytics]] (4), data (3), next (2), [[Tableau]] (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1811,7 +1812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (1), [[Tableau]] (1), [[Analytics]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
@@ -1916,7 +1917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2)
+> **Frameworks & Libraries:** data (15), next (5), [[Zoom]] (1)
 > **Env Vars:** kpi (5)
 > **CLI Commands:** make (4)
 > **UI Navigation:** select the (1), dropdown (1)
@@ -1927,7 +1928,7 @@ created: 2026-04-29
 
 ### 4. Sharing Insights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dashboard interface overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980)
@@ -2002,8 +2003,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Dashboards]] (2), [[Tableau]] (1), hit (1), generic (1)
 > **Env Vars:** kpi (3)
-> **Code Keywords:** interface (1), function (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** snap (1)
 > **UI Navigation:** dropdown (1)
@@ -2108,7 +2109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this, (2), this. (1)
+> **Frameworks & Libraries:** next (3), data (2), [[Microsoft Excel|Excel]] (1), hit (1), functional (1)
 > **Non-Speech:** (mouse clicking) (5)
 > **CLI Commands:** make (3)
 > **Env Vars:** kpi (3)
@@ -2181,9 +2182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (4), hit (3), next (2), data (2), [[Tableau]] (1)
 > **CLI Commands:** make (3), find (3)
 > **UI Navigation:** click on (1), go to (1), dropdown (1), toggle (1)
-> **Code Keywords:** let (2), function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -2241,7 +2242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
@@ -2285,9 +2286,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Dashboards]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), data (1), next (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2350,7 +2351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (2)
+> **Frameworks & Libraries:** data (4), next (4), hit (2), teams (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** kpi (2)
 > **UI Navigation:** dropdown (2)
@@ -2360,7 +2361,7 @@ created: 2026-04-29
 
 ### 5. Tableau Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimension vs. measure
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dimension-vs-measure?u=76281980)
@@ -2419,8 +2420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (4), data (3)
 > **Analogies:** for example (2), imagine (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2481,7 +2482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1)
+> **Frameworks & Libraries:** data (6), [[Tableau]] (3), hit (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** dropdown (2)
 > **CLI Commands:** make (1)
 > **Versions:** 3.4 (1)
@@ -2522,8 +2523,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Tableau]] (3), hit (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), interface (1)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2625,7 +2626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), data (2), next (2), hit (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** kpi (1)
 > **UI Navigation:** dropdown (1)
@@ -2697,15 +2698,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), [[Tableau]] (2), next (2), [[Electronics]] (2), [[Hardware]] (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), continue (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Expanding Your Tableau Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Public Tableau forums
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tableau-public-forums?u=76281980)
@@ -2726,7 +2727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Search]] (1), [[Google]] (1), [[Analytics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2772,7 +2773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (3), public (2)
+> **Frameworks & Libraries:** [[Tableau]] (5), data (3), [[Sales Analysis]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), kind of like (1)
 > **Exercise Files:** download the (1)
@@ -2807,6 +2808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Search]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2834,6 +2836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Marketing Analytics]] (4), [[Tableau]] (3), product (1), next (1), [[Analytics]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2856,14 +2859,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (5)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap up your Tableau journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980)
@@ -2894,7 +2897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Analytics]] (6), [[LinkedIn]] (1), data (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - congratulations (1)
 
 

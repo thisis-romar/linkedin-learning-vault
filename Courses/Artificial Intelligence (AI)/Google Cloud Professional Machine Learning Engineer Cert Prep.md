@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Google%20Cloud%20Professional%20Machine%20Learning%20Engineer%20Cert%20Prep.md)
@@ -47,128 +47,128 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Course and Google Professional Machine Learning Engineer exam overview
-  - Framing ML problems: Key terminology
+  - [Course and Google Professional Machine Learning Engineer exam overview](#course-and-google-professional-machine-learning-engineer-exam-overview)
+  - [Framing ML problems: Key terminology](#framing-ml-problems-key-terminology)
 - [**1. Translating Business Challenges into ML Use Cases**](#1-translating-business-challenges-into-ml-use-cases) (3 videos)
-  - Building AI-enabled workflows
-  - Using AI tools to build AI tools
-  - Teaching MLOps at scale with GitHub
+  - [Building AI-enabled workflows](#building-ai-enabled-workflows)
+  - [Using AI tools to build AI tools](#using-ai-tools-to-build-ai-tools)
+  - [Teaching MLOps at scale with GitHub](#teaching-mlops-at-scale-with-github)
 - [**2. Defining ML Problems**](#2-defining-ml-problems) (5 videos)
-  - Simulations vs. experiment tracking
-  - When to use ML
-  - Supervised vs. unsupervised ML
-  - Optimization
-  - Clustering
+  - [Simulations vs. experiment tracking](#simulations-vs-experiment-tracking)
+  - [When to use ML](#when-to-use-ml)
+  - [Supervised vs. unsupervised ML](#supervised-vs-unsupervised-ml)
+  - [Optimization](#optimization)
+  - [Clustering](#clustering)
 - [**3. Defining Business Success Criteria**](#3-defining-business-success-criteria) (1 videos)
-  - Defining business success criteria
+  - [Defining business success criteria](#defining-business-success-criteria)
 - [**4. Identifying Risks to Feasibility of ML Solutions**](#4-identifying-risks-to-feasibility-of-ml-solutions) (3 videos)
-  - MLOps hierarchy of needs
-  - Hidden costs of bespoke systems
-  - Data poisoning
+  - [MLOps hierarchy of needs](#mlops-hierarchy-of-needs)
+  - [Hidden costs of bespoke systems](#hidden-costs-of-bespoke-systems)
+  - [Data poisoning](#data-poisoning)
 - [**5. Conclusion: Framing ML Problems**](#5-conclusion-framing-ml-problems) (1 videos)
-  - Framing ML problems: Next steps
+  - [Framing ML problems: Next steps](#framing-ml-problems-next-steps)
 - [**6. Introduction: Architecting a ML Solution**](#6-introduction-architecting-a-ml-solution) (3 videos)
-  - Architecting a ML solution: Overview
-  - Architecting a ML solution: Key terminology
-  - Cloud developer workspace advantage
+  - [Architecting a ML solution: Overview](#architecting-a-ml-solution-overview)
+  - [Architecting a ML solution: Key terminology](#architecting-a-ml-solution-key-terminology)
+  - [Cloud developer workspace advantage](#cloud-developer-workspace-advantage)
 - [**7. Designing a Reliable, Scalable, and Highly Available ML Solution**](#7-designing-a-reliable-scalable-and-highly-available-ml-solution) (5 videos)
-  - What is continuous delivery?
-  - Containerized ML microservices
-  - SRE mindset for MLOps
-  - Reproducible workflow
-  - Learn continuous integration
+  - [What is continuous delivery?](#what-is-continuous-delivery)
+  - [Containerized ML microservices](#containerized-ml-microservices)
+  - [SRE mindset for MLOps](#sre-mindset-for-mlops)
+  - [Reproducible workflow](#reproducible-workflow)
+  - [Learn continuous integration](#learn-continuous-integration)
 - [**8. Choosing Appropriate Google Cloud Hardware Components**](#8-choosing-appropriate-google-cloud-hardware-components) (4 videos)
-  - Selecting heavy vs. light MLOps
-  - Key components of MLOps landscape
-  - Feature store vs. data warehouse
-  - Compute choice
+  - [Selecting heavy vs. light MLOps](#selecting-heavy-vs-light-mlops)
+  - [Key components of MLOps landscape](#key-components-of-mlops-landscape)
+  - [Feature store vs. data warehouse](#feature-store-vs-data-warehouse)
+  - [Compute choice](#compute-choice)
 - [**9. Conclusion: Architecting a ML Solution**](#9-conclusion-architecting-a-ml-solution) (1 videos)
-  - Architecting a ML solution: Next steps
+  - [Architecting a ML solution: Next steps](#architecting-a-ml-solution-next-steps)
 - [**10. Introduction: Designing Data Preparation and Processing Systems**](#10-introduction-designing-data-preparation-and-processing-systems) (3 videos)
-  - Designing data preparation and processing systems: Overview
-  - Designing data preparation and processing systems: Key terminology
-  - Onboard to GCP
+  - [Designing data preparation and processing systems: Overview](#designing-data-preparation-and-processing-systems-overview)
+  - [Designing data preparation and processing systems: Key terminology](#designing-data-preparation-and-processing-systems-key-terminology)
+  - [Onboard to GCP](#onboard-to-gcp)
 - [**11. Exploring Data**](#11-exploring-data) (4 videos)
-  - What is Google Colab?
-  - Exploratory data analysis for life expectancy
-  - Data science setup with virtualenv and pip on Windows
-  - Graphing data for exploratory data analysis
+  - [What is Google Colab?](#what-is-google-colab)
+  - [Exploratory data analysis for life expectancy](#exploratory-data-analysis-for-life-expectancy)
+  - [Data science setup with virtualenv and pip on Windows](#data-science-setup-with-virtualenv-and-pip-on-windows)
+  - [Graphing data for exploratory data analysis](#graphing-data-for-exploratory-data-analysis)
 - [**12. Building Data Pipelines**](#12-building-data-pipelines) (5 videos)
-  - Labeling data
-  - Mechanical Turk labeling
-  - Cleaning up data
-  - Scaling data
-  - BigQuery data pipelines with Colab
+  - [Labeling data](#labeling-data)
+  - [Mechanical Turk labeling](#mechanical-turk-labeling)
+  - [Cleaning up data](#cleaning-up-data)
+  - [Scaling data](#scaling-data)
+  - [BigQuery data pipelines with Colab](#bigquery-data-pipelines-with-colab)
 - [**13. Creating Input Features**](#13-creating-input-features) (3 videos)
-  - Feature engineering concepts
-  - Extracting features from public datasets
-  - Exploratory data analysis with Google BigQuery
+  - [Feature engineering concepts](#feature-engineering-concepts)
+  - [Extracting features from public datasets](#extracting-features-from-public-datasets)
+  - [Exploratory data analysis with Google BigQuery](#exploratory-data-analysis-with-google-bigquery)
 - [**14. Conclusion: Designing Data Preparation and Processing Systems**](#14-conclusion-designing-data-preparation-and-processing-systems) (1 videos)
-  - Designing data preparation and processing systems: Next steps
+  - [Designing data preparation and processing systems: Next steps](#designing-data-preparation-and-processing-systems-next-steps)
 - [**15. Introduction: Developing ML Models**](#15-introduction-developing-ml-models) (2 videos)
-  - Developing ML models: Overview
-  - Developing ML models: Key terminology
+  - [Developing ML models: Overview](#developing-ml-models-overview)
+  - [Developing ML models: Key terminology](#developing-ml-models-key-terminology)
 - [**16. Building Models**](#16-building-models) (3 videos)
-  - Using TensorFlow Playground
-  - Overfitting vs. underfitting
-  - Selecting the right metrics
+  - [Using TensorFlow Playground](#using-tensorflow-playground)
+  - [Overfitting vs. underfitting](#overfitting-vs-underfitting)
+  - [Selecting the right metrics](#selecting-the-right-metrics)
 - [**17. Training Models**](#17-training-models) (3 videos)
-  - Training models with TensorFlow and a GPU-enabled Docker
-  - Fine-tuning raw ingredients with Hugging Face
-  - Advantages of transfer learning
+  - [Training models with TensorFlow and a GPU-enabled Docker](#training-models-with-tensorflow-and-a-gpu-enabled-docker)
+  - [Fine-tuning raw ingredients with Hugging Face](#fine-tuning-raw-ingredients-with-hugging-face)
+  - [Advantages of transfer learning](#advantages-of-transfer-learning)
 - [**18. Scaling Model Training and Serving**](#18-scaling-model-training-and-serving) (12 videos)
-  - Operationalize microservices
-  - Monitoring and logging with Rust on Google App Engine
-  - Continuous integration using Rust with GitHub Actions
-  - Demo: Unit testing Rust
-  - Demo: GitHub copilot-enabled Rust
-  - Set up a GCP workstation with Python
-  - Demo: Google Cloud Shell
-  - Demo: Google Cloud Editor
-  - Demo: Google CLI SDK
-  - Demo: Google gcloud CLI
-  - Demo: Google App Engine Rust deployment
-  - Demo: Google App Engine Golang
+  - [Operationalize microservices](#operationalize-microservices)
+  - [Monitoring and logging with Rust on Google App Engine](#monitoring-and-logging-with-rust-on-google-app-engine)
+  - [Continuous integration using Rust with GitHub Actions](#continuous-integration-using-rust-with-github-actions)
+  - [Demo: Unit testing Rust](#demo-unit-testing-rust)
+  - [Demo: GitHub copilot-enabled Rust](#demo-github-copilot-enabled-rust)
+  - [Set up a GCP workstation with Python](#set-up-a-gcp-workstation-with-python)
+  - [Demo: Google Cloud Shell](#demo-google-cloud-shell)
+  - [Demo: Google Cloud Editor](#demo-google-cloud-editor)
+  - [Demo: Google CLI SDK](#demo-google-cli-sdk)
+  - [Demo: Google gcloud CLI](#demo-google-gcloud-cli)
+  - [Demo: Google App Engine Rust deployment](#demo-google-app-engine-rust-deployment)
+  - [Demo: Google App Engine Golang](#demo-google-app-engine-golang)
 - [**19. Conclusion: Developing ML Models**](#19-conclusion-developing-ml-models) (1 videos)
-  - Developing ML models: Next steps
+  - [Developing ML models: Next steps](#developing-ml-models-next-steps)
 - [**20. Introduction: Automating and Orchestrating ML Pipelines**](#20-introduction-automating-and-orchestrating-ml-pipelines) (2 videos)
-  - Automating and orchestrating ML pipelines: Overview
-  - Automating and orchestrating ML pipelines: Key terminology
+  - [Automating and orchestrating ML pipelines: Overview](#automating-and-orchestrating-ml-pipelines-overview)
+  - [Automating and orchestrating ML pipelines: Key terminology](#automating-and-orchestrating-ml-pipelines-key-terminology)
 - [**21. Designing and Implementing Training Pipelines**](#21-designing-and-implementing-training-pipelines) (5 videos)
-  - Prompt engineering for Google BigQuery with ChatGPT 4
-  - Getting started with Vertex AI
-  - Understanding TPUs
-  - TPUs as a technology transition
-  - Demo: TPU, PyTorch, and MNIST
+  - [Prompt engineering for Google BigQuery with ChatGPT 4](#prompt-engineering-for-google-bigquery-with-chatgpt-4)
+  - [Getting started with Vertex AI](#getting-started-with-vertex-ai)
+  - [Understanding TPUs](#understanding-tpus)
+  - [TPUs as a technology transition](#tpus-as-a-technology-transition)
+  - [Demo: TPU, PyTorch, and MNIST](#demo-tpu-pytorch-and-mnist)
 - [**22. Implementing Serving Pipelines**](#22-implementing-serving-pipelines) (3 videos)
-  - TensorFlow serving with a GPU-enabled Docker
-  - A Rust and PyTorch microservice walkthrough
-  - Demo: Rust pretrained PyTorch microservice
+  - [TensorFlow serving with a GPU-enabled Docker](#tensorflow-serving-with-a-gpu-enabled-docker)
+  - [A Rust and PyTorch microservice walkthrough](#a-rust-and-pytorch-microservice-walkthrough)
+  - [Demo: Rust pretrained PyTorch microservice](#demo-rust-pretrained-pytorch-microservice)
 - [**23. Conclusion: Automating and Orchestrating ML Pipelines**](#23-conclusion-automating-and-orchestrating-ml-pipelines) (1 videos)
-  - Automating and orchestrating ML pipelines: Next steps
+  - [Automating and orchestrating ML pipelines: Next steps](#automating-and-orchestrating-ml-pipelines-next-steps)
 - [**24. Introduction: Monitoring, Optimizing, and Maintaining ML Solutions**](#24-introduction-monitoring-optimizing-and-maintaining-ml-solutions) (2 videos)
-  - Monitoring, optimizing, and maintaining ML solutions: Overview
-  - Monitoring, optimizing, and maintaining ML solutions: Key terminology
+  - [Monitoring, optimizing, and maintaining ML solutions: Overview](#monitoring-optimizing-and-maintaining-ml-solutions-overview)
+  - [Monitoring, optimizing, and maintaining ML solutions: Key terminology](#monitoring-optimizing-and-maintaining-ml-solutions-key-terminology)
 - [**25. ML Solutions**](#25-ml-solutions) (13 videos)
-  - Data drift explained by the naughty child problem
-  - Load testing with Locust
-  - Demo: Auditing via logs
-  - Demo: Logging dashboard
-  - Demo: Cloud web security scanner
-  - Demo: Querying logging output with BigQuery
-  - Demo: Load testing with Rust
-  - Five whys
-  - Using Google Courses
-  - Building a translator with Rust and Hugging Face
-  - Using PyTorch and Rust for stable diffusion
-  - Using Rust with PyTorch
-  - Building a CUDA GPU stress test
+  - [Data drift explained by the naughty child problem](#data-drift-explained-by-the-naughty-child-problem)
+  - [Load testing with Locust](#load-testing-with-locust)
+  - [Demo: Auditing via logs](#demo-auditing-via-logs)
+  - [Demo: Logging dashboard](#demo-logging-dashboard)
+  - [Demo: Cloud web security scanner](#demo-cloud-web-security-scanner)
+  - [Demo: Querying logging output with BigQuery](#demo-querying-logging-output-with-bigquery)
+  - [Demo: Load testing with Rust](#demo-load-testing-with-rust)
+  - [Five whys](#five-whys)
+  - [Using Google Courses](#using-google-courses)
+  - [Building a translator with Rust and Hugging Face](#building-a-translator-with-rust-and-hugging-face)
+  - [Using PyTorch and Rust for stable diffusion](#using-pytorch-and-rust-for-stable-diffusion)
+  - [Using Rust with PyTorch](#using-rust-with-pytorch)
+  - [Building a CUDA GPU stress test](#building-a-cuda-gpu-stress-test)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course and Google Professional Machine Learning Engineer exam overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980)
@@ -287,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (1)
+> **Frameworks & Libraries:** cloud (4), [[MLOps]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), data (2), business (2)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** for example (1)
@@ -357,16 +357,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (7), [[Responsible AI]] (4), [[Reinforcement Learning]] (1), [[Forecasting]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [tutor] (1)
 
 
 ### 1. Translating Business Challenges into ML Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building AI-enabled workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980)
@@ -401,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1), this, (1)
+> **Frameworks & Libraries:** ai (5), [[Hugging Face]] (5), [[Automation]] (4), [[Google Drive]] (1), nlp (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** nlp (1)
 > **Analogies:** for example (1)
@@ -442,9 +442,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Programming]] (4), cloud (2), [[GitHub Copilot]] (2), aws (2)
 > **Tools:** github (3)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** aws (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -457,7 +457,7 @@ created: 2026-04-29
 
 ### 2. Defining ML Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simulations vs. experiment tracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980)
@@ -590,7 +590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (2), this, (1), case, (1), for. (1)
+> **Frameworks & Libraries:** [[Simulation]] (13), [[MLOps]] (3), [[Pandas (Software)|Pandas]] (1), [[Probability]] (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** spin_wheel (1), simulate_wheel (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -629,7 +629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** data (2), game (2), business (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** nba (1)
 > **Analogies:** for example (1)
@@ -673,8 +673,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), game (1), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -718,8 +718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[TensorFlow]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), function (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [speaker] (1)
 
@@ -756,7 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), game (1), [[k-means clustering]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** nba (2)
 > **Definitions:** is called (1)
@@ -765,7 +765,7 @@ created: 2026-04-29
 
 ### 3. Defining Business Success Criteria
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining business success criteria
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/defining-business-success-criteria?u=76281980)
@@ -812,8 +812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), data (5), cloud (1), [[Data Acquisition]] (1), api (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), this, (1), for, (1)
 > **Env Vars:** roi (2), api (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -821,7 +821,7 @@ created: 2026-04-29
 
 ### 4. Identifying Risks to Feasibility of ML Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MLOps hierarchy of needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980)
@@ -882,7 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[MLOps]] (8), data (7), business (5), [[DevOps]] (4), next (2)
 > **Env Vars:** roi (2)
 > **Speakers:** - [instructor] (1)
 
@@ -915,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** business (3), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - here (1)
 
 #### Data poisoning
@@ -961,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** data (6), [[Google Drive]] (3), [[Google]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -969,7 +969,7 @@ created: 2026-04-29
 
 ### 5. Conclusion: Framing ML Problems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Framing ML problems: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps?u=76281980)
@@ -977,7 +977,7 @@ created: 2026-04-29
 
 ### 6. Introduction: Architecting a ML Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecting a ML solution: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980)
@@ -1036,8 +1036,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (2), gcp (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Microservices]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (1), make (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** gcp (1), tpu (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
@@ -1097,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2), for. (1)
+> **Frameworks & Libraries:** data (11), [[Privacy]] (4), cloud (2), management (2), [[Orchestration]] (2)
 > **Env Vars:** tpu (2), cpu (1), gpu (1), phi (1)
 > **Cross-References:** we discussed (1)
 > **Warnings:** watch out (1)
@@ -1165,10 +1165,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), aws (6), [[Engineering]] (5), data (5), [[GitHub]] (4)
 > **Env Vars:** aws (6), ide (3), gcp (2), api (2)
 > **Tools:** github (5), colab (2), jupyter (2), bash (1), powershell (1)
 > **CLI Commands:** aws (6)
-> **Code Keywords:** let (3), case, (1), lambda (1), switch (1)
 > **Definitions:** is called (1), is a  (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1176,7 +1176,7 @@ created: 2026-04-29
 
 ### 7. Designing a Reliable, Scalable, and Highly Available ML Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is continuous delivery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980)
@@ -1221,8 +1221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (5), cloud (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), aws (1), [[GitHub]] (1)
 > **CLI Commands:** make (5), aws (1)
-> **Code Keywords:** let (2), finally, (2), delete (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** aws (1)
 > **Tools:** github (1)
@@ -1271,6 +1271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), aws (4), [[Linux]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Microservices]] (2)
 > **Env Vars:** aws (4), gcp (2), api (2)
 > **Tools:** bash (3), github (2), command line (1)
 > **CLI Commands:** aws (4), make (1)
@@ -1307,8 +1308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (4), cloud (1), [[GitHub]] (1), [[Codespaces]] (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** delete (2), static (1)
 > **Analogies:** for example (3)
 > **Tools:** github (1)
 > **Exercise Files:** source code (1)
@@ -1319,7 +1320,7 @@ created: 2026-04-29
 
 ### 8. Choosing Appropriate Google Cloud Hardware Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting heavy vs. light MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980)
@@ -1376,7 +1377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), static (1), pass (1), case, (1)
+> **Frameworks & Libraries:** data (12), [[MLOps]] (6), ai (5), [[GitHub]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
 > **Env Vars:** api (1)
@@ -1442,9 +1443,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), [[MLOps]] (9), aws (3), [[Databases]] (3), [[SQL]] (2)
 > **Env Vars:** aws (3), sql (2), cpu (1), ascis (1), tpu (1)
 > **CLI Commands:** aws (3), make (1)
-> **Code Keywords:** let (2), lambda (1), finally, (1)
 > **Tools:** visual studio (1), jupyter (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1483,6 +1484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), feature (6), [[Business Intelligence (BI)|Business intelligence]] (2), [[Unstructured Data]] (1), [[Dashboards]] (1)
 > **Env Vars:** etl (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1506,15 +1508,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (5)
 > **Env Vars:** cpu (5), gpu (4)
-> **Code Keywords:** let (3)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 
 
 ### 9. Conclusion: Architecting a ML Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecting a ML solution: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980)
@@ -1557,8 +1559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (2), feature (2), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), gcp (1)
 > **CLI Commands:** docker (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** gcp (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** such as (1)
@@ -1566,7 +1568,7 @@ created: 2026-04-29
 
 ### 10. Introduction: Designing Data Preparation and Processing Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing data preparation and processing systems: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980)
@@ -1597,8 +1599,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Google]] (2), [[Feature Engineering]] (2), gcp (1), [[Google Drive]] (1)
 > **Tools:** colab (3), jupyter (1), github (1)
-> **Code Keywords:** let (2), public (1), finally, (1)
 > **Env Vars:** gcp (1), eda (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** pip (1)
@@ -1656,9 +1658,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[TensorFlow]] (3), feature (2), [[Statistics]] (1), [[Feature Engineering]] (1)
 > **Definitions:** is a  (5), refers to (1)
 > **Env Vars:** eda (2), tft (2), tfdv (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we covered (1)
 
 #### Onboard to GCP
@@ -1830,8 +1832,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), cloud (10), [[Rust (Programming Language)|Rust]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** python (12), cargo (6), make (5), git (2), gcloud (2)
-> **Code Keywords:** let (8), case, (2), pub (1), this, (1)
 > **UI Navigation:** go to (7), toggle (1)
 > **Definitions:** is a  (5)
 > **Prerequisites:** install (5)
@@ -1842,7 +1844,7 @@ created: 2026-04-29
 
 ### 11. Exploring Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Google Colab?
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980)
@@ -1939,8 +1941,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[GitHub]] (3), [[Google Drive]] (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** colab (8), github (3)
-> **Code Keywords:** let (2), this, (2), else, (1), this. (1), case, (1)
 > **Env Vars:** eda (3), readme (2), csv (1)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** python (1), make (1)
@@ -2069,7 +2071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), finally, (2), this, (2)
+> **Frameworks & Libraries:** data (20), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Google]] (1), next (1)
 > **Env Vars:** gpu (2), tpu (2), ram (2), eda (1), cpu (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** for example (3)
@@ -2154,10 +2156,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Pandas (Software)|Pandas]] (5), data (4), [[Windows]] (2), prompt (1)
 > **CLI Commands:** python (15), pip (3), cd (1)
 > **Prerequisites:** install (7)
 > **Tools:** jupyter (5), command prompt (1)
-> **Code Keywords:** let (5)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (2)
 > **URLs:** [python.org](https://python.org) (1)
@@ -2232,7 +2234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1), this. (1)
+> **Frameworks & Libraries:** data (19), [[Statistics]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** covid (3)
 > **UI Navigation:** go to (1)
@@ -2241,7 +2243,7 @@ created: 2026-04-29
 
 ### 12. Building Data Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Labeling data
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/labeling-data?u=76281980)
@@ -2272,8 +2274,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), data (3), game (2)
 > **Env Vars:** nba (3)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -2296,7 +2298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** data (6), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 
 #### Cleaning up data
@@ -2320,9 +2322,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (1), nlp (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** nlp (1)
 
 #### Scaling data
@@ -2362,7 +2364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (3), this. (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (1)
 > **Analogies:** for example (1)
 
 #### BigQuery data pipelines with Colab
@@ -2514,7 +2516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this, (5), finally, (2), throw (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Google]] (2), next (2), [[Python (Programming Language)|Python]] (2), [[SQL]] (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Tools:** colab (3)
 > **Env Vars:** select (1), sql (1)
@@ -2526,7 +2528,7 @@ created: 2026-04-29
 
 ### 13. Creating Input Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Feature engineering concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-engineering-concepts?u=76281980)
@@ -2561,7 +2563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** feature (4), [[Feature Engineering]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** nba (1)
 
@@ -2590,7 +2592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), let (3)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), data (2), [[Feature Engineering]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** gpu (2)
 > **Tools:** github (1), jupyter (1)
 > **CLI Commands:** find (1)
@@ -2846,7 +2848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this, (5), this. (4), public (2), else. (1)
+> **Frameworks & Libraries:** data (15), [[Google]] (4), next (3), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Code Identifiers:** hacker_news (4), international_top_terms (1), google_ads (1), google_cloud_releases (1), political_trends (1)
 > **CLI Commands:** make (4), find (2), node (1)
 > **Definitions:** is a  (5)
@@ -2858,7 +2860,7 @@ created: 2026-04-29
 
 ### 14. Conclusion: Designing Data Preparation and Processing Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing data preparation and processing systems: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980)
@@ -2893,7 +2895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** data (6), [[Google]] (2), gcp (1), [[Windows]] (1), [[Feature Engineering]] (1)
 > **Tools:** colab (3)
 > **Cross-References:** we talked about (2)
 > **CLI Commands:** make (1)
@@ -2904,7 +2906,7 @@ created: 2026-04-29
 
 ### 15. Introduction: Developing ML Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing ML models: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980)
@@ -2943,7 +2945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), gcp (1), [[Engineering]] (1), [[TensorFlow]] (1), [[Prototyping]] (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** gcp (1)
 > **Tools:** github (1)
@@ -3000,16 +3002,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Vertex]] (4), ai (4), [[Representational State Transfer (REST)|Rest]] (1), [[MLOps]] (1)
 > **Definitions:** is a  (6), means that (1)
 > **Cross-References:** we covered (1), we talked about (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 16. Building Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using TensorFlow Playground
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980)
@@ -3052,7 +3054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[Neural Networks]] (1), [[TensorFlow]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [tensorflow.org](https://tensorflow.org) (1)
 > **Speakers:** - [instructor] (1)
@@ -3086,7 +3088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1)
+> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3173,7 +3175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **CLI Commands:** cat (1)
@@ -3184,7 +3186,7 @@ created: 2026-04-29
 
 ### 17. Training Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Training models with TensorFlow and a GPU-enabled Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980)
@@ -3261,8 +3263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (7), data (3), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **Env Vars:** gpu (9), cuda (1), smi (1)
-> **Code Keywords:** let (6), this. (3), this, (1)
 > **CLI Commands:** docker (7), python (2)
 > **Definitions:** is a  (5)
 > **Prerequisites:** set up (2)
@@ -3315,11 +3317,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** gpu (3), rouge (1)
 > **Analogies:** for example (1), just like (1)
 > **Warnings:** be aware (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -3359,14 +3361,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (7), [[Fine Tuning]] (3), [[Hugging Face]] (2), [[Supervised Learning]] (1), nlp (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 18. Scaling Model Training and Serving
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Operationalize microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980)
@@ -3417,8 +3419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), career (1), cloud (1)
 > **CLI Commands:** git (1), make (1), aws (1)
-> **Code Keywords:** function (1), new. (1), let (1)
 > **Env Vars:** cpu (1), aws (1)
 > **Tools:** command line (1)
 > **UI Navigation:** go to (1)
@@ -3507,8 +3509,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), [[Rust (Programming Language)|Rust]] (3), application (3), [[Google]] (2), web (1)
 > **UI Navigation:** go to (4), toggle (3)
-> **Code Keywords:** function (1), type, (1), finally, (1), case, (1), let (1)
 > **Env Vars:** url (2), rest (1), sql (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -3660,9 +3662,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (11), [[GitHub]] (9), [[Continuous Integration (CI)|Continuous integration]] (6), [[Git]] (4), [[DevOps]] (2)
 > **CLI Commands:** make (9), git (4), cargo (3), mkdir (1)
 > **Tools:** github (9)
-> **Code Keywords:** let (4), this. (1), this, (1), else, (1)
 > **Prerequisites:** set up (6)
 > **Definitions:** is a  (3)
 > **File Paths:** src/lib.rs (1), test_lib.rs (1)
@@ -3794,7 +3796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), fn (2), function (2), this. (2), new, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), [[Microsoft Copilot|Copilot]] (2), [[Unit Testing]] (2), [[GitHub]] (1), cd (1)
 > **CLI Commands:** make (6), cargo (2), cd (1)
 > **File Paths:** testlib.rs (1), touchsrclib.rs (1), srclib.rs (1)
 > **Tools:** github (1)
@@ -4032,7 +4034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (3), this. (3), throw (2), case, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Copilot|Copilot]] (11), [[Rust (Programming Language)|Rust]] (7), [[GitHub]] (4), prompt (3)
 > **CLI Commands:** python (12), make (5), cargo (5), docker (1), cd (1)
 > **Tools:** github (4), command line (3), visual studio (2)
 > **Definitions:** is a  (7)
@@ -4154,8 +4156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), cloud (9), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** python (11), pip (2), apt (1), python3 (1)
-> **Code Keywords:** let (3), this, (3), this. (1)
 > **Prerequisites:** install (4), you'll need (1), set up (1), configure (1)
 > **Versions:** python 3 (2), python 2 (1)
 > **Code Identifiers:** ipython (1)
@@ -4268,7 +4270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), case, (1), throw (1), this, (1)
+> **Frameworks & Libraries:** cloud (4), web (4), [[Rust (Programming Language)|Rust]] (2), [[Prototyping]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** cargo (5), ls (1), curl (1)
 > **UI Navigation:** go to (4), toggle (1)
 > **Definitions:** is a  (4)
@@ -4370,7 +4372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), for, (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** cloud (11), api (4), application (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **UI Navigation:** go to (4), scroll down (1), toggle (1)
 > **Env Vars:** api (4), rest (1)
 > **Tools:** terminal (3)
@@ -4506,7 +4508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (2), interface (2), this. (1), this, (1)
+> **Frameworks & Libraries:** cloud (7), api (7), application (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Search]] (2)
 > **Env Vars:** api (7), sdk (3), cli (1), nlp (1)
 > **CLI Commands:** make (2), node (1), python (1), gcloud (1)
 > **UI Navigation:** go to (2), toggle (1), scroll up (1)
@@ -4636,7 +4638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (2), interface (2), this, (2), this. (1)
+> **Frameworks & Libraries:** api (7), cloud (6), application (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Search]] (2)
 > **Env Vars:** api (7), sdk (3), apis (2), cli (1), json (1)
 > **CLI Commands:** gcloud (2), make (2), node (1), python (1)
 > **UI Navigation:** go to (2), toggle (1), scroll up (1)
@@ -4752,8 +4754,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Rust (Programming Language)|Rust]] (4), web (4), [[Python (Programming Language)|Python]] (3), application (2)
 > **CLI Commands:** cargo (4), make (3), docker (3), python (3), gcloud (2)
-> **Code Keywords:** let (6), this, (1), throw (1), delete (1), switch (1)
 > **UI Navigation:** go to (3)
 > **File Paths:** app.yaml (2)
 > **Exercise Files:** source code (1)
@@ -4868,8 +4870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), next (3), gcp (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), cd (1)
 > **CLI Commands:** gcloud (6), make (2), find (1), mkdir (1), cd (1)
-> **Code Keywords:** let (7), case, (1)
 > **File Paths:** app.yaml (2), main.go (2)
 > **Env Vars:** gcp (2), url (1)
 > **UI Navigation:** go to (2)
@@ -4880,7 +4882,7 @@ created: 2026-04-29
 
 ### 19. Conclusion: Developing ML Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing ML models: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980)
@@ -4915,15 +4917,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), gcp (1), [[TensorFlow]] (1), [[Neural Networks]] (1), [[Microservices]] (1)
 > **Env Vars:** gcp (1), cli (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 20. Introduction: Automating and Orchestrating ML Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automating and orchestrating ML pipelines: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980)
@@ -4954,7 +4956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), gcp (1), [[Prompt Engineering]] (1), [[Vertex]] (1), ai (1)
 > **Env Vars:** gcp (1), gpu (1)
 > **CLI Commands:** docker (1)
 > **Definitions:** is a  (1)
@@ -5031,8 +5033,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (7), [[Orchestration]] (3), [[Metadata]] (3), [[Hybrid Cloud]] (1)
 > **Definitions:** is a  (5), is an  (1), refers to (1)
-> **Code Keywords:** let (3), private (2), public (1)
 > **Env Vars:** gpt (2)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1), troubleshoot (1)
@@ -5041,7 +5043,7 @@ created: 2026-04-29
 
 ### 21. Designing and Implementing Training Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt engineering for Google BigQuery with ChatGPT 4
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980)
@@ -5226,7 +5228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), throw (5), this. (2), function (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Prompt Engineering]] (4), data (3), [[ChatGPT]] (3), [[SQL]] (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -5296,7 +5298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (7), feature (6), ai (4), [[Vertex]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** aml (2)
 > **UI Navigation:** toggle (2)
@@ -5398,8 +5400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[PyTorch]] (3), cloud (2), node (2), [[Deep Learning]] (2)
 > **Env Vars:** tpu (16), cpu (6), jax (4), gpu (3), ssh (2)
-> **Code Keywords:** let (4), this, (2)
 > **CLI Commands:** node (2), ssh (2)
 > **Versions:** version 4 (2), version 3 (1), version 2 (1)
 > **Definitions:** is a  (3), means that (1)
@@ -5472,8 +5474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (4), parallel (3), [[TensorFlow]] (2), [[PyTorch]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** tpu (3), cpu (3), gpu (1), jax (1)
-> **Code Keywords:** let (2), finally, (1), this, (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
@@ -5565,7 +5567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), finally, (2), this, (2), type, (1)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[Google]] (2), cloud (1), data (1), next (1)
 > **Env Vars:** tpu (10), cpu (1), gpu (1), mnist (1), ram (1)
 > **Tools:** colab (4)
 > **Prerequisites:** install (2), set up (1)
@@ -5576,7 +5578,7 @@ created: 2026-04-29
 
 ### 22. Implementing Serving Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### TensorFlow serving with a GPU-enabled Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980)
@@ -5739,7 +5741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (4), case, (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (8), next (7), hit (3), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **CLI Commands:** docker (13), make (1), curl (1), find (1), mkdir (1)
 > **Env Vars:** gpu (11), cpu (2), smi (2), api (1), mkdir (1)
 > **UI Navigation:** go to (4), scroll down (1)
@@ -5893,7 +5895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), interface (1), case, (1), include, (1)
+> **Frameworks & Libraries:** [[PyTorch]] (13), [[Rust (Programming Language)|Rust]] (10), application (5), web (3), [[Computer Vision]] (2)
 > **CLI Commands:** make (4), docker (2), python (1), cargo (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Prerequisites:** set up (3), setup (1)
@@ -6049,8 +6051,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PyTorch]] (7), [[Rust (Programming Language)|Rust]] (2), [[GitHub]] (1), [[Codespaces]] (1), cd (1)
 > **CLI Commands:** docker (7), make (6), cargo (2), cd (1), curl (1)
-> **Code Keywords:** let (8), case, (2), this. (2), this, (1), pass (1)
 > **Definitions:** is a  (7)
 > **Prerequisites:** set up (3)
 > **Tools:** github (1), terminal (1)
@@ -6061,7 +6063,7 @@ created: 2026-04-29
 
 ### 23. Conclusion: Automating and Orchestrating ML Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automating and orchestrating ML pipelines: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980)
@@ -6094,17 +6096,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (3), next (2), gcp (1), [[Prompt Engineering]] (1), [[SQL]] (1)
 > **Cross-References:** we talked about (2), we covered (2), in the next (1)
 > **Env Vars:** gpu (2), gcp (1), sql (1)
 > **CLI Commands:** docker (2), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - gcp (1)
 
 
 ### 24. Introduction: Monitoring, Optimizing, and Maintaining ML Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring, optimizing, and maintaining ML solutions: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980)
@@ -6137,7 +6139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (3), gcp (1), [[Load Testing]] (1), [[Programming]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** gcp (1)
 
 #### Monitoring, optimizing, and maintaining ML solutions: Key terminology
@@ -6201,13 +6203,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (5), cloud (2), [[Metadata]] (2), [[TensorFlow]] (2), business (1)
 > **Analogies:** think of it as (1)
 
 
 ### 25. ML Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data drift explained by the naughty child problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-drift-explained-by-naughty-child-problem?u=76281980)
@@ -6236,7 +6238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), static (1)
+> **Frameworks & Libraries:** data (5), [[Probability]] (1)
 > **Analogies:** imagine (1)
 
 #### Load testing with Locust
@@ -6322,7 +6324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), interface (1), case, (1), throw (1)
+> **Frameworks & Libraries:** application (4), [[Load Testing]] (3), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Kubernetes]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** go back to (2)
@@ -6366,8 +6368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Kubernetes]] (1), [[Google]] (1), [[System Configuration]] (1), data (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (3), interface (1), for, (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -6438,7 +6440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (2), case, (2), pub (1), for. (1)
+> **Frameworks & Libraries:** [[Analytics]] (3), [[Kubernetes]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), gcp (1), [[Google]] (1)
 > **UI Navigation:** go to (4), select the (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2)
@@ -6499,8 +6501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), web (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[Google]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** url (4), http (1)
-> **Code Keywords:** case, (1), this, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -6589,7 +6591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (5), [[Google]] (2), feature (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Kubernetes]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** sql (1), api (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -6724,7 +6726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Load Testing]] (3), application (3), [[Microsoft Word|Word]] (2), [[Git]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (4), pip (2), git (1)
 > **Env Vars:** url (6)
 > **UI Navigation:** go to (3), scroll down (2), toggle (1)
@@ -6814,10 +6816,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Java]] (4), [[Automation]] (2), application (2), [[Engineering]] (1)
 > **Env Vars:** swap (5), ebs (2)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** if, (1), finally, (1)
 > **UI Navigation:** go to (1)
 
 #### Using Google Courses
@@ -6867,11 +6869,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (4), [[Engineering]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[MLOps]] (1), data (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), toggle (1)
 > **Warnings:** be aware (2)
-> **Code Keywords:** this, (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Env Vars:** api (1)
 > **Analogies:** similar to (1)
@@ -7015,7 +7017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (4), pass (2), this, (2), interface (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (12), [[Hugging Face]] (6), [[Codespaces]] (3), [[Python (Programming Language)|Python]] (3), [[PyTorch]] (2)
 > **Env Vars:** gpu (13), cuda (1), nlp (1), cpu (1)
 > **Tools:** command line (5), github (1), bash (1), terminal (1)
 > **CLI Commands:** python (3), cd (1), make (1), cargo (1)
@@ -7171,7 +7173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3), this, (2), finally, (1), throw (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (15), [[PyTorch]] (9), [[Stable Diffusion]] (8), [[Python (Programming Language)|Python]] (3), [[Deep Learning]] (2)
 > **Env Vars:** gpu (11), api (1)
 > **CLI Commands:** python (3), cargo (3), pip (1), make (1)
 > **Prerequisites:** setup (2), install (1)
@@ -7323,9 +7325,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PyTorch]] (15), [[Rust (Programming Language)|Rust]] (13), aws (7), cd (2), [[CLI]] (2)
 > **Env Vars:** aws (7), gpu (6), readme (2), arm (1)
 > **CLI Commands:** aws (7), cargo (3), cd (2), python (2), make (1)
-> **Code Keywords:** let (5), lambda (4), this. (2), finally, (2), function (1)
 > **UI Navigation:** go to (8)
 > **Exercise Files:** source code (5), template (1)
 > **Documentation:** the readme (2)
@@ -7487,8 +7489,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (11), [[PyTorch]] (8), data (4), next (3), traffic (3)
 > **Env Vars:** gpu (21), cpu (11), cuda (5), tgpu (2), aws (1)
-> **Code Keywords:** let (12), function (2), case, (2), pub (2), throw (2)
 > **CLI Commands:** cargo (6), make (3), aws (1)
 > **Tools:** command line (2), github (1)
 > **Code Identifiers:** gou_load_test (1), into_par_iter (1)
@@ -7499,7 +7501,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980)
@@ -7620,9 +7622,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[MLOps]] (5), [[Google]] (4), ai (4), next (3)
 > **Definitions:** is a  (6), is an  (3)
 > **CLI Commands:** python (2), docker (2), make (2), pip (1)
-> **Code Keywords:** let (2), public (2), pass (1), finally, (1)
 > **Cross-References:** we talked about (4), we covered (1)
 > **Env Vars:** gpu (2), gcp (1), sri (1)
 > **Tools:** colab (2), github (1)

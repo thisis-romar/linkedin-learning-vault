@@ -25,7 +25,7 @@ tags:
   - topic/data-science
   - skill/cryptocurrency
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cryptocurrency%20Foundations%2017185357.md)
@@ -44,30 +44,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Is cryptocurrency the future of money?
+  - [Is cryptocurrency the future of money?](#is-cryptocurrency-the-future-of-money)
 - [**1. What Is Cryptocurrency?**](#1-what-is-cryptocurrency) (4 videos)
-  - The current world of cryptocurrency
-  - Bitcoin and the double-spend problem
-  - Blockchain: The power behind cryptocurrencies
-  - Crypto tokens and tokenomics
+  - [The current world of cryptocurrency](#the-current-world-of-cryptocurrency)
+  - [Bitcoin and the double-spend problem](#bitcoin-and-the-double-spend-problem)
+  - [Blockchain: The power behind cryptocurrencies](#blockchain-the-power-behind-cryptocurrencies)
+  - [Crypto tokens and tokenomics](#crypto-tokens-and-tokenomics)
 - [**2. Creating a Cryptocurrency**](#2-creating-a-cryptocurrency) (5 videos)
-  - Methods of cryptocurrency creation
-  - What is the role of crypto wallets?
-  - The cryptocurrency mining process
-  - Mining: Choosing the right hardware and software
-  - The challenges of cryptomining
+  - [Methods of cryptocurrency creation](#methods-of-cryptocurrency-creation)
+  - [What is the role of crypto wallets?](#what-is-the-role-of-crypto-wallets)
+  - [The cryptocurrency mining process](#the-cryptocurrency-mining-process)
+  - [Mining: Choosing the right hardware and software](#mining-choosing-the-right-hardware-and-software)
+  - [The challenges of cryptomining](#the-challenges-of-cryptomining)
 - [**3. Investing in Cryptocurrencies**](#3-investing-in-cryptocurrencies) (2 videos)
-  - How to buy and sell a cryptocurrency
-  - Cryptocurrency investing techniques and tools
+  - [How to buy and sell a cryptocurrency](#how-to-buy-and-sell-a-cryptocurrency)
+  - [Cryptocurrency investing techniques and tools](#cryptocurrency-investing-techniques-and-tools)
 - [**4. The Future of Cryptocurrencies**](#4-the-future-of-cryptocurrencies) (2 videos)
-  - How countries are responding to crypto
-  - The challenges ahead for cryptocurrency
+  - [How countries are responding to crypto](#how-countries-are-responding-to-crypto)
+  - [The challenges ahead for cryptocurrency](#the-challenges-ahead-for-cryptocurrency)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps on your cryptocurrency journey
+  - [Next steps on your cryptocurrency journey](#next-steps-on-your-cryptocurrency-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Is cryptocurrency the future of money?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980)
@@ -106,14 +106,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Forms]] (1), [[Digital Transformation]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - money (1)
 
 
 ### 1. What Is Cryptocurrency?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The current world of cryptocurrency
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980)
@@ -210,8 +210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (3), [[Cryptocurrency]] (2), [[Microsoft Products|Products]] (1), application (1), next (1)
 > **Analogies:** such as (5), for example (2)
-> **Code Keywords:** raise (1), pass (1), function (1), finally, (1)
 > **CLI Commands:** make (2)
 > **Tools:** notion (1)
 > **Speakers:** - the (1)
@@ -295,7 +295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), delete (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Cryptography]] (2), [[Cryptocurrency]] (1), next (1)
 > **Definitions:** is called (1), is a  (1), in other words (1), known as (1)
 > **Cross-References:** next video (1)
 > **Analogies:** for example (1)
@@ -391,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), public (8), require (1), let (1)
+> **Frameworks & Libraries:** [[Blockchain]] (16), application (2), database (2), data (2), [[Cryptocurrency]] (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** macos (1)
@@ -484,9 +484,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (18), [[Blockchain]] (7), [[Ethereum]] (3), [[Security]] (3), [[Cryptocurrency]] (2)
 > **Analogies:** such as (6), for example (5), picture (1)
 > **Env Vars:** ico (2), kyc (1), aml (1)
-> **Code Keywords:** raise (2), function (1)
 > **Definitions:** in other words (1), known as (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - until (1)
@@ -494,7 +494,7 @@ created: 2026-04-29
 
 ### 2. Creating a Cryptocurrency
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Methods of cryptocurrency creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980)
@@ -587,9 +587,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (6), [[Cryptocurrency]] (4), open-source (3), [[Blockchain]] (3), power (1)
 > **Analogies:** such as (4), for example (3), imagine (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** function (1), require (1)
 > **URLs:** [rally.io](https://rally.io) (1), [createmytoken.com](https://createmytoken.com) (1)
 > **Env Vars:** xrp (1), eos (1)
 > **Definitions:** means that (1), is a  (1)
@@ -691,7 +691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), private (9), protected (1), finally, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Cryptocurrency]] (3), [[Tokens]] (2), [[Security]] (2), business (2)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1), find (1)
@@ -782,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), finally, (1), function (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), power (3), [[Cryptocurrency]] (2), next (2), management (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -884,12 +884,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Cryptocurrency]] (5), power (3), [[Blockchain]] (2), business (1)
 > **Definitions:** means that (1), is an  (1), stands for (1), is a  (1)
 > **Analogies:** for example (3), such as (1)
 > **Prerequisites:** setup (2), you'll need (2)
 > **Env Vars:** asic (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - technically (1)
 
 #### The challenges of cryptomining
@@ -991,7 +991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), continue (2), return. (1), finally, (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (4), power (2), [[Blockchain]] (2), cloud (1), [[Ethereum]] (1)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
@@ -999,7 +999,7 @@ created: 2026-04-29
 
 ### 3. Investing in Cryptocurrencies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to buy and sell a cryptocurrency
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980)
@@ -1088,7 +1088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Microsoft Products|Products]] (1), management (1), [[Banking]] (1), hit (1)
 > **Analogies:** such as (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1199,16 +1199,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Microsoft Word|Word]] (1), [[Ethereum]] (1), [[Cryptocurrency]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** etf (6), bito (2), nyse (1), scc (1)
 > **Analogies:** such as (5), for example (2), just like (1), similar to (1)
 > **Definitions:** is an  (3), is a  (1), is called (1)
-> **Code Keywords:** require (2), finally, (1)
 > **Speakers:** - in (1)
 
 
 ### 4. The Future of Cryptocurrencies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How countries are responding to crypto
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980)
@@ -1271,8 +1271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Blockchain Architecture]] (1), management (1), [[Ethereum]] (1), next (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** function (1), require (1)
 > **Env Vars:** sec (1)
 > **Speakers:** - the (1)
 
@@ -1351,7 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), require (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (3), power (2), [[Ethereum]] (2), [[Microsoft Products|Products]] (2), game (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1360,7 +1360,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps on your cryptocurrency journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980)
@@ -1421,9 +1421,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Tokens]] (2), [[Cryptocurrency]] (2), [[LinkedIn]] (2), [[Security]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** continue (1)
 > **Tools:** notion (1)
 > **Speakers:** - cryptocurrencies (1)
 

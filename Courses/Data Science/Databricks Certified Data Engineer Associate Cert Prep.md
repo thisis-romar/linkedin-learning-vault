@@ -24,7 +24,7 @@ tags:
   - skill/data-engineering
   - skill/databricks-products
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Databricks%20Certified%20Data%20Engineer%20Associate%20Cert%20Prep.md)
@@ -43,64 +43,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course overview
+  - [Course overview](#course-overview)
 - [**1. Databricks Lakehouse Platform**](#1-databricks-lakehouse-platform) (8 videos)
-  - Introduction to the Databricks Lakehouse platform
-  - Overview of the Databricks architecture
-  - Creating and managing clusters
-  - Configuring cluster runtimes
-  - Terminating clusters
-  - Restarting clusters
-  - Filtering the clusters list
-  - All-purpose vs. job clusters
+  - [Introduction to the Databricks Lakehouse platform](#introduction-to-the-databricks-lakehouse-platform)
+  - [Overview of the Databricks architecture](#overview-of-the-databricks-architecture)
+  - [Creating and managing clusters](#creating-and-managing-clusters)
+  - [Configuring cluster runtimes](#configuring-cluster-runtimes)
+  - [Terminating clusters](#terminating-clusters)
+  - [Restarting clusters](#restarting-clusters)
+  - [Filtering the clusters list](#filtering-the-clusters-list)
+  - [All-purpose vs. job clusters](#all-purpose-vs-job-clusters)
 - [**2. Data Transformation with Apache Spark**](#2-data-transformation-with-apache-spark) (8 videos)
-  - Set up IntelliJ for Databricks with Go
-  - Installing and using the Databricks CLI
-  - Installing and using Databricks for RStudio
-  - Introduction to notebooks
-  - Executing notebooks
-  - Sharing notebooks
-  - Multilanguage support
-  - Databricks Repos overview
+  - [Set up IntelliJ for Databricks with Go](#set-up-intellij-for-databricks-with-go)
+  - [Installing and using the Databricks CLI](#installing-and-using-the-databricks-cli)
+  - [Installing and using Databricks for RStudio](#installing-and-using-databricks-for-rstudio)
+  - [Introduction to notebooks](#introduction-to-notebooks)
+  - [Executing notebooks](#executing-notebooks)
+  - [Sharing notebooks](#sharing-notebooks)
+  - [Multilanguage support](#multilanguage-support)
+  - [Databricks Repos overview](#databricks-repos-overview)
 - [**3. Data Management with Delta Lake**](#3-data-management-with-delta-lake) (8 videos)
-  - Efficient data transformation with Spark SQL
-  - Using Catalog Explorer
-  - Creating tables from files
-  - Querying external data sources
-  - Inspecting tables
-  - Reliable data pipelines with Delta Lake
-  - ACID transactions
-  - Z-ordering optimization
+  - [Efficient data transformation with Spark SQL](#efficient-data-transformation-with-spark-sql)
+  - [Using Catalog Explorer](#using-catalog-explorer)
+  - [Creating tables from files](#creating-tables-from-files)
+  - [Querying external data sources](#querying-external-data-sources)
+  - [Inspecting tables](#inspecting-tables)
+  - [Reliable data pipelines with Delta Lake](#reliable-data-pipelines-with-delta-lake)
+  - [ACID transactions](#acid-transactions)
+  - [Z-ordering optimization](#z-ordering-optimization)
 - [**4. Data Pipelines with Delta Live Tables**](#4-data-pipelines-with-delta-live-tables) (8 videos)
-  - Vacuuming and garbage collection
-  - Table documentation
-  - Automated pipelines with Delta Live Tables
-  - Delta Live Tables components
-  - Continuous vs. triggered pipelines
-  - Configuring Auto Loader
-  - Querying pipeline events
-  - End-to-end example of Delta Live Tables
+  - [Vacuuming and garbage collection](#vacuuming-and-garbage-collection)
+  - [Table documentation](#table-documentation)
+  - [Automated pipelines with Delta Live Tables](#automated-pipelines-with-delta-live-tables)
+  - [Delta Live Tables components](#delta-live-tables-components)
+  - [Continuous vs. triggered pipelines](#continuous-vs-triggered-pipelines)
+  - [Configuring Auto Loader](#configuring-auto-loader)
+  - [Querying pipeline events](#querying-pipeline-events)
+  - [End-to-end example of Delta Live Tables](#end-to-end-example-of-delta-live-tables)
 - [**5. Workloads with Jobs**](#5-workloads-with-jobs) (8 videos)
-  - Orchestrating workloads with jobs
-  - Databricks jobs demo
-  - Multitask workflows
-  - Task dependencies
-  - Viewing job history
-  - Using dashboards
-  - Handling failures
-  - Configuring retries
+  - [Orchestrating workloads with jobs](#orchestrating-workloads-with-jobs)
+  - [Databricks jobs demo](#databricks-jobs-demo)
+  - [Multitask workflows](#multitask-workflows)
+  - [Task dependencies](#task-dependencies)
+  - [Viewing job history](#viewing-job-history)
+  - [Using dashboards](#using-dashboards)
+  - [Handling failures](#handling-failures)
+  - [Configuring retries](#configuring-retries)
 - [**6. Data Access with Unity Catalog**](#6-data-access-with-unity-catalog) (7 videos)
-  - Unified data access with Unity Catalog
-  - Catalogs vs. metastores
-  - Unity Catalog quick start with Python
-  - Applying object security
-  - Best practices for catalogs
-  - Best practices for connections
-  - Best practices for business units
+  - [Unified data access with Unity Catalog](#unified-data-access-with-unity-catalog)
+  - [Catalogs vs. metastores](#catalogs-vs-metastores)
+  - [Unity Catalog quick start with Python](#unity-catalog-quick-start-with-python)
+  - [Applying object security](#applying-object-security)
+  - [Best practices for catalogs](#best-practices-for-catalogs)
+  - [Best practices for connections](#best-practices-for-connections)
+  - [Best practices for business units](#best-practices-for-business-units)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980)
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Data Transformation]] (2), [[SQL]] (2), [[Unity]] (2), [[Data Engineering]] (1)
 > **Env Vars:** sql (2), cli (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** in the last (1)
@@ -168,7 +168,7 @@ created: 2026-04-29
 
 ### 1. Databricks Lakehouse Platform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the Databricks Lakehouse platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980)
@@ -213,8 +213,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[SQL]] (3), [[Unstructured Data]] (2), strengths (2), bi (2)
 > **Env Vars:** sql (3), aws (2), etl (1)
-> **Code Keywords:** let (2), include: (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
@@ -259,9 +259,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), cloud (6), aws (4), [[Microsoft Azure|Azure]] (1), gcp (1)
 > **Env Vars:** aws (4), gcp (1), ec2 (1), sql (1)
 > **CLI Commands:** aws (4)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Creating and managing clusters
@@ -385,7 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (5), case, (1), finally, (1)
+> **Frameworks & Libraries:** node (7), [[Data Engineering]] (2), [[SQL]] (2), data (2), feature (1)
 > **CLI Commands:** node (7), aws (1)
 > **Env Vars:** sql (2), htfs (1), gpu (1), cpu (1), aws (1)
 > **UI Navigation:** toggle (5)
@@ -463,8 +463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), data (4), etl (2), [[Analytics]] (2), [[Data Engineering]] (1)
 > **Env Vars:** sql (5), etl (2), api (1), cpu (1)
-> **Code Keywords:** interface (2), let (1)
 > **UI Navigation:** toggle (3)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -525,7 +525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), this, (1), this. (1), delete (1), let (1)
+> **Frameworks & Libraries:** [[Version Control]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -558,7 +558,6 @@ created: 2026-04-29
 >
 > **UI Navigation:** go to (2), scroll down (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -593,7 +592,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), this, (1)
 > **Versions:** 13.3 (2), 14.2 (1), 13.2 (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** toggle (1)
@@ -644,7 +642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), default, (1)
+> **Frameworks & Libraries:** etl (2), [[Data Engineering]] (1), [[Batch Processing]] (1), data (1)
 > **Env Vars:** etl (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -652,7 +650,7 @@ created: 2026-04-29
 
 ### 2. Data Transformation with Apache Spark
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up IntelliJ for Databricks with Go
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/set-up-intellij-for-databricks-with-go?u=76281980)
@@ -725,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (2), function (2), require (1)
+> **Frameworks & Libraries:** data (2), cd (1), [[Kubernetes]] (1)
 > **Env Vars:** sdk (6)
 > **File Paths:** main.go (3)
 > **CLI Commands:** make (1), cd (1), go run (1)
@@ -813,7 +811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (3), this, (2), this. (1), for. (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[JSON]] (3), [[CLI]] (2), api (1), data (1)
 > **Env Vars:** json (3), cli (2), api (1), ds3 (1)
 > **Prerequisites:** configure (3), install (2), set up (1)
 > **CLI Commands:** brew (2), find (2), node (1)
@@ -897,7 +895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), case, (2), finally, (1), let (1), interface (1)
+> **Frameworks & Libraries:** [[RStudio]] (5), [[GitHub]] (2), node (2), [[Version Control]] (1), next (1)
 > **Env Vars:** url (4), sdk (3), rsdk (1), cli (1)
 > **CLI Commands:** make (3), node (2)
 > **Prerequisites:** install (4), set up (1)
@@ -1007,7 +1005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), interface (1), default, (1), finally, (1)
+> **Frameworks & Libraries:** data (12), [[SQL]] (2), [[Python (Programming Language)|Python]] (1), [[Scala]] (1)
 > **UI Navigation:** toggle (3), click on (2), go to (1)
 > **Env Vars:** sql (2), eda (1)
 > **Analogies:** for example (3)
@@ -1075,7 +1073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), finally, (1), return, (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), web (1), data (1), feature (1)
 > **UI Navigation:** go to (2), toggle (2)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1)
@@ -1120,7 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), require (1)
+> **Frameworks & Libraries:** data (2), [[Big Data]] (1), [[Slack]] (1)
 > **Analogies:** for example (3), it's like (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
@@ -1211,7 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), interface (2), finally, (2), default, (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (6), [[SQL]] (4), [[Scala]] (3), next (1)
 > **CLI Commands:** python (8), ls (2), apache (1)
 > **Env Vars:** sql (3), csv (1)
 > **Tools:** bash (2)
@@ -1283,7 +1281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1), interface (1)
+> **Frameworks & Libraries:** [[Version Control]] (6), [[Scala]] (3), [[GitHub]] (1), [[Bitbucket]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** url (2), http (1), aws (1)
 > **Tools:** github (1), bitbucket (1), gitlab (1)
 > **CLI Commands:** aws (1)
@@ -1295,7 +1293,7 @@ created: 2026-04-29
 
 ### 3. Data Management with Delta Lake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Efficient data transformation with Spark SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980)
@@ -1416,7 +1414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (4), default, (1), from, (1), this. (1)
+> **Frameworks & Libraries:** data (11), [[SQL]] (7), [[Statistics]] (2), cd (1), [[JSON]] (1)
 > **Env Vars:** sql (7), nyc (2), tpch (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (2), ls (1), cd (1), find (1)
@@ -1508,7 +1506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), finally, (2), interface (1), this. (1)
+> **Frameworks & Libraries:** data (10), [[Search]] (2), [[Dashboards]] (2), feature (2), [[SQL]] (2)
 > **UI Navigation:** go to (3), click on (2), toggle (2)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (3)
@@ -1652,7 +1650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), this, (2), default. (1), continue (1)
+> **Frameworks & Libraries:** data (11), api (2), [[SQL]] (1)
 > **Env Vars:** dbfs (3), api (2), csv (2), sql (1), nba (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Code Identifiers:** height_weight (2), hive_metastore (1)
@@ -1710,8 +1708,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Databases]] (1), [[Snowflake]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Search]] (1)
 > **Env Vars:** dbfs (2), jdbc (1), sql (1)
-> **Code Keywords:** let (1), interface (1)
 > **CLI Commands:** mysql (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1769,7 +1767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), default. (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Metadata]] (3)
 > **Analogies:** for example (5)
 > **UI Navigation:** go to (4)
 > **Code Identifiers:** hive_metastore (1)
@@ -1813,10 +1811,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), etl (2), [[End-to-end Testing]] (1), [[Batch Processing]] (1), [[SQL]] (1)
 > **Env Vars:** etl (2), sql (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### ACID transactions
@@ -1874,11 +1872,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[SQL]] (2), database (1), [[Databases]] (1), concurrent (1)
 > **Env Vars:** acid (4), sql (2)
 > **Analogies:** for example (4)
 > **Definitions:** is an  (1), stands for (1), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Z-ordering optimization
@@ -1930,7 +1928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Statistics]] (2), [[Algorithms]] (1), [[SQL]] (1), next (1)
 > **Definitions:** means that (2), is an  (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -1938,7 +1936,7 @@ created: 2026-04-29
 
 ### 4. Data Pipelines with Delta Live Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vacuuming and garbage collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/vacuuming-and-garbage-collection?u=76281980)
@@ -2001,7 +1999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1), from, (1)
+> **Frameworks & Libraries:** data (4)
 > **Env Vars:** optimize (1), create (1), table (1), using (1), select (1)
 > **SQL:** create table (1), select (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -2094,7 +2092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), case, (1), interface (1), this, (1)
+> **Frameworks & Libraries:** [[SQL]] (5), data (2), next (1)
 > **Env Vars:** sql (5), alter (1), table (1), set (1), describe (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
@@ -2169,7 +2167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** data (3), product (1), [[Unity]] (1), etl (1), api (1)
 > **UI Navigation:** toggle (3), go to (1)
 > **Exercise Files:** source code (4)
 > **CLI Commands:** make (2), find (1)
@@ -2213,9 +2211,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (2), cloud (2), next (2), business (2)
 > **Env Vars:** sql (2), cdc (1), cicd (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2268,7 +2266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** [[Real-Time]] (4), data (3), [[Windows]] (2), etl (1), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** etl (1)
 > **Definitions:** means that (1)
@@ -2308,6 +2306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Unity]] (2), cloud (1), database (1), [[JSON]] (1)
 > **Env Vars:** json (1), csv (1)
 > **CLI Commands:** python (1)
 > **Warnings:** be aware (1)
@@ -2346,9 +2345,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[JSON]] (1), [[Tokens]] (1), [[Automation]] (1)
 > **Env Vars:** api (3), dbfs (3), crud (2), json (1), acl (1)
 > **Code Identifiers:** order_by (1), max_results (1)
-> **Code Keywords:** pass (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2391,15 +2390,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), strengths (1)
 > **UI Navigation:** toggle (2), go to (1)
-> **Code Keywords:** interface (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [host] (1)
 
 
 ### 5. Workloads with Jobs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Orchestrating workloads with jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980)
@@ -2458,8 +2457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** etl (2), data (2), [[SQL]] (2), business (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** etl (2), sql (2), jar (2)
-> **Code Keywords:** let (3), finally, (1)
 > **Exercise Files:** source code (4)
 > **Analogies:** for example (2)
 > **CLI Commands:** python (1)
@@ -2600,7 +2599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (4), type, (3), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Git]] (3), data (3), [[Python (Programming Language)|Python]] (2), [[Engineering]] (2), [[SQL]] (1)
 > **CLI Commands:** git (3), python (2), make (2), aws (1)
 > **Analogies:** for example (4)
 > **Env Vars:** sql (1), jar (1), aws (1)
@@ -2646,7 +2645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), case, (2), let (1), this, (1)
+> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** toggle (2)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** python (1)
@@ -2691,7 +2690,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **UI Navigation:** toggle (1), go to (1)
 > **Warnings:** be careful (1), watch out (1)
 > **Env Vars:** gpu (1)
@@ -2741,7 +2740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (1), toggle (1), click on (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2827,7 +2826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), this. (2), this, (2), finally, (1)
+> **Frameworks & Libraries:** data (4), [[SQL]] (4), [[Search]] (1), [[Analytics]] (1)
 > **Env Vars:** sql (4), csv (1)
 > **UI Navigation:** click on (2), toggle (1)
 > **Definitions:** is a  (3)
@@ -2879,7 +2878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), else, (1), let (1)
+> **Frameworks & Libraries:** [[Debugging]] (1), next (1), teams (1), [[Slack]] (1), database (1)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 > **Tools:** slack (1)
@@ -2929,7 +2928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** web (3), api (1), data (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2938,7 +2937,7 @@ created: 2026-04-29
 
 ### 6. Data Access with Unity Catalog
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unified data access with Unity Catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980)
@@ -2981,8 +2980,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Unity]] (4), [[SQL]] (4), [[Metadata]] (3), cloud (2)
 > **Env Vars:** sql (4), ansi (1), rest (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3017,7 +3016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (5), [[Metadata]] (4), [[Unity]] (2), teams (1)
 > **Speakers:** - [narrator] (1)
 
 #### Unity Catalog quick start with Python
@@ -3099,7 +3098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (3), this, (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Unity]] (4), [[Python (Programming Language)|Python]] (3), next (3), database (2)
 > **CLI Commands:** python (3), find (1)
 > **Env Vars:** api (2), sql (1)
 > **UI Navigation:** toggle (2), go to (1)
@@ -3141,7 +3140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Security]] (4), data (2), [[Unity]] (1), database (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [narrator] (1)
@@ -3185,7 +3184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3)
+> **Frameworks & Libraries:** [[Security]] (5), business (2), [[Unity]] (1), teams (1), [[Marketing Analytics]] (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -3217,8 +3216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), teams (1), [[Security]] (1), management (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3263,7 +3262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), self (1)
+> **Frameworks & Libraries:** data (7), business (4), [[Unity]] (1), [[Security]] (1), product (1)
 > **Speakers:** - [instructor] (1)
 
 

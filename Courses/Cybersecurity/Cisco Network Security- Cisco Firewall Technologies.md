@@ -31,7 +31,7 @@ tags:
   - skill/network-security
   - skill/cisco-firewall-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Cisco%20Firewall%20Technologies.md)
@@ -50,51 +50,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Allowing only authorized connections
-  - Discovering resources
-  - Obtaining Packet Tracer
+  - [Allowing only authorized connections](#allowing-only-authorized-connections)
+  - [Discovering resources](#discovering-resources)
+  - [Obtaining Packet Tracer](#obtaining-packet-tracer)
 - [**1. Review Firewall Technologies**](#1-review-firewall-technologies) (6 videos)
-  - Understanding firewalls
-  - Recognizing security contexts
-  - Reviewing CBAC
-  - Challenge: Configuring CBAC
-  - Solution: Configuring CBAC
-  - Employing Cisco AutoSecure
+  - [Understanding firewalls](#understanding-firewalls)
+  - [Recognizing security contexts](#recognizing-security-contexts)
+  - [Reviewing CBAC](#reviewing-cbac)
+  - [Challenge: Configuring CBAC](#challenge-configuring-cbac)
+  - [Solution: Configuring CBAC](#solution-configuring-cbac)
+  - [Employing Cisco AutoSecure](#employing-cisco-autosecure)
 - [**2. Compare Firewall Types**](#2-compare-firewall-types) (4 videos)
-  - Filtering packets
-  - Monitoring the state
-  - Examining the application layer
-  - Comparing modes of deployment
+  - [Filtering packets](#filtering-packets)
+  - [Monitoring the state](#monitoring-the-state)
+  - [Examining the application layer](#examining-the-application-layer)
+  - [Comparing modes of deployment](#comparing-modes-of-deployment)
 - [**3. Manage Access Control Lists**](#3-manage-access-control-lists) (4 videos)
-  - Understanding ACLs
-  - Working with IPv6 ACLs
-  - Challenge: Configuring IPv6 ACLs
-  - Solution: Configuring IPv6 ACLs
+  - [Understanding ACLs](#understanding-acls)
+  - [Working with IPv6 ACLs](#working-with-ipv6-acls)
+  - [Challenge: Configuring IPv6 ACLs](#challenge-configuring-ipv6-acls)
+  - [Solution: Configuring IPv6 ACLs](#solution-configuring-ipv6-acls)
 - [**4. Implement NAT on Cisco ASA**](#4-implement-nat-on-cisco-asa) (4 videos)
-  - Understanding NAT
-  - Comparing types of NAT
-  - Challenge: Configuring static NAT
-  - Solution: Configuring static NAT
+  - [Understanding NAT](#understanding-nat)
+  - [Comparing types of NAT](#comparing-types-of-nat)
+  - [Challenge: Configuring static NAT](#challenge-configuring-static-nat)
+  - [Solution: Configuring static NAT](#solution-configuring-static-nat)
 - [**5. Examine Zone-Based Firewalls**](#5-examine-zone-based-firewalls) (4 videos)
-  - Understanding zone-based firewalls
-  - Managing traffic between zones
-  - Challenge: Configuring a ZBF
-  - Solution: Configuring a ZBF
+  - [Understanding zone-based firewalls](#understanding-zone-based-firewalls)
+  - [Managing traffic between zones](#managing-traffic-between-zones)
+  - [Challenge: Configuring a ZBF](#challenge-configuring-a-zbf)
+  - [Solution: Configuring a ZBF](#solution-configuring-a-zbf)
 - [**6. Review Firewall Features on a Cisco ASA**](#6-review-firewall-features-on-a-cisco-asa) (8 videos)
-  - Managing access on an ASA
-  - Logging onto the ASA
-  - Assigning security levels on the ASA
-  - Understanding Modular Policy Framework (MPF)
-  - Implementing high availability
-  - Grasping Hot Standby Router Protocol (HSRP)
-  - Challenge: Hot Standby Router Protocol
-  - Solution: Hot Standby Router Protocol
+  - [Managing access on an ASA](#managing-access-on-an-asa)
+  - [Logging onto the ASA](#logging-onto-the-asa)
+  - [Assigning security levels on the ASA](#assigning-security-levels-on-the-asa)
+  - [Understanding Modular Policy Framework (MPF)](#understanding-modular-policy-framework-mpf)
+  - [Implementing high availability](#implementing-high-availability)
+  - [Grasping Hot Standby Router Protocol (HSRP)](#grasping-hot-standby-router-protocol-hsrp)
+  - [Challenge: Hot Standby Router Protocol](#challenge-hot-standby-router-protocol)
+  - [Solution: Hot Standby Router Protocol](#solution-hot-standby-router-protocol)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Allowing only authorized connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/allowing-only-authorized-connections?u=76281980)
@@ -123,7 +123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [lisa] (1)
 
@@ -160,8 +160,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** super (1), let (1)
 > **Exercise Files:** exercise file (2)
 > **Env Vars:** ccna (1)
 > **UI Navigation:** go to (1)
@@ -209,7 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (2), this. (1), interface (1)
+> **Frameworks & Libraries:** [[Programming]] (2), [[Cisco Networking]] (1), [[Search]] (1), [[Automation]] (1), [[Security]] (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -219,7 +219,7 @@ created: 2026-04-29
 
 ### 1. Review Firewall Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980)
@@ -288,7 +288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), public (6), interface (2), protected (1), this, (1)
+> **Frameworks & Libraries:** traffic (12), application (2), [[Real-Time]] (1), [[Statistics]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** go to (2)
@@ -354,9 +354,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), management (2), concurrent (2), application (2), [[LinkedIn]] (1)
 > **Env Vars:** asa (7), vpn (1), url (1)
 > **Analogies:** such as (3), imagine (1), for example (1)
-> **Code Keywords:** class, (2), let (2)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** physical_interface (1)
@@ -424,8 +424,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), application (1)
 > **Env Vars:** tcp (3), udp (2), ftp (1), icmp (1), echo (1)
-> **Code Keywords:** interface (4), let (1), function (1)
 > **Prerequisites:** configure (4)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (2)
@@ -481,8 +481,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Cybersecurity]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** asa (4)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Versions:** 192.168.1 (1)
@@ -541,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2)
+> **Frameworks & Libraries:** traffic (1), [[Statistics]] (1)
 > **Env Vars:** tcp (2), asa (2)
 > **Versions:** 172.16.3 (1), 192.168.1 (1)
 > **Tools:** command line (2)
@@ -659,6 +659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), feature (2), management (1), prompt (1), database (1)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** ssh (1), make (1)
 > **Warnings:** be careful (1), keep in mind (1)
@@ -666,12 +667,11 @@ created: 2026-04-29
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** rule of thumb (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 2. Compare Firewall Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering packets
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/filtering-packets?u=76281980)
@@ -718,8 +718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), data (1), [[Security]] (1)
 > **Env Vars:** syn (3), osi (1), ack (1)
-> **Code Keywords:** pass (1), static (1), let (1)
 > **Analogies:** for example (2)
 > **Ports:** port 80 (1)
 > **Speakers:** - [instructor] (1)
@@ -781,8 +781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), application (1)
 > **Env Vars:** ack (3), osi (2), syn (2), fin (2), udp (1)
-> **Code Keywords:** let (3), static (1), interface (1), protected (1)
 > **Analogies:** such as (2), similar to (1)
 > **Definitions:** is an  (1), known as (1)
 > **Tools:** command line (1)
@@ -833,9 +833,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), data (2), [[HTML]] (1), traffic (1)
 > **Env Vars:** osi (2), http (2), html (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
-> **Code Keywords:** protected (1), let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -908,15 +908,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Security]] (1), [[Routing]] (1)
 > **Env Vars:** asa (5), rip (1), eigrp (1), bgp (1)
-> **Code Keywords:** interface (2), static (1), pass (1), let (1)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Manage Access Control Lists
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding ACLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-acls?u=76281980)
@@ -979,8 +979,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3)
 > **Definitions:** is an  (3), is a  (2)
-> **Code Keywords:** interface (3), let (1)
 > **Prerequisites:** configure (3), you'll need (1)
 > **Env Vars:** ios (1)
 > **Analogies:** such as (1)
@@ -1067,7 +1067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), finally, (1)
+> **Frameworks & Libraries:** traffic (2), next (1)
 > **Analogies:** similar to (2), for example (1)
 > **Prerequisites:** configure (3)
 > **Env Vars:** sample (1)
@@ -1112,7 +1112,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
 > **UI Navigation:** go to (1), open the (1), scroll down (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** exercise file (1)
@@ -1221,9 +1220,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), prompt (3), web (2)
 > **Env Vars:** pc1 (5), pc2 (4), block_icmp (3), icmp (2), http (1)
 > **UI Navigation:** go to (8), scroll up (1), scroll down (1)
-> **Code Keywords:** interface (5), pass (2), let (1)
 > **Tools:** command prompt (3), command line (1)
 > **Code Identifiers:** gigabitethernet (2)
 > **CLI Commands:** make (1)
@@ -1233,7 +1232,7 @@ created: 2026-04-29
 
 ### 4. Implement NAT on Cisco ASA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding NAT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980)
@@ -1294,7 +1293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (12), public (6), let (3), switch (1), continue (1)
+> **Frameworks & Libraries:** lan (3), [[IP Addressing]] (2), [[Google]] (1), [[Local Area Network (LAN)|Local area network]] (1), prompt (1)
 > **Env Vars:** lan (3), arin (3), rfc (1)
 > **URLs:** [discordapp.com](https://discordapp.com) (1)
 > **Documentation:** rfc (1)
@@ -1352,8 +1351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), traffic (1), [[Search]] (1)
 > **Env Vars:** nat (17), pat (6), asa (1)
-> **Code Keywords:** public (7), static (5), private (3), let (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1383,7 +1382,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** configure (1)
@@ -1469,8 +1467,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), prompt (1), [[Routing]] (1), [[Statistics]] (1)
 > **Env Vars:** nat (10), pdf (1)
-> **Code Keywords:** interface (4), static (3), let (1)
 > **Versions:** 209.165.128 (1)
 > **Cross-References:** go back to (1)
 > **Tools:** command prompt (1)
@@ -1481,7 +1479,7 @@ created: 2026-04-29
 
 ### 5. Examine Zone-Based Firewalls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding zone-based firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-zone-based-firewalls?u=76281980)
@@ -1536,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (2), public (1), interface (1)
+> **Frameworks & Libraries:** traffic (9), [[Security]] (2), lan (1), web (1)
 > **Env Vars:** lan (1), icmp (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1599,7 +1597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), self (4), let (2), require (1), pass (1)
+> **Frameworks & Libraries:** traffic (16), [[Security]] (7), [[Routing]] (1), management (1)
 > **Analogies:** such as (2), for example (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
@@ -1707,8 +1705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), [[Security]] (3), feature (1), prompt (1), web (1)
 > **Env Vars:** net (5), class (5), map (5), zone (2), pmap (2)
-> **Code Keywords:** let (1), match. (1), pass (1)
 > **Versions:** 192.168.3 (2), 0.0.0 (1)
 > **Prerequisites:** configure (2)
 > **Tools:** command prompt (1)
@@ -1779,8 +1777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), traffic (2), prompt (1)
 > **Env Vars:** zone (4), zpair (2), pmap (2)
-> **Code Keywords:** interface (2), let (1), continue (1)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 > **Tools:** command prompt (1)
@@ -1790,7 +1788,7 @@ created: 2026-04-29
 
 ### 6. Review Firewall Features on a Cisco ASA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing access on an ASA
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-access-on-an-asa?u=76281980)
@@ -1871,8 +1869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2)
 > **Env Vars:** exec (4), text (1)
-> **Code Keywords:** protected (1), interface (1), let (1)
 > **Code Identifiers:** ios (3)
 > **Tools:** terminal (2), command line (1)
 > **Prerequisites:** configure (3)
@@ -1941,9 +1939,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), next (1), [[Dashboards]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** asa (9), ssh (2), https (1), http (1)
 > **Prerequisites:** you'll need (5), configure (2)
-> **Code Keywords:** interface (2), let (1)
 > **CLI Commands:** ssh (2)
 > **Tools:** command line (1)
 > **Warnings:** warning (1)
@@ -2000,7 +1998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), let (3), pass (2), default. (2)
+> **Frameworks & Libraries:** [[Security]] (12), traffic (10), lan (1)
 > **Env Vars:** asa (5), lan (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -2056,7 +2054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), function (2), let (2), class. (1)
+> **Frameworks & Libraries:** traffic (11)
 > **Env Vars:** tcp (1), udp (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2116,8 +2114,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), [[Security]] (1), [[Hardware]] (1)
 > **Env Vars:** asa (4), ios (2)
-> **Code Keywords:** continue (2), interface (1), let (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Versions:** 99.999 (1)
@@ -2194,7 +2192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3)
+> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** mac (3)
 > **Prerequisites:** you'll need (1)
@@ -2235,7 +2233,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Versions:** 4.1.1 (1)
@@ -2317,7 +2314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3)
+> **Frameworks & Libraries:** prompt (1)
 > **Env Vars:** pc0 (4)
 > **Versions:** 1.1.1 (3), 4.1.1 (1)
 > **Cross-References:** go back to (3)
@@ -2329,7 +2326,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980)
@@ -2358,7 +2355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (2), [[Network Security]] (1), application (1), [[Wireshark]] (1), [[IoT]] (1)
 > **Env Vars:** asa (1)
 > **Speakers:** - [instructor] (1)
 

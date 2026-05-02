@@ -27,7 +27,7 @@ tags:
   - topic/data-science
   - skill/data-driven-decision-making
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Data-Driven%20Decision-Making%20for%20Business%20Professionals.md)
@@ -46,38 +46,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting value from data to draw business conclusions
+  - [Getting value from data to draw business conclusions](#getting-value-from-data-to-draw-business-conclusions)
 - [**1. You Need Data Now**](#1-you-need-data-now) (3 videos)
-  - Why data, why now?
-  - Data drives decision-making
-  - Data context and digital transformation
+  - [Why data, why now?](#why-data-why-now)
+  - [Data drives decision-making](#data-drives-decision-making)
+  - [Data context and digital transformation](#data-context-and-digital-transformation)
 - [**2. Defining the Problem**](#2-defining-the-problem) (3 videos)
-  - Identifying the business problem or opportunity
-  - How to break down the business problem into data requirements
-  - Driving to prescriptive questions
+  - [Identifying the business problem or opportunity](#identifying-the-business-problem-or-opportunity)
+  - [How to break down the business problem into data requirements](#how-to-break-down-the-business-problem-into-data-requirements)
+  - [Driving to prescriptive questions](#driving-to-prescriptive-questions)
 - [**3. Identifying Current Data**](#3-identifying-current-data) (4 videos)
-  - Identifying data you have
-  - Identifying data you need
-  - How to identify and use alternative data sources
-  - How to ask for help with data analysis work
+  - [Identifying data you have](#identifying-data-you-have)
+  - [Identifying data you need](#identifying-data-you-need)
+  - [How to identify and use alternative data sources](#how-to-identify-and-use-alternative-data-sources)
+  - [How to ask for help with data analysis work](#how-to-ask-for-help-with-data-analysis-work)
 - [**4. Using Data to Draw Conclusions**](#4-using-data-to-draw-conclusions) (3 videos)
-  - Identifying conclusions, not causation
-  - Important aspects of data conclusions
-  - Translating data conclusions for business decisions
+  - [Identifying conclusions, not causation](#identifying-conclusions-not-causation)
+  - [Important aspects of data conclusions](#important-aspects-of-data-conclusions)
+  - [Translating data conclusions for business decisions](#translating-data-conclusions-for-business-decisions)
 - [**5. Visualization of Data**](#5-visualization-of-data) (3 videos)
-  - The importance of using visuals to share data
-  - How to present data conclusions in visual formats
-  - Presenting data through the use of storytelling
+  - [The importance of using visuals to share data](#the-importance-of-using-visuals-to-share-data)
+  - [How to present data conclusions in visual formats](#how-to-present-data-conclusions-in-visual-formats)
+  - [Presenting data through the use of storytelling](#presenting-data-through-the-use-of-storytelling)
 - [**6. Presenting Recommendations**](#6-presenting-recommendations) (3 videos)
-  - How to present data in response to business requests
-  - How to identify data gaps
-  - Leveraging data to drive business decisions
+  - [How to present data in response to business requests](#how-to-present-data-in-response-to-business-requests)
+  - [How to identify data gaps](#how-to-identify-data-gaps)
+  - [Leveraging data to drive business decisions](#leveraging-data-to-drive-business-decisions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Data conclusions
+  - [Data conclusions](#data-conclusions)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting value from data to draw business conclusions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/getting-value-from-data-to-draw-business-conclusions?u=76281980)
@@ -114,15 +114,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (3), power (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
 
 ### 1. You Need Data Now
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why data, why now?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/why-data-why-now?u=76281980)
@@ -181,8 +181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Decision-Making]] (2), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - have (1)
 
 #### Data drives decision-making
@@ -256,8 +256,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Decision-Making]] (3), power (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (2)
 > **Analogies:** imagine (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
@@ -305,15 +305,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), power (2), [[Data-driven Decision Making]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - what (1)
 
 
 ### 2. Defining the Problem
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the business problem or opportunity
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980)
@@ -400,6 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), product (7), next (3), teams (1), business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
@@ -469,8 +470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Products|Products]] (8), product (2), next (2), teams (2)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - using (1)
 
@@ -565,14 +566,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1)
+> **Frameworks & Libraries:** data (8), business (3), product (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - so (1)
 
 
 ### 3. Identifying Current Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying data you have
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-have?u=76281980)
@@ -635,6 +636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), management (2), business (2), [[Microsoft Products|Products]] (1), application (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** crm (1)
 > **UI Navigation:** go to (1)
@@ -732,8 +734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** erp (1), roi (1)
 > **Speakers:** - the (1)
 
@@ -814,7 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1)
+> **Frameworks & Libraries:** data (16), [[Microsoft Products|Products]] (2), traffic (1), [[Customer Relations]] (1), hr (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
@@ -899,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), throw (1)
+> **Frameworks & Libraries:** data (15), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 > **Warnings:** caveat (1)
@@ -908,7 +910,7 @@ created: 2026-04-29
 
 ### 4. Using Data to Draw Conclusions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying conclusions, not causation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980)
@@ -979,8 +981,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Microsoft Office|Office]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else. (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - okay (1)
 
@@ -1083,7 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (19), business (3), [[Microsoft Products|Products]] (3), [[Decision-Making]] (2), product (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - feeling (1)
@@ -1167,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), from. (1)
+> **Frameworks & Libraries:** data (8), product (1), [[Microsoft Products|Products]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
 > **Speakers:** - all (1)
@@ -1175,7 +1177,7 @@ created: 2026-04-29
 
 ### 5. Visualization of Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of using visuals to share data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980)
@@ -1272,7 +1274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (1)
+> **Frameworks & Libraries:** data (18), [[Decision-Making]] (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** picture (2), such as (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** don't forget (1)
@@ -1359,8 +1361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[LinkedIn]] (1), next (1), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), let (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** picture (1)
@@ -1449,15 +1451,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Storytelling]] (3), power (2), business (1), product (1)
 > **Analogies:** picture (4), such as (1)
-> **Code Keywords:** type. (1), this, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
 
 
 ### 6. Presenting Recommendations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to present data in response to business requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-in-response-to-business-requests?u=76281980)
@@ -1514,7 +1516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (13), business (8), next (5), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
@@ -1573,7 +1575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), new. (1), this, (1)
+> **Frameworks & Libraries:** data (21), business (3), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1668,14 +1670,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this: (1)
+> **Frameworks & Libraries:** data (8), business (4), [[Microsoft Products|Products]] (3), [[Social Media Marketing]] (1), product (1)
 > **Analogies:** picture (1)
 > **Speakers:** - so (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data conclusions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-conclusions?u=76281980)
@@ -1714,8 +1716,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (2), power (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - this (1)
 

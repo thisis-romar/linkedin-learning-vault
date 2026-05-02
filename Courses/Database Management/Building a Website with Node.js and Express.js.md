@@ -33,7 +33,7 @@ tags:
   - skill/express-js
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Building%20a%20Website%20with%20Node.js%20and%20Express.js.md)
@@ -52,55 +52,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Dynamic websites with Node and Express
-  - What you should know
-  - Using the exercise files and GitHub
-  - Setting up your development environment
+  - [Dynamic websites with Node and Express](#dynamic-websites-with-node-and-express)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files and GitHub](#using-the-exercise-files-and-github)
+  - [Setting up your development environment](#setting-up-your-development-environment)
 - [**1. Building a Basic Express Application**](#1-building-a-basic-express-application) (5 videos)
-  - Create an Express server in three minutes
-  - Building from a HTML page or template
-  - Serving HTML pages and static content
-  - Setting up ESLint and Prettier
-  - Setting up nodemon
+  - [Create an Express server in three minutes](#create-an-express-server-in-three-minutes)
+  - [Building from a HTML page or template](#building-from-a-html-page-or-template)
+  - [Serving HTML pages and static content](#serving-html-pages-and-static-content)
+  - [Setting up ESLint and Prettier](#setting-up-eslint-and-prettier)
+  - [Setting up nodemon](#setting-up-nodemon)
 - [**2. Template Engines**](#2-template-engines) (3 videos)
-  - Template engines and Express
-  - Getting to know the EJS template engine
-  - Rendering the index page with EJS
+  - [Template engines and Express](#template-engines-and-express)
+  - [Getting to know the EJS template engine](#getting-to-know-the-ejs-template-engine)
+  - [Rendering the index page with EJS](#rendering-the-index-page-with-ejs)
 - [**3. Express Routes and Middleware**](#3-express-routes-and-middleware) (5 videos)
-  - Express middleware and routes
-  - Modular routes with express.Router
-  - Creating routes for all subpages
-  - Add business logic
-  - Add a session management middleware
+  - [Express middleware and routes](#express-middleware-and-routes)
+  - [Modular routes with express.Router](#modular-routes-with-expressrouter)
+  - [Creating routes for all subpages](#creating-routes-for-all-subpages)
+  - [Add business logic](#add-business-logic)
+  - [Add a session management middleware](#add-a-session-management-middleware)
 - [**4. Professional Templating with Express**](#4-professional-templating-with-express) (8 videos)
-  - Create a site-wide layout
-  - Using partials with EJS
-  - Template variables in more detail
-  - Looping through lists in templates
-  - Creating a list page
-  - Using parameter routes
-  - Challenge: Partials and lists
-  - Solution: Partials and lists
+  - [Create a site-wide layout](#create-a-site-wide-layout)
+  - [Using partials with EJS](#using-partials-with-ejs)
+  - [Template variables in more detail](#template-variables-in-more-detail)
+  - [Looping through lists in templates](#looping-through-lists-in-templates)
+  - [Creating a list page](#creating-a-list-page)
+  - [Using parameter routes](#using-parameter-routes)
+  - [Challenge: Partials and lists](#challenge-partials-and-lists)
+  - [Solution: Partials and lists](#solution-partials-and-lists)
 - [**5. Handling Errors Gracefully**](#5-handling-errors-gracefully) (3 videos)
-  - How to handle errors in express
-  - Creating an error page
-  - Populating the error page
+  - [How to handle errors in express](#how-to-handle-errors-in-express)
+  - [Creating an error page](#creating-an-error-page)
+  - [Populating the error page](#populating-the-error-page)
 - [**6. Handling Form Data**](#6-handling-form-data) (4 videos)
-  - Creating a form template
-  - Handling POST requests
-  - Validating and sanitizing user input
-  - Storing data
+  - [Creating a form template](#creating-a-form-template)
+  - [Handling POST requests](#handling-post-requests)
+  - [Validating and sanitizing user input](#validating-and-sanitizing-user-input)
+  - [Storing data](#storing-data)
 - [**7. Creating APIs with Express**](#7-creating-apis-with-express) (4 videos)
-  - A little intro to REST APIs
-  - Creating and testing an API endpoint
-  - Add client side JavaScript
-  - Updating the page from REST
+  - [A little intro to REST APIs](#a-little-intro-to-rest-apis)
+  - [Creating and testing an API endpoint](#creating-and-testing-an-api-endpoint)
+  - [Add client side JavaScript](#add-client-side-javascript)
+  - [Updating the page from REST](#updating-the-page-from-rest)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Build on what you've learned
+  - [Build on what you've learned](#build-on-what-youve-learned)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic websites with Node and Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980)
@@ -125,6 +125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (3), [[Node.js]] (2), web (2), business (1), [[HTML]] (1)
 > **CLI Commands:** node (2), find (1)
 > **Env Vars:** nasa (1), html (1), api (1)
 > **File Paths:** node.js (2)
@@ -159,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), const (1), async (1), await (1), else, (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[HTML]] (2), css (2), [[JavaScript]] (2), [[Node.js]] (1)
 > **Env Vars:** html (2), css (2), es6 (1)
 > **CLI Commands:** git (2), node (1), find (1)
 > **File Paths:** node.js (1)
@@ -226,9 +227,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (16), [[GitHub]] (5), [[Metadata]] (2), hit (2), career (1)
 > **CLI Commands:** git (16), ls (2)
 > **Tools:** github (5), terminal (3), command prompt (1), bash (1), visual studio (1)
-> **Code Keywords:** return, (2), switch (1), let (1)
 > **Env Vars:** url (3), https (1)
 > **Prerequisites:** install (2), set up (1)
 > **UI Navigation:** dropdown (1), click on (1)
@@ -288,8 +289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), node (2), [[Search]] (1), [[Git]] (1)
 > **CLI Commands:** node (6), make (2), git (1)
-> **Code Keywords:** let (5), switch (2)
 > **Tools:** visual studio (4), terminal (2)
 > **File Paths:** node.js (4)
 > **Prerequisites:** install (4)
@@ -300,7 +301,7 @@ created: 2026-04-29
 
 ### 1. Building a Basic Express Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an Express server in three minutes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980)
@@ -343,7 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (2), require (2), const (2), function (2)
+> **Frameworks & Libraries:** express (16), application (4), [[Node.js]] (3), [[JSON]] (3), next (3)
 > **File Paths:** node.js (3), server.js (3), package.json (2), package-lock.json (1)
 > **Tools:** terminal (4), visual studio (3)
 > **CLI Commands:** node (4), npm (1)
@@ -431,7 +432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), static (4)
+> **Frameworks & Libraries:** [[HTML]] (6), express (4), css (2), [[JavaScript]] (2), web (2)
 > **Env Vars:** html (3), css (2), nginx (1)
 > **UI Navigation:** click on (4), open the (1), scroll down (1)
 > **Definitions:** is a  (4), means that (1)
@@ -533,7 +534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (14), let (8), module (3), const (1), require (1)
+> **Frameworks & Libraries:** [[HTML]] (8), express (7), web (2), application (2), node (2)
 > **File Paths:** server.js (4), index.html (3), node.js (1), speakers.html (1)
 > **Env Vars:** html (3), url (2), css (1)
 > **CLI Commands:** node (3)
@@ -727,9 +728,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (17), [[npm]] (3), [[JSON]] (3), node (3), next (3)
 > **CLI Commands:** node (5), npm (3), npx (3), find (2), make (2)
 > **Prerequisites:** install (12), set up (1)
-> **Code Keywords:** let (3), module (2), extends (1), else. (1)
 > **File Paths:** node.js (2), package.json (1), vue.js (1), server.js (1)
 > **Tools:** visual studio (4)
 > **UI Navigation:** click on (2), select the (1), go to (1)
@@ -763,8 +764,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (3), [[npm]] (2), hit (1), next (1)
 > **CLI Commands:** npm (2), make (1)
-> **Code Keywords:** let (3)
 > **Prerequisites:** install (3)
 > **File Paths:** server.js (1)
 > **Cross-References:** in the next (1)
@@ -772,7 +773,7 @@ created: 2026-04-29
 
 ### 2. Template Engines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Template engines and Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980)
@@ -831,9 +832,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), data (4), express (3), [[JavaScript]] (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** html (6), ejs (1)
-> **Code Keywords:** let (2), static (1), finally, (1), interface (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
@@ -907,8 +908,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (4), [[HTML]] (2), [[npm]] (2), application (2), [[JavaScript]] (1)
 > **Exercise Files:** template (7)
-> **Code Keywords:** let (4), pass (1), require (1)
 > **CLI Commands:** npm (2), node (1), find (1)
 > **Prerequisites:** install (2)
 > **File Paths:** server.js (1)
@@ -961,8 +962,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (4), [[HTML]] (1), next (1)
 > **Exercise Files:** template (7)
-> **Code Keywords:** let (5), function (1)
 > **Env Vars:** ejs (4)
 > **File Paths:** server.js (1), index.html (1)
 > **CLI Commands:** find (1), make (1)
@@ -973,7 +974,7 @@ created: 2026-04-29
 
 ### 3. Express Routes and Middleware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Express middleware and routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980)
@@ -1104,7 +1105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), static (2), function (2), finally, (1)
+> **Frameworks & Libraries:** next (14), [[Routing]] (9), express (7), application (5), [[Control Flow]] (3)
 > **Env Vars:** url (5)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (3)
@@ -1179,7 +1180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), module (6), require (4), let (2), else. (1)
+> **Frameworks & Libraries:** express (10), application (6), [[Routing]] (5), feature (1), next (1)
 > **File Paths:** index.js (4), server.js (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -1285,7 +1286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (4), function (3), const (2), module (1)
+> **Frameworks & Libraries:** [[Routing]] (9), application (5), express (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **File Paths:** index.js (3), feedback.js (2), speakers.js (2), server.js (2)
 > **Code Identifiers:** speakersroute (3), feedbackroute (1)
 > **Env Vars:** http (2)
@@ -1413,7 +1414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (9), const (9), await (4), require (3)
+> **Frameworks & Libraries:** data (11), [[JSON]] (9), application (5), [[Routing]] (3), business (2)
 > **Code Identifiers:** feedbackservice (4), speakersservice (4), getlist (2)
 > **File Paths:** feedback.json (2), server.js (2), speakers.json (1), index.js (1), speakers.js (1)
 > **CLI Commands:** find (3), make (2)
@@ -1539,7 +1540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), module (2), const (1), require (1), pass (1)
+> **Frameworks & Libraries:** application (4), express (4), data (3), web (2), management (1)
 > **Env Vars:** http (1), ctrl (1), nginx (1), html (1)
 > **CLI Commands:** npm (1), nginx (1), find (1)
 > **Definitions:** means that (1), is called (1), is a  (1)
@@ -1551,7 +1552,7 @@ created: 2026-04-29
 
 ### 4. Professional Templating with Express
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a site-wide layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980)
@@ -1656,8 +1657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1), express (1), next (1)
 > **Exercise Files:** template (13)
-> **Code Keywords:** let (3), function (2), static (1), include, (1), pass (1)
 > **File Paths:** index.js (3), js/pixgrid.js (1)
 > **UI Navigation:** scroll down (2), open the (1), scroll up (1)
 > **CLI Commands:** make (3)
@@ -1774,7 +1775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), include, (3), include. (1)
+> **Frameworks & Libraries:** [[HTML]] (5), functional (2), next (1), application (1)
 > **File Paths:** speakers.html (2), index.html (1), feedback.html (1), index.js (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** html (1), ejs (1)
@@ -1866,7 +1867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), static (2), function (2), const (1)
+> **Frameworks & Libraries:** express (4), next (4), application (3), data (1)
 > **Code Identifiers:** sitename (4), somevariable (2), speakernames (2), pagetitle (1), speakerservice (1)
 > **Exercise Files:** template (10)
 > **CLI Commands:** make (5)
@@ -2034,7 +2035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), static (4), function (3), const (2), continue (1)
+> **Frameworks & Libraries:** next (4), [[JavaScript]] (4), [[Fetch]] (3), data (3), [[JSON]] (2)
 > **Code Identifiers:** topspeakers (7), foreach (3), speakersservice (2), getlist (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** json (2), url (2), ejs (1), html (1)
@@ -2136,7 +2137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), static (4), function (2), pass (1)
+> **Frameworks & Libraries:** [[HTML]] (4), next (4), express (2), [[JavaScript]] (1)
 > **Exercise Files:** template (7)
 > **File Paths:** speakers.html (2), index.js (1), speakers.js (1)
 > **Env Vars:** html (2), url (1)
@@ -2280,7 +2281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), static (3), const (1), await (1), async (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[JavaScript]] (1), css (1), web (1)
 > **Env Vars:** html (6)
 > **Exercise Files:** template (5)
 > **UI Navigation:** scroll down (3), click on (1)
@@ -2332,7 +2333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1), class. (1)
+> **Frameworks & Libraries:** data (2), [[JSON]] (1), [[Fetch]] (1)
 > **File Paths:** speakers.json (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
@@ -2482,7 +2483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), const (3), await (2), finally, (2), function (2)
+> **Frameworks & Libraries:** next (3), [[HTML]] (2), data (2), [[JavaScript]] (2), [[Fetch]] (1)
 > **Exercise Files:** template (10)
 > **UI Navigation:** click on (2), go to (2), right-click (1), open the (1)
 > **Code Identifiers:** speakersservice (2), getallartwork (1), getartworkforspeaker (1), foreach (1)
@@ -2494,7 +2495,7 @@ created: 2026-04-29
 
 ### 5. Handling Errors Gracefully
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to handle errors in express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980)
@@ -2627,7 +2628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (15), function (7), let (7), await (5), async (4)
+> **Frameworks & Libraries:** next (14), express (8), application (7), [[JavaScript]] (2), [[Node.js]] (2)
 > **Code Identifiers:** settimeout (4), getnames (1)
 > **File Paths:** server.js (2), node.js (2)
 > **CLI Commands:** node (2), find (1)
@@ -2783,7 +2784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5), module (2), const (2), static (1)
+> **Frameworks & Libraries:** css (6), express (5), next (3), [[HTML]] (2), application (1)
 > **Exercise Files:** template (8)
 > **CLI Commands:** find (1), npm (1)
 > **Cross-References:** as we saw (1), go back to (1)
@@ -2817,7 +2818,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), static (1)
 > **Exercise Files:** template (3)
 > **Cross-References:** go back to (1), as we saw (1)
 > **Best Practices:** bad practice (1)
@@ -2826,7 +2826,7 @@ created: 2026-04-29
 
 ### 6. Handling Form Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a form template
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980)
@@ -2885,7 +2885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), static (5), function (4), const (1), await (1)
+> **Frameworks & Libraries:** data (3), [[JSON]] (3), [[HTML]] (1), [[JavaScript]] (1)
 > **Exercise Files:** template (12)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** getlist (1), foreach (1)
@@ -2995,7 +2995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), module (2), case, (1), this, (1), pass (1)
+> **Frameworks & Libraries:** data (11), [[JSON]] (2), [[npm]] (2), database (1), [[HTML]] (1)
 > **Env Vars:** json (2), post (2), url (2), html (1)
 > **CLI Commands:** make (2), npm (2), find (1)
 > **UI Navigation:** go to (1), open the (1), scroll down (1)
@@ -3167,7 +3167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (7), const (3), module (2), case, (2)
+> **Frameworks & Libraries:** express (9), next (4), data (3), [[JavaScript]] (3), [[npm]] (2)
 > **CLI Commands:** make (5), npm (2)
 > **Code Identifiers:** validationresult (2), widthmessage (1), isemail (1), normailzeemail (1), isempty (1)
 > **Exercise Files:** template (5)
@@ -3235,7 +3235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), await (2), async (1), const (1)
+> **Frameworks & Libraries:** data (2), [[Fetch]] (1), express (1), next (1)
 > **Code Identifiers:** feedbackservice (2), addentry (2)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Exercise Files:** template (2)
@@ -3246,7 +3246,7 @@ created: 2026-04-29
 
 ### 7. Creating APIs with Express
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A little intro to REST APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980)
@@ -3295,8 +3295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (11), data (7), [[JavaScript]] (4), web (2), api (2)
 > **Env Vars:** rest (11), http (5), api (2), html (2), json (2)
-> **Code Keywords:** delete (5), let (3)
 > **CLI Commands:** make (3), find (1), node (1)
 > **Analogies:** similar to (1), for instance (1)
 > **File Paths:** node.js (1)
@@ -3441,7 +3441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), const (3), module (2), async (2), function (1)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Representational State Transfer (REST)|Rest]] (7), api (5), next (5), data (4)
 > **Env Vars:** api (5)
 > **UI Navigation:** go to (2), click on (1), dropdown (1)
 > **Tools:** postman (3)
@@ -3517,7 +3517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), static (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), api (2), [[Representational State Transfer (REST)|Rest]] (1), application (1), [[React.js|React]] (1)
 > **Env Vars:** api (2), xhr (2), rest (1)
 > **Code Identifiers:** jquery (4)
 > **File Paths:** feedback.js (2), vue.js (1)
@@ -3701,7 +3701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), static (1), function (1), default. (1)
+> **Frameworks & Libraries:** data (4), [[JavaScript]] (3), api (3), css (2), web (2)
 > **Env Vars:** api (3), xhr (2), css (2), enter (1), html (1)
 > **UI Navigation:** go to (2), scroll down (2), scroll up (1), open the (1)
 > **Code Identifiers:** jquery (4), successmessage (1)
@@ -3713,7 +3713,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build on what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980)
@@ -3742,6 +3742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (2), express (2), [[Databases]] (1), [[Search]] (1), hit (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
 > **Speakers:** - [daniel] (1)

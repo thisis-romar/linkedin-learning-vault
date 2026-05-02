@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Foundations-%20Prototyping.md)
@@ -40,30 +40,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Prototyping for user experience
+  - [Prototyping for user experience](#prototyping-for-user-experience)
 - [**1. Prototyping Basics**](#1-prototyping-basics) (3 videos)
-  - What is UX prototyping?
-  - Why do we prototype?
-  - Avoid costly mistakes with prototyping
+  - [What is UX prototyping?](#what-is-ux-prototyping)
+  - [Why do we prototype?](#why-do-we-prototype)
+  - [Avoid costly mistakes with prototyping](#avoid-costly-mistakes-with-prototyping)
 - [**2. Prototyping Fidelity**](#2-prototyping-fidelity) (5 videos)
-  - Prototyping and the design process
-  - Master design fidelity in prototyping
-  - Explore your design ideas through low-fidelity prototyping
-  - Medium- and high-fidelity prototyping for flexibility
-  - Testing your prototype and avoiding confirmation bias
+  - [Prototyping and the design process](#prototyping-and-the-design-process)
+  - [Master design fidelity in prototyping](#master-design-fidelity-in-prototyping)
+  - [Explore your design ideas through low-fidelity prototyping](#explore-your-design-ideas-through-low-fidelity-prototyping)
+  - [Medium- and high-fidelity prototyping for flexibility](#medium--and-high-fidelity-prototyping-for-flexibility)
+  - [Testing your prototype and avoiding confirmation bias](#testing-your-prototype-and-avoiding-confirmation-bias)
 - [**3. Paper Prototyping**](#3-paper-prototyping) (1 videos)
-  - Paper prototyping for simple explorations
+  - [Paper prototyping for simple explorations](#paper-prototyping-for-simple-explorations)
 - [**4. Prototyping with Figma**](#4-prototyping-with-figma) (4 videos)
-  - Basic prototyping with Figma
-  - Connecting screens and interactions in Figma prototypes
-  - Scrolling and overlay interactions in Figma prototypes
-  - Interactive components in Figma prototyping
+  - [Basic prototyping with Figma](#basic-prototyping-with-figma)
+  - [Connecting screens and interactions in Figma prototypes](#connecting-screens-and-interactions-in-figma-prototypes)
+  - [Scrolling and overlay interactions in Figma prototypes](#scrolling-and-overlay-interactions-in-figma-prototypes)
+  - [Interactive components in Figma prototyping](#interactive-components-in-figma-prototyping)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your prototyping journey
+  - [Continue your prototyping journey](#continue-your-prototyping-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototyping for user experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980)
@@ -86,7 +86,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Prototyping]] (7), ux (2), [[User Experience (UX)|User experience]] (1), [[Figma (Software)|Figma]] (1)
 > **Tools:** figma (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - welcome (1)
@@ -94,7 +94,7 @@ created: 2026-04-29
 
 ### 1. Prototyping Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is UX prototyping?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), static (2), this. (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Typography]] (1), product (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - a (1)
 
@@ -192,7 +192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (6), business (3), [[Prototyping]] (2), feature (1), [[Usability Testing]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
@@ -244,8 +244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Prototyping]] (4), [[Microsoft Products|Products]] (1), functional (1), data (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** for, (1), self (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** make sure you have (1), required to (1)
 > **Speakers:** - developing (1)
@@ -253,7 +253,7 @@ created: 2026-04-29
 
 ### 2. Prototyping Fidelity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototyping and the design process
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980)
@@ -310,9 +310,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (5), product (3), [[Design Thinking]] (2), next (2), functional (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
@@ -372,7 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (1), case, (1)
+> **Frameworks & Libraries:** [[Sketching]] (2), [[Prototyping]] (2), [[Interviewing]] (1), [[Representational State Transfer (REST)|Rest]] (1), product (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
@@ -440,7 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), new. (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), next (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -519,7 +519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), for, (1), self (1)
+> **Frameworks & Libraries:** functional (1), [[Prototyping]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -572,8 +572,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (1), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** you'll need (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - when (1)
@@ -581,7 +581,7 @@ created: 2026-04-29
 
 ### 3. Paper Prototyping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Paper prototyping for simple explorations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980)
@@ -630,7 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[E-Commerce]] (1), [[Sketching]] (1), next (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -639,7 +639,7 @@ created: 2026-04-29
 
 ### 4. Prototyping with Figma
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic prototyping with Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980)
@@ -718,7 +718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** product (4), [[Figma (Software)|Figma]] (2), next (2), [[E-Commerce]] (1), [[Prototyping]] (1)
 > **UI Navigation:** select the (5)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** iphone (2)
@@ -806,8 +806,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Prototyping]] (4), product (4)
 > **UI Navigation:** select the (6), go to (1)
-> **Code Keywords:** let (6)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1), in the next (1)
 > **Prerequisites:** set up (2)
@@ -884,7 +884,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** next (4), product (3), [[Prototyping]] (1)
 > **UI Navigation:** select the (5), go to (1)
 > **Cross-References:** previous video (1), in the last (1), in the next (1)
 > **Definitions:** refers to (1)
@@ -993,7 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), self (1), switch (1), default, (1), case, (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6), next (6), [[Prototyping]] (1), product (1)
 > **Tools:** figma (6)
 > **CLI Commands:** make (5)
 > **UI Navigation:** select the (4), switch to (1)
@@ -1005,7 +1005,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your prototyping journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980)
@@ -1028,6 +1028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[User Experience (UX)|User experience]] (2), [[LinkedIn]] (1), ux (1)
 > **CLI Commands:** find (1)
 > **URLs:** [dianecronenwett.com](https://dianecronenwett.com) (1)
 > **Speakers:** - thank (1)

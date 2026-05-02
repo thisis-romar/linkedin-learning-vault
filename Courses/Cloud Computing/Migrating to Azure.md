@@ -23,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Migrating%20to%20Azure.md)
@@ -42,37 +42,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Starting Your Cloud Journey**](#1-starting-your-cloud-journey) (6 videos)
-  - Introducing the scenario
-  - The Microsoft Cloud Adoption Framework
-  - Motivations for migration
-  - Defining a migration strategy
-  - Planning for migration
-  - Choosing the right first project
+  - [Introducing the scenario](#introducing-the-scenario)
+  - [The Microsoft Cloud Adoption Framework](#the-microsoft-cloud-adoption-framework)
+  - [Motivations for migration](#motivations-for-migration)
+  - [Defining a migration strategy](#defining-a-migration-strategy)
+  - [Planning for migration](#planning-for-migration)
+  - [Choosing the right first project](#choosing-the-right-first-project)
 - [**2. Becoming Azure Ready**](#2-becoming-azure-ready) (6 videos)
-  - Organizing resources
-  - Managing access
-  - Managing costs
-  - Monitoring and reporting in Azure
-  - Working with Azure Monitor
-  - Best practice guidance
+  - [Organizing resources](#organizing-resources)
+  - [Managing access](#managing-access)
+  - [Managing costs](#managing-costs)
+  - [Monitoring and reporting in Azure](#monitoring-and-reporting-in-azure)
+  - [Working with Azure Monitor](#working-with-azure-monitor)
+  - [Best practice guidance](#best-practice-guidance)
 - [**3. Beginning Your Azure Migration**](#3-beginning-your-azure-migration) (6 videos)
-  - Exploring migration scenarios
-  - Introducing Azure Migrate
-  - Migrating a virtual machine
-  - Migrating SQL Server
-  - Migrating data
-  - Migration best practces
+  - [Exploring migration scenarios](#exploring-migration-scenarios)
+  - [Introducing Azure Migrate](#introducing-azure-migrate)
+  - [Migrating a virtual machine](#migrating-a-virtual-machine)
+  - [Migrating SQL Server](#migrating-sql-server)
+  - [Migrating data](#migrating-data)
+  - [Migration best practces](#migration-best-practces)
 - [**4. Innovating with Azure Cloud Services**](#4-innovating-with-azure-cloud-services) (6 videos)
-  - Start innovating
-  - Introducing PaaS
-  - Introducing App Service
-  - Going serverless
-  - Artificial intelligence
-  - Automating repetitive tasks
+  - [Start innovating](#start-innovating)
+  - [Introducing PaaS](#introducing-paas)
+  - [Introducing App Service](#introducing-app-service)
+  - [Going serverless](#going-serverless)
+  - [Artificial intelligence](#artificial-intelligence)
+  - [Automating repetitive tasks](#automating-repetitive-tasks)
 
 ### 1. Starting Your Cloud Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the scenario
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980)
@@ -255,7 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), this. (1), finally, (1), require (1)
+> **Frameworks & Libraries:** business (11), [[Microsoft Azure|Azure]] (7), [[Microsoft]] (6), [[Hardware]] (6), cloud (5)
 > **Env Vars:** crm (4), sql (2), api (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4), it's like (1)
@@ -347,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), finally, (1)
+> **Frameworks & Libraries:** business (9), cloud (8), [[Microsoft Azure|Azure]] (3), management (3), [[Microsoft]] (1)
 > **Definitions:** is an  (2)
 > **Analogies:** such as (2)
 > **Best Practices:** best practice (1)
@@ -448,7 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), finally, (1)
+> **Frameworks & Libraries:** business (16), cloud (5), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** ceo (1), crm (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -535,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), this. (1)
+> **Frameworks & Libraries:** cloud (6), business (4), [[Hardware]] (3), teams (3), [[Active Directory]] (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -625,8 +625,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), data (4), [[Microsoft Azure|Azure]] (4), [[Microsoft SQL Server|Sql server]] (3), database (3)
 > **Env Vars:** sql (5), crm (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -683,14 +683,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), data (4), [[Microsoft Azure|Azure]] (2), parallel (1), business (1)
 > **Prerequisites:** setup (1), set up (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Becoming Azure Ready
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980)
@@ -845,7 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (3), module (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), management (8), cloud (3), data (3), business (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (3), imagine (1)
 > **Definitions:** known as (2), is called (1)
@@ -927,7 +927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Active Directory]] (1), management (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iim (1)
@@ -1026,7 +1026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), finally, (3), assert (1), continue (1)
+> **Frameworks & Libraries:** [[Cost Management]] (9), [[Microsoft Azure|Azure]] (5), cloud (1), business (1), feature (1)
 > **Tools:** azure portal (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** configure (1)
@@ -1141,7 +1141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), this. (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), data (7), [[Security]] (6), management (2), [[Microsoft]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** cpu (2)
 > **Analogies:** such as (2)
@@ -1249,7 +1249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), data (7), next (2), application (2), web (2)
 > **Prerequisites:** configure (3), set up (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1328,16 +1328,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Active Directory]] (4), cloud (2), [[Microsoft]] (2), management (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Beginning Your Azure Migration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring migration scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980)
@@ -1422,8 +1422,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (11), cloud (10), [[Microsoft Azure|Azure]] (9), [[SQL]] (3), [[Virtual Machines]] (2)
 > **CLI Commands:** make (7)
-> **Code Keywords:** require (2), module (1), let (1), this, (1), finally, (1)
 > **Env Vars:** sql (3)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1), known as (1)
@@ -1498,8 +1498,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Virtual Machines]] (3), data (2), [[Microsoft]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Env Vars:** csv (2)
 > **Prerequisites:** install (2)
 > **Cross-References:** in the next (1)
@@ -1582,11 +1582,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), data (6), [[Virtual Machines]] (2), next (1)
 > **UI Navigation:** select the (4)
 > **Exercise Files:** template (3), download the (1)
 > **Env Vars:** csv (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** import. (1), include. (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
@@ -1668,9 +1668,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), [[Databases]] (5), [[Microsoft Azure|Azure]] (4), database (4), [[Microsoft]] (2)
 > **Env Vars:** sql (11)
 > **Prerequisites:** configure (3), install (2)
-> **Code Keywords:** let (2), this. (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -1762,9 +1762,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (30), [[Microsoft Azure|Azure]] (15), cloud (4), [[Microsoft]] (3), product (2)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** sql (1), nfs (1), smb (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1861,7 +1861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Azure|Azure]] (5), [[Virtual Machines]] (3), [[Databases]] (3), database (2)
 > **CLI Commands:** mysql (1), make (1)
 > **Analogies:** just like (1), such as (1)
 > **Best Practices:** best practice (2)
@@ -1873,7 +1873,7 @@ created: 2026-04-29
 
 ### 4. Innovating with Azure Cloud Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start innovating
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980)
@@ -1972,9 +1972,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Microsoft Azure|Azure]] (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), business (4), next (2)
 > **Definitions:** is a  (4), we call this (1), is an  (1)
 > **Analogies:** such as (4), imagine (1)
-> **Code Keywords:** this, (1), extends (1), interface (1), finally, (1)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2030,8 +2030,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (9), cloud (3), [[IaaS|Infrastructure as a service]] (2), application (1), data (1)
 > **Analogies:** such as (3), just like (1)
-> **Code Keywords:** let (1), this, (1), else. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2124,9 +2124,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), node (2), [[Java]] (2), next (2), traffic (2)
 > **CLI Commands:** node (2), docker (2), make (2), python (1), php (1)
 > **Tools:** azure portal (2), visual studio (2), github (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** api (1), php (1), cpu (1)
 > **UI Navigation:** select the (2), go to (1)
 > **Definitions:** is a  (2)
@@ -2244,7 +2244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), web (2), [[Serverless Computing]] (1), [[Microsoft Products|Products]] (1), [[Computer Vision]] (1)
 > **Env Vars:** http (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** means that (1), is a  (1)
@@ -2324,9 +2324,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Azure|Azure]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Forecasting]] (2), ai (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** let (1), case. (1)
 > **Tools:** visual studio (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2436,7 +2436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (1), finally, (1)
+> **Frameworks & Libraries:** power (13), [[Microsoft Azure|Azure]] (10), data (5), cloud (3), [[Automation]] (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** we covered (1), we talked about (1)
 > **Analogies:** such as (2)

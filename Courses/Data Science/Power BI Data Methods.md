@@ -34,7 +34,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Data%20Methods.md)
@@ -53,69 +53,69 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - The data at the core of Power BI
-  - What you should know
-  - Course project overview
+  - [The data at the core of Power BI](#the-data-at-the-core-of-power-bi)
+  - [What you should know](#what-you-should-know)
+  - [Course project overview](#course-project-overview)
 - [**1. Extracting Data from Files**](#1-extracting-data-from-files) (3 videos)
-  - Working with Power Query
-  - The extract, transform, load (ETL) framework
-  - Power Query objects
+  - [Working with Power Query](#working-with-power-query)
+  - [The extract, transform, load (ETL) framework](#the-extract-transform-load-etl-framework)
+  - [Power Query objects](#power-query-objects)
 - [**2. Extracting Data from Files**](#2-extracting-data-from-files) (16 videos)
-  - Connecting to text files
-  - Connecting to CSV files
-  - Connecting to Excel files
-  - Connecting to online Excel files
-  - Connecting to PDF files
-  - Connecting to images as data
-  - Setting up folder connection
-  - Connecting to HTML and XML
-  - Connecting to JSON data
-  - Connecting to APIs
-  - Connecting to ODATA feeds
-  - Connecting to GitHub
-  - Using an R script connector
-  - Using a Python script connector
-  - Challenge: Getting data
-  - Solution: Getting data
+  - [Connecting to text files](#connecting-to-text-files)
+  - [Connecting to CSV files](#connecting-to-csv-files)
+  - [Connecting to Excel files](#connecting-to-excel-files)
+  - [Connecting to online Excel files](#connecting-to-online-excel-files)
+  - [Connecting to PDF files](#connecting-to-pdf-files)
+  - [Connecting to images as data](#connecting-to-images-as-data)
+  - [Setting up folder connection](#setting-up-folder-connection)
+  - [Connecting to HTML and XML](#connecting-to-html-and-xml)
+  - [Connecting to JSON data](#connecting-to-json-data)
+  - [Connecting to APIs](#connecting-to-apis)
+  - [Connecting to ODATA feeds](#connecting-to-odata-feeds)
+  - [Connecting to GitHub](#connecting-to-github)
+  - [Using an R script connector](#using-an-r-script-connector)
+  - [Using a Python script connector](#using-a-python-script-connector)
+  - [Challenge: Getting data](#challenge-getting-data)
+  - [Solution: Getting data](#solution-getting-data)
 - [**3. Transforming Data with Cleaning Operations**](#3-transforming-data-with-cleaning-operations) (9 videos)
-  - Cleaning text fields
-  - Removing or replacing values
-  - Splitting and concatenating fields
-  - Text formulas
-  - Filtering or removing duplicates
-  - Filling up and filling down
-  - Transforming numerical fields
-  - Challenge: Add a new column
-  - Solution: Add a new column
+  - [Cleaning text fields](#cleaning-text-fields)
+  - [Removing or replacing values](#removing-or-replacing-values)
+  - [Splitting and concatenating fields](#splitting-and-concatenating-fields)
+  - [Text formulas](#text-formulas)
+  - [Filtering or removing duplicates](#filtering-or-removing-duplicates)
+  - [Filling up and filling down](#filling-up-and-filling-down)
+  - [Transforming numerical fields](#transforming-numerical-fields)
+  - [Challenge: Add a new column](#challenge-add-a-new-column)
+  - [Solution: Add a new column](#solution-add-a-new-column)
 - [**4. Working with Dates and Times**](#4-working-with-dates-and-times) (5 videos)
-  - Dates functions
-  - Creating a dates table
-  - Working with different time zones
-  - Challenge: Add a Date field
-  - Solution: Add a Date field
+  - [Dates functions](#dates-functions)
+  - [Creating a dates table](#creating-a-dates-table)
+  - [Working with different time zones](#working-with-different-time-zones)
+  - [Challenge: Add a Date field](#challenge-add-a-date-field)
+  - [Solution: Add a Date field](#solution-add-a-date-field)
 - [**5. Data Functions**](#5-data-functions) (8 videos)
-  - Using conditional functions
-  - Transposing tables
-  - Grouping fields and values
-  - Merging and appending data
-  - Pivoting and unpivoting data
-  - Parameters
-  - Custom functions
-  - Adding data types in M code
+  - [Using conditional functions](#using-conditional-functions)
+  - [Transposing tables](#transposing-tables)
+  - [Grouping fields and values](#grouping-fields-and-values)
+  - [Merging and appending data](#merging-and-appending-data)
+  - [Pivoting and unpivoting data](#pivoting-and-unpivoting-data)
+  - [Parameters](#parameters)
+  - [Custom functions](#custom-functions)
+  - [Adding data types in M code](#adding-data-types-in-m-code)
 - [**6. Relational Databases and Queries**](#6-relational-databases-and-queries) (3 videos)
-  - Working with relational databases
-  - Query folding
-  - Working with multidimensional databases
+  - [Working with relational databases](#working-with-relational-databases)
+  - [Query folding](#query-folding)
+  - [Working with multidimensional databases](#working-with-multidimensional-databases)
 - [**7. Loading Data**](#7-loading-data) (3 videos)
-  - Loading data
-  - Managing errors
-  - Refreshing data
+  - [Loading data](#loading-data)
+  - [Managing errors](#managing-errors)
+  - [Refreshing data](#refreshing-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with Power BI
+  - [Continuing on with Power BI](#continuing-on-with-power-bi)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The data at the core of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-data-at-the-core-of-power-bi?u=76281980)
@@ -140,7 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (10), power (2), bi (2), etl (1)
 > **Env Vars:** etl (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
@@ -166,7 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), let (1)
+> **Frameworks & Libraries:** power (6), bi (6), data (6), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
@@ -273,7 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), continue (3), default, (1), include. (1), type, (1)
+> **Frameworks & Libraries:** data (28), [[Search]] (6), power (3), bi (3), traffic (1)
 > **Env Vars:** csv (5), cdo (3), pdf (3), nws (1), noaa (1)
 > **UI Navigation:** click on (6), dropdown (2), select the (1), checkbox (1)
 > **Cross-References:** go back to (2), later in (1)
@@ -285,7 +285,7 @@ created: 2026-04-29
 
 ### 1. Extracting Data from Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with Power Query
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980)
@@ -330,7 +330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), function (1), interface (1), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (10), data (7), power (4), bi (4), [[Microsoft Excel|Excel]] (4)
 > **Analogies:** think of it as (1), for example (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is called (1)
@@ -382,8 +382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), power (7), bi (7), etl (5), [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** etl (5), dax (1)
-> **Code Keywords:** interface (1), import. (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -433,6 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Power Query|Power query]] (4), power (2), bi (2), [[Programming]] (1)
 > **Env Vars:** csv (1), dax (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), for instance (1)
@@ -442,7 +443,7 @@ created: 2026-04-29
 
 ### 2. Extracting Data from Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting to text files
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980)
@@ -561,7 +562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (6), include . (1), case. (1), this . (1)
+> **Frameworks & Libraries:** data (22), [[Microsoft Power Query|Power query]] (7), web (6), [[Metadata]] (2), application (1)
 > **Env Vars:** noaa (3), url (3), csv (2), etl (1), gsn (1)
 > **UI Navigation:** navigate to (1), open the (1), scroll down (1), double-click (1)
 > **Exercise Files:** exercise files (2)
@@ -665,8 +666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), web (5), [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (2), application (1)
 > **Env Vars:** csv (10), url (4), zip (2), ftp (2), noaa (1)
-> **Code Keywords:** function (6), let (5), this. (1), continue (1)
 > **UI Navigation:** navigate to (3), select the (1), right-click (1), click on (1), open the (1)
 > **CLI Commands:** unzip (2), make (1)
 > **Definitions:** is a  (2), means that (1)
@@ -731,7 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), case. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), data (11), next (3), [[Metadata]] (3), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** select the (2), checkbox (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** csv (1)
@@ -794,7 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), data (7), web (5), [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel]] (1)
 > **Env Vars:** noa (2), url (2), html (1), xls (1)
 > **Analogies:** for example (2), just like (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -878,8 +879,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (2), [[Metadata]] (1), next (1)
 > **Env Vars:** pdf (9)
-> **Code Keywords:** let (6), override (1), from. (1)
 > **UI Navigation:** select the (3), scroll down (1), go to (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -963,7 +964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), this, (2), type, (1), type. (1)
+> **Frameworks & Libraries:** data (22), power (5), bi (5), [[Microsoft Power Query|Power query]] (4), [[Microsoft]] (1)
 > **Env Vars:** jpeg (3), url (2), png (2)
 > **UI Navigation:** select the (2), click on (1), dropdown (1)
 > **CLI Commands:** make (3)
@@ -1080,7 +1081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (4), continue (2), type, (1), type. (1)
+> **Frameworks & Libraries:** data (24), [[Microsoft Power Query|Power query]] (8), [[Microsoft Excel|Excel]] (8), power (4), bi (4)
 > **Env Vars:** csv (9), etl (1), json (1), url (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), previous video (1)
@@ -1166,8 +1167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (10), data (9), [[Microsoft Power Query|Power query]] (8), web (6), [[Metadata]] (2)
 > **Env Vars:** xml (13), html (10), url (4), ksba (1)
-> **Code Keywords:** let (7), for. (1), function (1)
 > **UI Navigation:** go to (2), click on (2), right-click (1), select the (1), checkbox (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1238,8 +1239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[JSON]] (15), [[Microsoft Power Query|Power query]] (4), [[Metadata]] (4), power (1)
 > **Env Vars:** json (15), noaa (1)
-> **Code Keywords:** let (2), this. (1), finally, (1)
 > **Warnings:** note that (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1328,8 +1329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (16), data (16), power (2), bi (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (16), url (4), metar (3), utc (2), ksba (1)
-> **Code Keywords:** let (7), interface (2), continue (2), return, (1), pass (1)
 > **Prerequisites:** set up (2), configure (1)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)
@@ -1381,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), public (1), function (1), continue (1)
+> **Frameworks & Libraries:** data (4), power (4), bi (4), api (2), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** url (3), api (2), csv (1)
 > **URLs:** [transportation.gov](https://transportation.gov) (2)
 > **UI Navigation:** open the (1)
@@ -1476,7 +1477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), public (3), case, (2), continue (2), interface (2)
+> **Frameworks & Libraries:** [[GitHub]] (16), data (7), web (3), power (2), bi (2)
 > **Tools:** github (16)
 > **Env Vars:** csv (7), url (4)
 > **Definitions:** is a  (3), in other words (1)
@@ -1558,7 +1559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), pass (1), continue (1)
+> **Frameworks & Libraries:** power (12), bi (12), [[Microsoft Power Query|Power query]] (5), data (4), cloud (2)
 > **Env Vars:** ide (3), utc (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1), click on (1)
@@ -1616,8 +1617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), data (7), power (4), bi (4), [[Pandas (Software)|Pandas]] (4)
 > **CLI Commands:** python (15), make (2)
-> **Code Keywords:** let (4), interface (1), continue (1)
 > **Prerequisites:** install (2), set up (1)
 > **Tools:** visual studio (1), anaconda (1)
 > **Env Vars:** ide (1)
@@ -1655,8 +1656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), api (2), [[Statistics]] (1), [[Microsoft Power Query|Power query]] (1), web (1)
 > **Env Vars:** api (2), bls (1), url (1), json (1)
-> **Code Keywords:** public (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1725,7 +1726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), finally, (1)
+> **Frameworks & Libraries:** data (9), api (4), [[JSON]] (3), web (2), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** api (4), json (3)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -1735,7 +1736,7 @@ created: 2026-04-29
 
 ### 3. Transforming Data with Cleaning Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cleaning text fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980)
@@ -1790,7 +1791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** data (5), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (2), right-click (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** noaa (1), gsn (1)
@@ -1850,7 +1851,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), power (1), bi (1)
 > **Analogies:** for example (3)
 > **Warnings:** be careful (2), caution (1)
 > **Env Vars:** intl (2)
@@ -1944,7 +1945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (2), type. (1), case, (1)
+> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** pdf (3), noaa (2)
 > **Cross-References:** later in (1)
 > **UI Navigation:** go to (1)
@@ -2027,7 +2028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (6), this, (2), finally, (1), from, (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2), data (2), next (1)
 > **Env Vars:** utc (6), metar (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -2116,7 +2117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), this, (1), switch (1), continue (1)
+> **Frameworks & Libraries:** data (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** tmax (1), tavg (1), noaa (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -2164,7 +2165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), let (1), extends (1), this, (1), case, (1)
+> **Frameworks & Libraries:** next (2), data (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (2), go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2216,7 +2217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (1), right-click (1)
 > **CLI Commands:** make (1)
 > **Versions:** 1.8 (1)
@@ -2240,6 +2241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -2283,8 +2285,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
@@ -2294,7 +2296,7 @@ created: 2026-04-29
 
 ### 4. Working with Dates and Times
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dates functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980)
@@ -2413,7 +2415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (4)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (3), data (2), power (1), bi (1)
 > **Env Vars:** utc (2), edl (1), pdf (1), etl (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
@@ -2501,7 +2503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (7), this. (1), this, (1), continue (1)
+> **Frameworks & Libraries:** data (3), next (2), power (1), bi (1), game (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** utc (1)
 > **Cross-References:** in the last (1)
@@ -2569,7 +2571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), this. (1), type. (1), this, (1)
+> **Frameworks & Libraries:** data (2), next (1), [[Microsoft Power Query|Power query]] (1), game (1)
 > **Env Vars:** utc (9)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** known as (1), is a  (1)
@@ -2595,8 +2597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
@@ -2629,14 +2631,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), finally, (1)
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 5. Data Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using conditional functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-conditional-functions?u=76281980)
@@ -2735,8 +2737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Power Query|Power query]] (2), api (1), web (1)
 > **Env Vars:** utc (12), metar (3), api (1)
-> **Code Keywords:** this, (3), let (2), else. (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2), select the (1)
 > **Cross-References:** earlier in (1)
@@ -2795,7 +2797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (1), include. (1)
+> **Frameworks & Libraries:** data (7), [[HTML]] (2), generic (1), [[Financial Statements]] (1)
 > **Env Vars:** html (2)
 > **UI Navigation:** click on (1), dropdown (1)
 > **Definitions:** is an  (1)
@@ -2872,7 +2874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2), continue (1)
+> **Frameworks & Libraries:** data (6), next (1), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** tmax (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -2970,8 +2972,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), power (3), bi (3), [[SQL]] (2), next (2)
 > **Env Vars:** utc (5), metar (2), sql (2), lax (2), api (1)
-> **Code Keywords:** let (6), case, (1), type, (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1), dropdown (1)
 > **Cross-References:** in the next (1)
@@ -3070,7 +3072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type, (1), case, (1)
+> **Frameworks & Libraries:** data (16), next (1), [[Microsoft Power Query|Power query]] (1), generic (1)
 > **Env Vars:** tmax (3), tmin (3)
 > **UI Navigation:** select the (1), open the (1), click on (1)
 > **CLI Commands:** find (1), make (1)
@@ -3181,7 +3183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type, (2), pass (2), self (1), else. (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Power Query|Power query]] (1), power (1), bi (1)
 > **Env Vars:** noaa (2), url (1), lax (1)
 > **UI Navigation:** dropdown (2), select the (1), go to (1)
 > **Prerequisites:** set up (2)
@@ -3307,7 +3309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (25), let (11), pass (2), this, (1)
+> **Frameworks & Libraries:** data (10), [[Microsoft Power Query|Power query]] (6), power (3), bi (3), [[Programming]] (1)
 > **Env Vars:** csv (10), noaa (3), lax (1)
 > **UI Navigation:** select the (1), dropdown (1), right-click (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -3386,7 +3388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (5), function (4), this, (3), this. (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Power Query|Power query]] (1), hit (1), next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** utc (1)
 > **Cross-References:** later in (1)
@@ -3397,7 +3399,7 @@ created: 2026-04-29
 
 ### 6. Relational Databases and Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980)
@@ -3484,8 +3486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), data (13), [[SQL]] (7), power (5), bi (5)
 > **Env Vars:** sql (10), hana (1), odbc (1), etl (1), ide (1)
-> **Code Keywords:** let (3), type. (1), import. (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (3)
 > **Cross-References:** earlier in (1)
@@ -3580,8 +3582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), database (7), data (3), [[Microsoft Power Query|Power query]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (9), etl (1), tavg (1), tmin (1), tmax (1)
-> **Code Keywords:** let (8), switch (2)
 > **UI Navigation:** click on (4), dropdown (1)
 > **Prerequisites:** set up (2)
 > **Warnings:** warning (1)
@@ -3652,8 +3654,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), data (6), [[DAX]] (5), power (5), bi (5)
 > **Env Vars:** dax (5), mdx (3), sql (2), api (1), pbx (1)
-> **Code Keywords:** let (4)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** as we saw (1), in the last (1)
 > **UI Navigation:** select the (2)
@@ -3663,7 +3665,7 @@ created: 2026-04-29
 
 ### 7. Loading Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980)
@@ -3762,7 +3764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), import. (1), continue (1)
+> **Frameworks & Libraries:** data (19), power (8), bi (7), [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** dropdown (2), navigate to (2), select the (1), go to (1), click on (1)
 > **CLI Commands:** make (2), find (2)
 > **Warnings:** warning (2)
@@ -3850,7 +3852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), catch. (1), type. (1)
+> **Frameworks & Libraries:** data (16), power (6), bi (6), [[Microsoft Power Query|Power query]] (2), next (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -3937,7 +3939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), case, (1), continue (1)
+> **Frameworks & Libraries:** data (18), power (17), bi (17), application (1), [[Scalability]] (1)
 > **UI Navigation:** click on (3), select the (1), navigate to (1), go to (1)
 > **Prerequisites:** set up (4)
 > **Env Vars:** lax (2), url (1)
@@ -3949,7 +3951,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980)
@@ -3970,6 +3972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), power (2), bi (2), [[LinkedIn]] (2), [[Dashboards]] (1)
 > **URLs:** [helendatadesign.com](https://helendatadesign.com) (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - we (1)

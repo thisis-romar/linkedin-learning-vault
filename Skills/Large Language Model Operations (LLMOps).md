@@ -9,7 +9,7 @@ level_advanced: 2
 tags:
   - skill
   - skill/large-language-model-operations-llmops
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Large%20Language%20Model%20Operations%20(LLMOps).md)

@@ -32,7 +32,7 @@ tags:
   - skill/technical-documentation
   - skill/diagramming
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20a%20Cloud%20Architecture%20Diagram.md)
@@ -51,50 +51,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - An in-depth look at cloud architecture diagrams
-  - What you need to know
+  - [An in-depth look at cloud architecture diagrams](#an-in-depth-look-at-cloud-architecture-diagrams)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Cloud Architecture Diagrams**](#1-cloud-architecture-diagrams) (16 videos)
-  - What is a cloud architecture diagram?
-  - Enterprise architecture diagrams
-  - UML examples for AI systems
-  - Business architecture diagrams
-  - Application architecture diagrams
-  - Data architecture diagrams
-  - Technology architecture diagrams
-  - Unified Modeling Language (UML) diagrams
-  - UML use case diagram overview
-  - UML component diagram overview
-  - UML deployment diagram overview
-  - UML sequence diagram overview
-  - UML state diagram overview
-  - UML activity diagram overview
-  - UML class diagram overview
-  - Organizational responsibilities
+  - [What is a cloud architecture diagram?](#what-is-a-cloud-architecture-diagram)
+  - [Enterprise architecture diagrams](#enterprise-architecture-diagrams)
+  - [UML examples for AI systems](#uml-examples-for-ai-systems)
+  - [Business architecture diagrams](#business-architecture-diagrams)
+  - [Application architecture diagrams](#application-architecture-diagrams)
+  - [Data architecture diagrams](#data-architecture-diagrams)
+  - [Technology architecture diagrams](#technology-architecture-diagrams)
+  - [Unified Modeling Language (UML) diagrams](#unified-modeling-language-uml-diagrams)
+  - [UML use case diagram overview](#uml-use-case-diagram-overview)
+  - [UML component diagram overview](#uml-component-diagram-overview)
+  - [UML deployment diagram overview](#uml-deployment-diagram-overview)
+  - [UML sequence diagram overview](#uml-sequence-diagram-overview)
+  - [UML state diagram overview](#uml-state-diagram-overview)
+  - [UML activity diagram overview](#uml-activity-diagram-overview)
+  - [UML class diagram overview](#uml-class-diagram-overview)
+  - [Organizational responsibilities](#organizational-responsibilities)
 - [**2. UML Diagram Types for Cloud Architecture**](#2-uml-diagram-types-for-cloud-architecture) (7 videos)
-  - Use case diagrams
-  - Class diagrams
-  - Activity diagrams
-  - Architecture diagrams
-  - Sequence diagrams
-  - State machine diagrams
-  - Creating UML diagrams
+  - [Use case diagrams](#use-case-diagrams)
+  - [Class diagrams](#class-diagrams)
+  - [Activity diagrams](#activity-diagrams)
+  - [Architecture diagrams](#architecture-diagrams)
+  - [Sequence diagrams](#sequence-diagrams)
+  - [State machine diagrams](#state-machine-diagrams)
+  - [Creating UML diagrams](#creating-uml-diagrams)
 - [**3. Creating Cloud Architecture Diagrams**](#3-creating-cloud-architecture-diagrams) (8 videos)
-  - Mind map diagrams
-  - Creating a mind map
-  - Use case diagram
-  - Create a use case class diagram
-  - Architecture diagram
-  - Create architecture diagram
-  - Sequence diagram
-  - State machine diagram
+  - [Mind map diagrams](#mind-map-diagrams)
+  - [Creating a mind map](#creating-a-mind-map)
+  - [Use case diagram](#use-case-diagram)
+  - [Create a use case class diagram](#create-a-use-case-class-diagram)
+  - [Architecture diagram](#architecture-diagram)
+  - [Create architecture diagram](#create-architecture-diagram)
+  - [Sequence diagram](#sequence-diagram)
+  - [State machine diagram](#state-machine-diagram)
 - [**4. Architectural Diagramming Tools for Cloud Architecture**](#4-architectural-diagramming-tools-for-cloud-architecture) (1 videos)
-  - Diagramming tools
+  - [Diagramming tools](#diagramming-tools)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An in-depth look at cloud architecture diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/an-in-depth-look-at-cloud-architecture-diagrams?u=76281980)
@@ -133,8 +133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Microsoft Word|Word]] (1), [[Programming]] (1)
 > **Analogies:** picture (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** uml (1)
 > **Speakers:** - [mark] (1)
 
@@ -167,7 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), finally, (1)
+> **Frameworks & Libraries:** cloud (6), [[Troubleshooting]] (1), [[Microsoft Azure|Azure]] (1), [[Google]] (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)
@@ -176,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Cloud Architecture Diagrams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a cloud architecture diagram?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980)
@@ -277,10 +277,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (24), [[Operational Excellence]] (6), application (5), [[Security]] (3), [[Google]] (2)
 > **Definitions:** is a  (2), is an  (1), defined as (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** public (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -343,7 +343,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** cloud (3), [[Enterprise Architecture]] (2), data (2), [[Digital Transformation]] (1), business (1)
 > **Analogies:** picture (2)
 > **Speakers:** - [instructor] (1)
 
@@ -430,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (3), case, (2)
+> **Frameworks & Libraries:** cloud (9), prompt (9), ai (7), aws (6), [[Microsoft Azure|Azure]] (6)
 > **Env Vars:** aws (6), iam (1)
 > **CLI Commands:** aws (6)
 > **Analogies:** such as (1), for example (1)
@@ -495,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1), function (1), let (1)
+> **Frameworks & Libraries:** business (13), cloud (2), [[SaaS]] (1), [[Security]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -580,7 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** application (8), cloud (7), business (3), data (3), [[Virtual Machines]] (2)
 > **Env Vars:** api (1), cli (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -680,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (16), application (6), [[Data Architecture]] (4), [[Unstructured Data]] (2), cloud (2)
 > **Prerequisites:** required to (1), you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -763,7 +763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (4), finally, (1), let (1), case, (1)
+> **Frameworks & Libraries:** management (4), application (4), cloud (2), aws (2), [[Enterprise Architecture]] (1)
 > **Env Vars:** aws (2), vpc (2)
 > **CLI Commands:** aws (2), find (1)
 > **Prerequisites:** set up (1)
@@ -808,6 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), [[Engineering]] (1)
 > **Env Vars:** uml (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -861,7 +862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** database (1)
 > **Env Vars:** imap (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -918,7 +919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1), public (1)
+> **Frameworks & Libraries:** cloud (2), web application (2), application (2), database (2), management (1)
 > **Env Vars:** uml (1), tcpip (1), crm (1)
 > **CLI Commands:** make (2)
 > **Documentation:** spec (2)
@@ -963,7 +964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), let (1)
+> **Frameworks & Libraries:** application (6), web (3), [[Hardware]] (2), cloud (2), aws (2)
 > **Env Vars:** aws (2), dns (1), cdn (1)
 > **CLI Commands:** aws (2), az (1)
 > **Definitions:** is a  (2)
@@ -1008,7 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1)
+> **Frameworks & Libraries:** [[Databases]] (1), database (1)
 > **Speakers:** - [instructor] (1)
 
 #### UML state diagram overview
@@ -1046,7 +1047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (5), function (3), let (1), case, (1)
+> **Frameworks & Libraries:** api (7), data (1), database (1)
 > **Env Vars:** api (7), cdn (1)
 > **Versions:** version 1 (3), version 2 (3)
 > **Definitions:** is an  (1)
@@ -1091,7 +1092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (1), application (1)
 > **Speakers:** - [instructor] (1)
 
 #### UML class diagram overview
@@ -1137,8 +1138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Software Design]] (1), [[Databases]] (1), database (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), class, (1)
 > **Env Vars:** uml (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1232,8 +1233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (18), teams (2), [[Security]] (1), [[Enterprise Architecture]] (1), [[Cloud Infrastructure]] (1)
 > **Documentation:** the documentation (4)
-> **Code Keywords:** finally, (1), require (1)
 > **Warnings:** keep in mind (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1241,7 +1242,7 @@ created: 2026-04-29
 
 ### 2. UML Diagram Types for Cloud Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use case diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980)
@@ -1426,7 +1427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), function (1), case. (1)
+> **Frameworks & Libraries:** cloud (9), application (3), business (2), [[Technical Documentation]] (1), [[Security]] (1)
 > **Analogies:** for example (2), picture (1)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** template (1)
@@ -1521,7 +1522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (4), public (3), class. (2), this. (2)
+> **Frameworks & Libraries:** cloud (13), [[PaaS|Platform as a service]] (2), [[Enterprise Architecture]] (1), business (1), functional (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** uml (1), aws (1)
@@ -1566,8 +1567,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), product (1), node (1), cloud (1)
 > **CLI Commands:** node (1), make (1)
-> **Code Keywords:** let (1), delete (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1658,9 +1659,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), database (6), aws (4), [[Hardware]] (3), dns (3)
 > **Env Vars:** uml (4), aws (4), dns (3), ec2 (3)
 > **CLI Commands:** aws (4), mysql (2), make (1), find (1)
-> **Code Keywords:** let (3), case, (2), public (1), this, (1)
 > **Definitions:** defined as (1), is an  (1), is a  (1)
 > **Analogies:** such as (3)
 > **Documentation:** the documentation (1)
@@ -1805,7 +1806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), case, (4), lambda (4), pass (1)
+> **Frameworks & Libraries:** api (4), cloud (3), [[Troubleshooting]] (2), business (1), web (1)
 > **Env Vars:** api (4), uml (2), cdn (1), http (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
@@ -1896,7 +1897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), lambda (2), case, (2), continue (1), for, (1)
+> **Frameworks & Libraries:** data (6), etl (1)
 > **Env Vars:** uml (2), cpu (1), etl (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -1970,9 +1971,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Google]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Decision-Making]] (1)
 > **URLs:** [diagrams.net](https://diagrams.net) (4), [draw.io](https://draw.io) (2)
 > **Env Vars:** uml (5), xml (1)
-> **Code Keywords:** let (3), interface (1), continue (1)
 > **UI Navigation:** select the (2), scroll down (2), click on (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** install (1)
@@ -1981,7 +1982,7 @@ created: 2026-04-29
 
 ### 3. Creating Cloud Architecture Diagrams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mind map diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980)
@@ -2090,8 +2091,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), cloud (5), aws (4), [[Diagramming]] (2), application (2)
 > **Env Vars:** aws (4), mfa (2), api (1)
-> **Code Keywords:** let (2), case, (1), this. (1), continue (1)
 > **CLI Commands:** aws (4)
 > **Analogies:** kind of like (1), for example (1)
 > **Definitions:** is an  (1)
@@ -2165,7 +2166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (3), this. (1)
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** xml (1), png (1), svg (1)
 > **Prerequisites:** set up (3)
 > **URLs:** [diagrams.net](https://diagrams.net) (2)
@@ -2251,7 +2252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (1), [[SaaS|Software as a service]] (1), application (1), [[Microsoft Products|Products]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
@@ -2296,7 +2297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1), continue (1)
+> **Frameworks & Libraries:** next (1), [[SaaS]] (1), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** uml (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** scroll down (1)
@@ -2360,8 +2361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), cloud (3), [[Hardware]] (3), data (3), web (3)
 > **Env Vars:** ec2 (2), aws (1), dns (1), cdn (1)
-> **Code Keywords:** static (3), let (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2460,10 +2461,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), aws (3), [[Microsoft Azure|Azure]] (2), [[Kubernetes]] (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** aws (3), ibm (2), ec2 (2), vpc (2), aws19 (1)
 > **CLI Commands:** find (4), aws (3), make (1)
 > **UI Navigation:** scroll down (4), select the (1)
-> **Code Keywords:** let (3), this. (1)
 > **URLs:** [diagrams.net](https://diagrams.net) (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -2552,7 +2553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2)
+> **Frameworks & Libraries:** [[Security]] (3), [[Tokens]] (3), aws (2), business (1), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** aws (2), find (1)
 > **Env Vars:** aws (2)
 > **Cross-References:** go back to (1)
@@ -2632,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), lambda (2), for, (1), case, (1), function (1)
+> **Frameworks & Libraries:** web (3), [[Security]] (2), application (1), database (1), next (1)
 > **CLI Commands:** make (1)
 > **URLs:** [diagrams.net](https://diagrams.net) (1)
 > **Env Vars:** ecc2 (1)
@@ -2642,7 +2643,7 @@ created: 2026-04-29
 
 ### 4. Architectural Diagramming Tools for Cloud Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diagramming tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980)
@@ -2699,7 +2700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), for. (1), finally, (1), require (1)
+> **Frameworks & Libraries:** cloud (8), [[Microsoft Products|Products]] (4), [[Microsoft Azure|Azure]] (3), [[Diagramming]] (2), [[Microsoft]] (2)
 > **Env Vars:** png (1), svg (1), aws (1)
 > **URLs:** [diagrams.net](https://diagrams.net) (2)
 > **CLI Commands:** aws (1)
@@ -2711,7 +2712,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/next-steps?u=76281980)
@@ -2740,7 +2741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1)
+> **Frameworks & Libraries:** next (1), [[Diagramming]] (1), cloud (1)
 > **URLs:** [diagrams.net](https://diagrams.net) (1)
 > **Speakers:** - [mark] (1)
 

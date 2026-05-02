@@ -26,7 +26,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20with%20ChatGPT.md)
@@ -45,38 +45,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - ChatGPT: The AI game changer
-  - How ChatGPT works
+  - [ChatGPT: The AI game changer](#chatgpt-the-ai-game-changer)
+  - [How ChatGPT works](#how-chatgpt-works)
 - [**1. Prompt Best Practices**](#1-prompt-best-practices) (4 videos)
-  - Providing context and using delimiters
-  - Use detailed instructions
-  - Challenge: Prompt refactor
-  - Solution: Prompt refactor
+  - [Providing context and using delimiters](#providing-context-and-using-delimiters)
+  - [Use detailed instructions](#use-detailed-instructions)
+  - [Challenge: Prompt refactor](#challenge-prompt-refactor)
+  - [Solution: Prompt refactor](#solution-prompt-refactor)
 - [**2. Advanced Techniques**](#2-advanced-techniques) (7 videos)
-  - Personas
-  - Splitting up complex tasks
-  - Custom instructions
-  - Leveraging multi-modality
-  - Socratic prompting
-  - Challenge: Writing copy
-  - Solution: Writing copy
+  - [Personas](#personas)
+  - [Splitting up complex tasks](#splitting-up-complex-tasks)
+  - [Custom instructions](#custom-instructions)
+  - [Leveraging multi-modality](#leveraging-multi-modality)
+  - [Socratic prompting](#socratic-prompting)
+  - [Challenge: Writing copy](#challenge-writing-copy)
+  - [Solution: Writing copy](#solution-writing-copy)
 - [**3. DALL-E 3 in ChatGPT**](#3-dall-e-3-in-chatgpt) (4 videos)
-  - What is DALL-E?
-  - DALL-E 3 best practices
-  - Challenge: Enrich a DALL-E prompt
-  - Solution: Enrich a DALL-E prompt
+  - [What is DALL-E?](#what-is-dall-e)
+  - [DALL-E 3 best practices](#dall-e-3-best-practices)
+  - [Challenge: Enrich a DALL-E prompt](#challenge-enrich-a-dall-e-prompt)
+  - [Solution: Enrich a DALL-E prompt](#solution-enrich-a-dall-e-prompt)
 - [**4. Security Considerations**](#4-security-considerations) (5 videos)
-  - ChatGPT security considerations
-  - Plans and data controls
-  - Hallucinations
-  - Challenge: Use data controls
-  - Solution: Use data controls
+  - [ChatGPT security considerations](#chatgpt-security-considerations)
+  - [Plans and data controls](#plans-and-data-controls)
+  - [Hallucinations](#hallucinations)
+  - [Challenge: Use data controls](#challenge-use-data-controls)
+  - [Solution: Use data controls](#solution-use-data-controls)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ChatGPT: The AI game changer
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Prompt Engineering]] (1), business (1), [[Security]] (1), [[Privacy]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - get (1)
 
@@ -142,14 +142,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new. (1), new, (1)
+> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (4), [[ChatGPT]] (2), prompt (2), [[Tokens]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Prompt Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing context and using delimiters
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980)
@@ -256,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), case. (2), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (15), prompt (10), [[Microsoft Products|Products]] (1), ai (1), product (1)
 > **Exercise Files:** template (3)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** python (1)
@@ -317,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), case, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), generic (1), prompt (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** csv (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -347,6 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), [[Prompt Engineering]] (1), [[LinkedIn]] (1), ai (1), [[ChatGPT]] (1)
 > **Speakers:** - [ronnie] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
@@ -389,15 +390,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (6), prompt (2), [[Prompt Engineering]] (2), ai (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
 
 ### 2. Advanced Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Personas
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980)
@@ -458,8 +459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (8), cloud (2), prompt (2), [[Analytics]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** cto (2), b2b (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
@@ -587,9 +588,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (9), prompt (3), [[Tokens]] (2), hit (1), [[Generative AI]] (1)
 > **Env Vars:** gpt (3), pdf (2), pptx (1)
 > **Exercise Files:** template (4), download the (1)
-> **Code Keywords:** this, (1), let (1), else. (1), this. (1)
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -639,7 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), prompt (2), [[Microsoft Products|Products]] (1), ai (1)
 > **Env Vars:** ceo (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -677,6 +678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), prompt (2), ai (1), data (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -747,7 +749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), abstract (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Customer Support]] (2), [[Swift (Programming Language)|Swift]] (2), ai (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -769,6 +771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (1), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [binaryville.com](https://binaryville.com) (1)
 > **Cross-References:** in the next (1)
@@ -808,7 +811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (4), [[ChatGPT]] (3), prompt (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -816,7 +819,7 @@ created: 2026-04-29
 
 ### 3. DALL-E 3 in ChatGPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DALL-E?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980)
@@ -837,6 +840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (4), product (1), [[ChatGPT]] (1), prompt (1), data (1)
 > **Env Vars:** dall (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -881,8 +885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[DALL-E]] (4), prompt (2), ai (1), [[Hardware]] (1)
 > **Env Vars:** dall (4)
-> **Code Keywords:** this. (2), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -907,6 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), [[LinkedIn]] (1), ai (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [ronnie] (1)
 > **Non-Speech:** (light upbeat music) (1)
@@ -950,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), prompt (5), [[LinkedIn]] (4), [[DALL-E]] (1), [[Prompt Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dall (1)
 > **Speakers:** - [ronnie] (1)
@@ -959,7 +964,7 @@ created: 2026-04-29
 
 ### 4. Security Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ChatGPT security considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980)
@@ -980,6 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[ChatGPT]] (3), [[Privacy]] (2), management (1), data (1)
 > **Prerequisites:** before we start (1), configure (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - before (1)
@@ -1035,7 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (2), default. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), data (7), teams (4), [[Privacy]] (3), [[Security]] (2)
 > **UI Navigation:** toggle (3), go to (2)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
@@ -1073,6 +1079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Tools:** notion (1)
@@ -1096,6 +1103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[ChatGPT]] (2), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1138,7 +1146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), data (4), [[Microsoft Excel|Excel]] (2), application (2), prompt (1)
 > **Env Vars:** csv (2)
 > **UI Navigation:** navigate to (1), toggle (1)
 > **Definitions:** is a  (1)
@@ -1148,7 +1156,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980)
@@ -1175,7 +1183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), [[Prompt Engineering]] (2), [[LinkedIn]] (1), [[ChatGPT]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [ronnie] (1)
 

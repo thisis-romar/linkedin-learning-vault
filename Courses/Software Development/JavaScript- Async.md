@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Async.md)
@@ -47,42 +47,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Implementing smart asynchronous code
-  - What you should know
-  - Environment setup
-  - Getting an OpenWeatherMap API key
+  - [Implementing smart asynchronous code](#implementing-smart-asynchronous-code)
+  - [What you should know](#what-you-should-know)
+  - [Environment setup](#environment-setup)
+  - [Getting an OpenWeatherMap API key](#getting-an-openweathermap-api-key)
 - [**1. Programming Asynchronously with Callbacks**](#1-programming-asynchronously-with-callbacks) (5 videos)
-  - Understanding what asynchronous means
-  - Defining asynchronous programming
-  - Using callbacks in asynchronous programming
-  - Implementing callbacks for problem-solving
-  - Using error checking with multiple callbacks
+  - [Understanding what asynchronous means](#understanding-what-asynchronous-means)
+  - [Defining asynchronous programming](#defining-asynchronous-programming)
+  - [Using callbacks in asynchronous programming](#using-callbacks-in-asynchronous-programming)
+  - [Implementing callbacks for problem-solving](#implementing-callbacks-for-problem-solving)
+  - [Using error checking with multiple callbacks](#using-error-checking-with-multiple-callbacks)
 - [**2. Programming Asynchronously with Promises**](#2-programming-asynchronously-with-promises) (8 videos)
-  - Understanding promises
-  - Building asynchronous code with promises
-  - Appending methods to resolved promises
-  - Using catch methods for rejected promises
-  - Using the finally method for executing handlers
-  - Preparing the all method for executing multiple promises
-  - Implementing the all method for executing multiple promises
-  - Making code backward-compatible with polyfill
+  - [Understanding promises](#understanding-promises)
+  - [Building asynchronous code with promises](#building-asynchronous-code-with-promises)
+  - [Appending methods to resolved promises](#appending-methods-to-resolved-promises)
+  - [Using catch methods for rejected promises](#using-catch-methods-for-rejected-promises)
+  - [Using the finally method for executing handlers](#using-the-finally-method-for-executing-handlers)
+  - [Preparing the all method for executing multiple promises](#preparing-the-all-method-for-executing-multiple-promises)
+  - [Implementing the all method for executing multiple promises](#implementing-the-all-method-for-executing-multiple-promises)
+  - [Making code backward-compatible with polyfill](#making-code-backward-compatible-with-polyfill)
 - [**3. Programming Asynchronously with Async/Await**](#3-programming-asynchronously-with-asyncawait) (4 videos)
-  - Understanding the async/await model
-  - Using async functions with await statements
-  - Using statements to handle errors in async/await code
-  - Making async/await code backward compatible with polyfill
+  - [Understanding the async/await model](#understanding-the-asyncawait-model)
+  - [Using async functions with await statements](#using-async-functions-with-await-statements)
+  - [Using statements to handle errors in async/await code](#using-statements-to-handle-errors-in-asyncawait-code)
+  - [Making async/await code backward compatible with polyfill](#making-asyncawait-code-backward-compatible-with-polyfill)
 - [**4. Programming Asynchronously with Web Workers**](#4-programming-asynchronously-with-web-workers) (5 videos)
-  - What is a web worker?
-  - Creating a web worker
-  - Sending data to a web worker
-  - Returning data from a web worker
-  - Identifying use cases for web workers
+  - [What is a web worker?](#what-is-a-web-worker)
+  - [Creating a web worker](#creating-a-web-worker)
+  - [Sending data to a web worker](#sending-data-to-a-web-worker)
+  - [Returning data from a web worker](#returning-data-from-a-web-worker)
+  - [Identifying use cases for web workers](#identifying-use-cases-for-web-workers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Asynchronous coding experience
+  - [Asynchronous coding experience](#asynchronous-coding-experience)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing smart asynchronous code
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/implementing-smart-asynchronous-code-22163789?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (7), await (1), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Env Vars:** xhr (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - do (1)
@@ -123,6 +123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), api (1), [[ECMAScript]] (1), [[AJAX]] (1)
 > **Env Vars:** api (1), http (1), es6 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -193,12 +194,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[HTML]] (3), api (2), [[Microsoft]] (2), [[JavaScript]] (2)
 > **Env Vars:** http (4), html (3), api (2)
 > **Tools:** visual studio (4), firefox (1), sublime (1), atom (1), github (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** open the (1), right-click (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (1)
 > **Analogies:** such as (1)
 
@@ -263,8 +264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), data (6), [[AJAX]] (2), hit (1), [[Windows]] (1)
 > **Env Vars:** api (9)
-> **Code Keywords:** require (2), let (2), finally, (1), continue (1)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
@@ -275,7 +276,7 @@ created: 2026-04-29
 
 ### 1. Programming Asynchronously with Callbacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding what asynchronous means
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-what-asynchronous-means-14342027?u=76281980)
@@ -326,6 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **Analogies:** imagine (2), for instance (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -390,7 +392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), case, (1), async (1)
+> **Frameworks & Libraries:** parallel (4), [[JavaScript]] (3), next (2), [[AJAX]] (1), [[Fetch]] (1)
 > **Definitions:** known as (2), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** xhr (1)
@@ -486,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (25), case, (2), default. (1), let (1), finally, (1)
+> **Frameworks & Libraries:** next (3), [[JavaScript]] (2), parallel (2), [[Microsoft Word|Word]] (2), [[HTML]] (2)
 > **Definitions:** is called (4), known as (1), is a  (1), is an  (1)
 > **Env Vars:** html (2), xml (1), http (1)
 > **Analogies:** such as (1), for instance (1)
@@ -628,8 +630,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), dom (6), api (4), [[JSON]] (4), feature (2)
 > **Env Vars:** url (9), dom (6), http (4), api (4), json (4)
-> **Code Keywords:** function (18), pass (6), let (3), switch (2)
 > **Code Identifiers:** successhandler (5), httprequest (4), responsetext (2), temptof (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
@@ -752,7 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), case, (2), for. (1), this, (1), if, (1)
+> **Frameworks & Libraries:** data (8), [[AJAX]] (2), api (2), next (1), dom (1)
 > **Env Vars:** url (2), api (2), xhr (1), dom (1), http (1)
 > **Code Identifiers:** failhandler (2), weatherdiv (2), httprequest (1), classlist (1)
 > **CLI Commands:** make (2)
@@ -762,7 +764,7 @@ created: 2026-04-29
 
 ### 2. Programming Asynchronously with Promises
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding promises
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-promises-14342019?u=76281980)
@@ -807,7 +809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), next (1)
 > **Documentation:** specification (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -853,7 +855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), pass (2), let (1), case, (1)
+> **Frameworks & Libraries:** data (3), [[JavaScript]] (2), [[Fetch]] (1), [[JSON]] (1)
 > **API Endpoints:** get  (5), get
  (1)
 > **Env Vars:** xhr (2), http (1), url (1), json (1)
@@ -916,7 +918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), pass (2), let (1)
+> **Frameworks & Libraries:** data (5), dom (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** http (1)
 > **Definitions:** is a  (1)
@@ -995,7 +997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), catch, (1), catch. (1), let (1)
+> **Frameworks & Libraries:** api (3), [[JavaScript]] (2), data (2), web (1), dom (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -1067,7 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), catch, (1), function (1)
+> **Frameworks & Libraries:** api (2), dom (1), [[HTML]] (1)
 > **Env Vars:** api (2), html (1)
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Speakers:** - in (1)
@@ -1113,7 +1115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1), raise (1)
+> **Frameworks & Libraries:** data (1), dom (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1227,7 +1229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), pass (3), for. (1), this. (1), const (1)
+> **Frameworks & Libraries:** dom (3), api (3), [[HTML]] (3), next (2), data (2)
 > **Env Vars:** api (3), url (3), html (3)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (4)
@@ -1268,6 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[AJAX]] (2), [[HTML]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cdn (1), html (1)
 > **File Paths:** ajax.js (1)
@@ -1277,7 +1280,7 @@ created: 2026-04-29
 
 ### 3. Programming Asynchronously with Async/Await
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the async/await model
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-the-async-await-model-14344029?u=76281980)
@@ -1310,7 +1313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (6), await (6), function (4), case, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using async functions with await statements
@@ -1418,7 +1421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), async (7), await (6), switch (1)
+> **Frameworks & Libraries:** next (5), data (3), dom (2), [[JavaScript]] (1), parallel (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** dom (2), url (2), iife (1)
 > **Exercise Files:** template (1)
@@ -1485,7 +1488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (6), function (5), await (3), switch (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), generic (1), api (1)
 > **Env Vars:** api (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1527,7 +1530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (10), await (8), function (2)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1535,7 +1538,7 @@ created: 2026-04-29
 
 ### 4. Programming Asynchronously with Web Workers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a web worker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/what-is-a-web-worker-14338950?u=76281980)
@@ -1564,7 +1567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (2), await (1), interface (1)
+> **Frameworks & Libraries:** web (5), [[JavaScript]] (3), [[AJAX]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Env Vars:** ajax (1)
@@ -1683,7 +1686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), require (1), switch (1), let (1), interface (1)
+> **Frameworks & Libraries:** web (4), [[Image Processing]] (2), feature (1), power (1), data (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dom (1)
 > **Tools:** visual studio (1)
@@ -1839,8 +1842,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), web (6), next (1)
 > **Code Identifiers:** applyfilter (7), postmessage (5), workerresult (2), addeventlistener (1), imagedataobj (1)
-> **Code Keywords:** function (6), pass (5), let (2), this. (1)
 > **File Paths:** filters.js (2), filter-worker.js (1), filter.js (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1930,7 +1933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (2), pass (2), let (1), this. (1)
+> **Frameworks & Libraries:** data (12), web (7), hit (4), [[Image Processing]] (2), next (1)
 > **File Paths:** filters.js (5), worker.js (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** addeventlistener (1)
@@ -1969,6 +1972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[WebSocket]] (3), [[WebSocket|Websockets]] (2), feature (1), dom (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1976,7 +1980,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Asynchronous coding experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980)
@@ -1999,6 +2003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), data (1), [[AJAX]] (1)
 > **Env Vars:** http (1)
 > **Speakers:** - [sasha] (1)
 

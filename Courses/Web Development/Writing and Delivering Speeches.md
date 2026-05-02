@@ -28,7 +28,7 @@ tags:
   - skill/public-speaking
   - skill/speech-writing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Writing%20and%20Delivering%20Speeches.md)
@@ -47,26 +47,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - So, you're giving a speech
-  - Speeches vs. presentations
+  - [So, you're giving a speech](#so-youre-giving-a-speech)
+  - [Speeches vs. presentations](#speeches-vs-presentations)
 - [**1. Before You Write and Deliver Your Speech**](#1-before-you-write-and-deliver-your-speech) (2 videos)
-  - Understand your target audience
-  - Confirm your logistics
+  - [Understand your target audience](#understand-your-target-audience)
+  - [Confirm your logistics](#confirm-your-logistics)
 - [**2. Writing and Delivering Speeches for Various Scenarios**](#2-writing-and-delivering-speeches-for-various-scenarios) (8 videos)
-  - Staging your virtual speech
-  - Giving a virtual speech
-  - Speaking to inform
-  - Speaking to persuade
-  - Delivering bad news
-  - Speaking at a special occasion
-  - Accepting an award
-  - Preparing an impromptu speech
+  - [Staging your virtual speech](#staging-your-virtual-speech)
+  - [Giving a virtual speech](#giving-a-virtual-speech)
+  - [Speaking to inform](#speaking-to-inform)
+  - [Speaking to persuade](#speaking-to-persuade)
+  - [Delivering bad news](#delivering-bad-news)
+  - [Speaking at a special occasion](#speaking-at-a-special-occasion)
+  - [Accepting an award](#accepting-an-award)
+  - [Preparing an impromptu speech](#preparing-an-impromptu-speech)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Deliver with confidence
+  - [Deliver with confidence](#deliver-with-confidence)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### So, you're giving a speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/so-you-re-giving-a-speech?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** business (1)
 > **Speakers:** - the (1)
 
 #### Speeches vs. presentations
@@ -151,6 +151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
@@ -158,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Before You Write and Deliver Your Speech
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand your target audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/understand-your-target-audience?u=76281980)
@@ -235,8 +236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Speech Writing]] (1), [[Search]] (1), generic (1), next (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** this. (1), self (1)
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before you begin (1)
@@ -331,6 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -339,7 +341,7 @@ created: 2026-04-29
 
 ### 2. Writing and Delivering Speeches for Various Scenarios
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Staging your virtual speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/staging-your-virtual-speech?u=76281980)
@@ -417,7 +419,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** require (1), let (1), finally, (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
@@ -508,9 +509,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **Analogies:** picture (4)
-> **Code Keywords:** else, (1), finally, (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -607,8 +608,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** gps (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - when (1)
@@ -694,9 +695,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (1), [[Decision-Making]] (1), data (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (1), for example (1)
-> **Code Keywords:** require (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - even (1)
 
@@ -783,8 +784,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), [[LinkedIn]] (1), management (1), leadership (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), for example (1)
 > **Warnings:** be careful (1), keep in mind (1)
@@ -884,8 +885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), raise (1), this. (1)
 > **Best Practices:** remember to (1), don't forget (1)
 > **Warnings:** caution (1), keep in mind (1)
 > **Env Vars:** kiss (1)
@@ -969,7 +970,6 @@ created: 2026-04-29
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** thank (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - congratulations (1)
@@ -1059,16 +1059,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** prep (2), scr (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (2)
 > **Definitions:** is an  (1), stands for (1)
 > **Speakers:** - the (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deliver with confidence
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/deliver-with-confidence?u=76281980)
@@ -1131,8 +1131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** public (1), this. (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - as (1)

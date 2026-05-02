@@ -36,7 +36,7 @@ tags:
   - skill/github
   - skill/data-pipelines
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Pipeline%20Automation%20with%20GitHub%20Actions%20Using%20R%20and%20Python.md)
@@ -55,51 +55,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Data pipeline automation with GitHub Actions
-  - What you should know
+  - [Data pipeline automation with GitHub Actions](#data-pipeline-automation-with-github-actions)
+  - [What you should know](#what-you-should-know)
 - [**1. EIA API**](#1-eia-api) (17 videos)
-  - EIA API
-  - Setting an environment variable
-  - The EIA API dashboard
-  - GET request structure
-  - Querying the data via the browser
-  - Querying data with R and Python
-  - Pulling metadata from API with R
-  - Sending a simple GET request with R
-  - API limitations with R
-  - Handling a large data request with R
-  - Pulling metadata from API with Python
-  - Sending a simple GET request with Python
-  - API limitations with Python
-  - Handling a large data request with Python
-  - Challenge: Query the API
-  - Solution: Query the API with R
-  - Solution: Query the API with Python
+  - [EIA API](#eia-api)
+  - [Setting an environment variable](#setting-an-environment-variable)
+  - [The EIA API dashboard](#the-eia-api-dashboard)
+  - [GET request structure](#get-request-structure)
+  - [Querying the data via the browser](#querying-the-data-via-the-browser)
+  - [Querying data with R and Python](#querying-data-with-r-and-python)
+  - [Pulling metadata from API with R](#pulling-metadata-from-api-with-r)
+  - [Sending a simple GET request with R](#sending-a-simple-get-request-with-r)
+  - [API limitations with R](#api-limitations-with-r)
+  - [Handling a large data request with R](#handling-a-large-data-request-with-r)
+  - [Pulling metadata from API with Python](#pulling-metadata-from-api-with-python)
+  - [Sending a simple GET request with Python](#sending-a-simple-get-request-with-python)
+  - [API limitations with Python](#api-limitations-with-python)
+  - [Handling a large data request with Python](#handling-a-large-data-request-with-python)
+  - [Challenge: Query the API](#challenge-query-the-api)
+  - [Solution: Query the API with R](#solution-query-the-api-with-r)
+  - [Solution: Query the API with Python](#solution-query-the-api-with-python)
 - [**2. Data Automation**](#2-data-automation) (7 videos)
-  - Data pipeline scope and requirements
-  - Data pipeline architecture
-  - Data refresh process
-  - ETL supporting functions
-  - Data backfilling
-  - Data refresh output
-  - Data quality checks
+  - [Data pipeline scope and requirements](#data-pipeline-scope-and-requirements)
+  - [Data pipeline architecture](#data-pipeline-architecture)
+  - [Data refresh process](#data-refresh-process)
+  - [ETL supporting functions](#etl-supporting-functions)
+  - [Data backfilling](#data-backfilling)
+  - [Data refresh output](#data-refresh-output)
+  - [Data quality checks](#data-quality-checks)
 - [**3. Deployment**](#3-deployment) (7 videos)
-  - Introduction to GitHub Actions
-  - Deployment with Docker
-  - Setting GitHub Actions workflow
-  - Reviewing workflows logs
-  - Setting secrets and environment variables
-  - Advanced workflow
-  - Data pipeline deployment
+  - [Introduction to GitHub Actions](#introduction-to-github-actions)
+  - [Deployment with Docker](#deployment-with-docker)
+  - [Setting GitHub Actions workflow](#setting-github-actions-workflow)
+  - [Reviewing workflows logs](#reviewing-workflows-logs)
+  - [Setting secrets and environment variables](#setting-secrets-and-environment-variables)
+  - [Advanced workflow](#advanced-workflow)
+  - [Data pipeline deployment](#data-pipeline-deployment)
 - [**4. Monitoring**](#4-monitoring) (2 videos)
-  - Data pipeline maintenance
-  - Deploying dashboard to GitHub Pages
+  - [Data pipeline maintenance](#data-pipeline-maintenance)
+  - [Deploying dashboard to GitHub Pages](#deploying-dashboard-to-github-pages)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data pipeline automation with GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980)
@@ -128,10 +128,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[GitHub]] (2), [[Dashboards]] (1), [[Python (Programming Language)|Python]] (1), [[Automation]] (1)
 > **Env Vars:** eia (1), api (1)
 > **Tools:** github (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - do (1)
 
 #### What you should know
@@ -153,6 +153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Git]] (1)
 > **CLI Commands:** python (2), docker (2), git (1)
 > **Tools:** command line (1), vs code (1)
 > **Best Practices:** recommended (1)
@@ -161,7 +162,7 @@ created: 2026-04-29
 
 ### 1. EIA API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### EIA API
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980)
@@ -208,8 +209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), data (3), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** api (11), eia (5), eai (1), co2 (1), register (1)
-> **Code Keywords:** let (3), public (1)
 > **URLs:** [eia.gov](https://eia.gov) (3)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** python (1), find (1)
@@ -282,7 +283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), export, (2), switch (1), default, (1)
+> **Frameworks & Libraries:** application (2), api (1), [[Linux]] (1), [[Windows]] (1)
 > **Tools:** terminal (6), vim (2)
 > **Env Vars:** eia_api_key (3), api (1)
 > **Warnings:** note that (1), be aware (1)
@@ -358,8 +359,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), data (7), [[Search]] (1), [[Python (Programming Language)|Python]] (1), power (1)
 > **Env Vars:** api (9), ciso (2), json (1), url (1)
-> **Code Keywords:** let (7), case, (1)
 > **UI Navigation:** select the (4), open the (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** python (1)
@@ -438,9 +439,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (29), data (14), application (3), [[Metadata]] (2), next (2)
 > **Env Vars:** api (28), eia (2), http (1), rto (1), ciso (1)
 > **API Endpoints:** get  (9)
-> **Code Keywords:** let (3), switch (1), case, (1), continue (1)
 > **Versions:** version 2 (3), version 1 (2)
 > **Definitions:** is a  (2), means that (2), stands for (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
@@ -518,8 +519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), data (4), [[JSON]] (4), [[Metadata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (8), json (4), pgae (1), api_key_missing (1)
-> **Code Keywords:** let (4), case, (3), pass (2), default, (1)
 > **API Endpoints:** get  (3)
 > **CLI Commands:** make (1), python (1)
 > **Code Identifiers:** api_key (2)
@@ -570,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), data (7), [[Python (Programming Language)|Python]] (6), [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (12), eia (7), cran (1)
-> **Code Keywords:** function (7), continue (1)
 > **CLI Commands:** python (6)
 > **Versions:** version 0 (1), 1.2 (1)
 > **Definitions:** is a  (1)
@@ -632,8 +633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), data (6), [[Metadata]] (5), next (2), [[RStudio]] (1)
 > **Env Vars:** api (11), pgae (2)
-> **Code Keywords:** let (5), function (4), continue (1), case, (1)
 > **API Endpoints:** get  (5)
 > **Code Identifiers:** eia_metadata (2), api_key (1), api_meta_path (1)
 > **CLI Commands:** find (1)
@@ -728,8 +729,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), [[Metadata]] (7), data (7), next (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (11), eia (5), utc (3), pgae (3), ciso (2)
-> **Code Keywords:** function (11), let (9), case, (2)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **Definitions:** is a  (1), defined as (1)
 > **Analogies:** similar to (1)
@@ -822,7 +823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (7)
+> **Frameworks & Libraries:** data (9), api (3), next (3), [[Zoom]] (2), ai (1)
 > **Cross-References:** in the next (2), previous video (1), go back to (1)
 > **Env Vars:** api (3)
 > **Analogies:** for example (3)
@@ -900,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (8)
+> **Frameworks & Libraries:** data (6), api (6), next (1)
 > **Env Vars:** api (6), eia (5), posix (2), utc (1)
 > **Analogies:** for example (1), kind of like (1)
 > **Best Practices:** make sure to (1), recommended (1)
@@ -969,8 +970,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), [[Metadata]] (7), data (4), next (3), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** api (11), eia_api (4), pgae (2), eia (1), eia_api_key (1)
-> **Code Keywords:** let (7), continue (3), function (3), from. (1), pass (1)
 > **CLI Commands:** python (2), make (1)
 > **API Endpoints:** get  (2)
 > **Cross-References:** in the next (2)
@@ -1055,8 +1056,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (16), data (13), [[Metadata]] (7), next (2), ai (1)
 > **Env Vars:** api (16), eia (3), pgae (3), utc (2), ciso (2)
-> **Code Keywords:** function (7), let (7), case, (2), pass (1), return. (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **Definitions:** stands for (2), is a  (1)
 > **UI Navigation:** go to (1)
@@ -1134,7 +1135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4)
+> **Frameworks & Libraries:** data (8), api (3), next (2), ai (2), [[Zoom]] (1)
 > **Env Vars:** api (3), iget (2), df1 (1), tf1 (1)
 > **Cross-References:** previous video (2), in the next (2), go back to (1)
 > **UI Navigation:** select the (1)
@@ -1206,7 +1207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (4)
+> **Frameworks & Libraries:** api (5), data (5), next (1)
 > **Code Identifiers:** eia_get (4), eia_backfill (2)
 > **Env Vars:** api (5)
 > **Cross-References:** previous video (1)
@@ -1233,9 +1234,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Metadata]] (2), [[Python (Programming Language)|Python]] (2), api (1)
 > **Env Vars:** eia (2), api (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** function (1)
 > **Code Identifiers:** eia_backfill (1)
 > **API Endpoints:** get  (1)
 > **Speakers:** - [instructor] (1)
@@ -1390,7 +1391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (12), require (1)
+> **Frameworks & Libraries:** api (10), data (9), [[Metadata]] (5), next (4), power (1)
 > **Env Vars:** api (10), sdge (3), ciso (2), utc (2), posix (2)
 > **UI Navigation:** select the (6), go to (1), scroll down (1)
 > **Code Identifiers:** eia_backfill (4), eia_get (3)
@@ -1564,7 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (6), case, (2), self (1)
+> **Frameworks & Libraries:** data (17), api (11), next (5), [[Metadata]] (3), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** api (11), sdge (4), ciso (3), ai_api (1), eia_api (1)
 > **UI Navigation:** go to (5), select the (3), navigate to (1), scroll down (1), click on (1)
 > **Definitions:** stands for (2), is a  (1)
@@ -1576,7 +1577,7 @@ created: 2026-04-29
 
 ### 2. Data Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data pipeline scope and requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980)
@@ -1631,9 +1632,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), api (3), [[Python (Programming Language)|Python]] (3), [[Data Transformation]] (1), etl (1)
 > **Env Vars:** api (3), etl (1), json (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (2)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **Definitions:** defined as (1), stands for (1)
 > **Analogies:** such as (2)
@@ -1681,7 +1682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), require (1), case, (1)
+> **Frameworks & Libraries:** data (21), api (4), [[GitHub]] (4), [[Metadata]] (3), next (1)
 > **Env Vars:** api (4), eia (1)
 > **Tools:** github (4)
 > **Cross-References:** previous video (1), previous chapter (1), next chapter (1)
@@ -1754,7 +1755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), case, (3), let (2), this, (1)
+> **Frameworks & Libraries:** data (29), [[GitHub]] (5), [[Metadata]] (4), api (4), next (2)
 > **Env Vars:** api (4), html (1)
 > **Tools:** github (5)
 > **API Endpoints:** get  (3)
@@ -1810,8 +1811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Metadata]] (7), etl (2), api (2), [[JSON]] (1)
 > **Code Identifiers:** create_metadata (1), load_metadata (1), get_metadata (1), append_metadata (1), append_data (1)
-> **Code Keywords:** function (5)
 > **Env Vars:** etl (2), api (2), json (1)
 > **Cross-References:** previous video (1), previous chapter (1)
 > **Definitions:** is an  (1)
@@ -1919,8 +1920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Metadata]] (9), [[Python (Programming Language)|Python]] (6), api (4), [[JSON]] (3)
 > **CLI Commands:** python (6), find (3), make (1)
-> **Code Keywords:** let (4), function (3), override (1), case, (1)
 > **Env Vars:** api (4), html (3), json (2)
 > **Code Identifiers:** data_backfile_py (2), eia_api (1), eia_data (1)
 > **Definitions:** is a  (2), defined as (1)
@@ -2009,9 +2010,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), api (6), [[Metadata]] (6), [[Python (Programming Language)|Python]] (5), [[HTML]] (2)
 > **Env Vars:** api (6), html (2), false (2), json (1), true (1)
 > **CLI Commands:** python (5), find (1)
-> **Code Keywords:** function (2), let (2), case, (2)
 > **Code Identifiers:** updates_available (2), data_refresh_python (1), get_metadata (1)
 > **Analogies:** for example (2), similar to (1)
 > **Documentation:** the docs (2)
@@ -2075,8 +2076,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), api (1), [[Metadata]] (1)
 > **Analogies:** for example (5), such as (1)
-> **Code Keywords:** function (2), let (1), raise (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the last (1)
 > **Best Practices:** recommended (1)
@@ -2085,7 +2086,7 @@ created: 2026-04-29
 
 ### 3. Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980)
@@ -2162,10 +2163,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Automation]] (3), [[Ubuntu]] (2), data (2), api (2)
 > **Tools:** github (9), bash (1)
 > **CLI Commands:** docker (4), cd (1), git (1), make (1)
 > **Env Vars:** api (2), yaml (2), eia (1)
-> **Code Keywords:** let (3), default, (1)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (1), recommended (1)
@@ -2202,6 +2203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1), data (1), [[Automation]] (1)
 > **CLI Commands:** docker (6), python (2)
 > **Cross-References:** previous video (1), in the next (1)
 > **Tools:** github (2)
@@ -2425,7 +2427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), this, (1), default, (1)
+> **Frameworks & Libraries:** [[GitHub]] (11), next (5), [[Git]] (5), [[Python (Programming Language)|Python]] (4), [[Ubuntu]] (3)
 > **Tools:** github (11), command line (2), bash (2), vs code (1), terminal (1)
 > **CLI Commands:** git (5), python (4), make (1), docker (1), python3 (1)
 > **UI Navigation:** go to (3), open the (2), click on (1), select the (1)
@@ -2485,7 +2487,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **Cross-References:** previous video (2), go back to (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -2525,6 +2526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), api (3), next (1)
 > **Env Vars:** api (3)
 > **Tools:** github (3)
 > **UI Navigation:** open the (1), select the (1), go to (1)
@@ -2606,9 +2608,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), data (3), [[GitHub]] (3), feature (3), [[Automation]] (2)
 > **Cross-References:** previous video (2), in the next (2)
 > **Tools:** github (3), command line (1)
-> **Code Keywords:** case, (2), let (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), git (1)
 > **Analogies:** such as (1)
@@ -2681,9 +2683,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (6), [[GitHub]] (3), next (3), api (1)
 > **Tools:** bash (6), github (3)
 > **CLI Commands:** python (7), make (1)
-> **Code Keywords:** let (5)
 > **Cross-References:** as we saw (2), in the next (2), previous video (1)
 > **File Paths:** data_refresh_py.yml (1), data_refresh_r.yml (1)
 > **Documentation:** the docs (2)
@@ -2693,7 +2695,7 @@ created: 2026-04-29
 
 ### 4. Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data pipeline maintenance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980)
@@ -2738,9 +2740,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[GitHub]] (3), feature (2), [[Python (Programming Language)|Python]] (2), next (1)
 > **CLI Commands:** python (2), make (1), docker (1)
 > **Tools:** github (3)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2802,9 +2804,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (8), [[HTML]] (7), [[Dashboards]] (3), data (3), [[Python (Programming Language)|Python]] (3)
 > **Tools:** github (8), bash (2)
 > **Env Vars:** html (4), qmd (1), url (1)
-> **Code Keywords:** let (3), case, (1)
 > **File Paths:** index.html (3)
 > **CLI Commands:** python (3)
 > **Documentation:** the docs (3)
@@ -2814,7 +2816,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/next-steps?u=76281980)
@@ -2831,6 +2833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), [[Engineering]] (1)
 > **Speakers:** - congratulations (1)
 
 

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/explore-a-career-in-computer-forens
 course_count: 9
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 4
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/security
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/Explore%20a%20Career%20in%20Computer%20Forensics.md)

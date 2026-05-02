@@ -41,7 +41,7 @@ tags:
   - skill/ethical-leadership
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Responsible%20AI%20Program-%20Context%2C%20Culture%2C%20Content%2C%20and%20Commitment.md)
@@ -60,43 +60,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Actionable steps to responsible AI
-  - Moving from principles to practice
-  - Introducing the Landon Hotel
+  - [Actionable steps to responsible AI](#actionable-steps-to-responsible-ai)
+  - [Moving from principles to practice](#moving-from-principles-to-practice)
+  - [Introducing the Landon Hotel](#introducing-the-landon-hotel)
 - [**1. Context: Law, Ethics, and AI Risk**](#1-context-law-ethics-and-ai-risk) (5 videos)
-  - Connector: Start with context
-  - The AI legal landscape
-  - Understanding ethical AI risks
-  - Getting clear on organizational values and AI risks
-  - The AI ethics statement, policies, and metrics
+  - [Connector: Start with context](#connector-start-with-context)
+  - [The AI legal landscape](#the-ai-legal-landscape)
+  - [Understanding ethical AI risks](#understanding-ethical-ai-risks)
+  - [Getting clear on organizational values and AI risks](#getting-clear-on-organizational-values-and-ai-risks)
+  - [The AI ethics statement, policies, and metrics](#the-ai-ethics-statement-policies-and-metrics)
 - [**2. Context: AI in Your Organization**](#2-context-ai-in-your-organization) (2 videos)
-  - Documenting AI
-  - Procurement and Shadow AI
+  - [Documenting AI](#documenting-ai)
+  - [Procurement and Shadow AI](#procurement-and-shadow-ai)
 - [**3. Culture: Establishing Governance Structures**](#3-culture-establishing-governance-structures) (5 videos)
-  - Connector: From context to culture
-  - Tone at the top
-  - Existing roles
-  - The AI ethics committee
-  - Diversity and stakeholders
+  - [Connector: From context to culture](#connector-from-context-to-culture)
+  - [Tone at the top](#tone-at-the-top)
+  - [Existing roles](#existing-roles)
+  - [The AI ethics committee](#the-ai-ethics-committee)
+  - [Diversity and stakeholders](#diversity-and-stakeholders)
 - [**4. Content: Managing Data and AI Models**](#4-content-managing-data-and-ai-models) (7 videos)
-  - Connector: From culture to content
-  - The big three: Privacy, bias, and explainability
-  - Addressing privacy, bias, and explainability in your AI program
-  - Data done right
-  - Document, document, document
-  - Environmental impacts
-  - A brief word about cybersecurity
+  - [Connector: From culture to content](#connector-from-culture-to-content)
+  - [The big three: Privacy, bias, and explainability](#the-big-three-privacy-bias-and-explainability)
+  - [Addressing privacy, bias, and explainability in your AI program](#addressing-privacy-bias-and-explainability-in-your-ai-program)
+  - [Data done right](#data-done-right)
+  - [Document, document, document](#document-document-document)
+  - [Environmental impacts](#environmental-impacts)
+  - [A brief word about cybersecurity](#a-brief-word-about-cybersecurity)
 - [**5. Commitment**](#5-commitment) (4 videos)
-  - Connector: Moving to commitment
-  - Model drift and monitoring
-  - The role of independent audit
-  - Nurturing a responsible AI culture
+  - [Connector: Moving to commitment](#connector-moving-to-commitment)
+  - [Model drift and monitoring](#model-drift-and-monitoring)
+  - [The role of independent audit](#the-role-of-independent-audit)
+  - [Nurturing a responsible AI culture](#nurturing-a-responsible-ai-culture)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The journey of responsible AI
+  - [The journey of responsible AI](#the-journey-of-responsible-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Actionable steps to responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/actionable-steps-to-responsible-ai?u=76281980)
@@ -121,7 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** ai (3), [[Responsible AI]] (2), business (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
@@ -201,7 +201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2), let (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (10), ai (5), [[Accountability]] (2), [[Ethics]] (2), [[Privacy]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -247,6 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), business (1), [[Supply Chain Management]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (1)
 > **URLs:** [landonhotel.com](https://landonhotel.com) (1)
@@ -255,7 +256,7 @@ created: 2026-04-29
 
 ### 1. Context: Law, Ethics, and AI Risk
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connector: Start with context
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-start-with-context?u=76281980)
@@ -286,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (5), data (1), [[Privacy]] (1), [[ChatGPT]] (1), ai (1)
 > **Analogies:** picture (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - typically (1)
@@ -382,9 +383,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Privacy]] (8), data (7), [[Responsible AI]] (3), [[Microsoft Word|Word]] (2)
 > **Analogies:** for example (3), such as (1), similar to (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (2)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **Best Practices:** it's best to (2)
 > **Warnings:** be aware (1)
@@ -457,7 +458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), finally, (1)
+> **Frameworks & Libraries:** ai (22), [[Privacy]] (4), management (4), data (3), business (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -548,9 +549,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Programming]] (1), [[Generative AI]] (1), data (1), management (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (3), is an  (2)
-> **Code Keywords:** this. (1), let (1), require (1)
 > **Analogies:** for example (2)
 > **Speakers:** - one (1)
 
@@ -627,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1), finally, (1)
+> **Frameworks & Libraries:** ai (9), [[Ethics]] (5), [[Privacy]] (5), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
@@ -638,7 +639,7 @@ created: 2026-04-29
 
 ### 2. Context: AI in Your Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Documenting AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980)
@@ -715,11 +716,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), business (3), management (2), [[Generative AI]] (2), hr (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** crm (1), oecd (1)
 > **Analogies:** such as (1), picture (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - several (1)
 
@@ -794,6 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Responsible AI]] (2), [[Decision-Making]] (1), [[Ethics]] (1), [[SaaS|Software as a service]] (1)
 > **Env Vars:** aia (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -803,7 +805,7 @@ created: 2026-04-29
 
 ### 3. Culture: Establishing Governance Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connector: From context to culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980)
@@ -820,8 +822,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (3), management (1), [[Organizational Culture]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 
 #### Tone at the top
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/tone-at-the-top?u=76281980)
@@ -878,6 +880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (8), leadership (5), [[Ethics]] (4), ai (3), business (3)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -928,6 +931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (8), ai (5), data (5), management (4), business (4)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
@@ -1008,10 +1012,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Ethics]] (12), [[Responsible AI]] (3), business (2), data (1)
 > **Cross-References:** earlier in (2), we talked about (1), we discussed (1), later in (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - as (1)
@@ -1073,9 +1077,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Ethics]] (3), [[Responsible AI]] (1), next (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** esl (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -1085,7 +1089,7 @@ created: 2026-04-29
 
 ### 4. Content: Managing Data and AI Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connector: From culture to content
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980)
@@ -1104,6 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Responsible AI]] (2), [[Organizational Culture]] (1), [[Ethics]] (1), leadership (1)
 > **Analogies:** picture (1), such as (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - now (1)
@@ -1185,8 +1190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (8), [[Privacy]] (7), [[Ethics]] (2), [[Responsible AI]] (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** protected (1), raise (1), let (1)
 > **Analogies:** for example (1), such as (1), imagine (1)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** go to (1)
@@ -1274,9 +1279,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (21), [[Ethics]] (7), data (5), [[Generative AI]] (5), [[Privacy]] (2)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), require (1)
 > **Env Vars:** rfp (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** you'll need (1)
@@ -1351,8 +1356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (34), ai (7), [[Privacy]] (2), [[Feature Engineering]] (1), [[Security]] (1)
 > **Definitions:** is a  (2), in other words (1), known as (1), is an  (1)
-> **Code Keywords:** let (1), require (1), for. (1)
 > **CLI Commands:** rails (1), make (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
@@ -1411,8 +1416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Responsible AI]] (3), [[Accountability]] (2), [[Ethics]] (2), [[Decision-Making]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is an  (1)
@@ -1470,7 +1475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1), let (1)
+> **Frameworks & Libraries:** data (13), ai (7), [[Large Language Models (LLM)|Large language models]] (2), cloud (2), [[Sustainability]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
@@ -1498,6 +1503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), ai (4), [[Privacy]] (4), [[Security]] (2), [[Responsible AI]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -1505,7 +1511,7 @@ created: 2026-04-29
 
 ### 5. Commitment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connector: Moving to commitment
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-moving-to-commitment?u=76281980)
@@ -1524,7 +1530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), ai (1)
 > **Speakers:** - a (1)
 
 #### Model drift and monitoring
@@ -1590,8 +1596,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (4), [[Real-Time]] (1), hit (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
-> **Code Keywords:** case, (1), let (1), finally, (1)
 > **Analogies:** similar to (1), such as (1), for example (1)
 > **Best Practices:** recommended (1), best practice (1), don't forget (1)
 > **Env Vars:** covid (2)
@@ -1653,8 +1659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** break. (1), public (1)
 > **Analogies:** such as (2)
 > **Speakers:** - there (1)
 
@@ -1703,7 +1709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (7), ai (3), business (2), [[Microsoft Word|Word]] (1), [[Ethics]] (1)
 > **Cross-References:** earlier in (2), go back to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -1713,7 +1719,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The journey of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980)
@@ -1762,7 +1768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this: (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** ai (3), [[Responsible AI]] (2), [[Organizational Culture]] (1), [[LinkedIn]] (1)
 > **URLs:** [ethicallyalignedai.com](https://ethicallyalignedai.com) (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)

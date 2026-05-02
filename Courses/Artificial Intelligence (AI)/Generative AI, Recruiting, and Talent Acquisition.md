@@ -39,7 +39,7 @@ tags:
   - skill/generative-ai-for-recruiting
   - skill/recruiting
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%2C%20Recruiting%2C%20and%20Talent%20Acquisition.md)
@@ -58,25 +58,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Generative AI for recruiting talent
+  - [Generative AI for recruiting talent](#generative-ai-for-recruiting-talent)
 - [**1. Generative AI Recruitment Basics**](#1-generative-ai-recruitment-basics) (2 videos)
-  - Generative AI and the future of talent acquisition
-  - Identifying the various forms of generative AI
+  - [Generative AI and the future of talent acquisition](#generative-ai-and-the-future-of-talent-acquisition)
+  - [Identifying the various forms of generative AI](#identifying-the-various-forms-of-generative-ai)
 - [**2. Generative AI in Talent Acquisition**](#2-generative-ai-in-talent-acquisition) (8 videos)
-  - Visualizing how generative AI can be used in TA: Use cases
-  - How recruiters can use generative AI in talent acquisition
-  - How generative AI can be used by candidates in recruiting
-  - How hiring managers can benefit from generative AI
-  - How generative AI can facilitate internal mobility
-  - 10 questions to ask vendors claiming to use generative AI
-  - Where do humans fit in the future of AI-driven recruiting?
-  - Embracing generative AI as your recruiting copilot
+  - [Visualizing how generative AI can be used in TA: Use cases](#visualizing-how-generative-ai-can-be-used-in-ta-use-cases)
+  - [How recruiters can use generative AI in talent acquisition](#how-recruiters-can-use-generative-ai-in-talent-acquisition)
+  - [How generative AI can be used by candidates in recruiting](#how-generative-ai-can-be-used-by-candidates-in-recruiting)
+  - [How hiring managers can benefit from generative AI](#how-hiring-managers-can-benefit-from-generative-ai)
+  - [How generative AI can facilitate internal mobility](#how-generative-ai-can-facilitate-internal-mobility)
+  - [10 questions to ask vendors claiming to use generative AI](#10-questions-to-ask-vendors-claiming-to-use-generative-ai)
+  - [Where do humans fit in the future of AI-driven recruiting?](#where-do-humans-fit-in-the-future-of-ai-driven-recruiting)
+  - [Embracing generative AI as your recruiting copilot](#embracing-generative-ai-as-your-recruiting-copilot)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI for recruiting talent
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980)
@@ -105,14 +105,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), ai (2), [[Forms]] (1), [[Internal Mobility]] (1), game (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
 
 ### 1. Generative AI Recruitment Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI and the future of talent acquisition
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980)
@@ -149,7 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this, (1), self (1)
+> **Frameworks & Libraries:** [[Generative AI]] (10), data (3), career (3), ai (1), [[Interview Preparation]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), such as (1)
 > **Warnings:** be aware (1)
@@ -192,16 +192,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[ChatGPT]] (6), [[Midjourney]] (2), [[Forms]] (2), data (2)
 > **Env Vars:** llms (1), llm (1)
 > **Definitions:** known as (2)
 > **Analogies:** such as (1), imagine (1)
-> **Code Keywords:** private (1)
 > **Speakers:** - you (1)
 
 
 ### 2. Generative AI in Talent Acquisition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing how generative AI can be used in TA: Use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980)
@@ -254,6 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (2), [[Midjourney]] (1), prompt (1), [[Generative AI]] (1)
 > **Env Vars:** mit (1), ceo (1)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
@@ -308,8 +309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (1), ai (1), [[Forms]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** for, (1), function (1)
 > **Env Vars:** dei (1)
 > **Analogies:** for example (1)
 > **Speakers:** - generative (1)
@@ -363,8 +364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[ChatGPT]] (5), [[Resume Writing]] (1), [[Search]] (1), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Env Vars:** cpa (1)
 > **Analogies:** for example (1)
@@ -417,8 +418,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Internal Mobility]] (2), [[Automation]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), interface (1), this, (1), self (1)
 > **Analogies:** imagine (3)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - what (1)
@@ -472,8 +473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Internal Mobility]] (4), [[Search]] (3), career (3), data (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (1), type. (1)
 > **Speakers:** - does (1)
 
 #### 10 questions to ask vendors claiming to use generative AI
@@ -539,8 +540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (2), teams (1), [[Privacy]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** catch, (1), let (1), public (1), lambda (1)
 > **Env Vars:** gpt (1), llm (1)
 > **Best Practices:** you should never (2)
 > **Definitions:** is a  (1)
@@ -607,7 +608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (3), career (2), business (1), [[Internal Mobility]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -668,7 +669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), throw (1), continue (1)
+> **Frameworks & Libraries:** ai (12), [[Generative AI]] (2), [[Google]] (1), [[ChatGPT]] (1), hr (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -677,7 +678,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980)
@@ -694,6 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[ChatGPT]] (1), [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

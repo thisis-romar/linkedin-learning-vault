@@ -30,7 +30,7 @@ tags:
   - skill/it-service-management
   - skill/capacity-planning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Capacity%20and%20Availability%20Management.md)
@@ -49,36 +49,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introduction
-  - What is capacity management?
-  - What is availability management?
+  - [Introduction](#introduction)
+  - [What is capacity management?](#what-is-capacity-management)
+  - [What is availability management?](#what-is-availability-management)
 - [**1. Discovery: Understanding Business Needs**](#1-discovery-understanding-business-needs) (4 videos)
-  - Taking time to understand the business services
-  - Reviewing the ways of working
-  - Setting out your scope
-  - Setting out policy
+  - [Taking time to understand the business services](#taking-time-to-understand-the-business-services)
+  - [Reviewing the ways of working](#reviewing-the-ways-of-working)
+  - [Setting out your scope](#setting-out-your-scope)
+  - [Setting out policy](#setting-out-policy)
 - [**2. Service Capacity Management**](#2-service-capacity-management) (4 videos)
-  - What is service capacity management?
-  - Reviewing the infrastructure
-  - Capacity forecasting: Data collection
-  - Capacity forecasting: Techniques
+  - [What is service capacity management?](#what-is-service-capacity-management)
+  - [Reviewing the infrastructure](#reviewing-the-infrastructure)
+  - [Capacity forecasting: Data collection](#capacity-forecasting-data-collection)
+  - [Capacity forecasting: Techniques](#capacity-forecasting-techniques)
 - [**3. Resource Capacity Management**](#3-resource-capacity-management) (6 videos)
-  - What is resource capacity management?
-  - Assessing resource capacity: Data collection
-  - Resource monitoring: Workload balancing and consolidation
-  - Preparing for future services
-  - How does it work in cloud infrastructure?
-  - Running capacity sessions
+  - [What is resource capacity management?](#what-is-resource-capacity-management)
+  - [Assessing resource capacity: Data collection](#assessing-resource-capacity-data-collection)
+  - [Resource monitoring: Workload balancing and consolidation](#resource-monitoring-workload-balancing-and-consolidation)
+  - [Preparing for future services](#preparing-for-future-services)
+  - [How does it work in cloud infrastructure?](#how-does-it-work-in-cloud-infrastructure)
+  - [Running capacity sessions](#running-capacity-sessions)
 - [**4. Availability Management**](#4-availability-management) (3 videos)
-  - Metrics and reporting
-  - Creating your reporting
-  - Challenges to overcome
+  - [Metrics and reporting](#metrics-and-reporting)
+  - [Creating your reporting](#creating-your-reporting)
+  - [Challenges to overcome](#challenges-to-overcome)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/introduction?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** career (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - capacity (1)
 
@@ -164,6 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (12), data (6), next (1), [[Hardware]] (1), teams (1)
 > **Analogies:** think of it as (1), such as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
@@ -230,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), function (1), let (1), this, (1), require (1)
+> **Frameworks & Libraries:** management (6), business (3), next (2), [[ITIL]] (2), data (1)
 > **Env Vars:** itil (2), sle (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -241,7 +242,7 @@ created: 2026-04-29
 
 ### 1. Discovery: Understanding Business Needs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking time to understand the business services
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/taking-time-to-understand-the-business-services?u=76281980)
@@ -332,7 +333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), continue (1), static (1)
+> **Frameworks & Libraries:** business (8), teams (4), management (2), [[ITIL]] (1), next (1)
 > **Prerequisites:** you'll need (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is a  (1)
@@ -410,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (2), this, (2), this. (1), private (1), public (1)
+> **Frameworks & Libraries:** product (7), [[Agile Development|Agile]] (3), [[ITIL]] (3), [[Microsoft Products|Products]] (3), management (2)
 > **Env Vars:** itil (3), raci (1)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (2)
@@ -461,7 +462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), for, (1), module (1), for. (1)
+> **Frameworks & Libraries:** next (2), data (1), power (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -568,7 +569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** management (7), next (2), teams (2), business (1), [[Version Control]] (1)
 > **Cross-References:** we talked about (1), later in (1)
 > **Prerequisites:** setup (1), you'll need (1)
 > **CLI Commands:** make (1)
@@ -578,7 +579,7 @@ created: 2026-04-29
 
 ### 2. Service Capacity Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is service capacity management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980)
@@ -641,10 +642,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (10), data (5), [[Problem Management]] (2), teams (2), feature (1)
 > **Analogies:** such as (3), imagine (1)
 > **Env Vars:** sla (1), itil (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -723,7 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (5), business (2), management (2), teams (1), [[Virtual Machines]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -820,7 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), finally, (2), let (1), this, (1)
+> **Frameworks & Libraries:** data (20), management (9), teams (5), traffic (2), vpn (2)
 > **Analogies:** such as (6), for example (1)
 > **Env Vars:** vpn (2), cpu (1), ram (1), sccm (1)
 > **CLI Commands:** find (1)
@@ -907,7 +908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), finally, (1)
+> **Frameworks & Libraries:** data (11), management (2), teams (2), [[Time Series Analysis]] (1), [[Capacity Planning]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Env Vars:** gig (2), cpu (2)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -918,7 +919,7 @@ created: 2026-04-29
 
 ### 3. Resource Capacity Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is resource capacity management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-resource-capacity-management?u=76281980)
@@ -967,8 +968,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), management (4), teams (3), next (1), cloud (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1), let (1)
 > **Analogies:** such as (1), imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1052,7 +1053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), require (1), this, (1), type, (1), let (1)
+> **Frameworks & Libraries:** data (18), management (5), power (2), [[Hardware]] (1), [[ITIL]] (1)
 > **Env Vars:** itil (1), cpu (1), ram (1)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Definitions:** is a  (1)
@@ -1124,8 +1125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (2), teams (2), management (2), next (1)
 > **Analogies:** imagine (2), for example (1), such as (1)
-> **Code Keywords:** finally, (1), this. (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** remember to (1)
@@ -1215,7 +1216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (4), teams (3), [[Forecasting]] (2), management (2)
 > **Best Practices:** remember to (2), don't forget (1)
 > **Env Vars:** cpu (2)
 > **Analogies:** such as (1)
@@ -1307,7 +1308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (6), finally, (2), let (1), require (1), delete (1)
+> **Frameworks & Libraries:** cloud (7), [[Cloud Infrastructure]] (2), teams (2), management (2), [[Hardware]] (2)
 > **Analogies:** such as (4), think of it as (1), for example (1)
 > **Env Vars:** aws (1), gcp (1), sms (1), pdf (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1403,8 +1404,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), data (4), management (2), business (2), next (1)
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1414,7 +1415,7 @@ created: 2026-04-29
 
 ### 4. Availability Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Metrics and reporting
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/metrics-and-reporting?u=76281980)
@@ -1523,8 +1524,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), management (4), business (2), next (2)
 > **Analogies:** for example (3), such as (2), picture (1)
-> **Code Keywords:** let (3), finally, (1), this, (1)
 > **Prerequisites:** you'll need (5)
 > **Versions:** 97.04 (1), 53.3 (1), 2191.5 (1)
 > **Ports:** :00 (2)
@@ -1621,9 +1622,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), data (1), [[Performance Metrics]] (1), management (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** sla (3), ram (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this: (1), finally, (1)
 > **Analogies:** think of it as (1), such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -1693,8 +1694,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), teams (2), functional (1), business (1), product (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (2), let (1), finally, (1)
 > **Cross-References:** later in (1), we talked about (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
@@ -1703,7 +1704,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/next-steps?u=76281980)
@@ -1734,9 +1735,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), business (1)
 > **Cross-References:** we talked about (2), we discussed (1)
 > **Prerequisites:** set up (2), you'll need (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - so (1)
 
 

@@ -28,7 +28,7 @@ tags:
   - skill/organizational-leadership
   - skill/sustainable-business-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Driving%20Sustainability%20at%20Your%20Organization.md)
@@ -47,30 +47,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Sustainability in business
+  - [Sustainability in business](#sustainability-in-business)
 - [**1. The Case for Business Sustainability**](#1-the-case-for-business-sustainability) (4 videos)
-  - Healthy ecosystems = healthy businesses
-  - Planet, people, profit
-  - Corporate social responsibility
-  - Regulations and reporting frameworks
+  - [Healthy ecosystems = healthy businesses](#healthy-ecosystems-healthy-businesses)
+  - [Planet, people, profit](#planet-people-profit)
+  - [Corporate social responsibility](#corporate-social-responsibility)
+  - [Regulations and reporting frameworks](#regulations-and-reporting-frameworks)
 - [**2. Foundations of a Sustainable Business**](#2-foundations-of-a-sustainable-business) (5 videos)
-  - Energy efficiencies and renewables
-  - Water efficiencies and conservation
-  - Waste and pollution reduction
-  - Sustainable transportation
-  - Diversity, equity, and inclusion
+  - [Energy efficiencies and renewables](#energy-efficiencies-and-renewables)
+  - [Water efficiencies and conservation](#water-efficiencies-and-conservation)
+  - [Waste and pollution reduction](#waste-and-pollution-reduction)
+  - [Sustainable transportation](#sustainable-transportation)
+  - [Diversity, equity, and inclusion](#diversity-equity-and-inclusion)
 - [**3. Implementing Sustainability**](#3-implementing-sustainability) (5 videos)
-  - Benchmarking
-  - Track your progress
-  - Follow the checklist
-  - Identify and engage your stakeholders
-  - Sustainability across sectors
+  - [Benchmarking](#benchmarking)
+  - [Track your progress](#track-your-progress)
+  - [Follow the checklist](#follow-the-checklist)
+  - [Identify and engage your stakeholders](#identify-and-engage-your-stakeholders)
+  - [Sustainability across sectors](#sustainability-across-sectors)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Actualize your goals
+  - [Actualize your goals](#actualize-your-goals)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-in-business?u=76281980)
@@ -111,14 +111,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3), business (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
 
 ### 1. The Case for Business Sustainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Healthy ecosystems = healthy businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980)
@@ -187,7 +187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (2)
+> **Frameworks & Libraries:** business (7), [[Sustainability]] (4), [[Statistics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you need to have (1)
@@ -242,9 +242,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), [[Sustainability]] (2), [[Sustainable Business]] (1), next (1)
 > **Env Vars:** tbl (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)
 
@@ -297,9 +297,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), business (4), [[Sustainability]] (3), [[Wellness]] (3), management (2)
 > **Env Vars:** csr (10)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** public (2)
 > **Analogies:** such as (1)
 > **Speakers:** - did (1)
 
@@ -374,15 +374,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (9), business (6), [[Corporate Sustainability]] (1), [[Security]] (1), [[Sustainable Business]] (1)
 > **Env Vars:** esg (3), ungc (1), sec (1), sasb (1), cdp (1)
-> **Code Keywords:** let (1), require (1), finally, (1), this. (1)
 > **Speakers:** - you (1), - mandatory (1)
 > **Exercise Files:** exercise file (1)
 
 
 ### 2. Foundations of a Sustainable Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Energy efficiencies and renewables
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980)
@@ -453,8 +453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Electronics]] (1), [[Windows]] (1), power (1)
 > **Env Vars:** led (1), leed (1), hvac (1)
-> **Code Keywords:** finally, (1), this. (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -514,8 +514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), next (2), [[Climate Change]] (1), [[Electronics]] (1), [[Sustainability]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (1)
 > **Speakers:** - did (1)
 
@@ -592,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** business (8), management (3), [[Microsoft Products|Products]] (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - have (1)
@@ -670,7 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), finally, (2), let (1), continue (1)
+> **Frameworks & Libraries:** business (6), [[Sustainable Business]] (2), next (1), [[Sketching]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -755,8 +755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), leadership (4), [[Programming]] (3), [[Sustainable Business]] (1), [[Diversity and Inclusion]] (1)
 > **Env Vars:** dei (9), erg (1)
-> **Code Keywords:** let (2), continue (1), this, (1)
 > **Definitions:** is called (1), is a  (1)
 > **Tools:** notion (1)
 > **Exercise Files:** exercise file (1)
@@ -766,7 +766,7 @@ created: 2026-04-29
 
 ### 3. Implementing Sustainability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benchmarking
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980)
@@ -827,10 +827,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Sustainability]] (5), next (3), [[Sustainable Business]] (2), data (1)
 > **Env Vars:** esg (3), iss (1), msci (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
@@ -879,8 +879,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), data (2), management (1), next (1), [[Sustainable Business]] (1)
 > **Env Vars:** ghg (2), smart (1)
-> **Code Keywords:** finally, (1), let (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
@@ -971,7 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), public (1), let (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3), business (2), next (2), [[Microsoft Office|Office]] (2), [[Sustainable Business]] (1)
 > **Env Vars:** hvac (1), seer (1)
 > **Versions:** 1.6 (1), 1.5 (1)
 > **Exercise Files:** exercise file (1)
@@ -1059,7 +1059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), require (1), this. (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), leadership (2), next (2), business (2), [[Sustainable Business]] (1)
 > **Env Vars:** esg (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -1125,15 +1125,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), [[Sustainability]] (6), [[Sustainable Business]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for instance (2), such as (2)
-> **Code Keywords:** let (1), public (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - any (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Actualize your goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980)
@@ -1166,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** business (3), [[Sustainable Business]] (2), [[Sustainability]] (2), power (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - congratulations (1)

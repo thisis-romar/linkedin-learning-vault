@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Communicating%20with%20Confidence.md)
@@ -43,38 +43,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Prepare to become a more confident communicator
+  - [Prepare to become a more confident communicator](#prepare-to-become-a-more-confident-communicator)
 - [**1. Foundations of a Great Communicator**](#1-foundations-of-a-great-communicator) (4 videos)
-  - Confident communication is a skill
-  - The three elements of powerful communication
-  - Communication blocks that hold you back
-  - The power of presence when you communicate
+  - [Confident communication is a skill](#confident-communication-is-a-skill)
+  - [The three elements of powerful communication](#the-three-elements-of-powerful-communication)
+  - [Communication blocks that hold you back](#communication-blocks-that-hold-you-back)
+  - [The power of presence when you communicate](#the-power-of-presence-when-you-communicate)
 - [**2. Manage Your Message**](#2-manage-your-message) (2 videos)
-  - Consider your audience when preparing to communicate
-  - Use the golden structure to organize your thoughts
+  - [Consider your audience when preparing to communicate](#consider-your-audience-when-preparing-to-communicate)
+  - [Use the golden structure to organize your thoughts](#use-the-golden-structure-to-organize-your-thoughts)
 - [**3. Develop Vocal Mastery**](#3-develop-vocal-mastery) (4 videos)
-  - If you breathe better, you sound better when speaking
-  - Vary your rate of speech to add clarity
-  - Use volume to radiate more confidence when speaking
-  - Make your message memorable with melody
+  - [If you breathe better, you sound better when speaking](#if-you-breathe-better-you-sound-better-when-speaking)
+  - [Vary your rate of speech to add clarity](#vary-your-rate-of-speech-to-add-clarity)
+  - [Use volume to radiate more confidence when speaking](#use-volume-to-radiate-more-confidence-when-speaking)
+  - [Make your message memorable with melody](#make-your-message-memorable-with-melody)
 - [**4. Develop Body Language Mastery**](#4-develop-body-language-mastery) (4 videos)
-  - Use eye contact effectively while communicating
-  - Talk with your hands to show confidence
-  - Move with purpose and impact while communicating
-  - Communicate with your face
+  - [Use eye contact effectively while communicating](#use-eye-contact-effectively-while-communicating)
+  - [Talk with your hands to show confidence](#talk-with-your-hands-to-show-confidence)
+  - [Move with purpose and impact while communicating](#move-with-purpose-and-impact-while-communicating)
+  - [Communicate with your face](#communicate-with-your-face)
 - [**5. Confident Digital Communication**](#5-confident-digital-communication) (1 videos)
-  - Communicate with confidence digitally
+  - [Communicate with confidence digitally](#communicate-with-confidence-digitally)
 - [**6. Dealing with Nerves When Communicating**](#6-dealing-with-nerves-when-communicating) (2 videos)
-  - Five ways to handle nervousness when speaking
-  - Tap into real confidence when communicating
+  - [Five ways to handle nervousness when speaking](#five-ways-to-handle-nervousness-when-speaking)
+  - [Tap into real confidence when communicating](#tap-into-real-confidence-when-communicating)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Frequently asked questions on communicating confidently
-  - Self-awareness to build your communication skills
-  - Practice to improve your communication
+  - [Frequently asked questions on communicating confidently](#frequently-asked-questions-on-communicating-confidently)
+  - [Self-awareness to build your communication skills](#self-awareness-to-build-your-communication-skills)
+  - [Practice to improve your communication](#practice-to-improve-your-communication)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare to become a more confident communicator
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/prepare-to-become-a-more-confident-communicator?u=76281980)
@@ -97,13 +97,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Speakers:** - do (1)
 
 
 ### 1. Foundations of a Great Communicator
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Confident communication is a skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980)
@@ -220,8 +219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (4)
 > **Env Vars:** usa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -297,7 +296,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), this, (1)
 > **Env Vars:** ucla (1)
 > **Definitions:** in other words (1)
 > **Analogies:** it's like (1)
@@ -448,7 +446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (3), self (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2), [[ChatGPT]] (1), ai (1)
 > **Definitions:** known as (3), is a  (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** faq (1)
@@ -541,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** next (2), [[React.js|React]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
@@ -549,7 +547,7 @@ created: 2026-04-29
 
 ### 2. Manage Your Message
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Consider your audience when preparing to communicate
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/consider-your-audience-when-preparing-to-communicate?u=76281980)
@@ -623,7 +621,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), this. (1), this, (1)
 > **Analogies:** for example (2)
 > **Best Practices:** always make sure (1)
 > **Speakers:** - one (1)
@@ -797,7 +794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (12), let (2), this, (2), super (1), case, (1)
+> **Frameworks & Libraries:** next (5), power (1), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Best Practices:** don't forget (1)
@@ -806,7 +803,7 @@ created: 2026-04-29
 
 ### 3. Develop Vocal Mastery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### If you breathe better, you sound better when speaking
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/if-you-breathe-better-you-sound-better-when-speaking?u=76281980)
@@ -885,8 +882,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** this, (2), self (1), default. (1)
 > **Speakers:** - when (1)
 
 #### Vary your rate of speech to add clarity
@@ -958,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), super (2), let (1), default, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), functional (1)
 > **Analogies:** think of it as (1), imagine (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - rate (1)
@@ -1046,7 +1043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), this, (3), let (1)
+> **Frameworks & Libraries:** power (2), functional (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1155,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), this, (2), while, (1), self (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7)
 > **Non-Speech:** (downbeat piano music) (1), (downbeat piano music continues) (1), (upbeat piano music) (1), (upbeat piano music continues) (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -1164,7 +1161,7 @@ created: 2026-04-29
 
 ### 4. Develop Body Language Mastery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use eye contact effectively while communicating
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-eye-contact-effectively-while-communicating?u=76281980)
@@ -1331,7 +1328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), this, (2), public (2), let (1), while, (1)
+> **Frameworks & Libraries:** next (6)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
 > **Definitions:** is a  (1)
@@ -1474,7 +1471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (3), this, (2), break. (2), switch (1)
+> **Frameworks & Libraries:** next (3), power (2), functional (1)
 > **Definitions:** is a  (2), is called (2), known as (1)
 > **Speakers:** - before (1)
 
@@ -1573,7 +1570,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), this, (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - i (1)
 
@@ -1714,7 +1710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (6), self (2), private (1), public (1), try. (1)
+> **Frameworks & Libraries:** next (1), express (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), it's like (1)
@@ -1723,7 +1719,7 @@ created: 2026-04-29
 
 ### 5. Confident Digital Communication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicate with confidence digitally
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communicate-with-confidence-digitally?u=76281980)
@@ -1814,6 +1810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1)
 > **Definitions:** is a  (3), known as (1), means that (1)
 > **CLI Commands:** make (2)
 > **Warnings:** common mistake (1)
@@ -1822,7 +1819,7 @@ created: 2026-04-29
 
 ### 6. Dealing with Nerves When Communicating
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Five ways to handle nervousness when speaking
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/five-ways-to-handle-nervousness-when-speaking?u=76281980)
@@ -1915,7 +1912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this: (1), self (1), this, (1), from, (1)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
@@ -1970,13 +1967,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1)
+> **Frameworks & Libraries:** next (2)
 > **Speakers:** - i (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Frequently asked questions on communicating confidently
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/frequently-asked-questions-on-communicating-confidently?u=76281980)
@@ -2073,7 +2070,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), this, (1), class, (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - here (1)
 
@@ -2198,7 +2194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6), this, (1), finally, (1)
+> **Frameworks & Libraries:** strengths (1), next (1), game (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - i (1)
@@ -2268,6 +2264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), power (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ceo (2)
 > **UI Navigation:** go to (1)

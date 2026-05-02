@@ -39,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Preparing%20for%20the%20EU%20AI%20Act-%20A%20Conversation%20with%20Jon%20Adams.md)
@@ -58,26 +58,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding the EU AI Act
-  - Meet Jon Adams
+  - [Understanding the EU AI Act](#understanding-the-eu-ai-act)
+  - [Meet Jon Adams](#meet-jon-adams)
 - [**1. What is the EU AI Act and What Does it Cover?**](#1-what-is-the-eu-ai-act-and-what-does-it-cover) (6 videos)
-  - An overview of the EU AI Act
-  - Identifying the scope and coverage of the act
-  - How does the law apply to different technologies?
-  - A risk-based approach to regulation
-  - Timeline and risk-evaluation for compliance
-  - Ensuring that people stay in the loop
+  - [An overview of the EU AI Act](#an-overview-of-the-eu-ai-act)
+  - [Identifying the scope and coverage of the act](#identifying-the-scope-and-coverage-of-the-act)
+  - [How does the law apply to different technologies?](#how-does-the-law-apply-to-different-technologies)
+  - [A risk-based approach to regulation](#a-risk-based-approach-to-regulation)
+  - [Timeline and risk-evaluation for compliance](#timeline-and-risk-evaluation-for-compliance)
+  - [Ensuring that people stay in the loop](#ensuring-that-people-stay-in-the-loop)
 - [**2. What Does the EU AI Act Mean for Businesses?**](#2-what-does-the-eu-ai-act-mean-for-businesses) (4 videos)
-  - What does this mean for businesses outside the EU?
-  - Understanding enforcement and penalties
-  - How should business leaders prepare?
-  - Is there anything that individuals need to know or do?
+  - [What does this mean for businesses outside the EU?](#what-does-this-mean-for-businesses-outside-the-eu)
+  - [Understanding enforcement and penalties](#understanding-enforcement-and-penalties)
+  - [How should business leaders prepare?](#how-should-business-leaders-prepare)
+  - [Is there anything that individuals need to know or do?](#is-there-anything-that-individuals-need-to-know-or-do)
 - [**3. Learn More About the EU AI Act**](#3-learn-more-about-the-eu-ai-act) (1 videos)
-  - Additional resources
+  - [Additional resources](#additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980)
@@ -96,6 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[LinkedIn]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - the (1)
 
@@ -122,12 +123,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (3), product (1)
 > **Speakers:** - all (1), - sure (1), - excellent (1), - right (1)
 
 
 ### 1. What is the EU AI Act and What Does it Cover?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/an-overview-of-the-eu-ai-act?u=76281980)
@@ -176,6 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (4)
 > **Speakers:** - yeah (2), - to (1), - i (1)
 > **Env Vars:** gdpr (3)
 > **CLI Commands:** make (1)
@@ -302,9 +305,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (29), data (7), product (4), [[Ethics]] (3), [[Microsoft Word|Word]] (1)
 > **Analogies:** kind of like (3), for example (2), imagine (1)
 > **Speakers:** - so (2), - yeah (2), - okay (1)
-> **Code Keywords:** let (2), this, (1)
 > **Env Vars:** gdpr (3)
 > **Cross-References:** we talked about (1)
 
@@ -369,8 +372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), data (1), llm (1)
 > **Speakers:** - you (1), - yeah (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is a  (1)
 
@@ -403,8 +406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), management (3), [[Microsoft Word|Word]] (1), data (1), product (1)
 > **Speakers:** - i (1), - right (1)
-> **Code Keywords:** public (1)
 > **Analogies:** imagine (1)
 
 #### Timeline and risk-evaluation for compliance
@@ -480,8 +483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (28), next (5), data (4), product (3), management (3)
 > **Speakers:** - yeah (3), - so (2), - i (2), - okay (1), - and (1)
-> **Code Keywords:** this, (2), pass (1), else, (1), require (1), for. (1)
 > **CLI Commands:** make (3), rails (1)
 > **Cross-References:** coming up (1), we talked about (1), in the next (1)
 > **Analogies:** for example (1), imagine (1)
@@ -521,6 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Ethics]] (1)
 > **Speakers:** - you (1), - yeah (1), - okay (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -528,7 +532,7 @@ created: 2026-04-29
 
 ### 2. What Does the EU AI Act Mean for Businesses?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What does this mean for businesses outside the EU?
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/what-does-this-mean-for-businesses-outside-the-eu?u=76281980)
@@ -587,9 +591,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), business (1), data (1), [[Generative AI]] (1)
 > **Speakers:** - yeah (3), - so (1), - and (1), - it (1)
 > **Env Vars:** gdpr (2), lgpd (1)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -616,8 +620,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Microsoft Office|Office]] (1)
 > **Speakers:** - but (1), - i (1), - yeah (1), - that (1)
-> **Code Keywords:** if, (1)
 > **Env Vars:** euai (1)
 > **Analogies:** imagine (1)
 
@@ -714,9 +718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), business (3), teams (1), [[Responsible AI]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Speakers:** - yeah (3), - obviously (1), - okay (1), - and (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** if, (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (2)
 
@@ -765,6 +769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), teams (5), business (3), leadership (1), hr (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), kind of like (1)
 > **Speakers:** - as (1), - yeah (1)
@@ -773,7 +778,7 @@ created: 2026-04-29
 
 ### 3. Learn More About the EU AI Act
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/additional-resources?u=76281980)
@@ -808,8 +813,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **Speakers:** - that (1), - yeah (1), - [nick] (1)
-> **Code Keywords:** this, (2)
 
 
 ## Instructor

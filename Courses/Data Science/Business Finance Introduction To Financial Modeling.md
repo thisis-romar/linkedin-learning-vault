@@ -26,7 +26,7 @@ tags:
   - skill/corporate-finance
   - skill/financial-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Finance%20Introduction%20To%20Financial%20Modeling.md)
@@ -45,32 +45,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Learn robust financial modeling
+  - [Learn robust financial modeling](#learn-robust-financial-modeling)
 - [**1. Understanding Financial Modeling**](#1-understanding-financial-modeling) (3 videos)
-  - What are financial models?
-  - Guiding decision makers with a financial model
-  - Value of interpersonal skills with financial modeling
+  - [What are financial models?](#what-are-financial-models)
+  - [Guiding decision makers with a financial model](#guiding-decision-makers-with-a-financial-model)
+  - [Value of interpersonal skills with financial modeling](#value-of-interpersonal-skills-with-financial-modeling)
 - [**2. How to Design a Financial Model**](#2-how-to-design-a-financial-model) (3 videos)
-  - Preparing for a successful financial model
-  - Documenting the financial model design
-  - Understanding and analyzing data
+  - [Preparing for a successful financial model](#preparing-for-a-successful-financial-model)
+  - [Documenting the financial model design](#documenting-the-financial-model-design)
+  - [Understanding and analyzing data](#understanding-and-analyzing-data)
 - [**3. How To Build a Robust Financial Model**](#3-how-to-build-a-robust-financial-model) (3 videos)
-  - Modeling tools and software
-  - Preparing modeling inputs
-  - Building model calculations
+  - [Modeling tools and software](#modeling-tools-and-software)
+  - [Preparing modeling inputs](#preparing-modeling-inputs)
+  - [Building model calculations](#building-model-calculations)
 - [**4. Quality Assurance**](#4-quality-assurance) (2 videos)
-  - Testing the model's technical integrity
-  - Testing the model's logic
+  - [Testing the model's technical integrity](#testing-the-models-technical-integrity)
+  - [Testing the model's logic](#testing-the-models-logic)
 - [**5. Finalizing and Presenting Your Model**](#5-finalizing-and-presenting-your-model) (3 videos)
-  - Undertaking scenario analysis
-  - Presenting financial model results to stakeholders
-  - Importance of model documentation
+  - [Undertaking scenario analysis](#undertaking-scenario-analysis)
+  - [Presenting financial model results to stakeholders](#presenting-financial-model-results-to-stakeholders)
+  - [Importance of model documentation](#importance-of-model-documentation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your financial modeling learning journey
+  - [Continuing your financial modeling learning journey](#continuing-your-financial-modeling-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn robust financial modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/learn-robust-financial-modeling?u=76281980)
@@ -93,14 +93,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Modeling]] (2), data (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [joshua] (1)
 
 
 ### 1. Understanding Financial Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are financial models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980)
@@ -171,8 +171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Modeling]] (4), business (2), power (2), [[Hardware]] (1), data (1)
 > **Analogies:** imagine (2), such as (2)
-> **Code Keywords:** switch (1), case, (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** led (1)
 > **UI Navigation:** go to (1)
@@ -241,9 +241,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Modeling]] (4), [[Microsoft]] (2), [[LinkedIn]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (3), picture (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **Versions:** 26.2 (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -329,7 +329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), super (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (4), product (1), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -337,7 +337,7 @@ created: 2026-04-29
 
 ### 2. How to Design a Financial Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for a successful financial model
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980)
@@ -408,8 +408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), next (2), [[Microsoft Excel|Excel]] (1), management (1), [[Financial Data]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** while, (1), this, (1), from. (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Analogies:** picture (1), kind of like (1), for example (1)
 > **Speakers:** - [narrator] (1)
@@ -471,8 +471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft Products|Products]] (1), product (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** finally, (1), super (1), this, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Warnings:** caution (1)
@@ -535,16 +535,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), management (1), next (1), business (1)
 > **Analogies:** imagine (2), for example (1), such as (1)
 > **Env Vars:** crm (3)
-> **Code Keywords:** this. (1), continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. How To Build a Robust Financial Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling tools and software
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980)
@@ -627,8 +627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (13), hit (3), [[Microsoft Products|Products]] (2), [[Financial Modeling]] (2), next (2)
 > **Env Vars:** c12 (2), c11 (2), d12 (2), j12 (1), d11 (1)
-> **Code Keywords:** let (5), type = (2), continue (1), this. (1)
 > **Analogies:** such as (1), kind of like (1), similar to (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
@@ -697,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (1), this, (1)
+> **Frameworks & Libraries:** business (3), next (2), management (1), [[Microsoft Excel|Excel]] (1), hit (1)
 > **Env Vars:** crm (4)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (2)
@@ -794,8 +794,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), hit (3), management (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** c14 (2), d14 (2), c17 (2), c15 (2), crm (1)
-> **Code Keywords:** let (7), from. (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
@@ -806,7 +806,7 @@ created: 2026-04-29
 
 ### 4. Quality Assurance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing the model's technical integrity
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980)
@@ -903,8 +903,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (3), [[Financial Modeling]] (1), [[Microsoft Products|Products]] (1), hit (1)
 > **Env Vars:** crm (1), g14 (1), f11 (1), c11 (1), c12 (1)
-> **Code Keywords:** let (2), case, (1), function (1), this. (1)
 > **UI Navigation:** click on (2), select the (1), right-click (1)
 > **CLI Commands:** make (3)
 > **Versions:** 6.57 (1)
@@ -967,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), business (1), hit (1), [[Financial Modeling]] (1)
 > **Env Vars:** npv (5), crm (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 6.57 (1), 5.98 (1)
@@ -979,7 +979,7 @@ created: 2026-04-29
 
 ### 5. Finalizing and Presenting Your Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Undertaking scenario analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/undertaking-scenario-analysis?u=76281980)
@@ -1032,9 +1032,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), feature (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** npv (4), crm (1), mpv (1)
 > **Versions:** 5.98 (1), 6.9 (1), 7.5 (1), 7.31 (1), 1.1 (1)
-> **Code Keywords:** let (4), super (1)
 > **Cross-References:** go back to (5)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -1102,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (3), this. (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), business (1), next (1)
 > **Env Vars:** crm (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1159,7 +1159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1), for. (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (4), business (2), product (1), [[Engineering]] (1), data (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
@@ -1167,7 +1167,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your financial modeling learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980)
@@ -1212,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[LinkedIn]] (3), data (1), [[Quality Assurance]] (1), [[Sustainability]] (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 

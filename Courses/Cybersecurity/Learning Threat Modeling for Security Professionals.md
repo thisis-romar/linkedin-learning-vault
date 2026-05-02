@@ -24,7 +24,7 @@ tags:
   - course
   - topic/security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20Threat%20Modeling%20for%20Security%20Professionals.md)
@@ -43,29 +43,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Develop secure products
-  - Why would you threat model?
-  - A simple approach to threat modeling
+  - [Develop secure products](#develop-secure-products)
+  - [Why would you threat model?](#why-would-you-threat-model)
+  - [A simple approach to threat modeling](#a-simple-approach-to-threat-modeling)
 - [**1. The Four Question Framework**](#1-the-four-question-framework) (4 videos)
-  - What are we working on?
-  - What can go wrong?
-  - What are we going to do about it?
-  - Did we do a good job?
+  - [What are we working on?](#what-are-we-working-on)
+  - [What can go wrong?](#what-can-go-wrong)
+  - [What are we going to do about it?](#what-are-we-going-to-do-about-it)
+  - [Did we do a good job?](#did-we-do-a-good-job)
 - [**2. STRIDE**](#2-stride) (8 videos)
-  - Spoofing a specific server
-  - Tampering with a file
-  - Interlude: Scope and timing
-  - Repudiating an order
-  - Information disclosure
-  - Denial of service
-  - Elevation of privilege
-  - Expansion of authority
+  - [Spoofing a specific server](#spoofing-a-specific-server)
+  - [Tampering with a file](#tampering-with-a-file)
+  - [Interlude: Scope and timing](#interlude-scope-and-timing)
+  - [Repudiating an order](#repudiating-an-order)
+  - [Information disclosure](#information-disclosure)
+  - [Denial of service](#denial-of-service)
+  - [Elevation of privilege](#elevation-of-privilege)
+  - [Expansion of authority](#expansion-of-authority)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop secure products
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=76281980)
@@ -88,6 +88,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (1), game (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - delivering (1)
 
@@ -128,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Threat Modeling]] (6), [[Representational State Transfer (REST)|Rest]] (1), career (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** zap (1)
@@ -174,14 +176,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Agile Development|Agile]] (1), web (1), [[Microservices]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - at (1)
 
 
 ### 1. The Four Question Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are we working on?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-working-on?u=76281980)
@@ -234,8 +236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (1)
 > **Analogies:** picture (5)
-> **Code Keywords:** let (2), this. (1)
 > **Speakers:** - the (1), - [woman] (1), - hey (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -335,10 +337,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Threat Modeling]] (2), next (2), traffic (1), data (1)
 > **Definitions:** is a  (3), stands for (1), is an  (1)
 > **Env Vars:** stride (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
@@ -431,7 +433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), this, (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (1), [[Software Development]] (1), product (1), management (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -512,7 +514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (2), [[Scrum]] (1), next (1)
 > **Env Vars:** stride (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - so (1)
@@ -520,7 +522,7 @@ created: 2026-04-29
 
 ### 2. STRIDE
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spoofing a specific server
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980)
@@ -615,8 +617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[Google]] (2), [[Analytics]] (1), web (1), game (1)
 > **Env Vars:** red30 (3), sms (2), url (1), thc (1), ssh (1)
-> **Code Keywords:** protected (1), else. (1), else, (1), while. (1), continue (1)
 > **Analogies:** for example (1), just like (1), such as (1)
 > **CLI Commands:** find (1), ssh (1)
 > **Warnings:** be aware (1), watch out (1)
@@ -702,9 +704,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), data (1)
 > **Env Vars:** stride (2), tls (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **URLs:** [red30.com](https://red30.com) (1)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
@@ -752,6 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (7), [[Security]] (1), product (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - while (1)
@@ -841,10 +844,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1), [[Security]] (1)
 > **Definitions:** stands for (1), is a  (1), is an  (1)
 > **Env Vars:** stride (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - the (1)
@@ -912,9 +915,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Cryptography]] (2), management (2), [[User Management]] (1), [[WordPress]] (1)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** stride (1), tls (1), ssh (1)
-> **Code Keywords:** super (1), public (1)
 > **CLI Commands:** ssh (1)
 > **Definitions:** stands for (1)
 > **Prerequisites:** configure (1)
@@ -991,6 +994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (3), [[Security]] (3), cloud (2), [[IoT]] (1), data (1)
 > **Env Vars:** abc (2), stride (1), maxint (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** zip file (1)
@@ -1041,7 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), continue (1), let (1)
+> **Frameworks & Libraries:** web (4), data (2), [[SQL]] (1), database (1), [[Scripting]] (1)
 > **Env Vars:** stride (1), sql (1), uid (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Analogies:** for example (1), it's like (1)
@@ -1118,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (2), let (1)
+> **Frameworks & Libraries:** [[Security]] (2), web (2), cloud (1), [[Android]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** stride (1)
@@ -1128,7 +1132,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980)
@@ -1167,6 +1171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (8), [[Security]] (2), next (2), game (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** stride (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - threat (1)

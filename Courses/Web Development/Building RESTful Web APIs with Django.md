@@ -30,7 +30,7 @@ tags:
   - skill/rest-apis
   - skill/django
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20RESTful%20Web%20APIs%20with%20Django.md)
@@ -49,42 +49,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Create a REST API with Django and Django REST framework
-  - What you should know
-  - Demo project overview
+  - [Create a REST API with Django and Django REST framework](#create-a-rest-api-with-django-and-django-rest-framework)
+  - [What you should know](#what-you-should-know)
+  - [Demo project overview](#demo-project-overview)
 - [**1. Serializing, Listing, Filtering, and Paginating Models**](#1-serializing-listing-filtering-and-paginating-models) (6 videos)
-  - Creating a Django Rest framework serializer to serialize a model
-  - Creating a ListAPIView subclass
-  - Connecting an APIView to a route
-  - Filter back ends with URL query parameters
-  - Enabling full-text search filter back end
-  - Enabling pagination of querysets in API responses
+  - [Creating a Django Rest framework serializer to serialize a model](#creating-a-django-rest-framework-serializer-to-serialize-a-model)
+  - [Creating a ListAPIView subclass](#creating-a-listapiview-subclass)
+  - [Connecting an APIView to a route](#connecting-an-apiview-to-a-route)
+  - [Filter back ends with URL query parameters](#filter-back-ends-with-url-query-parameters)
+  - [Enabling full-text search filter back end](#enabling-full-text-search-filter-back-end)
+  - [Enabling pagination of querysets in API responses](#enabling-pagination-of-querysets-in-api-responses)
 - [**2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models**](#2-create-retrieve-update-and-delete-crud-operations-for-models) (6 videos)
-  - Creating a CreateAPIView subclass
-  - Connecting a CreateAPIView to the router
-  - Creating a DestroyAPIView subclass
-  - Connecting a DestroyAPIView to the router
-  - Creating an UpdateAPIView subclass
-  - Connecting an UpdateAPIView to the router
+  - [Creating a CreateAPIView subclass](#creating-a-createapiview-subclass)
+  - [Connecting a CreateAPIView to the router](#connecting-a-createapiview-to-the-router)
+  - [Creating a DestroyAPIView subclass](#creating-a-destroyapiview-subclass)
+  - [Connecting a DestroyAPIView to the router](#connecting-a-destroyapiview-to-the-router)
+  - [Creating an UpdateAPIView subclass](#creating-an-updateapiview-subclass)
+  - [Connecting an UpdateAPIView to the router](#connecting-an-updateapiview-to-the-router)
 - [**3. Managing Serializer Fields, Relations, and Validation**](#3-managing-serializer-fields-relations-and-validation) (6 videos)
-  - Serializer with only selected fields
-  - Serializer that shows model relationships
-  - Number fields with serializers
-  - Date and time fields with serializers
-  - Lists, dicts, and JSON objects
-  - Serializer with ImageField and FileField
+  - [Serializer with only selected fields](#serializer-with-only-selected-fields)
+  - [Serializer that shows model relationships](#serializer-that-shows-model-relationships)
+  - [Number fields with serializers](#number-fields-with-serializers)
+  - [Date and time fields with serializers](#date-and-time-fields-with-serializers)
+  - [Lists, dicts, and JSON objects](#lists-dicts-and-json-objects)
+  - [Serializer with ImageField and FileField](#serializer-with-imagefield-and-filefield)
 - [**4. Testing API Views**](#4-testing-api-views) (5 videos)
-  - Test case for a CreateAPIView subclass
-  - Test case for a DestroyAPIView subclass
-  - Test case for a ListAPIView subclass
-  - Unit test for an UpdateAPIView subclass
-  - Handling image uploads in a unit test
+  - [Test case for a CreateAPIView subclass](#test-case-for-a-createapiview-subclass)
+  - [Test case for a DestroyAPIView subclass](#test-case-for-a-destroyapiview-subclass)
+  - [Test case for a ListAPIView subclass](#test-case-for-a-listapiview-subclass)
+  - [Unit test for an UpdateAPIView subclass](#unit-test-for-an-updateapiview-subclass)
+  - [Handling image uploads in a unit test](#handling-image-uploads-in-a-unit-test)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a REST API with Django and Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980)
@@ -107,9 +107,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[Django]] (3), web (2), api (2), front-end (1)
 > **Env Vars:** rest (5), api (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** iphone (1)
 > **Versions:** version 0 (1)
 > **Analogies:** such as (1)
@@ -134,6 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Node.js]] (1)
 > **CLI Commands:** python (7), node (1)
 > **Env Vars:** rest (1), api (1), url (1)
 > **Prerequisites:** getting started (1), install (1)
@@ -168,15 +169,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (4), [[Django]] (3), data (3)
 > **Env Vars:** rest (4), api (3), sql (1)
-> **Code Keywords:** return. (1), delete (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Serializing, Listing, Filtering, and Paginating Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a Django Rest framework serializer to serialize a model
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980)
@@ -233,8 +234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[Django]] (6), [[JSON]] (4), data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** json (4), yaml (1), xml (1), rest (1), api (1)
-> **Code Keywords:** let (4), this, (1), override (1), case, (1)
 > **Code Identifiers:** to_representation (3), rest_framework (1), is_on_sale (1), current_price (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -280,8 +281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), generic (5), [[Microsoft Products|Products]] (3), [[Representational State Transfer (REST)|Rest]] (3), product (2)
 > **Env Vars:** api (8), rest (3), json (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** rest_framework (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -321,9 +322,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), product (5), [[Representational State Transfer (REST)|Rest]] (3), web (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** api (9), url (3), rest (3), json (1)
 > **Code Identifiers:** api_views (2), as_view (1)
-> **Code Keywords:** let (1), switch (1)
 > **CLI Commands:** make (1)
 > **API Endpoints:** get  (1)
 > **UI Navigation:** switch to (1)
@@ -384,7 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), override (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (6), [[Django]] (3), [[Representational State Transfer (REST)|Rest]] (2), api (1)
 > **Env Vars:** url (4), rest (1), api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -425,7 +426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), match. (3), match, (1)
+> **Frameworks & Libraries:** [[Search]] (11), [[Microsoft Word|Word]] (6), product (5), [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** rest (2), url (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -486,14 +487,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[Django]] (3), [[Representational State Transfer (REST)|Rest]] (3), product (3), [[Microsoft Products|Products]] (3)
 > **Env Vars:** api (7), rest (3), url (2)
-> **Code Keywords:** let (5), pass (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a CreateAPIView subclass
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980)
@@ -542,8 +543,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), [[Representational State Transfer (REST)|Rest]] (6), product (5), [[Microsoft Products|Products]] (2), data (2)
 > **Env Vars:** api (8), rest (6)
-> **Code Keywords:** interface (2), class. (1), raise (1), super (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -580,8 +581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), api (4), [[Rust (Programming Language)|Rust]] (1), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (4), url (3), rest (1)
-> **Code Keywords:** let (3), interface (1)
 > **CLI Commands:** curl (2), make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -624,7 +625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), let (1), override (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (3), api (2), database (1), generic (1)
 > **Code Identifiers:** lookup_field (1), product_id (1), product_data (1)
 > **Env Vars:** api (2)
 > **Speakers:** - we (1)
@@ -662,8 +663,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), api (4), [[Microsoft Products|Products]] (1), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (4), url (3), post (1), delete (1), rest (1)
-> **Code Keywords:** delete (6), let (3)
 > **CLI Commands:** find (1), curl (1)
 > **API Endpoints:** post  (1), delete  (1)
 > **Tools:** command line (2)
@@ -716,8 +717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), data (3), [[Microsoft Products|Products]] (2), generic (2), [[Django]] (1)
 > **Non-Speech:** (typing) (12)
-> **Code Keywords:** delete (3), class. (2), override (1), super (1)
 > **Env Vars:** http (2), url (1)
 > **Code Identifiers:** serialiszer_class (1)
 > **Analogies:** for example (1)
@@ -750,8 +751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), product (3), [[Representational State Transfer (REST)|Rest]] (2), data (1), [[Django]] (1)
 > **Env Vars:** api (4), url (3), rest (2)
-> **Code Keywords:** let (3), delete (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -759,7 +760,7 @@ created: 2026-04-29
 
 ### 3. Managing Serializer Fields, Relations, and Validation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Serializer with only selected fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-only-selected-fields?u=76281980)
@@ -800,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1)
+> **Frameworks & Libraries:** product (3), data (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -875,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (10), [[JSON]] (2), data (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -922,8 +923,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), api (1), [[E-Commerce]] (1), game (1)
 > **Code Identifiers:** min_value (2), max_value (2), max_digits (1), decimal_places (1)
-> **Code Keywords:** let (3), require (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** api (1)
 > **Versions:** 299.999 (1)
@@ -966,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), override (1), function (1)
+> **Frameworks & Libraries:** product (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Python (Programming Language)|Python]] (1)
 > **Ports:** :01 (1), :59 (1)
 > **Env Vars:** rest (1), api (1)
 > **CLI Commands:** python (1)
@@ -1046,7 +1047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (9), product (7), api (2), next (1), generic (1)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** rest_framework_response (1)
@@ -1106,7 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), override (1)
+> **Frameworks & Libraries:** product (8), data (3), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Env Vars:** rest (1), api (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1117,7 +1118,7 @@ created: 2026-04-29
 
 ### 4. Testing API Views
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test case for a CreateAPIView subclass
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980)
@@ -1180,8 +1181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (14), [[Django]] (7), api (7), [[Representational State Transfer (REST)|Rest]] (5), data (3)
 > **Env Vars:** api (7), rest (5), http (1)
-> **Code Keywords:** let (3), implements (1), interface (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1211,9 +1212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), api (2), database (1), data (1)
 > **Non-Speech:** (typing) (8)
-> **Code Keywords:** let (2), delete (2), case
-( (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (2)
 > **Speakers:** - [narrator] (1)
@@ -1243,7 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (3), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1282,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case. (1), this. (1), super (1)
+> **Frameworks & Libraries:** product (8), api (2), data (2), [[JSON]] (1), database (1)
 > **Env Vars:** api (2), patch (2), url (1), json (1), updi (1)
 > **API Endpoints:** patch  (2)
 > **CLI Commands:** make (1)
@@ -1334,7 +1334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), assert (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** product (9), database (2), [[Django]] (1), data (1), [[JSON]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -1343,7 +1343,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980)
@@ -1366,6 +1366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Django]] (2), [[Web Development]] (1), front-end (1), api (1)
 > **Env Vars:** rest (3), api (1)
 > **URLs:** [neverfriday.com](https://neverfriday.com) (1)
 > **Speakers:** - [rudolf] (1)

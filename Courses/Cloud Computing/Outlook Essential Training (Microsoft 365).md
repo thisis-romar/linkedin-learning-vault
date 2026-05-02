@@ -26,7 +26,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Outlook%20Essential%20Training%20(Microsoft%20365).md)
@@ -45,57 +45,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Stay organized and collaborate effectively with Outlook
+  - [Stay organized and collaborate effectively with Outlook](#stay-organized-and-collaborate-effectively-with-outlook)
 - [**1. Get Started and Connect Accounts in Outlook**](#1-get-started-and-connect-accounts-in-outlook) (2 videos)
-  - Navigate the Outlook interface
-  - Add and remove accounts in Outlook
+  - [Navigate the Outlook interface](#navigate-the-outlook-interface)
+  - [Add and remove accounts in Outlook](#add-and-remove-accounts-in-outlook)
 - [**2. Read Mail in Outlook**](#2-read-mail-in-outlook) (6 videos)
-  - Read mail and use the Focused Inbox
-  - Customize the Outlook inbox
-  - Customize the Outlook Ribbon
-  - Save attachments from a message
-  - Use Search and Advanced Find in Outlook
-  - Ignore conversations and flag mail as junk
+  - [Read mail and use the Focused Inbox](#read-mail-and-use-the-focused-inbox)
+  - [Customize the Outlook inbox](#customize-the-outlook-inbox)
+  - [Customize the Outlook Ribbon](#customize-the-outlook-ribbon)
+  - [Save attachments from a message](#save-attachments-from-a-message)
+  - [Use Search and Advanced Find in Outlook](#use-search-and-advanced-find-in-outlook)
+  - [Ignore conversations and flag mail as junk](#ignore-conversations-and-flag-mail-as-junk)
 - [**3. Organize Mail in Outlook**](#3-organize-mail-in-outlook) (5 videos)
-  - Flag, snooze, and pin messages
-  - Organize mail into folders and favorites
-  - Use Quick Steps to process messages
-  - Process messages with mail rules
-  - Delete, restore, archive, and sweep mail
+  - [Flag, snooze, and pin messages](#flag-snooze-and-pin-messages)
+  - [Organize mail into folders and favorites](#organize-mail-into-folders-and-favorites)
+  - [Use Quick Steps to process messages](#use-quick-steps-to-process-messages)
+  - [Process messages with mail rules](#process-messages-with-mail-rules)
+  - [Delete, restore, archive, and sweep mail](#delete-restore-archive-and-sweep-mail)
 - [**4. Create and Send Mail in Outlook**](#4-create-and-send-mail-in-outlook) (5 videos)
-  - Create and format a new message
-  - Reply, forward, and share message to Teams
-  - Highlight text for faster actions in Outlook
-  - Create and use an email signature
-  - Turn on automatic replies in Outlook
+  - [Create and format a new message](#create-and-format-a-new-message)
+  - [Reply, forward, and share message to Teams](#reply-forward-and-share-message-to-teams)
+  - [Highlight text for faster actions in Outlook](#highlight-text-for-faster-actions-in-outlook)
+  - [Create and use an email signature](#create-and-use-an-email-signature)
+  - [Turn on automatic replies in Outlook](#turn-on-automatic-replies-in-outlook)
 - [**5. Work with Contacts in Outlook**](#5-work-with-contacts-in-outlook) (2 videos)
-  - Create new contacts in Outlook
-  - Create contact lists in Outlook
+  - [Create new contacts in Outlook](#create-new-contacts-in-outlook)
+  - [Create contact lists in Outlook](#create-contact-lists-in-outlook)
 - [**6. Use the Outlook Accessibility Features**](#6-use-the-outlook-accessibility-features) (2 videos)
-  - Features for Outlook users with disabilities
-  - Create accessible content in Outlook
+  - [Features for Outlook users with disabilities](#features-for-outlook-users-with-disabilities)
+  - [Create accessible content in Outlook](#create-accessible-content-in-outlook)
 - [**7. Work with the Outlook Calendar**](#7-work-with-the-outlook-calendar) (4 videos)
-  - Change the look of the Outlook calendar
-  - Create an appointment and an all-day event
-  - Use categories to visually organize Outlook
-  - Create, open, and share calendars
+  - [Change the look of the Outlook calendar](#change-the-look-of-the-outlook-calendar)
+  - [Create an appointment and an all-day event](#create-an-appointment-and-an-all-day-event)
+  - [Use categories to visually organize Outlook](#use-categories-to-visually-organize-outlook)
+  - [Create, open, and share calendars](#create-open-and-share-calendars)
 - [**8. Meeting Management with Outlook**](#8-meeting-management-with-outlook) (3 videos)
-  - Create a meeting in Outlook
-  - Chair a meeting in Outlook
-  - Respond to a meeting invitation
+  - [Create a meeting in Outlook](#create-a-meeting-in-outlook)
+  - [Chair a meeting in Outlook](#chair-a-meeting-in-outlook)
+  - [Respond to a meeting invitation](#respond-to-a-meeting-invitation)
 - [**9. Work with To Do, Settings, and My Day**](#9-work-with-to-do-settings-and-my-day) (3 videos)
-  - Create and assign To Dos in Outlook
-  - Set general Outlook options
-  - Use My Day and notifications
+  - [Create and assign To Dos in Outlook](#create-and-assign-to-dos-in-outlook)
+  - [Set general Outlook options](#set-general-outlook-options)
+  - [Use My Day and notifications](#use-my-day-and-notifications)
 - [**10. Leveraging Copilot in Outlook**](#10-leveraging-copilot-in-outlook) (2 videos)
-  - Summarize emails and generate replies with Copilot
-  - Get coaching assistance and generate emails with Copilot
+  - [Summarize emails and generate replies with Copilot](#summarize-emails-and-generate-replies-with-copilot)
+  - [Get coaching assistance and generate emails with Copilot](#get-coaching-assistance-and-generate-emails-with-copilot)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Microsoft 365 is much more than Outlook
+  - [Microsoft 365 is much more than Outlook](#microsoft-365-is-much-more-than-outlook)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay organized and collaborate effectively with Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/stay-organized-and-collaborate-effectively-with-outlook?u=76281980)
@@ -120,13 +120,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - i (1)
 
 
 ### 1. Get Started and Connect Accounts in Outlook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate the Outlook interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980)
@@ -219,8 +220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (13), application (1), [[Microsoft Products]] (1), next (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (12), toggle (1)
-> **Code Keywords:** interface (4), this, (2), case, (1), let (1), for, (1)
 > **Analogies:** for example (3), similar to (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1)
@@ -307,7 +308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), case, (2), let (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (7), [[Microsoft 365]] (2), [[Microsoft]] (2), [[Google]] (2), cloud (1)
 > **UI Navigation:** scroll down (1), right-click (1), scroll up (1)
 > **Env Vars:** imap (1), isp (1)
 > **Code Identifiers:** icloud (1)
@@ -316,7 +317,7 @@ created: 2026-04-29
 
 ### 2. Read Mail in Outlook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Read mail and use the Focused Inbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980)
@@ -415,8 +416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), next (4), [[Microsoft 365]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Cross-References:** in the next (1), go back to (1), next video (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** such as (2), for example (1)
@@ -531,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from, (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), next (1), feature (1)
 > **UI Navigation:** click on (3), toggle (2), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (3)
@@ -639,7 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), this, (1), else. (1), let (1), default, (1)
+> **Frameworks & Libraries:** teams (3), [[Microsoft Outlook|Outlook]] (2), next (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** set up (3)
@@ -722,9 +723,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Word|Word]] (2), next (1)
 > **Env Vars:** pdf (5)
 > **UI Navigation:** click on (4), scroll down (1)
-> **Code Keywords:** let (2), else, (1), delete (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -821,9 +822,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (18), teams (3), [[Microsoft Outlook|Outlook]] (2), hit (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (5), such as (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** for. (2), let (2), for, (1)
 > **UI Navigation:** click on (1), checkbox (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -957,8 +958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Phishing]] (2), [[Microsoft]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (3), right-click (2), select the (1), scroll down (1)
-> **Code Keywords:** this, (3), let (2), delete (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** just like (1)
@@ -968,7 +969,7 @@ created: 2026-04-29
 
 ### 3. Organize Mail in Outlook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Flag, snooze, and pin messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980)
@@ -1073,9 +1074,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), next (3), [[Microsoft 365]] (1)
 > **UI Navigation:** right-click (3), click on (2), toggle (1)
 > **Analogies:** for example (5)
-> **Code Keywords:** let (2), this, (1), this. (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -1161,8 +1162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (5), drag and drop (1)
-> **Code Keywords:** let (3), this. (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -1275,7 +1276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), delete (2), case, (1)
+> **Frameworks & Libraries:** feature (1), [[Microsoft Outlook|Outlook]] (1), next (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1361,7 +1362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), delete (2), let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Search]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1491,7 +1492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (9), let (2), case. (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (3), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2)
@@ -1502,7 +1503,7 @@ created: 2026-04-29
 
 ### 4. Create and Send Mail in Outlook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and format a new message
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980)
@@ -1597,7 +1598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), for. (1), finally, (1), delete (1), continue (1)
+> **Frameworks & Libraries:** hit (4), [[Microsoft Outlook|Outlook]] (3), [[Microsoft]] (2), next (1), [[Search]] (1)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** dropdown (1), click on (1)
@@ -1710,7 +1711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), delete (2), case, (2)
+> **Frameworks & Libraries:** teams (4), [[Microsoft Outlook|Outlook]] (1), [[Microsoft OneDrive|Onedrive]] (1), hit (1), feature (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -1773,9 +1774,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Non-Speech:** (keyboard clicking) (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1830,7 +1831,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1), this, (1)
 > **UI Navigation:** scroll down (2), dropdown (1)
 > **Analogies:** just like (2), for example (1)
 > **CLI Commands:** make (2)
@@ -1899,7 +1899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (2), web (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** imap (1)
 > **UI Navigation:** scroll up (1)
@@ -1910,7 +1910,7 @@ created: 2026-04-29
 
 ### 5. Work with Contacts in Outlook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create new contacts in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-new-contacts-in-outlook?u=76281980)
@@ -1983,7 +1983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Outlook|Outlook]] (1), next (1), teams (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -2050,7 +2050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), continue (1), else, (1), this, (1)
+> **Frameworks & Libraries:** next (5), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** dropdown (1)
@@ -2060,7 +2060,7 @@ created: 2026-04-29
 
 ### 6. Use the Outlook Accessibility Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Features for Outlook users with disabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980)
@@ -2109,7 +2109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** next (4), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Word|Word]] (1)
 > **Cross-References:** we talked about (1), previous video (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
@@ -2169,17 +2169,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
 > **Analogies:** such as (2), for example (1)
 > **Best Practices:** good practice (2), best practice (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Work with the Outlook Calendar
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change the look of the Outlook calendar
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980)
@@ -2278,7 +2278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1), scroll up (1)
 > **Cross-References:** go back to (1)
@@ -2427,7 +2427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), private (2), this, (1), case, (1)
+> **Frameworks & Libraries:** next (3), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (9), find (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is a  (2), means that (1)
@@ -2545,7 +2545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), new, (1), this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **Non-Speech:** (typing loudly) (5)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (3)
@@ -2739,7 +2739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (4), case, (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Search]] (1), next (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** toggle (2), open the (1), click on (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -2748,7 +2748,7 @@ created: 2026-04-29
 
 ### 8. Meeting Management with Outlook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a meeting in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980)
@@ -2847,8 +2847,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Microsoft 365]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), from. (1)
 > **UI Navigation:** double-click (1), toggle (1), go to (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
@@ -2930,7 +2930,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this, (1), let (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3018,7 +3017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), teams (1), feature (1)
 > **Env Vars:** rsvp (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3026,7 +3025,7 @@ created: 2026-04-29
 
 ### 9. Work with To Do, Settings, and My Day
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and assign To Dos in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-assign-to-dos-in-outlook?u=76281980)
@@ -3111,6 +3110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[Microsoft]] (2), web (1), hit (1), teams (1)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **CLI Commands:** make (1)
@@ -3179,6 +3179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Cross-References:** we talked about (1)
@@ -3261,10 +3262,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), feature (2), [[Microsoft Excel|Excel]] (2), next (2), [[Microsoft Word]] (1)
 > **Cross-References:** go back to (1), previous video (1)
 > **UI Navigation:** switch to (1), click on (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -3273,7 +3274,7 @@ created: 2026-04-29
 
 ### 10. Leveraging Copilot in Outlook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize emails and generate replies with Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980)
@@ -3360,9 +3361,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), [[Microsoft 365]] (2), [[Microsoft Outlook|Outlook]] (2), ai (1), [[Microsoft]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), this, (1)
 > **UI Navigation:** in the sidebar (1), click on (1)
 > **Definitions:** is an  (2)
 > **Prerequisites:** getting started (1)
@@ -3489,7 +3490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), throw (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), prompt (5), next (3), [[Microsoft Outlook|Outlook]] (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -3499,7 +3500,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft 365 is much more than Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980)
@@ -3518,6 +3519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), web (1), [[Microsoft Copilot]] (1), ai (1), [[Microsoft 365]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

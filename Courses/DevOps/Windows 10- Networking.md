@@ -23,7 +23,7 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Windows%2010-%20Networking.md)
@@ -42,36 +42,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Understanding Windows 10 networking
+  - [Understanding Windows 10 networking](#understanding-windows-10-networking)
 - [**1. Configure IP Settings and Network Connectivity**](#1-configure-ip-settings-and-network-connectivity) (8 videos)
-  - Connect to the internet
-  - Network profiles
-  - Configure advanced profile sharing options
-  - Network connectivity: TCP/IP
-  - Network connectivity: DHCP and DNS
-  - Configure network adapters
-  - Manage default printers
-  - Create a VPN
+  - [Connect to the internet](#connect-to-the-internet)
+  - [Network profiles](#network-profiles)
+  - [Configure advanced profile sharing options](#configure-advanced-profile-sharing-options)
+  - [Network connectivity: TCP/IP](#network-connectivity-tcpip)
+  - [Network connectivity: DHCP and DNS](#network-connectivity-dhcp-and-dns)
+  - [Configure network adapters](#configure-network-adapters)
+  - [Manage default printers](#manage-default-printers)
+  - [Create a VPN](#create-a-vpn)
 - [**2. Configure Wireless Networking Settings**](#2-configure-wireless-networking-settings) (3 videos)
-  - Connect to a wireless network
-  - Manage wireless networks
-  - Troubleshoot wireless network connectivity
+  - [Connect to a wireless network](#connect-to-a-wireless-network)
+  - [Manage wireless networks](#manage-wireless-networks)
+  - [Troubleshoot wireless network connectivity](#troubleshoot-wireless-network-connectivity)
 - [**3. Configure and Maintain**](#3-configure-and-maintain) (4 videos)
-  - Configure Windows Defender Firewall
-  - Manage Windows Defender Firewall with advanced security
-  - Explore Windows Security
-  - Create a connection security rule
+  - [Configure Windows Defender Firewall](#configure-windows-defender-firewall)
+  - [Manage Windows Defender Firewall with advanced security](#manage-windows-defender-firewall-with-advanced-security)
+  - [Explore Windows Security](#explore-windows-security)
+  - [Create a connection security rule](#create-a-connection-security-rule)
 - [**4. Networking and Troubleshooting Basics**](#4-networking-and-troubleshooting-basics) (4 videos)
-  - Use ping to troubleshoot network connectivity
-  - Use ipconfig to troubleshoot network connectivity
-  - Use tracert to troubleshoot network connectivity
-  - Use PathPing to troubleshoot network connectivity
+  - [Use ping to troubleshoot network connectivity](#use-ping-to-troubleshoot-network-connectivity)
+  - [Use ipconfig to troubleshoot network connectivity](#use-ipconfig-to-troubleshoot-network-connectivity)
+  - [Use tracert to troubleshoot network connectivity](#use-tracert-to-troubleshoot-network-connectivity)
+  - [Use PathPing to troubleshoot network connectivity](#use-pathping-to-troubleshoot-network-connectivity)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Windows 10 networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/understanding-windows-10-networking?u=76281980)
@@ -100,8 +100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (1)
 > **Env Vars:** dhcp (1), tcpip (1), dns (1)
-> **Code Keywords:** let (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [joli] (1)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 ### 1. Configure IP Settings and Network Connectivity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980)
@@ -230,7 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), public (7), let (4), case, (1), default. (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), next (3), web (3), [[Security]] (2), prompt (2)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.4 (1)
@@ -321,7 +321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), private (9)
+> **Frameworks & Libraries:** business (3), [[Windows]] (3), [[Microsoft Office|Office]] (1), [[Hardware]] (1), data (1)
 > **Cross-References:** we talked about (2), in the last (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -401,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), private (3), let (1), default. (1), this, (1)
+> **Frameworks & Libraries:** [[Windows]] (2), data (2), next (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** setup (1), configure (1)
 > **Cross-References:** in the last (1)
@@ -499,8 +499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), [[Windows]] (2), [[Hardware]] (1), traffic (1)
 > **Env Vars:** tcp (4), dhcp (2), mac (1)
-> **Code Keywords:** let (2), private (1), public (1), break, (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Analogies:** picture (1), for instance (1), such as (1)
 > **Cross-References:** in the next (1), we talked about (1)
@@ -592,8 +592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), [[Windows]] (3), [[Hardware]] (3), [[IP Addressing]] (2), web (2)
 > **Env Vars:** dhcp (6), dns (6), tcp (3), apipa (2), mac (1)
-> **Code Keywords:** let (4), static (4), private (1)
 > **UI Navigation:** go to (2), open the (1), scroll down (1), right-click (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** version 4 (1), 169.254.0 (1), 169.254.255 (1)
@@ -722,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type, (1), this, (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Search]] (1), data (1), [[Troubleshooting]] (1)
 > **Env Vars:** usb (1), wan (1), tcpip (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -814,7 +814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), this, (1), let (1), default. (1), from, (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (2), business (1), [[OneNote]] (1)
 > **UI Navigation:** open the (2), scroll down (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -878,8 +878,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (10), [[Security]] (2), [[Windows]] (2), [[Virtual Private Network (VPN)|Virtual private network]] (1), data (1)
 > **Env Vars:** vpn (10)
-> **Code Keywords:** private (1), let (1), try. (1)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -887,7 +887,7 @@ created: 2026-04-29
 
 ### 2. Configure Wireless Networking Settings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to a wireless network
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980)
@@ -990,7 +990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1)
+> **Frameworks & Libraries:** [[Windows]] (5), next (3), data (2), prompt (1), [[Windows 10]] (1)
 > **Prerequisites:** you'll need (1), set up (1), configure (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1)
@@ -1053,9 +1053,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Wireless Networking]] (1), power (1), [[Windows]] (1)
 > **Best Practices:** it's best to (1), make sure to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** gps (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1169,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (2), private (2), static (2), case, (1)
+> **Frameworks & Libraries:** next (2), [[Windows]] (2), [[Windows 10]] (1)
 > **UI Navigation:** right-click (4)
 > **CLI Commands:** find (3)
 > **Env Vars:** adhcp (1), dhcp (1)
@@ -1181,7 +1181,7 @@ created: 2026-04-29
 
 ### 3. Configure and Maintain
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure Windows Defender Firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980)
@@ -1286,7 +1286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (4), pass (1), default. (1), let (1)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Microsoft Defender|Defender]] (8), next (3), [[Search]] (2), feature (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1), open the (1), scroll down (1)
 > **Cross-References:** in the next (1), next video (1)
@@ -1376,7 +1376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (2), public (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (6), [[Windows]] (5), [[Microsoft Defender|Defender]] (3), data (2), power (2)
 > **UI Navigation:** double-click (3), scroll down (2)
 > **Cross-References:** we talked about (1), in the last (1), later in (1)
 > **Env Vars:** tcp (1)
@@ -1421,7 +1421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), this, (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Security]] (3), [[Microsoft Defender|Defender]] (1), [[Windows 10]] (1), [[Search]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** make sure to (1)
@@ -1505,7 +1505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), private (1), delete (1)
+> **Frameworks & Libraries:** [[Security]] (6), next (4), [[Windows]] (1)
 > **Versions:** 10.10.1 (2)
 > **UI Navigation:** right-click (2)
 > **Analogies:** such as (2)
@@ -1516,7 +1516,7 @@ created: 2026-04-29
 
 ### 4. Networking and Troubleshooting Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use ping to troubleshoot network connectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980)
@@ -1643,7 +1643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), prompt (3), [[Routing]] (2), [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** powershell (5), command prompt (3)
 > **Versions:** 127.0.0 (2), 192.168.1 (2), 192.168 (1), 1.82 (1)
 > **Env Vars:** tcp (1), ipv4 (1), ipv6 (1)
@@ -1789,8 +1789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (5), [[Powershell]] (3), dns (2), [[Windows]] (2), prompt (1)
 > **Env Vars:** dhcp (6), lan (5), dns (2), tcp (1)
-> **Code Keywords:** let (6), this, (2), continue (2), static (2), this. (1)
 > **Tools:** powershell (3), command prompt (1)
 > **Non-Speech:** (keyboard clicking) (3), (mouse clicking) (1)
 > **Versions:** 192168.1.245 (1), version 4 (1), 192.168.1 (1)
@@ -1857,7 +1857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), while, (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), data (4), [[LinkedIn]] (3), web (3), [[Windows]] (1)
 > **Tools:** powershell (5)
 > **URLs:** [linkedin.com](https://linkedin.com) (1), [lynda.com](https://lynda.com) (1), [lllynda.com](https://lllynda.com) (1)
 > **Warnings:** note that (1), keep in mind (1)
@@ -1927,7 +1927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), while, (1), case, (1), pass (1), else. (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), data (2), dns (2), [[Troubleshooting]] (2), [[LinkedIn]] (1)
 > **Env Vars:** dns (2), tcp (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1), [lllynda.com](https://lllynda.com) (1)
 > **Tools:** powershell (2)
@@ -1939,7 +1939,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980)
@@ -1968,6 +1968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[LinkedIn]] (2), [[Windows 10]] (1), next (1), vpn (1)
 > **Env Vars:** vpn (1), dhcp (1), apipa (1), dns (1), tcp (1)
 > **Prerequisites:** configure (3), set up (1)
 > **Tools:** command line (1), powershell (1)

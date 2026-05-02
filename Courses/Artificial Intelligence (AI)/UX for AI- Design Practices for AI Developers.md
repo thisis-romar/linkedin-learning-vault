@@ -32,7 +32,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/UX%20for%20AI-%20Design%20Practices%20for%20AI%20Developers.md)
@@ -51,31 +51,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Designing for AI
-  - What is copilot stack?
+  - [Designing for AI](#designing-for-ai)
+  - [What is copilot stack?](#what-is-copilot-stack)
 - [**1. Collaborative UX in The AI Copilot Stack**](#1-collaborative-ux-in-the-ai-copilot-stack) (3 videos)
-  - What is collaborative UX?
-  - Collaborative UX practices
-  - Copilot stack layers
+  - [What is collaborative UX?](#what-is-collaborative-ux)
+  - [Collaborative UX practices](#collaborative-ux-practices)
+  - [Copilot stack layers](#copilot-stack-layers)
 - [**2. The Titanium Tetrahedron in AI UX Matters**](#2-the-titanium-tetrahedron-in-ai-ux-matters) (8 videos)
-  - The three iron triangle dimensions
-  - Dimension 1: Practices for speed
-  - Semantic coding for speed
-  - Dimension 2: Practices for costs
-  - Semantic coding for cost
-  - Dimension 3: Practices for quality
-  - Dimension 4: Practices for emotion
-  - Semantic coding for emotion
+  - [The three iron triangle dimensions](#the-three-iron-triangle-dimensions)
+  - [Dimension 1: Practices for speed](#dimension-1-practices-for-speed)
+  - [Semantic coding for speed](#semantic-coding-for-speed)
+  - [Dimension 2: Practices for costs](#dimension-2-practices-for-costs)
+  - [Semantic coding for cost](#semantic-coding-for-cost)
+  - [Dimension 3: Practices for quality](#dimension-3-practices-for-quality)
+  - [Dimension 4: Practices for emotion](#dimension-4-practices-for-emotion)
+  - [Semantic coding for emotion](#semantic-coding-for-emotion)
 - [**3. Building Appropriate Trust**](#3-building-appropriate-trust) (3 videos)
-  - Adding friction: The new math
-  - What's responsible technology?
-  - Semantic coding for responsible AI
+  - [Adding friction: The new math](#adding-friction-the-new-math)
+  - [What's responsible technology?](#whats-responsible-technology)
+  - [Semantic coding for responsible AI](#semantic-coding-for-responsible-ai)
 - [**4. Conclusion**](#4-conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980)
@@ -96,6 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (4), ai (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
@@ -184,7 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), ai (7), [[Security]] (3), product (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** evp (1)
 > **Definitions:** is a  (1)
@@ -194,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Collaborative UX in The AI Copilot Stack
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is collaborative UX?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980)
@@ -293,6 +294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), ai (8), ux (2), [[Microsoft]] (2), [[ChatGPT]] (1)
 > **Env Vars:** mit (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - when (1)
@@ -428,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1)
+> **Frameworks & Libraries:** ai (9), ux (7), [[Microsoft Copilot|Copilot]] (3), chatbot (1), game (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** mit (1)
 > **UI Navigation:** go to (1)
@@ -524,7 +526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (11), [[Orchestration]] (5), ux (5), [[Microsoft Copilot|Copilot]] (3), [[Semantic Kernel]] (1)
 > **Env Vars:** gpu (1), led (1)
 > **CLI Commands:** snap (1)
 > **Cross-References:** in the next (1)
@@ -534,7 +536,7 @@ created: 2026-04-29
 
 ### 2. The Titanium Tetrahedron in AI UX Matters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The three iron triangle dimensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980)
@@ -601,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), new. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), ai (4), ux (3), [[User Experience (UX)|User experience]] (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
@@ -685,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), while. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), ux (3), ai (3), [[Microsoft Office|Office]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - so (1)
@@ -793,7 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (3), type. (1), for, (1)
+> **Frameworks & Libraries:** [[Semantic Kernel]] (7), [[GitHub]] (2), ux (2), ai (2), application (2)
 > **UI Navigation:** go to (6)
 > **Tools:** github (2), vs code (1), visual studio (1)
 > **CLI Commands:** make (3)
@@ -857,10 +859,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), ai (1), [[GPT-4]] (1), ux (1), [[Engineering]] (1)
 > **Env Vars:** ada (2), gpt (1), abcd (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Cross-References:** we covered (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - so (1)
@@ -970,7 +972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2)
+> **Frameworks & Libraries:** ai (3), [[GitHub]] (3), [[Tokens]] (2), [[Engineering]] (2), [[Python (Programming Language)|Python]] (2)
 > **Tools:** github (3), vs code (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** gpt (3)
@@ -1016,7 +1018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), new. (1), let (1)
+> **Frameworks & Libraries:** ai (7), ux (3), prompt (1), power (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cto (1)
@@ -1115,8 +1117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Microsoft Copilot|Copilot]] (2), product (2), ux (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** new. (3), let (3)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - so (1)
 
@@ -1279,7 +1281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (2), this. (1)
+> **Frameworks & Libraries:** feature (3), ai (3), [[React.js|React]] (2), [[Microsoft Word|Word]] (1), prompt (1)
 > **CLI Commands:** make (5)
 > **Analogies:** imagine (1), kind of like (1)
 > **File Paths:** key.env (1)
@@ -1289,7 +1291,7 @@ created: 2026-04-29
 
 ### 3. Building Appropriate Trust
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding friction: The new math
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/adding-friction-the-new-math?u=76281980)
@@ -1330,6 +1332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (7), ai (4), cloud (4), [[Microsoft Copilot|Copilot]] (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - so (1)
@@ -1365,7 +1368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (2)
 > **Speakers:** - last (1)
 
 #### Semantic coding for responsible AI
@@ -1495,7 +1498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (4), this. (3), this, (1)
+> **Frameworks & Libraries:** ai (5), feature (4), [[Responsible AI]] (3), [[Semantic Kernel]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (5), kind of like (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** make_me_responsible (3)
@@ -1505,7 +1508,7 @@ created: 2026-04-29
 
 ### 4. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980)
@@ -1526,6 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[Microsoft Copilot|Copilot]] (1), [[Semantic Kernel]] (1)
 > **Speakers:** - this (1)
 
 

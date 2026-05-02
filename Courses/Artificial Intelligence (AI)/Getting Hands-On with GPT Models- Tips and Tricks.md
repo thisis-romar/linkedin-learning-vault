@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Getting%20Hands-On%20with%20GPT%20Models-%20Tips%20and%20Tricks.md)
@@ -53,34 +53,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Level up your ChatGPT skills
-  - Configuring ChatGPT
+  - [Level up your ChatGPT skills](#level-up-your-chatgpt-skills)
+  - [Configuring ChatGPT](#configuring-chatgpt)
 - [**1. Refresh Your Basic Prompting Practice**](#1-refresh-your-basic-prompting-practice) (5 videos)
-  - Brainstorming with GPT
-  - Iterating with GPT
-  - Improving writing with GPT
-  - Challenge: Creating an ice cream advertisement
-  - Solution: Creating an ice cream advertisement
+  - [Brainstorming with GPT](#brainstorming-with-gpt)
+  - [Iterating with GPT](#iterating-with-gpt)
+  - [Improving writing with GPT](#improving-writing-with-gpt)
+  - [Challenge: Creating an ice cream advertisement](#challenge-creating-an-ice-cream-advertisement)
+  - [Solution: Creating an ice cream advertisement](#solution-creating-an-ice-cream-advertisement)
 - [**2. Advance Your Prompts to Improve Results**](#2-advance-your-prompts-to-improve-results) (6 videos)
-  - An overview of OpenAI GPT and Reasoning Models
-  - Improving prompting with examples and quotes
-  - Using completion sequences and few shot
-  - Using chain-of-thought reasoning
-  - Challenge: Give GPT a tricky problem
-  - Solution: Give GPT a tricky problem
+  - [An overview of OpenAI GPT and Reasoning Models](#an-overview-of-openai-gpt-and-reasoning-models)
+  - [Improving prompting with examples and quotes](#improving-prompting-with-examples-and-quotes)
+  - [Using completion sequences and few shot](#using-completion-sequences-and-few-shot)
+  - [Using chain-of-thought reasoning](#using-chain-of-thought-reasoning)
+  - [Challenge: Give GPT a tricky problem](#challenge-give-gpt-a-tricky-problem)
+  - [Solution: Give GPT a tricky problem](#solution-give-gpt-a-tricky-problem)
 - [**3. Learn How to Code with ChatGPT**](#3-learn-how-to-code-with-chatgpt) (6 videos)
-  - Interpreting code with ChatGPT
-  - Generating code with ChatGPT
-  - Editing code with ChatGPT
-  - Formatting responses as JSON with ChatGPT
-  - Challenge: Auto formatting an API call
-  - Solution: Auto formatting an API call
+  - [Interpreting code with ChatGPT](#interpreting-code-with-chatgpt)
+  - [Generating code with ChatGPT](#generating-code-with-chatgpt)
+  - [Editing code with ChatGPT](#editing-code-with-chatgpt)
+  - [Formatting responses as JSON with ChatGPT](#formatting-responses-as-json-with-chatgpt)
+  - [Challenge: Auto formatting an API call](#challenge-auto-formatting-an-api-call)
+  - [Solution: Auto formatting an API call](#solution-auto-formatting-an-api-call)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Level up your ChatGPT skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980)
@@ -101,6 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Prompt Engineering]] (1), [[Generative AI]] (1), data (1)
 > **Env Vars:** gpt (2)
 > **Speakers:** - okay (1)
 
@@ -225,7 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), public (1), switch (1), private (1), continue (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (17), data (3), prompt (3), business (2), ai (1)
 > **UI Navigation:** click on (9), go to (3), toggle (2)
 > **Speakers:** - [instructor] (3), - [chatgpt] (2)
 > **CLI Commands:** make (1)
@@ -237,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Refresh Your Basic Prompting Practice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Brainstorming with GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980)
@@ -346,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), require (2), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[GPT-4]] (2), prompt (1), [[Large Language Models (LLM)|Large language models]] (1), hit (1)
 > **Env Vars:** gpt (3), bogo (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -448,7 +449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), hit (3), prompt (2), [[Large Language Models (LLM)|Large language models]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (3)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (1), :30 (1)
@@ -517,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), hit (4), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gpt (1), pdf (1)
 > **File Paths:** mistakes_article.txt (1)
@@ -547,7 +548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1)
 > **Env Vars:** gpt (3)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [host] (1)
@@ -642,7 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), hit (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -650,7 +651,7 @@ created: 2026-04-29
 
 ### 2. Advance Your Prompts to Improve Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of OpenAI GPT and Reasoning Models
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980)
@@ -741,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), hit (2), [[Reinforcement Learning]] (1), ux (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (5)
 > **UI Navigation:** dropdown (1), switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -825,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), for, (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** hit (5), prompt (4), web (3), [[ChatGPT]] (2), [[Search]] (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -902,7 +903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (1)
+> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (4), hit (4), product (1)
 > **CLI Commands:** cat (1), make (1)
 > **File Paths:** prompts.txt (1)
 > **Exercise Files:** exercise files (1)
@@ -996,7 +997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), default. (1), case, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), prompt (5), hit (3), ai (1), [[Microsoft Word|Word]] (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -1020,6 +1021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (1), prompt (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** gpt (2)
 > **Speakers:** - [instructor] (1)
@@ -1078,7 +1080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1)
+> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (2), hit (1), [[LinkedIn]] (1)
 > **Env Vars:** gpt (2), o2_06 (1)
 > **Cross-References:** as we saw (1), previous video (1)
 > **File Paths:** prompts.txt (1)
@@ -1090,7 +1092,7 @@ created: 2026-04-29
 
 ### 3. Learn How to Code with ChatGPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Interpreting code with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/interpreting-code-with-chatgpt?u=76281980)
@@ -1167,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), hit (2), prompt (1), [[Programming]] (1), data (1)
 > **Env Vars:** gpt (2)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
@@ -1334,7 +1336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), function (3), interface (2)
+> **Frameworks & Libraries:** data (7), hit (6), [[ChatGPT]] (5), [[JavaScript]] (4), prompt (3)
 > **UI Navigation:** go to (6), click on (1)
 > **Env Vars:** gpt (3), html (2)
 > **CLI Commands:** make (3), python (1)
@@ -1504,7 +1506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), case, (2), function (1), case. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), hit (6), prompt (3), [[JavaScript]] (3), [[GPT-4]] (1)
 > **CLI Commands:** make (6), find (2), python (1)
 > **UI Navigation:** go to (3), dropdown (1)
 > **Best Practices:** make sure to (4)
@@ -1580,7 +1582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (1)
+> **Frameworks & Libraries:** data (12), [[JSON]] (4), [[ChatGPT]] (4), hit (4), [[Programming]] (1)
 > **Env Vars:** json (4), gpt (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1), make sure to (1)
@@ -1619,6 +1621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), data (3), prompt (1), [[GPT-4]] (1), [[JavaScript]] (1)
 > **Env Vars:** api (5), gpt (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
@@ -1711,7 +1714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (1), interface (1), continue (1)
+> **Frameworks & Libraries:** api (8), data (8), prompt (4), [[ChatGPT]] (4), hit (2)
 > **Env Vars:** api (8), o3_06 (1), gpt (1)
 > **CLI Commands:** make (4), find (2), python (1)
 > **Code Identifiers:** chatgpt (3)
@@ -1723,7 +1726,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980)
@@ -1742,8 +1745,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Generative AI]] (2), [[ChatGPT]] (1), ai (1), llm (1)
 > **Env Vars:** gpt (1), roi (1), llm (1)
-> **Code Keywords:** let (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Speakers:** - thank (1)
 

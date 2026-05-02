@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/gpt-4
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Generative%20AI%20with%20GPT.md)
@@ -51,30 +51,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - A leap in artificial intelligence
+  - [A leap in artificial intelligence](#a-leap-in-artificial-intelligence)
 - [**1. AI in Business**](#1-ai-in-business) (1 videos)
-  - And then there was GPT
+  - [And then there was GPT](#and-then-there-was-gpt)
 - [**2. AI Background**](#2-ai-background) (3 videos)
-  - AI: The story so far
-  - OpenAI is founded
-  - The OpenAI charter
+  - [AI: The story so far](#ai-the-story-so-far)
+  - [OpenAI is founded](#openai-is-founded)
+  - [The OpenAI charter](#the-openai-charter)
 - [**3. Introducing GPT**](#3-introducing-gpt) (7 videos)
-  - GPT and Natural Language Processing (NLP)
-  - GPT and Generative AI
-  - What is GPT?
-  - ChatGPT and prompt engineering
-  - GPT in practice
-  - Limitations of GPT
-  - Challenges and risks of AI
+  - [GPT and Natural Language Processing (NLP)](#gpt-and-natural-language-processing-nlp)
+  - [GPT and Generative AI](#gpt-and-generative-ai)
+  - [What is GPT?](#what-is-gpt)
+  - [ChatGPT and prompt engineering](#chatgpt-and-prompt-engineering)
+  - [GPT in practice](#gpt-in-practice)
+  - [Limitations of GPT](#limitations-of-gpt)
+  - [Challenges and risks of AI](#challenges-and-risks-of-ai)
 - [**4. The Future of AI**](#4-the-future-of-ai) (2 videos)
-  - Business preparation for AI
-  - Career opportunities in AI and GPT
+  - [Business preparation for AI](#business-preparation-for-ai)
+  - [Career opportunities in AI and GPT](#career-opportunities-in-ai-and-gpt)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The Future of AI and Next Steps
+  - [The Future of AI and Next Steps](#the-future-of-ai-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A leap in artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980)
@@ -99,14 +99,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1), ai (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - artificial (1)
 
 
 ### 1. AI in Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### And then there was GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980)
@@ -159,16 +159,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Generative AI]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), game (1)
 > **Env Vars:** gpt (7)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - for (1)
 
 
 ### 2. AI Background
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI: The story so far
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980)
@@ -233,9 +233,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), [[Algorithms]] (2), data (2), [[Deep Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (6), imagine (1), for example (1), picture (1)
 > **Env Vars:** gpt (2), hal (1), ani (1), agi (1), asi (1)
-> **Code Keywords:** let (2), self (2), this. (1), super (1), continue (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [presenter] (1)
 
@@ -316,9 +316,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Microsoft]] (4), [[Reinforcement Learning]] (2), [[Search]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gpt (3), ceo (2), agi (2)
 > **Analogies:** such as (5), for example (1), similar to (1)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
@@ -393,8 +393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[Ethics]] (2), [[Responsible AI]] (1), [[Security]] (1), [[Accountability]] (1)
 > **Env Vars:** agi (9)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), for instance (1), such as (1)
 > **Cross-References:** next video (1)
@@ -403,7 +403,7 @@ created: 2026-04-29
 
 ### 3. Introducing GPT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GPT and Natural Language Processing (NLP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980)
@@ -472,10 +472,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), nlp (4), [[Microsoft Word|Word]] (3), next (3), ai (2)
 > **Analogies:** such as (5), for example (3)
 > **Env Vars:** nlp (4), gpt (2)
 > **Definitions:** is a  (2), is called (1), known as (1)
-> **Code Keywords:** function (1), let (1), this. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -537,6 +537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (10), ai (7), prompt (3), [[Search]] (1), [[Google]] (1)
 > **Analogies:** for example (2), such as (1), picture (1)
 > **Env Vars:** gpt (2)
 > **Cross-References:** in the next (1)
@@ -640,11 +641,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microsoft Word|Word]] (5), ai (4), next (2), llm (2)
 > **Env Vars:** gpt (13), llm (2), gpt4 (1)
 > **Versions:** version 4 (2), version 1 (1), version 2 (1), 1.5 (1), version 3 (1)
 > **Definitions:** is a  (2), stands for (1), is called (1)
 > **CLI Commands:** make (2), node (1)
-> **Code Keywords:** type, (1), public (1), function (1)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - gpt (1)
 
@@ -757,11 +758,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (19), prompt (6), [[Generative AI]] (2), ai (2), [[Prompt Engineering]] (2)
 > **Env Vars:** gpt (8), rlhf (1)
 > **Analogies:** such as (3), for example (3), for instance (2)
 > **Definitions:** is a  (4), we call this (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** public (2)
 > **Versions:** version 3 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -844,9 +845,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[ChatGPT]] (3), [[Search]] (2), prompt (2), web (1)
 > **Env Vars:** gpt (17), lmm (1), sql (1)
 > **Analogies:** for example (4), picture (2), such as (1), imagine (1)
-> **Code Keywords:** interface (1), finally, (1), this, (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - while (1)
@@ -946,10 +947,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (5), [[GPT-4]] (2), data (2), ai (2), [[Probability]] (1)
 > **Env Vars:** gpt (14)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1044,8 +1045,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (21), next (2), [[Ethics]] (2), [[Automation]] (2), business (2)
 > **Analogies:** for example (6), such as (4), for instance (1), imagine (1)
-> **Code Keywords:** raise (2), finally, (1), self (1)
 > **Env Vars:** gpt (2), ceo (1)
 > **Cross-References:** next video (1)
 > **Warnings:** be aware (1)
@@ -1054,7 +1055,7 @@ created: 2026-04-29
 
 ### 4. The Future of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business preparation for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980)
@@ -1131,7 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (4), let (1), new, (1)
+> **Frameworks & Libraries:** ai (18), [[Microsoft Products|Products]] (2), leadership (2), management (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** swot (2), gpt (1)
 > **Analogies:** such as (2)
 > **Speakers:** - as (1)
@@ -1195,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1), require (1)
+> **Frameworks & Libraries:** ai (18), data (3), [[Generative AI]] (2), business (1), next (1)
 > **Env Vars:** gpt (2), gdp (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - while (1)
@@ -1203,7 +1204,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Future of AI and Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980)
@@ -1276,10 +1277,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), next (2), [[ChatGPT]] (1), management (1), [[Sustainability]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** gpt (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - not (1)
 
 

@@ -39,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning-%20Model%20Optimization%20and%20Tuning%20(2022).md)
@@ -58,49 +58,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Optimizing neural networks
-  - Prerequisites for the course
-  - Setting up exercise files
+  - [Optimizing neural networks](#optimizing-neural-networks)
+  - [Prerequisites for the course](#prerequisites-for-the-course)
+  - [Setting up exercise files](#setting-up-exercise-files)
 - [**1. Introduction to Deep Learning Optimization**](#1-introduction-to-deep-learning-optimization) (6 videos)
-  - What is deep learning?
-  - Review of artificial neural networks
-  - An ANN model
-  - Model optimization and tuning
-  - The deep learning tuning process
-  - Experiment setups for the course
+  - [What is deep learning?](#what-is-deep-learning)
+  - [Review of artificial neural networks](#review-of-artificial-neural-networks)
+  - [An ANN model](#an-ann-model)
+  - [Model optimization and tuning](#model-optimization-and-tuning)
+  - [The deep learning tuning process](#the-deep-learning-tuning-process)
+  - [Experiment setups for the course](#experiment-setups-for-the-course)
 - [**2. Tuning the Deep Learning Network**](#2-tuning-the-deep-learning-network) (6 videos)
-  - Epoch and batch size tuning
-  - Epoch and batch size experiment
-  - Hidden layers tuning
-  - Determining nodes in a layer
-  - Choosing activation functions
-  - Initializing weights
+  - [Epoch and batch size tuning](#epoch-and-batch-size-tuning)
+  - [Epoch and batch size experiment](#epoch-and-batch-size-experiment)
+  - [Hidden layers tuning](#hidden-layers-tuning)
+  - [Determining nodes in a layer](#determining-nodes-in-a-layer)
+  - [Choosing activation functions](#choosing-activation-functions)
+  - [Initializing weights](#initializing-weights)
 - [**3. Tuning Back Propagation**](#3-tuning-back-propagation) (6 videos)
-  - Vanishing and exploding gradients
-  - Batch normalization
-  - Optimizers
-  - Optimizer experiment
-  - Learning rate
-  - Learning rate experiment
+  - [Vanishing and exploding gradients](#vanishing-and-exploding-gradients)
+  - [Batch normalization](#batch-normalization)
+  - [Optimizers](#optimizers)
+  - [Optimizer experiment](#optimizer-experiment)
+  - [Learning rate](#learning-rate)
+  - [Learning rate experiment](#learning-rate-experiment)
 - [**4. Overfitting Management**](#4-overfitting-management) (5 videos)
-  - Overfitting in ANNs
-  - Regularization
-  - Regularization experiment
-  - Dropouts
-  - Dropout experiment
+  - [Overfitting in ANNs](#overfitting-in-anns)
+  - [Regularization](#regularization)
+  - [Regularization experiment](#regularization-experiment)
+  - [Dropouts](#dropouts)
+  - [Dropout experiment](#dropout-experiment)
 - [**5. Model Tuning Exercise**](#5-model-tuning-exercise) (6 videos)
-  - Tuning exercise: Problem statement
-  - Acquire and process data
-  - Tuning the network
-  - Tuning backpropagation
-  - Avoiding overfitting
-  - Building the final model
+  - [Tuning exercise: Problem statement](#tuning-exercise-problem-statement)
+  - [Acquire and process data](#acquire-and-process-data)
+  - [Tuning the network](#tuning-the-network)
+  - [Tuning backpropagation](#tuning-backpropagation)
+  - [Avoiding overfitting](#avoiding-overfitting)
+  - [Building the final model](#building-the-final-model)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your deep learning journey
+  - [Continuing your deep learning journey](#continuing-your-deep-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing neural networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980)
@@ -127,7 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), data (1), [[Agile Development|Agile]] (1)
 > **Speakers:** - [kumaran] (1)
 
 #### Prerequisites for the course
@@ -195,7 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (13), [[TensorFlow]] (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** getting started (2)
@@ -260,6 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (6), prompt (4), [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1), [[Windows]] (1)
 > **Tools:** jupyter (6), anaconda (5), command prompt (4)
 > **Exercise Files:** exercise files (6)
 > **Prerequisites:** set up (3), install (2)
@@ -267,12 +268,11 @@ created: 2026-04-29
 > **UI Navigation:** go to (1), open the (1), navigate to (1)
 > **Versions:** python 3 (2)
 > **Cross-References:** go back to (1), in the next (1)
-> **Code Keywords:** let (1)
 
 
 ### 1. Introduction to Deep Learning Optimization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980)
@@ -311,7 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), require (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (10), [[Neural Networks]] (3), data (2), [[Algorithms]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -389,8 +389,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), next (3), [[Artificial Neural Networks]] (1), data (1), [[Deep Learning]] (1)
 > **CLI Commands:** node (9)
-> **Code Keywords:** let (1), case. (1), function (1)
 > **Env Vars:** ann (3)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** we discussed (1), in the next (1)
@@ -435,7 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), finally, (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** ann (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -483,7 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), data (1)
 > **Env Vars:** cpu (1)
 > **Warnings:** note that (1)
 > **Speakers:** - let (1)
@@ -557,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), this, (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[Deep Learning]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
@@ -611,7 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (3), [[Deep Learning]] (2), feature (2)
 > **Prerequisites:** setup (1), getting started (1), install (1), set up (1)
 > **File Paths:** iris.csv (1)
 > **CLI Commands:** make (1)
@@ -621,7 +621,7 @@ created: 2026-04-29
 
 ### 2. Tuning the Deep Learning Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Epoch and batch size tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-tuning?u=76281980)
@@ -670,7 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1)
+> **Frameworks & Libraries:** data (2), power (1), parallel (1), next (1)
 > **Env Vars:** ann (1), gpu (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -752,7 +752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), this. (1), case, (1)
+> **Frameworks & Libraries:** data (4), [[Deep Learning]] (1), next (1)
 > **Warnings:** be aware (1), warning (1)
 > **Versions:** 2.1 (1)
 > **Exercise Files:** template (1)
@@ -808,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), continue (1), case. (1)
+> **Frameworks & Libraries:** data (2), feature (1), node (1)
 > **CLI Commands:** node (1)
 > **Code Identifiers:** ebooks (1)
 > **Versions:** 2.3 (1)
@@ -861,7 +861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), require (1), let (1)
+> **Frameworks & Libraries:** data (2), feature (1), node (1)
 > **CLI Commands:** node (1)
 > **Versions:** 2.4 (1)
 > **Definitions:** is a  (1)
@@ -919,7 +919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), case. (2), default, (1), class. (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Algorithms]] (1), [[Neural Networks]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Versions:** 2.5 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -961,13 +961,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Prerequisites:** initialization (5)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Tuning Back Propagation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vanishing and exploding gradients
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/vanishing-and-exploding-gradients?u=76281980)
@@ -1032,8 +1031,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (2), next (1)
 > **Definitions:** is called (2), is a  (2), is an  (1)
-> **Code Keywords:** let (2), function (1), finally, (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - building (1)
@@ -1077,7 +1076,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
 > **Versions:** 3.2 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1115,6 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Deep Learning]] (2), cloud (1), data (1), [[TensorFlow]] (1)
 > **Env Vars:** sgd (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
@@ -1149,7 +1148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), case, (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** get_optimizer (1), learning_rate (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (1)
@@ -1188,7 +1187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1223,14 +1222,13 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Versions:** 0.001 (2), 0.01 (2), 0.1 (2), 0.5 (2), 3.6 (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ebooks (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Overfitting Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overfitting in ANNs
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980)
@@ -1275,6 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **Definitions:** known as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1306,6 +1305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Neural Networks]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [kumaran] (1)
@@ -1335,7 +1335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** management (1), [[Algorithms]] (1)
 > **Env Vars:** l1_l2 (1)
 > **Versions:** 4.3 (1)
 > **Best Practices:** recommended (1)
@@ -1369,9 +1369,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), next (2), feature (1), data (1)
 > **CLI Commands:** node (2)
 > **Cross-References:** in the next (2)
-> **Code Keywords:** default, (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1404,7 +1404,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), case, (1)
 > **Versions:** 4.5 (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -1412,7 +1411,7 @@ created: 2026-04-29
 
 ### 5. Model Tuning Exercise
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tuning exercise: Problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980)
@@ -1487,8 +1486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Deep Learning]] (3), [[System Monitoring]] (1), application (1), feature (1)
 > **Env Vars:** cpu (3), csv (2)
-> **Code Keywords:** let (1), continue (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** caution (1), troubleshoot (1)
 > **Prerequisites:** getting started (2)
@@ -1523,7 +1522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), continue (1)
+> **Frameworks & Libraries:** data (2), feature (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Code Identifiers:** get_rca_data (1)
 > **Env Vars:** csv (1)
@@ -1566,9 +1565,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), node (1)
 > **Cross-References:** later in (1), earlier in (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** hipo (1)
 > **Versions:** 5.3 (1)
 > **Speakers:** - we (1)
@@ -1604,7 +1603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** sgd (1)
 > **Versions:** 0.001 (1)
 > **UI Navigation:** go to (1)
@@ -1635,7 +1634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), case. (1)
+> **Frameworks & Libraries:** next (1)
 > **Versions:** 0.2 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1670,9 +1669,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** template (1)
 > **Warnings:** warning (1)
@@ -1681,7 +1680,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your deep learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/continuing-your-deep-learning-journey?u=76281980)
@@ -1704,8 +1703,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1), data (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [kumaran] (1)
 
 

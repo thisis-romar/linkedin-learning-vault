@@ -32,7 +32,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL-%20Logical%20Query%20Processing%2C%20Part%201.md)
@@ -51,38 +51,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Course introduction
-  - Course agenda
-  - Tooling
-  - Introducing the demo database
-  - Using the code files
+  - [Course introduction](#course-introduction)
+  - [Course agenda](#course-agenda)
+  - [Tooling](#tooling)
+  - [Introducing the demo database](#introducing-the-demo-database)
+  - [Using the code files](#using-the-code-files)
 - [**1. Constructing Query Source Data Sets**](#1-constructing-query-source-data-sets) (5 videos)
-  - Single data source queries
-  - Dual source query processing
-  - Joining multiple source data sets
-  - Challenge: Hybrid multi-table join
-  - Solution: Hybrid multi-table join
+  - [Single data source queries](#single-data-source-queries)
+  - [Dual source query processing](#dual-source-query-processing)
+  - [Joining multiple source data sets](#joining-multiple-source-data-sets)
+  - [Challenge: Hybrid multi-table join](#challenge-hybrid-multi-table-join)
+  - [Solution: Hybrid multi-table join](#solution-hybrid-multi-table-join)
 - [**2. Row Filters**](#2-row-filters) (3 videos)
-  - Filtering source rows
-  - Missing information and ternary logic
-  - Dealing with ternary logic in SQL
+  - [Filtering source rows](#filtering-source-rows)
+  - [Missing information and ternary logic](#missing-information-and-ternary-logic)
+  - [Dealing with ternary logic in SQL](#dealing-with-ternary-logic-in-sql)
 - [**3. Grouping**](#3-grouping) (5 videos)
-  - Grouping
-  - Dealing with NULLs and elimination duplicates
-  - Group filters
-  - Challenge: Filtering and grouped query
-  - Solution: Grouped query with Distinct
+  - [Grouping](#grouping)
+  - [Dealing with NULLs and elimination duplicates](#dealing-with-nulls-and-elimination-duplicates)
+  - [Group filters](#group-filters)
+  - [Challenge: Filtering and grouped query](#challenge-filtering-and-grouped-query)
+  - [Solution: Grouped query with Distinct](#solution-grouped-query-with-distinct)
 - [**4. Ordering and Paging**](#4-ordering-and-paging) (3 videos)
-  - Presentation ordering in multitier architecture
-  - Ordering result sets
-  - Paging result sets
+  - [Presentation ordering in multitier architecture](#presentation-ordering-in-multitier-architecture)
+  - [Ordering result sets](#ordering-result-sets)
+  - [Paging result sets](#paging-result-sets)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Course review and takeaway
-  - Feedback and additional resources
+  - [Course review and takeaway](#course-review-and-takeaway)
+  - [Feedback and additional resources](#feedback-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-introduction?u=76281980)
@@ -135,6 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (12), data (1), career (1), power (1), database (1)
 > **Env Vars:** sql (12)
 > **CLI Commands:** find (1)
 > **Speakers:** - [ami] (1)
@@ -167,6 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Tooling
@@ -196,9 +198,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (5), database (3), management (2), [[Microsoft SQL Server|Sql server]] (2), cloud (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -265,6 +267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), data (6), [[Databases]] (2), [[MySQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (3), mysql (1), make (1)
 > **Env Vars:** sql (2), dba (1)
 > **Tools:** github (1)
@@ -311,9 +314,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[GitHub]] (1), [[SQL]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (2), where (2), offset (2), group (1), having (1)
 > **SQL:** where (2), group by (1), having (1), select (1), order by (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** coming up (1)
 > **Tools:** github (1)
@@ -323,7 +326,7 @@ created: 2026-04-29
 
 ### 1. Constructing Query Source Data Sets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Single data source queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980)
@@ -426,9 +429,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[SQL]] (7), next (3), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** select (9), sql (8), fun (2), sap (1), hana (1)
 > **SQL:** select (9), join (1)
-> **Code Keywords:** let (2), function (1), require (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** in the next (1)
@@ -607,7 +610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (1)
+> **Frameworks & Libraries:** product (10), next (5), [[Databases]] (2), data (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is an  (2), means that (1)
 > **Analogies:** such as (3), imagine (1)
 > **CLI Commands:** find (2)
@@ -704,7 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (2), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1), database (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -765,13 +768,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** database (1), data (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Row Filters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering source rows
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/filtering-source-rows?u=76281980)
@@ -844,8 +847,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), data (1), next (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1016,9 +1019,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[SQL]] (7), next (3), [[Databases]] (2), [[Scalability]] (1)
 > **Env Vars:** null (16), sql (7)
 > **Definitions:** is an  (5), is a  (4), known as (1)
-> **Code Keywords:** let (2), implements (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -1095,17 +1098,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (2), feature (2), [[Microsoft SQL Server|Sql server]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (5), null (3), isnull (1), ansi (1)
 > **Definitions:** is a  (2), is called (2)
 > **CLI Commands:** mysql (1), make (1)
-> **Code Keywords:** function (1), from. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - most (1)
 
 
 ### 3. Grouping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980)
@@ -1276,7 +1279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), default, (1), for. (1)
+> **Frameworks & Libraries:** database (5), [[SQL]] (3), next (1), [[Databases]] (1)
 > **CLI Commands:** make (5), cat (2)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (2)
@@ -1398,7 +1401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3)
+> **Frameworks & Libraries:** database (3), [[JSON]] (1), [[SQL]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (2), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -1472,11 +1475,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **SQL:** having (11), group by (7), where (6)
 > **Env Vars:** having (11), group (7), where (6)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), function (1)
 > **Cross-References:** we discussed (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1613,7 +1616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), from, (1), raise (1)
+> **Frameworks & Libraries:** next (1), [[PostgreSQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** sql (1)
@@ -1625,7 +1628,7 @@ created: 2026-04-29
 
 ### 4. Ordering and Paging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Presentation ordering in multitier architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/presentation-ordering-in-multitier-architecture?u=76281980)
@@ -1684,9 +1687,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), data (4), [[SQL]] (4), application (3), business (2)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1829,9 +1832,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (5), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (3), [[MySQL]] (2), [[PostgreSQL]] (2)
 > **Env Vars:** sql (7), ide (1), ansi (1)
 > **CLI Commands:** make (5), mysql (2), cat (1)
-> **Code Keywords:** let (2), this, (1), public (1), function (1), type. (1)
 > **Definitions:** known as (1), is a  (1), is an  (1), means that (1)
 > **Warnings:** be aware (3)
 > **Cross-References:** we discussed (1)
@@ -1895,6 +1898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[SQL]] (5), database (3), data (2), [[Databases]] (2)
 > **Env Vars:** sql (7), ansi (3)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), for example (1)
@@ -1905,7 +1909,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course review and takeaway
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980)
@@ -1976,6 +1980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (9), database (2), data (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (9), where (1), group (1), select (1)
 > **SQL:** where (1), group by (1), select (1)
 > **CLI Commands:** find (1), make (1)
@@ -1983,7 +1988,6 @@ created: 2026-04-29
 > **Documentation:** stack overflow (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
-> **Speakers:** - [instructor] (1)
 
 #### Feedback and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980)
@@ -2030,6 +2034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), [[LinkedIn]] (1), [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)

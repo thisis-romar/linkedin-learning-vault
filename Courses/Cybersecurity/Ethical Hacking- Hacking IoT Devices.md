@@ -31,7 +31,7 @@ tags:
   - skill/ethical-hacking
   - skill/internet-of-things-iot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Hacking%20IoT%20Devices.md)
@@ -50,51 +50,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Hacking IoT and OT systems
-  - Getting the most from this course
-  - Hacking ethically
+  - [Hacking IoT and OT systems](#hacking-iot-and-ot-systems)
+  - [Getting the most from this course](#getting-the-most-from-this-course)
+  - [Hacking ethically](#hacking-ethically)
 - [**1. Understanding the IoT**](#1-understanding-the-iot) (5 videos)
-  - Defining the IoT
-  - Gathering data
-  - Exchanging information
-  - Challenge: Enemybot
-  - Solution: Enemybot
+  - [Defining the IoT](#defining-the-iot)
+  - [Gathering data](#gathering-data)
+  - [Exchanging information](#exchanging-information)
+  - [Challenge: Enemybot](#challenge-enemybot)
+  - [Solution: Enemybot](#solution-enemybot)
 - [**2. Recognizing IoT Security Issues**](#2-recognizing-iot-security-issues) (5 videos)
-  - Outlining IoT threats
-  - Identifying OWASP IoT Top 10
-  - Reviewing IoT attacks
-  - Challenge: INDUSTROYER.V2
-  - Solution: INDUSTROYER.V2
+  - [Outlining IoT threats](#outlining-iot-threats)
+  - [Identifying OWASP IoT Top 10](#identifying-owasp-iot-top-10)
+  - [Reviewing IoT attacks](#reviewing-iot-attacks)
+  - [Challenge: INDUSTROYER.V2](#challenge-industroyerv2)
+  - [Solution: INDUSTROYER.V2](#solution-industroyerv2)
 - [**3. Hacking the IoT**](#3-hacking-the-iot) (5 videos)
-  - Describing IoT hacking
-  - Gathering Intel on IoT devices
-  - Evaluating IoT vulnerabilities
-  - Attacking IoT devices
-  - Gaining access to an IoT device
+  - [Describing IoT hacking](#describing-iot-hacking)
+  - [Gathering Intel on IoT devices](#gathering-intel-on-iot-devices)
+  - [Evaluating IoT vulnerabilities](#evaluating-iot-vulnerabilities)
+  - [Attacking IoT devices](#attacking-iot-devices)
+  - [Gaining access to an IoT device](#gaining-access-to-an-iot-device)
 - [**4. Controlling Systems with OT**](#4-controlling-systems-with-ot) (5 videos)
-  - Describing OT
-  - Listing ICS components
-  - OT technologies and protocols
-  - Recognizing the challenges of OT
-  - Using MITRE ATT&CK for ICS
+  - [Describing OT](#describing-ot)
+  - [Listing ICS components](#listing-ics-components)
+  - [OT technologies and protocols](#ot-technologies-and-protocols)
+  - [Recognizing the challenges of OT](#recognizing-the-challenges-of-ot)
+  - [Using MITRE ATT&CK for ICS](#using-mitre-attck-for-ics)
 - [**5. Exploiting OT Systems**](#5-exploiting-ot-systems) (5 videos)
-  - Pentesting OT systems
-  - Providing insights into OT attacks
-  - Seeking OT systems
-  - Searching for OT vulnerabilities
-  - Targeting OT systems
+  - [Pentesting OT systems](#pentesting-ot-systems)
+  - [Providing insights into OT attacks](#providing-insights-into-ot-attacks)
+  - [Seeking OT systems](#seeking-ot-systems)
+  - [Searching for OT vulnerabilities](#searching-for-ot-vulnerabilities)
+  - [Targeting OT systems](#targeting-ot-systems)
 - [**6. Defending against Attacks**](#6-defending-against-attacks) (5 videos)
-  - Countering IoT attacks
-  - Managing IoT devices
-  - Developing a secure device
-  - Implementing Zero Trust
-  - Designing a secure framework
+  - [Countering IoT attacks](#countering-iot-attacks)
+  - [Managing IoT devices](#managing-iot-devices)
+  - [Developing a secure device](#developing-a-secure-device)
+  - [Implementing Zero Trust](#implementing-zero-trust)
+  - [Designing a secure framework](#designing-a-secure-framework)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hacking IoT and OT systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-iot-and-ot-systems?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Automation]] (1), [[Security]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 
@@ -140,7 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -164,12 +164,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Understanding the IoT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980)
@@ -222,9 +223,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[IoT]] (7), [[Internet of Things (IoT)|Internet of things]] (5), cloud (2), [[Automation]] (1)
 > **Analogies:** such as (4), similar to (1), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** ooda (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -284,9 +285,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (4), data (4), node (2), power (2), [[Internet of Things (IoT)|Internet of things]] (1)
 > **CLI Commands:** make (5), node (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** iot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -343,11 +344,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (9), data (6), [[Automation]] (1), power (1), [[Mesh]] (1)
 > **Env Vars:** tcp (2), mtu (1), ieee (1), nfc (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 802.15.4 (3)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Enemybot
@@ -379,7 +380,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), include, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Solution: Enemybot
@@ -435,9 +435,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (3), dns (2), game (1), [[Network Security]] (1), [[Security]] (1)
 > **Env Vars:** dns (2), http (2), ark (2), ovh (2), udp (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -445,7 +445,7 @@ created: 2026-04-29
 
 ### 2. Recognizing IoT Security Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Outlining IoT threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980)
@@ -508,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** [[IoT]] (15), [[Security]] (7), data (4), [[Privacy]] (3), power (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -578,8 +578,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (10), [[Security]] (5), [[OWASP]] (5), data (2), web application (1)
 > **Env Vars:** iot (10), owasp (5)
-> **Code Keywords:** let (4), continue (1), include, (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -649,9 +649,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (14), [[Security]] (2), application (1), [[Cryptocurrency]] (1), data (1)
 > **Env Vars:** iot (14)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** let (2), this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: INDUSTROYER.V2
@@ -687,7 +687,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Versions:** version 2 (1)
 > **Definitions:** is a  (1)
@@ -775,9 +774,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), next (3), [[Security]] (2), business (1), [[Incident Response]] (1)
 > **Env Vars:** industroyer (9), scada (2), crashoverride (1)
 > **UI Navigation:** go to (4), scroll down (2), click on (1)
-> **Code Keywords:** finally, (2), let (1), public (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** good practice (1)
@@ -787,7 +786,7 @@ created: 2026-04-29
 
 ### 3. Hacking the IoT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing IoT hacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980)
@@ -846,7 +845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1), function (1)
+> **Frameworks & Libraries:** [[IoT]] (6), [[Ethical Hacking]] (2), [[Search]] (2), [[Technical Documentation]] (1), [[Manual Testing]] (1)
 > **Best Practices:** the key is (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -938,9 +937,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (8), [[Search]] (5), [[Security]] (2), power (1), data (1)
 > **Env Vars:** fcc (8), prtg (1)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** case, (2), this, (1), let (1)
 > **URLs:** [fcc.gov](https://fcc.gov) (1), [fccid.io](https://fccid.io) (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Warnings:** caution (1)
@@ -1039,11 +1038,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (12), [[Security]] (3), [[Android]] (2), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
 > **UI Navigation:** scroll down (4), go to (3)
 > **Env Vars:** sql (1), syn (1), api (1), cve (1), nse (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** such as (2), for example (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Ports:** port 80 (2)
 > **Code Identifiers:** ios (1)
 > **URLs:** [nmap.org](https://nmap.org) (1)
@@ -1119,7 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), finally, (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (4), next (1), [[Hardware]] (1), power (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4)
 > **UI Navigation:** scroll down (1)
@@ -1180,9 +1179,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (2), [[Hardware]] (2), [[Search]] (2)
 > **Env Vars:** nand (2), sdr (2), rtl (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (2), function (1)
 > **Ports:** port 23 (1), port 2323 (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** for example (2)
@@ -1191,7 +1190,7 @@ created: 2026-04-29
 
 ### 4. Controlling Systems with OT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing OT
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980)
@@ -1244,7 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (2), data (2), [[IoT]] (2), [[Security]] (2), power (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** scada (1), iot (1)
@@ -1323,10 +1322,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programmable Logic Controller (PLC)|Programmable logic controller]] (2), [[Automation]] (1), [[Ethical Hacking]] (1), [[Data Acquisition]] (1), power (1)
 > **Env Vars:** scada (4), plc (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (2), case, (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1372,8 +1371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Automation]] (2), [[Real-Time]] (2), [[Server Configuration]] (1)
 > **Env Vars:** opc (4), profibus (3), hart (3), ole (2), ascii (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Tools:** terminal (1)
@@ -1452,7 +1451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (2), switch (1)
+> **Frameworks & Libraries:** management (3), [[Security]] (2), [[Engineering]] (1), [[IoT]] (1), application (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1528,9 +1527,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (4), [[Security]] (1)
 > **Env Vars:** mitre (7), att (7)
 > **UI Navigation:** scroll down (2), select the (1), click on (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
@@ -1539,7 +1538,7 @@ created: 2026-04-29
 
 ### 5. Exploiting OT Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pentesting OT systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980)
@@ -1604,8 +1603,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), power (1), [[Penetration Testing]] (1), [[Windows]] (1)
 > **Analogies:** such as (3), similar to (1)
-> **Code Keywords:** let (2), require (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** scada (1)
 > **UI Navigation:** scroll down (1)
@@ -1668,7 +1667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2)
+> **Frameworks & Libraries:** [[Security]] (1), [[Windows]] (1), [[Linux]] (1), [[IoT]] (1), power (1)
 > **Env Vars:** hmi (4), iot (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -1751,10 +1750,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), [[IoT]] (4), [[Wireshark]] (1), data (1), web (1)
 > **Analogies:** such as (3), for example (3)
 > **Env Vars:** scada (4), grassmarlin (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2), case, (1)
 > **Prerequisites:** setup (1), you'll need (1)
 > **URLs:** [shodan.io](https://shodan.io) (1)
 > **UI Navigation:** go to (1)
@@ -1811,7 +1810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), include, (1), require (1)
+> **Frameworks & Libraries:** [[Security]] (2), application (1), [[SQL]] (1), [[Scripting]] (1), product (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1868,16 +1867,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), data (2), [[Cybersecurity]] (1), [[Hardware]] (1), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
 > **Env Vars:** dnp3 (2), scada (2), plc (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
-> **Code Keywords:** let (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Defending against Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Countering IoT attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980)
@@ -1942,7 +1941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2)
+> **Frameworks & Libraries:** [[IoT]] (12), [[OWASP]] (3), [[Security]] (3), application (2), [[Automation]] (1)
 > **Env Vars:** owasp (3)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** for example (1), such as (1)
@@ -2027,8 +2026,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (10), [[Security]] (6), management (2), [[Real-Time]] (2), business (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (2), function (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** scada (1)
 > **Speakers:** - [instructor] (1)
@@ -2080,7 +2079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (4), data (3), [[Internet of Things (IoT)|Internet of things]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** cia (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Best Practices:** good practice (1), best practice (1)
@@ -2153,7 +2152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), interface (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[IoT]] (3), data (2), application (2), [[Cybersecurity]] (1)
 > **UI Navigation:** scroll down (2), open the (1)
 > **URLs:** [barracuda.com](https://barracuda.com) (1), [nist.gov](https://nist.gov) (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2223,8 +2222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), [[IoT]] (5), [[Cybersecurity]] (3), [[Internet of Things (IoT)|Internet of things]] (2), [[Automation]] (1)
 > **Best Practices:** best practice (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** cisa (1), isa (1), nerc (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **URLs:** [cisa.gov](https://cisa.gov) (1), [isa.org](https://isa.org) (1)
@@ -2235,7 +2234,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980)
@@ -2268,7 +2267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Ethical Hacking]] (2), [[Security]] (1), [[Wireshark]] (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 

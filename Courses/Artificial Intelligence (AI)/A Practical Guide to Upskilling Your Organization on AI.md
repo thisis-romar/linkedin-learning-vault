@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-recruiting
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/A%20Practical%20Guide%20to%20Upskilling%20Your%20Organization%20on%20AI.md)
@@ -49,26 +49,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How is AI reshaping the skills today's organizations need?
+  - [How is AI reshaping the skills today's organizations need?](#how-is-ai-reshaping-the-skills-todays-organizations-need)
 - [**1. Beginning Your Organization’s AI Journey Now**](#1-beginning-your-organizations-ai-journey-now) (2 videos)
-  - Your organization's AI upskilling opportunity
-  - How LinkedIn’s AI content gives you an advantage
+  - [Your organization's AI upskilling opportunity](#your-organizations-ai-upskilling-opportunity)
+  - [How LinkedIn’s AI content gives you an advantage](#how-linkedins-ai-content-gives-you-an-advantage)
 - [**2. The AI Upskilling Framework**](#2-the-ai-upskilling-framework) (6 videos)
-  - What is the LinkedIn AI Content Framework?
-  - AI Content Framework level 1: Understanding
-  - AI Content Framework level 2: Applying
-  - AI Content Framework level 3: Building
-  - AI Content Framework level 4: Training and maintaining models
-  - AI Content Framework level 5: Deeply specializing
+  - [What is the LinkedIn AI Content Framework?](#what-is-the-linkedin-ai-content-framework)
+  - [AI Content Framework level 1: Understanding](#ai-content-framework-level-1-understanding)
+  - [AI Content Framework level 2: Applying](#ai-content-framework-level-2-applying)
+  - [AI Content Framework level 3: Building](#ai-content-framework-level-3-building)
+  - [AI Content Framework level 4: Training and maintaining models](#ai-content-framework-level-4-training-and-maintaining-models)
+  - [AI Content Framework level 5: Deeply specializing](#ai-content-framework-level-5-deeply-specializing)
 - [**3. From Framework to Action**](#3-from-framework-to-action) (2 videos)
-  - Build your AI upskilling strategy
-  - Build customized, role-based, AI learning journeys
+  - [Build your AI upskilling strategy](#build-your-ai-upskilling-strategy)
+  - [Build customized, role-based, AI learning journeys](#build-customized-role-based-ai-learning-journeys)
 - [**4. Conclusion**](#4-conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How is AI reshaping the skills today's organizations need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980)
@@ -101,14 +101,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (4), business (1), [[Generative AI Tools]] (1), next (1)
 > **Speakers:** - right (1), - yeah (1), - well (1), - we (1), - so (1)
-> **Code Keywords:** let (1), this. (1)
 > **Cross-References:** in the next (1)
 
 
 ### 1. Beginning Your Organization’s AI Journey Now
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your organization's AI upskilling opportunity
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980)
@@ -149,7 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6), business (1), data (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - investing (1)
 
@@ -198,14 +198,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** ai (12), [[LinkedIn]] (2), business (1), data (1), career (1)
 > **Analogies:** picture (1)
 > **Speakers:** - at (1)
 
 
 ### 2. The AI Upskilling Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the LinkedIn AI Content Framework?
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980)
@@ -262,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** ai (16), [[LinkedIn]] (1), career (1)
 > **Env Vars:** lms (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -299,8 +299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), business (4), [[Responsible AI]] (1), game (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - how (1)
 
 #### AI Content Framework level 2: Applying
@@ -334,6 +334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Prompt Engineering]] (2), teams (1), leadership (1), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -385,6 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[OpenAI API]] (2), [[Prompt Engineering]] (1), business (1), next (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** api (2)
 > **Speakers:** - some (1)
@@ -416,6 +418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Deep Learning]] (2), data (1), [[Python (Programming Language)|Python]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - get (1)
@@ -457,16 +460,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[MLOps]] (2), [[Security]] (2), aws (2), [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** find (3), aws (2), make (1)
 > **Env Vars:** aws (2)
-> **Code Keywords:** new, (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - okay (1)
 
 
 ### 3. From Framework to Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your AI upskilling strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-your-ai-up-skilling-strategy?u=76281980)
@@ -523,8 +526,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), business (3), functional (1), teams (1)
 > **Env Vars:** cto (1), cio (1), cdo (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
@@ -579,7 +582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1)
+> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (5), [[Healthcare Industry]] (1), [[Microsoft Copilot|Copilot]] (1), power (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
@@ -587,7 +590,7 @@ created: 2026-04-29
 
 ### 4. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980)
@@ -630,6 +633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), next (1), management (1), [[LinkedIn]] (1)
 > **Speakers:** - now (1), - well (1), - by (1)
 
 

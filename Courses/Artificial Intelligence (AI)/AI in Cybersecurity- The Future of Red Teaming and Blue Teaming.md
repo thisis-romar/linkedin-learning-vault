@@ -35,7 +35,7 @@ tags:
   - skill/ai-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20in%20Cybersecurity-%20The%20Future%20of%20Red%20Teaming%20and%20Blue%20Teaming.md)
@@ -54,27 +54,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introduction to red teaming and blue teaming enhanced by AI
-  - Tips to get the best results using AI chatbots
-  - AI censorship and jailbreaking chatbots for better results
+  - [Introduction to red teaming and blue teaming enhanced by AI](#introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai)
+  - [Tips to get the best results using AI chatbots](#tips-to-get-the-best-results-using-ai-chatbots)
+  - [AI censorship and jailbreaking chatbots for better results](#ai-censorship-and-jailbreaking-chatbots-for-better-results)
 - [**1. Red Teaming Enhanced by AI**](#1-red-teaming-enhanced-by-ai) (5 videos)
-  - Writing and enhancing red team documentation with AI
-  - AI generated code and offensive tooling
-  - AI-assisted adversary emulation
-  - Using AI to create fake online identities for OSINT
-  - AI’s role in revolutionizing security policies for CISOs
+  - [Writing and enhancing red team documentation with AI](#writing-and-enhancing-red-team-documentation-with-ai)
+  - [AI generated code and offensive tooling](#ai-generated-code-and-offensive-tooling)
+  - [AI-assisted adversary emulation](#ai-assisted-adversary-emulation)
+  - [Using AI to create fake online identities for OSINT](#using-ai-to-create-fake-online-identities-for-osint)
+  - [AI’s role in revolutionizing security policies for CISOs](#ais-role-in-revolutionizing-security-policies-for-cisos)
 - [**2. Blue Teaming Enhanced by AI**](#2-blue-teaming-enhanced-by-ai) (5 videos)
-  - Techniques for effective AI-powered threat hunting
-  - Threat intelligence 2.0: AI-driven security insights
-  - AI strategies for social engineering defense
-  - SOC of the future: Log analysis and detection engineering
-  - Bulletproof AI code review and malware analysis
+  - [Techniques for effective AI-powered threat hunting](#techniques-for-effective-ai-powered-threat-hunting)
+  - [Threat intelligence 2.0: AI-driven security insights](#threat-intelligence-20-ai-driven-security-insights)
+  - [AI strategies for social engineering defense](#ai-strategies-for-social-engineering-defense)
+  - [SOC of the future: Log analysis and detection engineering](#soc-of-the-future-log-analysis-and-detection-engineering)
+  - [Bulletproof AI code review and malware analysis](#bulletproof-ai-code-review-and-malware-analysis)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to red teaming and blue teaming enhanced by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980)
@@ -95,7 +95,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), [[Cybersecurity]] (3), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Red Teaming]] (1)
 > **Speakers:** - are (1)
 
 #### Tips to get the best results using AI chatbots
@@ -183,7 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (6), chatbot (5), [[Prompt Engineering]] (4), power (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** ciso (1), soc (1)
 > **Definitions:** refers to (1), is an  (1)
@@ -265,7 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (1), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), chatbot (5), ai (2), [[Python (Programming Language)|Python]] (1), power (1)
 > **CLI Commands:** python (1), find (1), make (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [jailbreakchat.com](https://jailbreakchat.com) (1)
@@ -277,7 +277,7 @@ created: 2026-04-29
 
 ### 1. Red Teaming Enhanced by AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing and enhancing red team documentation with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980)
@@ -348,7 +348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** data (3), ai (2), [[Microsoft]] (2), chatbot (2), career (1)
 > **Analogies:** for example (1)
 > **Speakers:** - picking (1)
 
@@ -443,8 +443,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), chatbot (5), [[Python (Programming Language)|Python]] (4), [[Google]] (3), [[ChatGPT]] (3)
 > **CLI Commands:** python (4)
-> **Code Keywords:** break. (1), finally, (1), class, (1)
 > **Analogies:** for instance (2), such as (1)
 > **Env Vars:** osint (2)
 > **Tools:** github (1), powershell (1)
@@ -499,7 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** chatbot (3), [[Security]] (2), teams (1), ai (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** apt29 (1), appt29 (1)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - when (1)
@@ -573,9 +573,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), chatbot (2), [[Security]] (1), [[Algorithms]] (1), application (1)
 > **Env Vars:** gan (4), osint (1)
 > **Analogies:** picture (2), imagine (1)
-> **Code Keywords:** private (2)
 > **URLs:** [this-person-does-not-exist.com](https://this-person-does-not-exist.com) (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - sock (1)
@@ -633,10 +633,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), ai (5), [[NIST]] (3), chatbot (2), [[Cybersecurity]] (1)
 > **Env Vars:** nist (3), iso (1), mpa (1), gpt (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** try. (1)
 > **Code Identifiers:** chatgpt (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - i (1)
@@ -644,7 +644,7 @@ created: 2026-04-29
 
 ### 2. Blue Teaming Enhanced by AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Techniques for effective AI-powered threat hunting
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/techniques-for-effective-ai-powered-threat-hunting?u=76281980)
@@ -717,6 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), chatbot (6), data (4), prompt (3), cloud (2)
 > **Env Vars:** rmm (4), rgr (2), siem (1), ids (1), edr (1)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** imagine (1), such as (1)
@@ -782,9 +783,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** chatbot (6), ai (3), data (2), [[Cybersecurity]] (1), career (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** llm (1)
 > **Versions:** 1.5 (1)
 > **Cross-References:** in the last (1)
@@ -873,8 +874,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (10), ai (5), [[ChatGPT]] (2), chatbot (2), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** continue (1)
 > **Env Vars:** fbi (1)
 > **Cross-References:** later in (1)
 > **Analogies:** imagine (1)
@@ -937,9 +938,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** chatbot (8), web (3), [[WordPress]] (1), next (1), ai (1)
 > **CLI Commands:** apache (3), awk (2), find (1), grep (1)
 > **Tools:** bash (5), terminal (1)
-> **Code Keywords:** this, (2), let (1), continue (1), new. (1)
 > **Env Vars:** http (2), gpt (1)
 > **API Endpoints:** get  (1)
 > **Versions:** 188.165.243 (1)
@@ -1019,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), static (1), try. (1)
+> **Frameworks & Libraries:** ai (3), [[Python (Programming Language)|Python]] (3), [[Security]] (3), next (2), [[ChatGPT]] (2)
 > **CLI Commands:** python (3), find (1), make (1)
 > **Env Vars:** dll (1), api (1)
 > **Versions:** 13.48 (1), 63.9 (1)
@@ -1030,7 +1031,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980)
@@ -1051,6 +1052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Red Teaming]] (1), [[Generative AI]] (1), [[LinkedIn]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

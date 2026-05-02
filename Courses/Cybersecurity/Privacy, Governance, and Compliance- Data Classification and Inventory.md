@@ -34,7 +34,7 @@ tags:
   - skill/data-classification
   - skill/privacy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Classification%20and%20Inventory.md)
@@ -53,46 +53,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - Who this course is for
-  - Data classification as part of data governance
+  - [Welcome](#welcome)
+  - [Who this course is for](#who-this-course-is-for)
+  - [Data classification as part of data governance](#data-classification-as-part-of-data-governance)
 - [**1. The Privacy Landscape**](#1-the-privacy-landscape) (6 videos)
-  - The legal and regulatory landscape
-  - Privacy regulations and ambiguity
-  - Privacy laws and security
-  - Privacy and the user
-  - Challenge: Data classification scenario
-  - Solution: Data classification scenario
+  - [The legal and regulatory landscape](#the-legal-and-regulatory-landscape)
+  - [Privacy regulations and ambiguity](#privacy-regulations-and-ambiguity)
+  - [Privacy laws and security](#privacy-laws-and-security)
+  - [Privacy and the user](#privacy-and-the-user)
+  - [Challenge: Data classification scenario](#challenge-data-classification-scenario)
+  - [Solution: Data classification scenario](#solution-data-classification-scenario)
 - [**2. Data Classification**](#2-data-classification) (7 videos)
-  - How classification reduces risk around unstructured data
-  - How can data classification help you?
-  - Data classification as part of data governance
-  - How to shape the data classification process
-  - Challenges of data classification
-  - Solutions for data classification
-  - Thought experiment: A sequential data classification
+  - [How classification reduces risk around unstructured data](#how-classification-reduces-risk-around-unstructured-data)
+  - [How can data classification help you?](#how-can-data-classification-help-you)
+  - [Data classification as part of data governance](#data-classification-as-part-of-data-governance)
+  - [How to shape the data classification process](#how-to-shape-the-data-classification-process)
+  - [Challenges of data classification](#challenges-of-data-classification)
+  - [Solutions for data classification](#solutions-for-data-classification)
+  - [Thought experiment: A sequential data classification](#thought-experiment-a-sequential-data-classification)
 - [**3. An Inventory of Your Data and Risk**](#3-an-inventory-of-your-data-and-risk) (3 videos)
-  - What is data inventory?
-  - Data inventory and data governance
-  - How can you prep for data inventory?
+  - [What is data inventory?](#what-is-data-inventory)
+  - [Data inventory and data governance](#data-inventory-and-data-governance)
+  - [How can you prep for data inventory?](#how-can-you-prep-for-data-inventory)
 - [**4. A Deep Dive into Data Inventory**](#4-a-deep-dive-into-data-inventory) (6 videos)
-  - Data inventory using manual resources and automation
-  - The technical implementation of data inventory
-  - Data inventory architecture
-  - Data inventory metadata
-  - Data inventory and use cases
-  - Evaluating data inventory outcomes
+  - [Data inventory using manual resources and automation](#data-inventory-using-manual-resources-and-automation)
+  - [The technical implementation of data inventory](#the-technical-implementation-of-data-inventory)
+  - [Data inventory architecture](#data-inventory-architecture)
+  - [Data inventory metadata](#data-inventory-metadata)
+  - [Data inventory and use cases](#data-inventory-and-use-cases)
+  - [Evaluating data inventory outcomes](#evaluating-data-inventory-outcomes)
 - [**5. Lessons from the Road: How to Do Data Inventory Right**](#5-lessons-from-the-road-how-to-do-data-inventory-right) (4 videos)
-  - Centralized vs. decentralized
-  - Data inventory successes
-  - Data inventory challenges
-  - Getting executive buy-in for data inventory
+  - [Centralized vs. decentralized](#centralized-vs-decentralized)
+  - [Data inventory successes](#data-inventory-successes)
+  - [Data inventory challenges](#data-inventory-challenges)
+  - [Getting executive buy-in for data inventory](#getting-executive-buy-in-for-data-inventory)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980)
@@ -141,8 +141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Security]] (4), [[Privacy]] (4), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - in (1)
 
 #### Who this course is for
@@ -170,6 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (11), data (4), [[Security]] (2), [[LinkedIn]] (1), functional (1)
 > **Speakers:** - [instructor] (1)
 
 #### Data classification as part of data governance
@@ -229,7 +230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** data (19), [[Privacy]] (12), [[Data Classification]] (8), business (4), [[Security]] (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -237,7 +238,7 @@ created: 2026-04-29
 
 ### 1. The Privacy Landscape
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The legal and regulatory landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-legal-and-regulatory-landscape?u=76281980)
@@ -306,8 +307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (14), data (9), [[Security]] (2), business (1)
 > **Env Vars:** ccpa (4), gdpr (3), cpra (1), wpa (1), bipa (1)
-> **Code Keywords:** let (2), protected (1), delete (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Versions:** 2.0 (1)
 > **Definitions:** is a  (1)
@@ -370,7 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Privacy]] (16), data (5), business (2), product (2), [[Data Classification]] (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -451,9 +452,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Security]] (12), [[Privacy]] (6), [[Data Classification]] (2), product (2)
 > **Env Vars:** whois (2), gdpr (2), ccpa (1), eff (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -513,7 +514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (1), continue (1), return. (1)
+> **Frameworks & Libraries:** [[Privacy]] (9), data (7), [[Data Classification]] (3), [[User Experience (UX)|User experience]] (2), business (2)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -543,7 +544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** data (5), [[Privacy]] (3), [[Data Classification]] (2), business (2), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -617,7 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Privacy]] (11), data (8), [[Data Classification]] (2), teams (1)
 > **Definitions:** is an  (1), means that (1)
 > **Env Vars:** isp (1)
 > **Analogies:** for example (1)
@@ -628,7 +629,7 @@ created: 2026-04-29
 
 ### 2. Data Classification
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How classification reduces risk around unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980)
@@ -691,7 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (20), [[Unstructured Data]] (8), [[Privacy]] (6), [[Engineering]] (2), [[Security]] (2)
 > **URLs:** [techrepublic.com](https://techrepublic.com) (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
@@ -736,8 +737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Privacy]] (3), [[Data Classification]] (1), management (1), business (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### Data classification as part of data governance
@@ -829,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), public (1)
+> **Frameworks & Libraries:** data (22), [[Privacy]] (5), business (4), [[Data Classification]] (3), management (3)
 > **Analogies:** for example (3)
 > **Env Vars:** rbac (1), ssh (1)
 > **Tools:** github (1), gitlab (1)
@@ -885,8 +886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (6), data (5), [[Engineering]] (4), [[Data Classification]] (3), management (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -947,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (6), business (5), [[Microsoft Products|Products]] (4), [[Privacy]] (2), teams (2)
 > **Analogies:** imagine (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** coppa (1)
@@ -999,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** data (9), business (7), [[Privacy]] (6), database (4), [[Data Classification]] (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Best Practices:** you should never (1)
@@ -1065,14 +1066,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), teams (5), next (2), [[Engineering]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. An Inventory of Your Data and Risk
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data inventory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980)
@@ -1135,8 +1136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Data Classification]] (4), [[Privacy]] (3), api (2), [[Flux]] (1)
 > **Env Vars:** api (2), gdpr (1), ccpa (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
@@ -1202,7 +1203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (22), [[Privacy]] (6), business (6), [[Data Classification]] (1), teams (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1288,7 +1289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), this. (1), case. (1), public (1)
+> **Frameworks & Libraries:** data (20), [[Data Classification]] (3), business (3), teams (2), [[Privacy]] (2)
 > **Definitions:** refers to (3), is a  (2)
 > **Analogies:** for example (4)
 > **Exercise Files:** template (2)
@@ -1300,7 +1301,7 @@ created: 2026-04-29
 
 ### 4. A Deep Dive into Data Inventory
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data inventory using manual resources and automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980)
@@ -1347,8 +1348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Privacy]] (5), [[Automation]] (5), [[Engineering]] (3), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [host] (1)
@@ -1398,7 +1399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), case. (1), self (1)
+> **Frameworks & Libraries:** data (28), [[Metadata]] (4), [[Unstructured Data]] (2), next (2), [[Automation]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** json (1), api (1)
 > **Analogies:** for example (1), imagine (1)
@@ -1515,8 +1516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (45), database (5), [[Data Classification]] (4), [[Metadata]] (2), business (2)
 > **Env Vars:** dis (9), api (1)
-> **Code Keywords:** let (6), continue (1), type, (1), finally, (1)
 > **Definitions:** is a  (3), short for (1)
 > **CLI Commands:** make (3)
 > **Warnings:** note that (2)
@@ -1593,11 +1594,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Metadata]] (15), database (3), [[Real-Time]] (2), [[MySQL]] (2)
 > **CLI Commands:** make (2), mysql (2), find (1)
 > **Env Vars:** dis (2), uuid (2)
 > **Definitions:** defined as (3), is a  (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Data inventory and use cases
@@ -1685,8 +1686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), database (3), [[Databases]] (2), next (1), application (1)
 > **Env Vars:** ccpa (2), cpra (2), gpdr (1), gdpr (1)
-> **Code Keywords:** let (2), self (1), delete (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1752,7 +1753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), from, (1), let (1)
+> **Frameworks & Libraries:** data (19), business (1), [[Data Classification]] (1), teams (1), next (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [lecturer] (1)
@@ -1760,7 +1761,7 @@ created: 2026-04-29
 
 ### 5. Lessons from the Road: How to Do Data Inventory Right
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Centralized vs. decentralized
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980)
@@ -1811,8 +1812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), data (4), business (3), [[Automation]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Data inventory successes
@@ -1884,7 +1885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (2), throw (1)
+> **Frameworks & Libraries:** data (30), [[Privacy]] (6), teams (5), business (2), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
@@ -1961,8 +1962,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (12), data (7), teams (4), [[Security]] (2), business (2)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2065,7 +2066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1)
+> **Frameworks & Libraries:** data (28), [[Privacy]] (8), business (3), [[Security]] (2), teams (2)
 > **URLs:** [enforcementtracker.com](https://enforcementtracker.com) (1)
 > **Env Vars:** ipo (1)
 > **Exercise Files:** template (1)
@@ -2075,7 +2076,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980)
@@ -2110,6 +2111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Privacy]] (3), business (2), management (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 

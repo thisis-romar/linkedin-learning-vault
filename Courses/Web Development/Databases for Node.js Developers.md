@@ -31,7 +31,7 @@ tags:
   - skill/database-development
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Databases%20for%20Node.js%20Developers.md)
@@ -50,63 +50,63 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Databases in Node.js:  Relational, document, and in-memory storage in action
+  - [Databases in Node.js:  Relational, document, and in-memory storage in action](#databases-in-nodejs-relational-document-and-in-memory-storage-in-action)
 - [**1. Course Setup**](#1-course-setup) (4 videos)
-  - What you should know
-  - Getting your tools ready
-  - How to use the exercise files
-  - Exploring the sample project
+  - [What you should know](#what-you-should-know)
+  - [Getting your tools ready](#getting-your-tools-ready)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
+  - [Exploring the sample project](#exploring-the-sample-project)
 - [**2. Introduction to Databases**](#2-introduction-to-databases) (4 videos)
-  - Some basics about databases
-  - Understanding relational databases
-  - Understanding document databases
-  - Selecting the ideal database for your Node.js project
+  - [Some basics about databases](#some-basics-about-databases)
+  - [Understanding relational databases](#understanding-relational-databases)
+  - [Understanding document databases](#understanding-document-databases)
+  - [Selecting the ideal database for your Node.js project](#selecting-the-ideal-database-for-your-nodejs-project)
 - [**3. MongoDB: Building Your Product Catalog**](#3-mongodb-building-your-product-catalog) (14 videos)
-  - Managing product data with MongoDB
-  - Setting up MongoDB with Docker
-  - Exploring MongoDB with Compass
-  - Introducing Mongoose
-  - Setting up Mongoose and connecting it to MongoDB
-  - Building a model for our products
-  - Integrating the model into our application
-  - Populating MongoDB with sample data
-  - Querying items with Mongoose
-  - Filtering items by tag
-  - Item administration: Listing and loading
-  - Item administration: Create, update, and delete
-  - Optimizing queries with indexes
-  - Performing text search in MongoDB
+  - [Managing product data with MongoDB](#managing-product-data-with-mongodb)
+  - [Setting up MongoDB with Docker](#setting-up-mongodb-with-docker)
+  - [Exploring MongoDB with Compass](#exploring-mongodb-with-compass)
+  - [Introducing Mongoose](#introducing-mongoose)
+  - [Setting up Mongoose and connecting it to MongoDB](#setting-up-mongoose-and-connecting-it-to-mongodb)
+  - [Building a model for our products](#building-a-model-for-our-products)
+  - [Integrating the model into our application](#integrating-the-model-into-our-application)
+  - [Populating MongoDB with sample data](#populating-mongodb-with-sample-data)
+  - [Querying items with Mongoose](#querying-items-with-mongoose)
+  - [Filtering items by tag](#filtering-items-by-tag)
+  - [Item administration: Listing and loading](#item-administration-listing-and-loading)
+  - [Item administration: Create, update, and delete](#item-administration-create-update-and-delete)
+  - [Optimizing queries with indexes](#optimizing-queries-with-indexes)
+  - [Performing text search in MongoDB](#performing-text-search-in-mongodb)
 - [**4. MySQL: Managing Users and Orders**](#4-mysql-managing-users-and-orders) (12 videos)
-  - Using MySQL for our users and orders
-  - Setting up MySQL with Docker
-  - Exploring MySQL with MySQL Workbench
-  - Introducing Sequelize
-  - Setting up the database connection
-  - Designing the database structure
-  - Creating a user model for Sequelize
-  - Creating the order models for Sequelize
-  - Loading and syncing the models
-  - Creating, updating and deleting users with Sequelize
-  - Securing credentials with password hashing
-  - Implementing the user login
+  - [Using MySQL for our users and orders](#using-mysql-for-our-users-and-orders)
+  - [Setting up MySQL with Docker](#setting-up-mysql-with-docker)
+  - [Exploring MySQL with MySQL Workbench](#exploring-mysql-with-mysql-workbench)
+  - [Introducing Sequelize](#introducing-sequelize)
+  - [Setting up the database connection](#setting-up-the-database-connection)
+  - [Designing the database structure](#designing-the-database-structure)
+  - [Creating a user model for Sequelize](#creating-a-user-model-for-sequelize)
+  - [Creating the order models for Sequelize](#creating-the-order-models-for-sequelize)
+  - [Loading and syncing the models](#loading-and-syncing-the-models)
+  - [Creating, updating and deleting users with Sequelize](#creating-updating-and-deleting-users-with-sequelize)
+  - [Securing credentials with password hashing](#securing-credentials-with-password-hashing)
+  - [Implementing the user login](#implementing-the-user-login)
 - [**5. Redis: A Fast Store for Sessions, Caching, and Real-Time Features**](#5-redis-a-fast-store-for-sessions-caching-and-real-time-features) (7 videos)
-  - Fast and flexible basket and session management with Redis
-  - Setting up Redis with Docker
-  - Exploring Redis with Redis Insight
-  - Connecting our application to Redis
-  - Managing user sessions with Redis
-  - Basic Redis operations for shopping baskets, part 1
-  - Basic Redis operations for shopping baskets, part 2
+  - [Fast and flexible basket and session management with Redis](#fast-and-flexible-basket-and-session-management-with-redis)
+  - [Setting up Redis with Docker](#setting-up-redis-with-docker)
+  - [Exploring Redis with Redis Insight](#exploring-redis-with-redis-insight)
+  - [Connecting our application to Redis](#connecting-our-application-to-redis)
+  - [Managing user sessions with Redis](#managing-user-sessions-with-redis)
+  - [Basic Redis operations for shopping baskets, part 1](#basic-redis-operations-for-shopping-baskets-part-1)
+  - [Basic Redis operations for shopping baskets, part 2](#basic-redis-operations-for-shopping-baskets-part-2)
 - [**6. Bringing It All Together: Creating and Managing Orders**](#6-bringing-it-all-together-creating-and-managing-orders) (3 videos)
-  - Fetching item information for the basket
-  - Creating the order and using transactions
-  - Implementing the order admin view
+  - [Fetching item information for the basket](#fetching-item-information-for-the-basket)
+  - [Creating the order and using transactions](#creating-the-order-and-using-transactions)
+  - [Implementing the order admin view](#implementing-the-order-admin-view)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Databases in Node.js:  Relational, document, and in-memory storage in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980)
@@ -133,14 +133,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (3), data (3), [[Relational Databases]] (1), [[MySQL]] (1), [[MongoDB]] (1)
 > **CLI Commands:** mysql (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [daniel] (1)
 
 
 ### 1. Course Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What you should know
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/what-you-should-know?u=76281980)
@@ -169,7 +169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (2), await (2), module (1), export, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Node.js]] (2), web application (1), [[Express.js]] (1), express (1)
 > **File Paths:** node.js (2), express.js (1)
 > **CLI Commands:** node (2)
 > **Definitions:** is a  (1)
@@ -224,11 +224,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (10), [[Node.js]] (7), [[GitHub]] (4), database (2), [[JavaScript]] (1)
 > **CLI Commands:** git (10), node (8), docker (6), make (2)
 > **Tools:** github (4), visual studio (4), terminal (3)
 > **File Paths:** node.js (7)
 > **Prerequisites:** install (2), set up (1), you'll need (1)
-> **Code Keywords:** let (1), this, (1), finally, (1)
 > **URLs:** [docker.com](https://docker.com) (1)
 > **Env Vars:** lts (1)
 > **Definitions:** is a  (1)
@@ -308,10 +308,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Fetch]] (3), [[Git]] (2), next (2), data (1)
 > **Env Vars:** url (6), ssh (2), https (1)
 > **Tools:** github (6), terminal (1), visual studio (1)
 > **CLI Commands:** ssh (2), git (2), find (1)
-> **Code Keywords:** switch (3), private (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Exercise Files:** exercise files (2)
 > **Cross-References:** in the next (1)
@@ -380,8 +380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (9), [[JSON]] (2), [[npm]] (2), application (2), database (2)
 > **File Paths:** package.json (2), server.js (2)
-> **Code Keywords:** let (4)
 > **UI Navigation:** click on (2), open the (1), scroll up (1)
 > **Analogies:** similar to (3), just like (1)
 > **Tools:** terminal (2), visual studio (1)
@@ -392,7 +392,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Some basics about databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980)
@@ -453,8 +453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), data (8), [[Databases]] (5), application (3), management (2)
 > **Env Vars:** dbms (4), api (1)
-> **Code Keywords:** let (2), interface (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -556,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1), pass (1)
+> **Frameworks & Libraries:** data (13), [[Relational Databases]] (8), database (5), [[Databases]] (3), [[MySQL]] (3)
 > **Analogies:** for example (3), for instance (2), imagine (1)
 > **Definitions:** is a  (2), is called (1), stands for (1), means that (1)
 > **CLI Commands:** mysql (3), make (1)
@@ -630,7 +630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1)
+> **Frameworks & Libraries:** [[Databases]] (8), [[NoSQL]] (6), database (6), data (5), [[MongoDB]] (4)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** acid (1)
@@ -687,16 +687,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (7), data (7), [[Relational Databases]] (6), database (3), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** json (2), sql (2), jsonb (1)
 > **CLI Commands:** mysql (1), make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. MongoDB: Building Your Product Catalog
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing product data with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-product-data-with-mongodb?u=76281980)
@@ -713,6 +713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (3), application (1), database (1)
 > **Env Vars:** sku (1)
 > **Speakers:** - [instructor] (1)
 
@@ -767,9 +768,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (14), next (2), hit (1), [[Security]] (1)
 > **CLI Commands:** docker (14), mongo (3), make (1)
 > **Prerequisites:** setup (2), set up (1), you'll need (1)
-> **Code Keywords:** return, (1), interface (1)
 > **Cross-References:** previous video (1)
 > **Tools:** terminal (1)
 > **Definitions:** means that (1)
@@ -803,9 +804,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Databases]] (2), [[Search]] (1), database (1), data (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** url (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -869,8 +870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[MongoDB]] (4), data (3), [[Databases]] (1), [[Programming]] (1)
 > **CLI Commands:** make (3), find (1), mongo (1)
-> **Code Keywords:** let (2), static (2)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** odm (1)
 > **Warnings:** be aware (1)
@@ -1059,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), pass (8), function (4), module (3), case, (2)
+> **Frameworks & Libraries:** [[MongoDB]] (28), application (7), database (4), [[npm]] (3), next (3)
 > **CLI Commands:** npm (3), mongo (3), make (2), docker (1), mysql (1)
 > **File Paths:** server.js (2), config/index.js (1), default.js (1)
 > **Code Identifiers:** mongostatus (2), serverselectiontimeoutms (1), sockettimeoutms (1)
@@ -1179,7 +1180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (3), const (2), let (1), type. (1)
+> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (4), data (4), [[MongoDB]] (3), [[Databases]] (2)
 > **Env Vars:** sku (6)
 > **Definitions:** is a  (3)
 > **File Paths:** item.js (1)
@@ -1271,7 +1272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** import. (1), from, (1), let (1), case, (1), pass (1)
+> **Frameworks & Libraries:** application (3), database (3), [[Databases]] (2), [[MongoDB]] (2), next (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Code Identifiers:** mongostatus (2)
 > **File Paths:** models/mongoose/item.js (1)
@@ -1341,8 +1342,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[MongoDB]] (4), application (2), database (2), [[JSON]] (1)
 > **UI Navigation:** click on (7)
-> **Code Keywords:** import. (1), let (1)
 > **Env Vars:** json (1), csv (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -1528,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (3), const (3), await (3), case, (3)
+> **Frameworks & Libraries:** database (7), data (7), next (3), [[Microsoft Products|Products]] (2), application (1)
 > **CLI Commands:** find (4), mongo (2), make (1)
 > **Exercise Files:** template (5)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -1614,7 +1615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), const (1), pass (1)
+> **Frameworks & Libraries:** database (1), [[MongoDB]] (1), data (1), next (1)
 > **UI Navigation:** click on (3), scroll up (1), go to (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1739,7 +1740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (3), const (2), await (2), pass (1)
+> **Frameworks & Libraries:** [[MongoDB]] (7), database (4), data (4), [[Fetch]] (3), next (2)
 > **UI Navigation:** click on (5), scroll down (2), go to (1)
 > **Env Vars:** crud (2), egs (1), url (1), hes (1)
 > **CLI Commands:** find (4)
@@ -2017,7 +2018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), delete (6), pass (5), function (4), await (3)
+> **Frameworks & Libraries:** database (8), [[MongoDB]] (4), functional (2), [[Functional Programming]] (2), next (2)
 > **UI Navigation:** scroll down (6), click on (6)
 > **Code Identifiers:** itemid (6), parsedtags (2), findbyid (2), findbyidandupdate (1)
 > **CLI Commands:** make (4), mongo (3), find (1)
@@ -2127,7 +2128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), case. (1), pass (1), this, (1)
+> **Frameworks & Libraries:** [[MongoDB]] (8), [[Search]] (4), database (2), next (2), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for instance (2), for example (1)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -2237,7 +2238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), const (1), pass (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (8), [[MongoDB]] (5), application (3), next (3), database (2)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** in the next (2), previous video (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2249,7 +2250,7 @@ created: 2026-04-29
 
 ### 4. MySQL: Managing Users and Orders
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using MySQL for our users and orders
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980)
@@ -2280,8 +2281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[MySQL]] (2), application (1), management (1), [[JavaScript]] (1)
 > **CLI Commands:** mysql (2)
-> **Code Keywords:** this, (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
@@ -2349,10 +2350,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (12), [[MongoDB]] (4), database (1), hit (1), [[Performance Tuning]] (1)
 > **CLI Commands:** mysql (12), docker (10), make (2)
 > **Prerequisites:** set up (1), you'll need (1), setup (1)
 > **Tools:** terminal (2)
-> **Code Keywords:** return, (1)
 > **Env Vars:** mysql_root_password (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
@@ -2413,9 +2414,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (8), [[MongoDB]] (3), data (2), database (1)
 > **CLI Commands:** mysql (8), make (1)
 > **UI Navigation:** click on (5)
-> **Code Keywords:** interface (1), this, (1), let (1)
 > **Code Identifiers:** mysql (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -2463,8 +2464,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (4), database (3), [[Node.js]] (1), [[Databases]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** mysql (4), make (2), node (1)
-> **Code Keywords:** let (2), this. (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), similar to (1)
@@ -2618,8 +2619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MySQL]] (17), database (9), [[MongoDB]] (7), application (5), next (4)
 > **CLI Commands:** mysql (17), npm (2), make (2), find (1)
-> **Code Keywords:** let (4), await (2), this, (1), try, (1), catch. (1)
 > **Env Vars:** orm (1), uri (1), sql (1), todo (1), create (1)
 > **Prerequisites:** install (3), set up (1)
 > **UI Navigation:** click on (3)
@@ -2668,8 +2669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (2), [[MySQL]] (1), next (1), [[SQL]] (1)
 > **CLI Commands:** mysql (1), make (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
@@ -2770,8 +2771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (3), type, (3), case, (2), import
-( (1)
+> **Frameworks & Libraries:** data (5), database (4), [[MongoDB]] (3), [[Relational Databases]] (3), next (2)
 > **Non-Speech:** (keys clicking) (15)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** allownull (1), hasmany (1), userid (1)
@@ -2979,7 +2979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (9), type: (4), this. (3), const (2)
+> **Frameworks & Libraries:** data (2), management (1), [[MySQL]] (1), next (1), product (1)
 > **Code Identifiers:** foreignkey (3), allownull (3), belongsto (2), userid (1), hasmany (1)
 > **Env Vars:** string (3), integer (2), decimal (1)
 > **Definitions:** is an  (2), is a  (2), means that (1), is called (1)
@@ -3227,7 +3227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (7), const (5), continue (5), await (4)
+> **Frameworks & Libraries:** database (7), data (3), [[MySQL]] (3), node (2), [[JavaScript]] (2)
 > **Code Identifiers:** modelfiles (4), modelspath (3), endswith (1), foreach (1), createdat (1)
 > **CLI Commands:** node (3), mysql (3), make (1), mongo (1), find (1)
 > **UI Navigation:** click on (4), scroll down (1), open the (1)
@@ -3443,7 +3443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), await (5), delete (4), pass (3), function (2)
+> **Frameworks & Libraries:** database (9), application (4), hit (4), next (4), [[Fetch]] (2)
 > **CLI Commands:** find (4), make (4), mysql (2)
 > **Code Identifiers:** findbypk (3), findall (2), userid (1)
 > **UI Navigation:** click on (3), scroll down (2), scroll up (1)
@@ -3587,7 +3587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), async (4), let (3), await (3), protected (2)
+> **Frameworks & Libraries:** database (9), hit (4), [[npm]] (1), application (1), [[JavaScript]] (1)
 > **Code Identifiers:** setpassword (2), plainpassword (2), hashedpassword (2), beforecreate (1)
 > **CLI Commands:** npm (1), node (1), mysql (1), make (1)
 > **Cross-References:** we discussed (1), go back to (1), in the next (1)
@@ -3803,7 +3803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (6), await (3), const (2), delete (2)
+> **Frameworks & Libraries:** [[User Management]] (3), database (3), hit (2), data (1), application (1)
 > **Code Identifiers:** ispasswordvalid (2), comparepassword (2), findone (1)
 > **CLI Commands:** find (3), mysql (1)
 > **UI Navigation:** go to (1), open the (1), scroll down (1), click on (1)
@@ -3815,7 +3815,7 @@ created: 2026-04-29
 
 ### 5. Redis: A Fast Store for Sessions, Caching, and Real-Time Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fast and flexible basket and session management with Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fast-and-flexible-basket-and-session-management-with-redis?u=76281980)
@@ -3866,7 +3866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this, (1)
+> **Frameworks & Libraries:** data (7), [[Redis]] (5), [[Databases]] (1), [[Programming]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Env Vars:** sku (1)
 > **Speakers:** - [instructor] (1)
@@ -3904,10 +3904,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (11), data (2), [[MySQL]] (2), [[MongoDB]] (2), management (1)
 > **CLI Commands:** docker (7), mysql (2), make (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Analogies:** similar to (1), such as (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3964,8 +3964,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (13), data (9), database (4), business (1), cloud (1)
 > **UI Navigation:** click on (5), scroll down (1)
-> **Code Keywords:** let (2), interface (1), this, (1)
 > **Code Identifiers:** sample_session (1), sample_leaderboard (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), for instance (1)
@@ -4063,7 +4063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), await (2), try, (1), catch ( (1), const (1)
+> **Frameworks & Libraries:** [[Redis]] (29), application (2), next (2), [[npm]] (1), data (1)
 > **CLI Commands:** npm (1), find (1), make (1), mysql (1)
 > **Prerequisites:** install (2), set up (1)
 > **File Paths:** server.js (1)
@@ -4228,8 +4228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (14), management (6), data (3), next (3), express (2)
 > **Code Identifiers:** fastifysession (5), fastifysecuresession (3), fastifycookie (3), clearsession (3), redisstore (1)
-> **Code Keywords:** let (3), delete (3), import { (1), from, (1), const (1)
 > **Prerequisites:** install (4), setup (1), configure (1), set up (1)
 > **Definitions:** is a  (4), means that (2)
 > **UI Navigation:** click on (4), go to (1)
@@ -4398,7 +4398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), const (6), function (5), await (4), delete (4)
+> **Frameworks & Libraries:** [[Redis]] (10), next (7), data (4), [[Fetch]] (2), generic (1)
 > **Env Vars:** sku (8), todo (2), url (1)
 > **Code Identifiers:** basketkey (5), parseint (1)
 > **UI Navigation:** click on (4), scroll up (1), open the (1)
@@ -4540,7 +4540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (5), const (3), async (2), import, (1)
+> **Frameworks & Libraries:** application (2), express (2), [[Fetch]] (2), [[Redis]] (2), next (1)
 > **Code Identifiers:** basketcount (4), basketplugin (4), basketitems (2), addhook (1), prehandler (1)
 > **File Paths:** basket.js (2), server.js (1), plugins/basket.js (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -4552,7 +4552,7 @@ created: 2026-04-29
 
 ### 6. Bringing It All Together: Creating and Managing Orders
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fetching item information for the basket
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980)
@@ -4641,7 +4641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), async (3), await (3), return, (1)
+> **Frameworks & Libraries:** data (6), [[Redis]] (4), [[MongoDB]] (4), parallel (3), database (2)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
 > **Definitions:** is an  (2)
@@ -4839,7 +4839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (8), this, (4), const (4), await (4)
+> **Frameworks & Libraries:** [[MySQL]] (7), data (6), [[Redis]] (4), [[MongoDB]] (4), product (3)
 > **CLI Commands:** mysql (7), find (3)
 > **Env Vars:** sku (8)
 > **UI Navigation:** scroll down (2), click on (2)
@@ -4999,7 +4999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), await (3), function (2), const (2), include. (1)
+> **Frameworks & Libraries:** data (6), database (3), management (2), [[MySQL]] (2), [[Fetch]] (2)
 > **Code Identifiers:** createdat (2), findall (1), orderdata (1), findbypk (1), orderid (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
 > **UI Navigation:** scroll down (2), click on (2)
@@ -5011,7 +5011,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980)
@@ -5038,6 +5038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [daniel] (1)
 

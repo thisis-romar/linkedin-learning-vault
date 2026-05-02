@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/scala
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-On%20Introduction-%20Scala.md)
@@ -49,33 +49,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Build your first Scala app
-  - What you should know
-  - Using GitHub Codespaces
-  - Scala introduction
-  - What we are going to build
+  - [Build your first Scala app](#build-your-first-scala-app)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces](#using-github-codespaces)
+  - [Scala introduction](#scala-introduction)
+  - [What we are going to build](#what-we-are-going-to-build)
 - [**1. Our First Methods and Testing**](#1-our-first-methods-and-testing) (6 videos)
-  - Scala project structure
-  - Our first method
-  - Our first test
-  - Implement our test
-  - Challenge: Testing and higher order functions
-  - Solution: Testing and higher order functions
+  - [Scala project structure](#scala-project-structure)
+  - [Our first method](#our-first-method)
+  - [Our first test](#our-first-test)
+  - [Implement our test](#implement-our-test)
+  - [Challenge: Testing and higher order functions](#challenge-testing-and-higher-order-functions)
+  - [Solution: Testing and higher order functions](#solution-testing-and-higher-order-functions)
 - [**2. Implementing Our ETL**](#2-implementing-our-etl) (4 videos)
-  - Traits, generics, givens, and using
-  - Eithers, enums, for comps, and pattern matching
-  - Challenge: Traits, generics, eithers, enums, and pattern matching
-  - Solution: Traits, generics, eithers, enums, and pattern matching
+  - [Traits, generics, givens, and using](#traits-generics-givens-and-using)
+  - [Eithers, enums, for comps, and pattern matching](#eithers-enums-for-comps-and-pattern-matching)
+  - [Challenge: Traits, generics, eithers, enums, and pattern matching](#challenge-traits-generics-eithers-enums-and-pattern-matching)
+  - [Solution: Traits, generics, eithers, enums, and pattern matching](#solution-traits-generics-eithers-enums-and-pattern-matching)
 - [**3. Refactoring with Config and JSON**](#3-refactoring-with-config-and-json) (3 videos)
-  - Adding configuration
-  - Refactoring the tests
-  - JSON implementation
+  - [Adding configuration](#adding-configuration)
+  - [Refactoring the tests](#refactoring-the-tests)
+  - [JSON implementation](#json-implementation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your first Scala app
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/build-your-first-scala-app?u=76281980)
@@ -96,7 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** [[Scala]] (5), application (1), career (1)
 > **Speakers:** - [amina] (1)
 
 #### What you should know
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include, (1), finally, (1), super (1), let (1)
+> **Frameworks & Libraries:** [[Programming]] (6), [[Scala]] (4), [[Git]] (2), [[GitHub]] (1), data (1)
 > **CLI Commands:** git (2), make (1)
 > **Tools:** github (1), visual studio (1)
 > **Prerequisites:** prerequisite (1), required to (1)
@@ -223,12 +223,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (5), [[LinkedIn]] (2), cloud (1), [[Git]] (1)
 > **Tools:** github (5), visual studio (1)
 > **Prerequisites:** getting started (3), set up (2)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1), git (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [instructor] (1)
 
@@ -289,9 +289,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scala]] (17), [[Java]] (6), [[Functional Programming]] (3), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (4), is an  (2), means that (2)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### What we are going to build
@@ -317,14 +317,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), else. (1)
+> **Frameworks & Libraries:** data (7), application (1), etl (1), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1), business (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Our First Methods and Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scala project structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980)
@@ -449,7 +449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), super (3), this. (2), this, (2), finally, (1)
+> **Frameworks & Libraries:** [[Scala]] (22), [[Java]] (3), next (2), [[Codespaces]] (1), [[GitHub]] (1)
 > **Documentation:** the docs (2), the documentation (2)
 > **Tools:** terminal (3), github (1)
 > **Definitions:** is a  (2), we call this (1), means that (1)
@@ -619,7 +619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type, (1), this. (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** [[Scala]] (21), etl (5), functional (2), next (2), data (2)
 > **Definitions:** is called (3), is an  (2), means that (2), is a  (2), stands for (1)
 > **Code Identifiers:** sayhi (2), sayhello (1), othername (1), listn (1)
 > **Env Vars:** etl (5)
@@ -755,7 +755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), assert (1), private (1), throw (1)
+> **Frameworks & Libraries:** [[Scala]] (5), hit (2), next (2), management (2), [[Codespaces]] (1)
 > **Code Identifiers:** readfile (2), fromfile (2), getlines (2), filepath (1), tolist (1)
 > **Definitions:** is a  (5), is an  (1), basically means (1)
 > **CLI Commands:** make (3)
@@ -883,7 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), throw (1), this. (1), pass (1)
+> **Frameworks & Libraries:** [[Scala]] (8), [[Java]] (4), data (1), etl (1)
 > **CLI Commands:** make (2), find (2)
 > **Documentation:** the documentation (3), spec (1)
 > **Code Identifiers:** getlines (1), tolist (1), tolowercase (1)
@@ -933,6 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scala]] (3)
 > **Code Identifiers:** calculatesum (2), filterandconvert (2)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -984,7 +985,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), finally, (1), case, (1)
 > **Code Identifiers:** calculatesum (1), shouldequal (1), filterandconvert (1), touppercase (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -993,7 +993,7 @@ created: 2026-04-29
 
 ### 2. Implementing Our ETL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Traits, generics, givens, and using
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980)
@@ -1322,7 +1322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), abstract (5), type, (5), this. (3), extends (3)
+> **Frameworks & Libraries:** [[Scala]] (24), etl (22), data (3), generic (1), next (1)
 > **Definitions:** means that (7), is a  (3), known as (1), is called (1)
 > **Code Identifiers:** testinput2 (2), intord (1), inputfilepath (1), outputfilepath (1), testoutput (1)
 > **CLI Commands:** make (3), find (1)
@@ -1608,7 +1608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), enum (3), try, (3), type. (3), this, (3)
+> **Frameworks & Libraries:** etl (30), [[Scala]] (10), data (3), [[Functional Programming]] (3), next (3)
 > **Env Vars:** etl (29), sbt (2), int (1)
 > **Documentation:** the documentation (5), spec (1)
 > **Definitions:** is a  (3), is an  (2)
@@ -1688,7 +1688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), enum (4), let (1), match, (1), abstract (1)
+> **Frameworks & Libraries:** next (4), generic (2), [[Google]] (1), [[Scala]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Code Identifiers:** applyfunction (1), processpayment (1)
 > **Cross-References:** in the next (2)
@@ -1754,7 +1754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), case, (1), match, (1)
+> **Frameworks & Libraries:** generic (2), next (1)
 > **Env Vars:** ide (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
@@ -1763,7 +1763,7 @@ created: 2026-04-29
 
 ### 3. Refactoring with Config and JSON
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980)
@@ -2114,7 +2114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), private (5), type, (4), function (4), yield (4)
+> **Frameworks & Libraries:** etl (20), [[Scala]] (16), application (9), next (5), hit (2)
 > **Code Identifiers:** inputfilepath (6), flatmap (5), outputfilepath (4), printresult (3), etlimpl (2)
 > **Definitions:** is a  (6), is an  (5), means that (4)
 > **URLs:** [application.com](https://application.com) (9)
@@ -2258,7 +2258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), delete (8), override (3), extends (1), private (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Scala]] (2), [[Microsoft Word|Word]] (2), next (2), [[Git]] (1)
 > **Code Identifiers:** beforeall (6), afterall (4), stringinput (3), filewriter (2), writetestinputfile (1)
 > **CLI Commands:** make (3), git (1)
 > **URLs:** [testapplication.com](https://testapplication.com) (1), [java.io](https://java.io) (1)
@@ -2614,7 +2614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (39), delete (7), type. (4), case, (3), this, (3)
+> **Frameworks & Libraries:** [[JSON]] (33), [[Scala]] (8), etl (5), next (5), data (4)
 > **Env Vars:** json (31), etl (3), ide (1)
 > **CLI Commands:** make (13), find (1)
 > **Code Identifiers:** afterall (4), usersover18 (2), intoutput (2), jsonoutput (2), inputjson (1)
@@ -2626,7 +2626,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980)
@@ -2725,8 +2725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scala]] (16), functional (3), next (1), concurrent (1), [[Apache Spark]] (1)
 > **CLI Commands:** find (2), make (1), ruby (1), rails (1), apache (1)
-> **Code Keywords:** let (2), type. (1), super (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **File Paths:** scala.js (1)

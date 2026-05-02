@@ -28,7 +28,7 @@ tags:
   - skill/roi-strategies
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Program%20Evaluation%20for%20Data%20Science.md)
@@ -47,52 +47,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Going beyond A/B testing
-  - What do I need to know?
+  - [Going beyond A/B testing](#going-beyond-ab-testing)
+  - [What do I need to know?](#what-do-i-need-to-know)
 - [**1. Introduction to Program Evaluation**](#1-introduction-to-program-evaluation) (4 videos)
-  - What is program evaluation?
-  - Evaluation in data science
-  - Introduction to causation
-  - Checklist for evaluations
+  - [What is program evaluation?](#what-is-program-evaluation)
+  - [Evaluation in data science](#evaluation-in-data-science)
+  - [Introduction to causation](#introduction-to-causation)
+  - [Checklist for evaluations](#checklist-for-evaluations)
 - [**2. A/B Testing**](#2-ab-testing) (5 videos)
-  - What are randomized studies?
-  - Advantages of A/B testing
-  - Applications for A/B testing in data science
-  - Quality checking A/B testing
-  - Practice A/B testing
+  - [What are randomized studies?](#what-are-randomized-studies)
+  - [Advantages of A/B testing](#advantages-of-ab-testing)
+  - [Applications for A/B testing in data science](#applications-for-ab-testing-in-data-science)
+  - [Quality checking A/B testing](#quality-checking-ab-testing)
+  - [Practice A/B testing](#practice-ab-testing)
 - [**3. Beyond A/B Testing and Randomization**](#3-beyond-ab-testing-and-randomization) (2 videos)
-  - Limitations of A/B testing
-  - Alternatives to A/B testing
+  - [Limitations of A/B testing](#limitations-of-ab-testing)
+  - [Alternatives to A/B testing](#alternatives-to-ab-testing)
 - [**4. Matching Methods**](#4-matching-methods) (5 videos)
-  - When to apply matching methods
-  - Best practices for matching methods
-  - Advantages of matching methods
-  - Interpreting results of matching methods
-  - Practice matching methods
+  - [When to apply matching methods](#when-to-apply-matching-methods)
+  - [Best practices for matching methods](#best-practices-for-matching-methods)
+  - [Advantages of matching methods](#advantages-of-matching-methods)
+  - [Interpreting results of matching methods](#interpreting-results-of-matching-methods)
+  - [Practice matching methods](#practice-matching-methods)
 - [**5. Difference in Difference**](#5-difference-in-difference) (5 videos)
-  - When to apply difference in difference
-  - Best practices for difference in difference
-  - Advantages of difference in difference
-  - Interpreting results of difference in difference
-  - Practice difference in difference
+  - [When to apply difference in difference](#when-to-apply-difference-in-difference)
+  - [Best practices for difference in difference](#best-practices-for-difference-in-difference)
+  - [Advantages of difference in difference](#advantages-of-difference-in-difference)
+  - [Interpreting results of difference in difference](#interpreting-results-of-difference-in-difference)
+  - [Practice difference in difference](#practice-difference-in-difference)
 - [**6. Regression Discontinuity**](#6-regression-discontinuity) (5 videos)
-  - When to apply regression discontinuity
-  - Best practices for regression discontinuity
-  - Advantages of regression discontinuity
-  - Interpreting results of regression discontinuity
-  - Practice regression discontinuity
+  - [When to apply regression discontinuity](#when-to-apply-regression-discontinuity)
+  - [Best practices for regression discontinuity](#best-practices-for-regression-discontinuity)
+  - [Advantages of regression discontinuity](#advantages-of-regression-discontinuity)
+  - [Interpreting results of regression discontinuity](#interpreting-results-of-regression-discontinuity)
+  - [Practice regression discontinuity](#practice-regression-discontinuity)
 - [**7. Interrupted Time Series**](#7-interrupted-time-series) (5 videos)
-  - When to apply interrupted time series
-  - Best practices for interrupted time series
-  - Advantages of interrupted time series
-  - Interpreting results of interrupted time series
-  - Practice interrupted time series
+  - [When to apply interrupted time series](#when-to-apply-interrupted-time-series)
+  - [Best practices for interrupted time series](#best-practices-for-interrupted-time-series)
+  - [Advantages of interrupted time series](#advantages-of-interrupted-time-series)
+  - [Interpreting results of interrupted time series](#interpreting-results-of-interrupted-time-series)
+  - [Practice interrupted time series](#practice-interrupted-time-series)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in program evaluation
+  - [Next steps in program evaluation](#next-steps-in-program-evaluation)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going beyond A/B testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/going-beyond-a-b-testing?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - ask (1)
 
 #### What do I need to know?
@@ -147,15 +147,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), [[SaaS]] (1), [[Stata]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** stata (1), spss (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - so (1)
 
 
 ### 1. Introduction to Program Evaluation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is program evaluation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980)
@@ -204,7 +204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), let (1)
+> **Frameworks & Libraries:** data (4), functional (1), [[Banking]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
@@ -255,6 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Banking]] (1), next (1)
 > **Definitions:** is a  (3), in other words (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
@@ -309,6 +310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Causal Inference]] (5), data (4), [[Statistics]] (1)
 > **Definitions:** refers to (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - program (1)
@@ -362,16 +364,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - throughout (1)
 
 
 ### 2. A/B Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are randomized studies?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-are-randomized-studies?u=76281980)
@@ -426,7 +428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1)
+> **Frameworks & Libraries:** data (4), power (1), product (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
@@ -486,9 +488,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Speakers:** - now (1)
 
@@ -547,6 +549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Banking]] (2), [[Microsoft Products|Products]] (2), application (2), business (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
@@ -615,8 +618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Security]] (1), business (1)
 > **Definitions:** is a  (2), refers to (2)
-> **Code Keywords:** this. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
 
@@ -677,8 +680,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[SaaS]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** such as (2)
 > **Env Vars:** spss (1)
 > **Best Practices:** remember to (1)
@@ -688,7 +691,7 @@ created: 2026-04-29
 
 ### 3. Beyond A/B Testing and Randomization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Limitations of A/B testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/limitations-of-a-b-testing?u=76281980)
@@ -733,8 +736,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (1), data (1), next (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** require (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
@@ -797,15 +800,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Analogies:** for example (1), imagine (1), such as (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - we (1)
 
 
 ### 4. Matching Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to apply matching methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-matching-methods?u=76281980)
@@ -852,7 +855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), match, (1), case, (1)
+> **Frameworks & Libraries:** data (2), feature (2)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -913,7 +916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (2), match. (2)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Probability]] (2), [[Windows]] (1), feature (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Versions:** 0.2 (1)
@@ -956,6 +959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (2), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (1)
 > **Env Vars:** sas (1)
@@ -1005,7 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (3), self (1), raise (1)
+> **Frameworks & Libraries:** data (3), feature (1), [[Algorithms]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
@@ -1048,9 +1052,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** match. (1)
 > **Versions:** 0.05 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -1058,7 +1062,7 @@ created: 2026-04-29
 
 ### 5. Difference in Difference
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to apply difference in difference
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-difference-in-difference?u=76281980)
@@ -1099,8 +1103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** case, (1)
 > **Env Vars:** covid (1)
 > **Speakers:** - difference (1)
 
@@ -1151,7 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is called (1), known as (1)
 > **Speakers:** - the (1)
 
@@ -1198,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), for. (1), let (1)
+> **Frameworks & Libraries:** data (5)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - the (1)
@@ -1248,7 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2), let (1)
+> **Frameworks & Libraries:** data (4), business (1), [[Linear Regression]] (1), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
@@ -1284,6 +1288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -1291,7 +1296,7 @@ created: 2026-04-29
 
 ### 6. Regression Discontinuity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to apply regression discontinuity
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-regression-discontinuity?u=76281980)
@@ -1332,8 +1337,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** fico (1)
 > **Speakers:** - the (1)
 
@@ -1400,6 +1405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (6), [[Windows]] (4), feature (2), power (1), next (1)
 > **Analogies:** such as (4), imagine (1)
 > **Best Practices:** best practice (4)
 > **Definitions:** is a  (2)
@@ -1447,10 +1453,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (1), feature (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - there (1)
 
 #### Interpreting results of regression discontinuity
@@ -1480,7 +1486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Banking]] (1), data (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - because (1)
 
@@ -1521,7 +1527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), function (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Windows]] (3), data (2), [[Banking]] (1), database (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1530,7 +1536,7 @@ created: 2026-04-29
 
 ### 7. Interrupted Time Series
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When to apply interrupted time series
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-interrupted-time-series?u=76281980)
@@ -1581,6 +1587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), power (2), [[Banking]] (1)
 > **Analogies:** for example (1), think of it as (1), such as (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1641,7 +1648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), this, (1), case, (1), continue (1)
+> **Frameworks & Libraries:** data (11), business (2), [[Linear Regression]] (1)
 > **Definitions:** known as (1), means that (1), is a  (1), is an  (1)
 > **Best Practices:** best practice (2), you should never (1)
 > **Analogies:** such as (1), for example (1)
@@ -1684,6 +1691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), feature (1), power (1), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - interrupted (1)
@@ -1729,7 +1737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1)
+> **Frameworks & Libraries:** [[Time Series Analysis]] (2), business (2), [[Windows]] (1), feature (1), [[Banking]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - when (1)
@@ -1783,6 +1791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Linear Regression]] (1)
 > **Env Vars:** hiv (8), ida (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -1792,7 +1801,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in program evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980)
@@ -1831,6 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), [[LinkedIn]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - this (1)
 

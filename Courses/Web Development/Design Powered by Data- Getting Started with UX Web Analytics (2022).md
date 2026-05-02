@@ -28,7 +28,7 @@ tags:
   - skill/web-analytics
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Design%20Powered%20by%20Data-%20Getting%20Started%20with%20UX%20Web%20Analytics%20(2022).md)
@@ -47,21 +47,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - UX analysis: A world between data and design
-  - What is UX analysis?
-  - What are some UX analytics tools?
+  - [UX analysis: A world between data and design](#ux-analysis-a-world-between-data-and-design)
+  - [What is UX analysis?](#what-is-ux-analysis)
+  - [What are some UX analytics tools?](#what-are-some-ux-analytics-tools)
 - [**1. UX Web Analytics Techniques**](#1-ux-web-analytics-techniques) (5 videos)
-  - Event tracking and analysis
-  - Customer journey mapping
-  - Funnel analysis with Google Analytics 4
-  - Segmentation strategies in Google Analytics 4
-  - A/B testing and experiments
+  - [Event tracking and analysis](#event-tracking-and-analysis)
+  - [Customer journey mapping](#customer-journey-mapping)
+  - [Funnel analysis with Google Analytics 4](#funnel-analysis-with-google-analytics-4)
+  - [Segmentation strategies in Google Analytics 4](#segmentation-strategies-in-google-analytics-4)
+  - [A/B testing and experiments](#ab-testing-and-experiments)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### UX analysis: A world between data and design
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980)
@@ -90,6 +90,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), web (3), ux (2), product (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lachezar] (1)
@@ -129,8 +130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), ux (4), [[User Experience (UX)|User experience]] (2), [[Microsoft Products|Products]] (1), product (1)
 > **Analogies:** for example (1), such as (1), picture (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What are some UX analytics tools?
@@ -222,7 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), interface (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (5), ux (4), [[Prototyping]] (4), product (4), web (3)
 > **Env Vars:** cms (1), html (1), css (1), cro (1)
 > **Tools:** figma (2)
 > **CLI Commands:** find (1)
@@ -234,7 +235,7 @@ created: 2026-04-29
 
 ### 1. UX Web Analytics Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Event tracking and analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980)
@@ -303,6 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Analytics]] (3), [[User Experience (UX)|User experience]] (2), [[Google]] (2), [[Engineering]] (2)
 > **Cross-References:** earlier in (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -385,7 +387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), case. (1), case, (1)
+> **Frameworks & Libraries:** application (4), product (3), [[User Experience (UX)|User experience]] (1), business (1), next (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1), template (1)
 > **Analogies:** imagine (1), for example (1)
@@ -477,8 +479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (7), [[Analytics]] (5), traffic (3), data (3), web (2)
 > **UI Navigation:** select the (2), scroll down (1), click on (1), open the (1), navigate to (1)
-> **Code Keywords:** let (2), interface (1), case, (1), type. (1)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** url (1), seo (1)
@@ -579,7 +581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), default. (1), default, (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Analytics]] (3), traffic (3), feature (2), data (2)
 > **UI Navigation:** navigate to (3), click on (2), right-click (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Analogies:** imagine (1), similar to (1)
@@ -682,7 +684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), yield (1), continue (1), this. (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), business (2), ux (1), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** kpi (2)
 > **UI Navigation:** select the (1)
@@ -694,7 +696,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980)
@@ -719,6 +721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (3), [[Analytics]] (3), data (2), web (2), [[User Experience (UX)|User experience]] (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [lachezar] (1)
 

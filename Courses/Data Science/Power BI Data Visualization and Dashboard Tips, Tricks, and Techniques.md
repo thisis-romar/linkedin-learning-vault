@@ -27,7 +27,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Data%20Visualization%20and%20Dashboard%20Tips%2C%20Tricks%2C%20and%20Techniques.md)
@@ -46,51 +46,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Design reports that deliver insights with Power BI
-  - How to use the exercise files and course assets
+  - [Design reports that deliver insights with Power BI](#design-reports-that-deliver-insights-with-power-bi)
+  - [How to use the exercise files and course assets](#how-to-use-the-exercise-files-and-course-assets)
 - [**1. Get Started in Power BI**](#1-get-started-in-power-bi) (8 videos)
-  - Differentiate Power BI Desktop and Service
-  - Understanding Power BI licensing and using trial accounts
-  - Discover Power BI Service within Microsoft Fabric
-  - Navigate a Power BI report in Desktop
-  - Navigate the four views in Desktop
-  - Navigate the format and analysis panes
-  - Challenge: Create your own report using sample data
-  - Solution: Create your own report using sample data
+  - [Differentiate Power BI Desktop and Service](#differentiate-power-bi-desktop-and-service)
+  - [Understanding Power BI licensing and using trial accounts](#understanding-power-bi-licensing-and-using-trial-accounts)
+  - [Discover Power BI Service within Microsoft Fabric](#discover-power-bi-service-within-microsoft-fabric)
+  - [Navigate a Power BI report in Desktop](#navigate-a-power-bi-report-in-desktop)
+  - [Navigate the four views in Desktop](#navigate-the-four-views-in-desktop)
+  - [Navigate the format and analysis panes](#navigate-the-format-and-analysis-panes)
+  - [Challenge: Create your own report using sample data](#challenge-create-your-own-report-using-sample-data)
+  - [Solution: Create your own report using sample data](#solution-create-your-own-report-using-sample-data)
 - [**2. Editing and Creating Types of Visuals in Power BI**](#2-editing-and-creating-types-of-visuals-in-power-bi) (11 videos)
-  - Understanding the publishing workflow
-  - Mastering bar charts in Power BI
-  - Drilling down line charts with date hierarchies
-  - Display single numbers with KPIs, new card visuals, and gauges
-  - Showcase proportion data with pies and treemaps
-  - Visualize distribution data with histograms and scatterplots
-  - Use maps and choropleths with confidence
-  - Compare table and matrix visuals
-  - Use custom visuals to solve unmet requirements
-  - Challenge: Create a report showing trends in profitability
-  - Solution: Create a report showing trends in profitability
+  - [Understanding the publishing workflow](#understanding-the-publishing-workflow)
+  - [Mastering bar charts in Power BI](#mastering-bar-charts-in-power-bi)
+  - [Drilling down line charts with date hierarchies](#drilling-down-line-charts-with-date-hierarchies)
+  - [Display single numbers with KPIs, new card visuals, and gauges](#display-single-numbers-with-kpis-new-card-visuals-and-gauges)
+  - [Showcase proportion data with pies and treemaps](#showcase-proportion-data-with-pies-and-treemaps)
+  - [Visualize distribution data with histograms and scatterplots](#visualize-distribution-data-with-histograms-and-scatterplots)
+  - [Use maps and choropleths with confidence](#use-maps-and-choropleths-with-confidence)
+  - [Compare table and matrix visuals](#compare-table-and-matrix-visuals)
+  - [Use custom visuals to solve unmet requirements](#use-custom-visuals-to-solve-unmet-requirements)
+  - [Challenge: Create a report showing trends in profitability](#challenge-create-a-report-showing-trends-in-profitability)
+  - [Solution: Create a report showing trends in profitability](#solution-create-a-report-showing-trends-in-profitability)
 - [**3. Organizing and Interacting with Visuals**](#3-organizing-and-interacting-with-visuals) (8 videos)
-  - Manipulating visuals within a report
-  - Using new and old slicers to filter your visuals
-  - Prevent frustration with layer order using Selection pane
-  - Learn how visuals filter each other by default and by design
-  - Understand dashboard design principles
-  - Organizing your visuals with bookmarks
-  - Challenge: Improve your report using three new tools
-  - Solution: Improve your report using three new tools
+  - [Manipulating visuals within a report](#manipulating-visuals-within-a-report)
+  - [Using new and old slicers to filter your visuals](#using-new-and-old-slicers-to-filter-your-visuals)
+  - [Prevent frustration with layer order using Selection pane](#prevent-frustration-with-layer-order-using-selection-pane)
+  - [Learn how visuals filter each other by default and by design](#learn-how-visuals-filter-each-other-by-default-and-by-design)
+  - [Understand dashboard design principles](#understand-dashboard-design-principles)
+  - [Organizing your visuals with bookmarks](#organizing-your-visuals-with-bookmarks)
+  - [Challenge: Improve your report using three new tools](#challenge-improve-your-report-using-three-new-tools)
+  - [Solution: Improve your report using three new tools](#solution-improve-your-report-using-three-new-tools)
 - [**4. Report Design and Creation**](#4-report-design-and-creation) (6 videos)
-  - Understand when to make a new tab
-  - How to lay out your report page for maximum effect
-  - Use color well for your audience
-  - Mastering responsive design for mobile
-  - Challenge: Design a two tab report
-  - Solution: Design a two tab report
+  - [Understand when to make a new tab](#understand-when-to-make-a-new-tab)
+  - [How to lay out your report page for maximum effect](#how-to-lay-out-your-report-page-for-maximum-effect)
+  - [Use color well for your audience](#use-color-well-for-your-audience)
+  - [Mastering responsive design for mobile](#mastering-responsive-design-for-mobile)
+  - [Challenge: Design a two tab report](#challenge-design-a-two-tab-report)
+  - [Solution: Design a two tab report](#solution-design-a-two-tab-report)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next for Power BI success
+  - [What's next for Power BI success](#whats-next-for-power-bi-success)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design reports that deliver insights with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), bi (5), data (2), feature (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [emma] (1)
 
 #### How to use the exercise files and course assets
@@ -162,16 +162,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), bi (2), data (2)
 > **Exercise Files:** exercise files (7), exercise file (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** new. (1), let (1)
 > **Env Vars:** pbix (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Get Started in Power BI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Differentiate Power BI Desktop and Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980)
@@ -246,8 +246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (6), bi (6), web (2), [[Dashboards]] (2)
 > **Analogies:** imagine (2), such as (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** dax (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
@@ -289,6 +289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), bi (7), [[Microsoft]] (2), hit (1), ai (1)
 > **Prerequisites:** setup (2), getting started (1), set up (1)
 > **URLs:** [powerbi.com](https://powerbi.com) (1)
 > **Speakers:** - [instructor] (1)
@@ -380,6 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), power (9), bi (9), [[Microsoft]] (5), [[Dashboards]] (5)
 > **Definitions:** is a  (2), is an  (1), defined as (1), known as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -512,7 +514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), type. (1), interface (1)
+> **Frameworks & Libraries:** data (16), power (3), bi (3), next (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2), scroll down (1), drag and drop (1), checkbox (1)
 > **Definitions:** is a  (2), in other words (1), is called (1)
 > **Env Vars:** pbix (1)
@@ -626,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (1), function (1), case, (1), static (1)
+> **Frameworks & Libraries:** data (26), [[DAX]] (3), next (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (2)
 > **UI Navigation:** click on (2), drag and drop (2), select the (1)
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **Env Vars:** dax (3)
@@ -770,7 +772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (2), this, (1), if, (1), type. (1)
+> **Frameworks & Libraries:** data (11), power (2), bi (2), [[Analytics]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** cogs (3)
 > **UI Navigation:** go to (2), toggle (1)
@@ -806,6 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft]] (2), power (1), bi (1), next (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -850,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft]] (1), [[Financial Data]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -859,7 +862,7 @@ created: 2026-04-29
 
 ### 2. Editing and Creating Types of Visuals in Power BI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the publishing workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980)
@@ -946,10 +949,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), bi (4), data (4), [[LinkedIn]] (3), web (3)
 > **Env Vars:** url (3), pdf (1), pbix (1)
 > **UI Navigation:** select the (2), click on (1), toggle (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), let (1)
 > **URLs:** [powerbi.com](https://powerbi.com) (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -1084,7 +1087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (2), default, (1), case, (1)
+> **Frameworks & Libraries:** product (5), data (4), [[Microsoft Products|Products]] (3), power (2), bi (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** drag and drop (1), go to (1), click on (1), switch to (1)
 > **Env Vars:** cogs (1)
@@ -1224,7 +1227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), delete (2)
+> **Frameworks & Libraries:** data (17), power (4), bi (4), product (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1), as we saw (1)
 > **Analogies:** such as (2)
@@ -1385,7 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1), new. (1)
+> **Frameworks & Libraries:** data (10), power (4), bi (4), next (2), product (1)
 > **Env Vars:** kpi (10)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 11.99 (2), 118.73 (1)
@@ -1535,7 +1538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (1), super (1), default. (1)
+> **Frameworks & Libraries:** data (7), business (2), power (1), bi (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** cogs (2)
@@ -1697,7 +1700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), delete (1)
+> **Frameworks & Libraries:** next (3), data (2), power (2), bi (2), business (2)
 > **CLI Commands:** make (10)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1858,7 +1861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** data (14), next (1), feature (1), rag (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **UI Navigation:** click on (1), select the (1), go to (1)
 > **Analogies:** for example (3)
@@ -2020,7 +2023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), default. (1), delete (1)
+> **Frameworks & Libraries:** data (6), power (5), bi (5), next (2), product (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (1), go to (1), drag and drop (1)
 > **Analogies:** similar to (1), for example (1)
@@ -2100,8 +2103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (8), bi (6), [[Microsoft]] (4), [[Search]] (2)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** this, (1), interface (1), let (1), try, (1)
 > **Env Vars:** truviz (2)
 > **Analogies:** for example (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -2192,7 +2195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (6), product (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Env Vars:** vtt (1)
@@ -2334,7 +2337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), this, (1), match. (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft Products|Products]] (4), [[Microsoft Excel|Excel]] (2), next (2), product (2)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** cogs (3)
 > **Definitions:** in other words (1), is a  (1)
@@ -2346,7 +2349,7 @@ created: 2026-04-29
 
 ### 3. Organizing and Interacting with Visuals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manipulating visuals within a report
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/manipulating-visuals-within-a-report?u=76281980)
@@ -2493,8 +2496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), bi (4), data (3)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (4), delete (2), super (1)
 > **UI Navigation:** scroll down (1), drag and drop (1), go to (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -2605,7 +2608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default. (1), for. (1)
+> **Frameworks & Libraries:** power (2), bi (2), web (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** dropdown (3), click on (2), go to (1)
 > **Prerequisites:** set up (1)
@@ -2688,7 +2691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** web (1), next (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), for example (1)
@@ -2824,8 +2827,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), power (1), bi (1), feature (1)
 > **UI Navigation:** click on (11), go to (1)
-> **Code Keywords:** let (5), switch (2), default, (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -3028,8 +3031,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (6), power (5), bi (5), web (4), teams (3)
 > **UI Navigation:** go to (4), click on (2), drag and drop (1)
-> **Code Keywords:** let (2), this. (1), this, (1), default, (1), finally, (1)
 > **Env Vars:** kpi (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (2)
@@ -3132,8 +3135,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (4), bi (4), [[Dashboards]] (1), [[Storytelling]] (1)
 > **UI Navigation:** click on (4), go to (4)
-> **Code Keywords:** let (3), this, (1)
 > **Analogies:** for example (2), imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3162,7 +3165,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (1)
 > **Exercise Files:** exercise file (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -3236,7 +3238,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** drag and drop (2), go to (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cogs (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -3244,7 +3245,7 @@ created: 2026-04-29
 
 ### 4. Report Design and Creation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand when to make a new tab
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980)
@@ -3349,7 +3350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), require (1), default. (1)
+> **Frameworks & Libraries:** data (5), [[Dashboards]] (2), power (1), bi (1), functional (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -3429,8 +3430,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), web (1), data (1), feature (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -3593,8 +3594,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[JSON]] (2), power (1), bi (1), [[Forms]] (1)
 > **CLI Commands:** make (9), find (1)
-> **Code Keywords:** this, (2), let (2), interface (1), match. (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** json (2)
 > **Definitions:** is a  (2)
@@ -3729,9 +3730,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), power (2), bi (2), data (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), click on (2)
-> **Code Keywords:** let (3)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
@@ -3792,6 +3793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (1), [[Microsoft Products|Products]] (1), management (1), [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -3803,7 +3805,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next for Power BI success
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980)
@@ -3830,6 +3832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), bi (5), [[Dashboards]] (1), data (1), [[LinkedIn]] (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [lecturer] (1)

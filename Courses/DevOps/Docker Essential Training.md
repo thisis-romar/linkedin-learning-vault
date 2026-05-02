@@ -29,7 +29,7 @@ tags:
   - skill/containerization
   - skill/docker-products
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Docker%20Essential%20Training.md)
@@ -48,88 +48,88 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Diving deeper into Docker
-  - What you should know
+  - [Diving deeper into Docker](#diving-deeper-into-docker)
+  - [What you should know](#what-you-should-know)
 - [**1. Docker Explained**](#1-docker-explained) (5 videos)
-  - Docker recap
-  - Container runtimes
-  - OCI and CRI runtimes
-  - The Docker Engine
-  - Where are Docker's configuration files?
+  - [Docker recap](#docker-recap)
+  - [Container runtimes](#container-runtimes)
+  - [OCI and CRI runtimes](#oci-and-cri-runtimes)
+  - [The Docker Engine](#the-docker-engine)
+  - [Where are Docker's configuration files?](#where-are-dockers-configuration-files)
 - [**2. Installing Docker: The Hard Way**](#2-installing-docker-the-hard-way) (7 videos)
-  - When Docker Desktop doesn't cut it
-  - Installing Lima
-  - Configuring Lima
-  - Starting the Lima VM
-  - Installing Windows Subsystem for Linux (WSL)
-  - Installing Docker within WSL
-  - Visualizing your containers with Portainer
+  - [When Docker Desktop doesn't cut it](#when-docker-desktop-doesnt-cut-it)
+  - [Installing Lima](#installing-lima)
+  - [Configuring Lima](#configuring-lima)
+  - [Starting the Lima VM](#starting-the-lima-vm)
+  - [Installing Windows Subsystem for Linux (WSL)](#installing-windows-subsystem-for-linux-wsl)
+  - [Installing Docker within WSL](#installing-docker-within-wsl)
+  - [Visualizing your containers with Portainer](#visualizing-your-containers-with-portainer)
 - [**3. Docker Images Demystified**](#3-docker-images-demystified) (6 videos)
-  - What are Docker images?
-  - Diving deeper into Docker images: Part 1
-  - Diving deeper into Docker images: Part 2
-  - Storage drivers
-  - Decomposing Docker pull
-  - Configure Docker to enable debug logging
+  - [What are Docker images?](#what-are-docker-images)
+  - [Diving deeper into Docker images: Part 1](#diving-deeper-into-docker-images-part-1)
+  - [Diving deeper into Docker images: Part 2](#diving-deeper-into-docker-images-part-2)
+  - [Storage drivers](#storage-drivers)
+  - [Decomposing Docker pull](#decomposing-docker-pull)
+  - [Configure Docker to enable debug logging](#configure-docker-to-enable-debug-logging)
 - [**4. Exploring Dockerfiles**](#4-exploring-dockerfiles) (16 videos)
-  - Introduction to Dockerfiles
-  - The anatomy of a Dockerfile
-  - Sourcing other Docker images with FROM
-  - Building your first image
-  - Adding and copying files with COPY and ADD
-  - Updating the image
-  - Customizing your Docker image with RUN
-  - Starting your app with ENTRYPOINT
-  - "Starting" your app with CMD
-  - Adding variables with ENV and ARG
-  - Other helpful Dockerfile commands
-  - Multi-stage builds
-  - Multi-platform images
-  - Multi-app images
-  - Challenge: Build and run your first image
-  - Solution: Build and run your first image
+  - [Introduction to Dockerfiles](#introduction-to-dockerfiles)
+  - [The anatomy of a Dockerfile](#the-anatomy-of-a-dockerfile)
+  - [Sourcing other Docker images with FROM](#sourcing-other-docker-images-with-from)
+  - [Building your first image](#building-your-first-image)
+  - [Adding and copying files with COPY and ADD](#adding-and-copying-files-with-copy-and-add)
+  - [Updating the image](#updating-the-image)
+  - [Customizing your Docker image with RUN](#customizing-your-docker-image-with-run)
+  - [Starting your app with ENTRYPOINT](#starting-your-app-with-entrypoint)
+  - ["Starting" your app with CMD](#starting-your-app-with-cmd)
+  - [Adding variables with ENV and ARG](#adding-variables-with-env-and-arg)
+  - [Other helpful Dockerfile commands](#other-helpful-dockerfile-commands)
+  - [Multi-stage builds](#multi-stage-builds)
+  - [Multi-platform images](#multi-platform-images)
+  - [Multi-app images](#multi-app-images)
+  - [Challenge: Build and run your first image](#challenge-build-and-run-your-first-image)
+  - [Solution: Build and run your first image](#solution-build-and-run-your-first-image)
 - [**5. Advanced Docker Operations**](#5-advanced-docker-operations) (6 videos)
-  - Extending container privileges with capabilities
-  - Setting container limits: Part 1
-  - Setting container limits: Part 2
-  - Configuring logging with logging drivers: Part 1
-  - Configuring logging with logging drivers: Part 2
-  - Configuring the Docker daemon
+  - [Extending container privileges with capabilities](#extending-container-privileges-with-capabilities)
+  - [Setting container limits: Part 1](#setting-container-limits-part-1)
+  - [Setting container limits: Part 2](#setting-container-limits-part-2)
+  - [Configuring logging with logging drivers: Part 1](#configuring-logging-with-logging-drivers-part-1)
+  - [Configuring logging with logging drivers: Part 2](#configuring-logging-with-logging-drivers-part-2)
+  - [Configuring the Docker daemon](#configuring-the-docker-daemon)
 - [**6. Docker in Docker**](#6-docker-in-docker) (4 videos)
-  - The case for Docker in Docker
-  - Creating the container to run containers
-  - Installing Docker in the container of containers
-  - Limitations of Docker through Docker
+  - [The case for Docker in Docker](#the-case-for-docker-in-docker)
+  - [Creating the container to run containers](#creating-the-container-to-run-containers)
+  - [Installing Docker in the container of containers](#installing-docker-in-the-container-of-containers)
+  - [Limitations of Docker through Docker](#limitations-of-docker-through-docker)
 - [**7. Networking**](#7-networking) (6 videos)
-  - Introduction to container networking
-  - Creating Docker networks with bridge-mode networking
-  - Exposing container ports between containers
-  - Sharing a host's network with host mode networking
-  - Disabling networking with the none driver
-  - Advanced network drivers and network plugins
+  - [Introduction to container networking](#introduction-to-container-networking)
+  - [Creating Docker networks with bridge-mode networking](#creating-docker-networks-with-bridge-mode-networking)
+  - [Exposing container ports between containers](#exposing-container-ports-between-containers)
+  - [Sharing a host's network with host mode networking](#sharing-a-hosts-network-with-host-mode-networking)
+  - [Disabling networking with the none driver](#disabling-networking-with-the-none-driver)
+  - [Advanced network drivers and network plugins](#advanced-network-drivers-and-network-plugins)
 - [**8. Storing Data**](#8-storing-data) (6 videos)
-  - Introduction to container storage
-  - How volumes work
-  - Creating Docker volumes
-  - Creating bind mounts
-  - Copying data from volumes
-  - Bind mount caveats with Docker Desktop
+  - [Introduction to container storage](#introduction-to-container-storage)
+  - [How volumes work](#how-volumes-work)
+  - [Creating Docker volumes](#creating-docker-volumes)
+  - [Creating bind mounts](#creating-bind-mounts)
+  - [Copying data from volumes](#copying-data-from-volumes)
+  - [Bind mount caveats with Docker Desktop](#bind-mount-caveats-with-docker-desktop)
 - [**9. The Docker Registry**](#9-the-docker-registry) (5 videos)
-  - Introduction to Docker registries
-  - Creating a simple registry
-  - Pushing multi-platform manifest lists
-  - Creating and logging into authenticated registries
-  - Popular alternative container image registries
+  - [Introduction to Docker registries](#introduction-to-docker-registries)
+  - [Creating a simple registry](#creating-a-simple-registry)
+  - [Pushing multi-platform manifest lists](#pushing-multi-platform-manifest-lists)
+  - [Creating and logging into authenticated registries](#creating-and-logging-into-authenticated-registries)
+  - [Popular alternative container image registries](#popular-alternative-container-image-registries)
 - [**10. Additional Docker Resources**](#10-additional-docker-resources) (3 videos)
-  - Docker best practices
-  - Taking it to the next level with Docker Compose
-  - Level up even more with Kubernetes
+  - [Docker best practices](#docker-best-practices)
+  - [Taking it to the next level with Docker Compose](#taking-it-to-the-next-level-with-docker-compose)
+  - [Level up even more with Kubernetes](#level-up-even-more-with-kubernetes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Thank you
+  - [Thank you](#thank-you)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving deeper into Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker?u=76281980)
@@ -158,6 +158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Containerization]] (1)
 > **CLI Commands:** docker (7)
 > **Speakers:** - you (1)
 
@@ -192,8 +193,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scripting]] (1), [[Programming]] (1), [[Windows]] (1), [[Powershell]] (1)
 > **Tools:** terminal (2), powershell (1), vim (1), visual studio (1), sublime (1)
-> **Code Keywords:** finally, (1), require (1)
 > **Env Vars:** vim (1), ide (1)
 > **CLI Commands:** docker (1)
 > **Prerequisites:** you'll need (1)
@@ -202,7 +203,7 @@ created: 2026-04-29
 
 ### 1. Docker Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Docker recap
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980)
@@ -301,8 +302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (6), [[Virtual Machines]] (4), [[Linux]] (3), application (2), [[Configuration Management]] (2)
 > **CLI Commands:** docker (7), make (2), ansible (1), ruby (1), python (1)
-> **Code Keywords:** let (3), for. (1), new. (1), from. (1), finally, (1)
 > **Prerequisites:** configure (5), install (1), you'll need (1)
 > **Env Vars:** hcl (2)
 > **Cross-References:** later in (1)
@@ -391,8 +392,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), application (6), feature (2), [[Engineering]] (1), teams (1)
 > **CLI Commands:** docker (4), make (1)
-> **Code Keywords:** let (2), from, (1), finally, (1), delete (1)
 > **Cross-References:** later in (2), in the last (1)
 > **Env Vars:** cpu (1), api (1)
 > **Prerequisites:** you'll need (2)
@@ -518,11 +519,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Kubernetes]] (4), [[Linux]] (3), [[GitHub]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** oci (15), cri (9)
 > **Documentation:** spec (6), specification (3)
 > **Definitions:** is a  (6), short for (2)
 > **CLI Commands:** docker (5), make (2)
-> **Code Keywords:** let (2), default. (1), interface (1)
 > **Code Identifiers:** gvisor (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **Tools:** github (1)
@@ -564,8 +565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Automation]] (1), api (1), [[Linux]] (1)
 > **CLI Commands:** docker (9), make (1)
-> **Code Keywords:** let (1), default, (1), case. (1), this. (1)
 > **Env Vars:** hctp (1), rest (1), api (1), rhel (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -620,8 +621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2), data (2), api (2), [[Metadata]] (1)
 > **CLI Commands:** docker (17)
-> **Code Keywords:** var (3), let (1), default, (1), finally, (1)
 > **Env Vars:** api (2), http (1)
 > **Prerequisites:** install (3)
 > **Tools:** docker desktop (1), command line (1)
@@ -632,7 +633,7 @@ created: 2026-04-29
 
 ### 2. Installing Docker: The Hard Way
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When Docker Desktop doesn't cut it
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980)
@@ -681,9 +682,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (7), [[Windows]] (3), teams (3), [[Virtual Machines]] (2), [[Microsoft]] (1)
 > **CLI Commands:** docker (25)
 > **Tools:** docker desktop (9), command line (3)
-> **Code Keywords:** interface (2), finally, (1), let (1)
 > **Env Vars:** vnc (1), http (1), nist (1), iso (1)
 > **Prerequisites:** install (3)
 > **Speakers:** - [instructor] (1)
@@ -737,9 +738,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Virtualization]] (1), [[Virtual Machines]] (1), [[GitHub]] (1), next (1)
 > **Prerequisites:** install (8)
 > **CLI Commands:** docker (2), brew (2), find (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** qemu (2)
 > **Tools:** github (1), terminal (1)
 > **UI Navigation:** click on (1), open the (1)
@@ -867,8 +868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Virtual Machines]] (2), [[GitHub]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (11), cat (5), find (2), make (2), curl (1)
-> **Code Keywords:** let (5), finally, (2), this. (1), this, (1)
 > **Env Vars:** yaml (2), url (2), arm (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1), scroll up (1)
 > **File Paths:** docker-rootful.yaml (4)
@@ -1019,8 +1020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[CLI]] (2), data (1), feature (1)
 > **CLI Commands:** docker (43), brew (1), find (1)
-> **Code Keywords:** let (6), finally, (2), this, (2), default. (1), var (1)
 > **Tools:** command line (2), docker desktop (2)
 > **Prerequisites:** install (4)
 > **Cross-References:** go back to (1), earlier in (1), later in (1)
@@ -1125,10 +1126,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (11), [[Linux]] (8), [[Powershell]] (4), [[Ubuntu]] (4), feature (3)
 > **Tools:** terminal (5), powershell (4), docker desktop (1)
 > **UI Navigation:** click on (6), in the menu (1), dropdown (1)
 > **Prerequisites:** install (8)
-> **Code Keywords:** let (5), default. (1)
 > **CLI Commands:** docker (2), find (2)
 > **Env Vars:** wsl (1), ctrl (1)
 > **Cross-References:** go back to (2)
@@ -1201,9 +1202,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Windows]] (1), hit (1), prompt (1), next (1)
 > **CLI Commands:** docker (17), sudo (3), curl (1)
 > **Tools:** bash (3), terminal (3), docker desktop (1)
-> **Code Keywords:** let (2), this, (1), default. (1)
 > **UI Navigation:** click on (2), dropdown (2)
 > **Env Vars:** wsl (2), sudo (1)
 > **Code Identifiers:** ag (1)
@@ -1393,8 +1394,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), web (5), feature (2), [[GitHub]] (2), prompt (2)
 > **CLI Commands:** docker (13), nginx (9), make (3), find (2)
-> **Code Keywords:** let (8), delete (3), finally, (2), self (2), super (1)
 > **UI Navigation:** click on (6), go to (3), select the (1), toggle (1)
 > **Ports:** :9443 (3), port 80 (3), :8000 (1), :8080 (1), port 8080 (1)
 > **Tools:** command line (2), terminal (2), github (2), docker desktop (1), safari (1)
@@ -1405,7 +1406,7 @@ created: 2026-04-29
 
 ### 3. Docker Images Demystified
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Docker images?
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980)
@@ -1470,8 +1471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), [[Virtual Machines]] (1), data (1), [[JSON]] (1)
 > **CLI Commands:** make (3), tar (2), docker (1)
-> **Code Keywords:** let (3), finally, (2)
 > **Env Vars:** oci (1)
 > **Cross-References:** later in (1)
 > **Analogies:** similar to (1)
@@ -1609,8 +1610,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (8), [[Windows]] (6), [[Linux]] (4), hit (2), feature (1)
 > **CLI Commands:** tar (13), docker (5), make (1), brew (1)
-> **Code Keywords:** let (6), finally, (4), this. (1), for. (1)
 > **Env Vars:** json (4), arm (1), max (1), wsl (1)
 > **Definitions:** is a  (3), means that (1), short for (1), is called (1), in other words (1)
 > **File Paths:** manifest.json (4)
@@ -1701,8 +1702,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (6), [[LinkedIn]] (2), hit (1), [[Linux]] (1)
 > **CLI Commands:** tar (13), docker (1)
-> **Code Keywords:** let (8), this, (3), try. (1), this. (1)
 > **Env Vars:** version (3)
 > **Definitions:** means that (1), in other words (1), is a  (1)
 > **File Paths:** manifest.json (2)
@@ -1845,7 +1846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), delete (2), var (1), finally, (1)
+> **Frameworks & Libraries:** application (3), next (2), [[Linux]] (1), [[Databases]] (1), data (1)
 > **CLI Commands:** tar (3), docker (3), make (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** sim (1)
@@ -1916,8 +1917,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), [[Windows]] (2), [[Ubuntu]] (2), hit (2), [[Linux]] (1)
 > **CLI Commands:** docker (18), sudo (4), make (2), rm (1), systemctl (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Tools:** terminal (2), docker desktop (1), vim (1)
 > **File Paths:** etc/docker/daemon.json (2), daemon.json (1)
 > **UI Navigation:** click on (1), dropdown (1), select the (1)
@@ -2068,8 +2069,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Redis]] (6), next (4), [[CLI]] (2), [[Windows]] (2), [[Linux]] (2)
 > **CLI Commands:** docker (35), nginx (2), tar (2), journalctl (1)
-> **Code Keywords:** let (7), default, (2), from. (1), private (1), try, (1)
 > **Tools:** terminal (8), command line (1), bash (1)
 > **Env Vars:** cli (2), ctl (1)
 > **URLs:** [docker.io](https://docker.io) (2)
@@ -2080,7 +2081,7 @@ created: 2026-04-29
 
 ### 4. Exploring Dockerfiles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Dockerfiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-dockerfiles?u=76281980)
@@ -2111,7 +2112,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** docker (4)
 > **Env Vars:** run (1), entrypoint (1), copy (1)
-> **Code Keywords:** from, (1), let (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2219,8 +2219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Configuration Management]] (4), [[Microsoft Word|Word]] (2), [[Ubuntu]] (2), [[Scripting]] (2), [[Linux]] (1)
 > **CLI Commands:** docker (9), make (3), tar (2), ansible (1)
-> **Code Keywords:** from, (2), let (1), from. (1)
 > **Exercise Files:** exercise files (2)
 > **Tools:** bash (1)
 > **Definitions:** is a  (1)
@@ -2337,7 +2337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), next (3), hit (2), [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (2), ls (2), make (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Tools:** terminal (1), vim (1)
@@ -2449,8 +2449,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (5), next (1)
 > **CLI Commands:** docker (16), make (6), ls (5)
-> **Code Keywords:** let (7)
 > **Definitions:** is a  (4), means that (1), is called (1), is an  (1)
 > **Env Vars:** url (2)
 > **Cross-References:** in the last (2)
@@ -2527,10 +2527,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **Env Vars:** copy (12), add (9), mp3 (2), url (1)
 > **CLI Commands:** docker (9), tar (2), find (1), make (1), chown (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2658,8 +2658,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (3), hit (1), [[Metadata]] (1)
 > **CLI Commands:** docker (21), ls (2), rm (1), make (1)
-> **Code Keywords:** let (10), default, (2), default. (1), from. (1), override (1)
 > **Tools:** bash (11), terminal (3)
 > **Env Vars:** cmd (5)
 > **File Paths:** app.sh (3), ubuntu.dockerfile (1)
@@ -2824,9 +2824,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Windows]] (1), [[Microsoft Word|Word]] (1), [[Fetch]] (1), web (1)
 > **CLI Commands:** docker (23), curl (8), apt (5), sudo (3), make (2)
 > **Env Vars:** run (24), copy (3), cmd (2), arg (1), env (1)
-> **Code Keywords:** let (9), throw (1), try. (1), for. (1), this. (1)
 > **Prerequisites:** install (4), configure (1)
 > **Tools:** terminal (3), vim (1)
 > **Definitions:** means that (2), is a  (2)
@@ -3022,7 +3022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), finally, (2), this, (2), case, (1), delete (1)
+> **Frameworks & Libraries:** application (8), [[Forms]] (2), [[Microsoft Word|Word]] (2), next (1)
 > **CLI Commands:** docker (12), make (4), ls (1), rm (1), curl (1)
 > **Env Vars:** pid (3), cmd (2), f4c1 (1)
 > **Tools:** bash (3), terminal (2)
@@ -3180,8 +3180,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Ubuntu]] (2), next (2), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** cmd (25)
-> **Code Keywords:** let (13), case, (3), override (2), finally, (1), default. (1)
 > **CLI Commands:** docker (13), find (1), rm (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Tools:** bash (1), terminal (1)
@@ -3426,10 +3426,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Programming]] (1), [[Ubuntu]] (1), hit (1)
 > **Env Vars:** arg (27), env (18), cmd (3)
 > **CLI Commands:** curl (15), docker (14), make (2), rm (1), find (1)
 > **Code Identifiers:** curl (14), curl_bin (12)
-> **Code Keywords:** let (16), override (4), finally, (2), else, (1), this, (1)
 > **Cross-References:** go back to (3), in the last (1)
 > **Prerequisites:** install (2), configure (1)
 > **Definitions:** is an  (1), means that (1)
@@ -3562,9 +3562,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Linux]] (2), [[Security]] (2), [[Metadata]] (1), [[Windows]] (1)
 > **Env Vars:** workdir (10), user (10), run (7), label (4), expose (3)
 > **CLI Commands:** docker (6), find (2), make (2)
-> **Code Keywords:** let (1), this. (1), default. (1), default, (1)
 > **Ports:** port 8080 (2)
 > **Tools:** command line (2)
 > **Warnings:** note that (1)
@@ -3782,8 +3782,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (5), feature (3), next (2), [[Google]] (2), [[Linux]] (2)
 > **CLI Commands:** docker (10), curl (6), rm (1), wget (1), make (1)
-> **Code Keywords:** let (4), finally, (3), this. (1), this, (1), else. (1)
 > **File Paths:** date.txt (5), size_diff.sh (1), app/include/date.txt (1), tiny.dockerfile (1)
 > **Env Vars:** copy (2), run (2), cmd (1)
 > **Definitions:** is called (4), is a  (1)
@@ -4082,9 +4082,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (11), hit (4), next (4), power (3), [[Ubuntu]] (3)
 > **Env Vars:** arm (21), x86 (14), qemu (14), x86_64 (2), cpu (2)
 > **CLI Commands:** docker (30), rm (5), make (3), aws (2), find (2)
-> **Code Keywords:** let (16), this, (6), static (6), this. (3), super (2)
 > **Prerequisites:** install (6), configure (3)
 > **Definitions:** is a  (3), means that (2)
 > **Analogies:** just like (2), imagine (1)
@@ -4262,8 +4262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (6), application (5), [[Jetpack Compose|Compose]] (5), [[Ansible]] (2), [[Virtual Machines]] (2)
 > **CLI Commands:** docker (12), make (4), ansible (2), php (2), nginx (1)
-> **Code Keywords:** let (4), this. (3), finally, (1), continue (1), if, (1)
 > **Env Vars:** php (2), dns (1), nginx (1)
 > **Tools:** bash (2), github (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -4334,9 +4334,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), application (1), power (1), [[Security]] (1)
 > **CLI Commands:** docker (8), find (1)
 > **Exercise Files:** source code (3), exercise files (1)
-> **Code Keywords:** finally, (1), self (1), this, (1)
 > **Best Practices:** don't forget (3)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** click on (1)
@@ -4504,7 +4504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), this. (5), this: (1), else, (1), case, (1)
+> **Frameworks & Libraries:** next (2), prompt (1), hit (1), [[Security]] (1)
 > **CLI Commands:** docker (12), make (2), rm (1)
 > **Env Vars:** env (2), workdir (1)
 > **Analogies:** kind of like (1), just like (1), for example (1)
@@ -4516,7 +4516,7 @@ created: 2026-04-29
 
 ### 5. Advanced Docker Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending container privileges with capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/extending-container-privileges-with-capabilities?u=76281980)
@@ -4729,7 +4729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (3), finally, (3), this, (3), default, (2)
+> **Frameworks & Libraries:** [[Linux]] (5), next (3), hit (2), power (1)
 > **CLI Commands:** docker (13), rm (4), chown (4), ls (4), find (1)
 > **Env Vars:** chown (2), gpu (2), cap_chown (1), cap_lease (1), lease (1)
 > **Code Identifiers:** my_disk (3), shouldnt_see_this (2)
@@ -4843,9 +4843,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), business (1)
 > **Env Vars:** cpu (23)
 > **CLI Commands:** docker (5), make (2)
-> **Code Keywords:** let (6), case, (1)
 > **Definitions:** is a  (1), means that (1)
 > **Versions:** 1.4 (1)
 > **Best Practices:** make sure to (1)
@@ -5046,7 +5046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), super (1)
+> **Frameworks & Libraries:** hit (6), application (5), [[Windows]] (1), feature (1)
 > **CLI Commands:** docker (8), rm (4), find (1), make (1)
 > **Env Vars:** cpu (10)
 > **Versions:** 0.1 (2), 1.6 (2), 3.99 (1)
@@ -5146,8 +5146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[JSON]] (6), application (4), [[CLI]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (13), curl (1)
-> **Code Keywords:** let (2), case, (1), else, (1), default, (1), default. (1)
 > **Env Vars:** json (5), cli (1)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **Code Identifiers:** curl (1)
@@ -5340,8 +5340,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (6), cd (5), [[Zoom]] (2)
 > **CLI Commands:** docker (21), ls (6), cd (5), sudo (4), rm (1)
-> **Code Keywords:** let (21), var (3), this. (2), delete (2), for, (1)
 > **Tools:** terminal (4)
 > **Env Vars:** cis (1), daca (1)
 > **Cross-References:** earlier in (1)
@@ -5458,8 +5458,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (5), next (2), [[Windows]] (1), [[Linux]] (1), data (1)
 > **CLI Commands:** docker (23), grep (1), find (1)
-> **Code Keywords:** let (2), var (2), from. (1), throw (1), finally, (1)
 > **Tools:** terminal (5), bash (1), command line (1)
 > **Env Vars:** json (3), oci (1)
 > **File Paths:** etc/docker/daemon.json (2)
@@ -5470,7 +5470,7 @@ created: 2026-04-29
 
 ### 6. Docker in Docker
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The case for Docker in Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980)
@@ -5517,8 +5517,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Engineering]] (2), [[GitHub]] (1), [[Hardware]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** docker (14), find (1), ssh (1)
-> **Code Keywords:** let (4)
 > **Analogies:** for example (1), similar to (1)
 > **Env Vars:** ssh (1)
 > **Tools:** github (1)
@@ -5647,8 +5647,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[GitHub]] (2), [[JSON]] (2), [[Kubernetes]] (1), data (1)
 > **CLI Commands:** docker (36), curl (2), rm (1), make (1)
-> **Code Keywords:** let (5), var (4), new. (2), finally, (2), default, (1)
 > **Env Vars:** unix (5), url (1), http (1), json (1)
 > **Tools:** github (2), terminal (1), bash (1)
 > **Prerequisites:** install (3), configure (1)
@@ -5689,8 +5689,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), api (1)
 > **CLI Commands:** docker (13), curl (1), rm (1)
-> **Code Keywords:** let (4)
 > **Analogies:** just like (2)
 > **Prerequisites:** install (2)
 > **URLs:** [docker.io](https://docker.io) (1)
@@ -5851,8 +5851,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), hit (1)
 > **CLI Commands:** docker (22), make (4), cat (4), rm (2), cp (1)
-> **Code Keywords:** let (13), finally, (3), this, (1), this. (1)
 > **File Paths:** header.txt (6), app/include/header.txt (5), tmp/app/include/header.txt (1)
 > **Definitions:** is a  (2), means that (1)
 > **Tools:** terminal (2)
@@ -5863,7 +5863,7 @@ created: 2026-04-29
 
 ### 7. Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to container networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980)
@@ -5920,8 +5920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), web (2), [[LinkedIn]] (1), [[HTML]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (7)
-> **Code Keywords:** interface (1), pass (1), finally, (1), let (1)
 > **Env Vars:** nic (1), html (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -6229,7 +6229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), case, (5), this. (3), continue (3), default. (1)
+> **Frameworks & Libraries:** power (3), [[Google]] (2), [[Linux]] (2), dns (2), data (2)
 > **CLI Commands:** docker (27), curl (9), ls (1), make (1)
 > **Versions:** 172.17.0 (4), 172.17 (2), 172.19 (2), 172.19.0 (2), 0.3 (1)
 > **Tools:** terminal (5)
@@ -6483,7 +6483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), this, (5), this. (3), continue (2), require (1)
+> **Frameworks & Libraries:** next (3), [[Linux]] (2), [[Routing]] (1), [[Windows]] (1)
 > **Ports:** port 80 (9), port 9443 (3), port 8080 (2), :9443 (2), :80 (1)
 > **CLI Commands:** docker (8), make (2), sudo (1), rm (1), ssh (1)
 > **Versions:** 172.18.0 (7)
@@ -6609,7 +6609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), finally, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** next (2), application (1), vpn (1)
 > **Tools:** terminal (6), bash (3), command line (1)
 > **CLI Commands:** docker (5), rm (2), curl (1)
 > **Ports:** port 8080 (2), port 80 (2)
@@ -6667,7 +6667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1), default, (1)
+> **Frameworks & Libraries:** dns (3), hit (1), [[Google]] (1), cloud (1)
 > **Versions:** 127.0.0 (2), 8.8 (2), 1.1.1 (1)
 > **CLI Commands:** docker (1), rm (1), curl (1)
 > **Env Vars:** dns (3)
@@ -6859,8 +6859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), next (2), [[Automation]] (1), [[Routing]] (1), management (1)
 > **CLI Commands:** docker (24), make (2)
-> **Code Keywords:** let (5), interface (5), finally, (3), case, (2), else. (1)
 > **Versions:** 192.168.1 (18)
 > **Env Vars:** mac (5), vlan (2), codr (1), lan (1)
 > **Analogies:** for example (2), just like (2)
@@ -6871,7 +6871,7 @@ created: 2026-04-29
 
 ### 8. Storing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to container storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-storage?u=76281980)
@@ -6924,8 +6924,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (1)
 > **CLI Commands:** docker (3)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6978,9 +6978,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** docker (5)
 > **Env Vars:** nfs (2), cifs (1), dev (1), vda (1)
-> **Code Keywords:** let (1), default, (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -7161,7 +7161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), super (11), type, (2), finally, (1), default. (1)
+> **Frameworks & Libraries:** data (6), next (2), [[Forms]] (1), hit (1), cd (1)
 > **CLI Commands:** docker (15), ls (3), rm (2), make (2), sudo (2)
 > **Tools:** terminal (9)
 > **Env Vars:** readme (5)
@@ -7355,8 +7355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), next (2), data (1), application (1), front-end (1)
 > **CLI Commands:** docker (12), make (4), cp (2), cat (2), rm (2)
-> **Code Keywords:** let (10), case. (1), while. (1), static (1), finally, (1)
 > **Analogies:** just like (2), for example (2), imagine (1)
 > **Prerequisites:** install (2), you'll need (1)
 > **Env Vars:** sql (1), pwd (1)
@@ -7531,8 +7531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (5), [[Search]] (2), hit (1), business (1)
 > **CLI Commands:** tar (24), docker (12), rm (5), cat (1)
-> **Code Keywords:** let (14), super (8), finally, (3), this. (2), case, (1)
 > **Env Vars:** pwd (4), sep (1), nfs (1), gzip (1), readme (1)
 > **Definitions:** is a  (2), means that (2), in other words (1)
 > **Analogies:** for example (1), just like (1)
@@ -7611,7 +7611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), super (3), if= (1), while, (1), case, (1)
+> **Frameworks & Libraries:** [[Linux]] (3), data (3), api (1), next (1)
 > **CLI Commands:** docker (6), rm (1)
 > **Definitions:** short for (1), is a  (1), means that (1)
 > **Warnings:** gotcha (1), be aware (1), caution (1)
@@ -7623,7 +7623,7 @@ created: 2026-04-29
 
 ### 9. The Docker Registry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Docker registries
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980)
@@ -7704,8 +7704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), application (1), [[Google Drive]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[GitHub]] (1)
 > **CLI Commands:** docker (19), tar (2), make (2), find (1), aws (1)
-> **Code Keywords:** let (2), private (1), finally, (1)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** aws (1)
 > **Tools:** github (1)
@@ -7827,8 +7827,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), dns (1), hit (1), [[GitHub]] (1), next (1)
 > **CLI Commands:** docker (18), rm (2), make (1), nginx (1)
-> **Code Keywords:** let (10), finally, (2), case, (2), default, (1), private (1)
 > **Ports:** :5000 (7), port 5000 (1)
 > **URLs:** [localhost:5000](https://localhost:5000) (6)
 > **Env Vars:** dns (1)
@@ -7951,8 +7951,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), hit (1), [[Search]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (14), grep (1), awk (1), rm (1)
-> **Code Keywords:** let (8), finally, (3), delete (1), static (1)
 > **Env Vars:** x86 (3), a24b0 (2)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
@@ -8199,7 +8199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (9), let (8), finally, (4), self (3), super (3)
+> **Frameworks & Libraries:** next (9), web (6), traffic (3), [[LinkedIn]] (2), [[GitHub]] (2)
 > **CLI Commands:** docker (11), make (4), find (2), rm (2), ssh (1)
 > **Env Vars:** ssl (3), crt (3), cli (1), dns (1), https (1)
 > **Prerequisites:** configure (4), set up (1), you'll need (1), install (1)
@@ -8315,8 +8315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), data (3), [[GitHub]] (3), teams (2), [[Security]] (2)
 > **CLI Commands:** docker (9), make (3), aws (1)
-> **Code Keywords:** private (4), finally, (3), let (2), require (2)
 > **Tools:** github (3), gitlab (2), bitbucket (1)
 > **Exercise Files:** source code (4)
 > **Prerequisites:** you'll need (2), install (1)
@@ -8326,7 +8326,7 @@ created: 2026-04-29
 
 ### 10. Additional Docker Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Docker best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980)
@@ -8431,8 +8431,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Linux]] (2), next (2), business (1), traffic (1)
 > **CLI Commands:** docker (22), aws (1), make (1)
-> **Code Keywords:** private (3), default. (2), let (1), finally, (1), this, (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (2)
 > **Env Vars:** aws (1)
@@ -8489,6 +8489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), application (4), data (2), [[CLI]] (2), web application (1)
 > **CLI Commands:** docker (12), make (2)
 > **Env Vars:** cli (2)
 > **Definitions:** is a  (2)
@@ -8567,8 +8568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (15), traffic (5), [[Routing]] (2), cloud (2), [[CLI]] (1)
 > **CLI Commands:** docker (8), make (5), aws (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Env Vars:** cli (1), aws (1), api (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** kind of like (1), just like (1)
@@ -8579,7 +8580,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980)
@@ -8622,9 +8623,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Jetpack Compose|Compose]] (1), next (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (11)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [carlos] (1)
 

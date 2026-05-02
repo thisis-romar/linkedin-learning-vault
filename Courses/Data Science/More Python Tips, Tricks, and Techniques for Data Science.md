@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/More%20Python%20Tips%2C%20Tricks%2C%20and%20Techniques%20for%20Data%20Science.md)
@@ -50,35 +50,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Tips and tricks in Python
-  - How to use the CoderPad environment
+  - [Tips and tricks in Python](#tips-and-tricks-in-python)
+  - [How to use the CoderPad environment](#how-to-use-the-coderpad-environment)
 - [**1. IPython and Jupyter Notebook**](#1-ipython-and-jupyter-notebook) (3 videos)
-  - Accessing methods and documentation
-  - Errors and debugging
-  - Code profiling and timing
+  - [Accessing methods and documentation](#accessing-methods-and-documentation)
+  - [Errors and debugging](#errors-and-debugging)
+  - [Code profiling and timing](#code-profiling-and-timing)
 - [**2. NumPy and Pandas**](#2-numpy-and-pandas) (7 videos)
-  - Essentials of NumPy arrays
-  - Broadcasting
-  - Comparison, masks, and Boolean logic
-  - Pandas indexing and subsetting
-  - Handling missing data
-  - Aggregation and grouping
-  - Querying and filtering data
+  - [Essentials of NumPy arrays](#essentials-of-numpy-arrays)
+  - [Broadcasting](#broadcasting)
+  - [Comparison, masks, and Boolean logic](#comparison-masks-and-boolean-logic)
+  - [Pandas indexing and subsetting](#pandas-indexing-and-subsetting)
+  - [Handling missing data](#handling-missing-data)
+  - [Aggregation and grouping](#aggregation-and-grouping)
+  - [Querying and filtering data](#querying-and-filtering-data)
 - [**3. Visualization with Matplotlib**](#3-visualization-with-matplotlib) (3 videos)
-  - General plotting tips
-  - Adding text and annotations
-  - Multiple subplots
+  - [General plotting tips](#general-plotting-tips)
+  - [Adding text and annotations](#adding-text-and-annotations)
+  - [Multiple subplots](#multiple-subplots)
 - [**4. Machine Learning Tips**](#4-machine-learning-tips) (4 videos)
-  - sklearn Estimator API
-  - Model validation and hyperparameter tuning
-  - Feature engineering
-  - Creating machine learning pipelines
+  - [sklearn Estimator API](#sklearn-estimator-api)
+  - [Model validation and hyperparameter tuning](#model-validation-and-hyperparameter-tuning)
+  - [Feature engineering](#feature-engineering)
+  - [Creating machine learning pipelines](#creating-machine-learning-pipelines)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tips and tricks in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980)
@@ -111,8 +111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[Programming]] (1), [[Debugging]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (4), make (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ipads (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
@@ -164,7 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), type, (1), switch (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
 > **Code Identifiers:** show_expected_result (1), show_hints (1)
 > **UI Navigation:** click on (1), toggle (1)
 > **Analogies:** for example (1)
@@ -173,7 +173,7 @@ created: 2026-04-29
 
 ### 1. IPython and Jupyter Notebook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing methods and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980)
@@ -306,7 +306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (31), let (11), pass (2), import. (2), type. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (5), hit (3), next (2), data (1)
 > **Env Vars:** tab (7), csv (5), sam (3)
 > **CLI Commands:** python (8), make (1)
 > **Exercise Files:** source code (6)
@@ -444,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (7), this, (2), pass (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (3), hit (2), data (1), product (1)
 > **CLI Commands:** python (6)
 > **Tools:** jupyter (3)
 > **File Paths:** example.py (2)
@@ -543,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (3), pass (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[Pandas (Software)|Pandas]] (2), next (1)
 > **Code Identifiers:** a_list (3), read_csv (1), create_sq_matrices (1)
 > **Versions:** 1.96 (2), 3.89 (1), 65.8 (1), 4.82 (1)
 > **Env Vars:** cpu (2)
@@ -554,7 +554,7 @@ created: 2026-04-29
 
 ### 2. NumPy and Pandas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Essentials of NumPy arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/essentials-of-numpy-arrays?u=76281980)
@@ -705,7 +705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (5), interface (1), type, (1), if. (1)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), next (1)
 > **CLI Commands:** python (3), find (1)
 > **Versions:** 2.5 (1)
 > **Cross-References:** as we saw (1)
@@ -831,7 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (3), pass (2), try, (1), function (1)
+> **Frameworks & Libraries:** feature (2), data (1)
 > **Definitions:** is a  (6)
 > **Code Identifiers:** numpy (1)
 > **Speakers:** - [instructor] (1)
@@ -925,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (5), this. (1), this, (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **Code Identifiers:** test_scores (1), numpy (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1027,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (3), this, (2), function (1), interface (1)
+> **Frameworks & Libraries:** data (22), [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (2), next (1), [[Data Manipulation]] (1)
 > **Env Vars:** vmz (3)
 > **CLI Commands:** python (2)
 > **Speakers:** - now (1)
@@ -1153,8 +1153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (1)
 > **Env Vars:** nan (13), csv (2)
-> **Code Keywords:** pass (4), let (3), type, (2), this, (1), function (1)
 > **Definitions:** stands for (2), is called (1), is a  (1)
 > **Versions:** 37.8 (1), 41.3 (1)
 > **CLI Commands:** make (1)
@@ -1295,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (8), this, (5), default, (1), require (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), data (3), [[Pandas (Software)|Pandas]] (1), next (1), feature (1)
 > **Code Identifiers:** body_mass (9), body_mass_g (1), flipper_length_millimeter (1), flipper_length (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [tutor] (1)
@@ -1453,7 +1453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (4), this. (1), pass (1)
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (4), power (1), [[Python (Programming Language)|Python]] (1), strengths (1)
 > **Code Identifiers:** avg_tv_rev (2), equal_nan (1)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **File Paths:** advertising.csv (1)
@@ -1463,7 +1463,7 @@ created: 2026-04-29
 
 ### 3. Visualization with Matplotlib
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### General plotting tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980)
@@ -1604,7 +1604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (7), pass (4), module (1), this. (1)
+> **Frameworks & Libraries:** data (5), next (2), cross-platform (1), [[Zoom]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** mpl (1), png (1)
 > **Definitions:** is a  (1)
@@ -1781,7 +1781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (4), function (4), pass (1)
+> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 0.05 (2), 49.79 (1), 23.09 (1), 29.64 (1), 1.71 (1)
 > **CLI Commands:** make (2)
 > **File Paths:** advertising.csv (1)
@@ -1958,7 +1958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (4), this, (3), this. (2), extends (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Versions:** 0.65 (3), 0.2 (3), 0.1 (2), 0.5 (1), 0.8 (1)
 > **Code Identifiers:** add_axes (3), subplot_kw (1)
 > **CLI Commands:** make (1)
@@ -1968,7 +1968,7 @@ created: 2026-04-29
 
 ### 4. Machine Learning Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### sklearn Estimator API
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980)
@@ -2107,7 +2107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (5), function (3), require (1), module (1)
+> **Frameworks & Libraries:** data (20), feature (4), next (4), api (2), [[Supervised Learning]] (1)
 > **Code Identifiers:** y_peng (3), train_test_split (3), x_train (3), x_test (3), x_peng (2)
 > **Versions:** 2.5 (1), 0.2 (1), 95.52 (1)
 > **Env Vars:** api (2)
@@ -2277,7 +2277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (4), this, (3), function (1), module (1)
+> **Frameworks & Libraries:** data (27), feature (1), next (1), [[Search]] (1)
 > **Versions:** 1.0 (1), 19.66 (1), 0.96 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2388,7 +2388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (2), this, (1), class. (1), pass (1)
+> **Frameworks & Libraries:** data (18), feature (10), [[Feature Engineering]] (3), next (3), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2)
@@ -2473,7 +2473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[Linear Regression]] (2), next (2), [[Feature Engineering]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2482,7 +2482,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/next-steps?u=76281980)
@@ -2501,6 +2501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** ipad (1)
 > **Speakers:** - [harshit] (1)

@@ -36,7 +36,7 @@ tags:
   - skill/google-gemini
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20with%20Gemini%20(2024).md)
@@ -55,39 +55,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Learning prompt engineering with Gemini
+  - [Learning prompt engineering with Gemini](#learning-prompt-engineering-with-gemini)
 - [**1. Introduction to Gemini**](#1-introduction-to-gemini) (2 videos)
-  - Enabling Gemini
-  - Writing your first prompt
+  - [Enabling Gemini](#enabling-gemini)
+  - [Writing your first prompt](#writing-your-first-prompt)
 - [**2. Using Gemini Day-to-Day**](#2-using-gemini-day-to-day) (8 videos)
-  - Brainstorming with Gemini
-  - Iterating with Gemini
-  - Improving your writing with Gemini
-  - Browsing the web with Gemini
-  - Introduction to Gemini extensions
-  - Planning a vacation with Gemini
-  - Challenge: Writing copy for your new activewear brand
-  - Solution: Writing copy for your new activewear brand
+  - [Brainstorming with Gemini](#brainstorming-with-gemini)
+  - [Iterating with Gemini](#iterating-with-gemini)
+  - [Improving your writing with Gemini](#improving-your-writing-with-gemini)
+  - [Browsing the web with Gemini](#browsing-the-web-with-gemini)
+  - [Introduction to Gemini extensions](#introduction-to-gemini-extensions)
+  - [Planning a vacation with Gemini](#planning-a-vacation-with-gemini)
+  - [Challenge: Writing copy for your new activewear brand](#challenge-writing-copy-for-your-new-activewear-brand)
+  - [Solution: Writing copy for your new activewear brand](#solution-writing-copy-for-your-new-activewear-brand)
 - [**3. Advance Your Prompts to Improve Results**](#3-advance-your-prompts-to-improve-results) (6 videos)
-  - Improving prompting with examples and quotes
-  - Using completion sequences and few-shot learning
-  - Using chain-of-thought reasoning
-  - Reformatting your data nicely
-  - Challenge: Give Gemini a tricky problem
-  - Solution: Give Gemini a tricky problem
+  - [Improving prompting with examples and quotes](#improving-prompting-with-examples-and-quotes)
+  - [Using completion sequences and few-shot learning](#using-completion-sequences-and-few-shot-learning)
+  - [Using chain-of-thought reasoning](#using-chain-of-thought-reasoning)
+  - [Reformatting your data nicely](#reformatting-your-data-nicely)
+  - [Challenge: Give Gemini a tricky problem](#challenge-give-gemini-a-tricky-problem)
+  - [Solution: Give Gemini a tricky problem](#solution-give-gemini-a-tricky-problem)
 - [**4. Multi-Modal Gemini**](#4-multi-modal-gemini) (6 videos)
-  - Image recognition and augmentation with Gemini
-  - Creative image generation
-  - Analyzing a multi-modal document with Gemini
-  - Searching and summarizing a YouTube video with Gemini
-  - Challenge: Comparing two world wonders
-  - Solution: Comparing two world wonders
+  - [Image recognition and augmentation with Gemini](#image-recognition-and-augmentation-with-gemini)
+  - [Creative image generation](#creative-image-generation)
+  - [Analyzing a multi-modal document with Gemini](#analyzing-a-multi-modal-document-with-gemini)
+  - [Searching and summarizing a YouTube video with Gemini](#searching-and-summarizing-a-youtube-video-with-gemini)
+  - [Challenge: Comparing two world wonders](#challenge-comparing-two-world-wonders)
+  - [Solution: Comparing two world wonders](#solution-comparing-two-world-wonders)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your prompt engineering journey
+  - [Continuing your prompt engineering journey](#continuing-your-prompt-engineering-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning prompt engineering with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/learning-prompt-engineering-with-gemini?u=76281980)
@@ -110,13 +110,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[Google]] (2), ai (2), next (1)
 > **Speakers:** - gemini (1)
 
 
 ### 1. Introduction to Gemini
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enabling Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980)
@@ -149,7 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** [[Gemini]] (9), data (3), [[Google]] (2), [[Privacy]] (1), hit (1)
 > **CLI Commands:** make (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Env Vars:** lms (1)
@@ -220,7 +220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** prompt (7), [[Gemini]] (5), hit (1), next (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -229,7 +229,7 @@ created: 2026-04-29
 
 ### 2. Using Gemini Day-to-Day
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Brainstorming with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980)
@@ -316,7 +316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), require (2), this. (1), from. (1), continue (1)
+> **Frameworks & Libraries:** [[Gemini]] (7), hit (3), prompt (2), game (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -453,7 +453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), case, (1)
+> **Frameworks & Libraries:** [[Gemini]] (12), business (3), prompt (2), hit (2), next (1)
 > **UI Navigation:** click on (1), dropdown (1), scroll up (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Ports:** :30 (1)
@@ -564,7 +564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), async (1)
+> **Frameworks & Libraries:** [[Gemini]] (11), hit (2), prompt (1), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** click on (1), scroll up (1), scroll down (1)
 > **Definitions:** is a  (3)
@@ -628,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** [[Gemini]] (8), [[Google]] (5), [[Search]] (4), prompt (1), hit (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -767,7 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), interface (1), default, (1), pass (1)
+> **Frameworks & Libraries:** [[Google]] (13), [[Gemini]] (12), hit (4), [[Search]] (4), [[Google Drive]] (3)
 > **UI Navigation:** click on (3), scroll down (2), go to (2)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** in the next (2), go back to (2)
@@ -883,7 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** [[Gemini]] (4), hit (3), [[Google]] (2), next (2), prompt (1)
 > **Env Vars:** nyc (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -910,6 +910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (1), [[E-Commerce]] (1), prompt (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** make sure to (1)
@@ -1027,7 +1028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (2), for, (1)
+> **Frameworks & Libraries:** [[Gemini]] (5), product (5), hit (2), [[Microsoft Products|Products]] (2), next (1)
 > **Code Identifiers:** ecommerce (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1035,7 +1036,7 @@ created: 2026-04-29
 
 ### 3. Advance Your Prompts to Improve Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improving prompting with examples and quotes
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980)
@@ -1120,7 +1121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), this, (2), continue (1)
+> **Frameworks & Libraries:** [[Gemini]] (5), prompt (3), hit (2), [[GPT-4]] (2), power (1)
 > **Env Vars:** gpt (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
@@ -1224,7 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (3), class, (1), for. (1)
+> **Frameworks & Libraries:** [[Gemini]] (9), prompt (5), hit (3), next (3), [[GPT-4]] (1)
 > **Exercise Files:** exercise files (3)
 > **Cross-References:** go back to (1), next video (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1322,7 +1323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2)
+> **Frameworks & Libraries:** [[Gemini]] (11), prompt (6), llm (1), [[Microsoft Word|Word]] (1), hit (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Exercise Files:** exercise files (3)
 > **Env Vars:** llm (1)
@@ -1386,7 +1387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (1)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[JSON]] (5), data (4), [[Programming]] (1), hit (1)
 > **Env Vars:** json (5)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
@@ -1412,6 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (1), [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1468,7 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** [[Gemini]] (4), prompt (2), hit (1), next (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Exercise Files:** exercise files (1), exercise file (1)
 > **CLI Commands:** cat (1)
@@ -1480,7 +1482,7 @@ created: 2026-04-29
 
 ### 4. Multi-Modal Gemini
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Image recognition and augmentation with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/image-recognition-and-augmentation-with-gemini?u=76281980)
@@ -1531,7 +1533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Gemini]] (5), prompt (4), llm (1), hit (1), next (1)
 > **Definitions:** is a  (1), is called (1)
 > **File Paths:** 0401.txt (1)
 > **CLI Commands:** find (1)
@@ -1611,7 +1613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1)
+> **Frameworks & Libraries:** [[Gemini]] (3), prompt (1), hit (1), [[Google]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll up (1)
@@ -1725,7 +1727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (2)
+> **Frameworks & Libraries:** [[Gemini]] (10), [[Google Drive]] (7), [[Google]] (3), hit (3), next (1)
 > **Versions:** 1.9 (2), 2.3 (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1798,7 +1800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), try. (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Gemini]] (2), web (2), prompt (1), hit (1)
 > **Code Identifiers:** iphone (3), iphones (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** s24 (1)
@@ -1823,6 +1825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Multimodal Prompting]] (1), product (1), [[Google]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1957,7 +1960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23)
+> **Frameworks & Libraries:** [[Gemini]] (11), hit (4), [[Google]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (1), open the (1), scroll up (1)
 > **Definitions:** is a  (1)
@@ -1967,7 +1970,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your prompt engineering journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980)
@@ -1986,7 +1989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** ai (3), [[Gemini]] (1), [[Google]] (1), [[LinkedIn]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - thanks (1)
 

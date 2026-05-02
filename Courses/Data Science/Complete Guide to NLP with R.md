@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20NLP%20with%20R.md)
@@ -52,103 +52,103 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to natural language processing with R
-  - Skills and tools you need to be successful in this course
+  - [Welcome to natural language processing with R](#welcome-to-natural-language-processing-with-r)
+  - [Skills and tools you need to be successful in this course](#skills-and-tools-you-need-to-be-successful-in-this-course)
 - [**1. Up and Running with tm**](#1-up-and-running-with-tm) (4 videos)
-  - What is tm and why do you need it?
-  - Real-world NLP with tm
-  - Real-world NLP with quanteda
-  - Real-world NLP with tidytext
+  - [What is tm and why do you need it?](#what-is-tm-and-why-do-you-need-it)
+  - [Real-world NLP with tm](#real-world-nlp-with-tm)
+  - [Real-world NLP with quanteda](#real-world-nlp-with-quanteda)
+  - [Real-world NLP with tidytext](#real-world-nlp-with-tidytext)
 - [**2. Corpora and Sources**](#2-corpora-and-sources) (5 videos)
-  - Understanding corpora and sources
-  - Examining corpora
-  - Examining sources
-  - Custom sources
-  - Combining and subsetting corpora
+  - [Understanding corpora and sources](#understanding-corpora-and-sources)
+  - [Examining corpora](#examining-corpora)
+  - [Examining sources](#examining-sources)
+  - [Custom sources](#custom-sources)
+  - [Combining and subsetting corpora](#combining-and-subsetting-corpora)
 - [**3. Working with NLP Metadata**](#3-working-with-nlp-metadata) (3 videos)
-  - Working with document metadata
-  - Make useful metadata
-  - Finding and filtering based on metadata
+  - [Working with document metadata](#working-with-document-metadata)
+  - [Make useful metadata](#make-useful-metadata)
+  - [Finding and filtering based on metadata](#finding-and-filtering-based-on-metadata)
 - [**4. Preprocessing Text in Preparation for NLP**](#4-preprocessing-text-in-preparation-for-nlp) (7 videos)
-  - Transformations
-  - Stop words
-  - Stemming
-  - Lemmatization
-  - Tokenization
-  - N-grams
-  - Part of speech tagging
+  - [Transformations](#transformations)
+  - [Stop words](#stop-words)
+  - [Stemming](#stemming)
+  - [Lemmatization](#lemmatization)
+  - [Tokenization](#tokenization)
+  - [N-grams](#n-grams)
+  - [Part of speech tagging](#part-of-speech-tagging)
 - [**5. Create Structured Data**](#5-create-structured-data) (4 videos)
-  - Understanding the document-term matrix
-  - Create the document-term matrix
-  - Weighting the document-term matrix
-  - Focus the document-term matrix
+  - [Understanding the document-term matrix](#understanding-the-document-term-matrix)
+  - [Create the document-term matrix](#create-the-document-term-matrix)
+  - [Weighting the document-term matrix](#weighting-the-document-term-matrix)
+  - [Focus the document-term matrix](#focus-the-document-term-matrix)
 - [**6. Apply Statistics to Text**](#6-apply-statistics-to-text) (3 videos)
-  - Word and document frequency
-  - Hierarchical clustering
-  - Associated terms
+  - [Word and document frequency](#word-and-document-frequency)
+  - [Hierarchical clustering](#hierarchical-clustering)
+  - [Associated terms](#associated-terms)
 - [**7. Sentiment Analysis**](#7-sentiment-analysis) (4 videos)
-  - What is sentiment analysis?
-  - Real-world example of sentiment analysis
-  - Sentiment datasets
-  - Sentiment tools
+  - [What is sentiment analysis?](#what-is-sentiment-analysis)
+  - [Real-world example of sentiment analysis](#real-world-example-of-sentiment-analysis)
+  - [Sentiment datasets](#sentiment-datasets)
+  - [Sentiment tools](#sentiment-tools)
 - [**8. Visualizing Natural Language Processing**](#8-visualizing-natural-language-processing) (3 videos)
-  - Plotting text mining
-  - Plotting Zipf’s and Heap’s Law
-  - Word clouds
+  - [Plotting text mining](#plotting-text-mining)
+  - [Plotting Zipf’s and Heap’s Law](#plotting-zipfs-and-heaps-law)
+  - [Word clouds](#word-clouds)
 - [**9. Conclusion**](#9-conclusion) (1 videos)
-  - Your next steps in NLP
+  - [Your next steps in NLP](#your-next-steps-in-nlp)
 - [**10. Introduction to NLP Tidytext R**](#10-introduction-to-nlp-tidytext-r) (2 videos)
-  - Welcome to natural language processing with R
-  - Skills you need to be successful in this course
+  - [Welcome to natural language processing with R](#welcome-to-natural-language-processing-with-r)
+  - [Skills you need to be successful in this course](#skills-you-need-to-be-successful-in-this-course)
 - [**11. Use of Tidytext for NLP**](#11-use-of-tidytext-for-nlp) (9 videos)
-  - How to think like tidytext
-  - An example: Calculate the most popular terms in a document
-  - Tokenizing with unnest_tokens( )
-  - Stopwords, punctuation, whitespace, and numbers
-  - Stemming and lemmatization
-  - Term frequency with bind_tf_idf( )
-  - Sentiment analysis with sentiments( )
-  - Parts of speech with parts_of_speech( )
-  - Import and export from other NLP packages
+  - [How to think like tidytext](#how-to-think-like-tidytext)
+  - [An example: Calculate the most popular terms in a document](#an-example-calculate-the-most-popular-terms-in-a-document)
+  - [Tokenizing with unnest_tokens( )](#tokenizing-with-unnest_tokens)
+  - [Stopwords, punctuation, whitespace, and numbers](#stopwords-punctuation-whitespace-and-numbers)
+  - [Stemming and lemmatization](#stemming-and-lemmatization)
+  - [Term frequency with bind_tf_idf( )](#term-frequency-with-bind_tf_idf)
+  - [Sentiment analysis with sentiments( )](#sentiment-analysis-with-sentiments)
+  - [Parts of speech with parts_of_speech( )](#parts-of-speech-with-parts_of_speech)
+  - [Import and export from other NLP packages](#import-and-export-from-other-nlp-packages)
 - [**12. Conclusion**](#12-conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 - [**13. Introduction to NLP with Quanteda R**](#13-introduction-to-nlp-with-quanteda-r) (2 videos)
-  - Welcome to natural language processing with R
-  - Skills and tools you need
+  - [Welcome to natural language processing with R](#welcome-to-natural-language-processing-with-r)
+  - [Skills and tools you need](#skills-and-tools-you-need)
 - [**14. Getting Started with Quanteda**](#14-getting-started-with-quanteda) (2 videos)
-  - Introduction to quanteda
-  - Install quanteda
+  - [Introduction to quanteda](#introduction-to-quanteda)
+  - [Install quanteda](#install-quanteda)
 - [**15. Understanding Corpora**](#15-understanding-corpora) (5 videos)
-  - Create a quanteda corpus
-  - Create metadata with docvars
-  - Corpus subsets and groups
-  - Reshape and segment a corpus
-  - Remove lines from a corpus
+  - [Create a quanteda corpus](#create-a-quanteda-corpus)
+  - [Create metadata with docvars](#create-metadata-with-docvars)
+  - [Corpus subsets and groups](#corpus-subsets-and-groups)
+  - [Reshape and segment a corpus](#reshape-and-segment-a-corpus)
+  - [Remove lines from a corpus](#remove-lines-from-a-corpus)
 - [**16. Understanding Tokens**](#16-understanding-tokens) (4 videos)
-  - Corpus and tokens
-  - Remove tokens and stopwords
-  - Group tokens
-  - Stemming with tokens
+  - [Corpus and tokens](#corpus-and-tokens)
+  - [Remove tokens and stopwords](#remove-tokens-and-stopwords)
+  - [Group tokens](#group-tokens)
+  - [Stemming with tokens](#stemming-with-tokens)
 - [**17. Understanding Document-Feature Matrix (DFM)**](#17-understanding-document-feature-matrix-dfm) (3 videos)
-  - Corpus, tokens, and DFM
-  - Create and modify a DFM
-  - Real-world analysis with DFM
+  - [Corpus, tokens, and DFM](#corpus-tokens-and-dfm)
+  - [Create and modify a DFM](#create-and-modify-a-dfm)
+  - [Real-world analysis with DFM](#real-world-analysis-with-dfm)
 - [**18. Analysis and Visualization**](#18-analysis-and-visualization) (6 videos)
-  - The quanteda textstats package
-  - Real-world text statistics with textstats
-  - Understand the quanteda sentiment package
-  - Real-world sentiment analysis with quanteda sentiment
-  - Visualization with textplots
-  - Use dplyr with quanteda
+  - [The quanteda textstats package](#the-quanteda-textstats-package)
+  - [Real-world text statistics with textstats](#real-world-text-statistics-with-textstats)
+  - [Understand the quanteda sentiment package](#understand-the-quanteda-sentiment-package)
+  - [Real-world sentiment analysis with quanteda sentiment](#real-world-sentiment-analysis-with-quanteda-sentiment)
+  - [Visualization with textplots](#visualization-with-textplots)
+  - [Use dplyr with quanteda](#use-dplyr-with-quanteda)
 - [**19. Conclusion**](#19-conclusion) (1 videos)
-  - Your next steps in NLP
+  - [Your next steps in NLP](#your-next-steps-in-nlp)
 - [**20. Capstone Project**](#20-capstone-project) (2 videos)
-  - Project introduction
-  - Project explanation
+  - [Project introduction](#project-introduction)
+  - [Project explanation](#project-explanation)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to natural language processing with R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980)
@@ -183,7 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), let (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (5), nlp (2), [[Programming]] (1), [[Algorithms]] (1), [[Statistics]] (1)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -249,8 +249,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[LinkedIn]] (1), nlp (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ide (2), nlp (1)
-> **Code Keywords:** function (1), class. (1)
 > **Tools:** visual studio (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -260,7 +260,7 @@ created: 2026-04-29
 
 ### 1. Up and Running with tm
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is tm and why do you need it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980)
@@ -313,6 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Programming]] (1), [[Statistics]] (1), [[Text Mining]] (1)
 > **Definitions:** is a  (3), is an  (1), short for (1)
 > **Prerequisites:** install (3), you'll need (1)
 > **Env Vars:** nlp (1)
@@ -410,8 +411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Microsoft Word|Word]] (2), next (1)
 > **Definitions:** is a  (6)
-> **Code Keywords:** let (2), case, (2), pass (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1), similar to (1)
 > **UI Navigation:** click on (1)
@@ -498,7 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), function (2), this. (1)
+> **Frameworks & Libraries:** [[Text Mining]] (3), feature (3), [[Tokens]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Prerequisites:** you'll need (2), install (1), set up (1)
 > **CLI Commands:** find (2), make (1)
@@ -568,7 +569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Text Mining]] (1), data (1), [[Tokens]] (1), [[Microsoft Word|Word]] (1), hit (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1), compare this to (1)
 > **Env Vars:** map (1)
@@ -579,7 +580,7 @@ created: 2026-04-29
 
 ### 2. Corpora and Sources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding corpora and sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-corpora-and-sources?u=76281980)
@@ -622,8 +623,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), data (2), [[Tokens]] (1), next (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** getsources (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -747,7 +748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type. (1), finally, (1), require (1), case, (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Text Mining]] (1), next (1), data (1), database (1)
 > **Definitions:** is a  (8), is called (1)
 > **CLI Commands:** find (3)
 > **Prerequisites:** you'll need (1), install (1), set up (1)
@@ -875,8 +876,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Text Mining]] (2), business (1), data (1)
 > **Code Identifiers:** acorpus (14), newcorpus (7), vectorsource (3), vectoroftext (2), azipcorpus (1)
-> **Code Keywords:** let (6), case, (3), class, (1), this, (1), function (1)
 > **Env Vars:** xml (7), uri (1), url (1)
 > **Exercise Files:** zip file (2)
 > **Definitions:** is a  (2)
@@ -929,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), import. (1)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Env Vars:** cran (1)
@@ -1023,8 +1024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1), [[Text Mining]] (1)
 > **Code Identifiers:** simplecorpus (7), combinedcorpora (4), filteredcorpus (4), newvcorpus (2), simpcorp (2)
-> **Code Keywords:** let (4), case, (4), function (3), this, (2), this. (1)
 > **Definitions:** is a  (5), refers to (2), means that (1)
 > **Warnings:** note that (1), be aware (1)
 > **Analogies:** similar to (1)
@@ -1034,7 +1035,7 @@ created: 2026-04-29
 
 ### 3. Working with NLP Metadata
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with document metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/working-with-document-metadata?u=76281980)
@@ -1201,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (3), else. (1)
+> **Frameworks & Libraries:** [[Metadata]] (28), data (8), application (1)
 > **File Paths:** poetry_9622.txt (2), poetry_1020.txt (1), poetry_12031.txt (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Code Identifiers:** mnrmeta (2)
@@ -1317,8 +1318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (12), data (8), [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** adataframe (6), newvcorpus (1)
-> **Code Keywords:** let (3), continue (1), match. (1), return. (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), scroll up (1)
 > **Exercise Files:** exercise file (2)
@@ -1407,7 +1408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), function (2)
+> **Frameworks & Libraries:** [[Metadata]] (10), data (2)
 > **Code Identifiers:** newvcorpus (7)
 > **Definitions:** is a  (3), is called (2), stands for (1)
 > **CLI Commands:** find (3), make (1)
@@ -1418,7 +1419,7 @@ created: 2026-04-29
 
 ### 4. Preprocessing Text in Preparation for NLP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transformations
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/transformations?u=76281980)
@@ -1491,7 +1492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Statistics]] (2)
 > **UI Navigation:** scroll up (3), scroll down (1)
 > **URLs:** [gutenberg.org](https://gutenberg.org) (2)
 > **Definitions:** is called (1), is a  (1)
@@ -1570,8 +1571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), cloud (1)
 > **Code Identifiers:** mytext (3), removewords (2), morewords (2), mystopwords (1), mynewtext (1)
-> **Code Keywords:** let (3), case, (1)
 > **Definitions:** is a  (3), defined as (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -1638,7 +1639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1704,7 +1705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), data (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1780,7 +1781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Tokens]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1897,7 +1898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this, (1), while. (1)
+> **Frameworks & Libraries:** [[Tokens]] (9), next (4), [[Microsoft Word|Word]] (4), [[Text Mining]] (1), data (1)
 > **Code Identifiers:** ngram_tokens (2), ebooks (1), gutenberg_subjects (1), downloadthese (1), gutenberg_download (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
@@ -1994,9 +1995,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), nlp (1), data (1), next (1), [[Zoom]] (1)
 > **Env Vars:** rds (2), det (2), adp (2), nlp (1), upos (1)
 > **Definitions:** is an  (4), is a  (3), is called (1), defined as (1)
-> **Code Keywords:** let (4)
 > **Code Identifiers:** poetcorpus (3)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -2006,7 +2007,7 @@ created: 2026-04-29
 
 ### 5. Create Structured Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the document-term matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-the-document-term-matrix?u=76281980)
@@ -2079,7 +2080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), feature (1), [[Text Mining]] (1)
 > **Env Vars:** dtm (2), thi (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
@@ -2174,7 +2175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), feature (1), power (1), data (1), next (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
@@ -2261,7 +2262,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** weightsmart (5), weighttfidf (3), weightbin (2), weightfunction (2), poetcorpus (1)
-> **Code Keywords:** function (7), let (2), default, (1), case, (1)
 > **Documentation:** the documentation (3)
 > **Definitions:** is a  (3)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -2346,8 +2346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Versions:** 0.2 (3), 0.8 (3)
-> **Code Keywords:** let (4), new, (1)
 > **Definitions:** means that (3)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [host] (1)
@@ -2355,7 +2355,7 @@ created: 2026-04-29
 
 ### 6. Apply Statistics to Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Word and document frequency
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-and-document-frequency?u=76281980)
@@ -2422,7 +2422,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1), return, (1)
 > **CLI Commands:** find (4)
 > **Code Identifiers:** poetcorpus (1), ndocs (1), nterms (1), termfreq (1)
 > **Definitions:** is a  (2)
@@ -2500,7 +2499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), this, (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** dtm (3), dist (1)
 > **Code Identifiers:** poetcorpus (1), gettitle (1)
 > **Cross-References:** go back to (2)
@@ -2586,8 +2585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (7), make (1)
-> **Code Keywords:** let (2), case, (2)
 > **Versions:** 0.95 (2), 0.8 (2)
 > **Env Vars:** dtm (2)
 > **Analogies:** for example (2)
@@ -2598,7 +2597,7 @@ created: 2026-04-29
 
 ### 7. Sentiment Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is sentiment analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980)
@@ -2653,10 +2652,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (1), next (1)
 > **Env Vars:** nrc (2), edgar (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2779,7 +2778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (1), function (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (2), nlp (1), [[Tokens]] (1), [[Statistics]] (1)
 > **Env Vars:** nrc (5), nlp (1), fun (1), idf (1)
 > **Versions:** 0.2 (2), 0.5 (1)
 > **Definitions:** is a  (3)
@@ -2873,9 +2872,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), data (3), [[Tokens]] (1)
 > **Env Vars:** nrc (8), afinn (4), anew (4), affin (1), bing (1)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** let (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Versions:** 2.34 (1), 7.63 (1), 5.5 (1)
 > **Speakers:** - [instructor] (1), - these (1)
@@ -2937,8 +2936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), nlp (2), api (2), data (2)
 > **Env Vars:** nlp (2), api (2), ibm (1), cran (1)
-> **Code Keywords:** require (2), let (1), interface (1)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), setup (1)
@@ -2949,7 +2948,7 @@ created: 2026-04-29
 
 ### 8. Visualizing Natural Language Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Plotting text mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-text-mining?u=76281980)
@@ -3030,7 +3029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), case, (1), this, (1), lambda (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), data (1), next (1)
 > **Code Identifiers:** frequentterms (3), poetcorpus (2)
 > **Definitions:** is a  (3), short for (1)
 > **Prerequisites:** install (3), set up (1)
@@ -3083,7 +3082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), next (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -3137,7 +3136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), cloud (9), data (2), next (2), [[Zoom]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** install (1), set up (1)
 > **Speakers:** - [instructor] (1)
@@ -3145,7 +3144,7 @@ created: 2026-04-29
 
 ### 9. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next steps in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980)
@@ -3198,16 +3197,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), nlp (2), next (2), express (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for instance (2), for example (1), such as (1)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 10. Introduction to NLP Tidytext R
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to natural language processing with R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r?u=76281980)
@@ -3242,8 +3241,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Programming]] (1), career (1), nlp (1), data (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [mark] (1)
 
@@ -3310,8 +3309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[RStudio]] (2), [[LinkedIn]] (1), nlp (1)
 > **Env Vars:** ide (2), nlp (1)
-> **Code Keywords:** function (1), class. (1)
 > **Tools:** vs code (1), visual studio (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -3321,7 +3320,7 @@ created: 2026-04-29
 
 ### 11. Use of Tidytext for NLP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to think like tidytext
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980)
@@ -3356,6 +3355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (4), data (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Text Mining]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nlp (4)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), such as (2)
@@ -3413,7 +3413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1), finally, (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Tokens]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** before we start (1), you'll need (1), set up (1)
 > **Definitions:** is a  (1), means that (1)
@@ -3553,7 +3553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), this. (1), from. (1), finally, (1)
+> **Frameworks & Libraries:** [[Tokens]] (12), [[Microsoft Word|Word]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Search]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** ptb (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -3693,7 +3693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), finally, (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Tokens]] (2), [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** unnest_tokens (2), stop_words (2), to_lower (1), anti_join (1), get_stopwords (1)
 > **Definitions:** is a  (3)
 > **Warnings:** note that (1), caution (1), be aware (1)
@@ -3783,7 +3783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Statistics]] (2), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
@@ -3897,8 +3897,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Tokens]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistics]] (1), [[Search]] (1)
 > **Env Vars:** tfidf (9), idf (1)
-> **Code Keywords:** let (3), case, (2), finally, (1), for. (1)
 > **Code Identifiers:** tf_idf (2), unnest_tokens (1), bind_tf_idf (1)
 > **Prerequisites:** set up (2), you'll need (1), you need to have (1)
 > **CLI Commands:** find (3)
@@ -3986,7 +3986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), implements (1), case, (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Tokens]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), [[Statistical Analysis]] (1)
 > **Env Vars:** nrc (5)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1), be careful (1)
@@ -4077,7 +4077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), case, (2), implements (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Tokens]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), chatbot (1)
 > **Definitions:** is a  (6)
 > **Env Vars:** pos (2), pos_oz (1)
 > **Prerequisites:** set up (1)
@@ -4122,8 +4122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Text Mining]] (2), [[Metadata]] (2), [[Tokens]] (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** tmcorpus (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -4131,7 +4131,7 @@ created: 2026-04-29
 
 ### 12. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980)
@@ -4162,17 +4162,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), nlp (3), [[Text Mining]] (1), [[Algorithms]] (1), [[Hardware]] (1)
 > **Env Vars:** nlp (3)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [mark] (1)
 
 
 ### 13. Introduction to NLP with Quanteda R
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to natural language processing with R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442823?u=76281980)
@@ -4193,6 +4193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), data (1), next (1), [[Text Mining]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
@@ -4269,7 +4270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), function (1), class. (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Programming]] (4), [[Text Mining]] (3), [[LinkedIn]] (2), [[RStudio]] (2)
 > **Env Vars:** ide (2), nlp (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** before we start (1), required to (1), you'll need (1)
@@ -4281,7 +4282,7 @@ created: 2026-04-29
 
 ### 14. Getting Started with Quanteda
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to quanteda
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980)
@@ -4322,7 +4323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), class. (1)
+> **Frameworks & Libraries:** [[Text Mining]] (2), data (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), nlp (1), [[Tokens]] (1)
 > **Definitions:** is an  (1), short for (1)
 > **Env Vars:** nlp (1)
 > **Cross-References:** in the next (1)
@@ -4397,8 +4398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1), nlp (1), [[spaCy]] (1), next (1)
 > **Env Vars:** cran (2), nlp (1), ram (1)
-> **Code Keywords:** let (1), extends (1)
 > **Analogies:** such as (2)
 > **Best Practices:** recommended (1), don't forget (1)
 > **CLI Commands:** find (1)
@@ -4409,7 +4410,7 @@ created: 2026-04-29
 
 ### 15. Understanding Corpora
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a quanteda corpus
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980)
@@ -4516,8 +4517,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Metadata]] (3), hit (2), [[Tokens]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Code Identifiers:** mycorpus (8), mynamedvector (5), mydata (3), someinfo (3), mynamevector (2)
-> **Code Keywords:** let (6), case, (2), this, (1)
 > **Env Vars:** rds (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -4640,8 +4641,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (10), [[Tokens]] (1), hit (1), [[LinkedIn]] (1), data (1)
 > **Code Identifiers:** samplecorpus (11), someinfo (4), thiscamefrom (1)
-> **Code Keywords:** let (8), this, (2), case, (2), from, (1), finally, (1)
 > **Definitions:** is a  (1)
 
 #### Corpus subsets and groups
@@ -4795,8 +4796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Metadata]] (1)
 > **Code Identifiers:** samplecorpus (12), mydoc (8), someinfo (4), groupedsamplecorpus (4), startswith (3)
-> **Code Keywords:** let (5), this, (2), case, (1)
 > **Prerequisites:** set up (4), setup (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -4896,8 +4897,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Tokens]] (2)
 > **Code Identifiers:** mycorpus (4), segmentedcorpus (4), washspeech (3), reshapedcorpus (2)
-> **Code Keywords:** let (5), case, (1)
 > **Env Vars:** imf (1)
 > **Definitions:** is a  (1)
 
@@ -4940,15 +4941,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **Code Identifiers:** samplecorpus (4), someinfo (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
 
 ### 16. Understanding Tokens
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Corpus and tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980)
@@ -5023,7 +5024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2)
+> **Frameworks & Libraries:** [[Tokens]] (13), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1)
 > **Code Identifiers:** samplecorpus (2)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** such as (1)
@@ -5126,7 +5127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2)
+> **Frameworks & Libraries:** [[Tokens]] (18), [[Microsoft Word|Word]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (5), is called (1)
 > **Code Identifiers:** sctokens (3), samplecorpus (2)
 > **CLI Commands:** make (1), find (1)
@@ -5227,7 +5228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), return. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Tokens]] (12), data (1), hit (1)
 > **Code Identifiers:** sctokens (3), chartoken (3)
 > **Analogies:** such as (4), similar to (1)
 > **Definitions:** is a  (2)
@@ -5285,7 +5286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Microsoft Word|Word]] (3)
 > **Code Identifiers:** sctokens (3)
 > **Definitions:** short for (1), is a  (1)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -5296,7 +5297,7 @@ created: 2026-04-29
 
 ### 17. Understanding Document-Feature Matrix (DFM)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Corpus, tokens, and DFM
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980)
@@ -5321,8 +5322,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistics]] (1)
 > **Env Vars:** dfm (3)
-> **Code Keywords:** let (1)
 
 #### Create and modify a DFM
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-and-modify-a-dfm?u=76281980)
@@ -5415,8 +5416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (5), [[Tokens]] (4), data (1), next (1)
 > **Env Vars:** dfm (13), dfa (1)
-> **Code Keywords:** let (5), case, (3), public (2)
 > **Code Identifiers:** sctokens (3), mydfm (3), sorteddfm (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -5608,7 +5609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (2), case, (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** feature (7), [[Tokens]] (2), [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** mydfm (8), billofrights (4)
 > **Env Vars:** dfm (7), lsd (2)
 > **Definitions:** is a  (4)
@@ -5620,7 +5621,7 @@ created: 2026-04-29
 
 ### 18. Analysis and Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The quanteda textstats package
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/the-quanteda-textstat-package?u=76281980)
@@ -5639,7 +5640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), let (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistical Analysis]] (1)
 
 #### Real-world text statistics with textstats
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980)
@@ -5742,7 +5743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2), this, (1), this. (1), lambda (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Tokens]] (2), [[Microsoft Word|Word]] (2), data (1), [[Statistics]] (1)
 > **Analogies:** similar to (4), for example (2)
 > **UI Navigation:** scroll up (2), scroll down (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -5799,10 +5800,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** for example (3)
 > **Env Vars:** nrc (2)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 
 #### Real-world sentiment analysis with quanteda sentiment
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-sentiment-analysis-with-quanteda-sentiment?u=76281980)
@@ -6027,7 +6028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (4), case, (3), for. (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** nrc (11)
 > **CLI Commands:** find (5), make (2)
 > **Definitions:** is a  (5), is an  (1), stands for (1)
@@ -6101,7 +6102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Statistics]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), cloud (1), feature (1)
 > **Code Identifiers:** smallerdfm (4)
 > **Definitions:** is a  (3)
 > **Env Vars:** dfm (1), kwic (1)
@@ -6152,7 +6153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), extends (1), pass (1), this. (1)
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
 > **Code Identifiers:** newsamplecorp (1)
@@ -6161,7 +6162,7 @@ created: 2026-04-29
 
 ### 19. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next steps in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980)
@@ -6190,6 +6191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), nlp (2), [[Text Mining]] (1), [[Python (Programming Language)|Python]] (1), web (1)
 > **Env Vars:** nlp (2), cran (1), api (1)
 > **Analogies:** for instance (1), just like (1)
 > **CLI Commands:** python (1)
@@ -6197,7 +6199,7 @@ created: 2026-04-29
 
 ### 20. Capstone Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-introduction?u=76281980)
@@ -6277,7 +6279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (2), switch (1), lambda (1), function (1)
+> **Frameworks & Libraries:** [[Climate Change]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), data (1), next (1)
 > **Definitions:** is an  (2), is a  (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** dfm_keep (1)

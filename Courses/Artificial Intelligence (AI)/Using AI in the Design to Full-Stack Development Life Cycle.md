@@ -38,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/firebase
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20in%20the%20Design%20to%20Full-Stack%20Development%20Life%20Cycle.md)
@@ -57,46 +57,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Leaning into AI: Reframing what we know and how we build
-  - AI: Common hesitations, curiosities, and unknowns
-  - What to expect
-  - Using the project files
+  - [Leaning into AI: Reframing what we know and how we build](#leaning-into-ai-reframing-what-we-know-and-how-we-build)
+  - [AI: Common hesitations, curiosities, and unknowns](#ai-common-hesitations-curiosities-and-unknowns)
+  - [What to expect](#what-to-expect)
+  - [Using the project files](#using-the-project-files)
 - [**1. Wireframing**](#1-wireframing) (5 videos)
-  - Leaning into AI: Introduction to AI in wireframing
-  - Exploring Figma AI tools
-  - Generate your wireframe
-  - AI as a partner: Refining the AI output wireframe
-  - Make it useful: Annotate your wireframe
+  - [Leaning into AI: Introduction to AI in wireframing](#leaning-into-ai-introduction-to-ai-in-wireframing)
+  - [Exploring Figma AI tools](#exploring-figma-ai-tools)
+  - [Generate your wireframe](#generate-your-wireframe)
+  - [AI as a partner: Refining the AI output wireframe](#ai-as-a-partner-refining-the-ai-output-wireframe)
+  - [Make it useful: Annotate your wireframe](#make-it-useful-annotate-your-wireframe)
 - [**2. Frontend Development**](#2-frontend-development) (5 videos)
-  - Using AI to brainstorm your frontend approach
-  - Leveraging AI tools for frontend brainstorming
-  - Writing effective AI prompts for frontend development
-  - AI as a partner: Refining the AI output wireframe to code
-  - Make it real: First frontend iteration
+  - [Using AI to brainstorm your frontend approach](#using-ai-to-brainstorm-your-frontend-approach)
+  - [Leveraging AI tools for frontend brainstorming](#leveraging-ai-tools-for-frontend-brainstorming)
+  - [Writing effective AI prompts for frontend development](#writing-effective-ai-prompts-for-frontend-development)
+  - [AI as a partner: Refining the AI output wireframe to code](#ai-as-a-partner-refining-the-ai-output-wireframe-to-code)
+  - [Make it real: First frontend iteration](#make-it-real-first-frontend-iteration)
 - [**3. Backend Development**](#3-backend-development) (4 videos)
-  - Coming up with your backend approach
-  - Analyzing benefits and tradeoffs
-  - AI as a partner: Refining the AI output backend brainstorm
-  - Make it real: Frontend meets the backend
+  - [Coming up with your backend approach](#coming-up-with-your-backend-approach)
+  - [Analyzing benefits and tradeoffs](#analyzing-benefits-and-tradeoffs)
+  - [AI as a partner: Refining the AI output backend brainstorm](#ai-as-a-partner-refining-the-ai-output-backend-brainstorm)
+  - [Make it real: Frontend meets the backend](#make-it-real-frontend-meets-the-backend)
 - [**4. Testing Your Full Stack Project**](#4-testing-your-full-stack-project) (5 videos)
-  - Testing your code with AI
-  - Leveraging AI when writing tests
-  - Effective prompting for testing your project
-  - Troubleshooting with AI
-  - It's time to run it: Testing your tests
+  - [Testing your code with AI](#testing-your-code-with-ai)
+  - [Leveraging AI when writing tests](#leveraging-ai-when-writing-tests)
+  - [Effective prompting for testing your project](#effective-prompting-for-testing-your-project)
+  - [Troubleshooting with AI](#troubleshooting-with-ai)
+  - [It's time to run it: Testing your tests](#its-time-to-run-it-testing-your-tests)
 - [**5. Deployment and Documentation**](#5-deployment-and-documentation) (5 videos)
-  - Streamlining handoff and delivery
-  - AI-assisted delivery and handoff in the real world
-  - Generating useful documentation
-  - Documentation for devs
-  - Preparing your documentation for client delivery
+  - [Streamlining handoff and delivery](#streamlining-handoff-and-delivery)
+  - [AI-assisted delivery and handoff in the real world](#ai-assisted-delivery-and-handoff-in-the-real-world)
+  - [Generating useful documentation](#generating-useful-documentation)
+  - [Documentation for devs](#documentation-for-devs)
+  - [Preparing your documentation for client delivery](#preparing-your-documentation-for-client-delivery)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Overview of design to dev stages and AI
-  - How might you integrate AI into your personal workflow?
+  - [Overview of design to dev stages and AI](#overview-of-design-to-dev-stages-and-ai)
+  - [How might you integrate AI into your personal workflow?](#how-might-you-integrate-ai-into-your-personal-workflow)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leaning into AI: Reframing what we know and how we build
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-reframing-what-we-know-and-how-we-build?u=76281980)
@@ -115,7 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), [[Web Development]] (1)
 > **Speakers:** - ai (1)
 
 #### AI: Common hesitations, curiosities, and unknowns
@@ -143,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[Privacy]] (1), [[Automation]] (1)
 > **Speakers:** - ai (1)
 
 #### What to expect
@@ -160,7 +161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (1)
 > **Exercise Files:** starter code (1)
 > **Speakers:** - [narrator] (1)
 
@@ -197,13 +198,12 @@ created: 2026-04-29
 >
 > **Exercise Files:** starter code (2), boilerplate (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Wireframing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leaning into AI: Introduction to AI in wireframing
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-introduction-to-ai-in-wireframing?u=76281980)
@@ -238,9 +238,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), game (1), ux (1), next (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - wire (1)
 
 #### Exploring Figma AI tools
@@ -344,7 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), this. (1)
+> **Frameworks & Libraries:** ai (9), [[Figma (Software)|Figma]] (6), prompt (2), next (2), [[Microsoft Copilot|Copilot]] (1)
 > **Tools:** figma (6)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -404,7 +404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), for. (1), export. (1)
+> **Frameworks & Libraries:** ai (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -435,7 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -486,7 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), pass (1), this, (1), for, (1)
+> **Frameworks & Libraries:** data (2), [[Figma (Software)|Figma]] (1), prompt (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** figma (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is a  (1)
@@ -495,7 +495,7 @@ created: 2026-04-29
 
 ### 2. Frontend Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to brainstorm your frontend approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-ai-to-brainstorm-your-frontend-approach?u=76281980)
@@ -528,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), raise (1)
+> **Frameworks & Libraries:** ai (8), [[ChatGPT]] (1), game (1), [[Debugging]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -592,10 +592,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), front-end (2), [[ChatGPT]] (2), next (2), [[GitHub Copilot]] (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Speakers:** - [narrator] (1)
 
@@ -704,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), try. (1), this. (1)
+> **Frameworks & Libraries:** prompt (13), ai (11), front-end (2), [[Security]] (2), next (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** good practice (1), pro tip (1)
 > **File Paths:** mext.js (1)
@@ -779,7 +779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (2), this, (1), this. (1)
+> **Frameworks & Libraries:** prompt (3), [[ChatGPT]] (2), [[Next.js]] (2), ai (2), css (1)
 > **File Paths:** next.js (2), page.js (2)
 > **Env Vars:** scss (2), css (1)
 > **CLI Commands:** make (1)
@@ -817,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), css (1), next (1)
 > **CLI Commands:** make (2)
 > **File Paths:** page.js (1)
 > **Env Vars:** css (1)
@@ -827,7 +827,7 @@ created: 2026-04-29
 
 ### 3. Backend Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coming up with your backend approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/coming-up-with-your-backend-approach?u=76281980)
@@ -872,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), let (1)
+> **Frameworks & Libraries:** ai (8), api (1), next (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** boilerplate (1)
@@ -938,7 +938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), new. (1)
+> **Frameworks & Libraries:** ai (13), [[ChatGPT]] (1), [[Microsoft Products|Products]] (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - backend (1)
@@ -1054,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), for. (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (3), cms (2), prompt (2), [[Next.js]] (2)
 > **Code Identifiers:** chatgpt (4)
 > **CLI Commands:** make (3)
 > **Prerequisites:** setup (1), install (1), configure (1)
@@ -1092,6 +1092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), ai (2), [[Real-Time]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1100,7 +1101,7 @@ created: 2026-04-29
 
 ### 4. Testing Your Full Stack Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing your code with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/testing-your-code-with-ai?u=76281980)
@@ -1131,6 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Debugging]] (4), power (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1191,6 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[GitHub Copilot]] (2), [[ChatGPT]] (2), application (1), ux (1)
 > **CLI Commands:** make (1), cd (1)
 > **Tools:** github (2)
 > **Speakers:** - [instructor] (1)
@@ -1294,7 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), continue (1), async (1), self (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Debugging]] (5), ai (3), prompt (2), api (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
@@ -1344,8 +1347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), switch (1)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** scroll up (1)
 > **Prerequisites:** set up (1)
@@ -1412,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2), switch (2), this. (1)
+> **Frameworks & Libraries:** [[npm]] (2), next (1)
 > **CLI Commands:** npm (2), make (2), find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -1420,7 +1423,7 @@ created: 2026-04-29
 
 ### 5. Deployment and Documentation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Streamlining handoff and delivery
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/streamlining-handoff-delivery?u=76281980)
@@ -1447,6 +1450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), teams (3), [[Automation]] (2), [[Quality Assurance]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cicd (1)
 > **Speakers:** - [instructor] (1)
@@ -1490,9 +1494,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Automation]] (1), api (1), next (1)
 > **Warnings:** keep in mind (1), troubleshoot (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -1568,7 +1572,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), ai (2), prompt (1)
 > **Env Vars:** readme (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1610,9 +1614,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), next (2)
 > **Env Vars:** readme (2), api (2), url (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Documentation:** the readme (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1669,15 +1673,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), cms (2), ai (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** else, (1), this. (1), for, (1)
 > **Env Vars:** cms (2), faq (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of design to dev stages and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/overview-of-design-to-dev-stages-ai?u=76281980)
@@ -1698,6 +1702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2)
 > **Speakers:** - [instructor] (1)
 
 #### How might you integrate AI into your personal workflow?
@@ -1723,7 +1728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 

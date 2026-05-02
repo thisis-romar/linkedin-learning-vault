@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/software-projects
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Projects.md)
@@ -49,39 +49,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Create your own Python projects
-  - What you should know
-  - Finding inspiration
+  - [Create your own Python projects](#create-your-own-python-projects)
+  - [What you should know](#what-you-should-know)
+  - [Finding inspiration](#finding-inspiration)
 - [**1. Planning the Project**](#1-planning-the-project) (5 videos)
-  - User stories
-  - Use cases
-  - Requirements
-  - Program architecture
-  - Stub code
+  - [User stories](#user-stories)
+  - [Use cases](#use-cases)
+  - [Requirements](#requirements)
+  - [Program architecture](#program-architecture)
+  - [Stub code](#stub-code)
 - [**2. Retrieving Content**](#2-retrieving-content) (5 videos)
-  - Daily inspirational quotes
-  - Weather forecast using OpenWeatherMap
-  - 2023 Update on X (formerly known as Twitter)
-  - Trending X (formerly known as Twitter) topics
-  - Random Wikipedia articles
+  - [Daily inspirational quotes](#daily-inspirational-quotes)
+  - [Weather forecast using OpenWeatherMap](#weather-forecast-using-openweathermap)
+  - [2023 Update on X (formerly known as Twitter)](#2023-update-on-x-formerly-known-as-twitter)
+  - [Trending X (formerly known as Twitter) topics](#trending-x-formerly-known-as-twitter-topics)
+  - [Random Wikipedia articles](#random-wikipedia-articles)
 - [**3. Emailing the Digest**](#3-emailing-the-digest) (3 videos)
-  - Format an email message
-  - Send an email
-  - Schedule a task
+  - [Format an email message](#format-an-email-message)
+  - [Send an email](#send-an-email)
+  - [Schedule a task](#schedule-a-task)
 - [**4. Building the GUI**](#4-building-the-gui) (2 videos)
-  - Plan the GUI
-  - Explore a Python Tkinter GUI
+  - [Plan the GUI](#plan-the-gui)
+  - [Explore a Python Tkinter GUI](#explore-a-python-tkinter-gui)
 - [**5. Iterating on the Design**](#5-iterating-on-the-design) (2 videos)
-  - Iterative improvements
-  - Save configuration settings
+  - [Iterative improvements](#iterative-improvements)
+  - [Save configuration settings](#save-configuration-settings)
 - [**6. Packaging and Distribution**](#6-packaging-and-distribution) (1 videos)
-  - Distribute Python applications
+  - [Distribute Python applications](#distribute-python-applications)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your own Python projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/create-your-own-python-projects?u=76281980)
@@ -108,8 +108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), next (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [barron] (1)
 
@@ -140,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Programming]] (1), application (1), [[Design Patterns]] (1), teams (1)
 > **CLI Commands:** python (9)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **Tools:** visual studio (1)
@@ -189,6 +190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Automation]] (3), [[Programming]] (1), next (1), data (1)
 > **CLI Commands:** python (5)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -196,7 +198,7 @@ created: 2026-04-29
 
 ### 1. Planning the Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### User stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/user-stories?u=76281980)
@@ -283,8 +285,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Python (Programming Language)|Python]] (2), feature (2), next (1), game (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1), interface (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** coming up (1)
@@ -337,9 +339,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), web (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** case. (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -409,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1)
+> **Frameworks & Libraries:** application (16), functional (7), [[Resiliency]] (1), web (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (2)
@@ -492,8 +494,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), application (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), functional (1), product (1)
 > **CLI Commands:** python (3), make (2)
-> **Code Keywords:** class. (2), finally, (1), continue (1)
 > **Env Vars:** gui (4)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is an  (1)
@@ -555,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (8), class, (3), interface (3), pass (2), class. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), application (1)
 > **CLI Commands:** python (9), make (1)
 > **File Paths:** dd_email.py (3), dd_content.py (1), dd_gui.py (1)
 > **Code Identifiers:** dd_email (3), dd_content (1), dd_gui (1)
@@ -567,7 +569,7 @@ created: 2026-04-29
 
 ### 2. Retrieving Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Daily inspirational quotes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980)
@@ -674,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (2), module (1), from. (1), require (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (2), [[JSON]] (2), next (1), [[Programming]] (1)
 > **Env Vars:** csv (7), json (2), xml (2)
 > **File Paths:** quotes.csv (4), content.py (3)
 > **CLI Commands:** python (4), make (1)
@@ -800,8 +802,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (16), data (10), [[Python (Programming Language)|Python]] (7), [[JSON]] (7), next (3)
 > **Env Vars:** api (16), json (6), url (2), csv (1), zip (1)
-> **Code Keywords:** function (12), module (6), default, (1), let (1), pass (1)
 > **Code Identifiers:** get_weather_forecast (8), dd_content (3), get_random_quote (1)
 > **CLI Commands:** python (7), find (1), make (1)
 > **URLs:** [weather.com](https://weather.com) (1), [openweathermap.org](https://openweathermap.org) (1), [pypy.org](https://pypy.org) (1)
@@ -828,9 +830,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), api (2), data (1)
 > **Env Vars:** api (2)
 > **Cross-References:** next video (1), in the next (1)
-> **Code Keywords:** private (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -945,7 +947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), module (4), interface (2), for, (1), this. (1)
+> **Frameworks & Libraries:** api (11), [[Search]] (7), [[Python (Programming Language)|Python]] (6), [[Google]] (5), next (2)
 > **Env Vars:** api (11), woeid (5), url (1)
 > **CLI Commands:** python (6), find (5), make (1), pip (1)
 > **Code Identifiers:** get_twitter_trends (6), get_weather_forecast (2), trends_place (1)
@@ -1025,8 +1027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), api (4), [[JSON]] (4), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (8), api (4), json (4), rest (1), html (1)
-> **Code Keywords:** function (7), for. (1), let (1), case, (1)
 > **UI Navigation:** click on (1), select the (1), dropdown (1)
 > **CLI Commands:** find (1), python (1)
 > **Tools:** terminal (1)
@@ -1035,7 +1037,7 @@ created: 2026-04-29
 
 ### 3. Emailing the Digest
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Format an email message
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980)
@@ -1192,8 +1194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (20), next (5), [[Python (Programming Language)|Python]] (4), web (2), data (2)
 > **Env Vars:** html (20)
-> **Code Keywords:** function (4), module (2), class. (2), class, (2), finally, (1)
 > **CLI Commands:** python (4), find (1), make (1)
 > **UI Navigation:** click on (2), scroll up (1), open the (1)
 > **Analogies:** similar to (2), such as (2)
@@ -1286,8 +1288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft Outlook|Outlook]] (4), [[Python (Programming Language)|Python]] (2), application (2), [[Google]] (1)
 > **Env Vars:** smtp (7), html (5), tls (1)
-> **Code Keywords:** function (4), module (4), let (1), finally, (1), switch (1)
 > **Prerequisites:** set up (2), configure (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
@@ -1414,7 +1416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), module (4), let (3), super (2), class, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), application (3), api (3), next (2), [[Programming]] (1)
 > **Env Vars:** gui (4), api (3), uml (1)
 > **CLI Commands:** python (5), make (2)
 > **Documentation:** the documentation (2)
@@ -1426,7 +1428,7 @@ created: 2026-04-29
 
 ### 4. Building the GUI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan the GUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980)
@@ -1541,9 +1543,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (5), functional (4), application (3), [[Python (Programming Language)|Python]] (1), [[Tkinter]] (1)
 > **Env Vars:** gui (17)
 > **CLI Commands:** make (4), find (2), python (1)
-> **Code Keywords:** let (2), interface (1), module (1), this. (1), finally, (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** configure (3)
 > **Analogies:** for example (2)
@@ -1655,8 +1657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tkinter]] (11), [[Python (Programming Language)|Python]] (5), next (4), data (2), feature (1)
 > **Env Vars:** gui (23), api (1)
-> **Code Keywords:** module (4), function (4), let (3), finally, (3)
 > **CLI Commands:** python (5), make (2)
 > **Exercise Files:** exercise files (2)
 > **Analogies:** for example (2)
@@ -1667,7 +1669,7 @@ created: 2026-04-29
 
 ### 5. Iterating on the Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Iterative improvements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980)
@@ -1722,8 +1724,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Python (Programming Language)|Python]] (3), product (1), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1)
 > **CLI Commands:** python (3), make (2), find (1)
-> **Code Keywords:** continue (1), require (1), let (1), interface (1), finally, (1)
 > **Env Vars:** gui (2), api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1775,8 +1777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), feature (3), application (2), data (1), next (1)
 > **Env Vars:** gui (7), json (4), jspn (1)
-> **Code Keywords:** module (2), class, (1), function (1)
 > **Code Identifiers:** dd_config (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1784,7 +1786,7 @@ created: 2026-04-29
 
 ### 6. Packaging and Distribution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Distribute Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980)
@@ -1831,8 +1833,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), application (5), [[Windows]] (2), [[Microsoft Word|Word]] (1), [[Tkinter]] (1)
 > **CLI Commands:** python (9), pip (1)
-> **Code Keywords:** let (3), module (2)
 > **Env Vars:** gui (2), exe (1)
 > **Prerequisites:** install (3)
 > **File Paths:** dd_gui.py (1)
@@ -1843,7 +1845,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/next-steps?u=76281980)
@@ -1864,8 +1866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** continue (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [barron] (1)
 

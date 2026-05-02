@@ -33,7 +33,7 @@ tags:
   - skill/cloud-development
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Leveraging%20Google%20Cloud%20Developer%20and%20DevOps%20Tools.md)
@@ -52,42 +52,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - State of Google Cloud tools
-  - Who should watch this course
-  - A note about working with cloud services
+  - [State of Google Cloud tools](#state-of-google-cloud-tools)
+  - [Who should watch this course](#who-should-watch-this-course)
+  - [A note about working with cloud services](#a-note-about-working-with-cloud-services)
 - [**1. Tools for Application Users**](#1-tools-for-application-users) (6 videos)
-  - Google Console for learners
-  - User authentication and authorization
-  - GCP services and menus
-  - Key Google Cloud services: Compute
-  - Key Google Cloud services: Files and data
-  - Key Google Cloud services: IAM and more
+  - [Google Console for learners](#google-console-for-learners)
+  - [User authentication and authorization](#user-authentication-and-authorization)
+  - [GCP services and menus](#gcp-services-and-menus)
+  - [Key Google Cloud services: Compute](#key-google-cloud-services-compute)
+  - [Key Google Cloud services: Files and data](#key-google-cloud-services-files-and-data)
+  - [Key Google Cloud services: IAM and more](#key-google-cloud-services-iam-and-more)
 - [**2. Tools for Data Scientists**](#2-tools-for-data-scientists) (5 videos)
-  - Enable APIs for DLVMs
-  - Using Google Cloud or SDK with terminal
-  - Using Google Colab notebooks
-  - Using Google-managed Notebooks
-  - Using BigQuery ML
+  - [Enable APIs for DLVMs](#enable-apis-for-dlvms)
+  - [Using Google Cloud or SDK with terminal](#using-google-cloud-or-sdk-with-terminal)
+  - [Using Google Colab notebooks](#using-google-colab-notebooks)
+  - [Using Google-managed Notebooks](#using-google-managed-notebooks)
+  - [Using BigQuery ML](#using-bigquery-ml)
 - [**3. Tools for DevOps**](#3-tools-for-devops) (6 videos)
-  - Using Google Cloud scripts with Cloud Shell for storage
-  - Deploying a VM with Google Cloud script
-  - Running GCP Deployments
-  - Monitoring GCP with Cloud Logging
-  - Monitoring GCP Security with SCC
-  - Designing GCP Solutions with Architecture Diagramming
+  - [Using Google Cloud scripts with Cloud Shell for storage](#using-google-cloud-scripts-with-cloud-shell-for-storage)
+  - [Deploying a VM with Google Cloud script](#deploying-a-vm-with-google-cloud-script)
+  - [Running GCP Deployments](#running-gcp-deployments)
+  - [Monitoring GCP with Cloud Logging](#monitoring-gcp-with-cloud-logging)
+  - [Monitoring GCP Security with SCC](#monitoring-gcp-security-with-scc)
+  - [Designing GCP Solutions with Architecture Diagramming](#designing-gcp-solutions-with-architecture-diagramming)
 - [**4. Tools for Developers**](#4-tools-for-developers) (6 videos)
-  - Coding with the GCP local Google Cloud SDK
-  - Coding with the GCP add-in for VSCode
-  - Storing code in Cloud Source Repositories
-  - Storing artifacts in GCR or Artifact Registry
-  - Storing secrets in Secrets Manager
-  - Implementing CI/CD with Cloud Build
+  - [Coding with the GCP local Google Cloud SDK](#coding-with-the-gcp-local-google-cloud-sdk)
+  - [Coding with the GCP add-in for VSCode](#coding-with-the-gcp-add-in-for-vscode)
+  - [Storing code in Cloud Source Repositories](#storing-code-in-cloud-source-repositories)
+  - [Storing artifacts in GCR or Artifact Registry](#storing-artifacts-in-gcr-or-artifact-registry)
+  - [Storing secrets in Secrets Manager](#storing-secrets-in-secrets-manager)
+  - [Implementing CI/CD with Cloud Build](#implementing-cicd-with-cloud-build)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with Google Cloud Developer and DevOps Tools
+  - [Next steps with Google Cloud Developer and DevOps Tools](#next-steps-with-google-cloud-developer-and-devops-tools)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### State of Google Cloud tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/state-of-google-cloud-tools?u=76281980)
@@ -114,9 +114,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), cloud (2), next (1), [[Scripting]] (1), [[Software Development]] (1)
 > **CLI Commands:** terraform (1), find (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** sdk (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [lynn] (1)
@@ -170,6 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (7), gcp (6), data (2), application (2), [[DevOps]] (2)
 > **Tools:** github (2)
 > **Prerequisites:** set up (1), setup (1)
 > **Env Vars:** gcp (1)
@@ -211,8 +212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), gcp (2), [[Virtual Machines]] (2), [[Security]] (1), application (1)
 > **Env Vars:** gcp (2), mfa (2)
-> **Code Keywords:** delete (2), public (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -223,7 +224,7 @@ created: 2026-04-29
 
 ### 1. Tools for Application Users
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Console for learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980)
@@ -364,7 +365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), while, (2), this, (1), new. (1), case. (1)
+> **Frameworks & Libraries:** [[Search]] (8), gcp (7), cloud (5), [[Google]] (5), data (2)
 > **Env Vars:** gcp (7)
 > **Definitions:** is a  (6)
 > **CLI Commands:** find (3), make (1)
@@ -416,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), switch (2), private (2), let (1), default, (1)
+> **Frameworks & Libraries:** [[Google]] (3), cloud (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Security]] (2), [[Search]] (1)
 > **Env Vars:** sdk (1), vpc (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** gcloud (1)
@@ -486,10 +487,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Microsoft Products|Products]] (4), cloud (3), [[Search]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), super (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
@@ -582,8 +583,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), [[Google]] (6), [[Linux]] (4), [[Virtual Machines]] (2), [[Scripting]] (2)
 > **CLI Commands:** ssh (6), gcloud (5), make (1)
-> **Code Keywords:** let (1), private (1), switch (1), delete (1), interface (1)
 > **Env Vars:** ssh (6)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (2)
@@ -674,8 +675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), cloud (1), data (1), [[Security]] (1), [[Debugging]] (1)
 > **Analogies:** just like (1), for example (1)
-> **Code Keywords:** default. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Warnings:** be aware (1)
@@ -759,7 +760,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), this. (2), this, (2), interface (1), else. (1)
+> **Frameworks & Libraries:** [[Security]] (7), gcp (3), [[Google]] (2), [[GitHub]] (2), cloud (2)
 > **Env Vars:** iam (6), gcp (1)
 > **CLI Commands:** find (2), gcloud (2), terraform (1)
 > **Prerequisites:** set up (4)
@@ -771,7 +772,7 @@ created: 2026-04-29
 
 ### 2. Tools for Data Scientists
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable APIs for DLVMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/enable-apis-for-dlvms?u=76281980)
@@ -864,8 +865,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), [[Vertex]] (5), ai (5), data (4), [[Google Cloud Platform (GCP)|Google cloud]] (4)
 > **Env Vars:** api (6), gcp (2), gce (1), gpu (1)
-> **Code Keywords:** let (1), default, (1), pass (1), default. (1), interface (1)
 > **Tools:** jupyter (4), colab (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (2), install (1)
@@ -922,8 +923,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Scripting]] (2), [[TensorFlow]] (2), [[Vertex]] (2), ai (2)
 > **CLI Commands:** gcloud (3)
-> **Code Keywords:** case, (2), interface (1)
 > **Env Vars:** stop (3)
 > **Analogies:** for example (2)
 > **UI Navigation:** go to (1)
@@ -991,11 +992,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), [[GitHub]] (3), data (2), gcp (1), cloud (1)
 > **Tools:** colab (4), github (3)
 > **CLI Commands:** find (2), python (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** this, (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Env Vars:** gcp (1)
 > **Exercise Files:** github repo (1)
@@ -1131,7 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), case, (1), super (1), this. (1)
+> **Frameworks & Libraries:** data (6), [[Vertex]] (3), ai (3), [[Security]] (3), [[Python (Programming Language)|Python]] (2)
 > **Prerequisites:** set up (5), install (1), configure (1)
 > **Env Vars:** ram (2), gpu (2), cpu (1), gcp (1)
 > **Tools:** colab (3), github (1), jupyter (1)
@@ -1199,8 +1200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[SQL]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), gcp (2)
 > **Env Vars:** sql (5), gcp (2), roc (1)
-> **Code Keywords:** public (3), interface (3), case, (1)
 > **CLI Commands:** find (3)
 > **Code Identifiers:** bqml_tutorial (1)
 > **Exercise Files:** source code (1)
@@ -1211,7 +1212,7 @@ created: 2026-04-29
 
 ### 3. Tools for DevOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Google Cloud scripts with Cloud Shell for storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-cloud-scripts-with-cloud-shell-for-storage?u=76281980)
@@ -1334,10 +1335,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), [[Google]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[DevOps]] (4), [[Scripting]] (4)
 > **CLI Commands:** gcloud (7), ls (2), terraform (1), find (1)
 > **Env Vars:** gcp (3), ide (2), wwa (1), cbt (1)
 > **Definitions:** is a  (3), is an  (2)
-> **Code Keywords:** let (1), case, (1), switch (1), this. (1)
 > **Tools:** terminal (2), command line (1)
 > **Analogies:** for example (1), just like (1)
 > **Prerequisites:** set up (2)
@@ -1418,7 +1419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), this, (1), case. (1)
+> **Frameworks & Libraries:** cloud (3), [[Representational State Transfer (REST)|Rest]] (3), feature (2), api (2), application (2)
 > **Env Vars:** rest (3), api (2)
 > **Definitions:** is a  (2), in other words (1)
 > **Tools:** command line (2)
@@ -1533,8 +1534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (8), [[WordPress]] (7), [[Google]] (3), [[Representational State Transfer (REST)|Rest]] (2), application (2)
 > **CLI Commands:** terraform (8), gcloud (2)
-> **Code Keywords:** delete (5), case, (2), interface (1), let (1)
 > **Env Vars:** rest (2), krm (1), gcp (1), api (1)
 > **Analogies:** such as (2), kind of like (2), just like (1)
 > **Prerequisites:** configure (1), set up (1), getting started (1)
@@ -1617,8 +1618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Kubernetes]] (4), [[Google]] (3), cloud (2), data (1)
 > **Analogies:** for example (3), imagine (1)
-> **Code Keywords:** default, (1), let (1), interface (1)
 > **Env Vars:** cpu (1), gke (1), gce (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
@@ -1674,9 +1675,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), [[DevOps]] (4), api (3), data (3), application (3)
 > **Env Vars:** api (3), scc (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this, (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -1738,18 +1739,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (4), data (2), gcp (2), [[Analytics]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **URLs:** [withgoogle.com](https://withgoogle.com) (1), [hava.io](https://hava.io) (1)
 > **Env Vars:** gcp (2)
 > **Analogies:** for example (1), picture (1)
-> **Code Keywords:** new, (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Tools for Developers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coding with the GCP local Google Cloud SDK
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/coding-with-the-gcp-local-google-cloud-sdk?u=76281980)
@@ -1852,6 +1853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), gcp (3), [[Continuous Integration (CI)|Continuous integration]] (1), ci (1), cd (1)
 > **Prerequisites:** install (5), getting started (1)
 > **Env Vars:** gcp (3), sdk (1)
 > **CLI Commands:** cd (1), make (1)
@@ -1933,8 +1935,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), api (6), [[Kubernetes]] (4), gcp (2), [[Containerization]] (1)
 > **Env Vars:** api (6), pip (3), gcp (2), sdk (1), ide (1)
-> **Code Keywords:** this, (2), public (1), super (1), case. (1), interface (1)
 > **CLI Commands:** pip (3), make (2)
 > **Prerequisites:** install (4)
 > **Tools:** vs code (2), terminal (1)
@@ -2043,12 +2045,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), [[Google Cloud Platform (GCP)|Google cloud]] (3), api (3), [[Google]] (2), [[Git]] (2)
 > **Env Vars:** ide (5), api (3), ssh (1), sdk (1), url (1)
 > **Analogies:** such as (2), just like (2), kind of like (1), for example (1)
 > **CLI Commands:** git (2), cd (1), ssh (1), python (1)
 > **Tools:** github (2), bitbucket (1), terminal (1), vs code (1)
 > **Prerequisites:** set up (2), install (2), setup (1)
-> **Code Keywords:** continue (1), this, (1), case, (1)
 > **Definitions:** is a  (3)
 > **URLs:** [source.cloud](https://source.cloud) (1), [google.com](https://google.com) (1)
 
@@ -2103,9 +2105,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), feature (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), cloud (1), [[Security]] (1)
 > **CLI Commands:** docker (5), npm (1), python (1), apt (1), yum (1)
 > **Env Vars:** gke (1), gce (1), npm (1)
-> **Code Keywords:** super (1), while, (1)
 > **URLs:** [gcr.io](https://gcr.io) (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2165,8 +2167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (2), api (1), cloud (1), application (1)
 > **Env Vars:** kms (3), api (1), ide (1)
-> **Code Keywords:** let (1), default, (1), this, (1)
 > **Best Practices:** best practice (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -2255,10 +2257,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), application (3), cd (3), gcp (2), ci (2)
 > **CLI Commands:** cd (3), make (2), docker (1), find (1)
 > **Env Vars:** gcp (2), poc (1), yaml (1), json (1), cncf (1)
 > **Definitions:** is a  (7)
-> **Code Keywords:** case, (1), this, (1), this. (1), pub (1)
 > **Prerequisites:** set up (4)
 > **Exercise Files:** source code (2)
 > **Tools:** github (1)
@@ -2267,7 +2269,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Google Cloud Developer and DevOps Tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/next-steps-with-google-cloud-developer-and-devops-tools?u=76281980)
@@ -2308,6 +2310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gcp (5), cloud (3), [[Google]] (3), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **Env Vars:** gcp (5), gde (1)
 > **Tools:** github (2)
 > **CLI Commands:** apache (1)

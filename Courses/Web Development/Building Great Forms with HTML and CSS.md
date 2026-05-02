@@ -32,7 +32,7 @@ tags:
   - skill/html
   - skill/forms-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Great%20Forms%20with%20HTML%20and%20CSS.md)
@@ -51,89 +51,89 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Welcome**](#welcome) (3 videos)
-  - Making your forms great
-  - What you should know
-  - Using the exercise files
+  - [Making your forms great](#making-your-forms-great)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. General Form Setup**](#1-general-form-setup) (3 videos)
-  - How HTML forms work
-  - Basic setup for a form
-  - GET and POST methods
+  - [How HTML forms work](#how-html-forms-work)
+  - [Basic setup for a form](#basic-setup-for-a-form)
+  - [GET and POST methods](#get-and-post-methods)
 - [**2. Form Elements**](#2-form-elements) (10 videos)
-  - Fieldsets and legends
-  - Working with labels
-  - New HTML5 form tags
-  - New input types
-  - New input attributes
-  - More input attributes
-  - Form validate options
-  - Input restrictions: Pattern
-  - Buttons
-  - Autocomplete
+  - [Fieldsets and legends](#fieldsets-and-legends)
+  - [Working with labels](#working-with-labels)
+  - [New HTML5 form tags](#new-html5-form-tags)
+  - [New input types](#new-input-types)
+  - [New input attributes](#new-input-attributes)
+  - [More input attributes](#more-input-attributes)
+  - [Form validate options](#form-validate-options)
+  - [Input restrictions: Pattern](#input-restrictions-pattern)
+  - [Buttons](#buttons)
+  - [Autocomplete](#autocomplete)
 - [**3. Form-Specific CSS**](#3-form-specific-css) (10 videos)
-  - Form layout tips
-  - Styling labels and inputs
-  - Focus styles
-  - Using pseudo-classes to be more specific
-  - Custom checkboxes
-  - Radio buttons
-  - Toggle switch
-  - Styling select, part 1
-  - Styling select, part 2
-  - Float labels
+  - [Form layout tips](#form-layout-tips)
+  - [Styling labels and inputs](#styling-labels-and-inputs)
+  - [Focus styles](#focus-styles)
+  - [Using pseudo-classes to be more specific](#using-pseudo-classes-to-be-more-specific)
+  - [Custom checkboxes](#custom-checkboxes)
+  - [Radio buttons](#radio-buttons)
+  - [Toggle switch](#toggle-switch)
+  - [Styling select, part 1](#styling-select-part-1)
+  - [Styling select, part 2](#styling-select-part-2)
+  - [Float labels](#float-labels)
 - [**4. Login and Registration Form**](#4-login-and-registration-form) (8 videos)
-  - The registration process
-  - Login form flow chart and landing page
-  - Building the login page
-  - Password visibility
-  - Build and style a sign-up form
-  - Using tooltips for more information
-  - Password strength
-  - Login and registration form summary
+  - [The registration process](#the-registration-process)
+  - [Login form flow chart and landing page](#login-form-flow-chart-and-landing-page)
+  - [Building the login page](#building-the-login-page)
+  - [Password visibility](#password-visibility)
+  - [Build and style a sign-up form](#build-and-style-a-sign-up-form)
+  - [Using tooltips for more information](#using-tooltips-for-more-information)
+  - [Password strength](#password-strength)
+  - [Login and registration form summary](#login-and-registration-form-summary)
 - [**5. A Booking Form: Flight, Hotel, Movie, and More**](#5-a-booking-form-flight-hotel-movie-and-more) (7 videos)
-  - What is a booking form?
-  - Creating custom radio buttons
-  - Making selections
-  - Dates and date pickers
-  - Using the stepper component
-  - Booking form fix for mobile
-  - Booking form summary
+  - [What is a booking form?](#what-is-a-booking-form)
+  - [Creating custom radio buttons](#creating-custom-radio-buttons)
+  - [Making selections](#making-selections)
+  - [Dates and date pickers](#dates-and-date-pickers)
+  - [Using the stepper component](#using-the-stepper-component)
+  - [Booking form fix for mobile](#booking-form-fix-for-mobile)
+  - [Booking form summary](#booking-form-summary)
 - [**6. Payment Forms**](#6-payment-forms) (12 videos)
-  - Organizing a payment form
-  - Flow and order
-  - Order summary overview
-  - Personal details summary
-  - Payment stepper
-  - Input mask
-  - Auto-populating city and state
-  - Shipping
-  - Handling payment, part 1
-  - Handling payment, part 2
-  - Handling payment, part 3
-  - Review and confirmation pages
+  - [Organizing a payment form](#organizing-a-payment-form)
+  - [Flow and order](#flow-and-order)
+  - [Order summary overview](#order-summary-overview)
+  - [Personal details summary](#personal-details-summary)
+  - [Payment stepper](#payment-stepper)
+  - [Input mask](#input-mask)
+  - [Auto-populating city and state](#auto-populating-city-and-state)
+  - [Shipping](#shipping)
+  - [Handling payment, part 1](#handling-payment-part-1)
+  - [Handling payment, part 2](#handling-payment-part-2)
+  - [Handling payment, part 3](#handling-payment-part-3)
+  - [Review and confirmation pages](#review-and-confirmation-pages)
 - [**7. Search Form and Filter Forms**](#7-search-form-and-filter-forms) (7 videos)
-  - Search forms: What are they?
-  - Tips for adding search
-  - Add and style a search component
-  - Build a growing search bar
-  - Touchscreen fix
-  - Mobile fix
-  - Displaying search results
+  - [Search forms: What are they?](#search-forms-what-are-they)
+  - [Tips for adding search](#tips-for-adding-search)
+  - [Add and style a search component](#add-and-style-a-search-component)
+  - [Build a growing search bar](#build-a-growing-search-bar)
+  - [Touchscreen fix](#touchscreen-fix)
+  - [Mobile fix](#mobile-fix)
+  - [Displaying search results](#displaying-search-results)
 - [**8. Accessibility**](#8-accessibility) (3 videos)
-  - Form accessibility
-  - Labeling and describing with ARIA
-  - Using ARIA
+  - [Form accessibility](#form-accessibility)
+  - [Labeling and describing with ARIA](#labeling-and-describing-with-aria)
+  - [Using ARIA](#using-aria)
 - [**9. Submission**](#9-submission) (5 videos)
-  - Client-side form validation
-  - CSS validation
-  - JavaScript validation
-  - Good error messages
-  - Success page
+  - [Client-side form validation](#client-side-form-validation)
+  - [CSS validation](#css-validation)
+  - [JavaScript validation](#javascript-validation)
+  - [Good error messages](#good-error-messages)
+  - [Success page](#success-page)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Welcome
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making your forms great
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980)
@@ -190,8 +190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (6), web (4), [[User Experience (UX)|User experience]] (1), [[HTML]] (1), css (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2), super (1)
 > **Env Vars:** html (1), css (1), zip (1)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is a  (1)
@@ -232,9 +232,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (5), ux (2), web (1), [[HTML]] (1), css (1)
 > **Env Vars:** ide (2), html (1), css (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -283,10 +283,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[Google]] (1), [[Forms]] (1)
 > **Exercise Files:** exercise files (4), download the (1), zip file (1)
 > **Env Vars:** css (4), zip (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
@@ -295,7 +295,7 @@ created: 2026-04-29
 
 ### 1. General Form Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How HTML forms work
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980)
@@ -358,8 +358,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (12), web (8), data (5), [[Forms]] (4), database (2)
 > **Env Vars:** html (12), css (1)
-> **Code Keywords:** require (1), case, (1), let (1), function (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -395,6 +395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[HTML]] (1), web (1), next (1)
 > **Env Vars:** url (2), html (1), http (1), post (1)
 > **API Endpoints:** get  (1), post  (1)
 > **Speakers:** - [instructor] (1)
@@ -518,9 +519,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), web (6), [[PHP]] (4), [[Forms]] (3), database (2)
 > **Env Vars:** post (13), url (7), http (4), php (3), html (1)
 > **API Endpoints:** post  (10), get  (7)
-> **Code Keywords:** let (4), case, (3), switch (1)
 > **CLI Commands:** php (4)
 > **Analogies:** such as (1), picture (1)
 > **File Paths:** process.php (1)
@@ -530,7 +531,7 @@ created: 2026-04-29
 
 ### 2. Form Elements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fieldsets and legends
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980)
@@ -643,7 +644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** css (3), hit (2), [[Forms]] (1), [[HTML]] (1)
 > **Env Vars:** css (3), html (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** select the (2)
@@ -776,8 +777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (3), hit (2), css (2), data (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (3), function (1), default, (1)
 > **Env Vars:** css (2), html (1)
 > **Analogies:** for example (1), compare this to (1)
 > **UI Navigation:** click on (1)
@@ -873,7 +874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), match. (1), this, (1), pass (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1), next (1)
 > **Env Vars:** html5 (3), html (2)
 > **UI Navigation:** dropdown (2), select the (1)
 > **Code Identifiers:** meal_choice (1)
@@ -1004,7 +1005,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), switch (2), let (1), this, (1), type, (1)
+> **Frameworks & Libraries:** next (3), [[User Experience (UX)|User experience]] (2), [[Search]] (2), [[Forms]] (1), database (1)
 > **Env Vars:** html5 (2), url (2), svg (1), pdf (1)
 > **UI Navigation:** checkbox (1), select the (1), switch to (1)
 > **CLI Commands:** make (1)
@@ -1091,7 +1092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), super (1), type, (1), continue (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), css (2), [[Forms]] (1), data (1), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (2), url (1)
 > **Definitions:** is a  (2)
@@ -1218,7 +1219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), class. (1), type, (1), this. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), feature (2), next (2), [[Search]] (2), data (1)
 > **Definitions:** is a  (3), means that (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1), find (1)
@@ -1306,7 +1307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), delete (1), continue (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **Definitions:** known as (1), means that (1), is an  (1)
 > **API Endpoints:** get  (2)
 > **CLI Commands:** make (1)
@@ -1525,7 +1526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), throw (2), this, (2), function (2), pass (1)
+> **Frameworks & Libraries:** css (8), next (5), [[JavaScript]] (4), [[Forms]] (2), data (1)
 > **Env Vars:** css (8), html5 (1), url (1)
 > **Definitions:** is a  (5)
 > **Documentation:** specification (1)
@@ -1685,8 +1686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), data (5), [[HTML]] (4), [[Forms]] (1), generic (1)
 > **Env Vars:** css (8), html (4)
-> **Code Keywords:** let (6), default, (2)
 > **CLI Commands:** make (5), node (1)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** go to (1)
@@ -1739,8 +1740,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), web (1), next (1), [[Forms]] (1)
 > **Definitions:** means that (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** html (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1748,7 +1749,7 @@ created: 2026-04-29
 
 ### 3. Form-Specific CSS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Form layout tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980)
@@ -1935,11 +1936,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (16), data (5), web (3), [[Representational State Transfer (REST)|Rest]] (2), [[User Experience (UX)|User experience]] (2)
 > **Definitions:** is a  (2), means that (2)
 > **Analogies:** for instance (2), such as (1), just like (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cvv (2)
-> **Code Keywords:** require (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2140,7 +2141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), finally, (2), default. (1), override (1), type. (1)
+> **Frameworks & Libraries:** css (10), [[HTML]] (3), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** css (10), html (3)
 > **Cross-References:** go back to (6)
 > **UI Navigation:** scroll down (1), checkbox (1)
@@ -2240,7 +2241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), switch (1), finally, (1)
+> **Frameworks & Libraries:** css (4), [[Forms]] (1), [[HTML]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** css (4), html (1)
 > **Definitions:** refers to (1), is a  (1)
@@ -2404,8 +2405,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[HTML]] (4), next (3), dom (1)
 > **Env Vars:** css (8), html (4), dom (1), html5 (1)
-> **Code Keywords:** let (4), class, (3), class. (2), switch (1), this, (1)
 > **UI Navigation:** checkbox (7), scroll down (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -2536,10 +2537,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), next (5), [[HTML]] (3), power (1), [[Search]] (1)
 > **UI Navigation:** checkbox (17), go to (2), click on (1), scroll down (1), toggle (1)
 > **Env Vars:** css (7), html (3)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (3), this. (1), this, (1)
 > **Code Identifiers:** code_snippets (2)
 > **Cross-References:** go back to (1), coming up (1)
 > **File Paths:** code_snippets.txt (1)
@@ -2664,8 +2665,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), next (3), [[HTML]] (3), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (7), html (3)
-> **Code Keywords:** let (3), type. (1), this, (1), for . (1), this. (1)
 > **UI Navigation:** checkbox (4), scroll down (1)
 > **Analogies:** just like (3), similar to (1)
 > **CLI Commands:** make (2), find (1)
@@ -2836,8 +2837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), next (3), [[HTML]] (2), [[Forms]] (2), functional (1)
 > **UI Navigation:** checkbox (14), toggle (8), click on (3), scroll down (2)
-> **Code Keywords:** switch (6), this, (3), let (2), function (2), this. (1)
 > **Env Vars:** css (9), html (2)
 > **CLI Commands:** make (3), find (1), sudo (1)
 > **Cross-References:** in the last (1), earlier in (1), go back to (1)
@@ -2964,7 +2965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (4), this. (2), switch (1), include, (1)
+> **Frameworks & Libraries:** css (10), [[HTML]] (2), [[Microsoft]] (2), [[Forms]] (1), next (1)
 > **Env Vars:** css (10), html (2)
 > **Cross-References:** go back to (5)
 > **UI Navigation:** click on (2), toggle (1), scroll down (1), select the (1)
@@ -3120,7 +3121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (4), require (1), switch (1), default, (1)
+> **Frameworks & Libraries:** css (12), [[JavaScript]] (10), next (7), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (12), html (1)
 > **UI Navigation:** scroll down (2), select the (2), go to (1), toggle (1)
 > **CLI Commands:** find (3), make (1)
@@ -3230,7 +3231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** css (5), [[HTML]] (2), next (2), [[Zoom]] (1)
 > **Env Vars:** css (5), html (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** select the (1)
@@ -3240,7 +3241,7 @@ created: 2026-04-29
 
 ### 4. Login and Registration Form
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The registration process
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980)
@@ -3373,8 +3374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (3), data (3), business (2), web (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Analogies:** for example (1), imagine (1)
 > **Code Identifiers:** recaptcha (1)
 > **Env Vars:** html5 (1)
@@ -3445,7 +3446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (2), this. (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -3553,7 +3554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), for. (1)
+> **Frameworks & Libraries:** css (7), generic (2), [[Forms]] (1), [[HTML]] (1)
 > **File Paths:** base.css (3), form.css (1), 0form.css (1)
 > **Prerequisites:** set up (2), setup (1)
 > **CLI Commands:** make (2)
@@ -3778,7 +3779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), class. (3), this. (2), this, (2)
+> **Frameworks & Libraries:** css (7), next (4), [[HTML]] (3), [[JavaScript]] (3), [[User Experience (UX)|User experience]] (2)
 > **Code Identifiers:** eyeicon (6), vistoggle (3), setattribute (1), classlist (1)
 > **Env Vars:** css (7), html (3)
 > **UI Navigation:** toggle (3), click on (2), go to (1), scroll down (1)
@@ -3852,7 +3853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (1), this. (1)
+> **Frameworks & Libraries:** css (4), next (2), [[HTML]] (1)
 > **Env Vars:** css (3), html (1)
 > **Code Identifiers:** signupform (2)
 > **File Paths:** form.css (1)
@@ -4146,7 +4147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), interface (2), default. (2), function (2), this, (1)
+> **Frameworks & Libraries:** css (11), [[JavaScript]] (8), [[HTML]] (7), next (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** css (11), html (7)
 > **UI Navigation:** scroll down (3), go to (3), click on (3), toggle (2), select the (1)
 > **Cross-References:** go back to (7)
@@ -4308,7 +4309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), pass (3), function (3), this, (2), switch (2)
+> **Frameworks & Libraries:** [[HTML]] (5), css (4), [[JavaScript]] (4), next (1)
 > **Env Vars:** html (5), css (4)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** checkpassword (2)
@@ -4352,13 +4353,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. A Booking Form: Flight, Hotel, Movie, and More
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a booking form?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980)
@@ -4473,8 +4475,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (4), [[HTML]] (2), next (2), css (2), [[Google]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (2), this. (1), finally, (1)
 > **Env Vars:** html (2), css (2)
 > **Analogies:** such as (2), similar to (1)
 > **Prerequisites:** set up (3)
@@ -4641,7 +4643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (3), this. (1), type, (1)
+> **Frameworks & Libraries:** [[HTML]] (4), css (4), next (4), hit (1)
 > **Env Vars:** html (4), css (4)
 > **UI Navigation:** toggle (1), click on (1), right-click (1)
 > **Definitions:** is a  (3)
@@ -4744,7 +4746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (1), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (6), css (6)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** select the (2), scroll down (1), click on (1)
 > **Speakers:** - [narrator] (1), - our (1), - ultimately (1)
@@ -4875,7 +4877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), default, (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** css (4), [[HTML]] (3), [[Hardware]] (2), feature (1), data (1)
 > **Env Vars:** css (4), html (3), html5 (2)
 > **CLI Commands:** make (4), find (2)
 > **Tools:** safari (5), firefox (1)
@@ -5121,7 +5123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3), this. (3), function (2), class. (1)
+> **Frameworks & Libraries:** css (12), [[HTML]] (5), next (4), [[JavaScript]] (2), data (1)
 > **Env Vars:** css (11), html (5), cdn (2)
 > **UI Navigation:** dropdown (2), click on (2), scroll down (1), go to (1), select the (1)
 > **Code Identifiers:** jquery (3), selectnum (2)
@@ -5321,7 +5323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (2), finally, (1), delete (1), override (1)
+> **Frameworks & Libraries:** css (13), next (4), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
 > **Env Vars:** css (11), html (1)
 > **CLI Commands:** make (9), find (1)
 > **UI Navigation:** scroll down (2), click on (2), toggle (1), select the (1)
@@ -5365,7 +5367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1)
+> **Frameworks & Libraries:** css (2), next (2), [[Forms]] (1), web (1)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -5373,7 +5375,7 @@ created: 2026-04-29
 
 ### 6. Payment Forms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing a payment form
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980)
@@ -5480,9 +5482,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (9), [[Microsoft Products|Products]] (2), [[Security]] (1), data (1), web (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** ssl (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -5556,7 +5558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Forms]] (2), data (1), [[Real-Time]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
@@ -5663,9 +5665,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[JavaScript]] (2), feature (1), [[E-Commerce]] (1), next (1)
 > **Env Vars:** css (4), grid (2), html (1), html5 (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** continue (3), let (2)
 > **Code Identifiers:** jquery (2)
 > **File Paths:** main.css (1)
 > **UI Navigation:** checkbox (1)
@@ -5819,8 +5821,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7), css (6), [[JavaScript]] (2), [[HTML]] (1)
 > **UI Navigation:** toggle (5), checkbox (2), scroll up (1), select the (1)
-> **Code Keywords:** let (3), finally, (2), new. (1), function (1), this. (1)
 > **Env Vars:** css (6), html (1)
 > **Code Identifiers:** jquery (3)
 > **Cross-References:** earlier in (2), we covered (1)
@@ -5877,8 +5879,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), next (1), feature (1)
 > **Env Vars:** css (6)
-> **Code Keywords:** this. (2), continue (1), static (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -6033,7 +6035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), match. (3), continue (1), switch (1)
+> **Frameworks & Libraries:** [[JavaScript]] (12), data (4), [[Search]] (3), next (2), [[HTML]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Code Identifiers:** personaldetails (1), jquery (1), getelementbyid (1), eventlistener (1)
 > **UI Navigation:** scroll down (3), switch to (1)
@@ -6193,7 +6195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), this. (2), case, (1), type, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), css (3), [[Forms]] (2), [[JavaScript]] (2), web (1)
 > **Env Vars:** html (3), css (3), html5 (1), json (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** scroll down (4)
@@ -6337,7 +6339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), type. (1), pass (1), this, (1)
+> **Frameworks & Libraries:** css (3), [[HTML]] (3), hit (1), [[JavaScript]] (1)
 > **Env Vars:** css (3), html (2), o6o8 (1)
 > **Code Identifiers:** parsefloat (3), jquery (2)
 > **UI Navigation:** scroll down (2), select the (1)
@@ -6505,7 +6507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), function (2), switch (1)
+> **Frameworks & Libraries:** css (3), [[JavaScript]] (3), next (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** css (3), html (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -6653,8 +6655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), css (5), next (3), [[Security]] (3), [[JavaScript]] (2)
 > **Env Vars:** html (6), css (5), cvv (3)
-> **Code Keywords:** let (3), this. (2), function (2), default, (1)
 > **Cross-References:** go back to (4), in the next (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** scroll down (2), click on (2)
@@ -6796,8 +6798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (12), [[JavaScript]] (6), [[HTML]] (4), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (12), html (3), add (2)
-> **Code Keywords:** let (5), function (1), class. (1), class, (1), default, (1)
 > **Code Identifiers:** paymentbox (2), targetbox (1), diffaddress (1)
 > **UI Navigation:** scroll down (2), toggle (1)
 > **File Paths:** payment.css (1), payment.html (1)
@@ -6918,7 +6920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (3), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[Forms]] (3), web (2), product (2), css (2), business (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** css (2), zip (1)
 > **Definitions:** is a  (2)
@@ -6930,7 +6932,7 @@ created: 2026-04-29
 
 ### 7. Search Form and Filter Forms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Search forms: What are they?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980)
@@ -6977,8 +6979,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (15), feature (4), [[Google]] (3), data (2), [[PHP]] (1)
 > **CLI Commands:** find (1), php (1)
-> **Code Keywords:** finally, (1), function (1)
 > **Analogies:** such as (2)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
@@ -7050,9 +7052,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (20)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** function (1)
 > **Best Practices:** rule of thumb (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
@@ -7266,7 +7268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), override (2), case, (2), class, (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (34), css (8), [[HTML]] (5), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (5), css (2), cdn (1)
 > **File Paths:** form.css (3), main.css (2)
 > **UI Navigation:** scroll down (2), go to (1), navigate to (1)
@@ -7562,7 +7564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), class, (2), this. (2), continue (1)
+> **Frameworks & Libraries:** [[Search]] (21), css (13), [[HTML]] (8), [[JavaScript]] (5), next (3)
 > **Env Vars:** css (10)
 > **Code Identifiers:** searchform (2), jquery (2), cleartimeout (1), resizetimer (1)
 > **UI Navigation:** click on (3), scroll down (1), select the (1), go to (1)
@@ -7634,9 +7636,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (9), [[JavaScript]] (4), web (3), application (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** interface (1)
 > **Tools:** safari (1)
 > **Speakers:** - [instructor] (1)
 
@@ -7767,9 +7769,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), css (4), [[Search]] (3), [[JavaScript]] (3), web (2)
 > **Env Vars:** html (4), css (4)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** let (2), continue (1), this, (1), function (1)
 > **UI Navigation:** scroll down (3), go to (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
@@ -7883,7 +7885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (1), require (1), type, (1), else. (1)
+> **Frameworks & Libraries:** [[Search]] (16), data (3), [[Microsoft Products|Products]] (3), next (1), [[E-Commerce]] (1)
 > **Analogies:** for example (2), picture (2), such as (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
@@ -7894,7 +7896,7 @@ created: 2026-04-29
 
 ### 8. Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Form accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980)
@@ -8003,8 +8005,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (17), web (9), business (1), data (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** for. (1)
 > **URLs:** [w3.org](https://w3.org) (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -8082,6 +8084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (9), web (2), [[Forms]] (2)
 > **Env Vars:** aria (17), html (9)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -8245,7 +8248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (3), type. (1), pass (1), delete (1)
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[HTML]] (5), css (2), [[Forms]] (1), [[Programming]] (1)
 > **Env Vars:** aria (8), html (5), css (2)
 > **UI Navigation:** checkbox (12), click on (1), scroll down (1), toggle (1)
 > **Code Identifiers:** addcontact (2), chklabel (2), chkpref (2)
@@ -8257,7 +8260,7 @@ created: 2026-04-29
 
 ### 9. Submission
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Client-side form validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980)
@@ -8326,8 +8329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[JavaScript]] (6), [[User Experience (UX)|User experience]] (2), [[Forms]] (2), web (2)
 > **Definitions:** is called (4), is an  (1)
-> **Code Keywords:** require (1), type. (1), let (1)
 > **Env Vars:** html5 (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -8502,7 +8505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (3), function (2), this. (1), throw (1)
+> **Frameworks & Libraries:** css (9), [[HTML]] (4), [[Forms]] (2), [[JavaScript]] (2), power (1)
 > **Env Vars:** css (9), html (4)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -8646,7 +8649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), type, (1), function (1), from. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (10), css (8), [[User Experience (UX)|User experience]] (2), [[HTML]] (2), next (1)
 > **Env Vars:** css (8), html (2)
 > **Prerequisites:** set up (2), setup (1)
 > **Analogies:** similar to (2)
@@ -8738,8 +8741,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (4), next (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** case, (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** be careful (1)
@@ -8772,6 +8775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), next (1), web (1), data (1), [[AJAX]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ajax (1)
 > **Speakers:** - [narrator] (1)
@@ -8779,7 +8783,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980)
@@ -8862,9 +8866,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Forms]] (4), [[User Experience (UX)|User experience]] (2), ux (2), data (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (2)
-> **Code Keywords:** type. (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [emily] (1)
 

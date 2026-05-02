@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Resume.md)
@@ -47,25 +47,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Creating a marketplace GitHub action
-  - Using the slides
+  - [Creating a marketplace GitHub action](#creating-a-marketplace-github-action)
+  - [Using the slides](#using-the-slides)
 - [**1. Action Basics**](#1-action-basics) (4 videos)
-  - How actions work
-  - Creating a repo and GitHub Pages
-  - Python to process YAML with Codespaces
-  - Finishing up the RSS feed
+  - [How actions work](#how-actions-work)
+  - [Creating a repo and GitHub Pages](#creating-a-repo-and-github-pages)
+  - [Python to process YAML with Codespaces](#python-to-process-yaml-with-codespaces)
+  - [Finishing up the RSS feed](#finishing-up-the-rss-feed)
 - [**2. Publishing a Marketplace Action**](#2-publishing-a-marketplace-action) (6 videos)
-  - Creating a workflow with existing actions
-  - Creating a generator repo Dockerfile
-  - Creating an entry point
-  - Crafting an action.yml file
-  - Testing your actions
-  - Creating a release
+  - [Creating a workflow with existing actions](#creating-a-workflow-with-existing-actions)
+  - [Creating a generator repo Dockerfile](#creating-a-generator-repo-dockerfile)
+  - [Creating an entry point](#creating-an-entry-point)
+  - [Crafting an action.yml file](#crafting-an-actionyml-file)
+  - [Testing your actions](#testing-your-actions)
+  - [Creating a release](#creating-a-release)
 - [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a marketplace GitHub action
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980)
@@ -96,8 +96,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), docker (1)
-> **Code Keywords:** let (1), this. (1)
 > **Env Vars:** yaml (1), xml (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (1)
@@ -126,6 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** slides_practicalactions (1)
@@ -135,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Action Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How actions work
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980)
@@ -216,10 +217,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (12), [[Python (Programming Language)|Python]] (6), cloud (2), [[LinkedIn]] (2), [[Git]] (1)
 > **CLI Commands:** python (6), make (3), find (3), docker (2), git (1)
 > **Env Vars:** xml (5), rss (3), yaml (3), url (2), html (1)
 > **Tools:** github (12), command line (1), bash (1)
-> **Code Keywords:** let (2), super (2), static (1), class. (1), this. (1)
 > **Definitions:** is a  (6)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -341,10 +342,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (13), hit (4), [[LinkedIn]] (2), [[HTML]] (1)
 > **Env Vars:** readme (10), url (4), jpg (1), html (1), mp3 (1)
 > **Tools:** github (13)
 > **UI Navigation:** go to (5), click on (4), scroll down (1)
-> **Code Keywords:** let (3), this, (1), delete (1)
 > **Documentation:** the readme (4), the docs (1)
 > **File Paths:** feed.yaml (3), readme.md (1)
 > **CLI Commands:** make (3), find (1)
@@ -547,8 +548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (3), [[Codespaces]] (2), [[GitHub]] (1), feature (1)
 > **Env Vars:** xml (7), yaml (6), rss (6), json (1), utf (1)
-> **Code Keywords:** module (7), let (6), this. (3), function (1), this, (1)
 > **Code Identifiers:** xml_tree (5), rss_element (4), yaml_data (3), safe_load (2), channel_element (2)
 > **CLI Commands:** python (5), make (4), pip (2)
 > **File Paths:** feed.py (3), podcast.xml (2), feed.yaml (1)
@@ -767,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** yaml (9), xml (4), rss (4), url (4), mp3 (1)
-> **Code Keywords:** let (11), pub (2), this. (2)
 > **Code Identifiers:** itunes (8)
 > **Analogies:** similar to (3), kind of like (1), it's like (1), just like (1)
 > **CLI Commands:** make (2), python (2)
@@ -779,7 +780,7 @@ created: 2026-04-29
 
 ### 2. Publishing a Marketplace Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a workflow with existing actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980)
@@ -1078,10 +1079,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (13), [[Python (Programming Language)|Python]] (13), [[Git]] (10), hit (6), [[Search]] (3)
 > **CLI Commands:** python (13), git (10), pip (5), make (4), find (1)
 > **Env Vars:** xml (9), yaml (9), pip (5), url (1), readme (1)
 > **Tools:** github (13), terminal (2)
-> **Code Keywords:** let (5), this, (2), module (2), pass (2), finally, (1)
 > **Prerequisites:** set up (6), install (4), setup (2)
 > **UI Navigation:** go to (4), click on (3)
 > **Analogies:** for example (4), similar to (1), kind of like (1), just like (1)
@@ -1230,8 +1231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Ubuntu]] (4), application (3), [[GitHub]] (2), cloud (2)
 > **CLI Commands:** python (5), docker (5), make (3), apt (3), git (2)
-> **Code Keywords:** this, (5), this. (3), finally, (2), let (1), new, (1)
 > **File Paths:** feed.py (5), entrypoint.sh (3), usr/bin/feed.py (1)
 > **Prerequisites:** install (6)
 > **Env Vars:** yaml (2), readme (1), mit (1), entrypoint (1)
@@ -1318,10 +1319,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), [[Python (Programming Language)|Python]] (5), next (2), hit (1), generic (1)
 > **CLI Commands:** git (7), python (5), make (3), docker (2)
 > **Tools:** terminal (2), bash (2), github (2), command line (1)
 > **File Paths:** entrypoint.sh (1), usr/bin/feed.py (1), feed.py (1), usr/bin.py (1), podcast.xml (1)
-> **Code Keywords:** let (1), this, (1), continue (1)
 > **Env Vars:** github_actor (1), input_email (1)
 > **Versions:** python 3 (2)
 > **Cross-References:** in the next (1)
@@ -1386,8 +1387,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (2), next (1)
 > **CLI Commands:** make (4), docker (4), git (2), find (1)
-> **Code Keywords:** let (2)
 > **Tools:** github (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
@@ -1548,7 +1549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (1), this, (1)
+> **Frameworks & Libraries:** hit (3), [[GitHub]] (1), [[Git]] (1)
 > **File Paths:** entrypoint.sh (5), main.yml (2), feed.yaml (1)
 > **CLI Commands:** make (4), find (1), chmod (1), ls (1), git (1)
 > **UI Navigation:** go to (3), click on (3), open the (1)
@@ -1674,9 +1675,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (2), hit (2), [[Python (Programming Language)|Python]] (2), [[Forms]] (1)
 > **Env Vars:** url (2), yaml (2), xml (1), rss (1), readme (1)
 > **CLI Commands:** git (2), python (2), make (1)
-> **Code Keywords:** let (3), this, (1)
 > **UI Navigation:** click on (3), dropdown (1)
 > **Tools:** github (3)
 > **File Paths:** feed.yaml (1), main.yml (1)
@@ -1686,7 +1687,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Resources

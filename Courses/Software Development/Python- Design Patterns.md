@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/design-patterns
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python-%20Design%20Patterns.md)
@@ -50,64 +50,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Explore design patterns
-  - What you should know
-  - CoderPad placeholder video
+  - [Explore design patterns](#explore-design-patterns)
+  - [What you should know](#what-you-should-know)
+  - [CoderPad placeholder video](#coderpad-placeholder-video)
 - [**1. Understanding Design Patterns**](#1-understanding-design-patterns) (6 videos)
-  - What is a design pattern?
-  - Types of design patterns
-  - Understanding object-oriented programming
-  - Working with inheritance and polymorphism
-  - Understanding pattern context
-  - Working with pattern language
+  - [What is a design pattern?](#what-is-a-design-pattern)
+  - [Types of design patterns](#types-of-design-patterns)
+  - [Understanding object-oriented programming](#understanding-object-oriented-programming)
+  - [Working with inheritance and polymorphism](#working-with-inheritance-and-polymorphism)
+  - [Understanding pattern context](#understanding-pattern-context)
+  - [Working with pattern language](#working-with-pattern-language)
 - [**2. Creational Patterns**](#2-creational-patterns) (12 videos)
-  - Factory
-  - Factory example
-  - Solution: Factory
-  - Abstract Factory
-  - Abstract Factory example
-  - Singleton
-  - Singleton example
-  - Solution: Singleton
-  - Builder
-  - Builder example
-  - Prototype
-  - Prototype example
+  - [Factory](#factory)
+  - [Factory example](#factory-example)
+  - [Solution: Factory](#solution-factory)
+  - [Abstract Factory](#abstract-factory)
+  - [Abstract Factory example](#abstract-factory-example)
+  - [Singleton](#singleton)
+  - [Singleton example](#singleton-example)
+  - [Solution: Singleton](#solution-singleton)
+  - [Builder](#builder)
+  - [Builder example](#builder-example)
+  - [Prototype](#prototype)
+  - [Prototype example](#prototype-example)
 - [**3. Structural Patterns**](#3-structural-patterns) (12 videos)
-  - Decorator
-  - Decorator example
-  - Solution: Decorator
-  - Proxy
-  - Proxy example
-  - Adapter
-  - Adapter example
-  - Composite
-  - Composite example
-  - Solution: Composite
-  - Bridge
-  - Bridge example
+  - [Decorator](#decorator)
+  - [Decorator example](#decorator-example)
+  - [Solution: Decorator](#solution-decorator)
+  - [Proxy](#proxy)
+  - [Proxy example](#proxy-example)
+  - [Adapter](#adapter)
+  - [Adapter example](#adapter-example)
+  - [Composite](#composite)
+  - [Composite example](#composite-example)
+  - [Solution: Composite](#solution-composite)
+  - [Bridge](#bridge)
+  - [Bridge example](#bridge-example)
 - [**4. Behavioral Patterns**](#4-behavioral-patterns) (12 videos)
-  - Observer
-  - Observer example
-  - Solution: Observer
-  - Visitor
-  - Visitor Example
-  - Iterator
-  - Iterator example
-  - Strategy
-  - Strategy Example
-  - Solution: Strategy
-  - Chain of Responsibility
-  - Chain of Responsibility example
+  - [Observer](#observer)
+  - [Observer example](#observer-example)
+  - [Solution: Observer](#solution-observer)
+  - [Visitor](#visitor)
+  - [Visitor Example](#visitor-example)
+  - [Iterator](#iterator)
+  - [Iterator example](#iterator-example)
+  - [Strategy](#strategy)
+  - [Strategy Example](#strategy-example)
+  - [Solution: Strategy](#solution-strategy)
+  - [Chain of Responsibility](#chain-of-responsibility)
+  - [Chain of Responsibility example](#chain-of-responsibility-example)
 - [**5. Design Best Practices**](#5-design-best-practices) (2 videos)
-  - Consistency
-  - Programmer's mindset
+  - [Consistency](#consistency)
+  - [Programmer's mindset](#programmers-mindset)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980)
@@ -128,8 +128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Engineering]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - reuse (1)
 
 #### What you should know
@@ -155,6 +155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Tools:** sublime (1)
 > **Definitions:** is a  (1)
@@ -225,7 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), type, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **Code Identifiers:** show_expected_result (1), show_hints (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -234,7 +235,7 @@ created: 2026-04-29
 
 ### 1. Understanding Design Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980)
@@ -281,7 +282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (11), [[Software Development]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), application (1)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [narrator] (1)
@@ -333,6 +334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (5), functional (5)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -386,8 +388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (6), [[Design Patterns]] (2), [[Software Development]] (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** require (1), let (1)
 > **CLI Commands:** python (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you need to have (1)
@@ -438,7 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), override (2), class, (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Design Patterns]] (1)
 > **CLI Commands:** cat (4)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -476,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (3), functional (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -525,12 +527,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **Speakers:** - [tutor] (1)
 
 
 ### 2. Creational Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Factory
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/factory?u=76281980)
@@ -555,6 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -691,7 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class. (6), class, (4), function (1), this, (1)
+> **Frameworks & Libraries:** data (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** cat (17), python (1)
 > **Code Identifiers:** get_pet (9)
 > **UI Navigation:** go to (2), select the (1), click on (1)
@@ -742,7 +746,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try, (1)
 > **CLI Commands:** cat (2)
 > **Code Identifiers:** get_pet (2)
 > **Best Practices:** the key is (1)
@@ -779,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (9), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** cat (5), python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -870,7 +873,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), abstract (5), self (3), return, (2), return. (1)
+> **Frameworks & Libraries:** next (4), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** show_pet (3), pet_factory (2), get_pet (2), pet_food (1), get_food (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -908,9 +911,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (2), short for (1)
-> **Code Keywords:** class. (1), let (1)
 > **Speakers:** - [presenter] (1)
 
 #### Singleton example
@@ -1008,7 +1011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (8), let (6), class, (4), class. (1), function (1)
+> **Frameworks & Libraries:** management (2), data (1), next (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** http (3), snmp (2)
 > **CLI Commands:** make (2), python (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1070,7 +1073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), interface (1), this, (1), return. (1)
+> **Frameworks & Libraries:** ux (1), [[User Experience (UX)|User experience]] (1), api (1), application (1), [[Programming]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1112,7 +1115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (4), implements (1)
+> **Frameworks & Libraries:** product (3), [[Programming]] (1)
 > **Definitions:** is a  (1), we call this (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1207,7 +1210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), self (7), abstract (3), class, (3), finally, (2)
+> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** get_car (4), add_engine (3), construct_car (3), create_new_car (1), add_model (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** go back to (1)
@@ -1240,7 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), abstract (1)
+> **Frameworks & Libraries:** power (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **CLI Commands:** python (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
@@ -1370,7 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), self (4), delete (3), class. (2), case, (1)
+> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** register_object (2), unregister_object (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** refers to (1)
@@ -1380,7 +1383,7 @@ created: 2026-04-29
 
 ### 3. Structural Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Decorator
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980)
@@ -1405,9 +1408,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), feature (1)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1482,7 +1485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (9), case, (2), pass (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2), [[HTML]] (1)
 > **Code Identifiers:** hello_world (6), make_blink (2)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** python (2)
@@ -1532,8 +1535,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), power (1), [[Design Patterns]] (1), next (1)
 > **Code Identifiers:** make_blink (2), make_bold (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** html (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1662,7 +1665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class. (6), self (3), case, (1)
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (1)
@@ -1689,7 +1692,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2)
 > **Speakers:** - [instructor] (1)
 
 #### Adapter example
@@ -1783,7 +1785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), self (4), class. (2), case, (2), this, (1)
+> **Frameworks & Libraries:** generic (7), next (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** speak_korean (3), speak_english (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1)
@@ -1820,7 +1822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), abstract (1), finally, (1)
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1903,7 +1905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), abstract (4), class, (2), self (2)
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1941,7 +1943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** append_child (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1969,7 +1971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1)
+> **Frameworks & Libraries:** parallel (1)
 > **Speakers:** - [instructor] (1)
 
 #### Bridge example
@@ -2057,7 +2059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), let (4), def. (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** api (3), next (1)
 > **Code Identifiers:** draw_circle (4), drawing_api (2)
 > **Env Vars:** api (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -2066,7 +2068,7 @@ created: 2026-04-29
 
 ### 4. Behavioral Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Observer
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/observer?u=76281980)
@@ -2089,7 +2091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2), interface (1), class. (1)
+> **Frameworks & Libraries:** power (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2195,7 +2197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (6), self (5), class. (3), let (3), class, (1)
+> **Frameworks & Libraries:** next (6)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1)
@@ -2236,7 +2238,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Visitor
@@ -2261,7 +2262,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** hvac (2)
-> **Code Keywords:** class. (1)
 > **Speakers:** - [presenter] (1)
 
 #### Visitor Example
@@ -2369,7 +2369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), let (5), self (3), abstract (3), case, (2)
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** work_on_hvac (3), hvac_specialist (3), work_on_electricity (3)
 > **Definitions:** is a  (4), is called (2), is an  (1)
 > **Env Vars:** hvac (5)
@@ -2405,8 +2405,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [narrator] (1)
 
 #### Iterator example
@@ -2490,7 +2490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), case, (1), yield (1), try. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** python (3)
 > **Code Identifiers:** count_to (2), numbers_in_german (1)
@@ -2514,9 +2514,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** module (1)
 > **Speakers:** - [narrator] (1)
 
 #### Strategy Example
@@ -2628,7 +2628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), module (5), let (3), case, (2), self (2)
+> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (2), feature (1)
 > **Code Identifiers:** strategy_one (3), strategy_two (1)
 > **CLI Commands:** python (2), make (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -2696,7 +2696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (2), switch (1), if, (1), return, (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** strategy_finger (2), strategy_face (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2718,9 +2718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** module (1)
 > **Speakers:** - [instructor] (1)
 
 #### Chain of Responsibility example
@@ -2810,7 +2810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (3), class, (2), abstract (1), else, (1)
+> **Frameworks & Libraries:** next (5)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1)
@@ -2819,7 +2819,7 @@ created: 2026-04-29
 
 ### 5. Design Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Consistency
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980)
@@ -2856,6 +2856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Engineering]] (2), [[Software Development]] (1), [[Software Architecture]] (1), [[Security]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
@@ -2903,6 +2904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (9), power (1)
 > **Definitions:** refers to (2), is a  (1)
 > **Analogies:** such as (3)
 > **Warnings:** keep in mind (1)
@@ -2911,7 +2913,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/next-steps?u=76281980)
@@ -2928,6 +2930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Python (Programming Language)|Python]] (2), [[Accessible Design]] (1), next (1)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)

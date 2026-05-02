@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/8%20Things%20You%20Must%20Know%20in%20Python.md)
@@ -48,31 +48,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Eight things to know in Python
-  - CoderPad tour
+  - [Eight things to know in Python](#eight-things-to-know-in-python)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. Understanding the Python any() and all() Methods**](#1-understanding-the-python-any-and-all-methods) (3 videos)
-  - Python all() function
-  - Python any() function
-  - Solution: any() and all()
+  - [Python all() function](#python-all-function)
+  - [Python any() function](#python-any-function)
+  - [Solution: any() and all()](#solution-any-and-all)
 - [**2. Using the Python enumerate() and zip() Method**](#2-using-the-python-enumerate-and-zip-method) (3 videos)
-  - Python enumerate() function
-  - Python zip() function
-  - Solution: enumerate() and zip()
+  - [Python enumerate() function](#python-enumerate-function)
+  - [Python zip() function](#python-zip-function)
+  - [Solution: enumerate() and zip()](#solution-enumerate-and-zip)
 - [**3. Understanding the Python reversed() Method**](#3-understanding-the-python-reversed-method) (2 videos)
-  - Python reversed() function
-  - Solution: reversed()
+  - [Python reversed() function](#python-reversed-function)
+  - [Solution: reversed()](#solution-reversed)
 - [**4. Working with Python min() and max()**](#4-working-with-python-min-and-max) (2 videos)
-  - Python min() and max() function
-  - Solution: min() and max()
+  - [Python min() and max() function](#python-min-and-max-function)
+  - [Solution: min() and max()](#solution-min-and-max)
 - [**5. Understanding and Using the Python sorted() Method**](#5-understanding-and-using-the-python-sorted-method) (2 videos)
-  - Python sorted() function
-  - Solution: sorted()
+  - [Python sorted() function](#python-sorted-function)
+  - [Solution: sorted()](#solution-sorted)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Eight things to know in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/eight-things-to-know-in-python?u=76281980)
@@ -99,8 +99,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Programming]] (2), [[Java]] (1), ai (1)
 > **CLI Commands:** python (9)
-> **Code Keywords:** let (1)
 > **Speakers:** - [jonathan] (1)
 
 #### CoderPad tour
@@ -176,7 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case. (1), pass (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** contains_punctuation (1), show_expected_result (1), show_hints (1)
 > **UI Navigation:** click on (1), select the (1)
@@ -188,7 +188,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Python any() and all() Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python all() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-all-function?u=76281980)
@@ -273,7 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (8), this. (3), pass (1), else. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** repl (4), rgb (4)
 > **CLI Commands:** python (3), make (2)
 > **File Paths:** all.py (1)
@@ -331,7 +331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (10), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (1)
 > **CLI Commands:** python (2), make (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **File Paths:** any.py (1)
@@ -368,7 +368,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), module (1), case, (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** input_str (1)
 > **Speakers:** - [instructor] (1)
@@ -377,7 +376,7 @@ created: 2026-04-29
 
 ### 2. Using the Python enumerate() and zip() Method
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python enumerate() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-enumerate-function?u=76281980)
@@ -430,7 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), default, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (1)
 > **File Paths:** enumerate.py (2)
 > **Definitions:** is a  (1)
@@ -537,7 +536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (9), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), unzip (1)
 > **File Paths:** zip.py (3)
 > **Code Identifiers:** zip_longest (3)
@@ -606,7 +605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), require (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** running_sum (2), annual_births_average (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is called (1)
@@ -616,7 +615,7 @@ created: 2026-04-29
 
 ### 3. Understanding the Python reversed() Method
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python reversed() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-reversed-function?u=76281980)
@@ -731,7 +730,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (2), this, (2), new. (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (1)
 > **CLI Commands:** python (7)
 > **Code Identifiers:** reversed_countries (3)
 > **Definitions:** is a  (2)
@@ -778,7 +777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), match, (1), this. (1), pass (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -787,7 +786,7 @@ created: 2026-04-29
 
 ### 4. Working with Python min() and max()
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python min() and max() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-min-and-max-function?u=76281980)
@@ -896,7 +895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), lambda (4), let (3), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (2)
 > **CLI Commands:** python (4), find (2)
 > **Code Identifiers:** get_population (6)
 > **Definitions:** is a  (1), means that (1)
@@ -970,7 +969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (7), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (17), next (1)
 > **Code Identifiers:** score_word (4), get_scrabble_dictionary (2), remove_punctuation (2)
 > **Definitions:** is a  (2), defined as (1), means that (1)
 > **CLI Commands:** make (1), find (1)
@@ -980,7 +979,7 @@ created: 2026-04-29
 
 ### 5. Understanding and Using the Python sorted() Method
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python sorted() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-sorted-function?u=76281980)
@@ -1097,7 +1096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (11), lambda (3), pass (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1)
 > **Code Identifiers:** get_population (5), country_list (3)
 > **CLI Commands:** python (2), make (1), find (1)
 > **File Paths:** sorted.py (2)
@@ -1199,7 +1198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (8), lambda (3), pass (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
 > **Code Identifiers:** sort_country (2), country_list (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -1208,7 +1207,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980)
@@ -1225,6 +1224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[PySpark]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** python (2), apache (1), docker (1)
 > **Speakers:** - [instructor] (1)
 

@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/angular
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Angular%20Essential%20Training.md)
@@ -45,65 +45,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - More than just a framework
-  - What you should know
-  - Using the example code and codespaces
-  - Application overview
+  - [More than just a framework](#more-than-just-a-framework)
+  - [What you should know](#what-you-should-know)
+  - [Using the example code and codespaces](#using-the-example-code-and-codespaces)
+  - [Application overview](#application-overview)
 - [**1. Overview of Angular**](#1-overview-of-angular) (5 videos)
-  - History and ownership
-  - Release and support cycles
-  - Angular licensing
-  - Out of the box
-  - Workflow and tooling
+  - [History and ownership](#history-and-ownership)
+  - [Release and support cycles](#release-and-support-cycles)
+  - [Angular licensing](#angular-licensing)
+  - [Out of the box](#out-of-the-box)
+  - [Workflow and tooling](#workflow-and-tooling)
 - [**2. Core Building Blocks**](#2-core-building-blocks) (8 videos)
-  - Angular decorators
-  - Angular modules
-  - Angular component decorator
-  - Angular component classes
-  - Reference variables and data binding in Angular templates
-  - Structural directives in Angular templates
-  - Angular standalone components
-  - Angular without ZoneJS (Zoneless)
+  - [Angular decorators](#angular-decorators)
+  - [Angular modules](#angular-modules)
+  - [Angular component decorator](#angular-component-decorator)
+  - [Angular component classes](#angular-component-classes)
+  - [Reference variables and data binding in Angular templates](#reference-variables-and-data-binding-in-angular-templates)
+  - [Structural directives in Angular templates](#structural-directives-in-angular-templates)
+  - [Angular standalone components](#angular-standalone-components)
+  - [Angular without ZoneJS (Zoneless)](#angular-without-zonejs-zoneless)
 - [**3. Common Patterns**](#3-common-patterns) (7 videos)
-  - Overview of Angular pipes
-  - Using built-in Angular pipes
-  - Using custom Angular pipes
-  - Angular services and the injectable decorator
-  - Angular service classes
-  - Angular directive decorator
-  - Angular directive classes
+  - [Overview of Angular pipes](#overview-of-angular-pipes)
+  - [Using built-in Angular pipes](#using-built-in-angular-pipes)
+  - [Using custom Angular pipes](#using-custom-angular-pipes)
+  - [Angular services and the injectable decorator](#angular-services-and-the-injectable-decorator)
+  - [Angular service classes](#angular-service-classes)
+  - [Angular directive decorator](#angular-directive-decorator)
+  - [Angular directive classes](#angular-directive-classes)
 - [**4. Coding Essentials**](#4-coding-essentials) (7 videos)
-  - Angular project configuration
-  - Application environments and build targets
-  - Injecting dependencies using dependency injection
-  - Declaring dependencies using dependency injection
-  - Providing dependencies using dependency injection
-  - Angular change detection strategies
-  - Angular component lifecycle hooks
+  - [Angular project configuration](#angular-project-configuration)
+  - [Application environments and build targets](#application-environments-and-build-targets)
+  - [Injecting dependencies using dependency injection](#injecting-dependencies-using-dependency-injection)
+  - [Declaring dependencies using dependency injection](#declaring-dependencies-using-dependency-injection)
+  - [Providing dependencies using dependency injection](#providing-dependencies-using-dependency-injection)
+  - [Angular change detection strategies](#angular-change-detection-strategies)
+  - [Angular component lifecycle hooks](#angular-component-lifecycle-hooks)
 - [**5. Routing and Navigation**](#5-routing-and-navigation) (6 videos)
-  - Defining routes for Angular Router
-  - Using routes with Angular's Router module
-  - Lazy loading Angular routes
-  - Dynamic route parameters in Angular routes
-  - Preloading strategies for Angular Router
-  - Using Angular Router with Angular templates
+  - [Defining routes for Angular Router](#defining-routes-for-angular-router)
+  - [Using routes with Angular's Router module](#using-routes-with-angulars-router-module)
+  - [Lazy loading Angular routes](#lazy-loading-angular-routes)
+  - [Dynamic route parameters in Angular routes](#dynamic-route-parameters-in-angular-routes)
+  - [Preloading strategies for Angular Router](#preloading-strategies-for-angular-router)
+  - [Using Angular Router with Angular templates](#using-angular-router-with-angular-templates)
 - [**6. Reactive Programming**](#6-reactive-programming) (5 videos)
-  - Angular signals and the Signal function
-  - Angular signals and the Computed function
-  - Angular signals and the Effect function
-  - Angular's async pipe
-  - RxJS and Reactive programming in Angular
+  - [Angular signals and the Signal function](#angular-signals-and-the-signal-function)
+  - [Angular signals and the Computed function](#angular-signals-and-the-computed-function)
+  - [Angular signals and the Effect function](#angular-signals-and-the-effect-function)
+  - [Angular's async pipe](#angulars-async-pipe)
+  - [RxJS and Reactive programming in Angular](#rxjs-and-reactive-programming-in-angular)
 - [**7. Testing and Debugging**](#7-testing-and-debugging) (4 videos)
-  - Overview of unit testing
-  - Unit testing without dependency injection
-  - Unit testing with dependency injection
-  - Static code linting in Angular
+  - [Overview of unit testing](#overview-of-unit-testing)
+  - [Unit testing without dependency injection](#unit-testing-without-dependency-injection)
+  - [Unit testing with dependency injection](#unit-testing-with-dependency-injection)
+  - [Static code linting in Angular](#static-code-linting-in-angular)
 - [**Conclusion**](#conclusion) (1 videos)
-  - A deeper look at Angular
+  - [A deeper look at Angular](#a-deeper-look-at-angular)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More than just a framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/more-than-just-a-framework?u=76281980)
@@ -126,7 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Angular]] (5), application (1)
 > **Speakers:** - maybe (1)
 
 #### What you should know
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (4), css (2), [[npm]] (2), node (2), [[HTML]] (1)
 > **CLI Commands:** npm (2), node (2)
 > **Env Vars:** css (2), html (1), ntml (1)
 > **Speakers:** - [instructor] (1)
@@ -253,9 +254,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Codespaces]] (6), power (2), [[npm]] (2), [[Angular]] (1)
 > **Tools:** github (9), visual studio (2), vs code (1), terminal (1)
 > **CLI Commands:** make (5), npm (2), find (1)
-> **Code Keywords:** for. (1), default, (1), interface (1), let (1), public (1)
 > **Env Vars:** url (2), cli (1)
 > **Exercise Files:** clone the repo (2), exercise files (1)
 > **UI Navigation:** dropdown (1), click on (1)
@@ -379,8 +380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (7), application (5), data (4), game (3), css (3)
 > **UI Navigation:** click on (4), go to (3), navigate to (1), open the (1)
-> **Code Keywords:** let (3), static (2), module (1), override (1), finally, (1)
 > **File Paths:** index.html (1), main.ts (1), styles.css (1), players.json (1), messages.json (1)
 > **Env Vars:** css (2), url (1), npm (1), html (1)
 > **Cross-References:** later in (2), earlier in (1)
@@ -391,7 +392,7 @@ created: 2026-04-29
 
 ### 1. Overview of Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### History and ownership
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980)
@@ -422,8 +423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (10), [[Google]] (4), [[HTML]] (3), web (2), [[JavaScript]] (2)
 > **Env Vars:** html (3)
-> **Code Keywords:** public (1)
 > **Speakers:** - every (1)
 
 #### Release and support cycles
@@ -481,6 +482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (11), [[JavaScript]] (1), [[Security]] (1), next (1), [[npm]] (1)
 > **Env Vars:** sem (2), ver (2), npm (1), cli (1)
 > **CLI Commands:** npm (1), make (1)
 > **Warnings:** keep in mind (1)
@@ -535,8 +537,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), application (1), [[Angular]] (1), open-source (1)
 > **Env Vars:** mit (7), x11 (1), gnu (1)
-> **Code Keywords:** public (2), else. (1), require (1), for. (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
@@ -577,6 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (2), web (1), [[JavaScript]] (1), dom (1)
 > **Env Vars:** html (2), dom (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - the (1)
@@ -632,10 +635,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (14), [[CLI]] (3), [[Angular CLI]] (1), [[Unit Testing]] (1), [[Debugging]] (1)
 > **Env Vars:** cli (4), mit (1), ide (1)
 > **Tools:** command line (3), visual studio (1)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** finally, (2)
 > **Versions:** version 15 (2)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** boilerplate (1)
@@ -644,7 +647,7 @@ created: 2026-04-29
 
 ### 2. Core Building Blocks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Angular decorators
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980)
@@ -697,6 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (11), [[Metadata]] (1), application (1), data (1), dom (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** cli (1)
 > **Cross-References:** later in (1)
@@ -816,7 +820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (27), case, (2), new, (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Angular]] (16), application (4), [[GitHub]] (1), [[Codespaces]] (1), [[Angular CLI]] (1)
 > **Definitions:** is an  (4), is called (2), we call this (1)
 > **CLI Commands:** make (3), find (1)
 > **File Paths:** app.module.ts (1), module.ts (1), main.ts (1)
@@ -922,10 +926,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (10), css (8), [[HTML]] (7), dom (4), [[Representational State Transfer (REST)|Rest]] (3)
 > **Env Vars:** css (8), html (7), url (7), dom (4), cli (1)
 > **Exercise Files:** template (13)
 > **UI Navigation:** click on (2), navigate to (1), go to (1), open the (1)
-> **Code Keywords:** let (1), delete (1), this. (1)
 > **Cross-References:** earlier in (2), later in (1)
 > **Definitions:** is an  (2), is a  (1)
 > **File Paths:** players.component.ts (1), component.ts (1)
@@ -1012,7 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), protected (2), class. (2), private (2), class, (1)
+> **Frameworks & Libraries:** [[Angular]] (10), data (3), [[GitHub]] (1), [[HTML]] (1), [[Programming]] (1)
 > **Cross-References:** later in (4), earlier in (2)
 > **UI Navigation:** go to (2), click on (1), open the (1)
 > **Exercise Files:** template (3), exercise files (1)
@@ -1116,9 +1120,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (12), [[HTML]] (8), data (5), css (4), dom (4)
 > **Env Vars:** html (6), css (4), dom (4), cli (1), url (1)
 > **Exercise Files:** template (15), exercise files (1)
-> **Code Keywords:** pass (3), class. (2), case, (2), let (1), extends (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), click on (1), open the (1)
 > **File Paths:** players.component.html (1), component.html (1)
@@ -1262,9 +1266,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (9), [[Angular]] (8), dom (6), css (4), data (2)
 > **Env Vars:** html (7), dom (6), css (4), cli (1), npm (1)
 > **Exercise Files:** template (17)
-> **Code Keywords:** let (5), extends (1), default. (1), case, (1), this. (1)
 > **Code Identifiers:** ngif (5), ngfor (4)
 > **UI Navigation:** go to (2), open the (2), click on (1)
 > **CLI Commands:** make (2), find (1), npm (1)
@@ -1360,7 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (9), let (2), function (2), case, (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[Dependency Injection]] (2), [[GitHub]] (1), [[HTML]] (1), dom (1)
 > **UI Navigation:** open the (4), go to (2), click on (1)
 > **Env Vars:** http (3), html (1), dom (1), api (1)
 > **Definitions:** is an  (3), is a  (2)
@@ -1390,17 +1394,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (5), api (2), [[Debugging]] (1), feature (1)
 > **Env Vars:** api (2)
 > **Versions:** version 18 (1), version 2 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Common Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Angular pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980)
@@ -1461,7 +1465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1), let (1), default, (1)
+> **Frameworks & Libraries:** [[Angular]] (7), data (3), application (1), [[Jetpack Compose|Compose]] (1)
 > **Cross-References:** later in (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -1581,7 +1585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (4), this. (1), default, (1), this, (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[HTML]] (4), data (2), [[GitHub]] (1), [[Angular CLI]] (1)
 > **Env Vars:** html (3), cli (1), npm (1), url (1)
 > **UI Navigation:** click on (2), go to (1), open the (1)
 > **Cross-References:** earlier in (1), later in (1), go back to (1)
@@ -1711,7 +1715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), let (1), interface (1), case, (1), pass (1)
+> **Frameworks & Libraries:** [[Angular]] (13), [[Angular CLI]] (2), [[GitHub]] (1), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** earlier in (5)
 > **Best Practices:** good practice (4)
 > **File Paths:** sort-by-score.pipe.ts (1), pipe.ts (1), sort-by-score.module.ts (1)
@@ -1797,8 +1801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (10), api (3), data (3), [[Dependency Injection]] (3), application (2)
 > **Env Vars:** cli (3), api (2)
-> **Code Keywords:** let (1), default, (1), module (1)
 > **Cross-References:** earlier in (2), later in (1)
 > **UI Navigation:** go to (1), click on (1), open the (1)
 > **File Paths:** api.service.ts (1), service.ts (1)
@@ -1931,7 +1935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), class. (3), private (3), module (3), let (2)
+> **Frameworks & Libraries:** data (8), [[Angular]] (6), api (4), database (3), next (2)
 > **Env Vars:** http (5), api (4), url (3), rxjs (3), cli (1)
 > **UI Navigation:** go to (2), click on (2), open the (2)
 > **Cross-References:** earlier in (3), later in (2)
@@ -2005,11 +2009,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (9), [[Codespaces]] (2), css (2), [[Dependency Injection]] (2), [[GitHub]] (1)
 > **Cross-References:** earlier in (3), later in (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Env Vars:** css (2), cli (1)
 > **File Paths:** online-status.directive.ts (1), directive.ts (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
@@ -2103,7 +2107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2), class. (1), implements (1), public (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (6), dom (3), data (2), [[GitHub]] (1)
 > **Env Vars:** html (6), cli (1), dom (1), url (1)
 > **Cross-References:** earlier in (3), later in (1)
 > **UI Navigation:** go to (1), open the (1), click on (1)
@@ -2115,7 +2119,7 @@ created: 2026-04-29
 
 ### 4. Coding Essentials
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Angular project configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980)
@@ -2174,10 +2178,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (11), [[JSON]] (4), [[Angular CLI]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **File Paths:** tsconfig.json (2), angular.json (2)
 > **Env Vars:** cli (3)
 > **UI Navigation:** go to (1), click on (1), open the (1)
-> **Code Keywords:** let (1), default, (1)
 > **Cross-References:** earlier in (1)
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
@@ -2272,12 +2276,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (6), application (3), [[npm]] (2), hit (2), [[GitHub]] (1)
 > **UI Navigation:** go to (3), click on (3), open the (1)
 > **Env Vars:** npm (2), api (1), url (1), llc (1)
 > **Cross-References:** go back to (3), earlier in (1)
 > **Tools:** terminal (3), github (1)
 > **CLI Commands:** npm (2), make (1)
-> **Code Keywords:** let (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2368,7 +2372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), public (3), class. (2), protected (2), this. (1)
+> **Frameworks & Libraries:** [[Angular]] (13), api (3), data (3), next (2), [[Dependency Injection]] (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Env Vars:** api (2), html (1)
 > **Exercise Files:** template (2), exercise files (1)
@@ -2456,7 +2460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), default, (1), module (1)
+> **Frameworks & Libraries:** [[Angular]] (13), data (3), [[Dependency Injection]] (2), api (2), application (1)
 > **UI Navigation:** go to (1), click on (1), open the (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** providedin (2)
@@ -2552,7 +2556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), this. (2), class. (2), let (1), function (1)
+> **Frameworks & Libraries:** [[Angular]] (9), api (6), [[Dependency Injection]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[GitHub]] (1)
 > **Env Vars:** api (6)
 > **Cross-References:** earlier in (4), we talked about (2)
 > **Code Identifiers:** usevalue (1), usefactory (1), useexisting (1)
@@ -2616,8 +2620,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (13), data (2), application (1), [[GitHub]] (1), api (1)
 > **UI Navigation:** go to (1), open the (1), click on (1)
-> **Code Keywords:** class, (1), public (1)
 > **File Paths:** high-scores.component.ts (1)
 > **Code Identifiers:** onpush (1)
 > **Env Vars:** api (1)
@@ -2690,7 +2694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), class. (2), interface (2), while, (1)
+> **Frameworks & Libraries:** [[Angular]] (9), dom (1), [[GitHub]] (1)
 > **Code Identifiers:** ngoninit (3), ngondestroy (3)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Exercise Files:** template (1), exercise files (1)
@@ -2702,7 +2706,7 @@ created: 2026-04-29
 
 ### 5. Routing and Navigation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining routes for Angular Router
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980)
@@ -2825,8 +2829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (19), [[Routing]] (3), [[HTML]] (2), data (2), [[GitHub]] (1)
 > **Env Vars:** url (8), href (4), html (2), cli (1)
-> **Code Keywords:** function (3), module (2), let (2), case. (1), default, (1)
 > **Cross-References:** later in (5), earlier in (1), go back to (1)
 > **Definitions:** is a  (4), is an  (2)
 > **UI Navigation:** open the (2), go to (1), click on (1)
@@ -2901,7 +2905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (15), pass (2), static (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[Routing]] (6), [[GitHub]] (1), [[Angular CLI]] (1)
 > **UI Navigation:** open the (3), go to (2), click on (2)
 > **Code Identifiers:** forchild (4), forroot (1), forroute (1)
 > **File Paths:** app-routing.module.ts (2), leaderboards.module.ts (1), routing.module.ts (1)
@@ -2997,7 +3001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (6), import. (1), function (1), let (1)
+> **Frameworks & Libraries:** [[Angular]] (12), [[GitHub]] (1), [[Angular CLI]] (1), [[Routing]] (1), [[Fetch]] (1)
 > **UI Navigation:** click on (3), go to (2), open the (2), navigate to (2)
 > **Cross-References:** earlier in (2), later in (2)
 > **Env Vars:** cli (1), es6 (1), url (1)
@@ -3079,9 +3083,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (7), [[GitHub]] (1), [[Routing]] (1), [[Angular CLI]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** url (6), cli (1), npm (1)
 > **UI Navigation:** click on (4), open the (2), go to (1)
-> **Code Keywords:** module (2), let (2), function (1)
 > **Cross-References:** earlier in (2), later in (1), go back to (1)
 > **Tools:** github (1), terminal (1)
 > **Exercise Files:** template (1), exercise files (1)
@@ -3191,7 +3195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), pass (3), let (2), public (2), function (2)
+> **Frameworks & Libraries:** [[Angular]] (14), [[Routing]] (4), data (3), [[GitHub]] (1), [[Codespaces]] (1)
 > **UI Navigation:** open the (3), go to (2), click on (1)
 > **Cross-References:** earlier in (3), later in (1)
 > **Definitions:** is a  (3), is called (1)
@@ -3311,8 +3315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (14), dom (4), [[HTML]] (3), css (3), [[Routing]] (2)
 > **UI Navigation:** click on (6), open the (3), go to (2), navigate to (1), switch to (1)
-> **Code Keywords:** let (5), static (2), match. (1), switch (1)
 > **Env Vars:** html (3), css (3), cli (1), npm (1), url (1)
 > **Cross-References:** earlier in (2), go back to (2)
 > **Definitions:** is a  (2), is called (1)
@@ -3323,7 +3327,7 @@ created: 2026-04-29
 
 ### 6. Reactive Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Angular signals and the Signal function
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980)
@@ -3436,7 +3440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), this. (3), default, (1), this, (1)
+> **Frameworks & Libraries:** [[Angular]] (10), data (9), api (2), [[Programming]] (1), [[GitHub]] (1)
 > **UI Navigation:** click on (3), open the (2), go to (1)
 > **Cross-References:** go back to (3), earlier in (1), later in (1)
 > **Env Vars:** api (2), url (1)
@@ -3510,7 +3514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), public (1), type. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Angular]] (6), data (2), [[GitHub]] (1), application (1), api (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Cross-References:** earlier in (3)
 > **CLI Commands:** make (2)
@@ -3582,7 +3586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), type. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Angular]] (4), api (2), [[GitHub]] (1), [[Analytics]] (1), application (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Cross-References:** earlier in (3)
 > **Env Vars:** api (2)
@@ -3660,7 +3664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (14), pass (2), else. (1), type. (1)
+> **Frameworks & Libraries:** [[Angular]] (7), data (4), [[GitHub]] (1), [[Codespaces]] (1), [[HTML]] (1)
 > **Exercise Files:** template (3), exercise files (1)
 > **Code Identifiers:** ngfor (2), ngif (1)
 > **UI Navigation:** go to (1), click on (1), open the (1)
@@ -3746,8 +3750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Angular]] (3), [[Programming]] (2), api (2), database (2)
 > **Env Vars:** http (3), url (3), api (1), rest (1)
-> **Code Keywords:** function (3), private (1), this. (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -3758,7 +3762,7 @@ created: 2026-04-29
 
 ### 7. Testing and Debugging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of unit testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980)
@@ -3859,7 +3863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), this, (2), let (2), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[Debugging]] (2), [[Unit Testing]] (1), [[GitHub]] (1), hit (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2), earlier in (1), later in (1)
 > **Tools:** command line (2), github (1), terminal (1)
@@ -3979,7 +3983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), case, (2), pass (2), default. (1), class. (1)
+> **Frameworks & Libraries:** [[Angular]] (8), [[Unit Testing]] (2), [[Dependency Injection]] (2), [[JavaScript]] (2), [[Debugging]] (2)
 > **Definitions:** is a  (5)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Cross-References:** earlier in (3)
@@ -4091,8 +4095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (9), [[Dependency Injection]] (7), api (3), data (2), [[Unit Testing]] (1)
 > **Env Vars:** http (13), api (2), spy (1)
-> **Code Keywords:** module (8), function (2), delete (1), case, (1), let (1)
 > **Cross-References:** earlier in (4)
 > **Prerequisites:** set up (2), configure (2)
 > **UI Navigation:** open the (2), go to (1)
@@ -4165,11 +4169,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (3), [[GitHub]] (2), [[Search]] (1), [[JSON]] (1), [[Angular]] (1)
 > **Env Vars:** npm (3), mit (1), cli (1)
 > **Tools:** terminal (3), github (2)
 > **UI Navigation:** go to (2), click on (2), open the (1)
 > **CLI Commands:** npm (3), make (1)
-> **Code Keywords:** let (2), static (1), pass (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** eslintrc.json (1), app.component.ts (1)
 > **Exercise Files:** source code (1), exercise files (1)
@@ -4177,7 +4181,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A deeper look at Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/a-deeper-look-at-angular?u=76281980)
@@ -4202,6 +4206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (4), api (1)
 > **Env Vars:** api (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** exercise files (1)

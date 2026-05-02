@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Closures.md)
@@ -49,27 +49,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Using closures in JavaScript
-  - What you should know
-  - Environment setup and exercise files
-  - Using CoderPad challenges
+  - [Using closures in JavaScript](#using-closures-in-javascript)
+  - [What you should know](#what-you-should-know)
+  - [Environment setup and exercise files](#environment-setup-and-exercise-files)
+  - [Using CoderPad challenges](#using-coderpad-challenges)
 - [**1. Building Blocks of Closures**](#1-building-blocks-of-closures) (5 videos)
-  - Local and global scope
-  - Nesting functions
-  - Return a value from an inner function
-  - Create parallel closures
-  - Solution: Create a closure using a nested function
+  - [Local and global scope](#local-and-global-scope)
+  - [Nesting functions](#nesting-functions)
+  - [Return a value from an inner function](#return-a-value-from-an-inner-function)
+  - [Create parallel closures](#create-parallel-closures)
+  - [Solution: Create a closure using a nested function](#solution-create-a-closure-using-a-nested-function)
 - [**2. Creating and Using Closures**](#2-creating-and-using-closures) (4 videos)
-  - Implement the module pattern
-  - Avoid unintended closures
-  - Use JS features in place of closures
-  - Solution: Create a module
+  - [Implement the module pattern](#implement-the-module-pattern)
+  - [Avoid unintended closures](#avoid-unintended-closures)
+  - [Use JS features in place of closures](#use-js-features-in-place-of-closures)
+  - [Solution: Create a module](#solution-create-a-module)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to learn closures
+  - [Continuing to learn closures](#continuing-to-learn-closures)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using closures in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/using-closures-in-javascript-22184726?u=76281980)
@@ -90,8 +90,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** module (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - have (1)
 
@@ -108,6 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[ECMAScript]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -254,11 +255,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), data (5), web (4), node (3), [[npm]] (3)
 > **Env Vars:** api (13), http (2), ajax (2), html (1), npm (1)
 > **CLI Commands:** make (3), node (3), npm (3), sudo (3)
 > **Tools:** visual studio (3), firefox (1), safari (1), sublime (1), atom (1)
 > **Prerequisites:** install (7), you'll need (2), set up (1)
-> **Code Keywords:** this, (2), require (2), let (2), finally, (1), continue (1)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (5), [nodejs.org](https://nodejs.org) (1)
 > **UI Navigation:** go to (2), in the menu (2), select the (1), open the (1)
 > **Definitions:** is a  (4), is an  (2)
@@ -302,13 +303,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Building Blocks of Closures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Local and global scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980)
@@ -497,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (40), let (3)
+> **Frameworks & Libraries:** application (3), api (3), [[JavaScript]] (2), product (1), teams (1)
 > **Code Identifiers:** tempf (3), tempc (1)
 > **Env Vars:** api (3), http (1)
 > **Definitions:** is a  (2), means that (1)
@@ -569,7 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (26), interface (1), finally, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[JavaScript]] (1), api (1)
 > **Code Identifiers:** updateclicks (4), reportclicks (4)
 > **Env Vars:** es6 (1), api (1)
 > **File Paths:** script.js (1)
@@ -682,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (39), finally, (2), let (2), const (1), protected (1)
+> **Frameworks & Libraries:** data (3)
 > **Code Identifiers:** updateclicks (13), reportclicks (7)
 > **Definitions:** is called (3), means that (1)
 > **CLI Commands:** make (2)
@@ -776,7 +777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), pass (4), let (2), private (2), super (1)
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (3), next (2), feature (1), [[JavaScript]] (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [tutor] (1)
 
@@ -786,7 +787,7 @@ created: 2026-04-29
 
 ### 2. Creating and Using Closures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement the module pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980)
@@ -899,7 +900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (13), function (8), protected (1), abstract (1), const (1)
+> **Frameworks & Libraries:** api (4), [[JavaScript]] (2), [[Fetch]] (1), next (1), dom (1)
 > **Env Vars:** iife (6), api (4), url (2)
 > **File Paths:** script.js (1)
 > **CLI Commands:** make (1)
@@ -1043,7 +1044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (10), var (5), this. (3), module (2)
+> **Frameworks & Libraries:** [[Fetch]] (2), product (1), [[Representational State Transfer (REST)|Rest]] (1), [[AJAX]] (1), dom (1)
 > **Code Identifiers:** settimeout (7), updateuiworking (2), preventdefault (1), listwidget (1), queryselector (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ajax (1), html (1)
@@ -1121,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), var (3), this, (1), const (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[ECMAScript]] (1), dom (1), [[Fetch]] (1)
 > **Code Identifiers:** foreach (7), settimeout (2), updateuiworking (1)
 > **Env Vars:** es6 (2), dom (1)
 > **Analogies:** just like (2), for instance (1)
@@ -1173,7 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), module (5), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** updatecolor (1), getselection (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** iife (1)
@@ -1182,7 +1183,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to learn closures
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980)
@@ -1203,6 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Vanilla]] (2), [[Programming]] (1)
 > **Speakers:** - [sasha] (1)
 
 

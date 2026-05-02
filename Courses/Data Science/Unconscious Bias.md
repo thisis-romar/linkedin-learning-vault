@@ -37,7 +37,7 @@ tags:
   - skill/unconscious-bias-awareness-training
   - skill/diversity-and-inclusion
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Unconscious%20Bias.md)
@@ -56,24 +56,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why identify your bias?
+  - [Why identify your bias?](#why-identify-your-bias)
 - [**1. The Basics of Unconscious Bias**](#1-the-basics-of-unconscious-bias) (4 videos)
-  - What is unconscious bias?
-  - The impact of a 1% bias
-  - The basis of unconscious bias
-  - Unconscious bias at work
+  - [What is unconscious bias?](#what-is-unconscious-bias)
+  - [The impact of a 1% bias](#the-impact-of-a-1-bias)
+  - [The basis of unconscious bias](#the-basis-of-unconscious-bias)
+  - [Unconscious bias at work](#unconscious-bias-at-work)
 - [**2. Common Forms of Unconscious Bias**](#2-common-forms-of-unconscious-bias) (5 videos)
-  - Affinity bias
-  - Halo bias
-  - Perception bias
-  - Confirmation bias
-  - Groupthink
+  - [Affinity bias](#affinity-bias)
+  - [Halo bias](#halo-bias)
+  - [Perception bias](#perception-bias)
+  - [Confirmation bias](#confirmation-bias)
+  - [Groupthink](#groupthink)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Practice what you've learned
+  - [Practice what you've learned](#practice-what-youve-learned)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why identify your bias?
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/why-identify-your-bias?u=76281980)
@@ -110,6 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Nonprofit Organizations]] (1), [[Diversity and Inclusion]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -118,7 +119,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Unconscious Bias
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is unconscious bias?
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/what-is-unconscious-bias?u=76281980)
@@ -181,6 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), data (1), leadership (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 50.4 (1), 49.6 (1)
 > **Exercise Files:** exercise files (1)
@@ -238,7 +240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Simulation]] (2), job description (1), management (1), next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - is (1)
@@ -314,8 +316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** for, (1), this. (1)
 > **Env Vars:** lgbtq (1), iii (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -371,6 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
@@ -378,7 +381,7 @@ created: 2026-04-29
 
 ### 2. Common Forms of Unconscious Bias
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Affinity bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980)
@@ -425,6 +428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - parenting (1)
 
@@ -491,7 +495,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
 > **Analogies:** just like (1)
 > **Speakers:** - first (1)
 
@@ -542,8 +545,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), seo (1), data (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** continue (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** seo (1)
 > **Speakers:** - [woman] (1)
@@ -615,8 +618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), product (3), [[Microsoft Products|Products]] (2), [[Market Research]] (1), business (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (1), public (1)
 > **Analogies:** for example (1)
 > **Speakers:** - confirmation (1)
 
@@ -685,15 +688,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), product (1), game (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** self (1), let (1), finally, (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - was (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/practice-what-you-ve-learned?u=76281980)
@@ -738,8 +741,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), next (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** continue (1), let (1)
 > **Env Vars:** unbias (1), deib (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)

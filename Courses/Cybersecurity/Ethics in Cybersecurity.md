@@ -24,7 +24,7 @@ tags:
   - course
   - topic/security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethics%20in%20Cybersecurity.md)
@@ -43,31 +43,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The importance of ethics
+  - [The importance of ethics](#the-importance-of-ethics)
 - [**1. Ethics 101**](#1-ethics-101) (2 videos)
-  - Morals, ethics, and laws
-  - The cybersecurity community
+  - [Morals, ethics, and laws](#morals-ethics-and-laws)
+  - [The cybersecurity community](#the-cybersecurity-community)
 - [**2. Ethics in the Workplace**](#2-ethics-in-the-workplace) (5 videos)
-  - Handling sensitive information
-  - Third-party engagements
-  - Hacking back
-  - Organizational ethics
-  - Reporting an ethical violation
+  - [Handling sensitive information](#handling-sensitive-information)
+  - [Third-party engagements](#third-party-engagements)
+  - [Hacking back](#hacking-back)
+  - [Organizational ethics](#organizational-ethics)
+  - [Reporting an ethical violation](#reporting-an-ethical-violation)
 - [**3. Ethics and the Researcher**](#3-ethics-and-the-researcher) (4 videos)
-  - Responsible disclosure
-  - Hacktivism
-  - Social engineering
-  - Certifications and codes of ethics
+  - [Responsible disclosure](#responsible-disclosure)
+  - [Hacktivism](#hacktivism)
+  - [Social engineering](#social-engineering)
+  - [Certifications and codes of ethics](#certifications-and-codes-of-ethics)
 - [**4. Ethics on the Global Stage**](#4-ethics-on-the-global-stage) (3 videos)
-  - Global impact
-  - The dark web
-  - The cybersecurity workforce
+  - [Global impact](#global-impact)
+  - [The dark web](#the-dark-web)
+  - [The cybersecurity workforce](#the-cybersecurity-workforce)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Putting ethics into practice
+  - [Putting ethics into practice](#putting-ethics-into-practice)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980)
@@ -94,13 +94,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Ethics]] (2), power (1), career (1)
 > **CLI Commands:** find (1)
 
 
 ### 1. Ethics 101
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Morals, ethics, and laws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980)
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethics]] (6), [[Cybersecurity]] (2)
 > **Analogies:** for example (1)
 
 #### The cybersecurity community
@@ -212,9 +213,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Security]] (3), [[Ethics]] (2), [[LinkedIn]] (1), application (1)
 > **Env Vars:** isaca (3), isc (2), def (2), con (2), issa (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** public (1), private (1)
 > **Definitions:** means that (1), is a  (1)
 > **URLs:** [meetup.com](https://meetup.com) (1)
 > **Versions:** 3.5 (1)
@@ -222,7 +223,7 @@ created: 2026-04-29
 
 ### 2. Ethics in the Workplace
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling sensitive information
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980)
@@ -279,7 +280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** data (9), [[Security]] (3), [[Cybersecurity]] (2), management (1), mobile application (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** install (1)
 
@@ -324,7 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), for. (1)
+> **Frameworks & Libraries:** [[Engineering]] (3), [[Cybersecurity]] (2), career (1), next (1), [[Phishing]] (1)
 > **Env Vars:** nda (1)
 > **Warnings:** caution (1)
 
@@ -389,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), let (1), else. (1)
+> **Frameworks & Libraries:** business (3), [[Cybersecurity]] (2), [[E-Commerce]] (2), data (1), hit (1)
 > **Env Vars:** ciso (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -457,6 +458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (12), business (6), [[Ethics]] (5), [[Security]] (2), career (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** soc (1), ciso (1)
 > **Prerequisites:** install (1)
@@ -530,14 +532,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethics]] (4), [[Cybersecurity]] (4), [[Privacy]] (1), [[Slack]] (1), web (1)
 > **Env Vars:** isc (1), isaca (1)
-> **Code Keywords:** let (1)
 > **Tools:** slack (1)
 
 
 ### 3. Ethics and the Researcher
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980)
@@ -604,9 +606,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (4), hit (2), web (1), [[GitHub]] (1)
 > **Env Vars:** url (2), ssl (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** public (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Tools:** github (1)
 
@@ -655,6 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Ethics]] (1), [[Privacy]] (1), open-source (1)
 > **CLI Commands:** make (1)
 
 #### Social engineering
@@ -726,9 +729,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (8), [[Phishing]] (7), data (2), [[Cybersecurity]] (2), [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** continue (1)
 > **Env Vars:** sms (1)
 > **Definitions:** known as (1)
 
@@ -781,14 +784,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethics]] (8), [[Cybersecurity]] (4), career (2), leadership (1), [[Privacy]] (1)
 > **Env Vars:** isc (4), cissp (2), isaca (2), cisa (1), cism (1)
-> **Code Keywords:** public (2), let (1)
 > **CLI Commands:** make (1)
 
 
 ### 4. Ethics on the Global Stage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Global impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980)
@@ -855,7 +858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Privacy]] (3), power (2), [[Ethics]] (1), data (1)
 > **Env Vars:** nsa (1), prism (1)
 > **Definitions:** known as (1)
 
@@ -936,7 +939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), protected (1), if, (1)
+> **Frameworks & Libraries:** web (28), [[Search]] (4), [[Privacy]] (2)
 > **Env Vars:** i2p (2)
 > **Definitions:** known as (2)
 > **CLI Commands:** find (1)
@@ -1039,6 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (12), career (4), [[LinkedIn]] (3), [[Ethics]] (2), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** dei (4), stem (2), def (1), con (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1), find (1)
@@ -1047,7 +1051,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting ethics into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/putting-ethics-into-practice?u=76281980)
@@ -1102,6 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Ethics]] (3), [[Cybersecurity]] (3), business (1), data (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 

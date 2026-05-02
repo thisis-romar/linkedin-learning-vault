@@ -30,7 +30,7 @@ tags:
   - skill/wordpress-development
   - skill/gatsbyjs
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Building%20a%20Headless%20WordPress%20Site%20with%20Gatsby.md)
@@ -49,54 +49,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - WordPress and Gatsby working hand in hand
-  - What will be covered in this course
+  - [WordPress and Gatsby working hand in hand](#wordpress-and-gatsby-working-hand-in-hand)
+  - [What will be covered in this course](#what-will-be-covered-in-this-course)
 - [**1. Setting Up**](#1-setting-up) (3 videos)
-  - Set up WordPress to work with Gatsby
-  - Set up a Gatsby site using a starter
-  - Use the exercise files on GitHub
+  - [Set up WordPress to work with Gatsby](#set-up-wordpress-to-work-with-gatsby)
+  - [Set up a Gatsby site using a starter](#set-up-a-gatsby-site-using-a-starter)
+  - [Use the exercise files on GitHub](#use-the-exercise-files-on-github)
 - [**2. WordPress as a Gatsby Data Resource**](#2-wordpress-as-a-gatsby-data-resource) (2 videos)
-  - Explore the WordPress GraphQL tree
-  - Use WordPress site data in Gatsby
+  - [Explore the WordPress GraphQL tree](#explore-the-wordpress-graphql-tree)
+  - [Use WordPress site data in Gatsby](#use-wordpress-site-data-in-gatsby)
 - [**3. Working with Pages**](#3-working-with-pages) (6 videos)
-  - Query pages in GraphQL
-  - Generate pages automatically
-  - Create a page template
-  - Work with featured images
-  - Challenge: Add metadata to the page template
-  - Solution: Add metadata to the page template
+  - [Query pages in GraphQL](#query-pages-in-graphql)
+  - [Generate pages automatically](#generate-pages-automatically)
+  - [Create a page template](#create-a-page-template)
+  - [Work with featured images](#work-with-featured-images)
+  - [Challenge: Add metadata to the page template](#challenge-add-metadata-to-the-page-template)
+  - [Solution: Add metadata to the page template](#solution-add-metadata-to-the-page-template)
 - [**4. Custom Menus**](#4-custom-menus) (6 videos)
-  - Query custom menus in GraphQL
-  - How WordPress manages menu items
-  - Create a flat menu in Gatsby
-  - Create a nested menu in Gatsby
-  - Challenge: Create a footer menu
-  - Solution: Create a footer menu
+  - [Query custom menus in GraphQL](#query-custom-menus-in-graphql)
+  - [How WordPress manages menu items](#how-wordpress-manages-menu-items)
+  - [Create a flat menu in Gatsby](#create-a-flat-menu-in-gatsby)
+  - [Create a nested menu in Gatsby](#create-a-nested-menu-in-gatsby)
+  - [Challenge: Create a footer menu](#challenge-create-a-footer-menu)
+  - [Solution: Create a footer menu](#solution-create-a-footer-menu)
 - [**5. Working with Posts**](#5-working-with-posts) (7 videos)
-  - Query posts in GraphQL
-  - Generate posts automatically
-  - Add category and tag info
-  - Create an index template
-  - Generate index pages automatically
-  - Challenge: Create a post navigation component
-  - Solution: Create a post navigation component
+  - [Query posts in GraphQL](#query-posts-in-graphql)
+  - [Generate posts automatically](#generate-posts-automatically)
+  - [Add category and tag info](#add-category-and-tag-info)
+  - [Create an index template](#create-an-index-template)
+  - [Generate index pages automatically](#generate-index-pages-automatically)
+  - [Challenge: Create a post navigation component](#challenge-create-a-post-navigation-component)
+  - [Solution: Create a post navigation component](#solution-create-a-post-navigation-component)
 - [**6. Categories and Tags**](#6-categories-and-tags) (5 videos)
-  - Query categories and tags
-  - Generate category indexes automatically
-  - Create a category index template
-  - Challenge: Create tag indexes
-  - Solution: Create tag indexes
+  - [Query categories and tags](#query-categories-and-tags)
+  - [Generate category indexes automatically](#generate-category-indexes-automatically)
+  - [Create a category index template](#create-a-category-index-template)
+  - [Challenge: Create tag indexes](#challenge-create-tag-indexes)
+  - [Solution: Create tag indexes](#solution-create-tag-indexes)
 - [**7. Custom Post Types and Taxonomies**](#7-custom-post-types-and-taxonomies) (2 videos)
-  - Add custom post types and taxonomies
-  - Query custom post types and taxonomies in GraphQL
+  - [Add custom post types and taxonomies](#add-custom-post-types-and-taxonomies)
+  - [Query custom post types and taxonomies in GraphQL](#query-custom-post-types-and-taxonomies-in-graphql)
 - [**8. Considerations When Using WordPress and Gatsby**](#8-considerations-when-using-wordpress-and-gatsby) (1 videos)
-  - What to do about Blocks (Gutenberg)
+  - [What to do about Blocks (Gutenberg)](#what-to-do-about-blocks-gutenberg)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### WordPress and Gatsby working hand in hand
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980)
@@ -119,7 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** web (5), [[React.js|React]] (3), [[WordPress]] (3), [[JavaScript]] (2), data (1)
 > **Speakers:** - [morten] (1)
 
 #### What will be covered in this course
@@ -155,7 +155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1)
+> **Frameworks & Libraries:** [[WordPress]] (10), data (7), [[GraphQL]] (3), management (1)
 > **Env Vars:** aka (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
@@ -163,7 +163,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up WordPress to work with Gatsby
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980)
@@ -258,7 +258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), new, (2), self (1), this, (1)
+> **Frameworks & Libraries:** [[WordPress]] (30), data (9), [[GraphQL]] (9), web (2), front-end (2)
 > **Env Vars:** url (5), json (2), ide (1)
 > **UI Navigation:** go to (7), click on (1)
 > **Exercise Files:** exercise files (5), download the (1)
@@ -420,7 +420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (2), this. (2), let (2), return. (2), for. (1)
+> **Frameworks & Libraries:** [[WordPress]] (28), data (7), [[GraphQL]] (6), front-end (3), hit (3)
 > **Tools:** terminal (5), vs code (2)
 > **Prerequisites:** install (4), set up (2), configure (1)
 > **Env Vars:** url (3), cli (1), cms (1), mdx (1)
@@ -528,10 +528,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Git]] (3), data (1), [[Fetch]] (1), web (1)
 > **Tools:** github (9), vs code (2), terminal (2)
 > **Exercise Files:** exercise files (5), github repo (2), exercise file (1)
 > **CLI Commands:** make (3), git (3), find (1)
-> **Code Keywords:** let (1), new. (1), new, (1), this, (1), return. (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **Prerequisites:** set up (2)
 > **Analogies:** for example (1)
@@ -540,7 +540,7 @@ created: 2026-04-29
 
 ### 2. WordPress as a Gatsby Data Resource
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the WordPress GraphQL tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980)
@@ -771,8 +771,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[WordPress]] (16), [[GraphQL]] (11), database (4), hit (1)
 > **Code Identifiers:** databaseid (9), allwp (3), allwppost (1), wppost (1)
-> **Code Keywords:** let (11), else. (1)
 > **CLI Commands:** find (2), node (1)
 > **Env Vars:** url (2), mywpsite (1)
 > **UI Navigation:** open the (1), scroll down (1), go to (1)
@@ -923,10 +923,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (16), data (13), [[GraphQL]] (4)
 > **Code Identifiers:** generalsettings (5), sitemetadata (4), defaulttitle (4), sitetitle (4)
 > **UI Navigation:** go to (6), scroll down (1)
 > **File Paths:** header.js (2), layout.js (2), gatsby-config.js (1)
-> **Code Keywords:** const (1), from. (1), static (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -935,7 +935,7 @@ created: 2026-04-29
 
 ### 3. Working with Pages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Query pages in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980)
@@ -1042,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), let (2), interface (1), case, (1)
+> **Frameworks & Libraries:** [[WordPress]] (8), database (5), data (2), next (2), node (1)
 > **Env Vars:** uri (3), url (2)
 > **CLI Commands:** make (2), node (1), find (1)
 > **Definitions:** is a  (2)
@@ -1216,9 +1216,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (16), node (12), data (6), [[GraphQL]] (5), database (5)
 > **CLI Commands:** node (12), find (2), make (1)
 > **Code Identifiers:** createpage (4), databaseid (3), allwppage (2), dangerouslysetinnerhtml (2), createpages (1)
-> **Code Keywords:** function (5), pass (4), let (3), this, (1), async (1)
 > **Exercise Files:** template (6), exercise files (1)
 > **Env Vars:** html (3), uri (2), url (1)
 > **Prerequisites:** set up (3)
@@ -1382,8 +1382,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (10), seo (4), [[HTML]] (3), [[WordPress]] (2), data (2)
 > **Env Vars:** css (10), seo (4), html (3), uri (2)
-> **Code Keywords:** module (5), let (2), case, (2), class, (2), static (1)
 > **Exercise Files:** template (5)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (2)
@@ -1582,9 +1582,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (7), node (4), data (3), [[GraphQL]] (2), database (2)
 > **Code Identifiers:** featuredimage (5), getimage (5), childimagesharp (2), gatsbyimagedata (2), wppage (2)
 > **CLI Commands:** node (4), find (3), make (2)
-> **Code Keywords:** let (2), this. (2), static (1), case, (1), finally, (1)
 > **Definitions:** is a  (4), is an  (2)
 > **Prerequisites:** set up (6)
 > **Env Vars:** jpeg (1), auto (1), webp (1), avif (1)
@@ -1612,6 +1612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (1), [[GraphQL]] (1), next (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1726,8 +1727,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), [[JavaScript]] (4), data (3), [[GraphQL]] (2)
 > **CLI Commands:** node (4), find (1)
-> **Code Keywords:** let (1), case, (1), this. (1), new, (1), pass (1)
 > **Code Identifiers:** tolocaledatestring (2), wppage (1)
 > **File Paths:** page.js (1)
 > **Env Vars:** gmt (1)
@@ -1738,7 +1739,7 @@ created: 2026-04-29
 
 ### 4. Custom Menus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Query custom menus in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-menus-in-graphql?u=76281980)
@@ -1881,7 +1882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (3), private (2), delete (1), for. (1)
+> **Frameworks & Libraries:** [[WordPress]] (21), database (2), data (2), node (1)
 > **CLI Commands:** make (4), find (2), node (1)
 > **Code Identifiers:** allwpmenu (4), allwpmenuitem (3)
 > **UI Navigation:** go to (4), navigate to (1)
@@ -1945,7 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), function (1)
+> **Frameworks & Libraries:** database (6), [[WordPress]] (4), data (4), [[GraphQL]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
@@ -2089,8 +2090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3), [[LinkedIn]] (3), data (3), node (1), css (1)
 > **Code Identifiers:** parentdatabaseid (4), classname (2), menuitem (2), activeclassname (2), wpmenu (1)
-> **Code Keywords:** static (3), let (2), function (2), module (1), finally, (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** in the menu (2), click on (2)
 > **CLI Commands:** find (2), node (1)
@@ -2283,8 +2284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[WordPress]] (2), [[HTML]] (2), [[GraphQL]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** headermenu (7), parentid (6), parentdatabaseid (3), idkey (3), parentkey (3)
-> **Code Keywords:** function (3), pass (2), let (2), this. (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2), css (1)
@@ -2317,6 +2318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[WordPress]] (1), [[GraphQL]] (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
@@ -2443,7 +2445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), this, (1), pass (1)
+> **Frameworks & Libraries:** css (4), [[JavaScript]] (2), database (2), generic (2), [[GraphQL]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** css (4)
 > **File Paths:** footernav.js (1), footer.js (1)
@@ -2455,7 +2457,7 @@ created: 2026-04-29
 
 ### 5. Working with Posts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Query posts in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980)
@@ -2544,7 +2546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1), case, (1), else, (1), this. (1)
+> **Frameworks & Libraries:** next (13), [[WordPress]] (9), database (4), data (3), [[GraphQL]] (3)
 > **CLI Commands:** find (3), make (1), node (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** go to (2)
@@ -2666,10 +2668,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), node (4), [[WordPress]] (3), [[GraphQL]] (2), css (2)
 > **CLI Commands:** node (6), make (1), find (1)
 > **Code Identifiers:** postquery (2), wppage (1), wppost (1), allwppost (1), queryresults (1)
 > **File Paths:** node.js (2), page.js (1), post.js (1), page.module.css (1), single.module.css (1)
-> **Code Keywords:** module (2), function (2), while, (1)
 > **Env Vars:** uri (3), url (1), html (1)
 > **Exercise Files:** template (3), exercise files (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -2850,7 +2852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), this. (3), let (3), case. (2), case, (1)
+> **Frameworks & Libraries:** data (8), database (2), node (2), [[React.js|React]] (2), [[WordPress]] (1)
 > **CLI Commands:** find (5), node (2), make (1)
 > **UI Navigation:** go to (3), scroll down (2), click on (1)
 > **Exercise Files:** template (5)
@@ -2970,7 +2972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), interface (1), this, (1), let (1), function (1)
+> **Frameworks & Libraries:** next (8), [[WordPress]] (3), feature (2), data (2), [[GraphQL]] (1)
 > **UI Navigation:** go to (4), click on (2), scroll down (1)
 > **CLI Commands:** find (2), make (1), node (1)
 > **Exercise Files:** template (2), exercise files (1)
@@ -3102,7 +3104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), require (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** next (3), node (2), data (2), [[npm]] (1)
 > **Prerequisites:** install (3), set up (2)
 > **UI Navigation:** go to (2), navigate to (1), click on (1)
 > **CLI Commands:** node (2), npm (1)
@@ -3142,12 +3144,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[GraphQL]] (1), [[Node.js]] (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 > **File Paths:** gatsby-node.js (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** else. (1)
 > **Code Identifiers:** allwppost (1)
 > **Env Vars:** url (1)
 
@@ -3274,7 +3276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (9), let (1)
+> **Frameworks & Libraries:** next (29), database (12), data (8), node (7)
 > **CLI Commands:** node (7), find (2)
 > **Env Vars:** uri (8)
 > **UI Navigation:** click on (1), go to (1)
@@ -3286,7 +3288,7 @@ created: 2026-04-29
 
 ### 6. Categories and Tags
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Query categories and tags
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980)
@@ -3367,10 +3369,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (4), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** databaseid (5), allwpcategory (2), allwptag (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), click on (1), open the (1)
-> **Code Keywords:** else, (1), let (1)
 > **Analogies:** kind of like (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -3486,7 +3488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), pass (6), case, (2), let (2), const (1)
+> **Frameworks & Libraries:** data (6), node (5), next (3), [[GraphQL]] (1), [[Node.js]] (1)
 > **Code Identifiers:** databaseid (4), catquery (4), allwpcategory (1), pagequery (1), postquery (1)
 > **CLI Commands:** node (6), make (1)
 > **Exercise Files:** template (5)
@@ -3632,9 +3634,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), [[Representational State Transfer (REST)|Rest]] (1), seo (1), data (1)
 > **Code Identifiers:** catname (6), catid (5), databaseid (3), allwppost (1), pagecontext (1)
 > **CLI Commands:** make (6), node (3), find (1)
-> **Code Keywords:** function (2), this, (2), let (2), this. (1), for. (1)
 > **UI Navigation:** go to (4), scroll down (1), click on (1)
 > **Exercise Files:** template (5)
 > **Cross-References:** go back to (4)
@@ -3668,7 +3670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), finally, (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1), next (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -3795,8 +3797,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), node (1), next (1)
 > **Code Identifiers:** allwpcategory (2), allwptag (2), catquery (2), tagquery (2), tagid (2)
-> **Code Keywords:** let (4), function (3), case: (2), this. (1)
 > **CLI Commands:** make (4), find (3), node (1)
 > **Exercise Files:** template (4)
 > **Cross-References:** go back to (1)
@@ -3807,7 +3809,7 @@ created: 2026-04-29
 
 ### 7. Custom Post Types and Taxonomies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add custom post types and taxonomies
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980)
@@ -3884,8 +3886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[GraphQL]] (10), [[WordPress]] (8), api (3), feature (3)
 > **Code Identifiers:** allwpbook (2), ecommerce (1), show_in_graphql (1), graphql_single_name (1), graphql_plural_name (1)
-> **Code Keywords:** interface (2), if, (1), type, (1), type. (1), finally, (1)
 > **Env Vars:** api (3), rest (1)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** set up (1), install (1)
@@ -3950,9 +3952,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[GraphQL]] (4), [[WordPress]] (3), node (2), database (1)
 > **CLI Commands:** make (3), node (2), find (1)
 > **Code Identifiers:** allwppost (2), allwpbook (2), databaseid (1)
-> **Code Keywords:** type, (3), let (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
@@ -3960,7 +3962,7 @@ created: 2026-04-29
 
 ### 8. Considerations When Using WordPress and Gatsby
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What to do about Blocks (Gutenberg)
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980)
@@ -4099,11 +4101,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (14), css (5), [[HTML]] (3), [[GraphQL]] (2), [[Typography]] (1)
 > **Env Vars:** css (4), html (3), api (1)
 > **CLI Commands:** find (1), npm (1), make (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** else, (1), class, (1)
 > **Tools:** terminal (2)
 > **Prerequisites:** install (2)
 > **File Paths:** wordpress/block-library/build-style/style.css (1)
@@ -4111,7 +4113,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980)
@@ -4148,8 +4150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4), [[React.js|React]] (4), [[GatsbyJS]] (1), [[GraphQL]] (1), [[Slack]] (1)
 > **CLI Commands:** find (1), go build (1)
-> **Code Keywords:** interface (1), finally, (1)
 > **URLs:** [gatsbyjs.com](https://gatsbyjs.com) (1), [wpgraphql.com](https://wpgraphql.com) (1)
 > **Cross-References:** in the next (1)
 > **Tools:** slack (1)

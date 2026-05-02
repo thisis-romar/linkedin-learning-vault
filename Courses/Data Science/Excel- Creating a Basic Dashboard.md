@@ -30,7 +30,7 @@ tags:
   - skill/microsoft-excel
   - skill/excel-dashboards
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Creating%20a%20Basic%20Dashboard.md)
@@ -49,29 +49,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Improve decision-making by creating dashboards
-  - What you should know
+  - [Improve decision-making by creating dashboards](#improve-decision-making-by-creating-dashboards)
+  - [What you should know](#what-you-should-know)
 - [**1. Setting Up the Supporting Workbook**](#1-setting-up-the-supporting-workbook) (8 videos)
-  - Manage data using Excel tables
-  - Manage PivotTables and PivotCharts
-  - Summarize Excel table and PivotTable data
-  - Filter Excel table and PivotTable data
-  - Define conditional formats
-  - Define an icon set conditional format
-  - Streamline charts for dashboards
-  - Create sparklines
+  - [Manage data using Excel tables](#manage-data-using-excel-tables)
+  - [Manage PivotTables and PivotCharts](#manage-pivottables-and-pivotcharts)
+  - [Summarize Excel table and PivotTable data](#summarize-excel-table-and-pivottable-data)
+  - [Filter Excel table and PivotTable data](#filter-excel-table-and-pivottable-data)
+  - [Define conditional formats](#define-conditional-formats)
+  - [Define an icon set conditional format](#define-an-icon-set-conditional-format)
+  - [Streamline charts for dashboards](#streamline-charts-for-dashboards)
+  - [Create sparklines](#create-sparklines)
 - [**2. Creating a Dashboard Worksheet**](#2-creating-a-dashboard-worksheet) (5 videos)
-  - Create and manage cell links
-  - Link cell contents to a shape
-  - Use PivotTable data in a formula
-  - Extend your dashboard using hidden rows
-  - Hide gridlines and set zoom levels
+  - [Create and manage cell links](#create-and-manage-cell-links)
+  - [Link cell contents to a shape](#link-cell-contents-to-a-shape)
+  - [Use PivotTable data in a formula](#use-pivottable-data-in-a-formula)
+  - [Extend your dashboard using hidden rows](#extend-your-dashboard-using-hidden-rows)
+  - [Hide gridlines and set zoom levels](#hide-gridlines-and-set-zoom-levels)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve decision-making by creating dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980)
@@ -98,7 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2)
+> **Frameworks & Libraries:** [[Dashboards]] (3), power (2), [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (2), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [curt] (1)
@@ -136,8 +136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Excel|Excel]] (1), next (1), [[Pivot Tables]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -145,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Setting Up the Supporting Workbook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage data using Excel tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980)
@@ -276,8 +276,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Microsoft Excel|Excel]] (9), [[Microsoft Excel]] (1), [[Dashboards]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (4), such as (2)
-> **Code Keywords:** case, (2), let (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 939.69 (1), 1.7 (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -404,7 +404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2)
+> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (4), [[Microsoft Products|Products]] (4), [[Zoom]] (2), product (1)
 > **UI Navigation:** scroll down (1), right-click (1), select the (1), go to (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
@@ -486,7 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), continue (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (6), [[Pivot Tables]] (1), product (1), next (1)
 > **UI Navigation:** right-click (3), select the (2)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 651.93 (1), 664.49 (1), 2.44 (1)
@@ -644,7 +644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), switch (2), finally, (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (4), product (1), next (1)
 > **UI Navigation:** go to (4), select the (2), checkbox (1), switch to (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3)
@@ -740,7 +740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), continue (1)
+> **Frameworks & Libraries:** data (4), business (1), product (1), application (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1)
@@ -848,7 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), type, (2), case. (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), product (2), traffic (2), data (1), next (1)
 > **Versions:** 0.2 (4), 0.12 (3)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (1), select the (1)
@@ -937,8 +937,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (5), next (1), [[Dashboards]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** case, (1), this, (1)
 > **Env Vars:** b12 (1), a13 (1)
 > **Versions:** 342.50 (1)
 > **UI Navigation:** go to (1)
@@ -1045,7 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), this, (1), case. (1)
+> **Frameworks & Libraries:** data (17), [[Microsoft Word|Word]] (2), [[Microsoft Excel]] (1)
 > **Env Vars:** b13 (2), d13 (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -1057,7 +1057,7 @@ created: 2026-04-29
 
 ### 2. Creating a Dashboard Worksheet
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and manage cell links
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-and-manage-cell-links?u=76281980)
@@ -1206,7 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), case, (2), let (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** data (6), [[LinkedIn]] (4), web (3)
 > **UI Navigation:** go to (3), switch to (2), open the (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (2)
@@ -1346,9 +1346,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (4), select the (1), scroll up (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** type = (2), let (1), case, (1)
 > **Env Vars:** e16 (3), avg (1)
 > **Cross-References:** go back to (3)
 > **Versions:** 185.48 (1)
@@ -1454,8 +1454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Microsoft Products|Products]] (2), next (1), [[Microsoft Excel|Excel]] (1), business (1)
 > **UI Navigation:** go to (2), dropdown (2), select the (1)
-> **Code Keywords:** function (2), switch (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1523,6 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Zoom]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** go to (1)
@@ -1574,9 +1575,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Microsoft Excel|Excel]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** refers to (1), is an  (1)
-> **Code Keywords:** default. (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
@@ -1585,7 +1586,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980)
@@ -1616,8 +1617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Microsoft Excel|Excel]] (3), business (3), [[Microsoft Excel]] (2), application (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

@@ -55,7 +55,7 @@ tags:
   - skill/data-governance
   - skill/ai-governance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20AI%20Governance.md)
@@ -74,29 +74,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Developing the lens of AI governance
+  - [Developing the lens of AI governance](#developing-the-lens-of-ai-governance)
 - [**1. Understanding the Governance Landscape**](#1-understanding-the-governance-landscape) (4 videos)
-  - Overview of AI governance
-  - Demystifying governance
-  - Need for increasing governance
-  - What went wrong?
+  - [Overview of AI governance](#overview-of-ai-governance)
+  - [Demystifying governance](#demystifying-governance)
+  - [Need for increasing governance](#need-for-increasing-governance)
+  - [What went wrong?](#what-went-wrong)
 - [**2. Building the Governance Lens**](#2-building-the-governance-lens) (3 videos)
-  - Dimensions of governance
-  - Embedding ethics by design
-  - Challenges of governing AI
+  - [Dimensions of governance](#dimensions-of-governance)
+  - [Embedding ethics by design](#embedding-ethics-by-design)
+  - [Challenges of governing AI](#challenges-of-governing-ai)
 - [**3. Measures to Introduce Governance**](#3-measures-to-introduce-governance) (3 videos)
-  - Setting up an ethics board
-  - Identify and mitigate AI risks
-  - Driving organizational governance
+  - [Setting up an ethics board](#setting-up-an-ethics-board)
+  - [Identify and mitigate AI risks](#identify-and-mitigate-ai-risks)
+  - [Driving organizational governance](#driving-organizational-governance)
 - [**4. Future of AI Governance**](#4-future-of-ai-governance) (2 videos)
-  - The road ahead
-  - Change management
+  - [The road ahead](#the-road-ahead)
+  - [Change management](#change-management)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Advancing AI governance in your organization
+  - [Advancing AI governance in your organization](#advancing-ai-governance-in-your-organization)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing the lens of AI governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/developing-the-lens-of-ai-governance?u=76281980)
@@ -119,14 +119,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), [[Ethics]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [vidhi] (1)
 
 
 ### 1. Understanding the Governance Landscape
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AI governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** [[Generative AI]] (9), ai (6), data (4), [[Privacy]] (1), business (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
@@ -268,7 +268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1), finally, (1), require (1)
+> **Frameworks & Libraries:** ai (16), data (2), [[Accountability]] (1), [[Design Thinking]] (1), business (1)
 > **Analogies:** such as (2), similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -355,7 +355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1)
+> **Frameworks & Libraries:** ai (12), [[Generative AI]] (5), business (5), data (3), [[Ethics]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -445,7 +445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), abstract (1), require (1), public (1), extends (1)
+> **Frameworks & Libraries:** ai (7), [[Algorithms]] (4), [[Search]] (3), next (2), [[Responsible AI]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** navigate to (1)
@@ -455,7 +455,7 @@ created: 2026-04-29
 
 ### 2. Building the Governance Lens
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimensions of governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980)
@@ -524,9 +524,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), data (5), business (2), [[Privacy]] (2), teams (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -605,7 +605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), let (1), case, (1)
+> **Frameworks & Libraries:** [[Ethics]] (8), ai (7), data (3), business (1), power (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
@@ -694,8 +694,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), power (2), [[Privacy]] (2), data (2), [[Cybersecurity]] (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** extends (1), let (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** aka (1)
 > **Definitions:** is a  (1)
@@ -704,7 +704,7 @@ created: 2026-04-29
 
 ### 3. Measures to Introduce Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up an ethics board
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980)
@@ -785,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** ai (13), [[Ethics]] (10), product (4), business (3), functional (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -881,7 +881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (19), ai (4), [[Privacy]] (3), business (1), [[Security]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -976,7 +976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1)
+> **Frameworks & Libraries:** ai (8), teams (4), business (2), [[Accountability]] (2), [[Ethics]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -984,7 +984,7 @@ created: 2026-04-29
 
 ### 4. Future of AI Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The road ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980)
@@ -1055,8 +1055,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (22), [[Responsible AI]] (2), [[Risk Management Framework (RMF)|Risk management framework]] (1), rmf (1), [[NIST]] (1)
 > **Env Vars:** rmf (1), nist (1), unesco (1), oecd (1), iso (1)
-> **Code Keywords:** let (1), public (1), self (1)
 > **Cross-References:** we talked about (1), we discussed (1)
 > **Analogies:** such as (1), similar to (1)
 > **Warnings:** keep in mind (1)
@@ -1147,15 +1147,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Generative AI]] (5), [[Automation]] (3), management (3), business (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advancing AI governance in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980)
@@ -1204,8 +1204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [presenter] (1)
 
 

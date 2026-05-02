@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Information%20Disclosure%20in%20Depth.md)
@@ -47,38 +47,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Allow me to disclose something
-  - Four-question framework
-  - Information disclosure as a part of STRIDE
+  - [Allow me to disclose something](#allow-me-to-disclose-something)
+  - [Four-question framework](#four-question-framework)
+  - [Information disclosure as a part of STRIDE](#information-disclosure-as-a-part-of-stride)
 - [**1. Data at Rest**](#1-data-at-rest) (3 videos)
-  - Authorized access
-  - Physical layer
-  - Metadata
+  - [Authorized access](#authorized-access)
+  - [Physical layer](#physical-layer)
+  - [Metadata](#metadata)
 - [**2. Data in Motion**](#2-data-in-motion) (3 videos)
-  - Encrypted and unencrypted
-  - Metadata in motion
-  - Non-internet data
+  - [Encrypted and unencrypted](#encrypted-and-unencrypted)
+  - [Metadata in motion](#metadata-in-motion)
+  - [Non-internet data](#non-internet-data)
 - [**3. Information Disclosure by Processes**](#3-information-disclosure-by-processes) (2 videos)
-  - Intentional disclosure
-  - Metadata and security
+  - [Intentional disclosure](#intentional-disclosure)
+  - [Metadata and security](#metadata-and-security)
 - [**4. Side Effects**](#4-side-effects) (3 videos)
-  - Radios: Intentional and accidental
-  - Timing
-  - Interpretation
+  - [Radios: Intentional and accidental](#radios-intentional-and-accidental)
+  - [Timing](#timing)
+  - [Interpretation](#interpretation)
 - [**5. Disclosure in Certain Technologies**](#5-disclosure-in-certain-technologies) (3 videos)
-  - Cloud
-  - IoT and mobile
-  - AI and machine learning
+  - [Cloud](#cloud)
+  - [IoT and mobile](#iot-and-mobile)
+  - [AI and machine learning](#ai-and-machine-learning)
 - [**6. Defenses**](#6-defenses) (3 videos)
-  - Metadata management
-  - Secrets and secrets management
-  - Cryptography
+  - [Metadata management](#metadata-management)
+  - [Secrets and secrets management](#secrets-and-secrets-management)
+  - [Cryptography](#cryptography)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Secure by design: Bring confidentiality to your systems
+  - [Secure by design: Bring confidentiality to your systems](#secure-by-design-bring-confidentiality-to-your-systems)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Allow me to disclose something
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1)
 > **Env Vars:** cva (1)
 > **Speakers:** - [adam] (1)
 
@@ -154,6 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), data (2), [[Representational State Transfer (REST)|Rest]] (1), cloud (1), [[IoT]] (1)
 > **Env Vars:** stride (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -187,15 +188,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Threat Modeling]] (1)
 > **Env Vars:** stride (2)
 > **Definitions:** is a  (1), stands for (1)
-> **Code Keywords:** protected (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Data at Rest
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Authorized access
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980)
@@ -250,8 +251,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -284,7 +285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1)
+> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (2), [[Internet of Things (IoT)|Internet of things]] (1), cloud (1), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Metadata
@@ -314,13 +315,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Data in Motion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Encrypted and unencrypted
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980)
@@ -365,6 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Wireshark]] (1), game (1), [[Metadata]] (1)
 > **Env Vars:** smtp (1), ecb (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -398,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), data (1), [[Phishing]] (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -432,6 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Kali Linux]] (1)
 > **Env Vars:** gps (1), lta (1), ip6 (1), ip4 (1)
 > **Analogies:** such as (1)
 > **Best Practices:** general rule (1)
@@ -440,7 +444,7 @@ created: 2026-04-29
 
 ### 3. Information Disclosure by Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intentional disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980)
@@ -469,9 +473,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft]] (1), web (1)
 > **Env Vars:** utc (1), helo (1), elho (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** default, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Metadata and security
@@ -509,14 +513,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (1), data (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** protected (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Side Effects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Radios: Intentional and accidental
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/radios-intentional-and-accidental?u=76281980)
@@ -541,6 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - [instructor] (1)
@@ -574,7 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), function (1)
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -620,14 +625,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - it (1)
 
 
 ### 5. Disclosure in Certain Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cloud?u=76281980)
@@ -652,6 +657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), data (2), [[Design Patterns]] (1), [[Agile Development|Agile]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### IoT and mobile
@@ -677,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Code Identifiers:** iphone (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - [instructor] (1)
@@ -721,8 +727,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -730,7 +736,7 @@ created: 2026-04-29
 
 ### 6. Defenses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Metadata management
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-management?u=76281980)
@@ -777,8 +783,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Metadata]] (2), feature (1), data (1)
 > **File Paths:** robot.txt (1), robots.txt (1)
-> **Code Keywords:** public (1), case. (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -820,8 +826,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (1), [[Windows]] (1), cloud (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** macos (1)
 > **Speakers:** - [instructor] (1)
 
@@ -848,14 +854,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break, (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2), management (1), data (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure by design: Bring confidentiality to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980)
@@ -880,8 +886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (2), [[Security]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** try. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)
 

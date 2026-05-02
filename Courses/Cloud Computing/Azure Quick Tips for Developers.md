@@ -31,7 +31,7 @@ tags:
   - skill/cloud-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Quick%20Tips%20for%20Developers.md)
@@ -50,56 +50,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Azure quick tips overview
+  - [Azure quick tips overview](#azure-quick-tips-overview)
 - [**1. Azure Quick Tips for Developers**](#1-azure-quick-tips-for-developers) (44 videos)
-  - Create a resource group from the portal
-  - Customize the default view in the portal
-  - Use the activity log to review actions
-  - Create a custom report of RGs by tag value
-  - Use multiple accounts in the portal
-  - Add a guest user to an Azure subscription
-  - Create a report of users
-  - Use bulk operations to manage users
-  - Check a user's access in Azure
-  - Create a custom dashboard
-  - Share a dashboard with operations
-  - Extract an ARM template from a resource group
-  - Dashboard from Quickstart templates
-  - ARM template from deployment
-  - Clean up resources in a resource group
-  - Delete a resource group
-  - Create a basic blueprint
-  - Assign a blueprint to grant access to RG
-  - Visual Studio's resource group project
-  - Use policy to enforce tagging
-  - Configure scaling for an App Service
-  - Add an autoscale rule to an App Service
-  - Automate backups for App Service
-  - Restore an App Service from a backup
-  - Diagnose and solve App Service problems
-  - Set up Azure DevOps from the portal
-  - Azure Storage Explorer
-  - Reset service principle credentials
-  - Enable dynamic data masking in Azure SQL
-  - Create a VNET
-  - Add a subnet to a VNET
-  - Define peering for VNETs
-  - Create a virtual machine with auto shutdown
-  - Configure monitoring for Azure VM
-  - Create an SQL database from the portal
-  - Dynamically scale an Azure SQL database
-  - Create a Key Vault
-  - Grant access to a Key Vault
-  - Update a secret in a Key Vault
-  - Purge or recover deleted Key Vaults
-  - Integrate App Service and Key Vault
-  - Create an App Insights dashboard
-  - Azure Quickstart Center
-  - Azure free services
+  - [Create a resource group from the portal](#create-a-resource-group-from-the-portal)
+  - [Customize the default view in the portal](#customize-the-default-view-in-the-portal)
+  - [Use the activity log to review actions](#use-the-activity-log-to-review-actions)
+  - [Create a custom report of RGs by tag value](#create-a-custom-report-of-rgs-by-tag-value)
+  - [Use multiple accounts in the portal](#use-multiple-accounts-in-the-portal)
+  - [Add a guest user to an Azure subscription](#add-a-guest-user-to-an-azure-subscription)
+  - [Create a report of users](#create-a-report-of-users)
+  - [Use bulk operations to manage users](#use-bulk-operations-to-manage-users)
+  - [Check a user's access in Azure](#check-a-users-access-in-azure)
+  - [Create a custom dashboard](#create-a-custom-dashboard)
+  - [Share a dashboard with operations](#share-a-dashboard-with-operations)
+  - [Extract an ARM template from a resource group](#extract-an-arm-template-from-a-resource-group)
+  - [Dashboard from Quickstart templates](#dashboard-from-quickstart-templates)
+  - [ARM template from deployment](#arm-template-from-deployment)
+  - [Clean up resources in a resource group](#clean-up-resources-in-a-resource-group)
+  - [Delete a resource group](#delete-a-resource-group)
+  - [Create a basic blueprint](#create-a-basic-blueprint)
+  - [Assign a blueprint to grant access to RG](#assign-a-blueprint-to-grant-access-to-rg)
+  - [Visual Studio's resource group project](#visual-studios-resource-group-project)
+  - [Use policy to enforce tagging](#use-policy-to-enforce-tagging)
+  - [Configure scaling for an App Service](#configure-scaling-for-an-app-service)
+  - [Add an autoscale rule to an App Service](#add-an-autoscale-rule-to-an-app-service)
+  - [Automate backups for App Service](#automate-backups-for-app-service)
+  - [Restore an App Service from a backup](#restore-an-app-service-from-a-backup)
+  - [Diagnose and solve App Service problems](#diagnose-and-solve-app-service-problems)
+  - [Set up Azure DevOps from the portal](#set-up-azure-devops-from-the-portal)
+  - [Azure Storage Explorer](#azure-storage-explorer)
+  - [Reset service principle credentials](#reset-service-principle-credentials)
+  - [Enable dynamic data masking in Azure SQL](#enable-dynamic-data-masking-in-azure-sql)
+  - [Create a VNET](#create-a-vnet)
+  - [Add a subnet to a VNET](#add-a-subnet-to-a-vnet)
+  - [Define peering for VNETs](#define-peering-for-vnets)
+  - [Create a virtual machine with auto shutdown](#create-a-virtual-machine-with-auto-shutdown)
+  - [Configure monitoring for Azure VM](#configure-monitoring-for-azure-vm)
+  - [Create an SQL database from the portal](#create-an-sql-database-from-the-portal)
+  - [Dynamically scale an Azure SQL database](#dynamically-scale-an-azure-sql-database)
+  - [Create a Key Vault](#create-a-key-vault)
+  - [Grant access to a Key Vault](#grant-access-to-a-key-vault)
+  - [Update a secret in a Key Vault](#update-a-secret-in-a-key-vault)
+  - [Purge or recover deleted Key Vaults](#purge-or-recover-deleted-key-vaults)
+  - [Integrate App Service and Key Vault](#integrate-app-service-and-key-vault)
+  - [Create an App Insights dashboard](#create-an-app-insights-dashboard)
+  - [Azure Quickstart Center](#azure-quickstart-center)
+  - [Azure free services](#azure-free-services)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure quick tips overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quick-tips-overview?u=76281980)
@@ -120,14 +120,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), new, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), cloud (2), management (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [mike (1)
 
 
 ### 1. Azure Quick Tips for Developers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a resource group from the portal
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980)
@@ -164,9 +164,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[LinkedIn]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Tools:** azure portal (3)
-> **Code Keywords:** case, (2)
 > **Speakers:** - [instructor] (1)
 
 #### Customize the default view in the portal
@@ -204,8 +204,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), application (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
-> **Code Keywords:** for. (1), switch (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Tools:** azure portal (1)
@@ -243,6 +243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Analytics]] (1)
 > **Env Vars:** csv (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -322,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), next (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (3), switch to (1)
 > **Env Vars:** msdn (1)
 > **Tools:** azure portal (1)
@@ -359,7 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), include. (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -394,8 +395,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Search]] (1)
 > **UI Navigation:** click on (5), go to (3)
-> **Code Keywords:** delete (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -432,9 +433,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Microsoft Azure|Azure]] (2), [[Search]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Exercise Files:** download the (1), template (1)
-> **Code Keywords:** delete (1)
 > **Env Vars:** csv (1)
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
@@ -482,9 +483,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), application (1), next (1)
 > **UI Navigation:** click on (3), select the (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -533,7 +534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), let (1), this. (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
@@ -569,7 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), case, (1)
+> **Frameworks & Libraries:** feature (1), [[Search]] (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** msdn (1)
 > **Definitions:** means that (1)
@@ -595,8 +596,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Microsoft Azure|Azure]] (1)
 > **Exercise Files:** template (6)
-> **Code Keywords:** this, (1), let (1)
 > **Tools:** powershell (2)
 > **UI Navigation:** click on (2)
 > **Env Vars:** msdn (1)
@@ -631,9 +632,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[GitHub]] (1)
 > **UI Navigation:** go to (2), click on (2), select the (1), scroll down (1)
 > **URLs:** [benkotips.com](https://benkotips.com) (2)
-> **Code Keywords:** case, (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -656,9 +657,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Exercise Files:** template (5)
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
-> **Code Keywords:** case, (1), this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Clean up resources in a resource group
@@ -683,7 +684,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **UI Navigation:** click on (4), go to (1), select the (1)
-> **Code Keywords:** delete (4)
 > **Speakers:** - [instructor] (1)
 
 #### Delete a resource group
@@ -713,7 +713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), case, (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (4), select the (1), go to (1)
 > **Env Vars:** msdn (1)
 > **Speakers:** - [instructor] (1)
@@ -765,8 +765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Microsoft Azure|Azure]] (1), [[Search]] (1), management (1)
 > **UI Navigation:** click on (3), go to (2)
-> **Code Keywords:** case, (1), let (1)
 > **Versions:** 0.1 (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
@@ -797,6 +797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), application (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Env Vars:** vnet (1)
 > **Cross-References:** go back to (1)
@@ -829,6 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Microsoft Azure|Azure]] (2), [[Search]] (1), cloud (1), [[GitHub]] (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Tools:** visual studio (1), github (1)
 > **Exercise Files:** template (2)
@@ -875,8 +877,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), data (1)
 > **UI Navigation:** click on (3), select the (1)
-> **Code Keywords:** require (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -911,6 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), application (1), web application (1), [[Search]] (1), traffic (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
@@ -952,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), default, (1), let (1)
+> **Frameworks & Libraries:** feature (1), application (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
 > **Env Vars:** cpu (2)
 > **Prerequisites:** set up (1), configure (1)
@@ -992,9 +995,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1033,8 +1036,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), database (1), [[Databases]] (1)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** case, (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1065,6 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Troubleshooting]] (2), feature (1), web (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** cpu (1), htb (1)
@@ -1104,7 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), continue (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[DevOps]] (2), application (1)
 > **UI Navigation:** click on (2), select the (2)
 > **Prerequisites:** set up (2)
 > **Tools:** azure portal (1)
@@ -1149,8 +1153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), next (2), data (2), [[Windows]] (1), database (1)
 > **UI Navigation:** click on (4), go to (2), open the (1)
-> **Code Keywords:** switch (1), continue (1), case, (1), let (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Prerequisites:** install (1)
@@ -1191,9 +1195,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Active Directory]] (1), [[Search]] (1), application (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Enable dynamic data masking in Azure SQL
@@ -1219,7 +1223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), this, (1)
+> **Frameworks & Libraries:** data (5), database (3), [[Security]] (2), feature (2), [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Analogies:** for instance (1)
@@ -1258,7 +1262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** traffic (2), [[Microsoft Azure|Azure]] (1), [[Network Security]] (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1292,8 +1296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), traffic (1), data (1), next (1), [[Security]] (1)
 > **UI Navigation:** click on (2), go to (2)
-> **Code Keywords:** let (1), default, (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **Tools:** azure portal (1)
@@ -1336,6 +1340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), data (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (1), go to (1), select the (1)
 > **Cross-References:** go back to (1), coming up (1)
 > **Analogies:** for example (1)
@@ -1383,6 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Virtual Machines]] (1), [[Microsoft Azure|Azure]] (1), management (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **Ports:** :00 (1)
 > **Tools:** visual studio (1)
@@ -1424,9 +1430,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **Prerequisites:** set up (3), configure (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1475,7 +1481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (1), default, (1), public (1)
+> **Frameworks & Libraries:** database (4), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Azure|Azure]] (2), [[SQL]] (2), [[Databases]] (2)
 > **Env Vars:** sql (5)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** template (2)
@@ -1529,9 +1535,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), [[Microsoft Azure|Azure]] (4), [[SQL]] (3), data (1), business (1)
 > **Env Vars:** sql (4), vcore (2), dtu (1)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** this, (1)
 > **Tools:** azure portal (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1568,8 +1574,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Search]] (1), next (1)
 > **UI Navigation:** click on (3), select the (1), go to (1)
-> **Code Keywords:** this. (1), delete (1), private (1), this, (1)
 > **CLI Commands:** az (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1612,8 +1618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (1), management (1)
 > **UI Navigation:** click on (6), go to (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - access (1)
@@ -1652,7 +1658,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (1), this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Purge or recover deleted Key Vaults
@@ -1684,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4)
+> **Frameworks & Libraries:** feature (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1720,7 +1725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), continue (1)
+> **Frameworks & Libraries:** application (3), [[Microsoft Azure|Azure]] (1), next (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** select the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1746,8 +1751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Azure Quickstart Center
@@ -1773,8 +1778,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), web (1), [[Virtual Machines]] (1), cloud (1), next (1)
 > **Prerequisites:** setup (1), set up (1)
-> **Code Keywords:** let (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1804,8 +1809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[PostgreSQL]] (1), ai (1), [[Computer Vision]] (1), [[Forms]] (1)
 > **UI Navigation:** click on (1), scroll down (1)
-> **Code Keywords:** this. (1)
 > **Env Vars:** b2c (1)
 > **Speakers:** - [instructor] (1)
 

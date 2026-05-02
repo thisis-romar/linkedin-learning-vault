@@ -9,7 +9,7 @@ level_advanced: 12
 tags:
   - skill
   - skill/microsoft-excel
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Microsoft%20Excel.md)

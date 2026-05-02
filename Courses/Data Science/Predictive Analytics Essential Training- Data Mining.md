@@ -41,7 +41,7 @@ tags:
   - skill/data-mining
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Predictive%20Analytics%20Essential%20Training-%20Data%20Mining.md)
@@ -60,68 +60,68 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Data mining and predictive analytics
-  - Data mining’s relevance in the age of AI
+  - [Data mining and predictive analytics](#data-mining-and-predictive-analytics)
+  - [Data mining’s relevance in the age of AI](#data-minings-relevance-in-the-age-of-ai)
 - [**1. What Is Data Mining and Predictive Analytics?**](#1-what-is-data-mining-and-predictive-analytics) (3 videos)
-  - Introducing the essential elements
-  - Defining data mining
-  - Introducing CRISP-DM
+  - [Introducing the essential elements](#introducing-the-essential-elements)
+  - [Defining data mining](#defining-data-mining)
+  - [Introducing CRISP-DM](#introducing-crisp-dm)
 - [**2. Problem Definition**](#2-problem-definition) (5 videos)
-  - Beginning with a solid first step: Problem definition
-  - Framing the problem in terms of a micro-decision
-  - Why every model needs an effective intervention strategy
-  - Evaluate a project's potential with business metrics and ROI
-  - Translating business problems into data mining problems
+  - [Beginning with a solid first step: Problem definition](#beginning-with-a-solid-first-step-problem-definition)
+  - [Framing the problem in terms of a micro-decision](#framing-the-problem-in-terms-of-a-micro-decision)
+  - [Why every model needs an effective intervention strategy](#why-every-model-needs-an-effective-intervention-strategy)
+  - [Evaluate a project's potential with business metrics and ROI](#evaluate-a-projects-potential-with-business-metrics-and-roi)
+  - [Translating business problems into data mining problems](#translating-business-problems-into-data-mining-problems)
 - [**3. Data Requirements**](#3-data-requirements) (8 videos)
-  - Understanding data requirements
-  - Gathering historical data
-  - Meeting the flat file requirement
-  - Determining your target variable
-  - Selecting relevant data
-  - Hints on effective data integration
-  - Understanding feature engineering
-  - Developing your craft
+  - [Understanding data requirements](#understanding-data-requirements)
+  - [Gathering historical data](#gathering-historical-data)
+  - [Meeting the flat file requirement](#meeting-the-flat-file-requirement)
+  - [Determining your target variable](#determining-your-target-variable)
+  - [Selecting relevant data](#selecting-relevant-data)
+  - [Hints on effective data integration](#hints-on-effective-data-integration)
+  - [Understanding feature engineering](#understanding-feature-engineering)
+  - [Developing your craft](#developing-your-craft)
 - [**4. Resources You Will Need**](#4-resources-you-will-need) (5 videos)
-  - Skill sets and resources that you'll need
-  - Compare machine learning and statistics
-  - Assessing team requirements
-  - Budgeting sufficient time
-  - Working with subject matter experts
+  - [Skill sets and resources that you'll need](#skill-sets-and-resources-that-youll-need)
+  - [Compare machine learning and statistics](#compare-machine-learning-and-statistics)
+  - [Assessing team requirements](#assessing-team-requirements)
+  - [Budgeting sufficient time](#budgeting-sufficient-time)
+  - [Working with subject matter experts](#working-with-subject-matter-experts)
 - [**5. Problems You Will Face**](#5-problems-you-will-face) (4 videos)
-  - Anticipating project challenges
-  - Addressing missing data
-  - Addressing organizational resistance
-  - Addressing models that degrade
+  - [Anticipating project challenges](#anticipating-project-challenges)
+  - [Addressing missing data](#addressing-missing-data)
+  - [Addressing organizational resistance](#addressing-organizational-resistance)
+  - [Addressing models that degrade](#addressing-models-that-degrade)
 - [**6. Finding the Solution**](#6-finding-the-solution) (5 videos)
-  - Preparing for the modeling phase tasks
-  - Searching for optimal solutions
-  - Seeking surprise results
-  - Establishing proof that the model works
-  - Embracing a trial and error approach
+  - [Preparing for the modeling phase tasks](#preparing-for-the-modeling-phase-tasks)
+  - [Searching for optimal solutions](#searching-for-optimal-solutions)
+  - [Seeking surprise results](#seeking-surprise-results)
+  - [Establishing proof that the model works](#establishing-proof-that-the-model-works)
+  - [Embracing a trial and error approach](#embracing-a-trial-and-error-approach)
 - [**7. Putting the Solution to Work**](#7-putting-the-solution-to-work) (6 videos)
-  - Preparing for the deployment phase
-  - Using probabilities and propensities
-  - Understanding meta modeling
-  - Understanding reproducibility
-  - Preparing for model deployment
-  - How to approach project documentation
+  - [Preparing for the deployment phase](#preparing-for-the-deployment-phase)
+  - [Using probabilities and propensities](#using-probabilities-and-propensities)
+  - [Understanding meta modeling](#understanding-meta-modeling)
+  - [Understanding reproducibility](#understanding-reproducibility)
+  - [Preparing for model deployment](#preparing-for-model-deployment)
+  - [How to approach project documentation](#how-to-approach-project-documentation)
 - [**8. The Nine Laws of Data Mining**](#8-the-nine-laws-of-data-mining) (10 videos)
-  - CRISP-DM and the laws of data mining
-  - Understanding CRISP-DM
-  - Advice for using CRISP-DM
-  - Understanding the nine laws of data mining
-  - Understanding the first and second laws
-  - Understanding the data preparation law
-  - Understanding the laws about patterns
-  - Understanding the insight and prediction laws
-  - Understanding the value law
-  - Understanding why models change
+  - [CRISP-DM and the laws of data mining](#crisp-dm-and-the-laws-of-data-mining)
+  - [Understanding CRISP-DM](#understanding-crisp-dm)
+  - [Advice for using CRISP-DM](#advice-for-using-crisp-dm)
+  - [Understanding the nine laws of data mining](#understanding-the-nine-laws-of-data-mining)
+  - [Understanding the first and second laws](#understanding-the-first-and-second-laws)
+  - [Understanding the data preparation law](#understanding-the-data-preparation-law)
+  - [Understanding the laws about patterns](#understanding-the-laws-about-patterns)
+  - [Understanding the insight and prediction laws](#understanding-the-insight-and-prediction-laws)
+  - [Understanding the value law](#understanding-the-value-law)
+  - [Understanding why models change](#understanding-why-models-change)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data mining and predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-and-predictive-analytics-24925114?u=76281980)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (6), [[Predictive Analytics]] (1), [[Analytics]] (1)
 > **Speakers:** - over (1)
 
 #### Data mining’s relevance in the age of AI
@@ -180,13 +180,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** data (6), [[Deep Learning]] (5), ai (4), [[Predictive Analytics]] (1), [[Unstructured Data]] (1)
 > **Speakers:** - i (1)
 
 
 ### 1. What Is Data Mining and Predictive Analytics?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the essential elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980)
@@ -241,7 +241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (5), [[Predictive Analytics]] (3), [[Business Intelligence (BI)|Business intelligence]] (2), [[Statistics]] (1), [[Statistical Analysis]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
 
@@ -346,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), continue (1), this. (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (21), business (3), [[Algorithms]] (2), [[Predictive Analytics]] (1), [[Decision Trees]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
@@ -395,15 +395,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[CRISP-DM]] (6)
 > **Env Vars:** crisp (6)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Problem Definition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beginning with a solid first step: Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/beginning-with-a-solid-first-step-problem-definition?u=76281980)
@@ -422,8 +422,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
@@ -468,6 +468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), data (2), [[Predictive Analytics]] (1), game (1), management (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** you'll need (1)
@@ -510,8 +511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -578,8 +579,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), next (2), data (1), management (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** case, (1)
 > **Env Vars:** roi (1)
 > **Tools:** notion (1)
 > **Definitions:** in other words (1)
@@ -652,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), case, (1)
+> **Frameworks & Libraries:** management (4), [[Text Mining]] (3), [[Analytics]] (2), next (2), data (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** think of it as (1)
@@ -661,7 +662,7 @@ created: 2026-04-29
 
 ### 3. Data Requirements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding data requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-data-requirements?u=76281980)
@@ -692,8 +693,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Predictive Analytics]] (1), business (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - often (1)
 
@@ -736,9 +737,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Predictive Analytics]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), bi (1), [[Algorithms]] (1)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -765,6 +766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (2), next (1), [[Predictive Analytics]] (1), [[Databases]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
@@ -801,6 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Computer Vision]] (2), [[Supervised Learning]] (2), management (1), next (1)
 > **CLI Commands:** cat (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -878,7 +881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (1)
+> **Frameworks & Libraries:** data (8), next (2), [[Big Data]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -940,8 +943,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), business (2), [[Customer Relations]] (1), next (1), [[Unstructured Data]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), this. (1)
 > **Tools:** notion (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [keith] (1)
@@ -999,7 +1002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (5), [[Feature Engineering]] (4), [[Algorithms]] (1), [[CRISP-DM]] (1), business (1)
 > **Analogies:** just like (2), imagine (1)
 > **Definitions:** is a  (1), is called (1)
 > **Env Vars:** crisp (1)
@@ -1040,13 +1043,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), next (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. Resources You Will Need
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Skill sets and resources that you'll need
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/skill-sets-and-resources-that-you-ll-need?u=76281980)
@@ -1065,6 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), functional (1)
 > **Speakers:** - you (1)
 
 #### Compare machine learning and statistics
@@ -1104,6 +1109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (8), [[Statistics]] (6), product (1), next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
@@ -1176,10 +1182,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Programming]] (3), next (1), [[Analytics]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), go to (1)
-> **Code Keywords:** while. (1)
 > **Env Vars:** iadss (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1220,7 +1226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Analytics]] (2), next (1), management (1), business (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - [instructor] (1)
@@ -1282,8 +1288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (2), [[Search]] (2), [[Banking]] (1), [[Algorithms]] (1)
 > **Env Vars:** sme (4)
-> **Code Keywords:** let (2), for, (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -1292,7 +1298,7 @@ created: 2026-04-29
 
 ### 5. Problems You Will Face
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Anticipating project challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/anticipating-project-challenges?u=76281980)
@@ -1321,7 +1327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - every (1)
 
@@ -1392,6 +1398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Algorithms]] (3), [[Statistics]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Addressing organizational resistance
@@ -1451,6 +1458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), management (2), business (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** roi (1)
 > **Best Practices:** make sure to (1)
@@ -1513,9 +1521,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[CRISP-DM]] (3), [[Algorithms]] (3), business (2), next (1)
 > **Env Vars:** crisp (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** static (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - if (1)
@@ -1523,7 +1531,7 @@ created: 2026-04-29
 
 ### 6. Finding the Solution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for the modeling phase tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980)
@@ -1556,8 +1564,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Analytics]] (2), [[Algorithms]] (1), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - in (1)
 
@@ -1640,8 +1648,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Search]] (5), [[Statistics]] (2), business (2), next (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (2), this. (1), try. (1)
 > **Tools:** notion (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
@@ -1707,7 +1715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (8), [[Statistics]] (2), next (1), business (1), [[Algorithms]] (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1774,6 +1782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Search]] (1), [[Engineering]] (1), next (1), [[Statistics]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1821,13 +1830,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (8), business (2), next (1), prompt (1), [[Algorithms]] (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 7. Putting the Solution to Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for the deployment phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980)
@@ -1848,7 +1857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1), [[Predictive Analytics]] (1), [[Hardware]] (1)
 > **Speakers:** - this (1)
 
 #### Using probabilities and propensities
@@ -1910,6 +1919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (3), next (1), [[Algorithms]] (1), business (1), management (1)
 > **Versions:** 1.0 (1), 0.0 (1), 0.5 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1974,7 +1984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** business (2), next (1), [[Decision Trees]] (1), strengths (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Definitions:** is a  (1)
@@ -2032,8 +2042,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Prototyping]] (1), [[CRISP-DM]] (1), database (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** crisp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2089,6 +2099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (1), [[Data Engineering]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2159,16 +2170,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[CRISP-DM]] (2), next (1), [[Forms]] (1), management (1)
 > **Env Vars:** crisp (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. The Nine Laws of Data Mining
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CRISP-DM and the laws of data mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/crisp-dm-and-the-laws-of-data-mining?u=76281980)
@@ -2193,6 +2204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[CRISP-DM]] (2)
 > **Env Vars:** crisp (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -2260,9 +2272,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (3), [[CRISP-DM]] (1), [[Microsoft]] (1), aws (1)
 > **Env Vars:** crisp (1), ncr (1), ibm (1), aws (1)
 > **CLI Commands:** find (2), aws (1)
-> **Code Keywords:** this. (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2355,8 +2367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), business (9), [[CRISP-DM]] (2), leadership (2), next (2)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this. (3)
 > **Definitions:** is an  (2), refers to (1)
 > **Env Vars:** crisp (2)
 > **Cross-References:** in the next (1)
@@ -2393,6 +2405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[CRISP-DM]] (4), [[Statistics]] (1), next (1)
 > **Env Vars:** crisp (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2438,9 +2451,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (13), data (5), [[CRISP-DM]] (2), [[Algorithms]] (1), next (1)
 > **Env Vars:** crisp (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2531,8 +2544,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), business (4), [[Algorithms]] (3), [[Analytics]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** self (1), this. (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -2601,8 +2614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), business (6), [[Algorithms]] (2), next (1), application (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** require (1)
 > **Best Practices:** you should always (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2662,6 +2675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (2), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Analogies:** similar to (1)
@@ -2712,9 +2726,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), data (2), [[CRISP-DM]] (1)
 > **Env Vars:** dvd (1), roi (1), crisp (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [presenter] (1)
 
 #### Understanding why models change
@@ -2776,15 +2790,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[CRISP-DM]] (2), business (2), [[Predictive Analytics]] (1)
 > **Env Vars:** crisp (2)
-> **Code Keywords:** this. (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980)
@@ -2811,6 +2825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Predictive Analytics]] (1), management (1), [[LinkedIn]] (1), feature (1)
 > **Speakers:** - [keith] (1)
 
 

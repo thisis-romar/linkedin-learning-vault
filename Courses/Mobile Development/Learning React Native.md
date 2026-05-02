@@ -26,7 +26,7 @@ tags:
   - topic/mobile-development
   - skill/react-native
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Learning%20React%20Native.md)
@@ -45,55 +45,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Framework of learning React
-  - What you should know
-  - Using the exercise files
+  - [Framework of learning React](#framework-of-learning-react)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. What Is React Native?**](#1-what-is-react-native) (4 videos)
-  - What is React?
-  - What is React Native?
-  - How React Native works?
-  - What is Expo?
+  - [What is React?](#what-is-react)
+  - [What is React Native?](#what-is-react-native)
+  - [How React Native works?](#how-react-native-works)
+  - [What is Expo?](#what-is-expo)
 - [**2. Working with Expo**](#2-working-with-expo) (4 videos)
-  - Installing the Expo client
-  - Creating a Snack
-  - Creating a new project
-  - Running a project on a device
+  - [Installing the Expo client](#installing-the-expo-client)
+  - [Creating a Snack](#creating-a-snack)
+  - [Creating a new project](#creating-a-new-project)
+  - [Running a project on a device](#running-a-project-on-a-device)
 - [**3. Components and APIs**](#3-components-and-apis) (5 videos)
-  - Native components
-  - Native APIs
-  - Creating style sheets
-  - Flexbox layouts
-  - The Image component
+  - [Native components](#native-components)
+  - [Native APIs](#native-apis)
+  - [Creating style sheets](#creating-style-sheets)
+  - [Flexbox layouts](#flexbox-layouts)
+  - [The Image component](#the-image-component)
 - [**4. Working with Views**](#4-working-with-views) (8 videos)
-  - Responding to touches
-  - Using a touchable highlight
-  - Extracting a custom component
-  - Importing a custom component
-  - Using a flat list
-  - Creating a form
-  - Collecting input
-  - Creating a custom hook
+  - [Responding to touches](#responding-to-touches)
+  - [Using a touchable highlight](#using-a-touchable-highlight)
+  - [Extracting a custom component](#extracting-a-custom-component)
+  - [Importing a custom component](#importing-a-custom-component)
+  - [Using a flat list](#using-a-flat-list)
+  - [Creating a form](#creating-a-form)
+  - [Collecting input](#collecting-input)
+  - [Creating a custom hook](#creating-a-custom-hook)
 - [**5. Platform APIs**](#5-platform-apis) (6 videos)
-  - Using AsyncStorage
-  - React Navigation
-  - Navigating between screens
-  - Completing the Color Details page
-  - Fetching data
-  - Using RefreshControl
+  - [Using AsyncStorage](#using-asyncstorage)
+  - [React Navigation](#react-navigation)
+  - [Navigating between screens](#navigating-between-screens)
+  - [Completing the Color Details page](#completing-the-color-details-page)
+  - [Fetching data](#fetching-data)
+  - [Using RefreshControl](#using-refreshcontrol)
 - [**6. Building Your Project**](#6-building-your-project) (7 videos)
-  - Installing an iOS simulator
-  - Installing an Android AVD for Mac
-  - Installing an Android AVD for Windows
-  - Publishing your Expo project
-  - Building for iOS devices
-  - Building for Android devices
-  - Ejecting from Expo
+  - [Installing an iOS simulator](#installing-an-ios-simulator)
+  - [Installing an Android AVD for Mac](#installing-an-android-avd-for-mac)
+  - [Installing an Android AVD for Windows](#installing-an-android-avd-for-windows)
+  - [Publishing your Expo project](#publishing-your-expo-project)
+  - [Building for iOS devices](#building-for-ios-devices)
+  - [Building for Android devices](#building-for-android-devices)
+  - [Ejecting from Expo](#ejecting-from-expo)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Framework of learning React
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), let (1)
+> **Frameworks & Libraries:** [[React Native]] (6), [[JavaScript]] (3), data (3), [[Android]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (1)
 > **UI Navigation:** open the (1)
@@ -201,8 +201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (11), [[JavaScript]] (8), [[React Native]] (4), web (1), css (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** css (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - this (1)
@@ -250,19 +250,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (3), [[Node.js]] (1), application (1), next (1), [[React Native]] (1)
 > **CLI Commands:** npm (3), find (2), node (1), make (1)
 > **Prerequisites:** set up (3), install (3)
 > **Env Vars:** ide (2)
 > **Exercise Files:** exercise files (2)
 > **File Paths:** node.js (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Tools:** vs code (1)
 
 
 ### 1. What Is React Native?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980)
@@ -311,7 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4)
+> **Frameworks & Libraries:** [[React.js|React]] (17), [[JavaScript]] (2), [[Jetpack Compose|Compose]] (2), dom (2), open-source (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** osx (1)
@@ -382,9 +382,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (7), [[React.js|React]] (7), [[JavaScript]] (5), [[Android]] (4), [[Java]] (2)
 > **Code Identifiers:** ios (6), iphone (1)
 > **Env Vars:** jsx (3), dom (1)
-> **Code Keywords:** this. (1), interface (1)
 > **Analogies:** for example (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -456,8 +456,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (13), [[React Native]] (8), application (8), web (2), [[HTML]] (2)
 > **Env Vars:** html (2), css (1), sdk (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** ios (2)
 > **Prerequisites:** install (2)
 > **Definitions:** is a  (1)
@@ -522,10 +522,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (9), [[Android]] (8), [[JavaScript]] (3), [[Java]] (3), [[Xcode]] (2)
 > **Env Vars:** sdk (2), ide (2), swift (1), cli (1)
 > **Definitions:** is a  (3), is an  (3)
 > **Code Identifiers:** ios (5)
-> **Code Keywords:** finally, (2)
 > **Prerequisites:** install (1), getting started (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
@@ -533,7 +533,7 @@ created: 2026-04-29
 
 ### 2. Working with Expo
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing the Expo client
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980)
@@ -582,6 +582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (2), [[Search]] (2), application (1), [[Android]] (1), next (1)
 > **Prerequisites:** install (3)
 > **URLs:** [expo.io](https://expo.io) (2)
 > **Code Identifiers:** ios (1)
@@ -666,7 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), function (1), let (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[React Native]] (6), web (3), application (2), [[Android]] (2), [[React.js|React]] (2)
 > **Env Vars:** ios (4), url (1)
 > **URLs:** [expo.io](https://expo.io) (1)
 > **Exercise Files:** boilerplate (1)
@@ -749,6 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (4), application (3), next (3), [[Xcode]] (3), [[CLI]] (2)
 > **Prerequisites:** set up (5), install (3)
 > **Code Identifiers:** ios (6)
 > **Tools:** vs code (3), terminal (1), command line (1)
@@ -756,7 +758,6 @@ created: 2026-04-29
 > **Cross-References:** in the last (2), in the next (2)
 > **Env Vars:** cli (2), dns (1)
 > **Exercise Files:** template (2)
-> **File Paths:** app.js (1)
 
 #### Running a project on a device
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980)
@@ -847,9 +848,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[JavaScript]] (2), [[CLI]] (1), [[React Native]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** cli (1), dns (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** click on (1)
@@ -859,7 +860,7 @@ created: 2026-04-29
 
 ### 3. Components and APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Native components
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980)
@@ -952,7 +953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), this, (1)
+> **Frameworks & Libraries:** [[React Native]] (6), [[JavaScript]] (2), [[npm]] (1), [[React.js|React]] (1), application (1)
 > **Code Identifiers:** ios (3), onbuttonpress (1), onpress (1), iphone (1)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** warning (3)
@@ -1054,8 +1055,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), [[Android]] (7), application (3), [[React Native]] (3), [[React.js|React]] (1)
 > **Env Vars:** api (9)
-> **Code Keywords:** let (2), interface (1), case, (1), function (1)
 > **Code Identifiers:** ios (5)
 > **Definitions:** is an  (2), is a  (1), stands for (1)
 > **CLI Commands:** find (2), make (1)
@@ -1132,7 +1133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (1), class, (1), interface (1)
+> **Frameworks & Libraries:** [[React Native]] (5), css (5), [[Microsoft Word|Word]] (2)
 > **Env Vars:** css (5)
 > **Code Identifiers:** camelcase (1), margintop (1), backgroundcolor (1)
 > **CLI Commands:** make (2)
@@ -1204,7 +1205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), default, (2), case, (1), this, (1)
+> **Frameworks & Libraries:** css (3), [[React Native]] (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (1)
 > **URLs:** [css-tricks.com](https://css-tricks.com) (1)
@@ -1258,7 +1259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** api (2)
 > **Analogies:** picture (3), just like (1), for instance (1)
 > **Code Identifiers:** picbiscuit (1), picjungle (1), borderradius (1)
 > **Env Vars:** api (2)
@@ -1268,7 +1269,7 @@ created: 2026-04-29
 
 ### 4. Working with Views
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responding to touches
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/responding-to-touches?u=76281980)
@@ -1343,8 +1344,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1), application (1)
 > **Code Identifiers:** usestate (6), setbackgroundcolor (3), onpress (3), backgroundcolor (1)
-> **Code Keywords:** function (6), interface (2), case, (2), let (1), this. (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - thus (1)
@@ -1432,11 +1433,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (2), css (2), [[Microsoft Word|Word]] (1), web (1)
 > **Code Identifiers:** buttontext (3), textalign (2), onpress (1), flexdirection (1), underlaycolor (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), means that (1), stands for (1)
 > **Warnings:** warning (3)
-> **Code Keywords:** let (1), type. (1)
 > **Env Vars:** css (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1523,7 +1524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (2), this, (1), pass (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Microsoft Word|Word]] (1), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - react (1)
@@ -1587,8 +1588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **File Paths:** app.js (5), colorbutton.js (3)
-> **Code Keywords:** let (3), function (3), delete (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** usestate (1)
 > **Cross-References:** go back to (1)
@@ -1669,8 +1670,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[JSON]] (2), [[React.js|React]] (2), application (1)
 > **Code Identifiers:** renderitem (3), justifycontent (1), alignitems (1), defaultcolors (1)
-> **Code Keywords:** let (1), this, (1), self (1), pass (1), function (1)
 > **Env Vars:** json (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1752,7 +1753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), this, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), next (3), [[React Native]] (1)
 > **CLI Commands:** make (4)
 > **File Paths:** colorform.js (2), app.js (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1895,7 +1896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (3), pass (2), interface (1), this, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), next (1)
 > **Code Identifiers:** setvalue (5), onnewcolor (4), usestate (2), useref (2), onchange (1)
 > **Definitions:** is a  (2), is called (1)
 > **File Paths:** app.js (1), colorform.js (1)
@@ -2011,7 +2012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), pass (3), let (2), for. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[React Hooks]] (1), [[npm]] (1), next (1)
 > **Code Identifiers:** addcolor (4), newcolor (2), usecolors (2), colorform (1), defaultcolors (1)
 > **CLI Commands:** npm (1)
 > **Cross-References:** in the last (1)
@@ -2023,7 +2024,7 @@ created: 2026-04-29
 
 ### 5. Platform APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AsyncStorage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980)
@@ -2108,8 +2109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), next (3), application (2), [[JSON]] (2), [[React.js|React]] (1)
 > **Code Identifiers:** useeffect (6), getitem (3), colordata (2), loadcolors (2), usecolors (1)
-> **Code Keywords:** function (5), let (3), async (1), await (1), case, (1)
 > **Env Vars:** json (2)
 > **File Paths:** hooks.js (1)
 > **CLI Commands:** make (1)
@@ -2259,7 +2260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (1), import. (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9), application (2), [[npm]] (1), [[React Native]] (1)
 > **CLI Commands:** make (5), npm (1)
 > **Prerequisites:** install (5), getting started (1)
 > **File Paths:** app.js (4), colorlist.js (1)
@@ -2353,7 +2354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4), function (2), case, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), css (1), data (1)
 > **UI Navigation:** navigate to (2), click on (2), go to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
@@ -2426,8 +2427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), next (2), [[npm]] (2)
 > **CLI Commands:** npm (2), make (1), find (1)
-> **Code Keywords:** let (3), continue (1)
 > **Env Vars:** hsl (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** click on (1)
@@ -2534,7 +2535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2), delete (1), async (1)
+> **Frameworks & Libraries:** application (7), data (4), [[Fetch]] (4), api (3), [[JSON]] (3)
 > **Env Vars:** api (2), json (2), ide (1), css (1), url (1)
 > **Code Identifiers:** useeffect (2), loadpet (2), usestate (1), ios (1)
 > **CLI Commands:** make (4)
@@ -2600,14 +2601,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** data (4), application (3), [[JavaScript]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - so (1)
 
 
 ### 6. Building Your Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing an iOS simulator
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980)
@@ -2640,6 +2641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (6), application (3), [[Search]] (1), [[npm]] (1)
 > **Env Vars:** ios (4), mac (1)
 > **Prerequisites:** install (4)
 > **CLI Commands:** find (2), npm (1)
@@ -2731,6 +2733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (22), application (2), [[Google]] (2), next (2), [[React Native]] (1)
 > **Prerequisites:** configure (2), install (2), set up (1), setup (1)
 > **Env Vars:** avd (2), ide (1), sdk (1), dmg (1)
 > **CLI Commands:** find (2)
@@ -2819,9 +2822,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (20), application (3), [[Windows]] (2), [[Google]] (2), next (2)
 > **Prerequisites:** set up (3), install (2), configure (2)
 > **UI Navigation:** select the (3), open the (1), navigate to (1), click on (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Env Vars:** sdk (1), avd (1), npm (1)
 > **CLI Commands:** make (1), npm (1)
 > **Tools:** command prompt (1)
@@ -2919,11 +2922,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (17), [[JavaScript]] (4), [[Android]] (3), web (2), [[React Native]] (1)
 > **Code Identifiers:** ios (5)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** png (1), cli (1), url (1)
 > **Tools:** terminal (2), vs code (1)
-> **Code Keywords:** this. (1), let (1)
 > **File Paths:** app.json (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -3019,8 +3022,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (16), [[Xcode]] (3), [[JSON]] (2), [[CLI]] (2), [[Apple Developer]] (1)
 > **Code Identifiers:** ios (12)
-> **Code Keywords:** let (4), case, (1)
 > **CLI Commands:** unzip (2), find (1), tar (1)
 > **Prerequisites:** install (3), set up (1)
 > **File Paths:** app.json (2)
@@ -3097,8 +3100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (14), application (10), [[Google]] (2), [[JSON]] (1), [[CLI]] (1)
 > **Env Vars:** apk (4), stk (1), cli (1)
-> **Code Keywords:** let (2), case, (1), this, (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** install (3)
 > **File Paths:** app.json (1)
@@ -3151,6 +3154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), [[Android]] (6), [[CLI]] (1), [[Xcode]] (1)
 > **Code Identifiers:** ios (4)
 > **Env Vars:** cli (1)
 > **Tools:** terminal (1)
@@ -3162,7 +3166,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980)
@@ -3219,8 +3223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React Native]] (2), feature (2), [[Forms]] (1), data (1), [[Software Development]] (1)
 > **CLI Commands:** find (3), npm (1)
-> **Code Keywords:** continue (1), delete (1), finally, (1)
 > **Env Vars:** api (1), sdk (1)
 > **Speakers:** - thank (1)
 

@@ -33,7 +33,7 @@ tags:
   - skill/api-testing
   - skill/test-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Postman%20Essential%20Training.md)
@@ -52,45 +52,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Why automate your API tests?
-  - What you should know
-  - Setting up your test environment
+  - [Why automate your API tests?](#why-automate-your-api-tests)
+  - [What you should know](#what-you-should-know)
+  - [Setting up your test environment](#setting-up-your-test-environment)
 - [**1. Getting Started with Postman**](#1-getting-started-with-postman) (12 videos)
-  - Creating collections and folders
-  - The contact list application
-  - How JSON Web Tokens (JWTs) work
-  - Creating GET requests
-  - Creating POST requests
-  - Creating PUT and DELETE requests
-  - Creating negative requests: Part 1
-  - Creating negative requests: Part 2
-  - Using environment variables
-  - Saving response data as a variable
-  - Challenge: Add variables to a request
-  - Solution: Add variables to a request
+  - [Creating collections and folders](#creating-collections-and-folders)
+  - [The contact list application](#the-contact-list-application)
+  - [How JSON Web Tokens (JWTs) work](#how-json-web-tokens-jwts-work)
+  - [Creating GET requests](#creating-get-requests)
+  - [Creating POST requests](#creating-post-requests)
+  - [Creating PUT and DELETE requests](#creating-put-and-delete-requests)
+  - [Creating negative requests: Part 1](#creating-negative-requests-part-1)
+  - [Creating negative requests: Part 2](#creating-negative-requests-part-2)
+  - [Using environment variables](#using-environment-variables)
+  - [Saving response data as a variable](#saving-response-data-as-a-variable)
+  - [Challenge: Add variables to a request](#challenge-add-variables-to-a-request)
+  - [Solution: Add variables to a request](#solution-add-variables-to-a-request)
 - [**2. Easy Postman Assertions**](#2-easy-postman-assertions) (6 videos)
-  - Status type assertions
-  - Body assertions
-  - Header and response time assertions
-  - Debugging with the Postman console
-  - Challenge: Write assertions
-  - Solution: Write assertions
+  - [Status type assertions](#status-type-assertions)
+  - [Body assertions](#body-assertions)
+  - [Header and response time assertions](#header-and-response-time-assertions)
+  - [Debugging with the Postman console](#debugging-with-the-postman-console)
+  - [Challenge: Write assertions](#challenge-write-assertions)
+  - [Solution: Write assertions](#solution-write-assertions)
 - [**3. Advanced Postman Assertions**](#3-advanced-postman-assertions) (5 videos)
-  - JSON assertions
-  - Nested JSON assertions
-  - Asserting on complicated JSON
-  - Challenge: Complicated assertions
-  - Solution: Complicated assertions
+  - [JSON assertions](#json-assertions)
+  - [Nested JSON assertions](#nested-json-assertions)
+  - [Asserting on complicated JSON](#asserting-on-complicated-json)
+  - [Challenge: Complicated assertions](#challenge-complicated-assertions)
+  - [Solution: Complicated assertions](#solution-complicated-assertions)
 - [**4. Running Your Test Collections**](#4-running-your-test-collections) (3 videos)
-  - Using the Collection Runner
-  - Exporting your collection
-  - Running your collection with Newman
+  - [Using the Collection Runner](#using-the-collection-runner)
+  - [Exporting your collection](#exporting-your-collection)
+  - [Running your collection with Newman](#running-your-collection-with-newman)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing with API testing
+  - [Continuing with API testing](#continuing-with-api-testing)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why automate your API tests?
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests?u=76281980)
@@ -109,10 +109,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), application (1), data (1), [[JavaScript]] (1), [[Automation]] (1)
 > **Env Vars:** api (2)
 > **Tools:** postman (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** assert (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kristin] (1)
 
@@ -129,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **Tools:** command line (1), postman (1), windows terminal (1)
 > **Env Vars:** http (1), rest (1)
 > **CLI Commands:** node (1)
@@ -185,6 +186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), [[npm]] (5), next (1)
 > **CLI Commands:** node (9), npm (5)
 > **Tools:** postman (6), command line (2)
 > **Prerequisites:** you'll need (3), install (3)
@@ -192,12 +194,11 @@ created: 2026-04-29
 > **UI Navigation:** click on (1), go to (1)
 > **Env Vars:** lts (1)
 > **Versions:** 19.3.0 (1)
-> **Exercise Files:** exercise file (1)
 
 
 ### 1. Getting Started with Postman
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating collections and folders
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-collections-and-folders?u=76281980)
@@ -262,7 +263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), return. (2)
+> **Frameworks & Libraries:** next (3), application (1)
 > **Tools:** postman (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
@@ -320,7 +321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (2), interface (1)
+> **Frameworks & Libraries:** api (7), next (1), [[JSON]] (1), web (1), [[Tokens]] (1)
 > **Env Vars:** api (7), json (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **CLI Commands:** make (1)
@@ -405,8 +406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (5), api (2), application (2), data (1), web (1)
 > **Env Vars:** json (5), jwt (4), url (3), api (2), post (2)
-> **Code Keywords:** let (7), return. (3), this, (1), finally, (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (3), dropdown (2)
 > **API Endpoints:** post  (1), get  (1)
@@ -542,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), module (1), delete (1), return. (1)
+> **Frameworks & Libraries:** api (2), next (2)
 > **Env Vars:** url (8), api (2), post (1), put (1), delete (1)
 > **API Endpoints:** get  (10), post  (1)
 > **CLI Commands:** find (3), make (3)
@@ -630,7 +631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), return. (1), delete (1)
+> **Frameworks & Libraries:** api (2), next (2), database (2), [[JSON]] (2), application (1)
 > **Env Vars:** url (3), api (2), json (2), http (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **CLI Commands:** make (2), find (1)
@@ -735,7 +736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), delete (4), return. (2), finally, (1), type. (1)
+> **Frameworks & Libraries:** next (3), database (2), data (1)
 > **UI Navigation:** click on (3), go to (2), select the (1)
 > **Env Vars:** url (2), http (2)
 > **CLI Commands:** make (3)
@@ -845,7 +846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), return. (2), delete (2), pass (1)
+> **Frameworks & Libraries:** next (3), api (2), [[Security]] (1), [[JSON]] (1), web (1)
 > **Env Vars:** url (3), api (2), http (2), json (1), put (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** click on (5)
@@ -980,7 +981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), return. (3), finally, (1)
+> **Frameworks & Libraries:** api (2)
 > **CLI Commands:** make (6)
 > **Env Vars:** url (3), api (2), http (1)
 > **UI Navigation:** click on (3)
@@ -1071,7 +1072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** api (1), next (1), data (1)
 > **UI Navigation:** click on (3), dropdown (1), go to (1)
 > **Definitions:** is a  (2), known as (1)
 > **Tools:** postman (2)
@@ -1200,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), var (2), return. (1), if, (1), return, (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[JavaScript]] (2), data (2), next (1)
 > **Code Identifiers:** jsondata (10), contactid (8)
 > **UI Navigation:** click on (4), go to (2)
 > **Env Vars:** url (2), json (2)
@@ -1238,9 +1239,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** url (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** contactid (1)
 > **Cross-References:** in the last (1)
 > **Documentation:** the documentation (1)
@@ -1292,7 +1293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (3)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -1303,7 +1304,7 @@ created: 2026-04-29
 
 ### 2. Easy Postman Assertions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Status type assertions
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/status-type-assertions?u=76281980)
@@ -1392,7 +1393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), assert (2), pass (1)
+> **Frameworks & Libraries:** database (2), [[JavaScript]] (1), next (1)
 > **UI Navigation:** click on (6), scroll down (2)
 > **Definitions:** is a  (3), means that (2)
 > **CLI Commands:** find (2), make (1)
@@ -1494,7 +1495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), assert (5), this. (1)
+> **Frameworks & Libraries:** [[Search]] (2), next (1)
 > **UI Navigation:** click on (2), select the (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** postman (1)
@@ -1643,7 +1644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), assert (2), type. (1), return. (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[JSON]] (5), application (4), next (3), api (2)
 > **UI Navigation:** click on (9), go to (2), scroll down (1)
 > **Env Vars:** json (5), api (2), utf (2), xss (1)
 > **CLI Commands:** make (3)
@@ -1733,7 +1734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), assert (1)
+> **Frameworks & Libraries:** [[Debugging]] (1), database (1)
 > **Tools:** postman (6)
 > **Env Vars:** url (3), http (2)
 > **Code Identifiers:** firstname (4)
@@ -1763,7 +1764,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), assert (1)
 > **API Endpoints:** post  (1)
 > **Env Vars:** post (1)
 > **Speakers:** - [instructor] (1)
@@ -1824,7 +1824,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), return. (1), this, (1)
 > **Prerequisites:** setup (3)
 > **CLI Commands:** make (1)
 > **Tools:** postman (1)
@@ -1832,11 +1831,12 @@ created: 2026-04-29
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### 3. Advanced Postman Assertions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JSON assertions
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980)
@@ -1927,7 +1927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), assert (5), return. (1), var (1), case, (1)
+> **Frameworks & Libraries:** [[JSON]] (12), data (2), [[JavaScript]] (1), api (1), next (1)
 > **Env Vars:** json (11), api (1)
 > **Code Identifiers:** jsondata (3), lastname (2), firstname (1)
 > **CLI Commands:** make (2), find (1)
@@ -2025,8 +2025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (19), api (5), [[HTML]] (2), data (2), [[GitHub]] (1)
 > **Env Vars:** json (17), api (5), html (2)
-> **Code Keywords:** let (8), assert (2)
 > **UI Navigation:** click on (4), dropdown (1), scroll down (1)
 > **Exercise Files:** download the (2), zip file (1)
 > **File Paths:** address.postman_collection.txt (1), address.postman_collection.json (1)
@@ -2203,7 +2203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), assert (2), finally, (2), import, (1)
+> **Frameworks & Libraries:** [[JSON]] (13), next (5), api (4), data (2), [[GitHub]] (1)
 > **CLI Commands:** cat (11), find (3), make (1)
 > **Env Vars:** json (10), api (4)
 > **Definitions:** is a  (5), is an  (2), is called (1)
@@ -2243,8 +2243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** cat (2), find (1)
-> **Code Keywords:** assert (2), let (1)
 > **Cross-References:** previous video (2)
 > **Env Vars:** json (1)
 > **Definitions:** is an  (1)
@@ -2296,8 +2296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[JSON]] (1)
 > **CLI Commands:** cat (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** json (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -2306,7 +2306,7 @@ created: 2026-04-29
 
 ### 4. Running Your Test Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Collection Runner
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/using-the-collection-runner?u=76281980)
@@ -2437,7 +2437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), delete (9)
+> **Frameworks & Libraries:** next (3), data (2), [[Automation]] (1), database (1)
 > **UI Navigation:** click on (5), select the (1), dropdown (1), go to (1)
 > **Cross-References:** go back to (3), in the last (1)
 > **Prerequisites:** setup (4)
@@ -2511,8 +2511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (6), next (3), application (1)
 > **File Paths:** contactlist.collection.json (2), contactlist.environment.json (2)
-> **Code Keywords:** let (2), this. (1), export. (1)
 > **Code Identifiers:** contactlist (4)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -2593,7 +2593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** return. (2), let (1)
+> **Frameworks & Libraries:** next (3), [[JSON]] (2), cd (1)
 > **Env Vars:** json (2), cicd (1)
 > **Tools:** command line (2), postman (1)
 > **Cross-References:** go back to (1), coming up (1)
@@ -2605,7 +2605,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with API testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980)
@@ -2648,10 +2648,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), ci (4), cd (2), next (1), [[JSON]] (1)
 > **Env Vars:** api (9), json (1), cli (1)
 > **Tools:** postman (6), command line (1), gitlab (1), github (1)
 > **CLI Commands:** cd (2)
-> **Code Keywords:** continue (1), public (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 

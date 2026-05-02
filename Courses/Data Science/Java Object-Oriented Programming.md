@@ -31,7 +31,7 @@ tags:
   - skill/object-oriented-programming-oop
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Object-Oriented%20Programming.md)
@@ -50,53 +50,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why learn about object-oriented programming in Java
-  - What is object orientation?
+  - [Why learn about object-oriented programming in Java](#why-learn-about-object-oriented-programming-in-java)
+  - [What is object orientation?](#what-is-object-orientation)
 - [**1. Classes and Objects in Java**](#1-classes-and-objects-in-java) (7 videos)
-  - Using classes as blueprints
-  - Building objects with a constructor
-  - Using concrete instances for application logic
-  - Understanding the difference between class and instance members
-  - Exploring a built-in Java class
-  - Challenge: Build an employee class
-  - Solution: Build an employee class
+  - [Using classes as blueprints](#using-classes-as-blueprints)
+  - [Building objects with a constructor](#building-objects-with-a-constructor)
+  - [Using concrete instances for application logic](#using-concrete-instances-for-application-logic)
+  - [Understanding the difference between class and instance members](#understanding-the-difference-between-class-and-instance-members)
+  - [Exploring a built-in Java class](#exploring-a-built-in-java-class)
+  - [Challenge: Build an employee class](#challenge-build-an-employee-class)
+  - [Solution: Build an employee class](#solution-build-an-employee-class)
 - [**2. Encapsulation in Java**](#2-encapsulation-in-java) (6 videos)
-  - What is encapsulation?
-  - Discovering access modifiers
-  - Implementing encapsulation with access modifiers
-  - Exploring encapsulation in Java string class
-  - Challenge: Banking application
-  - Solution: Banking application
+  - [What is encapsulation?](#what-is-encapsulation)
+  - [Discovering access modifiers](#discovering-access-modifiers)
+  - [Implementing encapsulation with access modifiers](#implementing-encapsulation-with-access-modifiers)
+  - [Exploring encapsulation in Java string class](#exploring-encapsulation-in-java-string-class)
+  - [Challenge: Banking application](#challenge-banking-application)
+  - [Solution: Banking application](#solution-banking-application)
 - [**3. Inheritance in Java**](#3-inheritance-in-java) (6 videos)
-  - What is inheritance?
-  - Leveraging different types of inheritance
-  - Using inheritance to reduce code duplication
-  - Discovering inheritance in foundational Java classes
-  - Challenge: Reduce redundant code with inheritance
-  - Solution: Reduce redundant code with inheritance
+  - [What is inheritance?](#what-is-inheritance)
+  - [Leveraging different types of inheritance](#leveraging-different-types-of-inheritance)
+  - [Using inheritance to reduce code duplication](#using-inheritance-to-reduce-code-duplication)
+  - [Discovering inheritance in foundational Java classes](#discovering-inheritance-in-foundational-java-classes)
+  - [Challenge: Reduce redundant code with inheritance](#challenge-reduce-redundant-code-with-inheritance)
+  - [Solution: Reduce redundant code with inheritance](#solution-reduce-redundant-code-with-inheritance)
 - [**4. Polymorphism in Java**](#4-polymorphism-in-java) (8 videos)
-  - What is polymorphism?
-  - Writing reusable algorithms with runtime polymorphism
-  - Exploring different forms in a single object
-  - Accessing specific object forms with instanceof
-  - Writing flexible code with compile-time polymorphism
-  - Exploring how built-in Java classes use polymorphism
-  - Challenge: Reduce complexity with polymorphism
-  - Solution: Reduce complexity with polymorphism
+  - [What is polymorphism?](#what-is-polymorphism)
+  - [Writing reusable algorithms with runtime polymorphism](#writing-reusable-algorithms-with-runtime-polymorphism)
+  - [Exploring different forms in a single object](#exploring-different-forms-in-a-single-object)
+  - [Accessing specific object forms with instanceof](#accessing-specific-object-forms-with-instanceof)
+  - [Writing flexible code with compile-time polymorphism](#writing-flexible-code-with-compile-time-polymorphism)
+  - [Exploring how built-in Java classes use polymorphism](#exploring-how-built-in-java-classes-use-polymorphism)
+  - [Challenge: Reduce complexity with polymorphism](#challenge-reduce-complexity-with-polymorphism)
+  - [Solution: Reduce complexity with polymorphism](#solution-reduce-complexity-with-polymorphism)
 - [**5. Abstraction in Java**](#5-abstraction-in-java) (6 videos)
-  - What is abstraction?
-  - Using abstract classes in Java to reduce code complexity
-  - Using interfaces in Java to provide conformity
-  - Discovering abstraction in Java source code
-  - Challenge: Leverage abstraction to write simpler applications
-  - Solution: Leverage abstraction to write simpler applications
+  - [What is abstraction?](#what-is-abstraction)
+  - [Using abstract classes in Java to reduce code complexity](#using-abstract-classes-in-java-to-reduce-code-complexity)
+  - [Using interfaces in Java to provide conformity](#using-interfaces-in-java-to-provide-conformity)
+  - [Discovering abstraction in Java source code](#discovering-abstraction-in-java-source-code)
+  - [Challenge: Leverage abstraction to write simpler applications](#challenge-leverage-abstraction-to-write-simpler-applications)
+  - [Solution: Leverage abstraction to write simpler applications](#solution-leverage-abstraction-to-write-simpler-applications)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Identifying code smells and anti-patterns in OOP code
-  - Next steps
+  - [Identifying code smells and anti-patterns in OOP code](#identifying-code-smells-and-anti-patterns-in-oop-code)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why learn about object-oriented programming in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/why-learn-about-object-oriented-programming-in-java?u=76281980)
@@ -127,7 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), let (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** troubleshoot (1)
@@ -164,6 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), data (2), [[Programming]] (1), [[Java]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -173,7 +174,7 @@ created: 2026-04-29
 
 ### 1. Classes and Objects in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using classes as blueprints
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-classes-as-blueprints?u=76281980)
@@ -266,7 +267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (8), let (4), class. (4), class, (2), type. (2)
+> **Frameworks & Libraries:** [[Java]] (4), data (4)
 > **Env Vars:** ide (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -327,7 +328,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), type. (2), let (1), from. (1), class. (1)
 > **Code Identifiers:** myfavoriteoaktree (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -428,7 +428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (4), function (3), type. (2), this, (1)
+> **Frameworks & Libraries:** application (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** myfavoriteoaktree (1)
 > **Definitions:** is an  (1)
@@ -533,7 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (35), class. (5), let (2), type. (2), function (2)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** treetype (6), trunkdiameter (2), announcetree (2), announcetalltree (1)
 > **Env Vars:** trunk_color (7)
 > **CLI Commands:** make (6)
@@ -613,7 +613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (7), class, (5), static (5), let (3)
+> **Frameworks & Libraries:** [[Java]] (6), feature (1)
 > **Env Vars:** ide (4), ewt (1)
 > **Exercise Files:** source code (2)
 > **Documentation:** the documentation (1)
@@ -651,7 +651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (3), static (2), class. (1), function (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
@@ -708,7 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (5), let (3), class, (3), function (3), static (2)
+> **Frameworks & Libraries:** [[Java]] (2), [[Programming]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -717,7 +717,7 @@ created: 2026-04-29
 
 ### 2. Encapsulation in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is encapsulation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980)
@@ -764,7 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), class, (1), interface (1)
+> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (2)
 > **Definitions:** refers to (1), in other words (1)
@@ -821,7 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (5), class, (4), protected (3), class. (2)
+> **Frameworks & Libraries:** [[Java]] (3), data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** jvm (1)
 > **Definitions:** in other words (1)
@@ -908,7 +908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (4), private (3), class. (3), this, (1)
+> **Frameworks & Libraries:** data (2), [[Java]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ide (2)
 > **Code Identifiers:** getheightft (1)
@@ -973,7 +973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), class, (5), private (4), class. (3)
+> **Frameworks & Libraries:** [[Java]] (6), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** ide (1), jdk (1), gep (1)
 > **Code Identifiers:** charat (1)
@@ -1014,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), let (1), class, (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -1108,7 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (3), private (1), this, (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** startingbalance (4)
 > **Analogies:** such as (1)
@@ -1118,7 +1118,7 @@ created: 2026-04-29
 
 ### 3. Inheritance in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is inheritance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-inheritance?u=76281980)
@@ -1169,7 +1169,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (6), class, (2), let (1)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1225,7 +1224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), class, (4), case. (2), super (2), let (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Forms]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Speakers:** - inheritance (1)
 
@@ -1318,7 +1317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (7), class, (4), extends (3), super (3), let (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** commissionpercentage (2), raisesalary (1), getannualbonus (1)
 > **Prerequisites:** set up (3)
@@ -1389,7 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (6), let (3), extends (1), class, (1)
+> **Frameworks & Libraries:** data (3), [[Java]] (2), [[Programming]] (1)
 > **Code Identifiers:** addelement (2), removeelementat (2)
 > **CLI Commands:** cat (1)
 > **UI Navigation:** click on (1)
@@ -1433,7 +1432,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Code Identifiers:** getusingmod (2)
-> **Code Keywords:** this, (1)
 > **Analogies:** similar to (1)
 > **Warnings:** common error (1)
 > **Speakers:** - [instructor] (1)
@@ -1490,7 +1488,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), this. (1), pass (1), class. (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** validindex (1), getusingmod (1)
 > **Definitions:** is an  (1)
@@ -1498,7 +1495,7 @@ created: 2026-04-29
 
 ### 4. Polymorphism in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is polymorphism?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980)
@@ -1531,7 +1528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), class, (1), class. (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Java]] (2)
 > **Code Identifiers:** getusingmod (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1625,7 +1622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (6), class. (6), let (4), function (3), super (3)
+> **Frameworks & Libraries:** [[Java]] (5), next (2), data (1), [[LinkedIn]] (1)
 > **Code Identifiers:** addall (2), replaceall (2), oddlisty (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1709,7 +1706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), type, (1), this, (1), override (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Code Identifiers:** oddlisty (4), nextint (2), addrandomnumber (1), oddarraylist (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1804,7 +1801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), static (3), class, (1), this. (1)
+> **Frameworks & Libraries:** feature (1)
 > **Code Identifiers:** iseligible (3), isodd (1), oddlisty (1), evenlisty (1), addrandomnumber (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -1889,7 +1886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this, (1), super (1), class, (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** isdivisiblebythree (1), arraylist (1), isdivisiblebysix (1), divisiblebythree (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1957,7 +1954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (3), abstract (2), override (2), let (1), extends (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Programming]] (2)
 > **Code Identifiers:** addall (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
@@ -1988,7 +1985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Java]] (1), application (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2125,7 +2122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (4), override (3), this, (2), class, (2)
+> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (2)
 > **Definitions:** we call this (1), is a  (1)
 > **Env Vars:** ide (1)
@@ -2137,7 +2134,7 @@ created: 2026-04-29
 
 ### 5. Abstraction in Java
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is abstraction?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980)
@@ -2174,7 +2171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (2), interface (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), product (1), [[Java]] (1), application (1)
 > **CLI Commands:** brew (1), make (1)
 > **Env Vars:** epi (1)
 > **Speakers:** - [instructor] (1)
@@ -2298,7 +2295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (20), let (5), class. (4), extends (3), override (2)
+> **Frameworks & Libraries:** [[Java]] (3), data (1)
 > **CLI Commands:** make (3)
 > **Tools:** intellij (2)
 > **File Paths:** message.txt (1)
@@ -2413,7 +2410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (15), let (6), implements (3), class, (2), type. (2)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** gettimestamp (4)
 > **Documentation:** specification (2), spec (1)
 > **Tools:** intellij (1)
@@ -2513,7 +2510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (20), implements (9), interface (8), extends (6), let (4)
+> **Frameworks & Libraries:** [[Java]] (7), [[Algorithms]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Exercise Files:** source code (4)
 > **Analogies:** such as (2), for example (1)
@@ -2553,7 +2550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), abstract (1)
+> **Frameworks & Libraries:** application (1), [[Java]] (1)
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -2606,7 +2603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (12), interface (6), implements (5), class, (4), extends (4)
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** gettimestamp (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** setup (1)
@@ -2616,7 +2613,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying code smells and anti-patterns in OOP code
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/identifying-code-smells-and-anti-patterns-in-oop-code?u=76281980)
@@ -2679,7 +2676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), module (1), class. (1), this. (1), interface (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), application (2), oop (1), feature (1)
 > **Definitions:** is a  (2), known as (1), is called (1)
 > **Env Vars:** oop (1)
 > **Warnings:** warning (1)
@@ -2710,6 +2707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Java]] (4)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [kathryn] (1)
 

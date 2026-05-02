@@ -31,7 +31,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Prompt%20Engineering%20For%20Generative%20Ai.md)
@@ -50,36 +50,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Joining the NLP revolution
-  - What is prompt engineering?
-  - Tokens vs. words
-  - Large language models
+  - [Joining the NLP revolution](#joining-the-nlp-revolution)
+  - [What is prompt engineering?](#what-is-prompt-engineering)
+  - [Tokens vs. words](#tokens-vs-words)
+  - [Large language models](#large-language-models)
 - [**1. Text Generation**](#1-text-generation) (7 videos)
-  - Diving into ChatGPT
-  - ChatGPT voice mode on mobile
-  - Taking Google Gemini for a ride
-  - Exploring Microsoft Copilot
-  - Few-shot learning with Claude
-  - Challenge: Zero-shot, few-shot learning
-  - Solution: Zero-shot, few-shot learning
+  - [Diving into ChatGPT](#diving-into-chatgpt)
+  - [ChatGPT voice mode on mobile](#chatgpt-voice-mode-on-mobile)
+  - [Taking Google Gemini for a ride](#taking-google-gemini-for-a-ride)
+  - [Exploring Microsoft Copilot](#exploring-microsoft-copilot)
+  - [Few-shot learning with Claude](#few-shot-learning-with-claude)
+  - [Challenge: Zero-shot, few-shot learning](#challenge-zero-shot-few-shot-learning)
+  - [Solution: Zero-shot, few-shot learning](#solution-zero-shot-few-shot-learning)
 - [**2. AI-Generated Images and Video**](#2-ai-generated-images-and-video) (5 videos)
-  - The AI-generated image landscape
-  - Trying out Dall-E
-  - Trying out Midjourney
-  - Challenge: Generating a poster
-  - Solution: Generating a poster
+  - [The AI-generated image landscape](#the-ai-generated-image-landscape)
+  - [Trying out Dall-E](#trying-out-dall-e)
+  - [Trying out Midjourney](#trying-out-midjourney)
+  - [Challenge: Generating a poster](#challenge-generating-a-poster)
+  - [Solution: Generating a poster](#solution-generating-a-poster)
 - [**3. Advanced Concepts**](#3-advanced-concepts) (4 videos)
-  - Creating a custom GPT
-  - Multimodality in AI
-  - Model fine-tuning
-  - Interacting with language models using an API
+  - [Creating a custom GPT](#creating-a-custom-gpt)
+  - [Multimodality in AI](#multimodality-in-ai)
+  - [Model fine-tuning](#model-fine-tuning)
+  - [Interacting with language models using an API](#interacting-with-language-models-using-an-api)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Warning: Use responsibly
-  - Continuing your AI journey
+  - [Warning: Use responsibly](#warning-use-responsibly)
+  - [Continuing your AI journey](#continuing-your-ai-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Joining the NLP revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (2), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1), [[Gemini]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - get (1)
 
@@ -123,10 +123,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[Generative AI]] (3), data (2), [[ChatGPT]] (2), ai (1)
 > **Env Vars:** gpt (3), dall (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Tokens vs. words
@@ -158,6 +158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Tokens]] (4), [[Generative AI]] (1)
 > **Definitions:** known as (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -209,7 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new, (1), this, (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), next (4), prompt (2), [[Microsoft Word|Word]] (2), ai (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** coming up (1)
@@ -220,7 +221,7 @@ created: 2026-04-29
 
 ### 1. Text Generation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980)
@@ -303,7 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), pass (1), function (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), prompt (7), ai (3), data (3), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** gpt (2), rlhf (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** python (2)
@@ -388,8 +389,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Sustainability]] (3), ai (2), [[Microsoft Word|Word]] (2), prompt (1)
 > **Speakers:** - [instructor] (5), - [chatgpt (4)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
@@ -454,7 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), include. (1)
+> **Frameworks & Libraries:** [[Gemini]] (7), ai (4), [[Large Language Models (LLM)|Large language models]] (2), [[Google]] (2), prompt (2)
 > **Env Vars:** html (1), css (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
@@ -506,11 +507,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft 365]] (3), ai (2), [[Microsoft]] (2), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **Env Vars:** gpt (2), dall (1)
 > **Tools:** github (2), visual studio (1)
 > **Analogies:** such as (1), similar to (1), just like (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), type. (1), this, (1)
+> **Frameworks & Libraries:** game (3), ai (2), [[Generative AI]] (1), [[ChatGPT]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** api (1), html (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -621,6 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), prompt (2), [[ChatGPT]] (1), [[DALL-E]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** dall (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -672,8 +674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), prompt (1), [[Python (Programming Language)|Python]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** this, (1), case, (1)
 > **Env Vars:** pptx (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -681,7 +683,7 @@ created: 2026-04-29
 
 ### 2. AI-Generated Images and Video
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The AI-generated image landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980)
@@ -738,8 +740,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[DALL-E]] (3), [[Midjourney]] (3), [[Stable Diffusion]] (2), prompt (1)
 > **Env Vars:** dall (3), gpt (1)
-> **Code Keywords:** finally, (2)
 > **Tools:** discord (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - advancements (1)
@@ -781,6 +783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[ChatGPT]] (2), prompt (2), [[Microsoft Copilot|Copilot]] (1), [[Privacy]] (1)
 > **Env Vars:** dall (4)
 > **Warnings:** keep in mind (2)
 > **URLs:** [bing.com](https://bing.com) (1)
@@ -835,7 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), public (1)
+> **Frameworks & Libraries:** [[Midjourney]] (6), prompt (3), ai (1)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** imagine (1), such as (1)
 > **Tools:** discord (1)
@@ -858,6 +861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -892,6 +896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Generative AI]] (1), [[Microsoft Copilot|Copilot]] (1), [[Canva]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -899,7 +904,7 @@ created: 2026-04-29
 
 ### 3. Advanced Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a custom GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980)
@@ -1024,7 +1029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Custom GPTs]] (3), [[Privacy]] (1), [[Prompt Engineering]] (1), [[Code Interpretation]] (1)
 > **Env Vars:** gpt (6)
 > **CLI Commands:** make (2)
 > **URLs:** [openai.com](https://openai.com) (1)
@@ -1055,6 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), application (2), data (1), [[ChatGPT]] (1), [[Gemini]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [ronnie] (1)
 
@@ -1087,6 +1093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Tokens]] (1), prompt (1)
 > **CLI Commands:** make (3)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [narrator] (1)
@@ -1182,8 +1189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), [[Python (Programming Language)|Python]] (3), application (2), api (1), [[JavaScript]] (1)
 > **CLI Commands:** python (3), make (2), python3 (2), node (1), curl (1)
-> **Code Keywords:** interface (1), let (1), pass (1), this, (1), while. (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** node.js (1), example.py (1)
 > **Env Vars:** api (1), openai_api_key (1)
@@ -1194,7 +1201,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Warning: Use responsibly
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980)
@@ -1219,9 +1226,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Generative AI]] (1), power (1), ai (1), [[Privacy]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (3)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1251,6 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Prompt Engineering]] (3), [[ChatGPT]] (2), [[LLaMA]] (2), [[Multimodal Prompting]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - i (1)
 

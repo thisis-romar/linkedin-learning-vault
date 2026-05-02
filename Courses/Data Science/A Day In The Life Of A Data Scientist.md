@@ -28,7 +28,7 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/A%20Day%20In%20The%20Life%20Of%20A%20Data%20Scientist.md)
@@ -47,29 +47,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Focus on data that actually matters
+  - [Focus on data that actually matters](#focus-on-data-that-actually-matters)
 - [**1. Kickstart the Day with Clarity**](#1-kickstart-the-day-with-clarity) (3 videos)
-  - Use the first hour for focus and impact
-  - Prioritize without overloading your day
-  - Adapt to delays and disruptions
+  - [Use the first hour for focus and impact](#use-the-first-hour-for-focus-and-impact)
+  - [Prioritize without overloading your day](#prioritize-without-overloading-your-day)
+  - [Adapt to delays and disruptions](#adapt-to-delays-and-disruptions)
 - [**2. Explore and Challenge the Data**](#2-explore-and-challenge-the-data) (3 videos)
-  - Conduct exploratory data analysis
-  - Evaluate data bias before conclusions
-  - Recognize data limits and insights
+  - [Conduct exploratory data analysis](#conduct-exploratory-data-analysis)
+  - [Evaluate data bias before conclusions](#evaluate-data-bias-before-conclusions)
+  - [Recognize data limits and insights](#recognize-data-limits-and-insights)
 - [**3. Interpret Results with Confidence**](#3-interpret-results-with-confidence) (3 videos)
-  - Decide when analysis is ready
-  - Translate data into clear decisions
-  - Craft a narrative for understanding
+  - [Decide when analysis is ready](#decide-when-analysis-is-ready)
+  - [Translate data into clear decisions](#translate-data-into-clear-decisions)
+  - [Craft a narrative for understanding](#craft-a-narrative-for-understanding)
 - [**4. Collaborate beyond the Dataset**](#4-collaborate-beyond-the-dataset) (3 videos)
-  - Communicate effectively across functions
-  - Incorporate feedback to improve
-  - Present insights with confidence
+  - [Communicate effectively across functions](#communicate-effectively-across-functions)
+  - [Incorporate feedback to improve](#incorporate-feedback-to-improve)
+  - [Present insights with confidence](#present-insights-with-confidence)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Apply habits for long-term growth
+  - [Apply habits for long-term growth](#apply-habits-for-long-term-growth)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Focus on data that actually matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980)
@@ -112,6 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Analytics]] (1), [[SQL]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1)
 > **Tools:** jupyter (1)
@@ -119,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Kickstart the Day with Clarity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the first hour for focus and impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980)
@@ -168,7 +169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** data (1), [[Slack]] (1), leadership (1)
 > **Tools:** slack (1)
 > **Best Practices:** pro tip (1)
 
@@ -213,6 +214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
@@ -257,10 +259,14 @@ created: 2026-04-29
 >
 > **[1:19](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/adapt-to-delays-and-disruptions?u=76281980&t=79)** It's about staying useful even when the schedule breaks.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** data (2), product (1)
+
 
 ### 2. Explore and Challenge the Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conduct exploratory data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/conduct-exploratory-data-analysis?u=76281980)
@@ -311,6 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** eda (1)
 > **UI Navigation:** open the (1)
@@ -366,8 +373,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), traffic (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 #### Recognize data limits and insights
@@ -421,14 +428,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), product (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 
 
 ### 3. Interpret Results with Confidence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Decide when analysis is ready
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/decide-when-analysis-is-ready?u=76281980)
@@ -515,6 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), feature (1)
 > **Versions:** 0.67 (1)
 > **Analogies:** for example (1)
 
@@ -579,12 +587,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (2), next (1), traffic (1)
 
 
 ### 4. Collaborate beyond the Dataset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicate effectively across functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980)
@@ -631,8 +639,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), data (1), [[SQL]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -694,7 +702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (4)
 > **Analogies:** just like (1)
 > **Best Practices:** you should always (1)
 
@@ -747,10 +755,14 @@ created: 2026-04-29
 >
 > **[1:08](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/present-insights-with-confidence?u=76281980&t=68)** And so that's what turns a good presentation into a decision-making moment.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** data (2), [[Decision-Making]] (1)
+
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply habits for long-term growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/apply-habits-for-long-term-growth?u=76281980)
@@ -777,6 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1)
 
 

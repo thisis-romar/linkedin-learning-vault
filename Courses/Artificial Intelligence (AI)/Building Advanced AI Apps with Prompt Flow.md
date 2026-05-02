@@ -30,7 +30,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20Advanced%20AI%20Apps%20with%20Prompt%20Flow.md)
@@ -49,22 +49,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Prompt Flow: Your toolkit to build AI apps
+  - [Prompt Flow: Your toolkit to build AI apps](#prompt-flow-your-toolkit-to-build-ai-apps)
 - [**1. Exploring Prompt Flow**](#1-exploring-prompt-flow) (8 videos)
-  - What is Prompt Flow?
-  - Exploring the Prompt Flow repo in Codespaces
-  - Exploring the Prompt Flow VS Code extension
-  - Creating a connection to OpenAI
-  - Running Prompt Flow examples
-  - Anatomy of a Prompt Flow
-  - Prompt variants
-  - Batch testing of flows
+  - [What is Prompt Flow?](#what-is-prompt-flow)
+  - [Exploring the Prompt Flow repo in Codespaces](#exploring-the-prompt-flow-repo-in-codespaces)
+  - [Exploring the Prompt Flow VS Code extension](#exploring-the-prompt-flow-vs-code-extension)
+  - [Creating a connection to OpenAI](#creating-a-connection-to-openai)
+  - [Running Prompt Flow examples](#running-prompt-flow-examples)
+  - [Anatomy of a Prompt Flow](#anatomy-of-a-prompt-flow)
+  - [Prompt variants](#prompt-variants)
+  - [Batch testing of flows](#batch-testing-of-flows)
 - [**2. Conclusion**](#2-conclusion) (1 videos)
-  - Going further with Prompt Flow
+  - [Going further with Prompt Flow](#going-further-with-prompt-flow)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt Flow: Your toolkit to build AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980)
@@ -89,15 +89,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), prompt (5), [[Python (Programming Language)|Python]] (2), data (1), llm (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** this. (1), let (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - take (1)
 
 
 ### 1. Exploring Prompt Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Prompt Flow?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980)
@@ -134,10 +134,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (11), ai (5), [[Python (Programming Language)|Python]] (2), node (2), [[Microsoft]] (1)
 > **CLI Commands:** python (2), node (2), make (1), docker (1)
 > **Tools:** vs code (2), github (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - prompt (1)
 
@@ -240,9 +240,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (14), [[Python (Programming Language)|Python]] (6), ai (3), [[GitHub]] (2), [[Codespaces]] (2)
 > **CLI Commands:** python (6), find (4), docker (2), make (1)
 > **Definitions:** is a  (5), is an  (2)
-> **Code Keywords:** this, (2), self (1), function (1)
 > **Env Vars:** readme (2), pdf (1), llm (1)
 > **Code Identifiers:** azure_content_safety (1), azure_openai (1), cognitive_search (1)
 > **Prerequisites:** install (2), setup (1)
@@ -342,10 +342,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (6), ai (5), [[Microsoft Azure|Azure]] (3), [[Search]] (3), [[GitHub]] (2)
 > **Tools:** vs code (5), github (2)
 > **CLI Commands:** make (3), python (1), node (1), docker (1)
 > **Env Vars:** yaml (2), cli (1), stk (1), url (1), gui (1)
-> **Code Keywords:** let (2), function (1), interface (1), finally, (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Prerequisites:** install (2), set up (2), configure (1)
 > **Cross-References:** in the next (2), we talked about (1), previous video (1)
@@ -452,9 +452,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (10), api (10), ai (2), application (2), [[CLI]] (1)
 > **Env Vars:** api (9), cli (1), llm (1)
 > **Tools:** command line (5), terminal (1)
-> **Code Keywords:** interface (2), this. (1), this, (1)
 > **Prerequisites:** install (3), set up (1)
 > **Code Identifiers:** open_ai_connection (2), promptflow_repo (1)
 > **UI Navigation:** scroll down (1), open the (1), click on (1)
@@ -580,8 +580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), [[Debugging]] (1), application (1), api (1), power (1)
 > **Definitions:** is a  (4), is an  (2)
-> **Code Keywords:** let (2), this, (2), case, (1)
 > **Tools:** command line (3), terminal (2)
 > **CLI Commands:** node (3), find (1)
 > **Analogies:** just like (2), for example (1)
@@ -700,9 +700,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (12), llm (9), [[Python (Programming Language)|Python]] (3), data (2), api (1)
 > **Env Vars:** llm (9), api (1), url (1)
 > **Code Identifiers:** chat_history (3), open_ai (1), content_safety_check (1), llm_results (1), default_results (1)
-> **Code Keywords:** let (3), function (1), this, (1), else, (1), case, (1)
 > **CLI Commands:** python (3), find (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** set up (3), install (1)
@@ -800,7 +800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (4), delete (2), let (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** prompt (5), ai (4), [[Representational State Transfer (REST)|Rest]] (1), feature (1)
 > **UI Navigation:** click on (4), scroll up (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -920,8 +920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (8), prompt (7), data (4), product (4), [[Search]] (4)
 > **Env Vars:** json (8), llm (1), csv (1)
-> **Code Keywords:** this. (2), switch (1), pass (1), case, (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is a  (2)
@@ -932,7 +932,7 @@ created: 2026-04-29
 
 ### 2. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going further with Prompt Flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980)
@@ -953,8 +953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), prompt (3), [[LinkedIn]] (2), [[GitHub]] (1), next (1)
 > **CLI Commands:** make (2), find (1), go build (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **Analogies:** just like (1)

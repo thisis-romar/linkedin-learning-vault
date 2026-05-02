@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/user-experience-ux
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Foundations-%20Generational%20Design.md)
@@ -45,37 +45,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Designing for different generations
+  - [Designing for different generations](#designing-for-different-generations)
 - [**1. Understanding the Generations**](#1-understanding-the-generations) (6 videos)
-  - Understanding Baby Boomers
-  - Understanding Gen X
-  - Defining the Oregon Trail generation
-  - Defining Millennials
-  - Understanding Gen Z
-  - Defining Gen Alpha
+  - [Understanding Baby Boomers](#understanding-baby-boomers)
+  - [Understanding Gen X](#understanding-gen-x)
+  - [Defining the Oregon Trail generation](#defining-the-oregon-trail-generation)
+  - [Defining Millennials](#defining-millennials)
+  - [Understanding Gen Z](#understanding-gen-z)
+  - [Defining Gen Alpha](#defining-gen-alpha)
 - [**2. Research Techniques**](#2-research-techniques) (5 videos)
-  - Qualitative research techniques
-  - Quantitative research techniques
-  - Usability testing for different generations
-  - Using video studies
-  - Mobile diary studies
+  - [Qualitative research techniques](#qualitative-research-techniques)
+  - [Quantitative research techniques](#quantitative-research-techniques)
+  - [Usability testing for different generations](#usability-testing-for-different-generations)
+  - [Using video studies](#using-video-studies)
+  - [Mobile diary studies](#mobile-diary-studies)
 - [**3. Planning Your UX Research**](#3-planning-your-ux-research) (2 videos)
-  - Recruiting tips for different audiences
-  - Question writing for different audiences
+  - [Recruiting tips for different audiences](#recruiting-tips-for-different-audiences)
+  - [Question writing for different audiences](#question-writing-for-different-audiences)
 - [**4. Design Patterns for Different Generations**](#4-design-patterns-for-different-generations) (7 videos)
-  - Translating research to design
-  - Design patterns for Baby Boomers
-  - Design patterns for Gen X
-  - Design patterns for Millennials
-  - Design patterns for Gen Z
-  - Design patterns for today's Gen Alpha children
-  - Designing across generations
+  - [Translating research to design](#translating-research-to-design)
+  - [Design patterns for Baby Boomers](#design-patterns-for-baby-boomers)
+  - [Design patterns for Gen X](#design-patterns-for-gen-x)
+  - [Design patterns for Millennials](#design-patterns-for-millennials)
+  - [Design patterns for Gen Z](#design-patterns-for-gen-z)
+  - [Design patterns for today's Gen Alpha children](#design-patterns-for-todays-gen-alpha-children)
+  - [Designing across generations](#designing-across-generations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for different generations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980)
@@ -120,13 +120,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Search]] (1), data (1), [[Microsoft Products|Products]] (1), [[Design Patterns]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
 
 ### 1. Understanding the Generations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Baby Boomers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980)
@@ -203,7 +204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), else. (1)
+> **Frameworks & Libraries:** [[Wellness]] (5), [[Microsoft Products|Products]] (4), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - let (1)
@@ -279,9 +280,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), power (1), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1), [[Email Marketing]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** else. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - with (1)
 
@@ -352,7 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** game (1), [[Market Research]] (1)
 > **Speakers:** - did (1)
 
 #### Defining Millennials
@@ -430,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else, (1), continue (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Marketing Strategy]] (1), [[Google]] (1), product (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
@@ -503,6 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), [[Search]] (1), career (1), data (1), product (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
@@ -566,7 +568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1)
+> **Frameworks & Libraries:** power (1), hit (1), [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - when (1)
@@ -574,7 +576,7 @@ created: 2026-04-29
 
 ### 2. Research Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Qualitative research techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980)
@@ -653,6 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), business (1), [[Analytics]] (1), power (1), game (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -717,9 +720,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), game (1), product (1), ai (1)
 > **Code Identifiers:** iphones (1), dscout (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - today (1)
 
@@ -802,7 +805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (2), [[Usability Testing]] (2), game (1), next (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** pro tip (1)
 > **Prerequisites:** you'll need (1)
@@ -869,9 +872,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (1), [[Android]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** iphone (1)
 > **Analogies:** for example (1)
 > **Speakers:** - pop (1)
@@ -949,16 +952,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Real-Time]] (2), next (2), game (1), ux (1)
 > **Speakers:** - what (1), - hi (1), - you (1), - all (1), - videos (1)
 > **CLI Commands:** find (1), brew (1), make (1)
-> **Code Keywords:** let (1), self (1)
 > **Analogies:** similar to (1), for example (1)
 > **Prerequisites:** set up (1)
 
 
 ### 3. Planning Your UX Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recruiting tips for different audiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980)
@@ -1029,8 +1032,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[Databases]] (1), database (1), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (4), make (2)
-> **Code Keywords:** let (1), for. (1), finally, (1)
 > **Analogies:** for instance (1), for example (1)
 > **Env Vars:** diy (1)
 > **Definitions:** is a  (1)
@@ -1100,15 +1103,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Microsoft Word|Word]] (2), data (1), [[Usability Testing]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** super (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
 
 ### 4. Design Patterns for Different Generations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Translating research to design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980)
@@ -1185,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break, (1), pass (1)
+> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (4), teams (2), [[Storytelling]] (2), [[Google]] (2)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - think (1)
 
@@ -1260,8 +1263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (1), business (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** finally, (1), let (1), new. (1), else. (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - contrary (1)
@@ -1321,6 +1324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1), data (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - on (1)
@@ -1396,7 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (2), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (2), product (2), business (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - i (1)
@@ -1482,8 +1486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), game (1), next (1), power (1)
 > **CLI Commands:** make (4), find (1), snap (1)
-> **Code Keywords:** switch (1), super (1), finally, (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - at (1)
@@ -1553,8 +1557,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), business (1), [[Design Patterns]] (1), hit (1), next (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** interface (1), require (1), for. (1)
 > **Code Identifiers:** ipad (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
@@ -1650,15 +1654,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Search]] (5), product (4), feature (2), web (1)
 > **CLI Commands:** make (5), find (3)
-> **Code Keywords:** let (1), function (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Speakers:** - designing (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980)
@@ -1695,7 +1699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1)
+> **Frameworks & Libraries:** ux (1), [[Market Research]] (1), data (1), next (1), hit (1)
 > **URLs:** [sarahweise.com](https://sarahweise.com) (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)

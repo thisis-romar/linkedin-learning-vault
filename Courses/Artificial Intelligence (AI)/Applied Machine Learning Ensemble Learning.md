@@ -27,7 +27,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/applied-machine-learning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Applied%20Machine%20Learning%20Ensemble%20Learning.md)
@@ -46,42 +46,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Ensemble learning: Boost your models' performance
-  - How to use Codespaces
+  - [Ensemble learning: Boost your models' performance](#ensemble-learning-boost-your-models-performance)
+  - [How to use Codespaces](#how-to-use-codespaces)
 - [**1. Introduction to Ensemble Learning**](#1-introduction-to-ensemble-learning) (3 videos)
-  - Definition of ensemble learning and the problem of overfitting
-  - Real-world relevance
-  - Types of ensembles
+  - [Definition of ensemble learning and the problem of overfitting](#definition-of-ensemble-learning-and-the-problem-of-overfitting)
+  - [Real-world relevance](#real-world-relevance)
+  - [Types of ensembles](#types-of-ensembles)
 - [**2. Bagging and Random Forests**](#2-bagging-and-random-forests) (5 videos)
-  - Concept of bagging
-  - Random forest example
-  - Parameter tuning for Random Forest
-  - Challenge: Tune Random Forest parameters
-  - Solution: Tune Random Forest parameters
+  - [Concept of bagging](#concept-of-bagging)
+  - [Random forest example](#random-forest-example)
+  - [Parameter tuning for Random Forest](#parameter-tuning-for-random-forest)
+  - [Challenge: Tune Random Forest parameters](#challenge-tune-random-forest-parameters)
+  - [Solution: Tune Random Forest parameters](#solution-tune-random-forest-parameters)
 - [**3. Boosting and Gradient Boosting**](#3-boosting-and-gradient-boosting) (5 videos)
-  - Concept of boosting
-  - AdaBoost and gradient boosting
-  - Hyperparameter tuning for boosting
-  - Challenge: tune AdaBoost model
-  - Solution: tune AdaBoost model
+  - [Concept of boosting](#concept-of-boosting)
+  - [AdaBoost and gradient boosting](#adaboost-and-gradient-boosting)
+  - [Hyperparameter tuning for boosting](#hyperparameter-tuning-for-boosting)
+  - [Challenge: tune AdaBoost model](#challenge-tune-adaboost-model)
+  - [Solution: tune AdaBoost model](#solution-tune-adaboost-model)
 - [**4. XGBoost**](#4-xgboost) (5 videos)
-  - Why XGBoost?
-  - Hands-on coding with XGBoost
-  - Hyperparameter tuning for XGBoost
-  - Challenge: Tune XGBoost model
-  - Solution: Tune XGBoost model
+  - [Why XGBoost?](#why-xgboost)
+  - [Hands-on coding with XGBoost](#hands-on-coding-with-xgboost)
+  - [Hyperparameter tuning for XGBoost](#hyperparameter-tuning-for-xgboost)
+  - [Challenge: Tune XGBoost model](#challenge-tune-xgboost-model)
+  - [Solution: Tune XGBoost model](#solution-tune-xgboost-model)
 - [**5. Stacking**](#5-stacking) (5 videos)
-  - Concept of stacking
-  - Hands-on coding with StackingClassifier
-  - Evaluation of stacking vs individual models
-  - Challenge: Create a stacked model
-  - Solution: Create a stacked model
+  - [Concept of stacking](#concept-of-stacking)
+  - [Hands-on coding with StackingClassifier](#hands-on-coding-with-stackingclassifier)
+  - [Evaluation of stacking vs individual models](#evaluation-of-stacking-vs-individual-models)
+  - [Challenge: Create a stacked model](#challenge-create-a-stacked-model)
+  - [Solution: Create a stacked model](#solution-create-a-stacked-model)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensemble learning: Boost your models' performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/ensemble-learning-boost-your-models-performance?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1), next (1), power (1)
 > **Speakers:** - have (1)
 
 #### How to use Codespaces
@@ -200,7 +200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (5), [[Python (Programming Language)|Python]] (5), [[GitHub]] (2), hit (1), [[Linux]] (1)
 > **Prerequisites:** set up (4), install (2), you'll need (1)
 > **UI Navigation:** click on (5), navigate to (1)
 > **CLI Commands:** python (5)
@@ -212,7 +212,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Ensemble Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Definition of ensemble learning and the problem of overfitting
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/definition-of-ensemble-learning-and-the-problem-of-overfitting?u=76281980)
@@ -335,7 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), throw (1), this. (1)
+> **Frameworks & Libraries:** hit (12), data (2), strengths (2), power (1), [[Probability]] (1)
 > **Analogies:** it's like (2), kind of like (2), just like (1), similar to (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (1), is a  (1)
@@ -413,7 +413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), super (1)
+> **Frameworks & Libraries:** data (5), strengths (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -512,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (3), finally, (1)
+> **Frameworks & Libraries:** data (5), hit (2), next (2), [[Decision Trees]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -522,7 +522,7 @@ created: 2026-04-29
 
 ### 2. Bagging and Random Forests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Concept of bagging
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980)
@@ -691,7 +691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), from, (1), finally, (1), module (1)
+> **Frameworks & Libraries:** data (23), [[Pandas (Software)|Pandas]] (2), [[Decision Trees]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** subplot_mosaic (1), n_tree (1), max_samples (1)
 > **Analogies:** for example (2), similar to (1)
@@ -888,7 +888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (4), pass (2), super (1), finally, (1)
+> **Frameworks & Libraries:** data (22), [[Pandas (Software)|Pandas]] (9), [[Statistics]] (2), [[Feature Engineering]] (2), [[Algorithms]] (2)
 > **CLI Commands:** make (10), find (2)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (4)
@@ -1008,7 +1008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), this, (1)
+> **Frameworks & Libraries:** data (4), [[Programming]] (2), node (1)
 > **CLI Commands:** make (2), node (1)
 > **Warnings:** note that (2), be aware (1)
 > **Tools:** notion (2)
@@ -1132,7 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (4), this. (2), try. (1)
+> **Frameworks & Libraries:** data (4), hit (2)
 > **CLI Commands:** find (2), make (1)
 > **Warnings:** be aware (2), note that (1)
 > **Code Identifiers:** n_estimators (1)
@@ -1144,7 +1144,7 @@ created: 2026-04-29
 
 ### 3. Boosting and Gradient Boosting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Concept of boosting
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-boosting?u=76281980)
@@ -1217,7 +1217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (3), let (2), this. (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), data (2), next (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** short for (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -1348,7 +1348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3)
+> **Frameworks & Libraries:** data (4), hit (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** similar to (3)
 > **Versions:** 0.1 (1)
@@ -1451,7 +1451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1)
+> **Frameworks & Libraries:** data (6), hit (4), [[Zoom]] (1)
 > **Code Identifiers:** learning_rate (4), n_estimators (2)
 > **Analogies:** it's like (1), think of it as (1)
 > **Warnings:** be aware (1), note that (1)
@@ -1581,8 +1581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[Algorithms]] (1), data (1)
 > **Code Identifiers:** max_depth (9), max_depths (4), n_estimators (1)
-> **Code Keywords:** this. (4), this, (3), let (3), raise (1)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
 > **Tools:** jupyter (1)
@@ -1593,7 +1593,7 @@ created: 2026-04-29
 
 ### 4. XGBoost
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why XGBoost?
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/why-xgboost?u=76281980)
@@ -1650,7 +1650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), while, (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (5), parallel (2), feature (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
@@ -1740,7 +1740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** enable_categorical (1), y_train (1)
 > **Warnings:** note that (2)
 > **Versions:** 0.82 (1)
@@ -1849,7 +1849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), raise (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** eta (4)
 > **Definitions:** is a  (3)
 > **Versions:** 87.8 (1), 0.875 (1)
@@ -1952,7 +1952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), raise (1), this. (1), case, (1)
+> **Frameworks & Libraries:** hit (2), generic (1), [[Zoom]] (1)
 > **Versions:** 0.1 (1), 0.875 (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -1962,7 +1962,7 @@ created: 2026-04-29
 
 ### 5. Stacking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Concept of stacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-stacking?u=76281980)
@@ -2005,9 +2005,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), strengths (1), [[Neural Networks]] (1), api (1)
 > **Definitions:** is an  (2), is a  (1), known as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type. (1)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2053,7 +2053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), module (1), finally, (1), throw (1)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** fit_transform (1)
 > **Versions:** 0.822 (1)
@@ -2102,7 +2102,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2164,7 +2163,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), throw (3)
 > **Versions:** 0.822 (1), 0.828 (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** sklearn (1)
@@ -2174,7 +2172,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/next-steps?u=76281980)
@@ -2203,9 +2201,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), cat (1)
 > **Env Vars:** cat (1), gbm (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - as (1)
 
 

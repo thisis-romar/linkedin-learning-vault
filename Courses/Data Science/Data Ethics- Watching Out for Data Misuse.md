@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/data-ethics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Ethics-%20Watching%20Out%20for%20Data%20Misuse.md)
@@ -47,34 +47,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Data accuracy and misuse
+  - [Data accuracy and misuse](#data-accuracy-and-misuse)
 - [**1. Thinking about Ethics**](#1-thinking-about-ethics) (4 videos)
-  - What are your ethical duties?
-  - Do the ends justify the means?
-  - How to be a virtuous organization
-  - Create an ethical contract
+  - [What are your ethical duties?](#what-are-your-ethical-duties)
+  - [Do the ends justify the means?](#do-the-ends-justify-the-means)
+  - [How to be a virtuous organization](#how-to-be-a-virtuous-organization)
+  - [Create an ethical contract](#create-an-ethical-contract)
 - [**2. Data Misuse**](#2-data-misuse) (6 videos)
-  - Data misuse
-  - When your customer misuses the data
-  - Is it ethical to micro-target?
-  - Can you exploit human needs?
-  - How to ethically engage your customer
-  - Should you promote democracy?
+  - [Data misuse](#data-misuse)
+  - [When your customer misuses the data](#when-your-customer-misuses-the-data)
+  - [Is it ethical to micro-target?](#is-it-ethical-to-micro-target)
+  - [Can you exploit human needs?](#can-you-exploit-human-needs)
+  - [How to ethically engage your customer](#how-to-ethically-engage-your-customer)
+  - [Should you promote democracy?](#should-you-promote-democracy)
 - [**3. Accuracy**](#3-accuracy) (5 videos)
-  - What does it mean to be accurate?
-  - Should you present the truth?
-  - What to do with fake news
-  - What to do if your customer spreads propaganda
-  - The danger of too much accuracy
+  - [What does it mean to be accurate?](#what-does-it-mean-to-be-accurate)
+  - [Should you present the truth?](#should-you-present-the-truth)
+  - [What to do with fake news](#what-to-do-with-fake-news)
+  - [What to do if your customer spreads propaganda](#what-to-do-if-your-customer-spreads-propaganda)
+  - [The danger of too much accuracy](#the-danger-of-too-much-accuracy)
 - [**4. Data Models**](#4-data-models) (2 videos)
-  - What are data models?
-  - Your customer could game the system
+  - [What are data models?](#what-are-data-models)
+  - [Your customer could game the system](#your-customer-could-game-the-system)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data accuracy and misuse
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980)
@@ -117,14 +117,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Ethics]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** protected (1)
 > **Speakers:** - data (1)
 
 
 ### 1. Thinking about Ethics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are your ethical duties?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980)
@@ -211,6 +211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethics]] (2), product (2), [[Microsoft Word|Word]] (1), data (1), business (1)
 > **Definitions:** is called (2)
 > **Analogies:** think of it as (1), imagine (1)
 > **UI Navigation:** go to (1)
@@ -299,6 +300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Privacy]] (3), [[Google]] (2)
 > **Definitions:** is called (2), is a  (2)
 > **Env Vars:** osint (1)
 > **Tools:** notion (1)
@@ -391,7 +393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Ethics]] (4), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** imagine (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1)
@@ -481,8 +483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), data (2), [[Ethics]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** self (1)
 > **Tools:** notion (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - here (1)
@@ -490,7 +492,7 @@ created: 2026-04-29
 
 ### 2. Data Misuse
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data misuse
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980)
@@ -577,6 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), product (6), [[Ethics]] (3), [[Google]] (2), [[Privacy]] (1)
 > **Definitions:** is an  (3)
 > **Analogies:** imagine (2), for example (1)
 > **Warnings:** keep in mind (2)
@@ -662,8 +665,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1), [[Ethics]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), continue (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** ucla (1)
 > **Definitions:** means that (1)
@@ -726,8 +729,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Ethics]] (2), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
@@ -802,8 +805,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Ethics]] (3), [[Microsoft Products|Products]] (2), product (1)
 > **Analogies:** picture (2), it's like (1), imagine (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
@@ -879,6 +882,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), product (2), data (2), [[Ethics]] (2), business (1)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -952,6 +956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Ethics]] (3), [[Google]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** iphone (2)
 > **Env Vars:** ceo (1)
@@ -961,7 +966,7 @@ created: 2026-04-29
 
 ### 3. Accuracy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What does it mean to be accurate?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980)
@@ -1040,7 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), assert (1)
+> **Frameworks & Libraries:** data (9), power (3), [[Ethics]] (1), [[Privacy]] (1)
 > **Env Vars:** potomac (1), fbi (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1121,6 +1126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethics]] (3), power (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - so (1)
@@ -1188,8 +1194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (2), [[Ethics]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** new. (1), let (1)
 > **Env Vars:** ceo (2)
 > **Definitions:** means that (1)
 > **Speakers:** - in (1)
@@ -1265,7 +1271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Public Health]] (2), [[Microsoft Products|Products]] (1), teams (1), next (1)
 > **CLI Commands:** make (1)
 > **Versions:** 99.9 (1)
 > **Analogies:** such as (1)
@@ -1340,6 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), data (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -1349,7 +1356,7 @@ created: 2026-04-29
 
 ### 4. Data Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are data models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-data-models?u=76281980)
@@ -1436,9 +1443,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (2), [[Ethics]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** self (1)
 > **Speakers:** - no (1)
 
 #### Your customer could game the system
@@ -1514,17 +1521,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Ethics]] (3)
 > **Env Vars:** tcu (3)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - in (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980)
@@ -1561,6 +1568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Ethics]] (4), [[Forms]] (1), [[Search]] (1), [[LinkedIn]] (1)
 > **Warnings:** watch out (1), keep in mind (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)

@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Visualizing%20Advanced%20Charts%20and%20Graphs.md)
@@ -48,42 +48,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Moving beyond basic data viz
-  - Do you need the basics first?
+  - [Moving beyond basic data viz](#moving-beyond-basic-data-viz)
+  - [Do you need the basics first?](#do-you-need-the-basics-first)
 - [**1. Using Advanced Charts and Graphs**](#1-using-advanced-charts-and-graphs) (3 videos)
-  - What makes a chart or graph advanced?
-  - How the brain responds to data viz
-  - The chart selection framework
+  - [What makes a chart or graph advanced?](#what-makes-a-chart-or-graph-advanced)
+  - [How the brain responds to data viz](#how-the-brain-responds-to-data-viz)
+  - [The chart selection framework](#the-chart-selection-framework)
 - [**2. Advanced Distribution Charts and Graphs**](#2-advanced-distribution-charts-and-graphs) (6 videos)
-  - What are distribution charts and graphs?
-  - Density plots explained: What, when, why, and how
-  - Ridgeline (joy) plots explained: What, when, why and how
-  - Box plots explained: What, when, why, and how
-  - Variations of box plots: Violin plots and more
-  - Sankey diagrams explained: What, when, why and how
+  - [What are distribution charts and graphs?](#what-are-distribution-charts-and-graphs)
+  - [Density plots explained: What, when, why, and how](#density-plots-explained-what-when-why-and-how)
+  - [Ridgeline (joy) plots explained: What, when, why and how](#ridgeline-joy-plots-explained-what-when-why-and-how)
+  - [Box plots explained: What, when, why, and how](#box-plots-explained-what-when-why-and-how)
+  - [Variations of box plots: Violin plots and more](#variations-of-box-plots-violin-plots-and-more)
+  - [Sankey diagrams explained: What, when, why and how](#sankey-diagrams-explained-what-when-why-and-how)
 - [**3. Advanced Comparison Charts and Graphs**](#3-advanced-comparison-charts-and-graphs) (6 videos)
-  - What are comparison charts and graphs?
-  - Alluvial charts and parallel sets: What, when, why, and how
-  - Bullet graphs explained: What, when, why, and how
-  - Radial charts explained: What, when, why, and how
-  - Radar charts explained: What, when, why and how
-  - Coxcomb charts: What, when, why and how
+  - [What are comparison charts and graphs?](#what-are-comparison-charts-and-graphs)
+  - [Alluvial charts and parallel sets: What, when, why, and how](#alluvial-charts-and-parallel-sets-what-when-why-and-how)
+  - [Bullet graphs explained: What, when, why, and how](#bullet-graphs-explained-what-when-why-and-how)
+  - [Radial charts explained: What, when, why, and how](#radial-charts-explained-what-when-why-and-how)
+  - [Radar charts explained: What, when, why and how](#radar-charts-explained-what-when-why-and-how)
+  - [Coxcomb charts: What, when, why and how](#coxcomb-charts-what-when-why-and-how)
 - [**4. Advanced Relationship Charts and Graphs**](#4-advanced-relationship-charts-and-graphs) (4 videos)
-  - What are relationship charts and graphs?
-  - Parallel coordinates plots: What, when, why, and how
-  - Chord diagrams explained: What, when, why, and how
-  - Using maps for advanced data visualizations
+  - [What are relationship charts and graphs?](#what-are-relationship-charts-and-graphs)
+  - [Parallel coordinates plots: What, when, why, and how](#parallel-coordinates-plots-what-when-why-and-how)
+  - [Chord diagrams explained: What, when, why, and how](#chord-diagrams-explained-what-when-why-and-how)
+  - [Using maps for advanced data visualizations](#using-maps-for-advanced-data-visualizations)
 - [**5. Advanced Composition Charts and Graphs**](#5-advanced-composition-charts-and-graphs) (4 videos)
-  - What are composition charts and graphs?
-  - Marimekko charts explained: What, when, why, and how
-  - Sunburst diagrams explained: What, when, why, and how
-  - Streamgraphs explained: What, when, why, and how
+  - [What are composition charts and graphs?](#what-are-composition-charts-and-graphs)
+  - [Marimekko charts explained: What, when, why, and how](#marimekko-charts-explained-what-when-why-and-how)
+  - [Sunburst diagrams explained: What, when, why, and how](#sunburst-diagrams-explained-what-when-why-and-how)
+  - [Streamgraphs explained: What, when, why, and how](#streamgraphs-explained-what-when-why-and-how)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to hone your advanced data visualization skills
+  - [Continuing to hone your advanced data visualization skills](#continuing-to-hone-your-advanced-data-visualization-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving beyond basic data viz
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/moving-beyond-basic-data-viz?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), business (1), career (1)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
 
@@ -190,17 +191,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), next (2), [[Microsoft Excel|Excel]] (2), [[Google]] (2)
 > **Env Vars:** nba (3), raw (1)
 > **CLI Commands:** find (2), make (1)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (1), in other words (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 
 
 ### 1. Using Advanced Charts and Graphs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes a chart or graph advanced?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-makes-a-chart-or-graph-advanced?u=76281980)
@@ -259,7 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2)
+> **Frameworks & Libraries:** data (8)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -323,7 +324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), if, (1), require (1)
+> **Frameworks & Libraries:** data (6), [[Forms]] (1)
 > **Env Vars:** before (1), conscious (1)
 > **Definitions:** in other words (2)
 
@@ -378,9 +379,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Forms]] (1), [[Google]] (1), [[Search]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), for instance (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** dozen (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** in other words (1)
@@ -388,7 +389,7 @@ created: 2026-04-29
 
 ### 2. Advanced Distribution Charts and Graphs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are distribution charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980)
@@ -461,8 +462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Statistical Analysis]] (1), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1), next (1)
 > **Env Vars:** nba (6), normal (1), symmetrical (1), unimodal (1)
-> **Code Keywords:** let (2), case, (2), this. (1), this, (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
@@ -566,9 +567,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), next (2), [[Statistics]] (1), [[Probability]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** nba (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **URLs:** [daddylon.com](https://daddylon.com) (1)
 > **Cross-References:** we discussed (1)
 > **UI Navigation:** go to (1)
@@ -649,7 +650,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), this, (2), raise (1), require (1), case, (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (1), next (1)
 > **Cross-References:** in the last (2)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
@@ -746,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1), for. (1), this. (1), case, (1)
+> **Frameworks & Libraries:** data (15), [[Statistics]] (2), [[Microsoft Excel|Excel]] (1), next (1), game (1)
 > **Env Vars:** nba (3), assist (2), percentage (2), below (1), average (1)
 > **CLI Commands:** find (3), make (1)
 > **Versions:** 56.7 (1), 13.7 (1)
@@ -820,9 +821,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Probability]] (5), [[Statistical Analysis]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (3), for instance (1)
 > **Env Vars:** nba (3)
-> **Code Keywords:** this. (1)
 > **Cross-References:** in the last (1)
 
 #### Sankey diagrams explained: What, when, why and how
@@ -894,9 +895,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), product (4), parallel (2), data (2), traffic (1)
 > **CLI Commands:** node (5), make (2)
 > **Analogies:** for example (4), similar to (1)
-> **Code Keywords:** this, (2), let (1)
 > **Env Vars:** extremely (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -904,7 +905,7 @@ created: 2026-04-29
 
 ### 3. Advanced Comparison Charts and Graphs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are comparison charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-comparison-charts-and-graphs?u=76281980)
@@ -943,6 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1093,7 +1095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), if, (1), from, (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (13), next (5), parallel (4), traffic (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** nba (4), usa (2), jfk (1), html (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** python (1)
@@ -1249,7 +1251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), this, (2), if, (1), finally, (1)
+> **Frameworks & Libraries:** game (4), next (3), teams (2), data (2), parallel (1)
 > **Env Vars:** nba (5), bullet (1), graph (1), svg (1)
 > **Analogies:** for example (1), just like (1), such as (1)
 > **CLI Commands:** make (1), find (1)
@@ -1387,7 +1389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), from. (1), this, (1), function (1)
+> **Frameworks & Libraries:** data (18), next (2), [[Statistics]] (1), [[Zoom]] (1)
 > **Env Vars:** nba (4)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (2)
@@ -1453,8 +1455,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (1)
 > **Env Vars:** nba (3), mba (1)
-> **Code Keywords:** this, (1), static (1), this. (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
@@ -1548,7 +1550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), extends (1), case. (1)
+> **Frameworks & Libraries:** data (6), teams (4), next (2), game (1)
 > **UI Navigation:** dropdown (2)
 > **Analogies:** for example (2)
 > **Env Vars:** nba (1)
@@ -1559,7 +1561,7 @@ created: 2026-04-29
 
 ### 4. Advanced Relationship Charts and Graphs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are relationship charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-relationship-charts-and-graphs?u=76281980)
@@ -1596,8 +1598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), parallel (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
-> **Code Keywords:** this, (1), let (1)
 > **Definitions:** known as (1), is an  (1)
 
 #### Parallel coordinates plots: What, when, why, and how
@@ -1679,8 +1681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), parallel (5), teams (4), next (3), feature (2)
 > **Env Vars:** nba (3), svg (2)
-> **Code Keywords:** this, (2), case, (1), static (1)
 > **Cross-References:** we covered (1), later in (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1827,8 +1829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), node (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** nba (8), ncaa (5), aac (2), sec (2)
-> **Code Keywords:** let (2), if, (1), static (1), from. (1), switch (1)
 > **CLI Commands:** node (4), make (2), find (1)
 > **Analogies:** for example (6), just like (1)
 > **Exercise Files:** template (2)
@@ -1901,7 +1903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), throw (1), this, (1), require (1)
+> **Frameworks & Libraries:** data (10), traffic (2), [[D3.js]] (2), [[Microsoft]] (1), web (1)
 > **Analogies:** for example (4)
 > **Env Vars:** ceo (1), covid (1), tsa (1)
 > **File Paths:** d3.js (2)
@@ -1911,7 +1913,7 @@ created: 2026-04-29
 
 ### 5. Advanced Composition Charts and Graphs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are composition charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-composition-charts-and-graphs?u=76281980)
@@ -1950,7 +1952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (3), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
@@ -2065,8 +2067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Products|Products]] (2), power (1), next (1), [[HTML]] (1)
 > **Env Vars:** meco (2), ncaa (2), mecoland (1), nba (1), aac (1)
-> **Code Keywords:** this, (2), let (1), delete (1), from. (1), require (1)
 > **Definitions:** means that (2), is a  (1), is an  (1), is called (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -2159,7 +2161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), from, (1), from. (1)
+> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (3), next (2), [[Decision-Making]] (1)
 > **Env Vars:** nba (2), usa (2)
 > **Definitions:** is a  (2), means that (2)
 > **CLI Commands:** make (1), find (1), node (1)
@@ -2261,8 +2263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Office|Office]] (3), game (2), teams (1), cd (1)
 > **Analogies:** for instance (2), picture (1), for example (1), such as (1)
-> **Code Keywords:** this, (2), case. (1)
 > **CLI Commands:** make (1), cd (1)
 > **Env Vars:** nba (1)
 > **Exercise Files:** template (1)
@@ -2271,7 +2273,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to hone your advanced data visualization skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980)
@@ -2320,9 +2322,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (3), [[D3.js]] (2), parallel (1)
 > **CLI Commands:** python (3), make (1)
 > **File Paths:** d3.js (2)
-> **Code Keywords:** continue (2)
 > **Env Vars:** nba (2)
 > **Cross-References:** we discussed (1)
 > **Exercise Files:** template (1)

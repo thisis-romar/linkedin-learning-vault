@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/ratio-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Running%20a%20Profitable%20Business-%20Understanding%20Financial%20Ratios.md)
@@ -47,50 +47,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Gain financial insights
+  - [Gain financial insights](#gain-financial-insights)
 - [**1. What Is Financial Ratio Analysis?**](#1-what-is-financial-ratio-analysis) (1 videos)
-  - Introduction to financial ratio analysis
+  - [Introduction to financial ratio analysis](#introduction-to-financial-ratio-analysis)
 - [**2. A Review of the Financial Statements**](#2-a-review-of-the-financial-statements) (4 videos)
-  - What are the financial statements?
-  - The balance sheet
-  - The income statement
-  - The statement of cash flows
+  - [What are the financial statements?](#what-are-the-financial-statements)
+  - [The balance sheet](#the-balance-sheet)
+  - [The income statement](#the-income-statement)
+  - [The statement of cash flows](#the-statement-of-cash-flows)
 - [**3. The DuPont Framework**](#3-the-dupont-framework) (5 videos)
-  - The DuPont company: creating accounting history
-  - Return on equity
-  - DuPont framework
-  - DuPont framework: Target and Walmart
-  - Problem description to explanation
+  - [The DuPont company: creating accounting history](#the-dupont-company-creating-accounting-history)
+  - [Return on equity](#return-on-equity)
+  - [DuPont framework](#dupont-framework)
+  - [DuPont framework: Target and Walmart](#dupont-framework-target-and-walmart)
+  - [Problem description to explanation](#problem-description-to-explanation)
 - [**4. Common-Size Financial Statements**](#4-common-size-financial-statements) (4 videos)
-  - Olympic medals and GDP per capita
-  - Common size overview
-  - Target's common-size income statement
-  - Target's common-size balance sheet
+  - [Olympic medals and GDP per capita](#olympic-medals-and-gdp-per-capita)
+  - [Common size overview](#common-size-overview)
+  - [Target's common-size income statement](#targets-common-size-income-statement)
+  - [Target's common-size balance sheet](#targets-common-size-balance-sheet)
 - [**5. Profitability Ratios**](#5-profitability-ratios) (4 videos)
-  - McDonald's most profitable items
-  - Comparing profitability with financial ratios
-  - Specific profitability ratios
-  - Price-earnings ratio
+  - [McDonald's most profitable items](#mcdonalds-most-profitable-items)
+  - [Comparing profitability with financial ratios](#comparing-profitability-with-financial-ratios)
+  - [Specific profitability ratios](#specific-profitability-ratios)
+  - [Price-earnings ratio](#price-earnings-ratio)
 - [**6. Efficiency Ratios**](#6-efficiency-ratios) (5 videos)
-  - Mark-up vs. profitability: Harry Winston vs. Walmart
-  - Number of days' sales in inventory
-  - Average collection period
-  - Length of the operating cycle
-  - Fixed asset turnover and other utilization ratios
+  - [Mark-up vs. profitability: Harry Winston vs. Walmart](#mark-up-vs-profitability-harry-winston-vs-walmart)
+  - [Number of days' sales in inventory](#number-of-days-sales-in-inventory)
+  - [Average collection period](#average-collection-period)
+  - [Length of the operating cycle](#length-of-the-operating-cycle)
+  - [Fixed asset turnover and other utilization ratios](#fixed-asset-turnover-and-other-utilization-ratios)
 - [**7. Leverage Ratios**](#7-leverage-ratios) (3 videos)
-  - Singapore Airlines' low leverage
-  - Current ratio
-  - Leverage ratios
+  - [Singapore Airlines' low leverage](#singapore-airlines-low-leverage)
+  - [Current ratio](#current-ratio)
+  - [Leverage ratios](#leverage-ratios)
 - [**8. Potential Pitfalls to Ratio Analysis**](#8-potential-pitfalls-to-ratio-analysis) (3 videos)
-  - Historical data pitfalls and baseball
-  - Excess data and comparability issues
-  - "Smoking gun" and historical data biases
+  - [Historical data pitfalls and baseball](#historical-data-pitfalls-and-baseball)
+  - [Excess data and comparability issues](#excess-data-and-comparability-issues)
+  - ["Smoking gun" and historical data biases](#smoking-gun-and-historical-data-biases)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What financial ratio analysis can NOT do
+  - [What financial ratio analysis can NOT do](#what-financial-ratio-analysis-can-not-do)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gain financial insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980)
@@ -147,14 +147,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ratio Analysis]] (4), [[Financial Statements]] (1), strengths (1)
 > **Speakers:** - [kay] (2), - in (2), - you (2), - hi (1), - i (1)
-> **Code Keywords:** self (1), let (1)
 > **Definitions:** is an  (1), in other words (1)
 
 
 ### 1. What Is Financial Ratio Analysis?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to financial ratio analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980)
@@ -231,8 +231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ratio Analysis]] (8), [[Financial Statements]] (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** gaap (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
@@ -240,7 +240,7 @@ created: 2026-04-29
 
 ### 2. A Review of the Financial Statements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the financial statements?
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-are-the-financial-statements-2?u=76281980)
@@ -305,9 +305,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Financial Statements]] (1)
 > **Speakers:** - well (3), - [interviewer] (2), - [expert] (2), - so (2), - what (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** private (1), let (1)
 
 #### The balance sheet
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980)
@@ -502,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Google]] (7), business (4), [[Ratio Analysis]] (3), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), we call this (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -621,7 +621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), public (1)
+> **Frameworks & Libraries:** business (8), [[Microsoft]] (6), [[Google]] (3), [[Microsoft Products|Products]] (2), [[Financial Statements]] (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -744,13 +744,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (2), let (1), finally, (1)
+> **Frameworks & Libraries:** business (7), [[Ratio Analysis]] (3), [[Financial Statements]] (1)
 > **Speakers:** - third (1)
 
 
 ### 3. The DuPont Framework
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The DuPont company: creating accounting history
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980)
@@ -793,8 +793,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Ratio Analysis]] (2), product (1), management (1)
 > **Speakers:** - well (3), - so (3), - kay (1), - of (1), - can (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -873,9 +873,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Microsoft]] (1)
 > **Versions:** 9.3 (4), 20.3 (1), 9.30 (1), 12.3 (1), 90.5 (1)
 > **Env Vars:** roe (4)
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (2)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1)
@@ -970,7 +970,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Versions:** 9.3 (2), 20.3 (2), 1.38 (1), 1.70 (1), 3.5 (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - okay (1)
 
@@ -1089,8 +1088,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), hit (1), [[Ratio Analysis]] (1)
 > **Versions:** 2.7 (5), 12.1 (4), 18.1 (3), 2.9 (3), 4.1 (2)
-> **Code Keywords:** let (6), case, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Warnings:** note that (1)
@@ -1155,6 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Financial Statements]] (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** as we saw (1)
 > **Analogies:** for example (1)
@@ -1163,7 +1163,7 @@ created: 2026-04-29
 
 ### 4. Common-Size Financial Statements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Olympic medals and GDP per capita
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/olympic-medals-and-gdp-per-capita?u=76281980)
@@ -1248,9 +1248,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1), product (1), [[Financial Statements]] (1)
 > **Speakers:** - well (3), - that (2), - so (1), - yes (1), - what (1)
 > **Env Vars:** gdp (2)
-> **Code Keywords:** let (1)
 > **Definitions:** we call this (1)
 
 #### Common size overview
@@ -1392,7 +1392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1), case. (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (4), business (3), [[Ratio Analysis]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Versions:** 3.5 (1), 6.2 (1)
 > **UI Navigation:** go to (1)
@@ -1502,8 +1502,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (2), [[Financial Statements]] (1)
 > **Versions:** 1.5 (4), 29.5 (2), 2.7 (1), 4.1 (1)
-> **Code Keywords:** let (1), this, (1)
 > **Env Vars:** cfo (1)
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
@@ -1603,7 +1603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (3), [[Financial Statements]] (2), business (1), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - we (1)
@@ -1611,7 +1611,7 @@ created: 2026-04-29
 
 ### 5. Profitability Ratios
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### McDonald's most profitable items
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980)
@@ -1686,8 +1686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Analysis]] (1), [[Ratio Analysis]] (1)
 > **Speakers:** - well (3), - i (2), - let (1), - what (1), - that (1)
-> **Code Keywords:** let (2), this, (1), super (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
 
@@ -1794,7 +1794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12)
+> **Frameworks & Libraries:** management (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Versions:** 5.9 (2), 61.2 (1), 61.7 (1)
 > **Env Vars:** ebitda (2)
 > **UI Navigation:** go to (1)
@@ -1867,8 +1867,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6)
 > **Env Vars:** ebitda (11), ebit (3)
-> **Code Keywords:** let (3), this, (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Versions:** 11.4 (1), 11.1 (1)
@@ -1958,7 +1958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Google]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
@@ -1966,7 +1966,7 @@ created: 2026-04-29
 
 ### 6. Efficiency Ratios
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mark-up vs. profitability: Harry Winston vs. Walmart
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mark-up-vs-profitability-harry-winston-vs-walmart?u=76281980)
@@ -2037,6 +2037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (1), [[Security]] (1)
 > **Speakers:** - the (2), - ah (2), - that (2), - jim (1), - i (1)
 > **Definitions:** is a  (2), is called (1)
 
@@ -2135,9 +2136,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), business (1)
 > **Versions:** 5.4 (4), 5.9 (1), 67.6 (1), 3.1 (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
@@ -2252,10 +2253,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3)
 > **Versions:** 1.8 (2), 5.7 (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), just like (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - okay (1)
 
@@ -2366,7 +2367,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1)
 > **Versions:** 2.7 (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2475,7 +2475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else. (1)
+> **Frameworks & Libraries:** management (1), next (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2484,7 +2484,7 @@ created: 2026-04-29
 
 ### 7. Leverage Ratios
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Singapore Airlines' low leverage
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/singapore-airlines-low-leverage?u=76281980)
@@ -2536,7 +2536,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - yeah (3), - ah (2), - all (1), - i (1), - yes (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** roe (2)
 > **Versions:** 2.7 (2)
 > **Cross-References:** go back to (1)
@@ -2620,8 +2619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Analysis]] (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (2), default. (1)
 > **Best Practices:** rule of thumb (3)
 > **Versions:** 1.5 (1)
 > **Analogies:** for example (1)
@@ -2806,7 +2805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2)
+> **Frameworks & Libraries:** business (6), data (2), feature (1)
 > **Versions:** 0.5 (6)
 > **Definitions:** is called (2), means that (1), is an  (1), is a  (1)
 > **Env Vars:** cfo (1)
@@ -2816,7 +2815,7 @@ created: 2026-04-29
 
 ### 8. Potential Pitfalls to Ratio Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Historical data pitfalls and baseball
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980)
@@ -2875,8 +2874,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ratio Analysis]] (2), [[Financial Analysis]] (1), data (1)
 > **Speakers:** - oh (3), - that (2), - hi (1), - a (1), - so (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3007,9 +3006,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (10), [[Ratio Analysis]] (3), business (3)
 > **Warnings:** be careful (4), common mistake (2), be aware (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (3)
 > **Env Vars:** aol (2), rhc (1)
 > **Analogies:** for example (3)
 > **Definitions:** known as (1), in other words (1)
@@ -3108,8 +3107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Ratio Analysis]] (3), power (1), next (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **Warnings:** pitfall (1), be careful (1)
 > **Speakers:** - there (1)
@@ -3117,7 +3116,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What financial ratio analysis can NOT do
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980)
@@ -3178,10 +3177,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Ratio Analysis]] (5), data (5), [[Financial Analysis]] (2), next (1)
 > **Speakers:** - if (2), - all (1), - first (1), - for (1), - it (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 
 

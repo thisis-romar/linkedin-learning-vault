@@ -33,7 +33,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Level%20Up-%20Advanced%20SQL.md)
@@ -52,31 +52,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Advanced SQL code challenges
-  - Using GitHub Codespaces with this course
-  - How to execute SQLite queries
+  - [Advanced SQL code challenges](#advanced-sql-code-challenges)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
+  - [How to execute SQLite queries](#how-to-execute-sqlite-queries)
 - [**1. Joins**](#1-joins) (3 videos)
-  - Create a list of employees and their immediate managers
-  - Find salespeople who have zero sales
-  - List all customers and their sales, even if some data is gone
+  - [Create a list of employees and their immediate managers](#create-a-list-of-employees-and-their-immediate-managers)
+  - [Find salespeople who have zero sales](#find-salespeople-who-have-zero-sales)
+  - [List all customers and their sales, even if some data is gone](#list-all-customers-and-their-sales-even-if-some-data-is-gone)
 - [**2. Grouping**](#2-grouping) (3 videos)
-  - How many cars have been sold per employee?
-  - Find the least and most expensive car sold by each employee
-  - Display a report for employees who have sold more than five cars
+  - [How many cars have been sold per employee?](#how-many-cars-have-been-sold-per-employee)
+  - [Find the least and most expensive car sold by each employee](#find-the-least-and-most-expensive-car-sold-by-each-employee)
+  - [Display a report for employees who have sold more than five cars](#display-a-report-for-employees-who-have-sold-more-than-five-cars)
 - [**3. Advanced Select Options**](#3-advanced-select-options) (3 videos)
-  - Summarize sales per year by using a CTE
-  - Display the number of sales for each employee by month for 2021
-  - Find the sales of cars that are electric by using a subquery
+  - [Summarize sales per year by using a CTE](#summarize-sales-per-year-by-using-a-cte)
+  - [Display the number of sales for each employee by month for 2021](#display-the-number-of-sales-for-each-employee-by-month-for-2021)
+  - [Find the sales of cars that are electric by using a subquery](#find-the-sales-of-cars-that-are-electric-by-using-a-subquery)
 - [**4. Windowing Functions**](#4-windowing-functions) (3 videos)
-  - For each salesperson, rank the car models they've sold the most
-  - Create a report showing sales per month and an annual total
-  - Display the number of cars sold this month and last month
+  - [For each salesperson, rank the car models they've sold the most](#for-each-salesperson-rank-the-car-models-theyve-sold-the-most)
+  - [Create a report showing sales per month and an annual total](#create-a-report-showing-sales-per-month-and-an-annual-total)
+  - [Display the number of cars sold this month and last month](#display-the-number-of-cars-sold-this-month-and-last-month)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Keep learning
+  - [Keep learning](#keep-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced SQL code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980)
@@ -103,10 +103,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), data (2), business (1), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **Env Vars:** sql (5), mvp (1)
 > **Tools:** powershell (1), github (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - we (1)
 
 #### Using GitHub Codespaces with this course
@@ -242,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (1), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -336,7 +336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** database (6), [[Codespaces]] (3), [[SQL]] (2), feature (1), [[Windows]] (1)
 > **UI Navigation:** select the (3), dropdown (1)
 > **File Paths:** query.sql (1)
 > **Env Vars:** sql (1)
@@ -348,7 +348,7 @@ created: 2026-04-29
 
 ### 1. Joins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a list of employees and their immediate managers
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-list-of-employees-and-their-immediate-managers?u=76281980)
@@ -389,8 +389,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2)
 > **Env Vars:** emp (2), mng (2)
-> **Code Keywords:** self (1), let (1), finally, (1)
 > **Non-Speech:** (bouncy playful music) (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - for (1)
@@ -436,7 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), return. (1)
+> **Frameworks & Libraries:** data (5), database (2), next (1), [[SQL]] (1)
 > **Non-Speech:** (digital music) (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** salesid (1)
@@ -511,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (2), finally, (1)
+> **Frameworks & Libraries:** data (17), database (4), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (4)
 > **Non-Speech:** (bright upbeat music) (2)
 > **Cross-References:** we mentioned (1)
@@ -522,7 +522,7 @@ created: 2026-04-29
 
 ### 2. Grouping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How many cars have been sold per employee?
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/how-many-cars-have-been-sold-per-employee?u=76281980)
@@ -575,9 +575,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (2), next (2)
 > **Env Vars:** group (3), select (1), count (1), order (1)
 > **SQL:** group by (3), select (1), order by (1)
-> **Code Keywords:** require (1), let (1), finally, (1)
 > **Non-Speech:** (upbeat chiptune music) (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -635,11 +635,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1), database (1)
 > **Env Vars:** group (2), min (2), max (2), where (1)
 > **Code Identifiers:** salesamount (3), employeeid (1), firstname (1), lastname (1)
 > **Non-Speech:** (upbeat videogame music) (2), (videogame music) (1), (videogame cheerful music) (1)
 > **SQL:** group by (2), where (1)
-> **Code Keywords:** function (1), finally, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** means that (1)
@@ -691,8 +691,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (1)
 > **Non-Speech:** (digital music) (2)
-> **Code Keywords:** function (1)
 > **Code Identifiers:** employeeid (1)
 > **Cross-References:** previous video (1)
 > **Prerequisites:** you'll need (1)
@@ -701,7 +701,7 @@ created: 2026-04-29
 
 ### 3. Advanced Select Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize sales per year by using a CTE
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980)
@@ -756,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (1), [[Troubleshooting]] (1), [[SQL]] (1)
 > **Env Vars:** cte (7), sql (1)
-> **Code Keywords:** case, (2), function (1)
 > **Non-Speech:** (computerized music) (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we mentioned (1)
@@ -830,8 +830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (2)
 > **Non-Speech:** (techno sounds) (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -888,7 +888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1)
+> **Frameworks & Libraries:** data (2), game (1), database (1)
 > **Non-Speech:** (bright music) (2), (video game beeping) (1)
 > **CLI Commands:** find (1), make (1)
 > **SQL:** where (1)
@@ -898,7 +898,7 @@ created: 2026-04-29
 
 ### 4. Windowing Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### For each salesperson, rank the car models they've sold the most
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980)
@@ -967,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), case, (1)
+> **Frameworks & Libraries:** data (5), next (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** order (2), select (1), group (1), partition (1)
 > **SQL:** order by (2), select (1), group by (1)
 > **Non-Speech:** (upbeat 8-bit music) (2)
@@ -1024,7 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), finally, (2), let (1)
+> **Frameworks & Libraries:** data (4), database (2), next (1), [[SQL]] (1)
 > **Env Vars:** cte (2), sql (1)
 > **Non-Speech:** (bouncy playful music) (2)
 > **Cross-References:** in the last (1)
@@ -1097,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (3), [[Windows]] (2), database (1)
 > **Code Identifiers:** calmonth (2)
 > **Non-Speech:** (upbeat electronic music) (2)
 > **Speakers:** - [instructor] (1)
@@ -1105,7 +1105,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980)
@@ -1136,8 +1136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (4), [[LinkedIn]] (1), next (1)
 > **Env Vars:** sql (4)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [jess] (1)
 

@@ -31,7 +31,7 @@ tags:
   - skill/windows-system-administration
   - skill/windows-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Installation%20and%20Configuration.md)
@@ -50,39 +50,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction to Windows Server 2022: Installation and Configuration**](#introduction-to-windows-server-2022-installation-and-configuration) (2 videos)
-  - Introduction to Windows Server 2022: Installation and configuration
-  - Suggested knowledge
+  - [Introduction to Windows Server 2022: Installation and configuration](#introduction-to-windows-server-2022-installation-and-configuration)
+  - [Suggested knowledge](#suggested-knowledge)
 - [**1. Installing Windows Server 2022**](#1-installing-windows-server-2022) (4 videos)
-  - Planning for Windows Server installation
-  - Preparing for Windows Server Installation
-  - Installation with Desktop Experience
-  - Installation with Server Core
+  - [Planning for Windows Server installation](#planning-for-windows-server-installation)
+  - [Preparing for Windows Server Installation](#preparing-for-windows-server-installation)
+  - [Installation with Desktop Experience](#installation-with-desktop-experience)
+  - [Installation with Server Core](#installation-with-server-core)
 - [**2. Configuring Windows Server**](#2-configuring-windows-server) (6 videos)
-  - Configuring a computer name with Server Manager
-  - Configuring TCP/IP with Server Manager
-  - Configuring a computer name with SConfig
-  - Configuring TCP/IP with SConfig
-  - Configruing a computer name with PowerShell
-  - Configuring TCP/IP with PowerShell
+  - [Configuring a computer name with Server Manager](#configuring-a-computer-name-with-server-manager)
+  - [Configuring TCP/IP with Server Manager](#configuring-tcpip-with-server-manager)
+  - [Configuring a computer name with SConfig](#configuring-a-computer-name-with-sconfig)
+  - [Configuring TCP/IP with SConfig](#configuring-tcpip-with-sconfig)
+  - [Configruing a computer name with PowerShell](#configruing-a-computer-name-with-powershell)
+  - [Configuring TCP/IP with PowerShell](#configuring-tcpip-with-powershell)
 - [**3. Configuring Storage**](#3-configuring-storage) (7 videos)
-  - Creating a simple volume
-  - Extending and shrinking a volume
-  - Converting from basic to dynamic disks
-  - Creating a spanned volume
-  - Creating a striped volume
-  - Creating a mirrored volume
-  - Creating a RAID 5 Volume
+  - [Creating a simple volume](#creating-a-simple-volume)
+  - [Extending and shrinking a volume](#extending-and-shrinking-a-volume)
+  - [Converting from basic to dynamic disks](#converting-from-basic-to-dynamic-disks)
+  - [Creating a spanned volume](#creating-a-spanned-volume)
+  - [Creating a striped volume](#creating-a-striped-volume)
+  - [Creating a mirrored volume](#creating-a-mirrored-volume)
+  - [Creating a RAID 5 Volume](#creating-a-raid-5-volume)
 - [**4. Configuring Server Roles and Features**](#4-configuring-server-roles-and-features) (4 videos)
-  - Installing roles and features
-  - Configuring a role
-  - Installing roles on Server Core
-  - Managing features on demand
+  - [Installing roles and features](#installing-roles-and-features)
+  - [Configuring a role](#configuring-a-role)
+  - [Installing roles on Server Core](#installing-roles-on-server-core)
+  - [Managing features on demand](#managing-features-on-demand)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction to Windows Server 2022: Installation and Configuration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Windows Server 2022: Installation and configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980)
@@ -103,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Windows]] (1), [[Powershell]] (1), [[Microsoft]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** powershell (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [ed] (1)
@@ -148,6 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Windows]] (2), [[Virtual Machines]] (1), [[Virtualization]] (1), [[Hardware]] (1)
 > **Prerequisites:** setup (2), prerequisite (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -155,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Installing Windows Server 2022
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning for Windows Server installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980)
@@ -280,10 +282,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (8), [[Windows Server]] (7), [[Microsoft]] (3), [[Virtual Machines]] (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** url (2), ram (1), dvd (1)
 > **UI Navigation:** click on (2), scroll down (2)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** while, (1), let (1), this. (1)
 > **Prerequisites:** install (2)
 > **Versions:** 1.4 (1)
 > **Speakers:** - [instructor] (1)
@@ -373,9 +375,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (7), next (7), [[Hardware]] (2), [[Virtual Machines]] (1), power (1)
 > **Env Vars:** dvd (13), scsi (2), ram (2)
 > **Prerequisites:** configure (3), set up (2), install (2), before you begin (1)
-> **Code Keywords:** let (3), case, (2), this, (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (5)
 > **Cross-References:** go back to (1)
@@ -481,8 +483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (6), next (4), hit (1), cd (1), power (1)
 > **UI Navigation:** click on (9), select the (1)
-> **Code Keywords:** let (2), this, (1), case, (1), new. (1), super (1)
 > **Prerequisites:** install (3), set up (1)
 > **CLI Commands:** make (2), cd (1)
 > **Env Vars:** dvd (3)
@@ -549,8 +551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), hit (2), power (1), management (1), [[Hardware]] (1)
 > **Prerequisites:** install (4), set up (1)
-> **Code Keywords:** let (1), this, (1), else, (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** dvd (1)
 > **Speakers:** - [instructor] (1)
@@ -558,7 +560,7 @@ created: 2026-04-29
 
 ### 2. Configuring Windows Server
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring a computer name with Server Manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980)
@@ -661,11 +663,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Windows]] (1), [[Microsoft]] (1), power (1)
 > **UI Navigation:** click on (4)
 > **Prerequisites:** configure (3), set up (1)
 > **Env Vars:** server1 (3)
 > **Definitions:** is a  (3)
-> **Code Keywords:** function (1), case, (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -738,10 +740,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (3), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (4), right-click (1), go to (1), checkbox (1)
 > **Env Vars:** dhcp (3), dns (3)
 > **Versions:** 192.168.1 (3), version 4 (1), 255.0 (1)
-> **Code Keywords:** case. (2), static (2)
 > **Prerequisites:** configure (2), set up (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -817,8 +819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), [[Windows Server]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** default, (1), let (1)
 > **Env Vars:** a09 (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
@@ -892,7 +894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (5), let (4), continue (3), this, (1)
+> **Frameworks & Libraries:** hit (11), dns (9), [[Windows Server]] (1)
 > **Env Vars:** dns (9), dhcp (3), tcp (1)
 > **Versions:** 192.168.1 (3), 255.255.255 (1), 1.242 (1)
 > **UI Navigation:** select the (1)
@@ -960,8 +962,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (11), hit (4), [[Windows]] (2)
 > **Tools:** powershell (11), command line (2)
-> **Code Keywords:** let (4), default. (1), this, (1), default, (1)
 > **Env Vars:** warning (1), servercore1 (1)
 > **Prerequisites:** configure (2)
 > **Warnings:** warning (1)
@@ -1112,19 +1114,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Powershell]] (5), dns (3), [[Windows]] (2), next (1)
 > **Versions:** 192.168.1 (8), 1.254 (2), 255.255.255 (1)
 > **Tools:** powershell (5), command line (1)
 > **Env Vars:** dns (3), sconfig (2)
 > **Prerequisites:** configure (5)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 
 
 ### 3. Configuring Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a simple volume
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980)
@@ -1247,9 +1249,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (5), management (4), next (4), [[Windows]] (1), hit (1)
 > **Env Vars:** ntfs (3), scsi (2), rom (1), dvd (1), fat (1)
 > **UI Navigation:** click on (6), go to (1), scroll down (1)
-> **Code Keywords:** let (3), for, (1), default, (1), new, (1)
 > **Prerequisites:** set up (3), configure (2), install (1)
 > **CLI Commands:** make (3), find (1), cd (1)
 > **Code Identifiers:** exfat (1)
@@ -1361,7 +1363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (1)
+> **Frameworks & Libraries:** next (3), data (1)
 > **UI Navigation:** click on (4), right-click (1), select the (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -1450,7 +1452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), else, (1), require (1), this. (1)
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** in other words (1), means that (1)
 > **Warnings:** warning (2)
@@ -1521,8 +1523,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Windows]] (2), management (1)
 > **UI Navigation:** go to (2), click on (2), right-click (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** ntfs (1)
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
@@ -1655,8 +1657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), next (5), management (1)
 > **Env Vars:** raid (12)
-> **Code Keywords:** let (6), case, (1), this. (1), this, (1)
 > **UI Navigation:** click on (4)
 > **Cross-References:** previous video (1)
 > **Analogies:** kind of like (1)
@@ -1751,8 +1753,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Hardware]] (3), next (2), [[Windows Server]] (1), management (1)
 > **Env Vars:** raid (5), ntfs (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** set up (1)
@@ -1893,8 +1895,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), next (6), [[Representational State Transfer (REST)|Rest]] (1), management (1), [[Windows Server]] (1)
 > **Env Vars:** raid (11)
-> **Code Keywords:** let (5), finally, (1)
 > **UI Navigation:** click on (3), select the (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
@@ -1904,7 +1906,7 @@ created: 2026-04-29
 
 ### 4. Configuring Server Roles and Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing roles and features
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980)
@@ -2049,7 +2051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), default. (1), type. (1)
+> **Frameworks & Libraries:** next (9), [[Active Directory]] (4), feature (3), [[Windows Server]] (1), [[Security]] (1)
 > **Prerequisites:** install (3), configure (2), before you begin (1)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** make (3)
@@ -2198,8 +2200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[Windows Server]] (5), [[Active Directory]] (2), functional (2), dns (2)
 > **Prerequisites:** install (3), prerequisite (3), configure (1), set up (1)
-> **Code Keywords:** let (2), this. (2), require (1), for. (1), case, (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (5)
 > **Env Vars:** dns (2)
@@ -2297,7 +2299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), this, (1), if, (1)
+> **Frameworks & Libraries:** feature (4), [[Powershell]] (4), next (3), [[Active Directory]] (2), [[Windows Server]] (1)
 > **Prerequisites:** install (4), before you begin (1)
 > **Tools:** powershell (4)
 > **UI Navigation:** click on (3)
@@ -2417,8 +2419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), data (5), hit (4), [[Powershell]] (3), [[Microsoft]] (2)
 > **Prerequisites:** install (5)
-> **Code Keywords:** this, (2), let (1), default. (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** powershell (3)
@@ -2428,7 +2430,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/next-steps?u=76281980)
@@ -2443,6 +2445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows Server]] (2), next (1)
 > **Prerequisites:** install (1), configure (1)
 > **Speakers:** - [ed] (1)
 

@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Php.md)
@@ -44,88 +44,88 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Should you learn PHP?
-  - A note on PHP 8.0
-  - Developing locally
+  - [Should you learn PHP?](#should-you-learn-php)
+  - [A note on PHP 8.0](#a-note-on-php-80)
+  - [Developing locally](#developing-locally)
 - [**1. The Basics**](#1-the-basics) (8 videos)
-  - How PHP works
-  - Printing on the screen
-  - Using variables
-  - Single vs. double quotes
-  - What are arrays and how do they work?
-  - Defining arrays
-  - Challenge: Display basic information on an HTML page
-  - Solution: Display basic information on an HTML page
+  - [How PHP works](#how-php-works)
+  - [Printing on the screen](#printing-on-the-screen)
+  - [Using variables](#using-variables)
+  - [Single vs. double quotes](#single-vs-double-quotes)
+  - [What are arrays and how do they work?](#what-are-arrays-and-how-do-they-work)
+  - [Defining arrays](#defining-arrays)
+  - [Challenge: Display basic information on an HTML page](#challenge-display-basic-information-on-an-html-page)
+  - [Solution: Display basic information on an HTML page](#solution-display-basic-information-on-an-html-page)
 - [**2. Control Structures**](#2-control-structures) (8 videos)
-  - Boolean operators and the truth (update for PHP 8.0)
-  - Logical operators
-  - Creating if/else statements
-  - Ternary operations
-  - Switch statements
-  - Match expression
-  - Challenge: Display content based on status
-  - Solution: Display content based on status
+  - [Boolean operators and the truth (update for PHP 8.0)](#boolean-operators-and-the-truth-update-for-php-80)
+  - [Logical operators](#logical-operators)
+  - [Creating if/else statements](#creating-ifelse-statements)
+  - [Ternary operations](#ternary-operations)
+  - [Switch statements](#switch-statements)
+  - [Match expression](#match-expression)
+  - [Challenge: Display content based on status](#challenge-display-content-based-on-status)
+  - [Solution: Display content based on status](#solution-display-content-based-on-status)
 - [**3. Math in PHP**](#3-math-in-php) (5 videos)
-  - Arithmetic operators
-  - Figuring out even/odd with modulus
-  - Incrementing and decrementing variables
-  - Challenge: Implementing a complicated calculation
-  - Solution: Implementing a complicated calculation
+  - [Arithmetic operators](#arithmetic-operators)
+  - [Figuring out even/odd with modulus](#figuring-out-evenodd-with-modulus)
+  - [Incrementing and decrementing variables](#incrementing-and-decrementing-variables)
+  - [Challenge: Implementing a complicated calculation](#challenge-implementing-a-complicated-calculation)
+  - [Solution: Implementing a complicated calculation](#solution-implementing-a-complicated-calculation)
 - [**4. Loops**](#4-loops) (6 videos)
-  - What are loops?
-  - Do/while loops
-  - For loops
-  - Working through arrays with foreach loops
-  - Challenge: Calculating the Fibonacci sequence
-  - Solution: Calculating the Fibonacci sequence
+  - [What are loops?](#what-are-loops)
+  - [Do/while loops](#dowhile-loops)
+  - [For loops](#for-loops)
+  - [Working through arrays with foreach loops](#working-through-arrays-with-foreach-loops)
+  - [Challenge: Calculating the Fibonacci sequence](#challenge-calculating-the-fibonacci-sequence)
+  - [Solution: Calculating the Fibonacci sequence](#solution-calculating-the-fibonacci-sequence)
 - [**5. Functions and Objects**](#5-functions-and-objects) (11 videos)
-  - What are functions?
-  - Using built-in functions
-  - Writing custom functions
-  - Union typing variables
-  - Optional or named arguments
-  - Anonymous functions
-  - What are objects and classes?
-  - Defining a simple person class (update for PHP 8.0)
-  - Using the person class
-  - Challenge: Sort an array of objects
-  - Solution: Sort an array of objects
+  - [What are functions?](#what-are-functions)
+  - [Using built-in functions](#using-built-in-functions)
+  - [Writing custom functions](#writing-custom-functions)
+  - [Union typing variables](#union-typing-variables)
+  - [Optional or named arguments](#optional-or-named-arguments)
+  - [Anonymous functions](#anonymous-functions)
+  - [What are objects and classes?](#what-are-objects-and-classes)
+  - [Defining a simple person class (update for PHP 8.0)](#defining-a-simple-person-class-update-for-php-80)
+  - [Using the person class](#using-the-person-class)
+  - [Challenge: Sort an array of objects](#challenge-sort-an-array-of-objects)
+  - [Solution: Sort an array of objects](#solution-sort-an-array-of-objects)
 - [**6. Including External Files**](#6-including-external-files) (6 videos)
-  - Organizing your code
-  - Using include and require
-  - include_once and require_once
-  - Namespacing
-  - Challenge: Build a simple templating system for the provided markup
-  - Solution: Build a simple templating system for the provided markup
+  - [Organizing your code](#organizing-your-code)
+  - [Using include and require](#using-include-and-require)
+  - [include_once and require_once](#include_once-and-require_once)
+  - [Namespacing](#namespacing)
+  - [Challenge: Build a simple templating system for the provided markup](#challenge-build-a-simple-templating-system-for-the-provided-markup)
+  - [Solution: Build a simple templating system for the provided markup](#solution-build-a-simple-templating-system-for-the-provided-markup)
 - [**7. Troubleshooting Your Code**](#7-troubleshooting-your-code) (7 videos)
-  - Common debugging tools in PHP
-  - Types of PHP errors
-  - Why is my page blank?
-  - Common parse errors
-  - Common PHP errors
-  - Try/catch statements (update for PHP 8.0)
-  - Breaking changes moving from 7.x to 8.0
+  - [Common debugging tools in PHP](#common-debugging-tools-in-php)
+  - [Types of PHP errors](#types-of-php-errors)
+  - [Why is my page blank?](#why-is-my-page-blank)
+  - [Common parse errors](#common-parse-errors)
+  - [Common PHP errors](#common-php-errors)
+  - [Try/catch statements (update for PHP 8.0)](#trycatch-statements-update-for-php-80)
+  - [Breaking changes moving from 7.x to 8.0](#breaking-changes-moving-from-7x-to-80)
 - [**8. Processing Forms**](#8-processing-forms) (9 videos)
-  - GET vs. POST
-  - Handling basic form elements
-  - Handing multiple-choice elements
-  - Form validation: Making sure required fields are filled in
-  - Form validation: Appropriate input
-  - Form validation: Sanitizing input
-  - Sending the form data in an email
-  - Challenge: Process a simple form and send the email
-  - Solution: Process a simple form and send the email
+  - [GET vs. POST](#get-vs-post)
+  - [Handling basic form elements](#handling-basic-form-elements)
+  - [Handing multiple-choice elements](#handing-multiple-choice-elements)
+  - [Form validation: Making sure required fields are filled in](#form-validation-making-sure-required-fields-are-filled-in)
+  - [Form validation: Appropriate input](#form-validation-appropriate-input)
+  - [Form validation: Sanitizing input](#form-validation-sanitizing-input)
+  - [Sending the form data in an email](#sending-the-form-data-in-an-email)
+  - [Challenge: Process a simple form and send the email](#challenge-process-a-simple-form-and-send-the-email)
+  - [Solution: Process a simple form and send the email](#solution-process-a-simple-form-and-send-the-email)
 - [**9. Advanced Topics**](#9-advanced-topics) (4 videos)
-  - Reading files in PHP
-  - Writing files
-  - Maintaining state with cookies
-  - Maintaining state with sessions
+  - [Reading files in PHP](#reading-files-in-php)
+  - [Writing files](#writing-files)
+  - [Maintaining state with cookies](#maintaining-state-with-cookies)
+  - [Maintaining state with sessions](#maintaining-state-with-sessions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Should you learn PHP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980)
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (9), [[React.js|React]] (2), [[WordPress]] (2), [[JavaScript]] (1), [[Angular]] (1)
 > **CLI Commands:** php (9)
 > **Env Vars:** php (9)
 > **Speakers:** - [joe] (1)
@@ -206,6 +207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (8), web (3), [[MySQL]] (2), [[LinkedIn]] (1)
 > **Env Vars:** php (8), mamp (2), amp (2), wamp (1), ide (1)
 > **CLI Commands:** php (8), apache (2), mysql (2)
 > **Prerequisites:** install (3), set up (1)
@@ -217,7 +219,7 @@ created: 2026-04-29
 
 ### 1. The Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How PHP works
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980)
@@ -268,10 +270,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (16), [[HTML]] (9), data (3), [[Programming]] (1), [[Forms]] (1)
 > **Env Vars:** php (16), html (9), css (1)
 > **CLI Commands:** php (16)
 > **Definitions:** stands for (1), is a  (1), in other words (1)
-> **Code Keywords:** this, (1), let (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [joe] (1)
 
@@ -344,9 +346,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (16), [[HTML]] (5), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** php (16), make (1)
 > **Definitions:** is a  (5), known as (1), in other words (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
@@ -481,10 +483,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (10), data (4), [[Microsoft Word|Word]] (4), [[Programming]] (1)
 > **CLI Commands:** php (10), make (2)
 > **Env Vars:** php (10)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** case, (2), function (2)
 > **Versions:** 1.1 (1), 1.0 (1), 3.16 (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
@@ -632,8 +634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (9), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **CLI Commands:** php (9), make (1), find (1)
-> **Code Keywords:** let (6), this, (1), require (1)
 > **Env Vars:** php (7), html (1)
 > **URLs:** [php.net](https://php.net) (1)
 > **UI Navigation:** open the (1)
@@ -715,7 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), catch. (1), abstract (1)
+> **Frameworks & Libraries:** data (9), [[PHP]] (3), [[Representational State Transfer (REST)|Rest]] (1), database (1), [[Databases]] (1)
 > **Definitions:** is an  (3), known as (1), is called (1)
 > **CLI Commands:** php (3), make (1)
 > **Env Vars:** php (3)
@@ -881,7 +883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2), this. (2), require (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Microsoft Word|Word]] (2), [[HTML]] (1), [[Programming]] (1), data (1)
 > **CLI Commands:** php (5), make (3), find (1)
 > **Definitions:** is a  (4), means that (2), is an  (1)
 > **Env Vars:** php (4), html (1)
@@ -905,6 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -967,9 +970,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[PHP]] (2)
 > **Env Vars:** html (3), php (2)
 > **CLI Commands:** php (2), make (1)
-> **Code Keywords:** let (2)
 > **Warnings:** keep in mind (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -978,7 +981,7 @@ created: 2026-04-29
 
 ### 2. Control Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Boolean operators and the truth (update for PHP 8.0)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/boolean-operators-and-the-truth-update-for-php-8-0-11628174?u=76281980)
@@ -1124,8 +1127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** xor (10), php (3)
-> **Code Keywords:** let (4), function (1), finally, (1)
 > **CLI Commands:** php (3), make (2)
 > **Code Identifiers:** var_dump (2)
 > **Analogies:** for example (2)
@@ -1298,7 +1301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), if, (4), this, (2), if. (2), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[PHP]] (3), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (3), php (3)
 > **CLI Commands:** php (3), make (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
@@ -1427,7 +1430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (3), this, (2), super (1), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Code Identifiers:** is_logged_in (7)
 > **CLI Commands:** make (3), php (1)
 > **Definitions:** is a  (3)
@@ -1583,7 +1586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (17), let (6), case, (6), this, (4), break. (4)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1736,7 +1739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), static (2), continue (2), if, (1)
+> **Frameworks & Libraries:** [[PHP]] (2), game (1), next (1)
 > **CLI Commands:** make (4), php (2)
 > **Env Vars:** php (2)
 > **Definitions:** is a  (1), means that (1)
@@ -1748,7 +1751,7 @@ created: 2026-04-29
 
 ### 3. Math in PHP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Arithmetic operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/arithmetic-operators?u=76281980)
@@ -1819,9 +1822,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **Env Vars:** php (4), pemdas (3)
 > **CLI Commands:** php (4), make (1)
-> **Code Keywords:** let (4)
 > **Definitions:** stands for (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -1887,8 +1890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (1), this. (1), finally, (1)
 > **Env Vars:** css (3)
 > **CLI Commands:** find (1)
 > **Best Practices:** recommended (1)
@@ -2001,9 +2004,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), next (1)
 > **CLI Commands:** php (3), make (1)
 > **Definitions:** is a  (3), means that (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** php (3)
 > **Speakers:** - [instructor] (1)
 
@@ -2030,6 +2033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** make (1), php (1)
 > **Exercise Files:** starter file (1), exercise files (1)
 > **Env Vars:** php (1)
@@ -2097,8 +2101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[PHP]] (1)
 > **CLI Commands:** make (4), php (1)
-> **Code Keywords:** let (4)
 > **Env Vars:** pemdas (1), php (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -2109,7 +2113,7 @@ created: 2026-04-29
 
 ### 4. Loops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are loops?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-loops?u=76281980)
@@ -2144,8 +2148,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), application (1), [[PHP]] (1)
 > **CLI Commands:** make (1), php (1)
-> **Code Keywords:** this. (1), let (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
@@ -2219,7 +2223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), case, (1), this, (1)
+> **Frameworks & Libraries:** game (2), [[PHP]] (1)
 > **CLI Commands:** php (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2342,7 +2346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (3), for, (2), function (2), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (3), next (1), data (1), [[Databases]] (1)
 > **CLI Commands:** php (3), make (1)
 > **Env Vars:** php (3)
 > **Cross-References:** as you saw (1)
@@ -2412,8 +2416,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (1), [[Databases]] (1)
 > **CLI Commands:** php (1), find (1), make (1)
-> **Code Keywords:** let (2), case, (1)
 > **Code Identifiers:** home_towns (1)
 > **Env Vars:** php (1)
 > **Exercise Files:** exercise files (1)
@@ -2440,6 +2444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[PHP]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
@@ -2522,7 +2527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this, (1)
+> **Frameworks & Libraries:** next (4), [[PHP]] (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
@@ -2533,7 +2538,7 @@ created: 2026-04-29
 
 ### 5. Functions and Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are functions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980)
@@ -2628,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (28), case, (3), let (2), pass (2), return, (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** php (4)
 > **Env Vars:** php (4)
 > **Analogies:** imagine (1), just like (1)
@@ -2715,7 +2720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (3), pass (1), for. (1), this, (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Search]] (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (6), find (3)
 > **Env Vars:** php (5), ide (1), str (1)
 > **Definitions:** is an  (2), is a  (2)
@@ -2839,7 +2844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (3), pass (2), abstract (1), this, (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **Definitions:** is a  (10)
 > **CLI Commands:** php (4), make (2)
 > **Env Vars:** php (3)
@@ -2935,7 +2940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (7), pass (2), require (1), raise (1)
+> **Frameworks & Libraries:** [[PHP]] (8)
 > **CLI Commands:** php (8), make (1)
 > **Env Vars:** php (8)
 > **Definitions:** is a  (2)
@@ -3021,7 +3026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (3), pass (3), class. (2), new. (1), let (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** php (2)
 > **Definitions:** is a  (1)
@@ -3052,7 +3057,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), function (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -3109,7 +3113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), pass (1), this, (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -3118,7 +3122,7 @@ created: 2026-04-29
 
 ### 6. Including External Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980)
@@ -3177,9 +3181,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (6), [[HTML]] (3), css (1), [[JavaScript]] (1)
 > **Env Vars:** php (6), html (3), http (2), css (1)
 > **CLI Commands:** php (6)
-> **Code Keywords:** let (2), this, (1), require (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -3273,7 +3277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (9), function (4), throw (2), let (2), this, (2)
+> **Frameworks & Libraries:** [[PHP]] (11), [[HTML]] (4)
 > **Env Vars:** php (11), html (4), nav (3), inc (2), ink (2)
 > **CLI Commands:** php (11), make (1)
 > **Cross-References:** go back to (2)
@@ -3332,7 +3336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (7), let (2), include, (1), delete (1), var (1)
+> **Frameworks & Libraries:** [[PHP]] (6)
 > **CLI Commands:** php (6), make (1)
 > **File Paths:** functions.php (3), inc/functions.php (1), variables.php (1)
 > **Definitions:** is a  (2), means that (1)
@@ -3406,7 +3410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (4)
+> **Frameworks & Libraries:** [[PHP]] (8), [[WordPress]] (1), [[Laravel]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (8), make (2)
 > **Env Vars:** php (8)
 > **Code Identifiers:** learningphp (3)
@@ -3430,6 +3434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
 > **Exercise Files:** exercise files (1)
@@ -3563,10 +3568,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (13), [[HTML]] (5), next (2)
 > **Env Vars:** php (13), html (5)
 > **CLI Commands:** php (13), make (2)
 > **File Paths:** header.php (3), footer.php (2), index.php (1), a.php (1), about.php (1)
-> **Code Keywords:** let (3), require (3), this. (1), this, (1)
 > **Exercise Files:** template (2)
 > **URLs:** [casabona.org](https://casabona.org) (1)
 > **Cross-References:** go back to (1)
@@ -3575,7 +3580,7 @@ created: 2026-04-29
 
 ### 7. Troubleshooting Your Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common debugging tools in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980)
@@ -3670,9 +3675,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (8), [[Debugging]] (3), data (3), [[Troubleshooting]] (1), [[HTML]] (1)
 > **Env Vars:** php (8), ini (4), ide (1), html (1), e_all (1)
 > **CLI Commands:** php (8), find (1), make (1)
-> **Code Keywords:** function (3), let (1), case, (1), this. (1), type, (1)
 > **Code Identifiers:** var_dump (5), error_reporting (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** vs code (2)
@@ -3766,7 +3771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2), case, (1), this, (1), throw (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** php (5), make (1)
 > **Env Vars:** php (4)
@@ -3806,9 +3811,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[Security]] (1)
 > **Env Vars:** php (3), ini (2)
 > **CLI Commands:** php (3), make (1)
-> **Code Keywords:** function (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3889,7 +3894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), throw (1), continue (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[PHP]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **CLI Commands:** php (2), make (1)
 > **Warnings:** warning (2), keep in mind (1)
@@ -3969,10 +3974,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (1)
 > **CLI Commands:** php (9), make (1)
 > **Env Vars:** php (7), html (1)
 > **Definitions:** is a  (2), means that (1), known as (1)
-> **Code Keywords:** case, (1), function (1), let (1)
 > **File Paths:** index.php (2)
 > **Warnings:** warning (2)
 > **Speakers:** - [instructor] (1)
@@ -3986,7 +3991,7 @@ created: 2026-04-29
 
 ### 8. Processing Forms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GET vs. POST
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980)
@@ -4043,10 +4048,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Forms]] (3), [[PHP]] (2), [[HTML]] (1)
 > **Env Vars:** post (7), url (4), php (2), html (1)
 > **API Endpoints:** get  (4), post
  (3), post  (2)
-> **Code Keywords:** let (3), pass (2), finally, (1), var (1), this, (1)
 > **CLI Commands:** php (2), make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should never (1)
@@ -4133,7 +4138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (2), function (2), var (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** make (2), php (1)
 > **Definitions:** in other words (1), is a  (1)
 > **File Paths:** process.php (1)
@@ -4232,7 +4237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), throw (1), override (1), pass (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[WordPress]] (1), data (1), database (1)
 > **Env Vars:** php (6), vii (1)
 > **CLI Commands:** php (6)
 > **Cross-References:** go back to (2)
@@ -4378,8 +4383,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), data (4), [[HTML]] (2), [[JavaScript]] (2), next (1)
 > **CLI Commands:** make (10), php (5)
-> **Code Keywords:** let (8), function (1), this. (1), finally, (1)
 > **Code Identifiers:** form_complete (9)
 > **Env Vars:** php (4), html (2), post (2), html5 (1)
 > **Cross-References:** go back to (3)
@@ -4470,7 +4475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (3), function (2), type. (1), match, (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[Search]] (1), [[HTML]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
@@ -4619,7 +4624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5), from, (3), static (1), this, (1)
+> **Frameworks & Libraries:** [[PHP]] (7), data (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[WordPress]] (1)
 > **CLI Commands:** php (7), make (5), find (1)
 > **Env Vars:** php (7), post (3), html (2)
 > **API Endpoints:** post  (3)
@@ -4649,6 +4654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
@@ -4743,8 +4749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[PHP]] (3), [[HTML]] (1)
 > **CLI Commands:** make (4), php (3), find (1)
-> **Code Keywords:** let (1), function (1)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -4754,7 +4760,7 @@ created: 2026-04-29
 
 ### 9. Advanced Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading files in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980)
@@ -4835,7 +4841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), this, (1), this. (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), data (2), web (2), [[Search]] (2), [[PHP]] (1)
 > **Code Identifiers:** var_dump (3), file_get_contents (2)
 > **File Paths:** treasure-island.txt (2)
 > **CLI Commands:** php (1), make (1)
@@ -4995,7 +5001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), this. (2), case, (1), this, (1)
+> **Frameworks & Libraries:** data (4), [[PHP]] (4), database (1), [[Programming]] (1), [[Search]] (1)
 > **CLI Commands:** make (6), php (4)
 > **Env Vars:** file (3), append (3), php (2)
 > **File Paths:** mailing.php (2), copy.txt (1), mailing-list.txt (1), sub-list.txt (1)
@@ -5077,7 +5083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), default, (1), super (1), private (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **CLI Commands:** php (4)
 > **Env Vars:** php (4)
 > **Warnings:** warning (1)
@@ -5154,7 +5160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), super (2), function (1), this, (1)
+> **Frameworks & Libraries:** data (4), [[PHP]] (2), [[HTML]] (1), database (1)
 > **CLI Commands:** php (2), make (1)
 > **File Paths:** mailing.php (1)
 > **Env Vars:** html (1)
@@ -5166,7 +5172,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980)
@@ -5191,9 +5197,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (7), cms (1), [[WordPress]] (1), next (1)
 > **CLI Commands:** php (7), find (1)
 > **Env Vars:** php (6), cms (1)
-> **Code Keywords:** continue (2), finally, (1)
 > **URLs:** [php.net](https://php.net) (1)
 > **Speakers:** - [joe] (1)
 

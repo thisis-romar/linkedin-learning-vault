@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/linear-regression
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20%26%20AI%20Foundations-%20Linear%20Regression.md)
@@ -52,69 +52,69 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Linear regression for machine learning
-  - What you should know
-  - Using the exercise files
+  - [Linear regression for machine learning](#linear-regression-for-machine-learning)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Simple Linear Regression**](#1-simple-linear-regression) (6 videos)
-  - Building effective scatter plots in Chart Builder
-  - Adding labels and spikes to a scatter plot
-  - Create a 3D scatter plot
-  - Create a bubble chart
-  - Residuals and R2
-  - Calculating and interpreting regression coefficients
+  - [Building effective scatter plots in Chart Builder](#building-effective-scatter-plots-in-chart-builder)
+  - [Adding labels and spikes to a scatter plot](#adding-labels-and-spikes-to-a-scatter-plot)
+  - [Create a 3D scatter plot](#create-a-3d-scatter-plot)
+  - [Create a bubble chart](#create-a-bubble-chart)
+  - [Residuals and R2](#residuals-and-r2)
+  - [Calculating and interpreting regression coefficients](#calculating-and-interpreting-regression-coefficients)
 - [**2. Introduction to Multiple Linear Regression**](#2-introduction-to-multiple-linear-regression) (8 videos)
-  - Challenges and assumptions of multiple regression
-  - Checking assumptions visually
-  - Checking assumptions with Explore
-  - Checking assumptions: Durbin-Watson
-  - Checking assumptions: Levine's test
-  - Checking assumptions: Correlation matrix
-  - Checking assumptions: Residuals plot
-  - Checking assumptions: Summary
+  - [Challenges and assumptions of multiple regression](#challenges-and-assumptions-of-multiple-regression)
+  - [Checking assumptions visually](#checking-assumptions-visually)
+  - [Checking assumptions with Explore](#checking-assumptions-with-explore)
+  - [Checking assumptions: Durbin-Watson](#checking-assumptions-durbin-watson)
+  - [Checking assumptions: Levine's test](#checking-assumptions-levines-test)
+  - [Checking assumptions: Correlation matrix](#checking-assumptions-correlation-matrix)
+  - [Checking assumptions: Residuals plot](#checking-assumptions-residuals-plot)
+  - [Checking assumptions: Summary](#checking-assumptions-summary)
 - [**3. Dummy Code and Interaction Terms**](#3-dummy-code-and-interaction-terms) (4 videos)
-  - Creating dummy codes
-  - Dummy coding with the R extension
-  - Detecting variable interactions
-  - Creating and testing interaction terms
+  - [Creating dummy codes](#creating-dummy-codes)
+  - [Dummy coding with the R extension](#dummy-coding-with-the-r-extension)
+  - [Detecting variable interactions](#detecting-variable-interactions)
+  - [Creating and testing interaction terms](#creating-and-testing-interaction-terms)
 - [**4. Three Regression Strategies**](#4-three-regression-strategies) (11 videos)
-  - Three regression strategies and when to use them
-  - Understanding partial correlations
-  - Understanding part correlations
-  - Visualizing part and partial correlations
-  - Simultaneous regression: Setting up the analysis
-  - Simultaneous regression: Interpreting the output
-  - Hierarchical regression: Setting up the analysis
-  - Hierarchical regression: Interpreting the output
-  - Creating a train-test partition in SPSS
-  - Stepwise regression: Setting up the analysis
-  - Stepwise regression: Interpreting the output
+  - [Three regression strategies and when to use them](#three-regression-strategies-and-when-to-use-them)
+  - [Understanding partial correlations](#understanding-partial-correlations)
+  - [Understanding part correlations](#understanding-part-correlations)
+  - [Visualizing part and partial correlations](#visualizing-part-and-partial-correlations)
+  - [Simultaneous regression: Setting up the analysis](#simultaneous-regression-setting-up-the-analysis)
+  - [Simultaneous regression: Interpreting the output](#simultaneous-regression-interpreting-the-output)
+  - [Hierarchical regression: Setting up the analysis](#hierarchical-regression-setting-up-the-analysis)
+  - [Hierarchical regression: Interpreting the output](#hierarchical-regression-interpreting-the-output)
+  - [Creating a train-test partition in SPSS](#creating-a-train-test-partition-in-spss)
+  - [Stepwise regression: Setting up the analysis](#stepwise-regression-setting-up-the-analysis)
+  - [Stepwise regression: Interpreting the output](#stepwise-regression-interpreting-the-output)
 - [**5. Spotting Problems and Taking Corrective Action**](#5-spotting-problems-and-taking-corrective-action) (7 videos)
-  - Collinearity diagnostics
-  - Dealing with multicollinearity: Factor analysis/PCA
-  - Dealing with multicollinearity: Manually combine IVs
-  - Diagnosing outliers and influential points
-  - Dealing with outliers: Studentized deleted residuals
-  - Dealing with outliers: Should cases be removed?
-  - Detecting curvilinearity
+  - [Collinearity diagnostics](#collinearity-diagnostics)
+  - [Dealing with multicollinearity: Factor analysis/PCA](#dealing-with-multicollinearity-factor-analysispca)
+  - [Dealing with multicollinearity: Manually combine IVs](#dealing-with-multicollinearity-manually-combine-ivs)
+  - [Diagnosing outliers and influential points](#diagnosing-outliers-and-influential-points)
+  - [Dealing with outliers: Studentized deleted residuals](#dealing-with-outliers-studentized-deleted-residuals)
+  - [Dealing with outliers: Should cases be removed?](#dealing-with-outliers-should-cases-be-removed)
+  - [Detecting curvilinearity](#detecting-curvilinearity)
 - [**6. Other Approaches to Regression**](#6-other-approaches-to-regression) (8 videos)
-  - Regression options
-  - Automatic linear modeling
-  - Regression trees
-  - Time series forecasting
-  - Categorical regression with optimal scaling
-  - Comparing regression to Neural Nets
-  - Logistic regression
-  - SEM
+  - [Regression options](#regression-options)
+  - [Automatic linear modeling](#automatic-linear-modeling)
+  - [Regression trees](#regression-trees)
+  - [Time series forecasting](#time-series-forecasting)
+  - [Categorical regression with optimal scaling](#categorical-regression-with-optimal-scaling)
+  - [Comparing regression to Neural Nets](#comparing-regression-to-neural-nets)
+  - [Logistic regression](#logistic-regression)
+  - [SEM](#sem)
 - [**7. Advanced Alternatives Using the Extension Hub**](#7-advanced-alternatives-using-the-extension-hub) (3 videos)
-  - What is the extension hub?
-  - Ridge regression
-  - Lasso and elastic net
+  - [What is the extension hub?](#what-is-the-extension-hub)
+  - [Ridge regression](#ridge-regression)
+  - [Lasso and elastic net](#lasso-and-elastic-net)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear regression for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/linear-regression-for-machine-learning?u=76281980)
@@ -137,7 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[SaaS]] (1)
 > **Env Vars:** spss (1)
 > **Speakers:** - [keith] (1)
 
@@ -188,9 +188,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (4), data (2), [[IBM SPSS]] (1), next (1)
 > **Env Vars:** spss (3), ibm (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** class, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using the exercise files
@@ -218,8 +218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Statistics]] (2), [[Linear Regression]] (1), [[IBM SPSS]] (1)
 > **Env Vars:** spss (4), pdf (3), ibm (1), sas (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -227,7 +227,7 @@ created: 2026-04-29
 
 ### 1. Simple Linear Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building effective scatter plots in Chart Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980)
@@ -376,7 +376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (7), next (2), [[Linear Regression]] (1), [[IBM SPSS]] (1), [[Statistics]] (1)
 > **Env Vars:** spss (3), mpg (2), ibm (2), usa (2), uci (1)
 > **UI Navigation:** double-click (4), go to (3), click on (1)
 > **CLI Commands:** make (2), find (1)
@@ -412,7 +412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), switch (1)
+> **Frameworks & Libraries:** data (10), [[Linear Regression]] (2), feature (1)
 > **UI Navigation:** click on (2), switch to (1), go to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -489,7 +489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (1), type, (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (3)
 > **Speakers:** - [instructor] (1)
@@ -575,7 +575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1), try. (1)
+> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** click on (3), scroll down (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** spss (3)
@@ -646,8 +646,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Linear Regression]] (1), [[Statistics]] (1)
 > **Analogies:** picture (3), think of it as (1), imagine (1)
-> **Code Keywords:** let (2), this. (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -802,7 +802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1), this. (1)
+> **Frameworks & Libraries:** data (2), [[Statistics]] (2), [[Linear Regression]] (1)
 > **UI Navigation:** right-click (2), double-click (1), click on (1), scroll down (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** spss (3)
@@ -814,7 +814,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Multiple Linear Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges and assumptions of multiple regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/challenges-and-assumptions-of-multiple-regression?u=76281980)
@@ -951,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (4), type, (1)
+> **Frameworks & Libraries:** data (6), [[Linear Regression]] (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** spss (2)
@@ -1151,7 +1151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (1), pass (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (16)
 > **UI Navigation:** click on (1), go to (1), scroll up (1), scroll down (1)
 > **Analogies:** imagine (2), for instance (1)
 > **Env Vars:** spss (2)
@@ -1355,7 +1355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (4), throw (2), case. (1)
+> **Frameworks & Libraries:** data (12), [[Statistics]] (2), next (2), hit (2), web (1)
 > **Definitions:** is a  (4), means that (2)
 > **Versions:** 0.0 (2), 70.5 (1), 3.9 (1), 2.6 (1)
 > **CLI Commands:** find (3)
@@ -1415,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), this. (1), pass (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1), data (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** spss (2)
 > **Definitions:** is a  (2)
@@ -1480,9 +1480,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (1), data (1), next (1)
 > **Definitions:** means that (2), is a  (1), is an  (1), stands for (1)
 > **UI Navigation:** go to (2), click on (2)
-> **Code Keywords:** let (2), continue (1)
 > **Env Vars:** spss (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -1578,7 +1578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2)
 > **Analogies:** similar to (1), for instance (1)
 > **Tools:** notion (1)
 > **UI Navigation:** click on (1)
@@ -1728,7 +1728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), for. (2), this. (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (4), means that (2), in other words (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** zresid (1), zpred (1)
@@ -1816,7 +1816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), finally, (1)
+> **Frameworks & Libraries:** data (3), [[Linear Regression]] (2), [[Forecasting]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** caution (1), warning (1)
 > **Env Vars:** sps (1)
@@ -1826,7 +1826,7 @@ created: 2026-04-29
 
 ### 3. Dummy Code and Interaction Terms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating dummy codes
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980)
@@ -1993,7 +1993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (5), continue (1), case, (1), case. (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Office|Office]] (2), [[Security]] (2), next (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Env Vars:** spss (5), mba (2), cio (1)
 > **UI Navigation:** go to (1), click on (1), in the menu (1)
@@ -2053,10 +2053,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** spss (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -2166,7 +2166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), checkbox (1)
 > **Env Vars:** spss (2)
@@ -2273,7 +2273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (4), product (1), parallel (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Cross-References:** go back to (2)
@@ -2285,7 +2285,7 @@ created: 2026-04-29
 
 ### 4. Three Regression Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three regression strategies and when to use them
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/three-regression-strategies-and-when-to-use-them?u=76281980)
@@ -2340,7 +2340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (2), next (1), [[Predictive Analytics]] (1)
 > **Env Vars:** pdf (1), spss (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
@@ -2418,7 +2418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** spss (2), ibm (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** find (1)
@@ -2495,7 +2495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1)
+> **Frameworks & Libraries:** next (1), [[Statistics]] (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -2593,7 +2593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** iv2 (1)
 > **Analogies:** think of it as (1)
@@ -2666,7 +2666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** next (2), data (2), [[Statistics]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** zresid (1), zpred (1)
 > **Cross-References:** in the next (1)
@@ -2793,7 +2793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), this, (1), default, (1), continue (1)
+> **Frameworks & Libraries:** data (5), [[Statistics]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** scroll down (4)
 > **Env Vars:** anova (2), spss (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -2911,8 +2911,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (3), [[Statistics]] (1)
 > **UI Navigation:** click on (5), go to (3)
-> **Code Keywords:** continue (2), let (1), this. (1), case. (1)
 > **Code Identifiers:** ed_sex (2), clerical_yn (1), ot_yn (1), educ_cen (1)
 > **Definitions:** is called (1), means that (1), in other words (1), is an  (1)
 > **CLI Commands:** make (2)
@@ -3058,8 +3058,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** cat (2), make (1), find (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** anova (1)
 > **Versions:** 1.9 (1)
 > **UI Navigation:** scroll down (1)
@@ -3171,7 +3171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), function (2), let (1), new, (1), this, (1)
+> **Frameworks & Libraries:** data (15), [[Statistics]] (3), [[Predictive Analytics]] (2), [[Neural Networks]] (1), database (1)
 > **UI Navigation:** scroll down (2), go to (2), click on (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** spss (1)
@@ -3245,7 +3245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (4), next (3), web (1), [[Predictive Analytics]] (1)
 > **Cross-References:** in the next (3)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1)
@@ -3334,7 +3334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), else. (1)
+> **Frameworks & Libraries:** data (6)
 > **Env Vars:** spss (2), anova (1)
 > **Tools:** notion (1)
 > **UI Navigation:** go to (1)
@@ -3343,7 +3343,7 @@ created: 2026-04-29
 
 ### 5. Spotting Problems and Taking Corrective Action
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collinearity diagnostics
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/collinearity-diagnostics?u=76281980)
@@ -3478,7 +3478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** data (1), [[Statistics]] (1), web (1)
 > **Env Vars:** vif (4), spss (1)
 > **UI Navigation:** go to (2), click on (2), open the (1)
 > **Definitions:** means that (2), stands for (1), is a  (1)
@@ -3586,7 +3586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), try. (1), default. (1), continue (1)
+> **Frameworks & Libraries:** data (1), strengths (1), management (1)
 > **UI Navigation:** click on (5), go to (4)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -3666,7 +3666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** retail_restaurants (1)
@@ -3821,7 +3821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (2), case, (2), case. (2), this, (1)
+> **Frameworks & Libraries:** next (3), [[Statistics]] (2), data (1)
 > **Env Vars:** spss (2), coo_1 (1), dff (1)
 > **UI Navigation:** click on (2), go to (1), right-click (1)
 > **Definitions:** is an  (1), stands for (1), is a  (1), means that (1)
@@ -3943,7 +3943,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), case, (2), from. (1), class, (1)
+> **Frameworks & Libraries:** data (3), web (1), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1), power (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -4079,7 +4079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (5), this. (3), this, (3), case, (2)
+> **Frameworks & Libraries:** data (4), next (2), [[Banking]] (1)
 > **Analogies:** imagine (1), for instance (1), just like (1)
 > **UI Navigation:** click on (1), right-click (1)
 > **CLI Commands:** find (1)
@@ -4205,7 +4205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2)
+> **Frameworks & Libraries:** data (4), [[Linear Regression]] (1), [[Forecasting]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
@@ -4217,7 +4217,7 @@ created: 2026-04-29
 
 ### 6. Other Approaches to Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Regression options
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980)
@@ -4316,8 +4316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Logistic Regression]] (3), data (2), [[Neural Networks]] (2), [[Deep Learning]] (2)
 > **Env Vars:** spss (7), cart (3), sas (1)
-> **Code Keywords:** module (3), let (1), this, (1), finally, (1), case. (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -4424,7 +4424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (2), interface (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (14), [[Statistics]] (1), business (1), [[Decision Trees]] (1), application (1)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** spss (4), phd (1)
 > **UI Navigation:** click on (2), scroll down (1), go to (1), double-click (1)
@@ -4574,8 +4574,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), node (5), [[Decision Trees]] (2), application (1)
 > **CLI Commands:** make (8), node (5)
-> **Code Keywords:** let (5), super (2), this, (2), module (1), continue (1)
 > **Versions:** 8600.00 (1), node 22 (1), node 21 (1), node 20 (1)
 > **Env Vars:** spss (1), chaid (1), crt (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -4676,7 +4676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (3), this. (1)
+> **Frameworks & Libraries:** data (12), [[Forecasting]] (9), [[Time Series Analysis]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** spss (2)
@@ -4798,7 +4798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), continue (2), module (1), this. (1)
+> **Frameworks & Libraries:** data (7), product (2), [[Logistic Regression]] (1), [[Statistics]] (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** spss (2), catreg (2)
@@ -4839,7 +4839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (8), data (3), next (1)
 > **UI Navigation:** scroll down (2), click on (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** spss (1)
@@ -4930,6 +4930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Logistic Regression]] (8), application (2), [[Probability]] (1), hit (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4), in other words (1)
 > **Env Vars:** spss (1), b1x1 (1), b2x2 (1)
 > **CLI Commands:** make (1)
@@ -5009,7 +5010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), this. (1), interface (1), case, (1)
+> **Frameworks & Libraries:** product (6), [[Statistics]] (2), web (1), [[Microsoft Products|Products]] (1), [[IBM SPSS]] (1)
 > **Env Vars:** spss (4), sem (3), ibm (1)
 > **Definitions:** is a  (4), basically means (1)
 > **CLI Commands:** find (1)
@@ -5019,7 +5020,7 @@ created: 2026-04-29
 
 ### 7. Advanced Alternatives Using the Extension Hub
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the extension hub?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-is-the-extension-hub?u=76281980)
@@ -5076,7 +5077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (1), delete (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
 > **Env Vars:** spss (2), ols (2), lrr (1)
 > **CLI Commands:** find (2), python (2)
@@ -5176,7 +5177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), default, (1)
+> **Frameworks & Libraries:** next (2), [[Search]] (2), data (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** ols (2), spss (2)
 > **Analogies:** just like (2), for instance (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -5274,7 +5275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), default. (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (6), data (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (3), make (1), python (1)
 > **Env Vars:** spss (2), ols (1)
 > **Versions:** 0.1 (2), 0.9 (1)
@@ -5286,7 +5287,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980)
@@ -5323,9 +5324,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive Analytics]] (3), data (2), ai (2), [[Causal Inference]] (2), next (1)
 > **Env Vars:** spss (5)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 

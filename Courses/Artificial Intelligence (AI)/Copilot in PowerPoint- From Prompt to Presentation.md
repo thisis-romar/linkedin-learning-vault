@@ -25,7 +25,7 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20PowerPoint-%20From%20Prompt%20to%20Presentation.md)
@@ -44,34 +44,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Copilot in PowerPoint
+  - [Copilot in PowerPoint](#copilot-in-powerpoint)
 - [**1. Create a New Presentation with Copilot**](#1-create-a-new-presentation-with-copilot) (4 videos)
-  - Create a new presentation starting from a blank file
-  - Create a new presentation starting from a template
-  - Create a new presentation starting from an existing presentation
-  - Create a new presentation from a file
+  - [Create a new presentation starting from a blank file](#create-a-new-presentation-starting-from-a-blank-file)
+  - [Create a new presentation starting from a template](#create-a-new-presentation-starting-from-a-template)
+  - [Create a new presentation starting from an existing presentation](#create-a-new-presentation-starting-from-an-existing-presentation)
+  - [Create a new presentation from a file](#create-a-new-presentation-from-a-file)
 - [**2. Adding New Slides with Copilot**](#2-adding-new-slides-with-copilot) (2 videos)
-  - Add a slide about a specific subject
-  - Add a topic
+  - [Add a slide about a specific subject](#add-a-slide-about-a-specific-subject)
+  - [Add a topic](#add-a-topic)
 - [**3. Refining a Presentation with Copilot**](#3-refining-a-presentation-with-copilot) (3 videos)
-  - Rewrite slide text
-  - Generate a new image
-  - Edit pictures
+  - [Rewrite slide text](#rewrite-slide-text)
+  - [Generate a new image](#generate-a-new-image)
+  - [Edit pictures](#edit-pictures)
 - [**4. Understanding a Presentation with Copilot Chat**](#4-understanding-a-presentation-with-copilot-chat) (3 videos)
-  - Summarize a presentation
-  - Translate a presentation
-  - Retrieve information from a presentation
+  - [Summarize a presentation](#summarize-a-presentation)
+  - [Translate a presentation](#translate-a-presentation)
+  - [Retrieve information from a presentation](#retrieve-information-from-a-presentation)
 - [**5. Asking Copilot for Help**](#5-asking-copilot-for-help) (1 videos)
-  - Ways that Copilot can help
+  - [Ways that Copilot can help](#ways-that-copilot-can-help)
 - [**6. New AI Features on the Horizon**](#6-new-ai-features-on-the-horizon) (2 videos)
-  - Agent mode in Copilot Chat
-  - Create a new presentation with creative mode sneak peek
+  - [Agent mode in Copilot Chat](#agent-mode-in-copilot-chat)
+  - [Create a new presentation with creative mode sneak peek](#create-a-new-presentation-with-creative-mode-sneak-peek)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Copilot in PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980)
@@ -98,15 +98,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft PowerPoint|Powerpoint]] (1), ai (1), prompt (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** mvp (1)
 > **Definitions:** is a  (1)
 
 
 ### 1. Create a New Presentation with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new presentation starting from a blank file
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980)
@@ -247,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), new. (1), delete (1), while, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (20), ai (8), prompt (6), next (6), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -381,8 +381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (24), [[Microsoft]] (3), hit (3), [[Microsoft PowerPoint|Powerpoint]] (2), prompt (2)
 > **Exercise Files:** template (9)
-> **Code Keywords:** let (3), new, (1), case, (1)
 > **UI Navigation:** select the (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -468,8 +468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft PowerPoint|Powerpoint]] (1), prompt (1)
 > **Exercise Files:** template (8)
-> **Code Keywords:** let (3)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -545,6 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (2), [[Microsoft Word|Word]] (2), [[Microsoft]] (2), [[Microsoft Excel|Excel]] (1)
 > **Exercise Files:** template (5)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Best Practices:** don't forget (1)
@@ -553,7 +554,7 @@ created: 2026-04-29
 
 ### 2. Adding New Slides with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add a slide about a specific subject
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-slide-about-a-specific-subject?u=76281980)
@@ -590,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), prompt (4)
 > **UI Navigation:** scroll down (1)
 
 #### Add a topic
@@ -632,8 +633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), prompt (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** just like (1)
@@ -641,7 +642,7 @@ created: 2026-04-29
 
 ### 3. Refining a Presentation with Copilot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rewrite slide text
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980)
@@ -768,8 +769,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), prompt (9), feature (2), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (3), case, (1)
 > **UI Navigation:** select the (2), open the (1)
 > **Analogies:** for instance (3)
 > **Warnings:** note that (2)
@@ -844,8 +845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), prompt (4), ai (2)
 > **Analogies:** picture (6)
-> **Code Keywords:** let (2), delete (2), this. (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 
@@ -984,6 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Microsoft Copilot|Copilot]] (2), feature (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** picture (9), just like (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
@@ -992,7 +994,7 @@ created: 2026-04-29
 
 ### 4. Understanding a Presentation with Copilot Chat
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980)
@@ -1033,6 +1035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), data (1), leadership (1), next (1), [[Microsoft]] (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 
@@ -1063,6 +1066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Banking]] (1)
 > **UI Navigation:** select the (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1111,10 +1115,14 @@ created: 2026-04-29
 >
 > **[1:48](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=108)** So try out Copilot Chat next time you receive a comprehensive presentation and experiment with prompting Copilot to retrieve exactly the information you need to know or act upon.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Banking]] (3), prompt (2), web (1), [[Microsoft]] (1)
+
 
 ### 5. Asking Copilot for Help
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ways that Copilot can help
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980)
@@ -1161,14 +1169,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[Microsoft PowerPoint|Powerpoint]] (5), prompt (2), data (1), [[SharePoint]] (1)
 > **UI Navigation:** switch to (2), select the (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** switch (2)
 
 
 ### 6. New AI Features on the Horizon
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agent mode in Copilot Chat
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/agent-mode-in-copilot-chat?u=76281980)
@@ -1251,7 +1259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), prompt (6), [[Microsoft PowerPoint|Powerpoint]] (2), [[Windows]] (1), web (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** switch to (1), select the (1)
 > **Best Practices:** remember to (1)
@@ -1327,14 +1335,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default, (1), delete (1), try. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), prompt (8), feature (2), next (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/next-steps?u=76281980)
@@ -1357,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft PowerPoint|Powerpoint]] (2), next (2), ai (1), prompt (1)
 
 
 ## Instructor

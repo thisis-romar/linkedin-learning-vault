@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Foundations%20and%20Proactive%20Security%20for%20AI.md)
@@ -52,36 +52,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Securing AI products
-  - Why does AI security matter?
+  - [Securing AI products](#securing-ai-products)
+  - [Why does AI security matter?](#why-does-ai-security-matter)
 - [**1. Fundamentals of AI Security**](#1-fundamentals-of-ai-security) (4 videos)
-  - Essentials of AI security
-  - Common threats and vulnerabilities in AI systems
-  - Ethical concerns, privacy, fairness, and user rights
-  - Security across the AI life cycle
+  - [Essentials of AI security](#essentials-of-ai-security)
+  - [Common threats and vulnerabilities in AI systems](#common-threats-and-vulnerabilities-in-ai-systems)
+  - [Ethical concerns, privacy, fairness, and user rights](#ethical-concerns-privacy-fairness-and-user-rights)
+  - [Security across the AI life cycle](#security-across-the-ai-life-cycle)
 - [**2. Building Resilient AI: Securing AI Models, Data, and Deployment**](#2-building-resilient-ai-securing-ai-models-data-and-deployment) (9 videos)
-  - Overview of adversarial AI attacks
-  - Attacks on AI algorithms with real-world examples
-  - Attacks on filters
-  - Subversion of AI artifacts in supply chain attacks
-  - Defending against adversarial attacks
-  - Data security in AI systems
-  - Model security: Protecting AI models
-  - Securing AI deployment pipelines
-  - Secure deployment strategies for AI systems
+  - [Overview of adversarial AI attacks](#overview-of-adversarial-ai-attacks)
+  - [Attacks on AI algorithms with real-world examples](#attacks-on-ai-algorithms-with-real-world-examples)
+  - [Attacks on filters](#attacks-on-filters)
+  - [Subversion of AI artifacts in supply chain attacks](#subversion-of-ai-artifacts-in-supply-chain-attacks)
+  - [Defending against adversarial attacks](#defending-against-adversarial-attacks)
+  - [Data security in AI systems](#data-security-in-ai-systems)
+  - [Model security: Protecting AI models](#model-security-protecting-ai-models)
+  - [Securing AI deployment pipelines](#securing-ai-deployment-pipelines)
+  - [Secure deployment strategies for AI systems](#secure-deployment-strategies-for-ai-systems)
 - [**3. AI Security Governance, Risk Management, and Compliance**](#3-ai-security-governance-risk-management-and-compliance) (3 videos)
-  - Governance in AI product security
-  - AI risk management
-  - AI audit and compliance
+  - [Governance in AI product security](#governance-in-ai-product-security)
+  - [AI risk management](#ai-risk-management)
+  - [AI audit and compliance](#ai-audit-and-compliance)
 - [**4. System Design Principles**](#4-system-design-principles) (2 videos)
-  - Foundational principles of AI system design
-  - Advanced principles of AI system design
+  - [Foundational principles of AI system design](#foundational-principles-of-ai-system-design)
+  - [Advanced principles of AI system design](#advanced-principles-of-ai-system-design)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/securing-ai-products?u=76281980)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (6), [[Security]] (4), data (1), [[LinkedIn]] (1)
 > **Speakers:** - in (1)
 
 #### Why does AI security matter?
@@ -164,14 +164,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (21), [[Security]] (9), data (3), [[Authentication Systems]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [reet] (1)
 
 
 ### 1. Fundamentals of AI Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Essentials of AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/essentials-of-ai-security?u=76281980)
@@ -270,8 +270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (33), data (17), [[Security]] (11), product (9), [[Decision-Making]] (3)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** let (3), require (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** in the next (1)
@@ -349,7 +349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), include, (1), case, (1), else. (1), finally, (1)
+> **Frameworks & Libraries:** ai (27), [[Security]] (7), data (7), business (3), [[Cybersecurity]] (3)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
@@ -416,7 +416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), extends (1)
+> **Frameworks & Libraries:** ai (10), data (9), [[Privacy]] (5), [[Security]] (2), application (1)
 > **Analogies:** imagine (1), such as (1), for instance (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1)
@@ -502,9 +502,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (22), data (16), [[Security]] (10), business (4), next (2)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (1), this, (1), module (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -512,7 +512,7 @@ created: 2026-04-29
 
 ### 2. Building Resilient AI: Securing AI Models, Data, and Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of adversarial AI attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/overview-of-adversarial-ai-attacks?u=76281980)
@@ -563,7 +563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (1)
+> **Frameworks & Libraries:** ai (17), [[Security]] (4), business (2), [[Algorithms]] (2), data (2)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -658,10 +658,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (12), [[Algorithms]] (4), business (3), next (3)
 > **Analogies:** for example (2), for instance (2), imagine (1), such as (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we covered (1), previous video (1), in the next (1)
-> **Code Keywords:** let (1), self (1)
 > **Speakers:** - [instructor] (1)
 
 #### Attacks on filters
@@ -723,9 +723,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (4), prompt (2), [[Generative AI]] (2), chatbot (2)
 > **Cross-References:** previous video (1), we discussed (1), in the next (1)
 > **Analogies:** such as (1), for instance (1), for example (1)
-> **Code Keywords:** let (1), continue (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -808,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** ai (23), data (10), [[Security]] (3), [[Microsoft Products|Products]] (3), product (2)
 > **Cross-References:** previous video (1), we discussed (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -901,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), finally, (1), require (1)
+> **Frameworks & Libraries:** data (16), ai (15), [[Security]] (9), next (2), business (1)
 > **Analogies:** imagine (1), such as (1), for instance (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** splxai (2)
@@ -973,6 +973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), ai (17), [[Security]] (6), [[Privacy]] (3), [[Privacy Protection]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **Speakers:** - [instructor] (1)
@@ -1070,8 +1071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), data (10), [[Security]] (10), business (4), [[Continuous Monitoring]] (3)
 > **Analogies:** such as (3), just like (1)
-> **Code Keywords:** let (1), require (1), this, (1)
 > **Cross-References:** earlier in (1), we covered (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -1132,7 +1133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), continue (1)
+> **Frameworks & Libraries:** ai (12), [[Security]] (6), application (3), cloud (3), data (1)
 > **Exercise Files:** source code (3)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Analogies:** similar to (1), just like (1)
@@ -1221,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1), function (1)
+> **Frameworks & Libraries:** [[Security]] (16), ai (15), data (7), [[Incident Response]] (3), next (2)
 > **Analogies:** such as (3)
 > **Env Vars:** gdpr (1), hipaa (1)
 > **Speakers:** - [instructor] (1)
@@ -1229,7 +1230,7 @@ created: 2026-04-29
 
 ### 3. AI Security Governance, Risk Management, and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Governance in AI product security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/governance-in-ai-product-security?u=76281980)
@@ -1292,8 +1293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), [[Security]] (8), data (6), [[Accountability]] (3), [[Ethics]] (2)
 > **Cross-References:** we covered (1), earlier in (1), in the next (1)
-> **Code Keywords:** let (1), require (1)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -1410,8 +1411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (36), data (7), management (6), next (4), [[Security]] (4)
 > **Env Vars:** nist (2), mitre (2), gdpr (1), iso (1), saif (1)
-> **Code Keywords:** require (2), finally, (2), let (1), public (1)
 > **Analogies:** such as (3)
 > **Definitions:** stands for (2)
 > **Cross-References:** we discussed (1)
@@ -1502,15 +1503,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (27), data (8), [[Security]] (4), management (2), [[Privacy]] (2)
 > **Env Vars:** gdpr (2), ccpa (2), sec (1), iso (1), nist (1)
-> **Code Keywords:** let (1), continue (1), function (1), require (1), public (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. System Design Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundational principles of AI system design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/foundational-principles-of-ai-system-design?u=76281980)
@@ -1557,7 +1558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (13), ai (10), [[Privacy]] (7), [[Security]] (2), next (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Env Vars:** mfa (1)
 > **Analogies:** such as (1)
@@ -1634,7 +1635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (24), [[Security]] (11), data (6), [[DevSecOps]] (5), [[Automation]] (5)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1642,7 +1643,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/next-steps?u=76281980)
@@ -1673,7 +1674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** ai (10), [[Security]] (4), management (1), [[Privacy]] (1), [[NIST]] (1)
 > **Env Vars:** iso (1), nist (1)
 > **Speakers:** - congratulations (1)
 

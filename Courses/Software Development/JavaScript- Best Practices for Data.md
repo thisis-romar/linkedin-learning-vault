@@ -30,7 +30,7 @@ tags:
   - skill/data-management
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Best%20Practices%20for%20Data.md)
@@ -49,50 +49,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Working effectively with JavaScript data
-  - What you should know
-  - Setting up your environment
+  - [Working effectively with JavaScript data](#working-effectively-with-javascript-data)
+  - [What you should know](#what-you-should-know)
+  - [Setting up your environment](#setting-up-your-environment)
 - [**1. Why Best Practices?**](#1-why-best-practices) (4 videos)
-  - Understanding style guides
-  - Using modern deployment tools
-  - Understanding ESLint
-  - Foundational practice: Always use strict mode
+  - [Understanding style guides](#understanding-style-guides)
+  - [Using modern deployment tools](#using-modern-deployment-tools)
+  - [Understanding ESLint](#understanding-eslint)
+  - [Foundational practice: Always use strict mode](#foundational-practice-always-use-strict-mode)
 - [**2. Declaring Variables**](#2-declaring-variables) (7 videos)
-  - Prefer const, then let
-  - Use individual statements to create variables
-  - Create descriptive variable names
-  - Standardize acronym case
-  - Remove unused variables
-  - Challenge: Declare variables
-  - Solution: Declare variables
+  - [Prefer const, then let](#prefer-const-then-let)
+  - [Use individual statements to create variables](#use-individual-statements-to-create-variables)
+  - [Create descriptive variable names](#create-descriptive-variable-names)
+  - [Standardize acronym case](#standardize-acronym-case)
+  - [Remove unused variables](#remove-unused-variables)
+  - [Challenge: Declare variables](#challenge-declare-variables)
+  - [Solution: Declare variables](#solution-declare-variables)
 - [**3. Assigning Values**](#3-assigning-values) (6 videos)
-  - Don't assign variables in chains
-  - Standardize quotes
-  - Create arrays and objects using literals
-  - Quote object property names consistently
-  - Challenge: Assign values
-  - Solution: Assign values
+  - [Don't assign variables in chains](#dont-assign-variables-in-chains)
+  - [Standardize quotes](#standardize-quotes)
+  - [Create arrays and objects using literals](#create-arrays-and-objects-using-literals)
+  - [Quote object property names consistently](#quote-object-property-names-consistently)
+  - [Challenge: Assign values](#challenge-assign-values)
+  - [Solution: Assign values](#solution-assign-values)
 - [**4. Type Casting**](#4-type-casting) (6 videos)
-  - Type cast strings with the String wrapper
-  - Type cast numbers with the Number wrapper
-  - Type cast Booleans using double negation
-  - Rely on implicit Boolean values in conditionals
-  - Challenge: Type cast
-  - Solution: Type cast
+  - [Type cast strings with the String wrapper](#type-cast-strings-with-the-string-wrapper)
+  - [Type cast numbers with the Number wrapper](#type-cast-numbers-with-the-number-wrapper)
+  - [Type cast Booleans using double negation](#type-cast-booleans-using-double-negation)
+  - [Rely on implicit Boolean values in conditionals](#rely-on-implicit-boolean-values-in-conditionals)
+  - [Challenge: Type cast](#challenge-type-cast)
+  - [Solution: Type cast](#solution-type-cast)
 - [**5. Comparing Values**](#5-comparing-values) (7 videos)
-  - Use triple-character equality operators
-  - Don't use Yoda conditions
-  - Compare appropriately for the data type
-  - Use ternary statements judiciously
-  - Add parentheses to clarify logic
-  - Challenge: Compare values
-  - Solution: Compare values
+  - [Use triple-character equality operators](#use-triple-character-equality-operators)
+  - [Don't use Yoda conditions](#dont-use-yoda-conditions)
+  - [Compare appropriately for the data type](#compare-appropriately-for-the-data-type)
+  - [Use ternary statements judiciously](#use-ternary-statements-judiciously)
+  - [Add parentheses to clarify logic](#add-parentheses-to-clarify-logic)
+  - [Challenge: Compare values](#challenge-compare-values)
+  - [Solution: Compare values](#solution-compare-values)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working effectively with JavaScript data
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980)
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), data (2), [[Programming]] (1), [[ESLint]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
@@ -130,6 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), front-end (1)
 > **Env Vars:** es6 (2)
 > **Speakers:** - [instructor] (1)
 
@@ -222,19 +224,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (8), [[npm]] (6), [[Microsoft Word|Word]] (4), web (3), node (2)
 > **Tools:** visual studio (7), terminal (1), command prompt (1), command line (1), sublime (1)
 > **CLI Commands:** npm (6), node (4)
 > **Env Vars:** npm (6), lts (1), http (1)
 > **Prerequisites:** install (4), configure (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** node.js (2)
-> **Code Keywords:** type, (1), let (1)
 > **URLs:** [js.org](https://js.org) (1)
 
 
 ### 1. Why Best Practices?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding style guides
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980)
@@ -297,7 +299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), const (3), let (2), from. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Debugging]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), known as (1)
@@ -345,6 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (11), feature (3), [[Fetch]] (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -409,11 +412,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (8), [[Java]] (3), [[JSON]] (2), strengths (1), [[Windows]] (1)
 > **Env Vars:** json (2), env (2), es6 (2), yaml (1)
 > **File Paths:** eslintrc.js (3)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [eslint.org](https://eslint.org) (1), [stackoverflow.com](https://stackoverflow.com) (1)
-> **Code Keywords:** module (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -515,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (4), switch (2), throw (1), delete (1), require (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (2), [[HTML]] (1), next (1), prompt (1)
 > **CLI Commands:** make (3)
 > **File Paths:** eslintrc.js (1), app.js (1)
 > **Env Vars:** html (1)
@@ -527,7 +530,7 @@ created: 2026-04-29
 
 ### 2. Declaring Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prefer const, then let
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980)
@@ -666,7 +669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (12), var (11), let (8), switch (5), throw (1)
+> **Frameworks & Libraries:** [[ESLint]] (8), [[Search]] (1), [[Windows]] (1), [[Microsoft Word|Word]] (1), hit (1)
 > **UI Navigation:** switch to (3), scroll down (1)
 > **CLI Commands:** make (2), cd (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -718,7 +721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), const (2), this. (1), this, (1), var (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Debugging]] (1), [[ESLint]] (1)
 > **CLI Commands:** make (2)
 > **File Paths:** app.js (1)
 > **Speakers:** - [instructor] (1)
@@ -800,8 +803,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[JavaScript]] (2), [[ESLint]] (2), data (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** this, (1), type. (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -864,8 +867,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), business (1), next (1), [[JavaScript]] (1), [[Windows]] (1)
 > **Env Vars:** cogs (2), ytd (2), nop (2)
-> **Code Keywords:** case, (1), throw (1), require (1), case. (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -901,9 +904,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (2)
 > **Code Identifiers:** cdratio (1), efratio (1)
 > **File Paths:** app.js (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Declare variables
@@ -931,6 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** app.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1032,7 +1036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (5), var (4), let (2), function (2), else, (1)
+> **Frameworks & Libraries:** [[ESLint]] (2), next (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** reportdate (1)
 > **Env Vars:** dow (1)
@@ -1044,7 +1048,7 @@ created: 2026-04-29
 
 ### 3. Assigning Values
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Don't assign variables in chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-assign-variables-in-chains?u=76281980)
@@ -1081,6 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (2)
 > **Speakers:** - [instructor] (1)
 
 #### Standardize quotes
@@ -1146,8 +1151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[ESLint]] (4), [[HTML]] (1), hit (1)
 > **Exercise Files:** template (3)
-> **Code Keywords:** switch (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** autocompletion (1)
 > **Env Vars:** html (1)
@@ -1200,7 +1205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), this. (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (1)
 > **File Paths:** app.js (1)
 > **Definitions:** is a  (1)
 > **Warnings:** pitfall (1)
@@ -1233,8 +1238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (3), [[JavaScript]] (2), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### Challenge: Assign values
@@ -1262,6 +1267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (1), next (1)
 > **CLI Commands:** make (2)
 > **File Paths:** app.js (1)
 > **Cross-References:** in the next (1)
@@ -1353,7 +1359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1), [[HTML]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** html (1)
 > **Exercise Files:** template (1)
@@ -1364,7 +1370,7 @@ created: 2026-04-29
 
 ### 4. Type Casting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Type cast strings with the String wrapper
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-strings-with-the-string-wrapper?u=76281980)
@@ -1421,10 +1427,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[ESLint]] (3)
 > **Code Identifiers:** tostring (4), foreach (1), formdata (1)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Type cast numbers with the Number wrapper
@@ -1466,7 +1472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1)
+> **Frameworks & Libraries:** data (5), [[JavaScript]] (1), [[ESLint]] (1)
 > **Code Identifiers:** foreach (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -1520,7 +1526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), type. (1)
+> **Frameworks & Libraries:** data (4), [[JavaScript]] (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1559,8 +1565,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (2), [[JavaScript]] (2), data (1), next (1)
 > **Code Identifiers:** loggedin (4)
-> **Code Keywords:** interface (1), this, (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1593,6 +1599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[ESLint]] (1), next (1)
 > **File Paths:** app.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1656,10 +1663,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** tempf (3), tempc (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** pass (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - i (1)
@@ -1668,7 +1675,7 @@ created: 2026-04-29
 
 ### 5. Comparing Values
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use triple-character equality operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980)
@@ -1727,6 +1734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Algorithms]] (1), [[ESLint]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -1778,6 +1786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (2), data (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1828,8 +1837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[ESLint]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** for. (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** warning (1)
@@ -1893,10 +1902,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[ESLint]] (1)
 > **Warnings:** warning (6)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** doteslintrc (1), warningtext (1)
-> **Code Keywords:** const (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - my (1)
 
@@ -1945,8 +1954,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** this, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1977,6 +1986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (1), next (1)
 > **File Paths:** app.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2161,7 +2171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for, (1), for. (1), super (1), const (1)
+> **Frameworks & Libraries:** [[ESLint]] (1), data (1), [[Control Flow]] (1), next (1)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** specialship (2), subtotal (1), shipexception (1)
 > **Definitions:** is a  (4)
@@ -2172,7 +2182,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980)
@@ -2197,6 +2207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (5), data (1), [[ESLint]] (1), [[Debugging]] (1)
 > **Speakers:** - [sasha] (1)
 
 

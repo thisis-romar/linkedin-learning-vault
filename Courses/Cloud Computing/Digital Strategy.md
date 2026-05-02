@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Strategy.md)
@@ -41,31 +41,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The opportunity of digital disruption
-  - Beware the “digital lipstick” syndrome
+  - [The opportunity of digital disruption](#the-opportunity-of-digital-disruption)
+  - [Beware the “digital lipstick” syndrome](#beware-the-digital-lipstick-syndrome)
 - [**1. Digital Strategy: Foundational Ideas**](#1-digital-strategy-foundational-ideas) (3 videos)
-  - Rethinking strategy in the digital era
-  - Think of digital disruption as a gift
-  - Start with customer obsession
+  - [Rethinking strategy in the digital era](#rethinking-strategy-in-the-digital-era)
+  - [Think of digital disruption as a gift](#think-of-digital-disruption-as-a-gift)
+  - [Start with customer obsession](#start-with-customer-obsession)
 - [**2. Digital Innovation**](#2-digital-innovation) (3 videos)
-  - Building purely digital products and services
-  - Digitizing existing products and services
-  - Digitizing your value chain
+  - [Building purely digital products and services](#building-purely-digital-products-and-services)
+  - [Digitizing existing products and services](#digitizing-existing-products-and-services)
+  - [Digitizing your value chain](#digitizing-your-value-chain)
 - [**3. Platforms and Ecosystems**](#3-platforms-and-ecosystems) (3 videos)
-  - Embracing the new era of ecosystems
-  - Competing via or on platforms
-  - Harnessing the wisdom of crowds
+  - [Embracing the new era of ecosystems](#embracing-the-new-era-of-ecosystems)
+  - [Competing via or on platforms](#competing-via-or-on-platforms)
+  - [Harnessing the wisdom of crowds](#harnessing-the-wisdom-of-crowds)
 - [**4. Artificial Intelligence**](#4-artificial-intelligence) (3 videos)
-  - What is AI and where is it headed?
-  - Harnessing AI for competitive advantage
-  - Avoiding biases and other pitfalls
+  - [What is AI and where is it headed?](#what-is-ai-and-where-is-it-headed)
+  - [Harnessing AI for competitive advantage](#harnessing-ai-for-competitive-advantage)
+  - [Avoiding biases and other pitfalls](#avoiding-biases-and-other-pitfalls)
 - [**5. Building a Digital Culture**](#5-building-a-digital-culture) (2 videos)
-  - Becoming an agile organization
-  - The key takeaways
+  - [Becoming an agile organization](#becoming-an-agile-organization)
+  - [The key takeaways](#the-key-takeaways)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The opportunity of digital disruption
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980)
@@ -94,6 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Banking]] (1), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - join (2), - no (1), - eastman (1), - digital (1), - hi (1)
 
 #### Beware the “digital lipstick” syndrome
@@ -157,6 +158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), next (1), [[Google]] (1), [[Banking]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -165,7 +167,7 @@ created: 2026-04-29
 
 ### 1. Digital Strategy: Foundational Ideas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rethinking strategy in the digital era
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/rethinking-strategy-in-the-digital-era?u=76281980)
@@ -240,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1), for, (1)
+> **Frameworks & Libraries:** game (8), data (3), business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - business (1)
 
@@ -307,7 +309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), finally, (1)
+> **Frameworks & Libraries:** business (2), product (2), leadership (1), feature (1)
 > **Code Identifiers:** ecommerce (1)
 > **Speakers:** - companies (1)
 
@@ -384,6 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (2), data (1), business (1), [[Market Research]] (1)
 > **Analogies:** such as (1), analogous to (1), imagine (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
@@ -392,7 +395,7 @@ created: 2026-04-29
 
 ### 2. Digital Innovation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building purely digital products and services
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980)
@@ -483,7 +486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new. (1), case, (1), require (1)
+> **Frameworks & Libraries:** product (2), business (2), [[Microsoft Products|Products]] (2), cloud (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** mit (2), usb (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - dropbox (1)
@@ -577,7 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), yield (1), finally, (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (2), product (1), [[Microsoft Products|Products]] (1), ai (1), [[Quantum Computing]] (1)
 > **Env Vars:** gps (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** such as (1)
@@ -646,15 +649,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), game (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - warehouses (1)
 
 
 ### 3. Platforms and Ecosystems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embracing the new era of ecosystems
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980)
@@ -747,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Search]] (1), product (1), [[Microsoft]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - 100 (1)
@@ -817,8 +820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[E-Commerce]] (1), [[Android]] (1), [[Google]] (1), business (1)
 > **Code Identifiers:** iphone (4), ios (2), ebay (1)
-> **Code Keywords:** interface (1), finally, (1), case, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - airbnb (1)
 
@@ -893,7 +896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), module (1), let (1)
+> **Frameworks & Libraries:** [[Linux]] (2), power (2), [[Google]] (1), teams (1), next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** refers to (1)
@@ -902,7 +905,7 @@ created: 2026-04-29
 
 ### 4. Artificial Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AI and where is it headed?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980)
@@ -1001,10 +1004,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), data (6), [[Algorithms]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Hardware]] (2)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (4)
 > **Env Vars:** ibm (1), agi (1)
-> **Code Keywords:** let (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - radiologists (1)
 
@@ -1091,8 +1094,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (11), [[Algorithms]] (4), business (3), power (2)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** yield (2), finally, (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - artificial (1)
@@ -1170,8 +1173,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (10), data (10), ai (9), [[Privacy]] (4), power (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), continue (1)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** such as (1)
@@ -1180,7 +1183,7 @@ created: 2026-04-29
 
 ### 5. Building a Digital Culture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming an agile organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980)
@@ -1255,8 +1258,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Decision-Making]] (1), functional (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - given (1)
@@ -1304,9 +1307,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), ai (2), [[Banking]] (1), power (1), [[Agile Development|Agile]] (1)
 > **Speakers:** - look (2), - make (2), - today (1), - here (1), - beware (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** new, (1)
 
 
 ## Instructor

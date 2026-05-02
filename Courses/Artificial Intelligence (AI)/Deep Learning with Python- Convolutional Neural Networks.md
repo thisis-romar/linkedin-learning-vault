@@ -35,7 +35,7 @@ tags:
   - skill/convolutional-neural-networks-cnn
   - skill/deep-learning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20Python-%20Convolutional%20Neural%20Networks.md)
@@ -54,44 +54,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Using convolutional neural networks (CNNs) with Python
-  - What you should know
-  - Using the exercise files
+  - [Using convolutional neural networks (CNNs) with Python](#using-convolutional-neural-networks-cnns-with-python)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Computer Vision**](#1-computer-vision) (5 videos)
-  - What is computer vision?
-  - A brief history of computer vision
-  - Understanding image data
-  - Preprocessing image data in Python
-  - Augmenting image data in Python
+  - [What is computer vision?](#what-is-computer-vision)
+  - [A brief history of computer vision](#a-brief-history-of-computer-vision)
+  - [Understanding image data](#understanding-image-data)
+  - [Preprocessing image data in Python](#preprocessing-image-data-in-python)
+  - [Augmenting image data in Python](#augmenting-image-data-in-python)
 - [**2. CNNs**](#2-cnns) (5 videos)
-  - CNNs
-  - Convolutional layers and filters
-  - Pooling layers
-  - Fully connected layers
-  - Why are CNNs so effective for computer vision?
+  - [CNNs](#cnns)
+  - [Convolutional layers and filters](#convolutional-layers-and-filters)
+  - [Pooling layers](#pooling-layers)
+  - [Fully connected layers](#fully-connected-layers)
+  - [Why are CNNs so effective for computer vision?](#why-are-cnns-so-effective-for-computer-vision)
 - [**3. Image Classification with CNNs**](#3-image-classification-with-cnns) (3 videos)
-  - Preparing to build a CNN in Python
-  - Defining a CNN in Python
-  - Training a CNN in Python
+  - [Preparing to build a CNN in Python](#preparing-to-build-a-cnn-in-python)
+  - [Defining a CNN in Python](#defining-a-cnn-in-python)
+  - [Training a CNN in Python](#training-a-cnn-in-python)
 - [**4. CNN Architectures**](#4-cnn-architectures) (5 videos)
-  - VGGNet
-  - Inception networks
-  - ResNet
-  - MobileNet
-  - EfficientNet
+  - [VGGNet](#vggnet)
+  - [Inception networks](#inception-networks)
+  - [ResNet](#resnet)
+  - [MobileNet](#mobilenet)
+  - [EfficientNet](#efficientnet)
 - [**5. Common Computer Vision Tasks**](#5-common-computer-vision-tasks) (6 videos)
-  - What is image classification?
-  - Using a pretrained model for image classification in Python
-  - What is object detection?
-  - Using a pretrained model for object detection in Python
-  - What is image segmentation?
-  - Using a pretrained model for image segmentation in Python
+  - [What is image classification?](#what-is-image-classification)
+  - [Using a pretrained model for image classification in Python](#using-a-pretrained-model-for-image-classification-in-python)
+  - [What is object detection?](#what-is-object-detection)
+  - [Using a pretrained model for object detection in Python](#using-a-pretrained-model-for-object-detection-in-python)
+  - [What is image segmentation?](#what-is-image-segmentation)
+  - [Using a pretrained model for image segmentation in Python](#using-a-pretrained-model-for-image-segmentation-in-python)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing with deep learning
+  - [Continuing with deep learning](#continuing-with-deep-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using convolutional neural networks (CNNs) with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980)
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), data (2), [[Computer Vision]] (1), [[Python (Programming Language)|Python]] (1), power (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - convolutional (1)
 
@@ -140,8 +141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Neural Networks]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (1), function (1), finally, (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -188,9 +189,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), cloud (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (3)
 > **Exercise Files:** exercise files (2), github repo (1)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** install (1), set up (1)
 > **CLI Commands:** python (1)
@@ -199,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Computer Vision
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is computer vision?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-computer-vision?u=76281980)
@@ -238,8 +239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Vision]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1), traffic (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -286,6 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Vision]] (4), data (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), [[Neural Networks]] (2), cnn (2)
 > **Env Vars:** cnn (2), cpu (1), gpu (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** required to (1)
@@ -346,6 +348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), [[Deep Learning]] (1), [[TensorFlow]] (1), [[PyTorch]] (1)
 > **Definitions:** known as (4), means that (2)
 > **Env Vars:** rgb (1), cnn (1)
 > **Cross-References:** in the next (2)
@@ -485,7 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (8), pass (2), this, (1), lambda (1)
+> **Frameworks & Libraries:** data (4), [[Deep Learning]] (3), [[Neural Networks]] (1), cnn (1), next (1)
 > **CLI Commands:** cat (13), make (1)
 > **Definitions:** is called (3)
 > **Env Vars:** vgg (1), cnn (1)
@@ -535,7 +538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), pass (3), lambda (1), finally, (1)
+> **Frameworks & Libraries:** data (12), next (2), [[Python (Programming Language)|Python]] (1), [[Deep Learning]] (1), [[Zoom]] (1)
 > **Analogies:** just like (3), for example (2)
 > **Cross-References:** previous video (3), we talked about (1)
 > **CLI Commands:** python (1), make (1), find (1)
@@ -546,7 +549,7 @@ created: 2026-04-29
 
 ### 2. CNNs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CNNs
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980)
@@ -595,9 +598,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), cnn (3), [[Computer Vision]] (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1)
 > **Analogies:** such as (5)
 > **Env Vars:** cnn (3)
-> **Code Keywords:** function (1), finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -676,7 +679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), else, (1)
+> **Frameworks & Libraries:** feature (7), data (2), next (2)
 > **Definitions:** known as (2), is a  (2), is called (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [narrator] (1)
@@ -736,7 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** feature (13), next (1), cnn (1)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** cnn (1)
 > **Versions:** 3.25 (1)
@@ -773,6 +776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Cross-References:** we discussed (1), earlier in (1), in the last (1), in the next (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** known as (1)
@@ -834,8 +838,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Deep Learning]] (2), feature (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1)
 > **Definitions:** known as (2), means that (2)
-> **Code Keywords:** let (1), require (1), yield (1)
 > **Cross-References:** in the next (1), earlier in (1), we discussed (1)
 > **Env Vars:** rgb (2)
 > **Analogies:** for example (2)
@@ -844,7 +848,7 @@ created: 2026-04-29
 
 ### 3. Image Classification with CNNs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing to build a CNN in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980)
@@ -909,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Deep Learning]] (5), next (4), data (3), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2), cat (2)
 > **Cross-References:** in the next (2), we talked about (1), previous video (1)
 > **Definitions:** is a  (1)
@@ -1018,7 +1022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), finally, (1), this. (1)
+> **Frameworks & Libraries:** next (4), data (3), feature (2), [[Deep Learning]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** python (1), make (1)
 > **Cross-References:** previous video (1), in the next (1)
@@ -1075,7 +1079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), finally, (1), pass (1)
+> **Frameworks & Libraries:** data (8), next (2), [[Python (Programming Language)|Python]] (1), cnn (1)
 > **Cross-References:** in the last (2), we talked about (1), previous video (1)
 > **Env Vars:** cnn (1), cifar (1)
 > **CLI Commands:** python (1)
@@ -1087,7 +1091,7 @@ created: 2026-04-29
 
 ### 4. CNN Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### VGGNet
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/vggnet?u=76281980)
@@ -1150,6 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), strengths (1), [[Deep Learning]] (1), cnn (1)
 > **Env Vars:** vgg (7), cnn (1)
 > **Analogies:** such as (3), for instance (1)
 > **Definitions:** is a  (2)
@@ -1215,7 +1220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), module (1)
+> **Frameworks & Libraries:** parallel (3), [[Google]] (1), [[Microsoft Excel|Excel]] (1), feature (1), strengths (1)
 > **Versions:** 6.7 (1), 7.3 (1)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** vgg16 (1)
@@ -1288,8 +1293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Microsoft]] (1), [[Computer Vision]] (1), feature (1), [[Speech Recognition]] (1)
 > **Definitions:** short for (1), is a  (1), known as (1)
-> **Code Keywords:** pass (1), require (1)
 > **Env Vars:** vgg (1), gpu (1)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1359,6 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), power (1), [[Hardware]] (1), [[Engineering]] (1), application (1)
 > **Env Vars:** ssd (2), vgg (1)
 > **Analogies:** for instance (2), for example (1)
 > **Definitions:** is a  (2)
@@ -1449,9 +1455,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), [[Search]] (2), [[Google]] (1), ai (1), [[Deep Learning]] (1)
 > **Env Vars:** cnn (1), cares (1), tpu (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** this, (1), require (1)
 > **Versions:** 82.6 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1459,7 +1465,7 @@ created: 2026-04-29
 
 ### 5. Common Computer Vision Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is image classification?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980)
@@ -1492,6 +1498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), data (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (4), for example (2)
 > **CLI Commands:** cat (1), make (1), python (1)
 > **Cross-References:** later in (1)
@@ -1549,7 +1556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1), web (1), mobile application (1)
 > **Env Vars:** yolo (6), csv (1)
 > **CLI Commands:** cat (4), python (1)
 > **Versions:** 42.72 (1), 16.36 (1)
@@ -1613,12 +1620,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cnn (2), traffic (1), [[Real-Time]] (1), [[Computer Vision]] (1)
 > **Env Vars:** cnn (2), map (2), yolo (1), ssd (1)
 > **Definitions:** known as (1), refers to (1), means that (1), is a  (1)
 > **CLI Commands:** cat (2)
 > **Versions:** 0.5 (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** pass (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1699,7 +1706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (1), pass (1), this. (1)
+> **Frameworks & Libraries:** next (4), [[Fine Tuning]] (1)
 > **Env Vars:** yolo (5), bgr (2), rgb (2)
 > **CLI Commands:** cat (3)
 > **Versions:** 90.28 (1), 86.19 (1)
@@ -1745,6 +1752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Google]] (1), data (1), [[Computer Vision]] (1)
 > **CLI Commands:** cat (5)
 > **Analogies:** for example (2), for instance (1), similar to (1)
 > **Definitions:** is a  (2)
@@ -1828,7 +1836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), finally, (1), pass (1)
+> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** cat (8), make (1)
 > **Env Vars:** yolo (5)
 > **Versions:** 76.9 (1), 55.84 (1)
@@ -1838,7 +1846,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/continuing-on-with-deep-learning?u=76281980)
@@ -1883,9 +1891,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Computer Vision]] (3), [[Python (Programming Language)|Python]] (2), data (2), cnn (2)
 > **CLI Commands:** python (2), make (2)
 > **Env Vars:** cnn (2), cares (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 

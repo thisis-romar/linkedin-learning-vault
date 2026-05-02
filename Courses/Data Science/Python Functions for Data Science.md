@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/data-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20Functions%20for%20Data%20Science.md)
@@ -49,40 +49,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Use Python like a data scientist
-  - Getting started with Python
+  - [Use Python like a data scientist](#use-python-like-a-data-scientist)
+  - [Getting started with Python](#getting-started-with-python)
 - [**1. Core Python Essentials**](#1-core-python-essentials) (4 videos)
-  - Inspect data for validation
-  - Handle magnitudes and precision in data
-  - Aggregate data with basic functions
-  - Sort, filter, and transform your data
+  - [Inspect data for validation](#inspect-data-for-validation)
+  - [Handle magnitudes and precision in data](#handle-magnitudes-and-precision-in-data)
+  - [Aggregate data with basic functions](#aggregate-data-with-basic-functions)
+  - [Sort, filter, and transform your data](#sort-filter-and-transform-your-data)
 - [**2. NumPy and SciPy Fundamentals**](#2-numpy-and-scipy-fundamentals) (7 videos)
-  - Create NumPy arrays in Python
-  - Index and slice NumPy arrays
-  - Reshape NumPy arrays
-  - Transform and scale NumPy arrays
-  - Extract key values with NumPy
-  - Solve matrix-based problems with SciPy
-  - Run statistical functions with SciPy
+  - [Create NumPy arrays in Python](#create-numpy-arrays-in-python)
+  - [Index and slice NumPy arrays](#index-and-slice-numpy-arrays)
+  - [Reshape NumPy arrays](#reshape-numpy-arrays)
+  - [Transform and scale NumPy arrays](#transform-and-scale-numpy-arrays)
+  - [Extract key values with NumPy](#extract-key-values-with-numpy)
+  - [Solve matrix-based problems with SciPy](#solve-matrix-based-problems-with-scipy)
+  - [Run statistical functions with SciPy](#run-statistical-functions-with-scipy)
 - [**3. pandas for Data Manipulation**](#3-pandas-for-data-manipulation) (6 videos)
-  - Create pandas series and dataframes
-  - Extract data subsets from pandas objects
-  - Modify pandas objects
-  - Combine data from pandas objects
-  - Group data from pandas objects
-  - Transform data with pandas apply()
+  - [Create pandas series and dataframes](#create-pandas-series-and-dataframes)
+  - [Extract data subsets from pandas objects](#extract-data-subsets-from-pandas-objects)
+  - [Modify pandas objects](#modify-pandas-objects)
+  - [Combine data from pandas objects](#combine-data-from-pandas-objects)
+  - [Group data from pandas objects](#group-data-from-pandas-objects)
+  - [Transform data with pandas apply()](#transform-data-with-pandas-apply)
 - [**4. Visualization Essentials**](#4-visualization-essentials) (5 videos)
-  - Create line and scatter plots
-  - Display categorical distributions
-  - Explore numerical distributions
-  - Visualize pairwise relationships
-  - Organize your visualizations
+  - [Create line and scatter plots](#create-line-and-scatter-plots)
+  - [Display categorical distributions](#display-categorical-distributions)
+  - [Explore numerical distributions](#explore-numerical-distributions)
+  - [Visualize pairwise relationships](#visualize-pairwise-relationships)
+  - [Organize your visualizations](#organize-your-visualizations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Apply functions to data science
+  - [Apply functions to data science](#apply-functions-to-data-science)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Python like a data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980)
@@ -107,8 +107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), career (1), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1)
 > **Env Vars:** stem (1)
 
 #### Getting started with Python
@@ -146,19 +146,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (2), [[Windows]] (1), [[Linux]] (1), data (1)
 > **CLI Commands:** python (4), make (2)
 > **Prerequisites:** set up (4), install (1), you'll need (1)
 > **Tools:** jupyter (4)
 > **Exercise Files:** download the (2), exercise files (2)
 > **UI Navigation:** go to (2), open the (1)
-> **Code Keywords:** return, (1), finally, (1)
 > **URLs:** [python.org](https://python.org) (1), [jupyter.org](https://jupyter.org) (1)
 > **Warnings:** note that (1)
 
 
 ### 1. Core Python Essentials
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inspect data for validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), type( (5), let (1), pass (1), this, (1)
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (4), prompt (4), hit (1), next (1)
 > **CLI Commands:** python (4), make (1)
 > **Code Identifiers:** sample_size (2), avg_score (2)
 > **Definitions:** is a  (3), is an  (1)
@@ -303,7 +303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), pass (3), this: (1), let (1), default, (1)
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (3), [[Financial Data]] (1), business (1), next (1)
 > **CLI Commands:** python (3), make (2)
 > **Analogies:** for example (2), for instance (1)
 > **Code Identifiers:** sept_profit (1), oct_profit (1)
@@ -371,7 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (1), this, (1)
+> **Frameworks & Libraries:** data (6), next (2), [[Statistics]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Versions:** 71.9 (1)
 > **Prerequisites:** you'll need (1)
@@ -469,7 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), lambda (4), let (2), pass (2), default. (1)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (1), next (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -477,7 +477,7 @@ created: 2026-04-29
 
 ### 2. NumPy and SciPy Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create NumPy arrays in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980)
@@ -580,7 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (1), finally, (1), module (1)
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (3), next (1)
 > **Definitions:** is an  (3), is a  (2)
 > **CLI Commands:** python (3), make (1)
 > **Code Identifiers:** evenly_spaced (1), random_integers (1)
@@ -645,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Analogies:** just like (1), for example (1)
 
@@ -692,8 +692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### Transform and scale NumPy arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/transform-and-scale-numpy-arrays?u=76281980)
@@ -748,8 +748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Data Transformation]] (1), feature (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** let (2)
 > **Definitions:** known as (1), is an  (1)
 
 #### Extract key values with NumPy
@@ -793,7 +793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), var (1)
+> **Frameworks & Libraries:** data (13), [[Statistics]] (3)
 > **CLI Commands:** find (1)
 
 #### Solve matrix-based problems with SciPy
@@ -841,7 +841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), module (2), pass (2), let (1), for. (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (3), data (1), [[Algorithms]] (1), product (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** make sure to (1)
@@ -977,8 +977,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Probability]] (8), next (2), [[Statistical Analysis]] (1), [[Statistics]] (1)
 > **Versions:** 1.96 (6), 8.4 (2), 0.05 (2), 0.3989 (1), 0.975 (1)
-> **Code Keywords:** function (8), module (4), let (2), finally, (1)
 > **Definitions:** is a  (5), in other words (5), known as (3)
 > **Env Vars:** pdf (2), cdf (2)
 > **Code Identifiers:** ttest_ind (1), t_stat (1), p_value (1)
@@ -988,7 +988,7 @@ created: 2026-04-29
 
 ### 3. pandas for Data Manipulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create pandas series and dataframes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980)
@@ -1081,10 +1081,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (10), [[Python (Programming Language)|Python]] (1), [[Statistics]] (1), next (1)
 > **Definitions:** is a  (4), in other words (1), short for (1)
 > **Code Identifiers:** read_csv (3), df_csv (2)
 > **Env Vars:** csv (5)
-> **Code Keywords:** pass (1), this, (1), while . (1), function (1)
 > **File Paths:** scores.csv (3)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** python (1)
@@ -1211,8 +1211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (2), next (2)
 > **Code Identifiers:** df_by_name (4), high_scores (2), read_csv (1), set_index (1)
-> **Code Keywords:** let (4), pass (1)
 > **Analogies:** just like (2), for example (2)
 > **CLI Commands:** python (2), make (1)
 > **File Paths:** scores.csv (2)
@@ -1339,7 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4), function (2), continue (1)
+> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (7), next (1)
 > **Code Identifiers:** mean_hours (2), df_clean (2), read_csv (1), df_with_missing (1)
 > **Analogies:** for example (4), such as (1), for instance (1)
 > **CLI Commands:** make (3)
@@ -1458,8 +1458,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), data (7), [[SQL]] (1)
 > **Code Identifiers:** scores_extra (2), reset_index (2), merged_outer (1), combined_reset (1)
-> **Code Keywords:** case, (1), match. (1), default. (1), pass (1), default, (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** sql (1)
 > **Analogies:** similar to (1)
@@ -1539,9 +1539,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (3), [[Statistics]] (2), hr (1)
 > **Code Identifiers:** reset_index (2), salary_range (2), summary_reset (1)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** function (3), pass (1)
 > **Definitions:** is a  (1)
 
 #### Transform data with pandas apply()
@@ -1637,7 +1637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), lambda (4), let (1), elif (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), data (2), [[Feature Engineering]] (2)
 > **Code Identifiers:** to_percentage (3), performance_label (3)
 > **Definitions:** is a  (1), is an  (1), in other words (1)
 > **CLI Commands:** find (1)
@@ -1646,7 +1646,7 @@ created: 2026-04-29
 
 ### 4. Visualization Essentials
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create line and scatter plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-line-and-scatter-plots?u=76281980)
@@ -1739,7 +1739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), module (1), let (1), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (2), next (1)
 > **CLI Commands:** python (2), make (2)
 > **Analogies:** for example (1)
 
@@ -1848,8 +1848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (3)
-> **Code Keywords:** module (1), let (1), function (1)
 > **Analogies:** for instance (1), for example (1), such as (1)
 > **Code Identifiers:** slice_offsets (2)
 > **Versions:** 0.7 (1), 0.1 (1)
@@ -1956,9 +1956,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Pandas (Software)|Pandas]] (3), next (2), [[Probability]] (1), [[Statistics]] (1)
 > **Env Vars:** kde (4)
 > **Definitions:** is a  (2), short for (1), in other words (1)
-> **Code Keywords:** let (1), function (1)
 
 #### Visualize pairwise relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/visualize-pairwise-relationships?u=76281980)
@@ -2053,7 +2053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (2), let (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), next (3), data (1), feature (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ones_like (1)
@@ -2161,7 +2161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), module (1)
+> **Frameworks & Libraries:** data (5), [[Dashboards]] (2)
 > **Code Identifiers:** set_title (2), tight_layout (1), subplots_adjust (1)
 > **Versions:** 0.4 (2)
 > **Analogies:** for example (2)
@@ -2170,7 +2170,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply functions to data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980)
@@ -2229,8 +2229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (5), next (2), [[Pandas (Software)|Pandas]] (1), [[Search]] (1)
 > **CLI Commands:** python (5), find (3)
-> **Code Keywords:** function (2), public (1), continue (1)
 > **Definitions:** is an  (2), is a  (1)
 > **URLs:** [python.org](https://python.org) (1)
 

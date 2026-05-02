@@ -28,7 +28,7 @@ tags:
   - skill/scalability
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Node.js-%20Scaling%20Applications.md)
@@ -47,33 +47,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Scaling applications with Node.js
-  - What you should know
-  - Using the exercise files
+  - [Scaling applications with Node.js](#scaling-applications-with-nodejs)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Cloning**](#1-cloning) (6 videos)
-  - The scale cube
-  - Scaling the x-axis
-  - Forking processes
-  - Using a cluster module
-  - Architecting zero downtime
-  - Working with clusters with PM2
+  - [The scale cube](#the-scale-cube)
+  - [Scaling the x-axis](#scaling-the-x-axis)
+  - [Forking processes](#forking-processes)
+  - [Using a cluster module](#using-a-cluster-module)
+  - [Architecting zero downtime](#architecting-zero-downtime)
+  - [Working with clusters with PM2](#working-with-clusters-with-pm2)
 - [**2. Database Scaling**](#2-database-scaling) (4 videos)
-  - Working with databases
-  - Incorporating a database
-  - Scaling the z-axis
-  - Setting up horizontal partitioning
+  - [Working with databases](#working-with-databases)
+  - [Incorporating a database](#incorporating-a-database)
+  - [Scaling the z-axis](#scaling-the-z-axis)
+  - [Setting up horizontal partitioning](#setting-up-horizontal-partitioning)
 - [**3. Microservices**](#3-microservices) (5 videos)
-  - Scaling the y-axis
-  - Decomposing services
-  - Service orchestration
-  - Create an orchestration
-  - Test the orchestration layer
+  - [Scaling the y-axis](#scaling-the-y-axis)
+  - [Decomposing services](#decomposing-services)
+  - [Service orchestration](#service-orchestration)
+  - [Create an orchestration](#create-an-orchestration)
+  - [Test the orchestration layer](#test-the-orchestration-layer)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling applications with Node.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980)
@@ -126,9 +126,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (7), data (4), node (3), traffic (2), application (2)
 > **CLI Commands:** node (10)
 > **File Paths:** node.js (7)
-> **Code Keywords:** finally, (1), let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [alex] (1)
 
@@ -155,9 +155,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (6), [[JavaScript]] (2), [[npm]] (1), express (1)
 > **CLI Commands:** node (6), make (1), npm (1)
 > **File Paths:** node.js (6)
-> **Code Keywords:** class, (1), let (1), const (1)
 > **Env Vars:** http (1), npm (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
@@ -203,19 +203,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (1), [[npm]] (1), [[JavaScript]] (1), [[Node.js]] (1)
 > **CLI Commands:** find (3), npm (1), node (1)
 > **Tools:** atom (4)
 > **Prerequisites:** install (3), setup (1)
 > **Env Vars:** json (1), ide (1)
 > **Exercise Files:** exercise files (2)
 > **File Paths:** node.js (1)
-> **Code Keywords:** let (1)
 > **URLs:** [atom.io](https://atom.io) (1)
 
 
 ### 1. Cloning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The scale cube
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980)
@@ -272,6 +272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), database (4), traffic (3), data (3), [[Microservices]] (2)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
 > **Definitions:** is a  (2)
@@ -315,8 +316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), application (5), business (2), node (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -434,7 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), module (4)
+> **Frameworks & Libraries:** node (5), application (5), [[Node.js]] (2), hit (2), next (2)
 > **CLI Commands:** node (7)
 > **File Paths:** node.js (2), app.js (2), index.js (2)
 > **Code Identifiers:** processid (2), child_process (2)
@@ -570,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), hit (4), application (3), traffic (3), [[Node.js]] (2)
 > **CLI Commands:** node (10), make (3), npm (2), find (1), sudo (1)
-> **Code Keywords:** let (10), module (4), function (1), this. (1)
 > **Tools:** terminal (7)
 > **Env Vars:** pid (3), cpu (1), http (1), npm (1)
 > **Prerequisites:** install (3), required to (1)
@@ -698,7 +699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (2), module (1), implements (1), delete (1)
+> **Frameworks & Libraries:** node (3), traffic (2), web (1)
 > **CLI Commands:** node (3), make (1)
 > **Tools:** terminal (4)
 > **Definitions:** is called (2), is a  (1)
@@ -838,8 +839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), hit (3), [[npm]] (1), web (1), node (1)
 > **Env Vars:** pm2 (22), cpu (1), aws (1), api (1)
-> **Code Keywords:** let (6), delete (1)
 > **CLI Commands:** sudo (1), npm (1), node (1), make (1), aws (1)
 > **Definitions:** is called (2), is a  (2)
 > **Ports:** :3000 (2), port 3000 (1)
@@ -850,7 +851,7 @@ created: 2026-04-29
 
 ### 2. Database Scaling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980)
@@ -897,6 +898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), data (11), [[Node.js]] (2), [[Databases]] (2), application (2)
 > **CLI Commands:** node (2), make (1)
 > **File Paths:** node.js (2)
 > **Prerequisites:** install (1)
@@ -1041,7 +1043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), this. (1), while. (1), delete (1)
+> **Frameworks & Libraries:** database (9), data (7), node (4), hit (2), application (2)
 > **CLI Commands:** node (4), make (3), npm (1)
 > **Tools:** terminal (4)
 > **File Paths:** app.js (2)
@@ -1117,7 +1119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2)
+> **Frameworks & Libraries:** database (12), data (7), traffic (1), application (1), business (1)
 > **Definitions:** is called (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1282,8 +1284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (32), data (15), node (4), [[Databases]] (3), [[npm]] (1)
 > **CLI Commands:** cat (21), find (10), node (4), make (4), npm (1)
-> **Code Keywords:** let (10), function (10), module (1), this. (1), pass (1)
 > **Code Identifiers:** dbb (7), dba (6)
 > **Definitions:** is a  (3), means that (1)
 > **File Paths:** db.js (2), index.js (1)
@@ -1294,7 +1296,7 @@ created: 2026-04-29
 
 ### 3. Microservices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling the y-axis
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980)
@@ -1381,6 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), application (6), [[Microservices]] (4), teams (2), database (2)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
@@ -1603,7 +1606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (8), this, (3), this. (2), type. (1)
+> **Frameworks & Libraries:** data (16), express (6), api (3), hit (3), [[JSON]] (2)
 > **CLI Commands:** curl (7), make (5), find (1), npm (1), node (1)
 > **File Paths:** ticket-system.js (4), show.js (3), reservations.js (2)
 > **Ports:** :3001 (4), :3000 (1), port 3002 (1), :3002 (1)
@@ -1663,6 +1666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), [[Microservices]] (5), [[Orchestration]] (4), front-end (1), application (1)
 > **Env Vars:** api (6), tcp (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -1777,7 +1781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), await (4), private (1), async (1)
+> **Frameworks & Libraries:** api (13), [[Orchestration]] (4), next (4), [[Fetch]] (3), application (2)
 > **Env Vars:** api (13), http (3), json (2)
 > **CLI Commands:** make (10), node (1), find (1)
 > **Code Identifiers:** getshow (3), getallshows (2), showid (2), bodyparser (1), housesize (1)
@@ -1867,8 +1871,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), [[Orchestration]] (4), [[Microservices]] (3), [[JSON]] (2), data (2)
 > **CLI Commands:** curl (4), make (3), npm (1), find (1)
-> **Code Keywords:** let (5), this, (1)
 > **File Paths:** api.js (2), show.js (1), reservations.js (1), app.js (1)
 > **Tools:** terminal (3)
 > **Prerequisites:** install (1), set up (1)
@@ -1879,7 +1883,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980)
@@ -1934,6 +1938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (5), database (3), [[Redis]] (3), [[Microsoft Azure|Azure]] (3), [[LinkedIn]] (2)
 > **CLI Commands:** node (5), find (1), mysql (1), apache (1)
 > **File Paths:** node.js (5)
 > **Definitions:** is a  (2)

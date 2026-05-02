@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/excel-pivot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20PivotTable%20Quick%20Tips.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Analyze your data quickly with PivotTables
+  - [Analyze your data quickly with PivotTables](#analyze-your-data-quickly-with-pivottables)
 - [**1. Excel PivotTable Basics**](#1-excel-pivottable-basics) (4 videos)
-  - Get data ready for an Excel PivotTable
-  - Create a basic Excel PivotTable
-  - Use a recommended PivotTable
-  - Create multiple PivotTables
+  - [Get data ready for an Excel PivotTable](#get-data-ready-for-an-excel-pivottable)
+  - [Create a basic Excel PivotTable](#create-a-basic-excel-pivottable)
+  - [Use a recommended PivotTable](#use-a-recommended-pivottable)
+  - [Create multiple PivotTables](#create-multiple-pivottables)
 - [**2. Adjusting Excel PivotTable Data**](#2-adjusting-excel-pivottable-data) (6 videos)
-  - Rearrange a PivotTable
-  - Calculate values in a PivotTable
-  - Summarize values in a PivotTable
-  - Expand and collapse details in a PivotTable
-  - Format data in a PivotTable
-  - Group data in a PivotTable
+  - [Rearrange a PivotTable](#rearrange-a-pivottable)
+  - [Calculate values in a PivotTable](#calculate-values-in-a-pivottable)
+  - [Summarize values in a PivotTable](#summarize-values-in-a-pivottable)
+  - [Expand and collapse details in a PivotTable](#expand-and-collapse-details-in-a-pivottable)
+  - [Format data in a PivotTable](#format-data-in-a-pivottable)
+  - [Group data in a PivotTable](#group-data-in-a-pivottable)
 - [**3. Filtering and Sorting Data in a PivotTable**](#3-filtering-and-sorting-data-in-a-pivottable) (2 videos)
-  - Filter data in a PivotTable
-  - Sort data in a PivotTable
+  - [Filter data in a PivotTable](#filter-data-in-a-pivottable)
+  - [Sort data in a PivotTable](#sort-data-in-a-pivottable)
 - [**4. Conditional Formatting with PivotTables**](#4-conditional-formatting-with-pivottables) (2 videos)
-  - Apply conditional formatting to a PivotTable
-  - Remove conditional formatting from a PivotTable
+  - [Apply conditional formatting to a PivotTable](#apply-conditional-formatting-to-a-pivottable)
+  - [Remove conditional formatting from a PivotTable](#remove-conditional-formatting-from-a-pivottable)
 - [**5. PivotCharts and Slicers**](#5-pivotcharts-and-slicers) (2 videos)
-  - Create a basic PivotChart
-  - Insert slicers into a PivotTable
+  - [Create a basic PivotChart](#create-a-basic-pivotchart)
+  - [Insert slicers into a PivotTable](#insert-slicers-into-a-pivottable)
 - [**6. Data Grouping with Excel Functions**](#6-data-grouping-with-excel-functions) (2 videos)
-  - Use GROUPBY to view data like a PivotTable
-  - Use PIVOTBY to view data with more columns
+  - [Use GROUPBY to view data like a PivotTable](#use-groupby-to-view-data-like-a-pivottable)
+  - [Use PIVOTBY to view data with more columns](#use-pivotby-to-view-data-with-more-columns)
 - [**7. Addressing Common Error Messages in PivotTables**](#7-addressing-common-error-messages-in-pivottables) (3 videos)
-  - PivotTable error messages: Field name not valid
-  - Refresh a PivotTable
-  - PivotTable error messages: Overlapping and make space
+  - [PivotTable error messages: Field name not valid](#pivottable-error-messages-field-name-not-valid)
+  - [Refresh a PivotTable](#refresh-a-pivottable)
+  - [PivotTable error messages: Overlapping and make space](#pivottable-error-messages-overlapping-and-make-space)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze your data quickly with PivotTables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980)
@@ -100,14 +100,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1), power (1), data (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - did (1)
 
 
 ### 1. Excel PivotTable Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get data ready for an Excel PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980)
@@ -146,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (1), next (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** good practice (1)
 > **Prerequisites:** make sure you have (1)
@@ -188,8 +188,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
@@ -216,6 +216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
@@ -247,14 +248,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), type. (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Adjusting Excel PivotTable Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rearrange a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/rearrange-a-pivottable?u=76281980)
@@ -289,6 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), data (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -333,6 +335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **Versions:** 0.01 (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -374,6 +377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), data (1)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -434,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** generic (1), [[Microsoft Word|Word]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -465,13 +469,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), product (1)
 > **UI Navigation:** right-click (3), select the (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Filtering and Sorting Data in a PivotTable
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filter data in a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/filter-data-in-a-pivottable?u=76281980)
@@ -496,8 +501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [narrator] (1)
 
@@ -518,13 +523,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. Conditional Formatting with PivotTables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply conditional formatting to a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980)
@@ -555,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** just like (1)
 > **Warnings:** be careful (1)
@@ -582,14 +588,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), from, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. PivotCharts and Slicers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a basic PivotChart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980)
@@ -622,7 +627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), type. (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), hit (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -663,14 +668,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), delete (1)
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Data Grouping with Excel Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use GROUPBY to view data like a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980)
@@ -701,7 +706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case, (2), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1), product (1)
 > **Env Vars:** groupby (2)
 > **Analogies:** just like (1), such as (1)
 > **Warnings:** note that (1)
@@ -742,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft 365]] (1), product (1), hit (1)
 > **Env Vars:** pivotby (4), groupby (2)
-> **Code Keywords:** for. (2), case, (2), function (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -751,7 +756,7 @@ created: 2026-04-29
 
 ### 7. Addressing Common Error Messages in PivotTables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PivotTable error messages: Field name not valid
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/pivottable-error-messages-field-name-not-valid?u=76281980)
@@ -790,7 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), for, (1)
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -815,7 +820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), next (1)
 > **Speakers:** - [narrator] (1)
 
 #### PivotTable error messages: Overlapping and make space
@@ -857,7 +862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), let (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
 

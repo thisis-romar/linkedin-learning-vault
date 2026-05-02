@@ -36,7 +36,7 @@ tags:
   - skill/python-programming-language
   - skill/statistics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Statistics%20Essential%20Training.md)
@@ -55,46 +55,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Being a Python statistics MVP
-  - What you should know
-  - Using GitHub Codespaces with this course
+  - [Being a Python statistics MVP](#being-a-python-statistics-mvp)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Loading and Cleaning Data**](#1-loading-and-cleaning-data) (6 videos)
-  - Loading data
-  - Strings and categories
-  - Cleaning numbers
-  - Shrinking numbers
-  - Challenge: Clean Ames
-  - Solution: Clean Ames
+  - [Loading data](#loading-data)
+  - [Strings and categories](#strings-and-categories)
+  - [Cleaning numbers](#cleaning-numbers)
+  - [Shrinking numbers](#shrinking-numbers)
+  - [Challenge: Clean Ames](#challenge-clean-ames)
+  - [Solution: Clean Ames](#solution-clean-ames)
 - [**2. Exploring and Visualizing**](#2-exploring-and-visualizing) (9 videos)
-  - Categorical exploration
-  - Histograms and distributions
-  - Outliers and Z-scores
-  - Correlations
-  - Scatter plots
-  - Visualizing categorical and numerical values
-  - Comparing two categoricals
-  - Challenge: Explore Ames
-  - Solution: Explore Ames
+  - [Categorical exploration](#categorical-exploration)
+  - [Histograms and distributions](#histograms-and-distributions)
+  - [Outliers and Z-scores](#outliers-and-z-scores)
+  - [Correlations](#correlations)
+  - [Scatter plots](#scatter-plots)
+  - [Visualizing categorical and numerical values](#visualizing-categorical-and-numerical-values)
+  - [Comparing two categoricals](#comparing-two-categoricals)
+  - [Challenge: Explore Ames](#challenge-explore-ames)
+  - [Solution: Explore Ames](#solution-explore-ames)
 - [**3. Linear Regressions**](#3-linear-regressions) (6 videos)
-  - Linear regression
-  - Interpreting linear regression models
-  - Standardizing values
-  - Regression with XGBoost
-  - Challenge: Predict Ames
-  - Solution: Predict Ames
+  - [Linear regression](#linear-regression)
+  - [Interpreting linear regression models](#interpreting-linear-regression-models)
+  - [Standardizing values](#standardizing-values)
+  - [Regression with XGBoost](#regression-with-xgboost)
+  - [Challenge: Predict Ames](#challenge-predict-ames)
+  - [Solution: Predict Ames](#solution-predict-ames)
 - [**4. Hypothesis Tests**](#4-hypothesis-tests) (6 videos)
-  - Exploring data
-  - Visualizing distributions
-  - Running statistical tests
-  - Testing for normality
-  - Challenge: Checking square footage distributions
-  - Solution: Checking square footage distributions
+  - [Exploring data](#exploring-data)
+  - [Visualizing distributions](#visualizing-distributions)
+  - [Running statistical tests](#running-statistical-tests)
+  - [Testing for normality](#testing-for-normality)
+  - [Challenge: Checking square footage distributions](#challenge-checking-square-footage-distributions)
+  - [Solution: Checking square footage distributions](#solution-checking-square-footage-distributions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Being a Python statistics MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980)
@@ -121,9 +121,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Python (Programming Language)|Python]] (2), data (2), [[Linear Regression]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (2)
 > **Tools:** jupyter (1), github (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - have (1)
 
 #### What you should know
@@ -206,11 +206,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (8), [[Python (Programming Language)|Python]] (6), web (2), [[GitHub]] (2), [[Linux]] (1)
 > **UI Navigation:** click on (8), open the (2), navigate to (1)
 > **CLI Commands:** python (6), pip (1), ls (1), find (1)
 > **Tools:** vs code (2), github (2), terminal (1), jupyter (1)
 > **Prerequisites:** set up (2), configure (1), install (1)
-> **Code Keywords:** let (3)
 > **Versions:** python 3 (1), 10.8 (1), 2.0.2 (1)
 > **Definitions:** is a  (3)
 > **File Paths:** requirements.txt (1)
@@ -218,7 +218,7 @@ created: 2026-04-29
 
 ### 1. Loading and Cleaning Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980)
@@ -337,7 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), case, (1), default, (1)
+> **Frameworks & Libraries:** data (17), [[Pandas (Software)|Pandas]] (14), hit (3), [[Statistics]] (2), [[Codespaces]] (1)
 > **Env Vars:** url (1), csv (1), std (1)
 > **Warnings:** be aware (2), note that (1)
 > **Code Identifiers:** dtype_backend (2)
@@ -697,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), case, (6), this, (4), type. (4), pass (4)
+> **Frameworks & Libraries:** data (27), [[Pandas (Software)|Pandas]] (19), [[Statistics]] (4), [[Python (Programming Language)|Python]] (3), next (1)
 > **Definitions:** is a  (9), means that (1), is an  (1)
 > **Code Identifiers:** select_dtypes (5), memory_usage (2), value_counts (2)
 > **CLI Commands:** python (3), find (2), make (1)
@@ -1023,7 +1023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (4), this, (4), pass (3), throw (2)
+> **Frameworks & Libraries:** data (26), [[Pandas (Software)|Pandas]] (9), [[Statistics]] (4), [[Python (Programming Language)|Python]] (3), [[Linear Regression]] (2)
 > **CLI Commands:** find (5), python (3), make (3)
 > **Definitions:** is a  (9)
 > **Analogies:** for example (2), such as (1), similar to (1)
@@ -1175,7 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (6), continue (2), case, (2), throw (1)
+> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (4), next (2), [[Statistics]] (1)
 > **Code Identifiers:** clean_housing (2), shrink_ints (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), stands for (1)
@@ -1216,7 +1216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -1315,8 +1315,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (4), hit (4)
 > **CLI Commands:** make (9), find (1)
-> **Code Keywords:** function (2), let (1), this. (1), finally, (1), case. (1)
 > **Code Identifiers:** clean_housing (3), shrink_ints (1)
 > **UI Navigation:** click on (1), scroll up (1)
 > **Warnings:** warning (1), note that (1)
@@ -1326,7 +1326,7 @@ created: 2026-04-29
 
 ### 2. Exploring and Visualizing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Categorical exploration
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980)
@@ -1421,7 +1421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), default, (1), default. (1), this. (1)
+> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (4), [[Statistics]] (2), next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** rm (1), make (1)
 > **Warnings:** note that (1)
@@ -1528,7 +1528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), default, (1), this. (1), yield (1)
+> **Frameworks & Libraries:** data (3), [[Statistics]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Warnings:** note that (1), be careful (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1649,7 +1649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (5), case, (3), throw (2), case. (1)
+> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (2), next (1)
 > **Definitions:** is a  (9), means that (1)
 > **CLI Commands:** make (4), find (3)
 > **Env Vars:** iqr (3)
@@ -1819,7 +1819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (4), case, (2), default, (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (1), power (1)
 > **Definitions:** is a  (7), means that (1), is an  (1)
 > **Versions:** 0.4 (3), 0.42 (1)
 > **CLI Commands:** make (1), find (1)
@@ -1983,7 +1983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (3), case, (3), function (3), interface (2)
+> **Frameworks & Libraries:** next (1), [[Engineering]] (1), data (1), [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 0.8 (4), 0.4 (4), 0.1 (2), 0.5 (2), 0.36 (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
@@ -2217,7 +2217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), case, (4), this. (3), function (2), super (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), data (8), next (2), [[Forms]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (6), is called (1)
 > **Versions:** 12.5 (3), 87.5 (2), 200.6 (1)
 > **CLI Commands:** make (1)
@@ -2361,7 +2361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), for. (1), this. (1), function (1)
+> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (4)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** make (3)
 > **Documentation:** the documentation (2)
@@ -2385,8 +2385,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
@@ -2470,7 +2470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (3), this, (2)
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -2479,7 +2479,7 @@ created: 2026-04-29
 
 ### 3. Linear Regressions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980)
@@ -2672,7 +2672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), interface (2), function (2), pass (2)
+> **Frameworks & Libraries:** data (39), [[Linear Regression]] (8), [[Python (Programming Language)|Python]] (1), api (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (7), python (1), find (1)
 > **Code Identifiers:** train_test_split (3), y_train (2), linear_model (1), y_test (1), clean_housing_no_na (1)
 > **Versions:** 0.84 (3), 0.9 (1), 0.8 (1)
@@ -2774,7 +2774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1), class, (1), this. (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (5), feature (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -2921,7 +2921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (2), this, (2), case, (1), for. (1)
+> **Frameworks & Libraries:** data (15), [[Linear Regression]] (2), [[Algorithms]] (1), [[Zoom]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** fit_transform (2)
@@ -3125,7 +3125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (4), case, (4), require (2), this. (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (8), data (7), hit (4), [[Decision Trees]] (3), business (3)
 > **CLI Commands:** make (9)
 > **Versions:** 0.89 (3), 0.91 (2), 0.84 (1)
 > **Definitions:** is a  (2), is called (1)
@@ -3150,6 +3150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Linear Regression]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3277,7 +3278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (3), this. (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), data (2), feature (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** y_train (1)
@@ -3289,7 +3290,7 @@ created: 2026-04-29
 
 ### 4. Hypothesis Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980)
@@ -3352,7 +3353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), module (1)
+> **Frameworks & Libraries:** data (4), [[Statistics]] (4), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -3492,7 +3493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (3), this. (3), function (3), case, (2)
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (4), next (4), [[Statistics]] (2)
 > **Env Vars:** cdf (7), plt (1)
 > **CLI Commands:** make (5)
 > **Warnings:** note that (2)
@@ -3586,7 +3587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (3), case, (3), pass (3), function (1)
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), next (1), [[Statistics]] (1)
 > **Versions:** 0.05 (4), 0.5 (2)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** n_ames (1), college_cr (1)
@@ -3690,7 +3691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (3), module (2), function (2), this. (1)
+> **Frameworks & Libraries:** [[Probability]] (8), data (4)
 > **Definitions:** is a  (5), is called (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** similar to (1)
@@ -3811,7 +3812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (3), this, (1), case, (1), pass (1)
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
 > **Code Identifiers:** n_ames_sf (2), college_cr (1)
 > **CLI Commands:** make (2)
 > **Versions:** 0.7 (1), 0.05 (1)
@@ -3822,7 +3823,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980)
@@ -3857,8 +3858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Statistics]] (3), [[Python (Programming Language)|Python]] (2), [[Data Manipulation]] (2), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - congratulations (1)
 
 

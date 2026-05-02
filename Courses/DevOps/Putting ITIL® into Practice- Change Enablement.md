@@ -33,7 +33,7 @@ tags:
   - skill/itil
   - skill/change-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20Change%20Enablement.md)
@@ -52,65 +52,65 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Stand apart as a change practitioner
-  - Why change enablement?
-  - What you'll learn
-  - How you'll learn it
+  - [Stand apart as a change practitioner](#stand-apart-as-a-change-practitioner)
+  - [Why change enablement?](#why-change-enablement)
+  - [What you'll learn](#what-youll-learn)
+  - [How you'll learn it](#how-youll-learn-it)
 - [**1. Request for Change**](#1-request-for-change) (6 videos)
-  - What is a request for change, and why use it?
-  - Where and when to use a request for change
-  - Request for change steps
-  - Request for change example
-  - You try it: Request for change
-  - Review it: Request for change
+  - [What is a request for change, and why use it?](#what-is-a-request-for-change-and-why-use-it)
+  - [Where and when to use a request for change](#where-and-when-to-use-a-request-for-change)
+  - [Request for change steps](#request-for-change-steps)
+  - [Request for change example](#request-for-change-example)
+  - [You try it: Request for change](#you-try-it-request-for-change)
+  - [Review it: Request for change](#review-it-request-for-change)
 - [**2. Change Proposal**](#2-change-proposal) (6 videos)
-  - What is a change proposal and why use it?
-  - Where and when to use change proposals
-  - Steps to change proposal
-  - Example of a change proposal
-  - You try it: Change proposal
-  - Review it: Change proposal
+  - [What is a change proposal and why use it?](#what-is-a-change-proposal-and-why-use-it)
+  - [Where and when to use change proposals](#where-and-when-to-use-change-proposals)
+  - [Steps to change proposal](#steps-to-change-proposal)
+  - [Example of a change proposal](#example-of-a-change-proposal)
+  - [You try it: Change proposal](#you-try-it-change-proposal)
+  - [Review it: Change proposal](#review-it-change-proposal)
 - [**3. Change Evaluation**](#3-change-evaluation) (6 videos)
-  - What is change evaluation and why use it?
-  - Where and when to use change evaluation
-  - Steps in change evaluation
-  - Example of change evaluation
-  - You try it: Change evaluation
-  - Review it: Change evaluation
+  - [What is change evaluation and why use it?](#what-is-change-evaluation-and-why-use-it)
+  - [Where and when to use change evaluation](#where-and-when-to-use-change-evaluation)
+  - [Steps in change evaluation](#steps-in-change-evaluation)
+  - [Example of change evaluation](#example-of-change-evaluation)
+  - [You try it: Change evaluation](#you-try-it-change-evaluation)
+  - [Review it: Change evaluation](#review-it-change-evaluation)
 - [**4. Change Advisory Board**](#4-change-advisory-board) (6 videos)
-  - What is a change advisory board and why use it?
-  - Where and when to use a change advisory board
-  - Steps in change advisory board
-  - Example of change advisory board
-  - You try it: Change advisory board
-  - Review it: Change advisory board
+  - [What is a change advisory board and why use it?](#what-is-a-change-advisory-board-and-why-use-it)
+  - [Where and when to use a change advisory board](#where-and-when-to-use-a-change-advisory-board)
+  - [Steps in change advisory board](#steps-in-change-advisory-board)
+  - [Example of change advisory board](#example-of-change-advisory-board)
+  - [You try it: Change advisory board](#you-try-it-change-advisory-board)
+  - [Review it: Change advisory board](#review-it-change-advisory-board)
 - [**5. Change Scheduling**](#5-change-scheduling) (6 videos)
-  - What is change scheduling and why use it?
-  - Where and when  to use change scheduling
-  - Steps in change scheduling
-  - Example of change scheduling
-  - You try it: Change scheduling
-  - Review it: Change scheduling
+  - [What is change scheduling and why use it?](#what-is-change-scheduling-and-why-use-it)
+  - [Where and when  to use change scheduling](#where-and-when-to-use-change-scheduling)
+  - [Steps in change scheduling](#steps-in-change-scheduling)
+  - [Example of change scheduling](#example-of-change-scheduling)
+  - [You try it: Change scheduling](#you-try-it-change-scheduling)
+  - [Review it: Change scheduling](#review-it-change-scheduling)
 - [**6. Change Communication**](#6-change-communication) (6 videos)
-  - What is change communication and why use it?
-  - Where and whe to use change communication
-  - Steps in change communication
-  - Example of change communication
-  - You try it: Change communication
-  - Review it: Change communication
+  - [What is change communication and why use it?](#what-is-change-communication-and-why-use-it)
+  - [Where and whe to use change communication](#where-and-whe-to-use-change-communication)
+  - [Steps in change communication](#steps-in-change-communication)
+  - [Example of change communication](#example-of-change-communication)
+  - [You try it: Change communication](#you-try-it-change-communication)
+  - [Review it: Change communication](#review-it-change-communication)
 - [**7. Change Implementation**](#7-change-implementation) (6 videos)
-  - What is change implementation and why use it?
-  - Where and when to use a change implementation
-  - Steps in a change implementation
-  - Example of a change implementation
-  - You try it: Change implementation
-  - Review it: Change implementation
+  - [What is change implementation and why use it?](#what-is-change-implementation-and-why-use-it)
+  - [Where and when to use a change implementation](#where-and-when-to-use-a-change-implementation)
+  - [Steps in a change implementation](#steps-in-a-change-implementation)
+  - [Example of a change implementation](#example-of-a-change-implementation)
+  - [You try it: Change implementation](#you-try-it-change-implementation)
+  - [Review it: Change implementation](#review-it-change-implementation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further your journey into change enablement
+  - [Further your journey into change enablement](#further-your-journey-into-change-enablement)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stand apart as a change practitioner
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/stand-apart-as-a-change-practitioner?u=76281980)
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1)
 > **Speakers:** - think (1)
 
 #### Why change enablement?
@@ -220,8 +221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Swift (Programming Language)|Swift]] (1), data (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** require (2), let (1)
 > **Env Vars:** cab (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -305,7 +306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), continue (1)
+> **Frameworks & Libraries:** [[ITIL]] (1), business (1)
 > **Env Vars:** cab (2), itil (1), rfc (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -381,14 +382,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), power (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 1. Request for Change
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a request for change, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-request-for-change-and-why-use-it?u=76281980)
@@ -423,6 +424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Security]] (1), teams (1), [[Accountability]] (1)
 > **Env Vars:** rfc (1)
 > **Documentation:** rfc (1)
 > **Speakers:** - a (1)
@@ -482,9 +484,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (2), cloud (2), [[Databases]] (1), business (1)
 > **Env Vars:** rfc (10)
 > **Documentation:** rfc (10)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Request for change steps
@@ -606,9 +608,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), business (3), next (1)
 > **Env Vars:** rfc (7), cab (4)
 > **Documentation:** rfc (7)
-> **Code Keywords:** case, (2), type, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -743,10 +745,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), business (2), cloud (1), management (1), teams (1)
 > **Env Vars:** rfc (8), cab (3)
 > **Documentation:** rfc (8)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), require (1)
 > **Cross-References:** go back to (1)
 > **Tools:** colab (1)
 > **Warnings:** heads up (1)
@@ -846,6 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), next (2), game (1)
 > **Env Vars:** rfc (5), cab (1)
 > **Documentation:** rfc (5)
 > **CLI Commands:** make (2), find (1)
@@ -855,7 +858,7 @@ created: 2026-04-29
 
 ### 2. Change Proposal
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a change proposal and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-proposal-and-why-use-it?u=76281980)
@@ -890,6 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Decision-Making]] (1), leadership (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - not (1)
@@ -945,8 +949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), business (2), leadership (2), ai (2), data (2)
 > **Env Vars:** erp (1), crm (1), gdpr (1), roi (1)
-> **Code Keywords:** require (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1050,8 +1054,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), teams (3), leadership (3), [[IT Governance]] (2), [[Security]] (2)
 > **Env Vars:** cab (3), roi (2)
-> **Code Keywords:** case, (1), pass (1), require (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
@@ -1131,8 +1135,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), management (2), [[Performance Metrics]] (2), traffic (1), business (1)
 > **Env Vars:** roi (1), cab (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### You try it: Change proposal
@@ -1172,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review it: Change proposal
@@ -1256,6 +1260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), teams (3), business (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1263,7 +1268,7 @@ created: 2026-04-29
 
 ### 3. Change Evaluation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is change evaluation and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-evaluation-and-why-use-it?u=76281980)
@@ -1298,6 +1303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), data (1), next (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - every (1)
 
@@ -1368,8 +1374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Security]] (2), [[Performance Metrics]] (1), business (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [narrator] (1)
 
 #### Steps in change evaluation
@@ -1455,9 +1461,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), data (5), business (3), [[Security]] (2), leadership (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** if, (1)
 > **Env Vars:** cab (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1554,9 +1560,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Security]] (3), data (2), business (2), [[Real-Time]] (1)
 > **Env Vars:** cab (4), api (3), sla (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Tools:** colab (1)
 > **Analogies:** picture (1)
 > **Best Practices:** recommended (1)
@@ -1589,6 +1595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review it: Change evaluation
@@ -1654,6 +1661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), data (1), next (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
@@ -1661,7 +1669,7 @@ created: 2026-04-29
 
 ### 4. Change Advisory Board
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a change advisory board and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-advisory-board-and-why-use-it?u=76281980)
@@ -1690,6 +1698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Security]] (1)
 > **Env Vars:** cab (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1738,9 +1747,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), business (2), application (1), teams (1), cloud (1)
 > **Env Vars:** cab (11), erp (1), cabs (1), hipaa (1), gdpr (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [presenter] (1)
 
 #### Steps in change advisory board
@@ -1818,9 +1827,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), [[Security]] (7), teams (6)
 > **Env Vars:** cab (11)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
@@ -1909,9 +1918,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), business (9), management (2), next (1), teams (1)
 > **Env Vars:** cab (6)
 > **Documentation:** the documentation (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### You try it: Change advisory board
@@ -1937,6 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Security]] (1), teams (1), [[Decision-Making]] (1), management (1)
 > **Env Vars:** cab (3)
 > **Speakers:** - [instructor] (1)
 
@@ -2033,6 +2043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Decision-Making]] (1), next (1)
 > **Env Vars:** cab (4)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -2041,7 +2052,7 @@ created: 2026-04-29
 
 ### 5. Change Scheduling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is change scheduling and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-scheduling-and-why-use-it?u=76281980)
@@ -2066,6 +2077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), teams (1)
 > **CLI Commands:** find (1)
 > **Analogies:** think of it as (1)
 > **Prerequisites:** you'll need (1)
@@ -2124,6 +2136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), teams (1), [[Windows]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2222,6 +2235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), [[Security]] (3), next (1), data (1), teams (1)
 > **Analogies:** for example (9), such as (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [narrator] (1)
@@ -2317,7 +2331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), break. (1)
+> **Frameworks & Libraries:** business (6), teams (3), leadership (3), next (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
@@ -2345,6 +2359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review it: Change scheduling
@@ -2408,6 +2423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), teams (2), hit (1), business (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2415,7 +2431,7 @@ created: 2026-04-29
 
 ### 6. Change Communication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is change communication and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-communication-and-why-use-it?u=76281980)
@@ -2497,6 +2513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), business (2), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2626,8 +2643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), business (1), [[Security]] (1), [[Newsletters]] (1), [[Slack]] (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** self (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2717,8 +2734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Security]] (3), hr (2), product (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), self (1)
 > **Tools:** colab (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -2829,15 +2846,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), teams (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Change Implementation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is change implementation and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-implementation-and-why-use-it?u=76281980)
@@ -2864,6 +2881,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Speakers:** - change (1)
 
 #### Where and when to use a change implementation
@@ -2917,9 +2935,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), teams (2), [[Enterprise Software]] (1), [[Regulatory Compliance]] (1), business (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** gdpr (1), crm (1), erp (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [narrator] (1)
 
 #### Steps in a change implementation
@@ -3037,6 +3055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), teams (4), business (3), [[User Experience (UX)|User experience]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -3150,9 +3169,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[IT Strategy]] (4), business (2), teams (1), data (1)
 > **Tools:** colab (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [presenter] (1)
 
 #### You try it: Change implementation
@@ -3176,6 +3195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1)
 > **Speakers:** - [instructor] (1)
 
 #### Review it: Change implementation
@@ -3257,8 +3277,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Stakeholder Engagement]] (1), business (1), teams (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
@@ -3267,7 +3287,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further your journey into change enablement
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980)
@@ -3342,10 +3362,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (5), business (3), management (2), [[LinkedIn]] (2), [[Automation]] (1)
 > **Env Vars:** itil (5), rfc (1), bmc (1), cab (1)
 > **URLs:** [projectmanager.com](https://projectmanager.com) (3), [axelos.com](https://axelos.com) (1), [servicemanagement.com](https://servicemanagement.com) (1), [smartsheet.com](https://smartsheet.com) (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** for. (1), continue (1)
 > **Documentation:** rfc (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - congratulations (1)

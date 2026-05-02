@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/kotlin
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Kotlin%20Essential%20Training%20Functions%20Collections%20And%20I%20O.md)
@@ -45,62 +45,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome to Kotlin
-  - What you should know
-  - Using the exercise files on GitHub
+  - [Welcome to Kotlin](#welcome-to-kotlin)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files on GitHub](#using-the-exercise-files-on-github)
 - [**1. Setting Up Your Kotlin Development Environment**](#1-setting-up-your-kotlin-development-environment) (4 videos)
-  - Introducing IntelliJ IDEA
-  - Installing IntelliJ IDEA for macOS
-  - Installing IntelliJ IDEA for Windows
-  - Run your first Kotlin code
+  - [Introducing IntelliJ IDEA](#introducing-intellij-idea)
+  - [Installing IntelliJ IDEA for macOS](#installing-intellij-idea-for-macos)
+  - [Installing IntelliJ IDEA for Windows](#installing-intellij-idea-for-windows)
+  - [Run your first Kotlin code](#run-your-first-kotlin-code)
 - [**2. Common Data Types**](#2-common-data-types) (4 videos)
-  - Mutable and immutable data types
-  - Numeric data types
-  - Char and string data types
-  - Nullable types
+  - [Mutable and immutable data types](#mutable-and-immutable-data-types)
+  - [Numeric data types](#numeric-data-types)
+  - [Char and string data types](#char-and-string-data-types)
+  - [Nullable types](#nullable-types)
 - [**3. Working with Functions**](#3-working-with-functions) (6 videos)
-  - Basic functions
-  - Function parameters
-  - Functional types
-  - Higher-order functions
-  - Challenge: Write a name formatter function
-  - Solution: Write a name formatter function
+  - [Basic functions](#basic-functions)
+  - [Function parameters](#function-parameters)
+  - [Functional types](#functional-types)
+  - [Higher-order functions](#higher-order-functions)
+  - [Challenge: Write a name formatter function](#challenge-write-a-name-formatter-function)
+  - [Solution: Write a name formatter function](#solution-write-a-name-formatter-function)
 - [**4. Control Flow Structures**](#4-control-flow-structures) (8 videos)
-  - if and when statements
-  - Statements vs. expressions
-  - try/catch as control flow
-  - Smart casting
-  - while loops
-  - for loops
-  - Challenge: Replace an if/else expression with a when expression
-  - Solution: Replace an if/else expression with a when expression
+  - [if and when statements](#if-and-when-statements)
+  - [Statements vs. expressions](#statements-vs-expressions)
+  - [try/catch as control flow](#trycatch-as-control-flow)
+  - [Smart casting](#smart-casting)
+  - [while loops](#while-loops)
+  - [for loops](#for-loops)
+  - [Challenge: Replace an if/else expression with a when expression](#challenge-replace-an-ifelse-expression-with-a-when-expression)
+  - [Solution: Replace an if/else expression with a when expression](#solution-replace-an-ifelse-expression-with-a-when-expression)
 - [**5. Debugging Kotlin Code**](#5-debugging-kotlin-code) (3 videos)
-  - Setting breakpoints
-  - Stepping through code
-  - Evaluate expressions and add watches
+  - [Setting breakpoints](#setting-breakpoints)
+  - [Stepping through code](#stepping-through-code)
+  - [Evaluate expressions and add watches](#evaluate-expressions-and-add-watches)
 - [**6. Working with Collections**](#6-working-with-collections) (7 videos)
-  - Arrays
-  - Lists
-  - Sets and maps
-  - Working with collections
-  - Sequences
-  - Challenge: Filtering a list of data
-  - Solution: Filtering a list of data
+  - [Arrays](#arrays)
+  - [Lists](#lists)
+  - [Sets and maps](#sets-and-maps)
+  - [Working with collections](#working-with-collections)
+  - [Sequences](#sequences)
+  - [Challenge: Filtering a list of data](#challenge-filtering-a-list-of-data)
+  - [Solution: Filtering a list of data](#solution-filtering-a-list-of-data)
 - [**7. Working with Inputs and Outputs**](#7-working-with-inputs-and-outputs) (5 videos)
-  - Command-line arguments
-  - Receiving user input
-  - Read and write to files
-  - Challenge: Parsing a list of data from a file
-  - Solution: Parsing a list of data from a file
+  - [Command-line arguments](#command-line-arguments)
+  - [Receiving user input](#receiving-user-input)
+  - [Read and write to files](#read-and-write-to-files)
+  - [Challenge: Parsing a list of data from a file](#challenge-parsing-a-list-of-data-from-a-file)
+  - [Solution: Parsing a list of data from a file](#solution-parsing-a-list-of-data-from-a-file)
 - [**8. Testing Kotlin Code**](#8-testing-kotlin-code) (2 videos)
-  - Writing JUnit tests
-  - Mocking data
+  - [Writing JUnit tests](#writing-junit-tests)
+  - [Mocking data](#mocking-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Kotlin
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980)
@@ -127,6 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (8), [[Programming]] (1), [[Android]] (1), [[LinkedIn]] (1)
 > **Versions:** 1.0 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [nate] (1)
@@ -146,6 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (1), [[Programming]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
@@ -208,11 +210,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (3), [[Version Control]] (2), [[Search]] (1)
 > **Tools:** intellij (5), github (3)
 > **CLI Commands:** git (3), find (2)
 > **Env Vars:** url (2), vcs (2)
 > **UI Navigation:** dropdown (2), select the (2)
-> **Code Keywords:** default, (1), for. (1), let (1)
 > **Exercise Files:** download the (2), exercise files (1)
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
@@ -220,7 +222,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Kotlin Development Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing IntelliJ IDEA
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980)
@@ -265,9 +267,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (9), [[Programming]] (2), [[Software Projects]] (1), functional (1), [[Java]] (1)
 > **Tools:** intellij (8), command line (2)
 > **Env Vars:** ide (4)
-> **Code Keywords:** interface (1), this, (1)
 > **Versions:** version
 2021 (1), 3.1 (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -335,10 +337,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Kotlin]] (2), [[Windows]] (2), [[Android]] (1), web (1)
 > **Tools:** intellij (16)
 > **Env Vars:** ide (4), cpu (1)
 > **Prerequisites:** install (4)
-> **Code Keywords:** continue (2), let (1)
 > **Code Identifiers:** macos (2)
 > **UI Navigation:** open the (1), click on (1)
 > **CLI Commands:** find (1)
@@ -407,11 +409,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Kotlin]] (2), application (2), [[Android]] (1), web (1)
 > **Tools:** intellij (16)
 > **Prerequisites:** install (9), setup (1)
 > **Env Vars:** ide (3), idea (1)
 > **UI Navigation:** select the (1), navigate to (1), click on (1)
-> **Code Keywords:** let (1), case, (1)
 > **URLs:** [jetbrains.com](https://jetbrains.com) (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - before (1)
@@ -511,8 +513,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (12), application (4), [[Java]] (4), next (2), [[Programming]] (1)
 > **Env Vars:** jdk (10), jvm (3)
-> **Code Keywords:** function (3), case, (3), let (2), interface (1), finally, (1)
 > **Tools:** intellij (6)
 > **Versions:** version 8 (3), version 15 (2)
 > **File Paths:** main.kt (3)
@@ -523,7 +525,7 @@ created: 2026-04-29
 
 ### 2. Common Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mutable and immutable data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980)
@@ -636,7 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), var (3), case, (2), let (2), case. (1)
+> **Frameworks & Libraries:** [[Kotlin]] (8), next (2), feature (1), [[Programming]] (1), hit (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** ide (1)
 > **Cross-References:** go back to (1)
@@ -779,7 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (11), type, (9), type. (4), let (3), default, (2)
+> **Frameworks & Libraries:** data (8), [[Kotlin]] (3), application (1)
 > **Code Identifiers:** toint (2), aint (1), anotherint (1), abyte (1), ashort (1)
 > **Versions:** 10.1 (2), 5.2 (2), 5.5 (1), 10.5 (1), 10.9 (1)
 > **Analogies:** for example (2)
@@ -1012,8 +1014,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (17), data (7), [[Programming]] (1), next (1), power (1)
 > **Code Identifiers:** anumber (4), somestring (4), isnotblank (4), trimmargin (2), isempty (2)
-> **Code Keywords:** let (8), case, (4), type. (2), function (2), pass (1)
 > **Analogies:** such as (3), for example (3), just like (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
@@ -1124,7 +1126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), default, (1), default. (1), case, (1)
+> **Frameworks & Libraries:** [[Kotlin]] (7), data (2), [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1132,7 +1134,7 @@ created: 2026-04-29
 
 ### 3. Working with Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980)
@@ -1321,7 +1323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (55), let (6), public (5), case, (3), type. (2)
+> **Frameworks & Libraries:** [[Kotlin]] (9), application (1)
 > **Definitions:** defined as (1), known as (1), is a  (1), is an  (1)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
@@ -1469,7 +1471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), pass (11), let (7), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Kotlin]] (10), feature (2), hit (1)
 > **Code Identifiers:** getgreeting (12), thingtogreet (11)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1651,7 +1653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (37), type. (6), lambda (6), case, (4), pass (4)
+> **Frameworks & Libraries:** [[Kotlin]] (10), functional (7), [[Programming]] (2), data (1), hit (1)
 > **Code Identifiers:** greetingfunction (9), thingtogreet (5)
 > **Definitions:** is a  (2), known as (1), is called (1)
 > **Analogies:** such as (1), just like (1), imagine (1)
@@ -1788,7 +1790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (35), lambda (16), pass (8), let (2), case, (1)
+> **Frameworks & Libraries:** [[Kotlin]] (5), functional (4), power (2), next (2), [[Algorithms]] (2)
 > **Code Identifiers:** printcalculatedvalue (11), printcalculatedvalues (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **CLI Commands:** make (2)
@@ -1816,7 +1818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7)
+> **Frameworks & Libraries:** functional (1)
 > **Speakers:** - to (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1927,7 +1929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (25), pass (8), let (3), lambda (2), case, (1)
+> **Frameworks & Libraries:** power (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -1935,7 +1937,7 @@ created: 2026-04-29
 
 ### 4. Control Flow Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### if and when statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980)
@@ -2136,7 +2138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (6), if, (4), this, (3), else, (3)
+> **Frameworks & Libraries:** [[Kotlin]] (4), [[Java]] (1), hit (1)
 > **Code Identifiers:** somevariable (18)
 > **Analogies:** just like (4), similar to (1), analogous to (1)
 > **Env Vars:** max_value (4), ide (1)
@@ -2245,7 +2247,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (6), else, (4), if, (3), else. (2)
 > **Code Identifiers:** somevariable (9), getmessage (2), getmessagewithwhen (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
@@ -2354,7 +2355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (3), let (3), case, (3), catch. (2), catch, (2)
+> **Frameworks & Libraries:** [[Kotlin]] (1), application (1), [[Control Flow]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -2562,7 +2563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (8), type. (4), pass (4), this, (1)
+> **Frameworks & Libraries:** data (3), [[Kotlin]] (3), power (2), generic (1), next (1)
 > **Code Identifiers:** checktype (6), agenericvariable (3), anintvariable (2)
 > **Definitions:** is a  (7), is an  (2), means that (2)
 > **CLI Commands:** make (7)
@@ -2662,7 +2663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Kotlin]] (2), application (1), [[Programming]] (1), next (1), data (1)
 > **Prerequisites:** set up (3)
 > **Best Practices:** avoid doing (1)
 > **Warnings:** be careful (1)
@@ -2743,7 +2744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), case, (3), case. (1), while. (1)
+> **Frameworks & Libraries:** [[Kotlin]] (3), [[Programming]] (1), [[Forms]] (1), data (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2771,7 +2772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8)
+> **Frameworks & Libraries:** [[Kotlin]] (1)
 > **Code Identifiers:** getoutput (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2867,7 +2868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), case, (4), let (3), case. (3), type, (1)
+> **Frameworks & Libraries:** hit (2), next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Code Identifiers:** getoutput (4)
 > **Non-Speech:** (keyboard clicking) (3), (gentle upbeat music) (1)
 > **Env Vars:** ide (2)
@@ -2879,7 +2880,7 @@ created: 2026-04-29
 
 ### 5. Debugging Kotlin Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting breakpoints
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980)
@@ -2974,7 +2975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Debugging]] (7), application (4), hit (4), database (1), [[Kotlin]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** iseven (2)
 > **UI Navigation:** in the toolbar (1), go to (1)
@@ -3128,7 +3129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (6), case, (3), continue (1), default, (1)
+> **Frameworks & Libraries:** next (9), hit (7), [[Debugging]] (4), application (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** right-click (2)
 > **Speakers:** - [speaker] (1)
@@ -3218,7 +3219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Debugging]] (5), application (2), hit (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** kind of like (1), it's like (1)
 > **Definitions:** known as (1)
@@ -3227,7 +3228,7 @@ created: 2026-04-29
 
 ### 6. Working with Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980)
@@ -3374,7 +3375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), pass (13), let (9), lambda (7), case, (6)
+> **Frameworks & Libraries:** [[Kotlin]] (11), data (4), [[Programming]] (3), functional (1), next (1)
 > **Code Identifiers:** greetthings (4), arrayofnulls (2), foreach (2), arrayof (1), sizeofarray (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), is a  (2)
@@ -3541,7 +3542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (13), function (7), let (5), case, (5), type. (4)
+> **Frameworks & Libraries:** [[Kotlin]] (10), [[Programming]] (2), generic (2), data (1), [[Java]] (1)
 > **Code Identifiers:** listofint (7), emptylist (6), listof (4), alist (3), stringlist (2)
 > **CLI Commands:** make (1), find (1), cat (1)
 > **Env Vars:** ide (1), abi (1), api (1)
@@ -3745,7 +3746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), pass (14), case, (5), let (4), continue (2)
+> **Frameworks & Libraries:** [[Kotlin]] (13), data (4), [[Java]] (3), [[Programming]] (1), next (1)
 > **Code Identifiers:** setof (5), testscores (5), mapof (4), mutablesetof (3), containskey (2)
 > **Versions:** 91.2 (2), 79.1 (2), 84.5 (1)
 > **Definitions:** is a  (1), is an  (1), is called (1)
@@ -3880,8 +3881,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kotlin]] (7), data (4), [[Programming]] (3), [[JavaScript]] (2), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** readonlylist (5), readonlyset (4), mutableset (4), mutablemap (4), isempty (4)
-> **Code Keywords:** function (12), let (7), case, (5), lambda (3), case. (1)
 > **CLI Commands:** make (3), python (2), find (1)
 > **Analogies:** for example (3), such as (1)
 > **Best Practices:** the key is (1)
@@ -3984,7 +3985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), pass (1), this: (1)
+> **Frameworks & Libraries:** [[Kotlin]] (4), next (2), [[Programming]] (1), [[Java]] (1), application (1)
 > **Analogies:** such as (3), imagine (2), similar to (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** sequenceof (1)
@@ -4023,10 +4024,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (2)
 > **Tools:** intellij (2)
 > **File Paths:** testscores.kt (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4124,7 +4125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), lambda (3), this, (2), case, (2), let (1)
+> **Frameworks & Libraries:** data (5), [[Kotlin]] (2), [[Programming]] (1), next (1)
 > **File Paths:** main.kt (2), test-scores.kt (2)
 > **Code Identifiers:** tosortedmap (1), sortedby (1), foreach (1)
 > **Versions:** 62.1 (1), 66.1 (1), 72.1 (1)
@@ -4136,7 +4137,7 @@ created: 2026-04-29
 
 ### 7. Working with Inputs and Outputs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980)
@@ -4235,7 +4236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), pass (4), case, (2), this, (2)
+> **Frameworks & Libraries:** [[Kotlin]] (4), next (2), [[Java]] (2), application (1), hit (1)
 > **Tools:** command line (4), intellij (2)
 > **UI Navigation:** dropdown (2), go to (1)
 > **CLI Commands:** make (1)
@@ -4359,7 +4360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), pass (1), this, (1)
+> **Frameworks & Libraries:** prompt (5), hit (3), [[Java]] (2), [[Gradle]] (2), next (1)
 > **Code Identifiers:** readline (7), isvalidfile (1), isfile (1)
 > **Definitions:** is a  (5)
 > **File Paths:** file.kt (4)
@@ -4465,7 +4466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (3), lambda (3), function (2), this. (1)
+> **Frameworks & Libraries:** data (3), [[Kotlin]] (3), hit (2)
 > **File Paths:** sorted-scores.txt (4), scores.txt (3), main.kt (1), sortedscores.txt (1)
 > **Code Identifiers:** scoresfile (3), readlines (1), outputfile (1), writelines (1)
 > **Env Vars:** ide (1), txt (1)
@@ -4499,6 +4500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1)
 > **File Paths:** scores.txt (2), sorted.txt (1), main.kt (1)
 > **Tools:** intellij (3)
 > **CLI Commands:** find (1)
@@ -4664,8 +4666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), next (2), hit (2), data (1), api (1)
 > **Code Identifiers:** inputfile (5), parsedscores (5), rawscores (4), readlines (3), sortedbydescending (3)
-> **Code Keywords:** let (7), return. (3), pass (2), function (2), continue (1)
 > **File Paths:** scores.txt (4), sorted.txt (3)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1), find (1)
@@ -4676,7 +4678,7 @@ created: 2026-04-29
 
 ### 8. Testing Kotlin Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing JUnit tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980)
@@ -4865,7 +4867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), assert (6), pass (6), class. (5), this, (3)
+> **Frameworks & Libraries:** [[Kotlin]] (9), [[JUnit]] (9), [[Gradle]] (5), hit (3), [[Programming]] (1)
 > **Code Identifiers:** getrandom (7), nextint (2), testimplementation (1), verifytrueisalwaystrue (1)
 > **UI Navigation:** navigate to (3), scroll down (2), in the menu (1), right-click (1), dropdown (1)
 > **CLI Commands:** make (5), find (3)
@@ -5007,7 +5009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (10), class. (2), pass (2), public (1), class, (1)
+> **Frameworks & Libraries:** [[Analytics]] (6), [[Kotlin]] (4), [[Java]] (2), [[Gradle]] (2), data (1)
 > **Code Identifiers:** analyticsclient (6), submitclicked (6), viewmodel (3), trackevent (2), submitclick (2)
 > **Definitions:** is called (9), is a  (2)
 > **UI Navigation:** go to (1), navigate to (1), right-click (1)
@@ -5019,7 +5021,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980)
@@ -5042,7 +5044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Kotlin]] (10), data (1), [[Programming]] (1), [[GitHub]] (1), next (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

@@ -31,7 +31,7 @@ tags:
   - skill/career-development
   - skill/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Computing%20Careers%20and%20Certifications.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - How to design a cloud career pathway
+  - [How to design a cloud career pathway](#how-to-design-a-cloud-career-pathway)
 - [**1. Overview of Career Roles**](#1-overview-of-career-roles) (5 videos)
-  - Why do I need a cloud career guide?
-  - What are infrastructure roles?
-  - What are developer roles?
-  - What are data science roles?
-  - What are architect roles?
+  - [Why do I need a cloud career guide?](#why-do-i-need-a-cloud-career-guide)
+  - [What are infrastructure roles?](#what-are-infrastructure-roles)
+  - [What are developer roles?](#what-are-developer-roles)
+  - [What are data science roles?](#what-are-data-science-roles)
+  - [What are architect roles?](#what-are-architect-roles)
 - [**2. Infrastructure Skills**](#2-infrastructure-skills) (3 videos)
-  - What are networking and monitoring tasks?
-  - What are security and observability tasks?
-  - What are scripting and automation tasks?
+  - [What are networking and monitoring tasks?](#what-are-networking-and-monitoring-tasks)
+  - [What are security and observability tasks?](#what-are-security-and-observability-tasks)
+  - [What are scripting and automation tasks?](#what-are-scripting-and-automation-tasks)
 - [**3. Developer Skills**](#3-developer-skills) (3 videos)
-  - What are application development tasks?
-  - What are unstructured and structured data tasks?
-  - What are programming languages and patterns skills?
+  - [What are application development tasks?](#what-are-application-development-tasks)
+  - [What are unstructured and structured data tasks?](#what-are-unstructured-and-structured-data-tasks)
+  - [What are programming languages and patterns skills?](#what-are-programming-languages-and-patterns-skills)
 - [**4. Cloud Certifications**](#4-cloud-certifications) (4 videos)
-  - What are AWS certifications?
-  - What are Azure certifications?
-  - What are GCP certifications?
-  - What are NVIDIA or Databricks certifications?
+  - [What are AWS certifications?](#what-are-aws-certifications)
+  - [What are Azure certifications?](#what-are-azure-certifications)
+  - [What are GCP certifications?](#what-are-gcp-certifications)
+  - [What are NVIDIA or Databricks certifications?](#what-are-nvidia-or-databricks-certifications)
 - [**5. Cloud Career Paths**](#5-cloud-career-paths) (4 videos)
-  - Which skills for network admin to cloud infrastructure?
-  - Which skills for developer to cloud developer?
-  - Which skills for data scientist to cloud data scientist?
-  - Which skills for architect to cloud architect?
+  - [Which skills for network admin to cloud infrastructure?](#which-skills-for-network-admin-to-cloud-infrastructure)
+  - [Which skills for developer to cloud developer?](#which-skills-for-developer-to-cloud-developer)
+  - [Which skills for data scientist to cloud data scientist?](#which-skills-for-data-scientist-to-cloud-data-scientist)
+  - [Which skills for architect to cloud architect?](#which-skills-for-architect-to-cloud-architect)
 - [**6. GenAI and Cloud Careers**](#6-genai-and-cloud-careers) (5 videos)
-  - Use GenAI for cloud developers
-  - Use GenAI for cloud DevOps
-  - Use GenAI for cloud SecOps
-  - Use GenAI for cloud DataOps
-  - Use GenAI for cloud architecture
+  - [Use GenAI for cloud developers](#use-genai-for-cloud-developers)
+  - [Use GenAI for cloud DevOps](#use-genai-for-cloud-devops)
+  - [Use GenAI for cloud SecOps](#use-genai-for-cloud-secops)
+  - [Use GenAI for cloud DataOps](#use-genai-for-cloud-dataops)
+  - [Use GenAI for cloud architecture](#use-genai-for-cloud-architecture)
 - [**Conclusion**](#conclusion) (1 videos)
-  - How can I learn more about a career in the cloud?
+  - [How can I learn more about a career in the cloud?](#how-can-i-learn-more-about-a-career-in-the-cloud)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to design a cloud career pathway
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-to-design-a-cloud-career-pathway?u=76281980)
@@ -103,13 +103,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (2), career (2), [[Generative AI Tools]] (1)
 > **Speakers:** - designing (1)
 
 
 ### 1. Overview of Career Roles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do I need a cloud career guide?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980)
@@ -140,6 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), career (2), business (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), aws (1)
 > **Env Vars:** aws (1), gcp (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** such as (1)
@@ -175,6 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Security]] (4), [[DevOps]] (4), teams (1), application (1)
 > **Analogies:** such as (2)
 > **Speakers:** - it (1)
 > **Non-Speech:** (gentle music) (1)
@@ -210,6 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), teams (3), [[DevOps]] (2), [[Security]] (1), feature (1)
 > **Env Vars:** sdlc (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -241,6 +244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), cloud (2), [[Generative AI]] (1), [[Neural Networks]] (1), [[Algorithms]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sas (1)
 > **Speakers:** - data (1)
@@ -295,9 +299,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), next (3), [[Security]] (2), data (2), [[DevOps]] (1)
 > **Env Vars:** sql (1), olap (1), saml (1), sso (1)
 > **CLI Commands:** docker (1)
-> **Code Keywords:** public (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (mellow instrumental music) (1)
@@ -305,7 +309,7 @@ created: 2026-04-29
 
 ### 2. Infrastructure Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are networking and monitoring tasks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980)
@@ -328,7 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** cloud (5), [[Network Security]] (1), management (1), [[IP Addressing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (gentle music) (1)
@@ -364,6 +368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Security]] (3), data (2), [[Privacy Protection]] (1)
 > **Env Vars:** gdpr (1), hippa (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -403,11 +408,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Automation]] (2), application (2), web (2), ai (2)
 > **Analogies:** such as (4)
 > **CLI Commands:** aws (1), python (1), terraform (1)
 > **Env Vars:** ide (2), aws (1)
 > **Tools:** aws console (1), vs code (1), github (1)
-> **Code Keywords:** interface (1), this, (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - scripting (1)
@@ -415,7 +420,7 @@ created: 2026-04-29
 
 ### 3. Developer Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are application development tasks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980)
@@ -438,6 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), application (2), [[Application Development]] (1), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** api (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - application (1)
@@ -468,8 +474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), cloud (3), database (2), [[Scalability]] (1), game (1)
 > **Env Vars:** sme (1), tco (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - on (1)
 > **Non-Speech:** (mellow music) (1)
@@ -513,8 +519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), cloud (5), [[Programming]] (2), [[Python (Programming Language)|Python]] (1), [[Terraform]] (1)
 > **CLI Commands:** python (1), terraform (1), docker (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** awsq (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - two (1)
@@ -523,7 +529,7 @@ created: 2026-04-29
 
 ### 4. Cloud Certifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are AWS certifications?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980)
@@ -650,7 +656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), new, (2), for. (2), while, (1)
+> **Frameworks & Libraries:** cloud (7), ai (5), [[Security]] (3), data (2), [[Prompt Engineering]] (2)
 > **Definitions:** is a  (5), in other words (1)
 > **UI Navigation:** scroll down (2), go to (1), click on (1)
 > **CLI Commands:** aws (1), make (1), find (1)
@@ -714,7 +720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), cloud (5), data (4), ai (4), [[Microsoft]] (3)
 > **CLI Commands:** make (2), find (1), aws (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (1), go to (1)
@@ -800,8 +806,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (14), [[Google Cloud Platform (GCP)|Google cloud]] (9), [[Google]] (6), data (6), career (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), this. (1)
 > **Documentation:** the documentation (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -866,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for, (1), function (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), cloud (2), ai (1), [[Hardware]] (1)
 > **Analogies:** for example (2), think of it like (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** nvidia (2)
@@ -876,7 +882,7 @@ created: 2026-04-29
 
 ### 5. Cloud Career Paths
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Which skills for network admin to cloud infrastructure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980)
@@ -905,6 +911,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), [[Security]] (6), [[DevOps]] (2), management (1), aws (1)
 > **Env Vars:** sre (1), aws (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** aws (1)
@@ -938,6 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), ai (3), [[DevOps]] (2), next (1), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
 > **Analogies:** such as (1)
@@ -966,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** cloud (6), data (4), [[Relational Databases]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - often (1)
@@ -1003,6 +1011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), career (2), application (1), business (1), [[DevOps]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
@@ -1011,7 +1020,7 @@ created: 2026-04-29
 
 ### 6. GenAI and Cloud Careers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use GenAI for cloud developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980)
@@ -1114,7 +1123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), function (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), cloud (5), prompt (3), web (3), feature (2)
 > **CLI Commands:** find (4)
 > **Analogies:** similar to (1), think of it like (1), for example (1)
 > **Env Vars:** iei (1), poc (1)
@@ -1190,9 +1199,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (7), cloud (5), [[ChatGPT]] (4), aws (3), [[Amazon EC2|Ec2]] (2)
 > **CLI Commands:** aws (3), make (2), find (1)
 > **Env Vars:** aws (3), ec2 (2), gpu (1)
-> **Code Keywords:** let (1), this. (1), interface (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
@@ -1280,7 +1289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), public (3), let (3), default, (1), this, (1)
+> **Frameworks & Libraries:** cloud (12), [[Gemini]] (9), [[Security]] (6), [[Google]] (4), [[DevOps]] (3)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **Env Vars:** gcp (2), llm (1)
 > **Analogies:** similar to (1), just like (1), kind of like (1)
@@ -1366,7 +1375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), public (2), this, (1), new. (1)
+> **Frameworks & Libraries:** data (13), [[SQL]] (4), cloud (3), [[Python (Programming Language)|Python]] (2), [[Generative AI]] (1)
 > **Env Vars:** sql (4), cdc (1), gcp (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
@@ -1465,8 +1474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), [[SQL]] (8), [[Gemini]] (5), prompt (4), application (3)
 > **Env Vars:** sql (8), poc (3), gke (3), rag (2), gcp (2)
-> **Code Keywords:** this, (2), pass (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** best practice (2), recommended (1)
 > **CLI Commands:** gcloud (1)
@@ -1476,7 +1485,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How can I learn more about a career in the cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980)
@@ -1519,9 +1528,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), career (3), aws (2), [[Microsoft]] (1), [[Google]] (1)
 > **CLI Commands:** aws (2), go build (2), find (1)
 > **Env Vars:** aws (2), cto (1)
-> **Code Keywords:** try, (1), let (1)
 > **Analogies:** such as (2)
 > **Tools:** github (1)
 > **Speakers:** - aws (1)

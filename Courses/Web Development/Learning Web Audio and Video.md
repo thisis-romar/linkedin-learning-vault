@@ -30,7 +30,7 @@ tags:
   - skill/web-standards
   - skill/interactive-web-content
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20Web%20Audio%20and%20Video.md)
@@ -49,60 +49,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Build interactive audio and video into your websites and applications
-  - What you should know
-  - Use the exercise files
-  - What's new in this update
+  - [Build interactive audio and video into your websites and applications](#build-interactive-audio-and-video-into-your-websites-and-applications)
+  - [What you should know](#what-you-should-know)
+  - [Use the exercise files](#use-the-exercise-files)
+  - [What's new in this update](#whats-new-in-this-update)
 - [**1. Get Started with Web-Based Media**](#1-get-started-with-web-based-media) (6 videos)
-  - Set up your environment
-  - Create a new document
-  - Link to media content
-  - Use embedded media
-  - Challenge: Remove the iframe border
-  - Solution: Remove the iframe border
+  - [Set up your environment](#set-up-your-environment)
+  - [Create a new document](#create-a-new-document)
+  - [Link to media content](#link-to-media-content)
+  - [Use embedded media](#use-embedded-media)
+  - [Challenge: Remove the iframe border](#challenge-remove-the-iframe-border)
+  - [Solution: Remove the iframe border](#solution-remove-the-iframe-border)
 - [**2. Work with Audio Elements**](#2-work-with-audio-elements) (7 videos)
-  - Modify your document for audio
-  - Specify an audio source
-  - Specify multiple audio sources
-  - Include fallback content
-  - Additional audio attributes
-  - Challenge: Increase audio accessibility with tags
-  - Solution: Increase audio accessibility with tags
+  - [Modify your document for audio](#modify-your-document-for-audio)
+  - [Specify an audio source](#specify-an-audio-source)
+  - [Specify multiple audio sources](#specify-multiple-audio-sources)
+  - [Include fallback content](#include-fallback-content)
+  - [Additional audio attributes](#additional-audio-attributes)
+  - [Challenge: Increase audio accessibility with tags](#challenge-increase-audio-accessibility-with-tags)
+  - [Solution: Increase audio accessibility with tags](#solution-increase-audio-accessibility-with-tags)
 - [**3. Work with Video Elements**](#3-work-with-video-elements) (6 videos)
-  - Modify your document for video
-  - Specify height and width
-  - Use a poster image
-  - Media accessibility
-  - Challenge: Fill the background with looping video
-  - Solution: Fill the background with looping video
+  - [Modify your document for video](#modify-your-document-for-video)
+  - [Specify height and width](#specify-height-and-width)
+  - [Use a poster image](#use-a-poster-image)
+  - [Media accessibility](#media-accessibility)
+  - [Challenge: Fill the background with looping video](#challenge-fill-the-background-with-looping-video)
+  - [Solution: Fill the background with looping video](#solution-fill-the-background-with-looping-video)
 - [**4. Create Media Playback Controls**](#4-create-media-playback-controls) (6 videos)
-  - Disable default media controls
-  - Add playback buttons
-  - Include text elements
-  - Create a progress bar
-  - Challenge: Overlay the media controls
-  - Solution: Overlay the media controls
+  - [Disable default media controls](#disable-default-media-controls)
+  - [Add playback buttons](#add-playback-buttons)
+  - [Include text elements](#include-text-elements)
+  - [Create a progress bar](#create-a-progress-bar)
+  - [Challenge: Overlay the media controls](#challenge-overlay-the-media-controls)
+  - [Solution: Overlay the media controls](#solution-overlay-the-media-controls)
 - [**5. Style Media Playback Controls**](#5-style-media-playback-controls) (6 videos)
-  - Define CSS styles in a document
-  - Design your buttons
-  - Style your text
-  - Design your progress bar
-  - Challenge: Use web fonts
-  - Solution: Use web fonts
+  - [Define CSS styles in a document](#define-css-styles-in-a-document)
+  - [Design your buttons](#design-your-buttons)
+  - [Style your text](#style-your-text)
+  - [Design your progress bar](#design-your-progress-bar)
+  - [Challenge: Use web fonts](#challenge-use-web-fonts)
+  - [Solution: Use web fonts](#solution-use-web-fonts)
 - [**6. Work with the Media API**](#6-work-with-the-media-api) (7 videos)
-  - Overview of media API
-  - Listen for Media events
-  - Program button controls
-  - Dynamic time display
-  - Wire up the progress bar
-  - Challenge: Show and hide the controls
-  - Solution: Show and hide the controls
+  - [Overview of media API](#overview-of-media-api)
+  - [Listen for Media events](#listen-for-media-events)
+  - [Program button controls](#program-button-controls)
+  - [Dynamic time display](#dynamic-time-display)
+  - [Wire up the progress bar](#wire-up-the-progress-bar)
+  - [Challenge: Show and hide the controls](#challenge-show-and-hide-the-controls)
+  - [Solution: Show and hide the controls](#solution-show-and-hide-the-controls)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further information
+  - [Further information](#further-information)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build interactive audio and video into your websites and applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/build-interactive-audio-and-video-into-your-websites-and-applications?u=76281980)
@@ -127,8 +127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), [[HTML]] (1), css (1), [[JavaScript]] (1), next (1)
 > **Env Vars:** html5 (2), html (1), css (1), api (1)
-> **Code Keywords:** finally, (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [joseph] (1)
 
@@ -155,6 +155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[HTML]] (3), css (2), [[JavaScript]] (2), [[Programming]] (1)
 > **Env Vars:** html (3), css (2), html5 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -181,6 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **File Paths:** index.html (1), snippets.txt (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
@@ -207,7 +209,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Web-Based Media
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up your environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980)
@@ -256,9 +258,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Windows]] (3), [[HTML]] (1), [[Microsoft]] (1), cross-platform (1)
 > **Tools:** visual studio (9)
 > **Prerequisites:** install (6), configure (1), setup (1)
-> **Code Keywords:** this. (1)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **Env Vars:** html (1)
 > **UI Navigation:** double-click (1)
@@ -312,8 +314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), data (1)
 > **Env Vars:** html (4)
-> **Code Keywords:** let (2)
 > **File Paths:** index.html (1)
 > **Tools:** visual studio (1)
 > **UI Navigation:** drag and drop (1)
@@ -388,8 +390,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[HTML]] (2), css (2), next (1), hit (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (4)
 > **Tools:** visual studio (3)
 > **UI Navigation:** click on (2), in the tab (1)
 > **Env Vars:** css (2)
@@ -428,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[HTML]] (3), hr (1), hit (1), web (1)
 > **UI Navigation:** scroll down (1), toggle (1)
 > **Ports:** port 5500 (1)
 > **Definitions:** is a  (1)
@@ -447,7 +449,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -468,6 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1), [[HTML]] (1)
 > **Env Vars:** css (1), html (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -476,7 +478,7 @@ created: 2026-04-29
 
 ### 2. Work with Audio Elements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modify your document for audio
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980)
@@ -527,8 +529,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), web (3), [[Google]] (1)
 > **Env Vars:** html (4)
-> **Code Keywords:** let (2), delete (1)
 > **Tools:** visual studio (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -566,8 +568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), hit (1)
 > **Env Vars:** mp4 (2), html (1), src (1)
-> **Code Keywords:** let (2)
 > **Tools:** visual studio (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -636,7 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), case, (1)
+> **Frameworks & Libraries:** web (2), [[Google]] (1)
 > **Env Vars:** mime (2), mpeg (1), ogg (1)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
@@ -676,6 +678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), web (2), [[Google]] (1)
 > **Env Vars:** html (4), mp3 (2), ogg (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** source code (1)
@@ -747,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), override (1)
+> **Frameworks & Libraries:** [[Metadata]] (5), web (4), [[User Experience (UX)|User experience]] (1), data (1)
 > **Tools:** visual studio (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
@@ -766,6 +769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[HTML]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -791,6 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), css (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** find (1)
 > **Warnings:** note that (1)
@@ -800,7 +805,7 @@ created: 2026-04-29
 
 ### 3. Work with Video Elements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modify your document for video
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-video?u=76281980)
@@ -827,7 +832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (1), web (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -872,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), override (1)
+> **Frameworks & Libraries:** web (2)
 > **Env Vars:** src (2)
 > **Cross-References:** go back to (1)
 > **Tools:** visual studio (1)
@@ -923,7 +928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), static (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Adobe Photoshop]] (1), data (1)
 > **Env Vars:** png (2)
 > **Tools:** visual studio (2)
 > **CLI Commands:** find (1)
@@ -1009,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), self (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1030,6 +1035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft upbeat music) (1)
 
@@ -1066,8 +1072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), css (1)
 > **Env Vars:** html (1), css (1)
-> **Code Keywords:** let (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -1076,7 +1082,7 @@ created: 2026-04-29
 
 ### 4. Create Media Playback Controls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Disable default media controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980)
@@ -1107,7 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), this, (1)
+> **Frameworks & Libraries:** web (3), [[Google]] (1), [[JavaScript]] (1)
 > **Cross-References:** go back to (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
@@ -1157,7 +1163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (2), next (1), web (1)
 > **Env Vars:** html (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1222,7 +1228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), from. (1)
+> **Frameworks & Libraries:** web (2), [[HTML]] (1), [[JavaScript]] (1), api (1), css (1)
 > **Env Vars:** html (1), api (1), css (1)
 > **Ports:** :00 (1)
 > **Tools:** visual studio (1)
@@ -1255,7 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** web (1), next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
@@ -1304,8 +1310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1314,7 +1320,7 @@ created: 2026-04-29
 
 ### 5. Style Media Playback Controls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define CSS styles in a document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/define-css-styles-in-a-document?u=76281980)
@@ -1349,7 +1355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** css (1), [[HTML]] (1), web (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** css (1)
 > **Tools:** visual studio (1)
@@ -1423,7 +1429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), finally, (1), override (1)
+> **Frameworks & Libraries:** next (2), css (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** rgb (2), css (1)
 > **Versions:** 1.2 (1)
@@ -1519,7 +1525,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), new. (2), override (1)
+> **Frameworks & Libraries:** css (3)
 > **Env Vars:** css (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
@@ -1645,7 +1651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), else. (2), this. (1)
+> **Frameworks & Libraries:** css (2), [[JavaScript]] (1)
 > **Tools:** visual studio (4)
 > **Env Vars:** css (2)
 > **Versions:** 0.6 (1)
@@ -1664,7 +1670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** web (2), css (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1708,9 +1714,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[Google]] (4), [[HTML]] (2), [[Search]] (1), css (1)
 > **Env Vars:** html (2), url (1), css (1)
 > **UI Navigation:** go to (1), scroll down (1)
-> **Code Keywords:** let (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1718,7 +1724,7 @@ created: 2026-04-29
 
 ### 6. Work with the Media API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of media API
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980)
@@ -1783,7 +1789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1), var (1), case, (1), this, (1)
+> **Frameworks & Libraries:** api (2), [[JavaScript]] (2), [[HTML]] (1), application (1), [[Programming]] (1)
 > **Env Vars:** api (2), html (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
@@ -1882,7 +1888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), pass (2), let (1)
+> **Frameworks & Libraries:** next (2), [[Metadata]] (2), api (1)
 > **Code Identifiers:** addeventlistener (3), seekmedia (3), playmedia (2), updatetime (2)
 > **Env Vars:** html5 (1), api (1)
 > **Definitions:** refers to (1), stands for (1)
@@ -1920,7 +1926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), super (1)
+> **Frameworks & Libraries:** api (2), web (1), hit (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2012,8 +2018,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (1), data (1), web (1)
 > **Code Identifiers:** timedisplay (5), updatetime (3), currenttime (3), textcontent (2)
-> **Code Keywords:** function (5), let (4), pass (1), continue (1)
 > **File Paths:** snippets.txt (2)
 > **Env Vars:** html5 (1), api (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2066,8 +2072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), api (1), hit (1)
 > **Code Identifiers:** currentlength (4), seekmedia (3), currenttime (3), offsetwidth (3), clientwidth (3)
-> **Code Keywords:** function (1), var (1), let (1)
 > **Speakers:** - [lecturer] (2), - [man (1)
 > **Env Vars:** html5 (1), api (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -2132,7 +2138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Code Identifiers:** showcontrols (2), queryselector (1), hidecontrols (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -2142,7 +2148,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further information
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/further-information?u=76281980)
@@ -2161,8 +2167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), api (1)
 > **Env Vars:** html5 (1), api (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [joseph] (1)
 
 

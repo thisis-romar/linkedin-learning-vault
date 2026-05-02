@@ -28,7 +28,7 @@ tags:
   - skill/user-experience-ux
   - skill/principle-for-mac
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Principle%20for%20UX%20Design.md)
@@ -47,59 +47,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What is Principle?
-  - What you should know
+  - [What is Principle?](#what-is-principle)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Started with Principle**](#1-getting-started-with-principle) (10 videos)
-  - Review of the Principle interface
-  - Tools and menus
-  - Create and add artboards
-  - Add content to an artboard
-  - Add and format text
-  - Create your first animation
-  - Test and share your work
-  - Import from Sketch
-  - Figma import
-  - Export to web
+  - [Review of the Principle interface](#review-of-the-principle-interface)
+  - [Tools and menus](#tools-and-menus)
+  - [Create and add artboards](#create-and-add-artboards)
+  - [Add content to an artboard](#add-content-to-an-artboard)
+  - [Add and format text](#add-and-format-text)
+  - [Create your first animation](#create-your-first-animation)
+  - [Test and share your work](#test-and-share-your-work)
+  - [Import from Sketch](#import-from-sketch)
+  - [Figma import](#figma-import)
+  - [Export to web](#export-to-web)
 - [**2. Managing Content in Principle**](#2-managing-content-in-principle) (7 videos)
-  - What Principle doesn't do
-  - Modify content in the Properties panel
-  - Create assets in Photoshop
-  - Create assets in Sketch
-  - Create assets in Illustrator
-  - Import retina images into Principle
-  - Crop and mask
+  - [What Principle doesn't do](#what-principle-doesnt-do)
+  - [Modify content in the Properties panel](#modify-content-in-the-properties-panel)
+  - [Create assets in Photoshop](#create-assets-in-photoshop)
+  - [Create assets in Sketch](#create-assets-in-sketch)
+  - [Create assets in Illustrator](#create-assets-in-illustrator)
+  - [Import retina images into Principle](#import-retina-images-into-principle)
+  - [Crop and mask](#crop-and-mask)
 - [**3. Using the Principle Timeline**](#3-using-the-principle-timeline) (7 videos)
-  - Understand the timeline
-  - Add keyframes and durations
-  - Use the easing feature
-  - Create motion arcs
-  - Create circular motion
-  - Create a tabbed interface
-  - Create scrollable content
+  - [Understand the timeline](#understand-the-timeline)
+  - [Add keyframes and durations](#add-keyframes-and-durations)
+  - [Use the easing feature](#use-the-easing-feature)
+  - [Create motion arcs](#create-motion-arcs)
+  - [Create circular motion](#create-circular-motion)
+  - [Create a tabbed interface](#create-a-tabbed-interface)
+  - [Create scrollable content](#create-scrollable-content)
 - [**4. Using the Principle Drivers**](#4-using-the-principle-drivers) (5 videos)
-  - Overview of Driver channel
-  - Constrain drivers
-  - Drivers and layers
-  - Use the paging property
-  - Drivers and paging
+  - [Overview of Driver channel](#overview-of-driver-channel)
+  - [Constrain drivers](#constrain-drivers)
+  - [Drivers and layers](#drivers-and-layers)
+  - [Use the paging property](#use-the-paging-property)
+  - [Drivers and paging](#drivers-and-paging)
 - [**5. Practical Principle Projects**](#5-practical-principle-projects) (11 videos)
-  - Create a drag-and-drop effect
-  - Create a component
-  - Create a preloader
-  - Create a card animation
-  - Create a slide-in menu
-  - Create special effects
-  - Prepare video for Principle
-  - Add video to an artboard
-  - Control audio volume
-  - Control video playback
-  - Create an Apple Watch alert
+  - [Create a drag-and-drop effect](#create-a-drag-and-drop-effect)
+  - [Create a component](#create-a-component)
+  - [Create a preloader](#create-a-preloader)
+  - [Create a card animation](#create-a-card-animation)
+  - [Create a slide-in menu](#create-a-slide-in-menu)
+  - [Create special effects](#create-special-effects)
+  - [Prepare video for Principle](#prepare-video-for-principle)
+  - [Add video to an artboard](#add-video-to-an-artboard)
+  - [Control audio volume](#control-audio-volume)
+  - [Control video playback](#control-video-playback)
+  - [Create an Apple Watch alert](#create-an-apple-watch-alert)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Principle?
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-is-principle?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), ux (1)
 > **Speakers:** - [tom] (1)
 
 #### What you should know
@@ -138,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Figma (Software)|Figma]] (3), [[Prototyping]] (2), ux (1), [[Adobe XD]] (1)
 > **Tools:** figma (3)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -146,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Principle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Review of the Principle interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/review-of-the-principle-interface?u=76281980)
@@ -245,8 +246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (4), open the (2), go to (1)
-> **Code Keywords:** interface (3), this. (1), static (1)
 > **Analogies:** picture (4), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** rgba (1)
@@ -363,7 +364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), continue (1), export, (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), web (3), [[Figma (Software)|Figma]] (1), next (1), [[HTML]] (1)
 > **Code Identifiers:** iphone (3), ios (2)
 > **UI Navigation:** open the (2), scroll down (1)
 > **CLI Commands:** find (2)
@@ -451,7 +452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), match. (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Android]] (2), feature (1)
 > **UI Navigation:** select the (2), click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [tom] (1)
@@ -591,8 +592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), ai (2), feature (1)
 > **Env Vars:** svg (4), eps (4), pdf (4), gif (2), png (1)
-> **Code Keywords:** let (6), import, (3), export, (2), delete (1)
 > **UI Navigation:** drag and drop (3), go to (2), open the (1), select the (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (2)
@@ -685,8 +686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2)
 > **UI Navigation:** select the (2), open the (1), go to (1)
-> **Code Keywords:** let (1), this. (1), this, (1)
 > **Env Vars:** unesco (2)
 > **Analogies:** for instance (1), just like (1)
 > **CLI Commands:** make (1)
@@ -761,7 +762,6 @@ created: 2026-04-29
 >
 > **UI Navigation:** select the (3), click on (3), open the (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -861,7 +861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (2), let (1), export. (1), export, (1)
+> **Frameworks & Libraries:** [[HTML]] (4), web (3), feature (2), hit (1), cloud (1)
 > **UI Navigation:** click on (3), open the (2), go to (2)
 > **Env Vars:** html (4), prd (1)
 > **CLI Commands:** make (3)
@@ -929,7 +929,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), import. (1), import, (1)
+> **Frameworks & Libraries:** next (2), application (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
 > **Cross-References:** go back to (1)
@@ -994,8 +994,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (12), [[Prototyping]] (1), application (1), next (1)
 > **Tools:** figma (12)
-> **Code Keywords:** import. (2), let (1), this, (1), finally, (1)
 > **Code Identifiers:** iphone (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1053,7 +1053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), this, (1)
+> **Frameworks & Libraries:** web (4), next (1), cloud (1)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
@@ -1061,7 +1061,7 @@ created: 2026-04-29
 
 ### 2. Managing Content in Principle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What Principle doesn't do
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-principle-doesn-t-do?u=76281980)
@@ -1160,10 +1160,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Android]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** go to (3), click on (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** ios (1)
 > **URLs:** [principlerepo.com](https://principlerepo.com) (1)
@@ -1276,8 +1276,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (2), this. (1), for, (1), static (1)
 > **Versions:** 0.5 (1), 1.5 (1)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **UI Navigation:** click on (1), select the (1)
@@ -1426,8 +1426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Android]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** png (5), jpeg (3), psd (1)
-> **Code Keywords:** this, (2), delete (2), interface (1), this. (1), let (1)
 > **UI Navigation:** go to (3), open the (1), select the (1), drag and drop (1)
 > **Code Identifiers:** iphone (3), ios (1)
 > **Warnings:** be aware (3)
@@ -1540,7 +1540,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
 > **UI Navigation:** select the (2), drag and drop (2), open the (1), scroll up (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** iphone (2)
@@ -1636,8 +1635,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Prototyping]] (1), application (1), ai (1)
 > **Env Vars:** png (6), svg (3), eps (2), bip (1), pdf (1)
-> **Code Keywords:** let (4), export, (1), delete (1), this. (1)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
@@ -1694,9 +1693,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (3), ux (1)
 > **Code Identifiers:** iphone (3), iphones (1)
 > **Env Vars:** ldpi (1), xhdpi (1), dpi (1)
-> **Code Keywords:** this, (1), delete (1)
 > **Documentation:** stack overflow (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** as you saw (1)
@@ -1806,7 +1805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), throw (1), this. (1)
+> **Frameworks & Libraries:** application (1)
 > **UI Navigation:** select the (3), open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1814,7 +1813,7 @@ created: 2026-04-29
 
 ### 3. Using the Principle Timeline
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980)
@@ -1921,7 +1920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Snowflake]] (2), ux (1), [[Prototyping]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (1)
@@ -2086,7 +2085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), try. (1), delete (1)
+> **Frameworks & Libraries:** next (2)
 > **Analogies:** picture (6)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2), open the (1), scroll down (1)
@@ -2252,7 +2251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Versions:** 1.6 (1)
@@ -2336,7 +2335,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **UI Navigation:** open the (2), click on (1)
 > **Versions:** 0.4 (1), 1.50 (1)
@@ -2425,8 +2423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), feature (1), [[Prototyping]] (1), application (1)
 > **UI Navigation:** select the (3), open the (1)
-> **Code Keywords:** let (1), function (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** before we start (1)
@@ -2491,8 +2489,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Prototyping]] (1)
 > **UI Navigation:** go to (5), select the (2), open the (1)
-> **Code Keywords:** interface (4), let (3)
 > **Cross-References:** go back to (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2550,7 +2548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **UI Navigation:** select the (2), open the (1), click on (1)
 > **CLI Commands:** make (3)
 > **Warnings:** be aware (1)
@@ -2559,7 +2557,7 @@ created: 2026-04-29
 
 ### 4. Using the Principle Drivers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Driver channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/overview-of-driver-channel?u=76281980)
@@ -2634,8 +2632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** open the (1), select the (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2711,7 +2709,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1), this. (1)
 > **UI Navigation:** select the (4), open the (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -2797,7 +2794,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Cross-References:** go back to (1)
@@ -2898,7 +2894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), this, (1)
+> **Frameworks & Libraries:** feature (3)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (2), open the (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -3012,7 +3008,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** open the (2), scroll down (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -3021,7 +3017,7 @@ created: 2026-04-29
 
 ### 5. Practical Principle Projects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a drag-and-drop effect
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-drag-and-drop-effect?u=76281980)
@@ -3130,7 +3126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** drag and drop (2), open the (1), select the (1), go to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
@@ -3249,7 +3245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (7), let (3), finally, (1), delete (1)
+> **Frameworks & Libraries:** next (2), feature (1), [[Prototyping]] (1), application (1), teams (1)
 > **UI Navigation:** select the (4), go to (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2)
@@ -3341,7 +3337,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), try. (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** open the (2), select the (2)
 > **Definitions:** is a  (3)
@@ -3494,7 +3489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), interface (1), this, (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Zoom]] (1), application (1)
 > **UI Navigation:** select the (4), open the (1), go to (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1), for example (1), picture (1)
@@ -3651,7 +3646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), interface (2), this, (1)
+> **Frameworks & Libraries:** application (2), feature (1), [[Zoom]] (1), game (1)
 > **UI Navigation:** select the (5), open the (1)
 > **Cross-References:** earlier in (2), as you saw (1)
 > **CLI Commands:** make (2)
@@ -3814,8 +3809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** select the (7), open the (3)
-> **Code Keywords:** let (3), this, (1), interface (1), static (1)
 > **CLI Commands:** make (4)
 > **Analogies:** just like (1)
 > **Warnings:** be aware (1)
@@ -4062,7 +4057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (6), case, (1), interface (1), for. (1)
+> **Frameworks & Libraries:** traffic (3), next (2), ux (1), web (1)
 > **Env Vars:** mp4 (4), vbr (2), aac (2), mpeg (1)
 > **CLI Commands:** make (5)
 > **Versions:** 50.2 (3)
@@ -4148,7 +4143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), export. (1), delete (1)
+> **Frameworks & Libraries:** traffic (3), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** open the (1)
@@ -4228,7 +4223,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
 > **UI Navigation:** select the (2), open the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4327,7 +4321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), raise (1)
+> **Frameworks & Libraries:** traffic (2)
 > **UI Navigation:** open the (3), select the (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** mp3 (1)
@@ -4421,7 +4415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **UI Navigation:** select the (3), open the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -4430,7 +4424,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/next-steps?u=76281980)
@@ -4475,7 +4469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), this: (1), case, (1)
+> **Frameworks & Libraries:** [[Principle for Mac]] (3), application (2), [[Search]] (2), next (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **CLI Commands:** find (1)

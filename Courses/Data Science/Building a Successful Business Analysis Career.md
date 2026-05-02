@@ -28,7 +28,7 @@ tags:
   - skill/career-path-planning
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20a%20Successful%20Business%20Analysis%20Career.md)
@@ -47,32 +47,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Taking charge of your business analysis career
+  - [Taking charge of your business analysis career](#taking-charge-of-your-business-analysis-career)
 - [**1. Overview of the Business Analysis Profession**](#1-overview-of-the-business-analysis-profession) (4 videos)
-  - What is business analysis?
-  - Getting started in business analysis
-  - Business analysis career opportunities
-  - Business analyst: A day in the life
+  - [What is business analysis?](#what-is-business-analysis)
+  - [Getting started in business analysis](#getting-started-in-business-analysis)
+  - [Business analysis career opportunities](#business-analysis-career-opportunities)
+  - [Business analyst: A day in the life](#business-analyst-a-day-in-the-life)
 - [**2. Strategize: Develop Your Career Strategy**](#2-strategize-develop-your-career-strategy) (4 videos)
-  - Identify your business analysis career goals
-  - Inventory your business analysis skills
-  - Inventory your business analysis experience
-  - Identify your business analysis skills and experience gaps
+  - [Identify your business analysis career goals](#identify-your-business-analysis-career-goals)
+  - [Inventory your business analysis skills](#inventory-your-business-analysis-skills)
+  - [Inventory your business analysis experience](#inventory-your-business-analysis-experience)
+  - [Identify your business analysis skills and experience gaps](#identify-your-business-analysis-skills-and-experience-gaps)
 - [**3. Plan: Create Your Career Development Plan**](#3-plan-create-your-career-development-plan) (3 videos)
-  - Find what motivates you as a business analyst
-  - Create a business analysis professional development plan
-  - How to create time estimates for your professional development plan
+  - [Find what motivates you as a business analyst](#find-what-motivates-you-as-a-business-analyst)
+  - [Create a business analysis professional development plan](#create-a-business-analysis-professional-development-plan)
+  - [How to create time estimates for your professional development plan](#how-to-create-time-estimates-for-your-professional-development-plan)
 - [**4. Act: Locate Opportunities to Expand Your Skills and Experience**](#4-act-locate-opportunities-to-expand-your-skills-and-experience) (4 videos)
-  - Opportunities to expand business analysis experience
-  - Business analysis professional associations and certifications
-  - Setting yourself apart in a competitive business analysis job market
-  - Networking for business analysts
+  - [Opportunities to expand business analysis experience](#opportunities-to-expand-business-analysis-experience)
+  - [Business analysis professional associations and certifications](#business-analysis-professional-associations-and-certifications)
+  - [Setting yourself apart in a competitive business analysis job market](#setting-yourself-apart-in-a-competitive-business-analysis-job-market)
+  - [Networking for business analysts](#networking-for-business-analysts)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Owning your business analysis career
+  - [Owning your business analysis career](#owning-your-business-analysis-career)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking charge of your business analysis career
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/taking-charge-of-your-business-analysis-career?u=76281980)
@@ -97,13 +97,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** career (5), business (3)
 > **Speakers:** - are (1)
 
 
 ### 1. Overview of the Business Analysis Profession
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is business analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/what-is-business-analysis?u=76281980)
@@ -182,9 +182,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12), [[LinkedIn]] (2), career (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1), let (1)
 > **Env Vars:** iba (1), baccm (1)
 > **Speakers:** - have (1)
 
@@ -247,9 +247,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (19), hr (3), management (2), career (2), [[Statistics]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), self (1)
 > **Env Vars:** hris (1)
 > **Speakers:** - according (1)
 
@@ -320,7 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), raise (1)
+> **Frameworks & Libraries:** business (14), career (5), data (4), product (4), [[Agile Development|Agile]] (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** iiba (1)
 > **Cross-References:** later in (1)
@@ -414,8 +414,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (17), [[Microsoft Office|Office]] (2), next (1), [[Banking]] (1), ux (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** from. (1)
 > **Ports:** :00 (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
@@ -426,7 +426,7 @@ created: 2026-04-29
 
 ### 2. Strategize: Develop Your Career Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify your business analysis career goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-career-goals?u=76281980)
@@ -499,9 +499,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (7), product (5), business (4), next (4), management (2)
 > **Cross-References:** in the next (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), for. (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - you (1)
 
@@ -574,7 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (1), if, (1)
+> **Frameworks & Libraries:** business (12), career (2), [[Decision-Making]] (1), [[Accountability]] (1), [[Ethics]] (1)
 > **Env Vars:** babok (2), iiba (1)
 > **CLI Commands:** find (2)
 > **Versions:** version 3 (1)
@@ -644,9 +644,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), [[Microsoft Excel|Excel]] (1), next (1), career (1)
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - something (1), - the (1)
-> **Code Keywords:** throw (1)
 > **Env Vars:** babok (1)
 
 #### Identify your business analysis skills and experience gaps
@@ -716,8 +716,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), job description (2), next (1)
 > **Exercise Files:** template (3), exercise files (1), download the (1)
-> **Code Keywords:** self (3)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -728,7 +728,7 @@ created: 2026-04-29
 
 ### 3. Plan: Create Your Career Development Plan
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Find what motivates you as a business analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/find-what-motivates-you-as-a-business-analyst?u=76281980)
@@ -801,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), self (1)
+> **Frameworks & Libraries:** business (6), career (4), teams (2), [[Sustainability]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** you'll need (1)
@@ -902,7 +902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (2), continue (1)
+> **Frameworks & Libraries:** career (3), business (3), [[Jira]] (1), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1)
 > **Tools:** jira (1)
@@ -978,7 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), this. (1)
+> **Frameworks & Libraries:** business (5), career (1), [[Probability]] (1), next (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** babok (1)
@@ -989,7 +989,7 @@ created: 2026-04-29
 
 ### 4. Act: Locate Opportunities to Expand Your Skills and Experience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Opportunities to expand business analysis experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980)
@@ -1074,8 +1074,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (22), [[LinkedIn]] (2), ux (1), management (1), [[Career Development]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** catch. (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - you (1)
 
@@ -1148,8 +1148,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (20), career (5), management (3), data (3), [[Agile Development|Agile]] (3)
 > **Env Vars:** iiba (8), pmi (4), dama (1), ecba (1), ccba (1)
-> **Code Keywords:** public (1), pass (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - over (1)
@@ -1223,6 +1223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), career (2), teams (1), [[Product Development]] (1)
 > **Env Vars:** iiba (2), cbap (1), babok (1), pmi (1)
 > **CLI Commands:** find (3)
 > **Exercise Files:** template (1)
@@ -1304,8 +1305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[LinkedIn]] (5), career (3), [[Microsoft Excel|Excel]] (1), management (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), this. (2)
 > **Analogies:** such as (2), picture (1), for example (1)
 > **Env Vars:** iba (1), pmi (1)
 > **Best Practices:** make sure to (1)
@@ -1315,7 +1316,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Owning your business analysis career
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/owning-your-business-analysis-career?u=76281980)
@@ -1348,9 +1349,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), career (3), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** remember to (1), make sure to (1)
-> **Code Keywords:** continue (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - congratulations (1)
 

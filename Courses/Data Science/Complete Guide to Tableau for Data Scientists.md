@@ -37,7 +37,7 @@ tags:
   - skill/data-visualization
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Tableau%20for%20Data%20Scientists.md)
@@ -56,149 +56,149 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - The power of Tableau for data scientists
-  - What you should know
-  - Tableau UI tour
-  - Tableau order of operations
-  - Welcome to the Langdon Hotel
+  - [The power of Tableau for data scientists](#the-power-of-tableau-for-data-scientists)
+  - [What you should know](#what-you-should-know)
+  - [Tableau UI tour](#tableau-ui-tour)
+  - [Tableau order of operations](#tableau-order-of-operations)
+  - [Welcome to the Langdon Hotel](#welcome-to-the-langdon-hotel)
 - [**1. Green and Blue Fields, What Do They Mean?**](#1-green-and-blue-fields-what-do-they-mean) (7 videos)
-  - Understand the difference between green and blue fields
-  - How do green and blue fields affect rows and columns?
-  - How do green and blue fields affect filters?
-  - How do green and blue fields affect colors?
-  - How do green and blue fields affect dates?
-  - Challenge: Green and blue
-  - Solution: Green and blue
+  - [Understand the difference between green and blue fields](#understand-the-difference-between-green-and-blue-fields)
+  - [How do green and blue fields affect rows and columns?](#how-do-green-and-blue-fields-affect-rows-and-columns)
+  - [How do green and blue fields affect filters?](#how-do-green-and-blue-fields-affect-filters)
+  - [How do green and blue fields affect colors?](#how-do-green-and-blue-fields-affect-colors)
+  - [How do green and blue fields affect dates?](#how-do-green-and-blue-fields-affect-dates)
+  - [Challenge: Green and blue](#challenge-green-and-blue)
+  - [Solution: Green and blue](#solution-green-and-blue)
 - [**2. Connecting to a Source of Data**](#2-connecting-to-a-source-of-data) (8 videos)
-  - How to connect to Excel sheets
-  - How to clean Excel data with the Data Interpreter
-  - How to connect to Google Sheets
-  - How to connect to PDF files and extract tables of data
-  - Setting up the default properties of your data source
-  - Saving your data sources for future use
-  - Challenge: Creating a data source
-  - Solution: Creating a data source
+  - [How to connect to Excel sheets](#how-to-connect-to-excel-sheets)
+  - [How to clean Excel data with the Data Interpreter](#how-to-clean-excel-data-with-the-data-interpreter)
+  - [How to connect to Google Sheets](#how-to-connect-to-google-sheets)
+  - [How to connect to PDF files and extract tables of data](#how-to-connect-to-pdf-files-and-extract-tables-of-data)
+  - [Setting up the default properties of your data source](#setting-up-the-default-properties-of-your-data-source)
+  - [Saving your data sources for future use](#saving-your-data-sources-for-future-use)
+  - [Challenge: Creating a data source](#challenge-creating-a-data-source)
+  - [Solution: Creating a data source](#solution-creating-a-data-source)
 - [**3. Combining Data**](#3-combining-data) (9 videos)
-  - Combining data using relationships
-  - What are the different ways of joining data?
-  - How to join tables in the same data connection
-  - How to join tables in two using a cross database join
-  - How to append one data source to another using unions
-  - Challenge: Combining data, part 1
-  - Solution: Combining data, part 1
-  - Challenge: Combining data, part 2
-  - Solution: Combining data, part 2
+  - [Combining data using relationships](#combining-data-using-relationships)
+  - [What are the different ways of joining data?](#what-are-the-different-ways-of-joining-data)
+  - [How to join tables in the same data connection](#how-to-join-tables-in-the-same-data-connection)
+  - [How to join tables in two using a cross database join](#how-to-join-tables-in-two-using-a-cross-database-join)
+  - [How to append one data source to another using unions](#how-to-append-one-data-source-to-another-using-unions)
+  - [Challenge: Combining data, part 1](#challenge-combining-data-part-1)
+  - [Solution: Combining data, part 1](#solution-combining-data-part-1)
+  - [Challenge: Combining data, part 2](#challenge-combining-data-part-2)
+  - [Solution: Combining data, part 2](#solution-combining-data-part-2)
 - [**4. When and How to Create Data Extracts**](#4-when-and-how-to-create-data-extracts) (4 videos)
-  - What are the pros and cons of using a data extract?
-  - How to create a data extract.
-  - How to limit the data in a data extract
-  - How to edit a data extract to include more data
+  - [What are the pros and cons of using a data extract?](#what-are-the-pros-and-cons-of-using-a-data-extract)
+  - [How to create a data extract.](#how-to-create-a-data-extract)
+  - [How to limit the data in a data extract](#how-to-limit-the-data-in-a-data-extract)
+  - [How to edit a data extract to include more data](#how-to-edit-a-data-extract-to-include-more-data)
 - [**5. Comparing Measures**](#5-comparing-measures) (10 videos)
-  - What are measure names and measure values?
-  - Creating a combined axis chart
-  - Creating a dual axis chart
-  - Creating a bar-in-bar chart
-  - Creating a multiple measure crosstab
-  - Comparing two measures using a scatter plot
-  - Challenge: Comparing measures, part 1
-  - Solution: Comparing measures, part 1
-  - Challenge: Comparing measures, part 2
-  - Solution: Comparing measures, part 2
+  - [What are measure names and measure values?](#what-are-measure-names-and-measure-values)
+  - [Creating a combined axis chart](#creating-a-combined-axis-chart)
+  - [Creating a dual axis chart](#creating-a-dual-axis-chart)
+  - [Creating a bar-in-bar chart](#creating-a-bar-in-bar-chart)
+  - [Creating a multiple measure crosstab](#creating-a-multiple-measure-crosstab)
+  - [Comparing two measures using a scatter plot](#comparing-two-measures-using-a-scatter-plot)
+  - [Challenge: Comparing measures, part 1](#challenge-comparing-measures-part-1)
+  - [Solution: Comparing measures, part 1](#solution-comparing-measures-part-1)
+  - [Challenge: Comparing measures, part 2](#challenge-comparing-measures-part-2)
+  - [Solution: Comparing measures, part 2](#solution-comparing-measures-part-2)
 - [**6. Transform Your Data with Calculations**](#6-transform-your-data-with-calculations) (14 videos)
-  - How do calculations work in Tableau?
-  - Understanding the order of operations in calculation
-  - Manipulating strings using string functions
-  - Manipulating dates with date functions
-  - Creating logic calculations using IF functions
-  - How do table calculations work?
-  - Table calc directions
-  - What are Level of Detail (LOD) calculations?
-  - EXCLUDE LOD calculations
-  - INCLUDE LOD calculations
-  - FIXED LOD calculations
-  - Using calculations in a join
-  - Challenge: Calculations
-  - Solution: Calculations
+  - [How do calculations work in Tableau?](#how-do-calculations-work-in-tableau)
+  - [Understanding the order of operations in calculation](#understanding-the-order-of-operations-in-calculation)
+  - [Manipulating strings using string functions](#manipulating-strings-using-string-functions)
+  - [Manipulating dates with date functions](#manipulating-dates-with-date-functions)
+  - [Creating logic calculations using IF functions](#creating-logic-calculations-using-if-functions)
+  - [How do table calculations work?](#how-do-table-calculations-work)
+  - [Table calc directions](#table-calc-directions)
+  - [What are Level of Detail (LOD) calculations?](#what-are-level-of-detail-lod-calculations)
+  - [EXCLUDE LOD calculations](#exclude-lod-calculations)
+  - [INCLUDE LOD calculations](#include-lod-calculations)
+  - [FIXED LOD calculations](#fixed-lod-calculations)
+  - [Using calculations in a join](#using-calculations-in-a-join)
+  - [Challenge: Calculations](#challenge-calculations)
+  - [Solution: Calculations](#solution-calculations)
 - [**7. Mapping Your Data**](#7-mapping-your-data) (10 videos)
-  - Just because you can, should you create a map?
-  - How to create an area map
-  - How to create a symbol map
-  - Customizing the look of your maps
-  - Create locations from coordinates
-  - Create lines to connect locations on a map
-  - Analyzing distances using buffer calculations
-  - Analyzing spatial data using intersect calculations
-  - Challenge: Mapping
-  - Solution: Mapping
+  - [Just because you can, should you create a map?](#just-because-you-can-should-you-create-a-map)
+  - [How to create an area map](#how-to-create-an-area-map)
+  - [How to create a symbol map](#how-to-create-a-symbol-map)
+  - [Customizing the look of your maps](#customizing-the-look-of-your-maps)
+  - [Create locations from coordinates](#create-locations-from-coordinates)
+  - [Create lines to connect locations on a map](#create-lines-to-connect-locations-on-a-map)
+  - [Analyzing distances using buffer calculations](#analyzing-distances-using-buffer-calculations)
+  - [Analyzing spatial data using intersect calculations](#analyzing-spatial-data-using-intersect-calculations)
+  - [Challenge: Mapping](#challenge-mapping)
+  - [Solution: Mapping](#solution-mapping)
 - [**8 . The Analytics Tab**](#8-the-analytics-tab) (13 videos)
-  - What is the Analytics pane?
-  - Create a constant reference line
-  - Create a dynamic average reference line
-  - How to create box plots
-  - Adding totals and sub-totals to a view
-  - Adding a forecast to a view
-  - Adding a trend line to a view
-  - Looking for clusters of data in a view
-  - Creating a reference band
-  - Challenge: Analytics, part 1
-  - Solution: Analytics, part 1
-  - Challenge: Analytics, part 2
-  - Solution: Analytics, part 2
+  - [What is the Analytics pane?](#what-is-the-analytics-pane)
+  - [Create a constant reference line](#create-a-constant-reference-line)
+  - [Create a dynamic average reference line](#create-a-dynamic-average-reference-line)
+  - [How to create box plots](#how-to-create-box-plots)
+  - [Adding totals and sub-totals to a view](#adding-totals-and-sub-totals-to-a-view)
+  - [Adding a forecast to a view](#adding-a-forecast-to-a-view)
+  - [Adding a trend line to a view](#adding-a-trend-line-to-a-view)
+  - [Looking for clusters of data in a view](#looking-for-clusters-of-data-in-a-view)
+  - [Creating a reference band](#creating-a-reference-band)
+  - [Challenge: Analytics, part 1](#challenge-analytics-part-1)
+  - [Solution: Analytics, part 1](#solution-analytics-part-1)
+  - [Challenge: Analytics, part 2](#challenge-analytics-part-2)
+  - [Solution: Analytics, part 2](#solution-analytics-part-2)
 - [**9. Using Parameters for Viewer Input**](#9-using-parameters-for-viewer-input) (9 videos)
-  - How are parameters different compared to filters?
-  - How to use parameters in a calculation
-  - Create dynamic reference lines using parameters
-  - Use a parameter to select dimensions and measures
-  - Use a parameter to search free text fields
-  - Top N analysis
-  - Dynamic parameters
-  - Challenge: Parameters
-  - Solution: Parameters
+  - [How are parameters different compared to filters?](#how-are-parameters-different-compared-to-filters)
+  - [How to use parameters in a calculation](#how-to-use-parameters-in-a-calculation)
+  - [Create dynamic reference lines using parameters](#create-dynamic-reference-lines-using-parameters)
+  - [Use a parameter to select dimensions and measures](#use-a-parameter-to-select-dimensions-and-measures)
+  - [Use a parameter to search free text fields](#use-a-parameter-to-search-free-text-fields)
+  - [Top N analysis](#top-n-analysis)
+  - [Dynamic parameters](#dynamic-parameters)
+  - [Challenge: Parameters](#challenge-parameters)
+  - [Solution: Parameters](#solution-parameters)
 - [**10. Dashboard Actions and Design Tips**](#10-dashboard-actions-and-design-tips) (12 videos)
-  - Introducing the dashboard UI
-  - How to create a tiled dashboard
-  - How to create a floating dashboard
-  - How to use filter actions
-  - How to use highlight actions
-  - How to use URL actions
-  - Navigating between dashboards using go to sheet actions
-  - How to use set actions
-  - A deeper look at containers
-  - Challenge: Dashboards
-  - Solution: Dashboards
-  - Solution: Dashboards, continued
+  - [Introducing the dashboard UI](#introducing-the-dashboard-ui)
+  - [How to create a tiled dashboard](#how-to-create-a-tiled-dashboard)
+  - [How to create a floating dashboard](#how-to-create-a-floating-dashboard)
+  - [How to use filter actions](#how-to-use-filter-actions)
+  - [How to use highlight actions](#how-to-use-highlight-actions)
+  - [How to use URL actions](#how-to-use-url-actions)
+  - [Navigating between dashboards using go to sheet actions](#navigating-between-dashboards-using-go-to-sheet-actions)
+  - [How to use set actions](#how-to-use-set-actions)
+  - [A deeper look at containers](#a-deeper-look-at-containers)
+  - [Challenge: Dashboards](#challenge-dashboards)
+  - [Solution: Dashboards](#solution-dashboards)
+  - [Solution: Dashboards, continued](#solution-dashboards-continued)
 - [**11. Analysis Tips and Tricks**](#11-analysis-tips-and-tricks) (25 videos)
-  - How to create bar charts
-  - How to use colors to highlight data
-  - How to create timelines
-  - How to create small multiple timelines
-  - How to create month-over-month or year-over-year charts
-  - How to create a combined axis bar chart
-  - How to create a combined axis timeline
-  - How to create a dual axis timeline
-  - Two ways to create a crosstab
-  - Enhance a crosstab using colors to create a highlight table
-  - How to turn a crosstab into a heatmap
-  - How to create an area chart
-  - What's the difference between line charts vs. area charts?
-  - How to create 100% area charts
-  - How to create stacked bar charts
-  - How to create a 100% stacked bar chart
-  - How and why to add a running total to a line chart
-  - How to show the difference between values in a line chart
-  - How to create a scatter plot and a bubble chart
-  - How to create a connected scatterplot to show changes over time
-  - How to create a bar-in-bar chart and a candlestick chart
-  - How to create a symbol map
-  - How to create a filled area map
-  - How to create pie charts
-  - How to create Gantt charts
+  - [How to create bar charts](#how-to-create-bar-charts)
+  - [How to use colors to highlight data](#how-to-use-colors-to-highlight-data)
+  - [How to create timelines](#how-to-create-timelines)
+  - [How to create small multiple timelines](#how-to-create-small-multiple-timelines)
+  - [How to create month-over-month or year-over-year charts](#how-to-create-month-over-month-or-year-over-year-charts)
+  - [How to create a combined axis bar chart](#how-to-create-a-combined-axis-bar-chart)
+  - [How to create a combined axis timeline](#how-to-create-a-combined-axis-timeline)
+  - [How to create a dual axis timeline](#how-to-create-a-dual-axis-timeline)
+  - [Two ways to create a crosstab](#two-ways-to-create-a-crosstab)
+  - [Enhance a crosstab using colors to create a highlight table](#enhance-a-crosstab-using-colors-to-create-a-highlight-table)
+  - [How to turn a crosstab into a heatmap](#how-to-turn-a-crosstab-into-a-heatmap)
+  - [How to create an area chart](#how-to-create-an-area-chart)
+  - [What's the difference between line charts vs. area charts?](#whats-the-difference-between-line-charts-vs-area-charts)
+  - [How to create 100% area charts](#how-to-create-100-area-charts)
+  - [How to create stacked bar charts](#how-to-create-stacked-bar-charts)
+  - [How to create a 100% stacked bar chart](#how-to-create-a-100-stacked-bar-chart)
+  - [How and why to add a running total to a line chart](#how-and-why-to-add-a-running-total-to-a-line-chart)
+  - [How to show the difference between values in a line chart](#how-to-show-the-difference-between-values-in-a-line-chart)
+  - [How to create a scatter plot and a bubble chart](#how-to-create-a-scatter-plot-and-a-bubble-chart)
+  - [How to create a connected scatterplot to show changes over time](#how-to-create-a-connected-scatterplot-to-show-changes-over-time)
+  - [How to create a bar-in-bar chart and a candlestick chart](#how-to-create-a-bar-in-bar-chart-and-a-candlestick-chart)
+  - [How to create a symbol map](#how-to-create-a-symbol-map)
+  - [How to create a filled area map](#how-to-create-a-filled-area-map)
+  - [How to create pie charts](#how-to-create-pie-charts)
+  - [How to create Gantt charts](#how-to-create-gantt-charts)
 - [**Conclusion**](#conclusion) (1 videos)
-  - How can I grow my data science and Tableau skills?
+  - [How can I grow my data science and Tableau skills?](#how-can-i-grow-my-data-science-and-tableau-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of Tableau for data scientists
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/the-power-of-tableau-for-data-scientists?u=76281980)
@@ -223,8 +223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (6), data (6)
 > **CLI Commands:** make (1)
-> **Code Keywords:** super (1)
 > **Speakers:** - [matt] (1)
 
 #### What you should know
@@ -310,7 +310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (8), interface (1), self (1), for. (1), private (1)
+> **Frameworks & Libraries:** [[Tableau]] (25), data (8), web (2), [[Databases]] (2), [[MySQL]] (1)
 > **CLI Commands:** make (2), psql (1), mysql (1)
 > **URLs:** [tableau.com](https://tableau.com) (4)
 > **Env Vars:** psql (1), csv (1), pdf (1)
@@ -466,7 +466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), public (2), case, (1)
+> **Frameworks & Libraries:** data (17), [[Tableau]] (10), [[Databases]] (1), product (1), power (1)
 > **UI Navigation:** click on (2), toggle (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2), think of it as (1)
@@ -562,7 +562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), interface (1), this, (1)
+> **Frameworks & Libraries:** data (20), [[Tableau]] (13), next (3)
 > **Env Vars:** fixed (1), exclude (1), include (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -650,15 +650,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), business (4), product (1), [[Dashboards]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Green and Blue Fields, What Do They Mean?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the difference between green and blue fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understand-the-difference-between-green-and-blue-fields?u=76281980)
@@ -811,7 +811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3), case, (1), this, (1), switch (1)
+> **Frameworks & Libraries:** data (19), [[Tableau]] (6)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -925,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (5), [[Tableau]] (4), next (1), product (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Versions:** 2.3 (1)
@@ -1034,8 +1034,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (1)
 > **UI Navigation:** click on (4), drag and drop (1), select the (1), right-click (1)
-> **Code Keywords:** let (3), this. (2), from. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1189,8 +1189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Tableau]] (4), [[Microsoft Office|Office]] (3), product (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3), case, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** drag and drop (1)
@@ -1329,7 +1329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1)
+> **Frameworks & Libraries:** data (6), [[Tableau]] (5), next (1)
 > **UI Navigation:** drag and drop (1), click on (1), switch to (1), right-click (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -1357,7 +1357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), next (2), [[Tableau]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1455,7 +1455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), next (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1)
@@ -1465,7 +1465,7 @@ created: 2026-04-29
 
 ### 2. Connecting to a Source of Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to connect to Excel sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980)
@@ -1578,8 +1578,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Tableau]] (9), [[Microsoft Excel|Excel]] (6), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (5), go to (3), navigate to (1), select the (1), drag and drop (1)
-> **Code Keywords:** let (2), interface (1), case, (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** abc (1)
 > **Definitions:** is a  (1)
@@ -1672,9 +1672,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (16), data (16), [[Microsoft Excel|Excel]] (6), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **UI Navigation:** click on (3), navigate to (1), scroll down (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
-> **Code Keywords:** let (1), else. (1), case, (1), this, (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1785,9 +1785,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (16), [[Tableau]] (13), data (12), [[Google Drive]] (2), game (2)
 > **UI Navigation:** click on (3), right-click (2), go to (1)
 > **Definitions:** is called (2), is a  (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** fpl (1)
 > **Cross-References:** go back to (1)
@@ -1907,8 +1907,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Tableau]] (15)
 > **Env Vars:** pdf (14), null (1), abc (1)
-> **Code Keywords:** let (3), case, (1), this. (1), import, (1), from. (1)
 > **UI Navigation:** click on (2), go to (2), select the (1), double-click (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
@@ -2015,9 +2015,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Tableau]] (4), [[Microsoft Excel|Excel]] (2), product (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (3), go to (3)
-> **Code Keywords:** let (1), case. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2121,7 +2121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), default, (2), let (1)
+> **Frameworks & Libraries:** data (30), [[Microsoft Excel|Excel]] (4), [[Tableau]] (3), next (1), database (1)
 > **Definitions:** is a  (2), stands for (1), means that (1)
 > **UI Navigation:** go to (1), right-click (1), click on (1)
 > **CLI Commands:** make (1), find (1)
@@ -2171,8 +2171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), product (4), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Env Vars:** nata (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -2347,7 +2347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** product (17), data (13), [[Microsoft Products|Products]] (8), [[Tableau]] (3), next (3)
 > **UI Navigation:** click on (3), go to (2), select the (1)
 > **CLI Commands:** make (4), find (1)
 > **Speakers:** - [instructor] (1)
@@ -2356,7 +2356,7 @@ created: 2026-04-29
 
 ### 3. Combining Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Combining data using relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980)
@@ -2447,9 +2447,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (11), data (10), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (1), click on (1), select the (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2593,7 +2593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), this. (1), match, (1), type, (1)
+> **Frameworks & Libraries:** data (18), product (7), [[Microsoft Products|Products]] (5), [[Tableau]] (4)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2736,7 +2736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), default, (1), case, (1), match, (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Products|Products]] (3), [[Tableau]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (4), scroll down (3), double-click (2), right-click (1)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** find (2), make (1)
@@ -2851,9 +2851,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Tableau]] (11), [[Microsoft Excel|Excel]] (6), database (4), strengths (1)
 > **UI Navigation:** click on (3), navigate to (1), select the (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (1), default, (1)
 > **Env Vars:** csv (2)
 > **File Paths:** target.csv (1)
 > **Cross-References:** go back to (1)
@@ -3017,7 +3017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), this. (1), override (1)
+> **Frameworks & Libraries:** data (20), [[Tableau]] (7), [[Microsoft Excel|Excel]] (2), [[Search]] (2), [[Google]] (1)
 > **UI Navigation:** scroll down (2), drag and drop (1), click on (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -3056,7 +3056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3294,7 +3294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), match, (1), from. (1), else. (1)
+> **Frameworks & Libraries:** data (30), [[Tableau]] (3), next (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (6), drag and drop (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (1)
@@ -3328,8 +3328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -3522,7 +3522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3), this, (1)
+> **Frameworks & Libraries:** data (22), [[Tableau]] (7), next (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)
 > **Cross-References:** go back to (1)
@@ -3534,7 +3534,7 @@ created: 2026-04-29
 
 ### 4. When and How to Create Data Extracts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the pros and cons of using a data extract?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-pros-and-cons-of-using-a-data-extract?u=76281980)
@@ -3685,9 +3685,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (33), database (4), [[Security]] (4), [[Tableau]] (2), hit (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), means that (1)
-> **Code Keywords:** case. (1), else. (1)
 > **Env Vars:** tdx (1), tde (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3778,9 +3778,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Tableau]] (11), [[Microsoft Excel|Excel]] (4), database (3), hit (2)
 > **UI Navigation:** right-click (3), go to (3), click on (1)
 > **CLI Commands:** make (4), mysql (1)
-> **Code Keywords:** case, (2), public (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3947,8 +3947,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (31), [[Tableau]] (8), [[Security]] (2), database (1)
 > **UI Navigation:** go to (6), click on (5), select the (1), scroll down (1)
-> **Code Keywords:** let (8), default, (1), case, (1), public (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -4132,8 +4132,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (36), [[Tableau]] (7), product (6), [[Security]] (2), business (1)
 > **UI Navigation:** click on (13), right-click (5), go to (2)
-> **Code Keywords:** let (2), case, (1), this. (1), for. (1), public (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -4142,7 +4142,7 @@ created: 2026-04-29
 
 ### 5. Comparing Measures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are measure names and measure values?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980)
@@ -4267,7 +4267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Tableau]] (11), data (5), next (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
 > **Versions:** 2.3 (1)
@@ -4402,7 +4402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), interface (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), data (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Cross-References:** go back to (1)
@@ -4549,9 +4549,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (2), data (2), hit (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (4), right-click (3), go to (1), double-click (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** case, (2), let (1), pass (1), case. (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4696,9 +4696,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), hit (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** let (1), for, (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -4793,7 +4793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (8), [[Tableau]] (3), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
 > **Versions:** 2.3 (1)
 > **UI Navigation:** drag and drop (1)
 > **Definitions:** is a  (1)
@@ -4884,9 +4884,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Tableau]] (2)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** let (2), type, (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** before we start (1)
@@ -4931,7 +4931,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -5202,7 +5201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (31), case, (1), this, (1)
+> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** click on (3), drag and drop (1), go to (1)
 > **Definitions:** is a  (1)
@@ -5240,7 +5239,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5418,7 +5416,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (1), switch (1)
+> **Frameworks & Libraries:** data (6), next (3), [[Tableau]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -5427,7 +5425,7 @@ created: 2026-04-29
 
 ### 6. Transform Your Data with Calculations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do calculations work in Tableau?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-calculations-work-in-tableau?u=76281980)
@@ -5588,7 +5586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (4), this, (1), case, (1)
+> **Frameworks & Libraries:** data (9), [[Tableau]] (7), hit (3), next (1)
 > **Env Vars:** upper (4)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (2), select the (1)
@@ -5722,9 +5720,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Tableau]] (4), [[Microsoft Products|Products]] (3), business (2), hit (1)
 > **CLI Commands:** make (9)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (2), type. (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5887,7 +5885,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (5), case, (4), for. (1), else. (1)
+> **Frameworks & Libraries:** [[Search]] (7), data (3), [[Tableau]] (3), hit (3), [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** startswith (4), endswith (2)
 > **UI Navigation:** click on (3)
 > **Definitions:** is called (1), refers to (1)
@@ -6028,9 +6026,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (5), data (5), [[Microsoft Products|Products]] (2), product (1)
 > **UI Navigation:** right-click (3), select the (2), click on (1), drag and drop (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6175,7 +6173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), this. (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Products|Products]] (2), data (2), business (1), product (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** picture (1), such as (1)
 > **Env Vars:** elseif (1)
@@ -6372,7 +6370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), type, (1)
+> **Frameworks & Libraries:** data (9), [[Tableau]] (3), next (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (2), select the (1), click on (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -6493,9 +6491,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Office|Office]] (2), [[Tableau]] (1)
 > **Versions:** 4.96 (2), 9.45 (1), 5.03 (1), 2.42 (1), 16.84 (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** case, (2), let (1)
 > **UI Navigation:** select the (1), go to (1), click on (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -6565,8 +6563,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), product (1), [[Tableau]] (1)
 > **Env Vars:** lod (7)
-> **Code Keywords:** include, (1), type. (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -6628,8 +6626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (13), [[Microsoft Products|Products]] (7), data (3), [[Tableau]] (1)
 > **Env Vars:** lod (2), include (1)
-> **Code Keywords:** case, (1), let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6712,8 +6710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Tableau]] (2)
 > **Env Vars:** lod (20)
-> **Code Keywords:** function (3), let (3), case. (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6868,7 +6866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), case, (2)
+> **Frameworks & Libraries:** data (22), [[Tableau]] (2), hit (1), database (1)
 > **Cross-References:** go back to (5)
 > **UI Navigation:** click on (3), go to (1), select the (1)
 > **Definitions:** is a  (2)
@@ -6917,7 +6915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (4), next (1), data (1)
 > **Env Vars:** lod (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (playful music) (1)
@@ -7079,7 +7077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16)
+> **Frameworks & Libraries:** product (8), data (4), next (2), [[Tableau]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** lod (2)
 > **Versions:** 0.3 (1), 0.7 (1)
@@ -7090,7 +7088,7 @@ created: 2026-04-29
 
 ### 7. Mapping Your Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Just because you can, should you create a map?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/just-because-you-can-should-you-create-a-map?u=76281980)
@@ -7253,8 +7251,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), next (2), [[Tableau]] (1), business (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (5), case, (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -7416,7 +7414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type. (1)
+> **Frameworks & Libraries:** data (19), [[Tableau]] (8), database (2), [[Microsoft Word|Word]] (1), product (1)
 > **Definitions:** is a  (6), is an  (2)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (3)
@@ -7569,7 +7567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), case, (1)
+> **Frameworks & Libraries:** data (22), [[Tableau]] (7), next (2), database (1), [[Zoom]] (1)
 > **Analogies:** for example (2), such as (1), picture (1), kind of like (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -7713,9 +7711,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (12), data (9), [[Tableau]] (1), [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (5), go to (4), select the (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), else, (1), case, (1)
 > **Cross-References:** go back to (3)
 > **Speakers:** - [instructor] (1)
 
@@ -7834,7 +7832,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1), type. (1)
+> **Frameworks & Libraries:** data (16), [[Tableau]] (14), [[Microsoft Excel|Excel]] (5), feature (2)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 34.396 (1), 119.521 (1)
@@ -7977,7 +7975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), this, (2), case, (1)
+> **Frameworks & Libraries:** [[Tableau]] (9), data (8), hit (3), database (1)
 > **Env Vars:** makepoint (3), makeline (2), makeobject (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), we call this (1), is called (1)
@@ -8113,7 +8111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), function (1)
+> **Frameworks & Libraries:** data (8), next (1)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** go to (1), drag and drop (1)
 > **Speakers:** - [instructor] (1)
@@ -8285,7 +8283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (9), case, (1)
+> **Frameworks & Libraries:** data (6), [[Tableau]] (5), [[Search]] (1), next (1), hit (1)
 > **Env Vars:** makepoint (3), intersects (1), count (1), iff (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), drag and drop (1), select the (1)
@@ -8330,7 +8328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -8517,7 +8515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (3), else. (1), case, (1), this. (1)
+> **Frameworks & Libraries:** data (5), next (3), hit (2), [[Tableau]] (1)
 > **CLI Commands:** make (16)
 > **Versions:** 51.51 (2)
 > **UI Navigation:** go to (1)
@@ -8528,7 +8526,7 @@ created: 2026-04-29
 
 ### 8 . The Analytics Tab
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the Analytics pane?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980)
@@ -8639,10 +8637,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Analytics]] (18), [[Tableau]] (5), [[Forecasting]] (1)
 > **UI Navigation:** drag and drop (6), click on (1)
 > **Analogies:** such as (2), for example (1), similar to (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this, (1), type, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Create a constant reference line
@@ -8756,7 +8754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (1)
+> **Frameworks & Libraries:** data (7), [[Analytics]] (7), [[Tableau]] (1)
 > **UI Navigation:** right-click (2), click on (1), select the (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** month (1)
@@ -8919,7 +8917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (4), static (2)
+> **Frameworks & Libraries:** data (5), [[Analytics]] (5), [[Microsoft Office|Office]] (3), [[Tableau]] (2), next (1)
 > **UI Navigation:** select the (2), go to (2), click on (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -9013,8 +9011,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Analytics]] (2), [[Tableau]] (1)
 > **UI Navigation:** go to (2), click on (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -9150,7 +9148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (1)
+> **Frameworks & Libraries:** [[Analytics]] (7), [[Microsoft Office|Office]] (4), next (1), data (1)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.3 (1)
@@ -9254,7 +9252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), function (1), continue (1), default, (1)
+> **Frameworks & Libraries:** [[Tableau]] (9), data (9), [[Analytics]] (5), [[Forecasting]] (3), next (3)
 > **UI Navigation:** go to (3), click on (3), drag and drop (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
@@ -9376,7 +9374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), continue (1)
+> **Frameworks & Libraries:** data (14), [[Analytics]] (3), [[Tableau]] (3), [[Statistics]] (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1), click on (1), drag and drop (1)
 > **Analogies:** for example (2), picture (1)
@@ -9494,7 +9492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** data (12), [[Tableau]] (9), [[Statistics]] (2), business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** drag and drop (2), go to (1), select the (1)
 > **Definitions:** means that (1)
@@ -9634,7 +9632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), default, (1), case. (1), static (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (3), [[Analytics]] (2), teams (1), [[Tableau]] (1)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -9677,7 +9675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** data (1), [[Analytics]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (cheerful upbeat music) (1)
 
@@ -9822,7 +9820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), type. (1)
+> **Frameworks & Libraries:** data (3), [[Analytics]] (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is a  (1)
@@ -9866,7 +9864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), type. (1), this. (1), let (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -10036,7 +10034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), type. (4), this. (1)
+> **Frameworks & Libraries:** data (8), [[Tableau]] (1), database (1), power (1)
 > **UI Navigation:** click on (2), dropdown (1), go to (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
@@ -10046,7 +10044,7 @@ created: 2026-04-29
 
 ### 9. Using Parameters for Viewer Input
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How are parameters different compared to filters?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-are-parameters-different-to-filters?u=76281980)
@@ -10187,8 +10185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Tableau]] (5)
 > **Definitions:** is a  (4), is called (1)
-> **Code Keywords:** let (1), for. (1), type. (1), this. (1)
 > **Env Vars:** sum (3)
 > **CLI Commands:** make (2)
 > **Analogies:** think of it as (1)
@@ -10324,7 +10322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), case. (1)
+> **Frameworks & Libraries:** data (6), [[Tableau]] (3)
 > **UI Navigation:** go to (3), right-click (2), click on (1)
 > **CLI Commands:** make (3)
 > **Versions:** 1.1 (1)
@@ -10478,7 +10476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), static (1), default, (1)
+> **Frameworks & Libraries:** data (3), hit (2), [[Analytics]] (2), next (1), [[Tableau]] (1)
 > **UI Navigation:** click on (4), go to (2), select the (1), dropdown (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), refers to (1), means that (1)
@@ -10657,7 +10655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (3), pass (3), this, (1), from, (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), data (4), next (1), [[Dashboards]] (1), hit (1)
 > **UI Navigation:** go to (3), click on (1), select the (1), drag and drop (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
@@ -10784,7 +10782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), pass (1), case, (1), for. (1)
+> **Frameworks & Libraries:** data (10), [[Search]] (8), [[Microsoft Word|Word]] (3), [[Tableau]] (2)
 > **CLI Commands:** make (3), find (3)
 > **Analogies:** for example (4), such as (2)
 > **Cross-References:** go back to (1)
@@ -10925,7 +10923,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this. (1)
+> **Frameworks & Libraries:** data (6), [[Tableau]] (2), [[Dashboards]] (2), [[Search]] (1)
 > **UI Navigation:** click on (3), go to (2), select the (2), dropdown (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -11092,7 +11090,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), match, (1), export. (1)
+> **Frameworks & Libraries:** data (15), [[Tableau]] (6), [[Microsoft Products|Products]] (4), [[Microsoft Excel|Excel]] (3), feature (2)
 > **UI Navigation:** click on (3), dropdown (3), go to (2), select the (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1), imagine (1)
@@ -11152,8 +11150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Env Vars:** usa (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -11380,7 +11378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (38), this, (2), delete (1), this. (1)
+> **Frameworks & Libraries:** product (15), [[Microsoft Products|Products]] (6), data (2), [[Tableau]] (1), next (1)
 > **CLI Commands:** make (7), find (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (1), is a  (1)
@@ -11390,7 +11388,7 @@ created: 2026-04-29
 
 ### 10. Dashboard Actions and Design Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the dashboard UI
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/introducing-the-dashboard-ui?u=76281980)
@@ -11559,9 +11557,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Tableau]] (3), [[Dashboards]] (1), product (1)
 > **CLI Commands:** make (11), find (1)
 > **UI Navigation:** click on (2), go to (1), in the menu (1), select the (1)
-> **Code Keywords:** interface (2), default, (1)
 > **Analogies:** such as (2), for example (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
@@ -11723,8 +11721,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (2), data (1)
 > **UI Navigation:** go to (8), click on (6), drag and drop (2), select the (2)
-> **Code Keywords:** let (7), else, (1), else. (1), delete (1)
 > **CLI Commands:** make (8)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -11836,7 +11834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (2), case. (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
@@ -11974,8 +11972,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), hit (3), [[Tableau]] (1), next (1), power (1)
 > **UI Navigation:** click on (7), select the (4), go to (1), dropdown (1)
-> **Code Keywords:** let (4), else. (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -12117,8 +12115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Tableau]] (5), [[Representational State Transfer (REST)|Rest]] (1), hit (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (7), select the (2), go to (1)
-> **Code Keywords:** let (5), case, (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
@@ -12202,9 +12200,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), web (1), [[Tableau]] (1)
 > **UI Navigation:** go to (6), open the (2), click on (2), select the (1)
 > **Env Vars:** url (9)
-> **Code Keywords:** pass (4), let (1), finally, (1), case, (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -12347,8 +12345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Tableau]] (1), data (1), hit (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (14), click on (11), navigate to (3)
-> **Code Keywords:** let (13), switch (1), this, (1), case, (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** go back to (1)
@@ -12487,8 +12485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1)
 > **UI Navigation:** go to (4), click on (4), select the (2)
-> **Code Keywords:** let (8), this, (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1), go back to (1)
 > **Definitions:** is a  (2)
@@ -12569,8 +12567,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (2), data (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), case. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -12613,8 +12611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (2), product (2), [[Microsoft Products|Products]] (1), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (playful music) (1)
@@ -12830,7 +12828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (43), this, (1), case. (1), this. (1), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Dashboards]] (1), data (1), next (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (2)
 > **Env Vars:** hotel (1)
@@ -13134,7 +13132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), this. (2), this, (1), switch (1)
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (8), data (3), [[Dashboards]] (3), hit (2)
 > **UI Navigation:** go to (5), click on (4), navigate to (1)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** go back to (2)
@@ -13146,7 +13144,7 @@ created: 2026-04-29
 
 ### 11. Analysis Tips and Tricks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create bar charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-bar-charts?u=76281980)
@@ -13179,7 +13177,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -13288,7 +13285,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), throw (1)
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (1), drag and drop (1)
 > **Analogies:** such as (2)
@@ -13362,7 +13359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1), this. (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), data (1)
 > **UI Navigation:** select the (2), drag and drop (1), go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -13438,7 +13435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), data (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** known as (1)
@@ -13513,8 +13510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1)
 > **UI Navigation:** right-click (1), select the (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -13561,7 +13558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **UI Navigation:** drag and drop (2)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** be aware (1)
@@ -13614,7 +13611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** quarter (1)
 > **UI Navigation:** right-click (1)
@@ -13689,8 +13686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** select the (2), drag and drop (1), right-click (1)
-> **Code Keywords:** let (2), case, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -13745,7 +13742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (3), next (1), [[Tableau]] (1)
 > **CLI Commands:** find (2)
 > **Versions:** 2.3 (1)
 > **UI Navigation:** drag and drop (1)
@@ -13807,8 +13804,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), power (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** case, (1), this, (1), type. (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -13867,8 +13864,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -13909,7 +13906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), data (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -13997,8 +13994,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Tableau]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** switch (1)
 > **Speakers:** - [tutor] (1)
 
 #### How to create 100% area charts
@@ -14054,7 +14051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -14092,8 +14089,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -14144,7 +14141,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -14202,9 +14198,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), data (2), [[Tableau]] (1)
 > **UI Navigation:** go to (2), right-click (1), select the (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** else, (1), case. (1)
 > **Versions:** 2.3 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -14251,8 +14247,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Tableau]] (1)
 > **UI Navigation:** click on (2), drag and drop (1), select the (1), go to (1)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -14322,7 +14318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Products|Products]] (2), [[Tableau]] (1), product (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
@@ -14415,9 +14411,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** right-click (1), select the (1), click on (1)
-> **Code Keywords:** let (1), static (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -14502,9 +14498,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Tableau]] (3), next (1)
 > **Definitions:** is a  (1), means that (1), is an  (1), known as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), let (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
@@ -14555,6 +14551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Tableau]] (2), database (1)
 > **Analogies:** similar to (1), for example (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
@@ -14616,6 +14613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Tableau]] (4)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** setup (1)
@@ -14680,8 +14678,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Tableau]] (1), next (1)
 > **UI Navigation:** go to (2), click on (2), dropdown (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -14788,7 +14786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (2), for. (1), class. (1)
+> **Frameworks & Libraries:** data (11), [[Tableau]] (2), next (1), business (1)
 > **UI Navigation:** go to (2), select the (2), click on (1), scroll down (1)
 > **Analogies:** for example (3)
 > **Env Vars:** datediff (2)
@@ -14798,7 +14796,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How can I grow my data science and Tableau skills?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980)
@@ -14915,7 +14913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), this. (1), let (1), else. (1)
+> **Frameworks & Libraries:** [[Tableau]] (15), data (14), [[Dashboards]] (4), next (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (1)

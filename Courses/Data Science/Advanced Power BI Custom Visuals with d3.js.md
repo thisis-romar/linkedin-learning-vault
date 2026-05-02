@@ -30,7 +30,7 @@ tags:
   - skill/d3-js
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Power%20BI%20Custom%20Visuals%20with%20d3.js.md)
@@ -49,53 +49,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Intro to Microsoft Power BI
-  - Who this course is for
-  - What is Power BI?
-  - What is a custom visual?
+  - [Intro to Microsoft Power BI](#intro-to-microsoft-power-bi)
+  - [Who this course is for](#who-this-course-is-for)
+  - [What is Power BI?](#what-is-power-bi)
+  - [What is a custom visual?](#what-is-a-custom-visual)
 - [**1. Set Up Your Environment**](#1-set-up-your-environment) (3 videos)
-  - Understand the target set up
-  - Licensing, software, and version requirements
-  - Create your first (demo) custom visual
+  - [Understand the target set up](#understand-the-target-set-up)
+  - [Licensing, software, and version requirements](#licensing-software-and-version-requirements)
+  - [Create your first (demo) custom visual](#create-your-first-demo-custom-visual)
 - [**2. Understand the File Setup**](#2-understand-the-file-setup) (2 videos)
-  - Understand the folder structure of your new project
-  - Understand key files and Identify the ones to change
+  - [Understand the folder structure of your new project](#understand-the-folder-structure-of-your-new-project)
+  - [Understand key files and Identify the ones to change](#understand-key-files-and-identify-the-ones-to-change)
 - [**3. Build a KPI Box Visual Using "Single" Data**](#3-build-a-kpi-box-visual-using-single-data) (14 videos)
-  - See the target visual, data, and formatting
-  - Edit capabilities.json and inspect the resulting data
-  - Edit visual.ts to display a KPI value in Power BI
-  - Edit visual.ts to access the user's formatting choices
-  - Add a responsive SVG using D3
-  - Add rectangles and text to your KPI visual
-  - Use formatting utils API to set text size dynamically
-  - Use font size and fill color from the formatting pane
-  - Challenge: Add fill opacity to the formatting pane
-  - Solution: Add fill opacity to the formatting pane
-  - Challenge: Change the font color the KPI and label
-  - Solution: Change the font color the KPI and label
-  - Challenge: Place label at top or bottom
-  - Solution: Place label at top or bottom
+  - [See the target visual, data, and formatting](#see-the-target-visual-data-and-formatting)
+  - [Edit capabilities.json and inspect the resulting data](#edit-capabilitiesjson-and-inspect-the-resulting-data)
+  - [Edit visual.ts to display a KPI value in Power BI](#edit-visualts-to-display-a-kpi-value-in-power-bi)
+  - [Edit visual.ts to access the user's formatting choices](#edit-visualts-to-access-the-users-formatting-choices)
+  - [Add a responsive SVG using D3](#add-a-responsive-svg-using-d3)
+  - [Add rectangles and text to your KPI visual](#add-rectangles-and-text-to-your-kpi-visual)
+  - [Use formatting utils API to set text size dynamically](#use-formatting-utils-api-to-set-text-size-dynamically)
+  - [Use font size and fill color from the formatting pane](#use-font-size-and-fill-color-from-the-formatting-pane)
+  - [Challenge: Add fill opacity to the formatting pane](#challenge-add-fill-opacity-to-the-formatting-pane)
+  - [Solution: Add fill opacity to the formatting pane](#solution-add-fill-opacity-to-the-formatting-pane)
+  - [Challenge: Change the font color the KPI and label](#challenge-change-the-font-color-the-kpi-and-label)
+  - [Solution: Change the font color the KPI and label](#solution-change-the-font-color-the-kpi-and-label)
+  - [Challenge: Place label at top or bottom](#challenge-place-label-at-top-or-bottom)
+  - [Solution: Place label at top or bottom](#solution-place-label-at-top-or-bottom)
 - [**4. Build a Scatter Chart Using "Categorical" Data**](#4-build-a-scatter-chart-using-categorical-data) (6 videos)
-  - Tell Power BI to accept categorical data
-  - Create D3 linear scales and axes in your custom visual
-  - Add some dots to make a scatterplot
-  - Add some dots to make a scatterplot
-  - Challenge: Make the dots responsive
-  - Solution: Make the dots responsive
+  - [Tell Power BI to accept categorical data](#tell-power-bi-to-accept-categorical-data)
+  - [Create D3 linear scales and axes in your custom visual](#create-d3-linear-scales-and-axes-in-your-custom-visual)
+  - [Add some dots to make a scatterplot](#add-some-dots-to-make-a-scatterplot)
+  - [Add some dots to make a scatterplot](#add-some-dots-to-make-a-scatterplot)
+  - [Challenge: Make the dots responsive](#challenge-make-the-dots-responsive)
+  - [Solution: Make the dots responsive](#solution-make-the-dots-responsive)
 - [**5. Convert to a Bubble Chart with Group by Data**](#5-convert-to-a-bubble-chart-with-group-by-data) (7 videos)
-  - Grouping your data to help make a bubble chart
-  - Create grouped scatter plot data, to allow different colors per category
-  - Update your D3 code to reflect your new grouped data
-  - Add a size dimension to create a bubble chart
-  - Distributing your visual
-  - Challenge: Change the hard coding of colors into dynamic coloring based on an array
-  - Solution: Change the hard coding of colors into dynamic coloring based on an array
+  - [Grouping your data to help make a bubble chart](#grouping-your-data-to-help-make-a-bubble-chart)
+  - [Create grouped scatter plot data, to allow different colors per category](#create-grouped-scatter-plot-data-to-allow-different-colors-per-category)
+  - [Update your D3 code to reflect your new grouped data](#update-your-d3-code-to-reflect-your-new-grouped-data)
+  - [Add a size dimension to create a bubble chart](#add-a-size-dimension-to-create-a-bubble-chart)
+  - [Distributing your visual](#distributing-your-visual)
+  - [Challenge: Change the hard coding of colors into dynamic coloring based on an array](#challenge-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array)
+  - [Solution: Change the hard coding of colors into dynamic coloring based on an array](#solution-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Goodbye
+  - [Goodbye](#goodbye)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Microsoft Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980)
@@ -120,8 +120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), bi (3), data (1), [[Microsoft]] (1), [[Programming]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [emma] (1)
 
@@ -154,13 +154,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), data (1), web (1), [[D3.js]] (1), [[JavaScript]] (1)
 > **Env Vars:** less (3), json (2), css (1)
 > **Tools:** terminal (2), command prompt (1), vs code (1)
 > **Versions:** version 4 (1), version 5 (1), version 3 (1)
 > **Analogies:** similar to (2)
 > **File Paths:** d3.js (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### What is Power BI?
@@ -218,8 +218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (11), bi (11), data (5), database (3), [[Microsoft]] (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1), default. (1)
 > **UI Navigation:** click on (1), drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
@@ -278,8 +278,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), bi (5), [[Microsoft]] (3), [[JSON]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (1), interface (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** json (1)
 > **UI Navigation:** click on (1)
@@ -289,7 +289,7 @@ created: 2026-04-29
 
 ### 1. Set Up Your Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the target set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-target-set-up?u=76281980)
@@ -334,11 +334,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), node (1), prompt (1)
 > **CLI Commands:** make (3), node (1)
 > **Tools:** terminal (2), vs code (1), command prompt (1)
 > **Env Vars:** pbi (3)
 > **Prerequisites:** setup (2), set up (1)
-> **Code Keywords:** for, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Licensing, software, and version requirements
@@ -436,12 +436,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (7), node (6), power (3), bi (3), next (3)
 > **CLI Commands:** node (7), npm (7), find (1)
 > **Env Vars:** npm (7), api (2), nvm (1), msi (1)
 > **Prerequisites:** install (8), you'll need (1)
 > **Tools:** terminal (2), command prompt (2), vs code (1), visual studio (1), powershell (1)
 > **Versions:** version 12 (1), version 10 (1), version 3 (1), version 2 (1)
-> **Code Keywords:** this, (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** note that (1), important note (1)
 
@@ -612,19 +612,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (12), bi (12), next (5), prompt (4), [[npm]] (3)
 > **CLI Commands:** make (3), npm (3), node (1), find (1)
 > **Code Identifiers:** circlecard (4), circlecard2 (1), circledcard2 (1)
 > **Env Vars:** npm (3), api (2), f12 (1)
 > **Tools:** command prompt (4), terminal (1), vs code (1)
 > **Prerequisites:** install (4), set up (2)
-> **Code Keywords:** let (1), switch (1), finally, (1), private (1), new, (1)
 > **UI Navigation:** go to (2), navigate to (1)
 > **Definitions:** is a  (2)
 
 
 ### 2. Understand the File Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the folder structure of your new project
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980)
@@ -789,7 +789,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), function (2), else, (1), new, (1)
+> **Frameworks & Libraries:** power (4), bi (4), prompt (2), data (2), hit (1)
 > **Tools:** terminal (5), visual studio (1), command prompt (1)
 > **CLI Commands:** make (2), find (2), node (1), git (1)
 > **Code Identifiers:** node_modules (3), typescript (1)
@@ -951,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), this, (1), module (1), match. (1)
+> **Frameworks & Libraries:** data (23), power (7), bi (7), [[Google]] (1)
 > **Env Vars:** url (3), pbi (2)
 > **UI Navigation:** drag and drop (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -963,7 +963,7 @@ created: 2026-04-29
 
 ### 3. Build a KPI Box Visual Using "Single" Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### See the target visual, data, and formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/see-the-target-visual-data-and-formatting-8575930?u=76281980)
@@ -1002,8 +1002,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** kpi (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1267,7 +1267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (3), default, (1), pass (1), delete (1)
+> **Frameworks & Libraries:** data (36), power (7), bi (7), [[Microsoft Word|Word]] (4), [[JSON]] (3)
 > **Env Vars:** kpi (6), f12 (1)
 > **File Paths:** capabilities.json (3), visual.ts (2)
 > **UI Navigation:** drag and drop (4)
@@ -1461,7 +1461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), this . (2), class. (1), module (1)
+> **Frameworks & Libraries:** power (9), bi (9), node (7), api (3), [[Microsoft]] (2)
 > **Env Vars:** kpi (4), api (3), html (2), npm (1), f12 (1)
 > **CLI Commands:** node (7), make (2), npm (1)
 > **Definitions:** is a  (3), is an  (1), means that (1), in other words (1), is called (1)
@@ -1529,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3)
+> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), next (1)
 > **File Paths:** settings.ts (1), capabilities.json (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), is an  (1)
@@ -1635,7 +1635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), private (4), delete (4), function (3), this. (3)
+> **Frameworks & Libraries:** data (3), power (3), bi (3), [[JSON]] (3), next (2)
 > **Env Vars:** svg (15), kpi (1)
 > **CLI Commands:** make (5), find (4)
 > **File Paths:** capabilities.json (3), visual.ts (1)
@@ -1833,7 +1833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (6), private (5), this. (4), class. (1)
+> **Frameworks & Libraries:** data (11), power (2), bi (2), [[Metadata]] (2), [[Microsoft]] (1)
 > **Env Vars:** kpi (12), svg (3)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), in other words (1)
@@ -2033,8 +2033,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (3), [[Microsoft]] (2), node (2), [[npm]] (1)
 > **Code Identifiers:** textwidth (7), fontsize (7), textmeasurementservice (4), textproperties (4), ivalueformatter (3)
-> **Code Keywords:** let (15), this. (2), finally, (2), function (1), pass (1)
 > **CLI Commands:** make (5), node (2), npm (1)
 > **Prerequisites:** install (3), set up (1)
 > **Definitions:** is called (1), means that (1), is a  (1)
@@ -2231,8 +2231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1), hit (1), cloud (1)
 > **Code Identifiers:** labeltext (5), kpibox (3), fontsize (3), labelboxheight (3), displayname (2)
-> **Code Keywords:** let (14), this. (5), interface (2), delete (2), function (2)
 > **File Paths:** visual.ts (3), capabilities.json (2), settings.ts (2)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (4), means that (1)
@@ -2332,7 +2332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), this. (1), type, (1), public (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[GitHub]] (1), [[Google]] (1), power (1), bi (1)
 > **CLI Commands:** make (3), find (2)
 > **Code Identifiers:** opacitykpi (2), tostring (2)
 > **Definitions:** is a  (3)
@@ -2350,7 +2350,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2396,10 +2395,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), [[JSON]] (1)
 > **Env Vars:** kpi (6)
 > **UI Navigation:** go to (3)
 > **File Paths:** visual.ts (1), capabilities.json (1)
-> **Code Keywords:** let (1), type, (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
@@ -2486,8 +2485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), bi (1)
 > **Code Identifiers:** labelboxheight (5), labellocation (3), displaynamekey (2), labelbox (2), labeltext (2)
-> **Code Keywords:** let (2), type, (1), case, (1)
 > **UI Navigation:** dropdown (3), go to (1)
 > **Env Vars:** kpi (1)
 > **Definitions:** is a  (1)
@@ -2497,7 +2496,7 @@ created: 2026-04-29
 
 ### 4. Build a Scatter Chart Using "Categorical" Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tell Power BI to accept categorical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980)
@@ -2742,7 +2741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), type. (2), type, (1), this. (1), else. (1)
+> **Frameworks & Libraries:** data (19), power (8), bi (8), next (1), [[Financial Data]] (1)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** kpi (3)
@@ -3012,8 +3011,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), next (3), power (3), bi (3)
 > **Code Identifiers:** dotdata (6), xindex (6), xmax (4), datapoint (4), yindex (4)
-> **Code Keywords:** let (16), this. (4), function (3), this, (3), delete (1)
 > **CLI Commands:** make (3), find (3)
 > **Env Vars:** kpi (2)
 > **File Paths:** visual.ts (1)
@@ -3228,7 +3227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (3), delete (1), private (1), this. (1)
+> **Frameworks & Libraries:** data (39), next (5), bi (4), power (3)
 > **CLI Commands:** make (3), find (3)
 > **Env Vars:** svg (4), kpi (2)
 > **Versions:** 0.0 (1)
@@ -3358,7 +3357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (6), class, (1), for, (1), delete (1)
+> **Frameworks & Libraries:** [[JSON]] (3), data (2), [[Representational State Transfer (REST)|Rest]] (2), next (2), power (1)
 > **Code Identifiers:** dotdata (2), dotsgroup (2), markersize (2), datapoint (2), selectall (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** kpi (4)
@@ -3452,8 +3451,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), hit (1), power (1), bi (1)
 > **Code Identifiers:** updateselection (4), dotdata (3), enterselection (1), exitselection (1), enterselections (1)
-> **Code Keywords:** let (2), this. (1), for, (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** visual.ts (1)
@@ -3464,7 +3463,7 @@ created: 2026-04-29
 
 ### 5. Convert to a Bubble Chart with Group by Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping your data to help make a bubble chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/grouping-your-data-to-help-make-a-bubble-chart?u=76281980)
@@ -3597,7 +3596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), this, (1), type. (1)
+> **Frameworks & Libraries:** data (19), feature (1), power (1), bi (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -3755,9 +3754,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), [[Microsoft]] (4), [[Microsoft Word|Word]] (3), next (1), power (1)
 > **CLI Commands:** cat (8), make (3)
 > **Env Vars:** cat (8)
-> **Code Keywords:** let (3), delete (1), function (1), this, (1)
 > **File Paths:** visual.ts (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -3846,8 +3845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), power (3), bi (3), dom (1), hit (1)
 > **CLI Commands:** make (3), cat (1), find (1)
-> **Code Keywords:** type. (1), type, (1), interface (1), let (1)
 > **Definitions:** is a  (2), means that (1)
 > **UI Navigation:** go to (1), select the (1)
 > **File Paths:** visual.ts (1)
@@ -3950,7 +3949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), if. (1)
+> **Frameworks & Libraries:** data (10), [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (keyboard clicking) (2)
 > **File Paths:** visual.ts (1)
@@ -4079,7 +4078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (2), private (1)
+> **Frameworks & Libraries:** power (5), bi (5), [[JSON]] (4), [[Microsoft]] (3), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** make (2), git (1)
 > **Env Vars:** url (2), f85 (1)
@@ -4101,6 +4100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), bi (2), data (2), [[LinkedIn]] (1), career (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [emma] (1)
@@ -4118,13 +4118,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/goodbye?u=76281980)
@@ -4219,8 +4220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), node (2)
 > **CLI Commands:** cat (4), make (2), node (2)
-> **Code Keywords:** let (4), function (2), this, (1), type. (1)
 > **Env Vars:** dij (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** refers to (1)

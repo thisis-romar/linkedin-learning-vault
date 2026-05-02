@@ -38,7 +38,7 @@ tags:
   - skill/data-cleaning
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Cleaning%20and%20Manipulating%20with%20Python%20in%20Excel.md)
@@ -57,42 +57,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Leverage Python in Excel
-  - What you should know
+  - [Leverage Python in Excel](#leverage-python-in-excel)
+  - [What you should know](#what-you-should-know)
 - [**1. Intro to Data Cleaning**](#1-intro-to-data-cleaning) (6 videos)
-  - Dataframes
-  - Missing values
-  - Removing duplicates
-  - Correcting date types
-  - Challenge: Data cleaning
-  - Solution: Data cleaning
+  - [Dataframes](#dataframes)
+  - [Missing values](#missing-values)
+  - [Removing duplicates](#removing-duplicates)
+  - [Correcting date types](#correcting-date-types)
+  - [Challenge: Data cleaning](#challenge-data-cleaning)
+  - [Solution: Data cleaning](#solution-data-cleaning)
 - [**2. Advanced Data Cleaning Techniques**](#2-advanced-data-cleaning-techniques) (6 videos)
-  - Cleaning text data
-  - Time data
-  - Validating data
-  - Manipulating columns
-  - Challenge: Advanced data cleaning
-  - Solution: Advanced data cleaning
+  - [Cleaning text data](#cleaning-text-data)
+  - [Time data](#time-data)
+  - [Validating data](#validating-data)
+  - [Manipulating columns](#manipulating-columns)
+  - [Challenge: Advanced data cleaning](#challenge-advanced-data-cleaning)
+  - [Solution: Advanced data cleaning](#solution-advanced-data-cleaning)
 - [**3. Data Manipulation**](#3-data-manipulation) (6 videos)
-  - Data aggregation
-  - Filtering and sorting
-  - Grouping data
-  - Manipulating text data
-  - Challenge: Data manipulation
-  - Solution: Data manipulation
+  - [Data aggregation](#data-aggregation)
+  - [Filtering and sorting](#filtering-and-sorting)
+  - [Grouping data](#grouping-data)
+  - [Manipulating text data](#manipulating-text-data)
+  - [Challenge: Data manipulation](#challenge-data-manipulation)
+  - [Solution: Data manipulation](#solution-data-manipulation)
 - [**4. Advanced Data Manipulation**](#4-advanced-data-manipulation) (6 videos)
-  - Merging and joining
-  - PivotTables
-  - Creating charts
-  - Data trends
-  - Challenge: Advanced data manipulation
-  - Solution: Advanced data manipulation
+  - [Merging and joining](#merging-and-joining)
+  - [PivotTables](#pivottables)
+  - [Creating charts](#creating-charts)
+  - [Data trends](#data-trends)
+  - [Challenge: Advanced data manipulation](#challenge-advanced-data-manipulation)
+  - [Solution: Advanced data manipulation](#solution-advanced-data-manipulation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your next steps with Python in Excel
+  - [Your next steps with Python in Excel](#your-next-steps-with-python-in-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Python (Programming Language)|Python]] (4), [[Analytics]] (2), data (2), next (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [chris] (1)
 
@@ -147,9 +147,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2), [[Pivot Tables]] (1), [[Analytics]] (1), data (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** sum (1), count (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Intro to Data Cleaning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dataframes
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980)
@@ -238,8 +238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (6), [[Data Manipulation]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (7), make (2), find (1)
-> **Code Keywords:** let (3), this, (1), this. (1)
 > **Env Vars:** g11 (2), df1 (1), j15 (1), df2 (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
@@ -384,7 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (8), this. (2), this, (2)
+> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (3), next (3)
 > **CLI Commands:** python (12), make (2), find (1)
 > **Analogies:** just like (4), similar to (1)
 > **Code Identifiers:** name_swap (1), region_swap (1), charlie_id (1)
@@ -542,7 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (4), next (2), [[Microsoft Excel|Excel]] (2), career (1)
 > **Code Identifiers:** employee_id (3), drop_duplicates (2), duplicate_rows (1), duplicate_id (1)
 > **CLI Commands:** python (4), make (2)
 > **Analogies:** for example (2), just like (1)
@@ -658,7 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), continue (1), super (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (3), data (3), next (2)
 > **CLI Commands:** python (3), find (1)
 > **Analogies:** for example (4)
 > **Code Identifiers:** short_date (2), to_datetime (1)
@@ -700,6 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1), next (1)
 > **CLI Commands:** python (1), find (1), make (1)
 > **Env Vars:** s2077 (1)
 > **Cross-References:** in the next (1)
@@ -707,7 +708,6 @@ created: 2026-04-29
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
-> **Non-Speech:** (soft upbeat music) (1)
 
 #### Solution: Data cleaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980)
@@ -856,7 +856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (4), throw (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** new_df (5), new_date (1), new_id (1), new_salesperson (1), west_to_north (1)
 > **CLI Commands:** python (5), make (3)
 > **Env Vars:** s2077 (3), d14 (1)
@@ -868,7 +868,7 @@ created: 2026-04-29
 
 ### 2. Advanced Data Cleaning Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cleaning text data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980)
@@ -969,7 +969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), from, (2), function (2)
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (8), next (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (8), make (5)
 > **Analogies:** for example (2), just like (2), similar to (1)
 > **UI Navigation:** go to (4)
@@ -1101,7 +1101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (1), function (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (3), next (1)
 > **CLI Commands:** python (4), make (2), find (1)
 > **Ports:** :00 (4), :15 (1), :30 (1)
 > **Analogies:** similar to (2), for example (1)
@@ -1201,8 +1201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (3), next (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (3), make (1), find (1)
-> **Code Keywords:** let (3), this, (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise file (1)
@@ -1307,7 +1307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this, (3), from, (1)
+> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (5), next (2), [[Microsoft Excel|Excel]] (1), game (1)
 > **CLI Commands:** python (5), make (4)
 > **Code Identifiers:** drop_region (1), city_state (1), full_name (1)
 > **UI Navigation:** go to (3)
@@ -1352,7 +1352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Exercise Files:** exercise file (1)
@@ -1489,7 +1489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (1), this, (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), next (3)
 > **CLI Commands:** python (4), make (3), find (1)
 > **Code Identifiers:** df (4), east_rows (1), date_hour (1)
 > **UI Navigation:** go to (3)
@@ -1501,7 +1501,7 @@ created: 2026-04-29
 
 ### 3. Data Manipulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data aggregation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980)
@@ -1646,8 +1646,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (9), next (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (9), find (7), make (1)
-> **Code Keywords:** function (5), let (3), this, (1)
 > **Versions:** 50.25 (1), 56.16 (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise file (1)
@@ -1788,7 +1788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), this, (3), for. (3), function (2), finally, (1)
+> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (3), next (3), power (1)
 > **CLI Commands:** python (11), find (8), make (1)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** sort_values (1)
@@ -1901,7 +1901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), function (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), next (1)
 > **CLI Commands:** python (5), find (3), make (3)
 > **Code Identifiers:** reset_index (1)
 > **Env Vars:** h14 (1)
@@ -2003,7 +2003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3), finally, (1)
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (7), next (2), [[Analytics]] (1), career (1)
 > **CLI Commands:** python (7), make (2), find (2)
 > **Env Vars:** str (2)
 > **Definitions:** is a  (2)
@@ -2038,8 +2038,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1), make (1)
-> **Code Keywords:** this, (1), finally, (1), this. (1), let (1)
 > **Cross-References:** we discussed (1), later in (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -2198,7 +2198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (5), this. (1), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (5), next (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (10), python (9), make (1)
 > **UI Navigation:** go to (5), open the (1)
 > **Env Vars:** h10 (1), h12 (1)
@@ -2210,7 +2210,7 @@ created: 2026-04-29
 
 ### 4. Advanced Data Manipulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Merging and joining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/merging-and-joining?u=76281980)
@@ -2377,7 +2377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (6), match, (2), this, (2), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Microsoft Excel|Excel]] (4), data (3), next (2), game (1)
 > **CLI Commands:** python (10)
 > **Env Vars:** c10 (1), c11 (1), c12 (1)
 > **Analogies:** just like (3)
@@ -2521,7 +2521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (6), this, (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Pivot Tables]] (6), data (5), next (5), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** python (7), find (2), make (2)
 > **Code Identifiers:** pivot_table (2), aggfunction (1), reset_index (1)
 > **UI Navigation:** go to (2)
@@ -2697,7 +2697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (3), finally, (1), throw (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** python (5), find (1)
 > **UI Navigation:** go to (1), right-click (1), click on (1)
 > **Cross-References:** previous chapter (1), next video (1)
@@ -2847,7 +2847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (5), this, (3), case, (2), this. (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (6), next (2), [[Microsoft Excel|Excel]] (1), [[Analytics]] (1)
 > **CLI Commands:** python (8), find (8), make (3)
 > **Code Identifiers:** rolling_sum (1), rolling_average (1), revenue_change (1), pct_change (1)
 > **Analogies:** for example (3), it's like (1)
@@ -2885,8 +2885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Pivot Tables]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** find (3), python (1), make (1)
-> **Code Keywords:** let (2), this, (1), finally, (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -3031,7 +3031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (4), this, (2), throw (1), this. (1)
+> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (5), next (4)
 > **CLI Commands:** python (5), find (3), make (2)
 > **Code Identifiers:** new_df (2), pivot_table (2), employee_pivot (1), underscore_df (1)
 > **Env Vars:** g13 (1), j10 (1)
@@ -3043,7 +3043,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next steps with Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980)
@@ -3074,6 +3074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (3), data (2), [[Analytics]] (2)
 > **CLI Commands:** python (3), find (2), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

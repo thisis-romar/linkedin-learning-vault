@@ -48,7 +48,7 @@ tags:
   - skill/soft-skills
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Non%20Technical%20Skills%20Of%20Effective%20Data%20Scientists.md)
@@ -67,27 +67,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The non-obvious skills data scientists should think about
+  - [The non-obvious skills data scientists should think about](#the-non-obvious-skills-data-scientists-should-think-about)
 - [**1. What is Data Science?**](#1-what-is-data-science) (2 videos)
-  - Data Science is about inference and prediction
-  - Diagnosing inference vs. prediction projects
+  - [Data Science is about inference and prediction](#data-science-is-about-inference-and-prediction)
+  - [Diagnosing inference vs. prediction projects](#diagnosing-inference-vs-prediction-projects)
 - [**2. Imperative Nontechnical Skills**](#2-imperative-nontechnical-skills) (10 videos)
-  - Confidently defending your turf
-  - Embracing ambiguity
-  - Cognitive empathy
-  - Skepticism
-  - Curiosity
-  - Commitment to your craft
-  - Managing both up and down
-  - Being an effective analytics translator
-  - Diplomacy
-  - Persuasion
+  - [Confidently defending your turf](#confidently-defending-your-turf)
+  - [Embracing ambiguity](#embracing-ambiguity)
+  - [Cognitive empathy](#cognitive-empathy)
+  - [Skepticism](#skepticism)
+  - [Curiosity](#curiosity)
+  - [Commitment to your craft](#commitment-to-your-craft)
+  - [Managing both up and down](#managing-both-up-and-down)
+  - [Being an effective analytics translator](#being-an-effective-analytics-translator)
+  - [Diplomacy](#diplomacy)
+  - [Persuasion](#persuasion)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The non-obvious skills data scientists should think about
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/the-non-obvious-skills-data-scientists-should-think-about?u=76281980)
@@ -114,12 +114,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), management (1)
 > **Speakers:** - if (1)
 
 
 ### 1. What is Data Science?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data Science is about inference and prediction
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980)
@@ -166,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), teams (2), management (2), [[Analytics]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
@@ -221,8 +223,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (1), [[Predictive Modeling]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (1), include, (1), require (1), let (1)
 > **Definitions:** in other words (1)
 > **Warnings:** note that (1)
 > **Speakers:** - most (1)
@@ -230,7 +232,7 @@ created: 2026-04-29
 
 ### 2. Imperative Nontechnical Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Confidently defending your turf
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980)
@@ -293,9 +295,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Analytics]] (3), [[Interviewing]] (2), management (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - if (1)
 
 #### Embracing ambiguity
@@ -399,8 +401,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[CRISP-DM]] (1), business (1)
 > **Non-Speech:** (mellow music) (8)
-> **Code Keywords:** let (3), function (2), case, (1), super (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** crisp (1)
 > **UI Navigation:** go to (1)
@@ -478,8 +480,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Feature Engineering]] (2), traffic (1), database (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - from (1)
 
@@ -592,6 +594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), data (2), next (1), [[Statistics]] (1)
 > **Warnings:** keep in mind (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -711,7 +714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), pass (1)
+> **Frameworks & Libraries:** data (7)
 > **Definitions:** is a  (2)
 > **URLs:** [mint.com](https://mint.com) (1)
 > **Analogies:** for instance (1)
@@ -814,8 +817,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), career (3), [[Knime]] (2), [[Predictive Analytics]] (1), product (1)
 > **Env Vars:** ibm (2), knime (2), tdwi (1), kdd (1), h2o (1)
-> **Code Keywords:** finally, (2), this. (2), new. (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** go to (2)
 > **URLs:** [h2o.ai](https://h2o.ai) (1)
@@ -911,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), this, (2)
+> **Frameworks & Libraries:** data (3), management (2), next (1), [[Analytics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cmo (1), coo (1)
 > **Analogies:** for instance (2)
@@ -982,8 +985,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (6), business (6), management (3), data (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** raise (1), let (1)
 > **Env Vars:** rmse (1), roi (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -1083,6 +1086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Statistics]] (3), business (2), database (1), management (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - organizational (1)
 
@@ -1183,7 +1187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), for. (1)
+> **Frameworks & Libraries:** data (3), management (2), node (1), [[Dashboards]] (1)
 > **CLI Commands:** node (1)
 > **Versions:** node 21 (1)
 > **Analogies:** imagine (1)
@@ -1192,7 +1196,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980)
@@ -1215,6 +1219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CRISP-DM]] (1), data (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** crisp (1)
 > **Speakers:** - i (1)

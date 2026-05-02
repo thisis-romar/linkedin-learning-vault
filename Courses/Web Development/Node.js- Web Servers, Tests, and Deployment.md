@@ -34,7 +34,7 @@ tags:
   - skill/node-js
   - skill/software-deployment
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Web%20Servers%2C%20Tests%2C%20and%20Deployment.md)
@@ -53,43 +53,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Going beyond the basics in Node
-  - What you should know
-  - Working with VS Code
+  - [Going beyond the basics in Node](#going-beyond-the-basics-in-node)
+  - [What you should know](#what-you-should-know)
+  - [Working with VS Code](#working-with-vs-code)
 - [**1. The HTTP Module**](#1-the-http-module) (5 videos)
-  - Making a request with the request method
-  - Making a request with the GET method
-  - Building a web server
-  - Creating a file server
-  - Serving JSON data
+  - [Making a request with the request method](#making-a-request-with-the-request-method)
+  - [Making a request with the GET method](#making-a-request-with-the-get-method)
+  - [Building a web server](#building-a-web-server)
+  - [Creating a file server](#creating-a-file-server)
+  - [Serving JSON data](#serving-json-data)
 - [**2. npm**](#2-npm) (5 videos)
-  - The package.json file
-  - Using import statements
-  - Using minimist
-  - Using tiny-timer
-  - Managing packages
+  - [The package.json file](#the-packagejson-file)
+  - [Using import statements](#using-import-statements)
+  - [Using minimist](#using-minimist)
+  - [Using tiny-timer](#using-tiny-timer)
+  - [Managing packages](#managing-packages)
 - [**3. Web Servers**](#3-web-servers) (5 videos)
-  - File servers with serve
-  - Intro to Express
-  - Handling POST requests
-  - Handling DELETE requests
-  - Using Express middleware
+  - [File servers with serve](#file-servers-with-serve)
+  - [Intro to Express](#intro-to-express)
+  - [Handling POST requests](#handling-post-requests)
+  - [Handling DELETE requests](#handling-delete-requests)
+  - [Using Express middleware](#using-express-middleware)
 - [**4. WebSockets**](#4-websockets) (4 videos)
-  - Creating a WebSocket
-  - Broadcasting messages with a WebSocket
-  - Creating a WebSocket client with Socket.IO
-  - Emitting Socket.IO events
+  - [Creating a WebSocket](#creating-a-websocket)
+  - [Broadcasting messages with a WebSocket](#broadcasting-messages-with-a-websocket)
+  - [Creating a WebSocket client with Socket.IO](#creating-a-websocket-client-with-socketio)
+  - [Emitting Socket.IO events](#emitting-socketio-events)
 - [**5. Node.js Testing**](#5-nodejs-testing) (4 videos)
-  - Creating modular projects
-  - Configuring Babel with Jest
-  - Writing a test
-  - Using code coverage
+  - [Creating modular projects](#creating-modular-projects)
+  - [Configuring Babel with Jest](#configuring-babel-with-jest)
+  - [Writing a test](#writing-a-test)
+  - [Using code coverage](#using-code-coverage)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going beyond the basics in Node
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980)
@@ -124,9 +124,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (6), next (2), [[JavaScript]] (2), [[npm]] (1), web (1)
 > **CLI Commands:** node (6), find (1), npm (1)
 > **File Paths:** node.js (6)
-> **Code Keywords:** let (2)
 > **Env Vars:** npm (1)
 > **Tools:** command line (1)
 > **Prerequisites:** install (1)
@@ -175,8 +175,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), node (2), [[Node.js]] (2), hit (1)
 > **CLI Commands:** node (4), make (2)
-> **Code Keywords:** this. (2), let (1), new. (1), continue (1)
 > **Tools:** terminal (2), command prompt (2)
 > **File Paths:** node.js (2)
 > **UI Navigation:** click on (2)
@@ -219,10 +219,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (1)
 > **Tools:** visual studio (3), vs code (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** node (1), find (1)
-> **Code Keywords:** this. (1), this, (1)
 > **Definitions:** is a  (1), is called (1)
 > **File Paths:** node.js (1)
 > **Exercise Files:** exercise files (1)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 ### 1. The HTTP Module
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making a request with the request method
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980)
@@ -350,7 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (6), let (4), this, (3), function (3), import, (1)
+> **Frameworks & Libraries:** data (9), [[HTML]] (4), node (3), [[Security]] (2), [[Node.js]] (1)
 > **CLI Commands:** make (8), node (4), find (1), cd (1)
 > **Code Identifiers:** responsebody (4), setencoding (2), writefile (1)
 > **Env Vars:** http (2), html (2), https (1), utf (1)
@@ -426,7 +426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), pass (2), module (1), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (2), data (1), node (1)
 > **CLI Commands:** make (5), node (1)
 > **Env Vars:** https (1), html (1)
 > **File Paths:** cher.html (1)
@@ -540,7 +540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), module (2), pass (1), type. (1)
+> **Frameworks & Libraries:** [[HTML]] (8), web (4), [[Node.js]] (2), node (1), next (1)
 > **CLI Commands:** node (3), make (2)
 > **Env Vars:** html (4), doctype (1)
 > **Code Identifiers:** createserver (2), writehead (1)
@@ -626,7 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), switch (2), type, (2), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (10), css (6), web (3), data (1), node (1)
 > **Env Vars:** html (4), css (4), http (1), url (1), jpg (1)
 > **File Paths:** styles.css (2), 404.html (2), home-page.html (1), homepage.html (1)
 > **Code Identifiers:** createreadstream (2), sendfile (2), createserver (1), writehead (1)
@@ -734,7 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), require (2), finally, (2), this. (2)
+> **Frameworks & Libraries:** [[JSON]] (9), data (9), node (2), [[JavaScript]] (2), api (1)
 > **Env Vars:** json (7), http (2), api (1)
 > **CLI Commands:** cat (4), node (2), make (1)
 > **Code Identifiers:** createserver (3), tolowercase (2)
@@ -746,7 +746,7 @@ created: 2026-04-29
 
 ### 2. npm
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The package.json file
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980)
@@ -819,9 +819,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (8), [[JSON]] (5), node (4), [[Node.js]] (2), [[JavaScript]] (2)
 > **CLI Commands:** npm (8), node (6), find (1), git (1)
 > **Env Vars:** json (5), http (1), mit (1)
-> **Code Keywords:** this. (2), require (1), private (1), let (1)
 > **Prerequisites:** install (4)
 > **File Paths:** node.js (2)
 > **Cross-References:** in the next (1)
@@ -867,7 +867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), module (3), let (2), this, (2), this. (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), node (2), [[npm]] (2), [[JSON]] (2), hit (1)
 > **CLI Commands:** node (6), make (3), npm (2)
 > **File Paths:** node.js (4), package.json (2)
 > **Env Vars:** npm (2)
@@ -955,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (3), this. (3), delete (2), throw (2)
+> **Frameworks & Libraries:** [[npm]] (6), [[JSON]] (3), next (2), node (2), [[Search]] (1)
 > **CLI Commands:** npm (6), node (2), make (1)
 > **Prerequisites:** install (6), set up (1)
 > **Code Identifiers:** node_modules (3), parseargs (2), parseint (1)
@@ -1057,7 +1057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), continue (1), function (1), import. (1)
+> **Frameworks & Libraries:** [[npm]] (4), next (2), node (1)
 > **CLI Commands:** npm (4), make (1), node (1), find (1)
 > **Prerequisites:** install (2)
 > **File Paths:** index.js (1)
@@ -1123,9 +1123,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (10), node (3), [[JSON]] (3), [[Node.js]] (1), power (1)
 > **CLI Commands:** npm (10), node (4), make (2), ls (1)
 > **Env Vars:** npm (10), json (3)
-> **Code Keywords:** module (2), continue (1)
 > **Prerequisites:** install (2)
 > **File Paths:** node.js (1)
 > **Speakers:** - so (1)
@@ -1133,7 +1133,7 @@ created: 2026-04-29
 
 ### 3. Web Servers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File servers with serve
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/file-servers-with-serve?u=76281980)
@@ -1174,9 +1174,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[npm]] (1), web application (1), node (1), application (1)
 > **Env Vars:** http (7), npm (1), npx (1)
 > **CLI Commands:** npm (1), npx (1), node (1), make (1)
-> **Code Keywords:** module (2), static (1), this. (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
@@ -1287,7 +1287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), this. (3), let (3), module (2), static (2)
+> **Frameworks & Libraries:** express (11), [[JSON]] (7), next (6), web (3), [[npm]] (3)
 > **CLI Commands:** npm (3), make (3), node (2)
 > **Env Vars:** json (4), api (2), npm (1)
 > **File Paths:** server.js (2), ski-terms.json (1), response.json (1)
@@ -1385,7 +1385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), this, (2), pass (2), const (1)
+> **Frameworks & Libraries:** data (7), [[JSON]] (5), [[Fetch]] (1), [[npm]] (1), application (1)
 > **Env Vars:** http (2), npm (1), json (1)
 > **Code Identifiers:** skiterms (2), writefile (1)
 > **CLI Commands:** npm (1), make (1)
@@ -1483,7 +1483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (6), function (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** api (2), next (1), express (1), [[Routing]] (1), data (1)
 > **Code Identifiers:** skiterms (4), newlength (1)
 > **CLI Commands:** make (3), node (1)
 > **Env Vars:** api (2), delete (1)
@@ -1509,12 +1509,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (1)
 > **CLI Commands:** make (1)
 
 
 ### 4. WebSockets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a WebSocket
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980)
@@ -1609,7 +1610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), function (2), let (1), const (1), finally, (1)
+> **Frameworks & Libraries:** [[WebSocket]] (5), [[WebSocket|Websockets]] (2), data (2), application (2), next (2)
 > **CLI Commands:** make (2), npm (1), npx (1), node (1)
 > **Ports:** port 5000 (3), port 3000 (1), :3000 (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1713,7 +1714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), static (1), pass (1), this. (1)
+> **Frameworks & Libraries:** application (3), hit (2), next (2), node (1), [[React.js|React]] (1)
 > **Code Identifiers:** tostring (5), foreach (2)
 > **CLI Commands:** npx (2), make (2), node (1)
 > **Cross-References:** in the last (1), as we saw (1), go back to (1), in the next (1)
@@ -1829,7 +1830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2), delete (1), module (1), pass (1)
+> **Frameworks & Libraries:** web (9), data (3), application (3), next (2), node (2)
 > **URLs:** [socket.io](https://socket.io) (7)
 > **Env Vars:** http (4), cli (1)
 > **Tools:** terminal (2), command line (1)
@@ -1885,8 +1886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), web (2), node (2), next (1), [[Real-Time]] (1)
 > **CLI Commands:** node (2)
-> **Code Keywords:** raise (1), let (1)
 > **Tools:** terminal (2)
 > **Definitions:** means that (1), in other words (1)
 > **Code Identifiers:** tostring (1)
@@ -1897,7 +1898,7 @@ created: 2026-04-29
 
 ### 5. Node.js Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating modular projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-modular-projects?u=76281980)
@@ -1950,8 +1951,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (3), data (2), [[Node.js]] (1), [[JavaScript]] (1), api (1)
 > **File Paths:** app.js (3), index.js (2), node.js (1)
-> **Code Keywords:** let (1), delete (1), finally, (1)
 > **CLI Commands:** node (2)
 > **Definitions:** means that (1), stands for (1)
 > **Env Vars:** api (1)
@@ -2040,7 +2041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (2), assert (1), module (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[JSON]] (3), next (2), application (1), [[React.js|React]] (1)
 > **Env Vars:** jsx (4), json (1), repl (1)
 > **Prerequisites:** install (3), setup (1), set up (1)
 > **File Paths:** package.json (1), babel.config.json (1), node.js (1)
@@ -2152,7 +2153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), module (2), let (2), async (1), const (1)
+> **Frameworks & Libraries:** [[npm]] (6), data (4), [[JSON]] (2), api (1), [[Node.js]] (1)
 > **CLI Commands:** npm (6), find (2), make (2), node (1)
 > **Prerequisites:** install (4), set up (1)
 > **File Paths:** app.test.js (1), skiterms.json (1), node.js (1), package.json (1)
@@ -2192,9 +2193,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Warnings:** keep in mind (1), note that (1)
 > **CLI Commands:** npm (1)
-> **Code Keywords:** pass (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
@@ -2202,7 +2203,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980)
@@ -2223,6 +2224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (7), next (1), [[Design Patterns]] (1), [[Programming]] (1), data (1)
 > **CLI Commands:** node (8)
 > **File Paths:** node.js (7)
 > **Speakers:** - now (1)

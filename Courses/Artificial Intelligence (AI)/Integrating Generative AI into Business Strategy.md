@@ -33,7 +33,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Integrating%20Generative%20AI%20into%20Business%20Strategy.md)
@@ -52,30 +52,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why a strategic framework is essential for AI adoption
-  - The USAGE framework: A pragmatic approach to AI adoption
+  - [Why a strategic framework is essential for AI adoption](#why-a-strategic-framework-is-essential-for-ai-adoption)
+  - [The USAGE framework: A pragmatic approach to AI adoption](#the-usage-framework-a-pragmatic-approach-to-ai-adoption)
 - [**1. Understanding AI Capabilities and Fundamentals**](#1-understanding-ai-capabilities-and-fundamentals) (2 videos)
-  - Invest in AI literacy to gain competitive advantage
-  - Identify use-cases and ground AI in real business needs
+  - [Invest in AI literacy to gain competitive advantage](#invest-in-ai-literacy-to-gain-competitive-advantage)
+  - [Identify use-cases and ground AI in real business needs](#identify-use-cases-and-ground-ai-in-real-business-needs)
 - [**2. Surveying Your Business Landscape**](#2-surveying-your-business-landscape) (3 videos)
-  - Define AI technical requirements
-  - Perform an AI skills gap analysis and talent audit
-  - Reduce blindspots by conducting an AI risk analysis
+  - [Define AI technical requirements](#define-ai-technical-requirements)
+  - [Perform an AI skills gap analysis and talent audit](#perform-an-ai-skills-gap-analysis-and-talent-audit)
+  - [Reduce blindspots by conducting an AI risk analysis](#reduce-blindspots-by-conducting-an-ai-risk-analysis)
 - [**3. Aligning AI with Your Business**](#3-aligning-ai-with-your-business) (2 videos)
-  - Develop an AI roadmap and tie goals to business value
-  - The importance of structuring AI leadership and ownership
+  - [Develop an AI roadmap and tie goals to business value](#develop-an-ai-roadmap-and-tie-goals-to-business-value)
+  - [The importance of structuring AI leadership and ownership](#the-importance-of-structuring-ai-leadership-and-ownership)
 - [**4. Guiding AI Adoption**](#4-guiding-ai-adoption) (2 videos)
-  - How to operationalize your AI strategy
-  - Responsible AI deployment
+  - [How to operationalize your AI strategy](#how-to-operationalize-your-ai-strategy)
+  - [Responsible AI deployment](#responsible-ai-deployment)
 - [**5. Evaluating AI Performance and Impact**](#5-evaluating-ai-performance-and-impact) (2 videos)
-  - Assess generative AI outcomes to measure ROI
-  - Adapt the USAGE framework to your needs
+  - [Assess generative AI outcomes to measure ROI](#assess-generative-ai-outcomes-to-measure-roi)
+  - [Adapt the USAGE framework to your needs](#adapt-the-usage-framework-to-your-needs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue learning
+  - [Continue learning](#continue-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why a strategic framework is essential for AI adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980)
@@ -96,7 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), [[Generative AI]] (2), business (2), management (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - generative (1)
 
@@ -143,14 +143,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), next (3), business (3), teams (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** usage (3), roi (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - adopting (1)
 
 
 ### 1. Understanding AI Capabilities and Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Invest in AI literacy to gain competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980)
@@ -229,8 +229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (30), business (2), teams (2), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** finally, (1), require (1)
 > **Analogies:** for example (1), such as (1)
 > **URLs:** [imaginative.com](https://imaginative.com) (1)
 > **Prerequisites:** you'll need (1)
@@ -305,6 +305,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), business (7), [[Generative AI]] (3), [[Microsoft Products|Products]] (1), next (1)
 > **Analogies:** for instance (1), for example (1), similar to (1)
 > **Cross-References:** we covered (1)
 > **Best Practices:** the key is (1)
@@ -314,7 +315,7 @@ created: 2026-04-29
 
 ### 2. Surveying Your Business Landscape
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define AI technical requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980)
@@ -377,10 +378,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (6), api (3), next (3), business (2)
 > **Env Vars:** api (3), gbt (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** prerequisite (1), you'll need (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
@@ -444,6 +445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), business (4), teams (2), leadership (1), [[Fine Tuning]] (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - implementing (1)
@@ -509,6 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), business (2), management (2), [[Risk Management Framework (RMF)|Risk management framework]] (2), data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
 > **Analogies:** such as (1)
@@ -518,7 +521,7 @@ created: 2026-04-29
 
 ### 3. Aligning AI with Your Business
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop an AI roadmap and tie goals to business value
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980)
@@ -581,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (16), business (12), next (1), [[Agile Development|Agile]] (1), leadership (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - how (1)
 
@@ -634,6 +637,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), business (4), leadership (4), teams (2), [[Accountability]] (2)
 > **Cross-References:** in the next (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - organizing (1)
@@ -641,7 +645,7 @@ created: 2026-04-29
 
 ### 4. Guiding AI Adoption
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to operationalize your AI strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980)
@@ -720,7 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (11), teams (4), [[Generative AI]] (3), business (2), product (1)
 > **Analogies:** for example (2)
 > **Env Vars:** roi (1)
 > **Prerequisites:** you'll need (1)
@@ -783,13 +787,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (1), finally, (1)
+> **Frameworks & Libraries:** data (6), ai (6), [[Responsible AI]] (4), [[Ethics]] (3), [[Generative AI]] (2)
 > **Speakers:** - as (1)
 
 
 ### 5. Evaluating AI Performance and Impact
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess generative AI outcomes to measure ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980)
@@ -836,6 +840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), business (4), data (2), [[Generative AI]] (1), [[Analytics]] (1)
 > **Env Vars:** roi (5)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** you'll need (1)
@@ -892,14 +897,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), business (8), [[Generative AI]] (1), [[Business Transformation]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - implementing (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980)
@@ -922,6 +927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Microsoft Products|Products]] (1), business (1), [[LinkedIn]] (1), teams (1)
 > **Speakers:** - well (1)
 
 

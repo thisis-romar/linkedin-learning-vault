@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - topic/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/IT%20Security%20Foundations-%20Network%20Security.md)
@@ -48,54 +48,54 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Securing the network
-  - Discovering resources
+  - [Securing the network](#securing-the-network)
+  - [Discovering resources](#discovering-resources)
 - [**1. Recognize Security Devices**](#1-recognize-security-devices) (6 videos)
-  - Understanding firewalls
-  - Comparing advanced networking devices
-  - Luring with honeypots
-  - Examining honeypot findings
-  - Challenge: Exploring honeypot data
-  - Solution: Exploring honeypot data
+  - [Understanding firewalls](#understanding-firewalls)
+  - [Comparing advanced networking devices](#comparing-advanced-networking-devices)
+  - [Luring with honeypots](#luring-with-honeypots)
+  - [Examining honeypot findings](#examining-honeypot-findings)
+  - [Challenge: Exploring honeypot data](#challenge-exploring-honeypot-data)
+  - [Solution: Exploring honeypot data](#solution-exploring-honeypot-data)
 - [**2. Isolate the Network**](#2-isolate-the-network) (6 videos)
-  - Segmenting using routers and VLANS
-  - Configuring VLANS
-  - Creating server and domain isolation
-  - Translating the network address
-  - Recognizing perimeter networks
-  - Configuring NAT
+  - [Segmenting using routers and VLANS](#segmenting-using-routers-and-vlans)
+  - [Configuring VLANS](#configuring-vlans)
+  - [Creating server and domain isolation](#creating-server-and-domain-isolation)
+  - [Translating the network address](#translating-the-network-address)
+  - [Recognizing perimeter networks](#recognizing-perimeter-networks)
+  - [Configuring NAT](#configuring-nat)
 - [**3. Secure the Cloud**](#3-secure-the-cloud) (4 videos)
-  - Summarize cloud concepts
-  - Connecting to the cloud
-  - Outlining virtualized technology
-  - Safeguarding cloud services
+  - [Summarize cloud concepts](#summarize-cloud-concepts)
+  - [Connecting to the cloud](#connecting-to-the-cloud)
+  - [Outlining virtualized technology](#outlining-virtualized-technology)
+  - [Safeguarding cloud services](#safeguarding-cloud-services)
 - [**4. Identify Attacks**](#4-identify-attacks) (5 videos)
-  - Comparing attack methods
-  - Attacking passwords
-  - Sniffing the network
-  - Spoofing protocols
-  - Poisoning the ARP cache
+  - [Comparing attack methods](#comparing-attack-methods)
+  - [Attacking passwords](#attacking-passwords)
+  - [Sniffing the network](#sniffing-the-network)
+  - [Spoofing protocols](#spoofing-protocols)
+  - [Poisoning the ARP cache](#poisoning-the-arp-cache)
 - [**5. Secure Protocols and Procedures**](#5-secure-protocols-and-procedures) (6 videos)
-  - Using antivirus
-  - Safeguarding DNS
-  - Securing internet protocol
-  - Protecting DHCP
-  - Encrypting data in transit (VPN)
-  - Assessing security baselines
+  - [Using antivirus](#using-antivirus)
+  - [Safeguarding DNS](#safeguarding-dns)
+  - [Securing internet protocol](#securing-internet-protocol)
+  - [Protecting DHCP](#protecting-dhcp)
+  - [Encrypting data in transit (VPN)](#encrypting-data-in-transit-vpn)
+  - [Assessing security baselines](#assessing-security-baselines)
 - [**6. Limiting Access**](#6-limiting-access) (7 videos)
-  - Using the principle of least privilege
-  - Controlling access
-  - Restricting network access
-  - Protecting buildings
-  - Securing hardware
-  - Challenge: Physical security requirements
-  - Solution: Physical security requirements
+  - [Using the principle of least privilege](#using-the-principle-of-least-privilege)
+  - [Controlling access](#controlling-access)
+  - [Restricting network access](#restricting-network-access)
+  - [Protecting buildings](#protecting-buildings)
+  - [Securing hardware](#securing-hardware)
+  - [Challenge: Physical security requirements](#challenge-physical-security-requirements)
+  - [Solution: Physical security requirements](#solution-physical-security-requirements)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-the-network?u=76281980)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (4), data (1), [[Representational State Transfer (REST)|Rest]] (1), cloud (1)
 > **Speakers:** - [lisa] (1)
 
 #### Discovering resources
@@ -148,17 +148,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Exercise Files:** exercise file (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Recognize Security Devices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980)
@@ -239,7 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), let (2), pass (1), private (1), interface (1)
+> **Frameworks & Libraries:** traffic (9), [[Windows]] (2), [[Security]] (2), [[Real-Time]] (1), [[Hardware]] (1)
 > **Analogies:** such as (4), imagine (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** https (1), dns (1)
@@ -318,8 +318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (10), management (6), [[Intrusion Detection]] (5), [[Hardware]] (2), data (2)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -388,11 +388,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), generic (1), hit (1), [[Intrusion Detection]] (1)
 > **Analogies:** such as (2), for example (1), imagine (1)
 > **Warnings:** keep in mind (2), warning (1), be careful (1)
 > **Prerequisites:** set up (2), required to (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dmz (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [educator] (1)
@@ -508,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), else. (1), default, (1)
+> **Frameworks & Libraries:** data (2), [[Statistics]] (2), [[Wireshark]] (1), [[Intrusion Detection]] (1), dns (1)
 > **UI Navigation:** go to (4), scroll down (4)
 > **Ports:** port 6 (2), port 8585 (2)
 > **Env Vars:** tcp (1), dns (1), http (1)
@@ -554,7 +554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** traffic (2), data (1), [[Wireshark]] (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
@@ -662,8 +662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), [[Security]] (1), next (1), dns (1), api (1)
 > **UI Navigation:** go to (6), scroll down (6)
-> **Code Keywords:** this, (3), let (1), this. (1)
 > **CLI Commands:** find (4)
 > **URLs:** [benme.com](https://benme.com) (1), [blockcypher.com](https://blockcypher.com) (1), [alienvault.com](https://alienvault.com) (1)
 > **Env Vars:** url (2), dns (1)
@@ -674,7 +674,7 @@ created: 2026-04-29
 
 ### 2. Isolate the Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Segmenting using routers and VLANS
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980)
@@ -751,8 +751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), lan (5), [[Local Area Network (LAN)|Local area network]] (2), [[Virtual Work]] (1), [[Security]] (1)
 > **Env Vars:** vlan (11), lan (5), mac (1)
-> **Code Keywords:** switch (8), let (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -820,8 +820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), traffic (6), [[Local Area Network (LAN)|Local area network]] (1), management (1), database (1)
 > **Env Vars:** vlan (21), isl (1), ieee802 (1), mac (1), vtp (1)
-> **Code Keywords:** switch (13), let (4), pass (1), this. (1), interface (1)
 > **Prerequisites:** you'll need (4), configure (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -920,7 +920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (4), require (1)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Security]] (6), data (3), [[Windows]] (2), traffic (2)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (2)
@@ -998,7 +998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (9), public (5), let (4), this, (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (3), [[Local Area Network (LAN)|Local area network]] (3), [[Google]] (2), lan (1), [[Search]] (1)
 > **Env Vars:** rfc (2), arin (1), isp (1)
 > **Documentation:** rfc (2)
 > **URLs:** [discordapp.com](https://discordapp.com) (1)
@@ -1088,9 +1088,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), web (2), [[Local Area Network (LAN)|Local area network]] (1), front-end (1), lan (1)
 > **Env Vars:** dmz (11), lan (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1), let (1)
 > **Analogies:** such as (1), for example (1)
 > **URLs:** [nmap.org](https://nmap.org) (1)
 > **UI Navigation:** scroll down (1)
@@ -1152,8 +1152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Forms]] (1), hit (1), [[Search]] (1), [[Privacy]] (1)
 > **Env Vars:** nat (14), lan (1), pat (1)
-> **Code Keywords:** public (6), static (3), private (2), let (2), interface (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1162,7 +1162,7 @@ created: 2026-04-29
 
 ### 3. Secure the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize cloud concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980)
@@ -1217,8 +1217,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[IaaS|Infrastructure as a service]] (4), data (3), [[PaaS|Platform as a service]] (3), [[SaaS|Software as a service]] (3)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** let (2), public (1), private (1)
 > **Definitions:** is an  (2)
 > **Code Identifiers:** icloud (1)
 > **Speakers:** - [instructor] (1)
@@ -1278,7 +1278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), else, (1)
+> **Frameworks & Libraries:** cloud (13), data (10), [[Hardware]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** wan (1), ibm (1)
@@ -1356,7 +1356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Virtualization]] (5), [[Hardware]] (5), [[Virtual Machines]] (5), cloud (4), [[Security]] (2)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1422,17 +1422,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Virtualization]] (6), data (4), [[Security]] (3), management (2)
 > **Env Vars:** pci (2), dss (2), api (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (3), similar to (1)
-> **Code Keywords:** this, (1), let (1)
 > **Best Practices:** good practice (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Identify Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing attack methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980)
@@ -1525,10 +1525,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), application (3), [[Security]] (2), traffic (2), dns (2)
 > **Env Vars:** osi (4), dns (2), syn (2), icmp (2), url (1)
 > **Definitions:** is a  (4), known as (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (2), protected (1)
 > **Speakers:** - [presenter] (1)
 
 #### Attacking passwords
@@ -1626,7 +1626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Engineering]] (2), [[Security]] (2), [[Wireshark]] (1), data (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (1), scroll down (1)
 > **URLs:** [random.org](https://random.org) (1)
@@ -1724,8 +1724,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), traffic (2), [[Wireshark]] (2), database (2), [[Troubleshooting]] (1)
 > **Env Vars:** ssid (3), tcp (2), select (1), database (1)
-> **Code Keywords:** let (2), this. (1), default, (1)
 > **Code Identifiers:** mysql_complete (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -1812,7 +1812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), this. (1)
+> **Frameworks & Libraries:** dns (4), data (2), traffic (2), [[Google]] (2), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (4)
 > **UI Navigation:** scroll down (2), go to (1)
 > **URLs:** [ipinfo.io](https://ipinfo.io) (1)
@@ -1898,8 +1898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), lan (3), [[Local Area Network (LAN)|Local area network]] (2), [[Hardware]] (1), data (1)
 > **Env Vars:** arp (12), lan (3), mac (2), cam (1)
-> **Code Keywords:** let (3), switch (2)
 > **Definitions:** is a  (3)
 > **Ports:** port 1 (1), port 4 (1)
 > **Analogies:** such as (1), just like (1)
@@ -1910,7 +1910,7 @@ created: 2026-04-29
 
 ### 5. Secure Protocols and Procedures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using antivirus
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-antivirus?u=76281980)
@@ -1975,7 +1975,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), this, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Prerequisites:** set up (1), install (1)
 > **Definitions:** is called (1)
@@ -2063,9 +2063,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (17), [[Security]] (7), data (4), [[Domain Name System (DNS)|Domain name system]] (2), application (1)
 > **Env Vars:** dns (17), udp (2), tcp (2)
 > **Definitions:** is a  (4), is an  (2)
-> **Code Keywords:** let (2), this, (1), interface (1)
 > **Ports:** port 53 (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -2154,8 +2154,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), management (5), data (4), vpn (4), [[Routing]] (1)
 > **Env Vars:** vpn (4), tcp (1), ssl (1), tls (1)
-> **Code Keywords:** let (2), private (1), static (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (1), configure (1)
 > **Warnings:** keep in mind (1)
@@ -2236,8 +2236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (2), [[Active Directory]] (2), traffic (1), [[Windows]] (1)
 > **Env Vars:** dhcp (12), dora (3), vlan (3), dns (2), ack (1)
-> **Code Keywords:** switch (3), let (2), interface (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
@@ -2330,8 +2330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (9), data (6), [[Microsoft Office|Office]] (2), application (2), [[Security]] (2)
 > **Env Vars:** vpn (9), ssl (5), tls (4), osi (2), ssh (2)
-> **Code Keywords:** let (2), interface (2), this. (2), private (1), require (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Analogies:** such as (4)
 > **CLI Commands:** ssh (2), make (1)
@@ -2400,7 +2400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Security]] (14), data (1), [[IoT]] (1)
 > **Analogies:** for example (2)
 > **Best Practices:** best practice (1), good practice (1)
 > **Warnings:** keep in mind (2)
@@ -2412,7 +2412,7 @@ created: 2026-04-29
 
 ### 6. Limiting Access
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the principle of least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-the-principle-of-least-privilege?u=76281980)
@@ -2477,7 +2477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (1), [[Active Directory]] (1), [[Security]] (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -2537,7 +2537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), include: (1)
+> **Frameworks & Libraries:** [[Security]] (5), data (2), [[Microsoft Word|Word]] (1), [[Hardware]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2605,8 +2605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Network Security]] (1), management (1), [[Linux]] (1)
 > **Env Vars:** radius (6), chap (4), tacacs (3), pap (2), udp (1)
-> **Code Keywords:** let (4)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -2705,8 +2705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), [[Windows]] (3), [[Forms]] (1), [[Incident Response]] (1)
 > **Analogies:** such as (5), for example (2)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Warnings:** keep in mind (1)
@@ -2771,7 +2771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break. (1), require (1), self (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Hardware]] (2), data (2), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** ram (1)
 > **Best Practices:** don't forget (1)
@@ -2812,8 +2812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (3), express (1), management (1), [[Network Security]] (1)
 > **Env Vars:** pci (4), dss (4), jcb (1)
-> **Code Keywords:** let (2)
 > **Versions:** version 4 (1), 9.2 (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Non-Speech:** (bright music) (1), (bright music fades) (1)
@@ -2846,16 +2846,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Hardware]] (1)
 > **Versions:** 9.2.1 (1), 9.2.2 (1), 9.2.3 (1), 9.2.4 (1)
 > **Best Practices:** good practice (2), best practice (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980)
@@ -2880,8 +2880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Network Security]] (2), cloud (1), [[Wireshark]] (1), [[IoT]] (1)
 > **Cross-References:** we covered (1), we discussed (1)
-> **Code Keywords:** protected (1)
 > **Speakers:** - [narrator] (1)
 
 

@@ -27,7 +27,7 @@ tags:
   - topic/devops
   - skill/jenkins
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Running%20Jenkins%20on%20AWS-%20Deploying%20and%20Managing%20Jenkins%20on%20Cloud%20Infrastructure.md)
@@ -46,45 +46,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - CI/CD supercharged: Jenkins meets AWS
+  - [CI/CD supercharged: Jenkins meets AWS](#cicd-supercharged-jenkins-meets-aws)
 - [**1. Setting Up Jenkins**](#1-setting-up-jenkins) (8 videos)
-  - Architect the Jenkins environment on AWS
-  - Create an IAM role
-  - Create a security group
-  - Create the Jenkins EC2 instance
-  - Install Java, Jenkins, and NGINX
-  - Configure NGINX
-  - Configure Jenkins
-  - Solution: Set up a Jenkins server
+  - [Architect the Jenkins environment on AWS](#architect-the-jenkins-environment-on-aws)
+  - [Create an IAM role](#create-an-iam-role)
+  - [Create a security group](#create-a-security-group)
+  - [Create the Jenkins EC2 instance](#create-the-jenkins-ec2-instance)
+  - [Install Java, Jenkins, and NGINX](#install-java-jenkins-and-nginx)
+  - [Configure NGINX](#configure-nginx)
+  - [Configure Jenkins](#configure-jenkins)
+  - [Solution: Set up a Jenkins server](#solution-set-up-a-jenkins-server)
 - [**2. Create a Build Environment**](#2-create-a-build-environment) (6 videos)
-  - Plan the build environment
-  - Create an IAM role for the build server
-  - Create a security group and key pair for the build server
-  - Create the build server
-  - Connect Jenkins to the build server
-  - Solution: Set up a build server
+  - [Plan the build environment](#plan-the-build-environment)
+  - [Create an IAM role for the build server](#create-an-iam-role-for-the-build-server)
+  - [Create a security group and key pair for the build server](#create-a-security-group-and-key-pair-for-the-build-server)
+  - [Create the build server](#create-the-build-server)
+  - [Connect Jenkins to the build server](#connect-jenkins-to-the-build-server)
+  - [Solution: Set up a build server](#solution-set-up-a-build-server)
 - [**3. Connect Jenkins with Webhooks**](#3-connect-jenkins-with-webhooks) (5 videos)
-  - Plan the CI/CD pipeline
-  - What's a webhook?
-  - Create and test a webhook with GitHub
-  - Solution: Connect Jenkins to GitHub
-  - Create and test webhooks with other services
+  - [Plan the CI/CD pipeline](#plan-the-cicd-pipeline)
+  - [What's a webhook?](#whats-a-webhook)
+  - [Create and test a webhook with GitHub](#create-and-test-a-webhook-with-github)
+  - [Solution: Connect Jenkins to GitHub](#solution-connect-jenkins-to-github)
+  - [Create and test webhooks with other services](#create-and-test-webhooks-with-other-services)
 - [**4. Deploy Code to AWS Lambda**](#4-deploy-code-to-aws-lambda) (6 videos)
-  - Initialize the deployment target in AWS Lambda
-  - Create a GitHub repository for the application code
-  - Create a freestyle job to deploy code from GitHub, part 1
-  - Create a freestyle job to deploy code from GitHub, part 2
-  - Deploy to AWS Lambda from GitHub
-  - Solution: Deploy to AWS Lambda from GitHub
+  - [Initialize the deployment target in AWS Lambda](#initialize-the-deployment-target-in-aws-lambda)
+  - [Create a GitHub repository for the application code](#create-a-github-repository-for-the-application-code)
+  - [Create a freestyle job to deploy code from GitHub, part 1](#create-a-freestyle-job-to-deploy-code-from-github-part-1)
+  - [Create a freestyle job to deploy code from GitHub, part 2](#create-a-freestyle-job-to-deploy-code-from-github-part-2)
+  - [Deploy to AWS Lambda from GitHub](#deploy-to-aws-lambda-from-github)
+  - [Solution: Deploy to AWS Lambda from GitHub](#solution-deploy-to-aws-lambda-from-github)
 - [**5. Shut Down AWS Resources**](#5-shut-down-aws-resources) (2 videos)
-  - Decomission AWS resources
-  - Solution: Decommission AWS resources
+  - [Decomission AWS resources](#decomission-aws-resources)
+  - [Solution: Decommission AWS resources](#solution-decommission-aws-resources)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CI/CD supercharged: Jenkins meets AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980)
@@ -105,18 +105,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (5), aws (4), [[Automation]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), cloud (1)
 > **CLI Commands:** aws (4), cd (1)
 > **Env Vars:** aws (4)
 > **Definitions:** is a  (1), known as (1)
 > **Prerequisites:** set up (1), configure (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Speakers:** - jenkins (1)
 
 
 ### 1. Setting Up Jenkins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Architect the Jenkins environment on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980)
@@ -141,10 +141,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (4), aws (2), web (2), [[Amazon EC2|Ec2]] (1), [[Ubuntu]] (1)
 > **Env Vars:** aws (2), ec2 (1), http (1)
 > **CLI Commands:** aws (2), nginx (1)
 > **Prerequisites:** setup (1), install (1)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -200,9 +200,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), aws (6), [[Jenkins]] (5), next (3), management (1)
 > **Env Vars:** ec2 (6), aws (6), iam (2), ssh (1), ssm (1)
 > **CLI Commands:** aws (6), ssh (1)
-> **Code Keywords:** let (2), case, (1), finally, (1)
 > **Definitions:** is an  (1), defined as (1)
 > **Tools:** aws console (1)
 > **Prerequisites:** set up (1)
@@ -281,9 +281,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), traffic (8), [[Jenkins]] (5), [[Amazon EC2|Ec2]] (4), aws (3)
 > **Env Vars:** ec2 (4), aws (3), http (2), https (2), vpc (1)
 > **CLI Commands:** aws (3), make (2), find (1)
-> **Code Keywords:** let (2), case, (1), from. (1), finally, (1)
 > **UI Navigation:** go to (1), select the (1), dropdown (1)
 > **Ports:** port 80 (1), port 4 (1)
 > **Tools:** aws console (1)
@@ -375,10 +375,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[Amazon EC2|Ec2]] (5), [[Security]] (4), next (3), [[Ubuntu]] (1)
 > **Env Vars:** ec2 (5), iam (2), ami (1), cpu (1), aws (1)
 > **UI Navigation:** select the (3), in the menu (1)
 > **CLI Commands:** make (1), aws (1), nginx (1)
-> **Code Keywords:** type. (1), public (1), private (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -457,10 +457,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (12), [[Java]] (5), [[Amazon EC2|Ec2]] (2), application (1), aws (1)
 > **Env Vars:** nginx (7), ec2 (2), jdk (1), aws (1), apt (1)
 > **CLI Commands:** nginx (7), find (1), aws (1), make (1), sudo (1)
 > **Prerequisites:** install (7), configure (1)
-> **Code Keywords:** let (6), switch (1)
 > **Exercise Files:** exercise files (4)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** terminal (2), aws console (1)
@@ -551,9 +551,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (19), [[Security]] (3), application (2), [[Ubuntu]] (1), web application (1)
 > **Env Vars:** nginx (17), ssl (5), https (2), http (2), aws (1)
 > **CLI Commands:** nginx (17), make (6), aws (1), find (1), systemctl (1)
-> **Code Keywords:** let (5), pass (1), default. (1), from. (1)
 > **Prerequisites:** set up (2), install (1), before we start (1)
 > **Exercise Files:** exercise files (3)
 > **Ports:** port 8080 (1), port 80 (1)
@@ -621,9 +621,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (11), next (2), [[Ubuntu]] (1), dns (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (3), dns (1)
 > **CLI Commands:** nginx (2), cat (1)
-> **Code Keywords:** continue (2), public (1)
 > **Tools:** terminal (2)
 > **UI Navigation:** go to (1), select the (1)
 > **Prerequisites:** configure (1), install (1)
@@ -667,16 +667,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (5), [[Security]] (2), [[Amazon EC2|Ec2]] (2), aws (1), [[Ubuntu]] (1)
 > **Env Vars:** ec2 (2), aws (1), iam (1), ssm (1), http (1)
 > **CLI Commands:** nginx (3), aws (1)
-> **Code Keywords:** let (1), type. (1), pass (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
 
 ### 2. Create a Build Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan the build environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980)
@@ -719,9 +719,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (6), aws (6), [[Representational State Transfer (REST)|Rest]] (2), [[Security]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** aws (6), cd (1)
 > **Env Vars:** aws (6), iam (1)
-> **Code Keywords:** let (2), lambda (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -755,8 +755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), [[Jenkins]] (2), [[Amazon EC2|Ec2]] (2), next (2), [[Security]] (1)
 > **Env Vars:** aws (5), iam (3), ec2 (2)
-> **Code Keywords:** lambda (5), let (1), type, (1), case, (1)
 > **CLI Commands:** aws (5)
 > **Speakers:** - [instructor] (1)
 
@@ -839,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), private (4), type, (2), continue (1), case, (1)
+> **Frameworks & Libraries:** [[Jenkins]] (11), [[Security]] (6), [[Amazon EC2|Ec2]] (4), [[Linux]] (2), traffic (1)
 > **Env Vars:** ssh (5), ec2 (4), ed25519 (1), pem (1), ami (1)
 > **CLI Commands:** ssh (5), make (1)
 > **UI Navigation:** in the sidebar (1), go to (1), select the (1)
@@ -884,8 +884,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[Security]] (2), [[Jenkins]] (2), [[Amazon EC2|Ec2]] (2), data (2)
 > **Env Vars:** aws (2), ec2 (2), ami (1), iam (1)
-> **Code Keywords:** lambda (2), let (1), type, (1)
 > **CLI Commands:** aws (2), make (1)
 > **UI Navigation:** select the (3)
 > **Prerequisites:** install (2), set up (1)
@@ -1000,8 +1000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (12), node (7), [[Amazon EC2|Ec2]] (3), dns (2), traffic (2)
 > **CLI Commands:** node (7), aws (2), ssh (2)
-> **Code Keywords:** let (5), private (2), lambda (1), default, (1), for. (1)
 > **Env Vars:** ec2 (2), dns (2), aws (2), ssh (2)
 > **UI Navigation:** select the (3), go to (1)
 > **Prerequisites:** set up (2)
@@ -1048,9 +1048,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (9), aws (2), [[Security]] (2), dns (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** ssh (5), aws (2), iam (2), dns (2), ec2 (1)
 > **CLI Commands:** ssh (5), aws (2), node (1)
-> **Code Keywords:** private (3), let (1), type. (1), finally, (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -1059,7 +1059,7 @@ created: 2026-04-29
 
 ### 3. Connect Jenkins with Webhooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan the CI/CD pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980)
@@ -1106,8 +1106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Jenkins]] (3), ci (3)
 > **CLI Commands:** cd (3), aws (2), find (1)
-> **Code Keywords:** let (3), lambda (2), case, (1)
 > **Env Vars:** aws (2)
 > **Tools:** github (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -1147,8 +1147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (4), [[GitHub]] (3), web (2), data (1)
 > **Tools:** github (3)
-> **Code Keywords:** case, (1), let (1)
 > **Env Vars:** http (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1270,8 +1270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (11), [[Jenkins]] (11), next (4), [[Git]] (2), [[JSON]] (2)
 > **Env Vars:** url (11), readme (5), https (1), json (1)
-> **Code Keywords:** let (8), public (2), type, (1)
 > **Tools:** github (11)
 > **CLI Commands:** make (3), git (2)
 > **Documentation:** the readme (4)
@@ -1328,10 +1328,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Jenkins]] (5), [[Git]] (3), management (1), next (1)
 > **Env Vars:** url (7), readme (2), https (1)
 > **Tools:** github (6)
 > **CLI Commands:** git (3)
-> **Code Keywords:** public (1), type. (1)
 > **Exercise Files:** github repo (1), source code (1)
 > **Documentation:** the readme (1)
 > **UI Navigation:** select the (1)
@@ -1354,6 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Jenkins]] (5), [[Bitbucket]] (2), [[Version Control]] (1), next (1)
 > **Tools:** github (5), gitlab (2), bitbucket (2)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
@@ -1363,7 +1364,7 @@ created: 2026-04-29
 
 ### 4. Deploy Code to AWS Lambda
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Initialize the deployment target in AWS Lambda
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980)
@@ -1432,7 +1433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), lambda (5), let (1)
+> **Frameworks & Libraries:** aws (5), next (5), [[Jenkins]] (2), ci (1), cd (1)
 > **Env Vars:** aws (5), url (3), iam (1)
 > **CLI Commands:** aws (5), cd (1), python (1), make (1)
 > **Exercise Files:** template (5), exercise files (1)
@@ -1478,7 +1479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), lambda (1), function (1), public (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Python (Programming Language)|Python]] (2), application (1), api (1), web application (1)
 > **Tools:** github (3)
 > **CLI Commands:** python (2)
 > **URLs:** [github.com](https://github.com) (1)
@@ -1559,7 +1560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), lambda (4), public (1), match. (1), type. (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Jenkins]] (6), application (5), aws (2), management (2)
 > **Env Vars:** url (7), aws (2), https (1), json (1)
 > **Tools:** github (6)
 > **CLI Commands:** aws (2), python (1), make (1), git (1)
@@ -1641,8 +1642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (5), api (4), application (4), [[Python (Programming Language)|Python]] (3), cloud (3)
 > **CLI Commands:** python (3), make (3), aws (1), find (1)
-> **Code Keywords:** let (5), lambda (2), function (1)
 > **Env Vars:** api (3), url (2), aws (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Tools:** command line (1), github (1)
@@ -1707,7 +1708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), lambda (2)
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[GitHub]] (4), application (4), aws (2), web application (1)
 > **CLI Commands:** aws (2), make (2)
 > **Env Vars:** aws (2), html (1), api (1)
 > **Tools:** github (4)
@@ -1778,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (6), function (4), let (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Jenkins]] (6), application (5), aws (3), next (3)
 > **Env Vars:** aws (3), url (3), cicd (1), api (1), https (1)
 > **CLI Commands:** aws (3), make (2), python (1), git (1)
 > **Tools:** github (6)
@@ -1790,7 +1791,7 @@ created: 2026-04-29
 
 ### 5. Shut Down AWS Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Decomission AWS resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/decomission-aws-resources?u=76281980)
@@ -1813,9 +1814,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[Security]] (2), cloud (1), [[Jenkins]] (1)
 > **Env Vars:** aws (2), iam (2), ssh (1)
 > **CLI Commands:** aws (2), ssh (1)
-> **Code Keywords:** lambda (1), function (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Decommission AWS resources
@@ -1903,7 +1904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (15), let (7), lambda (1), function (1)
+> **Frameworks & Libraries:** [[Security]] (14), [[Amazon EC2|Ec2]] (5), cloud (2), [[Jenkins]] (2), aws (1)
 > **Env Vars:** ec2 (5), iam (3), ssh (2), aws (1), ebs (1)
 > **CLI Commands:** ssh (2), aws (1), make (1)
 > **UI Navigation:** select the (1)
@@ -1914,7 +1915,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980)
@@ -1933,9 +1934,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (4), aws (4), [[Software Development]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), web (1)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (4)
-> **Code Keywords:** lambda (1), continue (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - i (1)
 

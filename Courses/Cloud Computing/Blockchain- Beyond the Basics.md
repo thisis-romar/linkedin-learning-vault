@@ -33,7 +33,7 @@ tags:
   - topic/data-science
   - skill/blockchain
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Blockchain-%20Beyond%20the%20Basics.md)
@@ -52,36 +52,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Blockchain technology offers unique capabilities
-  - What you should know
+  - [Blockchain technology offers unique capabilities](#blockchain-technology-offers-unique-capabilities)
+  - [What you should know](#what-you-should-know)
 - [**1. The Value of Blockchain Technology**](#1-the-value-of-blockchain-technology) (3 videos)
-  - What's the business case for blockchain?
-  - The essential features of blockchain technology
-  - Exploring blockchain functions beyond the basics
+  - [What's the business case for blockchain?](#whats-the-business-case-for-blockchain)
+  - [The essential features of blockchain technology](#the-essential-features-of-blockchain-technology)
+  - [Exploring blockchain functions beyond the basics](#exploring-blockchain-functions-beyond-the-basics)
 - [**2. How Does Blockchain Work?**](#2-how-does-blockchain-work) (3 videos)
-  - What is distributed ledger technology (DLT)?
-  - The keys to cryptography
-  - Understanding miners and proof of work
+  - [What is distributed ledger technology (DLT)?](#what-is-distributed-ledger-technology-dlt)
+  - [The keys to cryptography](#the-keys-to-cryptography)
+  - [Understanding miners and proof of work](#understanding-miners-and-proof-of-work)
 - [**3. How Blockchain Enables Cryptocurrencies**](#3-how-blockchain-enables-cryptocurrencies) (3 videos)
-  - Brief history of Bitcoin
-  - How to acquire and use cryptocurrencies
-  - Exploring altcoins and crypto tokens
+  - [Brief history of Bitcoin](#brief-history-of-bitcoin)
+  - [How to acquire and use cryptocurrencies](#how-to-acquire-and-use-cryptocurrencies)
+  - [Exploring altcoins and crypto tokens](#exploring-altcoins-and-crypto-tokens)
 - [**4. The Blockchain Universe**](#4-the-blockchain-universe) (4 videos)
-  - Difference between public and private blockchains
-  - What are smart contracts?
-  - Understanding non-fungible tokens (NFTs)
-  - The emergence of decentralized finance (DeFi)
+  - [Difference between public and private blockchains](#difference-between-public-and-private-blockchains)
+  - [What are smart contracts?](#what-are-smart-contracts)
+  - [Understanding non-fungible tokens (NFTs)](#understanding-non-fungible-tokens-nfts)
+  - [The emergence of decentralized finance (DeFi)](#the-emergence-of-decentralized-finance-defi)
 - [**5. Blockchain in Context**](#5-blockchain-in-context) (3 videos)
-  - Blockchain use case: Cross-border payments
-  - Blockchain use case: Identify management
-  - Blockchain use case: Title registries
+  - [Blockchain use case: Cross-border payments](#blockchain-use-case-cross-border-payments)
+  - [Blockchain use case: Identify management](#blockchain-use-case-identify-management)
+  - [Blockchain use case: Title registries](#blockchain-use-case-title-registries)
 - [**Conclusion**](#conclusion) (2 videos)
-  - The risks and opportunities ahead
-  - Next steps for you and your organization
+  - [The risks and opportunities ahead](#the-risks-and-opportunities-ahead)
+  - [Next steps for you and your organization](#next-steps-for-you-and-your-organization)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain technology offers unique capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-technology-offers-unique-capabilities?u=76281980)
@@ -122,7 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** [[Blockchain]] (10), power (2), [[Cryptocurrency]] (1), [[Security]] (1), leadership (1)
 > **Analogies:** for example (1), such as (1)
 > **Tools:** notion (1)
 > **Speakers:** - blockchain (1)
@@ -156,8 +156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Programming]] (2), [[Databases]] (1), [[Solidity]] (1), [[Tokens]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - since (1)
@@ -165,7 +165,7 @@ created: 2026-04-29
 
 ### 1. The Value of Blockchain Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's the business case for blockchain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/what-s-the-business-case-for-blockchain?u=76281980)
@@ -214,6 +214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (10), data (3), business (3), management (3), [[Cryptocurrency]] (2)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** ftp (1)
 > **Definitions:** known as (1)
@@ -303,7 +304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), private (1), public (1), let (1), require (1)
+> **Frameworks & Libraries:** business (3), database (3), [[Blockchain]] (3), data (2), [[Databases]] (2)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Definitions:** means that (2)
 > **Speakers:** - today (1)
@@ -393,7 +394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), finally, (2), public (2)
+> **Frameworks & Libraries:** [[Blockchain]] (20), [[Ethereum]] (4), [[Cryptocurrency]] (2), [[Smart Contracts]] (2), next (2)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** evm (2), nft (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -402,7 +403,7 @@ created: 2026-04-29
 
 ### 2. How Does Blockchain Work?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is distributed ledger technology (DLT)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/what-is-distributed-ledger-technology-dlt?u=76281980)
@@ -485,8 +486,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (11), database (3), [[Microsoft Word|Word]] (1), [[Cryptocurrency]] (1), [[Cryptography]] (1)
 > **Env Vars:** dlt (3)
-> **Code Keywords:** require (1), this. (1)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** known as (1)
 > **Speakers:** - what (1)
@@ -588,7 +589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (17), public (11), else, (1), this, (1), function (1)
+> **Frameworks & Libraries:** [[Cryptography]] (10), [[Blockchain]] (5), [[Microsoft Word|Word]] (2), [[Security]] (2), data (1)
 > **Env Vars:** pkc (3)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -684,7 +685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), this. (3)
+> **Frameworks & Libraries:** [[Blockchain]] (10), data (3), [[Microsoft Word|Word]] (2), power (2), [[Big Data]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** sha (2)
 > **CLI Commands:** find (1)
@@ -696,7 +697,7 @@ created: 2026-04-29
 
 ### 3. How Blockchain Enables Cryptocurrencies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Brief history of Bitcoin
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/brief-history-of-bitcoin?u=76281980)
@@ -815,7 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** next (3), [[Blockchain]] (2), [[Banking]] (1), open-source (1), [[Cryptocurrency]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -892,7 +893,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (3), let (1), super (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), management (1), game (1), [[Hardware]] (1), product (1)
 > **Analogies:** such as (3), just like (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -964,8 +965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (13), [[Blockchain]] (5), [[Cryptocurrency]] (4), [[Ethereum]] (4), [[Security]] (2)
 > **Analogies:** for example (5), such as (3)
-> **Code Keywords:** function (2), continue (1), let (1), this. (1), raise (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** xrp (1), nft (1)
 > **Speakers:** - for (1)
@@ -973,7 +974,7 @@ created: 2026-04-29
 
 ### 4. The Blockchain Universe
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Difference between public and private blockchains
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/difference-between-public-and-private-blockchains?u=76281980)
@@ -1030,7 +1031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), public (4), require (1)
+> **Frameworks & Libraries:** [[Blockchain]] (10), data (3), cloud (2), [[Tokens]] (1), [[Ethereum]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** ibm (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1113,6 +1114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (12), [[Blockchain]] (6), [[Solidity]] (3), [[Smart Contracts]] (3), [[LinkedIn]] (3)
 > **Env Vars:** evm (4)
 > **Definitions:** we call this (1), known as (1), is a  (1)
 > **Analogies:** such as (2), imagine (1)
@@ -1203,8 +1205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (7), [[Ethereum]] (7), [[Tokens]] (4), [[Cryptocurrency]] (1), [[Smart Contracts]] (1)
 > **Env Vars:** nft (8), erc (8), api (1)
-> **Code Keywords:** function (1), type. (1), interface (1)
 > **Definitions:** is a  (1), is an  (1), stands for (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
@@ -1263,7 +1265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), yield (2), return, (1), return. (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Cryptocurrency]] (2), [[Ethereum]] (2), [[Smart Contracts]] (1), [[Banking]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
@@ -1273,7 +1275,7 @@ created: 2026-04-29
 
 ### 5. Blockchain in Context
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain use case: Cross-border payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-use-case-cross-border-payments?u=76281980)
@@ -1336,8 +1338,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Cryptocurrency]] (2), [[Real-Time]] (1), power (1)
 > **Env Vars:** xrp (7)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - today (1)
 
@@ -1426,10 +1428,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (5), management (4), data (3), [[Authentication Systems]] (1), business (1)
 > **Env Vars:** ssi (6), iam (3)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is called (2), is an  (2)
-> **Code Keywords:** self (1), let (1)
 > **Speakers:** - you (1)
 
 #### Blockchain use case: Title registries
@@ -1481,9 +1483,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (4), data (2), api (1)
 > **Env Vars:** napr (3), api (1)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** public (3)
 > **Versions:** 9.3 (1), 1.5 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -1491,7 +1493,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The risks and opportunities ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/the-risks-and-opportunities-ahead?u=76281980)
@@ -1572,8 +1574,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Security]] (3), [[Cryptocurrency]] (2), [[Ethereum]] (1), [[Scalability]] (1)
 > **Analogies:** such as (3), for example (2)
-> **Code Keywords:** continue (2), finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - both (1)
 
@@ -1640,9 +1642,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (9), next (2), [[Cryptocurrency]] (2), [[Ethereum]] (2), data (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Versions:** 3.0 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)

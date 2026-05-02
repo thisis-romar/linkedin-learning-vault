@@ -44,7 +44,7 @@ tags:
   - skill/roi-strategies
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Predictive%20Analytics%20Essential%20Training-%20Estimating%20and%20Ensuring%20ROI.md)
@@ -63,30 +63,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction
+  - [Introduction](#introduction)
 - [**1. Effective Problem Definition**](#1-effective-problem-definition) (4 videos)
-  - Estimating ROI
-  - Business considerations when measuring ROI
-  - ROI starts with problem definition
-  - Why estimating ROI is perceived to be challenging
+  - [Estimating ROI](#estimating-roi)
+  - [Business considerations when measuring ROI](#business-considerations-when-measuring-roi)
+  - [ROI starts with problem definition](#roi-starts-with-problem-definition)
+  - [Why estimating ROI is perceived to be challenging](#why-estimating-roi-is-perceived-to-be-challenging)
 - [**2. Estimating ROI before the Project Starts**](#2-estimating-roi-before-the-project-starts) (6 videos)
-  - Introducing the confusion matrix
-  - The possible outcomes when a micro decision is made
-  - Estimating the overall size of the problem
-  - Assigning value to the four possible outcomes
-  - The impact of model performance on ROI
-  - Two other example scenarios
+  - [Introducing the confusion matrix](#introducing-the-confusion-matrix)
+  - [The possible outcomes when a micro decision is made](#the-possible-outcomes-when-a-micro-decision-is-made)
+  - [Estimating the overall size of the problem](#estimating-the-overall-size-of-the-problem)
+  - [Assigning value to the four possible outcomes](#assigning-value-to-the-four-possible-outcomes)
+  - [The impact of model performance on ROI](#the-impact-of-model-performance-on-roi)
+  - [Two other example scenarios](#two-other-example-scenarios)
 - [**3. Calculating ROI after the Model Is Built**](#3-calculating-roi-after-the-model-is-built) (4 videos)
-  - Determining the cut-off on propensity scores for interventions
-  - A/B testing and partial rollout during the evaluation phase
-  - Understanding the monitoring phase
-  - Revisiting ROI 12 months after deployment
+  - [Determining the cut-off on propensity scores for interventions](#determining-the-cut-off-on-propensity-scores-for-interventions)
+  - [A/B testing and partial rollout during the evaluation phase](#ab-testing-and-partial-rollout-during-the-evaluation-phase)
+  - [Understanding the monitoring phase](#understanding-the-monitoring-phase)
+  - [Revisiting ROI 12 months after deployment](#revisiting-roi-12-months-after-deployment)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introduction?u=76281980)
@@ -111,15 +111,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), [[Predictive Analytics]] (1), leadership (1), data (1)
 > **Env Vars:** roi (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [keith] (1)
 
 
 ### 1. Effective Problem Definition
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Estimating ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980)
@@ -200,8 +200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), [[CRISP-DM]] (4), data (2), [[Predictive Analytics]] (1), [[Decision-Making]] (1)
 > **Env Vars:** crisp (4)
-> **Code Keywords:** let (1), from. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -265,9 +265,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (3), [[Predictive Analytics]] (2), data (2), career (1), teams (1)
 > **CLI Commands:** make (3), find (3)
 > **Env Vars:** roi (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
@@ -339,8 +339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** roi (5)
-> **Code Keywords:** let (2), abstract (1)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -398,8 +398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (4), [[Predictive Analytics]] (1), hit (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** case, (1), let (1)
 > **Env Vars:** roi (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
@@ -408,7 +408,7 @@ created: 2026-04-29
 
 ### 2. Estimating ROI before the Project Starts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the confusion matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introducing-the-confusion-matrix?u=76281980)
@@ -481,8 +481,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **Env Vars:** roi (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Warnings:** be careful (1)
@@ -561,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), require (1), continue (1)
+> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** roi (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -619,10 +619,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), business (1)
 > **Env Vars:** roi (4)
 > **CLI Commands:** make (2)
 > **Best Practices:** rule of thumb (2)
-> **Code Keywords:** this. (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -747,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try. (2), public (1), from. (1)
+> **Frameworks & Libraries:** business (2), data (1), management (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** fbi (1), roi (1)
 > **Versions:** 2.5 (2)
@@ -808,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (2), management (2), [[Decision Trees]] (1), business (1)
 > **Env Vars:** roi (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [presenter] (1)
@@ -908,8 +908,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **Analogies:** imagine (2), for instance (1)
-> **Code Keywords:** let (1), continue (1)
 > **Env Vars:** roi (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
@@ -918,7 +918,7 @@ created: 2026-04-29
 
 ### 3. Calculating ROI after the Model Is Built
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining the cut-off on propensity scores for interventions
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980)
@@ -1011,9 +1011,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), business (1), [[Analytics]] (1), [[Microsoft Excel|Excel]] (1), data (1)
 > **Versions:** 0.5 (2), 1.0 (1), 0.51 (1), 0.9 (1), 0.8 (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** this, (1), finally, (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1061,8 +1061,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), data (2), [[Microsoft Office|Office]] (1), product (1), parallel (1)
 > **Env Vars:** roi (3)
-> **Code Keywords:** new. (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -1097,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** business (2), data (2), next (1)
 > **Env Vars:** roi (1)
 > **Best Practices:** rule of thumb (1)
 > **Prerequisites:** you'll need (1)
@@ -1168,16 +1168,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CRISP-DM]] (2), business (2), [[Supervised Learning]] (1)
 > **Env Vars:** roi (3), crisp (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980)
@@ -1212,6 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (2), [[Predictive Analytics]] (1), ai (1), feature (1)
 > **Env Vars:** roi (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)

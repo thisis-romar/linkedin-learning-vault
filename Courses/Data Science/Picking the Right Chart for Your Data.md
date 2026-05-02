@@ -33,7 +33,7 @@ tags:
   - skill/data-storytelling
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Picking%20the%20Right%20Chart%20for%20Your%20Data.md)
@@ -52,35 +52,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Choose wisely
-  - What you should know
+  - [Choose wisely](#choose-wisely)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting to KWYRWTS**](#1-getting-to-kwyrwts) (2 videos)
-  - What are the KWYs?
-  - Getting to KWYs
+  - [What are the KWYs?](#what-are-the-kwys)
+  - [Getting to KWYs](#getting-to-kwys)
 - [**2. The Standards**](#2-the-standards) (14 videos)
-  - Chart categories
-  - Comparisons: Bars and columns
-  - Comparisons: Beyond bars
-  - Trends: Line charts
-  - Trends: Beyond the line
-  - Proportions: Pie charts and more
-  - Proportions: Beyond the circle
-  - Relationships: Correlation
-  - Relationships: Hierarchical and network
-  - Relationships: Flow
-  - Distribution: Histograms
-  - Distribution: Beyond histograms
-  - Deviation
-  - Geographic
+  - [Chart categories](#chart-categories)
+  - [Comparisons: Bars and columns](#comparisons-bars-and-columns)
+  - [Comparisons: Beyond bars](#comparisons-beyond-bars)
+  - [Trends: Line charts](#trends-line-charts)
+  - [Trends: Beyond the line](#trends-beyond-the-line)
+  - [Proportions: Pie charts and more](#proportions-pie-charts-and-more)
+  - [Proportions: Beyond the circle](#proportions-beyond-the-circle)
+  - [Relationships: Correlation](#relationships-correlation)
+  - [Relationships: Hierarchical and network](#relationships-hierarchical-and-network)
+  - [Relationships: Flow](#relationships-flow)
+  - [Distribution: Histograms](#distribution-histograms)
+  - [Distribution: Beyond histograms](#distribution-beyond-histograms)
+  - [Deviation](#deviation)
+  - [Geographic](#geographic)
 - [**3. Beyond the Standards**](#3-beyond-the-standards) (2 videos)
-  - To cumulative or not cumulative?
-  - Outside the box
+  - [To cumulative or not cumulative?](#to-cumulative-or-not-cumulative)
+  - [Outside the box](#outside-the-box)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Wrapping it up
+  - [Wrapping it up](#wrapping-it-up)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose wisely
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/choose-wisely?u=76281980)
@@ -105,7 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), let (1)
+> **Frameworks & Libraries:** data (7), [[Forms]] (1), [[Analytics]] (1)
 > **Speakers:** - i (1)
 
 #### What you should know
@@ -125,12 +125,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting to KWYRWTS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the KWYs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-are-the-kwys?u=76281980)
@@ -203,9 +204,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Data Storytelling]] (1)
 > **Definitions:** stands for (3), is a  (1)
 > **Env Vars:** kwydis (1), kwyanth (1), kwyrwts (1)
-> **Code Keywords:** require (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -370,7 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), continue (3), this, (1), abstract (1)
+> **Frameworks & Libraries:** data (10), next (3), business (1), hit (1), game (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** kwy (4), ceo (2)
 > **Analogies:** for instance (3)
@@ -380,7 +381,7 @@ created: 2026-04-29
 
 ### 2. The Standards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Chart categories
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/chart-categories-23470796?u=76281980)
@@ -431,9 +432,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (1), express (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** case, (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -541,9 +542,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), express (1), next (1)
 > **Analogies:** for instance (3), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** usa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -681,10 +682,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), next (2), express (1), [[Forms]] (1)
 > **Analogies:** for instance (5), just like (2)
 > **Definitions:** is a  (2), known as (1), in other words (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), from, (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -752,9 +753,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), just like (1)
-> **Code Keywords:** default. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -873,8 +874,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (1)
 > **Definitions:** is a  (6), is called (2)
-> **Code Keywords:** this, (2), case, (1), let (1), switch (1), case. (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** best practice (2)
@@ -982,7 +983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (6), next (1)
 > **Warnings:** caution (2), be aware (1)
 > **Env Vars:** fyi (1)
 > **Definitions:** is a  (1)
@@ -1082,7 +1083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** kwy (2)
 > **Versions:** 34.5 (2)
 > **Analogies:** for instance (2)
@@ -1243,8 +1244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (1), parallel (1)
 > **Definitions:** is a  (5), known as (1), is an  (1), is called (1)
-> **Code Keywords:** case, (4), let (3)
 > **Analogies:** just like (2), for instance (2), for example (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1343,12 +1344,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), node (2)
 > **CLI Commands:** node (2), make (1)
 > **Env Vars:** fyi (1), url (1), quai (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** for instance (2), such as (1)
 > **Best Practices:** remember to (1), best practice (1)
-> **Code Keywords:** let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1427,7 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), case, (1)
+> **Frameworks & Libraries:** management (2), node (1), data (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (3), similar to (1)
 > **CLI Commands:** node (1)
@@ -1484,7 +1485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sat (1)
@@ -1601,10 +1602,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18)
 > **Definitions:** is a  (4), known as (2)
 > **Analogies:** imagine (1), such as (1), for instance (1), just like (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** case, (1), this, (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1731,7 +1732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try. (1), this. (1), else. (1), case, (1)
+> **Frameworks & Libraries:** data (7), product (4), [[Microsoft Products|Products]] (3), next (1), business (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** kwy (3)
 > **Analogies:** such as (1), for instance (1), it's like (1)
@@ -1848,9 +1849,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), known as (1), in other words (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1), type, (1), finally, (1)
 > **Env Vars:** qwhy (2), pdf (1)
 > **Analogies:** for instance (2), just like (1)
 > **UI Navigation:** open the (1)
@@ -1859,7 +1860,7 @@ created: 2026-04-29
 
 ### 3. Beyond the Standards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### To cumulative or not cumulative?
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/to-cumulative-or-not-cumulative?u=76281980)
@@ -2000,7 +2001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3), case, (1), this. (1)
+> **Frameworks & Libraries:** data (5), [[Statistics]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (1), for instance (1)
@@ -2140,7 +2141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (1), try. (1), type, (1)
+> **Frameworks & Libraries:** data (10), traffic (1), next (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for instance (2), imagine (1)
@@ -2149,7 +2150,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrapping it up
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/wrapping-it-up?u=76281980)
@@ -2176,6 +2177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[LinkedIn]] (2), [[Storytelling]] (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [bill] (1)
 

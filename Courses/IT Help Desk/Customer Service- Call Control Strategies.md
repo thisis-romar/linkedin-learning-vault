@@ -28,7 +28,7 @@ tags:
   - topic/it-help-desk
   - skill/call-control
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Customer%20Service-%20Call%20Control%20Strategies.md)
@@ -47,23 +47,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Get customer calls resolved faster
+  - [Get customer calls resolved faster](#get-customer-calls-resolved-faster)
 - [**1. Call Control Strategies**](#1-call-control-strategies) (6 videos)
-  - Give a limited response on your customer call
-  - The snatch-and-flip call control strategy
-  - Ask closed-ended questions on your customer call
-  - Assertively interject on your customer call
-  - Reframe the conversation with your customer
-  - Politely excuse yourself on your customer call
+  - [Give a limited response on your customer call](#give-a-limited-response-on-your-customer-call)
+  - [The snatch-and-flip call control strategy](#the-snatch-and-flip-call-control-strategy)
+  - [Ask closed-ended questions on your customer call](#ask-closed-ended-questions-on-your-customer-call)
+  - [Assertively interject on your customer call](#assertively-interject-on-your-customer-call)
+  - [Reframe the conversation with your customer](#reframe-the-conversation-with-your-customer)
+  - [Politely excuse yourself on your customer call](#politely-excuse-yourself-on-your-customer-call)
 - [**2. Proactive Conversation Management**](#2-proactive-conversation-management) (2 videos)
-  - When customers feel understood, they talk less
-  - Provide a comprehensive recap of your customer call
+  - [When customers feel understood, they talk less](#when-customers-feel-understood-they-talk-less)
+  - [Provide a comprehensive recap of your customer call](#provide-a-comprehensive-recap-of-your-customer-call)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Keep building your customer phone skills
+  - [Keep building your customer phone skills](#keep-building-your-customer-phone-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get customer calls resolved faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980)
@@ -82,13 +82,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - i (1)
 
 
 ### 1. Call Control Strategies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Give a limited response on your customer call
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/give-a-limited-response-on-your-customer-call?u=76281980)
@@ -145,7 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** game (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
@@ -231,7 +232,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Speakers:** - okay (2), - when (1), - hi (1), - this (1), - i (1)
-> **Code Keywords:** let (1), this, (1), this. (1), continue (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1)
 > **Warnings:** don't make the mistake (1)
@@ -343,8 +343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), business (1), next (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - all (2), - when (1), - hi (1), - yeah (1), - this (1)
-> **Code Keywords:** assert (2), this. (1), let (1), super (1)
 > **Env Vars:** tx4729 (1), ord (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -415,8 +415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **Speakers:** - hi (2), - you (2), - i (1)
-> **Code Keywords:** let (3), this. (1)
 > **Analogies:** picture (1)
 
 #### Reframe the conversation with your customer
@@ -472,7 +472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Storytelling]] (1), business (1), next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
@@ -538,15 +538,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), else, (2), continue (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - i (1)
 
 
 ### 2. Proactive Conversation Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When customers feel understood, they talk less
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/when-customers-feel-understood-they-talk-less-22343811?u=76281980)
@@ -600,7 +600,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - if (1)
 
 #### Provide a comprehensive recap of your customer call
@@ -666,14 +665,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), finally, (1)
+> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep building your customer phone skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980)
@@ -710,7 +709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), finally, (1)
+> **Frameworks & Libraries:** feature (1), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)

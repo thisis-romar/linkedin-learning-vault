@@ -31,7 +31,7 @@ tags:
   - skill/cloud-security
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Security%20for%20Beginners-%20Tools%20and%20Services.md)
@@ -50,37 +50,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introduction to course
-  - Overview of the Google Cloud Platform
-  - Understanding the shared security responsibility model
+  - [Introduction to course](#introduction-to-course)
+  - [Overview of the Google Cloud Platform](#overview-of-the-google-cloud-platform)
+  - [Understanding the shared security responsibility model](#understanding-the-shared-security-responsibility-model)
 - [**1. Identity and Access Management (IAM)**](#1-identity-and-access-management-iam) (4 videos)
-  - Google Cloud Security and IAM basics
-  - Getting started with IAM in GCP
-  - Managing IAM roles and policies in GCP
-  - Securing GCP resources with IAM
+  - [Google Cloud Security and IAM basics](#google-cloud-security-and-iam-basics)
+  - [Getting started with IAM in GCP](#getting-started-with-iam-in-gcp)
+  - [Managing IAM roles and policies in GCP](#managing-iam-roles-and-policies-in-gcp)
+  - [Securing GCP resources with IAM](#securing-gcp-resources-with-iam)
 - [**2. Infrastructure Security**](#2-infrastructure-security) (4 videos)
-  - Overview of cloud infrastructure security
-  - Securing compute resources
-  - Data security and encryption
-  - Incident response and best practices
+  - [Overview of cloud infrastructure security](#overview-of-cloud-infrastructure-security)
+  - [Securing compute resources](#securing-compute-resources)
+  - [Data security and encryption](#data-security-and-encryption)
+  - [Incident response and best practices](#incident-response-and-best-practices)
 - [**3. Network Security**](#3-network-security) (3 videos)
-  - Network security fundamentals
-  - Creating a virtual private cloud (VPC)
-  - Scaling with cloud load balancing
+  - [Network security fundamentals](#network-security-fundamentals)
+  - [Creating a virtual private cloud (VPC)](#creating-a-virtual-private-cloud-vpc)
+  - [Scaling with cloud load balancing](#scaling-with-cloud-load-balancing)
 - [**4. Data Security**](#4-data-security) (3 videos)
-  - Introduction to data security in the cloud
-  - The importance of backups and disaster recovery services
-  - Data security best practices
+  - [Introduction to data security in the cloud](#introduction-to-data-security-in-the-cloud)
+  - [The importance of backups and disaster recovery services](#the-importance-of-backups-and-disaster-recovery-services)
+  - [Data security best practices](#data-security-best-practices)
 - [**5. Security Operations**](#5-security-operations) (3 videos)
-  - Understanding the Security Command Center
-  - Improving your cloud security posture
-  - Building a security checklist
+  - [Understanding the Security Command Center](#understanding-the-security-command-center)
+  - [Improving your cloud security posture](#improving-your-cloud-security-posture)
+  - [Building a security checklist](#building-a-security-checklist)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to course
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980)
@@ -97,7 +97,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (3), [[Security]] (3), data (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Speakers:** - are (1)
 
 #### Overview of the Google Cloud Platform
@@ -167,9 +167,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gcp (10), cloud (9), [[Google]] (6), [[Security]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (2)
 > **Env Vars:** gcp (10), cli (2), sql (1), vpc (1), dns (1)
 > **Definitions:** is a  (3), known as (2), is an  (1), is called (1)
-> **Code Keywords:** interface (3), let (2), private (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** gcloud (1)
 > **Tools:** terminal (1)
@@ -218,8 +218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Security]] (7), data (3), management (2), [[Cloud Infrastructure]] (1)
 > **Definitions:** is called (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** iam (1)
 > **Analogies:** such as (1)
@@ -230,7 +230,7 @@ created: 2026-04-29
 
 ### 1. Identity and Access Management (IAM)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Cloud Security and IAM basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980)
@@ -281,8 +281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gcp (4), [[Security]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), cloud (1), data (1)
 > **Env Vars:** iam (10), gcp (4), dcp (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
@@ -349,8 +349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), gcp (2), [[Security]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Google]] (1)
 > **Env Vars:** iam (11), gcp (2)
-> **Code Keywords:** let (3), include, (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (2)
@@ -413,8 +413,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), gcp (3), [[Security]] (3), cloud (2), application (2)
 > **Env Vars:** iam (6), gcp (3), dcp (2)
-> **Code Keywords:** let (2), require (1), finally, (1)
 > **Analogies:** similar to (1), imagine (1), such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
@@ -461,15 +461,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), gcp (3), management (2), next (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** iam (11), gcp (3)
-> **Code Keywords:** let (3), type, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Infrastructure Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of cloud infrastructure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980)
@@ -522,9 +522,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), [[Google]] (7), cloud (6), data (4), application (3)
 > **Env Vars:** gcp (2), iam (2)
 > **Cross-References:** we covered (1), in the last (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
@@ -584,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (1), self (1)
+> **Frameworks & Libraries:** [[Security]] (7), [[Virtual Machines]] (5), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[Google]] (2), cloud (2)
 > **Env Vars:** cisa (1), gke (1), iam (1)
 > **Analogies:** such as (3)
 > **Definitions:** known as (2)
@@ -643,8 +643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Security]] (3), gcp (3), [[Google]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** gcp (3), cmek (1), api (1)
-> **Code Keywords:** default, (1), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -706,9 +706,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Incident Response]] (8), [[Security]] (8), gcp (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2)
 > **Env Vars:** gcp (2), nist (1), api (1)
 > **Prerequisites:** set up (2), configure (1)
-> **Code Keywords:** let (2)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** imagine (1)
@@ -717,7 +717,7 @@ created: 2026-04-29
 
 ### 3. Network Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Network security fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980)
@@ -756,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[Google Cloud Platform (GCP)|Google cloud]] (4), traffic (3), [[Scalability]] (1), gcp (1)
 > **Env Vars:** vpc (3), gcp (1), dns (1), https (1), tcp (1)
-> **Code Keywords:** let (1), private (1)
 > **Definitions:** is a  (1), known as (1)
 > **Prerequisites:** configure (1), set up (1)
 > **Cross-References:** we talked about (1)
@@ -853,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), next (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (2)
 > **Env Vars:** vpc (18), rdp (1)
-> **Code Keywords:** private (3), let (1), this, (1), case, (1)
 > **UI Navigation:** go to (3), click on (1), open the (1)
 > **Prerequisites:** setup (2), set up (1), configure (1)
 > **URLs:** [console.cloud](https://console.cloud) (1), [google.com](https://google.com) (1)
@@ -995,7 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (2), let (2), from. (1)
+> **Frameworks & Libraries:** next (9), traffic (8), application (5), cloud (4), [[Google Cloud Platform (GCP)|Google cloud]] (3)
 > **Env Vars:** gcp (3), http (2), tcp (1), ssl (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (3)
@@ -1007,7 +1007,7 @@ created: 2026-04-29
 
 ### 4. Data Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data security in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980)
@@ -1048,8 +1048,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Security]] (6), cloud (5), [[Privacy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), refers to (1)
-> **Code Keywords:** protected (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1128,8 +1128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), cloud (3), [[Resiliency]] (2), business (2), [[SQL]] (2)
 > **Env Vars:** sql (2), iso (1), soc (1), rto (1), rpo (1)
-> **Code Keywords:** let (2), continue (1), protected (1), finally, (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the next (1)
@@ -1148,16 +1148,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Security]] (6), management (3), next (2), cloud (2)
 > **Analogies:** such as (3), imagine (1)
 > **Env Vars:** gcp (1), pii (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Security Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the Security Command Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980)
@@ -1212,9 +1212,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), cloud (3), data (2), management (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **UI Navigation:** navigate to (1), click on (1), open the (1), scroll down (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case, (1)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** vpc (1)
 > **Speakers:** - [presenter] (1)
@@ -1258,6 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (17), cloud (11), data (2), [[Databases]] (1), next (1)
 > **Env Vars:** csa (1), star (1), iam (1)
 > **Definitions:** refers to (1), known as (1), is an  (1)
 > **Analogies:** such as (1)
@@ -1330,9 +1331,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), cloud (10), data (2), [[Incident Response]] (2), teams (2)
 > **Env Vars:** iam (2), kms (2), ddpr (1), hipaa (1), soc2 (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** for, (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** be careful (1)
@@ -1342,7 +1343,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980)
@@ -1369,7 +1370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), cloud (1), management (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - congratulations (1)
 

@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Cloud%20Leader%20Cert%20Prep-%203%20Innovating%20with%20Google%20Cloud%20Artificial%20Intelligence.md)
@@ -53,29 +53,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Course introduction
+  - [Course introduction](#course-introduction)
 - [**1. AI and ML Fundamentals**](#1-ai-and-ml-fundamentals) (6 videos)
-  - Introduction
-  - AI and ML defined
-  - How AI and ML differ from data analytics and business intelligence
-  - Problems that ML is suited to solve
-  - Why ML requires high-quality data
-  - The importance of responsible and explainable AI
+  - [Introduction](#introduction)
+  - [AI and ML defined](#ai-and-ml-defined)
+  - [How AI and ML differ from data analytics and business intelligence](#how-ai-and-ml-differ-from-data-analytics-and-business-intelligence)
+  - [Problems that ML is suited to solve](#problems-that-ml-is-suited-to-solve)
+  - [Why ML requires high-quality data](#why-ml-requires-high-quality-data)
+  - [The importance of responsible and explainable AI](#the-importance-of-responsible-and-explainable-ai)
 - [**2. Google Cloud’s AI and ML Solutions**](#2-google-clouds-ai-and-ml-solutions) (8 videos)
-  - Introduction
-  - BigQuery ML
-  - Pre-trained APIs
-  - AutoML
-  - Custom models
-  - TensorFlow
-  - AI solutions
-  - Considerations when selecting Google Cloud AI/ML solutions
+  - [Introduction](#introduction)
+  - [BigQuery ML](#bigquery-ml)
+  - [Pre-trained APIs](#pre-trained-apis)
+  - [AutoML](#automl)
+  - [Custom models](#custom-models)
+  - [TensorFlow](#tensorflow)
+  - [AI solutions](#ai-solutions)
+  - [Considerations when selecting Google Cloud AI/ML solutions](#considerations-when-selecting-google-cloud-aiml-solutions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course summary
+  - [Course summary](#course-summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980)
@@ -104,14 +104,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), ai (3), business (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. AI and ML Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980)
@@ -132,6 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (8), [[Microsoft Products|Products]] (3), ai (3), [[Search]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
@@ -183,10 +184,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (6), [[Generative AI]] (4), ai (3), [[Google]] (3)
 > **Definitions:** is a  (3), refers to (1)
 > **Analogies:** such as (3), imagine (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Speakers:** - people (1)
 
 #### How AI and ML differ from data analytics and business intelligence
@@ -248,8 +249,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), business (4), [[Business Intelligence (BI)|Business intelligence]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), include: (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -356,7 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (6), business (5), data (3), application (3), [[Google]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (2)
@@ -444,10 +445,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27)
 > **Analogies:** for example (4), such as (3), it's like (1)
 > **Definitions:** refers to (3), means that (1), is a  (1), defined as (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), type, (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### The importance of responsible and explainable AI
@@ -483,12 +484,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Google]] (6), [[Privacy]] (1), application (1), [[Responsible AI]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Google Cloud’s AI and ML Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980)
@@ -521,7 +523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1)
+> **Frameworks & Libraries:** ai (3), data (2), [[Google]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -557,6 +559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), ai (4), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), [[Vertex]] (2)
 > **CLI Commands:** python (2)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
@@ -613,8 +616,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), data (6), [[Google]] (4), business (3), cloud (3)
 > **Env Vars:** api (9)
-> **Code Keywords:** private (1), public (1), let (1), case, (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [educator] (1)
 
@@ -671,7 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), case, (1)
+> **Frameworks & Libraries:** data (8), [[Vertex]] (6), ai (6), api (4), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **Env Vars:** api (4)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** find (1)
@@ -704,7 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (5), [[Vertex]] (3), ai (3), [[Microsoft Products|Products]] (2), [[Feature Engineering]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### TensorFlow
@@ -732,6 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Google]] (3), [[Hardware]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2)
 > **Env Vars:** tpu (2), gpu (1)
 > **Definitions:** is an  (1), means that (1)
 > **Versions:** 7.9 (1)
@@ -760,6 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Google Cloud Platform (GCP)|Google cloud]] (2), data (2), [[Microsoft Products|Products]] (2), business (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -813,7 +818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), case. (1)
+> **Frameworks & Libraries:** ai (10), data (6), [[Google Cloud Platform (GCP)|Google cloud]] (5), business (4), [[Vertex]] (3)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - google (1)
@@ -821,7 +826,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980)
@@ -842,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (7), [[Google Cloud Platform (GCP)|Google cloud]] (4), cloud (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 

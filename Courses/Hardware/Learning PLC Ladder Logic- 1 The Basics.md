@@ -28,7 +28,7 @@ tags:
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20PLC%20Ladder%20Logic-%201%20The%20Basics.md)
@@ -47,53 +47,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Program PLCs with ladder logic
-  - What you should know
+  - [Program PLCs with ladder logic](#program-plcs-with-ladder-logic)
+  - [What you should know](#what-you-should-know)
 - [**1. PLC Programming**](#1-plc-programming) (2 videos)
-  - PLC programming languages
-  - LogixPro PLC simulation software
+  - [PLC programming languages](#plc-programming-languages)
+  - [LogixPro PLC simulation software](#logixpro-plc-simulation-software)
 - [**2. Ladder Logic Basics**](#2-ladder-logic-basics) (8 videos)
-  - Programming concept
-  - Input instructions
-  - Output instructions
-  - I/O with a push button and light
-  - I/O with alternating lights
-  - Field devices and program instructions
-  - Normally open (NO) contact with XIC and XIO
-  - Normally closed (NC) contact with XIC and XIO
+  - [Programming concept](#programming-concept)
+  - [Input instructions](#input-instructions)
+  - [Output instructions](#output-instructions)
+  - [I/O with a push button and light](#io-with-a-push-button-and-light)
+  - [I/O with alternating lights](#io-with-alternating-lights)
+  - [Field devices and program instructions](#field-devices-and-program-instructions)
+  - [Normally open (NO) contact with XIC and XIO](#normally-open-no-contact-with-xic-and-xio)
+  - [Normally closed (NC) contact with XIC and XIO](#normally-closed-nc-contact-with-xic-and-xio)
 - [**3. Rung Operation**](#3-rung-operation) (10 videos)
-  - Multiple inputs
-  - Example of multiple inputs (AND and OR)
-  - Multiple outputs
-  - Seal-in and hold-in instruction
-  - Branching operation and examples
-  - Rung operation case study, part 1
-  - Rung operation case study, part 2
-  - Multiple I/O case study
-  - Latch/unlatch output
-  - Latch/unlatch example
+  - [Multiple inputs](#multiple-inputs)
+  - [Example of multiple inputs (AND and OR)](#example-of-multiple-inputs-and-and-or)
+  - [Multiple outputs](#multiple-outputs)
+  - [Seal-in and hold-in instruction](#seal-in-and-hold-in-instruction)
+  - [Branching operation and examples](#branching-operation-and-examples)
+  - [Rung operation case study, part 1](#rung-operation-case-study-part-1)
+  - [Rung operation case study, part 2](#rung-operation-case-study-part-2)
+  - [Multiple I/O case study](#multiple-io-case-study)
+  - [Latch/unlatch output](#latchunlatch-output)
+  - [Latch/unlatch example](#latchunlatch-example)
 - [**4. Timers and Counters**](#4-timers-and-counters) (7 videos)
-  - Timer instruction overview
-  - Timer status bits (EN, DN, and TT)
-  - Timer types (TON and TOF) and diagrams
-  - Use a timer to flash a light
-  - Counter instruction
-  - Examples of counter types
-  - Counter and timer case study
+  - [Timer instruction overview](#timer-instruction-overview)
+  - [Timer status bits (EN, DN, and TT)](#timer-status-bits-en-dn-and-tt)
+  - [Timer types (TON and TOF) and diagrams](#timer-types-ton-and-tof-and-diagrams)
+  - [Use a timer to flash a light](#use-a-timer-to-flash-a-light)
+  - [Counter instruction](#counter-instruction)
+  - [Examples of counter types](#examples-of-counter-types)
+  - [Counter and timer case study](#counter-and-timer-case-study)
 - [**5. Detailed Case Study: Plywood Sheets Process**](#5-detailed-case-study-plywood-sheets-process) (7 videos)
-  - Case overview
-  - Part 1: Counting sheets
-  - Part 2: Running the conveyer
-  - Part 3: Applying paint
-  - Part 4: Programming the second conveyer
-  - Ladder logic program simulation
-  - Part 5: Add stops to complete the program
+  - [Case overview](#case-overview)
+  - [Part 1: Counting sheets](#part-1-counting-sheets)
+  - [Part 2: Running the conveyer](#part-2-running-the-conveyer)
+  - [Part 3: Applying paint](#part-3-applying-paint)
+  - [Part 4: Programming the second conveyer](#part-4-programming-the-second-conveyer)
+  - [Ladder logic program simulation](#ladder-logic-program-simulation)
+  - [Part 5: Add stops to complete the program](#part-5-add-stops-to-complete-the-program)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Program PLCs with ladder logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/program-plcs-with-ladder-logic-22700400?u=76281980)
@@ -118,8 +118,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (4), [[Programming]] (4), [[Automation]] (2), [[Engineering]] (1)
 > **Env Vars:** plc (4)
-> **Code Keywords:** let (1)
 > **Speakers:** - so (1)
 
 #### What you should know
@@ -133,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (3), plc (1), [[Programming]] (1)
 > **Env Vars:** plc (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -140,7 +141,7 @@ created: 2026-04-29
 
 ### 1. PLC Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PLC programming languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/plc-programming-languages?u=76281980)
@@ -171,6 +172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (6), [[Programming]] (6), [[Automation]] (3), [[Microsoft Products|Products]] (1)
 > **Env Vars:** plc (6)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
@@ -302,8 +304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (7), [[Simulation Software]] (4), [[Simulation]] (4), hit (2), [[Programming]] (1)
 > **UI Navigation:** click on (9), go to (5), right-click (4), open the (1), double-click (1)
-> **Code Keywords:** delete (5), try. (3), let (3), continue (2), module (1)
 > **Env Vars:** plc (7)
 > **Analogies:** for example (7)
 > **Exercise Files:** download the (5)
@@ -314,7 +316,7 @@ created: 2026-04-29
 
 ### 2. Ladder Logic Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Programming concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/programming-concept?u=76281980)
@@ -359,8 +361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (5), [[Programming]] (3), power (1)
 > **Env Vars:** plc (5)
-> **Code Keywords:** module (1), let (1), switch (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** rails (1)
 > **Cross-References:** later in (1)
@@ -442,8 +444,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (6), [[Programming]] (1)
 > **Env Vars:** xio (7), plc (6), xic (6)
-> **Code Keywords:** module (2), let (1), type. (1)
 > **Cross-References:** as we saw (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -503,8 +505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (2), parallel (2), power (1), [[Programming]] (1)
 > **Env Vars:** plc (2), ote (1), otl (1), otu (1)
-> **Code Keywords:** let (1), module (1)
 > **Analogies:** similar to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -600,8 +602,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (6), [[Simulation Software]] (2)
 > **Env Vars:** xio (10), xic (6), plc (6), ran (1), run (1)
-> **Code Keywords:** let (6), module (4)
 > **Definitions:** means that (3)
 > **UI Navigation:** click on (2)
 > **Exercise Files:** download the (2)
@@ -664,8 +666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (2), [[Simulation Software]] (2)
 > **Env Vars:** xic (3), xio (3), plc (2)
-> **Code Keywords:** let (4), module (2)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [narrator] (1)
@@ -707,7 +709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (1)
+> **Frameworks & Libraries:** plc (1), [[Simulation Software]] (1)
 > **Env Vars:** plc (1), xic (1), xio (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -769,8 +771,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), next (1), [[Programming]] (1)
 > **Env Vars:** xic (7), xio (6), plc (3)
-> **Code Keywords:** let (4), module (2)
 > **Cross-References:** next video (1), later in (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -837,14 +839,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (4)
 > **Env Vars:** xic (5), xio (5), plc (4)
-> **Code Keywords:** module (3), let (1), for. (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Rung Operation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Multiple inputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/multiple-inputs?u=76281980)
@@ -895,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** parallel (1)
 > **Analogies:** similar to (2)
 > **Speakers:** - [narrator] (1)
 
@@ -980,7 +982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Simulation Software]] (2), parallel (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** download the (2)
 > **Env Vars:** xic (1)
@@ -1014,6 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1086,7 +1089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** hit (2), [[Simulation Software]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1164,7 +1167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (3)
+> **Frameworks & Libraries:** parallel (4), [[Simulation Software]] (2), [[Programming]] (1)
 > **Exercise Files:** download the (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** add (1)
@@ -1272,8 +1275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (2), [[Programming]] (1)
 > **Env Vars:** cln (6), xic (4), xio (4), plc (2)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1362,9 +1365,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), next (1), parallel (1), [[Simulation Software]] (1)
 > **Env Vars:** xio (3), run (2)
 > **Definitions:** is a  (1), basically means (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -1472,8 +1475,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), hit (1)
 > **Env Vars:** xio (3), xic (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** we covered (1)
 > **UI Navigation:** select the (1)
@@ -1576,7 +1579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** power (3), plc (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (2), is an  (1), means that (1), basically means (1)
 > **Env Vars:** plc (2)
 > **Analogies:** for example (2)
@@ -1678,16 +1681,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (1), [[Simulation Software]] (1)
 > **Env Vars:** xio (2), xic (1)
 > **Definitions:** is an  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Timers and Counters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Timer instruction overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-instruction-overview?u=76281980)
@@ -1792,7 +1795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (7), finally, (2), let (1), type, (1)
+> **Frameworks & Libraries:** plc (7), [[Programming]] (1)
 > **Env Vars:** plc (7), t40 (2)
 > **Versions:** 0.1 (2), 0.0001 (1), 0.001 (1)
 > **Definitions:** is a  (3)
@@ -1897,7 +1900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (3), type, (1), case, (1)
+> **Frameworks & Libraries:** plc (1)
 > **Env Vars:** xic (3), plc (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1981,7 +1984,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (3), case. (1)
 > **Env Vars:** off (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
@@ -2055,8 +2057,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation Software]] (2), hit (2), plc (1), [[Programming]] (1)
 > **Env Vars:** xio (4), xic (2), plc (1), t40 (1), t41 (1)
-> **Code Keywords:** let (4)
 > **CLI Commands:** make (1)
 > **Versions:** 0.1 (1)
 > **Cross-References:** go back to (1)
@@ -2146,8 +2148,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (6), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1), cd (1)
 > **Env Vars:** plc (6)
-> **Code Keywords:** function (1), continue (1), type, (1)
 > **CLI Commands:** cd (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
@@ -2251,8 +2253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (2), [[Programming]] (1), next (1)
 > **Env Vars:** xic (4), plc (2), acc (1)
-> **Code Keywords:** let (3), case. (2), interface (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -2377,7 +2379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), default, (1), continue (1)
+> **Frameworks & Libraries:** [[Programming]] (3), plc (1)
 > **Env Vars:** xic (1), plc (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is an  (1), in other words (1)
@@ -2388,7 +2390,7 @@ created: 2026-04-29
 
 ### 5. Detailed Case Study: Plywood Sheets Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Case overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/case-overview?u=76281980)
@@ -2463,7 +2465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), let (3), finally, (1)
+> **Frameworks & Libraries:** plc (3), [[Programming]] (2), data (1), [[Simulation]] (1), [[Simulation Software]] (1)
 > **Env Vars:** plc (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -2527,8 +2529,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (1), [[Debugging]] (1)
 > **Env Vars:** xic (4), plc (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2569,8 +2571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** xic (5), xio (5)
-> **Code Keywords:** let (1), case, (1), case. (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2625,8 +2627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Env Vars:** xio (6), xic (2)
-> **Code Keywords:** let (1), continue (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2697,8 +2699,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** parallel (1)
 > **Env Vars:** xio (5)
-> **Code Keywords:** let (1)
 > **Warnings:** note that (1)
 > **Speakers:** - this (1)
 
@@ -2753,9 +2755,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation Software]] (2), hit (2), node (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -2803,9 +2805,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation Software]] (2), [[Simulation]] (1), hit (1)
 > **Env Vars:** xic (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - so (1)
@@ -2813,7 +2815,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/next-steps-22803390?u=76281980)
@@ -2834,8 +2836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (7), [[Programming]] (2), next (1), data (1), [[Simulation Software]] (1)
 > **Env Vars:** plc (7)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - thanks (1)
 

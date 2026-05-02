@@ -30,7 +30,7 @@ tags:
   - skill/dashboards
   - skill/data-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analytics-%20Dashboards%20vs.%20Data%20Stories.md)
@@ -49,27 +49,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Choose the right format for your data
+  - [Choose the right format for your data](#choose-the-right-format-for-your-data)
 - [**1. Understand the Value of Data**](#1-understand-the-value-of-data) (3 videos)
-  - Explain why businesses want insights
-  - Solve the problem of unstructured data
-  - Define the role of a data analyst
+  - [Explain why businesses want insights](#explain-why-businesses-want-insights)
+  - [Solve the problem of unstructured data](#solve-the-problem-of-unstructured-data)
+  - [Define the role of a data analyst](#define-the-role-of-a-data-analyst)
 - [**2. Build Effective Dashboards**](#2-build-effective-dashboards) (2 videos)
-  - Design dashboards for stakeholder needs
-  - Optimize dashboard layout and filters
+  - [Design dashboards for stakeholder needs](#design-dashboards-for-stakeholder-needs)
+  - [Optimize dashboard layout and filters](#optimize-dashboard-layout-and-filters)
 - [**3. Craft Compelling Data Stories**](#3-craft-compelling-data-stories) (3 videos)
-  - Build a compelling narrative
-  - Visualize data with purpose
-  - Conclude with insights and action
+  - [Build a compelling narrative](#build-a-compelling-narrative)
+  - [Visualize data with purpose](#visualize-data-with-purpose)
+  - [Conclude with insights and action](#conclude-with-insights-and-action)
 - [**4. Choose the Right Format for the Job**](#4-choose-the-right-format-for-the-job) (2 videos)
-  - Decide between a dashboard and a story
-  - Integrate dashboards and data stories
+  - [Decide between a dashboard and a story](#decide-between-a-dashboard-and-a-story)
+  - [Integrate dashboards and data stories](#integrate-dashboards-and-data-stories)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Share insights confidently
+  - [Share insights confidently](#share-insights-confidently)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose the right format for your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/choose-the-right-format-for-your-data-30275053?u=76281980)
@@ -94,13 +94,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), career (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 
 
 ### 1. Understand the Value of Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explain why businesses want insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/explain-why-businesses-want-insights-30283048?u=76281980)
@@ -163,9 +163,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (2), next (2), traffic (1), leadership (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** picture (1), for example (1)
-> **Code Keywords:** else, (1)
 
 #### Solve the problem of unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980)
@@ -242,6 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (1), [[Unstructured Data]] (1), [[Analytics]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dob (1), usd (1)
 > **Analogies:** imagine (1), picture (1)
@@ -329,15 +330,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), product (2), business (1), feature (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** return. (1)
 > **Env Vars:** sql (1)
 
 
 ### 2. Build Effective Dashboards
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design dashboards for stakeholder needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980)
@@ -412,8 +413,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), teams (3), product (3), [[Dashboards]] (2), [[Zoom]] (1)
 > **Analogies:** picture (1), similar to (1), such as (1)
-> **Code Keywords:** interface (1), let (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 
@@ -490,7 +491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), match. (1), let (1), continue (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Zoom]] (2), product (1), [[Dashboards]] (1), power (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is an  (1)
@@ -498,7 +499,7 @@ created: 2026-04-29
 
 ### 3. Craft Compelling Data Stories
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a compelling narrative
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/build-a-compelling-narrative-30264065?u=76281980)
@@ -603,9 +604,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (3), traffic (3), business (1), teams (1)
 > **Analogies:** for example (3), just like (1), imagine (1)
 > **Prerequisites:** setup (2)
-> **Code Keywords:** let (1)
 
 #### Visualize data with purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980)
@@ -662,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** data (2), next (2), [[Data Storytelling]] (1), power (1), [[Dashboards]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Analogies:** imagine (1)
@@ -750,14 +751,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (5), generic (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), this, (1), case, (1)
 > **Analogies:** imagine (1)
 
 
 ### 4. Choose the Right Format for the Job
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Decide between a dashboard and a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/decide-between-a-dashboard-and-a-story-30281051?u=76281980)
@@ -828,8 +829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Dashboards]] (3), next (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
 
@@ -906,13 +907,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dashboards]] (7), data (7), power (1), bi (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** case, (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Share insights confidently
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980)
@@ -949,8 +950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Dashboards]] (4), [[Microsoft]] (1), power (1), bi (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** module (1), finally, (1)
 > **Analogies:** such as (1)
 
 

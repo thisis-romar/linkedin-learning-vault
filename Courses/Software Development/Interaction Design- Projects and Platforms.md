@@ -19,7 +19,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Interaction%20Design-%20Projects%20and%20Platforms.md)
@@ -38,38 +38,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Design anything
+  - [Design anything](#design-anything)
 - [**1. Understanding User Motivations, Goals, and Tasks**](#1-understanding-user-motivations-goals-and-tasks) (7 videos)
-  - User research overview
-  - User archetypes
-  - Context of use
-  - Defining scenarios
-  - Defining design principles
-  - Designing for novices and beginners
-  - Designing for intermediate and experts
+  - [User research overview](#user-research-overview)
+  - [User archetypes](#user-archetypes)
+  - [Context of use](#context-of-use)
+  - [Defining scenarios](#defining-scenarios)
+  - [Defining design principles](#defining-design-principles)
+  - [Designing for novices and beginners](#designing-for-novices-and-beginners)
+  - [Designing for intermediate and experts](#designing-for-intermediate-and-experts)
 - [**2. Designing Consumer Experiences**](#2-designing-consumer-experiences) (5 videos)
-  - Consumer experience considerations
-  - Designing ecommerce experiences
-  - Designing social experiences
-  - Designing content-rich experiences
-  - Consumer experience for mobile
+  - [Consumer experience considerations](#consumer-experience-considerations)
+  - [Designing ecommerce experiences](#designing-ecommerce-experiences)
+  - [Designing social experiences](#designing-social-experiences)
+  - [Designing content-rich experiences](#designing-content-rich-experiences)
+  - [Consumer experience for mobile](#consumer-experience-for-mobile)
 - [**3. Designing for Enterprise Experiences**](#3-designing-for-enterprise-experiences) (4 videos)
-  - Enterprise experience considerations
-  - Designing software and web applications
-  - Designing intranets
-  - Enterprise experiences for mobile
+  - [Enterprise experience considerations](#enterprise-experience-considerations)
+  - [Designing software and web applications](#designing-software-and-web-applications)
+  - [Designing intranets](#designing-intranets)
+  - [Enterprise experiences for mobile](#enterprise-experiences-for-mobile)
 - [**4. Designing for Modern Interfaces**](#4-designing-for-modern-interfaces) (5 videos)
-  - Designing smart home devices
-  - Designing wearables
-  - Designing voice interfaces
-  - Designing automotive transit interfaces
-  - Designing kiosks
+  - [Designing smart home devices](#designing-smart-home-devices)
+  - [Designing wearables](#designing-wearables)
+  - [Designing voice interfaces](#designing-voice-interfaces)
+  - [Designing automotive transit interfaces](#designing-automotive-transit-interfaces)
+  - [Designing kiosks](#designing-kiosks)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design anything
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/design-anything?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), application (1), product (1), [[LinkedIn]] (1), career (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [diane] (1)
@@ -113,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Understanding User Motivations, Goals, and Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### User research overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980)
@@ -166,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), data (3), web (2), [[Analytics]] (2), [[Usability Testing]] (1)
 > **Env Vars:** nps (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -260,6 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), teams (2), management (2), [[Product Development]] (2), [[Atlassian]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
@@ -307,6 +310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (17), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** refers to (2)
 > **Prerequisites:** setup (1), set up (1)
 > **Analogies:** for example (1)
@@ -371,7 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1)
+> **Frameworks & Libraries:** product (6), web (1), [[Real-Time]] (1), mobile application (1), feature (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -427,6 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (11), ux (3), [[Decision-Making]] (2), management (1), web (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ebay (1)
@@ -515,7 +520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), while. (1), self (1), require (1), interface (1)
+> **Frameworks & Libraries:** product (5), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Products|Products]] (2), power (1), management (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -585,7 +590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3)
+> **Frameworks & Libraries:** feature (1), product (1), [[Google]] (1), [[Analytics]] (1), web (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (1), refers to (1)
 > **CLI Commands:** make (1)
@@ -596,7 +601,7 @@ created: 2026-04-29
 
 ### 2. Designing Consumer Experiences
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Consumer experience considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980)
@@ -643,6 +648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11), product (7), [[Microsoft Products|Products]] (6), [[Analytics]] (4), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** ebay (1)
 > **URLs:** [youtube.com](https://youtube.com) (1)
 > **UI Navigation:** go to (1)
@@ -791,7 +797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), for. (1), case. (1), require (1)
+> **Frameworks & Libraries:** product (14), [[Search]] (5), [[Microsoft Products|Products]] (3), business (3), ux (1)
 > **CLI Commands:** find (8), make (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** for example (2), similar to (1)
@@ -893,7 +899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), abstract (1)
+> **Frameworks & Libraries:** product (3), data (1), business (1), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
@@ -1001,7 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), continue (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Typography]] (1), [[Search]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
@@ -1105,7 +1111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), require (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Search]] (1), [[Android]] (1), application (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -1115,7 +1121,7 @@ created: 2026-04-29
 
 ### 3. Designing for Enterprise Experiences
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enterprise experience considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980)
@@ -1178,7 +1184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), interface (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), business (4), product (2), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1338,7 +1344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (3), self (1)
+> **Frameworks & Libraries:** web (4), ux (2), web application (2), data (2), [[Google]] (2)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1458,8 +1464,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), teams (1), next (1), hr (1), [[Forms]] (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** module (2), for, (1), let (1), for. (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -1589,7 +1595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), case. (1), this. (1), require (1)
+> **Frameworks & Libraries:** data (4), next (4), [[Microsoft Products|Products]] (2), product (2), application (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), picture (1)
@@ -1600,7 +1606,7 @@ created: 2026-04-29
 
 ### 4. Designing for Modern Interfaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing smart home devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980)
@@ -1683,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (3), require (1), default. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Google]] (3), product (3), [[Security]] (2), data (1)
 > **Prerequisites:** setup (3), set up (2), you'll need (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
@@ -1804,7 +1810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), interface (2), let (1)
+> **Frameworks & Libraries:** [[Google]] (7), data (4), [[Typography]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Android]] (1)
 > **Code Identifiers:** watchos (3)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -1956,7 +1962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), continue (1)
+> **Frameworks & Libraries:** prompt (1), [[Storytelling]] (1)
 > **CLI Commands:** make (2)
 > **Ports:** :30 (2)
 > **Definitions:** is a  (2)
@@ -2130,7 +2136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1), include, (1), switch (1)
+> **Frameworks & Libraries:** [[Android]] (13), [[Google]] (7), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (2), application (1)
 > **Analogies:** similar to (6)
 > **Code Identifiers:** ios (2), displays (1), iphone (1)
 > **Definitions:** is a  (3), refers to (1)
@@ -2208,7 +2214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (2), type. (1), include, (1)
+> **Frameworks & Libraries:** next (1), [[Android]] (1), [[Forms]] (1), [[Prototyping]] (1)
 > **Analogies:** similar to (1), for example (1), imagine (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** atm (1)
@@ -2218,7 +2224,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980)
@@ -2239,6 +2245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (3), next (1), [[Prototyping]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [diane] (1)
 
 

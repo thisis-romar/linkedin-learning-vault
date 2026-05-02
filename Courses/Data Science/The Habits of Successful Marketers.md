@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/marketing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Habits%20of%20Successful%20Marketers.md)
@@ -47,29 +47,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Long-term success as a marketer
+  - [Long-term success as a marketer](#long-term-success-as-a-marketer)
 - [**1. Analytical Skills for Marketers**](#1-analytical-skills-for-marketers) (3 videos)
-  - Set goals for accountability
-  - Inform decisions with data-driven research
-  - Balance big-picture thinking with the details
+  - [Set goals for accountability](#set-goals-for-accountability)
+  - [Inform decisions with data-driven research](#inform-decisions-with-data-driven-research)
+  - [Balance big-picture thinking with the details](#balance-big-picture-thinking-with-the-details)
 - [**2. Implementation Skills for Marketers**](#2-implementation-skills-for-marketers) (3 videos)
-  - Embrace a persistent execution process
-  - Take risks by regularly experimenting
-  - Aim to be adaptive as circumstances evolve
+  - [Embrace a persistent execution process](#embrace-a-persistent-execution-process)
+  - [Take risks by regularly experimenting](#take-risks-by-regularly-experimenting)
+  - [Aim to be adaptive as circumstances evolve](#aim-to-be-adaptive-as-circumstances-evolve)
 - [**3. Collaborative Skills for Marketers**](#3-collaborative-skills-for-marketers) (3 videos)
-  - Sharpen your communication capabilities
-  - Influence as a cross-functional partner
-  - Emphasize a customer-centric approach
+  - [Sharpen your communication capabilities](#sharpen-your-communication-capabilities)
+  - [Influence as a cross-functional partner](#influence-as-a-cross-functional-partner)
+  - [Emphasize a customer-centric approach](#emphasize-a-customer-centric-approach)
 - [**4. Creative Thinking Skills for Marketers**](#4-creative-thinking-skills-for-marketers) (3 videos)
-  - Develop your creative abilities as a marketer
-  - Use storytelling as a guiding principle
-  - Observe and learn consistently as a marketer
+  - [Develop your creative abilities as a marketer](#develop-your-creative-abilities-as-a-marketer)
+  - [Use storytelling as a guiding principle](#use-storytelling-as-a-guiding-principle)
+  - [Observe and learn consistently as a marketer](#observe-and-learn-consistently-as-a-marketer)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Accept the development process
+  - [Accept the development process](#accept-the-development-process)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Long-term success as a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/long-term-success-as-a-marketer-16190565?u=76281980)
@@ -108,6 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (5)
 > **Speakers:** - [instructor] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -115,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Analytical Skills for Marketers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set goals for accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/set-goals-for-accountability?u=76281980)
@@ -168,7 +169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** next (2), data (2), traffic (1), product (1), [[Analytics]] (1)
 > **Definitions:** basically means (1)
 > **Speakers:** - [instructor] (1)
 
@@ -219,8 +220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Decision-Making]] (2), [[Microsoft Products|Products]] (2), [[Market Research]] (2), career (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** super (1)
 > **Env Vars:** crm (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - as (1)
@@ -282,6 +283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), [[Thinking Skills]] (1), next (1)
 > **Analogies:** picture (8)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** required to (1)
@@ -290,7 +292,7 @@ created: 2026-04-29
 
 ### 2. Implementation Skills for Marketers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace a persistent execution process
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/embrace-a-persistent-execution-process?u=76281980)
@@ -339,11 +341,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), career (1), [[Agile Development|Agile]] (1), teams (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), for instance (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - execution (1)
 
@@ -398,8 +400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** continue (2), for, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
@@ -458,8 +460,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), next (2), career (1), [[Security]] (1), product (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** continue (2), switch (1)
 > **Env Vars:** seo (1), sem (1)
 > **Analogies:** for instance (1), picture (1)
 > **CLI Commands:** make (1)
@@ -469,7 +471,7 @@ created: 2026-04-29
 
 ### 3. Collaborative Skills for Marketers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sharpen your communication capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980)
@@ -522,8 +524,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Fine Tuning]] (1), [[Slack]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), catch, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Tools:** slack (1)
 > **Analogies:** for example (1)
@@ -572,6 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), functional (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -626,17 +629,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[React.js|React]] (2), business (1), next (1), functional (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** covid (1), crm (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 4. Creative Thinking Skills for Marketers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop your creative abilities as a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/develop-your-creative-abilities-as-a-marketer?u=76281980)
@@ -677,8 +680,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Climate Change]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** defined as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
@@ -732,8 +735,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Storytelling]] (3), business (2), [[Microsoft Products|Products]] (1), career (1), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** from, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [brian] (1)
@@ -789,7 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), require (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
@@ -798,7 +801,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accept the development process
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980)
@@ -821,6 +824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), [[Microsoft Excel|Excel]] (1), strengths (1), [[LinkedIn]] (1)
 > **Definitions:** is an  (2)
 > **URLs:** [brianhonigman.com](https://brianhonigman.com) (1)
 > **Speakers:** - [brian] (1)

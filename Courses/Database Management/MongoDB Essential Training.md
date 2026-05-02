@@ -31,7 +31,7 @@ tags:
   - topic/web-development
   - skill/mongodb
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/MongoDB%20Essential%20Training.md)
@@ -50,68 +50,68 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - An introduction to MongoDB
-  - Features of MongoDB
+  - [An introduction to MongoDB](#an-introduction-to-mongodb)
+  - [Features of MongoDB](#features-of-mongodb)
 - [**1. Install MongoDB**](#1-install-mongodb) (5 videos)
-  - Self-hosted vs. managed MongoDB
-  - Enterprise vs. Community
-  - Install MongoDB on Mac
-  - Install MongoDB on Windows
-  - Install MongoDB on Linux
+  - [Self-hosted vs. managed MongoDB](#self-hosted-vs-managed-mongodb)
+  - [Enterprise vs. Community](#enterprise-vs-community)
+  - [Install MongoDB on Mac](#install-mongodb-on-mac)
+  - [Install MongoDB on Windows](#install-mongodb-on-windows)
+  - [Install MongoDB on Linux](#install-mongodb-on-linux)
 - [**2. Set Up Your Database**](#2-set-up-your-database) (6 videos)
-  - Mongod
-  - Replica set
-  - Set up a replica set from the command line
-  - Set up a replica set with config files
-  - Import the sample data
-  - Debug
+  - [Mongod](#mongod)
+  - [Replica set](#replica-set)
+  - [Set up a replica set from the command line](#set-up-a-replica-set-from-the-command-line)
+  - [Set up a replica set with config files](#set-up-a-replica-set-with-config-files)
+  - [Import the sample data](#import-the-sample-data)
+  - [Debug](#debug)
 - [**3. Working with MongoDB**](#3-working-with-mongodb) (6 videos)
-  - The document model
-  - Namespaces, collections, documents
-  - MongoDB Query Language
-  - Indexes
-  - Challenge: Indexes
-  - Solution: Indexes
+  - [The document model](#the-document-model)
+  - [Namespaces, collections, documents](#namespaces-collections-documents)
+  - [MongoDB Query Language](#mongodb-query-language)
+  - [Indexes](#indexes)
+  - [Challenge: Indexes](#challenge-indexes)
+  - [Solution: Indexes](#solution-indexes)
 - [**4. CRUD Operations**](#4-crud-operations) (11 videos)
-  - insertOne and insertMany
-  - findOne and find
-  - Comparison operators
-  - Logical operators
-  - Sort, skip, limit
-  - updateOne and updateMany
-  - Arrays
-  - Transactions
-  - $expr
-  - Challenge: Create app
-  - Solution: Create app
+  - [insertOne and insertMany](#insertone-and-insertmany)
+  - [findOne and find](#findone-and-find)
+  - [Comparison operators](#comparison-operators)
+  - [Logical operators](#logical-operators)
+  - [Sort, skip, limit](#sort-skip-limit)
+  - [updateOne and updateMany](#updateone-and-updatemany)
+  - [Arrays](#arrays)
+  - [Transactions](#transactions)
+  - [$expr](#expr)
+  - [Challenge: Create app](#challenge-create-app)
+  - [Solution: Create app](#solution-create-app)
 - [**5. Aggregation Pipelines**](#5-aggregation-pipelines) (10 videos)
-  - An overview of stages
-  - $group
-  - $bucket
-  - $unwind
-  - $merge and $out
-  - $function
-  - $lookup
-  - Performance
-  - Challenge: Write aggregation pipelines
-  - Solution: Write aggregation pipelines
+  - [An overview of stages](#an-overview-of-stages)
+  - [$group](#group)
+  - [$bucket](#bucket)
+  - [$unwind](#unwind)
+  - [$merge and $out](#merge-and-out)
+  - [$function](#function)
+  - [$lookup](#lookup)
+  - [Performance](#performance)
+  - [Challenge: Write aggregation pipelines](#challenge-write-aggregation-pipelines)
+  - [Solution: Write aggregation pipelines](#solution-write-aggregation-pipelines)
 - [**6. Data Modeling**](#6-data-modeling) (5 videos)
-  - Relational vs. document
-  - Data modeling
-  - Flexible schema
-  - Challenge: Create a data model
-  - Solution: Create a data model
+  - [Relational vs. document](#relational-vs-document)
+  - [Data modeling](#data-modeling)
+  - [Flexible schema](#flexible-schema)
+  - [Challenge: Create a data model](#challenge-create-a-data-model)
+  - [Solution: Create a data model](#solution-create-a-data-model)
 - [**7. Drivers**](#7-drivers) (4 videos)
-  - Drivers
-  - Connecting with Python
-  - Connecting with JavaScript
-  - Connecting with PHP
+  - [Drivers](#drivers)
+  - [Connecting with Python](#connecting-with-python)
+  - [Connecting with JavaScript](#connecting-with-javascript)
+  - [Connecting with PHP](#connecting-with-php)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Advancing with MongoDB
+  - [Advancing with MongoDB](#advancing-with-mongodb)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/an-introduction-to-mongodb-23754278?u=76281980)
@@ -136,8 +136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (7), database (2), data (1), [[Programming]] (1), career (1)
 > **Env Vars:** mql (1), crud (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
@@ -190,6 +190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (8), data (8), web (2), [[Databases]] (2), database (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** acid (1)
 > **Versions:** version 1 (1)
@@ -199,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Install MongoDB
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Self-hosted vs. managed MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980)
@@ -246,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), self (1)
+> **Frameworks & Libraries:** [[MongoDB]] (15), cloud (4), [[Hardware]] (3), database (2), data (1)
 > **Prerequisites:** install (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -266,6 +267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[SQL]] (2), [[Security]] (1), management (1), [[Kubernetes]] (1)
 > **Env Vars:** sql (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - there (1)
@@ -343,9 +345,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (13), node (6), [[npm]] (2), next (2), database (2)
 > **CLI Commands:** node (6), npm (2), brew (2), make (1)
 > **Prerequisites:** install (9)
-> **Code Keywords:** let (4), this, (1), continue (1), default. (1)
 > **Versions:** 5.3.0 (1), version 5 (1), version 1 (1), 2.3 (1)
 > **Env Vars:** path (2)
 > **Tools:** terminal (2)
@@ -503,10 +505,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (35), next (12), [[Windows]] (10), [[Linux]] (3), prompt (3)
 > **UI Navigation:** click on (20), go to (6), scroll down (4), select the (2)
 > **Prerequisites:** install (16)
 > **CLI Commands:** mongo (7), find (5), make (1)
-> **Code Keywords:** continue (2), interface (1), pass (1), import. (1)
 > **Tools:** command line (3), command prompt (2)
 > **Env Vars:** msi (2), wsl (1)
 > **Versions:** version 2 (1), 2.2 (1), 2.2.2 (1)
@@ -605,9 +607,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (15), node (8), database (3), [[Linux]] (2), next (2)
 > **CLI Commands:** node (8), sudo (2), apt (2), make (1)
 > **Prerequisites:** install (9)
-> **Code Keywords:** let (5), this. (1), public (1)
 > **Tools:** terminal (2), command line (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
 > **Versions:** version 5 (2)
@@ -617,7 +619,7 @@ created: 2026-04-29
 
 ### 2. Set Up Your Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mongod
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980)
@@ -686,7 +688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (2), this, (1), case. (1)
+> **Frameworks & Libraries:** [[MongoDB]] (16), data (7), database (2), next (2), [[Databases]] (2)
 > **Tools:** terminal (2), command line (1)
 > **CLI Commands:** cd (1), make (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -748,8 +750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[MongoDB]] (3), database (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** mongo (4)
-> **Code Keywords:** let (2), case, (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Best Practices:** recommended (2)
 > **Cross-References:** in the next (1)
@@ -1042,7 +1044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4), this. (3)
+> **Frameworks & Libraries:** next (8), database (7), [[MongoDB]] (2), [[Security]] (1), data (1)
 > **Code Identifiers:** passwordprompt (2), replset (1), myreplset (1), dbpath (1), createuser (1)
 > **CLI Commands:** make (2), chmod (1), mkdir (1), ls (1), cd (1)
 > **Tools:** terminal (3), command line (2)
@@ -1366,7 +1368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (9), let (8), pass (2), else, (1), this. (1)
+> **Frameworks & Libraries:** next (8), database (7), [[MongoDB]] (6), [[Security]] (2), hit (2)
 > **Code Identifiers:** bindip (1), processmanagement (1), replsetname (1), dbpath (1), createuser (1)
 > **Tools:** terminal (6), visual studio (1)
 > **CLI Commands:** make (3), cd (1), mkdir (1)
@@ -1444,8 +1446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[MongoDB]] (5), [[JSON]] (5), data (2), [[Statistics]] (1)
 > **Env Vars:** bson (3), json (2), csv (1)
-> **Code Keywords:** case, (2), for, (1), pass (1), this. (1)
 > **File Paths:** inventory.json (1), movies.json (1), orders.json (1)
 > **Code Identifiers:** sample_data (1)
 > **Cross-References:** in the next (1)
@@ -1528,8 +1530,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), database (3), [[Search]] (2), [[MongoDB]] (1), data (1)
 > **Code Identifiers:** loglevel (3), admincommand (2), getllogcomponents (1), setparameter (1)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1), is a  (1)
 > **File Paths:** db.oplog.rs (1)
 > **CLI Commands:** find (1)
@@ -1540,7 +1542,7 @@ created: 2026-04-29
 
 ### 3. Working with MongoDB
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The document model
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/the-document-model-17231550?u=76281980)
@@ -1571,6 +1573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (7), data (5), [[MongoDB]] (4), [[Databases]] (1), application (1)
 > **Env Vars:** json (7), bson (4)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1658,8 +1661,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[MongoDB]] (8), data (3), [[Databases]] (3), application (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
@@ -1839,7 +1842,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (6), pass (4), case, (3), this. (2)
+> **Frameworks & Libraries:** [[MongoDB]] (9), next (4), data (2), database (2), api (1)
 > **CLI Commands:** find (11)
 > **Code Identifiers:** insertmany (2), insertone (1), findone (1), updateone (1), deleteone (1)
 > **Env Vars:** mql (2), crud (2), api (1)
@@ -1951,7 +1954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), pass (1), case, (1)
+> **Frameworks & Libraries:** data (13), database (7), [[Search]] (2), [[MongoDB]] (2), [[Databases]] (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** geohaystack (1), createindex (1)
@@ -1978,7 +1981,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** database (2), business (1)
 > **Speakers:** - [educator] (1)
 > **Non-Speech:** (electronic music) (1)
 
@@ -2041,9 +2044,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), database (2), data (1), application (1), [[Search]] (1)
 > **Code Identifiers:** insertone (1), findone (1), createindex (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -2052,7 +2055,7 @@ created: 2026-04-29
 
 ### 4. CRUD Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### insertOne and insertMany
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/insertone-and-insertmany-17234000?u=76281980)
@@ -2139,8 +2142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[MongoDB]] (5), data (4), application (2), power (1)
 > **Code Identifiers:** writeconcern (11), insertone (1), insertmany (1)
-> **Code Keywords:** let (2), this, (1), this. (1), require (1), continue (1)
 > **Versions:** 5.0 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2285,7 +2288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (1), this, (1), switch (1), this. (1)
+> **Frameworks & Libraries:** data (14), database (5), [[MongoDB]] (4), [[Databases]] (2), concurrent (1)
 > **CLI Commands:** find (12), make (1), node (1)
 > **Env Vars:** mndb (4)
 > **Code Identifiers:** findone (2), readconcern (1)
@@ -2429,7 +2432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (1), this. (1), case, (1), else. (1)
+> **Frameworks & Libraries:** [[Search]] (3), [[MongoDB]] (1), data (1), database (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** findone (2)
@@ -2575,7 +2578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), this, (1), pass (1)
+> **Frameworks & Libraries:** next (5), data (2), [[MongoDB]] (1), database (1)
 > **Analogies:** for example (3)
 > **Code Identifiers:** findone (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -2651,7 +2654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), case, (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (4), next (2), [[MongoDB]] (2), application (1), database (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
@@ -2770,7 +2773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), match. (1), case, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** database (3), [[Search]] (1), [[Microsoft Office|Office]] (1)
 > **Code Identifiers:** updateone (5), updatemany (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -2952,7 +2955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), pass (3), case, (1), match. (1), this, (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), data (1), database (1), next (1), [[Search]] (1)
 > **Code Identifiers:** elemmatch (4), findone (2), updateone (2), negativeone (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for example (4)
@@ -3051,8 +3054,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), next (2), [[MongoDB]] (1), application (1), [[Databases]] (1)
 > **Code Identifiers:** readpreference (2), getmongo (1), startsession (1), starttransaction (1), updatemany (1)
-> **Code Keywords:** pass (3), let (1), this. (1), case, (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
 > **Tools:** terminal (1)
@@ -3158,8 +3161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[MongoDB]] (2), next (1), data (1), [[Programming]] (1)
 > **Env Vars:** mndb (7), crud (1)
-> **Code Keywords:** let (4), switch (1), pass (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** soft_avocados (1)
 > **Cross-References:** in the next (1)
@@ -3194,6 +3197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), power (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -3310,17 +3314,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), next (2), [[MongoDB]] (1)
 > **CLI Commands:** find (7)
 > **Versions:** 10.47 (2), 0.9 (1), 9.42 (1), 7.63 (1)
 > **Code Identifiers:** order_app (1), findone (1), updatemany (1)
-> **Code Keywords:** pass (1), case, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 5. Aggregation Pipelines
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/an-overview-of-stages-17233183?u=76281980)
@@ -3359,7 +3363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4)
+> **Frameworks & Libraries:** next (6), [[MongoDB]] (2), data (2), [[Programming]] (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -3463,7 +3467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (6), [[MongoDB]] (1), next (1)
 > **Documentation:** specification (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -3561,7 +3565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), default. (1), this. (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll up (1)
@@ -3639,7 +3643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (2), this. (1)
+> **Frameworks & Libraries:** data (1), [[MongoDB]] (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3733,7 +3737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), pass (1), else. (1), this. (1)
+> **Frameworks & Libraries:** database (1), application (1), data (1), [[MongoDB]] (1)
 > **Code Identifiers:** whenmatched (2), whennotmatched (2), sample_data (1), keepexisting (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -3803,7 +3807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (4), pass (3), case, (3), this. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3895,7 +3899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (2), case. (1), case, (1), match. (1)
+> **Frameworks & Libraries:** data (10), [[MongoDB]] (3), next (2)
 > **Code Identifiers:** car_id (4), localfield (2), foreignfield (2)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** find (2)
@@ -4038,7 +4042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), super (1), require (1), for, (1)
+> **Frameworks & Libraries:** [[MongoDB]] (11), database (4), data (3), [[Statistics]] (2), next (2)
 > **Code Identifiers:** executionstats (2), winningplan (2), inputstage (1), totalkeysexamined (1), collectionscans (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** ram (1), cpu (1), crud (1)
@@ -4150,7 +4154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), pass (1), match. (1), this, (1)
+> **Frameworks & Libraries:** next (1), database (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** sample_data (1)
 > **Documentation:** the documentation (1)
@@ -4161,7 +4165,7 @@ created: 2026-04-29
 
 ### 6. Data Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational vs. document
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980)
@@ -4332,8 +4336,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[MongoDB]] (19), [[JSON]] (12), [[Relational Databases]] (9), database (8)
 > **Env Vars:** json (12), sql (2), bson (1)
-> **Code Keywords:** let (3), for. (1), this, (1), else. (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
@@ -4392,8 +4396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[MongoDB]] (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** this. (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -4475,7 +4479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), let (3), case, (2), this. (2), require (1)
+> **Frameworks & Libraries:** [[JSON]] (5), data (4), [[MongoDB]] (2), application (2)
 > **Env Vars:** json (5), bson (5)
 > **Definitions:** is an  (1), is called (1), means that (1)
 > **Analogies:** for example (2)
@@ -4516,6 +4520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (3)
 > **Documentation:** specification (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -4605,7 +4610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), this. (1), case. (1), function (1)
+> **Frameworks & Libraries:** data (3), next (3), feature (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -4616,7 +4621,7 @@ created: 2026-04-29
 
 ### 7. Drivers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Drivers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980)
@@ -4639,6 +4644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Python (Programming Language)|Python]] (2), [[Node.js]] (2), application (1), [[Java]] (1)
 > **CLI Commands:** python (2), node (2), php (1)
 > **File Paths:** node.js (2)
 > **Env Vars:** php (1)
@@ -4733,9 +4739,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[MongoDB]] (3), next (2), application (2), database (1)
 > **CLI Commands:** python (9), pip (3), mongo (2), find (2), make (1)
 > **Prerequisites:** install (7), set up (1)
-> **Code Keywords:** let (3), case, (3), switch (1)
 > **Env Vars:** db_user (1), db_password (1)
 > **Code Identifiers:** load_dotenv (1)
 > **URLs:** [readthedocs.io](https://readthedocs.io) (1)
@@ -4811,7 +4817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), case, (2)
+> **Frameworks & Libraries:** [[MongoDB]] (9), database (3), data (3), [[JSON]] (2), [[Node.js]] (1)
 > **CLI Commands:** find (4), node (1), mongo (1), npm (1)
 > **File Paths:** package.json (2), node.js (1), index.js (1)
 > **Env Vars:** uri (2), npm (1)
@@ -4905,10 +4911,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (13), [[PHP]] (8), database (5), next (3), api (1)
 > **CLI Commands:** php (8), composer (6), find (2), make (1)
 > **Env Vars:** php (7), api (1), uri (1)
 > **Prerequisites:** install (7), you'll need (1)
-> **Code Keywords:** let (3), this. (2), case, (1), require (1)
 > **Code Identifiers:** sample_data (1)
 > **URLs:** [mongodb.com](https://mongodb.com) (1)
 > **Cross-References:** in the next (1)
@@ -4917,7 +4923,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advancing with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980)
@@ -4948,6 +4954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[LinkedIn]] (2), data (2), next (2)
 > **Env Vars:** crud (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)

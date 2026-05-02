@@ -32,7 +32,7 @@ tags:
   - skill/board-presentations
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/CISO%20Foundations-%20Influencing%20the%20Board%20and%20C-Suite.md)
@@ -51,34 +51,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Gaining executive advocates for a strong security posture
+  - [Gaining executive advocates for a strong security posture](#gaining-executive-advocates-for-a-strong-security-posture)
 - [**1. Benefits of Mastering Your Executive Relationships**](#1-benefits-of-mastering-your-executive-relationships) (2 videos)
-  - Navigating your executive relationships
-  - The lens of the four birds
+  - [Navigating your executive relationships](#navigating-your-executive-relationships)
+  - [The lens of the four birds](#the-lens-of-the-four-birds)
 - [**2. How Can the CISO Tackle the CEO?**](#2-how-can-the-ciso-tackle-the-ceo) (3 videos)
-  - Starting with the biggest executive: Your CEO
-  - Winning over the CEO in your cyber resilience mission
-  - Partnering with your CEO in their first 30 days
+  - [Starting with the biggest executive: Your CEO](#starting-with-the-biggest-executive-your-ceo)
+  - [Winning over the CEO in your cyber resilience mission](#winning-over-the-ceo-in-your-cyber-resilience-mission)
+  - [Partnering with your CEO in their first 30 days](#partnering-with-your-ceo-in-their-first-30-days)
 - [**3. The Wonders of A CFO Who Gets It**](#3-the-wonders-of-a-cfo-who-gets-it) (3 videos)
-  - Money: Understanding the CFO
-  - Aligning cyber risk with the CFO role
-  - Changing mindsets on costs and budgets
+  - [Money: Understanding the CFO](#money-understanding-the-cfo)
+  - [Aligning cyber risk with the CFO role](#aligning-cyber-risk-with-the-cfo-role)
+  - [Changing mindsets on costs and budgets](#changing-mindsets-on-costs-and-budgets)
 - [**4. The Power Duo Relationship with Your CRO**](#4-the-power-duo-relationship-with-your-cro) (3 videos)
-  - The focus areas that are important to your CRO
-  - Connecting the dots with how CROs perceive risks
-  - Cyber and risk: The power duo and trigger questions
+  - [The focus areas that are important to your CRO](#the-focus-areas-that-are-important-to-your-cro)
+  - [Connecting the dots with how CROs perceive risks](#connecting-the-dots-with-how-cros-perceive-risks)
+  - [Cyber and risk: The power duo and trigger questions](#cyber-and-risk-the-power-duo-and-trigger-questions)
 - [**5. The Friendship between the CIO and the CISO**](#5-the-friendship-between-the-cio-and-the-ciso) (3 videos)
-  - Meeting the CIO: Welcome to their world
-  - Innovation and technology: What's the conflict with cyber?
-  - Building friendships and getting their critical support
+  - [Meeting the CIO: Welcome to their world](#meeting-the-cio-welcome-to-their-world)
+  - [Innovation and technology: What's the conflict with cyber?](#innovation-and-technology-whats-the-conflict-with-cyber)
+  - [Building friendships and getting their critical support](#building-friendships-and-getting-their-critical-support)
 - [**6. Let’s Take It to the Boardroom!**](#6-lets-take-it-to-the-boardroom) (1 videos)
-  - Six guidelines for your board
+  - [Six guidelines for your board](#six-guidelines-for-your-board)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your role in shaping the organization's culture
+  - [Your role in shaping the organization's culture](#your-role-in-shaping-the-organizations-culture)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gaining executive advocates for a strong security posture
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980)
@@ -99,6 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), management (1), [[Representational State Transfer (REST)|Rest]] (1), [[Cybersecurity]] (1), teams (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ciso (1)
 > **Speakers:** - more (1)
@@ -106,7 +107,7 @@ created: 2026-04-29
 
 ### 1. Benefits of Mastering Your Executive Relationships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating your executive relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/navigating-your-executive-relationships?u=76281980)
@@ -141,6 +142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Representational State Transfer (REST)|Rest]] (1), leadership (1), next (1)
 > **Env Vars:** ciso (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -208,6 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** dope (3), ciso (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -218,7 +221,7 @@ created: 2026-04-29
 
 ### 2. How Can the CISO Tackle the CEO?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting with the biggest executive: Your CEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980)
@@ -281,8 +284,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (2), functional (1), [[Sustainability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ceo (10)
-> **Code Keywords:** public (3), let (1), for. (1)
 > **CLI Commands:** make (1)
 > **Versions:** 13.1 (1)
 > **Speakers:** - the (1)
@@ -340,8 +343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Cybersecurity]] (3), data (3), management (1), [[Security]] (1)
 > **Env Vars:** ceo (11), ipo (1)
-> **Code Keywords:** case, (1), public (1), if. (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - how (1)
 
@@ -380,6 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Cybersecurity]] (3), business (2), management (1), leadership (1)
 > **Env Vars:** ceo (4), cso (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
@@ -387,7 +391,7 @@ created: 2026-04-29
 
 ### 3. The Wonders of A CFO Who Gets It
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Money: Understanding the CFO
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980)
@@ -446,9 +450,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Financial Planning]] (1), strengths (1), leadership (1), [[Cybersecurity]] (1)
 > **Env Vars:** cfo (10), ceo (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - meet (1)
 
@@ -501,8 +505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Engineering]] (2), [[Cybersecurity]] (2), data (2), [[Phishing]] (1)
 > **Env Vars:** cfo (3), bec (2), fbi (1), ipo (1)
-> **Code Keywords:** let (1), require (1), from, (1), public (1)
 > **Definitions:** known as (2), is an  (1)
 > **Versions:** 2.4 (1)
 > **Cross-References:** in the last (1)
@@ -572,17 +576,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), data (5), business (5), [[Security]] (4), management (2)
 > **Env Vars:** cfo (5), fair (3), ciso (2), rov (1), roo (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - we (1)
 
 
 ### 4. The Power Duo Relationship with Your CRO
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The focus areas that are important to your CRO
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980)
@@ -635,9 +639,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), management (4), next (2), [[Regulatory Compliance]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** cro (4), iso (4), erm (2)
 > **Definitions:** is a  (3)
-> **Code Keywords:** public (1), function (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Tools:** notion (1)
@@ -682,8 +686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), management (4), teams (3), [[Security]] (2), data (1)
 > **Env Vars:** cro (7), ciso (4)
-> **Code Keywords:** let (2), continue (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** means that (1)
@@ -729,15 +733,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Cybersecurity]] (1), power (1), management (1), next (1)
 > **Env Vars:** cro (3), ciso (2), erm (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** continue (1)
 > **Speakers:** - when (1)
 
 
 ### 5. The Friendship between the CIO and the CISO
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meeting the CIO: Welcome to their world
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980)
@@ -776,9 +780,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Cybersecurity]] (2), [[Representational State Transfer (REST)|Rest]] (1), management (1), [[IT Strategy]] (1)
 > **Env Vars:** cio (7), opex (1), cfo (1), cro (1)
 > **Analogies:** similar to (1), picture (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -823,9 +827,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), business (7), [[Cybersecurity]] (6), management (2), teams (1)
 > **Env Vars:** ciso (7), cio (6), isaca (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - historically (1)
 
@@ -894,6 +898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security]] (3), business (2), [[Microsoft Office|Office]] (1), [[Big Data]] (1)
 > **Env Vars:** cio (3)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -903,7 +908,7 @@ created: 2026-04-29
 
 ### 6. Let’s Take It to the Boardroom!
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Six guidelines for your board
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980)
@@ -952,8 +957,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), management (1), business (1), [[Cybersecurity]] (1), [[Digital Transformation]] (1)
 > **Env Vars:** ciso (3)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - talking (1)
@@ -961,7 +966,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your role in shaping the organization's culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980)
@@ -1026,6 +1031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (3), [[Organizational Culture]] (2), business (2), management (2)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** ceo (1)

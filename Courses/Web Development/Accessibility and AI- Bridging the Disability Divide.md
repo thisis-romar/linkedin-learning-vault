@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Accessibility%20and%20AI-%20Bridging%20the%20Disability%20Divide.md)
@@ -40,24 +40,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Breaking barriers in accessibility and AI
+  - [Breaking barriers in accessibility and AI](#breaking-barriers-in-accessibility-and-ai)
 - [**1. Design and Innovation**](#1-design-and-innovation) (3 videos)
-  - The case for AI innovation
-  - Adopting an innovation framework, part one
-  - Adopting an innovation framework, part two
+  - [The case for AI innovation](#the-case-for-ai-innovation)
+  - [Adopting an innovation framework, part one](#adopting-an-innovation-framework-part-one)
+  - [Adopting an innovation framework, part two](#adopting-an-innovation-framework-part-two)
 - [**2. AI and Accessibility**](#2-ai-and-accessibility) (3 videos)
-  - Integrating APIs
-  - Enriching APIs with your own data
-  - Harnessing generative AI
+  - [Integrating APIs](#integrating-apis)
+  - [Enriching APIs with your own data](#enriching-apis-with-your-own-data)
+  - [Harnessing generative AI](#harnessing-generative-ai)
 - [**3. Accessible Copilots**](#3-accessible-copilots) (2 videos)
-  - Copilot accessibility considerations
-  - Applying responsible AI practices
+  - [Copilot accessibility considerations](#copilot-accessibility-considerations)
+  - [Applying responsible AI practices](#applying-responsible-ai-practices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Bridging the disability divide
+  - [Bridging the disability divide](#bridging-the-disability-divide)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking barriers in accessibility and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980)
@@ -80,15 +80,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Microsoft Products|Products]] (4), product (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Versions:** 1.3 (1)
 > **Prerequisites:** getting started (1)
 
 
 ### 1. Design and Innovation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The case for AI innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1), finally, (1), raise (1)
+> **Frameworks & Libraries:** ai (3), [[Microsoft Products|Products]] (2), [[Speech Recognition]] (2), [[Generative AI]] (1), game (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2)
 > **Env Vars:** als (1)
@@ -243,10 +243,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), product (2), next (2), [[Microsoft Products|Products]] (2), business (1)
 > **Analogies:** such as (4), for example (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), case, (1)
 > **Cross-References:** next video (1), in the next (1)
 
 #### Adopting an innovation framework, part two
@@ -312,13 +312,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), next (1), product (1)
 > **Cross-References:** previous video (1)
 > **Exercise Files:** exercise files (1)
 
 
 ### 2. AI and Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980)
@@ -399,8 +400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), api (5), [[Microsoft Azure|Azure]] (2), [[Azure AI Studio]] (2), data (2)
 > **Env Vars:** api (5), stem (1), ocr (1)
-> **Code Keywords:** let (3), require (2)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Prerequisites:** required to (2)
 > **Cross-References:** in the next (1)
@@ -466,10 +467,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), ai (1), feature (1), chatbot (1), [[Azure AI Studio]] (1)
 > **Env Vars:** gpt (4), nwea (1), html (1)
 > **Definitions:** known as (2), is a  (2)
 > **Analogies:** such as (3), for instance (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
 
@@ -550,10 +551,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Generative AI]] (6), ai (5), [[Conversational AI]] (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** llm (2), rag (1), gpt (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), interface (1)
 > **URLs:** [zammo.ai](https://zammo.ai) (1)
 > **Cross-References:** next video (1)
 > **Definitions:** known as (1)
@@ -562,7 +563,7 @@ created: 2026-04-29
 
 ### 3. Accessible Copilots
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Copilot accessibility considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980)
@@ -641,7 +642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1), type, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (6), prompt (5), [[Generative AI]] (2), [[Microsoft Word]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** navigate to (1)
@@ -722,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), include: (1)
+> **Frameworks & Libraries:** ai (9), product (4), [[Responsible AI]] (3), next (2), [[Privacy]] (2)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -732,7 +733,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bridging the disability divide
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980)
@@ -767,8 +768,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), feature (1), [[LinkedIn]] (1), [[Microsoft]] (1), ai (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 
 

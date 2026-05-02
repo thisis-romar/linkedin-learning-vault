@@ -35,7 +35,7 @@ tags:
   - skill/tech-career-skills
   - skill/identity-and-access-management-iam
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20an%20Identity%20and%20Access%20Management%20Manager.md)
@@ -54,33 +54,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Identity is at the center of cybersecurity
+  - [Identity is at the center of cybersecurity](#identity-is-at-the-center-of-cybersecurity)
 - [**1. What Is an Identity and Access Management Manager?**](#1-what-is-an-identity-and-access-management-manager) (1 videos)
-  - The role of an IAM manager
+  - [The role of an IAM manager](#the-role-of-an-iam-manager)
 - [**2. The Fundamentals of Identity and Access Management**](#2-the-fundamentals-of-identity-and-access-management) (4 videos)
-  - Authentication goes beyond a strong password
-  - Knowing the different authorization models
-  - Employee and contractor lifecycle management
-  - Importance of certifying user access
+  - [Authentication goes beyond a strong password](#authentication-goes-beyond-a-strong-password)
+  - [Knowing the different authorization models](#knowing-the-different-authorization-models)
+  - [Employee and contractor lifecycle management](#employee-and-contractor-lifecycle-management)
+  - [Importance of certifying user access](#importance-of-certifying-user-access)
 - [**3. Your Impact on the Organization**](#3-your-impact-on-the-organization) (4 videos)
-  - Being a member of the blue team
-  - Your decisions impact everyone in the organization
-  - Mentoring junior analysts
-  - Managing senior analysts and engineers
+  - [Being a member of the blue team](#being-a-member-of-the-blue-team)
+  - [Your decisions impact everyone in the organization](#your-decisions-impact-everyone-in-the-organization)
+  - [Mentoring junior analysts](#mentoring-junior-analysts)
+  - [Managing senior analysts and engineers](#managing-senior-analysts-and-engineers)
 - [**4. Core Skills Needed**](#4-core-skills-needed) (3 videos)
-  - You don't need to be an expert in everything
-  - Utilizing the plan, build, run model
-  - Delegation is your best friend
+  - [You don't need to be an expert in everything](#you-dont-need-to-be-an-expert-in-everything)
+  - [Utilizing the plan, build, run model](#utilizing-the-plan-build-run-model)
+  - [Delegation is your best friend](#delegation-is-your-best-friend)
 - [**5. How to Get a Job as an IAM Manager**](#5-how-to-get-a-job-as-an-iam-manager) (3 videos)
-  - Building your professional network
-  - The IAM manager interview
-  - Market outlook for an IAM manager
+  - [Building your professional network](#building-your-professional-network)
+  - [The IAM manager interview](#the-iam-manager-interview)
+  - [Market outlook for an IAM manager](#market-outlook-for-an-iam-manager)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Are you ready to make a difference as an IAM manager?
+  - [Are you ready to make a difference as an IAM manager?](#are-you-ready-to-make-a-difference-as-an-iam-manager)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identity is at the center of cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/identity-is-at-the-center-of-cybersecurity?u=76281980)
@@ -109,8 +109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[People Management]] (1)
 > **Env Vars:** iam (6)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 ### 1. What Is an Identity and Access Management Manager?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of an IAM manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980)
@@ -183,6 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), management (3), next (2), leadership (2), teams (2)
 > **Env Vars:** iam (12), saml (1), grc (1)
 > **Analogies:** such as (2), imagine (1)
 > **Ports:** :00 (2)
@@ -190,12 +191,11 @@ created: 2026-04-29
 > **URLs:** [statistica.com](https://statistica.com) (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - [narrator] (1)
 
 
 ### 2. The Fundamentals of Identity and Access Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication goes beyond a strong password
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/authentication-goes-beyond-a-strong-password?u=76281980)
@@ -272,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (2), management (1), application (1)
 > **Env Vars:** rsa (3), iam (2)
-> **Code Keywords:** let (2), require (1), finally, (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **URLs:** [howsecureismypassword.net](https://howsecureismypassword.net) (1)
@@ -415,10 +415,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), business (2), data (1), hit (1), database (1)
 > **Env Vars:** rbac (9), abac (6), pbac (5)
 > **Analogies:** such as (6), just like (1), for example (1)
 > **Definitions:** is a  (4), known as (2), is an  (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Warnings:** be careful (1), pitfall (1)
 > **Prerequisites:** required to (2)
 > **Cross-References:** we talked about (1)
@@ -541,9 +541,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), application (3), hr (3), management (2), data (2)
 > **Env Vars:** iam (7), lcm (5)
 > **Definitions:** is an  (3), is a  (3), known as (1)
-> **Code Keywords:** finally, (3), let (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the last (1), we talked about (1)
 > **Ports:** :00 (1)
@@ -617,8 +617,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), data (1), application (1), aws (1)
 > **Env Vars:** iam (6), aws (1)
-> **Code Keywords:** let (1), for. (1), finally, (1)
 > **CLI Commands:** aws (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -628,7 +628,7 @@ created: 2026-04-29
 
 ### 3. Your Impact on the Organization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Being a member of the blue team
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980)
@@ -681,8 +681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), teams (2), [[Multi-factor Authentication]] (1), [[Security]] (1)
 > **Env Vars:** iam (8), grc (2)
-> **Code Keywords:** finally, (2), this, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -740,10 +740,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), teams (2), management (1), [[Privacy]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** iam (5)
 > **Analogies:** imagine (1), similar to (1), such as (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
@@ -841,7 +841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), finally, (1)
+> **Frameworks & Libraries:** teams (1), management (1), next (1), application (1)
 > **Analogies:** for example (2)
 > **Env Vars:** iam (1)
 > **Prerequisites:** set up (1)
@@ -904,7 +904,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** career (3), management (1), leadership (1)
 > **Cross-References:** previous video (1), in the last (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -915,7 +915,7 @@ created: 2026-04-29
 
 ### 4. Core Skills Needed
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### You don't need to be an expert in everything
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980)
@@ -984,10 +984,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (2), business (2), [[Cybersecurity]] (1), [[Security]] (1), [[Microsoft]] (1)
 > **Env Vars:** iam (13), sql (1)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **URLs:** [freecodecamp.org](https://freecodecamp.org) (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1041,8 +1041,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), business (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** iam (4)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1106,6 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** iam (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1113,7 +1114,7 @@ created: 2026-04-29
 
 ### 5. How to Get a Job as an IAM Manager
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your professional network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980)
@@ -1168,11 +1169,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), feature (1), [[Cybersecurity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** iam (12), okto (1)
 > **CLI Commands:** find (4)
 > **Analogies:** such as (4)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### The IAM manager interview
@@ -1246,8 +1247,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[LinkedIn]] (2), leadership (1), [[Accountability]] (1), management (1)
 > **Env Vars:** iam (6), star (3), hipaa (1)
-> **Code Keywords:** let (2), for. (1), finally, (1), new. (1), this, (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1283,9 +1284,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Cybersecurity]] (3), management (1), [[Phishing]] (1), [[Security]] (1)
 > **Env Vars:** iam (6)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), continue (1)
 > **URLs:** [salary.com](https://salary.com) (1), [indeed.com](https://indeed.com) (1)
 > **Versions:** 3.5 (1), 12.5 (1)
 > **Speakers:** - [narrator] (1)
@@ -1293,7 +1294,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Are you ready to make a difference as an IAM manager?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/are-you-ready-to-make-a-difference-as-an-iam-manager?u=76281980)
@@ -1330,8 +1331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), business (1)
 > **Env Vars:** iam (5)
-> **Code Keywords:** let (1), continue (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - congratulations (1)

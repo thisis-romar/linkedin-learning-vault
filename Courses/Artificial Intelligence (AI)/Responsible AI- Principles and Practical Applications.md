@@ -52,7 +52,7 @@ tags:
   - skill/business-process-automation
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Principles%20and%20Practical%20Applications.md)
@@ -71,30 +71,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Overview of responsible AI
+  - [Overview of responsible AI](#overview-of-responsible-ai)
 - [**1. What Is AI and How Is It Used?**](#1-what-is-ai-and-how-is-it-used) (2 videos)
-  - Introduction to artificial intelligence (AI)
-  - AI myths and misunderstandings
+  - [Introduction to artificial intelligence (AI)](#introduction-to-artificial-intelligence-ai)
+  - [AI myths and misunderstandings](#ai-myths-and-misunderstandings)
 - [**2. AI Benefits and Risks**](#2-ai-benefits-and-risks) (2 videos)
-  - Benefits of AI
-  - Risks of AI
+  - [Benefits of AI](#benefits-of-ai)
+  - [Risks of AI](#risks-of-ai)
 - [**3. AI Application Domains**](#3-ai-application-domains) (5 videos)
-  - Introduction to AI experts
-  - AI in HR and hiring
-  - AI in social media
-  - AI in healthcare
-  - AI in climate
+  - [Introduction to AI experts](#introduction-to-ai-experts)
+  - [AI in HR and hiring](#ai-in-hr-and-hiring)
+  - [AI in social media](#ai-in-social-media)
+  - [AI in healthcare](#ai-in-healthcare)
+  - [AI in climate](#ai-in-climate)
 - [**4. Developing Responsible AI**](#4-developing-responsible-ai) (4 videos)
-  - Responsible and trustworthy AI
-  - Responsible AI principles and practices
-  - Risk and impact assessment models
-  - Agency and action: Your role in AI
+  - [Responsible and trustworthy AI](#responsible-and-trustworthy-ai)
+  - [Responsible AI principles and practices](#responsible-ai-principles-and-practices)
+  - [Risk and impact assessment models](#risk-and-impact-assessment-models)
+  - [Agency and action: Your role in AI](#agency-and-action-your-role-in-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and resources
+  - [Next steps and resources](#next-steps-and-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980)
@@ -115,13 +115,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[LinkedIn]] (1), application (1), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 
 
 ### 1. What Is AI and How Is It Used?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to artificial intelligence (AI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980)
@@ -186,10 +187,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (3), [[Engineering]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** self (1)
 > **Cross-References:** in the next (1)
 
 #### AI myths and misunderstandings
@@ -279,15 +280,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (22), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (2), [[Automation]] (1)
 > **Cross-References:** previous video (2), later in (2), in the next (1)
-> **Code Keywords:** let (2), self (1)
 > **Definitions:** is an  (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
 
 
 ### 2. AI Benefits and Risks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980)
@@ -350,8 +351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), [[Microsoft]] (1), [[Computer Vision]] (1), [[Microsoft Products|Products]] (1), data (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (2), protected (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is an  (1)
@@ -469,7 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (4), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (7), ai (6), [[Algorithms]] (6), [[Accountability]] (4), [[Privacy]] (2)
 > **Analogies:** such as (4), for example (2), imagine (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Env Vars:** nist (1)
@@ -478,7 +479,7 @@ created: 2026-04-29
 
 ### 3. AI Application Domains
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI experts
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980)
@@ -500,6 +501,10 @@ created: 2026-04-29
 > **[0:48](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980&t=48)** In this chapter, we hear from experts to get a better understanding of the benefits and
 >
 > **[0:59](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980&t=59)** risks of using AI in the influential domains of human resources, social media, healthcare, and climate resilience.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** ai (4), job description (1), [[Human Resources (HR)|Human resources]] (1)
 
 #### AI in HR and hiring
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980)
@@ -578,7 +583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1), require (1)
+> **Frameworks & Libraries:** ai (20), data (7), hr (5), [[Human Resources (HR)|Human resources]] (3), [[Responsible AI]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
@@ -675,7 +680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** ai (11), [[Algorithms]] (2), [[Accountability]] (1), [[Engineering]] (1), teams (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** ceo (1)
@@ -802,7 +807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1), self (1)
+> **Frameworks & Libraries:** ai (17), data (17), [[Algorithms]] (13), [[Microsoft Products|Products]] (3), [[Search]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** mum (1), fda (1)
@@ -940,7 +945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), this. (1), let (1), function (1), finally, (1)
+> **Frameworks & Libraries:** ai (25), data (9), [[Climate Change]] (7), [[Forecasting]] (3), [[Algorithms]] (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1), in other words (1), is an  (1)
@@ -950,7 +955,7 @@ created: 2026-04-29
 
 ### 4. Developing Responsible AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible and trustworthy AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980)
@@ -1031,9 +1036,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (29), data (8), [[Responsible AI]] (4), [[Privacy]] (3), [[Security]] (3)
 > **Analogies:** such as (3), for example (3)
 > **Definitions:** in other words (2), means that (2)
-> **Code Keywords:** let (1), self (1), yield (1)
 > **Cross-References:** later in (1), next video (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
@@ -1097,8 +1102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), [[Responsible AI]] (6), data (6), [[Google]] (3), [[Microsoft]] (2)
 > **Analogies:** such as (5), for example (3)
-> **Code Keywords:** public (3), private (2), let (1), require (1)
 > **Env Vars:** ibm (2)
 > **Best Practices:** recommended (2)
 
@@ -1173,8 +1178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (21), data (6), application (2), [[NIST]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Analogies:** such as (3), for example (3)
-> **Code Keywords:** public (1), private (1), require (1)
 > **Env Vars:** airmf (2), nist (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -1224,16 +1229,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (10), ai (10), teams (1), [[Continuous Monitoring]] (1), leadership (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), public (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Env Vars:** ibm (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980)
@@ -1276,6 +1281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Responsible AI]] (3), [[NIST]] (2), [[Continuous Monitoring]] (2), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** nist (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** in other words (1)

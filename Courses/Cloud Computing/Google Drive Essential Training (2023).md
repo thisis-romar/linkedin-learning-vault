@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/google-drive
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Drive%20Essential%20Training%20(2023).md)
@@ -46,43 +46,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Do more than store files with Google Drive
+  - [Do more than store files with Google Drive](#do-more-than-store-files-with-google-drive)
 - [**1. Get Started with Google Drive**](#1-get-started-with-google-drive) (3 videos)
-  - Access Google Drive with your account
-  - Navigate the web interface
-  - Understand Google Drive file types
+  - [Access Google Drive with your account](#access-google-drive-with-your-account)
+  - [Navigate the web interface](#navigate-the-web-interface)
+  - [Understand Google Drive file types](#understand-google-drive-file-types)
 - [**2. Work with Files**](#2-work-with-files) (6 videos)
-  - Upload files via the web
-  - Upload and sync files with the desktop app
-  - Convert files to Google doc format
-  - Download files and folders
-  - Delete and recover files
-  - Purchase additional storage space
+  - [Upload files via the web](#upload-files-via-the-web)
+  - [Upload and sync files with the desktop app](#upload-and-sync-files-with-the-desktop-app)
+  - [Convert files to Google doc format](#convert-files-to-google-doc-format)
+  - [Download files and folders](#download-files-and-folders)
+  - [Delete and recover files](#delete-and-recover-files)
+  - [Purchase additional storage space](#purchase-additional-storage-space)
 - [**3. Organize and Search Google Drive**](#3-organize-and-search-google-drive) (6 videos)
-  - Work with folders
-  - Change the view and sort order
-  - Use Stars to group files
-  - Create Workspaces for projects
-  - Search files and folders
-  - Explore files with the preview lightbox
+  - [Work with folders](#work-with-folders)
+  - [Change the view and sort order](#change-the-view-and-sort-order)
+  - [Use Stars to group files](#use-stars-to-group-files)
+  - [Create Workspaces for projects](#create-workspaces-for-projects)
+  - [Search files and folders](#search-files-and-folders)
+  - [Explore files with the preview lightbox](#explore-files-with-the-preview-lightbox)
 - [**4. Work with Google Docs**](#4-work-with-google-docs) (2 videos)
-  - Create Docs, Sheets, Slides, and Forms
-  - Understand the shared interface
+  - [Create Docs, Sheets, Slides, and Forms](#create-docs-sheets-slides-and-forms)
+  - [Understand the shared interface](#understand-the-shared-interface)
 - [**5. Collaborate with Google Docs**](#5-collaborate-with-google-docs) (6 videos)
-  - Share files with other Google users
-  - Use shared drives with coworkers
-  - Work with files that are shared with you
-  - Work with revisions
-  - Edit a file simultaneously with another Google user
-  - Use Approval cycles to finalize documents
+  - [Share files with other Google users](#share-files-with-other-google-users)
+  - [Use shared drives with coworkers](#use-shared-drives-with-coworkers)
+  - [Work with files that are shared with you](#work-with-files-that-are-shared-with-you)
+  - [Work with revisions](#work-with-revisions)
+  - [Edit a file simultaneously with another Google user](#edit-a-file-simultaneously-with-another-google-user)
+  - [Use Approval cycles to finalize documents](#use-approval-cycles-to-finalize-documents)
 - [**6. Use Google Drive on a Mobile Device**](#6-use-google-drive-on-a-mobile-device) (1 videos)
-  - Navigate the Google Drive app
+  - [Navigate the Google Drive app](#navigate-the-google-drive-app)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Take Drive further by mastering Google Docs
+  - [Take Drive further by mastering Google Docs](#take-drive-further-by-mastering-google-docs)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Do more than store files with Google Drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980)
@@ -115,7 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), this. (1)
+> **Frameworks & Libraries:** [[Google Drive]] (2), web (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), teams (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** usb (1)
 > **Definitions:** is a  (1)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Google Drive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Access Google Drive with your account
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980)
@@ -165,7 +165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2)
+> **Frameworks & Libraries:** [[Google]] (9), [[Google Drive]] (3), product (2), [[Search]] (1), data (1)
 > **URLs:** [google.com](https://google.com) (2)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is a  (1)
@@ -279,7 +279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), interface (1), this, (1)
+> **Frameworks & Libraries:** [[Google]] (14), [[Google Drive]] (8), [[Microsoft Products|Products]] (3), [[Search]] (2), [[Privacy]] (1)
 > **UI Navigation:** click on (2), toggle (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** means that (1)
@@ -329,8 +329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (10), [[Google Drive]] (4), [[Microsoft Word|Word]] (3), [[Microsoft Office]] (3), [[Microsoft Word]] (1)
 > **Definitions:** is a  (3), means that (1)
-> **Code Keywords:** switch (1), interface (1)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
@@ -339,7 +339,7 @@ created: 2026-04-29
 
 ### 2. Work with Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Upload files via the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980)
@@ -430,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), new. (1), this. (1)
+> **Frameworks & Libraries:** [[Google Drive]] (4), [[Google]] (3), cloud (1), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** click on (2), toggle (1)
 > **Exercise Files:** exercise files (1)
@@ -553,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Google Drive]] (12), cloud (3), web (3), [[Windows]] (3), [[Google]] (3)
 > **UI Navigation:** double-click (3), click on (2), right-click (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (1), is a  (1)
@@ -635,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), delete (1)
+> **Frameworks & Libraries:** [[Google]] (12), [[Google Drive]] (3), [[Microsoft Word|Word]] (3), [[Microsoft Office]] (2), [[Microsoft Word]] (2)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -695,7 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), let (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Google]] (10), [[Microsoft Office]] (2), [[Microsoft Word]] (2), [[Google Drive]] (1), web (1)
 > **UI Navigation:** click on (2), double-click (1), right-click (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** usb (1), pdf (1)
@@ -746,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (2), finally, (1)
+> **Frameworks & Libraries:** [[Google Drive]] (1)
 > **Warnings:** note that (1), warning (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -805,7 +805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), switch (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Google Drive]] (3), business (1), data (1), hit (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -814,7 +814,7 @@ created: 2026-04-29
 
 ### 3. Organize and Search Google Drive
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with folders
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-folders?u=76281980)
@@ -907,8 +907,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Drive]] (2), next (2), hit (1)
 > **UI Navigation:** click on (6), dropdown (1), scroll down (1), checkbox (1)
-> **Code Keywords:** finally, (2), delete (2), let (1), this, (1)
 > **Env Vars:** move (1), zip (1)
 > **Analogies:** for example (1), just like (1)
 > **Cross-References:** go back to (1)
@@ -1009,8 +1009,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Drive]] (3), next (2), [[Search]] (1), [[Version Control]] (1)
 > **UI Navigation:** click on (6), right-click (1), toggle (1), scroll down (1)
-> **Code Keywords:** let (3), finally, (2)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** don't forget (2)
@@ -1081,8 +1081,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Google]] (2), [[Google Drive]] (1)
 > **UI Navigation:** click on (4)
-> **Code Keywords:** let (1), finally, (1), continue (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1183,7 +1183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), continue (1)
+> **Frameworks & Libraries:** next (6), [[Google Drive]] (5), [[Google]] (1), [[Search]] (1), hit (1)
 > **UI Navigation:** click on (2), double-click (1), scroll down (1)
 > **Analogies:** similar to (1), picture (1), just like (1)
 > **CLI Commands:** make (1)
@@ -1275,7 +1275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (2), for. (1), let (1), finally, (1), type. (1)
+> **Frameworks & Libraries:** [[Search]] (29), [[Google]] (4), [[Google Drive]] (1), hit (1), next (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -1326,6 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Drive]] (5), [[Google]] (3), next (2), [[Zoom]] (2)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for example (1), such as (1), just like (1)
 > **CLI Commands:** find (1)
@@ -1335,7 +1336,7 @@ created: 2026-04-29
 
 ### 4. Work with Google Docs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create Docs, Sheets, Slides, and Forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980)
@@ -1394,7 +1395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Google Drive]] (4), [[Forms]] (3), [[Microsoft Word|Word]] (2), [[Microsoft Word]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1457,7 +1458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), else. (1), finally, (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Google Drive]] (6), cloud (1), [[Microsoft Word|Word]] (1), next (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (2)
 > **Exercise Files:** template (1)
@@ -1466,7 +1467,7 @@ created: 2026-04-29
 
 ### 5. Collaborate with Google Docs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Share files with other Google users
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980)
@@ -1587,8 +1588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (9), next (3), [[Google Drive]] (1)
 > **UI Navigation:** right-click (3), dropdown (3), scroll down (2), click on (2), open the (1)
-> **Code Keywords:** else. (1), finally, (1), let (1), this. (1), else, (1)
 > **Env Vars:** xyz (1), pdf (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -1705,7 +1706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), delete (1), let (1)
+> **Frameworks & Libraries:** [[Google]] (1), next (1), [[Google Drive]] (1)
 > **UI Navigation:** right-click (2), click on (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** just like (1), for example (1)
@@ -1780,9 +1781,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Drive]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1), [[Zoom]] (1), next (1)
 > **UI Navigation:** click on (2), open the (1), checkbox (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** delete (2)
 > **Cross-References:** previous video (1), go back to (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
@@ -1845,8 +1846,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), [[Google Drive]] (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), let (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1889,8 +1890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (7), feature (1), [[Google Drive]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [presenter] (1)
 
 #### Use Approval cycles to finalize documents
@@ -1972,6 +1973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), next (1), feature (1)
 > **UI Navigation:** in the menu (1), click on (1), open the (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
@@ -1981,7 +1983,7 @@ created: 2026-04-29
 
 ### 6. Use Google Drive on a Mobile Device
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate the Google Drive app
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-google-drive-app?u=76281980)
@@ -2054,9 +2056,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Drive]] (8), [[Google]] (4), [[Search]] (3), web (1), prompt (1)
 > **UI Navigation:** toggle (3), go to (1), scroll down (1)
 > **Analogies:** such as (2), for example (2), picture (1)
-> **Code Keywords:** finally, (2), this. (1), new. (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the docs (1)
 > **Speakers:** - [announcer] (1)
@@ -2064,7 +2066,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take Drive further by mastering Google Docs
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980)
@@ -2087,8 +2089,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (5), [[Google Drive]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [jess] (1)
 

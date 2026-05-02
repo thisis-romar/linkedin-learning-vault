@@ -30,7 +30,7 @@ tags:
   - skill/network-forensics
   - skill/network-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Network%20Forensics.md)
@@ -49,59 +49,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learning network forensics
-  - What you should know
+  - [Learning network forensics](#learning-network-forensics)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding Network Forensics**](#1-understanding-network-forensics) (7 videos)
-  - Goals of network forensics
-  - Tools
-  - Legal implications
-  - Current and future trends
-  - Anti-network forensics techniques
-  - Challenge: Acquiring additional information with Nmap
-  - Solution: Acquiring additional information with Nmap
+  - [Goals of network forensics](#goals-of-network-forensics)
+  - [Tools](#tools)
+  - [Legal implications](#legal-implications)
+  - [Current and future trends](#current-and-future-trends)
+  - [Anti-network forensics techniques](#anti-network-forensics-techniques)
+  - [Challenge: Acquiring additional information with Nmap](#challenge-acquiring-additional-information-with-nmap)
+  - [Solution: Acquiring additional information with Nmap](#solution-acquiring-additional-information-with-nmap)
 - [**2. Preparing for a Network Forensics Investigation**](#2-preparing-for-a-network-forensics-investigation) (7 videos)
-  - Network forensics investigation hardware
-  - Network forensics investigation software
-  - Understanding computer networking
-  - Understanding networking devices
-  - Understanding network data sources
-  - Challenge: Wireshark filtering
-  - Solution: Wireshark filtering
+  - [Network forensics investigation hardware](#network-forensics-investigation-hardware)
+  - [Network forensics investigation software](#network-forensics-investigation-software)
+  - [Understanding computer networking](#understanding-computer-networking)
+  - [Understanding networking devices](#understanding-networking-devices)
+  - [Understanding network data sources](#understanding-network-data-sources)
+  - [Challenge: Wireshark filtering](#challenge-wireshark-filtering)
+  - [Solution: Wireshark filtering](#solution-wireshark-filtering)
 - [**3. Investigating Network Events**](#3-investigating-network-events) (10 videos)
-  - Network logs
-  - Intrusion and security events
-  - Network logs as evidence
-  - Network logs and compliance
-  - Audit logs
-  - Firewall logs
-  - syslog
-  - syslog-ng
-  - Kiwi Syslog Server
-  - Microsoft Log Parser
+  - [Network logs](#network-logs)
+  - [Intrusion and security events](#intrusion-and-security-events)
+  - [Network logs as evidence](#network-logs-as-evidence)
+  - [Network logs and compliance](#network-logs-and-compliance)
+  - [Audit logs](#audit-logs)
+  - [Firewall logs](#firewall-logs)
+  - [syslog](#syslog)
+  - [syslog-ng](#syslog-ng)
+  - [Kiwi Syslog Server](#kiwi-syslog-server)
+  - [Microsoft Log Parser](#microsoft-log-parser)
 - [**4. Investigating Network Traffic**](#4-investigating-network-traffic) (8 videos)
-  - Fundamentals
-  - Network models
-  - Subnets, subnet ID, and subnet mask
-  - Protocol analysis
-  - ARP
-  - ARP poisoning
-  - DNS
-  - DNS poisoning
+  - [Fundamentals](#fundamentals)
+  - [Network models](#network-models)
+  - [Subnets, subnet ID, and subnet mask](#subnets-subnet-id-and-subnet-mask)
+  - [Protocol analysis](#protocol-analysis)
+  - [ARP](#arp)
+  - [ARP poisoning](#arp-poisoning)
+  - [DNS](#dns)
+  - [DNS poisoning](#dns-poisoning)
 - [**5. Network Forensics Tools**](#5-network-forensics-tools) (8 videos)
-  - tcpdump and WinDump
-  - tcpdump and WinDump hands-on
-  - Wireshark
-  - Wireshark hands-on
-  - HTTP proxies
-  - HTTP proxies hands-on
-  - Splunk
-  - Splunk hands-on
+  - [tcpdump and WinDump](#tcpdump-and-windump)
+  - [tcpdump and WinDump hands-on](#tcpdump-and-windump-hands-on)
+  - [Wireshark](#wireshark)
+  - [Wireshark hands-on](#wireshark-hands-on)
+  - [HTTP proxies](#http-proxies)
+  - [HTTP proxies hands-on](#http-proxies-hands-on)
+  - [Splunk](#splunk)
+  - [Splunk hands-on](#splunk-hands-on)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning network forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Network Forensics]] (5), [[Computer Networking]] (1), [[Computer Forensics]] (1), [[Wireshark]] (1), [[Windows]] (1)
 > **Env Vars:** tcp (1)
 > **Speakers:** - cyber (1)
 
@@ -157,7 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), interface (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (2), [[Network Forensics]] (1), [[Digital Forensics]] (1), [[Cybersecurity]] (1)
 > **Prerequisites:** prerequisite (1), setup (1)
 > **Tools:** command line (1)
 > **Speakers:** - let (1)
@@ -165,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Understanding Network Forensics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Goals of network forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980)
@@ -216,8 +216,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Digital Forensics]] (5), [[Network Forensics]] (4), traffic (2), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** pii (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -284,9 +284,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), [[Search]] (2), [[Programming]] (1), [[Engineering]] (1), [[Security]] (1)
 > **Versions:** 10.0.2 (4)
 > **CLI Commands:** sudo (1), apt (1), find (1)
-> **Code Keywords:** interface (1), let (1), continue (1)
 > **Prerequisites:** install (3)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1), - sn (1)
@@ -349,8 +349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Intrusion Detection]] (1), [[Hardware]] (1), [[Microsoft]] (1), web (1)
 > **Env Vars:** ntp (2), ids (1), iis (1), http (1)
-> **Code Keywords:** delete (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
@@ -406,9 +406,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Forensics]] (4), cloud (4), [[Big Data]] (4), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** gai (1)
 > **Speakers:** - [presenter] (1)
 
@@ -463,7 +463,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), this. (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Network Forensics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
@@ -518,13 +518,12 @@ created: 2026-04-29
 >
 > **Versions:** 192.168.0 (2)
 > **Speakers:** - [instructor] (1), - dash (1)
-> **Code Keywords:** let (1)
 > **Non-Speech:** (bouncy upbeat music) (1)
 
 
 ### 2. Preparing for a Network Forensics Investigation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Network forensics investigation hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980)
@@ -581,8 +580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), traffic (4), [[Wireshark]] (3), [[Hardware]] (2), feature (1)
 > **Env Vars:** nic (4), tap (1)
-> **Code Keywords:** interface (1), this, (1), let (1)
 > **Definitions:** is a  (3)
 > **Ports:** port 1 (1), port 4 (1)
 > **UI Navigation:** go to (1)
@@ -639,9 +638,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), management (3), [[Network Forensics]] (2), [[Security]] (2), [[Search]] (1)
 > **Env Vars:** snmp (5), siem (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1)
 > **Ports:** :00 (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
@@ -687,8 +686,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), application (2), cloud (1), web (1)
 > **Env Vars:** mac (3), nic (1), utp (1), tcp (1)
-> **Code Keywords:** interface (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -752,8 +751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (2), web (2), [[Local Area Network (LAN)|Local area network]] (1), [[Windows]] (1), prompt (1)
 > **Env Vars:** mac (9), lan (2), nec (1), lans (1)
-> **Code Keywords:** switch (2), interface (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Ports:** port 80 (1)
@@ -802,8 +801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Network Forensics]] (7), management (2), [[Hardware]] (1), [[Network Security]] (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** function (1)
 > **Env Vars:** siem (1)
 > **Speakers:** - [instructor] (1)
 
@@ -826,8 +825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Versions:** 10.0.2 (3)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively upbeat music) (1)
 
@@ -856,7 +855,7 @@ created: 2026-04-29
 
 ### 3. Investigating Network Events
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Network logs
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980)
@@ -911,8 +910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (3), web (3), management (2), [[Intrusion Detection]] (1), [[Security]] (1)
 > **Env Vars:** mac (2), nic (1), siem (1)
-> **Code Keywords:** require (1), interface (1), function (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -978,7 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2), this. (1), var (1), finally, (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Intrusion Detection]] (2), prompt (2), [[Network Forensics]] (1), [[Search]] (1)
 > **Env Vars:** nic (2), ids (1)
 > **Tools:** command prompt (2), terminal (1)
 > **CLI Commands:** sudo (2)
@@ -1034,7 +1033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), finally, (1)
+> **Frameworks & Libraries:** management (3), business (2), [[Security]] (1), data (1), [[Accountability]] (1)
 > **Analogies:** such as (2)
 > **Warnings:** note that (1), keep in mind (1)
 > **Env Vars:** hipaa (1)
@@ -1085,8 +1084,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (3), [[Automation]] (3), [[Network Forensics]] (2), [[Incident Response]] (1)
 > **Env Vars:** sox (1), pci (1), dss (1), fisma (1), hipaa (1)
-> **Code Keywords:** require (2), for. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1153,8 +1152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Network Forensics]] (3), [[Linux]] (3), [[Accountability]] (1), next (1)
 > **CLI Commands:** find (1), cd (1), ls (1), sudo (1)
-> **Code Keywords:** var (3), let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1223,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (2), protected (1), let (1), interface (1)
+> **Frameworks & Libraries:** application (4), [[Network Forensics]] (2), web (2), [[Ubuntu]] (2), data (1)
 > **CLI Commands:** grep (2), sudo (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Env Vars:** gui (1)
@@ -1245,7 +1244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1)
+> **Frameworks & Libraries:** [[Linux]] (2), management (1)
 > **Speakers:** - [instructor] (1)
 
 #### syslog-ng
@@ -1277,9 +1276,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), next (1)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1298,6 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -1325,8 +1325,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[SQL]] (2), [[Windows]] (2), [[Search]] (1), database (1)
 > **Env Vars:** sql (2), xml (1), iis (1), html (1)
-> **Code Keywords:** interface (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.2 (1)
 > **Tools:** command line (1)
@@ -1337,7 +1337,7 @@ created: 2026-04-29
 
 ### 4. Investigating Network Traffic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980)
@@ -1376,9 +1376,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (8), application (3), [[Network Forensics]] (2), traffic (1), next (1)
 > **Env Vars:** http (2), url (1), tcp (1), nic (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** function (1), interface (1)
 > **Speakers:** - [instructor] (1)
 
 #### Network models
@@ -1426,6 +1426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), application (4), [[Local Area Network (LAN)|Local area network]] (1), lan (1)
 > **Env Vars:** mac (1), lan (1), http (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1483,11 +1484,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (2), [[Local Area Network (LAN)|Local area network]] (1), [[Security]] (1), traffic (1), [[Network Security]] (1)
 > **Versions:** 13.107.42 (4), 13.107 (2), 42.14 (1), 13.107.43 (1), 13.107.255 (1)
 > **Env Vars:** lan (2), isp (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Protocol analysis
@@ -1553,8 +1554,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Wireshark]] (2), web (1), power (1)
 > **Env Vars:** tcp (7), syn (6), udp (5), ack (5), osi (1)
-> **Code Keywords:** require (2), let (2), this, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
@@ -1604,8 +1605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Computer Networking]] (1), [[Windows]] (1), prompt (1), [[Network Forensics]] (1), hit (1)
 > **Env Vars:** arp (14), mac (11)
-> **Code Keywords:** switch (1), let (1), for. (1), this. (1)
 > **CLI Commands:** find (1)
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
@@ -1692,9 +1693,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (9), [[LinkedIn]] (3), web (2), [[Domain Name System (DNS)|Domain name system]] (1), application (1)
 > **Env Vars:** dns (9), udp (1), tcp (1), url (1)
 > **Versions:** 10.35.4 (1), 192.168.0 (1), 104.18.41 (1), 172.64.146 (1)
-> **Code Keywords:** let (2), require (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2)
 > **Prerequisites:** set up (1), setup (1)
 > **Tools:** command prompt (1)
@@ -1754,8 +1755,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), [[LinkedIn]] (5), web (4), data (2), [[Phishing]] (2)
 > **Env Vars:** dns (6), arp (1), url (1)
-> **Code Keywords:** let (3), this, (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
 > **Versions:** 13.107.42 (1), 192.168.0 (1)
 > **Analogies:** similar to (1)
@@ -1764,7 +1765,7 @@ created: 2026-04-29
 
 ### 5. Network Forensics Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### tcpdump and WinDump
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980)
@@ -1811,7 +1812,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (2), [[Ubuntu]] (2), data (1), [[Wireshark]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gui (1)
@@ -1905,8 +1906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Wireshark]] (3), power (2), traffic (1), [[Ubuntu]] (1)
 > **CLI Commands:** ssh (4), sudo (2), ls (1)
-> **Code Keywords:** let (7)
 > **Tools:** terminal (4)
 > **UI Navigation:** open the (1), go to (1), scroll down (1), click on (1)
 > **Speakers:** - s (2), - [instructor] (1), - w (1)
@@ -1955,9 +1956,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (11), feature (2), dns (2), data (1), application (1)
 > **Env Vars:** dns (2), gui (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Tools:** command prompt (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2019,7 +2020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), finally, (1), try. (1)
+> **Frameworks & Libraries:** [[Wireshark]] (6), traffic (2), product (2), next (1), web (1)
 > **Env Vars:** gui (2), acl (2)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** sudo (1)
@@ -2078,8 +2079,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (12), [[Security]] (2), application (2), traffic (1), [[Debugging]] (1)
 > **Env Vars:** http (11), arp (1)
-> **Code Keywords:** function (1), this. (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2225,7 +2226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (7), web (4), data (2), [[Ubuntu]] (2), cd (1)
 > **Env Vars:** http (5), https (2), etc (1), lan (1), url (1)
 > **UI Navigation:** click on (6), go to (3), open the (1)
 > **CLI Commands:** sudo (3), cd (1), ls (1)
@@ -2259,6 +2260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (4), [[Security]] (3), [[Network Security]] (2), [[Network Forensics]] (1)
 > **Env Vars:** siem (8), ids (2), ips (2), ibm (1), rsa (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2364,7 +2366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), while, (2), case, (1), type, (1), new. (1)
+> **Frameworks & Libraries:** data (5), traffic (3), [[Wireshark]] (3), web application (1), [[Search]] (1)
 > **UI Navigation:** click on (11), go to (1), dropdown (1)
 > **Env Vars:** pcap (9), tcp (2)
 > **CLI Commands:** find (2), sudo (1)
@@ -2376,7 +2378,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980)
@@ -2395,6 +2397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Network Security]] (3), [[Network Forensics]] (1), data (1), [[Cybersecurity]] (1), [[Computer Forensics]] (1)
 > **Speakers:** - thanks (1)
 
 

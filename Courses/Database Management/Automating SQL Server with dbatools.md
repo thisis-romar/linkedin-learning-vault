@@ -32,7 +32,7 @@ tags:
   - skill/microsoft-sql-server
   - skill/server-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Automating%20SQL%20Server%20with%20dbatools.md)
@@ -51,38 +51,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Why dbatools?
-  - What you should know
-  - Setting up your environment
+  - [Why dbatools?](#why-dbatools)
+  - [What you should know](#what-you-should-know)
+  - [Setting up your environment](#setting-up-your-environment)
 - [**1. What Is dbatools?**](#1-what-is-dbatools) (4 videos)
-  - Introducing dbatools
-  - Installing and updating the module
-  - Find the command you need
-  - Running your first command
+  - [Introducing dbatools](#introducing-dbatools)
+  - [Installing and updating the module](#installing-and-updating-the-module)
+  - [Find the command you need](#find-the-command-you-need)
+  - [Running your first command](#running-your-first-command)
 - [**2. Get Information**](#2-get-information) (6 videos)
-  - Get a list of SQL Servers in your environment
-  - Get database status across your estate
-  - Check database last backup times
-  - Get SQL Server patch levels
-  - Review SQL Server Configuration Settings
-  - Find failed SQL Agent jobs
+  - [Get a list of SQL Servers in your environment](#get-a-list-of-sql-servers-in-your-environment)
+  - [Get database status across your estate](#get-database-status-across-your-estate)
+  - [Check database last backup times](#check-database-last-backup-times)
+  - [Get SQL Server patch levels](#get-sql-server-patch-levels)
+  - [Review SQL Server Configuration Settings](#review-sql-server-configuration-settings)
+  - [Find failed SQL Agent jobs](#find-failed-sql-agent-jobs)
 - [**3. Set Information**](#3-set-information) (4 videos)
-  - Set databases online or offline
-  - Discover and apply recommended data compression levels
-  - Update database compatibility levels
-  - Insert data into SQL Server tables
+  - [Set databases online or offline](#set-databases-online-or-offline)
+  - [Discover and apply recommended data compression levels](#discover-and-apply-recommended-data-compression-levels)
+  - [Update database compatibility levels](#update-database-compatibility-levels)
+  - [Insert data into SQL Server tables](#insert-data-into-sql-server-tables)
 - [**4. Migrations Made Easy with dbatools**](#4-migrations-made-easy-with-dbatools) (5 videos)
-  - Migrate whole instances with one line of code
-  - Simple database migrations
-  - More advanced database migrations
-  - Migrating logins
-  - Exporting documentation
+  - [Migrate whole instances with one line of code](#migrate-whole-instances-with-one-line-of-code)
+  - [Simple database migrations](#simple-database-migrations)
+  - [More advanced database migrations](#more-advanced-database-migrations)
+  - [Migrating logins](#migrating-logins)
+  - [Exporting documentation](#exporting-documentation)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your learning
+  - [Continue your learning](#continue-your-learning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why dbatools?
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980)
@@ -111,9 +111,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Microsoft SQL Server|Sql server]] (2), database (1), [[Databases]] (1), [[Microsoft]] (1)
 > **Env Vars:** dba (4), sql (3), mvp (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** module (2)
 > **Tools:** powershell (2)
 > **Exercise Files:** download the (1)
 > **Speakers:** - are (1)
@@ -145,11 +145,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), cross-platform (2), [[SQL]] (2), [[GitHub]] (1), next (1)
 > **Env Vars:** sql (4)
 > **Tools:** github (1), powershell (1)
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** set up (1), you'll need (1)
-> **Code Keywords:** super (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [instructor] (1)
@@ -227,6 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (4), [[GitHub]] (2), [[Git]] (1), cd (1), [[Security]] (1)
 > **Tools:** powershell (4), vs code (3), github (2), terminal (1)
 > **Env Vars:** url (2), sql (1)
 > **UI Navigation:** open the (2), navigate to (1)
@@ -234,12 +235,11 @@ created: 2026-04-29
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
 > **Documentation:** the readme (1)
-> **Exercise Files:** github repo (1)
 
 
 ### 1. What Is dbatools?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing dbatools
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980)
@@ -290,7 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (7), function (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Powershell]] (3), database (1), [[SharePoint]] (1), [[GitHub]] (1)
 > **Env Vars:** sql (4)
 > **Tools:** powershell (3), github (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
@@ -359,7 +359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (20), import. (1)
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Microsoft SQL Server|Sql server]] (3), management (3), [[Microsoft]] (2), [[Scripting]] (1)
 > **Tools:** powershell (9)
 > **Prerequisites:** install (9)
 > **CLI Commands:** find (5), make (1)
@@ -419,9 +419,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (6), next (3), [[Microsoft Word|Word]] (1), [[Search]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** dba (11), set (1), sql (1)
 > **CLI Commands:** find (9)
-> **Code Keywords:** pass (2), let (1), function (1), module (1), switch (1)
 > **Tools:** powershell (6)
 > **API Endpoints:** get  (3)
 > **Analogies:** for example (1)
@@ -490,7 +490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (1), this, (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), web (2), [[Microsoft SQL Server|Sql server]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** powershell (2), vs code (2)
 > **UI Navigation:** open the (2), scroll down (1), scroll up (1)
 > **CLI Commands:** find (3)
@@ -502,7 +502,7 @@ created: 2026-04-29
 
 ### 2. Get Information
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get a list of SQL Servers in your environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980)
@@ -597,8 +597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (12), [[Microsoft SQL Server|Sql server]] (9), data (7), [[Powershell]] (5), database (4)
 > **Env Vars:** sql (21), dba (9), csv (7)
-> **Code Keywords:** let (4), function (2), module (1), pass (1)
 > **CLI Commands:** find (4), make (1)
 > **Tools:** powershell (5)
 > **Definitions:** is an  (1), is a  (1)
@@ -698,7 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (2), switch (1), this, (1), type, (1)
+> **Frameworks & Libraries:** database (6), [[Databases]] (4), [[Microsoft SQL Server|Sql server]] (3), management (1), next (1)
 > **Env Vars:** sql (3), ssms (1), tsql (1), select (1)
 > **CLI Commands:** find (4), make (1)
 > **Tools:** command line (1), vs code (1)
@@ -772,8 +772,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (8), database (3), [[SQL]] (2), [[Microsoft Word|Word]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** dba (8), sql (3), msdb (1)
-> **Code Keywords:** let (4), pass (1), case, (1)
 > **CLI Commands:** find (3)
 > **Tools:** powershell (1)
 > **Definitions:** is a  (1)
@@ -864,8 +864,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (6), [[Microsoft]] (2), [[Security]] (2), [[JSON]] (2)
 > **Env Vars:** sql (13), dba (12), json (2), rtm (1)
-> **Code Keywords:** pass (2), module (2), let (1), this, (1), case, (1)
 > **Versions:** version 15 (1), 16.0.900 (1)
 > **Definitions:** is a  (2)
 > **API Endpoints:** get  (1)
@@ -941,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), pass (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (6)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
@@ -1028,8 +1028,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), business (2), [[Powershell]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Data Transformation]] (1)
 > **Env Vars:** sql (7), ssms (3), dba (2), gui (1)
-> **Code Keywords:** let (2), case, (2)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** powershell (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1038,7 +1038,7 @@ created: 2026-04-29
 
 ### 3. Set Information
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set databases online or offline
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980)
@@ -1093,7 +1093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (1), pass (1)
+> **Frameworks & Libraries:** [[Databases]] (12), database (4), application (1), [[Powershell]] (1), next (1)
 > **Env Vars:** dba (2)
 > **Cross-References:** in the last (1), next chapter (1)
 > **Code Identifiers:** databaseadmin (1)
@@ -1198,7 +1198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), this, (1)
+> **Frameworks & Libraries:** data (6), database (4), [[Microsoft SQL Server|Sql server]] (3), feature (1)
 > **Env Vars:** sql (3), sp1 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
@@ -1253,8 +1253,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), database (6), [[Databases]] (3)
 > **Env Vars:** sql (6), dba (6)
-> **Code Keywords:** let (2), case, (2), pub (2)
 > **Versions:** version 130 (2), version 150 (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
@@ -1327,8 +1327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), database (8), [[Powershell]] (3), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** dba (2), csv (2), sql (1), rsd (1), ssms (1)
-> **Code Keywords:** let (1), case, (1), default, (1), require (1)
 > **Tools:** powershell (3)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
@@ -1337,7 +1337,7 @@ created: 2026-04-29
 
 ### 4. Migrations Made Easy with dbatools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Migrate whole instances with one line of code
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980)
@@ -1412,10 +1412,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Databases]] (4), [[Microsoft SQL Server|Sql server]] (2), web (2), [[SharePoint]] (1)
 > **Env Vars:** sql (3), dba (1)
 > **UI Navigation:** open the (2), scroll down (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** require (1)
 > **Documentation:** the docs (1)
 > **Tools:** vs code (1)
 > **Analogies:** for example (1)
@@ -1484,8 +1484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (14), database (8), data (2), next (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** dba (16), sql (1)
-> **Code Keywords:** let (4), switch (2)
 > **API Endpoints:** get  (2)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
@@ -1571,8 +1571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (21), [[Databases]] (6), data (4), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **Env Vars:** dba (21), lsn (1)
-> **Code Keywords:** let (4), continue (1)
 > **Definitions:** means that (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** imagine (1)
@@ -1637,8 +1637,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), web (4), [[Databases]] (2), [[Windows]] (2), [[SQL]] (1)
 > **Env Vars:** dba (12), sql (2), sids (2), sid (1)
-> **Code Keywords:** let (1), match. (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1725,7 +1725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2)
+> **Frameworks & Libraries:** [[SQL]] (5), database (3), [[Databases]] (2), next (1), feature (1)
 > **File Paths:** sp_configure.sql (2), databases.sql (1)
 > **Code Identifiers:** sp_configure (3)
 > **Env Vars:** sql (2), clr (1)
@@ -1737,7 +1737,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/continue-your-learning?u=76281980)
@@ -1774,7 +1774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), continue (1), let (1)
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [jess] (1)

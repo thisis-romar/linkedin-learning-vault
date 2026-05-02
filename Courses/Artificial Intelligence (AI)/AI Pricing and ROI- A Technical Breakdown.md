@@ -31,7 +31,7 @@ tags:
   - skill/cost-management
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Pricing%20and%20ROI-%20A%20Technical%20Breakdown.md)
@@ -50,83 +50,83 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Considering the cost of AI
+  - [Considering the cost of AI](#considering-the-cost-of-ai)
 - [**1. Build vs. Buy**](#1-build-vs-buy) (4 videos)
-  - Framing build vs. buy in an AI context
-  - Setup vs. ongoing costs
-  - Selecting the right models for the tasks
-  - SaaS, PaaS, and IaaS in the context of AI
+  - [Framing build vs. buy in an AI context](#framing-build-vs-buy-in-an-ai-context)
+  - [Setup vs. ongoing costs](#setup-vs-ongoing-costs)
+  - [Selecting the right models for the tasks](#selecting-the-right-models-for-the-tasks)
+  - [SaaS, PaaS, and IaaS in the context of AI](#saas-paas-and-iaas-in-the-context-of-ai)
 - [**2. Costs of Using an AI API**](#2-costs-of-using-an-ai-api) (10 videos)
-  - Introduction to AI as an API
-  - Introduction to AI as a platform
-  - Setup costs for AI APIs
-  - Ongoing costs for AI APIs
-  - Estimating cost for a translation feature
-  - Estimating cost for a RAG solution: What is RAG?
-  - Estimating cost for a RAG solution: Costs of RAG
-  - Estimating costs for an image generation feature
-  - Challenge: Estimating the cost of a book summarization
-  - Solution: Estimating the cost of a book summarization
+  - [Introduction to AI as an API](#introduction-to-ai-as-an-api)
+  - [Introduction to AI as a platform](#introduction-to-ai-as-a-platform)
+  - [Setup costs for AI APIs](#setup-costs-for-ai-apis)
+  - [Ongoing costs for AI APIs](#ongoing-costs-for-ai-apis)
+  - [Estimating cost for a translation feature](#estimating-cost-for-a-translation-feature)
+  - [Estimating cost for a RAG solution: What is RAG?](#estimating-cost-for-a-rag-solution-what-is-rag)
+  - [Estimating cost for a RAG solution: Costs of RAG](#estimating-cost-for-a-rag-solution-costs-of-rag)
+  - [Estimating costs for an image generation feature](#estimating-costs-for-an-image-generation-feature)
+  - [Challenge: Estimating the cost of a book summarization](#challenge-estimating-the-cost-of-a-book-summarization)
+  - [Solution: Estimating the cost of a book summarization](#solution-estimating-the-cost-of-a-book-summarization)
 - [**3. Examining Major Vendor Pricing**](#3-examining-major-vendor-pricing) (6 videos)
-  - Diving into ChatGPT pricing (OpenAI)
-  - Diving into Anthropic-based pricing
-  - Diving into Google AI pricing
-  - Diving into AWS Bedrock pricing
-  - Diving into Azure AI-based pricing
-  - Diving into Hugging Face-based pricing
+  - [Diving into ChatGPT pricing (OpenAI)](#diving-into-chatgpt-pricing-openai)
+  - [Diving into Anthropic-based pricing](#diving-into-anthropic-based-pricing)
+  - [Diving into Google AI pricing](#diving-into-google-ai-pricing)
+  - [Diving into AWS Bedrock pricing](#diving-into-aws-bedrock-pricing)
+  - [Diving into Azure AI-based pricing](#diving-into-azure-ai-based-pricing)
+  - [Diving into Hugging Face-based pricing](#diving-into-hugging-face-based-pricing)
 - [**4. Costs of Training AI**](#4-costs-of-training-ai) (13 videos)
-  - Overview of technical components and tooling
-  - Setting up an AI training cluster
-  - Cost of compute for training AI models
-  - Data cleanliness and sourcing
-  - Data movement and storage
-  - AI model training iteration and evaluation
-  - Tracking AI experiments
-  - Fine-tuning models
-  - Hiring the team that trains the models
-  - Challenge: Training AI for your enterprise
-  - Solution: Training AI for your enterprise
-  - Challenge: Training AI for your start-up
-  - Solution: Training AI for your start-up
+  - [Overview of technical components and tooling](#overview-of-technical-components-and-tooling)
+  - [Setting up an AI training cluster](#setting-up-an-ai-training-cluster)
+  - [Cost of compute for training AI models](#cost-of-compute-for-training-ai-models)
+  - [Data cleanliness and sourcing](#data-cleanliness-and-sourcing)
+  - [Data movement and storage](#data-movement-and-storage)
+  - [AI model training iteration and evaluation](#ai-model-training-iteration-and-evaluation)
+  - [Tracking AI experiments](#tracking-ai-experiments)
+  - [Fine-tuning models](#fine-tuning-models)
+  - [Hiring the team that trains the models](#hiring-the-team-that-trains-the-models)
+  - [Challenge: Training AI for your enterprise](#challenge-training-ai-for-your-enterprise)
+  - [Solution: Training AI for your enterprise](#solution-training-ai-for-your-enterprise)
+  - [Challenge: Training AI for your start-up](#challenge-training-ai-for-your-start-up)
+  - [Solution: Training AI for your start-up](#solution-training-ai-for-your-start-up)
 - [**5. Costs of Hosting AI**](#5-costs-of-hosting-ai) (9 videos)
-  - Hosting and running your AI models
-  - Running your own models or outsourcing
-  - Choosing the right hardware for AI models
-  - Logging and monitoring AI inference
-  - Hiring the team for AI inference
-  - Challenge: Running AI for your start-up
-  - Solution: Running AI for your start-up
-  - Challenge: Running AI for your enterprise
-  - Solution: Running AI for your enterprise
+  - [Hosting and running your AI models](#hosting-and-running-your-ai-models)
+  - [Running your own models or outsourcing](#running-your-own-models-or-outsourcing)
+  - [Choosing the right hardware for AI models](#choosing-the-right-hardware-for-ai-models)
+  - [Logging and monitoring AI inference](#logging-and-monitoring-ai-inference)
+  - [Hiring the team for AI inference](#hiring-the-team-for-ai-inference)
+  - [Challenge: Running AI for your start-up](#challenge-running-ai-for-your-start-up)
+  - [Solution: Running AI for your start-up](#solution-running-ai-for-your-start-up)
+  - [Challenge: Running AI for your enterprise](#challenge-running-ai-for-your-enterprise)
+  - [Solution: Running AI for your enterprise](#solution-running-ai-for-your-enterprise)
 - [**6. Other Costs**](#6-other-costs) (5 videos)
-  - AI copyright and legal risks
-  - AI reputational risks
-  - AI security risks
-  - AI impact on service level agreements
-  - AI's environmental impacts
+  - [AI copyright and legal risks](#ai-copyright-and-legal-risks)
+  - [AI reputational risks](#ai-reputational-risks)
+  - [AI security risks](#ai-security-risks)
+  - [AI impact on service level agreements](#ai-impact-on-service-level-agreements)
+  - [AI's environmental impacts](#ais-environmental-impacts)
 - [**7. Revenue-Generating Models**](#7-revenue-generating-models) (11 videos)
-  - Unit and margin pricing for AI
-  - Time consumption pricing for AI
-  - Value-based pricing for AI
-  - Subscription pricing for AI
-  - Start-up funding and grant programs for AI
-  - Challenge: Pricing your logo generator
-  - Solution: Pricing your logo generator
-  - Building a business case for AI projects
-  - Building a financial projection for AI projects
-  - Challenge: Building an AI business case
-  - Solution: Building an AI business case
+  - [Unit and margin pricing for AI](#unit-and-margin-pricing-for-ai)
+  - [Time consumption pricing for AI](#time-consumption-pricing-for-ai)
+  - [Value-based pricing for AI](#value-based-pricing-for-ai)
+  - [Subscription pricing for AI](#subscription-pricing-for-ai)
+  - [Start-up funding and grant programs for AI](#start-up-funding-and-grant-programs-for-ai)
+  - [Challenge: Pricing your logo generator](#challenge-pricing-your-logo-generator)
+  - [Solution: Pricing your logo generator](#solution-pricing-your-logo-generator)
+  - [Building a business case for AI projects](#building-a-business-case-for-ai-projects)
+  - [Building a financial projection for AI projects](#building-a-financial-projection-for-ai-projects)
+  - [Challenge: Building an AI business case](#challenge-building-an-ai-business-case)
+  - [Solution: Building an AI business case](#solution-building-an-ai-business-case)
 - [**8. ROI on AI Use Cases**](#8-roi-on-ai-use-cases) (4 videos)
-  - ROI on AI customer support automation
-  - ROI on AI lead generation
-  - ROI on AI Developer tooling
-  - ROI on AI Copilots
+  - [ROI on AI customer support automation](#roi-on-ai-customer-support-automation)
+  - [ROI on AI lead generation](#roi-on-ai-lead-generation)
+  - [ROI on AI Developer tooling](#roi-on-ai-developer-tooling)
+  - [ROI on AI Copilots](#roi-on-ai-copilots)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Considering the cost of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980)
@@ -153,13 +153,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), [[Microsoft Products|Products]] (1), business (1)
 > **Speakers:** - everyone (1)
 
 
 ### 1. Build vs. Buy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Framing build vs. buy in an AI context
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980)
@@ -204,7 +204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (5), business (1), [[E-Commerce]] (1), cloud (1), api (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -255,7 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type, (1), require (1), static (1)
+> **Frameworks & Libraries:** ai (4), business (3), data (2), [[Privacy]] (1), product (1)
 > **Prerequisites:** setup (2), you'll need (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -289,7 +289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (3), next (2), [[Deep Learning]] (2), [[Forecasting]] (1), [[E-Commerce]] (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -359,9 +359,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[PaaS]] (8), [[SaaS]] (6), [[Hugging Face]] (4), [[IaaS]] (3)
 > **Definitions:** stands for (4), is a  (3), refers to (1)
 > **Env Vars:** api (3), gpu (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -371,7 +371,7 @@ created: 2026-04-29
 
 ### 2. Costs of Using an AI API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI as an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980)
@@ -472,8 +472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), api (15), [[ChatGPT]] (4), data (2), application (2)
 > **Env Vars:** api (15), gpt (1), b2b (1)
-> **Code Keywords:** require (2), case, (2), let (1), for, (1), this. (1)
 > **CLI Commands:** make (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Versions:** 3.5 (1)
@@ -524,8 +524,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), api (2), [[Microsoft Products|Products]] (2), [[Microsoft Azure|Azure]] (1), [[Vertex]] (1)
 > **Cross-References:** previous video (2), in the next (1)
-> **Code Keywords:** case, (1), let (1)
 > **Env Vars:** api (2)
 > **Analogies:** such as (1), just like (1)
 > **Prerequisites:** configure (1)
@@ -554,8 +554,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Hardware]] (1), [[Agile Development|Agile]] (1), teams (1), cloud (1)
 > **Prerequisites:** setup (1), set up (1)
-> **Code Keywords:** let (1)
 > **Versions:** 1.5 (1)
 > **Cross-References:** next video (1)
 > **Analogies:** for example (1)
@@ -632,8 +632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), [[Tokens]] (8), ai (5), [[ChatGPT]] (2), cloud (1)
 > **Env Vars:** api (9), aws (1), llm (1)
-> **Code Keywords:** let (1), pass (1), case, (1), this, (1)
 > **URLs:** [together.ai](https://together.ai) (1), [stability.ai](https://stability.ai) (1)
 > **CLI Commands:** aws (1)
 > **Versions:** 1.05 (1)
@@ -694,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Google]] (2), application (1), next (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
@@ -785,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (2), case, (1), pass (1), this. (1)
+> **Frameworks & Libraries:** rag (4), database (4), prompt (3), [[ChatGPT]] (3), [[Search]] (3)
 > **Env Vars:** rag (4), llm (1)
 > **Analogies:** similar to (2), for example (1)
 > **CLI Commands:** make (1)
@@ -914,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[Tokens]] (10), rag (6), llm (6), application (4), data (3)
 > **Env Vars:** rag (6), llm (6), gpt (1)
 > **Cross-References:** in the last (1), as we saw (1), in the next (1), next video (1)
 > **UI Navigation:** scroll down (2), click on (1), scroll up (1)
@@ -972,7 +972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2)
+> **Frameworks & Libraries:** [[DALL-E]] (4), feature (2), [[Stable Diffusion]] (2), [[E-Commerce]] (1), product (1)
 > **Env Vars:** dall (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -998,8 +998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1085,7 +1085,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Tokens]] (15), [[ChatGPT]] (3), [[Microsoft Word|Word]] (2), application (1), next (1)
 > **Versions:** 3.5 (2), 62.5 (1), 1.5 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1094,7 +1094,7 @@ created: 2026-04-29
 
 ### 3. Examining Major Vendor Pricing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into ChatGPT pricing (OpenAI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980)
@@ -1167,8 +1167,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GPT-4]] (5), [[DALL-E]] (2), api (2), management (2), [[ChatGPT]] (1)
 > **Env Vars:** gpt (8), dall (2), api (2)
-> **Code Keywords:** let (4), finally, (2), public (1), function (1)
 > **UI Navigation:** scroll down (4), scroll up (2)
 > **Versions:** 3.5 (3), 1.50 (1)
 > **Cross-References:** go back to (1)
@@ -1213,8 +1213,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (9), prompt (1), [[ChatGPT]] (1), feature (1)
 > **Versions:** 2.1 (2), 2.0 (1), 2.40 (1), 3.5 (1), 0.1 (1)
-> **Code Keywords:** let (3), case, (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1314,8 +1314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (9), [[Gemini]] (9), ai (6), cloud (4), gcp (3)
 > **Env Vars:** gcp (3), rag (2), gpt (2), aws (2), dall (1)
-> **Code Keywords:** let (5), case, (2)
 > **UI Navigation:** scroll down (3), go to (2)
 > **CLI Commands:** aws (2), find (1)
 > **Versions:** 1.5 (1), 0.1 (1), 3.5 (1)
@@ -1368,9 +1368,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), ai (5), [[Tokens]] (5), cloud (3), [[Google]] (3)
 > **Env Vars:** aws (6), rag (1), a21 (1)
 > **CLI Commands:** aws (6), find (1)
-> **Code Keywords:** let (3), this. (1)
 > **Analogies:** similar to (3)
 > **Versions:** 0.1 (1)
 > **Cross-References:** next video (1)
@@ -1454,8 +1454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (5), [[LLaMA]] (4), [[Microsoft]] (2), [[GPT-4]] (2)
 > **UI Navigation:** scroll down (2), scroll up (2), click on (2), go to (1), select the (1)
-> **Code Keywords:** let (5), case, (2)
 > **Env Vars:** gpt (3)
 > **Cross-References:** go back to (1), in the next (1)
 > **Analogies:** for example (1), similar to (1)
@@ -1517,7 +1517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (1), this. (1), switch (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), [[Hardware]] (2), [[LLaMA]] (2), ai (1), teams (1)
 > **Env Vars:** cpu (1), gpu (1), a10g (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1529,7 +1529,7 @@ created: 2026-04-29
 
 ### 4. Costs of Training AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of technical components and tooling
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/overview-of-technical-components-and-tooling?u=76281980)
@@ -1566,7 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), finally, (1)
+> **Frameworks & Libraries:** data (8), ai (2), teams (1), management (1), next (1)
 > **Env Vars:** h100 (1), cpu (1), ram (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1661,8 +1661,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (3), cloud (3), next (2), [[Google]] (2)
 > **Env Vars:** gpu (5), bert (3), tpu (2), amd (1), aws (1)
-> **Code Keywords:** let (3), require (2)
 > **CLI Commands:** aws (1), make (1)
 > **Cross-References:** in the next (1)
 > **Tools:** colab (1)
@@ -1709,8 +1709,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), cloud (1), aws (1), gcp (1)
 > **Env Vars:** ram (4), cpu (4), gpu (2), aws (1), a100 (1)
-> **Code Keywords:** this. (1), case, (1), require (1), type, (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** python (1), aws (1)
 > **Cross-References:** in the last (1)
@@ -1803,7 +1803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (1)
+> **Frameworks & Libraries:** data (29), product (2), ai (2), [[E-Commerce]] (1), llm (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** we covered (1), in the next (1), we mentioned (1)
 > **Env Vars:** llm (1), roi (1)
@@ -1917,7 +1917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (6), case. (2), for. (1), static (1)
+> **Frameworks & Libraries:** data (35), ai (10), [[Analytics]] (3), application (2), next (2)
 > **CLI Commands:** make (4), find (1), aws (1)
 > **Env Vars:** cdp (1), etl (1), elt (1), aws (1)
 > **Definitions:** is a  (2), stands for (1), is called (1)
@@ -2034,8 +2034,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (4), business (2), next (2), [[GPT-4]] (2)
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** continue (1), let (1), finally, (1), case, (1)
 > **Env Vars:** gpt (2), mmlu (1)
 > **Analogies:** similar to (1), such as (1)
 > **Cross-References:** in the next (1)
@@ -2123,7 +2123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), finally, (1)
+> **Frameworks & Libraries:** [[MLflow]] (4), ai (3), data (2), teams (2), next (1)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
@@ -2199,9 +2199,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Fine Tuning]] (4), ai (3), [[LLaMA]] (3), [[Banking]] (3)
 > **Definitions:** is called (2), is a  (2), is an  (1)
 > **Env Vars:** imdb (1), a10g (1), aws (1), mlg5 (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** find (1), aws (1)
 > **Versions:** 8.8 (1)
 > **Cross-References:** in the next (1)
@@ -2296,8 +2296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (5), business (4), product (4), [[Google]] (2)
 > **CLI Commands:** make (5), node (1), find (1)
-> **Code Keywords:** let (3), for. (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** llm (1)
@@ -2329,9 +2329,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[Forecasting]] (1), next (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** bert (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2433,7 +2433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), for. (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** data (9), [[Hugging Face]] (1), cloud (1), [[Fine Tuning]] (1), next (1)
 > **Env Vars:** gpu (1), cpu (1), ram (1), b12 (1), dne (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -2461,6 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2534,7 +2535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** data (4), ai (1), [[Engineering]] (1), next (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -2543,7 +2544,7 @@ created: 2026-04-29
 
 ### 5. Costs of Hosting AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hosting and running your AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980)
@@ -2622,7 +2623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), case. (1)
+> **Frameworks & Libraries:** data (6), [[Hardware]] (5), ai (4), [[Software Development]] (1), [[Forms]] (1)
 > **Analogies:** similar to (2), for example (1)
 > **Env Vars:** gdpr (2)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -2693,9 +2694,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (4), [[Hardware]] (4), cloud (3), [[IaaS]] (2)
 > **Env Vars:** iaas (2), api (1), aws (1), vpc (1)
 > **CLI Commands:** aws (1), make (1)
-> **Code Keywords:** let (1), private (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** it's best to (1)
@@ -2824,8 +2825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (7), ai (5), next (4), chatbot (3), data (2)
 > **Env Vars:** cpu (6), a100 (6), gdpr (1), bert (1)
-> **Code Keywords:** let (7), case, (2), finally, (2), case. (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -3024,8 +3025,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (9), product (8), business (5), [[User Experience (UX)|User experience]] (3)
 > **Env Vars:** gpt (5), sla (3)
-> **Code Keywords:** let (4), case, (2), continue (1)
 > **Versions:** 3.5 (4), 99.99 (1), 99.9 (1), 99.5 (1)
 > **Definitions:** is an  (3), is a  (2)
 > **Analogies:** for example (5)
@@ -3086,8 +3087,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), business (2), [[Hardware]] (2), [[Hugging Face]] (1), [[Generative AI]] (1)
 > **Cross-References:** previous video (1), we talked about (1), in the next (1)
-> **Code Keywords:** let (1), case, (1)
 > **Env Vars:** bert (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3135,6 +3136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (2), [[Hardware]] (2), ai (1), feature (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** find (1)
@@ -3226,8 +3228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Hardware]] (1), [[Engineering]] (1)
 > **Env Vars:** cpu (5), a100 (3), g11 (1), g14 (1), g16 (1)
-> **Code Keywords:** let (3), case. (1), case, (1)
 > **CLI Commands:** make (1)
 > **Versions:** 449.7 (1)
 > **Cross-References:** in the next (1)
@@ -3273,8 +3275,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), feature (1)
 > **Env Vars:** cpu (1), sla (1)
-> **Code Keywords:** this, (1)
 > **Versions:** 99.9 (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -3355,8 +3357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Hardware]] (1), next (1)
 > **Env Vars:** a100 (1), g16 (1), g18 (1), g20 (1)
-> **Code Keywords:** let (1), case, (1)
 > **Versions:** 647.73 (1), 1.8 (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -3367,7 +3369,7 @@ created: 2026-04-29
 
 ### 6. Other Costs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI copyright and legal risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980)
@@ -3422,7 +3424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case. (1), case, (1)
+> **Frameworks & Libraries:** ai (6), data (3), [[Microsoft]] (3), chatbot (3), [[Google]] (2)
 > **Code Identifiers:** itutorgroup (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -3454,6 +3456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Microsoft Products|Products]] (2), feature (2), [[ChatGPT]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -3575,7 +3578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), finally, (2), new. (1), this. (1), let (1)
+> **Frameworks & Libraries:** data (12), ai (10), [[Security]] (8), business (4), [[Red Teaming]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (4), such as (1)
 > **Env Vars:** rag (1), llm (1)
@@ -3686,7 +3689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), case, (1)
+> **Frameworks & Libraries:** ai (13), business (3), application (3), [[Microsoft Word|Word]] (1), feature (1)
 > **Analogies:** for example (4)
 > **Env Vars:** sla (2)
 > **Cross-References:** we talked about (1), next video (1)
@@ -3780,8 +3783,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), power (9), data (5), [[ChatGPT]] (3), next (3)
 > **Cross-References:** in the next (2), we talked about (1), in the last (1)
-> **Code Keywords:** let (1), require (1), finally, (1)
 > **Env Vars:** gpt (1), gpu (1), ram (1)
 > **Versions:** 4.2 (1), 6.6 (1), 5.4 (1)
 > **CLI Commands:** find (1), make (1)
@@ -3790,7 +3793,7 @@ created: 2026-04-29
 
 ### 7. Revenue-Generating Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unit and margin pricing for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980)
@@ -3899,7 +3902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), for. (1), case. (1)
+> **Frameworks & Libraries:** ai (5), product (3), [[Tokens]] (2), business (2), llm (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
@@ -3973,7 +3976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** cloud (4), next (2), ai (1), gcp (1), business (1)
 > **Env Vars:** gpu (1), gcp (1)
 > **Analogies:** similar to (2)
 > **Versions:** 0.50 (1)
@@ -4056,8 +4059,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), ai (2), [[Automation]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (2), data (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), case. (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
@@ -4159,9 +4162,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[SaaS]] (4), [[Microsoft]] (4), power (4), [[ChatGPT]] (3)
 > **Analogies:** for example (4), similar to (1)
 > **Definitions:** is a  (3), means that (1)
-> **Code Keywords:** case, (1), self (1), let (1)
 > **Env Vars:** gpt (3)
 > **Versions:** 3.6 (1), 3.5 (1)
 > **Cross-References:** in the next (2)
@@ -4243,6 +4246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), next (2)
 > **Definitions:** is called (3), is a  (3), is an  (1), stands for (1)
 > **Env Vars:** nrc (1), irap (1)
 > **CLI Commands:** make (1)
@@ -4335,9 +4339,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), business (3), [[DALL-E]] (3), [[SaaS]] (2), feature (1)
 > **Versions:** 3.99 (1), 13.99 (1), 99.7 (1), 71.4 (1)
 > **Env Vars:** dall (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -4447,7 +4451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (2), case, (1), require (1), continue (1)
+> **Frameworks & Libraries:** business (3), product (3), [[Financial Analysis]] (2), data (2), next (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** b2b (1), xyz (1), roi (1)
 > **Cross-References:** we discussed (1), in the next (1)
@@ -4588,7 +4592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (2), case, (2)
+> **Frameworks & Libraries:** business (6), [[Customer Support]] (3), next (2), [[Probability]] (2), [[Automation]] (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** csat (1)
@@ -4618,8 +4622,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), feature (2), ai (1), [[E-Commerce]] (1), [[SaaS]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case. (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -4731,7 +4735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), continue (2), let (1), require (1)
+> **Frameworks & Libraries:** ai (6), feature (4), business (2), next (2), [[E-Commerce]] (2)
 > **Cross-References:** in the next (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -4739,7 +4743,7 @@ created: 2026-04-29
 
 ### 8. ROI on AI Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ROI on AI customer support automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980)
@@ -4862,8 +4866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), [[Customer Support]] (11), product (3), business (2), [[Automation]] (2)
 > **Env Vars:** roi (6), gpt (1), rag (1)
-> **Code Keywords:** finally, (2), let (1), case, (1), private (1), this, (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** earlier in (1), as we saw (1)
@@ -4944,7 +4948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), finally, (2), let (1), continue (1)
+> **Frameworks & Libraries:** ai (22), data (6), [[Microsoft Products|Products]] (4), [[Automation]] (4), [[Lead Generation]] (3)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** roi (3)
 > **Definitions:** is a  (2)
@@ -5045,7 +5049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1), case, (1), raise (1), finally, (1)
+> **Frameworks & Libraries:** ai (18), [[Software Development]] (12), [[Google]] (6), [[GitHub]] (3), teams (3)
 > **Env Vars:** roi (2), ceo (1)
 > **Tools:** github (3)
 > **Versions:** java 8 (1), java 17 (1)
@@ -5145,8 +5149,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Automation]] (5), [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (2), [[Customer Support]] (1)
 > **Env Vars:** roi (10), gpt (1)
-> **Code Keywords:** let (2), case, (1), this, (1), finally, (1), continue (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2)
@@ -5155,7 +5159,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/next-steps?u=76281980)
@@ -5176,7 +5180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), business (3), [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

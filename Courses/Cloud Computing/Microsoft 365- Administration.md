@@ -31,7 +31,7 @@ tags:
   - skill/microsoft-365
   - skill/cloud-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20365-%20Administration.md)
@@ -50,39 +50,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Microsoft 365: Administration
-  - What should you know
+  - [Microsoft 365: Administration](#microsoft-365-administration)
+  - [What should you know](#what-should-you-know)
 - [**1. Managing Microsoft 365 General Settings**](#1-managing-microsoft-365-general-settings) (8 videos)
-  - Exploring Microsoft 365 core functionalities
-  - Exploring Microsoft 365 Admin Center: Part 1
-  - Exploring Microsoft 365 Admin Center: Part 2
-  - Managing domain names in Microsoft 365
-  - Managing licensing and products
-  - Managing general user settings
-  - Creating a Microsoft 365 user
-  - Manage Microsoft 365 by using PowerShell
+  - [Exploring Microsoft 365 core functionalities](#exploring-microsoft-365-core-functionalities)
+  - [Exploring Microsoft 365 Admin Center: Part 1](#exploring-microsoft-365-admin-center-part-1)
+  - [Exploring Microsoft 365 Admin Center: Part 2](#exploring-microsoft-365-admin-center-part-2)
+  - [Managing domain names in Microsoft 365](#managing-domain-names-in-microsoft-365)
+  - [Managing licensing and products](#managing-licensing-and-products)
+  - [Managing general user settings](#managing-general-user-settings)
+  - [Creating a Microsoft 365 user](#creating-a-microsoft-365-user)
+  - [Manage Microsoft 365 by using PowerShell](#manage-microsoft-365-by-using-powershell)
 - [**2. Managing Microsoft 365 Email Services**](#2-managing-microsoft-365-email-services) (5 videos)
-  - Get familiar with Exchange Admin Center
-  - Explore the recipients in Exchange Online
-  - Managing Exchange Online user mailboxes
-  - Exploring groups in Microsoft 365
-  - Manage resource mailboxes
+  - [Get familiar with Exchange Admin Center](#get-familiar-with-exchange-admin-center)
+  - [Explore the recipients in Exchange Online](#explore-the-recipients-in-exchange-online)
+  - [Managing Exchange Online user mailboxes](#managing-exchange-online-user-mailboxes)
+  - [Exploring groups in Microsoft 365](#exploring-groups-in-microsoft-365)
+  - [Manage resource mailboxes](#manage-resource-mailboxes)
 - [**3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance**](#3-managing-microsoft-365-sharepoint-teams-security-and-compliance) (4 videos)
-  - Managing the SharePoint admin center in Microsoft 365
-  - Managing the Microsoft Teams admin center in Microsoft 365
-  - Managing the Microsoft Entra admin center in Microsoft 365
-  - Managing Microsoft 365 Defender
+  - [Managing the SharePoint admin center in Microsoft 365](#managing-the-sharepoint-admin-center-in-microsoft-365)
+  - [Managing the Microsoft Teams admin center in Microsoft 365](#managing-the-microsoft-teams-admin-center-in-microsoft-365)
+  - [Managing the Microsoft Entra admin center in Microsoft 365](#managing-the-microsoft-entra-admin-center-in-microsoft-365)
+  - [Managing Microsoft 365 Defender](#managing-microsoft-365-defender)
 - [**4. Manage Microsoft 365 Authentication, Teams, and SharePoint**](#4-manage-microsoft-365-authentication-teams-and-sharepoint) (4 videos)
-  - Configure multifactor authentication
-  - Configuring SharePoint sites
-  - Managing Microsoft Teams settings
-  - Managing Microsoft Teams users
+  - [Configure multifactor authentication](#configure-multifactor-authentication)
+  - [Configuring SharePoint sites](#configuring-sharepoint-sites)
+  - [Managing Microsoft Teams settings](#managing-microsoft-teams-settings)
+  - [Managing Microsoft Teams users](#managing-microsoft-teams-users)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Beyond Microsoft 365 Administration
+  - [Beyond Microsoft 365 Administration](#beyond-microsoft-365-administration)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft 365: Administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980)
@@ -101,6 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft]] (1), [[Microsoft Office|Office]] (1), product (1), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** make (1)
 
 #### What should you know
@@ -116,6 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), product (1), [[Microsoft Office|Office]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **URLs:** [office.com](https://office.com) (1)
@@ -124,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Managing Microsoft 365 General Settings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Microsoft 365 core functionalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980)
@@ -163,9 +165,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (12), [[Microsoft Products|Products]] (6), [[Microsoft Office|Office]] (2), business (2), management (2)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (3)
-> **Code Keywords:** interface (1)
 
 #### Exploring Microsoft 365 Admin Center: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980)
@@ -260,9 +262,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (12), teams (6), [[Microsoft Entra ID|Entra id]] (5), [[Microsoft]] (4), [[Microsoft Entra ID]] (4)
 > **Analogies:** such as (4), for example (3)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (1), else. (1), case, (1)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** click on (1)
 > **Warnings:** keep in mind (1)
@@ -348,6 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (14), [[Microsoft]] (9), cloud (5), data (4), business (1)
 > **Prerequisites:** setup (4), set up (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
@@ -453,9 +456,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (15), [[Microsoft 365]] (9), dns (9)
 > **Env Vars:** dns (9), txt (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (4), [netlogon.com](https://netlogon.com) (2), [godaddy.com](https://godaddy.com) (1), [thisismydomainname.com](https://thisismydomainname.com) (1)
-> **Code Keywords:** let (4), public (1), default, (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Definitions:** means that (2), is a  (1)
 > **Prerequisites:** setup (2)
@@ -550,11 +553,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), [[Microsoft 365]] (6), [[Microsoft Products|Products]] (4), [[Microsoft]] (3), product (2)
 > **UI Navigation:** click on (7)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Warnings:** note that (1)
 
 #### Managing general user settings
@@ -618,8 +621,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft]] (3), data (3), [[Search]] (2), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (3), checkbox (2)
-> **Code Keywords:** let (1), case, (1)
 > **Cross-References:** previous video (2)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** known as (1)
@@ -715,8 +718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), next (3), [[Microsoft Teams]] (2), [[SharePoint]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (5)
-> **Code Keywords:** let (2), case, (1)
 > **Analogies:** such as (2)
 > **Best Practices:** good practice (1)
 > **Prerequisites:** required to (1)
@@ -818,18 +821,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Microsoft 365]] (7), [[Microsoft Azure|Azure]] (6), cloud (5), [[Microsoft Teams]] (5)
 > **Tools:** powershell (12), bash (2), azure portal (2)
 > **Definitions:** is a  (2), is an  (1), means that (1), stands for (1)
 > **Analogies:** for example (4)
 > **URLs:** [azure.com](https://azure.com) (2)
-> **Code Keywords:** case, (1)
 > **Env Vars:** cli (1)
 > **UI Navigation:** click on (1)
 
 
 ### 2. Managing Microsoft 365 Email Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get familiar with Exchange Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980)
@@ -916,7 +919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), let (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft]] (3), [[Microsoft Outlook|Outlook]] (3), web (3), product (2)
 > **Analogies:** such as (4)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** make (2)
@@ -1052,9 +1055,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Outlook|Outlook]] (5), [[Security]] (4), [[Microsoft Entra ID]] (3), product (2)
 > **Definitions:** is a  (7), means that (1)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** let (1), case, (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** gal (1)
@@ -1184,8 +1187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[Microsoft Entra ID|Entra]] (3), [[Microsoft]] (2), [[Microsoft 365]] (2), web (2)
 > **UI Navigation:** click on (6), go to (1)
-> **Code Keywords:** let (3), delete (2), require (1)
 > **Env Vars:** gal (1), mapi (1), pop3 (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Definitions:** is a  (2)
@@ -1315,7 +1318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (2), static (2), public (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (13), [[Security]] (8), [[Microsoft]] (6), teams (4), [[SharePoint]] (3)
 > **Definitions:** is a  (4), means that (1), basically means (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** find (1), make (1)
@@ -1422,7 +1425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), require (1), default. (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (2), next (2), [[Microsoft]] (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
@@ -1432,7 +1435,7 @@ created: 2026-04-29
 
 ### 3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing the SharePoint admin center in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980)
@@ -1541,8 +1544,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (31), data (10), [[Microsoft 365]] (6), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Products|Products]] (3)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (1), this, (1), default, (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** url (2)
 > **CLI Commands:** make (1)
@@ -1671,6 +1674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (27), [[Microsoft Teams]] (11), [[Microsoft]] (3), [[Microsoft 365]] (3), business (1)
 > **Definitions:** known as (3), is a  (2)
 > **Prerequisites:** configure (3)
 > **Env Vars:** pbx (1), pstn (1)
@@ -1754,7 +1758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), from, (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (15), [[Microsoft Entra ID]] (9), [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), [[Microsoft Entra ID|Entra id]] (2)
 > **Warnings:** note that (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** mfa (1)
@@ -1841,8 +1845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), [[Microsoft 365]] (8), [[Microsoft Defender|Defender]] (8), [[Microsoft]] (5), data (5)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Warnings:** be careful (1)
@@ -1851,7 +1855,7 @@ created: 2026-04-29
 
 ### 4. Manage Microsoft 365 Authentication, Teams, and SharePoint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure multifactor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980)
@@ -1934,8 +1938,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (7), [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (4), [[Security]] (2), [[Hardware]] (2)
 > **Env Vars:** mfa (16)
-> **Code Keywords:** require (2), let (2)
 > **UI Navigation:** click on (4)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** required to (2), set up (1)
@@ -2016,8 +2020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SharePoint]] (14), [[Microsoft]] (4), [[Microsoft 365]] (2), teams (1), [[Microsoft Teams]] (1)
 > **UI Navigation:** click on (5)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** url (1)
 > **Best Practices:** don't forget (1)
@@ -2121,7 +2125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (3), private (2), delete (2)
+> **Frameworks & Libraries:** teams (18), [[Microsoft]] (2), [[Microsoft Teams]] (2), business (2), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), such as (1)
@@ -2219,6 +2223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (18), [[Microsoft]] (4), [[Microsoft 365]] (3), cloud (1), business (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** such as (1), for example (1)
@@ -2229,7 +2234,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beyond Microsoft 365 Administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980)
@@ -2247,6 +2252,10 @@ created: 2026-04-29
 > **[0:31](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=31)** Some of those courses focus on Entra or Exchange Online. As well, you can browse through Microsoft Learn and go through the various documentations available from Microsoft Learns specifically on all of those workloads.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=45)** Good luck.
+
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (2), [[Microsoft 365]] (1), [[Microsoft Teams]] (1), [[SharePoint]] (1)
 
 
 ## Instructor

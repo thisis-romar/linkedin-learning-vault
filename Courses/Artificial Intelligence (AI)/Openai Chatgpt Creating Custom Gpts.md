@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Openai%20Chatgpt%20Creating%20Custom%20Gpts.md)
@@ -49,21 +49,21 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Build your own custom GPTs with ChatGPT
+  - [Build your own custom GPTs with ChatGPT](#build-your-own-custom-gpts-with-chatgpt)
 - [**1. Creating Custom GPTs**](#1-creating-custom-gpts) (7 videos)
-  - What is a GPT?
-  - Using existing GPTs
-  - Creating a GPT from scratch
-  - Adding web browsing, image creation, and data processing
-  - Adding knowledge to GPTs by uploading data
-  - Exploring privacy and copyright
-  - Adding custom actions
+  - [What is a GPT?](#what-is-a-gpt)
+  - [Using existing GPTs](#using-existing-gpts)
+  - [Creating a GPT from scratch](#creating-a-gpt-from-scratch)
+  - [Adding web browsing, image creation, and data processing](#adding-web-browsing-image-creation-and-data-processing)
+  - [Adding knowledge to GPTs by uploading data](#adding-knowledge-to-gpts-by-uploading-data)
+  - [Exploring privacy and copyright](#exploring-privacy-and-copyright)
+  - [Adding custom actions](#adding-custom-actions)
 - [**2. Going Further**](#2-going-further) (1 videos)
-  - Going further
+  - [Going further](#going-further)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your own custom GPTs with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/build-your-own-custom-gpts-with-chatgpt?u=76281980)
@@ -90,14 +90,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** ai (2), feature (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
 
 
 ### 1. Creating Custom GPTs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a GPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980)
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), this. (2), new, (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (3), feature (2), data (2), prompt (1)
 > **Env Vars:** gpt (4), api (1), gpts (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -237,9 +237,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3), next (1), [[Search]] (1)
 > **Env Vars:** gpt (8)
 > **CLI Commands:** find (3)
-> **Code Keywords:** finally, (1), let (1), case, (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1), in the sidebar (1)
 > **Analogies:** for example (1)
@@ -427,8 +427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), [[ChatGPT]] (4), prompt (4), [[Web Development]] (3), [[DALL-E]] (2)
 > **Env Vars:** gpt (24), mdn (3), dall (2), css (1)
-> **Code Keywords:** interface (5), let (4), case, (2), delete (2), switch (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** configure (4)
 > **Cross-References:** go back to (3)
@@ -479,8 +479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[Code Interpretation]] (2), prompt (1), web (1), feature (1)
 > **Env Vars:** gpt (10), dall (4)
-> **Code Keywords:** let (1), case, (1), this, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -551,9 +551,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (4), prompt (2), rag (2), feature (2), llm (1)
 > **Env Vars:** gpt (4), rag (2), llm (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** let (1), interface (1), this, (1)
 > **Definitions:** refers to (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -673,8 +673,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (8), data (8), feature (2), [[Privacy]] (2), api (2)
 > **Env Vars:** gpt (12), api (2), llm (1)
-> **Code Keywords:** private (4), let (2), default, (2), this. (2), interface (1)
 > **UI Navigation:** click on (1), go to (1), in the sidebar (1), open the (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
@@ -776,8 +776,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), data (6), feature (3), [[ChatGPT]] (2), [[Databases]] (2)
 > **Env Vars:** gpt (14), api (10), http (1), json (1), iot (1)
-> **Code Keywords:** let (3), this, (3), pass (2), case, (1)
 > **UI Navigation:** go to (2), click on (1)
 > **URLs:** [openuv.io](https://openuv.io) (2)
 > **API Endpoints:** /v1/uv (2)
@@ -788,7 +788,7 @@ created: 2026-04-29
 
 ### 2. Going Further
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going further
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980)
@@ -843,8 +843,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (3), ai (2), feature (1), [[Large Language Models (LLM)|Large language models]] (1), [[Prompt Engineering]] (1)
 > **CLI Commands:** make (1), go build (1)
-> **Code Keywords:** interface (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)

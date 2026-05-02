@@ -36,7 +36,7 @@ tags:
   - skill/data-classification
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Machine%20Learning%20and%20AI%20Foundations-%20Classification%20Modeling.md)
@@ -55,49 +55,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Classification problems in machine learning
-  - What you should know
-  - Defining terms
+  - [Classification problems in machine learning](#classification-problems-in-machine-learning)
+  - [What you should know](#what-you-should-know)
+  - [Defining terms](#defining-terms)
 - [**1. The Big Picture: Defining Your Classification Strategy**](#1-the-big-picture-defining-your-classification-strategy) (6 videos)
-  - The importance of binary classification
-  - Binary vs. multinomial
-  - So-called “black box” techniques
-  - One task, many algorithms
-  - Statistics vs. machine learning
-  - Model assessment vs. business evaluation
+  - [The importance of binary classification](#the-importance-of-binary-classification)
+  - [Binary vs. multinomial](#binary-vs-multinomial)
+  - [So-called “black box” techniques](#so-called-black-box-techniques)
+  - [One task, many algorithms](#one-task-many-algorithms)
+  - [Statistics vs. machine learning](#statistics-vs-machine-learning)
+  - [Model assessment vs. business evaluation](#model-assessment-vs-business-evaluation)
 - [**2. How Do I Choose a "Winner"?**](#2-how-do-i-choose-a-winner) (4 videos)
-  - Training and test partitions
-  - Lift Charts
-  - Gains tables
-  - Confusion matrix
+  - [Training and test partitions](#training-and-test-partitions)
+  - [Lift Charts](#lift-charts)
+  - [Gains tables](#gains-tables)
+  - [Confusion matrix](#confusion-matrix)
 - [**3. Algorithms on Parade**](#3-algorithms-on-parade) (14 videos)
-  - Overview
-  - Discriminant with three categories
-  - Discriminant with two categories
-  - Stepwise discriminant
-  - Logistic regression
-  - Stepwise logistic regression
-  - Decision Trees
-  - KNN
-  - Linear SVM
-  - Neural nets
-  - Bayesian networks
-  - Heterogenous ensembles
-  - Bagging and random forest
-  - Boosting and XGBoost
+  - [Overview](#overview)
+  - [Discriminant with three categories](#discriminant-with-three-categories)
+  - [Discriminant with two categories](#discriminant-with-two-categories)
+  - [Stepwise discriminant](#stepwise-discriminant)
+  - [Logistic regression](#logistic-regression)
+  - [Stepwise logistic regression](#stepwise-logistic-regression)
+  - [Decision Trees](#decision-trees)
+  - [KNN](#knn)
+  - [Linear SVM](#linear-svm)
+  - [Neural nets](#neural-nets)
+  - [Bayesian networks](#bayesian-networks)
+  - [Heterogenous ensembles](#heterogenous-ensembles)
+  - [Bagging and random forest](#bagging-and-random-forest)
+  - [Boosting and XGBoost](#boosting-and-xgboost)
 - [**4. Common Modeling Challenges**](#4-common-modeling-challenges) (6 videos)
-  - Imbalanced target categories
-  - Interactions
-  - Missing data
-  - Bias-variance trade-off and overfitting
-  - Data reduction
-  - AutoML
+  - [Imbalanced target categories](#imbalanced-target-categories)
+  - [Interactions](#interactions)
+  - [Missing data](#missing-data)
+  - [Bias-variance trade-off and overfitting](#bias-variance-trade-off-and-overfitting)
+  - [Data reduction](#data-reduction)
+  - [AutoML](#automl)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classification problems in machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/classification-problems-in-machine-learning-20201180?u=76281980)
@@ -122,8 +122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [keith] (1)
 
 #### What you should know
@@ -161,9 +161,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1), [[Knime]] (1), [[Predictive Analytics]] (1), [[Statistics]] (1)
 > **Env Vars:** sas (1), spss (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - let (1)
 
@@ -240,7 +240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.0 (1)
 > **Tools:** notion (1)
@@ -252,7 +252,7 @@ created: 2026-04-29
 
 ### 1. The Big Picture: Defining Your Classification Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of binary classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980)
@@ -287,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (4), data (3), management (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -350,8 +350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Statistics]] (1), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** require (1), else, (1)
 > **Analogies:** for instance (2)
 > **Best Practices:** you should never (1)
 > **Warnings:** caution (1)
@@ -408,8 +408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (1), [[Logistic Regression]] (1)
 > **Analogies:** for instance (2), imagine (1)
-> **Code Keywords:** this. (1), try. (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -456,6 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (2), application (1), game (1), strengths (1)
 > **Documentation:** specification (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -517,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Statistics]] (3), data (2), [[Python (Programming Language)|Python]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -555,6 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), data (1), [[Predictive Analytics]] (1), [[CRISP-DM]] (1), management (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** crisp (1)
 > **Speakers:** - [instructor] (1)
@@ -562,7 +564,7 @@ created: 2026-04-29
 
 ### 2. How Do I Choose a "Winner"?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Training and test partitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980)
@@ -615,7 +617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), this. (1)
+> **Frameworks & Libraries:** data (14), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Best Practices:** general rule (1), recommended (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** kpi (1)
@@ -656,7 +658,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -718,8 +719,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Probability]] (3), feature (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), this. (1)
 > **Versions:** 0.41 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -803,7 +804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (1)
 > **Versions:** 79.8 (1), 74.2 (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -811,7 +812,7 @@ created: 2026-04-29
 
 ### 3. Algorithms on Parade
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/overview?u=76281980)
@@ -856,8 +857,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (9), data (4), next (1), feature (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -985,7 +986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (6), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Linear Regression]] (2), [[Supervised Learning]] (1)
 > **Analogies:** imagine (2), picture (1)
 > **CLI Commands:** find (2)
 > **Versions:** 2.8 (1)
@@ -1115,7 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (5), let (3), class. (2), case. (1), finally, (1)
+> **Frameworks & Libraries:** data (8), next (1), [[Linear Regression]] (1)
 > **Versions:** 4.781 (1), 0.123 (1), 1.449 (1), 2.193 (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (1)
@@ -1142,7 +1143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (2), case. (1)
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1345,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class, (4), class. (3), function (2), continue (1)
+> **Frameworks & Libraries:** data (9), [[Logistic Regression]] (8), [[Algorithms]] (4), [[Probability]] (4), [[Linear Regression]] (2)
 > **Env Vars:** exp (4)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 0.064 (1), 13.8 (1)
@@ -1385,7 +1386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1), let (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (1), [[Algorithms]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Decision Trees
@@ -1475,7 +1476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (2), class. (1), this: (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (6), node (5), data (4), [[Algorithms]] (3)
 > **CLI Commands:** node (5)
 > **Versions:** 98.7 (2)
 > **Definitions:** is a  (1)
@@ -1548,8 +1549,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Decision Trees]] (1), hit (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), class, (1)
 > **Tools:** notion (2)
 > **Definitions:** is a  (1), refers to (1)
 > **UI Navigation:** go to (1)
@@ -1707,7 +1708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), this, (2), class, (2), abstract (1)
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (7), [[Deep Learning]] (2), [[Logistic Regression]] (2), application (1)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Analogies:** imagine (4)
@@ -1839,7 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), let (3), finally, (1), require (1), class. (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (7), [[Deep Learning]] (6), hit (3), next (2), [[Speech Recognition]] (1)
 > **Definitions:** is a  (3), refers to (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** spss (1)
@@ -1966,7 +1967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (3), let (3), case, (2), continue (1), class. (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Statistics]] (3), [[Zoom]] (2), data (1), career (1)
 > **CLI Commands:** make (3), find (2), node (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Warnings:** keep in mind (1), note that (1)
@@ -2039,7 +2040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), data (2), [[Logistic Regression]] (1), [[IBM SPSS]] (1), [[Predictive Analytics]] (1)
 > **Env Vars:** ibm (1), spss (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Warnings:** keep in mind (2)
@@ -2115,7 +2116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (2), [[Decision Trees]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
@@ -2154,6 +2155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Decision Trees]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -2161,7 +2163,7 @@ created: 2026-04-29
 
 ### 4. Common Modeling Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Imbalanced target categories
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/imbalanced-target-categories?u=76281980)
@@ -2230,7 +2232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), this, (1)
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (2), prompt (1)
 > **Definitions:** is a  (1), is an  (1), in other words (1)
 > **Cross-References:** go back to (2)
 > **Versions:** 38.5 (1)
@@ -2305,7 +2307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), require (1)
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), [[Logistic Regression]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (3)
 > **Versions:** 14.685 (1)
@@ -2369,7 +2371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), if, (1)
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (4), [[Decision Trees]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** checkbox (2)
 > **Tools:** notion (1)
@@ -2492,7 +2494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), abstract (1), this, (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), data (4), [[Neural Networks]] (1), [[Predictive Modeling]] (1), [[Logistic Regression]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** pdf (1)
@@ -2624,7 +2626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), this. (2), case, (1), let (1), for, (1)
+> **Frameworks & Libraries:** data (6), feature (6), [[Algorithms]] (4), [[Statistics]] (3), bi (1)
 > **Analogies:** for instance (3), picture (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -2684,7 +2686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2)
+> **Frameworks & Libraries:** [[Algorithms]] (7), data (2), [[IBM SPSS]] (1), [[Knime]] (1), [[Logistic Regression]] (1)
 > **Prerequisites:** set up (3), setup (2)
 > **Env Vars:** ibm (1), spss (1), knn (1), knime (1)
 > **CLI Commands:** python (1)
@@ -2695,7 +2697,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980)
@@ -2728,8 +2730,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), next (1), data (1), [[Python (Programming Language)|Python]] (1), [[Knime]] (1)
 > **Env Vars:** knime (1), ibm (1), spss (1)
-> **Code Keywords:** try, (1), let (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)

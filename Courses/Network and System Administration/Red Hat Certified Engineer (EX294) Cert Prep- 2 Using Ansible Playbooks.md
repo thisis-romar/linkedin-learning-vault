@@ -30,7 +30,7 @@ tags:
   - skill/red-hat-enterprise-linux-rhel
   - skill/ansible
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20Engineer%20(EX294)%20Cert%20Prep-%202%20Using%20Ansible%20Playbooks.md)
@@ -49,52 +49,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Introduction
-  - What you should know
-  - About the EX294 exam
-  - Reconfigure-Migrate CentOS
+  - [Introduction](#introduction)
+  - [What you should know](#what-you-should-know)
+  - [About the EX294 exam](#about-the-ex294-exam)
+  - [Reconfigure-Migrate CentOS](#reconfigure-migrate-centos)
 - [**1. Working with Playbooks**](#1-working-with-playbooks) (9 videos)
-  - Introduction to playbooks
-  - Playbook language
-  - YAML tips and tricks
-  - Install the Atom editor
-  - Configure VIM for YAML
-  - Playbook hosts and users
-  - Playbook tasks list
-  - Playbook change handlers
-  - Verify Playbooks
+  - [Introduction to playbooks](#introduction-to-playbooks)
+  - [Playbook language](#playbook-language)
+  - [YAML tips and tricks](#yaml-tips-and-tricks)
+  - [Install the Atom editor](#install-the-atom-editor)
+  - [Configure VIM for YAML](#configure-vim-for-yaml)
+  - [Playbook hosts and users](#playbook-hosts-and-users)
+  - [Playbook tasks list](#playbook-tasks-list)
+  - [Playbook change handlers](#playbook-change-handlers)
+  - [Verify Playbooks](#verify-playbooks)
 - [**2. Creating Reusable Playbooks**](#2-creating-reusable-playbooks) (5 videos)
-  - Create structured configuration
-  - About playbook roles
-  - Creating roles
-  - Static and dynamic content
-  - Using includes in Playbooks
+  - [Create structured configuration](#create-structured-configuration)
+  - [About playbook roles](#about-playbook-roles)
+  - [Creating roles](#creating-roles)
+  - [Static and dynamic content](#static-and-dynamic-content)
+  - [Using includes in Playbooks](#using-includes-in-playbooks)
 - [**3. Using Variables**](#3-using-variables) (4 videos)
-  - Setting inventory and playbook variables
-  - Using variables
-  - Registering variables
-  - Discovering variables from facts
+  - [Setting inventory and playbook variables](#setting-inventory-and-playbook-variables)
+  - [Using variables](#using-variables)
+  - [Registering variables](#registering-variables)
+  - [Discovering variables from facts](#discovering-variables-from-facts)
 - [**4. Using Flow Control**](#4-using-flow-control) (6 videos)
-  - The when statement
-  - Looping methods in Ansible
-  - Looping with lists
-  - Looping with dictionaries
-  - Looping and conditionals
-  - Registering variables in loops
+  - [The when statement](#the-when-statement)
+  - [Looping methods in Ansible](#looping-methods-in-ansible)
+  - [Looping with lists](#looping-with-lists)
+  - [Looping with dictionaries](#looping-with-dictionaries)
+  - [Looping and conditionals](#looping-and-conditionals)
+  - [Registering variables in loops](#registering-variables-in-loops)
 - [**5. Grouping Content**](#5-grouping-content) (3 videos)
-  - Using blocks
-  - Block error handling
-  - Using tags
+  - [Using blocks](#using-blocks)
+  - [Block error handling](#block-error-handling)
+  - [Using tags](#using-tags)
 - [**6. Using Ansible to Deploy Files**](#6-using-ansible-to-deploy-files) (3 videos)
-  - Using Jinja2 template files
-  - Using modules to manipulate files
-  - Deploying files from templates
+  - [Using Jinja2 template files](#using-jinja2-template-files)
+  - [Using modules to manipulate files](#using-modules-to-manipulate-files)
+  - [Deploying files from templates](#deploying-files-from-templates)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980)
@@ -123,9 +123,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ansible]] (3), [[IT Automation]] (2), [[Engineering]] (1), [[Higher Education]] (1)
 > **Env Vars:** rhce (4), ex294 (4)
 > **CLI Commands:** ansible (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -188,10 +188,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (13), [[Ansible]] (6), [[Windows]] (3), [[Virtual Machines]] (2), [[Virtualization]] (2)
 > **Env Vars:** ex294 (3), amd (3), cpu (1), iso (1), ram (1)
 > **CLI Commands:** ansible (6), make (1), node (1)
 > **Prerequisites:** install (3), you'll need (2), make sure you have (1), set up (1), setup (1)
-> **Code Keywords:** private (1), static (1)
 > **Code Identifiers:** macos (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** such as (1)
@@ -288,10 +288,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), [[IT Automation]] (3), [[System Administration]] (1), business (1)
 > **Env Vars:** rhce (13), ex294 (7), rhcsa (4), ex200 (4), rhca (2)
 > **CLI Commands:** ansible (6)
 > **Prerequisites:** required to (2), configure (2), install (1), you'll need (1)
-> **Code Keywords:** pass (2), require (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** similar to (1), such as (1)
 > **Versions:** 2.8 (1)
@@ -406,6 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (5), cd (4), web (2), [[GitHub]] (2)
 > **CLI Commands:** sudo (5), cd (4), sed (2), make (1), yum (1)
 > **UI Navigation:** click on (12), go to (1)
 > **Tools:** terminal (3), github (2), bash (2)
@@ -413,12 +414,11 @@ created: 2026-04-29
 > **Prerequisites:** install (3), you'll need (2)
 > **File Paths:** migrate2rocky.sh (2)
 > **Definitions:** is an  (1), is a  (1)
-> **Env Vars:** url (1)
 
 
 ### 1. Working with Playbooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to playbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980)
@@ -459,9 +459,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Configuration Management]] (1), [[Microsoft Azure|Azure]] (1), [[Git]] (1), next (1)
 > **CLI Commands:** ansible (6), git (1)
 > **Env Vars:** ex294 (1), yaml (1)
-> **Code Keywords:** module (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -532,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (2), abstract (1), case, (1)
+> **Frameworks & Libraries:** web (3), [[Ansible]] (2), [[Programming]] (1), game (1), dns (1)
 > **CLI Commands:** ansible (2), yum (2), apache (1)
 > **Env Vars:** yaml (3), dns (1), http (1)
 > **Definitions:** is a  (2)
@@ -656,9 +656,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Ansible]] (4), [[Programming]] (3), next (3), [[JSON]] (2)
 > **Env Vars:** yaml (24), json (2), ini (1), xml (1)
 > **CLI Commands:** ansible (4), make (2), python (1), yum (1), find (1)
-> **Code Keywords:** let (3), this. (1), module (1), switch (1)
 > **Tools:** atom (2), emacs (1), vim (1)
 > **Analogies:** such as (3), for instance (1)
 > **URLs:** [treedoc.org](https://treedoc.org) (1), [yaml.org](https://yaml.org) (1)
@@ -726,12 +726,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[GitHub]] (1)
 > **Tools:** atom (14), github (1), vim (1), terminal (1)
 > **CLI Commands:** yum (3), sudo (2), make (1)
 > **Prerequisites:** install (3), configure (1)
 > **Env Vars:** yaml (2), vim (1)
 > **URLs:** [https://packagecloud.io/atomeditor](https://packagecloud.io/atomeditor) (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -862,9 +862,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Git]] (3), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** vim (14), yaml (13), vimrc (4), sts (2), yml (1)
 > **Tools:** vim (15), terminal (1), github (1)
-> **Code Keywords:** let (6), for. (1), extends (1), default, (1)
 > **CLI Commands:** git (3), sudo (1), yum (1), mkdir (1), cd (1)
 > **Prerequisites:** install (7)
 > **Exercise Files:** exercise files (3)
@@ -1008,9 +1008,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (10), hit (1), web (1), [[Windows]] (1), prompt (1)
 > **CLI Commands:** ansible (10), apache (9), ssh (3), make (2), sudo (2)
 > **Code Identifiers:** remote_user (12), become_user (6), become_method (2), http_port (1), become_flags (1)
-> **Code Keywords:** module (13), let (3), this. (1), switch (1), pass (1)
 > **Analogies:** such as (4), for instance (3), for example (1)
 > **Tools:** vim (3), atom (1)
 > **Env Vars:** ex294 (2), posix (1)
@@ -1086,7 +1086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (8), let (1), case, (1)
+> **Frameworks & Libraries:** [[Ansible]] (2), next (1), application (1), web (1)
 > **CLI Commands:** ansible (2), make (1)
 > **Analogies:** such as (2)
 > **URLs:** [localnet.com](https://localnet.com) (1)
@@ -1174,8 +1174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (5), functional (3), web (3), generic (2), node (1)
 > **CLI Commands:** apache (6), ansible (5), make (3), node (1)
-> **Code Keywords:** let (4), module (3), this, (1), this. (1)
 > **Analogies:** for instance (2), just like (1)
 > **Versions:** 2.2 (1)
 > **Cross-References:** go back to (1)
@@ -1254,17 +1254,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (16), hit (8), [[Python (Programming Language)|Python]] (2), [[Troubleshooting]] (1), cd (1)
 > **CLI Commands:** ansible (16), apache (8), pip (4), python (2), cd (1)
 > **Prerequisites:** install (6)
 > **Tools:** terminal (1), vim (1), command line (1)
-> **Code Keywords:** default. (1), let (1)
 > **Env Vars:** yaml (2)
 > **Speakers:** - to (1)
 
 
 ### 2. Creating Reusable Playbooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create structured configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980)
@@ -1417,8 +1417,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), [[Ansible]] (9), dns (1), [[Virtual Machines]] (1), cd (1)
 > **CLI Commands:** ansible (9), ssh (3), mkdir (2), make (1), find (1)
-> **Code Keywords:** let (6), interface (5), static (2), switch (1), this. (1)
 > **Env Vars:** ssh (3), ex294 (2), atse (2), dns (1), nat (1)
 > **Versions:** 192.168.3 (6)
 > **Prerequisites:** setup (3), configure (2), install (1)
@@ -1511,10 +1511,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (3), data (1), web (1), [[Metadata]] (1)
 > **File Paths:** meta/main.yml (3), main.yml (2), handlers/main.yml (1), vars/main.yml (1), defaults/main.yml (1)
 > **CLI Commands:** ansible (3), make (1), apache (1), nginx (1)
 > **Analogies:** for instance (3), such as (1)
-> **Code Keywords:** require (2)
 > **Warnings:** note that (2)
 > **Code Identifiers:** allow_duplicates (1)
 > **Versions:** 2.4 (1)
@@ -1577,9 +1577,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (7), hit (4)
 > **Env Vars:** yml (6), vim (3), yalm (1), yaml (1), yum (1)
 > **CLI Commands:** ansible (7), yum (2), make (1)
-> **Code Keywords:** let (3), this, (2), module (2), static (1)
 > **Tools:** vim (3)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1677,8 +1677,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (14)
 > **CLI Commands:** ansible (14)
-> **Code Keywords:** static (6), import, (2), include, (2), this. (1), include. (1)
 > **Code Identifiers:** include_role (2), include_tasks (1), import_playbook (1), import_role (1), import_tasks (1)
 > **Versions:** 2.3 (2), 2.4 (1)
 > **Analogies:** for instance (2), such as (1)
@@ -1803,9 +1803,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (14), [[Ansible]] (8), hit (6), cd (2), traffic (1)
 > **CLI Commands:** apache (10), ansible (8), cd (2), yum (2), make (1)
 > **File Paths:** main.yml (4), apache.yml (4), site.yml (4)
-> **Code Keywords:** let (5), module (5)
 > **Prerequisites:** install (8), configure (1)
 > **Env Vars:** yaml (3), tcp (1)
 > **Tools:** vim (3)
@@ -1815,7 +1815,7 @@ created: 2026-04-29
 
 ### 3. Using Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting inventory and playbook variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980)
@@ -1906,9 +1906,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (6), node (3), web (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (6), ssh (5), node (3), find (3), python (1)
 > **Env Vars:** yaml (6), ssh (5), ini (5), ymi (1), ameco (1)
-> **Code Keywords:** this, (2), static (1), this. (1), else, (1), switch (1)
 > **Analogies:** for instance (4), similar to (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
@@ -2054,9 +2054,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (15), [[Ansible]] (12), hit (5), [[JSON]] (5), cd (3)
 > **CLI Commands:** ansible (12), apache (6), cd (3), ls (2), make (1)
 > **Env Vars:** yml (9), json (5), mac (1), sha1 (1), md5 (1)
-> **Code Keywords:** let (7), this. (1), case, (1)
 > **Analogies:** for instance (4), such as (2)
 > **Prerequisites:** install (4)
 > **Tools:** vim (2), terminal (1)
@@ -2124,8 +2124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (5), data (4), hit (2), cd (1)
 > **CLI Commands:** ansible (5), grep (1), cd (1)
-> **Code Keywords:** module (3), let (2), this. (1), var (1)
 > **Env Vars:** bash (1), name (1), grep (1)
 > **UI Navigation:** go to (2), scroll up (1)
 > **File Paths:** lockdown.sh (1), site.yml (1)
@@ -2240,8 +2240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (24), web (4), hit (4), data (1), cd (1)
 > **CLI Commands:** ansible (24), yum (1), cd (1)
-> **Code Keywords:** let (4), module (3), type. (2), interface (1), finally, (1)
 > **Env Vars:** ipv (4), yml (3), vim (1), yaml (1)
 > **Analogies:** for instance (3), such as (3), just like (1)
 > **Prerequisites:** setup (2), set up (1)
@@ -2252,7 +2252,7 @@ created: 2026-04-29
 
 ### 4. Using Flow Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The when statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/the-when-statement?u=76281980)
@@ -2353,8 +2353,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (7), next (2), generic (1), data (1), [[Scripting]] (1)
 > **CLI Commands:** ansible (7), yum (2)
-> **Code Keywords:** module (3), case, (1), this. (1), match, (1)
 > **Tools:** bash (5)
 > **Env Vars:** url (3), rpm (1)
 > **Versions:** version 8 (2), version 7 (2)
@@ -2435,7 +2435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), pass (1)
+> **Frameworks & Libraries:** data (4), [[Ansible]] (3), hit (2), power (1)
 > **CLI Commands:** ansible (3)
 > **Analogies:** such as (2), for instance (1)
 > **Documentation:** the documentation (2)
@@ -2549,8 +2549,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (7), hit (6), cd (3), next (1)
 > **CLI Commands:** ansible (7), yum (4), cd (3), python3 (2)
-> **Code Keywords:** let (5), override (3), switch (1), module (1)
 > **Code Identifiers:** base_packages (4), group_vars (4), with_items (2)
 > **Prerequisites:** install (4)
 > **File Paths:** main.yml (2), site.yml (1)
@@ -2659,9 +2659,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Ansible]] (6), data (2), cd (2)
 > **CLI Commands:** ansible (6), cd (2), apache (2), ssh (2), cat (1)
 > **File Paths:** loop-dictionary.yml (3), main.yml (2), site.yml (1)
-> **Code Keywords:** let (3), pass (1), module (1)
 > **Code Identifiers:** zr (2)
 > **Tools:** vim (2)
 > **UI Navigation:** go to (1), scroll up (1)
@@ -2721,7 +2721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), static (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Ansible]] (2), [[Microsoft Word|Word]] (1)
 > **File Paths:** loop-list-conditional.yml (1), loop-dict-conditional.yml (1)
 > **CLI Commands:** ansible (2)
 > **Exercise Files:** exercise files (2)
@@ -2811,7 +2811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (2), var (1), break. (1)
+> **Frameworks & Libraries:** hit (4), [[Ansible]] (2), next (1)
 > **CLI Commands:** cat (3), ansible (2), find (1), make (1)
 > **Env Vars:** cat (3), win (1), dva (1)
 > **Tools:** vim (4)
@@ -2823,7 +2823,7 @@ created: 2026-04-29
 
 ### 5. Grouping Content
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-blocks?u=76281980)
@@ -2898,8 +2898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (9), data (1), hit (1)
 > **CLI Commands:** ansible (9), apache (1)
-> **Code Keywords:** let (2), this. (1), continue (1)
 > **Env Vars:** vim (4)
 > **Tools:** vim (4)
 > **File Paths:** ansible-block.yml (3)
@@ -3004,9 +3004,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (4), hit (2), next (2), feature (1), [[Programming]] (1)
 > **Tools:** vim (3), terminal (2)
 > **CLI Commands:** ansible (4)
-> **Code Keywords:** let (2), switch (1), this. (1)
 > **Code Identifiers:** ansible_failed_task (1), ansible_failed_result (1)
 > **Env Vars:** yml (2)
 > **UI Navigation:** go to (1), switch to (1)
@@ -3090,8 +3090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (2), data (1)
 > **CLI Commands:** ansible (2), make (1), yum (1)
-> **Code Keywords:** let (3), module (1)
 > **Analogies:** such as (2), for instance (1)
 > **Code Identifiers:** include_role (1), include_task (1)
 > **Prerequisites:** install (2)
@@ -3102,7 +3102,7 @@ created: 2026-04-29
 
 ### 6. Using Ansible to Deploy Files
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Jinja2 template files
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980)
@@ -3215,13 +3215,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (12), data (5), hit (3), next (2), [[Debugging]] (1)
 > **CLI Commands:** ansible (12), ssh (2), python (1), make (1), cat (1)
 > **Exercise Files:** template (8), exercise files (1)
 > **Env Vars:** archos (4), mac (1), yaml (1), ssh (1)
 > **File Paths:** welcome.yml (3), welcome.txt (2)
 > **Tools:** vim (2), terminal (2), command line (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (2), module (1)
 > **Code Identifiers:** group_vars (1), host_vars (1)
 
 #### Using modules to manipulate files
@@ -3301,7 +3301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (15), this. (2), let (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Fetch]] (2), [[Ansible]] (1), node (1), [[Linux]] (1)
 > **CLI Commands:** ssh (2), ansible (1), make (1), node (1)
 > **Analogies:** such as (2), for instance (2)
 > **Code Identifiers:** win_file (1), win_copy (1), sshd_config (1)
@@ -3431,9 +3431,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (17), hit (12), cd (3), next (2)
 > **CLI Commands:** ansible (17), yum (5), cd (3), cp (2), make (1)
 > **Env Vars:** gpg (10), rpm (3), epel (1)
-> **Code Keywords:** let (4), delete (3), module (3), function (1)
 > **Exercise Files:** template (8), exercise files (2)
 > **Tools:** vim (3)
 > **UI Navigation:** go to (2)
@@ -3443,7 +3443,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980)
@@ -3468,9 +3468,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (7), [[IT Automation]] (1)
 > **CLI Commands:** ansible (7)
 > **Env Vars:** ex294 (2)
-> **Code Keywords:** static (1)
 > **Speakers:** - [instructor] (1)
 
 

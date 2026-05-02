@@ -39,7 +39,7 @@ tags:
   - skill/javascript
   - skill/react-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Modern%20Projects%20with%20React.md)
@@ -58,76 +58,76 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Let's build modern projects with React
-  - What you should know
+  - [Let's build modern projects with React](#lets-build-modern-projects-with-react)
+  - [What you should know](#what-you-should-know)
 - [**1. Project Setup**](#1-project-setup) (1 videos)
-  - Basic setup and exercise files
+  - [Basic setup and exercise files](#basic-setup-and-exercise-files)
 - [**2. Project Overview**](#2-project-overview) (2 videos)
-  - Why use the React ecosystem?
-  - Meet the React ecosystem tools
+  - [Why use the React ecosystem?](#why-use-the-react-ecosystem)
+  - [Meet the React ecosystem tools](#meet-the-react-ecosystem-tools)
 - [**3. Creating React Projects from Scratch**](#3-creating-react-projects-from-scratch) (5 videos)
-  - Building a React project from scratch
-  - The React entry point
-  - Creating a React script
-  - Using webpack to build a React app
-  - Adding more components
+  - [Building a React project from scratch](#building-a-react-project-from-scratch)
+  - [The React entry point](#the-react-entry-point)
+  - [Creating a React script](#creating-a-react-script)
+  - [Using webpack to build a React app](#using-webpack-to-build-a-react-app)
+  - [Adding more components](#adding-more-components)
 - [**4. Creating Projects with Vite, Next.js, Remix, and More**](#4-creating-projects-with-vite-nextjs-remix-and-more) (4 videos)
-  - Create a project with Create React App
-  - Create a project with Vite
-  - Create a project with Next.js
-  - Create a project with Remix
+  - [Create a project with Create React App](#create-a-project-with-create-react-app)
+  - [Create a project with Vite](#create-a-project-with-vite)
+  - [Create a project with Next.js](#create-a-project-with-nextjs)
+  - [Create a project with Remix](#create-a-project-with-remix)
 - [**5. Creating a Basic Project**](#5-creating-a-basic-project) (5 videos)
-  - Meet the sample app
-  - Creating the TodoList component
-  - Creating the TodoListItem component
-  - Creating the NewTodoForm component
-  - Putting the app together
+  - [Meet the sample app](#meet-the-sample-app)
+  - [Creating the TodoList component](#creating-the-todolist-component)
+  - [Creating the TodoListItem component](#creating-the-todolistitem-component)
+  - [Creating the NewTodoForm component](#creating-the-newtodoform-component)
+  - [Putting the app together](#putting-the-app-together)
 - [**6. Adding Redux**](#6-adding-redux) (11 videos)
-  - Why do we need Redux?
-  - How does Redux work?
-  - Adding Redux to a React app
-  - Creating Redux actions
-  - Creating reducers
-  - Loading data from the store
-  - Dispatching Redux actions
-  - Adding action payloads
-  - Challenge: Adding a Redux flow
-  - Solution: Adding a Redux flow
-  - Redux DevTools
+  - [Why do we need Redux?](#why-do-we-need-redux)
+  - [How does Redux work?](#how-does-redux-work)
+  - [Adding Redux to a React app](#adding-redux-to-a-react-app)
+  - [Creating Redux actions](#creating-redux-actions)
+  - [Creating reducers](#creating-reducers)
+  - [Loading data from the store](#loading-data-from-the-store)
+  - [Dispatching Redux actions](#dispatching-redux-actions)
+  - [Adding action payloads](#adding-action-payloads)
+  - [Challenge: Adding a Redux flow](#challenge-adding-a-redux-flow)
+  - [Solution: Adding a Redux flow](#solution-adding-a-redux-flow)
+  - [Redux DevTools](#redux-devtools)
 - [**7. Alternatives to Redux**](#7-alternatives-to-redux) (2 videos)
-  - State management with Recoil
-  - State management with MobX
+  - [State management with Recoil](#state-management-with-recoil)
+  - [State management with MobX](#state-management-with-mobx)
 - [**8. Dealing with Side Effects**](#8-dealing-with-side-effects) (10 videos)
-  - Why do we need Redux-Thunk?
-  - How does Redux-Thunk work?
-  - The Todos API
-  - Keeping track of the loading state
-  - Loading data with Thunks
-  - Refactoring the to-dos reducer
-  - Using Thunks to create server resources
-  - Using Thunks to delete server resources
-  - Challenge: Using Thunks to update server resources
-  - Solution: Using Thunks to update server resources
+  - [Why do we need Redux-Thunk?](#why-do-we-need-redux-thunk)
+  - [How does Redux-Thunk work?](#how-does-redux-thunk-work)
+  - [The Todos API](#the-todos-api)
+  - [Keeping track of the loading state](#keeping-track-of-the-loading-state)
+  - [Loading data with Thunks](#loading-data-with-thunks)
+  - [Refactoring the to-dos reducer](#refactoring-the-to-dos-reducer)
+  - [Using Thunks to create server resources](#using-thunks-to-create-server-resources)
+  - [Using Thunks to delete server resources](#using-thunks-to-delete-server-resources)
+  - [Challenge: Using Thunks to update server resources](#challenge-using-thunks-to-update-server-resources)
+  - [Solution: Using Thunks to update server resources](#solution-using-thunks-to-update-server-resources)
 - [**9. Selectors**](#9-selectors) (4 videos)
-  - Why do we need selectors?
-  - Creating selectors
-  - Combining selectors
-  - Using the createSelector function
+  - [Why do we need selectors?](#why-do-we-need-selectors)
+  - [Creating selectors](#creating-selectors)
+  - [Combining selectors](#combining-selectors)
+  - [Using the createSelector function](#using-the-createselector-function)
 - [**10. Styled-Components**](#10-styled-components) (3 videos)
-  - Why do we need styled-components?
-  - Creating a styled-component
-  - Passing props to styled-components
+  - [Why do we need styled-components?](#why-do-we-need-styled-components)
+  - [Creating a styled-component](#creating-a-styled-component)
+  - [Passing props to styled-components](#passing-props-to-styled-components)
 - [**11. Testing**](#11-testing) (4 videos)
-  - Testing React ecosystems
-  - Testing reducers
-  - Testing selectors
-  - Testing styled-components
+  - [Testing React ecosystems](#testing-react-ecosystems)
+  - [Testing reducers](#testing-reducers)
+  - [Testing selectors](#testing-selectors)
+  - [Testing styled-components](#testing-styled-components)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps for building with React
+  - [Next steps for building with React](#next-steps-for-building-with-react)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Let's build modern projects with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react?u=76281980)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[React.js|React]] (8)
 > **Speakers:** - after (1)
 
 #### What you should know
@@ -178,7 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), finally, (1), continue (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[React.js|React]] (5)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -186,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Project Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic setup and exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980)
@@ -213,7 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), for, (1), let (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Git]] (1)
 > **Prerequisites:** setup (2), you'll need (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **CLI Commands:** git (1)
@@ -225,7 +225,7 @@ created: 2026-04-29
 
 ### 2. Project Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use the React ecosystem?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980)
@@ -266,8 +266,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (17), application (4), [[Vanilla]] (3), management (2), [[Programming]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), interface (1)
 > **Definitions:** in other words (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -323,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9), data (5), application (2), [[Representational State Transfer (REST)|Rest]] (2), [[Next.js]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2)
 > **File Paths:** next.js (1)
@@ -333,7 +333,7 @@ created: 2026-04-29
 
 ### 3. Creating React Projects from Scratch
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a React project from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980)
@@ -366,8 +366,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[HTML]] (4), application (1), [[JavaScript]] (1)
 > **Env Vars:** html (4), jsx (2), url (1)
-> **Code Keywords:** let (2), finally, (1), default. (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -469,7 +469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), static (2), this, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (13), [[HTML]] (13), [[JavaScript]] (3), [[Codespaces]] (3), next (2)
 > **Env Vars:** html (7), doctype (1), utf (1)
 > **File Paths:** index.html (4), index.js (4)
 > **UI Navigation:** right-click (2), go to (2), in the tab (1), click on (1)
@@ -585,7 +585,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (4), const (3), this. (2), import { (1)
+> **Frameworks & Libraries:** [[React.js|React]] (23), [[HTML]] (4), dom (3), next (2), [[JSON]] (2)
 > **Env Vars:** jsx (6), html (3), ide (1)
 > **Code Identifiers:** createelement (3), createroot (2), getelementbyid (1)
 > **Prerequisites:** install (5), set up (1)
@@ -747,8 +747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (16), [[JavaScript]] (6), [[HTML]] (5), [[npm]] (3), application (2)
 > **File Paths:** index.html (4), index.js (4), bundle.js (2), webpac.config.js (1), package.json (1)
-> **Code Keywords:** module (3), let (3), const (1), require (1), this, (1)
 > **Prerequisites:** install (9)
 > **CLI Commands:** npm (3), make (3), node (1)
 > **Definitions:** is a  (3)
@@ -871,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (4), this, (3), this. (1), return. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (18), [[npm]] (3), hit (3), [[HTML]] (3), [[Next.js]] (1)
 > **File Paths:** index.js (4), app.js (3), bundle.js (2), index.html (2), index.jsx (1)
 > **Cross-References:** go back to (5), previous video (1)
 > **Env Vars:** jsx (4), html (1)
@@ -883,7 +883,7 @@ created: 2026-04-29
 
 ### 4. Creating Projects with Vite, Next.js, Remix, and More
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a project with Create React App
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980)
@@ -1014,11 +1014,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (28), application (6), [[npm]] (6), next (3), [[JavaScript]] (1)
 > **CLI Commands:** make (10), npm (6), npx (2)
 > **Analogies:** for example (2), such as (2), similar to (1)
 > **Definitions:** is a  (1), known as (1), basically means (1), in other words (1)
 > **File Paths:** index.js (1), app.js (1), package.json (1)
-> **Code Keywords:** let (1), this, (1), finally, (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Tools:** terminal (2)
 > **Exercise Files:** boilerplate (2)
@@ -1130,8 +1130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (15), [[npm]] (4), next (3), [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** npm (4), make (3), find (2), cd (1)
-> **Code Keywords:** let (3), this, (1), this. (1), module (1)
 > **Prerequisites:** install (4), setup (1)
 > **File Paths:** package.json (1), app.jsx (1), src/app.jsx (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1270,7 +1270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), default. (1)
+> **Frameworks & Libraries:** next (20), [[React.js|React]] (11), [[npm]] (2), application (2), hit (1)
 > **Env Vars:** npm (2), npx (1), css (1), html (1), seo (1)
 > **CLI Commands:** npm (2), npx (1), make (1), cd (1)
 > **Prerequisites:** install (2), set up (1)
@@ -1374,8 +1374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Remix]] (16), [[React.js|React]] (8), [[Next.js]] (3), [[Git]] (3), [[npm]] (3)
 > **CLI Commands:** git (3), npm (3), make (2), npx (1)
-> **Code Keywords:** let (5), while, (1), this . (1), try. (1), this, (1)
 > **Env Vars:** npm (3), tsx (3), npx (1), css (1)
 > **File Paths:** next.js (3), root.tsx (2), index.tsx (1)
 > **Prerequisites:** install (3), set up (1)
@@ -1386,7 +1386,7 @@ created: 2026-04-29
 
 ### 5. Creating a Basic Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet the sample app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-sample-app?u=76281980)
@@ -1421,7 +1421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), let (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), next (3), application (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1533,7 +1533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (3), this. (1), default, (1), function (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), application (4), [[npm]] (3), next (2), [[Next.js]] (1)
 > **Code Identifiers:** setcount (1), usestate (1), completedtodos (1), incompletetodos (1)
 > **CLI Commands:** npm (3)
 > **Env Vars:** swc (1), jsx (1), ide (1)
@@ -1729,8 +1729,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[React.js|React]] (3), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** iscompleted (8), incompletetodos (6), ondeleteclicked (4), completedtodos (4), usestate (4)
-> **Code Keywords:** let (10), delete (5), function (4), this. (4), pass (2)
 > **Cross-References:** go back to (4), later in (1), in the next (1), coming up (1)
 > **File Paths:** app.jsx (2), todolistitem.jsx (1)
 > **CLI Commands:** make (3)
@@ -1825,7 +1825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this. (2), let (1), export, (1), default, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[JSON]] (1), next (1)
 > **Env Vars:** jsx (1), json (1), ide (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -2002,7 +2002,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), delete (7), function (6), pass (3)
+> **Frameworks & Libraries:** next (3), application (2), [[React.js|React]] (1)
 > **Code Identifiers:** ondeleteclicked (10), oncompletedclicked (9), oncreateclicked (6), markascomplete (1)
 > **CLI Commands:** make (10), find (3)
 > **Cross-References:** in the next (2), go back to (1)
@@ -2012,7 +2012,7 @@ created: 2026-04-29
 
 ### 6. Adding Redux
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do we need Redux?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux?u=76281980)
@@ -2059,9 +2059,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (9), application (4), management (3), data (1)
 > **Definitions:** is a  (2), is called (1), known as (1), in other words (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### How does Redux work?
@@ -2131,8 +2131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (15), [[React.js|React]] (4), data (3), next (3), [[E-Commerce]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Adding Redux to a React app
@@ -2232,7 +2232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), pass (2), from, (1), const (1)
+> **Frameworks & Libraries:** application (11), [[React.js|React]] (10), [[npm]] (2), next (2), database (1)
 > **CLI Commands:** make (3), npm (2)
 > **Prerequisites:** install (3), set up (1), setup (1)
 > **Code Identifiers:** configurestore (2)
@@ -2332,7 +2332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), function (2), this. (1), let (1), this . (1)
+> **Frameworks & Libraries:** application (9), next (4), [[React.js|React]] (2), data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** todosslice (2), createslice (2), markascompleted (2), initialstate (1), createtodo (1)
 > **Env Vars:** jsx (1)
 > **Definitions:** is an  (1)
@@ -2435,7 +2435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), function (1), case, (1), this, (1)
+> **Frameworks & Libraries:** application (2), data (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Code Identifiers:** iscompleted (3), createtodo (1), deletetodo (1)
 > **Analogies:** just like (1)
@@ -2541,7 +2541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), const (2), delete (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), application (2), next (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2), later in (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -2667,8 +2667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), data (1), application (1), next (1)
 > **Code Identifiers:** marktodoascompleted (4), deletetodo (4), usedispatch (3), createslice (3), createtodo (3)
-> **Code Keywords:** let (5), function (5), const (2), interface (1), this. (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2), previous chapter (1)
 > **File Paths:** app.jsx (1), main.jsx (1)
@@ -2729,7 +2729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), const (2), let (1), pass (1)
+> **Frameworks & Libraries:** data (3), [[React.js|React]] (1)
 > **Code Identifiers:** deletetodo (1), marktodoascompleted (1), createtodo (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -2758,8 +2758,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1)
 > **Non-Speech:** (bright rhythmic music) (1), (bright rhythmic music fading) (1)
-> **Code Keywords:** try, (1)
 > **Code Identifiers:** usedispatch (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -2831,8 +2831,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), application (2), [[React.js|React]] (1)
 > **Code Identifiers:** usedispatch (3), oncreateclicked (3), createtodo (2), todosslice (2), inputtext (1)
-> **Code Keywords:** let (6), delete (2), try. (1), const (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -2933,7 +2933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), type, (3), let (2), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), application (2), [[Search]] (1)
 > **Code Identifiers:** createtodo (2), marktodoascompleted (2), iscompleted (1), marktodoascomplete (1), deletetodo (1)
 > **Definitions:** in other words (2)
 > **CLI Commands:** find (1)
@@ -2945,7 +2945,7 @@ created: 2026-04-29
 
 ### 7. Alternatives to Redux
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### State management with Recoil
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980)
@@ -3076,7 +3076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), const (3), this. (3), let (3), from, (2)
+> **Frameworks & Libraries:** application (6), next (3), management (2), [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** atom (11)
 > **CLI Commands:** make (4), npm (2)
 > **Env Vars:** npm (2)
@@ -3182,8 +3182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[npm]] (2), [[JavaScript]] (2), application (2)
 > **Code Identifiers:** todosstore (6), makeautoobservable (4), createcontext (3), usestate (2), createtodo (1)
-> **Code Keywords:** let (4), const (2), function (2), else, (1), this, (1)
 > **CLI Commands:** make (5), npm (2)
 > **Analogies:** for example (2), it's like (1), such as (1), just like (1)
 > **Prerequisites:** install (2), set up (1)
@@ -3194,7 +3194,7 @@ created: 2026-04-29
 
 ### 8. Dealing with Side Effects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do we need Redux-Thunk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux-thunk?u=76281980)
@@ -3229,7 +3229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** application (6), [[React.js|React]] (4), data (3), management (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is called (1)
@@ -3262,7 +3262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2), application (2), [[React.js|React]] (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -3346,7 +3346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), finally, (3), public (3), let (3), from. (1)
+> **Frameworks & Libraries:** express (4), node (3), [[npm]] (3), data (2), [[Full-Stack Development]] (2)
 > **CLI Commands:** make (5), node (3), npm (3), cd (1)
 > **File Paths:** server.js (4)
 > **Tools:** terminal (2), postman (2)
@@ -3444,7 +3444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), case, (2), from, (1), function (1)
+> **Frameworks & Libraries:** data (2), application (2), next (1)
 > **Code Identifiers:** loadingslice (5), loadingstarted (2), loadingcompleted (2), loadingfailed (2)
 > **File Paths:** loadingslice.js (1)
 > **CLI Commands:** make (1)
@@ -3648,7 +3648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (7), const (4), async (3), import { (2)
+> **Frameworks & Libraries:** application (6), api (5), [[React.js|React]] (3), next (2), data (2)
 > **Code Identifiers:** loadtodos (7), useeffect (4), usedispatch (3), loadingstarted (2), loadingcompleted (2)
 > **CLI Commands:** make (15), npm (2)
 > **File Paths:** vite.config.js (1), thunks.js (1), app.jsx (1)
@@ -3800,7 +3800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), delete (2), import, (1), const (1)
+> **Frameworks & Libraries:** application (4), next (3), hit (2), data (1), [[React.js|React]] (1)
 > **Code Identifiers:** loadingcompleted (5), addcase (2), extrareducers (1), useselector (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (1), in other words (1)
@@ -3952,8 +3952,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Codespaces]] (1)
 > **Code Identifiers:** todosslice (10), createtodo (8), newtodo (7), updatedtodos (6), todosupdated (5)
-> **Code Keywords:** let (10), const (6), function (4), try. (3), public (3)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1), is a  (1)
 > **File Paths:** thunks.js (1)
@@ -4080,7 +4080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (13), let (8), try. (3), function (3), await (2)
+> **Frameworks & Libraries:** next (2), hit (2), data (1)
 > **Code Identifiers:** deletetodo (5), todoid (4), updatedtodos (3), createtodo (2), getstate (1)
 > **CLI Commands:** make (6)
 > **File Paths:** thunks.js (1)
@@ -4100,7 +4100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try, (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** marktodoascompleted (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -4189,7 +4189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (5), try. (2), const (2), function (1)
+> **Frameworks & Libraries:** application (2), express (1), data (1), [[Representational State Transfer (REST)|Rest]] (1), front-end (1)
 > **Code Identifiers:** dos (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -4200,7 +4200,7 @@ created: 2026-04-29
 
 ### 9. Selectors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do we need selectors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-selectors?u=76281980)
@@ -4241,7 +4241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), next (1), application (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4301,7 +4301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), const (2), import, (1), pass (1)
+> **Frameworks & Libraries:** application (3), express (1), hit (1)
 > **Code Identifiers:** gettodos (4), useselector (3), gettodosloading (2)
 > **CLI Commands:** make (5)
 > **File Paths:** selectors.js (1)
@@ -4364,8 +4364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), business (1), next (1)
 > **Code Identifiers:** gettodos (5), getincompletetodos (3), getcompletedtodos (2), iscompleted (2), completedtodos (2)
-> **Code Keywords:** let (6), const (6), function (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -4452,8 +4452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), hit (1)
 > **Code Identifiers:** gettodos (6), createselector (5), getcompletedtodos (2), getincompletetodos (2), iscompleted (1)
-> **Code Keywords:** function (5), let (3), pass (2), case, (1), return. (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is an  (1)
@@ -4463,7 +4463,7 @@ created: 2026-04-29
 
 ### 10. Styled-Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do we need styled-components?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-styled-components?u=76281980)
@@ -4492,9 +4492,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), application (3), next (1), data (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Creating a styled-component
@@ -4572,8 +4572,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), application (2), [[npm]] (1), hit (1), [[HTML]] (1)
 > **CLI Commands:** make (5), npm (1), find (1)
-> **Code Keywords:** let (5), const (1), finally, (1)
 > **Prerequisites:** install (3)
 > **Env Vars:** html (1)
 > **Versions:** 0.5 (1)
@@ -4644,7 +4644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1), this, (1), function (1), try. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), application (1)
 > **Code Identifiers:** endswith (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -4652,7 +4652,7 @@ created: 2026-04-29
 
 ### 11. Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing React ecosystems
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-react-ecosystems?u=76281980)
@@ -4683,7 +4683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1)
+> **Frameworks & Libraries:** application (1), next (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -4864,7 +4864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), const (2), pass (2), throw (2)
+> **Frameworks & Libraries:** [[React.js|React]] (1), next (1), node (1)
 > **CLI Commands:** make (5), node (1)
 > **Analogies:** for example (4), such as (2)
 > **Env Vars:** def (1)
@@ -4956,7 +4956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), function (2), const (2), pass (2)
+> **Frameworks & Libraries:** node (2), [[Test-Driven Development]] (1)
 > **Code Identifiers:** getcompletedtodos (7), iscompleted (3), testselectors (1), fakestate (1)
 > **CLI Commands:** make (3), node (2)
 > **File Paths:** selectors.test.js (1), srce/selectors.test.js (1)
@@ -5045,7 +5045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (5), case, (2), const (1), public (1)
+> **Frameworks & Libraries:** application (5), [[React.js|React]] (2), [[npm]] (1), node (1), game (1)
 > **CLI Commands:** make (2), npm (1), node (1), find (1)
 > **Code Identifiers:** getbackgroundcolor (2), endswith (1)
 > **File Paths:** server.js (1)
@@ -5056,7 +5056,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for building with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980)
@@ -5083,7 +5083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), next (2), [[LinkedIn]] (2), management (1), [[Software Development]] (1)
 > **Speakers:** - well (1)
 
 

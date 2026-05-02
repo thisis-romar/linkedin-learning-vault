@@ -33,7 +33,7 @@ tags:
   - skill/financial-statement-analysis
   - skill/financial-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Financial%20Modeling%20and%20Forecasting%20Financial%20Statements%20(2019).md)
@@ -52,46 +52,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Projecting the financial future
-  - What you should know
+  - [Projecting the financial future](#projecting-the-financial-future)
+  - [What you should know](#what-you-should-know)
 - [**1. Who Uses Forecasted Financial Statements?**](#1-who-uses-forecasted-financial-statements) (5 videos)
-  - Use the past to understand the future
-  - Keys to running a business
-  - Financial forecasts and loans
-  - Financial forecasts and investment decisions
-  - Use financial forecasts to understand new information
+  - [Use the past to understand the future](#use-the-past-to-understand-the-future)
+  - [Keys to running a business](#keys-to-running-a-business)
+  - [Financial forecasts and loans](#financial-forecasts-and-loans)
+  - [Financial forecasts and investment decisions](#financial-forecasts-and-investment-decisions)
+  - [Use financial forecasts to understand new information](#use-financial-forecasts-to-understand-new-information)
 - [**2. It All Starts with an Accurate Sales Forecast**](#2-it-all-starts-with-an-accurate-sales-forecast) (4 videos)
-  - IBM and the famously bad sales forecast
-  - Combine historical trends with current plans
-  - Incorporate seasonal patterns and recent developments
-  - The costs of being wrong
+  - [IBM and the famously bad sales forecast](#ibm-and-the-famously-bad-sales-forecast)
+  - [Combine historical trends with current plans](#combine-historical-trends-with-current-plans)
+  - [Incorporate seasonal patterns and recent developments](#incorporate-seasonal-patterns-and-recent-developments)
+  - [The costs of being wrong](#the-costs-of-being-wrong)
 - [**3. What Causes Financial Statement Numbers to Change?**](#3-what-causes-financial-statement-numbers-to-change) (4 videos)
-  - Home Depot 1985: Three weeks to live
-  - The impacts of natural changes
-  - The impacts of long-term planning decisions
-  - The impacts of financing choices
+  - [Home Depot 1985: Three weeks to live](#home-depot-1985-three-weeks-to-live)
+  - [The impacts of natural changes](#the-impacts-of-natural-changes)
+  - [The impacts of long-term planning decisions](#the-impacts-of-long-term-planning-decisions)
+  - [The impacts of financing choices](#the-impacts-of-financing-choices)
 - [**4. Constructing a Forecasted Income Statement**](#4-constructing-a-forecasted-income-statement) (4 videos)
-  - The Gap and predictable change
-  - Forecasting sales-based expenses
-  - Fixed costs and variable costs
-  - Forecasting interest and income taxes
+  - [The Gap and predictable change](#the-gap-and-predictable-change)
+  - [Forecasting sales-based expenses](#forecasting-sales-based-expenses)
+  - [Fixed costs and variable costs](#fixed-costs-and-variable-costs)
+  - [Forecasting interest and income taxes](#forecasting-interest-and-income-taxes)
 - [**5. Constructing a Forecasted Balance Sheet**](#5-constructing-a-forecasted-balance-sheet) (4 videos)
-  - The power of the accounting equation
-  - Identifying the missing number
-  - Easy "plugs": Cash, investments, paid-in capital
-  - Realistic but challenging "plug": Loans
+  - [The power of the accounting equation](#the-power-of-the-accounting-equation)
+  - [Identifying the missing number](#identifying-the-missing-number)
+  - [Easy "plugs": Cash, investments, paid-in capital](#easy-plugs-cash-investments-paid-in-capital)
+  - [Realistic but challenging "plug": Loans](#realistic-but-challenging-plug-loans)
 - [**6. Constructing a Forecasted Statement of Cash Flows**](#6-constructing-a-forecasted-statement-of-cash-flows) (5 videos)
-  - The Home Depot story revisited
-  - How to deduce cash flows
-  - Forecasting operating cash flow
-  - Forecasting investing cash flow
-  - Financing cash flow
+  - [The Home Depot story revisited](#the-home-depot-story-revisited)
+  - [How to deduce cash flows](#how-to-deduce-cash-flows)
+  - [Forecasting operating cash flow](#forecasting-operating-cash-flow)
+  - [Forecasting investing cash flow](#forecasting-investing-cash-flow)
+  - [Financing cash flow](#financing-cash-flow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Dynamic modeling
+  - [Dynamic modeling](#dynamic-modeling)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Projecting the financial future
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980)
@@ -144,8 +144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (5), [[Financial Statements]] (4), [[Financial Modeling]] (2), management (1), power (1)
 > **Speakers:** - in (2), - [jim] (2), - [kay] (2), - hi (1), - i (1)
-> **Code Keywords:** case, (1), let (1)
 > **Analogies:** for example (1), such as (1)
 
 #### What you should know
@@ -169,13 +169,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (4), [[Financial Modeling]] (2), [[Forecasting]] (1), business (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - before (1)
 
 
 ### 1. Who Uses Forecasted Financial Statements?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the past to understand the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980)
@@ -264,8 +265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (3), next (3), [[Forecasting]] (1)
 > **Speakers:** - now (5), - for (2), - people (1), - well (1), - studying (1)
-> **Code Keywords:** let (2), function (2), self (1), this. (1)
 > **Analogies:** for example (3), such as (1), picture (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
@@ -355,7 +356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1)
+> **Frameworks & Libraries:** business (4), next (3), [[Financial Modeling]] (3), [[Forecasting]] (3), [[Financial Planning]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -440,8 +441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (4), business (3), [[Forecasting]] (2), [[Banking]] (1), data (1)
 > **Analogies:** for example (4), such as (2)
-> **Code Keywords:** module (1), continue (1), private (1)
 > **Versions:** 3.0 (1), 2.9 (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - banks (1)
@@ -533,8 +534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), [[Financial Modeling]] (2), [[Forecasting]] (1)
 > **Env Vars:** dcf (6)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), such as (1)
 > **Tools:** terminal (1)
 > **Definitions:** is called (1)
@@ -624,8 +625,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3)
 > **Versions:** 8.8 (2), 1.41 (2), 8.5 (1), 1.31 (1)
-> **Code Keywords:** public (3), let (1)
 > **Env Vars:** sec (2), alis (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1)
@@ -635,7 +636,7 @@ created: 2026-04-29
 
 ### 2. It All Starts with an Accurate Sales Forecast
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IBM and the famously bad sales forecast
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980)
@@ -710,6 +711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Electronics]] (1), [[Programming]] (1)
 > **Env Vars:** ibm (17), dos (1)
 > **Speakers:** - [man (7), - in (2), - now (1), - while (1), - through (1)
 
@@ -774,7 +776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** business (2), [[Economic Analysis]] (1), [[Forecasting]] (1), functional (1), next (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -869,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (7), [[Forecasting]] (4), next (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - let (1)
 
@@ -956,6 +958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Forecasting]] (5), [[Microsoft]] (3), [[Hardware]] (1), [[Enterprise Software]] (1)
 > **Env Vars:** aol (6), ibm (4)
 > **Definitions:** is a  (2), is an  (1), means that (1), known as (1)
 > **Warnings:** keep in mind (1), caution (1)
@@ -965,7 +968,7 @@ created: 2026-04-29
 
 ### 3. What Causes Financial Statement Numbers to Change?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Home Depot 1985: Three weeks to live
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980)
@@ -1040,6 +1043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Financial Modeling]] (1), [[Forecasting]] (1)
 > **Speakers:** - in (2), - not (2), - most (1), - an (1), - and (1)
 
 #### The impacts of natural changes
@@ -1113,7 +1117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2)
+> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Forecasting]] (2), business (2), next (1), management (1)
 > **Versions:** 18.5 (3)
 > **Definitions:** in other words (1), means that (1)
 > **Warnings:** note that (2)
@@ -1171,6 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (3), business (2), next (2), management (1)
 > **Versions:** 300.00 (3), 700.00 (3), 15.00 (2), 35.00 (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - long (1)
@@ -1256,15 +1261,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Financial Statements]] (3), [[Forecasting]] (1), [[Financial Modeling]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), this. (1), module (1)
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
 
 
 ### 4. Constructing a Forecasted Income Statement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Gap and predictable change
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980)
@@ -1349,9 +1354,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), hit (6), [[Forecasting]] (3), [[Financial Statement Analysis]] (2), [[Statistics]] (1)
 > **Speakers:** - okay (9), - well (3), - exactly (2), - when (2), - yeah (2)
 > **Cross-References:** in the next (5)
-> **Code Keywords:** let (1), class, (1), case, (1), this. (1)
 > **Env Vars:** ops (3)
 > **Versions:** 1.422 (1), 37.3 (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -1452,7 +1457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3), next (3), [[Financial Modeling]] (2), management (1), game (1)
 > **Env Vars:** coo (4)
 > **CLI Commands:** make (2)
 > **Versions:** 18.5 (1), 42.9 (1)
@@ -1537,7 +1542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2)
+> **Frameworks & Libraries:** business (1), [[Forecasting]] (1)
 > **Versions:** 18.5 (1), 1.5 (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** coo (1)
@@ -1627,8 +1632,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (3), business (1), [[Financial Modeling]] (1)
 > **Env Vars:** haan (6)
-> **Code Keywords:** case, (2), require (1), let (1)
 > **CLI Commands:** make (2)
 > **Versions:** 42.9 (2)
 > **UI Navigation:** go to (1)
@@ -1638,7 +1643,7 @@ created: 2026-04-29
 
 ### 5. Constructing a Forecasted Balance Sheet
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of the accounting equation
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980)
@@ -1723,8 +1728,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Financial Statements]] (1), [[Forecasting]] (1)
 > **Speakers:** - [man (5), - now (5), - the (2), - you (2), - it (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
@@ -1810,7 +1815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), raise (2), finally, (1), module (1)
+> **Frameworks & Libraries:** next (3), business (1)
 > **Versions:** 18.5 (1), 20.0 (1), 42.9 (1), 60.0 (1)
 > **Definitions:** in other words (2)
 > **CLI Commands:** make (1)
@@ -1904,7 +1909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (1), public (1), this. (1)
+> **Frameworks & Libraries:** next (4), management (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - here (1)
@@ -1988,14 +1993,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (1), this. (1), function (1), finally, (1)
+> **Frameworks & Libraries:** data (1), [[Financial Statements]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - let (1)
 
 
 ### 6. Constructing a Forecasted Statement of Cash Flows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Home Depot story revisited
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-home-depot-story-revisited?u=76281980)
@@ -2064,6 +2069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), next (1)
 > **Speakers:** - in (3), - well (2), - now (2), - home (2), - back (1)
 
 #### How to deduce cash flows
@@ -2159,7 +2165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (10), business (1), [[Financial Statements]] (1), [[LinkedIn]] (1)
 > **Speakers:** - before (1)
 
 #### Forecasting operating cash flow
@@ -2251,7 +2257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (2), next (1), management (1)
 > **Definitions:** is a  (2), means that (2)
 > **Analogies:** for example (1), such as (1)
 > **Versions:** 1.986 (1)
@@ -2342,8 +2348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Modeling]] (2), business (1), [[Financial Statements]] (1)
 > **Versions:** 3.5 (4), 5.0 (3), 1.076 (1)
-> **Code Keywords:** let (4)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** means that (1), is an  (1)
 > **Speakers:** - capital (1)
@@ -2419,7 +2425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Decision-Making]] (1), [[Corporate Finance]] (1), [[Financial Modeling]] (1), [[Financial Statements]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Versions:** 1.090 (1)
 > **Definitions:** is a  (1)
@@ -2429,7 +2435,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980)
@@ -2516,8 +2522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Word|Word]] (1), management (1), [[Financial Modeling]] (1), [[Forecasting]] (1)
 > **Speakers:** - [speaker (11), - but (2), - so (2), - remember (1), - to (1)
-> **Code Keywords:** let (3), class, (1), finally, (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (3)
 

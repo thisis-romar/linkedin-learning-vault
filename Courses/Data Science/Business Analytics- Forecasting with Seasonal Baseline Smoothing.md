@@ -30,7 +30,7 @@ tags:
   - skill/business-intelligence-bi
   - skill/forecasting
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics-%20Forecasting%20with%20Seasonal%20Baseline%20Smoothing.md)
@@ -49,24 +49,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why seasonal baseline smoothing will help your regression
-  - Software setup
+  - [Why seasonal baseline smoothing will help your regression](#why-seasonal-baseline-smoothing-will-help-your-regression)
+  - [Software setup](#software-setup)
 - [**1. Approaches to Seasonal Smoothing**](#1-approaches-to-seasonal-smoothing) (5 videos)
-  - Seasonality in a baseline
-  - Defined names and relative references
-  - Diagnosing seasonality
-  - Simple seasonal indexes
-  - Seasonal smoothing and horizontal baselines
+  - [Seasonality in a baseline](#seasonality-in-a-baseline)
+  - [Defined names and relative references](#defined-names-and-relative-references)
+  - [Diagnosing seasonality](#diagnosing-seasonality)
+  - [Simple seasonal indexes](#simple-seasonal-indexes)
+  - [Seasonal smoothing and horizontal baselines](#seasonal-smoothing-and-horizontal-baselines)
 - [**2. Optimizing Seasonal Forecasts**](#2-optimizing-seasonal-forecasts) (3 videos)
-  - Minimizing RMSE
-  - The Excel Forecast Sheet
-  - Prepare to make a seasonal forecast in R
+  - [Minimizing RMSE](#minimizing-rmse)
+  - [The Excel Forecast Sheet](#the-excel-forecast-sheet)
+  - [Prepare to make a seasonal forecast in R](#prepare-to-make-a-seasonal-forecast-in-r)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why seasonal baseline smoothing will help your regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/why-seasonal-baseline-smoothing-will-help-your-regression?u=76281980)
@@ -93,7 +93,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (1), traffic (1), [[Microsoft Excel]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [conrad] (1)
 
@@ -150,11 +150,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Security]] (1)
 > **Prerequisites:** install (5), set up (1)
 > **Versions:** version 3 (2), 4.0 (2), 3.4.0 (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** cran (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -162,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Approaches to Seasonal Smoothing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Seasonality in a baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980)
@@ -235,6 +235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), bi (2), data (1), [[Forecasting]] (1), [[Linear Regression]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** dwi (2)
 > **Cross-References:** in the next (1)
@@ -346,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), self (1), case, (1), default, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), feature (2), next (1), [[Microsoft Word|Word]] (1), hit (1)
 > **Definitions:** refers to (3), stands for (1)
 > **UI Navigation:** select the (1), dropdown (1), switch to (1)
 > **CLI Commands:** make (1), find (1)
@@ -456,7 +457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case, (1), let (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), power (3), next (1), [[Forecasting]] (1), data (1)
 > **Env Vars:** acf (3), d21 (1)
 > **Exercise Files:** exercise file (3), exercise files (1)
 > **CLI Commands:** find (1), make (1)
@@ -534,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), traffic (1), next (1)
 > **Versions:** 8170.8 (1), 220.8 (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is an  (1)
@@ -633,7 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), switch (1), return. (1)
+> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (2), [[Forecasting]] (1)
 > **Env Vars:** h16 (1), j16 (1), k16 (1)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Cross-References:** in the next (1)
@@ -645,7 +646,7 @@ created: 2026-04-29
 
 ### 2. Optimizing Seasonal Forecasts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Minimizing RMSE
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/minimizing-rmse?u=76281980)
@@ -796,9 +797,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (5), next (3), feature (1)
 > **Env Vars:** rmse (5), f16 (2), grg (2), e17 (1), d16 (1)
 > **CLI Commands:** find (3), make (3)
-> **Code Keywords:** require (1), finally, (1), let (1), switch (1)
 > **UI Navigation:** checkbox (3)
 > **Versions:** 8170.8 (1)
 > **Exercise Files:** exercise file (1)
@@ -868,7 +869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (6), [[Microsoft Excel]] (1), feature (1), [[Forecasting]] (1)
 > **Env Vars:** rmse (1), mase (1), smape (1), mae (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1)
@@ -990,7 +991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), return. (2), let (1), pass (1), return, (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (10), hit (2), next (2)
 > **Definitions:** stands for (3), is a  (1), in other words (1)
 > **Versions:** 11.4559 (1), 14.7 (1), 11.45 (1)
 > **CLI Commands:** make (1), find (1)
@@ -1000,7 +1001,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/next-steps?u=76281980)
@@ -1019,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Statistics]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [conrad] (1)
 
 

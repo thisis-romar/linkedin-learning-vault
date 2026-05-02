@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/spring-framework
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%20Framework%20in%20Depth.md)
@@ -48,48 +48,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Building blocks of Spring
-  - What you should know
+  - [Building blocks of Spring](#building-blocks-of-spring)
+  - [What you should know](#what-you-should-know)
 - [**1. Spring Overview**](#1-spring-overview) (2 videos)
-  - Introduction to Spring
-  - The inversion of control (IoC) container
+  - [Introduction to Spring](#introduction-to-spring)
+  - [The inversion of control (IoC) container](#the-inversion-of-control-ioc-container)
 - [**2. Configuring the ApplicationContext**](#2-configuring-the-applicationcontext) (7 videos)
-  - Introduction to the ApplicationContext
-  - Configuration of Spring with Java
-  - Work with the environment
-  - Profiles
-  - Spring Expression Language
-  - Bean scopes
-  - Proxies
+  - [Introduction to the ApplicationContext](#introduction-to-the-applicationcontext)
+  - [Configuration of Spring with Java](#configuration-of-spring-with-java)
+  - [Work with the environment](#work-with-the-environment)
+  - [Profiles](#profiles)
+  - [Spring Expression Language](#spring-expression-language)
+  - [Bean scopes](#bean-scopes)
+  - [Proxies](#proxies)
 - [**3. Component Scanning**](#3-component-scanning) (3 videos)
-  - The component scan
-  - Implementing component scanning
-  - Lifecycle methods
+  - [The component scan](#the-component-scan)
+  - [Implementing component scanning](#implementing-component-scanning)
+  - [Lifecycle methods](#lifecycle-methods)
 - [**4. The Bean Lifecycle**](#4-the-bean-lifecycle) (10 videos)
-  - Why the lifecycle is so important
-  - The overall picture
-  - The init phase: Loading bean definitions
-  - Init: Bean factory post-processing
-  - Init: Bean instantiation
-  - Init: Setters
-  - Init: Bean post-processing
-  - Init: Differences based on configuration
-  - The use phase
-  - The destruction phase
+  - [Why the lifecycle is so important](#why-the-lifecycle-is-so-important)
+  - [The overall picture](#the-overall-picture)
+  - [The init phase: Loading bean definitions](#the-init-phase-loading-bean-definitions)
+  - [Init: Bean factory post-processing](#init-bean-factory-post-processing)
+  - [Init: Bean instantiation](#init-bean-instantiation)
+  - [Init: Setters](#init-setters)
+  - [Init: Bean post-processing](#init-bean-post-processing)
+  - [Init: Differences based on configuration](#init-differences-based-on-configuration)
+  - [The use phase](#the-use-phase)
+  - [The destruction phase](#the-destruction-phase)
 - [**5. Aspect-Oriented Programming**](#5-aspect-oriented-programming) (7 videos)
-  - Aspecting in Spring
-  - Define aspect-oriented programming (AOP) pointcuts
-  - Implement AOP advice: Before
-  - Implement AOP advice: After
-  - Implement AOP advice: Around
-  - Challenge: Building your own aspect
-  - Solution: Building your own aspect
+  - [Aspecting in Spring](#aspecting-in-spring)
+  - [Define aspect-oriented programming (AOP) pointcuts](#define-aspect-oriented-programming-aop-pointcuts)
+  - [Implement AOP advice: Before](#implement-aop-advice-before)
+  - [Implement AOP advice: After](#implement-aop-advice-after)
+  - [Implement AOP advice: Around](#implement-aop-advice-around)
+  - [Challenge: Building your own aspect](#challenge-building-your-own-aspect)
+  - [Solution: Building your own aspect](#solution-building-your-own-aspect)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building blocks of Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/building-blocks-of-spring?u=76281980)
@@ -110,6 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Framework]] (3), power (1)
 > **Speakers:** - [frank] (1)
 
 #### What you should know
@@ -187,10 +188,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (10), [[LinkedIn]] (3), [[Spring Framework]] (2), [[Dependency Management]] (2), [[Programming]] (2)
 > **Env Vars:** jdk (4), ide (4), jvm (2), jre (1), aop (1)
 > **Prerequisites:** set up (1), you need to have (1), you'll need (1), install (1), prerequisite (1)
 > **CLI Commands:** make (1), apache (1)
-> **Code Keywords:** finally, (1), continue (1)
 > **Definitions:** is a  (2)
 > **Versions:** java 17 (1)
 > **Cross-References:** next video (1)
@@ -199,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Spring Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980)
@@ -292,9 +293,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), business (4), [[Java]] (3), [[Spring Boot]] (3), [[Dependency Injection]] (2)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** jdk (1), war (1), jms (1), jdbc (1)
-> **Code Keywords:** let (1), abstract (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
@@ -405,8 +406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Dependency Injection]] (3), business (2), [[Spring Framework]] (1), [[Dependency Management]] (1), [[Java]] (1)
 > **Env Vars:** ioc (8), api (1)
-> **Code Keywords:** class. (3), let (2), this, (1), finally, (1), case, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** rule of thumb (1)
@@ -415,7 +416,7 @@ created: 2026-04-29
 
 ### 2. Configuring the ApplicationContext
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the ApplicationContext
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980)
@@ -498,6 +499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (19), [[Spring Framework]] (3), [[Metadata]] (1), web (1), oop (1)
 > **Definitions:** is an  (1), means that (1)
 > **Env Vars:** oop (1)
 > **Cross-References:** as we saw (1)
@@ -614,7 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4), class, (2), class. (2), private (1)
+> **Frameworks & Libraries:** application (11), [[Java]] (4), [[Spring Framework]] (2), power (1)
 > **Env Vars:** ide (3), xml (2)
 > **Definitions:** is an  (2)
 > **Analogies:** imagine (2)
@@ -724,7 +726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4), this. (3), private (1), class, (1)
+> **Frameworks & Libraries:** application (11), data (5), cloud (1), next (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** ide (1), app_name (1)
 > **Definitions:** is a  (2)
@@ -800,7 +802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), this. (1)
+> **Frameworks & Libraries:** application (2)
 > **File Paths:** application.config (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -870,7 +872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), class, (1), private (1), this. (1)
+> **Frameworks & Libraries:** express (1), [[Java]] (1), application (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -942,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (3), class, (1), class. (1), interface (1)
+> **Frameworks & Libraries:** application (3), data (3), web (2), career (1), next (1)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** be aware (1), be careful (1), keep in mind (1)
 > **Analogies:** similar to (2)
@@ -989,7 +991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1), this, (1), private (1)
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** ioc (1), jdk (1), jdbc (1)
 > **Versions:** 4.0 (1)
 > **Exercise Files:** template (1)
@@ -999,7 +1001,7 @@ created: 2026-04-29
 
 ### 3. Component Scanning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The component scan
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980)
@@ -1060,8 +1062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Dependency Injection]] (1), application (1), [[Java]] (1), next (1)
 > **Env Vars:** ioc (3), xml (1)
-> **Code Keywords:** type. (1), type, (1), let (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** caution (1)
@@ -1140,7 +1142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), class. (2), class, (2), super (2), delete (2)
+> **Frameworks & Libraries:** application (3), [[Java]] (3)
 > **UI Navigation:** go to (5)
 > **Env Vars:** lil (1), fid (1), ioc (1)
 > **Definitions:** is a  (1)
@@ -1216,8 +1218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), data (2), database (2), [[Dependency Injection]] (1), next (1)
 > **Definitions:** is a  (2), means that (1), is an  (1), is called (1)
-> **Code Keywords:** public (2), this. (1)
 > **Env Vars:** ioc (2), jsr (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next chapter (1)
@@ -1228,7 +1230,7 @@ created: 2026-04-29
 
 ### 4. The Bean Lifecycle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why the lifecycle is so important
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980)
@@ -1293,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** application (4), open-source (4), [[Debugging]] (2), [[Spring Framework]] (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1335,8 +1337,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), next (1), [[Spring Framework]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** initialization (7), setup (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1413,8 +1415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Metadata]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Spring Boot]] (1), [[Debugging]] (1)
 > **Env Vars:** xml (5)
-> **Code Keywords:** let (2)
 > **Prerequisites:** initialization (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1485,7 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (2), this. (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Metadata]] (1), data (1), next (1), [[Orchestration]] (1)
 > **Env Vars:** jvm (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1551,7 +1553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), class. (1), default, (1), this, (1)
+> **Frameworks & Libraries:** application (3), [[Spring Framework]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** we talked about (1)
 > **Prerequisites:** initialization (1)
@@ -1598,6 +1600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Framework]] (1), next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
@@ -1665,7 +1668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), let (1), interface (1), class, (1)
+> **Frameworks & Libraries:** application (2), generic (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** we talked about (1)
 > **Analogies:** imagine (1)
@@ -1719,10 +1722,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Env Vars:** xml (3)
 > **Prerequisites:** initialization (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1773,7 +1776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), case. (1), this, (1)
+> **Frameworks & Libraries:** application (14)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** initialization (2)
 > **Speakers:** - [instructor] (1)
@@ -1837,15 +1840,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), cloud (1), [[Metadata]] (1), data (1)
 > **Definitions:** is called (3), is an  (2), is a  (2)
-> **Code Keywords:** interface (2)
 > **Env Vars:** ioc (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Aspect-Oriented Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Aspecting in Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/aspecting-in-spring?u=76281980)
@@ -1956,7 +1959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (1), this, (1)
+> **Frameworks & Libraries:** application (6), [[Security]] (3), [[Programming]] (2), career (1), management (1)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** pii (1)
 > **Cross-References:** go back to (1)
@@ -2050,7 +2053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (3), interface (2), return, (1), type, (1)
+> **Frameworks & Libraries:** application (2), next (1)
 > **Definitions:** is an  (5)
 > **Env Vars:** slf4j (1), method (1), runtime (1)
 > **Code Identifiers:** log4j (1), executelogging (1)
@@ -2114,7 +2117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), lambda (2), private (1), static (1)
+> **Frameworks & Libraries:** [[Java]] (1), application (1)
 > **Code Identifiers:** joinpoint (2), executelogging (1), logmethodcall (1), getargs (1), aslist (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -2177,7 +2180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this, (1), return. (1)
+> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** returnvalue (4)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2259,8 +2262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** joinpoint (4), totaltime (4), returnvalue (3), starttime (2), currenttime (2)
-> **Code Keywords:** let (7), continue (2), class, (1), throw (1), else. (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2293,7 +2296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
@@ -2333,7 +2336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), continue (1), this. (1)
+> **Frameworks & Libraries:** application (1), next (1)
 > **Code Identifiers:** countingmap (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -2342,7 +2345,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980)
@@ -2411,7 +2414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (1)
+> **Frameworks & Libraries:** next (3), [[GitHub]] (2), [[Spring Boot]] (1), [[LinkedIn]] (1), [[Spring Framework]] (1)
 > **Tools:** github (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)

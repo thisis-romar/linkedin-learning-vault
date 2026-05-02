@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/unit-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Unit%20Testing%20in%20Python.md)
@@ -50,41 +50,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Python unit testing with pytest
-  - Why pytest?
-  - Roadmap
-  - Exercise files
+  - [Python unit testing with pytest](#python-unit-testing-with-pytest)
+  - [Why pytest?](#why-pytest)
+  - [Roadmap](#roadmap)
+  - [Exercise files](#exercise-files)
 - [**1.  Installation and Setup**](#1-installation-and-setup) (3 videos)
-  - Docker and VS Code (Mac)
-  - Docker and VS Code (PC)
-  - Running pytest with Docker
+  - [Docker and VS Code (Mac)](#docker-and-vs-code-mac)
+  - [Docker and VS Code (PC)](#docker-and-vs-code-pc)
+  - [Running pytest with Docker](#running-pytest-with-docker)
 - [**2. Overview of Test-Driven Development and Pytest Features**](#2-overview-of-test-driven-development-and-pytest-features) (7 videos)
-  - Overview of TDD
-  - Basic tests and assertions
-  - Exceptions
-  - Challenge: Exceptions
-  - Solution: Exceptions
-  - Happy path testing
-  - Sad path testing
+  - [Overview of TDD](#overview-of-tdd)
+  - [Basic tests and assertions](#basic-tests-and-assertions)
+  - [Exceptions](#exceptions)
+  - [Challenge: Exceptions](#challenge-exceptions)
+  - [Solution: Exceptions](#solution-exceptions)
+  - [Happy path testing](#happy-path-testing)
+  - [Sad path testing](#sad-path-testing)
 - [**3. Test Automation with Fixtures and Parametrization**](#3-test-automation-with-fixtures-and-parametrization) (5 videos)
-  - Fixtures to amortize costly operations
-  - Factory fixtures
-  - Parametrization
-  - Challenge: Parametrization
-  - Solution: Parameterization
+  - [Fixtures to amortize costly operations](#fixtures-to-amortize-costly-operations)
+  - [Factory fixtures](#factory-fixtures)
+  - [Parametrization](#parametrization)
+  - [Challenge: Parametrization](#challenge-parametrization)
+  - [Solution: Parameterization](#solution-parameterization)
 - [**4. Organizing Your Pytest Project**](#4-organizing-your-pytest-project) (2 videos)
-  - Using Conftest.py for common functions
-  - Modularizing conftest.py
+  - [Using Conftest.py for common functions](#using-conftestpy-for-common-functions)
+  - [Modularizing conftest.py](#modularizing-conftestpy)
 - [**5. Using Pytest with an Existing Project**](#5-using-pytest-with-an-existing-project) (3 videos)
-  - Reading tests to surmise understand behavior
-  - Challenge: Adding test coverage
-  - Solution: Adding test coverage
+  - [Reading tests to surmise understand behavior](#reading-tests-to-surmise-understand-behavior)
+  - [Challenge: Adding test coverage](#challenge-adding-test-coverage)
+  - [Solution: Adding test coverage](#solution-adding-test-coverage)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python unit testing with pytest
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[Python (Programming Language)|Python]] (1), [[Big Data]] (1), [[Analytics]] (1), [[Apache Airflow]] (1)
 > **CLI Commands:** python (1), find (1), apache (1), make (1)
-> **Code Keywords:** continue (1), let (1)
 > **Code Identifiers:** grpc (1)
 > **Analogies:** such as (1)
 > **Speakers:** - as (1)
@@ -176,7 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), case, (1), assert (1), interface (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1), data (1), [[Test Automation]] (1), feature (1)
 > **CLI Commands:** python (3)
 > **Prerequisites:** setup (2), set up (1)
 > **Analogies:** such as (1)
@@ -217,12 +217,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Test-Driven Development]] (1), functional (1)
 > **CLI Commands:** docker (4), python (1)
 > **Env Vars:** tdd (2), ide (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (2)
 > **File Paths:** conftest.py (1)
-> **Code Keywords:** this, (1)
 > **Tools:** visual studio (1)
 > **Exercise Files:** source code (1)
 
@@ -287,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this. (1), switch (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Tools:** github (3), vs code (1)
 > **Env Vars:** ssh (1), http (1), https (1)
 > **CLI Commands:** ssh (1), make (1)
@@ -299,7 +299,7 @@ created: 2026-04-29
 
 ### 1.  Installation and Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Docker and VS Code (Mac)
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-mac?u=76281980)
@@ -372,9 +372,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), application (2), next (2), web (1)
 > **CLI Commands:** docker (14), make (1)
 > **Tools:** docker desktop (4), visual studio (2), vs code (1)
-> **Code Keywords:** continue (2), let (1), this, (1)
 > **Prerequisites:** make sure you have (1), install (1), you'll need (1)
 > **URLs:** [docker.com](https://docker.com) (1), [visualstudio.com](https://visualstudio.com) (1)
 > **Cross-References:** go back to (2)
@@ -512,9 +512,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[Windows]] (4), prompt (3), [[Jetpack Compose|Compose]] (3), application (1)
 > **CLI Commands:** docker (18), make (5), python (1), cd (1)
 > **Tools:** vs code (9), docker desktop (5), terminal (4), visual studio (2), github (1)
-> **Code Keywords:** continue (3), let (3), this, (1)
 > **UI Navigation:** click on (3), open the (2), navigate to (1), go to (1)
 > **Prerequisites:** install (4), setup (2)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -602,8 +602,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), hit (1), [[Python (Programming Language)|Python]] (1), cd (1), next (1)
 > **CLI Commands:** docker (10), make (1), python (1), pip (1), cd (1)
-> **Code Keywords:** let (8)
 > **Tools:** vs code (3), terminal (3)
 > **UI Navigation:** open the (3), go to (2), navigate to (1)
 > **Prerequisites:** setup (2), install (2), set up (1)
@@ -614,7 +614,7 @@ created: 2026-04-29
 
 ### 2. Overview of Test-Driven Development and Pytest Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of TDD
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980)
@@ -669,8 +669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (6), [[Unit Testing]] (1), [[Software Development]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (2)
 > **Definitions:** is a  (1), known as (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - before (1)
@@ -944,7 +944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), function (12), pass (6), class, (5), case, (4)
+> **Frameworks & Libraries:** next (8), [[Test-Driven Development]] (3), [[Python (Programming Language)|Python]] (3), [[Jetpack Compose|Compose]] (2), [[Windows]] (1)
 > **CLI Commands:** make (11), docker (7), python (3), find (1)
 > **Code Identifiers:** test_make_one_point (5), mapmaker_start (3), get_lat_long (3), test_mapmaker_start (1), test_mapmaker (1)
 > **Tools:** terminal (8), vs code (5)
@@ -1120,7 +1120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), raise (6), pass (5), case, (4), this, (3)
+> **Frameworks & Libraries:** generic (2), [[Python (Programming Language)|Python]] (1), next (1), [[Debugging]] (1)
 > **CLI Commands:** make (10), python (1)
 > **Tools:** terminal (4)
 > **UI Navigation:** go to (1), scroll up (1)
@@ -1160,7 +1160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), this, (1), throw (1), pass (1), class. (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** source code (1)
 > **Best Practices:** make sure to (1)
@@ -1206,7 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), raise (2), let (1), case, (1), this, (1)
+> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
@@ -1373,7 +1373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (5), assert (3), type. (2), this, (2)
+> **Frameworks & Libraries:** data (21), next (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (9), ide (1)
 > **Definitions:** is a  (4), is an  (2), in other words (1), short for (1)
 > **CLI Commands:** make (4), python (1)
@@ -1497,7 +1497,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (4), assert (1), case, (1)
+> **Frameworks & Libraries:** data (4), [[Jetpack Compose|Compose]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (2), docker (2)
 > **Env Vars:** csv (6)
 > **Definitions:** known as (1), is a  (1), is called (1), short for (1)
@@ -1509,7 +1509,7 @@ created: 2026-04-29
 
 ### 3. Test Automation with Fixtures and Parametrization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fixtures to amortize costly operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980)
@@ -1666,7 +1666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), yield (3), raise (2), continue (1), require (1)
+> **Frameworks & Libraries:** data (24), database (4), [[Test-Driven Development]] (1), [[Unit Testing]] (1), next (1)
 > **Code Identifiers:** prep_transform_data (4), map_data_location (3), clean_map (2), population_dict (2), clean_map_csv (1)
 > **Prerequisites:** setup (4), set up (3)
 > **File Paths:** clean_map.csv (2), update.py (1), text_fixtures_end.py (1)
@@ -1746,8 +1746,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[JSON]] (8)
 > **Env Vars:** json (7), csv (3), xml (1)
-> **Code Keywords:** function (4), pass (2), let (1), continue (1), case, (1)
 > **Code Identifiers:** process_data (3), data_processor (2), test_factory_start (1), clean_map (1), city_list_location (1)
 > **File Paths:** test_factory_start.py (1), clean_map.csv (1), data_processor.py (1), test_resources_scooter.json (1)
 > **CLI Commands:** make (3)
@@ -1830,7 +1830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (5), finally, (1)
+> **Frameworks & Libraries:** next (4), [[Statistics]] (1), data (1)
 > **Code Identifiers:** test_parametrized_start (1), altitude_stat_per_country (1)
 > **Env Vars:** csv (1), ide (1)
 > **File Paths:** test_parametrized_start.py (1)
@@ -1880,7 +1880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), assert (1), function (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** test_csv_writer (1), test_param_challenge (1)
 > **File Paths:** test_param_challenge.py (1)
 > **CLI Commands:** python (1)
@@ -1930,7 +1930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), class. (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1941,7 +1941,7 @@ created: 2026-04-29
 
 ### 4. Organizing Your Pytest Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Conftest.py for common functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/using-conftest-py-for-common-functions?u=76281980)
@@ -1990,8 +1990,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **File Paths:** conftest.py (7), testconfteststart.py (1)
-> **Code Keywords:** function (2), let (1), this, (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ide (2)
 > **Code Identifiers:** conftest_start (1)
@@ -2058,8 +2058,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** conftest.py (6), conftest_start.py (1), cities.py (1), conftest_stsart.py (1)
-> **Code Keywords:** let (4), import. (2), delete (1)
 > **Code Identifiers:** conftest_start (1), city_list_location (1), conftest_stsart (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ide (1)
@@ -2070,7 +2070,7 @@ created: 2026-04-29
 
 ### 5. Using Pytest with an Existing Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading tests to surmise understand behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980)
@@ -2169,7 +2169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), yield (2), case. (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), next (1), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **Code Identifiers:** validate_entry (3), overlapping_entry (3), test_fitness_log (1), log_activity (1), test_add_valid_activities (1)
 > **Exercise Files:** source code (9)
 > **CLI Commands:** find (2), python (1)
@@ -2223,7 +2223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6)
+> **Frameworks & Libraries:** [[Control Flow]] (1)
 > **Exercise Files:** source code (4)
 > **CLI Commands:** find (1), docker (1)
 > **Analogies:** for example (2)
@@ -2252,7 +2252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), delete (3), this, (1), switch (1), pass (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -2261,7 +2261,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980)
@@ -2292,8 +2292,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Unit Testing]] (1), [[Test-Driven Development]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (2), docker (1)
-> **Code Keywords:** continue (3)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
 > **File Paths:** comftest.py (1)

@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Wordpress%20Ecommerce.md)
@@ -43,45 +43,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build an ecommerce store
-  - What you need to know
+  - [Build an ecommerce store](#build-an-ecommerce-store)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Ingredients for Ecommerce**](#1-ingredients-for-ecommerce) (2 videos)
-  - Essential ecommerce features
-  - Shipping, payment, and taxes
+  - [Essential ecommerce features](#essential-ecommerce-features)
+  - [Shipping, payment, and taxes](#shipping-payment-and-taxes)
 - [**2. Getting Paid**](#2-getting-paid) (4 videos)
-  - Overview of accepting payment
-  - Payment gateways
-  - PayPal, Apple Pay, and Amazon Pay
-  - PCI compliance
+  - [Overview of accepting payment](#overview-of-accepting-payment)
+  - [Payment gateways](#payment-gateways)
+  - [PayPal, Apple Pay, and Amazon Pay](#paypal-apple-pay-and-amazon-pay)
+  - [PCI compliance](#pci-compliance)
 - [**3. Calculating Shipping**](#3-calculating-shipping) (2 videos)
-  - Select a shipping method
-  - Don't underestimate free shipping
+  - [Select a shipping method](#select-a-shipping-method)
+  - [Don't underestimate free shipping](#dont-underestimate-free-shipping)
 - [**4. Taxes**](#4-taxes) (3 videos)
-  - Understanding taxes
-  - Collecting EU value-added tax (VAT)
-  - Using tax services
+  - [Understanding taxes](#understanding-taxes)
+  - [Collecting EU value-added tax (VAT)](#collecting-eu-value-added-tax-vat)
+  - [Using tax services](#using-tax-services)
 - [**5. Using WordPress for Ecommerce**](#5-using-wordpress-for-ecommerce) (2 videos)
-  - Using native WordPress platforms
-  - Using third-party platforms
+  - [Using native WordPress platforms](#using-native-wordpress-platforms)
+  - [Using third-party platforms](#using-third-party-platforms)
 - [**6. Understand Your Market**](#6-understand-your-market) (4 videos)
-  - Choosing a business model
-  - Defining your audience
-  - Organizing your products
-  - Validate your product
+  - [Choosing a business model](#choosing-a-business-model)
+  - [Defining your audience](#defining-your-audience)
+  - [Organizing your products](#organizing-your-products)
+  - [Validate your product](#validate-your-product)
 - [**7. Marketing Your Site**](#7-marketing-your-site) (4 videos)
-  - Attract traffic
-  - Increase your average order value
-  - Understanding customer lifetime value
-  - Increasing CLV with repeat customers
+  - [Attract traffic](#attract-traffic)
+  - [Increase your average order value](#increase-your-average-order-value)
+  - [Understanding customer lifetime value](#understanding-customer-lifetime-value)
+  - [Increasing CLV with repeat customers](#increasing-clv-with-repeat-customers)
 - [**8. Testing and Optimizing**](#8-testing-and-optimizing) (2 videos)
-  - Testing your site
-  - Optimizing your site
+  - [Testing your site](#testing-your-site)
+  - [Optimizing your site](#optimizing-your-site)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build an ecommerce store
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/build-an-ecommerce-store?u=76281980)
@@ -106,8 +106,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **Code Identifiers:** ecommerce (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - hi (1)
 
 #### What you need to know
@@ -129,13 +129,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Ingredients for Ecommerce
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Essential ecommerce features
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980)
@@ -232,8 +233,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (13), [[E-Commerce]] (10), [[WordPress]] (6), data (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** https (5), ssl (2), http (1)
-> **Code Keywords:** let (3), case, (1), this. (1)
 > **Prerequisites:** you'll need (2), before we start (1), install (1), set up (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** ebay (1)
@@ -269,16 +270,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[WordPress]] (1)
 > **Prerequisites:** set up (2), install (1), configure (1)
 > **Env Vars:** usps (1), ltl (1)
-> **Code Keywords:** else. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Getting Paid
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of accepting payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/overview-of-accepting-payment?u=76281980)
@@ -353,11 +354,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), business (3), product (2), feature (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** ecommerce (3)
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** setup (1), set up (1)
-> **Code Keywords:** this. (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -455,7 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), this. (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (5), [[Customer Support]] (3), product (3), [[Microsoft Products|Products]] (2), [[Routing]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 2.9 (2), 3.20 (1)
 > **Definitions:** is a  (2)
@@ -527,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[WooCommerce]] (1), feature (1)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** set up (2)
 > **Analogies:** similar to (1)
@@ -578,17 +579,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (1), business (1), [[WooCommerce]] (1), [[Forms]] (1)
 > **Env Vars:** pci (5), pcidss (1)
 > **Code Identifiers:** ecommerce (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** self (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Calculating Shipping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Select a shipping method
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980)
@@ -661,8 +662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (1), [[WordPress]] (1), [[Troubleshooting]] (1)
 > **Prerequisites:** set up (5), you'll need (1), configure (1)
-> **Code Keywords:** require (1), pass (1), else. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** usps (1), ups (1)
@@ -708,8 +709,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), product (1), [[WooCommerce]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this. (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -717,7 +718,7 @@ created: 2026-04-29
 
 ### 4. Taxes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding taxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980)
@@ -788,8 +789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[E-Commerce]] (3), product (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), this. (1)
 > **Definitions:** is a  (1), means that (1)
 > **Best Practices:** general rule (1), make sure to (1)
 > **Prerequisites:** set up (1), getting started (1)
@@ -842,8 +843,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), [[E-Commerce]] (2), data (1), [[WordPress]] (1)
 > **Env Vars:** vat (5), moss (1)
-> **Code Keywords:** this, (2), require (1), let (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -886,7 +887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** while. (1)
+> **Frameworks & Libraries:** business (1), [[WooCommerce]] (1), product (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -894,7 +895,7 @@ created: 2026-04-29
 
 ### 5. Using WordPress for Ecommerce
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using native WordPress platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980)
@@ -969,10 +970,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (12), [[WooCommerce]] (4), [[User Management]] (1), product (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** ecommerce (7)
 > **Env Vars:** edd (2), gpl (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you need to have (1)
@@ -1081,11 +1082,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WordPress]] (12), product (9), [[Microsoft Products|Products]] (2), power (1), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** ecommerce (7)
 > **URLs:** [hplussport.net](https://hplussport.net) (2), [mywebsite.com](https://mywebsite.com) (1)
 > **Analogies:** similar to (2), just like (1)
 > **Versions:** 3.5 (1), 2.9 (1)
-> **Code Keywords:** return, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1093,7 +1094,7 @@ created: 2026-04-29
 
 ### 6. Understand Your Market
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing a business model
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980)
@@ -1184,9 +1185,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), [[E-Commerce]] (5), business (5), product (2), next (1)
 > **CLI Commands:** make (6), find (3)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** require (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -1296,9 +1297,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), business (1), ux (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** class. (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1410,9 +1411,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (16), product (7), [[Forms]] (4), [[WordPress]] (3), feature (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** break. (1), this. (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** you'll need (1)
@@ -1503,9 +1504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Representational State Transfer (REST)|Rest]] (1), [[E-Commerce]] (1), [[WooCommerce]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), throw (1)
 > **URLs:** [woothemes.com](https://woothemes.com) (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [narrator] (1)
@@ -1513,7 +1514,7 @@ created: 2026-04-29
 
 ### 7. Marketing Your Site
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Attract traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980)
@@ -1616,6 +1617,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Search]] (2), seo (2), product (2), hit (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** seo (2)
 > **Prerequisites:** set up (2)
@@ -1673,7 +1675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (3), data (2), [[Pricing Strategy]] (1), [[Electronics]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** ecommerce (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -1739,9 +1741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[E-Commerce]] (1), product (1), [[Newsletters]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** clv (7)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (3), raise (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -1821,7 +1823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** product (5), [[Automation]] (5), [[Microsoft Products|Products]] (2), [[Newsletters]] (2), [[Product Development]] (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [narrator] (1)
@@ -1829,7 +1831,7 @@ created: 2026-04-29
 
 ### 8. Testing and Optimizing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing your site
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980)
@@ -1916,8 +1918,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[WooCommerce]] (2), data (1), web (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (17)
-> **Code Keywords:** this, (1), let (1), protected (1)
 > **Best Practices:** make sure to (3)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -2008,8 +2010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (7), [[Microsoft Products|Products]] (4), [[Google]] (4), data (3), generic (1)
 > **Code Identifiers:** ecommerce (5)
-> **Code Keywords:** from, (1), for. (1), yield (1), for, (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 1.1 (1)
 > **Definitions:** is a  (1)
@@ -2019,7 +2021,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980)
@@ -2056,6 +2058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[WordPress]] (2), seo (1), [[Google]] (1), product (1)
 > **Code Identifiers:** ecommerce (3)
 > **Prerequisites:** install (1), configure (1)
 > **Env Vars:** seo (1)

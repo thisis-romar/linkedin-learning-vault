@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Making%20Sense%20of%20the%20CSS%20Box%20Model.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Making sense of the CSS Box Model
+  - [Making sense of the CSS Box Model](#making-sense-of-the-css-box-model)
 - [**1. Appetizer: The Web Is Made of Boxes**](#1-appetizer-the-web-is-made-of-boxes) (3 videos)
-  - Displaying information through the web
-  - The web is made of boxes
-  - Designing with boxes
+  - [Displaying information through the web](#displaying-information-through-the-web)
+  - [The web is made of boxes](#the-web-is-made-of-boxes)
+  - [Designing with boxes](#designing-with-boxes)
 - [**2. Entrée: The Origin of the Box in Typography**](#2-entre-the-origin-of-the-box-in-typography) (3 videos)
-  - Understanding the basics of type
-  - Change the type, change the box
-  - Text flow in the box
+  - [Understanding the basics of type](#understanding-the-basics-of-type)
+  - [Change the type, change the box](#change-the-type-change-the-box)
+  - [Text flow in the box](#text-flow-in-the-box)
 - [**3. Main Course: Understanding the Box Model**](#3-main-course-understanding-the-box-model) (8 videos)
-  - What is the CSS Box Model?
-  - Changing the contents within the box
-  - Understanding the display porperty
-  - Sidebar: Images are inline elements
-  - Position is everything
-  - Floating and clearing content
-  - Using the clearfix
-  - Pseudo elements: Making the browser hallucinate
+  - [What is the CSS Box Model?](#what-is-the-css-box-model)
+  - [Changing the contents within the box](#changing-the-contents-within-the-box)
+  - [Understanding the display porperty](#understanding-the-display-porperty)
+  - [Sidebar: Images are inline elements](#sidebar-images-are-inline-elements)
+  - [Position is everything](#position-is-everything)
+  - [Floating and clearing content](#floating-and-clearing-content)
+  - [Using the clearfix](#using-the-clearfix)
+  - [Pseudo elements: Making the browser hallucinate](#pseudo-elements-making-the-browser-hallucinate)
 - [**4. Dessert: The Brave New World of Layouts**](#4-dessert-the-brave-new-world-of-layouts) (5 videos)
-  - Modern layout modules
-  - Flex: Content-based layouts
-  - Flex in depth
-  - Grid: Layout-based layouts
-  - Grid in depth
+  - [Modern layout modules](#modern-layout-modules)
+  - [Flex: Content-based layouts](#flex-content-based-layouts)
+  - [Flex in depth](#flex-in-depth)
+  - [Grid: Layout-based layouts](#grid-layout-based-layouts)
+  - [Grid in depth](#grid-in-depth)
 - [**5. Nightcap**](#5-nightcap) (2 videos)
-  - Shapes
-  - Going further with CSS and web standards
+  - [Shapes](#shapes)
+  - [Going further with CSS and web standards](#going-further-with-css-and-web-standards)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making sense of the CSS Box Model
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/making-sense-of-the-css-box-model?u=76281980)
@@ -98,8 +98,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), web (2), [[Typography]] (1)
 > **Env Vars:** css (5)
-> **Code Keywords:** finally, (1), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 ### 1. Appetizer: The Web Is Made of Boxes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Displaying information through the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980)
@@ -150,6 +150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), [[HTML]] (2), css (2), [[JavaScript]] (1), [[Algorithms]] (1)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -210,9 +211,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), web (3), [[HTML]] (2)
 > **Env Vars:** css (3), html (2)
 > **Definitions:** is a  (3), known as (1)
-> **Code Keywords:** let (1), else, (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Tools:** firefox (1)
@@ -265,8 +266,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), css (3), [[HTML]] (2), [[Prototyping]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (3), html (2)
-> **Code Keywords:** let (2), function (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - before (1)
@@ -274,7 +275,7 @@ created: 2026-04-29
 
 ### 2. Entrée: The Origin of the Box in Typography
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the basics of type
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980)
@@ -351,8 +352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), web (3), [[Typography]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (5)
-> **Code Keywords:** type. (1), let (1), case, (1), type, (1)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
@@ -409,8 +410,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), web (1)
 > **Env Vars:** css (3)
-> **Code Keywords:** type, (1)
 > **Speakers:** - all (1)
 
 #### Text flow in the box
@@ -480,7 +481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this, (1)
+> **Frameworks & Libraries:** [[Typography]] (3), web (3), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1), [[Windows]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
@@ -489,7 +490,7 @@ created: 2026-04-29
 
 ### 3. Main Course: Understanding the Box Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the CSS Box Model?
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/what-is-the-css-box-model?u=76281980)
@@ -570,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), [[HTML]] (1), next (1), power (1)
 > **Env Vars:** css (9), html (1)
-> **Code Keywords:** default, (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
@@ -632,8 +633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[Microsoft Word|Word]] (2), [[HTML]] (1)
 > **Env Vars:** css (2), html (1), css3 (1)
-> **Code Keywords:** case, (1), case. (1), finally, (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -682,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), override (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Microsoft Word|Word]] (1), css (1)
 > **Env Vars:** html (2), css (1)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
@@ -731,7 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), default, (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), css (1), web (1), [[Programming]] (1)
 > **Env Vars:** html (2), css (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - at (1)
@@ -785,8 +786,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), css (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (2), css (1), aka (1)
-> **Code Keywords:** static (2), else. (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll up (1)
 > **Prerequisites:** set up (1)
@@ -847,6 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), css (1), web (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** css (1)
@@ -904,7 +906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** [[HTML]] (2), web (1), css (1)
 > **Env Vars:** html (2), css (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -963,8 +965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), power (1), [[HTML]] (1)
 > **Env Vars:** css (7), html (1)
-> **Code Keywords:** let (1), type. (1)
 > **Tools:** firefox (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -972,7 +974,7 @@ created: 2026-04-29
 
 ### 4. Dessert: The Brave New World of Layouts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern layout modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/modern-layout-modules?u=76281980)
@@ -1043,7 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (1), finally, (1)
+> **Frameworks & Libraries:** web (3), next (2), [[JavaScript]] (2), css (1)
 > **Env Vars:** css (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
@@ -1090,7 +1092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** css (4), [[Java]] (1)
 > **Env Vars:** css (4)
 > **Definitions:** is a  (3), known as (1)
 > **UI Navigation:** go to (1)
@@ -1141,8 +1143,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), css (2), hit (1), next (1), feature (1)
 > **Env Vars:** html (3), css (2)
-> **Code Keywords:** module (2), finally, (1), default, (1)
 > **UI Navigation:** toggle (1), go to (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -1217,8 +1219,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), next (1), [[HTML]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** module (2)
 > **UI Navigation:** click on (1), toggle (1)
 > **Env Vars:** html (1)
 > **Tools:** firefox (1)
@@ -1351,8 +1353,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), power (1), web (1), css (1)
 > **Exercise Files:** template (6)
-> **Code Keywords:** function (2), module (1), let (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** html (2), css (1)
 > **UI Navigation:** in the sidebar (1)
@@ -1363,7 +1365,7 @@ created: 2026-04-29
 
 ### 5. Nightcap
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shapes
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/shapes?u=76281980)
@@ -1428,10 +1430,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (3)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** finally, (1), this, (1)
 > **Tools:** firefox (1)
 > **Analogies:** for example (1)
 > **Warnings:** caveat (1)
@@ -1462,9 +1464,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), web (4), [[WordPress]] (1), next (1)
 > **Env Vars:** css (8)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), finally, (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [morten] (1)

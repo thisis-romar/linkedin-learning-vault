@@ -34,7 +34,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Interfaces%20and%20Generics.md)
@@ -53,34 +53,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learning C#: Interfaces and generics
-  - What you should know
-  - Setting up the environment
+  - [Learning C#: Interfaces and generics](#learning-c-interfaces-and-generics)
+  - [What you should know](#what-you-should-know)
+  - [Setting up the environment](#setting-up-the-environment)
 - [**1. Overview**](#1-overview) (2 videos)
-  - What are interfaces?
-  - What are generics?
+  - [What are interfaces?](#what-are-interfaces)
+  - [What are generics?](#what-are-generics)
 - [**2. C# Interfaces**](#2-c-interfaces) (8 videos)
-  - Understanding C# interfaces
-  - Defining and implementing an interface
-  - Interfaces and casting
-  - Implementing multiple interfaces
-  - Using explicit interface implementation
-  - Using .NET-defined interfaces
-  - Challenge: Programming C# interfaces
-  - Solution: Programming C# interfaces
+  - [Understanding C# interfaces](#understanding-c-interfaces)
+  - [Defining and implementing an interface](#defining-and-implementing-an-interface)
+  - [Interfaces and casting](#interfaces-and-casting)
+  - [Implementing multiple interfaces](#implementing-multiple-interfaces)
+  - [Using explicit interface implementation](#using-explicit-interface-implementation)
+  - [Using .NET-defined interfaces](#using-net-defined-interfaces)
+  - [Challenge: Programming C# interfaces](#challenge-programming-c-interfaces)
+  - [Solution: Programming C# interfaces](#solution-programming-c-interfaces)
 - [**3. C# Generics**](#3-c-generics) (6 videos)
-  - The benefits of generics
-  - Generic list collections
-  - Queue and stack
-  - Dictionary
-  - Challenge: Programming C# generics
-  - Solution: Programming C# generics
+  - [The benefits of generics](#the-benefits-of-generics)
+  - [Generic list collections](#generic-list-collections)
+  - [Queue and stack](#queue-and-stack)
+  - [Dictionary](#dictionary)
+  - [Challenge: Programming C# generics](#challenge-programming-c-generics)
+  - [Solution: Programming C# generics](#solution-programming-c-generics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning C#: Interfaces and generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics-23314002?u=76281980)
@@ -103,7 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), application (1)
 > **Speakers:** - hi (1)
 
 #### What you should know
@@ -137,9 +137,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming Concepts]] (1), [[Programming Foundations]] (1), data (1), [[Windows]] (1)
 > **Tools:** visual studio (4)
 > **Analogies:** such as (4)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
@@ -222,19 +222,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (2), [[Linux]] (2), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** net (11), sdk (9)
 > **Tools:** visual studio (6), terminal (5), github (1)
 > **Prerequisites:** install (8), you'll need (2), set up (1)
 > **CLI Commands:** find (2), dotnet (2), make (2)
 > **Exercise Files:** exercise files (3), download the (1)
-> **Code Keywords:** let (3)
 > **Versions:** 5.0.400 (1), 5.0 (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are interfaces?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-interfaces?u=76281980)
@@ -293,7 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (9), implements (3), let (1), class. (1), class, (1)
+> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** later in (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -339,7 +339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (1)
+> **Frameworks & Libraries:** data (7), application (1)
 > **Cross-References:** later in (2)
 > **Versions:** 2.0 (1)
 > **Definitions:** is an  (1)
@@ -349,7 +349,7 @@ created: 2026-04-29
 
 ### 2. C# Interfaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding C# interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/understanding-c-sharp-interfaces?u=76281980)
@@ -406,7 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (1), case, (1), implements (1), class. (1)
+> **Frameworks & Libraries:** [[Programming]] (3), application (3), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
@@ -502,7 +502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (21), let (15), public (4), function (3), implements (2)
+> **Frameworks & Libraries:** [[Windows]] (1), application (1), next (1)
 > **Tools:** terminal (5), vs code (2), visual studio (1)
 > **UI Navigation:** open the (2), scroll down (1), click on (1)
 > **Analogies:** imagine (1), for example (1)
@@ -595,7 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (10), let (9), implements (3), class. (1), case, (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is an  (3), is a  (3), in other words (1)
 > **Tools:** visual studio (2), terminal (2)
 > **Analogies:** for example (3)
@@ -653,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (4), class, (2), implements (2), public (1)
+> **Frameworks & Libraries:** data (3), next (2), feature (1)
 > **CLI Commands:** make (5), dotnet (1)
 > **Tools:** terminal (2), vs code (1)
 > **Cross-References:** in the next (1)
@@ -750,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (11), let (4), class, (2), class. (2), type, (1)
+> **Frameworks & Libraries:** feature (1), application (1)
 > **UI Navigation:** open the (2), scroll down (1)
 > **CLI Commands:** dotnet (1)
 > **Cross-References:** earlier in (1)
@@ -898,7 +898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), interface (16), function (5), class. (2), type. (1)
+> **Frameworks & Libraries:** data (2), next (2), application (1)
 > **Env Vars:** net (9), msdn (2)
 > **UI Navigation:** scroll down (2), click on (1)
 > **CLI Commands:** find (1)
@@ -962,7 +962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (2), case, (1), finally, (1), catch. (1)
+> **Frameworks & Libraries:** application (3), [[Programming]] (1), [[Microsoft Word|Word]] (1), next (1)
 > **Versions:** 9.27 (1), 2.18 (1)
 > **CLI Commands:** dotnet (1)
 > **Code Identifiers:** irandomizable (1)
@@ -1012,14 +1012,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), interface (4), let (3), class, (2), this, (1)
+> **Frameworks & Libraries:** [[Programming]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 3. C# Generics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980)
@@ -1156,7 +1156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), case, (2), type. (1), type, (1)
+> **Frameworks & Libraries:** data (13), generic (8), application (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** terminal (4), vs code (3)
 > **Env Vars:** net (5)
 > **CLI Commands:** dotnet (3)
@@ -1342,7 +1342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (27), function (14), class, (3), lambda (3), class. (2)
+> **Frameworks & Libraries:** generic (7), data (3)
 > **CLI Commands:** find (8), dotnet (4), make (1)
 > **Code Identifiers:** emplist (7), mname (4), msalary (1)
 > **Tools:** terminal (4), vs code (1)
@@ -1486,7 +1486,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (6), case, (3), for, (1), this, (1)
+> **Frameworks & Libraries:** data (8), [[Programming]] (2), generic (2)
 > **Definitions:** is a  (2), is called (1)
 > **Tools:** visual studio (1), terminal (1)
 > **CLI Commands:** dotnet (1)
@@ -1627,7 +1627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (3), catch, (2), self (1), continue (1)
+> **Frameworks & Libraries:** css (3), [[HTML]] (2), generic (2), data (2), [[Programming]] (2)
 > **Code Identifiers:** filetypes (6)
 > **Env Vars:** css (2), html (1)
 > **File Paths:** remove.css (1)
@@ -1696,7 +1696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), function (1), finally, (1)
+> **Frameworks & Libraries:** data (3), generic (2), next (2), [[Programming]] (1), application (1)
 > **CLI Commands:** make (2), find (1), dotnet (1)
 > **Tools:** terminal (2), vs code (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1800,7 +1800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), case, (2), let (1), finally, (1), throw (1)
+> **Frameworks & Libraries:** next (3), generic (1)
 > **CLI Commands:** find (3), make (3)
 > **Code Identifiers:** findfords (1), totalvalue (1)
 > **Definitions:** is a  (2)
@@ -1811,7 +1811,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/next-steps?u=76281980)
@@ -1834,7 +1834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** next (1), [[Programming]] (1), [[C#]] (1)
 > **Speakers:** - [joe] (1)
 
 

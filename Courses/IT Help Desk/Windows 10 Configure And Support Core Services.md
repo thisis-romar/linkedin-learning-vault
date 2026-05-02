@@ -26,7 +26,7 @@ tags:
   - skill/windows-system-administration
   - skill/windows-10
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%2010%20Configure%20And%20Support%20Core%20Services.md)
@@ -45,53 +45,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of Windows 10 configuration
+  - [The power of Windows 10 configuration](#the-power-of-windows-10-configuration)
 - [**1. Configure Networking**](#1-configure-networking) (10 videos)
-  - IP addressing, subnets, and DHCP
-  - Configure name resolution
-  - Connect to a network
-  - Use Windows Firewall
-  - Windows Firewall advanced security
-  - Configure mobile networking
-  - Manage Wi-Fi settings
-  - Add mobile devices to a network
-  - Configure a VPN
-  - Troubleshoot network problems
+  - [IP addressing, subnets, and DHCP](#ip-addressing-subnets-and-dhcp)
+  - [Configure name resolution](#configure-name-resolution)
+  - [Connect to a network](#connect-to-a-network)
+  - [Use Windows Firewall](#use-windows-firewall)
+  - [Windows Firewall advanced security](#windows-firewall-advanced-security)
+  - [Configure mobile networking](#configure-mobile-networking)
+  - [Manage Wi-Fi settings](#manage-wi-fi-settings)
+  - [Add mobile devices to a network](#add-mobile-devices-to-a-network)
+  - [Configure a VPN](#configure-a-vpn)
+  - [Troubleshoot network problems](#troubleshoot-network-problems)
 - [**2. Configure Storage**](#2-configure-storage) (7 videos)
-  - Manage partitions with Disk Management
-  - Manage storage with PowerShell
-  - Create a VHD
-  - Configure a VHD
-  - Configure removable devices
-  - Create and configure storage spaces
-  - Troubleshoot storage and devices
+  - [Manage partitions with Disk Management](#manage-partitions-with-disk-management)
+  - [Manage storage with PowerShell](#manage-storage-with-powershell)
+  - [Create a VHD](#create-a-vhd)
+  - [Configure a VHD](#configure-a-vhd)
+  - [Configure removable devices](#configure-removable-devices)
+  - [Create and configure storage spaces](#create-and-configure-storage-spaces)
+  - [Troubleshoot storage and devices](#troubleshoot-storage-and-devices)
 - [**3. Configure Data Access and Usage**](#3-configure-data-access-and-usage) (4 videos)
-  - Create and configure folder shares
-  - Configure and use OneDrive
-  - Create and manage permissions
-  - Troubleshoot data access
+  - [Create and configure folder shares](#create-and-configure-folder-shares)
+  - [Configure and use OneDrive](#configure-and-use-onedrive)
+  - [Create and manage permissions](#create-and-manage-permissions)
+  - [Troubleshoot data access](#troubleshoot-data-access)
 - [**4. Implement Apps**](#4-implement-apps) (5 videos)
-  - Configure desktop apps
-  - Configure startup options
-  - Add and remove features
-  - Create and deploy provisioning packages
-  - Windows Assessment and Deployment Kit
+  - [Configure desktop apps](#configure-desktop-apps)
+  - [Configure startup options](#configure-startup-options)
+  - [Add and remove features](#add-and-remove-features)
+  - [Create and deploy provisioning packages](#create-and-deploy-provisioning-packages)
+  - [Windows Assessment and Deployment Kit](#windows-assessment-and-deployment-kit)
 - [**5. Configure Remote Management**](#5-configure-remote-management) (9 videos)
-  - Use remote management tools
-  - Remote management settings
-  - Remote management with PowerShell
-  - Configure and use Remote Assistance
-  - Configure and use Remote Desktop
-  - Configure and use Remote Assist
-  - Configure and use Quick Assist
-  - Configure Windows Remote Management
-  - Configure Windows Admin Center
+  - [Use remote management tools](#use-remote-management-tools)
+  - [Remote management settings](#remote-management-settings)
+  - [Remote management with PowerShell](#remote-management-with-powershell)
+  - [Configure and use Remote Assistance](#configure-and-use-remote-assistance)
+  - [Configure and use Remote Desktop](#configure-and-use-remote-desktop)
+  - [Configure and use Remote Assist](#configure-and-use-remote-assist)
+  - [Configure and use Quick Assist](#configure-and-use-quick-assist)
+  - [Configure Windows Remote Management](#configure-windows-remote-management)
+  - [Configure Windows Admin Center](#configure-windows-admin-center)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go next
+  - [Where to go next](#where-to-go-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of Windows 10 configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980)
@@ -116,15 +116,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Windows 10]] (1), data (1)
 > **Prerequisites:** configure (3)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** cit (1)
 > **Speakers:** - hello (1)
 
 
 ### 1. Configure Networking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### IP addressing, subnets, and DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980)
@@ -259,8 +259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), [[LinkedIn]] (2), node (2), [[Windows 10]] (1), business (1)
 > **Env Vars:** dhcp (8), cmd (1), dns (1), iana (1)
-> **Code Keywords:** let (4), function (1), this. (1), private (1), static (1)
 > **CLI Commands:** find (2), node (2), make (2)
 > **Definitions:** is a  (3), means that (2)
 > **Tools:** command prompt (4)
@@ -415,8 +415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (28), [[Microsoft]] (3), web (2), [[Search]] (2), business (1)
 > **Env Vars:** dns (28), dhcp (3), tcp (1), isp (1)
-> **Code Keywords:** let (5), require (1), this, (1)
 > **CLI Commands:** find (4)
 > **Versions:** 10.35 (1), 8.8.8 (1), 8.8.4 (1)
 > **Definitions:** is called (1), stands for (1), is a  (1)
@@ -539,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), private (1), type. (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), next (2), [[Forms]] (1), [[Security]] (1)
 > **UI Navigation:** right-click (2), toggle (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Cross-References:** go back to (1)
@@ -653,7 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (7), public (6), default, (2), let (2), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Defender|Defender]] (4), feature (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (2)
 > **Best Practices:** make sure to (1), good practice (1)
@@ -748,7 +748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), pass (2), private (2), delete (1)
+> **Frameworks & Libraries:** [[Windows]] (10), data (3), [[Security]] (3), traffic (2), [[Microsoft Defender|Defender]] (2)
 > **Prerequisites:** configure (1), you'll need (1), set up (1)
 > **Code Identifiers:** itunes (2)
 > **CLI Commands:** make (1)
@@ -852,7 +852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), case, (1)
+> **Frameworks & Libraries:** data (5), [[Windows]] (3), [[Windows 10]] (1), power (1), vpn (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** configure (2), set up (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -897,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), public (1), let (1)
+> **Frameworks & Libraries:** web (1), data (1), next (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Versions:** 2.0 (1)
 > **UI Navigation:** toggle (1)
@@ -957,9 +957,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), management (1), [[Windows Server]] (1), dns (1)
 > **Prerequisites:** configure (3), set up (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** private (1), public (1)
 > **Env Vars:** dns (1)
 > **Versions:** 8.1 (1)
 > **UI Navigation:** go to (1)
@@ -1085,8 +1085,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (12), [[Security]] (2), next (1), [[Windows]] (1), data (1)
 > **Env Vars:** vpn (12), vpm (1)
-> **Code Keywords:** let (2), finally, (2), public (1), private (1), continue (1)
 > **Prerequisites:** set up (3), you'll need (3), configure (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
@@ -1217,7 +1217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (5), let (4), public (2), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Troubleshooting]] (1)
 > **UI Navigation:** select the (2), toggle (1), scroll down (1), double-click (1), go to (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** go back to (3)
@@ -1229,7 +1229,7 @@ created: 2026-04-29
 
 ### 2. Configure Storage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage partitions with Disk Management
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980)
@@ -1406,7 +1406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (2), default. (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (10), management (4), next (4), [[Virtual Machines]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** raid (4), dvd (1), usb (1), ntfs (1)
 > **Definitions:** is an  (3), stands for (1)
 > **Prerequisites:** you'll need (2), install (1), configure (1)
@@ -1519,8 +1519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (9), management (4), [[Search]] (2), [[Windows]] (1), data (1)
 > **Tools:** powershell (9), command line (1)
-> **Code Keywords:** let (2), case, (1), this, (1), case. (1)
 > **Speakers:** - disknumber (2), - [instructor] (1), - filesystem (1)
 > **Env Vars:** usb (2), ntfs (1)
 > **Definitions:** is a  (2)
@@ -1635,9 +1635,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Windows]] (3), [[Microsoft]] (1), [[Powershell]] (1), [[Windows 10]] (1)
 > **Env Vars:** vhd (4), vhdx (2), gpt (1), mbr (1)
 > **Prerequisites:** install (2), you'll need (2), before you begin (1), configure (1)
-> **Code Keywords:** let (1), this. (1), public (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Tools:** powershell (1)
@@ -1787,7 +1787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (1), finally, (1), this, (1), default, (1)
+> **Frameworks & Libraries:** management (5), next (3), [[Powershell]] (2), data (2), [[Windows]] (1)
 > **Env Vars:** vhd (5), gpt (1), ntfs (1)
 > **UI Navigation:** right-click (6), go to (1)
 > **Analogies:** just like (1), for instance (1), kind of like (1)
@@ -1937,7 +1937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), protected (3), require (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (9), next (4), [[Microsoft]] (1), [[Windows]] (1)
 > **UI Navigation:** double-click (3), navigate to (2), scroll down (1), right-click (1), select the (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** usb (2), wpd (1)
@@ -2013,8 +2013,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), data (2), next (1)
 > **Env Vars:** usb (4), raid (1), ata (1), scsi (1), ntfs (1)
-> **Code Keywords:** delete (2), new, (1), let (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (2)
 > **UI Navigation:** select the (1)
@@ -2160,7 +2160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (3), while, (1), default, (1)
+> **Frameworks & Libraries:** management (5), data (2), application (1), [[Search]] (1), next (1)
 > **UI Navigation:** right-click (7), select the (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** usb (2), usb1 (1)
@@ -2172,7 +2172,7 @@ created: 2026-04-29
 
 ### 3. Configure Data Access and Usage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and configure folder shares
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980)
@@ -2383,7 +2383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), delete (3), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), prompt (5), management (3), [[Security]] (2), data (1)
 > **Tools:** powershell (5), command prompt (5), command line (2)
 > **CLI Commands:** snap (2), make (2)
 > **Env Vars:** smb (3), cmd (1)
@@ -2515,7 +2515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (2), new. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (18), data (8), cloud (4), [[Microsoft]] (3), web (3)
 > **UI Navigation:** go to (2), navigate to (1), open the (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **CLI Commands:** make (2)
@@ -2698,8 +2698,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Active Directory]] (1)
 > **Env Vars:** ntfs (14), fat (1)
-> **Code Keywords:** let (6), override (2), default. (1), default, (1), finally, (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** configure (2), before we start (1)
 > **Best Practices:** it's best to (1), make sure to (1)
@@ -2836,9 +2836,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (3), [[Hardware]] (2), [[Security]] (2), data (1), [[Troubleshooting]] (1)
 > **Prerequisites:** configure (3), you'll need (2)
 > **Env Vars:** ntfs (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Tools:** powershell (3)
 > **UI Navigation:** right-click (2), go to (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2848,7 +2848,7 @@ created: 2026-04-29
 
 ### 4. Implement Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure desktop apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980)
@@ -3051,7 +3051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (2), else, (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[Windows]] (7), next (6), web (4), [[Search]] (4), [[Microsoft]] (3)
 > **CLI Commands:** find (8), cd (2), make (2)
 > **Prerequisites:** configure (4), install (1)
 > **Env Vars:** dvd (4)
@@ -3169,7 +3169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default. (1), else. (1), function (1), finally, (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Search]] (4), power (3), [[Hardware]] (2), feature (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** navigate to (1), open the (1)
 > **Definitions:** is a  (1)
@@ -3290,7 +3290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), function (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[Search]] (1), [[Microsoft]] (1), application (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** configure (2), install (1)
 > **Code Identifiers:** itunes (2)
@@ -3396,8 +3396,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (12), next (5), [[Security]] (2), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1)
 > **Prerequisites:** install (4), set up (2), you'll need (2)
-> **Code Keywords:** public (1), let (1), export, (1), continue (1), this, (1)
 > **Env Vars:** adk (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3522,8 +3522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (15), [[Windows 10]] (3), data (3), [[Microsoft]] (1), prompt (1)
 > **Env Vars:** adk (6), dism (4), usmt (2), xml (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Tools:** command line (2), command prompt (1)
 > **UI Navigation:** right-click (2), select the (1)
 > **Prerequisites:** setup (1), you'll need (1), configure (1)
@@ -3534,7 +3534,7 @@ created: 2026-04-29
 
 ### 5. Configure Remote Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use remote management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980)
@@ -3623,8 +3623,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), [[Powershell]] (5), [[Microsoft]] (3), [[Windows]] (2), [[Microsoft Office|Office]] (1)
 > **Tools:** powershell (5)
-> **Code Keywords:** require (1), let (1), this. (1), finally, (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Analogies:** such as (3), for instance (1)
 > **Prerequisites:** you'll need (2), setup (1), set up (1)
@@ -3729,10 +3729,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), management (3), [[Search]] (2), [[Windows 10]] (2), [[Microsoft]] (1)
 > **UI Navigation:** scroll down (4), select the (1), open the (1), navigate to (1), double-click (1)
 > **Prerequisites:** configure (5), you'll need (2)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (2), this. (1), continue (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Env Vars:** ras (1), cmak (1)
 > **Analogies:** for instance (2)
@@ -3769,6 +3769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), [[Powershell]] (4), [[Windows]] (3), prompt (2)
 > **Tools:** powershell (4), command prompt (2)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -3873,7 +3874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type, (1), continue (1)
+> **Frameworks & Libraries:** [[Search]] (2), application (1), [[Windows]] (1), prompt (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** make sure you have (1), configure (1)
 > **CLI Commands:** make (1)
@@ -3993,8 +3994,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Windows]] (1)
 > **Env Vars:** rdp (3), tcp (3), udp (3)
-> **Code Keywords:** let (4), continue (1), finally, (1), default, (1)
 > **Prerequisites:** configure (6)
 > **UI Navigation:** navigate to (2), scroll down (1)
 > **CLI Commands:** find (1)
@@ -4035,6 +4036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[Microsoft]] (2), [[Windows 10]] (1), application (1), [[Android]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
@@ -4073,6 +4075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows 10]] (1), [[Search]] (1), application (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4159,8 +4162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (7), [[Windows]] (3), [[Hardware]] (3), prompt (2), [[Scripting]] (1)
 > **Env Vars:** wmi (3), http (3), api (1)
-> **Code Keywords:** interface (1), default, (1), let (1), else. (1), type. (1)
 > **Prerequisites:** set up (3), configure (2), install (1)
 > **Tools:** command line (3), command prompt (2)
 > **Definitions:** is a  (4)
@@ -4281,7 +4284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (3), web (2), management (2)
 > **UI Navigation:** scroll down (2), go to (1), open the (1)
 > **Prerequisites:** install (1), you'll need (1), set up (1)
 > **Code Identifiers:** itunes (2)
@@ -4293,7 +4296,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/where-to-go-next-20233542?u=76281980)
@@ -4310,6 +4313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (4), data (1), next (1)
 > **Speakers:** - i (1)
 
 

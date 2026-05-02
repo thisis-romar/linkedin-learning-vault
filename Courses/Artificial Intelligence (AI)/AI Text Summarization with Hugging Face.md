@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/hugging-face-products
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Text%20Summarization%20with%20Hugging%20Face.md)
@@ -51,50 +51,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AI Text Summarization with Hugging Face
+  - [AI Text Summarization with Hugging Face](#ai-text-summarization-with-hugging-face)
 - [**1. Understanding Extractive Text Summarization**](#1-understanding-extractive-text-summarization) (4 videos)
-  - Prerequisites
-  - Extractive text summarization
-  - Intermediate representations for extractive summarization
-  - Evaluation metrics for summaries
+  - [Prerequisites](#prerequisites)
+  - [Extractive text summarization](#extractive-text-summarization)
+  - [Intermediate representations for extractive summarization](#intermediate-representations-for-extractive-summarization)
+  - [Evaluation metrics for summaries](#evaluation-metrics-for-summaries)
 - [**2. Performing Extractive Text Summarization Using Hugging Face**](#2-performing-extractive-text-summarization-using-hugging-face) (4 videos)
-  - Exploring Hugging Face
-  - Signing up for Hugging Face
-  - The sumy library for extractive summarization
-  - Extractive text summarization on Hugging Face
+  - [Exploring Hugging Face](#exploring-hugging-face)
+  - [Signing up for Hugging Face](#signing-up-for-hugging-face)
+  - [The sumy library for extractive summarization](#the-sumy-library-for-extractive-summarization)
+  - [Extractive text summarization on Hugging Face](#extractive-text-summarization-on-hugging-face)
 - [**3. Understanding Abstractive Text Summarization**](#3-understanding-abstractive-text-summarization) (2 videos)
-  - Abstractive text summarization
-  - Abstractive summarization using the Hosted Inference API on Hugging Face
+  - [Abstractive text summarization](#abstractive-text-summarization)
+  - [Abstractive summarization using the Hosted Inference API on Hugging Face](#abstractive-summarization-using-the-hosted-inference-api-on-hugging-face)
 - [**4. Understanding Transformers**](#4-understanding-transformers) (4 videos)
-  - Sequence-to-sequence models
-  - Attention in sequence-to-sequence models
-  - A brief introduction to Transformers
-  - Transformers in Hugging Face
+  - [Sequence-to-sequence models](#sequence-to-sequence-models)
+  - [Attention in sequence-to-sequence models](#attention-in-sequence-to-sequence-models)
+  - [A brief introduction to Transformers](#a-brief-introduction-to-transformers)
+  - [Transformers in Hugging Face](#transformers-in-hugging-face)
 - [**5. Performing Summarization Using a Hugging Face Pipeline**](#5-performing-summarization-using-a-hugging-face-pipeline) (6 videos)
-  - Using Colab to work with Hugging Face Transformers
-  - Loading the CNN Daily Mail dataset
-  - Cleaning text data
-  - Generating summaries with Hugging Face Transformers
-  - Evaluating summaries using ROUGE scores
-  - Summarizing text and computing aggregate ROUGE scores
+  - [Using Colab to work with Hugging Face Transformers](#using-colab-to-work-with-hugging-face-transformers)
+  - [Loading the CNN Daily Mail dataset](#loading-the-cnn-daily-mail-dataset)
+  - [Cleaning text data](#cleaning-text-data)
+  - [Generating summaries with Hugging Face Transformers](#generating-summaries-with-hugging-face-transformers)
+  - [Evaluating summaries using ROUGE scores](#evaluating-summaries-using-rouge-scores)
+  - [Summarizing text and computing aggregate ROUGE scores](#summarizing-text-and-computing-aggregate-rouge-scores)
 - [**6. Fine-Tuning a Transformer Model for Summarization**](#6-fine-tuning-a-transformer-model-for-summarization) (4 videos)
-  - Understanding tokenizers
-  - Fine-tuning the T5 small model
-  - Pushing the model to the Hugging Face Hub
-  - Summarizing text using the fine-tuned model
+  - [Understanding tokenizers](#understanding-tokenizers)
+  - [Fine-tuning the T5 small model](#fine-tuning-the-t5-small-model)
+  - [Pushing the model to the Hugging Face Hub](#pushing-the-model-to-the-hugging-face-hub)
+  - [Summarizing text using the fine-tuned model](#summarizing-text-using-the-fine-tuned-model)
 - [**7. Exploring Different Hugging Face Transformers for Summarization**](#7-exploring-different-hugging-face-transformers-for-summarization) (6 videos)
-  - Accessing the BBC dataset on Google Drive
-  - Instantiating and cleaning the BBC News summaries dataset
-  - Generating summaries using Pegasus
-  - Generating multiple summaries and computing aggregate ROUGE scores
-  - Generating summaries using BART
-  - Computing ROUGE metrics for a set of summaries
+  - [Accessing the BBC dataset on Google Drive](#accessing-the-bbc-dataset-on-google-drive)
+  - [Instantiating and cleaning the BBC News summaries dataset](#instantiating-and-cleaning-the-bbc-news-summaries-dataset)
+  - [Generating summaries using Pegasus](#generating-summaries-using-pegasus)
+  - [Generating multiple summaries and computing aggregate ROUGE scores](#generating-multiple-summaries-and-computing-aggregate-rouge-scores)
+  - [Generating summaries using BART](#generating-summaries-using-bart)
+  - [Computing ROUGE metrics for a set of summaries](#computing-rouge-metrics-for-a-set-of-summaries)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI Text Summarization with Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980)
@@ -201,16 +201,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (10), nlp (4), [[Deep Learning]] (2), [[Automatic Text Summarization]] (2), open-source (2)
 > **Env Vars:** nlp (4), gpt (2), api (2)
 > **Analogies:** imagine (3), such as (1), for example (1)
-> **Code Keywords:** let (2), type, (1), type. (1)
 > **Definitions:** refers to (2), is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 
 
 ### 1. Understanding Extractive Text Summarization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980)
@@ -237,8 +237,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[PyTorch]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1)
 > **CLI Commands:** python (5), make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** nlp (1)
 
 #### Extractive text summarization
@@ -288,9 +288,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** imagine (1)
 
@@ -411,7 +411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), finally, (2), let (2), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), [[Probability]] (4), [[Google]] (1), [[Search]] (1), data (1)
 > **Definitions:** is a  (2), stands for (2), is an  (2), means that (1), known as (1)
 > **Analogies:** picture (1), imagine (1), similar to (1)
 > **Env Vars:** idf (2)
@@ -474,15 +474,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** bi (4)
 > **Env Vars:** rouge (18), lcs (2)
 > **Definitions:** is a  (3), stands for (2), is called (1), means that (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** we discussed (1)
 
 
 ### 2. Performing Extractive Text Summarization Using Hugging Face
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980)
@@ -565,9 +565,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (19), [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Hugging Face|Huggingface]] (1), open-source (1), nlp (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** refers to (1), is a  (1), known as (1), is an  (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** nlp (1), bart (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Code Identifiers:** cnn_dailymail (1)
@@ -604,9 +604,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (5), next (1), cloud (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 
 #### The sumy library for extractive summarization
@@ -664,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), implements (2), let (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (7), [[GitHub]] (2), [[HTML]] (2), web (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** html (2), url (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (2)
@@ -782,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11)
+> **Frameworks & Libraries:** hit (3), next (2), [[Hugging Face]] (1)
 > **Definitions:** is a  (5), is an  (3)
 > **Env Vars:** url (3), lsa (1), rouge (1)
 > **CLI Commands:** make (1), find (1)
@@ -794,7 +794,7 @@ created: 2026-04-29
 
 ### 3. Understanding Abstractive Text Summarization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Abstractive text summarization
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980)
@@ -841,10 +841,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Natural Language Processing (NLP)|Natural language processing]] (3), nlp (2), [[Transformer Models]] (2), [[Deep Learning]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (3)
 > **Env Vars:** nlp (2)
-> **Code Keywords:** let (1)
 
 #### Abstractive summarization using the Hosted Inference API on Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980)
@@ -969,8 +969,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (8), api (8), [[Google]] (3), [[Transformer Models]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** api (8), rouge (6), nlp (1)
-> **Code Keywords:** let (10), switch (1), try. (1), case, (1)
 > **UI Navigation:** click on (5), select the (1), scroll down (1)
 > **Definitions:** is a  (6), is an  (1)
 > **Code Identifiers:** cnn_dailymail (3), scientific_papers (1)
@@ -981,7 +981,7 @@ created: 2026-04-29
 
 ### 4. Understanding Transformers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequence-to-sequence models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980)
@@ -1054,7 +1054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (1), new, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Deep Learning]] (2), next (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
@@ -1106,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[ChatGPT]] (1), [[Transformer Models]] (1), data (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -1172,7 +1172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), case. (1)
+> **Frameworks & Libraries:** data (3), [[Google]] (1), nlp (1)
 > **Env Vars:** nlp (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -1266,9 +1266,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (11), nlp (7), cnn (4), [[PyTorch]] (2), [[TensorFlow]] (2)
 > **Env Vars:** nlp (7), cnn (4), api (1), mlm (1), gsg (1)
 > **Definitions:** is a  (4), stands for (2)
-> **Code Keywords:** interface (1), case. (1), let (1), function (1), finally, (1)
 > **CLI Commands:** python (1), pip (1)
 > **Cross-References:** we discussed (1), we mentioned (1)
 > **Analogies:** for example (1), similar to (1)
@@ -1277,7 +1277,7 @@ created: 2026-04-29
 
 ### 5. Performing Summarization Using a Hugging Face Pipeline
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Colab to work with Hugging Face Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980)
@@ -1336,10 +1336,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Python (Programming Language)|Python]] (3), nlp (2), cnn (1), data (1)
 > **Tools:** colab (8), jupyter (1)
 > **Env Vars:** gpu (3), rouge (2), nlp (2), cnn (1)
 > **CLI Commands:** python (3), pip (2), make (1)
-> **Code Keywords:** let (3), for. (1), type, (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** install (2), setup (1)
 > **UI Navigation:** select the (1), go to (1)
@@ -1456,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), switch (1), case. (1)
+> **Frameworks & Libraries:** data (12), [[Hugging Face]] (10), [[Representational State Transfer (REST)|Rest]] (3), [[Tokens]] (3), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** text_summarization_write (3), text_summarization_read (1), load_dataset (1), cnn_dailymail (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Env Vars:** cnn (2), nlp (1), gpu (1), url (1)
@@ -1514,7 +1514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** data (3), [[Hugging Face]] (1)
 > **Code Identifiers:** clean_txt (2), cnn_news_summary_ds (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1605,8 +1605,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (6), [[Hugging Face]] (5), data (1), api (1)
 > **Env Vars:** nlp (6), api (1)
-> **Code Keywords:** let (3), pass (2), for, (1)
 > **Warnings:** warning (5)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -1680,9 +1680,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (1), nlp (1), [[Computer Vision]] (1), data (1), [[Microsoft Word|Word]] (1)
 > **Versions:** 0.83 (2), 0.87 (2), 0.63 (1), 0.869 (1), 0.57 (1)
 > **Code Identifiers:** rougel (3), rougelsum (3)
-> **Code Keywords:** let (5)
 > **Definitions:** is a  (3), means that (1)
 > **Env Vars:** lcs (2), nlp (1)
 > **Analogies:** such as (2)
@@ -1764,7 +1764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default, (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Tokens]] (2), [[Python (Programming Language)|Python]] (1)
 > **Versions:** 0.32 (1), 0.139 (1), 0.24 (1)
 > **CLI Commands:** python (1), find (1)
 > **Code Identifiers:** use_aggregator (1), act_vs_pred_summaries_df (1)
@@ -1776,7 +1776,7 @@ created: 2026-04-29
 
 ### 6. Fine-Tuning a Transformer Model for Summarization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding tokenizers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980)
@@ -1831,7 +1831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), class. (1), let (1)
+> **Frameworks & Libraries:** [[Tokens]] (7), [[Hugging Face]] (2), cnn (1), nlp (1), data (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** from_pretrained (1), convert_tokens_to_ids (1)
 > **Env Vars:** cnn (1), nlp (1)
@@ -1976,7 +1976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2), finally, (2)
+> **Frameworks & Libraries:** data (15), [[Tokens]] (6), cnn (3), [[Python (Programming Language)|Python]] (1), [[Hugging Face]] (1)
 > **Code Identifiers:** batch_decode (3), from_pretrained (1), input_ids (1), eval_pred (1), push_to_hub (1)
 > **Env Vars:** cnn (3), gpu (1)
 > **CLI Commands:** python (1), find (1)
@@ -2036,12 +2036,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cnn (1), [[Hugging Face]] (1), [[PyTorch]] (1), data (1)
 > **Code Identifiers:** push_to_hub (2), cnn_new (1), trained_on_reduced_data (1), training_args (1), pytorch_model (1)
 > **Versions:** 0.2175 (1), 0.2183 (1), 0.219 (1)
 > **Env Vars:** cnn (1), gpu (1)
 > **Tools:** colab (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 
@@ -2154,7 +2154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (2)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Hugging Face]] (2), cloud (2), [[Microsoft Word|Word]] (2), [[PyTorch]] (1)
 > **Code Identifiers:** rougelsum (6), rougel (3), on_reduced_data (2), from_pretrained (2), max_new_tokens (1)
 > **Versions:** 0.25 (1), 0.13 (1), 0.153 (1), 0.07 (1), 0.324 (1)
 > **CLI Commands:** make (1)
@@ -2163,7 +2163,7 @@ created: 2026-04-29
 
 ### 7. Exploring Different Hugging Face Transformers for Summarization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing the BBC dataset on Google Drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980)
@@ -2238,8 +2238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Drive]] (7), [[Hugging Face]] (3), data (2), [[Tokens]] (2), [[Transformer Models]] (1)
 > **Env Vars:** bbc (4), cnn (1), gpu (1), rouge (1)
-> **Code Keywords:** let (5), continue (1)
 > **CLI Commands:** pip (2), find (2), unzip (1)
 > **Tools:** colab (5)
 > **Exercise Files:** zip file (3)
@@ -2334,7 +2334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5)
+> **Frameworks & Libraries:** data (6), next (2), [[Pandas (Software)|Pandas]] (2), [[Google Drive]] (1), [[Search]] (1)
 > **Code Identifiers:** articles_data (1), summaries_data (1), news_summary_df (1), cleaned_news_summary (1)
 > **File Paths:** 001.txt (1)
 > **Env Vars:** bbc (1)
@@ -2439,7 +2439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Google]] (2), [[Hugging Face]] (2), cnn (2), [[Tokens]] (2), [[PyTorch]] (2)
 > **Code Identifiers:** from_pretrained (2), cnn_dailymail (1), rougel (1), rougelsum (1)
 > **Env Vars:** cnn (2), bbc (1), gpu (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
@@ -2511,8 +2511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** rougelsum (3), article_text (1), article_summaries (1), candidate_summaries (1), rougel (1)
-> **Code Keywords:** let (6)
 > **Versions:** 0.33 (1), 0.23 (1), 0.24 (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpu (1)
@@ -2589,7 +2589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Transformer Models]] (2), cnn (2), [[Tokens]] (1)
 > **Versions:** 0.57 (2), 0.3334 (1), 0.55 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** cnn (1)
@@ -2642,7 +2642,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
 > **Code Identifiers:** rougelsum (5), rougel (1)
 > **Versions:** 0.39 (1), 0.33 (1), 0.27 (1), 0.23 (1)
 > **Env Vars:** bbc (1)
@@ -2652,7 +2651,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980)
@@ -2683,7 +2682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), self (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), ai (1), application (1), [[Transformer Models]] (1), [[LinkedIn]] (1)
 
 
 ## Instructor

@@ -28,7 +28,7 @@ tags:
   - skill/threat-modeling
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Denial%20of%20Service%20and%20Expansion%20of%20Authority.md)
@@ -47,46 +47,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Let me interrupt you
-  - STRIDE and the four question framework
+  - [Let me interrupt you](#let-me-interrupt-you)
+  - [STRIDE and the four question framework](#stride-and-the-four-question-framework)
 - [**1. DoS Targets**](#1-dos-targets) (6 videos)
-  - DoS in context
-  - Attackers fill networks
-  - How attackers redline your CPU
-  - How attackers fill storage
-  - How attackers spend your budget
-  - How attackers drain your battery
+  - [DoS in context](#dos-in-context)
+  - [Attackers fill networks](#attackers-fill-networks)
+  - [How attackers redline your CPU](#how-attackers-redline-your-cpu)
+  - [How attackers fill storage](#how-attackers-fill-storage)
+  - [How attackers spend your budget](#how-attackers-spend-your-budget)
+  - [How attackers drain your battery](#how-attackers-drain-your-battery)
 - [**2. Properties of DoS Attacks**](#2-properties-of-dos-attacks) (3 videos)
-  - Persistence and transience of DoS
-  - Naïve to clever: Understanding DoS
-  - Amplified or native: Two modes of DoS
+  - [Persistence and transience of DoS](#persistence-and-transience-of-dos)
+  - [Naïve to clever: Understanding DoS](#nave-to-clever-understanding-dos)
+  - [Amplified or native: Two modes of DoS](#amplified-or-native-two-modes-of-dos)
 - [**3. DoS in Various Technologies**](#3-dos-in-various-technologies) (2 videos)
-  - Mobile and IoT denial of service
-  - Cloud denial of service
+  - [Mobile and IoT denial of service](#mobile-and-iot-denial-of-service)
+  - [Cloud denial of service](#cloud-denial-of-service)
 - [**4. DoS Defenses**](#4-dos-defenses) (2 videos)
-  - Designing for resilience
-  - Quantity as a defense
+  - [Designing for resilience](#designing-for-resilience)
+  - [Quantity as a defense](#quantity-as-a-defense)
 - [**5. EOP**](#5-eop) (4 videos)
-  - What is elevation of privilege?
-  - Privilege and authority
-  - Input corrupts
-  - Main forms of corrupt input
+  - [What is elevation of privilege?](#what-is-elevation-of-privilege)
+  - [Privilege and authority](#privilege-and-authority)
+  - [Input corrupts](#input-corrupts)
+  - [Main forms of corrupt input](#main-forms-of-corrupt-input)
 - [**6. EOP Defenses**](#6-eop-defenses) (9 videos)
-  - Ways to defend against EOP
-  - Validation to defend against elevation
-  - Validate for purpose to prevent elevations
-  - Validation not sanitization for defense
-  - Attenuation in defense
-  - Memory safety as a defensive tool
-  - Stack canaries to protect your code
-  - Sandboxes and isolation protect your environment
-  - Bolt-on or built-in defenses
+  - [Ways to defend against EOP](#ways-to-defend-against-eop)
+  - [Validation to defend against elevation](#validation-to-defend-against-elevation)
+  - [Validate for purpose to prevent elevations](#validate-for-purpose-to-prevent-elevations)
+  - [Validation not sanitization for defense](#validation-not-sanitization-for-defense)
+  - [Attenuation in defense](#attenuation-in-defense)
+  - [Memory safety as a defensive tool](#memory-safety-as-a-defensive-tool)
+  - [Stack canaries to protect your code](#stack-canaries-to-protect-your-code)
+  - [Sandboxes and isolation protect your environment](#sandboxes-and-isolation-protect-your-environment)
+  - [Bolt-on or built-in defenses](#bolt-on-or-built-in-defenses)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Security by design
+  - [Security by design](#security-by-design)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Let me interrupt you
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/let-me-interrupt-you?u=76281980)
@@ -111,8 +111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), [[Scripting]] (1)
 > **Env Vars:** cpu (1), sql (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [adam] (1)
 
 #### STRIDE and the four question framework
@@ -156,6 +156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (4), [[Security]] (1)
 > **Env Vars:** stride (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -164,7 +165,7 @@ created: 2026-04-29
 
 ### 1. DoS Targets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DoS in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/dos-in-context?u=76281980)
@@ -191,6 +192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), data (1)
 > **Env Vars:** cpu (2), ram (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -226,6 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), hit (1), web (1)
 > **Env Vars:** tcp (1)
 > **Versions:** 2.3 (1)
 > **Definitions:** is a  (1)
@@ -290,7 +293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (1), match. (1), let (1), require (1)
+> **Frameworks & Libraries:** power (1), hit (1), data (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -336,6 +339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), data (1), [[IoT]] (1)
 > **Env Vars:** unix (1), xml (1), iot (1)
 > **Exercise Files:** zip file (2)
 > **Definitions:** is a  (1)
@@ -380,6 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), [[Security]] (1), hit (1)
 > **Env Vars:** ssl (1)
 > **Speakers:** - [instructor] (1)
 
@@ -412,12 +417,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Properties of DoS Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Persistence and transience of DoS
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/persistence-and-transience-of-dos?u=76281980)
@@ -448,7 +454,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -504,6 +509,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptography]] (2), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -555,6 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Debugging]] (1), dns (1)
 > **Env Vars:** tcp (2), udp (1), dns (1)
 > **CLI Commands:** find (2), make (1)
 > **Ports:** port 19 (1)
@@ -564,7 +571,7 @@ created: 2026-04-29
 
 ### 3. DoS in Various Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mobile and IoT denial of service
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/mobile-and-iot-denial-of-service?u=76281980)
@@ -589,6 +596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (1)
 > **Env Vars:** iot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -621,7 +629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (6), data (1)
 > **Env Vars:** cfo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -629,7 +637,7 @@ created: 2026-04-29
 
 ### 4. DoS Defenses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/designing-for-resilience?u=76281980)
@@ -660,6 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -690,7 +699,7 @@ created: 2026-04-29
 
 ### 5. EOP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is elevation of privilege?
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/what-is-elevation-of-privilege?u=76281980)
@@ -715,6 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (1), data (1), [[SQL]] (1), [[Scripting]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -746,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[Windows]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** stride (1)
 > **Speakers:** - [narrator] (1)
 
@@ -786,8 +796,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (2), next (1), [[Tokens]] (1), [[Engineering]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -861,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), include . (1), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), web (1), [[Scripting]] (1), data (1), next (1)
 > **CLI Commands:** make (1), python (1)
 > **Tools:** bash (1)
 > **Analogies:** for example (1)
@@ -870,7 +880,7 @@ created: 2026-04-29
 
 ### 6. EOP Defenses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ways to defend against EOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/ways-to-defend-against-eop?u=76281980)
@@ -893,6 +903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (1)
 > **Env Vars:** dns (1)
 > **Speakers:** - [instructor] (1)
 
@@ -925,9 +936,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[HTML]] (3)
 > **Env Vars:** html (3)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Validate for purpose to prevent elevations
@@ -973,9 +984,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), data (1), next (1), hit (1)
 > **Env Vars:** html (4)
 > **Definitions:** is a  (3)
-> **Code Keywords:** else. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Validation not sanitization for defense
@@ -1007,7 +1018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), throw (1)
+> **Frameworks & Libraries:** [[Security]] (2), cloud (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1054,8 +1065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Microsoft Office]] (1), [[Microsoft]] (1)
 > **CLI Commands:** ls (2), cat (2), rm (2), sudo (1)
-> **Code Keywords:** let (2), this, (1), pass (1)
 > **Env Vars:** uid (1), pdf (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1097,6 +1108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[JavaScript]] (1), [[SQL]] (1), [[Java]] (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -1145,10 +1157,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** function (1)
 > **Speakers:** - [narrator] (1)
 
 #### Sandboxes and isolation protect your environment
@@ -1190,6 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), express (2), web (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (2)
 > **Env Vars:** uid (1)
 > **Tools:** bash (1)
@@ -1223,8 +1236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (2), cloud (1), aws (1)
 > **CLI Commands:** docker (1), aws (1)
-> **Code Keywords:** lambda (2)
 > **Code Identifiers:** ios (2)
 > **Env Vars:** aws (1)
 > **Analogies:** for example (1)
@@ -1233,7 +1246,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security by design
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/secruity-by-design?u=76281980)
@@ -1284,6 +1297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Threat Modeling]] (5), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** stride (1)
 > **Prerequisites:** set up (1)

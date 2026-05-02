@@ -23,7 +23,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Data%20Lake%20for%20Developers.md)
@@ -42,33 +42,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What is Azure Data Lake?
-  - Prior knowledge
+  - [What is Azure Data Lake?](#what-is-azure-data-lake)
+  - [Prior knowledge](#prior-knowledge)
 - [**1. Introduction to Azure Data Lake**](#1-introduction-to-azure-data-lake) (4 videos)
-  - Azure Storage overview
-  - What does ADLS add?
-  - Creating a data lake using the portal
-  - Creating a data lake using the CLI
+  - [Azure Storage overview](#azure-storage-overview)
+  - [What does ADLS add?](#what-does-adls-add)
+  - [Creating a data lake using the portal](#creating-a-data-lake-using-the-portal)
+  - [Creating a data lake using the CLI](#creating-a-data-lake-using-the-cli)
 - [**2. Hierarchical Namespaces**](#2-hierarchical-namespaces) (3 videos)
-  - What is a hierarchical namespace?
-  - What are the benefits of hierarchical namespaces?
-  - Hierarchical namespaces example
+  - [What is a hierarchical namespace?](#what-is-a-hierarchical-namespace)
+  - [What are the benefits of hierarchical namespaces?](#what-are-the-benefits-of-hierarchical-namespaces)
+  - [Hierarchical namespaces example](#hierarchical-namespaces-example)
 - [**3. Data Access in Azure Data Lake**](#3-data-access-in-azure-data-lake) (4 videos)
-  - What are the options for accessing data?
-  - Using the Azure Blob Storage SDK
-  - Using Spark
-  - Using SQL serverless
+  - [What are the options for accessing data?](#what-are-the-options-for-accessing-data)
+  - [Using the Azure Blob Storage SDK](#using-the-azure-blob-storage-sdk)
+  - [Using Spark](#using-spark)
+  - [Using SQL serverless](#using-sql-serverless)
 - [**4. Security in Azure Data Lake**](#4-security-in-azure-data-lake) (4 videos)
-  - SAS tokens
-  - Role-based access control
-  - Access control lists
-  - Access control lists example
+  - [SAS tokens](#sas-tokens)
+  - [Role-based access control](#role-based-access-control)
+  - [Access control lists](#access-control-lists)
+  - [Access control lists example](#access-control-lists-example)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More Azure Data Lake resources
+  - [More Azure Data Lake resources](#more-azure-data-lake-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Azure Data Lake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980)
@@ -99,7 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Azure|Azure]] (5), power (1), [[Microsoft]] (1), cloud (1)
 > **Speakers:** - [carmel] (1)
 
 #### Prior knowledge
@@ -143,18 +143,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), data (8), [[SQL]] (2), [[CLI]] (1), management (1)
 > **Env Vars:** sql (2), cli (1), net (1), sdk (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Tools:** command line (1), azure portal (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Azure Data Lake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Storage overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980)
@@ -273,7 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), this, (1), from. (1), protected (1)
+> **Frameworks & Libraries:** data (28), [[Microsoft Azure|Azure]] (18), [[Security]] (4), [[Unstructured Data]] (2), database (2)
 > **Versions:** 0.15 (1), 0.13 (1), 0.11 (1), 1.13 (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Env Vars:** aad (2)
@@ -345,8 +345,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Microsoft Azure|Azure]] (11), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (2), feature (1)
 > **Env Vars:** sdk (5), rest (2), posix (1), api (1), adls (1)
-> **Code Keywords:** finally, (3), let (1), require (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** apache (1)
@@ -429,7 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), include: (1), public (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), data (7), [[Search]] (2), hit (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), tls (1)
 > **Tools:** azure portal (2)
@@ -515,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3), interface (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (6), [[CLI]] (5), [[Microsoft]] (2), cross-platform (1)
 > **CLI Commands:** az (5), docker (1)
 > **Env Vars:** cli (5), sku (1)
 > **Prerequisites:** set up (2), you'll need (2), install (1)
@@ -527,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Hierarchical Namespaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a hierarchical namespace?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980)
@@ -568,9 +568,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Azure|Azure]] (4), [[Search]] (2), [[CLI]] (1), [[Software Development]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** similar to (2), for example (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** cli (1)
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** set up (1)
@@ -635,7 +635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), require (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (29), [[Microsoft Azure|Azure]] (9), [[Analytics]] (5), [[Security]] (5), [[Apache Spark]] (2)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** means that (3), is an  (1)
 > **CLI Commands:** apache (2)
@@ -697,7 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), if, (1), delete (1)
+> **Frameworks & Libraries:** data (17), [[Microsoft Azure|Azure]] (13), [[JSON]] (1), [[Microsoft Word|Word]] (1), [[Metadata]] (1)
 > **Analogies:** imagine (2), for instance (1)
 > **Cross-References:** go back to (1), next chapter (1)
 > **Definitions:** is an  (2)
@@ -709,7 +709,7 @@ created: 2026-04-29
 
 ### 3. Data Access in Azure Data Lake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the options for accessing data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980)
@@ -764,6 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Microsoft Azure|Azure]] (13), [[SQL]] (8), [[Analytics]] (2), [[Software Development]] (1)
 > **Env Vars:** sql (8), net (1), sdk (1), gui (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **CLI Commands:** python (1)
@@ -937,7 +938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), pass (4), finally, (2), if, (2), this, (1)
+> **Frameworks & Libraries:** data (24), [[Microsoft Azure|Azure]] (8), [[JSON]] (2), [[Microsoft]] (1), application (1)
 > **Tools:** visual studio (4), vs code (2), terminal (2)
 > **File Paths:** orders.csv (4), launch.json (1), orders/orders.csv (1), example.txt (1)
 > **Code Identifiers:** connectionstring (5), containerclient (1), blobclient (1)
@@ -1149,7 +1150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), interface (1), function (1), pass (1)
+> **Frameworks & Libraries:** data (49), [[Microsoft Azure|Azure]] (14), [[Analytics]] (2), [[Search]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **UI Navigation:** go to (3), navigate to (3), select the (2), right-click (1)
 > **Env Vars:** csv (7), stk (1)
 > **Analogies:** imagine (3), such as (2), for example (1)
@@ -1209,17 +1210,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[SQL]] (7), database (5), business (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** sql (7), create (1), view (1)
 > **UI Navigation:** navigate to (2), right-click (1), go to (1), select the (1)
 > **Analogies:** such as (2), imagine (1), for example (1)
-> **Code Keywords:** interface (1), case, (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Security in Azure Data Lake
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SAS tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980)
@@ -1312,10 +1313,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Tokens]] (7), application (4), management (1), [[Microsoft]] (1)
 > **Env Vars:** sas (17)
 > **UI Navigation:** navigate to (2), right-click (1)
 > **Definitions:** means that (3)
-> **Code Keywords:** for. (2)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1), warning (1)
 > **CLI Commands:** find (1)
@@ -1364,6 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (3), next (1), application (1)
 > **Env Vars:** sas (4), rbac (1)
 > **Warnings:** warning (2)
 > **Cross-References:** previous chapter (1)
@@ -1418,11 +1420,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (4), management (2), [[Security]] (2), [[Tokens]] (1)
 > **Definitions:** means that (3), is a  (2)
 > **Prerequisites:** set up (4)
 > **Env Vars:** posix (2), sas (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** this, (1), override (1)
 > **Best Practices:** best practice (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1552,7 +1554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (2), class. (2), pass (2), case, (1)
+> **Frameworks & Libraries:** data (20), [[Microsoft Azure|Azure]] (15), [[Search]] (3), [[CLI]] (3), [[Microsoft]] (1)
 > **Env Vars:** sdk (4), cli (3), uri (1)
 > **Tools:** terminal (2), visual studio (2), powershell (1)
 > **UI Navigation:** go to (3), click on (1), select the (1)
@@ -1564,7 +1566,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More Azure Data Lake resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980)
@@ -1613,8 +1615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Microsoft Azure|Azure]] (5), [[LinkedIn]] (3), next (2), [[Security]] (2)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** case, (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [narrator] (1)
 

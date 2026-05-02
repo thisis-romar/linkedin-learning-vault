@@ -28,7 +28,7 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Design%2C%20Production%2C%20and%20Industry%20Awareness.md)
@@ -47,38 +47,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The game industry and its components
-  - Companion files
+  - [The game industry and its components](#the-game-industry-and-its-components)
+  - [Companion files](#companion-files)
 - [**1. Game Design**](#1-game-design) (6 videos)
-  - Game design documents
-  - Genre, platforms, and mechanics
-  - Game elements
-  - Game design software
-  - Building a game design document
-  - Dos and don'ts on game design documents
+  - [Game design documents](#game-design-documents)
+  - [Genre, platforms, and mechanics](#genre-platforms-and-mechanics)
+  - [Game elements](#game-elements)
+  - [Game design software](#game-design-software)
+  - [Building a game design document](#building-a-game-design-document)
+  - [Dos and don'ts on game design documents](#dos-and-donts-on-game-design-documents)
 - [**2. Team Work**](#2-team-work) (4 videos)
-  - Version control and project collaboration
-  - Getting started with Collaborate
-  - Using Collaborate
-  - Working with scenes and collaboration
+  - [Version control and project collaboration](#version-control-and-project-collaboration)
+  - [Getting started with Collaborate](#getting-started-with-collaborate)
+  - [Using Collaborate](#using-collaborate)
+  - [Working with scenes and collaboration](#working-with-scenes-and-collaboration)
 - [**3. Preparing for Industry**](#3-preparing-for-industry) (4 videos)
-  - Job titles and roles
-  - Communication and collaboration
-  - Project management tools
-  - Using a kanban board
+  - [Job titles and roles](#job-titles-and-roles)
+  - [Communication and collaboration](#communication-and-collaboration)
+  - [Project management tools](#project-management-tools)
+  - [Using a kanban board](#using-a-kanban-board)
 - [**4. Developing for Mobile**](#4-developing-for-mobile) (6 videos)
-  - Mobile build platforms
-  - Downloading mobile development tools
-  - Preparing to make a build
-  - Creating a build
-  - Using an Android emulator
-  - Mobile testing
+  - [Mobile build platforms](#mobile-build-platforms)
+  - [Downloading mobile development tools](#downloading-mobile-development-tools)
+  - [Preparing to make a build](#preparing-to-make-a-build)
+  - [Creating a build](#creating-a-build)
+  - [Using an Android emulator](#using-an-android-emulator)
+  - [Mobile testing](#mobile-testing)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The game industry and its components
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980)
@@ -97,7 +97,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Unity]] (2), [[LinkedIn]] (1), game (1), [[Android]] (1), career (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [alan] (1)
 
@@ -116,6 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), [[Unity]] (2)
 > **Exercise Files:** exercise files (4)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -124,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Game Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Game design documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980)
@@ -223,9 +224,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (39), [[Game Development]] (1), data (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6), is an  (2)
 > **Analogies:** for example (4), it's like (1)
-> **Code Keywords:** switch (1), from. (1), this, (1)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -339,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), let (1), switch (1), for, (1)
+> **Frameworks & Libraries:** game (25), [[Hardware]] (4), [[Linux]] (3), next (2), feature (1)
 > **Analogies:** for example (4), such as (1)
 > **Warnings:** be careful (3)
 > **CLI Commands:** find (1), make (1)
@@ -414,8 +415,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (17)
 > **Analogies:** for example (4)
-> **Code Keywords:** case, (2)
 > **Speakers:** - [instructor] (1)
 
 #### Game design software
@@ -467,7 +468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), switch (1)
+> **Frameworks & Libraries:** game (9), application (2), [[Microsoft Office]] (1), [[Microsoft Office|Office]] (1), [[Google]] (1)
 > **Env Vars:** pdf (1), json (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -585,8 +586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (24), [[Dashboards]] (1), hit (1), next (1)
 > **UI Navigation:** click on (3), dropdown (1)
-> **Code Keywords:** default, (1), let (1), this, (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdd (1)
@@ -671,8 +672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (13), business (2), next (1), [[Technical Documentation]] (1), api (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (1), from, (1), else. (1)
 > **Env Vars:** pdf (1), api (1)
 > **Warnings:** keep in mind (2)
 > **Cross-References:** next chapter (1)
@@ -682,7 +683,7 @@ created: 2026-04-29
 
 ### 2. Team Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Version control and project collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980)
@@ -739,11 +740,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (13), [[Git]] (8), cloud (4), [[Bitbucket]] (3), [[GitHub]] (2)
 > **CLI Commands:** git (8)
 > **Env Vars:** git (8)
 > **Tools:** bitbucket (3), gitlab (2), github (2)
 > **Analogies:** for example (3)
-> **Code Keywords:** else, (1), interface (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
@@ -867,8 +868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (25), cloud (5), next (3), feature (1)
 > **UI Navigation:** click on (9), dropdown (5), select the (1)
-> **Code Keywords:** this, (2), continue (1), while, (1), public (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (2), is a  (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -969,8 +970,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (11), web (2), teams (2), next (2), [[Statistics]] (1)
 > **UI Navigation:** click on (7), dropdown (1)
-> **Code Keywords:** let (2), continue (1), case, (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** means that (1)
@@ -1028,9 +1029,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (8), cloud (3), game (2), next (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), public (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** download the (1)
@@ -1040,7 +1041,7 @@ created: 2026-04-29
 
 ### 3. Preparing for Industry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Job titles and roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980)
@@ -1097,7 +1098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), this, (1), case, (1)
+> **Frameworks & Libraries:** game (12), [[Unity]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Scripting]] (1), next (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1178,6 +1179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), next (2), game (1), [[Microsoft Office|Office]] (1), feature (1)
 > **CLI Commands:** find (2), make (2)
 > **Tools:** discord (3), slack (1)
 > **Definitions:** is a  (3)
@@ -1185,7 +1187,6 @@ created: 2026-04-29
 > **Cross-References:** in the next (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
-> **Speakers:** - [tutor] (1)
 
 #### Project management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/project-management-tools?u=76281980)
@@ -1286,7 +1287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this. (1)
+> **Frameworks & Libraries:** game (5), [[Programming]] (3), next (3)
 > **UI Navigation:** select the (2), dropdown (2), click on (1)
 > **Cross-References:** in the next (2), earlier in (1)
 > **CLI Commands:** make (2)
@@ -1381,9 +1382,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), [[Agile Development|Agile]] (1), feature (1), product (1)
 > **UI Navigation:** click on (9), go to (1)
 > **Definitions:** is a  (3), is called (1), known as (1), means that (1)
-> **Code Keywords:** this, (2), finally, (1), case, (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1391,7 +1392,7 @@ created: 2026-04-29
 
 ### 4. Developing for Mobile
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mobile build platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980)
@@ -1440,9 +1441,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (7), [[Android]] (3), [[Unity]] (2), game (1), product (1)
 > **Prerequisites:** you'll need (7), getting started (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), this. (1)
 > **Code Identifiers:** ios (1)
 > **URLs:** [apple.com](https://apple.com) (1)
 > **UI Navigation:** navigate to (1)
@@ -1520,8 +1521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (13), [[Unity]] (12), [[Mobile Development]] (1), game (1), web (1)
 > **Prerequisites:** install (10), set up (2), you'll need (1)
-> **Code Keywords:** default, (2), module (2), case, (1), this, (1)
 > **Code Identifiers:** ios (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), navigate to (1)
@@ -1634,7 +1635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), this, (3), default, (2), while. (1), let (1)
+> **Frameworks & Libraries:** [[Android]] (13), [[Unity]] (10), game (9), [[Search]] (4), hit (3)
 > **UI Navigation:** click on (2), select the (2), go to (1), checkbox (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (3)
@@ -1701,7 +1702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), case, (1)
+> **Frameworks & Libraries:** [[Android]] (9), game (5), api (2), product (1), hit (1)
 > **UI Navigation:** select the (2), scroll down (2)
 > **Env Vars:** api (2)
 > **Versions:** 4.4 (1)
@@ -1795,7 +1796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), module (1)
+> **Frameworks & Libraries:** [[Android]] (15), next (5), [[Unity]] (2), api (2), game (1)
 > **Env Vars:** avd (2), api (2)
 > **UI Navigation:** click on (1), select the (1)
 > **Analogies:** for example (2)
@@ -1871,7 +1872,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), this, (1), case. (1)
+> **Frameworks & Libraries:** [[Android]] (12), game (8), application (4), [[Hardware]] (2), [[Unity]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** apk (2)
 > **UI Navigation:** select the (1), drag and drop (1)
@@ -1882,7 +1883,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980)
@@ -1915,6 +1916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unity]] (3), game (2), [[Android]] (2), express (1), management (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

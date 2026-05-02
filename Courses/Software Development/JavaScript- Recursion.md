@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Recursion.md)
@@ -48,36 +48,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to recursion algorithms in JavaScript
-  - Get the most out of this course
+  - [Introduction to recursion algorithms in JavaScript](#introduction-to-recursion-algorithms-in-javascript)
+  - [Get the most out of this course](#get-the-most-out-of-this-course)
 - [**1. How to Think about Recursion**](#1-how-to-think-about-recursion) (7 videos)
-  - Loops and iteration in JavaScript
-  - Implement exponentials and factorials with JavaScript loops
-  - What is recursion?
-  - What are base cases?
-  - Implement exponentials and factorials with recursion
-  - Challenge: Implement the join() function recursively
-  - Solution: Implement the join() function recursively
+  - [Loops and iteration in JavaScript](#loops-and-iteration-in-javascript)
+  - [Implement exponentials and factorials with JavaScript loops](#implement-exponentials-and-factorials-with-javascript-loops)
+  - [What is recursion?](#what-is-recursion)
+  - [What are base cases?](#what-are-base-cases)
+  - [Implement exponentials and factorials with recursion](#implement-exponentials-and-factorials-with-recursion)
+  - [Challenge: Implement the join() function recursively](#challenge-implement-the-join-function-recursively)
+  - [Solution: Implement the join() function recursively](#solution-implement-the-join-function-recursively)
 - [**2. How to Improve Recursive Algorithms**](#2-how-to-improve-recursive-algorithms) (5 videos)
-  - What is tail recursion?
-  - Wrapper functions in JavaScript
-  - Accumulators for tail recursion
-  - Memoization to improve performance of recursive programs
-  - JavaScript quickSort() with recursion
+  - [What is tail recursion?](#what-is-tail-recursion)
+  - [Wrapper functions in JavaScript](#wrapper-functions-in-javascript)
+  - [Accumulators for tail recursion](#accumulators-for-tail-recursion)
+  - [Memoization to improve performance of recursive programs](#memoization-to-improve-performance-of-recursive-programs)
+  - [JavaScript quickSort() with recursion](#javascript-quicksort-with-recursion)
 - [**3. Solving Recursive Technical Interview Questions**](#3-solving-recursive-technical-interview-questions) (7 videos)
-  - How to approach recursive problems
-  - Challenge: Identify a palindrome
-  - Solution: Identify a palindrome
-  - Challenge: Count the number of leaves in a binary tree
-  - Solution: Count the number of leaves in a binary tree
-  - Challenge: Find middle of LinkedList
-  - Solution: Find middle of LinkedList
+  - [How to approach recursive problems](#how-to-approach-recursive-problems)
+  - [Challenge: Identify a palindrome](#challenge-identify-a-palindrome)
+  - [Solution: Identify a palindrome](#solution-identify-a-palindrome)
+  - [Challenge: Count the number of leaves in a binary tree](#challenge-count-the-number-of-leaves-in-a-binary-tree)
+  - [Solution: Count the number of leaves in a binary tree](#solution-count-the-number-of-leaves-in-a-binary-tree)
+  - [Challenge: Find middle of LinkedList](#challenge-find-middle-of-linkedlist)
+  - [Solution: Find middle of LinkedList](#solution-find-middle-of-linkedlist)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Dig deeper into JavaScript recursion
+  - [Dig deeper into JavaScript recursion](#dig-deeper-into-javascript-recursion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to recursion algorithms in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980)
@@ -106,6 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Algorithms]] (1), [[LinkedIn]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [mustapha] (1)
@@ -163,8 +164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), [[JavaScript]] (3), data (3), next (2), [[Git]] (1)
 > **Tools:** github (6)
-> **Code Keywords:** pass (1), function (1), switch (1)
 > **CLI Commands:** git (1), find (1)
 > **UI Navigation:** navigate to (2)
 > **Env Vars:** url (1)
@@ -174,7 +175,7 @@ created: 2026-04-29
 
 ### 1. How to Think about Recursion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loops and iteration in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/loops-and-iteration-in-javascript?u=76281980)
@@ -235,8 +236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[JavaScript]] (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Implement exponentials and factorials with JavaScript loops
@@ -332,7 +333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (7), pass (4), finally, (1), type. (1)
+> **Frameworks & Libraries:** power (5), [[HTML]] (3), [[JavaScript]] (2), product (1), next (1)
 > **Env Vars:** html (3)
 > **File Paths:** power.js (1)
 > **Speakers:** - [instructor] (1)
@@ -382,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), continue (1), case. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (1), [[Programming]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [tutor] (1)
@@ -470,7 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), case. (3), case, (1), pass (1)
+> **Frameworks & Libraries:** hit (1)
 > **Code Identifiers:** functionc (3), functiona (1), functionb (1), functiond (1), musicplayer (1)
 > **Documentation:** stack overflow (4)
 > **Definitions:** is a  (1)
@@ -586,7 +587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (7), case. (4), finally, (2), case, (2)
+> **Frameworks & Libraries:** power (12), next (2)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
@@ -620,7 +621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), case. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -662,7 +663,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), case. (1), case, (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
@@ -671,7 +671,7 @@ created: 2026-04-29
 
 ### 2. How to Improve Recursive Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is tail recursion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/what-is-tail-recursion?u=76281980)
@@ -764,7 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (1), case, (1), continue (1), return. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), next (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Documentation:** stack overflow (1)
@@ -874,7 +874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (26), let (5), finally, (2), pass (2), this, (1)
+> **Frameworks & Libraries:** next (2), data (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -940,7 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), case. (1), else, (1)
+> **Frameworks & Libraries:** next (2), [[JavaScript]] (1), web (1)
 > **Code Identifiers:** padcontent (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
@@ -1022,7 +1022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4)
+> **Frameworks & Libraries:** next (2), [[Fetch]] (1), data (1), [[Java]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
@@ -1139,7 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), continue (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), next (2), [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1148,7 +1148,7 @@ created: 2026-04-29
 
 ### 3. Solving Recursive Technical Interview Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach recursive problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/how-to-approach-recursive-problems?u=76281980)
@@ -1219,7 +1219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), finally, (2), case. (1), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), data (1), functional (1)
 > **CLI Commands:** find (4)
 > **Code Identifiers:** sumrange (3)
 > **Cross-References:** earlier in (1)
@@ -1282,7 +1282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), match. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), feature (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -1345,7 +1345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), function (1), return, (1), case. (1)
+> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Tools:** vs code (1)
@@ -1405,10 +1405,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), data (2), [[Search]] (2)
 > **CLI Commands:** node (3)
 > **Env Vars:** dfs (2), bfs (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** function (2)
 > **Speakers:** - a (1)
 > **Non-Speech:** (intro music playing) (1)
 
@@ -1471,8 +1471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (11), data (1)
 > **CLI Commands:** node (11), find (1)
-> **Code Keywords:** function (5), let (4), continue (1)
 > **Code Identifiers:** preorder (2), count_nodes (1)
 > **Non-Speech:** (upbeat music) (1), (keyboard clicking) (1)
 > **Cross-References:** go back to (1)
@@ -1512,8 +1512,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1), node (1)
 > **CLI Commands:** node (1), find (1)
-> **Code Keywords:** function (2)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1584,7 +1584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), pass (2), class, (1), continue (1), let (1)
+> **Frameworks & Libraries:** next (6), data (5)
 > **Env Vars:** null (4)
 > **CLI Commands:** find (3)
 > **Code Identifiers:** findmidpoint (1), midpointtrack (1)
@@ -1595,7 +1595,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dig deeper into JavaScript recursion
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980)
@@ -1644,6 +1644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[Programming]] (2), [[LinkedIn]] (2), web (2), data (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** mtn (1), mit (1)
 > **URLs:** [mrufai.com](https://mrufai.com) (1)

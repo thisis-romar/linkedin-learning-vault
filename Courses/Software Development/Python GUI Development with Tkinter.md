@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/tkinter
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20GUI%20Development%20with%20Tkinter.md)
@@ -49,66 +49,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Create a GUI for your Python desktop application
-  - What you should know
-  - Using the exercise files
-  - 2023 Update
+  - [Create a GUI for your Python desktop application](#create-a-gui-for-your-python-desktop-application)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
+  - [2023 Update](#2023-update)
 - [**1. Getting Started with Python and Tkinter**](#1-getting-started-with-python-and-tkinter) (3 videos)
-  - Installing Python 3 and Tcl/Tk for Windows
-  - Installing Python 3 and Tcl/Tk for Mac
-  - Saying hello to Tkinter
+  - [Installing Python 3 and Tcl/Tk for Windows](#installing-python-3-and-tcltk-for-windows)
+  - [Installing Python 3 and Tcl/Tk for Mac](#installing-python-3-and-tcltk-for-mac)
+  - [Saying hello to Tkinter](#saying-hello-to-tkinter)
 - [**2. Tkinter Concepts**](#2-tkinter-concepts) (5 videos)
-  - Tk and Tkinter background
-  - Creating and configuring widgets
-  - Managing widget placement
-  - Handling user events
-  - Revisiting Hello, Tkinter!
+  - [Tk and Tkinter background](#tk-and-tkinter-background)
+  - [Creating and configuring widgets](#creating-and-configuring-widgets)
+  - [Managing widget placement](#managing-widget-placement)
+  - [Handling user events](#handling-user-events)
+  - [Revisiting Hello, Tkinter!](#revisiting-hello-tkinter)
 - [**3. Basic Widgets**](#3-basic-widgets) (6 videos)
-  - Displaying text and images with labels
-  - Capturing input with buttons
-  - Presenting choices with check buttons and radio buttons
-  - Entering single-line text with the Entry widget
-  - Making selections with the Combobox and Spinbox
-  - Inputting values and displaying status with the Scale and Progressbar
+  - [Displaying text and images with labels](#displaying-text-and-images-with-labels)
+  - [Capturing input with buttons](#capturing-input-with-buttons)
+  - [Presenting choices with check buttons and radio buttons](#presenting-choices-with-check-buttons-and-radio-buttons)
+  - [Entering single-line text with the Entry widget](#entering-single-line-text-with-the-entry-widget)
+  - [Making selections with the Combobox and Spinbox](#making-selections-with-the-combobox-and-spinbox)
+  - [Inputting values and displaying status with the Scale and Progressbar](#inputting-values-and-displaying-status-with-the-scale-and-progressbar)
 - [**4. Organizational Widgets**](#4-organizational-widgets) (4 videos)
-  - Organizing widgets with frames
-  - Creating additional top-level windows
-  - Separating widgets within paned windows
-  - Grouping widgeting within a tabbed notebook
+  - [Organizing widgets with frames](#organizing-widgets-with-frames)
+  - [Creating additional top-level windows](#creating-additional-top-level-windows)
+  - [Separating widgets within paned windows](#separating-widgets-within-paned-windows)
+  - [Grouping widgeting within a tabbed notebook](#grouping-widgeting-within-a-tabbed-notebook)
 - [**5. Advanced Widgets**](#5-advanced-widgets) (10 videos)
-  - Entering and displaying multiple lines with the Text widget
-  - Adding tags, marks, images, and widgets to the Text widget
-  - Building a hierarchical treeview
-  - Adding columns and selecting items in the Treeview
-  - Building cascading menus
-  - Drawing a basic line on the Canvas
-  - Drawing complex shapes on the Canvas
-  - Attaching a scroll bar to widgets
-  - Configuring widget styles
-  - Prompting users with the Messagebox and dialogs
+  - [Entering and displaying multiple lines with the Text widget](#entering-and-displaying-multiple-lines-with-the-text-widget)
+  - [Adding tags, marks, images, and widgets to the Text widget](#adding-tags-marks-images-and-widgets-to-the-text-widget)
+  - [Building a hierarchical treeview](#building-a-hierarchical-treeview)
+  - [Adding columns and selecting items in the Treeview](#adding-columns-and-selecting-items-in-the-treeview)
+  - [Building cascading menus](#building-cascading-menus)
+  - [Drawing a basic line on the Canvas](#drawing-a-basic-line-on-the-canvas)
+  - [Drawing complex shapes on the Canvas](#drawing-complex-shapes-on-the-canvas)
+  - [Attaching a scroll bar to widgets](#attaching-a-scroll-bar-to-widgets)
+  - [Configuring widget styles](#configuring-widget-styles)
+  - [Prompting users with the Messagebox and dialogs](#prompting-users-with-the-messagebox-and-dialogs)
 - [**6. Geometry Management**](#6-geometry-management) (3 videos)
-  - Using the Pack geometry manager
-  - Using the Grid geometry manager
-  - Using the Place geometry manager
+  - [Using the Pack geometry manager](#using-the-pack-geometry-manager)
+  - [Using the Grid geometry manager](#using-the-grid-geometry-manager)
+  - [Using the Place geometry manager](#using-the-place-geometry-manager)
 - [**7. Event Handling**](#7-event-handling) (5 videos)
-  - Configuring command callbacks
-  - Binding to keyboard events
-  - Binding to mouse events
-  - Binding to virtual events
-  - Binding to multiple events
+  - [Configuring command callbacks](#configuring-command-callbacks)
+  - [Binding to keyboard events](#binding-to-keyboard-events)
+  - [Binding to mouse events](#binding-to-mouse-events)
+  - [Binding to virtual events](#binding-to-virtual-events)
+  - [Binding to multiple events](#binding-to-multiple-events)
 - [**8. Building an Application**](#8-building-an-application) (6 videos)
-  - Defining project requirements
-  - Planning the design
-  - Creating the widgets
-  - Laying out of the widgets
-  - Binding to events
-  - Finishing the GUI with style
+  - [Defining project requirements](#defining-project-requirements)
+  - [Planning the design](#planning-the-design)
+  - [Creating the widgets](#creating-the-widgets)
+  - [Laying out of the widgets](#laying-out-of-the-widgets)
+  - [Binding to events](#binding-to-events)
+  - [Finishing the GUI with style](#finishing-the-gui-with-style)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a GUI for your Python desktop application
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980)
@@ -137,7 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2), module (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Tkinter]] (4), functional (1), [[React.js|React]] (1), [[Programming]] (1)
 > **CLI Commands:** python (6)
 > **Env Vars:** gui (6)
 > **Prerequisites:** configure (1)
@@ -176,9 +176,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Tkinter]] (2)
 > **CLI Commands:** python (10)
 > **Env Vars:** idle (3), gui (1), ide (1)
-> **Code Keywords:** interface (1), finally, (1), for. (1), require (1)
 > **Versions:** python 3 (2), python 2 (2)
 > **Prerequisites:** before you begin (1), you'll need (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
@@ -202,6 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **Env Vars:** idle (3)
 > **Exercise Files:** exercise files (1), template (1)
 > **CLI Commands:** python (1)
@@ -214,7 +215,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Python and Tkinter
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Python 3 and Tcl/Tk for Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-windows?u=76281980)
@@ -299,9 +300,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tkinter]] (18), [[Python (Programming Language)|Python]] (16), [[Windows]] (6), next (3), feature (2)
 > **CLI Commands:** python (16)
 > **Env Vars:** idle (10), gui (1)
-> **Code Keywords:** continue (3), let (2), module (1), case, (1), default, (1)
 > **Versions:** python 3 (2), 4.1 (1)
 > **UI Navigation:** go to (1), select the (1), click on (1)
 > **Definitions:** means that (2)
@@ -435,10 +436,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (27), [[Tkinter]] (15), prompt (3), next (2), hit (1)
 > **CLI Commands:** python (27), find (2)
 > **Versions:** python 3 (10), 8.5 (2), 8.5.15 (2), python 2 (1), 10.6 (1)
 > **UI Navigation:** click on (6), go to (3), scroll down (2), select the (2), navigate to (2)
-> **Code Keywords:** let (3), continue (2), case, (1), import, (1), this, (1)
 > **Env Vars:** idle (7)
 > **Prerequisites:** install (7)
 > **Tools:** command prompt (1), terminal (1)
@@ -491,8 +492,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tkinter]] (7), [[Python (Programming Language)|Python]] (6), [[Programming]] (1), management (1)
 > **CLI Commands:** python (6), find (1), make (1)
-> **Code Keywords:** let (2), case. (1), finally, (1), module (1)
 > **Versions:** python 2 (3), python 3 (2)
 > **Env Vars:** idle (2), gui (1)
 > **UI Navigation:** navigate to (1), right-click (1)
@@ -503,7 +504,7 @@ created: 2026-04-29
 
 ### 2. Tkinter Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tk and Tkinter background
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980)
@@ -546,8 +547,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Tkinter]] (5), [[Windows]] (4), application (2), [[Scripting]] (1)
 > **CLI Commands:** python (7), make (1)
-> **Code Keywords:** module (2), let (1), interface (1)
 > **Env Vars:** gui (4)
 > **Versions:** version 8 (1), python 3 (1)
 > **Definitions:** is an  (1), means that (1)
@@ -715,7 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (5), pass (5), class, (3), module (2)
+> **Frameworks & Libraries:** [[Tkinter]] (16), [[Python (Programming Language)|Python]] (5), [[Windows]] (2), application (1), next (1)
 > **CLI Commands:** python (5), make (4), find (1)
 > **Env Vars:** gui (1), idle (1), str (1), pack (1)
 > **Cross-References:** later in (2)
@@ -785,6 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tkinter]] (2), application (2), management (1), [[Windows]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1)
 > **Definitions:** is called (1)
@@ -852,7 +854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), interface (1), require (1)
+> **Frameworks & Libraries:** [[Tkinter]] (5), application (1), next (1)
 > **Analogies:** for example (4)
 > **Prerequisites:** configure (4)
 > **CLI Commands:** find (1)
@@ -928,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (2), class. (2), function (2), pass (2)
+> **Frameworks & Libraries:** [[Tkinter]] (12), [[Python (Programming Language)|Python]] (3), application (2), management (1), [[React.js|React]] (1)
 > **Code Identifiers:** helloapp (3), texas_hello (2), hello_local (1), hawaii_hello (1)
 > **Env Vars:** gui (4), idle (2)
 > **Definitions:** is a  (5), is called (1)
@@ -940,7 +942,7 @@ created: 2026-04-29
 
 ### 3. Basic Widgets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Displaying text and images with labels
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/displaying-text-and-images-with-labels?u=76281980)
@@ -1121,7 +1123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), module (3), case, (3), function (3), let (2)
+> **Frameworks & Libraries:** [[Tkinter]] (14), [[Python (Programming Language)|Python]] (7), next (2), [[Programming]] (1)
 > **CLI Commands:** python (7), make (3)
 > **Prerequisites:** configure (10)
 > **Env Vars:** gui (2), left (1), right (1), center (1), gif (1)
@@ -1277,7 +1279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), pass (5), let (3), interface (2), module (1)
+> **Frameworks & Libraries:** [[Tkinter]] (4), [[Windows]] (1), functional (1)
 > **Analogies:** for example (2), such as (1), similar to (1)
 > **Prerequisites:** configure (4)
 > **UI Navigation:** click on (3)
@@ -1451,8 +1453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tkinter]] (2), management (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** spam (19), ttk (2)
-> **Code Keywords:** let (6), module (4), function (2), pass (2), default, (1)
 > **CLI Commands:** make (7), python (1)
 > **Analogies:** for example (2), similar to (1), just like (1), such as (1)
 > **Prerequisites:** configure (4)
@@ -1563,7 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), let (3), pass (3), module (2)
+> **Frameworks & Libraries:** [[Tkinter]] (4), application (1)
 > **Prerequisites:** configure (3), you'll need (2)
 > **Env Vars:** gui (2)
 > **Definitions:** is a  (2)
@@ -1677,7 +1679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2), interface (1), module (1), protected (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (3), python (2)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** click on (1), select the (1)
@@ -1844,7 +1846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), for. (1), continue (1), module (1)
+> **Frameworks & Libraries:** [[Tkinter]] (1), [[Python (Programming Language)|Python]] (1), application (1)
 > **Prerequisites:** configure (8)
 > **Versions:** 4.2 (2), 8.0 (1), 0.0 (1), 11.0 (1)
 > **CLI Commands:** make (1), python (1), find (1)
@@ -1856,7 +1858,7 @@ created: 2026-04-29
 
 ### 4. Organizational Widgets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing widgets with frames
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/organizing-widgets-with-frames?u=76281980)
@@ -1945,7 +1947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (2), pass (1), default, (1)
+> **Frameworks & Libraries:** [[Tkinter]] (4), management (1)
 > **Env Vars:** gui (5)
 > **CLI Commands:** make (4)
 > **Prerequisites:** configure (4)
@@ -2117,7 +2119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (7), let (5), default, (3), module (2), delete (2)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Tkinter]] (2)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gui (1)
@@ -2244,7 +2246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (2), interface (1), case. (1)
+> **Frameworks & Libraries:** next (4), [[Windows]] (3), management (1), [[Tkinter]] (1)
 > **Env Vars:** ttk (2), gui (1)
 > **UI Navigation:** select the (3)
 > **Prerequisites:** configure (2), set up (1)
@@ -2397,7 +2399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), switch (3), module (2), let (1)
+> **Frameworks & Libraries:** web (2), [[Tkinter]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), similar to (1)
 > **Prerequisites:** configure (1)
@@ -2406,7 +2408,7 @@ created: 2026-04-29
 
 ### 5. Advanced Widgets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Entering and displaying multiple lines with the Text widget
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980)
@@ -2573,7 +2575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (14), pass (4), require (2), module (2), let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), next (1), [[Tkinter]] (1), [[Programming]] (1), express (1)
 > **Versions:** 1.0 (9), 4.2 (1)
 > **Analogies:** such as (2), for example (2), similar to (1)
 > **Definitions:** is a  (2), refers to (2)
@@ -2757,7 +2759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (14), delete (6), let (3), continue (1), raise (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Python (Programming Language)|Python]] (2)
 > **Versions:** 1.1 (3), 1.3 (3), 1.0 (2), 1.2 (1), 1.4 (1)
 > **Prerequisites:** configure (8)
 > **CLI Commands:** python (2), find (1)
@@ -2949,8 +2951,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (13), [[Python (Programming Language)|Python]] (5), [[Tkinter]] (3), next (2)
 > **CLI Commands:** node (13), python (5), make (1)
-> **Code Keywords:** pass (5), delete (3), let (2), from. (1), module (1)
 > **Prerequisites:** configure (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -3090,7 +3092,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), function (2), continue (1), include. (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8)
 > **Prerequisites:** configure (11)
 > **CLI Commands:** python (8)
 > **UI Navigation:** toggle (4)
@@ -3340,7 +3342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (9), let (5), delete (5), interface (2), this, (2)
+> **Frameworks & Libraries:** next (4), [[Python (Programming Language)|Python]] (2), application (1), [[Tkinter]] (1), [[Forms]] (1)
 > **Code Identifiers:** tearoff (3), add_cascade (2), add_command (2), option_add (1), add_separator (1)
 > **Prerequisites:** configure (5), set up (1)
 > **UI Navigation:** right-click (3), select the (1)
@@ -3442,7 +3444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), delete (4), continue (2), let (2), default, (1)
+> **Frameworks & Libraries:** next (2), power (1), [[Tkinter]] (1)
 > **Prerequisites:** configure (4)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** create_line (1)
@@ -3655,7 +3657,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (13), let (4), continue (1), function (1), default, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1), [[Microsoft Word|Word]] (1), management (1)
 > **Code Identifiers:** create_text (2), create_image (2), create_rectangle (1), create_oval (1), create_arc (1)
 > **CLI Commands:** python (3), make (2)
 > **Analogies:** for example (2), similar to (1), such as (1), just like (1)
@@ -3752,9 +3754,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (1), [[Tkinter]] (1), [[Microsoft Word|Word]] (1), management (1)
 > **Prerequisites:** configure (6)
 > **Definitions:** is a  (4)
-> **Code Keywords:** module (1), pass (1)
 > **Code Identifiers:** create_oval (1)
 > **Env Vars:** gui (1)
 > **Cross-References:** as we saw (1)
@@ -3918,7 +3920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (9), let (6), module (2), finally, (2), continue (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), application (1), [[Tkinter]] (1), [[Windows]] (1)
 > **Prerequisites:** configure (10)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is called (1), means that (1)
@@ -4048,7 +4050,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (5), pass (4), this, (2), let (1), default, (1)
+> **Frameworks & Libraries:** [[Tkinter]] (7), hit (2), prompt (1)
 > **Env Vars:** idle (2), spam (1), ffffff (1), rgb (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Warnings:** warning (1), keep in mind (1), note that (1)
@@ -4060,7 +4062,7 @@ created: 2026-04-29
 
 ### 6. Geometry Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Pack geometry manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980)
@@ -4297,8 +4299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tkinter]] (3), [[Python (Programming Language)|Python]] (1), next (1)
 > **Env Vars:** idle (3), both (3), gui (3), left (2), top (1)
-> **Code Keywords:** this, (5), let (3), module (1), default, (1), pass (1)
 > **Code Identifiers:** pack_slaves (3), pack_configure (2), pack_info (2), pack_forget (2), grid_forget (1)
 > **CLI Commands:** make (6), python (1), find (1)
 > **Prerequisites:** configure (6)
@@ -4525,8 +4527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tkinter]] (1)
 > **Prerequisites:** configure (11), before you begin (1)
-> **Code Keywords:** let (5), finally, (2), default, (2), module (1), this, (1)
 > **CLI Commands:** make (6)
 > **Analogies:** picture (2), imagine (1), for example (1)
 > **Env Vars:** gui (2), idle (1)
@@ -4689,8 +4691,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), next (1)
 > **Prerequisites:** configure (7)
-> **Code Keywords:** pass (3), this, (1), default, (1), let (1)
 > **Versions:** 0.5 (6)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** gui (2), idle (1)
@@ -4701,7 +4703,7 @@ created: 2026-04-29
 
 ### 7. Event Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring command callbacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-command-callbacks?u=76281980)
@@ -4798,7 +4800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), lambda (4), pass (2), module (1), case, (1)
+> **Frameworks & Libraries:** [[Tkinter]] (2)
 > **Prerequisites:** configure (6)
 > **CLI Commands:** make (3)
 > **Env Vars:** gui (2), idle (1)
@@ -4944,7 +4946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), lambda (12), let (9), pass (5), finally, (2)
+> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (3), [[Tkinter]] (2), [[Python (Programming Language)|Python]] (2), hit (2)
 > **Cross-References:** previous video (2), in the next (2), go back to (1)
 > **Definitions:** refers to (2), is a  (1), is an  (1)
 > **Analogies:** for example (2), just like (1), such as (1)
@@ -5094,7 +5096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), function (5), let (4), finally, (1), type, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** mouse_press (2), x_root (1), y_root (1), create_line (1)
 > **UI Navigation:** click on (3)
 > **Exercise Files:** template (2), exercise files (1)
@@ -5216,7 +5218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), lambda (5), delete (5), let (4), pass (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1), hit (1), [[Tkinter]] (1)
 > **CLI Commands:** python (1), find (1)
 > **UI Navigation:** right-click (1), select the (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -5312,7 +5314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), lambda (4), this, (4), let (3), pass (3)
+> **Frameworks & Libraries:** [[Windows]] (2), [[React.js|React]] (1), [[Python (Programming Language)|Python]] (1), generic (1)
 > **UI Navigation:** click on (6), right-click (3)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -5324,7 +5326,7 @@ created: 2026-04-29
 
 ### 8. Building an Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining project requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980)
@@ -5381,7 +5383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), interface (1), finally, (1), class, (1), require (1)
+> **Frameworks & Libraries:** [[Tkinter]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
 > **Env Vars:** gui (4), gif (1), idle (1)
 > **Exercise Files:** exercise files (2), template (1)
 > **CLI Commands:** python (2)
@@ -5429,8 +5431,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gui (6)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -5580,7 +5582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), finally, (2), let (1), this. (1), module (1)
+> **Frameworks & Libraries:** next (4), [[Tkinter]] (1), [[Python (Programming Language)|Python]] (1), [[Git]] (1)
 > **Code Identifiers:** frame_content (2), tour_logo (1), entry_name (1)
 > **CLI Commands:** python (1), git (1)
 > **Env Vars:** gui (2)
@@ -5738,7 +5740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (2), continue (1), finally, (1), default, (1)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** frame_header (1), frame_content (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -5864,7 +5866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), self (3), let (3), class. (1), module (1)
+> **Frameworks & Libraries:** [[Tkinter]] (2), [[Git]] (1), application (1), database (1), hit (1)
 > **CLI Commands:** make (1), git (1)
 > **Code Identifiers:** entry_name (1)
 > **URLs:** [example.com](https://example.com) (1)
@@ -5989,8 +5991,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (1), next (1), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** configure (15)
-> **Code Keywords:** let (5), pass (2), type. (1), self (1), public (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** gui (2)
 > **Speakers:** - [narrator] (1)
@@ -5998,7 +6000,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/next-steps?u=76281980)
@@ -6025,8 +6027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Tkinter]] (2), [[Programming]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** module (1)
 > **Env Vars:** gui (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [barron] (1)

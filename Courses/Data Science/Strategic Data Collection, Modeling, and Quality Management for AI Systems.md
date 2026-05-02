@@ -40,7 +40,7 @@ tags:
   - skill/data-quality
   - skill/data-cleaning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Data%20Collection%2C%20Modeling%2C%20and%20Quality%20Management%20for%20AI%20Systems.md)
@@ -59,30 +59,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The importance of data in AI
-  - What you should know
+  - [The importance of data in AI](#the-importance-of-data-in-ai)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to Strategic Data Collection for AI**](#1-introduction-to-strategic-data-collection-for-ai) (5 videos)
-  - Defining the problem
-  - Getting clear on objectives
-  - Understanding data requirements
-  - Understanding AI models and data collection
-  - Planning and executing data collection
+  - [Defining the problem](#defining-the-problem)
+  - [Getting clear on objectives](#getting-clear-on-objectives)
+  - [Understanding data requirements](#understanding-data-requirements)
+  - [Understanding AI models and data collection](#understanding-ai-models-and-data-collection)
+  - [Planning and executing data collection](#planning-and-executing-data-collection)
 - [**2. Modeling and Its Role in Data Collection**](#2-modeling-and-its-role-in-data-collection) (2 videos)
-  - Data requirements for modeling
-  - Improving outcomes with data
+  - [Data requirements for modeling](#data-requirements-for-modeling)
+  - [Improving outcomes with data](#improving-outcomes-with-data)
 - [**3. Quality Management of AI Systems**](#3-quality-management-of-ai-systems) (3 videos)
-  - Data-quality metrics
-  - Detecting and mitigating bias
-  - Ongoing monitoring and compliance
+  - [Data-quality metrics](#data-quality-metrics)
+  - [Detecting and mitigating bias](#detecting-and-mitigating-bias)
+  - [Ongoing monitoring and compliance](#ongoing-monitoring-and-compliance)
 - [**4. Integrated Approach: Data Collection, Modeling, and Quality Management**](#4-integrated-approach-data-collection-modeling-and-quality-management) (2 videos)
-  - Taking a holistic approach
-  - Real-world example: End-to-end AI workflow
+  - [Taking a holistic approach](#taking-a-holistic-approach)
+  - [Real-world example: End-to-end AI workflow](#real-world-example-end-to-end-ai-workflow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of data in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/the-importance-of-data-in-ai?u=76281980)
@@ -103,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), data (4)
 > **Speakers:** - [joe] (1)
 
 #### What you should know
@@ -138,8 +139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), ai (4), [[Unstructured Data]] (1), business (1), [[Strategic Thinking]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
@@ -147,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Strategic Data Collection for AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980)
@@ -252,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), try. (1)
+> **Frameworks & Libraries:** data (8), business (2), ai (2), [[Forecasting]] (2), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -342,8 +343,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), ai (4), [[Microsoft Products|Products]] (2), business (2), [[Forecasting]] (1)
 > **Env Vars:** smart (8)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (1), is an  (1), stands for (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -491,7 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), this. (1)
+> **Frameworks & Libraries:** data (28), feature (7), [[Forecasting]] (4), teams (2), [[Privacy]] (2)
 > **Env Vars:** smart (6), kpi (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1)
@@ -587,7 +588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (5), let (3), type. (1), type, (1), from. (1)
+> **Frameworks & Libraries:** data (30), ai (6), [[Supervised Learning]] (6), [[Deep Learning]] (4), [[Forecasting]] (3)
 > **Env Vars:** svm (1), smart (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
@@ -708,7 +709,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), throw (1)
+> **Frameworks & Libraries:** data (21), [[Microsoft Products|Products]] (2), ai (1), [[Forecasting]] (1), next (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Analogies:** it's like (2)
 > **CLI Commands:** find (1)
@@ -720,7 +721,7 @@ created: 2026-04-29
 
 ### 2. Modeling and Its Role in Data Collection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data requirements for modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980)
@@ -829,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), catch: (1), type. (1), finally, (1), require (1)
+> **Frameworks & Libraries:** data (29), [[Deep Learning]] (5), [[Supervised Learning]] (4), ai (2), feature (2)
 > **Analogies:** think of it as (1), for example (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** you'll need (1)
@@ -906,7 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1)
+> **Frameworks & Libraries:** data (19), [[Feature Engineering]] (3), [[Forecasting]] (1), feature (1), business (1)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** gigo (1)
 > **Prerequisites:** set up (1)
@@ -915,7 +916,7 @@ created: 2026-04-29
 
 ### 3. Quality Management of AI Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data-quality metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980)
@@ -1040,7 +1041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (24), business (2), [[Forecasting]] (2), product (1), next (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** smart (1)
@@ -1129,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1)
+> **Frameworks & Libraries:** data (17), ai (3), feature (2), [[Forecasting]] (1), [[Statistics]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Ongoing monitoring and compliance
@@ -1223,7 +1224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (16), ai (3), [[Regulatory Compliance]] (1), [[Forecasting]] (1), feature (1)
 > **Prerequisites:** set up (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1231,7 +1232,7 @@ created: 2026-04-29
 
 ### 4. Integrated Approach: Data Collection, Modeling, and Quality Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking a holistic approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980)
@@ -1272,7 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** data (7), ai (5), teams (2)
 > **Speakers:** - [instructor] (1)
 
 #### Real-world example: End-to-end AI workflow
@@ -1402,7 +1403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** data (11), ai (7), business (3), [[Supervised Learning]] (1), hit (1)
 > **Versions:** 0.1 (1), 0.08 (1), 2.1 (1)
 > **Analogies:** imagine (1), picture (1)
 > **Env Vars:** smart (1)
@@ -1411,7 +1412,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980)
@@ -1436,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** data (5), ai (4), [[LinkedIn]] (2), management (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

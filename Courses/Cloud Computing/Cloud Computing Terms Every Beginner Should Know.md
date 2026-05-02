@@ -30,7 +30,7 @@ tags:
   - skill/tech-career-skills
   - skill/cloud-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Computing%20Terms%20Every%20Beginner%20Should%20Know.md)
@@ -49,33 +49,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to cloud terminology
+  - [Introduction to cloud terminology](#introduction-to-cloud-terminology)
 - [**1. Foundational Cloud Concepts**](#1-foundational-cloud-concepts) (3 videos)
-  - What is cloud computing?
-  - Deployment models: Public, private, and hybrid
-  - Service models: IaaS, PaaS, and SaaS
+  - [What is cloud computing?](#what-is-cloud-computing)
+  - [Deployment models: Public, private, and hybrid](#deployment-models-public-private-and-hybrid)
+  - [Service models: IaaS, PaaS, and SaaS](#service-models-iaas-paas-and-saas)
 - [**2. Cloud Technologies and Architectures**](#2-cloud-technologies-and-architectures) (3 videos)
-  - Virtualization
-  - Containers
-  - Microservices
+  - [Virtualization](#virtualization)
+  - [Containers](#containers)
+  - [Microservices](#microservices)
 - [**3. Benefits of the Cloud**](#3-benefits-of-the-cloud) (3 videos)
-  - Scalability
-  - Reliability
-  - Security
+  - [Scalability](#scalability)
+  - [Reliability](#reliability)
+  - [Security](#security)
 - [**4. Cloud Deployment**](#4-cloud-deployment) (3 videos)
-  - Migration
-  - Cost optimization
-  - Disaster recovery
+  - [Migration](#migration)
+  - [Cost optimization](#cost-optimization)
+  - [Disaster recovery](#disaster-recovery)
 - [**5. Cloud Computing Future Trends**](#5-cloud-computing-future-trends) (3 videos)
-  - Serverless computing
-  - Edge computing
-  - Multi-cloud
+  - [Serverless computing](#serverless-computing)
+  - [Edge computing](#edge-computing)
+  - [Multi-cloud](#multi-cloud)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/introduction-to-cloud-terminology?u=76281980)
@@ -100,13 +100,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[Virtualization]] (1), [[Serverless Computing]] (1), business (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 
 
 ### 1. Foundational Cloud Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cloud computing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/what-is-cloud-computing?u=76281980)
@@ -165,7 +166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** cloud (17), data (4), [[Hardware]] (3), power (2), next (2)
 > **Analogies:** think of it like (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -249,7 +250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (12), private (11), require (1), let (1), this, (1)
+> **Frameworks & Libraries:** cloud (24), [[Cloud Infrastructure]] (3), [[Private Clouds]] (3), [[Security]] (3), management (2)
 > **Analogies:** it's like (2), imagine (1), for example (1)
 > **Definitions:** refers to (1), known as (1)
 > **Cross-References:** in the next (1)
@@ -329,16 +330,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[SaaS]] (5), [[IaaS|Infrastructure as a service]] (4), [[PaaS|Platform as a service]] (2), [[SaaS|Software as a service]] (2)
 > **Cross-References:** in the next (2), in the last (1)
 > **Definitions:** is a  (1), refers to (1), known as (1)
 > **Analogies:** it's like (2), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 
 ### 2. Cloud Technologies and Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/virtualization?u=76281980)
@@ -415,9 +416,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtualization]] (13), [[Hardware]] (4), [[Virtual Machines]] (2), next (2), management (2)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** imagine (2), such as (2)
-> **Code Keywords:** let (2)
 > **CLI Commands:** docker (1)
 > **Cross-References:** in the next (1)
 
@@ -482,8 +483,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Containerization]] (4), application (3), [[Virtual Machines]] (3), [[Kubernetes]] (3), cloud (1)
 > **CLI Commands:** docker (4), make (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -555,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), function (1)
+> **Frameworks & Libraries:** [[Microservices]] (6), application (4), [[Scalability]] (2), teams (2), next (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** picture (1)
@@ -563,7 +564,7 @@ created: 2026-04-29
 
 ### 3. Benefits of the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scalability
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/scalability?u=76281980)
@@ -612,6 +613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Scalability]] (6), traffic (3), [[Software Development]] (1), power (1)
 > **Analogies:** imagine (1), such as (1), for example (1), just like (1)
 > **Definitions:** refers to (1), known as (1)
 > **Env Vars:** cpu (1)
@@ -664,10 +666,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), traffic (1), cloud (1), business (1), data (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Analogies:** imagine (1), for example (1)
-> **Code Keywords:** function (1)
 > **Definitions:** refers to (1)
 
 #### Security
@@ -715,7 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1)
+> **Frameworks & Libraries:** [[Security]] (12), cloud (10), data (6), application (2), [[Hardware]] (1)
 > **Definitions:** refers to (1), known as (1)
 > **Analogies:** similar to (2)
 > **CLI Commands:** find (1)
@@ -724,7 +726,7 @@ created: 2026-04-29
 
 ### 4. Cloud Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/migration?u=76281980)
@@ -773,8 +775,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), business (2), next (2), [[Scalability]] (1), data (1)
 > **Definitions:** known as (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 
@@ -831,8 +833,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), aws (1), business (1), next (1)
 > **CLI Commands:** aws (1), find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -882,14 +884,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** business (3), data (3), cloud (2), application (1), [[Hardware]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 
 
 ### 5. Cloud Computing Future Trends
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Serverless computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/serverless-computing?u=76281980)
@@ -940,7 +942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (1), switch (1), this, (1), while. (1)
+> **Frameworks & Libraries:** [[Serverless Computing]] (6), cloud (3), next (2), application (1), [[Scalability]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
@@ -997,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), finally, (1)
+> **Frameworks & Libraries:** data (9), cloud (5), power (2), next (2), [[IoT]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -1043,17 +1045,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), business (2), aws (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), data (2)
 > **Env Vars:** aws (2), ec2 (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** such as (1), for instance (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** refers to (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/next-steps?u=76281980)
@@ -1080,9 +1082,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), aws (2), next (1), [[LinkedIn]] (1), [[Microsoft]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 

@@ -19,7 +19,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Figma-%20From%20Design%20to%20CSS%20Implementation.md)
@@ -38,27 +38,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Implementing CSS from your Figma designs
-  - Getting set up
+  - [Implementing CSS from your Figma designs](#implementing-css-from-your-figma-designs)
+  - [Getting set up](#getting-set-up)
 - [**1. Producing Image Assets**](#1-producing-image-assets) (3 videos)
-  - An overview of the design project
-  - Defining image export properties
-  - Exporting and organizing images
+  - [An overview of the design project](#an-overview-of-the-design-project)
+  - [Defining image export properties](#defining-image-export-properties)
+  - [Exporting and organizing images](#exporting-and-organizing-images)
 - [**2. Translating CSS Rules**](#2-translating-css-rules) (4 videos)
-  - Using the Inspect workspace
-  - Documenting the project CSS
-  - Populating the design document
-  - Defining a CSS document
+  - [Using the Inspect workspace](#using-the-inspect-workspace)
+  - [Documenting the project CSS](#documenting-the-project-css)
+  - [Populating the design document](#populating-the-design-document)
+  - [Defining a CSS document](#defining-a-css-document)
 - [**3. Implementing CSS within HTML**](#3-implementing-css-within-html) (3 videos)
-  - Creating an HTML document
-  - Replacing Figma elements for CSS
-  - Refining the design from Figma
+  - [Creating an HTML document](#creating-an-html-document)
+  - [Replacing Figma elements for CSS](#replacing-figma-elements-for-css)
+  - [Refining the design from Figma](#refining-the-design-from-figma)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing CSS from your Figma designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980)
@@ -79,9 +79,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), css (3), [[Prototyping]] (1), web (1), [[HTML]] (1)
 > **Env Vars:** css (3), html (1)
 > **Tools:** figma (3)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - tools (1)
 
 #### Getting set up
@@ -119,9 +119,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[GitHub]] (1), web (1)
 > **Tools:** figma (3), github (1), visual studio (1)
 > **Exercise Files:** exercise files (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** zip (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for instance (1)
@@ -131,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Producing Image Assets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of the design project
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/an-overview-of-the-design-project?u=76281980)
@@ -164,9 +164,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), css (2)
 > **Tools:** figma (3)
 > **Env Vars:** css (2)
-> **Code Keywords:** let (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
@@ -238,8 +238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), css (1), next (1)
 > **Env Vars:** svg (4), png (3), css (1), pdf (1)
-> **Code Keywords:** export, (3), let (2), continue (1)
 > **Tools:** figma (3)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
@@ -295,8 +295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), css (2), hit (2)
 > **Env Vars:** svg (3), css (2), png (2)
-> **Code Keywords:** export, (2), let (2), export. (1)
 > **Tools:** figma (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -307,7 +307,7 @@ created: 2026-04-29
 
 ### 2. Translating CSS Rules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Inspect workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980)
@@ -366,11 +366,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (13), [[Figma (Software)|Figma]] (1), [[Google]] (1), [[Android]] (1)
 > **Env Vars:** css (13), svg (1), png (1), rgb (1), rgba (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** similar to (2)
 > **Warnings:** note that (2)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ios (1)
 > **Tools:** figma (1)
 > **Exercise Files:** boilerplate (1)
@@ -434,7 +434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), next (2), css (1), [[HTML]] (1), [[Zoom]] (1)
 > **Env Vars:** css (1), html (1)
 > **Tools:** figma (2)
 > **CLI Commands:** make (1)
@@ -548,8 +548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), next (4), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
 > **Env Vars:** css (9), png (2), html (1)
-> **Code Keywords:** let (3), finally, (2), this. (1)
 > **CLI Commands:** make (2)
 > **File Paths:** ids.txt (1)
 > **UI Navigation:** go to (1)
@@ -630,10 +630,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (15), [[Figma (Software)|Figma]] (4), web (1), next (1), [[HTML]] (1)
 > **Env Vars:** css (12), html (1)
 > **Tools:** figma (4), visual studio (2)
 > **File Paths:** star.css (3), ids.txt (1)
-> **Code Keywords:** let (2), from. (1), finally, (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -642,7 +642,7 @@ created: 2026-04-29
 
 ### 3. Implementing CSS within HTML
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980)
@@ -701,9 +701,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (10), css (7), [[Figma (Software)|Figma]] (4), [[Google]] (3), [[Ubuntu]] (2)
 > **Env Vars:** html (7), css (5), utf8 (1), api (1)
 > **File Paths:** index.html (3), star.css (2), 0301_code.txt (1)
-> **Code Keywords:** let (4), this. (1)
 > **Tools:** figma (4), visual studio (1)
 > **Exercise Files:** boilerplate (2), template (1)
 > **Cross-References:** go back to (1)
@@ -823,8 +823,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[HTML]] (6), [[Figma (Software)|Figma]] (4), web (1)
 > **Env Vars:** css (8), html (5), img (1)
-> **Code Keywords:** let (6), this. (1)
 > **Tools:** figma (4)
 > **File Paths:** 0302_code.txt (1), index.html (1)
 > **CLI Commands:** make (2)
@@ -997,7 +997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), else. (1)
+> **Frameworks & Libraries:** css (7), [[Figma (Software)|Figma]] (5), next (1), data (1)
 > **Env Vars:** css (7), svg (1)
 > **Tools:** figma (5), visual studio (1)
 > **Analogies:** similar to (1), such as (1)
@@ -1008,7 +1008,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/what-s-next?u=76281980)
@@ -1033,6 +1033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), [[Figma (Software)|Figma]] (4), [[HTML]] (2), web (1), functional (1)
 > **Env Vars:** css (6), html (2)
 > **Tools:** figma (4)
 > **Speakers:** - [joseph] (1)

@@ -15,7 +15,7 @@ tags:
   - topic/security
   - topic/data-science
   - topic/it-help-desk
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Artificial%20Intelligence%20(AI)/Katrina%20Ingram.md)

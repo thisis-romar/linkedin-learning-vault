@@ -38,7 +38,7 @@ tags:
   - skill/reinforcement-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning%20Foundations.md)
@@ -57,38 +57,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Reinforcement learning in a nutshell
+  - [Reinforcement learning in a nutshell](#reinforcement-learning-in-a-nutshell)
 - [**1. Getting Started with Reinforcement Learning**](#1-getting-started-with-reinforcement-learning) (4 videos)
-  - Terms in reinforcement learning
-  - A basic RL problem
-  - Markov decision process
-  - A basic RL solution
+  - [Terms in reinforcement learning](#terms-in-reinforcement-learning)
+  - [A basic RL problem](#a-basic-rl-problem)
+  - [Markov decision process](#markov-decision-process)
+  - [A basic RL solution](#a-basic-rl-solution)
 - [**2. Reinforcement Learning Algorithms**](#2-reinforcement-learning-algorithms) (3 videos)
-  - Monte Carlo method
-  - Temporal difference methods
-  - Other RL algorithms
+  - [Monte Carlo method](#monte-carlo-method)
+  - [Temporal difference methods](#temporal-difference-methods)
+  - [Other RL algorithms](#other-rl-algorithms)
 - [**3. Monte Carlo Method**](#3-monte-carlo-method) (6 videos)
-  - The setting
-  - Exploration and exploitation
-  - Monte Carlo prediction
-  - First visit and every visit MC prediction
-  - Monte Carlo control
-  - Additional modifications
+  - [The setting](#the-setting)
+  - [Exploration and exploitation](#exploration-and-exploitation)
+  - [Monte Carlo prediction](#monte-carlo-prediction)
+  - [First visit and every visit MC prediction](#first-visit-and-every-visit-mc-prediction)
+  - [Monte Carlo control](#monte-carlo-control)
+  - [Additional modifications](#additional-modifications)
 - [**4. Temporal Difference Methods**](#4-temporal-difference-methods) (4 videos)
-  - The setting
-  - SARSA
-  - SARSAMAX (Q-learning)
-  - Expected SARSA
+  - [The setting](#the-setting)
+  - [SARSA](#sarsa)
+  - [SARSAMAX (Q-learning)](#sarsamax-q-learning)
+  - [Expected SARSA](#expected-sarsa)
 - [**5. Modified Forms of Reinforcement**](#5-modified-forms-of-reinforcement) (3 videos)
-  - Deep reinforcement learning
-  - Multi-agent reinforcement learning
-  - Inverse reinforcement learning
+  - [Deep reinforcement learning](#deep-reinforcement-learning)
+  - [Multi-agent reinforcement learning](#multi-agent-reinforcement-learning)
+  - [Inverse reinforcement learning](#inverse-reinforcement-learning)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your reinforcement learning journey
+  - [Your reinforcement learning journey](#your-reinforcement-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reinforcement learning in a nutshell
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), game (1)
 > **Env Vars:** sarsa (2)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Reinforcement Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Terms in reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980)
@@ -177,7 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -258,8 +258,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), next (2)
 > **Definitions:** known as (3), is an  (1)
-> **Code Keywords:** let (2), case, (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
@@ -348,7 +348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), function (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Reinforcement Learning]] (2), next (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** mdp (2)
@@ -395,7 +395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Reinforcement Learning]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Warnings:** note that (1)
@@ -404,7 +404,7 @@ created: 2026-04-29
 
 ### 2. Reinforcement Learning Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monte Carlo method
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-method?u=76281980)
@@ -457,7 +457,6 @@ created: 2026-04-29
 >
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Temporal difference methods
@@ -483,7 +482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (1), application (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -498,12 +497,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (4), [[Algorithms]] (1), ai (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Monte Carlo Method
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting-2?u=76281980)
@@ -570,7 +570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** yield (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[Probability]] (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -605,9 +605,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[Reinforcement Learning]] (1)
 > **Cross-References:** we discussed (1), later in (1)
 > **Definitions:** known as (1), is an  (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 
 #### First visit and every visit MC prediction
@@ -717,7 +717,7 @@ created: 2026-04-29
 
 ### 4. Temporal Difference Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980)
@@ -742,7 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### SARSA
@@ -820,7 +820,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), for, (1)
+> **Frameworks & Libraries:** next (9), [[Reinforcement Learning]] (1)
 > **Env Vars:** sarsa (2)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
@@ -864,6 +864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5)
 > **Env Vars:** sarsamax (6), sarsa (3)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
@@ -897,10 +898,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Probability]] (2), [[Algorithms]] (1)
 > **Env Vars:** sarsa (6), sarsamax (3)
 > **Definitions:** known as (2), is an  (1)
 > **UI Navigation:** select the (2)
-> **Code Keywords:** function (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -908,7 +909,7 @@ created: 2026-04-29
 
 ### 5. Modified Forms of Reinforcement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deep reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980)
@@ -935,6 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), [[Deep Learning]] (1), ai (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -963,6 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), teams (1), [[Simulation]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -991,13 +994,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (6)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your reinforcement learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980)
@@ -1036,7 +1039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), [[Neural Networks]] (2), [[LinkedIn]] (2), product (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **URLs:** [github.io](https://github.io) (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)

@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Top%20Skills.md)
@@ -47,35 +47,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Unlock your data’s potential with Power BI
+  - [Unlock your data’s potential with Power BI](#unlock-your-datas-potential-with-power-bi)
 - [**1. Start Strong with Power BI Foundations**](#1-start-strong-with-power-bi-foundations) (4 videos)
-  - Identify why Power BI matters
-  - Launch Power BI
-  - Navigate the Power BI interface
-  - Explore Power BI views
+  - [Identify why Power BI matters](#identify-why-power-bi-matters)
+  - [Launch Power BI](#launch-power-bi)
+  - [Navigate the Power BI interface](#navigate-the-power-bi-interface)
+  - [Explore Power BI views](#explore-power-bi-views)
 - [**2. Connect, Clean, and Transform Data**](#2-connect-clean-and-transform-data) (5 videos)
-  - Create objective statements
-  - Connect to multiple data sources in Power BI
-  - Manage relationships and cardinality in Power BI
-  - Use the Power BI query editor to shape raw data
-  - Clean and format text fields in Power BI
+  - [Create objective statements](#create-objective-statements)
+  - [Connect to multiple data sources in Power BI](#connect-to-multiple-data-sources-in-power-bi)
+  - [Manage relationships and cardinality in Power BI](#manage-relationships-and-cardinality-in-power-bi)
+  - [Use the Power BI query editor to shape raw data](#use-the-power-bi-query-editor-to-shape-raw-data)
+  - [Clean and format text fields in Power BI](#clean-and-format-text-fields-in-power-bi)
 - [**3. Create Visualizations in Power BI**](#3-create-visualizations-in-power-bi) (7 videos)
-  - Create your first visual in the report view
-  - Format visuals for clarity
-  - Build pie charts in Power BI
-  - Create time series trends with Power BI line graphs
-  - Add interactivity with slicers
-  - Highlight key metrics with card visuals
-  - Polish your report design
+  - [Create your first visual in the report view](#create-your-first-visual-in-the-report-view)
+  - [Format visuals for clarity](#format-visuals-for-clarity)
+  - [Build pie charts in Power BI](#build-pie-charts-in-power-bi)
+  - [Create time series trends with Power BI line graphs](#create-time-series-trends-with-power-bi-line-graphs)
+  - [Add interactivity with slicers](#add-interactivity-with-slicers)
+  - [Highlight key metrics with card visuals](#highlight-key-metrics-with-card-visuals)
+  - [Polish your report design](#polish-your-report-design)
 - [**4. Share Your Insights**](#4-share-your-insights) (2 videos)
-  - Publish your Power BI report
-  - Refine dashboards in the Power BI web app
+  - [Publish your Power BI report](#publish-your-power-bi-report)
+  - [Refine dashboards in the Power BI web app](#refine-dashboards-in-the-power-bi-web-app)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Take the next step with Power BI
+  - [Take the next step with Power BI](#take-the-next-step-with-power-bi)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock your data’s potential with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980)
@@ -102,14 +102,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (3), bi (3), [[Microsoft Excel|Excel]] (1), business (1)
 > **Env Vars:** csv (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [eddie] (1)
 
 
 ### 1. Start Strong with Power BI Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify why Power BI matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980)
@@ -146,7 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), static (1)
+> **Frameworks & Libraries:** data (8), power (4), bi (4), [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Analogies:** picture (1)
@@ -227,9 +227,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (11), bi (11), [[Windows]] (4), data (2), [[Microsoft]] (2)
 > **Prerequisites:** install (3), you'll need (2), getting started (1), setup (1), set up (1)
 > **UI Navigation:** select the (3), go to (1), open the (1)
-> **Code Keywords:** let (2)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -312,9 +312,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (5), bi (5), [[Windows]] (2), management (1)
 > **UI Navigation:** select the (4), click on (1), open the (1), in the menu (1), go to (1)
 > **Definitions:** is a  (4), is called (1)
-> **Code Keywords:** let (2), interface (1)
 > **Env Vars:** led (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise file (1)
@@ -370,7 +370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), case, (1)
+> **Frameworks & Libraries:** data (8), power (2), bi (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -378,7 +378,7 @@ created: 2026-04-29
 
 ### 2. Connect, Clean, and Transform Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create objective statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980)
@@ -449,7 +449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (2), continue (1)
+> **Frameworks & Libraries:** power (3), bi (3), next (1), ai (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** in the menu (1), toggle (1)
 > **Analogies:** for example (2)
@@ -517,9 +517,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), power (2), bi (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** csv (3), ilt (1)
 > **UI Navigation:** open the (2), switch to (1)
-> **Code Keywords:** switch (1), let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Manage relationships and cardinality in Power BI
@@ -587,9 +587,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), ai (2), feature (2)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** in the menu (1), go to (1)
-> **Code Keywords:** function (1)
 > **Analogies:** picture (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** caution (1)
@@ -660,10 +660,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), power (2), bi (2), [[Microsoft Power Query|Power query]] (1), next (1)
 > **UI Navigation:** right-click (3), go to (1), dropdown (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sme (1), ctrl (1)
-> **Code Keywords:** let (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -752,8 +752,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), power (4), bi (4), [[Microsoft Word|Word]] (2), business (1)
 > **UI Navigation:** select the (4), go to (2)
-> **Code Keywords:** let (2), throw (1), function (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** abc (1)
 > **Analogies:** for example (1)
@@ -762,7 +762,7 @@ created: 2026-04-29
 
 ### 3. Create Visualizations in Power BI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your first visual in the report view
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-your-first-visual-in-the-report-view?u=76281980)
@@ -831,7 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default. (1), case, (1), type, (1), from. (1)
+> **Frameworks & Libraries:** data (5), power (1), bi (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -936,7 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (2)
+> **Frameworks & Libraries:** data (5), [[Analytics]] (1), [[Microsoft Word|Word]] (1), next (1)
 > **UI Navigation:** go to (3), toggle (3), open the (1), dropdown (1), select the (1)
 > **CLI Commands:** make (4), find (1)
 > **Best Practices:** best practice (1)
@@ -1011,9 +1011,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3), open the (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1100,9 +1100,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **UI Navigation:** select the (3), go to (2), click on (1), toggle (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), switch (1)
 > **Speakers:** - [instructor] (1)
 
 #### Add interactivity with slicers
@@ -1160,7 +1160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), static (1), switch (1)
+> **Frameworks & Libraries:** data (3), power (2), bi (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), select the (1), switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -1228,8 +1228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** go to (2), toggle (2)
-> **Code Keywords:** let (2), for. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1314,13 +1314,12 @@ created: 2026-04-29
 >
 > **UI Navigation:** go to (6), select the (5), toggle (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), switch (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Share Your Insights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Publish your Power BI report
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980)
@@ -1381,6 +1380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (7), bi (7), web (1), next (1), teams (1)
 > **UI Navigation:** go to (1), open the (1), select the (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -1449,9 +1449,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), bi (6), web (6), data (1)
 > **UI Navigation:** select the (4), go to (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** switch (2), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1459,7 +1459,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the next step with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980)
@@ -1490,8 +1490,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), bi (5), data (3), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** module (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/software-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Getting%20Started%20With%20Technology%20Think%20Like%20An%20Engineer.md)
@@ -46,25 +46,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Thinking like an engineer
-  - What you should know
+  - [Thinking like an engineer](#thinking-like-an-engineer)
+  - [What you should know](#what-you-should-know)
 - [**1. Creating Programs**](#1-creating-programs) (5 videos)
-  - Coding languages
-  - Making a website: What it's like
-  - Making a mobile app: What it's like
-  - Why use an analytics tool?
-  - Creating AI programs
+  - [Coding languages](#coding-languages)
+  - [Making a website: What it's like](#making-a-website-what-its-like)
+  - [Making a mobile app: What it's like](#making-a-mobile-app-what-its-like)
+  - [Why use an analytics tool?](#why-use-an-analytics-tool)
+  - [Creating AI programs](#creating-ai-programs)
 - [**2. Core Principles**](#2-core-principles) (4 videos)
-  - Efficiency is key
-  - Problem-solving: Think systematically
-  - Coding: Readable, shareable, and color-coded
-  - Testing applications
+  - [Efficiency is key](#efficiency-is-key)
+  - [Problem-solving: Think systematically](#problem-solving-think-systematically)
+  - [Coding: Readable, shareable, and color-coded](#coding-readable-shareable-and-color-coded)
+  - [Testing applications](#testing-applications)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your journey with technology
+  - [Your journey with technology](#your-journey-with-technology)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking like an engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/thinking-like-an-engineer?u=76281980)
@@ -89,7 +89,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), super (1), let (1)
+> **Frameworks & Libraries:** [[Analytics]] (1)
 > **Analogies:** it's like (1), just like (1)
 > **Speakers:** - [kathryn] (1)
 
@@ -116,8 +116,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** while. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -125,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Creating Programs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Coding languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980)
@@ -232,11 +232,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (6), [[HTML]] (5), [[JavaScript]] (5), [[Python (Programming Language)|Python]] (5), web (4)
 > **CLI Commands:** ruby (7), python (5), rails (2), make (1)
 > **Env Vars:** html (5), css (3)
 > **Code Identifiers:** ios (6)
 > **Definitions:** is a  (2), stands for (1), is called (1)
-> **Code Keywords:** let (2), static (1)
 > **Analogies:** just like (1), for example (1)
 > **Tools:** pycharm (1)
 > **Speakers:** - [instructor] (1)
@@ -316,7 +316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), else. (1)
+> **Frameworks & Libraries:** [[HTML]] (4), css (2), web (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Programming]] (1)
 > **Env Vars:** html (4), css (2)
 > **Tools:** sublime (1), atom (1)
 > **CLI Commands:** make (1)
@@ -417,7 +417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), from, (1), case, (1)
+> **Frameworks & Libraries:** game (5), mobile application (2), [[Android]] (2), web (1), application (1)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
@@ -464,7 +464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), from, (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Analytics]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -518,8 +518,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (6), chatbot (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Computer Vision]] (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), type. (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -527,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Core Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Efficiency is key
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/efficiency-is-key-14354393?u=76281980)
@@ -582,9 +582,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Problem-solving: Think systematically
@@ -646,9 +646,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[HTML]] (2), css (2), [[GitHub]] (1), [[Engineering]] (1)
 > **Prerequisites:** you'll need (5)
 > **Env Vars:** html (2), css (2)
-> **Code Keywords:** this, (2), case, (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** coming up (1)
 > **Documentation:** stack overflow (1)
@@ -710,8 +710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** super (1), delete (1)
 > **Env Vars:** css (2)
 > **Tools:** sublime (2)
 > **Analogies:** just like (1), picture (1)
@@ -756,14 +756,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Software Development]] (1), [[Manual Testing]] (1), traffic (1), [[Scalability]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your journey with technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/your-journey-with-technology?u=76281980)

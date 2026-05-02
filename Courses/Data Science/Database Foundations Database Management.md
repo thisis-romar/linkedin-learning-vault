@@ -34,7 +34,7 @@ tags:
   - topic/software-development
   - skill/database-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations%20Database%20Management.md)
@@ -53,47 +53,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Managing database performance
-  - What you should know
-  - Set up the database servers
-  - Create the Two Trees database
+  - [Managing database performance](#managing-database-performance)
+  - [What you should know](#what-you-should-know)
+  - [Set up the database servers](#set-up-the-database-servers)
+  - [Create the Two Trees database](#create-the-two-trees-database)
 - [**1. Database Views**](#1-database-views) (6 videos)
-  - Save queries as database view objects
-  - Create a database view
-  - Views and database maintenance
-  - Views and database security
-  - Challenge: Create a view
-  - Solution: Create a view
+  - [Save queries as database view objects](#save-queries-as-database-view-objects)
+  - [Create a database view](#create-a-database-view)
+  - [Views and database maintenance](#views-and-database-maintenance)
+  - [Views and database security](#views-and-database-security)
+  - [Challenge: Create a view](#challenge-create-a-view)
+  - [Solution: Create a view](#solution-create-a-view)
 - [**2. Query Performance**](#2-query-performance) (5 videos)
-  - The query optimizer
-  - Reading execution plans
-  - View a SQL Server execution plan
-  - View a PostgreSQL execution plan
-  - Control query plans with hints
+  - [The query optimizer](#the-query-optimizer)
+  - [Reading execution plans](#reading-execution-plans)
+  - [View a SQL Server execution plan](#view-a-sql-server-execution-plan)
+  - [View a PostgreSQL execution plan](#view-a-postgresql-execution-plan)
+  - [Control query plans with hints](#control-query-plans-with-hints)
 - [**3. Transactions**](#3-transactions) (4 videos)
-  - Transactions and data consistency
-  - ACID properties
-  - Commit and rollback transactions
-  - Understanding concurrency and locks
+  - [Transactions and data consistency](#transactions-and-data-consistency)
+  - [ACID properties](#acid-properties)
+  - [Commit and rollback transactions](#commit-and-rollback-transactions)
+  - [Understanding concurrency and locks](#understanding-concurrency-and-locks)
 - [**4. Data and Object Management**](#4-data-and-object-management) (5 videos)
-  - Explore the system tables
-  - Duplicate tables
-  - Delete data with TRUNCATE
-  - Remove database objects with DROP
-  - Create temporary tables
+  - [Explore the system tables](#explore-the-system-tables)
+  - [Duplicate tables](#duplicate-tables)
+  - [Delete data with TRUNCATE](#delete-data-with-truncate)
+  - [Remove database objects with DROP](#remove-database-objects-with-drop)
+  - [Create temporary tables](#create-temporary-tables)
 - [**5. Functions and Stored Procedures**](#5-functions-and-stored-procedures) (6 videos)
-  - Add programming elements to the database
-  - Create a function
-  - Create a stored procedure in PostgreSQL
-  - Create a stored procedure in SQL Server
-  - Challenge: Write a stored procedure
-  - Solution: Write a stored procedure
+  - [Add programming elements to the database](#add-programming-elements-to-the-database)
+  - [Create a function](#create-a-function)
+  - [Create a stored procedure in PostgreSQL](#create-a-stored-procedure-in-postgresql)
+  - [Create a stored procedure in SQL Server](#create-a-stored-procedure-in-sql-server)
+  - [Challenge: Write a stored procedure](#challenge-write-a-stored-procedure)
+  - [Solution: Write a stored procedure](#solution-write-a-stored-procedure)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing database performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), this, (1)
+> **Frameworks & Libraries:** database (7), [[LinkedIn]] (1), management (1), [[Security]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -146,6 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (2), [[SQL]] (1), [[Database Development]] (1), [[Databases]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
@@ -304,9 +305,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (17), data (12), [[PostgreSQL]] (7), [[Microsoft Products|Products]] (6), [[Databases]] (3)
 > **UI Navigation:** click on (5), scroll down (4), dropdown (2), right-click (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (5), continue (1), switch (1)
 > **Env Vars:** sql (3), dbf (2), txt (1)
 > **Exercise Files:** exercise files (2), exercise file (1)
 > **Definitions:** is a  (2)
@@ -316,7 +317,7 @@ created: 2026-04-29
 
 ### 1. Database Views
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Save queries as database view objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980)
@@ -359,7 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), return. (1)
+> **Frameworks & Libraries:** database (9), data (6), [[Databases]] (1), [[Fetch]] (1), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Create a database view
@@ -499,7 +500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type. (1), continue (1)
+> **Frameworks & Libraries:** database (16), data (11), [[PostgreSQL|Postgres]] (3), [[Microsoft Products|Products]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **UI Navigation:** click on (3), in the sidebar (1), dropdown (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** just like (2), for instance (1), for example (1)
@@ -619,7 +620,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (2)
+> **Frameworks & Libraries:** database (7), data (6), [[Microsoft SQL Server|Sql server]] (3)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** select the (3), click on (2), right-click (1), scroll down (1)
 > **Env Vars:** sql (3), rdbms (1)
@@ -667,8 +668,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (4), [[Security]] (4), [[Statistics]] (1)
 > **Analogies:** for instance (2), such as (2)
-> **Code Keywords:** class. (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
@@ -697,6 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), management (1), data (1), product (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -985,7 +987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), function (3), continue (2), throw (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), database (2), product (2), [[PostgreSQL]] (1), data (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 15.99 (1), 26.99 (1)
 > **UI Navigation:** click on (1), select the (1)
@@ -997,7 +999,7 @@ created: 2026-04-29
 
 ### 2. Query Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The query optimizer
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980)
@@ -1080,7 +1082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (2), throw (1), for. (1), let (1), finally, (1)
+> **Frameworks & Libraries:** database (13), data (5), [[Hardware]] (2), [[SQL]] (2), cloud (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1), is called (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sql (2)
@@ -1203,9 +1205,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (6), [[Statistics]] (1), [[Microsoft SQL Server|Sql server]] (1), node (1)
 > **CLI Commands:** find (3), make (2), node (1)
 > **Env Vars:** rdbms (3), sql (1)
-> **Code Keywords:** let (1), require (1), finally, (1)
 > **Definitions:** known as (1), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1329,8 +1331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (10), database (7), data (7), [[Microsoft SQL Server|Sql server]] (3), [[PostgreSQL]] (3)
 > **CLI Commands:** node (10), make (4), find (1)
-> **Code Keywords:** let (6), case, (3), continue (1), from. (1)
 > **Env Vars:** sql (3), rdbms (2), column (1), cpo (1)
 > **Code Identifiers:** sp_rename (2), company_name (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1411,9 +1413,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), database (4), node (4), [[PostgreSQL|Postgres]] (3), [[PostgreSQL]] (2)
 > **Env Vars:** sql (4), rdbms (1)
 > **CLI Commands:** node (4)
-> **Code Keywords:** let (2), function (1), case, (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -1483,7 +1485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), override (2)
+> **Frameworks & Libraries:** data (2), [[Microsoft SQL Server|Sql server]] (2), database (1), management (1), [[Engineering]] (1)
 > **Env Vars:** sql (2), rdbms (1)
 > **Best Practices:** best practice (1), it's best to (1)
 > **CLI Commands:** find (1)
@@ -1493,7 +1495,7 @@ created: 2026-04-29
 
 ### 3. Transactions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transactions and data consistency
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/transactions-and-data-consistency?u=76281980)
@@ -1530,6 +1532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), data (4), product (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1581,6 +1584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (2), management (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), means that (1)
 > **Env Vars:** acid (1)
@@ -1728,7 +1732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), delete (1), switch (1)
+> **Frameworks & Libraries:** database (14), data (6), [[PostgreSQL]] (2), [[Microsoft SQL Server|Sql server]] (1), product (1)
 > **UI Navigation:** click on (1), open the (1), select the (1)
 > **Env Vars:** sql (1), rdbms (1)
 > **CLI Commands:** make (1)
@@ -1833,7 +1837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), finally, (1), from. (1)
+> **Frameworks & Libraries:** data (7), database (5), concurrent (3), [[Relational Databases]] (1), management (1)
 > **Env Vars:** rdbms (2), sql (1)
 > **Definitions:** is called (1), means that (1)
 > **Documentation:** specification (1)
@@ -1842,7 +1846,7 @@ created: 2026-04-29
 
 ### 4. Data and Object Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the system tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980)
@@ -1937,9 +1941,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), [[Databases]] (7), [[Microsoft SQL Server|Sql server]] (5), management (2), data (2)
 > **Env Vars:** sql (5), rdbms (2), url (2)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (2), delete (1), case, (1)
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -2021,10 +2025,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), data (5), database (3), [[PostgreSQL]] (1), product (1)
 > **Env Vars:** create (3), table (3), select (3), sql (2), into (2)
 > **SQL:** create table (3), select (3), where (2)
 > **Code Identifiers:** category_id (3), beauty_products (3)
-> **Code Keywords:** let (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -2077,8 +2081,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[PostgreSQL|Postgres]] (1), [[SQL]] (1), database (1)
 > **Env Vars:** delete (5), truncate (3), ogec004 (2), where (2), table (2)
-> **Code Keywords:** delete (6), let (1), this. (1)
 > **API Endpoints:** delete  (5)
 > **Code Identifiers:** beauty_products (4)
 > **SQL:** delete from (2), where (2)
@@ -2133,7 +2137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), require (1)
+> **Frameworks & Libraries:** database (8), data (2), [[Microsoft Products|Products]] (1), [[PostgreSQL]] (1), next (1)
 > **UI Navigation:** right-click (2), go to (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** for instance (1)
@@ -2258,7 +2262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (9), database (6), [[Microsoft SQL Server|Sql server]] (6), [[PostgreSQL]] (5), [[Microsoft Products|Products]] (4)
 > **Env Vars:** sql (6)
 > **Analogies:** just like (4)
 > **CLI Commands:** find (3)
@@ -2269,7 +2273,7 @@ created: 2026-04-29
 
 ### 5. Functions and Stored Procedures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add programming elements to the database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980)
@@ -2326,7 +2330,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), pass (2), private (1), finally, (1)
+> **Frameworks & Libraries:** database (8), [[Programming]] (5), [[Microsoft Excel|Excel]] (2), data (2), [[Microsoft]] (2)
 > **Analogies:** such as (2), for instance (1), compare this to (1), just like (1)
 > **Env Vars:** rdbms (3)
 > **CLI Commands:** make (1), python (1)
@@ -2439,7 +2443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (3), pass (3), type. (1), return. (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft SQL Server|Sql server]] (5), database (4), [[PostgreSQL]] (4), next (2)
 > **Code Identifiers:** fetch_id (3), search_name (2), two_trees (1), customer_id (1)
 > **Env Vars:** sql (5), fv418 (1), bv446 (1)
 > **CLI Commands:** find (4), make (1)
@@ -2542,7 +2546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (4), var (2), type. (2), match. (1)
+> **Frameworks & Libraries:** data (8), database (7), [[PostgreSQL]] (6), [[Programming]] (2), next (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** sql (1)
 > **Exercise Files:** exercise files (1)
@@ -2608,8 +2612,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), [[PostgreSQL]] (5), database (2), next (2), [[Programming]] (1)
 > **Env Vars:** sql (8)
-> **Code Keywords:** let (2), pass (1)
 > **Analogies:** just like (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -2641,7 +2645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
+> **Frameworks & Libraries:** database (2), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -2805,8 +2809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Microsoft SQL Server|Sql server]] (7), database (7), [[PostgreSQL]] (5), next (2)
 > **Env Vars:** sql (9), char (3), varchar (3), language (2), create (1)
-> **Code Keywords:** let (8), pass (5), this. (1), this, (1)
 > **Code Identifiers:** insert_customer (5), customer_id (4), company_name (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (4)
@@ -2817,7 +2821,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980)
@@ -2844,6 +2848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (3), database (2), next (2), [[Programming]] (2), management (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 

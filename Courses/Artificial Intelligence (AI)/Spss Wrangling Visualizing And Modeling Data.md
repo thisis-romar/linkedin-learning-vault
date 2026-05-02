@@ -29,7 +29,7 @@ tags:
   - skill/ibm-spss
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Spss%20Wrangling%20Visualizing%20And%20Modeling%20Data.md)
@@ -48,77 +48,77 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - Using the exercise files
+  - [Welcome](#welcome)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. What is SPSS?**](#1-what-is-spss) (2 videos)
-  - SPSS in context
-  - Versions, releases, licenses, and interfaces
+  - [SPSS in context](#spss-in-context)
+  - [Versions, releases, licenses, and interfaces](#versions-releases-licenses-and-interfaces)
 - [**2. Getting Started**](#2-getting-started) (7 videos)
-  - Navigating SPSS
-  - Sample datasets
-  - Data types, measures, and roles
-  - Options and preferences
-  - Extending SPSS
-  - Saving and running syntax files
-  - The SPSS workbook interface
+  - [Navigating SPSS](#navigating-spss)
+  - [Sample datasets](#sample-datasets)
+  - [Data types, measures, and roles](#data-types-measures-and-roles)
+  - [Options and preferences](#options-and-preferences)
+  - [Extending SPSS](#extending-spss)
+  - [Saving and running syntax files](#saving-and-running-syntax-files)
+  - [The SPSS workbook interface](#the-spss-workbook-interface)
 - [**3. Data Visualization**](#3-data-visualization) (7 videos)
-  - Visualizing data with Chart Builder
-  - Modifying Chart Builder visualizations
-  - Visualizing data with Graphboard templates
-  - Modifying Graphboard visualizations
-  - Using legacy dialogs: Boxplots for multiple variables
-  - Creating regression variable plots
-  - Comparing subgroups
+  - [Visualizing data with Chart Builder](#visualizing-data-with-chart-builder)
+  - [Modifying Chart Builder visualizations](#modifying-chart-builder-visualizations)
+  - [Visualizing data with Graphboard templates](#visualizing-data-with-graphboard-templates)
+  - [Modifying Graphboard visualizations](#modifying-graphboard-visualizations)
+  - [Using legacy dialogs: Boxplots for multiple variables](#using-legacy-dialogs-boxplots-for-multiple-variables)
+  - [Creating regression variable plots](#creating-regression-variable-plots)
+  - [Comparing subgroups](#comparing-subgroups)
 - [**4. Data Wrangling**](#4-data-wrangling) (5 videos)
-  - Importing data
-  - Variable labels
-  - Value labels
-  - Splitting files
-  - Selecting cases and subgroups
+  - [Importing data](#importing-data)
+  - [Variable labels](#variable-labels)
+  - [Value labels](#value-labels)
+  - [Splitting files](#splitting-files)
+  - [Selecting cases and subgroups](#selecting-cases-and-subgroups)
 - [**5. Recoding Data**](#5-recoding-data) (8 videos)
-  - Recoding variables
-  - Reversing values with syntax
-  - Recoding by ranking cases
-  - Creating dummy variables
-  - Recoding with visual binning
-  - Recoding with optimal binning
-  - Preparing data for modeling
-  - Computing scores
+  - [Recoding variables](#recoding-variables)
+  - [Reversing values with syntax](#reversing-values-with-syntax)
+  - [Recoding by ranking cases](#recoding-by-ranking-cases)
+  - [Creating dummy variables](#creating-dummy-variables)
+  - [Recoding with visual binning](#recoding-with-visual-binning)
+  - [Recoding with optimal binning](#recoding-with-optimal-binning)
+  - [Preparing data for modeling](#preparing-data-for-modeling)
+  - [Computing scores](#computing-scores)
 - [**6. Exploring Data**](#6-exploring-data) (7 videos)
-  - Computing frequencies
-  - Computing descriptives
-  - Exploratory data analysis
-  - Computing correlations
-  - Computing contingency tables
-  - Factor analysis and principal component analysis
-  - Reliability analysis
+  - [Computing frequencies](#computing-frequencies)
+  - [Computing descriptives](#computing-descriptives)
+  - [Exploratory data analysis](#exploratory-data-analysis)
+  - [Computing correlations](#computing-correlations)
+  - [Computing contingency tables](#computing-contingency-tables)
+  - [Factor analysis and principal component analysis](#factor-analysis-and-principal-component-analysis)
+  - [Reliability analysis](#reliability-analysis)
 - [**7. Clustering and Classification**](#7-clustering-and-classification) (6 videos)
-  - Hierarchical clustering
-  - k-means clustering
-  - k-nearest neighbors classification
-  - Decision tree classification in SPSS
-  - Neural networks in SPSS: Multilayer perceptron classification
-  - Neural networks in SPSS: Radial basis function classification
+  - [Hierarchical clustering](#hierarchical-clustering)
+  - [k-means clustering](#k-means-clustering)
+  - [k-nearest neighbors classification](#k-nearest-neighbors-classification)
+  - [Decision tree classification in SPSS](#decision-tree-classification-in-spss)
+  - [Neural networks in SPSS: Multilayer perceptron classification](#neural-networks-in-spss-multilayer-perceptron-classification)
+  - [Neural networks in SPSS: Radial basis function classification](#neural-networks-in-spss-radial-basis-function-classification)
 - [**8. Analyzing Data**](#8-analyzing-data) (6 videos)
-  - Comparing proportions
-  - Comparing one mean to a population: One-sample t test
-  - Comparing paired means: Paired-samples t test
-  - Comparing two means: Independent-samples t test
-  - Comparing multiple means: One-way ANOVA
-  - Comparing means with two categorical variables: ANOVA
+  - [Comparing proportions](#comparing-proportions)
+  - [Comparing one mean to a population: One-sample t test](#comparing-one-mean-to-a-population-one-sample-t-test)
+  - [Comparing paired means: Paired-samples t test](#comparing-paired-means-paired-samples-t-test)
+  - [Comparing two means: Independent-samples t test](#comparing-two-means-independent-samples-t-test)
+  - [Comparing multiple means: One-way ANOVA](#comparing-multiple-means-one-way-anova)
+  - [Comparing means with two categorical variables: ANOVA](#comparing-means-with-two-categorical-variables-anova)
 - [**9. Building Predictive Models**](#9-building-predictive-models) (4 videos)
-  - Computing a linear regression
-  - Variable selection
-  - Logistic regression
-  - Automatic linear modeling
+  - [Computing a linear regression](#computing-a-linear-regression)
+  - [Variable selection](#variable-selection)
+  - [Logistic regression](#logistic-regression)
+  - [Automatic linear modeling](#automatic-linear-modeling)
 - [**10. Sharing Your Work**](#10-sharing-your-work) (1 videos)
-  - Exporting charts and tables
+  - [Exporting charts and tables](#exporting-charts-and-tables)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/welcome?u=76281980)
@@ -139,6 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), power (1)
 > **Env Vars:** spss (1), sbss (1)
 > **Speakers:** - [barton] (1)
 
@@ -159,6 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** exercise files (3)
 > **Env Vars:** spss (1)
 > **UI Navigation:** scroll down (1)
@@ -167,7 +169,7 @@ created: 2026-04-29
 
 ### 1. What is SPSS?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SPSS in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980)
@@ -218,10 +220,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Programming]] (3), [[SaaS]] (2), business (1), [[Microsoft Excel]] (1)
 > **Env Vars:** ibm (9), sbss (6), spss (6), sps (2), pasw (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), python (1)
-> **Code Keywords:** interface (1)
 > **Speakers:** - [narrator] (1)
 
 #### Versions, releases, licenses, and interfaces
@@ -281,8 +283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (3), data (2), [[Logistic Regression]] (1), [[Decision Trees]] (1), [[Neural Networks]] (1)
 > **Env Vars:** spss (8), pasw (1), sps (1), ibm (1)
-> **Code Keywords:** interface (6), this. (1), finally, (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** version 1 (1), version 30 (1)
 > **Cross-References:** go back to (1)
@@ -291,7 +293,7 @@ created: 2026-04-29
 
 ### 2. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating SPSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980)
@@ -534,9 +536,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Windows]] (5), [[Statistics]] (4), [[Programming]] (3), [[Metadata]] (1)
 > **Env Vars:** spss (15), frequencies (1), variables (1)
 > **UI Navigation:** click on (10), go to (6), in the toolbar (1)
-> **Code Keywords:** let (9), this, (2), case, (1), finally, (1), new, (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (8)
 > **Cross-References:** go back to (6)
@@ -584,6 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[IBM SPSS]] (2), [[Google]] (1), web (1), [[Search]] (1)
 > **Env Vars:** spss (5), ibm (3), sbss (2)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** find (1)
@@ -672,8 +675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (3), [[Programming]] (1)
 > **Env Vars:** spss (6), adl (1)
-> **Code Keywords:** let (2), require (2), type. (1), this. (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
@@ -750,7 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (3), default, (2), this. (1), from. (1)
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), [[Windows]] (1), [[Pivot Tables]] (1), [[Privacy]] (1)
 > **Env Vars:** apa (3), spss (2)
 > **CLI Commands:** python (2), make (1)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -851,10 +854,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), [[Statistics]] (1), [[Forecasting]] (1), [[Decision Trees]] (1)
 > **Env Vars:** spss (12), sbss (3), arima (1)
 > **UI Navigation:** go to (5), click on (2), scroll down (1)
 > **Analogies:** for instance (6)
-> **Code Keywords:** let (4)
 > **Prerequisites:** install (3), you'll need (1)
 > **URLs:** [ibm.com](https://ibm.com) (1), [xquartz.com](https://xquartz.com) (1), [xquartz.org](https://xquartz.org) (1)
 > **CLI Commands:** python (2)
@@ -951,7 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1), this. (1), delete (1)
+> **Frameworks & Libraries:** hit (3), [[Programming]] (2), data (2), [[Scripting]] (1)
 > **Env Vars:** spss (2), graph (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
@@ -1057,8 +1060,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), application (1), next (1)
 > **Env Vars:** spss (6)
-> **Code Keywords:** default, (2), this, (1), this. (1), let (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
@@ -1067,7 +1070,7 @@ created: 2026-04-29
 
 ### 3. Data Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing data with Chart Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/visualizing-data-with-chart-builder?u=76281980)
@@ -1170,7 +1173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1)
+> **Frameworks & Libraries:** data (8), hit (2)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** spss (4)
 > **CLI Commands:** make (2), find (1)
@@ -1318,8 +1321,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), hit (3)
 > **UI Navigation:** click on (5), go to (3)
-> **Code Keywords:** let (3), this. (2), this, (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (4)
 > **Env Vars:** spss (1)
@@ -1432,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11)
+> **Frameworks & Libraries:** hit (3), data (1)
 > **Env Vars:** spss (4)
 > **UI Navigation:** click on (1), go to (1), double-click (1)
 > **Exercise Files:** template (3)
@@ -1580,7 +1583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), function (1), this. (1), type: (1)
+> **Frameworks & Libraries:** data (6), hit (1), [[Statistics]] (1)
 > **UI Navigation:** click on (4), go to (3), select the (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (3), for example (1)
@@ -1684,7 +1687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** next (4), data (3), hit (2)
 > **Env Vars:** spss (3)
 > **Versions:** version 29 (1)
 > **UI Navigation:** click on (1)
@@ -1762,7 +1765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (1), function (1)
+> **Frameworks & Libraries:** data (2), hit (1)
 > **Definitions:** is a  (1), defined as (1), is an  (1)
 > **Env Vars:** spss (2)
 > **CLI Commands:** make (1)
@@ -1869,8 +1872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is an  (4), is a  (2), defined as (1)
-> **Code Keywords:** let (4), this. (1)
 > **Env Vars:** spss (3)
 > **UI Navigation:** go to (3)
 > **Analogies:** for instance (1)
@@ -1879,7 +1882,7 @@ created: 2026-04-29
 
 ### 4. Data Wrangling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980)
@@ -2044,8 +2047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Microsoft Excel|Excel]] (8), hit (4), [[Search]] (3), [[Google]] (2)
 > **Env Vars:** spss (7), csv (7)
-> **Code Keywords:** let (7), case, (2), from. (1), finally, (1), import, (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2166,9 +2169,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Google]] (2), [[Scripting]] (1), [[Microsoft Word|Word]] (1), [[Search]] (1)
 > **Env Vars:** spss (9)
 > **Cross-References:** go back to (3), in the next (1)
-> **Code Keywords:** let (2), this. (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Code Identifiers:** sq_miles (1)
@@ -2288,7 +2291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), this, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), next (1), hit (1)
 > **Env Vars:** spss (3), b5_1 (1), value (1), labels (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Analogies:** for instance (2), for example (1)
@@ -2406,8 +2409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), hit (6), [[Statistics]] (5), next (1)
 > **Env Vars:** spss (2), split (2), file (2), layered (2), separate (1)
-> **Code Keywords:** let (6), this, (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (3)
@@ -2652,7 +2655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), continue (2), default, (1), delete (1), if, (1)
+> **Frameworks & Libraries:** data (19), hit (13), [[Business Intelligence (BI)|Business intelligence]] (5), [[Google]] (3), [[Search]] (3)
 > **UI Navigation:** go to (8), click on (7), dropdown (3), select the (2)
 > **Cross-References:** go back to (7)
 > **Env Vars:** sbss (2), spss (1)
@@ -2664,7 +2667,7 @@ created: 2026-04-29
 
 ### 5. Recoding Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recoding variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-variables?u=76281980)
@@ -2895,8 +2898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), hit (3), [[Data Manipulation]] (1)
 > **Env Vars:** spss (4), recode (3), execute (3), compute (2), labels (2)
-> **Code Keywords:** let (8), delete (2), case, (2), case. (1), this. (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** go to (3), dropdown (1)
 > **Definitions:** is a  (2)
@@ -3003,7 +3006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1), switch (1)
+> **Frameworks & Libraries:** data (6), next (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** spss (2)
 > **Definitions:** is a  (2)
@@ -3199,7 +3202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), throw (3), default, (2), continue (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Google]] (6), hit (6), [[Search]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (2), select the (1), dropdown (1), scroll up (1)
 > **Env Vars:** spss (4)
@@ -3305,7 +3308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (1), for. (1), if, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (3), hit (2), [[Programming]] (1)
 > **Env Vars:** spss (5), compute (3), psy (1)
 > **Code Identifiers:** psy_reg (6), psy_region (1)
 > **Definitions:** is a  (6), refers to (1)
@@ -3567,7 +3570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (3), throw (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (13), hit (10), [[Google]] (6), [[Search]] (3), [[Statistical Data Analysis]] (1)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** click on (5), go to (3)
 > **Analogies:** for instance (3), for example (1)
@@ -3733,7 +3736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), function (1), for, (1)
+> **Frameworks & Libraries:** data (5), [[Google]] (5), [[Search]] (5), [[Statistics]] (4), hit (3)
 > **UI Navigation:** go to (2), click on (2), scroll down (1)
 > **Env Vars:** spss (3), gt07 (1)
 > **CLI Commands:** find (2), make (1)
@@ -3931,7 +3934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default. (1), from. (1), switch (1), case, (1)
+> **Frameworks & Libraries:** data (24), [[Google]] (2), power (2), application (1), [[Big Data]] (1)
 > **Env Vars:** spss (6)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -4051,7 +4054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (2), this. (1), function (1)
+> **Frameworks & Libraries:** data (9)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
@@ -4063,7 +4066,7 @@ created: 2026-04-29
 
 ### 6. Exploring Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
@@ -4258,7 +4261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (2), continue (2), finally, (1), for, (1)
+> **Frameworks & Libraries:** hit (6), data (5), [[Statistics]] (3), next (1), teams (1)
 > **UI Navigation:** go to (5), dropdown (1), scroll down (1), click on (1), select the (1)
 > **Versions:** 18.8 (2), 22.9 (1), 33.3 (1), 56.3 (1)
 > **Definitions:** is a  (4)
@@ -4364,7 +4367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), hit (3), data (2)
 > **Cross-References:** go back to (4), previous video (1)
 > **Analogies:** for instance (3), similar to (1)
 > **Env Vars:** spss (3)
@@ -4500,7 +4503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), continue (2), case, (1)
+> **Frameworks & Libraries:** data (3), [[Google]] (3), hit (3), [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** spss (2), eda (1)
 > **Versions:** 0.4 (2), 4.6 (1)
@@ -4629,7 +4632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** product (3), hit (1), next (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 0.212 (2), 0.281 (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** spss (3)
@@ -4791,7 +4794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (1), this, (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Statistics]] (3), hit (3)
 > **Env Vars:** nba (7), spss (2)
 > **Analogies:** for instance (7), think of it as (1), picture (1)
 > **UI Navigation:** go to (4), select the (1)
@@ -5086,7 +5089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (4), default, (1), throw (1), else. (1)
+> **Frameworks & Libraries:** data (16), hit (5), next (3), [[Google]] (2), [[Search]] (2)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** is a  (3), means that (1), is called (1), refers to (1)
 > **Env Vars:** spss (4), nasdaq (1)
@@ -5442,7 +5445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), for, (2), case, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** data (35), [[Statistics]] (10), [[Google]] (5), [[Search]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
 > **Definitions:** is a  (6), is an  (4), means that (1), refers to (1)
 > **UI Navigation:** go to (9), click on (1)
 > **CLI Commands:** make (8), find (1)
@@ -5454,7 +5457,7 @@ created: 2026-04-29
 
 ### 7. Clustering and Classification
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hierarchical clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980)
@@ -5595,7 +5598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), function (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (9), [[Google]] (5), [[Search]] (3), hit (3), [[Statistics]] (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** spss (4)
 > **Versions:** version 30 (2), 0.0.0 (1), 30.0 (1)
@@ -5749,7 +5752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (3), continue (2), case, (2), this. (1)
+> **Frameworks & Libraries:** data (12), hit (3), [[k-means clustering]] (2), [[Google]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **UI Navigation:** go to (2), scroll down (2)
 > **Env Vars:** spss (2)
@@ -6012,7 +6015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (7), let (3), case, (2), this, (1), throw (1)
+> **Frameworks & Libraries:** data (16), [[Probability]] (2), hit (2), [[k-means clustering]] (1), [[Big Data]] (1)
 > **Definitions:** is a  (6), is an  (2)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** spss (2), knn (1)
@@ -6248,7 +6251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), continue (2), this. (2), for. (1)
+> **Frameworks & Libraries:** data (19), hit (5), [[Statistics]] (2), business (1), node (1)
 > **Definitions:** is a  (8), is an  (1)
 > **CLI Commands:** make (4), node (1), find (1)
 > **Env Vars:** spss (5)
@@ -6424,7 +6427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), default. (1), export, (1), function (1)
+> **Frameworks & Libraries:** data (12), [[Neural Networks]] (11), [[Probability]] (1), next (1), [[Deep Learning]] (1)
 > **Env Vars:** spss (5), npss (1), roc (1), xml (1)
 > **UI Navigation:** go to (3), double-click (1)
 > **Definitions:** is a  (3)
@@ -6536,7 +6539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (2), let (2), case, (1)
+> **Frameworks & Libraries:** data (8), [[Neural Networks]] (5), next (1), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
 > **Env Vars:** spss (2), rbf (1), roc (1), xml (1)
 > **CLI Commands:** make (2)
 > **Versions:** 96.4 (1), 13.5 (1)
@@ -6548,7 +6551,7 @@ created: 2026-04-29
 
 ### 8. Analyzing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
@@ -6621,7 +6624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), match. (1)
+> **Frameworks & Libraries:** data (2), [[Probability]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** spss (3)
 > **Analogies:** it's like (1), for instance (1), similar to (1)
@@ -6690,7 +6693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1)
+> **Frameworks & Libraries:** data (4), hit (1)
 > **Versions:** 3.06 (3), 3.0 (1), 3.36 (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** scroll down (1)
@@ -6818,7 +6821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 55.37 (1), 58.17 (1), 0.928 (1), 2.8 (1), 0.009 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1), double-click (1)
@@ -6948,7 +6951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), continue (2), case. (1)
+> **Frameworks & Libraries:** hit (4), [[Statistics]] (1), data (1)
 > **UI Navigation:** select the (1), go to (1), click on (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Versions:** 45.9 (1), 40.8 (1)
@@ -7071,7 +7074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), case, (3), else. (1), default, (1), this, (1)
+> **Frameworks & Libraries:** hit (5), [[Statistics]] (1), data (1)
 > **Env Vars:** anova (6), spss (1)
 > **Analogies:** for instance (3), similar to (2)
 > **Versions:** 24.188 (1), 0.015 (1), 2.8 (1), 3.3 (1)
@@ -7207,7 +7210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), static (4), this. (1)
+> **Frameworks & Libraries:** hit (3), data (2), [[Statistics]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Versions:** 35.8 (1)
@@ -7218,7 +7221,7 @@ created: 2026-04-29
 
 ### 9. Building Predictive Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computing a linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980)
@@ -7415,7 +7418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), default, (1), throw (1), case, (1)
+> **Frameworks & Libraries:** next (4), [[Linear Regression]] (2), hit (2), data (1), [[Logistic Regression]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 0.492 (1), 0.242 (1), 0.001 (1), 0.1 (1), 0.05 (1)
 > **Definitions:** is a  (5)
@@ -7689,7 +7692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), this, (2), case, (2), continue (2), this. (2)
+> **Frameworks & Libraries:** data (9), cd (4), hit (3), [[Statistics]] (2), next (2)
 > **CLI Commands:** make (7), cd (4)
 > **UI Navigation:** double-click (3), click on (2), go to (2)
 > **Definitions:** is a  (7)
@@ -7911,7 +7914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), this, (1), case, (1), continue (1)
+> **Frameworks & Libraries:** data (8), [[Probability]] (7), [[Google]] (4), [[Search]] (4), [[Business Intelligence (BI)|Business intelligence]] (3)
 > **Env Vars:** mls (2), gdp (1), spss (1), nba (1), nfl (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for instance (3), such as (1), just like (1), similar to (1), analogous to (1)
@@ -8093,7 +8096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), include. (1), this. (1)
+> **Frameworks & Libraries:** data (15), [[Analytics]] (3), business (2), [[Search]] (2), hit (2)
 > **Definitions:** is a  (3), is an  (2), is called (1)
 > **Env Vars:** sbss (1), alm (1), spss (1)
 > **Versions:** 56.6 (1), 80.8 (1), 3.5 (1)
@@ -8105,7 +8108,7 @@ created: 2026-04-29
 
 ### 10. Sharing Your Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exporting charts and tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980)
@@ -8206,8 +8209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), hit (3), web (3), data (2), [[HTML]] (2)
 > **Env Vars:** spss (7), pdf (2), html (2), jpeg (1)
-> **Code Keywords:** let (5), export. (4), require (1), export, (1)
 > **UI Navigation:** go to (3), click on (3)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
@@ -8216,7 +8219,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)
@@ -8245,6 +8248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[LinkedIn]] (2), business (2), next (1), [[Linear Regression]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** spss (5)
 > **Speakers:** - [instructor] (1)

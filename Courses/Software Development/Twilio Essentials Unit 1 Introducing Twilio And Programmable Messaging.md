@@ -26,7 +26,7 @@ tags:
   - skill/twilio
   - skill/messaging-platforms
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Twilio%20Essentials%20Unit%201%20Introducing%20Twilio%20And%20Programmable%20Messaging.md)
@@ -45,17 +45,17 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Introducing Twilio and Programmable Messaging**](#1-introducing-twilio-and-programmable-messaging) (7 videos)
-  - Introduction to Twilio
-  - Signing up
-  - Introduction to messaging
-  - Send an SMS using the CLI
-  - Receive a text
-  - Dynamic messaging
-  - Review and practice
+  - [Introduction to Twilio](#introduction-to-twilio)
+  - [Signing up](#signing-up)
+  - [Introduction to messaging](#introduction-to-messaging)
+  - [Send an SMS using the CLI](#send-an-sms-using-the-cli)
+  - [Receive a text](#receive-a-text)
+  - [Dynamic messaging](#dynamic-messaging)
+  - [Review and practice](#review-and-practice)
 
 ### 1. Introducing Twilio and Programmable Messaging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Twilio
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980)
@@ -154,7 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), break. (1), super (1), new, (1), public (1)
+> **Frameworks & Libraries:** [[Twilio]] (6), application (4), web (2), [[Programming]] (2), api (2)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** api (2), pstn (1)
 > **Definitions:** is a  (1)
@@ -311,7 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), continue (1), else. (1)
+> **Frameworks & Libraries:** [[Twilio]] (12), next (1), [[Google]] (1), product (1), [[JavaScript]] (1)
 > **Env Vars:** sms (4)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** cdennis (1)
@@ -507,9 +507,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), [[Python (Programming Language)|Python]] (4), node (3), [[Twilio]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (9), sms (4), sid (4), mms (2), http (2)
 > **CLI Commands:** python (4), node (3), make (2), curl (1), find (1)
-> **Code Keywords:** let (4), this, (3), pass (1), return . (1), interface (1)
 > **Documentation:** the docs (2), api reference (2), the documentation (2)
 > **Tools:** terminal (2), command line (1)
 > **Definitions:** is a  (2), known as (1)
@@ -797,8 +797,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Twilio]] (12), [[CLI]] (10), api (6), [[Windows]] (3), [[JSON]] (3)
 > **Env Vars:** cli (9), api (5), sid (5), sms (3), url (3)
-> **Code Keywords:** let (9), this. (3), from, (2), pass (2), interface (1)
 > **Tools:** command line (4), zsh (2), command prompt (1), terminal (1)
 > **Prerequisites:** set up (5), setup (1)
 > **CLI Commands:** make (2)
@@ -1017,8 +1017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Twilio]] (12), [[HTML]] (5), web (3), game (3), application (2)
 > **Env Vars:** html (5), url (2), sms (1), text (1), quest (1)
-> **Code Keywords:** let (3), super (1), pass (1), this, (1), this. (1)
 > **UI Navigation:** scroll down (3), go to (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** just like (2), similar to (1)
@@ -1349,7 +1349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), let (13), pass (2), this. (2), else. (2)
+> **Frameworks & Libraries:** [[Twilio]] (13), web (8), api (4), [[Microsoft Products|Products]] (3), node (2)
 > **Env Vars:** http (4), api (4), url (3), dns (1), https (1)
 > **CLI Commands:** make (8), node (2)
 > **Definitions:** is a  (7)
@@ -1471,7 +1471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (1), static (1), function (1), this, (1)
+> **Frameworks & Libraries:** [[Twilio]] (7), next (2), api (2), web (2), [[CLI]] (1)
 > **Env Vars:** api (2), url (2), taco (1), cli (1), http (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)

@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20APIs%20and%20Web%20Services.md)
@@ -40,44 +40,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to APIs and web services
+  - [Introduction to APIs and web services](#introduction-to-apis-and-web-services)
 - [**1. Exploring APIs and Web Services**](#1-exploring-apis-and-web-services) (4 videos)
-  - Defining APIs
-  - Understanding web services
-  - Challenge: Calling a public API
-  - Solution: Calling a public API
+  - [Defining APIs](#defining-apis)
+  - [Understanding web services](#understanding-web-services)
+  - [Challenge: Calling a public API](#challenge-calling-a-public-api)
+  - [Solution: Calling a public API](#solution-calling-a-public-api)
 - [**2. Implementing RESTful APIs**](#2-implementing-restful-apis) (5 videos)
-  - Applying REST principles
-  - Building RESTful APIs with Python
-  - Exploring advanced API concepts
-  - Challenge: Develop a simple RESTful API
-  - Solution: Develop a simple RESTful API
+  - [Applying REST principles](#applying-rest-principles)
+  - [Building RESTful APIs with Python](#building-restful-apis-with-python)
+  - [Exploring advanced API concepts](#exploring-advanced-api-concepts)
+  - [Challenge: Develop a simple RESTful API](#challenge-develop-a-simple-restful-api)
+  - [Solution: Develop a simple RESTful API](#solution-develop-a-simple-restful-api)
 - [**3. Implementing GraphQL**](#3-implementing-graphql) (4 videos)
-  - Exploring GraphQL benefits
-  - Creating with GraphQL
-  - Challenge: Build a GraphQL server
-  - Solution: Build a GraphQL server
+  - [Exploring GraphQL benefits](#exploring-graphql-benefits)
+  - [Creating with GraphQL](#creating-with-graphql)
+  - [Challenge: Build a GraphQL server](#challenge-build-a-graphql-server)
+  - [Solution: Build a GraphQL server](#solution-build-a-graphql-server)
 - [**4.  Integrating Generative AI APIs**](#4-integrating-generative-ai-apis) (4 videos)
-  - Exploring the OpenAI APIs
-  - Utilizing the OpenAI API
-  - Challenge: Integrate the OpenAI API
-  - Solution: Integrate the OpenAI API
+  - [Exploring the OpenAI APIs](#exploring-the-openai-apis)
+  - [Utilizing the OpenAI API](#utilizing-the-openai-api)
+  - [Challenge: Integrate the OpenAI API](#challenge-integrate-the-openai-api)
+  - [Solution: Integrate the OpenAI API](#solution-integrate-the-openai-api)
 - [**5. Ensuring API Security and Best Practices**](#5-ensuring-api-security-and-best-practices) (6 videos)
-  - Securing APIs
-  - Challenge: Secure an API
-  - Solution: Secure an API
-  - Documenting and testing APIs
-  - Challenge: Document an API
-  - Solution: Document an API
+  - [Securing APIs](#securing-apis)
+  - [Challenge: Secure an API](#challenge-secure-an-api)
+  - [Solution: Secure an API](#solution-secure-an-api)
+  - [Documenting and testing APIs](#documenting-and-testing-apis)
+  - [Challenge: Document an API](#challenge-document-an-api)
+  - [Solution: Document an API](#solution-document-an-api)
 - [**6. Anticipating Future Trends in APIs and Web Services**](#6-anticipating-future-trends-in-apis-and-web-services) (2 videos)
-  - Embracing emerging technologies
-  - Navigating the evolving API ecosystem
+  - [Embracing emerging technologies](#embracing-emerging-technologies)
+  - [Navigating the evolving API ecosystem](#navigating-the-evolving-api-ecosystem)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your programming foundations: APIs and web services journey
+  - [Your programming foundations: APIs and web services journey](#your-programming-foundations-apis-and-web-services-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to APIs and web services
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/introduction-to-apis-and-web-services?u=76281980)
@@ -108,15 +108,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), api (2), power (1), business (1), teams (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - apis (1)
 
 
 ### 1. Exploring APIs and Web Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980)
@@ -211,8 +211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), data (4), [[Fetch]] (2), next (2), web (2)
 > **Analogies:** imagine (3), for example (2), think of it as (1), it's like (1)
-> **Code Keywords:** public (2), interface (1), let (1), private (1), finally, (1)
 > **Env Vars:** api (5), vip (1)
 > **Definitions:** is an  (1), known as (1)
 > **CLI Commands:** make (1)
@@ -293,9 +293,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (17), api (4), data (2), [[Representational State Transfer (REST)|Rest]] (2), [[Representational State Transfer (REST)|Representational state transfer]] (1)
 > **Env Vars:** api (4), soap (2), rest (2)
 > **Analogies:** think of it as (1), imagine (1), just like (1)
-> **Code Keywords:** let (1), super (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -374,8 +374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), data (5), [[Python (Programming Language)|Python]] (4), [[Codespaces]] (4), [[GitHub]] (3)
 > **Env Vars:** api (11), readme (1), nasa (1), http (1)
-> **Code Keywords:** public (4), let (2), pass (1)
 > **CLI Commands:** python (4), make (2)
 > **Tools:** github (3)
 > **UI Navigation:** navigate to (1), click on (1)
@@ -490,8 +490,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (18), [[JSON]] (4), next (2), [[Python (Programming Language)|Python]] (1), data (1)
 > **Env Vars:** api (17), nasa (5), json (3), url (2), demo_key (1)
-> **Code Keywords:** let (9), function (4), module (2), private (1), pass (1)
 > **Code Identifiers:** get_asteroid_count (2), api_data (2), asteroids_api (1), stringtojson (1), start_date (1)
 > **UI Navigation:** scroll down (4)
 > **CLI Commands:** make (1), python (1), pip (1)
@@ -502,7 +502,7 @@ created: 2026-04-29
 
 ### 2. Implementing RESTful APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying REST principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980)
@@ -597,8 +597,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (13), data (2), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Security]] (1), [[Scalability]] (1)
 > **Env Vars:** rest (13), soap (1), api (1)
-> **Code Keywords:** let (2), interface (1), this. (1), delete (1), pass (1)
 > **Definitions:** stands for (1), is called (1), known as (1), is an  (1)
 > **Analogies:** imagine (2), it's like (1)
 > **CLI Commands:** python (1)
@@ -712,8 +712,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (21), data (5), next (5), web (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (21), url (4), rest (2), json (2), http (1)
-> **Code Keywords:** delete (6), let (5)
 > **Tools:** postman (6), github (1)
 > **Analogies:** for example (2), such as (2)
 > **UI Navigation:** go to (2), click on (1)
@@ -818,8 +818,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (14), data (6), [[Security]] (2), [[Microsoft Products|Products]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (14), json (1), jwt (1)
-> **Code Keywords:** let (5), static (1), this. (1)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Definitions:** is called (1), is an  (1)
@@ -856,8 +856,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), next (3), data (1)
 > **Env Vars:** api (4), crud (1)
-> **Code Keywords:** delete (2), finally, (1)
 > **Prerequisites:** set up (1), install (1)
 > **CLI Commands:** curl (1)
 > **Code Identifiers:** curl (1)
@@ -984,7 +984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (5), delete (3), public (3), pass (2)
+> **Frameworks & Libraries:** api (8), next (4), [[GitHub]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[JSON]] (2)
 > **Env Vars:** api (8), url (6), json (2)
 > **CLI Commands:** make (4), find (2)
 > **Tools:** postman (3), github (3)
@@ -996,7 +996,7 @@ created: 2026-04-29
 
 ### 3. Implementing GraphQL
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring GraphQL benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980)
@@ -1071,9 +1071,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (14), [[Representational State Transfer (REST)|Rest]] (8), data (8), api (4), [[Security]] (3)
 > **Env Vars:** rest (8), api (4)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** require (1), interface (1)
 > **Analogies:** for instance (1), think of it like (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -1196,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (2), type, (1), type. (1), class. (1)
+> **Frameworks & Libraries:** [[GraphQL]] (12), data (5), [[Python (Programming Language)|Python]] (5), api (2), next (2)
 > **CLI Commands:** python (5)
 > **Code Identifiers:** resolve_book (1), resolve_books (1), result_all (1)
 > **Env Vars:** api (2), rest (1)
@@ -1238,7 +1238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), delete (1), finally, (1), interface (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), next (2), api (2), [[Fetch]] (1)
 > **Env Vars:** api (2)
 > **File Paths:** app.py (1)
 > **Analogies:** similar to (1)
@@ -1447,7 +1447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (6), function (2), case, (2), return. (2)
+> **Frameworks & Libraries:** next (12), api (10), data (7), [[GraphQL]] (6), [[LinkedIn]] (1)
 > **Env Vars:** api (10), pip (1)
 > **Code Identifiers:** resolve_task (2), deleted_task (1), add_task (1), update_task (1), delete_task (1)
 > **CLI Commands:** find (3), pip (2), python (1)
@@ -1459,7 +1459,7 @@ created: 2026-04-29
 
 ### 4.  Integrating Generative AI APIs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the OpenAI APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980)
@@ -1528,9 +1528,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (14), ai (11), data (2), [[ChatGPT]] (1), [[Debugging]] (1)
 > **Env Vars:** api (14), gpt (2), dall (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** let (2)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1701,8 +1701,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (17), prompt (4), ai (3), [[LinkedIn]] (3), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** api (18), openai_api_key (2), llm (2), url (2), sdk (1)
-> **Code Keywords:** let (13), case, (3), private (1)
 > **CLI Commands:** make (3), python (2), find (1)
 > **UI Navigation:** navigate to (2), scroll down (1), click on (1), go to (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1739,10 +1739,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), next (2), ai (1), [[OpenAI API]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (5)
 > **Prerequisites:** set up (2), install (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - are (1)
@@ -1861,7 +1861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), pass (6), case, (5), let (4), continue (2)
+> **Frameworks & Libraries:** prompt (10), api (6), [[Microsoft Word|Word]] (2), next (2), [[OpenAI API]] (1)
 > **Env Vars:** api (7), url (3), gpt (1), llm (1), dall (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
@@ -1871,7 +1871,7 @@ created: 2026-04-29
 
 ### 5. Ensuring API Security and Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980)
@@ -1964,8 +1964,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (19), data (6), [[Security]] (5), [[Tokens]] (4), next (2)
 > **Env Vars:** api (19), json (1), jwt (1), https (1), tls (1)
-> **Code Keywords:** let (4), public (2), require (1), protected (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **Definitions:** is an  (1)
@@ -2000,8 +2000,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), next (2), [[Security]] (1), data (1)
 > **Env Vars:** api (7)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2097,8 +2097,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (16), data (3), next (3)
 > **Env Vars:** api (16), api_key (3), url (3)
-> **Code Keywords:** let (4), function (1), public (1), type, (1)
 > **Tools:** postman (4)
 > **UI Navigation:** click on (2), scroll down (1), navigate to (1)
 > **CLI Commands:** make (1)
@@ -2175,10 +2175,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (17), data (2), [[Security]] (1), [[JSON]] (1), [[Metadata]] (1)
 > **Env Vars:** api (17), jwt (1)
 > **Documentation:** specification (4)
 > **Tools:** postman (4)
-> **Code Keywords:** interface (2), let (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** imagine (1), it's like (1)
 > **File Paths:** openapi.json (1)
@@ -2207,11 +2207,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), next (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (5)
 > **Documentation:** specification (2), the documentation (1)
 > **CLI Commands:** python (1), make (1)
 > **Tools:** postman (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2335,8 +2335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (16), [[JSON]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **Env Vars:** api (16), url (4), swagger_url (2), json (1), api_url (1)
-> **Code Keywords:** let (5), static (2), function (2), module (2), public (2)
 > **UI Navigation:** scroll down (5), click on (4), navigate to (1)
 > **Code Identifiers:** flask_swagger_ui (2), swagger_ui_blueprint (2), todo_api (1), get_swagger_ui_blueprint (1), register_blueprint (1)
 > **CLI Commands:** make (4), pip (1)
@@ -2347,7 +2347,7 @@ created: 2026-04-29
 
 ### 6. Anticipating Future Trends in APIs and Web Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embracing emerging technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980)
@@ -2426,8 +2426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (20), ai (10), [[Security]] (8), management (6), traffic (4)
 > **Env Vars:** api (20), aws (2), iot (1)
-> **Code Keywords:** let (3), function (2), lambda (2), continue (2)
 > **CLI Commands:** aws (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2499,8 +2499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (14), application (2), [[Scalability]] (2), teams (2), next (2)
 > **Env Vars:** api (14)
-> **Code Keywords:** let (2), function (1)
 > **Documentation:** specification (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2509,7 +2509,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your programming foundations: APIs and web services journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980)
@@ -2542,8 +2542,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), next (2), [[LinkedIn]] (2), power (1), [[Security]] (1)
 > **Env Vars:** api (4)
-> **Code Keywords:** continue (1), let (1)
 > **Analogies:** just like (1), such as (1)
 > **Tools:** postman (1)
 > **Speakers:** - and (1)

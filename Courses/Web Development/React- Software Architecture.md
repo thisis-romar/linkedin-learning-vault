@@ -31,7 +31,7 @@ tags:
   - skill/software-architecture
   - skill/react-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Software%20Architecture.md)
@@ -50,48 +50,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn software architecture with React
-  - What you should know
+  - [Learn software architecture with React](#learn-software-architecture-with-react)
+  - [What you should know](#what-you-should-know)
 - [**1. Software Architecture Basics**](#1-software-architecture-basics) (1 videos)
-  - What is software architecture?
+  - [What is software architecture?](#what-is-software-architecture)
 - [**2. Server-Side Rendering (SSR)**](#2-server-side-rendering-ssr) (7 videos)
-  - Server-side rendering basics
-  - Setting up a simple React app
-  - Basic React SSR
-  - Building and rendering an SSR React app
-  - Routing with server-side rendering
-  - Styling with server-side rendering
-  - Server-side rendering caveats
+  - [Server-side rendering basics](#server-side-rendering-basics)
+  - [Setting up a simple React app](#setting-up-a-simple-react-app)
+  - [Basic React SSR](#basic-react-ssr)
+  - [Building and rendering an SSR React app](#building-and-rendering-an-ssr-react-app)
+  - [Routing with server-side rendering](#routing-with-server-side-rendering)
+  - [Styling with server-side rendering](#styling-with-server-side-rendering)
+  - [Server-side rendering caveats](#server-side-rendering-caveats)
 - [**3. State Management Architecture**](#3-state-management-architecture) (10 videos)
-  - What is state management?
-  - Small state with the useState Hook
-  - Small state with context
-  - Accessing context inside components
-  - Medium state with Recoil
-  - Sharing Recoil state
-  - Using Recoil selectors
-  - Big state with Redux
-  - Using Redux with components
-  - Big state with MobX
+  - [What is state management?](#what-is-state-management)
+  - [Small state with the useState Hook](#small-state-with-the-usestate-hook)
+  - [Small state with context](#small-state-with-context)
+  - [Accessing context inside components](#accessing-context-inside-components)
+  - [Medium state with Recoil](#medium-state-with-recoil)
+  - [Sharing Recoil state](#sharing-recoil-state)
+  - [Using Recoil selectors](#using-recoil-selectors)
+  - [Big state with Redux](#big-state-with-redux)
+  - [Using Redux with components](#using-redux-with-components)
+  - [Big state with MobX](#big-state-with-mobx)
 - [**4. Data Loading and WebSockets**](#4-data-loading-and-websockets) (4 videos)
-  - When should we load data?
-  - Data loading with SSR
-  - Rendering server-side API data
-  - Enhancing SSR with context
+  - [When should we load data?](#when-should-we-load-data)
+  - [Data loading with SSR](#data-loading-with-ssr)
+  - [Rendering server-side API data](#rendering-server-side-api-data)
+  - [Enhancing SSR with context](#enhancing-ssr-with-context)
 - [**5. Code Splitting**](#5-code-splitting) (4 videos)
-  - Code splitting basics
-  - Route-based code splitting
-  - When to use code splitting
-  - Error boundaries
+  - [Code splitting basics](#code-splitting-basics)
+  - [Route-based code splitting](#route-based-code-splitting)
+  - [When to use code splitting](#when-to-use-code-splitting)
+  - [Error boundaries](#error-boundaries)
 - [**6. Folder Structure and Naming Conventions**](#6-folder-structure-and-naming-conventions) (2 videos)
-  - Function vs. feature-based organization
-  - Monoliths, multi-repos, and monorepos
+  - [Function vs. feature-based organization](#function-vs-feature-based-organization)
+  - [Monoliths, multi-repos, and monorepos](#monoliths-multi-repos-and-monorepos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn software architecture with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980)
@@ -112,8 +112,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Architecture]] (4), [[React.js|React]] (3), next (2), [[Software Development]] (1), career (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [shaun] (1)
 
 #### What you should know
@@ -139,13 +139,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[Full-Stack Development]] (2), [[Web Development]] (1), [[Routing]] (1), [[React Hooks]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Software Architecture Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is software architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980)
@@ -236,7 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), static (1)
+> **Frameworks & Libraries:** [[Software Architecture]] (9), [[React.js|React]] (6), next (2), data (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** just like (1)
@@ -245,7 +246,7 @@ created: 2026-04-29
 
 ### 2. Server-Side Rendering (SSR)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Server-side rendering basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980)
@@ -318,9 +319,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (11), [[React.js|React]] (5), data (4), application (2), [[User Experience (UX)|User experience]] (2)
 > **File Paths:** index.html (6)
 > **Env Vars:** html (5), seo (1)
-> **Code Keywords:** let (2), case. (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -435,7 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (3), this. (2), const (1)
+> **Frameworks & Libraries:** [[React.js|React]] (13), application (4), dom (4), next (2)
 > **File Paths:** home.js (1), about.js (1), articles.js (1), app.js (1)
 > **Prerequisites:** install (3), set up (1)
 > **Env Vars:** jsx (3)
@@ -534,7 +535,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (2), const (2), function (1), pass (1)
+> **Frameworks & Libraries:** [[HTML]] (7), express (5), [[React.js|React]] (5), [[JavaScript]] (4), application (2)
 > **Code Identifiers:** reactapp (5), rendertostring (3)
 > **Prerequisites:** install (8)
 > **CLI Commands:** npm (2), node (2), make (2), npx (1)
@@ -602,8 +603,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[HTML]] (3), express (2), node (2), [[npm]] (1)
 > **CLI Commands:** npx (3), make (2), node (2), npm (1)
-> **Code Keywords:** let (4), static (3), default, (1)
 > **File Paths:** server.js (3), index.html (2)
 > **Env Vars:** html (1), jsx (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -733,8 +734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (13), [[React.js|React]] (6), data (5), dom (2), next (1)
 > **File Paths:** index.html (6), index.js (5), server.js (1), path.resolve./build/index.html (1)
-> **Code Keywords:** let (4), static (2), pass (1), this. (1), function (1)
 > **Code Identifiers:** reactapp (7), rendertostring (1)
 > **Env Vars:** html (6), npx (1)
 > **Exercise Files:** template (4)
@@ -865,8 +866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (8), css (7), application (6), [[React.js|React]] (4), [[npm]] (4)
 > **Env Vars:** html (8), css (7), jsx (1)
-> **Code Keywords:** let (5), this, (2), const (2), static (1), this. (1)
 > **File Paths:** index.html (4), index.css (1), app.js (1)
 > **CLI Commands:** npm (4), find (1), make (1)
 > **Analogies:** just like (2)
@@ -913,14 +914,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), front-end (2), application (2), [[React.js|React]] (2), functional (1)
 > **Warnings:** keep in mind (3), be aware (1), caveat (1)
-> **Code Keywords:** let (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. State Management Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is state management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980)
@@ -987,7 +988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** management (14), application (8), data (5), [[React.js|React]] (5), [[Vanilla]] (2)
 > **Code Identifiers:** usestate (2)
 > **Definitions:** is a  (1), refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -1103,8 +1104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), management (4), [[Vanilla]] (3), [[Representational State Transfer (REST)|Rest]] (2), application (1)
 > **Code Identifiers:** usestate (5), incrementby (5), numberofclicks (4), setnumberofclicks (2), onclick (2)
-> **Code Keywords:** let (7), const (3), pass (1), function (1), type= (1)
 > **CLI Commands:** make (1), npm (1)
 > **File Paths:** counterbutton.js (1)
 > **UI Navigation:** click on (1)
@@ -1218,7 +1219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (7), const (4), function (2), this. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), next (2), data (2), dom (2), management (1)
 > **Code Identifiers:** usestate (6), numberofclicks (5), createcontext (2), setnumberofclicks (2)
 > **Definitions:** in other words (1), known as (1), is a  (1)
 > **File Paths:** countercontext.js (1), counterprovider.js (1)
@@ -1315,8 +1316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1), dom (1)
 > **Code Identifiers:** incrementby (14), setincrementby (6), usestate (5), usecontext (3), numberofclicks (3)
-> **Code Keywords:** function (5), let (5), const (3), pass (2), try. (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2)
 > **Env Vars:** dom (1)
@@ -1444,8 +1445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), next (3), management (2), [[React.js|React]] (2), [[npm]] (1)
 > **Code Identifiers:** incrementbystate (8), counterstate (7), userecoilstate (3), usecontext (2), usestate (2)
-> **Code Keywords:** let (5), import { (3), const (2), pass (2), function (1)
 > **Tools:** atom (4)
 > **Definitions:** is called (2), is a  (2)
 > **Analogies:** similar to (3), just like (1)
@@ -1574,8 +1575,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), feature (1), next (1)
 > **Code Identifiers:** clicksdata (5), incrementby (4), userecoilstate (3), numberofclicks (3), counterstate (3)
-> **Code Keywords:** let (9), this, (4), import, (2), const (2), pass (2)
 > **Analogies:** imagine (1), for example (1), just like (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -1680,8 +1681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), application (2), management (1)
 > **Code Identifiers:** numberofclicksselector (6), clicksdata (5), counterstate (4), setclicksdata (3), totalclicks (2)
-> **Code Keywords:** const (4), function (4), pass (3), let (3), for. (1)
 > **Tools:** atom (3)
 > **UI Navigation:** click on (2)
 > **Analogies:** just like (1), imagine (1)
@@ -1798,7 +1799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), const (3), case, (2), switch (2), type. (2)
+> **Frameworks & Libraries:** application (12), data (4), management (3), [[React.js|React]] (3), next (2)
 > **Code Identifiers:** usestate (2), numberofclicks (2), counterbuttonclicked (1), snake_case (1), numberofclicksreducer (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** counter_button_clicked (2)
@@ -1972,8 +1973,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), next (3), data (2), [[React.js|React]] (2)
 > **Code Identifiers:** counterbuttonclicked (7), rootreducer (4), numberofclicks (4), useselector (4), incrementby (4)
-> **Code Keywords:** pass (8), let (7), const (4), function (3), case. (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), just like (1)
@@ -2120,7 +2121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (3), pass (3), this, (2), function (2)
+> **Frameworks & Libraries:** [[React.js|React]] (7), application (5), next (3), management (2), [[npm]] (2)
 > **CLI Commands:** make (10), npm (2)
 > **Definitions:** is an  (2), is a  (1), means that (1)
 > **Prerequisites:** install (3), set up (1)
@@ -2132,7 +2133,7 @@ created: 2026-04-29
 
 ### 4. Data Loading and WebSockets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When should we load data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980)
@@ -2227,7 +2228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), const (3), this, (1), for. (1), pass (1)
+> **Frameworks & Libraries:** data (9), front-end (6), api (4), database (3), [[JSON]] (3)
 > **Code Identifiers:** useeffect (4), loadedarticles (3), usestate (2), setarticles (1)
 > **CLI Commands:** make (6), npm (2)
 > **File Paths:** server.js (1), res.json (1), response.json (1)
@@ -2333,8 +2334,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[HTML]] (7), [[React.js|React]] (5), database (3), [[JSON]] (3)
 > **Env Vars:** html (7), json (3), api (1)
-> **Code Keywords:** let (4), case, (2), const (1), pass (1), this, (1)
 > **CLI Commands:** make (8), npm (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
@@ -2433,7 +2434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), const (3), pass (2), await (2), delete (2)
+> **Frameworks & Libraries:** data (18), [[React.js|React]] (5), [[HTML]] (2), next (2), [[JSON]] (2)
 > **Code Identifiers:** isserverside (2), createcontext (1), contextobj (1), contextobject (1)
 > **Env Vars:** html (2), json (2)
 > **File Paths:** server.js (1)
@@ -2600,8 +2601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Fetch]] (13), next (4), [[React.js|React]] (2), [[npm]] (2)
 > **Code Identifiers:** usedatassr (7), resourcename (5), usestate (2), setdata (2), preloadeddata (2)
-> **Code Keywords:** function (5), let (4), const (4), delete (2), finally, (1)
 > **Env Vars:** url (2), html (2), json (1), dom (1), seo (1)
 > **CLI Commands:** make (2), npm (2)
 > **Prerequisites:** install (2), set up (1)
@@ -2612,7 +2613,7 @@ created: 2026-04-29
 
 ### 5. Code Splitting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Code splitting basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980)
@@ -2769,7 +2770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (5), this, (3), const (3), import. (2)
+> **Frameworks & Libraries:** application (7), [[React.js|React]] (5), [[JavaScript]] (3), next (1), dom (1)
 > **UI Navigation:** go to (5)
 > **Definitions:** is a  (3), is called (1), in other words (1)
 > **File Paths:** one.js (1), two.js (1), three.js (1)
@@ -2855,7 +2856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), const (3), function (2), switch (1), finally, (1)
+> **Frameworks & Libraries:** application (2), hit (2), next (1), [[React.js|React]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -2919,8 +2920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Routing]] (1)
 > **Code Identifiers:** showcomponents (3), setshowcomponents (2), usestate (1), onclick (1)
-> **Code Keywords:** let (2), case. (1), function (1), this, (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** in other words (1)
@@ -3080,7 +3081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), this. (4), throw (2), interface (1), continue (1)
+> **Frameworks & Libraries:** application (8), [[React.js|React]] (3), [[npm]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** componentdidcatch (2), errorinfo (2), js (1), getderivedstatefromerror (1)
 > **CLI Commands:** npm (3), make (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -3092,7 +3093,7 @@ created: 2026-04-29
 
 ### 6. Folder Structure and Naming Conventions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Function vs. feature-based organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/function-vs-feature-based-organization?u=76281980)
@@ -3155,7 +3156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), this, (1), delete (1)
+> **Frameworks & Libraries:** feature (3), application (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -3257,7 +3258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** teams (4), next (2), career (1), [[Microservices]] (1), feature (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** source code (2)
 > **Definitions:** in other words (2)
@@ -3267,7 +3268,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980)
@@ -3300,7 +3301,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[LinkedIn]] (2), data (1), application (1), management (1)
 > **Speakers:** - [narrator] (1)
 
 

@@ -39,7 +39,7 @@ tags:
   - skill/data-analysis
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/R%20for%20Data%20Science-%20Analysis%20and%20Visualization.md)
@@ -58,47 +58,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - R for data science
-  - Using the exercise files
+  - [R for data science](#r-for-data-science)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. What Is R?**](#1-what-is-r) (2 videos)
-  - R in context
-  - A note about AI in R
+  - [R in context](#r-in-context)
+  - [A note about AI in R](#a-note-about-ai-in-r)
 - [**2. Getting Started**](#2-getting-started) (11 videos)
-  - Installing R
-  - Installing RStudio
-  - Navigating the RStudio environment
-  - Entering data
-  - Data types and structures
-  - Comments and headers
-  - Packages for R
-  - The tidyverse
-  - Piping commands with |
-  - Sample datasets
-  - Importing data from a spreadsheet
+  - [Installing R](#installing-r)
+  - [Installing RStudio](#installing-rstudio)
+  - [Navigating the RStudio environment](#navigating-the-rstudio-environment)
+  - [Entering data](#entering-data)
+  - [Data types and structures](#data-types-and-structures)
+  - [Comments and headers](#comments-and-headers)
+  - [Packages for R](#packages-for-r)
+  - [The tidyverse](#the-tidyverse)
+  - [Piping commands with |](#piping-commands-with)
+  - [Sample datasets](#sample-datasets)
+  - [Importing data from a spreadsheet](#importing-data-from-a-spreadsheet)
 - [**3. Data Visualization**](#3-data-visualization) (7 videos)
-  - Using colors in R
-  - Creating bar charts
-  - Creating histograms
-  - Creating box plots
-  - Creating scatterplots
-  - Creating line charts
-  - Creating cluster charts
+  - [Using colors in R](#using-colors-in-r)
+  - [Creating bar charts](#creating-bar-charts)
+  - [Creating histograms](#creating-histograms)
+  - [Creating box plots](#creating-box-plots)
+  - [Creating scatterplots](#creating-scatterplots)
+  - [Creating line charts](#creating-line-charts)
+  - [Creating cluster charts](#creating-cluster-charts)
 - [**4. Data Wrangling**](#4-data-wrangling) (3 videos)
-  - Selecting cases and subgroups
-  - Recoding variables
-  - Computing new variables
+  - [Selecting cases and subgroups](#selecting-cases-and-subgroups)
+  - [Recoding variables](#recoding-variables)
+  - [Computing new variables](#computing-new-variables)
 - [**5. Data Analysis**](#5-data-analysis) (5 videos)
-  - Computing frequencies
-  - Computing descriptives
-  - Computing correlations
-  - Computing a linear regression
-  - Computing contingency tables
+  - [Computing frequencies](#computing-frequencies)
+  - [Computing descriptives](#computing-descriptives)
+  - [Computing correlations](#computing-correlations)
+  - [Computing a linear regression](#computing-a-linear-regression)
+  - [Computing contingency tables](#computing-contingency-tables)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### R for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980)
@@ -125,8 +125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Statistics]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [barton] (1)
 
@@ -163,6 +163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[RStudio]] (1)
 > **Exercise Files:** exercise files (2)
 > **Env Vars:** readme (1)
 > **UI Navigation:** open the (1)
@@ -171,7 +172,7 @@ created: 2026-04-29
 
 ### 1. What Is R?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### R in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980)
@@ -286,10 +287,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (37), [[Python (Programming Language)|Python]] (9), [[Programming]] (7), application (4), [[Microsoft Excel]] (1)
 > **CLI Commands:** python (9), make (3)
 > **Env Vars:** spss (2), sas (2), tiobe (2), matlab (1), sql (1)
 > **Definitions:** is a  (6), stands for (1), in other words (1)
-> **Code Keywords:** let (2), case, (1), for, (1), super (1)
 > **Prerequisites:** you'll need (2)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - when (1)
@@ -343,10 +344,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[RStudio]] (3), data (2), [[GitHub Copilot]] (2), [[Microsoft Copilot]] (1)
 > **Tools:** github (2), visual studio (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Best Practices:** general rule (1), rule of thumb (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -355,7 +356,7 @@ created: 2026-04-29
 
 ### 2. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980)
@@ -426,9 +427,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[RStudio]] (4), [[Google]] (3), data (2), [[Programming]] (1), [[Windows]] (1)
 > **Tools:** colab (4), jupyter (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), this, (1)
 > **UI Navigation:** click on (1), dropdown (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Warnings:** be aware (2)
@@ -470,6 +471,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[RStudio]] (7), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (1)
@@ -674,7 +676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), this. (1), switch (1), return. (1)
+> **Frameworks & Libraries:** data (11), [[RStudio]] (7), [[Programming]] (2), [[GitHub Copilot]] (2), [[Scripting]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** click on (2), double-click (1), go to (1)
@@ -836,7 +838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this, (1), return. (1)
+> **Frameworks & Libraries:** data (5), next (5), [[RStudio]] (1), hit (1), power (1)
 > **Ports:** :100 (1), :10 (1)
 > **Versions:** 2.71828 (1), 4.60517 (1)
 > **Analogies:** for instance (2)
@@ -1068,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (5), let (5), function (5), default. (3), type, (2)
+> **Frameworks & Libraries:** data (24), web (2), [[Microsoft Word|Word]] (1), database (1), [[JSON]] (1)
 > **Definitions:** is a  (7), is an  (1)
 > **Analogies:** similar to (2), for instance (2), think of it as (1)
 > **CLI Commands:** make (3)
@@ -1215,7 +1217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), function (1), return, (1), this. (1)
+> **Frameworks & Libraries:** data (3), [[RStudio]] (2), [[Scripting]] (1), hit (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** apa (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1311,10 +1313,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Programming]] (2), [[Neural Networks]] (1), [[Deep Learning]] (1), [[TensorFlow]] (1)
 > **UI Navigation:** click on (4), go to (2), scroll down (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (3), stands for (1), is called (1)
-> **Code Keywords:** let (3), else. (1)
 > **Env Vars:** cran (3)
 > **URLs:** [r-project.org](https://r-project.org) (1), [posit.co](https://posit.co) (1)
 > **Analogies:** for instance (2)
@@ -1439,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), this. (2), require (2), return, (1)
+> **Frameworks & Libraries:** power (1), [[RStudio]] (1), hit (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** install (7)
 > **Definitions:** is called (2), is a  (2), short for (1)
 > **CLI Commands:** make (3), find (1)
@@ -1551,7 +1553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), else. (1), finally, (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (8), next (4)
 > **Analogies:** for example (1), for instance (1), it's like (1), think of it as (1), imagine (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1646,8 +1648,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Env Vars:** ucb (1)
 > **Prerequisites:** set up (1)
@@ -1752,8 +1754,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Microsoft Excel|Excel]] (7), generic (1)
 > **Env Vars:** csv (5), xls (1), xlsx (1)
-> **Code Keywords:** function (4), let (2)
 > **Definitions:** is a  (4), short for (1)
 > **CLI Commands:** make (2), find (1)
 > **File Paths:** state_trends.csv (1)
@@ -1764,7 +1766,7 @@ created: 2026-04-29
 
 ### 3. Data Visualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using colors in R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980)
@@ -1933,7 +1935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), this, (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (2), [[Google]] (2), [[Zoom]] (1), [[Microsoft Excel|Excel]] (1), next (1)
 > **Env Vars:** rgb (4), pdf (1), col (1)
 > **Definitions:** is a  (1), short for (1), stands for (1), is called (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -2111,7 +2113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (16), [[Zoom]] (5), next (5), generic (3)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** psy_reg (2)
@@ -2243,7 +2245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), this. (1)
+> **Frameworks & Libraries:** data (9), [[Google]] (1), [[Search]] (1), [[Microsoft Excel|Excel]] (1), [[Programming]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -2474,7 +2476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), throw (1), this, (1), default. (1)
+> **Frameworks & Libraries:** data (12), generic (4), [[Zoom]] (4), [[Google]] (3), teams (3)
 > **Definitions:** is a  (9), means that (1), defined as (1)
 > **CLI Commands:** make (4), find (3)
 > **Env Vars:** nhl (3)
@@ -2616,7 +2618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), for. (1), this, (1), throw (1)
+> **Frameworks & Libraries:** data (5), [[Search]] (4), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), stands for (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pch (2), csv (1)
@@ -2760,7 +2762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (1), function (1)
+> **Frameworks & Libraries:** data (13), [[Zoom]] (3), business (1), generic (1), [[DAX]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** smi (2), ftse (2), dax (1), cac (1)
 > **Definitions:** is a  (4)
@@ -2954,7 +2956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), return, (1), this. (1)
+> **Frameworks & Libraries:** data (14), [[Search]] (2), [[Google]] (2), [[Zoom]] (2)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Code Identifiers:** read_csv (1), df_scaled (1)
@@ -2966,7 +2968,7 @@ created: 2026-04-29
 
 ### 4. Data Wrangling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting cases and subgroups
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/selecting-cases-and-subgroups?u=76281980)
@@ -3061,8 +3063,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Search]] (5), [[Google]] (3), next (1), [[Programming]] (1)
 > **Code Identifiers:** psych_region (9), data_analysis (9)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
@@ -3128,7 +3130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), case, (2), default, (2), else, (2)
+> **Frameworks & Libraries:** data (9), [[Zoom]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
 > **Env Vars:** csv (3)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (2)
@@ -3210,8 +3212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), rm (2)
-> **Code Keywords:** let (2), function (1), this, (1)
 > **Code Identifiers:** rowmeans (2), mean_xy (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** for instance (2)
@@ -3221,7 +3223,7 @@ created: 2026-04-29
 
 ### 5. Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-frequencies-25384059?u=76281980)
@@ -3300,7 +3302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** data (4), hit (1)
 > **Definitions:** is a  (2), defined as (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Env Vars:** csv (1)
@@ -3415,7 +3417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** data (6), [[Statistics]] (2), [[Google]] (1)
 > **Code Identifiers:** psy_reg (2), psych_region (1), psy_region (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
@@ -3565,7 +3567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2), finally, (1)
+> **Frameworks & Libraries:** data (24), [[Search]] (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (6), [[Statistics]] (5), [[Business Intelligence (BI)|Business intelligence]] (4)
 > **Versions:** 0.31 (2), 0.91 (1), 0.7 (1), 0.80 (1), 0.93 (1)
 > **Analogies:** for instance (2), similar to (1), such as (1)
 > **CLI Commands:** make (1), find (1)
@@ -3712,7 +3714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2), function (2), case, (1), else, (1)
+> **Frameworks & Libraries:** data (24), [[Linear Regression]] (3), [[Search]] (3), [[Zoom]] (2), [[Probability]] (2)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** make (5)
 > **Versions:** 0.8 (1)
@@ -3819,7 +3821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), function (1), this. (1)
+> **Frameworks & Libraries:** data (11), open-source (1), [[Programming]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** psy_reg (3)
 > **Analogies:** for instance (2)
@@ -3830,7 +3832,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980)
@@ -3889,8 +3891,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), next (2), business (2), [[Analytics]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [barton] (1)

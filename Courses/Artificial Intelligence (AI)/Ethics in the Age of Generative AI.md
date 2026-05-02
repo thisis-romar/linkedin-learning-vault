@@ -63,7 +63,7 @@ tags:
   - skill/computer-ethics
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Ethics%20in%20the%20Age%20of%20Generative%20AI.md)
@@ -82,25 +82,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Generative AI and ethics: The urgency of now
-  - What's new?
+  - [Generative AI and ethics: The urgency of now](#generative-ai-and-ethics-the-urgency-of-now)
+  - [What's new?](#whats-new)
 - [**Developing the skill of ethical analysis in AI**](#developing-the-skill-of-ethical-analysis-in-ai) (3 videos)
-  - Distinguishing responsible tech from human behavior
-  - Understanding Vilas' ethical AI framework
-  - Applying Vilas' framework in a real world situation
+  - [Distinguishing responsible tech from human behavior](#distinguishing-responsible-tech-from-human-behavior)
+  - [Understanding Vilas' ethical AI framework](#understanding-vilas-ethical-ai-framework)
+  - [Applying Vilas' framework in a real world situation](#applying-vilas-framework-in-a-real-world-situation)
 - [**Preparing Your Organization to address Ethics in AI**](#preparing-your-organization-to-address-ethics-in-ai) (6 videos)
-  - Organizing data with ethics in mind
-  - Preparing technology teams to make ethical decisions
-  - Preparing C-Suite in directing responsible AI
-  - Preparing the Board of Directors to manage risk and opportunity in AI
-  - Consulting your customers in building AI
-  - Communicating effectively organizationally and globally
+  - [Organizing data with ethics in mind](#organizing-data-with-ethics-in-mind)
+  - [Preparing technology teams to make ethical decisions](#preparing-technology-teams-to-make-ethical-decisions)
+  - [Preparing C-Suite in directing responsible AI](#preparing-c-suite-in-directing-responsible-ai)
+  - [Preparing the Board of Directors to manage risk and opportunity in AI](#preparing-the-board-of-directors-to-manage-risk-and-opportunity-in-ai)
+  - [Consulting your customers in building AI](#consulting-your-customers-in-building-ai)
+  - [Communicating effectively organizationally and globally](#communicating-effectively-organizationally-and-globally)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Setting an intention of continual questioning
+  - [Setting an intention of continual questioning](#setting-an-intention-of-continual-questioning)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI and ethics: The urgency of now
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/generative-ai-and-ethics-the-urgency-of-now?u=76281980)
@@ -127,7 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** ai (3), [[Ethics]] (1), career (1)
 > **Speakers:** - in (1)
 
 #### What's new?
@@ -163,13 +163,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), application (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - since (1)
 
 
 ### Developing the skill of ethical analysis in AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Distinguishing responsible tech from human behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/distinguishing-responsible-tech-from-human-behavior?u=76281980)
@@ -238,8 +239,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Generative AI]] (2), [[Banking]] (1), [[Human Resources (HR)|Human resources]] (1), teams (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (1), function (1)
 > **Analogies:** imagine (1), just like (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - generative (1)
@@ -307,7 +308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (7), ai (6), [[Microsoft Products|Products]] (1), application (1), [[Generative AI]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
 > **Speakers:** - i (1)
@@ -379,7 +380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), this, (1), let (1)
+> **Frameworks & Libraries:** chatbot (10), data (6), product (3), ai (2), next (2)
 > **Cross-References:** we covered (1), in the last (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -389,7 +390,7 @@ created: 2026-04-29
 
 ### Preparing Your Organization to address Ethics in AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing data with ethics in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/organizing-data-with-ethics-in-mind?u=76281980)
@@ -462,8 +463,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Privacy]] (7), ai (3), [[Generative AI]] (1), [[Banking]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - i (1)
 
@@ -522,7 +523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2), finally, (1), include: (1)
+> **Frameworks & Libraries:** teams (9), [[Accountability]] (2), data (2), business (1), [[Security]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdpr (1)
 > **Analogies:** for example (1)
@@ -585,8 +586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Responsible AI]] (7), [[Ethics]] (3), data (2), business (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), finally, (1)
 > **Cross-References:** earlier in (1), we discussed (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -633,6 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Real-Time]] (1), [[Privacy]] (1), [[Security]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
@@ -729,6 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), ai (7), product (6), [[Privacy]] (6), data (3)
 > **Env Vars:** lisa (5), ibm (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
@@ -736,7 +739,6 @@ created: 2026-04-29
 > **Definitions:** means that (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** before we start (1)
-> **Speakers:** - in (1)
 
 #### Communicating effectively organizationally and globally
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/communicating-effectively-organizationally-and-globally?u=76281980)
@@ -811,15 +813,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Microsoft Products|Products]] (6), [[Ethics]] (5), [[Responsible AI]] (2), [[Generative AI]] (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting an intention of continual questioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/setting-an-intention-of-continual-questioning?u=76281980)
@@ -846,6 +848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Microsoft Products|Products]] (1), product (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - you (1)
 

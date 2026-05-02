@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Artificial%20Intelligence%20and%20Business%20Strategy.md)
@@ -45,33 +45,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Deploying AI for your competitive advantage
+  - [Deploying AI for your competitive advantage](#deploying-ai-for-your-competitive-advantage)
 - [**1. Introduction to AI**](#1-introduction-to-ai) (3 videos)
-  - What is Artificial Intelligence?
-  - A brief history of AI and its likely future
-  - How Google deploys AI to create user value
+  - [What is Artificial Intelligence?](#what-is-artificial-intelligence)
+  - [A brief history of AI and its likely future](#a-brief-history-of-ai-and-its-likely-future)
+  - [How Google deploys AI to create user value](#how-google-deploys-ai-to-create-user-value)
 - [**2. Making the Company an AI Machine**](#2-making-the-company-an-ai-machine) (3 videos)
-  - Building a robust data pipeline
-  - Different types of machine learning algorithms
-  - Training an AI model
+  - [Building a robust data pipeline](#building-a-robust-data-pipeline)
+  - [Different types of machine learning algorithms](#different-types-of-machine-learning-algorithms)
+  - [Training an AI model](#training-an-ai-model)
 - [**3. Deploying AI to Create ONSTAGE Advantage**](#3-deploying-ai-to-create-onstage-advantage) (3 videos)
-  - Using AI for deeper market research
-  - Using AI for hyper market segmentation
-  - Using AI to drive product innovation
+  - [Using AI for deeper market research](#using-ai-for-deeper-market-research)
+  - [Using AI for hyper market segmentation](#using-ai-for-hyper-market-segmentation)
+  - [Using AI to drive product innovation](#using-ai-to-drive-product-innovation)
 - [**4. Deploying AI to Create BACKSTAGE Advantage**](#4-deploying-ai-to-create-backstage-advantage) (3 videos)
-  - Using AI for managing the supply chain network
-  - Using AI for managing internal operations
-  - Using AI for human resource management
+  - [Using AI for managing the supply chain network](#using-ai-for-managing-the-supply-chain-network)
+  - [Using AI for managing internal operations](#using-ai-for-managing-internal-operations)
+  - [Using AI for human resource management](#using-ai-for-human-resource-management)
 - [**5. The Ethics of AI and Data**](#5-the-ethics-of-ai-and-data) (3 videos)
-  - Decision-Making by machines: Moral dilemmas
-  - Guarding against the risks of algorithmic bias
-  - Mitigating AI’s possible negative impact on jobs
+  - [Decision-Making by machines: Moral dilemmas](#decision-making-by-machines-moral-dilemmas)
+  - [Guarding against the risks of algorithmic bias](#guarding-against-the-risks-of-algorithmic-bias)
+  - [Mitigating AI’s possible negative impact on jobs](#mitigating-ais-possible-negative-impact-on-jobs)
 - [**6. From Ideas to Actions**](#6-from-ideas-to-actions) (1 videos)
-  - From ideas to actions
+  - [From ideas to actions](#from-ideas-to-actions)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying AI for your competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980)
@@ -98,15 +98,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Google]] (1), next (1), power (1)
 > **Speakers:** - google (1), - nvidia (1), - artificial (1), - and (1), - join (1)
 > **Env Vars:** ceo (2), nvidia (1)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 
 
 ### 1. Introduction to AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Artificial Intelligence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980)
@@ -195,10 +195,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Google]] (1), [[Search]] (1), [[Forms]] (1)
 > **Env Vars:** mri (2)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** cat (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - i (1)
@@ -278,8 +278,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), data (3), concurrent (1), application (1), power (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** super (2), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - while (1)
 
@@ -346,7 +346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** ai (10), [[Google]] (10), [[Search]] (5), [[Microsoft Products|Products]] (3), cloud (2)
 > **Env Vars:** mum (3), ceo (2)
 > **CLI Commands:** make (3)
 > **Definitions:** short for (1), in other words (1)
@@ -356,7 +356,7 @@ created: 2026-04-29
 
 ### 2. Making the Company an AI Machine
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a robust data pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/building-a-robust-data-pipeline?u=76281980)
@@ -431,7 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), case. (1)
+> **Frameworks & Libraries:** ai (13), data (8), database (3), hr (1)
 > **Analogies:** for example (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -500,8 +500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (6), data (4), ai (3), [[Supervised Learning]] (3), game (2)
 > **Analogies:** such as (3), for example (2), similar to (1)
-> **Code Keywords:** type. (1), case, (1), finally, (1), require (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** open the (1)
@@ -574,7 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (9), [[Algorithms]] (4), [[Supervised Learning]] (2), [[Neural Networks]] (2), database (1)
 > **Definitions:** refers to (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
@@ -583,7 +583,7 @@ created: 2026-04-29
 
 ### 3. Deploying AI to Create ONSTAGE Advantage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI for deeper market research
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980)
@@ -650,8 +650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Market Research]] (8), [[Unstructured Data]] (3), [[Microsoft Products|Products]] (2), business (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), yield (1)
 > **Analogies:** such as (2)
 > **Speakers:** - doing (1)
 
@@ -728,7 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1), public (1)
+> **Frameworks & Libraries:** data (9), ai (6), feature (1), [[Algorithms]] (1), [[k-means clustering]] (1)
 > **Analogies:** such as (1), similar to (1)
 > **Env Vars:** dna (1)
 > **Definitions:** is an  (1)
@@ -805,15 +805,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), product (7), feature (2), [[Microsoft Products|Products]] (2), next (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (2)
 > **Versions:** 12.4 (1)
 > **Speakers:** - ai (1)
 
 
 ### 4. Deploying AI to Create BACKSTAGE Advantage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI for managing the supply chain network
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980)
@@ -882,8 +882,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (3), node (1), [[Simulation]] (1), [[IoT]] (1)
 > **Analogies:** such as (5), similar to (1)
-> **Code Keywords:** let (2), include, (1), private (1), public (1)
 > **Definitions:** is a  (1), refers to (1), is an  (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - supply (1)
@@ -965,8 +965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (3), [[Algorithms]] (2), [[Supervised Learning]] (2), traffic (1)
 > **Env Vars:** bmw (3), nvidia (2)
-> **Code Keywords:** let (1), type, (1), from, (1), finally, (1)
 > **URLs:** [landing.ai](https://landing.ai) (3)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1)
@@ -1059,7 +1059,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), self (1), public (1), require (1), module (1)
+> **Frameworks & Libraries:** ai (20), hr (3), [[Search]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Databases]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **Best Practices:** bad practice (1)
@@ -1068,7 +1068,7 @@ created: 2026-04-29
 
 ### 5. The Ethics of AI and Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Decision-Making by machines: Moral dilemmas
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980)
@@ -1147,7 +1147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (1)
+> **Frameworks & Libraries:** ai (15), [[Real-Time]] (3), hit (3), [[Google]] (2), hr (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -1225,6 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (4), business (1), [[Ethics]] (1), [[Engineering]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** mri (1)
 > **Speakers:** - when (1)
@@ -1310,15 +1311,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[Security]] (2), data (2), [[Computer Vision]] (1), business (1)
 > **Analogies:** such as (4), imagine (3), for example (1)
-> **Code Keywords:** require (2), self (1), finally, (1), let (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - according (1)
 
 
 ### 6. From Ideas to Actions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From ideas to actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980)
@@ -1363,8 +1364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), product (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), data (2), [[Banking]] (1)
 > **Speakers:** - ai (4), - since (2), - artificial (1), - here (1), - [haiyan] (1)
-> **Code Keywords:** function (1)
 > **Definitions:** defined as (1)
 
 

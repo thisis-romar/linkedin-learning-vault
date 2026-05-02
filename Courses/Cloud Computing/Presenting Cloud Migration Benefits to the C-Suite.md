@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Presenting%20Cloud%20Migration%20Benefits%20to%20the%20C-Suite.md)
@@ -41,29 +41,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Defining the audience
-  - What you should know
+  - [Defining the audience](#defining-the-audience)
+  - [What you should know](#what-you-should-know)
 - [**1. Benefits of the Cloud in CXO Terms**](#1-benefits-of-the-cloud-in-cxo-terms) (6 videos)
-  - Reintroducing Explore California
-  - Application scaling
-  - Availability benefits
-  - Cost management benefits
-  - Impact on operations management and planning
-  - Impact on security
+  - [Reintroducing Explore California](#reintroducing-explore-california)
+  - [Application scaling](#application-scaling)
+  - [Availability benefits](#availability-benefits)
+  - [Cost management benefits](#cost-management-benefits)
+  - [Impact on operations management and planning](#impact-on-operations-management-and-planning)
+  - [Impact on security](#impact-on-security)
 - [**2. How to Focus the Discussion**](#2-how-to-focus-the-discussion) (4 videos)
-  - Structuring the conversation for success
-  - Cloud migration in customer terms
-  - Cloud migration in financial terms
-  - Cloud migration in operational excellence terms
+  - [Structuring the conversation for success](#structuring-the-conversation-for-success)
+  - [Cloud migration in customer terms](#cloud-migration-in-customer-terms)
+  - [Cloud migration in financial terms](#cloud-migration-in-financial-terms)
+  - [Cloud migration in operational excellence terms](#cloud-migration-in-operational-excellence-terms)
 - [**3. Migrating to the Cloud**](#3-migrating-to-the-cloud) (2 videos)
-  - Outlining a cloud migration
-  - Costs and benefits
+  - [Outlining a cloud migration](#outlining-a-cloud-migration)
+  - [Costs and benefits](#costs-and-benefits)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Further conversations with the C-suite
+  - [Further conversations with the C-suite](#further-conversations-with-the-c-suite)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/defining-the-audience?u=76281980)
@@ -96,8 +96,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), leadership (3), next (1), product (1), application (1)
 > **Env Vars:** ceo (1), cfo (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [lee] (1)
@@ -123,14 +123,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (7), leadership (2), [[Security]] (1), management (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Benefits of the Cloud in CXO Terms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reintroducing Explore California
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/reintroducing-explore-california?u=76281980)
@@ -183,8 +183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), leadership (3), [[Security]] (2)
 > **Env Vars:** ceo (1), cfo (1), cto (1), cso (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -268,7 +268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** application (12), cloud (9), traffic (3), [[Databases]] (1), database (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** cpu (1)
@@ -333,8 +333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), traffic (4), [[Microsoft Products|Products]] (2), cloud (2), business (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cto (1)
 > **Speakers:** - [lee] (1)
 
@@ -397,10 +397,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), cloud (4), leadership (1), web application (1), front-end (1)
 > **Prerequisites:** set up (5), install (1)
 > **Env Vars:** jit (2), cfo (1), api (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (1), case, (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -461,9 +461,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), data (8), [[Hardware]] (3), power (1), api (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** cto (1), api (1)
-> **Code Keywords:** case, (1)
 > **Documentation:** specification (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
@@ -522,16 +522,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (16), [[Security]] (9), data (4), [[Representational State Transfer (REST)|Rest]] (3), management (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1), aws (1)
-> **Code Keywords:** public (1), let (1)
 > **Env Vars:** cso (1), aws (1)
 > **Speakers:** - [lee] (1)
 
 
 ### 2. How to Focus the Discussion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring the conversation for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980)
@@ -558,6 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), leadership (1), [[Microsoft Office|Office]] (1), management (1), [[Operational Excellence]] (1)
 > **Env Vars:** cto (2), ceo (2), cfo (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
@@ -595,6 +596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), data (5), [[Scalability]] (1), [[Forms]] (1), [[Security]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
@@ -640,8 +642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), data (5), application (2), web application (1), management (1)
 > **Env Vars:** cogs (3), cfo (1), jit (1)
-> **Code Keywords:** let (2), finally, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Exercise Files:** template (1)
@@ -715,8 +717,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), application (4), [[Operational Excellence]] (3), data (3), [[Engineering]] (2)
 > **Analogies:** such as (3), for example (2), just like (1)
-> **Code Keywords:** public (1), match. (1)
 > **Env Vars:** cto (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
@@ -725,7 +727,7 @@ created: 2026-04-29
 
 ### 3. Migrating to the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Outlining a cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/outlining-a-cloud-migration?u=76281980)
@@ -772,7 +774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (1), this. (1)
+> **Frameworks & Libraries:** cloud (7), leadership (3), next (3), application (2), management (1)
 > **Speakers:** - [instructor] (1)
 
 #### Costs and benefits
@@ -834,6 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (14), leadership (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cfo (1)
 > **Analogies:** such as (1)
@@ -842,7 +845,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further conversations with the C-suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980)
@@ -873,6 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), leadership (2), [[Executive Leadership]] (1), business (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (3)
 > **Speakers:** - [lee] (1)

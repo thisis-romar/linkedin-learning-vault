@@ -37,7 +37,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics.md)
@@ -56,40 +56,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Moving from analysis to visualization
+  - [Moving from analysis to visualization](#moving-from-analysis-to-visualization)
 - [**1. Why**](#1-why) (4 videos)
-  - Humans are visual creatures
-  - Understanding visual perception
-  - Meeting communications challenges
-  - Focus using the KWYs
+  - [Humans are visual creatures](#humans-are-visual-creatures)
+  - [Understanding visual perception](#understanding-visual-perception)
+  - [Meeting communications challenges](#meeting-communications-challenges)
+  - [Focus using the KWYs](#focus-using-the-kwys)
 - [**2. Visual Analysis in Six Easy Lessons**](#2-visual-analysis-in-six-easy-lessons) (6 videos)
-  - Where to begin? Matrix heatmaps
-  - Where to go next? Distributions
-  - Scatterplot mania
-  - Bars, pies, and lines, why not?
-  - Benchmarking everything
-  - Quick and ugly is fine
+  - [Where to begin? Matrix heatmaps](#where-to-begin-matrix-heatmaps)
+  - [Where to go next? Distributions](#where-to-go-next-distributions)
+  - [Scatterplot mania](#scatterplot-mania)
+  - [Bars, pies, and lines, why not?](#bars-pies-and-lines-why-not)
+  - [Benchmarking everything](#benchmarking-everything)
+  - [Quick and ugly is fine](#quick-and-ugly-is-fine)
 - [**3. Visual Communication in 10 Easy Lessons**](#3-visual-communication-in-10-easy-lessons) (10 videos)
-  - Using the right data
-  - The power of story
-  - Headlines bring focus
-  - Picking the right chart
-  - Simple tips and tools for using color in data visualization
-  - Tips for axes, labeling, and legends
-  - Setting scales in data visualization
-  - Some thoughts about tools
-  - Sketching and wireframing
-  - What about leave-behinds?
+  - [Using the right data](#using-the-right-data)
+  - [The power of story](#the-power-of-story)
+  - [Headlines bring focus](#headlines-bring-focus)
+  - [Picking the right chart](#picking-the-right-chart)
+  - [Simple tips and tools for using color in data visualization](#simple-tips-and-tools-for-using-color-in-data-visualization)
+  - [Tips for axes, labeling, and legends](#tips-for-axes-labeling-and-legends)
+  - [Setting scales in data visualization](#setting-scales-in-data-visualization)
+  - [Some thoughts about tools](#some-thoughts-about-tools)
+  - [Sketching and wireframing](#sketching-and-wireframing)
+  - [What about leave-behinds?](#what-about-leave-behinds)
 - [**4. In Practice**](#4-in-practice) (3 videos)
-  - Finding the missing link with visuals
-  - Rethinking some charts
-  - The power of simplification: Convincing your bosses
+  - [Finding the missing link with visuals](#finding-the-missing-link-with-visuals)
+  - [Rethinking some charts](#rethinking-some-charts)
+  - [The power of simplification: Convincing your bosses](#the-power-of-simplification-convincing-your-bosses)
 - [**5. Conclusion**](#5-conclusion) (1 videos)
-  - Further resources
+  - [Further resources](#further-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving from analysis to visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/moving-from-analasys-to-visualization?u=76281980)
@@ -112,13 +112,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 
 
 ### 1. Why
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Humans are visual creatures
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/humans-are-visual-creatures?u=76281980)
@@ -225,7 +225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1), class. (1)
+> **Frameworks & Libraries:** data (17), hit (1), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 
@@ -348,7 +348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), this, (2), else, (1), override (1)
+> **Frameworks & Libraries:** data (4), parallel (3), next (2)
 > **Definitions:** known as (2), in other words (1), is called (1), is a  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
@@ -470,7 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), else. (1), self (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[Representational State Transfer (REST)|Rest]] (2), teams (1), [[Statistics]] (1), next (1)
 > **CLI Commands:** find (1), curl (1), make (1)
 > **Env Vars:** pdf (3)
 > **Definitions:** is a  (3)
@@ -603,8 +603,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11)
 > **Env Vars:** kwyrwts (4), kwydis (3), kwyanth (3)
-> **Code Keywords:** let (1), from. (1), for. (1)
 > **Definitions:** stands for (2)
 > **Analogies:** imagine (1), for instance (1)
 > **CLI Commands:** find (1)
@@ -612,7 +612,7 @@ created: 2026-04-29
 
 ### 2. Visual Analysis in Six Easy Lessons
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to begin? Matrix heatmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980)
@@ -659,6 +659,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1), next (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -708,8 +709,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this, (1)
 
 #### Scatterplot mania
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/scatterplot-mania?u=76281980)
@@ -780,8 +781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **Definitions:** in other words (1), is a  (1)
-> **Code Keywords:** else. (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
 
@@ -832,8 +833,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
@@ -886,7 +887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1)
+> **Frameworks & Libraries:** data (4), next (1), leadership (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 
@@ -933,14 +934,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** public (1)
 > **Definitions:** is a  (1)
 
 
 ### 3. Visual Communication in 10 Easy Lessons
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the right data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980)
@@ -1049,11 +1050,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Forms]] (1), teams (1), [[Microsoft Outlook|Outlook]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** it's like (1), for example (1)
 > **Best Practices:** remember to (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 
 #### The power of story
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980)
@@ -1156,7 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), let (1), static (1)
+> **Frameworks & Libraries:** data (7), [[Storytelling]] (3), next (2), [[React.js|React]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 
@@ -1307,8 +1308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1), game (1), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** this. (2), let (1)
 > **Analogies:** picture (1), think of it like (1), for instance (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -1378,8 +1379,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Forms]] (3)
 > **CLI Commands:** make (3), find (3)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 
@@ -1510,8 +1511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1), hit (1), [[Google]] (1)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** let (3), this. (2)
 > **Definitions:** is a  (2), means that (1), is called (1)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Analogies:** for instance (1)
@@ -1609,7 +1610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), default. (1), default, (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (13)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
 
@@ -1816,7 +1817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), case, (1), this. (1), case. (1), default, (1)
+> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (3), [[Forms]] (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for instance (2)
@@ -1928,8 +1929,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), cloud (6), [[Stata]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6), find (3)
-> **Code Keywords:** let (3), this, (1), type. (1), this. (1), finally, (1)
 > **Env Vars:** spss (2), carto (2), pdf (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for instance (2), for example (1), just like (1)
@@ -2067,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** data (6), [[Sketching]] (4), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 
@@ -2122,16 +2123,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft PowerPoint|Powerpoint]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pdf (2)
 > **Documentation:** spec (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 
 
 ### 4. In Practice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding the missing link with visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/finding-the-missing-link-with-visuals?u=76281980)
@@ -2198,7 +2199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), this. (1)
+> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (1)
 
 #### Rethinking some charts
@@ -2536,7 +2537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (6), let (3), this, (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Products|Products]] (1), product (1), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Env Vars:** gdp (2), dpi (2)
 > **Versions:** 99.999 (1), 2.4 (1), 7.5 (1)
@@ -2746,7 +2747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), new, (1), new. (1), this, (1)
+> **Frameworks & Libraries:** data (4), game (1), [[Statistics]] (1), product (1), next (1)
 > **CLI Commands:** make (8)
 > **Best Practices:** don't forget (2)
 > **Warnings:** note that (2)
@@ -2756,7 +2757,7 @@ created: 2026-04-29
 
 ### 5. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980)
@@ -2791,6 +2792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Storytelling]] (2), [[LinkedIn]] (2), [[Thought Leadership]] (1), functional (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)

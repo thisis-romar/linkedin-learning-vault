@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%203%20Taxonomy%2C%20Media%2C%20and%20Modules.md)
@@ -48,30 +48,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to the course
+  - [Introduction to the course](#introduction-to-the-course)
 - [**1. Taxonomy Explained**](#1-taxonomy-explained) (5 videos)
-  - Taxonomy explained
-  - Adding vocabularies and terms, part 1
-  - Adding vocabularies and terms, part 2
-  - Adding taxonomy fields
-  - Updating your content
+  - [Taxonomy explained](#taxonomy-explained)
+  - [Adding vocabularies and terms, part 1](#adding-vocabularies-and-terms-part-1)
+  - [Adding vocabularies and terms, part 2](#adding-vocabularies-and-terms-part-2)
+  - [Adding taxonomy fields](#adding-taxonomy-fields)
+  - [Updating your content](#updating-your-content)
 - [**2. Media Explained**](#2-media-explained) (3 videos)
-  - The Drupal media manager
-  - Adding media fields to content types
-  - Updating content with media
+  - [The Drupal media manager](#the-drupal-media-manager)
+  - [Adding media fields to content types](#adding-media-fields-to-content-types)
+  - [Updating content with media](#updating-content-with-media)
 - [**3. Modules Explained**](#3-modules-explained) (8 videos)
-  - Modules explained
-  - Scheduling content
-  - Inserting a Google Map
-  - Adding internal linking to the WYSIWYG editor
-  - Open external links in a new tab or window
-  - Paths: Installing Pathauto, Token, and CTools
-  - Configuring Pathauto
-  - Installing Devel
+  - [Modules explained](#modules-explained)
+  - [Scheduling content](#scheduling-content)
+  - [Inserting a Google Map](#inserting-a-google-map)
+  - [Adding internal linking to the WYSIWYG editor](#adding-internal-linking-to-the-wysiwyg-editor)
+  - [Open external links in a new tab or window](#open-external-links-in-a-new-tab-or-window)
+  - [Paths: Installing Pathauto, Token, and CTools](#paths-installing-pathauto-token-and-ctools)
+  - [Configuring Pathauto](#configuring-pathauto)
+  - [Installing Devel](#installing-devel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/introduction-to-the-course?u=76281980)
@@ -102,14 +102,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (2), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[Drupal]] (6), management (1), feature (1)
 > **Speakers:** - hi (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 1. Taxonomy Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taxonomy explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/taxonomy-explained?u=76281980)
@@ -188,7 +188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), case, (2), let (1), from, (1), this, (1)
+> **Frameworks & Libraries:** [[Drupal]] (8), business (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rss (1)
 > **UI Navigation:** dropdown (1)
@@ -470,7 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), module (6), type. (4), case, (4), for. (2)
+> **Frameworks & Libraries:** [[Drupal]] (12), business (8), [[Security]] (4), node (2), feature (2)
 > **UI Navigation:** click on (6), checkbox (2)
 > **CLI Commands:** node (2)
 > **Cross-References:** in the next (2)
@@ -550,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** [[Drupal]] (3), next (1)
 > **UI Navigation:** click on (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -726,7 +726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), continue (6), type. (3), finally, (2), type, (2)
+> **Frameworks & Libraries:** business (4), node (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2), scroll down (1), select the (1), dropdown (1)
 > **CLI Commands:** node (2), make (1)
 > **Warnings:** caution (1)
@@ -795,8 +795,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), business (2), [[Drupal]] (2), hit (1)
 > **UI Navigation:** click on (6), scroll down (3), checkbox (1)
-> **Code Keywords:** let (3), finally, (1), type. (1)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** url (1)
@@ -806,7 +806,7 @@ created: 2026-04-29
 
 ### 2. Media Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Drupal media manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/the-drupal-media-manager?u=76281980)
@@ -839,7 +839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), this. (1), let (1)
+> **Frameworks & Libraries:** [[Drupal]] (5), management (2)
 > **Cross-References:** earlier in (2), later in (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** url (1)
@@ -995,7 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (7), let (4), type. (2), finally, (2), module (1)
+> **Frameworks & Libraries:** business (4), [[Drupal]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), hit (1)
 > **UI Navigation:** click on (2), select the (1), scroll down (1), go to (1)
 > **Cross-References:** in the last (2), we discussed (1)
 > **Env Vars:** pdf (1)
@@ -1168,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type. (2), this. (1), module (1)
+> **Frameworks & Libraries:** [[Drupal]] (4), node (3), [[Microsoft PowerPoint|Powerpoint]] (2), css (2), business (2)
 > **UI Navigation:** click on (4), scroll down (4)
 > **Env Vars:** pdf (3), css (2), url (1)
 > **CLI Commands:** node (3), find (2)
@@ -1180,7 +1180,7 @@ created: 2026-04-29
 
 ### 3. Modules Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modules explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980)
@@ -1353,7 +1353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (15), finally, (2), this. (2), for. (1), for, (1)
+> **Frameworks & Libraries:** [[Drupal]] (36), [[Content Management Systems (CMS)|Content management systems]] (2), [[Security]] (2), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (6), make (1), tar (1), node (1)
 > **URLs:** [drupal.org](https://drupal.org) (7)
 > **UI Navigation:** scroll down (2), click on (1), go to (1), select the (1), dropdown (1)
@@ -1503,7 +1503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (10), type. (6), let (4), type, (2), this, (1)
+> **Frameworks & Libraries:** [[Drupal]] (10), node (4), next (2), [[Search]] (1), web (1)
 > **CLI Commands:** node (4), make (3), tar (1), find (1)
 > **UI Navigation:** click on (5), right-click (1), scroll down (1), dropdown (1), go to (1)
 > **Prerequisites:** install (6), configure (2), set up (1)
@@ -1611,7 +1611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (8), let (2), static (2), type. (1), default. (1)
+> **Frameworks & Libraries:** [[Drupal]] (7), [[Google]] (6), api (2), [[Zoom]] (2), feature (1)
 > **UI Navigation:** click on (5), dropdown (1), go to (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** make (1), find (1), node (1)
@@ -1719,7 +1719,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (9), case, (1), public (1), delete (1), interface (1)
+> **Frameworks & Libraries:** [[Drupal]] (12), web (2), [[HTML]] (2), node (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (6), scroll down (1), go to (1), select the (1)
 > **Env Vars:** url (3), ftp (2), html (2)
 > **Prerequisites:** install (4), configure (2), you'll need (1)
@@ -1869,8 +1869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (14), next (3), web (3), [[Google]] (2), [[Windows]] (1)
 > **CLI Commands:** composer (15), make (4), find (1), node (1)
-> **Code Keywords:** module (7), let (4), require (2), interface (2), this. (1)
 > **Prerequisites:** install (10), configure (1)
 > **UI Navigation:** click on (5), go to (2)
 > **Env Vars:** url (3)
@@ -1975,10 +1975,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Drupal]] (9), next (2), node (1)
 > **CLI Commands:** composer (5), make (2), node (1), find (1)
 > **Prerequisites:** install (6), set up (1), configure (1)
 > **UI Navigation:** click on (3), scroll down (2)
-> **Code Keywords:** module (2), let (1), require (1)
 > **Code Identifiers:** noteid (1), newsaboutdrupal (1)
 > **URLs:** [drupal.org](https://drupal.org) (2)
 > **Versions:** 1.8 (1), 8.8 (1)
@@ -2091,9 +2091,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (13), [[Drupal]] (5), [[Tokens]] (3), business (3), [[Search]] (2)
 > **CLI Commands:** node (13), make (2), find (1)
 > **UI Navigation:** click on (9), scroll down (1)
-> **Code Keywords:** let (4), type, (1), static (1), module (1)
 > **Env Vars:** url (7)
 > **Prerequisites:** set up (4), install (1)
 > **URLs:** [site.com](https://site.com) (1)
@@ -2231,7 +2231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (7), let (4), delete (3), require (2), type. (1)
+> **Frameworks & Libraries:** [[Drupal]] (7), business (4), next (2), web (2), [[Windows]] (1)
 > **UI Navigation:** click on (5), scroll down (4)
 > **CLI Commands:** composer (5), make (1)
 > **Prerequisites:** install (4), set up (2)

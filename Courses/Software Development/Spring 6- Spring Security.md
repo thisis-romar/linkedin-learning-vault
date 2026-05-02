@@ -32,7 +32,7 @@ tags:
   - skill/spring-security
   - skill/spring-boot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%206-%20Spring%20Security.md)
@@ -51,39 +51,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Secure with Spring Security
-  - What you need to know
+  - [Secure with Spring Security](#secure-with-spring-security)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Spring Security Concepts**](#1-spring-security-concepts) (2 videos)
-  - Introduction to Spring Security
-  - Authentication vs. authorization
+  - [Introduction to Spring Security](#introduction-to-spring-security)
+  - [Authentication vs. authorization](#authentication-vs-authorization)
 - [**2. Securing Web Applications with Spring**](#2-securing-web-applications-with-spring) (9 videos)
-  - Introduction to project
-  - In-memory authentication
-  - JDBC authentication
-  - Leveraging bcrypt for hashing
-  - Applying authorizations
-  - Form-based authentication
-  - The login page
-  - Wiring it all together
-  - Finishing touches and testing
+  - [Introduction to project](#introduction-to-project)
+  - [In-memory authentication](#in-memory-authentication)
+  - [JDBC authentication](#jdbc-authentication)
+  - [Leveraging bcrypt for hashing](#leveraging-bcrypt-for-hashing)
+  - [Applying authorizations](#applying-authorizations)
+  - [Form-based authentication](#form-based-authentication)
+  - [The login page](#the-login-page)
+  - [Wiring it all together](#wiring-it-all-together)
+  - [Finishing touches and testing](#finishing-touches-and-testing)
 - [**3. LDAP Authentication**](#3-ldap-authentication) (4 videos)
-  - Introduction to LDAP for authentication
-  - Configuring a sample LDAP server
-  - Spring LDAP outside of authentication
-  - Active directory vs. LDAP for authentication
+  - [Introduction to LDAP for authentication](#introduction-to-ldap-for-authentication)
+  - [Configuring a sample LDAP server](#configuring-a-sample-ldap-server)
+  - [Spring LDAP outside of authentication](#spring-ldap-outside-of-authentication)
+  - [Active directory vs. LDAP for authentication](#active-directory-vs-ldap-for-authentication)
 - [**4. Leveraging OAuth 2.0 with Spring Security**](#4-leveraging-oauth-20-with-spring-security) (3 videos)
-  - Introduction to OAuth 2.0
-  - Spring and OAuth 2.0
-  - Using GitHub as an authorization service
+  - [Introduction to OAuth 2.0](#introduction-to-oauth-20)
+  - [Spring and OAuth 2.0](#spring-and-oauth-20)
+  - [Using GitHub as an authorization service](#using-github-as-an-authorization-service)
 - [**5. WebFlux Security**](#5-webflux-security) (2 videos)
-  - Introduction to WebFlux Security
-  - Implementing basic security
+  - [Introduction to WebFlux Security](#introduction-to-webflux-security)
+  - [Implementing basic security](#implementing-basic-security)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure with Spring Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/secure-with-spring-security?u=76281980)
@@ -102,6 +102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Security]] (2), [[Java]] (1), business (1)
 > **Env Vars:** jvm (1)
 > **Speakers:** - [frank] (1)
 
@@ -164,11 +165,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (5), [[Java]] (4), [[Codespaces]] (3), web (3), [[Security]] (2)
 > **Env Vars:** jdk (2), jvm (1), jre (1)
 > **Prerequisites:** prerequisite (1), make sure you have (1), you'll need (1)
 > **CLI Commands:** make (1), curl (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** curl (1)
 > **Versions:** java 21 (1)
 > **Tools:** command line (1)
@@ -176,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Spring Security Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980)
@@ -239,8 +240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Security]] (9), [[Security]] (8), application (5), [[Hardware]] (3), [[Java]] (2)
 > **Env Vars:** j2ee (1), jvm (1), war (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -319,8 +320,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Security]] (8), web (3), [[Forms]] (2), [[Java]] (2), application (1)
 > **Env Vars:** ldap (3), http (2), cas (1), jaas (1), saml (1)
-> **Code Keywords:** finally, (2), let (1)
 > **CLI Commands:** find (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** prerequisite (1)
@@ -329,7 +330,7 @@ created: 2026-04-29
 
 ### 2. Securing Web Applications with Spring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to project
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980)
@@ -406,9 +407,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), [[Spring Boot]] (6), data (6), web (4), database (4)
 > **Env Vars:** jpa (4), sql (2), mvc (1), xml (1), html (1)
 > **File Paths:** palm.xml (1), data.sql (1), schema.sql (1)
-> **Code Keywords:** let (1), case, (1), this. (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** as you saw (1)
@@ -540,7 +541,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (1), while, (1), class. (1), lambda (1)
+> **Frameworks & Libraries:** [[Security]] (7), [[Spring Security]] (3), [[Java]] (3), web application (2), [[Spring Boot]] (1)
 > **Code Identifiers:** artifactid (2), securityfilterchain (1), authorizehttprequests (1), httpbasic (1), withdefaultpasswordencoder (1)
 > **UI Navigation:** go to (3), click on (1), navigate to (1)
 > **Env Vars:** http (3), release (1)
@@ -680,7 +681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1), default. (1), static (1), private (1)
+> **Frameworks & Libraries:** database (3), data (3), [[SQL]] (2), next (1), [[Java]] (1)
 > **Env Vars:** insert (2), into (2), user (2), unique (1), index (1)
 > **Code Identifiers:** varchar_ignorecase (4), datasource (2), idx_auth_username (1), getpasswordencoder (1), getinstance (1)
 > **Definitions:** is a  (3), is called (1)
@@ -750,11 +751,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (2), web (2), database (2), [[Algorithms]] (1)
 > **Env Vars:** sdk (2), jdbc (2)
 > **UI Navigation:** go to (4)
 > **Best Practices:** you should never (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Tools:** command line (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -930,7 +931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), lambda (1), case, (1), this, (1)
+> **Frameworks & Libraries:** application (6), web (4), data (4), [[Security]] (3), [[Java]] (2)
 > **Code Identifiers:** authoritymapper (2), authoritiesmapper (1), setconverttouppercase (1), detailed_customer (1), hasauthority (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **URLs:** [http://www.thymeleaf.org/extra/spring-security](http://www.thymeleaf.org/extra/spring-security) (1)
@@ -1014,7 +1015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (2), private (1), pass (1)
+> **Frameworks & Libraries:** [[Forms]] (10), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (2), next (2), web application (1)
 > **Env Vars:** tls (3), rfc (1), html (1)
 > **Documentation:** rfc (1), specification (1), spec (1)
 > **Definitions:** is a  (2)
@@ -1094,8 +1095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Definitions:** is a  (3), is an  (2)
-> **Code Keywords:** let (4)
 > **Code Identifiers:** isanonymous (1)
 > **URLs:** [http://thymeleaf.org/extras/spring-security](http://thymeleaf.org/extras/spring-security) (1)
 > **Env Vars:** xml (1)
@@ -1165,7 +1166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), class. (1), lambda (1), for. (1)
+> **Frameworks & Libraries:** web (2), [[Java]] (1), [[Forms]] (1)
 > **Code Identifiers:** formlogin (2), getloginpage (1), httpbasic (1), loginpage (1), permitall (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
@@ -1201,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** application (2), [[Forms]] (1), data (1), database (1), next (1)
 > **UI Navigation:** go to (5), click on (1)
 > **Env Vars:** ldap (1)
 > **Cross-References:** next chapter (1)
@@ -1211,7 +1212,7 @@ created: 2026-04-29
 
 ### 3. LDAP Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LDAP for authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980)
@@ -1282,8 +1283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Spring Security]] (4), [[Microsoft]] (2), application (1), [[Security]] (1)
 > **Env Vars:** ldap (21)
-> **Code Keywords:** let (2), class. (1)
 > **CLI Commands:** docker (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1375,9 +1376,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Security]] (2), [[Spring Security]] (1), web (1)
 > **Env Vars:** ldap (5), ldif (3), url (2), dat (1)
 > **Code Identifiers:** passwordencoder (2), authenticationmanagerbuilder (1), ldapauthentication (1), userdnpatterns (1), groupsearch (1)
-> **Code Keywords:** let (3), public (1)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** pom.xml (1)
 > **URLs:** [localhost:8389](https://localhost:8389) (1)
@@ -1441,9 +1442,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), hr (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Search]] (2), [[Spring Security]] (1)
 > **Env Vars:** ldap (11), jdbc (2)
 > **Exercise Files:** template (4)
-> **Code Keywords:** finally, (2), case, (1)
 > **Definitions:** is an  (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1505,8 +1506,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (18), [[Spring Security]] (4), [[Microsoft]] (2), [[Spring Boot]] (1), application (1)
 > **Env Vars:** ldap (15), adfs (1), saml (1), api (1), sec (1)
-> **Code Keywords:** implements (1), interface (1), this, (1)
 > **Documentation:** the documentation (1), stack overflow (1)
 > **Analogies:** similar to (1), for instance (1)
 > **Warnings:** note that (1), caution (1)
@@ -1516,7 +1517,7 @@ created: 2026-04-29
 
 ### 4. Leveraging OAuth 2.0 with Spring Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OAuth 2.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980)
@@ -1599,7 +1600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), let (1), function (1)
+> **Frameworks & Libraries:** data (8), application (5), [[Google]] (4), [[Tokens]] (4), web (2)
 > **Analogies:** for instance (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -1675,8 +1676,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (2), [[GitHub]] (2), [[Spring Boot]] (2), application (2), next (2)
 > **Definitions:** is an  (3), is a  (3)
-> **Code Keywords:** class. (1), this. (1), protected (1), finally, (1), let (1)
 > **Tools:** github (2)
 > **CLI Commands:** find (1)
 > **URLs:** [spring.io](https://spring.io) (1)
@@ -1807,7 +1808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), import, (1), static (1), delete (1), this, (1)
+> **Frameworks & Libraries:** application (9), [[GitHub]] (8), [[Java]] (3), web (3), [[Security]] (2)
 > **Tools:** github (8)
 > **Env Vars:** url (6)
 > **UI Navigation:** go to (6)
@@ -1819,7 +1820,7 @@ created: 2026-04-29
 
 ### 5. WebFlux Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to WebFlux Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-webflux-security?u=76281980)
@@ -1860,7 +1861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Spring Security]] (4), [[Security]] (1)
 > **Versions:** 2.0 (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
@@ -1969,8 +1970,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Security]] (3), [[Java]] (1), [[JSON]] (1), [[Spring Security]] (1)
 > **Code Identifiers:** userdetails (3), userdetailsservice (1), withdefaultpasswordencoder (1), authorizeexchange (1), anyexchange (1)
-> **Code Keywords:** let (3), pass (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
@@ -1981,7 +1982,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980)
@@ -2036,10 +2037,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Security]] (4), [[Security]] (4), next (2), web application (2), [[Programming]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** ldap (2), oidc (1)
 > **Documentation:** stack overflow (2)
-> **Code Keywords:** this, (1)
 > **Tools:** github (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)

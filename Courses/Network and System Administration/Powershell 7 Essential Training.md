@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/powershell
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Powershell%207%20Essential%20Training.md)
@@ -43,52 +43,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Get up and running with PowerShell 7
-  - What you should know
+  - [Get up and running with PowerShell 7](#get-up-and-running-with-powershell-7)
+  - [What you should know](#what-you-should-know)
 - [**1. Getting Ready for PowerShell**](#1-getting-ready-for-powershell) (5 videos)
-  - Why use PowerShell?
-  - Launch PowerShell as an administrator
-  - Configure the PowerShell console
-  - PowerShell development envionments
-  - Configure development environments for PowerShell
+  - [Why use PowerShell?](#why-use-powershell)
+  - [Launch PowerShell as an administrator](#launch-powershell-as-an-administrator)
+  - [Configure the PowerShell console](#configure-the-powershell-console)
+  - [PowerShell development envionments](#powershell-development-envionments)
+  - [Configure development environments for PowerShell](#configure-development-environments-for-powershell)
 - [**2. Introduction to PowerShell 7**](#2-introduction-to-powershell-7) (3 videos)
-  - PowerShell 7
-  - Install PowerShell 7
-  - Work with PowerShell modules
+  - [PowerShell 7](#powershell-7)
+  - [Install PowerShell 7](#install-powershell-7)
+  - [Work with PowerShell modules](#work-with-powershell-modules)
 - [**3. Commands and Syntax**](#3-commands-and-syntax) (6 videos)
-  - Discover commands
-  - Explore help
-  - Understand cmdlet syntax
-  - Understand terse commands
-  - Utilize variables
-  - Understand PowerShell objects
+  - [Discover commands](#discover-commands)
+  - [Explore help](#explore-help)
+  - [Understand cmdlet syntax](#understand-cmdlet-syntax)
+  - [Understand terse commands](#understand-terse-commands)
+  - [Utilize variables](#utilize-variables)
+  - [Understand PowerShell objects](#understand-powershell-objects)
 - [**4. Scripting and Automation**](#4-scripting-and-automation) (10 videos)
-  - PowerShell security
-  - Create your first script
-  - Parameter attributes for scripts and functions
-  - Select information
-  - Filter specific data
-  - Control the flow of PowerShell
-  - Ternary operators
-  - Switch statements
-  - Define custom help
-  - Distributing custom PowerShell scripts
+  - [PowerShell security](#powershell-security)
+  - [Create your first script](#create-your-first-script)
+  - [Parameter attributes for scripts and functions](#parameter-attributes-for-scripts-and-functions)
+  - [Select information](#select-information)
+  - [Filter specific data](#filter-specific-data)
+  - [Control the flow of PowerShell](#control-the-flow-of-powershell)
+  - [Ternary operators](#ternary-operators)
+  - [Switch statements](#switch-statements)
+  - [Define custom help](#define-custom-help)
+  - [Distributing custom PowerShell scripts](#distributing-custom-powershell-scripts)
 - [**5. Managing Servers, Operating Systems, and Services**](#5-managing-servers-operating-systems-and-services) (4 videos)
-  - Navigate the file system
-  - Manage files and directories
-  - Retrieve data
-  - Work with JSON objects
+  - [Navigate the file system](#navigate-the-file-system)
+  - [Manage files and directories](#manage-files-and-directories)
+  - [Retrieve data](#retrieve-data)
+  - [Work with JSON objects](#work-with-json-objects)
 - [**6. PowerShell Remoting**](#6-powershell-remoting) (4 videos)
-  - Introduction to PowerShell remoting
-  - Enable PowerShell remoting
-  - Combine commands
-  - Practical PowerShell remoting
+  - [Introduction to PowerShell remoting](#introduction-to-powershell-remoting)
+  - [Enable PowerShell remoting](#enable-powershell-remoting)
+  - [Combine commands](#combine-commands)
+  - [Practical PowerShell remoting](#practical-powershell-remoting)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get up and running with PowerShell 7
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980)
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (6), career (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** powershell (6)
 > **Prerequisites:** configure (1), set up (1)
 > **Speakers:** - [liam] (1)
@@ -138,13 +139,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Windows]] (1), management (1)
 > **Tools:** powershell (5)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Getting Ready for PowerShell
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use PowerShell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980)
@@ -201,8 +203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (26), [[Windows]] (3), [[Microsoft]] (2), cross-platform (2), [[Windows 10]] (1)
 > **Tools:** powershell (26)
-> **Code Keywords:** interface (3)
 > **Env Vars:** net (2)
 > **Versions:** version 7 (1), version 6 (1)
 > **Analogies:** for example (1)
@@ -283,9 +285,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Windows]] (6), [[Windows 10]] (2), [[Search]] (1), cross-platform (1)
 > **Tools:** powershell (9), windows terminal (5), terminal (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), new, (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), configure (1)
 > **Cross-References:** go back to (1)
@@ -487,9 +489,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (13), [[Windows]] (4), [[JSON]] (4), next (1), [[Microsoft]] (1)
 > **Tools:** powershell (13), terminal (3), windows terminal (1), visual studio (1), command prompt (1)
 > **Cross-References:** go back to (11)
-> **Code Keywords:** let (4), interface (2), else, (1), this. (1), this, (1)
 > **UI Navigation:** go to (6), click on (1), dropdown (1)
 > **Env Vars:** json (4)
 > **Analogies:** for example (3)
@@ -673,9 +675,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (20), [[Windows]] (11), dns (4), [[Microsoft]] (2), cloud (2)
 > **Tools:** powershell (20), visual studio (6), windows terminal (4), command prompt (1)
 > **Env Vars:** ise (6), dns (4)
-> **Code Keywords:** let (4), function (3), this. (1), this, (1)
 > **UI Navigation:** scroll down (1), click on (1), toggle (1), navigate to (1)
 > **Analogies:** for example (3), kind of like (1)
 > **Prerequisites:** install (3)
@@ -855,8 +857,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (24), [[Microsoft]] (5), [[Microsoft Word|Word]] (2), [[Search]] (2), [[GitHub]] (2)
 > **Tools:** powershell (24), visual studio (4), github (2), terminal (1)
-> **Code Keywords:** let (3), this, (1), this. (1), else, (1)
 > **Env Vars:** ps1 (4), isa (1), ida (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Prerequisites:** install (2), set up (1), configure (1)
@@ -867,7 +869,7 @@ created: 2026-04-29
 
 ### 2. Introduction to PowerShell 7
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PowerShell 7
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980)
@@ -968,11 +970,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (18), parallel (5), [[Microsoft]] (3), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** powershell (18)
 > **Env Vars:** net (1), lts (1), powershell_updatecheck (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), similar to (1)
-> **Code Keywords:** pass (1), let (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** macos (1)
 > **Versions:** 5.1 (1)
@@ -1038,11 +1040,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (19), [[Windows]] (9), [[Linux]] (2), next (2), [[GitHub]] (1)
 > **Tools:** powershell (19), windows terminal (2), github (1)
 > **Versions:** version 7 (2), 0.3 (2), 7.0.3 (2), 7.1.0 (1), 5.1 (1)
 > **Env Vars:** rpm (2), x64 (1), msi (1), meg (1), uac (1)
 > **Prerequisites:** install (5)
-> **Code Keywords:** this, (4)
 > **UI Navigation:** go to (2), navigate to (1), scroll down (1)
 > **CLI Commands:** make (1), tar (1)
 > **Exercise Files:** download the (2)
@@ -1272,7 +1274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (30), let (12), pass (3), else. (2), import. (2)
+> **Frameworks & Libraries:** [[Powershell]] (10), vpn (2), [[Microsoft Azure|Azure]] (2), [[Windows]] (1), [[Microsoft Defender|Defender]] (1)
 > **Tools:** powershell (10)
 > **Env Vars:** ise (3), vpn (2), dsim (1)
 > **Analogies:** for example (4)
@@ -1284,7 +1286,7 @@ created: 2026-04-29
 
 ### 3. Commands and Syntax
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980)
@@ -1339,7 +1341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), type. (1), type, (1), for. (1), let (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Search]] (3), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (6), such as (2)
 > **CLI Commands:** find (6)
 > **Tools:** powershell (5)
@@ -1681,7 +1683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (9), function (7), let (3), pass (3), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Powershell]] (5), [[Search]] (2), [[Microsoft]] (1), web (1)
 > **Tools:** powershell (5)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** find (2), make (1)
@@ -1785,9 +1787,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (14), next (1)
 > **Tools:** powershell (14), command line (1)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** static (2), let (1), default, (1)
 > **SQL:** where (1), select (1)
 > **Env Vars:** where (1), select (1)
 > **Definitions:** is a  (1)
@@ -1943,7 +1945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), this. (1), from. (1), else, (1)
+> **Frameworks & Libraries:** [[Powershell]] (7), [[Programming]] (1), [[JavaScript]] (1)
 > **Tools:** powershell (7)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **CLI Commands:** find (2), make (2)
@@ -2172,7 +2174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), static (6), function (5), type, (2), pass (2)
+> **Frameworks & Libraries:** [[Powershell]] (4), data (4), next (2), [[Search]] (1), [[Windows]] (1)
 > **Analogies:** for example (8)
 > **Definitions:** means that (4), is a  (2)
 > **Code Identifiers:** vartest (4), computerinfo (1)
@@ -2382,7 +2384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (4), pass (3), let (3), return. (1), else. (1)
+> **Frameworks & Libraries:** dns (10), [[Powershell]] (6), [[Windows]] (2), cloud (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Env Vars:** dns (10), svc (2)
 > **Analogies:** for example (7)
 > **Tools:** powershell (6)
@@ -2393,7 +2395,7 @@ created: 2026-04-29
 
 ### 4. Scripting and Automation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PowerShell security
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980)
@@ -2504,11 +2506,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (15), [[Windows]] (5), next (5), [[Security]] (3), feature (2)
 > **Tools:** powershell (15), command line (1)
 > **Definitions:** is a  (2), means that (2)
 > **Analogies:** for example (3)
 > **Env Vars:** xml (1), psm1 (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Create your first script
@@ -2708,8 +2710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (14), dns (9), [[Windows]] (2), prompt (2)
 > **Tools:** powershell (14), visual studio (3), windows terminal (2), terminal (1)
-> **Code Keywords:** let (9), this. (3), this, (2), pass (2), for. (1)
 > **Env Vars:** dns (9), ps1 (3)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2), select the (1)
@@ -3052,7 +3054,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (40), pass (12), let (10), this, (3), this. (3)
+> **Frameworks & Libraries:** [[Powershell]] (9), data (1), next (1), prompt (1)
 > **Tools:** powershell (9), visual studio (2)
 > **Definitions:** means that (2), is called (1), is an  (1), is a  (1)
 > **Analogies:** for example (3), kind of like (1), similar to (1)
@@ -3288,7 +3290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (4), for. (3), this, (3), module (2)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft Word|Word]] (3), [[SQL]] (1), cloud (1), data (1)
 > **Tools:** powershell (4), visual studio (1)
 > **Analogies:** for example (3), such as (1)
 > **Cross-References:** go back to (2), we talked about (1)
@@ -3508,7 +3510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (3), this. (3), type. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Powershell]] (3), data (2), [[Active Directory]] (2), cloud (1)
 > **Tools:** powershell (3), visual studio (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (3)
@@ -3702,7 +3704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (5), this. (4), if, (3), case, (2)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft Word|Word]] (1)
 > **Tools:** powershell (4), visual studio (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
@@ -3768,8 +3770,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (3), next (1)
 > **Code Identifiers:** messagethree (3), messageone (2), messagetwo (2)
-> **Code Keywords:** this. (1), if, (1), let (1), function (1)
 > **Tools:** powershell (3)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -3878,7 +3880,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (10), let (8), type, (3), pass (1), this. (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** exercise file (3)
 > **Speakers:** - [instructor] (1)
@@ -4110,7 +4111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (8), this. (3), this, (2), module (1)
+> **Frameworks & Libraries:** [[Powershell]] (10)
 > **Tools:** powershell (10), visual studio (1)
 > **Analogies:** for example (5), kind of like (1), such as (1)
 > **CLI Commands:** make (4)
@@ -4207,8 +4208,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Security]] (6), data (3), [[Version Control]] (2), [[Dependency Management]] (2)
 > **Tools:** powershell (9), github (1)
-> **Code Keywords:** module (1), private (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -4216,7 +4217,7 @@ created: 2026-04-29
 
 ### 5. Managing Servers, Operating Systems, and Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate the file system
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980)
@@ -4299,8 +4300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (18), [[Windows]] (3), feature (1), [[Linux]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** powershell (18), bash (3)
-> **Code Keywords:** pass (3), this, (1), from. (1), this. (1), default, (1)
 > **Analogies:** for example (2), such as (1), similar to (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** ls (1), cd (1)
@@ -4617,7 +4618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (4), this, (2), module (1), include, (1)
+> **Frameworks & Libraries:** [[Powershell]] (9), data (5), [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1), management (1)
 > **Tools:** powershell (9)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1), is called (1)
@@ -4875,8 +4876,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Powershell]] (2), database (2), [[JSON]] (1), node (1)
 > **Env Vars:** csv (17), xml (5), txt (1)
-> **Code Keywords:** let (8), this, (3), else. (2), delete (2), function (2)
 > **Cross-References:** go back to (5)
 > **UI Navigation:** go to (3), open the (1)
 > **CLI Commands:** make (2), node (1)
@@ -5061,8 +5062,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (33), data (7), [[Windows]] (4), node (2), [[JavaScript]] (1)
 > **Env Vars:** json (33), csv (2), xml (2)
-> **Code Keywords:** let (8), this, (2), this. (2), from, (1), else, (1)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** node (2)
 > **Tools:** powershell (1)
@@ -5071,7 +5072,7 @@ created: 2026-04-29
 
 ### 6. PowerShell Remoting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to PowerShell remoting
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980)
@@ -5132,9 +5133,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (15), [[Windows]] (3), management (3), feature (2), [[Windows 10]] (1)
 > **Tools:** powershell (15), terminal (2)
 > **Env Vars:** dsc (1), wmi (1), tcp (1), http (1), https (1)
-> **Code Keywords:** pass (4), require (1)
 > **CLI Commands:** ssh (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -5299,8 +5300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (17), [[Windows]] (1), management (1)
 > **Tools:** powershell (17)
-> **Code Keywords:** this, (2), type, (1), else, (1), from, (1)
 > **CLI Commands:** make (2), rm (1)
 > **Analogies:** for example (2)
 > **Env Vars:** ssl (1)
@@ -5495,7 +5496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), this. (3), pass (2), function (1)
+> **Frameworks & Libraries:** [[Powershell]] (8), next (2)
 > **Tools:** powershell (8)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
@@ -5678,8 +5679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (14)
 > **Tools:** powershell (14), terminal (2), visual studio (1)
-> **Code Keywords:** let (6), delete (2), pass (1), function (1), this. (1)
 > **UI Navigation:** go to (3), scroll up (1)
 > **Env Vars:** ps1 (1)
 > **Exercise Files:** exercise file (1)
@@ -5690,7 +5691,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980)
@@ -5719,6 +5720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (10), cloud (3), next (2), [[Microsoft]] (2), [[Scripting]] (2)
 > **Tools:** powershell (10)
 > **CLI Commands:** find (1)
 > **URLs:** [powershell.org](https://powershell.org) (1)

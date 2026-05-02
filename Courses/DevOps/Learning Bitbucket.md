@@ -28,7 +28,7 @@ tags:
   - skill/bitbucket
   - skill/version-control
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Bitbucket.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Streamline your code and collaboration with Bitbucket
-  - What you should know
-  - Create an Atlassian account
-  - Bitbucket content organization
+  - [Streamline your code and collaboration with Bitbucket](#streamline-your-code-and-collaboration-with-bitbucket)
+  - [What you should know](#what-you-should-know)
+  - [Create an Atlassian account](#create-an-atlassian-account)
+  - [Bitbucket content organization](#bitbucket-content-organization)
 - [**1. Getting Started with Bitbucket**](#1-getting-started-with-bitbucket) (8 videos)
-  - Create public and private repositories
-  - Add files to a repository
-  - Add an SSH key for authentication
-  - Clone repo to a local system
-  - Use a Git workflow
-  - Push code to a remote repo
-  - Challenge: Create a repo and add code
-  - Solution: Create a repo and add code
+  - [Create public and private repositories](#create-public-and-private-repositories)
+  - [Add files to a repository](#add-files-to-a-repository)
+  - [Add an SSH key for authentication](#add-an-ssh-key-for-authentication)
+  - [Clone repo to a local system](#clone-repo-to-a-local-system)
+  - [Use a Git workflow](#use-a-git-workflow)
+  - [Push code to a remote repo](#push-code-to-a-remote-repo)
+  - [Challenge: Create a repo and add code](#challenge-create-a-repo-and-add-code)
+  - [Solution: Create a repo and add code](#solution-create-a-repo-and-add-code)
 - [**2. Working with Branches and Pull Requests**](#2-working-with-branches-and-pull-requests) (5 videos)
-  - Create a branch
-  - Push code to a branch
-  - Create a Pull request
-  - Challenge: Create and merge a Pull request
-  - Solution: Create and merge a Pull request
+  - [Create a branch](#create-a-branch)
+  - [Push code to a branch](#push-code-to-a-branch)
+  - [Create a Pull request](#create-a-pull-request)
+  - [Challenge: Create and merge a Pull request](#challenge-create-and-merge-a-pull-request)
+  - [Solution: Create and merge a Pull request](#solution-create-and-merge-a-pull-request)
 - [**3. Working with Jira Cloud**](#3-working-with-jira-cloud) (7 videos)
-  - Manage Projects with Jira and Bitbucket
-  - Connect Jira to Bitbucket
-  - Automate issue updates
-  - Create an issue and link to the Bitbucket branch
-  - Update and close issues from Bitbucket
-  - Challenge: Trigger Jira automation from Bitbucket
-  - Solution: Trigger Jira automation from Bitbucket
+  - [Manage Projects with Jira and Bitbucket](#manage-projects-with-jira-and-bitbucket)
+  - [Connect Jira to Bitbucket](#connect-jira-to-bitbucket)
+  - [Automate issue updates](#automate-issue-updates)
+  - [Create an issue and link to the Bitbucket branch](#create-an-issue-and-link-to-the-bitbucket-branch)
+  - [Update and close issues from Bitbucket](#update-and-close-issues-from-bitbucket)
+  - [Challenge: Trigger Jira automation from Bitbucket](#challenge-trigger-jira-automation-from-bitbucket)
+  - [Solution: Trigger Jira automation from Bitbucket](#solution-trigger-jira-automation-from-bitbucket)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Streamline your code and collaboration with Bitbucket
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980)
@@ -104,9 +104,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (5), [[Software Development]] (2), cloud (1), [[Jenkins]] (1), [[Git]] (1)
 > **Tools:** bitbucket (5), jira (1)
 > **CLI Commands:** git (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - modern (1)
 
@@ -147,10 +147,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (6), web (1), [[Windows]] (1), [[Linux]] (1), [[Version Control]] (1)
 > **CLI Commands:** git (6), find (2)
 > **Tools:** terminal (1), command line (1), bitbucket (1)
 > **Exercise Files:** exercise files (3)
-> **Code Keywords:** interface (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -183,8 +183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (6), [[Atlassian]] (4), [[Google]] (1), [[Microsoft]] (1), [[Slack]] (1)
 > **Tools:** bitbucket (6), slack (1)
-> **Code Keywords:** continue (1), let (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -246,7 +246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), private (4), let (3), require (1), interface (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (6), teams (1), mobile application (1), web (1)
 > **Tools:** bitbucket (6)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
@@ -258,7 +258,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Bitbucket
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create public and private repositories
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980)
@@ -327,7 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (12), private (8), let (3), default, (2), require (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (4), open-source (1), [[Algorithms]] (1), data (1), application (1)
 > **Tools:** bitbucket (4)
 > **Env Vars:** url (2)
 > **Cross-References:** we discussed (1), in the next (1)
@@ -377,8 +377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (4), [[Python (Programming Language)|Python]] (3), next (1)
 > **CLI Commands:** python (3), ssh (1)
-> **Code Keywords:** public (1), interface (1), type, (1), override (1)
 > **Tools:** bitbucket (4)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** configure (1), you'll need (1)
@@ -507,9 +507,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (14), [[Git]] (4), [[Security]] (3), next (2), data (1)
 > **CLI Commands:** ssh (19), git (4), make (4), ls (1), cat (1)
 > **Env Vars:** ssh (19)
-> **Code Keywords:** private (8), public (6), let (3), this, (1)
 > **Tools:** bitbucket (14), terminal (3)
 > **Definitions:** is a  (2), known as (1), in other words (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -581,9 +581,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (8), [[Git]] (8), web (2), [[Metadata]] (1), next (1)
 > **CLI Commands:** git (8), ssh (1), ls (1), make (1), cat (1)
 > **Tools:** bitbucket (8), terminal (2)
-> **Code Keywords:** let (3), private (2), interface (1), continue (1), for. (1)
 > **Env Vars:** url (4), readme (2), ssh (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Prerequisites:** set up (2)
@@ -647,8 +647,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (17), next (4), [[Bitbucket]] (2)
 > **CLI Commands:** git (17), make (2)
-> **Code Keywords:** let (2), public (1), this. (1)
 > **Cross-References:** in the next (2)
 > **Tools:** bitbucket (2)
 > **Definitions:** in other words (1)
@@ -735,8 +735,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (18), [[Bitbucket]] (3), web (2), next (1)
 > **CLI Commands:** git (18), make (1)
-> **Code Keywords:** let (7), private (2), interface (2)
 > **Env Vars:** readme (4), ctrl (1)
 > **Documentation:** the readme (4)
 > **Tools:** bitbucket (3), terminal (1)
@@ -781,8 +781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (4), application (3), [[Software Development]] (1), cloud (1), next (1)
 > **Tools:** bitbucket (4)
-> **Code Keywords:** let (1), new, (1)
 > **Env Vars:** url (1), contributing (1)
 > **File Paths:** contributing.md (1)
 > **CLI Commands:** find (1)
@@ -933,7 +933,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), private (7), public (5), interface (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[Bitbucket]] (6), next (3), cd (1), web (1)
 > **CLI Commands:** git (7), make (2), ls (1), cd (1)
 > **Tools:** bitbucket (6), terminal (4), vim (1)
 > **Env Vars:** contributing (7), url (1)
@@ -945,7 +945,7 @@ created: 2026-04-29
 
 ### 2. Working with Branches and Pull Requests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a branch
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-a-branch?u=76281980)
@@ -1062,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (3), continue (1), public (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (7), feature (6), web (3), next (2)
 > **Tools:** bitbucket (7), command line (2)
 > **UI Navigation:** select the (3)
 > **CLI Commands:** make (1)
@@ -1157,8 +1157,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (18), [[Bitbucket]] (6), web (3), feature (3), next (2)
 > **CLI Commands:** git (18), make (2)
-> **Code Keywords:** let (9), interface (2), public (2), switch (1)
 > **Tools:** bitbucket (6), terminal (2), command line (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** select the (1), go to (1)
@@ -1264,8 +1264,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), [[Bitbucket]] (3), [[Git]] (1), [[Version Control]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (2), git (1), find (1)
-> **Code Keywords:** let (3), public (1)
 > **Tools:** bitbucket (3)
 > **Env Vars:** git (1)
 > **Cross-References:** we discussed (1)
@@ -1307,8 +1307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (5), feature (1), next (1)
 > **Tools:** bitbucket (5)
-> **Code Keywords:** let (3)
 > **File Paths:** contributing.md (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1400,7 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1)
+> **Frameworks & Libraries:** feature (5), [[Bitbucket]] (4), next (2)
 > **Tools:** bitbucket (4)
 > **File Paths:** contributing.md (2)
 > **CLI Commands:** make (2)
@@ -1412,7 +1412,7 @@ created: 2026-04-29
 
 ### 3. Working with Jira Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage Projects with Jira and Bitbucket
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980)
@@ -1485,8 +1485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (19), [[Bitbucket]] (8), management (6), [[Software Development]] (5), feature (5)
 > **Tools:** jira (19), bitbucket (8)
-> **Code Keywords:** let (3), from. (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** git (1), find (1)
 > **Cross-References:** in the next (1)
@@ -1587,8 +1587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (20), [[Bitbucket]] (13), cloud (4), [[Atlassian]] (3), next (2)
 > **Tools:** jira (20), bitbucket (13)
-> **Code Keywords:** let (4), from. (2), private (1), default, (1), continue (1)
 > **Prerequisites:** set up (3), configure (2), getting started (1)
 > **UI Navigation:** go to (2), dropdown (2), select the (1)
 > **URLs:** [atlassian.net](https://atlassian.net) (1)
@@ -1671,8 +1671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (11), [[Automation]] (8), [[Bitbucket]] (4), next (3), management (1)
 > **Tools:** jira (11), bitbucket (4)
-> **Code Keywords:** let (5), interface (1), from. (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **CLI Commands:** find (1)
@@ -1725,7 +1725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), type, (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (2), [[Jira]] (2), feature (1), [[Automation]] (1), next (1)
 > **Tools:** bitbucket (2), jira (2)
 > **UI Navigation:** select the (2), scroll down (1), open the (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1774,8 +1774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), [[Bitbucket]] (2), next (2), feature (1)
 > **Tools:** jira (5), bitbucket (2)
-> **Code Keywords:** let (3), delete (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
@@ -1817,8 +1817,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (4), [[Automation]] (3), [[Bitbucket]] (2), application (1), feature (1)
 > **Tools:** jira (4), bitbucket (2)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
@@ -1880,9 +1880,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jira]] (5), [[Bitbucket]] (4), [[Automation]] (4)
 > **Tools:** jira (5), bitbucket (4)
 > **UI Navigation:** scroll down (2), go to (1), select the (1)
-> **Code Keywords:** let (1), case, (1)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat playful music) (1)
@@ -1890,7 +1890,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980)
@@ -1909,8 +1909,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Bitbucket]] (5), ci (1), cd (1), [[Software Projects]] (1)
 > **Tools:** bitbucket (5)
-> **Code Keywords:** static (1), continue (1)
 > **CLI Commands:** cd (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** exercise files (1)

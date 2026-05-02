@@ -37,7 +37,7 @@ tags:
   - skill/system-deployment
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20LLMOps-%20Deploying%20and%20Managing%20LLMs%20in%20Production.md)
@@ -56,45 +56,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Deploying LLMs for production
-  - Working in Google Colab
+  - [Deploying LLMs for production](#deploying-llms-for-production)
+  - [Working in Google Colab](#working-in-google-colab)
 - [**1. Deployment Options for LLMs**](#1-deployment-options-for-llms) (4 videos)
-  - Overview of deployment options
-  - Deploying via APIs
-  - Using fine-tuned models for deployment
-  - Custom models: Building and deployment
+  - [Overview of deployment options](#overview-of-deployment-options)
+  - [Deploying via APIs](#deploying-via-apis)
+  - [Using fine-tuned models for deployment](#using-fine-tuned-models-for-deployment)
+  - [Custom models: Building and deployment](#custom-models-building-and-deployment)
 - [**2. Handling API Limitations**](#2-handling-api-limitations) (5 videos)
-  - Understanding API limitations
-  - Strategies to handle endpoint uptime limitations
-  - Mitigating latency issues in LLM deployment
-  - Challenge: API limitations for LLM deployment
-  - Solution: API limitations for LLM deployment
+  - [Understanding API limitations](#understanding-api-limitations)
+  - [Strategies to handle endpoint uptime limitations](#strategies-to-handle-endpoint-uptime-limitations)
+  - [Mitigating latency issues in LLM deployment](#mitigating-latency-issues-in-llm-deployment)
+  - [Challenge: API limitations for LLM deployment](#challenge-api-limitations-for-llm-deployment)
+  - [Solution: API limitations for LLM deployment](#solution-api-limitations-for-llm-deployment)
 - [**3. Deployment Architecture**](#3-deployment-architecture) (5 videos)
-  - Vector databases for LLM deployment
-  - Agents in LLM deployment
-  - Chains in LLM deployment
-  - Challenge: Deploy a simple RAG application using an API
-  - Solution: Deploying a simple RAG application using an API
+  - [Vector databases for LLM deployment](#vector-databases-for-llm-deployment)
+  - [Agents in LLM deployment](#agents-in-llm-deployment)
+  - [Chains in LLM deployment](#chains-in-llm-deployment)
+  - [Challenge: Deploy a simple RAG application using an API](#challenge-deploy-a-simple-rag-application-using-an-api)
+  - [Solution: Deploying a simple RAG application using an API](#solution-deploying-a-simple-rag-application-using-an-api)
 - [**4. Monitoring LLM Performance**](#4-monitoring-llm-performance) (2 videos)
-  - Introduction to LLM performance monitoring
-  - Addressing hallucinations in LLMs
+  - [Introduction to LLM performance monitoring](#introduction-to-llm-performance-monitoring)
+  - [Addressing hallucinations in LLMs](#addressing-hallucinations-in-llms)
 - [**5. Advanced Deployment Techniques**](#5-advanced-deployment-techniques) (4 videos)
-  - Prompt management for LLM deployment
-  - Evaluating LLMs in production
-  - Challenge: Evaluating LLM systems
-  - Solution: Evaluating LLM systems
+  - [Prompt management for LLM deployment](#prompt-management-for-llm-deployment)
+  - [Evaluating LLMs in production](#evaluating-llms-in-production)
+  - [Challenge: Evaluating LLM systems](#challenge-evaluating-llm-systems)
+  - [Solution: Evaluating LLM systems](#solution-evaluating-llm-systems)
 - [**6. Security and Cost Considerations**](#6-security-and-cost-considerations) (5 videos)
-  - Security considerations for LLMs in production
-  - Balancing costs and performance in LLM deployment
-  - Strategies for cost-effective LLM deployment
-  - Challenge: Estimating costs of an LLM API
-  - Solution: Estimating costs of an LLM API
+  - [Security considerations for LLMs in production](#security-considerations-for-llms-in-production)
+  - [Balancing costs and performance in LLM deployment](#balancing-costs-and-performance-in-llm-deployment)
+  - [Strategies for cost-effective LLM deployment](#strategies-for-cost-effective-llm-deployment)
+  - [Challenge: Estimating costs of an LLM API](#challenge-estimating-costs-of-an-llm-api)
+  - [Solution: Estimating costs of an LLM API](#solution-estimating-costs-of-an-llm-api)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying LLMs for production
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-llms-for-production?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), llm (1), api (1), [[Vector Databases]] (1), prompt (1)
 > **Env Vars:** llm (1), api (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Working in Google Colab
@@ -168,11 +168,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Generative AI]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Tools:** colab (7), github (2), jupyter (1)
 > **CLI Commands:** find (3), python (1)
 > **UI Navigation:** navigate to (1), dropdown (1)
 > **Definitions:** is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ipython (1)
 > **Env Vars:** ram (1)
 > **Exercise Files:** github repo (1)
@@ -180,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Deployment Options for LLMs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of deployment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980)
@@ -247,8 +247,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (10), api (6), business (1), [[Large Language Models (LLM)|Large language models]] (1), [[Tokens]] (1)
 > **Env Vars:** llm (10), api (6)
-> **Code Keywords:** self (4), let (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -327,9 +327,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (13), api (8), data (4), application (2), [[Real-Time]] (2)
 > **Env Vars:** llm (13), api (8)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1), require (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** setup (2)
@@ -403,8 +403,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (13), data (6), [[Fine Tuning]] (4), [[Privacy]] (2), [[Security]] (2)
 > **Env Vars:** llm (13), api (2)
-> **Code Keywords:** finally, (3), let (2), self (1)
 > **Prerequisites:** setup (1), required to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -468,8 +468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (15), data (6), [[Financial Data]] (2), [[ChatGPT]] (1), [[Privacy]] (1)
 > **Env Vars:** llm (15), gpt (2), lms (1), api (1)
-> **Code Keywords:** finally, (1), let (1), private (1), require (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -478,7 +478,7 @@ created: 2026-04-29
 
 ### 2. Handling API Limitations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding API limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980)
@@ -549,8 +549,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (12), api (12), next (2), data (2), [[Generative AI]] (1)
 > **Env Vars:** llm (12), api (12), gpt (2), sla (1)
-> **Code Keywords:** self (1), require (1), finally, (1), switch (1)
 > **Analogies:** such as (2), just like (1), for instance (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **CLI Commands:** find (1)
@@ -613,9 +613,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (22), llm (13), application (5), next (2), product (1)
 > **Env Vars:** api (22), llm (13), gpt (2)
 > **Cross-References:** in the last (1), we discussed (1), we talked about (1), in the next (1)
-> **Code Keywords:** switch (1), continue (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Versions:** 3.5 (1)
 > **UI Navigation:** switch to (1)
@@ -695,8 +695,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), llm (8), product (2), [[User Experience (UX)|User experience]] (1), [[Generative AI]] (1)
 > **Env Vars:** api (10), llm (8)
-> **Code Keywords:** while. (1), this. (1), finally, (1)
 > **Definitions:** is an  (2), means that (1)
 > **Analogies:** for instance (2), similar to (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -748,9 +748,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), application (3), next (2), [[Tokens]] (2), llm (1)
 > **Env Vars:** api (9), llm (1)
 > **CLI Commands:** make (1), python (1), find (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (catchy music) (1)
@@ -798,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), pass (1), switch (1)
+> **Frameworks & Libraries:** api (6), [[Tokens]] (3), prompt (2), [[GPT-4]] (2), next (1)
 > **Env Vars:** api (6), gpt (2), llm (1)
 > **Code Identifiers:** openai (1)
 > **URLs:** [groq.com](https://groq.com) (1)
@@ -810,7 +810,7 @@ created: 2026-04-29
 
 ### 3. Deployment Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vector databases for LLM deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980)
@@ -903,8 +903,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (12), data (10), database (9), [[Vector Databases]] (6), chatbot (4)
 > **Env Vars:** llm (12), rag (1)
-> **Code Keywords:** pass (3), let (2), finally, (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** means that (1), known as (1)
 > **Analogies:** imagine (1), just like (1)
@@ -977,8 +977,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (13), next (2), data (2), database (2), prompt (2)
 > **Env Vars:** llm (13), llmapi (1), sql (1), llms (1)
-> **Code Keywords:** module (4), finally, (2), case, (1), pass (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1063,8 +1063,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (20), data (5), chatbot (3), application (2), next (2)
 > **Env Vars:** llm (20)
-> **Code Keywords:** let (2), finally, (2), if, (1), pass (1), require (1)
 > **CLI Commands:** make (1), node (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -1113,8 +1113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), rag (4), application (3), database (3), data (2)
 > **Env Vars:** llm (5), rag (4), api (2)
-> **Code Keywords:** finally, (1), this, (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Documentation:** specification (1)
@@ -1190,7 +1190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), type, (3), let (2), finally, (2)
+> **Frameworks & Libraries:** prompt (6), data (4), rag (3), llm (3), api (2)
 > **Env Vars:** rag (3), uri (3), llm (3), api (2)
 > **Code Identifiers:** create_feed (3), organization_id (1), environment_id (1), jwt_secret (1), feed_id (1)
 > **Documentation:** specification (7)
@@ -1202,7 +1202,7 @@ created: 2026-04-29
 
 ### 4. Monitoring LLM Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LLM performance monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980)
@@ -1259,8 +1259,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), application (6), [[Generative AI]] (4), [[Security]] (2), data (2)
 > **Env Vars:** llm (6), cpu (1)
-> **Code Keywords:** let (1), finally, (1), require (1)
 > **Definitions:** is an  (2), is called (1)
 > **Analogies:** such as (3)
 > **Cross-References:** in the last (1), in the next (1)
@@ -1320,8 +1320,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (14), data (3), [[Generative AI]] (2), rag (2), next (2)
 > **Env Vars:** llm (14), rag (2)
-> **Code Keywords:** finally, (2)
 > **Versions:** 0.1 (1), 0.2 (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
@@ -1331,7 +1331,7 @@ created: 2026-04-29
 
 ### 5. Advanced Deployment Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt management for LLM deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980)
@@ -1414,8 +1414,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (24), llm (5), [[Prompt Engineering]] (4), next (3), [[Generative AI]] (1)
 > **Env Vars:** llm (5)
-> **Code Keywords:** interface (1), finally, (1)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1491,9 +1491,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (11), rag (5), [[Generative AI]] (3), next (3), prompt (3)
 > **Env Vars:** llm (11), rag (5), mmlu (2), glue (1), lms (1)
 > **Cross-References:** in the last (1), we discussed (1), in the next (1)
-> **Code Keywords:** finally, (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1530,6 +1530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (6), next (3), application (2), data (2), ai (1)
 > **Env Vars:** rag (6), gpt (1), llm (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Prerequisites:** install (1)
@@ -1575,7 +1576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), class. (1), case, (1), pass (1), function (1)
+> **Frameworks & Libraries:** rag (2), application (2), next (2), data (2), [[OpenAI API]] (1)
 > **Env Vars:** rag (2), api (1)
 > **Code Identifiers:** fiqa_eval (1)
 > **Definitions:** is a  (1)
@@ -1586,7 +1587,7 @@ created: 2026-04-29
 
 ### 6. Security and Cost Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Security considerations for LLMs in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980)
@@ -1661,8 +1662,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (15), data (8), prompt (3), [[Security]] (2), [[Real-Time]] (1)
 > **Env Vars:** llm (15), llms (1), pii (1)
-> **Code Keywords:** let (2), finally, (2), private (1)
 > **CLI Commands:** make (1), rails (1)
 > **Cross-References:** in the last (1), we talked about (1)
 > **Analogies:** such as (1), for instance (1)
@@ -1746,8 +1747,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (11), [[Real-Time]] (5), api (5), [[Tokens]] (5), ai (3)
 > **Env Vars:** llm (11), api (5), gpu (2), a100 (1), h100 (1)
-> **Code Keywords:** self (3), require (2), let (1)
 > **Prerequisites:** you need to have (1), required to (1), setup (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1804,8 +1805,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (8), application (5), data (4), api (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (8), api (2), gpt (1)
-> **Code Keywords:** return, (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -1845,8 +1846,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (5), llm (4), api (4), application (1), [[OpenAI API]] (1)
 > **Env Vars:** api (5), llm (4)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1909,7 +1910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), module (1)
+> **Frameworks & Libraries:** [[Tokens]] (11), next (2), prompt (2), api (1), product (1)
 > **Env Vars:** api (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is an  (1)
@@ -1919,7 +1920,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980)
@@ -1996,8 +1997,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), [[Security]] (3), [[Scalability]] (2), api (2), [[Vector Databases]] (2)
 > **Env Vars:** llm (4), api (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** we discussed (1), we covered (1)
 > **URLs:** [substack.com](https://substack.com) (1)
 > **Speakers:** - [instructor] (1)

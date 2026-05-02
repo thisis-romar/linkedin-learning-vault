@@ -27,7 +27,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Framing%20Cloud%20Discussions%20for%20the%20C-Suite.md)
@@ -46,29 +46,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding the audience
-  - Discussing the cloud with a non-tech audience
+  - [Understanding the audience](#understanding-the-audience)
+  - [Discussing the cloud with a non-tech audience](#discussing-the-cloud-with-a-non-tech-audience)
 - [**1. Core Distinctions**](#1-core-distinctions) (4 videos)
-  - Discussing dynamic application infrastructures
-  - Discussing rapid innovation and change
-  - Discussing COGS vs. capital
-  - Cloud finances
+  - [Discussing dynamic application infrastructures](#discussing-dynamic-application-infrastructures)
+  - [Discussing rapid innovation and change](#discussing-rapid-innovation-and-change)
+  - [Discussing COGS vs. capital](#discussing-cogs-vs-capital)
+  - [Cloud finances](#cloud-finances)
 - [**2. Cloud for Executives**](#2-cloud-for-executives) (5 videos)
-  - Understanding what “the cloud” means to your audience
-  - CFO focus: The cloud and financial management
-  - CTO focus: Technical advantage using the cloud
-  - CSO focus: The cloud is secure
-  - CEO focus: The cloud and customer value
+  - [Understanding what “the cloud” means to your audience](#understanding-what-the-cloud-means-to-your-audience)
+  - [CFO focus: The cloud and financial management](#cfo-focus-the-cloud-and-financial-management)
+  - [CTO focus: Technical advantage using the cloud](#cto-focus-technical-advantage-using-the-cloud)
+  - [CSO focus: The cloud is secure](#cso-focus-the-cloud-is-secure)
+  - [CEO focus: The cloud and customer value](#ceo-focus-the-cloud-and-customer-value)
 - [**3. Leveraging the Cloud**](#3-leveraging-the-cloud) (3 videos)
-  - Discussing cloud metrics and OKRs
-  - Discussing cloud cost reduction
-  - Discussing cloud scaling and availability
+  - [Discussing cloud metrics and OKRs](#discussing-cloud-metrics-and-okrs)
+  - [Discussing cloud cost reduction](#discussing-cloud-cost-reduction)
+  - [Discussing cloud scaling and availability](#discussing-cloud-scaling-and-availability)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing cloud discussions with the C-Suite
+  - [Continuing cloud discussions with the C-Suite](#continuing-cloud-discussions-with-the-c-suite)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-the-audience?u=76281980)
@@ -105,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), data (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), application (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
 
@@ -173,7 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** cloud (8), leadership (4), [[Security]] (2), [[E-Commerce]] (1), next (1)
 > **Env Vars:** ceo (1), cfo (1), cto (1), cso (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -181,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Core Distinctions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discussing dynamic application infrastructures
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980)
@@ -278,7 +279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (4), require (2), finally, (1)
+> **Frameworks & Libraries:** cloud (19), application (9), data (4), leadership (2), aws (2)
 > **CLI Commands:** aws (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** aws (2)
@@ -332,6 +333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), feature (3), application (3), product (2), api (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -438,10 +440,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), cloud (2), [[Hardware]] (2), [[SaaS]] (2), next (1)
 > **Env Vars:** cogs (15), cfo (1)
 > **Definitions:** is a  (5), is called (1), stands for (1), is an  (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), for, (2)
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -496,13 +498,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), cloud (7), traffic (5), application (2), [[SaaS]] (1)
 > **Env Vars:** cfo (4), cogs (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Cloud for Executives
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding what “the cloud” means to your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980)
@@ -545,8 +548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), [[Executive Leadership]] (2), data (1), product (1), [[Engineering]] (1)
 > **Env Vars:** ceo (1), cto (1), cfo (1), cso (1)
-> **Code Keywords:** this. (1), lambda (1), let (1)
 > **Analogies:** such as (1), it's like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -630,10 +633,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), cloud (3), product (2), career (1), business (1)
 > **Env Vars:** cfo (7), cogs (3)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3)
-> **Code Keywords:** public (1), private (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
@@ -692,6 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), application (2), [[Engineering]] (2), [[Representational State Transfer (REST)|Rest]] (2), web (1)
 > **Env Vars:** cto (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -772,10 +776,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), [[Security]] (15), data (8), [[Representational State Transfer (REST)|Rest]] (3), aws (1)
 > **Env Vars:** cso (4), aws (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1), aws (1)
-> **Code Keywords:** public (2)
 > **Speakers:** - [presenter] (1)
 
 #### CEO focus: The cloud and customer value
@@ -821,6 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Technical Leadership]] (3), leadership (3), [[Microsoft Products|Products]] (2), [[Enterprise Software]] (1)
 > **Env Vars:** ceo (14), cto (4), cso (2), cfo (1), cogs (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
@@ -830,7 +835,7 @@ created: 2026-04-29
 
 ### 3. Leveraging the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Discussing cloud metrics and OKRs
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980)
@@ -897,9 +902,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), data (7), leadership (5), [[Executive Leadership]] (1), [[Analytics]] (1)
 > **Env Vars:** ceo (1), okr (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** match, (1)
 > **Cross-References:** coming up (1)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
@@ -986,7 +991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), for. (1), this. (1)
+> **Frameworks & Libraries:** cloud (25), application (10), data (4), management (2), [[Hardware]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** cfo (1)
 > **Cross-References:** we discussed (1)
@@ -1079,10 +1084,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), application (13), traffic (9), cloud (6), [[Scalability]] (4)
 > **Env Vars:** cfo (1), cto (1), ceo (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** assuming you have (1)
 > **Speakers:** - [instructor] (1)
@@ -1090,7 +1095,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing cloud discussions with the C-Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980)
@@ -1129,6 +1134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), business (2), leadership (2), [[Executive Leadership]] (1), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

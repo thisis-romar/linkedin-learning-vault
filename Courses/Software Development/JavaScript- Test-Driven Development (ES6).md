@@ -30,7 +30,7 @@ tags:
   - skill/test-driven-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Test-Driven%20Development%20(ES6).md)
@@ -49,62 +49,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Intro video
-  - What you should know
-  - What this course covers
-  - Software installation
+  - [Intro video](#intro-video)
+  - [What you should know](#what-you-should-know)
+  - [What this course covers](#what-this-course-covers)
+  - [Software installation](#software-installation)
 - [**1. Test-Driven Development (TDD) Basics**](#1-test-driven-development-tdd-basics) (6 videos)
-  - What is TDD?
-  - Advantages of TDD
-  - Disadvantages of TDD
-  - The basic TDD cycle
-  - Writing effective tests
-  - The three different types of tests
+  - [What is TDD?](#what-is-tdd)
+  - [Advantages of TDD](#advantages-of-tdd)
+  - [Disadvantages of TDD](#disadvantages-of-tdd)
+  - [The basic TDD cycle](#the-basic-tdd-cycle)
+  - [Writing effective tests](#writing-effective-tests)
+  - [The three different types of tests](#the-three-different-types-of-tests)
 - [**2. Writing Unit Tests**](#2-writing-unit-tests) (9 videos)
-  - The purpose of unit testing
-  - JavaScript frameworks for unit testing
-  - Writing and running basic tests
-  - Testing basic functions
-  - Testing asynchronous functions
-  - Modifying existing functionality
-  - To mock or not to mock?
-  - Challenge: Given criteria, write unit tests
-  - Solution: Given criteria, write unit tests
+  - [The purpose of unit testing](#the-purpose-of-unit-testing)
+  - [JavaScript frameworks for unit testing](#javascript-frameworks-for-unit-testing)
+  - [Writing and running basic tests](#writing-and-running-basic-tests)
+  - [Testing basic functions](#testing-basic-functions)
+  - [Testing asynchronous functions](#testing-asynchronous-functions)
+  - [Modifying existing functionality](#modifying-existing-functionality)
+  - [To mock or not to mock?](#to-mock-or-not-to-mock)
+  - [Challenge: Given criteria, write unit tests](#challenge-given-criteria-write-unit-tests)
+  - [Solution: Given criteria, write unit tests](#solution-given-criteria-write-unit-tests)
 - [**3. Writing Integration Tests**](#3-writing-integration-tests) (6 videos)
-  - Introduction to integration testing
-  - How do integration tests fit into TDD?
-  - Test doubles
-  - When shouldn't I use test doubles?
-  - The two categories of integration tests
-  - JavaScript libraries For integration testing
+  - [Introduction to integration testing](#introduction-to-integration-testing)
+  - [How do integration tests fit into TDD?](#how-do-integration-tests-fit-into-tdd)
+  - [Test doubles](#test-doubles)
+  - [When shouldn't I use test doubles?](#when-shouldnt-i-use-test-doubles)
+  - [The two categories of integration tests](#the-two-categories-of-integration-tests)
+  - [JavaScript libraries For integration testing](#javascript-libraries-for-integration-testing)
 - [**4. Writing End-to-End Tests**](#4-writing-end-to-end-tests) (4 videos)
-  - Integration testing in practice
-  - Testing Node servers with SuperTest
-  - Testing an endpoint: The basic approach
-  - Creating a Mocha setup file
+  - [Integration testing in practice](#integration-testing-in-practice)
+  - [Testing Node servers with SuperTest](#testing-node-servers-with-supertest)
+  - [Testing an endpoint: The basic approach](#testing-an-endpoint-the-basic-approach)
+  - [Creating a Mocha setup file](#creating-a-mocha-setup-file)
 - [**5. Improving Your TDD Workflow**](#5-improving-your-tdd-workflow) (6 videos)
-  - Testing database communication: Basic setup
-  - Database setup and teardown in tests
-  - Ignoring object properties in Mocha
-  - Using environment variables in testing
-  - Creating test helpers
-  - Resetting the database between tests
+  - [Testing database communication: Basic setup](#testing-database-communication-basic-setup)
+  - [Database setup and teardown in tests](#database-setup-and-teardown-in-tests)
+  - [Ignoring object properties in Mocha](#ignoring-object-properties-in-mocha)
+  - [Using environment variables in testing](#using-environment-variables-in-testing)
+  - [Creating test helpers](#creating-test-helpers)
+  - [Resetting the database between tests](#resetting-the-database-between-tests)
 - [**6. A Real-World Example**](#6-a-real-world-example) (6 videos)
-  - Creating test-doubles with Sinon
-  - Testing a Node endpoint with SuperTest
-  - Implementing a server endpoint
-  - Testing a server's error path
-  - Challenge: Testing "Not Found"
-  - Solution: Testing "Not Found"
+  - [Creating test-doubles with Sinon](#creating-test-doubles-with-sinon)
+  - [Testing a Node endpoint with SuperTest](#testing-a-node-endpoint-with-supertest)
+  - [Implementing a server endpoint](#implementing-a-server-endpoint)
+  - [Testing a server's error path](#testing-a-servers-error-path)
+  - [Challenge: Testing "Not Found"](#challenge-testing-not-found)
+  - [Solution: Testing "Not Found"](#solution-testing-not-found)
 - [**7. Running Tests**](#7-running-tests) (2 videos)
-  - Run tests automatically
-  - Checking test coverage with NYC
+  - [Run tests automatically](#run-tests-automatically)
+  - [Checking test coverage with NYC](#checking-test-coverage-with-nyc)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro video
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980)
@@ -133,9 +133,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Software Development]] (1), strengths (1), [[React.js|React]] (1)
 > **Env Vars:** tdd (4), es6 (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [shaun] (1)
 
 #### What you should know
@@ -159,7 +159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this. (1), super (1)
+> **Frameworks & Libraries:** express (3), [[JavaScript]] (2), [[Test-Driven Development]] (1)
 > **Env Vars:** es6 (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -196,9 +196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), test-driven (1), node (1)
 > **Env Vars:** tdd (7)
 > **CLI Commands:** make (2), node (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -236,9 +236,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), node (3), [[npm]] (3), [[MongoDB]] (2), [[Windows]] (1)
 > **CLI Commands:** node (7), npm (3), make (1), find (1)
 > **File Paths:** node.js (4)
-> **Code Keywords:** let (1), this, (1), continue (1)
 > **Prerequisites:** install (2), make sure you have (1)
 > **Env Vars:** npm (2)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 ### 1. Test-Driven Development (TDD) Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is TDD?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-is-tdd?u=76281980)
@@ -319,7 +319,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), continue (2), pass (1), case, (1), let (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (10), [[Software Development]] (4), management (1), career (1)
 > **Warnings:** keep in mind (6)
 > **Env Vars:** tdd (3)
 > **Analogies:** for example (2), imagine (1)
@@ -388,8 +388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (3), [[Software Development]] (1), express (1), web (1), application (1)
 > **Env Vars:** tdd (5)
-> **Code Keywords:** let (1), else. (1), break, (1), pass (1)
 > **Definitions:** in other words (2), means that (2)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -436,8 +436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), [[Security]] (1)
 > **Env Vars:** tdd (8)
-> **Code Keywords:** this. (3), try. (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -497,8 +497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Algorithms]] (1), [[Forms]] (1), [[Test-Driven Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** pass (4), let (1), function (1)
 > **Env Vars:** tdd (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -593,7 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), pass (3), let (1), delete (1)
+> **Frameworks & Libraries:** next (2), feature (1), generic (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** tdd (4), rite (1)
 > **Definitions:** means that (3), is an  (1), is a  (1)
@@ -647,9 +647,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[End-to-end Testing]] (3), application (2), next (1), [[Unit Testing]] (1), [[Integration Testing]] (1)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **URLs:** [cypress.io](https://cypress.io) (1)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
@@ -658,7 +658,7 @@ created: 2026-04-29
 
 ### 2. Writing Unit Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of unit testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-purpose-of-unit-testing?u=76281980)
@@ -721,7 +721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), pass (3), this, (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (2), application (1), express (1)
 > **CLI Commands:** make (9)
 > **Analogies:** imagine (3), for example (2)
 > **Env Vars:** tdd (4)
@@ -782,10 +782,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Unit Testing]] (2)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** tdd (7)
 > **Prerequisites:** setup (3), you'll need (1)
-> **Code Keywords:** let (1), finally, (1), function (1)
 > **Analogies:** such as (2), for example (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -832,10 +832,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (4), hit (3)
 > **CLI Commands:** npm (4), make (1)
 > **Prerequisites:** install (4), set up (1)
 > **File Paths:** count.js (1), count.test.js (1)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Speakers:** - so (1)
 
@@ -926,7 +926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (21), pass (6), let (5), this, (5), import, (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (5), cat (2)
 > **Code Identifiers:** getlettercount (6)
 > **Definitions:** is a  (6)
@@ -1004,7 +1004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), delete (2), pass (2), require (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[JSON]] (2), hit (1)
 > **Env Vars:** tdd (3), es6 (2), enter (1), npm (1)
 > **CLI Commands:** npm (3), npx (1), make (1)
 > **File Paths:** package.json (2), test.js (1)
@@ -1052,7 +1052,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), const (3), pass (2), let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[npm]] (2), next (1)
 > **CLI Commands:** make (3), cat (2), npm (2)
 > **Cross-References:** go back to (2)
 > **Speakers:** - we (1)
@@ -1130,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (5), pass (5), const (2), this, (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (3), [[Microsoft Word|Word]] (2), [[JavaScript]] (2), [[npm]] (1), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (3), npm (1)
 > **Code Identifiers:** getlettercount (2), lettercount (1)
 > **Analogies:** just like (1), such as (1), imagine (1)
@@ -1205,7 +1205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this. (1), finally, (1), implements (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[npm]] (1)
 > **Analogies:** for example (4), such as (1)
 > **Env Vars:** tdd (3), npm (1)
 > **File Paths:** anagrams.js (1), anagrams.test.js (1)
@@ -1383,7 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), const (12), pass (4), this. (3), let (2)
+> **Frameworks & Libraries:** next (2), [[npm]] (2)
 > **Code Identifiers:** isanagram (11), string1letters (3), string2letters (3), getlettercount (3), string1lettercount (3)
 > **CLI Commands:** make (4), npm (2)
 > **Definitions:** in other words (2)
@@ -1395,7 +1395,7 @@ created: 2026-04-29
 
 ### 3. Writing Integration Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to integration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980)
@@ -1448,10 +1448,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Integration Testing]] (6), application (6), [[Unit Testing]] (5), database (4), next (1)
 > **CLI Commands:** make (4), find (2), node (1)
 > **Cross-References:** previous video (2), we discussed (1), we mentioned (1)
 > **File Paths:** express.js (1), node.js (1), server.js (1)
-> **Code Keywords:** require (2), function (1)
 > **Analogies:** picture (1), imagine (1), for example (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Env Vars:** tdd (1)
@@ -1514,8 +1514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Integration Testing]] (4), [[Unit Testing]] (4), [[Representational State Transfer (REST)|Rest]] (2), api (2), test-driven (2)
 > **Env Vars:** tdd (3), api (2)
-> **Code Keywords:** let (1), this, (1), pass (1)
 > **Definitions:** in other words (2), means that (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** make (1)
@@ -1562,7 +1562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), function (2), let (1), this, (1)
+> **Frameworks & Libraries:** database (4), [[MongoDB]] (3), data (3), [[Integration Testing]] (2), [[Test-Driven Development]] (2)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** api (1)
@@ -1625,7 +1625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (3), let (1), require (1), case, (1), function (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3), data (2), api (2), [[Unit Testing]] (1), application (1)
 > **Prerequisites:** setup (5), required to (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** tdd (2), api (2)
@@ -1690,9 +1690,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), application (3), front-end (3), [[Integration Testing]] (2), api (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (4)
-> **Code Keywords:** function (1), pass (1)
 > **Warnings:** keep in mind (1), note that (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** setup (1)
@@ -1731,6 +1731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), [[Unit Testing]] (2), [[JavaScript]] (1), [[Integration Testing]] (1), [[Cypress.io]] (1)
 > **CLI Commands:** node (3), make (1), find (1)
 > **Definitions:** in other words (2), is called (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -1740,7 +1741,7 @@ created: 2026-04-29
 
 ### 4. Writing End-to-End Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integration testing in practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980)
@@ -1775,6 +1776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Integration Testing]] (3), [[Test-Driven Development]] (1), node (1), database (1), [[Front-End Development]] (1)
 > **CLI Commands:** node (1), find (1)
 > **Env Vars:** tdd (2)
 > **Warnings:** keep in mind (1)
@@ -1835,9 +1837,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), node (3), [[npm]] (3), [[Integration Testing]] (1), next (1)
 > **CLI Commands:** node (3), npm (3), make (2)
 > **Prerequisites:** install (4), setup (1), set up (1)
-> **Code Keywords:** let (3), this, (1), this. (1)
 > **Env Vars:** json (2), tdd (1), api (1)
 > **Tools:** vs code (2), terminal (2)
 > **File Paths:** package.json (2)
@@ -1917,7 +1919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** database (14), [[Representational State Transfer (REST)|Rest]] (4), [[MongoDB]] (3), data (1), [[Integration Testing]] (1)
 > **File Paths:** server.js (1), server.test.js (1), db.js (1), db.test.js (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** getuser (2), db (1), createuser (1)
@@ -1983,7 +1985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (3), await (3), this, (1), let (1), this. (1)
+> **Frameworks & Libraries:** database (1), [[npm]] (1), hit (1), [[JSON]] (1)
 > **CLI Commands:** make (2), npm (1), find (1)
 > **Prerequisites:** install (2), setup (2)
 > **File Paths:** mocha-setup.js (1), package.json (1), source/mocha-setup.js (1)
@@ -1994,7 +1996,7 @@ created: 2026-04-29
 
 ### 5. Improving Your TDD Workflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing database communication: Basic setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980)
@@ -2063,7 +2065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), import, (2), await (2), const (2)
+> **Frameworks & Libraries:** database (15), [[MongoDB]] (7), [[Representational State Transfer (REST)|Rest]] (3), data (2), [[npm]] (1)
 > **CLI Commands:** make (3), mongo (2), npm (1)
 > **Prerequisites:** set up (3), install (2)
 > **Env Vars:** url (2), test_db (1)
@@ -2129,7 +2131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), const (6), await (5), let (3), this, (1)
+> **Frameworks & Libraries:** database (15), data (8), next (1)
 > **CLI Commands:** make (6), mongo (4), find (3)
 > **Prerequisites:** setup (3)
 > **Best Practices:** remember to (1)
@@ -2184,7 +2186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), throw (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), database (1), [[npm]] (1), next (1)
 > **Code Identifiers:** chaiexclude (2), excludingevery (2), insertmany (1), finaldbstate (1)
 > **Prerequisites:** install (3), setup (1), set up (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -2238,7 +2240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), switch (1), let (1), this, (1), const (1)
+> **Frameworks & Libraries:** database (5), node (3), [[Databases]] (2), [[JSON]] (1)
 > **Env Vars:** node (3), url (1), db_name (1)
 > **File Paths:** package.json (1), dv.js (1), process.env (1)
 > **CLI Commands:** node (3)
@@ -2340,7 +2342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (6), function (5), const (4), pass (4)
+> **Frameworks & Libraries:** data (17), database (17), [[Integration Testing]] (1), [[Unit Testing]] (1), [[MongoDB]] (1)
 > **CLI Commands:** mongo (4), make (2), find (1)
 > **Prerequisites:** setup (3), set up (2)
 > **File Paths:** testhelpers.js (1)
@@ -2384,7 +2386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), throw (1), pass (1), this. (1), async (1)
+> **Frameworks & Libraries:** database (3), data (1), next (1)
 > **Code Identifiers:** resetdatabase (4), aftereach (3)
 > **CLI Commands:** make (3), mongo (1)
 > **Cross-References:** previous video (1)
@@ -2396,7 +2398,7 @@ created: 2026-04-29
 
 ### 6. A Real-World Example
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating test-doubles with Sinon
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980)
@@ -2487,7 +2489,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), this, (2), const (2), from . (1)
+> **Frameworks & Libraries:** database (9), data (3), [[Integration Testing]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[npm]] (1)
 > **CLI Commands:** mongo (2), npm (1)
 > **Cross-References:** previous video (1), we discussed (1), go back to (1)
 > **Prerequisites:** install (2), set up (1)
@@ -2573,7 +2575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), case, (1), finally, (1), for, (1), function (1)
+> **Frameworks & Libraries:** [[JSON]] (3), database (2), data (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** abc (4)
 > **Definitions:** is called (1), means that (1)
@@ -2645,7 +2647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), const (3), this. (2), case, (2), async (1)
+> **Frameworks & Libraries:** express (7), database (4), data (2), [[JSON]] (1), full-stack (1)
 > **Env Vars:** url (9)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** getuserbyusername (4)
@@ -2733,7 +2735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), const (2), this. (2), case, (1), async (1)
+> **Frameworks & Libraries:** database (4), [[JSON]] (3)
 > **Analogies:** imagine (1), for example (1), similar to (1), just like (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** fakeerror (1)
@@ -2775,7 +2777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (2), pass (2), case, (1), function (1)
+> **Frameworks & Libraries:** database (2), next (1)
 > **CLI Commands:** make (4)
 > **Warnings:** keep in mind (2)
 > **Cross-References:** next video (1)
@@ -2841,7 +2843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (3), function (2), const (2), case, (2), let (2)
+> **Frameworks & Libraries:** database (5), data (1), [[JSON]] (1), [[npm]] (1)
 > **CLI Commands:** make (5), npm (1)
 > **Code Identifiers:** getuserbyusername (2), setdatabasedata (1)
 > **Definitions:** means that (2), is a  (1)
@@ -2853,7 +2855,7 @@ created: 2026-04-29
 
 ### 7. Running Tests
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Run tests automatically
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980)
@@ -2888,9 +2890,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (2), [[JSON]] (1)
 > **CLI Commands:** make (4), npm (2), find (1)
 > **File Paths:** package.json (1), server.js (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** tdd (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -2948,7 +2950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), finally, (1), pass (1)
+> **Frameworks & Libraries:** [[npm]] (5), [[HTML]] (2), hit (2), [[Software Development]] (1), teams (1)
 > **CLI Commands:** npm (5), find (1)
 > **File Paths:** package.json (1), index.html (1), server.test.js (1), server.js (1)
 > **Env Vars:** tdd (1), node_env (1)
@@ -2960,7 +2962,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980)
@@ -3001,8 +3003,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (3), [[LinkedIn]] (3), [[Unit Testing]] (1), [[JavaScript]] (1), [[Search]] (1)
 > **Env Vars:** tdd (3)
-> **Code Keywords:** continue (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [shaun] (1)
 

@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20Approaches%20to%20Business%20Challenges.md)
@@ -53,28 +53,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Transform your business with gen AI
+  - [Transform your business with gen AI](#transform-your-business-with-gen-ai)
 - [**1. Introduction to Generative AI**](#1-introduction-to-generative-ai) (3 videos)
-  - What is generative AI?
-  - Explore AI systems
-  - Prompt gen AI models
+  - [What is generative AI?](#what-is-generative-ai)
+  - [Explore AI systems](#explore-ai-systems)
+  - [Prompt gen AI models](#prompt-gen-ai-models)
 - [**2. Applying Gen AI to Business Challenges**](#2-applying-gen-ai-to-business-challenges) (6 videos)
-  - Identify common business challenges
-  - Create engaging content
-  - Personalize customer experiences
-  - Analyze unstructured data
-  - Automate tasks
-  - Share and manage knowledge
+  - [Identify common business challenges](#identify-common-business-challenges)
+  - [Create engaging content](#create-engaging-content)
+  - [Personalize customer experiences](#personalize-customer-experiences)
+  - [Analyze unstructured data](#analyze-unstructured-data)
+  - [Automate tasks](#automate-tasks)
+  - [Share and manage knowledge](#share-and-manage-knowledge)
 - [**3. Resources and Ethical Considerations**](#3-resources-and-ethical-considerations) (3 videos)
-  - Explore generative AI resources
-  - Choose the right generative AI tools
-  - Practice ethical AI
+  - [Explore generative AI resources](#explore-generative-ai-resources)
+  - [Choose the right generative AI tools](#choose-the-right-generative-ai-tools)
+  - [Practice ethical AI](#practice-ethical-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Get started
+  - [Get started](#get-started)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your business with gen AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980)
@@ -109,13 +109,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (4), ai (3), business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
 
 
 ### 1. Introduction to Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980)
@@ -170,6 +171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (11), game (2), business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), data (1)
 > **Analogies:** for example (2), kind of like (1), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1)
@@ -233,9 +235,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Large Language Models (LLM)|Large language models]] (5), ai (4), next (4), power (1)
 > **CLI Commands:** make (3)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - if (1)
@@ -287,7 +289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), for. (1), require (1)
+> **Frameworks & Libraries:** prompt (4), [[Generative AI]] (3), ai (2), next (1)
 > **Definitions:** is called (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - when (1)
@@ -295,7 +297,7 @@ created: 2026-04-29
 
 ### 2. Applying Gen AI to Business Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify common business challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/identify-common-business-challenges?u=76281980)
@@ -352,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (2)
+> **Frameworks & Libraries:** business (4), ai (2), data (2), [[Automation]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
@@ -429,8 +431,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), ai (4), [[Generative AI]] (2), [[Content Creation]] (2), next (2)
 > **Analogies:** for instance (2), for example (1), such as (1)
-> **Code Keywords:** let (1), include, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
@@ -480,7 +482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** product (4), data (4), [[Generative AI]] (3), ai (3), [[Forms]] (2)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - personalized (1)
 
@@ -537,9 +539,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Unstructured Data]] (6), [[Generative AI]] (4), ai (3), business (2)
 > **Analogies:** imagine (1), similar to (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - imagine (1)
 
 #### Automate tasks
@@ -591,8 +593,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (6), product (6), [[Generative AI]] (5), data (4), next (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - when (1)
 
@@ -643,8 +645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Generative AI]] (6), ai (6), [[Fetch]] (2), [[SQL]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** sql (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
@@ -653,7 +655,7 @@ created: 2026-04-29
 
 ### 3. Resources and Ethical Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore generative AI resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980)
@@ -706,7 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), finally, (1), public (1), continue (1), new, (1)
+> **Frameworks & Libraries:** ai (12), open-source (3), [[Generative AI]] (2), data (2), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - generative (1)
 
@@ -763,7 +765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), finally, (1)
+> **Frameworks & Libraries:** business (6), ai (4), [[Generative AI]] (2), [[Generative AI Tools]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - like (1)
 
@@ -810,9 +812,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Generative AI]] (5), data (4), business (2), [[Privacy]] (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - consider (1)
@@ -820,7 +822,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980)
@@ -855,6 +857,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Generative AI]] (4), ai (2), power (1), data (1)
 > **Speakers:** - thank (1)
 
 

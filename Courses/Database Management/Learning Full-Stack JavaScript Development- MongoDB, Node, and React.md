@@ -37,7 +37,7 @@ tags:
   - skill/react-js
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20Full-Stack%20JavaScript%20Development-%20MongoDB%2C%20Node%2C%20and%20React.md)
@@ -56,50 +56,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Learning full-stack JavaScript development
+  - [Learning full-stack JavaScript development](#learning-full-stack-javascript-development)
 - [**1. Getting Started**](#1-getting-started) (7 videos)
-  - Project repo and NPM
-  - Express and TypeScript
-  - Middlewares and templating
-  - Node modules
-  - MongoDB and Docker
-  - React and webpack
-  - ESLint
+  - [Project repo and NPM](#project-repo-and-npm)
+  - [Express and TypeScript](#express-and-typescript)
+  - [Middlewares and templating](#middlewares-and-templating)
+  - [Node modules](#node-modules)
+  - [MongoDB and Docker](#mongodb-and-docker)
+  - [React and webpack](#react-and-webpack)
+  - [ESLint](#eslint)
 - [**2. React Fundamentals**](#2-react-fundamentals) (5 videos)
-  - Why React?
-  - JSX syntax
-  - Function components and props
-  - State and event handlers
-  - Component life-cycle and side effects
+  - [Why React?](#why-react)
+  - [JSX syntax](#jsx-syntax)
+  - [Function components and props](#function-components-and-props)
+  - [State and event handlers](#state-and-event-handlers)
+  - [Component life-cycle and side effects](#component-life-cycle-and-side-effects)
 - [**3. Working with Data**](#3-working-with-data) (8 videos)
-  - Creating a mock API endpoint
-  - Using an API endpoint from the browser
-  - Rendering a list of items
-  - React’s key for items in a list
-  - Fetching data while React is rendering
-  - Server-side rendering of the root path
-  - Sharing data between server and client
-  - Fetching data from MongoDB
+  - [Creating a mock API endpoint](#creating-a-mock-api-endpoint)
+  - [Using an API endpoint from the browser](#using-an-api-endpoint-from-the-browser)
+  - [Rendering a list of items](#rendering-a-list-of-items)
+  - [React’s key for items in a list](#reacts-key-for-items-in-a-list)
+  - [Fetching data while React is rendering](#fetching-data-while-react-is-rendering)
+  - [Server-side rendering of the root path](#server-side-rendering-of-the-root-path)
+  - [Sharing data between server and client](#sharing-data-between-server-and-client)
+  - [Fetching data from MongoDB](#fetching-data-from-mongodb)
 - [**4. Routing and History**](#4-routing-and-history) (7 videos)
-  - Invoking component actions in children
-  - Displaying a different root component
-  - Fetching data after navigating to a new view
-  - Handling browser navigation history
-  - Server-side rendering of a custom path
-  - Fetching data conditionally
-  - Navigating on link click
+  - [Invoking component actions in children](#invoking-component-actions-in-children)
+  - [Displaying a different root component](#displaying-a-different-root-component)
+  - [Fetching data after navigating to a new view](#fetching-data-after-navigating-to-a-new-view)
+  - [Handling browser navigation history](#handling-browser-navigation-history)
+  - [Server-side rendering of a custom path](#server-side-rendering-of-a-custom-path)
+  - [Fetching data conditionally](#fetching-data-conditionally)
+  - [Navigating on link click](#navigating-on-link-click)
 - [**5. Persisting Data**](#5-persisting-data) (7 videos)
-  - Handling data in an array
-  - Reading form data with the DOM API
-  - Understanding HTTP request methods
-  - Using an API endpoint to update data
-  - Updating UI based on API response
-  - Project challenge
-  - Next steps
+  - [Handling data in an array](#handling-data-in-an-array)
+  - [Reading form data with the DOM API](#reading-form-data-with-the-dom-api)
+  - [Understanding HTTP request methods](#understanding-http-request-methods)
+  - [Using an API endpoint to update data](#using-an-api-endpoint-to-update-data)
+  - [Updating UI based on API response](#updating-ui-based-on-api-response)
+  - [Project challenge](#project-challenge)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning full-stack JavaScript development
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980)
@@ -212,9 +212,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (13), [[MongoDB]] (7), node (6), data (6), application (5)
 > **CLI Commands:** node (6), make (6), git (2)
 > **Env Vars:** api (5), html (2), css (1), jsx (1)
-> **Code Keywords:** else. (1), let (1), interface (1), pass (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** jscomplete (1)
 > **URLs:** [jscomplete.com](https://jscomplete.com) (1)
@@ -224,7 +224,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project repo and NPM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980)
@@ -403,11 +403,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (19), node (11), [[React.js|React]] (11), [[Git]] (7), [[JavaScript]] (7)
 > **CLI Commands:** npm (19), node (13), git (7), npx (3), make (3)
 > **Env Vars:** npm (19), jsx (4), npx (3), url (2), tsc (2)
 > **Prerequisites:** install (11), configure (3), set up (1), you'll need (1)
 > **File Paths:** package.json (6), node.js (2)
-> **Code Keywords:** let (4), interface (1), this. (1)
 > **Tools:** command line (2), github (2), vs code (2)
 > **Definitions:** is a  (5)
 > **Exercise Files:** template (3), clone the repo (1)
@@ -557,9 +557,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (13), [[npm]] (5), node (3), api (2), web (1)
 > **Env Vars:** npx (7), npm (5), tsnd (5), tsc (4), api (2)
 > **CLI Commands:** npx (7), npm (5), make (3), node (3)
-> **Code Keywords:** let (9), module (2), public (1), this. (1), delete (1)
 > **File Paths:** server.ts (6), express.js (1), servers.ts (1), server.js (1), config.json (1)
 > **Prerequisites:** install (2), configure (2)
 > **Definitions:** short for (1), is a  (1), is called (1)
@@ -737,8 +737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (15), express (13), css (6), [[JavaScript]] (6), [[Debugging]] (3)
 > **Env Vars:** html (15), ejs (14), css (4), npm (2), api (1)
-> **Code Keywords:** let (10), function (6), static (4), pass (2), continue (1)
 > **CLI Commands:** make (5), npm (2), node (1), find (1)
 > **Analogies:** for example (9)
 > **Exercise Files:** template (7), source code (1)
@@ -953,7 +953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), module (15), function (5), const (3), this. (1)
+> **Frameworks & Libraries:** node (25), [[npm]] (5), [[JavaScript]] (3), api (1)
 > **CLI Commands:** node (25), make (6), npm (5), find (3)
 > **Definitions:** is a  (9), is an  (2)
 > **Analogies:** for example (8), just like (3)
@@ -1169,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (12), async (3), module (2), const (2)
+> **Frameworks & Libraries:** [[MongoDB]] (25), database (21), data (7), node (3), [[Jetpack Compose|Compose]] (2)
 > **CLI Commands:** docker (13), make (5), node (3), mongo (2)
 > **Env Vars:** uri (7), api (2), mpn (2), tsnd (2), url (2)
 > **Prerequisites:** install (4), you'll need (2), configure (1)
@@ -1345,7 +1345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (7), pass (2), const (1), module (1)
+> **Frameworks & Libraries:** [[React.js|React]] (31), dom (15), [[JavaScript]] (7), api (5), [[npm]] (4)
 > **Env Vars:** jsx (6), dom (5), api (5), html (3), jss (1)
 > **CLI Commands:** npm (4), node (2), find (1)
 > **Code Identifiers:** createroot (3), getelementbyid (2), initialcontent (2)
@@ -1427,8 +1427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (9), [[React.js|React]] (5), [[Git]] (2), [[npm]] (2), node (1)
 > **CLI Commands:** git (2), npm (2), node (1), make (1)
-> **Code Keywords:** let (5), continue (1)
 > **Best Practices:** recommended (4)
 > **Env Vars:** npm (2), api (1)
 > **Prerequisites:** install (2), getting started (1)
@@ -1439,7 +1439,7 @@ created: 2026-04-29
 
 ### 2. React Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980)
@@ -1484,8 +1484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (15), dom (3), [[HTML]] (3), api (2), [[JavaScript]] (1)
 > **Env Vars:** dom (3), html (3), api (2)
-> **Code Keywords:** interface (2)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -1628,7 +1628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5), this. (4), class. (2), else. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (13), [[HTML]] (6), [[JavaScript]] (4), css (2), [[npm]] (1)
 > **Env Vars:** jsx (7), html (6), todos (3), css (2), dom (1)
 > **Analogies:** for example (4), just like (2)
 > **Code Identifiers:** classname (3)
@@ -1796,7 +1796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), this. (2), pass (2), from . (2)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[HTML]] (3), data (1), management (1), application (1)
 > **File Paths:** app.tsx (3), header.tsx (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (3)
@@ -1928,7 +1928,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (4), this. (2), pass (1), else. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (19), data (4), dom (3), [[HTML]] (2), application (1)
 > **Definitions:** is a  (5), is an  (1), is called (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2), api (1)
@@ -2083,7 +2083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (22), let (8), pass (1), case, (1), abstract (1)
+> **Frameworks & Libraries:** [[React.js|React]] (19), dom (6), [[Fetch]] (2), data (2), api (2)
 > **Code Identifiers:** useeffect (18), setinterval (5), usestate (3), intervalid (2), clearinterval (1)
 > **Analogies:** for example (5), just like (4)
 > **Env Vars:** dom (6), api (2)
@@ -2095,7 +2095,7 @@ created: 2026-04-29
 
 ### 3. Working with Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a mock API endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980)
@@ -2238,8 +2238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), api (17), [[MongoDB]] (7), express (7), [[JSON]] (4)
 > **Env Vars:** api (8), http (6), post (2), put (2), root (2)
-> **Code Keywords:** let (11), delete (2), function (2), from. (2), interface (1)
 > **API Endpoints:** get  (5), /api/contests (2), post  (1), put  (1), /api/contest (1)
 > **File Paths:** test-data.json (2), api-router.ts (1), server.ts (1)
 > **Definitions:** is a  (4)
@@ -2464,7 +2464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (11), require (7), public (3), module (2)
+> **Frameworks & Libraries:** api (14), data (9), node (8), [[React.js|React]] (4), [[JavaScript]] (4)
 > **Env Vars:** api (14), url (4), http (4), npm (2), xml (1)
 > **CLI Commands:** node (8), npm (2), make (1)
 > **Definitions:** is a  (8), is an  (2), is called (1)
@@ -2698,7 +2698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), pass (8), function (6), else. (1), this, (1)
+> **Frameworks & Libraries:** data (19), [[React.js|React]] (5), api (4), application (2), [[HTML]] (2)
 > **CLI Commands:** make (13)
 > **Env Vars:** api (4), html (1)
 > **Definitions:** is a  (3)
@@ -2829,7 +2829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2), this, (1), case. (1), import. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (17), power (1), functional (1), generic (1)
 > **Definitions:** is a  (6), defined as (1), is an  (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** drag and drop (2)
@@ -3030,7 +3030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (4), module (2), async (2), case, (1)
+> **Frameworks & Libraries:** data (22), [[React.js|React]] (16), [[Fetch]] (12), api (5), dom (1)
 > **Env Vars:** api (5), dom (1), url (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (5), we call this (1)
@@ -3172,7 +3172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (7), async (2), await (2), module (1)
+> **Frameworks & Libraries:** data (14), [[React.js|React]] (11), application (10), [[Fetch]] (10), api (7)
 > **Env Vars:** api (7), ejs (3), html (2), url (2), tsx (1)
 > **File Paths:** server.ts (3), render.tsx (1), index.tsx (1)
 > **Definitions:** is a  (2), basically means (1)
@@ -3276,7 +3276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** data (22), [[React.js|React]] (7), application (2), api (2), hit (1)
 > **File Paths:** index.tsx (2), server.ts (1)
 > **Env Vars:** api (2)
 > **Exercise Files:** template (2)
@@ -3446,7 +3446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (7), await (3), pass (3), async (2)
+> **Frameworks & Libraries:** [[MongoDB]] (11), data (9), express (4), api (3), [[Fetch]] (2)
 > **CLI Commands:** find (8), mongo (2), make (1)
 > **Env Vars:** url (5), api (1)
 > **Analogies:** for example (2), just like (1), similar to (1)
@@ -3458,7 +3458,7 @@ created: 2026-04-29
 
 ### 4. Routing and History
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Invoking component actions in children
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980)
@@ -3651,7 +3651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (11), pass (5), switch (3), else. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10), dom (3), api (1), data (1), [[MongoDB]] (1)
 > **UI Navigation:** navigate to (4), click on (2), go to (1)
 > **Env Vars:** dom (3), api (1)
 > **Definitions:** is a  (3)
@@ -3741,7 +3741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), pass (3)
+> **Frameworks & Libraries:** [[React.js|React]] (3), power (2), api (1), next (1), [[Fetch]] (1)
 > **UI Navigation:** navigate to (4), click on (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (4)
@@ -3921,7 +3921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), pass (2), default. (1), class. (1)
+> **Frameworks & Libraries:** [[Fetch]] (13), api (7), [[React.js|React]] (6), data (2), [[Big Data Analytics]] (2)
 > **Env Vars:** api (7), html (1)
 > **Analogies:** similar to (3), just like (2)
 > **UI Navigation:** go to (3), click on (1)
@@ -4027,8 +4027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (15), data (10), application (7), [[React.js|React]] (5), dom (1)
 > **Env Vars:** api (15), url (11), dom (1)
-> **Code Keywords:** let (12), function (6), class, (1), pass (1)
 > **Definitions:** is a  (10), we call this (1)
 > **UI Navigation:** go to (3), navigate to (3), click on (1)
 > **Code Identifiers:** pushstate (4), useeffect (2)
@@ -4225,7 +4225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), pass (5), function (2), this. (1), require (1)
+> **Frameworks & Libraries:** data (19), [[Fetch]] (3), [[JavaScript]] (2), express (1), api (1)
 > **File Paths:** main.js (5), server.ts (3)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** make (5)
@@ -4327,7 +4327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), case. (1)
+> **Frameworks & Libraries:** data (19), [[Fetch]] (10), api (4), [[JavaScript]] (2), generic (1)
 > **UI Navigation:** go to (5), navigate to (1), click on (1)
 > **Env Vars:** api (4), dtb (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -4488,7 +4488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (7), pass (3)
+> **Frameworks & Libraries:** [[Fetch]] (7), data (7), application (6), [[HTML]] (4), [[React.js|React]] (3)
 > **UI Navigation:** go to (9), navigate to (4)
 > **Cross-References:** go back to (5)
 > **Env Vars:** api (3), url (1)
@@ -4500,7 +4500,7 @@ created: 2026-04-29
 
 ### 5. Persisting Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling data in an array
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980)
@@ -4589,7 +4589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (1), this, (1)
+> **Frameworks & Libraries:** data (3), [[HTML]] (2), [[React.js|React]] (2), database (1), css (1)
 > **Env Vars:** html (2), css (1)
 > **Code Identifiers:** proposedname (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -4687,8 +4687,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (18), [[React.js|React]] (12), api (6), data (5), next (2)
 > **Env Vars:** dom (18), api (6), html (2), div (2), url (1)
-> **Code Keywords:** let (10), function (2), default, (1), case, (1)
 > **Definitions:** is a  (3), we call this (1)
 > **Analogies:** kind of like (2), for example (1), just like (1)
 > **CLI Commands:** make (3)
@@ -4753,7 +4753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), async (1)
+> **Frameworks & Libraries:** api (3), database (3), data (2), [[MongoDB]] (2), next (1)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (2)
@@ -4994,7 +4994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (8), pass (7), await (2), case. (2)
+> **Frameworks & Libraries:** data (6), api (6), express (4), [[JSON]] (3), [[MongoDB]] (2)
 > **Code Identifiers:** newnamevalue (6), findoneandupdate (3), addnewnametocontes (1), newnameinput (1), returndocument (1)
 > **Env Vars:** api (5), url (2), json (2), post (1)
 > **Definitions:** is a  (4), is an  (4), we call this (1)
@@ -5030,8 +5030,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1), dom (1), api (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** api (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -5084,9 +5084,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), data (2), hit (1), dom (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** mongo (2), make (1), find (1), git (1)
 > **Env Vars:** api (4), dom (1)
-> **Code Keywords:** let (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5139,8 +5139,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[React.js|React]] (2), application (1), feature (1), open-source (1)
 > **CLI Commands:** find (2), make (1), node (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 

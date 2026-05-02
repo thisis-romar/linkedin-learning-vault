@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/elasticsearch
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Elasticsearch%20Essential%20Training%20(2023).md)
@@ -48,39 +48,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Explore Elasticsearch for your data
-  - What you should know
+  - [Explore Elasticsearch for your data](#explore-elasticsearch-for-your-data)
+  - [What you should know](#what-you-should-know)
 - [**1. Overview**](#1-overview) (5 videos)
-  - Elasticsearch origins
-  - Elastic the company
-  - Elastic Stack overview
-  - Use cases
-  - Elasticsearch concepts
+  - [Elasticsearch origins](#elasticsearch-origins)
+  - [Elastic the company](#elastic-the-company)
+  - [Elastic Stack overview](#elastic-stack-overview)
+  - [Use cases](#use-cases)
+  - [Elasticsearch concepts](#elasticsearch-concepts)
 - [**2. Setup**](#2-setup) (2 videos)
-  - Running Elasticsearch in the cloud
-  - Exploring your cluster
+  - [Running Elasticsearch in the cloud](#running-elasticsearch-in-the-cloud)
+  - [Exploring your cluster](#exploring-your-cluster)
 - [**3. Loading Data**](#3-loading-data) (3 videos)
-  - Bulk loading data
-  - Loading sample data
-  - Setting data types
+  - [Bulk loading data](#bulk-loading-data)
+  - [Loading sample data](#loading-sample-data)
+  - [Setting data types](#setting-data-types)
 - [**4. Querying Data**](#4-querying-data) (3 videos)
-  - Simple queries
-  - Term-level queries
-  - Analysis and tokenization
+  - [Simple queries](#simple-queries)
+  - [Term-level queries](#term-level-queries)
+  - [Analysis and tokenization](#analysis-and-tokenization)
 - [**5. Analyzing Your Data**](#5-analyzing-your-data) (3 videos)
-  - Basic aggregations
-  - Filtering aggregations
-  - Percentiles and histograms
+  - [Basic aggregations](#basic-aggregations)
+  - [Filtering aggregations](#filtering-aggregations)
+  - [Percentiles and histograms](#percentiles-and-histograms)
 - [**6. Presenting Your Insights**](#6-presenting-your-insights) (3 videos)
-  - Kibana overview and setup
-  - Creating visualizations in Kibana
-  - Creating dashboards in Kibana
+  - [Kibana overview and setup](#kibana-overview-and-setup)
+  - [Creating visualizations in Kibana](#creating-visualizations-in-kibana)
+  - [Creating dashboards in Kibana](#creating-dashboards-in-kibana)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with Elasticsearch
+  - [Next steps with Elasticsearch](#next-steps-with-elasticsearch)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Elasticsearch for your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/explore-elasticsearch-for-your-data?u=76281980)
@@ -103,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Elasticsearch]] (4), data (2), [[Search]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [ben] (1)
@@ -122,7 +123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (3), [[JavaScript]] (2), data (2), [[JSON]] (1), web (1)
 > **Env Vars:** json (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -130,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elasticsearch origins
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980)
@@ -177,9 +178,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), [[Elasticsearch]] (7), data (4), web (2), open-source (1)
 > **CLI Commands:** apache (2), cat (1), python (1), find (1)
 > **Env Vars:** hdfs (1), json (1), http (1), net (1)
-> **Code Keywords:** let (1), interface (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -206,10 +207,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[Security]] (1), [[Hadoop]] (1), business (1)
 > **Definitions:** is a  (3), known as (1)
 > **Env Vars:** elk (2)
 > **Analogies:** such as (1), similar to (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Elastic Stack overview
@@ -275,8 +276,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Elasticsearch]] (7), [[Search]] (3), etl (1), database (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), is called (1), stands for (1)
-> **Code Keywords:** let (2), interface (2), for. (1)
 > **Env Vars:** etl (1), http (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -314,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), case, (1), from, (1), from. (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (7), data (5), [[Security]] (4), web (3), [[React.js|React]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -365,9 +366,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), [[Elasticsearch]] (3), data (2), [[Search]] (1), product (1)
 > **CLI Commands:** node (7), make (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** this. (1), let (1), for. (1), this, (1)
 > **Analogies:** imagine (1), such as (1), similar to (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Env Vars:** json (1)
@@ -376,7 +377,7 @@ created: 2026-04-29
 
 ### 2. Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running Elasticsearch in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980)
@@ -439,7 +440,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), else. (1), self (1), this, (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), cloud (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), aws (1)
 > **CLI Commands:** find (2), aws (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **URLs:** [elastic.co](https://elastic.co) (1)
@@ -586,7 +587,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (3), this. (1), pass (1)
+> **Frameworks & Libraries:** data (7), hit (3), application (3), [[JSON]] (2), web (1)
 > **UI Navigation:** dropdown (2), open the (1), click on (1)
 > **CLI Commands:** cat (1), go run (1)
 > **Env Vars:** json (2)
@@ -598,7 +599,7 @@ created: 2026-04-29
 
 ### 3. Loading Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bulk loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980)
@@ -791,8 +792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), api (8), hit (8), [[Elasticsearch]] (6), [[Windows]] (5)
 > **Env Vars:** api (8), es_host (3), json (3), es_api_key (2), url (1)
-> **Code Keywords:** let (5), interface (2), this, (2), type, (1)
 > **Tools:** terminal (6), bash (1)
 > **CLI Commands:** curl (3), ls (1), find (1)
 > **API Endpoints:** get  (2), post  (1)
@@ -937,7 +938,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1), raise (1), case, (1)
+> **Frameworks & Libraries:** data (22), [[Elasticsearch]] (9), [[Windows]] (3), hit (3), api (3)
 > **CLI Commands:** curl (2), make (2), cd (1)
 > **Env Vars:** api (3)
 > **UI Navigation:** scroll down (2), click on (1)
@@ -1153,7 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type. (5), delete (3), this, (3), for. (1)
+> **Frameworks & Libraries:** data (47), [[Elasticsearch]] (9), [[JSON]] (4), api (3), hit (3)
 > **Code Identifiers:** geo_point (5), geo_shape (2), play_name (2), speech_number (2), geo_points (1)
 > **CLI Commands:** curl (5), cat (2), ls (1), make (1)
 > **Env Vars:** api (3), post (2), json (1), url (1), scene (1)
@@ -1165,7 +1166,7 @@ created: 2026-04-29
 
 ### 4. Querying Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980)
@@ -1382,7 +1383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), match. (4), for. (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (9), [[Elasticsearch]] (6), data (6), hit (6), api (4)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** api (4), sql (2)
 > **Definitions:** is a  (2), is called (1)
@@ -1526,7 +1527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (3), match. (1), case, (1), pass (1)
+> **Frameworks & Libraries:** [[Search]] (4), data (4), [[Elasticsearch]] (2), api (2), hit (2)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (2), find (2)
 > **API Endpoints:** get  (3)
@@ -1732,7 +1733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (1), pass (1), case. (1), type. (1)
+> **Frameworks & Libraries:** data (8), [[Tokens]] (5), hit (4), [[Microsoft Word|Word]] (4), [[Elasticsearch]] (2)
 > **URLs:** [example.com](https://example.com) (2), [https://ben](https://ben) (1), [sullins.com](https://sullins.com) (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** url (2)
@@ -1744,7 +1745,7 @@ created: 2026-04-29
 
 ### 5. Analyzing Your Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic aggregations
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/basic-aggregations?u=76281980)
@@ -1929,7 +1930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (2), this. (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (8), [[Elasticsearch]] (4), hit (4), [[Search]] (3), api (2)
 > **Code Identifiers:** doc_count (3), avg_bal (1)
 > **CLI Commands:** find (1), make (1)
 > **API Endpoints:** get  (2)
@@ -2065,7 +2066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), match, (1), this, (1), function (1)
+> **Frameworks & Libraries:** data (5), [[Elasticsearch]] (2), [[Search]] (2), hit (2), business (1)
 > **Env Vars:** sql (1), api (1)
 > **Definitions:** essentially is (1), is a  (1)
 > **Analogies:** imagine (1), just like (1)
@@ -2198,7 +2199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), type, (1), pass (1)
+> **Frameworks & Libraries:** data (5), [[Statistics]] (4), [[Elasticsearch]] (3), [[Search]] (1), api (1)
 > **Code Identifiers:** percentile_ranks (2), pct_balances (1), bal_outlier (1)
 > **CLI Commands:** make (1), find (1)
 > **API Endpoints:** get  (2)
@@ -2210,7 +2211,7 @@ created: 2026-04-29
 
 ### 6. Presenting Your Insights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kibana overview and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980)
@@ -2271,7 +2272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), interface (1), require (1), else. (1)
+> **Frameworks & Libraries:** data (15), web (2), [[Analytics]] (2), cloud (2), [[Elasticsearch]] (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -2532,7 +2533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (3), this. (3), this, (2), from. (1)
+> **Frameworks & Libraries:** data (8), [[Zoom]] (4), feature (2), traffic (2), [[Tableau]] (2)
 > **UI Navigation:** click on (10)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** kpi (4)
@@ -2680,7 +2681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Dashboards]] (2), next (2), traffic (2), feature (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (1), png (1)
 > **UI Navigation:** dropdown (1)
@@ -2690,7 +2691,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Elasticsearch
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980)
@@ -2715,8 +2716,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Elasticsearch]] (2), [[Search]] (1), [[DevOps]] (1), [[Data Science Foundations]] (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** continue (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - as (1)
 

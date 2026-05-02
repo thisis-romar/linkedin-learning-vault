@@ -28,7 +28,7 @@ tags:
   - topic/hardware
   - skill/programmable-logic-controller-plc
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20PLC%20Ladder%20Logic-%202%20Diving%20Deeper.md)
@@ -47,66 +47,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn to climb the PLC ladder
-  - What you should know
-  - Using LogixPro PLC software simulation
+  - [Learn to climb the PLC ladder](#learn-to-climb-the-plc-ladder)
+  - [What you should know](#what-you-should-know)
+  - [Using LogixPro PLC software simulation](#using-logixpro-plc-software-simulation)
 - [**1. PLC Data Input/Output BCD**](#1-plc-data-inputoutput-bcd) (11 videos)
-  - Introduction to binary coded decimal
-  - Thumbwheel in PLC
-  - FRD instruction
-  - Example: FRD
-  - Solution: FRD
-  - LED displays in PLC
-  - TOD instruction
-  - Example: TOD
-  - Solution: TOD
-  - Example: FRD and TOD
-  - Solution: FRD and TOD
+  - [Introduction to binary coded decimal](#introduction-to-binary-coded-decimal)
+  - [Thumbwheel in PLC](#thumbwheel-in-plc)
+  - [FRD instruction](#frd-instruction)
+  - [Example: FRD](#example-frd)
+  - [Solution: FRD](#solution-frd)
+  - [LED displays in PLC](#led-displays-in-plc)
+  - [TOD instruction](#tod-instruction)
+  - [Example: TOD](#example-tod)
+  - [Solution: TOD](#solution-tod)
+  - [Example: FRD and TOD](#example-frd-and-tod)
+  - [Solution: FRD and TOD](#solution-frd-and-tod)
 - [**2. Math Instructions**](#2-math-instructions) (10 videos)
-  - Introduction to math instructions
-  - Types of math instructions
-  - Considerations with math instructions
-  - Example: Convert Fahrenheit to Celsius
-  - Solution: Convert Fahrenheit to Celsius
-  - Example: Use arithmetic instructions
-  - Solution 1: Use arithmetic instructions
-  - Solution 2: Use arithmetic instructions
-  - ONS: One-shot instruction
-  - Example: ONS with math instructions
+  - [Introduction to math instructions](#introduction-to-math-instructions)
+  - [Types of math instructions](#types-of-math-instructions)
+  - [Considerations with math instructions](#considerations-with-math-instructions)
+  - [Example: Convert Fahrenheit to Celsius](#example-convert-fahrenheit-to-celsius)
+  - [Solution: Convert Fahrenheit to Celsius](#solution-convert-fahrenheit-to-celsius)
+  - [Example: Use arithmetic instructions](#example-use-arithmetic-instructions)
+  - [Solution 1: Use arithmetic instructions](#solution-1-use-arithmetic-instructions)
+  - [Solution 2: Use arithmetic instructions](#solution-2-use-arithmetic-instructions)
+  - [ONS: One-shot instruction](#ons-one-shot-instruction)
+  - [Example: ONS with math instructions](#example-ons-with-math-instructions)
 - [**3. Data Compare Instructions**](#3-data-compare-instructions) (7 videos)
-  - Introduction to comparison instructions
-  - Common comparison instructions
-  - Example: Comparison instruction
-  - Solution: Comparison instruction
-  - Limit Comparison instruction
-  - Example and solution 1: LIM
-  - Example and solution 2: LIM
+  - [Introduction to comparison instructions](#introduction-to-comparison-instructions)
+  - [Common comparison instructions](#common-comparison-instructions)
+  - [Example: Comparison instruction](#example-comparison-instruction)
+  - [Solution: Comparison instruction](#solution-comparison-instruction)
+  - [Limit Comparison instruction](#limit-comparison-instruction)
+  - [Example and solution 1: LIM](#example-and-solution-1-lim)
+  - [Example and solution 2: LIM](#example-and-solution-2-lim)
 - [**4. Data Transfer Operation**](#4-data-transfer-operation) (7 videos)
-  - Introduction to MOV instruction
-  - Example: MOV instruction
-  - Solution: MOV instruction
-  - Masked move instruction
-  - Mask parameter
-  - Example: MVM instruction
-  - Solution: MVM instruction
+  - [Introduction to MOV instruction](#introduction-to-mov-instruction)
+  - [Example: MOV instruction](#example-mov-instruction)
+  - [Solution: MOV instruction](#solution-mov-instruction)
+  - [Masked move instruction](#masked-move-instruction)
+  - [Mask parameter](#mask-parameter)
+  - [Example: MVM instruction](#example-mvm-instruction)
+  - [Solution: MVM instruction](#solution-mvm-instruction)
 - [**5. Sequence Logic**](#5-sequence-logic) (11 videos)
-  - Introduction to sequence logic
-  - Introduction to state diagrams
-  - Example: Develop a state diagram
-  - Solution: Develop a state diagram
-  - Understand bottle style logic
-  - Example: Sequential process
-  - Solution 1: Develop the state diagram
-  - Solution 2: Bottle logic for state 1
-  - Solution 3: Control section
-  - Solution 4: Output section
-  - Solution 5: Using the software
+  - [Introduction to sequence logic](#introduction-to-sequence-logic)
+  - [Introduction to state diagrams](#introduction-to-state-diagrams)
+  - [Example: Develop a state diagram](#example-develop-a-state-diagram)
+  - [Solution: Develop a state diagram](#solution-develop-a-state-diagram)
+  - [Understand bottle style logic](#understand-bottle-style-logic)
+  - [Example: Sequential process](#example-sequential-process)
+  - [Solution 1: Develop the state diagram](#solution-1-develop-the-state-diagram)
+  - [Solution 2: Bottle logic for state 1](#solution-2-bottle-logic-for-state-1)
+  - [Solution 3: Control section](#solution-3-control-section)
+  - [Solution 4: Output section](#solution-4-output-section)
+  - [Solution 5: Using the software](#solution-5-using-the-software)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to climb the PLC ladder
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980)
@@ -137,6 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (5), [[Programming]] (4), [[LinkedIn]] (2), [[Microsoft Products|Products]] (1), data (1)
 > **Env Vars:** plc (5)
 > **Analogies:** just like (1)
 > **Speakers:** - everyday (1)
@@ -166,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), plc (3), data (1), [[Simulation Software]] (1)
 > **Env Vars:** plc (3)
 > **Speakers:** - before (1)
 
@@ -186,13 +188,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), [[Simulation Software]] (3)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. PLC Data Input/Output BCD
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to binary coded decimal
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-binary-coded-decimal?u=76281980)
@@ -247,8 +250,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), power (3), application (1), data (1), next (1)
 > **Env Vars:** bcd (12), plc (3)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [female (1)
 
@@ -285,8 +288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (6), [[Programming]] (1)
 > **Env Vars:** plc (6), bcd (4), frd (1)
-> **Code Keywords:** switch (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -353,8 +356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (4), data (2), [[Simulation Software]] (1)
 > **Env Vars:** frd (9), bcd (6), plc (4)
-> **Code Keywords:** switch (3)
 > **Definitions:** is an  (2), is a  (1)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** find (1)
@@ -381,7 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), module (2), let (1)
+> **Frameworks & Libraries:** product (1), plc (1)
 > **Env Vars:** plc (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -417,7 +420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (2), module (1)
+> **Frameworks & Libraries:** [[Programming]] (2), plc (1)
 > **Env Vars:** frd (4), plc (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** for example (1)
@@ -449,6 +452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3)
 > **Env Vars:** led (5), bcd (4), plc (3), tod (2), frd (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -484,8 +488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (1)
 > **Env Vars:** bcd (7), tod (3), led (2), plc (1), frd (1)
-> **Code Keywords:** from, (2), module (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -516,7 +520,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** led (2), tod (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: TOD
@@ -570,8 +573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), plc (1), [[Programming]] (1), data (1), hit (1)
 > **Env Vars:** led (3), plc (1), tod (1), xic (1), xio (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -609,7 +612,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), let (1)
 > **Env Vars:** led (4), rfd (1), tod (1)
 > **Speakers:** - [narrator] (1)
 
@@ -658,8 +660,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** frd (4), tod (2), led (2), xic (1)
-> **Code Keywords:** switch (6), let (1)
 > **Analogies:** for example (2)
 > **Versions:** 0.1 (1)
 > **Cross-References:** in the next (1)
@@ -669,7 +671,7 @@ created: 2026-04-29
 
 ### 2. Math Instructions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to math instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-math-instructions?u=76281980)
@@ -700,6 +702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -738,7 +741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** plc (1), [[Debugging]] (1)
 > **Env Vars:** plc (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -796,8 +799,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), hit (2), plc (2), power (1)
 > **Env Vars:** run (2), plc (2), xic (1)
-> **Code Keywords:** switch (1), let (1), require (1), case, (1)
 > **UI Navigation:** click on (3)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -818,7 +821,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), module (2)
 > **Env Vars:** led (2)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -868,8 +870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** tod (2), frd (1), bcd (1), lod (1)
-> **Code Keywords:** switch (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -896,8 +898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** led (3)
-> **Code Keywords:** switch (2)
 > **Speakers:** - [instructor] (1)
 
 #### Solution 1: Use arithmetic instructions
@@ -947,8 +949,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (1)
 > **Env Vars:** xio (2), frd (1), plc (1), xic (1)
-> **Code Keywords:** switch (2)
 > **Versions:** 0.1 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1010,8 +1012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Simulation Software]] (1)
 > **Env Vars:** led (3), tod (1)
-> **Code Keywords:** finally, (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1056,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), type, (1), case. (1), let (1)
+> **Frameworks & Libraries:** power (2)
 > **Env Vars:** xic (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1120,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (1)
+> **Frameworks & Libraries:** data (3), [[Simulation Software]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** n70 (2)
 > **UI Navigation:** select the (1), go to (1)
@@ -1131,7 +1133,7 @@ created: 2026-04-29
 
 ### 3. Data Compare Instructions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to comparison instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-comparison-instructions?u=76281980)
@@ -1160,6 +1162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1198,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), type. (1)
+> **Frameworks & Libraries:** plc (1), [[Programming]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
@@ -1228,7 +1231,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1)
 > **Speakers:** - [narrator] (1)
 
 #### Solution: Comparison instruction
@@ -1278,6 +1280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation Software]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1304,6 +1307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1346,8 +1350,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1)
 > **Env Vars:** rpm (2), frd (1), led (1)
-> **Code Keywords:** let (1), switch (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1399,15 +1403,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation Software]] (1), plc (1)
 > **Env Vars:** led (7), frd (1), plc (1)
-> **Code Keywords:** switch (3), let (1), case, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Data Transfer Operation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to MOV instruction
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980)
@@ -1436,8 +1440,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (3), [[Programming]] (1)
 > **Env Vars:** mov (3)
-> **Code Keywords:** type. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1460,8 +1464,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** led (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1506,8 +1510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1), [[Simulation Software]] (1)
 > **Env Vars:** led (5), xio (1), tod (1)
-> **Code Keywords:** case, (1), finally, (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1542,8 +1546,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (2)
 > **Definitions:** is an  (2)
-> **Code Keywords:** pass (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1576,7 +1580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5)
+> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1618,7 +1622,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), case, (1)
 > **Env Vars:** led (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1682,15 +1685,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (2), [[Simulation Software]] (1)
 > **Env Vars:** led (3), tod (1)
-> **Code Keywords:** let (1), continue (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Sequence Logic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to sequence logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-sequence-logic?u=76281980)
@@ -1711,8 +1714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (1), generic (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1751,6 +1754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1772,7 +1776,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Develop a state diagram
@@ -1812,6 +1815,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (7)
 > **UI Navigation:** open the (1), go to (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -1856,9 +1860,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (1), [[Programming]] (1)
 > **Definitions:** is a  (1), is called (1), we call this (1)
 > **Env Vars:** plc (1), cln (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Example: Sequential process
@@ -1898,7 +1902,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** [[Programming]] (1), plc (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1961,8 +1965,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4)
 > **Cross-References:** go back to (2)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [teacher] (1)
 
@@ -2007,7 +2011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** plc (1), next (1)
 > **Env Vars:** plc (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -2073,7 +2077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1)
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** xio (1)
 > **Speakers:** - [teacher] (1)
 
@@ -2132,7 +2136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1)
+> **Frameworks & Libraries:** plc (2), [[Programming]] (1)
 > **Env Vars:** plc (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -2218,17 +2222,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation Software]] (2), plc (1), next (1)
 > **UI Navigation:** go to (5), scroll down (4), scroll up (1), click on (1)
 > **Env Vars:** led (7), plc (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980)
@@ -2247,6 +2251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** plc (3), [[Automation]] (3), [[Programming]] (1)
 > **Env Vars:** plc (3)
 > **Documentation:** the documentation (1)
 > **Speakers:** - thank (1)

@@ -26,7 +26,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Linkedin%20Ai%20Academy%20Ai%20100%201%20Demystifying%20Ai.md)
@@ -45,35 +45,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The LinkedIn AI Academy: The imperative of understanding AI
+  - [The LinkedIn AI Academy: The imperative of understanding AI](#the-linkedin-ai-academy-the-imperative-of-understanding-ai)
 - [**1. Introduction to AI**](#1-introduction-to-ai) (4 videos)
-  - What is AI?
-  - AI and machine learning
-  - Three pillars of AI: Objectives, data, algorithms
-  - Building real AI applications
+  - [What is AI?](#what-is-ai)
+  - [AI and machine learning](#ai-and-machine-learning)
+  - [Three pillars of AI: Objectives, data, algorithms](#three-pillars-of-ai-objectives-data-algorithms)
+  - [Building real AI applications](#building-real-ai-applications)
 - [**2. Supervised Learning**](#2-supervised-learning) (1 videos)
-  - Supervised learning vs. unsupervised learning
+  - [Supervised learning vs. unsupervised learning](#supervised-learning-vs-unsupervised-learning)
 - [**3. Regression**](#3-regression) (5 videos)
-  - What is regression?
-  - Linear regression
-  - Multiple linear regression
-  - Bias and variance
-  - Evaluating a linear regression model
+  - [What is regression?](#what-is-regression)
+  - [Linear regression](#linear-regression)
+  - [Multiple linear regression](#multiple-linear-regression)
+  - [Bias and variance](#bias-and-variance)
+  - [Evaluating a linear regression model](#evaluating-a-linear-regression-model)
 - [**4. Classification**](#4-classification) (3 videos)
-  - What is classification?
-  - Logistic regression
-  - Evaluating models and choosing the best
+  - [What is classification?](#what-is-classification)
+  - [Logistic regression](#logistic-regression)
+  - [Evaluating models and choosing the best](#evaluating-models-and-choosing-the-best)
 - [**5. Nonlinear Models**](#5-nonlinear-models) (2 videos)
-  - Why are linear models not enough?
-  - A primer to nonlinear models: Decision trees, neural networks
+  - [Why are linear models not enough?](#why-are-linear-models-not-enough)
+  - [A primer to nonlinear models: Decision trees, neural networks](#a-primer-to-nonlinear-models-decision-trees-neural-networks)
 - [**6. Do It Right**](#6-do-it-right) (1 videos)
-  - Know your objective, know your data, and listen to the data
+  - [Know your objective, know your data, and listen to the data](#know-your-objective-know-your-data-and-listen-to-the-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing with AI
+  - [Continuing with AI](#continuing-with-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The LinkedIn AI Academy: The imperative of understanding AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980)
@@ -94,6 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (3), power (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Linear Regression]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
 > **Non-Speech:** (gentle music) (1)
@@ -101,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Introduction to AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980)
@@ -194,8 +195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (7), [[Engineering]] (2), [[Algorithms]] (2), [[LinkedIn]] (2)
 > **Analogies:** for example (5)
-> **Code Keywords:** let (1), self (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -248,9 +249,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), game (2), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Three pillars of AI: Objectives, data, algorithms
@@ -326,7 +327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (2), from. (1), case, (1)
+> **Frameworks & Libraries:** data (12), [[Algorithms]] (4), [[LinkedIn]] (4), game (3), next (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - as (1)
@@ -428,6 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (5), [[Algorithms]] (5), next (3), [[LinkedIn]] (3)
 > **Analogies:** for example (3), imagine (2)
 > **Cross-References:** we discussed (1), in the last (1), in the next (1)
 > **CLI Commands:** make (1)
@@ -439,7 +441,7 @@ created: 2026-04-29
 
 ### 2. Supervised Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supervised learning vs. unsupervised learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980)
@@ -494,8 +496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Supervised Learning]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[LinkedIn]] (1)
 > **Analogies:** for instance (2), picture (1), for example (1)
-> **Code Keywords:** let (2), if, (1)
 > **CLI Commands:** cat (1), find (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
@@ -503,7 +505,7 @@ created: 2026-04-29
 
 ### 3. Regression
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980)
@@ -560,9 +562,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[React.js|React]] (2), data (2), [[Statistics]] (1), next (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -653,7 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), continue (2), this. (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[Linear Regression]] (3), [[LinkedIn]] (2), [[Forms]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (6), make (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** mse (1)
@@ -723,8 +725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linear Regression]] (2), data (2)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (3), this, (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
@@ -793,7 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this. (1)
+> **Frameworks & Libraries:** data (4), [[Linear Regression]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -865,6 +867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), ai (1)
 > **CLI Commands:** find (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -872,7 +875,7 @@ created: 2026-04-29
 
 ### 4. Classification
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is classification?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980)
@@ -941,11 +944,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (4), application (1), ai (1), leadership (1), next (1)
 > **Analogies:** for example (4), picture (1)
 > **Cross-References:** we discussed (2), in the last (1), in the next (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Logistic regression
@@ -1035,7 +1038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), else, (1), case, (1)
+> **Frameworks & Libraries:** data (7), [[Probability]] (6), feature (2), [[Algorithms]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (5), make (3)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** we talked about (1)
@@ -1150,9 +1153,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Probability]] (4), [[Logistic Regression]] (1), feature (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)
-> **Code Keywords:** class. (2), finally, (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** in the last (1), earlier in (1)
 > **Versions:** 0.5 (1)
@@ -1161,7 +1164,7 @@ created: 2026-04-29
 
 ### 5. Nonlinear Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why are linear models not enough?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980)
@@ -1222,7 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (2)
+> **Frameworks & Libraries:** data (4), feature (2), [[Linear Regression]] (1), [[Generative AI]] (1), prompt (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1289,7 +1292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else, (1), this, (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (5), [[Neural Networks]] (4), feature (3), data (1), [[Linear Regression]] (1)
 > **Cross-References:** in the last (2), as we saw (1), later in (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1298,7 +1301,7 @@ created: 2026-04-29
 
 ### 6. Do It Right
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Know your objective, know your data, and listen to the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/know-your-objective-know-your-data-and-listen-to-the-data?u=76281980)
@@ -1353,7 +1356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** data (15), ai (7), [[Algorithms]] (3), business (2), application (2)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -1362,7 +1365,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/continuing-with-ai?u=76281980)
@@ -1387,6 +1390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[LinkedIn]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - congratulations (1)
 

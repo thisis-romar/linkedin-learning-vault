@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/user-experience-ux
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Surveys%20and%20Questionnaires%20for%20UX%20Projects.md)
@@ -43,33 +43,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting good feedback
+  - [Getting good feedback](#getting-good-feedback)
 - [**1. When to Use Surveys**](#1-when-to-use-surveys) (3 videos)
-  - What surveys are good at telling you
-  - Hybrid survey methods
-  - Fitting surveys into your research plan
+  - [What surveys are good at telling you](#what-surveys-are-good-at-telling-you)
+  - [Hybrid survey methods](#hybrid-survey-methods)
+  - [Fitting surveys into your research plan](#fitting-surveys-into-your-research-plan)
 - [**2. Creating Good Questions**](#2-creating-good-questions) (4 videos)
-  - Know what you want to learn
-  - Different question types
-  - Common question mistakes
-  - Question order
+  - [Know what you want to learn](#know-what-you-want-to-learn)
+  - [Different question types](#different-question-types)
+  - [Common question mistakes](#common-question-mistakes)
+  - [Question order](#question-order)
 - [**3. Recruiting and Deploying a Survey**](#3-recruiting-and-deploying-a-survey) (3 videos)
-  - Who to send your survey to
-  - Rewards and incentives
-  - How to send out a questionnaire
+  - [Who to send your survey to](#who-to-send-your-survey-to)
+  - [Rewards and incentives](#rewards-and-incentives)
+  - [How to send out a questionnaire](#how-to-send-out-a-questionnaire)
 - [**4. Using Different Survey Tools**](#4-using-different-survey-tools) (2 videos)
-  - Online survey tools
-  - Demo of a survey creation tool
+  - [Online survey tools](#online-survey-tools)
+  - [Demo of a survey creation tool](#demo-of-a-survey-creation-tool)
 - [**5. Analyzing and Reporting Results**](#5-analyzing-and-reporting-results) (3 videos)
-  - Reporting data
-  - Visualizing results
-  - Show what you learned
+  - [Reporting data](#reporting-data)
+  - [Visualizing results](#visualizing-results)
+  - [Show what you learned](#show-what-you-learned)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting good feedback
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/getting-good-feedback?u=76281980)
@@ -104,13 +104,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** next (1), ux (1)
 > **Speakers:** - questionnaires (1)
 
 
 ### 1. When to Use Surveys
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What surveys are good at telling you
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/what-surveys-are-good-at-telling-you?u=76281980)
@@ -159,7 +159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1)
+> **Frameworks & Libraries:** data (3), product (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), just like (1)
 > **Prerequisites:** you need to have (1), set up (1)
@@ -202,6 +202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), product (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** setup (1)
@@ -270,7 +271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1)
+> **Frameworks & Libraries:** data (9), [[Statistics]] (1), ux (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - there (1)
@@ -278,7 +279,7 @@ created: 2026-04-29
 
 ### 2. Creating Good Questions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Know what you want to learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/know-what-you-want-to-learn?u=76281980)
@@ -353,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1), application (1), product (1)
 > **CLI Commands:** make (11), find (1)
-> **Code Keywords:** let (2), case, (1), this. (1)
 > **Analogies:** for instance (3)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you'll need (1)
@@ -443,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), public (1)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for instance (2), such as (1)
 > **Best Practices:** remember to (1), it's best to (1)
@@ -524,9 +525,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), data (2), next (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for instance (3)
-> **Code Keywords:** super (1), finally, (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Code Identifiers:** ipad (1)
 > **Warnings:** be careful (1)
@@ -589,17 +590,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Customer Support]] (1), data (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for instance (3)
 > **Cross-References:** earlier in (1), later in (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
 
 ### 3. Recruiting and Deploying a Survey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Who to send your survey to
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/who-to-send-your-survey-to?u=76281980)
@@ -670,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), business (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** for. (1), this. (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
@@ -749,7 +750,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), this. (1), let (1)
+> **Frameworks & Libraries:** product (1), game (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** ebook (1)
 > **Definitions:** means that (1)
@@ -821,7 +822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), for. (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), product (1), data (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -831,7 +832,7 @@ created: 2026-04-29
 
 ### 4. Using Different Survey Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Online survey tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980)
@@ -894,7 +895,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1), data (1), [[Google]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
@@ -1028,7 +1029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new, (1), type. (1), this, (1), from, (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Forms]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Analytics]] (1), next (1)
 > **CLI Commands:** make (7), find (2)
 > **UI Navigation:** click on (1), scroll down (1)
 > **URLs:** [google.com](https://google.com) (1)
@@ -1038,7 +1039,7 @@ created: 2026-04-29
 
 ### 5. Analyzing and Reporting Results
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reporting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/reporting-data?u=76281980)
@@ -1139,6 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), product (5), [[Statistics]] (3)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1219,7 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), this. (1)
+> **Frameworks & Libraries:** product (4), data (2), [[Statistics]] (2), [[Microsoft Word|Word]] (1), cloud (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - however (1)
@@ -1281,6 +1283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (1), [[Statistics]] (1), application (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
@@ -1289,7 +1292,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980)
@@ -1322,6 +1325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (3), data (1), [[Product Development]] (1), ux (1), [[Interviewing]] (1)
 > **CLI Commands:** make (1), find (1), go run (1)
 > **Speakers:** - surveys (1)
 

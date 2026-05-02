@@ -35,7 +35,7 @@ tags:
   - skill/ai-for-management
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20Through%20AI%20Agent%20Disruption.md)
@@ -54,22 +54,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Preparing for agentic AI
+  - [Preparing for agentic AI](#preparing-for-agentic-ai)
 - [**1. Challenges and Opportunities of Agentic AI for Leadership**](#1-challenges-and-opportunities-of-agentic-ai-for-leadership) (8 videos)
-  - Agentic AI and business efficiency
-  - Agentic AI key challenges
-  - Agentic AI key opportunities
-  - The impact of data quality and bias on agentic AI
-  - Transparency and accountability in agentic AI adoption
-  - Automating leadership decision-making with agentic AI
-  - Human-centric approaches to agentic AI
-  - Change management considerations
+  - [Agentic AI and business efficiency](#agentic-ai-and-business-efficiency)
+  - [Agentic AI key challenges](#agentic-ai-key-challenges)
+  - [Agentic AI key opportunities](#agentic-ai-key-opportunities)
+  - [The impact of data quality and bias on agentic AI](#the-impact-of-data-quality-and-bias-on-agentic-ai)
+  - [Transparency and accountability in agentic AI adoption](#transparency-and-accountability-in-agentic-ai-adoption)
+  - [Automating leadership decision-making with agentic AI](#automating-leadership-decision-making-with-agentic-ai)
+  - [Human-centric approaches to agentic AI](#human-centric-approaches-to-agentic-ai)
+  - [Change management considerations](#change-management-considerations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Anticipating what's next with AI agents
+  - [Anticipating what's next with AI agents](#anticipating-whats-next-with-ai-agents)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/preparing-for-agentic-ai-26922359?u=76281980)
@@ -96,12 +96,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (1), next (1), teams (1), business (1)
 > **Speakers:** - ai (1)
 
 
 ### 1. Challenges and Opportunities of Agentic AI for Leadership
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agentic AI and business efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980)
@@ -152,8 +153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), business (3), [[Microsoft Products|Products]] (1), product (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** for example (2)
 > **Speakers:** - most (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -225,8 +226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), business (1), management (1), [[Microsoft Office|Office]] (1), [[Newsletters]] (1)
 > **Analogies:** for example (3), just like (1), such as (1)
-> **Code Keywords:** case, (1), switch (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 > **Speakers:** - leaders (1)
@@ -282,8 +283,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), ai (5), product (2), teams (1), data (1)
 > **Analogies:** for example (2), imagine (2)
-> **Code Keywords:** let (1), function (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - everybody (1)
 
@@ -336,7 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), this, (1)
+> **Frameworks & Libraries:** data (9), ai (4), product (3), [[Microsoft Products|Products]] (2), business (2)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - ai (1)
@@ -394,7 +395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), public (1)
+> **Frameworks & Libraries:** ai (6), business (5), teams (2), [[Generative AI]] (1), database (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Warnings:** troubleshoot (1)
@@ -459,6 +460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (4), [[Decision-Making]] (2), business (2), leadership (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** means that (1)
@@ -515,8 +517,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (2), business (2), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
@@ -577,15 +579,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), teams (7), leadership (2), next (2), business (1)
 > **Definitions:** is an  (1), means that (1), known as (1), is a  (1)
-> **Code Keywords:** self (1), for. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Anticipating what's next with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980)
@@ -644,9 +646,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), business (9), teams (3), leadership (2), [[Security]] (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** install (1), getting started (1)
-> **Code Keywords:** extends (1)
 > **URLs:** [intelligence-briefing.com](https://intelligence-briefing.com) (1)
 > **Definitions:** means that (1)
 > **Speakers:** - when (1)

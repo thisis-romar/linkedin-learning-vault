@@ -30,7 +30,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cyber%20Resilience-%20An%20Overview.md)
@@ -49,32 +49,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building a cyber-resilient organization
+  - [Building a cyber-resilient organization](#building-a-cyber-resilient-organization)
 - [**1. The Cyber Resilience Mindset**](#1-the-cyber-resilience-mindset) (3 videos)
-  - What is cyber resilience and why should you care?
-  - The key pillars of cyber resilience
-  - A comparison of cybersecurity and cyber defense
+  - [What is cyber resilience and why should you care?](#what-is-cyber-resilience-and-why-should-you-care)
+  - [The key pillars of cyber resilience](#the-key-pillars-of-cyber-resilience)
+  - [A comparison of cybersecurity and cyber defense](#a-comparison-of-cybersecurity-and-cyber-defense)
 - [**2. Operationalizing Cyber Resilience**](#2-operationalizing-cyber-resilience) (5 videos)
-  - Anticipate: Control the controllables
-  - Withstand: Hang in there
-  - Recover: Getting back to normal
-  - Adapt: What did you learn?
-  - Case study: Major industry breach
+  - [Anticipate: Control the controllables](#anticipate-control-the-controllables)
+  - [Withstand: Hang in there](#withstand-hang-in-there)
+  - [Recover: Getting back to normal](#recover-getting-back-to-normal)
+  - [Adapt: What did you learn?](#adapt-what-did-you-learn)
+  - [Case study: Major industry breach](#case-study-major-industry-breach)
 - [**3. Building the Strategy**](#3-building-the-strategy) (3 videos)
-  - Understanding the business
-  - Understanding executive leadership concerns
-  - Prioritization
+  - [Understanding the business](#understanding-the-business)
+  - [Understanding executive leadership concerns](#understanding-executive-leadership-concerns)
+  - [Prioritization](#prioritization)
 - [**4. Communicating Cybersecurity Program Effectiveness**](#4-communicating-cybersecurity-program-effectiveness) (4 videos)
-  - The importance of effective communication
-  - Leveraging KPIs and metrics
-  - Team structure and cross-functional collaboration
-  - The art of storytelling
+  - [The importance of effective communication](#the-importance-of-effective-communication)
+  - [Leveraging KPIs and metrics](#leveraging-kpis-and-metrics)
+  - [Team structure and cross-functional collaboration](#team-structure-and-cross-functional-collaboration)
+  - [The art of storytelling](#the-art-of-storytelling)
 - [**Conclusion**](#conclusion) (1 videos)
-  - The future of cyber resilience
+  - [The future of cyber resilience](#the-future-of-cyber-resilience)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a cyber-resilient organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/buildilng-a-cyber-resilient-organization?u=76281980)
@@ -95,13 +95,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), let (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), business (1), [[Security]] (1)
 > **Speakers:** - a (1)
 
 
 ### 1. The Cyber Resilience Mindset
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cyber resilience and why should you care?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/what-is-cyber-resilience-and-why-do-we-care?u=76281980)
@@ -168,7 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** catch. (1), for. (1), continue (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (4), teams (3), management (3), [[Cybersecurity]] (2), business (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - when (1)
@@ -242,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (2), function (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[NIST]] (5), next (4), business (3), [[Security]] (2)
 > **Env Vars:** nist (5)
 > **Cross-References:** in the next (2), next video (1)
 > **CLI Commands:** make (1)
@@ -357,7 +357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), pass (2), yield (1), this. (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), hit (2), teams (1), [[Security]] (1), business (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** the key is (1)
@@ -366,7 +366,7 @@ created: 2026-04-29
 
 ### 2. Operationalizing Cyber Resilience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Anticipate: Control the controllables
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980)
@@ -445,8 +445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), business (3), [[NIST]] (1), [[Engineering]] (1), management (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** static (1), finally, (1)
 > **Analogies:** picture (1), it's like (1)
 > **Env Vars:** nist (1)
 > **Best Practices:** pro tip (1)
@@ -529,7 +529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), function (1), let (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Penetration Testing]] (1), [[Incident Response]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -607,9 +607,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Security]] (2), data (1), [[Microsoft Products|Products]] (1), teams (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), imagine (1), think of it as (1)
-> **Code Keywords:** switch (1)
 > **UI Navigation:** switch to (1)
 > **Warnings:** don't make the mistake (1)
 > **Speakers:** - after (1)
@@ -683,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), if; (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (2), teams (2), business (1)
 > **Env Vars:** url (1), dna (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -754,14 +754,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), static (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (3), business (3), data (2), [[Incident Response]] (2), [[Cybersecurity]] (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - let (1)
 
 
 ### 3. Building the Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980)
@@ -826,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** business (10), [[Security]] (3), data (2), product (1), [[E-Commerce]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
@@ -902,8 +902,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), business (5), [[Executive Leadership]] (2), management (2), [[Engineering]] (1)
 > **Env Vars:** ceo (4), cfo (4), cto (3), roi (1)
-> **Code Keywords:** let (5), this. (1)
 > **Warnings:** be aware (1), be careful (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
@@ -988,7 +988,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** [[Security]] (6), business (5), data (2), next (2), [[Executive Leadership]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -998,7 +998,7 @@ created: 2026-04-29
 
 ### 4. Communicating Cybersecurity Program Effectiveness
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of effective communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980)
@@ -1065,7 +1065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), continue (1), this. (1)
+> **Frameworks & Libraries:** business (8), [[Executive Leadership]] (5), [[Security]] (5), [[Cybersecurity]] (4), next (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** roi (1), ceo (1)
 > **Analogies:** picture (1), imagine (1)
@@ -1184,7 +1184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from, (1), finally, (1)
+> **Frameworks & Libraries:** business (5), data (5), [[Security]] (2), [[Cybersecurity]] (2), [[Executive Leadership]] (2)
 > **Env Vars:** mttd (2), mttr (1)
 > **Analogies:** just like (1), picture (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1265,7 +1265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), finally, (1), new, (1), case, (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), teams (3), business (2), [[Phishing]] (2), job description (1)
 > **Analogies:** picture (1), for instance (1), for example (1)
 > **Prerequisites:** you need to have (1), you'll need (1), set up (1)
 > **CLI Commands:** make (2)
@@ -1348,8 +1348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (4), [[Cybersecurity]] (4), business (4), [[Storytelling]] (2)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), case, (1), protected (1), finally, (1), continue (1)
 > **Env Vars:** roi (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - it (1)
@@ -1357,7 +1357,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of cyber resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-future-of-cyber-resilience?u=76281980)
@@ -1386,7 +1386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (3), business (3), leadership (2), [[Cybersecurity]] (2)
 > **Speakers:** - the (1)
 
 

@@ -39,7 +39,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Agentic%20AI%20for%20Developers-%20Concepts%20and%20Application%20for%20Enterprises.md)
@@ -58,57 +58,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Building your own AI agent
-  - Course coverage and prerequisites
+  - [Building your own AI agent](#building-your-own-ai-agent)
+  - [Course coverage and prerequisites](#course-coverage-and-prerequisites)
 - [**1. Introduction to Agentic AI**](#1-introduction-to-agentic-ai) (5 videos)
-  - Basic GenAI uses and limitations
-  - What is agentic AI?
-  - An agentic AI example
-  - Benefits and challenges of agentic AI
-  - Technologies for agentic AI
+  - [Basic GenAI uses and limitations](#basic-genai-uses-and-limitations)
+  - [What is agentic AI?](#what-is-agentic-ai)
+  - [An agentic AI example](#an-agentic-ai-example)
+  - [Benefits and challenges of agentic AI](#benefits-and-challenges-of-agentic-ai)
+  - [Technologies for agentic AI](#technologies-for-agentic-ai)
 - [**2. An Agentic AI System**](#2-an-agentic-ai-system) (7 videos)
-  - Components of an agentic AI system
-  - Goals in agentic AI
-  - Planner in agentic AI
-  - Orchestrator and executor in agentic AI
-  - Tools in agentic AI
-  - GenAI models in agentic AI
-  - Memory in agentic AI
+  - [Components of an agentic AI system](#components-of-an-agentic-ai-system)
+  - [Goals in agentic AI](#goals-in-agentic-ai)
+  - [Planner in agentic AI](#planner-in-agentic-ai)
+  - [Orchestrator and executor in agentic AI](#orchestrator-and-executor-in-agentic-ai)
+  - [Tools in agentic AI](#tools-in-agentic-ai)
+  - [GenAI models in agentic AI](#genai-models-in-agentic-ai)
+  - [Memory in agentic AI](#memory-in-agentic-ai)
 - [**3. Your First Agentic AI Application**](#3-your-first-agentic-ai-application) (5 videos)
-  - A basic AI agent
-  - Router AI agent design
-  - Setting up the indexes for the router
-  - Setting up the agentic router
-  - Routing with agentic AI
+  - [A basic AI agent](#a-basic-ai-agent)
+  - [Router AI agent design](#router-ai-agent-design)
+  - [Setting up the indexes for the router](#setting-up-the-indexes-for-the-router)
+  - [Setting up the agentic router](#setting-up-the-agentic-router)
+  - [Routing with agentic AI](#routing-with-agentic-ai)
 - [**4. Design Patterns for Agentic AI**](#4-design-patterns-for-agentic-ai) (5 videos)
-  - Reflection pattern in agentic AI
-  - Router pattern in agentic AI
-  - Tool use pattern in agentic AI
-  - Planning pattern in agentic AI
-  - Multi-agent pattern in agentic AI
+  - [Reflection pattern in agentic AI](#reflection-pattern-in-agentic-ai)
+  - [Router pattern in agentic AI](#router-pattern-in-agentic-ai)
+  - [Tool use pattern in agentic AI](#tool-use-pattern-in-agentic-ai)
+  - [Planning pattern in agentic AI](#planning-pattern-in-agentic-ai)
+  - [Multi-agent pattern in agentic AI](#multi-agent-pattern-in-agentic-ai)
 - [**5. Enterprise Use Cases for Agentic AI**](#5-enterprise-use-cases-for-agentic-ai) (5 videos)
-  - AI agents in finance
-  - AI agents in customer care
-  - AI agents in insurance
-  - AI agents in human resources
-  - AI agents in project management
+  - [AI agents in finance](#ai-agents-in-finance)
+  - [AI agents in customer care](#ai-agents-in-customer-care)
+  - [AI agents in insurance](#ai-agents-in-insurance)
+  - [AI agents in human resources](#ai-agents-in-human-resources)
+  - [AI agents in project management](#ai-agents-in-project-management)
 - [**6. Implementing a Customer Service AI Agent**](#6-implementing-a-customer-service-ai-agent) (5 videos)
-  - A customer service AI agent
-  - Customer service AI agent design
-  - Setting up functions and indexes
-  - Setting up the customer service AI agent
-  - Using the customer service AI agent
+  - [A customer service AI agent](#a-customer-service-ai-agent)
+  - [Customer service AI agent design](#customer-service-ai-agent-design)
+  - [Setting up functions and indexes](#setting-up-functions-and-indexes)
+  - [Setting up the customer service AI agent](#setting-up-the-customer-service-ai-agent)
+  - [Using the customer service AI agent](#using-the-customer-service-ai-agent)
 - [**7. Responsible AI Considerations for AI Agents**](#7-responsible-ai-considerations-for-ai-agents) (4 videos)
-  - Hallucinations in agentic AI
-  - Explainability in agentic AI
-  - Integrations in agentic AI
-  - Compliance in agentic AI
+  - [Hallucinations in agentic AI](#hallucinations-in-agentic-ai)
+  - [Explainability in agentic AI](#explainability-in-agentic-ai)
+  - [Integrations in agentic AI](#integrations-in-agentic-ai)
+  - [Compliance in agentic AI](#compliance-in-agentic-ai)
 - [**8. Conclusion**](#8-conclusion) (1 videos)
-  - Continuing on with agentic AI
+  - [Continuing on with agentic AI](#continuing-on-with-agentic-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your own AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980)
@@ -131,7 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), power (1), business (1), [[Design Patterns]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Course coverage and prerequisites
@@ -177,8 +177,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Generative AI]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** llms (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is an  (1)
@@ -188,7 +188,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic GenAI uses and limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980)
@@ -239,7 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), ai (2), [[Security]] (2), business (1), llm (1)
 > **Env Vars:** llm (1), rag (1)
 > **Speakers:** - [instructor] (1)
 
@@ -318,9 +318,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (1), llm (1), next (1), [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (2), self (1)
 > **Env Vars:** llm (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
@@ -368,7 +368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** ai (5), llm (3), [[Troubleshooting]] (2), [[GitHub]] (1), [[Jenkins]] (1)
 > **Env Vars:** llm (3)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -426,7 +426,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), require (1)
+> **Frameworks & Libraries:** ai (3), data (3), [[Forms]] (1), [[User Experience (UX)|User experience]] (1), llm (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
@@ -463,15 +463,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[LangChain]] (2), [[LlamaIndex]] (2), llm (1), rag (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** llm (1), rag (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. An Agentic AI System
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of an agentic AI system
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980)
@@ -548,8 +548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), llm (4), rag (2), prompt (1), data (1)
 > **Env Vars:** llm (4), rag (2), llms (1)
-> **Code Keywords:** function (3), let (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -610,7 +610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (1), this, (1)
+> **Frameworks & Libraries:** llm (3), [[GitHub]] (3), ai (2), application (1), next (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** llm (3)
 > **Tools:** github (3)
@@ -698,8 +698,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (12), ai (3), next (3), [[Prompt Engineering]] (1), prompt (1)
 > **Env Vars:** llm (12)
-> **Code Keywords:** let (2), this, (1), function (1)
 > **Prerequisites:** required to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -814,8 +814,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), prompt (3), ai (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Env Vars:** llm (5), rest (1), api (1)
-> **Code Keywords:** let (3), interface (1), function (1), case, (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -876,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** ai (4), cloud (2), application (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), rag (1)
 > **Env Vars:** rag (1), llm (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [narrator] (1)
@@ -926,8 +926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), llm (2), [[Decision-Making]] (1), rag (1)
 > **Env Vars:** llms (2), llm (2), rag (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -996,14 +996,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), ai (3), next (2), prompt (1), [[Vector Databases]] (1)
 > **Env Vars:** llm (4), rag (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Your First Agentic AI Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A basic AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980)
@@ -1048,7 +1048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), case, (1)
+> **Frameworks & Libraries:** ai (5), product (2), rag (1), [[Routing]] (1), llm (1)
 > **Env Vars:** lama (1), llm (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Documentation:** specification (2)
@@ -1097,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (1), [[LlamaIndex]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1174,7 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), finally, (1)
+> **Frameworks & Libraries:** llm (5), [[LlamaIndex|Llama-index]] (3), [[Codespaces]] (2), [[Python (Programming Language)|Python]] (2), next (2)
 > **Env Vars:** llm (5), gpt (1)
 > **Prerequisites:** set up (3), install (3)
 > **Code Identifiers:** api_key (2), azure_endpoint (1), api_version (1), as_query_engine (1)
@@ -1222,7 +1222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2)
+> **Frameworks & Libraries:** llm (2), [[LlamaIndex]] (2), [[Routing]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** llm (2)
 > **Best Practices:** recommended (2)
@@ -1265,7 +1265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), case, (1)
+> **Frameworks & Libraries:** llm (2), [[Routing]] (1)
 > **Env Vars:** llm (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1275,7 +1275,7 @@ created: 2026-04-29
 
 ### 4. Design Patterns for Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reflection pattern in agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/reflection-pattern-in-agentic-ai?u=76281980)
@@ -1348,8 +1348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (18), ai (2), rag (1), prompt (1), application (1)
 > **Env Vars:** llm (18), rag (1)
-> **Code Keywords:** this, (2), pass (1), continue (1), let (1)
 > **Analogies:** for example (2), similar to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1409,9 +1409,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (10), llm (7), ai (3), prompt (3), application (1)
 > **Env Vars:** llm (7)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** essentially is (1), is an  (1)
 > **Cross-References:** previous chapter (1)
 > **Prerequisites:** set up (1)
@@ -1456,6 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), data (2), ai (1), [[Routing]] (1)
 > **Env Vars:** llm (5)
 > **Analogies:** similar to (1)
 > **Prerequisites:** required to (1)
@@ -1500,8 +1501,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (3), ai (2), next (1), [[Routing]] (1)
 > **Env Vars:** llm (3)
-> **Code Keywords:** require (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1580,7 +1581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), this, (1), case, (1), case. (1)
+> **Frameworks & Libraries:** ai (7), product (7), [[Customer Support]] (4), [[E-Commerce]] (3), [[Microsoft Products|Products]] (2)
 > **Analogies:** similar to (4)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Env Vars:** rag (1)
@@ -1590,7 +1591,7 @@ created: 2026-04-29
 
 ### 5. Enterprise Use Cases for Agentic AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI agents in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980)
@@ -1665,8 +1666,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), ai (8), llm (4), [[Financial Statements]] (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (2), pass (1), case. (1)
 > **Env Vars:** llm (4)
 > **Speakers:** - [instructor] (1)
 
@@ -1737,7 +1738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** ai (4), [[Microsoft Products|Products]] (3), [[Technical Support]] (3), [[Troubleshooting]] (3), product (3)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** llm (2), rag (1)
 > **Speakers:** - [instructor] (1)
@@ -1831,8 +1832,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), [[Routing]] (5), ai (3), application (1), next (1)
 > **Env Vars:** llm (6)
-> **Code Keywords:** let (2), type, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -1885,7 +1886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** ai (3), [[Human Resources (HR)|Human resources]] (2), job description (2), hr (2), next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [presenter] (1)
@@ -1953,8 +1954,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), management (2), [[Microsoft Outlook|Outlook]] (2), [[Scrum]] (1), [[Google]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (2)
 > **Tools:** slack (1), jira (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
@@ -1965,7 +1966,7 @@ created: 2026-04-29
 
 ### 6. Implementing a Customer Service AI Agent
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A customer service AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980)
@@ -1996,7 +1997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), require (2), for. (1)
+> **Frameworks & Libraries:** ai (4), [[Customer Support]] (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2039,7 +2040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1), finally, (1)
+> **Frameworks & Libraries:** ai (1), next (1)
 > **Code Identifiers:** get_order_item (1), get_delivery_date (1), get_item_return_days (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -2095,8 +2096,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), [[Microsoft Azure|Azure]] (3), api (3), [[GPT-4]] (2), ai (1)
 > **Env Vars:** llm (4), api (3), gpt (3)
-> **Code Keywords:** function (4), let (1), finally, (1)
 > **Prerequisites:** set up (6)
 > **Code Identifiers:** get_order_items (1), get_delivery_date (1), get_item_return_days (1), customer_service (1)
 > **Versions:** 3.5 (1)
@@ -2140,7 +2141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), interface (2), function (1), pass (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (3), ai (2), llm (1), next (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** llm (1)
@@ -2225,8 +2226,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), next (2), ai (2), [[Customer Support]] (1)
 > **Code Identifiers:** get_order_items (5), order_id (3), get_item_return_days (2), get_return_item_days (1), get_delivery_date (1)
-> **Code Keywords:** let (4), function (4), finally, (1)
 > **Env Vars:** llm (5)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
@@ -2235,7 +2236,7 @@ created: 2026-04-29
 
 ### 7. Responsible AI Considerations for AI Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hallucinations in agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980)
@@ -2276,9 +2277,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), ai (3), [[Probability]] (1), [[Continuous Monitoring]] (1)
 > **Env Vars:** llm (4)
 > **Best Practices:** recommended (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Explainability in agentic AI
@@ -2316,6 +2317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), ai (1), [[Troubleshooting]] (1)
 > **Env Vars:** llm (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -2358,7 +2360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1)
+> **Frameworks & Libraries:** ai (5), [[Resiliency]] (2), [[Microservices]] (1), cloud (1), [[Engineering]] (1)
 > **Env Vars:** llm (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
@@ -2397,13 +2399,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Responsible AI]] (1), [[Ethics]] (1), business (1), [[Security]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/continuing-on-with-agentic-ai?u=76281980)
@@ -2430,8 +2433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[LlamaIndex]] (1), next (1), rag (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - [narrator] (1)
 

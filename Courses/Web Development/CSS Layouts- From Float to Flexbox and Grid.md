@@ -30,7 +30,7 @@ tags:
   - skill/css-grid-layout
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS%20Layouts-%20From%20Float%20to%20Flexbox%20and%20Grid.md)
@@ -49,47 +49,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know
-  - Using the exercise files
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. An Overview of Page Layouts**](#1-an-overview-of-page-layouts) (3 videos)
-  - Layouts with HTML
-  - Layouts with CSS
-  - Browser support and CSS standards
+  - [Layouts with HTML](#layouts-with-html)
+  - [Layouts with CSS](#layouts-with-css)
+  - [Browser support and CSS standards](#browser-support-and-css-standards)
 - [**2. Float, Display, and Position**](#2-float-display-and-position) (10 videos)
-  - Inline and block elements
-  - The box model properties
-  - The display property
-  - The box model and layouts
-  - The float property
-  - Clearing floats
-  - Setting up your project
-  - Exercise: Build a layout with float
-  - Position: Relative and absolute
-  - Position: Fixed, sticky, and static
+  - [Inline and block elements](#inline-and-block-elements)
+  - [The box model properties](#the-box-model-properties)
+  - [The display property](#the-display-property)
+  - [The box model and layouts](#the-box-model-and-layouts)
+  - [The float property](#the-float-property)
+  - [Clearing floats](#clearing-floats)
+  - [Setting up your project](#setting-up-your-project)
+  - [Exercise: Build a layout with float](#exercise-build-a-layout-with-float)
+  - [Position: Relative and absolute](#position-relative-and-absolute)
+  - [Position: Fixed, sticky, and static](#position-fixed-sticky-and-static)
 - [**3. Flexbox**](#3-flexbox) (8 videos)
-  - Getting started with Flexbox
-  - Orientation with flex-direction and flex-wrap
-  - Flexible sizing
-  - Sizing multiple flex items
-  - The order property
-  - Nesting flex containers
-  - Exercise: Build a layout with Flexbox, part 1
-  - Exercise: Build a layout with Flexbox, part 2
+  - [Getting started with Flexbox](#getting-started-with-flexbox)
+  - [Orientation with flex-direction and flex-wrap](#orientation-with-flex-direction-and-flex-wrap)
+  - [Flexible sizing](#flexible-sizing)
+  - [Sizing multiple flex items](#sizing-multiple-flex-items)
+  - [The order property](#the-order-property)
+  - [Nesting flex containers](#nesting-flex-containers)
+  - [Exercise: Build a layout with Flexbox, part 1](#exercise-build-a-layout-with-flexbox-part-1)
+  - [Exercise: Build a layout with Flexbox, part 2](#exercise-build-a-layout-with-flexbox-part-2)
 - [**4. Grid**](#4-grid) (7 videos)
-  - Grid vs. Flexbox
-  - Grid, grid systems, and CSS Grid
-  - Create a basic Grid layout
-  - Columns, rows, and gutters with Grid
-  - Positioning with Grid
-  - Exercise: Build a layout with Grid
-  - Exercise: Create a sticky footer with Grid
+  - [Grid vs. Flexbox](#grid-vs-flexbox)
+  - [Grid, grid systems, and CSS Grid](#grid-grid-systems-and-css-grid)
+  - [Create a basic Grid layout](#create-a-basic-grid-layout)
+  - [Columns, rows, and gutters with Grid](#columns-rows-and-gutters-with-grid)
+  - [Positioning with Grid](#positioning-with-grid)
+  - [Exercise: Build a layout with Grid](#exercise-build-a-layout-with-grid)
+  - [Exercise: Create a sticky footer with Grid](#exercise-create-a-sticky-footer-with-grid)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and resources
+  - [Next steps and resources](#next-steps-and-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/welcome-26990147?u=76281980)
@@ -108,6 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **Speakers:** - creating (1)
 
@@ -128,6 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[HTML]] (4), bi (1)
 > **Env Vars:** css (5), html (4)
 > **Speakers:** - [instruktor] (1)
 
@@ -162,6 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (2), next (1), [[GitHub]] (1)
 > **Exercise Files:** exercise files (2), download the (1), zip file (1)
 > **CLI Commands:** unzip (1), find (1)
 > **Tools:** github (1), visual studio (1)
@@ -172,7 +175,7 @@ created: 2026-04-29
 
 ### 1. An Overview of Page Layouts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Layouts with HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980)
@@ -229,10 +232,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), css (5), [[HTML]] (3), [[CodePen]] (2), web (1)
 > **Env Vars:** css (5), html (3)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** similar to (1), just like (1), such as (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
@@ -268,6 +271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[HTML]] (1), web (1)
 > **Env Vars:** css (2), html (1), mdn (1), w3c (1)
 > **Documentation:** mdn (1), w3c (1)
 > **Speakers:** - [narrator] (1)
@@ -333,16 +337,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), [[Search]] (1)
 > **Env Vars:** css (6), v3c (5), w3c (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (2)
-> **Code Keywords:** module (1)
 > **Documentation:** w3c (1)
 > **Speakers:** - [instruktor] (1)
 
 
 ### 2. Float, Display, and Position
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inline and block elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/inline-and-block-elements?u=76281980)
@@ -381,6 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[HTML]] (4), bi (1)
 > **Env Vars:** css (5), html (4), html5 (2)
 > **Versions:** 4.01 (1)
 > **Speakers:** - [pripoveda (1)
@@ -472,8 +477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1), [[HTML]] (1), bi (1), next (1)
 > **Env Vars:** css (1), html (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instruktor] (1)
 
@@ -562,6 +567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), bi (4)
 > **Env Vars:** html (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [instruktor] (1)
@@ -647,6 +653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** bi (6), css (4), [[CodePen]] (1)
 > **Env Vars:** css (4)
 > **Speakers:** - [instruktor] (1)
 
@@ -727,6 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), bi (1)
 > **Speakers:** - [narator] (1)
 
 #### Clearing floats
@@ -854,7 +862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), self (6), this. (1), case, (1)
+> **Frameworks & Libraries:** css (4), [[HTML]] (3), next (1)
 > **Env Vars:** css (4), html (3)
 > **CLI Commands:** sudo (2), find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -930,8 +938,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[HTML]] (4), [[GitHub]] (1), [[Search]] (1), next (1)
 > **Env Vars:** css (8), html (3)
-> **Code Keywords:** let (4), this, (1)
 > **Exercise Files:** exercise files (4), github repo (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (1), firefox (1)
@@ -1056,7 +1064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), switch (2), require (1)
+> **Frameworks & Libraries:** css (6), [[HTML]] (2), [[Responsive Web Design]] (1)
 > **Env Vars:** css (5), html (2)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (3)
@@ -1184,6 +1192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[CodePen]] (1), css (1), bi (1), next (1)
 > **Env Vars:** html (3), css (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instruktor] (1)
@@ -1283,7 +1292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), static (2), default, (1), override (1), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (1), next (1), hit (1), css (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** we talked about (1)
@@ -1294,7 +1303,7 @@ created: 2026-04-29
 
 ### 3. Flexbox
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/getting-started-with-flexbox?u=76281980)
@@ -1345,6 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** bi (2)
 > **Speakers:** - [pripoveda (1)
 
 #### Orientation with flex-direction and flex-wrap
@@ -1408,6 +1418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** bi (2), [[HTML]] (1)
 > **Speakers:** - [instruktor] (1)
 
 #### Flexible sizing
@@ -1545,6 +1556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** bi (3), [[CodePen]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** v3c (1)
 > **Cross-References:** in the next (1)
@@ -1624,9 +1636,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), css (1)
 > **Env Vars:** html (6), css (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** default, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Nesting flex containers
@@ -1714,6 +1726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (1), bi (1)
 > **Speakers:** - [insructor] (1)
 
 #### Exercise: Build a layout with Flexbox, part 1
@@ -1831,7 +1844,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), default, (1)
+> **Frameworks & Libraries:** css (6), next (6), [[HTML]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** css (3), html (1)
 > **File Paths:** flexbox.css (2), floats.css (1)
@@ -1899,7 +1912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1)
+> **Frameworks & Libraries:** [[HTML]] (2), css (1)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** go back to (2)
 > **Non-Speech:** (typing loudly) (2)
@@ -1911,7 +1924,7 @@ created: 2026-04-29
 
 ### 4. Grid
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Grid vs. Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/grid-vs-flexbox?u=76281980)
@@ -1958,6 +1971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** bi (2)
 > **Env Vars:** vksnumksc (1)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
@@ -2018,6 +2032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (14), bi (3)
 > **Env Vars:** css (14), ksnumks (2)
 > **Speakers:** - [instruktor] (1)
 
@@ -2134,7 +2149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), for. (1)
+> **Frameworks & Libraries:** css (1), [[CodePen]] (1), bi (1)
 > **Env Vars:** gap (3), css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instruktor] (1)
@@ -2212,7 +2227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2)
+> **Frameworks & Libraries:** css (1), [[Search]] (1), [[HTML]] (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (1), html (1)
@@ -2324,7 +2339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** bi (4), [[HTML]] (1), [[CodePen]] (1)
 > **Env Vars:** html (1)
 
 #### Exercise: Build a layout with Grid
@@ -2420,7 +2435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (2), default, (1), switch (1)
+> **Frameworks & Libraries:** css (4), next (3), [[CodePen]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** css (4)
 > **Cross-References:** go back to (2)
@@ -2500,7 +2515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1), switch (1)
+> **Frameworks & Libraries:** css (3), [[HTML]] (3), next (1), [[Zoom]] (1)
 > **Env Vars:** css (3), html (3)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2)
@@ -2510,7 +2525,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/next-steps-and-resources-26970311?u=76281980)
@@ -2533,7 +2548,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** break, (1)
+> **Frameworks & Libraries:** next (2), css (1)
 > **Env Vars:** css (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - in (1)

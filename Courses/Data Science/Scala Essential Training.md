@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/scala
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Scala%20Essential%20Training.md)
@@ -48,44 +48,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction and setup
+  - [Introduction and setup](#introduction-and-setup)
 - [**1. Scala Basics**](#1-scala-basics) (8 videos)
-  - Values and types
-  - Expressions
-  - Variables and instructions
-  - Functions
-  - Recursion
-  - Recursion: Exercise
-  - Recursion: Solution
-  - String interpolation
+  - [Values and types](#values-and-types)
+  - [Expressions](#expressions)
+  - [Variables and instructions](#variables-and-instructions)
+  - [Functions](#functions)
+  - [Recursion](#recursion)
+  - [Recursion: Exercise](#recursion-exercise)
+  - [Recursion: Solution](#recursion-solution)
+  - [String interpolation](#string-interpolation)
 - [**2. Object-Oriented Programming in Scala**](#2-object-oriented-programming-in-scala) (11 videos)
-  - Classes, instances, fields, and methods
-  - Classes, instances, and methods: Exercise
-  - Classes, instances, and methods: Solution
-  - Method notation
-  - Inheritance
-  - Overriding, polymorphism, and anonymous classes
-  - Abstract classes and traits
-  - Objects
-  - Case classes
-  - Exceptions
-  - Generics
+  - [Classes, instances, fields, and methods](#classes-instances-fields-and-methods)
+  - [Classes, instances, and methods: Exercise](#classes-instances-and-methods-exercise)
+  - [Classes, instances, and methods: Solution](#classes-instances-and-methods-solution)
+  - [Method notation](#method-notation)
+  - [Inheritance](#inheritance)
+  - [Overriding, polymorphism, and anonymous classes](#overriding-polymorphism-and-anonymous-classes)
+  - [Abstract classes and traits](#abstract-classes-and-traits)
+  - [Objects](#objects)
+  - [Case classes](#case-classes)
+  - [Exceptions](#exceptions)
+  - [Generics](#generics)
 - [**3. Functional Programming in Scala**](#3-functional-programming-in-scala) (9 videos)
-  - Functional programming basics
-  - Anonymous functions
-  - Scala collections: List
-  - Map, flatMap, and filter
-  - List exercises
-  - List exercises: Solutions
-  - For comprehensions
-  - Scala collections: Ranges, arrays, and sets
-  - Scala collections: Tuples and maps
+  - [Functional programming basics](#functional-programming-basics)
+  - [Anonymous functions](#anonymous-functions)
+  - [Scala collections: List](#scala-collections-list)
+  - [Map, flatMap, and filter](#map-flatmap-and-filter)
+  - [List exercises](#list-exercises)
+  - [List exercises: Solutions](#list-exercises-solutions)
+  - [For comprehensions](#for-comprehensions)
+  - [Scala collections: Ranges, arrays, and sets](#scala-collections-ranges-arrays-and-sets)
+  - [Scala collections: Tuples and maps](#scala-collections-tuples-and-maps)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Recap and next steps
+  - [Recap and next steps](#recap-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980)
@@ -300,19 +300,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scala]] (37), hit (12), [[Java]] (9), application (6), [[Functional Programming]] (3)
 > **Env Vars:** idea (9), jdk (6), ide (4), jvm (3), zio (1)
 > **Tools:** intellij (15)
 > **Prerequisites:** install (10), set up (3), make sure you have (1)
 > **CLI Commands:** find (5), make (5), apache (2)
 > **UI Navigation:** click on (4), go to (3), dropdown (2), navigate to (1)
 > **Definitions:** is a  (4), is called (4)
-> **Code Keywords:** super (1), require (1), let (1), this. (1), delete (1)
 > **URLs:** [rockthejvm.com](https://rockthejvm.com) (2), [jetbrains.com](https://jetbrains.com) (2)
 
 
 ### 1. Scala Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Values and types
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980)
@@ -503,8 +503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scala]] (16), application (5), hit (3), [[Java]] (3), [[JavaScript]] (3)
 > **Definitions:** is a  (10), is an  (4), is called (2)
-> **Code Keywords:** function (3), type, (2), else, (1), type. (1), for, (1)
 > **Code Identifiers:** meaningoflife (5), achar (1), along (1)
 > **Tools:** intellij (5)
 > **CLI Commands:** python (2), make (1)
@@ -791,8 +791,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scala]] (17), [[Programming]] (6), application (3), [[Jetpack Compose|Compose]] (2), [[Forms]] (2)
 > **Code Identifiers:** equalitytest (10), localvalue (7), somevalue (7), acodeblock (3), meaningoflife (1)
-> **Code Keywords:** let (7), switch (4), case, (3), else. (3), if, (1)
 > **Definitions:** is an  (11), is a  (5), means that (2)
 > **Analogies:** for example (8), it's like (1)
 > **Cross-References:** previous video (2), as we saw (1), earlier in (1), later in (1), in the next (1)
@@ -977,7 +977,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), type. (2), var (2), else, (1)
+> **Frameworks & Libraries:** [[Scala]] (24), [[Programming]] (6), application (4), [[Functional Programming]] (4), data (3)
 > **Definitions:** is an  (9), is a  (3), is called (3), we call this (1)
 > **Code Identifiers:** thenumber (4), flatmap (1), val_printing (1), avariable (1)
 > **Analogies:** for example (4)
@@ -1162,7 +1162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (34), type, (5), pass (4), type. (4), let (3)
+> **Frameworks & Libraries:** [[Scala]] (9), [[Programming]] (6), application (2), [[Java]] (1), next (1)
 > **Code Identifiers:** astring (8), aninvocation (2), avoidfunction (2), afunction (1), functionwithsideeffects (1)
 > **Analogies:** for example (7), just like (2), such as (1)
 > **Definitions:** is an  (3), is a  (3), means that (2), is called (1)
@@ -1460,7 +1460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (15), case. (7), case, (3), var (2)
+> **Frameworks & Libraries:** [[Programming]] (7), [[Scala]] (5), application (2), [[Functional Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (7), means that (3), known as (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), for instance (1)
@@ -1530,7 +1530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), function (2), class. (1)
+> **Frameworks & Libraries:** next (7), [[Scala]] (3), hit (1), [[Programming]] (1)
 > **Analogies:** for example (5)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -1671,7 +1671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), var (2), function (2), this. (1)
+> **Frameworks & Libraries:** [[Scala]] (11), next (4), [[Programming]] (3), application (2), express (1)
 > **Definitions:** is called (3), is a  (1)
 > **Analogies:** for example (3), similar to (1)
 > **Cross-References:** previous video (2), in the next (1)
@@ -1815,8 +1815,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scala]] (12), [[Java]] (5), next (3), [[Representational State Transfer (REST)|Rest]] (2), [[Programming]] (2)
 > **Code Identifiers:** astring (10), findindex (3), tostring (2), starswithscala (1), startswith (1)
-> **Code Keywords:** let (9), function (2), default. (1), type, (1), case, (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (4)
 > **Cross-References:** in the next (2)
@@ -1827,7 +1827,7 @@ created: 2026-04-29
 
 ### 2. Object-Oriented Programming in Scala
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Classes, instances, fields, and methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980)
@@ -2000,7 +2000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), type. (5), function (5), var (3), class. (2)
+> **Frameworks & Libraries:** [[Scala]] (5), [[Programming]] (4), data (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Functional Programming]] (1)
 > **Definitions:** is a  (5), is called (5)
 > **Code Identifiers:** allcaps (3), touppercase (1), danielname (1)
 > **Analogies:** for example (5)
@@ -2064,7 +2064,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (1), pass (1)
+> **Frameworks & Libraries:** oop (2), data (2), next (2)
 > **Cross-References:** previous video (2), in the next (2)
 > **Analogies:** imagine (3)
 > **CLI Commands:** make (2)
@@ -2273,8 +2273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (2), [[Scala]] (1), application (1)
 > **Code Identifiers:** yearofbirth (9), ownerage (9), driverimposter (8), isownedby (7), firstname (5)
-> **Code Keywords:** let (16), case, (2), for. (2), pass (2), class. (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is an  (2), is a  (1), in other words (1)
 > **Cross-References:** previous video (1), in the next (1)
@@ -2533,7 +2533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), this, (4), this. (2), function (1), class, (1)
+> **Frameworks & Libraries:** [[Scala]] (21), [[Programming]] (14), application (2), [[Microsoft Word|Word]] (2), [[Functional Programming]] (2)
 > **Definitions:** is a  (10), is an  (2), is called (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** proglang (2)
@@ -2661,7 +2661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), class, (6), extends (6), pass (4), class. (3)
+> **Frameworks & Libraries:** game (4), oop (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Scala]] (2), application (2)
 > **Code Identifiers:** gametype (5)
 > **Env Vars:** oop (3), fps (1)
 > **Definitions:** is a  (4)
@@ -2805,7 +2805,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (11), let (7), super (5), class. (4), type, (3)
+> **Frameworks & Libraries:** [[Scala]] (5), game (4), oop (3), next (2), application (2)
 > **Env Vars:** rpg (7), oop (3)
 > **Definitions:** is called (4), is a  (3), refers to (1)
 > **Code Identifiers:** gametype (7)
@@ -3056,7 +3056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (49), let (23), extends (9), override (9), type, (7)
+> **Frameworks & Libraries:** game (37), [[Scala]] (6), data (3), power (2), application (2)
 > **Analogies:** for example (8), just like (1)
 > **Env Vars:** mpl (2), fps (2), ps5 (2), oop (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
@@ -3245,7 +3245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), static (9), class. (8), class, (8), public (4)
+> **Frameworks & Libraries:** [[Scala]] (13), application (5), next (5), [[Programming]] (3), [[Java]] (3)
 > **Definitions:** is a  (7), is called (3), means that (1), refers to (1)
 > **Code Identifiers:** afield (4), amethod (3), thesingleton (1), anothersingleton (1), sayhi (1)
 > **Env Vars:** jvm (6)
@@ -3531,7 +3531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), class, (6), class. (4), super (4), pass (2)
+> **Frameworks & Libraries:** data (18), application (8), [[Scala]] (6), parallel (1), feature (1)
 > **Analogies:** for example (9), just like (1)
 > **Env Vars:** aca (4), peco (3), jvm (2)
 > **Definitions:** is called (2), is a  (2), means that (2)
@@ -3759,7 +3759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), throw (10), function (8), catch. (3), case, (2)
+> **Frameworks & Libraries:** application (13), [[Scala]] (12), [[Java]] (4), [[Programming]] (3), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** sumn (15)
 > **Definitions:** is a  (6), is called (6), is an  (3)
 > **Analogies:** for example (9), similar to (1)
@@ -4007,7 +4007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), abstract (6), class. (6), extends (4), type. (4)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (24), [[Scala]] (10), application (4), [[Programming]] (4), generic (2)
 > **Definitions:** is an  (8), is a  (6), is called (2)
 > **Analogies:** for example (7)
 > **CLI Commands:** make (2), python (1)
@@ -4018,7 +4018,7 @@ created: 2026-04-29
 
 ### 3. Functional Programming in Scala
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional programming basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980)
@@ -4245,7 +4245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (32), let (18), override (5), case, (4), type, (3)
+> **Frameworks & Libraries:** [[Scala]] (12), [[Functional Programming]] (3), generic (3), application (2), functional (1)
 > **Analogies:** for example (10), just like (2), for instance (1)
 > **Code Identifiers:** mycombinator (7), favmovie (2), danielstatement (2)
 > **Definitions:** is a  (5), is called (2)
@@ -4425,7 +4425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (38), let (9), override (7), this, (7), lambda (6)
+> **Frameworks & Libraries:** [[Scala]] (9), application (2), [[Functional Programming]] (1), oop (1), next (1)
 > **Definitions:** is a  (7), is an  (3), is called (1)
 > **Cross-References:** previous video (3), as we saw (1), in the next (1)
 > **Analogies:** for example (4)
@@ -4669,7 +4669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (4), this, (3), this. (2), case, (2)
+> **Frameworks & Libraries:** [[Scala]] (19), data (6), [[Functional Programming]] (4), [[Representational State Transfer (REST)|Rest]] (3), application (2)
 > **Code Identifiers:** alist (15), mkstring (5), biggerlist (2), stringrep (2), tostring (1)
 > **Definitions:** is a  (5), is called (4), is an  (1), means that (1)
 > **Analogies:** for example (9)
@@ -4843,7 +4843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (24), let (6), case, (3), this, (3), case. (2)
+> **Frameworks & Libraries:** [[Scala]] (16), [[Functional Programming]] (5), [[Programming]] (2), power (1), application (1)
 > **Code Identifiers:** alist (4), anarray (3), expandedlist (2), scalalist (1), evennumbers (1)
 > **Analogies:** for example (3), for instance (2), similar to (1)
 > **Definitions:** is a  (4), is called (1)
@@ -4903,7 +4903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), finally, (1), this. (1), for, (1)
+> **Frameworks & Libraries:** [[Scala]] (4), next (3), data (1)
 > **Analogies:** for example (3)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -5214,7 +5214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (28), let (24), case, (6), this. (3), pass (2)
+> **Frameworks & Libraries:** [[Scala]] (10), next (3), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (5), is an  (2), is called (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1), find (1)
@@ -5367,7 +5367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), yield (3), this, (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Scala]] (2), [[Programming]] (1), data (1), next (1)
 > **Code Identifiers:** flatmap (11), flatmaps (2)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -5668,7 +5668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), function (8), case, (2), yield (2), case. (1)
+> **Frameworks & Libraries:** [[Scala]] (11), [[Programming]] (4), [[Java]] (4), [[Microsoft Products|Products]] (3), express (3)
 > **Code Identifiers:** aset (10), anotherset (7), tolist (4), anarray (2), flatmap (2)
 > **Definitions:** is a  (7), is called (5), is an  (1)
 > **Analogies:** for example (12), similar to (1)
@@ -5876,7 +5876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (4), type. (2), case, (2), this. (2)
+> **Frameworks & Libraries:** [[Scala]] (8), application (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Env Vars:** jvm (6)
 > **Analogies:** for example (5), just like (1)
 > **CLI Commands:** find (3), make (1), python (1)
@@ -5888,7 +5888,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/recap-and-next-steps?u=76281980)
@@ -5905,7 +5905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2)
+> **Frameworks & Libraries:** [[Scala]] (3), [[Functional Programming]] (2), next (1)
 > **URLs:** [rockthejvm.com](https://rockthejvm.com) (1)
 > **Speakers:** - [instructor] (1)
 

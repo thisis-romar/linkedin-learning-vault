@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20Python%20with%20Excel.md)
@@ -49,31 +49,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Managing Excel with Python
+  - [Managing Excel with Python](#managing-excel-with-python)
 - [**1. Python and pandas**](#1-python-and-pandas) (6 videos)
-  - Jupyter Notebooks basics
-  - Introducing the Python pandas library
-  - Loading and saving data with pandas
-  - Viewing and inspecting data with pandas
-  - Manipulating data with pandas
-  - Working with dates and times in pandas
+  - [Jupyter Notebooks basics](#jupyter-notebooks-basics)
+  - [Introducing the Python pandas library](#introducing-the-python-pandas-library)
+  - [Loading and saving data with pandas](#loading-and-saving-data-with-pandas)
+  - [Viewing and inspecting data with pandas](#viewing-and-inspecting-data-with-pandas)
+  - [Manipulating data with pandas](#manipulating-data-with-pandas)
+  - [Working with dates and times in pandas](#working-with-dates-and-times-in-pandas)
 - [**2. openpyxl**](#2-openpyxl) (4 videos)
-  - Using openpyxl with Workbooks
-  - Selecting cells, rows, and columns
-  - Adding workbook formatting
-  - Creating names, ranges, and tables
+  - [Using openpyxl with Workbooks](#using-openpyxl-with-workbooks)
+  - [Selecting cells, rows, and columns](#selecting-cells-rows-and-columns)
+  - [Adding workbook formatting](#adding-workbook-formatting)
+  - [Creating names, ranges, and tables](#creating-names-ranges-and-tables)
 - [**3. Working with Reports**](#3-working-with-reports) (5 videos)
-  - Managing multiple sheets
-  - Working with large worksheets
-  - Conditional formatting
-  - Creating Excel plots in Python
-  - Exporting Python plots to Excel
+  - [Managing multiple sheets](#managing-multiple-sheets)
+  - [Working with large worksheets](#working-with-large-worksheets)
+  - [Conditional formatting](#conditional-formatting)
+  - [Creating Excel plots in Python](#creating-excel-plots-in-python)
+  - [Exporting Python plots to Excel](#exporting-python-plots-to-excel)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing Excel with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980)
@@ -104,14 +104,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Python (Programming Language)|Python]] (7), [[Analytics]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), data (1)
 > **CLI Commands:** python (7)
-> **Code Keywords:** this. (1), let (1)
 > **Env Vars:** mvp (1)
 
 
 ### 1. Python and pandas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Jupyter Notebooks basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980)
@@ -180,10 +180,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Search]] (2), hit (2), [[Pandas (Software)|Pandas]] (2), data (1)
 > **Tools:** jupyter (9), terminal (1)
 > **CLI Commands:** python (5), make (1)
 > **UI Navigation:** navigate to (2), click on (2), open the (1), go to (1)
-> **Code Keywords:** interface (4), module (1)
 > **Definitions:** short for (1), known as (1), is a  (1)
 > **Exercise Files:** download the (1), exercise files (1)
 
@@ -244,8 +244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (9), data (8), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
 > **CLI Commands:** python (4), make (1)
-> **Code Keywords:** this, (1), case, (1), module (1)
 > **UI Navigation:** open the (1), go to (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
@@ -324,9 +324,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (9), [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (2), next (1)
 > **Code Identifiers:** read_excel (4), sheet_name (1), to_excel (1)
 > **CLI Commands:** python (2), find (1)
-> **Code Keywords:** function (2), pass (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
 
@@ -381,7 +381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), default, (1), include = (1)
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (2), next (2), [[Statistics]] (2), [[Microsoft Excel|Excel]] (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Tools:** anaconda (1)
@@ -457,8 +457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), data (5), [[Microsoft Excel|Excel]] (3)
 > **Code Identifiers:** tip_pct (5), total_bill (2), dinner_sorted (1), sort_values (1)
-> **Code Keywords:** finally, (1), default, (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
@@ -545,10 +545,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (6), [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** month_name (2), to_datetime (1), to_period (1), set_index (1)
 > **Definitions:** is a  (2), known as (1), stands for (1)
 > **CLI Commands:** find (1), python (1)
-> **Code Keywords:** case, (1), finally, (1)
 > **Documentation:** the documentation (2)
 > **Ports:** :15 (1)
 > **Cross-References:** in the last (1)
@@ -557,7 +557,7 @@ created: 2026-04-29
 
 ### 2. openpyxl
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using openpyxl with Workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/using-openpyxl-with-workbooks?u=76281980)
@@ -622,7 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), data (6), [[Python (Programming Language)|Python]] (2), next (2)
 > **Code Identifiers:** load_workbook (2), create_sheet (1), active_sheet (1)
 > **CLI Commands:** python (2)
 > **Tools:** jupyter (1)
@@ -698,9 +698,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3), next (1)
 > **Code Identifiers:** load_workbook (2), my_cell (2), cell_range (2), get_column_letter (1), col_range (1)
 > **Analogies:** for example (3), just like (1), such as (1)
-> **Code Keywords:** function (3), this, (1)
 > **UI Navigation:** open the (1), go to (1)
 
 #### Adding workbook formatting
@@ -784,7 +784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), finally, (2)
+> **Frameworks & Libraries:** data (4), next (2), [[Microsoft Excel|Excel]] (2), business (1)
 > **Code Identifiers:** number_format (1), column_dimensions (1)
 > **Env Vars:** cf3338 (1), format_percentage (1)
 > **Versions:** 0.5 (2)
@@ -862,9 +862,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), data (6), [[Python (Programming Language)|Python]] (2), next (2), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** defined_names (1), new_range (1), dataframe_to_rows (1), showrowstripes (1), add_table (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** function (2)
 > **UI Navigation:** open the (2)
 > **Documentation:** the documentation (1)
 > **Analogies:** just like (1)
@@ -872,7 +872,7 @@ created: 2026-04-29
 
 ### 3. Working with Reports
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing multiple sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980)
@@ -955,8 +955,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3), next (2)
 > **Code Identifiers:** df_all (3), all_shifts (1), results_cell (1), e_value (1), f_value (1)
-> **Code Keywords:** function (1)
 > **UI Navigation:** open the (1)
 
 #### Working with large worksheets
@@ -1044,8 +1044,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (8), [[Microsoft Excel|Excel]] (4), next (3), [[Big Data]] (1)
 > **Exercise Files:** template (6)
-> **Code Keywords:** function (2), type, (1), case, (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Code Identifiers:** read_csv (1), perc_crimes (1), dataframe_to_rows (1)
 > **Definitions:** is a  (2)
@@ -1130,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), this, (1), new, (1), return, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** highlight_cells (2), highlight_rows (2), style_tips (2), to_excel (1)
 > **CLI Commands:** python (2), make (2)
 > **UI Navigation:** open the (2)
@@ -1204,9 +1204,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (2), next (1)
 > **Code Identifiers:** max_row (5), pop_col (2), get_loc (2), borough_col (2), min_col (2)
 > **CLI Commands:** make (2), python (2), find (1)
-> **Code Keywords:** extends (1), finally, (1)
 > **Env Vars:** nyc (1), a10 (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** open the (1)
@@ -1282,8 +1282,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), data (5), [[Python (Programming Language)|Python]] (5), next (3)
 > **CLI Commands:** python (5), make (2)
-> **Code Keywords:** function (1), finally, (1), type, (1), switch (1), static (1)
 > **Analogies:** for example (2), it's like (1)
 > **UI Navigation:** open the (1), click on (1)
 > **Definitions:** is an  (1), is called (1)
@@ -1293,7 +1293,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980)
@@ -1326,8 +1326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Excel|Excel]] (6), [[Analytics]] (3), data (2), next (1)
 > **CLI Commands:** python (6)
-> **Code Keywords:** continue (1), let (1)
 
 
 ## Instructor

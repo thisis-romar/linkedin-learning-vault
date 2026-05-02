@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Microsoft%20SQL%20Server%202022%20Essential%20Training.md)
@@ -48,95 +48,95 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Create databases with SQL Server 2022
-  - What you should know
-  - Exploring the code challenge environment
+  - [Create databases with SQL Server 2022](#create-databases-with-sql-server-2022)
+  - [What you should know](#what-you-should-know)
+  - [Exploring the code challenge environment](#exploring-the-code-challenge-environment)
 - [**1. Getting Started**](#1-getting-started) (7 videos)
-  - Core concepts
-  - Choose a SQL Server 2022 edition
-  - Install SQL Server on your PC
-  - Install Management Studio
-  - Enable features with Configuration Manager
-  - Deploy SQL Server 2022 in the Azure cloud
-  - Work with SQL Server in Docker
+  - [Core concepts](#core-concepts)
+  - [Choose a SQL Server 2022 edition](#choose-a-sql-server-2022-edition)
+  - [Install SQL Server on your PC](#install-sql-server-on-your-pc)
+  - [Install Management Studio](#install-management-studio)
+  - [Enable features with Configuration Manager](#enable-features-with-configuration-manager)
+  - [Deploy SQL Server 2022 in the Azure cloud](#deploy-sql-server-2022-in-the-azure-cloud)
+  - [Work with SQL Server in Docker](#work-with-sql-server-in-docker)
 - [**2. Logging in to the Server**](#2-logging-in-to-the-server) (4 videos)
-  - User permissions and authentication
-  - Log in with Management Studio
-  - Enable the System Administrator account
-  - Connect to Azure and Docker servers
+  - [User permissions and authentication](#user-permissions-and-authentication)
+  - [Log in with Management Studio](#log-in-with-management-studio)
+  - [Enable the System Administrator account](#enable-the-system-administrator-account)
+  - [Connect to Azure and Docker servers](#connect-to-azure-and-docker-servers)
 - [**3. Creating Databases**](#3-creating-databases) (9 videos)
-  - Create the first database
-  - Database configuration options
-  - Table structures
-  - Create a simple table
-  - Edit a table's structure
-  - Enter data into a table using the GUI
-  - Import data from CSV files
-  - Create tables from flat files
-  - Install a sample database
+  - [Create the first database](#create-the-first-database)
+  - [Database configuration options](#database-configuration-options)
+  - [Table structures](#table-structures)
+  - [Create a simple table](#create-a-simple-table)
+  - [Edit a table's structure](#edit-a-tables-structure)
+  - [Enter data into a table using the GUI](#enter-data-into-a-table-using-the-gui)
+  - [Import data from CSV files](#import-data-from-csv-files)
+  - [Create tables from flat files](#create-tables-from-flat-files)
+  - [Install a sample database](#install-a-sample-database)
 - [**4. Table Design for Healthy Databases**](#4-table-design-for-healthy-databases) (10 videos)
-  - Choose appropriate data types
-  - SQL Server data type options
-  - Automatically assign record identities
-  - Primary key fields
-  - Establish a default value
-  - Check constraints
-  - Unique constraints
-  - Foreign keys
-  - Create a foreign key column
-  - Create relationships between tables
+  - [Choose appropriate data types](#choose-appropriate-data-types)
+  - [SQL Server data type options](#sql-server-data-type-options)
+  - [Automatically assign record identities](#automatically-assign-record-identities)
+  - [Primary key fields](#primary-key-fields)
+  - [Establish a default value](#establish-a-default-value)
+  - [Check constraints](#check-constraints)
+  - [Unique constraints](#unique-constraints)
+  - [Foreign keys](#foreign-keys)
+  - [Create a foreign key column](#create-a-foreign-key-column)
+  - [Create relationships between tables](#create-relationships-between-tables)
 - [**5. Structured Query Language**](#5-structured-query-language) (17 videos)
-  - Understand the role of T-SQL
-  - Use the T-SQL editor
-  - Create a table with T-SQL
-  - Solution: Create tables with T-SQL commands
-  - Add data to a table
-  - Solution: Add data with T-SQL commands
-  - Retrieve records with SELECT
-  - Solution: Query data in a database
-  - Filter returned results with WHERE
-  - Sort records
-  - Solution: Filter and sort data with a query
-  - Delete records from a table
-  - Update records in a table
-  - Solution: Remove and update records in a table
-  - Joining related tables
-  - Solution: Query information from related tables
-  - Remove a table from the database
+  - [Understand the role of T-SQL](#understand-the-role-of-t-sql)
+  - [Use the T-SQL editor](#use-the-t-sql-editor)
+  - [Create a table with T-SQL](#create-a-table-with-t-sql)
+  - [Solution: Create tables with T-SQL commands](#solution-create-tables-with-t-sql-commands)
+  - [Add data to a table](#add-data-to-a-table)
+  - [Solution: Add data with T-SQL commands](#solution-add-data-with-t-sql-commands)
+  - [Retrieve records with SELECT](#retrieve-records-with-select)
+  - [Solution: Query data in a database](#solution-query-data-in-a-database)
+  - [Filter returned results with WHERE](#filter-returned-results-with-where)
+  - [Sort records](#sort-records)
+  - [Solution: Filter and sort data with a query](#solution-filter-and-sort-data-with-a-query)
+  - [Delete records from a table](#delete-records-from-a-table)
+  - [Update records in a table](#update-records-in-a-table)
+  - [Solution: Remove and update records in a table](#solution-remove-and-update-records-in-a-table)
+  - [Joining related tables](#joining-related-tables)
+  - [Solution: Query information from related tables](#solution-query-information-from-related-tables)
+  - [Remove a table from the database](#remove-a-table-from-the-database)
 - [**6. Writing Efficient Queries**](#6-writing-efficient-queries) (9 videos)
-  - Create a view of the data
-  - Data table indexes
-  - Create additional indexes on a table
-  - Aggregate functions
-  - Use built-in functions
-  - Leverage user-defined scalar functions
-  - Introduction to stored procedures
-  - Create stored procedures
-  - Parameterized stored procedures
+  - [Create a view of the data](#create-a-view-of-the-data)
+  - [Data table indexes](#data-table-indexes)
+  - [Create additional indexes on a table](#create-additional-indexes-on-a-table)
+  - [Aggregate functions](#aggregate-functions)
+  - [Use built-in functions](#use-built-in-functions)
+  - [Leverage user-defined scalar functions](#leverage-user-defined-scalar-functions)
+  - [Introduction to stored procedures](#introduction-to-stored-procedures)
+  - [Create stored procedures](#create-stored-procedures)
+  - [Parameterized stored procedures](#parameterized-stored-procedures)
 - [**7. Backup and Restore**](#7-backup-and-restore) (5 videos)
-  - Create a full backup of the database
-  - Create a differential backup
-  - Restore a backup
-  - Business continuity solutions
-  - Continuously replicate data to the cloud
+  - [Create a full backup of the database](#create-a-full-backup-of-the-database)
+  - [Create a differential backup](#create-a-differential-backup)
+  - [Restore a backup](#restore-a-backup)
+  - [Business continuity solutions](#business-continuity-solutions)
+  - [Continuously replicate data to the cloud](#continuously-replicate-data-to-the-cloud)
 - [**8. Security**](#8-security) (5 videos)
-  - Create a new user account
-  - User roles and permissions
-  - Database schemas
-  - Dynamic data masking
-  - Always On data encryption
+  - [Create a new user account](#create-a-new-user-account)
+  - [User roles and permissions](#user-roles-and-permissions)
+  - [Database schemas](#database-schemas)
+  - [Dynamic data masking](#dynamic-data-masking)
+  - [Always On data encryption](#always-on-data-encryption)
 - [**9. Monitoring and Management**](#9-monitoring-and-management) (5 videos)
-  - Explore the role of system databases
-  - Prevent excessive TempDB autogrowth
-  - Review the SQL Server error log
-  - Dynamic management views
-  - Database Console Commands (DBCC)
+  - [Explore the role of system databases](#explore-the-role-of-system-databases)
+  - [Prevent excessive TempDB autogrowth](#prevent-excessive-tempdb-autogrowth)
+  - [Review the SQL Server error log](#review-the-sql-server-error-log)
+  - [Dynamic management views](#dynamic-management-views)
+  - [Database Console Commands (DBCC)](#database-console-commands-dbcc)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create databases with SQL Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980)
@@ -161,9 +161,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Databases]] (2), data (2), [[Microsoft]] (1), database (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [adam] (1)
 
 #### What you should know
@@ -183,6 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), data (2), database (1), management (1), application (1)
 > **Env Vars:** sql (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -226,8 +227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** this, (1)
 > **SQL:** select (1)
 > **Env Vars:** select (1)
 > **Versions:** 10.99 (1)
@@ -238,7 +239,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Core concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980)
@@ -333,8 +334,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), database (12), [[SQL]] (11), management (10), data (6)
 > **Env Vars:** sql (34), rdbms (1)
-> **Code Keywords:** interface (6), let (1), protected (1), from. (1)
 > **Prerequisites:** install (5), you'll need (2), getting started (1), set up (1)
 > **Definitions:** is called (2), is a  (1), stands for (1)
 > **Analogies:** such as (3)
@@ -399,6 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), database (4), express (4), feature (3), business (2)
 > **Env Vars:** sql (7), cpu (3)
 > **Definitions:** means that (2)
 > **Analogies:** such as (1)
@@ -520,10 +522,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), [[Databases]] (6), application (3), [[Windows]] (2), data (2)
 > **Env Vars:** sql (13), url (1), usb (1), mssql (1), version (1)
 > **Prerequisites:** install (6), you'll need (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** interface (4), case, (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Tools:** command line (2), command prompt (1)
 > **Exercise Files:** download the (2)
@@ -574,10 +576,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), management (3), database (1), web (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (7), ssms (5), url (1)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** click on (3), scroll down (2)
-> **Code Keywords:** let (2), interface (1)
 > **Prerequisites:** install (2), setup (1)
 > **Versions:** version 19 (1)
 > **Cross-References:** in the next (1)
@@ -670,10 +672,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (14), database (3), [[Microsoft SQL Server]] (1), [[Microsoft Office|Office]] (1), next (1)
 > **Env Vars:** sql (15), mssql (1)
 > **UI Navigation:** click on (4), in the toolbar (1), dropdown (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** finally, (1), require (1)
 > **Analogies:** for example (1), for instance (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
@@ -819,10 +821,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), next (6), [[Microsoft]] (4), cloud (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** sql (11), ssd (1)
 > **UI Navigation:** scroll down (4), go to (4), dropdown (2)
 > **CLI Commands:** make (7), find (2)
-> **Code Keywords:** let (4), public (2), this, (1), finally, (1)
 > **Prerequisites:** set up (2), you'll need (1), install (1), configure (1)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Definitions:** is a  (1)
@@ -953,6 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (12), [[Windows]] (6), [[Linux]] (4), [[Microsoft]] (3), prompt (3)
 > **CLI Commands:** docker (15), make (3), find (1)
 > **Env Vars:** sql (12)
 > **Tools:** docker desktop (3), command prompt (3), terminal (1)
@@ -960,12 +963,11 @@ created: 2026-04-29
 > **UI Navigation:** click on (3)
 > **Code Identifiers:** macos (2)
 > **Definitions:** is a  (1), is an  (1)
-> **File Paths:** docker_sql_server_2022.txt (1)
 
 
 ### 2. Logging in to the Server
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### User permissions and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980)
@@ -1030,10 +1032,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), data (9), [[Microsoft SQL Server|Sql server]] (5), [[Windows]] (2), management (2)
 > **Env Vars:** sql (5)
 > **Definitions:** is called (2)
 > **Analogies:** such as (1), for instance (1)
-> **Code Keywords:** finally, (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1160,8 +1162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Databases]] (5), management (4), database (4), [[Windows]] (4)
 > **Env Vars:** sql (11), ssis (1)
-> **Code Keywords:** let (2), finally, (2), type, (1), switch (1), interface (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** dropdown (2), click on (1), go to (1)
 > **Versions:** version 19 (1)
@@ -1316,10 +1318,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (14), [[Windows]] (12), data (5), [[Security]] (4), database (2)
 > **Env Vars:** sql (14), rfid (1)
 > **UI Navigation:** right-click (4), scroll up (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (3), default, (1)
 > **Definitions:** stands for (1), means that (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
@@ -1438,9 +1440,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), management (4), [[Microsoft Azure|Azure]] (3), database (2), next (2)
 > **Env Vars:** sql (12)
 > **CLI Commands:** docker (5), find (2), make (1)
-> **Code Keywords:** let (4), case, (2), public (1), interface (1)
 > **UI Navigation:** click on (2), scroll down (1), in the sidebar (1)
 > **Ports:** port 1401 (3)
 > **Prerequisites:** set up (3)
@@ -1450,7 +1452,7 @@ created: 2026-04-29
 
 ### 3. Creating Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create the first database
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980)
@@ -1623,8 +1625,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (22), [[Microsoft SQL Server|Sql server]] (18), [[Databases]] (10), data (10), management (7)
 > **Env Vars:** sql (27), create (2), database (2), data (2), mssqlserver (1)
-> **Code Keywords:** interface (6), let (6), this. (1), pass (1), finally, (1)
 > **CLI Commands:** make (5), find (4)
 > **Tools:** command prompt (4)
 > **Definitions:** means that (1), is an  (1), is a  (1)
@@ -1759,7 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (3), interface (2), continue (2), switch (2)
+> **Frameworks & Libraries:** database (26), data (13), [[Microsoft SQL Server|Sql server]] (9), [[Databases]] (5), management (3)
 > **Env Vars:** sql (11), mdf (1), ldf (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** for instance (3)
@@ -1851,9 +1853,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Microsoft SQL Server|Sql server]] (9), database (5), [[Search]] (1), next (1)
 > **CLI Commands:** make (8), find (2)
 > **Env Vars:** sql (9)
-> **Code Keywords:** require (2), for. (1), finally, (1), type, (1)
 > **Analogies:** for instance (3), for example (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Definitions:** is an  (1)
@@ -2020,7 +2022,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type, (4), finally, (2), this, (2), new, (1)
+> **Frameworks & Libraries:** data (31), database (8), [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (2), next (2)
 > **Env Vars:** sql (6)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), means that (1), is called (1)
@@ -2082,8 +2084,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft SQL Server|Sql server]] (3), management (2), database (1), [[Security]] (1)
 > **CLI Commands:** make (6), find (2)
-> **Code Keywords:** let (2), require (2), delete (1)
 > **Env Vars:** sql (3)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** for instance (2)
@@ -2176,7 +2178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (2), interface (1)
+> **Frameworks & Libraries:** data (8), database (5), next (4), management (1), power (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
@@ -2346,9 +2348,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (37), next (9), database (8), [[Microsoft SQL Server|Sql server]] (7), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** csv (12), sql (7)
 > **CLI Commands:** make (5), find (3)
-> **Code Keywords:** finally, (3), require (1), if, (1), switch (1), case, (1)
 > **UI Navigation:** click on (2), dropdown (2), checkbox (1)
 > **Analogies:** such as (3), for instance (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -2466,8 +2468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), database (6), next (6), [[Microsoft Products|Products]] (4), product (3)
 > **Env Vars:** dbo (2), int (2), sql (1), csv (1), tsql (1)
-> **Code Keywords:** continue (1), import. (1), this. (1), switch (1), type. (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** dropdown (2), select the (1), click on (1)
 > **Cross-References:** in the last (2), in the next (1)
@@ -2554,10 +2556,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[Microsoft SQL Server|Sql server]] (8), [[Microsoft]] (4), data (3), [[Databases]] (2)
 > **Env Vars:** sql (8), mssql (2), url (1), mssql16 (1), server (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** github (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -2566,7 +2568,7 @@ created: 2026-04-29
 
 ### 4. Table Design for Healthy Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose appropriate data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980)
@@ -2615,9 +2617,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), database (4), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), hr (1)
 > **Env Vars:** sql (2), int (1), abc (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), type, (1), type. (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2749,7 +2751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (3), type, (3), interface (1), finally, (1)
+> **Frameworks & Libraries:** data (36), [[Microsoft SQL Server|Sql server]] (3), next (3), power (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** sql (4), xml (1)
 > **Definitions:** is a  (2), is called (1), stands for (1)
 > **CLI Commands:** make (1), find (1)
@@ -2851,7 +2853,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (3), type. (1)
+> **Frameworks & Libraries:** data (10), database (5), [[Microsoft SQL Server|Sql server]] (2), [[Security]] (1)
 > **Env Vars:** int (3), sql (2), ctrl (1)
 > **CLI Commands:** make (4), find (1)
 > **Documentation:** specification (3)
@@ -2923,9 +2925,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), database (2), [[Microsoft SQL Server|Sql server]] (2), data (2), feature (1)
 > **CLI Commands:** find (5), make (2)
 > **UI Navigation:** click on (3), toggle (2), open the (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** sql (2)
 > **Documentation:** specification (1)
 > **Definitions:** is an  (1)
@@ -3035,7 +3037,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1), this, (1), type. (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (7), data (5), database (4), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2), eb522 (1), eb523 (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -3156,7 +3158,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (12), database (3), [[Microsoft SQL Server|Sql server]] (2), business (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (4), click on (1), in the toolbar (1), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (2)
@@ -3295,9 +3297,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft SQL Server|Sql server]] (7), data (6), product (6), database (3)
 > **CLI Commands:** make (5), cat (4), find (2)
 > **Env Vars:** sql (7), bp112 (1)
-> **Code Keywords:** let (5), match. (1), finally, (1)
 > **UI Navigation:** dropdown (2), click on (1)
 > **Versions:** 4.99 (1), 1.90 (1)
 > **Definitions:** is a  (1), is called (1)
@@ -3389,8 +3391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), data (5), application (2), [[Microsoft Office|Office]] (2), [[Relational Databases]] (1)
 > **CLI Commands:** find (8)
-> **Code Keywords:** let (3), if, (1)
 > **UI Navigation:** right-click (3), go to (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **Cross-References:** go back to (1)
@@ -3512,7 +3514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), new, (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** data (9), product (8), [[Microsoft Products|Products]] (7), database (3), next (1)
 > **Env Vars:** nvarchar (2), bp104 (2), sql (1)
 > **CLI Commands:** find (2), make (1), cat (1)
 > **UI Navigation:** click on (3), checkbox (1)
@@ -3629,8 +3631,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), data (4), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Products|Products]] (3), database (3)
 > **Env Vars:** sql (4), zz100 (2)
-> **Code Keywords:** case, (3), let (1), continue (1)
 > **CLI Commands:** find (2), make (1)
 > **Documentation:** specification (3)
 > **UI Navigation:** click on (3)
@@ -3640,7 +3642,7 @@ created: 2026-04-29
 
 ### 5. Structured Query Language
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the role of T-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980)
@@ -3697,8 +3699,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), database (5), management (3), [[Microsoft]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (9), ansi (2), getdate (1)
-> **Code Keywords:** function (4), interface (2), let (1), continue (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Documentation:** the documentation (1)
@@ -3851,8 +3853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (4), management (3), database (3), next (3)
 > **Env Vars:** sql (8), tsql (3), dbo (2)
-> **Code Keywords:** interface (3), let (2), finally, (2), type. (1), case. (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for instance (3)
 > **UI Navigation:** click on (1), scroll down (1)
@@ -3993,8 +3995,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (6), management (4), database (4), data (4), next (3)
 > **Env Vars:** sql (9), varchar (1)
-> **Code Keywords:** type. (2), interface (1), while, (1), let (1), this, (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **UI Navigation:** dropdown (1), select the (1), click on (1)
@@ -4089,7 +4091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), class. (1), type. (1), this. (1)
+> **Frameworks & Libraries:** data (11), next (2)
 > **Env Vars:** insert (2), create (1), table (1)
 > **CLI Commands:** make (3)
 > **SQL:** create table (1)
@@ -4201,7 +4203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), continue (1), case, (1)
+> **Frameworks & Libraries:** data (9), database (6), product (4), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2)
 > **Env Vars:** sql (5)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** dropdown (2), open the (1), in the toolbar (1)
@@ -4289,11 +4291,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), database (1)
 > **Env Vars:** insert (6), itemname (2), category (2), price (2), select (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 10.99 (1), 12.49 (1), 6.99 (1)
 > **SQL:** select (1), insert into (1)
-> **Code Keywords:** from. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno upbeat music) (1)
 
@@ -4388,9 +4390,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), database (7), [[Microsoft SQL Server|Sql server]] (4), next (1), [[SQL]] (1)
 > **Env Vars:** select (14), sql (5), top (1)
 > **SQL:** select (14)
-> **Code Keywords:** let (5), switch (2), from. (1)
 > **UI Navigation:** dropdown (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
@@ -4452,9 +4454,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), next (2), data (1)
 > **SQL:** select (4)
 > **Env Vars:** select (4)
-> **Code Keywords:** from. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -4517,6 +4519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[Microsoft SQL Server|Sql server]] (2), management (2), [[SQL]] (1), feature (1)
 > **Env Vars:** sql (2)
 > **File Paths:** where_start.sql (1)
 > **CLI Commands:** make (1)
@@ -4592,6 +4595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2)
 > **Analogies:** for instance (3)
 > **Env Vars:** desc (2)
 > **CLI Commands:** make (1)
@@ -4706,7 +4710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (4), data (3), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 29.99 (1), 13.99 (1), 10.99 (1)
 > **Non-Speech:** (instructor typing) (2), (upbeat music) (1)
@@ -4807,7 +4811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (12), let (6), this, (1)
+> **Frameworks & Libraries:** database (5), data (3), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2), delete (1), where (1)
 > **CLI Commands:** make (2)
 > **SQL:** delete from (1), where (1)
@@ -4865,9 +4869,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), data (1), database (1), product (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), delete (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5012,9 +5016,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (4), database (2), next (2), express (1)
 > **Env Vars:** where (8), set (7), update (6), delete (3), select (1)
 > **SQL:** where (8), update (6), select (1), delete from (1)
-> **Code Keywords:** let (7), delete (6)
 > **CLI Commands:** make (5), find (3)
 > **API Endpoints:** delete  (3)
 > **UI Navigation:** select the (1)
@@ -5128,9 +5132,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), data (6), next (3), [[SQL]] (2), product (2)
 > **Env Vars:** join (9), select (6), inner (5), sql (2), bp104 (1)
 > **SQL:** select (6), join (5), inner join (4)
-> **Code Keywords:** let (4), this, (1), this. (1), finally, (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** cat (1)
 > **Definitions:** is an  (1)
@@ -5245,7 +5249,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from, (1), continue (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5347,9 +5350,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), data (4), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), power (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** sql (4), gui (1)
-> **Code Keywords:** let (1), finally, (1), delete (1), interface (1)
 > **File Paths:** complete.sql (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - if (1)
@@ -5357,7 +5360,7 @@ created: 2026-04-29
 
 ### 6. Writing Efficient Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a view of the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980)
@@ -5542,9 +5545,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft Products|Products]] (6), [[SQL]] (5), database (3), product (3)
 > **Env Vars:** select (12), sql (7), order (2)
 > **SQL:** select (12), order by (2)
-> **Code Keywords:** finally, (5), case, (1), this, (1), let (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), toggle (1)
@@ -5618,9 +5621,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), data (4), node (2), database (2), [[SQL]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** find (3), node (2)
-> **Code Keywords:** let (2), for. (1), delete (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - sql (1)
@@ -5690,8 +5693,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (1), [[SQL]] (1), [[Search]] (1), next (1)
 > **Env Vars:** sql (1), create (1), nonclustered (1), index (1), asc (1)
-> **Code Keywords:** let (1), case, (1), finally, (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
 > **SQL:** index (1)
@@ -5858,7 +5861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (12), require (1), this, (1)
+> **Frameworks & Libraries:** data (11), database (5), [[SQL]] (2), [[Statistics]] (1), application (1)
 > **Env Vars:** max (5), where (4), sql (2), select (2), group (1)
 > **CLI Commands:** find (6), make (2)
 > **SQL:** where (4), select (2), group by (1)
@@ -5986,7 +5989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (7), return. (1), case, (1), from. (1)
+> **Frameworks & Libraries:** data (14), [[Microsoft SQL Server|Sql server]] (5), database (4), [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1)
 > **Env Vars:** sql (5), url (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** scroll down (1), select the (1), in the sidebar (1), scroll up (1)
@@ -6152,7 +6155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (21), let (8), type. (2), return. (2), finally, (2)
+> **Frameworks & Libraries:** data (21), next (4), database (3), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (1)
 > **Env Vars:** sql (4), begin (1)
 > **Versions:** 10.2 (3), 1.8 (2)
 > **CLI Commands:** find (2), make (2)
@@ -6228,9 +6231,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), application (5), [[Security]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
 > **Env Vars:** sql (2), tsql (2), exec (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), case, (1)
 > **Analogies:** just like (1), such as (1)
 > **Code Identifiers:** uspgetcustomerorders (1)
 > **Definitions:** means that (1)
@@ -6363,7 +6366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), return. (2), type, (1)
+> **Frameworks & Libraries:** database (8), [[Search]] (5), [[SQL]] (2), [[JSON]] (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** sql (2), json (2), usp (2)
 > **UI Navigation:** click on (3), scroll down (3)
 > **CLI Commands:** find (3), make (1)
@@ -6469,7 +6472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (2), case. (1), type. (1), finally, (1)
+> **Frameworks & Libraries:** product (3), database (2), [[Search]] (2), data (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** scroll down (3)
 > **Code Identifiers:** uspselectproductsbycolor (1), peramcolor (1)
 > **CLI Commands:** make (1)
@@ -6478,7 +6481,7 @@ created: 2026-04-29
 
 ### 7. Backup and Restore
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a full backup of the database
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980)
@@ -6589,7 +6592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), delete (1), type. (1), continue (1)
+> **Frameworks & Libraries:** database (16), [[Microsoft SQL Server|Sql server]] (4), data (3), next (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** sql (5), url (2)
 > **UI Navigation:** click on (2), select the (1), dropdown (1), checkbox (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
@@ -6660,8 +6663,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), data (1), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** delete (1), case, (1), let (1)
 > **Env Vars:** sql (1), bak (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -6748,7 +6751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), continue (1), case, (1), switch (1)
+> **Frameworks & Libraries:** database (14), data (3), [[Microsoft SQL Server|Sql server]] (3), product (2), next (1)
 > **UI Navigation:** click on (2), dropdown (2)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (2)
@@ -6825,10 +6828,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (14), business (5), data (4), [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2)
 > **Env Vars:** sql (3)
 > **Definitions:** is an  (1), is called (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -6877,16 +6880,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), data (6), cloud (5), [[Databases]] (5), database (5)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 8. Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new user account
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980)
@@ -6983,7 +6986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (2), switch (1), function (1)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Microsoft SQL Server|Sql server]] (5), [[Windows]] (4), [[Security]] (3), database (3)
 > **Env Vars:** sql (5)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), in the sidebar (1)
@@ -7092,7 +7095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (4), finally, (2), switch (1), delete (1)
+> **Frameworks & Libraries:** database (19), data (11), [[Security]] (2), [[Databases]] (2), [[Windows]] (2)
 > **Code Identifiers:** db_owner (1), db_backupoperators (1), db_ddladmin (1), db_datawriters (1), db_datareaders (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** sql (1)
@@ -7264,7 +7267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (2), continue (1), case, (1), this, (1)
+> **Frameworks & Libraries:** database (14), data (9), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (2), application (2)
 > **Env Vars:** sql (3), schema (2), create (1), alter (1), transfer (1)
 > **UI Navigation:** click on (5), scroll up (1)
 > **CLI Commands:** make (4), find (1)
@@ -7370,7 +7373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3)
+> **Frameworks & Libraries:** data (22), database (5), [[Microsoft SQL Server|Sql server]] (2), feature (1), [[Security]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -7534,7 +7537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (4), delete (2), type. (1), type, (1)
+> **Frameworks & Libraries:** data (12), database (11), next (9), [[Microsoft SQL Server|Sql server]] (7), [[Windows]] (7)
 > **Env Vars:** sql (7)
 > **UI Navigation:** click on (4), select the (1)
 > **Definitions:** means that (1), is a  (1)
@@ -7544,7 +7547,7 @@ created: 2026-04-29
 
 ### 9. Monitoring and Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the role of system databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980)
@@ -7597,8 +7600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), [[Databases]] (10), [[Microsoft SQL Server|Sql server]] (9), management (1), data (1)
 > **Env Vars:** sql (9)
-> **Code Keywords:** delete (2), let (2), finally, (1)
 > **Analogies:** just like (2), such as (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -7652,8 +7655,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for instance (1)
@@ -7699,11 +7702,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), management (1), [[Search]] (1), [[Troubleshooting]] (1)
 > **Env Vars:** sql (4)
 > **UI Navigation:** click on (2), in the toolbar (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** default, (1)
 > **Analogies:** for instance (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -7775,8 +7778,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), management (6), [[Microsoft SQL Server|Sql server]] (5), data (2), [[Microsoft]] (2)
 > **Env Vars:** sql (5), select (3), view (2), state (2), server (1)
-> **Code Keywords:** require (2), let (2)
 > **SQL:** select (3)
 > **Definitions:** is called (3)
 > **CLI Commands:** find (2)
@@ -7889,8 +7892,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), data (10), [[Databases]] (3), feature (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** dbcc (5), checkdb (5), sql (1), checktable (1), checkcatalog (1)
-> **Code Keywords:** let (2), case, (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -7901,7 +7904,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980)
@@ -7932,6 +7935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (2), database (2), product (1), [[Database Administration]] (1)
 > **Env Vars:** sql (6)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [adam] (1)

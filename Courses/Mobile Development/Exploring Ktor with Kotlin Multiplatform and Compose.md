@@ -30,7 +30,7 @@ tags:
   - skill/ktor
   - skill/kotlin
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Exploring%20Ktor%20with%20Kotlin%20Multiplatform%20and%20Compose.md)
@@ -49,59 +49,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Explore Ktor with Kotlin Multiplatform and Compose Multiplatform
+  - [Explore Ktor with Kotlin Multiplatform and Compose Multiplatform](#explore-ktor-with-kotlin-multiplatform-and-compose-multiplatform)
 - [**1. Getting Started with Ktor Server**](#1-getting-started-with-ktor-server) (6 videos)
-  - Set up Kotlin Multiplatform (KMP) projects with a Ktor server
-  - Essential Ktor plugins
-  - NASA Astronomy Picture of the Day (APOD) API integration
-  - APOD API endpoints with validation
-  - Challenge: Enhanced date validation
-  - Solution: Enhanced date validation
+  - [Set up Kotlin Multiplatform (KMP) projects with a Ktor server](#set-up-kotlin-multiplatform-kmp-projects-with-a-ktor-server)
+  - [Essential Ktor plugins](#essential-ktor-plugins)
+  - [NASA Astronomy Picture of the Day (APOD) API integration](#nasa-astronomy-picture-of-the-day-apod-api-integration)
+  - [APOD API endpoints with validation](#apod-api-endpoints-with-validation)
+  - [Challenge: Enhanced date validation](#challenge-enhanced-date-validation)
+  - [Solution: Enhanced date validation](#solution-enhanced-date-validation)
 - [**2. Data Storage and Caching**](#2-data-storage-and-caching) (6 videos)
-  - SQLite setup with Exposed object-relational mapping (ORM)
-  - Data access layer implementation
-  - Caching layer integration
-  - Background jobs and scheduling
-  - Challenge: Log each cached APOD
-  - Solution: Log each cached APOD
+  - [SQLite setup with Exposed object-relational mapping (ORM)](#sqlite-setup-with-exposed-object-relational-mapping-orm)
+  - [Data access layer implementation](#data-access-layer-implementation)
+  - [Caching layer integration](#caching-layer-integration)
+  - [Background jobs and scheduling](#background-jobs-and-scheduling)
+  - [Challenge: Log each cached APOD](#challenge-log-each-cached-apod)
+  - [Solution: Log each cached APOD](#solution-log-each-cached-apod)
 - [**3. Advanced API Features**](#3-advanced-api-features) (6 videos)
-  - Enhanced error handling and status pages
-  - Advanced routing and request processing
-  - Performance monitoring and optimization
-  - API documentation and testing
-  - Challenge: Date range filtering
-  - Solution: Date range filtering
+  - [Enhanced error handling and status pages](#enhanced-error-handling-and-status-pages)
+  - [Advanced routing and request processing](#advanced-routing-and-request-processing)
+  - [Performance monitoring and optimization](#performance-monitoring-and-optimization)
+  - [API documentation and testing](#api-documentation-and-testing)
+  - [Challenge: Date range filtering](#challenge-date-range-filtering)
+  - [Solution: Date range filtering](#solution-date-range-filtering)
 - [**4. Kotlin Multiplatform Foundations**](#4-kotlin-multiplatform-foundations) (5 videos)
-  - KMP project architecture
-  - Shared data models and constants
-  - Dependency injection setup
-  - Challenge: Platform-specific logging
-  - Solution: Platform-specific logging
+  - [KMP project architecture](#kmp-project-architecture)
+  - [Shared data models and constants](#shared-data-models-and-constants)
+  - [Dependency injection setup](#dependency-injection-setup)
+  - [Challenge: Platform-specific logging](#challenge-platform-specific-logging)
+  - [Solution: Platform-specific logging](#solution-platform-specific-logging)
 - [**5. Shared Network Layer**](#5-shared-network-layer) (5 videos)
-  - Ktor client setup
-  - Repository pattern with shared code
-  - Shared business logic
-  - Challenge: Repository error handling
-  - Solution: Repository error handling
+  - [Ktor client setup](#ktor-client-setup)
+  - [Repository pattern with shared code](#repository-pattern-with-shared-code)
+  - [Shared business logic](#shared-business-logic)
+  - [Challenge: Repository error handling](#challenge-repository-error-handling)
+  - [Solution: Repository error handling](#solution-repository-error-handling)
 - [**6. Compose Multiplatform UI**](#6-compose-multiplatform-ui) (6 videos)
-  - Compose UI architecture
-  - APOD display screens
-  - Client integration
-  - Use cases and clean architecture
-  - Challenge: Complete the FindScreen navigation
-  - Solution: Complete the FindScreen navigation
+  - [Compose UI architecture](#compose-ui-architecture)
+  - [APOD display screens](#apod-display-screens)
+  - [Client integration](#client-integration)
+  - [Use cases and clean architecture](#use-cases-and-clean-architecture)
+  - [Challenge: Complete the FindScreen navigation](#challenge-complete-the-findscreen-navigation)
+  - [Solution: Complete the FindScreen navigation](#solution-complete-the-findscreen-navigation)
 - [**7. iOS Integration**](#7-ios-integration) (5 videos)
-  - Understanding iOS generation
-  - Xcode project configuration
-  - Running on iOS simulator
-  - Challenge: Cross-platform verification
-  - Solution: Cross-platform verification
+  - [Understanding iOS generation](#understanding-ios-generation)
+  - [Xcode project configuration](#xcode-project-configuration)
+  - [Running on iOS simulator](#running-on-ios-simulator)
+  - [Challenge: Cross-platform verification](#challenge-cross-platform-verification)
+  - [Solution: Cross-platform verification](#solution-cross-platform-verification)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and course summary
+  - [Next steps and course summary](#next-steps-and-course-summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Ktor with Kotlin Multiplatform and Compose Multiplatform
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/exploring-ktor-with-kotlin-multiplatform-and-compose?u=76281980)
@@ -120,14 +120,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Android]] (2), teams (1), data (1), [[LinkedIn]] (1), [[Kotlin]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - do (1)
 
 
 ### 1. Getting Started with Ktor Server
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up Kotlin Multiplatform (KMP) projects with a Ktor server
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980)
@@ -196,7 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (6), let (2), function (2), pass (1)
+> **Frameworks & Libraries:** application (4), [[Ktor]] (3), database (3), [[Dependency Injection]] (2), [[Kotlin]] (1)
 > **Prerequisites:** setup (3), configure (2), install (2), set up (1)
 > **Code Identifiers:** appconfigmodule (1), databasemodule (1), appmodule (1), initializedatabase (1), configureserialization (1)
 > **Env Vars:** orm (1), api (1), apod (1), http (1)
@@ -254,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (1), function (1)
+> **Frameworks & Libraries:** [[Ktor]] (6), application (2), api (2), [[JSON]] (1), [[Kotlin]] (1)
 > **Env Vars:** http (2), api (2), json (1), apod (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -364,8 +364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), data (3), [[Ktor]] (2), database (2), hit (2)
 > **Env Vars:** apod (11), api (10), nasa (9), ngc (2)
-> **Code Keywords:** module (3), let (2), interface (1)
 > **Code Identifiers:** gettodayapod (2), apodservice (1), apoddao (1), cachedapod (1)
 > **Analogies:** picture (2), just like (1)
 > **CLI Commands:** make (2)
@@ -462,8 +462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), database (1)
 > **Env Vars:** api (7), apod (6), url (1), iso (1), http (1)
-> **Code Keywords:** let (3), module (1), function (1), throw (1), continue (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** validatedate (1)
 > **UI Navigation:** go to (1)
@@ -496,7 +496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), throw (1)
+> **Frameworks & Libraries:** business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -545,7 +545,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), throw (1), pass (1)
 > **Env Vars:** apod (3)
 > **UI Navigation:** go to (3)
 > **Cross-References:** go back to (1)
@@ -556,7 +555,7 @@ created: 2026-04-29
 
 ### 2. Data Storage and Caching
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SQLite setup with Exposed object-relational mapping (ORM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980)
@@ -623,8 +622,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (4), [[Kotlin]] (3), [[Metadata]] (2), [[Ktor]] (1)
 > **Env Vars:** nasa (2), apod (1), api (1), orm (1), url (1)
-> **Code Keywords:** module (1), function (1)
 > **Code Identifiers:** initializedatabase (1), mediatype (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** mysql (1)
@@ -706,8 +705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), database (4), [[Metadata]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (1), management (1)
 > **Env Vars:** dao (7), varchar (2), dsl (1), nasa (1), jdbc (1)
-> **Code Keywords:** let (2), function (2), module (1), finally, (1)
 > **SQL:** varchar (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -780,8 +779,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), database (4), [[Fetch]] (4), data (3), [[Metadata]] (1)
 > **Env Vars:** apod (7), nasa (7), api (7)
-> **Code Keywords:** module (1), class. (1), let (1), from. (1)
 > **Code Identifiers:** getapod (1)
 > **Speakers:** - [instructor] (1)
 
@@ -836,9 +835,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (2), [[Kotlin]] (2), [[Fetch]] (1), api (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** module (1)
 > **Code Identifiers:** cachemetadatadao (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** set up (1)
@@ -861,7 +860,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** database (1), [[Debugging]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -892,8 +891,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (1), api (1), [[Debugging]] (1)
 > **Env Vars:** apod (5), api (1)
-> **Code Keywords:** let (1), this, (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -902,7 +901,7 @@ created: 2026-04-29
 
 ### 3. Advanced API Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhanced error handling and status pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980)
@@ -953,7 +952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (1), function (1), throw (1), class. (1)
+> **Frameworks & Libraries:** generic (3), [[Ktor]] (1), application (1), [[JSON]] (1)
 > **Env Vars:** http (2), json (1), dao (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
@@ -1022,8 +1021,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (3), api (3), [[JSON]] (2), [[SQL]] (2), web (1)
 > **Env Vars:** apod (3), api (2), json (2), sql (2), http (1)
-> **Code Keywords:** function (3), let (2), module (1), self (1)
 > **API Endpoints:** /api/admin/db-status (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1076,7 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), function (1)
+> **Frameworks & Libraries:** [[Ktor]] (2), api (2), database (2), next (1), hit (1)
 > **API Endpoints:** get  (1), /api/apod/random (1)
 > **Env Vars:** apod (1), api (1)
 > **Code Identifiers:** configuremonitoring (1)
@@ -1121,8 +1120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[Manual Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), [[Ktor]] (1)
 > **Env Vars:** api (6), http (2), apod (1), yaml (1), rest (1)
-> **Code Keywords:** module (1), self (1), let (1), assert (1)
 > **Tools:** insomnia (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -1153,8 +1152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -1223,8 +1222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** enddate (4), startdate (3), pagesize (2), enddates (1), getpaginated (1)
-> **Code Keywords:** pass (1), throw (1), let (1), this. (1), return. (1)
 > **Env Vars:** dau (1), dao (1)
 > **Non-Speech:** (bright rhythmic music) (1), (bright rhythmic music fading) (1)
 > **Analogies:** think of it as (1)
@@ -1233,7 +1232,7 @@ created: 2026-04-29
 
 ### 4. Kotlin Multiplatform Foundations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### KMP project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980)
@@ -1306,8 +1305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (6), [[Kotlin]] (4), [[Kotlin Multiplatform|Kmp]] (2), business (2), data (2)
 > **Code Identifiers:** ios (5), composeapp (2), iosapp (2), commonmain (2), androidmain (2)
-> **Code Keywords:** module (4), interface (3), let (2), finally, (1)
 > **Env Vars:** kmp (2), apod (1)
 > **Versions:** 1.0 (1)
 > **Prerequisites:** setup (1)
@@ -1358,9 +1357,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Kotlin]] (4), [[Android]] (3), [[JSON]] (1), api (1)
 > **Code Identifiers:** ios (3), commonmain (3)
 > **Env Vars:** json (1), api (1), url (1), jvm (1), kmp (1)
-> **Code Keywords:** module (3), let (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1413,7 +1412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (6), class, (1), function (1), let (1), switch (1)
+> **Frameworks & Libraries:** [[Android]] (5), [[Kotlin]] (2), database (1), [[Unit Testing]] (1), [[Dependency Injection]] (1)
 > **Code Identifiers:** ios (3)
 > **Env Vars:** apod (3)
 > **Prerequisites:** set up (1), setup (1)
@@ -1448,8 +1447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (3), [[Kotlin]] (1), [[Kotlin Multiplatform]] (1)
 > **Code Identifiers:** commonmain (1), androidmain (1), ios (1)
-> **Code Keywords:** module (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1505,7 +1504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Android]] (2), api (1), [[Xcode]] (1)
 > **Code Identifiers:** jvmmain (1), androidmain (1), iosmain (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
@@ -1515,7 +1514,7 @@ created: 2026-04-29
 
 ### 5. Shared Network Layer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ktor client setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980)
@@ -1554,8 +1553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (3), [[Ktor]] (3), [[JSON]] (2), [[Kotlin]] (1), data (1)
 > **Env Vars:** http (4), json (2), jvm (1), url (1)
-> **Code Keywords:** module (2), function (1)
 > **Code Identifiers:** ios (3)
 > **Prerequisites:** set up (1), configure (1), install (1)
 > **Definitions:** is a  (1)
@@ -1605,8 +1604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Kotlin]] (3), [[Ktor]] (2), [[Unit Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** apod (8), http (2)
-> **Code Keywords:** interface (2), let (1), abstract (1), module (1), pass (1)
 > **API Endpoints:** get  (1)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** set up (1)
@@ -1669,7 +1668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), module (1), pass (1), return. (1)
+> **Frameworks & Libraries:** business (2), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Android]] (1)
 > **Env Vars:** apod (3)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
@@ -1741,7 +1740,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), else, (1), interface (1)
 > **UI Navigation:** go to (3), click on (1), navigate to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** apod (1)
@@ -1793,7 +1791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** apod (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1804,7 +1802,7 @@ created: 2026-04-29
 
 ### 6. Compose Multiplatform UI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compose UI architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980)
@@ -1845,8 +1843,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (2), [[Kotlin]] (2), [[Jetpack Compose|Compose]] (1), [[Fetch]] (1)
 > **Env Vars:** mvvm (1), apod (1)
-> **Code Keywords:** module (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1885,8 +1883,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Android]] (1), data (1), [[Fetch]] (1), business (1)
 > **Env Vars:** apod (5)
-> **Code Keywords:** module (1), async (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
@@ -1929,7 +1927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), module (1)
+> **Frameworks & Libraries:** data (3), api (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** api (1), http (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1974,7 +1972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), function (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), business (3), [[Jetpack Compose|Compose]] (1), [[Kotlin]] (1), [[Android]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2009,8 +2007,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2052,10 +2050,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Jetpack Compose]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** toggle (1), click on (1), navigate to (1)
 > **File Paths:** app.kt (1)
-> **Code Keywords:** self (1)
 > **Code Identifiers:** onapodclick (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -2064,7 +2062,7 @@ created: 2026-04-29
 
 ### 7. iOS Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding iOS generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980)
@@ -2113,8 +2111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), [[Kotlin]] (4), [[Android]] (3), [[Swift (Programming Language)|Swift]] (3), [[Kotlin Multiplatform|Multiplatform]] (2)
 > **Code Identifiers:** ios (10)
-> **Code Keywords:** module (2)
 > **Env Vars:** apod (1), api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2173,9 +2171,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (6), [[Xcode]] (2), [[Kotlin]] (2), [[Swift (Programming Language)|Swift]] (2), [[Debugging]] (2)
 > **Code Identifiers:** ios (11)
 > **Analogies:** picture (5), just like (1)
-> **Code Keywords:** let (4), module (1)
 > **UI Navigation:** dropdown (1), click on (1), go to (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** apod (2)
@@ -2225,6 +2223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), [[Android]] (3), [[Memory Management]] (1), business (1)
 > **Code Identifiers:** ios (6)
 > **Env Vars:** apod (4), url (1)
 > **Speakers:** - [instructor] (1)
@@ -2266,6 +2265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (2), [[Search]] (2), data (2), [[Kotlin]] (1)
 > **Code Identifiers:** ios (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2311,6 +2311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Kotlin]] (2), [[Jetpack Compose|Compose]] (2), [[Software Development]] (1), [[Manual Testing]] (1)
 > **Env Vars:** apod (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2319,7 +2320,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980)
@@ -2354,6 +2355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), [[Kotlin]] (2), [[Ktor]] (1), api (1), [[Android]] (1)
 > **Env Vars:** nasa (1), apod (1), api (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)

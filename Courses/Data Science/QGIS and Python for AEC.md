@@ -32,7 +32,7 @@ tags:
   - skill/aec
   - skill/quantum-gis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/QGIS%20and%20Python%20for%20AEC.md)
@@ -51,39 +51,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AEC with Python and QGIS
+  - [AEC with Python and QGIS](#aec-with-python-and-qgis)
 - [**1. Beginning Python**](#1-beginning-python) (4 videos)
-  - What is Python?
-  - Using the Python console
-  - Creating your first Python script
-  - Saving your Python scripts
+  - [What is Python?](#what-is-python)
+  - [Using the Python console](#using-the-python-console)
+  - [Creating your first Python script](#creating-your-first-python-script)
+  - [Saving your Python scripts](#saving-your-python-scripts)
 - [**2. Managing Layers and Projects with Python**](#2-managing-layers-and-projects-with-python) (4 videos)
-  - Working with projects
-  - Working with layers
-  - Setting the CRS
-  - Adding and creating layer definitions
+  - [Working with projects](#working-with-projects)
+  - [Working with layers](#working-with-layers)
+  - [Setting the CRS](#setting-the-crs)
+  - [Adding and creating layer definitions](#adding-and-creating-layer-definitions)
 - [**3. Geometry Handling**](#3-geometry-handling) (4 videos)
-  - Getting WKT from data
-  - Exporting geometry
-  - Filtering geometry
-  - Drawing new geometry
+  - [Getting WKT from data](#getting-wkt-from-data)
+  - [Exporting geometry](#exporting-geometry)
+  - [Filtering geometry](#filtering-geometry)
+  - [Drawing new geometry](#drawing-new-geometry)
 - [**4. Importing DWG and DXF**](#4-importing-dwg-and-dxf) (3 videos)
-  - Manually importing DWG
-  - Using Python to import DXF
-  - Converting lines to polygons with Python
+  - [Manually importing DWG](#manually-importing-dwg)
+  - [Using Python to import DXF](#using-python-to-import-dxf)
+  - [Converting lines to polygons with Python](#converting-lines-to-polygons-with-python)
 - [**5. Creating Plugins**](#5-creating-plugins) (6 videos)
-  - Installing Plugin Builder
-  - Using the Plugin Builder
-  - Create a batch file to load Python bindings
-  - Install plugin
-  - Using Qt Designer
-  - Adding Python to Plugin
+  - [Installing Plugin Builder](#installing-plugin-builder)
+  - [Using the Plugin Builder](#using-the-plugin-builder)
+  - [Create a batch file to load Python bindings](#create-a-batch-file-to-load-python-bindings)
+  - [Install plugin](#install-plugin)
+  - [Using Qt Designer](#using-qt-designer)
+  - [Adding Python to Plugin](#adding-python-to-plugin)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AEC with Python and QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980)
@@ -108,6 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[AEC]] (2), gis (2), data (1), [[AutoCAD]] (1)
 > **Env Vars:** qgis (5), aec (2), gis (2), dwg (1), dxf (1)
 > **CLI Commands:** python (4)
 > **Analogies:** such as (1)
@@ -116,7 +117,7 @@ created: 2026-04-29
 
 ### 1. Beginning Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Python?
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980)
@@ -311,9 +312,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (30), data (3), [[AEC]] (2), [[Windows]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** qgis (18), dxf (6), dwg (4), shp (3), aec (2)
 > **CLI Commands:** python (30), make (3)
-> **Code Keywords:** function (8), case, (3), pass (2), def, (1), def. (1)
 > **Prerequisites:** install (4), set up (4), before you begin (1), setup (1)
 > **Code Identifiers:** getmiles (5), mypython (1), themessage (1)
 > **Analogies:** for example (4), such as (2)
@@ -473,8 +474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), hit (9), next (5), data (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (20), make (4), find (1)
-> **Code Keywords:** interface (6), let (6), case. (2), type, (1)
 > **Env Vars:** qgis (4), utm (2), data (1), buildings (1), nad83 (1)
 > **Code Identifiers:** activelayer (6), showattributetable (1), showlayerproperties (1)
 > **UI Navigation:** toggle (4), in the menu (1), drag and drop (1)
@@ -779,9 +780,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), hit (11), data (7), next (2), [[Search]] (1)
 > **Env Vars:** qgis (8), road_centerlines (5), utm (4), epsg (4), nad83 (3)
 > **CLI Commands:** python (15), make (9)
-> **Code Keywords:** let (5), function (2), this. (2), interface (2), case, (1)
 > **Code Identifiers:** load_layers (6), setcrs (1)
 > **UI Navigation:** drag and drop (1), double-click (1), go to (1), right-click (1), toggle (1)
 > **File Paths:** load_layers.py (4)
@@ -959,8 +960,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), next (2), [[Zoom]] (2), hit (2), [[Search]] (1)
 > **CLI Commands:** python (13), make (2)
-> **Code Keywords:** let (6), this. (3), this, (2), return, (1), function (1)
 > **Env Vars:** utm (3), epsg (2), ogr (2), qgis (1)
 > **UI Navigation:** go to (3), drag and drop (2), double-click (1), right-click (1), click on (1)
 > **File Paths:** buffer.py (3)
@@ -971,7 +972,7 @@ created: 2026-04-29
 
 ### 2. Managing Layers and Projects with Python
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980)
@@ -1104,8 +1105,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), next (1), data (1), [[Zoom]] (1)
 > **CLI Commands:** python (10), make (2), unzip (1)
-> **Code Keywords:** let (6), this. (2), case, (1), interface (1), case. (1)
 > **Code Identifiers:** streetlight_map (2), streetlight_map_new (2), road_centerlines (1), save_project (1)
 > **Env Vars:** qgis (3), python (1), qgz (1), ogr (1)
 > **Exercise Files:** exercise files (5)
@@ -1296,8 +1297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), next (3), web (2), data (1), hit (1)
 > **Env Vars:** xyz (11), ecw (7), url (5), wms (4), row (3)
-> **Code Keywords:** let (9), case, (5), interface (3), else, (2), super (1)
 > **CLI Commands:** python (12), make (2), node (1), go run (1)
 > **Definitions:** is a  (4), is an  (1), stands for (1)
 > **Code Identifiers:** addvectorlayer (1), add_raster (1)
@@ -1422,9 +1423,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), hit (2)
 > **Env Vars:** crs (11), prj (9), epsg (7), wkt (4), utm (3)
 > **CLI Commands:** python (8), make (1)
-> **Code Keywords:** let (6), this. (1)
 > **URLs:** [spatialreference.org](https://spatialreference.org) (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1748,8 +1749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), hit (2), data (2), [[ArcGIS Pro]] (1), [[AutoCAD]] (1)
 > **Env Vars:** road_centerlines (9), qgis (6), easements (4), utm (2), qgs (2)
-> **Code Keywords:** let (8), this. (2), default, (1), case, (1), this, (1)
 > **Code Identifiers:** mylayer (6), road_layer (3), save_layer_definition (2), myinstance (2), loadlayerdefinition (1)
 > **CLI Commands:** python (13), find (1)
 > **UI Navigation:** drag and drop (4), go to (3), double-click (1)
@@ -1760,7 +1761,7 @@ created: 2026-04-29
 
 ### 3. Geometry Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting WKT from data
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980)
@@ -1925,7 +1926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), case, (1), fn (1), finally, (1)
+> **Frameworks & Libraries:** data (4), feature (3), [[Python (Programming Language)|Python]] (2), hit (2), [[MySQL]] (1)
 > **Env Vars:** utm (2), sql (1), epsg (1), qgis (1)
 > **UI Navigation:** scroll down (2), go to (1), drag and drop (1), scroll up (1)
 > **CLI Commands:** python (2), mysql (1), make (1)
@@ -2073,7 +2074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (3), this. (2), export, (1), case. (1)
+> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (3), next (2), traffic (1)
 > **Env Vars:** csv (9), qgis (2), utm (1), wkt (1), qgs (1)
 > **CLI Commands:** python (4)
 > **File Paths:** export_csv.py (1), layer.csv (1), text.csv (1)
@@ -2267,7 +2268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), type, (2), case, (1), if, (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), feature (3), next (1), data (1), hit (1)
 > **CLI Commands:** python (7), make (2)
 > **Env Vars:** qgis (5), epsg (2), utm (1), wkt (1)
 > **Definitions:** is a  (2), is called (1)
@@ -2468,7 +2469,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (1), this, (1)
+> **Frameworks & Libraries:** feature (16), data (11), [[Python (Programming Language)|Python]] (7), hit (2), next (1)
 > **CLI Commands:** python (7), make (5)
 > **Env Vars:** epsg (3), utm (2)
 > **Code Identifiers:** drawpoint (2), drawline (1), drawpolygon (1)
@@ -2480,7 +2481,7 @@ created: 2026-04-29
 
 ### 4. Importing DWG and DXF
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Manually importing DWG
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980)
@@ -2625,8 +2626,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[AutoCAD]] (6), hit (5), [[Zoom]] (3), gis (1)
 > **Env Vars:** dwg (13), parcels (6), qgis (4), crs (3), dxf (2)
-> **Code Keywords:** let (9), import. (3), export, (1), case. (1), this, (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -2747,8 +2748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (4), [[AutoCAD]] (2), [[Windows]] (1), [[Zoom]] (1)
 > **Env Vars:** dxf (18), crs (3), dwgdxf (2), qgis (2), qjs (1)
-> **Code Keywords:** let (4), case, (4), type, (2), else. (1), type. (1)
 > **CLI Commands:** python (6), make (2)
 > **Exercise Files:** exercise files (2)
 > **Analogies:** such as (2)
@@ -2869,9 +2870,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[AutoCAD]] (2), data (2), next (1), [[Zoom]] (1)
 > **Env Vars:** dwg (4), python (4), dxf (2), ep62910 (1), dwgdxf (1)
 > **CLI Commands:** python (4), find (1), make (1)
-> **Code Keywords:** let (4), this. (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **UI Navigation:** drag and drop (1), right-click (1), go to (1)
 > **Speakers:** - [instructor] (1)
@@ -2879,7 +2880,7 @@ created: 2026-04-29
 
 ### 5. Creating Plugins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Plugin Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980)
@@ -2944,8 +2945,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Search]] (1), [[Windows]] (1), next (1)
 > **CLI Commands:** python (4), make (3), find (1)
-> **Code Keywords:** let (5), default. (1), interface (1)
 > **Env Vars:** qgis (2), qgis3 (1), png (1)
 > **Prerequisites:** install (4)
 > **UI Navigation:** go to (1), click on (1)
@@ -3110,8 +3111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), hit (2), [[Python (Programming Language)|Python]] (2), data (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dxf (24), qrc (8), qgis (6)
-> **Code Keywords:** let (6), interface (2), module (1), case, (1), default, (1)
 > **CLI Commands:** python (2), find (1), make (1)
 > **UI Navigation:** dropdown (3), in the menu (1)
 > **Prerequisites:** set up (3), install (1)
@@ -3214,7 +3215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), interface (1), else. (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (2), cd (2), prompt (1), data (1)
 > **CLI Commands:** python (6), make (4), cd (2)
 > **Env Vars:** qgis (5), o4w (1), qrc (1), cmd (1), dir (1)
 > **Prerequisites:** set up (2), setup (1), install (1)
@@ -3288,8 +3289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (1), [[Search]] (1), hit (1)
 > **Env Vars:** dxf (6), qgis (4)
-> **Code Keywords:** let (4), interface (2), default, (1), this, (1)
 > **Code Identifiers:** save_dxf (7)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
 > **Cross-References:** previous video (1), next video (1), in the next (1)
@@ -3478,9 +3479,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (3), hit (2), [[Search]] (1), [[Windows]] (1)
 > **Env Vars:** dxf (15), qcgis (10), qgis (1), qcigis3 (1), qcgis3 (1)
 > **CLI Commands:** make (8), python (3), find (1)
-> **Code Keywords:** let (4), interface (1), default. (1), default, (1), export. (1)
 > **Code Identifiers:** combobox (4), objectname (1), combobox1 (1)
 > **UI Navigation:** scroll down (2), drag and drop (1)
 > **Definitions:** is called (1), refers to (1), is an  (1)
@@ -3714,7 +3715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (7), pass (3), default, (2), import. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), hit (6), next (2), gis (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** qgis (7), qgs (4), qgis3 (1), gis (1), utm (1)
 > **CLI Commands:** python (8), make (4)
 > **UI Navigation:** dropdown (6), in the menu (1), drag and drop (1)
@@ -3726,7 +3727,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980)
@@ -3747,6 +3748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Search]] (2), [[AEC]] (1), gis (1), [[Programming Concepts]] (1)
 > **Env Vars:** qgis (3), aec (1), gis (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - [gordon] (1)

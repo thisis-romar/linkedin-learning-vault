@@ -27,7 +27,7 @@ tags:
   - topic/security
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS%20Quick%20Tips%20for%20Developers.md)
@@ -46,31 +46,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Amazon Web Services Quick Tips**](#amazon-web-services-quick-tips) (21 videos)
-  - Amazon Web Services quick tips
-  - Triggering an AWS Lambda from DynamoDB
-  - Scheduling a Lambda to run regularly
-  - Generating an API Gateway for DynamoDB
-  - Allowing RDS access for multiple servers
-  - Sending email from an AWS Lambda
-  - Monitoring AWS billing with alarms
-  - Setting triggers for S3 bucket events
-  - Protecting an S3 bucket from deletion
-  - Saving money with S3 Glacier
-  - Using CloudTrail for user action audits
-  - Setting user policies with IAM groups
-  - Hitting an AWS Lambda via API Gateway
-  - Creating an SNS event with S3
-  - Easily hosting a web app on S3
-  - Limiting access via IAM boundaries
-  - Enable MFA for root security
-  - IAM credential report
-  - Cognito user pool triggers
-  - SQS
-  - CloudFront
+  - [Amazon Web Services quick tips](#amazon-web-services-quick-tips)
+  - [Triggering an AWS Lambda from DynamoDB](#triggering-an-aws-lambda-from-dynamodb)
+  - [Scheduling a Lambda to run regularly](#scheduling-a-lambda-to-run-regularly)
+  - [Generating an API Gateway for DynamoDB](#generating-an-api-gateway-for-dynamodb)
+  - [Allowing RDS access for multiple servers](#allowing-rds-access-for-multiple-servers)
+  - [Sending email from an AWS Lambda](#sending-email-from-an-aws-lambda)
+  - [Monitoring AWS billing with alarms](#monitoring-aws-billing-with-alarms)
+  - [Setting triggers for S3 bucket events](#setting-triggers-for-s3-bucket-events)
+  - [Protecting an S3 bucket from deletion](#protecting-an-s3-bucket-from-deletion)
+  - [Saving money with S3 Glacier](#saving-money-with-s3-glacier)
+  - [Using CloudTrail for user action audits](#using-cloudtrail-for-user-action-audits)
+  - [Setting user policies with IAM groups](#setting-user-policies-with-iam-groups)
+  - [Hitting an AWS Lambda via API Gateway](#hitting-an-aws-lambda-via-api-gateway)
+  - [Creating an SNS event with S3](#creating-an-sns-event-with-s3)
+  - [Easily hosting a web app on S3](#easily-hosting-a-web-app-on-s3)
+  - [Limiting access via IAM boundaries](#limiting-access-via-iam-boundaries)
+  - [Enable MFA for root security](#enable-mfa-for-root-security)
+  - [IAM credential report](#iam-credential-report)
+  - [Cognito user pool triggers](#cognito-user-pool-triggers)
+  - [SQS](#sqs)
+  - [CloudFront](#cloudfront)
 
 ### Amazon Web Services Quick Tips
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Amazon Web Services quick tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980)
@@ -95,9 +95,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), [[Amazon Web Services (AWS)|Amazon web services]] (1), power (1)
 > **CLI Commands:** aws (4), make (2)
 > **Env Vars:** aws (4), iam (1)
-> **Code Keywords:** self (1), lambda (1)
 > **Speakers:** - i (1)
 
 #### Triggering an AWS Lambda from DynamoDB
@@ -139,7 +139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (8), function (2)
+> **Frameworks & Libraries:** data (1), aws (1), database (1)
 > **Env Vars:** iam (1), dyn (1), aws (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** aws (1)
@@ -181,7 +181,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (2), function (1), case, (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
@@ -225,9 +224,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Android]] (1), [[JavaScript]] (1)
 > **Env Vars:** api (3), scores (1), ios (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** let (3), case, (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
@@ -253,10 +252,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[MySQL]] (2), [[Security]] (2), database (1), management (1)
 > **UI Navigation:** go to (2), click on (2), scroll down (1)
 > **CLI Commands:** mysql (2), make (1)
 > **Env Vars:** ec2 (2), rds (1)
-> **Code Keywords:** while, (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
@@ -303,7 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (4), function (3), pass (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[HTML]] (1)
 > **Env Vars:** ses (4), iam (1), html (1)
 > **Code Identifiers:** lambda_handler (1), send_email (1)
 > **Prerequisites:** set up (2)
@@ -339,10 +338,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), aws (1), cloud (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Env Vars:** aws (1), sns (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Setting triggers for S3 bucket events
@@ -376,7 +375,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (3), let (2), function (2), delete (1), type. (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** sns (1), sqs (1)
 > **Speakers:** - [instructor] (1)
@@ -414,7 +412,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (1)
 > **UI Navigation:** go to (2), click on (1), select the (1)
 > **Env Vars:** arn (2), iam (1)
 > **Cross-References:** go back to (1)
@@ -449,9 +446,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** class. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Using CloudTrail for user action audits
@@ -487,7 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (2), function (1)
+> **Frameworks & Libraries:** management (3), aws (1)
 > **Env Vars:** aws (1), sns (1), tco (1)
 > **CLI Commands:** aws (1), make (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -526,6 +523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), next (2), aws (1), [[Search]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **UI Navigation:** go to (1)
@@ -563,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (4), function (3), let (1)
+> **Frameworks & Libraries:** api (5), application (1), [[JSON]] (1), [[Security]] (1)
 > **Env Vars:** api (5), url (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -597,7 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (7), let (1)
+> **Frameworks & Libraries:** aws (1), [[JSON]] (1)
 > **Env Vars:** sns (3), aws (1), json (1)
 > **UI Navigation:** go to (2), dropdown (1), scroll down (1)
 > **CLI Commands:** aws (1), make (1)
@@ -641,6 +639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), [[React.js|React]] (3), web (1), [[npm]] (1)
 > **CLI Commands:** aws (3), npm (1), find (1)
 > **Prerequisites:** configure (2), getting started (1), install (1), set up (1)
 > **Env Vars:** aws (3), npm (1)
@@ -687,6 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **Env Vars:** iam (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** think of it as (1)
@@ -711,9 +711,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), [[Security]] (2), [[Multi-factor Authentication]] (1), [[Hardware]] (1)
 > **Env Vars:** mfa (4), aws (2)
 > **CLI Commands:** aws (2)
-> **Code Keywords:** continue (1), case, (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
@@ -783,7 +783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (5), function (1), raise (1)
+> **Frameworks & Libraries:** aws (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **UI Navigation:** click on (1)
@@ -828,7 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (4), let (1), function (1)
+> **Frameworks & Libraries:** aws (1)
 > **CLI Commands:** make (2), aws (1)
 > **Env Vars:** aws (1), sqs (1)
 > **UI Navigation:** select the (1)
@@ -872,8 +872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), web (2)
 > **File Paths:** index.html (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** rtmp (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)

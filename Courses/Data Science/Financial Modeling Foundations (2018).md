@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/financial-modeling
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Financial%20Modeling%20Foundations%20(2018).md)
@@ -45,67 +45,67 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Using Excel for financial modeling
-  - What you should know before watching this course
+  - [Using Excel for financial modeling](#using-excel-for-financial-modeling)
+  - [What you should know before watching this course](#what-you-should-know-before-watching-this-course)
 - [**1. Financial Modeling Basics**](#1-financial-modeling-basics) (8 videos)
-  - What is financial modeling?
-  - Why is financial modeling important?
-  - Business questions and financial models
-  - Data for a model
-  - Sources of data
-  - Gathering data from FRED for Excel
-  - Getting started with the project
-  - Excel tips for financial modeling
+  - [What is financial modeling?](#what-is-financial-modeling)
+  - [Why is financial modeling important?](#why-is-financial-modeling-important)
+  - [Business questions and financial models](#business-questions-and-financial-models)
+  - [Data for a model](#data-for-a-model)
+  - [Sources of data](#sources-of-data)
+  - [Gathering data from FRED for Excel](#gathering-data-from-fred-for-excel)
+  - [Getting started with the project](#getting-started-with-the-project)
+  - [Excel tips for financial modeling](#excel-tips-for-financial-modeling)
 - [**2. Corporate Financial Modeling: Three-Statement Financial Model**](#2-corporate-financial-modeling-three-statement-financial-model) (8 videos)
-  - Foundations of the model
-  - Linking financial statements
-  - Three-statement financial model
-  - Setting source parameters
-  - Assumptions in financial statements
-  - Forecasting in financial statements
-  - Putting it all together
-  - Improving model quality
+  - [Foundations of the model](#foundations-of-the-model)
+  - [Linking financial statements](#linking-financial-statements)
+  - [Three-statement financial model](#three-statement-financial-model)
+  - [Setting source parameters](#setting-source-parameters)
+  - [Assumptions in financial statements](#assumptions-in-financial-statements)
+  - [Forecasting in financial statements](#forecasting-in-financial-statements)
+  - [Putting it all together](#putting-it-all-together)
+  - [Improving model quality](#improving-model-quality)
 - [**3. Evaluating Corporate Financial Models: Three-Statement Model**](#3-evaluating-corporate-financial-models-three-statement-model) (3 videos)
-  - Financial modeling strategies
-  - Sensitivity analysis and financial models
-  - Adding visuals to a financial model
+  - [Financial modeling strategies](#financial-modeling-strategies)
+  - [Sensitivity analysis and financial models](#sensitivity-analysis-and-financial-models)
+  - [Adding visuals to a financial model](#adding-visuals-to-a-financial-model)
 - [**4. Investment Models: DCF Model**](#4-investment-models-dcf-model) (4 videos)
-  - Financial valuation models
-  - Cash flows in the valuation model
-  - Terminal value in a valuation model
-  - Interpreting a DCF model
+  - [Financial valuation models](#financial-valuation-models)
+  - [Cash flows in the valuation model](#cash-flows-in-the-valuation-model)
+  - [Terminal value in a valuation model](#terminal-value-in-a-valuation-model)
+  - [Interpreting a DCF model](#interpreting-a-dcf-model)
 - [**5. Banking Models**](#5-banking-models) (7 videos)
-  - Beyond the basics in financial models
-  - Corkscrews and models
-  - Waterfalls and models
-  - Adding toggles to a financial model
-  - Model outputs
-  - Hiding tabs and making models readable
-  - Stress testing models
+  - [Beyond the basics in financial models](#beyond-the-basics-in-financial-models)
+  - [Corkscrews and models](#corkscrews-and-models)
+  - [Waterfalls and models](#waterfalls-and-models)
+  - [Adding toggles to a financial model](#adding-toggles-to-a-financial-model)
+  - [Model outputs](#model-outputs)
+  - [Hiding tabs and making models readable](#hiding-tabs-and-making-models-readable)
+  - [Stress testing models](#stress-testing-models)
 - [**6. Buyout Models**](#6-buyout-models) (7 videos)
-  - Interest rate assumptions in models
-  - Discount rates in models
-  - Top-down financial models
-  - Bottom-up financial models
-  - IRR decisions in financial models
-  - NPV decisions in financial models
-  - Limits of financial models
+  - [Interest rate assumptions in models](#interest-rate-assumptions-in-models)
+  - [Discount rates in models](#discount-rates-in-models)
+  - [Top-down financial models](#top-down-financial-models)
+  - [Bottom-up financial models](#bottom-up-financial-models)
+  - [IRR decisions in financial models](#irr-decisions-in-financial-models)
+  - [NPV decisions in financial models](#npv-decisions-in-financial-models)
+  - [Limits of financial models](#limits-of-financial-models)
 - [**7. Financial Modeling across Industries**](#7-financial-modeling-across-industries) (4 videos)
-  - Characteristics of financial models
-  - Modeling in banking
-  - Modeling in corporate finance
-  - Modeling in investments
+  - [Characteristics of financial models](#characteristics-of-financial-models)
+  - [Modeling in banking](#modeling-in-banking)
+  - [Modeling in corporate finance](#modeling-in-corporate-finance)
+  - [Modeling in investments](#modeling-in-investments)
 - [**8. Building and Maintaining Models**](#8-building-and-maintaining-models) (4 videos)
-  - Applications of financial models
-  - Bitcoin and cryptocurrency valuation modeling
-  - Updating financial models
-  - Maintaining ongoing financial models
+  - [Applications of financial models](#applications-of-financial-models)
+  - [Bitcoin and cryptocurrency valuation modeling](#bitcoin-and-cryptocurrency-valuation-modeling)
+  - [Updating financial models](#updating-financial-models)
+  - [Maintaining ongoing financial models](#maintaining-ongoing-financial-models)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Excel for financial modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980)
@@ -132,7 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (1), [[Corporate Finance]] (1), [[Banking]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [mike] (1)
@@ -162,6 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Financial Modeling]] (1), [[Microsoft Office]] (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -169,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Financial Modeling Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is financial modeling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980)
@@ -272,7 +273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), return. (1), finally, (1)
+> **Frameworks & Libraries:** business (13), [[Financial Modeling]] (5), [[Microsoft Excel|Excel]] (2), [[Break-even Analysis]] (1), [[Probability]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), for example (1)
@@ -315,8 +316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Modeling]] (9), [[Microsoft Excel|Excel]] (6), career (2), [[Banking]] (2), [[Corporate Finance]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** include, (1), for, (1), raise (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -404,8 +405,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Financial Modeling]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** continue (1), while, (1), throw (1), let (1)
 > **Env Vars:** dcf (2)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (2)
@@ -472,7 +473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), from, (1), finally, (1), public (1), case, (1)
+> **Frameworks & Libraries:** data (29), [[Financial Modeling]] (1), next (1)
 > **Analogies:** for example (4)
 > **Env Vars:** crm (1)
 > **Cross-References:** in the next (1)
@@ -539,9 +540,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Databases]] (1), [[Statistics]] (1), [[Google]] (1), [[Search]] (1)
 > **Env Vars:** bls (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** raise (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -626,8 +627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Microsoft Excel|Excel]] (7), business (2), database (1), product (1)
 > **Env Vars:** fred (12)
-> **Code Keywords:** this, (3), let (2), require (1), this. (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -683,7 +684,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Financial Statements]] (4), data (2)
 > **Env Vars:** cogs (1)
 > **Speakers:** - [instructor] (1)
 
@@ -744,8 +745,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Financial Modeling]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -753,7 +754,7 @@ created: 2026-04-29
 
 ### 2. Corporate Financial Modeling: Three-Statement Financial Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundations of the model
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980)
@@ -856,10 +857,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (5), business (3), [[Financial Forecasting]] (3), [[Financial Modeling]] (2), product (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** cagr (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** go to (1)
@@ -940,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2)
+> **Frameworks & Libraries:** [[Financial Statements]] (4), [[Forecasting]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ebitda (1)
 > **Analogies:** picture (1)
@@ -999,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1), power (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** c22 (1), c27 (1), c28 (1)
 > **Speakers:** - [instructor] (1)
@@ -1101,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), case, (2), include, (1), finally, (1)
+> **Frameworks & Libraries:** next (4), [[Financial Statements]] (3), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1170,10 +1171,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (3), business (2), data (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** tam (1), cogs (1), sgna (1), cap (1)
 > **Versions:** 5.1 (1), 7.77 (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1230,7 +1231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1), data (1), [[Forecasting]] (1), [[Financial Forecasting]] (1)
 > **Analogies:** for example (1), picture (1)
 > **Versions:** 6.3 (1)
 > **Speakers:** - [instructor] (1)
@@ -1320,9 +1321,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** coggs (1), cagr (1), eps (1)
-> **Code Keywords:** this. (1), let (1)
 > **Cross-References:** in the last (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -1398,8 +1399,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (2), data (1)
 > **CLI Commands:** make (8), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** make sure you have (1)
@@ -1408,7 +1409,7 @@ created: 2026-04-29
 
 ### 3. Evaluating Corporate Financial Models: Three-Statement Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial modeling strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980)
@@ -1503,9 +1504,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Statements]] (3), next (2), business (2), [[Financial Modeling]] (2), data (1)
 > **CLI Commands:** make (13)
 > **Analogies:** for example (4)
-> **Code Keywords:** let (2), try. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** bad practice (1)
 > **Warnings:** be aware (1)
@@ -1564,7 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Corporate Finance]] (1), [[Microsoft Excel|Excel]] (1), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 6.3 (1), 3.41 (1), 2.84 (1), 3.35 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1624,7 +1625,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), business (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cogs (3)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
@@ -1633,7 +1634,7 @@ created: 2026-04-29
 
 ### 4. Investment Models: DCF Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial valuation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-valuation-models?u=76281980)
@@ -1704,8 +1705,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Forecasting]] (2)
 > **Tools:** terminal (5)
-> **Code Keywords:** continue (2), new, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1782,7 +1783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **CLI Commands:** make (1)
 > **Env Vars:** pmt (1)
 > **Speakers:** - [instructor] (1)
@@ -1862,8 +1863,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft Excel|Excel]] (1), hit (1)
 > **Tools:** terminal (8)
-> **Code Keywords:** case, (2), finally, (1), this, (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dcf (1)
 > **Versions:** 1.501 (1)
@@ -1945,8 +1946,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (8), data (2), next (2), [[Financial Statements]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** dcf (5), ddm (4), npv (3)
-> **Code Keywords:** case, (3), this, (1), case. (1), finally, (1), function (1)
 > **Versions:** 84.23 (1), 116.65 (1), 114.37 (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -1955,7 +1956,7 @@ created: 2026-04-29
 
 ### 5. Banking Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beyond the basics in financial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/beyond-the-basics-in-financial-models?u=76281980)
@@ -1998,7 +1999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2)
+> **Frameworks & Libraries:** [[Financial Modeling]] (1)
 > **Env Vars:** dcf (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -2057,8 +2058,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Definitions:** is a  (2), is called (1), is an  (1)
-> **Code Keywords:** return, (1), this, (1), default, (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dcf (2)
 > **Warnings:** be aware (1)
@@ -2145,7 +2146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (3), case, (2), yield (2), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[Microsoft Excel|Excel]] (2), feature (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2)
@@ -2217,7 +2218,6 @@ created: 2026-04-29
 > **Versions:** 2.8 (1), 4.7 (1), 6.6 (1), 23.782 (1), 16.175 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 > **Env Vars:** i66 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -2319,9 +2319,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (1), feature (1), power (1)
 > **Env Vars:** ddm (3), ebitda (3), dcf (2), lbo (1)
 > **Tools:** terminal (5)
-> **Code Keywords:** let (1), case, (1), for. (1)
 > **CLI Commands:** make (2)
 > **Versions:** 280.61 (1)
 > **UI Navigation:** toggle (1)
@@ -2421,7 +2421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), from, (1), case, (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** lbo (3), acme (2), dcf (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), right-click (1), scroll down (1)
@@ -2525,8 +2525,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Corporate Finance]] (1)
 > **Env Vars:** iror (9), lbo (1)
-> **Code Keywords:** return, (2), let (1), case, (1), return. (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2)
 > **Versions:** 2.2 (1)
@@ -2537,7 +2537,7 @@ created: 2026-04-29
 
 ### 6. Buyout Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Interest rate assumptions in models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980)
@@ -2646,9 +2646,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), business (1), [[Banking]] (1)
 > **Env Vars:** fred (5), baa (1)
 > **Versions:** 7.43 (2), 8.3 (1), 5.3 (1), 11.4 (1), 4.7 (1)
-> **Code Keywords:** function (2), for. (1), throw (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
@@ -2707,7 +2707,6 @@ created: 2026-04-29
 > **Tools:** terminal (5)
 > **Versions:** 279.69 (1), 203.54 (1), 262.91 (1), 192.01 (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** raise (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2802,8 +2801,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (2), [[Microsoft Products|Products]] (2), [[Forecasting]] (1), [[Financial Forecasting]] (1)
 > **Env Vars:** cagr (6), fred (1)
-> **Code Keywords:** let (3), switch (2), case. (1)
 > **UI Navigation:** switch to (2), scroll down (1), toggle (1)
 > **CLI Commands:** make (3)
 > **Versions:** 10.3 (1)
@@ -2893,8 +2892,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), data (3), [[Forecasting]] (2), power (2), [[Financial Forecasting]] (1)
 > **Env Vars:** cagr (5), gdp (1)
-> **Code Keywords:** switch (2), let (2), case. (1)
 > **Versions:** 0.1 (1), 7.1 (1), 9.7 (1)
 > **UI Navigation:** toggle (1), switch to (1)
 > **Definitions:** is a  (1)
@@ -2950,9 +2949,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Financial Modeling]] (1)
 > **Env Vars:** irr (14), lbo (1), ebitda (1)
 > **Versions:** 214.1819 (1), 20.3 (1), 18.8 (1), 35.4 (1)
-> **Code Keywords:** return, (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -3020,8 +3019,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Financial Modeling]] (1)
 > **Env Vars:** irr (14), npv (5), dcf (2), lbl (2)
-> **Code Keywords:** return, (1), case, (1), finally, (1)
 > **Versions:** 21.63 (2), 236.6 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -3163,8 +3162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Microsoft Excel|Excel]] (4), data (3), [[Financial Modeling]] (1), product (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** finally, (2), let (1), for. (1), default, (1)
 > **Analogies:** for example (2), picture (1)
 > **UI Navigation:** open the (1), go to (1)
 > **Definitions:** is a  (1)
@@ -3175,7 +3174,7 @@ created: 2026-04-29
 
 ### 7. Financial Modeling across Industries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of financial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/characteristics-of-financial-models?u=76281980)
@@ -3250,11 +3249,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Financial Statements]] (2), business (1)
 > **Env Vars:** dcf (3), irr (2), cagr (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), just like (1)
-> **Code Keywords:** this, (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3333,7 +3332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1), case, (1), return. (1)
+> **Frameworks & Libraries:** business (3), next (3), [[Financial Modeling]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1), we talked about (1)
 > **Speakers:** - [narrator] (1)
@@ -3375,6 +3374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (5), [[Financial Modeling]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -3419,7 +3419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), throw (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[Financial Statements]] (1)
 > **Definitions:** is an  (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
@@ -3427,7 +3427,7 @@ created: 2026-04-29
 
 ### 8. Building and Maintaining Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applications of financial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/applications-of-financial-models?u=76281980)
@@ -3496,9 +3496,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Financial Modeling]] (1)
 > **Env Vars:** abc (3), dcf (3), lbo (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (1), raise (1), private (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3560,10 +3560,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2), next (2), data (1), [[Financial Modeling]] (1)
 > **Versions:** 17.5 (1), 7.5 (1), 274.34 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Updating financial models
@@ -3599,7 +3599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Excel|Excel]] (1), next (1), management (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -3655,7 +3655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), this, (1)
+> **Frameworks & Libraries:** management (1), [[Microsoft Excel|Excel]] (1), [[Financial Planning]] (1), [[Corporate Finance]] (1)
 > **Versions:** 16.27 (1), 16.2 (1), 0.16 (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** for example (1)
@@ -3664,7 +3664,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980)
@@ -3705,6 +3705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[Banking]] (1), career (1), [[LinkedIn]] (1), [[Financial Forecasting]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** picture (1)

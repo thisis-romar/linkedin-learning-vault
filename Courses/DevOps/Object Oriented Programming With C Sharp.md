@@ -29,7 +29,7 @@ tags:
   - skill/object-oriented-programming-oop
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Object%20Oriented%20Programming%20With%20C%20Sharp.md)
@@ -48,47 +48,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Programming an object-oriented text adventure game
-  - What you should know
+  - [Programming an object-oriented text adventure game](#programming-an-object-oriented-text-adventure-game)
+  - [What you should know](#what-you-should-know)
 - [**1. Using .NET 6**](#1-using-net-6) (3 videos)
-  - Setting up .NET 6
-  - Classes
-  - Extending a class
+  - [Setting up .NET 6](#setting-up-net-6)
+  - [Classes](#classes)
+  - [Extending a class](#extending-a-class)
 - [**2. Scope**](#2-scope) (3 videos)
-  - Scope
-  - Singleton
-  - Partial classes
+  - [Scope](#scope)
+  - [Singleton](#singleton)
+  - [Partial classes](#partial-classes)
 - [**3. Command Pattern**](#3-command-pattern) (6 videos)
-  - The room
-  - Room movement
-  - Actions
-  - Execute action
-  - Go action
-  - Action loop
+  - [The room](#the-room)
+  - [Room movement](#room-movement)
+  - [Actions](#actions)
+  - [Execute action](#execute-action)
+  - [Go action](#go-action)
+  - [Action loop](#action-loop)
 - [**4. Overriding Methods**](#4-overriding-methods) (5 videos)
-  - Creating rooms
-  - Calculating neighbors
-  - Overriding methods
-  - Joining words
-  - Decorating rooms
+  - [Creating rooms](#creating-rooms)
+  - [Calculating neighbors](#calculating-neighbors)
+  - [Overriding methods](#overriding-methods)
+  - [Joining words](#joining-words)
+  - [Decorating rooms](#decorating-rooms)
 - [**5. Interfaces**](#5-interfaces) (6 videos)
-  - Items
-  - Inventory
-  - Using items
-  - Interfaces
-  - Creating a backpack
-  - Creating a chest
+  - [Items](#items)
+  - [Inventory](#inventory)
+  - [Using items](#using-items)
+  - [Interfaces](#interfaces)
+  - [Creating a backpack](#creating-a-backpack)
+  - [Creating a chest](#creating-a-chest)
 - [**6. Interaction**](#6-interaction) (4 videos)
-  - Creating a key and gold
-  - Populating items
-  - Take action
-  - Use action
+  - [Creating a key and gold](#creating-a-key-and-gold)
+  - [Populating items](#populating-items)
+  - [Take action](#take-action)
+  - [Use action](#use-action)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing with C#
+  - [Continuing with C#](#continuing-with-c)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Programming an object-oriented text adventure game
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/programming-an-object-oriented-text-adventure-game?u=76281980)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), game (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -133,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), game (2), [[Windows]] (1)
 > **Prerequisites:** set up (5), you'll need (2)
 > **Env Vars:** net (4), sdk (1)
 > **Tools:** visual studio (2), command line (1)
@@ -143,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Using .NET 6
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up .NET 6
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980)
@@ -216,7 +217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (4), pass (3), return, (2), case, (2)
+> **Frameworks & Libraries:** hit (5), game (4), oop (2), [[Version Control]] (2), [[Windows]] (1)
 > **Tools:** visual studio (3), terminal (1), command line (1)
 > **CLI Commands:** make (3), git (1)
 > **UI Navigation:** click on (2), open the (1), go to (1)
@@ -314,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), class. (5), let (4), abstract (4), this, (3)
+> **Frameworks & Libraries:** next (5), [[Functional Programming]] (1), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), hit (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
 > **Tools:** visual studio (2)
@@ -408,7 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (6), let (6), class, (4), public (4), pass (4)
+> **Frameworks & Libraries:** next (3), game (1), hit (1)
 > **Definitions:** is a  (2), is an  (2), we call this (1), is called (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -420,7 +421,7 @@ created: 2026-04-29
 
 ### 2. Scope
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/scope?u=76281980)
@@ -515,7 +516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), class. (5), extends (3), public (3), delete (2)
+> **Frameworks & Libraries:** game (5), next (3), oop (1), [[Programming]] (1), data (1)
 > **UI Navigation:** click on (2), select the (2), go to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** oop (1)
@@ -623,7 +624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (8), let (6), class. (6), class, (4), public (4)
+> **Frameworks & Libraries:** game (3), [[Representational State Transfer (REST)|Rest]] (2), oop (1), [[Design Patterns]] (1), application (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** oop (1)
 > **Cross-References:** go back to (1)
@@ -729,7 +730,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (5), class, (3), public (3), class. (2)
+> **Frameworks & Libraries:** business (3), game (3), [[Microsoft Word|Word]] (2), next (2), web application (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** means that (1), is a  (1)
@@ -741,7 +742,7 @@ created: 2026-04-29
 
 ### 3. Command Pattern
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The room
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/the-room?u=76281980)
@@ -808,7 +809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (6), let (2), class. (2), this, (1), public (1)
+> **Frameworks & Libraries:** game (1), [[Tokens]] (1), next (1)
 > **Exercise Files:** template (4)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
@@ -864,7 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1), pass (1), class, (1)
+> **Frameworks & Libraries:** next (4), [[Representational State Transfer (REST)|Rest]] (1), game (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -971,7 +972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (6), override (4), abstract (3), throw (3), let (2)
+> **Frameworks & Libraries:** game (4), next (2)
 > **Definitions:** is a  (2), means that (1), is called (1), is an  (1)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** make (1)
@@ -1042,7 +1043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2), public (1), protected (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (1)
 > **Analogies:** just like (1)
@@ -1151,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), let (4), override (3), pass (3), this, (2)
+> **Frameworks & Libraries:** next (5)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1245,7 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), var (2), class, (2), case. (2), case, (1)
+> **Frameworks & Libraries:** game (6), next (2), [[Debugging]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -1254,7 +1255,7 @@ created: 2026-04-29
 
 ### 4. Overriding Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating rooms
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-rooms?u=76281980)
@@ -1353,7 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (2), pass (2), function (1), private (1)
+> **Frameworks & Libraries:** next (4), node (2), [[Tokens]] (2)
 > **Non-Speech:** (computer keyboard clicking) (7)
 > **CLI Commands:** make (3), node (2), find (1)
 > **Cross-References:** in the next (1)
@@ -1406,7 +1407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -1522,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (9), class. (6), let (4), override (2), finally, (2)
+> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2), [[Search]] (1)
 > **Exercise Files:** template (4)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
@@ -1625,7 +1626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), class. (6), private (1), public (1), class, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (15), next (4), game (3)
 > **CLI Commands:** make (8)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **Prerequisites:** set up (1), before we start (1)
@@ -1703,7 +1704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (1), throw (1), this. (1)
+> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2)
 > **Definitions:** means that (2)
 > **UI Navigation:** select the (1)
 > **Best Practices:** don't forget (1)
@@ -1712,7 +1713,7 @@ created: 2026-04-29
 
 ### 5. Interfaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Items
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/items?u=76281980)
@@ -1761,7 +1762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (4), abstract (2), let (2), override (2), throw (2)
+> **Frameworks & Libraries:** game (3), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1810,7 +1811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), public (4), let (3), case, (1), private (1)
+> **Frameworks & Libraries:** game (2), [[Routing]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** net (1)
 > **Cross-References:** in the next (1)
@@ -1921,7 +1922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (6), pass (6), case, (3), class. (2)
+> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** find (20), make (2)
 > **Code Identifiers:** itemname (1)
 > **Analogies:** just like (1)
@@ -2042,7 +2043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (18), let (11), public (5), class. (3), class, (2)
+> **Frameworks & Libraries:** game (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), hit (1)
 > **CLI Commands:** make (6)
 > **Tools:** visual studio (5)
 > **Definitions:** is a  (2), is an  (1), means that (1), we call this (1)
@@ -2122,7 +2123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), interface (4), class. (3), public (2), private (2)
+> **Frameworks & Libraries:** game (2), [[Microsoft Word|Word]] (1), next (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -2234,7 +2235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (4), pass (3), override (2), class, (2)
+> **Frameworks & Libraries:** next (8), [[Representational State Transfer (REST)|Rest]] (2), game (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2)
 > **Tools:** visual studio (1)
@@ -2245,7 +2246,7 @@ created: 2026-04-29
 
 ### 6. Interaction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a key and gold
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-key-and-gold?u=76281980)
@@ -2314,7 +2315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class. (5), override (3), class, (3), public (2)
+> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (3), game (2), [[Tokens]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **UI Navigation:** toggle (1)
@@ -2464,7 +2465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), class. (4), continue (2), pass (2), interface (1)
+> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (3), game (3), [[Tokens]] (2)
 > **Non-Speech:** (keyboard keys clicking) (8)
 > **CLI Commands:** make (6), find (1)
 > **Code Identifiers:** pluralpre (2), pluralpost (2)
@@ -2592,7 +2593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), class. (4), pass (3), public (1), extends (1)
+> **Frameworks & Libraries:** next (5), game (3), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -2664,7 +2665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), class. (2), override (2), class, (1), public (1)
+> **Frameworks & Libraries:** game (5), next (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** arg (3)
 > **UI Navigation:** open the (1)
@@ -2676,7 +2677,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980)
@@ -2697,6 +2698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Design Patterns]] (1), [[Framework Design]] (1), next (1)
 > **Env Vars:** net (1)
 > **Speakers:** - [jesse] (1)
 

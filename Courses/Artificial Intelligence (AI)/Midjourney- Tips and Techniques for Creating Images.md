@@ -32,7 +32,7 @@ tags:
   - skill/midjourney
   - skill/conditional-image-generation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Midjourney-%20Tips%20and%20Techniques%20for%20Creating%20Images.md)
@@ -51,50 +51,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The rise of image generation apps
-  - Downloading and using the exercise files
+  - [The rise of image generation apps](#the-rise-of-image-generation-apps)
+  - [Downloading and using the exercise files](#downloading-and-using-the-exercise-files)
 - [**1. The Basics of Text to Image Prompts**](#1-the-basics-of-text-to-image-prompts) (5 videos)
-  - How text to image prompts work
-  - Joining Midjourney and installing Discord
-  - Creating your first Midjourney text prompt
-  - Creating your first Midjourney text prompt on the web
-  - Prompting on Midjourney, viewing your images, and finding inspiration
+  - [How text to image prompts work](#how-text-to-image-prompts-work)
+  - [Joining Midjourney and installing Discord](#joining-midjourney-and-installing-discord)
+  - [Creating your first Midjourney text prompt](#creating-your-first-midjourney-text-prompt)
+  - [Creating your first Midjourney text prompt on the web](#creating-your-first-midjourney-text-prompt-on-the-web)
+  - [Prompting on Midjourney, viewing your images, and finding inspiration](#prompting-on-midjourney-viewing-your-images-and-finding-inspiration)
 - [**2. Going Farther with Midjourney**](#2-going-farther-with-midjourney) (8 videos)
-  - Using external images with a text prompt
-  - Blending images
-  - Getting help and adjusting settings
-  - Using Midjourney v5 and beyond
-  - Text separation and weights to drive image creation
-  - Midjourney parameters for lighting, image size, and more
-  - Midjourney parameters for video, seamless textures, and more
-  - Using Style Raw and the Stylize Parameter
+  - [Using external images with a text prompt](#using-external-images-with-a-text-prompt)
+  - [Blending images](#blending-images)
+  - [Getting help and adjusting settings](#getting-help-and-adjusting-settings)
+  - [Using Midjourney v5 and beyond](#using-midjourney-v5-and-beyond)
+  - [Text separation and weights to drive image creation](#text-separation-and-weights-to-drive-image-creation)
+  - [Midjourney parameters for lighting, image size, and more](#midjourney-parameters-for-lighting-image-size-and-more)
+  - [Midjourney parameters for video, seamless textures, and more](#midjourney-parameters-for-video-seamless-textures-and-more)
+  - [Using Style Raw and the Stylize Parameter](#using-style-raw-and-the-stylize-parameter)
 - [**3. Midjourney 5 And Beyond**](#3-midjourney-5-and-beyond) (10 videos)
-  - Image and text prompt ideation: Repeat, describe, and shorten
-  - Multiple text prompts in one (Permutation Prompts)
-  - Pan and vary images
-  - Using Midjourney's 5.2 Zoom feature
-  - Changing part of an image with Vary Region (inpainting)
-  - Working with Midjourney v6
-  - Creating text in Midjourney v6
-  - Using the Style Reference parameter
-  - Character consistency in v6
-  - Experimenting with character consistency and permutations
+  - [Image and text prompt ideation: Repeat, describe, and shorten](#image-and-text-prompt-ideation-repeat-describe-and-shorten)
+  - [Multiple text prompts in one (Permutation Prompts)](#multiple-text-prompts-in-one-permutation-prompts)
+  - [Pan and vary images](#pan-and-vary-images)
+  - [Using Midjourney's 5.2 Zoom feature](#using-midjourneys-52-zoom-feature)
+  - [Changing part of an image with Vary Region (inpainting)](#changing-part-of-an-image-with-vary-region-inpainting)
+  - [Working with Midjourney v6](#working-with-midjourney-v6)
+  - [Creating text in Midjourney v6](#creating-text-in-midjourney-v6)
+  - [Using the Style Reference parameter](#using-the-style-reference-parameter)
+  - [Character consistency in v6](#character-consistency-in-v6)
+  - [Experimenting with character consistency and permutations](#experimenting-with-character-consistency-and-permutations)
 - [**4. First Look: Midjourney on the Web**](#4-first-look-midjourney-on-the-web) (5 videos)
-  - A tour of the Create tab
-  - Exploring the community for inspiration
-  - Organizing and rerolling previous image creations
-  - Uploading images
-  - Working in rooms
+  - [A tour of the Create tab](#a-tour-of-the-create-tab)
+  - [Exploring the community for inspiration](#exploring-the-community-for-inspiration)
+  - [Organizing and rerolling previous image creations](#organizing-and-rerolling-previous-image-creations)
+  - [Uploading images](#uploading-images)
+  - [Working in rooms](#working-in-rooms)
 - [**5. . Generative AI Alternatives and Issues**](#5-generative-ai-alternatives-and-issues) (3 videos)
-  - Using generative AI images with other AI apps
-  - Understanding Midjourney copyright
-  - Generative image app alternatives
+  - [Using generative AI images with other AI apps](#using-generative-ai-images-with-other-ai-apps)
+  - [Understanding Midjourney copyright](#understanding-midjourney-copyright)
+  - [Generative image app alternatives](#generative-image-app-alternatives)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your Midjourney learning experience
+  - [Continuing your Midjourney learning experience](#continuing-your-midjourney-learning-experience)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The rise of image generation apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980)
@@ -129,9 +129,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Midjourney]] (8), [[Generative AI]] (1), ux (1), prompt (1)
 > **Tools:** discord (2)
 > **Analogies:** imagine (2)
-> **Code Keywords:** let (1)
 > **Versions:** version 6 (1)
 > **Definitions:** known as (1)
 > **Speakers:** - if (1)
@@ -169,8 +169,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Midjourney]] (2), prompt (2), [[Generative AI]] (1)
 > **Exercise Files:** exercise files (4)
-> **Code Keywords:** this, (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for instance (1)
 > **UI Navigation:** double-click (1)
@@ -180,7 +180,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Text to Image Prompts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How text to image prompts work
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980)
@@ -223,7 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1), case, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), data (2), [[Midjourney]] (2), prompt (1), [[ChatGPT]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Joining Midjourney and installing Discord
@@ -303,8 +303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Midjourney]] (10), next (2), feature (1), prompt (1)
 > **Tools:** discord (10)
-> **Code Keywords:** this, (1), let (1), continue (1), for, (1)
 > **Prerequisites:** set up (3), getting started (1)
 > **URLs:** [midjourney.com](https://midjourney.com) (2), [discord.com](https://discord.com) (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -409,7 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), continue (2), let (2), return. (1)
+> **Frameworks & Libraries:** [[Midjourney]] (13), prompt (8), web (1), next (1)
 > **UI Navigation:** click on (5), go to (2), scroll up (1)
 > **Tools:** discord (4)
 > **Cross-References:** in the last (1), later in (1), in the next (1)
@@ -501,7 +501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), interface (1), return. (1), case. (1)
+> **Frameworks & Libraries:** web (6), [[Midjourney]] (4), prompt (4), next (2), feature (1)
 > **Tools:** discord (6), safari (1)
 > **UI Navigation:** click on (3), scroll up (1)
 > **Cross-References:** later in (1), in the next (1)
@@ -599,19 +599,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Midjourney]] (10), prompt (9), next (1), [[Microsoft Word|Word]] (1), [[Search]] (1)
 > **CLI Commands:** find (8)
 > **Tools:** discord (7)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **URLs:** [midjourney.com](https://midjourney.com) (5)
 > **Cross-References:** later in (2), in the last (1), as we saw (1)
-> **Code Keywords:** let (1), this. (1), this, (1)
 > **Analogies:** imagine (1), picture (1)
 > **Env Vars:** url (1)
 
 
 ### 2. Going Farther with Midjourney
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using external images with a text prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980)
@@ -770,7 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), private (1), public (1), this. (1)
+> **Frameworks & Libraries:** [[Midjourney]] (13), prompt (13), next (3), hit (2), feature (1)
 > **Analogies:** imagine (5), for instance (1)
 > **Tools:** discord (5)
 > **Definitions:** stands for (1), known as (1), is a  (1)
@@ -834,8 +834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Midjourney]] (5), prompt (2), web (1), [[Search]] (1)
 > **Tools:** discord (5)
-> **Code Keywords:** else, (1), this. (1), private (1), let (1)
 > **UI Navigation:** click on (2), scroll down (1), right-click (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), kind of like (1)
@@ -974,7 +974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), this. (1), return, (1), private (1)
+> **Frameworks & Libraries:** [[Midjourney]] (13), prompt (12), [[Remix]] (7), power (1), next (1)
 > **Analogies:** imagine (5), for instance (2), such as (1), similar to (1)
 > **Versions:** version 4 (4), version 5 (3)
 > **CLI Commands:** find (1), cat (1), make (1)
@@ -1110,7 +1110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (3), for. (2), case, (1), return, (1)
+> **Frameworks & Libraries:** prompt (10), [[Midjourney]] (9), ux (4), [[Microsoft Word|Word]] (2), next (1)
 > **Analogies:** imagine (4), for instance (2)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** iphone (2)
@@ -1204,7 +1204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), for. (1), this, (1), return. (1)
+> **Frameworks & Libraries:** prompt (16), [[Microsoft Word|Word]] (3), [[Midjourney]] (2)
 > **Analogies:** imagine (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -1340,7 +1340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (4), case, (2), for. (1), case. (1)
+> **Frameworks & Libraries:** prompt (19), next (2), [[Midjourney]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** imagine (4)
 > **UI Navigation:** click on (1), select the (1)
@@ -1415,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), continue (1), return, (1), default, (1)
+> **Frameworks & Libraries:** [[Midjourney]] (6), prompt (6), [[Zoom]] (1), hit (1), next (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (3)
 > **UI Navigation:** go to (1), select the (1)
@@ -1487,7 +1487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), return, (1), this. (1)
+> **Frameworks & Libraries:** [[Midjourney]] (11), prompt (8)
 > **Analogies:** imagine (5), similar to (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
@@ -1496,7 +1496,7 @@ created: 2026-04-29
 
 ### 3. Midjourney 5 And Beyond
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Image and text prompt ideation: Repeat, describe, and shorten
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980)
@@ -1629,7 +1629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (5), case. (2), abstract (1), private (1)
+> **Frameworks & Libraries:** [[Midjourney]] (15), prompt (9), application (2), [[Creative Ideation]] (1), web (1)
 > **Analogies:** imagine (4), kind of like (2)
 > **Cross-References:** earlier in (2), coming up (1), go back to (1)
 > **UI Navigation:** click on (3), scroll down (1)
@@ -1711,7 +1711,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), case, (2), default, (1), this, (1), return. (1)
+> **Frameworks & Libraries:** prompt (5), [[Midjourney]] (4)
 > **Analogies:** imagine (4), for example (1), similar to (1), kind of like (1), just like (1)
 > **CLI Commands:** make (1), find (1)
 > **Ports:** :17 (2)
@@ -1803,7 +1803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), case, (1), this. (1)
+> **Frameworks & Libraries:** prompt (5), [[Midjourney]] (3), next (1)
 > **Analogies:** imagine (2), kind of like (2)
 > **CLI Commands:** make (2)
 > **Versions:** 5.2 (1), 16.9 (1)
@@ -1927,7 +1927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (5), this. (1), return, (1), delete (1)
+> **Frameworks & Libraries:** [[Zoom]] (20), prompt (8), [[Midjourney]] (6), feature (2), application (2)
 > **Versions:** 1.5 (1), 1.8 (1), 1.7 (1)
 > **Analogies:** imagine (1), similar to (1)
 > **Warnings:** keep in mind (2)
@@ -2065,7 +2065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), case, (3), this, (2), this. (2), return. (2)
+> **Frameworks & Libraries:** [[Midjourney]] (7), prompt (6), feature (3), [[Remix]] (3), hit (1)
 > **UI Navigation:** click on (3), go to (1), select the (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
@@ -2131,7 +2131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (1), return, (1)
+> **Frameworks & Libraries:** [[Midjourney]] (5), prompt (3), next (2), feature (1)
 > **Analogies:** imagine (2), such as (1), compare this to (1)
 > **CLI Commands:** cat (3)
 > **Tools:** discord (2)
@@ -2211,7 +2211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), return. (1), case. (1), this, (1)
+> **Frameworks & Libraries:** prompt (5), [[Midjourney]] (4), [[Remix]] (2)
 > **Analogies:** imagine (3), just like (1), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
@@ -2296,7 +2296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), public (5), this. (2), case, (2), this, (1)
+> **Frameworks & Libraries:** [[Midjourney]] (4), prompt (2), next (2), power (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (2)
 > **Prerequisites:** set up (2)
@@ -2410,7 +2410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), case, (2), this, (2), this. (1), return, (1)
+> **Frameworks & Libraries:** [[Midjourney]] (8), prompt (7), [[Remix]] (2), game (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (3)
 > **UI Navigation:** go to (1)
@@ -2521,7 +2521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (4), this, (2), return. (1), switch (1)
+> **Frameworks & Libraries:** [[Midjourney]] (4), prompt (3), [[Remix]] (2), web (1)
 > **Analogies:** imagine (2), kind of like (1)
 > **Env Vars:** url (1), sref (1)
 > **Warnings:** warning (1), keep in mind (1)
@@ -2533,7 +2533,7 @@ created: 2026-04-29
 
 ### 4. First Look: Midjourney on the Web
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A tour of the Create tab
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980)
@@ -2664,7 +2664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (9), let (9), else, (2), this, (2), continue (1)
+> **Frameworks & Libraries:** prompt (12), [[Midjourney]] (7), [[Remix]] (6), next (5), web (3)
 > **Ports:** :16 (6)
 > **Tools:** discord (6)
 > **UI Navigation:** click on (5), go to (1)
@@ -2756,7 +2756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), let (2), this, (1), for. (1)
+> **Frameworks & Libraries:** prompt (8), [[Search]] (6), [[Midjourney]] (2), web (1), game (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -2914,8 +2914,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (8), prompt (7), [[Midjourney]] (5), [[Microsoft Word|Word]] (3), next (3)
 > **UI Navigation:** click on (6), scroll down (1), go to (1), scroll up (1), in the sidebar (1)
-> **Code Keywords:** case, (3), let (2), continue (1)
 > **CLI Commands:** find (3), make (2)
 > **Warnings:** keep in mind (3)
 > **Cross-References:** in the next (2)
@@ -2998,7 +2998,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (3), this, (1), public (1)
+> **Frameworks & Libraries:** prompt (8), [[Midjourney]] (5), next (3)
 > **Analogies:** imagine (6), for instance (1), just like (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Tools:** discord (3)
@@ -3043,7 +3043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), interface (2)
+> **Frameworks & Libraries:** [[Midjourney]] (4), [[Remix]] (1)
 > **Analogies:** similar to (2), imagine (1)
 > **Tools:** discord (2)
 > **UI Navigation:** click on (1)
@@ -3053,7 +3053,7 @@ created: 2026-04-29
 
 ### 5. . Generative AI Alternatives and Issues
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using generative AI images with other AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980)
@@ -3232,7 +3232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (3), case, (2), try. (1)
+> **Frameworks & Libraries:** [[Midjourney]] (14), [[DALL-E]] (8), [[ChatGPT]] (5), prompt (2), ai (2)
 > **UI Navigation:** click on (7), go to (3), select the (2), checkbox (1)
 > **Env Vars:** dall (8)
 > **Speakers:** - [instructor] (2), - hi (1)
@@ -3290,7 +3290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1), for. (1)
+> **Frameworks & Libraries:** [[Midjourney]] (8), prompt (1), ai (1), [[Generative AI]] (1)
 > **UI Navigation:** go to (2), scroll down (2), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** refers to (1), is an  (1)
@@ -3398,7 +3398,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (4), this. (1), from. (1), case. (1)
+> **Frameworks & Libraries:** prompt (6), ai (4), [[Stable Diffusion]] (4), [[Midjourney]] (3), next (2)
 > **Analogies:** similar to (3), kind of like (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (2)
@@ -3409,7 +3409,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your Midjourney learning experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980)
@@ -3454,7 +3454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), this, (1), let (1)
+> **Frameworks & Libraries:** [[Midjourney]] (6), [[Generative AI]] (3), prompt (2), [[LinkedIn]] (2), [[Microsoft Office|Office]] (1)
 > **URLs:** [midjourney.com](https://midjourney.com) (1), [noonshoot.com](https://noonshoot.com) (1), [journeyintoai.com](https://journeyintoai.com) (1)
 > **CLI Commands:** find (2)
 > **Tools:** discord (2)

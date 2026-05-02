@@ -31,7 +31,7 @@ tags:
   - skill/responsive-web-design
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cutting-Edge%20CSS.md)
@@ -50,27 +50,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Cutting-edge CSS
-  - Exercise files
+  - [Cutting-edge CSS](#cutting-edge-css)
+  - [Exercise files](#exercise-files)
 - [**1. Core Principles**](#1-core-principles) (3 videos)
-  - What are logical properties?
-  - Position explained
-  - Why margins collapse
+  - [What are logical properties?](#what-are-logical-properties)
+  - [Position explained](#position-explained)
+  - [Why margins collapse](#why-margins-collapse)
 - [**2. Selectors**](#2-selectors) (3 videos)
-  - Counting with CSS
-  - Container queries
-  - The difference between :is and :where
+  - [Counting with CSS](#counting-with-css)
+  - [Container queries](#container-queries)
+  - [The difference between :is and :where](#the-difference-between-is-and-where)
 - [**3. Layout**](#3-layout) (4 videos)
-  - How the clamp() function works
-  - Beyond viewport width
-  - Flex vs. grid: Content out or layout in?
-  - Making sense of grid-auto-flow
+  - [How the clamp() function works](#how-the-clamp-function-works)
+  - [Beyond viewport width](#beyond-viewport-width)
+  - [Flex vs. grid: Content out or layout in?](#flex-vs-grid-content-out-or-layout-in)
+  - [Making sense of grid-auto-flow](#making-sense-of-grid-auto-flow)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cutting-edge CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/cutting-edge-css?u=76281980)
@@ -95,8 +95,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), [[Programming]] (2)
 > **Env Vars:** css (7)
-> **Code Keywords:** abstract (1), let (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
@@ -119,6 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1), [[GitHub]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Documentation:** the documentation (1)
@@ -126,12 +127,11 @@ created: 2026-04-29
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
-> **Non-Speech:** (energetic music) (1)
 
 
 ### 1. Core Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are logical properties?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/what-are-logical-properties-14445691?u=76281980)
@@ -182,7 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
@@ -228,7 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (2), default, (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -299,8 +299,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), next (1)
 > **Env Vars:** rem (7), css (4), rems (1)
-> **Code Keywords:** let (1), this, (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
 > **Prerequisites:** set up (1)
@@ -310,7 +310,7 @@ created: 2026-04-29
 
 ### 2. Selectors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Counting with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/counting-with-css?u=76281980)
@@ -409,7 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), type. (2), self (1), let (1), case, (1)
+> **Frameworks & Libraries:** css (1), functional (1)
 > **Definitions:** is an  (1), refers to (1)
 > **Non-Speech:** (dramatic music) (2)
 > **Env Vars:** css (1)
@@ -473,8 +473,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Web Development]] (1), next (1)
 > **Non-Speech:** (energetic music) (2)
-> **Code Keywords:** case, (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -528,8 +528,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), class. (1)
 > **Env Vars:** css (1)
 > **Analogies:** for example (1)
 > **Speakers:** - css (1)
@@ -538,7 +538,7 @@ created: 2026-04-29
 
 ### 3. Layout
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How the clamp() function works
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/how-the-clamp-function-works?u=76281980)
@@ -561,7 +561,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -612,8 +611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), css (1)
 > **Env Vars:** css (1), lvi (1), svi (1), dvi (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -662,7 +661,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), let (2), default, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat industrial music) (1)
@@ -710,7 +708,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is an  (1)
 > **Warnings:** caveat (1)
@@ -720,7 +718,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/next-steps?u=76281980)
@@ -741,6 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), next (2), web (1)
 > **Env Vars:** css (4)
 > **Non-Speech:** (upbeat music) (1), (soft music) (1)
 > **CLI Commands:** go build (1)

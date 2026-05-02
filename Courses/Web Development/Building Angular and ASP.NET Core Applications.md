@@ -30,7 +30,7 @@ tags:
   - skill/asp-net-core
   - skill/angular
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Angular%20and%20ASP.NET%20Core%20Applications.md)
@@ -49,53 +49,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with Angular
-  - What you should know already
+  - [Getting started with Angular](#getting-started-with-angular)
+  - [What you should know already](#what-you-should-know-already)
 - [**1. Setting Up the App Infrastructure**](#1-setting-up-the-app-infrastructure) (4 videos)
-  - Demo application overview
-  - .NET Core templates
-  - Web API architectural overview
-  - Angular architectural overview
+  - [Demo application overview](#demo-application-overview)
+  - [.NET Core templates](#net-core-templates)
+  - [Web API architectural overview](#web-api-architectural-overview)
+  - [Angular architectural overview](#angular-architectural-overview)
 - [**2. Setting Up Web API**](#2-setting-up-web-api) (7 videos)
-  - Creating data models
-  - Adding a service and data
-  - Create API endpoint
-  - Read API endpoint
-  - Update API endpoint
-  - Delete API endpoint
-  - Testing API endpoints using Postman
+  - [Creating data models](#creating-data-models)
+  - [Adding a service and data](#adding-a-service-and-data)
+  - [Create API endpoint](#create-api-endpoint)
+  - [Read API endpoint](#read-api-endpoint)
+  - [Update API endpoint](#update-api-endpoint)
+  - [Delete API endpoint](#delete-api-endpoint)
+  - [Testing API endpoints using Postman](#testing-api-endpoints-using-postman)
 - [**3. Getting Started with Angular**](#3-getting-started-with-angular) (12 videos)
-  - Angular key concepts
-  - Generating components and services
-  - Cleaning up code and updating the router
-  - Designing the Books page
-  - Reading data from Angular
-  - Designing the Create page
-  - Adding new data from Angular
-  - Designing the Book Details page
-  - Getting a single book from Angular
-  - Updating existing data from Angular
-  - Deleting data from Angular
-  - Handling errors in Angular
+  - [Angular key concepts](#angular-key-concepts)
+  - [Generating components and services](#generating-components-and-services)
+  - [Cleaning up code and updating the router](#cleaning-up-code-and-updating-the-router)
+  - [Designing the Books page](#designing-the-books-page)
+  - [Reading data from Angular](#reading-data-from-angular)
+  - [Designing the Create page](#designing-the-create-page)
+  - [Adding new data from Angular](#adding-new-data-from-angular)
+  - [Designing the Book Details page](#designing-the-book-details-page)
+  - [Getting a single book from Angular](#getting-a-single-book-from-angular)
+  - [Updating existing data from Angular](#updating-existing-data-from-angular)
+  - [Deleting data from Angular](#deleting-data-from-angular)
+  - [Handling errors in Angular](#handling-errors-in-angular)
 - [**4. Implementing NgRx to an Existing Angular App**](#4-implementing-ngrx-to-an-existing-angular-app) (7 videos)
-  - Why NgRx?
-  - NgRx actions
-  - NgRx store
-  - NgRx reducers
-  - Connecting the dots
-  - Challenge: Delete a book
-  - Solution: Delete a book
+  - [Why NgRx?](#why-ngrx)
+  - [NgRx actions](#ngrx-actions)
+  - [NgRx store](#ngrx-store)
+  - [NgRx reducers](#ngrx-reducers)
+  - [Connecting the dots](#connecting-the-dots)
+  - [Challenge: Delete a book](#challenge-delete-a-book)
+  - [Solution: Delete a book](#solution-delete-a-book)
 - [**5. Implementing Authentication in Your Angular App**](#5-implementing-authentication-in-your-angular-app) (4 videos)
-  - Setting up Auth0
-  - Setting up an authentication service
-  - Handling authentication
-  - AuthGuard
+  - [Setting up Auth0](#setting-up-auth0)
+  - [Setting up an authentication service](#setting-up-an-authentication-service)
+  - [Handling authentication](#handling-authentication)
+  - [AuthGuard](#authguard)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go next
+  - [Where to go next](#where-to-go-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980)
@@ -124,11 +124,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (6), web (6), api (3), [[ASP.NET Web API]] (2), [[JavaScript]] (2)
 > **Env Vars:** api (5), net (3), asp (2)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - have (1)
 
 #### What you should know already
@@ -150,10 +150,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Angular CLI]] (1), [[Angular]] (1)
 > **Env Vars:** api (3), net (2), cli (1)
 > **Versions:** 3.0 (1), 2.0 (1)
 > **Exercise Files:** download the (1), exercise files (1)
-> **Code Keywords:** let (1)
 > **Tools:** postman (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** before we start (1)
@@ -162,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Setting Up the App Infrastructure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Demo application overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/demo-application-overview?u=76281980)
@@ -217,7 +217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (5), case. (1)
+> **Frameworks & Libraries:** functional (1), [[Google]] (1), data (1)
 > **Cross-References:** go back to (2)
 > **Prerequisites:** configure (2)
 > **Versions:** 4.5 (1)
@@ -288,8 +288,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (6), [[CLI]] (3), [[ASP.NET Core]] (3), [[Programming]] (1), [[React.js]] (1)
 > **Env Vars:** net (11), cli (3), asp (3), mvc (1), api (1)
-> **Code Keywords:** let (6), interface (1), new. (1), case, (1)
 > **CLI Commands:** dotnet (6), make (1)
 > **UI Navigation:** go to (4), scroll up (1), scroll down (1), click on (1)
 > **URLs:** [asp.net](https://asp.net) (3)
@@ -352,9 +352,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (4), api (4), next (4), web (3), database (1)
 > **Env Vars:** api (4), net (3)
 > **Prerequisites:** configure (4), setup (1)
-> **Code Keywords:** static (2), let (1)
 > **Definitions:** known as (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
@@ -412,8 +412,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (12), next (4), [[HTML]] (2), [[JSON]] (2), web (1)
 > **File Paths:** app.component.html (1), app.module.ts (1), index.html (1), angular.json (1), package.json (1)
-> **Code Keywords:** let (1), module (1), static (1)
 > **Analogies:** for example (3)
 > **Env Vars:** net (1), api (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -423,7 +423,7 @@ created: 2026-04-29
 
 ### 2. Setting Up Web API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating data models
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/creating-data-models?u=76281980)
@@ -498,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type: (3), type, (2), class. (1), public (1)
+> **Frameworks & Libraries:** data (5), database (2)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (2)
@@ -626,7 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), interface (4), static (3), public (2), pass (2)
+> **Frameworks & Libraries:** data (15), next (5), generic (2), database (1)
 > **Code Identifiers:** ibookservice (3), bookservice (2), listbook (1), usingsystem (1), usingsummaries (1)
 > **UI Navigation:** go to (7)
 > **Cross-References:** go back to (2)
@@ -728,7 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), public (2), class, (1), class. (1), private (1)
+> **Frameworks & Libraries:** data (5), api (3)
 > **Env Vars:** api (2), http (1), url (1)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** set up (2)
@@ -775,7 +775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (1), var (1)
+> **Frameworks & Libraries:** data (3), api (2), feature (1), next (1)
 > **Env Vars:** api (2), http (1), url (1)
 > **UI Navigation:** go to (3)
 > **Code Identifiers:** allbooks (2)
@@ -834,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), public (1), let (1), var (1)
+> **Frameworks & Libraries:** data (6), api (1), next (1)
 > **Env Vars:** http (2), url (2), api (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -916,7 +916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), let (9), pass (3), public (2), var (2)
+> **Frameworks & Libraries:** api (2), data (1)
 > **UI Navigation:** go to (4), scroll down (2)
 > **Env Vars:** url (3), api (2)
 > **CLI Commands:** find (1)
@@ -1015,7 +1015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), delete (3), type, (1)
+> **Frameworks & Libraries:** api (4), data (2), [[Angular]] (1), application (1), [[JSON]] (1)
 > **API Endpoints:** get  (5), post  (2), /api/books/getbooks (1), put  (1), delete
  (1)
 > **Env Vars:** api (3), post (3), url (1), put (1), delete (1)
@@ -1028,7 +1028,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Angular key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980)
@@ -1073,10 +1073,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (7), data (4), [[HTML]] (4), [[Dependency Injection]] (3), web application (1)
 > **Definitions:** is a  (3), is an  (2), known as (1), means that (1)
 > **Env Vars:** html (4), url (1), css (1)
 > **Exercise Files:** template (4)
-> **Code Keywords:** module (3)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1187,7 +1187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), module (8), delete (2), case, (1), interface (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[Angular CLI]] (4), feature (2), web (1), api (1)
 > **UI Navigation:** go to (4), right-click (3), scroll down (1)
 > **Env Vars:** cli (4), api (1)
 > **Tools:** terminal (4), command line (1)
@@ -1321,7 +1321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), delete (6), module (4), new, (1), import. (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Fetch]] (3), data (3), [[HTML]] (2), application (2)
 > **UI Navigation:** go to (8), drag and drop (2), scroll down (2), scroll up (1), open the (1)
 > **Env Vars:** url (5)
 > **File Paths:** app.module.ts (2), nav-menu.component.html (1), home.component.html (1)
@@ -1445,7 +1445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), interface (3), public (2), delete (2)
+> **Frameworks & Libraries:** data (4), next (4), web (2), api (2), [[HTML]] (1)
 > **File Paths:** book.ts (2), books.component.ts (1), book.component.ts (1), books.component.html (1)
 > **UI Navigation:** go to (5)
 > **Env Vars:** api (2), url (1)
@@ -1531,7 +1531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (4), private (2)
+> **Frameworks & Libraries:** data (3), api (3), web (2), [[HTML]] (1), [[Angular]] (1)
 > **Env Vars:** url (4), api (2), http (2), html (1)
 > **UI Navigation:** go to (7), open the (1), right-click (1)
 > **Code Identifiers:** getallbooks (2), httpclient (1), baseurl (1), ngoninit (1)
@@ -1645,7 +1645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (32), class, (4), for, (1), case, (1), type, (1)
+> **Frameworks & Libraries:** [[HTML]] (3), css (3), next (1), web (1)
 > **UI Navigation:** go to (7), scroll down (3), right-click (1), scroll up (1)
 > **Code Identifiers:** datestart (3), dateread (3), dateend (1), routerlink (1)
 > **Env Vars:** url (2), css (2), html (1)
@@ -1839,7 +1839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (26), this. (8), module (5), private (3), this . (1)
+> **Frameworks & Libraries:** next (5), [[Forms]] (3), [[Angular]] (2), [[Jetpack Compose|Compose]] (2), [[HTML]] (2)
 > **Code Identifiers:** addbook (3), addbookform (3), datestart (3), onsubmit (3), minlength (2)
 > **UI Navigation:** go to (9), scroll down (2), navigate to (1), right-click (1)
 > **File Paths:** app.module.ts (2), book_service.ts (1), new-book.compenet.ts (1), component.ts (1)
@@ -1953,7 +1953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (31), class, (3), class. (1), private (1), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (4), css (2), database (1), next (1)
 > **UI Navigation:** go to (10)
 > **Code Identifiers:** showbook (4), ngif (2), ngoninit (1), routerlink (1)
 > **File Paths:** app.component.html (1), styles.css (1), books.component.html (1), component.html (1)
@@ -2029,7 +2029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (5), private (2), module (1)
+> **Frameworks & Libraries:** data (4), web (1), api (1)
 > **Code Identifiers:** getbookbyid (2), singlebook (1), ngoninit (1), our (1), then (1)
 > **UI Navigation:** go to (5), scroll down (1)
 > **Env Vars:** url (2), api (1)
@@ -2217,7 +2217,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), this. (10), private (2)
+> **Frameworks & Libraries:** data (6), [[Angular]] (2), [[HTML]] (2), css (2), next (1)
 > **Code Identifiers:** updatebook (2), formatdate (2), onsubmit (2), baseurl (1), getbookbyid (1)
 > **UI Navigation:** go to (10), scroll down (2), navigate to (2)
 > **File Paths:** component.ts (1), book.service.ts (1), book.component.html (1), book.component.css (1), updatebook.css (1)
@@ -2381,7 +2381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (23), delete (12), this. (7), private (3)
+> **Frameworks & Libraries:** [[HTML]] (3), data (2), application (2), css (2), feature (1)
 > **Code Identifiers:** deletebook (12), showbook (4), updatebook (3), baseurl (1), activatedroute (1)
 > **UI Navigation:** go to (11), scroll down (2), navigate to (1)
 > **File Paths:** book.service.ts (1), deletebook.component.ts (1), books.component.html (1), showbook.css (1), deletebook.css (1)
@@ -2607,7 +2607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (37), try, (2), catch, (2), continue (2), case, (2)
+> **Frameworks & Libraries:** [[HTML]] (5), data (4), api (4), web (2), [[Angular]] (1)
 > **UI Navigation:** go to (9), scroll down (4), navigate to (1), scroll up (1), toggle (1)
 > **Code Identifiers:** addbookform (5), showerror (4), onsubmit (2), ngif (2), isinvalid (1)
 > **Env Vars:** api (4), html (4), f10 (3)
@@ -2619,7 +2619,7 @@ created: 2026-04-29
 
 ### 4. Implementing NgRx to an Existing Angular App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why NgRx?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980)
@@ -2700,7 +2700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), from. (1), case, (1)
+> **Frameworks & Libraries:** application (5), data (3), database (2), [[JavaScript]] (1), [[Programming]] (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
@@ -2784,7 +2784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), export, (4), class, (4), pass (3), const (2)
+> **Frameworks & Libraries:** application (2), express (1), [[npm]] (1), feature (1), next (1)
 > **Prerequisites:** install (3), before we start (1), configure (1)
 > **File Paths:** book.actions.ts (2), action.types.ts (1)
 > **Env Vars:** load_books (2), load_books_success (1)
@@ -2858,7 +2858,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), private (2), this. (2), class. (1), export, (1)
 > **Code Identifiers:** mergemap (5), bookactions (3), oftype (2), loadbooks (1), loadbooksaction (1)
 > **File Paths:** book.effects.ts (1)
 > **CLI Commands:** find (1)
@@ -2938,7 +2937,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), type, (2), function (2), switch (2), import, (1)
 > **Code Identifiers:** bookactions (2), loadbookssuccessaction (2), initialstate (2), loadbookaction (1)
 > **File Paths:** book.reducer.ts (1), book.actions.ts (1), app.state.ts (1)
 > **UI Navigation:** go to (3)
@@ -3043,7 +3041,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), module (6), this. (5), public (1), private (1)
+> **Frameworks & Libraries:** data (1), next (1), application (1)
 > **Code Identifiers:** applicationstate (5), forroot (2), ngoninit (2), bookactions (2), storemodule (1)
 > **UI Navigation:** go to (6), scroll down (2)
 > **File Paths:** app.module.ts (2), books.component.ts (1)
@@ -3073,7 +3071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), function (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -3183,7 +3181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), delete (9), pass (4), this. (3), case. (2)
+> **Frameworks & Libraries:** next (1), application (1)
 > **Code Identifiers:** deletebook (4), deletebookaction (3), deletebooksuccessaction (3), bookactions (2), public_payload (1)
 > **UI Navigation:** go to (8), scroll down (3)
 > **File Paths:** actiontypes.ts (1), delete-bookcomponent.ts (1)
@@ -3195,7 +3193,7 @@ created: 2026-04-29
 
 ### 5. Implementing Authentication in Your Angular App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Auth0
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980)
@@ -3242,8 +3240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Angular]] (4), next (2), [[GitHub]] (1), [[Google]] (1)
 > **UI Navigation:** scroll down (8), go to (3)
-> **Code Keywords:** let (8), type, (1)
 > **Env Vars:** url (4), http (2), https (2)
 > **Prerequisites:** configure (4), set up (1)
 > **Cross-References:** go back to (2)
@@ -3302,7 +3300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), module (2)
+> **Frameworks & Libraries:** [[npm]] (1), [[Angular CLI]] (1), [[Angular]] (1), next (1)
 > **Prerequisites:** install (3), set up (2), configure (1)
 > **UI Navigation:** go to (2), scroll down (2), click on (1)
 > **File Paths:** app.module.ts (2), auth.service.ts (1)
@@ -3412,7 +3410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), private (1), if, (1), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (3), data (1), [[Angular]] (1), [[Google]] (1), next (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **File Paths:** nav-menu.component.ts (1), nav-menu.component.html (1), nav-menu.html (1), component.ts (1)
 > **Code Identifiers:** loggedin (1), handleauthcallback (1)
@@ -3528,7 +3526,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (2), private (1), module (1), delete (1)
+> **Frameworks & Libraries:** [[Angular CLI]] (1), [[Search]] (1), [[Microsoft Word|Word]] (1), next (1), application (1)
 > **UI Navigation:** go to (5), scroll down (2), right-click (1), toggle (1)
 > **Code Identifiers:** canactivate (3), loggedin (2), isauthenticated (1)
 > **Env Vars:** url (4), cli (1)
@@ -3540,7 +3538,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/where-to-go-next?u=76281980)
@@ -3569,6 +3567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Env Vars:** net (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - thanks (1)

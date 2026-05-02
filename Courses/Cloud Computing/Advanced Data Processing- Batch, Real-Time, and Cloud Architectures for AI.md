@@ -36,7 +36,7 @@ tags:
   - skill/cloud-native-architecture
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advanced%20Data%20Processing-%20Batch%2C%20Real-Time%2C%20and%20Cloud%20Architectures%20for%20AI.md)
@@ -55,49 +55,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Processing data for AI
+  - [Processing data for AI](#processing-data-for-ai)
 - [**1. AI Architectures**](#1-ai-architectures) (6 videos)
-  - The ML life cycle
-  - Feature engineering
-  - Model training
-  - ML inference
-  - Scale and performance
-  - Architectures for AI
+  - [The ML life cycle](#the-ml-life-cycle)
+  - [Feature engineering](#feature-engineering)
+  - [Model training](#model-training)
+  - [ML inference](#ml-inference)
+  - [Scale and performance](#scale-and-performance)
+  - [Architectures for AI](#architectures-for-ai)
 - [**2. Batch AI Architectures**](#2-batch-ai-architectures) (7 videos)
-  - Characteristics of batch AI
-  - Batch feature engineering
-  - Batch model training
-  - Batch Inference
-  - Scaling batch AI
-  - Batch AI architecture example: Problem
-  - Batch AI architecture example: Solution
+  - [Characteristics of batch AI](#characteristics-of-batch-ai)
+  - [Batch feature engineering](#batch-feature-engineering)
+  - [Batch model training](#batch-model-training)
+  - [Batch Inference](#batch-inference)
+  - [Scaling batch AI](#scaling-batch-ai)
+  - [Batch AI architecture example: Problem](#batch-ai-architecture-example-problem)
+  - [Batch AI architecture example: Solution](#batch-ai-architecture-example-solution)
 - [**3. Real-Time AI Architectures**](#3-real-time-ai-architectures) (7 videos)
-  - Characteristics of real-time AI
-  - Real-time feature engineering
-  - Real-time model training
-  - Real-time inference architectures
-  - Scaling real-time AI
-  - Real-time AI architecture example: Problem
-  - Real-time AI architecture example: Solution
+  - [Characteristics of real-time AI](#characteristics-of-real-time-ai)
+  - [Real-time feature engineering](#real-time-feature-engineering)
+  - [Real-time model training](#real-time-model-training)
+  - [Real-time inference architectures](#real-time-inference-architectures)
+  - [Scaling real-time AI](#scaling-real-time-ai)
+  - [Real-time AI architecture example: Problem](#real-time-ai-architecture-example-problem)
+  - [Real-time AI architecture example: Solution](#real-time-ai-architecture-example-solution)
 - [**4. Cloud AI Architectures**](#4-cloud-ai-architectures) (6 videos)
-  - Cloud and serverless computing
-  - Architecting for the cloud
-  - AI in the cloud
-  - Cloud platforms for AI
-  - Cloud AI architecture example: Problem
-  - Cloud AI architecture example: Solution
+  - [Cloud and serverless computing](#cloud-and-serverless-computing)
+  - [Architecting for the cloud](#architecting-for-the-cloud)
+  - [AI in the cloud](#ai-in-the-cloud)
+  - [Cloud platforms for AI](#cloud-platforms-for-ai)
+  - [Cloud AI architecture example: Problem](#cloud-ai-architecture-example-problem)
+  - [Cloud AI architecture example: Solution](#cloud-ai-architecture-example-solution)
 - [**5. Hybrid AI Architectures**](#5-hybrid-ai-architectures) (5 videos)
-  - Hybrid computing
-  - AI using hybrid computing
-  - AI architectures for hybrid computing
-  - Hybrid AI architecture example: Problem
-  - Hybrid AI architecture example: Solution
+  - [Hybrid computing](#hybrid-computing)
+  - [AI using hybrid computing](#ai-using-hybrid-computing)
+  - [AI architectures for hybrid computing](#ai-architectures-for-hybrid-computing)
+  - [Hybrid AI architecture example: Problem](#hybrid-ai-architecture-example-problem)
+  - [Hybrid AI architecture example: Solution](#hybrid-ai-architecture-example-solution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing with AI data processing
+  - [Continuing with AI data processing](#continuing-with-ai-data-processing)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Processing data for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/processing-data-for-ai?u=76281980)
@@ -118,13 +118,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), business (1), [[Real-Time]] (1), cloud (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. AI Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The ML life cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (6), [[Feature Engineering]] (2), next (1), [[Application Development]] (1), application (1)
 > **Definitions:** is an  (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -268,7 +268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), let (1), finally, (1), yield (1)
+> **Frameworks & Libraries:** data (12), [[Feature Engineering]] (8), feature (3), [[Statistics]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -363,7 +363,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (4), let (1), case. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), data (5), next (2), [[Neural Networks]] (2), [[Feature Engineering]] (1)
 > **Env Vars:** rmse (1), bleu (1), gpt (1), dall (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -429,7 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (8), [[Feature Engineering]] (3), [[Security]] (1), application (1), [[Scalability]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** apa (1)
 > **Speakers:** - [instructor] (1)
@@ -483,7 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), let (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (4), data (3), business (1), ai (1), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
@@ -552,13 +552,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** [[Real-Time]] (5), cloud (5), data (3), ai (2), [[Feature Engineering]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Batch AI Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of batch AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980)
@@ -623,7 +623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1)
+> **Frameworks & Libraries:** data (9), ai (5), [[Batch Processing]] (2), [[Real-Time]] (2), [[Feature Engineering]] (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
@@ -702,8 +702,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Feature Engineering]] (4), [[Databases]] (2), feature (2), ai (1)
 > **CLI Commands:** apache (4), python (1)
-> **Code Keywords:** let (2), require (1), case. (1), interface (1)
 > **Env Vars:** ftp (1), rest (1), sql (1), rdbms (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -781,8 +781,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Apache Spark]] (2), ai (1), [[Feature Engineering]] (1), feature (1)
 > **CLI Commands:** apache (5), python (1)
-> **Code Keywords:** continue (2), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Batch Inference
@@ -844,8 +844,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Feature Engineering]] (3), data (3), feature (2), database (2), ai (1)
 > **CLI Commands:** apache (4), python (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** rdbms (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -925,7 +925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), continue (1)
+> **Frameworks & Libraries:** data (10), ai (5), parallel (3), concurrent (2), [[Hardware]] (2)
 > **Speakers:** - [instructor] (1)
 
 #### Batch AI architecture example: Problem
@@ -959,7 +959,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), for. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** data (3), next (2), ai (1), business (1), cloud (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1047,16 +1047,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[MongoDB]] (7), database (6), [[Apache Spark]] (6), [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** apache (8), python (6), docker (1)
 > **Env Vars:** rest (1), sql (1), ftp (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Real-Time AI Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of real-time AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980)
@@ -1115,7 +1115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), this, (1)
+> **Frameworks & Libraries:** [[Real-Time]] (13), ai (7), data (3), api (2), business (1)
 > **Env Vars:** api (2)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
@@ -1197,8 +1197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Feature Engineering]] (14), [[Real-Time]] (4), api (3), database (3)
 > **CLI Commands:** apache (4), python (1)
-> **Code Keywords:** let (3), case. (1), function (1)
 > **Env Vars:** api (3), rest (1), rdbms (1)
 > **Best Practices:** recommended (3)
 > **Exercise Files:** template (2)
@@ -1260,9 +1260,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Real-Time]] (4), feature (2), ai (2), [[Apache Spark]] (2)
 > **CLI Commands:** apache (6), python (1)
 > **Analogies:** similar to (3)
-> **Code Keywords:** let (1), case. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Real-time inference architectures
@@ -1338,8 +1338,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Feature Engineering]] (3), api (2), data (2), [[Analytics]] (2)
 > **CLI Commands:** apache (4), python (1)
-> **Code Keywords:** let (3), case, (2)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1400,7 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** ai (6), [[Real-Time]] (5), data (5), [[Feature Engineering]] (2), [[Hardware]] (2)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1447,7 +1447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (2)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Microsoft Products|Products]] (4), product (4), ai (1), data (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** rdbms (1)
@@ -1551,8 +1551,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), feature (5), data (4), [[Redis]] (3), [[Feature Engineering]] (2)
 > **CLI Commands:** apache (7)
-> **Code Keywords:** let (1), function (1), continue (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** rdbms (1)
 > **Speakers:** - [instructor] (1)
@@ -1560,7 +1560,7 @@ created: 2026-04-29
 
 ### 4. Cloud AI Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud and serverless computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980)
@@ -1629,7 +1629,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), let (1), default. (1)
+> **Frameworks & Libraries:** cloud (15), [[Serverless Computing]] (4), ai (2), [[Databases]] (2), management (2)
 > **Env Vars:** aws (1), gcp (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
@@ -1691,7 +1691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), protected (1)
+> **Frameworks & Libraries:** cloud (15), data (6), [[Scalability]] (2), [[Real-Time]] (1), ai (1)
 > **Speakers:** - [instructor] (1)
 
 #### AI in the cloud
@@ -1745,7 +1745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), case. (1)
+> **Frameworks & Libraries:** cloud (12), ai (5), data (4), [[Security]] (3), [[Microsoft Products|Products]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** cd (1)
 > **Speakers:** - [instructor] (1)
@@ -1781,10 +1781,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), data (4), aws (2), [[Microsoft Products|Products]] (2), [[Generative AI]] (2)
 > **Env Vars:** aws (2), gcp (1), emr (1), ibm (1)
 > **CLI Commands:** aws (2), apache (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** lambda (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1821,7 +1821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** cloud (2), ai (2), next (2), aws (1), data (1)
 > **Env Vars:** aws (1), bert (1), api (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** aws (1)
@@ -1885,16 +1885,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), data (3), api (3), cloud (2), feature (2)
 > **Env Vars:** aws (4), api (3), bert (2)
 > **CLI Commands:** aws (4), python (2)
-> **Code Keywords:** let (1), module (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
 
 ### 5. Hybrid AI Architectures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980)
@@ -1939,7 +1939,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** cloud (5), application (5), data (3), [[Generative AI]] (2), [[Security]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2006,7 +2006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), case. (1)
+> **Frameworks & Libraries:** data (14), [[Feature Engineering]] (5), cloud (4), [[Privacy]] (2), ai (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -2068,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), private (1)
+> **Frameworks & Libraries:** data (10), application (7), cloud (6), ai (4), [[Privacy]] (4)
 > **Env Vars:** vpc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2103,7 +2103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (2), [[Customer Support]] (2), chatbot (1), [[Microsoft Products|Products]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** rag (1)
 > **Cross-References:** in the next (1)
@@ -2176,16 +2176,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), llm (7), [[Python (Programming Language)|Python]] (6), chatbot (5), database (3)
 > **Env Vars:** llm (7)
 > **CLI Commands:** python (6)
-> **Code Keywords:** let (1), this, (1), module (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with AI data processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980)
@@ -2210,8 +2210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Real-Time]] (1), cloud (1), [[Generative AI]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 

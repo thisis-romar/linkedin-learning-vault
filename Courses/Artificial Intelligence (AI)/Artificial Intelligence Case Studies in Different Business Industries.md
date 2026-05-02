@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Case%20Studies%20in%20Different%20Business%20Industries.md)
@@ -49,26 +49,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AI is transforming every industry
+  - [AI is transforming every industry](#ai-is-transforming-every-industry)
 - [**1. AI Case Studies**](#1-ai-case-studies) (12 videos)
-  - Aquaculture: How Aquabyte applies machine learning to fish farming
-  - Agriculture: How John Deere embeds AI into farm machines
-  - Food products: How McCormick uses generative AI to develop new flavors
-  - At home: The SNOO Smart Sleeper, where your baby meets AI
-  - Tech: How Pinterest uses machine learning to deepen user engagement
-  - Retail: How AiFi is pioneering autonomous shopping
-  - Healthcare: How AI is transforming healthcare
-  - Hollywood: Using generative AI to reinvent live-action movies
-  - Legal: Generative AI in law firms
-  - Finance: AI at your bank
-  - Data: How Google uses AI to cool its data centers
-  - Energy: Use of AI in the power sector
+  - [Aquaculture: How Aquabyte applies machine learning to fish farming](#aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming)
+  - [Agriculture: How John Deere embeds AI into farm machines](#agriculture-how-john-deere-embeds-ai-into-farm-machines)
+  - [Food products: How McCormick uses generative AI to develop new flavors](#food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors)
+  - [At home: The SNOO Smart Sleeper, where your baby meets AI](#at-home-the-snoo-smart-sleeper-where-your-baby-meets-ai)
+  - [Tech: How Pinterest uses machine learning to deepen user engagement](#tech-how-pinterest-uses-machine-learning-to-deepen-user-engagement)
+  - [Retail: How AiFi is pioneering autonomous shopping](#retail-how-aifi-is-pioneering-autonomous-shopping)
+  - [Healthcare: How AI is transforming healthcare](#healthcare-how-ai-is-transforming-healthcare)
+  - [Hollywood: Using generative AI to reinvent live-action movies](#hollywood-using-generative-ai-to-reinvent-live-action-movies)
+  - [Legal: Generative AI in law firms](#legal-generative-ai-in-law-firms)
+  - [Finance: AI at your bank](#finance-ai-at-your-bank)
+  - [Data: How Google uses AI to cool its data centers](#data-how-google-uses-ai-to-cool-its-data-centers)
+  - [Energy: Use of AI in the power sector](#energy-use-of-ai-in-the-power-sector)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Integrating AI into your business
+  - [Integrating AI into your business](#integrating-ai-into-your-business)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI is transforming every industry
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/ai-is-transforming-every-industry?u=76281980)
@@ -89,13 +89,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1), business (1)
 > **Speakers:** - artificial (1), - in (1), - hi (1), - and (1), - join (1)
-> **Code Keywords:** function (1)
 
 
 ### 1. AI Case Studies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Aquaculture: How Aquabyte applies machine learning to fish farming
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980)
@@ -180,6 +180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (3), power (1), [[Computer Vision]] (1), next (1)
 > **Analogies:** such as (3), similar to (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** go to (1)
@@ -252,6 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Computer Vision]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Definitions:** is a  (1)
@@ -343,6 +345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), product (6), data (3), database (3), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (2), is an  (1), known as (1), means that (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** ibm (1)
@@ -393,6 +396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2)
 > **Env Vars:** snoo (9), mit (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -466,7 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** data (2), ai (2), [[Computer Vision]] (1), next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), snap (1)
 > **URLs:** [pinterest.com](https://pinterest.com) (1)
@@ -555,6 +559,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (4), [[Privacy]] (2), [[Computer Vision]] (1), [[Simulation]] (1)
 > **Analogies:** picture (3), such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdpr (1)
@@ -631,6 +636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (2), [[Big Data]] (1), [[Computer Vision]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
 > **Env Vars:** mri (1)
@@ -696,9 +702,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), llm (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Generative AI]] (1)
 > **Analogies:** imagine (2), similar to (1), such as (1)
 > **Env Vars:** llm (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - have (1)
 
 #### Legal: Generative AI in law firms
@@ -764,6 +770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), [[Generative AI]] (3), chatbot (1), [[Search]] (1), [[Databases]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** pwc (1)
@@ -824,6 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Banking]] (3), data (2), management (2), [[Google]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - using (1)
@@ -891,7 +899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), let (1)
+> **Frameworks & Libraries:** data (15), [[Google]] (5), ai (4), power (2), application (2)
 > **Analogies:** such as (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - thanks (1)
@@ -963,6 +971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (10), ai (6), [[Algorithms]] (5), data (4), [[IoT]] (2)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** node (1)
 > **Definitions:** is a  (1)
@@ -971,7 +980,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating AI into your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980)
@@ -1000,6 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), business (2), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
 > **Speakers:** - ai (1), - the (1), - you (1), - if (1), - some (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** ceo (1), gpt (1)

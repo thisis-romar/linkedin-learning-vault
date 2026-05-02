@@ -28,7 +28,7 @@ tags:
   - topic/cloud-computing
   - skill/onenote
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/OneNote%20for%20Windows%2010%20Essential%20Training.md)
@@ -47,53 +47,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Stay organized with OneNote
-  - Who this course is for?
-  - Launch OneNote
+  - [Stay organized with OneNote](#stay-organized-with-onenote)
+  - [Who this course is for?](#who-this-course-is-for)
+  - [Launch OneNote](#launch-onenote)
 - [**1. Set Up and Organize Your Notebooks**](#1-set-up-and-organize-your-notebooks) (5 videos)
-  - Create a notebook stored in OneDrive
-  - Open a notebook stored on your computer
-  - Share a notebook
-  - Sync notebook content
-  - Change the interface color setting
+  - [Create a notebook stored in OneDrive](#create-a-notebook-stored-in-onedrive)
+  - [Open a notebook stored on your computer](#open-a-notebook-stored-on-your-computer)
+  - [Share a notebook](#share-a-notebook)
+  - [Sync notebook content](#sync-notebook-content)
+  - [Change the interface color setting](#change-the-interface-color-setting)
 - [**2. Working with Sections**](#2-working-with-sections) (4 videos)
-  - Create a section
-  - Rename, move, and delete a section
-  - Create a linked section
-  - Password-protect a section
+  - [Create a section](#create-a-section)
+  - [Rename, move, and delete a section](#rename-move-and-delete-a-section)
+  - [Create a linked section](#create-a-linked-section)
+  - [Password-protect a section](#password-protect-a-section)
 - [**3. Working with Pages**](#3-working-with-pages) (4 videos)
-  - Create, move, and delete a page
-  - Make a subpage
-  - Rearranging with the Cut, Copy, and Paste tools
-  - Working in Full Screen mode
+  - [Create, move, and delete a page](#create-move-and-delete-a-page)
+  - [Make a subpage](#make-a-subpage)
+  - [Rearranging with the Cut, Copy, and Paste tools](#rearranging-with-the-cut-copy-and-paste-tools)
+  - [Working in Full Screen mode](#working-in-full-screen-mode)
 - [**4. Formatting Typed Notes and Lists**](#4-formatting-typed-notes-and-lists) (5 videos)
-  - Apply the look of other content to text
-  - Format notes with bullets and tables
-  - Create a to-do list
-  - Set the default paste option
-  - Add space for additional notes
+  - [Apply the look of other content to text](#apply-the-look-of-other-content-to-text)
+  - [Format notes with bullets and tables](#format-notes-with-bullets-and-tables)
+  - [Create a to-do list](#create-a-to-do-list)
+  - [Set the default paste option](#set-the-default-paste-option)
+  - [Add space for additional notes](#add-space-for-additional-notes)
 - [**5. Creating Audio, Handwritten, and Other Types of Notes**](#5-creating-audio-handwritten-and-other-types-of-notes) (5 videos)
-  - Copy and paste a link to a paragraph
-  - Add meeting details
-  - Take notes with dictation
-  - Handwrite notes on a ruled page
-  - Take quick notes
+  - [Copy and paste a link to a paragraph](#copy-and-paste-a-link-to-a-paragraph)
+  - [Add meeting details](#add-meeting-details)
+  - [Take notes with dictation](#take-notes-with-dictation)
+  - [Handwrite notes on a ruled page](#handwrite-notes-on-a-ruled-page)
+  - [Take quick notes](#take-quick-notes)
 - [**6. Importing Content from Other Apps**](#6-importing-content-from-other-apps) (2 videos)
-  - Embed videos
-  - Insert a document
+  - [Embed videos](#embed-videos)
+  - [Insert a document](#insert-a-document)
 - [**7. Managing and Searching Notebooks**](#7-managing-and-searching-notebooks) (5 videos)
-  - Tag notes
-  - Search for notes
-  - View who authored a note
-  - Print notes
-  - Replay notes
+  - [Tag notes](#tag-notes)
+  - [Search for notes](#search-for-notes)
+  - [View who authored a note](#view-who-authored-a-note)
+  - [Print notes](#print-notes)
+  - [Replay notes](#replay-notes)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Keyboard shortcuts and resources
-  - Expand your note-taking skills
+  - [Keyboard shortcuts and resources](#keyboard-shortcuts-and-resources)
+  - [Expand your note-taking skills](#expand-your-note-taking-skills)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay organized with OneNote
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** [[OneNote]] (8), [[Microsoft Office]] (3), [[Microsoft]] (3), [[Windows 10]] (2), [[Forms]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [heather] (1)
 
@@ -141,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OneNote]] (10), [[Windows 10]] (2), web (1), [[Android]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
@@ -197,7 +198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** [[OneNote]] (10), [[Windows 10]] (6), [[Search]] (3), application (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), means that (1), known as (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** select the (1), right-click (1)
@@ -207,7 +208,7 @@ created: 2026-04-29
 
 ### 1. Set Up and Organize Your Notebooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a notebook stored in OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980)
@@ -288,7 +289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** [[OneNote]] (6), [[Microsoft OneDrive|Onedrive]] (5), [[Windows 10]] (2), next (2), [[Microsoft]] (1)
 > **UI Navigation:** select the (1), go to (1), scroll down (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -352,8 +353,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OneNote]] (5), [[Microsoft OneDrive|Onedrive]] (4), [[Windows 10]] (3), next (3), cloud (2)
 > **UI Navigation:** select the (2), scroll down (2), go to (1)
-> **Code Keywords:** from. (1), let (1), switch (1), this, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -428,7 +429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (3), else. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), [[OneNote]] (2), [[Windows 10]] (1), next (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** just like (1)
 > **Prerequisites:** before we start (1)
@@ -531,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), from, (1), switch (1), this, (1), function (1)
+> **Frameworks & Libraries:** cloud (4), [[OneNote]] (1)
 > **UI Navigation:** go to (3), right-click (3), select the (2), scroll down (1), toggle (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -555,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), this, (1)
+> **Frameworks & Libraries:** [[OneNote]] (1), [[Windows 10]] (1), next (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -566,7 +567,7 @@ created: 2026-04-29
 
 ### 2. Working with Sections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a section
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-section?u=76281980)
@@ -633,7 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -743,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), switch (3), delete (3)
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** select the (3), right-click (3), switch to (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -784,7 +785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (2), select the (1), open the (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -851,7 +852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (5), let (3), private (1), this, (1)
+> **Frameworks & Libraries:** next (3), [[OneNote]] (1), [[Windows 10]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** right-click (3), go to (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Cross-References:** go back to (2)
@@ -862,7 +863,7 @@ created: 2026-04-29
 
 ### 3. Working with Pages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create, move, and delete a page
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-move-and-delete-a-page?u=76281980)
@@ -965,7 +966,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (5)
 > **UI Navigation:** drag and drop (2), click on (1), select the (1), right-click (1), go to (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), think of it like (1)
@@ -1012,8 +1012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (2), this, (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1077,8 +1077,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OneNote]] (1), teams (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (4), select the (2), right-click (2), click on (1)
-> **Code Keywords:** let (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1121,7 +1121,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), let (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -1129,7 +1128,7 @@ created: 2026-04-29
 
 ### 4. Formatting Typed Notes and Lists
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the look of other content to text
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980)
@@ -1182,7 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word|Word]] (2), next (2), [[Microsoft Word]] (1), [[Microsoft Office]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Format notes with bullets and tables
@@ -1284,7 +1283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2)
+> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), select the (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1349,7 +1348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), try. (1), continue (1)
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1438,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (2), let (2), this. (2), case, (1), default, (1)
+> **Frameworks & Libraries:** [[OneNote]] (3)
 > **UI Navigation:** go to (5), scroll down (1), select the (1), right-click (1), click on (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
@@ -1500,7 +1499,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), this, (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1508,7 +1506,7 @@ created: 2026-04-29
 
 ### 5. Creating Audio, Handwritten, and Other Types of Notes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Copy and paste a link to a paragraph
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/copy-and-paste-a-link-to-a-paragraph?u=76281980)
@@ -1563,7 +1561,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), this, (1)
 > **UI Navigation:** go to (2)
 > **Cross-References:** earlier in (1)
 > **Prerequisites:** set up (1)
@@ -1652,7 +1649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), [[OneNote]] (2), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), business (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
@@ -1707,7 +1704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), try. (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Privacy]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -1831,7 +1828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this, (5), switch (4), this. (2), continue (2)
+> **Frameworks & Libraries:** [[OneNote]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1979,7 +1976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (3), this, (1)
+> **Frameworks & Libraries:** web (4), [[OneNote]] (3), [[Windows 10]] (3), next (1), application (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1989,7 +1986,7 @@ created: 2026-04-29
 
 ### 6. Importing Content from Other Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Embed videos
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980)
@@ -2058,8 +2055,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OneNote]] (2), web (1), [[Windows 10]] (1), next (1)
 > **UI Navigation:** go to (2), switch to (1), select the (1)
-> **Code Keywords:** switch (1), this. (1), let (1)
 > **Env Vars:** url (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [heather] (1)
@@ -2125,7 +2122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), application (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word|Word]] (2), [[Microsoft OneDrive|Onedrive]] (2)
 > **Env Vars:** pdf (5)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -2136,7 +2133,7 @@ created: 2026-04-29
 
 ### 7. Managing and Searching Notebooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tag notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/tag-notes?u=76281980)
@@ -2233,7 +2230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (3), from. (2)
+> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **UI Navigation:** go to (3), select the (2), dropdown (2)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (2)
@@ -2286,7 +2283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (2), let (2), else, (1), switch (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (14), [[OneNote]] (2), [[Microsoft Word|Word]] (1), [[Windows 10]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
@@ -2307,6 +2304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Print notes
@@ -2338,8 +2336,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OneNote]] (2), [[Microsoft]] (1)
 > **Env Vars:** pdf (3)
-> **Code Keywords:** continue (1), include; (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -2378,13 +2376,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **UI Navigation:** select the (3), go to (1), dropdown (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [heather] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keyboard shortcuts and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980)
@@ -2497,7 +2494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), for, (1), new. (1), for. (1)
+> **Frameworks & Libraries:** [[OneNote]] (21), [[Windows 10]] (6), [[Microsoft Office|Office]] (4), application (3), [[Microsoft]] (3)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (3)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -2545,7 +2542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[OneNote]] (9), web (2), [[Microsoft 365]] (2), [[Windows 10]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)

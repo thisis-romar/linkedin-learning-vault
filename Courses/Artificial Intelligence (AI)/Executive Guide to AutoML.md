@@ -31,7 +31,7 @@ tags:
   - skill/automated-machine-learning-automl
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Executive%20Guide%20to%20AutoML.md)
@@ -50,32 +50,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - How AutoML is changing analytics teams
-  - What you should know?
+  - [How AutoML is changing analytics teams](#how-automl-is-changing-analytics-teams)
+  - [What you should know?](#what-you-should-know)
 - [**1. Introducing AutoML**](#1-introducing-automl) (5 videos)
-  - What is AutoML?
-  - Understanding supervised machine learning on structured data
-  - Data engineering and ML Ops
-  - Understanding the ML lifecycle
-  - The challenge of ML problem definition
+  - [What is AutoML?](#what-is-automl)
+  - [Understanding supervised machine learning on structured data](#understanding-supervised-machine-learning-on-structured-data)
+  - [Data engineering and ML Ops](#data-engineering-and-ml-ops)
+  - [Understanding the ML lifecycle](#understanding-the-ml-lifecycle)
+  - [The challenge of ML problem definition](#the-challenge-of-ml-problem-definition)
 - [**2. Stages in the ML Lifecycle**](#2-stages-in-the-ml-lifecycle) (6 videos)
-  - Which phases have been automated most successfully?
-  - The challenge of automating data understanding
-  - What AutoML can and can't do during data prep
-  - AutoML's capabilities during the modeling phase
-  - Comparing model accuracy and business evaluation
-  - Monitoring and maintaining models
+  - [Which phases have been automated most successfully?](#which-phases-have-been-automated-most-successfully)
+  - [The challenge of automating data understanding](#the-challenge-of-automating-data-understanding)
+  - [What AutoML can and can't do during data prep](#what-automl-can-and-cant-do-during-data-prep)
+  - [AutoML's capabilities during the modeling phase](#automls-capabilities-during-the-modeling-phase)
+  - [Comparing model accuracy and business evaluation](#comparing-model-accuracy-and-business-evaluation)
+  - [Monitoring and maintaining models](#monitoring-and-maintaining-models)
 - [**3. AutoML Options**](#3-automl-options) (4 videos)
-  - The AutoML vendor landscape
-  - Demonstrating AutoML with KNIME
-  - A metaphor for AutoML
-  - Advice for team composition
+  - [The AutoML vendor landscape](#the-automl-vendor-landscape)
+  - [Demonstrating AutoML with KNIME](#demonstrating-automl-with-knime)
+  - [A metaphor for AutoML](#a-metaphor-for-automl)
+  - [Advice for team composition](#advice-for-team-composition)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How AutoML is changing analytics teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/how-automl-is-changing-analytics-teams?u=76281980)
@@ -96,7 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1)
+> **Frameworks & Libraries:** [[Automation]] (1), [[Analytics]] (1), leadership (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - this (1)
 
@@ -127,15 +127,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Predictive Analytics]] (2)
 > **Definitions:** is an  (2)
 > **Prerequisites:** prerequisite (1), you'll need (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introducing AutoML
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AutoML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980)
@@ -168,6 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Automation]] (1), business (1), leadership (1)
 > **Speakers:** - the (1)
 
 #### Understanding supervised machine learning on structured data
@@ -255,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** data (12), business (2), application (2), [[Search]] (2), [[Supervised Learning]] (2)
 > **UI Navigation:** scroll down (2), go to (1), click on (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** uci (1)
@@ -306,9 +307,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Data Engineering]] (6), data (5), career (3), [[Analytics]] (2), teams (2)
 > **Definitions:** refers to (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - to (1)
 
 #### Understanding the ML lifecycle
@@ -376,8 +377,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), business (7), [[CRISP-DM]] (4), [[MLOps]] (1), [[Predictive Analytics]] (1)
 > **Env Vars:** crisp (4)
-> **Code Keywords:** case, (1), finally, (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - what (1)
 
@@ -420,8 +421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (2), express (1), teams (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** default. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Warnings:** be careful (1)
@@ -431,7 +432,7 @@ created: 2026-04-29
 
 ### 2. Stages in the ML Lifecycle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Which phases have been automated most successfully?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980)
@@ -466,6 +467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), business (2), [[Automation]] (1), teams (1), [[MLOps]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -517,9 +519,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), ai (2), product (1), [[Statistics]] (1), business (1)
 > **Env Vars:** h2o (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** abstract (1)
 > **URLs:** [h2o.ai](https://h2o.ai) (1)
 > **Cross-References:** later in (1)
 > **Definitions:** in other words (1)
@@ -625,7 +627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (3), case, (1)
+> **Frameworks & Libraries:** data (9), [[Feature Engineering]] (3), [[Algorithms]] (2), [[Linear Regression]] (1), [[LinkedIn]] (1)
 > **Env Vars:** v1_a (1), v1_c (1)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
@@ -732,8 +734,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (5), [[Decision Trees]] (2), [[Search]] (2), [[Automation]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), case, (1)
 > **Versions:** 23.46 (1), 29.68 (1), 26.43 (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
@@ -825,7 +827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1)
+> **Frameworks & Libraries:** data (4), strengths (1), business (1), power (1), teams (1)
 > **Env Vars:** mape (1), roi (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** you should always (1)
@@ -872,14 +874,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (6), business (1), power (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. AutoML Options
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The AutoML vendor landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980)
@@ -940,8 +942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), ai (2), [[IBM SPSS]] (2), product (1), [[Predictive Analytics]] (1)
 > **Env Vars:** h2o (2), ibm (2), spss (2), flaml (1)
-> **Code Keywords:** type. (1), let (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1167,8 +1169,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Knime]] (17), [[Algorithms]] (6), node (3), [[Windows]] (2)
 > **UI Navigation:** click on (8), go to (5), scroll down (2), drag and drop (2)
-> **Code Keywords:** let (5), this. (2), finally, (1), switch (1), case, (1)
 > **Env Vars:** h2o (3), uci (2), glm (1)
 > **CLI Commands:** node (3), make (2)
 > **Definitions:** is a  (4), means that (1)
@@ -1213,9 +1215,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), ai (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** override (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
@@ -1296,7 +1298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), else. (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (23), business (10), product (2), leadership (2), [[Analytics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** tdwi (1)
 > **Best Practices:** it's best to (1)
@@ -1306,7 +1308,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980)
@@ -1333,7 +1335,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** next (2), [[Analytics]] (1), [[Predictive Analytics]] (1), [[LinkedIn]] (1)
 > **Speakers:** - so (1)
 
 

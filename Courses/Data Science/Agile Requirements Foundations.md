@@ -30,7 +30,7 @@ tags:
   - skill/agile-methodologies
   - skill/requirements-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Agile%20Requirements%20Foundations.md)
@@ -49,49 +49,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you need to know
-  - Using the exercise files
+  - [Welcome](#welcome)
+  - [What you need to know](#what-you-need-to-know)
+  - [Using the exercise files](#using-the-exercise-files)
 - [**1. Agile and the Business Analyst**](#1-agile-and-the-business-analyst) (5 videos)
-  - The business analyst role in agile
-  - The agile manifesto from a business analyst perspective
-  - Agile principles 1–4 from a business analyst perspective
-  - Agile principles 5–8 from a business analyst perspective
-  - Agile principles 9–12 from a business analyst perspective
+  - [The business analyst role in agile](#the-business-analyst-role-in-agile)
+  - [The agile manifesto from a business analyst perspective](#the-agile-manifesto-from-a-business-analyst-perspective)
+  - [Agile principles 1–4 from a business analyst perspective](#agile-principles-14-from-a-business-analyst-perspective)
+  - [Agile principles 5–8 from a business analyst perspective](#agile-principles-58-from-a-business-analyst-perspective)
+  - [Agile principles 9–12 from a business analyst perspective](#agile-principles-912-from-a-business-analyst-perspective)
 - [**2. Agile Point of View**](#2-agile-point-of-view) (5 videos)
-  - The business analyst point of view on an agile team
-  - Key agile mindsets of business analysts
-  - Increments of value
-  - Volatility, uncertainty, complexity, and ambiguity (VUCA)
-  - Day in the life of an agile business analyst
+  - [The business analyst point of view on an agile team](#the-business-analyst-point-of-view-on-an-agile-team)
+  - [Key agile mindsets of business analysts](#key-agile-mindsets-of-business-analysts)
+  - [Increments of value](#increments-of-value)
+  - [Volatility, uncertainty, complexity, and ambiguity (VUCA)](#volatility-uncertainty-complexity-and-ambiguity-vuca)
+  - [Day in the life of an agile business analyst](#day-in-the-life-of-an-agile-business-analyst)
 - [**3. Backlog Management**](#3-backlog-management) (6 videos)
-  - A healthy backlog
-  - Ownership of the backlog
-  - Level of detail in the backlog
-  - Refining the backlog
-  - Analyzing the backlog
-  - Collaborating with the product owner on the backlog
+  - [A healthy backlog](#a-healthy-backlog)
+  - [Ownership of the backlog](#ownership-of-the-backlog)
+  - [Level of detail in the backlog](#level-of-detail-in-the-backlog)
+  - [Refining the backlog](#refining-the-backlog)
+  - [Analyzing the backlog](#analyzing-the-backlog)
+  - [Collaborating with the product owner on the backlog](#collaborating-with-the-product-owner-on-the-backlog)
 - [**4. Techniques for Agile Business Analysts**](#4-techniques-for-agile-business-analysts) (7 videos)
-  - Product decomposition
-  - Context techniques
-  - User stories
-  - Acceptance criteria
-  - User story maps
-  - Story slicing and splitting
-  - Lightweight modeling
+  - [Product decomposition](#product-decomposition)
+  - [Context techniques](#context-techniques)
+  - [User stories](#user-stories)
+  - [Acceptance criteria](#acceptance-criteria)
+  - [User story maps](#user-story-maps)
+  - [Story slicing and splitting](#story-slicing-and-splitting)
+  - [Lightweight modeling](#lightweight-modeling)
 - [**5. Agile Concepts for Business Analysts**](#5-agile-concepts-for-business-analysts) (6 videos)
-  - Last responsible moment
-  - Minimum viable product (MVP)
-  - Experiments
-  - Value stream
-  - Outcome-focused
-  - Who is the customer?
+  - [Last responsible moment](#last-responsible-moment)
+  - [Minimum viable product (MVP)](#minimum-viable-product-mvp)
+  - [Experiments](#experiments)
+  - [Value stream](#value-stream)
+  - [Outcome-focused](#outcome-focused)
+  - [Who is the customer?](#who-is-the-customer)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980)
@@ -124,7 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), business (3), teams (2), product (2), [[Requirements Analysis]] (1)
 > **Speakers:** - our (1)
 
 #### What you need to know
@@ -146,6 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), product (4), business (3), teams (2), [[Scrum]] (1)
 > **Speakers:** - this (1)
 
 #### Using the exercise files
@@ -168,13 +169,12 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Exercise Files:** exercise files (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Agile and the Business Analyst
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The business analyst role in agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-role-in-agile?u=76281980)
@@ -229,6 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (12), product (6), business (3), teams (2)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -321,7 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), business (2), [[Microsoft Products|Products]] (2), next (2), [[Software Development]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - 17 (1)
 
@@ -400,6 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), product (6), [[Agile Development|Agile]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (2), next (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - the (1)
 
@@ -490,7 +492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (7), product (6), next (3), [[Virtual Teams]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - okay (1)
@@ -574,15 +576,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), product (3), next (2), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** self (1)
 > **Analogies:** for example (1)
 > **Speakers:** - ok (1)
 
 
 ### 2. Agile Point of View
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The business analyst point of view on an agile team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-point-of-view-on-an-agile-team?u=76281980)
@@ -661,7 +663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), else. (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
@@ -749,7 +751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), next (4), product (3), [[Scrum]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - it (1)
@@ -835,8 +837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), feature (4), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** let (3)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
 
@@ -933,9 +935,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), next (3), [[Microsoft Products|Products]] (3), data (3), business (2)
 > **Env Vars:** vuca (6), mvp (1)
 > **Definitions:** is a  (2), is an  (1), stands for (1), known as (1)
-> **Code Keywords:** let (4)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
 > **Prerequisites:** required to (1)
@@ -995,6 +997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Agile Development|Agile]] (5), [[Relationship Building]] (1), management (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -1004,7 +1007,7 @@ created: 2026-04-29
 
 ### 3. Backlog Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A healthy backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/a-healthy-backlog?u=76281980)
@@ -1075,6 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), business (5), [[Agile Development|Agile]] (3), teams (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - something (1)
@@ -1138,7 +1142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else. (1)
+> **Frameworks & Libraries:** product (7), business (5), next (5), teams (4), [[Scrum]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1223,7 +1227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type, (1), this, (1), function (1), switch (1)
+> **Frameworks & Libraries:** teams (3), feature (2), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - we (1)
@@ -1293,9 +1297,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), [[Agile Development|Agile]] (2), business (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - refining (1)
 
 #### Analyzing the backlog
@@ -1347,6 +1351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (7), data (2), business (2), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** sipoc (1)
 > **Analogies:** picture (1)
@@ -1415,6 +1420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (19), business (2), feature (1), [[Agile Development|Agile]] (1), teams (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1423,7 +1429,7 @@ created: 2026-04-29
 
 ### 4. Techniques for Agile Business Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Product decomposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980)
@@ -1490,7 +1496,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** product (13), teams (4), [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (2), functional (1)
 > **Analogies:** similar to (1), picture (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -1557,9 +1563,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), teams (4), [[Agile Development|Agile]] (3), data (1)
 > **Analogies:** picture (5), just like (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** while, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
@@ -1666,8 +1672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), next (3), database (3), teams (2), [[Agile Development|Agile]] (2)
 > **Definitions:** stands for (4), is a  (2), is an  (1)
-> **Code Keywords:** let (4), this, (1), case, (1)
 > **Exercise Files:** exercise file (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - user (1)
@@ -1733,7 +1739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), pass (1)
+> **Frameworks & Libraries:** teams (1), product (1), [[Microsoft Products|Products]] (1), functional (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - so (1)
@@ -1779,6 +1785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[User Experience (UX)|User experience]] (1), feature (1), business (1)
 > **Analogies:** for example (2), picture (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -1833,7 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), teams (2), product (2), business (2), next (2)
 > **Definitions:** is an  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -1890,13 +1897,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), teams (3), [[Microsoft Word|Word]] (1), business (1), next (1)
 > **Speakers:** - when (1)
 
 
 ### 5. Agile Concepts for Business Analysts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Last responsible moment
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980)
@@ -1961,8 +1968,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), business (3), product (3), [[Agile Development|Agile]] (3), teams (3)
 > **CLI Commands:** make (6)
-> **Code Keywords:** include, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
@@ -2032,10 +2039,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), [[Agile Development|Agile]] (6), feature (6), teams (3), next (1)
 > **Env Vars:** mvp (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** function (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - you (1)
 
@@ -2096,8 +2103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), data (1), teams (1), feature (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (2)
 > **Analogies:** similar to (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - have (1)
@@ -2169,8 +2176,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), teams (4), product (4), feature (2), business (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), this. (1)
 > **Analogies:** picture (1)
 > **Speakers:** - sometimes (1)
 
@@ -2235,7 +2242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (2), let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (4), product (4), feature (3), business (2)
 > **Analogies:** picture (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - in (1)
@@ -2301,14 +2308,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), product (3), business (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - do (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980)
@@ -2333,8 +2340,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), business (3), [[Requirements Analysis]] (1), career (1)
 > **Env Vars:** iiba (1), babok (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - being (1)
 

@@ -26,7 +26,7 @@ tags:
   - skill/job-search-strategies
   - skill/climate-change
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/How%20to%20Get%20a%20Job%20in%20Climate.md)
@@ -45,35 +45,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Growing demand for climate jobs
-  - Real-world examples of people in climate careers
+  - [Growing demand for climate jobs](#growing-demand-for-climate-jobs)
+  - [Real-world examples of people in climate careers](#real-world-examples-of-people-in-climate-careers)
 - [**1. The State of the Climate Job Industry**](#1-the-state-of-the-climate-job-industry) (5 videos)
-  - What is climate tech?
-  - What is a climate job?
-  - Growth trajectory in climate
-  - The expansion of ESG
-  - Getting your start in the climate space early
+  - [What is climate tech?](#what-is-climate-tech)
+  - [What is a climate job?](#what-is-a-climate-job)
+  - [Growth trajectory in climate](#growth-trajectory-in-climate)
+  - [The expansion of ESG](#the-expansion-of-esg)
+  - [Getting your start in the climate space early](#getting-your-start-in-the-climate-space-early)
 - [**2. Barriers to Working in Climate**](#2-barriers-to-working-in-climate) (3 videos)
-  - Why climate experience isn't necessary
-  - How to do a deep dive into the climate industry
-  - Overcoming climate job imposter syndrome
+  - [Why climate experience isn't necessary](#why-climate-experience-isnt-necessary)
+  - [How to do a deep dive into the climate industry](#how-to-do-a-deep-dive-into-the-climate-industry)
+  - [Overcoming climate job imposter syndrome](#overcoming-climate-job-imposter-syndrome)
 - [**3. The Climate Job Search Isn't Traditional**](#3-the-climate-job-search-isnt-traditional) (2 videos)
-  - Why climate job searches are different
-  - Reversing eco-anxiety
+  - [Why climate job searches are different](#why-climate-job-searches-are-different)
+  - [Reversing eco-anxiety](#reversing-eco-anxiety)
 - [**4. How to Get a Job in Climate**](#4-how-to-get-a-job-in-climate) (7 videos)
-  - Five steps for getting your foot in the door in climate
-  - Laying the foundation for your climate job search
-  - Enhancing your climate job resume
-  - How to network in the climate space
-  - Advice for submitting your climate application
-  - Tips and tricks for climate job interviews
-  - Preparing for later-stage interviews
+  - [Five steps for getting your foot in the door in climate](#five-steps-for-getting-your-foot-in-the-door-in-climate)
+  - [Laying the foundation for your climate job search](#laying-the-foundation-for-your-climate-job-search)
+  - [Enhancing your climate job resume](#enhancing-your-climate-job-resume)
+  - [How to network in the climate space](#how-to-network-in-the-climate-space)
+  - [Advice for submitting your climate application](#advice-for-submitting-your-climate-application)
+  - [Tips and tricks for climate job interviews](#tips-and-tricks-for-climate-job-interviews)
+  - [Preparing for later-stage interviews](#preparing-for-later-stage-interviews)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Act now
+  - [Act now](#act-now)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Growing demand for climate jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980)
@@ -106,7 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Climate Change]] (1), [[LinkedIn]] (1), power (1)
 > **Speakers:** - carbon (1)
 
 #### Real-world examples of people in climate careers
@@ -154,9 +154,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), [[LinkedIn]] (1), product (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Forecasting]] (1)
 > **Speakers:** - i (2), - before (1), - [natalie] (1), - now (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nasa (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -164,7 +164,7 @@ created: 2026-04-29
 
 ### 1. The State of the Climate Job Industry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is climate tech?
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980)
@@ -243,7 +243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Climate Change]] (6), product (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
 > **Env Vars:** co2 (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -302,6 +302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Resiliency]] (1), business (1), [[Microsoft Word|Word]] (1), [[Climate Change]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
@@ -390,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), raise (1), public (1), private (1), this, (1)
+> **Frameworks & Libraries:** [[Climate Change]] (3), product (2), [[Security]] (1), next (1), career (1)
 > **Versions:** 1.5 (1), 1.1 (1)
 > **Env Vars:** ctvc (1)
 > **Cross-References:** in the next (1)
@@ -453,7 +454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (1), let (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3), leadership (2), career (2), teams (2), power (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - climate (1)
@@ -527,14 +528,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (1), continue (1)
+> **Frameworks & Libraries:** [[Search]] (5), next (2)
 > **Cross-References:** in the next (2)
 > **Speakers:** - terra (1)
 
 
 ### 2. Barriers to Working in Climate
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why climate experience isn't necessary
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-experience-isn-t-necessary?u=76281980)
@@ -613,8 +614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), career (1), next (1)
 > **Versions:** 9.6 (1), 13.3 (1), 38.5 (1)
-> **Code Keywords:** require (1), this. (1)
 > **Cross-References:** we discussed (1), next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - demand (1)
@@ -680,6 +681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Newsletters]] (1), [[Slack]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** slack (1)
 > **UI Navigation:** open the (1)
@@ -738,15 +740,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Climate Change]] (1), next (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. The Climate Job Search Isn't Traditional
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why climate job searches are different
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980)
@@ -815,6 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Search]] (2), career (1), [[Resiliency]] (1), [[Climate Change]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -874,13 +877,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Climate Change]] (4), [[Search]] (2), [[Security]] (1), game (1), career (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
 
 ### 4. How to Get a Job in Climate
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Five steps for getting your foot in the door in climate
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980)
@@ -965,7 +969,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), for, (1)
+> **Frameworks & Libraries:** [[Search]] (2), career (1), [[LinkedIn]] (1), [[Newsletters]] (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
@@ -1029,9 +1033,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), strengths (4), [[Search]] (3), [[Engineering]] (1), [[LinkedIn]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** self (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1110,7 +1114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), case, (1), interface (1)
+> **Frameworks & Libraries:** career (3), [[Microsoft Word|Word]] (1), job description (1), application (1), [[Search]] (1)
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is an  (1)
@@ -1195,8 +1199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), job description (1), [[Relationship Building]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), function (1), continue (1)
 > **Env Vars:** cnbc (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - according (1)
@@ -1276,8 +1280,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), [[Search]] (3), [[LinkedIn]] (2), strengths (1), data (1)
 > **CLI Commands:** make (5), find (3)
-> **Code Keywords:** finally, (1), for. (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1365,8 +1369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (1), [[LinkedIn]] (1), [[GitHub]] (1), job description (1), [[Interviewing]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), function (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Prerequisites:** make sure you have (2)
 > **Tools:** github (1)
@@ -1452,15 +1456,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Search]] (1), [[Interviewing]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1), this, (1), let (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Speakers:** - so (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Act now
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980)
@@ -1489,6 +1493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (1), teams (1), [[Climate Change]] (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)

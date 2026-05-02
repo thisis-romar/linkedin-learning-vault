@@ -36,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Embeddings.md)
@@ -55,23 +55,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to embeddings
+  - [Introduction to embeddings](#introduction-to-embeddings)
 - [**1. Understanding Embeddings**](#1-understanding-embeddings) (2 videos)
-  - Explore embeddings
-  - Leverage cosine similarity
+  - [Explore embeddings](#explore-embeddings)
+  - [Leverage cosine similarity](#leverage-cosine-similarity)
 - [**2. Obtaining Embeddings via the Embeddings API**](#2-obtaining-embeddings-via-the-embeddings-api) (3 videos)
-  - Explore the Embeddings API
-  - Estimate embeddings pricing
-  - Generate embeddings for a single word
+  - [Explore the Embeddings API](#explore-the-embeddings-api)
+  - [Estimate embeddings pricing](#estimate-embeddings-pricing)
+  - [Generate embeddings for a single word](#generate-embeddings-for-a-single-word)
 - [**3. Using Embeddings in the Real World**](#3-using-embeddings-in-the-real-world) (2 videos)
-  - Cluster similar words
-  - Generate embeddings for sentences
+  - [Cluster similar words](#cluster-similar-words)
+  - [Generate embeddings for sentences](#generate-embeddings-for-sentences)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Your embeddings journey
+  - [Your embeddings journey](#your-embeddings-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to embeddings
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980)
@@ -94,13 +94,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), ai (2), [[Microsoft Word|Word]] (2), api (1), [[LinkedIn]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [kesha] (1)
 
 
 ### 1. Understanding Embeddings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore embeddings
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980)
@@ -149,8 +150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Search]] (2), [[Algorithms]] (1), [[Information Retrieval]] (1)
 > **Definitions:** is a  (3), known as (1), is an  (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -202,7 +203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** product (3), [[Microsoft Word|Word]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), api (1)
 > **Versions:** 0.8 (1), 0.3 (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
@@ -213,7 +214,7 @@ created: 2026-04-29
 
 ### 2. Obtaining Embeddings via the Embeddings API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the Embeddings API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980)
@@ -276,7 +277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), default. (1), type, (1)
+> **Frameworks & Libraries:** api (5), [[Tokens]] (3), [[Search]] (2), next (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** api (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -324,7 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), function (1), pass (1)
+> **Frameworks & Libraries:** [[Tokens]] (8), api (3)
 > **Env Vars:** api (3)
 > **Versions:** 99.8 (1)
 > **Definitions:** is a  (1)
@@ -434,7 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), module (2), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), api (10), [[Python (Programming Language)|Python]] (2), next (2), cloud (2)
 > **Code Identifiers:** sun_embeddings (4), get_embeddings (3), compute_cosine_similarity (3), moon_embeddings (3), cloud_embeddings (2)
 > **Env Vars:** api (11), sdk (1)
 > **Prerequisites:** configure (1), you'll need (1), install (1)
@@ -446,7 +447,7 @@ created: 2026-04-29
 
 ### 3. Using Embeddings in the Real World
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cluster similar words
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980)
@@ -523,7 +524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (4), [[Python (Programming Language)|Python]] (2), api (2), [[OpenAI API]] (1)
 > **CLI Commands:** python (2), make (1), pip (1)
 > **Env Vars:** api (3)
 > **Prerequisites:** install (2), you'll need (1)
@@ -615,7 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (5), pass (3)
+> **Frameworks & Libraries:** api (3), next (2), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Code Identifiers:** get_embeddings (3), compute_cosine_similarity (1)
 > **Env Vars:** api (3), ada (1)
 > **Definitions:** is a  (2)
@@ -627,7 +628,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your embeddings journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980)
@@ -656,8 +657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), power (2), [[ChatGPT]] (1), [[Artificial Intelligence Foundations]] (1), [[OpenAI API]] (1)
 > **Env Vars:** api (4)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [kesha] (1)
 
 

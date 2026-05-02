@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/organizational-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Counterintuitive%20Leadership%20Strategies%20for%20a%20VUCA%20(Volatile%2C%20Uncertain%2C%20Complex%2C%20Ambiguous)%20Environment.md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Disrupt your own way of working and thinking
-  - Equipping yourself for a new leadership landscape
+  - [Disrupt your own way of working and thinking](#disrupt-your-own-way-of-working-and-thinking)
+  - [Equipping yourself for a new leadership landscape](#equipping-yourself-for-a-new-leadership-landscape)
 - [**1. Adopt the Strategic Pause**](#1-adopt-the-strategic-pause) (2 videos)
-  - Myth of motion
-  - Case in point: The corporate leadership retreat
+  - [Myth of motion](#myth-of-motion)
+  - [Case in point: The corporate leadership retreat](#case-in-point-the-corporate-leadership-retreat)
 - [**2. Disrupt Your Thinking**](#2-disrupt-your-thinking) (2 videos)
-  - The prison of perspectives
-  - Case in point: The museum at the Rhode Island School of Design
+  - [The prison of perspectives](#the-prison-of-perspectives)
+  - [Case in point: The museum at the Rhode Island School of Design](#case-in-point-the-museum-at-the-rhode-island-school-of-design)
 - [**3. Embrace Soft Intelligence**](#3-embrace-soft-intelligence) (2 videos)
-  - The addiction to hard data
-  - Case in point: Nokia
+  - [The addiction to hard data](#the-addiction-to-hard-data)
+  - [Case in point: Nokia](#case-in-point-nokia)
 - [**4. Reevaluate Your To-Do List**](#4-reevaluate-your-to-do-list) (2 videos)
-  - The rut of routines
-  - Case in point: Nabob Foods Limited
+  - [The rut of routines](#the-rut-of-routines)
+  - [Case in point: Nabob Foods Limited](#case-in-point-nabob-foods-limited)
 - [**5. Communicate to Influence**](#5-communicate-to-influence) (2 videos)
-  - The obsession with informing
-  - Case in point: The venture capital presentation
+  - [The obsession with informing](#the-obsession-with-informing)
+  - [Case in point: The venture capital presentation](#case-in-point-the-venture-capital-presentation)
 - [**6. Approach Challenges as a Novice**](#6-approach-challenges-as-a-novice) (2 videos)
-  - The trap of expertise
-  - Case in point: Martial arts
+  - [The trap of expertise](#the-trap-of-expertise)
+  - [Case in point: Martial arts](#case-in-point-martial-arts)
 - [**7. Blaze New Trails**](#7-blaze-new-trails) (2 videos)
-  - The chains of best practices
-  - Case in point: Capital One bank
+  - [The chains of best practices](#the-chains-of-best-practices)
+  - [Case in point: Capital One bank](#case-in-point-capital-one-bank)
 - [**8. Maintain Timeless Principles**](#8-maintain-timeless-principles) (1 videos)
-  - The power of enduring practices
+  - [The power of enduring practices](#the-power-of-enduring-practices)
 - [**9. Conquer the Chaos**](#9-conquer-the-chaos) (1 videos)
-  - New strategies for success
+  - [New strategies for success](#new-strategies-for-success)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Disrupt your own way of working and thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/disrupt-your-own-way-of-working-and-thinking?u=76281980)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** leadership (3), product (1), business (1)
 > **Speakers:** - like (1)
 
 #### Equipping yourself for a new leadership landscape
@@ -170,7 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** leadership (6), business (1), [[Big Data]] (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** download the (1)
@@ -179,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Adopt the Strategic Pause
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Myth of motion
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980)
@@ -258,8 +258,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), [[Microsoft Office|Office]] (1), data (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), function (1)
 > **Env Vars:** dna (1)
 > **Speakers:** - as (1)
 
@@ -334,15 +334,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), teams (2), business (1), [[Simulation]] (1), power (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - today (1)
 
 
 ### 2. Disrupt Your Thinking
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The prison of perspectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-prison-of-perspectives?u=76281980)
@@ -421,6 +421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), business (2), [[Representational State Transfer (REST)|Rest]] (1), teams (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** roi (1)
 > **Speakers:** - as (1)
@@ -498,14 +499,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), require (1)
+> **Frameworks & Libraries:** business (1), data (1), game (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - i (1)
 
 
 ### 3. Embrace Soft Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The addiction to hard data
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980)
@@ -562,8 +563,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Algorithms]] (1), [[Databases]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - leaders (1)
 
@@ -642,6 +643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), feature (1), business (1), [[Microsoft]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - one (1)
@@ -649,7 +651,7 @@ created: 2026-04-29
 
 ### 4. Reevaluate Your To-Do List
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The rut of routines
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-rut-of-routines?u=76281980)
@@ -730,7 +732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** leadership (3), business (2), product (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - avid (1)
 
@@ -817,15 +819,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (1), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** ceo (1)
 > **Speakers:** - i (1)
 
 
 ### 5. Communicate to Influence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The obsession with informing
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-obsession-with-informing?u=76281980)
@@ -908,8 +910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), teams (3), business (2), leadership (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** throw (1)
 > **Speakers:** - maybe (1)
 
 #### Case in point: The venture capital presentation
@@ -983,15 +985,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Statistics]] (2), data (2), next (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - i (1)
 
 
 ### 6. Approach Challenges as a Novice
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The trap of expertise
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-trap-of-expertise?u=76281980)
@@ -1058,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if. (1), finally, (1)
+> **Frameworks & Libraries:** career (3), leadership (2), [[Microsoft Excel|Excel]] (1), business (1), cloud (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
@@ -1125,7 +1127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2)
+> **Frameworks & Libraries:** parallel (1), game (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** just like (1)
 > **Speakers:** - becoming (1)
@@ -1133,7 +1135,7 @@ created: 2026-04-29
 
 ### 7. Blaze New Trails
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The chains of best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-chains-of-best-practices?u=76281980)
@@ -1204,8 +1206,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** else. (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - ask (1)
 
@@ -1276,6 +1278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (5), next (1)
 > **Definitions:** known as (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - i (1)
@@ -1283,7 +1286,7 @@ created: 2026-04-29
 
 ### 8. Maintain Timeless Principles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of enduring practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980)
@@ -1366,14 +1369,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (3), teams (2), [[Building Trust]] (1), career (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - without (1)
 
 
 ### 9. Conquer the Chaos
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### New strategies for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/new-strategies-for-success?u=76281980)
@@ -1420,8 +1423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (3), [[Decision-Making]] (1), career (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** self (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** in other words (1)
 > **Warnings:** keep in mind (1)
@@ -1430,7 +1433,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/next-steps?u=76281980)
@@ -1469,8 +1472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this: (1)
 > **URLs:** [saracanaday.com](https://saracanaday.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - leadership (1)

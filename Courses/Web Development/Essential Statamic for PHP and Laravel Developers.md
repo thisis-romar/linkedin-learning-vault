@@ -32,7 +32,7 @@ tags:
   - skill/laravel
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Essential%20Statamic%20for%20PHP%20and%20Laravel%20Developers.md)
@@ -51,43 +51,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to Statamic
+  - [Introduction to Statamic](#introduction-to-statamic)
 - [**1. Introduction to Statamic**](#1-introduction-to-statamic) (3 videos)
-  - What is Statamic?
-  - Statamic vs. WordPress vs. Jigsaw SSG
-  - Statamic as a standalone web app vs. as a Laravel package
+  - [What is Statamic?](#what-is-statamic)
+  - [Statamic vs. WordPress vs. Jigsaw SSG](#statamic-vs-wordpress-vs-jigsaw-ssg)
+  - [Statamic as a standalone web app vs. as a Laravel package](#statamic-as-a-standalone-web-app-vs-as-a-laravel-package)
 - [**2. Getting Started with Statamic**](#2-getting-started-with-statamic) (8 videos)
-  - Installing Statamic as a standalone project
-  - Installing Statamic as a Laravel package
-  - Statamic starter kits
-  - Creating a user in Statamic
-  - Statamic control panel
-  - Adding and styling content in Statamic
-  - Challenge: Creating a new Statamic project
-  - Solution: Creating a new Statamic project
+  - [Installing Statamic as a standalone project](#installing-statamic-as-a-standalone-project)
+  - [Installing Statamic as a Laravel package](#installing-statamic-as-a-laravel-package)
+  - [Statamic starter kits](#statamic-starter-kits)
+  - [Creating a user in Statamic](#creating-a-user-in-statamic)
+  - [Statamic control panel](#statamic-control-panel)
+  - [Adding and styling content in Statamic](#adding-and-styling-content-in-statamic)
+  - [Challenge: Creating a new Statamic project](#challenge-creating-a-new-statamic-project)
+  - [Solution: Creating a new Statamic project](#solution-creating-a-new-statamic-project)
 - [**3. Statamic Internals**](#3-statamic-internals) (9 videos)
-  - File structure in Statamic
-  - Blueprints, fieldtypes, and fieldsets in Statamic
-  - Assets in Statamic
-  - Antlers, the templating engine in Statamic
-  - Variables in Statamic
-  - Globals in Statamic
-  - Navigation in Statamic
-  - Challenge: Creating a blueprint, a fieldset, and a navigation
-  - Solution: Creating a blueprint, a fieldset, and a navigation
+  - [File structure in Statamic](#file-structure-in-statamic)
+  - [Blueprints, fieldtypes, and fieldsets in Statamic](#blueprints-fieldtypes-and-fieldsets-in-statamic)
+  - [Assets in Statamic](#assets-in-statamic)
+  - [Antlers, the templating engine in Statamic](#antlers-the-templating-engine-in-statamic)
+  - [Variables in Statamic](#variables-in-statamic)
+  - [Globals in Statamic](#globals-in-statamic)
+  - [Navigation in Statamic](#navigation-in-statamic)
+  - [Challenge: Creating a blueprint, a fieldset, and a navigation](#challenge-creating-a-blueprint-a-fieldset-and-a-navigation)
+  - [Solution: Creating a blueprint, a fieldset, and a navigation](#solution-creating-a-blueprint-a-fieldset-and-a-navigation)
 - [**4. Deploying Statamic on Netlify**](#4-deploying-statamic-on-netlify) (6 videos)
-  - Statamic as an SSG
-  - Introduction to Netlify
-  - Uploading a Statamic website to GitHub
-  - Deploying a Statamic website to Netlify
-  - Challenge: Deploying a Statamic project to Netlify
-  - Solution: Deploying a Statamic project to Netlify
+  - [Statamic as an SSG](#statamic-as-an-ssg)
+  - [Introduction to Netlify](#introduction-to-netlify)
+  - [Uploading a Statamic website to GitHub](#uploading-a-statamic-website-to-github)
+  - [Deploying a Statamic website to Netlify](#deploying-a-statamic-website-to-netlify)
+  - [Challenge: Deploying a Statamic project to Netlify](#challenge-deploying-a-statamic-project-to-netlify)
+  - [Solution: Deploying a Statamic project to Netlify](#solution-deploying-a-statamic-project-to-netlify)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go from here
+  - [Where to go from here](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Statamic
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980)
@@ -118,17 +118,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (6), [[Git]] (1), cms (1), [[PHP]] (1), [[WordPress]] (1)
 > **CLI Commands:** git (1), php (1)
 > **Env Vars:** cms (1), php (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Introduction to Statamic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Statamic?
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980)
@@ -167,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cms (8), [[Laravel]] (4), [[PHP]] (2), database (2), [[Content Management Systems (CMS)|Content management systems]] (1)
 > **Env Vars:** cms (8), php (2)
 > **Definitions:** is a  (6), means that (2), known as (1)
 > **CLI Commands:** php (2)
@@ -257,7 +258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (7), let (1), interface (1), while. (1)
+> **Frameworks & Libraries:** [[WordPress]] (8), database (7), [[PHP]] (2), [[Jigsaw]] (2), cms (1)
 > **Env Vars:** php (2), cms (1), ssg (1), html (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **CLI Commands:** php (2)
@@ -295,6 +296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (8), application (3), [[Content Management]] (1)
 > **CLI Commands:** find (2), composer (1)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (2)
@@ -305,7 +307,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Statamic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Statamic as a standalone project
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980)
@@ -398,8 +400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (4), [[CLI]] (3), cd (2), [[PHP]] (1), next (1)
 > **CLI Commands:** composer (7), find (2), cd (2), php (1), rm (1)
-> **Code Keywords:** let (6), default. (3), case, (1), require (1), super (1)
 > **Prerequisites:** install (8), you'll need (1), set up (1)
 > **Tools:** terminal (5), command prompt (1)
 > **Env Vars:** cli (2), url (2), php (1)
@@ -456,7 +458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), require (1)
+> **Frameworks & Libraries:** [[Laravel]] (13), [[PHP]] (3), application (1), [[JSON]] (1), cd (1)
 > **CLI Commands:** php (3), composer (2), find (1), cd (1), cp (1)
 > **Prerequisites:** install (4), set up (1)
 > **Env Vars:** ide (2), php (2)
@@ -512,7 +514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1)
+> **Frameworks & Libraries:** front-end (1), css (1), [[E-Commerce]] (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (2)
@@ -578,9 +580,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (4), [[Laravel]] (4), database (2), data (1), next (1)
 > **Env Vars:** php (4), yaml (3)
 > **CLI Commands:** php (4), cp (1), make (1)
-> **Code Keywords:** let (4), type, (1), default. (1)
 > **Prerequisites:** set up (3), install (1)
 > **Cross-References:** previous video (2)
 > **UI Navigation:** go to (1), select the (1)
@@ -680,7 +682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1), type, (1), default. (1), finally, (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[WordPress]] (2), web (1), next (1), [[PHP]] (1)
 > **CLI Commands:** find (3), cp (1), make (1), php (1)
 > **Analogies:** for example (3), such as (2), similar to (1)
 > **Definitions:** is a  (3), in other words (1)
@@ -832,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), delete (6), continue (1), finally, (1)
+> **Frameworks & Libraries:** [[HTML]] (4), css (4), [[npm]] (3), [[JavaScript]] (2), next (1)
 > **Env Vars:** css (4), html (3), npm (3), url (1), npn (1)
 > **UI Navigation:** click on (5), go to (1), open the (1)
 > **Exercise Files:** template (7)
@@ -874,8 +876,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **URLs:** [statamic.com](https://statamic.com) (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
@@ -953,7 +955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default, (1), continue (1), this, (1), this. (1)
+> **Frameworks & Libraries:** next (4), [[npm]] (2), css (1), [[PHP]] (1)
 > **UI Navigation:** go to (5), click on (2)
 > **Env Vars:** npm (2), css (1), php (1), p20 (1), url (1)
 > **CLI Commands:** npm (2), make (1), php (1)
@@ -965,7 +967,7 @@ created: 2026-04-29
 
 ### 3. Statamic Internals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### File structure in Statamic
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980)
@@ -1032,7 +1034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (1), public (1), delete (1), case, (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Laravel]] (2), database (1), [[Metadata]] (1), [[Security]] (1)
 > **Tools:** github (5)
 > **File Paths:** contributing.md (1), home.md (1), test.md (1)
 > **CLI Commands:** find (1)
@@ -1178,7 +1180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (2), self (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (3), [[WordPress]] (1), next (1)
 > **UI Navigation:** click on (9), go to (1), in the sidebar (1), open the (1)
 > **Analogies:** for example (4), such as (2)
 > **CLI Commands:** make (1), find (1)
@@ -1288,7 +1290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (3), switch (1), default, (1), finally, (1)
+> **Frameworks & Libraries:** cloud (1)
 > **UI Navigation:** click on (4), go to (2), select the (1)
 > **Env Vars:** yaml (4)
 > **CLI Commands:** find (3)
@@ -1346,8 +1348,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), [[Laravel]] (3), [[HTML]] (3), data (2), [[Search]] (1)
 > **CLI Commands:** php (5)
-> **Code Keywords:** pass (2), if, (1), else, (1), let (1)
 > **File Paths:** antlers.html (2), antlers.php (1), blade.php (1)
 > **Env Vars:** php (3), html (1)
 > **Exercise Files:** template (2)
@@ -1448,7 +1450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10)
+> **Frameworks & Libraries:** [[HTML]] (4), data (1)
 > **Cross-References:** go back to (5)
 > **File Paths:** show.antlers.html (4)
 > **UI Navigation:** go to (3), open the (1)
@@ -1590,7 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), for. (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (2), data (1)
 > **UI Navigation:** click on (6), open the (2), in the sidebar (1), go to (1)
 > **Env Vars:** url (5), yaml (2), html (1)
 > **Exercise Files:** template (3)
@@ -1798,7 +1800,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), from, (1), from. (1), this. (1), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Search]] (2), [[Fetch]] (2), [[Microsoft Word|Word]] (2), next (1)
 > **Env Vars:** html (4), url (2)
 > **UI Navigation:** click on (4), go to (2)
 > **CLI Commands:** make (3)
@@ -1842,10 +1844,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[HTML]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **File Paths:** default.antlers.html (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** default. (1)
 > **Env Vars:** html (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** remember to (1)
@@ -1972,8 +1974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), next (2), [[Search]] (1)
 > **UI Navigation:** go to (7), click on (7), open the (4)
-> **Code Keywords:** let (11), case, (1), default. (1), this. (1), finally, (1)
 > **Env Vars:** html (3), url (1), yaml (1)
 > **File Paths:** default.antlers.html (1), _footer.antlers.html (1)
 > **CLI Commands:** find (2)
@@ -1984,7 +1986,7 @@ created: 2026-04-29
 
 ### 4. Deploying Statamic on Netlify
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Statamic as an SSG
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980)
@@ -2041,7 +2043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (7), require (2)
+> **Frameworks & Libraries:** [[Laravel]] (3), management (1), [[GitHub]] (1), [[HTML]] (1), [[Web Development]] (1)
 > **Analogies:** such as (4), similar to (1)
 > **CLI Commands:** composer (1), php (1), make (1)
 > **Env Vars:** html (1), ssg (1), php (1)
@@ -2109,8 +2111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (5), cloud (1), [[Bitbucket]] (1), next (1), [[Git]] (1)
 > **Tools:** github (5), gitlab (1), bitbucket (1)
-> **Code Keywords:** let (1), for, (1), continue (1), static (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (3)
 > **Cross-References:** previous video (1), in the next (1)
@@ -2189,7 +2191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (2), public (1), private (1), else. (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), next (3), [[LinkedIn]] (1), [[Git]] (1)
 > **Tools:** github (5), terminal (4)
 > **CLI Commands:** make (2), git (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -2293,10 +2295,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[PHP]] (3), [[Git]] (2), next (2), dns (1)
 > **CLI Commands:** php (3), find (3), git (2), make (2)
 > **Env Vars:** url (3), env (2), php_version (1), app_key (1), dns (1)
 > **UI Navigation:** click on (6), select the (1), go to (1)
-> **Code Keywords:** static (3), let (2), interface (1)
 > **Tools:** github (4), terminal (1)
 > **Prerequisites:** set up (3), configure (1)
 > **Versions:** 7.4 (1)
@@ -2335,6 +2337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (1), next (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** github (3)
 > **CLI Commands:** git (1), find (1)
@@ -2432,10 +2435,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), [[GitHub]] (3), [[PHP]] (1), next (1)
 > **CLI Commands:** git (7), make (2), php (1)
 > **Tools:** terminal (3), github (3)
 > **UI Navigation:** go to (3), click on (1), open the (1), select the (1)
-> **Code Keywords:** let (4), private (1)
 > **Env Vars:** url (2), php (1), env (1)
 > **File Paths:** netlify.toml (1)
 > **Speakers:** - how (1)
@@ -2444,7 +2447,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)
@@ -2467,6 +2470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)

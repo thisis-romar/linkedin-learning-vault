@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/International%20Software%20Testing%20Qualifications%20Board%20(ISTQB)%204.0%2B%20Foundation%20Cert%20Prep.md)
@@ -47,45 +47,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Preparing for the ISTQB Certification
-  - ISTQB Certification
-  - Revision 4.0
-  - Terminology is key
-  - Types of learning objectives
+  - [Preparing for the ISTQB Certification](#preparing-for-the-istqb-certification)
+  - [ISTQB Certification](#istqb-certification)
+  - [Revision 4.0](#revision-40)
+  - [Terminology is key](#terminology-is-key)
+  - [Types of learning objectives](#types-of-learning-objectives)
 - [**1. Fundamentals of Testing**](#1-fundamentals-of-testing) (5 videos)
-  - What is testing?
-  - Why is testing necessary?
-  - Testing principles
-  - Test activities, testware, and test roles
-  - Essential skills and good practices in testing
+  - [What is testing?](#what-is-testing)
+  - [Why is testing necessary?](#why-is-testing-necessary)
+  - [Testing principles](#testing-principles)
+  - [Test activities, testware, and test roles](#test-activities-testware-and-test-roles)
+  - [Essential skills and good practices in testing](#essential-skills-and-good-practices-in-testing)
 - [**2. Testing Throughout the Software Development Lifecycle**](#2-testing-throughout-the-software-development-lifecycle) (3 videos)
-  - Testing in the context of the software development lifecycle
-  - Test levels and test types
-  - Maintenance testing
+  - [Testing in the context of the software development lifecycle](#testing-in-the-context-of-the-software-development-lifecycle)
+  - [Test levels and test types](#test-levels-and-test-types)
+  - [Maintenance testing](#maintenance-testing)
 - [**3. Static Testing**](#3-static-testing) (2 videos)
-  - Static testing basics
-  - Feedback and review process
+  - [Static testing basics](#static-testing-basics)
+  - [Feedback and review process](#feedback-and-review-process)
 - [**4. Test Analysis and Design**](#4-test-analysis-and-design) (5 videos)
-  - Test techniques overview
-  - Black-box test techniques
-  - White-box test techniques
-  - Experience-based test techniques
-  - Collaboration-based test approaches
+  - [Test techniques overview](#test-techniques-overview)
+  - [Black-box test techniques](#black-box-test-techniques)
+  - [White-box test techniques](#white-box-test-techniques)
+  - [Experience-based test techniques](#experience-based-test-techniques)
+  - [Collaboration-based test approaches](#collaboration-based-test-approaches)
 - [**5. Managing the Test Activities**](#5-managing-the-test-activities) (4 videos)
-  - Test planning
-  - Risk management
-  - Test monitoring, test control, and test completion
-  - Configuration and defect management
+  - [Test planning](#test-planning)
+  - [Risk management](#risk-management)
+  - [Test monitoring, test control, and test completion](#test-monitoring-test-control-and-test-completion)
+  - [Configuration and defect management](#configuration-and-defect-management)
 - [**6. Test Tools**](#6-test-tools) (2 videos)
-  - Tool support for testing
-  - Benefits and risks of test automation
+  - [Tool support for testing](#tool-support-for-testing)
+  - [Benefits and risks of test automation](#benefits-and-risks-of-test-automation)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Exam paper example
-  - Next steps
+  - [Exam paper example](#exam-paper-example)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for the ISTQB Certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980)
@@ -108,8 +108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (3), career (2), [[Career Development]] (1)
 > **Env Vars:** istqb (3)
-> **Code Keywords:** let (1)
 > **Analogies:** imagine (1)
 
 #### ISTQB Certification
@@ -171,8 +171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (4), career (4), [[Career Development]] (1), next (1)
 > **Env Vars:** istqb (9)
-> **Code Keywords:** let (1)
 > **Versions:** 4.0 (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -225,10 +225,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (3), [[Software Testing]] (2), [[Agile Development|Agile]] (2), [[Software Development]] (1), functional (1)
 > **Versions:** 4.0 (7)
 > **Env Vars:** istqb (3)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (1), static (1)
 > **Prerequisites:** you'll need (1)
 
 #### Terminology is key
@@ -290,9 +290,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Env Vars:** istqb (12)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** case, (2), let (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -386,17 +386,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** istqb (4)
 > **Definitions:** is a  (2), stands for (1), means that (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Analogies:** think of it as (1), for example (1)
 > **Cross-References:** next video (1)
 
 
 ### 1. Fundamentals of Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/what-is-testing?u=76281980)
@@ -453,8 +453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Security]] (2), [[Debugging]] (2), product (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
-> **Code Keywords:** for. (1)
 > **Analogies:** think of it as (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** you'll need (1)
@@ -520,8 +520,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quality Assurance]] (4), product (3), data (1), functional (1), [[Security]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -595,8 +595,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Software Testing]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** you'll need (1)
@@ -702,7 +702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** management (3), [[Software Testing]] (1), [[Sketching]] (1), data (1), mobile application (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
@@ -777,8 +777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), career (1), teams (1), business (1), generic (1)
 > **Prerequisites:** you'll need (3)
-> **Code Keywords:** let (2)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -786,7 +786,7 @@ created: 2026-04-29
 
 ### 2. Testing Throughout the Software Development Lifecycle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing in the context of the software development lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980)
@@ -847,7 +847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Software Development]] (5), [[Agile Development|Agile]] (5), [[Test-Driven Development]] (2), teams (2)
 > **Env Vars:** sdlc (1), tdd (1), bdd (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -939,8 +939,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[Software Development]] (1), [[Unit Testing]] (1), [[Integration Testing]] (1), functional (1)
 > **Definitions:** is a  (4), means that (1)
-> **Code Keywords:** let (3)
 > **Versions:** version 4 (1), 0.1 (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** istqb (1)
@@ -1008,8 +1008,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), feature (1), [[Security]] (1), prompt (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** imagine (2), picture (1), it's like (1), such as (1)
-> **Code Keywords:** let (1), require (1), static (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -1017,7 +1017,7 @@ created: 2026-04-29
 
 ### 3. Static Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Static testing basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980)
@@ -1070,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (13), let (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), next (1), [[Team Collaboration]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **Cross-References:** later in (1), in the next (1)
@@ -1144,7 +1144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** [[Software Testing]] (3), product (2), [[Software Development]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Analogies:** imagine (1)
@@ -1153,7 +1153,7 @@ created: 2026-04-29
 
 ### 4. Test Analysis and Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test techniques overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980)
@@ -1232,8 +1232,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (4), [[Algorithms]] (1), [[Security]] (1), strengths (1), [[Software Development]] (1)
 > **Analogies:** for example (2), imagine (1), just like (1), such as (1)
-> **Code Keywords:** let (2), require (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
@@ -1309,7 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), finally, (1)
+> **Frameworks & Libraries:** application (3), next (2), functional (2), [[Agile Development|Agile]] (1)
 > **Analogies:** imagine (2), for example (1), for instance (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1388,7 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), switch (1)
+> **Frameworks & Libraries:** teams (2), next (1)
 > **Analogies:** imagine (2), for example (1)
 > **Cross-References:** next video (1)
 > **Definitions:** known as (1)
@@ -1481,8 +1481,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Thinking Skills]] (1), application (1), strengths (1), [[E-Commerce]] (1)
 > **Analogies:** such as (2), imagine (2), picture (1), think of it as (1)
-> **Code Keywords:** finally, (2), let (1), case. (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** you'll need (1)
@@ -1554,18 +1554,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), feature (6), teams (2), test-driven (1), [[Test-Driven Development]] (1)
 > **Env Vars:** atdd (5)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (1), set up (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 
 
 ### 5. Managing the Test Activities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980)
@@ -1676,7 +1676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), require (2), include: (1)
+> **Frameworks & Libraries:** product (2), business (2), data (2), functional (2), next (1)
 > **Analogies:** for example (3), think of it as (1), picture (1), such as (1)
 > **Prerequisites:** required to (1), you'll need (1)
 > **CLI Commands:** make (1)
@@ -1753,7 +1753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), include: (1)
+> **Frameworks & Libraries:** product (11), management (4), feature (2), [[Probability]] (1), teams (1)
 > **Analogies:** imagine (1), for example (1), for instance (1)
 > **Cross-References:** coming up (1)
 
@@ -1818,7 +1818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), for, (1)
+> **Frameworks & Libraries:** next (2), teams (1), management (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (2), it's like (1)
 > **Cross-References:** in the next (1)
@@ -1897,7 +1897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** management (6), [[Configuration Management]] (5), [[Version Control]] (1), feature (1), teams (1)
 > **Analogies:** imagine (1), for example (1), for instance (1)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** you'll need (1)
@@ -1905,7 +1905,7 @@ created: 2026-04-29
 
 ### 6. Test Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tool support for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980)
@@ -1972,9 +1972,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[JMeter]] (2), application (2), management (1), [[Jira]] (1)
 > **Analogies:** such as (4), imagine (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (1), static (1)
 > **Tools:** jira (1), github (1)
 > **Cross-References:** next video (1)
 > **Prerequisites:** you'll need (1)
@@ -2038,7 +2038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1)
+> **Frameworks & Libraries:** [[Automation]] (7), [[Test Automation]] (4), [[Manual Testing]] (2), [[Security]] (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -2046,7 +2046,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exam paper example
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980)
@@ -2219,9 +2219,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Software Development]] (1), [[Microsoft Products|Products]] (1), management (1), product (1)
 > **Env Vars:** istqb (6), sdlc (2)
 > **Definitions:** is a  (5), refers to (2), is an  (1)
-> **Code Keywords:** let (1), static (1), finally, (1), case. (1), case, (1)
 > **Best Practices:** don't forget (2)
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** download the (1)
@@ -2251,6 +2251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Software Testing]] (1)
 > **Env Vars:** istqb (2)
 > **Best Practices:** don't forget (1)
 

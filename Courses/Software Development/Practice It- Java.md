@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practice%20It-%20Java.md)
@@ -46,37 +46,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Practice some Java
-  - What you should know
-  - Using GitHub Codespaces with this course
+  - [Practice some Java](#practice-some-java)
+  - [What you should know](#what-you-should-know)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Variables**](#1-variables) (5 videos)
-  - Topic overview: Variables
-  - Try it: Primitive variables
-  - Check it: Primitive variables
-  - Try it: Reference variables
-  - Check it: Reference variables
+  - [Topic overview: Variables](#topic-overview-variables)
+  - [Try it: Primitive variables](#try-it-primitive-variables)
+  - [Check it: Primitive variables](#check-it-primitive-variables)
+  - [Try it: Reference variables](#try-it-reference-variables)
+  - [Check it: Reference variables](#check-it-reference-variables)
 - [**2. Classes and Objects**](#2-classes-and-objects) (7 videos)
-  - Topic overview: Classes and objects
-  - Try it: Creating classes
-  - Check it: Creating classes
-  - Try it: Methods
-  - Check it: Methods
-  - Try it: Creating objects
-  - Check it: Creating objects
+  - [Topic overview: Classes and objects](#topic-overview-classes-and-objects)
+  - [Try it: Creating classes](#try-it-creating-classes)
+  - [Check it: Creating classes](#check-it-creating-classes)
+  - [Try it: Methods](#try-it-methods)
+  - [Check it: Methods](#check-it-methods)
+  - [Try it: Creating objects](#try-it-creating-objects)
+  - [Check it: Creating objects](#check-it-creating-objects)
 - [**3. Control Flow**](#3-control-flow) (7 videos)
-  - Topic overview: Control flow
-  - Try it: If/else statements
-  - Check it: If/else statements
-  - Try it: For loops
-  - Check it: For loops
-  - Try it: Enhanced for loops
-  - Check it: Enhanced for loops
+  - [Topic overview: Control flow](#topic-overview-control-flow)
+  - [Try it: If/else statements](#try-it-ifelse-statements)
+  - [Check it: If/else statements](#check-it-ifelse-statements)
+  - [Try it: For loops](#try-it-for-loops)
+  - [Check it: For loops](#check-it-for-loops)
+  - [Try it: Enhanced for loops](#try-it-enhanced-for-loops)
+  - [Check it: Enhanced for loops](#check-it-enhanced-for-loops)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps to practice more Java
+  - [Next steps to practice more Java](#next-steps-to-practice-more-java)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice some Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980)
@@ -109,7 +109,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[GitHub]] (1), [[Codespaces]] (1), java software (1)
 > **Tools:** github (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [bethan] (1)
@@ -145,6 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[LinkedIn]] (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
@@ -287,7 +288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -299,7 +300,7 @@ created: 2026-04-29
 
 ### 1. Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Topic overview: Variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980)
@@ -368,8 +369,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), next (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (8), such as (1)
-> **Code Keywords:** class. (2), let (1), class, (1), case. (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** variablesarefun (1)
@@ -442,7 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), this. (1), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Java]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** visual studio (1), terminal (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -533,8 +534,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (10), [[Java]] (2)
 > **Versions:** 2.5 (3), 10.00 (1), 22.00 (1), 35.00 (1), 67.0 (1)
-> **Code Keywords:** type, (3), pass (2), let (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** sout (2)
 > **Tools:** visual studio (1)
@@ -591,7 +592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), class, (1)
+> **Frameworks & Libraries:** [[Java]] (1), next (1)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -685,7 +686,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (10), let (2), case, (2), type, (2), class, (1)
+> **Frameworks & Libraries:** next (8), [[Microsoft Word|Word]] (1)
 > **Best Practices:** best practice (3)
 > **Tools:** visual studio (1)
 > **UI Navigation:** click on (1)
@@ -696,7 +697,7 @@ created: 2026-04-29
 
 ### 2. Classes and Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Topic overview: Classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980)
@@ -777,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (3), class, (3), case, (2), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Java]] (3), [[Microsoft Word|Word]] (3), next (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -825,7 +826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), private (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **UI Navigation:** click on (3)
 > **File Paths:** instructions.md (1), tickets.java (1)
 > **CLI Commands:** make (1)
@@ -887,7 +888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), public (2), return. (2), let (1), class. (1)
+> **Frameworks & Libraries:** [[Java]] (3), next (2)
 > **File Paths:** tickets.java (1)
 > **CLI Commands:** find (1)
 > **Tools:** visual studio (1)
@@ -934,7 +935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (2), class, (2), private (2), public (1)
+> **Frameworks & Libraries:** next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1042,7 +1043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (7), this. (4), let (3), pass (3), type. (1)
+> **Frameworks & Libraries:** [[Java]] (6), next (3), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** isreturn (4), setdestination (1), setprice (1), setisreturn (1), getdestination (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (2)
@@ -1075,7 +1076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1)
+> **Frameworks & Libraries:** next (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1152,7 +1153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (2), case, (1), return, (1), this, (1)
+> **Frameworks & Libraries:** next (4), data (2)
 > **Versions:** 15.30 (2), 15.3 (1)
 > **Cross-References:** previous chapter (1)
 > **Tools:** terminal (1)
@@ -1163,7 +1164,7 @@ created: 2026-04-29
 
 ### 3. Control Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Topic overview: Control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980)
@@ -1260,7 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (3), continue (2), else, (1), if. (1)
+> **Frameworks & Libraries:** [[Java]] (3), next (2), [[Control Flow]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is called (2), is a  (1)
 > **Prerequisites:** initialization (1)
@@ -1335,7 +1336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), class. (1), finally, (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Programming]] (1), [[Java]] (1), next (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -1528,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (5), case, (3), else. (2), class. (1)
+> **Frameworks & Libraries:** next (6)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** go back to (1)
 > **Tools:** visual studio (1)
@@ -1565,6 +1566,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1), next (1)
 > **File Paths:** forloops.java (1)
 > **Cross-References:** next video (1)
 > **Analogies:** similar to (1)
@@ -1686,7 +1688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), for. (2), for, (1), finally, (1)
+> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (3)
 > **Prerequisites:** initialization (2)
 > **Tools:** terminal (1)
@@ -1730,6 +1732,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), similar to (1)
 > **File Paths:** enhancedforloops.java (1)
@@ -1808,7 +1811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (1), if, (1)
+> **Frameworks & Libraries:** [[Java]] (1), next (1)
 > **Tools:** terminal (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1817,7 +1820,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps to practice more Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980)
@@ -1842,6 +1845,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 

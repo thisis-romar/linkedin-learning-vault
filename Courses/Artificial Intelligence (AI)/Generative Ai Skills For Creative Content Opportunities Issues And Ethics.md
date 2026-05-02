@@ -28,7 +28,7 @@ tags:
   - skill/media-ethics
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20Ai%20Skills%20For%20Creative%20Content%20Opportunities%20Issues%20And%20Ethics.md)
@@ -47,30 +47,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The art of generative AI: Balancing creativity and ethics
+  - [The art of generative AI: Balancing creativity and ethics](#the-art-of-generative-ai-balancing-creativity-and-ethics)
 - [**1. Understanding Generative AI**](#1-understanding-generative-ai) (2 videos)
-  - What is generative AI?
-  - What are the benefits of generative AI?
+  - [What is generative AI?](#what-is-generative-ai)
+  - [What are the benefits of generative AI?](#what-are-the-benefits-of-generative-ai)
 - [**2. Exploring Types of Generative AI**](#2-exploring-types-of-generative-ai) (6 videos)
-  - Generative AI for creatives
-  - Text-based generative AI
-  - Text-to-image generative AI
-  - Image-to-image generative AI
-  - Video-based generative AI
-  - Audio-based generative AI
+  - [Generative AI for creatives](#generative-ai-for-creatives)
+  - [Text-based generative AI](#text-based-generative-ai)
+  - [Text-to-image generative AI](#text-to-image-generative-ai)
+  - [Image-to-image generative AI](#image-to-image-generative-ai)
+  - [Video-based generative AI](#video-based-generative-ai)
+  - [Audio-based generative AI](#audio-based-generative-ai)
 - [**3. Challenges and Ethical Considerations of Generative AI**](#3-challenges-and-ethical-considerations-of-generative-ai) (6 videos)
-  - Ethics of generative AI
-  - Understanding deepfakes and deception
-  - Issues around copyright and content ownership
-  - Bias issues
-  - Difficulty of control
-  - Limitations in creativity and capabilities
+  - [Ethics of generative AI](#ethics-of-generative-ai)
+  - [Understanding deepfakes and deception](#understanding-deepfakes-and-deception)
+  - [Issues around copyright and content ownership](#issues-around-copyright-and-content-ownership)
+  - [Bias issues](#bias-issues)
+  - [Difficulty of control](#difficulty-of-control)
+  - [Limitations in creativity and capabilities](#limitations-in-creativity-and-capabilities)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The art of generative AI: Balancing creativity and ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980)
@@ -93,7 +93,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Ethics]] (1), [[LinkedIn]] (1), power (1)
 > **Analogies:** just like (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - if (1)
@@ -102,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Understanding Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980)
@@ -197,7 +197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), new, (1), case, (1), new. (1), for, (1)
+> **Frameworks & Libraries:** ai (7), prompt (6), [[Generative AI]] (5), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -270,7 +270,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), for. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), data (2), ai (2), power (1), [[Content Creation]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -278,7 +278,7 @@ created: 2026-04-29
 
 ### 2. Exploring Types of Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI for creatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980)
@@ -315,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), product (1), ai (1), [[Generative AI Tools]] (1), [[Ethics]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - in (1)
 
@@ -410,8 +410,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (6), [[Generative AI]] (4), [[Google]] (4), data (3)
 > **Env Vars:** gpt (6), seo (1)
-> **Code Keywords:** let (2), case, (1), pass (1), lambda (1), require (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -527,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), from. (1)
+> **Frameworks & Libraries:** ai (9), prompt (8), [[Midjourney]] (6), [[DALL-E]] (4), [[Stable Diffusion]] (4)
 > **Env Vars:** dall (4), gpt (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Analogies:** such as (1), for example (1)
@@ -595,7 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (11), [[Generative AI]] (3), data (2), [[Neural Networks]] (1), prompt (1)
 > **Definitions:** means that (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
@@ -697,8 +697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Generative AI]] (2), [[Microsoft Products|Products]] (2), data (1), [[Deep Learning]] (1)
 > **Speakers:** - hi (2), - we (1), - our (1), - i (1), - in (1)
-> **Code Keywords:** let (4), continue (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (2)
 > **URLs:** [rephrase.ai](https://rephrase.ai) (1)
@@ -794,14 +794,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Generative AI]] (2), data (1), [[Microsoft Word|Word]] (1), [[ChatGPT]] (1)
 > **Speakers:** - [ai (3), - there (1), - and (1), - here (1)
-> **Code Keywords:** let (5)
 > **Analogies:** for example (1)
 
 
 ### 3. Challenges and Ethical Considerations of Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethics of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980)
@@ -866,6 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethics]] (4), [[Responsible AI]] (2), data (2), [[Generative AI]] (1), ai (1)
 > **Analogies:** for example (2)
 > **Env Vars:** dall (1)
 > **Speakers:** - so (1)
@@ -933,9 +934,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1), [[Responsible AI]] (1), [[Google]] (1)
 > **Speakers:** - perhaps (1), - good (1), - deepfakes (1), - there (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **URLs:** [factcheck.org](https://factcheck.org) (1)
 
 #### Issues around copyright and content ownership
@@ -1013,9 +1014,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Generative AI]] (6), data (4), [[Microsoft Office|Office]] (2), prompt (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 > **Speakers:** - another (1)
 
 #### Bias issues
@@ -1105,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** ai (8), data (7), [[Generative AI]] (3), prompt (3), [[Midjourney]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1174,7 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), new. (1), finally, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), data (5), ai (4), [[Algorithms]] (1), [[Neural Networks]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
@@ -1227,8 +1228,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (5), [[Generative AI]] (3), [[Algorithms]] (2), prompt (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - while (1)
@@ -1236,7 +1237,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/next-steps?u=76281980)
@@ -1267,7 +1268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (4), [[Generative AI]] (1), next (1)
 > **Versions:** 15.7 (1)
 > **Cross-References:** next chapter (1)
 > **Definitions:** is a  (1)

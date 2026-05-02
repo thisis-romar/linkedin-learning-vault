@@ -7,7 +7,7 @@ course_count: 8
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 2
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/data-science
@@ -51,7 +51,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20R.md)

@@ -33,7 +33,7 @@ tags:
   - skill/data-governance
   - skill/ai-governance
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Data%20Governance%2C%20Compliance%2C%20and%20Auditing%20for%20Developers.md)
@@ -52,32 +52,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Your developer guide to AI data governance
+  - [Your developer guide to AI data governance](#your-developer-guide-to-ai-data-governance)
 - [**1. National and International Foundations for AI Data Governance**](#1-national-and-international-foundations-for-ai-data-governance) (5 videos)
-  - Introduction to national and international foundation for AI data governance
-  - International laws for AI data governance
-  - National AI data governance regulation in the US
-  - Industry AI data governance regulations
-  - AI data governance standards
+  - [Introduction to national and international foundation for AI data governance](#introduction-to-national-and-international-foundation-for-ai-data-governance)
+  - [International laws for AI data governance](#international-laws-for-ai-data-governance)
+  - [National AI data governance regulation in the US](#national-ai-data-governance-regulation-in-the-us)
+  - [Industry AI data governance regulations](#industry-ai-data-governance-regulations)
+  - [AI data governance standards](#ai-data-governance-standards)
 - [**2. The Role of Data Transparency in AI Data Governance**](#2-the-role-of-data-transparency-in-ai-data-governance) (4 videos)
-  - Introduction to the role of data transparency
-  - Introduction to data observability
-  - Introduction to data lineage
-  - Introduction to data traceability
+  - [Introduction to the role of data transparency](#introduction-to-the-role-of-data-transparency)
+  - [Introduction to data observability](#introduction-to-data-observability)
+  - [Introduction to data lineage](#introduction-to-data-lineage)
+  - [Introduction to data traceability](#introduction-to-data-traceability)
 - [**3. Compliance for AI Data Governance**](#3-compliance-for-ai-data-governance) (4 videos)
-  - Introduction to AI data compliance
-  - Why comply?
-  - General legislative requirements
-  - Compliance techniques
+  - [Introduction to AI data compliance](#introduction-to-ai-data-compliance)
+  - [Why comply?](#why-comply)
+  - [General legislative requirements](#general-legislative-requirements)
+  - [Compliance techniques](#compliance-techniques)
 - [**4. AI Data Governance Auditing**](#4-ai-data-governance-auditing) (2 videos)
-  - Introduction to AI data governance auditing
-  - AI data governance auditing approaches
+  - [Introduction to AI data governance auditing](#introduction-to-ai-data-governance-auditing)
+  - [AI data governance auditing approaches](#ai-data-governance-auditing-approaches)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your AI data governance journey
+  - [Continuing your AI data governance journey](#continuing-your-ai-data-governance-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your developer guide to AI data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/your-developer-guide-to-ai-data-governance?u=76281980)
@@ -102,14 +102,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (4), [[Engineering]] (2), business (2), management (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - is (1)
 
 
 ### 1. National and International Foundations for AI Data Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to national and international foundation for AI data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980)
@@ -162,8 +162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (25), data (20), [[Security]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
@@ -282,9 +282,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (23), data (16), [[Privacy]] (8), business (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Env Vars:** gdpr (10)
 > **Definitions:** is a  (2), is called (1), is an  (1)
-> **Code Keywords:** protected (1), finally, (1)
 > **Analogies:** just like (1), similar to (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** template (1)
@@ -423,7 +423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (2), finally, (2), default, (1), protected (1), public (1)
+> **Frameworks & Libraries:** [[Privacy]] (23), data (21), ai (12), next (3), [[Generative AI]] (3)
 > **Cross-References:** in the last (1), in the next (1), as we saw (1), previous video (1), next video (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
@@ -557,8 +557,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), data (17), business (3), [[Public Health]] (1), [[Accountability]] (1)
 > **Env Vars:** ftc (6), hipaa (5), hhs (3), fha (2), hud (2)
-> **Code Keywords:** let (1), public (1), protected (1), for. (1), finally, (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -686,10 +686,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), data (13), [[Microsoft Products|Products]] (6), product (2), [[NIST]] (2)
 > **Env Vars:** iso (6), ieee (5), iec (3), cobit (3), nist (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** be aware (3)
-> **Code Keywords:** let (1), case, (1)
 > **Cross-References:** as we saw (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -697,7 +697,7 @@ created: 2026-04-29
 
 ### 2. The Role of Data Transparency in AI Data Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the role of data transparency
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980)
@@ -756,7 +756,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (4)
+> **Frameworks & Libraries:** data (23), [[Privacy]] (2), game (1), management (1), business (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
 > **Cross-References:** we discussed (1)
@@ -863,11 +863,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), business (8), next (3), [[Metadata]] (2), database (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -954,7 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1), delete (1)
+> **Frameworks & Libraries:** data (42), ai (4), [[Troubleshooting]] (1), database (1), [[Analytics]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is an  (1)
@@ -1031,7 +1031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (1), function (1)
+> **Frameworks & Libraries:** data (35), business (4), [[Metadata]] (3), [[Engineering]] (3), ai (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1041,7 +1041,7 @@ created: 2026-04-29
 
 ### 3. Compliance for AI Data Governance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI data compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980)
@@ -1108,8 +1108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (5), [[Privacy]] (1), [[Security]] (1), power (1)
 > **Definitions:** is an  (2), is a  (1)
-> **Code Keywords:** require (1), delete (1)
 > **Env Vars:** cso (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
@@ -1201,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), self (3), for. (1), let (1), function (1)
+> **Frameworks & Libraries:** ai (16), data (16), [[Privacy]] (5), [[Engineering]] (4), management (3)
 > **Env Vars:** dpo (2), gdpr (1), cso (1)
 > **Cross-References:** we discussed (2), in the last (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1271,7 +1271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1)
+> **Frameworks & Libraries:** data (28), ai (20), [[Security]] (5), [[Privacy]] (2), next (2)
 > **Cross-References:** previous chapter (1), in the next (1), next video (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -1401,7 +1401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1), finally, (1)
+> **Frameworks & Libraries:** ai (27), data (18), [[Probability]] (3), [[Security]] (2), [[Responsible AI]] (2)
 > **Definitions:** is a  (5)
 > **Analogies:** just like (1), similar to (1), for example (1)
 > **Cross-References:** previous video (1), next chapter (1)
@@ -1411,7 +1411,7 @@ created: 2026-04-29
 
 ### 4. AI Data Governance Auditing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI data governance auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980)
@@ -1530,7 +1530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), for, (2), new, (1), function (1)
+> **Frameworks & Libraries:** ai (22), data (5), management (3), [[Engineering]] (2), [[Accountability]] (2)
 > **Env Vars:** cobit (2), gao (2), nist (2), isaca (1), edpb (1)
 > **Cross-References:** we discussed (2), in the last (1), in the next (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1619,7 +1619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (1), new. (1)
+> **Frameworks & Libraries:** ai (19), [[Ethics]] (4), data (3), management (1), [[Engineering]] (1)
 > **Cross-References:** we discussed (2), in the last (2), next video (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **Env Vars:** isaca (1), cobit (1)
@@ -1630,7 +1630,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your AI data governance journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980)
@@ -1653,6 +1653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (2), [[Responsible AI]] (2), business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is an  (1)

@@ -30,7 +30,7 @@ tags:
   - skill/algorithms
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Algorithms.md)
@@ -49,62 +49,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Improve your Java applications with effective algorithms
-  - Introducing CoderPad challenges
-  - What is an algorithm?
-  - How to optimize an algorithm
-  - Optimize an algorithm in Java
-  - How to describe the time complexity of an algorithm
+  - [Improve your Java applications with effective algorithms](#improve-your-java-applications-with-effective-algorithms)
+  - [Introducing CoderPad challenges](#introducing-coderpad-challenges)
+  - [What is an algorithm?](#what-is-an-algorithm)
+  - [How to optimize an algorithm](#how-to-optimize-an-algorithm)
+  - [Optimize an algorithm in Java](#optimize-an-algorithm-in-java)
+  - [How to describe the time complexity of an algorithm](#how-to-describe-the-time-complexity-of-an-algorithm)
 - [**1. String Algorithms**](#1-string-algorithms) (8 videos)
-  - Validate Strings in Java: All-or-nothing properties
-  - Validate strings in Java: Specific properties
-  - Normalize strings in Java
-  - Basic parsing and searching strings in Java
-  - Apply custom parsing to search algorithms
-  - Create algorithm-driven strings in Java
-  - Leverage built-in tools to generate custom data
-  - Solution: Reverse each word
+  - [Validate Strings in Java: All-or-nothing properties](#validate-strings-in-java-all-or-nothing-properties)
+  - [Validate strings in Java: Specific properties](#validate-strings-in-java-specific-properties)
+  - [Normalize strings in Java](#normalize-strings-in-java)
+  - [Basic parsing and searching strings in Java](#basic-parsing-and-searching-strings-in-java)
+  - [Apply custom parsing to search algorithms](#apply-custom-parsing-to-search-algorithms)
+  - [Create algorithm-driven strings in Java](#create-algorithm-driven-strings-in-java)
+  - [Leverage built-in tools to generate custom data](#leverage-built-in-tools-to-generate-custom-data)
+  - [Solution: Reverse each word](#solution-reverse-each-word)
 - [**2. Array Algorithms**](#2-array-algorithms) (6 videos)
-  - Linear search arrays in Java
-  - Linear search arrays with Java streams
-  - Binary search arrays in Java
-  - Aggregate and filter arrays in Java
-  - Reverse an array in Java
-  - Solution: Rotate an array
+  - [Linear search arrays in Java](#linear-search-arrays-in-java)
+  - [Linear search arrays with Java streams](#linear-search-arrays-with-java-streams)
+  - [Binary search arrays in Java](#binary-search-arrays-in-java)
+  - [Aggregate and filter arrays in Java](#aggregate-and-filter-arrays-in-java)
+  - [Reverse an array in Java](#reverse-an-array-in-java)
+  - [Solution: Rotate an array](#solution-rotate-an-array)
 - [**3. Linked List Algorithms**](#3-linked-list-algorithms) (5 videos)
-  - What is a linked list?
-  - Using the built-in linked list data structure in Java
-  - Create a custom data structure for linked list algorithms
-  - Linked list algorithms: Delete back half of a linked list
-  - Solution: Sum contents of a linked list
+  - [What is a linked list?](#what-is-a-linked-list)
+  - [Using the built-in linked list data structure in Java](#using-the-built-in-linked-list-data-structure-in-java)
+  - [Create a custom data structure for linked list algorithms](#create-a-custom-data-structure-for-linked-list-algorithms)
+  - [Linked list algorithms: Delete back half of a linked list](#linked-list-algorithms-delete-back-half-of-a-linked-list)
+  - [Solution: Sum contents of a linked list](#solution-sum-contents-of-a-linked-list)
 - [**4. Queue and Stack Algorithms**](#4-queue-and-stack-algorithms) (9 videos)
-  - What is a queue?
-  - Standard queue operations in Java
-  - Queue algorithms: Generate binary numbers
-  - What is a stack?
-  - Basic stack operations in Java
-  - Stack algorithms: Theorizing an algorithm
-  - Stack algorithms: Next greater element
-  - Stack algorithms: Matching parentheses
-  - Solution: Evaluate reverse polish notation
+  - [What is a queue?](#what-is-a-queue)
+  - [Standard queue operations in Java](#standard-queue-operations-in-java)
+  - [Queue algorithms: Generate binary numbers](#queue-algorithms-generate-binary-numbers)
+  - [What is a stack?](#what-is-a-stack)
+  - [Basic stack operations in Java](#basic-stack-operations-in-java)
+  - [Stack algorithms: Theorizing an algorithm](#stack-algorithms-theorizing-an-algorithm)
+  - [Stack algorithms: Next greater element](#stack-algorithms-next-greater-element)
+  - [Stack algorithms: Matching parentheses](#stack-algorithms-matching-parentheses)
+  - [Solution: Evaluate reverse polish notation](#solution-evaluate-reverse-polish-notation)
 - [**5. Algorithms for Hash-Based Structures**](#5-algorithms-for-hash-based-structures) (5 videos)
-  - Hash-based structures in Java
-  - HashMap and HashSet operations in Java
-  - Leverage the HashSet type in Java algorithms
-  - Use the HashMap type in Java algorithms
-  - Solution: Detect a cylic linkedlist
+  - [Hash-based structures in Java](#hash-based-structures-in-java)
+  - [HashMap and HashSet operations in Java](#hashmap-and-hashset-operations-in-java)
+  - [Leverage the HashSet type in Java algorithms](#leverage-the-hashset-type-in-java-algorithms)
+  - [Use the HashMap type in Java algorithms](#use-the-hashmap-type-in-java-algorithms)
+  - [Solution: Detect a cylic linkedlist](#solution-detect-a-cylic-linkedlist)
 - [**6. Tree Algorithms**](#6-tree-algorithms) (5 videos)
-  - What is a tree?
-  - Binary trees in Java
-  - What are tree traversals?
-  - Implement tree traversals in Java
-  - Solution: Find height of binary tree
+  - [What is a tree?](#what-is-a-tree)
+  - [Binary trees in Java](#binary-trees-in-java)
+  - [What are tree traversals?](#what-are-tree-traversals)
+  - [Implement tree traversals in Java](#implement-tree-traversals-in-java)
+  - [Solution: Find height of binary tree](#solution-find-height-of-binary-tree)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue optimizing algorithms
+  - [Continue optimizing algorithms](#continue-optimizing-algorithms)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your Java applications with effective algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980)
@@ -141,8 +141,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (5), data (4), application (1), [[Java]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [kathryn] (1)
 
@@ -205,7 +205,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -245,10 +245,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Java]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### How to optimize an algorithm
@@ -290,6 +290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (4), data (4)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
@@ -366,8 +367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), [[Algorithms]] (1)
 > **CLI Commands:** find (4), make (3)
-> **Code Keywords:** let (3), function (3)
 > **Exercise Files:** sample code (2), exercise files (1)
 > **Env Vars:** ide (2)
 > **Code Identifiers:** findmaximum2 (1)
@@ -441,14 +442,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Search]] (4), data (1), generic (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** case, (2), let (1), for. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. String Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Validate Strings in Java: All-or-nothing properties
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-all-or-nothing-properties?u=76281980)
@@ -543,7 +544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (2), return. (1), switch (1), case, (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Java]] (2), api (1)
 > **Code Identifiers:** isuppercase (4), allmatch (3), islowercase (1), nonematch (1), isletter (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** api (1)
@@ -607,7 +608,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), match, (1), case, (1), pass (1)
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -695,7 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), function (3), case. (1), type. (1)
+> **Frameworks & Libraries:** data (8), [[Search]] (4), [[Algorithms]] (3), [[Forms]] (2), [[Java]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -767,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (2), match. (1), function (1), case, (1)
+> **Frameworks & Libraries:** data (5), [[Search]] (3), [[Programming]] (1), [[Java]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Code Identifiers:** foreach (1), charat (1)
 > **Speakers:** - [instructor] (1)
@@ -835,7 +836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), this, (2), for. (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[Search]] (1)
 > **Code Identifiers:** charat (2)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
@@ -921,7 +922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), continue (1)
+> **Frameworks & Libraries:** data (4), [[Programming]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** tolowercase (1)
 > **Speakers:** - [instructor] (1)
@@ -981,7 +982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3)
+> **Frameworks & Libraries:** [[Programming]] (2), data (2), [[Java]] (1), [[Software Development]] (1), [[Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1067,7 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), data (1)
 > **Code Identifiers:** trimtosize (1), tostring (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1075,7 +1076,7 @@ created: 2026-04-29
 
 ### 2. Array Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear search arrays in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-in-java?u=76281980)
@@ -1132,7 +1133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), type. (1), return. (1)
+> **Frameworks & Libraries:** data (12), [[Search]] (7), [[Algorithms]] (2)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -1195,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (2), function (2), case, (2), let (2), class. (1)
+> **Frameworks & Libraries:** [[Search]] (4), data (3), [[Java]] (2)
 > **CLI Commands:** find (3)
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
@@ -1325,7 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (5), let (5), for. (2), function (2), return, (1)
+> **Frameworks & Libraries:** [[Search]] (17), data (8), [[Java]] (2), [[Software Development]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1432,7 +1433,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), function (2), this, (1), private (1)
+> **Frameworks & Libraries:** data (10), [[Java]] (4), [[Algorithms]] (2), [[Programming]] (1), api (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Analogies:** imagine (1)
@@ -1531,7 +1532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), return. (1), case, (1)
+> **Frameworks & Libraries:** data (2), [[Java]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** reverseinplace (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1587,13 +1588,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), return. (1)
+> **Frameworks & Libraries:** next (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Linked List Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a linked list?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-a-linked-list?u=76281980)
@@ -1646,9 +1647,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), node (8), next (6), [[Java]] (1), [[Algorithms]] (1)
 > **CLI Commands:** node (8), find (1), make (1)
 > **Analogies:** similar to (1), for example (1)
-> **Code Keywords:** delete (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1743,7 +1744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (2), case, (1), function (1), class, (1)
+> **Frameworks & Libraries:** data (14), [[Java]] (6), next (3), [[Algorithms]] (2), generic (1)
 > **Code Identifiers:** addfirst (1), addlast (1), foreach (1), linklast (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **CLI Commands:** make (1)
@@ -1823,8 +1824,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (12), data (9), next (8), [[Java]] (2), [[Algorithms]] (2)
 > **CLI Commands:** node (12)
-> **Code Keywords:** let (4), class. (3), interface (1), function (1)
 > **Code Identifiers:** firstnode (4), secondnode (1), thirdnode (1), fourthnode (1), linkedlist (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1909,7 +1910,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (4), class, (2), function (2), class. (1)
+> **Frameworks & Libraries:** node (13), next (9), data (7), [[Algorithms]] (4), hit (1)
 > **CLI Commands:** node (13), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1955,7 +1956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** next (3), data (2)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1963,7 +1964,7 @@ created: 2026-04-29
 
 ### 4. Queue and Stack Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a queue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-a-queue?u=76281980)
@@ -2010,6 +2011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), data (2)
 > **Env Vars:** fifo (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2093,7 +2095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (3), continue (1)
+> **Frameworks & Libraries:** [[Java]] (4), data (3), next (2), generic (1), [[Algorithms]] (1)
 > **Code Identifiers:** removeditem (1), isempty (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** fifo (1)
@@ -2206,7 +2208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), return. (1)
+> **Frameworks & Libraries:** data (4), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** fifo (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -2253,7 +2255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** data (2), [[Algorithms]] (2)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Env Vars:** lifo (1)
 > **Analogies:** just like (1)
@@ -2324,7 +2326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4)
+> **Frameworks & Libraries:** data (5), [[Java]] (2), [[Algorithms]] (1), generic (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2436,7 +2438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (3), match, (1), case, (1)
+> **Frameworks & Libraries:** next (26), data (3), [[Algorithms]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -2510,7 +2512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), match, (2), function (1), case. (1), return. (1)
+> **Frameworks & Libraries:** next (22), [[Java]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2610,7 +2612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), require (1), return, (1), case, (1)
+> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** matchingsymboltracker (1)
 > **Analogies:** such as (1)
@@ -2705,7 +2707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), this, (2), throw (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), next (1), data (1)
 > **Code Identifiers:** isnumber (1), isoperator (1), performoperation (1), evaluaterpn (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** rpn (1)
@@ -2714,7 +2716,7 @@ created: 2026-04-29
 
 ### 5. Algorithms for Hash-Based Structures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hash-based structures in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980)
@@ -2761,7 +2763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2)
+> **Frameworks & Libraries:** data (3), [[Java]] (2), [[Algorithms]] (1)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -2884,7 +2886,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2), case, (2), class. (1), type, (1)
+> **Frameworks & Libraries:** data (9), product (4), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (3), is a  (2)
 > **Code Identifiers:** containskey (1), containsvalue (1)
 > **CLI Commands:** make (1)
@@ -2953,8 +2955,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Java]] (1), [[Search]] (1)
 > **Code Identifiers:** hashset (6)
-> **Code Keywords:** let (5)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3032,7 +3034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), lambda (1)
+> **Frameworks & Libraries:** data (3), [[Algorithms]] (1)
 > **Code Identifiers:** displayfrequencyofeachelement (1), containskey (1), foreach (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3096,15 +3098,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (11), next (4), data (1)
 > **CLI Commands:** node (11), make (1)
-> **Code Keywords:** let (4), function (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Tree Algorithms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-a-tree?u=76281980)
@@ -3195,10 +3197,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (16), data (13), [[Search]] (7), power (1), [[Algorithms]] (1)
 > **CLI Commands:** node (16), make (2), find (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** we talked about (2)
-> **Code Keywords:** continue (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3313,7 +3315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (7), class, (1), private (1), continue (1)
+> **Frameworks & Libraries:** node (18), data (9), [[Search]] (8), next (2), [[Algorithms]] (2)
 > **CLI Commands:** node (18), find (2), make (1)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **Analogies:** similar to (2), for example (1)
@@ -3403,9 +3405,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), data (6), next (5), [[Search]] (2)
 > **CLI Commands:** node (9), find (1)
 > **Definitions:** we call this (2), is a  (2)
-> **Code Keywords:** finally, (1), case. (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3547,7 +3549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), continue (3), function (2), pass (2), this, (2)
+> **Frameworks & Libraries:** node (7), data (5), hit (3), [[Algorithms]] (2), [[Search]] (1)
 > **CLI Commands:** node (7)
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
@@ -3605,7 +3607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3)
+> **Frameworks & Libraries:** node (2)
 > **CLI Commands:** node (2)
 > **Code Identifiers:** findheight (1)
 > **Speakers:** - [instructor] (1)
@@ -3613,7 +3615,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue optimizing algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980)
@@ -3650,8 +3652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (8), [[Algorithms]] (5), data (5), [[LinkedIn]] (1), [[Functional Programming]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** continue (1), abstract (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [kathryn] (1)
 

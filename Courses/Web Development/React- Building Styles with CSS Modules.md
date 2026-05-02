@@ -30,7 +30,7 @@ tags:
   - skill/cascading-style-sheets-css
   - skill/react-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Building%20Styles%20with%20CSS%20Modules.md)
@@ -49,30 +49,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Building a React site with CSS Modules
-  - Course prerequisites
+  - [Building a React site with CSS Modules](#building-a-react-site-with-css-modules)
+  - [Course prerequisites](#course-prerequisites)
 - [**1. Setting Up**](#1-setting-up) (2 videos)
-  - React with CSS Modules without ejecting
-  - Clean up of your created file
+  - [React with CSS Modules without ejecting](#react-with-css-modules-without-ejecting)
+  - [Clean up of your created file](#clean-up-of-your-created-file)
 - [**2. Basics of CSS Modules**](#2-basics-of-css-modules) (7 videos)
-  - Introduction to CSS Modules
-  - Initial directory structure
-  - Add components to the app
-  - CSS syntax with the components
-  - Use composes to leverage other styles
-  - Set up your state and grid component
-  - Complete your grid item
+  - [Introduction to CSS Modules](#introduction-to-css-modules)
+  - [Initial directory structure](#initial-directory-structure)
+  - [Add components to the app](#add-components-to-the-app)
+  - [CSS syntax with the components](#css-syntax-with-the-components)
+  - [Use composes to leverage other styles](#use-composes-to-leverage-other-styles)
+  - [Set up your state and grid component](#set-up-your-state-and-grid-component)
+  - [Complete your grid item](#complete-your-grid-item)
 - [**3. Interactions and Responsive Design**](#3-interactions-and-responsive-design) (4 videos)
-  - Basic animation with CSS keyframes
-  - SVG loading with state
-  - Add final elements
-  - Media queries and combining styles
+  - [Basic animation with CSS keyframes](#basic-animation-with-css-keyframes)
+  - [SVG loading with state](#svg-loading-with-state)
+  - [Add final elements](#add-final-elements)
+  - [Media queries and combining styles](#media-queries-and-combining-styles)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a React site with CSS Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980)
@@ -97,8 +97,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[React.js|React]] (4), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** css (4)
-> **Code Keywords:** finally, (1), let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [manny] (1)
 
@@ -119,6 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), css (1), [[JavaScript]] (1), next (1), [[npm]] (1)
 > **Env Vars:** css (1), es6 (1), npm (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** npm (1)
@@ -129,7 +130,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### React with CSS Modules without ejecting
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980)
@@ -218,9 +219,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (21), [[React.js|React]] (17), [[npm]] (3), css (2), next (2)
 > **CLI Commands:** npx (5), npm (3), make (2), ls (1)
 > **Tools:** visual studio (5), terminal (4)
-> **Code Keywords:** let (5), case, (3)
 > **Versions:** version 2 (2), 2.0 (1)
 > **Env Vars:** css (2)
 > **Cross-References:** in the next (1), next video (1)
@@ -308,7 +309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), module (4), this, (2), delete (2), import, (1)
+> **Frameworks & Libraries:** css (9), next (4), application (4), [[npm]] (1), [[React.js|React]] (1)
 > **Tools:** visual studio (3), terminal (3)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (2), npm (1), find (1)
@@ -320,7 +321,7 @@ created: 2026-04-29
 
 ### 2. Basics of CSS Modules
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to CSS Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/introduction-to-css-modules?u=76281980)
@@ -359,8 +360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (15), [[React.js|React]] (3), application (2), [[JavaScript]] (1)
 > **Env Vars:** css (15)
-> **Code Keywords:** let (3), this. (1), module (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -510,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), module (13), finally, (3), this. (2), this, (2)
+> **Frameworks & Libraries:** css (11), [[React.js|React]] (2), next (2), functional (1), application (1)
 > **File Paths:** grid.js (2), griditem.js (2), smoke.js (2), background.module.css (1), background.js (1)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (3)
@@ -602,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (2), case, (1), from, (1), finally, (1)
+> **Frameworks & Libraries:** application (4), next (2), css (1)
 > **File Paths:** app.js (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
@@ -699,7 +700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (10), let (9), this, (2), pass (2), export, (2)
+> **Frameworks & Libraries:** css (10), application (7), [[React.js|React]] (2), functional (1), [[HTML]] (1)
 > **Env Vars:** css (10), html (1), npm (1)
 > **CLI Commands:** make (4), find (1), npm (1)
 > **Tools:** terminal (2)
@@ -915,7 +916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (22), this, (4), class. (3), public (2), finally, (2)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3), css (2), next (2), [[React.js|React]] (1), application (1)
 > **Env Vars:** url (3), css (2)
 > **CLI Commands:** make (3)
 > **Tools:** terminal (2), visual studio (1)
@@ -1083,7 +1084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), pass (8), function (4), this. (3), extends (1)
+> **Frameworks & Libraries:** data (15), [[React.js|React]] (4), [[JSON]] (2), css (2), database (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** json (2), nasa (1), css (1)
 > **File Paths:** app.js (2), grid.module.css (1)
@@ -1355,7 +1356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), module (3), pass (3), this, (2), return, (2)
+> **Frameworks & Libraries:** css (10), functional (2), [[JavaScript]] (1), data (1), next (1)
 > **Env Vars:** css (9)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (2), open the (1), switch to (1)
@@ -1367,7 +1368,7 @@ created: 2026-04-29
 
 ### 3. Interactions and Responsive Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic animation with CSS keyframes
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980)
@@ -1440,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), module (1), else, (1)
+> **Frameworks & Libraries:** css (7), application (1), [[GitHub]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** rubberband (8)
 > **Env Vars:** css (5)
 > **File Paths:** module.css (1), animate.css (1)
@@ -1642,7 +1643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (10), pass (9), this, (4), this. (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), application (2), next (1), data (1), css (1)
 > **UI Navigation:** click on (9), open the (2), go to (1)
 > **Env Vars:** svg (5), nasa (1), css (1), nif (1), es6 (1)
 > **CLI Commands:** make (7)
@@ -1940,7 +1941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), module (6), this. (3), public (3), this, (3)
+> **Frameworks & Libraries:** css (11), [[React.js|React]] (6), [[JavaScript]] (3), [[HTML]] (3), [[Security]] (2)
 > **Env Vars:** css (8), nasa (3), html (3), mp3 (2), fyi (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (3), scroll down (2)
@@ -2152,7 +2153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), module (7), function (2), this. (2), else. (1)
+> **Frameworks & Libraries:** css (5), [[npm]] (3), application (2), [[Jetpack Compose|Compose]] (2), [[React.js|React]] (2)
 > **CLI Commands:** make (7), npm (3), find (1)
 > **Env Vars:** css (4), nasa (2), html (1)
 > **Tools:** terminal (5)
@@ -2164,7 +2165,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980)
@@ -2187,8 +2188,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[React.js|React]] (4), next (1)
 > **Env Vars:** css (5)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** the docs (1)
 > **Speakers:** - [emmanuel] (1)

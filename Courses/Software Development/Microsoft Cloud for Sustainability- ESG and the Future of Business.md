@@ -32,7 +32,7 @@ tags:
   - skill/microsoft-s-cloud-for-sustainability
   - skill/environmental-social-and-governance-esg
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Microsoft%20Cloud%20for%20Sustainability-%20ESG%20and%20the%20Future%20of%20Business.md)
@@ -51,44 +51,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to the course
+  - [Introduction to the course](#introduction-to-the-course)
 - [**1. Sustainability Basics**](#1-sustainability-basics) (5 videos)
-  - Who cares wins
-  - Understanding carbon emissions
-  - Key sustainability regulations
-  - Focusing on long-termism vs. short-termism
-  - Sustainability challenges
+  - [Who cares wins](#who-cares-wins)
+  - [Understanding carbon emissions](#understanding-carbon-emissions)
+  - [Key sustainability regulations](#key-sustainability-regulations)
+  - [Focusing on long-termism vs. short-termism](#focusing-on-long-termism-vs-short-termism)
+  - [Sustainability challenges](#sustainability-challenges)
 - [**2. Microsoft Sustainability Solutions**](#2-microsoft-sustainability-solutions) (2 videos)
-  - What are Microsoft Sustainability Solutions?
-  - What are the benefits of using Microsoft Sustainability Solutions?
+  - [What are Microsoft Sustainability Solutions?](#what-are-microsoft-sustainability-solutions)
+  - [What are the benefits of using Microsoft Sustainability Solutions?](#what-are-the-benefits-of-using-microsoft-sustainability-solutions)
 - [**3. Microsoft Sustainability Data Model**](#3-microsoft-sustainability-data-model) (3 videos)
-  - The need for data models
-  - Microsoft Cloud for Sustainability model
-  - Project ESG Lake
+  - [The need for data models](#the-need-for-data-models)
+  - [Microsoft Cloud for Sustainability model](#microsoft-cloud-for-sustainability-model)
+  - [Project ESG Lake](#project-esg-lake)
 - [**4. Microsoft Sustainability Manager**](#4-microsoft-sustainability-manager) (4 videos)
-  - What is Microsoft Sustainability Manager?
-  - What are the solution focus areas?
-  - How to use Microsoft Sustainability Manager
-  - ESG value chain
+  - [What is Microsoft Sustainability Manager?](#what-is-microsoft-sustainability-manager)
+  - [What are the solution focus areas?](#what-are-the-solution-focus-areas)
+  - [How to use Microsoft Sustainability Manager](#how-to-use-microsoft-sustainability-manager)
+  - [ESG value chain](#esg-value-chain)
 - [**5. Compliance Reporting**](#5-compliance-reporting) (2 videos)
-  - Microsoft Purview compliance manager
-  - CSRD template in Microsoft Purview
+  - [Microsoft Purview compliance manager](#microsoft-purview-compliance-manager)
+  - [CSRD template in Microsoft Purview](#csrd-template-in-microsoft-purview)
 - [**6. Emissions Impact Dashboard**](#6-emissions-impact-dashboard) (3 videos)
-  - Emissions Impact Dashboard
-  - Calculation methodology
-  - Two types of Emissions Impact Dashboards
+  - [Emissions Impact Dashboard](#emissions-impact-dashboard)
+  - [Calculation methodology](#calculation-methodology)
+  - [Two types of Emissions Impact Dashboards](#two-types-of-emissions-impact-dashboards)
 - [**7. Credit Service**](#7-credit-service) (4 videos)
-  - What are carbon credits?
-  - Cap and trade system
-  - What is measurement, reporting, and verification (MRV)?
-  - What is the Microsoft Environment Credit Service?
+  - [What are carbon credits?](#what-are-carbon-credits)
+  - [Cap and trade system](#cap-and-trade-system)
+  - [What is measurement, reporting, and verification (MRV)?](#what-is-measurement-reporting-and-verification-mrv)
+  - [What is the Microsoft Environment Credit Service?](#what-is-the-microsoft-environment-credit-service)
 - [**Conclusion**](#conclusion) (2 videos)
-  - How to get started with Microsoft Sustainability Solutions
-  - Leave it the way you found it
+  - [How to get started with Microsoft Sustainability Solutions](#how-to-get-started-with-microsoft-sustainability-solutions)
+  - [Leave it the way you found it](#leave-it-the-way-you-found-it)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980)
@@ -115,8 +115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (4), cloud (3), data (2), [[Microsoft]] (2), [[Analytics]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** esg (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -125,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Sustainability Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Who cares wins
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/who-cares-wins?u=76281980)
@@ -145,7 +145,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** esg (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Understanding carbon emissions
@@ -181,7 +180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Sustainability]] (1)
 > **Env Vars:** esg (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -217,10 +216,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), product (1), [[Sustainability]] (1)
 > **Env Vars:** esg (3), csrd (1), sfdr (1), sec (1), sebi (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Focusing on long-termism vs. short-termism
@@ -254,7 +253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** business (5), [[Sustainability]] (3)
 > **Speakers:** - [instructor] (1)
 
 #### Sustainability challenges
@@ -288,8 +287,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (4), data (3), [[Microsoft]] (2), cloud (2), business (1)
 > **Env Vars:** esg (1), erp (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -297,7 +296,7 @@ created: 2026-04-29
 
 ### 2. Microsoft Sustainability Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Microsoft Sustainability Solutions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980)
@@ -336,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft]] (3), cloud (2), data (2), business (1)
 > **Env Vars:** esg (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -394,8 +393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (6), data (6), business (5), [[Microsoft]] (3), ai (3)
 > **Env Vars:** esg (3)
-> **Code Keywords:** let (2)
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
@@ -403,7 +402,7 @@ created: 2026-04-29
 
 ### 3. Microsoft Sustainability Data Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for data models
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980)
@@ -428,8 +427,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Diagramming]] (1), [[Microsoft]] (1)
 > **Env Vars:** esg (4)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Microsoft Cloud for Sustainability model
@@ -489,8 +488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Sustainability]] (13), cloud (6), [[Microsoft]] (5), functional (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (2)
 > **Env Vars:** esg (2)
 > **Speakers:** - [presenter] (1)
 
@@ -521,15 +520,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Microsoft]] (4), [[Sustainability]] (3), power (2), [[Microsoft Azure]] (1)
 > **Env Vars:** esg (13), csrd (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Microsoft Sustainability Manager
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Microsoft Sustainability Manager?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980)
@@ -554,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft]] (3), data (2), [[Real-Time]] (1), business (1)
 > **Env Vars:** esg (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -578,8 +577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Sustainability]] (2), business (1), [[Analytics]] (1)
 > **Prerequisites:** setup (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### How to use Microsoft Sustainability Manager
@@ -625,8 +624,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Sustainability]] (5), business (3), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** epa (1)
 > **Speakers:** - [instructor] (1)
 
@@ -657,8 +656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Sustainability]] (3), business (2), [[Microsoft]] (2), power (2)
 > **Env Vars:** esg (3)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -666,7 +665,7 @@ created: 2026-04-29
 
 ### 5. Compliance Reporting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Purview compliance manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-purview-compliance-manager?u=76281980)
@@ -699,7 +698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Automation]] (1), [[Microsoft]] (1)
 > **Env Vars:** esg (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -729,6 +728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Corporate Sustainability]] (1), [[Microsoft]] (1), cloud (1), next (1)
 > **Env Vars:** csrd (3), esrs (3)
 > **Cross-References:** we discussed (1)
 > **Exercise Files:** template (1)
@@ -737,7 +737,7 @@ created: 2026-04-29
 
 ### 6. Emissions Impact Dashboard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Emissions Impact Dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980)
@@ -768,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), cloud (5), [[Sustainability]] (3), [[Dashboards]] (3), [[Microsoft 365]] (3)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -798,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), data (3), cloud (2), power (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** iso (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -828,13 +828,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), cloud (3), [[Microsoft Azure|Azure]] (2), [[Microsoft 365]] (2), [[Sustainability]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Credit Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are carbon credits?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-carbon-credits?u=76281980)
@@ -857,7 +857,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Env Vars:** ceo (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -881,7 +880,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** power (1), next (1)
 > **Env Vars:** mrv (1)
 > **Speakers:** - [instructor] (1)
 
@@ -900,8 +899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** mrv (4)
-> **Code Keywords:** let (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -925,13 +924,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (1), cloud (1), [[Sustainability]] (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to get started with Microsoft Sustainability Solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980)
@@ -970,7 +970,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** esg (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1000,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft]] (2), cloud (1)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - we (1)

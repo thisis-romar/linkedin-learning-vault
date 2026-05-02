@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-for-learning-and-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Developing%20A%20Learning%20Mindset%20In%20The%20Age%20Of%20Ai.md)
@@ -47,26 +47,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The importance of developing a learning mindset
+  - [The importance of developing a learning mindset](#the-importance-of-developing-a-learning-mindset)
 - [**1. Understanding Learning in the Age of AI**](#1-understanding-learning-in-the-age-of-ai) (6 videos)
-  - Tap into your learning mindset, skill set, and toolset
-  - Yesterday's learning vs. tomorrow's
-  - Learning vs. education
-  - Conduct a self-inventory
-  - Cultivate a growth mindset to learn and adapt
-  - Tune into how your brain learns
+  - [Tap into your learning mindset, skill set, and toolset](#tap-into-your-learning-mindset-skill-set-and-toolset)
+  - [Yesterday's learning vs. tomorrow's](#yesterdays-learning-vs-tomorrows)
+  - [Learning vs. education](#learning-vs-education)
+  - [Conduct a self-inventory](#conduct-a-self-inventory)
+  - [Cultivate a growth mindset to learn and adapt](#cultivate-a-growth-mindset-to-learn-and-adapt)
+  - [Tune into how your brain learns](#tune-into-how-your-brain-learns)
 - [**2. Learning in Context with AI**](#2-learning-in-context-with-ai) (5 videos)
-  - Connect to your motivation to learn
-  - Power up your learning for work
-  - Learn for yourself
-  - Learning online vs. learning in-person
-  - Learning as a group sport
+  - [Connect to your motivation to learn](#connect-to-your-motivation-to-learn)
+  - [Power up your learning for work](#power-up-your-learning-for-work)
+  - [Learn for yourself](#learn-for-yourself)
+  - [Learning online vs. learning in-person](#learning-online-vs-learning-in-person)
+  - [Learning as a group sport](#learning-as-a-group-sport)
 - [**3. Conclusion**](#3-conclusion) (1 videos)
-  - Your learning journey
+  - [Your learning journey](#your-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of developing a learning mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/the-importance-of-developing-a-learning-mindset?u=76281980)
@@ -91,14 +91,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** self (1), let (1)
 > **Speakers:** - look (1)
 
 
 ### 1. Understanding Learning in the Age of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tap into your learning mindset, skill set, and toolset
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980)
@@ -141,7 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** ai (3), next (1), [[LinkedIn]] (1), [[Agile Development|Agile]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - our (1)
 
 #### Yesterday's learning vs. tomorrow's
@@ -195,8 +195,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), next (1)
 > **CLI Commands:** make (2), rails (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** ted (1)
 > **Analogies:** for example (1)
 > **Speakers:** - many (1)
@@ -274,7 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if, (1), continue (1), self (1)
+> **Frameworks & Libraries:** ai (4), [[Soft Skills]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -347,7 +347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1), function (1)
+> **Frameworks & Libraries:** next (1), [[Pivot Tables]] (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **CLI Commands:** make (1)
 > **Analogies:** kind of like (1)
@@ -450,9 +450,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (2)
-> **Code Keywords:** self (1)
 > **Analogies:** just like (1)
 > **Speakers:** - think (1)
 
@@ -557,14 +557,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), try. (1), let (1)
+> **Frameworks & Libraries:** strengths (2), game (1), ai (1), next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)
 
 
 ### 2. Learning in Context with AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to your motivation to learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/connect-to-your-motivation-to-learn?u=76281980)
@@ -649,8 +649,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (1), next (1), career (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - let (1)
@@ -738,9 +738,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), ai (2), next (1), management (1)
 > **CLI Commands:** make (2), find (2)
 > **Prerequisites:** you'll need (1), required to (1)
-> **Code Keywords:** new. (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -826,8 +826,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (6), ai (5), next (3)
 > **CLI Commands:** make (7), find (5)
-> **Code Keywords:** else. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
 
@@ -908,7 +908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), switch (1)
+> **Frameworks & Libraries:** ai (2), generic (1), next (1)
 > **Analogies:** for example (1), it's like (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** before you begin (1)
@@ -987,7 +987,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (1), module (1)
+> **Frameworks & Libraries:** ai (3), next (1), teams (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** don't forget (1)
@@ -996,7 +996,7 @@ created: 2026-04-29
 
 ### 3. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980)
@@ -1039,7 +1039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), ai (1), [[Microsoft Office|Office]] (1), [[Learning Agility]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - to (1)
 

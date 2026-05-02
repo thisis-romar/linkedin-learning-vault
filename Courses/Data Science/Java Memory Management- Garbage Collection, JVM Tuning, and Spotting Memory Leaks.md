@@ -32,7 +32,7 @@ tags:
   - skill/memory-management
   - skill/java
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Memory%20Management-%20Garbage%20Collection%2C%20JVM%20Tuning%2C%20and%20Spotting%20Memory%20Leaks.md)
@@ -51,36 +51,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Java memory management
-  - What you need to know
-  - Explore the code challenge enviornment
+  - [Java memory management](#java-memory-management)
+  - [What you need to know](#what-you-need-to-know)
+  - [Explore the code challenge enviornment](#explore-the-code-challenge-enviornment)
 - [**1. Garbage Collection**](#1-garbage-collection) (9 videos)
-  - Introduction to the garbage collector
-  - Eligible for garbage collection
-  - Garbage collection phase: Marking
-  - Garbage collection phase: Sweeping
-  - Different generations on the heap
-  - Generational garbage collection
-  - Different garbage collection implementations
-  - Monitoring garbage collection
-  - Solution: Eligible for garbage collection
+  - [Introduction to the garbage collector](#introduction-to-the-garbage-collector)
+  - [Eligible for garbage collection](#eligible-for-garbage-collection)
+  - [Garbage collection phase: Marking](#garbage-collection-phase-marking)
+  - [Garbage collection phase: Sweeping](#garbage-collection-phase-sweeping)
+  - [Different generations on the heap](#different-generations-on-the-heap)
+  - [Generational garbage collection](#generational-garbage-collection)
+  - [Different garbage collection implementations](#different-garbage-collection-implementations)
+  - [Monitoring garbage collection](#monitoring-garbage-collection)
+  - [Solution: Eligible for garbage collection](#solution-eligible-for-garbage-collection)
 - [**2. JVM Tuning**](#2-jvm-tuning) (5 videos)
-  - What is JVM tuning?
-  - Getting JVM metrics
-  - Heap size and heap dumps
-  - MetaSpace size
-  - Garbage collection tuning
+  - [What is JVM tuning?](#what-is-jvm-tuning)
+  - [Getting JVM metrics](#getting-jvm-metrics)
+  - [Heap size and heap dumps](#heap-size-and-heap-dumps)
+  - [MetaSpace size](#metaspace-size)
+  - [Garbage collection tuning](#garbage-collection-tuning)
 - [**3. Memory Leaks**](#3-memory-leaks) (4 videos)
-  - What are memory leaks?
-  - Spotting memory leaks
-  - Avoiding and solving memory leaks
-  - Solution: Finding and fixing a memory leak
+  - [What are memory leaks?](#what-are-memory-leaks)
+  - [Spotting memory leaks](#spotting-memory-leaks)
+  - [Avoiding and solving memory leaks](#avoiding-and-solving-memory-leaks)
+  - [Solution: Finding and fixing a memory leak](#solution-finding-and-fixing-a-memory-leak)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Java memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980)
@@ -115,8 +115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[Zoom]] (1)
 > **Env Vars:** jvm (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you need to know
@@ -134,7 +134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Memory Management]] (5), [[Java]] (2), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -193,7 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), type, (1), require (1)
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **Code Identifiers:** showexpectedresult (1), showhints (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -202,7 +202,7 @@ created: 2026-04-29
 
 ### 1. Garbage Collection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the garbage collector
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/introduction-to-the-garbage-collector?u=76281980)
@@ -271,8 +271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), application (3), next (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
-> **Code Keywords:** case. (1), delete (1), let (1)
 > **Env Vars:** jvm (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -321,6 +321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (2), next (1)
 > **Env Vars:** jvm (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** means that (1), in other words (1)
@@ -384,6 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Java]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (2)
 > **Analogies:** imagine (1), for example (1)
@@ -460,7 +462,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (3), this. (3), require (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** jvm (1)
 > **Speakers:** - [instructor] (1)
@@ -594,7 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), while. (2), delete (2), class, (1)
+> **Frameworks & Libraries:** [[Metadata]] (8), [[Java]] (6), [[Algorithms]] (1), application (1), next (1)
 > **Definitions:** means that (3), is called (1), is a  (1)
 > **Env Vars:** gvm (3)
 > **Versions:** java 8 (2)
@@ -678,11 +679,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), next (2), [[Java]] (1)
 > **Analogies:** imagine (3), for example (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Different garbage collection implementations
@@ -800,7 +801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), pass (1)
+> **Frameworks & Libraries:** concurrent (10), application (10), parallel (8), next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
 > **Analogies:** imagine (2), such as (1)
 > **Env Vars:** gvm (1), cms (1)
@@ -896,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1)
+> **Frameworks & Libraries:** application (4), next (4)
 > **Env Vars:** cpu (2), gvm (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -928,14 +929,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 2. JVM Tuning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is JVM tuning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-is-jvm-tuning?u=76281980)
@@ -998,9 +998,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), next (2), [[Java]] (1)
 > **Env Vars:** jvm (11)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** this. (1), let (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - the (1)
@@ -1194,8 +1194,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (6), [[Statistics]] (3), next (3), data (3), [[Java]] (1)
 > **Env Vars:** gvm (7), pid (2), cpu (1)
-> **Code Keywords:** this. (3), let (2), this, (1), class, (1)
 > **Analogies:** for example (6)
 > **Definitions:** is a  (3), stands for (1)
 > **CLI Commands:** find (3)
@@ -1286,8 +1286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), [[Java]] (4), next (1)
 > **Env Vars:** gvm (5), cpu (2), ram (1), xmx (1)
-> **Code Keywords:** let (6)
 > **Analogies:** for example (5)
 > **Versions:** 0.0 (1), 0.1 (1), 1.6 (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -1364,7 +1364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default. (1), break. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** application (6), [[Java]] (6), next (1)
 > **Versions:** java 7 (2), java 8 (2)
 > **Analogies:** for example (4)
 > **Tools:** terminal (2), intellij (1)
@@ -1508,7 +1508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), case, (1), this, (1), class. (1)
+> **Frameworks & Libraries:** application (8), parallel (7), concurrent (3), [[Microsoft Word|Word]] (2), feature (1)
 > **Analogies:** for example (7)
 > **Env Vars:** cpu (1), gvm (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1520,7 +1520,7 @@ created: 2026-04-29
 
 ### 3. Memory Leaks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are memory leaks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980)
@@ -1569,7 +1569,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), super (1)
+> **Frameworks & Libraries:** application (4), [[Memory Management]] (2), cloud (2), [[Java]] (1), next (1)
 > **Env Vars:** jvm (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1826,7 +1826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), class, (1), this. (1), while, (1)
+> **Frameworks & Libraries:** application (15), [[Java]] (3), data (1), next (1)
 > **Env Vars:** cpu (3), gvm (2)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** for example (4)
@@ -1918,7 +1918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (2), case, (1)
+> **Frameworks & Libraries:** [[Java]] (2), next (1), database (1), application (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (3), for example (1)
 > **Code Identifiers:** hashcode (2)
@@ -1942,14 +1942,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980)
@@ -1984,8 +1983,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (8), [[Design Patterns]] (3), next (2), [[Memory Management]] (1), [[Troubleshooting]] (1)
 > **CLI Commands:** apache (1), find (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [maaike] (1)
 

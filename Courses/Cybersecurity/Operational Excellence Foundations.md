@@ -30,7 +30,7 @@ tags:
   - skill/six-sigma
   - skill/operational-excellence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Operational%20Excellence%20Foundations.md)
@@ -49,37 +49,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to operational excellence
+  - [Welcome to operational excellence](#welcome-to-operational-excellence)
 - [**1. What Is Operational Excellence?**](#1-what-is-operational-excellence) (1 videos)
-  - What is operational excellence?
+  - [What is operational excellence?](#what-is-operational-excellence)
 - [**2. Key Concepts and Tools**](#2-key-concepts-and-tools) (10 videos)
-  - Process stakeholders and SIPOC
-  - Voice of the customer, CTQs, and metrics
-  - Kano model and Its Implications
-  - Variation
-  - Quality at the source
-  - Error-proofing or poka-yoke
-  - Lean principles
-  - Process mapping
-  - FMEA: Failure modes and effects analysis
-  - Process control and the control plan
+  - [Process stakeholders and SIPOC](#process-stakeholders-and-sipoc)
+  - [Voice of the customer, CTQs, and metrics](#voice-of-the-customer-ctqs-and-metrics)
+  - [Kano model and Its Implications](#kano-model-and-its-implications)
+  - [Variation](#variation)
+  - [Quality at the source](#quality-at-the-source)
+  - [Error-proofing or poka-yoke](#error-proofing-or-poka-yoke)
+  - [Lean principles](#lean-principles)
+  - [Process mapping](#process-mapping)
+  - [FMEA: Failure modes and effects analysis](#fmea-failure-modes-and-effects-analysis)
+  - [Process control and the control plan](#process-control-and-the-control-plan)
 - [**3. Implementing Operational Excellence**](#3-implementing-operational-excellence) (10 videos)
-  - Key roles in operational excellence
-  - Alignment for operational excellence
-  - Choose the right methodology
-  - Process or value stream management
-  - Lean event, Kaizen, or workout
-  - Six Sigma DMAIC
-  - DMADV: Design for Six Sigma
-  - Implementation challenges
-  - Audits to sustain operational excellence
-  - Leveraging AI to drive operational excellence
+  - [Key roles in operational excellence](#key-roles-in-operational-excellence)
+  - [Alignment for operational excellence](#alignment-for-operational-excellence)
+  - [Choose the right methodology](#choose-the-right-methodology)
+  - [Process or value stream management](#process-or-value-stream-management)
+  - [Lean event, Kaizen, or workout](#lean-event-kaizen-or-workout)
+  - [Six Sigma DMAIC](#six-sigma-dmaic)
+  - [DMADV: Design for Six Sigma](#dmadv-design-for-six-sigma)
+  - [Implementation challenges](#implementation-challenges)
+  - [Audits to sustain operational excellence](#audits-to-sustain-operational-excellence)
+  - [Leveraging AI to drive operational excellence](#leveraging-ai-to-drive-operational-excellence)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to operational excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980)
@@ -118,13 +118,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Operational Excellence]] (4), [[Six Sigma]] (3), management (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dmaic (1)
 > **Speakers:** - do (1)
 
 
 ### 1. What Is Operational Excellence?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is operational excellence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980)
@@ -233,9 +234,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Operational Excellence]] (5), [[Six Sigma]] (2), business (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** vip (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - most (1)
@@ -243,7 +244,7 @@ created: 2026-04-29
 
 ### 2. Key Concepts and Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Process stakeholders and SIPOC
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/process-stakeholders-and-sipoc?u=76281980)
@@ -332,8 +333,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Operational Excellence]] (2)
 > **Definitions:** is a  (3), in other words (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - whether (1)
@@ -409,9 +410,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2)
 > **Env Vars:** voc (3), ctq (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
@@ -503,7 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), class. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), management (1), next (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (3)
 > **Speakers:** - when (1)
@@ -617,9 +618,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (1), product (1), next (1)
 > **Documentation:** specification (5)
 > **Definitions:** in other words (3), is a  (2)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - a (1)
@@ -701,8 +702,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (3), management (2)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** self (3), let (1)
 > **Definitions:** is called (1)
 > **Speakers:** - how (1)
 
@@ -787,9 +788,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (1), application (1), management (1), prompt (1)
 > **Analogies:** such as (2), for example (1)
 > **Warnings:** warning (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
@@ -886,8 +887,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2), management (2), [[Forms]] (1), product (1)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** let (1), for. (1)
 > **Env Vars:** timwoods (2)
 > **Definitions:** is an  (1), refers to (1)
 > **CLI Commands:** find (1)
@@ -974,9 +975,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (3), data (2), [[Operational Excellence]] (1), product (1)
 > **Analogies:** picture (2), such as (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** function (1)
 > **Speakers:** - they (1)
 
 #### FMEA: Failure modes and effects analysis
@@ -1050,10 +1051,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), next (1)
 > **Env Vars:** fmea (12), rpn (1)
 > **Definitions:** is called (3), is a  (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** function (1)
 > **Speakers:** - take (1)
 
 #### Process control and the control plan
@@ -1121,7 +1122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** power (1)
 > **Analogies:** such as (2), for example (1)
 > **Documentation:** specification (2)
 > **CLI Commands:** make (1)
@@ -1131,7 +1132,7 @@ created: 2026-04-29
 
 ### 3. Implementing Operational Excellence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Key roles in operational excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980)
@@ -1230,7 +1231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (8), management (5), [[Six Sigma]] (2), business (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** dna (1)
 > **Analogies:** for example (1)
@@ -1297,6 +1298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), management (1), hr (1), hit (1), product (1)
 > **Analogies:** for example (4), such as (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1389,9 +1391,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), product (3), [[Operational Excellence]] (2), [[Six Sigma]] (2), next (1)
 > **Env Vars:** dmaic (3), sipoc (3), dmadv (1)
 > **Definitions:** is an  (2), is a  (1), stands for (1), short for (1)
-> **Code Keywords:** let (2), this, (1), finally, (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - when (1)
@@ -1535,10 +1537,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Accountability]] (3), management (2), functional (2), business (2), next (1)
 > **Analogies:** for example (4), imagine (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
-> **Code Keywords:** require (1), let (1)
 > **Warnings:** pitfall (1)
 > **Speakers:** - as (1)
 
@@ -1613,8 +1615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Operational Excellence]] (1)
 > **Definitions:** is a  (3), is called (1)
-> **Code Keywords:** require (3)
 > **Env Vars:** downtime (1), tim (1), woods (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1753,9 +1755,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (9), data (6), management (1)
 > **Definitions:** is a  (4), in other words (3)
 > **Env Vars:** dmaic (6)
-> **Code Keywords:** function (3), let (2)
 > **CLI Commands:** make (1)
 > **Versions:** 11.2 (1)
 > **Warnings:** note that (1)
@@ -1843,8 +1845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Six Sigma]] (6), [[Microsoft Products|Products]] (2), next (2), functional (2)
 > **Env Vars:** dfss (4), dmadv (2), voc (2), dmaic (1)
-> **Code Keywords:** for. (1), let (1), case, (1)
 > **Definitions:** is a  (2), we call this (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), such as (1)
@@ -1942,7 +1944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** management (5), [[Operational Excellence]] (3), data (1), business (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
@@ -2024,6 +2026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Operational Excellence]] (3), management (2), next (1), [[Accountability]] (1), [[Performance Metrics]] (1)
 > **Env Vars:** dna (1), dmaic (1), dmadv (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -2154,17 +2157,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (32), data (6), [[Operational Excellence]] (3), rpa (3), [[Forecasting]] (2)
 > **Env Vars:** rpa (3), nlp (2), voc (1), spc (1), rfid (1)
 > **Analogies:** for example (5), just like (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), extends (1)
 > **Best Practices:** don't forget (1), recommended (1)
 > **Speakers:** - better (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980)
@@ -2195,6 +2198,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Operational Excellence]] (5), [[Six Sigma]] (3), data (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - congratulations (1)
 

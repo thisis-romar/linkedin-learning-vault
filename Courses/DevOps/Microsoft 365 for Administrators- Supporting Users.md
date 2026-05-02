@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/office-365-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Microsoft%20365%20for%20Administrators-%20Supporting%20Users.md)
@@ -48,52 +48,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Get Started**](#get-started) (4 videos)
-  - Administrators support Office 365 users
-  - What you should know
-  - Help desk role
-  - Identify training resources
+  - [Administrators support Office 365 users](#administrators-support-office-365-users)
+  - [What you should know](#what-you-should-know)
+  - [Help desk role](#help-desk-role)
+  - [Identify training resources](#identify-training-resources)
 - [**1. Getting Users Started**](#1-getting-users-started) (6 videos)
-  - Training basics: Office 365 portal overview
-  - Training basics: Common elements
-  - Troubleshoot user accounts
-  - Troubleshoot app startup
-  - Repair Office apps
-  - Uninstall Office
+  - [Training basics: Office 365 portal overview](#training-basics-office-365-portal-overview)
+  - [Training basics: Common elements](#training-basics-common-elements)
+  - [Troubleshoot user accounts](#troubleshoot-user-accounts)
+  - [Troubleshoot app startup](#troubleshoot-app-startup)
+  - [Repair Office apps](#repair-office-apps)
+  - [Uninstall Office](#uninstall-office)
 - [**2. Productivity**](#2-productivity) (8 videos)
-  - Word
-  - Create a PowerPoint presentation
-  - Record a PowerPoint presentation
-  - Excel
-  - Power BI
-  - Access
-  - OneNote
-  - MyAnalytics
+  - [Word](#word)
+  - [Create a PowerPoint presentation](#create-a-powerpoint-presentation)
+  - [Record a PowerPoint presentation](#record-a-powerpoint-presentation)
+  - [Excel](#excel)
+  - [Power BI](#power-bi)
+  - [Access](#access)
+  - [OneNote](#onenote)
+  - [MyAnalytics](#myanalytics)
 - [**3. Communications**](#3-communications) (3 videos)
-  - Use Outlook
-  - Configure Outlook
-  - Teams
+  - [Use Outlook](#use-outlook)
+  - [Configure Outlook](#configure-outlook)
+  - [Teams](#teams)
 - [**4. Getting Things Done**](#4-getting-things-done) (6 videos)
-  - Visio
-  - Project
-  - Planner
-  - To Do
-  - Forms
-  - Power Automate
+  - [Visio](#visio)
+  - [Project](#project)
+  - [Planner](#planner)
+  - [To Do](#to-do)
+  - [Forms](#forms)
+  - [Power Automate](#power-automate)
 - [**5. Collaboration**](#5-collaboration) (4 videos)
-  - OneDrive
-  - SharePoint
-  - SharePoint team site administration
-  - Yammer
+  - [OneDrive](#onedrive)
+  - [SharePoint](#sharepoint)
+  - [SharePoint team site administration](#sharepoint-team-site-administration)
+  - [Yammer](#yammer)
 - [**6. Media Rich Apps**](#6-media-rich-apps) (3 videos)
-  - Publisher
-  - Sway
-  - Stream
+  - [Publisher](#publisher)
+  - [Sway](#sway)
+  - [Stream](#stream)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Get Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Administrators support Office 365 users
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** mcsa (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [sharon (1)
@@ -148,6 +148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Microsoft 365]] (4)
 > **Speakers:** - [narrator] (1)
 
 #### Help desk role
@@ -235,8 +236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Search]] (6), [[Microsoft 365]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Office]] (1)
 > **Prerequisites:** you'll need (11), prerequisite (2)
-> **Code Keywords:** finally, (3), let (1), this. (1)
 > **Analogies:** for example (1), such as (1)
 > **URLs:** [office.com](https://office.com) (1)
 > **Definitions:** means that (1)
@@ -353,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), self (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), [[Microsoft]] (2), [[Microsoft 365]] (1), [[Microsoft Outlook]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
@@ -362,7 +363,7 @@ created: 2026-04-29
 
 ### 1. Getting Users Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Training basics: Office 365 portal overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980)
@@ -435,8 +436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[SharePoint]] (2), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** select the (1), scroll down (1), open the (1)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** download the (1)
@@ -541,7 +542,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Microsoft Word|Word]] (4), next (3), application (1), feature (1)
 > **Analogies:** picture (3), for example (1)
 > **Env Vars:** url (1), pdf (1), odt (1)
 > **Exercise Files:** template (3)
@@ -600,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Troubleshooting]] (2), [[Forms]] (1), next (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **CLI Commands:** find (2), rails (1)
 > **Speakers:** - [instructor] (1)
 
@@ -673,7 +674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (2), let (2)
+> **Frameworks & Libraries:** application (9), [[Windows]] (5), [[Microsoft Excel|Excel]] (5), [[Microsoft Office|Office]] (3), [[Microsoft]] (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -738,8 +739,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Microsoft Office]] (3), product (2), application (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** msi (3)
-> **Code Keywords:** require (1), new, (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -793,6 +794,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Windows]] (2), next (2), hit (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** you'll need (1), setup (1)
 > **URLs:** [office.com](https://office.com) (1)
@@ -804,7 +806,7 @@ created: 2026-04-29
 
 ### 2. Productivity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980)
@@ -925,7 +927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), business (3), [[Microsoft Office|Office]] (2), next (2), [[Microsoft OneDrive|Onedrive]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1), is an  (1)
 > **UI Navigation:** open the (1)
@@ -1028,7 +1030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), delete (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), next (3), [[Microsoft OneDrive|Onedrive]] (2), application (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (3), go to (1), drag and drop (1)
 > **Analogies:** picture (4)
 > **Exercise Files:** template (3)
@@ -1126,8 +1128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[Microsoft]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** case, (1), this. (1), export. (1)
 > **Cross-References:** in the last (1), go back to (1), later in (1)
 > **Env Vars:** stop (1)
 > **UI Navigation:** select the (1)
@@ -1274,7 +1276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (6), next (3), [[Microsoft Office|Office]] (1), application (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** select the (2)
 > **Exercise Files:** template (1)
@@ -1407,7 +1409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1), from. (1), this. (1), case. (1)
+> **Frameworks & Libraries:** data (10), power (4), bi (4), [[Microsoft Office|Office]] (2), business (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is called (1)
 > **UI Navigation:** select the (1)
@@ -1507,9 +1509,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (2), [[Databases]] (2), [[User Experience (UX)|User experience]] (2), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** new. (1), this. (1)
 > **UI Navigation:** double-click (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
@@ -1661,8 +1663,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), next (1), feature (1)
 > **Analogies:** picture (5), imagine (1), just like (1), for example (1)
-> **Code Keywords:** let (5), this, (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (1), select the (1)
 > **Definitions:** is an  (2)
@@ -1727,15 +1729,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), web (1), feature (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - do (1)
 
 
 ### 3. Communications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980)
@@ -1846,7 +1848,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (7), hr (3), [[Search]] (2), [[Microsoft Word|Word]] (2), game (2)
 > **UI Navigation:** select the (3), open the (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1), later in (1)
@@ -1922,8 +1924,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), [[Microsoft]] (2), [[Google]] (1), [[Microsoft Office|Office]] (1)
 > **Prerequisites:** set up (3), configure (1), you'll need (1)
-> **Code Keywords:** let (3)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1991,7 +1993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), public (1), let (1)
+> **Frameworks & Libraries:** teams (13), [[Microsoft Office|Office]] (3), web (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (1)
@@ -2000,7 +2002,7 @@ created: 2026-04-29
 
 ### 4. Getting Things Done
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visio
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980)
@@ -2089,7 +2091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (2), from, (1), this. (1)
+> **Frameworks & Libraries:** application (4), next (4), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** select the (3)
 > **CLI Commands:** make (1), snap (1)
@@ -2182,9 +2184,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1)
 > **UI Navigation:** select the (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -2284,7 +2286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (2), public (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -2386,7 +2388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1)
+> **Frameworks & Libraries:** next (4), [[Microsoft]] (2), [[Microsoft Office|Office]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - do (1)
@@ -2496,7 +2498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from. (2), continue (1)
+> **Frameworks & Libraries:** [[Forms]] (6), data (4), [[Microsoft Office|Office]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1)
 > **UI Navigation:** open the (1), toggle (1), select the (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -2642,7 +2644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from. (1), require (1)
+> **Frameworks & Libraries:** power (6), [[Forms]] (3), teams (3), [[Search]] (2), next (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** select the (2)
@@ -2654,7 +2656,7 @@ created: 2026-04-29
 
 ### 5. Collaboration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980)
@@ -2739,7 +2741,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (17), [[Microsoft Office|Office]] (5), cloud (2), [[Windows]] (1)
 > **Definitions:** is an  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** compare this to (1), for example (1)
@@ -2857,7 +2859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (1), new, (1), type. (1), continue (1)
+> **Frameworks & Libraries:** [[SharePoint]] (11), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), business (1)
 > **Analogies:** for example (3), imagine (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** scroll down (1), select the (1), click on (1)
@@ -2982,7 +2984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (2), private (1), from, (1), finally, (1)
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft]] (3), web (3), [[Privacy]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** select the (2)
@@ -3053,7 +3055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), public (1), private (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), game (1), [[SharePoint]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -3063,7 +3065,7 @@ created: 2026-04-29
 
 ### 6. Media Rich Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Publisher
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980)
@@ -3172,7 +3174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pub (2), let (1), this. (1), this, (1), export, (1)
+> **Frameworks & Libraries:** application (1), [[Newsletters]] (1), hit (1), next (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** select the (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -3280,7 +3282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), static (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Search]] (2), [[Newsletters]] (1), web (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Analogies:** just like (1), picture (1)
@@ -3349,15 +3351,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), this, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980)
@@ -3372,6 +3374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft]] (1), [[Microsoft Office]] (1)
 > **Speakers:** - [sharon] (1)
 
 

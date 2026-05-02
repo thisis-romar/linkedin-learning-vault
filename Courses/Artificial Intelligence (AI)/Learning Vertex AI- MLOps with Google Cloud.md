@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/vertex
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20Vertex%20AI-%20MLOps%20with%20Google%20Cloud.md)
@@ -52,38 +52,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learning Vertex AI
-  - What you should know
+  - [Learning Vertex AI](#learning-vertex-ai)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to MLOps**](#1-introduction-to-mlops) (4 videos)
-  - MLOps lifecycle: ML development
-  - MLOps lifecycle: Training
-  - MLOps lifecycle: Deployment
-  - Vertex AI walkthrough
+  - [MLOps lifecycle: ML development](#mlops-lifecycle-ml-development)
+  - [MLOps lifecycle: Training](#mlops-lifecycle-training)
+  - [MLOps lifecycle: Deployment](#mlops-lifecycle-deployment)
+  - [Vertex AI walkthrough](#vertex-ai-walkthrough)
 - [**2. Feature Engineering**](#2-feature-engineering) (2 videos)
-  - Vertex AI feature store
-  - Vertex AI data labeling
+  - [Vertex AI feature store](#vertex-ai-feature-store)
+  - [Vertex AI data labeling](#vertex-ai-data-labeling)
 - [**3. Training and Hyperparameter**](#3-training-and-hyperparameter) (4 videos)
-  - Vertex AI AutoML
-  - Vertex AI experiments
-  - Vertex AI model registry
-  - Vertex AI training
+  - [Vertex AI AutoML](#vertex-ai-automl)
+  - [Vertex AI experiments](#vertex-ai-experiments)
+  - [Vertex AI model registry](#vertex-ai-model-registry)
+  - [Vertex AI training](#vertex-ai-training)
 - [**4. Model Serving and Deployment**](#4-model-serving-and-deployment) (3 videos)
-  - Vertex AI prediction
-  - Vertex AI TensorBoard
-  - Vertex AI endpoints
+  - [Vertex AI prediction](#vertex-ai-prediction)
+  - [Vertex AI TensorBoard](#vertex-ai-tensorboard)
+  - [Vertex AI endpoints](#vertex-ai-endpoints)
 - [**5. Model Monitoring and Management**](#5-model-monitoring-and-management) (2 videos)
-  - Vertex AI model monitoring
-  - Vertex AI pipelines
+  - [Vertex AI model monitoring](#vertex-ai-model-monitoring)
+  - [Vertex AI pipelines](#vertex-ai-pipelines)
 - [**6. Deploy Your Project Using Vertex AI**](#6-deploy-your-project-using-vertex-ai) (2 videos)
-  - Challenge: Deploy a project
-  - Solution: Deploy a project
+  - [Challenge: Deploy a project](#challenge-deploy-a-project)
+  - [Solution: Deploy a project](#solution-deploy-a-project)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Vertex AI vs. other MLOps platforms
-  - What next?
+  - [Vertex AI vs. other MLOps platforms](#vertex-ai-vs-other-mlops-platforms)
+  - [What next?](#what-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Vertex AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Vertex]] (4), ai (4), [[MLOps]] (3), cloud (1), [[Feature Engineering]] (1)
 > **Speakers:** - [archana] (1)
 
 #### What you should know
@@ -128,6 +128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vertex]] (2), ai (2), cloud (2), [[Feature Engineering]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -135,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Introduction to MLOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MLOps lifecycle: ML development
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980)
@@ -214,7 +215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (13), [[MLOps]] (4), teams (2), [[Ethics]] (1), ai (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -278,9 +279,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Engineering]] (3), [[MLOps]] (1), [[E-Commerce]] (1), traffic (1)
 > **Analogies:** for example (3), imagine (2), such as (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -386,9 +387,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[MLOps]] (4), [[Continuous Monitoring]] (3), teams (2), [[Statistics]] (2)
 > **Definitions:** is a  (2), is called (1), is an  (1), known as (1)
 > **Analogies:** for example (2), such as (2), imagine (1)
-> **Code Keywords:** let (2), this, (1)
 > **Env Vars:** rest (1), api (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -481,8 +482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vertex]] (9), ai (9), data (6), [[MLOps]] (2), [[Google]] (2)
 > **Tools:** jupyter (3), gcp console (1)
-> **Code Keywords:** let (2), from. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** gcp (1), pdf (1)
@@ -492,7 +493,7 @@ created: 2026-04-29
 
 ### 2. Feature Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vertex AI feature store
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980)
@@ -615,7 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), finally, (1), type, (1), function (1)
+> **Frameworks & Libraries:** feature (29), data (14), [[Vertex]] (5), ai (5), next (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** csv (1), tfx (1)
 > **Analogies:** for example (2)
@@ -736,7 +737,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), continue (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** data (26), [[Vertex]] (5), ai (5), next (3), [[MLOps]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** pdf (1), cvat (1)
 > **Analogies:** such as (1), imagine (1)
@@ -748,7 +749,7 @@ created: 2026-04-29
 
 ### 3. Training and Hyperparameter
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vertex AI AutoML
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980)
@@ -887,7 +888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), finally, (1), require (1)
+> **Frameworks & Libraries:** data (12), [[Vertex]] (9), ai (9), next (2), cloud (2)
 > **Env Vars:** deploy (2), train (1), model (1), json (1)
 > **CLI Commands:** make (2), node (1), python (1)
 > **UI Navigation:** click on (1), navigate to (1), select the (1)
@@ -1015,7 +1016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2)
+> **Frameworks & Libraries:** [[Vertex]] (7), ai (7), data (6), teams (3), application (2)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), it's like (1), for instance (1)
@@ -1115,7 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), for, (1), finally, (1), super (1), module (1)
+> **Frameworks & Libraries:** [[Vertex]] (14), ai (14), data (10), [[MLOps]] (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** ram (1)
 > **UI Navigation:** go to (1)
@@ -1218,7 +1219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (3), default, (1), finally, (1), function (1)
+> **Frameworks & Libraries:** [[Vertex]] (11), ai (11), data (6), next (2), [[TensorFlow]] (1)
 > **Env Vars:** cpu (2), gpu (2), tpu (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), set up (1)
@@ -1230,7 +1231,7 @@ created: 2026-04-29
 
 ### 4. Model Serving and Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vertex AI prediction
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980)
@@ -1325,8 +1326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), application (4), [[Vertex]] (3), ai (3), [[Deep Learning]] (2)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (1), finally, (1), from, (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** api (1), gpu (1)
 > **UI Navigation:** navigate to (1)
@@ -1420,7 +1421,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), let (2), case. (1), for, (1), require (1)
+> **Frameworks & Libraries:** [[Vertex]] (8), ai (8), data (4), [[Real-Time]] (2), [[Debugging]] (2)
 > **Env Vars:** aip_tensorboard_log_dir (1), open (1), tensorboard (1), graphs (1)
 > **Analogies:** for instance (3), for example (1)
 > **CLI Commands:** make (3)
@@ -1526,7 +1527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (2), finally, (2)
+> **Frameworks & Libraries:** [[Vertex]] (10), ai (10), power (2), traffic (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), curl (1)
 > **Env Vars:** cpu (1), gpu (1), api (1)
 > **Definitions:** is a  (2)
@@ -1538,7 +1539,7 @@ created: 2026-04-29
 
 ### 5. Model Monitoring and Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vertex AI model monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980)
@@ -1679,7 +1680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2), require (1), raise (1), this, (1)
+> **Frameworks & Libraries:** data (15), feature (7), [[Vertex]] (4), ai (4), application (4)
 > **Prerequisites:** set up (6), configure (1), setup (1)
 > **Definitions:** is called (3), is an  (1)
 > **UI Navigation:** go to (1)
@@ -1783,7 +1784,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2)
+> **Frameworks & Libraries:** data (15), [[Vertex]] (6), ai (6), [[MLOps]] (3), next (3)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
@@ -1794,7 +1795,7 @@ created: 2026-04-29
 
 ### 6. Deploy Your Project Using Vertex AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Deploy a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980)
@@ -1833,7 +1834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** [[Vertex]] (7), ai (7), data (3), [[MLOps]] (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
@@ -1887,7 +1888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), finally, (1), for, (1)
+> **Frameworks & Libraries:** data (4), [[Vertex]] (2), ai (2), [[Engineering]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (3), docker (2)
 > **Env Vars:** csv (1)
 > **Best Practices:** make sure to (1)
@@ -1897,7 +1898,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vertex AI vs. other MLOps platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980)
@@ -1940,11 +1941,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vertex]] (9), ai (9), [[MLOps]] (3), data (3), cloud (3)
 > **Env Vars:** hipaa (1), soc2 (1), iso (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** automl (1)
 > **Speakers:** - [speaker] (1)
 
@@ -1981,6 +1982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (5), [[Vertex]] (1), ai (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [trainer] (1)
 
 

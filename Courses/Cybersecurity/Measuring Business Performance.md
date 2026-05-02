@@ -30,7 +30,7 @@ tags:
   - skill/performance-metrics
   - skill/business-metrics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Measuring%20Business%20Performance.md)
@@ -49,28 +49,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Measuring business performance
+  - [Measuring business performance](#measuring-business-performance)
 - [**1. Basics of Measuring Business Performance**](#1-basics-of-measuring-business-performance) (3 videos)
-  - Why companies measure
-  - Performance measurement terminology
-  - What should my company measure?
+  - [Why companies measure](#why-companies-measure)
+  - [Performance measurement terminology](#performance-measurement-terminology)
+  - [What should my company measure?](#what-should-my-company-measure)
 - [**2. Developing a Metric**](#2-developing-a-metric) (3 videos)
-  - Characteristic of a good metric
-  - Additional considerations in developing good metrics
-  - The four types of data analytics
+  - [Characteristic of a good metric](#characteristic-of-a-good-metric)
+  - [Additional considerations in developing good metrics](#additional-considerations-in-developing-good-metrics)
+  - [The four types of data analytics](#the-four-types-of-data-analytics)
 - [**3. Systems of Metrics**](#3-systems-of-metrics) (3 videos)
-  - Three categories of performance measurement
-  - Measuring performance with a map
-  - Evaluating a system of metrics
+  - [Three categories of performance measurement](#three-categories-of-performance-measurement)
+  - [Measuring performance with a map](#measuring-performance-with-a-map)
+  - [Evaluating a system of metrics](#evaluating-a-system-of-metrics)
 - [**4. Performance Measurement Tools**](#4-performance-measurement-tools) (2 videos)
-  - Using scorecards to measure and manage performance
-  - Dashboard and data considerations when measuring business performance
+  - [Using scorecards to measure and manage performance](#using-scorecards-to-measure-and-manage-performance)
+  - [Dashboard and data considerations when measuring business performance](#dashboard-and-data-considerations-when-measuring-business-performance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring business performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-business-performance?u=76281980)
@@ -109,13 +109,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (2), [[Performance Metrics]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - the (1)
 
 
 ### 1. Basics of Measuring Business Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why companies measure
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/why-companies-measure?u=76281980)
@@ -162,8 +163,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), game (1), business (1), career (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - let (1)
 
@@ -242,7 +243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (12), [[Analytics]] (7), management (3), game (3), business (2)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - are (1)
@@ -326,14 +327,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Statistics]] (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** case. (1)
 > **Speakers:** - managers (1)
 
 
 ### 2. Developing a Metric
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristic of a good metric
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/characteristic-of-a-good-metric?u=76281980)
@@ -448,9 +449,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), data (1), hit (1), strengths (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - a (1)
 
 #### Additional considerations in developing good metrics
@@ -520,8 +521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), strengths (2)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** this, (1), pass (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - developing (1)
@@ -601,16 +602,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (16), data (9), next (3), [[Predictive Analytics]] (2), business (2)
 > **CLI Commands:** make (2)
 > **Versions:** 3.4 (1), 4.8 (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
 
 ### 3. Systems of Metrics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Three categories of performance measurement
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/three-categories-of-performance-measurement?u=76281980)
@@ -709,8 +710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Statistics]] (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Env Vars:** nba (1)
 > **Analogies:** just like (1)
@@ -796,8 +797,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), management (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - have (1)
 
 #### Evaluating a system of metrics
@@ -855,8 +856,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), strengths (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -865,7 +866,7 @@ created: 2026-04-29
 
 ### 4. Performance Measurement Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using scorecards to measure and manage performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/using-scorecards-to-measure-and-manage-performance?u=76281980)
@@ -942,8 +943,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), self (1), finally, (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - organizations (1)
 
@@ -1020,6 +1021,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Dashboards]] (7), business (3), [[Analytics]] (2), power (1)
 > **Analogies:** imagine (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -1028,7 +1030,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/next-steps?u=76281980)
@@ -1059,6 +1061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Statistics]] (1), data (1), [[Analytics]] (1), [[Dashboards]] (1)
 > **Speakers:** - congratulations (1)
 
 

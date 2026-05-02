@@ -31,7 +31,7 @@ tags:
   - skill/data-engineering
   - skill/problem-solving
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Problem-Solving%20Strategies%20for%20Data%20Engineers.md)
@@ -50,37 +50,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction
-  - What you should know
+  - [Introduction](#introduction)
+  - [What you should know](#what-you-should-know)
 - [**1. Roles and Phases**](#1-roles-and-phases) (3 videos)
-  - The data engineer
-  - All important data engineering project phases
-  - General challenges faced
+  - [The data engineer](#the-data-engineer)
+  - [All important data engineering project phases](#all-important-data-engineering-project-phases)
+  - [General challenges faced](#general-challenges-faced)
 - [**2. Planning**](#2-planning) (3 videos)
-  - Understanding the status quo
-  - Collecting the right requirements
-  - Defining good KPIs
+  - [Understanding the status quo](#understanding-the-status-quo)
+  - [Collecting the right requirements](#collecting-the-right-requirements)
+  - [Defining good KPIs](#defining-good-kpis)
 - [**3. Design**](#3-design) (4 videos)
-  - Keeping implementation efforts in mind
-  - Choosing the right architecture and framework
-  - Predicting costs and scaling better
-  - The right benchmarking of existing tools
+  - [Keeping implementation efforts in mind](#keeping-implementation-efforts-in-mind)
+  - [Choosing the right architecture and framework](#choosing-the-right-architecture-and-framework)
+  - [Predicting costs and scaling better](#predicting-costs-and-scaling-better)
+  - [The right benchmarking of existing tools](#the-right-benchmarking-of-existing-tools)
 - [**4. Implementation**](#4-implementation) (4 videos)
-  - Definition of work packages and responsibilities
-  - Risk assessment
-  - Testing the right parts
-  - Having a good documentation
+  - [Definition of work packages and responsibilities](#definition-of-work-packages-and-responsibilities)
+  - [Risk assessment](#risk-assessment)
+  - [Testing the right parts](#testing-the-right-parts)
+  - [Having a good documentation](#having-a-good-documentation)
 - [**5. Operations**](#5-operations) (4 videos)
-  - Approaches to monitoring
-  - Approaches to bug fixing
-  - Awesome training of staff, current and new
-  - How to improve processes
+  - [Approaches to monitoring](#approaches-to-monitoring)
+  - [Approaches to bug fixing](#approaches-to-bug-fixing)
+  - [Awesome training of staff, current and new](#awesome-training-of-staff-current-and-new)
+  - [How to improve processes](#how-to-improve-processes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion and outlook
+  - [Conclusion and outlook](#conclusion-and-outlook)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/introduction?u=76281980)
@@ -103,8 +103,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (2), [[Engineering]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - data (1)
 
 #### What you should know
@@ -138,14 +138,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (3), [[Engineering]] (3), [[Data Engineering]] (2), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Roles and Phases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980)
@@ -244,7 +244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1), from, (1), interface (1), for. (1)
+> **Frameworks & Libraries:** data (43), [[Engineering]] (5), business (5), database (5), [[Databases]] (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** etl (1)
@@ -345,7 +345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1)
+> **Frameworks & Libraries:** data (2), business (2), next (1)
 > **Prerequisites:** you need to have (1), set up (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -502,8 +502,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), leadership (4), data (2), business (1)
 > **CLI Commands:** make (8), find (5)
-> **Code Keywords:** super (3), let (3), try. (1), raise (1), this, (1)
 > **Documentation:** specification (3)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -514,7 +514,7 @@ created: 2026-04-29
 
 ### 2. Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the status quo
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980)
@@ -591,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (3), this. (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Scalability]] (1), data (1), next (1)
 > **Speakers:** - let (1)
 
 #### Collecting the right requirements
@@ -763,7 +763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), super (2), case, (1)
+> **Frameworks & Libraries:** data (29), database (9), [[Scalability]] (3), [[Privacy]] (3), business (2)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** for instance (6)
 > **Env Vars:** kpi (3)
@@ -892,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), super (1)
+> **Frameworks & Libraries:** next (3), database (1)
 > **Env Vars:** kpi (6)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
@@ -903,7 +903,7 @@ created: 2026-04-29
 
 ### 3. Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping implementation efforts in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980)
@@ -1026,7 +1026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (11), for. (1), let (1)
+> **Frameworks & Libraries:** database (3), [[Apache Spark]] (2), data (2), [[NoSQL]] (2), [[Data Engineering]] (1)
 > **CLI Commands:** apache (2), find (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -1120,7 +1120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (5), let (4), this. (2), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), gcp (3), cloud (2), [[Microsoft Azure|Azure]] (2), [[Google]] (2)
 > **Env Vars:** gcp (3), aws (1), gdpr (1)
 > **CLI Commands:** make (2), find (1), aws (1)
 > **Cross-References:** in the last (1)
@@ -1232,7 +1232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (3), this, (2), super (1), self (1)
+> **Frameworks & Libraries:** [[IaaS|Infrastructure as a service]] (9), data (8), [[SaaS|Software as a service]] (6), cloud (4), aws (3)
 > **CLI Commands:** make (4), aws (3), apache (2)
 > **Env Vars:** aws (3), cpu (1), ram (1), gpu (1), hdd (1)
 > **Analogies:** for instance (5)
@@ -1408,7 +1408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (9), let (6), case, (2), function (2), this, (2)
+> **Frameworks & Libraries:** data (16), database (5), [[Apache Spark]] (2), [[Java]] (2), [[Security]] (2)
 > **CLI Commands:** apache (2), python (1), aws (1)
 > **Analogies:** for instance (3), compare this to (1)
 > **Env Vars:** aws (1), gcp (1)
@@ -1419,7 +1419,7 @@ created: 2026-04-29
 
 ### 4. Implementation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Definition of work packages and responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980)
@@ -1490,7 +1490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), super (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Microsoft Azure|Azure]] (3), [[DevOps]] (3), [[Scrum]] (1), next (1)
 > **Cross-References:** coming up (1), later in (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -1663,7 +1663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (2), super (1), else, (1), case. (1)
+> **Frameworks & Libraries:** data (26), database (12), next (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1858,7 +1858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (6), super (3), let (2), case. (2)
+> **Frameworks & Libraries:** data (27), functional (3), [[Python (Programming Language)|Python]] (1), database (1), [[Security]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** in the next (1)
@@ -2062,7 +2062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (10), let (3), function (3), this, (2), this. (1)
+> **Frameworks & Libraries:** data (20), [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), technical solution (1)
 > **Documentation:** the documentation (4), specification (1)
 > **CLI Commands:** python (2), find (1)
 > **Exercise Files:** source code (3)
@@ -2074,7 +2074,7 @@ created: 2026-04-29
 
 ### 5. Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Approaches to monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980)
@@ -2255,7 +2255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), super (6), this. (4), throw (3), this, (1)
+> **Frameworks & Libraries:** data (14), [[Statistics]] (2), [[Slack]] (2), leadership (2), [[Automation]] (1)
 > **Env Vars:** cpu (1), ram (1), sms (1)
 > **Warnings:** warning (3)
 > **Cross-References:** we talked about (1), coming up (1)
@@ -2389,7 +2389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (4), from, (1), case, (1)
+> **Frameworks & Libraries:** data (27), [[Debugging]] (6), [[Elasticsearch]] (3), next (2), etl (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** etl (1)
@@ -2477,7 +2477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), this, (1)
+> **Frameworks & Libraries:** [[System Architecture]] (1), [[Configuration Management]] (1), database (1), [[Security]] (1)
 > **Documentation:** the documentation (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1)
@@ -2544,7 +2544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (7), [[Automation]] (4), [[Scalability]] (2), [[Privacy]] (2), [[Security]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** cicd (1)
 > **Versions:** 0.5 (1)
@@ -2554,7 +2554,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion and outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980)
@@ -2575,6 +2575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[LinkedIn]] (2), [[Data Engineering]] (2), [[Engineering]] (1), [[Neo4j]] (1)
 > **URLs:** [learndataengineering.com](https://learndataengineering.com) (1)
 > **Speakers:** - alright (1)
 

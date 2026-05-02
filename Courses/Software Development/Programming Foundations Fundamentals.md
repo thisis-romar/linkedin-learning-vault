@@ -38,7 +38,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md)
@@ -57,57 +57,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The fundamentals of programming
-  - Following along with the course
+  - [The fundamentals of programming](#the-fundamentals-of-programming)
+  - [Following along with the course](#following-along-with-the-course)
 - [**1. Programming Basics**](#1-programming-basics) (5 videos)
-  - What is programming?
-  - What is a programming language?
-  - Writing source code
-  - Running your code
-  - Using an IDE
+  - [What is programming?](#what-is-programming)
+  - [What is a programming language?](#what-is-a-programming-language)
+  - [Writing source code](#writing-source-code)
+  - [Running your code](#running-your-code)
+  - [Using an IDE](#using-an-ide)
 - [**2. Programming Syntax**](#2-programming-syntax) (10 videos)
-  - Why Python?
-  - Installing Python on a Mac
-  - Installing Python on Windows
-  - Running Python on the command line on Mac
-  - Running Python on the command line on Windows
-  - Installing Visual Studio Code on a Mac
-  - Installing Visual Studio Code on Windows
-  - Running Python in an IDE
-  - Basic statements and expressions
-  - Troubleshooting issues
+  - [Why Python?](#why-python)
+  - [Installing Python on a Mac](#installing-python-on-a-mac)
+  - [Installing Python on Windows](#installing-python-on-windows)
+  - [Running Python on the command line on Mac](#running-python-on-the-command-line-on-mac)
+  - [Running Python on the command line on Windows](#running-python-on-the-command-line-on-windows)
+  - [Installing Visual Studio Code on a Mac](#installing-visual-studio-code-on-a-mac)
+  - [Installing Visual Studio Code on Windows](#installing-visual-studio-code-on-windows)
+  - [Running Python in an IDE](#running-python-in-an-ide)
+  - [Basic statements and expressions](#basic-statements-and-expressions)
+  - [Troubleshooting issues](#troubleshooting-issues)
 - [**3. Variables and Data Types**](#3-variables-and-data-types) (8 videos)
-  - Introduction to variables and data types
-  - Variables across languages
-  - Working with numbers
-  - Working with strings
-  - Properly using whitespace
-  - Working with comments
-  - Challenge: What's the output?
-  - Solution: What's the output?
+  - [Introduction to variables and data types](#introduction-to-variables-and-data-types)
+  - [Variables across languages](#variables-across-languages)
+  - [Working with numbers](#working-with-numbers)
+  - [Working with strings](#working-with-strings)
+  - [Properly using whitespace](#properly-using-whitespace)
+  - [Working with comments](#working-with-comments)
+  - [Challenge: What's the output?](#challenge-whats-the-output)
+  - [Solution: What's the output?](#solution-whats-the-output)
 - [**4. Conditional Code**](#4-conditional-code) (6 videos)
-  - Making decisions in code
-  - Exploring conditional code
-  - Working with simple conditions
-  - Conditionals across languages
-  - Challenge: Guessing game
-  - Solution: Guessing game
+  - [Making decisions in code](#making-decisions-in-code)
+  - [Exploring conditional code](#exploring-conditional-code)
+  - [Working with simple conditions](#working-with-simple-conditions)
+  - [Conditionals across languages](#conditionals-across-languages)
+  - [Challenge: Guessing game](#challenge-guessing-game)
+  - [Solution: Guessing game](#solution-guessing-game)
 - [**5. Modular Code**](#5-modular-code) (7 videos)
-  - Introduction to functions
-  - Creating and calling functions
-  - Setting parameters and arguments
-  - Returning values from functions
-  - Functions across languages
-  - Challenge: Favorite cities
-  - Solution: Favorite cities
+  - [Introduction to functions](#introduction-to-functions)
+  - [Creating and calling functions](#creating-and-calling-functions)
+  - [Setting parameters and arguments](#setting-parameters-and-arguments)
+  - [Returning values from functions](#returning-values-from-functions)
+  - [Functions across languages](#functions-across-languages)
+  - [Challenge: Favorite cities](#challenge-favorite-cities)
+  - [Solution: Favorite cities](#solution-favorite-cities)
 - [**Glossaries**](#glossaries) (0 videos)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Exploring languages
-  - Next steps
+  - [Exploring languages](#exploring-languages)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The fundamentals of programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?u=76281980)
@@ -130,6 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), career (1), [[LinkedIn]] (1)
 > **Env Vars:** stem (1)
 > **Speakers:** - now (1)
 
@@ -174,6 +175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Exercise Files:** exercise files (3)
 > **Analogies:** for example (1)
@@ -184,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Programming Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-programming?u=76281980)
@@ -249,9 +251,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (6), product (1)
 > **Analogies:** just like (3), picture (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - what (1)
 
@@ -338,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Programming]] (7), [[JavaScript]] (3), [[Python (Programming Language)|Python]] (1), strengths (1)
 > **Env Vars:** dna (2)
 > **Tools:** atom (2)
 > **Analogies:** just like (1), imagine (1)
@@ -441,7 +443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (3), this. (1), default. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (2), [[Microsoft Word|Word]] (1), [[Zoom]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Exercise Files:** source code (5)
 > **Definitions:** in other words (1), means that (1), is a  (1)
@@ -502,10 +504,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), [[Security]] (1), [[PHP]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (3), php (1)
 > **Exercise Files:** source code (4)
 > **Definitions:** known as (2), is an  (1), is a  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** php (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - if (1)
@@ -587,10 +589,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (4), [[Google]] (2), application (2), [[Android]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ide (6)
 > **CLI Commands:** find (2), ruby (2), python (1)
 > **Definitions:** is an  (1), known as (1), is a  (1), is called (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Tools:** visual studio (2), vs code (1)
 > **Code Identifiers:** iphone (1), ipad (1)
 > **Exercise Files:** source code (2)
@@ -599,7 +601,7 @@ created: 2026-04-29
 
 ### 2. Programming Syntax
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Python?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980)
@@ -652,8 +654,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[JavaScript]] (4), web (2), [[Programming]] (1), [[Java]] (1)
 > **CLI Commands:** python (10)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### Installing Python on a Mac
@@ -747,8 +749,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (22), [[Windows]] (2), [[Programming]] (2), next (1), application (1)
 > **CLI Commands:** python (22), make (1)
-> **Code Keywords:** let (9), case, (1), continue (1)
 > **Tools:** terminal (7)
 > **UI Navigation:** go to (2), click on (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -791,9 +793,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Windows]] (1), prompt (1), [[Troubleshooting]] (1)
 > **CLI Commands:** python (10), make (1)
 > **UI Navigation:** go to (2), click on (2), checkbox (1)
-> **Code Keywords:** let (2), this, (1)
 > **Prerequisites:** install (2), setup (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Speakers:** - to (1)
@@ -883,8 +885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), prompt (3), [[Programming]] (2), cd (1), hit (1)
 > **CLI Commands:** python (12), make (2), cd (1), ls (1)
-> **Code Keywords:** let (8), case, (1)
 > **Tools:** command line (4), terminal (1)
 > **Definitions:** refers to (1), is a  (1), short for (1)
 > **Analogies:** just like (1), for example (1)
@@ -995,9 +997,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), prompt (5), hit (4), [[Programming]] (3), [[Windows]] (2)
 > **CLI Commands:** python (15), make (1), cd (1), find (1)
 > **Tools:** command line (3), command prompt (2), terminal (1)
-> **Code Keywords:** let (4), case, (1)
 > **File Paths:** 01_03.py (3)
 > **UI Navigation:** dropdown (1), navigate to (1)
 > **Exercise Files:** exercise files (2)
@@ -1093,9 +1095,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Debugging]] (2), cross-platform (1), [[Windows]] (1), next (1)
 > **Tools:** visual studio (6), vs code (4)
 > **CLI Commands:** python (7)
-> **Code Keywords:** interface (2), let (2), continue (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Prerequisites:** install (3), setup (1)
 > **Env Vars:** ide (3)
@@ -1173,8 +1175,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), next (4), [[Windows]] (1), [[Debugging]] (1)
 > **CLI Commands:** python (9), make (3), find (1)
-> **Code Keywords:** let (7), finally, (1), interface (1)
 > **Tools:** vs code (3), visual studio (2)
 > **UI Navigation:** click on (3), go to (1), dropdown (1)
 > **Env Vars:** ide (2)
@@ -1271,9 +1273,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Metadata]] (1), [[Microsoft Word|Word]] (1), [[Programming]] (1), hit (1)
 > **CLI Commands:** python (10), find (1)
 > **Tools:** vs code (4), terminal (3), command line (1)
-> **Code Keywords:** let (7)
 > **UI Navigation:** right-click (2), click on (1), open the (1), go to (1)
 > **Analogies:** for example (4)
 > **Exercise Files:** exercise files (3)
@@ -1363,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Programming]] (4)
 > **Definitions:** known as (2), stands for (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pemdas (1)
@@ -1465,8 +1467,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (2), hit (2)
 > **CLI Commands:** python (4), find (2), make (1)
-> **Code Keywords:** let (4)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** it's best to (2)
@@ -1477,7 +1479,7 @@ created: 2026-04-29
 
 ### 3. Variables and Data Types
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to variables and data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980)
@@ -1560,8 +1562,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (3), game (1), [[Banking]] (1), application (1)
 > **Definitions:** is called (3), short for (2), means that (1), is an  (1), is a  (1)
-> **Code Keywords:** let (2), class. (1), function (1)
 > **CLI Commands:** python (3)
 > **Env Vars:** int (1), str (1)
 > **URLs:** [example.com](https://example.com) (1)
@@ -1645,8 +1647,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (3), [[Java]] (3), data (1)
 > **CLI Commands:** python (7), make (1)
-> **Code Keywords:** type. (2), require (1), let (1), type, (1), finally, (1)
 > **Analogies:** for example (2), compare this to (1), for instance (1)
 > **Code Identifiers:** account_balance (1)
 > **Definitions:** is a  (1)
@@ -1783,7 +1785,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), for. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Programming]] (3), hit (2), game (1), prompt (1)
 > **CLI Commands:** python (10)
 > **Versions:** 0.2 (4), 0.3 (4), 0.5 (1)
 > **Tools:** command line (2)
@@ -1848,7 +1850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (2)
 > **CLI Commands:** python (5)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1958,7 +1960,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (2), delete (2), if. (2), type, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), hit (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (9), find (1), make (1)
 > **Tools:** terminal (3)
 > **Analogies:** just like (2), kind of like (1)
@@ -2055,7 +2057,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), self (1), continue (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), hit (1), [[Debugging Code]] (1)
 > **UI Navigation:** right-click (2), go to (2)
 > **CLI Commands:** python (3)
 > **Tools:** terminal (3)
@@ -2087,8 +2089,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1), make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - all (1)
 > **Non-Speech:** (digital pulsing music) (1)
@@ -2190,8 +2192,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), next (6), power (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **CLI Commands:** python (7)
-> **Code Keywords:** let (6), finally, (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
@@ -2202,7 +2204,7 @@ created: 2026-04-29
 
 ### 4. Conditional Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making decisions in code
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/making-decisions-in-code?u=76281980)
@@ -2359,7 +2361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), hit (4)
 > **CLI Commands:** python (4)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is called (1)
@@ -2480,7 +2482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), if, (2), if. (2), from, (1), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Word|Word]] (2), next (2), [[Programming]] (1)
 > **CLI Commands:** python (7), make (2)
 > **Tools:** vs code (1), terminal (1)
 > **Env Vars:** ide (1)
@@ -2578,7 +2580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1), else. (1)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Analogies:** similar to (1), just like (1), for example (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -2634,8 +2636,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Python (Programming Language)|Python]] (3), [[Java]] (2), next (1)
 > **CLI Commands:** ruby (4), python (3)
-> **Code Keywords:** if, (1), if. (1), let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - by (1)
 
@@ -2678,9 +2680,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** this. (1)
 > **Env Vars:** ide (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - hi (1)
@@ -2741,7 +2743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Programming]] (2), game (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** terminal (1)
 > **Speakers:** - welcome (1)
@@ -2750,7 +2752,7 @@ created: 2026-04-29
 
 ### 5. Modular Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-functions?u=76281980)
@@ -2859,7 +2861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (5), delete (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), feature (1), [[Programming]] (1), next (1)
 > **CLI Commands:** make (2), python (2)
 > **Analogies:** imagine (2)
 > **Cross-References:** go back to (1)
@@ -2966,7 +2968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (16), let (6), default, (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (3), hit (3)
 > **CLI Commands:** python (4), make (1)
 > **Code Identifiers:** say_hello (5)
 > **Analogies:** just like (1), for example (1), similar to (1)
@@ -3068,7 +3070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), function (13), if. (2), this, (1)
+> **Frameworks & Libraries:** [[Programming]] (2), [[Python (Programming Language)|Python]] (2), next (1)
 > **Code Identifiers:** amount_paid (3), wash_car (1)
 > **CLI Commands:** python (2), make (1)
 > **Tools:** vs code (1), terminal (1)
@@ -3178,7 +3180,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (6), finally, (1), pass (1), return. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), hit (1), next (1), [[Programming]] (1), power (1)
 > **CLI Commands:** make (9), python (2)
 > **Analogies:** kind of like (1), just like (1)
 > **Cross-References:** later in (1)
@@ -3272,7 +3274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (3), finally, (1), type. (1), case, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Java]] (3), [[Programming]] (3), next (2), [[JavaScript]] (2)
 > **CLI Commands:** python (5), find (2), ruby (1)
 > **Analogies:** just like (3), similar to (2)
 > **Definitions:** means that (1)
@@ -3303,7 +3305,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), catch, (1)
 > **Code Identifiers:** favorite_city (3)
 > **Best Practices:** remember to (1)
 > **Speakers:** - what (1)
@@ -3360,7 +3361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3368,12 +3369,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980)
@@ -3486,7 +3487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5), finally, (1), class. (1), continue (1)
+> **Frameworks & Libraries:** [[Java]] (9), [[Programming]] (8), [[Python (Programming Language)|Python]] (5), [[JavaScript]] (2), web (2)
 > **CLI Commands:** python (5), make (2), ruby (1)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** ios (1)
@@ -3537,6 +3538,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[Python (Programming Language)|Python]] (1), [[Search]] (1)
 > **Exercise Files:** source code (1), exercise files (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - we (1)

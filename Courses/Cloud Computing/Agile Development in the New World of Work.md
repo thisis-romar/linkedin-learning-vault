@@ -22,7 +22,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Agile%20Development%20in%20the%20New%20World%20of%20Work.md)
@@ -41,24 +41,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Agile to the rescue
+  - [Agile to the rescue](#agile-to-the-rescue)
 - [**1. Agile Basics**](#1-agile-basics) (1 videos)
-  - Core agile framework
+  - [Core agile framework](#core-agile-framework)
 - [**2. Making Work Flow**](#2-making-work-flow) (8 videos)
-  - Build a team backlog
-  - Planning
-  - Daily stand up
-  - Review
-  - Retrospective
-  - Shortest job first
-  - Weighted shortest job first
-  - Objective and key results
+  - [Build a team backlog](#build-a-team-backlog)
+  - [Planning](#planning)
+  - [Daily stand up](#daily-stand-up)
+  - [Review](#review)
+  - [Retrospective](#retrospective)
+  - [Shortest job first](#shortest-job-first)
+  - [Weighted shortest job first](#weighted-shortest-job-first)
+  - [Objective and key results](#objective-and-key-results)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Agile team work
+  - [Agile team work](#agile-team-work)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile to the rescue
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980)
@@ -91,13 +91,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (2), [[Software Development]] (1), next (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - we (1)
 
 
 ### 1. Agile Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Core agile framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980)
@@ -156,7 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), [[Scrum]] (5), next (3), teams (2), mobile application (1)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -165,7 +166,7 @@ created: 2026-04-29
 
 ### 2. Making Work Flow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a team backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/build-a-team-backlog?u=76281980)
@@ -220,6 +221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), mobile application (1), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
@@ -270,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (3), next (2), management (1)
 > **Definitions:** known as (2), is a  (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - okay (1)
@@ -315,7 +317,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), teams (1), next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
@@ -354,8 +356,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), [[Agile Development|Agile]] (2), mobile application (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** raise (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
@@ -406,6 +408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), next (3), [[Scrum]] (2), [[Programming]] (1), feature (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
@@ -469,8 +472,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), teams (1), [[React.js|React]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), continue (1), case, (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** general rule (1)
 > **Speakers:** - you (1)
@@ -532,9 +535,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), teams (1), [[Agile Development|Agile]] (1), mobile application (1), next (1)
 > **Env Vars:** wsjf (5)
 > **Definitions:** known as (2), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - let (1)
 
 #### Objective and key results
@@ -590,6 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Security]] (2), [[Agile Development|Agile]] (1), teams (1), application (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
@@ -597,7 +601,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile team work
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980)
@@ -634,8 +638,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (12), [[Scrum]] (3), ai (2), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - thank (1)
 
 

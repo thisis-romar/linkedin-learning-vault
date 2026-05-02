@@ -48,7 +48,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-%20Introduction%20to%20Large%20Language%20Models.md)
@@ -67,32 +67,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Generative AI with large language models
+  - [Generative AI with large language models](#generative-ai-with-large-language-models)
 - [**1. Large Language Models**](#1-large-language-models) (5 videos)
-  - What is generative AI?
-  - What is a large language model?
-  - Why are large language models so powerful?
-  - Types of large language models
-  - The evolution of large language models
+  - [What is generative AI?](#what-is-generative-ai)
+  - [What is a large language model?](#what-is-a-large-language-model)
+  - [Why are large language models so powerful?](#why-are-large-language-models-so-powerful)
+  - [Types of large language models](#types-of-large-language-models)
+  - [The evolution of large language models](#the-evolution-of-large-language-models)
 - [**2. Neural Networks and Language Models**](#2-neural-networks-and-language-models) (3 videos)
-  - What is a neural network?
-  - How do neural networks learn?
-  - Deep learning and its significance
+  - [What is a neural network?](#what-is-a-neural-network)
+  - [How do neural networks learn?](#how-do-neural-networks-learn)
+  - [Deep learning and its significance](#deep-learning-and-its-significance)
 - [**3. Building Blocks of Large Language Models**](#3-building-blocks-of-large-language-models) (4 videos)
-  - The transformer architecture
-  - What is an encoder-decoder?
-  - The attention mechanism
-  - How does self-attention work?
+  - [The transformer architecture](#the-transformer-architecture)
+  - [What is an encoder-decoder?](#what-is-an-encoder-decoder)
+  - [The attention mechanism](#the-attention-mechanism)
+  - [How does self-attention work?](#how-does-self-attention-work)
 - [**4. Societal Implications of Large Language Models**](#4-societal-implications-of-large-language-models) (3 videos)
-  - Common applications of large language models
-  - Challenges with large language models
-  - The future of large language models
+  - [Common applications of large language models](#common-applications-of-large-language-models)
+  - [Challenges with large language models](#challenges-with-large-language-models)
+  - [The future of large language models](#the-future-of-large-language-models)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI with large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980)
@@ -117,13 +117,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), data (1), [[Large Language Models (LLM)|Large language models]] (1), ai (1)
 > **Speakers:** - [fred] (1)
 
 
 ### 1. Large Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980)
@@ -216,9 +216,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Generative AI]] (7), data (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (4)
 > **Analogies:** such as (4), imagine (3), similar to (1)
 > **Definitions:** is a  (4), known as (1)
-> **Code Keywords:** let (2), public (1), while, (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -301,10 +301,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (7), llm (6), [[Large Language Models (LLM)|Large language models]] (5), power (1), [[ChatGPT]] (1)
 > **Env Vars:** llm (6), gpt (1), nvidia (1), bloom (1)
 > **Analogies:** for example (2), for instance (2), such as (2)
 > **Definitions:** known as (2), is a  (2), is an  (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Why are large language models so powerful?
@@ -354,9 +354,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Large Language Models (LLM)|Large language models]] (5), [[Google]] (2), llm (2), [[Neural Networks]] (1)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** public (2)
 > **Env Vars:** llm (2)
 > **Cross-References:** previous video (1), later in (1)
 > **Tools:** github (1)
@@ -457,8 +457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), generic (6), [[Large Language Models (LLM)|Large language models]] (5), prompt (2), [[Search]] (1)
 > **Definitions:** known as (4)
-> **Code Keywords:** public (1), require (1), static (1)
 > **Analogies:** such as (3)
 > **Env Vars:** gpt (2)
 > **Speakers:** - [instructor] (1)
@@ -584,9 +584,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Large Language Models (LLM)|Large language models]] (5), [[Google]] (3), [[GPT-4]] (3), power (2)
 > **Env Vars:** gpt (9), nlp (2), bert (2), ibm (1), mit (1)
 > **Versions:** 4.1 (2), 4.5 (2), 2.5 (1), v3.2 (1)
-> **Code Keywords:** continue (2), self (1), public (1)
 > **Analogies:** such as (3)
 > **Definitions:** known as (2)
 > **Code Identifiers:** corenlp (1)
@@ -595,7 +595,7 @@ created: 2026-04-29
 
 ### 2. Neural Networks and Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a neural network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980)
@@ -688,7 +688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (2), this. (1), for. (1)
+> **Frameworks & Libraries:** data (6), [[Artificial Neural Networks]] (2), node (2), [[Neural Networks]] (2), parallel (1)
 > **Definitions:** is a  (3), known as (2)
 > **CLI Commands:** node (2), make (1)
 > **Versions:** 0.4 (3)
@@ -754,7 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1), pass (1), this, (1)
+> **Frameworks & Libraries:** data (3), [[Artificial Neural Networks]] (1), [[Neural Networks]] (1), next (1)
 > **Definitions:** known as (2), is a  (2), means that (1)
 > **Analogies:** similar to (1), just like (1), such as (1)
 > **Versions:** 0.622 (2)
@@ -879,18 +879,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (14), data (8), [[Neural Networks]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), node (2)
 > **Definitions:** known as (11), is a  (4), means that (2), refers to (1)
 > **Env Vars:** rnn (3), lstm (1), gru (1), gan (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** node (2), make (1)
-> **Code Keywords:** pass (1), continue (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Building Blocks of Large Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The transformer architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980)
@@ -983,7 +983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (2), this, (2), function (2), abstract (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), next (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), feature (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (3), known as (2), is called (1)
 > **Cross-References:** in the next (4), later in (1)
 > **Analogies:** for example (2), imagine (1)
@@ -1099,7 +1099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), abstract (1), this. (1), this, (1), self (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), next (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), data (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is a  (3), known as (2), means that (1), is an  (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (3)
@@ -1173,7 +1173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (9), let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), prompt (2), data (1), [[Deep Learning]] (1), next (1)
 > **CLI Commands:** cat (8)
 > **Definitions:** refers to (4), known as (3), is a  (1)
 > **Analogies:** similar to (3)
@@ -1299,7 +1299,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (10), let (2), function (2), match, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), product (4), feature (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), prompt (1)
 > **CLI Commands:** cat (5), make (2), find (2)
 > **Definitions:** is a  (3), refers to (1), is an  (1), known as (1)
 > **Versions:** 2.1 (1), 0.4 (1), 1.8 (1), 3.5 (1)
@@ -1311,7 +1311,7 @@ created: 2026-04-29
 
 ### 4. Societal Implications of Large Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common applications of large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980)
@@ -1418,11 +1418,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (14), data (4), [[Search]] (3), application (2), product (2)
 > **Env Vars:** llm (2), php (1)
 > **CLI Commands:** python (1), php (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** continue (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1523,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), this, (1), raise (1), private (1)
+> **Frameworks & Libraries:** data (17), [[Large Language Models (LLM)|Large language models]] (13), ai (11), [[ChatGPT]] (3), [[Privacy]] (3)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Env Vars:** llm (2), gpt (1)
 > **CLI Commands:** make (1), find (1)
@@ -1593,6 +1593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Large Language Models (LLM)|Large language models]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Content Creation]] (1), [[Programming]] (1)
 > **Env Vars:** llms (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1600,7 +1601,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980)
@@ -1641,8 +1642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (8), [[Generative AI]] (7), next (3), ai (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
-> **Code Keywords:** finally, (1), yield (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [frederick] (1)
 

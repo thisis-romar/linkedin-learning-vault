@@ -39,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20Build%20an%20AI%20Chatbot%20with%20GPT-4o%20and%20Next.js.md)
@@ -58,35 +58,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Build an AI chatbot
-  - What you should know
-  - What we'll be building
+  - [Build an AI chatbot](#build-an-ai-chatbot)
+  - [What you should know](#what-you-should-know)
+  - [What we'll be building](#what-well-be-building)
 - [**1. Project Setup and Foundation**](#1-project-setup-and-foundation) (3 videos)
-  - Getting your environment and Codespaces set up
-  - Setting up the Next.js project
-  - Setting up styling
+  - [Getting your environment and Codespaces set up](#getting-your-environment-and-codespaces-set-up)
+  - [Setting up the Next.js project](#setting-up-the-nextjs-project)
+  - [Setting up styling](#setting-up-styling)
 - [**2. Integrating the Vercel AI SDK**](#2-integrating-the-vercel-ai-sdk) (3 videos)
-  - Setting up Vercel AI SDK and GitHub models
-  - Creating a test AI route
-  - Implement the AI chat route
+  - [Setting up Vercel AI SDK and GitHub models](#setting-up-vercel-ai-sdk-and-github-models)
+  - [Creating a test AI route](#creating-a-test-ai-route)
+  - [Implement the AI chat route](#implement-the-ai-chat-route)
 - [**3. Setting Up the Client-Side Database**](#3-setting-up-the-client-side-database) (3 videos)
-  - Understanding IndexedDB
-  - Setting up the database with Dexie.js
-  - Saving and retrieving data from the database
+  - [Understanding IndexedDB](#understanding-indexeddb)
+  - [Setting up the database with Dexie.js](#setting-up-the-database-with-dexiejs)
+  - [Saving and retrieving data from the database](#saving-and-retrieving-data-from-the-database)
 - [**4. Building the Chat Interface and Logic**](#4-building-the-chat-interface-and-logic) (4 videos)
-  - Building the ChatThread component
-  - Setting up the chat logic and state management
-  - Building the chat interface and user interactions
-  - Building the chat sidebar component
+  - [Building the ChatThread component](#building-the-chatthread-component)
+  - [Setting up the chat logic and state management](#setting-up-the-chat-logic-and-state-management)
+  - [Building the chat interface and user interactions](#building-the-chat-interface-and-user-interactions)
+  - [Building the chat sidebar component](#building-the-chat-sidebar-component)
 - [**5. Implementing Chat Title Generation**](#5-implementing-chat-title-generation) (2 videos)
-  - Creating the chat title generation API
-  - Integrating chat title generation in the UI
+  - [Creating the chat title generation API](#creating-the-chat-title-generation-api)
+  - [Integrating chat title generation in the UI](#integrating-chat-title-generation-in-the-ui)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Testing features and course conclusion
+  - [Testing features and course conclusion](#testing-features-and-course-conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build an AI chatbot
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980)
@@ -111,8 +111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[User Experience (UX)|User experience]] (1), functional (1), chatbot (1), [[Next.js]] (1)
 > **File Paths:** next.js (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sdk (1)
 > **Speakers:** - [ebenezer] (1)
 
@@ -157,11 +157,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), ai (2), [[GitHub]] (2), [[JavaScript]] (1), [[React.js|React]] (1)
 > **Env Vars:** api (3), stk (1)
 > **Tools:** github (2), vs code (1)
 > **Prerequisites:** you need to have (1), you'll need (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Versions:** version 18 (1)
 > **Speakers:** - [instructor] (1)
@@ -227,7 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), switch (1), delete (1)
+> **Frameworks & Libraries:** ai (4), [[React.js|React]] (4), hit (2), [[Real-Time]] (1), feature (1)
 > **UI Navigation:** open the (1), in the sidebar (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sdk (1)
@@ -239,7 +239,7 @@ created: 2026-04-29
 
 ### 1. Project Setup and Foundation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting your environment and Codespaces set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/getting-your-environment-and-codespaces-setup?u=76281980)
@@ -286,11 +286,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), ai (1), node (1)
 > **Tools:** github (3)
 > **Definitions:** stands for (2)
 > **Prerequisites:** before we start (1), you'll need (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** let (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Env Vars:** lts (1)
 > **Exercise Files:** download the (1)
@@ -406,8 +406,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Next.js]] (10), [[React.js|React]] (5), [[React Hooks]] (3), [[Codespaces]] (2)
 > **File Paths:** next.js (10), globals.css (1), layout.js (1), page.js (1)
-> **Code Keywords:** let (7), finally, (2), this, (1), interface (1)
 > **Tools:** terminal (7), vs code (1)
 > **Env Vars:** src (4), sdk (1), api (1), css (1)
 > **Prerequisites:** install (2), setup (2), before we start (1)
@@ -448,9 +448,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), application (3), ai (2), [[GitHub]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (5)
 > **File Paths:** page.css (2), sidebar.css (2)
-> **Code Keywords:** interface (3), let (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **UI Navigation:** in the sidebar (1)
@@ -460,7 +460,7 @@ created: 2026-04-29
 
 ### 2. Integrating the Vercel AI SDK
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Vercel AI SDK and GitHub models
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980)
@@ -509,10 +509,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[GitHub]] (6), next (3), [[Tokens]] (3), api (2)
 > **Env Vars:** sdk (4), api (2)
 > **Tools:** github (6)
 > **Prerequisites:** set up (1), setup (1)
-> **Code Keywords:** module (1)
 > **Exercise Files:** boilerplate (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - we (1)
@@ -656,7 +656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (6), const (3), delete (1), async (1)
+> **Frameworks & Libraries:** ai (16), api (7), next (5), [[JSON]] (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** api (4), github_token (2), sdk (2), json (1)
 > **Code Identifiers:** createopenai (4), generatetext (3), baseurl (1)
 > **File Paths:** nextresponse.json (2), route.js (1), next.js (1), process.env (1)
@@ -744,7 +744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (6), const (3), await (1), pass (1)
+> **Frameworks & Libraries:** ai (11), api (5), next (2), [[Tokens]] (1), [[JSON]] (1)
 > **Code Identifiers:** streamtext (4), smoothstream (4), todatastream (2), createopenai (1), maxduration (1)
 > **Env Vars:** api (5), github_token (1)
 > **File Paths:** route.js (1), req.json (1), process.env (1)
@@ -756,7 +756,7 @@ created: 2026-04-29
 
 ### 3. Setting Up the Client-Side Database
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding IndexedDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/understanding-indexeddb?u=76281980)
@@ -809,7 +809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (1)
+> **Frameworks & Libraries:** data (8), database (4), application (2), web (2), api (2)
 > **File Paths:** dexie.js (2)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
@@ -868,8 +868,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), application (1), next (1), ai (1)
 > **Code Identifiers:** createdat (3), chatapp (2), chatid (2)
-> **Code Keywords:** let (3), module (1), const (1), this, (1)
 > **File Paths:** db.js (2), dexie.js (1)
 > **Prerequisites:** set up (3)
 > **Definitions:** is an  (1)
@@ -1026,7 +1026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (7), delete (6), const (5), async (5)
+> **Frameworks & Libraries:** database (6), data (3), application (2), next (2), feature (1)
 > **Code Identifiers:** chatid (14), createdat (4), createchat (2), toisostring (2), getchat (1)
 > **File Paths:** db.js (1)
 > **CLI Commands:** find (1)
@@ -1037,7 +1037,7 @@ created: 2026-04-29
 
 ### 4. Building the Chat Interface and Logic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the ChatThread component
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980)
@@ -1304,7 +1304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (33), const (3), interface (2), finally, (2), self (1)
+> **Frameworks & Libraries:** ai (16), [[React.js|React]] (6), next (3), api (1), ux (1)
 > **Code Identifiers:** classname (9), chatthreadref (5), strokewidth (2), welcomemessage (2), usechat (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** sdk (2), src (2), api (1)
@@ -1506,8 +1506,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), next (6), ai (4), [[React.js|React]] (3), [[React Hooks]] (1)
 > **Code Identifiers:** chatid (9), fetchedchats (6), usecallback (5), uselivequery (5), currentchatid (5)
-> **Code Keywords:** let (26), function (19), const (3), async (3), module (2)
 > **UI Navigation:** navigate to (5), open the (1)
 > **File Paths:** page.js (2), src/app/page.js (1), next.js (1), styles/page.css (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1764,7 +1764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (35), function (10), delete (9), async (4), this. (4)
+> **Frameworks & Libraries:** next (10), ai (5), database (2), [[Search]] (1), css (1)
 > **Code Identifiers:** currentchatid (7), chatthreadref (4), loadedmessages (3), setactivechat (2), loadchatmessages (2)
 > **CLI Commands:** make (2), npm (1)
 > **Env Vars:** url (1), css (1)
@@ -2140,7 +2140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (61), function (9), finally, (4), const (3), class. (2)
+> **Frameworks & Libraries:** ai (10), next (7), css (3), [[React.js|React]] (2)
 > **Env Vars:** jsx (6), css (2), url (1)
 > **UI Navigation:** toggle (2), scroll up (1), click on (1), go to (1)
 > **Definitions:** is a  (3), is called (1)
@@ -2152,7 +2152,7 @@ created: 2026-04-29
 
 ### 5. Implementing Chat Title Generation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the chat title generation API
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980)
@@ -2281,7 +2281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (25), function (4), import { (3), const (3), finally, (2)
+> **Frameworks & Libraries:** ai (7), api (7), next (5), [[JSON]] (4), prompt (3)
 > **Env Vars:** api (5), post (2), github_token (1), gpt (1), json (1)
 > **Code Identifiers:** generatetext (5), createopenai (2), baseurl (1), apikey (1)
 > **File Paths:** route.js (2), nextresponse.json (2), next.js (1), process.env (1), req.json (1)
@@ -2423,7 +2423,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (11), await (5), throw (2), const (2)
+> **Frameworks & Libraries:** api (5), [[JSON]] (4), next (3), database (3), [[Fetch]] (2)
 > **Env Vars:** api (5), json (2)
 > **File Paths:** page.js (2), next.js (2), response.json (1)
 > **Code Identifiers:** chatid (2), getchatmessages (1), isfirstmessage (1)
@@ -2435,7 +2435,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing features and course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980)
@@ -2492,7 +2492,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), continue (1)
+> **Frameworks & Libraries:** database (6), ai (5), application (2), next (2), api (1)
 > **Env Vars:** api (1), url (1), sdk (1)
 > **UI Navigation:** click on (1), in the sidebar (1)
 > **Speakers:** - [instructor] (1)

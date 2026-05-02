@@ -35,7 +35,7 @@ tags:
   - skill/linux-system-administration
   - skill/ubuntu
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ubuntu%20Linux-%20Storage%20Management.md)
@@ -54,34 +54,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - Understanding storage terminology
-  - Lab setup
+  - [Welcome](#welcome)
+  - [Understanding storage terminology](#understanding-storage-terminology)
+  - [Lab setup](#lab-setup)
 - [**1. Working with Partitions and Filesystems**](#1-working-with-partitions-and-filesystems) (8 videos)
-  - Explore and identify block devices
-  - Create and modify partitions
-  - Create, modify, and mount filesystems
-  - Create and mount an encrypted partition
-  - Configure disk mounting
-  - Mount volumes on demand
-  - Reconfigure swap space
-  - Create redundant storage with RAID
+  - [Explore and identify block devices](#explore-and-identify-block-devices)
+  - [Create and modify partitions](#create-and-modify-partitions)
+  - [Create, modify, and mount filesystems](#create-modify-and-mount-filesystems)
+  - [Create and mount an encrypted partition](#create-and-mount-an-encrypted-partition)
+  - [Configure disk mounting](#configure-disk-mounting)
+  - [Mount volumes on demand](#mount-volumes-on-demand)
+  - [Reconfigure swap space](#reconfigure-swap-space)
+  - [Create redundant storage with RAID](#create-redundant-storage-with-raid)
 - [**2. Logical Volume Management**](#2-logical-volume-management) (4 videos)
-  - Understanding LVM
-  - Creating a physical volume, volume group, and logical volume
-  - Extending a volume group and logical volume
-  - Migrating and replace a physical volume
+  - [Understanding LVM](#understanding-lvm)
+  - [Creating a physical volume, volume group, and logical volume](#creating-a-physical-volume-volume-group-and-logical-volume)
+  - [Extending a volume group and logical volume](#extending-a-volume-group-and-logical-volume)
+  - [Migrating and replace a physical volume](#migrating-and-replace-a-physical-volume)
 - [**3. Filesystem Security and Backups**](#3-filesystem-security-and-backups) (4 videos)
-  - Access control lists (ACLs)
-  - Exploring disk quotas
-  - Diagnosing file access issues
-  - Backing up data
+  - [Access control lists (ACLs)](#access-control-lists-acls)
+  - [Exploring disk quotas](#exploring-disk-quotas)
+  - [Diagnosing file access issues](#diagnosing-file-access-issues)
+  - [Backing up data](#backing-up-data)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/welcome?u=76281980)
@@ -110,8 +110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (1), data (1), management (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [scott] (1)
 
@@ -266,10 +266,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Hardware]] (4), management (4), parallel (3), power (2)
 > **Env Vars:** usb (4), lvm (3), ata (2), gpt (2), guid (2)
 > **Definitions:** is a  (3), is called (3), means that (2), refers to (1), stands for (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** type. (1), type, (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
@@ -311,8 +311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), data (3), [[Ubuntu]] (2), [[Storage Management]] (1), management (1)
 > **Prerequisites:** set up (2), you'll need (1)
-> **Code Keywords:** case, (1), require (1)
 > **Env Vars:** iso (1), usb (1)
 > **Warnings:** be careful (2)
 > **CLI Commands:** make (1)
@@ -322,7 +322,7 @@ created: 2026-04-29
 
 ### 1. Working with Partitions and Filesystems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore and identify block devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980)
@@ -435,9 +435,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Linux]] (1), next (1), [[Ubuntu]] (1)
 > **Env Vars:** uuid (6)
 > **CLI Commands:** find (2), ls (2), rm (1)
-> **Code Keywords:** for. (2), type, (1), if, (1), type. (1)
 > **Analogies:** for example (2), such as (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
@@ -745,7 +745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), delete (7), interface (3), default, (2), default. (2)
+> **Frameworks & Libraries:** [[Linux]] (5), hit (2), [[Microsoft]] (2), data (2), [[Windows]] (1)
 > **CLI Commands:** make (17), apt (1), find (1), rm (1)
 > **Env Vars:** mbr (4), gpt (1), usb (1), tui (1)
 > **Tools:** command line (5)
@@ -919,10 +919,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Linux]] (7), [[Windows]] (2), [[Metadata]] (1)
 > **CLI Commands:** make (7), find (2), ls (1), mkdir (1)
 > **Definitions:** means that (5), is a  (3)
 > **Env Vars:** fat32 (4), xfs (2), fat (1)
-> **Code Keywords:** let (4), pass (1), while. (1)
 > **Code Identifiers:** block_validity (1), user_xattr (1)
 > **Documentation:** man page (2)
 > **Warnings:** be aware (1)
@@ -1033,8 +1033,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Linux]] (2), [[Security]] (1), [[Windows]] (1)
 > **Env Vars:** luks (2), stc2 (1), yes (1), lvm (1), fat32 (1)
-> **Code Keywords:** new, (1), switch (1), this, (1), let (1), case. (1)
 > **Prerequisites:** install (3), setup (1)
 > **CLI Commands:** make (2), mkdir (1)
 > **Code Identifiers:** luksformat (1), luksdump (1)
@@ -1137,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (2), case, (2), type, (1), this. (1)
+> **Frameworks & Libraries:** next (2), hit (1)
 > **Env Vars:** uuid (7)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (2)
@@ -1221,8 +1221,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (1)
 > **CLI Commands:** make (2), apt (1), systemctl (1), cd (1)
-> **Code Keywords:** let (2), type, (1), switch (1)
 > **Env Vars:** nfs (2), cifs (1)
 > **Prerequisites:** install (2)
 > **UI Navigation:** go to (1)
@@ -1350,7 +1350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), var (5), case, (2), else. (1), delete (1)
+> **Frameworks & Libraries:** management (1), next (1)
 > **Env Vars:** ram (11), etc (1)
 > **CLI Commands:** make (5), chmod (1), cat (1)
 > **Best Practices:** rule of thumb (1), it's best to (1)
@@ -1545,8 +1545,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Linux]] (2), management (1)
 > **Env Vars:** raid (37), mdadm (11), sdb (1), sdb1 (1)
-> **Code Keywords:** let (7), case, (2), this, (1), delete (1), continue (1)
 > **CLI Commands:** make (4), apt (2), mkdir (1), ls (1)
 > **Prerequisites:** install (4), setup (2), configure (1), set up (1)
 > **Analogies:** similar to (1), just like (1)
@@ -1556,7 +1556,7 @@ created: 2026-04-29
 
 ### 2. Logical Volume Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding LVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980)
@@ -1627,8 +1627,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), management (4), [[Hardware]] (1)
 > **Env Vars:** lvm (7), raid (1), lvm2 (1)
-> **Code Keywords:** let (3), delete (3)
 > **Prerequisites:** configure (2), install (1), make sure you have (1)
 > **CLI Commands:** make (2), apt (1)
 > **Definitions:** is a  (1)
@@ -1775,7 +1775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), case, (4), default. (2), type. (1), finally, (1)
+> **Frameworks & Libraries:** prompt (1), data (1)
 > **Env Vars:** lvm (7), gpt (2), free (2), ext (1), uuid (1)
 > **CLI Commands:** make (7), find (1), mkdir (1)
 > **Analogies:** for example (2)
@@ -1860,7 +1860,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), extends (2), case, (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
@@ -1902,16 +1901,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **Env Vars:** lvm (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Filesystem Security and Backups
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Access control lists (ACLs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/access-control-lists-acls?u=76281980)
@@ -1984,7 +1983,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (2), this, (1), case, (1), from. (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Troubleshooting]] (1)
 > **Env Vars:** acl (3)
 > **CLI Commands:** ls (1), make (1)
 > **Code Identifiers:** a_file (2)
@@ -2154,7 +2153,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default, (1), this. (1), continue (1), switch (1)
+> **Frameworks & Libraries:** hit (5), next (2), express (1)
 > **Prerequisites:** install (3), set up (1), setup (1), you'll need (1)
 > **CLI Commands:** make (2), apt (1), chmod (1)
 > **Code Identifiers:** inotes (3)
@@ -2202,6 +2201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), data (1)
 > **Env Vars:** acl (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
@@ -2286,9 +2286,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Office|Office]] (1), [[Hardware]] (1), management (1), [[Databases]] (1)
 > **CLI Commands:** make (6), tar (1)
 > **Prerequisites:** configure (2), install (1)
-> **Code Keywords:** finally, (1)
 > **Best Practices:** remember to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
@@ -2296,7 +2296,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/next-steps?u=76281980)
@@ -2317,8 +2317,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), next (1)
 > **Best Practices:** don't forget (1), remember to (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [scott] (1)
 

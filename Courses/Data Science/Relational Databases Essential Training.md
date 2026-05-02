@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/relational-databases
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Relational%20Databases%20Essential%20Training.md)
@@ -49,58 +49,58 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Organize data with the relational model
-  - What you should know
-  - Exploring the code challenge environment
+  - [Organize data with the relational model](#organize-data-with-the-relational-model)
+  - [What you should know](#what-you-should-know)
+  - [Exploring the code challenge environment](#exploring-the-code-challenge-environment)
 - [**1. Get to Know Relational Databases**](#1-get-to-know-relational-databases) (4 videos)
-  - A brief introduction to data storage
-  - E.F. Codd's relational model
-  - What the CRUD?
-  - Relations, tuples, tables, and records
+  - [A brief introduction to data storage](#a-brief-introduction-to-data-storage)
+  - [E.F. Codd's relational model](#ef-codds-relational-model)
+  - [What the CRUD?](#what-the-crud)
+  - [Relations, tuples, tables, and records](#relations-tuples-tables-and-records)
 - [**2. Entity Relationship Diagrams**](#2-entity-relationship-diagrams) (6 videos)
-  - Develop a model of the real world
-  - Choose an ER design tool
-  - Design a table
-  - Attribute data types
-  - Use primary keys to identify records
-  - Object naming considerations
+  - [Develop a model of the real world](#develop-a-model-of-the-real-world)
+  - [Choose an ER design tool](#choose-an-er-design-tool)
+  - [Design a table](#design-a-table)
+  - [Attribute data types](#attribute-data-types)
+  - [Use primary keys to identify records](#use-primary-keys-to-identify-records)
+  - [Object naming considerations](#object-naming-considerations)
 - [**3. Data Integrity and Validation**](#3-data-integrity-and-validation) (6 videos)
-  - Data constraints
-  - Create a unique constraint
-  - Required attributes and null values
-  - Define a default value
-  - Establish table indexes
-  - Add check constraints
+  - [Data constraints](#data-constraints)
+  - [Create a unique constraint](#create-a-unique-constraint)
+  - [Required attributes and null values](#required-attributes-and-null-values)
+  - [Define a default value](#define-a-default-value)
+  - [Establish table indexes](#establish-table-indexes)
+  - [Add check constraints](#add-check-constraints)
 - [**4. Relationships**](#4-relationships) (8 videos)
-  - Relate tables with foreign keys
-  - Diagram a relationship
-  - Relationship optionality and cardinality
-  - One-to-many relationships
-  - One-to-one relationships
-  - Many-to-many relationships
-  - Self joins
-  - Cascade changes
+  - [Relate tables with foreign keys](#relate-tables-with-foreign-keys)
+  - [Diagram a relationship](#diagram-a-relationship)
+  - [Relationship optionality and cardinality](#relationship-optionality-and-cardinality)
+  - [One-to-many relationships](#one-to-many-relationships)
+  - [One-to-one relationships](#one-to-one-relationships)
+  - [Many-to-many relationships](#many-to-many-relationships)
+  - [Self joins](#self-joins)
+  - [Cascade changes](#cascade-changes)
 - [**5. Normalization**](#5-normalization) (2 videos)
-  - Relational database normal forms
-  - When not to normalize
+  - [Relational database normal forms](#relational-database-normal-forms)
+  - [When not to normalize](#when-not-to-normalize)
 - [**6. Structured Query Language**](#6-structured-query-language) (8 videos)
-  - Convert the ER diagram to a database
-  - Data definition queries
-  - Solution: Create tables with DDL commands
-  - Data manipulation queries
-  - Solution: Add data with DML commands
-  - Write database select queries
-  - Solution: Query data in a database
-  - Create a database view
+  - [Convert the ER diagram to a database](#convert-the-er-diagram-to-a-database)
+  - [Data definition queries](#data-definition-queries)
+  - [Solution: Create tables with DDL commands](#solution-create-tables-with-ddl-commands)
+  - [Data manipulation queries](#data-manipulation-queries)
+  - [Solution: Add data with DML commands](#solution-add-data-with-dml-commands)
+  - [Write database select queries](#write-database-select-queries)
+  - [Solution: Query data in a database](#solution-query-data-in-a-database)
+  - [Create a database view](#create-a-database-view)
 - [**7. Beyond the Relational Model**](#7-beyond-the-relational-model) (2 videos)
-  - Graph databases
-  - Document databases
+  - [Graph databases](#graph-databases)
+  - [Document databases](#document-databases)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Organize data with the relational model
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980)
@@ -127,7 +127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** database (3), data (2), [[Relational Databases]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -145,6 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Relational Databases]] (2), database (1), [[Microsoft SQL Server|Sql server]] (1), [[MySQL]] (1)
 > **CLI Commands:** mysql (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -188,8 +189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), [[SQL]] (1), next (1)
 > **UI Navigation:** click on (2)
-> **Code Keywords:** case, (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -197,7 +198,7 @@ created: 2026-04-29
 
 ### 1. Get to Know Relational Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A brief introduction to data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/a-brief-introduction-to-data-storage?u=76281980)
@@ -324,9 +325,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (2), next (1), [[Search]] (1), database (1)
 > **CLI Commands:** find (10), make (2)
 > **Analogies:** picture (8), for instance (1)
-> **Code Keywords:** new. (1), let (1), case, (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -419,9 +420,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), database (8), [[Relational Databases]] (1), [[Search]] (1), power (1)
 > **CLI Commands:** find (8), make (2)
 > **Analogies:** picture (3), for instance (1)
-> **Code Keywords:** let (1), for. (1), match. (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** ibm (1)
 > **UI Navigation:** go to (1)
@@ -522,8 +523,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (12), management (5), [[SQL]] (5), application (2)
 > **Env Vars:** rdbms (10), sql (6), crud (3), ibm (1), rdmbs (1)
-> **Code Keywords:** delete (3), interface (2), for: (1)
 > **CLI Commands:** mysql (2), make (2), find (1)
 > **Definitions:** stands for (2)
 > **Analogies:** for example (1), such as (1)
@@ -596,17 +597,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (10), data (9), [[Relational Databases]] (1), management (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (1), refers to (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Entity Relationship Diagrams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop a model of the real world
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980)
@@ -727,8 +728,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), data (8), [[Relational Databases]] (1), business (1), management (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** for. (1), this. (1), let (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **Env Vars:** uml (1)
 > **Speakers:** - [instructor] (1)
@@ -848,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), from. (2), let (2), require (2), continue (2)
+> **Frameworks & Libraries:** database (11), [[SQL]] (4), [[Diagramming]] (3), [[Sketching]] (1), data (1)
 > **Env Vars:** rdbms (3), sql (3), uml (2), erd (1), dbms (1)
 > **CLI Commands:** find (3), make (3)
 > **URLs:** [lucidchart.com](https://lucidchart.com) (1), [sqldbm.com](https://sqldbm.com) (1), [dbdiagrams.io](https://dbdiagrams.io) (1), [quickdatabasediagrams.com](https://quickdatabasediagrams.com) (1)
@@ -950,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (1), case, (1), continue (1), from. (1)
+> **Frameworks & Libraries:** database (6), next (5), data (5), [[Microsoft Products|Products]] (4), product (2)
 > **Non-Speech:** (keys clicking) (9)
 > **CLI Commands:** make (2)
 > **Env Vars:** rdbms (1), dbms (1)
@@ -1097,7 +1098,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (6), finally, (1), throw (1)
+> **Frameworks & Libraries:** data (36), database (8), management (4), next (4), [[Databases]] (1)
 > **Env Vars:** rdbms (6), sql (1), dmbs (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (2), it's like (1)
@@ -1255,8 +1256,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), product (5), database (5), [[Databases]] (2), business (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** finally, (1), let (1), type, (1), case. (1)
 > **Env Vars:** isbn (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
@@ -1330,7 +1331,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), function (1), let (1), finally, (1)
+> **Frameworks & Libraries:** data (9), next (2), management (1), [[Microsoft Word|Word]] (1), [[Programming]] (1)
 > **Env Vars:** rdbms (2)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -1341,7 +1342,7 @@ created: 2026-04-29
 
 ### 3. Data Integrity and Validation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data constraints
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980)
@@ -1386,6 +1387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (4), business (4), management (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1541,7 +1543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (1), case, (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), product (9), database (7), data (7), next (6)
 > **Env Vars:** sql (6), rdbms (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous chapter (1), go back to (1)
@@ -1643,7 +1645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), let (4), require (2), type. (2), private (1)
+> **Frameworks & Libraries:** data (10), database (9), [[Microsoft Products|Products]] (3), product (3), [[Diagramming]] (2)
 > **Env Vars:** sql (3)
 > **Code Identifiers:** postgresql (2)
 > **Analogies:** for instance (1), just like (1)
@@ -1734,7 +1736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (3), type. (1), case, (1), for. (1)
+> **Frameworks & Libraries:** database (8), data (4), product (4), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Products|Products]] (3)
 > **Env Vars:** sql (5), insert (2), into (1), select (1)
 > **CLI Commands:** make (3), find (2)
 > **SQL:** insert into (1), select (1)
@@ -1843,8 +1845,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (18), data (3), management (2), [[Search]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (7), make (2)
-> **Code Keywords:** let (2), function (2), for. (1), delete (1), type. (1)
 > **Definitions:** means that (2)
 > **Env Vars:** sql (1)
 > **Analogies:** just like (1)
@@ -1963,7 +1965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (1), type. (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (9), database (6), management (2), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **CLI Commands:** make (5), find (2)
 > **Env Vars:** sql (4), rdbms (1)
 > **UI Navigation:** dropdown (1), scroll down (1)
@@ -1975,7 +1977,7 @@ created: 2026-04-29
 
 ### 4. Relationships
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relate tables with foreign keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980)
@@ -2082,10 +2084,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), data (6), management (3), [[Relational Databases]] (1)
 > **Analogies:** picture (12), for instance (1)
 > **CLI Commands:** find (10), make (1)
 > **Definitions:** is a  (1), means that (1), is called (1), known as (1), is an  (1)
-> **Code Keywords:** let (2), case, (1), finally, (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -2155,7 +2157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (2), type, (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), data (6), database (1), product (1), business (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
@@ -2269,8 +2271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), database (5), business (5), product (2), [[Sketching]] (1)
 > **Analogies:** picture (7), for instance (2), for example (1)
-> **Code Keywords:** case, (3), let (2), this. (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1)
@@ -2337,6 +2339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (2)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2372,6 +2375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[Human Resources (HR)|Human resources]] (2), [[Security]] (2), data (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2432,7 +2436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), require (1)
+> **Frameworks & Libraries:** database (4), data (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -2490,7 +2494,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (8), class. (1), this. (1), finally, (1), continue (1)
+> **Frameworks & Libraries:** data (4), database (4)
 > **Definitions:** is called (1), known as (1)
 > **Analogies:** for instance (2)
 > **Warnings:** watch out (1)
@@ -2549,7 +2553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (1), interface (1)
+> **Frameworks & Libraries:** database (8), data (3), management (2), feature (2), [[Relational Databases]] (1)
 > **Env Vars:** cascade (2), dbms (1), sql (1), update (1), delete (1)
 > **CLI Commands:** make (2), find (1)
 > **API Endpoints:** delete  (1)
@@ -2561,7 +2565,7 @@ created: 2026-04-29
 
 ### 5. Normalization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational database normal forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980)
@@ -2678,7 +2682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), let (2), for, (1), this. (1), case. (1)
+> **Frameworks & Libraries:** data (5), database (5), [[Forms]] (3), [[Databases]] (2), functional (2)
 > **Definitions:** in other words (2), is an  (2), known as (1), is a  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (2)
@@ -2731,9 +2735,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), database (6), [[Forms]] (1), management (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** dbms (1)
 > **Analogies:** for example (1)
 > **Warnings:** caution (1)
@@ -2742,7 +2746,7 @@ created: 2026-04-29
 
 ### 6. Structured Query Language
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Convert the ER diagram to a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980)
@@ -2905,9 +2909,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (16), [[Microsoft SQL Server|Sql server]] (11), [[Windows]] (5), [[Microsoft]] (4), application (4)
 > **CLI Commands:** docker (18), make (2), find (1)
 > **Env Vars:** sql (12), url (3)
-> **Code Keywords:** let (4), interface (2), require (1), continue (1), finally, (1)
 > **Prerequisites:** set up (5), install (3), you'll need (1)
 > **Tools:** docker desktop (3), terminal (2), command prompt (1)
 > **UI Navigation:** right-click (3), checkbox (1)
@@ -3047,7 +3051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), type, (2), function (1), interface (1), type. (1)
+> **Frameworks & Libraries:** database (15), data (11), [[SQL]] (4), [[Microsoft Products|Products]] (3), next (3)
 > **Env Vars:** sql (4), dbms (1)
 > **CLI Commands:** make (2), mysql (1), find (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -3167,8 +3171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), next (5), database (3), [[SQL]] (1)
 > **Env Vars:** table (4), alter (3), check (3), sql (1), create (1)
-> **Code Keywords:** type, (5), let (3), this. (1), type. (1), finally, (1)
 > **SQL:** alter table (3), create table (1), select (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (2), is a  (1)
@@ -3287,7 +3291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (3), continue (1), finally, (1), from, (1)
+> **Frameworks & Libraries:** data (7), database (5), next (4), [[Data Manipulation]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** dml (2)
 > **File Paths:** dml_complete.txt (1)
@@ -3425,7 +3429,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (2), finally, (2), type, (1), this, (1)
+> **Frameworks & Libraries:** next (9), data (7), database (3), [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Versions:** 9.50 (1)
@@ -3570,7 +3574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (2), this. (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (20), database (12), data (11), product (7), next (1)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** right-click (2)
 > **Analogies:** for instance (2)
@@ -3709,7 +3713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), from. (1)
+> **Frameworks & Libraries:** data (4), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (2)
 > **Prerequisites:** make sure you have (1)
@@ -3775,7 +3779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (1)
+> **Frameworks & Libraries:** database (8), data (5), product (5), [[Microsoft Products|Products]] (2), management (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -3783,7 +3787,7 @@ created: 2026-04-29
 
 ### 7. Beyond the Relational Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Graph databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/graph-databases?u=76281980)
@@ -3824,6 +3828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), node (4), data (3), [[Databases]] (3)
 > **CLI Commands:** node (4), find (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -3862,10 +3867,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[Databases]] (4), data (3), [[NoSQL]] (3), [[JSON]] (1)
 > **Env Vars:** xml (1), json (1), pdf (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case, (1)
 > **Analogies:** picture (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -3873,7 +3878,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980)
@@ -3904,6 +3909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Relational Databases]] (1), management (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** find (2), mysql (1)
 > **Definitions:** is a  (1)

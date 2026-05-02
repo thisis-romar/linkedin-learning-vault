@@ -31,7 +31,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Machine%20Learning%20Fundamentals%20for%20Healthcare.md)
@@ -50,39 +50,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding machine learning in healthcare
-  - What you should know
+  - [Understanding machine learning in healthcare](#understanding-machine-learning-in-healthcare)
+  - [What you should know](#what-you-should-know)
 - [**1. Fundamentals of Machine Learning for Healthcare**](#1-fundamentals-of-machine-learning-for-healthcare) (14 videos)
-  - Machine learning, artificial intelligence, and data science
-  - Applications of machine learning in healthcare
-  - How to think about machine learning in healthcare
-  - Machine learning vs. rule-based programming in healthcare
-  - Types of machine learning in healthcare
-  - Healthcare data types for machine learning
-  - Features and labels in machine learning for healthcare
-  - Machine learning models and algorithms in healthcare
-  - Deep learning models and architecture in healthcare
-  - Transfer learning and pretrained models in healthcare
-  - Assessment metrics for machine learning models
-  - Tools and libraries for machine learning
-  - Data privacy and ethics in healthcare machine learning
-  - Career opportunities in machine learning for healthcare
+  - [Machine learning, artificial intelligence, and data science](#machine-learning-artificial-intelligence-and-data-science)
+  - [Applications of machine learning in healthcare](#applications-of-machine-learning-in-healthcare)
+  - [How to think about machine learning in healthcare](#how-to-think-about-machine-learning-in-healthcare)
+  - [Machine learning vs. rule-based programming in healthcare](#machine-learning-vs-rule-based-programming-in-healthcare)
+  - [Types of machine learning in healthcare](#types-of-machine-learning-in-healthcare)
+  - [Healthcare data types for machine learning](#healthcare-data-types-for-machine-learning)
+  - [Features and labels in machine learning for healthcare](#features-and-labels-in-machine-learning-for-healthcare)
+  - [Machine learning models and algorithms in healthcare](#machine-learning-models-and-algorithms-in-healthcare)
+  - [Deep learning models and architecture in healthcare](#deep-learning-models-and-architecture-in-healthcare)
+  - [Transfer learning and pretrained models in healthcare](#transfer-learning-and-pretrained-models-in-healthcare)
+  - [Assessment metrics for machine learning models](#assessment-metrics-for-machine-learning-models)
+  - [Tools and libraries for machine learning](#tools-and-libraries-for-machine-learning)
+  - [Data privacy and ethics in healthcare machine learning](#data-privacy-and-ethics-in-healthcare-machine-learning)
+  - [Career opportunities in machine learning for healthcare](#career-opportunities-in-machine-learning-for-healthcare)
 - [**2. Machine Learning for Tabular Healthcare Data**](#2-machine-learning-for-tabular-healthcare-data) (6 videos)
-  - How to use a Google Colab Notebook
-  - Explore the heart failure clinical record dataset
-  - Classification task: Heart failure outcomes prediction with no feature scaling
-  - Classification task: Heart failure outcomes prediction with feature scaling
-  - Regression task: Predict the heart rejection fraction
-  - Feature importance in regression tasks
+  - [How to use a Google Colab Notebook](#how-to-use-a-google-colab-notebook)
+  - [Explore the heart failure clinical record dataset](#explore-the-heart-failure-clinical-record-dataset)
+  - [Classification task: Heart failure outcomes prediction with no feature scaling](#classification-task-heart-failure-outcomes-prediction-with-no-feature-scaling)
+  - [Classification task: Heart failure outcomes prediction with feature scaling](#classification-task-heart-failure-outcomes-prediction-with-feature-scaling)
+  - [Regression task: Predict the heart rejection fraction](#regression-task-predict-the-heart-rejection-fraction)
+  - [Feature importance in regression tasks](#feature-importance-in-regression-tasks)
 - [**3. Machine Learning for Tabular Healthcare Data: Unsupervised**](#3-machine-learning-for-tabular-healthcare-data-unsupervised) (2 videos)
-  - Clustering task: Localization data for person activity
-  - Dimensionality reduction: Localization data for person activity
+  - [Clustering task: Localization data for person activity](#clustering-task-localization-data-for-person-activity)
+  - [Dimensionality reduction: Localization data for person activity](#dimensionality-reduction-localization-data-for-person-activity)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding machine learning in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/understanding-machine-learning-in-healthcare?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1)
 > **Speakers:** - machine (1)
 
 #### What you should know
@@ -135,6 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -142,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Machine Learning for Healthcare
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning, artificial intelligence, and data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980)
@@ -177,8 +178,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (2), [[Data-driven Decision Making]] (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - machine (1)
 
@@ -231,10 +232,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Real-Time]] (1), [[Predictive Analytics]] (1), power (1), management (1)
 > **Env Vars:** ehr (1), dna (1), rna (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - machine (1)
 
@@ -297,7 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** data (12), ai (3), [[Privacy]] (2), [[Ethics]] (1), [[Algorithms]] (1)
 > **Speakers:** - at (1)
 
 #### Machine learning vs. rule-based programming in healthcare
@@ -353,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** data (12), [[Algorithms]] (8), [[Programming]] (5)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - our (1)
@@ -403,9 +404,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Reinforcement Learning]] (3), [[Algorithms]] (3), application (2), [[Supervised Learning]] (2)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - there (1)
 
 #### Healthcare data types for machine learning
@@ -459,7 +460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2)
+> **Frameworks & Libraries:** data (31), [[Public Health]] (2), product (1), application (1), [[Text Mining]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** dna (1), rna (1)
 > **Definitions:** is an  (1)
@@ -535,8 +536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (2), feature (1), [[Supervised Learning]] (1), [[Forms]] (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
-> **Code Keywords:** let (1), require (1), this, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -610,8 +611,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (10), data (5), [[Linear Regression]] (2), [[k-means clustering]] (1), feature (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** case. (1)
 > **Env Vars:** knn (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
@@ -693,9 +694,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Deep Learning]] (9), [[Algorithms]] (3), feature (2), [[Neural Networks]] (2)
 > **Env Vars:** ann (1), cnn (1), lstm (1), rnn (1)
 > **Analogies:** just like (2), such as (1)
-> **Code Keywords:** function (1), require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - deep (1)
 
@@ -764,8 +765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (4), data (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Env Vars:** bert (2), vgg16 (1), gpt (1)
-> **Code Keywords:** this. (1), let (1)
 > **Definitions:** is called (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - it (1)
@@ -853,8 +854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** mse (3), auroc (2), rmse (1), mae (1)
-> **Code Keywords:** type. (1)
 > **Versions:** 0.5 (1)
 > **Speakers:** - by (1)
 
@@ -903,10 +904,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), cloud (2), data (2), [[TensorFlow]] (2), [[PyTorch]] (2)
 > **CLI Commands:** python (3), find (2), docker (1)
 > **Env Vars:** nlp (1), nltk (1), uci (1), cdc (1), wonder (1)
 > **Tools:** jupyter (1), pycharm (1), vs code (1), sublime (1)
-> **Code Keywords:** public (1)
 > **Code Identifiers:** spacy (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - when (1)
@@ -952,7 +953,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), this, (1)
+> **Frameworks & Libraries:** data (16), [[Privacy]] (6), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1), ai (1)
 > **Env Vars:** epa (1), gdpr (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -1021,16 +1022,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (8), [[Algorithms]] (4), product (3), strengths (2)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - machine (1)
 
 
 ### 2. Machine Learning for Tabular Healthcare Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to use a Google Colab Notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-use-google-colaboratory-notebook?u=76281980)
@@ -1085,8 +1086,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Google]] (2), prompt (1)
 > **UI Navigation:** click on (5), select the (2), go to (1)
-> **Code Keywords:** interface (2), type. (1), delete (1), let (1)
 > **CLI Commands:** unzip (2)
 > **Cross-References:** in the next (2)
 > **Exercise Files:** exercise files (1), exercise file (1)
@@ -1139,8 +1140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** unzip (2), wget (1), python (1), find (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** read_csv (1)
 > **Env Vars:** uci (1)
 > **Analogies:** for example (1)
@@ -1251,8 +1252,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Logistic Regression]] (4), [[Algorithms]] (3), next (1)
 > **Versions:** 0.8 (2), 0.7 (1), 0.6 (1), 0.53 (1), 0.77 (1)
-> **Code Keywords:** let (5), function (1)
 > **Env Vars:** skln (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** remember to (1), good practice (1)
@@ -1361,9 +1362,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (2), feature (1), [[Logistic Regression]] (1)
 > **Code Identifiers:** y_train (3), y_test (3), y_pred (3), fit_transform (2), train_test_split (1)
 > **Versions:** 0.77 (2), 0.1 (1), 0.8 (1), 0.70 (1), 0.67 (1)
-> **Code Keywords:** let (4), this. (1)
 > **Env Vars:** death_event (3)
 > **Cross-References:** previous video (2), in the last (1)
 > **Analogies:** such as (1), for example (1)
@@ -1499,8 +1500,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (3), [[Linear Regression]] (3), [[Pandas (Software)|Pandas]] (2), next (1)
 > **Code Identifiers:** mean_squared_error (3), y_pred (3), ejection_fraction (2), y_test (2), random_states (2)
-> **Code Keywords:** let (7), this, (1), this. (1)
 > **CLI Commands:** unzip (2), wget (1), make (1)
 > **Versions:** 0.1 (1), 104.50 (1), 0.08 (1)
 > **Env Vars:** csv (2)
@@ -1635,7 +1636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2)
+> **Frameworks & Libraries:** feature (12), data (12), [[Linear Regression]] (6), [[Algorithms]] (1)
 > **Env Vars:** plt (3), sms (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), previous video (1)
@@ -1647,7 +1648,7 @@ created: 2026-04-29
 
 ### 3. Machine Learning for Tabular Healthcare Data: Unsupervised
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Clustering task: Localization data for person activity
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980)
@@ -1742,7 +1743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1)
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (1), [[k-means clustering]] (1)
 > **CLI Commands:** find (2), wget (1), unzip (1)
 > **Code Identifiers:** read_csv (1), fit_predict (1)
 > **Env Vars:** plt (2)
@@ -1868,8 +1869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (1), [[Big Data]] (1)
 > **Code Identifiers:** x_pca (3), x_scaled_dim_reduction (2), fit_transform (2), x_dim_reduction (1), n_components (1)
-> **Code Keywords:** let (6), function (1), this, (1), this. (1)
 > **Env Vars:** pca (5)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -1880,7 +1881,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980)
@@ -1915,7 +1916,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (3), [[LinkedIn]] (2), next (1), data (1), nlp (1)
 > **Env Vars:** nlp (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)

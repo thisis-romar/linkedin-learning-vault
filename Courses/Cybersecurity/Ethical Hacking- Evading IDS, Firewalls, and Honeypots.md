@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Evading%20IDS%2C%20Firewalls%2C%20and%20Honeypots.md)
@@ -48,56 +48,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Finding weaknesses in the perimeter
-  - What you should know
-  - Course disclaimer
+  - [Finding weaknesses in the perimeter](#finding-weaknesses-in-the-perimeter)
+  - [What you should know](#what-you-should-know)
+  - [Course disclaimer](#course-disclaimer)
 - [**1. Firewalls**](#1-firewalls) (8 videos)
-  - Understanding Firewalls
-  - Apply the basics of the Windows firewall
-  - Use advanced features in the Windows Firewall
-  - Review firewall logs
-  - Understand Linux IPTables
-  - Set up an IPTables firewall
-  - Manage rules with Firewall Builder
-  - Port testing
+  - [Understanding Firewalls](#understanding-firewalls)
+  - [Apply the basics of the Windows firewall](#apply-the-basics-of-the-windows-firewall)
+  - [Use advanced features in the Windows Firewall](#use-advanced-features-in-the-windows-firewall)
+  - [Review firewall logs](#review-firewall-logs)
+  - [Understand Linux IPTables](#understand-linux-iptables)
+  - [Set up an IPTables firewall](#set-up-an-iptables-firewall)
+  - [Manage rules with Firewall Builder](#manage-rules-with-firewall-builder)
+  - [Port testing](#port-testing)
 - [**2. Hardware Firewalls**](#2-hardware-firewalls) (2 videos)
-  - Set up a Cisco PIX firewall
-  - Create a secure enclave
+  - [Set up a Cisco PIX firewall](#set-up-a-cisco-pix-firewall)
+  - [Create a secure enclave](#create-a-secure-enclave)
 - [**3. Network Simulation Using GNS3**](#3-network-simulation-using-gns3) (5 videos)
-  - Install GNS3
-  - Obtain network device images
-  - Set up a network
-  - Simulate the ASA firewall
-  - Integrate Kali into GNS3
+  - [Install GNS3](#install-gns3)
+  - [Obtain network device images](#obtain-network-device-images)
+  - [Set up a network](#set-up-a-network)
+  - [Simulate the ASA firewall](#simulate-the-asa-firewall)
+  - [Integrate Kali into GNS3](#integrate-kali-into-gns3)
 - [**4. Special Purpose Perimeter Devices**](#4-special-purpose-perimeter-devices) (4 videos)
-  - Understand Web Application Firewalls
-  - Protect API services with the WSO2 gateway
-  - Understand honeypots
-  - Run the Cowrie honeypot
+  - [Understand Web Application Firewalls](#understand-web-application-firewalls)
+  - [Protect API services with the WSO2 gateway](#protect-api-services-with-the-wso2-gateway)
+  - [Understand honeypots](#understand-honeypots)
+  - [Run the Cowrie honeypot](#run-the-cowrie-honeypot)
 - [**5. Protection from Intrusion**](#5-protection-from-intrusion) (6 videos)
-  - Intrusion response techniques
-  - xListing sites
-  - Snort rules
-  - Detect intrusions with Security Onion
-  - Extend IDS with reputation
-  - EINSTEIN
+  - [Intrusion response techniques](#intrusion-response-techniques)
+  - [xListing sites](#xlisting-sites)
+  - [Snort rules](#snort-rules)
+  - [Detect intrusions with Security Onion](#detect-intrusions-with-security-onion)
+  - [Extend IDS with reputation](#extend-ids-with-reputation)
+  - [EINSTEIN](#einstein)
 - [**6. Evasion Techniques**](#6-evasion-techniques) (10 videos)
-  - Evading antivirus detection
-  - Exotic scanning with Nmap
-  - Obfuscating payloads with msfvenom
-  - Hiding payloads in benign files
-  - Custom packaging of software
-  - Fileless attacks with PowerShell
-  - Hiding with the cloak of invisibility
-  - Embedding malware in an alternate data stream
-  - Tunneling through DNS with iodine
-  - Checking for oversight
+  - [Evading antivirus detection](#evading-antivirus-detection)
+  - [Exotic scanning with Nmap](#exotic-scanning-with-nmap)
+  - [Obfuscating payloads with msfvenom](#obfuscating-payloads-with-msfvenom)
+  - [Hiding payloads in benign files](#hiding-payloads-in-benign-files)
+  - [Custom packaging of software](#custom-packaging-of-software)
+  - [Fileless attacks with PowerShell](#fileless-attacks-with-powershell)
+  - [Hiding with the cloak of invisibility](#hiding-with-the-cloak-of-invisibility)
+  - [Embedding malware in an alternate data stream](#embedding-malware-in-an-alternate-data-stream)
+  - [Tunneling through DNS with iodine](#tunneling-through-dns-with-iodine)
+  - [Checking for oversight](#checking-for-oversight)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding weaknesses in the perimeter
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?u=76281980)
@@ -122,6 +122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Intrusion Detection]] (2), [[Engineering]] (1), web application (1), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [malcom] (1)
 
@@ -142,6 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (1), [[Windows]] (1), management (1)
 > **Env Vars:** ids (1), ios (1)
 > **Analogies:** such as (2)
 > **Tools:** terminal (1)
@@ -177,14 +179,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Microsoft Products|Products]] (1), open-source (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Firewalls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980)
@@ -211,7 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** business (2), web (1), [[Forms]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -298,7 +300,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (8), private (7), let (2), switch (1), protected (1)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Security]] (5), [[Microsoft Defender|Defender]] (2), [[Microsoft]] (1), prompt (1)
 > **UI Navigation:** click on (4), scroll down (2), open the (1), select the (1)
 > **Prerequisites:** set up (2), configure (1)
 > **CLI Commands:** find (2)
@@ -440,7 +442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (3), switch (3), private (1), from. (1)
+> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft Defender|Defender]] (2), [[Security]] (2), data (2), management (1)
 > **UI Navigation:** click on (6), select the (2), switch to (1)
 > **Versions:** 10.0.2 (4), 10.0.1 (1), 2.24 (1)
 > **Prerequisites:** set up (4), configure (1)
@@ -520,8 +522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Real-Time]] (1), management (1), data (1), traffic (1)
 > **Env Vars:** tcp (2), info (1), events (1), lost (1)
-> **Code Keywords:** let (3), interface (1)
 > **UI Navigation:** navigate to (1), select the (1), checkbox (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -624,7 +626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1), pass (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), data (4), traffic (3), [[Linux]] (2)
 > **Prerequisites:** set up (3), setup (2)
 > **CLI Commands:** sudo (3), make (1)
 > **Ports:** port 4545 (3), port 4546 (1)
@@ -685,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), var (1)
+> **Frameworks & Libraries:** management (3), traffic (3), [[Linux]] (2), web (2), concurrent (2)
 > **Ports:** port 443 (2), port 80 (1), port 4545 (1), port 22 (1)
 > **Env Vars:** ssh (2), http (1), https (1), ipt (1)
 > **CLI Commands:** ssh (2), sudo (1)
@@ -829,7 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (6), let (4), static (3), type. (2), function (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Routing]] (2), traffic (2), next (2), [[Linux]] (1)
 > **Env Vars:** icmp (4), dmz (3), nat (2), asa (2), dns (1)
 > **Versions:** 255.255.255 (4), 10.0.0 (3), 192.168.1 (2), 176.0.2 (1), version 8 (1)
 > **UI Navigation:** click on (2), select the (2), open the (1), drag and drop (1), scroll down (1)
@@ -869,8 +871,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (1), [[Windows]] (1), dns (1)
 > **Env Vars:** url (3), jar (1), dns (1)
-> **Code Keywords:** let (3)
 > **Ports:** port 53 (1)
 > **Exercise Files:** zip file (1)
 > **Definitions:** is a  (1)
@@ -879,7 +881,7 @@ created: 2026-04-29
 
 ### 2. Hardware Firewalls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up a Cisco PIX firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-cisco-pix-firewall-2?u=76281980)
@@ -948,8 +950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (2), business (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** pix (4), ios (2), com3 (2), usb (1), pix1 (1)
-> **Code Keywords:** switch (4), let (1)
 > **Prerequisites:** configure (3)
 > **Definitions:** known as (2)
 > **Versions:** 23.107.10 (1)
@@ -1034,8 +1036,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), [[Windows]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1), power (1)
 > **Env Vars:** pix (7), icmp (2), ios (1), nat (1), mac (1)
-> **Code Keywords:** let (5), interface (4), static (1)
 > **Prerequisites:** set up (3)
 > **Versions:** 192.168.1 (2)
 > **Speakers:** - [instructor] (1)
@@ -1043,7 +1045,7 @@ created: 2026-04-29
 
 ### 3. Network Simulation Using GNS3
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install GNS3
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980)
@@ -1146,8 +1148,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Windows]] (2), [[Hardware]] (1), business (1), traffic (1)
 > **Env Vars:** gns3 (16), asa (5), pix (1), camu (1), pc1 (1)
-> **Code Keywords:** interface (3), let (3), finally, (1), require (1), this, (1)
 > **Prerequisites:** set up (3), configure (2), prerequisite (1)
 > **Versions:** version 1 (1), 4.6 (1), version 8 (1), 4.2 (1)
 > **Definitions:** is a  (4)
@@ -1208,8 +1210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), cloud (1), generic (1), product (1)
 > **Env Vars:** gns3 (7), asa (3), gns (1)
-> **Code Keywords:** require (2)
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (1), required to (1)
 > **CLI Commands:** find (1)
@@ -1310,8 +1312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (2), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** configure (7), set up (3)
-> **Code Keywords:** interface (5), let (2), this, (1), new. (1)
 > **Env Vars:** gns3 (3), asa (1), ios (1), pix (1), pcn (1)
 > **UI Navigation:** select the (3), open the (1), navigate to (1)
 > **Versions:** 10.0.0 (2), 4.4.4 (1), 1.1.1 (1)
@@ -1444,8 +1446,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), next (4), [[Routing]] (2), prompt (2), traffic (2)
 > **Env Vars:** asa (20), dmz (11), qemu (2), gns3 (2), asa01 (1)
-> **Code Keywords:** interface (3), let (2), pass (2), default. (1), default, (1)
 > **Prerequisites:** configure (4), setup (3), set up (1)
 > **Versions:** 192.168.1 (3), 8.42 (1), 10.0.0 (1)
 > **UI Navigation:** select the (3), navigate to (1), open the (1)
@@ -1546,8 +1548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** gns3 (12), asa (10), udp (1), ios (1)
-> **Code Keywords:** let (6), interface (5), public (3), while, (1), new, (1)
 > **Prerequisites:** configure (5), set up (1)
 > **CLI Commands:** find (2), make (2)
 > **Versions:** 176.23.1 (3)
@@ -1558,7 +1560,7 @@ created: 2026-04-29
 
 ### 4. Special Purpose Perimeter Devices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Web Application Firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980)
@@ -1619,9 +1621,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (7), web (6), cloud (3), product (3), [[OWASP]] (3)
 > **Env Vars:** waf (13), owasp (3), http (2), iis (2), https (1)
 > **CLI Commands:** apache (2)
-> **Code Keywords:** type. (1), module (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1793,8 +1795,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (24), management (6), [[Security]] (5), [[Agile Development|Agile]] (4), data (4)
 > **Env Vars:** api (23), url (5), wso2 (5), json (3), http (2)
-> **Code Keywords:** let (9), this. (2), interface (1), case, (1)
 > **UI Navigation:** click on (2), select the (2), scroll down (1), go to (1)
 > **Ports:** port 9443 (1), port 8280 (1)
 > **Versions:** 10.0.2 (1), version 0 (1)
@@ -1881,10 +1883,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (1), traffic (1), [[PHP]] (1), [[GitHub]] (1), parallel (1)
 > **Definitions:** is a  (6)
 > **Env Vars:** ssh (2), hpc (1), hihat (1), php (1)
 > **CLI Commands:** ssh (2), php (1), cat (1)
-> **Code Keywords:** let (2), interface (1)
 > **Analogies:** such as (1), for example (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -1940,8 +1942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (3), data (1)
 > **CLI Commands:** apt (2), find (1)
-> **Code Keywords:** let (3)
 > **Ports:** port 22 (2), port 8022 (1)
 > **Env Vars:** apt (2)
 > **Prerequisites:** install (1), configure (1)
@@ -1952,7 +1954,7 @@ created: 2026-04-29
 
 ### 5. Protection from Intrusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intrusion response techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980)
@@ -2027,8 +2029,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Security]] (5), business (3), traffic (3), [[Intrusion Detection]] (2)
 > **Env Vars:** ids (11), ips (4), sabsa (1), nids (1), hids (1)
-> **Code Keywords:** let (1), require (1), raise (1), switch (1), while, (1)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** go to (1), switch to (1)
 > **Analogies:** for instance (1)
@@ -2063,6 +2065,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2167,7 +2170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (3), var (1), protected (1)
+> **Frameworks & Libraries:** traffic (2), [[Microsoft Products|Products]] (2), data (1), [[Analytics]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** uri (3), ids (2), acid (1), tcp (1), cve (1)
 > **CLI Commands:** make (1), apt (1), ls (1)
 > **Code Identifiers:** alert_fast (1), alert_full (1), alert_syslog (1)
@@ -2269,7 +2272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (5), let (3), this, (2), interface (1), this. (1)
+> **Frameworks & Libraries:** [[Security]] (8), [[Intrusion Detection]] (6), cd (4), [[Ubuntu]] (2), traffic (1)
 > **Env Vars:** ids (4), iso (2), ram (1), vdi (1), nat (1)
 > **Prerequisites:** setup (4), install (3), configure (1), you'll need (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
@@ -2317,6 +2320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), database (3), [[Real-Time]] (2), data (2), [[Endpoint Security]] (1)
 > **Env Vars:** tcp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2372,6 +2376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), data (3), [[Intrusion Detection]] (2), traffic (2), [[Microsoft Office|Office]] (2)
 > **Env Vars:** ids (1)
 > **Versions:** 5.7 (1)
 > **Definitions:** in other words (1)
@@ -2380,7 +2385,7 @@ created: 2026-04-29
 
 ### 6. Evasion Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Evading antivirus detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980)
@@ -2413,8 +2418,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Intrusion Detection]] (1), data (1), [[Virtualization]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2502,7 +2507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), switch (1), case, (1), type. (1)
+> **Frameworks & Libraries:** dns (1), [[Routing]] (1)
 > **Env Vars:** tcp (2), rfc (1), dns (1), icmp (1)
 > **Versions:** 192.168.1 (4)
 > **Ports:** port 80 (2)
@@ -2546,9 +2551,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Intrusion Detection]] (1)
 > **Env Vars:** ids (1), tcp (1), x86 (1), lhost (1), lport (1)
 > **Code Identifiers:** shikata_ga_nai (3), reverse_tcp (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Speakers:** - [instructor] (1), - format (1)
 > **CLI Commands:** make (1)
 > **Versions:** 10.0.2 (1)
@@ -2651,8 +2656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Google]] (1), dns (1)
 > **CLI Commands:** python (6), python3 (3), find (1), sudo (1)
-> **Code Keywords:** let (6), this. (2), this, (1), from. (1)
 > **File Paths:** wifipw.py (6), cloak.py (2), payload.txt (1)
 > **Env Vars:** https (2), dns (1)
 > **UI Navigation:** select the (2)
@@ -2683,6 +2688,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -2756,9 +2762,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Windows]] (3), [[Python (Programming Language)|Python]] (2), [[Engineering]] (1), [[Windows 10]] (1)
 > **Tools:** powershell (6), terminal (1), command line (1)
 > **Env Vars:** http (3), psh (1), lhost (1), lport (1), windev2002eval (1)
-> **Code Keywords:** let (3), this, (1), this. (1)
 > **CLI Commands:** python (2), make (1), sudo (1)
 > **Versions:** 10.0.2 (3)
 > **Code Identifiers:** meterpreter_reverse_http (2)
@@ -2812,7 +2818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (3), cd (2), application (1)
 > **CLI Commands:** cd (2)
 > **Env Vars:** clsid (1), uiclsid (1)
 > **File Paths:** desktop.ini (1)
@@ -2898,9 +2904,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Windows]] (7), application (1)
 > **File Paths:** ode.txt (9), hidden.txt (3), adsfile.txt (2)
 > **Env Vars:** ntfs (2), data (2), exe (1), dll (1)
-> **Code Keywords:** let (3), case. (1), interface (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Tools:** command line (1)
@@ -2951,8 +2957,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (6), traffic (3), [[Wireshark]] (2), data (1)
 > **Env Vars:** dns (6), dns0 (2), icmp (2)
-> **Code Keywords:** let (6), public (1), this. (1), interface (1)
 > **Versions:** 10.0.0 (3), 192.168.1 (2), 192.168.249 (1)
 > **URLs:** [test.com](https://test.com) (3)
 > **CLI Commands:** sudo (2)
@@ -2986,14 +2992,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** [[Virtualization]] (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980)
@@ -3018,6 +3024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[Cybersecurity]] (3), [[Ethical Hacking]] (3), cloud (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [malcolm] (1)
 

@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/software-testing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Succeeding%20in%20Software%20Testing.md)
@@ -45,31 +45,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Possibilities are endless in testing
-  - Who are you now?
+  - [Possibilities are endless in testing](#possibilities-are-endless-in-testing)
+  - [Who are you now?](#who-are-you-now)
 - [**1. You've Got the Skills**](#1-youve-got-the-skills) (3 videos)
-  - The greatest testers in the world
-  - Testing qualifications and training
-  - Learning through experience
+  - [The greatest testers in the world](#the-greatest-testers-in-the-world)
+  - [Testing qualifications and training](#testing-qualifications-and-training)
+  - [Learning through experience](#learning-through-experience)
 - [**2. Thinking Critically about Software Testing**](#2-thinking-critically-about-software-testing) (7 videos)
-  - The skills to succeed
-  - Growing better and broader in testing
-  - Specializing
-  - Excelling in exploratory testing
-  - Providing support through automation
-  - Trading in your testing hat
-  - Interview: Eric Proegler
+  - [The skills to succeed](#the-skills-to-succeed)
+  - [Growing better and broader in testing](#growing-better-and-broader-in-testing)
+  - [Specializing](#specializing)
+  - [Excelling in exploratory testing](#excelling-in-exploratory-testing)
+  - [Providing support through automation](#providing-support-through-automation)
+  - [Trading in your testing hat](#trading-in-your-testing-hat)
+  - [Interview: Eric Proegler](#interview-eric-proegler)
 - [**3. Continuing Success in Software Testing**](#3-continuing-success-in-software-testing) (4 videos)
-  - Thinking about your career growth
-  - Continual learning
-  - Steps 1, 2, 3 in being the best tester
-  - Interview: Stephanie Dukes
+  - [Thinking about your career growth](#thinking-about-your-career-growth)
+  - [Continual learning](#continual-learning)
+  - [Steps 1, 2, 3 in being the best tester](#steps-1-2-3-in-being-the-best-tester)
+  - [Interview: Stephanie Dukes](#interview-stephanie-dukes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Create your career
+  - [Create your career](#create-your-career)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Possibilities are endless in testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980)
@@ -94,6 +94,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), [[Software Testing]] (3), [[Software Development]] (1), teams (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
@@ -138,14 +139,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), career (3), [[End-to-end Testing]] (1), [[User Experience (UX)|User experience]] (1), feature (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - when (1)
 
 
 ### 1. You've Got the Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The greatest testers in the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980)
@@ -194,7 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), function (1)
+> **Frameworks & Libraries:** [[Software Testing]] (3), product (3), career (2), [[Engineering]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dhl (1), ups (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -273,6 +274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Testing]] (2), job description (1), [[Software Development]] (1), [[Automation]] (1), [[Front-End Development]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** rst (1), istqb (1)
@@ -326,13 +328,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), [[Software Testing]] (2), [[Swift (Programming Language)|Swift]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - from (1)
 
 
 ### 2. Thinking Critically about Software Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The skills to succeed
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980)
@@ -371,6 +374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), [[Software Testing]] (2), job description (1), [[Soft Skills]] (1), business (1)
 > **Analogies:** for example (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - so (1)
@@ -428,8 +432,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3), data (2), [[Software Testing]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -500,7 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** career (5), product (5), [[Security]] (3), [[Microsoft Products|Products]] (3), api (2)
 > **Env Vars:** api (2)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** find (1)
@@ -563,9 +567,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (12), business (3), [[Microsoft Products|Products]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** function (1)
 > **Env Vars:** b2b (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - there (1)
@@ -629,9 +633,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (9), [[Microsoft Products|Products]] (3), [[Engineering]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), power (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - we (1)
 
 #### Trading in your testing hat
@@ -687,8 +691,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), product (4), [[Microsoft Products|Products]] (2), business (2), [[Software Testing]] (2)
 > **CLI Commands:** find (5)
-> **Code Keywords:** this. (1), case, (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - the (1)
 
@@ -941,8 +945,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (10), [[Load Testing]] (3), business (2), product (2), [[Test Automation]] (1)
 > **Speakers:** - that (2), - amazing (2), - all (1), - oh (1), - you (1)
-> **Code Keywords:** this. (2), while. (2), super (1), self (1), let (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -950,7 +954,7 @@ created: 2026-04-29
 
 ### 3. Continuing Success in Software Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking about your career growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/thinking-about-your-career-growth?u=76281980)
@@ -1001,8 +1005,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), career (3), functional (1), product (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** continue (1)
 > **Analogies:** for example (1)
 > **Speakers:** - within (1)
 
@@ -1067,8 +1071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (4), business (2), teams (1), product (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (5), make (1)
-> **Code Keywords:** from. (1), continue (1)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - a (1)
@@ -1134,7 +1138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** business (6), product (5), [[Microsoft Products|Products]] (2), career (1)
 > **Speakers:** - after (1)
 
 #### Interview: Stephanie Dukes
@@ -1260,14 +1264,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (6), career (4), [[Technical Support]] (2), product (2), next (1)
 > **Speakers:** - i (2), - yeah (2), - folks (1), - one (1), - that (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** from, (1), for. (1), this. (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/create-your-career?u=76281980)
@@ -1294,8 +1298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - and (1)
 
 

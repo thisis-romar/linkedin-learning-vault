@@ -36,7 +36,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Python%20in%20Excel-%20Data%20Analysis%20and%20Visualization.md)
@@ -55,35 +55,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Do more with data using Python in Excel
-  - What you should know
+  - [Do more with data using Python in Excel](#do-more-with-data-using-python-in-excel)
+  - [What you should know](#what-you-should-know)
 - [**1. Exploratory Data Analysis**](#1-exploratory-data-analysis) (3 videos)
-  - Data used in this course
-  - Data preparation for analysis
-  - Augment data: Turn trends into insights
+  - [Data used in this course](#data-used-in-this-course)
+  - [Data preparation for analysis](#data-preparation-for-analysis)
+  - [Augment data: Turn trends into insights](#augment-data-turn-trends-into-insights)
 - [**2. Trends**](#2-trends) (4 videos)
-  - Natural language processing
-  - Python or Excel?
-  - Visualize trends
-  - Final project: Step 1
+  - [Natural language processing](#natural-language-processing)
+  - [Python or Excel?](#python-or-excel)
+  - [Visualize trends](#visualize-trends)
+  - [Final project: Step 1](#final-project-step-1)
 - [**3. Predictions**](#3-predictions) (5 videos)
-  - Predictive tools: Shaping future strategies
-  - ARIMA
-  - Advanced visualizations
-  - Outlier detection
-  - Final project: Step 2
+  - [Predictive tools: Shaping future strategies](#predictive-tools-shaping-future-strategies)
+  - [ARIMA](#arima)
+  - [Advanced visualizations](#advanced-visualizations)
+  - [Outlier detection](#outlier-detection)
+  - [Final project: Step 2](#final-project-step-2)
 - [**4. Dashboard for Consistent Monitoring**](#4-dashboard-for-consistent-monitoring) (3 videos)
-  - Build an effective dashboard
-  - Build an effective dashboard: Apply your skills
-  - Final project: Step 3
+  - [Build an effective dashboard](#build-an-effective-dashboard)
+  - [Build an effective dashboard: Apply your skills](#build-an-effective-dashboard-apply-your-skills)
+  - [Final project: Step 3](#final-project-step-3)
 - [**5. Final Project**](#5-final-project) (1 videos)
-  - Final project walk-through
+  - [Final project walk-through](#final-project-walk-through)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Do more with data using Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980)
@@ -104,8 +104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), [[Python (Programming Language)|Python]] (4), [[Data Manipulation]] (1), [[Automation]] (1)
 > **CLI Commands:** python (4)
-> **Code Keywords:** let (1)
 > **Speakers:** - have (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -132,9 +132,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Capstone]] (2), [[Microsoft Excel|Excel]] (1), feature (1), [[GitHub]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Prerequisites:** getting started (1), set up (1)
-> **Code Keywords:** let (1)
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - before (1)
@@ -142,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Exploratory Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data used in this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-used-in-this-course?u=76281980)
@@ -173,7 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (6), [[LinkedIn]] (1)
 > **URLs:** [lacity.org](https://lacity.org) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -256,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), delete (1), type, (1)
+> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), next (1)
 > **CLI Commands:** python (4), make (1)
 > **Cross-References:** go back to (1), later in (1)
 > **Speakers:** - [instructor] (1)
@@ -328,7 +328,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), type. (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** covid (1), sumif (1)
 > **Cross-References:** in the last (1)
@@ -337,7 +337,7 @@ created: 2026-04-29
 
 ### 2. Trends
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980)
@@ -394,7 +394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (1)
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (6), [[Microsoft Word|Word]] (4), [[Microsoft Excel|Excel]] (3), power (1)
 > **CLI Commands:** python (6), make (1)
 > **Env Vars:** nltk (3)
 > **Definitions:** is a  (1), refers to (1)
@@ -421,8 +421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (2), data (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [presenter] (1)
 
@@ -485,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (1), type, (1), this, (1), function (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), data (3)
 > **CLI Commands:** python (3), make (1)
 > **UI Navigation:** right-click (2), toggle (1)
 > **Env Vars:** occ (1)
@@ -513,14 +513,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (1), [[Capstone]] (1)
 > **CLI Commands:** python (2), find (2)
-> **Code Keywords:** let (1), continue (1)
 > **Speakers:** - at (1)
 
 
 ### 3. Predictions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive tools: Shaping future strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980)
@@ -559,10 +559,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Forecasting]] (3), next (2), [[Decision-Making]] (1), management (1)
 > **Env Vars:** arima (3)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Warnings:** warning (1)
 > **Speakers:** - predictions (1)
 
@@ -619,10 +619,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (1), prompt (1)
 > **Env Vars:** arima (6)
 > **Definitions:** stands for (3), is a  (1), refers to (1)
 > **CLI Commands:** python (2), make (1)
-> **Code Keywords:** let (2), continue (1)
 > **Tools:** command prompt (1)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** set up (1)
@@ -681,7 +681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Env Vars:** arima (2)
 > **Definitions:** is a  (1)
@@ -781,7 +781,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), this, (1), else. (1)
+> **Frameworks & Libraries:** data (13), next (3), [[Decision Trees]] (1), [[Automation]] (1), application (1)
 > **CLI Commands:** make (2), find (1), python (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -800,14 +800,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - with (1)
 
 
 ### 4. Dashboard for Consistent Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build an effective dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980)
@@ -854,7 +854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1), this, (1)
+> **Frameworks & Libraries:** data (3), [[Dashboards]] (1), [[Real-Time]] (1), business (1), next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - dashboards (1)
@@ -920,7 +920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), this, (2), let (2)
+> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [presenter] (1)
 
@@ -943,13 +943,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - from (1)
 
 
 ### 5. Final Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project walk-through
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980)
@@ -1016,7 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2), this, (1)
+> **Frameworks & Libraries:** data (5), next (2), [[Forecasting]] (1), [[Capstone]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1024,7 +1025,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980)
@@ -1043,8 +1044,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Capstone]] (1), next (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - congratulations (1)
 
 

@@ -34,7 +34,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%204%20Ethereum%20Development%20Tools.md)
@@ -53,15 +53,15 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Ethereum Development Tools**](#1-ethereum-development-tools) (5 videos)
-  - Your Ethereum development toolbox
-  - Installing Geth lab
-  - Installing Ganache lab
-  - Installing Truffle lab
-  - Installing Microsoft Visual Studio Code lab (IDE)
+  - [Your Ethereum development toolbox](#your-ethereum-development-toolbox)
+  - [Installing Geth lab](#installing-geth-lab)
+  - [Installing Ganache lab](#installing-ganache-lab)
+  - [Installing Truffle lab](#installing-truffle-lab)
+  - [Installing Microsoft Visual Studio Code lab (IDE)](#installing-microsoft-visual-studio-code-lab-ide)
 
 ### 1. Ethereum Development Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your Ethereum development toolbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980)
@@ -154,7 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Ethereum]] (12), [[Software Development]] (1), [[Blockchain]] (1), product (1), feature (1)
 > **CLI Commands:** make (2), find (2)
 > **URLs:** [ethereum.org](https://ethereum.org) (3)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -254,9 +254,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (10), [[Blockchain]] (5), node (4), [[Powershell]] (4), cd (3)
 > **CLI Commands:** node (4), make (4), cd (3)
 > **Prerequisites:** install (8)
-> **Code Keywords:** let (3), public (1), default, (1), interface (1)
 > **Tools:** powershell (4), command prompt (1)
 > **Env Vars:** evm (4)
 > **UI Navigation:** click on (2), go to (1), navigate to (1)
@@ -414,7 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), interface (2), else, (1), this. (1), default. (1)
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (4), [[Windows]] (3), [[Microsoft]] (3), node (1)
 > **Prerequisites:** install (9)
 > **UI Navigation:** click on (4), navigate to (1), go to (1)
 > **Definitions:** is a  (4), means that (1)
@@ -576,8 +576,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (11), [[npm]] (7), next (4), [[Powershell]] (4), [[JavaScript]] (4)
 > **CLI Commands:** node (13), npm (7), find (1), make (1)
-> **Code Keywords:** let (10), this. (2), default, (1)
 > **Prerequisites:** install (10), setup (2)
 > **File Paths:** node.js (11)
 > **Env Vars:** npm (7), url (1), msi (1)
@@ -722,8 +722,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Solidity]] (5), [[Windows]] (3), product (2), [[Smart Contracts]] (1), [[Microsoft]] (1)
 > **Tools:** visual studio (10), vs code (2)
-> **Code Keywords:** let (3), default. (2), super (1), else. (1), for. (1)
 > **Env Vars:** ide (5)
 > **Prerequisites:** install (5)
 > **UI Navigation:** click on (4)

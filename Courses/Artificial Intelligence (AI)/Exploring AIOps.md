@@ -38,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/it-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Exploring%20AIOps.md)
@@ -57,14 +57,14 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Exploring AIOps
+  - [Exploring AIOps](#exploring-aiops)
 - [**1. AIOps Explained**](#1-aiops-explained) (2 videos)
-  - AIOps defined
-  - How AIOps works in the real world
+  - [AIOps defined](#aiops-defined)
+  - [How AIOps works in the real world](#how-aiops-works-in-the-real-world)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring AIOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-aiops/exploring-aiops?u=76281980)
@@ -81,14 +81,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[AIOps]] (2), [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - aiops (1)
 
 
 ### 1. AIOps Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AIOps defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-aiops/aiops-defined?u=76281980)
@@ -135,6 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AIOps]] (9), ai (6), [[DevOps]] (1), business (1), [[Big Data]] (1)
 > **Speakers:** - along (1), - think (1), - in (1)
 > **Definitions:** short for (1)
 > **Analogies:** similar to (1)
@@ -362,8 +363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[AIOps]] (30), data (24), ai (13), business (7), management (3)
 > **Speakers:** - so (4), - and (2), - this (2), - aiops (2), - having (1)
-> **Code Keywords:** let (5), this, (2), continue (1), this. (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (4), in other words (1), is an  (1)
 > **Analogies:** for example (5), picture (1)

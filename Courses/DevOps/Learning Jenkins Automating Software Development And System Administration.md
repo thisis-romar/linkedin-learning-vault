@@ -25,7 +25,7 @@ tags:
   - topic/devops
   - skill/jenkins
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Jenkins%20Automating%20Software%20Development%20And%20System%20Administration.md)
@@ -44,51 +44,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Kickstart your DevOps journey with Jenkins
-  - Why choose Jenkins?
-  - Prerequisites and key terms
+  - [Kickstart your DevOps journey with Jenkins](#kickstart-your-devops-journey-with-jenkins)
+  - [Why choose Jenkins?](#why-choose-jenkins)
+  - [Prerequisites and key terms](#prerequisites-and-key-terms)
 - [**1. Installing Jenkins**](#1-installing-jenkins) (6 videos)
-  - System requirements
-  - Finish a Jenkins installation
-  - The Jenkins user interface
-  - Manage plugins
-  - Manage tools
-  - Solution: Set up a Jenkins server on Windows
+  - [System requirements](#system-requirements)
+  - [Finish a Jenkins installation](#finish-a-jenkins-installation)
+  - [The Jenkins user interface](#the-jenkins-user-interface)
+  - [Manage plugins](#manage-plugins)
+  - [Manage tools](#manage-tools)
+  - [Solution: Set up a Jenkins server on Windows](#solution-set-up-a-jenkins-server-on-windows)
 - [**2. Jenkins Jobs**](#2-jenkins-jobs) (9 videos)
-  - Your first jenkins job
-  - Job types
-  - Build description and source code management
-  - Build triggers
-  - The build environment
-  - Run and monitor jobs
-  - Run and monitor jobs using console output
-  - Monitor build trends
-  - Solution: Automate system monitoring with Jenkins
+  - [Your first jenkins job](#your-first-jenkins-job)
+  - [Job types](#job-types)
+  - [Build description and source code management](#build-description-and-source-code-management)
+  - [Build triggers](#build-triggers)
+  - [The build environment](#the-build-environment)
+  - [Run and monitor jobs](#run-and-monitor-jobs)
+  - [Run and monitor jobs using console output](#run-and-monitor-jobs-using-console-output)
+  - [Monitor build trends](#monitor-build-trends)
+  - [Solution: Automate system monitoring with Jenkins](#solution-automate-system-monitoring-with-jenkins)
 - [**3. Job Workspaces, Artifacts, and Parameters**](#3-job-workspaces-artifacts-and-parameters) (9 videos)
-  - Using a global build tool
-  - Browse a job's workspace
-  - Manage artifacts
-  - Parameters and environment variables
-  - String parameters
-  - Choice parameters
-  - Boolean parameters
-  - Schedule jobs
-  - Solution: Use a build tool and parameters
+  - [Using a global build tool](#using-a-global-build-tool)
+  - [Browse a job's workspace](#browse-a-jobs-workspace)
+  - [Manage artifacts](#manage-artifacts)
+  - [Parameters and environment variables](#parameters-and-environment-variables)
+  - [String parameters](#string-parameters)
+  - [Choice parameters](#choice-parameters)
+  - [Boolean parameters](#boolean-parameters)
+  - [Schedule jobs](#schedule-jobs)
+  - [Solution: Use a build tool and parameters](#solution-use-a-build-tool-and-parameters)
 - [**4. Organize Jobs with Views and Folders**](#4-organize-jobs-with-views-and-folders) (6 videos)
-  - Views and folders
-  - Create a view
-  - Create a folder
-  - Search with the command palette
-  - Delete views and folders
-  - Solution: Create folders and views
+  - [Views and folders](#views-and-folders)
+  - [Create a view](#create-a-view)
+  - [Create a folder](#create-a-folder)
+  - [Search with the command palette](#search-with-the-command-palette)
+  - [Delete views and folders](#delete-views-and-folders)
+  - [Solution: Create folders and views](#solution-create-folders-and-views)
 - [**Conclusion**](#conclusion) (3 videos)
-  - Pipeline as code
-  - Build agents and cloud runners
-  - Next steps with Jenkins
+  - [Pipeline as code](#pipeline-as-code)
+  - [Build agents and cloud runners](#build-agents-and-cloud-runners)
+  - [Next steps with Jenkins](#next-steps-with-jenkins)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Kickstart your DevOps journey with Jenkins
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980)
@@ -115,8 +115,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (6), [[Automation]] (1), [[Software Development]] (1), application (1), [[Git]] (1)
 > **CLI Commands:** git (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - automation (1)
 
 #### Why choose Jenkins?
@@ -162,7 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2)
+> **Frameworks & Libraries:** [[Jenkins]] (11), [[Software Development]] (1), [[GitHub]] (1), next (1), application (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** find (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -226,7 +226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), finally, (1)
+> **Frameworks & Libraries:** [[Jenkins]] (10), [[Windows]] (2), [[Linux]] (2), web (1), application (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Tools:** command line (2), terminal (1), bash (1), powershell (1)
 > **Analogies:** for example (2)
@@ -238,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Installing Jenkins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### System requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980)
@@ -281,6 +281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[Java]] (6), [[Hardware]] (2), web (1), application (1)
 > **CLI Commands:** docker (4), find (1)
 > **Prerequisites:** you'll need (2), install (2)
 > **Env Vars:** ram (2)
@@ -288,7 +289,6 @@ created: 2026-04-29
 > **Versions:** java 21 (1)
 > **Cross-References:** in the next (1)
 > **Tools:** docker desktop (1)
-> **Definitions:** is a  (1)
 
 #### Finish a Jenkins installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/finish-a-jenkins-installation?u=76281980)
@@ -329,9 +329,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (4), next (2)
 > **CLI Commands:** docker (2), find (1)
 > **Prerequisites:** install (2), you'll need (1)
-> **Code Keywords:** continue (1), let (1)
 > **Ports:** port 80 (1)
 > **Env Vars:** url (1)
 > **Exercise Files:** exercise files (1)
@@ -368,6 +368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (5), next (1), node (1), [[Security]] (1)
 > **Prerequisites:** install (2), getting started (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
@@ -431,7 +432,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), continue (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6), [[Search]] (2), feature (1), next (1), prompt (1)
 > **UI Navigation:** select the (2), click on (1), checkbox (1), go to (1)
 > **Env Vars:** ldap (2), url (1)
 > **Prerequisites:** install (2)
@@ -481,7 +482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (2)
+> **Frameworks & Libraries:** [[Jenkins]] (4), [[Git]] (3), [[Java]] (1), [[Windows]] (1)
 > **CLI Commands:** git (3)
 > **Prerequisites:** install (2), configure (1)
 > **Versions:** 3.9.9 (1)
@@ -577,7 +578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), this, (1), override (1), finally, (1)
+> **Frameworks & Libraries:** [[Jenkins]] (18), next (10), [[Java]] (7), [[Windows]] (3), [[Git]] (3)
 > **Prerequisites:** install (7), setup (2)
 > **CLI Commands:** git (3), make (1)
 > **UI Navigation:** select the (2), open the (1), go to (1)
@@ -589,7 +590,7 @@ created: 2026-04-29
 
 ### 2. Jenkins Jobs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Your first jenkins job
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980)
@@ -668,8 +669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[Windows]] (3), application (1), [[Programming]] (1), api (1)
 > **CLI Commands:** make (2), docker (2)
-> **Code Keywords:** let (1), this. (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Env Vars:** api (1)
 > **Tools:** command line (1)
@@ -712,7 +713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (2)
+> **Frameworks & Libraries:** [[Jenkins]] (3)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
@@ -763,9 +764,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (6), management (2), [[Git]] (2), feature (1), [[GitHub]] (1)
 > **CLI Commands:** git (2), make (1)
 > **Tools:** github (1), gitlab (1), bitbucket (1)
-> **Code Keywords:** let (2)
 > **Exercise Files:** source code (2)
 > **Env Vars:** url (1)
 > **UI Navigation:** select the (1)
@@ -819,9 +820,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (12), [[GitHub]] (7), feature (2), next (1), web (1)
 > **Tools:** github (7)
 > **Env Vars:** url (1), api (1), scm (1)
-> **Code Keywords:** let (1), continue (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -895,7 +896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), default, (1), case, (1), interface (1)
+> **Frameworks & Libraries:** [[Jenkins]] (8), [[Windows]] (2), [[Java]] (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
@@ -948,7 +949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (1), case, (1)
+> **Frameworks & Libraries:** [[Jenkins]] (3), [[Windows]] (2), next (2), [[Linux]] (1)
 > **CLI Commands:** docker (1)
 > **Cross-References:** in the next (1)
 > **Tools:** bash (1)
@@ -1016,7 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (1)
+> **Frameworks & Libraries:** next (5), [[Jenkins]] (4), power (1)
 > **UI Navigation:** select the (3), open the (1), scroll down (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **Prerequisites:** configure (2)
@@ -1043,7 +1044,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** feature (1), next (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1085,6 +1086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Jenkins]] (1), next (1)
 > **Exercise Files:** exercise files (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -1093,7 +1095,7 @@ created: 2026-04-29
 
 ### 3. Job Workspaces, Artifacts, and Parameters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a global build tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980)
@@ -1200,7 +1202,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), default. (2), private (1), public (1)
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[Git]] (6), [[Windows]] (4), [[Java]] (4), [[GitHub]] (3)
 > **CLI Commands:** git (6), make (3), docker (2)
 > **Prerequisites:** you'll need (3), configure (2), set up (2), install (1), make sure you have (1)
 > **Env Vars:** url (4), git (1)
@@ -1250,7 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2)
+> **Frameworks & Libraries:** [[Jenkins]] (2), next (2), [[GitHub]] (1)
 > **Prerequisites:** configure (1), you'll need (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
@@ -1313,7 +1315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Jenkins]] (3), product (1), [[Microsoft Products|Products]] (1), [[Search]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** exc (1), jar (1)
 > **UI Navigation:** go to (1)
@@ -1360,10 +1362,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (3), [[Windows]] (2), [[Linux]] (2), [[Automation]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** docker (2)
 > **Env Vars:** build_id (1), build_number (1)
 > **Best Practices:** good practice (2)
-> **Code Keywords:** let (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1411,7 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (2), case, (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2), [[Windows]] (2), next (1), prompt (1), [[Linux]] (1)
 > **CLI Commands:** docker (2)
 > **Versions:** 1.0.0 (2)
 > **Code Identifiers:** macos (1)
@@ -1460,7 +1462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (2), default, (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Jenkins]] (2), next (1)
 > **CLI Commands:** docker (2)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** configure (1)
@@ -1529,7 +1531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (1), default. (1)
+> **Frameworks & Libraries:** [[Windows]] (3), next (2), [[Jenkins]] (2)
 > **Env Vars:** run_tests (6)
 > **CLI Commands:** docker (2)
 > **UI Navigation:** checkbox (1), go to (1)
@@ -1628,7 +1630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Jenkins]] (12), next (2), data (1), [[System Administration]] (1), [[Slack]] (1)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (2)
 > **Analogies:** similar to (1), for example (1)
@@ -1724,10 +1726,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (5), [[Windows]] (4), [[Jenkins]] (3), [[GitHub]] (1), [[Java]] (1)
 > **CLI Commands:** git (5), make (3)
 > **Exercise Files:** exercise files (2), source code (1)
 > **Prerequisites:** set up (2), install (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** url (1)
 > **Tools:** github (1)
 > **Speakers:** - okay (1)
@@ -1736,7 +1738,7 @@ created: 2026-04-29
 
 ### 4. Organize Jobs with Views and Folders
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Views and folders
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/views-and-folders?u=76281980)
@@ -1777,7 +1779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1)
+> **Frameworks & Libraries:** [[Jenkins]] (5), feature (1)
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1848,7 +1850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), this: (1)
+> **Frameworks & Libraries:** next (3), [[Jenkins]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** build (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1938,7 +1940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), interface (1), default, (1)
+> **Frameworks & Libraries:** [[Jenkins]] (4), next (1), prompt (1)
 > **UI Navigation:** drag and drop (1), select the (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -1977,7 +1979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1), interface (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (7), [[Jenkins]] (4), feature (1), [[Windows]] (1)
 > **Env Vars:** deploy (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -2013,7 +2015,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), public (1)
 > **Warnings:** warning (2), keep in mind (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2067,7 +2068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Jenkins]] (2), [[Engineering]] (2), [[Microsoft Word|Word]] (1), [[Windows]] (1), [[Search]] (1)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2076,7 +2077,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pipeline as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980)
@@ -2133,7 +2134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Jenkins]] (5), [[Java]] (3), application (2), [[Automation]] (1)
 > **Cross-References:** earlier in (2)
 > **Prerequisites:** configure (2)
 > **Definitions:** is a  (1)
@@ -2172,7 +2173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6), cloud (4), teams (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2192,7 +2193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Jenkins]] (3), [[Automation]] (2), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - we (1)
 

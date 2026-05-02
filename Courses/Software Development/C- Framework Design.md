@@ -28,7 +28,7 @@ tags:
   - skill/framework-design
   - skill/c
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Framework%20Design.md)
@@ -47,32 +47,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Framework design with C#
-  - What you should know
+  - [Framework design with C#](#framework-design-with-c)
+  - [What you should know](#what-you-should-know)
 - [**1. Framework Design**](#1-framework-design) (4 videos)
-  - Design frameworks
-  - Code encapsulation
-  - Design interfaces
-  - Modular clases
+  - [Design frameworks](#design-frameworks)
+  - [Code encapsulation](#code-encapsulation)
+  - [Design interfaces](#design-interfaces)
+  - [Modular clases](#modular-clases)
 - [**2. Extending Frameworks**](#2-extending-frameworks) (3 videos)
-  - Create independent modules
-  - Enforce an architecture pattern
-  - Extend a framework
+  - [Create independent modules](#create-independent-modules)
+  - [Enforce an architecture pattern](#enforce-an-architecture-pattern)
+  - [Extend a framework](#extend-a-framework)
 - [**3. Hosting Code**](#3-hosting-code) (4 videos)
-  - Share framework
-  - Hosting frameworks
-  - Document a framework
-  - Setting up Github
+  - [Share framework](#share-framework)
+  - [Hosting frameworks](#hosting-frameworks)
+  - [Document a framework](#document-a-framework)
+  - [Setting up Github](#setting-up-github)
 - [**4. Continuous Integration**](#4-continuous-integration) (3 videos)
-  - What is CI
-  - Custom build scripts
-  - Using Github actions
+  - [What is CI](#what-is-ci)
+  - [Custom build scripts](#custom-build-scripts)
+  - [Using Github actions](#using-github-actions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Share framework with the community
+  - [Share framework with the community](#share-framework-with-the-community)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Framework design with C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/framework-design-with-c-sharp?u=76281980)
@@ -91,7 +91,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** [[Framework Design]] (1)
 > **Speakers:** - [jesse] (1)
 
 #### What you should know
@@ -107,16 +107,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), api (1), [[Version Control]] (1)
 > **Env Vars:** ide (1), api (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Framework Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/design-frameworks?u=76281980)
@@ -185,7 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), self (1), finally, (1)
+> **Frameworks & Libraries:** generic (2), application (2), [[Programming]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** net (2)
@@ -247,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), protected (4), private (2), finally, (2), class, (1)
+> **Frameworks & Libraries:** data (7), next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), oop (1), api (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** oop (1), api (1)
 > **Warnings:** keep in mind (2)
@@ -320,7 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (11), public (4), let (2), class. (2), implements (1)
+> **Frameworks & Libraries:** data (3), application (1), next (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [narrator] (1)
@@ -404,7 +404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), abstract (3), module (1), finally, (1), public (1)
+> **Frameworks & Libraries:** business (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), data (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -413,7 +413,7 @@ created: 2026-04-29
 
 ### 2. Extending Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create independent modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/create-independent-modules?u=76281980)
@@ -476,7 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (2), self (2), switch (1), case. (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Version Control]] (1)
 > **CLI Commands:** make (2), git (2), find (1)
 > **Best Practices:** it's best to (1)
 > **Warnings:** keep in mind (1)
@@ -553,7 +553,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (3), class, (3), public (2), let (2), class. (2)
+> **Frameworks & Libraries:** game (7), api (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Design Patterns]] (1), business (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2)
 > **Tools:** github (1)
@@ -667,7 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (16), let (11), class, (6), abstract (5), class. (5)
+> **Frameworks & Libraries:** game (9), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), business (2), [[GitHub]] (1), hit (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2), just like (1)
 > **Non-Speech:** (keyboard clicking) (3)
@@ -679,7 +679,7 @@ created: 2026-04-29
 
 ### 3. Hosting Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Share framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework?u=76281980)
@@ -768,7 +768,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), public (2), finally, (1), require (1), let (1)
+> **Frameworks & Libraries:** next (2), api (1), [[GitHub]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** net (4), api (1)
 > **Tools:** visual studio (3), github (1)
@@ -872,9 +872,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (10), [[Version Control]] (5), game (3), [[Bitbucket]] (3), [[Git]] (1)
 > **Tools:** github (10), bitbucket (3), jira (1), gitlab (1)
 > **CLI Commands:** find (4), make (3), git (1)
-> **Code Keywords:** finally, (3), case, (1), private (1)
 > **Exercise Files:** source code (2), github repo (2)
 > **Env Vars:** sdk (1), readme (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -962,7 +962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), class. (1), return, (1), continue (1), this, (1)
+> **Frameworks & Libraries:** node (3), api (1), [[Microsoft Word|Word]] (1), hit (1)
 > **Tools:** visual studio (7)
 > **Env Vars:** todo (3), xml (2), api (1)
 > **CLI Commands:** node (3), make (1)
@@ -1086,8 +1086,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (18), next (2), hit (2), web (1), [[Automation]] (1)
 > **Tools:** github (18), visual studio (3), terminal (1)
-> **Code Keywords:** let (12), this, (2), switch (1), return. (1)
 > **Env Vars:** readme (6), issue_template (1), code_of_conduct (1)
 > **CLI Commands:** make (2), find (1), git (1)
 > **Cross-References:** go back to (3), in the next (1)
@@ -1098,7 +1098,7 @@ created: 2026-04-29
 
 ### 4. Continuous Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is CI
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980)
@@ -1135,12 +1135,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (6), ci (3), [[GitHub]] (2), [[Node.js]] (2), [[Git]] (1)
 > **Tools:** command line (2), github (2), terminal (1)
 > **CLI Commands:** node (2), git (1), make (1)
 > **Env Vars:** net (2), dll (1)
 > **File Paths:** node.js (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this, (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 
@@ -1261,7 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (2), return, (1), self (1), this. (1)
+> **Frameworks & Libraries:** game (9), node (4), [[CLI]] (3), hit (1), oop (1)
 > **Env Vars:** net (8), cli (3), oop (1), dll (1), npm (1)
 > **CLI Commands:** node (5), dotnet (1), npm (1), make (1)
 > **Tools:** command line (5), visual studio (2), terminal (1)
@@ -1387,7 +1387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (2), for . (2), this, (1), default, (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), node (4), [[JSON]] (3), [[npm]] (3), next (3)
 > **Non-Speech:** (text typing) (10)
 > **CLI Commands:** node (4), npm (3), make (2)
 > **Tools:** github (8), command line (1)
@@ -1399,7 +1399,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Share framework with the community
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980)
@@ -1418,6 +1418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), game (1), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 

@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Denial%20of%20Service.md)
@@ -48,47 +48,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Understanding and defeating denial-of-service attacks
-  - What you should know
-  - Disclaimer
+  - [Understanding and defeating denial-of-service attacks](#understanding-and-defeating-denial-of-service-attacks)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. What Is a Denial of Service?**](#1-what-is-a-denial-of-service) (2 videos)
-  - Understanding denial of service
-  - Using Python to test denial of service
+  - [Understanding denial of service](#understanding-denial-of-service)
+  - [Using Python to test denial of service](#using-python-to-test-denial-of-service)
 - [**2. Infrastructure Denial of Service**](#2-infrastructure-denial-of-service) (7 videos)
-  - TCP SYN flooding using hping3
-  - Using Hyena to run a reflection attack
-  - UDP flooding with LOIC
-  - ARP poisoning with Ettercap
-  - Using NTP to amplify attacks
-  - NEW: Amplification using memcached
-  - NEW: When is a DDoS not a DDoS?
+  - [TCP SYN flooding using hping3](#tcp-syn-flooding-using-hping3)
+  - [Using Hyena to run a reflection attack](#using-hyena-to-run-a-reflection-attack)
+  - [UDP flooding with LOIC](#udp-flooding-with-loic)
+  - [ARP poisoning with Ettercap](#arp-poisoning-with-ettercap)
+  - [Using NTP to amplify attacks](#using-ntp-to-amplify-attacks)
+  - [NEW: Amplification using memcached](#new-amplification-using-memcached)
+  - [NEW: When is a DDoS not a DDoS?](#new-when-is-a-ddos-not-a-ddos)
 - [**3. Wireless Denial of Service**](#3-wireless-denial-of-service) (1 videos)
-  - Deauthenticating a wireless host
+  - [Deauthenticating a wireless host](#deauthenticating-a-wireless-host)
 - [**4. Application Denial of Service**](#4-application-denial-of-service) (6 videos)
-  - Flooding HTTP using GoldenEye
-  - Testing webapps using OWASP SwitchBlade
-  - Understanding BlackEnergy
-  - Killing the FTP service
-  - RangeAmp attacks on the CDN
-  - Profiling Killnet
+  - [Flooding HTTP using GoldenEye](#flooding-http-using-goldeneye)
+  - [Testing webapps using OWASP SwitchBlade](#testing-webapps-using-owasp-switchblade)
+  - [Understanding BlackEnergy](#understanding-blackenergy)
+  - [Killing the FTP service](#killing-the-ftp-service)
+  - [RangeAmp attacks on the CDN](#rangeamp-attacks-on-the-cdn)
+  - [Profiling Killnet](#profiling-killnet)
 - [**5. SIP Service Attacks**](#5-sip-service-attacks) (1 videos)
-  - Flooding a SIP server
+  - [Flooding a SIP server](#flooding-a-sip-server)
 - [**6. Ransomware**](#6-ransomware) (3 videos)
-  - Explaining ransomware
-  - Understanding Cryptolocker
-  - Understanding Petya
+  - [Explaining ransomware](#explaining-ransomware)
+  - [Understanding Cryptolocker](#understanding-cryptolocker)
+  - [Understanding Petya](#understanding-petya)
 - [**7. Mitigation Techniques**](#7-mitigation-techniques) (5 videos)
-  - Defeating denial-of-service attacks
-  - Commercial anti-DOS services
-  - Detecting P2P attacks with PeerShark
-  - NIST guidance on mitigating DDOS
-  - Considering IoT denial
+  - [Defeating denial-of-service attacks](#defeating-denial-of-service-attacks)
+  - [Commercial anti-DOS services](#commercial-anti-dos-services)
+  - [Detecting P2P attacks with PeerShark](#detecting-p2p-attacks-with-peershark)
+  - [NIST guidance on mitigating DDOS](#nist-guidance-on-mitigating-ddos)
+  - [Considering IoT denial](#considering-iot-denial)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary
+  - [Summary](#summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding and defeating denial-of-service attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Forms]] (1), business (1), career (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -131,6 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Virtualization]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -158,14 +159,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. What Is a Denial of Service?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding denial of service
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980)
@@ -300,9 +301,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (4), application (4), [[Routing]] (3), dns (3)
 > **Env Vars:** icmp (5), udp (3), arp (3), dns (3), http (3)
 > **Definitions:** is a  (4), known as (4)
-> **Code Keywords:** this, (1), require (1), let (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -375,7 +376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), self (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Defender]] (1), next (1)
 > **Env Vars:** http (7)
 > **CLI Commands:** python (3), apache (1), make (1)
 > **Ports:** port 80 (1), port 90 (1)
@@ -387,7 +388,7 @@ created: 2026-04-29
 
 ### 2. Infrastructure Denial of Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### TCP SYN flooding using hping3
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980)
@@ -488,8 +489,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), data (3), [[Kali Linux]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** syn (14), tcp (13), ack (4), icmp (3), cpu (3)
-> **Code Keywords:** let (3), case, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** setup (2)
@@ -618,8 +619,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Wireshark]] (2), data (1), [[Windows 10]] (1), traffic (1)
 > **Env Vars:** mac (10), icmp (5), arp (2), ipv4 (1), ttl (1)
-> **Code Keywords:** interface (3), let (2), this. (1), require (1), type. (1)
 > **Versions:** 10.0.2 (3)
 > **UI Navigation:** select the (3)
 > **Ports:** :00 (1), :27 (1)
@@ -710,8 +711,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (3), [[Windows 10]] (3), application (1), [[Windows]] (1)
 > **Env Vars:** loic (9), udp (4), vnc (3), tcp (2), http (1)
-> **Code Keywords:** let (3), interface (1), default. (1)
 > **Exercise Files:** zip file (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -817,7 +818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), interface (4), function (1), super (1), this. (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), traffic (2), feature (1), web (1), [[Windows]] (1)
 > **Env Vars:** dos (3), arp (3), udp (2), syn (1), mac (1)
 > **Versions:** 10.0.2 (5)
 > **Cross-References:** go back to (2)
@@ -949,8 +950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Ubuntu]] (2), [[Wireshark]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1)
 > **Env Vars:** ntp (25), udp (3), mac (1)
-> **Code Keywords:** let (5), function (1), continue (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** python (2), make (1)
 > **Tools:** terminal (1), github (1), command line (1)
@@ -983,12 +984,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), data (2), web (1), management (1), hit (1)
 > **Env Vars:** udp (5), tcp (2), ddos (2), ntp (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (2)
 > **Ports:** port 11211 (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Versions:** 1.35 (1)
 > **Analogies:** such as (1)
 
@@ -1031,15 +1032,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), [[Microsoft Products|Products]] (1), next (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** fcc (12)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Wireless Denial of Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deauthenticating a wireless host
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980)
@@ -1100,8 +1101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), traffic (2), business (1), [[Hardware]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** bssid (2), essid (1), mac (1), tpg (1)
-> **Code Keywords:** interface (2), let (1)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
@@ -1110,7 +1111,7 @@ created: 2026-04-29
 
 ### 4. Application Denial of Service
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Flooding HTTP using GoldenEye
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980)
@@ -1213,9 +1214,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), web (2), concurrent (2), [[GitHub]] (1), [[Windows 10]] (1)
 > **Env Vars:** output (1), tcp (1), drop (1), cpu (1)
 > **File Paths:** goldeneye.py (2)
-> **Code Keywords:** let (1), protected (1)
 > **Versions:** 192.168.1 (2)
 > **Tools:** github (1), terminal (1)
 > **UI Navigation:** click on (1), navigate to (1)
@@ -1299,8 +1300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (6), web (3), application (2), web application (1), [[Security]] (1)
 > **Env Vars:** owasp (6), post (3), ssl (3), http (2), owtf (1)
-> **Code Keywords:** let (5), interface (1)
 > **API Endpoints:** post  (3)
 > **Analogies:** such as (2), similar to (1)
 > **Versions:** 10.0.2 (1)
@@ -1397,9 +1398,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (5), [[Microsoft Products|Products]] (2), [[PHP]] (2), web (1), traffic (1)
 > **Env Vars:** http (3), dll (2), php (2), rc4 (1), xml (1)
 > **CLI Commands:** php (2), mysql (1)
-> **Code Keywords:** let (1), module (1), interface (1)
 > **Definitions:** is a  (2), known as (1)
 > **API Endpoints:** get  (1)
 > **Cross-References:** earlier in (1)
@@ -1448,9 +1449,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (1), application (1)
 > **Env Vars:** ftp (6)
 > **Versions:** 10.0.2 (2), version 0 (1)
-> **Code Keywords:** require (1), let (1)
 > **Definitions:** is a  (2)
 > **Tools:** terminal (1)
 > **Analogies:** such as (1)
@@ -1481,8 +1482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), web (1), traffic (1)
 > **Env Vars:** cdn (3), http (2)
-> **Code Keywords:** case, (1), function (1)
 > **Speakers:** - [instructor] (1)
 
 #### Profiling Killnet
@@ -1544,7 +1545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2)
+> **Frameworks & Libraries:** [[Security]] (1)
 > **API Endpoints:** get  (1), post  (1)
 > **Env Vars:** syn (1), post (1)
 > **Cross-References:** later in (1)
@@ -1555,7 +1556,7 @@ created: 2026-04-29
 
 ### 5. SIP Service Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Flooding a SIP server
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980)
@@ -1686,8 +1687,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Windows]] (2), traffic (2), [[Windows 10]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** sip (15), voip (8), rtp (1)
-> **Code Keywords:** this, (2), pass (1), module (1)
 > **Prerequisites:** setup (2), set up (1), install (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1), click on (1)
@@ -1698,7 +1699,7 @@ created: 2026-04-29
 
 ### 6. Ransomware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980)
@@ -1769,7 +1770,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1)
+> **Frameworks & Libraries:** [[Cryptography]] (4), [[Phishing]] (1), [[Security]] (1)
 > **Env Vars:** aids (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -1837,7 +1838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (3), public (2), let (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Adobe Photoshop]] (1), [[Microsoft Office]] (1)
 > **Env Vars:** aes (1), cash (1), cashu (1)
 > **Analogies:** such as (2)
 > **Best Practices:** the key is (1)
@@ -1896,7 +1897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), function (1)
+> **Frameworks & Libraries:** [[Windows]] (1), data (1), hr (1), [[Microsoft]] (1)
 > **Exercise Files:** download the (2)
 > **Env Vars:** jpeg (1)
 > **Versions:** 400.00 (1)
@@ -1906,7 +1907,7 @@ created: 2026-04-29
 
 ### 7. Mitigation Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defeating denial-of-service attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980)
@@ -2023,10 +2024,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (13), data (2), business (2), [[Real-Time]] (2), [[Telecommunications]] (1)
 > **Env Vars:** icmp (3), acc (2), tcp (2), syn (1), darpa (1)
 > **Definitions:** is a  (4), is an  (3), known as (1)
 > **Analogies:** such as (4), for example (1)
-> **Code Keywords:** try. (1), this, (1), type, (1), static (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** itrace (1)
 > **Speakers:** - [instructor] (1)
@@ -2066,6 +2067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), [[Google]] (3), web (3), cloud (2), application (2)
 > **Env Vars:** sin (1), udp (1), icmp (1)
 > **Versions:** 2.8 (1)
 > **Definitions:** is a  (1)
@@ -2150,8 +2152,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), data (5), node (2), application (2), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Env Vars:** p2p (15)
-> **Code Keywords:** module (6), self (1), pass (1)
 > **CLI Commands:** node (2)
 > **Code Identifiers:** emule (1), utorrent (1)
 > **Definitions:** is an  (2)
@@ -2216,8 +2218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (4), [[NIST]] (2), [[Security]] (2), [[Routing]] (1)
 > **Env Vars:** bgp (3), nist (2)
-> **Code Keywords:** let (1)
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2274,6 +2276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (5), [[Intrusion Detection]] (2), [[Internet of Things (IoT)|Internet of things]] (1), power (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** http (1)
 > **Analogies:** such as (1)
@@ -2282,7 +2285,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980)
@@ -2309,6 +2312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (3), cloud (2), [[Kali Linux]] (1), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)

@@ -23,7 +23,7 @@ tags:
   - topic/devops
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Dependency%20Mapping%20for%20Cloud%20Migration.md)
@@ -42,36 +42,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The role of application dependency
+  - [The role of application dependency](#the-role-of-application-dependency)
 - [**1. Application Dependency and Cloud Services**](#1-application-dependency-and-cloud-services) (5 videos)
-  - Application migration overview
-  - Migrating applications to the cloud
-  - Application dependency mapping
-  - Considerations for cloud migration
-  - Detailing app dependencies for cloud migration
+  - [Application migration overview](#application-migration-overview)
+  - [Migrating applications to the cloud](#migrating-applications-to-the-cloud)
+  - [Application dependency mapping](#application-dependency-mapping)
+  - [Considerations for cloud migration](#considerations-for-cloud-migration)
+  - [Detailing app dependencies for cloud migration](#detailing-app-dependencies-for-cloud-migration)
 - [**2. Application Dependency Mapping Techniques**](#2-application-dependency-mapping-techniques) (4 videos)
-  - Using installed agents
-  - Using the sweep and pull method
-  - Using network monitoring
-  - Using intelligent traffic-based mapping
+  - [Using installed agents](#using-installed-agents)
+  - [Using the sweep and pull method](#using-the-sweep-and-pull-method)
+  - [Using network monitoring](#using-network-monitoring)
+  - [Using intelligent traffic-based mapping](#using-intelligent-traffic-based-mapping)
 - [**3. Planning for the Migration of Applications Dependencies to the Cloud**](#3-planning-for-the-migration-of-applications-dependencies-to-the-cloud) (4 videos)
-  - Application options for cloud migrations
-  - Establishing a versioning scheme
-  - Documenting middleware configurations
-  - Documenting operating system dependencies
+  - [Application options for cloud migrations](#application-options-for-cloud-migrations)
+  - [Establishing a versioning scheme](#establishing-a-versioning-scheme)
+  - [Documenting middleware configurations](#documenting-middleware-configurations)
+  - [Documenting operating system dependencies](#documenting-operating-system-dependencies)
 - [**4. Using Cloud Service Provider Migration Tools**](#4-using-cloud-service-provider-migration-tools) (6 videos)
-  - Using the migration process in Google Cloud
-  - Using the Google Cloud Migrate tool
-  - Working in Microsoft Azure
-  - Using the Azure Migrate tool
-  - Working in Amazon Web Services (AWS)
-  - Using the AWS Server Migration tool
+  - [Using the migration process in Google Cloud](#using-the-migration-process-in-google-cloud)
+  - [Using the Google Cloud Migrate tool](#using-the-google-cloud-migrate-tool)
+  - [Working in Microsoft Azure](#working-in-microsoft-azure)
+  - [Using the Azure Migrate tool](#using-the-azure-migrate-tool)
+  - [Working in Amazon Web Services (AWS)](#working-in-amazon-web-services-aws)
+  - [Using the AWS Server Migration tool](#using-the-aws-server-migration-tool)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in cloud migration
+  - [Next steps in cloud migration](#next-steps-in-cloud-migration)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of application dependency
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/the-role-of-application-dependency?u=76281980)
@@ -96,13 +96,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), application (2)
 > **CLI Commands:** make (3)
 > **Speakers:** - your (1)
 
 
 ### 1. Application Dependency and Cloud Services
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application migration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980)
@@ -227,7 +228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), function (1), this, (1)
+> **Frameworks & Libraries:** cloud (14), [[Security]] (5), data (5), [[Hardware]] (3), application (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -352,7 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this: (1)
+> **Frameworks & Libraries:** application (9), cloud (8), business (1), [[IaaS|Infrastructure as a service]] (1), [[PaaS|Platform as a service]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -494,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), this, (2), require (2), from, (1)
+> **Frameworks & Libraries:** cloud (21), application (15), database (8), [[Security]] (3), [[SQL]] (2)
 > **Definitions:** is a  (4), means that (2), is an  (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** mongo (1)
@@ -641,7 +642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), this, (1)
+> **Frameworks & Libraries:** application (12), data (10), cloud (8), database (7), web (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** sap (1), citrix (1)
 > **Definitions:** is a  (1), basically means (1)
@@ -750,7 +751,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** application (15), cloud (6), data (3), game (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1), make (1)
 > **Documentation:** the documentation (2)
@@ -762,7 +763,7 @@ created: 2026-04-29
 
 ### 2. Application Dependency Mapping Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using installed agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-installed-agents?u=76281980)
@@ -833,7 +834,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), this. (2)
+> **Frameworks & Libraries:** application (5), [[Real-Time]] (2), traffic (1), cloud (1), [[Security]] (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** install (2)
 > **Analogies:** picture (1)
@@ -904,8 +905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), next (2), product (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -967,7 +968,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1)
+> **Frameworks & Libraries:** application (13), [[Real-Time]] (1), data (1), next (1), traffic (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
@@ -1065,7 +1066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), this. (3), function (2), let (2)
+> **Frameworks & Libraries:** application (16), cloud (9), database (6), traffic (4), next (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1073,7 +1074,7 @@ created: 2026-04-29
 
 ### 3. Planning for the Migration of Applications Dependencies to the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application options for cloud migrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980)
@@ -1194,7 +1195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), interface (2), for, (1), this, (1)
+> **Frameworks & Libraries:** cloud (29), application (17), [[SQL]] (10), database (6), [[IaaS|Infrastructure as a service]] (2)
 > **Env Vars:** sql (10)
 > **Prerequisites:** install (2), set up (2)
 > **CLI Commands:** find (2)
@@ -1271,7 +1272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), private (2), this, (2), interface (2)
+> **Frameworks & Libraries:** cloud (20), [[Scripting]] (7), data (4), [[Hybrid Cloud]] (2), [[Microsoft Azure]] (2)
 > **CLI Commands:** make (3), aws (1)
 > **Env Vars:** gcp (1), aws (1)
 > **UI Navigation:** go to (1)
@@ -1359,8 +1360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), application (8), [[SQL]] (6), web (3), database (2)
 > **Env Vars:** sql (7), xml (1), rpc (1), uddi (1), soap (1)
-> **Code Keywords:** this. (2), let (1), finally, (1), this, (1), interface (1)
 > **CLI Commands:** make (3), mysql (1)
 > **Definitions:** defined as (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1436,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (3), finally, (2), this, (2), this. (1), case, (1)
+> **Frameworks & Libraries:** cloud (10), application (7), [[Windows]] (2), [[Linux]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
@@ -1444,7 +1445,7 @@ created: 2026-04-29
 
 ### 4. Using Cloud Service Provider Migration Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the migration process in Google Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980)
@@ -1539,7 +1540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), finally, (1), this, (1)
+> **Frameworks & Libraries:** cloud (8), [[Google Cloud Platform (GCP)|Google cloud]] (5), application (5), [[Google Cloud Platform (GCP)|Google cloud platform]] (4), [[Google]] (4)
 > **CLI Commands:** aws (1), make (1), find (1)
 > **Env Vars:** gcp (1), aws (1)
 > **Definitions:** known as (1)
@@ -1681,7 +1682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), this, (2), self (1), for. (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), cloud (5), application (4), [[Google]] (4), [[Search]] (2)
 > **UI Navigation:** go to (4), click on (3), scroll down (2)
 > **Definitions:** means that (3), is an  (2)
 > **CLI Commands:** find (3)
@@ -1743,7 +1744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), application (5), [[Microsoft Azure]] (4), cloud (2), business (2)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Env Vars:** csv (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -1829,9 +1830,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (11), [[Microsoft]] (6), database (5), [[Microsoft Azure]] (4), web (4)
 > **CLI Commands:** find (4)
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
-> **Code Keywords:** case, (1), let (1), this. (1)
 > **Env Vars:** dma (1), sql (1)
 > **Prerequisites:** install (1), getting started (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -1907,11 +1908,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), data (3), application (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), parallel (1)
 > **CLI Commands:** aws (8), make (3), find (1)
 > **Env Vars:** aws (8)
 > **Prerequisites:** install (6)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** this, (1), let (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1998,9 +1999,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), application (7), data (3), [[Windows]] (3), [[Linux]] (3)
 > **CLI Commands:** aws (10), make (2), find (1)
 > **Env Vars:** aws (10)
-> **Code Keywords:** let (3), case, (1), case. (1), this, (1), interface (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Prerequisites:** install (4)
 > **Definitions:** is an  (2), is a  (1)
@@ -2010,7 +2011,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/next-steps-in-cloud-migration?u=76281980)
@@ -2035,6 +2036,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), application (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)

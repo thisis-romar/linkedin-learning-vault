@@ -31,7 +31,7 @@ tags:
   - skill/devops
   - skill/itil-process-implementation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20DevOps%20for%20ITIL%C2%AE%20Practitioners.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Welcome**](#welcome) (3 videos)
-  - Welcome
-  - Why DevOps for ITIL® practitioners?
-  - What you should know
+  - [Welcome](#welcome)
+  - [Why DevOps for ITIL® practitioners?](#why-devops-for-itil-practitioners)
+  - [What you should know](#what-you-should-know)
 - [**1. Introduction to DevOps for ITIL®-Driven Shops**](#1-introduction-to-devops-for-itil-driven-shops) (3 videos)
-  - The traditional enterprise IT shop and the breakdown of separation of duties with digitalization
-  - DevOps, enterprise DevOps, ITIL®-driven shops, and enterprise challenges
-  - What DevOps and enterprise DevOps have in common, and how they differ
+  - [The traditional enterprise IT shop and the breakdown of separation of duties with digitalization](#the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization)
+  - [DevOps, enterprise DevOps, ITIL®-driven shops, and enterprise challenges](#devops-enterprise-devops-itil-driven-shops-and-enterprise-challenges)
+  - [What DevOps and enterprise DevOps have in common, and how they differ](#what-devops-and-enterprise-devops-have-in-common-and-how-they-differ)
 - [**2. DevOps and Enterprise IT Challenges**](#2-devops-and-enterprise-it-challenges) (4 videos)
-  - Enterprise-level change control and release gates
-  - Legacy, regulated, and nonautomated environments
-  - Disparate, siloed teams
-  - Massive scale
+  - [Enterprise-level change control and release gates](#enterprise-level-change-control-and-release-gates)
+  - [Legacy, regulated, and nonautomated environments](#legacy-regulated-and-nonautomated-environments)
+  - [Disparate, siloed teams](#disparate-siloed-teams)
+  - [Massive scale](#massive-scale)
 - [**3. DevOps and ITIL®-Driven Shops**](#3-devops-and-itil-driven-shops) (5 videos)
-  - Values
-  - Principles
-  - Methods
-  - Practices
-  - Tools
+  - [Values](#values)
+  - [Principles](#principles)
+  - [Methods](#methods)
+  - [Practices](#practices)
+  - [Tools](#tools)
 - [**4. ITIL®-Driven Shops and DevOps**](#4-itil-driven-shops-and-devops) (11 videos)
-  - Services and service management
-  - The service life cycle
-  - Terminology and key principles and models
-  - Strategy processes
-  - Design processes
-  - Transition processes
-  - Operations processes
-  - CSI processes
-  - Functions
-  - Roles
-  - Technology and architecture
+  - [Services and service management](#services-and-service-management)
+  - [The service life cycle](#the-service-life-cycle)
+  - [Terminology and key principles and models](#terminology-and-key-principles-and-models)
+  - [Strategy processes](#strategy-processes)
+  - [Design processes](#design-processes)
+  - [Transition processes](#transition-processes)
+  - [Operations processes](#operations-processes)
+  - [CSI processes](#csi-processes)
+  - [Functions](#functions)
+  - [Roles](#roles)
+  - [Technology and architecture](#technology-and-architecture)
 - [**Conclusion**](#conclusion) (2 videos)
-  - ITIL® 4 and DevOps
-  - Next steps
+  - [ITIL® 4 and DevOps](#itil-4-and-devops)
+  - [Next steps](#next-steps)
 
 ### Welcome
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/welcome?u=76281980)
@@ -107,6 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (8), [[DevOps]] (3)
 > **Env Vars:** itil (8)
 > **Versions:** version 2 (1)
 > **Speakers:** - [david] (1)
@@ -168,8 +169,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (17), [[ITIL]] (14), management (3), business (2), [[Automation]] (2)
 > **Env Vars:** itil (14), cicd (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - some (1)
 
@@ -184,13 +185,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (3), [[DevOps]] (2)
 > **Env Vars:** itil (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to DevOps for ITIL®-Driven Shops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The traditional enterprise IT shop and the breakdown of separation of duties with digitalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980)
@@ -351,7 +353,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), throw (1)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[Automation]] (7), teams (4), cloud (3), [[ITIL]] (2)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (3)
 > **Env Vars:** itil (2), isv (1)
@@ -413,6 +415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (27), [[ITIL]] (6), cloud (5), [[Automation]] (3), functional (1)
 > **Env Vars:** itil (6), itsm (1)
 > **CLI Commands:** make (1)
 > **URLs:** [plutora.com](https://plutora.com) (1)
@@ -558,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), super (1), self (1)
+> **Frameworks & Libraries:** cloud (13), [[DevOps]] (10), [[ITIL]] (3), [[Snowflake]] (3), teams (2)
 > **Env Vars:** itil (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
@@ -567,7 +570,7 @@ created: 2026-04-29
 
 ### 2. DevOps and Enterprise IT Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enterprise-level change control and release gates
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980)
@@ -648,7 +651,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), include, (1), for, (1), function (1), finally, (1)
+> **Frameworks & Libraries:** [[DevOps]] (13), cloud (4), [[Automation]] (3), [[Orchestration]] (2), [[Dependency Injection]] (2)
 > **CLI Commands:** make (2), rails (1), find (1)
 > **Env Vars:** itil (1), cams (1)
 > **Definitions:** is a  (2)
@@ -741,8 +744,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (11), cloud (9), [[Automation]] (8), business (4), [[Regulatory Compliance]] (2)
 > **CLI Commands:** make (5)
-> **Code Keywords:** this, (1), continue (1), interface (1)
 > **Env Vars:** cams (1), itil (1), api (1)
 > **Analogies:** for example (2), such as (1)
 > **Tools:** command line (1)
@@ -818,6 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (19), [[DevOps]] (8), [[Orchestration]] (4), product (3), cloud (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** cams (1)
@@ -891,10 +895,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (5), management (2), [[Security]] (1), next (1), product (1)
 > **Env Vars:** ics (3), cams (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** self (2)
 > **URLs:** [gocd.org](https://gocd.org) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -902,7 +906,7 @@ created: 2026-04-29
 
 ### 3. DevOps and ITIL®-Driven Shops
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Values
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980)
@@ -1001,8 +1005,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (16), [[ITIL]] (10), [[Automation]] (6), management (5), data (4)
 > **Env Vars:** itil (10), cams (7)
-> **Code Keywords:** self (4), let (3), super (2), finally, (1), this, (1)
 > **Definitions:** is a  (3), stands for (2)
 > **Analogies:** for example (2), it's like (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1066,7 +1070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), this, (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[ITIL]] (2), next (1), [[Agile Software Development]] (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** itil (2)
 > **Speakers:** - [instructor] (1)
@@ -1182,8 +1186,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (14), [[Automation]] (8), [[DevOps]] (7), [[Agile Development|Agile]] (7), [[Continuous Delivery (CD)|Continuous delivery]] (4)
 > **Env Vars:** itil (14), sre (7)
-> **Code Keywords:** finally, (2), let (1), function (1), else. (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** cd (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1351,8 +1355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (9), teams (8), [[ITIL]] (6), application (6), management (5)
 > **Env Vars:** itil (6), ics (3), dna (1), cto (1), api (1)
-> **Code Keywords:** public (4), self (2), function (1), require (1), this, (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1), cd (1), find (1)
 > **URLs:** [lynda.com](https://lynda.com) (1), [transparentuptime.com](https://transparentuptime.com) (1), [statuspage.io](https://statuspage.io) (1)
@@ -1397,8 +1401,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (5), management (5), [[Configuration Management]] (3), api (2), [[ITIL]] (2)
 > **Env Vars:** api (2), itil (2)
-> **Code Keywords:** interface (2)
 > **Tools:** command line (2)
 > **Analogies:** for example (1), picture (1)
 > **Exercise Files:** source code (1)
@@ -1407,7 +1411,7 @@ created: 2026-04-29
 
 ### 4. ITIL®-Driven Shops and DevOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Services and service management
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980)
@@ -1432,9 +1436,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (6), [[DevOps]] (5), management (4), [[IT Service Management]] (1)
 > **Env Vars:** itil (6)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1525,8 +1529,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (11), [[DevOps]] (10), management (9), cloud (3), [[Agile Development|Agile]] (3)
 > **Env Vars:** itil (11), sre (2), ics (1), sla (1), brm (1)
-> **Code Keywords:** function (1), let (1), public (1), static (1), continue (1)
 > **CLI Commands:** cd (2), make (1)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is a  (1)
@@ -1603,6 +1607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (10), [[ITIL]] (9), cloud (4), teams (2), next (2)
 > **Env Vars:** itil (9), ics (1)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (1), is an  (1)
@@ -1681,10 +1686,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (17), [[DevOps]] (14), cloud (6), feature (5), [[ITIL]] (4)
 > **Env Vars:** itil (4), brm (4)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1769,8 +1774,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (18), [[DevOps]] (9), business (9), cloud (8), [[Security]] (6)
 > **Env Vars:** sre (4), slm (3), ics (1), ism (1), crm (1)
-> **Code Keywords:** self (3), public (2)
 > **CLI Commands:** make (3), aws (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1883,8 +1888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (19), management (12), [[Automation]] (8), [[ITIL]] (5), business (4)
 > **Env Vars:** itil (5), idil (1), sql (1)
-> **Code Keywords:** let (2), new, (1), finally, (1), public (1), static (1)
 > **Analogies:** for example (5), such as (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1933,8 +1938,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (11), [[DevOps]] (10), [[ITIL]] (5), [[Problem Management]] (3), data (3)
 > **Env Vars:** itil (5), ics (2), sre (1), rca (1)
-> **Code Keywords:** public (2), self (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1953,6 +1958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ITIL]] (2), [[Agile Development|Agile]] (2), product (1), teams (1), management (1)
 > **Env Vars:** csi (3), itil (2), brm (1), sre (1), cans (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2042,7 +2048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), self (4), let (1), public (1), from. (1)
+> **Frameworks & Libraries:** management (17), [[ITIL]] (11), [[Automation]] (10), [[DevOps]] (9), application (6)
 > **Env Vars:** itil (11)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2137,8 +2143,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (13), [[ITIL]] (6), [[Representational State Transfer (REST)|Rest]] (1), teams (1), product (1)
 > **Env Vars:** itil (6), raci (6), soar (1)
-> **Code Keywords:** this. (2)
 > **Analogies:** for example (2)
 > **Best Practices:** best practice (2)
 > **UI Navigation:** go to (1)
@@ -2187,8 +2193,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (10), [[Automation]] (7), [[DevOps]] (7), [[ITIL]] (5), [[DevOps Tools]] (2)
 > **Env Vars:** itil (5), scm (1)
-> **Code Keywords:** function (2), self (1)
 > **Definitions:** is an  (3)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
@@ -2196,7 +2202,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ITIL® 4 and DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/itil-4-and-devops?u=76281980)
@@ -2234,7 +2240,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), while. (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[ITIL]] (3), [[Problem Management]] (1), cloud (1)
 > **Env Vars:** itil (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)

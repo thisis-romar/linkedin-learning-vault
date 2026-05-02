@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Certified%20Analytics%20Professional%20(CAP)%20Cert%20Prep.md)
@@ -45,86 +45,86 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The growing field of analytics
-  - What you should know
+  - [The growing field of analytics](#the-growing-field-of-analytics)
+  - [What you should know](#what-you-should-know)
 - [**1. Certified Analytics Professional (CAP)**](#1-certified-analytics-professional-cap) (5 videos)
-  - Introduction
-  - CAP history
-  - CAP domains
-  - Related certifications
-  - Career paths
+  - [Introduction](#introduction)
+  - [CAP history](#cap-history)
+  - [CAP domains](#cap-domains)
+  - [Related certifications](#related-certifications)
+  - [Career paths](#career-paths)
 - [**2. Business Problem Framing**](#2-business-problem-framing) (5 videos)
-  - Identifying business problems
-  - Identifying and analyzing stakeholders
-  - Collecting requirements
-  - Determining the feasibility
-  - Refining the problem
+  - [Identifying business problems](#identifying-business-problems)
+  - [Identifying and analyzing stakeholders](#identifying-and-analyzing-stakeholders)
+  - [Collecting requirements](#collecting-requirements)
+  - [Determining the feasibility](#determining-the-feasibility)
+  - [Refining the problem](#refining-the-problem)
 - [**3. Analytics Problem Framing**](#3-analytics-problem-framing) (6 videos)
-  - Transforming business problems to analytics problems
-  - Reformulating problem statements
-  - Defining drivers and relationships to outputs
-  - Stating assumptions
-  - Defining success metrics
-  - Obtaining stakeholder agreement
+  - [Transforming business problems to analytics problems](#transforming-business-problems-to-analytics-problems)
+  - [Reformulating problem statements](#reformulating-problem-statements)
+  - [Defining drivers and relationships to outputs](#defining-drivers-and-relationships-to-outputs)
+  - [Stating assumptions](#stating-assumptions)
+  - [Defining success metrics](#defining-success-metrics)
+  - [Obtaining stakeholder agreement](#obtaining-stakeholder-agreement)
 - [**4. Data**](#4-data) (7 videos)
-  - Working effectively with data
-  - Identifying and prioritizing data needs
-  - Acquiring data
-  - Cleaning, transforming, and validating data
-  - Identifying relationships in data
-  - Documenting and reporting findings
-  - Redefining problem statements
+  - [Working effectively with data](#working-effectively-with-data)
+  - [Identifying and prioritizing data needs](#identifying-and-prioritizing-data-needs)
+  - [Acquiring data](#acquiring-data)
+  - [Cleaning, transforming, and validating data](#cleaning-transforming-and-validating-data)
+  - [Identifying relationships in data](#identifying-relationships-in-data)
+  - [Documenting and reporting findings](#documenting-and-reporting-findings)
+  - [Redefining problem statements](#redefining-problem-statements)
 - [**5. Methodology (Approach) Selection**](#5-methodology-approach-selection) (7 videos)
-  - Identifying available problem-solving methodologies
-  - Evaluating and selecting descriptive analysis
-  - Evaluating and selecting predictive analysis
-  - Evaluating and selecting prescriptive analysis
-  - Selecting software tools
-  - Using R to analyze data
-  - Using Tableau to visualize data
+  - [Identifying available problem-solving methodologies](#identifying-available-problem-solving-methodologies)
+  - [Evaluating and selecting descriptive analysis](#evaluating-and-selecting-descriptive-analysis)
+  - [Evaluating and selecting predictive analysis](#evaluating-and-selecting-predictive-analysis)
+  - [Evaluating and selecting prescriptive analysis](#evaluating-and-selecting-prescriptive-analysis)
+  - [Selecting software tools](#selecting-software-tools)
+  - [Using R to analyze data](#using-r-to-analyze-data)
+  - [Using Tableau to visualize data](#using-tableau-to-visualize-data)
 - [**6. Case Study 1**](#6-case-study-1) (5 videos)
-  - Bike rental analysis
-  - Framing a problem
-  - Using RStudio for predictive analysis
-  - Using Tableau to visualize statistics
-  - Using Tableau to making predictions
+  - [Bike rental analysis](#bike-rental-analysis)
+  - [Framing a problem](#framing-a-problem)
+  - [Using RStudio for predictive analysis](#using-rstudio-for-predictive-analysis)
+  - [Using Tableau to visualize statistics](#using-tableau-to-visualize-statistics)
+  - [Using Tableau to making predictions](#using-tableau-to-making-predictions)
 - [**7. Model Building**](#7-model-building) (8 videos)
-  - Understanding model building
-  - Identifying model structures
-  - Build and verify the models
-  - Running and evaluating models
-  - Calibrating models and data
-  - Integrating the models
-  - Documenting findings: ROC
-  - Communicating findings
+  - [Understanding model building](#understanding-model-building)
+  - [Identifying model structures](#identifying-model-structures)
+  - [Build and verify the models](#build-and-verify-the-models)
+  - [Running and evaluating models](#running-and-evaluating-models)
+  - [Calibrating models and data](#calibrating-models-and-data)
+  - [Integrating the models](#integrating-the-models)
+  - [Documenting findings: ROC](#documenting-findings-roc)
+  - [Communicating findings](#communicating-findings)
 - [**8. Deployment**](#8-deployment) (8 videos)
-  - Understanding deployment
-  - Performing business validation of the model
-  - Developing a deployment plan and delivering it
-  - Creating model requirements
-  - Delivering, monitoring, and sustaining the production model or system
-  - Understanding deployment approaches
-  - Understanding DMAIC and CRISP-DM
-  - Project management approaches to deployment
+  - [Understanding deployment](#understanding-deployment)
+  - [Performing business validation of the model](#performing-business-validation-of-the-model)
+  - [Developing a deployment plan and delivering it](#developing-a-deployment-plan-and-delivering-it)
+  - [Creating model requirements](#creating-model-requirements)
+  - [Delivering, monitoring, and sustaining the production model or system](#delivering-monitoring-and-sustaining-the-production-model-or-system)
+  - [Understanding deployment approaches](#understanding-deployment-approaches)
+  - [Understanding DMAIC and CRISP-DM](#understanding-dmaic-and-crisp-dm)
+  - [Project management approaches to deployment](#project-management-approaches-to-deployment)
 - [**9. Model Lifecycle Management**](#9-model-lifecycle-management) (6 videos)
-  - Understanding model lifecycle management
-  - Tracking model quality
-  - Recalibrating the model through validation
-  - Maintaining the model
-  - Supporting training activities
-  - Evaluating the business benefit of the model over time
+  - [Understanding model lifecycle management](#understanding-model-lifecycle-management)
+  - [Tracking model quality](#tracking-model-quality)
+  - [Recalibrating the model through validation](#recalibrating-the-model-through-validation)
+  - [Maintaining the model](#maintaining-the-model)
+  - [Supporting training activities](#supporting-training-activities)
+  - [Evaluating the business benefit of the model over time](#evaluating-the-business-benefit-of-the-model-over-time)
 - [**10. Case Study 2**](#10-case-study-2) (5 videos)
-  - Business intelligence examples
-  - Selecting a methodology
-  - Building a model
-  - Deploying a model
-  - Managing the model lifecycle
+  - [Business intelligence examples](#business-intelligence-examples)
+  - [Selecting a methodology](#selecting-a-methodology)
+  - [Building a model](#building-a-model)
+  - [Deploying a model](#deploying-a-model)
+  - [Managing the model lifecycle](#managing-the-model-lifecycle)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional study resources
+  - [Next steps and additional study resources](#next-steps-and-additional-study-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The growing field of analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/the-growing-field-of-analytics?u=76281980)
@@ -153,8 +153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (3), data (2)
 > **Env Vars:** cap (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [jungwoo] (1)
 
@@ -173,7 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), [[Analytics]] (2), [[Tableau]] (1), [[Neo4j]] (1)
 > **Env Vars:** cap (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Certified Analytics Professional (CAP)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/introduction?u=76281980)
@@ -224,7 +224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), case. (1)
+> **Frameworks & Libraries:** data (8), career (3), [[Search]] (1), product (1), [[Analytics]] (1)
 > **Env Vars:** cap (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** imagine (1), for example (1)
@@ -262,8 +262,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), data (2), management (1), [[Engineering]] (1), product (1)
 > **Env Vars:** cap (4), informs (2)
-> **Code Keywords:** new, (1), include, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -318,6 +318,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (5), [[Analytics]] (2), next (1), management (1)
 > **Env Vars:** cap (2), informs (1), jta (1)
 > **Analogies:** similar to (1), just like (1)
 > **Prerequisites:** you need to have (1)
@@ -348,9 +349,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Analytics]] (3), [[Microsoft Products|Products]] (1), aws (1), cloud (1)
 > **Env Vars:** cap (1), aws (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [jungwoo] (1)
 
@@ -393,15 +394,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Analytics]] (7), bi (3), [[Business Intelligence (BI)|Business intelligence]] (3), business (3)
 > **Analogies:** such as (3)
-> **Code Keywords:** continue (1)
 > **Env Vars:** cap (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Business Problem Framing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying business problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-business-problems?u=76281980)
@@ -444,7 +445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** business (7), data (4), [[Analytics]] (4), [[Cybersecurity]] (2), next (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -486,8 +487,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (3), data (2), business (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -530,6 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (3), data (2), business (1), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -575,8 +577,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (5), data (4), business (2)
 > **Env Vars:** roi (4)
-> **Code Keywords:** let (2), return. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Refining the problem
@@ -622,6 +624,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), data (2), [[Analytics]] (2), management (1), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** roi (2)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
@@ -630,7 +633,7 @@ created: 2026-04-29
 
 ### 3. Analytics Problem Framing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transforming business problems to analytics problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980)
@@ -667,7 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** business (7), [[Analytics]] (6), traffic (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -712,7 +715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[Analytics]] (6), business (4), [[Security]] (3), data (2), product (1)
 > **Env Vars:** qfd (2), pin (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -758,7 +761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** business (6), [[Microsoft Products|Products]] (3), [[Quality Assurance]] (1), data (1), [[Analytics]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -803,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), static (1)
+> **Frameworks & Libraries:** business (6), [[Analytics]] (3), product (1), [[Engineering]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -850,9 +853,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), business (3), [[Analytics]] (1)
 > **Env Vars:** kpi (4)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -896,6 +899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (9), data (4), business (3)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -903,7 +907,7 @@ created: 2026-04-29
 
 ### 4. Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working effectively with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/working-effectively-with-data?u=76281980)
@@ -948,10 +952,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), business (3), [[Analytics]] (2), next (2), [[Java]] (1)
 > **Env Vars:** cap (1), json (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1013,7 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), this, (1), case, (1)
+> **Frameworks & Libraries:** data (22), [[Analytics]] (5), business (3), next (2), [[Unstructured Data]] (2)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -1068,8 +1072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (5), data (3), [[Data Acquisition]] (2), business (2), [[Analytics]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1120,8 +1124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (1), [[Analytics]] (1)
 > **Definitions:** means that (1), is an  (1), is called (1)
-> **Code Keywords:** delete (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1174,6 +1178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), feature (2), [[Statistics]] (2), database (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1220,6 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (5), business (5), data (1), management (1), [[Infographics]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
@@ -1251,6 +1257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (5), data (2), business (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1258,7 +1265,7 @@ created: 2026-04-29
 
 ### 5. Methodology (Approach) Selection
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying available problem-solving methodologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-available-problem-solving-methodologies?u=76281980)
@@ -1299,7 +1306,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (5), [[Analytics]] (3), business (2), next (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1332,7 +1339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1)
+> **Frameworks & Libraries:** data (4), [[Statistics]] (2), [[Analytics]] (2), [[Predictive Analytics]] (1), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Cross-References:** later in (1)
@@ -1379,10 +1386,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (2), data (2), [[Statistics]] (2), [[Simulation]] (2), power (1)
 > **Cross-References:** previous chapter (1), we talked about (1), we discussed (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1427,7 +1434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** [[Simulation]] (3), business (2), [[Microsoft Word|Word]] (1), traffic (1), [[Telecommunications]] (1)
 > **Env Vars:** abm (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1469,6 +1476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Statistics]] (3), data (3), management (3), [[Analytics]] (2), [[Simulation]] (2)
 > **Env Vars:** matlab (1), spss (1), sas (1)
 > **CLI Commands:** mysql (1), python (1)
 > **Analogies:** such as (1)
@@ -1531,12 +1539,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Analytics]] (3), [[Statistics]] (2), [[Programming]] (1), [[Statistical Analysis]] (1)
 > **File Paths:** moore.csv (2), read.csv (1)
 > **Code Identifiers:** my_data (3)
 > **Exercise Files:** exercise files (2), download the (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** csv (1)
 > **Tools:** command prompt (1)
 
@@ -1583,6 +1591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tableau]] (4), power (1), [[Analytics]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** ufo (4)
 > **Exercise Files:** download the (3), exercise files (1)
@@ -1592,7 +1601,7 @@ created: 2026-04-29
 
 ### 6. Case Study 1
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bike rental analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/bike-rental-analysis?u=76281980)
@@ -1623,9 +1632,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Analytics]] (1), [[Microsoft Excel]] (1)
 > **Code Identifiers:** weather_sit (1), day_of_week (1), is_holiday (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** csv (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [jungwoo] (1)
@@ -1667,7 +1676,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1)
+> **Frameworks & Libraries:** business (2), [[Analytics]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), data (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1737,7 +1746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), type, (2)
+> **Frameworks & Libraries:** data (5), [[RStudio]] (3), [[Statistics]] (2), [[Windows]] (1)
 > **File Paths:** read.csv (1), bike_rental.csv (1)
 > **Env Vars:** true (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -1793,7 +1802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (2)
+> **Frameworks & Libraries:** [[Tableau]] (6), data (6), [[Statistics]] (1), [[Analytics]] (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** csv (1)
 > **Definitions:** is a  (1)
@@ -1869,7 +1878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (2), continue (1), this. (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), data (2), [[Linear Regression]] (2), next (1), [[Analytics]] (1)
 > **UI Navigation:** click on (3), open the (1)
 > **File Paths:** bike_rental.csv (1)
 > **Code Identifiers:** bike_rental (1)
@@ -1881,7 +1890,7 @@ created: 2026-04-29
 
 ### 7. Model Building
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding model building
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-building?u=76281980)
@@ -1910,7 +1919,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** [[Analytics]] (3), data (2), business (1), [[Probability]] (1), product (1)
 > **Env Vars:** cap (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1947,7 +1956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), let (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Predictive Modeling]] (1), [[Neural Networks]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1984,6 +1993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10)
 > **Speakers:** - [narrator] (1)
 
 #### Running and evaluating models
@@ -2025,7 +2035,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1)
+> **Frameworks & Libraries:** data (7), [[Analytics]] (2), [[Decision Trees]] (1), [[Logistic Regression]] (1), [[Neural Networks]] (1)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -2073,6 +2083,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (1), [[Agile Development|Agile]] (1), management (1), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2116,8 +2127,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[MySQL]] (7), api (6), [[Python (Programming Language)|Python]] (2), [[Analytics]] (2)
 > **CLI Commands:** mysql (7), python (2)
-> **Code Keywords:** this. (2), module (2), require (1), interface (1), let (1)
 > **Env Vars:** api (6)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -2164,6 +2175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), business (1)
 > **Env Vars:** roc (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -2221,7 +2233,7 @@ created: 2026-04-29
 
 ### 8. Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment?u=76281980)
@@ -2248,6 +2260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (2), business (2), [[Troubleshooting]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### Performing business validation of the model
@@ -2279,7 +2292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1)
+> **Frameworks & Libraries:** [[Analytics]] (4), business (1), data (1), management (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [presenter] (1)
@@ -2343,7 +2356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (4), management (1), [[Configuration Management]] (1), next (1), database (1)
 > **Env Vars:** api (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -2401,8 +2414,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), cloud (2), [[Amazon EC2|Ec2]] (1), [[PaaS|Platform as a service]] (1), [[PaaS]] (1)
 > **CLI Commands:** python (1), find (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** ec2 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2451,7 +2464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1)
+> **Frameworks & Libraries:** product (1), business (1), [[Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
@@ -2505,8 +2518,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Analytics]] (4), data (2), next (2), [[CRISP-DM]] (2)
 > **Env Vars:** sipoc (2), dmaic (2), crisp (2)
-> **Code Keywords:** let (2), this, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2558,6 +2571,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (3), [[Six Sigma]] (2), [[CRISP-DM]] (2), [[Analytics]] (2)
 > **Env Vars:** dmaic (6), crisp (2), ibm (1), cap (1)
 > **Definitions:** stands for (2), is a  (2), is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -2607,6 +2621,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Analytics]] (3), [[Probability]] (2), data (1), teams (1)
 > **Env Vars:** cpm (9), pert (8), cap (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -2615,7 +2630,7 @@ created: 2026-04-29
 
 ### 9. Model Lifecycle Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding model lifecycle management
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-lifecycle-management?u=76281980)
@@ -2666,6 +2681,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (3), data (3), business (1)
 > **Analogies:** such as (2), just like (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
@@ -2714,8 +2730,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** finally, (1), for. (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2766,8 +2782,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (2), [[Analytics]] (1), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (6), we call this (1)
-> **Code Keywords:** let (2), this. (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2814,6 +2830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), business (1), [[Interviewing]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Analogies:** such as (1)
@@ -2862,7 +2879,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1)
+> **Frameworks & Libraries:** data (4), [[Analytics]] (2), management (1), next (1), business (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2907,6 +2924,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), business (2), data (2), [[Soft Skills]] (2), [[Career Development]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
@@ -2915,7 +2933,7 @@ created: 2026-04-29
 
 ### 10. Case Study 2
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business intelligence examples
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980)
@@ -2968,8 +2986,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** bi (5), [[Analytics]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), data (1), hr (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** finally, (1), raise (1), let (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Env Vars:** cap (1)
 > **Analogies:** such as (1)
@@ -3020,7 +3038,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), require (1)
+> **Frameworks & Libraries:** [[Analytics]] (9), data (3), bi (3), business (2), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** gui (1), sql (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** drag and drop (1)
@@ -3075,6 +3093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neo4j]] (7), database (2), [[Banking]] (2), data (1), [[Security]] (1)
 > **Env Vars:** ssn (2), pii (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -3123,8 +3142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neo4j]] (4), next (2), [[Analytics]] (1), [[Security]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -3166,15 +3185,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), data (3), business (2), [[Analytics]] (2), [[Software Development]] (1)
 > **Env Vars:** dmlc (9), sdlc (9), cap (1)
 > **Analogies:** picture (1), such as (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional study resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980)
@@ -3203,6 +3222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Analytics]] (1), [[Statistics]] (1), [[Programming]] (1)
 > **Env Vars:** cap (4), informs (1)
 > **Speakers:** - [instructor] (1)
 

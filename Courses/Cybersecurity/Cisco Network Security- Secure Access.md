@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cisco-networking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Secure%20Access.md)
@@ -48,38 +48,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Securely accessing resources
-  - What you should know
+  - [Securely accessing resources](#securely-accessing-resources)
+  - [What you should know](#what-you-should-know)
 - [**1. Packet Tracer**](#1-packet-tracer) (2 videos)
-  - Cisco Networking Academy
-  - Packet Tracer interface
+  - [Cisco Networking Academy](#cisco-networking-academy)
+  - [Packet Tracer interface](#packet-tracer-interface)
 - [**2. Secure Management**](#2-secure-management) (7 videos)
-  - Secure Access Control System overview
-  - Compare in-band and out-of-band management
-  - Secure network management
-  - Simple Network Management Protocol (SNMP)
-  - Configure SNMP
-  - Configure and verify security for Network Time Protocol
-  - Secure Copy Protocol
+  - [Secure Access Control System overview](#secure-access-control-system-overview)
+  - [Compare in-band and out-of-band management](#compare-in-band-and-out-of-band-management)
+  - [Secure network management](#secure-network-management)
+  - [Simple Network Management Protocol (SNMP)](#simple-network-management-protocol-snmp)
+  - [Configure SNMP](#configure-snmp)
+  - [Configure and verify security for Network Time Protocol](#configure-and-verify-security-for-network-time-protocol)
+  - [Secure Copy Protocol](#secure-copy-protocol)
 - [**3. AAA Concepts**](#3-aaa-concepts) (4 videos)
-  - AAA security
-  - Authentication
-  - Authorization
-  - Accounting
+  - [AAA security](#aaa-security)
+  - [Authentication](#authentication)
+  - [Authorization](#authorization)
+  - [Accounting](#accounting)
 - [**4. RADIUS and TACACS+**](#4-radius-and-tacacs) (3 videos)
-  - RADIUS and TACACS+ authentication
-  - Using TACACS+
-  - Enforcing security with AAA
+  - [RADIUS and TACACS+ authentication](#radius-and-tacacs-authentication)
+  - [Using TACACS+](#using-tacacs)
+  - [Enforcing security with AAA](#enforcing-security-with-aaa)
 - [**5. BYOD**](#5-byod) (3 videos)
-  - Managing a BYOD infrastructure
-  - Mobile device management (MDM)
-  - Securely integrating IoT devices
+  - [Managing a BYOD infrastructure](#managing-a-byod-infrastructure)
+  - [Mobile device management (MDM)](#mobile-device-management-mdm)
+  - [Securely integrating IoT devices](#securely-integrating-iot-devices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securely accessing resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-accessing-resources-23906978?u=76281980)
@@ -102,8 +102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Challenging Environment]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Env Vars:** aaa (1), radius (1), tacacs (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [lisa] (1)
 
 #### What you should know
@@ -127,16 +127,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), career (1)
 > **Env Vars:** ccna (3)
 > **Definitions:** is an  (2)
-> **Code Keywords:** super (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Packet Tracer
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cisco Networking Academy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/cisco-networking-academy-23666802?u=76281980)
@@ -173,7 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), let (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Programming]] (1)
 > **Env Vars:** ccna (3)
 > **Prerequisites:** you'll need (2)
 > **URLs:** [netacad.com](https://netacad.com) (1)
@@ -289,7 +289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), delete (4), this. (1), let (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), application (2), [[Cisco Networking]] (2), [[Zoom]] (2), hit (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Analogies:** for example (2), it's like (1)
 > **CLI Commands:** make (1), find (1)
@@ -301,7 +301,7 @@ created: 2026-04-29
 
 ### 2. Secure Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure Access Control System overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980)
@@ -388,9 +388,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), management (4), [[Network Security]] (3), [[Security]] (2), [[Routing Protocols]] (2)
 > **Env Vars:** eniac (1), ftp (1), igmp (1), icmp (1), arp (1)
 > **Analogies:** such as (5)
-> **Code Keywords:** let (1), switch (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -485,8 +485,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (14), [[Security]] (2), [[Intrusion Detection]] (1), data (1)
 > **Env Vars:** tty (3), vty (3), ios (2), http (1), cty (1)
-> **Code Keywords:** interface (5), default. (1)
 > **Tools:** command line (1), terminal (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** ssh (1)
@@ -574,7 +574,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), interface (1)
+> **Frameworks & Libraries:** [[Security]] (7), management (4), data (3), [[Routing]] (1), [[Network Administration]] (1)
 > **Env Vars:** vty (3), radius (1), tacacs (1)
 > **Analogies:** such as (4), picture (1)
 > **Prerequisites:** configure (4)
@@ -696,8 +696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (11), data (4), database (3), next (1), [[Wireshark]] (1)
 > **Env Vars:** snmp (13), oid (2), mib (1), rfc (1), md5 (1)
-> **Code Keywords:** let (1), public (1), from, (1)
 > **Analogies:** such as (3)
 > **Documentation:** rfc (1)
 > **UI Navigation:** go to (1)
@@ -813,9 +813,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (10), data (1), database (1)
 > **Env Vars:** mib (4), snmp (4), ios (2), sntp (1)
 > **UI Navigation:** go to (8), open the (1)
-> **Code Keywords:** let (3), switch (1), interface (1), this. (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** go back to (2)
@@ -965,9 +965,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (3), web (1), hit (1), management (1), [[Simulation Software]] (1)
 > **Env Vars:** ntp (25), ios (2), vines (1), snmp (1)
 > **Prerequisites:** configure (4), you'll need (3)
-> **Code Keywords:** let (4), require (1), case, (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (2)
@@ -1039,9 +1039,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** tftp (5), ftp (2), udp (1)
 > **Prerequisites:** configure (3), you'll need (2)
-> **Code Keywords:** delete (1), let (1), finally, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1049,7 +1049,7 @@ created: 2026-04-29
 
 ### 3. AAA Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AAA security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980)
@@ -1104,8 +1104,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (3), [[Network Security]] (1), [[Hardware]] (1), [[Privacy]] (1)
 > **Env Vars:** aaa (2), radius (1), tacacs (1)
-> **Code Keywords:** delete (1), let (1), switch (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1189,7 +1189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), match, (2), let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (2), [[Forms]] (1), [[Tokens]] (1), database (1)
 > **Analogies:** such as (5)
 > **Env Vars:** pin (1), usb (1), md5 (1)
 > **Definitions:** is a  (2)
@@ -1242,10 +1242,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Active Directory]] (2), next (1), [[Microsoft]] (1), database (1), dns (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** dns (1), ios (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1308,9 +1308,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Security]] (3), [[Intrusion Detection]] (1), vpn (1)
 > **Env Vars:** radius (2), tacacs (2), vpn (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** delete (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -1320,7 +1320,7 @@ created: 2026-04-29
 
 ### 4. RADIUS and TACACS+
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RADIUS and TACACS+ authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980)
@@ -1401,10 +1401,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (1), [[Linux]] (1)
 > **Env Vars:** radius (19), tacacs (8), tcp (2), udp (2), chap (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** similar to (2)
-> **Code Keywords:** let (1)
 > **Tools:** terminal (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1466,8 +1466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1)
 > **Env Vars:** aaa (6), tacacs (5), tacacs2 (1)
-> **Code Keywords:** let (3), this, (2), switch (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), open the (1)
 > **Speakers:** - [instructor] (1)
@@ -1523,16 +1523,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (8), vpn (2), lan (1), [[IoT]] (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** aaa (8), radius (7), ice (7), tacacs (4), vpn (2)
 > **Analogies:** such as (5)
-> **Code Keywords:** let (1), switch (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. BYOD
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing a BYOD infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/managing-a-byod-infrastructure?u=76281980)
@@ -1605,10 +1605,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Security]] (2), management (1), application (1), lan (1)
 > **Definitions:** is a  (2), is called (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** install (1), you'll need (1)
-> **Code Keywords:** type, (1)
 > **Env Vars:** lan (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -1699,8 +1699,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Security]] (3), data (2), [[Privacy]] (2), [[Phishing]] (2)
 > **Analogies:** such as (6), just like (1)
-> **Code Keywords:** type. (1), include: (1)
 > **Code Identifiers:** itunes (1), iphone (1)
 > **Warnings:** keep in mind (1), caution (1)
 > **CLI Commands:** find (1)
@@ -1761,7 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), interface (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[Internet of Things (IoT)|Internet of things]] (3), data (3), application (2), [[Security]] (1)
 > **Env Vars:** iot (1), api (1)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** scroll down (1)
@@ -1771,7 +1771,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980)
@@ -1804,6 +1804,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[Security]] (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Wireshark]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** aaa (1), radius (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

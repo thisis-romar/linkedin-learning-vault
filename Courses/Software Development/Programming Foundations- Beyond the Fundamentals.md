@@ -37,7 +37,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Beyond%20the%20Fundamentals.md)
@@ -56,63 +56,63 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Broadening your knowledge of programming fundamentals
-  - What you should know
-  - Configuring your environment
+  - [Broadening your knowledge of programming fundamentals](#broadening-your-knowledge-of-programming-fundamentals)
+  - [What you should know](#what-you-should-know)
+  - [Configuring your environment](#configuring-your-environment)
 - [**1. Collections**](#1-collections) (7 videos)
-  - Understanding collections
-  - Creating simple collections
-  - Creating more complex collections
-  - Working with collections
-  - Collections in other languages
-  - Challenge: Working with a collection
-  - Solution: Working with a collection
+  - [Understanding collections](#understanding-collections)
+  - [Creating simple collections](#creating-simple-collections)
+  - [Creating more complex collections](#creating-more-complex-collections)
+  - [Working with collections](#working-with-collections)
+  - [Collections in other languages](#collections-in-other-languages)
+  - [Challenge: Working with a collection](#challenge-working-with-a-collection)
+  - [Solution: Working with a collection](#solution-working-with-a-collection)
 - [**2. Iteration**](#2-iteration) (5 videos)
-  - Introduction to iteration
-  - Iterating through collections
-  - Iterating to a custom endpoint
-  - Challenge: Creating a for loop
-  - Solution: Creating a for loop
+  - [Introduction to iteration](#introduction-to-iteration)
+  - [Iterating through collections](#iterating-through-collections)
+  - [Iterating to a custom endpoint](#iterating-to-a-custom-endpoint)
+  - [Challenge: Creating a for loop](#challenge-creating-a-for-loop)
+  - [Solution: Creating a for loop](#solution-creating-a-for-loop)
 - [**3. Using External Code**](#3-using-external-code) (3 videos)
-  - Comparing types of external code
-  - Working with a module
-  - Understanding libraries and frameworks
+  - [Comparing types of external code](#comparing-types-of-external-code)
+  - [Working with a module](#working-with-a-module)
+  - [Understanding libraries and frameworks](#understanding-libraries-and-frameworks)
 - [**4. Working with Strings**](#4-working-with-strings) (5 videos)
-  - Combining and manipulating strings
-  - Finding patterns in strings
-  - Creating regular expressions
-  - Challenge: Strings
-  - Solution: Strings
+  - [Combining and manipulating strings](#combining-and-manipulating-strings)
+  - [Finding patterns in strings](#finding-patterns-in-strings)
+  - [Creating regular expressions](#creating-regular-expressions)
+  - [Challenge: Strings](#challenge-strings)
+  - [Solution: Strings](#solution-strings)
 - [**5. Planning a Program**](#5-planning-a-program) (2 videos)
-  - Choosing a code style
-  - Writing pseudocode
+  - [Choosing a code style](#choosing-a-code-style)
+  - [Writing pseudocode](#writing-pseudocode)
 - [**6. Input and output**](#6-input-and-output) (2 videos)
-  - Introduction to input and output
-  - Working with file input and output
+  - [Introduction to input and output](#introduction-to-input-and-output)
+  - [Working with file input and output](#working-with-file-input-and-output)
 - [**7. Debugging**](#7-debugging) (7 videos)
-  - Introduction to debugging
-  - Debugging code in an IDE
-  - Interpreting error messages
-  - Debugging without error messages
-  - Creating a test case
-  - Challenge: Debugging
-  - Solution: Debugging
+  - [Introduction to debugging](#introduction-to-debugging)
+  - [Debugging code in an IDE](#debugging-code-in-an-ide)
+  - [Interpreting error messages](#interpreting-error-messages)
+  - [Debugging without error messages](#debugging-without-error-messages)
+  - [Creating a test case](#creating-a-test-case)
+  - [Challenge: Debugging](#challenge-debugging)
+  - [Solution: Debugging](#solution-debugging)
 - [**8. Object Orientation**](#8-object-orientation) (3 videos)
-  - Introduction to object-oriented programming
-  - Using built-in classes
-  - Creating custom classes and objects
+  - [Introduction to object-oriented programming](#introduction-to-object-oriented-programming)
+  - [Using built-in classes](#using-built-in-classes)
+  - [Creating custom classes and objects](#creating-custom-classes-and-objects)
 - [**9. Advanced Topics**](#9-advanced-topics) (4 videos)
-  - Advanced topics in programming
-  - Memory management across languages
-  - Introduction to multithreading
-  - Introduction to algorithms
+  - [Advanced topics in programming](#advanced-topics-in-programming)
+  - [Memory management across languages](#memory-management-across-languages)
+  - [Introduction to multithreading](#introduction-to-multithreading)
+  - [Introduction to algorithms](#introduction-to-algorithms)
 - [**Glossaries**](#glossaries) (0 videos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your programming quest
+  - [Continuing your programming quest](#continuing-your-programming-quest)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Broadening your knowledge of programming fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals-22191968?u=76281980)
@@ -137,7 +137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), continue (1)
+> **Frameworks & Libraries:** [[Programming]] (5), [[Debugging]] (1), next (1), [[LinkedIn]] (1)
 > **Speakers:** - if (1)
 
 #### What you should know
@@ -157,6 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming Foundations]] (2), [[Programming]] (2), [[Programming Concepts]] (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -226,11 +227,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Windows]] (3), [[Microsoft Word|Word]] (3), [[Linux]] (2), prompt (2)
 > **CLI Commands:** python (11), make (2)
 > **Prerequisites:** install (11)
 > **Tools:** visual studio (6), command line (1)
 > **Versions:** version 3 (1), python 3 (1), 8.0 (1)
-> **Code Keywords:** this, (1), let (1)
 > **UI Navigation:** open the (1), toggle (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Exercise Files:** download the (1)
@@ -238,7 +239,7 @@ created: 2026-04-29
 
 ### 1. Collections
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-collections-22193992?u=76281980)
@@ -289,8 +290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Programming]] (4), [[Forms]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** known as (1)
 > **Speakers:** - despite (1)
 
@@ -363,8 +364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
 > **CLI Commands:** python (2), make (2)
-> **Code Keywords:** let (1), super (1), type. (1)
 > **File Paths:** list.py (1)
 > **Definitions:** known as (1)
 > **Analogies:** for instance (1)
@@ -435,8 +436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Forms]] (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** function (1), this. (1), finally, (1)
 > **File Paths:** dictionary.py (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -515,10 +516,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Programming]] (3)
 > **Tools:** terminal (4)
 > **File Paths:** list.py (1), dictionary.py (1)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** switch (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -563,8 +564,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (7), [[Programming]] (3), [[JavaScript]] (1)
 > **CLI Commands:** python (9)
-> **Code Keywords:** type. (2), let (1), require (1)
 > **Analogies:** for instance (3)
 > **Definitions:** known as (1), is called (1)
 > **Speakers:** - collections (1)
@@ -604,7 +605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (upbeat synth music) (1)
@@ -730,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (4), let (2), case, (2), else. (1)
+> **Frameworks & Libraries:** data (4), next (2), [[Programming Concepts]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -741,7 +742,7 @@ created: 2026-04-29
 
 ### 2. Iteration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to iteration
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-iteration-22199013?u=76281980)
@@ -784,8 +785,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), data (2)
 > **Analogies:** for instance (2), such as (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - folding (1)
 
 #### Iterating through collections
@@ -885,8 +886,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), data (3), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2), python (2)
-> **Code Keywords:** let (2), function (1)
 > **Definitions:** is a  (3)
 > **Tools:** terminal (1)
 > **Analogies:** for instance (1)
@@ -977,7 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), case, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** python (1)
 > **Definitions:** short for (1)
@@ -1013,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Tools:** terminal (1)
 > **Speakers:** - it (1)
@@ -1076,7 +1077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), super (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - your (1)
@@ -1085,7 +1086,7 @@ created: 2026-04-29
 
 ### 3. Using External Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing types of external code
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/comparing-types-of-external-code-22197018?u=76281980)
@@ -1144,8 +1145,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (1)
 > **CLI Commands:** python (5), make (2), find (1)
-> **Code Keywords:** module (4), let (1), case. (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** it's like (2), similar to (1)
 > **Speakers:** - when (1)
@@ -1213,7 +1214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), module (9), let (2), pass (1), continue (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), application (2), next (1), [[Programming]] (1)
 > **CLI Commands:** python (7), find (1)
 > **File Paths:** testmodule.py (3), app.py (3)
 > **Tools:** terminal (1)
@@ -1266,8 +1267,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (4), [[JavaScript]] (4), [[Python (Programming Language)|Python]] (2), web (2), [[TensorFlow]] (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** while, (1)
 > **Code Identifiers:** jquery (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - all (1)
@@ -1275,7 +1276,7 @@ created: 2026-04-29
 
 ### 4. Working with Strings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Combining and manipulating strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/combining-and-manipulating-strings-22191967?u=76281980)
@@ -1366,10 +1367,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Programming]] (4), [[Python (Programming Language)|Python]] (3), prompt (1)
 > **Tools:** terminal (5)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (1), type, (1), type. (1)
 > **Code Identifiers:** value_int (2)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise file (1)
@@ -1510,8 +1511,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Search]] (3), [[Programming]] (1), data (1), database (1)
 > **CLI Commands:** python (3), find (3)
-> **Code Keywords:** let (2), case, (1), this, (1), super (1)
 > **Tools:** terminal (3)
 > **Analogies:** for instance (2), imagine (1)
 > **UI Navigation:** go to (1)
@@ -1615,8 +1616,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (2), find (1)
-> **Code Keywords:** match. (1), let (1), module (1)
 > **Analogies:** for instance (3)
 > **Tools:** terminal (2)
 > **Definitions:** known as (1), is an  (1)
@@ -1647,6 +1648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the next (1)
 > **Tools:** terminal (1)
@@ -1748,8 +1750,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), prompt (3), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), next (1)
 > **Code Identifiers:** miles_float (4), typeerror (2)
-> **Code Keywords:** let (2), this. (1), type, (1), finally, (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** python (2)
 > **Versions:** 1.6 (2)
@@ -1760,7 +1762,7 @@ created: 2026-04-29
 
 ### 5. Planning a Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing a code style
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980)
@@ -1831,11 +1833,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (2), [[Google]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (7), make (4), find (2)
 > **Analogies:** for instance (3), just like (2)
 > **Definitions:** known as (1), is called (1), short for (1), is a  (1)
 > **Env Vars:** pep (3)
-> **Code Keywords:** else, (1), require (1)
 > **URLs:** [pep8.org](https://pep8.org) (1)
 > **Speakers:** - when (1)
 
@@ -1892,7 +1894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (1), require (1), for. (1)
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **Analogies:** for instance (1), picture (1), it's like (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1902,7 +1904,7 @@ created: 2026-04-29
 
 ### 6. Input and output
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to input and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-input-and-output-22199012?u=76281980)
@@ -1953,9 +1955,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Programming]] (3), traffic (2), [[Forms]] (1), [[Analytics]] (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (2)
-> **Code Keywords:** if, (1), let (1)
 > **Speakers:** - i (1)
 
 #### Working with file input and output
@@ -2063,8 +2065,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (5), [[Microsoft Word|Word]] (2), [[Search]] (2), [[Forms]] (1)
 > **File Paths:** values.txt (5), values-total.txt (5), add-values.py (1)
-> **Code Keywords:** let (4), require (1), finally, (1), case, (1), interface (1)
 > **CLI Commands:** python (7)
 > **Tools:** terminal (3), command line (2)
 > **UI Navigation:** go to (1)
@@ -2075,7 +2077,7 @@ created: 2026-04-29
 
 ### 7. Debugging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to debugging
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-debugging-22199011?u=76281980)
@@ -2148,7 +2150,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), switch (2)
+> **Frameworks & Libraries:** [[Debugging]] (4), [[Programming]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** known as (3), is a  (1)
 > **Analogies:** for instance (3), just like (1)
 > **CLI Commands:** python (2), find (1)
@@ -2232,10 +2234,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Python (Programming Language)|Python]] (3), feature (2)
 > **Env Vars:** ide (7)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** known as (3), means that (1)
-> **Code Keywords:** continue (1), switch (1), let (1)
 > **Analogies:** for instance (3)
 > **UI Navigation:** switch to (1), select the (1)
 > **Tools:** visual studio (1)
@@ -2314,10 +2316,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), data (1), [[Debugging]] (1)
 > **Tools:** terminal (6)
 > **CLI Commands:** make (1), find (1)
 > **File Paths:** compare.py (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** ide (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - when (1)
@@ -2375,6 +2377,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (1)
 > **Tools:** terminal (3)
 > **File Paths:** count.py (1)
 > **CLI Commands:** make (1)
@@ -2461,7 +2464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** elif (3), function (2), let (1), finally, (1)
+> **Frameworks & Libraries:** application (1), [[Python (Programming Language)|Python]] (1), feature (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1), python (1)
 > **UI Navigation:** go to (2)
 > **File Paths:** forecast.py (1)
@@ -2506,8 +2509,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** python (1), find (1)
-> **Code Keywords:** elif (1), super (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Env Vars:** ide (1)
 > **Tools:** terminal (1)
@@ -2581,7 +2584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** elif (2), function (1), else. (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Debugging]] (3), [[Programming]] (2), next (1), [[Programming Concepts]] (1)
 > **Tools:** terminal (4)
 > **Code Identifiers:** plant_recommendation (1), plant_rec (1)
 > **Definitions:** is a  (2)
@@ -2593,7 +2596,7 @@ created: 2026-04-29
 
 ### 8. Object Orientation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-object-oriented-programming-22193991?u=76281980)
@@ -2668,8 +2671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), data (2), oop (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (5), find (1), python (1)
-> **Code Keywords:** class. (2), for. (1), function (1)
 > **Analogies:** for instance (2), such as (1)
 > **Definitions:** known as (2)
 > **Prerequisites:** set up (1), required to (1)
@@ -2725,8 +2728,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (5)
 > **CLI Commands:** python (6), make (2), find (1)
-> **Code Keywords:** class. (2), this. (1), let (1)
 > **Analogies:** for instance (3)
 > **File Paths:** list.py (1)
 > **Speakers:** - object (1)
@@ -2836,7 +2839,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (4), function (2), class, (2), pass (1), from. (1)
+> **Frameworks & Libraries:** [[Programming]] (3), [[Python (Programming Language)|Python]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[LinkedIn]] (1), next (1)
 > **Code Identifiers:** displayattendee (5), addticket (4)
 > **CLI Commands:** python (2)
 > **Tools:** terminal (1)
@@ -2847,7 +2850,7 @@ created: 2026-04-29
 
 ### 9. Advanced Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced topics in programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/advanced-topics-in-programming-22191964?u=76281980)
@@ -2866,8 +2869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming Foundations]] (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** throw (1)
 > **Speakers:** - we (1)
 
 #### Memory management across languages
@@ -2933,9 +2936,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Memory Management]] (4), next (2), data (2), game (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is an  (2), known as (2)
 > **CLI Commands:** python (1), ruby (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - when (1)
 
 #### Introduction to multithreading
@@ -2985,9 +2988,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1), [[Programming]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** known as (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - i (1)
 
 #### Introduction to algorithms
@@ -3067,6 +3070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Algorithms]] (2), [[Troubleshooting]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -3076,12 +3080,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your programming quest
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980)
@@ -3118,8 +3122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (7), [[Debugging]] (1), [[Memory Management]] (1), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (1), make (1), go build (1)
-> **Code Keywords:** continue (2)
 > **Speakers:** - congratulations (1)
 
 

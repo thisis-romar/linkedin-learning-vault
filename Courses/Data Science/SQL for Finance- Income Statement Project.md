@@ -31,7 +31,7 @@ tags:
   - skill/financial-data
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20for%20Finance-%20Income%20Statement%20Project.md)
@@ -50,44 +50,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The power of SQL in financial reports
+  - [The power of SQL in financial reports](#the-power-of-sql-in-financial-reports)
 - [**1. Balance Sheets and Assets Accounts**](#1-balance-sheets-and-assets-accounts) (13 videos)
-  - Financial reports
-  - Understanding the project's data
-  - Exploring the user case
-  - Cash Account, part 1: Using CTE
-  - Cash Account, part 2: Using CTE
-  - Cash Account, part 3: Union
-  - Cash Account, part 4: Window function and materialized view
-  - Creating the Accounts Receivable Account
-  - Understanding Property Land and Equipment Account
-  - Window function and depreciation
-  - Completing the depreciation transaction
-  - Challenge: Inventory Account
-  - Solution: Inventory Account
+  - [Financial reports](#financial-reports)
+  - [Understanding the project's data](#understanding-the-projects-data)
+  - [Exploring the user case](#exploring-the-user-case)
+  - [Cash Account, part 1: Using CTE](#cash-account-part-1-using-cte)
+  - [Cash Account, part 2: Using CTE](#cash-account-part-2-using-cte)
+  - [Cash Account, part 3: Union](#cash-account-part-3-union)
+  - [Cash Account, part 4: Window function and materialized view](#cash-account-part-4-window-function-and-materialized-view)
+  - [Creating the Accounts Receivable Account](#creating-the-accounts-receivable-account)
+  - [Understanding Property Land and Equipment Account](#understanding-property-land-and-equipment-account)
+  - [Window function and depreciation](#window-function-and-depreciation)
+  - [Completing the depreciation transaction](#completing-the-depreciation-transaction)
+  - [Challenge: Inventory Account](#challenge-inventory-account)
+  - [Solution: Inventory Account](#solution-inventory-account)
 - [**2. Balance Sheets: Liability and Owner's Equity Accounts**](#2-balance-sheets-liability-and-owners-equity-accounts) (5 videos)
-  - Building the Loan Account
-  - Retained Earnings Account, part 1
-  - Retained Earnings Account, part 2
-  - Challenge: Retained Earnings Account
-  - Solution: Retained Earnings Account
+  - [Building the Loan Account](#building-the-loan-account)
+  - [Retained Earnings Account, part 1](#retained-earnings-account-part-1)
+  - [Retained Earnings Account, part 2](#retained-earnings-account-part-2)
+  - [Challenge: Retained Earnings Account](#challenge-retained-earnings-account)
+  - [Solution: Retained Earnings Account](#solution-retained-earnings-account)
 - [**3. Building the Balance Sheet**](#3-building-the-balance-sheet) (5 videos)
-  - Building the Assets section
-  - Building the Liabilities section
-  - Building the Owner's Equity section
-  - Challenge: Balance sheet year 1
-  - Solution: Balance sheet year 1
+  - [Building the Assets section](#building-the-assets-section)
+  - [Building the Liabilities section](#building-the-liabilities-section)
+  - [Building the Owner's Equity section](#building-the-owners-equity-section)
+  - [Challenge: Balance sheet year 1](#challenge-balance-sheet-year-1)
+  - [Solution: Balance sheet year 1](#solution-balance-sheet-year-1)
 - [**4. Income Statement**](#4-income-statement) (3 videos)
-  - Understanding the income statement
-  - Challenge: Income statement
-  - Solution: Income statement
+  - [Understanding the income statement](#understanding-the-income-statement)
+  - [Challenge: Income statement](#challenge-income-statement)
+  - [Solution: Income statement](#solution-income-statement)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Balance sheet and income statement considerations
-  - Your SQL journey
+  - [Balance sheet and income statement considerations](#balance-sheet-and-income-statement-considerations)
+  - [Your SQL journey](#your-sql-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of SQL in financial reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/the-power-of-sql-in-financial-reports?u=76281980)
@@ -108,14 +108,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), business (1), data (1)
 > **Env Vars:** sql (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Balance Sheets and Assets Accounts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/financial-reports?u=76281980)
@@ -210,7 +210,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Financial Statements]] (1), business (1), next (1)
 > **Env Vars:** gaap (2)
 > **Definitions:** stands for (1), means that (1)
 > **Analogies:** for instance (2)
@@ -279,9 +279,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), database (2), [[Jetpack Compose|Compose]] (1), business (1), product (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** we covered (1), previous video (1), later in (1), in the next (1)
-> **Code Keywords:** this, (2), case, (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -312,7 +312,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Definitions:** is an  (1), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Cash Account, part 1: Using CTE
@@ -448,7 +447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), case, (5), continue (2), this, (1), else. (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Products|Products]] (2), data (2), next (1)
 > **Env Vars:** cte (13), sql (2)
 > **Code Identifiers:** payment_at (3), purchase_dates (2), total_amount (2), payment_method (1), actual_payment_at (1)
 > **Definitions:** stands for (1), in other words (1), is a  (1), is an  (1)
@@ -628,7 +627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), function (2), continue (1), require (1), delete (1)
+> **Frameworks & Libraries:** next (8), data (1)
 > **Code Identifiers:** total_amount (7), date_part (4), loan_in (4), actual_payment_at (3), period_year (3)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), select the (2)
@@ -752,8 +751,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), data (1)
 > **Env Vars:** union (21), select (8), join (5), cross (2), sql (1)
-> **Code Keywords:** let (21)
 > **SQL:** select (8), join (5)
 > **Code Identifiers:** period_year (4), cash_union (3), total_amount (2), cash_amount (1)
 > **Cross-References:** go back to (1)
@@ -875,7 +874,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), function (5), from, (1), type, (1)
+> **Frameworks & Libraries:** data (3), [[SQL]] (2), hit (2), next (2), power (1)
 > **Code Identifiers:** account_cash (4), period_year (2), total_amount (2), cash_amount (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Env Vars:** sql (2)
@@ -967,7 +966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (1)
+> **Frameworks & Libraries:** hit (2), [[Microsoft Products|Products]] (1), [[SQL]] (1), next (1)
 > **Code Identifiers:** date_part (4), payment_at (3), account_accounts_receivable (3), period_year (1), total_amount (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cte (1), sql (1)
@@ -1129,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), this, (1), continue (1), case, (1)
+> **Frameworks & Libraries:** product (1), [[SQL]] (1), next (1)
 > **Definitions:** is a  (2), refers to (1), means that (1)
 > **Env Vars:** sql (1), cte (1)
 > **Cross-References:** in the next (1)
@@ -1262,7 +1261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), function (4), this, (2)
+> **Frameworks & Libraries:** next (2)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** means that (2), in other words (1)
 > **UI Navigation:** go to (1)
@@ -1410,7 +1409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (48), function (2), delete (2), continue (1)
+> **Frameworks & Libraries:** hit (1), next (1)
 > **Code Identifiers:** period_year (6), ple_purchase (6), ple_union (4), total_amount (4), ple_sum (3)
 > **UI Navigation:** go to (2), select the (2), open the (1), scroll down (1)
 > **CLI Commands:** find (1)
@@ -1449,7 +1448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1), next (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
@@ -1598,7 +1597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (38), function (2)
+> **Frameworks & Libraries:** product (4), [[SQL]] (1), hit (1), next (1)
 > **Code Identifiers:** period_year (5), total_amount (5), product_price (3), product_name (3), inventory_union (3)
 > **UI Navigation:** select the (3), go to (1), open the (1), scroll up (1)
 > **Env Vars:** sql (1), ecr (1)
@@ -1609,7 +1608,7 @@ created: 2026-04-29
 
 ### 2. Balance Sheets: Liability and Owner's Equity Accounts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the Loan Account
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-loan-account?u=76281980)
@@ -1784,7 +1783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (40), this, (3), case, (1), function (1)
+> **Frameworks & Libraries:** hit (4), next (3), product (1), [[SQL]] (1)
 > **UI Navigation:** select the (3), open the (1), navigate to (1)
 > **Cross-References:** in the next (2), in the last (1), go back to (1)
 > **Analogies:** for example (1), for instance (1)
@@ -1899,7 +1898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (28), this, (1), raise (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (4), next (2), database (2), data (2)
 > **Code Identifiers:** order_process (3), date_part (2), transaction_type (2), payment_at (1), period_year (1)
 > **UI Navigation:** go to (1), navigate to (1), click on (1), scroll down (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -2048,7 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (31), this. (2), continue (1), type. (1), case. (1)
+> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** transaction_type (3), payment_type (3), depreciation_dates (2), depreciation_sum (2), order_process (2)
 > **UI Navigation:** go to (1), navigate to (1), open the (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
@@ -2080,7 +2079,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2254,7 +2253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (39), case, (3), this, (2), finally, (1), else, (1)
+> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** order_process (6), period_year (4), total_amount (4), new_total_amount (4), re_union (3)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** select the (2), scroll up (1)
@@ -2266,7 +2265,7 @@ created: 2026-04-29
 
 ### 3. Building the Balance Sheet
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the Assets section
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980)
@@ -2429,7 +2428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (45), case, (2), continue (1), else, (1)
+> **Frameworks & Libraries:** hit (2), [[SQL]] (1), next (1)
 > **Code Identifiers:** order_process (6), assets_union (3), period_year (3), new_total_amount (3), date_part (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1), cte (1)
@@ -2545,7 +2544,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (31), case. (1), else, (1), case, (1)
+> **Frameworks & Libraries:** hit (2), [[SQL]] (1), next (1)
 > **Code Identifiers:** order_process (5), period_year (3), total_amount (3), liabilities_union (2), account_loan (2)
 > **UI Navigation:** select the (2), go to (1)
 > **Env Vars:** sql (1), cte (1)
@@ -2665,7 +2664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (35), type, (1), continue (1), case. (1), else, (1)
+> **Frameworks & Libraries:** hit (2), [[SQL]] (1), next (1)
 > **Code Identifiers:** oe_union (3), section_bs (1)
 > **UI Navigation:** select the (3)
 > **Env Vars:** sql (1), cte (1)
@@ -2773,7 +2772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20)
+> **Frameworks & Libraries:** hit (3), [[SQL]] (1), next (1)
 > **Code Identifiers:** balance_sheet (4), section_assets (2), section_owners_equity (2), section_liabilities (1), period_year (1)
 > **Env Vars:** sql (1), cte (1)
 > **Cross-References:** next chapter (1)
@@ -2784,7 +2783,7 @@ created: 2026-04-29
 
 ### 4. Income Statement
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the income statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-income-statement?u=76281980)
@@ -2823,8 +2822,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (2), is a  (1), in other words (1)
-> **Code Keywords:** let (2), this, (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2847,7 +2846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (1)
+> **Frameworks & Libraries:** business (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (bright music) (1)
@@ -2949,7 +2948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), type, (1), type. (1), case, (1)
+> **Frameworks & Libraries:** hit (2), [[SQL]] (1), next (1)
 > **Code Identifiers:** period_year (2), transaction_type (2), income_statement (2), retained_earnings_detail (1), retained_earnings (1)
 > **UI Navigation:** go to (2), select the (2)
 > **Env Vars:** gaap (1), sql (1), materialized (1)
@@ -2960,7 +2959,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Balance sheet and income statement considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980)
@@ -3043,10 +3042,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (2), database (1), [[Data Engineering]] (1)
 > **Analogies:** for instance (2), for example (1), such as (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** cte (1), ros (1)
 > **Cross-References:** we covered (1)
 > **Prerequisites:** set up (1)
@@ -3083,6 +3082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[SQL]] (2), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

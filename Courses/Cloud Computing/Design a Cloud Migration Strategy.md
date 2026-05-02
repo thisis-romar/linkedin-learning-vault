@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Design%20a%20Cloud%20Migration%20Strategy.md)
@@ -45,57 +45,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Planning a cloud migration
-  - What you should know
+  - [Planning a cloud migration](#planning-a-cloud-migration)
+  - [What you should know](#what-you-should-know)
 - [**1. Essential Migration Considerations**](#1-essential-migration-considerations) (6 videos)
-  - Identify migration goals
-  - Types of migrations
-  - Cost considerations
-  - The five phases of migration
-  - Common mistakes to avoid
-  - Infrastructure and logical considerations
+  - [Identify migration goals](#identify-migration-goals)
+  - [Types of migrations](#types-of-migrations)
+  - [Cost considerations](#cost-considerations)
+  - [The five phases of migration](#the-five-phases-of-migration)
+  - [Common mistakes to avoid](#common-mistakes-to-avoid)
+  - [Infrastructure and logical considerations](#infrastructure-and-logical-considerations)
 - [**2. Rehosting**](#2-rehosting) (4 videos)
-  - Which applications should be rehosted?
-  - Performance considerations
-  - Estimating costs
-  - Is it better to migrate or rebuild?
+  - [Which applications should be rehosted?](#which-applications-should-be-rehosted)
+  - [Performance considerations](#performance-considerations)
+  - [Estimating costs](#estimating-costs)
+  - [Is it better to migrate or rebuild?](#is-it-better-to-migrate-or-rebuild)
 - [**3. Replatforming**](#3-replatforming) (4 videos)
-  - What is replatforming?
-  - Advantages of replatforming
-  - Some potential issues with replatforming
-  - Identifying good candidates for replatforming
+  - [What is replatforming?](#what-is-replatforming)
+  - [Advantages of replatforming](#advantages-of-replatforming)
+  - [Some potential issues with replatforming](#some-potential-issues-with-replatforming)
+  - [Identifying good candidates for replatforming](#identifying-good-candidates-for-replatforming)
 - [**4. Adopting SaaS**](#4-adopting-saas) (4 videos)
-  - Why transition to SaaS?
-  - The advantages of a SaaS migration
-  - Potential disadvantages of SasS migration
-  - Important considerations
+  - [Why transition to SaaS?](#why-transition-to-saas)
+  - [The advantages of a SaaS migration](#the-advantages-of-a-saas-migration)
+  - [Potential disadvantages of SasS migration](#potential-disadvantages-of-sass-migration)
+  - [Important considerations](#important-considerations)
 - [**5. Refactoring Workloads**](#5-refactoring-workloads) (2 videos)
-  - The case for application refactoring
-  - Modernizing a refactored application
+  - [The case for application refactoring](#the-case-for-application-refactoring)
+  - [Modernizing a refactored application](#modernizing-a-refactored-application)
 - [**6. Retiring Workloads**](#6-retiring-workloads) (2 videos)
-  - Why retiring an application may be the best option
-  - Identifying applications that can be retired
+  - [Why retiring an application may be the best option](#why-retiring-an-application-may-be-the-best-option)
+  - [Identifying applications that can be retired](#identifying-applications-that-can-be-retired)
 - [**7. The Migration Process**](#7-the-migration-process) (8 videos)
-  - Are your goals still relevant?
-  - Building a plan of attack
-  - Considerations for IT pros
-  - Why it is fine to leave some applications alone?
-  - What tools are available to assist with the migration?
-  - Making the case for a trial migration
-  - Additional considerations
-  - Where should I begin?
+  - [Are your goals still relevant?](#are-your-goals-still-relevant)
+  - [Building a plan of attack](#building-a-plan-of-attack)
+  - [Considerations for IT pros](#considerations-for-it-pros)
+  - [Why it is fine to leave some applications alone?](#why-it-is-fine-to-leave-some-applications-alone)
+  - [What tools are available to assist with the migration?](#what-tools-are-available-to-assist-with-the-migration)
+  - [Making the case for a trial migration](#making-the-case-for-a-trial-migration)
+  - [Additional considerations](#additional-considerations)
+  - [Where should I begin?](#where-should-i-begin)
 - [**8. Your Exit Strategy**](#8-your-exit-strategy) (5 videos)
-  - What is a cloud exit strategy?
-  - Why do you need an exit strategy?
-  - Essential elements to include in an exit strategy
-  - Costs to consider as you develop your exit strategy
-  - Designing a cloud migration strategy with an eye toward the exit
+  - [What is a cloud exit strategy?](#what-is-a-cloud-exit-strategy)
+  - [Why do you need an exit strategy?](#why-do-you-need-an-exit-strategy)
+  - [Essential elements to include in an exit strategy](#essential-elements-to-include-in-an-exit-strategy)
+  - [Costs to consider as you develop your exit strategy](#costs-to-consider-as-you-develop-your-exit-strategy)
+  - [Designing a cloud migration strategy with an eye toward the exit](#designing-a-cloud-migration-strategy-with-an-eye-toward-the-exit)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning a cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/planning-a-cloud-migration?u=76281980)
@@ -118,7 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** cloud (6), [[LinkedIn]] (1)
 > **Speakers:** - [brien] (1)
 
 #### What you should know
@@ -136,13 +136,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Essential Migration Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify migration goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980)
@@ -223,7 +224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this, (1)
+> **Frameworks & Libraries:** cloud (16), [[Hardware]] (9), business (2), data (2), [[Scalability]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
@@ -292,8 +293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), application (8), database (2), generic (1), [[SaaS|Software as a service]] (1)
 > **Definitions:** refers to (3), is called (1)
-> **Code Keywords:** let (1), continue (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -399,8 +400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (43), application (21), [[Hardware]] (7), [[SaaS|Software as a service]] (6), data (6)
 > **CLI Commands:** find (5), make (4)
-> **Code Keywords:** let (2), require (1), finally, (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -476,8 +477,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (19), data (8), cloud (5), [[Security]] (2), [[Performance Metrics]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1), if, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -593,10 +594,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (24), cloud (20), data (5), feature (4), [[SaaS|Software as a service]] (4)
 > **CLI Commands:** make (4), find (4)
 > **Env Vars:** isp (4)
 > **Analogies:** such as (2), imagine (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), warning (1)
 > **Speakers:** - [instructor] (1)
@@ -696,6 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), cloud (13), application (8), aws (3), [[Virtual Machines]] (2)
 > **Env Vars:** aws (3), vhd (3), vhdx (3), ovf (1), vmdk (1)
 > **CLI Commands:** find (5), aws (3)
 > **Analogies:** such as (2), for example (1), for instance (1), imagine (1)
@@ -707,7 +709,7 @@ created: 2026-04-29
 
 ### 2. Rehosting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Which applications should be rehosted?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980)
@@ -762,7 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (1), continue (1), require (1), protected (1)
+> **Frameworks & Libraries:** cloud (20), application (16), data (8), [[Microsoft]] (1), aws (1)
 > **Definitions:** is called (1), refers to (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** aws (1)
@@ -851,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (18), application (11), [[Virtual Machines]] (2), [[Hardware]] (1), dns (1)
 > **Env Vars:** wan (6), cpu (1), dns (1)
-> **Code Keywords:** this, (1), finally, (1)
 > **Warnings:** note that (1), be aware (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -1018,7 +1020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), finally, (2), type. (1)
+> **Frameworks & Libraries:** cloud (30), [[Hardware]] (7), [[Virtual Machines]] (4), [[Windows]] (3), data (3)
 > **Env Vars:** sql (2), ebs (1), iops (1), aws (1)
 > **CLI Commands:** find (1), make (1), aws (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -1095,7 +1097,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if, (2), finally, (2), new, (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (10), cloud (4), [[Automation]] (1), business (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1), for example (1)
@@ -1104,7 +1106,7 @@ created: 2026-04-29
 
 ### 3. Replatforming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is replatforming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980)
@@ -1155,9 +1157,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (14), database (6), cloud (4), web (2), web application (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
-> **Code Keywords:** continue (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** avoid doing (1)
 > **Speakers:** - [instructor] (1)
@@ -1223,8 +1225,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (24), database (5), management (2), [[Microsoft SQL Server]] (1), cloud (1)
 > **Analogies:** for example (5), imagine (1)
-> **Code Keywords:** finally, (2), if, (1)
 > **Env Vars:** sql (2)
 > **Warnings:** keep in mind (2)
 > **Cross-References:** previous video (1)
@@ -1291,8 +1293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (17), database (11), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** sql (7), msdb (1)
-> **Code Keywords:** let (3), require (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1360,8 +1362,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (17), database (5), cloud (4), dns (3), business (1)
 > **Env Vars:** dns (3), dhcp (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** it's best to (1), you should never (1)
 > **Analogies:** imagine (1)
@@ -1370,7 +1372,7 @@ created: 2026-04-29
 
 ### 4. Adopting SaaS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why transition to SaaS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980)
@@ -1455,8 +1457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (20), [[SaaS|Software as a service]] (15), cloud (8), [[Hardware]] (4), [[Microsoft Products|Products]] (3)
 > **Prerequisites:** you'll need (2), install (1)
-> **Code Keywords:** finally, (2)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1509,6 +1511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (25), [[SaaS|Software as a service]] (7), cloud (6), next (3), [[IaaS|Infrastructure as a service]] (1)
 > **Env Vars:** iops (1), eres (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -1558,7 +1561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1), protected (1), self (1)
+> **Frameworks & Libraries:** application (18), [[SaaS|Software as a service]] (11), data (5), cloud (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1647,8 +1650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (19), dns (9), [[SaaS|Software as a service]] (8), cloud (5), business (4)
 > **Env Vars:** dns (9), sla (5)
-> **Code Keywords:** require (2), finally, (1), continue (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -1656,7 +1659,7 @@ created: 2026-04-29
 
 ### 5. Refactoring Workloads
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The case for application refactoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980)
@@ -1757,8 +1760,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (19), game (5), business (3), database (3), [[User Experience (UX)|User experience]] (2)
 > **CLI Commands:** make (7)
-> **Code Keywords:** finally, (2), let (1), interface (1)
 > **Env Vars:** ram (2), sql (1)
 > **Exercise Files:** source code (3)
 > **Analogies:** for example (2), such as (1)
@@ -1800,7 +1803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** application (14), business (2)
 > **Env Vars:** cobol (2)
 > **Exercise Files:** source code (2)
 > **Analogies:** such as (1), for example (1)
@@ -1810,7 +1813,7 @@ created: 2026-04-29
 
 ### 6. Retiring Workloads
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why retiring an application may be the best option
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-retiring-an-application-may-be-the-best-option?u=76281980)
@@ -1867,7 +1870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), finally, (1), raise (1)
+> **Frameworks & Libraries:** application (27), cloud (3), [[Hardware]] (3), business (1), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
@@ -1932,15 +1935,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (24), data (9), cloud (2), [[Hardware]] (2), functional (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** for. (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. The Migration Process
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Are your goals still relevant?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/are-your-goals-still-relevant?u=76281980)
@@ -1987,8 +1990,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), business (4), cloud (2), data (2)
 > **CLI Commands:** find (4)
-> **Code Keywords:** case. (1), finally, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2077,9 +2080,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (12), cloud (4), business (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (3), similar to (1), such as (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** require (1), finally, (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2183,8 +2186,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (14), [[Microsoft Office|Office]] (3), cloud (2), [[Virtualization]] (1), career (1)
 > **CLI Commands:** make (10), find (1)
-> **Code Keywords:** case, (1), pass (1), this, (1), finally, (1)
 > **Best Practices:** best practice (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -2276,8 +2279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (30), cloud (12), data (4), [[Hardware]] (3), business (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2)
 > **Env Vars:** gpu (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** it's best to (1)
@@ -2316,8 +2319,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), application (2), [[Google]] (1), [[Search]] (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** make (1), aws (1)
-> **Code Keywords:** if, (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -2392,7 +2395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), finally, (1)
+> **Frameworks & Libraries:** application (10), cloud (5), data (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -2444,8 +2447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), application (4)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** coming up (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** before you begin (1)
@@ -2490,6 +2493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), cloud (2), [[Simulation]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** in other words (1)
@@ -2498,7 +2502,7 @@ created: 2026-04-29
 
 ### 8. Your Exit Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a cloud exit strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-a-cloud-exit-strategy?u=76281980)
@@ -2527,6 +2531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), application (2), data (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2594,7 +2599,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), if, (1), finally, (1)
+> **Frameworks & Libraries:** cloud (32), application (15), business (5), data (3), [[Security]] (2)
 > **Analogies:** for example (3)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -2710,7 +2715,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (2), finally, (1), super (1), pass (1)
+> **Frameworks & Libraries:** cloud (32), application (18), business (3), data (1), management (1)
 > **Definitions:** in other words (5)
 > **Cross-References:** in the last (1), previous video (1)
 > **Analogies:** for example (2)
@@ -2787,7 +2792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** if, (2), let (1), finally, (1)
+> **Frameworks & Libraries:** application (16), cloud (14), data (6), [[Hardware]] (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -2898,15 +2903,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (21), application (17), data (4), next (3), [[Active Directory]] (3)
 > **CLI Commands:** make (13)
-> **Code Keywords:** let (4), require (3), case, (1), finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980)
@@ -2925,8 +2930,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Virtual Machines]] (1), [[Microsoft]] (1), aws (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (1), find (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [brien] (1)

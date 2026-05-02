@@ -30,7 +30,7 @@ tags:
   - skill/metadata
   - skill/html
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Metadata%20in%20the%20Head.md)
@@ -49,37 +49,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Setting expectations for your document
-  - Working with Visual Studio Code
+  - [Setting expectations for your document](#setting-expectations-for-your-document)
+  - [Working with Visual Studio Code](#working-with-visual-studio-code)
 - [**1. Before the Head of the Document**](#1-before-the-head-of-the-document) (2 videos)
-  - Establishing language in your document
-  - Establishing a document type
+  - [Establishing language in your document](#establishing-language-in-your-document)
+  - [Establishing a document type](#establishing-a-document-type)
 - [**2. Understanding Meta Tags**](#2-understanding-meta-tags) (10 videos)
-  - How do meta tags work?
-  - Setting character sets
-  - Redirecting pages with meta refresh
-  - Identifying authors and conversations
-  - Setting the viewport
-  - Setting color themes
-  - Presenting your page to Facebook
-  - Checking your work for Facebook
-  - Challenge: Configuring meta information
-  - Solution: Configuring meta information
+  - [How do meta tags work?](#how-do-meta-tags-work)
+  - [Setting character sets](#setting-character-sets)
+  - [Redirecting pages with meta refresh](#redirecting-pages-with-meta-refresh)
+  - [Identifying authors and conversations](#identifying-authors-and-conversations)
+  - [Setting the viewport](#setting-the-viewport)
+  - [Setting color themes](#setting-color-themes)
+  - [Presenting your page to Facebook](#presenting-your-page-to-facebook)
+  - [Checking your work for Facebook](#checking-your-work-for-facebook)
+  - [Challenge: Configuring meta information](#challenge-configuring-meta-information)
+  - [Solution: Configuring meta information](#solution-configuring-meta-information)
 - [**3. Other Head Tags**](#3-other-head-tags) (8 videos)
-  - Adding a title to your page
-  - Creating identity for your pages with icons
-  - Linking styles to your page
-  - Specifying style directly
-  - Connecting scripts
-  - Establishing a base URL
-  - Challenge: Establishing scripts, styles, and icons
-  - Solution: Establishing scripts, styles, and icons
+  - [Adding a title to your page](#adding-a-title-to-your-page)
+  - [Creating identity for your pages with icons](#creating-identity-for-your-pages-with-icons)
+  - [Linking styles to your page](#linking-styles-to-your-page)
+  - [Specifying style directly](#specifying-style-directly)
+  - [Connecting scripts](#connecting-scripts)
+  - [Establishing a base URL](#establishing-a-base-url)
+  - [Challenge: Establishing scripts, styles, and icons](#challenge-establishing-scripts-styles-and-icons)
+  - [Solution: Establishing scripts, styles, and icons](#solution-establishing-scripts-styles-and-icons)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting expectations for your document
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980)
@@ -100,8 +100,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), [[Search]] (2), web (1), css (1), [[Metadata]] (1)
 > **Env Vars:** html (4), css (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - when (1)
 
 #### Working with Visual Studio Code
@@ -183,10 +183,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), [[Windows]] (3), [[Microsoft]] (1), [[Linux]] (1)
 > **Env Vars:** html (5)
 > **Tools:** vs code (4), visual studio (1)
 > **Exercise Files:** exercise files (4), download the (1)
-> **Code Keywords:** this. (4)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** similar to (1), just like (1)
 > **Prerequisites:** install (1), configure (1)
@@ -195,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Before the Head of the Document
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing language in your document
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980)
@@ -236,8 +236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[HTML]] (2), web (2), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
 > **Analogies:** for example (2), similar to (1)
-> **Code Keywords:** this. (1), finally, (1)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -281,6 +281,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), css (1)
 > **Env Vars:** html5 (6), xhtml (5), html4 (5), html (5), doctype (3)
 > **Versions:** 1.0 (2)
 > **Definitions:** is a  (2)
@@ -290,7 +291,7 @@ created: 2026-04-29
 
 ### 2. Understanding Meta Tags
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How do meta tags work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980)
@@ -353,8 +354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Google]] (2), web (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** finally, (1), this. (1), this, (1)
 > **Env Vars:** utf (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -406,9 +407,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (1), web (1), hit (1)
 > **Env Vars:** utf8 (6), iso8859 (1)
 > **CLI Commands:** make (4), find (2)
-> **Code Keywords:** finally, (1), default, (1), let (1)
 > **Cross-References:** later in (2), go back to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -486,8 +487,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (8), web (6), [[JavaScript]] (3), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **Env Vars:** http (3), url (3), utf (1)
-> **Code Keywords:** case, (2), let (2), for. (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Warnings:** be careful (2)
@@ -582,7 +583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (10), [[Google]] (4), web (3), [[LinkedIn]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** url (1)
@@ -762,7 +763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), default, (4), default. (3), super (1), case, (1)
+> **Frameworks & Libraries:** [[Zoom]] (14), web (7), css (7), next (2), hit (1)
 > **Env Vars:** css (7), html (1)
 > **Versions:** 1.0 (6), 0.1 (1), 2.0 (1)
 > **UI Navigation:** click on (3), go to (1), toggle (1), scroll down (1)
@@ -820,9 +821,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (2), next (1), web (1)
 > **Env Vars:** rgb (1), rgba (1), hsl (1), hsla (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [narrator] (1)
 
 #### Presenting your page to Facebook
@@ -940,9 +941,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), next (3), data (2), open-source (1), database (1)
 > **Env Vars:** url (6), html (2), imdb (1), utf (1)
 > **CLI Commands:** find (4), make (4)
-> **Code Keywords:** let (4), type, (1), type. (1), default, (1), super (1)
 > **URLs:** [jenkramer.org](https://jenkramer.org) (2), [facebook.com](https://facebook.com) (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** picture (2), imagine (1)
@@ -1030,8 +1031,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), next (2), [[WordPress]] (1), [[JavaScript]] (1), application (1)
 > **Env Vars:** url (3), html (1), ftp (1)
-> **Code Keywords:** include, (2), static (1), this, (1)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
 > **URLs:** [facebook.com](https://facebook.com) (1)
@@ -1080,9 +1081,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), css (1), [[JavaScript]] (1), next (1)
 > **File Paths:** index.html (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** css (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1170,8 +1171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), web (2), [[Google]] (1), [[Microsoft Products|Products]] (1), css (1)
 > **Env Vars:** url (5), css (1)
-> **Code Keywords:** let (1), this. (1), type. (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [topsyturvycakedesign.com](https://topsyturvycakedesign.com) (1)
 > **UI Navigation:** go to (1)
@@ -1181,7 +1182,7 @@ created: 2026-04-29
 
 ### 3. Other Head Tags
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding a title to your page
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/adding-a-title-to-your-page-23204068?u=76281980)
@@ -1222,6 +1223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[HTML]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
 > **Best Practices:** you should always (1)
@@ -1370,7 +1372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (4), let (2), this, (2)
+> **Frameworks & Libraries:** [[HTML]] (4), web (3), [[LinkedIn]] (1), next (1)
 > **Exercise Files:** exercise files (4), zip file (1), download the (1)
 > **CLI Commands:** make (3), unzip (1), find (1)
 > **Analogies:** picture (4), for example (1)
@@ -1446,10 +1448,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[Google]] (1)
 > **Env Vars:** css (2), html5 (2), html4 (1)
 > **Code Identifiers:** ipads (1), iphones (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else. (1)
 > **Cross-References:** as you saw (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -1521,7 +1523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Google]] (1), css (1)
 > **Env Vars:** html (2), css (1)
 > **Analogies:** for example (2), kind of like (1)
 > **CLI Commands:** make (1)
@@ -1644,9 +1646,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (13), web (5), css (3), [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** jquery (11)
 > **Env Vars:** css (3), html (3), sri (2), utf (1)
-> **Code Keywords:** let (5), this, (3)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
 > **URLs:** [jquery.com](https://jquery.com) (1), [srihash.org](https://srihash.org) (1)
 > **Documentation:** the documentation (2)
@@ -1714,7 +1716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2), this. (1), this, (1), override (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[HTML]] (1), web application (1), web (1), [[Windows]] (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2), [genkramer.org](https://genkramer.org) (1)
 > **Env Vars:** html (1), url (1)
 > **Analogies:** just like (1), for example (1)
@@ -1768,10 +1770,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (8), css (4), web (1), next (1)
 > **Env Vars:** css (4)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -1826,6 +1828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** foundation.css (1), app.css (1), app.js (1), js/app.js (1)
 > **Env Vars:** css (2), utf (1)
 > **Cross-References:** earlier in (2)
@@ -1833,12 +1836,11 @@ created: 2026-04-29
 > **UI Navigation:** go to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
-> **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/next-steps-23203329?u=76281980)
@@ -1881,10 +1883,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), css (2), web (1), data (1)
 > **Env Vars:** html (4), css (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [jen] (1)
 
 

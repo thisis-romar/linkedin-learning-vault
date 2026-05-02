@@ -31,7 +31,7 @@ tags:
   - skill/cloud-native-architecture
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/AWS%20Essential%20Training%20for%20Architects.md)
@@ -50,61 +50,61 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Aligning solutions
-  - What you need to know
-  - AWS Well-Architected Framework
-  - Shared responsibility model
+  - [Aligning solutions](#aligning-solutions)
+  - [What you need to know](#what-you-need-to-know)
+  - [AWS Well-Architected Framework](#aws-well-architected-framework)
+  - [Shared responsibility model](#shared-responsibility-model)
 - [**1. Keeping Things Secure**](#1-keeping-things-secure) (11 videos)
-  - Design a strategy for secure access
-  - Identity and Access Management
-  - Organizing multiple accounts with AWS Organizations
-  - Governing multiple accounts using AWS Control Tower
-  - IAM Identity Center
-  - VPC and subnets
-  - VPN and Direct Connect
-  - Controlling inbound traffic with security groups and network ACLs
-  - Securing keys and credentials
-  - Securing data in transit
-  - Security best practices
+  - [Design a strategy for secure access](#design-a-strategy-for-secure-access)
+  - [Identity and Access Management](#identity-and-access-management)
+  - [Organizing multiple accounts with AWS Organizations](#organizing-multiple-accounts-with-aws-organizations)
+  - [Governing multiple accounts using AWS Control Tower](#governing-multiple-accounts-using-aws-control-tower)
+  - [IAM Identity Center](#iam-identity-center)
+  - [VPC and subnets](#vpc-and-subnets)
+  - [VPN and Direct Connect](#vpn-and-direct-connect)
+  - [Controlling inbound traffic with security groups and network ACLs](#controlling-inbound-traffic-with-security-groups-and-network-acls)
+  - [Securing keys and credentials](#securing-keys-and-credentials)
+  - [Securing data in transit](#securing-data-in-transit)
+  - [Security best practices](#security-best-practices)
 - [**2. Architecting for Resilience and High Availability**](#2-architecting-for-resilience-and-high-availability) (8 videos)
-  - Design for failure
-  - Elastic Load Balancing
-  - Architecting loosely coupled applications with SNS and SQS
-  - Host your apps with Elastic Beanstalk
-  - AWS Fargate
-  - Use cloud-native storage
-  - Securing databases against failures
-  - Backing up
+  - [Design for failure](#design-for-failure)
+  - [Elastic Load Balancing](#elastic-load-balancing)
+  - [Architecting loosely coupled applications with SNS and SQS](#architecting-loosely-coupled-applications-with-sns-and-sqs)
+  - [Host your apps with Elastic Beanstalk](#host-your-apps-with-elastic-beanstalk)
+  - [AWS Fargate](#aws-fargate)
+  - [Use cloud-native storage](#use-cloud-native-storage)
+  - [Securing databases against failures](#securing-databases-against-failures)
+  - [Backing up](#backing-up)
 - [**3. Automate Infrastructure**](#3-automate-infrastructure) (8 videos)
-  - Why should you automate?
-  - CloudFormation
-  - Going serverless with Lambda
-  - Event-driven architecture
-  - Orchestrating with Step Functions
-  - AWS Systems Manager
-  - Auto Scaling
-  - Other automation tools in AWS
+  - [Why should you automate?](#why-should-you-automate)
+  - [CloudFormation](#cloudformation)
+  - [Going serverless with Lambda](#going-serverless-with-lambda)
+  - [Event-driven architecture](#event-driven-architecture)
+  - [Orchestrating with Step Functions](#orchestrating-with-step-functions)
+  - [AWS Systems Manager](#aws-systems-manager)
+  - [Auto Scaling](#auto-scaling)
+  - [Other automation tools in AWS](#other-automation-tools-in-aws)
 - [**4. Improving Performance**](#4-improving-performance) (8 videos)
-  - Designing a strategy for improving performance
-  - Monitoring with CloudWatch
-  - Gathering performance insights
-  - Using a content delivery network
-  - Caching
-  - High-performance storage
-  - Hybrid Storage
-  - Managed databases
+  - [Designing a strategy for improving performance](#designing-a-strategy-for-improving-performance)
+  - [Monitoring with CloudWatch](#monitoring-with-cloudwatch)
+  - [Gathering performance insights](#gathering-performance-insights)
+  - [Using a content delivery network](#using-a-content-delivery-network)
+  - [Caching](#caching)
+  - [High-performance storage](#high-performance-storage)
+  - [Hybrid Storage](#hybrid-storage)
+  - [Managed databases](#managed-databases)
 - [**5. Optimize for Cost**](#5-optimize-for-cost) (4 videos)
-  - Strategies for optimizing costs
-  - Reducing compute costs
-  - Reducing storage costs
-  - Tools to track cost and usage
+  - [Strategies for optimizing costs](#strategies-for-optimizing-costs)
+  - [Reducing compute costs](#reducing-compute-costs)
+  - [Reducing storage costs](#reducing-storage-costs)
+  - [Tools to track cost and usage](#tools-to-track-cost-and-usage)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Additional resources
-  - Conclusion
+  - [Additional resources](#additional-resources)
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Aligning solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aligning-solutions?u=76281980)
@@ -125,8 +125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), business (1), aws (1), [[Automation]] (1), career (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** aws (1)
 
 #### What you need to know
@@ -156,9 +156,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), cloud (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Databases]] (1)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
-> **Code Keywords:** this. (1), let (1)
 
 #### AWS Well-Architected Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aws-well-architected-framework?u=76281980)
@@ -281,10 +281,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), cloud (8), [[Security]] (5), application (3), data (3)
 > **Env Vars:** aws (13), ec2 (2)
 > **CLI Commands:** aws (13), find (1)
 > **Analogies:** for example (3), such as (2), think of it like (1), just like (1)
-> **Code Keywords:** static (1), lambda (1)
 > **Definitions:** is a  (1), in other words (1)
 
 #### Shared responsibility model
@@ -394,9 +394,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (19), [[Hardware]] (6), data (6), cloud (5), [[Security]] (4)
 > **Env Vars:** aws (19), cpu (1), ec2 (1), rds (1)
 > **CLI Commands:** aws (19)
-> **Code Keywords:** let (4), type. (2), type, (2), finally, (1), interface (1)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** known as (1), is an  (1)
 > **Prerequisites:** configure (1)
@@ -404,7 +404,7 @@ created: 2026-04-29
 
 ### 1. Keeping Things Secure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design a strategy for secure access
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980)
@@ -513,10 +513,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), aws (13), [[Security]] (4), cloud (3), next (2)
 > **Env Vars:** aws (13), vpc (2), ec2 (1), pii (1), https (1)
 > **CLI Commands:** aws (13)
 > **Analogies:** such as (7), for example (1)
-> **Code Keywords:** protected (1), let (1)
 > **Cross-References:** later in (1)
 > **Definitions:** refers to (1)
 > **Best Practices:** best practice (1)
@@ -718,9 +718,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (19), next (7), [[Security]] (6), [[Amazon EC2|Ec2]] (5), management (3)
 > **Env Vars:** iam (24), aws (19), ec2 (5), sns (2), arn (2)
 > **CLI Commands:** aws (19), find (3)
-> **Code Keywords:** let (5), switch (4), lambda (3), function (3), this. (3)
 > **UI Navigation:** go to (5), scroll down (4), select the (4), dropdown (2), switch to (1)
 > **Definitions:** is a  (5), known as (3), is an  (3), in other words (1)
 > **Analogies:** for example (2), similar to (1), imagine (1)
@@ -912,10 +912,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (31), management (11), [[Amazon EC2|Ec2]] (6), [[Security]] (3), [[Regulatory Compliance]] (1)
 > **Env Vars:** aws (31), scp (6), ec2 (6), ami (1)
 > **CLI Commands:** aws (31), find (4)
 > **UI Navigation:** select the (7), go to (5), scroll down (3), dropdown (2)
-> **Code Keywords:** let (9), default, (2), new. (1), this. (1)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Prerequisites:** configure (2)
@@ -1146,9 +1146,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (23), next (12), [[Security]] (8), data (2), management (2)
 > **Env Vars:** aws (23), iam (2), ebs (1), ec2 (1), rds (1)
 > **CLI Commands:** aws (23), find (4)
-> **Code Keywords:** let (5), public (4), default, (2), self (1), case, (1)
 > **Prerequisites:** configure (6), set up (4), required to (2), setup (1)
 > **Analogies:** for example (6), such as (2), imagine (1)
 > **Best Practices:** recommended (7), best practice (1)
@@ -1298,9 +1298,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (20), management (6), next (5), [[Active Directory]] (4), cloud (2)
 > **Env Vars:** aws (20), iam (4), url (3), saml (2), mfa (1)
 > **CLI Commands:** aws (20), find (4), make (1)
-> **Code Keywords:** let (7), default, (2), self (1), this. (1), private (1)
 > **UI Navigation:** go to (4), select the (3), dropdown (1)
 > **Prerequisites:** configure (5)
 > **Definitions:** is a  (2), known as (1)
@@ -1538,9 +1538,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (14), next (9), [[Security]] (6), cloud (3), data (3)
 > **Env Vars:** vpc (29), aws (14), vpn (3), nat (2), ec2 (1)
 > **CLI Commands:** aws (14), find (2)
-> **Code Keywords:** let (5), private (4), public (3), default, (1), function (1)
 > **UI Navigation:** select the (7), go to (4), dropdown (2), scroll down (2)
 > **Versions:** 10.0.0 (2), 10.0.1 (2), 10.0.2 (2)
 > **Definitions:** is a  (4), is an  (1), refers to (1)
@@ -1620,10 +1620,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (12), aws (11), data (5), [[Security]] (3), cloud (2)
 > **Env Vars:** vpn (12), aws (11), vpc (1)
 > **CLI Commands:** aws (11)
 > **Definitions:** is a  (6), is an  (2)
-> **Code Keywords:** private (4), public (2)
 > **Prerequisites:** configure (2)
 > **Analogies:** such as (1)
 
@@ -1712,10 +1712,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (22), [[Security]] (17), [[Amazon EC2|Ec2]] (3), aws (2)
 > **Env Vars:** acl (8), ec2 (3), aws (2), rds (1), vpc (1)
 > **CLI Commands:** aws (2), find (1), make (1)
 > **Analogies:** for example (3), think of it as (1)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** known as (1), is an  (1)
 
 #### Securing keys and credentials
@@ -1891,8 +1891,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (16), next (8), management (5), data (5), database (5)
 > **Env Vars:** aws (16), kms (11), iam (5), ebs (2), ec2 (1)
-> **Code Keywords:** let (5), delete (3), lambda (3), type. (2), function (2)
 > **CLI Commands:** aws (16), find (2), ssh (1)
 > **UI Navigation:** go to (6), scroll down (3), dropdown (1)
 > **Prerequisites:** configure (8), you'll need (1)
@@ -1997,8 +1997,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), management (4), data (4), dns (4), next (3)
 > **Env Vars:** aws (9), ssl (8), tls (7), acm (7), dns (4)
-> **Code Keywords:** private (9), let (4), public (4), this, (1)
 > **CLI Commands:** aws (9), find (2)
 > **URLs:** [example.com](https://example.com) (3), [example.net](https://example.net) (1)
 > **Cross-References:** in the last (1), we talked about (1), in the next (1)
@@ -2095,16 +2095,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), aws (5), [[Security]] (3), management (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** iam (7), aws (5), ssl (1), tls (1), cve (1)
 > **CLI Commands:** aws (5)
-> **Code Keywords:** let (1), require (1), public (1), private (1), finally, (1)
 > **Analogies:** such as (3), for example (2)
 > **Prerequisites:** configure (2), required to (1), set up (1)
 
 
 ### 2. Architecting for Resilience and High Availability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design for failure
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980)
@@ -2217,8 +2217,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), aws (5), next (5), application (4), [[E-Commerce]] (2)
 > **Env Vars:** rpo (6), rto (5), aws (5), rds (1), sqs (1)
-> **Code Keywords:** let (4), lambda (2), static (1), finally, (1)
 > **Definitions:** stands for (2), in other words (2), is a  (2), is an  (1)
 > **CLI Commands:** aws (5)
 > **Analogies:** for example (2), imagine (2), such as (1)
@@ -2285,11 +2285,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (6), application (5), [[Amazon EC2|Ec2]] (2), aws (2), next (1)
 > **Env Vars:** ec2 (2), http (2), aws (2), https (1), tcp (1)
 > **Best Practices:** recommended (5)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** aws (2), make (1)
-> **Code Keywords:** continue (1), this. (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** configure (1)
@@ -2441,8 +2441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (23), database (4), web application (3), aws (3), web (2)
 > **Env Vars:** aws (3), sqs (3), sns (3), rds (1)
-> **Code Keywords:** let (6), case, (1), this. (1), this, (1)
 > **Definitions:** is an  (2), is a  (2), refers to (1), is called (1)
 > **Analogies:** such as (3), imagine (1)
 > **CLI Commands:** aws (3)
@@ -2650,8 +2650,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (27), next (10), [[Amazon EC2|Ec2]] (9), web (6), aws (5)
 > **Env Vars:** ec2 (9), aws (5), url (3), iam (3), net (1)
-> **Code Keywords:** let (6), default. (2), this. (1), abstract (1), switch (1)
 > **UI Navigation:** scroll down (5), select the (4), go to (3), dropdown (2), switch to (1)
 > **CLI Commands:** aws (5), python (2), make (1), php (1), ruby (1)
 > **Prerequisites:** configure (8), required to (1)
@@ -2724,8 +2724,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), application (6), management (5), cloud (3), aws (2)
 > **Env Vars:** ec2 (13), ecs (9), aws (2), cpu (1), ess (1)
-> **Code Keywords:** type, (4), let (1), interface (1), type. (1)
 > **CLI Commands:** aws (2), make (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (3)
@@ -2838,11 +2838,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), cloud (9), aws (4), [[Amazon EC2|Ec2]] (3), [[Windows]] (3)
 > **Env Vars:** fsx (6), aws (4), ec2 (3), nfs (3), ebs (2)
 > **Definitions:** is an  (2), is a  (2), known as (2), refers to (1)
 > **Prerequisites:** configure (5), set up (2)
 > **CLI Commands:** aws (4), make (1)
-> **Code Keywords:** interface (2), lambda (1), continue (1)
 > **Analogies:** such as (2), for example (1), imagine (1)
 > **Versions:** 99.9 (1), version 2 (1)
 > **Code Identifiers:** iscsi (1)
@@ -2974,10 +2974,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (23), aws (10), [[Databases]] (7), feature (7), data (3)
 > **Env Vars:** rds (11), aws (10), cpu (1)
 > **CLI Commands:** aws (10), az (5), make (3)
 > **Definitions:** is a  (7), means that (3), known as (2)
-> **Code Keywords:** let (2), this, (1), switch (1), class. (1), continue (1)
 > **Analogies:** such as (1), for example (1), imagine (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** switch to (1)
@@ -3162,9 +3162,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (19), next (8), management (2), [[Databases]] (1), [[Amazon EC2]] (1)
 > **Env Vars:** aws (19), ebs (3), iam (3), ec2 (1), rds (1)
 > **CLI Commands:** aws (19), find (4)
-> **Code Keywords:** let (6), default, (1), continue (1), this, (1), protected (1)
 > **UI Navigation:** go to (4), select the (2), dropdown (1)
 > **Definitions:** is a  (5), in other words (1)
 > **Prerequisites:** configure (2), you'll need (2)
@@ -3174,7 +3174,7 @@ created: 2026-04-29
 
 ### 3. Automate Infrastructure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why should you automate?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980)
@@ -3233,10 +3233,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (10), aws (8), [[React.js|React]] (2), [[Amazon EC2|Ec2]] (2), management (2)
 > **Env Vars:** aws (8), ec2 (2), dns (2)
 > **CLI Commands:** aws (8)
 > **Analogies:** for example (6), such as (1)
-> **Code Keywords:** let (3), finally, (1)
 > **Prerequisites:** required to (1), configure (1)
 > **Definitions:** is a  (1)
 
@@ -3437,8 +3437,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (8), [[Amazon EC2|Ec2]] (7), [[WordPress]] (5), application (4), [[Security]] (4)
 > **Exercise Files:** template (31)
-> **Code Keywords:** let (12), delete (6), type, (2), default, (2), public (2)
 > **Env Vars:** ec2 (7), aws (3), dns (2), url (2), vpc (1)
 > **CLI Commands:** aws (3), mysql (2), find (2), git (1), ssh (1)
 > **Cross-References:** in the next (3), go back to (2)
@@ -3595,7 +3595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (21), function (15), let (9), type. (3), case, (1)
+> **Frameworks & Libraries:** data (6), aws (5), [[Python (Programming Language)|Python]] (2), [[Real-Time]] (2), api (2)
 > **CLI Commands:** aws (5), find (5), python (2), node (1), ruby (1)
 > **UI Navigation:** go to (4), select the (4), scroll down (2)
 > **Env Vars:** aws (5), api (2), net (1)
@@ -3803,7 +3803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), lambda (7), let (7), default, (2), this. (1)
+> **Frameworks & Libraries:** next (11), aws (8), [[Amazon EC2|Ec2]] (5), application (2), management (2)
 > **Env Vars:** aws (8), ec2 (5), sns (5), json (2), api (2)
 > **CLI Commands:** aws (8), find (3), make (1)
 > **UI Navigation:** go to (6), select the (2), scroll down (1)
@@ -3949,7 +3949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (5), function (3), let (2), this, (1), finally, (1)
+> **Frameworks & Libraries:** data (5), aws (5), parallel (5), [[Orchestration]] (4), next (2)
 > **CLI Commands:** aws (5), find (3), make (1)
 > **Env Vars:** aws (5), sns (4)
 > **Definitions:** is a  (3), is called (2), refers to (1)
@@ -4103,9 +4103,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (15), [[Automation]] (15), aws (13), application (4), node (4)
 > **CLI Commands:** aws (13), find (6), node (4), make (2)
 > **Env Vars:** aws (13), iam (3), api (3), ebs (1)
-> **Code Keywords:** let (7), public (2), this. (1)
 > **Definitions:** is a  (3), known as (2)
 > **Analogies:** for example (2), such as (2), imagine (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -4267,9 +4267,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), application (8), [[Amazon EC2]] (5), [[Amazon EC2|Ec2]] (5), next (4)
 > **Env Vars:** ec2 (10), aws (8), cpu (8), ecs (1)
 > **CLI Commands:** aws (8), find (5), make (1)
-> **Code Keywords:** let (4), this. (2), continue (2), case, (1), interface (1)
 > **Prerequisites:** configure (9)
 > **UI Navigation:** select the (3), go to (2), navigate to (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -4321,10 +4321,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), [[Automation]] (5), [[Security]] (3), feature (1), application (1)
 > **Env Vars:** aws (7), sqs (2), sns (2)
 > **CLI Commands:** aws (7), make (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** just like (1)
 > **Warnings:** be aware (1)
@@ -4333,7 +4333,7 @@ created: 2026-04-29
 
 ### 4. Improving Performance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing a strategy for improving performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980)
@@ -4416,10 +4416,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (3), cloud (2), traffic (2), management (1), [[Databases]] (1)
 > **Env Vars:** aws (3), rds (1), ec2 (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** aws (3)
-> **Code Keywords:** let (2), lambda (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** select the (1)
 
@@ -4544,9 +4544,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), traffic (5), [[Amazon EC2|Ec2]] (4), [[Dashboards]] (4), management (3)
 > **Env Vars:** aws (10), cpu (4), ec2 (4), vpc (1)
 > **CLI Commands:** aws (10), find (3)
-> **Code Keywords:** let (2), default, (1), type, (1), type. (1)
 > **Analogies:** for example (3), such as (2)
 > **UI Navigation:** go to (1), click on (1), select the (1), scroll down (1)
 > **Cross-References:** in the next (3)
@@ -4692,7 +4692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (7), lambda (4), require (2), interface (1)
+> **Frameworks & Libraries:** application (10), data (3), next (3), aws (2), management (2)
 > **Env Vars:** http (3), aws (2), api (2), json (1), post (1)
 > **CLI Commands:** aws (2), find (1), python (1), make (1)
 > **UI Navigation:** go to (1), navigate to (1), select the (1)
@@ -4858,8 +4858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (6), web (5), application (4), management (4), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** url (12), aws (6), http (2), ec2 (2), dns (2)
-> **Code Keywords:** let (9), public (3), static (2), this. (1), pass (1)
 > **CLI Commands:** aws (6), curl (2), php (1), find (1)
 > **UI Navigation:** go to (3), select the (1), click on (1)
 > **Analogies:** such as (2), imagine (1), similar to (1)
@@ -4934,11 +4934,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (5), aws (5), application (4), [[DAX]] (4)
 > **Env Vars:** aws (5), dax (4), ram (1)
 > **CLI Commands:** aws (5)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** require (1)
 > **Prerequisites:** configure (1)
 
 #### High-performance storage
@@ -5016,10 +5016,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), [[Amazon EC2|Ec2]] (2), data (2), [[Databases]] (1), [[Big Data]] (1)
 > **Env Vars:** iops (6), aws (4), ssd (4), efs (3), ebs (2)
 > **Definitions:** is a  (5), is an  (2)
 > **CLI Commands:** aws (4)
-> **Code Keywords:** let (1), require (1)
 > **Prerequisites:** set up (1)
 
 #### Hybrid Storage
@@ -5117,9 +5117,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (19), data (14), cloud (9), [[Hybrid Cloud]] (4), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** aws (19), smb (2), nfs (2), fsx (2), hdfs (1)
 > **CLI Commands:** aws (19), make (1)
-> **Code Keywords:** let (2), interface (1), class. (1), require (1)
 > **Analogies:** such as (3)
 > **Definitions:** is an  (1), known as (1)
 > **Code Identifiers:** iscsi (1)
@@ -5169,16 +5169,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[Databases]] (6), aws (5), data (4), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (5), ec2 (1), rds (1)
 > **CLI Commands:** aws (5)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
 
 ### 5. Optimize for Cost
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategies for optimizing costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980)
@@ -5271,9 +5271,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (8), data (6), cloud (2), traffic (2), [[Security]] (1)
 > **Env Vars:** aws (8), ec2 (1), vpc (1), iam (1)
 > **CLI Commands:** aws (8), find (1)
-> **Code Keywords:** let (2), case. (1), for, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 
@@ -5372,9 +5372,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (10), [[Amazon EC2|Ec2]] (6), web (2), cloud (1), [[Amazon EC2]] (1)
 > **Env Vars:** aws (10), ec2 (7), ecs (2)
 > **CLI Commands:** aws (10)
-> **Code Keywords:** lambda (4), type, (2), case. (1), continue (1), include; (1)
 > **Analogies:** such as (2), for example (1), imagine (1)
 > **Warnings:** caveat (1), warning (1)
 > **Prerequisites:** required to (1)
@@ -5450,8 +5450,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), cloud (1), aws (1), web application (1), [[Continuous Monitoring]] (1)
 > **Env Vars:** ebs (5), iops (5), efs (4), aws (1), fsx (1)
-> **Code Keywords:** let (2), delete (1)
 > **CLI Commands:** aws (1), find (1)
 > **Analogies:** such as (1)
 
@@ -5580,9 +5580,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (18), data (4), [[Cost Management]] (4), management (2), next (1)
 > **CLI Commands:** aws (18), find (3), make (1)
 > **Env Vars:** aws (18), csv (1), ec2 (1)
-> **Code Keywords:** let (4), type, (1)
 > **UI Navigation:** go to (1), navigate to (1), open the (1), scroll down (1)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -5591,7 +5591,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/additional-resources?u=76281980)
@@ -5612,9 +5612,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), cloud (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (5)
-> **Code Keywords:** type. (1)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/conclusion?u=76281980)
@@ -5635,6 +5635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), cloud (1), next (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (5)
 > **Definitions:** is a  (1)

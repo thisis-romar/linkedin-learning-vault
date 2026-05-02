@@ -36,7 +36,7 @@ tags:
   - skill/security-awareness
   - skill/cloud-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Cloud%20Security%20(2022).md)
@@ -55,25 +55,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Cloud security basics
-  - Defining cloud security terms
-  - Understanding the top five attacks in the cloud
-  - Protecting your privacy in the cloud
+  - [Cloud security basics](#cloud-security-basics)
+  - [Defining cloud security terms](#defining-cloud-security-terms)
+  - [Understanding the top five attacks in the cloud](#understanding-the-top-five-attacks-in-the-cloud)
+  - [Protecting your privacy in the cloud](#protecting-your-privacy-in-the-cloud)
 - [**1. Security at Work**](#1-security-at-work) (2 videos)
-  - Avoiding security misconfigurations
-  - Choosing a cloud provider
+  - [Avoiding security misconfigurations](#avoiding-security-misconfigurations)
+  - [Choosing a cloud provider](#choosing-a-cloud-provider)
 - [**2. Security in the Home**](#2-security-in-the-home) (2 videos)
-  - Securing your smart home (IoT) devices
-  - Protecting devices on your home network
+  - [Securing your smart home (IoT) devices](#securing-your-smart-home-iot-devices)
+  - [Protecting devices on your home network](#protecting-devices-on-your-home-network)
 - [**3. Security While Traveling**](#3-security-while-traveling) (2 videos)
-  - Understanding public Wi-Fi and hotspots
-  - Protecting your mobile devices
+  - [Understanding public Wi-Fi and hotspots](#understanding-public-wi-fi-and-hotspots)
+  - [Protecting your mobile devices](#protecting-your-mobile-devices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Bringing it all together
+  - [Bringing it all together](#bringing-it-all-together)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud security basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980)
@@ -98,7 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** cloud (9), [[Security]] (7), [[Cybersecurity]] (2), next (1), [[LinkedIn]] (1)
 > **Speakers:** - are (1)
 
 #### Defining cloud security terms
@@ -160,7 +160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), protected (1)
+> **Frameworks & Libraries:** cloud (13), [[Security]] (10), [[SaaS|Software as a service]] (3), data (2), [[Databases]] (1)
 > **Code Identifiers:** iphone (1), icloud (1)
 > **Definitions:** defined as (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
@@ -259,9 +259,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), cloud (7), [[Security]] (3), application (3), [[Cybersecurity]] (2)
 > **CLI Commands:** make (7), find (1)
 > **Prerequisites:** make sure you have (2), install (2)
-> **Code Keywords:** public (1), finally, (1), for. (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
@@ -360,19 +360,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), cloud (8), [[Privacy]] (5), [[Security]] (3), application (1)
 > **CLI Commands:** make (10)
 > **URLs:** [box.com](https://box.com) (4), [twitter.com](https://twitter.com) (2)
 > **Definitions:** is an  (2), is a  (1), is called (1), known as (1)
 > **Prerequisites:** set up (3), configure (1), make sure you have (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
-> **Code Keywords:** protected (2), let (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** mfa (2)
 
 
 ### 1. Security at Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding security misconfigurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980)
@@ -459,8 +459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), data (9), cloud (8), [[LinkedIn]] (4), [[NIST]] (2)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (3), this, (2), from. (1)
 > **Env Vars:** nist (2)
 > **Definitions:** is an  (1), is called (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
@@ -543,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), from. (1), let (1), case, (1)
+> **Frameworks & Libraries:** cloud (24), data (3), [[Security]] (3), application (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), such as (1)
 > **Warnings:** keep in mind (2)
@@ -554,7 +554,7 @@ created: 2026-04-29
 
 ### 2. Security in the Home
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your smart home (IoT) devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980)
@@ -647,7 +647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), super (1), protected (1), continue (1)
+> **Frameworks & Libraries:** [[IoT]] (13), [[Security]] (4), [[Google]] (2), next (2), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), set up (1)
@@ -731,9 +731,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (2), [[IoT]] (1), web (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** similar to (1), such as (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** iot (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -742,7 +742,7 @@ created: 2026-04-29
 
 ### 3. Security While Traveling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding public Wi-Fi and hotspots
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980)
@@ -843,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), private (2), protected (2), case, (1), finally, (1)
+> **Frameworks & Libraries:** web (4), vpn (2), [[Google]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Search]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** vpn (2), https (1), url (1)
 > **Definitions:** is a  (2), in other words (1), stands for (1)
@@ -915,17 +915,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), web (2), [[Google]] (2), [[Statistics]] (1), [[Forms]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - if (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bringing it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980)
@@ -950,7 +950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** cloud (6), [[Security]] (1), [[Privacy]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we discussed (1), we covered (1)
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)

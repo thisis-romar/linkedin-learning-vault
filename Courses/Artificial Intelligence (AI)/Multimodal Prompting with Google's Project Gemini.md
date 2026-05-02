@@ -38,7 +38,7 @@ tags:
   - skill/google-gemini
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Multimodal%20Prompting%20with%20Google's%20Project%20Gemini.md)
@@ -57,17 +57,17 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Why Project Gemini is important
+  - [Why Project Gemini is important](#why-project-gemini-is-important)
 - [**1. Advanced Data Analysis**](#1-advanced-data-analysis) (5 videos)
-  - What is multimodal prompting?
-  - Exploring Gemini's roadmap
-  - Testing Google Gemini in Google Bard
-  - The multimodal model in action
-  - Building applications with Gemini
+  - [What is multimodal prompting?](#what-is-multimodal-prompting)
+  - [Exploring Gemini's roadmap](#exploring-geminis-roadmap)
+  - [Testing Google Gemini in Google Bard](#testing-google-gemini-in-google-bard)
+  - [The multimodal model in action](#the-multimodal-model-in-action)
+  - [Building applications with Gemini](#building-applications-with-gemini)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Project Gemini is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980)
@@ -88,14 +88,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Gemini]] (2), ai (2), data (2), [[Android]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - gemini (1)
 
 
 ### 1. Advanced Data Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is multimodal prompting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980)
@@ -136,8 +136,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (2), ai (1), [[Large Language Models (LLM)|Large language models]] (1), data (1), next (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this. (1), let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - the (1)
 
@@ -196,8 +196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (6), ai (3), [[Google]] (3), data (2), power (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Versions:** 1.8 (1)
 > **Analogies:** picture (1)
 > **Speakers:** - gemini (1)
@@ -291,7 +291,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (2)
+> **Frameworks & Libraries:** [[Google]] (9), [[Gemini]] (4), prompt (3), chatbot (2), hit (2)
 > **URLs:** [google.com](https://google.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - gemini (1)
@@ -391,7 +391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (2), try. (2), continue (1)
+> **Frameworks & Libraries:** ai (8), hit (8), [[Google]] (7), [[Gemini]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (4)
 > **CLI Commands:** find (4), make (3)
 > **Definitions:** is a  (3), is called (1), known as (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -500,7 +500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2), pass (2), new. (1), this, (1)
+> **Frameworks & Libraries:** application (7), hit (5), [[Gemini]] (5), api (5), [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (2)
 > **Env Vars:** api (5)
 > **Exercise Files:** sample code (2)

@@ -24,7 +24,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20AI-%20NLP%20Techniques%20for%20Clinical%20Datasets.md)
@@ -43,31 +43,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Use NLP techniques for your data
-  - What you should know
-  - How to use the exercise files
+  - [Use NLP techniques for your data](#use-nlp-techniques-for-your-data)
+  - [What you should know](#what-you-should-know)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Clinical Named Entity Recognition (CNER)**](#1-clinical-named-entity-recognition-cner) (2 videos)
-  - What is clinical named entity recognition (CNER)?
-  - Clinical named entity recognition using scispaCy
+  - [What is clinical named entity recognition (CNER)?](#what-is-clinical-named-entity-recognition-cner)
+  - [Clinical named entity recognition using scispaCy](#clinical-named-entity-recognition-using-scispacy)
 - [**2. Clinical Entity Resolution**](#2-clinical-entity-resolution) (3 videos)
-  - What is clinical entity resolution?
-  - Medical abbreviation resolution with scispaCy
-  - Entity linkage and resolution with a biomedical knowledge base
+  - [What is clinical entity resolution?](#what-is-clinical-entity-resolution)
+  - [Medical abbreviation resolution with scispaCy](#medical-abbreviation-resolution-with-scispacy)
+  - [Entity linkage and resolution with a biomedical knowledge base](#entity-linkage-and-resolution-with-a-biomedical-knowledge-base)
 - [**3. Clinical Text Representation**](#3-clinical-text-representation) (3 videos)
-  - What is clinical text representation?
-  - Clinical text representation using fastText
-  - Clinical text representation using Universal Sentence Encoder (USE)
+  - [What is clinical text representation?](#what-is-clinical-text-representation)
+  - [Clinical text representation using fastText](#clinical-text-representation-using-fasttext)
+  - [Clinical text representation using Universal Sentence Encoder (USE)](#clinical-text-representation-using-universal-sentence-encoder-use)
 - [**4. Transformers for Clinical Text**](#4-transformers-for-clinical-text) (4 videos)
-  - What are transformers?
-  - Clinical diagnosis prediction using transformers
-  - Clinical named entity recognition using transformers
-  - Clinical word prediction using transformers
+  - [What are transformers?](#what-are-transformers)
+  - [Clinical diagnosis prediction using transformers](#clinical-diagnosis-prediction-using-transformers)
+  - [Clinical named entity recognition using transformers](#clinical-named-entity-recognition-using-transformers)
+  - [Clinical word prediction using transformers](#clinical-word-prediction-using-transformers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use NLP techniques for your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980)
@@ -86,6 +86,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), application (1), ai (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), career (1)
 > **Speakers:** - [wuraola] (1)
 
 #### What you should know
@@ -97,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -127,8 +129,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (4)
-> **Code Keywords:** let (3)
 > **CLI Commands:** python (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Env Vars:** gpu (1)
@@ -139,7 +141,7 @@ created: 2026-04-29
 
 ### 1. Clinical Named Entity Recognition (CNER)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is clinical named entity recognition (CNER)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980)
@@ -204,7 +206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), case, (1), for. (1), for, (1)
+> **Frameworks & Libraries:** data (6), [[Natural Language Processing (NLP)|Natural language processing]] (2), application (1), [[Probability]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** scispacy (1), spacy (1), ctakes (1)
 > **Env Vars:** cner (2), nlp (1)
 > **Analogies:** such as (2), for example (1)
@@ -278,7 +280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), type, (1), finally, (1)
+> **Frameworks & Libraries:** data (4), next (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (2), find (2)
 > **Code Identifiers:** scispacy (2), ner_jnlpba (1), bionlp_ner (1)
 > **Analogies:** such as (3)
@@ -290,7 +292,7 @@ created: 2026-04-29
 
 ### 2. Clinical Entity Resolution
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is clinical entity resolution?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980)
@@ -337,10 +339,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (2), data (2), [[Mesh]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
 > **Analogies:** such as (2), for example (1), think of it as (1)
 > **Env Vars:** umls (1), hpo (1), nlp (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** function (1), interface (1)
 > **Code Identifiers:** scispacy (1)
 > **Speakers:** - [instructor] (1)
 
@@ -389,9 +391,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2), data (1)
 > **Env Vars:** bionlpdcg (2), ner (2), bc5cdr (1), t2dm (1), cvd (1)
 > **Code Identifiers:** scispacy (4)
-> **Code Keywords:** function (3)
 > **CLI Commands:** python (2)
 > **Definitions:** is an  (2)
 > **Prerequisites:** install (1)
@@ -466,9 +468,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Mesh]] (4), database (2), next (1), data (1), [[Real-Time]] (1)
 > **Code Identifiers:** entities_dataframe (4), scispacy (2), mesh_entity_linker (2), mesh_nlp (1), resolve_abbreviations (1)
 > **Env Vars:** hpo (2), umls (2), cui (1), ram (1)
-> **Code Keywords:** let (2), function (1), case, (1), case. (1)
 > **Versions:** 0.999 (1), 0.826 (1), 0.74 (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
@@ -478,7 +480,7 @@ created: 2026-04-29
 
 ### 3. Clinical Text Representation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is clinical text representation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980)
@@ -521,6 +523,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (2), [[Algorithms]] (1), feature (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - clinical (1)
 
@@ -631,6 +634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sti (7)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** python (2), wget (1), find (1)
@@ -638,7 +642,6 @@ created: 2026-04-29
 > **Versions:** 0.51 (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** such as (1)
-> **Prerequisites:** install (1)
 
 #### Clinical text representation using Universal Sentence Encoder (USE)
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-universal-sentence-encoder-use?u=76281980)
@@ -679,10 +682,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[spaCy]] (2), next (1)
 > **Code Identifiers:** spacy (2), vector_shape (2), spacy_universal_sentence_encoder (1)
 > **Versions:** 0.228 (1), 0.474 (1), 0.575 (1), 0.176 (1), 0.002 (1)
 > **CLI Commands:** pip (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** usc (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** picture (1)
@@ -691,7 +694,7 @@ created: 2026-04-29
 
 ### 4. Transformers for Clinical Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are transformers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980)
@@ -726,6 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), [[Neural Networks]] (1), [[Transformer Models]] (1), [[Hugging Face]] (1)
 > **Analogies:** such as (6)
 > **Env Vars:** bert (2), gpt (1), bart (1)
 > **CLI Commands:** make (1)
@@ -776,6 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Transformer Models]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** cad (1)
@@ -816,6 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (3), [[Pandas (Software)|Pandas]] (2), [[Transformer Models]] (1), power (1)
 > **Env Vars:** ner (3), bes (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
@@ -865,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), nlp (1)
 > **Env Vars:** nlp (1), mask (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
@@ -875,7 +881,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980)
@@ -894,6 +900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), next (1), [[LinkedIn]] (1)
 > **Speakers:** - [wuraola] (1)
 
 

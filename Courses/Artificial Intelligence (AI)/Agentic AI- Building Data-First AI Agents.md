@@ -29,7 +29,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Agentic%20AI-%20Building%20Data-First%20AI%20Agents.md)
@@ -48,24 +48,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Data-first AI agents
+  - [Data-first AI agents](#data-first-ai-agents)
 - [**1. Data-First AI Agents**](#1-data-first-ai-agents) (10 videos)
-  - The importance of data in AI agents
-  - Dealing with data puddles
-  - Bringing structure to agentive AI data
-  - Mitigating risks when building agentive AI
-  - Agentive AI and data governance
-  - Responsible AI and data
-  - When to build agentive AI systems
-  - How to build trust in AI agents
-  - The data lifecycle of agentive AI
-  - Using AI as a data opportunity
+  - [The importance of data in AI agents](#the-importance-of-data-in-ai-agents)
+  - [Dealing with data puddles](#dealing-with-data-puddles)
+  - [Bringing structure to agentive AI data](#bringing-structure-to-agentive-ai-data)
+  - [Mitigating risks when building agentive AI](#mitigating-risks-when-building-agentive-ai)
+  - [Agentive AI and data governance](#agentive-ai-and-data-governance)
+  - [Responsible AI and data](#responsible-ai-and-data)
+  - [When to build agentive AI systems](#when-to-build-agentive-ai-systems)
+  - [How to build trust in AI agents](#how-to-build-trust-in-ai-agents)
+  - [The data lifecycle of agentive AI](#the-data-lifecycle-of-agentive-ai)
+  - [Using AI as a data opportunity](#using-ai-as-a-data-opportunity)
 - [**2. Conclusion**](#2-conclusion) (1 videos)
-  - Agentive AI as an opportunity space
+  - [Agentive AI as an opportunity space](#agentive-ai-as-an-opportunity-space)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data-first AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/data-first-ai-agents?u=76281980)
@@ -82,12 +82,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), ai (2), functional (1), [[Microsoft]] (1)
 > **Speakers:** - how (1)
 
 
 ### 1. Data-First AI Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of data in AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/the-importance-of-data-in-ai-agents?u=76281980)
@@ -172,8 +173,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), ai (6), business (1), [[Engineering]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** this. (1), finally, (1)
 > **Speakers:** - whenever (1), - in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -285,7 +286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (2), continue (2), from, (1), super (1), let (1)
+> **Frameworks & Libraries:** data (31), ai (8), business (5), [[Microsoft Excel|Excel]] (4), database (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** crm (1), sql (1)
 > **Definitions:** is a  (2)
@@ -348,7 +349,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), else. (1)
+> **Frameworks & Libraries:** data (20), ai (8), [[Large Language Models (LLM)|Large language models]] (1), application (1), feature (1)
 > **Analogies:** picture (2)
 > **Speakers:** - how (1), - if (1)
 > **CLI Commands:** make (1)
@@ -407,8 +408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), ai (12), prompt (4), [[User Experience (UX)|User experience]] (3), application (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (2)
 > **Speakers:** - when (2)
 > **Prerequisites:** you need to have (1)
 
@@ -485,9 +486,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), ai (11), [[Security]] (5), application (1)
 > **Env Vars:** cfo (1), ciso (1), cio (1)
 > **Speakers:** - the (1), - i (1)
-> **Code Keywords:** delete (1)
 > **UI Navigation:** go to (1)
 
 #### Responsible AI and data
@@ -571,8 +572,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (7), application (4), next (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** continue (2), this. (1), for. (1), self (1)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - a (1), - the (1)
 > **Definitions:** is a  (1)
@@ -668,8 +669,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), business (5), data (2), [[Design Thinking]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** roi (4), cio (1), coo (1)
-> **Code Keywords:** this, (3), return, (1), new, (1)
 > **Speakers:** - organizations (1), - a (1)
 > **Warnings:** keep in mind (1)
 
@@ -786,10 +787,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), ai (7), business (3), [[User Experience (UX)|User experience]] (1), traffic (1)
 > **CLI Commands:** make (7)
 > **Prerequisites:** make sure you have (3)
 > **Speakers:** - so (1), - i (1)
-> **Code Keywords:** this, (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 
@@ -892,8 +893,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (29), ai (5), [[Real-Time]] (4), [[Analytics]] (2), [[Unstructured Data]] (2)
 > **CLI Commands:** make (11)
-> **Code Keywords:** super (3), let (1), this, (1)
 > **Speakers:** - so (1), - get (1), - yes (1)
 > **Env Vars:** pdf (1)
 > **Tools:** terminal (1)
@@ -963,6 +964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (9), application (3), [[Security]] (3), [[Responsible AI]] (2)
 > **Env Vars:** agi (1), sql (1), mvp (1)
 > **Speakers:** - whenever (1), - i (1)
 > **Definitions:** is a  (1)
@@ -972,7 +974,7 @@ created: 2026-04-29
 
 ### 2. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Agentive AI as an opportunity space
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/agentive-ai-as-an-opportunity-space?u=76281980)
@@ -1025,7 +1027,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** ai (10), data (7), business (1), [[Decision-Making]] (1), [[ChatGPT]] (1)
 > **Speakers:** - what (1)
 
 

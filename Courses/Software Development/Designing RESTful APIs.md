@@ -22,7 +22,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Designing%20RESTful%20APIs.md)
@@ -41,38 +41,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Design a RESTful API for your organization
-  - Before you build an API
+  - [Design a RESTful API for your organization](#design-a-restful-api-for-your-organization)
+  - [Before you build an API](#before-you-build-an-api)
 - [**1. Who Needs Your API?**](#1-who-needs-your-api) (6 videos)
-  - Why good API design is important
-  - Approaches to adding an API
-  - Tips for modeling APIs
-  - Identifying participants
-  - Identifying activities and breaking them into steps
-  - Case study: Identifying participants and activities
+  - [Why good API design is important](#why-good-api-design-is-important)
+  - [Approaches to adding an API](#approaches-to-adding-an-api)
+  - [Tips for modeling APIs](#tips-for-modeling-apis)
+  - [Identifying participants](#identifying-participants)
+  - [Identifying activities and breaking them into steps](#identifying-activities-and-breaking-them-into-steps)
+  - [Case study: Identifying participants and activities](#case-study-identifying-participants-and-activities)
 - [**2. What Does Your API Look Like?**](#2-what-does-your-api-look-like) (3 videos)
-  - Creating and grouping API methods
-  - Mapping activities to verbs and actions
-  - Validating your API
+  - [Creating and grouping API methods](#creating-and-grouping-api-methods)
+  - [Mapping activities to verbs and actions](#mapping-activities-to-verbs-and-actions)
+  - [Validating your API](#validating-your-api)
 - [**3. How Does Your API Work?**](#3-how-does-your-api-work) (4 videos)
-  - REST and HTML
-  - HTTP header and response codes
-  - REST APIs: Constraints
-  - REST APIs: Code on demand and uniform interfaces
+  - [REST and HTML](#rest-and-html)
+  - [HTTP header and response codes](#http-header-and-response-codes)
+  - [REST APIs: Constraints](#rest-apis-constraints)
+  - [REST APIs: Code on demand and uniform interfaces](#rest-apis-code-on-demand-and-uniform-interfaces)
 - [**4. Common Design Challenges**](#4-common-design-challenges) (7 videos)
-  - Authentication and authorization
-  - API versioning best practices
-  - Choosing media types and processing content
-  - Hypermedia approaches
-  - Advanced HTTP headers: Content negotiation and caching
-  - Documentation approaches
-  - SDK design considerations
+  - [Authentication and authorization](#authentication-and-authorization)
+  - [API versioning best practices](#api-versioning-best-practices)
+  - [Choosing media types and processing content](#choosing-media-types-and-processing-content)
+  - [Hypermedia approaches](#hypermedia-approaches)
+  - [Advanced HTTP headers: Content negotiation and caching](#advanced-http-headers-content-negotiation-and-caching)
+  - [Documentation approaches](#documentation-approaches)
+  - [SDK design considerations](#sdk-design-considerations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps toward designing a RESTful API
+  - [Next steps toward designing a RESTful API](#next-steps-toward-designing-a-restful-api)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design a RESTful API for your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980)
@@ -101,8 +101,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[Representational State Transfer (REST)|Rest]] (2), business (2), application (1), [[Design Patterns]] (1)
 > **Env Vars:** api (4), http (2), rest (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [keith] (1)
 
@@ -143,9 +143,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), data (1), api (1)
 > **Env Vars:** http (3), api (1)
 > **Tools:** firefox (1), postman (1), command line (1)
-> **Code Keywords:** this. (1), finally, (1)
 > **CLI Commands:** curl (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** install (1)
@@ -154,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Who Needs Your API?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why good API design is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980)
@@ -231,8 +231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), [[Design Patterns]] (1), [[Representational State Transfer (REST)|Rest]] (1), game (1)
 > **Env Vars:** api (12)
-> **Code Keywords:** let (4), finally, (2), require (1), switch (1), case, (1)
 > **Definitions:** is an  (3), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -301,8 +301,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), business (3), application (2), next (2), functional (1)
 > **Env Vars:** api (5), rest (1)
-> **Code Keywords:** finally, (1), case, (1), let (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
@@ -367,6 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), next (1), application (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** api (3)
 > **Cross-References:** earlier in (1)
@@ -455,7 +456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (1), case, (1)
+> **Frameworks & Libraries:** api (6), business (4), next (2), [[IoT]] (1), management (1)
 > **Env Vars:** api (6), iot (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Warnings:** be careful (1)
@@ -514,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), abstract (1), let (1), continue (1)
+> **Frameworks & Libraries:** business (1), next (1)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -605,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), finally, (2), case. (2)
+> **Frameworks & Libraries:** product (4), [[Customer Support]] (3), next (1), [[E-Commerce]] (1), teams (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - now (1)
@@ -613,7 +614,7 @@ created: 2026-04-29
 
 ### 2. What Does Your API Look Like?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and grouping API methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/creating-and-grouping-api-methods-14392975?u=76281980)
@@ -706,7 +707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2)
+> **Frameworks & Libraries:** api (3), next (2), product (1)
 > **Env Vars:** api (3), crud (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1), as we saw (1)
@@ -929,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (6), finally, (6), else. (2), case, (1)
+> **Frameworks & Libraries:** next (5), database (4), api (3), data (2), product (2)
 > **Env Vars:** post (8), http (3), put (3), api (3), delete (2)
 > **API Endpoints:** post  (3), post
  (3), put  (2), get  (1), delete  (1)
@@ -1052,9 +1053,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (15), teams (5), node (1), [[PHP]] (1), [[Google]] (1)
 > **Env Vars:** api (15), http (2), php (1), url (1)
 > **CLI Commands:** make (6), find (2), node (1), php (1), curl (1)
-> **Code Keywords:** let (3), static (1), case, (1), public (1)
 > **Documentation:** the documentation (3)
 > **Best Practices:** make sure to (2)
 > **File Paths:** hapi.js (1)
@@ -1064,7 +1065,7 @@ created: 2026-04-29
 
 ### 3. How Does Your API Work?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### REST and HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980)
@@ -1155,6 +1156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[JSON]] (4), api (2), [[HTML]] (2), web (1)
 > **Env Vars:** http (7), rest (5), xml (4), json (4), api (2)
 > **Definitions:** is a  (6)
 > **Documentation:** specification (1)
@@ -1325,8 +1327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), [[GitHub]] (7), next (4), hit (1), web (1)
 > **Env Vars:** api (13), http (5), url (4), html (1), json (1)
-> **Code Keywords:** case, (4), finally, (3), type. (3), delete (2), default, (1)
 > **Tools:** github (7), firefox (1), command line (1)
 > **CLI Commands:** curl (2), find (1)
 > **Definitions:** is a  (1)
@@ -1424,8 +1426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), web (3), [[Representational State Transfer (REST)|Rest]] (2), application (2), database (2)
 > **Env Vars:** api (6), rest (2), dns (1)
-> **Code Keywords:** continue (1), case, (1), switch (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1), for example (1)
@@ -1548,8 +1550,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), application (4), [[JavaScript]] (4), [[GitHub]] (3), web (2)
 > **Env Vars:** api (10), url (5), hateoas (2), rest (1)
-> **Code Keywords:** let (2), interface (1), self (1)
 > **URLs:** [amazon.com](https://amazon.com) (2), [github.com](https://github.com) (1)
 > **Tools:** github (3)
 > **UI Navigation:** go to (3)
@@ -1560,7 +1562,7 @@ created: 2026-04-29
 
 ### 4. Common Design Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication and authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980)
@@ -1665,8 +1667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Design Patterns]] (1), [[Banking]] (1)
 > **Env Vars:** api (5), url (2), rest (1)
-> **Code Keywords:** let (2), continue (1), require (1), finally, (1), this, (1)
 > **CLI Commands:** curl (1), make (1), find (1)
 > **Versions:** 2.0 (2)
 > **Definitions:** known as (1), is a  (1)
@@ -1759,8 +1761,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), data (6), [[JSON]] (4), next (2), [[Twilio]] (2)
 > **Env Vars:** api (9), url (9), json (4), xml (1)
-> **Code Keywords:** else. (1), let (1), type. (1), for, (1), pass (1)
 > **Definitions:** means that (2), is called (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -1865,8 +1867,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[JSON]] (5), api (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
 > **Env Vars:** json (5), hal (4), api (1)
-> **Code Keywords:** let (2), type. (2), else. (1), self (1), finally, (1)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1948,10 +1950,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), [[GitHub]] (3), next (2), game (1), web (1)
 > **Env Vars:** api (8), url (4)
 > **Tools:** github (3), postman (1), command line (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), interface (1), self (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1), for example (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -2032,7 +2034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), this, (1)
+> **Frameworks & Libraries:** api (3), data (3), application (1), web (1), next (1)
 > **Env Vars:** api (3), http (2)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we talked about (1), earlier in (1)
@@ -2153,8 +2155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), next (3), [[Version Control]] (3), [[Google]] (2), [[Confluence]] (2)
 > **Env Vars:** api (6), pdf (2), cms (1), ide (1), html (1)
-> **Code Keywords:** let (6), private (2), static (2), protected (1), finally, (1)
 > **CLI Commands:** git (2), make (1), ruby (1), php (1), find (1)
 > **Definitions:** is a  (1), is an  (1), is called (1), means that (1)
 > **Tools:** confluence (2), vim (1)
@@ -2239,16 +2241,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[JSON]] (2), next (2), open-source (2), [[PHP]] (2)
 > **Env Vars:** sdk (11), api (4), http (2), json (2), php (2)
 > **CLI Commands:** make (4), php (2)
-> **Code Keywords:** this. (1), interface (1), pass (1), finally, (1), let (1)
 > **Definitions:** stands for (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps toward designing a RESTful API
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/next-steps-toward-designing-a-restful-api?u=76281980)
@@ -2285,8 +2287,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), next (3), [[JSON]] (1), business (1)
 > **Env Vars:** api (7), json (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** theapidesignbook (1)
 > **URLs:** [theapidesignbook.com](https://theapidesignbook.com) (1)
 > **Cross-References:** we talked about (1)

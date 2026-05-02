@@ -40,7 +40,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LLM%20Foundations-%20Vector%20Databases%20for%20Caching%20and%20Retrieval%20Augmented%20Generation%20(RAG).md)
@@ -59,60 +59,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - GenAI with vector databases
-  - Course coverage and prerequisites
+  - [GenAI with vector databases](#genai-with-vector-databases)
+  - [Course coverage and prerequisites](#course-coverage-and-prerequisites)
 - [**1. Introduction to Vector Databases**](#1-introduction-to-vector-databases) (5 videos)
-  - What is a vector?
-  - Vectorization in NLP
-  - Vector similarity search
-  - Vector databases
-  - Pros and cons of vector databases
+  - [What is a vector?](#what-is-a-vector)
+  - [Vectorization in NLP](#vectorization-in-nlp)
+  - [Vector similarity search](#vector-similarity-search)
+  - [Vector databases](#vector-databases)
+  - [Pros and cons of vector databases](#pros-and-cons-of-vector-databases)
 - [**2. Milvus Database Concepts**](#2-milvus-database-concepts) (8 videos)
-  - Introduction to Milvus DB
-  - Milvus architecture
-  - Collections in Milvus
-  - Partitions in Milvus
-  - Indexes in Milvus
-  - Managing data in Milvus
-  - Query and search in Milvus
-  - Set up Milvus and exercise files
+  - [Introduction to Milvus DB](#introduction-to-milvus-db)
+  - [Milvus architecture](#milvus-architecture)
+  - [Collections in Milvus](#collections-in-milvus)
+  - [Partitions in Milvus](#partitions-in-milvus)
+  - [Indexes in Milvus](#indexes-in-milvus)
+  - [Managing data in Milvus](#managing-data-in-milvus)
+  - [Query and search in Milvus](#query-and-search-in-milvus)
+  - [Set up Milvus and exercise files](#set-up-milvus-and-exercise-files)
 - [**3. Milvus Database Operations**](#3-milvus-database-operations) (8 videos)
-  - Create a connection
-  - Create databases and users
-  - Create collections
-  - Insert data into Milvus
-  - Build an index
-  - Query scalar data
-  - Search vector fields
-  - Delete objects and entities
+  - [Create a connection](#create-a-connection)
+  - [Create databases and users](#create-databases-and-users)
+  - [Create collections](#create-collections)
+  - [Insert data into Milvus](#insert-data-into-milvus)
+  - [Build an index](#build-an-index)
+  - [Query scalar data](#query-scalar-data)
+  - [Search vector fields](#search-vector-fields)
+  - [Delete objects and entities](#delete-objects-and-entities)
 - [**4. Vector DB for LLM Query Caching**](#4-vector-db-for-llm-query-caching) (5 videos)
-  - LLMs and caching
-  - Prompt caching workflow
-  - Set up the Milvus cache
-  - Inference process and caching
-  - Cache management
+  - [LLMs and caching](#llms-and-caching)
+  - [Prompt caching workflow](#prompt-caching-workflow)
+  - [Set up the Milvus cache](#set-up-the-milvus-cache)
+  - [Inference process and caching](#inference-process-and-caching)
+  - [Cache management](#cache-management)
 - [**5. Introduction to Retrieval Augmented Generation (RAG)**](#5-introduction-to-retrieval-augmented-generation-rag) (5 videos)
-  - LLMs as a knowledge source
-  - Introduction to retrieval augmented generation
-  - RAG: Knowledge curation process
-  - RAG question-answering process
-  - Applications of RAG
+  - [LLMs as a knowledge source](#llms-as-a-knowledge-source)
+  - [Introduction to retrieval augmented generation](#introduction-to-retrieval-augmented-generation)
+  - [RAG: Knowledge curation process](#rag-knowledge-curation-process)
+  - [RAG question-answering process](#rag-question-answering-process)
+  - [Applications of RAG](#applications-of-rag)
 - [**6. Implementing RAG with Milvus**](#6-implementing-rag-with-milvus) (4 videos)
-  - Set up Milvus for RAG
-  - Prepare data for the knowledge base
-  - Populate the Milvus database
-  - Answer questions with RAG
+  - [Set up Milvus for RAG](#set-up-milvus-for-rag)
+  - [Prepare data for the knowledge base](#prepare-data-for-the-knowledge-base)
+  - [Populate the Milvus database](#populate-the-milvus-database)
+  - [Answer questions with RAG](#answer-questions-with-rag)
 - [**7. Vector Databases Best Practices**](#7-vector-databases-best-practices) (4 videos)
-  - Choose a vector database
-  - Combine vector and scalar data
-  - Distance measure considerations
-  - Tune vector DB performance
+  - [Choose a vector database](#choose-a-vector-database)
+  - [Combine vector and scalar data](#combine-vector-and-scalar-data)
+  - [Distance measure considerations](#distance-measure-considerations)
+  - [Tune vector DB performance](#tune-vector-db-performance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue with LLMs
+  - [Continue with LLMs](#continue-with-llms)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI with vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980)
@@ -141,7 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), database (2), [[Large Language Models (LLM)|Large language models]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (1)
 
 #### Course coverage and prerequisites
@@ -195,9 +195,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vector Databases]] (3), [[Python (Programming Language)|Python]] (3), database (2), [[LangChain]] (2), [[Search]] (1)
 > **CLI Commands:** python (3), docker (2)
 > **Prerequisites:** prerequisite (3), set up (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** llm (1), rag (1)
 > **Tools:** jupyter (1)
 > **Best Practices:** recommended (1)
@@ -205,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Vector Databases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a vector?
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/what-is-a-vector?u=76281980)
@@ -246,8 +246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Programming]] (2), [[Vector Databases]] (1)
 > **Definitions:** is a  (2), defined as (1), refers to (1)
-> **Code Keywords:** let (2), type. (1)
 > **Analogies:** similar to (2), for example (1)
 > **Prerequisites:** before we start (1)
 
@@ -304,8 +304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), nlp (3), [[Microsoft Word|Word]] (3), [[Tokens]] (3), [[Algorithms]] (2)
 > **Env Vars:** nlp (3), idf (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 #### Vector similarity search
@@ -365,8 +365,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), [[Vector Databases]] (2), data (2), feature (1), product (1)
 > **CLI Commands:** find (6)
-> **Code Keywords:** let (2), finally, (1)
 > **Definitions:** is a  (2)
 
 #### Vector databases
@@ -420,8 +420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), data (5), [[Vector Databases]] (4), [[Databases]] (3), [[Relational Databases]] (1)
 > **Definitions:** is a  (4), is an  (2)
-> **Code Keywords:** delete (1)
 > **Env Vars:** rdbms (1)
 
 #### Pros and cons of vector databases
@@ -473,13 +473,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** data (5), [[Vector Databases]] (4), [[Microsoft Products|Products]] (2), [[Semantic Search]] (1), [[Algorithms]] (1)
 > **Env Vars:** rdbms (1)
 
 
 ### 2. Milvus Database Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Milvus DB
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980)
@@ -528,10 +528,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), [[Vector Databases]] (2), cloud (2), [[Search]] (2), data (2)
 > **Prerequisites:** set up (2), install (1)
 > **CLI Commands:** python (1), node (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -589,9 +589,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Metadata]] (4), node (4), api (2), [[Databases]] (1)
 > **Env Vars:** sdk (3), api (2), ddl (1), dml (1)
 > **CLI Commands:** node (4)
-> **Code Keywords:** default, (2)
 > **Code Identifiers:** grpc (1)
 > **Ports:** port 19530 (1)
 > **Definitions:** is a  (1)
@@ -679,10 +679,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (12), [[Databases]] (7), data (6), [[JSON]] (1)
 > **Analogies:** similar to (3)
 > **Env Vars:** varchar (1), json (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** default. (1)
 > **SQL:** varchar (1)
 > **Definitions:** is called (1)
 
@@ -717,6 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8)
 > **Definitions:** is a  (1)
 
 #### Indexes in Milvus
@@ -768,9 +769,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (3), database (1), product (1), data (1)
 > **Env Vars:** ann (2), rdbms (1), flat (1), ivf_flat (1), gpu_ivf_flat (1)
 > **Prerequisites:** set up (1), prerequisite (1)
-> **Code Keywords:** case. (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
@@ -807,7 +808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** data (9), database (1), next (1), management (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 
@@ -890,7 +891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[Search]] (5), database (4), data (3), next (3), [[JSON]] (2)
 > **Env Vars:** json (2), rdbms (1), sql (1)
 > **Warnings:** note that (3)
 > **Cross-References:** in the next (2)
@@ -1008,11 +1009,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), data (4), [[Windows]] (3), prompt (3), web (2)
 > **Tools:** jupyter (6), anaconda (5), command prompt (3), docker desktop (1), terminal (1)
 > **CLI Commands:** docker (12), python (2), make (1)
 > **Exercise Files:** exercise files (5), download the (2)
 > **Prerequisites:** set up (4), install (3)
-> **Code Keywords:** let (3), finally, (1), interface (1), this. (1)
 > **UI Navigation:** go to (3), navigate to (2)
 > **Versions:** python 3 (2), 11.5 (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1020,7 +1021,7 @@ created: 2026-04-29
 
 ### 3. Milvus Database Operations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-a-connection?u=76281980)
@@ -1065,8 +1066,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), data (1), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** install (2), prerequisite (1), set up (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** python (1)
 > **Env Vars:** sdk (1)
 
@@ -1143,7 +1144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (2), this, (1), pass (1), public (1)
+> **Frameworks & Libraries:** database (13), [[Databases]] (4), next (1)
 > **Code Identifiers:** course_db (3), list_database (1), create_database (1), using_database (1), list_usernames (1)
 > **UI Navigation:** switch to (2), click on (1)
 > **Ports:** port 8000 (1)
@@ -1213,7 +1214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), finally, (1)
+> **Frameworks & Libraries:** database (1), data (1)
 > **Env Vars:** dml (2), int64 (1), varchar (1), float_vector (1)
 > **Prerequisites:** set up (5)
 > **Code Identifiers:** max_length (2), course_id (1), courses_list (1)
@@ -1293,7 +1294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3)
+> **Frameworks & Libraries:** data (7), api (2), [[Search]] (1), [[Pandas (Software)|Pandas]] (1), [[LangChain]] (1)
 > **Env Vars:** csv (2), api (2)
 > **Best Practices:** recommended (2)
 > **File Paths:** course-descriptions.csv (1)
@@ -1350,10 +1351,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Semantic Search]] (1), [[Search]] (1), database (1), hit (1)
 > **Code Identifiers:** index_type (1), index_building_process (1), course_db (1), courses_list (1)
 > **Cross-References:** previous video (1), we discussed (1), previous chapter (1), go back to (1)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** let (1), this, (1)
 > **Env Vars:** ivf_flat (1)
 > **Warnings:** note that (1)
 
@@ -1412,7 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2)
+> **Frameworks & Libraries:** data (4), [[Search]] (1), [[Fetch]] (1), [[MLOps]] (1), feature (1)
 > **Code Identifiers:** course_id (3), output_fields (1)
 > **Env Vars:** rdbms (1)
 > **Cross-References:** previous chapter (1)
@@ -1528,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), for. (1), pass (1), interface (1)
+> **Frameworks & Libraries:** [[Search]] (25), data (5), [[Semantic Search]] (1), database (1)
 > **Code Identifiers:** anns_field (1), s_results (1)
 > **Versions:** 0.6 (1), 0.5 (1)
 > **Definitions:** is a  (2)
@@ -1568,14 +1569,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), pass (2), interface (1), let (1)
+> **Frameworks & Libraries:** data (1), feature (1), database (1), [[Vector Databases]] (1)
 > **Env Vars:** sdk (1), dll (1), dml (1)
 > **Code Identifiers:** drop_collection (1), drop_database (1)
 
 
 ### 4. Vector DB for LLM Query Caching
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LLMs and caching
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980)
@@ -1618,7 +1619,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1)
+> **Frameworks & Libraries:** prompt (4), llm (3), database (2), [[Large Language Models (LLM)|Large language models]] (2), business (2)
 > **Env Vars:** llm (3)
 > **Definitions:** is a  (2)
 
@@ -1667,8 +1668,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (18), llm (5), database (2), [[Vector Databases]] (1), [[Fetch]] (1)
 > **Env Vars:** llm (5)
-> **Code Keywords:** let (1), interface (1), this, (1)
 > **UI Navigation:** go to (2)
 > **Warnings:** note that (1)
 
@@ -1723,7 +1724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), require (1), finally, (1)
+> **Frameworks & Libraries:** database (5), llm (3), next (3), prompt (3), data (1)
 > **Code Identifiers:** cache_db (1), llm_cache (1), prompt_text (1), response_text (1), prompt_embedding (1)
 > **Env Vars:** llm (3), ivf_flat (1)
 > **CLI Commands:** make (1)
@@ -1816,7 +1817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (3), match. (1)
+> **Frameworks & Libraries:** prompt (11), llm (6), [[Search]] (3), next (2), hit (1)
 > **Env Vars:** llm (6)
 > **Versions:** 0.3 (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -1872,8 +1873,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Vector Databases]] (1), next (1), llm (1)
 > **Best Practices:** recommended (2), good practice (1)
-> **Code Keywords:** let (1), interface (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
 > **Prerequisites:** setup (1)
@@ -1881,7 +1882,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Retrieval Augmented Generation (RAG)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LLMs as a knowledge source
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-as-a-knowledge-source?u=76281980)
@@ -1938,8 +1939,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), llm (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** llm (1)
 
 #### Introduction to retrieval augmented generation
@@ -1983,6 +1984,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (7), data (4), llm (3), product (3), business (1)
 > **Env Vars:** rag (7), llm (3), pdf (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
@@ -2045,7 +2047,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (1), case. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** data (10), rag (3), next (2), [[Unstructured Data]] (2), prompt (2)
 > **Env Vars:** rag (3), rdbms (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
@@ -2079,10 +2081,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (6), prompt (5), rag (3), [[Metadata]] (2), product (1)
 > **Env Vars:** llm (6), rag (3)
 > **Cross-References:** we discussed (1), previous video (1), in the next (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 
 #### Applications of RAG
@@ -2126,9 +2128,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (10), [[Search]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), business (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** rag (10)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Warnings:** troubleshoot (1)
@@ -2136,7 +2138,7 @@ created: 2026-04-29
 
 ### 6. Implementing RAG with Milvus
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up Milvus for RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-for-rag?u=76281980)
@@ -2179,8 +2181,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), rag (3), next (1)
 > **Code Identifiers:** rag_conn (1), rag_db (1), chunk_id_field (1), rag_text_field (1), rag_embedding_field (1)
-> **Code Keywords:** let (2), switch (1)
 > **Env Vars:** rag (3)
 > **Prerequisites:** set up (2)
 > **UI Navigation:** switch to (1)
@@ -2252,7 +2254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), finally, (1)
+> **Frameworks & Libraries:** data (5), [[LangChain]] (3), [[Large Language Models (LLM)|Large language models]] (1), next (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** exercise files (1)
@@ -2292,7 +2294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** data (5), rag (2), database (1), [[Batch Processing]] (1)
 > **Env Vars:** rag (2), ivf_flat (1)
 > **Best Practices:** recommended (2)
 > **Cross-References:** earlier in (1)
@@ -2357,7 +2359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (1), finally, (1)
+> **Frameworks & Libraries:** prompt (6), [[Search]] (4), llm (4), rag (2), database (2)
 > **Env Vars:** llm (4), rag (2)
 > **Prerequisites:** set up (2), setup (1)
 > **Versions:** 0.5 (1), 0.2 (1)
@@ -2367,7 +2369,7 @@ created: 2026-04-29
 
 ### 7. Vector Databases Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose a vector database
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980)
@@ -2420,7 +2422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (5), database (5), cloud (4), data (3), [[Databases]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -2466,7 +2468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), this. (1)
+> **Frameworks & Libraries:** data (8), [[Databases]] (6), [[Search]] (3), [[MySQL]] (1)
 > **CLI Commands:** mysql (1)
 > **Analogies:** for example (1)
 
@@ -2513,7 +2515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (3), match. (1), case, (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[Search]] (5), database (3), [[Vector Databases]] (2), [[Semantic Search]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -2559,13 +2561,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), data (4), database (3), application (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** finally, (1), type, (1), this, (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue with LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980)
@@ -2588,8 +2590,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vector Databases]] (3), database (1), [[Microsoft Products|Products]] (1), [[LangChain]] (1), [[LlamaIndex]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 

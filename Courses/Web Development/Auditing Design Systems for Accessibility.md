@@ -28,7 +28,7 @@ tags:
   - skill/digital-accessibility
   - skill/accessibility-audits
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Auditing%20Design%20Systems%20for%20Accessibility.md)
@@ -47,46 +47,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Auditing design systems for accessibility
-  - What you should know
+  - [Auditing design systems for accessibility](#auditing-design-systems-for-accessibility)
+  - [What you should know](#what-you-should-know)
 - [**1. Accessibility, Design, and Development**](#1-accessibility-design-and-development) (4 videos)
-  - Why accessibility matters
-  - Why accessibility matters in product design and development
-  - Who to consider in accessible design and development
-  - Digital accessibility standards
+  - [Why accessibility matters](#why-accessibility-matters)
+  - [Why accessibility matters in product design and development](#why-accessibility-matters-in-product-design-and-development)
+  - [Who to consider in accessible design and development](#who-to-consider-in-accessible-design-and-development)
+  - [Digital accessibility standards](#digital-accessibility-standards)
 - [**2. Design Systems and Accessibility**](#2-design-systems-and-accessibility) (4 videos)
-  - Atomic design principles
-  - Checking an example system and design for accessibility
-  - Addressing issues at a system level
-  - Why design systems must consider accessibility
+  - [Atomic design principles](#atomic-design-principles)
+  - [Checking an example system and design for accessibility](#checking-an-example-system-and-design-for-accessibility)
+  - [Addressing issues at a system level](#addressing-issues-at-a-system-level)
+  - [Why design systems must consider accessibility](#why-design-systems-must-consider-accessibility)
 - [**3. Setting Up a Design System Audit**](#3-setting-up-a-design-system-audit) (5 videos)
-  - What is an accessibility audit?
-  - Considerations for an accessibility audit
-  - What do you review in a design system accessibility audit?
-  - Setting up an accessibility audit
-  - Creating an accessibility audit document
+  - [What is an accessibility audit?](#what-is-an-accessibility-audit)
+  - [Considerations for an accessibility audit](#considerations-for-an-accessibility-audit)
+  - [What do you review in a design system accessibility audit?](#what-do-you-review-in-a-design-system-accessibility-audit)
+  - [Setting up an accessibility audit](#setting-up-an-accessibility-audit)
+  - [Creating an accessibility audit document](#creating-an-accessibility-audit-document)
 - [**4. Auditing a Design System for Accessibility**](#4-auditing-a-design-system-for-accessibility) (4 videos)
-  - Reviewing designs for accessibility
-  - Automated testing for front-end code
-  - Manual testing for front-end code
-  - Reviewing documentation for accessibility
+  - [Reviewing designs for accessibility](#reviewing-designs-for-accessibility)
+  - [Automated testing for front-end code](#automated-testing-for-front-end-code)
+  - [Manual testing for front-end code](#manual-testing-for-front-end-code)
+  - [Reviewing documentation for accessibility](#reviewing-documentation-for-accessibility)
 - [**5. Documenting a Design System Accessibility Audit**](#5-documenting-a-design-system-accessibility-audit) (4 videos)
-  - Adding issues to your original document
-  - Mapping issues to WCAG criterion
-  - Prioritizing issues by impact
-  - Grouping issues into themes
+  - [Adding issues to your original document](#adding-issues-to-your-original-document)
+  - [Mapping issues to WCAG criterion](#mapping-issues-to-wcag-criterion)
+  - [Prioritizing issues by impact](#prioritizing-issues-by-impact)
+  - [Grouping issues into themes](#grouping-issues-into-themes)
 - [**6. Acting on a Design System Accessibility Audit**](#6-acting-on-a-design-system-accessibility-audit) (5 videos)
-  - Sharing results with your team
-  - Sharing results with organizational leaders
-  - Prioritizing and acting on issues with your team
-  - Sharing results with design system users
-  - Using results to further motivate better research and advocacy with people who have disabilities
+  - [Sharing results with your team](#sharing-results-with-your-team)
+  - [Sharing results with organizational leaders](#sharing-results-with-organizational-leaders)
+  - [Prioritizing and acting on issues with your team](#prioritizing-and-acting-on-issues-with-your-team)
+  - [Sharing results with design system users](#sharing-results-with-design-system-users)
+  - [Using results to further motivate better research and advocacy with people who have disabilities](#using-results-to-further-motivate-better-research-and-advocacy-with-people-who-have-disabilities)
 - [**Conclusion**](#conclusion) (1 videos)
-  - There's no such thing as "perfect" accessibility
+  - [There's no such thing as "perfect" accessibility](#theres-no-such-thing-as-perfect-accessibility)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Auditing design systems for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980)
@@ -115,6 +115,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Design Systems]] (1), product (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - accessibility (1)
@@ -170,8 +171,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Systems]] (1), [[LinkedIn]] (1), [[Product Development]] (1), product (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** for. (1), let (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** before we start (1)
@@ -180,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Accessibility, Design, and Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why accessibility matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters?u=76281980)
@@ -235,8 +236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (3)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (2), case, (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Non-Speech:** (uplifting music) (2)
@@ -297,9 +298,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (1), business (1), [[Zoom]] (1), [[Digital Accessibility]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), just like (1)
-> **Code Keywords:** while, (1)
 > **Speakers:** - one (1)
 
 #### Who to consider in accessible design and development
@@ -367,7 +368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), this. (1)
+> **Frameworks & Libraries:** [[Digital Accessibility]] (1), teams (1), [[Accessible Design]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - for (1)
 
@@ -444,9 +445,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Accessibility]] (1), web (1), [[HTML]] (1)
 > **Env Vars:** wcag (5), pour (1), html (1)
 > **Analogies:** for example (4)
-> **Code Keywords:** finally, (1), let (1), public (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Versions:** 1.1 (1)
@@ -455,7 +456,7 @@ created: 2026-04-29
 
 ### 2. Design Systems and Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Atomic design principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980)
@@ -526,7 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (1), abstract (1), finally, (1)
+> **Frameworks & Libraries:** [[Design Systems]] (4), functional (2), product (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** dropdown (2)
 > **CLI Commands:** make (1)
 > **Tools:** atom (1)
@@ -595,8 +596,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1)
 > **Versions:** 1.48 (1), 2.38 (1), 2.39 (1), 4.5 (1)
-> **Code Keywords:** let (2), require (1)
 > **Tools:** atom (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -648,7 +649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), power (1), [[Design Systems]] (1)
 > **Versions:** 2.38 (1), 4.5 (1), 6.63 (1)
 > **CLI Commands:** find (2)
 > **Definitions:** means that (1)
@@ -709,15 +710,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), [[Accessible Design]] (4), [[Microsoft Products|Products]] (4), product (3), [[Design Systems]] (1)
 > **CLI Commands:** make (9)
-> **Code Keywords:** finally, (1)
 > **Tools:** figma (1)
 > **Speakers:** - accessibility (1)
 
 
 ### 3. Setting Up a Design System Audit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an accessibility audit?
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980)
@@ -776,8 +777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Systems]] (1), [[Accessible Design]] (1), [[Accessibility Audits]] (1), business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** super (1)
 > **Env Vars:** wcag (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
@@ -852,9 +853,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Manual Testing]] (5), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** wcag (5)
-> **Code Keywords:** this. (1), catch, (1), let (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** before we start (1)
@@ -919,7 +920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Design Systems]] (2), [[Figma (Software)|Figma]] (1), [[React.js|React]] (1), [[Angular]] (1), product (1)
 > **Env Vars:** api (1)
 > **Tools:** figma (1)
 > **Exercise Files:** source code (1)
@@ -1004,8 +1005,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (2), next (1), [[Manual Testing]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), for. (1)
 > **UI Navigation:** open the (1), navigate to (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **Cross-References:** in the next (1)
@@ -1104,19 +1105,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Manual Testing]] (1), leadership (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** wcag (2)
 > **Exercise Files:** template (1), exercise files (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** navigate to (1)
 > **Definitions:** is an  (1)
 
 
 ### 4. Auditing a Design System for Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing designs for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980)
@@ -1187,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), interface (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Accessible Design]] (2), [[Manual Testing]] (1), [[User Experience Design (UED)|User experience design]] (1)
 > **Tools:** figma (3)
 > **Versions:** 3.3.3 (1), 1.4.1 (1)
 > **Documentation:** reference guide (1)
@@ -1273,7 +1274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Manual Testing]] (1), [[Design Systems]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** wcag (2)
 > **URLs:** [orangevalleycaa.org](https://orangevalleycaa.org) (1)
@@ -1351,9 +1352,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Manual Testing]] (3), [[Zoom]] (2), hit (1)
 > **CLI Commands:** find (3), make (2), cat (1)
 > **Analogies:** such as (2), for example (2), similar to (2)
-> **Code Keywords:** let (2), this, (1)
 > **Env Vars:** jaws (1), nvda (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - we (1)
@@ -1411,6 +1412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (6), [[Design Systems]] (3), application (2), [[Microsoft]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** such as (2), just like (1)
 > **Env Vars:** ibm (1)
@@ -1419,7 +1421,7 @@ created: 2026-04-29
 
 ### 5. Documenting a Design System Accessibility Audit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding issues to your original document
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/adding-issues-to-your-original-document?u=76281980)
@@ -1482,8 +1484,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), next (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (2), pass (1)
 > **Env Vars:** url (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
@@ -1576,8 +1578,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** generic (1)
 > **Env Vars:** wcag (10), a11y (1)
-> **Code Keywords:** let (6)
 > **Versions:** 1.4.3 (2), 1.4.6 (1), 4.5 (1), 1.9 (1)
 > **Documentation:** reference guide (3)
 > **CLI Commands:** make (1), find (1)
@@ -1676,7 +1678,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), business (1), teams (1), leadership (1), data (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** wcag (1)
 > **UI Navigation:** select the (1)
@@ -1759,7 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), this. (1), super (1)
+> **Frameworks & Libraries:** product (3), teams (1), [[Microsoft Products|Products]] (1), [[Digital Accessibility]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **URLs:** [orangevalleycaa.org](https://orangevalleycaa.org) (1)
 > **UI Navigation:** open the (1)
@@ -1771,7 +1773,7 @@ created: 2026-04-29
 
 ### 6. Acting on a Design System Accessibility Audit
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sharing results with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980)
@@ -1850,6 +1852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (1), [[Organizational Leadership]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1913,8 +1916,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (5), [[LinkedIn]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** this. (2), continue (1)
 > **Speakers:** - an (1)
 
 #### Prioritizing and acting on issues with your team
@@ -1982,7 +1985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), next (2), [[Agile Development|Agile]] (2), management (1), product (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
 > **Env Vars:** wcag (1)
@@ -2050,7 +2053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), continue (1)
+> **Frameworks & Libraries:** teams (9), product (3), [[Microsoft Products|Products]] (1), [[Design Systems]] (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -2109,7 +2112,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### There's no such thing as "perfect" accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980)
@@ -2180,8 +2183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Systems]] (1), [[Digital Accessibility]] (1), power (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (3), make (1)
-> **Code Keywords:** this, (1)
 > **URLs:** [annaecook.com](https://annaecook.com) (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)

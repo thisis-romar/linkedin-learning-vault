@@ -29,7 +29,7 @@ tags:
   - skill/vue-js
   - skill/full-stack-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Vue.js-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md)
@@ -48,71 +48,71 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Vue.js
-  - Codespaces
-  - What you should know
-  - Installing Node.js and NPM
-  - What to expect from this course
+  - [Vue.js](#vuejs)
+  - [Codespaces](#codespaces)
+  - [What you should know](#what-you-should-know)
+  - [Installing Node.js and NPM](#installing-nodejs-and-npm)
+  - [What to expect from this course](#what-to-expect-from-this-course)
 - [**1. Creating a Vue.js Front End**](#1-creating-a-vuejs-front-end) (15 videos)
-  - Why Vue?
-  - Setting up and running a Vue project
-  - Vue project structure
-  - Creating application pages
-  - Routing in Vue
-  - Adding data, styles, and images
-  - Creating a products page
-  - Creating a product detail page
-  - Creating a shopping cart page
-  - Creating a navigation bar
-  - Linking to the product detail page
-  - Creating a 404 page in Vue
-  - Using modular components
-  - Challenge: Modular components
-  - Solution: Modular components
+  - [Why Vue?](#why-vue)
+  - [Setting up and running a Vue project](#setting-up-and-running-a-vue-project)
+  - [Vue project structure](#vue-project-structure)
+  - [Creating application pages](#creating-application-pages)
+  - [Routing in Vue](#routing-in-vue)
+  - [Adding data, styles, and images](#adding-data-styles-and-images)
+  - [Creating a products page](#creating-a-products-page)
+  - [Creating a product detail page](#creating-a-product-detail-page)
+  - [Creating a shopping cart page](#creating-a-shopping-cart-page)
+  - [Creating a navigation bar](#creating-a-navigation-bar)
+  - [Linking to the product detail page](#linking-to-the-product-detail-page)
+  - [Creating a 404 page in Vue](#creating-a-404-page-in-vue)
+  - [Using modular components](#using-modular-components)
+  - [Challenge: Modular components](#challenge-modular-components)
+  - [Solution: Modular components](#solution-modular-components)
 - [**2. Creating a Node Back End**](#2-creating-a-node-back-end) (8 videos)
-  - Why Node.js?
-  - Setting up an express server
-  - Testing servers with Postman
-  - Creating routes in Express
-  - Using nodemon to restart a server
-  - Creating server data
-  - Deleting server data
-  - Rewriting the shopping cart
+  - [Why Node.js?](#why-nodejs)
+  - [Setting up an express server](#setting-up-an-express-server)
+  - [Testing servers with Postman](#testing-servers-with-postman)
+  - [Creating routes in Express](#creating-routes-in-express)
+  - [Using nodemon to restart a server](#using-nodemon-to-restart-a-server)
+  - [Creating server data](#creating-server-data)
+  - [Deleting server data](#deleting-server-data)
+  - [Rewriting the shopping cart](#rewriting-the-shopping-cart)
 - [**3. Adding MongoDB to Your Back-end**](#3-adding-mongodb-to-your-back-end) (8 videos)
-  - Why MongoDB?
-  - Setting up MongoDB
-  - Connecting and adding data to MongoDB
-  - Adding MongoDB to a Node.js server
-  - Adding MongoDB to GET endpoints
-  - Loading individual products from MongoDB
-  - Creating data in MongoDB
-  - Deleting data in MongoDB
+  - [Why MongoDB?](#why-mongodb)
+  - [Setting up MongoDB](#setting-up-mongodb)
+  - [Connecting and adding data to MongoDB](#connecting-and-adding-data-to-mongodb)
+  - [Adding MongoDB to a Node.js server](#adding-mongodb-to-a-nodejs-server)
+  - [Adding MongoDB to GET endpoints](#adding-mongodb-to-get-endpoints)
+  - [Loading individual products from MongoDB](#loading-individual-products-from-mongodb)
+  - [Creating data in MongoDB](#creating-data-in-mongodb)
+  - [Deleting data in MongoDB](#deleting-data-in-mongodb)
 - [**4. Connecting the Front- and Back-end**](#4-connecting-the-front--and-back-end) (7 videos)
-  - Introduction to the Axios library
-  - Loading data from the server: Part 1
-  - Loading data from the server: Part 2
-  - Adding items to the shopping cart
-  - Removing items from the shopping cart
-  - Challenge: Item already in cart
-  - Solution: Item already in cart
+  - [Introduction to the Axios library](#introduction-to-the-axios-library)
+  - [Loading data from the server: Part 1](#loading-data-from-the-server-part-1)
+  - [Loading data from the server: Part 2](#loading-data-from-the-server-part-2)
+  - [Adding items to the shopping cart](#adding-items-to-the-shopping-cart)
+  - [Removing items from the shopping cart](#removing-items-from-the-shopping-cart)
+  - [Challenge: Item already in cart](#challenge-item-already-in-cart)
+  - [Solution: Item already in cart](#solution-item-already-in-cart)
 - [**5. Adding Authentication with Firebase Authentication**](#5-adding-authentication-with-firebase-authentication) (7 videos)
-  - Why Firebase Authentication?
-  - Creating a Firebase project
-  - Sending Firebase Auth email links
-  - Logging in with an email link
-  - Listening for auth state changes
-  - Signing the user out
-  - Managing cart items with authentication
+  - [Why Firebase Authentication?](#why-firebase-authentication)
+  - [Creating a Firebase project](#creating-a-firebase-project)
+  - [Sending Firebase Auth email links](#sending-firebase-auth-email-links)
+  - [Logging in with an email link](#logging-in-with-an-email-link)
+  - [Listening for auth state changes](#listening-for-auth-state-changes)
+  - [Signing the user out](#signing-the-user-out)
+  - [Managing cart items with authentication](#managing-cart-items-with-authentication)
 - [**6. Hosting Your Site**](#6-hosting-your-site) (3 videos)
-  - The release process
-  - Preparing the front-end for release
-  - Releasing the app
+  - [The release process](#the-release-process)
+  - [Preparing the front-end for release](#preparing-the-front-end-for-release)
+  - [Releasing the app](#releasing-the-app)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Recommended next steps
+  - [Recommended next steps](#recommended-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vue.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-js?u=76281980)
@@ -133,8 +133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** full-stack (4), [[Full-Stack Development]] (2), [[LinkedIn]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 
 #### Codespaces
@@ -180,11 +180,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[npm]] (5), [[GitHub]] (2), cd (2), application (1)
 > **CLI Commands:** npm (5), cd (2), git (1)
 > **Prerequisites:** install (5)
 > **Env Vars:** npm (3), url (1)
 > **Tools:** github (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** github repo (1)
 > **Analogies:** for example (1)
@@ -210,8 +210,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), front-end (1), cd (1)
 > **CLI Commands:** make (2), cd (1), ls (1)
-> **Code Keywords:** let (1)
 > **Tools:** command line (1)
 > **Speakers:** - [narrator] (1)
 
@@ -250,10 +250,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (7), [[Node.js]] (5), node (5), [[Codespaces]] (2)
 > **CLI Commands:** node (10), npm (7), make (2)
 > **File Paths:** node.js (5)
 > **Prerequisites:** install (3)
-> **Code Keywords:** this, (1), case, (1)
 > **Env Vars:** lts (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** download the (1)
@@ -282,7 +282,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1), let (1)
+> **Frameworks & Libraries:** application (4), [[E-Commerce]] (4), [[Microsoft Products|Products]] (2), web application (1), node (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [narrator] (1)
@@ -290,7 +290,7 @@ created: 2026-04-29
 
 ### 1. Creating a Vue.js Front End
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Vue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980)
@@ -347,10 +347,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (15), front-end (14), [[HTML]] (4), [[React.js|React]] (4), [[Angular]] (4)
 > **Env Vars:** html (4), css (3)
 > **Analogies:** such as (4), imagine (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), this, (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - okay (1)
@@ -462,9 +462,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (16), front-end (8), [[npm]] (4), hit (4), [[CLI]] (3)
 > **CLI Commands:** npm (4), make (4), yarn (1), cd (1), ls (1)
 > **Env Vars:** cli (2), npm (2), url (1)
-> **Code Keywords:** let (3), delete (1)
 > **Prerequisites:** install (4)
 > **Tools:** terminal (3)
 > **UI Navigation:** go to (2), click on (1)
@@ -586,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (2), delete (2), this. (1), static (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (21), [[HTML]] (5), application (4), [[CLI]] (3), [[JavaScript]] (2)
 > **File Paths:** index.html (4), package.json (1), package-lock.json (1), main.js (1)
 > **Env Vars:** cli (3), html (1)
 > **Definitions:** in other words (2), is called (1)
@@ -722,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (1), this. (1), finally, (1), default, (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (15), [[Microsoft Products|Products]] (9), product (8), [[Routing]] (5), application (2)
 > **CLI Commands:** make (5), cd (1), npm (1)
 > **Exercise Files:** template (3)
 > **Prerequisites:** install (3)
@@ -862,9 +862,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), product (7), application (4), hit (2), next (1)
 > **Env Vars:** url (7), env (1), ide (1)
 > **UI Navigation:** go to (5)
-> **Code Keywords:** pass (2), let (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -944,11 +944,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), application (7), [[GitHub]] (6), css (5), [[Microsoft Products|Products]] (4)
 > **File Paths:** main.css (5), data.js (1), main.js (1)
 > **Tools:** github (6), visual studio (1)
 > **Exercise Files:** github repo (5), download the (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** this, (3), import, (1), let (1)
 > **Env Vars:** css (4), html (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1102,7 +1102,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for, (1), this. (1), for. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (25), product (21), data (7), [[HTML]] (5), [[Vue.js|Vue]] (5)
 > **Env Vars:** html (5), cli (1), url (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
@@ -1229,9 +1229,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (32), [[Microsoft Products|Products]] (11), data (6), [[JavaScript]] (2), next (1)
 > **Env Vars:** url (7), html (1)
 > **CLI Commands:** find (7)
-> **Code Keywords:** let (4), from . (1), this. (1), pass (1)
 > **Exercise Files:** template (3)
 > **File Paths:** main.js (1), temp-data.js (1)
 > **Code Identifiers:** productid (1), imagename (1)
@@ -1405,7 +1405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), const (1)
+> **Frameworks & Libraries:** product (15), [[Microsoft Products|Products]] (11), data (9), [[HTML]] (3), hit (3)
 > **CLI Commands:** make (4)
 > **Env Vars:** html (3), url (1)
 > **Cross-References:** go back to (2)
@@ -1571,8 +1571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), data (6), [[Vue.js|Vue]] (4), product (3), application (1)
 > **UI Navigation:** go to (7), click on (5)
-> **Code Keywords:** let (5), class= (2), default. (1), from, (1), return, (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** make (3)
 > **Env Vars:** ide (1), html (1)
@@ -1627,7 +1627,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), this, (1)
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (9), [[JavaScript]] (1), express (1), hit (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** url (1)
 > **Cross-References:** go back to (1)
@@ -1773,7 +1773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (3), for, (2), default. (1), if, (1)
+> **Frameworks & Libraries:** product (20), [[Vue.js|Vue]] (5), [[Microsoft Products|Products]] (4), application (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (6)
 > **Exercise Files:** template (3)
@@ -1909,7 +1909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), let (4), from, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (26), [[Vue.js|Vue]] (5), product (4), data (3), hit (2)
 > **Analogies:** for example (3), just like (1)
 > **Cross-References:** go back to (3)
 > **Exercise Files:** template (3)
@@ -1939,9 +1939,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (1)
 > **Cross-References:** previous video (1), next video (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** try, (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2024,8 +2024,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), product (3), next (1), [[HTML]] (1), data (1)
 > **Exercise Files:** template (8)
-> **Code Keywords:** let (2), pass (2), this. (1)
 > **Env Vars:** ide (2), html (1)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (2)
@@ -2035,7 +2035,7 @@ created: 2026-04-29
 
 ### 2. Creating a Node Back End
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980)
@@ -2056,10 +2056,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (4), express (3), [[JavaScript]] (2), [[Vue.js|Vue]] (1), [[PHP]] (1)
 > **CLI Commands:** node (4), php (1), python (1)
 > **File Paths:** node.js (4)
 > **Definitions:** means that (1), is called (1), is a  (1)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** php (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2266,10 +2266,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (12), next (6), [[npm]] (5), hit (4), node (4)
 > **CLI Commands:** node (5), npm (5), make (4), cd (1), npx (1)
 > **Prerequisites:** install (6), set up (2), make sure you have (1)
 > **File Paths:** package.json (2), server.js (2), node.js (1), package-lock.json (1), source/server.js (1)
-> **Code Keywords:** function (3), this. (2), const (1), let (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Ports:** port 8 (2)
 > **Env Vars:** cli (1), npm (1)
@@ -2354,8 +2354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (5), application (2), express (1), [[Google]] (1), next (1)
 > **Tools:** postman (13)
-> **Code Keywords:** public (6), case, (2), let (2), interface (1), this. (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** click on (3), go to (1), dropdown (1)
 > **Env Vars:** url (4)
@@ -2498,7 +2498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (4), const (3), public (2), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (21), product (18), data (8), [[JSON]] (5), next (2)
 > **CLI Commands:** find (7), make (4), npx (1), node (1)
 > **File Paths:** response.json (4), server.js (1), source/server.js (1)
 > **Code Identifiers:** productid (4), myurlparameter (1)
@@ -2614,7 +2614,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (6), this. (1), private (1), delete (1)
+> **Frameworks & Libraries:** hit (3), [[JSON]] (3), [[npm]] (2), product (2), [[Node.js]] (2)
 > **CLI Commands:** make (5), npx (3), node (3), npm (2), find (1)
 > **File Paths:** node.js (2), package.json (2), source/server.js (1), response.json (1)
 > **Ports:** port 8 (4)
@@ -2774,7 +2774,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), const (2), function (1), include. (1), case, (1)
+> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (9), [[JSON]] (5), data (5), express (2)
 > **File Paths:** response.json (2), data.js (1), express.json (1)
 > **Env Vars:** url (2), json (2)
 > **UI Navigation:** dropdown (2), go to (1), select the (1)
@@ -2836,7 +2836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2), const (1), function (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), product (9), next (2), [[JavaScript]] (1), [[JSON]] (1)
 > **Code Identifiers:** cartitems (3)
 > **Env Vars:** url (2)
 > **Analogies:** just like (2)
@@ -2990,7 +2990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (6), const (3), this, (2), pass (2)
+> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (9), data (5), database (1), application (1)
 > **Code Identifiers:** cartitems (5), populatedcart (4), populatecartids (3), populatedcartids (1), productid (1)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** just like (2)
@@ -3002,7 +3002,7 @@ created: 2026-04-29
 
 ### 3. Adding MongoDB to Your Back-end
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980)
@@ -3029,8 +3029,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[JavaScript]] (5), data (4), database (2), [[MySQL]] (2)
 > **CLI Commands:** mysql (2)
-> **Code Keywords:** case. (1), let (1)
 > **Env Vars:** sql (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -3166,9 +3166,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (11), database (6), data (5), [[Codespaces]] (3), next (3)
 > **CLI Commands:** mongo (4), brew (4), make (3), find (1), aws (1)
 > **Tools:** terminal (7), command line (1)
-> **Code Keywords:** let (2), this, (2), for, (1), while. (1), interface (1)
 > **Prerequisites:** install (6)
 > **Env Vars:** url (3), aws (1)
 > **File Paths:** brew.sh (1), temp-data.js (1)
@@ -3346,8 +3346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), [[MongoDB]] (13), data (12), [[Microsoft Products|Products]] (8), hit (6)
 > **CLI Commands:** mongo (6), make (5), find (2), brew (1), node (1)
-> **Code Keywords:** let (5), switch (2), pass (1)
 > **UI Navigation:** click on (2), switch to (1)
 > **Prerequisites:** set up (2), install (1)
 > **Definitions:** means that (1), is a  (1)
@@ -3506,7 +3506,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), await (5), const (4), pass (2), private (2)
+> **Frameworks & Libraries:** [[MongoDB]] (10), [[Microsoft Products|Products]] (10), [[GitHub]] (8), database (5), express (3)
 > **CLI Commands:** find (7), make (6), mongo (5), npm (3), node (2)
 > **Env Vars:** url (9), npm (1)
 > **Tools:** github (8), postman (2)
@@ -3640,7 +3640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (7), function (6), const (4), let (3), async (3)
+> **Frameworks & Libraries:** [[MongoDB]] (8), [[Microsoft Products|Products]] (8), database (8), data (5), product (3)
 > **Code Identifiers:** userid (5), populatecartids (3), cartitems (2), productids (1), findone (1)
 > **CLI Commands:** find (5), make (2), mongo (1)
 > **Env Vars:** url (2)
@@ -3744,7 +3744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (4), async (3), const (1), await (1)
+> **Frameworks & Libraries:** product (13), [[MongoDB]] (10), [[Microsoft Products|Products]] (5), database (4), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Ports:** port 8 (2)
 > **Env Vars:** url (2)
@@ -3862,8 +3862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (8), product (5), database (2), data (1)
 > **Code Identifiers:** updateone (5), cartitems (5), userid (4), populatecartids (1), addtoset (1)
-> **Code Keywords:** await (2), let (2), function (1), const (1), async (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** similar to (2), just like (1), for example (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -3949,7 +3949,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (3), await (2), from. (1), const (1)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[Microsoft Products|Products]] (3), data (2), product (2), hit (1)
 > **Code Identifiers:** userid (5), productid (3), cartitems (3), updateone (2)
 > **API Endpoints:** get  (1), delete  (1)
 > **Env Vars:** url (1), delete (1)
@@ -3961,7 +3961,7 @@ created: 2026-04-29
 
 ### 4. Connecting the Front- and Back-end
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the Axios library
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980)
@@ -4028,7 +4028,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), await (2), pass (2), async (1), delete (1)
+> **Frameworks & Libraries:** data (5), application (3), [[Vue.js|Vue]] (2), product (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (5), node (1)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Tools:** postman (3)
@@ -4228,7 +4228,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), from, (2), const (2), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (28), data (13), api (5), next (4), hit (3)
 > **CLI Commands:** make (7), npm (3), cd (2)
 > **Env Vars:** url (6), api (3), cors (2)
 > **Prerequisites:** install (5), set up (3)
@@ -4376,7 +4376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), const (5), await (3), static (2), async (2)
+> **Frameworks & Libraries:** product (21), data (14), [[Microsoft Products|Products]] (10), express (3), hit (3)
 > **CLI Commands:** make (6), node (2), find (1)
 > **Code Identifiers:** imageurl (3), cartitems (2), productid (1)
 > **Env Vars:** url (5)
@@ -4540,7 +4540,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), case, (2), async (1), await (1), this. (1)
+> **Frameworks & Libraries:** product (5), hit (4), [[MongoDB]] (4), data (3), next (1)
 > **Code Identifiers:** addtocart (4), productid (2), updateone (1), cartitems (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** go to (2), click on (1)
@@ -4670,7 +4670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3), pass (2), const (2), await (2)
+> **Frameworks & Libraries:** data (10), product (9), hit (2), api (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1), means that (1)
 > **API Endpoints:** /api/users/12345/cart (1)
@@ -4714,7 +4714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), try, (1)
+> **Frameworks & Libraries:** application (2), product (2), feature (1), next (1)
 > **File Paths:** server.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -4826,7 +4826,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (4), const (3), try, (1), await (1)
+> **Frameworks & Libraries:** product (5), data (3), api (1), hit (1)
 > **Code Identifiers:** cartitems (5), cartresponse (2), itemisincart (1), productid (1)
 > **Analogies:** just like (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
@@ -4838,7 +4838,7 @@ created: 2026-04-29
 
 ### 5. Adding Authentication with Firebase Authentication
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Firebase Authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980)
@@ -4869,9 +4869,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (8), next (1), [[Databases]] (1), data (1)
 > **Prerequisites:** set up (1), install (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)
 
@@ -4982,7 +4982,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), this. (2), let (2), switch (1), this, (1)
+> **Frameworks & Libraries:** [[Firebase]] (21), [[Vue.js|Vue]] (8), next (8), [[Google]] (4), [[Analytics]] (3)
 > **CLI Commands:** make (5), find (2), npm (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Prerequisites:** install (3), set up (1), setup (1)
@@ -5110,8 +5110,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Firebase]] (11), prompt (4), product (4), next (2), application (1)
 > **Code Identifiers:** issigninwithemaillink (3), actioncodesettings (3), signin (2), getauth (2), sendsigninlinktoemail (2)
-> **Code Keywords:** let (4), function (3), pass (3), const (1), import. (1)
 > **Env Vars:** url (4)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** set up (2)
@@ -5249,7 +5249,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (5), await (3), pass (3), async (2)
+> **Frameworks & Libraries:** [[Firebase]] (5), next (3), hit (1)
 > **Code Identifiers:** localstorage (5), signinwithemaillink (4), emailforsignin (3), sendsigninlinktoemail (2), signin (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1), coming up (1)
@@ -5387,7 +5387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), const (2), pass (2), let (2), interface (1)
+> **Frameworks & Libraries:** data (7), [[Firebase]] (6), next (3), product (1), hit (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Env Vars:** uid (2)
 > **Analogies:** such as (1), for example (1)
@@ -5491,7 +5491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), pass (2), const (1), case, (1)
+> **Frameworks & Libraries:** [[Firebase]] (4), hit (4), next (3), data (3), [[Vue.js|Vue]] (2)
 > **Code Identifiers:** signout (4), getauth (2), cartitems (2)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** go back to (4)
@@ -5653,7 +5653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), this. (4), await (2), const (1), for. (1)
+> **Frameworks & Libraries:** database (3), next (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Code Identifiers:** existinguser (6), updateone (1), insertone (1), userid (1), removefromcart (1)
 > **CLI Commands:** make (5), find (4)
 > **Env Vars:** url (2)
@@ -5665,7 +5665,7 @@ created: 2026-04-29
 
 ### 6. Hosting Your Site
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The release process
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/the-release-process?u=76281980)
@@ -5702,7 +5702,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** application (3), full-stack (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
 > **Cross-References:** coming up (1)
@@ -5832,9 +5832,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (8), front-end (4), next (4), [[npm]] (3), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (6), npm (3), node (2), npx (1)
 > **Env Vars:** url (9), npm (1), ide (1)
-> **Code Keywords:** let (2), require (1), case, (1), finally, (1)
 > **Prerequisites:** setup (2), install (2), set up (1)
 > **Tools:** github (3), terminal (1)
 > **UI Navigation:** go to (2), select the (2)
@@ -5972,7 +5972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (2), continue (2), delete (1), static (1)
+> **Frameworks & Libraries:** [[npm]] (2), express (2), [[HTML]] (2), [[Firebase]] (2), next (1)
 > **Env Vars:** url (3), api (1), npm (1), uri (1)
 > **Tools:** terminal (4)
 > **CLI Commands:** npm (2), make (1)
@@ -5984,7 +5984,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recommended next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980)
@@ -6029,6 +6029,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), full-stack (5), [[Full-Stack Development]] (2), next (2), [[LinkedIn]] (2)
 > **CLI Commands:** node (1), make (1)
 > **File Paths:** node.js (1)
 > **Definitions:** is a  (1)

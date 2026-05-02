@@ -35,7 +35,7 @@ tags:
   - skill/infographics
   - skill/google-gemini
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vibe%20Code%20This-%20AI-Powered%20Branded%20Infographics%20Tool.md)
@@ -54,16 +54,16 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Vibe coding an AI-based tool
+  - [Vibe coding an AI-based tool](#vibe-coding-an-ai-based-tool)
 - [**1. Vibe Code the Infographics Tool**](#1-vibe-code-the-infographics-tool) (4 videos)
-  - Creating the PRD for the project
-  - Setting up Google AI Studio
-  - Customizing our design
-  - Sharing and deploying the project
+  - [Creating the PRD for the project](#creating-the-prd-for-the-project)
+  - [Setting up Google AI Studio](#setting-up-google-ai-studio)
+  - [Customizing our design](#customizing-our-design)
+  - [Sharing and deploying the project](#sharing-and-deploying-the-project)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vibe coding an AI-based tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-ai-powered-branded-infographics-tool/vibe-coding-an-ai-based-tool?u=76281980)
@@ -74,14 +74,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** ai (5), [[ChatGPT]] (1), [[Gemini]] (1), [[Vibe Coding]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** prd (1), gpt (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Vibe Code the Infographics Tool
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the PRD for the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-ai-powered-branded-infographics-tool/creating-the-prd-for-the-project?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), this, (2), interface (2), let (2), case, (1)
+> **Frameworks & Libraries:** prompt (11), [[ChatGPT]] (4), hit (4), next (3), [[Infographics]] (2)
 > **Env Vars:** prd (5), pdf (3), gpt (2), css (1)
 > **UI Navigation:** click on (2), dropdown (2), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -140,7 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (3), switch (3), interface (2)
+> **Frameworks & Libraries:** hit (5), application (4), [[Vibe Coding]] (2), ai (2), functional (2)
 > **Env Vars:** prd (6), css (1)
 > **UI Navigation:** click on (3), switch to (1)
 > **CLI Commands:** make (1), find (1)
@@ -167,7 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), delete (6), interface (3), for, (1), else. (1)
+> **Frameworks & Libraries:** hit (7), prompt (4), ai (2), application (1), [[Gemini]] (1)
 > **UI Navigation:** dropdown (5), click on (2), toggle (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (1)
@@ -189,8 +189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (5), ai (4), hit (3), [[GitHub]] (2), [[Google]] (2)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (1), continue (1), this. (1), public (1)
 > **Env Vars:** url (2), zip (1)
 > **Tools:** github (2)
 > **UI Navigation:** click on (1), dropdown (1)

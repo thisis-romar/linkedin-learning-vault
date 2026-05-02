@@ -34,7 +34,7 @@ tags:
   - skill/anthropic-claude
   - skill/application-programming-interfaces-api
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Model%20Context%20Protocol%20(MCP)-%20Hands-On%20with%20Agentic%20AI.md)
@@ -53,24 +53,24 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - MCP: Connecting AI agents to data, apps, and more
+  - [MCP: Connecting AI agents to data, apps, and more](#mcp-connecting-ai-agents-to-data-apps-and-more)
 - [**1. MCP Explained**](#1-mcp-explained) (6 videos)
-  - Using MCP servers in Claude Desktop
-  - Model Context Protocol (MCP) explained
-  - Exploring avaialble MCP servers and clients
-  - Limiting the blast radius of AI agents
-  - Leveraging the power of MCP servers
-  - Using MCP servers in Cursor
+  - [Using MCP servers in Claude Desktop](#using-mcp-servers-in-claude-desktop)
+  - [Model Context Protocol (MCP) explained](#model-context-protocol-mcp-explained)
+  - [Exploring avaialble MCP servers and clients](#exploring-avaialble-mcp-servers-and-clients)
+  - [Limiting the blast radius of AI agents](#limiting-the-blast-radius-of-ai-agents)
+  - [Leveraging the power of MCP servers](#leveraging-the-power-of-mcp-servers)
+  - [Using MCP servers in Cursor](#using-mcp-servers-in-cursor)
 - [**2. Building MCP Servers**](#2-building-mcp-servers) (3 videos)
-  - Building your own MCP servers
-  - Testing with the MCP inspector
-  - Troubleshooting MCP servers
+  - [Building your own MCP servers](#building-your-own-mcp-servers)
+  - [Testing with the MCP inspector](#testing-with-the-mcp-inspector)
+  - [Troubleshooting MCP servers](#troubleshooting-mcp-servers)
 - [**3. Conclusion**](#3-conclusion) (1 videos)
-  - Building AI agents with MCP
+  - [Building AI agents with MCP](#building-ai-agents-with-mcp)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### MCP: Connecting AI agents to data, apps, and more
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980)
@@ -99,15 +99,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), ai (2), [[ChatGPT]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** mcp (6)
-> **Code Keywords:** let (2), interface (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - okay (1)
 
 
 ### 1. MCP Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using MCP servers in Claude Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980)
@@ -242,8 +242,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), prompt (4), [[Microsoft Word|Word]] (3), next (2), api (2)
 > **Env Vars:** mcp (16), api (2), gpt (2)
-> **Code Keywords:** let (5), require (1), this, (1), finally, (1), return, (1)
 > **Code Identifiers:** compare_models (2), count_total_characters (1), count_characters_without_spaces (1), count_words (1), get_forecast (1)
 > **Tools:** github (6)
 > **UI Navigation:** click on (2)
@@ -313,8 +313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), application (3), next (1), prompt (1), ai (1)
 > **Env Vars:** mcp (21), usb (6)
-> **Code Keywords:** else. (2), finally, (1), this, (1), let (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -371,6 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Slack]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** mcp (8)
 > **CLI Commands:** find (6), python (1)
 > **UI Navigation:** go to (3), in the sidebar (1)
@@ -378,7 +379,6 @@ created: 2026-04-29
 > **URLs:** [modelcontextprotocol.io](https://modelcontextprotocol.io) (1), [pulsemcp.com](https://pulsemcp.com) (1)
 > **Prerequisites:** install (2)
 > **Definitions:** is a  (1)
-> **Warnings:** keep in mind (1)
 
 #### Limiting the blast radius of AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/limiting-the-blast-radius-of-ai-agents?u=76281980)
@@ -437,8 +437,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (5), llm (2), [[Responsible AI]] (1), prompt (1)
 > **Env Vars:** mcp (4), mcps (2), llm (2)
-> **Code Keywords:** let (1), else. (1), finally, (1), private (1), new, (1)
 > **Speakers:** - before (1)
 
 #### Leveraging the power of MCP servers
@@ -470,10 +470,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (2), power (1), hit (1)
 > **Env Vars:** readme (5), mcp (4)
 > **CLI Commands:** make (3), find (1)
 > **File Paths:** project.md (1), readme.md (1)
-> **Code Keywords:** let (1), return, (1)
 > **Documentation:** the readme (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -536,9 +536,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** mcp (12), tsx (1), mtp (1)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (2), delete (1), case, (1), finally, (1)
 > **File Paths:** mcp.json (1), project.md (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **Prerequisites:** install (1), set up (1)
@@ -548,7 +548,7 @@ created: 2026-04-29
 
 ### 2. Building MCP Servers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your own MCP servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980)
@@ -577,6 +577,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[GitHub]] (1), next (1), power (1)
 > **Env Vars:** mcp (5)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** python (1)
@@ -664,9 +665,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (2), data (1), api (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), npx (3), find (1), python (1)
 > **Env Vars:** mcp (6), sdk (2), api (1)
-> **Code Keywords:** let (3), this, (2), case, (1), pass (1)
 > **File Paths:** server.py (3)
 > **Cross-References:** go back to (2)
 > **Documentation:** the documentation (2)
@@ -742,9 +743,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (5), [[Software Development]] (1), [[Troubleshooting]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** mcp (14), enoent (1), mcps (1), npx (1), uvx (1)
 > **CLI Commands:** find (3), npx (1), make (1)
-> **Code Keywords:** interface (1), this, (1)
 > **Code Identifiers:** claude_desktop_config (2)
 > **Warnings:** warning (2)
 > **Documentation:** the documentation (1)
@@ -754,7 +755,7 @@ created: 2026-04-29
 
 ### 3. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building AI agents with MCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-ai-agents-with-mcp?u=76281980)
@@ -791,6 +792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), power (2), data (1), next (1)
 > **CLI Commands:** make (1), go build (1)
 > **Env Vars:** mcps (1), mcp (1)
 > **Cross-References:** in the next (1)

@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/php
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20PHP%20Applications%20with%20Generative%20AI.md)
@@ -56,38 +56,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - How can generative AI help with PHP?
-  - What you should know
-  - How this course works
+  - [How can generative AI help with PHP?](#how-can-generative-ai-help-with-php)
+  - [What you should know](#what-you-should-know)
+  - [How this course works](#how-this-course-works)
 - [**1. Planning**](#1-planning) (6 videos)
-  - Defining requirements
-  - Use cases
-  - User stories
-  - Creating timelines
-  - Challenge: Generate a requirements document
-  - Solution: Generate a requirements document
+  - [Defining requirements](#defining-requirements)
+  - [Use cases](#use-cases)
+  - [User stories](#user-stories)
+  - [Creating timelines](#creating-timelines)
+  - [Challenge: Generate a requirements document](#challenge-generate-a-requirements-document)
+  - [Solution: Generate a requirements document](#solution-generate-a-requirements-document)
 - [**2. Writing Code**](#2-writing-code) (5 videos)
-  - Using ChatGPT to get code snippets
-  - Working with GitHub's Copilot
-  - Other code-writing tools
-  - Challenge: Writing a PHP class sorter
-  - Solution: Writing a PHP class sorter
+  - [Using ChatGPT to get code snippets](#using-chatgpt-to-get-code-snippets)
+  - [Working with GitHub's Copilot](#working-with-githubs-copilot)
+  - [Other code-writing tools](#other-code-writing-tools)
+  - [Challenge: Writing a PHP class sorter](#challenge-writing-a-php-class-sorter)
+  - [Solution: Writing a PHP class sorter](#solution-writing-a-php-class-sorter)
 - [**3. Testing Your Code**](#3-testing-your-code) (5 videos)
-  - Automated testing vs. AI testing
-  - Writing unit tests with AI
-  - Generating test data
-  - Challenge: Generate test data for the provided class
-  - Solution: Generate test data for the provided class
+  - [Automated testing vs. AI testing](#automated-testing-vs-ai-testing)
+  - [Writing unit tests with AI](#writing-unit-tests-with-ai)
+  - [Generating test data](#generating-test-data)
+  - [Challenge: Generate test data for the provided class](#challenge-generate-test-data-for-the-provided-class)
+  - [Solution: Generate test data for the provided class](#solution-generate-test-data-for-the-provided-class)
 - [**4. Documentation**](#4-documentation) (3 videos)
-  - Types of documentation
-  - Creating Doc Blocks
-  - Creating comments for code
+  - [Types of documentation](#types-of-documentation)
+  - [Creating Doc Blocks](#creating-doc-blocks)
+  - [Creating comments for code](#creating-comments-for-code)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How can generative AI help with PHP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980)
@@ -114,6 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[Generative AI]] (2), ai (2), [[MySQL]] (1), [[Programming]] (1)
 > **CLI Commands:** php (3), mysql (1)
 > **Env Vars:** php (2)
 > **URLs:** [php.net](https://php.net) (1)
@@ -137,6 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), [[PHP]] (2), [[Troubleshooting]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
 > **Prerequisites:** set up (1)
@@ -169,9 +171,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Application Development]] (1), ai (1), [[ChatGPT]] (1), [[PHP]] (1), [[Generative AI]] (1)
 > **CLI Commands:** php (1), make (1)
 > **Prerequisites:** you'll need (1), set up (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** php (1)
 > **Tools:** github (1)
 > **Speakers:** - this (1)
@@ -179,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Planning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980)
@@ -254,7 +256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), interface (1), this. (1)
+> **Frameworks & Libraries:** ai (6), functional (4), [[ChatGPT]] (3), prompt (3), feature (2)
 > **Env Vars:** ssl (1), php (1), gdpr (1), hipaa (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** php (1)
@@ -339,7 +341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), continue (1)
+> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (2), [[Software Development]] (1), prompt (1), application (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -403,7 +405,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case, (1)
+> **Frameworks & Libraries:** ai (3), feature (2), prompt (2), [[Software Development]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -513,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), for, (1)
+> **Frameworks & Libraries:** ai (8), [[ChatGPT]] (4), feature (2), next (1), [[Prototyping]] (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll up (1)
 > **Best Practices:** you should always (1)
@@ -545,7 +547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1)
+> **Frameworks & Libraries:** web (1), feature (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -721,7 +723,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6), this. (4), this, (2), require (2), let (1)
+> **Frameworks & Libraries:** [[PHP]] (6), ai (4), database (4), feature (2), [[MySQL]] (2)
 > **Env Vars:** php (6), mvc (2), seo (1), html (1), css (1)
 > **CLI Commands:** php (6), mysql (2), git (1)
 > **Prerequisites:** install (2), setup (1)
@@ -733,7 +735,7 @@ created: 2026-04-29
 
 ### 2. Writing Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using ChatGPT to get code snippets
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980)
@@ -900,9 +902,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (14), ai (4), [[ChatGPT]] (3), [[HTML]] (3), prompt (2)
 > **Env Vars:** php (12), jpeg (4), html (3), png (3), tiff (3)
 > **CLI Commands:** php (14), make (8)
-> **Code Keywords:** let (8), function (6), delete (2), this. (2), case. (2)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **File Paths:** process.php (1), index.php (1)
 > **Analogies:** such as (1), for example (1)
@@ -1024,7 +1026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[ChatGPT]] (3), ai (2), [[GitHub]] (1), next (1)
 > **CLI Commands:** make (5), php (1)
 > **Env Vars:** url (2), php (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1070,7 +1072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (2), let (1), super (1)
+> **Frameworks & Libraries:** [[Search]] (4), ai (3), [[ChatGPT]] (2), [[PHP]] (2), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2), gbt (1)
 > **Tools:** vs code (3)
@@ -1106,8 +1108,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[PHP]] (2), next (1), [[GitHub]] (1)
 > **CLI Commands:** php (2), make (1), find (1)
-> **Code Keywords:** function (2), match. (1)
 > **File Paths:** index.php (1)
 > **Env Vars:** php (1)
 > **Tools:** github (1)
@@ -1218,7 +1220,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (6), class, (3), this, (3), class. (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[GitHub]] (2), ai (2), [[ChatGPT]] (1), [[PHP]] (1)
 > **CLI Commands:** make (2), php (1)
 > **Tools:** github (3)
 > **Definitions:** means that (1), is a  (1)
@@ -1230,7 +1232,7 @@ created: 2026-04-29
 
 ### 3. Testing Your Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Automated testing vs. AI testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980)
@@ -1271,9 +1273,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Microsoft Copilot|Copilot]] (3), data (2), [[Programming]] (1), [[Unit Testing]] (1)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** while, (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1395,7 +1397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (11), let (7), function (3), this, (2), case. (1)
+> **Frameworks & Libraries:** application (2), [[PHP]] (2), ai (1), [[Unit Testing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (5), php (2), composer (1)
 > **Code Identifiers:** get_age (3)
 > **Env Vars:** dob (2), php (1)
@@ -1477,7 +1479,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), class, (4), this, (3), this. (3), class. (2)
+> **Frameworks & Libraries:** data (8), ai (2), [[Microsoft Copilot|Copilot]] (1), [[PHP]] (1)
 > **CLI Commands:** find (3), php (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** dob (2)
@@ -1501,7 +1503,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (3), function (2), class. (1), try, (1)
+> **Frameworks & Libraries:** ai (1), data (1)
 > **Env Vars:** gpa (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1632,7 +1634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), class. (4), break. (2), extends (1)
+> **Frameworks & Libraries:** data (6), ai (4), [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1), [[HTML]] (1)
 > **Env Vars:** gpa (5), html (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
@@ -1644,7 +1646,7 @@ created: 2026-04-29
 
 ### 4. Documentation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/types-of-documentation?u=76281980)
@@ -1689,7 +1691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1), require (1), function (1)
+> **Frameworks & Libraries:** ai (2), api (2), next (1), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** api (2)
 > **Tools:** vs code (1)
@@ -1746,7 +1748,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), class. (2), this, (2), return. (1), let (1)
+> **Frameworks & Libraries:** ai (2), [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** get_age (1), sort_people_by_age_and_name (1)
 > **Documentation:** the documentation (2)
@@ -1854,7 +1856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (2), class. (2)
+> **Frameworks & Libraries:** ai (1), [[Microsoft Copilot|Copilot]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** get_age (1)
@@ -1865,7 +1867,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980)
@@ -1888,6 +1890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), [[Generative AI]] (1), [[LinkedIn]] (1), ai (1), [[Prompt Engineering]] (1)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
 > **URLs:** [casabona.org](https://casabona.org) (1)

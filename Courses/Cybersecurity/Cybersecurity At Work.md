@@ -31,7 +31,7 @@ tags:
   - skill/security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20At%20Work.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Secure behavior in the workplace
+  - [Secure behavior in the workplace](#secure-behavior-in-the-workplace)
 - [**1. Social Engineering Scams and Attacks**](#1-social-engineering-scams-and-attacks) (5 videos)
-  - Social engineering overview
-  - Email phishing
-  - Social media information (over)sharing
-  - Counterfeit apps
-  - Scenario: Voice phishing
+  - [Social engineering overview](#social-engineering-overview)
+  - [Email phishing](#email-phishing)
+  - [Social media information (over)sharing](#social-media-information-oversharing)
+  - [Counterfeit apps](#counterfeit-apps)
+  - [Scenario: Voice phishing](#scenario-voice-phishing)
 - [**2. Wireless Security**](#2-wireless-security) (3 videos)
-  - Public Wi-Fi
-  - Home Wi-Fi
-  - VPN
+  - [Public Wi-Fi](#public-wi-fi)
+  - [Home Wi-Fi](#home-wi-fi)
+  - [VPN](#vpn)
 - [**3. Account Security**](#3-account-security) (3 videos)
-  - Password security
-  - Data breaches and compromised passwords
-  - Multifactor authentication
+  - [Password security](#password-security)
+  - [Data breaches and compromised passwords](#data-breaches-and-compromised-passwords)
+  - [Multifactor authentication](#multifactor-authentication)
 - [**4. Software and Internet Security**](#4-software-and-internet-security) (5 videos)
-  - Updating software
-  - Common vulnerabilities and exposures (CVE)
-  - Malware overview
-  - Malware: Ransomware
-  - The anatomy of a cyber attack
+  - [Updating software](#updating-software)
+  - [Common vulnerabilities and exposures (CVE)](#common-vulnerabilities-and-exposures-cve)
+  - [Malware overview](#malware-overview)
+  - [Malware: Ransomware](#malware-ransomware)
+  - [The anatomy of a cyber attack](#the-anatomy-of-a-cyber-attack)
 - [**5. Hybrid Work Security**](#5-hybrid-work-security) (5 videos)
-  - Physical office security
-  - Physical office security best practices
-  - Laptop and desktop security
-  - Smartphone and mobile device attacks
-  - Scenario: Stolen laptop
+  - [Physical office security](#physical-office-security)
+  - [Physical office security best practices](#physical-office-security-best-practices)
+  - [Laptop and desktop security](#laptop-and-desktop-security)
+  - [Smartphone and mobile device attacks](#smartphone-and-mobile-device-attacks)
+  - [Scenario: Stolen laptop](#scenario-stolen-laptop)
 - [**6. Data Security**](#6-data-security) (3 videos)
-  - Intellectual property
-  - Customer information
-  - Employee information
+  - [Intellectual property](#intellectual-property)
+  - [Customer information](#customer-information)
+  - [Employee information](#employee-information)
 - [**Conclusion**](#conclusion) (1 videos)
-  - You are part of the security team
+  - [You are part of the security team](#you-are-part-of-the-security-team)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure behavior in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980)
@@ -107,13 +107,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), from. (1)
+> **Frameworks & Libraries:** data (2), [[Cybersecurity]] (2), [[Security]] (1), [[LinkedIn]] (1)
 > **Speakers:** - i (1)
 
 
 ### 1. Social Engineering Scams and Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Social engineering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980)
@@ -142,6 +142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Engineering]] (3), [[Security]] (2), [[Hardware]] (1)
 > **Speakers:** - i (1)
 
 #### Email phishing
@@ -181,6 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (4), data (2), [[Engineering]] (1), [[Security]] (1)
 > **URLs:** [amazon.com](https://amazon.com) (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -227,6 +229,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (2), [[Phishing]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** icu (1)
 > **Speakers:** - why (1)
 
@@ -277,9 +280,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Google]] (1), [[Security]] (1), web (1), data (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** new. (1)
 > **Env Vars:** url (1)
 > **Exercise Files:** download the (1)
 > **Best Practices:** make sure to (1)
@@ -367,16 +370,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (6), [[Security]] (2)
 > **Speakers:** - no (2), - this (2), - there (2), - while (1), - hello (1)
 > **Env Vars:** ceo (3), irs (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** try, (1)
 > **Warnings:** warning (1)
 
 
 ### 2. Wireless Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Public Wi-Fi
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980)
@@ -435,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), let (1), private (1)
+> **Frameworks & Libraries:** [[Security]] (2), vpn (2), [[Wireless Networking]] (1), data (1), traffic (1)
 > **Env Vars:** vpn (2), wpa2 (1), https (1)
 > **Analogies:** kind of like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -500,9 +503,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Microsoft Office|Office]] (1), [[Security]] (1), vpn (1)
 > **Env Vars:** mac (2), wpa (1), wpa3 (1), ssid (1), vpn (1)
 > **Prerequisites:** set up (2), you'll need (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - working (1)
 
 #### VPN
@@ -532,15 +535,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (8), [[Virtual Private Network (VPN)|Virtual private network]] (1), traffic (1)
 > **Env Vars:** vpn (8)
-> **Code Keywords:** public (2), private (1), pass (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - if (1)
 
 
 ### 3. Account Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Password security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/password-security?u=76281980)
@@ -611,8 +614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (2), [[Databases]] (1)
 > **CLI Commands:** make (1), cat (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
@@ -657,7 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), this, (1), protected (1)
+> **Frameworks & Libraries:** data (6), [[Security]] (3), [[NIST]] (2), feature (1), [[Cybersecurity]] (1)
 > **Env Vars:** nist (2)
 > **Definitions:** is a  (1), stands for (1)
 > **Exercise Files:** download the (1)
@@ -694,6 +697,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (1), [[NIST]] (1)
 > **Env Vars:** pin (2), atm (1), nist (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - multifactor (1)
@@ -701,7 +705,7 @@ created: 2026-04-29
 
 ### 4. Software and Internet Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Updating software
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/updating-software?u=76281980)
@@ -754,9 +758,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), product (1), [[Engineering]] (1), teams (1), next (1)
 > **CLI Commands:** find (2)
 > **Definitions:** means that (2)
-> **Code Keywords:** public (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** heads up (1)
 > **Prerequisites:** install (1)
@@ -787,10 +791,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Databases]] (1)
 > **Env Vars:** cve (4)
 > **Definitions:** is called (1), stands for (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
@@ -825,8 +829,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Endpoint Security]] (2), [[Engineering]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Definitions:** short for (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - malware (1)
@@ -894,9 +898,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Cryptocurrency]] (1), [[Endpoint Security]] (1), cloud (1), [[Security]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** protected (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
@@ -1002,6 +1006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), data (2), teams (1), [[Hardware]] (1), [[Engineering]] (1)
 > **Speakers:** - oh (5), - that (3), - i (2), - and (2), - we (1)
 > **Env Vars:** cve (1), mfa (1)
 > **Definitions:** is a  (2)
@@ -1012,7 +1017,7 @@ created: 2026-04-29
 
 ### 5. Hybrid Work Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Physical office security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980)
@@ -1053,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Cybersecurity]] (2), data (2), [[Engineering]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** cia (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - it (1)
@@ -1113,6 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Microsoft Office|Office]] (2)
 > **Best Practices:** best practice (2), make sure to (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1165,7 +1171,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), protected (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Microsoft Office|Office]] (2), data (1), [[Privacy]] (1)
 > **Env Vars:** usb (2), atm (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1224,9 +1230,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Security]] (1)
 > **Code Identifiers:** iphone (2), icloud (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else. (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - i (1)
@@ -1348,8 +1354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Privacy]] (1), [[Microsoft Office|Office]] (1), next (1)
 > **Speakers:** - [instructor] (4), - oh (2), - the (1), - sam (1), - password (1)
-> **Code Keywords:** let (2), protected (1), public (1), finally, (1)
 > **Env Vars:** usb (3), pin (1), atm (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -1360,7 +1366,7 @@ created: 2026-04-29
 
 ### 6. Data Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intellectual property
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980)
@@ -1403,9 +1409,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Cybersecurity]] (2), [[Engineering]] (1), [[Data Classification]] (1), [[Security]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - at (1)
 
 #### Customer information
@@ -1431,6 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - another (1)
 
@@ -1459,6 +1466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Security]] (2), [[Cybersecurity]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - think (1)
@@ -1466,7 +1474,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### You are part of the security team
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980)
@@ -1509,7 +1517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** [[Security]] (5), data (4), [[Cybersecurity]] (3), [[Endpoint Security]] (1)
 > **Speakers:** - the (1)
 
 

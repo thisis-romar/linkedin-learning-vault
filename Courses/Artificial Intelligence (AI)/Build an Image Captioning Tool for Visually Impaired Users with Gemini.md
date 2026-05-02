@@ -40,7 +40,7 @@ tags:
   - skill/computer-vision
   - skill/google-gemini
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20an%20Image%20Captioning%20Tool%20for%20Visually%20Impaired%20Users%20with%20Gemini.md)
@@ -59,36 +59,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Image captioning with AI
-  - What you should know
-  - Who this course is for
+  - [Image captioning with AI](#image-captioning-with-ai)
+  - [What you should know](#what-you-should-know)
+  - [Who this course is for](#who-this-course-is-for)
 - [**1. Setting Up Access to Gemini API**](#1-setting-up-access-to-gemini-api) (4 videos)
-  - Understanding Gemini models
-  - Gemini pricing
-  - Signing up for an Google AI Studio account
-  - Getting your API key
+  - [Understanding Gemini models](#understanding-gemini-models)
+  - [Gemini pricing](#gemini-pricing)
+  - [Signing up for an Google AI Studio account](#signing-up-for-an-google-ai-studio-account)
+  - [Getting your API key](#getting-your-api-key)
 - [**2. Building the Interface**](#2-building-the-interface) (5 videos)
-  - Cloning the seed project
-  - Project code walkthrough
-  - Adding the image upload functionality
-  - Adding the prompt functionality
-  - Writing the caption display
+  - [Cloning the seed project](#cloning-the-seed-project)
+  - [Project code walkthrough](#project-code-walkthrough)
+  - [Adding the image upload functionality](#adding-the-image-upload-functionality)
+  - [Adding the prompt functionality](#adding-the-prompt-functionality)
+  - [Writing the caption display](#writing-the-caption-display)
 - [**3. Building the Backend: Connecting to Gemini**](#3-building-the-backend-connecting-to-gemini) (5 videos)
-  - Building out the Express.js API
-  - Configuring the Generative AI SDK
-  - Adding routes
-  - Setting up file upload functionality
-  - Writing the prompt request and response
+  - [Building out the Express.js API](#building-out-the-expressjs-api)
+  - [Configuring the Generative AI SDK](#configuring-the-generative-ai-sdk)
+  - [Adding routes](#adding-routes)
+  - [Setting up file upload functionality](#setting-up-file-upload-functionality)
+  - [Writing the prompt request and response](#writing-the-prompt-request-and-response)
 - [**4. Bringing It All Together**](#4-bringing-it-all-together) (3 videos)
-  - Connecting the frontend to the API
-  - Adding a progress indicator
-  - Using the Web Speech API to read captions
+  - [Connecting the frontend to the API](#connecting-the-frontend-to-the-api)
+  - [Adding a progress indicator](#adding-a-progress-indicator)
+  - [Using the Web Speech API to read captions](#using-the-web-speech-api-to-read-captions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Image captioning with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/image-captioning-with-ai?u=76281980)
@@ -107,8 +107,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (5), api (5), [[Google]] (2), web (1), ai (1)
 > **Env Vars:** api (5)
-> **Code Keywords:** let (1)
 
 #### What you should know
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/what-you-should-know?u=76281980)
@@ -137,12 +137,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Programming]] (1), [[HTML]] (1), css (1), [[JavaScript]] (1)
 > **Env Vars:** ide (2), html (1), css (1), api (1)
 > **Prerequisites:** you need to have (2), required to (1)
 > **CLI Commands:** git (1), node (1)
 > **Tools:** visual studio (1), github (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** let (1)
 
 #### Who this course is for
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/who-this-course-is-for?u=76281980)
@@ -175,13 +175,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (3), application (2), [[Google]] (2), [[Gemini]] (2), api (2)
 > **Env Vars:** api (2)
 
 
 ### 1. Setting Up Access to Gemini API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Gemini models
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980)
@@ -270,8 +270,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (14), [[Tokens]] (5), prompt (3), api (3), next (3)
 > **Env Vars:** api (3), aqa (2)
-> **Code Keywords:** let (2), super (1)
 > **Definitions:** is a  (1), means that (1), stands for (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -332,8 +332,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (6), [[Tokens]] (5), [[Google]] (3), api (2), ai (2)
 > **Versions:** 1.5 (2), 1.0 (1), 0.5 (1)
-> **Code Keywords:** public (1), switch (1), for. (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** dropdown (1), switch to (1)
 > **CLI Commands:** make (1)
@@ -374,8 +374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (8), api (7), [[Gemini]] (6), ai (6), prompt (2)
 > **Env Vars:** api (7)
-> **Code Keywords:** interface (1), switch (1)
 > **Versions:** 1.5 (1), 1.0 (1)
 > **CLI Commands:** make (1)
 > **URLs:** [google.com](https://google.com) (1)
@@ -452,8 +452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (20), [[Google]] (4), ai (2), cloud (2), [[Search]] (2)
 > **Env Vars:** api (20)
-> **Code Keywords:** let (3), from. (1), public (1), delete (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Cross-References:** previous video (1)
 > **Best Practices:** the key is (1)
@@ -461,7 +461,7 @@ created: 2026-04-29
 
 ### 2. Building the Interface
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloning the seed project
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980)
@@ -514,8 +514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (8), [[Gemini]] (2), [[GitHub]] (2), application (1), api (1)
 > **CLI Commands:** git (8), make (1)
-> **Code Keywords:** let (3), interface (1)
 > **Env Vars:** api (1), url (1)
 > **Tools:** github (2)
 > **Exercise Files:** download the (2)
@@ -660,7 +660,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), module (3), default. (1), interface (1), import, (1)
+> **Frameworks & Libraries:** application (6), [[HTML]] (4), next (3), [[JavaScript]] (3), hit (2)
 > **Env Vars:** http (4), css (2), dom (1), html (1), doctype (1)
 > **File Paths:** index.html (3), script.js (2), node.js (1)
 > **Tools:** vs code (3), visual studio (1), terminal (1)
@@ -753,7 +753,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (5), this, (2), this. (1)
+> **Frameworks & Libraries:** next (2), front-end (1), [[JavaScript]] (1), data (1), [[HTML]] (1)
 > **Code Identifiers:** imagepreview (6), getelementbyid (3), imageinput (1), addeventlistener (1), createobjecturl (1)
 > **File Paths:** script.js (3), index.html (1)
 > **Env Vars:** url (1), api (1)
@@ -877,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (23), let (14), async (2), const (2), pass (1)
+> **Frameworks & Libraries:** data (6), next (5), api (2), [[HTML]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** getcaptionforimage (5), formdata (4), imageinput (3), displaycaption (2), imagefile (1)
 > **File Paths:** script.js (2), index.html (2)
 > **Cross-References:** in the next (2), previous video (1)
@@ -921,7 +921,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5)
+> **Frameworks & Libraries:** next (3), [[HTML]] (1), application (1), [[Gemini]] (1), api (1)
 > **Code Identifiers:** displaycaption (3), imagecaption (2), getcaptionforimage (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **File Paths:** index.html (1), script.js (1)
@@ -933,7 +933,7 @@ created: 2026-04-29
 
 ### 3. Building the Backend: Connecting to Gemini
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building out the Express.js API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980)
@@ -1004,7 +1004,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), pass (1), finally, (1)
+> **Frameworks & Libraries:** express (5), api (4), [[Node.js]] (4), application (3), [[npm]] (2)
 > **CLI Commands:** node (5), npm (2), cd (1), make (1)
 > **File Paths:** node.js (4), server.js (3), package.json (1)
 > **Env Vars:** api (4), http (1), json (1)
@@ -1119,8 +1119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (24), [[Gemini]] (16), [[Google]] (6), [[Generative AI]] (4), next (3)
 > **Env Vars:** api (24), api_key (1)
-> **Code Keywords:** let (13), pass (3), public (1), this, (1), continue (1)
 > **CLI Commands:** make (4), node (2)
 > **Prerequisites:** configure (3), install (1), set up (1), getting started (1)
 > **File Paths:** node.js (2), dotenv.config (1), backend/.env (1), server.js (1)
@@ -1167,7 +1167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (1)
+> **Frameworks & Libraries:** application (2), ai (2), api (2), web (1), next (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** scroll down (1)
 
@@ -1274,7 +1274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), const (2), require (2), pass (2), this. (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (2), [[Gemini]] (2), hit (1), next (1)
 > **Prerequisites:** install (5), configure (3), set up (2)
 > **CLI Commands:** node (2), npm (2)
 > **Tools:** vs code (2), terminal (1)
@@ -1358,7 +1358,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), pass (2), type. (1), for, (1)
+> **Frameworks & Libraries:** [[Gemini]] (9), prompt (5), data (4), next (3), api (2)
 > **Code Identifiers:** inlinedata (2), generatecontent (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (2)
@@ -1368,7 +1368,7 @@ created: 2026-04-29
 
 ### 4. Bringing It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting the frontend to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980)
@@ -1511,7 +1511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (3), switch (1)
+> **Frameworks & Libraries:** application (5), api (4), front-end (1), node (1), [[HTML]] (1)
 > **CLI Commands:** make (5), npx (2), find (2), node (1)
 > **Code Identifiers:** textcontent (4), displaycaption (2), getcaptionforimage (1), getcaptionforimagefunction (1), imagecaption (1)
 > **File Paths:** script.js (3), server.js (1), index.html (1)
@@ -1567,7 +1567,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), this, (1)
+> **Frameworks & Libraries:** hit (2), [[LinkedIn]] (1), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** displaycaption (1), getcaptionforimage (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** picture (1)
@@ -1653,7 +1653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (9), finally, (2), pass (1)
+> **Frameworks & Libraries:** api (4), application (2), [[User Experience (UX)|User experience]] (1), web (1), feature (1)
 > **Code Identifiers:** speaktext (4), speechsynthesis (2), displaycaption (1)
 > **Env Vars:** api (4)
 > **File Paths:** script.js (1)
@@ -1664,7 +1664,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980)
@@ -1687,8 +1687,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Gemini]] (3), [[LinkedIn]] (2), api (2), data (1)
 > **Env Vars:** api (2)
-> **Code Keywords:** case. (1)
 > **Tools:** github (1)
 > **Prerequisites:** getting started (1)
 

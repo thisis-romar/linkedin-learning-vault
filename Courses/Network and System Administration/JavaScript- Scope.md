@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Scope.md)
@@ -49,29 +49,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Learn how to properly scope your variables
-  - Course prerequisites
+  - [Learn how to properly scope your variables](#learn-how-to-properly-scope-your-variables)
+  - [Course prerequisites](#course-prerequisites)
 - [**1. Introduction to Variable Scope**](#1-introduction-to-variable-scope) (6 videos)
-  - Course setup
-  - What is scope in JavaScript?
-  - What are closures?
-  - The different types of scope
-  - Hoisting explained
-  - CoderPad introduction
+  - [Course setup](#course-setup)
+  - [What is scope in JavaScript?](#what-is-scope-in-javascript)
+  - [What are closures?](#what-are-closures)
+  - [The different types of scope](#the-different-types-of-scope)
+  - [Hoisting explained](#hoisting-explained)
+  - [CoderPad introduction](#coderpad-introduction)
 - [**2. Global Variables**](#2-global-variables) (1 videos)
-  - What are global variables?
+  - [What are global variables?](#what-are-global-variables)
 - [**3. Local Variables**](#3-local-variables) (1 videos)
-  - What are local variables?
+  - [What are local variables?](#what-are-local-variables)
 - [**4. Block-Scoped Variables**](#4-block-scoped-variables) (2 videos)
-  - What are block-scoped variables?
-  - Explore block-scoped variables with code
+  - [What are block-scoped variables?](#what-are-block-scoped-variables)
+  - [Explore block-scoped variables with code](#explore-block-scoped-variables-with-code)
 - [**Conclusion**](#conclusion) (2 videos)
-  - JavaScript strict mode
-  - Next steps
+  - [JavaScript strict mode](#javascript-strict-mode)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn how to properly scope your variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/learn-how-to-properly-scope-your-variables?u=76281980)
@@ -100,7 +100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), next (1)
 > **Speakers:** - [emmanuel] (1)
 
 #### Course prerequisites
@@ -116,12 +116,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Variable Scope
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980)
@@ -190,7 +191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (3), [[npm]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (4), click on (4)
 > **Tools:** vs code (6), visual studio (1)
 > **Prerequisites:** install (4), set up (1)
@@ -238,7 +239,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (6), var (5), const (4), this. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** screamwarrior (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
@@ -290,7 +291,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (4), this, (2), this. (1), const (1)
 > **Code Identifiers:** shootwarrior (2), newwarrior (2), screamwarrior (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -337,7 +337,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), const (2)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** screamwarrior (1), newwarrior (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -430,7 +430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (3), var (2), this, (1), this. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -442,7 +442,7 @@ created: 2026-04-29
 
 ### 2. Global Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are global variables?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980)
@@ -579,7 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (21), function (6), const (6), var (4), this, (3)
+> **Frameworks & Libraries:** data (2), [[JavaScript]] (2), application (1), [[Privacy]] (1), [[Security]] (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), means that (1)
@@ -591,7 +591,7 @@ created: 2026-04-29
 
 ### 3. Local Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are local variables?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-are-local-variables?u=76281980)
@@ -676,7 +676,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (18), let (14), this, (3), this. (2), else. (1)
 > **Definitions:** is a  (4), is called (2), in other words (1)
 > **Cross-References:** go back to (2)
 > **Exercise Files:** template (1), exercise files (1)
@@ -686,7 +685,7 @@ created: 2026-04-29
 
 ### 4. Block-Scoped Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are block-scoped variables?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-are-block-scoped-variables?u=76281980)
@@ -723,7 +722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), const (4), function (3), this. (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** warriorsperplatoon (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Env Vars:** es6 (1)
@@ -814,7 +813,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (42), function (6), const (4), this. (1), this, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -824,7 +822,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript strict mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/javascript-strict-mode?u=76281980)
@@ -869,7 +867,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), this, (1), else. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), feature (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
@@ -891,6 +889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), next (1)
 > **Speakers:** - [emmanuel] (1)
 
 

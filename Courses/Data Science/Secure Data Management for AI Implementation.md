@@ -39,7 +39,7 @@ tags:
   - skill/ai-security
   - skill/data-security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Secure%20Data%20Management%20for%20AI%20Implementation.md)
@@ -58,35 +58,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Protecting data communications in AI systems
+  - [Protecting data communications in AI systems](#protecting-data-communications-in-ai-systems)
 - [**1. Data Security Fundamentals**](#1-data-security-fundamentals) (4 videos)
-  - Database security overview
-  - What's security architecture?
-  - Identifying database threats and vulnerabilities
-  - Protecting against malware
+  - [Database security overview](#database-security-overview)
+  - [What's security architecture?](#whats-security-architecture)
+  - [Identifying database threats and vulnerabilities](#identifying-database-threats-and-vulnerabilities)
+  - [Protecting against malware](#protecting-against-malware)
 - [**2. Granular Access Control**](#2-granular-access-control) (4 videos)
-  - Database control language overview
-  - Authentication schemes
-  - Authorization methods
-  - Encryption practices
+  - [Database control language overview](#database-control-language-overview)
+  - [Authentication schemes](#authentication-schemes)
+  - [Authorization methods](#authorization-methods)
+  - [Encryption practices](#encryption-practices)
 - [**3.  Securing database-to-database communications**](#3-securing-database-to-database-communications) (4 videos)
-  - Monitoring and protecting data sources
-  - Replication: to-dos and to-don'ts
-  - Transfer Issues from applications to the cloud
-  - Security auditing
+  - [Monitoring and protecting data sources](#monitoring-and-protecting-data-sources)
+  - [Replication: to-dos and to-don'ts](#replication-to-dos-and-to-donts)
+  - [Transfer Issues from applications to the cloud](#transfer-issues-from-applications-to-the-cloud)
+  - [Security auditing](#security-auditing)
 - [**4. Multi-level security in database systems**](#4-multi-level-security-in-database-systems) (3 videos)
-  - Vulnerability assessment and patch management
-  - Reinforcing and enforcing application security
-  - Reinforcing and enforcing security management
+  - [Vulnerability assessment and patch management](#vulnerability-assessment-and-patch-management)
+  - [Reinforcing and enforcing application security](#reinforcing-and-enforcing-application-security)
+  - [Reinforcing and enforcing security management](#reinforcing-and-enforcing-security-management)
 - [**5. Case study: Use AI to Secure Your Data**](#5-case-study-use-ai-to-secure-your-data) (2 videos)
-  - Case study setup
-  - Case study walkthrough
+  - [Case study setup](#case-study-setup)
+  - [Case study walkthrough](#case-study-walkthrough)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting data communications in AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980)
@@ -109,13 +109,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** database (2), [[Security]] (1), ai (1), data (1), [[Database Administration]] (1)
 > **Speakers:** - how (1)
 
 
 ### 1. Data Security Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Database security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980)
@@ -180,8 +180,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), database (12), [[Security]] (5), next (3), [[Microsoft Products|Products]] (1)
 > **Cross-References:** in the next (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What's security architecture?
@@ -243,7 +243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (11), data (9), database (4), [[Databases]] (1), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -307,8 +307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), data (5), [[SQL]] (3), [[Databases]] (3), [[Security]] (2)
 > **Env Vars:** sql (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -368,8 +368,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (6), next (2), [[Algorithms]] (2), [[Databases]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next chapter (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -378,7 +378,7 @@ created: 2026-04-29
 
 ### 2. Granular Access Control
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Database control language overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980)
@@ -431,6 +431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (11), [[SQL]] (5), data (4), [[Security]] (3), [[Data Manipulation]] (1)
 > **Env Vars:** sql (5), dcl (4), grant (3), revoke (2)
 > **Code Identifiers:** privileges_names (2)
 > **Cross-References:** in the next (1)
@@ -487,6 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), data (2), next (2), [[Security]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** pin (2), mfa (1)
 > **Prerequisites:** required to (1), set up (1)
@@ -557,9 +559,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (3), database (1), hr (1), business (1)
 > **Env Vars:** abac (1), aac (1), mac (1), dac (1)
 > **Analogies:** for example (2), for instance (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -628,8 +630,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Security]] (3), [[Algorithms]] (2), [[Privacy]] (1), [[Databases]] (1)
 > **Env Vars:** aes (2), des (2), tdes (1), atm (1), rsa (1)
-> **Code Keywords:** private (3), this: (1), public (1)
 > **Definitions:** is called (2), is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -638,7 +640,7 @@ created: 2026-04-29
 
 ### 3.  Securing database-to-database communications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring and protecting data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980)
@@ -693,6 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Security]] (6), database (5), [[Real-Time]] (2), [[Network Security]] (2)
 > **Cross-References:** we covered (2), in the last (1), in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -749,6 +752,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Databases]] (4), database (4), management (2), [[Real-Time]] (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -802,9 +806,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), cloud (7), web (1), traffic (1), [[Privacy]] (1)
 > **Env Vars:** sftp (2), https (2), ftps (2), ssl (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** private (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [lecturer] (1)
@@ -872,13 +876,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), [[Penetration Testing]] (3), [[Databases]] (1), [[Hardware]] (1), next (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Multi-level security in database systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vulnerability assessment and patch management
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980)
@@ -941,7 +946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), let (1)
+> **Frameworks & Libraries:** [[Security]] (8), management (6), data (5), ai (3), [[Vulnerability Assessment]] (3)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1009,8 +1014,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (16), application (9), [[Databases]] (1), data (1), [[Threat Modeling]] (1)
 > **Exercise Files:** source code (3)
-> **Code Keywords:** static (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1061,6 +1066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (10), database (9), data (5), ai (2), management (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1070,7 +1076,7 @@ created: 2026-04-29
 
 ### 5. Case study: Use AI to Secure Your Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Case study setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980)
@@ -1127,8 +1133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (8), data (7), management (6), [[Security]] (6), [[MySQL]] (1)
 > **Env Vars:** copa (8), sap (1), aes (1), rsa (1), des (1)
-> **Code Keywords:** case, (2), let (1), require (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1183,14 +1189,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), database (2), data (2), management (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** aes (2), sms (1), rsa (1), des (1), soc (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980)
@@ -1215,6 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Data Engineering]] (2), data (2), dbt (1), [[SQL]] (1), database (1)
 > **URLs:** [dataedx.com](https://dataedx.com) (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)

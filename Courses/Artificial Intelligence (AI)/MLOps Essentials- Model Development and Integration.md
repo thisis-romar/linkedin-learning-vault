@@ -36,7 +36,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/MLOps%20Essentials-%20Model%20Development%20and%20Integration.md)
@@ -55,53 +55,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started with MLOps
-  - Scope and prerequisites
+  - [Getting started with MLOps](#getting-started-with-mlops)
+  - [Scope and prerequisites](#scope-and-prerequisites)
 - [**1. Introduction to MLOps**](#1-introduction-to-mlops) (6 videos)
-  - Machine learning life cycle
-  - Unique challenges with ML
-  - What is DevOps?
-  - What is MLOps?
-  - Principles of MLOps
-  - When to start MLOps?
+  - [Machine learning life cycle](#machine-learning-life-cycle)
+  - [Unique challenges with ML](#unique-challenges-with-ml)
+  - [What is DevOps?](#what-is-devops)
+  - [What is MLOps?](#what-is-mlops)
+  - [Principles of MLOps](#principles-of-mlops)
+  - [When to start MLOps?](#when-to-start-mlops)
 - [**2. Requirements and Design**](#2-requirements-and-design) (5 videos)
-  - Selecting ML projects
-  - Creating requirements
-  - Designing the ML workflow
-  - Assembling the team
-  - Choosing tools and technologies
+  - [Selecting ML projects](#selecting-ml-projects)
+  - [Creating requirements](#creating-requirements)
+  - [Designing the ML workflow](#designing-the-ml-workflow)
+  - [Assembling the team](#assembling-the-team)
+  - [Choosing tools and technologies](#choosing-tools-and-technologies)
 - [**3. Data Processing and Management**](#3-data-processing-and-management) (6 videos)
-  - Managed data pipelines
-  - Automated data validation
-  - Managed feature stores
-  - Data versioning
-  - Data governance
-  - Tools and technologies for data processing
+  - [Managed data pipelines](#managed-data-pipelines)
+  - [Automated data validation](#automated-data-validation)
+  - [Managed feature stores](#managed-feature-stores)
+  - [Data versioning](#data-versioning)
+  - [Data governance](#data-governance)
+  - [Tools and technologies for data processing](#tools-and-technologies-for-data-processing)
 - [**4. Continuous Training**](#4-continuous-training) (6 videos)
-  - Managed training pipelines
-  - Creating data labels
-  - Experiment tracking
-  - AutoML
-  - Tools and technologies for training
-  - Training with generative AI
+  - [Managed training pipelines](#managed-training-pipelines)
+  - [Creating data labels](#creating-data-labels)
+  - [Experiment tracking](#experiment-tracking)
+  - [AutoML](#automl)
+  - [Tools and technologies for training](#tools-and-technologies-for-training)
+  - [Training with generative AI](#training-with-generative-ai)
 - [**5. Model Management**](#5-model-management) (5 videos)
-  - Model versioning
-  - Model registry
-  - Benchmarking models
-  - Model life cycle management
-  - Tools and technologies for model management
+  - [Model versioning](#model-versioning)
+  - [Model registry](#model-registry)
+  - [Benchmarking models](#benchmarking-models)
+  - [Model life cycle management](#model-life-cycle-management)
+  - [Tools and technologies for model management](#tools-and-technologies-for-model-management)
 - [**6. Continuous Integration**](#6-continuous-integration) (5 videos)
-  - Solution integration pipelines
-  - Notebook to software
-  - Solution integration patterns
-  - Best practices for solution integration
-  - Integration with generative AI
+  - [Solution integration pipelines](#solution-integration-pipelines)
+  - [Notebook to software](#notebook-to-software)
+  - [Solution integration patterns](#solution-integration-patterns)
+  - [Best practices for solution integration](#best-practices-for-solution-integration)
+  - [Integration with generative AI](#integration-with-generative-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing on with MLOps
+  - [Continuing on with MLOps](#continuing-on-with-mlops)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?u=76281980)
@@ -126,6 +126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), business (1), data (1), next (1), [[Data Engineering]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -192,7 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[MLOps]] (11), management (3), data (3), [[Feature Engineering]] (1), [[Responsible AI]] (1)
 > **Env Vars:** aws (1), gcp (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
@@ -203,7 +204,7 @@ created: 2026-04-29
 
 ### 1. Introduction to MLOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning life cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/machine-learning-life-cycle?u=76281980)
@@ -260,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** data (7), [[Feature Engineering]] (2), business (2), application (1), product (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -339,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** data (6), [[Engineering]] (5), teams (2), [[Vanilla]] (1), management (1)
 > **Speakers:** - [instructor] (1)
 
 #### What is DevOps?
@@ -389,6 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (8), [[Software Development]] (3), [[Agile Development|Agile]] (2), next (2), management (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -474,7 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), extends (1), finally, (1)
+> **Frameworks & Libraries:** [[MLOps]] (9), data (5), [[Data Engineering]] (4), [[DevOps]] (3), [[Engineering]] (3)
 > **Definitions:** is a  (4)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
@@ -529,8 +531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (6), teams (4), data (2), [[Automation]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### When to start MLOps?
@@ -612,15 +614,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (7), data (5), [[Engineering]] (3), business (3), [[Algorithms]] (1)
 > **Best Practices:** recommended (3)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 2. Requirements and Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting ML projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980)
@@ -677,7 +679,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** business (3), next (2), data (2), product (1), [[Algorithms]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -771,7 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1), finally, (1)
+> **Frameworks & Libraries:** next (3), data (3), product (2), application (1), business (1)
 > **Analogies:** for example (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -833,8 +835,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (3), data (3), teams (2), [[Microsoft Products|Products]] (1), [[Automation]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -899,7 +901,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), for. (1)
+> **Frameworks & Libraries:** data (7), business (3), [[Data Engineering]] (2), [[Engineering]] (1), teams (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1), - all (1)
 > **Best Practices:** recommended (1)
@@ -951,8 +953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (4), [[Microsoft Products|Products]] (2), product (2), [[MLflow]] (1), cloud (1)
 > **Env Vars:** aws (1), gcp (1), nlp (1)
-> **Code Keywords:** function (2)
 > **CLI Commands:** aws (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -960,7 +962,7 @@ created: 2026-04-29
 
 ### 3. Data Processing and Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managed data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980)
@@ -1047,7 +1049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (1), finally, (1)
+> **Frameworks & Libraries:** data (34), feature (5), [[Engineering]] (3), [[Data Engineering]] (1), [[Forms]] (1)
 > **Definitions:** is an  (1), known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1096,8 +1098,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), feature (3), next (1)
 > **Best Practices:** recommended (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Managed feature stores
@@ -1151,8 +1153,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (10), data (8), teams (5), database (1)
 > **Best Practices:** recommended (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1204,7 +1206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1)
+> **Frameworks & Libraries:** data (14), feature (3), teams (1)
 > **Env Vars:** dvc (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1279,8 +1281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (39), [[Security]] (3), [[Privacy]] (3), [[MLOps]] (2), [[Automation]] (2)
 > **Definitions:** is a  (4), means that (1)
-> **Code Keywords:** finally, (2), let (1), delete (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1309,6 +1311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Databases]] (2), management (2), [[Data Engineering]] (1), [[Big Data]] (1)
 > **CLI Commands:** apache (2), mysql (1)
 > **Env Vars:** rdbms (1), dvc (1)
 > **Code Identifiers:** lakefs (1)
@@ -1318,7 +1321,7 @@ created: 2026-04-29
 
 ### 4. Continuous Training
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managed training pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980)
@@ -1397,7 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[MLOps]] (5), feature (3), [[Automation]] (3), [[Data Engineering]] (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -1472,7 +1475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** data (12), [[Unstructured Data]] (2), next (1)
 > **Analogies:** for example (3)
 > **Versions:** 4.5 (1)
 > **Best Practices:** recommended (1)
@@ -1543,6 +1546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), next (3), [[MLOps]] (1), [[Deep Learning]] (1)
 > **Prerequisites:** set up (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1636,7 +1640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), let (1), finally, (1)
+> **Frameworks & Libraries:** data (4), [[Automation]] (3), feature (2), next (2), [[Search]] (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
@@ -1663,8 +1667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Python (Programming Language)|Python]] (1), [[Git]] (1), management (1), [[MLflow]] (1)
 > **CLI Commands:** python (1), git (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** coming up (1)
 > **Tools:** jupyter (1)
 > **Exercise Files:** source code (1)
@@ -1732,13 +1736,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), override (1)
+> **Frameworks & Libraries:** data (7), [[Generative AI]] (2), ai (1), [[Fine Tuning]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Model Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Model versioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980)
@@ -1771,7 +1775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), management (2), [[MLOps]] (1), [[Version Control]] (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1820,6 +1824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Metadata]] (3), database (2), teams (2), feature (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1895,7 +1900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), finally, (1), require (1), let (1)
+> **Frameworks & Libraries:** [[Analytics]] (2), [[Hardware]] (1), power (1), next (1), data (1)
 > **Prerequisites:** setup (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
@@ -1969,7 +1974,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), else, (1)
+> **Frameworks & Libraries:** [[Integration Testing]] (3), [[MLOps]] (1), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
@@ -2002,15 +2007,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), [[MLflow]] (2), [[Microsoft Products|Products]] (1), [[MLOps]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Continuous Integration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution integration pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-pipelines?u=76281980)
@@ -2063,8 +2068,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (1), [[Microservices]] (1), data (1), feature (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), function (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2155,7 +2160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), lambda (1), finally, (1), module (1)
+> **Frameworks & Libraries:** data (3), database (3), [[Embedded Software]] (2), api (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** api (2), sdk (1)
 > **Best Practices:** recommended (1)
@@ -2222,8 +2227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Team Collaboration]] (1), teams (1), [[Automation]] (1)
 > **Versions:** 3.0 (5), version 2 (3), version 5 (3), 5.0 (2), version 3 (1)
-> **Code Keywords:** let (2), case, (1)
 > **Speakers:** - when (1), - what (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** asap (1)
@@ -2252,7 +2257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2299,6 +2304,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), application (4), [[Integration Testing]] (4), [[Security]] (2), cloud (1)
 > **Env Vars:** aws (1), gcp (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [narrator] (1)
@@ -2306,7 +2312,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/continuing-on-with-mlops?u=76281980)
@@ -2333,8 +2339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (4)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 

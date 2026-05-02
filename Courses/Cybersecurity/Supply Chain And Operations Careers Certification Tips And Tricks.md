@@ -26,7 +26,7 @@ tags:
   - skill/supply-chain-operations
   - skill/career-management
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Supply%20Chain%20And%20Operations%20Careers%20Certification%20Tips%20And%20Tricks.md)
@@ -45,64 +45,64 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Overview of supply chain certifications
-  - What you should know
-  - Types of credentials
+  - [Overview of supply chain certifications](#overview-of-supply-chain-certifications)
+  - [What you should know](#what-you-should-know)
+  - [Types of credentials](#types-of-credentials)
 - [**1. Supply Chain Certifications**](#1-supply-chain-certifications) (14 videos)
-  - Overview of CSCMP credentials
-  - Overview of APICS and ASCM credentials
-  - Overview of ISM credentials
-  - Overview of CILT credentials
-  - Overview of CIPS credentials
-  - Overview of SOLE credentials
-  - Overview of supply chain Canada credential
-  - Overview of DDI credentials
-  - Overview of MITx credentials
-  - Overview of university certificates
-  - Overview of IBF credentials
-  - Overview of Six Sigma credentials
-  - Other common credentials
-  - What certifications are best for you?
+  - [Overview of CSCMP credentials](#overview-of-cscmp-credentials)
+  - [Overview of APICS and ASCM credentials](#overview-of-apics-and-ascm-credentials)
+  - [Overview of ISM credentials](#overview-of-ism-credentials)
+  - [Overview of CILT credentials](#overview-of-cilt-credentials)
+  - [Overview of CIPS credentials](#overview-of-cips-credentials)
+  - [Overview of SOLE credentials](#overview-of-sole-credentials)
+  - [Overview of supply chain Canada credential](#overview-of-supply-chain-canada-credential)
+  - [Overview of DDI credentials](#overview-of-ddi-credentials)
+  - [Overview of MITx credentials](#overview-of-mitx-credentials)
+  - [Overview of university certificates](#overview-of-university-certificates)
+  - [Overview of IBF credentials](#overview-of-ibf-credentials)
+  - [Overview of Six Sigma credentials](#overview-of-six-sigma-credentials)
+  - [Other common credentials](#other-common-credentials)
+  - [What certifications are best for you?](#what-certifications-are-best-for-you)
 - [**2. Supply Chain Functions**](#2-supply-chain-functions) (9 videos)
-  - Supply chain overview
-  - Supply chain planning and engineering
-  - Basics of sourcing and procurement
-  - Basics of manufacturing
-  - Basics of distribution and logistics
-  - Basics of sales, marketing, and customer service
-  - Basics of sustainability
-  - Basics of material handling equipment
-  - Supply chain information systems
+  - [Supply chain overview](#supply-chain-overview)
+  - [Supply chain planning and engineering](#supply-chain-planning-and-engineering)
+  - [Basics of sourcing and procurement](#basics-of-sourcing-and-procurement)
+  - [Basics of manufacturing](#basics-of-manufacturing)
+  - [Basics of distribution and logistics](#basics-of-distribution-and-logistics)
+  - [Basics of sales, marketing, and customer service](#basics-of-sales-marketing-and-customer-service)
+  - [Basics of sustainability](#basics-of-sustainability)
+  - [Basics of material handling equipment](#basics-of-material-handling-equipment)
+  - [Supply chain information systems](#supply-chain-information-systems)
 - [**3. Supply Chain Processes**](#3-supply-chain-processes) (10 videos)
-  - Explanation of procure to pay
-  - Explanation of order to delivery
-  - Introduction to inventory management
-  - Introduction to the bullwhip effect
-  - Introduction to modeling
-  - New product introduction (NPI)
-  - Introduction to continuous process improvement
-  - Project management
-  - Risk and resilience
-  - Sample supply chain case study
+  - [Explanation of procure to pay](#explanation-of-procure-to-pay)
+  - [Explanation of order to delivery](#explanation-of-order-to-delivery)
+  - [Introduction to inventory management](#introduction-to-inventory-management)
+  - [Introduction to the bullwhip effect](#introduction-to-the-bullwhip-effect)
+  - [Introduction to modeling](#introduction-to-modeling)
+  - [New product introduction (NPI)](#new-product-introduction-npi)
+  - [Introduction to continuous process improvement](#introduction-to-continuous-process-improvement)
+  - [Project management](#project-management)
+  - [Risk and resilience](#risk-and-resilience)
+  - [Sample supply chain case study](#sample-supply-chain-case-study)
 - [**4. Supply Chain Jargon Basics**](#4-supply-chain-jargon-basics) (12 videos)
-  - Shipping overview
-  - Basic ocean shipping terminology
-  - Basic air shipping terminology
-  - Basic trucking terminology
-  - Overview of the trucking business
-  - Basic rail shipping terminology
-  - Overview of shipping rules
-  - Overview of global trade management
-  - Basic warehousing terminology
-  - Basic procurement terminology
-  - Basic manufacturing terminology
-  - Basic forecasting terminology
+  - [Shipping overview](#shipping-overview)
+  - [Basic ocean shipping terminology](#basic-ocean-shipping-terminology)
+  - [Basic air shipping terminology](#basic-air-shipping-terminology)
+  - [Basic trucking terminology](#basic-trucking-terminology)
+  - [Overview of the trucking business](#overview-of-the-trucking-business)
+  - [Basic rail shipping terminology](#basic-rail-shipping-terminology)
+  - [Overview of shipping rules](#overview-of-shipping-rules)
+  - [Overview of global trade management](#overview-of-global-trade-management)
+  - [Basic warehousing terminology](#basic-warehousing-terminology)
+  - [Basic procurement terminology](#basic-procurement-terminology)
+  - [Basic manufacturing terminology](#basic-manufacturing-terminology)
+  - [Basic forecasting terminology](#basic-forecasting-terminology)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Preparing for your supply chain certification
+  - [Preparing for your supply chain certification](#preparing-for-your-supply-chain-certification)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of supply chain certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-supply-chain-certifications?u=76281980)
@@ -126,7 +126,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (2)
-> **Code Keywords:** from, (1), let (1)
 
 #### What you should know
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/what-you-should-know?u=76281980)
@@ -165,7 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), while, (1), let (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (5), career (2), hr (1), management (1)
 > **CLI Commands:** make (1)
 
 #### Types of credentials
@@ -213,15 +212,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), career (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** required to (1), prerequisite (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 
 
 ### 1. Supply Chain Certifications
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of CSCMP credentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980)
@@ -286,8 +285,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (5), [[Supply Chain Management]] (3), [[LinkedIn]] (2), career (1)
 > **Env Vars:** cscmp (11)
-> **Code Keywords:** pass (2)
 > **CLI Commands:** find (1)
 > **URLs:** [cscmp.org](https://cscmp.org) (1)
 > **Versions:** 4.5 (1)
@@ -362,8 +361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Supply Chain Management]] (1), [[Forecasting]] (1), next (1), [[LinkedIn]] (1)
 > **Env Vars:** ascm (7), apics (6), cpim (3), cscp (1), cltd (1)
-> **Code Keywords:** let (1), class. (1), private (1), pass (1)
 > **CLI Commands:** find (2)
 > **URLs:** [ascm.org](https://ascm.org) (1)
 > **Versions:** 3.5 (1)
@@ -437,6 +436,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (11), functional (1), leadership (1), [[Microsoft Products|Products]] (1), career (1)
 > **Env Vars:** ism (7), apsm (3), cpsm (3), cpsd (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Versions:** 2.75 (2)
@@ -488,6 +488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), career (3), [[Supply Chain Management]] (1)
 > **Env Vars:** cilt (8), milt (1), cmilt (1), fcilt (1)
 > **CLI Commands:** make (1)
 > **URLs:** [ciltuk.org](https://ciltuk.org) (1)
@@ -540,7 +541,6 @@ created: 2026-04-29
 >
 > **Env Vars:** cips (8), mcips (3), fcips (2)
 > **Definitions:** is an  (1), known as (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [cips.org](https://cips.org) (1)
 > **UI Navigation:** go to (1)
 
@@ -585,8 +585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (1), career (1)
 > **Env Vars:** sole (10), cml (3), cpl (3)
-> **Code Keywords:** finally, (1)
 > **URLs:** [sole.org](https://sole.org) (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** kind of like (1)
@@ -634,8 +634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Supply Chain Management]] (9), management (6), career (2), business (1), leadership (1)
 > **Env Vars:** scmp (4), cscmp (2)
-> **Code Keywords:** public (1), pass (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **URLs:** [supplychaincanada.com](https://supplychaincanada.com) (1)
@@ -697,9 +697,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (1), next (1)
 > **Env Vars:** ddi (5), astp (1), ddpp (1), ddop (1), ddlp (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [demanddriveninstitute.com](https://demanddriveninstitute.com) (1)
 > **Definitions:** is a  (1)
 
@@ -742,6 +742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (1), [[Capstone]] (1), [[Supply Chain Management]] (1), management (1)
 > **Env Vars:** mit (5)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
@@ -787,7 +788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from, (1), finally, (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1), [[Search]] (1), next (1), career (1)
 > **Env Vars:** mit (1), roi (1)
 
 #### Overview of IBF credentials
@@ -829,8 +830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (10), business (2), data (1), management (1), product (1)
 > **Env Vars:** ibf (6), cpf (6)
-> **Code Keywords:** pass (2)
 > **Prerequisites:** you need to have (2)
 > **URLs:** [ibf.org](https://ibf.org) (1)
 > **Definitions:** refers to (1)
@@ -876,6 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (13), [[Supply Chain Management]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 
 #### Other common credentials
@@ -925,7 +927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** management (4), career (2), business (2), [[Engineering]] (2), [[Supply Chain Management]] (1)
 > **Env Vars:** sap (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
@@ -981,13 +983,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), from, (1), let (1)
+> **Frameworks & Libraries:** strengths (1)
 > **CLI Commands:** make (2)
 
 
 ### 2. Supply Chain Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supply chain overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980)
@@ -1042,9 +1044,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Supply Chain Management]] (6), management (2), [[Microsoft Products|Products]] (2), [[Supply Chain Operations]] (1), product (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
-> **Code Keywords:** return, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
@@ -1091,6 +1093,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Engineering]] (4), business (1), [[Automation]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 
@@ -1151,8 +1154,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (2), [[Product Development]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** from. (1), case, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1214,9 +1217,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Engineering]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ppe (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 
@@ -1273,8 +1276,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), business (1), [[Forecasting]] (1), management (1)
 > **Prerequisites:** you need to have (1), you'll need (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** otd (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
@@ -1324,6 +1327,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (3), [[Forecasting]] (2), teams (1), business (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 
@@ -1380,7 +1384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), power (3), [[Microsoft Products|Products]] (1), [[Environmental Sustainability]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** tbl (1)
@@ -1443,6 +1447,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5)
 > **Env Vars:** mhe (6), rfid (1)
 > **CLI Commands:** make (1)
 
@@ -1503,15 +1508,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (9), [[Databases]] (1), data (1), cloud (1), [[SaaS|Software as a service]] (1)
 > **Env Vars:** mrp (2), tms (1), wms (1), wes (1), srm (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Definitions:** is called (1)
 
 
 ### 3. Supply Chain Processes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanation of procure to pay
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-procure-to-pay?u=76281980)
@@ -1584,8 +1589,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Products|Products]] (1), product (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), while, (1)
 > **Env Vars:** rfp (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you need to have (1)
@@ -1649,8 +1654,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (4), [[Engineering]] (1), [[Supply Chain Management]] (1)
 > **CLI Commands:** make (14)
-> **Code Keywords:** let (2), case, (1)
 > **Definitions:** means that (2), in other words (1)
 > **Prerequisites:** you'll need (1)
 
@@ -1741,9 +1746,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2), product (1), management (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** abc (1), eoq (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
@@ -1825,7 +1830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case. (1)
+> **Frameworks & Libraries:** product (2), data (2), next (1)
 > **Env Vars:** covid (1), pos (1)
 > **Definitions:** in other words (1), is called (1)
 > **Analogies:** for example (1)
@@ -1900,9 +1905,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (3), data (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** gps (1)
 > **Analogies:** for example (1)
 
@@ -1957,9 +1962,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (4), [[Sustainability]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** npi (4)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 
 #### Introduction to continuous process improvement
@@ -2011,6 +2016,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Six Sigma]] (5), [[Engineering]] (1), [[Statistics]] (1), [[Supply Chain Management]] (1), career (1)
 > **Definitions:** is called (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** toc (1)
@@ -2058,9 +2064,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (7), [[Agile Development|Agile]] (7), feature (2), [[Software Development]] (1), [[Product Development]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 
 #### Risk and resilience
@@ -2114,6 +2120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Engineering]] (1), management (1), [[Probability]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -2157,13 +2164,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Supply Chain Management]] (1), [[Microsoft Products|Products]] (1), management (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), require (1), this. (1)
 
 
 ### 4. Supply Chain Jargon Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Shipping overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/shipping-overview?u=76281980)
@@ -2212,10 +2219,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **Definitions:** is called (4), is a  (1)
 > **CLI Commands:** cargo (2), make (1)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** bco (1)
 > **Analogies:** for example (1)
 
@@ -2300,8 +2307,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Supply Chain Management]] (1)
 > **CLI Commands:** make (1), cargo (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is called (2)
 > **Env Vars:** bol (1)
 
@@ -2374,6 +2381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), next (1)
 > **CLI Commands:** cargo (12), make (1)
 > **Env Vars:** uld (2), ups (1), dhl (1), awb (1), co2 (1)
 > **Definitions:** is an  (2), is called (2)
@@ -2448,7 +2456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2554,10 +2562,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Office|Office]] (1), [[Routing]] (1), data (1), business (1)
 > **Definitions:** is called (4), is a  (3), in other words (1)
 > **Env Vars:** ftl (3), ltl (2)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** case, (2), let (1), else, (1)
 > **URLs:** [freightwaves.com](https://freightwaves.com) (1)
 > **Analogies:** for example (1)
 
@@ -2634,8 +2642,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), power (1), [[Supply Chain Management]] (1)
 > **CLI Commands:** cargo (4)
-> **Code Keywords:** let (2), protected (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
@@ -2686,8 +2694,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5)
 > **CLI Commands:** cargo (5), find (1), make (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 
@@ -2776,10 +2784,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), management (4), [[Representational State Transfer (REST)|Rest]] (2), product (2), career (1)
 > **Definitions:** is called (3), is a  (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (2)
 > **Env Vars:** gtm (2)
 
 #### Basic warehousing terminology
@@ -2859,10 +2867,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (2), management (1), [[Forecasting]] (1)
 > **Env Vars:** sku (4), wms (1), wes (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1), is a  (1)
-> **Code Keywords:** let (1)
 
 #### Basic procurement terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980)
@@ -2919,6 +2927,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), product (2), teams (1), [[Microsoft Products|Products]] (1), [[Sustainability]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Env Vars:** cpo (1)
@@ -2990,7 +2999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), career (1)
 > **Env Vars:** wip (1), bom (1), smed (1), ppe (1)
 > **Definitions:** is called (4)
 > **Prerequisites:** setup (2), required to (1), you'll need (1)
@@ -3062,16 +3071,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forecasting]] (5), product (2), data (1), [[Statistics]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** mape (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for your supply chain certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980)
@@ -3122,8 +3131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (3), next (2), [[Supply Chain Management]] (2), management (2), game (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** pass (1)
 > **Env Vars:** mit (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)

@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - topic/security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20and%20Managing%20a%20Cybersecurity%20Program.md)
@@ -45,49 +45,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Protect against cyberattacks
-  - What you should know
+  - [Protect against cyberattacks](#protect-against-cyberattacks)
+  - [What you should know](#what-you-should-know)
 - [**1. Defining Key Terms**](#1-defining-key-terms) (6 videos)
-  - What is information security?
-  - Cybersecurity overview
-  - Cyber resilience overview
-  - Risk management overview
-  - Challenge: Prepare and recover
-  - Solution: Prepare and recover
+  - [What is information security?](#what-is-information-security)
+  - [Cybersecurity overview](#cybersecurity-overview)
+  - [Cyber resilience overview](#cyber-resilience-overview)
+  - [Risk management overview](#risk-management-overview)
+  - [Challenge: Prepare and recover](#challenge-prepare-and-recover)
+  - [Solution: Prepare and recover](#solution-prepare-and-recover)
 - [**2. Cybersecurity Program Goals**](#2-cybersecurity-program-goals) (6 videos)
-  - Achieve your customers’ expectations
-  - Cyberattack and failure resilience
-  - Compliance with laws and regulations
-  - Executive and BOD support
-  - Challenge: Customer security requirements
-  - Solution: Customer security requirements
+  - [Achieve your customers’ expectations](#achieve-your-customers-expectations)
+  - [Cyberattack and failure resilience](#cyberattack-and-failure-resilience)
+  - [Compliance with laws and regulations](#compliance-with-laws-and-regulations)
+  - [Executive and BOD support](#executive-and-bod-support)
+  - [Challenge: Customer security requirements](#challenge-customer-security-requirements)
+  - [Solution: Customer security requirements](#solution-customer-security-requirements)
 - [**3. Cybersecurity Program Components**](#3-cybersecurity-program-components) (7 videos)
-  - Essential functions of a program
-  - Determine your role
-  - Build a team
-  - The need for management
-  - The need for leadership
-  - Challenge: Core competencies
-  - Solution: Core competencies
+  - [Essential functions of a program](#essential-functions-of-a-program)
+  - [Determine your role](#determine-your-role)
+  - [Build a team](#build-a-team)
+  - [The need for management](#the-need-for-management)
+  - [The need for leadership](#the-need-for-leadership)
+  - [Challenge: Core competencies](#challenge-core-competencies)
+  - [Solution: Core competencies](#solution-core-competencies)
 - [**4. Structuring a Cybersecurity Program**](#4-structuring-a-cybersecurity-program) (5 videos)
-  - Sources of controls
-  - Organize around cyber resilience
-  - Information security program design
-  - Challenge: Customer requirements
-  - Solution: Customer requirements
+  - [Sources of controls](#sources-of-controls)
+  - [Organize around cyber resilience](#organize-around-cyber-resilience)
+  - [Information security program design](#information-security-program-design)
+  - [Challenge: Customer requirements](#challenge-customer-requirements)
+  - [Solution: Customer requirements](#solution-customer-requirements)
 - [**5. Demonstrate Compliance and Progress**](#5-demonstrate-compliance-and-progress) (6 videos)
-  - Communicate with executives
-  - Communicate with stakeholders
-  - Communicate with auditors
-  - Construct an annual program of work
-  - Challenge: Optimize a cybersecurity program
-  - Solution: Optimize a cybersecurity program
+  - [Communicate with executives](#communicate-with-executives)
+  - [Communicate with stakeholders](#communicate-with-stakeholders)
+  - [Communicate with auditors](#communicate-with-auditors)
+  - [Construct an annual program of work](#construct-an-annual-program-of-work)
+  - [Challenge: Optimize a cybersecurity program](#challenge-optimize-a-cybersecurity-program)
+  - [Solution: Optimize a cybersecurity program](#solution-optimize-a-cybersecurity-program)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps for cybersecurity programs
+  - [Next steps for cybersecurity programs](#next-steps-for-cybersecurity-programs)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect against cyberattacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/protect-against-cyberattacks-22157268?u=76281980)
@@ -114,7 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1), let (1)
+> **Frameworks & Libraries:** data (2), [[Security]] (2), [[Cybersecurity]] (1)
 > **Speakers:** - when (1)
 > **Non-Speech:** (soft, upbeat music) (1)
 
@@ -139,13 +139,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), data (1), management (1), leadership (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Defining Key Terms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is information security?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-is-information-security-22156753?u=76281980)
@@ -192,8 +193,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), data (1), [[Banking]] (1)
 > **Env Vars:** bce (1), cia (1), atm (1)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - information (1)
@@ -237,8 +238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (6), [[Microsoft Word|Word]] (1), [[Network Security]] (1), [[NIST]] (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** super (1), let (1)
 > **Env Vars:** nist (1)
 > **Speakers:** - [instructor] (1)
 
@@ -313,9 +314,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), data (1), [[Security]] (1), business (1), next (1)
 > **Versions:** 15.4 (1), 10.5 (1)
 > **Analogies:** such as (1), just like (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
 
@@ -400,9 +401,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (12), data (2), next (2), business (1), [[NIST]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** acat (1), iso (1), nist (1)
-> **Code Keywords:** public (1), finally, (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** such as (2)
 > **Best Practices:** avoid doing (1)
@@ -434,6 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -476,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), public (1)
+> **Frameworks & Libraries:** business (1), data (1), [[Forms]] (1), next (1), prompt (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -484,7 +486,7 @@ created: 2026-04-29
 
 ### 2. Cybersecurity Program Goals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Achieve your customers’ expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980)
@@ -557,10 +559,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), hit (1)
 > **Env Vars:** tnt (3), dhl (1), ups (1), ceo (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1), means that (1)
 > **Versions:** 6.7 (1)
 > **Speakers:** - [instructor] (1)
@@ -650,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), private (1), public (1)
+> **Frameworks & Libraries:** business (5), data (5), [[Cybersecurity]] (1), career (1), power (1)
 > **Env Vars:** ceo (1), cfo (1)
 > **Versions:** 1.4 (1), 12.7 (1)
 > **URLs:** [vice.com](https://vice.com) (1)
@@ -727,8 +729,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Security]] (7), [[Privacy]] (6), business (3), [[Cybersecurity]] (1)
 > **Env Vars:** hipaa (3), gdpr (2), sox (1), pci (1), pcidss (1)
-> **Code Keywords:** let (3), require (2), self (1), public (1)
 > **Definitions:** known as (2), is a  (1), is an  (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [host] (1)
@@ -814,11 +816,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), data (3), business (2), management (2), [[Accountability]] (1)
 > **Env Vars:** erm (5), pci (2), grc (2), oecd (1), dss (1)
 > **Definitions:** is a  (3), in other words (1), is an  (1), defined as (1)
 > **Analogies:** such as (2), similar to (1), for example (1)
 > **Prerequisites:** you'll need (2), install (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -839,8 +841,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), data (2), [[Cybersecurity]] (1), [[Microsoft Word|Word]] (1), next (1)
 > **Exercise Files:** exercise files (2), download the (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
@@ -870,14 +872,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Security]] (1)
 > **Versions:** 2.1.1 (1), 2.1.6 (1), 2.2 (1), 2.3 (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [narrator] (1)
 
 
 ### 3. Cybersecurity Program Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Essential functions of a program
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980)
@@ -950,8 +952,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (19), management (4), data (3), business (3), teams (2)
 > **Env Vars:** soc (7), siem (3)
-> **Code Keywords:** function (4), let (1), require (1), case, (1), finally, (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
@@ -1034,8 +1036,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), next (1), strengths (1), management (1), business (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** protected (1), finally, (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1126,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (2), next (1), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
@@ -1181,8 +1183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (9), leadership (5), [[Security]] (3), business (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1269,7 +1271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), let (1), switch (1), finally, (1)
+> **Frameworks & Libraries:** leadership (11), management (5), [[Security]] (3), business (2), game (2)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** you'll need (2)
@@ -1302,9 +1304,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1), [[Cybersecurity]] (1), next (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Solution: Core competencies
@@ -1342,14 +1344,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), business (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Structuring a Cybersecurity Program
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sources of controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980)
@@ -1466,8 +1468,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (13), business (4), [[NIST]] (3), data (2), management (2)
 > **Env Vars:** cobit (3), nist (3), iso (3), sans (2), sox (1)
-> **Code Keywords:** let (3), private (2), from. (1), this. (1), case, (1)
 > **Definitions:** is a  (2), stands for (1), known as (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (2)
@@ -1526,7 +1528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (4), [[NIST]] (2), management (1), [[Cyber Security Risk]] (1)
 > **Env Vars:** nist (2), iso (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - being (1)
@@ -1644,7 +1646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (3)
+> **Frameworks & Libraries:** [[Security]] (7), management (3), data (2), next (2), [[Program Design]] (2)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
@@ -1675,9 +1677,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), data (1), [[Security]] (1), next (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Exercise Files:** download the (1), exercise files (1)
-> **Code Keywords:** require (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - hey (1)
 
@@ -1712,8 +1714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security Incident Response]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - hey (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1721,7 +1723,7 @@ created: 2026-04-29
 
 ### 5. Demonstrate Compliance and Progress
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicate with executives
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980)
@@ -1818,8 +1820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Cybersecurity]] (4), teams (1), [[Decision-Making]] (1), [[Storytelling]] (1)
 > **CLI Commands:** find (4), make (3)
-> **Code Keywords:** let (3), finally, (1), case, (1)
 > **Warnings:** caution (1), be careful (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
@@ -1885,7 +1887,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), public (1)
+> **Frameworks & Libraries:** [[Security]] (1), [[Organizational Change Management]] (1), management (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** you'll need (2)
@@ -1970,7 +1972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), return. (1)
+> **Frameworks & Libraries:** management (3), business (1), generic (1), data (1)
 > **Env Vars:** cfo (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - working (1)
@@ -2058,8 +2060,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), management (4), data (2), [[Representational State Transfer (REST)|Rest]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (2), continue (1)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2093,6 +2095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (2), business (1), [[Cybersecurity]] (1), next (1)
 > **Env Vars:** ciso (2), url (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2139,15 +2142,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), [[Cybersecurity]] (2), management (2), [[NIST]] (1), functional (1)
 > **Env Vars:** ciso (2), nist (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for cybersecurity programs
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980)
@@ -2170,6 +2173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), management (1), [[Privacy]] (1), [[LinkedIn]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - we (1)
 

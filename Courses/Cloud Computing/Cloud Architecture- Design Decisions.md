@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - topic/security
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Architecture-%20Design%20Decisions.md)
@@ -48,60 +48,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Making decisions around cloud architecture design
-  - What you should know
+  - [Making decisions around cloud architecture design](#making-decisions-around-cloud-architecture-design)
+  - [What you should know](#what-you-should-know)
 - [**1. Beyond Basic Architecture**](#1-beyond-basic-architecture) (8 videos)
-  - Taking your architecture to the next level
-  - Advanced architecture scenario: HR systems
-  - Advanced architecture scenario: Edge computing
-  - Advanced architecture scenario: Containers and Kubernetes
-  - Advanced architecture scenario: Serverless computing
-  - Advanced architecture scenario: Generative AI computing
-  - Advanced architecture scenario: Agentic AI computing
-  - Necessary skills, tools, and processes
+  - [Taking your architecture to the next level](#taking-your-architecture-to-the-next-level)
+  - [Advanced architecture scenario: HR systems](#advanced-architecture-scenario-hr-systems)
+  - [Advanced architecture scenario: Edge computing](#advanced-architecture-scenario-edge-computing)
+  - [Advanced architecture scenario: Containers and Kubernetes](#advanced-architecture-scenario-containers-and-kubernetes)
+  - [Advanced architecture scenario: Serverless computing](#advanced-architecture-scenario-serverless-computing)
+  - [Advanced architecture scenario: Generative AI computing](#advanced-architecture-scenario-generative-ai-computing)
+  - [Advanced architecture scenario: Agentic AI computing](#advanced-architecture-scenario-agentic-ai-computing)
+  - [Necessary skills, tools, and processes](#necessary-skills-tools-and-processes)
 - [**2. Define a Business Case**](#2-define-a-business-case) (8 videos)
-  - Build a business case
-  - Soft costs and benefits
-  - Hard costs and benefits
-  - Economies of optimization
-  - Leveraging AI as a innovative differentiator
-  - Economies of complexity
-  - Challenge: Defining the business case for ABC Inc.
-  - Solution: Defining the business case for ABC Inc.
+  - [Build a business case](#build-a-business-case)
+  - [Soft costs and benefits](#soft-costs-and-benefits)
+  - [Hard costs and benefits](#hard-costs-and-benefits)
+  - [Economies of optimization](#economies-of-optimization)
+  - [Leveraging AI as a innovative differentiator](#leveraging-ai-as-a-innovative-differentiator)
+  - [Economies of complexity](#economies-of-complexity)
+  - [Challenge: Defining the business case for ABC Inc.](#challenge-defining-the-business-case-for-abc-inc)
+  - [Solution: Defining the business case for ABC Inc.](#solution-defining-the-business-case-for-abc-inc)
 - [**3. Define the Requirement Patterns**](#3-define-the-requirement-patterns) (7 videos)
-  - Designing for storage
-  - Designing for compute
-  - Designing for data and database
-  - Designing for secuirty
-  - Designing for governance
-  - Designing for CloudOps and FinOps
-  - Other services to consider
+  - [Designing for storage](#designing-for-storage)
+  - [Designing for compute](#designing-for-compute)
+  - [Designing for data and database](#designing-for-data-and-database)
+  - [Designing for secuirty](#designing-for-secuirty)
+  - [Designing for governance](#designing-for-governance)
+  - [Designing for CloudOps and FinOps](#designing-for-cloudops-and-finops)
+  - [Other services to consider](#other-services-to-consider)
 - [**4. Advanced Cloud Architecture Design Concepts**](#4-advanced-cloud-architecture-design-concepts) (9 videos)
-  - Map requirements to storage
-  - Map requirements to compute
-  - Map requirements to databases
-  - Map to security and governance
-  - Map to cloud operations (CloudOps)
-  - Map requirements to an AI solution
-  - Making sense of it all
-  - Challenge: Defining the cloud architecture requirements for ABC Inc.
-  - Solution: Defining the cloud architecture requirements for ABC Inc.
+  - [Map requirements to storage](#map-requirements-to-storage)
+  - [Map requirements to compute](#map-requirements-to-compute)
+  - [Map requirements to databases](#map-requirements-to-databases)
+  - [Map to security and governance](#map-to-security-and-governance)
+  - [Map to cloud operations (CloudOps)](#map-to-cloud-operations-cloudops)
+  - [Map requirements to an AI solution](#map-requirements-to-an-ai-solution)
+  - [Making sense of it all](#making-sense-of-it-all)
+  - [Challenge: Defining the cloud architecture requirements for ABC Inc.](#challenge-defining-the-cloud-architecture-requirements-for-abc-inc)
+  - [Solution: Defining the cloud architecture requirements for ABC Inc.](#solution-defining-the-cloud-architecture-requirements-for-abc-inc)
 - [**5. Other Advanced Topics**](#5-other-advanced-topics) (9 videos)
-  - Performance management
-  - Proactive security
-  - Serverless
-  - Containers and container orchestration
-  - IoT and edge computing
-  - Machine learning, generative AI, agentic AI, and deep learning
-  - Multi-cloud
-  - Low-code and no-code
-  - Emerging technology
+  - [Performance management](#performance-management)
+  - [Proactive security](#proactive-security)
+  - [Serverless](#serverless)
+  - [Containers and container orchestration](#containers-and-container-orchestration)
+  - [IoT and edge computing](#iot-and-edge-computing)
+  - [Machine learning, generative AI, agentic AI, and deep learning](#machine-learning-generative-ai-agentic-ai-and-deep-learning)
+  - [Multi-cloud](#multi-cloud)
+  - [Low-code and no-code](#low-code-and-no-code)
+  - [Emerging technology](#emerging-technology)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Learn to stay state of the art
+  - [Learn to stay state of the art](#learn-to-stay-state-of-the-art)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Making decisions around cloud architecture design
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980)
@@ -124,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), business (2), [[Statistics]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - cloud (1)
 
@@ -146,13 +147,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1)
+> **Frameworks & Libraries:** cloud (5), [[Enterprise Architecture]] (1), [[Security]] (1)
 > **Speakers:** - to (1)
 
 
 ### 1. Beyond Basic Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking your architecture to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980)
@@ -209,10 +210,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), business (11), application (3), [[Deployment Planning]] (2), [[Security]] (2)
 > **Definitions:** means that (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** continue (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - what (1)
 
@@ -271,8 +272,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), database (5), hr (4), business (2), [[Search]] (1)
 > **Analogies:** such as (3), for example (3), for instance (1)
-> **Code Keywords:** let (2), self (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - let (1)
 
@@ -311,7 +312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** cloud (10), data (5), api (1), management (1), web (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -372,7 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), public (1), function (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (16), cloud (9), [[Linux]] (1), [[Windows]] (1), [[Orchestration]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** aws (1), find (1)
@@ -447,8 +448,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), application (9), [[Serverless Computing]] (7), [[Security]] (1), [[Automation]] (1)
 > **Analogies:** such as (5), for example (1)
-> **Code Keywords:** let (1), public (1), function (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - much (1)
@@ -496,9 +497,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Generative AI]] (3), [[Kubernetes]] (3), cloud (2), aws (1)
 > **Env Vars:** aws (1), gpt (1), api (1), elk (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** async (1), let (1)
 > **CLI Commands:** aws (1)
 > **Code Identifiers:** grpc (1)
 > **Analogies:** for example (1)
@@ -549,7 +550,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), lambda (1), finally, (1), include: (1)
+> **Frameworks & Libraries:** ai (4), cloud (2), application (1), [[Generative AI]] (1), [[LangChain]] (1)
 > **Env Vars:** api (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Cross-References:** in the last (1)
@@ -604,16 +605,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Security]] (2), database (1), aws (1), [[Google]] (1)
 > **CLI Commands:** find (2), make (1), aws (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (1), finally, (1), continue (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - so (1)
 
 
 ### 2. Define a Business Case
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980)
@@ -670,8 +671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), cloud (7), data (2), [[Kubernetes]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** case, (1), finally, (1), public (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - we (1)
@@ -705,8 +706,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), business (3)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** require (1)
 > **Definitions:** known as (1)
 > **Speakers:** - soft (1)
 
@@ -751,8 +752,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (6), [[Hardware]] (1), business (1), [[Financial Operations]] (1), [[Databases]] (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** let (1), for. (1)
 > **Definitions:** defined as (1), is a  (1)
 > **Speakers:** - we (1)
 
@@ -797,8 +798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), business (3), aws (1)
 > **CLI Commands:** make (2), aws (1), find (1)
-> **Code Keywords:** finally, (1), yield (1), this, (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
@@ -860,7 +861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), static (2), let (1), pass (1)
+> **Frameworks & Libraries:** ai (10), data (6), business (3), [[Security]] (3), cloud (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - let (1)
 
@@ -897,10 +898,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), [[Microsoft]] (2), application (2), [[Security]] (1), aws (1)
 > **Analogies:** for instance (2), such as (2)
 > **Env Vars:** aws (1), ebs (1)
 > **CLI Commands:** aws (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** means that (1)
@@ -949,6 +950,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Forecasting]] (1), [[Agile Development|Agile]] (1), data (1), cloud (1)
 > **Env Vars:** abc (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
@@ -991,8 +993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), cloud (2), ai (1), [[Predictive Analytics]] (1), [[Real-Time]] (1)
 > **Versions:** 8.2 (1), 4.5 (1), 20.2 (1)
-> **Code Keywords:** let (1), case. (1)
 > **Env Vars:** roi (1), abc (1)
 > **Speakers:** - so (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1000,7 +1002,7 @@ created: 2026-04-29
 
 ### 3. Define the Requirement Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-storage?u=76281980)
@@ -1049,9 +1051,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), data (4), [[Security]] (3), database (1), application (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - in (1)
 
@@ -1114,6 +1116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), power (2), application (2), [[Server Configuration]] (1), [[Linux]] (1)
 > **Env Vars:** cpu (6), aws (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** aws (1)
@@ -1159,8 +1162,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), cloud (8), database (8), [[Databases]] (8), [[Security]] (2)
 > **Analogies:** such as (4)
-> **Code Keywords:** function (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ibm (1)
 > **Speakers:** - cloud (1)
@@ -1200,8 +1203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (15), cloud (9), data (3), management (2), application (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** iam (1)
 > **Analogies:** such as (1)
 > **Speakers:** - security (1)
@@ -1237,8 +1240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), api (2), data (1), [[Security]] (1), application (1)
 > **Analogies:** such as (3), for example (2), for instance (1)
-> **Code Keywords:** interface (2), include, (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** find (1)
 > **Warnings:** be aware (1)
@@ -1291,7 +1294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** cloud (7), business (5), [[Security]] (2), ai (2), database (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
@@ -1323,6 +1326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), business (2), [[IoT]] (1), ai (1), [[Serverless Computing]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iot (1)
@@ -1333,7 +1337,7 @@ created: 2026-04-29
 
 ### 4. Advanced Cloud Architecture Design Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Map requirements to storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-storage?u=76281980)
@@ -1378,7 +1382,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** cloud (7), management (2), [[Security]] (2), business (1), application (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
@@ -1443,9 +1447,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Security]] (3), management (2), business (1), power (1)
 > **Analogies:** such as (3), for example (1)
 > **Prerequisites:** you'll need (3)
-> **Code Keywords:** public (1), interface (1)
 > **Env Vars:** cpu (1), amd (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **CLI Commands:** find (1)
@@ -1521,10 +1525,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (28), data (17), [[Databases]] (14), cloud (5), management (4)
 > **CLI Commands:** find (4), mysql (2), aws (1), make (1)
 > **Analogies:** such as (5)
 > **Env Vars:** db2 (1), aws (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** refers to (1)
 > **Best Practices:** remember to (1)
 > **Warnings:** keep in mind (1)
@@ -1589,10 +1593,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (12), cloud (6), data (4), management (3), [[Databases]] (3)
 > **Analogies:** such as (8), similar to (1)
 > **Definitions:** refers to (2), means that (1), is a  (1), is an  (1)
 > **Env Vars:** iam (3), hipaa (1)
-> **Code Keywords:** public (2)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - of (1)
@@ -1636,9 +1640,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (7), data (5), cloud (4), application (4), [[Security]] (3)
 > **Analogies:** such as (6), for example (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** iam (1)
 > **Speakers:** - cloud (1)
 
@@ -1701,9 +1705,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Security]] (7), data (6), database (5), [[Real-Time]] (3)
 > **Analogies:** such as (6)
 > **Env Vars:** iam (3), cpu (1), gpu (1)
-> **Code Keywords:** let (1), type, (1)
 > **Cross-References:** previous video (1)
 > **Best Practices:** the key is (1)
 > **Prerequisites:** you'll need (1)
@@ -1752,9 +1756,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), business (2), data (2), management (1), [[Security]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (2)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** general rule (1)
@@ -1791,6 +1795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), cloud (2), [[Scalability]] (1), [[Regulatory Compliance]] (1), management (1)
 > **Env Vars:** abc (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
@@ -1855,15 +1860,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), cloud (6), data (4), business (2), database (2)
 > **Env Vars:** abc (3), ehr (2), hipaa (2), iam (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 5. Other Advanced Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Performance management
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980)
@@ -1932,7 +1937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1), module (1), public (1), private (1)
+> **Frameworks & Libraries:** database (9), cloud (6), data (6), application (5), [[Analytics]] (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -1990,8 +1995,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), cloud (7), data (7)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** protected (1), public (1), let (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - by (1)
@@ -2051,7 +2056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (1), require (1), self (1), this, (1), public (1)
+> **Frameworks & Libraries:** application (9), cloud (7), [[Serverless Computing]] (2), aws (1), [[Microsoft]] (1)
 > **Analogies:** such as (5)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** aws (1)
@@ -2101,7 +2106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3)
+> **Frameworks & Libraries:** [[Orchestration]] (6), cloud (5), data (4), application (2), [[Security]] (2)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2156,7 +2161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), function (1), let (1)
+> **Frameworks & Libraries:** cloud (12), [[IoT]] (10), data (10), [[Microsoft]] (2), aws (2)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** make (2), aws (2)
 > **Env Vars:** aws (2)
@@ -2240,9 +2245,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), data (13), business (5), cloud (5), [[Generative AI]] (4)
 > **Definitions:** is a  (5), is an  (1), refers to (1)
 > **Analogies:** such as (7)
-> **Code Keywords:** static (1), public (1), case, (1), require (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** keep in mind (2)
 > **Env Vars:** nlu (1)
@@ -2283,7 +2288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), private (1)
+> **Frameworks & Libraries:** cloud (20), business (7), [[Private Clouds]] (1), [[IoT]] (1), [[Databases]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** aws (1), find (1)
 > **Env Vars:** iot (1), aws (1)
@@ -2316,7 +2321,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1)
+> **Frameworks & Libraries:** cloud (3), [[Programming]] (1), [[Databases]] (1), business (1), application (1)
 > **Analogies:** such as (1)
 > **Speakers:** - low (1)
 
@@ -2369,9 +2374,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), business (3), cloud (2), [[DevOps]] (2), data (2)
 > **Prerequisites:** you'll need (1), required to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** new, (1)
 > **Cross-References:** as we saw (1)
 > **Analogies:** such as (1)
 > **Speakers:** - no (1)
@@ -2379,7 +2384,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to stay state of the art
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/learn-to-stay-state-of-the-art?u=76281980)
@@ -2412,7 +2417,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), require (1), public (1)
+> **Frameworks & Libraries:** cloud (10), [[Search]] (1), career (1), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

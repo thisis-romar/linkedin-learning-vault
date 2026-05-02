@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/sales-effectiveness
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20365%20Copilot-%20Helpful%20Tips%20for%20Sales%20Professionals.md)
@@ -49,17 +49,17 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understand Copilot's role in sales
-  - What you should know
+  - [Understand Copilot's role in sales](#understand-copilots-role-in-sales)
+  - [What you should know](#what-you-should-know)
 - [**1. Use Case Examples**](#1-use-case-examples) (4 videos)
-  - Boost customer research and sales preparation
-  - Create a customized pitch
-  - Create an unsolicited proposal
-  - Respond to an RFP
+  - [Boost customer research and sales preparation](#boost-customer-research-and-sales-preparation)
+  - [Create a customized pitch](#create-a-customized-pitch)
+  - [Create an unsolicited proposal](#create-an-unsolicited-proposal)
+  - [Respond to an RFP](#respond-to-an-rfp)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Copilot's role in sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980)
@@ -78,6 +78,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft 365]] (2), [[Microsoft]] (1), data (1), ai (1)
 > **Speakers:** - based (1)
 
 #### What you should know
@@ -99,6 +100,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft]] (2), [[Microsoft 365|M365]] (2), prompt (2), ai (2)
 > **Env Vars:** m365 (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - this (1)
@@ -106,7 +108,7 @@ created: 2026-04-29
 
 ### 1. Use Case Examples
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Boost customer research and sales preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980)
@@ -183,7 +185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft Products|Products]] (5), prompt (2), web (1), [[Microsoft]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), just like (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -263,8 +265,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft Word|Word]] (5), [[Microsoft]] (4), web (3), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **Analogies:** for example (4), for instance (1)
-> **Code Keywords:** continue (2), let (1), switch (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** m365 (1)
@@ -349,7 +351,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), for. (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft OneDrive|Onedrive]] (3), data (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Exercise Files:** template (3)
 > **Warnings:** be aware (1), warning (1)
@@ -424,8 +426,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft Word|Word]] (3), prompt (2), product (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** rfp (7)
-> **Code Keywords:** continue (2), let (1), from. (1), this, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

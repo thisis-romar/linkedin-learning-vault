@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Footprinting%20and%20Reconnaissance.md)
@@ -48,50 +48,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Scouting the target
-  - What you should know
-  - Hacking ethically
+  - [Scouting the target](#scouting-the-target)
+  - [What you should know](#what-you-should-know)
+  - [Hacking ethically](#hacking-ethically)
 - [**1. Uncovering Information**](#1-uncovering-information) (7 videos)
-  - Footprinting and reconnaissance
-  - Using competitive intelligence
-  - Investigating business sites
-  - Searching and Google hacking
-  - Employing social engineering
-  - Gathering data on people
-  - Tracking online reputation
+  - [Footprinting and reconnaissance](#footprinting-and-reconnaissance)
+  - [Using competitive intelligence](#using-competitive-intelligence)
+  - [Investigating business sites](#investigating-business-sites)
+  - [Searching and Google hacking](#searching-and-google-hacking)
+  - [Employing social engineering](#employing-social-engineering)
+  - [Gathering data on people](#gathering-data-on-people)
+  - [Tracking online reputation](#tracking-online-reputation)
 - [**2. Using Email and Websites**](#2-using-email-and-websites) (6 videos)
-  - Harvesting email addresses
-  - Examining websites
-  - Scraping websites
-  - Challenge: Mirroring a website
-  - Solution: Mirroring a website
-  - Monitoring websites
+  - [Harvesting email addresses](#harvesting-email-addresses)
+  - [Examining websites](#examining-websites)
+  - [Scraping websites](#scraping-websites)
+  - [Challenge: Mirroring a website](#challenge-mirroring-a-website)
+  - [Solution: Mirroring a website](#solution-mirroring-a-website)
+  - [Monitoring websites](#monitoring-websites)
 - [**3. Searching the Network**](#3-searching-the-network) (5 videos)
-  - Footprinting using DNS
-  - Examining a zone transfer
-  - Generating domain names
-  - Determining the path
-  - Using nslookup and DIG
+  - [Footprinting using DNS](#footprinting-using-dns)
+  - [Examining a zone transfer](#examining-a-zone-transfer)
+  - [Generating domain names](#generating-domain-names)
+  - [Determining the path](#determining-the-path)
+  - [Using nslookup and DIG](#using-nslookup-and-dig)
 - [**4. Discovering Reconnaissance Tools**](#4-discovering-reconnaissance-tools) (5 videos)
-  - Using OSINT tools
-  - Investigating email
-  - Footprinting VoIP and VPNs
-  - Going to the dark web
-  - Exploring other footprinting tools
+  - [Using OSINT tools](#using-osint-tools)
+  - [Investigating email](#investigating-email)
+  - [Footprinting VoIP and VPNs](#footprinting-voip-and-vpns)
+  - [Going to the dark web](#going-to-the-dark-web)
+  - [Exploring other footprinting tools](#exploring-other-footprinting-tools)
 - [**5. Footprinting Capstone**](#5-footprinting-capstone) (4 videos)
-  - Conducting a forensic exercise
-  - Examining an email
-  - Diving into an email header
-  - Verifying IP blocklists
+  - [Conducting a forensic exercise](#conducting-a-forensic-exercise)
+  - [Examining an email](#examining-an-email)
+  - [Diving into an email header](#diving-into-an-email-header)
+  - [Verifying IP blocklists](#verifying-ip-blocklists)
 - [**6. Wrapping up the Recon**](#6-wrapping-up-the-recon) (4 videos)
-  - Guarding social media
-  - Writing footprinting reports
-  - Countering footprinting
-  - Next steps
+  - [Guarding social media](#guarding-social-media)
+  - [Writing footprinting reports](#writing-footprinting-reports)
+  - [Countering footprinting](#countering-footprinting)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scouting the target
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scouting-the-target?u=76281980)
@@ -112,7 +112,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2), [[Security]] (1)
 > **Speakers:** - [lisa] (1)
 
 #### What you should know
@@ -138,7 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), let (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -162,12 +162,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Uncovering Information
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Footprinting and reconnaissance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980)
@@ -240,8 +241,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), data (2), [[Security]] (1), [[Financial Data]] (1)
 > **Analogies:** such as (2), picture (2), imagine (1)
-> **Code Keywords:** public (1), protected (1), let (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -314,7 +315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2), business (2), [[Search]] (2), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Analogies:** picture (1), such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** cve (1)
@@ -398,7 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (3), this. (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Search]] (4), database (4), [[GitHub]] (3), [[Ethical Hacking]] (2)
 > **CLI Commands:** find (6), apache (1)
 > **UI Navigation:** go to (4), scroll down (2)
 > **Env Vars:** edgar (4)
@@ -484,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), type. (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Search]] (12), [[Google]] (11), web (3), database (3), data (1)
 > **Env Vars:** scada (2), pdf (1), mp3 (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2), is called (1)
@@ -542,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1), function (1), else. (1)
+> **Frameworks & Libraries:** [[Engineering]] (4), data (4), [[Phishing]] (3), [[Security]] (2), [[E-Commerce]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** atm (1), pin (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -608,7 +609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5), let (2), private (1), this, (1)
+> **Frameworks & Libraries:** [[Search]] (6), data (3), next (1), business (1), [[Security]] (1)
 > **Analogies:** such as (6), picture (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
@@ -700,7 +701,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (2), case, (2), public (1)
+> **Frameworks & Libraries:** [[Search]] (13), [[Google]] (5), web (1)
 > **Env Vars:** ftp (3), url (1)
 > **Analogies:** picture (1), for example (1), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -712,7 +713,7 @@ created: 2026-04-29
 
 ### 2. Using Email and Websites
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Harvesting email addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980)
@@ -809,8 +810,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[Phishing]] (3), [[Forms]] (1), business (1), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (6)
-> **Code Keywords:** let (4), public (1), throw (1)
 > **Definitions:** is a  (4), is an  (1)
 > **URLs:** [landonhotel.com](https://landonhotel.com) (3)
 > **Analogies:** for example (2), imagine (1)
@@ -902,11 +903,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), next (3), web (2), data (1), [[Microsoft Office|Office]] (1)
 > **Exercise Files:** source code (7)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** html (4)
 > **Analogies:** such as (2), just like (1)
-> **Code Keywords:** case, (1), let (1)
 > **UI Navigation:** go to (2)
 > **File Paths:** mashers.html (1)
 > **Cross-References:** in the next (1)
@@ -1002,8 +1003,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Python (Programming Language)|Python]] (3), next (3), data (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (3), find (2), wget (1)
-> **Code Keywords:** protected (2), let (2), for. (1)
 > **Exercise Files:** source code (3)
 > **Analogies:** such as (3)
 > **UI Navigation:** go to (1), right-click (1)
@@ -1037,7 +1038,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **URLs:** [example.com](https://example.com) (2), [httrack.com](https://httrack.com) (1)
-> **Code Keywords:** let (1), this. (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -1102,9 +1102,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Phishing]] (3)
 > **UI Navigation:** go to (2), right-click (2), click on (1)
 > **URLs:** [example.com](https://example.com) (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** url (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [narrator] (1)
@@ -1167,7 +1167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), finally, (1)
+> **Frameworks & Libraries:** traffic (3), [[Analytics]] (2), [[Ethical Hacking]] (1), web (1), [[Google]] (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [updown.io](https://updown.io) (1), [pentest-tools.com](https://pentest-tools.com) (1)
 > **Analogies:** such as (2)
@@ -1177,7 +1177,7 @@ created: 2026-04-29
 
 ### 3. Searching the Network
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Footprinting using DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980)
@@ -1270,9 +1270,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (20), [[Domain Name System (DNS)|Domain name system]] (2), database (2), application (1), [[Google]] (1)
 > **Env Vars:** dns (20), mit (1)
 > **Definitions:** is an  (3), is a  (1)
-> **Code Keywords:** let (2)
 > **URLs:** [google.com](https://google.com) (1), [mit.edu](https://mit.edu) (1)
 > **Analogies:** such as (2)
 > **Code Identifiers:** theharvester (1)
@@ -1349,8 +1349,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (16), [[Wireshark]] (3), [[Security]] (2), database (1), [[GitHub]] (1)
 > **Env Vars:** dns (16), pcap (1), tcp (1)
-> **Code Keywords:** let (3), case, (2), from. (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (2)
 > **Ports:** port 53 (1)
@@ -1435,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), new, (1), this, (1)
+> **Frameworks & Libraries:** [[Phishing]] (7), database (3), management (2), [[Databases]] (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [landonpay.com](https://landonpay.com) (1), [letsencrypt.org](https://letsencrypt.org) (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -1524,7 +1524,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), interface (4), case. (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (3), [[Google]] (2), [[Statistics]] (2), [[Security]] (1)
 > **Tools:** command line (4)
 > **Env Vars:** icmp (2), mtr (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1614,8 +1614,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (9), [[Google]] (7), [[Windows]] (3), prompt (2), [[Linux]] (2)
 > **Env Vars:** dns (9)
-> **Code Keywords:** let (4), default, (1), this, (1)
 > **URLs:** [google.com](https://google.com) (6)
 > **CLI Commands:** find (3)
 > **Tools:** command line (2), command prompt (1)
@@ -1626,7 +1626,7 @@ created: 2026-04-29
 
 ### 4. Discovering Reconnaissance Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using OSINT tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980)
@@ -1699,9 +1699,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Metadata]] (4), [[Search]] (4), open-source (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** osint (4), foca (2), whois (1), scada (1)
 > **Analogies:** such as (6)
-> **Code Keywords:** let (3), public (1), type, (1)
 > **Definitions:** is called (2), is a  (2)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -1810,7 +1810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from, (2), case, (2)
+> **Frameworks & Libraries:** [[Metadata]] (1), hit (1), [[Phishing]] (1), data (1), node (1)
 > **Env Vars:** smtp (1), helo (1), rcpt (1), cip (1)
 > **CLI Commands:** make (1), find (1), node (1)
 > **Definitions:** is a  (3)
@@ -1889,8 +1889,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** vpn (8), dns (6), data (4), [[Security]] (1), [[Phishing]] (1)
 > **Env Vars:** vpn (8), dns (6), sql (1), ssl (1), tls (1)
-> **Code Keywords:** let (2), interface (1), this, (1), case, (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -1948,7 +1948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), this, (1), private (1)
+> **Frameworks & Libraries:** web (14), [[Search]] (5), vpn (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), caution (1)
@@ -1997,7 +1997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (4), [[Ethical Hacking]] (1), dns (1), [[GitHub]] (1), [[Kali Linux]] (1)
 > **Analogies:** it's like (1), such as (1)
 > **Env Vars:** dns (1)
 > **Tools:** github (1)
@@ -2006,7 +2006,7 @@ created: 2026-04-29
 
 ### 5. Footprinting Capstone
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conducting a forensic exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980)
@@ -2057,8 +2057,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), [[Capstone]] (3), [[Ethical Hacking]] (2), [[Phishing]] (2), [[Routing]] (1)
 > **UI Navigation:** go to (1), open the (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -2116,6 +2116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), next (2), [[Microsoft Word|Word]] (1), [[Firebase]] (1), generic (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **Definitions:** is a  (3)
 > **Warnings:** warning (2), caution (1)
@@ -2188,8 +2189,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Phishing]] (4), dns (4), [[Capstone]] (1), web (1), next (1)
 > **Env Vars:** dmarc (5), dns (4), dkim (3)
-> **Code Keywords:** let (2), case, (1), finally, (1)
 > **UI Navigation:** scroll down (2), go to (1), click on (1)
 > **Definitions:** is a  (2), is an  (1)
 > **URLs:** [cpanel.net](https://cpanel.net) (1)
@@ -2262,7 +2263,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (6), delete (1), from. (1)
+> **Frameworks & Libraries:** [[Search]] (2), web (2), next (1), data (1), [[Security]] (1)
 > **UI Navigation:** go to (3), scroll down (2)
 > **CLI Commands:** find (1)
 > **URLs:** [spamhaus.org](https://spamhaus.org) (1)
@@ -2272,7 +2273,7 @@ created: 2026-04-29
 
 ### 6. Wrapping up the Recon
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Guarding social media
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980)
@@ -2355,7 +2356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** data (4), business (3), [[Privacy]] (2), web (1), [[Phishing]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2433,8 +2434,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Security]] (4), [[Google]] (3), [[Search]] (2), business (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** dns (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** such as (1)
@@ -2520,7 +2521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1), public (1), private (1)
+> **Frameworks & Libraries:** business (4), [[Search]] (2), generic (1), data (1), web (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (2), such as (1)
 > **URLs:** [disney.com](https://disney.com) (2)
@@ -2556,6 +2557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Google]] (1), power (1), open-source (1), dns (1)
 > **Env Vars:** dns (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

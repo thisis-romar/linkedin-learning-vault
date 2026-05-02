@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Classes%20and%20Functions.md)
@@ -48,49 +48,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introduction
-  - Getting set up
-  - Tour of CoderPad
+  - [Introduction](#introduction)
+  - [Getting set up](#getting-set-up)
+  - [Tour of CoderPad](#tour-of-coderpad)
 - [**1. Language Features**](#1-language-features) (5 videos)
-  - Python coding style
-  - Understanding strings vs. bytes
-  - The assignment expression
-  - Boolean types and values
-  - Template strings
+  - [Python coding style](#python-coding-style)
+  - [Understanding strings vs. bytes](#understanding-strings-vs-bytes)
+  - [The assignment expression](#the-assignment-expression)
+  - [Boolean types and values](#boolean-types-and-values)
+  - [Template strings](#template-strings)
 - [**2. Advanced Functions**](#2-advanced-functions) (5 videos)
-  - Documentation strings
-  - Variable argument lists
-  - Lambda functions
-  - Keyword-only arguments
-  - Solution: Advanced Functions
+  - [Documentation strings](#documentation-strings)
+  - [Variable argument lists](#variable-argument-lists)
+  - [Lambda functions](#lambda-functions)
+  - [Keyword-only arguments](#keyword-only-arguments)
+  - [Solution: Advanced Functions](#solution-advanced-functions)
 - [**3. Python Comprehensions**](#3-python-comprehensions) (5 videos)
-  - Introduction to comprehensions
-  - List comprehensions
-  - Dictionary comprehensions
-  - Set comprehensions
-  - Solution: Comprehensions
+  - [Introduction to comprehensions](#introduction-to-comprehensions)
+  - [List comprehensions](#list-comprehensions)
+  - [Dictionary comprehensions](#dictionary-comprehensions)
+  - [Set comprehensions](#set-comprehensions)
+  - [Solution: Comprehensions](#solution-comprehensions)
 - [**4. Classes and Objects**](#4-classes-and-objects) (7 videos)
-  - Python classes overview
-  - Defining enumerations
-  - Special methods: string values
-  - Special methods: computed attributes
-  - Special methods: operations
-  - Special methods: comparisons
-  - Solution: Special Methods
+  - [Python classes overview](#python-classes-overview)
+  - [Defining enumerations](#defining-enumerations)
+  - [Special methods: string values](#special-methods-string-values)
+  - [Special methods: computed attributes](#special-methods-computed-attributes)
+  - [Special methods: operations](#special-methods-operations)
+  - [Special methods: comparisons](#special-methods-comparisons)
+  - [Solution: Special Methods](#solution-special-methods)
 - [**5. Structural Pattern Matching**](#5-structural-pattern-matching) (7 videos)
-  - Overview of pattern matching
-  - Simple patterns
-  - Capture patterns
-  - Class patterns
-  - Sequence patterns
-  - Pattern guards
-  - Solution: Patterns
+  - [Overview of pattern matching](#overview-of-pattern-matching)
+  - [Simple patterns](#simple-patterns)
+  - [Capture patterns](#capture-patterns)
+  - [Class patterns](#class-patterns)
+  - [Sequence patterns](#sequence-patterns)
+  - [Pattern guards](#pattern-guards)
+  - [Solution: Patterns](#solution-patterns)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980)
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (1), application (1), [[Automation]] (1), data (1)
 > **CLI Commands:** python (5)
 > **Analogies:** just like (1)
 > **Speakers:** - [joe] (1)
@@ -188,12 +189,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[GitHub]] (3), [[Codespaces]] (2), [[Search]] (2), cloud (1)
 > **CLI Commands:** python (8), make (2), find (1)
 > **Tools:** github (3), terminal (3), visual studio (2)
 > **Prerequisites:** install (4), set up (3), you'll need (1)
 > **UI Navigation:** click on (3), go to (2), open the (1), scroll down (1)
 > **Exercise Files:** download the (1), zip file (1)
-> **Code Keywords:** let (1)
 > **Versions:** version 3 (1)
 > **Analogies:** such as (1)
 
@@ -274,7 +275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Cross-References:** next video (1)
@@ -284,7 +285,7 @@ created: 2026-04-29
 
 ### 1. Language Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python coding style
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980)
@@ -375,8 +376,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Programming]] (2), [[Windows]] (1), data (1)
 > **CLI Commands:** python (8), make (3), find (1)
-> **Code Keywords:** let (2), function (2), else. (1)
 > **Env Vars:** pep (4)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -477,7 +478,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (4), this, (3), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
 > **Env Vars:** ascii (3)
 > **Versions:** python 3 (2)
@@ -663,7 +664,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (6), function (6), case, (4), this, (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (7), make (5), find (3)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (2)
@@ -753,7 +754,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), override (2), this, (2), default, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1)
 > **CLI Commands:** python (3), make (1)
 > **Versions:** 0.0 (1)
 > **Cross-References:** later in (1)
@@ -849,7 +850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (3), function (2), this, (2), pass (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (1), power (1)
 > **Exercise Files:** template (9)
 > **CLI Commands:** python (4), make (1)
 > **Documentation:** the documentation (1)
@@ -861,7 +862,7 @@ created: 2026-04-29
 
 ### 2. Advanced Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Documentation strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/documentation-strings?u=76281980)
@@ -960,7 +961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (7), module (6), this. (1), class, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), feature (2)
 > **CLI Commands:** python (4), make (4), find (1)
 > **Documentation:** the documentation (3)
 > **Tools:** terminal (2)
@@ -1061,7 +1062,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (14), pass (2), require (1), for. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** for example (2), imagine (1)
 > **Code Identifiers:** varargs_start (1)
@@ -1168,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), lambda (10), let (6), this, (2), case, (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Programming]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** celsius_to_fahrenheit (4), fahrenheit_to_celsius (4), lambda_start (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Analogies:** such as (1), for example (1)
@@ -1241,7 +1242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (7), require (2), this, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1)
 > **CLI Commands:** python (3), find (1), make (1)
 > **Analogies:** for example (2)
 > **Tools:** terminal (1)
@@ -1340,7 +1341,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (5), else. (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** python (1), make (1)
 > **Code Identifiers:** isinstance (2)
 > **Definitions:** is a  (1)
@@ -1350,7 +1351,7 @@ created: 2026-04-29
 
 ### 3. Python Comprehensions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to comprehensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction-to-comprehensions?u=76281980)
@@ -1403,7 +1404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), case, (2), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1523,7 +1524,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (12), lambda (5), this. (1), this, (1)
 > **CLI Commands:** make (4)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -1638,7 +1638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), this. (4), function (1)
+> **Frameworks & Libraries:** teams (2)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1), imagine (1)
 > **Tools:** terminal (1)
@@ -1764,7 +1764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), power (1), data (1)
 > **CLI Commands:** python (1), make (1)
 > **Versions:** 53.6 (1)
 > **Cross-References:** go back to (1)
@@ -1860,14 +1860,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), case, (2), this, (1)
+> **Frameworks & Libraries:** data (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Classes and Objects
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Python classes overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980)
@@ -1896,8 +1896,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
 > **CLI Commands:** python (6), make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2031,7 +2031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** enum (16), let (15), this. (5), this, (2), super (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (3), feature (1)
 > **Env Vars:** apple (11), banana (3), pear (3), red_delicious (2), orange (1)
 > **CLI Commands:** python (3), make (3)
 > **Code Identifiers:** my_fruits (3), enums_start (1)
@@ -2215,7 +2215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (20), let (15), self (10), override (6), this. (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (5), [[Debugging]] (1), next (1), [[Forms]] (1)
 > **CLI Commands:** python (9), make (1)
 > **Definitions:** is called (2), in other words (1), is a  (1)
 > **Analogies:** such as (2), for example (1)
@@ -2399,7 +2399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (9), self (8), this. (4), delete (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), css (1)
 > **Definitions:** is called (6)
 > **CLI Commands:** python (5)
 > **Env Vars:** rgb (2), css (1)
@@ -2589,7 +2589,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (6), self (5), this. (3), override (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (1)
 > **CLI Commands:** python (3)
 > **Analogies:** such as (2)
 > **Tools:** terminal (1)
@@ -2748,7 +2748,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (4), self (4), this. (4), type. (1)
 > **Code Identifiers:** comparison_start (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
@@ -2817,7 +2816,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), class. (1), this. (1), implements (1), override (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** similar to (1)
@@ -2826,7 +2824,7 @@ created: 2026-04-29
 
 ### 5. Structural Pattern Matching
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of pattern matching
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980)
@@ -2857,7 +2855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), else, (2), this. (1), case. (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[JavaScript]] (1), [[Java]] (1)
 > **CLI Commands:** python (3)
 > **Definitions:** known as (1), is called (1)
 > **Versions:** version 3 (1)
@@ -2908,7 +2906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), else, (2), else. (1), match. (1), this. (1)
+> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), feature (1)
 > **Code Identifiers:** simple_start (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -2972,7 +2970,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), match, (1), this. (1), let (1), case. (1)
+> **Frameworks & Libraries:** power (2), feature (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Tools:** terminal (1)
@@ -3043,7 +3041,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (2), case, (2), function (1), this, (1)
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -3143,7 +3140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (3), this. (2), for. (1)
+> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (2)
 > **Tools:** terminal (1)
@@ -3292,7 +3289,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), match. (3), this. (2), this, (2), case. (2)
+> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (2), generic (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** python (2), find (1)
 > **Analogies:** just like (1), for example (1)
@@ -3368,7 +3365,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (3), case, (2)
 > **Versions:** 4.95 (1), 389.3 (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -3376,7 +3372,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980)
@@ -3399,6 +3395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (8)
 > **URLs:** [python.org](https://python.org) (1)
 > **Env Vars:** gui (1)

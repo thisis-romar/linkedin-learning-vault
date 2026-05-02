@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20OWASP%20Top%2010%20for%20Large%20Language%20Model%20(LLM)%20Applications-%20An%20Overview.md)
@@ -52,47 +52,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Introducing the 2025 OWASP Top 10 for LLMs
-  - What is the OWASP Top 10 list?
-  - How to threat model LLM applications
+  - [Introducing the 2025 OWASP Top 10 for LLMs](#introducing-the-2025-owasp-top-10-for-llms)
+  - [What is the OWASP Top 10 list?](#what-is-the-owasp-top-10-list)
+  - [How to threat model LLM applications](#how-to-threat-model-llm-applications)
 - [**1. OWASP Top 10 for LLMs**](#1-owasp-top-10-for-llms) (4 videos)
-  - What is a prompt?
-  - What is prompt injection?
-  - What is jailbreaking? How does it differ from prompt injection?
-  - OWASP recommendations to defend against prompt injection
+  - [What is a prompt?](#what-is-a-prompt)
+  - [What is prompt injection?](#what-is-prompt-injection)
+  - [What is jailbreaking? How does it differ from prompt injection?](#what-is-jailbreaking-how-does-it-differ-from-prompt-injection)
+  - [OWASP recommendations to defend against prompt injection](#owasp-recommendations-to-defend-against-prompt-injection)
 - [**2. Sensitive Information Disclosure**](#2-sensitive-information-disclosure) (2 videos)
-  - What is sensitive information disclosure?
-  - How to prevent sensitive information disclosure
+  - [What is sensitive information disclosure?](#what-is-sensitive-information-disclosure)
+  - [How to prevent sensitive information disclosure](#how-to-prevent-sensitive-information-disclosure)
 - [**3. Supply Chain**](#3-supply-chain) (2 videos)
-  - Supply chain risks
-  - Securing the LLM supply chain
+  - [Supply chain risks](#supply-chain-risks)
+  - [Securing the LLM supply chain](#securing-the-llm-supply-chain)
 - [**4. Data and Model Poisoning**](#4-data-and-model-poisoning) (2 videos)
-  - What is data and model poisoning?
-  - How to stop data and model poisoning
+  - [What is data and model poisoning?](#what-is-data-and-model-poisoning)
+  - [How to stop data and model poisoning](#how-to-stop-data-and-model-poisoning)
 - [**5. Improper Output Handling**](#5-improper-output-handling) (2 videos)
-  - Insecure output handling
-  - Preventing improper output handling
+  - [Insecure output handling](#insecure-output-handling)
+  - [Preventing improper output handling](#preventing-improper-output-handling)
 - [**6. Excessive Agency**](#6-excessive-agency) (2 videos)
-  - Excessive agency
-  - Excessive agency mitigations
+  - [Excessive agency](#excessive-agency)
+  - [Excessive agency mitigations](#excessive-agency-mitigations)
 - [**7. System Prompt Leakage**](#7-system-prompt-leakage) (2 videos)
-  - System prompt leakage
-  - System prompt leakage: Mitigations
+  - [System prompt leakage](#system-prompt-leakage)
+  - [System prompt leakage: Mitigations](#system-prompt-leakage-mitigations)
 - [**8. Vector and Embedding Weaknesses**](#8-vector-and-embedding-weaknesses) (2 videos)
-  - Vector and embedding vulnerabilities
-  - Vector and embedding vulnerabilities mitigations
+  - [Vector and embedding vulnerabilities](#vector-and-embedding-vulnerabilities)
+  - [Vector and embedding vulnerabilities mitigations](#vector-and-embedding-vulnerabilities-mitigations)
 - [**9. Misinformation**](#9-misinformation) (2 videos)
-  - Misinformation
-  - Misinformation mitigations
+  - [Misinformation](#misinformation)
+  - [Misinformation mitigations](#misinformation-mitigations)
 - [**10. Unbounded Consumption**](#10-unbounded-consumption) (2 videos)
-  - Unbounded consumption
-  - Unbounded consumption mitigations
+  - [Unbounded consumption](#unbounded-consumption)
+  - [Unbounded consumption mitigations](#unbounded-consumption-mitigations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Final thoughts and next steps
+  - [Final thoughts and next steps](#final-thoughts-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the 2025 OWASP Top 10 for LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/introduction-to-2025-owasp-top-10-for-llm-s?u=76281980)
@@ -111,9 +111,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[ChatGPT]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Cybersecurity]] (1), [[OWASP]] (1)
 > **Env Vars:** ceo (1), owasp (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - since (1)
 
 #### What is the OWASP Top 10 list?
@@ -147,9 +147,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (7), [[Security]] (7), ai (4), [[Large Language Models (LLM)|Large language models]] (2), web application (1)
 > **Env Vars:** owasp (7), llm (1)
 > **Definitions:** is a  (2), stands for (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - welcome (1)
 
 #### How to threat model LLM applications
@@ -211,7 +211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** prompt (4), llm (3), application (2), [[Security]] (1), next (1)
 > **Env Vars:** llm (3), ovos (2)
 > **Analogies:** think of it like (1)
 > **Warnings:** watch out (1)
@@ -220,7 +220,7 @@ created: 2026-04-29
 
 ### 1. OWASP Top 10 for LLMs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a prompt?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/what-is-a-prompt?u=76281980)
@@ -281,8 +281,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (12), llm (2), product (2), next (2), [[OWASP]] (1)
 > **Env Vars:** llm (2), owasp (1)
-> **Code Keywords:** let (1), interface (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -390,7 +390,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), public (1), private (1)
+> **Frameworks & Libraries:** prompt (13), ai (7), [[OWASP]] (3), data (2), web (2)
 > **Env Vars:** owasp (3), llm (1), nasa (1), html (1)
 > **Analogies:** imagine (2), think of it like (1)
 > **Tools:** gitlab (2)
@@ -482,7 +482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), this. (1), override (1)
+> **Frameworks & Libraries:** prompt (7), ai (5), chatbot (3), [[OWASP]] (1), [[Storytelling]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), it's like (1)
@@ -579,7 +579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else. (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** prompt (3), next (3), ai (3), [[OWASP]] (2), data (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** owasp (2), json (1), rag (1)
 > **Cross-References:** in the next (1)
@@ -591,7 +591,7 @@ created: 2026-04-29
 
 ### 2. Sensitive Information Disclosure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is sensitive information disclosure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/what-is-sensitive-information-disclosure?u=76281980)
@@ -696,7 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), private (3), finally, (1), public (1), this, (1)
+> **Frameworks & Libraries:** data (14), [[OWASP]] (4), next (3), [[Privacy]] (2), llm (2)
 > **Env Vars:** owasp (4), llm (2), api (1), vpn (1)
 > **Analogies:** think of it like (1), just like (1), imagine (1)
 > **URLs:** [email.com](https://email.com) (1)
@@ -791,7 +791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), let (3), this. (1), delete (1)
+> **Frameworks & Libraries:** data (12), ai (4), llm (2), prompt (2), [[Privacy]] (1)
 > **Env Vars:** dlp (2), llm (2), gdpr (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
@@ -801,7 +801,7 @@ created: 2026-04-29
 
 ### 3. Supply Chain
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supply chain risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/supply-chain-risks?u=76281980)
@@ -910,9 +910,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), llm (5), [[Hugging Face]] (4), ai (3), open-source (3)
 > **Env Vars:** llm (5), owasp (2), aws (1)
 > **Analogies:** for example (3), just like (1), it's like (1), think of it like (1)
-> **Code Keywords:** let (3), case. (1)
 > **CLI Commands:** cd (1), make (1), aws (1)
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** in the next (1)
@@ -999,7 +999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), from, (1), finally, (1)
+> **Frameworks & Libraries:** ai (7), data (7), next (2), application (1), llm (1)
 > **Analogies:** think of it like (1), imagine (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
@@ -1010,7 +1010,7 @@ created: 2026-04-29
 
 ### 4. Data and Model Poisoning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data and model poisoning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/what-is-data-and-model-poisoning?u=76281980)
@@ -1111,8 +1111,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), llm (4), [[OWASP]] (3), next (2), ai (1)
 > **Env Vars:** llm (4), owasp (3)
-> **Code Keywords:** let (5), require (1)
 > **Cross-References:** we discussed (1), previous video (1), in the next (1)
 > **Analogies:** such as (1), imagine (1)
 > **Warnings:** warning (1), caution (1)
@@ -1201,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (1), public (1)
+> **Frameworks & Libraries:** data (15), [[Fine Tuning]] (1), next (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** bom (1)
@@ -1211,7 +1211,7 @@ created: 2026-04-29
 
 ### 5. Improper Output Handling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Insecure output handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/insecure-output-handling?u=76281980)
@@ -1290,7 +1290,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), private (1)
+> **Frameworks & Libraries:** ai (8), [[Large Language Models (LLM)|Large language models]] (3), [[Scripting]] (3), chatbot (3), [[ChatGPT]] (3)
 > **Env Vars:** owasp (2), llm (1), gps (1)
 > **Analogies:** imagine (1), just like (1), it's like (1)
 > **Cross-References:** in the next (1)
@@ -1361,8 +1361,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), [[JSON]] (1), data (1), ai (1), next (1)
 > **Env Vars:** llm (4), json (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -1371,7 +1371,7 @@ created: 2026-04-29
 
 ### 6. Excessive Agency
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Excessive agency
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/excessive-agency?u=76281980)
@@ -1446,7 +1446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (3), private (1)
+> **Frameworks & Libraries:** ai (3), power (3), [[OWASP]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Databases]] (1)
 > **Cross-References:** we talked about (2), in the last (1), go back to (1), we discussed (1), previous video (1)
 > **Analogies:** for example (3), it's like (1)
 > **Env Vars:** owasp (2), llm (1)
@@ -1501,7 +1501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), require (1)
+> **Frameworks & Libraries:** ai (4), next (3), llm (1), [[Security]] (1), prompt (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
@@ -1512,7 +1512,7 @@ created: 2026-04-29
 
 ### 7. System Prompt Leakage
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### System prompt leakage
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/system-prompt-leakage?u=76281980)
@@ -1601,7 +1601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), this. (1), private (1), public (1)
+> **Frameworks & Libraries:** prompt (18), application (2), [[OWASP]] (1), ai (1), [[Security]] (1)
 > **Analogies:** for example (2), think of it like (1), it's like (1)
 > **Env Vars:** owasp (1), api (1)
 > **Cross-References:** earlier in (1), in the next (1)
@@ -1695,7 +1695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), protected (1)
+> **Frameworks & Libraries:** prompt (3), llm (3), api (1), data (1), hit (1)
 > **Env Vars:** llm (3), api (1)
 > **CLI Commands:** make (3)
 > **Analogies:** it's like (1), imagine (1)
@@ -1706,7 +1706,7 @@ created: 2026-04-29
 
 ### 8. Vector and Embedding Weaknesses
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Vector and embedding vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/vector-and-embedding-vulnerabilities?u=76281980)
@@ -1823,11 +1823,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), [[Microsoft Word|Word]] (4), ai (4), [[Large Language Models (LLM)|Large language models]] (3), data (3)
 > **Env Vars:** llm (5), owasp (2), rag (2), gps (1), covid (1)
 > **Analogies:** just like (1), picture (1), think of it like (1), for example (1), it's like (1)
 > **Definitions:** is called (3), is a  (1)
 > **CLI Commands:** find (2), cat (1)
-> **Code Keywords:** this, (2), let (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -1875,16 +1875,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[OWASP]] (3), [[Vector Databases]] (1), next (1)
 > **Env Vars:** owasp (3), gpt (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 9. Misinformation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Misinformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/misinformation?u=76281980)
@@ -1957,7 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (3), next (2), [[OWASP]] (1), [[Security]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** owasp (1), llm (1)
 > **Cross-References:** in the next (2)
 > **Speakers:** - [instructor] (1)
@@ -2017,18 +2017,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Databases]] (2), ai (2), next (2), rag (1)
 > **Env Vars:** rag (1), llm (1), gps (1), owasp (1)
 > **Cross-References:** in the last (1), we covered (1), earlier in (1), in the next (1)
 > **Analogies:** for example (2), think of it like (1), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 10. Unbounded Consumption
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unbounded consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/unbounded-consumption?u=76281980)
@@ -2093,8 +2093,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (3), [[Google]] (3), ai (3), [[OWASP]] (2), [[Large Language Models (LLM)|Large language models]] (2)
 > **Env Vars:** owasp (2), cpu (1), llm (1)
-> **Code Keywords:** let (2), public (1)
 > **Analogies:** such as (1), imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2156,15 +2156,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (3), [[Tokens]] (3), [[OWASP]] (2), traffic (1), cloud (1)
 > **Env Vars:** llm (3), owasp (2)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/final-thoughts-and-next-steps?u=76281980)
@@ -2199,7 +2199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), public (1)
+> **Frameworks & Libraries:** ai (5), [[OWASP]] (2), [[Security]] (2), [[Large Language Models (LLM)|Large language models]] (1), teams (1)
 > **Env Vars:** owasp (2)
 > **Cross-References:** we covered (1), earlier in (1)
 > **Speakers:** - thank (1)

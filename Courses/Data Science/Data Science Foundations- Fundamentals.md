@@ -39,7 +39,7 @@ tags:
   - topic/security
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Foundations-%20Fundamentals.md)
@@ -58,75 +58,75 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome
+  - [Welcome](#welcome)
 - [**1. What Is Data Science?**](#1-what-is-data-science) (6 videos)
-  - Supply and demand for data science
-  - The data science Venn diagram revisited
-  - The evolution of data science
-  - The CRISP-DM framework
-  - Roles, teams, and tools in modern data science
-  - The central role of questions in data science
+  - [Supply and demand for data science](#supply-and-demand-for-data-science)
+  - [The data science Venn diagram revisited](#the-data-science-venn-diagram-revisited)
+  - [The evolution of data science](#the-evolution-of-data-science)
+  - [The CRISP-DM framework](#the-crisp-dm-framework)
+  - [Roles, teams, and tools in modern data science](#roles-teams-and-tools-in-modern-data-science)
+  - [The central role of questions in data science](#the-central-role-of-questions-in-data-science)
 - [**2. The Place of Data Science in the Data Universe**](#2-the-place-of-data-science-in-the-data-universe) (8 videos)
-  - Artificial intelligence
-  - Machine learning
-  - Deep learning and neural networks
-  - Transformers and attention for generative AI
-  - Big data
-  - Predictive analytics
-  - Prescriptive analytics
-  - The evolution of business intelligence
+  - [Artificial intelligence](#artificial-intelligence)
+  - [Machine learning](#machine-learning)
+  - [Deep learning and neural networks](#deep-learning-and-neural-networks)
+  - [Transformers and attention for generative AI](#transformers-and-attention-for-generative-ai)
+  - [Big data](#big-data)
+  - [Predictive analytics](#predictive-analytics)
+  - [Prescriptive analytics](#prescriptive-analytics)
+  - [The evolution of business intelligence](#the-evolution-of-business-intelligence)
 - [**3. Ethics, Privacy, and Regulation**](#3-ethics-privacy-and-regulation) (5 videos)
-  - Bias
-  - Security and privacy
-  - Legal
-  - Explainable AI
-  - Agency of algorithms and decision-makers
+  - [Bias](#bias)
+  - [Security and privacy](#security-and-privacy)
+  - [Legal](#legal)
+  - [Explainable AI](#explainable-ai)
+  - [Agency of algorithms and decision-makers](#agency-of-algorithms-and-decision-makers)
 - [**4. Sources of Data and Insights**](#4-sources-of-data-and-insights) (11 videos)
-  - Data preparation
-  - Labeling data for supervised learning
-  - In-house data
-  - Open data
-  - APIs
-  - Scraping data
-  - Synthetic data and simulation environments
-  - Passive collection of training data
-  - Data vendors
-  - New data from surveys and experiments
-  - Data ethics
+  - [Data preparation](#data-preparation)
+  - [Labeling data for supervised learning](#labeling-data-for-supervised-learning)
+  - [In-house data](#in-house-data)
+  - [Open data](#open-data)
+  - [APIs](#apis)
+  - [Scraping data](#scraping-data)
+  - [Synthetic data and simulation environments](#synthetic-data-and-simulation-environments)
+  - [Passive collection of training data](#passive-collection-of-training-data)
+  - [Data vendors](#data-vendors)
+  - [New data from surveys and experiments](#new-data-from-surveys-and-experiments)
+  - [Data ethics](#data-ethics)
 - [**5. Tools and Techniques for Data Science**](#5-tools-and-techniques-for-data-science) (5 videos)
-  - Applications for data analysis
-  - Languages for data science
-  - Alternatives to programming: Low-code, no-code, and AutoML
-  - MLOps
-  - Machine learning and AI as a service
+  - [Applications for data analysis](#applications-for-data-analysis)
+  - [Languages for data science](#languages-for-data-science)
+  - [Alternatives to programming: Low-code, no-code, and AutoML](#alternatives-to-programming-low-code-no-code-and-automl)
+  - [MLOps](#mlops)
+  - [Machine learning and AI as a service](#machine-learning-and-ai-as-a-service)
 - [**6. Math Foundations for Data Science**](#6-math-foundations-for-data-science) (5 videos)
-  - Sampling and probability
-  - Algebra
-  - Calculus
-  - Optimization and the combinatorial explosion
-  - Bayes' theorem
+  - [Sampling and probability](#sampling-and-probability)
+  - [Algebra](#algebra)
+  - [Calculus](#calculus)
+  - [Optimization and the combinatorial explosion](#optimization-and-the-combinatorial-explosion)
+  - [Bayes' theorem](#bayes-theorem)
 - [**7. Learning Paradigms**](#7-learning-paradigms) (8 videos)
-  - Supervised, unsupervised, and reinforcement learning
-  - Descriptive analytics
-  - Clustering techniques
-  - Dimensionality reduction
-  - Anomaly detection
-  - Trend analysis
-  - Aggregating models
-  - Validating models
+  - [Supervised, unsupervised, and reinforcement learning](#supervised-unsupervised-and-reinforcement-learning)
+  - [Descriptive analytics](#descriptive-analytics)
+  - [Clustering techniques](#clustering-techniques)
+  - [Dimensionality reduction](#dimensionality-reduction)
+  - [Anomaly detection](#anomaly-detection)
+  - [Trend analysis](#trend-analysis)
+  - [Aggregating models](#aggregating-models)
+  - [Validating models](#validating-models)
 - [**8. Algorithms That Create**](#8-algorithms-that-create) (2 videos)
-  - Generative Adversarial Networks (GANs)
-  - Reinforcement learning
+  - [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
+  - [Reinforcement learning](#reinforcement-learning)
 - [**9. Acting on Data Science**](#9-acting-on-data-science) (3 videos)
-  - The importance of interpretability in AI
-  - Techniques for creating interpretable models
-  - Delivering actionable insights
+  - [The importance of interpretability in AI](#the-importance-of-interpretability-in-ai)
+  - [Techniques for creating interpretable models](#techniques-for-creating-interpretable-models)
+  - [Delivering actionable insights](#delivering-actionable-insights)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980)
@@ -149,14 +149,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Generative AI]] (1), [[Data Science Foundations]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [barton] (1)
 
 
 ### 1. What Is Data Science?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supply and demand for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980)
@@ -255,7 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** data (24), ai (2), [[Unstructured Data]] (2), [[Deep Learning]] (1), business (1)
 > **CLI Commands:** find (1)
 > **Versions:** 2.6 (1)
 > **Cross-References:** later in (1)
@@ -366,8 +366,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Programming]] (4), [[Data Manipulation]] (2), [[SQL]] (2), [[Decision-Making]] (2)
 > **Definitions:** is an  (2), stands for (1), is a  (1), means that (1)
-> **Code Keywords:** require (1), finally, (1), static (1), for, (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for instance (1)
@@ -470,7 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), public (1)
+> **Frameworks & Libraries:** data (18), [[Generative AI]] (5), [[Big Data]] (4), [[Predictive Analytics]] (3), ai (3)
 > **Env Vars:** spss (1), dall (1)
 > **CLI Commands:** make (1)
 > **URLs:** [claude.ai](https://claude.ai) (1)
@@ -556,11 +556,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[CRISP-DM]] (4), business (3), next (2), management (2)
 > **Env Vars:** crisp (4), asum (2), ibm (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), short for (1), known as (1), stands for (1)
 > **Analogies:** for instance (2)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Roles, teams, and tools in modern data science
@@ -640,11 +640,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), business (7), [[SQL]] (2), [[Hardware]] (1), next (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** picture (2), for instance (1)
 > **Env Vars:** sql (2)
 > **Definitions:** known as (1), is a  (1)
-> **Code Keywords:** for. (1)
 > **Speakers:** - [instructor] (1)
 
 #### The central role of questions in data science
@@ -734,15 +734,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), business (2), [[Probability]] (1), [[Dashboards]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Analogies:** for example (2), for instance (1)
-> **Code Keywords:** while, (1), for, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. The Place of Data Science in the Data Universe
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980)
@@ -907,7 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2), else. (1), while, (1), for, (1)
+> **Frameworks & Libraries:** data (23), ai (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (12), [[Generative AI]] (6), [[Algorithms]] (5)
 > **Definitions:** is a  (3), is called (1), stands for (1), refers to (1)
 > **CLI Commands:** find (2), cat (1), make (1)
 > **Env Vars:** gofai (1), gpt (1), bert (1)
@@ -1065,9 +1065,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Neural Networks]] (5), [[Algorithms]] (4), power (2), [[React.js|React]] (1)
 > **CLI Commands:** find (3), cat (2), make (1)
 > **Definitions:** is a  (5), means that (1)
-> **Code Keywords:** function (2), this. (1), this, (1), new. (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [narrator] (1)
 
@@ -1182,11 +1182,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (17), data (10), [[Deep Learning]] (8), ai (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Analogies:** for example (2), for instance (2), imagine (1), picture (1), just like (1)
 > **Definitions:** is a  (4), is called (1), refers to (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** gpt (1), xai (1), gdpr (1), ccpa (1)
-> **Code Keywords:** switch (1), finally, (1), require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Transformers and attention for generative AI
@@ -1296,7 +1296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), else. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Generative AI]] (6), data (5), [[Neural Networks]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** lstm (1), rnn (1), ltsm (1)
 > **CLI Commands:** python (1), make (1)
 > **Cross-References:** later in (1), earlier in (1)
@@ -1415,7 +1415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), require (1)
+> **Frameworks & Libraries:** data (31), [[Big Data]] (16), [[Programming]] (3), [[Hadoop]] (2), [[Databases]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** gps (1)
@@ -1517,8 +1517,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Predictive Analytics]] (4), web (1), next (1), [[Generative AI]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (2), this. (1), case. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for instance (2)
 > **Warnings:** keep in mind (1), be aware (1)
@@ -1706,7 +1706,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (2), else. (1), public (1), this, (1)
+> **Frameworks & Libraries:** data (9), [[Analytics]] (5), [[Generative AI]] (5), [[Causal Inference]] (4), [[Predictive Analytics]] (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** egm (2), rct (1)
 > **Analogies:** for instance (2), for example (1)
@@ -1806,16 +1806,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Business Intelligence (BI)|Business intelligence]] (10), bi (5), business (2), [[Analytics]] (2)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for instance (3), picture (1)
-> **Code Keywords:** finally, (1), require (1), function (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Ethics, Privacy, and Regulation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980)
@@ -1918,7 +1918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), self (1), finally, (1), this, (1), new, (1)
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (4), ai (4), [[Generative AI]] (2), [[Forms]] (1)
 > **Analogies:** for instance (2), picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2059,8 +2059,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Security]] (6), [[Algorithms]] (3), [[Generative AI]] (3), ai (3)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (3), this, (1), else, (1), else. (1), finally, (1)
 > **Analogies:** for instance (4), think of it as (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2118,8 +2118,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Privacy]] (5), ai (5), [[Accountability]] (2), [[Forms]] (2)
 > **Env Vars:** hipaa (1), ferpa (1), gdpr (1), dsa (1)
-> **Code Keywords:** continue (1), pass (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Warnings:** be aware (1)
@@ -2290,8 +2290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), ai (9), [[Algorithms]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Neural Networks]] (3)
 > **Env Vars:** xai (3), compas (2), ccpa (1), gdpr (1), ibm (1)
-> **Code Keywords:** this, (3), require (1), function (1), finally, (1), this. (1)
 > **Definitions:** is a  (3), means that (1), refers to (1), is an  (1)
 > **Analogies:** for instance (3), imagine (1), think of it as (1), for example (1)
 > **CLI Commands:** node (2), make (1)
@@ -2408,7 +2408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (1), self (1), case. (1), finally, (1)
+> **Frameworks & Libraries:** ai (12), data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (3), power (3)
 > **Analogies:** for instance (3), such as (2), for example (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdpr (1)
@@ -2419,7 +2419,7 @@ created: 2026-04-29
 
 ### 4. Sources of Data and Insights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980)
@@ -2514,7 +2514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), for, (1), require (1)
+> **Frameworks & Libraries:** data (23), [[Linear Regression]] (2), ai (1), [[Microsoft Excel|Excel]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Env Vars:** gigo (1), csv (1)
 > **Analogies:** for instance (1), just like (1)
@@ -2665,8 +2665,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), database (1), [[Algorithms]] (1)
 > **Analogies:** for instance (6), just like (1), kind of like (1), for example (1)
-> **Code Keywords:** public (1), case, (1), this. (1), from. (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** setup (1), you need to have (1)
 > **CLI Commands:** make (1)
@@ -2777,9 +2777,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (37), [[Privacy]] (1), [[Statistics]] (1), business (1), [[Big Data]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Env Vars:** gdpr (1), ferpa (1), rot (1)
 > **Analogies:** for instance (2)
 > **Best Practices:** don't forget (1)
@@ -2862,8 +2862,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (28), [[Windows]] (2), [[Search]] (2), [[Microsoft Products|Products]] (1), cloud (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** public (3), let (1)
 > **URLs:** [data.gov](https://data.gov) (2), [utah.gov](https://utah.gov) (1)
 > **Analogies:** for example (1), for instance (1), it's like (1)
 > **Env Vars:** icsu (1)
@@ -2923,10 +2923,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), application (3), api (2), [[JSON]] (2), web (2)
 > **Env Vars:** api (2), json (2)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** interface (1)
 > **Tools:** slack (1)
 > **Definitions:** stands for (1)
 > **Analogies:** picture (1)
@@ -3001,7 +3001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), private (1), let (1), for. (1), case. (1)
+> **Frameworks & Libraries:** data (25), [[Google]] (4), [[Privacy]] (2), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Ethics]] (1)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Analogies:** for instance (3), just like (1)
 > **Definitions:** is a  (3)
@@ -3121,7 +3121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), require (1), private (1), protected (1)
+> **Frameworks & Libraries:** data (23), ai (16), [[Generative AI]] (5), [[Simulation]] (4), [[Privacy]] (3)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (1)
@@ -3202,10 +3202,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3316,8 +3316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Privacy]] (3), business (2), product (2), web (2)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** finally, (2), continue (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), for instance (1)
 > **Prerequisites:** you need to have (1)
@@ -3446,7 +3446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), this. (1), let (1), protected (1), finally, (1)
+> **Frameworks & Libraries:** data (15), [[Privacy]] (2), express (1), [[E-Commerce]] (1), next (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (3), picture (1)
 > **Env Vars:** diy (1)
@@ -3554,7 +3554,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (4), let (2), default, (1), default. (1), require (1)
+> **Frameworks & Libraries:** data (26), [[Privacy]] (6), [[Ethics]] (4), web (2), [[Security]] (1)
 > **Analogies:** for instance (2), similar to (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -3565,7 +3565,7 @@ created: 2026-04-29
 
 ### 5. Tools and Techniques for Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applications for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980)
@@ -3652,8 +3652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[SQL]] (3), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Programming]] (1)
 > **Env Vars:** sql (3), jasp (2), csv (1), spss (1)
-> **Code Keywords:** case. (1), public (1), interface (1), let (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** select the (1), click on (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -3733,8 +3733,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (9), [[Programming]] (5), [[SQL]] (1), [[Java]] (1)
 > **CLI Commands:** python (9), find (1), make (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** sql (1), matlab (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -3828,9 +3828,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (4), [[Programming]] (3), [[Algorithms]] (2), [[Google]] (2)
 > **CLI Commands:** python (4), make (3)
 > **Env Vars:** spss (3), knime (1), h2o (1), nni (1)
-> **Code Keywords:** interface (1), finally, (1), this, (1)
 > **Analogies:** for example (1), for instance (1), it's like (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is an  (1)
@@ -3902,9 +3902,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (8), data (7), [[Microsoft Products|Products]] (4), [[DevOps]] (4), product (3)
 > **CLI Commands:** docker (2), make (1), cd (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
-> **Code Keywords:** case, (1), this, (1)
 > **Analogies:** for instance (2)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -3996,17 +3996,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), ai (3), application (2), [[Microsoft Excel|Excel]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **CLI Commands:** aws (2), make (2)
 > **Env Vars:** aws (2), eniac (1), ibm (1)
 > **Analogies:** for instance (2), for example (1), picture (1)
-> **Code Keywords:** continue (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Math Foundations for Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sampling and probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980)
@@ -4077,7 +4077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), this, (1), from. (1), function (1), let (1)
+> **Frameworks & Libraries:** data (10), [[Probability]] (4), ai (1), [[Algorithms]] (1), product (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
@@ -4242,8 +4242,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), next (6), [[Linear Algebra]] (2), [[Linear Regression]] (1), power (1)
 > **Definitions:** is a  (9), is an  (2), stands for (2), known as (1)
-> **Code Keywords:** let (3), case, (2), this. (1), else. (1), case. (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Warnings:** be aware (1)
@@ -4350,7 +4350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9)
+> **Frameworks & Libraries:** [[Calculus]] (5), product (1), next (1)
 > **CLI Commands:** find (4), make (2)
 > **Versions:** 22.5 (2), 1.225 (1)
 > **Cross-References:** go back to (2)
@@ -4476,7 +4476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), from, (2), function (2), from. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Calculus]] (2), [[Programming]] (2), data (2), teams (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **Prerequisites:** you need to have (1), set up (1)
@@ -4588,7 +4588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), this, (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Probability]] (8), data (6), next (1)
 > **Versions:** 4.5 (4), 9.5 (2), 32.1 (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
@@ -4597,7 +4597,7 @@ created: 2026-04-29
 
 ### 7. Learning Paradigms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supervised, unsupervised, and reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980)
@@ -4656,8 +4656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Algorithms]] (4), [[Supervised Learning]] (3), [[Reinforcement Learning]] (2), [[Logistic Regression]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** this, (1), this. (1), for. (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4812,8 +4812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (23), [[Statistics]] (3), business (1), [[Algorithms]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (5), make (2)
-> **Code Keywords:** this. (2), let (1), case, (1), throw (1)
 > **Analogies:** imagine (1), for instance (1), such as (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** iqr (1)
@@ -4946,10 +4946,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Search]] (3), next (1), [[E-Commerce]] (1), [[Google]] (1)
 > **Analogies:** for instance (3), for example (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5094,7 +5094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (2), finally, (1)
+> **Frameworks & Libraries:** data (12), ai (4), [[Generative AI]] (2), power (2), feature (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** pca (1), gpt (1)
 > **Definitions:** is called (1)
@@ -5220,8 +5220,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), [[Generative AI]] (2), [[Microsoft Office|Office]] (1), [[Probability]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (5), find (2), cat (1)
-> **Code Keywords:** this, (4), this. (2), finally, (1)
 > **Definitions:** is a  (5), means that (1)
 > **Env Vars:** sql (1)
 > **Analogies:** for instance (1)
@@ -5404,9 +5404,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Neural Networks]] (6), next (2), [[Generative AI]] (2), [[Algorithms]] (1)
 > **Env Vars:** arima (12), mlp (2), arma (1), sarima (1), ceramax (1)
 > **Definitions:** is a  (7), means that (2), stands for (1)
-> **Code Keywords:** function (3), this. (3), let (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (3), such as (1)
 > **Cross-References:** go back to (1), in the last (1)
@@ -5560,7 +5560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), super (1), finally, (1)
+> **Frameworks & Libraries:** data (13), [[Algorithms]] (3), [[Linear Regression]] (2), prompt (2), ai (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for instance (1), it's like (1), for example (1)
 > **CLI Commands:** find (2)
@@ -5667,16 +5667,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Algorithms]] (2), web (1), [[Forms]] (1), [[Programming]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for instance (3), think of it as (1)
 > **Env Vars:** ascii (1), oob (1)
-> **Code Keywords:** from. (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Algorithms That Create
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative Adversarial Networks (GANs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980)
@@ -5849,9 +5849,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Transformer Models]] (5), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (3), ai (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4), is called (2), is an  (2), means that (1)
 > **Analogies:** for instance (4), picture (1), kind of like (1)
-> **Code Keywords:** require (2), this. (2), this, (1)
 > **Env Vars:** gan (1), gpt (1), dall (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -5951,7 +5951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), function (2), continue (1), from. (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (11), data (4), [[Algorithms]] (1), [[Probability]] (1)
 > **Definitions:** is called (2), is a  (2), stands for (1), is an  (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for instance (3), for example (1)
@@ -5962,7 +5962,7 @@ created: 2026-04-29
 
 ### 9. Acting on Data Science
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of interpretability in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980)
@@ -6027,8 +6027,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Algorithms]] (3), application (1), [[Deep Learning]] (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** this, (2), case, (1), this. (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -6109,8 +6109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (4), [[Decision Trees]] (3), [[Linear Regression]] (2), [[Neural Networks]] (2)
 > **Definitions:** is a  (4), refers to (1), is an  (1)
-> **Code Keywords:** throw (1), this, (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -6184,6 +6184,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** earlier in (1)
@@ -6193,7 +6194,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980)
@@ -6246,10 +6247,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (2), business (2), [[LinkedIn]] (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for instance (2), for example (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** this. (1), this, (1)
 > **Env Vars:** odsc (1), mads (1)
 > **Speakers:** - [narrator] (1)
 

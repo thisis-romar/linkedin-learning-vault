@@ -39,7 +39,7 @@ tags:
   - topic/artificial-intelligence
   - skill/kubernetes
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Kubernetes.md)
@@ -58,47 +58,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Setting sail on your Kubernetes voyage
-  - What you should know
+  - [Setting sail on your Kubernetes voyage](#setting-sail-on-your-kubernetes-voyage)
+  - [What you should know](#what-you-should-know)
 - [**1. Kubernetes and the Cloud-Native Ecosystem**](#1-kubernetes-and-the-cloud-native-ecosystem) (3 videos)
-  - What is Kubernetes?
-  - What are containers?
-  - What is cloud native?
+  - [What is Kubernetes?](#what-is-kubernetes)
+  - [What are containers?](#what-are-containers)
+  - [What is cloud native?](#what-is-cloud-native)
 - [**2. Setting Up and Getting Oriented**](#2-setting-up-and-getting-oriented) (7 videos)
-  - Install Docker on Windows
-  - Install Docker on Linux
-  - Install Docker on macOS
-  - Install minikube on Windows
-  - Install minikube on Linux
-  - Install minikube on macOS
-  - Spin up and explore a minikube cluster
+  - [Install Docker on Windows](#install-docker-on-windows)
+  - [Install Docker on Linux](#install-docker-on-linux)
+  - [Install Docker on macOS](#install-docker-on-macos)
+  - [Install minikube on Windows](#install-minikube-on-windows)
+  - [Install minikube on Linux](#install-minikube-on-linux)
+  - [Install minikube on macOS](#install-minikube-on-macos)
+  - [Spin up and explore a minikube cluster](#spin-up-and-explore-a-minikube-cluster)
 - [**3. Application Deployment**](#3-application-deployment) (8 videos)
-  - Reading and writing YAML
-  - Create a namespace
-  - Deploy an application
-  - Check the health of a pod by looking at the event logs
-  - Check that your application is working with BusyBox
-  - View your application logs
-  - Challenge
-  - Solution
+  - [Reading and writing YAML](#reading-and-writing-yaml)
+  - [Create a namespace](#create-a-namespace)
+  - [Deploy an application](#deploy-an-application)
+  - [Check the health of a pod by looking at the event logs](#check-the-health-of-a-pod-by-looking-at-the-event-logs)
+  - [Check that your application is working with BusyBox](#check-that-your-application-is-working-with-busybox)
+  - [View your application logs](#view-your-application-logs)
+  - [Challenge](#challenge)
+  - [Solution](#solution)
 - [**4. Complex Application Deployment**](#4-complex-application-deployment) (3 videos)
-  - Expose your application to the internet with a LoadBalancer
-  - Add resource requests and limits to your pod
-  - Delete your Kubernetes objects and tear down your cluster
+  - [Expose your application to the internet with a LoadBalancer](#expose-your-application-to-the-internet-with-a-loadbalancer)
+  - [Add resource requests and limits to your pod](#add-resource-requests-and-limits-to-your-pod)
+  - [Delete your Kubernetes objects and tear down your cluster](#delete-your-kubernetes-objects-and-tear-down-your-cluster)
 - [**5. Kubernetes Architecture**](#5-kubernetes-architecture) (3 videos)
-  - The Kubernetes control plane
-  - Kubernetes worker nodes
-  - How the control plane and nodes work together
+  - [The Kubernetes control plane](#the-kubernetes-control-plane)
+  - [Kubernetes worker nodes](#kubernetes-worker-nodes)
+  - [How the control plane and nodes work together](#how-the-control-plane-and-nodes-work-together)
 - [**6. Advanced Topics**](#6-advanced-topics) (3 videos)
-  - Ways to manage Kubernetes pods
-  - Running stateful workloads
-  - Kubernetes security
+  - [Ways to manage Kubernetes pods](#ways-to-manage-kubernetes-pods)
+  - [Running stateful workloads](#running-stateful-workloads)
+  - [Kubernetes security](#kubernetes-security)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps on your Kubernetes voyage
+  - [Next steps on your Kubernetes voyage](#next-steps-on-your-kubernetes-voyage)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting sail on your Kubernetes voyage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980)
@@ -131,8 +131,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Orchestration]] (2), [[Security]] (1), [[Troubleshooting]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** cern (1)
 > **Speakers:** - kubernetes (1)
 
@@ -159,9 +159,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Windows]] (1), [[Linux]] (1), application (1), cd (1)
 > **CLI Commands:** docker (4), make (1), mkdir (1), cd (1), find (1)
 > **Prerequisites:** you'll need (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Tools:** terminal (2), vs code (1)
 > **Code Identifiers:** macos (1)
 > **Speakers:** - before (1)
@@ -169,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Kubernetes and the Cloud-Native Ecosystem
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Kubernetes?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980)
@@ -234,9 +234,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (24), cloud (4), [[Google]] (4), [[Software Projects]] (2), [[Linux]] (2)
 > **Env Vars:** cncf (2), ibm (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
-> **Code Keywords:** public (1), let (1)
 > **Prerequisites:** install (2)
 > **Versions:** 5.6 (1)
 > **Cross-References:** next video (1)
@@ -297,8 +297,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (10), application (3), cloud (2), [[Orchestration]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** docker (7)
-> **Code Keywords:** let (1), finally, (1), public (1), private (1), interface (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** cpu (1), lxd (1)
 > **Code Identifiers:** macos (1)
@@ -349,9 +349,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), [[Kubernetes]] (9), [[Agile Development|Agile]] (1), [[DevOps]] (1), [[Microservices]] (1)
 > **Speakers:** - [narrator] (4), - the (3), - one (1), - now (1)
 > **Env Vars:** cncf (5)
-> **Code Keywords:** public (1), private (1), let (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -359,7 +359,7 @@ created: 2026-04-29
 
 ### 2. Setting Up and Getting Oriented
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install Docker on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980)
@@ -398,8 +398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Windows]] (2), [[Windows 10]] (1), next (1)
 > **CLI Commands:** docker (7), find (1)
-> **Code Keywords:** let (4), while. (1)
 > **Tools:** docker desktop (4)
 > **Prerequisites:** install (2), set up (1)
 > **UI Navigation:** open the (1)
@@ -458,8 +458,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), [[Kubernetes]] (2), [[Linux]] (2), [[Ubuntu]] (1)
 > **CLI Commands:** docker (6), find (2), sudo (2), apt (2), curl (1)
-> **Code Keywords:** let (4), while. (1), finally, (1)
 > **Prerequisites:** install (3), set up (3)
 > **Code Identifiers:** lsb_release (1)
 > **Env Vars:** gpg (1)
@@ -510,8 +510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (2), next (1)
 > **CLI Commands:** docker (11), find (1)
-> **Code Keywords:** let (6), while. (1)
 > **Tools:** docker desktop (3), terminal (1)
 > **UI Navigation:** open the (2), drag and drop (1)
 > **Prerequisites:** install (2), set up (1)
@@ -593,10 +593,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), next (3), [[Kubernetes]] (2), cloud (2), [[Security]] (1)
 > **UI Navigation:** scroll down (3), click on (1), go to (1), select the (1)
 > **Prerequisites:** install (3), setup (2), required to (1)
 > **CLI Commands:** docker (3), make (1)
-> **Code Keywords:** let (3), this, (1)
 > **Tools:** docker desktop (2), terminal (1), command prompt (1)
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** download the (1)
@@ -635,8 +635,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (2), cloud (2), [[Linux]] (2), [[Security]] (1), hit (1)
 > **CLI Commands:** docker (1), make (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Exercise Files:** download the (2)
 > **Prerequisites:** install (2)
@@ -687,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), match. (1), finally, (1), default. (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), cloud (2), [[Security]] (1), next (1)
 > **CLI Commands:** docker (2), brew (1), kubectl (1)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (1)
@@ -778,7 +778,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), default. (2), interface (1), default, (1), public (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), next (5), application (2), node (2), cloud (1)
 > **CLI Commands:** docker (6), node (2), make (1), aws (1)
 > **Env Vars:** aws (1), https (1), dns (1)
 > **Tools:** docker desktop (1), command line (1), terminal (1)
@@ -790,7 +790,7 @@ created: 2026-04-29
 
 ### 3. Application Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading and writing YAML
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980)
@@ -885,8 +885,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Kubernetes]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), next (3), [[LinkedIn]] (2)
 > **Env Vars:** yaml (21), cpu (1)
-> **Code Keywords:** let (3), require (1), self (1), for. (1)
 > **Definitions:** is a  (4), is an  (1), is called (1)
 > **CLI Commands:** git (1), make (1)
 > **URLs:** [yamlchecker.com](https://yamlchecker.com) (1)
@@ -941,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (2), default. (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Microservices]] (2), next (1), application (1)
 > **CLI Commands:** kubectl (5)
 > **File Paths:** namespace.yaml (3)
 > **Cross-References:** we talked about (1)
@@ -1029,8 +1029,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (6), application (3), next (3), traffic (2), api (2)
 > **CLI Commands:** kubectl (7), make (3), docker (1)
-> **Code Keywords:** let (7), delete (2), finally, (1), pass (1)
 > **Env Vars:** api (2), yaml (1), pod_name (1), pod_namespace (1), pod_ip (1)
 > **File Paths:** namespace.yaml (2), deployment.yaml (1)
 > **Documentation:** spec (2)
@@ -1087,7 +1087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), while, (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), next (1)
 > **CLI Commands:** kubectl (3), find (1)
 > **UI Navigation:** scroll up (1), scroll down (1)
 > **Env Vars:** yaml (1)
@@ -1206,8 +1206,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), [[Kubernetes]] (3), [[Linux]] (3), next (2), [[HTML]] (2)
 > **CLI Commands:** wget (9), kubectl (7), make (4), find (2), awk (1)
-> **Code Keywords:** let (14), switch (1), finally, (1), case, (1)
 > **Env Vars:** yaml (2), http (2), ssh (1), json (1)
 > **Tools:** terminal (2), bash (1), command prompt (1)
 > **File Paths:** index.html (2), busybox.yaml (1)
@@ -1244,9 +1244,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (7), next (1)
 > **CLI Commands:** kubectl (2), make (1)
 > **Cross-References:** in the last (1), in the next (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Challenge
@@ -1288,6 +1288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (2), next (1), application (1)
 > **File Paths:** quote.yaml (2)
 > **CLI Commands:** kubectl (1)
 > **Ports:** port 8080 (1)
@@ -1434,7 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default, (1), this, (1), delete (1)
+> **Frameworks & Libraries:** next (6), [[HTML]] (5), data (3), prompt (2), [[Metadata]] (1)
 > **Ports:** port 8080 (4), port 80 (1)
 > **CLI Commands:** docker (1), make (1), cat (1)
 > **Tools:** vs code (1), command prompt (1), command line (1)
@@ -1446,7 +1447,7 @@ created: 2026-04-29
 
 ### 4. Complex Application Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Expose your application to the internet with a LoadBalancer
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980)
@@ -1527,7 +1528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), public (4), static (2), match, (1), default, (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), application (4), traffic (4), next (2), cloud (2)
 > **CLI Commands:** kubectl (2), node (1), find (1), make (1), aws (1)
 > **Definitions:** is a  (3), is called (1), means that (1)
 > **Env Vars:** url (1), aws (1), json (1)
@@ -1609,8 +1610,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (7), [[Kubernetes]] (4), power (2), application (1), management (1)
 > **CLI Commands:** node (7), make (2), kubectl (2)
-> **Code Keywords:** let (8)
 > **Env Vars:** cpu (6), yaml (1)
 > **File Paths:** deployment.yaml (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1654,7 +1655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (11), finally, (2), let (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), application (1), next (1)
 > **CLI Commands:** kubectl (6), make (1)
 > **Env Vars:** yaml (1)
 > **Cross-References:** in the next (1)
@@ -1665,7 +1666,7 @@ created: 2026-04-29
 
 ### 5. Kubernetes Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Kubernetes control plane
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980)
@@ -1732,9 +1733,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (18), api (13), node (5), cloud (5), next (4)
 > **Env Vars:** api (12), aws (2), rest (1), http (1), gcp (1)
 > **CLI Commands:** node (5), kubectl (4), make (2), aws (2), find (1)
-> **Code Keywords:** let (2), function (1), interface (1), public (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Cross-References:** we covered (1), next video (1)
 > **Tools:** command line (1)
@@ -1780,10 +1781,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (9), node (3), next (2), traffic (1), api (1)
 > **CLI Commands:** docker (4), node (3), make (1), aws (1)
 > **Env Vars:** cri (3), api (1), aws (1)
 > **Cross-References:** in the last (1), we discussed (1), in the next (1)
-> **Code Keywords:** interface (1)
 > **Versions:** v1.24 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
@@ -1839,6 +1840,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (10), [[Kubernetes]] (8), node (8)
 > **CLI Commands:** node (8), kubectl (3)
 > **Env Vars:** api (10)
 > **Definitions:** is a  (2), is an  (1)
@@ -1849,7 +1851,7 @@ created: 2026-04-29
 
 ### 6. Advanced Topics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ways to manage Kubernetes pods
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/ways-to-manage-kubernetes-pods?u=76281980)
@@ -1888,9 +1890,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (8), application (3), node (3), data (2)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** delete (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1925,10 +1927,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (6), application (5), database (5), data (4), [[SQL]] (3)
 > **Env Vars:** sql (3), rds (1)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2045,8 +2047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (18), [[Kubernetes]] (16), data (1), power (1), [[Cryptocurrency]] (1)
 > **Env Vars:** iac (2), cli (1), iec (1), cve (1), nsa (1)
-> **Code Keywords:** let (3), this. (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), we covered (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2057,7 +2059,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps on your Kubernetes voyage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980)
@@ -2088,9 +2090,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (14), cloud (3), [[LinkedIn]] (2), [[Linux]] (1), application (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** new, (1)
 > **Env Vars:** cncf (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - thanks (1)

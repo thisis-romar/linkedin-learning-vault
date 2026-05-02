@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20Outlook-%20Maximize%20Your%20Workday%20Efficiency%20(2025).md)
@@ -52,19 +52,19 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Use Copilot in Outlook
-  - Understand Copilot subscriptions
-  - Check if you're using the new Outlook
+  - [Use Copilot in Outlook](#use-copilot-in-outlook)
+  - [Understand Copilot subscriptions](#understand-copilot-subscriptions)
+  - [Check if you're using the new Outlook](#check-if-youre-using-the-new-outlook)
 - [**1. Using Copilot in Outlook**](#1-using-copilot-in-outlook) (5 videos)
-  - Draft a new email message
-  - Reply to email messages
-  - Summarize emails and email threads
-  - Receive email coaching
-  - Chat with Copilot in Outlook
+  - [Draft a new email message](#draft-a-new-email-message)
+  - [Reply to email messages](#reply-to-email-messages)
+  - [Summarize emails and email threads](#summarize-emails-and-email-threads)
+  - [Receive email coaching](#receive-email-coaching)
+  - [Chat with Copilot in Outlook](#chat-with-copilot-in-outlook)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Copilot in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980)
@@ -81,6 +81,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), ai (1), [[Microsoft Outlook]] (1), [[Jetpack Compose|Compose]] (1), [[LinkedIn]] (1)
 > **Speakers:** - copilot (1)
 
 #### Understand Copilot subscriptions
@@ -120,6 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (26), [[Microsoft]] (5), [[Microsoft 365]] (5), web (4), business (3)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** m365 (1)
 > **Definitions:** is called (1)
@@ -174,7 +176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), this, (1), this. (1), interface (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (20), [[Microsoft Copilot|Copilot]] (9), [[Windows]] (1), feature (1), [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (2)
 > **Cross-References:** go back to (1)
@@ -185,7 +187,7 @@ created: 2026-04-29
 
 ### 1. Using Copilot in Outlook
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Draft a new email message
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980)
@@ -294,7 +296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), self (5), for, (1), continue (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), prompt (6), [[Jetpack Compose|Compose]] (4), [[SharePoint]] (3), [[Microsoft Outlook|Outlook]] (2)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (1), is called (1)
 > **UI Navigation:** go to (1)
@@ -369,8 +371,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (5), [[Microsoft Outlook|Outlook]] (1), [[Jetpack Compose|Compose]] (1)
 > **Cross-References:** as we saw (3), previous video (1)
-> **Code Keywords:** let (2), continue (1)
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -436,6 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), prompt (2), [[Jetpack Compose|Compose]] (1), next (1)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
@@ -495,8 +498,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** case, (2), let (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -564,11 +567,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft Outlook|Outlook]] (6), [[Microsoft Office|Office]] (5), [[Microsoft 365|M365]] (1), [[Microsoft Word|Word]] (1)
 > **Ports:** :00 (2), :45 (2)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
-> **Code Keywords:** delete (1)
 > **Env Vars:** m365 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

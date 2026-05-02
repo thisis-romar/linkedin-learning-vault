@@ -37,7 +37,7 @@ tags:
   - skill/machine-transcription
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Video%20Transcriber%20with%20Node.js%20and%20Google%20AI%20Speech-To-Text%20API.md)
@@ -56,37 +56,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - AI-powered video transcription
-  - Who is this course for?
-  - What you should know
+  - [AI-powered video transcription](#ai-powered-video-transcription)
+  - [Who is this course for?](#who-is-this-course-for)
+  - [What you should know](#what-you-should-know)
 - [**1. Setting Up Google AI Speech-to-Text**](#1-setting-up-google-ai-speech-to-text) (5 videos)
-  - Signing up for a Google Cloud account
-  - Setting up billing
-  - Creating your GCP project
-  - Enabling the Speech-to-Text
-  - Getting your access credentials
+  - [Signing up for a Google Cloud account](#signing-up-for-a-google-cloud-account)
+  - [Setting up billing](#setting-up-billing)
+  - [Creating your GCP project](#creating-your-gcp-project)
+  - [Enabling the Speech-to-Text](#enabling-the-speech-to-text)
+  - [Getting your access credentials](#getting-your-access-credentials)
 - [**2. Building the Video Transcriber Interface**](#2-building-the-video-transcriber-interface) (5 videos)
-  - Cloning the seed project
-  - Project code walk-through
-  - Adding the video upload functionality
-  - Adding the transcribe video function
-  - Adding the transcription display function
+  - [Cloning the seed project](#cloning-the-seed-project)
+  - [Project code walk-through](#project-code-walk-through)
+  - [Adding the video upload functionality](#adding-the-video-upload-functionality)
+  - [Adding the transcribe video function](#adding-the-transcribe-video-function)
+  - [Adding the transcription display function](#adding-the-transcription-display-function)
 - [**3. Building the Backend: Connecting to the AI**](#3-building-the-backend-connecting-to-the-ai) (5 videos)
-  - Building out the Express.js API
-  - Configuring Google’s Speech library
-  - Adding routes
-  - Setting up file upload functionality
-  - Transcribing with the Google AI Speech-to-Text
+  - [Building out the Express.js API](#building-out-the-expressjs-api)
+  - [Configuring Google’s Speech library](#configuring-googles-speech-library)
+  - [Adding routes](#adding-routes)
+  - [Setting up file upload functionality](#setting-up-file-upload-functionality)
+  - [Transcribing with the Google AI Speech-to-Text](#transcribing-with-the-google-ai-speech-to-text)
 - [**4. Bringing It All Together**](#4-bringing-it-all-together) (3 videos)
-  - Connecting the front end to the API
-  - Adding a progress indicator
-  - Editing transcriptions
+  - [Connecting the front end to the API](#connecting-the-front-end-to-the-api)
+  - [Adding a progress indicator](#adding-a-progress-indicator)
+  - [Editing transcriptions](#editing-transcriptions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-powered video transcription
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980)
@@ -107,10 +107,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), api (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1), [[Node.js]] (1)
 > **CLI Commands:** make (1), node (1)
 > **Env Vars:** api (2)
 > **File Paths:** node.js (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [fikayo] (1)
 
 #### Who is this course for?
@@ -140,7 +140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** ai (4), application (2), [[Google]] (2), api (2), [[Engineering]] (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
@@ -175,18 +175,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), front-end (1), [[HTML]] (1), css (1), [[JavaScript]] (1)
 > **Env Vars:** ide (2), html (1), css (1)
 > **Prerequisites:** you need to have (2), required to (1)
 > **CLI Commands:** git (1), node (1)
 > **Tools:** visual studio (1), github (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Setting Up Google AI Speech-to-Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Signing up for a Google Cloud account
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980)
@@ -225,6 +225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (8), [[Google]] (5), cloud (2), ai (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Prerequisites:** set up (6), required to (1), configure (1)
 > **Env Vars:** sql (1), api (1)
 > **CLI Commands:** make (1)
@@ -274,6 +275,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud platform]] (1), next (1), gcp (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** gcp (1)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** set up (1)
@@ -342,7 +344,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (1)
+> **Frameworks & Libraries:** gcp (3), [[Google]] (2), api (2), ai (1), cloud (1)
 > **UI Navigation:** click on (3), dropdown (2), navigate to (1)
 > **Env Vars:** gcp (3), api (2)
 > **Prerequisites:** set up (3), setup (1)
@@ -382,9 +384,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Search]] (2), [[Google]] (1), gcp (1)
 > **Env Vars:** api (11), gcp (1)
 > **UI Navigation:** click on (3), dropdown (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -458,7 +460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (2)
+> **Frameworks & Libraries:** api (5), gcp (2), [[Google]] (2), application (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** api (5), gcp (2), json (1)
 > **UI Navigation:** click on (3), dropdown (2), navigate to (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -469,7 +471,7 @@ created: 2026-04-29
 
 ### 2. Building the Video Transcriber Interface
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloning the seed project
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980)
@@ -512,10 +514,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (7), [[GitHub]] (2), front-end (1), hit (1), next (1)
 > **CLI Commands:** git (7), ssh (1), make (1)
 > **Tools:** terminal (3), github (2)
 > **Exercise Files:** github repo (1), download the (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ssh (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -644,7 +646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), default, (1), finally, (1), type, (1)
+> **Frameworks & Libraries:** application (8), [[HTML]] (5), next (4), css (2), [[JavaScript]] (2)
 > **Env Vars:** css (2), jss (1), api (1)
 > **Tools:** visual studio (3), terminal (1)
 > **File Paths:** index.html (3)
@@ -716,7 +718,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), function (3), const (1), default, (1), this, (1)
+> **Frameworks & Libraries:** next (4), [[Scripting]] (1), [[JavaScript]] (1)
 > **Env Vars:** url (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -786,7 +788,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (12), async (2), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (3), api (2)
 > **Non-Speech:** (keyboard typing) (8), (mouse clicking) (2)
 > **Env Vars:** api (2), url (1)
 > **UI Navigation:** scroll down (1)
@@ -822,7 +824,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (2)
+> **Frameworks & Libraries:** data (1), application (1), next (1)
 > **Code Identifiers:** displaytranscription (2), innerhtml (1), transcribedtext (1)
 > **UI Navigation:** scroll down (2)
 > **Non-Speech:** (keyboard keys clicking) (2)
@@ -832,7 +834,7 @@ created: 2026-04-29
 
 ### 3. Building the Backend: Connecting to the AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building out the Express.js API
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980)
@@ -911,7 +913,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (1), finally, (1)
+> **Frameworks & Libraries:** express (5), api (4), [[Node.js]] (4), application (4), [[npm]] (3)
 > **CLI Commands:** node (5), npm (3), make (2)
 > **File Paths:** node.js (4), server.js (3), package.json (1)
 > **Prerequisites:** install (4), set up (1), initialization (1), configure (1)
@@ -1005,7 +1007,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), export. (1), this, (1), const (1), require (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Node.js]] (3), [[JSON]] (3), api (2)
 > **CLI Commands:** node (3), npm (2), make (2), python (1)
 > **Env Vars:** api (2), json (2), google_application (1)
 > **File Paths:** node.js (3), server.js (1)
@@ -1049,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** application (3), next (2), web (1), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1126,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), require (2), const (2), this. (1), function (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (1), hit (1)
 > **Prerequisites:** install (2), configure (1), set up (1), setup (1)
 > **CLI Commands:** node (2), npm (1)
 > **Tools:** visual studio (2), terminal (1)
@@ -1377,7 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), static (8), const (6), require (2), function (2)
+> **Frameworks & Libraries:** api (8), next (7), [[Google]] (4), [[Node.js]] (4), feature (3)
 > **CLI Commands:** node (5), make (4), npm (2), find (1)
 > **Code Identifiers:** audiobytes (2), macos (1), ffmpegstatic (1), ffmpegpath (1), setffmpegpath (1)
 > **Env Vars:** api (8), npm (1), linear16 (1)
@@ -1389,7 +1391,7 @@ created: 2026-04-29
 
 ### 4. Bringing It All Together
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting the front end to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/connecting-the-front-end-to-the-api?u=76281980)
@@ -1502,7 +1504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (1), while, (1), pass (1)
+> **Frameworks & Libraries:** application (3), api (2), next (2), node (1), [[PHP]] (1)
 > **Env Vars:** http (4), url (2), api (2), mpx (1), php (1)
 > **UI Navigation:** scroll down (4), go to (4)
 > **CLI Commands:** make (5), node (1), php (1)
@@ -1651,7 +1653,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), default. (3), default, (1), const (1), this, (1)
+> **Frameworks & Libraries:** front-end (1), application (1), css (1), [[JavaScript]] (1), data (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** scroll down (4), scroll up (1)
 > **Tools:** vs code (4)
@@ -1724,7 +1726,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (1), function (1), switch (1), this. (1)
+> **Frameworks & Libraries:** [[PHP]] (3), functional (1), [[Google]] (1), api (1)
 > **CLI Commands:** php (3), make (2), find (1)
 > **Env Vars:** php (3), vlc (1), api (1)
 > **Code Identifiers:** displaytranscription (1), innerhtml (1)
@@ -1736,7 +1738,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/next-steps?u=76281980)
@@ -1759,8 +1761,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (2), api (2), [[Google]] (1), data (1)
 > **Env Vars:** api (2), pod (1)
-> **Code Keywords:** case. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [fikayo] (1)
 

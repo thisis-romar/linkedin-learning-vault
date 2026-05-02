@@ -38,7 +38,7 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/RAG%20and%20Fine-Tuning%20Explained.md)
@@ -57,22 +57,22 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - RAG, fine-tuning, and the enterprise
+  - [RAG, fine-tuning, and the enterprise](#rag-fine-tuning-and-the-enterprise)
 - [**1. RAG and Fine-Tuning**](#1-rag-and-fine-tuning) (8 videos)
-  - How LLMs work
-  - Context makes all the difference
-  - RAG: Retrieval Augmented Generation
-  - The RAG flow
-  - Embeddings: Helping AI understand data
-  - Knowledge graphs
-  - Fine-tuning
-  - RAFT: RAG with fine-tuning
+  - [How LLMs work](#how-llms-work)
+  - [Context makes all the difference](#context-makes-all-the-difference)
+  - [RAG: Retrieval Augmented Generation](#rag-retrieval-augmented-generation)
+  - [The RAG flow](#the-rag-flow)
+  - [Embeddings: Helping AI understand data](#embeddings-helping-ai-understand-data)
+  - [Knowledge graphs](#knowledge-graphs)
+  - [Fine-tuning](#fine-tuning)
+  - [RAFT: RAG with fine-tuning](#raft-rag-with-fine-tuning)
 - [**2. Conclusion**](#2-conclusion) (1 videos)
-  - Tying it all together
+  - [Tying it all together](#tying-it-all-together)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### RAG, fine-tuning, and the enterprise
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-fine-tuning-and-the-enterprise?u=76281980)
@@ -93,15 +93,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (5), ai (3), data (2), [[Large Language Models (LLM)|Large language models]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Env Vars:** rag (3), llm (1)
-> **Code Keywords:** return. (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
 
 
 ### 1. RAG and Fine-Tuning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How LLMs work
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980)
@@ -144,8 +144,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (7), rag (1), [[Fine Tuning]] (1), [[ChatGPT]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (7)
-> **Code Keywords:** from, (1), let (1), return, (1), super (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
@@ -181,6 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), [[ChatGPT]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** llm (5)
 > **Speakers:** - the (1)
 
@@ -221,6 +222,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (4), data (4), ai (3), [[Search]] (2), web (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -257,6 +259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (8), data (6), rag (2), database (2), api (1)
 > **Env Vars:** llm (8), rag (2), api (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -323,9 +326,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), llm (4), rag (2), data (2), database (2)
 > **Env Vars:** llm (4), rag (2)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (2), finally, (2), case, (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - there (1)
 
@@ -380,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), match. (2), return, (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (5), [[Knowledge Graphs]] (4), ai (3), rag (3)
 > **Env Vars:** rag (3), api (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (3)
@@ -409,6 +412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (3), rag (1), prompt (1), chatbot (1), database (1)
 > **Env Vars:** llm (3), rag (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - rag (1)
@@ -446,15 +450,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), rag (5), llm (4), ai (2), [[Fine Tuning]] (1)
 > **Env Vars:** rag (5), raft (4), llm (4)
-> **Code Keywords:** this, (1), finally, (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - based (1)
 
 
 ### 2. Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tying it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980)
@@ -501,8 +505,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (5), rag (5), ai (4), data (3), database (2)
 > **Env Vars:** llm (5), rag (5), api (1), raft (1)
-> **Code Keywords:** private (1), case, (1), finally, (1)
 > **CLI Commands:** find (1), go build (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** required to (1)

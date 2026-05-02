@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Mapping.md)
@@ -47,27 +47,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**UX Mapping**](#ux-mapping) (1 videos)
-  - What is UX mapping?
+  - [What is UX mapping?](#what-is-ux-mapping)
 - [**1. Mapping Overview**](#1-mapping-overview) (1 videos)
-  - Mapping as a tool
+  - [Mapping as a tool](#mapping-as-a-tool)
 - [**2. Empathy Map**](#2-empathy-map) (2 videos)
-  - Empathy map usage
-  - Building an empathy map
+  - [Empathy map usage](#empathy-map-usage)
+  - [Building an empathy map](#building-an-empathy-map)
 - [**3. Journey Map**](#3-journey-map) (3 videos)
-  - What is a journey map?
-  - Journey map preparation
-  - Building a journey map
+  - [What is a journey map?](#what-is-a-journey-map)
+  - [Journey map preparation](#journey-map-preparation)
+  - [Building a journey map](#building-a-journey-map)
 - [**4. Experience Map**](#4-experience-map) (2 videos)
-  - What is a experience map?
-  - What is a service blueprint?
+  - [What is a experience map?](#what-is-a-experience-map)
+  - [What is a service blueprint?](#what-is-a-service-blueprint)
 - [**5. Other Maps**](#5-other-maps) (1 videos)
-  - Other types of maps
+  - [Other types of maps](#other-types-of-maps)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Share your #uxmaps
+  - [Share your #uxmaps](#share-your-uxmaps)
 
 ### UX Mapping
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is UX mapping?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980)
@@ -92,15 +92,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (4), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1), teams (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
 
 ### 1. Mapping Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mapping as a tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/mapping-as-a-tool?u=76281980)
@@ -135,14 +135,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (3), data (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - a (1)
 
 
 ### 2. Empathy Map
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Empathy map usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/empathy-map-usage?u=76281980)
@@ -193,6 +193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (4), product (2), data (1), functional (1), teams (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - the (1)
@@ -264,17 +265,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2)
 > **Analogies:** for instance (4), such as (2), picture (1)
 > **Definitions:** is a  (3)
 > **Warnings:** note that (1), be aware (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - an (1)
 
 
 ### 3. Journey Map
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a journey map?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980)
@@ -321,6 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), functional (1), teams (1), data (1), [[Analytics]] (1)
 > **Analogies:** such as (1), picture (1)
 > **Speakers:** - a (1)
 
@@ -349,8 +351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), functional (1), ux (1), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - journey (1)
@@ -440,8 +442,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (2), ux (1), functional (1)
 > **Analogies:** for instance (4), such as (2), picture (1)
-> **Code Keywords:** type, (1), super (1), let (1), finally, (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
@@ -450,7 +452,7 @@ created: 2026-04-29
 
 ### 4. Experience Map
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a experience map?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-experience-map?u=76281980)
@@ -491,6 +493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), next (1), data (1)
 > **Analogies:** for instance (2), picture (1), just like (1), such as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - an (1)
@@ -544,9 +547,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** front-end (1)
 > **Analogies:** such as (4), just like (1), picture (1), for instance (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
@@ -556,7 +559,7 @@ created: 2026-04-29
 
 ### 5. Other Maps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Other types of maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980)
@@ -633,9 +636,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), ux (3), [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (2), teams (2)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
 > **Speakers:** - empathy (1)
@@ -643,7 +646,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Share your #uxmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980)
@@ -670,7 +673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), teams (1), [[LinkedIn]] (1), ux (1)
 > **Speakers:** - thanks (1)
 
 

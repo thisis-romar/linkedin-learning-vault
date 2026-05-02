@@ -57,7 +57,7 @@ tags:
   - skill/html
   - skill/html-scripting
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML%20Essential%20Training.md)
@@ -76,83 +76,83 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why should I learn HTML?
-  - How to use the exercise files
+  - [Why should I learn HTML?](#why-should-i-learn-html)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. The Web**](#1-the-web) (7 videos)
-  - Languages of the web
-  - Anatomy of a website
-  - The rules of the web
-  - Terminology and syntax
-  - Exercise: The development environment
-  - Exercise: Customizing your text editor
-  - Exercise: Setting up your dev environment
+  - [Languages of the web](#languages-of-the-web)
+  - [Anatomy of a website](#anatomy-of-a-website)
+  - [The rules of the web](#the-rules-of-the-web)
+  - [Terminology and syntax](#terminology-and-syntax)
+  - [Exercise: The development environment](#exercise-the-development-environment)
+  - [Exercise: Customizing your text editor](#exercise-customizing-your-text-editor)
+  - [Exercise: Setting up your dev environment](#exercise-setting-up-your-dev-environment)
 - [**2. Formatting Text**](#2-formatting-text) (12 videos)
-  - Paragraphs and headings
-  - Ordered, unordered, and description lists
-  - Quotations
-  - Exercise: Formatting text, part 1
-  - Date and time
-  - Bold and italics
-  - Character entity reference
-  - Exercise: Formatting text, part 2
-  - Code and line breaks
-  - HTML and typography
-  - Challenge: Write text-based HTML markup for course project
-  - Solution: Demo
+  - [Paragraphs and headings](#paragraphs-and-headings)
+  - [Ordered, unordered, and description lists](#ordered-unordered-and-description-lists)
+  - [Quotations](#quotations)
+  - [Exercise: Formatting text, part 1](#exercise-formatting-text-part-1)
+  - [Date and time](#date-and-time)
+  - [Bold and italics](#bold-and-italics)
+  - [Character entity reference](#character-entity-reference)
+  - [Exercise: Formatting text, part 2](#exercise-formatting-text-part-2)
+  - [Code and line breaks](#code-and-line-breaks)
+  - [HTML and typography](#html-and-typography)
+  - [Challenge: Write text-based HTML markup for course project](#challenge-write-text-based-html-markup-for-course-project)
+  - [Solution: Demo](#solution-demo)
 - [**3. The HTML Document and Page Structure**](#3-the-html-document-and-page-structure) (9 videos)
-  - The basic HTML document
-  - Structuring content, part 1
-  - Structuring content, part 2
-  - Exercise: Structuring content
-  - HTML tables
-  - Exercise: Create an HTML table
-  - The Document Object Model
-  - Challenge: Add structural elements to project
-  - Solution: Demo
+  - [The basic HTML document](#the-basic-html-document)
+  - [Structuring content, part 1](#structuring-content-part-1)
+  - [Structuring content, part 2](#structuring-content-part-2)
+  - [Exercise: Structuring content](#exercise-structuring-content)
+  - [HTML tables](#html-tables)
+  - [Exercise: Create an HTML table](#exercise-create-an-html-table)
+  - [The Document Object Model](#the-document-object-model)
+  - [Challenge: Add structural elements to project](#challenge-add-structural-elements-to-project)
+  - [Solution: Demo](#solution-demo)
 - [**4. Links and Navigation**](#4-links-and-navigation) (6 videos)
-  - The hyperlink
-  - Relative and absolute URLs
-  - Types of links
-  - Navigation
-  - Challenge: Add links and navigation
-  - Solution: Demo
+  - [The hyperlink](#the-hyperlink)
+  - [Relative and absolute URLs](#relative-and-absolute-urls)
+  - [Types of links](#types-of-links)
+  - [Navigation](#navigation)
+  - [Challenge: Add links and navigation](#challenge-add-links-and-navigation)
+  - [Solution: Demo](#solution-demo)
 - [**5. Images**](#5-images) (10 videos)
-  - Image formats
-  - Embedding images
-  - Width and height attributes
-  - Optimizing images
-  - Developer tools and resizing images
-  - Responsive images, part 1
-  - Responsive images, part 2
-  - Responsive images with picture
-  - Challenge: Add responsive images
-  - Solution: Demo
+  - [Image formats](#image-formats)
+  - [Embedding images](#embedding-images)
+  - [Width and height attributes](#width-and-height-attributes)
+  - [Optimizing images](#optimizing-images)
+  - [Developer tools and resizing images](#developer-tools-and-resizing-images)
+  - [Responsive images, part 1](#responsive-images-part-1)
+  - [Responsive images, part 2](#responsive-images-part-2)
+  - [Responsive images with picture](#responsive-images-with-picture)
+  - [Challenge: Add responsive images](#challenge-add-responsive-images)
+  - [Solution: Demo](#solution-demo)
 - [**6. More Media Elements**](#6-more-media-elements) (6 videos)
-  - Video
-  - Adding captions and subtitles
-  - Audio
-  - Embedding media with iframes
-  - Challenge: Add media to project
-  - Solution: Demo
+  - [Video](#video)
+  - [Adding captions and subtitles](#adding-captions-and-subtitles)
+  - [Audio](#audio)
+  - [Embedding media with iframes](#embedding-media-with-iframes)
+  - [Challenge: Add media to project](#challenge-add-media-to-project)
+  - [Solution: Demo](#solution-demo)
 - [**7. Web Forms**](#7-web-forms) (8 videos)
-  - What are web forms?
-  - HTML form basics
-  - Input types
-  - Form validation
-  - Checkbox and radio inputs
-  - Additional form elements
-  - Challenge: Add a contact form
-  - Solution: Demo
+  - [What are web forms?](#what-are-web-forms)
+  - [HTML form basics](#html-form-basics)
+  - [Input types](#input-types)
+  - [Form validation](#form-validation)
+  - [Checkbox and radio inputs](#checkbox-and-radio-inputs)
+  - [Additional form elements](#additional-form-elements)
+  - [Challenge: Add a contact form](#challenge-add-a-contact-form)
+  - [Solution: Demo](#solution-demo)
 - [**8. Accessibility and Internationalization**](#8-accessibility-and-internationalization) (3 videos)
-  - What is accessibility?
-  - Accessible Rich Internet Applications (ARIA) basics
-  - Supporting languages
+  - [What is accessibility?](#what-is-accessibility)
+  - [Accessible Rich Internet Applications (ARIA) basics](#accessible-rich-internet-applications-aria-basics)
+  - [Supporting languages](#supporting-languages)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why should I learn HTML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980)
@@ -173,6 +173,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), web (3), [[Web Development]] (1), [[Forms]] (1), [[LinkedIn]] (1)
 > **Env Vars:** html (3)
 > **Speakers:** - whether (1)
 
@@ -223,6 +224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[CodePen]] (2), next (1), generic (1)
 > **Exercise Files:** exercise files (5), download the (1), zip file (1)
 > **Env Vars:** html (3), pdf (1), zip (1)
 > **Prerequisites:** you'll need (2), required to (1), setup (1)
@@ -234,7 +236,7 @@ created: 2026-04-29
 
 ### 1. The Web
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Languages of the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980)
@@ -303,12 +305,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), [[JavaScript]] (5), [[HTML]] (4), front-end (4), ai (3)
 > **Env Vars:** html (4), css (2), cern (1), pdf (1), php (1)
 > **CLI Commands:** find (1), php (1), ruby (1), python (1), node (1)
 > **Definitions:** is a  (3), known as (1), stands for (1)
 > **Analogies:** imagine (1), such as (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** public (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - for (1)
 
@@ -379,8 +381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), css (3), web (3), [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (7), css (3), seo (1)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Best Practices:** good practice (1)
@@ -444,10 +446,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (9), web (3), css (3), feature (2), application (1)
 > **Env Vars:** html (9), w3c (3), css (3), url (1)
 > **Documentation:** w3c (3), the documentation (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** for. (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
@@ -557,8 +559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (14), [[Microsoft Word|Word]] (1), hr (1), web (1)
 > **Env Vars:** html (14), xhtml (4), html5 (2), xml (1), html6 (1)
-> **Code Keywords:** interface (1), self (1), require (1)
 > **Definitions:** stands for (1), refers to (1), known as (1)
 > **Analogies:** such as (2), just like (1)
 > **Best Practices:** it's best to (1), best practice (1)
@@ -660,10 +662,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), web (2), [[HTML]] (2), application (1), [[Programming]] (1)
 > **Tools:** vs code (3), firefox (2), visual studio (2), safari (1), sublime (1)
 > **UI Navigation:** click on (3), open the (2)
 > **Prerequisites:** setup (3), set up (1), install (1)
-> **Code Keywords:** function (1), let (1)
 > **Env Vars:** html (2)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **Exercise Files:** zip file (1)
@@ -802,8 +804,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (4), [[HTML]] (3), [[Microsoft Word|Word]] (3), feature (2), [[Security]] (1)
 > **UI Navigation:** select the (3), in the sidebar (3), dropdown (3), drag and drop (1), checkbox (1)
-> **Code Keywords:** let (6), for, (1), switch (1)
 > **Prerequisites:** install (3), set up (1)
 > **Exercise Files:** exercise files (3)
 > **Env Vars:** html (2)
@@ -932,8 +934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), web (1), [[CodePen]] (1)
 > **UI Navigation:** go to (3), in the sidebar (1), dropdown (1), click on (1), in the tab (1)
-> **Code Keywords:** let (6), default. (1), return. (1), require (1)
 > **Env Vars:** html (5), url (1)
 > **CLI Commands:** make (3)
 > **File Paths:** index.html (2)
@@ -944,7 +946,7 @@ created: 2026-04-29
 
 ### 2. Formatting Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Paragraphs and headings
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980)
@@ -1051,8 +1053,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (8), next (6), [[CodePen]] (4), css (3)
 > **Env Vars:** html (8), css (3), pdf (1)
-> **Code Keywords:** let (6), from < (1), delete (1), this. (1), for. (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -1179,7 +1181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type= (1), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[CodePen]] (1), next (1), feature (1), css (1)
 > **Env Vars:** html (4), css (1)
 > **UI Navigation:** drag and drop (1), right-click (1)
 > **Analogies:** for example (2)
@@ -1269,8 +1271,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Metadata]] (1), [[Search]] (1), [[Typography]] (1)
 > **Env Vars:** html (4), url (4), css (1)
-> **Code Keywords:** let (3), default. (1), delete (1), default, (1)
 > **Cross-References:** earlier in (1), we talked about (1), later in (1)
 > **Warnings:** note that (1), keep in mind (1)
 > **CLI Commands:** make (1)
@@ -1343,7 +1345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), continue (1)
+> **Frameworks & Libraries:** next (3), [[HTML]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2)
 > **Cross-References:** we discussed (1)
@@ -1391,6 +1393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[Search]] (1), [[HTML]] (1), [[Programming]] (1)
 > **Env Vars:** html (1), mdn (1)
 > **Analogies:** for example (1), such as (1)
 > **Documentation:** mdn (1)
@@ -1449,9 +1452,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[HTML]] (4), product (1), [[Search]] (1), css (1)
 > **Env Vars:** html (4), css (1)
 > **Analogies:** for example (3), it's like (1)
-> **Code Keywords:** delete (1), default, (1), for. (1)
 > **Definitions:** is an  (2)
 > **Warnings:** warning (2)
 > **CLI Commands:** make (1)
@@ -1552,8 +1555,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (10), next (2), css (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (10), css (1), nbsp (1)
-> **Code Keywords:** let (4), case, (2)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is a  (1), refers to (1)
@@ -1602,7 +1605,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1), case, (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1642,8 +1645,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), css (2), [[CodePen]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (2), css (2)
-> **Code Keywords:** let (1), default, (1), break. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1678,8 +1681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), web (1), css (1)
 > **Env Vars:** html (2), sup (1), css (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
@@ -1756,7 +1759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** [[HTML]] (3), next (1), [[Graphic Design]] (1), [[Web Development]] (1), generic (1)
 > **Env Vars:** html (2)
 > **Cross-References:** in the last (1), earlier in (1)
 > **File Paths:** index.html (1)
@@ -1856,7 +1859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), include, (1), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (3), feature (1), next (1)
 > **Env Vars:** html (3), url (2), mdn (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
@@ -1868,7 +1871,7 @@ created: 2026-04-29
 
 ### 3. The HTML Document and Page Structure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The basic HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980)
@@ -1971,8 +1974,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (15), [[Search]] (3), [[Metadata]] (2), css (2), [[CodePen]] (2)
 > **Env Vars:** html (15), css (2), utf (1), mdn (1)
-> **Code Keywords:** let (2), function (1), require (1)
 > **Definitions:** is an  (1), refers to (1)
 > **CLI Commands:** find (1)
 > **Versions:** 1.0 (1)
@@ -2093,8 +2096,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (3), [[Search]] (2), feature (2), generic (1), css (1)
 > **Env Vars:** html (3), html5 (2), css (1)
-> **Code Keywords:** this. (1), require (1), include. (1), let (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -2157,7 +2160,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), self (1)
+> **Frameworks & Libraries:** [[HTML]] (3), product (1), [[CodePen]] (1), css (1)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (2)
 > **Analogies:** think of it as (1), such as (1)
@@ -2299,7 +2302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (2), type, (1), this, (1)
+> **Frameworks & Libraries:** [[HTML]] (9), next (2), [[CodePen]] (1)
 > **Env Vars:** html (7), doc (1)
 > **Tools:** vs code (4)
 > **UI Navigation:** open the (1), dropdown (1), right-click (1)
@@ -2381,8 +2384,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (7), data (6), css (5), [[Forms]] (1), [[CodePen]] (1)
 > **Env Vars:** html (7), css (5), mdn (1)
-> **Code Keywords:** let (4), default, (1)
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (1), mdn (1)
 > **Speakers:** - in (1)
@@ -2450,8 +2453,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), css (1), [[HTML]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (3)
 > **Env Vars:** css (1), html (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -2485,6 +2488,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (3), [[Document Object Model (DOM)|Document object model]] (1), node (1), css (1), [[JavaScript]] (1)
 > **Env Vars:** dom (3), css (1)
 > **Definitions:** known as (1), in other words (1)
 > **CLI Commands:** node (1)
@@ -2536,11 +2540,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (8)
 > **File Paths:** index.html (2), blog.html (2)
 > **Env Vars:** html (4)
 > **UI Navigation:** right-click (1), go to (1), double-click (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -2662,7 +2666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), case, (1), self (1)
+> **Frameworks & Libraries:** next (4), [[HTML]] (3), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), generic (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** in the tab (1), select the (1), click on (1)
 > **File Paths:** blog.html (1), index.html (1)
@@ -2674,7 +2678,7 @@ created: 2026-04-29
 
 ### 4. Links and Navigation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The hyperlink
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980)
@@ -2703,6 +2707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[HTML]] (2), data (1), [[Forms]] (1)
 > **Env Vars:** http (2), html (2), cern (1), url (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** earlier in (1)
@@ -2769,9 +2774,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), web (2)
 > **Env Vars:** html (3), url (2), http (1), https (1)
 > **File Paths:** apparel.html (1), shoes.html (1), index.html (1)
-> **Code Keywords:** from. (1), let (1)
 > **UI Navigation:** navigate to (2)
 > **Analogies:** for example (2)
 > **Cross-References:** we talked about (1)
@@ -2883,8 +2888,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (1), [[HTML]] (1), next (1), prompt (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (2), require (1), default, (1)
 > **Analogies:** for example (3), such as (1)
 > **UI Navigation:** go to (1), scroll down (1), open the (1)
 > **Env Vars:** url (1), html (1)
@@ -2935,7 +2940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), require (1)
+> **Frameworks & Libraries:** css (2), [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
@@ -2968,6 +2973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), next (1)
 > **File Paths:** contact.html (1)
 > **Env Vars:** html (1)
 > **Cross-References:** next video (1)
@@ -3066,8 +3072,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (4)
 > **File Paths:** contact.html (1), index.html (1), blog.html (1)
 > **UI Navigation:** go to (2)
 > **Best Practices:** make sure to (1), don't forget (1)
@@ -3078,7 +3084,7 @@ created: 2026-04-29
 
 ### 5. Images
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Image formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980)
@@ -3177,8 +3183,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[HTML]] (3), [[Google]] (1), [[CodePen]] (1), css (1)
 > **Env Vars:** svg (4), html (3), gif (2), png (2), jpeg (1)
-> **Code Keywords:** let (2), this, (1), type. (1), require (1)
 > **Definitions:** is a  (4)
 > **Analogies:** similar to (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3266,11 +3272,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), feature (1), [[HTML]] (1), web (1)
 > **Env Vars:** url (6), html (1), pdf (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), picture (1), such as (1)
 > **Best Practices:** it's best to (1), pro tip (1)
-> **Code Keywords:** require (1)
 > **Warnings:** note that (1)
 > **Speakers:** - so (1)
 
@@ -3365,7 +3371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[CodePen]] (1), [[Zoom]] (1), css (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** html (1), css (1)
 > **Warnings:** note that (2)
@@ -3451,8 +3457,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), css (2), web (2)
 > **Env Vars:** html (5), ppi (4), css (2), gimp (1)
-> **Code Keywords:** let (5)
 > **Definitions:** is called (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -3557,7 +3563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), default, (1), continue (1), export, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1), web (1), business (1), [[Content Management]] (1)
 > **Env Vars:** dpr (3), png (2)
 > **UI Navigation:** dropdown (2), go to (2), open the (1)
 > **Tools:** firefox (2)
@@ -3647,8 +3653,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsive Web Design]] (2), [[HTML]] (2), feature (1), next (1)
 > **Env Vars:** dpr (3), html (2), ppi (1)
-> **Code Keywords:** let (3), from. (1)
 > **Cross-References:** go back to (1)
 > **Tools:** vs code (1)
 > **Best Practices:** don't forget (1)
@@ -3819,8 +3825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), next (3), [[HTML]] (3)
 > **Env Vars:** css (5), dpr (4), html (3)
-> **Code Keywords:** let (7), switch (2), class = (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), go back to (1)
 > **Definitions:** is called (1), is a  (1)
@@ -3967,8 +3973,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), css (1), [[Zoom]] (1)
 > **Env Vars:** png (6), dpr (6), pgn (1), css (1)
-> **Code Keywords:** let (10), function (1), switch (1), finally, (1)
 > **Analogies:** picture (10), for example (1), just like (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** don't forget (1), remember to (1)
@@ -4006,6 +4012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), next (1)
 > **Env Vars:** html (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [presenter] (1)
@@ -4078,9 +4085,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** url (3)
 > **Analogies:** for example (1), such as (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4088,7 +4095,7 @@ created: 2026-04-29
 
 ### 6. More Media Elements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Video
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980)
@@ -4205,7 +4212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (1), default. (1), override (1), default, (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[User Experience (UX)|User experience]] (2), feature (2), web (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** html (2), mp4 (2), ogg (1), css (1), mdn (1)
 > **Analogies:** for example (2), picture (2), just like (1)
 > **Tools:** firefox (4)
@@ -4309,8 +4316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Metadata]] (3), [[JavaScript]] (2), next (1), css (1), feature (1)
 > **Env Vars:** vtt (5), css (1), html (1), pdf (1)
-> **Code Keywords:** let (4), delete (1), function (1)
 > **Cross-References:** go back to (1), previous video (1), we discussed (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -4379,7 +4386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2)
+> **Frameworks & Libraries:** [[Search]] (1), open-source (1), [[HTML]] (1), feature (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** mp3 (1), wav (1), ogg (1), html (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1)
@@ -4447,7 +4454,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Security]] (1), [[Google]] (1), [[Search]] (1), [[Forms]] (1), [[HTML]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** url (1), pdf (1), html (1)
 > **UI Navigation:** go to (3)
@@ -4474,7 +4481,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4514,16 +4520,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), [[HTML]] (1), css (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
 
 ### 7. Web Forms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are web forms?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980)
@@ -4552,7 +4558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), interface (2)
+> **Frameworks & Libraries:** [[Forms]] (9), web (2), data (2), [[HTML]] (2), [[Programming]] (1)
 > **Env Vars:** html (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -4703,8 +4709,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Forms]] (7), [[HTML]] (5), next (4), css (3)
 > **Env Vars:** html (3), url (3), post (2), css (2), http (1)
-> **Code Keywords:** let (5), for, (1)
 > **File Paths:** 07_02_start.html (1), submit.html (1), forms.css (1)
 > **CLI Commands:** make (3)
 > **API Endpoints:** get  (2), post  (1)
@@ -4797,7 +4803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (3), type. (3), let (3), pass (1), default, (1)
+> **Frameworks & Libraries:** data (5), next (2), [[Forms]] (1), [[Security]] (1)
 > **URLs:** [dot.com](https://dot.com) (1), [or.edu](https://or.edu) (1), [email.com](https://email.com) (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Env Vars:** tld (1)
@@ -4894,7 +4900,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (2), require (2), type, (1), match. (1)
+> **Frameworks & Libraries:** data (3), [[Forms]] (1), [[HTML]] (1), [[JavaScript]] (1), [[Programming]] (1)
 > **Env Vars:** tld (3), zip (1), pdf (1), html (1)
 > **CLI Commands:** make (1)
 > **URLs:** [example.com](https://example.com) (1)
@@ -5027,7 +5033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type, (1), default. (1), this, (1), except, (1)
+> **Frameworks & Libraries:** data (5), [[Forms]] (1)
 > **UI Navigation:** checkbox (11)
 > **Env Vars:** mdn (1)
 > **Cross-References:** go back to (1)
@@ -5085,7 +5091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), require (1)
+> **Frameworks & Libraries:** [[Forms]] (2), data (1), css (1)
 > **UI Navigation:** dropdown (2)
 > **Env Vars:** css (1)
 > **Documentation:** the documentation (1)
@@ -5110,6 +5116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5265,7 +5272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), finally, (1)
+> **Frameworks & Libraries:** css (7), next (4), [[HTML]] (3), functional (1), data (1)
 > **Env Vars:** css (5), html (3)
 > **CLI Commands:** make (4)
 > **File Paths:** styles.css (2)
@@ -5277,7 +5284,7 @@ created: 2026-04-29
 
 ### 8. Accessibility and Internationalization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980)
@@ -5318,11 +5325,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Web Accessibility]] (3), web (2), [[HTML]] (1), [[Banking]] (1), [[Telecommunications]] (1)
 > **Env Vars:** w3c (2), html (1), wcag (1), pdf (1)
 > **CLI Commands:** make (2)
 > **Documentation:** w3c (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **URLs:** [webaim.org](https://webaim.org) (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
@@ -5406,8 +5413,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (6), web (3), [[JavaScript]] (3)
 > **Env Vars:** aria (14), html (6), w3c (1), mdn (1)
-> **Code Keywords:** let (3), static (1), require (1), function (1)
 > **Analogies:** for example (2), similar to (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), stands for (1), is an  (1)
@@ -5488,7 +5495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (2), type: (1), for, (1), default, (1)
+> **Frameworks & Libraries:** [[Search]] (3), [[HTML]] (1), data (1), feature (1), web (1)
 > **Env Vars:** iana (2), html (1), w3c (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (2)
@@ -5500,7 +5507,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980)
@@ -5529,8 +5536,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (4), css (2), web (2), [[Web Development]] (1), next (1)
 > **Env Vars:** html (4), css (2)
-> **Code Keywords:** break. (1), continue (1)
 > **Speakers:** - congratulations (1)
 
 

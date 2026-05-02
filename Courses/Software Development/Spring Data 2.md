@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/spring-data
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%20Data%202.md)
@@ -49,41 +49,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Diving into Spring Data
-  - What you need
+  - [Diving into Spring Data](#diving-into-spring-data)
+  - [What you need](#what-you-need)
 - [**1. Spring Data Umbrella Project**](#1-spring-data-umbrella-project) (2 videos)
-  - Mission and modules
-  - Java Persistence API
+  - [Mission and modules](#mission-and-modules)
+  - [Java Persistence API](#java-persistence-api)
 - [**2. Introduction to Spring Data JPA**](#2-introduction-to-spring-data-jpa) (5 videos)
-  - Spring Boot Starter Data JPA
-  - Spring Data CrudRepository and JPA repository
-  - Challenge: Fix SimpleDBCrudTest syntax errors
-  - Solution: Fix SimpleDBCrudTest syntax errors
-  - Spring Data JPA magic
+  - [Spring Boot Starter Data JPA](#spring-boot-starter-data-jpa)
+  - [Spring Data CrudRepository and JPA repository](#spring-data-crudrepository-and-jpa-repository)
+  - [Challenge: Fix SimpleDBCrudTest syntax errors](#challenge-fix-simpledbcrudtest-syntax-errors)
+  - [Solution: Fix SimpleDBCrudTest syntax errors](#solution-fix-simpledbcrudtest-syntax-errors)
+  - [Spring Data JPA magic](#spring-data-jpa-magic)
 - [**3. Spring Data JPA Query Methods**](#3-spring-data-jpa-query-methods) (6 videos)
-  - Property expression query methods
-  - Query method clauses with property expressions
-  - @Query annotation
-  - Challenge: Refactor to three query methods
-  - Solution: Refactor to three query methods
-  - Paging and sorting
+  - [Property expression query methods](#property-expression-query-methods)
+  - [Query method clauses with property expressions](#query-method-clauses-with-property-expressions)
+  - [@Query annotation](#query-annotation)
+  - [Challenge: Refactor to three query methods](#challenge-refactor-to-three-query-methods)
+  - [Solution: Refactor to three query methods](#solution-refactor-to-three-query-methods)
+  - [Paging and sorting](#paging-and-sorting)
 - [**4. Dynamic Spring Data JPA Queries**](#4-dynamic-spring-data-jpa-queries) (5 videos)
-  - Specifications
-  - Querydsl
-  - Query by Example
-  - Challenge: Query by Example
-  - Solution: Query by Example
+  - [Specifications](#specifications)
+  - [Querydsl](#querydsl)
+  - [Query by Example](#query-by-example)
+  - [Challenge: Query by Example](#challenge-query-by-example)
+  - [Solution: Query by Example](#solution-query-by-example)
 - [**5. More Spring Data Features**](#5-more-spring-data-features) (4 videos)
-  - Spring Data REST
-  - Spring Data MongoDB
-  - Non-blocking Spring Data reactive repositories
-  - More data source support and features
+  - [Spring Data REST](#spring-data-rest)
+  - [Spring Data MongoDB](#spring-data-mongodb)
+  - [Non-blocking Spring Data reactive repositories](#non-blocking-spring-data-reactive-repositories)
+  - [More data source support and features](#more-data-source-support-and-features)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with Spring Data
+  - [Next steps with Spring Data](#next-steps-with-spring-data)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980)
@@ -108,9 +108,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Data]] (5), data (3), [[Databases]] (1), api (1), [[MongoDB]] (1)
 > **Env Vars:** api (1), jpa (1)
 > **Exercise Files:** boilerplate (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - coding (1)
 
 #### What you need
@@ -134,17 +134,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (4), [[Debugging]] (1), [[JUnit]] (1), [[Dependency Injection]] (1), api (1)
 > **Env Vars:** ide (2), jpa (2), api (1)
 > **Versions:** java 17 (1), java 11 (1)
 > **CLI Commands:** apache (1)
-> **Code Keywords:** let (1)
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Spring Data Umbrella Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mission and modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980)
@@ -215,7 +215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (1), while, (1), finally, (1), delete (1)
+> **Frameworks & Libraries:** [[Spring Data]] (14), data (13), game (3), [[Java]] (3), [[MongoDB]] (2)
 > **Env Vars:** jpa (4), j2ee (1), xml (1)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** mongo (1)
@@ -301,10 +301,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (8), [[Spring Data]] (3), data (3), business (2), application (2)
 > **Env Vars:** jpa (7), dao (2), api (1), orm (1)
 > **Definitions:** is a  (5)
 > **File Paths:** simpledbcrudtest.java (1), findbyoneattribute.java (1), findbyclausesandexpressions.java (1), pagingtest.java (1)
-> **Code Keywords:** let (1), require (1), public (1), delete (1)
 > **Exercise Files:** exercise files (2), download the (1)
 > **Prerequisites:** prerequisite (1), set up (1)
 > **CLI Commands:** make (1)
@@ -313,7 +313,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Spring Data JPA
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spring Boot Starter Data JPA
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980)
@@ -400,7 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (2), finally, (2), delete (1), public (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (16), application (8), [[Spring Data]] (3), [[Dependency Management]] (1), next (1)
 > **Env Vars:** jpa (6), orm (1)
 > **File Paths:** pom.xml (5)
 > **Exercise Files:** exercise files (2)
@@ -512,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), interface (6), let (2), type, (1), extends (1)
+> **Frameworks & Libraries:** [[Spring Data]] (4), data (1)
 > **Env Vars:** jpa (7), dao (2), ide (1), crud (1)
 > **CLI Commands:** find (6)
 > **Speakers:** - [instructor] (1)
@@ -540,7 +540,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** find (7), make (2)
 > **Env Vars:** dao (3), dio (1), crud (1)
-> **Code Keywords:** delete (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -561,7 +560,6 @@ created: 2026-04-29
 >
 > **CLI Commands:** find (6), make (1)
 > **Code Identifiers:** staffrepo (4)
-> **Code Keywords:** interface (1), delete (1)
 > **Env Vars:** dao (1), jpa (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -641,7 +639,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), implements (3), interface (2), continue (2), case. (1)
+> **Frameworks & Libraries:** [[Spring Data]] (3), application (1), [[JUnit]] (1), hit (1), database (1)
 > **Code Identifiers:** simplejparepository (2), teststaffcrud (1), createstudent (1), studentrepo (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** crud (1), dao (1)
@@ -650,7 +648,7 @@ created: 2026-04-29
 
 ### 3. Spring Data JPA Query Methods
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Property expression query methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980)
@@ -795,7 +793,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), public (2), delete (2), implements (1), case. (1)
+> **Frameworks & Libraries:** [[Spring Data]] (8), database (1), data (1), [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** findbyname (2), findbylastname (2), findbychairlastname (2), findbynothing (2), findby (1)
 > **Env Vars:** dao (5), jpql (5), find (2), jpa (2), join (1)
 > **CLI Commands:** find (2)
@@ -885,9 +883,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Data]] (2)
 > **Code Identifiers:** findby (2), findfirstinalphabet (2), find3oldest (2), findbyfulltimeorage (1), findbyattenndeefirstnameandattendeelastname (1)
 > **CLI Commands:** find (12)
-> **Code Keywords:** let (3), pass (1), from. (1), this, (1)
 > **Env Vars:** dao (4)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -1021,7 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (2), finally, (2), new, (1), default, (1)
+> **Frameworks & Libraries:** data (2), management (2), [[SQL]] (2), database (2), next (1)
 > **Env Vars:** jpql (7), sql (2), jpa (2), dao (2), ide (1)
 > **Code Identifiers:** findsimilarlastname (3), findbyagelessthan (2), findfirstinalphabet (2), find3oldest (2), findoldest (2)
 > **CLI Commands:** make (3), find (3)
@@ -1057,9 +1055,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JUnit]] (1)
 > **CLI Commands:** find (7), make (1)
 > **Env Vars:** dao (6)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1094,7 +1092,6 @@ created: 2026-04-29
 >
 > **Env Vars:** dao (4), jpql (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2), delete (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1194,7 +1191,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (2), static (2), finally, (2), class, (1)
+> **Frameworks & Libraries:** [[Spring Data]] (9), next (1), [[Metadata]] (1)
 > **Code Identifiers:** findall (5), lastname (2), setfirstresult (1), setmaxresult (1), lastnames (1)
 > **Env Vars:** jpql (2)
 > **Definitions:** is a  (2)
@@ -1205,7 +1202,7 @@ created: 2026-04-29
 
 ### 4. Dynamic Spring Data JPA Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Specifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980)
@@ -1326,7 +1323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (2), delete (2), pass (2), static (1)
+> **Frameworks & Libraries:** [[Spring Data]] (6), api (3), [[Java]] (2), data (1), business (1)
 > **Code Identifiers:** filterbyspecification (3), findall (2), findcoursesbycriteria (2), findbycriteria (1), coursesdao (1)
 > **Env Vars:** api (3), jpa (3)
 > **Documentation:** specification (6)
@@ -1444,7 +1441,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), public (2), let (2), pass (1), static (1)
+> **Frameworks & Libraries:** [[Spring Data]] (2), [[Java]] (2), [[Search]] (2), data (1)
 > **Code Identifiers:** findall (3), haslastname (1), isfulltime (1), isolderthan (1), getquerydslpredicate (1)
 > **CLI Commands:** find (5), apt (1)
 > **Env Vars:** jpa (3)
@@ -1532,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (3), extends (1), match. (1), for. (1)
+> **Frameworks & Libraries:** [[Search]] (2), [[Spring Data]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** orelse (3), findall (1), getexampleprobe (1), filterbyexample (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** go to (2)
@@ -1560,7 +1557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Search]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
@@ -1596,7 +1593,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** find (4)
-> **Code Keywords:** case. (1), static (1), let (1)
 > **Code Identifiers:** departmentrepo (1), findone (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1605,7 +1601,7 @@ created: 2026-04-29
 
 ### 5. More Spring Data Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Spring Data REST
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980)
@@ -1762,8 +1758,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Data]] (11), [[Representational State Transfer (REST)|Rest]] (11), data (4), application (4), web (2)
 > **Env Vars:** http (9), rest (8), url (3), json (2), ide (2)
-> **Code Keywords:** let (10), delete (3), finally, (3), extends (2), override (2)
 > **Code Identifiers:** showchair (6), findall (2), findbyid (1), departmentrepo (1), findbyname (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **CLI Commands:** make (2), find (1)
@@ -1898,11 +1894,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (10), [[Spring Data]] (5), data (5), application (5), [[Spring Boot]] (3)
 > **CLI Commands:** find (6), mongo (4), mvn (1)
 > **Code Identifiers:** findbymemberlastname (2), findbyfirstname (2), findbyname (2), staffrepo (2), findbychair (1)
 > **Env Vars:** jpa (6), json (2), jpql (1), sql (1)
 > **Definitions:** is a  (8)
-> **Code Keywords:** let (3), switch (1), implements (1), extends (1), class, (1)
 > **Analogies:** similar to (2), it's like (2), just like (1)
 > **File Paths:** pom.xml (1), application.yaml (1)
 > **UI Navigation:** go to (2)
@@ -2016,7 +2012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), implements (1), class. (1), interface (1), class, (1)
+> **Frameworks & Libraries:** data (8), application (6), [[Flux]] (6), [[Spring Boot]] (4), [[MongoDB]] (4)
 > **CLI Commands:** find (3), curl (2), mongo (1), make (1)
 > **Env Vars:** api (3), mvc (2), r2dbc (1), crud (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2074,9 +2070,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Data]] (18), data (6), [[NoSQL]] (3), database (2), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
 > **Env Vars:** jpa (5), jdbc (2), r2dbc (2), rest (1), http (1)
 > **CLI Commands:** mongo (2), apache (1)
-> **Code Keywords:** let (1), module (1), interface (1)
 > **Definitions:** is a  (1), is an  (1), stands for (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -2084,7 +2080,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980)
@@ -2123,9 +2119,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Spring Data]] (3), [[LinkedIn]] (3), application (2), [[Java]] (2), next (1)
 > **CLI Commands:** docker (1), find (1)
 > **Env Vars:** jpa (1), nbc (1)
-> **Code Keywords:** let (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Tools:** github (1)
 > **Speakers:** - [mary] (1)

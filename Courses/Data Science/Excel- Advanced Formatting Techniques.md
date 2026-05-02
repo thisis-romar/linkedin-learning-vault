@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Advanced%20Formatting%20Techniques.md)
@@ -50,55 +50,55 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Advanced formatting in Excel
+  - [Advanced formatting in Excel](#advanced-formatting-in-excel)
 - [**1. Formatting and Aligning Text**](#1-formatting-and-aligning-text) (5 videos)
-  - Subscript, underline, and strikethrough text
-  - Center across a selection vs. merged cells
-  - Create angled text for readability and organization
-  - Indent cell contents and add new lines within a cell
-  - Insert symbols: Bullet points, stars, and François
+  - [Subscript, underline, and strikethrough text](#subscript-underline-and-strikethrough-text)
+  - [Center across a selection vs. merged cells](#center-across-a-selection-vs-merged-cells)
+  - [Create angled text for readability and organization](#create-angled-text-for-readability-and-organization)
+  - [Indent cell contents and add new lines within a cell](#indent-cell-contents-and-add-new-lines-within-a-cell)
+  - [Insert symbols: Bullet points, stars, and François](#insert-symbols-bullet-points-stars-and-franois)
 - [**2. Formatting Numbers and Dates**](#2-formatting-numbers-and-dates) (6 videos)
-  - Dates and custom formatting
-  - Make consistent entries with Find and Replace
-  - Positive and negative numbers
-  - Format hours, minutes, and seconds
-  - M for millions and K for thousands
-  - Format numbers with Power Query
+  - [Dates and custom formatting](#dates-and-custom-formatting)
+  - [Make consistent entries with Find and Replace](#make-consistent-entries-with-find-and-replace)
+  - [Positive and negative numbers](#positive-and-negative-numbers)
+  - [Format hours, minutes, and seconds](#format-hours-minutes-and-seconds)
+  - [M for millions and K for thousands](#m-for-millions-and-k-for-thousands)
+  - [Format numbers with Power Query](#format-numbers-with-power-query)
 - [**3. Working with Images and Shapes**](#3-working-with-images-and-shapes) (3 videos)
-  - Group and align shapes
-  - Transform text into shapes with WordArt
-  - Place text inside a shape
+  - [Group and align shapes](#group-and-align-shapes)
+  - [Transform text into shapes with WordArt](#transform-text-into-shapes-with-wordart)
+  - [Place text inside a shape](#place-text-inside-a-shape)
 - [**4. Conditional Formatting**](#4-conditional-formatting) (4 videos)
-  - Conditional formatting for duplicates
-  - Highlight fast-approaching dates
-  - Conditional formatting for icons
-  - Conditional formatting for strikethrough fonts
+  - [Conditional formatting for duplicates](#conditional-formatting-for-duplicates)
+  - [Highlight fast-approaching dates](#highlight-fast-approaching-dates)
+  - [Conditional formatting for icons](#conditional-formatting-for-icons)
+  - [Conditional formatting for strikethrough fonts](#conditional-formatting-for-strikethrough-fonts)
 - [**5. Formatting for Print**](#5-formatting-for-print) (3 videos)
-  - Page numbers and page breaks
-  - Print preview
-  - Format your worksheets to control what gets printed
+  - [Page numbers and page breaks](#page-numbers-and-page-breaks)
+  - [Print preview](#print-preview)
+  - [Format your worksheets to control what gets printed](#format-your-worksheets-to-control-what-gets-printed)
 - [**6. Workbooks and Worksheets**](#6-workbooks-and-worksheets) (2 videos)
-  - Format multiple sheets at once
-  - Set workbook defaults to open with your preferences
+  - [Format multiple sheets at once](#format-multiple-sheets-at-once)
+  - [Set workbook defaults to open with your preferences](#set-workbook-defaults-to-open-with-your-preferences)
 - [**7. Tables, Slicers, Themes**](#7-tables-slicers-themes) (3 videos)
-  - Format tables
-  - Format slicers
-  - Apply workbook themes and styles
+  - [Format tables](#format-tables)
+  - [Format slicers](#format-slicers)
+  - [Apply workbook themes and styles](#apply-workbook-themes-and-styles)
 - [**8. Charts and Graphs**](#8-charts-and-graphs) (2 videos)
-  - Grid lines, legends, and other chart formatting
-  - 3D, shadows, and other advanced chart formatting
+  - [Grid lines, legends, and other chart formatting](#grid-lines-legends-and-other-chart-formatting)
+  - [3D, shadows, and other advanced chart formatting](#3d-shadows-and-other-advanced-chart-formatting)
 - [**9. Advanced, Random, and Fascinating Formatting**](#9-advanced-random-and-fascinating-formatting) (5 videos)
-  - Install and uninstall fonts
-  - Format your worksheet's background with an image
-  - Manage hyperlinks
-  - Color-picker and RGB code for colors
-  - Clear Formatting
+  - [Install and uninstall fonts](#install-and-uninstall-fonts)
+  - [Format your worksheet's background with an image](#format-your-worksheets-background-with-an-image)
+  - [Manage hyperlinks](#manage-hyperlinks)
+  - [Color-picker and RGB code for colors](#color-picker-and-rgb-code-for-colors)
+  - [Clear Formatting](#clear-formatting)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Getting the most from Excel
+  - [Getting the most from Excel](#getting-the-most-from-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced formatting in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980)
@@ -123,6 +123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [oz (1)
@@ -130,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Formatting and Aligning Text
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Subscript, underline, and strikethrough text
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/subscript-underline-and-strikethrough-text?u=76281980)
@@ -247,7 +248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), else, (1)
+> **Frameworks & Libraries:** power (1), next (1), hit (1)
 > **Env Vars:** nh3 (1), c12 (1), c13 (1)
 > **Speakers:** - [instructor] (2), - [nick] (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -324,7 +325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), feature (1)
 > **UI Navigation:** go to (2), open the (1), dropdown (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Env Vars:** d13 (1)
@@ -433,7 +434,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (3), this, (2)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (2), open the (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -657,7 +658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (4), break. (2), this, (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** open the (2), click on (1), go to (1)
 > **Code Identifiers:** lookup_array (1), if_not_found (1), stay_blank (1)
@@ -906,7 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), delete (2), this. (2), function (2), break. (1)
+> **Frameworks & Libraries:** data (3)
 > **Env Vars:** vlookup (4), xlookup (3), char (3), cjy (1), c13 (1)
 > **UI Navigation:** go to (8)
 > **CLI Commands:** make (2), find (1)
@@ -918,7 +919,7 @@ created: 2026-04-29
 
 ### 2. Formatting Numbers and Dates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dates and custom formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980)
@@ -1109,7 +1110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), from. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1)
 > **UI Navigation:** go to (4), scroll down (2), click on (1)
 > **Versions:** 0.4 (1), 0.66 (1), 0.08 (1)
 > **Ports:** :30 (1), :12 (1)
@@ -1182,7 +1183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (2)
+> **Frameworks & Libraries:** data (2), next (1), hit (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
@@ -1306,7 +1307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1441,7 +1442,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (3), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Ports:** :12 (3), :30 (1), :15 (1), :40 (1), :20 (1)
 > **Versions:** 0.34 (1), 8.25 (1), 25.7 (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1511,7 +1512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (2), this, (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Versions:** 0.0 (1), 279.4 (1), 0.9 (1), 0.00 (1), 8.01 (1)
 > **UI Navigation:** double-click (1), go to (1)
 > **CLI Commands:** make (1)
@@ -1709,7 +1710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2)
+> **Frameworks & Libraries:** data (10), [[Microsoft Power Query|Power query]] (9), [[Microsoft Excel|Excel]] (3), next (2), [[Windows]] (1)
 > **UI Navigation:** go to (2), scroll up (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** it's best to (1)
@@ -1719,7 +1720,7 @@ created: 2026-04-29
 
 ### 3. Working with Images and Shapes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Group and align shapes
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980)
@@ -1898,7 +1899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this. (1)
+> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1), [[Search]] (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -2033,7 +2034,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Graphic Design]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -2103,7 +2104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (3), this. (2)
+> **Frameworks & Libraries:** hit (3), [[Microsoft Word|Word]] (1), data (1), next (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
@@ -2112,7 +2113,7 @@ created: 2026-04-29
 
 ### 4. Conditional Formatting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditional formatting for duplicates
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980)
@@ -2267,7 +2268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (2), this. (1), pass (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **URLs:** [fakeemail.com](https://fakeemail.com) (1)
@@ -2414,7 +2415,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (1), this, (1), switch (1), static (1)
+> **Frameworks & Libraries:** data (4), management (1), [[Microsoft Excel|Excel]] (1), hit (1)
 > **Cross-References:** coming up (4), go back to (1)
 > **Env Vars:** ekg (1), g17 (1), today (1)
 > **UI Navigation:** go to (2)
@@ -2564,7 +2565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1), for, (1), this, (1)
+> **Frameworks & Libraries:** data (2), next (1), hit (1)
 > **UI Navigation:** go to (4)
 > **Speakers:** - [instructor] (1)
 
@@ -2681,7 +2682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** g24 (1)
 > **Definitions:** is a  (1)
@@ -2690,7 +2691,7 @@ created: 2026-04-29
 
 ### 5. Formatting for Print
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Page numbers and page breaks
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/page-numbers-and-page-breaks?u=76281980)
@@ -2829,8 +2830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), hit (1)
 > **UI Navigation:** scroll down (5), scroll up (1), go to (1)
-> **Code Keywords:** let (5)
 > **Cross-References:** go back to (3)
 > **Analogies:** just like (1)
 > **Prerequisites:** setup (1)
@@ -2909,8 +2910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1), hit (1)
 > **UI Navigation:** go to (5), scroll down (3)
-> **Code Keywords:** this, (1), let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2983,13 +2984,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 6. Workbooks and Worksheets
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Format multiple sheets at once
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-multiple-sheets-at-once?u=76281980)
@@ -3120,7 +3120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2)
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Cross-References:** go back to (2)
 > **Versions:** 1.25 (1)
@@ -3181,14 +3181,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Office]] (1), [[Microsoft Excel]] (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Tables, Slicers, Themes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Format tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980)
@@ -3293,7 +3293,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), feature (1), next (1)
 > **UI Navigation:** scroll down (3), go to (3), dropdown (1)
 > **Versions:** 0.5 (1)
 > **Definitions:** is a  (1)
@@ -3410,7 +3410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (1), go to (1)
 > **Speakers:** - [instructor] (1)
@@ -3514,7 +3514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), default. (1), this. (1)
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1), generic (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (3), dropdown (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -3523,7 +3523,7 @@ created: 2026-04-29
 
 ### 8. Charts and Graphs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Grid lines, legends, and other chart formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/grid-lines-legends-and-other-chart-formatting?u=76281980)
@@ -3672,7 +3672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1), type. (1)
+> **Frameworks & Libraries:** data (5), next (1), hit (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1), select the (1)
 > **Env Vars:** ord (1), las (1), gru (1)
@@ -3761,7 +3761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1)
+> **Frameworks & Libraries:** data (1), hit (1)
 > **UI Navigation:** go to (5), click on (1)
 > **CLI Commands:** make (5)
 > **Warnings:** be careful (1)
@@ -3770,7 +3770,7 @@ created: 2026-04-29
 
 ### 9. Advanced, Random, and Fascinating Formatting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and uninstall fonts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980)
@@ -3873,9 +3873,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2)
 > **UI Navigation:** double-click (3), right-click (2), scroll down (1), scroll up (1), go to (1)
 > **Prerequisites:** install (6)
-> **Code Keywords:** let (3), delete (2)
 > **Speakers:** - [instructor] (1)
 
 #### Format your worksheet's background with an image
@@ -3971,7 +3971,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** hit (2), data (1), next (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** picture (4)
 > **Cross-References:** go back to (2)
@@ -4082,7 +4082,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), delete (4), this. (1), this, (1)
+> **Frameworks & Libraries:** hit (3), [[Microsoft Excel|Excel]] (1), web (1)
 > **UI Navigation:** right-click (6), go to (2), click on (1), scroll down (1)
 > **Non-Speech:** (computer mouse clicking) (8), (computer keyboard clicking) (1)
 > **CLI Commands:** find (2), make (1)
@@ -4174,8 +4174,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Search]] (1)
 > **Env Vars:** hex (3), rgb (2), ffc000 (1), ufo (1)
-> **Code Keywords:** let (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
 
@@ -4218,6 +4218,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -4225,7 +4226,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the most from Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980)
@@ -4256,6 +4257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel]] (2), data (2), [[LinkedIn]] (2), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [oz] (1)
 

@@ -24,7 +24,7 @@ tags:
   - skill/user-experience-ux
   - skill/ux-research
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Ux%20Foundations%20Research.md)
@@ -43,49 +43,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - User experience research
+  - [User experience research](#user-experience-research)
 - [**1. Research Overview**](#1-research-overview) (13 videos)
-  - Why is user experience research important?
-  - Methodology overview
-  - Usability testing
-  - Interviewing
-  - Card sorts
-  - Eye tracking
-  - Multivariate testing and A/B testing
-  - Desirability studies
-  - Expert reviews (heuristic reviews)
-  - Surveys
-  - Diary studies
-  - Participatory design workshops
-  - Personas
+  - [Why is user experience research important?](#why-is-user-experience-research-important)
+  - [Methodology overview](#methodology-overview)
+  - [Usability testing](#usability-testing)
+  - [Interviewing](#interviewing)
+  - [Card sorts](#card-sorts)
+  - [Eye tracking](#eye-tracking)
+  - [Multivariate testing and A/B testing](#multivariate-testing-and-ab-testing)
+  - [Desirability studies](#desirability-studies)
+  - [Expert reviews (heuristic reviews)](#expert-reviews-heuristic-reviews)
+  - [Surveys](#surveys)
+  - [Diary studies](#diary-studies)
+  - [Participatory design workshops](#participatory-design-workshops)
+  - [Personas](#personas)
 - [**2. Choosing the Right Research Method**](#2-choosing-the-right-research-method) (4 videos)
-  - Setting research goals
-  - Qualitative vs. quantitative data
-  - Behavioral vs. attitudinal research
-  - Moderated vs. unmoderated research
+  - [Setting research goals](#setting-research-goals)
+  - [Qualitative vs. quantitative data](#qualitative-vs-quantitative-data)
+  - [Behavioral vs. attitudinal research](#behavioral-vs-attitudinal-research)
+  - [Moderated vs. unmoderated research](#moderated-vs-unmoderated-research)
 - [**3. Environmental Considerations**](#3-environmental-considerations) (3 videos)
-  - In-house vs. external
-  - Agile vs. waterfall
-  - Determining project or product stage
+  - [In-house vs. external](#in-house-vs-external)
+  - [Agile vs. waterfall](#agile-vs-waterfall)
+  - [Determining project or product stage](#determining-project-or-product-stage)
 - [**4. Planning Effective Research**](#4-planning-effective-research) (5 videos)
-  - Determining the right participants
-  - Finding and screening participants
-  - Scheduling participants
-  - Crafting the right questions
-  - Practicing
+  - [Determining the right participants](#determining-the-right-participants)
+  - [Finding and screening participants](#finding-and-screening-participants)
+  - [Scheduling participants](#scheduling-participants)
+  - [Crafting the right questions](#crafting-the-right-questions)
+  - [Practicing](#practicing)
 - [**5. Executing Effective Research**](#5-executing-effective-research) (2 videos)
-  - Applying moderated research
-  - Applying unmoderated research
+  - [Applying moderated research](#applying-moderated-research)
+  - [Applying unmoderated research](#applying-unmoderated-research)
 - [**6. Analyzing and Presenting Your Findings**](#6-analyzing-and-presenting-your-findings) (3 videos)
-  - Gathering and mining data
-  - Synthesizing data
-  - Presenting and incorporating results
+  - [Gathering and mining data](#gathering-and-mining-data)
+  - [Synthesizing data](#synthesizing-data)
+  - [Presenting and incorporating results](#presenting-and-incorporating-results)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### User experience research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980)
@@ -114,13 +114,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** ux (4), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), power (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - do (1)
 
 
 ### 1. Research Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is user experience research important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980)
@@ -197,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (7), product (5), business (2), [[User Experience (UX)|User experience]] (1), application (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), finally, (1), for. (1)
 > **Analogies:** such as (1), for instance (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -227,6 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), business (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - there (1)
 
@@ -265,7 +266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (2), product (2), ux (1), [[Zoom]] (1)
 > **URLs:** [usertesting.com](https://usertesting.com) (1)
 > **Speakers:** - usability (1)
 
@@ -308,6 +309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[Zoom]] (1), feature (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - interviewing (1)
@@ -365,7 +367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), super (1)
+> **Frameworks & Libraries:** ux (1)
 > **Analogies:** for instance (1), picture (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - eye (1)
@@ -399,6 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[Google]] (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** for instance (1), such as (1)
 > **Warnings:** keep in mind (1)
@@ -456,7 +459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3)
+> **Frameworks & Libraries:** product (2), ux (2), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - expert (1)
 
 #### Surveys
@@ -480,6 +483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), ux (1), [[User Experience (UX)|User experience]] (1), [[Google]] (1), [[Forms]] (1)
 > **URLs:** [usertesting.com](https://usertesting.com) (1)
 > **Analogies:** such as (1)
 > **Speakers:** - surveys (1)
@@ -509,6 +513,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
@@ -541,6 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - participatory (1)
@@ -570,6 +576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (2), business (2), product (2), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** don't forget (1)
@@ -578,7 +585,7 @@ created: 2026-04-29
 
 ### 2. Choosing the Right Research Method
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting research goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980)
@@ -657,9 +664,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (3), next (2), ux (1), data (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for instance (2), imagine (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
@@ -715,8 +722,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), [[Decision-Making]] (1), ux (1), feature (1), next (1)
 > **Analogies:** such as (2), for example (1), for instance (1), picture (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - while (1)
@@ -762,9 +769,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), ux (1), [[Microsoft Outlook|Outlook]] (1), product (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (3)
-> **Code Keywords:** self (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - to (1)
 
@@ -803,13 +810,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), ux (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - when (1)
 
 
 ### 3. Environmental Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### In-house vs. external
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/in-house-vs-external?u=76281980)
@@ -858,8 +866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (5), teams (2), product (1), [[Databases]] (1), data (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (3)
 > **Warnings:** be aware (2)
 > **Speakers:** - as (1)
 
@@ -934,8 +942,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Requirements Gathering]] (3), [[E-Commerce]] (2), [[Representational State Transfer (REST)|Rest]] (2), next (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** means that (1)
 > **Speakers:** - regardless (1)
 
@@ -978,7 +986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new, (2), finally, (1)
+> **Frameworks & Libraries:** product (3), [[Product Development]] (1), feature (1), [[Analytics]] (1), [[Usability Testing]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - regardless (1)
@@ -986,7 +994,7 @@ created: 2026-04-29
 
 ### 4. Planning Effective Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining the right participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980)
@@ -1051,9 +1059,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (1), next (1), data (1), [[User Experience (UX)|User experience]] (1), ux (1)
 > **Analogies:** for instance (2), imagine (1), such as (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), function (1), require (1)
 > **Prerequisites:** you'll need (2), required to (1)
 > **Warnings:** keep in mind (2)
 > **URLs:** [measuringu.com](https://measuringu.com) (1)
@@ -1111,9 +1119,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), database (2), [[User Experience (UX)|User experience]] (1), generic (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Prerequisites:** set up (2), you'll need (1)
-> **Code Keywords:** match. (1), type. (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
@@ -1167,6 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Ports:** :00 (1)
 > **Analogies:** for instance (1)
@@ -1251,8 +1260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (4), data (3), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for instance (3), such as (3), just like (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Warnings:** be careful (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
@@ -1314,7 +1323,7 @@ created: 2026-04-29
 
 ### 5. Executing Effective Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying moderated research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-moderated-research?u=76281980)
@@ -1411,7 +1420,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
@@ -1457,16 +1465,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Search]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for instance (2), just like (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** ecommerce (1)
 > **Speakers:** - while (1)
 
 
 ### 6. Analyzing and Presenting Your Findings
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Gathering and mining data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/gathering-and-mining-data?u=76281980)
@@ -1547,8 +1555,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[User Experience (UX)|User experience]] (1), next (1)
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** type, (1), let (1)
 > **Analogies:** picture (2)
 > **Cross-References:** coming up (1)
 > **Best Practices:** make sure to (1)
@@ -1620,9 +1628,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), product (3), ux (2), [[E-Commerce]] (2), business (2)
 > **Analogies:** for instance (3), picture (3)
 > **CLI Commands:** make (3), find (2)
-> **Code Keywords:** let (1)
 > **Versions:** 3.5 (1)
 > **Speakers:** - once (1)
 
@@ -1689,8 +1697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1), [[E-Commerce]] (1), generic (1), database (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), interface (1)
 > **Analogies:** for instance (1), such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - by (1)
@@ -1698,7 +1706,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980)
@@ -1727,6 +1735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (3), [[Usability Testing]] (2), data (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 

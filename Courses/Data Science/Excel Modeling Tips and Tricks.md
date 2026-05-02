@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Modeling%20Tips%20and%20Tricks.md)
@@ -47,40 +47,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Getting started with Excel modeling
+  - [Getting started with Excel modeling](#getting-started-with-excel-modeling)
 - [**1. Financial Modeling: Reviewing the Basics**](#1-financial-modeling-reviewing-the-basics) (4 videos)
-  - Objectives in financial modeling
-  - Rules and best practices
-  - Assessing a financial model
-  - Copilot, AI, and Excel
+  - [Objectives in financial modeling](#objectives-in-financial-modeling)
+  - [Rules and best practices](#rules-and-best-practices)
+  - [Assessing a financial model](#assessing-a-financial-model)
+  - [Copilot, AI, and Excel](#copilot-ai-and-excel)
 - [**2. Single-Sheet Financial Models**](#2-single-sheet-financial-models) (7 videos)
-  - Doing a basic loan amortization model
-  - Thinking through the model structure
-  - The three parts of Excel models
-  - Adding toggles and inputs to a model
-  - Using if/then analysis in models
-  - Making assumptions in financial models
-  - Steps in building the single-sheet model
+  - [Doing a basic loan amortization model](#doing-a-basic-loan-amortization-model)
+  - [Thinking through the model structure](#thinking-through-the-model-structure)
+  - [The three parts of Excel models](#the-three-parts-of-excel-models)
+  - [Adding toggles and inputs to a model](#adding-toggles-and-inputs-to-a-model)
+  - [Using if/then analysis in models](#using-ifthen-analysis-in-models)
+  - [Making assumptions in financial models](#making-assumptions-in-financial-models)
+  - [Steps in building the single-sheet model](#steps-in-building-the-single-sheet-model)
 - [**3. Multi-Sheet Financial Models**](#3-multi-sheet-financial-models) (7 videos)
-  - Setting up a multi-sheet financial model
-  - Linking sheets in financial models
-  - Steps in building the multi-sheet model
-  - Notating and comments in models
-  - Historical data in financial models
-  - External data in financial models
-  - Projections in financial models
+  - [Setting up a multi-sheet financial model](#setting-up-a-multi-sheet-financial-model)
+  - [Linking sheets in financial models](#linking-sheets-in-financial-models)
+  - [Steps in building the multi-sheet model](#steps-in-building-the-multi-sheet-model)
+  - [Notating and comments in models](#notating-and-comments-in-models)
+  - [Historical data in financial models](#historical-data-in-financial-models)
+  - [External data in financial models](#external-data-in-financial-models)
+  - [Projections in financial models](#projections-in-financial-models)
 - [**4. Assessing Model Accuracy**](#4-assessing-model-accuracy) (5 videos)
-  - Determining model accuracy
-  - Stress testing models
-  - Using financial models
-  - Linking Excel results to PowerPoint
-  - Maintaining your models
+  - [Determining model accuracy](#determining-model-accuracy)
+  - [Stress testing models](#stress-testing-models)
+  - [Using financial models](#using-financial-models)
+  - [Linking Excel results to PowerPoint](#linking-excel-results-to-powerpoint)
+  - [Maintaining your models](#maintaining-your-models)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing to build Excel models
+  - [Continuing to build Excel models](#continuing-to-build-excel-models)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Excel modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/getting-started-with-excel-modeling?u=76281980)
@@ -101,13 +101,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), business (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Financial Modeling: Reviewing the Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Objectives in financial modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980)
@@ -182,10 +183,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (15), [[Financial Modeling]] (2), business (2), [[Forecasting]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (4), just like (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** else, (1)
 > **Env Vars:** gdp (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -263,9 +264,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Probability]] (1), [[Forecasting]] (1), next (1), business (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Exercise Files:** template (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -393,9 +394,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), product (1), [[Forecasting]] (1)
 > **Analogies:** for instance (5), picture (1), it's like (1), kind of like (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), else, (1), pass (1)
 > **Env Vars:** sku (1), cagr (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -520,7 +521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (3), this. (2), switch (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (22), [[Microsoft Copilot|Copilot]] (10), data (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Microsoft]] (3)
 > **Env Vars:** fred (1), cpi (1), gpt (1)
 > **Analogies:** for example (2), similar to (1)
 > **Cross-References:** in the last (1)
@@ -530,7 +531,7 @@ created: 2026-04-29
 
 ### 2. Single-Sheet Financial Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Doing a basic loan amortization model
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980)
@@ -683,8 +684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (3), [[Zoom]] (1)
 > **CLI Commands:** make (5), find (1)
-> **Code Keywords:** case, (3), let (1), this. (1)
 > **Env Vars:** pmt (1), c181 (1)
 > **Versions:** 1849.22 (1), 984.11 (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -805,7 +806,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), require (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), business (3), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 849.22 (2), 388.89 (1), 816.14 (1)
 > **Best Practices:** the key is (1)
@@ -964,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), function (2), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), business (3), next (1)
 > **Versions:** 4.25 (3), 1.5 (1), 4.33 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1032,7 +1033,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), traffic (2)
 > **UI Navigation:** toggle (2), go to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1120,7 +1121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2)
 > **UI Navigation:** dropdown (3), toggle (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
@@ -1285,7 +1286,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), else, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), management (1)
 > **Versions:** 1.10 (1), 1.0 (1), 1.05 (1), 1.02 (1), 1.04 (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1), in other words (1), means that (1)
@@ -1371,8 +1372,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), continue (1)
 > **Versions:** 10.4 (1), 12.1 (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** go to (1)
@@ -1382,7 +1383,7 @@ created: 2026-04-29
 
 ### 3. Multi-Sheet Financial Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up a multi-sheet financial model
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/setting-up-a-multi-sheet-financial-model?u=76281980)
@@ -1449,10 +1450,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), next (1), [[Forecasting]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** b18 (2), c18 (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1), this, (1)
 > **Versions:** 2.325 (1), 2.441 (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
@@ -1551,7 +1552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (3), this. (2), case. (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **UI Navigation:** toggle (1)
@@ -1615,7 +1616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (1), power (1)
 > **UI Navigation:** dropdown (1), toggle (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cogs (1)
@@ -1702,9 +1703,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (5)
 > **Env Vars:** ebt (4), ebit (1)
-> **Code Keywords:** let (3), throw (1)
 > **Versions:** 11.6 (1), 11.16 (1), 9.86 (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
@@ -1776,7 +1777,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), from, (1), case, (1), from. (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), [[Forecasting]] (3), management (1)
 > **Analogies:** picture (2), for instance (1), for example (1)
 > **CLI Commands:** make (2)
 > **Versions:** 11.16 (1), 50.04 (1)
@@ -1888,8 +1889,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Microsoft Excel|Excel]] (8), database (1), [[Microsoft Office|Office]] (1), [[Search]] (1)
 > **Env Vars:** gdp (7), fred (6), cpi (3)
-> **Code Keywords:** let (4), for, (1), case, (1)
 > **CLI Commands:** make (3)
 > **Versions:** 2.32 (2)
 > **Definitions:** stands for (1), is a  (1)
@@ -2070,7 +2071,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), case. (2), case, (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), business (2), management (1)
 > **CLI Commands:** make (9)
 > **Env Vars:** cagr (3)
 > **Versions:** 2.75 (1), 23.86 (1), 17.36 (1)
@@ -2081,7 +2082,7 @@ created: 2026-04-29
 
 ### 4. Assessing Model Accuracy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining model accuracy
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980)
@@ -2194,9 +2195,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), [[Product Development]] (1), product (1), hit (1)
 > **Versions:** 2.0 (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2271,7 +2272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), [[Performance Metrics]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.25 (2)
 > **Cross-References:** in the last (1)
@@ -2311,8 +2312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Product Development]] (1)
 > **Versions:** 2.0 (6)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -2398,7 +2399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2), switch (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft PowerPoint|Powerpoint]] (10), data (8), business (2), hit (1)
 > **CLI Commands:** make (6)
 > **Versions:** 2.0 (1), 1.5 (1)
 > **Definitions:** is a  (1), we call this (1)
@@ -2476,9 +2477,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (3), similar to (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), raise (1), from, (1)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** you'll need (1)
@@ -2487,7 +2488,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to build Excel models
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980)
@@ -2520,8 +2521,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), business (3), [[Forecasting]] (1), product (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1), let (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [michael] (1)

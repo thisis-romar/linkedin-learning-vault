@@ -37,7 +37,7 @@ tags:
   - skill/node-js
   - skill/back-end-web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node%20Js%20Security.md)
@@ -56,38 +56,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Securing your Node.js projects
-  - What you should know
+  - [Securing your Node.js projects](#securing-your-nodejs-projects)
+  - [What you should know](#what-you-should-know)
 - [**1. Security Overview**](#1-security-overview) (5 videos)
-  - Introduction to OWASP and other sources
-  - OWASP Top 10 in Node.js
-  - Overview of broken access control
-  - Overview of cryptographic failures
-  - Overview of injections
+  - [Introduction to OWASP and other sources](#introduction-to-owasp-and-other-sources)
+  - [OWASP Top 10 in Node.js](#owasp-top-10-in-nodejs)
+  - [Overview of broken access control](#overview-of-broken-access-control)
+  - [Overview of cryptographic failures](#overview-of-cryptographic-failures)
+  - [Overview of injections](#overview-of-injections)
 - [**2. Best Practices: Packages**](#2-best-practices-packages) (3 videos)
-  - Hands-on base template overview
-  - Maintain package dependencies
-  - Add 2-factor and read-only tokens with NPM
+  - [Hands-on base template overview](#hands-on-base-template-overview)
+  - [Maintain package dependencies](#maintain-package-dependencies)
+  - [Add 2-factor and read-only tokens with NPM](#add-2-factor-and-read-only-tokens-with-npm)
 - [**3. Best Practices: Data**](#3-best-practices-data) (4 videos)
-  - Data handling with type and validation
-  - Use prepared statements for SQL and NoSQL
-  - Set proper HTTP headers with Helmet
-  - Encrypt user data and session management
+  - [Data handling with type and validation](#data-handling-with-type-and-validation)
+  - [Use prepared statements for SQL and NoSQL](#use-prepared-statements-for-sql-and-nosql)
+  - [Set proper HTTP headers with Helmet](#set-proper-http-headers-with-helmet)
+  - [Encrypt user data and session management](#encrypt-user-data-and-session-management)
 - [**4. Best Practices: Server Level**](#4-best-practices-server-level) (4 videos)
-  - Use secure HTTPS protocol
-  - Rate limiting against DoS attacks
-  - Use a library to prevent CSRF attacks
-  - Use cookie attributes
+  - [Use secure HTTPS protocol](#use-secure-https-protocol)
+  - [Rate limiting against DoS attacks](#rate-limiting-against-dos-attacks)
+  - [Use a library to prevent CSRF attacks](#use-a-library-to-prevent-csrf-attacks)
+  - [Use cookie attributes](#use-cookie-attributes)
 - [**5. Tools for Testing**](#5-tools-for-testing) (3 videos)
-  - Introduction to OWASP dependency check
-  - Find vulnerabilities with Snyk
-  - Penetration testing with Burp Suite
+  - [Introduction to OWASP dependency check](#introduction-to-owasp-dependency-check)
+  - [Find vulnerabilities with Snyk](#find-vulnerabilities-with-snyk)
+  - [Penetration testing with Burp Suite](#penetration-testing-with-burp-suite)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your Node.js projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980)
@@ -106,9 +106,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Security]] (2), [[Node.js]] (2), [[Statistics]] (1), node (1)
 > **CLI Commands:** node (3)
 > **File Paths:** node.js (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -132,6 +132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (1), node (1), [[JavaScript]] (1), [[Windows]] (1)
 > **CLI Commands:** node (3), npm (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** node.js (2)
@@ -143,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Security Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OWASP and other sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980)
@@ -166,6 +167,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (1), node (1), [[JavaScript]] (1), [[Windows]] (1)
 > **CLI Commands:** node (3), npm (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** node.js (2)
@@ -271,8 +273,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (6), application (6), [[OWASP]] (4), web (3), [[Security]] (2)
 > **CLI Commands:** node (6), make (5), find (1), npm (1)
-> **Code Keywords:** let (5), continue (1), for, (1), this. (1), function (1)
 > **File Paths:** node.js (6)
 > **UI Navigation:** scroll down (4), open the (1), click on (1)
 > **Env Vars:** owasp (3), npm (1), api (1)
@@ -321,7 +323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1), this. (1)
+> **Frameworks & Libraries:** data (6), api (1), [[JSON]] (1)
 > **Env Vars:** idor (1), api (1), url (1), json (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
@@ -410,7 +412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), case, (2), static (1), module (1)
+> **Frameworks & Libraries:** data (4), [[Security]] (4), management (3), [[OWASP]] (2), [[Algorithms]] (2)
 > **Env Vars:** owasp (2), aes (2), des (1), cbc (1), tpn (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** find (2), make (2)
@@ -502,7 +504,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (2), pass (2), require (1), case, (1)
+> **Frameworks & Libraries:** [[SQL]] (8), data (6), database (3), [[Scripting]] (3), [[Google]] (3)
 > **Env Vars:** sql (8), owasp (2), ldap (2), http (1)
 > **CLI Commands:** make (2), node (1), find (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
@@ -514,7 +516,7 @@ created: 2026-04-29
 
 ### 2. Best Practices: Packages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on base template overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980)
@@ -627,9 +629,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MongoDB]] (9), database (4), [[Security]] (2), cd (2), [[npm]] (2)
 > **CLI Commands:** make (3), cd (2), npm (2), find (1), ls (1)
 > **Env Vars:** crm (7), fyi (1), api (1), json (1)
-> **Code Keywords:** let (3), this, (2), this. (1), delete (1), public (1)
 > **Tools:** vs code (3), terminal (2)
 > **Prerequisites:** install (3), you need to have (2)
 > **UI Navigation:** go to (2), click on (1)
@@ -731,7 +733,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (5), continue (3), async (2), case. (1)
+> **Frameworks & Libraries:** application (7), [[npm]] (7), [[Node.js]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** npm (7), make (6), node (1), find (1)
 > **Versions:** 3.1.7 (3), 8.83 (1), 3.1 (1)
 > **Prerequisites:** install (4)
@@ -813,8 +815,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (9), next (2), [[Security]] (1), [[Tokens]] (1), [[IT Automation]] (1)
 > **CLI Commands:** npm (9), make (2), cd (1)
-> **Code Keywords:** let (2), continue (2), case, (2), this, (1), case. (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (3)
 > **Prerequisites:** set up (3)
@@ -825,7 +827,7 @@ created: 2026-04-29
 
 ### 3. Best Practices: Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data handling with type and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/data-handling-with-type-and-validation?u=76281980)
@@ -918,7 +920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (5), function (3), type, (2), throw (2)
+> **Frameworks & Libraries:** data (10), next (1), database (1), api (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), similar to (1)
 > **File Paths:** validator.js (3)
@@ -954,6 +956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (2), database (2), data (1), [[MongoDB]] (1)
 > **CLI Commands:** find (2), make (1), mongo (1)
 > **URLs:** [mongoosejs.com](https://mongoosejs.com) (1), [sequelize.com](https://sequelize.com) (1)
 > **Env Vars:** sql (2)
@@ -961,7 +964,6 @@ created: 2026-04-29
 > **Exercise Files:** template (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
-> **Speakers:** - [narrator] (1)
 
 #### Set proper HTTP headers with Helmet
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/set-proper-http-headers-with-helmet?u=76281980)
@@ -988,12 +990,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), web (2), [[Scripting]] (2), [[Metadata]] (1), [[Node.js]] (1)
 > **Env Vars:** http (2), https (1)
 > **Analogies:** such as (2), for example (1)
 > **File Paths:** helmet.js (1), node.js (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** node (1)
-> **Code Keywords:** type, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1074,7 +1076,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (2), this. (1)
+> **Frameworks & Libraries:** data (18), application (3), database (3), [[Node.js]] (2), [[Algorithms]] (2)
 > **CLI Commands:** make (6), node (2)
 > **Code Identifiers:** localstorage (5), sessionstorage (2)
 > **Analogies:** for example (6)
@@ -1086,7 +1088,7 @@ created: 2026-04-29
 
 ### 4. Best Practices: Server Level
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use secure HTTPS protocol
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/use-secure-https-protocol?u=76281980)
@@ -1119,6 +1121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), web (2), cloud (1)
 > **Env Vars:** https (3), ssl (2), isp (1)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (1)
@@ -1209,8 +1212,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** express (8), [[Redis]] (2), application (2), [[npm]] (1), [[Windows]] (1)
 > **Prerequisites:** set up (5), install (2), setup (1)
-> **Code Keywords:** module (3), let (1), for, (1), pass (1), this. (1)
 > **Env Vars:** mpm (1), crm (1), npm (1), dos (1)
 > **Cross-References:** go back to (2)
 > **Tools:** terminal (2)
@@ -1265,10 +1268,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Security]] (3), web application (3), web (1), [[Forms]] (1)
 > **Env Vars:** csrf (5), post (1), put (1), delete (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
-> **Code Keywords:** delete (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1313,9 +1316,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), express (2), [[JavaScript]] (1), [[Scripting]] (1), [[Security]] (1)
 > **Env Vars:** http (2), https (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** implements (1), finally, (1)
 > **Definitions:** is a  (2)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
@@ -1324,7 +1327,7 @@ created: 2026-04-29
 
 ### 5. Tools for Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OWASP dependency check
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980)
@@ -1371,6 +1374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Search]] (1), [[Google]] (1), [[npm]] (1)
 > **CLI Commands:** npm (1), brew (1), make (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Env Vars:** owasp (1), npm (1)
@@ -1378,7 +1382,6 @@ created: 2026-04-29
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
-> **Speakers:** - [narrator] (1)
 
 #### Find vulnerabilities with Snyk
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980)
@@ -1429,9 +1432,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[React.js|React]] (2), application (2), [[JSON]] (1), feature (1)
 > **Tools:** github (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **File Paths:** package.json (1)
 > **Definitions:** is a  (1)
@@ -1454,6 +1457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **URLs:** [portswigger.net](https://portswigger.net) (1)
@@ -1461,12 +1465,11 @@ created: 2026-04-29
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980)
@@ -1497,6 +1500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), [[Node.js]] (2), [[OWASP]] (2), application (1), api (1)
 > **CLI Commands:** node (2), make (2), find (1)
 > **Env Vars:** owasp (2), api (1)
 > **File Paths:** node.js (2)

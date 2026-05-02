@@ -34,7 +34,7 @@ tags:
   - skill/data-governance
   - skill/data-stewardship
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Steward%20Foundations.md)
@@ -53,56 +53,56 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Data stewardship
-  - What you need to know
+  - [Data stewardship](#data-stewardship)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Data Stewardship Roles**](#1-data-stewardship-roles) (5 videos)
-  - What is data stewardship?
-  - Exploring data stewardship roles
-  - Qualities of a good data steward
-  - Data stewardship responsibilities
-  - Obtaining senior leadership support
+  - [What is data stewardship?](#what-is-data-stewardship)
+  - [Exploring data stewardship roles](#exploring-data-stewardship-roles)
+  - [Qualities of a good data steward](#qualities-of-a-good-data-steward)
+  - [Data stewardship responsibilities](#data-stewardship-responsibilities)
+  - [Obtaining senior leadership support](#obtaining-senior-leadership-support)
 - [**2. Maintaining Data Quality**](#2-maintaining-data-quality) (5 videos)
-  - Implementing master data management
-  - Developing data definitions
-  - Protecting data quality
-  - Validating data quality
-  - Promoting data reuse
+  - [Implementing master data management](#implementing-master-data-management)
+  - [Developing data definitions](#developing-data-definitions)
+  - [Protecting data quality](#protecting-data-quality)
+  - [Validating data quality](#validating-data-quality)
+  - [Promoting data reuse](#promoting-data-reuse)
 - [**3. Protecting Data Security**](#3-protecting-data-security) (10 videos)
-  - Goals of information security
-  - Preserving data confidentiality
-  - Protecting data integrity
-  - Maintaining data availability
-  - Identification, authentication, and authorization
-  - Discretionary access controls
-  - Access control lists
-  - Role-based access control
-  - Managing the data lifecycle
-  - Generative AI
+  - [Goals of information security](#goals-of-information-security)
+  - [Preserving data confidentiality](#preserving-data-confidentiality)
+  - [Protecting data integrity](#protecting-data-integrity)
+  - [Maintaining data availability](#maintaining-data-availability)
+  - [Identification, authentication, and authorization](#identification-authentication-and-authorization)
+  - [Discretionary access controls](#discretionary-access-controls)
+  - [Access control lists](#access-control-lists)
+  - [Role-based access control](#role-based-access-control)
+  - [Managing the data lifecycle](#managing-the-data-lifecycle)
+  - [Generative AI](#generative-ai)
 - [**4. Preserving Individual Privacy**](#4-preserving-individual-privacy) (4 videos)
-  - Privacy program development
-  - Generally accepted privacy principles
-  - Data anonymization
-  - Data obfuscation
+  - [Privacy program development](#privacy-program-development)
+  - [Generally accepted privacy principles](#generally-accepted-privacy-principles)
+  - [Data anonymization](#data-anonymization)
+  - [Data obfuscation](#data-obfuscation)
 - [**5. Regulatory Compliance**](#5-regulatory-compliance) (6 videos)
-  - Today's regulatory landscape
-  - Health Insurance Portability and Accountability Act (HIPAA)
-  - Family Educational Rights and Privacy Act (FERPA)
-  - Gramm-Leach-Bliley Act (GLBA)
-  - Data breach notification laws
-  - International data transfers
+  - [Today's regulatory landscape](#todays-regulatory-landscape)
+  - [Health Insurance Portability and Accountability Act (HIPAA)](#health-insurance-portability-and-accountability-act-hipaa)
+  - [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
+  - [Gramm-Leach-Bliley Act (GLBA)](#gramm-leach-bliley-act-glba)
+  - [Data breach notification laws](#data-breach-notification-laws)
+  - [International data transfers](#international-data-transfers)
 - [**6. Getting Started**](#6-getting-started) (6 videos)
-  - Data inventory
-  - Entity-relationship diagrams
-  - Data classification
-  - Interviewing key employees
-  - Following data flows
-  - Data sharing and transfers
+  - [Data inventory](#data-inventory)
+  - [Entity-relationship diagrams](#entity-relationship-diagrams)
+  - [Data classification](#data-classification)
+  - [Interviewing key employees](#interviewing-key-employees)
+  - [Following data flows](#following-data-flows)
+  - [Data sharing and transfers](#data-sharing-and-transfers)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your studies
+  - [Continuing your studies](#continuing-your-studies)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data stewardship
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980)
@@ -133,8 +133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Security]] (3), [[Databases]] (1), web (1), traffic (1)
 > **Prerequisites:** set up (1), required to (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [mike] (1)
 
 #### What you need to know
@@ -152,6 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -159,7 +160,7 @@ created: 2026-04-29
 
 ### 1. Data Stewardship Roles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data stewardship?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980)
@@ -212,6 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (32), [[Human Resources (HR)|Human resources]] (5), management (2), [[Security]] (1), [[Analytics]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1), such as (1)
@@ -283,11 +285,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (49), [[Security]] (4), [[Privacy]] (2), business (2), [[Human Resources (HR)|Human resources]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gdpr (2), dpo (2)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (1), protected (1)
 > **Cross-References:** earlier in (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -337,8 +339,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), functional (3), [[Human Resources (HR)|Human resources]] (2), [[Security]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (1), finally, (1), function (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -390,7 +392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** data (28), [[Privacy]] (5), [[Security]] (4), [[Regulatory Compliance]] (3), business (1)
 > **Speakers:** - [instructor] (1)
 
 #### Obtaining senior leadership support
@@ -434,14 +436,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), require (1), let (1), finally, (1)
+> **Frameworks & Libraries:** data (16), business (6), leadership (2)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Maintaining Data Quality
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing master data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980)
@@ -494,8 +496,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), business (5), management (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** mdm (6)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), picture (1)
 > **Speakers:** - [instructor] (1)
@@ -559,6 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), business (7), [[Data Classification]] (1), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** snap (1)
@@ -630,8 +633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (40), management (2), database (2), business (1), [[Data Acquisition]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), pass (1), finally, (1)
 > **Definitions:** means that (3)
 > **Analogies:** for example (3)
 > **Env Vars:** zip (1)
@@ -690,7 +693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** data (27), business (2), database (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
@@ -713,12 +716,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), management (1), [[Microsoft Word|Word]] (1), [[Databases]] (1), [[Dashboards]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Protecting Data Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Goals of information security
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980)
@@ -763,8 +767,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Cybersecurity]] (5), [[Security]] (4), business (2)
 > **Definitions:** known as (2), means that (1)
-> **Code Keywords:** public (1)
 > **Env Vars:** cia (1)
 > **Speakers:** - [instructor] (1)
 
@@ -819,7 +823,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), private (1)
+> **Frameworks & Libraries:** data (14), [[Security]] (5), [[Cybersecurity]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Algorithms]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -887,7 +891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), public (2), private (1), match, (1)
+> **Frameworks & Libraries:** data (5), [[Cybersecurity]] (1), [[Hardware]] (1), application (1)
 > **Analogies:** such as (4), imagine (1)
 > **Definitions:** means that (2), is a  (1), known as (1)
 > **Env Vars:** cia (1)
@@ -920,9 +924,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Security]] (2), data (1), application (1)
 > **Analogies:** such as (5)
 > **Env Vars:** cia (1), raid (1)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Identification, authentication, and authorization
@@ -990,7 +994,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), management (3), [[Security]] (2), data (1), cloud (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
@@ -1042,9 +1046,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Windows]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ntfs (2), dac (1)
-> **Code Keywords:** let (1), case, (1)
 > **Analogies:** imagine (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1158,7 +1162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), implements (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Windows]] (1), data (1), [[Windows Server]] (1), power (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2)
 > **Env Vars:** ntfs (1)
@@ -1204,7 +1208,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1302,9 +1306,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), cloud (2), next (1), [[NIST]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** nist (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -1445,7 +1449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), continue (2), finally, (1)
+> **Frameworks & Libraries:** data (31), ai (15), [[ChatGPT]] (12), [[Generative AI]] (9), [[DALL-E]] (7)
 > **Env Vars:** dall (7), gpt (1)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** make (2)
@@ -1455,7 +1459,7 @@ created: 2026-04-29
 
 ### 4. Preserving Individual Privacy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Privacy program development
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980)
@@ -1486,6 +1490,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (12), data (8), next (1), [[Accountability]] (1)
 > **Prerequisites:** you'll need (2), required to (1)
 > **Definitions:** is an  (2)
 > **Cross-References:** in the next (1)
@@ -1567,8 +1572,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (14), data (11), [[Forms]] (1), [[Accountability]] (1), management (1)
 > **Env Vars:** gapp (12), pii (2), phi (2), hipaa (1), iso (1)
-> **Code Keywords:** private (5), public (2), protected (1), finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1625,6 +1630,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Security]] (2), cloud (1), [[Analytics]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** hipaa (1)
 > **Analogies:** for example (1)
@@ -1679,7 +1685,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** data (8), [[Security]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), known as (1)
 > **Warnings:** caution (1)
@@ -1688,7 +1694,7 @@ created: 2026-04-29
 
 ### 5. Regulatory Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Today's regulatory landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980)
@@ -1751,8 +1757,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (3), [[Privacy]] (2), [[Regulatory Compliance]] (1), [[Accountability]] (1)
 > **Env Vars:** hipaa (2), pci (2), dss (2), cfr (1)
-> **Code Keywords:** private (4), continue (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1842,8 +1848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (12), [[Security]] (8), business (4), data (2), [[Accountability]] (1)
 > **Env Vars:** hipaa (21), phi (9), baa (1), ferpa (1), cms (1)
-> **Code Keywords:** protected (6), let (2), extends (1), finally, (1), require (1)
 > **Definitions:** is a  (4), known as (1)
 > **Code Identifiers:** ephi (4)
 > **Analogies:** such as (1), imagine (1)
@@ -1937,8 +1943,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (4), application (2)
 > **Env Vars:** ferpa (23)
-> **Code Keywords:** require (2), public (1), private (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2008,8 +2014,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Security]] (5), [[Microsoft Products|Products]] (2), data (1), [[Banking]] (1)
 > **Env Vars:** glba (11), atm (1)
-> **Code Keywords:** public (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -2083,7 +2089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), pass (1), let (1), private (1)
+> **Frameworks & Libraries:** data (8), [[Security]] (3), [[Privacy]] (2), business (2), [[Databases]] (1)
 > **Analogies:** such as (1), for example (1), imagine (1)
 > **Cross-References:** later in (1)
 > **Definitions:** known as (1)
@@ -2144,8 +2150,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Privacy]] (9), data (3), business (2), [[Security]] (1), [[Accountability]] (1)
 > **Env Vars:** gdpr (3), apec (2)
-> **Code Keywords:** let (1), finally, (1), require (1), protected (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2153,7 +2159,7 @@ created: 2026-04-29
 
 ### 6. Getting Started
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data inventory
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980)
@@ -2234,8 +2240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (5), [[Privacy]] (3), [[Security]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** pii (6)
-> **Code Keywords:** this, (1), include. (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Best Practices:** rule of thumb (1)
@@ -2324,9 +2330,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (15), data (4), express (2), [[Databases]] (1), power (1)
 > **Analogies:** for example (4), similar to (2)
 > **Definitions:** known as (3), is a  (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Data classification
@@ -2374,7 +2380,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), protected (2), private (1), require (1)
+> **Frameworks & Libraries:** data (7), [[Security]] (6), business (1), [[Data Classification]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pii (1), phi (1), hipaa (1), pci (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2438,6 +2444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (10), functional (8), data (3), [[Interviewing]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** pii (5)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
@@ -2494,9 +2501,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hr (7), data (6), [[Security]] (4), business (2), database (2)
 > **Env Vars:** pii (4), ssn (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** require (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2529,6 +2536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), business (3), [[Security]] (2), [[Privacy]] (2)
 > **Env Vars:** pii (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
@@ -2537,7 +2545,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your studies
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980)
@@ -2556,6 +2564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), power (1)
 > **Speakers:** - [mike] (1)
 
 

@@ -28,7 +28,7 @@ tags:
   - skill/interview-preparation
   - skill/analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Preparing%20To%20Get%20A%20Job%20In%20Data%20Analytics.md)
@@ -47,37 +47,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Data analytics: From initial interest to job interview
+  - [Data analytics: From initial interest to job interview](#data-analytics-from-initial-interest-to-job-interview)
 - [**1. What Is Data Analytics?**](#1-what-is-data-analytics) (5 videos)
-  - What is data analytics?
-  - What does a data analyst do?
-  - What are the different types of data analytics?
-  - Should you be a data analyst?
-  - How much work does it take to be a data analyst?
+  - [What is data analytics?](#what-is-data-analytics)
+  - [What does a data analyst do?](#what-does-a-data-analyst-do)
+  - [What are the different types of data analytics?](#what-are-the-different-types-of-data-analytics)
+  - [Should you be a data analyst?](#should-you-be-a-data-analyst)
+  - [How much work does it take to be a data analyst?](#how-much-work-does-it-take-to-be-a-data-analyst)
 - [**2. How to Upskill and Learn Data Analyst Skills**](#2-how-to-upskill-and-learn-data-analyst-skills) (6 videos)
-  - Skills needed in data analysis
-  - How to learn statistics for data analytics
-  - How to learn basic data skills for data analytics
-  - How to learn Power BI and Tableau for data analytics
-  - How to learn SQL for data analytics
-  - How to learn programming in Python or R for data analytics
+  - [Skills needed in data analysis](#skills-needed-in-data-analysis)
+  - [How to learn statistics for data analytics](#how-to-learn-statistics-for-data-analytics)
+  - [How to learn basic data skills for data analytics](#how-to-learn-basic-data-skills-for-data-analytics)
+  - [How to learn Power BI and Tableau for data analytics](#how-to-learn-power-bi-and-tableau-for-data-analytics)
+  - [How to learn SQL for data analytics](#how-to-learn-sql-for-data-analytics)
+  - [How to learn programming in Python or R for data analytics](#how-to-learn-programming-in-python-or-r-for-data-analytics)
 - [**3. How to Network and Use LinkedIn for Data Analytics**](#3-how-to-network-and-use-linkedin-for-data-analytics) (5 videos)
-  - LinkedIn profile: First impressions
-  - LinkedIn profile: Skills, experience, and recommendations
-  - How to build a personal brand for data analytics
-  - How to maximize LinkedIn and network for data analytics
-  - How to get interviews for data analytics
+  - [LinkedIn profile: First impressions](#linkedin-profile-first-impressions)
+  - [LinkedIn profile: Skills, experience, and recommendations](#linkedin-profile-skills-experience-and-recommendations)
+  - [How to build a personal brand for data analytics](#how-to-build-a-personal-brand-for-data-analytics)
+  - [How to maximize LinkedIn and network for data analytics](#how-to-maximize-linkedin-and-network-for-data-analytics)
+  - [How to get interviews for data analytics](#how-to-get-interviews-for-data-analytics)
 - [**4. How to Build a Portfolio for Data Analytics**](#4-how-to-build-a-portfolio-for-data-analytics) (4 videos)
-  - What is a data analytics portfolio?
-  - How and where to build a portfolio
-  - How to pick projects related to the role and industry
-  - How to leverage a portfolio in interviews
+  - [What is a data analytics portfolio?](#what-is-a-data-analytics-portfolio)
+  - [How and where to build a portfolio](#how-and-where-to-build-a-portfolio)
+  - [How to pick projects related to the role and industry](#how-to-pick-projects-related-to-the-role-and-industry)
+  - [How to leverage a portfolio in interviews](#how-to-leverage-a-portfolio-in-interviews)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Start upskilling, networking, and building a portfolio
+  - [Start upskilling, networking, and building a portfolio](#start-upskilling-networking-and-building-a-portfolio)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data analytics: From initial interest to job interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980)
@@ -100,14 +100,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Analytics]] (5), data (3), [[LinkedIn]] (3), [[Soft Skills]] (1), career (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - so (1)
 
 
 ### 1. What Is Data Analytics?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980)
@@ -164,8 +164,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Analytics]] (10), business (8), career (2), [[Soft Skills]] (2)
 > **CLI Commands:** make (3), python (1)
-> **Code Keywords:** super (2), let (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -231,7 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1)
+> **Frameworks & Libraries:** data (13), business (7), [[Analytics]] (5), product (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
@@ -317,9 +317,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (23), data (16), business (11), product (3), [[Programming]] (2)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (2), for example (1)
-> **Code Keywords:** super (1), require (1)
 > **Env Vars:** sas (1), sql (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** we talked about (1)
@@ -395,7 +395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), require (1), this, (1), continue (1)
+> **Frameworks & Libraries:** data (17), [[Analytics]] (8), career (5), leadership (2), teams (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -464,7 +464,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** data (11), [[Analytics]] (8), [[LinkedIn]] (6), business (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** go to (1)
@@ -475,7 +475,7 @@ created: 2026-04-29
 
 ### 2. How to Upskill and Learn Data Analyst Skills
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Skills needed in data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980)
@@ -514,8 +514,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (3), data (3), business (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** require (1)
 > **Env Vars:** sql (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -600,8 +600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Statistics]] (6), [[Programming]] (1), [[LinkedIn]] (1), [[Search]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - maybe (1)
 
@@ -656,7 +656,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (2), type, (1)
+> **Frameworks & Libraries:** data (17), business (5), next (2), [[Statistics]] (2), career (1)
 > **Env Vars:** null (2), eda (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
@@ -734,7 +734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1)
+> **Frameworks & Libraries:** bi (17), data (14), power (8), [[Tableau]] (5), business (4)
 > **Env Vars:** sql (1), eda (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), imagine (1)
@@ -820,8 +820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (20), data (18), [[Analytics]] (5), database (5), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** sql (20), roi (1)
-> **Code Keywords:** super (3), switch (1)
 > **CLI Commands:** make (1), mysql (1), find (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Analogies:** think of it like (1)
@@ -890,8 +890,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Analytics]] (7), [[Programming]] (7), data (6), bi (2)
 > **CLI Commands:** python (9)
-> **Code Keywords:** require (1), for. (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -901,7 +901,7 @@ created: 2026-04-29
 
 ### 3. How to Network and Use LinkedIn for Data Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LinkedIn profile: First impressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980)
@@ -1006,7 +1006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), super (1), this. (1)
+> **Frameworks & Libraries:** data (15), [[LinkedIn]] (4), [[Analytics]] (3), career (2), next (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (3), such as (1)
 > **Definitions:** is a  (1)
@@ -1073,9 +1073,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (3), [[Python (Programming Language)|Python]] (3), [[Analytics]] (3), power (2)
 > **CLI Commands:** python (3), make (2)
 > **Env Vars:** sql (3)
-> **Code Keywords:** let (1), this. (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - now (1)
 
@@ -1148,7 +1148,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (2), public (1), for. (1)
+> **Frameworks & Libraries:** data (5), [[LinkedIn]] (3), career (3), [[SQL]] (2), [[Analytics]] (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for example (1), picture (1)
 > **Non-Speech:** (upbeat music) (2)
@@ -1216,7 +1216,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), super (1)
+> **Frameworks & Libraries:** data (11), [[LinkedIn]] (5), [[Analytics]] (3), career (2), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1292,7 +1292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), match. (1), yield (1), this, (1)
+> **Frameworks & Libraries:** data (7), [[Analytics]] (7), [[Search]] (3), [[LinkedIn]] (2), [[Interviewing]] (2)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
@@ -1301,7 +1301,7 @@ created: 2026-04-29
 
 ### 4. How to Build a Portfolio for Data Analytics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a data analytics portfolio?
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980)
@@ -1370,6 +1370,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Soft Skills]] (4), [[Analytics]] (3), business (3), power (2)
 > **Analogies:** for example (1), such as (1), it's like (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** sql (1), null (1)
@@ -1431,11 +1432,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Analytics]] (3), [[Version Control]] (1), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
 > **Tools:** github (7)
 > **Env Vars:** readme (4), sql (1)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** public (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -1515,6 +1516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (8), [[Analytics]] (5), product (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (2), python (2)
 > **Env Vars:** sql (1)
 > **Definitions:** is an  (1)
@@ -1586,6 +1588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** job description (8), business (3), [[Tableau]] (2), next (1), power (1)
 > **Env Vars:** star (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
@@ -1594,7 +1597,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start upskilling, networking, and building a portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980)
@@ -1639,7 +1642,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), data (2), [[Interviewing]] (1), next (1), career (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - you (1)
 

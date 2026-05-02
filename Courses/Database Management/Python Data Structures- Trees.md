@@ -32,7 +32,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Python%20Data%20Structures-%20Trees.md)
@@ -51,36 +51,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Getting started with trees
-  - What you should know
-  - BSTs and other trees
+  - [Getting started with trees](#getting-started-with-trees)
+  - [What you should know](#what-you-should-know)
+  - [BSTs and other trees](#bsts-and-other-trees)
 - [**1. Navigating Trees**](#1-navigating-trees) (7 videos)
-  - Building a basic tree
-  - Searching a tree
-  - Traversing a tree
-  - Getting the maximum height of a tree
-  - Getting all nodes at a particular depth
-  - Challenge: Printing a tree
-  - Solution: Printing a tree
+  - [Building a basic tree](#building-a-basic-tree)
+  - [Searching a tree](#searching-a-tree)
+  - [Traversing a tree](#traversing-a-tree)
+  - [Getting the maximum height of a tree](#getting-the-maximum-height-of-a-tree)
+  - [Getting all nodes at a particular depth](#getting-all-nodes-at-a-particular-depth)
+  - [Challenge: Printing a tree](#challenge-printing-a-tree)
+  - [Solution: Printing a tree](#solution-printing-a-tree)
 - [**2. Modifying Trees**](#2-modifying-trees) (6 videos)
-  - Adding nodes
-  - Deleting nodes: Theory
-  - Deleting nodes: Code
-  - Detecting unbalanced trees
-  - Challenge: Adding a balance indicator to the printed tree
-  - Solution: Adding a balance indicator to the printed tree
+  - [Adding nodes](#adding-nodes)
+  - [Deleting nodes: Theory](#deleting-nodes-theory)
+  - [Deleting nodes: Code](#deleting-nodes-code)
+  - [Detecting unbalanced trees](#detecting-unbalanced-trees)
+  - [Challenge: Adding a balance indicator to the printed tree](#challenge-adding-a-balance-indicator-to-the-printed-tree)
+  - [Solution: Adding a balance indicator to the printed tree](#solution-adding-a-balance-indicator-to-the-printed-tree)
 - [**3. Rebalancing Trees**](#3-rebalancing-trees) (5 videos)
-  - Introduction to rotations
-  - Rotating trees in Python
-  - Fixing a tree with multiple points of imbalance
-  - Challenge: Smarter automated rebalancing
-  - Solution: Smarter automated rebalancing
+  - [Introduction to rotations](#introduction-to-rotations)
+  - [Rotating trees in Python](#rotating-trees-in-python)
+  - [Fixing a tree with multiple points of imbalance](#fixing-a-tree-with-multiple-points-of-imbalance)
+  - [Challenge: Smarter automated rebalancing](#challenge-smarter-automated-rebalancing)
+  - [Solution: Smarter automated rebalancing](#solution-smarter-automated-rebalancing)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with data structures
+  - [Next steps with data structures](#next-steps-with-data-structures)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980)
@@ -119,6 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -176,6 +177,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Engineering]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), career (1)
 > **CLI Commands:** python (3), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -266,9 +268,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (13), data (5), [[Search]] (4), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (13), make (4), find (1)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** let (2), this. (1)
 > **Analogies:** for example (3)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [instructor] (1)
@@ -276,7 +278,7 @@ created: 2026-04-29
 
 ### 1. Navigating Trees
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a basic tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980)
@@ -379,8 +381,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (24), data (14), [[Search]] (2), [[Metadata]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (24), python (1), make (1)
-> **Code Keywords:** let (11), this, (3), pass (2), class. (1), self (1)
 > **Code Identifiers:** mytree (2)
 > **Cross-References:** in the last (2)
 > **UI Navigation:** go to (2)
@@ -493,7 +495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (13), let (9), function (2), for. (1), case, (1)
+> **Frameworks & Libraries:** [[Search]] (14), node (10), data (7), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (10), find (3), make (1), python (1)
 > **UI Navigation:** go to (2)
 > **Versions:** node 10 (1)
@@ -608,7 +610,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (8), let (7), this. (1), class. (1), function (1)
+> **Frameworks & Libraries:** node (16), next (3), [[Search]] (1), data (1), [[Algorithms]] (1)
 > **CLI Commands:** node (16), find (1), make (1)
 > **Code Identifiers:** traverseinorder (4), traversepre (3), traversepostorder (2), traversepreorder (1)
 > **Analogies:** for example (1), similar to (1)
@@ -714,7 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), self (5), function (4), this, (2), pass (1)
+> **Frameworks & Libraries:** node (9), [[Search]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (9), find (2), python (1), make (1)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** we call this (1)
@@ -835,7 +837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), self (7), function (6), pass (2), class, (1)
+> **Frameworks & Libraries:** node (7), next (3), power (2), data (1)
 > **CLI Commands:** node (7), make (2), find (1)
 > **Code Identifiers:** getnodesatdepth (8), getnodesatdepth2 (1), getnodesatdepth3 (1)
 > **Analogies:** similar to (2), imagine (1)
@@ -870,7 +872,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
 > **Tools:** terminal (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -966,7 +967,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), class, (1), pass (1), case, (1), let (1)
+> **Frameworks & Libraries:** next (6), node (5), data (3), feature (1)
 > **CLI Commands:** node (5), make (1)
 > **Cross-References:** in the next (1), in the last (1)
 > **Prerequisites:** before you begin (1)
@@ -976,7 +977,7 @@ created: 2026-04-29
 
 ### 2. Modifying Trees
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding nodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/adding-nodes?u=76281980)
@@ -1055,7 +1056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (7), function (4), let (4), for, (1), else: (1)
+> **Frameworks & Libraries:** data (23), node (5), [[Search]] (3), functional (1)
 > **CLI Commands:** node (5), find (2), make (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1123,8 +1124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (14), next (1)
 > **CLI Commands:** node (14), find (4), make (3)
-> **Code Keywords:** case, (1), this. (1), let (1), delete (1)
 > **Env Vars:** rtfm (2)
 > **Definitions:** stands for (1), is a  (1)
 > **UI Navigation:** go to (1)
@@ -1257,7 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (20), delete (14), function (6), let (3), else, (2)
+> **Frameworks & Libraries:** data (7), node (3), next (1)
 > **CLI Commands:** find (5), make (4), node (3)
 > **Code Identifiers:** findmin (3), minvalue (3)
 > **Cross-References:** in the last (2), next video (1)
@@ -1351,7 +1352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), let (4), function (2), case, (1), else, (1)
+> **Frameworks & Libraries:** node (6), next (2), [[Search]] (1)
 > **CLI Commands:** node (6), find (1), make (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Cross-References:** in the next (1), next video (1)
@@ -1383,9 +1384,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), next (2)
 > **Cross-References:** in the last (2), next chapter (1), in the next (1)
 > **CLI Commands:** node (3)
-> **Code Keywords:** function (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1436,7 +1437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), self (3), class. (1)
+> **Frameworks & Libraries:** node (6), data (5), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** node (6), make (1)
 > **Code Identifiers:** nodetochar (1)
 > **Cross-References:** next chapter (1)
@@ -1447,7 +1448,7 @@ created: 2026-04-29
 
 ### 3. Rebalancing Trees
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to rotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/introduction-to-rotations?u=76281980)
@@ -1560,8 +1561,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), [[Search]] (1), next (1)
 > **CLI Commands:** node (9)
-> **Code Keywords:** let (3), case, (1)
 > **Definitions:** is called (1), means that (1)
 > **Analogies:** imagine (2)
 > **Cross-References:** in the last (1)
@@ -1679,7 +1680,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (4), class. (1), type, (1)
+> **Frameworks & Libraries:** node (7), [[Microsoft Word|Word]] (4), next (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** unbalancedleftleft (3), rotateleft (2), reattachnode (1), rotatrright (1), rotateright (1)
 > **CLI Commands:** node (7), python (1), make (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -1810,7 +1811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (17), function (8), let (5), else, (1)
+> **Frameworks & Libraries:** node (20)
 > **CLI Commands:** node (20), make (4)
 > **Code Identifiers:** fiximbalanceifexists (6), getleftrightheightdifference (5), rotateright (3), rotateleft (2), isbalanced (1)
 > **Definitions:** is a  (1)
@@ -1847,8 +1848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), data (2)
 > **CLI Commands:** node (5), make (1)
-> **Code Keywords:** function (1), delete (1)
 > **Analogies:** imagine (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -1897,7 +1898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), self (5), delete (2), let (1)
+> **Frameworks & Libraries:** node (7), [[Search]] (2), next (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (7), make (3), python (1)
 > **Best Practices:** make sure to (2), don't forget (1)
 > **Env Vars:** avl (2)
@@ -1909,7 +1910,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980)
@@ -1956,8 +1957,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Algorithms]] (5), node (3), [[Search]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** node (3), python (2)
-> **Code Keywords:** delete (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)

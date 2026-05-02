@@ -30,7 +30,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20and%20AI%20Agents%20with%20ChatGPT.md)
@@ -49,19 +49,19 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The new age of prompting
+  - [The new age of prompting](#the-new-age-of-prompting)
 - [**1. Agentive Prompt Engineering**](#1-agentive-prompt-engineering) (7 videos)
-  - Prompting strategies for agentic behavior
-  - Personalizing your prompts with custom instructions
-  - Using memories to remember information
-  - Archiving reusable chats
-  - Using variables and identifiers
-  - Converting prompts to custom GPTs
-  - Creating modular agentic GPTs
+  - [Prompting strategies for agentic behavior](#prompting-strategies-for-agentic-behavior)
+  - [Personalizing your prompts with custom instructions](#personalizing-your-prompts-with-custom-instructions)
+  - [Using memories to remember information](#using-memories-to-remember-information)
+  - [Archiving reusable chats](#archiving-reusable-chats)
+  - [Using variables and identifiers](#using-variables-and-identifiers)
+  - [Converting prompts to custom GPTs](#converting-prompts-to-custom-gpts)
+  - [Creating modular agentic GPTs](#creating-modular-agentic-gpts)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The new age of prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980)
@@ -86,7 +86,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Python (Programming Language)|Python]] (1), data (1), [[Custom GPTs]] (1)
 > **CLI Commands:** python (1)
 > **Versions:** 3.5 (1)
 > **Speakers:** - chatgpt (1)
@@ -94,7 +94,7 @@ created: 2026-04-29
 
 ### 1. Agentive Prompt Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompting strategies for agentic behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980)
@@ -189,7 +189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (3), for, (1), for. (1), yield (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), prompt (5), next (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), generic (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** you'll need (1)
@@ -280,7 +280,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), prompt (2), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[GitHub]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
@@ -356,7 +356,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), prompt (3), chatbot (1), data (1), next (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** picture (1)
@@ -457,7 +457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), continue (1)
+> **Frameworks & Libraries:** prompt (11), [[ChatGPT]] (3), next (2), [[LinkedIn]] (2), [[Custom GPTs]] (2)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (3), click on (3)
 > **Env Vars:** pdf (3), prompt (1), info (1)
@@ -555,8 +555,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (2), hit (2), data (1)
 > **Env Vars:** new_title (3), csv (3), tfit (2), slug (2), prefix (1)
-> **Code Keywords:** let (5), this. (1), this, (1), type, (1), require (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - for (1)
@@ -660,8 +660,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (6), [[Custom GPTs]] (5), hit (4), [[DALL-E]] (4), next (3)
 > **Env Vars:** gpt (11), dall (4), api (1), tfit (1)
-> **Code Keywords:** let (4), interface (1), default, (1), delete (1), this. (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), go back to (1)
@@ -740,10 +740,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Custom GPTs]] (4), hit (2), [[DALL-E]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[ChatGPT]] (1)
 > **Env Vars:** gpt (9), csv (2), dall (2), slug (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (3)
-> **Code Keywords:** this, (1), this. (1)
 > **File Paths:** youtube_links.txt (1)
 > **Code Identifiers:** youtube_links (1)
 > **Cross-References:** go back to (1)

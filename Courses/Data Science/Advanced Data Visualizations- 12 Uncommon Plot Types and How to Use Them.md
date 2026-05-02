@@ -32,7 +32,7 @@ tags:
   - skill/data-visualization
   - skill/statistical-data-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Data%20Visualizations-%2012%20Uncommon%20Plot%20Types%20and%20How%20to%20Use%20Them.md)
@@ -51,27 +51,27 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Take your data viz game to the next level
-  - What you should know
+  - [Take your data viz game to the next level](#take-your-data-viz-game-to-the-next-level)
+  - [What you should know](#what-you-should-know)
 - [**1. Advanced Data Visualizations**](#1-advanced-data-visualizations) (12 videos)
-  - Ridgeline plots
-  - Violin plots
-  - Heat plots
-  - Sparkline plots
-  - Rainbow plots
-  - Table plots
-  - Mosaic plots
-  - Matrix plots
-  - Ternary plots
-  - Chernoff faces
-  - Sankey plots
-  - Dumbbell plots
+  - [Ridgeline plots](#ridgeline-plots)
+  - [Violin plots](#violin-plots)
+  - [Heat plots](#heat-plots)
+  - [Sparkline plots](#sparkline-plots)
+  - [Rainbow plots](#rainbow-plots)
+  - [Table plots](#table-plots)
+  - [Mosaic plots](#mosaic-plots)
+  - [Matrix plots](#matrix-plots)
+  - [Ternary plots](#ternary-plots)
+  - [Chernoff faces](#chernoff-faces)
+  - [Sankey plots](#sankey-plots)
+  - [Dumbbell plots](#dumbbell-plots)
 - [**2. Continuing Your Data Viz Learning Journey**](#2-continuing-your-data-viz-learning-journey) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Take your data viz game to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/take-your-data-viz-game-to-the-next-level?u=76281980)
@@ -96,6 +96,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [franz] (1)
 
@@ -142,7 +143,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), finally, (1), require (1)
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1), [[Microsoft Excel|Excel]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -150,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Advanced Data Visualizations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ridgeline plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980)
@@ -233,9 +234,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Climate Change]] (1), generic (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** function (2)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the last (1)
@@ -320,8 +321,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), power (2), [[Microsoft Excel|Excel]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (4)
-> **Code Keywords:** function (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** spss (1)
 > **Analogies:** such as (1)
@@ -437,7 +438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), continue (1), default. (1), function (1)
+> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (2), [[Big Data]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** similar to (1), picture (1)
 > **CLI Commands:** python (1)
@@ -517,7 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1), this. (1), require (1)
+> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
@@ -622,7 +623,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), finally, (1), require (1)
+> **Frameworks & Libraries:** data (3), generic (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
@@ -727,8 +728,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Stata]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** self (1), case, (1)
 > **Definitions:** is an  (2)
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
@@ -821,7 +822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** data (9), [[Statistics]] (1), [[Microsoft Excel|Excel]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **CLI Commands:** python (1)
@@ -939,8 +940,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Stata]] (1), [[Python (Programming Language)|Python]] (1), express (1)
 > **Definitions:** is a  (5)
-> **Code Keywords:** function (2), case. (1), case, (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** python (1)
 > **Warnings:** note that (1)
@@ -1059,7 +1060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (2), function (2), this, (1)
+> **Frameworks & Libraries:** data (15), [[Microsoft PowerPoint|Powerpoint]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1), express (1)
 > **Definitions:** is a  (2), known as (1)
 > **Env Vars:** gdp (2)
 > **Analogies:** such as (1), for example (1)
@@ -1147,9 +1148,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), product (1), [[Microsoft Products|Products]] (1), [[Google]] (1), [[Search]] (1)
 > **Analogies:** for example (4), such as (1), similar to (1)
 > **CLI Commands:** find (1), make (1), python (1)
-> **Code Keywords:** let (1), case, (1), function (1)
 > **Env Vars:** amc (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -1270,7 +1271,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), this, (1), public (1), function (1)
+> **Frameworks & Libraries:** data (12), traffic (2), power (1), express (1), [[Security]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** make (1), python (1)
@@ -1427,7 +1428,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), let (1), class. (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), management (1), [[Stata]] (1)
 > **Analogies:** for example (3), picture (1), such as (1)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** is a  (3)
@@ -1438,7 +1439,7 @@ created: 2026-04-29
 
 ### 2. Continuing Your Data Viz Learning Journey
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980)
@@ -1481,8 +1482,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[LinkedIn]] (3), [[Stata]] (2), [[Python (Programming Language)|Python]] (2), next (1)
 > **CLI Commands:** python (2), find (1)
-> **Code Keywords:** require (1), finally, (1)
 > **URLs:** [medium.com](https://medium.com) (1)
 > **Env Vars:** spss (1)
 > **Definitions:** is a  (1)

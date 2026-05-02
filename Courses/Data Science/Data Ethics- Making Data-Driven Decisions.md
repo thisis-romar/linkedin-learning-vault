@@ -30,7 +30,7 @@ tags:
   - skill/data-driven-decision-making
   - skill/data-ethics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Ethics-%20Making%20Data-Driven%20Decisions.md)
@@ -49,34 +49,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Ethical decisionmaking
+  - [Ethical decisionmaking](#ethical-decisionmaking)
 - [**1. Thinking about ethics**](#1-thinking-about-ethics) (6 videos)
-  - Being a moral company
-  - How to approach ethics
-  - Start with ethical objectivism
-  - Think about your categorical imperatives
-  - What would a virtuous person do?
-  - The seven major data ethics challenges
+  - [Being a moral company](#being-a-moral-company)
+  - [How to approach ethics](#how-to-approach-ethics)
+  - [Start with ethical objectivism](#start-with-ethical-objectivism)
+  - [Think about your categorical imperatives](#think-about-your-categorical-imperatives)
+  - [What would a virtuous person do?](#what-would-a-virtuous-person-do)
+  - [The seven major data ethics challenges](#the-seven-major-data-ethics-challenges)
 - [**2. Decision Traceability**](#2-decision-traceability) (7 videos)
-  - The right to algorithmic traceability
-  - Data accessibility and comprehensibility
-  - Can anyone access their data?
-  - Trace your black box decisions
-  - Open the box with Explainable AI (XAI)
-  - Self-driving cars' trolley problem
-  - Decide how to crash a self-driving car
+  - [The right to algorithmic traceability](#the-right-to-algorithmic-traceability)
+  - [Data accessibility and comprehensibility](#data-accessibility-and-comprehensibility)
+  - [Can anyone access their data?](#can-anyone-access-their-data)
+  - [Trace your black box decisions](#trace-your-black-box-decisions)
+  - [Open the box with Explainable AI (XAI)](#open-the-box-with-explainable-ai-xai)
+  - [Self-driving cars' trolley problem](#self-driving-cars-trolley-problem)
+  - [Decide how to crash a self-driving car](#decide-how-to-crash-a-self-driving-car)
 - [**3. Objectivity**](#3-objectivity) (5 videos)
-  - What does data objectivity mean?
-  - Ways to think about bias
-  - How to fix data bias
-  - Can data be objective?
-  - What is fairness?
+  - [What does data objectivity mean?](#what-does-data-objectivity-mean)
+  - [Ways to think about bias](#ways-to-think-about-bias)
+  - [How to fix data bias](#how-to-fix-data-bias)
+  - [Can data be objective?](#can-data-be-objective)
+  - [What is fairness?](#what-is-fairness)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical decisionmaking
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980)
@@ -111,13 +111,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Algorithms]] (2), [[Ethics]] (1), [[Microsoft Office|Office]] (1), business (1)
 > **CLI Commands:** make (5)
 > **Speakers:** - now (1)
 
 
 ### 1. Thinking about ethics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Being a moral company
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980)
@@ -198,7 +199,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4)
+> **Frameworks & Libraries:** power (8), data (4), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
@@ -282,6 +283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Ethics]] (3), power (2), business (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
@@ -381,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1)
+> **Frameworks & Libraries:** [[Ethics]] (7), data (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
@@ -466,6 +468,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1), [[Data-driven Decision Making]] (1)
 > **Definitions:** means that (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - organizations (1)
@@ -553,7 +556,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (5), finally, (1)
+> **Frameworks & Libraries:** [[Ethics]] (7), product (1), [[Microsoft Products|Products]] (1), data (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - aristotle (1)
 
@@ -640,8 +643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), [[Ethics]] (6), [[Privacy]] (3), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** stands for (2)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - data (1)
@@ -649,7 +652,7 @@ created: 2026-04-29
 
 ### 2. Decision Traceability
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The right to algorithmic traceability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980)
@@ -730,8 +733,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (8), data (3), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** while, (1)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - computer (1)
@@ -825,7 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (6), data (3), [[Algorithms]] (2), product (1), [[Big Data]] (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - algorithmic (1)
@@ -909,6 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), product (2), [[Ethics]] (2), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (1)
@@ -985,8 +989,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Algorithms]] (4), application (1), [[Programming]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** this, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - remember (1)
 
@@ -1065,9 +1069,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Accountability]] (1), data (1), next (1)
 > **Env Vars:** xai (5), fat (1), sas (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** else. (1), let (1)
 > **Speakers:** - one (1)
 
 #### Self-driving cars' trolley problem
@@ -1161,7 +1165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3)
+> **Frameworks & Libraries:** [[Ethics]] (3), [[Google]] (3), data (2), hit (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -1248,7 +1252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (5), else, (1), let (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Ethics]] (2), hit (1), [[Programming]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - self (1)
@@ -1256,7 +1260,7 @@ created: 2026-04-29
 
 ### 3. Objectivity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What does data objectivity mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980)
@@ -1353,8 +1357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Algorithms]] (1), [[Ethics]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** potomac (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
@@ -1442,7 +1446,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1), let (1), continue (1), finally, (1)
+> **Frameworks & Libraries:** data (2), [[Ethics]] (2), [[Human Resources (HR)|Human resources]] (1), power (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - as (1)
@@ -1528,8 +1532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Ethics]] (2), hit (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** delete (1)
 > **Env Vars:** gps (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -1615,10 +1619,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[Algorithms]] (1), product (1), [[Ethics]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (2), is called (1)
 > **Env Vars:** compas (2)
-> **Code Keywords:** private (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
@@ -1710,6 +1714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Algorithms]] (6), [[Microsoft Products|Products]] (1), hr (1), [[Ethics]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** think of it as (1), for example (1)
 > **Speakers:** - when (1)
@@ -1717,7 +1722,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980)
@@ -1756,6 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Ethics]] (2), [[Data-driven Decision Making]] (1), [[Algorithms]] (1), [[Search]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - thank (1)

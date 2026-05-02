@@ -36,7 +36,7 @@ tags:
   - topic/software-development
   - skill/node-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Testing%20and%20Code%20Quality.md)
@@ -55,69 +55,69 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Cleaning your codebase
-  - What you should know
-  - Preparing for Node.js development
-  - Exercise files
-  - Demo setup and tour
+  - [Cleaning your codebase](#cleaning-your-codebase)
+  - [What you should know](#what-you-should-know)
+  - [Preparing for Node.js development](#preparing-for-nodejs-development)
+  - [Exercise files](#exercise-files)
+  - [Demo setup and tour](#demo-setup-and-tour)
 - [**1. Testing and Code Quality Fundamentals**](#1-testing-and-code-quality-fundamentals) (9 videos)
-  - What is code quality?
-  - Coding conventions and standards
-  - Creating and enforcing coding standards
-  - Unit, integration, and functional testing
-  - Testing frameworks
-  - TDD and BDD test specifications
-  - Assertions for correctness
-  - Challenge: Organize your tests
-  - Solution: Organize your tests
+  - [What is code quality?](#what-is-code-quality)
+  - [Coding conventions and standards](#coding-conventions-and-standards)
+  - [Creating and enforcing coding standards](#creating-and-enforcing-coding-standards)
+  - [Unit, integration, and functional testing](#unit-integration-and-functional-testing)
+  - [Testing frameworks](#testing-frameworks)
+  - [TDD and BDD test specifications](#tdd-and-bdd-test-specifications)
+  - [Assertions for correctness](#assertions-for-correctness)
+  - [Challenge: Organize your tests](#challenge-organize-your-tests)
+  - [Solution: Organize your tests](#solution-organize-your-tests)
 - [**2. Finding Errors with Linting**](#2-finding-errors-with-linting) (10 videos)
-  - Standardizing with EditorConfig
-  - Adding EditorConfig to a project and IDE
-  - Comparing JavaScript linters
-  - Installing ESLint
-  - Configuring ESLint
-  - Extending an ESLint shareable config
-  - Linting your codebase
-  - Fixing code in VSC with ESLint
-  - Challenge: Create a shareable ESLint config
-  - Solution: Create a shareable ESLint config
+  - [Standardizing with EditorConfig](#standardizing-with-editorconfig)
+  - [Adding EditorConfig to a project and IDE](#adding-editorconfig-to-a-project-and-ide)
+  - [Comparing JavaScript linters](#comparing-javascript-linters)
+  - [Installing ESLint](#installing-eslint)
+  - [Configuring ESLint](#configuring-eslint)
+  - [Extending an ESLint shareable config](#extending-an-eslint-shareable-config)
+  - [Linting your codebase](#linting-your-codebase)
+  - [Fixing code in VSC with ESLint](#fixing-code-in-vsc-with-eslint)
+  - [Challenge: Create a shareable ESLint config](#challenge-create-a-shareable-eslint-config)
+  - [Solution: Create a shareable ESLint config](#solution-create-a-shareable-eslint-config)
 - [**3. Validate Correctness with Unit Testing**](#3-validate-correctness-with-unit-testing) (10 videos)
-  - Survey of Node.js testing frameworks
-  - Install Jest in a Node.js project
-  - What and where to unit test?
-  - Writing your first Jest unit test
-  - Running a test suite with Jest
-  - Testing asynchronous callbacks with Jest
-  - Writing callback test suites with Jest
-  - Testing promises with Jest
-  - Challenge: Test async/await with Jest
-  - Solution: Test async/await with Jest
+  - [Survey of Node.js testing frameworks](#survey-of-nodejs-testing-frameworks)
+  - [Install Jest in a Node.js project](#install-jest-in-a-nodejs-project)
+  - [What and where to unit test?](#what-and-where-to-unit-test)
+  - [Writing your first Jest unit test](#writing-your-first-jest-unit-test)
+  - [Running a test suite with Jest](#running-a-test-suite-with-jest)
+  - [Testing asynchronous callbacks with Jest](#testing-asynchronous-callbacks-with-jest)
+  - [Writing callback test suites with Jest](#writing-callback-test-suites-with-jest)
+  - [Testing promises with Jest](#testing-promises-with-jest)
+  - [Challenge: Test async/await with Jest](#challenge-test-asyncawait-with-jest)
+  - [Solution: Test async/await with Jest](#solution-test-asyncawait-with-jest)
 - [**4. Replacing and Inspecting Using Spies, Stubs, and Mocks**](#4-replacing-and-inspecting-using-spies-stubs-and-mocks) (8 videos)
-  - Replacing code with test doubles
-  - Mocking functions for test code
-  - Writing your first Jest mock
-  - Mock an entire module with Jest
-  - Mocking module dependencies
-  - Spying to observe interactions
-  - Challenge: Mock a successful reservation creation
-  - Solution: Mock a successful reservation creation
+  - [Replacing code with test doubles](#replacing-code-with-test-doubles)
+  - [Mocking functions for test code](#mocking-functions-for-test-code)
+  - [Writing your first Jest mock](#writing-your-first-jest-mock)
+  - [Mock an entire module with Jest](#mock-an-entire-module-with-jest)
+  - [Mocking module dependencies](#mocking-module-dependencies)
+  - [Spying to observe interactions](#spying-to-observe-interactions)
+  - [Challenge: Mock a successful reservation creation](#challenge-mock-a-successful-reservation-creation)
+  - [Solution: Mock a successful reservation creation](#solution-mock-a-successful-reservation-creation)
 - [**5. Reporting on Your Entire Codebase**](#5-reporting-on-your-entire-codebase) (9 videos)
-  - Why code coverage matters
-  - Measuring code coverage with Jest
-  - Functional testing with Jest
-  - Test doubles and Express apps
-  - Form submissions with SuperTest
-  - Fallacies of 100% test coverage
-  - Coverage with continuous integration
-  - Challenge: Isolate routes for faster tests
-  - Solution: Isolate routes for faster tests
+  - [Why code coverage matters](#why-code-coverage-matters)
+  - [Measuring code coverage with Jest](#measuring-code-coverage-with-jest)
+  - [Functional testing with Jest](#functional-testing-with-jest)
+  - [Test doubles and Express apps](#test-doubles-and-express-apps)
+  - [Form submissions with SuperTest](#form-submissions-with-supertest)
+  - [Fallacies of 100% test coverage](#fallacies-of-100-test-coverage)
+  - [Coverage with continuous integration](#coverage-with-continuous-integration)
+  - [Challenge: Isolate routes for faster tests](#challenge-isolate-routes-for-faster-tests)
+  - [Solution: Isolate routes for faster tests](#solution-isolate-routes-for-faster-tests)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Testing and code quality goals
-  - Where to go from here?
+  - [Testing and code quality goals](#testing-and-code-quality-goals)
+  - [Where to go from here?](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cleaning your codebase
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980)
@@ -144,7 +144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** application (1), [[Unit Testing]] (1), web (1), [[Node.js]] (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [john] (1)
@@ -194,9 +194,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Node.js]] (9), [[ECMAScript]] (2), application (2), [[Express.js]] (2), database (2)
 > **File Paths:** node.js (9), express.js (2)
 > **CLI Commands:** node (9)
-> **Code Keywords:** finally, (1), self (1), interface (1)
 > **Env Vars:** es6 (2), sql (1)
 > **Versions:** version 14 (1)
 > **Definitions:** is a  (1)
@@ -256,10 +256,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (3), [[npm]] (2), cross-platform (1), feature (1), web (1)
 > **Tools:** terminal (5), visual studio (3), vs code (3)
 > **CLI Commands:** node (3), npm (2), make (1)
 > **UI Navigation:** toggle (3), open the (1)
-> **Code Keywords:** let (3)
 > **Env Vars:** npm (2), ide (1)
 > **Versions:** 14.16.0 (1), 6.14.11 (1)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
@@ -304,9 +304,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), next (1)
 > **Exercise Files:** exercise files (3), exercise file (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
@@ -439,7 +439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (2), type, (2), public (1), self (1)
+> **Frameworks & Libraries:** application (7), [[npm]] (4), express (2), database (2), css (1)
 > **Env Vars:** npm (4), http (1), css (1), npx (1), knex (1)
 > **CLI Commands:** npm (4), apt (1), npx (1)
 > **UI Navigation:** navigate to (3), select the (1), click on (1), toggle (1)
@@ -451,7 +451,7 @@ created: 2026-04-29
 
 ### 1. Testing and Code Quality Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is code quality?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-is-code-quality?u=76281980)
@@ -632,7 +632,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (3), case, (1), abstract (1), function (1)
+> **Frameworks & Libraries:** functional (5), next (2), product (2), [[Unit Testing]] (1), [[Programming]] (1)
 > **Analogies:** for example (3), picture (2), imagine (1)
 > **CLI Commands:** make (4)
 > **Exercise Files:** source code (1)
@@ -805,9 +805,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), functional (3), management (1), next (1), [[Security]] (1)
 > **Definitions:** is a  (9), known as (1)
 > **Analogies:** such as (4), for example (3), similar to (1)
-> **Code Keywords:** let (2), case. (2), throw (1)
 > **Documentation:** the docs (3), specification (1), the documentation (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -997,7 +997,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (5), let (2), this. (1), static (1), pass (1)
+> **Frameworks & Libraries:** [[Programming]] (4), next (2), [[Decision-Making]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** such as (2), for example (1)
@@ -1246,7 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (4), interface (4), function (2), assert (2)
+> **Frameworks & Libraries:** functional (12), application (10), [[Integration Testing]] (7), [[Unit Testing]] (6), api (6)
 > **CLI Commands:** node (5), cat (2), make (2), find (1)
 > **Env Vars:** api (6)
 > **Analogies:** such as (3), for example (1), similar to (1)
@@ -1392,7 +1392,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), module (1), function (1)
+> **Frameworks & Libraries:** application (5), [[Test Automation]] (3), [[Automation]] (2), data (2), functional (1)
 > **Prerequisites:** setup (5)
 > **URLs:** [mochajs.org](https://mochajs.org) (1), [github.io](https://github.io) (1), [jestjs.io](https://jestjs.io) (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
@@ -1496,9 +1496,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (6), [[Software Development]] (1)
 > **Env Vars:** bdd (6), tdd (3), dsl (2)
 > **Documentation:** specification (3), spec (3)
-> **Code Keywords:** include, (1), pass (1), this, (1), interface (1), let (1)
 > **Definitions:** known as (3), is a  (1)
 > **Prerequisites:** setup (3)
 > **Code Identifiers:** beforeeach (1), aftereach (1)
@@ -1607,7 +1607,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (2), assert (2), module (2), case, (1), match. (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), api (2), application (2), [[Microsoft Word|Word]] (1), [[GitHub]] (1)
 > **Definitions:** is a  (5)
 > **File Paths:** node.js (2), should.js (1)
 > **CLI Commands:** node (2), cat (1)
@@ -1643,9 +1643,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (1), next (1)
 > **File Paths:** file.test.js (1), target-loadtest.js (1)
 > **Env Vars:** file (1), target (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1694,7 +1694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (1), finally, (1)
+> **Frameworks & Libraries:** application (3), functional (2), api (1), database (1)
 > **File Paths:** file.test.js (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -1704,7 +1704,7 @@ created: 2026-04-29
 
 ### 2. Finding Errors with Linting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Standardizing with EditorConfig
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980)
@@ -1879,8 +1879,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2), next (2), node (1), [[Programming]] (1), cross-platform (1)
 > **Definitions:** is a  (10), is an  (1)
-> **Code Keywords:** finally, (2), private (1), public (1), interface (1), module (1)
 > **CLI Commands:** find (2), node (1)
 > **Env Vars:** ini (1), crlf (1), dos (1)
 > **Tools:** vs code (3)
@@ -1991,8 +1991,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **UI Navigation:** go to (8), in the tab (3), click on (2), navigate to (2), right-click (2)
-> **Code Keywords:** let (3), require (1), switch (1), from. (1), delete (1)
 > **Tools:** vs code (3)
 > **Prerequisites:** install (2), set up (1)
 > **File Paths:** me.md (2)
@@ -2103,10 +2103,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (20), [[JavaScript]] (6), [[Node.js]] (2), node (1), power (1)
 > **CLI Commands:** node (3), make (2), find (1)
 > **URLs:** [jslint.com](https://jslint.com) (1), [jshint.com](https://jshint.com) (1), [eslint.org](https://eslint.org) (1), [prettier.io](https://prettier.io) (1)
 > **File Paths:** node.js (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** es6 (1), mit (1)
 > **Analogies:** similar to (2)
 > **Code Identifiers:** jquery (1)
@@ -2205,8 +2205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (22), [[npm]] (3), application (2), [[Package Management]] (1), management (1)
 > **CLI Commands:** npx (4), npm (3), node (1), find (1)
-> **Code Keywords:** let (4), switch (2), finally, (1), interface (1)
 > **Tools:** terminal (3), command line (1), vs code (1)
 > **Prerequisites:** install (5)
 > **Code Identifiers:** devdependencies (2)
@@ -2361,7 +2361,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (3), var (2), const (2), type, (1)
+> **Frameworks & Libraries:** [[ESLint]] (15), [[JavaScript]] (5), [[JSON]] (5), node (3), application (2)
 > **Env Vars:** env (3), json (2), var (2), yaml (1), es6 (1)
 > **File Paths:** package.json (3), eslintrc.js (3), mteslintrc.js (1), app.js (1)
 > **UI Navigation:** go to (4), open the (2), navigate to (1)
@@ -2485,7 +2485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (7), let (6), private (3), finally, (2), delete (1)
+> **Frameworks & Libraries:** [[ESLint]] (11), [[GitHub]] (4), [[npm]] (3), [[JavaScript]] (3), [[Git]] (3)
 > **CLI Commands:** npm (3), git (3), ssh (2)
 > **Tools:** github (4), visual studio (1), terminal (1)
 > **File Paths:** eslintrc.js (2), app.js (2), package.json (1)
@@ -2633,7 +2633,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), let (4), switch (3), finally, (2), override (1)
+> **Frameworks & Libraries:** [[ESLint]] (7), [[Node.js]] (3), node (2), application (1), next (1)
 > **CLI Commands:** node (5), npx (3), make (1), git (1)
 > **Env Vars:** npx (3), env (2), ies (2), esgr (1)
 > **Tools:** vs code (4), terminal (4)
@@ -2783,7 +2783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), var (2), delete (2), switch (1), case, (1)
+> **Frameworks & Libraries:** [[ESLint]] (18), feature (2), next (2), [[JavaScript]] (2), [[Search]] (1)
 > **UI Navigation:** click on (3), in the sidebar (1), go to (1), navigate to (1)
 > **Tools:** vs code (3), visual studio (1), command line (1)
 > **File Paths:** app.js (3), readme.md (1)
@@ -2819,8 +2819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (3), [[JavaScript]] (1), next (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** module (2)
 > **URLs:** [eslint.org](https://eslint.org) (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
@@ -2945,7 +2945,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), module (4), finally, (3), switch (1), extends (1)
+> **Frameworks & Libraries:** [[ESLint]] (21), [[npm]] (5), [[JSON]] (2)
 > **Env Vars:** npm (5), json (2), mpx (1)
 > **UI Navigation:** open the (3), go to (2), navigate to (1), click on (1), right-click (1)
 > **CLI Commands:** npm (5), make (2)
@@ -2957,7 +2957,7 @@ created: 2026-04-29
 
 ### 3. Validate Correctness with Unit Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Survey of Node.js testing frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980)
@@ -3060,7 +3060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (3), require (2), include, (1), async (1)
+> **Frameworks & Libraries:** application (4), [[Unit Testing]] (2), [[Node.js]] (2), [[GitHub]] (2), [[React.js|React]] (2)
 > **Env Vars:** ava (7)
 > **URLs:** [avajs.dev](https://avajs.dev) (1), [github.io](https://github.io) (1), [jestjs.io](https://jestjs.io) (1), [mochajs.org](https://mochajs.org) (1), [github.com](https://github.com) (1)
 > **Prerequisites:** install (2), setup (2), set up (1)
@@ -3134,8 +3134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (4), [[JSON]] (3), [[ESLint]] (2)
 > **CLI Commands:** npm (4), make (1), find (1)
-> **Code Keywords:** let (3), finally, (1), switch (1)
 > **Env Vars:** npm (4), env (1)
 > **File Paths:** package.json (3), eslintrc.js (1)
 > **Tools:** terminal (2), vs code (1)
@@ -3258,7 +3258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), let (3), interface (1), static (1), function (1)
+> **Frameworks & Libraries:** application (4), express (1), database (1)
 > **File Paths:** app.js (1), bin/wwww.js (1), libschemareservation.test.js (1)
 > **Analogies:** for example (3)
 > **Env Vars:** http (1), iso (1)
@@ -3382,7 +3382,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** const (7), function (6), let (4), switch (1), require (1)
 > **Env Vars:** iso (1), utc (1)
 > **File Paths:** reservation.test.js (1)
 > **Tools:** vs code (1)
@@ -3528,7 +3527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), switch (3), pass (3), finally, (1)
+> **Frameworks & Libraries:** [[npm]] (6), [[React.js|React]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Env Vars:** npm (6), npx (3), mpm (2), iso (1)
 > **CLI Commands:** npm (6), npx (3), make (1)
 > **Tools:** terminal (4), vs code (1), command line (1)
@@ -3666,7 +3665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), switch (3), async (2), await (2), let (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Tools:** terminal (4), vs code (1)
 > **UI Navigation:** switch to (2), navigate to (1), go to (1), scroll up (1)
 > **Code Identifiers:** totest (3)
@@ -3812,7 +3811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (2), function (2), pass (2), try. (2)
+> **Frameworks & Libraries:** [[npm]] (2), application (1), [[Programming]] (1), [[Windows]] (1)
 > **Tools:** terminal (4), vs code (1)
 > **UI Navigation:** switch to (1), go to (1), navigate to (1), scroll down (1)
 > **File Paths:** reservation.js (2), reservation.test.js (1)
@@ -3974,7 +3973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), const (3), require (3), catch. (1)
+> **Frameworks & Libraries:** [[npm]] (4), database (2), [[Unit Testing]] (2), feature (1), next (1)
 > **CLI Commands:** npm (4), make (1), node (1)
 > **File Paths:** promises.test.js (1), reservations.js (1), reservations.test.js (1), readme.md (1), node.js (1)
 > **Tools:** vs code (2), terminal (2)
@@ -4004,7 +4003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (3), await (3)
+> **Frameworks & Libraries:** next (1)
 > **File Paths:** lib/reservations.test.js (1)
 > **URLs:** [jest.io](https://jest.io) (1)
 > **Cross-References:** in the next (1)
@@ -4071,7 +4070,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** async (4), await (4), function (3), pass (2), switch (1)
+> **Frameworks & Libraries:** next (1), [[npm]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3), npm (1)
 > **Tools:** terminal (2), vs code (1)
 > **File Paths:** reservations.test.js (1), solutions/03_10/reservations.test.js (1)
@@ -4083,7 +4082,7 @@ created: 2026-04-29
 
 ### 4. Replacing and Inspecting Using Spies, Stubs, and Mocks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Replacing code with test doubles
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/replacing-code-with-test-doubles?u=76281980)
@@ -4216,7 +4215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), require (1), module (1), finally, (1)
+> **Frameworks & Libraries:** database (4), [[Unit Testing]] (2), api (2), power (1)
 > **Definitions:** is a  (4), known as (1), is called (1)
 > **Analogies:** for example (5), such as (1)
 > **URLs:** [xunitpatterns.com](https://xunitpatterns.com) (1), [martinfowler.com](https://martinfowler.com) (1)
@@ -4382,7 +4381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (23), fn (9), let (5), finally, (4), module (4)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** invocationcallorder (5), tohavebeencalledtimes (2), spyon (1), tobeundefined (1), tohavebeencalled (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **Analogies:** similar to (2)
@@ -4508,7 +4507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (6), module (3), fn (2), const (2)
+> **Frameworks & Libraries:** application (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** reservations.js (2), reservations.test.js (1)
 > **Tools:** vs code (1), terminal (1)
 > **UI Navigation:** navigate to (1), scroll down (1)
@@ -4637,7 +4636,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (18), function (12), require (10), let (6), this. (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), database (2), application (1), [[Unit Testing]] (1), [[Integration Testing]] (1)
 > **Code Identifiers:** beforeall (4), afterall (3), beforeeach (1), aftereach (1)
 > **Env Vars:** mpm (3)
 > **Tools:** terminal (2), vs code (1)
@@ -4773,7 +4772,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), module (8), const (6), require (5), let (3)
+> **Frameworks & Libraries:** database (1), [[Fetch]] (1)
 > **File Paths:** reservations.js (2), reservations.test.js (1)
 > **Tools:** terminal (2), vs code (1)
 > **Definitions:** is a  (2)
@@ -4915,7 +4914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (7), const (5), async (3), finally, (3)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Code Identifiers:** spyon (6), mockrestore (2), tothrow (1), tobecalledwith (1), mockimplementation (1)
 > **Tools:** terminal (2), vs code (1)
 > **UI Navigation:** switch to (2), scroll down (1)
@@ -4945,6 +4944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), next (1)
 > **File Paths:** lib/reservations.test.js (1), reservations.test.js (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
@@ -5060,7 +5060,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), require (4), const (4), function (3), finally, (2)
+> **Frameworks & Libraries:** next (1), data (1), [[npm]] (1)
 > **Code Identifiers:** mockinsert (2), mockresolvedvalue (1), spyon (1), mockimplementation (1), tostrictequal (1)
 > **File Paths:** reservations.test.js (1), reservations.js (1), solutions/04_08/reservations.test.js (1)
 > **Tools:** terminal (2), vs code (1)
@@ -5072,7 +5072,7 @@ created: 2026-04-29
 
 ### 5. Reporting on Your Entire Codebase
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why code coverage matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980)
@@ -5217,8 +5217,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), functional (1), [[Security]] (1), [[HTML]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (8), known as (1)
-> **Code Keywords:** finally, (3), raise (1), let (1), type. (1), case, (1)
 > **Analogies:** for example (3), picture (1), such as (1)
 > **Env Vars:** html (1)
 > **Speakers:** - knowing (1)
@@ -5352,7 +5352,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (3), interface (1), default. (1), pass (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Linux]] (1), api (1), product (1), [[Atlassian]] (1)
 > **Env Vars:** html (4), lcov (3), nyc (1), ava (1), api (1)
 > **UI Navigation:** click on (4), scroll up (1), scroll down (1), go to (1), open the (1)
 > **Tools:** terminal (3), command line (1), vs code (1), visual studio (1)
@@ -5458,7 +5458,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), finally, (3), require (2), let (2), function (1)
+> **Frameworks & Libraries:** functional (7), application (6), [[Selenium]] (3), express (3), [[Node.js]] (2)
 > **Env Vars:** http (4), w3c (1), npm (1)
 > **URLs:** [selenium.dev](https://selenium.dev) (1), [nightwatchjs.org](https://nightwatchjs.org) (1), [webdriver.io](https://webdriver.io) (1), [github.io](https://github.io) (1)
 > **Tools:** terminal (2), github (1), vs code (1)
@@ -5584,7 +5584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), const (3), require (2), this. (1)
+> **Frameworks & Libraries:** express (4), application (3), functional (2), next (2), [[HTML]] (1)
 > **Env Vars:** http (4), html (1)
 > **Tools:** terminal (3), vs code (1)
 > **Prerequisites:** set up (2), setup (2)
@@ -5692,7 +5692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), switch (3), const (3), async (2)
+> **Frameworks & Libraries:** next (2), [[npm]] (2), [[JSON]] (1), generic (1), database (1)
 > **Code Identifiers:** mockinsert (3), tocontain (2), tobe (1), mockmorgan (1), mockresolvedvalue (1)
 > **CLI Commands:** make (3), npm (2)
 > **Tools:** terminal (3), vs code (1)
@@ -5816,8 +5816,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[npm]] (3), [[Code Review]] (1)
 > **UI Navigation:** go to (5), right-click (5), navigate to (2), scroll down (2), click on (1)
-> **Code Keywords:** let (2), finally, (1), switch (1), catch. (1)
 > **CLI Commands:** npm (3), find (1)
 > **File Paths:** app.test.js (1), reservations.test.js (1), lib/schema/reservation.js (1)
 > **Tools:** terminal (3)
@@ -5928,12 +5928,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (9), [[Jenkins]] (4), ci (3), functional (2), [[Java]] (2)
 > **URLs:** [jenkins.io](https://jenkins.io) (1), [builtbolt.net](https://builtbolt.net) (1), [spinnaker.io](https://spinnaker.io) (1), [github.com](https://github.com) (1), [gitlab.com](https://gitlab.com) (1)
 > **Tools:** github (2), gitlab (2), bitbucket (2)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** cd (2), python (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Warnings:** warning (1), keep in mind (1)
 > **Prerequisites:** configure (1)
 
@@ -5958,6 +5958,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), functional (1), [[Unit Testing]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -6193,7 +6194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), require (8), const (3), module (2), function (2)
+> **Frameworks & Libraries:** express (7), functional (4), next (4), application (4), [[npm]] (2)
 > **File Paths:** index.js (5), app.js (4), homepage.js (3), homepage.test.js (2), index.test.js (1)
 > **UI Navigation:** click on (4), go to (2), scroll up (2), scroll down (1), navigate to (1)
 > **CLI Commands:** npm (2), make (1)
@@ -6205,7 +6206,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing and code quality goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-and-code-quality-goals?u=76281980)
@@ -6316,7 +6317,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (3), try. (2), let (1), function (1), this, (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** readme (1)
 > **Definitions:** is a  (1)
@@ -6402,7 +6402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** include. (1), try. (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (1), functional (1), [[Selenium]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **URLs:** [codacy.com](https://codacy.com) (1), [codecov.io](https://codecov.io) (1), [codeclimate.com](https://codeclimate.com) (1), [coveralls.io](https://coveralls.io) (1)
 > **File Paths:** nightwatch.js (1)
 > **CLI Commands:** make (1)

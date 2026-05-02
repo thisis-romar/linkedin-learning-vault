@@ -33,7 +33,7 @@ tags:
   - skill/javascript
   - skill/vanilla
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20App%20Building%20With%20Vanilla%20Javascript.md)
@@ -52,47 +52,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Welcome
-  - What you should know
-  - Exercise files
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
+  - [Exercise files](#exercise-files)
 - [**1. Overview of Vanilla JS**](#1-overview-of-vanilla-js) (2 videos)
-  - Libraries, frameworks, and vanilla JavaScript
-  - Identify when to replace frameworks and libraries
+  - [Libraries, frameworks, and vanilla JavaScript](#libraries-frameworks-and-vanilla-javascript)
+  - [Identify when to replace frameworks and libraries](#identify-when-to-replace-frameworks-and-libraries)
 - [**2. Project Overview**](#2-project-overview) (1 videos)
-  - Application architecture
+  - [Application architecture](#application-architecture)
 - [**3. Environment Setup**](#3-environment-setup) (2 videos)
-  - Environment setup
-  - Getting your API key
+  - [Environment setup](#environment-setup)
+  - [Getting your API key](#getting-your-api-key)
 - [**4. Replace Ajax**](#4-replace-ajax) (2 videos)
-  - Fetch API
-  - Create an Ajax request with Fetch
+  - [Fetch API](#fetch-api)
+  - [Create an Ajax request with Fetch](#create-an-ajax-request-with-fetch)
 - [**5. Select and Modify DOM Elements**](#5-select-and-modify-dom-elements) (3 videos)
-  - Element selection with vanilla JavaScript
-  - Select and modify elements with querySelector
-  - Select and modify elements with querySelectorAll
+  - [Element selection with vanilla JavaScript](#element-selection-with-vanilla-javascript)
+  - [Select and modify elements with querySelector](#select-and-modify-elements-with-queryselector)
+  - [Select and modify elements with querySelectorAll](#select-and-modify-elements-with-queryselectorall)
 - [**6. Replace Event Listeners**](#6-replace-event-listeners) (3 videos)
-  - JavaScript events
-  - Add event listeners with vanilla JavaScript
-  - Work with the event object
+  - [JavaScript events](#javascript-events)
+  - [Add event listeners with vanilla JavaScript](#add-event-listeners-with-vanilla-javascript)
+  - [Work with the event object](#work-with-the-event-object)
 - [**7. Implement Data Binding**](#7-implement-data-binding) (5 videos)
-  - Data binding
-  - Create elements with vanilla JavaScript
-  - Add and modify properties with vanilla JavaScript
-  - Append elements with vanilla JavaScript
-  - Template literals to build DOM content
+  - [Data binding](#data-binding)
+  - [Create elements with vanilla JavaScript](#create-elements-with-vanilla-javascript)
+  - [Add and modify properties with vanilla JavaScript](#add-and-modify-properties-with-vanilla-javascript)
+  - [Append elements with vanilla JavaScript](#append-elements-with-vanilla-javascript)
+  - [Template literals to build DOM content](#template-literals-to-build-dom-content)
 - [**8. Replace Simple Animations**](#8-replace-simple-animations) (3 videos)
-  - Animation with vanilla JavaScript
-  - Show and hide elements using vanilla JavaScript
-  - Transition element appearance using CSS
+  - [Animation with vanilla JavaScript](#animation-with-vanilla-javascript)
+  - [Show and hide elements using vanilla JavaScript](#show-and-hide-elements-using-vanilla-javascript)
+  - [Transition element appearance using CSS](#transition-element-appearance-using-css)
 - [**9. Ensure Backward Compatibility**](#9-ensure-backward-compatibility) (2 videos)
-  - Backward compatibility for vanilla JavaScript
-  - Transpile vanilla JavaScript
+  - [Backward compatibility for vanilla JavaScript](#backward-compatibility-for-vanilla-javascript)
+  - [Transpile vanilla JavaScript](#transpile-vanilla-javascript)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Vanilla]] (4), web (2), data (1), [[Fetch]] (1)
 > **Env Vars:** api (1), dom (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - building (1)
 
 #### What you should know
@@ -146,6 +146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), css (3), [[HTML]] (2), [[React.js|React]] (2), dom (1)
 > **Env Vars:** css (3), html (2), dom (1)
 > **Code Identifiers:** jquery (3)
 > **File Paths:** react.js (1)
@@ -178,14 +179,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1)
 > **Exercise Files:** exercise files (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Overview of Vanilla JS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Libraries, frameworks, and vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980)
@@ -250,8 +251,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (10), [[Vanilla]] (7), web application (1), node (1), [[React.js|React]] (1)
 > **CLI Commands:** make (3), find (2), node (1)
-> **Code Keywords:** require (2)
 > **Code Identifiers:** jquery (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
@@ -319,7 +320,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), case, (1), finally, (1), let (1), require (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[React.js|React]] (7), [[Vanilla]] (4), [[AJAX]] (1), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for instance (3)
 > **File Paths:** babel.js (2)
@@ -331,7 +332,7 @@ created: 2026-04-29
 
 ### 2. Project Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Application architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980)
@@ -384,7 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), default. (1)
+> **Frameworks & Libraries:** data (6), [[AJAX]] (4), [[React.js|React]] (2), next (2), [[Vanilla]] (1)
 > **Env Vars:** ajax (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Code Identifiers:** jquery (1)
@@ -393,7 +394,7 @@ created: 2026-04-29
 
 ### 3. Environment Setup
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Environment setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980)
@@ -450,12 +451,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), node (3), [[JavaScript]] (2), [[Microsoft]] (2), [[npm]] (2)
 > **Tools:** visual studio (4), safari (2), command line (2), firefox (1), sublime (1)
 > **CLI Commands:** node (3), npm (2), sudo (2)
 > **Prerequisites:** install (5), you'll need (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** npm (1), gui (1)
-> **Code Keywords:** require (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Analogies:** such as (1)
 
@@ -516,9 +517,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), data (6), [[AJAX]] (2), hit (2), [[Privacy]] (1)
 > **Env Vars:** api (11)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (5)
-> **Code Keywords:** require (2), let (1), continue (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), in the menu (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -528,7 +529,7 @@ created: 2026-04-29
 
 ### 4. Replace Ajax
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Fetch API
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980)
@@ -565,8 +566,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (5), [[AJAX]] (4), api (2), feature (1), [[Vanilla]] (1)
 > **Env Vars:** ajax (4), xhr (3), api (2), url (2)
-> **Code Keywords:** let (1), pass (1)
 > **Code Identifiers:** jquery (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -663,8 +664,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (14), [[AJAX]] (5), [[JSON]] (4), [[Vanilla]] (3), [[JavaScript]] (3)
 > **Code Identifiers:** apikey (10), jquery (5), updateuisuccess (1), updateuifailure (1)
-> **Code Keywords:** function (5), pass (2), finally, (1), return( (1), catch. (1)
 > **CLI Commands:** make (3), cd (2), npm (1)
 > **File Paths:** response.json (3), script.js (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
@@ -675,7 +676,7 @@ created: 2026-04-29
 
 ### 5. Select and Modify DOM Elements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Element selection with vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/element-selection-with-vanilla-javascript?u=76281980)
@@ -730,6 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vanilla]] (7), [[JavaScript]] (7), css (2), web (1), next (1)
 > **Code Identifiers:** jquery (9), queryselector (7), queryselectorall (3)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
@@ -838,8 +840,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vanilla]] (7), [[JavaScript]] (7), [[React.js|React]] (2), dom (1)
 > **Code Identifiers:** jquery (16), queryselector (4), apikey (1)
-> **Code Keywords:** const (2), case, (1), module (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), for instance (1)
 > **File Paths:** script.js (1)
@@ -912,8 +914,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vanilla]] (4), [[JavaScript]] (4), [[HTML]] (1), api (1)
 > **Code Identifiers:** jquery (4), queryselectorall (3), foreach (2), removeclass (1), classlist (1)
-> **Code Keywords:** pass (2), function (1)
 > **Env Vars:** html (1), api (1), http (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
@@ -923,7 +925,7 @@ created: 2026-04-29
 
 ### 6. Replace Event Listeners
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript events
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980)
@@ -1016,7 +1018,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), require (1), default. (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Vanilla]] (5), [[HTML]] (2), web (1), css (1)
 > **Code Identifiers:** jquery (4)
 > **UI Navigation:** select the (3), click on (1)
 > **Analogies:** for instance (2), just like (1), such as (1)
@@ -1082,7 +1084,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), pass (2), for. (1), case, (1)
+> **Frameworks & Libraries:** [[Vanilla]] (3), [[JavaScript]] (3), api (1), [[AJAX]] (1)
 > **Env Vars:** api (1), http (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
@@ -1163,16 +1165,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Vanilla]] (3), [[JavaScript]] (3), dom (1), data (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** jquery (3)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1), this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - our (1)
 
 
 ### 7. Implement Data Binding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data binding
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980)
@@ -1245,10 +1247,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (13), data (7), [[JavaScript]] (5), [[React.js|React]] (4), web (4)
 > **Env Vars:** dom (13), api (2)
 > **CLI Commands:** make (3), node (3)
 > **Code Identifiers:** createelement (1), setattribute (1), textcontent (1), appendchild (1)
-> **Code Keywords:** interface (1), function (1)
 > **Definitions:** is a  (1), known as (1)
 > **Best Practices:** best practice (2)
 > **Analogies:** for instance (1)
@@ -1353,8 +1355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (10), dom (3), [[AJAX]] (1), data (1), [[Vanilla]] (1)
 > **Code Identifiers:** createelement (8), foreach (4), activitiescontainer (2), listitem (2), updateactivitylist (1)
-> **Code Keywords:** let (7), function (5), switch (1), finally, (1), pass (1)
 > **Env Vars:** dom (3), jsx (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1455,9 +1457,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[React.js|React]] (4), [[HTML]] (4), dom (2), next (2)
 > **Code Identifiers:** textcontent (14), setattribute (5), citypara (3), listitem (3), innerhtml (2)
 > **Env Vars:** html (4), dom (2), jsx (2), ajax (2), api (1)
-> **Code Keywords:** function (4), let (3), class, (1), case. (1), pass (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1577,9 +1579,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dom (9), [[React.js|React]] (4), [[Vanilla]] (2), [[JavaScript]] (2), next (1)
 > **Code Identifiers:** appendchild (9), queryselector (4), replacechild (4), conditionspara (3), activitiescontainer (3)
 > **Env Vars:** dom (9)
-> **Code Keywords:** pass (2), if, (2), function (2), for . (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
@@ -1651,17 +1653,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[React.js|React]] (2), [[HTML]] (2), [[Vanilla]] (1), feature (1)
 > **Exercise Files:** template (8)
 > **Code Identifiers:** conditionspara (2), u00b0 (2), textcontent (1), degcint (1), degfint (1)
 > **Env Vars:** jsx (3), html (2)
-> **Code Keywords:** let (2), pass (2)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 8. Replace Simple Animations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Animation with vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980)
@@ -1696,10 +1698,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), [[Vanilla]] (3), [[JavaScript]] (3), dom (2), feature (1)
 > **Env Vars:** css (6), dom (2), html (1)
 > **Code Identifiers:** jquery (3), setinterval (1), settimeout (1), requestanimationframe (1)
 > **Definitions:** is a  (2), means that (2)
-> **Code Keywords:** for. (1)
 > **Analogies:** such as (1)
 > **Speakers:** - after (1)
 
@@ -1758,9 +1760,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), css (3), dom (3), [[AJAX]] (1), [[Vanilla]] (1)
 > **Code Identifiers:** jquery (6), slidedown (1), queryselector (1)
 > **Env Vars:** dom (3), css (2)
-> **Code Keywords:** class. (1), default, (1), switch (1), for . (1)
 > **File Paths:** style.css (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1810,8 +1812,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[Vanilla]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (5)
-> **Code Keywords:** function (2), this, (1)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1), just like (1)
@@ -1822,7 +1824,7 @@ created: 2026-04-29
 
 ### 9. Ensure Backward Compatibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Backward compatibility for vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980)
@@ -1867,6 +1869,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (8), web (1), [[Hardware]] (1), [[Vanilla]] (1), [[React.js|React]] (1)
 > **Env Vars:** es5 (3), es6 (2), es7 (1), es8 (1)
 > **Definitions:** known as (3), is a  (2)
 > **Code Identifiers:** jquery (1)
@@ -1874,7 +1877,6 @@ created: 2026-04-29
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 > **Best Practices:** best practice (1)
-> **Speakers:** - in (1)
 
 #### Transpile vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980)
@@ -1981,8 +1983,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (11), [[React.js|React]] (6), [[Fetch]] (5), [[Vanilla]] (3), [[HTML]] (2)
 > **File Paths:** script.js (4), input.js (4), output.js (3), script-transpiled.js (2), fetch.js (2)
-> **Code Keywords:** switch (2), let (2), this, (1), const (1), var (1)
 > **UI Navigation:** scroll down (2), go to (1), open the (1), select the (1), switch to (1)
 > **Env Vars:** repl (2), jsx (1), html (1), api (1)
 > **Code Identifiers:** jquery (4)
@@ -1993,7 +1995,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980)
@@ -2018,6 +2020,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Vanilla]] (3), [[AJAX]] (2), web (1), [[ECMAScript]] (1)
 > **Speakers:** - thanks (1)
 
 

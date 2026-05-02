@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/product-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Ideation-%20Principles%20and%20Practical%20Applications.md)
@@ -55,40 +55,40 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction
+  - [Introduction](#introduction)
 - [**1. The Challenges of AI**](#1-the-challenges-of-ai) (9 videos)
-  - AI mistakes to avoid
-  - Options for getting AI into your company
-  - AI wishing well
-  - Overview of AI implementation process
-  - Strategies for finding AI ideas
-  - "I know what I want!" – The problem-solution process
-  - AI idea collection
-  - Key concepts: persona, integration
-  - Key concepts: Data
+  - [AI mistakes to avoid](#ai-mistakes-to-avoid)
+  - [Options for getting AI into your company](#options-for-getting-ai-into-your-company)
+  - [AI wishing well](#ai-wishing-well)
+  - [Overview of AI implementation process](#overview-of-ai-implementation-process)
+  - [Strategies for finding AI ideas](#strategies-for-finding-ai-ideas)
+  - ["I know what I want!" – The problem-solution process](#i-know-what-i-want-the-problem-solution-process)
+  - [AI idea collection](#ai-idea-collection)
+  - [Key concepts: persona, integration](#key-concepts-persona-integration)
+  - [Key concepts: Data](#key-concepts-data)
 - [**2. Collecting Ideas**](#2-collecting-ideas) (11 videos)
-  - Ideation workshop: Preparation
-  - Ideation workshop: Core process
-  - Ideation workshop: Best practices
-  - What you should know before ideating
-  - Ideation workshop: Presentation
-  - Ideation workshop: Outcomes
-  - Organizational ideation: Idea collection
-  - Organizational ideation: Best practices
-  - Organizational ideation: Outcomes
-  - Coming up with completely new AI products
-  - Coming up with completely new AI products: Examples
+  - [Ideation workshop: Preparation](#ideation-workshop-preparation)
+  - [Ideation workshop: Core process](#ideation-workshop-core-process)
+  - [Ideation workshop: Best practices](#ideation-workshop-best-practices)
+  - [What you should know before ideating](#what-you-should-know-before-ideating)
+  - [Ideation workshop: Presentation](#ideation-workshop-presentation)
+  - [Ideation workshop: Outcomes](#ideation-workshop-outcomes)
+  - [Organizational ideation: Idea collection](#organizational-ideation-idea-collection)
+  - [Organizational ideation: Best practices](#organizational-ideation-best-practices)
+  - [Organizational ideation: Outcomes](#organizational-ideation-outcomes)
+  - [Coming up with completely new AI products](#coming-up-with-completely-new-ai-products)
+  - [Coming up with completely new AI products: Examples](#coming-up-with-completely-new-ai-products-examples)
 - [**3. Exploring Ideas: Concept Development**](#3-exploring-ideas-concept-development) (4 videos)
-  - What happens to the idea?
-  - Project idea checklist
-  - Fast-track estimations
-  - The final project idea
+  - [What happens to the idea?](#what-happens-to-the-idea)
+  - [Project idea checklist](#project-idea-checklist)
+  - [Fast-track estimations](#fast-track-estimations)
+  - [The final project idea](#the-final-project-idea)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/introduction?u=76281980)
@@ -111,13 +111,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (7), product (1)
 > **Speakers:** - in (1)
 
 
 ### 1. The Challenges of AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI mistakes to avoid
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980)
@@ -196,8 +196,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), teams (2), [[Hugging Face]] (1), [[Microsoft Products|Products]] (1), business (1)
 > **CLI Commands:** make (5), find (3)
-> **Code Keywords:** let (3)
 > **Env Vars:** fomo (1), bcg (1), roi (1)
 > **Versions:** 1.5 (1), 1.6 (1), 1.4 (1)
 > **UI Navigation:** select the (2)
@@ -284,9 +284,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), data (8), [[Microsoft Products|Products]] (3), [[Gemini]] (2), application (1)
 > **Analogies:** for example (2), such as (1), for instance (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** next video (1)
@@ -376,6 +376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (27), [[Automation]] (2), business (2), [[Customer Support]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ocr (1)
 > **Analogies:** for example (1)
@@ -479,8 +480,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (10), business (5), next (2), [[Prototyping]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** you'll need (1)
@@ -551,8 +552,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), business (3), [[Microsoft Products|Products]] (2), data (2), [[Forecasting]] (1)
 > **Analogies:** for example (2), such as (1), for instance (1)
-> **Code Keywords:** require (1), let (1), for. (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** coming up (1), in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -646,7 +647,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), super (1)
+> **Frameworks & Libraries:** ai (9), [[Design Thinking]] (2), [[ChatGPT]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** llm (1), crm (1)
@@ -748,9 +749,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (10), next (2), feature (1), product (1)
 > **Exercise Files:** template (4), exercise files (1)
 > **Analogies:** for example (3), for instance (1)
-> **Code Keywords:** let (1), super (1), require (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Env Vars:** ocr (1)
 > **Speakers:** - [instructor] (1)
@@ -820,7 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (4), super (1)
+> **Frameworks & Libraries:** ai (11), data (5), management (3), product (2), [[Forecasting]] (2)
 > **Exercise Files:** template (3)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** crm (1), erp (1)
@@ -908,7 +909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), from. (1), this, (1)
+> **Frameworks & Libraries:** data (38), ai (10), [[ChatGPT]] (1), [[Gemini]] (1), [[Databases]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** next chapter (1)
 > **Exercise Files:** template (1)
@@ -918,7 +919,7 @@ created: 2026-04-29
 
 ### 2. Collecting Ideas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ideation workshop: Preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980)
@@ -1007,8 +1008,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), data (4), business (3), next (2), front-end (1)
 > **Definitions:** is a  (3), is an  (1)
-> **Code Keywords:** let (3)
 > **Exercise Files:** template (2)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (2)
@@ -1126,9 +1127,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (4), next (4), [[Microsoft Products|Products]] (3), product (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -1208,7 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), finally, (1)
+> **Frameworks & Libraries:** ai (13), business (1), product (1), [[Microsoft Products|Products]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1322,9 +1323,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), data (10), [[LinkedIn]] (2), [[Generative AI]] (2), [[ChatGPT]] (1)
 > **Analogies:** for example (3), it's like (2), imagine (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), require (1), new. (1)
 > **Definitions:** is an  (1), is a  (1), means that (1), is called (1)
 > **Env Vars:** ocr (1)
 > **Speakers:** - [instructor] (1)
@@ -1408,7 +1409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (5), next (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** coming up (1), next video (1)
 > **Best Practices:** make sure to (2)
@@ -1497,8 +1498,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), next (2), llm (2), business (1), application (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** let (2), require (1), case, (1)
 > **Cross-References:** previous video (2), we covered (1), in the next (1)
 > **Exercise Files:** template (2), exercise files (2)
 > **Best Practices:** make sure to (2), recommended (1)
@@ -1575,7 +1576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** ai (18), next (2), data (2), business (1), teams (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1675,9 +1676,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), teams (3), leadership (2), data (2), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1), exercise files (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
@@ -1743,7 +1744,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** data (5), ai (4), next (4), teams (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1835,8 +1836,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), ai (5), [[Algorithms]] (3), business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** think of it as (1), for instance (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -1919,7 +1920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (4), yield (2), protected (1), for: (1)
+> **Frameworks & Libraries:** data (17), ai (8), [[Wellness]] (4), management (3), product (3)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1927,7 +1928,7 @@ created: 2026-04-29
 
 ### 3. Exploring Ideas: Concept Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What happens to the idea?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980)
@@ -2000,7 +2001,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1)
+> **Frameworks & Libraries:** ai (8), data (6), business (4), next (3), [[Microsoft Word|Word]] (2)
 > **Exercise Files:** template (4), exercise files (1)
 > **Cross-References:** next video (1), in the next (1)
 > **Analogies:** for example (2)
@@ -2104,7 +2105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), finally, (1), let (1)
+> **Frameworks & Libraries:** data (22), ai (4), next (4), business (4), [[Prototyping]] (2)
 > **Env Vars:** roi (1), mle (1), dev (1), llm (1)
 > **Cross-References:** in the next (2), we discussed (1), previous video (1)
 > **Exercise Files:** template (3), exercise files (1)
@@ -2198,8 +2199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), ai (4), business (3), power (2), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** roi (3), rom (1), gpu (1)
-> **Code Keywords:** let (2), require (1)
 > **Analogies:** for example (3)
 > **Cross-References:** previous video (1), we discussed (1)
 > **Speakers:** - [presenter] (1)
@@ -2281,9 +2282,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), ai (4), llm (3), business (1), rag (1)
 > **Exercise Files:** template (6)
 > **Env Vars:** llm (3), rag (1), roi (1)
-> **Code Keywords:** let (4)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** find (1)
@@ -2293,7 +2294,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/next-steps?u=76281980)
@@ -2322,6 +2323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), business (1), power (1), [[LinkedIn]] (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - big (1)
 

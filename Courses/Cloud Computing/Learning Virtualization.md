@@ -33,7 +33,7 @@ tags:
   - topic/network-and-system-administration
   - skill/virtualization
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Virtualization.md)
@@ -52,62 +52,62 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learning virtualization
-  - About this update
-  - What you should know before starting
+  - [Learning virtualization](#learning-virtualization)
+  - [About this update](#about-this-update)
+  - [What you should know before starting](#what-you-should-know-before-starting)
 - [**1. Introduction to Virtualization**](#1-introduction-to-virtualization) (3 videos)
-  - Overview of virtualization
-  - Understanding different types of hypervisors
-  - Understanding the cloud
+  - [Overview of virtualization](#overview-of-virtualization)
+  - [Understanding different types of hypervisors](#understanding-different-types-of-hypervisors)
+  - [Understanding the cloud](#understanding-the-cloud)
 - [**2. Virtualization Advantages**](#2-virtualization-advantages) (5 videos)
-  - Using virtualization for more efficient utilization of hardware
-  - Using virtualization to increase availability
-  - Disaster recovery
-  - Just-in-time delivery of resources
-  - Saving energy
+  - [Using virtualization for more efficient utilization of hardware](#using-virtualization-for-more-efficient-utilization-of-hardware)
+  - [Using virtualization to increase availability](#using-virtualization-to-increase-availability)
+  - [Disaster recovery](#disaster-recovery)
+  - [Just-in-time delivery of resources](#just-in-time-delivery-of-resources)
+  - [Saving energy](#saving-energy)
 - [**3. Virtualization Disadvantages**](#3-virtualization-disadvantages) (3 videos)
-  - Increased complexity
-  - Expense
-  - Sprawl
+  - [Increased complexity](#increased-complexity)
+  - [Expense](#expense)
+  - [Sprawl](#sprawl)
 - [**4. Common Uses of Virtualization**](#4-common-uses-of-virtualization) (6 videos)
-  - Virtualizing desktop computers
-  - Running a specific program
-  - Setting up test and development environments
-  - Designing a private cloud
-  - Utilizing a public cloud
-  - Choosing the best solution for you
+  - [Virtualizing desktop computers](#virtualizing-desktop-computers)
+  - [Running a specific program](#running-a-specific-program)
+  - [Setting up test and development environments](#setting-up-test-and-development-environments)
+  - [Designing a private cloud](#designing-a-private-cloud)
+  - [Utilizing a public cloud](#utilizing-a-public-cloud)
+  - [Choosing the best solution for you](#choosing-the-best-solution-for-you)
 - [**5. Hardware**](#5-hardware) (5 videos)
-  - Understanding virtual CPU
-  - Understanding virtual memory
-  - Understanding virtual storage
-  - Understanding virtual networking
-  - Understanding virtual graphic processing
+  - [Understanding virtual CPU](#understanding-virtual-cpu)
+  - [Understanding virtual memory](#understanding-virtual-memory)
+  - [Understanding virtual storage](#understanding-virtual-storage)
+  - [Understanding virtual networking](#understanding-virtual-networking)
+  - [Understanding virtual graphic processing](#understanding-virtual-graphic-processing)
 - [**6. Microsoft Hyper-V**](#6-microsoft-hyper-v) (6 videos)
-  - Installing Hyper-V
-  - Creating a virtual machine with Hyper-V
-  - Setting up networking with Hyper-V
-  - Allocating processors and memory to a virtual machine using Hyper-V
-  - Using checkpoints in Hyper-V
-  - Uninstalling Hyper-V
+  - [Installing Hyper-V](#installing-hyper-v)
+  - [Creating a virtual machine with Hyper-V](#creating-a-virtual-machine-with-hyper-v)
+  - [Setting up networking with Hyper-V](#setting-up-networking-with-hyper-v)
+  - [Allocating processors and memory to a virtual machine using Hyper-V](#allocating-processors-and-memory-to-a-virtual-machine-using-hyper-v)
+  - [Using checkpoints in Hyper-V](#using-checkpoints-in-hyper-v)
+  - [Uninstalling Hyper-V](#uninstalling-hyper-v)
 - [**7. VMware Workstation**](#7-vmware-workstation) (5 videos)
-  - Installing VMware Workstation
-  - Creating a virtual machine with VMware Workstation
-  - Setting up networking with VMware Workstation
-  - Allocating processors and memory to a virtual machine using VMware Workstation
-  - Duplicating a virtual machine using VMware Workstation
+  - [Installing VMware Workstation](#installing-vmware-workstation)
+  - [Creating a virtual machine with VMware Workstation](#creating-a-virtual-machine-with-vmware-workstation)
+  - [Setting up networking with VMware Workstation](#setting-up-networking-with-vmware-workstation)
+  - [Allocating processors and memory to a virtual machine using VMware Workstation](#allocating-processors-and-memory-to-a-virtual-machine-using-vmware-workstation)
+  - [Duplicating a virtual machine using VMware Workstation](#duplicating-a-virtual-machine-using-vmware-workstation)
 - [**8. Preparing Your Infrastructure for Virtualization**](#8-preparing-your-infrastructure-for-virtualization) (2 videos)
-  - Understanding different file systems
-  - Choosing between SAN, NAS, or local storage
+  - [Understanding different file systems](#understanding-different-file-systems)
+  - [Choosing between SAN, NAS, or local storage](#choosing-between-san-nas-or-local-storage)
 - [**9. Troubleshooting**](#9-troubleshooting) (3 videos)
-  - Troubleshooting network communication
-  - Troubleshooting slow performance
-  - Troubleshooting common errors
+  - [Troubleshooting network communication](#troubleshooting-network-communication)
+  - [Troubleshooting slow performance](#troubleshooting-slow-performance)
+  - [Troubleshooting common errors](#troubleshooting-common-errors)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/learning-virtualization?u=76281980)
@@ -130,7 +130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Virtualization]] (6), [[Microsoft]] (1), [[Virtual Machines]] (1)
 > **Speakers:** - [martin] (1)
 
 #### About this update
@@ -154,7 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1)
+> **Frameworks & Libraries:** [[Virtualization]] (2), [[Microsoft Products|Products]] (2), [[Windows 10]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -181,13 +181,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Virtual Machines]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introduction to Virtualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980)
@@ -236,7 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Virtualization]] (2), [[Microsoft Word|Word]] (2), [[Virtual Machines]] (2), power (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -281,9 +282,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Virtual Machines]] (3), [[Microsoft Word|Word]] (2), next (1), product (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Understanding the cloud
@@ -363,7 +364,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (8), public (6), else, (1)
+> **Frameworks & Libraries:** cloud (21), [[Virtual Machines]] (6), data (5), [[Hardware]] (2), database (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** set up (1), install (1)
@@ -375,7 +376,7 @@ created: 2026-04-29
 
 ### 2. Virtualization Advantages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using virtualization for more efficient utilization of hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980)
@@ -462,10 +463,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Virtualization]] (2), [[Hardware]] (1), business (1), [[E-Commerce]] (1)
 > **Env Vars:** ram (5)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** require (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
@@ -526,6 +527,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), data (4), [[Virtualization]] (1), feature (1), [[Microsoft Word|Word]] (1)
 > **Warnings:** be aware (2)
 > **Definitions:** in other words (1)
 > **Analogies:** just like (1)
@@ -626,7 +628,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), case, (1), default, (1)
+> **Frameworks & Libraries:** [[Virtualization]] (2), data (2), functional (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** install (2)
 > **Analogies:** for example (1)
@@ -673,6 +675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), [[Virtual Machines]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ram (1)
 > **UI Navigation:** go to (1)
@@ -732,6 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (6), [[Virtualization]] (4), data (3), [[Hardware]] (3), [[Virtual Machines]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -740,7 +744,7 @@ created: 2026-04-29
 
 ### 3. Virtualization Disadvantages
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Increased complexity
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/increased-complexity?u=76281980)
@@ -813,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), let (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (7), [[Virtualization]] (5), [[Troubleshooting]] (5)
 > **Env Vars:** mac (3), san (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (1)
@@ -868,8 +872,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtualization]] (4), [[Microsoft Products|Products]] (1), [[Virtual Machines]] (1), database (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -955,14 +959,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2)
+> **Frameworks & Libraries:** web (3), [[Virtual Machines]] (2), [[Virtualization]] (1), [[Hardware]] (1), power (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
 
 ### 4. Common Uses of Virtualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Virtualizing desktop computers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980)
@@ -1057,6 +1061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtualization]] (4), [[Hardware]] (3), [[Troubleshooting]] (3), application (3), product (3)
 > **Env Vars:** vdi (9)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -1132,6 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (8), application (6), [[Virtualization]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dos (4)
 > **Prerequisites:** install (2)
 > **Definitions:** is called (1)
@@ -1221,7 +1227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2), case, (2), this, (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Virtualization]] (3), data (3), cloud (3), [[Load Testing]] (1)
 > **Definitions:** is a  (3), is an  (1), defined as (1)
 > **CLI Commands:** make (1), aws (1)
 > **Code Identifiers:** ecommerce (2)
@@ -1359,7 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (12), for, (1), let (1), super (1)
+> **Frameworks & Libraries:** cloud (13), [[Virtual Machines]] (5), product (4), traffic (3), [[Scalability]] (2)
 > **Prerequisites:** you'll need (6)
 > **Code Identifiers:** vcloud (2), vsphere (1), vmotion (1)
 > **CLI Commands:** make (1), find (1)
@@ -1439,7 +1445,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (12)
+> **Frameworks & Libraries:** cloud (14), data (6), power (5), [[Security]] (4), [[Hardware]] (3)
 > **Env Vars:** sla (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1510,8 +1516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), [[Virtual Machines]] (2), [[Windows]] (2), [[Microsoft Products|Products]] (2), [[Hardware]] (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** else. (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -1521,7 +1527,7 @@ created: 2026-04-29
 
 ### 5. Hardware
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding virtual CPU
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-cpu?u=76281980)
@@ -1574,10 +1580,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), [[Hardware]] (1)
 > **Env Vars:** cpu (7)
 > **Code Identifiers:** vcpu (3), pcpu (1), vcpus (1)
 > **Definitions:** is called (1), in other words (1)
-> **Code Keywords:** pass (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1654,10 +1660,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Virtual Machines]] (3), [[Virtualization]] (1)
 > **Code Identifiers:** vram (2)
 > **Env Vars:** ram (2)
 > **Definitions:** is a  (1), is called (1)
-> **Code Keywords:** else. (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1704,7 +1710,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Virtualization]] (1), data (1), hit (1)
 > **Code Identifiers:** supports (1)
 > **Env Vars:** nas (1)
 > **Best Practices:** avoid doing (1)
@@ -1785,7 +1791,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (10)
+> **Frameworks & Libraries:** traffic (10), [[Virtual Machines]] (3), functional (1)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** mac (2)
 > **Analogies:** just like (2)
@@ -1825,6 +1831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Virtualization]] (2), [[Hardware]] (2), power (2), web (1)
 > **Env Vars:** gpu (5)
 > **Definitions:** is an  (1), in other words (1)
 > **Code Identifiers:** vgpu (1)
@@ -1834,7 +1841,7 @@ created: 2026-04-29
 
 ### 6. Microsoft Hyper-V
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Hyper-V
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980)
@@ -1891,10 +1898,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (7), management (3), [[Windows]] (2), [[Virtual Machines]] (1), product (1)
 > **Prerequisites:** install (7)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** require (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -2050,9 +2057,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (10), [[Windows 10]] (6), [[Windows]] (4), hit (3), [[Microsoft]] (2)
 > **Prerequisites:** install (8), setup (3), configure (2)
 > **UI Navigation:** click on (4), select the (2)
-> **Code Keywords:** new, (2), default, (1), let (1), continue (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** iso (2), uefi (1)
 > **Analogies:** such as (1), just like (1)
@@ -2149,7 +2156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (12), private (2), let (1)
+> **Frameworks & Libraries:** traffic (4), [[Virtual Machines]] (3), [[Microsoft]] (3), hit (2)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (1)
 > **Warnings:** warning (1)
@@ -2236,7 +2243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), switch (1), continue (1)
+> **Frameworks & Libraries:** hit (3), power (1)
 > **Env Vars:** ram (5)
 > **UI Navigation:** go to (3), click on (1)
 > **Analogies:** just like (1)
@@ -2302,8 +2309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), hit (3), [[Microsoft]] (1), feature (1)
 > **UI Navigation:** go to (4), click on (2)
-> **Code Keywords:** let (2), this. (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2332,16 +2339,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Windows]] (2), data (1), next (1), hit (1)
 > **UI Navigation:** go to (1), checkbox (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** delete (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. VMware Workstation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing VMware Workstation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980)
@@ -2414,10 +2421,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (6), hit (4), [[Windows]] (3), [[Windows 10]] (3), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** click on (4), go to (1), scroll down (1), checkbox (1)
 > **Prerequisites:** install (5), setup (1), make sure you have (1)
 > **Definitions:** is a  (3), is called (1)
-> **Code Keywords:** continue (1), this, (1), default. (1)
 > **Cross-References:** coming up (1), later in (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2507,11 +2514,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), product (4), hit (3), [[Windows]] (2), [[Windows 10]] (2)
 > **Env Vars:** iso (2), usb (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** install (2), configure (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** from. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** warning (1)
@@ -2573,8 +2580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (7), power (2)
 > **UI Navigation:** go to (2), select the (1), click on (1)
-> **Code Keywords:** case, (1), private (1), let (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - in (1)
@@ -2630,8 +2637,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), [[Virtualization]] (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (3), go to (3), dropdown (1)
-> **Code Keywords:** let (1), default, (1)
 > **Definitions:** in other words (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -2683,15 +2690,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), hit (2), [[Virtual Machines]] (2), [[Windows 10]] (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1), is an  (1)
-> **Code Keywords:** default, (1)
 > **Speakers:** - now (1)
 
 
 ### 8. Preparing Your Infrastructure for Virtualization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding different file systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980)
@@ -2786,8 +2793,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), next (2), [[Microsoft]] (2), data (2), [[Windows]] (2)
 > **Env Vars:** ntfs (9), vmfs (8), nfs (7), rdm (3)
-> **Code Keywords:** let (2), this, (1), this. (1)
 > **Definitions:** is a  (4)
 > **Speakers:** - [instructor] (1)
 
@@ -2856,6 +2863,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Virtual Machines]] (1), next (1)
 > **Env Vars:** nas (8), san (5), das (1), vmfs (1), ntfs (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
@@ -2863,7 +2871,7 @@ created: 2026-04-29
 
 ### 9. Troubleshooting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshooting network communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-network-communication?u=76281980)
@@ -2940,7 +2948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), interface (1), function (1)
+> **Frameworks & Libraries:** traffic (5), [[Troubleshooting]] (2), [[Virtual Machines]] (2), functional (1)
 > **Env Vars:** mac (6)
 > **Prerequisites:** you'll need (2), configure (1), make sure you have (1)
 > **CLI Commands:** make (3)
@@ -3019,10 +3027,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Hardware]] (4), [[Troubleshooting]] (3), [[Virtualization]] (1), power (1)
 > **Env Vars:** usb (2), com (2), gpu (1)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** from, (1), this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Troubleshooting common errors
@@ -3070,6 +3078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Google]] (1)
 > **Env Vars:** cpu (3), ntp (1)
 > **CLI Commands:** make (1)
 > **URLs:** [google.com](https://google.com) (1)
@@ -3079,7 +3088,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980)
@@ -3114,7 +3123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** cloud (3), next (1), [[Windows Server]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [martin] (1)
 

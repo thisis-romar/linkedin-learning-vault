@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/ESLint-%20Integrating%20with%20Your%20Workflow.md)
@@ -48,23 +48,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Customizing automatic error checking
-  - What you should know
-  - Using the exercise files for this course
-  - Using GitHub Codespaces with this course
+  - [Customizing automatic error checking](#customizing-automatic-error-checking)
+  - [What you should know](#what-you-should-know)
+  - [Using the exercise files for this course](#using-the-exercise-files-for-this-course)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Integrating ESLint with Your Workflow**](#1-integrating-eslint-with-your-workflow) (6 videos)
-  - Setting up a project with ESLint
-  - Enforcing code style with ESLint
-  - Integrating ESLint with webpack
-  - Using ESLint in an editor
-  - Challenge: Add ESLint to a project
-  - Solution: Add ESLint to a project
+  - [Setting up a project with ESLint](#setting-up-a-project-with-eslint)
+  - [Enforcing code style with ESLint](#enforcing-code-style-with-eslint)
+  - [Integrating ESLint with webpack](#integrating-eslint-with-webpack)
+  - [Using ESLint in an editor](#using-eslint-in-an-editor)
+  - [Challenge: Add ESLint to a project](#challenge-add-eslint-to-a-project)
+  - [Solution: Add ESLint to a project](#solution-add-eslint-to-a-project)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Customizing automatic error checking
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/customizing-automatic-error-checking-25668968?u=76281980)
@@ -85,6 +85,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (4)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - eslint (1)
@@ -104,6 +105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[npm]] (2), front-end (1), [[JavaScript]] (1), [[Search]] (1)
 > **CLI Commands:** npm (2)
 > **Env Vars:** es6 (1)
 > **Tools:** command line (1)
@@ -140,8 +142,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (3), [[ESLint]] (1), [[Search]] (1)
 > **CLI Commands:** git (3), make (1)
-> **Code Keywords:** switch (1), this. (1), this, (1), let (1)
 > **Tools:** github (4)
 > **Env Vars:** url (1), zip (1), mpm (1)
 > **Exercise Files:** github repo (1), zip file (1)
@@ -286,7 +288,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (4), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), hit (4), [[LinkedIn]] (2), cloud (2), web (2)
 > **UI Navigation:** click on (3), switch to (3), go to (2)
 > **Tools:** github (4), visual studio (2)
 > **CLI Commands:** make (4), find (1)
@@ -298,7 +300,7 @@ created: 2026-04-29
 
 ### 1. Integrating ESLint with Your Workflow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up a project with ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980)
@@ -465,9 +467,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (28), next (7), [[npm]] (3), [[JavaScript]] (2), front-end (2)
 > **CLI Commands:** npm (3), npx (2), find (1), node (1), ls (1)
 > **File Paths:** eslintrc.js (2), index.js (2), package.json (1)
-> **Code Keywords:** module (2), default. (1), default, (1), extends (1)
 > **Definitions:** is a  (3), means that (1)
 > **Prerequisites:** configure (2), install (1), set up (1)
 > **Tools:** terminal (3)
@@ -583,8 +585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (14), front-end (2), [[JavaScript]] (2), [[npm]] (2), [[Google]] (1)
 > **CLI Commands:** make (2), npm (2), npx (1), find (1)
-> **Code Keywords:** let (2), const (2), default. (1), extends (1)
 > **Prerequisites:** setup (5), install (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (2), such as (1)
@@ -689,11 +691,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (15), [[npm]] (4), [[JSON]] (3), [[JavaScript]] (1), [[GitHub]] (1)
 > **File Paths:** webpack.config.js (3), inpackage.json (1), packag.json (1), webpack.js (1), webpack.config (1)
 > **CLI Commands:** npm (4), make (3)
 > **Prerequisites:** configure (2), install (1), set up (1)
 > **Warnings:** warning (3)
-> **Code Keywords:** let (1), module (1)
 > **Tools:** github (1), terminal (1)
 > **Exercise Files:** github repo (1), exercise files (1)
 > **Speakers:** - [instructor] (1), - loader (1)
@@ -853,8 +855,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (18), [[JSON]] (4), [[Search]] (1), hit (1), [[JavaScript]] (1)
 > **Tools:** visual studio (3), sublime (1), atom (1), vs code (1)
-> **Code Keywords:** this, (2), let (1), require (1), override (1)
 > **Env Vars:** json (4), atom (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1), find (1), git (1)
@@ -895,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), finally, (1), throw (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), next (1)
 > **Prerequisites:** you'll need (1), configure (1), setup (1)
 > **File Paths:** index.js (1)
 > **Cross-References:** in the next (1)
@@ -1081,8 +1083,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (22), [[npm]] (5), next (3), node (1), front-end (1)
 > **CLI Commands:** make (6), npm (5), node (1), npx (1), find (1)
-> **Code Keywords:** let (6), const (4), switch (1), module (1)
 > **File Paths:** index.js (3), eslintrc.js (1), webpack.config.js (1), webpack.config (1), package.json (1)
 > **Prerequisites:** install (5), set up (1)
 > **Definitions:** is a  (3)
@@ -1093,7 +1095,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980)
@@ -1116,6 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ESLint]] (3), [[JavaScript]] (1)
 > **Speakers:** - [instructor] (1)
 
 

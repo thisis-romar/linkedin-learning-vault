@@ -35,7 +35,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development.md)
@@ -54,53 +54,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The agile approach
-  - What you should know
+  - [The agile approach](#the-agile-approach)
+  - [What you should know](#what-you-should-know)
 - [**1. Agile Fundamentals**](#1-agile-fundamentals) (4 videos)
-  - The software crisis
-  - Agile to the rescue
-  - Agile principles
-  - Agile principles continued
+  - [The software crisis](#the-software-crisis)
+  - [Agile to the rescue](#agile-to-the-rescue)
+  - [Agile principles](#agile-principles)
+  - [Agile principles continued](#agile-principles-continued)
 - [**2. Scrum: The Developer Perspective**](#2-scrum-the-developer-perspective) (11 videos)
-  - Scrum introduction
-  - Empiricism
-  - The scrum pillars (TIA)
-  - Scrum values
-  - Scrum roles: The product owner
-  - Scrum roles: The development team member
-  - Scrum roles: The scrum master
-  - Scrum events
-  - Scrum artifacts: The product backlog
-  - Scrum artifacts: The sprint backlog and increment
-  - Common myths
+  - [Scrum introduction](#scrum-introduction)
+  - [Empiricism](#empiricism)
+  - [The scrum pillars (TIA)](#the-scrum-pillars-tia)
+  - [Scrum values](#scrum-values)
+  - [Scrum roles: The product owner](#scrum-roles-the-product-owner)
+  - [Scrum roles: The development team member](#scrum-roles-the-development-team-member)
+  - [Scrum roles: The scrum master](#scrum-roles-the-scrum-master)
+  - [Scrum events](#scrum-events)
+  - [Scrum artifacts: The product backlog](#scrum-artifacts-the-product-backlog)
+  - [Scrum artifacts: The sprint backlog and increment](#scrum-artifacts-the-sprint-backlog-and-increment)
+  - [Common myths](#common-myths)
 - [**3. Agile Software Engineering Techniques**](#3-agile-software-engineering-techniques) (11 videos)
-  - Extreme programming (XP)
-  - XP execution
-  - Pair programming
-  - Test-driven development (TDD)
-  - User stories
-  - Epics and themes
-  - Agile estimation
-  - Planning poker
-  - DevOps: The problem
-  - DevOps: The solution
-  - Agile reporting
+  - [Extreme programming (XP)](#extreme-programming-xp)
+  - [XP execution](#xp-execution)
+  - [Pair programming](#pair-programming)
+  - [Test-driven development (TDD)](#test-driven-development-tdd)
+  - [User stories](#user-stories)
+  - [Epics and themes](#epics-and-themes)
+  - [Agile estimation](#agile-estimation)
+  - [Planning poker](#planning-poker)
+  - [DevOps: The problem](#devops-the-problem)
+  - [DevOps: The solution](#devops-the-solution)
+  - [Agile reporting](#agile-reporting)
 - [**4. Kanban for Developers**](#4-kanban-for-developers) (5 videos)
-  - Lean history
-  - Kanban board
-  - Limiting work in progress (WIP)
-  - How to set WIP limits
-  - Kanban vs. scrum
+  - [Lean history](#lean-history)
+  - [Kanban board](#kanban-board)
+  - [Limiting work in progress (WIP)](#limiting-work-in-progress-wip)
+  - [How to set WIP limits](#how-to-set-wip-limits)
+  - [Kanban vs. scrum](#kanban-vs-scrum)
 - [**5. Scaling Agile**](#5-scaling-agile) (3 videos)
-  - Scaling agile
-  - Scaling frameworks
-  - Scaling frameworks, continued
+  - [Scaling agile](#scaling-agile)
+  - [Scaling frameworks](#scaling-frameworks)
+  - [Scaling frameworks, continued](#scaling-frameworks-continued)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The agile approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980)
@@ -129,7 +129,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (1), [[Microsoft Products|Products]] (1), [[Scrum]] (1), [[Programming]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - agile (1)
 
@@ -158,13 +158,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Software Development]] (3), business (1), product (1), teams (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
 
 ### 1. Agile Fundamentals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The software crisis
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980)
@@ -237,6 +238,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Agile Development|Agile]] (2), [[Software Development]] (2), next (2), [[Software Projects]] (2)
 > **Definitions:** in other words (2), known as (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
@@ -310,8 +312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Software Development]] (4), teams (2), product (1), data (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1), known as (1)
-> **Code Keywords:** else. (1)
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
 
@@ -386,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (14), teams (8), business (6), [[Microsoft Products|Products]] (3), next (3)
 > **Definitions:** known as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - as (1)
@@ -474,7 +476,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), let (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (22), teams (10), next (4), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** chaos (1)
 > **Cross-References:** later in (1)
@@ -484,7 +486,7 @@ created: 2026-04-29
 
 ### 2. Scrum: The Developer Perspective
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-introduction-23852437?u=76281980)
@@ -544,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), throw (1), continue (1)
+> **Frameworks & Libraries:** traffic (1)
 > **Ports:** :00 (2)
 > **Definitions:** is an  (2)
 > **Env Vars:** gps (1)
@@ -607,7 +609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2)
+> **Frameworks & Libraries:** [[Scrum]] (14), teams (5), product (2), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** tia (1)
 > **Definitions:** is a  (1)
@@ -652,7 +654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** [[Scrum]] (14), teams (2), [[Agile Development|Agile]] (1)
 > **Env Vars:** tia (1)
 > **Analogies:** such as (1)
 > **Speakers:** - five (1)
@@ -692,7 +694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (14), [[Scrum]] (7), business (1), management (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
@@ -733,7 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** product (8), [[Scrum]] (3), functional (1), teams (1), [[Accountability]] (1)
 > **Analogies:** just like (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - just (1)
@@ -773,6 +775,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (20), product (5), management (3), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -819,6 +822,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (7), product (2), business (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - scrum (1)
@@ -898,10 +902,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (20), [[Scrum]] (4), teams (3), data (2), [[Analytics]] (2)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1), in the next (1)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
@@ -946,8 +950,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (8), product (4), feature (4), business (3), [[Scrum]] (2)
 > **Definitions:** is a  (2), is called (1)
-> **Code Keywords:** let (1), interface (1)
 > **Speakers:** - now (1)
 
 #### Common myths
@@ -1005,7 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), abstract (1), require (1), continue (1)
+> **Frameworks & Libraries:** [[Scrum]] (11), [[Agile Development|Agile]] (10), teams (9), product (3), [[Engineering]] (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
@@ -1014,7 +1018,7 @@ created: 2026-04-29
 
 ### 3. Agile Software Engineering Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Extreme programming (XP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980)
@@ -1071,6 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), teams (2), [[Scrum]] (2), [[Engineering]] (1), functional (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -1125,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), abstract (1)
+> **Frameworks & Libraries:** teams (7), [[Programming]] (2), [[Agile Development|Agile]] (2), [[Scrum]] (2), product (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **Definitions:** is an  (1)
@@ -1204,7 +1209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (2), type, (1), continue (1)
+> **Frameworks & Libraries:** [[Programming]] (14), teams (3), [[Agile Development|Agile]] (2), business (1), [[Software Design]] (1)
 > **Tools:** terminal (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1284,8 +1289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (5), [[Unit Testing]] (2), [[Programming]] (1), next (1), teams (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** function (3), pass (1)
 > **Tools:** visual studio (1), intellij (1)
 > **Env Vars:** moq (1)
 > **Definitions:** is a  (1)
@@ -1362,8 +1367,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), teams (3), business (2), [[Agile Development|Agile]] (1), [[Programming]] (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
@@ -1434,6 +1439,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), [[Android]] (2), web (2), [[Agile Development|Agile]] (2), [[Scrum]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Analogies:** picture (1), such as (1), for example (1)
@@ -1508,6 +1514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (5), product (3), [[Unit Testing]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - estimates (1)
@@ -1605,7 +1612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), interface (1)
+> **Frameworks & Libraries:** product (6), database (2), [[Agile Development|Agile]] (2), data (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1666,7 +1673,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), break. (1)
+> **Frameworks & Libraries:** teams (6), product (5), [[DevOps]] (4), [[Agile Development|Agile]] (4), business (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - devops (1)
 
@@ -1711,8 +1718,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DevOps]] (6), product (3), teams (2), [[Automation]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2)
 > **CLI Commands:** cd (1)
-> **Code Keywords:** static (1)
 > **Analogies:** such as (1)
 > **Speakers:** - devops (1)
 
@@ -1789,7 +1796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), teams (5), management (2), [[Microsoft Products|Products]] (1), cloud (1)
 > **Env Vars:** cfd (2), jira (1)
 > **Tools:** visual studio (1), jira (1)
 > **Definitions:** is a  (2)
@@ -1798,7 +1805,7 @@ created: 2026-04-29
 
 ### 4. Kanban for Developers
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Lean history
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980)
@@ -1859,6 +1866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (2), [[Software Development]] (2), express (1)
 > **Env Vars:** wip (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
@@ -1918,8 +1926,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), [[Microsoft Word|Word]] (2), [[Agile Development|Agile]] (2), teams (2), management (1)
 > **Definitions:** is a  (1), is called (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - kanban (1)
 
 #### Limiting work in progress (WIP)
@@ -1983,8 +1991,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1), teams (1)
 > **Env Vars:** wip (12)
-> **Code Keywords:** switch (2), override (2), let (1)
 > **Warnings:** warning (2)
 > **Speakers:** - when (1)
 
@@ -2071,9 +2079,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Agile Development|Agile]] (1)
 > **Env Vars:** wip (15)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Definitions:** means that (1), is an  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - so (1)
@@ -2139,6 +2147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (10), teams (5), management (1), product (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - both (1)
@@ -2146,7 +2155,7 @@ created: 2026-04-29
 
 ### 5. Scaling Agile
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980)
@@ -2203,7 +2212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), teams (10), [[Microsoft Products|Products]] (1), business (1), [[Scrum]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
@@ -2259,8 +2268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (32), teams (7), product (3), [[Agile Development|Agile]] (1), parallel (1)
 > **Env Vars:** sos (2), sds (1), sosos (1)
-> **Code Keywords:** continue (2), let (1)
 > **Definitions:** is an  (2), is a  (1)
 > **URLs:** [scrum.org](https://scrum.org) (2)
 > **Analogies:** just like (2)
@@ -2339,6 +2348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scrum]] (16), product (14), teams (9), [[Agile Development|Agile]] (7), functional (2)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -2350,7 +2360,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980)
@@ -2387,6 +2397,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (2), [[Programming]] (1), management (1)
 > **URLs:** [agilemanifesto.org](https://agilemanifesto.org) (1), [scrum.org](https://scrum.org) (1), [scrumalliance.org](https://scrumalliance.org) (1), [techfritters.com](https://techfritters.com) (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - so (1)

@@ -27,7 +27,7 @@ tags:
   - topic/data-science
   - skill/blockchain-architecture
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Blockchain%20Programming%20in%20iOS%20Using%20Swift.md)
@@ -46,38 +46,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Welcome to Blockchain Programming in iOS**](#welcome-to-blockchain-programming-in-ios) (2 videos)
-  - Introduction
-  - What you should know
+  - [Introduction](#introduction)
+  - [What you should know](#what-you-should-know)
 - [**1. Understand Blockchain Technology**](#1-understand-blockchain-technology) (6 videos)
-  - What is cryptocurrency?
-  - What is a centralized ledger?
-  - What is a distributed ledger?
-  - Public and private keys
-  - What is mining?
-  - The longest chain
+  - [What is cryptocurrency?](#what-is-cryptocurrency)
+  - [What is a centralized ledger?](#what-is-a-centralized-ledger)
+  - [What is a distributed ledger?](#what-is-a-distributed-ledger)
+  - [Public and private keys](#public-and-private-keys)
+  - [What is mining?](#what-is-mining)
+  - [The longest chain](#the-longest-chain)
 - [**2. Implementing the Blockchain Core Engine**](#2-implementing-the-blockchain-core-engine) (5 videos)
-  - Developing blockchain models
-  - Generating keys for blocks
-  - Initializing the blockchain
-  - Proof of work
-  - Adding blocks to the blockchain
+  - [Developing blockchain models](#developing-blockchain-models)
+  - [Generating keys for blocks](#generating-keys-for-blocks)
+  - [Initializing the blockchain](#initializing-the-blockchain)
+  - [Proof of work](#proof-of-work)
+  - [Adding blocks to the blockchain](#adding-blocks-to-the-blockchain)
 - [**3. Smart Contracts**](#3-smart-contracts) (2 videos)
-  - Understanding smart contracts
-  - Implementing smart contracts
+  - [Understanding smart contracts](#understanding-smart-contracts)
+  - [Implementing smart contracts](#implementing-smart-contracts)
 - [**4. Implementing Blockchain Web API**](#4-implementing-blockchain-web-api) (5 videos)
-  - Prerequisites
-  - Setting up a server-side Swift project using Vapor
-  - Setting up a controller and services
-  - Returning the blockchain
-  - Mining a block
+  - [Prerequisites](#prerequisites)
+  - [Setting up a server-side Swift project using Vapor](#setting-up-a-server-side-swift-project-using-vapor)
+  - [Setting up a controller and services](#setting-up-a-controller-and-services)
+  - [Returning the blockchain](#returning-the-blockchain)
+  - [Mining a block](#mining-a-block)
 - [**5. Decentralizing Blockchain**](#5-decentralizing-blockchain) (3 videos)
-  - Creating node models
-  - Mining on nodes
-  - Resolving conflicts
+  - [Creating node models](#creating-node-models)
+  - [Mining on nodes](#mining-on-nodes)
+  - [Resolving conflicts](#resolving-conflicts)
 
 ### Welcome to Blockchain Programming in iOS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (3), full-stack (1), [[Web Development]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** ios (5), idev (1)
 > **Speakers:** - hello (1)
 
@@ -150,8 +151,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (9), [[Blockchain]] (4), web (1), api (1), [[Application Development]] (1)
 > **Code Identifiers:** ios (5)
-> **Code Keywords:** continue (1), let (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -159,7 +160,7 @@ created: 2026-04-29
 
 ### 1. Understand Blockchain Technology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cryptocurrency?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-cryptocurrency?u=76281980)
@@ -202,8 +203,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptocurrency]] (4), [[Blockchain]] (3)
 > **Definitions:** is an  (1), is a  (1), is called (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What is a centralized ledger?
@@ -249,7 +250,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** business (2), [[Security]] (1), [[Routing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -312,8 +313,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (4), next (2)
 > **CLI Commands:** node (4)
-> **Code Keywords:** let (1), case, (1), super (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -400,7 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (6), let (4), public (4), pass (4), function (3)
+> **Frameworks & Libraries:** power (2), [[Probability]] (1), node (1), next (1)
 > **Definitions:** is a  (3), means that (1), is called (1)
 > **Env Vars:** sha256 (3)
 > **CLI Commands:** node (1)
@@ -567,8 +568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (9), node (6), next (4), [[Search]] (1)
 > **CLI Commands:** find (12), node (6)
-> **Code Keywords:** let (10), pass (1), while, (1), case, (1), public (1)
 > **Definitions:** known as (3), is a  (2)
 > **Code Identifiers:** previoushash (1)
 > **Versions:** 6.25 (1)
@@ -625,15 +626,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (12), [[Blockchain]] (10), [[Probability]] (1)
 > **CLI Commands:** node (12), find (2)
-> **Code Keywords:** let (3)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Implementing the Blockchain Core Engine
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing blockchain models
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980)
@@ -746,7 +747,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), new, (1), for, (1), from. (1), from, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (15), next (2), [[Swift (Programming Language)|Swift]] (1), [[Xcode]] (1), application (1)
 > **Code Identifiers:** macos (6), ios (3)
 > **Definitions:** is an  (3)
 > **CLI Commands:** find (2)
@@ -889,7 +890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), self (3), function (2), return, (1), this. (1)
+> **Frameworks & Libraries:** [[JSON]] (9), data (5), [[Swift (Programming Language)|Swift]] (3), feature (2), [[Blockchain]] (1)
 > **Env Vars:** json (9), sha (2)
 > **Definitions:** is a  (4), is called (1), means that (1), is an  (1)
 > **CLI Commands:** make (1), find (1)
@@ -1031,7 +1032,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (6), pass (2), continue (1), class. (1)
+> **Frameworks & Libraries:** [[Blockchain]] (15), api (1), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), next (1)
 > **Code Identifiers:** addblock (4)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is called (1), means that (1)
@@ -1189,7 +1190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (6), pass (5), self (4), finally, (1)
+> **Frameworks & Libraries:** next (7), [[Blockchain]] (4), [[Search]] (2), web (1), api (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** api (1)
 > **UI Navigation:** scroll up (1)
@@ -1229,7 +1230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), private (3), case, (1), let (1), public (1)
+> **Frameworks & Libraries:** [[Blockchain]] (11)
 > **Code Identifiers:** addblock (3), getnextblock (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
@@ -1238,7 +1239,7 @@ created: 2026-04-29
 
 ### 3. Smart Contracts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding smart contracts
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980)
@@ -1293,7 +1294,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2)
+> **Frameworks & Libraries:** [[Blockchain]] (15), [[Smart Contracts]] (6), node (3), [[Ethereum]] (2), [[Cryptocurrency]] (2)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (1), is called (1)
 > **Code Identifiers:** ios (1)
@@ -1452,7 +1453,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), type. (4), type, (3), function (3), case, (3)
+> **Frameworks & Libraries:** [[Smart Contracts]] (10), [[Blockchain]] (10), [[JSON]] (5), data (2), [[Programming]] (1)
 > **Versions:** 0.02 (2), 0.2 (2), 0.05 (1), 9.8 (1), 0.5 (1)
 > **CLI Commands:** make (4), find (3)
 > **Env Vars:** json (5)
@@ -1464,7 +1465,7 @@ created: 2026-04-29
 
 ### 4. Implementing Blockchain Web API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980)
@@ -1499,9 +1500,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (4), web (4), api (4), cloud (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (3), brew (3)
 > **Env Vars:** api (4)
-> **Code Keywords:** let (2)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** install (2)
 > **Versions:** 3.1.7 (1)
@@ -1597,9 +1598,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Xcode]] (16), [[Blockchain]] (2), web (2), api (2), [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** go to (5), click on (2), select the (1)
 > **Versions:** 9.3 (4), 9.4 (2)
-> **Code Keywords:** let (3), public (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (1), url (1)
 > **URLs:** [localhost:8080](https://localhost:8080) (1)
@@ -1691,7 +1692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (4), class, (2), this. (2), this, (2)
+> **Frameworks & Libraries:** [[Blockchain]] (15), [[Swift (Programming Language)|Swift]] (1), api (1), application (1), next (1)
 > **Code Identifiers:** blockchaincontroller (3), blockchainservice (2), blockchaincontrollers (1)
 > **Definitions:** is a  (4), means that (1), is called (1)
 > **CLI Commands:** make (3)
@@ -1807,7 +1808,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (4), this. (2), type, (2), private (1)
+> **Frameworks & Libraries:** [[Blockchain]] (39), application (2), cloud (2), [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** getblockchain (4), genesisblock (1), blockchaincontroller (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (4), click on (1)
@@ -1965,7 +1966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), function (7), class. (4), pass (2), self (2)
+> **Frameworks & Libraries:** [[Blockchain]] (21), [[JSON]] (11), next (5), web (1), api (1)
 > **Env Vars:** json (11), url (5), api (1), post (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (2), make (1)
@@ -1978,7 +1979,7 @@ created: 2026-04-29
 
 ### 5. Decentralizing Blockchain
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating node models
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980)
@@ -2297,7 +2298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (29), function (14), pass (5), self (4), this. (3)
+> **Frameworks & Libraries:** [[Blockchain]] (47), node (27), application (8), [[JSON]] (3), cloud (2)
 > **CLI Commands:** node (27), make (4), find (1)
 > **UI Navigation:** go to (9), open the (1)
 > **Env Vars:** url (5), json (3)
@@ -2407,7 +2408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1), from, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (26), node (3), [[JSON]] (3), application (1), next (1)
 > **CLI Commands:** node (3), make (1), find (1)
 > **Definitions:** is called (2), means that (1)
 > **Env Vars:** url (2)
@@ -2529,7 +2530,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (20), function (5), self (2), case. (1), pass (1)
+> **Frameworks & Libraries:** [[Blockchain]] (38), node (7), data (3), [[Swift (Programming Language)|Swift]] (2), [[Debugging]] (1)
 > **CLI Commands:** node (7), make (2)
 > **Env Vars:** url (6), post (2), json (1)
 > **Code Identifiers:** eventloop (1), newpromise (1), blockchainservice (1), futureresult (1), blockchaincontroller (1)

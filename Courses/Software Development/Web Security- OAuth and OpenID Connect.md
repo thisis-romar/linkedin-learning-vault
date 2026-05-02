@@ -20,7 +20,7 @@ tags:
   - topic/software-development
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Web%20Security-%20OAuth%20and%20OpenID%20Connect.md)
@@ -39,60 +39,60 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Using OAuth 2.0 and OpenID Connect
-  - What you should know
-  - How to use code for this course
+  - [Using OAuth 2.0 and OpenID Connect](#using-oauth-20-and-openid-connect)
+  - [What you should know](#what-you-should-know)
+  - [How to use code for this course](#how-to-use-code-for-this-course)
 - [**1. What Is OAuth?**](#1-what-is-oauth) (3 videos)
-  - Describing OAuth 2.0
-  - Making OAuth 2.0 useful with extensions
-  - Extending OAuth 2.0 with OpenID Connect
+  - [Describing OAuth 2.0](#describing-oauth-20)
+  - [Making OAuth 2.0 useful with extensions](#making-oauth-20-useful-with-extensions)
+  - [Extending OAuth 2.0 with OpenID Connect](#extending-oauth-20-with-openid-connect)
 - [**2. Foundational Concepts**](#2-foundational-concepts) (5 videos)
-  - OAuth 2.0 fundamentals
-  - Touring the OAuth endpoints
-  - Grant type overview
-  - Designing and using OAuth scopes
-  - Using the OAuth playground
+  - [OAuth 2.0 fundamentals](#oauth-20-fundamentals)
+  - [Touring the OAuth endpoints](#touring-the-oauth-endpoints)
+  - [Grant type overview](#grant-type-overview)
+  - [Designing and using OAuth scopes](#designing-and-using-oauth-scopes)
+  - [Using the OAuth playground](#using-the-oauth-playground)
 - [**3. OAuth Tokens**](#3-oauth-tokens) (3 videos)
-  - OAuth 2.0 tokens
-  - Validating JWTs
-  - Handling tokens safely and securely
+  - [OAuth 2.0 tokens](#oauth-20-tokens)
+  - [Validating JWTs](#validating-jwts)
+  - [Handling tokens safely and securely](#handling-tokens-safely-and-securely)
 - [**4. Grant Type: Authorization Code**](#4-grant-type-authorization-code) (7 videos)
-  - Overview: Authorization Code Flow
-  - When should you use this?
-  - Lab: Build an example (web app or Postman)
-  - Auth-Code and PKCE overview
-  - When should you use PKCE?
-  - Lab: Build an example (native app or spa)
-  - Security considerations
+  - [Overview: Authorization Code Flow](#overview-authorization-code-flow)
+  - [When should you use this?](#when-should-you-use-this)
+  - [Lab: Build an example (web app or Postman)](#lab-build-an-example-web-app-or-postman)
+  - [Auth-Code and PKCE overview](#auth-code-and-pkce-overview)
+  - [When should you use PKCE?](#when-should-you-use-pkce)
+  - [Lab: Build an example (native app or spa)](#lab-build-an-example-native-app-or-spa)
+  - [Security considerations](#security-considerations)
 - [**5. Grant Type: Resource Owner Password**](#5-grant-type-resource-owner-password) (4 videos)
-  - Overview: Resource Owner Password flow
-  - When should you use this?
-  - Lab: Build an example (curl)
-  - Security considerations
+  - [Overview: Resource Owner Password flow](#overview-resource-owner-password-flow)
+  - [When should you use this?](#when-should-you-use-this)
+  - [Lab: Build an example (curl)](#lab-build-an-example-curl)
+  - [Security considerations](#security-considerations)
 - [**6. Grant Type: Client Credential**](#6-grant-type-client-credential) (4 videos)
-  - Overview: Client Credential Flow
-  - When should you use this?
-  - Lab: Build an example (curl)
-  - Security considerations
+  - [Overview: Client Credential Flow](#overview-client-credential-flow)
+  - [When should you use this?](#when-should-you-use-this)
+  - [Lab: Build an example (curl)](#lab-build-an-example-curl)
+  - [Security considerations](#security-considerations)
 - [**7. Grant Type: Device Grant Type**](#7-grant-type-device-grant-type) (4 videos)
-  - Overview: Device flow
-  - When should you use this?
-  - Lab: Build an example (kiosk)
-  - Security considerations
+  - [Overview: Device flow](#overview-device-flow)
+  - [When should you use this?](#when-should-you-use-this)
+  - [Lab: Build an example (kiosk)](#lab-build-an-example-kiosk)
+  - [Security considerations](#security-considerations)
 - [**8. Using an OAuth Architecture**](#8-using-an-oauth-architecture) (4 videos)
-  - OAuth recommended practices
-  - Lab: Configuring an OAuth server in PHP
-  - Lab: Configuring an OAuth server in Node.js
-  - OAuth 2.0 as a service using Auth0
+  - [OAuth recommended practices](#oauth-recommended-practices)
+  - [Lab: Configuring an OAuth server in PHP](#lab-configuring-an-oauth-server-in-php)
+  - [Lab: Configuring an OAuth server in Node.js](#lab-configuring-an-oauth-server-in-nodejs)
+  - [OAuth 2.0 as a service using Auth0](#oauth-20-as-a-service-using-auth0)
 - [**9. State of the Industry**](#9-state-of-the-industry) (2 videos)
-  - OAuth extensions
-  - Industry-specific OAuth extensions
+  - [OAuth extensions](#oauth-extensions)
+  - [Industry-specific OAuth extensions](#industry-specific-oauth-extensions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using OAuth 2.0 and OpenID Connect
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-oauth-2-0-and-openid-connect?u=76281980)
@@ -119,8 +119,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2)
 > **Env Vars:** api (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
 #### What you should know
@@ -178,10 +178,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Web Development]] (1), data (1)
 > **Env Vars:** http (2), oidc (1), php (1), api (1), json (1)
 > **Versions:** 2.0 (2), 1.0 (2)
 > **Tools:** postman (1), insomnia (1), command line (1)
-> **Code Keywords:** this, (1), let (1)
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** php (1)
 > **URLs:** [jwt.io](https://jwt.io) (1)
@@ -222,10 +222,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (3), [[GitHub]] (2), [[JavaScript]] (1), [[Google]] (1)
 > **CLI Commands:** php (3), composer (1), find (1)
 > **Prerequisites:** you'll need (3), set up (2)
 > **Env Vars:** php (3), mpm (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Tools:** github (2)
 > **Versions:** php 8 (1)
 > **Speakers:** - [instructor] (1)
@@ -233,7 +233,7 @@ created: 2026-04-29
 
 ### 1. What Is OAuth?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing OAuth 2.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/describing-oauth-2-0?u=76281980)
@@ -314,8 +314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), product (1), api (1), [[Security]] (1), data (1)
 > **Versions:** 2.0 (3), 1.0 (1)
-> **Code Keywords:** let (1), delete (1), for. (1)
 > **Analogies:** it's like (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -400,9 +400,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), [[Tokens]] (2), [[Kubernetes]] (1), [[DevOps]] (1), [[JSON]] (1)
 > **Env Vars:** rfc (6), jwt (2), pkce (2), oidc (1), json (1)
 > **Documentation:** rfc (6), specification (2), spec (2)
-> **Code Keywords:** let (2), case, (1), delete (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** docker (1)
 > **Cross-References:** in the next (1)
@@ -465,6 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Google]] (2), [[Microsoft Azure]] (1), web (1), [[LinkedIn]] (1)
 > **Env Vars:** oidc (2), saml (1), url (1)
 > **Tools:** github (1)
 > **Analogies:** picture (1)
@@ -474,7 +475,7 @@ created: 2026-04-29
 
 ### 2. Foundational Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OAuth 2.0 fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-fundamentals?u=76281980)
@@ -559,7 +560,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), type, (1), finally, (1)
+> **Frameworks & Libraries:** next (3), [[Security]] (1), application (1)
 > **Env Vars:** jwt (1), url (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -635,10 +636,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Tokens]] (2), [[Server Configuration]] (1), application (1)
 > **Env Vars:** rfc (2), url (1), oidc (1), http (1), alt (1)
 > **Documentation:** rfc (2), specification (1), spec (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -703,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), continue (1), type. (1), type, (1)
+> **Frameworks & Libraries:** application (5), next (1)
 > **Env Vars:** url (1), pkce (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -789,7 +790,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1), public (1), case, (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[GitHub]] (2), next (1), product (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** public_repo (1), repo_deployment (1), repo_hook (1)
 > **Env Vars:** url (1), api (1), oidc (1)
 > **CLI Commands:** make (2)
@@ -887,7 +888,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), case, (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Tokens]] (7), [[Analytics]] (3), next (3), api (2)
 > **Env Vars:** api (2), json (1), jwt (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (1), is called (1)
@@ -898,7 +899,7 @@ created: 2026-04-29
 
 ### 3. OAuth Tokens
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OAuth 2.0 tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980)
@@ -955,7 +956,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (2), require (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[JSON]] (2), application (1), web (1), data (1)
 > **Env Vars:** json (2), jwt (2), rfc (1)
 > **Documentation:** specification (2), rfc (1), spec (1)
 > **Definitions:** is a  (3)
@@ -1070,8 +1071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (6), data (4), next (3), [[JSON]] (1), web (1)
 > **CLI Commands:** find (6), make (3)
-> **Code Keywords:** match, (2), public (1), this, (1), finally, (1)
 > **Env Vars:** iss (2), json (1), iat (1)
 > **Documentation:** the documentation (2)
 > **URLs:** [jwt.io](https://jwt.io) (1)
@@ -1162,7 +1163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), case, (2), protected (1), finally, (1), let (1)
+> **Frameworks & Libraries:** [[Tokens]] (5), application (4), [[Security]] (1)
 > **Env Vars:** https (1), rfc (1)
 > **Documentation:** rfc (1)
 > **UI Navigation:** go to (1)
@@ -1173,7 +1174,7 @@ created: 2026-04-29
 
 ### 4. Grant Type: Authorization Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Authorization Code Flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-authorization-code-flow?u=76281980)
@@ -1224,7 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type. (1), protected (1)
+> **Frameworks & Libraries:** application (4), [[Security]] (1), api (1), next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** api (1)
 > **Cross-References:** go back to (1)
@@ -1273,7 +1274,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (1), finally, (1), protected (1), let (1)
+> **Frameworks & Libraries:** application (4), next (1), [[JavaScript]] (1)
 > **Env Vars:** pkce (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1384,7 +1385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (2), type. (1), try. (1), this, (1)
+> **Frameworks & Libraries:** application (2), hit (2)
 > **Tools:** postman (10)
 > **Cross-References:** go back to (6)
 > **CLI Commands:** make (3), find (1)
@@ -1450,7 +1451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (2), new. (1), type, (1), public (1), let (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), web (1), application (1), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Env Vars:** pkce (5), rfc (1)
 > **Documentation:** specification (1), rfc (1)
 > **Versions:** 2.0 (1)
@@ -1510,7 +1511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** next (1), application (1), game (1), [[User Experience (UX)|User experience]] (1), [[Android]] (1)
 > **Code Identifiers:** ios (1)
 > **URLs:** [appauth.io](https://appauth.io) (1)
 > **Env Vars:** pkce (1)
@@ -1617,8 +1618,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (9), hit (4), [[npm]] (3), web (2), [[JSON]] (2)
 > **CLI Commands:** make (8), npm (3), unzip (1)
-> **Code Keywords:** let (8), case, (1), finally, (1), from. (1), this, (1)
 > **Env Vars:** pkce (4), url (3), json (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -1673,8 +1674,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Tokens]] (3), [[Google]] (1), web (1), next (1)
 > **Env Vars:** pkce (2), tls (1), uri (1), rfc (1)
-> **Code Keywords:** let (2), finally, (1), type, (1)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Analogies:** such as (1), just like (1)
 > **Documentation:** rfc (1)
@@ -1683,7 +1684,7 @@ created: 2026-04-29
 
 ### 5. Grant Type: Resource Owner Password
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Resource Owner Password flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-resource-owner-password-flow?u=76281980)
@@ -1726,7 +1727,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), protected (1)
+> **Frameworks & Libraries:** application (6), api (1), next (1)
 > **Env Vars:** api (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1764,7 +1765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else, (1), while, (1), case, (1)
+> **Frameworks & Libraries:** [[Security]] (3)
 > **Cross-References:** go back to (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
@@ -1810,8 +1811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (2), hit (1)
 > **CLI Commands:** php (2), make (2), curl (1)
-> **Code Keywords:** let (2), interface (1), case, (1), this, (1)
 > **Env Vars:** php (2), http (1)
 > **UI Navigation:** go to (3)
 > **URLs:** [jwt.io](https://jwt.io) (2)
@@ -1882,7 +1883,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), protected (1), private (1), else. (1)
+> **Frameworks & Libraries:** application (7), [[Security]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** tls (1), pkce (1)
 > **Analogies:** just like (1)
@@ -1891,7 +1892,7 @@ created: 2026-04-29
 
 ### 6. Grant Type: Client Credential
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Client Credential Flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980)
@@ -1972,7 +1973,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), let (2), type. (1), finally, (1), interface (1)
+> **Frameworks & Libraries:** application (6), [[Trello]] (3), next (2), [[Active Directory]] (1), [[Google]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -2030,7 +2031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), web (1), aws (1), application (1), [[Microservices]] (1)
 > **Env Vars:** aws (1), api (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** for example (1)
@@ -2143,7 +2144,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), require (1), interface (1), this. (1), type. (1)
+> **Frameworks & Libraries:** [[PHP]] (3), api (2), [[GitHub]] (1)
 > **Env Vars:** php (3), api (2), url (1)
 > **CLI Commands:** php (3), find (1), make (1)
 > **URLs:** [jwt.io](https://jwt.io) (4)
@@ -2189,8 +2190,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (3), [[Security]] (2), application (1), next (1), data (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), case. (1)
 > **Env Vars:** tls (1)
 > **Analogies:** such as (1)
 > **Best Practices:** you should always (1)
@@ -2199,7 +2200,7 @@ created: 2026-04-29
 
 ### 7. Grant Type: Device Grant Type
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Device flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-device-flow?u=76281980)
@@ -2248,8 +2249,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (1), application (1)
 > **Env Vars:** uri (3), url (2), rfc (1), hdb (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.0 (1)
 > **Documentation:** rfc (1)
@@ -2297,7 +2298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (4), let (1)
+> **Frameworks & Libraries:** next (1), game (1), [[Privacy]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** url (1)
 > **Cross-References:** go back to (1)
@@ -2354,7 +2355,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2), protected (1), abstract (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (1), [[GitHub]] (1)
 > **Env Vars:** url (3)
 > **CLI Commands:** make (1)
 > **URLs:** [oauth.com](https://oauth.com) (1)
@@ -2418,8 +2419,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), api (2), next (1), application (1)
 > **Env Vars:** url (6), api (2), ssl (1), tls (1)
-> **Code Keywords:** type, (1), let (1), this, (1), finally, (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2427,7 +2428,7 @@ created: 2026-04-29
 
 ### 8. Using an OAuth Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OAuth recommended practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980)
@@ -2520,7 +2521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), finally, (2), type, (1)
+> **Frameworks & Libraries:** api (6), [[Tokens]] (5), application (3), next (3), [[Security]] (2)
 > **Env Vars:** api (6), ssl (1), tls (1)
 > **Versions:** 2.0 (1)
 > **Cross-References:** we talked about (1)
@@ -2592,8 +2593,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (5), open-source (3), next (1), [[Tokens]] (1), [[Security]] (1)
 > **CLI Commands:** php (5), composer (2), make (2)
-> **Code Keywords:** let (3), public (2), private (1), finally, (1)
 > **Env Vars:** php (5), http (1), phpo (1)
 > **Prerequisites:** set up (2), install (1), getting started (1)
 > **Versions:** 2.0 (1)
@@ -2666,8 +2667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[PHP]] (1), [[JavaScript]] (1), node (1)
 > **CLI Commands:** make (4), php (1), node (1)
-> **Code Keywords:** let (3), default, (1), this, (1)
 > **Prerequisites:** install (3), set up (2)
 > **Env Vars:** readme (2), php (1)
 > **Cross-References:** go back to (2)
@@ -2740,9 +2741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[GitHub]] (1), [[User Management]] (1), next (1), api (1)
 > **UI Navigation:** go to (5), scroll down (2), click on (1)
 > **Prerequisites:** set up (8)
-> **Code Keywords:** let (2), case, (2), this, (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** url (1), api (1)
 > **Code Identifiers:** other_oauth_server (1)
@@ -2752,7 +2753,7 @@ created: 2026-04-29
 
 ### 9. State of the Industry
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### OAuth extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980)
@@ -2833,9 +2834,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (6), next (2), data (1), [[JSON]] (1), web (1)
 > **Documentation:** rfc (11), specification (4), spec (3)
 > **Env Vars:** rfc (11), url (1), jwt (1), json (1), jwe (1)
-> **Code Keywords:** let (11), pass (2), case. (1), finally, (1)
 > **CLI Commands:** make (3)
 > **Versions:** 2.0 (1)
 > **Definitions:** known as (1)
@@ -2899,8 +2900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (5), data (4), [[Microsoft Office|Office]] (1), api (1), power (1)
 > **Env Vars:** smart (3), fhir (3), heart (2), oidc (1), api (1)
-> **Code Keywords:** let (1), require (1)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -2908,7 +2909,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/next-steps?u=76281980)
@@ -2967,10 +2968,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), management (1)
 > **Versions:** 2.0 (2), 2.1 (1)
 > **CLI Commands:** find (2)
 > **URLs:** [oauth.com](https://oauth.com) (2)
-> **Code Keywords:** else, (1)
 > **Speakers:** - before (1)
 
 

@@ -28,7 +28,7 @@ tags:
   - skill/business-analytics
   - skill/sales-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics-%20Sales%20Data%20(2022).md)
@@ -47,39 +47,39 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Generating sales insights
+  - [Generating sales insights](#generating-sales-insights)
 - [**1. Sales Data 101**](#1-sales-data-101) (5 videos)
-  - Tools to track sales data
-  - Common challenges
-  - Sales metrics to study
-  - Using data source maps
-  - How data is structured
+  - [Tools to track sales data](#tools-to-track-sales-data)
+  - [Common challenges](#common-challenges)
+  - [Sales metrics to study](#sales-metrics-to-study)
+  - [Using data source maps](#using-data-source-maps)
+  - [How data is structured](#how-data-is-structured)
 - [**2. Effective Sales Analysis**](#2-effective-sales-analysis) (6 videos)
-  - Tools for studying your data
-  - Building a PivotChart in Excel
-  - Data visualization basics
-  - Sales dashboard
-  - Reporting infrastructure
-  - Sales and marketing dashboard
+  - [Tools for studying your data](#tools-for-studying-your-data)
+  - [Building a PivotChart in Excel](#building-a-pivotchart-in-excel)
+  - [Data visualization basics](#data-visualization-basics)
+  - [Sales dashboard](#sales-dashboard)
+  - [Reporting infrastructure](#reporting-infrastructure)
+  - [Sales and marketing dashboard](#sales-and-marketing-dashboard)
 - [**3. Types of Sales Analysis**](#3-types-of-sales-analysis) (4 videos)
-  - Type of sales analysis
-  - Identifying seasonality
-  - Categorical analysis
-  - Regional analysis
+  - [Type of sales analysis](#type-of-sales-analysis)
+  - [Identifying seasonality](#identifying-seasonality)
+  - [Categorical analysis](#categorical-analysis)
+  - [Regional analysis](#regional-analysis)
 - [**4. Tools to Analyze Sales Data**](#4-tools-to-analyze-sales-data) (3 videos)
-  - Sales analysis with Google Analytics
-  - Sales analysis with Tableau
-  - Sales analysis with Power BI
+  - [Sales analysis with Google Analytics](#sales-analysis-with-google-analytics)
+  - [Sales analysis with Tableau](#sales-analysis-with-tableau)
+  - [Sales analysis with Power BI](#sales-analysis-with-power-bi)
 - [**5. Additional Resources**](#5-additional-resources) (3 videos)
-  - Tableau forums
-  - Utilizing Reddit
-  - Watching YouTube
+  - [Tableau forums](#tableau-forums)
+  - [Utilizing Reddit](#utilizing-reddit)
+  - [Watching YouTube](#watching-youtube)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Time to analyze
+  - [Time to analyze](#time-to-analyze)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating sales insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980)
@@ -108,14 +108,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Analytics]] (3), power (1), business (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - as (1)
 
 
 ### 1. Sales Data 101
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools to track sales data
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980)
@@ -178,9 +178,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Analytics]] (5), [[Google]] (4), product (3), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this, (1), finally, (1)
 > **Env Vars:** crm (2)
 > **Prerequisites:** setup (2)
 > **Exercise Files:** download the (1)
@@ -260,6 +260,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (26), business (3), [[Microsoft Excel|Excel]] (1), product (1), management (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
 > **UI Navigation:** dropdown (1)
@@ -339,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (5), [[Hardware]] (4), business (2), [[Analytics]] (1), product (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -402,9 +403,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[Microsoft Products|Products]] (4), next (2), product (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [narrator] (1)
 
 #### How data is structured
@@ -448,15 +449,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Effective Sales Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools for studying your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980)
@@ -513,9 +514,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), [[Analytics]] (3), [[Infographics]] (2), [[Tableau]] (2)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** function (1)
 > **Speakers:** - [narrator] (1)
 
 #### Building a PivotChart in Excel
@@ -579,7 +580,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (1), type, (1), type. (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (3), hit (2), [[Infographics]] (1), next (1)
 > **UI Navigation:** select the (1), click on (1), right-click (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -656,9 +657,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), business (3), [[Dashboards]] (2), [[Microsoft Excel|Excel]] (1), database (1)
 > **Analogies:** such as (3), picture (2), for example (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** self (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Sales dashboard
@@ -716,7 +717,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (2), next (1), [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Sales Strategy]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** known as (1), means that (1)
 > **CLI Commands:** make (1)
@@ -766,6 +767,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2), data (2), hit (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -828,7 +830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), from. (1)
+> **Frameworks & Libraries:** next (3), [[Search]] (2), business (1), traffic (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -836,7 +838,7 @@ created: 2026-04-29
 
 ### 3. Types of Sales Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Type of sales analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980)
@@ -895,6 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Sales Analysis]] (2), product (1), [[Microsoft Products|Products]] (1), [[Sales Strategy]] (1)
 > **Env Vars:** kpi (3)
 > **Definitions:** means that (1), is a  (1), short for (1)
 > **CLI Commands:** find (1)
@@ -960,7 +963,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), type. (1)
+> **Frameworks & Libraries:** hit (3), next (3), business (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** right-click (1)
@@ -1030,9 +1033,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), next (2), [[Sales Strategy]] (1), [[Microsoft Excel|Excel]] (1), data (1)
 > **UI Navigation:** toggle (2), dropdown (2)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** interface (1), type. (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1077,6 +1080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), product (1), [[Tableau]] (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1084,7 +1088,7 @@ created: 2026-04-29
 
 ### 4. Tools to Analyze Sales Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Sales analysis with Google Analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980)
@@ -1151,7 +1155,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (2)
+> **Frameworks & Libraries:** data (5), product (5), [[Google]] (4), [[Analytics]] (4), next (3)
 > **UI Navigation:** click on (1), toggle (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1220,8 +1224,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Tableau]] (3), next (3), hit (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2)
 > **UI Navigation:** dropdown (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1283,14 +1287,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), power (5), bi (5), feature (1)
 > **Definitions:** is a  (3), is called (1)
-> **Code Keywords:** let (2), interface (1)
 > **Speakers:** - [narrator] (1)
 
 
 ### 5. Additional Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tableau forums
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980)
@@ -1325,7 +1329,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), let (1)
+> **Frameworks & Libraries:** [[Tableau]] (9), [[Sales Analysis]] (3), [[Analytics]] (2), data (2), [[Search]] (2)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -1361,6 +1365,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Sales Analysis]] (2), data (2), [[Tableau]] (1), power (1), bi (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1395,15 +1400,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (5), [[Search]] (1), [[Google]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** this, (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Time to analyze
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980)
@@ -1430,6 +1435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (10), [[LinkedIn]] (1), product (1), [[Tableau]] (1)
 > **Speakers:** - congratulations (1)
 
 

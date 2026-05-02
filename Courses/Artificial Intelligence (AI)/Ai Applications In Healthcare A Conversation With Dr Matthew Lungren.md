@@ -20,7 +20,7 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Ai%20Applications%20In%20Healthcare%20A%20Conversation%20With%20Dr%20Matthew%20Lungren.md)
@@ -39,29 +39,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Generative AI is revolutionizing healthcare
-  - Meet Dr. Matthew Lungren
+  - [Generative AI is revolutionizing healthcare](#generative-ai-is-revolutionizing-healthcare)
+  - [Meet Dr. Matthew Lungren](#meet-dr-matthew-lungren)
 - [**1. What is AI's Impact on Patient Care?**](#1-what-is-ais-impact-on-patient-care) (3 videos)
-  - How does AI affect the patient experience?
-  - How do AI workflows improve patient-doctor relationships?
-  - How can AI reduce burnout and limited access to care?
+  - [How does AI affect the patient experience?](#how-does-ai-affect-the-patient-experience)
+  - [How do AI workflows improve patient-doctor relationships?](#how-do-ai-workflows-improve-patient-doctor-relationships)
+  - [How can AI reduce burnout and limited access to care?](#how-can-ai-reduce-burnout-and-limited-access-to-care)
 - [**2. How Does AI Impact Workflow Efficency and Data Management?**](#2-how-does-ai-impact-workflow-efficency-and-data-management) (3 videos)
-  - What bottlenecks can AI solve in healthcare?
-  - What data management and security considerations are there?
-  - Why design proprietary AI healthcare systems?
+  - [What bottlenecks can AI solve in healthcare?](#what-bottlenecks-can-ai-solve-in-healthcare)
+  - [What data management and security considerations are there?](#what-data-management-and-security-considerations-are-there)
+  - [Why design proprietary AI healthcare systems?](#why-design-proprietary-ai-healthcare-systems)
 - [**3. What Are the Ethical Considerations of Using AI in Healthcare?**](#3-what-are-the-ethical-considerations-of-using-ai-in-healthcare) (5 videos)
-  - What are the ethical concerns of AI in healthcare?
-  - What does AI bias in healthcare look like?
-  - How does AI-driven healthcare affect informed consent?
-  - How can AI-driven healthcare become accessible to all?
-  - How should healthcare systems set clear standards for AI?
+  - [What are the ethical concerns of AI in healthcare?](#what-are-the-ethical-concerns-of-ai-in-healthcare)
+  - [What does AI bias in healthcare look like?](#what-does-ai-bias-in-healthcare-look-like)
+  - [How does AI-driven healthcare affect informed consent?](#how-does-ai-driven-healthcare-affect-informed-consent)
+  - [How can AI-driven healthcare become accessible to all?](#how-can-ai-driven-healthcare-become-accessible-to-all)
+  - [How should healthcare systems set clear standards for AI?](#how-should-healthcare-systems-set-clear-standards-for-ai)
 - [**4. What's the Future of AI in Healthcare?**](#4-whats-the-future-of-ai-in-healthcare) (2 videos)
-  - What is the future of AI in healthcare?
-  - How should healthcare providers & patients learn and use AI?
+  - [What is the future of AI in healthcare?](#what-is-the-future-of-ai-in-healthcare)
+  - [How should healthcare providers & patients learn and use AI?](#how-should-healthcare-providers-patients-learn-and-use-ai)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI is revolutionizing healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980)
@@ -90,7 +90,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (4), [[Generative AI]] (1), data (1), [[Microsoft]] (1), [[Ethics]] (1)
 > **Speakers:** - generative (1)
 
 #### Meet Dr. Matthew Lungren
@@ -114,13 +114,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), data (1), [[Microsoft]] (1), cloud (1)
 > **Speakers:** - dr (1), - absolutely (1)
 > **Env Vars:** ucsf (1)
 
 
 ### 1. What is AI's Impact on Patient Care?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How does AI affect the patient experience?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980)
@@ -161,9 +162,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (3), [[Healthcare Industry]] (1), [[Generative AI]] (1), [[Microsoft Copilot|Copilot]] (1), hit (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - i (1), - yeah (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 
 #### How do AI workflows improve patient-doctor relationships?
@@ -255,8 +256,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), ai (3), [[Reinforcement Learning]] (1), game (1)
 > **Speakers:** - yeah (3), - let (1), - i (1), - but (1)
-> **Code Keywords:** let (1), super (1), this, (1), continue (1), for. (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** just like (2), similar to (1)
 > **Definitions:** is a  (2)
@@ -350,8 +351,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[GPT-4]] (1)
 > **Speakers:** - how (1), - yeah (1), - the (1), - and (1), - that (1)
-> **Code Keywords:** if, (1), match. (1), let (1), this, (1)
 > **CLI Commands:** find (2)
 > **Analogies:** kind of like (1), imagine (1)
 > **Env Vars:** gpt (1)
@@ -359,7 +360,7 @@ created: 2026-04-29
 
 ### 2. How Does AI Impact Workflow Efficency and Data Management?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What bottlenecks can AI solve in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-bottlenecks-can-ai-can-solve-in-healthcare?u=76281980)
@@ -426,7 +427,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), require (1)
+> **Frameworks & Libraries:** ai (1), game (1)
 > **Speakers:** - you (1), - absolutely (1)
 > **CLI Commands:** make (1)
 
@@ -479,7 +480,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1), this, (1), let (1), for, (1)
+> **Frameworks & Libraries:** data (6), [[Generative AI]] (4), [[Security]] (2), [[Privacy]] (2), [[ChatGPT]] (2)
 > **Env Vars:** ucsf (2), nyu (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
@@ -508,14 +509,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Speakers:** - building (1), - yeah (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** gpt (1)
 
 
 ### 3. What Are the Ethical Considerations of Using AI in Healthcare?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the ethical concerns of AI in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980)
@@ -612,9 +613,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Ethics]] (2), [[Automation]] (2), [[Generative AI]] (1), [[Engineering]] (1)
 > **Speakers:** - let (1), - there (1), - thank (1), - right (1), - iterating (1)
 > **CLI Commands:** make (3), snap (1)
-> **Code Keywords:** let (1), override (1), this, (1), from, (1)
 > **Analogies:** just like (1), it's like (1)
 > **Definitions:** is an  (1)
 
@@ -675,9 +676,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (2), next (2), [[Microsoft Word|Word]] (2), data (1), ai (1)
 > **CLI Commands:** find (4), make (1)
 > **Speakers:** - can (1), - absolutely (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 
 #### How does AI-driven healthcare affect informed consent?
@@ -761,7 +762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), public (1), super (1), let (1), pass (1)
+> **Frameworks & Libraries:** ai (4), [[Generative AI]] (3), [[Microsoft Copilot|Copilot]] (2), power (1), web (1)
 > **Code Identifiers:** iphone (4)
 > **Speakers:** - how (1), - i (1), - absolutely (1), - no (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -831,9 +832,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), application (1), [[Algorithms]] (1), [[ChatGPT]] (1), chatbot (1)
 > **CLI Commands:** make (5), find (2)
 > **Speakers:** - how (1), - yeah (1), - you (1), - absolutely (1)
-> **Code Keywords:** else, (1), match, (1)
 > **Analogies:** imagine (2)
 > **Warnings:** caution (1)
 
@@ -904,8 +905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Security]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - as (1), - yeah (1)
 > **Env Vars:** chai (1)
 > **Definitions:** in other words (1)
@@ -914,7 +915,7 @@ created: 2026-04-29
 
 ### 4. What's the Future of AI in Healthcare?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the future of AI in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980)
@@ -971,10 +972,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), ai (1), [[GPT-4]] (1), [[Generative AI]] (1), next (1)
 > **Speakers:** - i (1), - yeah (1), - what (1), - right (1), - no (1)
 > **Analogies:** picture (2), it's like (1), imagine (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (1), raise (1)
 > **Env Vars:** gpt (1), mri (1)
 
 #### How should healthcare providers & patients learn and use AI?
@@ -1060,9 +1061,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3)
 > **CLI Commands:** make (2), find (2)
 > **Speakers:** - what (1), - yeah (1), - thank (1), - i (1)
-> **Code Keywords:** continue (2), finally, (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** kind of like (1)
 

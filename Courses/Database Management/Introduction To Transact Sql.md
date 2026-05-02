@@ -28,7 +28,7 @@ tags:
   - skill/transact-sql-t-sql
   - skill/sql
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Introduction%20To%20Transact%20Sql.md)
@@ -47,47 +47,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Transact-SQL
-  - What you should know
-  - What is T-SQL?
-  - CoderPad tour
+  - [Transact-SQL](#transact-sql)
+  - [What you should know](#what-you-should-know)
+  - [What is T-SQL?](#what-is-t-sql)
+  - [CoderPad tour](#coderpad-tour)
 - [**1. Introducing SELECT**](#1-introducing-select) (4 videos)
-  - Structure of a SELECT statement
-  - Aliasing columns and tables
-  - Adding calculations to your result set
-  - Solution: Simple SELECT statement
+  - [Structure of a SELECT statement](#structure-of-a-select-statement)
+  - [Aliasing columns and tables](#aliasing-columns-and-tables)
+  - [Adding calculations to your result set](#adding-calculations-to-your-result-set)
+  - [Solution: Simple SELECT statement](#solution-simple-select-statement)
 - [**2. Filtering the Result Set**](#2-filtering-the-result-set) (7 videos)
-  - Filtering data with WHERE using equalities
-  - Handling inequalities with WHERE clauses
-  - Find rows where strings partially match
-  - Filtering numeric data
-  - Combining multiple operators into one WHERE clause
-  - Understanding how NULL data affects query results
-  - Solution: Filtered SELECT statement
+  - [Filtering data with WHERE using equalities](#filtering-data-with-where-using-equalities)
+  - [Handling inequalities with WHERE clauses](#handling-inequalities-with-where-clauses)
+  - [Find rows where strings partially match](#find-rows-where-strings-partially-match)
+  - [Filtering numeric data](#filtering-numeric-data)
+  - [Combining multiple operators into one WHERE clause](#combining-multiple-operators-into-one-where-clause)
+  - [Understanding how NULL data affects query results](#understanding-how-null-data-affects-query-results)
+  - [Solution: Filtered SELECT statement](#solution-filtered-select-statement)
 - [**3. Manipulating the Result Set**](#3-manipulating-the-result-set) (4 videos)
-  - ORDER BY
-  - TOP
-  - DISTINCT
-  - Solution: Intermediate SELECT statement
+  - [ORDER BY](#order-by)
+  - [TOP](#top)
+  - [DISTINCT](#distinct)
+  - [Solution: Intermediate SELECT statement](#solution-intermediate-select-statement)
 - [**4. Joins**](#4-joins) (5 videos)
-  - INNER JOIN
-  - LEFT JOIN
-  - FULL OUTER JOIN
-  - Combining more than two tables
-  - Solution: Joins
+  - [INNER JOIN](#inner-join)
+  - [LEFT JOIN](#left-join)
+  - [FULL OUTER JOIN](#full-outer-join)
+  - [Combining more than two tables](#combining-more-than-two-tables)
+  - [Solution: Joins](#solution-joins)
 - [**5. DDL and DML: Creating and Changing Data**](#5-ddl-and-dml-creating-and-changing-data) (6 videos)
-  - Create a table
-  - Insert data into a table
-  - Update data within a table
-  - Delete data from a table
-  - TRUNCATE a table
-  - Update data with a join
+  - [Create a table](#create-a-table)
+  - [Insert data into a table](#insert-data-into-a-table)
+  - [Update data within a table](#update-data-within-a-table)
+  - [Delete data from a table](#delete-data-from-a-table)
+  - [TRUNCATE a table](#truncate-a-table)
+  - [Update data with a join](#update-data-with-a-join)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transact-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980)
@@ -112,8 +112,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), data (3), [[Databases]] (3), [[SQL]] (2), [[Relational Databases]] (1)
 > **Env Vars:** sql (7), select (1), mvp (1)
-> **Code Keywords:** case, (1)
 > **SQL:** select (1)
 > **Speakers:** - relational (1)
 
@@ -146,10 +146,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[Microsoft SQL Server|Sql server]] (2), [[Relational Databases]] (1), management (1), [[Microsoft]] (1)
 > **Env Vars:** tsql (2), sql (2), dba (1)
 > **CLI Commands:** docker (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** finally, (1), let (1)
 > **URLs:** [dbatools.io](https://dbatools.io) (1)
 > **Tools:** github (1)
 > **Prerequisites:** set up (1)
@@ -192,9 +192,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (8), [[Microsoft SQL Server|Sql server]] (5), [[Databases]] (4), data (3), database (3)
 > **Env Vars:** sql (14)
 > **Definitions:** is a  (2), is an  (1), known as (1), stands for (1)
-> **Code Keywords:** let (2), case, (1), delete (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -231,6 +231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
@@ -238,7 +239,7 @@ created: 2026-04-29
 
 ### 1. Introducing SELECT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structure of a SELECT statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980)
@@ -301,9 +302,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (3), [[Microsoft SQL Server|Sql server]] (2), business (1), [[Databases]] (1)
 > **Env Vars:** select (7), sql (3)
 > **SQL:** select (7)
-> **Code Keywords:** let (1), from. (1), case, (1), return. (1)
 > **Analogies:** imagine (1), for example (1), just like (1)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
@@ -359,9 +360,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), next (1)
 > **SQL:** select (5)
 > **Env Vars:** select (5)
-> **Code Keywords:** let (1), case, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
@@ -411,9 +412,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), database (1)
 > **Env Vars:** sql (3), select (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** dm_db_partition_stats (1)
 > **SQL:** select (1)
 > **Prerequisites:** you'll need (1)
@@ -448,7 +449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), type. (1)
+> **Frameworks & Libraries:** next (1)
 > **SQL:** select (1)
 > **Env Vars:** select (1)
 > **Cross-References:** in the next (1)
@@ -458,7 +459,7 @@ created: 2026-04-29
 
 ### 2. Filtering the Result Set
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering data with WHERE using equalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980)
@@ -501,9 +502,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **Env Vars:** where (5), select (4), sql (2)
 > **SQL:** where (5), select (4)
-> **Code Keywords:** this, (2), let (1), for. (1), case, (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -555,9 +556,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[SQL]] (3), [[Programming]] (1)
 > **Env Vars:** usa (4), sql (3), ansi (1)
 > **CLI Commands:** find (7)
-> **Code Keywords:** include. (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -619,9 +620,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (4), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), [[Search]] (2)
 > **CLI Commands:** find (6)
 > **Env Vars:** sql (5), where (1)
-> **Code Keywords:** let (2), default, (2), case, (1)
 > **SQL:** where (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -695,8 +696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (4), database (1), [[SQL]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (4)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -758,7 +759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), data (1), [[SQL]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -812,8 +813,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Definitions:** is a  (4), basically means (1), is an  (1)
-> **Code Keywords:** default. (1), default, (1), this. (1), this, (1)
 > **Env Vars:** sql (3), ansi_nulls (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** similar to (1)
@@ -864,7 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), type. (1)
+> **Frameworks & Libraries:** next (1), [[SQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Warnings:** note that (1)
@@ -874,7 +875,7 @@ created: 2026-04-29
 
 ### 3. Manipulating the Result Set
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ORDER BY
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980)
@@ -933,9 +934,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), data (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** order (6), sql (1)
 > **SQL:** order by (6)
-> **Code Keywords:** default. (1), case, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -986,9 +987,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (3), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
 > **Env Vars:** sql (2), dbo (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### DISTINCT
@@ -1030,7 +1031,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), case, (1)
 > **Env Vars:** alfki (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -1074,6 +1074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
@@ -1083,7 +1084,7 @@ created: 2026-04-29
 
 ### 4. Joins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### INNER JOIN
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980)
@@ -1164,7 +1165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), finally, (1), from. (1)
+> **Frameworks & Libraries:** data (5), [[Databases]] (2), next (2), database (1), [[SQL]] (1)
 > **Definitions:** means that (2), is a  (2)
 > **Env Vars:** sql (2)
 > **Analogies:** for example (1)
@@ -1229,10 +1230,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), data (3), next (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** join (7), left (4), inner (2), where (1)
 > **SQL:** left join (4), inner join (2), join (1), where (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** return, (1), this. (1)
 > **Definitions:** means that (1), is a  (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -1282,9 +1283,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1352,9 +1353,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (2), database (1), [[SQL]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** let (2)
 > **Analogies:** picture (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1394,7 +1395,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **SQL:** select (1)
 > **Env Vars:** select (1)
@@ -1404,7 +1405,7 @@ created: 2026-04-29
 
 ### 5. DDL and DML: Creating and Changing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980)
@@ -1499,7 +1500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (5), delete (1), type, (1), let (1), case, (1)
+> **Frameworks & Libraries:** data (20), next (4), database (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1)
 > **Env Vars:** varchar (2), datetime2 (2), int (1), sql (1), varcharmax (1)
 > **SQL:** varchar (2)
 > **Definitions:** is a  (2)
@@ -1575,7 +1576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (2), pass (1), function (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sp_help (3), sql (2)
 > **Code Identifiers:** stg_animals (1)
 > **Cross-References:** in the last (1)
@@ -1642,7 +1643,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (2), finally, (1)
+> **Frameworks & Libraries:** data (7), next (1), database (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1697,7 +1698,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (2), finally, (1)
+> **Frameworks & Libraries:** data (9), next (2)
 > **Code Identifiers:** ismammal (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -1756,8 +1757,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), next (1), [[Data Manipulation]] (1), power (1)
 > **Env Vars:** truncate (5), table (5), where (2), select (2), top (1)
-> **Code Keywords:** delete (6), let (1)
 > **SQL:** where (2), select (2)
 > **Warnings:** caveat (1), be careful (1)
 > **CLI Commands:** make (1)
@@ -1822,8 +1823,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** select (3), update (2), delete (2), alter (2), table (2)
-> **Code Keywords:** delete (5), let (1), this. (1), case, (1), this, (1)
 > **SQL:** select (3), update (2), alter table (2), varchar (1), inner join (1)
 > **Code Identifiers:** stg_animals (4)
 > **API Endpoints:** delete  (2)
@@ -1832,7 +1833,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980)
@@ -1865,9 +1866,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), [[LinkedIn]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Search]] (1), [[Performance Tuning]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** find (3)
-> **Code Keywords:** continue (2), let (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -27,7 +27,7 @@ tags:
   - topic/security
   - skill/microservices
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Microservices%20Foundations.md)
@@ -46,41 +46,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - What you need to know
+  - [Welcome](#welcome)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Welcome to Microservices**](#1-welcome-to-microservices) (6 videos)
-  - History of service-based architectures
-  - The monolithic application
-  - Service-oriented architecture
-  - Microservices: The new kid on the block
-  - Microservices: Solver of problems but not the silver bullet
-  - Microservices and cloud native
+  - [History of service-based architectures](#history-of-service-based-architectures)
+  - [The monolithic application](#the-monolithic-application)
+  - [Service-oriented architecture](#service-oriented-architecture)
+  - [Microservices: The new kid on the block](#microservices-the-new-kid-on-the-block)
+  - [Microservices: Solver of problems but not the silver bullet](#microservices-solver-of-problems-but-not-the-silver-bullet)
+  - [Microservices and cloud native](#microservices-and-cloud-native)
 - [**2. Microservices Core Concepts**](#2-microservices-core-concepts) (8 videos)
-  - The services
-  - The communication dance
-  - Distribution and scale
-  - The dangers of latency and gridlock
-  - Bounded context
-  - Data domains as a service boundary
-  - No ACID, only BASE
-  - The API layer
+  - [The services](#the-services)
+  - [The communication dance](#the-communication-dance)
+  - [Distribution and scale](#distribution-and-scale)
+  - [The dangers of latency and gridlock](#the-dangers-of-latency-and-gridlock)
+  - [Bounded context](#bounded-context)
+  - [Data domains as a service boundary](#data-domains-as-a-service-boundary)
+  - [No ACID, only BASE](#no-acid-only-base)
+  - [The API layer](#the-api-layer)
 - [**3. Microservices Advanced Concepts**](#3-microservices-advanced-concepts) (4 videos)
-  - Asynchronous communications
-  - Logging and tracing in a microservices architecture
-  - Continuous delivery as a requirement
-  - Hybrid architectures: Hierarchy and service-based
+  - [Asynchronous communications](#asynchronous-communications)
+  - [Logging and tracing in a microservices architecture](#logging-and-tracing-in-a-microservices-architecture)
+  - [Continuous delivery as a requirement](#continuous-delivery-as-a-requirement)
+  - [Hybrid architectures: Hierarchy and service-based](#hybrid-architectures-hierarchy-and-service-based)
 - [**4. Making Architecture Choices**](#4-making-architecture-choices) (5 videos)
-  - Design considerations
-  - The tradeoffs
-  - An argument for edge services
-  - Embracing DevOps
-  - Monolithic microservices
+  - [Design considerations](#design-considerations)
+  - [The tradeoffs](#the-tradeoffs)
+  - [An argument for edge services](#an-argument-for-edge-services)
+  - [Embracing DevOps](#embracing-devops)
+  - [Monolithic microservices](#monolithic-microservices)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/welcome?u=76281980)
@@ -101,6 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (3)
 > **Speakers:** - today (1)
 
 #### What you need to know
@@ -148,16 +149,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Software Development]] (2), teams (1), [[React.js|React]] (1), [[GraphQL]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** grpc (1), http (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - making (1)
 
 
 ### 1. Welcome to Microservices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### History of service-based architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980)
@@ -230,8 +231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[Microservices]] (4), application (3), data (1), functional (1)
 > **Env Vars:** soap (4), soa (3), http (3), xml (2), grpc (1)
-> **Code Keywords:** from. (1), pass (1), continue (1), require (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
@@ -312,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), pass (1), this, (1)
+> **Frameworks & Libraries:** application (5), business (2), web (2), feature (2), [[Java]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** j2ee (1)
 > **Definitions:** is a  (1)
@@ -383,6 +384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), career (1), web (1)
 > **Env Vars:** soap (11), soa (4), xml (2), wsdl (1), bpo (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - i (1)
@@ -456,8 +458,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (12), open-source (2), [[Hardware]] (2), [[Software Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** soa (3), rest (1), oss (1)
-> **Code Keywords:** let (1), this, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - microservices (1)
 
@@ -522,8 +524,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (10), teams (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (1), continue (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - every (1)
 
@@ -594,7 +596,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (2), case. (1), private (1), self (1)
+> **Frameworks & Libraries:** cloud (19), [[Microservices]] (10), [[Cloud Infrastructure]] (1), aws (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
@@ -603,7 +605,7 @@ created: 2026-04-29
 
 ### 2. Microservices Core Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The services
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980)
@@ -690,8 +692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (8), data (3), business (2), [[Representational State Transfer (REST)|Rest]] (1), [[GraphQL]] (1)
 > **Env Vars:** http (3), rest (1), grpc (1), oop (1)
-> **Code Keywords:** let (2), type. (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
@@ -773,10 +775,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Representational State Transfer (REST)|Rest]] (2), teams (2), api (2), traffic (1)
 > **Env Vars:** http (4), rest (2), api (2), soap (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** python (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is called (1)
 > **Speakers:** - in (1)
 
@@ -863,7 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Microservices]] (9), [[Scalability]] (6), application (4), data (3), power (2)
 > **Cross-References:** in the next (2)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -929,8 +931,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Search]] (2), traffic (1), application (1), web application (1)
 > **Analogies:** for instance (2)
-> **Code Keywords:** function (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
@@ -998,7 +1000,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), let (1), self (1), for. (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), data (2), traffic (2), application (1), [[Search]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for instance (1)
@@ -1062,8 +1064,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (5), [[Microservices]] (4), [[Databases]] (2), api (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** yield (1)
 > **Env Vars:** api (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -1145,9 +1147,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Microservices]] (5), database (1), application (1), [[Banking]] (1)
 > **Env Vars:** acid (6), soa (2), base (2)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), continue (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - let (1)
 
@@ -1198,9 +1200,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (14), [[Microservices]] (2), data (1)
 > **Env Vars:** api (14)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** interface (1), for, (1), let (1), case, (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** configure (1)
@@ -1209,7 +1211,7 @@ created: 2026-04-29
 
 ### 3. Microservices Advanced Concepts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Asynchronous communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/asynchronous-communications?u=76281980)
@@ -1270,7 +1272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2)
+> **Frameworks & Libraries:** data (14), [[Microservices]] (3), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
@@ -1323,6 +1325,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (4), teams (2), [[Virtual Machines]] (1), [[Troubleshooting]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
@@ -1388,8 +1391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Automation]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), ci (2), cd (2)
 > **CLI Commands:** make (3), cd (2)
-> **Code Keywords:** let (1), self (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - when (1)
 
@@ -1462,7 +1465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), pass (1), extends (1)
+> **Frameworks & Libraries:** data (7), [[Microservices]] (6), business (5), teams (1), database (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** soa (1)
@@ -1471,7 +1474,7 @@ created: 2026-04-29
 
 ### 4. Making Architecture Choices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Design considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980)
@@ -1526,7 +1529,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), this. (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), data (3), business (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Env Vars:** sdlc (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** required to (1)
@@ -1595,7 +1598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), module (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), business (2), next (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), strengths (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -1691,7 +1694,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), abstract (1), case. (1), this. (1)
+> **Frameworks & Libraries:** api (5), data (2), [[Microservices]] (1), [[Email Marketing]] (1)
 > **Env Vars:** api (5), soa (1), smtp (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (2)
@@ -1788,8 +1791,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microservices]] (11), [[DevOps]] (7), [[Automation]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), strengths (1)
 > **CLI Commands:** make (1), cd (1)
-> **Code Keywords:** function (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - throughout (1)
@@ -1859,14 +1862,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), this, (1), continue (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), application (3), ci (2), cd (2), data (1)
 > **CLI Commands:** cd (2)
 > **Speakers:** - not (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/next-steps?u=76281980)
@@ -1915,7 +1918,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), continue (1), public (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), cloud (1), api (1), ci (1), cd (1)
 > **CLI Commands:** cd (1)
 > **Env Vars:** api (1)
 > **Cross-References:** we discussed (1)

@@ -29,7 +29,7 @@ tags:
   - topic/devops
   - skill/jenkins
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jenkins%20Essential%20Training.md)
@@ -48,52 +48,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - From code to production with Jenkins
-  - What you should know
+  - [From code to production with Jenkins](#from-code-to-production-with-jenkins)
+  - [What you should know](#what-you-should-know)
 - [**1. Jenkins and DevOps**](#1-jenkins-and-devops) (3 videos)
-  - Jenkins and the DevOps lifecycle
-  - Challenge: Deploy a Jenkins server
-  - Solution: Deploy a Jenkins server
+  - [Jenkins and the DevOps lifecycle](#jenkins-and-the-devops-lifecycle)
+  - [Challenge: Deploy a Jenkins server](#challenge-deploy-a-jenkins-server)
+  - [Solution: Deploy a Jenkins server](#solution-deploy-a-jenkins-server)
 - [**2. The Jenkins Pipeline**](#2-the-jenkins-pipeline) (8 videos)
-  - Create a pipeline project
-  - Create a declarative pipeline
-  - Use the pipeline Snippet Generator
-  - Use variables in a pipeline
-  - Parameterize a pipeline
-  - Use conditional expressions and manual approvals
-  - Challenge: Develop a parameterized pipeline
-  - Solution: Develop a parameterized pipeline
+  - [Create a pipeline project](#create-a-pipeline-project)
+  - [Create a declarative pipeline](#create-a-declarative-pipeline)
+  - [Use the pipeline Snippet Generator](#use-the-pipeline-snippet-generator)
+  - [Use variables in a pipeline](#use-variables-in-a-pipeline)
+  - [Parameterize a pipeline](#parameterize-a-pipeline)
+  - [Use conditional expressions and manual approvals](#use-conditional-expressions-and-manual-approvals)
+  - [Challenge: Develop a parameterized pipeline](#challenge-develop-a-parameterized-pipeline)
+  - [Solution: Develop a parameterized pipeline](#solution-develop-a-parameterized-pipeline)
 - [**3. Integrate Jenkins with Version Control Systems**](#3-integrate-jenkins-with-version-control-systems) (6 videos)
-  - Pipeline as code with Jenkinsfile
-  - Connect Jenkins to GitHub
-  - Run scripts from the pipeline
-  - Add a status badge to Markdown files
-  - Challenge: Connect Jenkins to GitHub
-  - Solution: Connect Jenkins to GitHub
+  - [Pipeline as code with Jenkinsfile](#pipeline-as-code-with-jenkinsfile)
+  - [Connect Jenkins to GitHub](#connect-jenkins-to-github)
+  - [Run scripts from the pipeline](#run-scripts-from-the-pipeline)
+  - [Add a status badge to Markdown files](#add-a-status-badge-to-markdown-files)
+  - [Challenge: Connect Jenkins to GitHub](#challenge-connect-jenkins-to-github)
+  - [Solution: Connect Jenkins to GitHub](#solution-connect-jenkins-to-github)
 - [**4. Agents and Distributed Builds**](#4-agents-and-distributed-builds) (5 videos)
-  - Distribute builds with agents
-  - Add an SSH agent to Jenkins
-  - Add Docker agents to Jenkins
-  - Challenge: Improve a Docker agent pipeline
-  - Solution: Improve a Docker agent pipeline
+  - [Distribute builds with agents](#distribute-builds-with-agents)
+  - [Add an SSH agent to Jenkins](#add-an-ssh-agent-to-jenkins)
+  - [Add Docker agents to Jenkins](#add-docker-agents-to-jenkins)
+  - [Challenge: Improve a Docker agent pipeline](#challenge-improve-a-docker-agent-pipeline)
+  - [Solution: Improve a Docker agent pipeline](#solution-improve-a-docker-agent-pipeline)
 - [**5. Artifacts and Testing**](#5-artifacts-and-testing) (5 videos)
-  - Artifacts and fingerprinting
-  - Publish test results and code coverage reports
-  - Use test results to stop a build
-  - Challenge: Create artifacts and reports
-  - Solution: Create artifacts and reports
+  - [Artifacts and fingerprinting](#artifacts-and-fingerprinting)
+  - [Publish test results and code coverage reports](#publish-test-results-and-code-coverage-reports)
+  - [Use test results to stop a build](#use-test-results-to-stop-a-build)
+  - [Challenge: Create artifacts and reports](#challenge-create-artifacts-and-reports)
+  - [Solution: Create artifacts and reports](#solution-create-artifacts-and-reports)
 - [**6. Securing Jenkins**](#6-securing-jenkins) (5 videos)
-  - Secure Jenkins with user accounts
-  - Configure project-based permissions
-  - Use secrets and credentials
-  - Challenge: Configure users and permissions
-  - Solution: Configure users and permissions
+  - [Secure Jenkins with user accounts](#secure-jenkins-with-user-accounts)
+  - [Configure project-based permissions](#configure-project-based-permissions)
+  - [Use secrets and credentials](#use-secrets-and-credentials)
+  - [Challenge: Configure users and permissions](#challenge-configure-users-and-permissions)
+  - [Solution: Configure users and permissions](#solution-configure-users-and-permissions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### From code to production with Jenkins
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[Automation]] (2), [[DevOps]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), application (1)
 > **Tools:** github (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
@@ -161,6 +162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (4), [[GitHub]] (4), [[Git]] (3), [[Linux]] (2), [[Version Control]] (1)
 > **Tools:** github (4), gitlab (1), bitbucket (1)
 > **CLI Commands:** git (3), find (1)
 > **Exercise Files:** exercise files (2), github repo (1)
@@ -171,7 +173,7 @@ created: 2026-04-29
 
 ### 1. Jenkins and DevOps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Jenkins and the DevOps lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980)
@@ -236,8 +238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (10), [[DevOps]] (6), [[Continuous Integration (CI)|Continuous integration]] (4), application (3), cd (3)
 > **CLI Commands:** cd (3), make (2), find (1)
-> **Code Keywords:** let (2), continue (1), case, (1)
 > **Definitions:** known as (1), is called (1), means that (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -307,9 +309,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (14), cloud (5), [[Ubuntu]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (2), web (2)
 > **Env Vars:** nginx (3), url (1), ssh (1), ec2 (1), ami (1)
 > **Prerequisites:** install (6), configure (1)
-> **Code Keywords:** public (4), finally, (1)
 > **CLI Commands:** nginx (3), ssh (1)
 > **Code Identifiers:** macos (2)
 > **Exercise Files:** exercise files (2)
@@ -529,8 +531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (20), next (4), dns (4), [[Ubuntu]] (3), [[Security]] (3)
 > **Env Vars:** url (5), ssh (5), dns (4), aws (1), lts (1)
-> **Code Keywords:** let (8), public (3), continue (2), type, (1), interface (1)
 > **CLI Commands:** ssh (5), nginx (3), make (2), aws (1), docker (1)
 > **Prerequisites:** install (9), configure (2)
 > **Tools:** terminal (4), github (3), vim (2)
@@ -541,7 +543,7 @@ created: 2026-04-29
 
 ### 2. The Jenkins Pipeline
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a pipeline project
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-pipeline-project?u=76281980)
@@ -582,7 +584,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (1), interface (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -685,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (1)
+> **Frameworks & Libraries:** [[Jenkins]] (8), [[Microsoft Word|Word]] (2), node (1), [[Scripting]] (1), [[Java]] (1)
 > **CLI Commands:** docker (3), node (1)
 > **Env Vars:** dsl (2), cicd (1), readme (1)
 > **Exercise Files:** exercise files (2)
@@ -777,8 +779,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (5), [[Git]] (2), next (1)
 > **CLI Commands:** git (2), find (2), make (1)
-> **Code Keywords:** pass (2), let (2), from, (1)
 > **Env Vars:** txt (4)
 > **File Paths:** report.txt (2), star.txt (1)
 > **Analogies:** for example (1), such as (1)
@@ -877,9 +879,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** max_size (5), min_size (5)
 > **Code Identifiers:** currentbuild (8)
-> **Code Keywords:** let (4)
 > **UI Navigation:** in the menu (1), scroll down (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -983,7 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (8), let (6), pass (2), from. (1)
+> **Frameworks & Libraries:** [[Jenkins]] (8), [[Microsoft Word|Word]] (1), api (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Cross-References:** we discussed (1)
@@ -1085,7 +1087,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1), [[Version Control]] (1), [[GitHub]] (1), next (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** go back to (1)
@@ -1149,7 +1151,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), default. (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2), api (2), application (1), next (1)
 > **Env Vars:** api (2)
 > **Exercise Files:** template (1), exercise files (1)
 > **CLI Commands:** make (1)
@@ -1409,8 +1411,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[Jenkins]] (1), next (1)
 > **Env Vars:** production (13), development (8), environment (5), api (4), changelog (4)
-> **Code Keywords:** let (26), this, (3), this. (3), type. (1), super (1)
 > **Cross-References:** go back to (5)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), scroll down (1), select the (1)
@@ -1421,7 +1423,7 @@ created: 2026-04-29
 
 ### 3. Integrate Jenkins with Version Control Systems
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Pipeline as code with Jenkinsfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980)
@@ -1518,7 +1520,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (2), case, (2), this, (1), private (1)
+> **Frameworks & Libraries:** [[Jenkins]] (22), management (3), application (3), [[Git]] (3), [[Automation]] (2)
 > **CLI Commands:** git (3), find (3), make (1)
 > **Exercise Files:** exercise files (5)
 > **Env Vars:** scm (2), url (2)
@@ -1652,10 +1654,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (27), [[GitHub]] (18), next (3), [[Git]] (1), application (1)
 > **Tools:** github (18)
 > **Env Vars:** url (9), scm (2), readme (2), https (1), json (1)
 > **UI Navigation:** go to (5), scroll down (3)
-> **Code Keywords:** let (2), interface (1), default. (1), this. (1), type, (1)
 > **Prerequisites:** set up (4), configure (2), you'll need (1)
 > **Exercise Files:** github repo (4), exercise files (1), exercise file (1)
 > **CLI Commands:** git (1), make (1)
@@ -1760,7 +1762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), default, (1)
+> **Frameworks & Libraries:** [[Jenkins]] (15), [[GitHub]] (2), [[Version Control]] (1), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** make (2), chmod (1), find (1)
 > **UI Navigation:** scroll down (2), select the (1)
 > **Tools:** github (2)
@@ -1826,10 +1828,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (6), [[GitHub]] (4), [[Version Control]] (1)
 > **Env Vars:** readme (6)
 > **Tools:** github (4)
 > **UI Navigation:** go to (2), select the (1), scroll down (1)
-> **Code Keywords:** let (1), for. (1), from. (1)
 > **Documentation:** the readme (3)
 > **Exercise Files:** github repo (3)
 > **Prerequisites:** install (3)
@@ -1862,9 +1864,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Jenkins]] (1), next (1)
 > **Tools:** github (3)
 > **Exercise Files:** github repo (2), exercise files (1)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -2039,8 +2041,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (22), [[Jenkins]] (18), next (2), [[Git]] (1), application (1)
 > **Tools:** github (22)
-> **Code Keywords:** let (5), delete (2), public (1), default, (1), this, (1)
 > **Env Vars:** url (6), https (1), scm (1)
 > **UI Navigation:** go to (5), scroll down (3)
 > **Exercise Files:** exercise files (3), github repo (3)
@@ -2051,7 +2053,7 @@ created: 2026-04-29
 
 ### 4. Agents and Distributed Builds
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Distribute builds with agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980)
@@ -2138,10 +2140,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (24), node (9), [[Java]] (3), web (1), management (1)
 > **CLI Commands:** node (9), ssh (4), docker (4)
 > **Prerequisites:** set up (3), install (2), configure (1)
 > **Env Vars:** ssh (4), cpu (1)
-> **Code Keywords:** case, (2), interface (1), let (1)
 > **Definitions:** is a  (2), known as (1)
 > **Versions:** 3.8.4 (1)
 > **Exercise Files:** exercise files (1)
@@ -2250,9 +2252,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (13), node (7), [[Linux]] (6), [[Amazon EC2|Ec2]] (3), aws (3)
 > **CLI Commands:** ssh (8), node (7), aws (3), git (1)
 > **Env Vars:** ssh (8), aws (3), ec2 (1), dns (1)
-> **Code Keywords:** let (3), private (1), this, (1)
 > **UI Navigation:** select the (2), go to (1)
 > **Exercise Files:** exercise files (3)
 > **Definitions:** is an  (1), is a  (1)
@@ -2350,8 +2352,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (16), application (2), [[CLI]] (1)
 > **CLI Commands:** docker (18), ssh (1)
-> **Code Keywords:** let (4), require (1), finally, (1), this, (1), private (1)
 > **Exercise Files:** exercise files (4)
 > **Env Vars:** ram (1), ssh (1), cli (1)
 > **UI Navigation:** go to (3)
@@ -2397,9 +2399,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (3), application (1), next (1)
 > **CLI Commands:** docker (4), find (2)
 > **Prerequisites:** set up (1), you'll need (1), install (1)
-> **Code Keywords:** static (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -2508,8 +2510,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (5), application (4), next (3), web (1), management (1)
 > **CLI Commands:** docker (11), make (2), ssh (1)
-> **Code Keywords:** let (7), static (1), public (1), finally, (1)
 > **Env Vars:** ssh (1), cpu (1), ram (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1), download the (1)
@@ -2519,7 +2521,7 @@ created: 2026-04-29
 
 ### 5. Artifacts and Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Artifacts and fingerprinting
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/artifacts-and-fingerprinting?u=76281980)
@@ -2620,7 +2622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), case, (1), interface (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6), [[Security]] (1), database (1), next (1)
 > **File Paths:** report.txt (3)
 > **Env Vars:** md5 (2), zip (1)
 > **Exercise Files:** exercise files (2), download the (1)
@@ -2763,8 +2765,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (13), [[JUnit]] (9), [[Java]] (3), [[Python (Programming Language)|Python]] (3), [[Ubuntu]] (3)
 > **CLI Commands:** python3 (7), make (4), python (3), git (3), find (1)
-> **Code Keywords:** let (9), interface (2), require (1), this, (1)
 > **Prerequisites:** you'll need (3), set up (2), make sure you have (1), install (1), configure (1)
 > **Exercise Files:** exercise files (6), source code (1)
 > **Env Vars:** api (2), xml (1), pip (1), ssh (1), venv (1)
@@ -2823,8 +2825,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jenkins]] (4)
 > **Exercise Files:** exercise files (5), exercise file (1)
-> **Code Keywords:** let (3), this, (1)
 > **Definitions:** means that (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
@@ -2867,8 +2869,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Java]] (2), [[Jenkins]] (2), [[JUnit]] (2), next (1)
 > **Exercise Files:** template (2), exercise files (1)
-> **Code Keywords:** pass (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
@@ -3064,7 +3066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), for, (1), private (1)
+> **Frameworks & Libraries:** [[JUnit]] (6), [[Jenkins]] (2), [[Java]] (1), [[Search]] (1), [[GitHub]] (1)
 > **Exercise Files:** exercise files (5), template (2)
 > **UI Navigation:** go to (5), scroll down (1)
 > **Env Vars:** xml (2), url (1), test (1), snapshot (1)
@@ -3076,7 +3078,7 @@ created: 2026-04-29
 
 ### 6. Securing Jenkins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure Jenkins with user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980)
@@ -3209,7 +3211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), interface (4), default, (1), case. (1), public (1)
+> **Frameworks & Libraries:** [[Jenkins]] (25), [[Security]] (10), database (1), teams (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), known as (1), in other words (1), means that (1), is an  (1)
 > **Prerequisites:** configure (3), you need to have (1), set up (1)
 > **CLI Commands:** make (1), find (1)
@@ -3281,7 +3283,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2), switch (1), else. (1), delete (1)
+> **Frameworks & Libraries:** [[Security]] (5), [[Jenkins]] (1), next (1)
 > **Prerequisites:** configure (3), set up (1)
 > **Cross-References:** we discussed (1), go back to (1)
 > **Definitions:** is an  (1)
@@ -3337,7 +3339,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1), interface (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6), application (1), data (1), api (1), [[Security]] (1)
 > **Code Identifiers:** withcredentials (2), withcredential (2)
 > **Env Vars:** ssh (1), api (1), usr (1), psw (1)
 > **CLI Commands:** ssh (1)
@@ -3381,7 +3383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Engineering]] (4), [[Jenkins]] (3), next (2), teams (1), application (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat instrumental music) (1)
@@ -3549,7 +3551,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), type. (1)
+> **Frameworks & Libraries:** [[Engineering]] (22), [[Jenkins]] (8), [[Security]] (4), next (2), application (1)
 > **Prerequisites:** set up (2), configure (2)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Definitions:** means that (1)
@@ -3561,7 +3563,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980)
@@ -3584,7 +3586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), public (1)
+> **Frameworks & Libraries:** [[Jenkins]] (5), aws (2), feature (1), [[LinkedIn]] (1), cloud (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Speakers:** - [michael] (1)

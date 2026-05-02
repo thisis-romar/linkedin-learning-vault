@@ -25,7 +25,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20for%20Managers.md)
@@ -44,23 +44,23 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The manager's role in responsible AI
+  - [The manager's role in responsible AI](#the-managers-role-in-responsible-ai)
 - [**1. Guiding Principles of Responsible AI in Management**](#1-guiding-principles-of-responsible-ai-in-management) (2 videos)
-  - Ethical AI principles
-  - Responsible AI principles
+  - [Ethical AI principles](#ethical-ai-principles)
+  - [Responsible AI principles](#responsible-ai-principles)
 - [**2. Accountability for Responsible AI in Management**](#2-accountability-for-responsible-ai-in-management) (2 videos)
-  - Data privacy and safety
-  - Mitigating bias and risk
+  - [Data privacy and safety](#data-privacy-and-safety)
+  - [Mitigating bias and risk](#mitigating-bias-and-risk)
 - [**3. Management Practices in AI Implementation**](#3-management-practices-in-ai-implementation) (2 videos)
-  - AI  and decision-making
-  - Prioritizing employee engagement and impact
+  - [AI  and decision-making](#ai-and-decision-making)
+  - [Prioritizing employee engagement and impact](#prioritizing-employee-engagement-and-impact)
 - [**4. Responsible AI: Real-World Examples in Management**](#4-responsible-ai-real-world-examples-in-management) (2 videos)
-  - Responsible AI in action
-  - Responsible AI resources
+  - [Responsible AI in action](#responsible-ai-in-action)
+  - [Responsible AI resources](#responsible-ai-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The manager's role in responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/the-manager-s-role-in-responsible-ai?u=76281980)
@@ -79,12 +79,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), management (1), [[Responsible AI]] (1)
 > **Speakers:** - many (1)
 
 
 ### 1. Guiding Principles of Responsible AI in Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical AI principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980)
@@ -123,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), [[Responsible AI]] (2), [[Team Management]] (1), data (1), [[Organizational Culture]] (1)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -181,6 +183,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), [[Responsible AI]] (6), data (4), [[Accountability]] (2), power (1)
 > **Env Vars:** kpmg (1), ibm (1), shrm (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
@@ -188,7 +191,7 @@ created: 2026-04-29
 
 ### 2. Accountability for Responsible AI in Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data privacy and safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980)
@@ -243,7 +246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1)
+> **Frameworks & Libraries:** data (14), [[Privacy]] (5), ai (3), [[Analytics]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
 > **Definitions:** is a  (1)
@@ -310,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** ai (19), data (3), hr (2), teams (2), management (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - hr (1)
@@ -318,7 +321,7 @@ created: 2026-04-29
 
 ### 3. Management Practices in AI Implementation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI  and decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980)
@@ -385,8 +388,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), data (9), business (3), [[Generative AI]] (1), teams (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), function (1), for, (1)
 > **Ports:** :00 (1)
 > **Env Vars:** ibm (1)
 > **Analogies:** such as (1)
@@ -441,6 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (2), [[Responsible AI]] (1), [[Accountability]] (1), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** we discussed (1), next video (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -450,7 +454,7 @@ created: 2026-04-29
 
 ### 4. Responsible AI: Real-World Examples in Management
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980)
@@ -489,8 +493,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (8), ai (4), data (3), [[Ethics]] (2), [[Privacy]] (2)
 > **Env Vars:** kpmg (1), ibm (1)
-> **Code Keywords:** self (1)
 > **Analogies:** such as (1)
 > **Speakers:** - according (1)
 
@@ -527,6 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Responsible AI]] (3), [[Microsoft]] (1), [[Leadership Development]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)

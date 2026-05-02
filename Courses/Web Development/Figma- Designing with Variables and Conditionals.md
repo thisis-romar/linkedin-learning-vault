@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Figma-%20Designing%20with%20Variables%20and%20Conditionals.md)
@@ -40,28 +40,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Working with variables and conditionals
-  - Getting set up
+  - [Working with variables and conditionals](#working-with-variables-and-conditionals)
+  - [Getting set up](#getting-set-up)
 - [**1. Exploring Figma’s Approach to Variables**](#1-exploring-figmas-approach-to-variables) (5 videos)
-  - Figma design file overview
-  - Creating local variables
-  - Organizing variables into groups
-  - Adding variable collections
-  - Working with variable modes
+  - [Figma design file overview](#figma-design-file-overview)
+  - [Creating local variables](#creating-local-variables)
+  - [Organizing variables into groups](#organizing-variables-into-groups)
+  - [Adding variable collections](#adding-variable-collections)
+  - [Working with variable modes](#working-with-variable-modes)
 - [**2. Designing with Variables and Conditional Logic**](#2-designing-with-variables-and-conditional-logic) (7 videos)
-  - Assigning variables to text elements
-  - Prototyping with conditional logic
-  - Developing a reset function
-  - Controlling visibility with Booleans
-  - Adding products to the cart
-  - Adding quantities to the cart
-  - Removing quantities in the cart
+  - [Assigning variables to text elements](#assigning-variables-to-text-elements)
+  - [Prototyping with conditional logic](#prototyping-with-conditional-logic)
+  - [Developing a reset function](#developing-a-reset-function)
+  - [Controlling visibility with Booleans](#controlling-visibility-with-booleans)
+  - [Adding products to the cart](#adding-products-to-the-cart)
+  - [Adding quantities to the cart](#adding-quantities-to-the-cart)
+  - [Removing quantities in the cart](#removing-quantities-in-the-cart)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with variables and conditionals
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variables-and-conditionals?u=76281980)
@@ -80,6 +80,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Prototyping]] (1), career (1)
 > **Tools:** figma (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [joseph] (1)
@@ -109,9 +110,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4)
 > **Tools:** figma (4)
 > **Exercise Files:** exercise files (1), starter files (1), starter file (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
@@ -119,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Exploring Figma’s Approach to Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Figma design file overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980)
@@ -164,7 +165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** product (2), [[Figma (Software)|Figma]] (1), [[Typography]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
@@ -253,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1), switch (1), default. (1)
+> **Frameworks & Libraries:** product (6), [[Figma (Software)|Figma]] (3), [[Microsoft Products|Products]] (2), prompt (1), [[Prototyping]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** open the (1), click on (1), toggle (1), right-click (1)
 > **Code Identifiers:** cart_total (1), pref_experimental (1), product_delicate (1)
@@ -309,9 +310,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), data (1), product (1)
 > **Code Identifiers:** cart_total (1), num_rosemary (1), prod_delicate (1), cart_rosemary (1)
 > **UI Navigation:** click on (4)
-> **Code Keywords:** let (2)
 > **Tools:** figma (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -371,7 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), require (1)
+> **Frameworks & Libraries:** product (7), [[Figma (Software)|Figma]] (1)
 > **Code Identifiers:** price_delicate (1), price_bold (1), price_basil (1), price_garlic (1), price_rosemary (1)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (2)
@@ -456,7 +457,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (3), this, (1)
+> **Frameworks & Libraries:** product (4), [[Figma (Software)|Figma]] (3), feature (1), [[Microsoft Products|Products]] (1), next (1)
 > **UI Navigation:** go to (2), click on (2), switch to (1)
 > **Tools:** figma (3)
 > **Warnings:** note that (2)
@@ -467,7 +468,7 @@ created: 2026-04-29
 
 ### 2. Designing with Variables and Conditional Logic
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assigning variables to text elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980)
@@ -544,7 +545,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), finally, (2), static (1)
+> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (2), [[Figma (Software)|Figma]] (1), data (1), [[Prototyping]] (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** figma (1)
@@ -662,9 +663,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** pref_lighter (5), pref_intense (5), pref_experimental (2)
 > **UI Navigation:** checkbox (7), click on (3), switch to (1), toggle (1)
-> **Code Keywords:** this. (2), switch (1), default, (1), this, (1), override (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
@@ -709,9 +710,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), hit (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** pref_intense (1), pref_lighter (1), pref_experimental (1)
-> **Code Keywords:** finally, (1), let (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -808,8 +809,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), data (1), [[Prototyping]] (1), hit (1)
 > **UI Navigation:** click on (5), go to (3), switch to (1)
-> **Code Keywords:** let (4), switch (1), this. (1)
 > **Code Identifiers:** pref_experimental (2), pref_lighter (1), pref_intense (1), cart_delicate (1), cart_medium (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1)
@@ -919,8 +920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (8), functional (1), next (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** cart_total (4), num_delicate (3), cart_delicate (2), num_medium (2), price_delicate (1)
-> **Code Keywords:** let (4), default. (1), switch (1), case. (1), finally, (1)
 > **UI Navigation:** navigate to (4), click on (3), go to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -981,9 +982,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (6), data (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** num_delicate (2), cart_total (2), numb_medium (2), price_delicate (1), price_medium (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** this. (1), let (1), interface (1)
 > **UI Navigation:** select the (1), click on (1)
 > **Prerequisites:** make sure you have (2)
 > **Env Vars:** ontap (1)
@@ -1139,7 +1140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), this, (1), case, (1), finally, (1), switch (1)
+> **Frameworks & Libraries:** product (6), hit (2), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** num_delicate (2), price_delicate (1), cart_delicate (1), num_medium (1), price_medium (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1151,7 +1152,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980)
@@ -1174,6 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[User Experience (UX)|User experience]] (1)
 > **Tools:** figma (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)

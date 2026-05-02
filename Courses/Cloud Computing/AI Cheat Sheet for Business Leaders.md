@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AI%20Cheat%20Sheet%20for%20Business%20Leaders.md)
@@ -48,25 +48,25 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Course introduction
-  - What business leaders really need to know about AI
+  - [Course introduction](#course-introduction)
+  - [What business leaders really need to know about AI](#what-business-leaders-really-need-to-know-about-ai)
 - [**1. Ten Tips on AI for Business Leaders**](#1-ten-tips-on-ai-for-business-leaders) (10 videos)
-  - What we mean by AI
-  - The AI adoption journey
-  - AI that fits your business
-  - AI is about humans
-  - AI offers adequacy, humans offer excellence
-  - What tasks are AI good at?
-  - Accountability and responsibility for AI
-  - Assign the right AI leader
-  - Choosing the right AI platforms
-  - Creating AI guidelines
+  - [What we mean by AI](#what-we-mean-by-ai)
+  - [The AI adoption journey](#the-ai-adoption-journey)
+  - [AI that fits your business](#ai-that-fits-your-business)
+  - [AI is about humans](#ai-is-about-humans)
+  - [AI offers adequacy, humans offer excellence](#ai-offers-adequacy-humans-offer-excellence)
+  - [What tasks are AI good at?](#what-tasks-are-ai-good-at)
+  - [Accountability and responsibility for AI](#accountability-and-responsibility-for-ai)
+  - [Assign the right AI leader](#assign-the-right-ai-leader)
+  - [Choosing the right AI platforms](#choosing-the-right-ai-platforms)
+  - [Creating AI guidelines](#creating-ai-guidelines)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/course-introduction?u=76281980)
@@ -109,8 +109,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), business (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Speakers:** - are (1)
 
 #### What business leaders really need to know about AI
@@ -172,8 +172,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), business (2), [[Automation]] (1), leadership (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this. (1), let (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it like (1)
@@ -182,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Ten Tips on AI for Business Leaders
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What we mean by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980)
@@ -287,7 +287,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), continue (1), finally, (1)
+> **Frameworks & Libraries:** ai (8), [[Generative AI]] (5), next (2), [[Security]] (1), hit (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is an  (1)
 > **Code Identifiers:** degrasse (1)
@@ -389,6 +389,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), data (2), [[Banking]] (1), [[Automation]] (1), next (1)
 > **Analogies:** think of it as (1), it's like (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** mrna (1)
@@ -484,7 +485,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** ai (16), business (6), data (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), next (1)
 > **Env Vars:** fits (1), asml (1), ibm (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - this (1)
@@ -572,8 +573,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (2), strengths (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), public (1), super (1)
 > **Definitions:** means that (2)
 > **Analogies:** imagine (1), it's like (1)
 > **Speakers:** - imagine (1)
@@ -701,8 +702,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), teams (2), [[Debugging]] (1), data (1), prompt (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), for. (1)
 > **Env Vars:** stride (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - today (1)
@@ -810,8 +811,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), teams (7), data (4), [[Predictive Analytics]] (1), [[Routing]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Speakers:** - if (1)
 
@@ -914,7 +915,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (13), [[Automation]] (7), business (1), [[Content Creation]] (1), traffic (1)
 > **Analogies:** just like (1)
 > **Speakers:** - here (1)
 
@@ -997,8 +998,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), leadership (4), business (2), [[Neural Networks]] (1), express (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case, (1)
 > **Definitions:** means that (1)
 > **Speakers:** - when (1)
 
@@ -1085,8 +1086,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (4), next (1), [[ChatGPT]] (1), [[Midjourney]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** finally, (2), let (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - if (1)
 
@@ -1187,7 +1188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), continue (1)
+> **Frameworks & Libraries:** ai (12), prompt (3), [[LinkedIn]] (1), data (1), [[ChatGPT]] (1)
 > **UI Navigation:** go to (2)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** you need to have (1)
@@ -1196,7 +1197,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980)
@@ -1229,6 +1230,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[LinkedIn]] (4), leadership (2), [[Generative AI Tools]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** download the (1)

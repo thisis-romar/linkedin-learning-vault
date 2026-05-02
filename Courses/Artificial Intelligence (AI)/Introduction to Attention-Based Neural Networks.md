@@ -30,7 +30,7 @@ tags:
   - skill/neural-networks
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Attention-Based%20Neural%20Networks.md)
@@ -49,49 +49,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Prerequisites
-  - What are attention-based models?
-  - Attention in language generation and translation models
+  - [Prerequisites](#prerequisites)
+  - [What are attention-based models?](#what-are-attention-based-models)
+  - [Attention in language generation and translation models](#attention-in-language-generation-and-translation-models)
 - [**1. Recurrent Neural Networks to Learn Sequential Data**](#1-recurrent-neural-networks-to-learn-sequential-data) (5 videos)
-  - Feed forward networks and their limitations
-  - Recurrent neural networks for sequential data
-  - The need for long memory cells
-  - LSTM and GRU cells
-  - Types of RRNNS
+  - [Feed forward networks and their limitations](#feed-forward-networks-and-their-limitations)
+  - [Recurrent neural networks for sequential data](#recurrent-neural-networks-for-sequential-data)
+  - [The need for long memory cells](#the-need-for-long-memory-cells)
+  - [LSTM and GRU cells](#lstm-and-gru-cells)
+  - [Types of RRNNS](#types-of-rrnns)
 - [**2. Encoder-Decoder Networks for Language Models**](#2-encoder-decoder-networks-for-language-models) (2 videos)
-  - Language generation models
-  - Sequence to sequence models for language translation
+  - [Language generation models](#language-generation-models)
+  - [Sequence to sequence models for language translation](#sequence-to-sequence-models-for-language-translation)
 - [**3. Attention-Based Neural Networks**](#3-attention-based-neural-networks) (6 videos)
-  - The role of attention in sequence to sequence models
-  - Attention mechanism in sequence to sequence models
-  - Alignment weights in attention models
-  - Bahdanau attention
-  - Attention models for image captioning
-  - Encoder decoder structure for image captioning
+  - [The role of attention in sequence to sequence models](#the-role-of-attention-in-sequence-to-sequence-models)
+  - [Attention mechanism in sequence to sequence models](#attention-mechanism-in-sequence-to-sequence-models)
+  - [Alignment weights in attention models](#alignment-weights-in-attention-models)
+  - [Bahdanau attention](#bahdanau-attention)
+  - [Attention models for image captioning](#attention-models-for-image-captioning)
+  - [Encoder decoder structure for image captioning](#encoder-decoder-structure-for-image-captioning)
 - [**4. Image Captioning Model without Attention**](#4-image-captioning-model-without-attention) (9 videos)
-  - Setting up Colab and Google Drive
-  - Loading in the Flickr8k dataset
-  - Constructing the vocabulary
-  - Setting up the dataset class
-  - Implementing utility functions for training data
-  - Building the encoder CNN
-  - Building the decoder RNN
-  - Setting up the sequence to sequence model
-  - Training the image captioning model
+  - [Setting up Colab and Google Drive](#setting-up-colab-and-google-drive)
+  - [Loading in the Flickr8k dataset](#loading-in-the-flickr8k-dataset)
+  - [Constructing the vocabulary](#constructing-the-vocabulary)
+  - [Setting up the dataset class](#setting-up-the-dataset-class)
+  - [Implementing utility functions for training data](#implementing-utility-functions-for-training-data)
+  - [Building the encoder CNN](#building-the-encoder-cnn)
+  - [Building the decoder RNN](#building-the-decoder-rnn)
+  - [Setting up the sequence to sequence model](#setting-up-the-sequence-to-sequence-model)
+  - [Training the image captioning model](#training-the-image-captioning-model)
 - [**5. Image Captioning Model Using Attention**](#5-image-captioning-model-using-attention) (7 videos)
-  - Loading the dataset and setting up utility functions
-  - The encoder CNN generating unrolled feature maps
-  - Implementing Bahdanau attention
-  - The decoder RNN using attention
-  - Generating captions using attention
-  - Training the attention-based image captioning model
-  - Visualizing the model's attention
+  - [Loading the dataset and setting up utility functions](#loading-the-dataset-and-setting-up-utility-functions)
+  - [The encoder CNN generating unrolled feature maps](#the-encoder-cnn-generating-unrolled-feature-maps)
+  - [Implementing Bahdanau attention](#implementing-bahdanau-attention)
+  - [The decoder RNN using attention](#the-decoder-rnn-using-attention)
+  - [Generating captions using attention](#generating-captions-using-attention)
+  - [Training the attention-based image captioning model](#training-the-attention-based-image-captioning-model)
+  - [Visualizing the model's attention](#visualizing-the-models-attention)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Deep Learning]] (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), [[PyTorch]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you need to have (1)
@@ -206,7 +207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -271,7 +272,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (14), [[Neural Networks]] (2)
 > **Analogies:** picture (1), for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -279,7 +280,7 @@ created: 2026-04-29
 
 ### 1. Recurrent Neural Networks to Learn Sequential Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Feed forward networks and their limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980)
@@ -392,8 +393,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), [[Neural Networks]] (10), next (3), feature (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), is an  (2)
-> **Code Keywords:** let (1), pass (1), function (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -506,7 +507,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (4), next (4), [[Neural Networks]] (3)
 > **Env Vars:** rnn (3)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (2)
@@ -602,9 +603,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Microsoft Word|Word]] (5), next (1), data (1)
 > **Env Vars:** rnn (10), lstm (1), gru (1)
 > **Definitions:** is a  (4), means that (1)
-> **Code Keywords:** let (2), function (1), super (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - rnn (1)
 
@@ -709,8 +710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Neural Networks]] (1)
 > **Env Vars:** lstm (14), gru (8), rns (1)
-> **Code Keywords:** let (3), throw (3), case. (1)
 > **Cross-References:** previous video (1), we discussed (1)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** make (1)
@@ -763,16 +764,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), next (5), [[Neural Networks]] (1)
 > **Env Vars:** rnn (9)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Encoder-Decoder Networks for Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Language generation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980)
@@ -867,9 +868,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (22), next (11), [[Probability]] (8), data (2), [[Neural Networks]] (1)
 > **Env Vars:** rnn (10)
 > **Definitions:** is a  (5), is an  (2)
-> **Code Keywords:** function (2), let (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -957,8 +958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), next (2), [[Zoom]] (1), [[Probability]] (1), data (1)
 > **Env Vars:** rnn (6)
-> **Code Keywords:** let (3), function (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** such as (2), picture (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -967,7 +968,7 @@ created: 2026-04-29
 
 ### 3. Attention-Based Neural Networks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of attention in sequence to sequence models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-role-of-attention-in-sequence-to-sequence-models?u=76281980)
@@ -1060,7 +1061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** rnn (1)
 > **Speakers:** - attention (1)
@@ -1188,7 +1189,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1)
 > **Env Vars:** rnn (4)
 > **Definitions:** is a  (2), is an  (1), refers to (1)
 > **Code Identifiers:** ht (2), hj (1)
@@ -1233,7 +1234,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), pass (1), this. (1)
+> **Frameworks & Libraries:** product (2), [[Probability]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1310,7 +1311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), pass (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Probability]] (1), next (1)
 > **Definitions:** is a  (1), refers to (1), is an  (1)
 > **Env Vars:** rnn (1)
 > **Speakers:** - [narrator] (1)
@@ -1384,9 +1385,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (10), cnn (4), [[Neural Networks]] (1)
 > **Env Vars:** cnn (4)
 > **Definitions:** is a  (2), is an  (1), means that (1)
-> **Code Keywords:** let (2), pass (1)
 > **Speakers:** - now (1)
 
 #### Encoder decoder structure for image captioning
@@ -1466,8 +1467,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (10), data (2), [[Microsoft Word|Word]] (2), next (1)
 > **Definitions:** is a  (2), stands for (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** rnn (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
@@ -1476,7 +1477,7 @@ created: 2026-04-29
 
 ### 4. Image Captioning Model without Attention
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Colab and Google Drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980)
@@ -1581,8 +1582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Google]] (4), [[Google Drive]] (3), [[Python (Programming Language)|Python]] (1), cloud (1)
 > **Tools:** colab (9), jupyter (1)
-> **Code Keywords:** let (4), this. (1), this, (1)
 > **Env Vars:** gpu (4), jpg (1), cpu (1)
 > **UI Navigation:** click on (3), go to (1), select the (1)
 > **Definitions:** is a  (4)
@@ -1669,7 +1670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1)
+> **Frameworks & Libraries:** data (14), [[Google Drive]] (7), [[Pandas (Software)|Pandas]] (2), next (1), [[PyTorch]] (1)
 > **CLI Commands:** find (2), unzip (2), ls (1)
 > **Tools:** colab (5)
 > **Prerequisites:** set up (3), you'll need (1)
@@ -1771,8 +1772,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), data (9), [[Tokens]] (8), next (1)
 > **Code Identifiers:** unk_token (3), eos_token (3), min_freq (2), is_available (1), image_captions (1)
-> **Code Keywords:** let (5), finally, (1)
 > **Definitions:** is a  (3), means that (1)
 > **Env Vars:** rnn (2), gpu (1)
 > **CLI Commands:** make (2)
@@ -1832,7 +1833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), self (1), lambda (1), function (1), let (1)
+> **Frameworks & Libraries:** data (8), next (3), [[Microsoft Word|Word]] (2), [[PyTorch]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Prerequisites:** set up (4)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** pil (1), eos (1)
@@ -1943,7 +1944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), pass (1), require (1)
+> **Frameworks & Libraries:** data (9), next (3), [[PyTorch]] (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2), find (1), cat (1)
 > **Env Vars:** rnn (2), sos (1), unk (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2048,8 +2049,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **Definitions:** is a  (4), stands for (1), means that (1)
-> **Code Keywords:** function (2), let (1), module (1), pass (1)
 > **Code Identifiers:** pad_idx (1), embed_size (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
@@ -2181,8 +2182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (15), next (5), cnn (1)
 > **Env Vars:** lstm (8), rnn (5), eos (2), cnn (1)
-> **Code Keywords:** pass (6), default, (1), finally, (1), let (1), default. (1)
 > **Code Identifiers:** embed_size (2), num_layers (1), hidden_size (1), size_hidden (1), generate_captions (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1), find (1)
@@ -2250,7 +2251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), class. (1), finally, (1)
+> **Frameworks & Libraries:** next (2), [[Probability]] (2), [[Microsoft Word|Word]] (2), data (1), [[Tokens]] (1)
 > **Env Vars:** rnn (3), gpu (2)
 > **Prerequisites:** set up (2), initialization (1)
 > **Versions:** 0.0001 (1)
@@ -2383,7 +2384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (3), let (3), switch (1), continue (1)
+> **Frameworks & Libraries:** data (5), feature (2), next (1), cnn (1)
 > **Env Vars:** gpu (2), cnn (1), sos (1), eos (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (2)
@@ -2393,7 +2394,7 @@ created: 2026-04-29
 
 ### 5. Image Captioning Model Using Attention
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading the dataset and setting up utility functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980)
@@ -2476,7 +2477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class. (1), function (1)
+> **Frameworks & Libraries:** data (12), [[Google Drive]] (2), next (2), hit (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sos (1), eos (1)
 > **Exercise Files:** zip file (1)
 > **Prerequisites:** set up (1)
@@ -2557,7 +2558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (2), function (1), module (1), switch (1)
+> **Frameworks & Libraries:** feature (19), cnn (3), data (1)
 > **Env Vars:** cnn (3)
 > **Prerequisites:** initialization (1), set up (1)
 > **Speakers:** - once (1)
@@ -2611,7 +2612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (6), module (3), finally, (1)
+> **Frameworks & Libraries:** feature (4), next (1)
 > **Env Vars:** rnn (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - next (1)
@@ -2727,7 +2728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4)
+> **Frameworks & Libraries:** feature (5), [[Microsoft Word|Word]] (4), [[Probability]] (2), next (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** lstm (1), sos (1)
 > **Versions:** 0.3 (1)
@@ -2779,8 +2780,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), cnn (2), next (2), feature (1)
 > **Env Vars:** lstm (3), cnn (2), sos (1)
-> **Code Keywords:** pass (4), let (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
@@ -2934,7 +2935,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), function (3), let (2), match, (1), switch (1)
+> **Frameworks & Libraries:** data (5), next (3), feature (2), power (1), hit (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (3)
 > **Env Vars:** gpu (2)
@@ -2992,7 +2993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (3), pass (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (1), data (1)
 > **CLI Commands:** cat (1)
 > **Env Vars:** lip (1)
 > **UI Navigation:** scroll down (1)
@@ -3003,7 +3004,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980)
@@ -3052,9 +3053,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Neural Networks]] (1), [[LinkedIn]] (1)
 > **Env Vars:** nptel (1), iitm (1), lstm (1), gru (1), gans (1)
 > **Cross-References:** we discussed (2), we covered (1)
-> **Code Keywords:** let (1), self (1)
 > **CLI Commands:** find (1)
 > **URLs:** [medium.com](https://medium.com) (1)
 > **Definitions:** is a  (1)

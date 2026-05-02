@@ -36,7 +36,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20for%20Data%20Engineering-%20ChatGPT%20Power%20Tips.md)
@@ -55,36 +55,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to ChatGPT for data engineering
-  - Setting expectations
+  - [Introduction to ChatGPT for data engineering](#introduction-to-chatgpt-for-data-engineering)
+  - [Setting expectations](#setting-expectations)
 - [**1. Prompt Engineering Basics**](#1-prompt-engineering-basics) (6 videos)
-  - Understanding prompt engineering
-  - Writing effective prompts for coding tasks
-  - Common pitfalls and how to avoid them
-  - Refining prompts for better results
-  - Using contextual prompts
-  - Combining multiple prompts for complex tasks
+  - [Understanding prompt engineering](#understanding-prompt-engineering)
+  - [Writing effective prompts for coding tasks](#writing-effective-prompts-for-coding-tasks)
+  - [Common pitfalls and how to avoid them](#common-pitfalls-and-how-to-avoid-them)
+  - [Refining prompts for better results](#refining-prompts-for-better-results)
+  - [Using contextual prompts](#using-contextual-prompts)
+  - [Combining multiple prompts for complex tasks](#combining-multiple-prompts-for-complex-tasks)
 - [**2. Practical Applications of ChatGPT in Data Engineering**](#2-practical-applications-of-chatgpt-in-data-engineering) (6 videos)
-  - Generating data engineering code with ChatGPT
-  - Automating documentation with ChatGPT
-  - Debugging data pipelines using ChatGPT
-  - Optimizing SQL queries with ChatGPT
-  - Using ChatGPT for data cleaning scripts
-  - ChatGPT for data analysis and insights
+  - [Generating data engineering code with ChatGPT](#generating-data-engineering-code-with-chatgpt)
+  - [Automating documentation with ChatGPT](#automating-documentation-with-chatgpt)
+  - [Debugging data pipelines using ChatGPT](#debugging-data-pipelines-using-chatgpt)
+  - [Optimizing SQL queries with ChatGPT](#optimizing-sql-queries-with-chatgpt)
+  - [Using ChatGPT for data cleaning scripts](#using-chatgpt-for-data-cleaning-scripts)
+  - [ChatGPT for data analysis and insights](#chatgpt-for-data-analysis-and-insights)
 - [**3. Advanced Applications in PySpark and Databricks**](#3-advanced-applications-in-pyspark-and-databricks) (3 videos)
-  - Generating PySpark code with ChatGPT
-  - Optimizing PySpark jobs using ChatGPT
-  - Using ChatGPT in Databricks notebooks
+  - [Generating PySpark code with ChatGPT](#generating-pyspark-code-with-chatgpt)
+  - [Optimizing PySpark jobs using ChatGPT](#optimizing-pyspark-jobs-using-chatgpt)
+  - [Using ChatGPT in Databricks notebooks](#using-chatgpt-in-databricks-notebooks)
 - [**4. Security and Ethical Considerations**](#4-security-and-ethical-considerations) (3 videos)
-  - Data privacy and security with ChatGPT
-  - Ethical AI usage in data engineering
-  - Ensuring compliance and data governance
+  - [Data privacy and security with ChatGPT](#data-privacy-and-security-with-chatgpt)
+  - [Ethical AI usage in data engineering](#ethical-ai-usage-in-data-engineering)
+  - [Ensuring compliance and data governance](#ensuring-compliance-and-data-governance)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ChatGPT for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3), [[ChatGPT]] (3), power (1), [[Prompt Engineering]] (1), [[Debugging]] (1)
 > **Speakers:** - [deepak] (1)
 
 #### Setting expectations
@@ -131,6 +131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Data Engineering]] (2), data (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [narrator] (1)
@@ -138,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Prompt Engineering Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980)
@@ -231,7 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), this, (1), for. (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (8), [[ChatGPT]] (8), prompt (7), [[PySpark]] (4), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** csu (1), csv (1), sql (1), ansi (1)
 > **CLI Commands:** python (3)
 > **Analogies:** for example (3)
@@ -308,9 +309,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (7), [[ChatGPT]] (4), [[Python (Programming Language)|Python]] (3), [[SQL]] (3), [[MySQL]] (3)
 > **CLI Commands:** python (3), mysql (3), make (1)
 > **Env Vars:** sql (3), api (3)
-> **Code Keywords:** let (5)
 > **Code Identifiers:** customer_id (2), order_value (1)
 > **Analogies:** imagine (2), for example (1)
 > **Cross-References:** next video (1)
@@ -412,7 +413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1), for. (1), function (1)
+> **Frameworks & Libraries:** prompt (6), [[ChatGPT]] (5), data (4), [[Python (Programming Language)|Python]] (3), api (2)
 > **Analogies:** for example (6)
 > **CLI Commands:** python (3), make (1)
 > **Env Vars:** api (2), csv (1), sql (1)
@@ -474,7 +475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), try, (1), for, (1), case, (1)
+> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (4), [[Python (Programming Language)|Python]] (3), [[SQL]] (2), generic (1)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** imagine (2), for example (2)
 > **Env Vars:** sql (2)
@@ -527,7 +528,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), data (3), [[PySpark]] (2), product (2), prompt (2)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -593,16 +594,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[ChatGPT]] (3), prompt (3), [[Data Engineering]] (2), etl (2)
 > **Env Vars:** etl (2), rest (1), api (1), json (1)
 > **Analogies:** for example (2), imagine (1)
-> **Code Keywords:** let (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Practical Applications of ChatGPT in Data Engineering
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating data engineering code with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980)
@@ -651,7 +652,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), case, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (2), data (2), [[Data Engineering]] (2), prompt (1)
 > **CLI Commands:** python (2), find (2)
 > **Env Vars:** csv (2)
 > **Code Identifiers:** drop_duplicates (1)
@@ -706,10 +707,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[SQL]] (3), data (1), [[Python (Programming Language)|Python]] (1)
 > **Documentation:** the documentation (4)
 > **CLI Commands:** find (2), python (1)
 > **Analogies:** for instance (1), imagine (1), for example (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 
@@ -770,7 +771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), data (2), [[PySpark]] (1), prompt (1), [[SQL]] (1)
 > **Env Vars:** group (3), gpt (1), sql (1)
 > **CLI Commands:** find (4)
 > **Analogies:** imagine (2), for example (2)
@@ -836,7 +837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[SQL]] (3), data (3)
 > **Env Vars:** sql (3), join (1), exists (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), imagine (1)
@@ -896,7 +897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), function (2), this. (1), for, (1)
+> **Frameworks & Libraries:** data (8), [[ChatGPT]] (5), prompt (5), [[Data Engineering]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (2), nan (2)
 > **CLI Commands:** python (1), find (1)
 > **Cross-References:** in the next (1)
@@ -961,7 +962,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), prompt (5), data (4), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (3)
 > **CLI Commands:** python (2)
 > **Cross-References:** next video (1)
@@ -972,7 +973,7 @@ created: 2026-04-29
 
 ### 3. Advanced Applications in PySpark and Databricks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating PySpark code with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980)
@@ -1029,7 +1030,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), this. (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[PySpark]] (6), data (6), prompt (3), [[Big Data]] (1)
 > **Env Vars:** csv (4), usa (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** total_sales_dataframe (1)
@@ -1085,7 +1086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (2), case, (1), function (1)
+> **Frameworks & Libraries:** data (12), [[ChatGPT]] (8), [[PySpark]] (6), prompt (3), [[Big Data]] (1)
 > **Analogies:** for example (2), imagine (2)
 > **CLI Commands:** find (3)
 > **Cross-References:** next video (1)
@@ -1129,7 +1130,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), this. (1), this, (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), prompt (4), data (3), [[PySpark]] (3), [[Microsoft Azure|Azure]] (3)
 > **Analogies:** imagine (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -1137,7 +1138,7 @@ created: 2026-04-29
 
 ### 4. Security and Ethical Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data privacy and security with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980)
@@ -1186,7 +1187,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** data (16), [[Privacy]] (5), [[Security]] (4), prompt (3), [[ChatGPT]] (2)
 > **Env Vars:** gdpr (1), ccpa (1), pii (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1255,7 +1256,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ai (16), data (14), feature (3), [[Data Engineering]] (1), power (1)
 > **Env Vars:** lime (1), gdpr (1), ccpa (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** make (1)
@@ -1302,7 +1303,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1), protected (1)
+> **Frameworks & Libraries:** data (21), [[Data-driven Decision Making]] (1), [[Accountability]] (1), [[Security]] (1), [[Privacy]] (1)
 > **Env Vars:** rbac (1), gdpr (1), ccpa (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1310,7 +1311,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980)
@@ -1333,6 +1334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Data Engineering]] (3), [[ChatGPT]] (2), data (2), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [deepak] (1)
 

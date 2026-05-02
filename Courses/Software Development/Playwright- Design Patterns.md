@@ -31,7 +31,7 @@ tags:
   - skill/design-patterns
   - skill/test-automation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Playwright-%20Design%20Patterns.md)
@@ -50,43 +50,43 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Explore design patterns in Playwright
-  - Setting up your local environment
+  - [Explore design patterns in Playwright](#explore-design-patterns-in-playwright)
+  - [Setting up your local environment](#setting-up-your-local-environment)
 - [**1. Design Patterns**](#1-design-patterns) (2 videos)
-  - What is a design pattern?
-  - Types of design pattern
+  - [What is a design pattern?](#what-is-a-design-pattern)
+  - [Types of design pattern](#types-of-design-pattern)
 - [**2. Fixtures**](#2-fixtures) (7 videos)
-  - Introduction to fixtures
-  - What are Playwright fixtures?
-  - Setting up fixtures in Playwright
-  - Creating custom fixtures
-  - Automatic fixtures
-  - Fixture scope and isolation
-  - Fixture best practices
+  - [Introduction to fixtures](#introduction-to-fixtures)
+  - [What are Playwright fixtures?](#what-are-playwright-fixtures)
+  - [Setting up fixtures in Playwright](#setting-up-fixtures-in-playwright)
+  - [Creating custom fixtures](#creating-custom-fixtures)
+  - [Automatic fixtures](#automatic-fixtures)
+  - [Fixture scope and isolation](#fixture-scope-and-isolation)
+  - [Fixture best practices](#fixture-best-practices)
 - [**3. Page Object Model**](#3-page-object-model) (6 videos)
-  - What is a page object model?
-  - Creating a basic page object model
-  - Implementing the page object model in tests
-  - Combining page object model with fixtures
-  - Creating reusable and maintainable page object models
-  - Best practices for page object models
+  - [What is a page object model?](#what-is-a-page-object-model)
+  - [Creating a basic page object model](#creating-a-basic-page-object-model)
+  - [Implementing the page object model in tests](#implementing-the-page-object-model-in-tests)
+  - [Combining page object model with fixtures](#combining-page-object-model-with-fixtures)
+  - [Creating reusable and maintainable page object models](#creating-reusable-and-maintainable-page-object-models)
+  - [Best practices for page object models](#best-practices-for-page-object-models)
 - [**4. Behavior Driven Development (BDD)**](#4-behavior-driven-development-bdd) (6 videos)
-  - Introduction to behavior driven development (BDD)
-  - Writing BDD scenarios using Cucumber
-  - Setting up Cucumber in your project
-  - Writing your first step definition
-  - Centralizing setup and running a BDD test
-  - Combining BDD with page object model
+  - [Introduction to behavior driven development (BDD)](#introduction-to-behavior-driven-development-bdd)
+  - [Writing BDD scenarios using Cucumber](#writing-bdd-scenarios-using-cucumber)
+  - [Setting up Cucumber in your project](#setting-up-cucumber-in-your-project)
+  - [Writing your first step definition](#writing-your-first-step-definition)
+  - [Centralizing setup and running a BDD test](#centralizing-setup-and-running-a-bdd-test)
+  - [Combining BDD with page object model](#combining-bdd-with-page-object-model)
 - [**5. Data-Driven Testing**](#5-data-driven-testing) (3 videos)
-  - Introduction to data-driven testing
-  - Setting up data for data-driven testing
-  - Implementing data-driven testing in Playwright
+  - [Introduction to data-driven testing](#introduction-to-data-driven-testing)
+  - [Setting up data for data-driven testing](#setting-up-data-for-data-driven-testing)
+  - [Implementing data-driven testing in Playwright](#implementing-data-driven-testing-in-playwright)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore design patterns in Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/welcome?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Automation]] (1), next (1), data (1)
 > **Speakers:** - [qambar] (1)
 
 #### Setting up your local environment
@@ -185,8 +185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[npm]] (1), [[JSON]] (1), functional (1), next (1)
 > **CLI Commands:** find (2), npx (2), npm (1)
-> **Code Keywords:** default, (1), delete (1), pass (1), this, (1), let (1)
 > **Prerequisites:** set up (3), setup (1)
 > **File Paths:** playwright.config (1), package.json (1)
 > **Tools:** terminal (1), firefox (1)
@@ -196,7 +196,7 @@ created: 2026-04-29
 
 ### 1. Design Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980)
@@ -233,6 +233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Design Patterns]] (4), web application (1), functional (1), [[Test Automation]] (1), web (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Prerequisites:** setup (1)
@@ -279,13 +280,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Design Patterns]] (1), [[Software Development]] (1), data (1)
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Fixtures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to fixtures
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-fixtures?u=76281980)
@@ -326,8 +328,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), management (1), next (1)
 > **Prerequisites:** setup (5), set up (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -378,9 +380,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), teams (1), next (1), application (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Cross-References:** previous video (1), next video (1)
 > **Prerequisites:** setup (2)
 > **Speakers:** - [instructor] (1)
@@ -450,7 +452,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (3), let (2), import, (1)
+> **Frameworks & Libraries:** next (1), [[Test Automation]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1), npx (1)
 > **Code Identifiers:** getbyrole (1)
@@ -544,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), pass (2), await (2), import, (1), case, (1)
+> **Frameworks & Libraries:** data (10)
 > **Env Vars:** url (4)
 > **URLs:** [example.com](https://example.com) (1), [will.com](https://will.com) (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -598,7 +600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), pass (2), async (1), await (1), let (1)
+> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (3), is an  (2), means that (1)
 > **Code Identifiers:** authenticateduser (3)
 > **Prerequisites:** setup (2)
@@ -679,7 +681,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), function (1), this, (1), this. (1)
 > **Code Identifiers:** counterfixture (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -741,8 +742,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), api (1)
 > **Prerequisites:** setup (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Cross-References:** previous video (1)
@@ -753,7 +754,7 @@ created: 2026-04-29
 
 ### 3. Page Object Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a page object model?
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-page-object-model?u=76281980)
@@ -794,6 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web application (2)
 > **Env Vars:** pom (9)
 > **Analogies:** just like (2), imagine (1), for example (1), it's like (1)
 > **CLI Commands:** find (1)
@@ -875,7 +877,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (3), class. (1)
+> **Frameworks & Libraries:** api (1), next (1)
 > **Code Identifiers:** emaillocator (1), getbyrole (1), passwordlocator (1), signinbuttonlocator (1)
 > **Env Vars:** pom (3), api (1)
 > **UI Navigation:** right-click (1), click on (1), dropdown (1), scroll down (1)
@@ -950,8 +952,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Env Vars:** url (6), pom (1)
-> **Code Keywords:** let (2), await (2), pass (1), continue (1)
 > **Code Identifiers:** loginpage (2), login_page (1), emaillocator (1), signinbutton (1), tocontain (1)
 > **File Paths:** login_page.pom.ts (1), test.spec.ts (1), login-page.pom (1)
 > **UI Navigation:** click on (3)
@@ -1008,7 +1010,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1), this, (1)
 > **Prerequisites:** setup (2), set up (1)
 > **CLI Commands:** make (1), npx (1)
 > **Definitions:** is a  (1)
@@ -1079,7 +1080,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), await (2), class. (1), function (1), async (1)
 > **CLI Commands:** npx (2), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **File Paths:** fixtures.ts (1)
@@ -1150,9 +1150,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), application (2), next (1)
 > **Env Vars:** pom (13)
 > **CLI Commands:** make (4)
-> **Code Keywords:** public (2), private (1)
 > **Code Identifiers:** surl (1)
 > **Analogies:** such as (1)
 > **Best Practices:** best practice (1)
@@ -1161,7 +1161,7 @@ created: 2026-04-29
 
 ### 4. Behavior Driven Development (BDD)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to behavior driven development (BDD)
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980)
@@ -1212,6 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[Agile Development|Agile]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Env Vars:** bdd (9)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1257,10 +1258,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (3), next (1)
 > **Env Vars:** url (1), bdd (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Prerequisites:** install (2)
-> **Code Keywords:** let (1)
 > **Tools:** visual studio (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1335,8 +1336,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (4), node (3), feature (3), next (3), [[npm]] (2)
 > **CLI Commands:** node (3), npm (2)
-> **Code Keywords:** let (2), module (2), delete (1)
 > **Env Vars:** json (3), bdd (1)
 > **File Paths:** cucumber.json (1), tsconfig.json (1), loginsteps.ts (1)
 > **Prerequisites:** install (2)
@@ -1465,7 +1466,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** await (5), pass (2), function (2), let (1), this, (1)
+> **Frameworks & Libraries:** next (5), feature (2)
 > **Code Identifiers:** beforeeach (2), aftereach (2), newpage (2), getbyrole (2), loginsteps (1)
 > **Env Vars:** url (6), bdd (2), npmt (1)
 > **URLs:** [https://binaryvile.com/account](https://binaryvile.com/account) (1), [example.com](https://example.com) (1)
@@ -1515,7 +1516,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), delete (1), export ( (1), import ( (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Code Identifiers:** browsersetup (4)
 > **Prerequisites:** setup (4)
 > **File Paths:** browsersetup.ts (1)
@@ -1630,7 +1631,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (5), let (3), pass (2), class. (1), class, (1)
+> **Frameworks & Libraries:** next (1), [[npm]] (1)
 > **Code Identifiers:** loginpage (4), emaillocator (2), signinbuttonlocator (2), passwordlocator (1)
 > **CLI Commands:** make (2), find (1), npm (1)
 > **Env Vars:** url (2), bdd (2)
@@ -1642,7 +1643,7 @@ created: 2026-04-29
 
 ### 5. Data-Driven Testing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data-driven testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980)
@@ -1699,7 +1700,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), throw (1), finally, (1)
+> **Frameworks & Libraries:** data (12), application (2), next (2), power (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** imagine (1), think of it as (1), it's like (1), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** json (1), csv (1)
@@ -1747,8 +1748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[JSON]] (2), next (1)
 > **Prerequisites:** setup (2), set up (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** click on (2)
 > **File Paths:** logindata.json (1)
 > **Code Identifiers:** logindata (1)
@@ -1845,7 +1846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (4), let (3), import, (1), this, (1)
+> **Frameworks & Libraries:** data (13)
 > **Code Identifiers:** foreach (2), tohaveurl (1)
 > **URLs:** [binaryville.com](https://binaryville.com) (1), [example.com](https://example.com) (1), [eightexample.com](https://eightexample.com) (1)
 > **CLI Commands:** make (1), npx (1)
@@ -1857,7 +1858,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/next-steps?u=76281980)
@@ -1888,7 +1889,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), finally, (1)
+> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)

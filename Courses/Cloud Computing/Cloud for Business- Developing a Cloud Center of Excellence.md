@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/cloud-administration
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20for%20Business-%20Developing%20a%20Cloud%20Center%20of%20Excellence.md)
@@ -49,30 +49,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Beginning your cloud center of excellence
-  - What is a cloud center of excellence (CCoE)
-  - Why do you need a CCoE?
-  - Creating a cloud center of excellence
+  - [Beginning your cloud center of excellence](#beginning-your-cloud-center-of-excellence)
+  - [What is a cloud center of excellence (CCoE)](#what-is-a-cloud-center-of-excellence-ccoe)
+  - [Why do you need a CCoE?](#why-do-you-need-a-ccoe)
+  - [Creating a cloud center of excellence](#creating-a-cloud-center-of-excellence)
 - [**1. Organizational Structure of a Cloud Center of Excellence (CCoE)**](#1-organizational-structure-of-a-cloud-center-of-excellence-ccoe) (3 videos)
-  - Structure and service of a CCoE
-  - Single team and central management
-  - Embedded CCoE ambassadors
+  - [Structure and service of a CCoE](#structure-and-service-of-a-ccoe)
+  - [Single team and central management](#single-team-and-central-management)
+  - [Embedded CCoE ambassadors](#embedded-ccoe-ambassadors)
 - [**2. Components of a CCoE**](#2-components-of-a-ccoe) (6 videos)
-  - Subject matter experts (SMEs)
-  - Management advocate
-  - Team education, training, and best practices
-  - Cloud partner management and advocacy
-  - Creating and managing tools and processes
-  - External advocacy
+  - [Subject matter experts (SMEs)](#subject-matter-experts-smes)
+  - [Management advocate](#management-advocate)
+  - [Team education, training, and best practices](#team-education-training-and-best-practices)
+  - [Cloud partner management and advocacy](#cloud-partner-management-and-advocacy)
+  - [Creating and managing tools and processes](#creating-and-managing-tools-and-processes)
+  - [External advocacy](#external-advocacy)
 - [**3. Analytics and Measuring Success**](#3-analytics-and-measuring-success) (2 videos)
-  - Power of analytics: Were you successful?
-  - What should you measure?
+  - [Power of analytics: Were you successful?](#power-of-analytics-were-you-successful)
+  - [What should you measure?](#what-should-you-measure)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go from here
+  - [Where to go from here](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Beginning your cloud center of excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980)
@@ -99,6 +99,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), aws (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** ccoe (1), aws (1)
 > **Speakers:** - [lee] (1)
@@ -156,7 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (2), continue (1)
+> **Frameworks & Libraries:** cloud (24), teams (6), aws (1), [[Microsoft Azure|Azure]] (1), data (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
@@ -243,8 +244,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (28), management (2), [[Microsoft Products|Products]] (1), teams (1), leadership (1)
 > **CLI Commands:** make (5), cd (1)
-> **Code Keywords:** raise (1), finally, (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
@@ -297,6 +298,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (19), management (5), business (3), leadership (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ccoe (7)
 > **Definitions:** is a  (2)
 > **Prerequisites:** prerequisite (1)
@@ -305,7 +307,7 @@ created: 2026-04-29
 
 ### 1. Organizational Structure of a Cloud Center of Excellence (CCoE)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Structure and service of a CCoE
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980)
@@ -400,7 +402,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** cloud (14), management (9), teams (7), [[Analytics]] (4), leadership (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -482,6 +484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (15), management (5), [[Engineering]] (3), [[Decision-Making]] (2), product (2)
 > **Env Vars:** ceo (1), coo (1), cto (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -561,14 +564,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1)
+> **Frameworks & Libraries:** cloud (8), teams (5), [[Security]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[Decision-Making]] (2)
 > **Warnings:** watch out (1)
 > **Speakers:** - now (1)
 
 
 ### 2. Components of a CCoE
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Subject matter experts (SMEs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980)
@@ -635,9 +638,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (13), teams (5), [[Analytics]] (3), leadership (3), [[Thought Leadership]] (2)
 > **Env Vars:** sme (3), aws (1)
 > **CLI Commands:** make (1), aws (1)
-> **Code Keywords:** finally, (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Warnings:** be careful (1)
@@ -682,8 +685,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (10), management (6), leadership (2), teams (1), [[Engineering]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** case. (1)
 > **Env Vars:** sme (1)
 > **Speakers:** - [instructor] (1)
 
@@ -722,8 +725,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), [[Representational State Transfer (REST)|Rest]] (2), [[LinkedIn]] (1), teams (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Cloud partner management and advocacy
@@ -755,6 +758,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), management (7), [[SaaS]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **CLI Commands:** cd (1)
 > **Env Vars:** ibm (1)
 > **Definitions:** is an  (1)
@@ -818,9 +822,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (24), teams (8), [[Representational State Transfer (REST)|Rest]] (2), aws (2), [[Security]] (1)
 > **CLI Commands:** make (2), aws (2), find (1)
 > **Env Vars:** ccoe (2), aws (2)
-> **Code Keywords:** case, (1), interface (1)
 > **Analogies:** for example (1), for instance (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -860,7 +864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (2), case, (1)
+> **Frameworks & Libraries:** cloud (14), power (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -869,7 +873,7 @@ created: 2026-04-29
 
 ### 3. Analytics and Measuring Success
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Power of analytics: Were you successful?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/power-of-analytics-were-you-successful?u=76281980)
@@ -918,8 +922,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (12), next (3), teams (2), management (1), hr (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** for. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
@@ -965,8 +969,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (7), [[Slack]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** ccoe (1)
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
@@ -974,7 +978,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980)
@@ -1019,6 +1023,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (19), [[LinkedIn]] (2), web (1), business (1), management (1)
 > **CLI Commands:** find (2)
 > **URLs:** [leeatchison.com](https://leeatchison.com) (1)
 > **Best Practices:** don't forget (1)

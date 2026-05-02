@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Foundational%20Research.md)
@@ -47,29 +47,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Foundational Research**](#foundational-research) (1 videos)
-  - Diving into foundational research
+  - [Diving into foundational research](#diving-into-foundational-research)
 - [**1. Essentials of Foundational Research**](#1-essentials-of-foundational-research) (3 videos)
-  - What is foundational research and why does it matter?
-  - Foundational research cadence
-  - Common UX methods
+  - [What is foundational research and why does it matter?](#what-is-foundational-research-and-why-does-it-matter)
+  - [Foundational research cadence](#foundational-research-cadence)
+  - [Common UX methods](#common-ux-methods)
 - [**2. Existing Data**](#2-existing-data) (1 videos)
-  - Look at existing data
+  - [Look at existing data](#look-at-existing-data)
 - [**3. Interviews**](#3-interviews) (1 videos)
-  - Conducting basic interviews
+  - [Conducting basic interviews](#conducting-basic-interviews)
 - [**4. Fieldwork**](#4-fieldwork) (1 videos)
-  - Getting in the field
+  - [Getting in the field](#getting-in-the-field)
 - [**5. Longitudinal Work**](#5-longitudinal-work) (1 videos)
-  - Using longitudinal studies
+  - [Using longitudinal studies](#using-longitudinal-studies)
 - [**6. Generating Ideas**](#6-generating-ideas) (1 videos)
-  - Focus on ideation exercises
+  - [Focus on ideation exercises](#focus-on-ideation-exercises)
 - [**7. Integrating Foundational Research**](#7-integrating-foundational-research) (1 videos)
-  - Analysis and integration
+  - [Analysis and integration](#analysis-and-integration)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Foundational research toolset
+  - [Foundational research toolset](#foundational-research-toolset)
 
 ### Foundational Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into foundational research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980)
@@ -94,13 +94,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** ux (1), [[Microsoft Products|Products]] (1), teams (1), data (1)
 > **Speakers:** - when (1)
 
 
 ### 1. Essentials of Foundational Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is foundational research and why does it matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980)
@@ -159,6 +159,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), ux (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** picture (1), for instance (1)
 > **Speakers:** - most (1)
@@ -236,6 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (4), data (2), power (1), business (1), product (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
@@ -294,6 +296,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (3), ux (2), data (2), [[Market Research]] (2), business (1)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - there (1)
@@ -301,7 +304,7 @@ created: 2026-04-29
 
 ### 2. Existing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Look at existing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/look-at-existing-data?u=76281980)
@@ -336,9 +339,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Analytics]] (1), product (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** public (1)
 > **Definitions:** we call this (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - we (1)
@@ -346,7 +349,7 @@ created: 2026-04-29
 
 ### 3. Interviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conducting basic interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/conducting-basic-interviews?u=76281980)
@@ -383,6 +386,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[User Interviews]] (1)
 > **CLI Commands:** find (1)
 > **Warnings:** caution (1)
 > **Speakers:** - interviews (1)
@@ -390,7 +394,7 @@ created: 2026-04-29
 
 ### 4. Fieldwork
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting in the field
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/getting-in-the-field?u=76281980)
@@ -451,9 +455,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), management (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (2)
 > **Warnings:** be aware (2)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - if (1)
@@ -461,7 +465,7 @@ created: 2026-04-29
 
 ### 5. Longitudinal Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using longitudinal studies
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/using-longitudinal-studies?u=76281980)
@@ -514,6 +518,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Interviewing]] (1), ux (1)
 > **Definitions:** is called (1), we call this (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **CLI Commands:** make (1)
@@ -523,7 +528,7 @@ created: 2026-04-29
 
 ### 6. Generating Ideas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Focus on ideation exercises
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/focus-on-ideation-exercises?u=76281980)
@@ -560,15 +565,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (1), next (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** try. (1)
 > **Speakers:** - you (1)
 
 
 ### 7. Integrating Foundational Research
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analysis and integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/analysis-and-integration?u=76281980)
@@ -637,15 +642,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), next (3), ux (2), business (1), teams (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** this. (1), finally, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - analyzing (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundational research toolset
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-toolset?u=76281980)
@@ -666,6 +671,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ux (3), teams (2), next (1)
 > **Speakers:** - foundational (1)
 
 

@@ -34,7 +34,7 @@ tags:
   - skill/it-infrastructure-management
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep-%204%20Modernize%20Infrastructure%20and%20Applications%20with%20Google%20Cloud.md)
@@ -53,28 +53,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Course introduction
-  - Important cloud migration terms
+  - [Course introduction](#course-introduction)
+  - [Important cloud migration terms](#important-cloud-migration-terms)
 - [**1. Modernizing Infrastructure in the Cloud**](#1-modernizing-infrastructure-in-the-cloud) (6 videos)
-  - Introduction
-  - The benefits of running compute workloads in the cloud
-  - Virtual machines
-  - Containers
-  - Managing containers
-  - Serverless computing
+  - [Introduction](#introduction)
+  - [The benefits of running compute workloads in the cloud](#the-benefits-of-running-compute-workloads-in-the-cloud)
+  - [Virtual machines](#virtual-machines)
+  - [Containers](#containers)
+  - [Managing containers](#managing-containers)
+  - [Serverless computing](#serverless-computing)
 - [**2. Modernizing Applications in the Cloud**](#2-modernizing-applications-in-the-cloud) (6 videos)
-  - Introduction
-  - The benefits of modern cloud application development
-  - Rehosting legacy applications in the cloud
-  - Application programming interfaces (API)
-  - Apigee API management
-  - Hybrid and multi-cloud
+  - [Introduction](#introduction)
+  - [The benefits of modern cloud application development](#the-benefits-of-modern-cloud-application-development)
+  - [Rehosting legacy applications in the cloud](#rehosting-legacy-applications-in-the-cloud)
+  - [Application programming interfaces (API)](#application-programming-interfaces-api)
+  - [Apigee API management](#apigee-api-management)
+  - [Hybrid and multi-cloud](#hybrid-and-multi-cloud)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Course summary
+  - [Course summary](#course-summary)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980)
@@ -121,7 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
+> **Frameworks & Libraries:** cloud (6), application (2), business (1), [[Microsoft Products|Products]] (1), [[Digital Transformation]] (1)
 > **Speakers:** - [narrator (1)
 
 #### Important cloud migration terms
@@ -197,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (19), business (2), application (1), [[Databases]] (1), [[Virtual Machines]] (1)
 > **Definitions:** refers to (4), means that (3), is a  (1)
-> **Code Keywords:** let (1), include: (1), continue (1), finally, (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -206,7 +206,7 @@ created: 2026-04-29
 
 ### 1. Modernizing Infrastructure in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980)
@@ -225,6 +225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), power (1), [[Scalability]] (1), [[Virtual Machines]] (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -299,8 +300,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (23), data (7), [[Security]] (7), next (2), [[Scalability]] (2)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** let (1), continue (1), private (1), finally, (1)
 > **Definitions:** refers to (2), is a  (1), means that (1)
 > **Env Vars:** tco (2)
 > **CLI Commands:** make (1)
@@ -367,7 +368,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (2), let (1), require (1), finally, (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Hardware]] (2), [[Virtualization]] (2), power (2)
 > **Definitions:** is a  (3), means that (2)
 > **Env Vars:** api (2), cpu (1), cli (1)
 > **Analogies:** such as (2), for example (1)
@@ -407,7 +408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Hardware]] (4), application (3), [[Representational State Transfer (REST)|Rest]] (2), [[IaaS|Infrastructure as a service]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** grpc (1)
 > **Env Vars:** rest (1)
@@ -481,9 +482,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (9), [[Kubernetes]] (8), [[Google]] (6), management (3), business (3)
 > **Env Vars:** gke (8), api (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** require (1), let (1)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** setup (1), configure (1)
 > **CLI Commands:** make (1)
@@ -593,7 +594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), public (3), else. (3), case, (1), let (1)
+> **Frameworks & Libraries:** cloud (13), [[Serverless Computing]] (7), application (7), [[Google Cloud Platform (GCP)|Google cloud]] (3), power (2)
 > **Definitions:** is a  (5), means that (2), is called (2)
 > **URLs:** [mashme.io](https://mashme.io) (5)
 > **Prerequisites:** required to (2), setup (1)
@@ -604,7 +605,7 @@ created: 2026-04-29
 
 ### 2. Modernizing Applications in the Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980)
@@ -639,7 +640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** cloud (5), application (4), [[Application Development]] (2), teams (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
@@ -691,7 +692,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1)
+> **Frameworks & Libraries:** cloud (16), application (4), [[Application Development]] (2), [[Software Development]] (2), [[Microservices]] (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -738,7 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (1), this, (1)
+> **Frameworks & Libraries:** cloud (9), [[Google Cloud Platform (GCP)|Google cloud]] (6), application (3), business (2), [[Scalability]] (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** aiml (1)
@@ -808,7 +809,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** api (6), data (6), [[Microsoft Products|Products]] (5), [[Google]] (3), business (3)
 > **Env Vars:** api (6)
 > **Analogies:** think of it as (1), such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -851,6 +852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), management (3), data (3), traffic (3), [[Analytics]] (2)
 > **Env Vars:** api (11)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -916,8 +918,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (17), [[Kubernetes]] (6), [[Hybrid Cloud]] (3), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **Env Vars:** gke (8), iot (1), aws (1)
-> **Code Keywords:** public (5), private (2)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** such as (1)
@@ -926,7 +928,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980)
@@ -949,7 +951,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** cloud (9), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Security]] (3), next (2), [[Virtual Machines]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 

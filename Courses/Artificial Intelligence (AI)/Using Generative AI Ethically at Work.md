@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20Generative%20AI%20Ethically%20at%20Work.md)
@@ -53,32 +53,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Ethical considerations of AI and practical applications
-  - An ethical driver's license for AI
+  - [Ethical considerations of AI and practical applications](#ethical-considerations-of-ai-and-practical-applications)
+  - [An ethical driver's license for AI](#an-ethical-drivers-license-for-ai)
 - [**1. Making Choices Legally and Ethically**](#1-making-choices-legally-and-ethically) (5 videos)
-  - Recognize ethical choices with AI
-  - The legal, the ethical, and the prudential when using AI
-  - The basics of AI regulations: Copyright
-  - The basics of AI regulations: Privacy and security
-  - Learn AI policies and governance for your workplace
+  - [Recognize ethical choices with AI](#recognize-ethical-choices-with-ai)
+  - [The legal, the ethical, and the prudential when using AI](#the-legal-the-ethical-and-the-prudential-when-using-ai)
+  - [The basics of AI regulations: Copyright](#the-basics-of-ai-regulations-copyright)
+  - [The basics of AI regulations: Privacy and security](#the-basics-of-ai-regulations-privacy-and-security)
+  - [Learn AI policies and governance for your workplace](#learn-ai-policies-and-governance-for-your-workplace)
 - [**2. Ethics and Generative AI**](#2-ethics-and-generative-ai) (4 videos)
-  - Understand hard truths about generative AI
-  - The cupcake analogy of AI use
-  - Know your generative AI tool
-  - Make ethical choices when using generative AI
+  - [Understand hard truths about generative AI](#understand-hard-truths-about-generative-ai)
+  - [The cupcake analogy of AI use](#the-cupcake-analogy-of-ai-use)
+  - [Know your generative AI tool](#know-your-generative-ai-tool)
+  - [Make ethical choices when using generative AI](#make-ethical-choices-when-using-generative-ai)
 - [**3. Encountering AI Ethics at Work**](#3-encountering-ai-ethics-at-work) (6 videos)
-  - Defining different uses of AI at work
-  - AI ethics: Respecting copyright
-  - AI ethics: Protecting privacy
-  - AI ethics: Cybersecurity and AI risks
-  - AI ethics: AI etiquette
-  - AI ethics: Accountability and strategic use of AI
+  - [Defining different uses of AI at work](#defining-different-uses-of-ai-at-work)
+  - [AI ethics: Respecting copyright](#ai-ethics-respecting-copyright)
+  - [AI ethics: Protecting privacy](#ai-ethics-protecting-privacy)
+  - [AI ethics: Cybersecurity and AI risks](#ai-ethics-cybersecurity-and-ai-risks)
+  - [AI ethics: AI etiquette](#ai-ethics-ai-etiquette)
+  - [AI ethics: Accountability and strategic use of AI](#ai-ethics-accountability-and-strategic-use-of-ai)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Being kind
+  - [Being kind](#being-kind)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical considerations of AI and practical applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980)
@@ -101,6 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (3), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** just like (1)
 > **Prerequisites:** make sure you have (1)
@@ -141,14 +142,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), let (1)
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (3), [[Ethics]] (2), traffic (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
 
 ### 1. Making Choices Legally and Ethically
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognize ethical choices with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980)
@@ -239,8 +240,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (2), next (2), career (1), [[Ethics]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Prerequisites:** you'll need (3)
 > **Cross-References:** later in (1)
 > **Definitions:** known as (1)
@@ -333,8 +334,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethics]] (5), [[Generative AI]] (5), [[Climate Change]] (1), data (1)
 > **Analogies:** for example (3), imagine (2), for instance (1), such as (1)
-> **Code Keywords:** self (2), let (1), else. (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -413,7 +414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), public (1), this, (1), case, (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), ai (3), prompt (3), data (2), [[Regulatory Compliance]] (1)
 > **Analogies:** such as (2), picture (2), for example (1)
 > **CLI Commands:** cat (2), make (1)
 > **Warnings:** be aware (2)
@@ -486,7 +487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), delete (1), finally, (1), require (1)
+> **Frameworks & Libraries:** ai (15), [[Generative AI]] (12), data (10), [[Privacy]] (9), [[Cybersecurity]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - as (1)
@@ -542,6 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Cybersecurity]] (1), ai (1), [[ChatGPT]] (1), [[Generative AI Tools]] (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
@@ -550,7 +552,7 @@ created: 2026-04-29
 
 ### 2. Ethics and Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand hard truths about generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980)
@@ -647,7 +649,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (1), finally, (1), raise (1)
+> **Frameworks & Libraries:** data (18), [[Generative AI]] (9), ai (8), power (3), product (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Analogies:** such as (1)
@@ -760,7 +762,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (1), pass (1), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Generative AI]] (10), prompt (1), [[Microsoft Word|Word]] (1), ai (1), product (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
@@ -831,10 +833,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Generative AI Tools]] (6), [[ChatGPT]] (4), [[Generative AI]] (4), ai (2)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** gpt (2), llm (1), rag (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - in (1)
@@ -904,8 +906,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (10), data (6), ai (6), [[Privacy]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (3), finally, (1), raise (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - how (1)
@@ -913,7 +915,7 @@ created: 2026-04-29
 
 ### 3. Encountering AI Ethics at Work
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining different uses of AI at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980)
@@ -946,7 +948,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), application (1), ai (1), hr (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
@@ -1015,8 +1017,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), management (3), next (2), [[Generative AI]] (2), prompt (2)
 > **CLI Commands:** cat (1), make (1)
-> **Code Keywords:** this. (1), case: (1)
 > **Analogies:** picture (1), similar to (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -1073,6 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (9), hr (8), [[ChatGPT]] (7), data (6), [[Privacy]] (3)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
@@ -1136,7 +1139,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Generative AI]] (9), [[Cybersecurity]] (6), ai (3), data (2), generic (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -1243,8 +1246,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), [[Generative AI]] (4), [[Automation]] (3), data (2), [[Responsible AI]] (1)
 > **Analogies:** for example (1), such as (1), imagine (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** crm (1), fcc (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -1317,16 +1320,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (12), [[Generative AI Tools]] (2), hr (2), [[Accountability]] (1), [[Probability]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** for, (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - luna (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Being kind
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980)
@@ -1377,8 +1380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (7), power (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **URLs:** [ethicallyalignedai.com](https://ethicallyalignedai.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - road (1)

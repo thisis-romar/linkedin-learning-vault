@@ -34,7 +34,7 @@ tags:
   - skill/software-prototyping
   - skill/prototype-framework
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Prototypes.md)
@@ -53,26 +53,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Understanding prototypes in JavaScript
-  - Exercise files and environment setup
+  - [Understanding prototypes in JavaScript](#understanding-prototypes-in-javascript)
+  - [Exercise files and environment setup](#exercise-files-and-environment-setup)
 - [**1. Building Blocks of Prototypes**](#1-building-blocks-of-prototypes) (3 videos)
-  - Create object literals
-  - Create objects with a constructor function
-  - Using CoderPad challenges
+  - [Create object literals](#create-object-literals)
+  - [Create objects with a constructor function](#create-objects-with-a-constructor-function)
+  - [Using CoderPad challenges](#using-coderpad-challenges)
 - [**2. Using Prototypal Inheritance**](#2-using-prototypal-inheritance) (4 videos)
-  - Understand the prototype property
-  - Modify an object's prototype
-  - Create a prototype chain
-  - Apply prototypal inheritance
+  - [Understand the prototype property](#understand-the-prototype-property)
+  - [Modify an object's prototype](#modify-an-objects-prototype)
+  - [Create a prototype chain](#create-a-prototype-chain)
+  - [Apply prototypal inheritance](#apply-prototypal-inheritance)
 - [**3. Using ES6 Classes**](#3-using-es6-classes) (2 videos)
-  - Understand ES6 classes
-  - Build prototypes using ES6 classes
+  - [Understand ES6 classes](#understand-es6-classes)
+  - [Build prototypes using ES6 classes](#build-prototypes-using-es6-classes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding prototypes in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understanding-prototypes-in-javascript-22200396?u=76281980)
@@ -91,8 +91,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - when (1)
 
@@ -165,6 +165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[HTML]] (3), node (3), [[Microsoft]] (2), [[npm]] (2)
 > **Tools:** visual studio (3), command line (2), firefox (1), safari (1), sublime (1)
 > **CLI Commands:** node (3), npm (2), sudo (2), make (1)
 > **Prerequisites:** install (5), set up (1), you'll need (1)
@@ -172,12 +173,11 @@ created: 2026-04-29
 > **Definitions:** is a  (3), is an  (1)
 > **File Paths:** all.js (1), index.html (1)
 > **Exercise Files:** exercise files (2)
-> **Code Keywords:** let (1)
 
 
 ### 1. Building Blocks of Prototypes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create object literals
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980)
@@ -388,7 +388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (5), let (3), type. (2), function (2), this. (1)
+> **Frameworks & Libraries:** data (7), [[JavaScript]] (1), product (1), css (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** dataobject (7), newitem (4), logitem (1)
 > **File Paths:** all.js (1), index.html (1)
 > **CLI Commands:** make (2)
@@ -558,7 +558,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), this. (9), pass (5), type, (2), this [ (2)
+> **Frameworks & Libraries:** data (6), [[JavaScript]] (2), product (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** dataobject (10), addstem (3), newitem (3), logitem (1), jquery (1)
 > **UI Navigation:** go to (2), scroll up (1), scroll down (1)
 > **Analogies:** for instance (2), just like (2)
@@ -618,14 +618,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** showexpectedresult (1), showhints (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Using Prototypal Inheritance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the prototype property
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understand-the-prototype-property-14317677?u=76281980)
@@ -668,6 +668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (1), feature (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -758,7 +759,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (2), delete (1), switch (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Definitions:** is called (1), is an  (1)
 > **Env Vars:** http (1)
 > **UI Navigation:** switch to (1)
@@ -921,7 +922,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (1), delete (1), include, (1), case, (1)
+> **Frameworks & Libraries:** generic (2), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** just like (2), for instance (1)
 > **CLI Commands:** find (1), make (1)
@@ -963,6 +964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (2), http (1)
 > **UI Navigation:** go to (1)
@@ -972,7 +974,7 @@ created: 2026-04-29
 
 ### 3. Using ES6 Classes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand ES6 classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980)
@@ -1017,9 +1019,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[Java]] (1)
 > **Analogies:** similar to (2), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** extends (1), from. (1)
 > **Env Vars:** es6 (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -1135,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (7), extends (6), class, (4), class. (4), let (3)
+> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), data (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** just like (2), for instance (1)
 > **CLI Commands:** make (1)
@@ -1147,7 +1149,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980)
@@ -1170,6 +1172,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[Vanilla]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Speakers:** - [instructor] (1)
 
 

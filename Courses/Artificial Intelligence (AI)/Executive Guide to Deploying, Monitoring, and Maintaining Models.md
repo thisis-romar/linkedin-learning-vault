@@ -29,7 +29,7 @@ tags:
   - skill/mlops
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Executive%20Guide%20to%20Deploying%2C%20Monitoring%2C%20and%20Maintaining%20Models.md)
@@ -48,28 +48,28 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. The Phases of a Machine Learning Project**](#1-the-phases-of-a-machine-learning-project) (4 videos)
-  - Data and supervised machine learning
-  - Data engineering and MLOps in the ML lifecycle
-  - Why ML projects fail to be deployed
-  - The basics of ML modeling
+  - [Data and supervised machine learning](#data-and-supervised-machine-learning)
+  - [Data engineering and MLOps in the ML lifecycle](#data-engineering-and-mlops-in-the-ml-lifecycle)
+  - [Why ML projects fail to be deployed](#why-ml-projects-fail-to-be-deployed)
+  - [The basics of ML modeling](#the-basics-of-ml-modeling)
 - [**2. Model Evaluation**](#2-model-evaluation) (2 videos)
-  - The business evaluation phase
-  - A deployment checklist
+  - [The business evaluation phase](#the-business-evaluation-phase)
+  - [A deployment checklist](#a-deployment-checklist)
 - [**3. Scoring**](#3-scoring) (3 videos)
-  - Scoring traditional ML models
-  - Scoring a "black box" model
-  - Scoring an ensemble
+  - [Scoring traditional ML models](#scoring-traditional-ml-models)
+  - [Scoring a "black box" model](#scoring-a-black-box-model)
+  - [Scoring an ensemble](#scoring-an-ensemble)
 - [**4. Deployment**](#4-deployment) (3 videos)
-  - Batch vs. real-time scoring
-  - Data prep and scoring
-  - Combining batch and real-time scoring
+  - [Batch vs. real-time scoring](#batch-vs-real-time-scoring)
+  - [Data prep and scoring](#data-prep-and-scoring)
+  - [Combining batch and real-time scoring](#combining-batch-and-real-time-scoring)
 - [**5. Monitoring and Maintenance**](#5-monitoring-and-maintenance) (2 videos)
-  - What is model monitoring?
-  - How often should you rebuild?
+  - [What is model monitoring?](#what-is-model-monitoring)
+  - [How often should you rebuild?](#how-often-should-you-rebuild)
 
 ### 1. The Phases of a Machine Learning Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data and supervised machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980)
@@ -108,9 +108,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), data (2), [[CRISP-DM]] (2), [[Logistic Regression]] (1), [[Decision Trees]] (1)
 > **Env Vars:** crisp (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - since (1)
 
 #### Data engineering and MLOps in the ML lifecycle
@@ -164,7 +164,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), new. (1), continue (1)
+> **Frameworks & Libraries:** data (20), [[Data Engineering]] (4), career (2), [[LinkedIn]] (1), [[DevOps]] (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
@@ -250,9 +250,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), teams (2), [[Analytics]] (1), business (1), management (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** roi (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - numerous (1)
 
 #### The basics of ML modeling
@@ -310,6 +310,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), data (2), business (2), [[Predictive Analytics]] (1), [[Logistic Regression]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -317,7 +318,7 @@ created: 2026-04-29
 
 ### 2. Model Evaluation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The business evaluation phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980)
@@ -374,6 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[CRISP-DM]] (1), data (1), [[MLOps]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crisp (1)
 > **Speakers:** - crisp (1)
@@ -463,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), require (1)
+> **Frameworks & Libraries:** data (8), business (2), teams (1), [[MLOps]] (1), [[Feature Engineering]] (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [lecturer] (1)
@@ -471,7 +473,7 @@ created: 2026-04-29
 
 ### 3. Scoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scoring traditional ML models
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980)
@@ -544,7 +546,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), super (1), finally, (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (5), [[Logistic Regression]] (3), data (2), [[Algorithms]] (1), node (1)
 > **Definitions:** is a  (2), essentially is (1)
 > **CLI Commands:** node (1), python (1)
 > **Analogies:** picture (1), for instance (1)
@@ -612,9 +614,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Deep Learning]] (7), data (2), [[ChatGPT]] (2), business (2), [[Forms]] (1)
 > **Env Vars:** pmml (3)
 > **Definitions:** in other words (1), means that (1), is a  (1)
-> **Code Keywords:** else, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Scoring an ensemble
@@ -672,13 +674,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Predictive Analytics]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Batch vs. real-time scoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/batch-vs-real-time-scoring?u=76281980)
@@ -789,8 +792,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (9), business (6)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -863,7 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1)
+> **Frameworks & Libraries:** data (13), [[Feature Engineering]] (1), feature (1), next (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -911,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (2)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -919,7 +922,7 @@ created: 2026-04-29
 
 ### 5. Monitoring and Maintenance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is model monitoring?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980)
@@ -1008,7 +1011,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for, (1), case, (1), if, (1), this, (1)
+> **Frameworks & Libraries:** data (7), business (3), [[CRISP-DM]] (2), [[Predictive Analytics]] (1), [[Forecasting]] (1)
 > **Env Vars:** crisp (2), mape (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1116,7 +1119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (1)
+> **Frameworks & Libraries:** business (3), data (3), [[Real-Time]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 

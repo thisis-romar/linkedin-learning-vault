@@ -31,7 +31,7 @@ tags:
   - skill/database-queries
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Querying%20Microsoft%20SQL%20Server%202022.md)
@@ -50,90 +50,90 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (4 videos)
-  - Turn data into information with queries
-  - What you should know
-  - Download the sample database
-  - Exploring the code challenge environment
+  - [Turn data into information with queries](#turn-data-into-information-with-queries)
+  - [What you should know](#what-you-should-know)
+  - [Download the sample database](#download-the-sample-database)
+  - [Exploring the code challenge environment](#exploring-the-code-challenge-environment)
 - [**1. Introduction to T-SQL Queries**](#1-introduction-to-t-sql-queries) (10 videos)
-  - What is Transact SQL?
-  - The SQL querying environment
-  - Return records with SELECT and FROM
-  - Filter records with WHERE
-  - Sort records with ORDER BY
-  - Column aliases
-  - Create values with constants and math
-  - Challenge: Write a SELECT query
-  - Solution: Write a SELECT query
-  - Solution: Query information from a database
+  - [What is Transact SQL?](#what-is-transact-sql)
+  - [The SQL querying environment](#the-sql-querying-environment)
+  - [Return records with SELECT and FROM](#return-records-with-select-and-from)
+  - [Filter records with WHERE](#filter-records-with-where)
+  - [Sort records with ORDER BY](#sort-records-with-order-by)
+  - [Column aliases](#column-aliases)
+  - [Create values with constants and math](#create-values-with-constants-and-math)
+  - [Challenge: Write a SELECT query](#challenge-write-a-select-query)
+  - [Solution: Write a SELECT query](#solution-write-a-select-query)
+  - [Solution: Query information from a database](#solution-query-information-from-a-database)
 - [**2. Additional Filter Techniques**](#2-additional-filter-techniques) (8 videos)
-  - Limit results with TOP
-  - Remove duplicates with DISTINCT
-  - Comparison operators
-  - Understand NULL values
-  - Match text with LIKE and wildcards
-  - Challenge: Retrieve matching text strings
-  - Solution: Retrieve matching text strings
-  - Solution: Filter results from a query result
+  - [Limit results with TOP](#limit-results-with-top)
+  - [Remove duplicates with DISTINCT](#remove-duplicates-with-distinct)
+  - [Comparison operators](#comparison-operators)
+  - [Understand NULL values](#understand-null-values)
+  - [Match text with LIKE and wildcards](#match-text-with-like-and-wildcards)
+  - [Challenge: Retrieve matching text strings](#challenge-retrieve-matching-text-strings)
+  - [Solution: Retrieve matching text strings](#solution-retrieve-matching-text-strings)
+  - [Solution: Filter results from a query result](#solution-filter-results-from-a-query-result)
 - [**3. Retrieve Records from Multiple Tables**](#3-retrieve-records-from-multiple-tables) (7 videos)
-  - Table joins and relationships
-  - Inner joins
-  - Left, right, and full outer joins
-  - Cross joins
-  - Challenge: Return data from multiple tables
-  - Solution: Return data from multiple tables
-  - Solution: Join data in multiple tables
+  - [Table joins and relationships](#table-joins-and-relationships)
+  - [Inner joins](#inner-joins)
+  - [Left, right, and full outer joins](#left-right-and-full-outer-joins)
+  - [Cross joins](#cross-joins)
+  - [Challenge: Return data from multiple tables](#challenge-return-data-from-multiple-tables)
+  - [Solution: Return data from multiple tables](#solution-return-data-from-multiple-tables)
+  - [Solution: Join data in multiple tables](#solution-join-data-in-multiple-tables)
 - [**4. Group Records**](#4-group-records) (8 videos)
-  - Understand record grouping
-  - Use GROUP BY and COUNT
-  - Aggregate functions
-  - Explore data with SUM
-  - Filter groups with HAVING
-  - Challenge: Obtain order summaries
-  - Solution: Obtain order summaries
-  - Solution: Group rows and aggregate data
+  - [Understand record grouping](#understand-record-grouping)
+  - [Use GROUP BY and COUNT](#use-group-by-and-count)
+  - [Aggregate functions](#aggregate-functions)
+  - [Explore data with SUM](#explore-data-with-sum)
+  - [Filter groups with HAVING](#filter-groups-with-having)
+  - [Challenge: Obtain order summaries](#challenge-obtain-order-summaries)
+  - [Solution: Obtain order summaries](#solution-obtain-order-summaries)
+  - [Solution: Group rows and aggregate data](#solution-group-rows-and-aggregate-data)
 - [**5. Manipulate Data with Functions**](#5-manipulate-data-with-functions) (15 videos)
-  - Use functions in T-SQL
-  - String functions
-  - Text concatenation
-  - Round with mathematical functions
-  - Find the GREATEST or LEAST value
-  - Work with date functions
-  - FORMAT date and times
-  - Group dates into buckets
-  - Return random records with NEWID
-  - Create a series of values
-  - The IIF logical function
-  - Write a CASE statement
-  - Challenge: Use functions in a SQL query
-  - Solution: Use functions in a SQL query
-  - Solution: Use functions in a query
+  - [Use functions in T-SQL](#use-functions-in-t-sql)
+  - [String functions](#string-functions)
+  - [Text concatenation](#text-concatenation)
+  - [Round with mathematical functions](#round-with-mathematical-functions)
+  - [Find the GREATEST or LEAST value](#find-the-greatest-or-least-value)
+  - [Work with date functions](#work-with-date-functions)
+  - [FORMAT date and times](#format-date-and-times)
+  - [Group dates into buckets](#group-dates-into-buckets)
+  - [Return random records with NEWID](#return-random-records-with-newid)
+  - [Create a series of values](#create-a-series-of-values)
+  - [The IIF logical function](#the-iif-logical-function)
+  - [Write a CASE statement](#write-a-case-statement)
+  - [Challenge: Use functions in a SQL query](#challenge-use-functions-in-a-sql-query)
+  - [Solution: Use functions in a SQL query](#solution-use-functions-in-a-sql-query)
+  - [Solution: Use functions in a query](#solution-use-functions-in-a-query)
 - [**6. Writing SQL Scripts**](#6-writing-sql-scripts) (3 videos)
-  - Change database context with USE
-  - Add comments to a script
-  - When to use square brackets
+  - [Change database context with USE](#change-database-context-with-use)
+  - [Add comments to a script](#add-comments-to-a-script)
+  - [When to use square brackets](#when-to-use-square-brackets)
 - [**7. SQL Subqueries**](#7-sql-subqueries) (7 videos)
-  - What is a subquery?
-  - Use a subquery in a HAVING clause
-  - Correlated subqueries
-  - PIVOT the result set
-  - Challenge: Write a query with a subquery
-  - Solution: Write a query with a subquery
-  - Solution: Obtain information with a subquery
+  - [What is a subquery?](#what-is-a-subquery)
+  - [Use a subquery in a HAVING clause](#use-a-subquery-in-a-having-clause)
+  - [Correlated subqueries](#correlated-subqueries)
+  - [PIVOT the result set](#pivot-the-result-set)
+  - [Challenge: Write a query with a subquery](#challenge-write-a-query-with-a-subquery)
+  - [Solution: Write a query with a subquery](#solution-write-a-query-with-a-subquery)
+  - [Solution: Obtain information with a subquery](#solution-obtain-information-with-a-subquery)
 - [**8. Work with Variables**](#8-work-with-variables) (4 videos)
-  - Create and use variables in a query
-  - Create a counter for a looping statement
-  - Challenge: Use variables in a query
-  - Solution: Use variables in a query
+  - [Create and use variables in a query](#create-and-use-variables-in-a-query)
+  - [Create a counter for a looping statement](#create-a-counter-for-a-looping-statement)
+  - [Challenge: Use variables in a query](#challenge-use-variables-in-a-query)
+  - [Solution: Use variables in a query](#solution-use-variables-in-a-query)
 - [**9. Result Set Operators**](#9-result-set-operators) (3 videos)
-  - Combine results with UNION
-  - Return distinct rows with EXCEPT
-  - Return common rows with INTERSECT
+  - [Combine results with UNION](#combine-results-with-union)
+  - [Return distinct rows with EXCEPT](#return-distinct-rows-with-except)
+  - [Return common rows with INTERSECT](#return-common-rows-with-intersect)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Turn data into information with queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980)
@@ -154,6 +154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (4), [[Microsoft SQL Server|Sql server]] (2), [[LinkedIn]] (1), [[Databases]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is called (1), is an  (1)
 > **Speakers:** - there (1)
@@ -177,6 +178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), database (3), data (2), [[Databases]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
@@ -253,8 +255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (9), [[Microsoft SQL Server|Sql server]] (3), data (3), [[Databases]] (2), [[Microsoft]] (1)
 > **Env Vars:** sql (4), mssql (1), mssqlserver (1), msssql (1), ssms (1)
-> **Code Keywords:** this, (1), continue (1), let (1), from. (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Tools:** github (1)
@@ -305,6 +307,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** max (1)
 > **Cross-References:** next video (1)
@@ -313,7 +316,7 @@ created: 2026-04-29
 
 ### 1. Introduction to T-SQL Queries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Transact SQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980)
@@ -376,10 +379,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (13), database (9), data (6), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (16), ddl (2), dml (2), rdbms (1), ansi (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** function (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -540,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (5), finally, (2), case, (2), type . (1)
+> **Frameworks & Libraries:** data (16), database (8), [[SQL]] (6), management (3), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (7), ssms (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** right-click (2), go to (1), checkbox (1)
@@ -740,7 +743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), static (1), function (1), case, (1), private (1)
+> **Frameworks & Libraries:** database (17), data (6), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (3), [[Human Resources (HR)|Human resources]] (3)
 > **Env Vars:** sql (7)
 > **Definitions:** is a  (3), means that (2)
 > **CLI Commands:** make (2), find (1)
@@ -828,7 +831,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (4), return, (1), continue (1), this, (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (3), database (1), [[Human Resources (HR)|Human resources]] (1)
 > **SQL:** where (8)
 > **Env Vars:** where (8)
 > **Analogies:** for instance (2), such as (1)
@@ -904,9 +907,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (1), management (1)
 > **Env Vars:** order (7), select (2), where (1), desc (1)
 > **SQL:** order by (6), select (2), where (1)
-> **Code Keywords:** case, (1), let (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -967,7 +970,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1)
+> **Frameworks & Libraries:** data (4), management (2), database (1)
 > **SQL:** select (3)
 > **Env Vars:** select (3)
 > **Speakers:** - [instructor] (1)
@@ -1065,7 +1068,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), from. (1)
+> **Frameworks & Libraries:** product (8), data (6), [[Microsoft Products|Products]] (2), database (2), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 0.85 (2)
 > **UI Navigation:** scroll down (1)
@@ -1104,6 +1107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (1), database (1), [[Microsoft Products|Products]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [tutor] (1)
@@ -1230,8 +1234,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), database (1), next (1), [[SQL]] (1)
 > **CLI Commands:** find (6), make (1)
-> **Code Keywords:** let (5), this. (1), finally, (1)
 > **File Paths:** challengeonecomplete.sql (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
@@ -1345,17 +1349,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (2), next (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** where (6), select (3), sql (2), status (1), price (1)
 > **Non-Speech:** (keys typing) (13), (upbeat music) (1)
 > **SQL:** where (6), select (3), order by (1)
-> **Code Keywords:** for, (2), for. (1), this, (1), match. (1), finally, (1)
 > **CLI Commands:** make (2), find (2)
 > **Speakers:** - [presenter] (1)
 
 
 ### 2. Additional Filter Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Limit results with TOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/limit-results-with-top?u=76281980)
@@ -1456,7 +1460,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), return. (2), finally, (1)
+> **Frameworks & Libraries:** database (3), data (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** gst (1)
 > **Cross-References:** in the last (1)
@@ -1528,10 +1532,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (2)
 > **Env Vars:** select (6), distinct (1), order (1)
 > **SQL:** select (6), order by (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for instance (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -1611,10 +1615,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Databases]] (1), [[Microsoft SQL Server|Sql server]] (1), data (1), database (1)
 > **CLI Commands:** find (5)
 > **Versions:** 7.25 (4)
 > **Analogies:** for instance (4)
-> **Code Keywords:** let (1), this, (1), match. (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** select the (1)
 > **Warnings:** keep in mind (1)
@@ -1703,7 +1707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (2), this, (2), case, (1)
+> **Frameworks & Libraries:** data (7), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** where (5), isnull (5), sql (1), select (1), isnotnull (1)
 > **SQL:** where (5), select (1)
 > **CLI Commands:** find (4), make (1)
@@ -1780,8 +1784,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (2), [[Search]] (2), [[Microsoft SQL Server|Sql server]] (1), data (1), product (1)
 > **CLI Commands:** find (6)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for instance (2), such as (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is called (1)
@@ -1809,8 +1813,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), business (1), [[Microsoft Word|Word]] (1), next (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** match, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1940,7 +1944,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for. (2), this, (2), this. (2), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), database (1), data (1), [[Search]] (1), [[SQL]] (1)
 > **CLI Commands:** find (4)
 > **File Paths:** complete.sql (1)
 > **Env Vars:** sql (1)
@@ -2036,11 +2040,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), next (1), [[Search]] (1)
 > **SQL:** where (5), select (3)
 > **Env Vars:** where (5), select (3)
 > **CLI Commands:** find (4), make (3)
 > **Definitions:** is a  (4)
-> **Code Keywords:** for. (1), case, (1)
 > **Analogies:** for instance (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -2048,7 +2052,7 @@ created: 2026-04-29
 
 ### 3. Retrieve Records from Multiple Tables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Table joins and relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980)
@@ -2123,7 +2127,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), for, (1), finally, (1)
+> **Frameworks & Libraries:** data (7), database (2), [[Relational Databases]] (1), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
@@ -2300,8 +2304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12), [[Microsoft SQL Server|Sql server]] (4), data (4), next (3), [[Windows]] (1)
 > **CLI Commands:** make (6), find (4)
-> **Code Keywords:** let (3), else, (1), for. (1), finally, (1), this. (1)
 > **Env Vars:** sql (4)
 > **Analogies:** for instance (3), just like (1)
 > **UI Navigation:** scroll down (2)
@@ -2416,8 +2420,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Human Resources (HR)|Human resources]] (1), [[Microsoft SQL Server|Sql server]] (1), database (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (2), type, (1), case, (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **Analogies:** for instance (1)
@@ -2526,8 +2530,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), product (2)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (4)
 > **SQL:** where (2), select (1)
 > **Env Vars:** where (2), select (1)
 > **UI Navigation:** scroll down (1), select the (1)
@@ -2564,7 +2568,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** data (2), database (2)
 > **Env Vars:** inner (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -2727,7 +2731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), from. (1), this, (1)
+> **Frameworks & Libraries:** data (4), next (2), database (2), [[SQL]] (1)
 > **Env Vars:** inner (3), join (3), select (2), order (1)
 > **SQL:** inner join (3), select (2), order by (1)
 > **CLI Commands:** make (2), find (2)
@@ -2816,9 +2820,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** join (8), inner (3), employeeid (2), sessionid (2), left (2)
 > **SQL:** join (3), inner join (3), left join (2), where (2)
-> **Code Keywords:** let (2), from, (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2826,7 +2830,7 @@ created: 2026-04-29
 
 ### 4. Group Records
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand record grouping
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980)
@@ -2887,7 +2891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (2), function (1)
+> **Frameworks & Libraries:** database (3), data (2), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
 > **SQL:** group by (3)
 > **Env Vars:** group (3)
 > **CLI Commands:** make (1), find (1)
@@ -3003,9 +3007,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (2), [[Statistics]] (1)
 > **Env Vars:** group (9), select (6), order (6), distinct (1)
 > **SQL:** group by (9), select (6), order by (6)
-> **Code Keywords:** let (4), function (3), case, (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** select the (1)
@@ -3079,8 +3083,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (2), database (1), [[Big Data]] (1), [[Statistical Analysis]] (1)
 > **Env Vars:** sum (4), count (3), sql (2), distinct (2), count_big (1)
-> **Code Keywords:** function (6), default, (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3231,8 +3235,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (18), data (8), database (3), [[Microsoft Products|Products]] (2), [[Financial Data]] (1)
 > **Env Vars:** select (6), group (5), sum (4), order (2), count (1)
-> **Code Keywords:** let (6), function (3), finally, (3), from. (2), this, (1)
 > **SQL:** select (6), group by (5), order by (2)
 > **CLI Commands:** find (4)
 > **Best Practices:** remember to (1)
@@ -3317,9 +3321,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (3), [[Statistics]] (1)
 > **Env Vars:** where (8), having (8), group (5), select (3), null (3)
 > **SQL:** where (8), having (8), group by (5), select (3)
-> **Code Keywords:** function (2), let (1), catch. (1), this, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3358,9 +3362,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** sum (1), min (1), max (1), avg (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** function (1), finally, (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3680,8 +3684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Statistics]] (1), [[SQL]] (1)
 > **Env Vars:** sum (8), soh (5), min (4), max (4), group (3)
-> **Code Keywords:** let (20), function (6), from. (3), finally, (1)
 > **SQL:** group by (3), inner join (2), select (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** it's like (1), for instance (1)
@@ -3760,7 +3764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), from, (1), class. (1), function (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Calculus]] (3), next (1)
 > **Env Vars:** avg (3)
 > **Versions:** 2.8 (1), 1.7 (1), 1.8 (1)
 > **CLI Commands:** find (2)
@@ -3771,7 +3775,7 @@ created: 2026-04-29
 
 ### 5. Manipulate Data with Functions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use functions in T-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-functions-in-t-sql?u=76281980)
@@ -3832,7 +3836,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), self (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), data (3), database (1), [[Automation]] (1)
 > **Env Vars:** sql (3), group (1), left (1), url (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -3921,7 +3925,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), let (9), case. (1)
+> **Frameworks & Libraries:** data (7), database (2), next (1), [[SQL]] (1), product (1)
 > **Env Vars:** upper (2), len (2), trim (2), lower (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4008,7 +4012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), case, (1), for, (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), data (1), database (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** in the last (2)
 > **Definitions:** stands for (1), is a  (1)
@@ -4087,7 +4091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (1)
+> **Frameworks & Libraries:** next (7), data (5), database (2), business (1), [[Financial Data]] (1)
 > **Env Vars:** ytd (3)
 > **Speakers:** - [instructor] (1)
 
@@ -4190,7 +4194,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), let (6), case, (1), this. (1)
+> **Frameworks & Libraries:** business (3), data (2), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Word|Word]] (1), database (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** sql (1), iif (1)
 > **UI Navigation:** scroll down (1), select the (1)
@@ -4310,7 +4314,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (14), let (9), finally, (2)
+> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (2), business (1), next (1), database (1)
 > **Env Vars:** sql (2), utc (2)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (1)
@@ -4365,7 +4369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), type, (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** data (6), [[Databases]] (1), [[Forms]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Programming]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** sql (1)
@@ -4513,7 +4517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (5), finally, (2), case, (1), this, (1)
+> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (2), next (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** sql (2)
@@ -4569,7 +4573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2)
+> **Frameworks & Libraries:** data (4), database (3), [[Microsoft SQL Server|Sql server]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -4689,7 +4693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (6), for. (1), type. (1), this, (1)
+> **Frameworks & Libraries:** database (9), [[Microsoft SQL Server|Sql server]] (3), business (3), [[SQL]] (1), next (1)
 > **Versions:** 0.0 (2), 1.0 (2), 0.1 (2), 0.2 (1)
 > **Env Vars:** sql (4)
 > **UI Navigation:** scroll down (1), select the (1)
@@ -4793,7 +4797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (5)
+> **Frameworks & Libraries:** data (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** iif (8), sql (1), where (1), select (1), group (1)
 > **CLI Commands:** find (2), make (1)
 > **SQL:** where (1), select (1), group by (1)
@@ -4905,7 +4909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), case. (1), case, (1), for, (1)
+> **Frameworks & Libraries:** data (6), product (5), next (1), database (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [presenter] (1)
@@ -4931,9 +4935,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), [[SQL]] (1), next (1)
 > **File Paths:** challengefive-start.sql (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -5311,7 +5315,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (30), function (13), this. (3), this, (2)
+> **Frameworks & Libraries:** data (7), database (4), [[Microsoft SQL Server|Sql server]] (1), product (1), next (1)
 > **Env Vars:** select (5), concat (4), case (4), newid (4), iif (4)
 > **SQL:** select (5), where (3), order by (3)
 > **CLI Commands:** find (4), make (1)
@@ -5419,8 +5423,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), next (1), database (1)
 > **Env Vars:** case (6), concat (1), left (1), else (1), end (1)
-> **Code Keywords:** function (2), case, (2), finally, (1), let (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **SQL:** select (1)
@@ -5430,7 +5434,7 @@ created: 2026-04-29
 
 ### 6. Writing SQL Scripts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Change database context with USE
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/change-database-context-with-use?u=76281980)
@@ -5497,7 +5501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), interface (1), switch (1)
+> **Frameworks & Libraries:** database (11), [[Microsoft SQL Server|Sql server]] (3), management (2), data (1)
 > **Env Vars:** sql (3)
 > **UI Navigation:** dropdown (1), in the toolbar (1), select the (1)
 > **Analogies:** for instance (2), such as (1)
@@ -5594,8 +5598,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), data (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1), database (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (4), select (4)
-> **Code Keywords:** let (3), from, (1), include. (1), this, (1), continue (1)
 > **SQL:** select (4)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (1)
@@ -5636,7 +5640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), this, (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), management (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (3)
 > **UI Navigation:** right-click (1), select the (1)
 > **Analogies:** for instance (1)
@@ -5646,7 +5650,7 @@ created: 2026-04-29
 
 ### 7. SQL Subqueries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a subquery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-a-subquery?u=76281980)
@@ -5759,7 +5763,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), static (3), function (2), this. (1), require (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), database (1), data (1), next (1)
 > **Env Vars:** select (6), sql (2), top (2), max (2), ytd (1)
 > **SQL:** select (6)
 > **CLI Commands:** find (5)
@@ -5895,7 +5899,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), finally, (2), from. (1), delete (1)
+> **Frameworks & Libraries:** data (3), database (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** select the (2)
 > **Env Vars:** avg (1)
@@ -6025,9 +6029,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (1)
 > **Env Vars:** join (8), inner (6), where (4), null (4), left (1)
 > **SQL:** inner join (5), where (4), join (2), left join (1)
-> **Code Keywords:** let (5), this, (2)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is an  (2), is called (1)
 > **UI Navigation:** scroll down (1), select the (1)
@@ -6125,8 +6129,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (21), data (8), [[Microsoft Products|Products]] (3), database (1), next (1)
 > **CLI Commands:** find (4)
-> **Code Keywords:** let (3), function (1)
 > **UI Navigation:** select the (3)
 > **Env Vars:** pivot (1)
 > **Analogies:** just like (1)
@@ -6161,6 +6165,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[SQL]] (1), [[Pivot Tables]] (1), data (1)
 > **CLI Commands:** find (2)
 > **File Paths:** challengesix-start.sql (1)
 > **Env Vars:** pivot (1)
@@ -6386,7 +6391,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (5), from. (2), this, (2), for, (1)
+> **Frameworks & Libraries:** product (18), [[Microsoft Products|Products]] (11), data (9), next (4), [[SQL]] (2)
 > **UI Navigation:** select the (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (2)
@@ -6546,9 +6551,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), data (2)
 > **Env Vars:** group (4), select (3), having (3), avg (2), inner (1)
 > **SQL:** group by (4), select (3), having (3), inner join (1), order by (1)
-> **Code Keywords:** let (5), function (2), this. (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is called (2)
 > **Speakers:** - [instructor] (1)
@@ -6557,7 +6562,7 @@ created: 2026-04-29
 
 ### 8. Work with Variables
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and use variables in a query
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980)
@@ -6682,8 +6687,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Products|Products]] (3), product (3), [[SQL]] (2)
 > **Env Vars:** sql (5), int (1), varchar (1)
-> **Code Keywords:** type. (2), finally, (2), function (1), let (1)
 > **CLI Commands:** find (2), make (1)
 > **SQL:** varchar (1)
 > **UI Navigation:** select the (1)
@@ -6834,8 +6839,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (5), [[SQL]] (2), data (2), database (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** while (12), end (5), sql (3), begin (3), set (3)
-> **Code Keywords:** type, (2), let (2), this. (1), finally, (1), catch. (1)
 > **SQL:** select (2), where (2)
 > **UI Navigation:** select the (2)
 > **Analogies:** for instance (1), such as (1)
@@ -6865,8 +6870,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (1), while (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
@@ -7005,8 +7010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[SQL]] (2), next (1)
 > **Env Vars:** select (5), top (5), where (3), sql (2), order (2)
-> **Code Keywords:** let (9), require (1), this. (1), type. (1)
 > **SQL:** select (5), where (3), order by (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
@@ -7016,7 +7021,7 @@ created: 2026-04-29
 
 ### 9. Result Set Operators
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Combine results with UNION
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980)
@@ -7085,8 +7090,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), product (3), [[Windows]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** union (8), select (3)
-> **Code Keywords:** this, (2), this. (1), finally, (1)
 > **SQL:** select (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
@@ -7183,7 +7188,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (1)
+> **Frameworks & Libraries:** business (6), data (2), database (2), next (1), [[Hardware]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (2)
 > **Cross-References:** earlier in (1)
@@ -7262,10 +7267,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), data (3), [[Microsoft Word|Word]] (1), product (1), [[Databases]] (1)
 > **Env Vars:** intersect (7), join (5), select (4), inner (4), union (2)
 > **SQL:** select (4), inner join (4), join (1)
 > **CLI Commands:** find (2), make (2)
-> **Code Keywords:** let (2), case, (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** just like (2)
 > **Warnings:** warning (1)
@@ -7274,7 +7279,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980)
@@ -7305,8 +7310,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (2), [[Databases]] (2), database (2), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (8)
-> **Code Keywords:** for. (1), finally, (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [adam] (1)
 

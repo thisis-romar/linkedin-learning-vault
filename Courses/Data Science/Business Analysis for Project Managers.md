@@ -28,7 +28,7 @@ tags:
   - skill/project-management
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20for%20Project%20Managers.md)
@@ -47,45 +47,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Business analysis: Supporting project management work
-  - What is business analysis?
-  - Common business analysis competencies
+  - [Business analysis: Supporting project management work](#business-analysis-supporting-project-management-work)
+  - [What is business analysis?](#what-is-business-analysis)
+  - [Common business analysis competencies](#common-business-analysis-competencies)
 - [**1. Preproject Activities**](#1-preproject-activities) (4 videos)
-  - Initiating a project
-  - Situation statement and needs assessment
-  - Key components of the business case
-  - How to determine the business need without a business case
+  - [Initiating a project](#initiating-a-project)
+  - [Situation statement and needs assessment](#situation-statement-and-needs-assessment)
+  - [Key components of the business case](#key-components-of-the-business-case)
+  - [How to determine the business need without a business case](#how-to-determine-the-business-need-without-a-business-case)
 - [**2. Stakeholders**](#2-stakeholders) (2 videos)
-  - Stakeholder identification and assessment
-  - The importance of stakeholder engagement
+  - [Stakeholder identification and assessment](#stakeholder-identification-and-assessment)
+  - [The importance of stakeholder engagement](#the-importance-of-stakeholder-engagement)
 - [**3. Initial Project Understanding**](#3-initial-project-understanding) (2 videos)
-  - How to develop a shared vision of the product or project result
-  - How to develop a road map for product delivery
+  - [How to develop a shared vision of the product or project result](#how-to-develop-a-shared-vision-of-the-product-or-project-result)
+  - [How to develop a road map for product delivery](#how-to-develop-a-road-map-for-product-delivery)
 - [**4. Project Plans**](#4-project-plans) (3 videos)
-  - Identify, plan, and execute on business analysis activities
-  - Including analysis activities in the project schedule
-  - Determine product scope
+  - [Identify, plan, and execute on business analysis activities](#identify-plan-and-execute-on-business-analysis-activities)
+  - [Including analysis activities in the project schedule](#including-analysis-activities-in-the-project-schedule)
+  - [Determine product scope](#determine-product-scope)
 - [**5. Analyzing Requirements**](#5-analyzing-requirements) (4 videos)
-  - Product requirements
-  - Eliciting requirements
-  - Analyzing requirements
-  - Baselining requirements
+  - [Product requirements](#product-requirements)
+  - [Eliciting requirements](#eliciting-requirements)
+  - [Analyzing requirements](#analyzing-requirements)
+  - [Baselining requirements](#baselining-requirements)
 - [**6. Agile Approach**](#6-agile-approach) (2 videos)
-  - Business analyst (BA) or product owner
-  - Analysis of agile requirements
+  - [Business analyst (BA) or product owner](#business-analyst-ba-or-product-owner)
+  - [Analysis of agile requirements](#analysis-of-agile-requirements)
 - [**7. Verification and Validation**](#7-verification-and-validation) (2 videos)
-  - Supporting requirements verification and testing
-  - Validation and acceptance of requirements
+  - [Supporting requirements verification and testing](#supporting-requirements-verification-and-testing)
+  - [Validation and acceptance of requirements](#validation-and-acceptance-of-requirements)
 - [**8. Project Closure and Deployment**](#8-project-closure-and-deployment) (3 videos)
-  - Planning transition
-  - Complete transition activities
-  - Determine solution deployment readiness
+  - [Planning transition](#planning-transition)
+  - [Complete transition activities](#complete-transition-activities)
+  - [Determine solution deployment readiness](#determine-solution-deployment-readiness)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Business analysis competencies are essential for project managers
+  - [Business analysis competencies are essential for project managers](#business-analysis-competencies-are-essential-for-project-managers)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business analysis: Supporting project management work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-supporting-project-management-work?u=76281980)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (5), career (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - have (1)
 
@@ -199,8 +199,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (11), management (3), product (2), career (2), hit (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
@@ -271,15 +271,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), functional (1), next (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - bas (1)
 
 
 ### 1. Preproject Activities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Initiating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/initiating-a-project?u=76281980)
@@ -354,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), case. (1)
+> **Frameworks & Libraries:** business (4), management (2), product (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -418,7 +418,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
@@ -491,7 +491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (3), case. (2)
+> **Frameworks & Libraries:** business (13), next (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
@@ -559,8 +559,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), management (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** case. (2)
 > **Env Vars:** cfo (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
@@ -568,7 +568,7 @@ created: 2026-04-29
 
 ### 2. Stakeholders
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stakeholder identification and assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980)
@@ -641,6 +641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), product (2), management (1), leadership (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - stakeholders (1)
 
@@ -695,7 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), continue (1)
+> **Frameworks & Libraries:** business (3), product (3), [[Stakeholder Engagement]] (2), management (1), data (1)
 > **Env Vars:** raci (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -704,7 +705,7 @@ created: 2026-04-29
 
 ### 3. Initial Project Understanding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to develop a shared vision of the product or project result
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-shared-vision-of-the-product-or-project-result?u=76281980)
@@ -751,9 +752,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), business (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (2), imagine (1)
-> **Code Keywords:** this, (1), let (1)
 > **Speakers:** - can (1)
 
 #### How to develop a road map for product delivery
@@ -811,13 +812,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (2), next (2), [[Agile Development|Agile]] (2), management (1), [[Stakeholder Engagement]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - we (1)
 
 
 ### 4. Project Plans
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify, plan, and execute on business analysis activities
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/identify-plan-and-execute-on-business-analysis-activities?u=76281980)
@@ -862,8 +864,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (1), [[Stakeholder Engagement]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - i (1)
 
 #### Including analysis activities in the project schedule
@@ -947,9 +949,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (4), business (3), [[Agile Development|Agile]] (2), functional (1), [[Requirements Gathering]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (2)
-> **Code Keywords:** let (1)
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)
 
@@ -1024,6 +1026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (7), business (3), management (2), [[Agile Development|Agile]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
@@ -1031,7 +1034,7 @@ created: 2026-04-29
 
 ### 5. Analyzing Requirements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Product requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/product-requirements?u=76281980)
@@ -1134,7 +1137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1)
+> **Frameworks & Libraries:** business (8), product (6), functional (5), [[Security]] (1), [[Quality Assurance]] (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Best Practices:** don't forget (1)
@@ -1228,7 +1231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), case, (1), let (1), require (1)
+> **Frameworks & Libraries:** data (2), functional (2), management (2), [[Search]] (1), business (1)
 > **Analogies:** it's like (1), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - hopefully (1)
@@ -1342,9 +1345,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), data (2), management (1), [[LinkedIn]] (1)
 > **Analogies:** for example (3), picture (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), type. (1), this. (1)
 > **Prerequisites:** set up (1), required to (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - it (1)
@@ -1408,7 +1411,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), let (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), business (1), product (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Documentation:** specification (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - now (1)
@@ -1416,7 +1419,7 @@ created: 2026-04-29
 
 ### 6. Agile Approach
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business analyst (BA) or product owner
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analyst-ba-or-product-owner?u=76281980)
@@ -1481,6 +1484,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (11), business (6), [[Agile Development|Agile]] (2), functional (2)
 > **CLI Commands:** make (5)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - more (1)
@@ -1560,7 +1564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), product (2), data (1), business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
@@ -1568,7 +1572,7 @@ created: 2026-04-29
 
 ### 7. Verification and Validation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supporting requirements verification and testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/supporting-requirements-verification-and-testing?u=76281980)
@@ -1631,7 +1635,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), this. (1)
+> **Frameworks & Libraries:** product (1), feature (1), data (1), [[Unit Testing]] (1), application (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Speakers:** - tracing (1)
@@ -1683,16 +1687,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Usability Testing]] (1), [[Agile Development|Agile]] (1), product (1), functional (1), [[Scalability]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** uat (1)
 > **Speakers:** - we (1)
 
 
 ### 8. Project Closure and Deployment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/planning-transition?u=76281980)
@@ -1779,7 +1783,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1)
+> **Frameworks & Libraries:** management (3), business (2), data (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
@@ -1848,7 +1852,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (4), let (1), new, (1)
+> **Frameworks & Libraries:** data (4), product (2), [[DevOps]] (2), next (2), management (1)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1916,7 +1920,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), throw (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** business (2), [[DevOps]] (2), product (1), [[Sustainability]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
@@ -1924,7 +1928,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Business analysis competencies are essential for project managers
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-competencies-are-essential-for-project-managers?u=76281980)
@@ -1985,6 +1989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[LinkedIn]] (2), next (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - well (1)

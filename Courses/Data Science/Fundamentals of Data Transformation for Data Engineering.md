@@ -32,7 +32,7 @@ tags:
   - skill/data-engineering
   - skill/data-transformation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Fundamentals%20of%20Data%20Transformation%20for%20Data%20Engineering.md)
@@ -51,45 +51,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome to data transformation
-  - What we'll cover and what you should know
+  - [Welcome to data transformation](#welcome-to-data-transformation)
+  - [What we'll cover and what you should know](#what-well-cover-and-what-you-should-know)
 - [**1. Setup and Beyond**](#1-setup-and-beyond) (4 videos)
-  - Codespaces and setup
-  - Why SQL? Why Python? Why not Spark?
-  - Types of data transformation
-  - The goal of data transformation
+  - [Codespaces and setup](#codespaces-and-setup)
+  - [Why SQL? Why Python? Why not Spark?](#why-sql-why-python-why-not-spark)
+  - [Types of data transformation](#types-of-data-transformation)
+  - [The goal of data transformation](#the-goal-of-data-transformation)
 - [**2. Data Transformation with SQL and DuckDB**](#2-data-transformation-with-sql-and-duckdb) (12 videos)
-  - DuckDB basics and query structure
-  - Wrangling unstructured data
-  - Joins and comparisons
-  - Aggregations
-  - Windows functions: A quick refresher
-  - Window functions
-  - Advanced filters
-  - Advanced joins
-  - Lambdas and UDFs
-  - Data generation
-  - SQL challenge
-  - SQL solution
+  - [DuckDB basics and query structure](#duckdb-basics-and-query-structure)
+  - [Wrangling unstructured data](#wrangling-unstructured-data)
+  - [Joins and comparisons](#joins-and-comparisons)
+  - [Aggregations](#aggregations)
+  - [Windows functions: A quick refresher](#windows-functions-a-quick-refresher)
+  - [Window functions](#window-functions)
+  - [Advanced filters](#advanced-filters)
+  - [Advanced joins](#advanced-joins)
+  - [Lambdas and UDFs](#lambdas-and-udfs)
+  - [Data generation](#data-generation)
+  - [SQL challenge](#sql-challenge)
+  - [SQL solution](#sql-solution)
 - [**3. Data Transformation with Python and pandas**](#3-data-transformation-with-python-and-pandas) (10 videos)
-  - DataFrame basics
-  - Wrangling unstructured data
-  - Select and filter
-  - Order and aggregate
-  - Advanced filters
-  - Data generation
-  - Windows
-  - Apply
-  - pandas challenge
-  - pandas solution
+  - [DataFrame basics](#dataframe-basics)
+  - [Wrangling unstructured data](#wrangling-unstructured-data)
+  - [Select and filter](#select-and-filter)
+  - [Order and aggregate](#order-and-aggregate)
+  - [Advanced filters](#advanced-filters)
+  - [Data generation](#data-generation)
+  - [Windows](#windows)
+  - [Apply](#apply)
+  - [pandas challenge](#pandas-challenge)
+  - [pandas solution](#pandas-solution)
 - [**Conclusion**](#conclusion) (3 videos)
-  - What you learned, how to practice and grow, and next steps
-  - SQL bonus challenge
-  - SQL bonus solution
+  - [What you learned, how to practice and grow, and next steps](#what-you-learned-how-to-practice-and-grow-and-next-steps)
+  - [SQL bonus challenge](#sql-bonus-challenge)
+  - [SQL bonus solution](#sql-bonus-solution)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to data transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980)
@@ -114,6 +114,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Data Transformation]] (4), data (3), [[SQL]] (2), [[Pandas (Software)|Pandas]] (2), product (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
@@ -277,9 +278,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[SQL]] (15), [[Pandas (Software)|Pandas]] (13), [[Data Transformation]] (8), [[Python (Programming Language)|Python]] (6)
 > **Env Vars:** sql (15), select (1), pandas (1)
 > **CLI Commands:** python (6), make (1), find (1)
-> **Code Keywords:** finally, (3), else. (1), case, (1), let (1), continue (1)
 > **Tools:** jupyter (3), github (2)
 > **Definitions:** is an  (2), means that (1)
 > **Documentation:** stack overflow (2)
@@ -289,7 +290,7 @@ created: 2026-04-29
 
 ### 1. Setup and Beyond
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Codespaces and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980)
@@ -428,12 +429,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), [[GitHub]] (9), [[Pandas (Software)|Pandas]] (8), [[Codespaces]] (7), next (6)
 > **Tools:** github (9), terminal (2), jupyter (2), vs code (1), command line (1)
 > **Env Vars:** sql (6), api (2), readme (1), describe (1), limit (1)
 > **CLI Commands:** python (3), docker (2), make (1)
 > **Code Identifiers:** nps_public_data (3), updatecontentcommand (1), read_parquet (1), nps_public_data_parks (1)
 > **Definitions:** is a  (4), means that (2)
-> **Code Keywords:** let (1), finally, (1), this, (1), else, (1), function (1)
 > **Prerequisites:** set up (2), configure (1), getting started (1)
 > **Exercise Files:** github repo (2)
 
@@ -528,9 +529,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (23), data (11), [[Python (Programming Language)|Python]] (11), [[Pandas (Software)|Pandas]] (10), [[Data Transformation]] (5)
 > **Env Vars:** sql (23)
 > **CLI Commands:** python (11), find (1), make (1)
-> **Code Keywords:** while. (1), super (1), new, (1), require (1)
 > **Definitions:** means that (3), is a  (1)
 > **Cross-References:** in the last (1)
 > **Documentation:** stack overflow (1)
@@ -590,9 +591,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Data Transformation]] (5), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **Analogies:** for example (2), kind of like (1), similar to (1)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** function (2), lambda (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -617,13 +618,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Data Transformation]] (2), [[SQL]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Data Transformation with SQL and DuckDB
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DuckDB basics and query structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980)
@@ -712,10 +714,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[SQL]] (9), database (3), [[Data Transformation]] (1), prompt (1)
 > **Env Vars:** sql (9), describe (2), select (1), show (1), tables (1)
 > **UI Navigation:** open the (1), navigate to (1), select the (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this, (2)
 > **SQL:** select (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
@@ -910,8 +912,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (35), [[JSON]] (6), [[Data Transformation]] (4), [[Unstructured Data]] (3), database (3)
 > **Env Vars:** json (6), sql (3), unnest (2), cte (2), nps (1)
-> **Code Keywords:** finally, (4), super (2), let (1), public (1), case, (1)
 > **CLI Commands:** make (5), python (1), find (1)
 > **Definitions:** is a  (6), is an  (1)
 > **Analogies:** for example (4), imagine (1), kind of like (1)
@@ -1126,7 +1128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), this, (4), public (1), match. (1), class, (1)
+> **Frameworks & Libraries:** data (18), [[SQL]] (5), next (3), [[Data Transformation]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (5), nps (1)
 > **Definitions:** is a  (4), means that (1)
 > **Analogies:** for example (4), imagine (1)
@@ -1344,8 +1346,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), [[Data Transformation]] (2), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **Env Vars:** count (4), cte (3), sql (2), case (2), distinct (1)
-> **Code Keywords:** finally, (3), function (1), this, (1), let (1), for. (1)
 > **Cross-References:** as we saw (1), in the last (1), in the next (1), earlier in (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (3), kind of like (1)
@@ -1450,8 +1452,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Windows]] (4), [[SQL]] (2), next (1)
 > **Env Vars:** max (8), sql (2), first_value (2), first_vlaue (1)
-> **Code Keywords:** function (6), while, (1), abstract (1), let (1), finally, (1)
 > **Analogies:** just like (2), similar to (1), for example (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1679,8 +1681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (6), [[SQL]] (4), [[Rust (Programming Language)|Rust]] (1), database (1)
 > **Env Vars:** rank (7), lead (4), lag (4), nth_value (4), row_number (4)
-> **Code Keywords:** function (9), this. (1), for. (1)
 > **Cross-References:** we discussed (3), in the next (2), later in (1)
 > **Analogies:** for example (3), just like (1)
 > **Definitions:** is a  (3)
@@ -1757,9 +1759,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (2), database (1), next (1)
 > **Env Vars:** where (5), qualify (4), having (4), cte (3), sql (2)
 > **SQL:** where (5), having (4), select (2), join (1)
-> **Code Keywords:** function (4), this, (2), case, (1), this. (1), let (1)
 > **Code Identifiers:** num_campsites (4)
 > **Analogies:** just like (2), similar to (1), kind of like (1)
 > **Cross-References:** we talked about (1)
@@ -1944,7 +1946,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), let (3), this, (2), public (1), this. (1)
+> **Frameworks & Libraries:** data (9), next (2), [[SQL]] (1), [[Databases]] (1), [[Data Transformation]] (1)
 > **Env Vars:** cte (6), sql (1), unnest (1), split (1)
 > **Analogies:** imagine (3), for example (1)
 > **Cross-References:** go back to (1), earlier in (1), in the next (1)
@@ -2198,7 +2200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (22), let (6), this. (3), finally, (2), this, (2)
+> **Frameworks & Libraries:** [[SQL]] (19), data (10), [[Python (Programming Language)|Python]] (10), database (3), [[Databases]] (3)
 > **Env Vars:** sql (19), utf8 (1), udf (1)
 > **CLI Commands:** python (10), mysql (2), make (2), az (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -2310,7 +2312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (1), this, (1), for. (1)
+> **Frameworks & Libraries:** data (16), [[SQL]] (8), next (3), [[Databases]] (1), cloud (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (2), find (1), python (1)
 > **Cross-References:** later in (1), in the next (1)
@@ -2386,11 +2388,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (7), next (2), [[Data Transformation]] (2), llm (1), database (1)
 > **Env Vars:** sql (7), llm (1)
 > **Exercise Files:** exercise file (3)
 > **CLI Commands:** find (2)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** next video (1)
 > **Documentation:** stack overflow (1)
 > **Analogies:** for example (1)
@@ -2720,7 +2722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), this, (5), this. (4), let (1), self (1)
+> **Frameworks & Libraries:** next (7), [[Data Transformation]] (4), [[SQL]] (3), [[Fetch]] (2), [[Unstructured Data]] (1)
 > **Env Vars:** sql (3), count (3), ilike (2), sum (2), cte (2)
 > **Definitions:** is a  (6), means that (1)
 > **Cross-References:** we discussed (3), earlier in (1)
@@ -2732,7 +2734,7 @@ created: 2026-04-29
 
 ### 3. Data Transformation with Python and pandas
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DataFrame basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980)
@@ -2899,10 +2901,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Pandas (Software)|Pandas]] (11), [[SQL]] (8), [[Python (Programming Language)|Python]] (7), [[Data Transformation]] (2)
 > **CLI Commands:** python (7), find (1), make (1)
 > **Env Vars:** sql (8)
 > **Definitions:** known as (1), is an  (1), is a  (1)
-> **Code Keywords:** while, (1), type, (1)
 > **Code Identifiers:** new_df (1), new_new_df (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** it's like (1)
@@ -3219,7 +3221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), this, (5), finally, (3), struct (1), throw (1)
+> **Frameworks & Libraries:** data (30), [[SQL]] (17), [[Pandas (Software)|Pandas]] (14), [[Python (Programming Language)|Python]] (11), next (6)
 > **CLI Commands:** python (11), make (4), find (2)
 > **Env Vars:** sql (17)
 > **Analogies:** just like (3), for example (2), kind of like (2), similar to (1), imagine (1)
@@ -3497,7 +3499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), super (2), else, (1), case, (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (10), [[SQL]] (4), [[Python (Programming Language)|Python]] (2), parallel (2), next (2)
 > **Code Identifiers:** is_closed (2), closed_open (2), open_seven_days (1), open_seven_days_df (1), is_open (1)
 > **Cross-References:** we talked about (3), later in (1), in the next (1)
 > **Env Vars:** sql (4)
@@ -3739,8 +3741,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (14), [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (6), data (2), next (1)
 > **Env Vars:** sql (14), cte (1)
-> **Code Keywords:** finally, (3), this, (2), function (2), let (2), require (1)
 > **CLI Commands:** python (8), make (1)
 > **Analogies:** just like (3), it's like (3), similar to (2)
 > **Definitions:** is a  (4)
@@ -3835,8 +3837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (6), [[SQL]] (3), [[Python (Programming Language)|Python]] (3), [[Debugging]] (1)
 > **Env Vars:** nan (4), sql (3)
-> **Code Keywords:** let (3), continue (2)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** just like (2), similar to (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -4003,8 +4005,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), [[Pandas (Software)|Pandas]] (9), [[SQL]] (5), [[Python (Programming Language)|Python]] (3), [[Windows]] (2)
 > **Analogies:** just like (3), similar to (2), imagine (1), it's like (1), kind of like (1)
-> **Code Keywords:** function (2), let (1), this, (1), this. (1)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (3), means that (1), known as (1)
 > **CLI Commands:** python (3), make (1)
@@ -4164,7 +4166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), finally, (1), function (1)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Pandas (Software)|Pandas]] (10), data (10), [[SQL]] (3), next (3)
 > **Env Vars:** sql (3)
 > **Analogies:** kind of like (2), just like (1)
 > **CLI Commands:** make (1), python (1)
@@ -4340,7 +4342,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), lambda (6), let (2), this, (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[SQL]] (5), [[Python (Programming Language)|Python]] (3), [[JSON]] (1), [[Big Data]] (1)
 > **Env Vars:** sql (5), csv (3), udf (2), json (1)
 > **Analogies:** similar to (4), for example (2), just like (2), kind of like (1), think of it as (1)
 > **Code Identifiers:** parks_df (2), value_counts (2), statecode (1)
@@ -4406,6 +4408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[SQL]] (3), next (2), data (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (3), llm (1)
 > **CLI Commands:** python (1)
 > **Documentation:** stack overflow (1)
@@ -4756,8 +4759,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), next (11), [[SQL]] (9), data (6), [[Pandas (Software)|Pandas]] (4)
 > **Code Identifiers:** alert_date (6), total_campsites (4), fullname (3), states_list (2), name_park (1)
-> **Code Keywords:** function (4), let (4), finally, (3), struct (1), type, (1)
 > **CLI Commands:** python (12), make (3), find (1)
 > **Env Vars:** sql (9)
 > **Analogies:** similar to (5), kind of like (1)
@@ -4768,7 +4771,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What you learned, how to practice and grow, and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980)
@@ -4847,10 +4850,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Transformation]] (3), [[Pandas (Software)|Pandas]] (3), data (3), next (2)
 > **Env Vars:** sql (5), readme (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** this, (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the readme (1)
 > **Speakers:** - [instructor] (1)
@@ -4906,8 +4909,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[SQL]] (3)
 > **Env Vars:** sql (2), select (1), limit (1)
-> **Code Keywords:** this, (1), super (1)
 > **Code Identifiers:** exercise_bonus (1), powerball_df (1)
 > **SQL:** select (1)
 > **Cross-References:** we discussed (1)
@@ -5050,7 +5053,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (6), function (5), let (2), return. (1), for. (1)
+> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (3), next (2), [[SQL]] (1), [[Probability]] (1)
 > **Analogies:** similar to (2), for example (1), just like (1), kind of like (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)

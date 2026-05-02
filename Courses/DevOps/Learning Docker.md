@@ -35,7 +35,7 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Docker.md)
@@ -54,53 +54,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Get up and running quick with Docker
-  - What you should know
-  - How to use the exercise files
+  - [Get up and running quick with Docker](#get-up-and-running-quick-with-docker)
+  - [What you should know](#what-you-should-know)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Docker Explained**](#1-docker-explained) (5 videos)
-  - What is Docker?
-  - Containers vs. virtual machines
-  - The anatomy of a container
-  - The Docker difference
-  - Docker alternatives
+  - [What is Docker?](#what-is-docker)
+  - [Containers vs. virtual machines](#containers-vs-virtual-machines)
+  - [The anatomy of a container](#the-anatomy-of-a-container)
+  - [The Docker difference](#the-docker-difference)
+  - [Docker alternatives](#docker-alternatives)
 - [**2. Installing Docker**](#2-installing-docker) (4 videos)
-  - Docker Desktop
-  - Install Docker on a Mac with Docker Desktop
-  - Install Docker on Windows with Docker Desktop
-  - Install Docker on Linux
+  - [Docker Desktop](#docker-desktop)
+  - [Install Docker on a Mac with Docker Desktop](#install-docker-on-a-mac-with-docker-desktop)
+  - [Install Docker on Windows with Docker Desktop](#install-docker-on-windows-with-docker-desktop)
+  - [Install Docker on Linux](#install-docker-on-linux)
 - [**3. Using Docker**](#3-using-docker) (16 videos)
-  - Exploring the Docker CLI
-  - Create a Docker container
-  - Create a Docker container: The short way
-  - Create a Docker container from Dockerfiles, part 1
-  - Create a Docker container from Dockerfiles, part 2
-  - Create a Docker container with BuildKit
-  - Interact with your container
-  - Stopping and removing the container
-  - Binding ports to your container
-  - Saving data from containers
-  - Introducing the Docker Hub
-  - Pushing images to the Docker registry
-  - Checking your images in Docker Hub
-  - Beyond Docker Hub: Other popular container registries
-  - Challenge: Starting NGINX
-  - Solution: Starting NGINX
+  - [Exploring the Docker CLI](#exploring-the-docker-cli)
+  - [Create a Docker container](#create-a-docker-container)
+  - [Create a Docker container: The short way](#create-a-docker-container-the-short-way)
+  - [Create a Docker container from Dockerfiles, part 1](#create-a-docker-container-from-dockerfiles-part-1)
+  - [Create a Docker container from Dockerfiles, part 2](#create-a-docker-container-from-dockerfiles-part-2)
+  - [Create a Docker container with BuildKit](#create-a-docker-container-with-buildkit)
+  - [Interact with your container](#interact-with-your-container)
+  - [Stopping and removing the container](#stopping-and-removing-the-container)
+  - [Binding ports to your container](#binding-ports-to-your-container)
+  - [Saving data from containers](#saving-data-from-containers)
+  - [Introducing the Docker Hub](#introducing-the-docker-hub)
+  - [Pushing images to the Docker registry](#pushing-images-to-the-docker-registry)
+  - [Checking your images in Docker Hub](#checking-your-images-in-docker-hub)
+  - [Beyond Docker Hub: Other popular container registries](#beyond-docker-hub-other-popular-container-registries)
+  - [Challenge: Starting NGINX](#challenge-starting-nginx)
+  - [Solution: Starting NGINX](#solution-starting-nginx)
 - [**4. When Things Go Wrong**](#4-when-things-go-wrong) (5 videos)
-  - Help! I can't seem to create more containers
-  - Help! My container is really slow
-  - I can't use the Docker client!
-  - Challenge: Fix a broken container
-  - Solution: Fix a broken container
+  - [Help! I can't seem to create more containers](#help-i-cant-seem-to-create-more-containers)
+  - [Help! My container is really slow](#help-my-container-is-really-slow)
+  - [I can't use the Docker client!](#i-cant-use-the-docker-client)
+  - [Challenge: Fix a broken container](#challenge-fix-a-broken-container)
+  - [Solution: Fix a broken container](#solution-fix-a-broken-container)
 - [**5. Additional Docker Resources**](#5-additional-docker-resources) (3 videos)
-  - Docker best practices
-  - Taking it to the next level with Docker Compose
-  - Level up even more with Kubernetes
+  - [Docker best practices](#docker-best-practices)
+  - [Taking it to the next level with Docker Compose](#taking-it-to-the-next-level-with-docker-compose)
+  - [Level up even more with Kubernetes](#level-up-even-more-with-kubernetes)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Until next time
+  - [Until next time](#until-next-time)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get up and running quick with Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=76281980)
@@ -135,6 +135,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Containerization]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** docker (4)
 > **Speakers:** - docker (1)
 
@@ -169,9 +170,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), [[Scripting]] (1), [[Windows]] (1), [[Powershell]] (1), [[Linux]] (1)
 > **Tools:** terminal (3), powershell (1), atom (1), sublime (1), intellij (1)
 > **CLI Commands:** docker (4)
-> **Code Keywords:** let (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -208,9 +209,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cd (3)
 > **Exercise Files:** exercise files (7), exercise file (1)
 > **CLI Commands:** cd (3), ls (1)
-> **Code Keywords:** finally, (1), case. (1)
 > **Tools:** terminal (2)
 > **Versions:** 4.3 (1)
 > **UI Navigation:** go to (1)
@@ -220,7 +221,7 @@ created: 2026-04-29
 
 ### 1. Docker Explained
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Docker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980)
@@ -303,8 +304,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (3), [[LinkedIn]] (2), [[Software Development]] (2), [[Configuration Management]] (2), [[Virtual Machines]] (2)
 > **CLI Commands:** docker (5), make (3), aws (1), ansible (1)
-> **Code Keywords:** finally, (1), let (1), else. (1)
 > **Env Vars:** aws (1), dns (1)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -372,7 +373,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), this, (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (10), [[Hardware]] (6), application (1), [[Security]] (1), next (1)
 > **Cross-References:** in the next (1), we covered (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** install (1)
@@ -441,9 +442,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (9), [[Virtual Machines]] (3), [[Hardware]] (3), [[Windows]] (3), feature (2)
 > **Env Vars:** time (2), pid (2), cpu (2), userns (1), mount (1)
 > **CLI Commands:** docker (6)
-> **Code Keywords:** let (2), super (1), this. (1), from. (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
@@ -532,9 +533,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), application (3), [[Hardware]] (1), [[Virtual Machines]] (1), [[Google]] (1)
 > **CLI Commands:** docker (17)
 > **Env Vars:** bsd (3), lxc (2), uid (1)
-> **Code Keywords:** let (1), this, (1), interface (1)
 > **Prerequisites:** getting started (1), configure (1)
 > **Versions:** 4.2 (1)
 > **Documentation:** the documentation (1)
@@ -568,15 +569,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (1), aws (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Security]] (1)
 > **CLI Commands:** docker (3), aws (1)
 > **Env Vars:** cri (3), aws (1)
-> **Code Keywords:** interface (1), super (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Installing Docker
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Docker Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980)
@@ -631,9 +632,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (4), [[CLI]] (2), next (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (21)
 > **Tools:** docker desktop (5)
-> **Code Keywords:** interface (1), require (1), let (1)
 > **Env Vars:** cli (2), gui (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** install (1)
@@ -738,9 +739,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), hit (3), application (2), prompt (1), open-source (1)
 > **CLI Commands:** docker (23), brew (2), rm (2), find (1)
 > **Tools:** docker desktop (4), terminal (4), command line (1)
-> **Code Keywords:** let (4), continue (1), finally, (1), except, (1), delete (1)
 > **Prerequisites:** install (6), you'll need (1), configure (1)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **Code Identifiers:** macos (3)
@@ -892,9 +893,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (7), [[Linux]] (4), [[Powershell]] (3), [[Microsoft]] (1), next (1)
 > **CLI Commands:** docker (38), make (1)
 > **Tools:** docker desktop (17), powershell (3)
-> **Code Keywords:** let (3), continue (3), this, (1), finally, (1), this. (1)
 > **UI Navigation:** click on (8), double-click (1)
 > **Env Vars:** wsl (4), exe (1)
 > **Prerequisites:** install (3), initialization (1)
@@ -1014,8 +1015,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[LinkedIn]] (3), next (2), [[Ubuntu]] (1), [[Security]] (1)
 > **CLI Commands:** docker (24), sudo (6), curl (3), apt (1), make (1)
-> **Code Keywords:** let (2), finally, (2), this, (1)
 > **Tools:** terminal (3), docker desktop (1), command line (1)
 > **Prerequisites:** install (3)
 > **File Paths:** tmp/get-docker.sh (2)
@@ -1026,7 +1027,7 @@ created: 2026-04-29
 
 ### 3. Using Docker
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the Docker CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980)
@@ -1091,8 +1092,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CLI]] (5), [[Powershell]] (2), [[Windows]] (1), prompt (1), [[Search]] (1)
 > **CLI Commands:** docker (14)
-> **Code Keywords:** let (6), interface (1), this. (1), this, (1)
 > **Tools:** command line (2), terminal (2), powershell (2), command prompt (1)
 > **Env Vars:** cli (5)
 > **UI Navigation:** click on (2)
@@ -1267,8 +1268,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), application (2), web (1), hit (1), [[Troubleshooting]] (1)
 > **CLI Commands:** docker (38), nginx (3)
-> **Code Keywords:** let (11), default, (2), this. (2), case, (1), super (1)
 > **Definitions:** means that (5), is a  (3), is called (2)
 > **Tools:** terminal (4)
 > **Cross-References:** later in (2)
@@ -1329,8 +1330,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** docker (20)
-> **Code Keywords:** let (5), try. (1), type : (1), super (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1403,8 +1404,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Security]] (1), teams (1), application (1)
 > **CLI Commands:** docker (23), curl (1)
-> **Code Keywords:** let (2), default, (2), this, (2), finally, (1)
 > **Tools:** bash (2), vim (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **Prerequisites:** install (2), configure (1)
@@ -1482,7 +1483,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** docker (14)
-> **Code Keywords:** let (4), from. (2), this. (1), default. (1), this, (1)
 > **Analogies:** just like (3)
 > **File Paths:** app.dockerfile (1)
 > **Definitions:** means that (1)
@@ -1553,8 +1553,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), [[Kubernetes]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (15), find (1), make (1), rm (1)
-> **Code Keywords:** let (3), this. (1), this, (1)
 > **Tools:** docker desktop (2), terminal (1)
 > **Analogies:** just like (2), for example (1)
 > **Cross-References:** in the last (2)
@@ -1679,8 +1679,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Troubleshooting]] (2), hit (2), prompt (1)
 > **CLI Commands:** docker (23), sudo (1)
-> **Code Keywords:** let (7), this, (3), continue (1), default. (1), case, (1)
 > **Tools:** terminal (10), bash (5), vim (1)
 > **Analogies:** just like (3), for example (1), similar to (1)
 > **Env Vars:** tty (3)
@@ -1814,8 +1814,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Representational State Transfer (REST)|Rest]] (1), web (1), database (1), data (1)
 > **CLI Commands:** docker (31), rm (6)
-> **Code Keywords:** let (12), default, (1), this. (1), case. (1), this, (1)
 > **Env Vars:** rmi (4), fd69 (1)
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** go back to (1)
@@ -1934,8 +1934,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (9), next (3), data (2), feature (2), hit (1)
 > **CLI Commands:** docker (17), rm (2)
-> **Code Keywords:** let (13), finally, (1), from, (1), case, (1), case. (1)
 > **Ports:** port 5000 (3)
 > **UI Navigation:** go to (3)
 > **Tools:** terminal (1), safari (1)
@@ -2074,7 +2074,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), try. (3), this. (2), case, (2), finally, (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), data (2), feature (2), next (1), hit (1)
 > **CLI Commands:** docker (8), cat (3), make (2), rm (1), find (1)
 > **Code Identifiers:** change_this_file (5), this_file_does_not_exist (2)
 > **Cross-References:** go back to (1)
@@ -2121,9 +2121,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), feature (1), [[GitHub]] (1), [[Fetch]] (1)
 > **CLI Commands:** docker (10)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (2)
 > **Cross-References:** we mentioned (1), earlier in (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -2211,8 +2211,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), next (2), [[Security]] (1), [[CLI]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (22), mv (1), make (1)
-> **Code Keywords:** let (4), this, (1), this. (1), continue (1), case, (1)
 > **Versions:** 0.0.1 (2)
 > **Analogies:** it's like (1), similar to (1)
 > **Env Vars:** cli (1)
@@ -2297,7 +2297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (4)
+> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** docker (9), find (1)
 > **Versions:** 0.0.0 (3), 0.0.1 (1), 0.0.2 (1)
 > **UI Navigation:** click on (4)
@@ -2355,8 +2355,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (6), ci (1), [[Security]] (1), cloud (1)
 > **Tools:** github (6), gitlab (4)
-> **Code Keywords:** private (3), self (2), let (1), finally, (1)
 > **CLI Commands:** docker (5), find (1)
 > **Definitions:** is a  (2)
 > **URLs:** [quay.io](https://quay.io) (1)
@@ -2391,9 +2391,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** nginx (4), docker (4), make (1)
 > **Env Vars:** nginx (3), pwd (1)
-> **Code Keywords:** default. (1), finally, (1)
 > **Ports:** port 80 (1), :8080 (1)
 > **URLs:** [http://localhost:8080](http://localhost:8080) (1)
 > **Exercise Files:** exercise file (1)
@@ -2499,8 +2499,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (4), [[HTML]] (4), prompt (2), web (2)
 > **CLI Commands:** docker (13), rm (4), make (1)
-> **Code Keywords:** let (4), finally, (4), switch (2), static (1), delete (1)
 > **Env Vars:** html (2), pwd (2), http (1)
 > **Tools:** safari (2), terminal (1)
 > **Definitions:** means that (3)
@@ -2511,7 +2511,7 @@ created: 2026-04-29
 
 ### 4. When Things Go Wrong
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Help! I can't seem to create more containers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980)
@@ -2620,8 +2620,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Selenium]] (2), data (2), [[Java]] (1), [[Windows]] (1)
 > **CLI Commands:** docker (18), rm (1), find (1)
-> **Code Keywords:** this. (4), let (3), delete (2), case, (2), continue (1)
 > **Env Vars:** rmi (4), jdk (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** warning (2)
@@ -2772,8 +2772,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Linux]] (2), [[Debugging]] (2), [[JSON]] (2), [[Troubleshooting]] (1)
 > **CLI Commands:** docker (17), sudo (1), make (1)
-> **Code Keywords:** let (9), finally, (2), this. (1)
 > **Env Vars:** cpu (4), json (2), tty (1)
 > **Tools:** terminal (5)
 > **Definitions:** is a  (3)
@@ -2863,8 +2863,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), ci (1), cd (1), [[Windows]] (1), [[Powershell]] (1)
 > **CLI Commands:** docker (17), ls (1), cd (1), make (1)
-> **Code Keywords:** let (4), switch (2), this, (2), this. (1), default, (1)
 > **Env Vars:** docker_context (4), docker_host (2)
 > **Tools:** docker desktop (3), terminal (2), powershell (1)
 > **UI Navigation:** switch to (2)
@@ -2899,8 +2899,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Scripting]] (1)
 > **CLI Commands:** docker (2), rm (1)
-> **Code Keywords:** finally, (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -3093,8 +3093,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ubuntu]] (3), [[Search]] (2), hit (2), prompt (2), next (1)
 > **CLI Commands:** docker (30), find (4), rm (2), make (1)
-> **Code Keywords:** let (12), delete (2), this. (1)
 > **Tools:** terminal (6), vim (1)
 > **Cross-References:** go back to (3)
 > **Env Vars:** cpu (2)
@@ -3105,7 +3105,7 @@ created: 2026-04-29
 
 ### 5. Additional Docker Resources
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Docker best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980)
@@ -3202,8 +3202,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), [[Linux]] (2), business (1), traffic (1), aws (1)
 > **CLI Commands:** docker (24), aws (1), make (1)
-> **Code Keywords:** default. (2), let (1), finally, (1), this, (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** aws (1)
 > **Speakers:** - docker (1)
@@ -3257,6 +3257,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), application (4), web (2), data (2), web application (1)
 > **CLI Commands:** docker (13), make (2)
 > **Definitions:** is a  (2)
 > **URLs:** [docker.com](https://docker.com) (1)
@@ -3339,8 +3340,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kubernetes]] (17), traffic (5), [[Routing]] (2), cloud (2), [[CLI]] (1)
 > **CLI Commands:** docker (10), make (5), aws (1)
-> **Code Keywords:** finally, (2), default. (1), let (1)
 > **Env Vars:** cli (1), aws (1), api (1)
 > **Analogies:** just like (2), kind of like (1)
 > **Code Identifiers:** vcenter (1)
@@ -3350,7 +3351,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Until next time
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980)
@@ -3379,9 +3380,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Troubleshooting]] (1), [[Jetpack Compose|Compose]] (1), next (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (7)
 > **Tools:** docker desktop (1), command line (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 

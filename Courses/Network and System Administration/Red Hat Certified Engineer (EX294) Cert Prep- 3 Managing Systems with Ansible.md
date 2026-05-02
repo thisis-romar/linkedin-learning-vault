@@ -28,7 +28,7 @@ tags:
   - skill/red-hat-enterprise-linux-rhel
   - skill/ansible
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20Engineer%20(EX294)%20Cert%20Prep-%203%20Managing%20Systems%20with%20Ansible.md)
@@ -47,50 +47,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Introduction
-  - What you should know
-  - About the RHCE (EX294) exam
-  - Before you proceed with this course
-  - Reconfigure-Migrate CentOS
+  - [Introduction](#introduction)
+  - [What you should know](#what-you-should-know)
+  - [About the RHCE (EX294) exam](#about-the-rhce-ex294-exam)
+  - [Before you proceed with this course](#before-you-proceed-with-this-course)
+  - [Reconfigure-Migrate CentOS](#reconfigure-migrate-centos)
 - [**1. Ansible Roles**](#1-ansible-roles) (6 videos)
-  - Directory structure best practices
-  - Create the directory structure
-  - Understanding RHEL System Roles
-  - Using RHEL System Roles
-  - Exploring Ansible Galaxy
-  - Installing roles from Ansible Galaxy
+  - [Directory structure best practices](#directory-structure-best-practices)
+  - [Create the directory structure](#create-the-directory-structure)
+  - [Understanding RHEL System Roles](#understanding-rhel-system-roles)
+  - [Using RHEL System Roles](#using-rhel-system-roles)
+  - [Exploring Ansible Galaxy](#exploring-ansible-galaxy)
+  - [Installing roles from Ansible Galaxy](#installing-roles-from-ansible-galaxy)
 - [**2. Using Ansible in Large Environments**](#2-using-ansible-in-large-environments) (4 videos)
-  - Using dynamic inventory plugins
-  - Using dynamic inventory scripts
-  - Manage parallel playbook execution
-  - Performance tuning Ansible
+  - [Using dynamic inventory plugins](#using-dynamic-inventory-plugins)
+  - [Using dynamic inventory scripts](#using-dynamic-inventory-scripts)
+  - [Manage parallel playbook execution](#manage-parallel-playbook-execution)
+  - [Performance tuning Ansible](#performance-tuning-ansible)
 - [**3. Templating with Jinja2**](#3-templating-with-jinja2) (4 videos)
-  - Templating with Jinja2
-  - Using variables with Jinja2
-  - Jinja2 syntax
-  - Using control structures in Jinja2
+  - [Templating with Jinja2](#templating-with-jinja2)
+  - [Using variables with Jinja2](#using-variables-with-jinja2)
+  - [Jinja2 syntax](#jinja2-syntax)
+  - [Using control structures in Jinja2](#using-control-structures-in-jinja2)
 - [**4. Managing Software with Ansible**](#4-managing-software-with-ansible) (3 videos)
-  - Modules related to software management
-  - Managing packages in playbooks
-  - Implementing a playbook to manage software
+  - [Modules related to software management](#modules-related-to-software-management)
+  - [Managing packages in playbooks](#managing-packages-in-playbooks)
+  - [Implementing a playbook to manage software](#implementing-a-playbook-to-manage-software)
 - [**5. Managing Users with Ansible**](#5-managing-users-with-ansible) (4 videos)
-  - Modules related to user management
-  - Using playbooks to create users
-  - Using external user data files
-  - Advanced user creation
+  - [Modules related to user management](#modules-related-to-user-management)
+  - [Using playbooks to create users](#using-playbooks-to-create-users)
+  - [Using external user data files](#using-external-user-data-files)
+  - [Advanced user creation](#advanced-user-creation)
 - [**6. Managing Processes and Tasks**](#6-managing-processes-and-tasks) (3 videos)
-  - Modules for managing services and tasks
-  - Creating a playbook to manage services
-  - Creating a playbook to manage tasks
+  - [Modules for managing services and tasks](#modules-for-managing-services-and-tasks)
+  - [Creating a playbook to manage services](#creating-a-playbook-to-manage-services)
+  - [Creating a playbook to manage tasks](#creating-a-playbook-to-manage-tasks)
 - [**7. Troubleshooting Ansible**](#7-troubleshooting-ansible) (2 videos)
-  - Managing Ansible logging and output
-  - Troubleshooting Ansible playbooks
+  - [Managing Ansible logging and output](#managing-ansible-logging-and-output)
+  - [Troubleshooting Ansible playbooks](#troubleshooting-ansible-playbooks)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Taking the exam
+  - [Taking the exam](#taking-the-exam)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980)
@@ -115,9 +115,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ansible]] (3), [[Engineering]] (1), [[IT Automation]] (1), [[Higher Education]] (1)
 > **Env Vars:** rhce (3), ex294 (3)
 > **CLI Commands:** ansible (3)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [grant] (1)
 
@@ -194,10 +194,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (13), [[Ansible]] (6), [[Windows]] (3), [[Virtual Machines]] (2), [[Virtualization]] (2)
 > **Env Vars:** ex294 (3), amd (3), cpu (1), iso (1), ram (1)
 > **CLI Commands:** ansible (6), make (1), node (1)
 > **Prerequisites:** install (3), you'll need (2), set up (2)
-> **Code Keywords:** private (1), static (1)
 > **Code Identifiers:** macos (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** such as (1)
@@ -292,10 +292,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), [[IT Automation]] (3), [[System Administration]] (1), business (1)
 > **Env Vars:** rhce (12), ex294 (6), rhcsa (4), ex200 (4), ex300 (1)
 > **CLI Commands:** ansible (6)
 > **Prerequisites:** required to (2), configure (2), install (1), you'll need (1)
-> **Code Keywords:** pass (2), require (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** similar to (1), such as (1)
 > **Versions:** 2.8 (1)
@@ -374,8 +374,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (11), hit (3), [[Virtual Machines]] (2), [[Google]] (2), node (1)
 > **CLI Commands:** ansible (11), ssh (1), node (1)
-> **Code Keywords:** module (6), private (3), let (1), this. (1), this, (1)
 > **Env Vars:** ex294 (3), nat (2), ssh (1), url (1)
 > **URLs:** [localnet.com](https://localnet.com) (4), [google.com](https://google.com) (2)
 > **Prerequisites:** setup (4), set up (1)
@@ -500,6 +500,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (11), [[Linux]] (5), cd (4), web (2), [[GitHub]] (2)
 > **CLI Commands:** sudo (5), cd (4), sed (3), make (1), yum (1)
 > **UI Navigation:** click on (11), right-click (2), go to (1)
 > **URLs:** [centos.org](https://centos.org) (3), [sento.org](https://sento.org) (1), [http://mirror.centos.org](http://mirror.centos.org) (1), [almalinux.org](https://almalinux.org) (1), [rockylinux.org](https://rockylinux.org) (1)
@@ -507,12 +508,11 @@ created: 2026-04-29
 > **Prerequisites:** install (3), you'll need (2)
 > **File Paths:** almalinux-deploy.sh (2), migrate2rocky.sh (2)
 > **Definitions:** is an  (1), is a  (1)
-> **Env Vars:** url (1)
 
 
 ### 1. Ansible Roles
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Directory structure best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980)
@@ -623,8 +623,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), [[Linux]] (6), [[Ansible]] (5), database (5), application (2)
 > **CLI Commands:** ansible (5), make (3), apache (1), apt (1), yum (1)
-> **Code Keywords:** let (4), this. (3), switch (1), require (1)
 > **Env Vars:** el8 (3), ex294 (1), asp (1)
 > **Analogies:** such as (2), for instance (2)
 > **Prerequisites:** install (2), required to (1)
@@ -733,9 +733,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (10), [[Ansible]] (5), [[Linux]] (3), generic (2), database (2)
 > **CLI Commands:** nginx (5), apache (5), ansible (5)
 > **Env Vars:** nginx (4), ex294 (3), el8 (1)
-> **Code Keywords:** let (4), case, (2), abstract (1)
 > **Tools:** terminal (2), vim (1), bash (1), command line (1)
 > **Analogies:** such as (2), picture (1), imagine (1)
 > **Code Identifiers:** baseel8 (2), host_vars (1)
@@ -777,9 +777,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), feature (1), web (1)
 > **CLI Commands:** ansible (6), systemctl (1)
 > **Versions:** 7.4 (1), 7.6 (1), 6.10 (1)
-> **Code Keywords:** interface (2)
 > **Analogies:** such as (1), for instance (1)
 > **Tools:** command line (1)
 > **Speakers:** - [grant] (1)
@@ -921,8 +921,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), [[Ansible]] (8), cd (2), next (1)
 > **CLI Commands:** ansible (8), make (4), cd (2), sudo (1), yum (1)
-> **Code Keywords:** interface (7), let (6), module (1)
 > **Env Vars:** rhel (5), rpm (1)
 > **Prerequisites:** install (2), setup (2)
 > **URLs:** [localnet.com](https://localnet.com) (3)
@@ -1025,9 +1025,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (18), [[Search]] (5), web (2), cloud (1), next (1)
 > **CLI Commands:** ansible (18), apache (4), find (2), node (1)
 > **UI Navigation:** click on (8), dropdown (2)
-> **Code Keywords:** let (3), if, (1), for, (1)
 > **Prerequisites:** install (3), configure (2)
 > **Definitions:** is a  (3)
 > **Versions:** 4.8 (1), 3.5 (1)
@@ -1113,11 +1113,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (11), hit (4), web (3), next (2), [[Search]] (1)
 > **CLI Commands:** ansible (11), apache (5), tar (1), git (1), cd (1)
 > **Env Vars:** url (5), src (3), scm (1)
 > **Prerequisites:** install (6)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** let (2), continue (1)
 > **Tools:** terminal (1), bitbucket (1)
 > **Analogies:** for instance (2)
 > **URLs:** [ansible.com](https://ansible.com) (1)
@@ -1125,7 +1125,7 @@ created: 2026-04-29
 
 ### 2. Using Ansible in Large Environments
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using dynamic inventory plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980)
@@ -1194,9 +1194,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (8), cloud (1), [[Amazon EC2]] (1)
 > **CLI Commands:** ansible (8)
 > **File Paths:** ansible.cfg (1), vbox.yml (1), vbox.yaml (1), aws_ec2.yml (1), aws_ec2.yaml (1)
-> **Code Keywords:** static (4), case. (1)
 > **Analogies:** for instance (2), such as (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Env Vars:** ex294 (1), ini (1)
@@ -1242,10 +1242,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Amazon EC2|Ec2]] (3), data (1), [[JSON]] (1), [[Amazon EC2]] (1)
 > **CLI Commands:** ansible (6), make (1)
 > **Env Vars:** ec2 (3), ini (2), json (1)
 > **File Paths:** etc/ansible/ec2.ini (1), ec2.py (1)
-> **Code Keywords:** static (2)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1370,8 +1370,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (17), next (7), web (3), node (1), dns (1)
 > **CLI Commands:** ansible (17), make (2), node (1)
-> **Code Keywords:** let (3), module (2), case. (1), case, (1)
 > **Analogies:** such as (2), for instance (1), imagine (1)
 > **Env Vars:** cpu (2), dns (1)
 > **File Paths:** ansible.cfg (2)
@@ -1498,9 +1498,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (11), [[Hardware]] (3), [[Databases]] (3), [[JSON]] (2), [[MongoDB]] (2)
 > **CLI Commands:** ssh (16), ansible (11), make (2), sudo (1), python (1)
 > **Env Vars:** ssh (16), json (2), ram (1), tty (1)
-> **Code Keywords:** default, (2), case, (2), let (1), public (1), try. (1)
 > **File Paths:** ansible.cfg (4)
 > **Code Identifiers:** gather_facts (2)
 > **Analogies:** for instance (1), such as (1)
@@ -1510,7 +1510,7 @@ created: 2026-04-29
 
 ### 3. Templating with Jinja2
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Templating with Jinja2
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980)
@@ -1631,10 +1631,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (10), hit (5), data (2), [[System Configuration]] (2), [[HTML]] (2)
 > **Env Vars:** yaml (4), vim (4), yml (3), html (2), txt (2)
 > **CLI Commands:** ansible (10), make (2), php (1), ssh (1), cat (1)
 > **Exercise Files:** template (12), exercise files (1)
-> **Code Keywords:** let (4), static (2), type, (1), case. (1), module (1)
 > **File Paths:** simpletemplate.yml (3), welcome.txt (2)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** such as (4), similar to (1)
@@ -1705,7 +1705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (4), interface (2), pass (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Ansible]] (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** ini (2), yaml (2), cmd (2), ex294 (1)
 > **CLI Commands:** ansible (1), python (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -1819,9 +1819,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), express (2), [[Ansible]] (2), next (1), [[HTML]] (1)
 > **Analogies:** for example (3), such as (3), for instance (1), just like (1)
 > **CLI Commands:** ansible (2), make (1), find (1)
-> **Code Keywords:** let (1), function (1), require (1)
 > **Warnings:** note that (3)
 > **Cross-References:** we talked about (1), we covered (1)
 > **Exercise Files:** template (2)
@@ -1961,7 +1961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (1), case, (1), this. (1), match. (1)
+> **Frameworks & Libraries:** hit (3), data (2), [[Python (Programming Language)|Python]] (1), web (1), [[JSON]] (1)
 > **Exercise Files:** template (8), exercise files (2)
 > **Definitions:** is a  (6)
 > **Env Vars:** yaml (4), json (1)
@@ -1973,7 +1973,7 @@ created: 2026-04-29
 
 ### 4. Managing Software with Ansible
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modules related to software management
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980)
@@ -2012,8 +2012,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (5), [[Ansible]] (2), [[Windows]] (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** apt (5), ansible (2), python (1), dnf (1), yum (1)
-> **Code Keywords:** module (6)
 > **Env Vars:** aix (2), hpux (2), suse (1), bsd (1)
 > **Analogies:** such as (4), for instance (1)
 > **Code Identifiers:** netbsd (1), openbsd_pkg (1), macos (1), win_package (1)
@@ -2108,7 +2108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (9), this. (3), let (1), pass (1), case, (1)
+> **Frameworks & Libraries:** generic (2), [[Package Management]] (1), [[Ansible]] (1)
 > **Prerequisites:** install (9)
 > **CLI Commands:** yum (4), apache (2), apt (1), ansible (1)
 > **Env Vars:** abt (1)
@@ -2324,9 +2324,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Ansible]] (6), cd (3), [[Troubleshooting]] (1)
 > **CLI Commands:** apache (10), ansible (6), make (3), cd (3), mkdir (1)
 > **File Paths:** main.yml (5), site.yml (3), os_debian.yml (2), install_apache.yml (2), os_centos.yml (1)
-> **Code Keywords:** let (4), module (4), delete (2), abstract (1), var (1)
 > **Code Identifiers:** apache_pkg (3), apache_svc (3), install_apache (2), include_vars (1), ansible_facts (1)
 > **Prerequisites:** install (3), set up (2), setup (2)
 > **Tools:** vim (4), terminal (1)
@@ -2336,7 +2336,7 @@ created: 2026-04-29
 
 ### 5. Managing Users with Ansible
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modules related to user management
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980)
@@ -2407,8 +2407,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Windows]] (3), cloud (2), [[Linux]] (1), management (1)
 > **Code Identifiers:** win_user (1), win_group (1), win_group_membership (1), osx_defaults (1), bigip_user (1)
-> **Code Keywords:** module (14)
 > **CLI Commands:** ansible (6), apache (2), ssh (2), nginx (1)
 > **Env Vars:** ssh (2), cnos (1), eos (1), ipa (1)
 > **Analogies:** for instance (1)
@@ -2532,8 +2532,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (15), hit (9), data (4), cd (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** ansible (15), cat (2), ssh (2), mkdir (1), cd (1)
-> **Code Keywords:** let (5), module (2), delete (1), function (1), from. (1)
 > **Tools:** terminal (6), vim (2), bash (1)
 > **Env Vars:** yaml (1), ex294 (1), aes256 (1)
 > **Definitions:** is a  (2)
@@ -2596,8 +2596,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), web (4), [[Ansible]] (3), hit (3), next (1)
 > **File Paths:** createbob.yml (3), createusers.yml (3)
-> **Code Keywords:** let (3), module (3)
 > **CLI Commands:** ansible (3), make (1), cp (1)
 > **Tools:** vim (2), terminal (1)
 > **Warnings:** note that (2)
@@ -2700,8 +2700,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), data (3), next (2), [[Ansible]] (2), [[User Management]] (1)
 > **File Paths:** webadmins.yml (5), createwebadmins.yml (2)
-> **Code Keywords:** let (3), default, (1)
 > **CLI Commands:** ansible (2), ssh (1)
 > **Tools:** vim (3)
 > **Code Identifiers:** userid (1), groupid (1)
@@ -2712,7 +2712,7 @@ created: 2026-04-29
 
 ### 6. Managing Processes and Tasks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Modules for managing services and tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980)
@@ -2819,7 +2819,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (26), let (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Ansible]] (5), [[Linux]] (5), [[Windows]] (3), data (3), [[Fetch]] (3)
 > **CLI Commands:** ansible (5), make (1), python (1)
 > **Code Identifiers:** daemon_reexec (2), win_service (1), service_facts (1), ansible_facts (1), win_firewall (1)
 > **Prerequisites:** install (3), set up (1)
@@ -2909,7 +2909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (9), let (1), this, (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Ansible]] (1), [[Ubuntu]] (1)
 > **Analogies:** such as (3), for example (1), just like (1)
 > **Code Identifiers:** service_output (2), apache_svc (2)
 > **File Paths:** site.yml (1), os_centos.yml (1), os_debian.yml (1)
@@ -3075,8 +3075,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (13), [[Ansible]] (11), [[Linux]] (3), data (1)
 > **CLI Commands:** ansible (11), yum (4), ssh (2), dnf (1)
-> **Code Keywords:** module (5), let (4), var (4), pass (1), delete (1)
 > **Tools:** terminal (5), vim (2)
 > **Env Vars:** ssh (2), dnf (1)
 > **URLs:** [localnet.com](https://localnet.com) (2)
@@ -3087,7 +3087,7 @@ created: 2026-04-29
 
 ### 7. Troubleshooting Ansible
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing Ansible logging and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980)
@@ -3198,8 +3198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (22), data (5), [[Python (Programming Language)|Python]] (1), next (1), node (1)
 > **CLI Commands:** ansible (22), ssh (2), python (1), node (1)
-> **Code Keywords:** var (2), this, (1), this. (1), module (1), interface (1)
 > **File Paths:** ansible.cfg (4)
 > **Code Identifiers:** ansible_log_path (1), no_log (1), profile_task (1), log_play (1)
 > **Warnings:** troubleshoot (1), be aware (1)
@@ -3322,7 +3322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), module (2), case, (2), this. (1), this, (1)
+> **Frameworks & Libraries:** [[Ansible]] (3), [[Debugging]] (1), next (1)
 > **CLI Commands:** ansible (3), make (2)
 > **Code Identifiers:** wrong_var (2), on_failed (1), pkg_name (1)
 > **Tools:** command line (2), bash (1)
@@ -3334,7 +3334,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980)
@@ -3389,10 +3389,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ansible]] (8), [[System Administration]] (1)
 > **CLI Commands:** ansible (8), find (1)
 > **Env Vars:** ex294 (4)
 > **Prerequisites:** required to (1), install (1), configure (1)
-> **Code Keywords:** module (1), for, (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** the key is (1)

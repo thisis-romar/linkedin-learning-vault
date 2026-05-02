@@ -28,7 +28,7 @@ tags:
   - skill/penetration-testing
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Stealth%20Penetration%20Testing%20with%20Advanced%20Enumeration.md)
@@ -47,36 +47,36 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Taking the next step in your ethical hacking career
-  - What you should know
-  - Disclaimer
+  - [Taking the next step in your ethical hacking career](#taking-the-next-step-in-your-ethical-hacking-career)
+  - [What you should know](#what-you-should-know)
+  - [Disclaimer](#disclaimer)
 - [**1. Operating Stealthily**](#1-operating-stealthily) (3 videos)
-  - Being detected
-  - Trying stealthy shells
-  - Leaving footprints
+  - [Being detected](#being-detected)
+  - [Trying stealthy shells](#trying-stealthy-shells)
+  - [Leaving footprints](#leaving-footprints)
 - [**2. Living off the Land**](#2-living-off-the-land) (3 videos)
-  - What is living off the land?
-  - Using PowerHub
-  - Using the PHPSploit shell
+  - [What is living off the land?](#what-is-living-off-the-land)
+  - [Using PowerHub](#using-powerhub)
+  - [Using the PHPSploit shell](#using-the-phpsploit-shell)
 - [**3. Advanced Enumeration**](#3-advanced-enumeration) (3 videos)
-  - Stealthy linux enumeration
-  - Stealthy Windows enumeration
-  - Powering up our escalation
+  - [Stealthy linux enumeration](#stealthy-linux-enumeration)
+  - [Stealthy Windows enumeration](#stealthy-windows-enumeration)
+  - [Powering up our escalation](#powering-up-our-escalation)
 - [**4. Tunneling and Exfiltration**](#4-tunneling-and-exfiltration) (3 videos)
-  - Setting up and using an SSH tunnel
-  - Exfiltrating data over ICMP
-  - Exfiltration via DNS
+  - [Setting up and using an SSH tunnel](#setting-up-and-using-an-ssh-tunnel)
+  - [Exfiltrating data over ICMP](#exfiltrating-data-over-icmp)
+  - [Exfiltration via DNS](#exfiltration-via-dns)
 - [**5. Escalating Privileges**](#5-escalating-privileges) (4 videos)
-  - Using Baron Samedit to escalate in Linux
-  - Escalating through a dirty pipe
-  - Escalating through a nightmare
-  - Exploiting the Active Domain
+  - [Using Baron Samedit to escalate in Linux](#using-baron-samedit-to-escalate-in-linux)
+  - [Escalating through a dirty pipe](#escalating-through-a-dirty-pipe)
+  - [Escalating through a nightmare](#escalating-through-a-nightmare)
+  - [Exploiting the Active Domain](#exploiting-the-active-domain)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next
+  - [What's next](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the next step in your ethical hacking career
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/taking-the-next-step-in-your-ethical-hacking-career?u=76281980)
@@ -101,7 +101,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Penetration Testing]] (1), application (1), career (1)
 > **Speakers:** - [malcolm] (1)
 
 #### What you should know
@@ -121,6 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Ethical Hacking]] (2), [[Security]] (1), [[Penetration Testing]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -142,13 +143,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Kali Linux]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Operating Stealthily
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Being detected
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980)
@@ -197,8 +198,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Defender]] (2), [[Python (Programming Language)|Python]] (1), web (1), [[Powershell]] (1)
 > **CLI Commands:** find (1), make (1), python (1), python3 (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** lhost (1), lport (1)
 > **Versions:** 192.168.1 (2)
 > **Code Identifiers:** reverse_tcp (1)
@@ -277,7 +278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), interface (1)
+> **Frameworks & Libraries:** [[Windows]] (10), [[Microsoft Defender|Defender]] (3), feature (2), web (2), [[Powershell]] (1)
 > **Non-Speech:** (typing) (6)
 > **Versions:** 192.168.1 (3), 192.169.1 (1)
 > **Speakers:** - [narrator] (1), - p (1), - use (1)
@@ -346,8 +347,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Security]] (3), [[Microsoft Defender|Defender]] (2), application (1), [[Microsoft]] (1)
 > **CLI Commands:** find (6)
-> **Code Keywords:** let (4), this. (1)
 > **UI Navigation:** scroll down (2), right-click (1), select the (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** warning (2)
@@ -357,7 +358,7 @@ created: 2026-04-29
 
 ### 2. Living off the Land
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is living off the land?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980)
@@ -418,6 +419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Windows]] (1), [[Powershell]] (1), [[Scripting]] (1), [[Linux]] (1)
 > **CLI Commands:** curl (1), wget (1), grep (1), find (1), awk (1)
 > **Tools:** command line (2), powershell (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
@@ -525,8 +527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (6), [[Windows]] (3), [[GitHub]] (2), [[Git]] (2), web (2)
 > **Env Vars:** json (6), http (2), https (1), iex (1)
-> **Code Keywords:** let (6), module (1), switch (1)
 > **Tools:** github (2), powershell (2), bash (1)
 > **CLI Commands:** git (2), cd (1), python (1)
 > **Versions:** 192.168.1 (3)
@@ -597,9 +599,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (10), [[Git]] (1), [[GitHub]] (1), [[OWASP]] (1), [[HTML]] (1)
 > **CLI Commands:** php (10), git (1), pip3 (1), cat (1), find (1)
 > **Env Vars:** php (7), https (1), owasp (1), html (1), uri (1)
-> **Code Keywords:** let (3), interface (1), var (1)
 > **File Paths:** pat.php (3)
 > **Definitions:** is a  (2)
 > **URLs:** [github.com](https://github.com) (1)
@@ -609,7 +611,7 @@ created: 2026-04-29
 
 ### 3. Advanced Enumeration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Stealthy linux enumeration
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980)
@@ -674,11 +676,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), [[Search]] (1), [[GitHub]] (1), web (1), next (1)
 > **CLI Commands:** python3 (1), curl (1), apache (1), mysql (1)
 > **Versions:** 1.249 (2), 1.8.31 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** linpeas.sh (1)
-> **Code Keywords:** let (1)
 > **Ports:** port 80 (1)
 > **Tools:** github (1)
 > **Prerequisites:** set up (1)
@@ -762,7 +764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), module (3)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Defender|Defender]] (3), web (2), [[Python (Programming Language)|Python]] (1), [[Powershell]] (1)
 > **CLI Commands:** python (1), ls (1)
 > **Env Vars:** cmd (1)
 > **Versions:** 192.168.1 (1)
@@ -815,7 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (3), let (2)
+> **Frameworks & Libraries:** [[Windows]] (1), power (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dll (1)
 > **Definitions:** is a  (1)
@@ -826,7 +828,7 @@ created: 2026-04-29
 
 ### 4. Tunneling and Exfiltration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up and using an SSH tunnel
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/setting-up-and-using-an-ssh-tunnel?u=76281980)
@@ -889,10 +891,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), [[Ubuntu]] (1), web (1)
 > **CLI Commands:** ssh (12), curl (4), grep (1)
 > **Env Vars:** ssh (11), http (1)
 > **Ports:** port 8080 (4), port 80 (3), :8080 (2)
-> **Code Keywords:** let (6), this. (2)
 > **Versions:** 127.0.0 (2), 192.168.1 (1)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (2)
@@ -987,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), module (2), this, (1)
+> **Frameworks & Libraries:** data (16)
 > **CLI Commands:** sudo (2), python3 (2), make (1), find (1)
 > **Env Vars:** icmp (6)
 > **File Paths:** server.py (2), client.py (2)
@@ -1083,8 +1085,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (12), data (4), [[Python (Programming Language)|Python]] (3), traffic (2), [[Forms]] (1)
 > **Env Vars:** dns (12), cns (1)
-> **Code Keywords:** let (4), this. (2), switch (2), finally, (1)
 > **CLI Commands:** python (3), cat (2), find (1)
 > **File Paths:** sadness.sh (3), steel.py (1)
 > **Tools:** command line (4)
@@ -1095,7 +1097,7 @@ created: 2026-04-29
 
 ### 5. Escalating Privileges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Baron Samedit to escalate in Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980)
@@ -1138,8 +1140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (1), [[Git]] (1), prompt (1)
 > **CLI Commands:** sudo (6), git (1), make (1)
-> **Code Keywords:** let (5), this, (1)
 > **Versions:** 1.8.31 (2), version 1 (1), 8.31 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1184,7 +1186,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Git]] (1)
 > **File Paths:** exploit.c (2)
 > **CLI Commands:** git (1), ls (1)
 > **Definitions:** known as (1)
@@ -1271,7 +1273,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), module (2)
+> **Frameworks & Libraries:** [[Windows]] (3), teams (1), [[Git]] (1), management (1), [[Powershell]] (1)
 > **CLI Commands:** git (1), ruby (1), sudo (1), cat (1)
 > **Versions:** 10.10.10 (3)
 > **Tools:** command line (1), powershell (1), terminal (1)
@@ -1369,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), module (1), pass (1), while. (1)
+> **Frameworks & Libraries:** [[Active Directory]] (11), [[Powershell]] (2), [[GitHub]] (1), cd (1)
 > **File Paths:** adpass.txt (1), getnpusers.py (1), rockyou.txt (1)
 > **CLI Commands:** python3 (2), cd (1)
 > **Tools:** powershell (2), github (1)
@@ -1381,7 +1383,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980)
@@ -1404,6 +1406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), [[LinkedIn]] (2), [[Ethical Hacking]] (1), [[SQL]] (1), [[Burp Suite]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (1)
 > **UI Navigation:** go to (1)

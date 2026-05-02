@@ -21,7 +21,7 @@ tags:
   - course
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Test-Driven%20Development.md)
@@ -40,38 +40,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (5 videos)
-  - Small steps to great things
-  - What you should know
-  - What is test-driven development (TDD)?
-  - xUnit and JUnit
-  - Writing test cases
+  - [Small steps to great things](#small-steps-to-great-things)
+  - [What you should know](#what-you-should-know)
+  - [What is test-driven development (TDD)?](#what-is-test-driven-development-tdd)
+  - [xUnit and JUnit](#xunit-and-junit)
+  - [Writing test cases](#writing-test-cases)
 - [**1. TDD Methodology**](#1-tdd-methodology) (6 videos)
-  - TDD and agile
-  - Where to start?
-  - Refactor to improve the design
-  - The iterative red-green-refactor cycle
-  - ✓ Challenge: Functionality
-  - ✓ Solution: Functionality
+  - [TDD and agile](#tdd-and-agile)
+  - [Where to start?](#where-to-start)
+  - [Refactor to improve the design](#refactor-to-improve-the-design)
+  - [The iterative red-green-refactor cycle](#the-iterative-red-green-refactor-cycle)
+  - [✓ Challenge: Functionality](#challenge-functionality)
+  - [✓ Solution: Functionality](#solution-functionality)
 - [**2. TDD Structure and Syntax**](#2-tdd-structure-and-syntax) (5 videos)
-  - Test structure
-  - Assertions
-  - Testing exceptions
-  - ✓ Challenge: Performance
-  - ✓ Solution: Performance
+  - [Test structure](#test-structure)
+  - [Assertions](#assertions)
+  - [Testing exceptions](#testing-exceptions)
+  - [✓ Challenge: Performance](#challenge-performance)
+  - [✓ Solution: Performance](#solution-performance)
 - [**3. Scaling TDD**](#3-scaling-tdd) (6 videos)
-  - TDD tools and frameworks
-  - Assertion frameworks
-  - Test doubles
-  - Mocking
-  - ✓ Challenge: Database
-  - ✓ Solution: Database
+  - [TDD tools and frameworks](#tdd-tools-and-frameworks)
+  - [Assertion frameworks](#assertion-frameworks)
+  - [Test doubles](#test-doubles)
+  - [Mocking](#mocking)
+  - [✓ Challenge: Database](#challenge-database)
+  - [✓ Solution: Database](#solution-database)
 - [**Glossaries**](#glossaries) (0 videos)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Small steps to great things
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980)
@@ -98,9 +98,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), product (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** tdd (4)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - software (1)
 
@@ -121,6 +121,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Java]] (3), [[JUnit]] (2), [[Programming]] (1)
 > **Env Vars:** ide (2)
 > **URLs:** [oracle.com](https://oracle.com) (1)
 > **Versions:** java 11 (1)
@@ -334,8 +335,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), test-driven (3), game (3), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - okay (5), - yeah (4), - well (4), - that (3), - all (3)
-> **Code Keywords:** case, (5), let (5), case. (3), pass (1), continue (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** tdd (5)
 > **Definitions:** is called (1), is a  (1)
@@ -397,8 +398,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JUnit]] (13), [[Java]] (3), [[Unit Testing]] (2), [[Programming]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** xunit (10), sunit (1)
-> **Code Keywords:** module (2), case, (1), interface (1)
 > **Analogies:** such as (2), for example (1)
 > **Versions:** java 5 (2)
 > **Env Vars:** ttd (1)
@@ -531,7 +532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (5), class. (3), private (3), case. (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[JUnit]] (4), [[Programming]] (2), next (1), api (1)
 > **CLI Commands:** make (5), find (1)
 > **Code Identifiers:** alphabetcountinaword (1), countalphabet (1), assertequals (1), tochararray (1)
 > **Cross-References:** go back to (1), later in (1)
@@ -543,7 +544,7 @@ created: 2026-04-29
 
 ### 1. TDD Methodology
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### TDD and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980)
@@ -674,8 +675,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (14), game (4), [[Agile Development|Agile]] (2), [[Fetch]] (2), [[Test-Driven Development]] (1)
 > **Speakers:** - well (3), - test (1), - hey (1), - so (1), - here (1)
-> **Code Keywords:** let (4), pass (4), case, (3), class, (1)
 > **Code Identifiers:** fetchword (4), asserttrue (2), requestedlength (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -797,7 +798,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case. (4), finally, (1), assert (1), pass (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (21), game (6), next (6), [[Fetch]] (3), [[Software Development]] (1)
 > **Speakers:** - so (2), - tdd (1), - that (1), - but (1), - actually (1)
 > **File Paths:** wordsource.txt (1)
 > **CLI Commands:** make (1)
@@ -893,9 +894,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), data (2), next (1), [[Fetch]] (1)
 > **Code Identifiers:** fetchword (9), loadwords (4), wordslist (1), usedwordsset (1)
 > **Speakers:** - well (2), - yeah (2), - after (1), - so (1), - why (1)
-> **Code Keywords:** let (6), continue (1), break. (1), pass (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** tdd (1)
 > **Definitions:** is a  (1)
@@ -989,8 +990,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[Fetch]] (6), game (1), data (1), functional (1)
 > **CLI Commands:** find (6), make (4)
-> **Code Keywords:** pass (2), for. (2), function (2), let (2), require (1)
 > **Definitions:** is a  (2), is an  (1), is called (1), means that (1)
 > **Code Identifiers:** loadwords (2), fetchword (1)
 > **Analogies:** for example (2), such as (1)
@@ -1035,8 +1036,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Fetch]] (4), [[Microsoft Word|Word]] (3), next (1), game (1)
 > **Speakers:** - so (3), - right (2), - and (1), - that (1)
-> **Code Keywords:** let (2), finally, (1)
 > **Analogies:** for example (1)
 > **Non-Speech:** (upbeat playful music) (1)
 
@@ -1135,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (2), case. (1), return, (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Fetch]] (4), next (2), [[Java]] (1)
 > **Code Identifiers:** fetchclue (4), newclue (2), charat (2), fetchcluebeforeanyguess (1), stingbuilder (1)
 > **CLI Commands:** make (3)
 > **File Paths:** hangman.java (1)
@@ -1146,7 +1147,7 @@ created: 2026-04-29
 
 ### 2. TDD Structure and Syntax
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Test structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980)
@@ -1245,7 +1246,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), case, (3), static (3), continue (2), class, (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), game (2), [[Representational State Transfer (REST)|Rest]] (2), [[JUnit]] (1), [[Memory Management]] (1)
 > **Prerequisites:** set up (4), required to (1), setup (1)
 > **Analogies:** for example (2), such as (2)
 > **Code Identifiers:** loadwords (1), setuptest (1)
@@ -1326,8 +1327,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JUnit]] (7), data (3), [[Programming]] (2), api (2), [[Java]] (1)
 > **Code Identifiers:** assertequals (9), assertsame (4), assertthat (2), assertsomething (1), xunit (1)
-> **Code Keywords:** assert (5), pass (3), let (3), throw (2), static (1)
 > **Definitions:** is a  (4), is an  (2)
 > **Env Vars:** jvm (2), api (2)
 > **Analogies:** such as (3), for example (1)
@@ -1418,7 +1419,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), throw (4), case. (4), class. (2), pass (1)
+> **Frameworks & Libraries:** [[JUnit]] (4), [[Microsoft Word|Word]] (2), feature (1), next (1)
 > **Code Identifiers:** fetchclue (3), assertthrows (2), wheninvalidguessthenfetchcluethrowsexceptionwithmessage (1), assertequals (1), getmessage (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1467,9 +1468,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Fetch]] (1), next (1)
 > **Speakers:** - so (3), - i (2), - well (1), - and (1), - this (1)
 > **Definitions:** means that (1), is a  (1)
-> **Code Keywords:** finally, (1)
 > **Non-Speech:** (upbeat music) (1)
 
 #### ✓ Solution: Performance
@@ -1637,7 +1638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), assert (4), pass (4), case, (2), public (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Fetch]] (8), next (3)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (4)
 > **Cross-References:** go back to (1)
@@ -1649,7 +1650,7 @@ created: 2026-04-29
 
 ### 3. Scaling TDD
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### TDD tools and frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980)
@@ -1686,10 +1687,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Gradle]] (1), [[Databases]] (1), api (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** tdd (5), api (1)
 > **Code Identifiers:** xunit (3)
 > **Analogies:** such as (3)
-> **Code Keywords:** let (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Tools:** intellij (1)
 > **Definitions:** is an  (1)
@@ -1786,8 +1787,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[JUnit]] (4), data (4), api (2), strengths (1)
 > **Code Identifiers:** assertthat (7), startswith (4), newclue (2), containsstring (2), objectundertest (1)
-> **Code Keywords:** let (3), pass (3), type, (1), assert (1), static (1)
 > **Analogies:** such as (6), for example (3)
 > **Env Vars:** api (2), url (1)
 > **CLI Commands:** find (1), python (1)
@@ -1904,8 +1905,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), game (2), [[Databases]] (1), web (1), next (1)
 > **Code Identifiers:** writescoredb (12), savescore (11), writescoredbcalled (3), readscoredb (1)
-> **Code Keywords:** case, (3), let (2), pass (2), assert (2)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** xml (1), json (1)
@@ -2014,7 +2015,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), interface (3), def, (2), throw (1), class, (1)
+> **Frameworks & Libraries:** api (2), next (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Dependency Injection]] (1)
 > **Env Vars:** abc (2), def (2), api (2), tdd (1), net (1)
 > **Definitions:** is a  (2), is called (2)
 > **CLI Commands:** make (2), python (1)
@@ -2062,9 +2063,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (7), [[Microsoft Word|Word]] (5)
 > **Speakers:** - i (2), - we (1), - but (1), - yeah (1), - how (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Non-Speech:** (upbeat music) (1)
 
 #### ✓ Solution: Database
@@ -2240,7 +2241,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (6), interface (4), this. (1), static (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (4), [[Java]] (2), [[JUnit]] (1), [[Search]] (1)
 > **CLI Commands:** make (10)
 > **Code Identifiers:** writescoredb (2), mockscoredb (2), savewordscore (2), asserttrue (1)
 > **Env Vars:** pom (2), xml (2), jdk (1)
@@ -2252,12 +2253,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/next-steps?u=76281980)

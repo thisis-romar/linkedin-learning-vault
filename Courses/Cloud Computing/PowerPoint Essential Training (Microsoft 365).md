@@ -32,7 +32,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/PowerPoint%20Essential%20Training%20(Microsoft%20365).md)
@@ -51,66 +51,66 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Deliver a powerful message with a powerful presentation
+  - [Deliver a powerful message with a powerful presentation](#deliver-a-powerful-message-with-a-powerful-presentation)
 - [**1. Get Started Quickly**](#1-get-started-quickly) (2 videos)
-  - Start quickly with a theme or template
-  - Create and save a new presentation
+  - [Start quickly with a theme or template](#start-quickly-with-a-theme-or-template)
+  - [Create and save a new presentation](#create-and-save-a-new-presentation)
 - [**2. Work with Slides**](#2-work-with-slides) (6 videos)
-  - Add, remove, and rearrange slides
-  - Change the slide layout
-  - Change the slide color or background
-  - Change slides at once with slide masters
-  - Add your own text boxes
-  - Use Designer to create professional layouts
+  - [Add, remove, and rearrange slides](#add-remove-and-rearrange-slides)
+  - [Change the slide layout](#change-the-slide-layout)
+  - [Change the slide color or background](#change-the-slide-color-or-background)
+  - [Change slides at once with slide masters](#change-slides-at-once-with-slide-masters)
+  - [Add your own text boxes](#add-your-own-text-boxes)
+  - [Use Designer to create professional layouts](#use-designer-to-create-professional-layouts)
 - [**3. Images and Shapes**](#3-images-and-shapes) (9 videos)
-  - Add images
-  - Work with shapes
-  - Format and add effects to objects
-  - Align objects using the Arrange tool
-  - Understand object layering
-  - Group objects and use Format Painter
-  - Remove the background from pictures
-  - Group shapes together
-  - Crop images to shapes
+  - [Add images](#add-images)
+  - [Work with shapes](#work-with-shapes)
+  - [Format and add effects to objects](#format-and-add-effects-to-objects)
+  - [Align objects using the Arrange tool](#align-objects-using-the-arrange-tool)
+  - [Understand object layering](#understand-object-layering)
+  - [Group objects and use Format Painter](#group-objects-and-use-format-painter)
+  - [Remove the background from pictures](#remove-the-background-from-pictures)
+  - [Group shapes together](#group-shapes-together)
+  - [Crop images to shapes](#crop-images-to-shapes)
 - [**4. Add Diagrams and Charts**](#4-add-diagrams-and-charts) (2 videos)
-  - Create and format charts
-  - Use SmartArt to create diagrams
+  - [Create and format charts](#create-and-format-charts)
+  - [Use SmartArt to create diagrams](#use-smartart-to-create-diagrams)
 - [**5. Add Video, Audio and Animation to Slides**](#5-add-video-audio-and-animation-to-slides) (7 videos)
-  - Add and format video
-  - Add and work with audio files
-  - Add animation to objects and text
-  - Add slide transitions
-  - Use Morph to create animation
-  - Use Zoom to create animation
-  - Include live webcam video with Cameo
+  - [Add and format video](#add-and-format-video)
+  - [Add and work with audio files](#add-and-work-with-audio-files)
+  - [Add animation to objects and text](#add-animation-to-objects-and-text)
+  - [Add slide transitions](#add-slide-transitions)
+  - [Use Morph to create animation](#use-morph-to-create-animation)
+  - [Use Zoom to create animation](#use-zoom-to-create-animation)
+  - [Include live webcam video with Cameo](#include-live-webcam-video-with-cameo)
 - [**6. Helpful Accessibility Features**](#6-helpful-accessibility-features) (2 videos)
-  - Features for PowerPoint users with disabilities
-  - Create accessible presentations
+  - [Features for PowerPoint users with disabilities](#features-for-powerpoint-users-with-disabilities)
+  - [Create accessible presentations](#create-accessible-presentations)
 - [**7. Collaborate and Prepare**](#7-collaborate-and-prepare) (4 videos)
-  - Add speaker notes
-  - Rehearse with timings and Presenter Coach
-  - Share and collaborate on a presentation
-  - View previous revisions
+  - [Add speaker notes](#add-speaker-notes)
+  - [Rehearse with timings and Presenter Coach](#rehearse-with-timings-and-presenter-coach)
+  - [Share and collaborate on a presentation](#share-and-collaborate-on-a-presentation)
+  - [View previous revisions](#view-previous-revisions)
 - [**8. Deliver the Presentation**](#8-deliver-the-presentation) (2 videos)
-  - Use Presenter View to run the show
-  - Run unattended slideshows
+  - [Use Presenter View to run the show](#use-presenter-view-to-run-the-show)
+  - [Run unattended slideshows](#run-unattended-slideshows)
 - [**9. Reuse the Presentation**](#9-reuse-the-presentation) (4 videos)
-  - Save a custom theme
-  - Save a presentation as a template
-  - Record a presentation with the built-in teleprompter
-  - Export as a PDF, JPEG, or animated GIF
+  - [Save a custom theme](#save-a-custom-theme)
+  - [Save a presentation as a template](#save-a-presentation-as-a-template)
+  - [Record a presentation with the built-in teleprompter](#record-a-presentation-with-the-built-in-teleprompter)
+  - [Export as a PDF, JPEG, or animated GIF](#export-as-a-pdf-jpeg-or-animated-gif)
 - [**10. Use Copilot in PowerPoint**](#10-use-copilot-in-powerpoint) (2 videos)
-  - Use Copilot to create and summarize presentations
-  - Use Copilot to create slides
+  - [Use Copilot to create and summarize presentations](#use-copilot-to-create-and-summarize-presentations)
+  - [Use Copilot to create slides](#use-copilot-to-create-slides)
 - [**11. PowerPoint Challenges**](#11-powerpoint-challenges) (2 videos)
-  - Challenge: Make gears turn
-  - Challenge: Give text a background image
+  - [Challenge: Make gears turn](#challenge-make-gears-turn)
+  - [Challenge: Give text a background image](#challenge-give-text-a-background-image)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Deliver a powerful message with a powerful presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980)
@@ -129,13 +129,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[LinkedIn]] (1)
 > **Speakers:** - today (1)
 
 
 ### 1. Get Started Quickly
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Start quickly with a theme or template
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/start-quickly-with-a-theme-or-template-25896388?u=76281980)
@@ -204,7 +204,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), this, (1), let (1), from. (1)
+> **Frameworks & Libraries:** [[Search]] (4), [[Microsoft PowerPoint|Powerpoint]] (3), hit (1)
 > **UI Navigation:** click on (3)
 > **Exercise Files:** template (3)
 > **Analogies:** for example (3)
@@ -301,9 +301,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (12), [[Microsoft 365]] (3), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Office|Office]] (1), [[SharePoint]] (1)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** click on (3), toggle (2)
-> **Code Keywords:** let (2), switch (1), continue (1)
 > **Cross-References:** go back to (2), in the last (1)
 > **Exercise Files:** template (1)
 > **Definitions:** means that (1)
@@ -313,7 +313,7 @@ created: 2026-04-29
 
 ### 2. Work with Slides
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add, remove, and rearrange slides
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-remove-and-rearrange-slides-25898408?u=76281980)
@@ -406,7 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), let (2), finally, (1)
+> **Frameworks & Libraries:** hit (2), next (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Versions:** 2.5 (1)
 > **UI Navigation:** click on (1)
@@ -481,7 +481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (1), continue (1)
+> **Frameworks & Libraries:** next (5), hit (4)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** go back to (1)
@@ -613,7 +613,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), from, (2), this, (2), delete (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), next (1), hit (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (4)
 > **UI Navigation:** dropdown (1), select the (1)
@@ -735,7 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (3), override (2), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (3), picture (1)
 > **UI Navigation:** select the (1)
@@ -847,7 +847,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **CLI Commands:** make (6), find (1)
-> **Code Keywords:** let (3), new, (1), match, (1), match. (1), finally, (1)
 > **Cross-References:** go back to (2)
 > **Env Vars:** rgb (1)
 > **UI Navigation:** go to (1)
@@ -956,8 +955,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), feature (1), [[Microsoft 365]] (1)
 > **Analogies:** for example (2), such as (1), picture (1)
-> **Code Keywords:** let (3)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -966,7 +965,7 @@ created: 2026-04-29
 
 ### 3. Images and Shapes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add images
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980)
@@ -1099,8 +1098,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (5), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word|Word]] (1), feature (1), [[Microsoft 365]] (1)
 > **Analogies:** for example (6), such as (4), picture (4)
-> **Code Keywords:** let (5), this. (2), this, (1)
 > **UI Navigation:** click on (3), scroll down (2), drag and drop (1)
 > **CLI Commands:** find (2), make (1), cat (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1219,8 +1218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1)
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** let (3), this, (2), delete (1)
 > **Analogies:** picture (3), for example (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** go back to (1)
@@ -1368,7 +1367,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (2), else. (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Word|Word]] (1)
 > **Analogies:** picture (5), for example (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** select the (2), click on (1)
@@ -1460,7 +1459,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Search]] (1), next (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1520,8 +1519,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** for example (1)
 > **Warnings:** gotcha (1)
 > **Prerequisites:** make sure you have (1)
@@ -1608,9 +1607,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **UI Navigation:** click on (3), select the (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), match. (1), continue (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1683,8 +1682,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (6), just like (1)
-> **Code Keywords:** else. (1), let (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1751,7 +1750,6 @@ created: 2026-04-29
 >
 > **Analogies:** picture (4)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** new, (2)
 > **UI Navigation:** click on (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
@@ -1825,16 +1823,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Analogies:** picture (6), just like (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this, (1), let (1)
 > **UI Navigation:** right-click (1), select the (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Add Diagrams and Charts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and format charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980)
@@ -1949,7 +1947,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), type, (2), finally, (2), from, (1), type. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), data (9), [[Microsoft PowerPoint|Powerpoint]] (8), [[Security]] (2), next (2)
 > **Analogies:** such as (2), for example (2), picture (2), just like (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (2)
@@ -2085,8 +2083,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3)
 > **Analogies:** picture (5), for example (2), just like (1)
-> **Code Keywords:** let (4), case, (1), type, (1), this. (1)
 > **UI Navigation:** go to (3), click on (2), select the (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2095,7 +2093,7 @@ created: 2026-04-29
 
 ### 5. Add Video, Audio and Animation to Slides
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add and format video
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-format-video-25899366?u=76281980)
@@ -2188,9 +2186,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), hit (1)
 > **Analogies:** for example (4), just like (1), similar to (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this. (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2253,7 +2251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1)
+> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
@@ -2390,7 +2388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), return. (1), this. (1), finally, (1), case, (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1), next (1), [[Microsoft Word|Word]] (1), [[Hardware]] (1), hit (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -2458,6 +2456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), hit (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -2553,7 +2552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), this, (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), next (2), hit (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2)
 > **Analogies:** picture (2)
@@ -2673,8 +2672,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (16), next (2), feature (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** let (5), case, (1)
 > **Code Identifiers:** iphone (3)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (2)
@@ -2783,7 +2782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** feature (2), next (2), hit (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), just like (1)
 > **Cross-References:** go back to (1)
@@ -2794,7 +2793,7 @@ created: 2026-04-29
 
 ### 6. Helpful Accessibility Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Features for PowerPoint users with disabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980)
@@ -2831,7 +2830,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), [[Search]] (3), web (2), [[Microsoft Products|Products]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** macos (1)
@@ -2920,10 +2919,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), next (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (3), picture (2)
 > **UI Navigation:** scroll up (2), click on (1)
-> **Code Keywords:** this. (1), this, (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
@@ -2931,7 +2930,7 @@ created: 2026-04-29
 
 ### 7. Collaborate and Prepare
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add speaker notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-speaker-notes-26202393?u=76281980)
@@ -2976,10 +2975,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (1), [[Microsoft Word|Word]] (1), product (1)
 > **UI Navigation:** toggle (2), navigate to (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (keyboard clicking) (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Rehearse with timings and Presenter Coach
@@ -3057,7 +3056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (4), let (2), case, (1), new. (1), try. (1)
+> **Frameworks & Libraries:** hit (3), next (2), [[Microsoft]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** just like (1)
@@ -3139,9 +3138,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft OneDrive|Onedrive]] (3), next (1)
 > **UI Navigation:** click on (3), dropdown (1), go to (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** else. (1), case, (1), finally, (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
@@ -3191,6 +3190,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), feature (1)
 > **UI Navigation:** click on (1), right-click (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -3199,7 +3199,7 @@ created: 2026-04-29
 
 ### 8. Deliver the Presentation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Presenter View to run the show
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-presenter-view-to-run-the-show-26201384?u=76281980)
@@ -3316,8 +3316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (1), hit (1)
 > **UI Navigation:** click on (5), toggle (1), go to (1)
-> **Code Keywords:** case, (2), let (1), default. (1), finally, (1)
 > **Cross-References:** coming up (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3393,6 +3393,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (2), [[Microsoft PowerPoint|Powerpoint]] (1), business (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (4)
 > **Cross-References:** go back to (1), coming up (1)
 > **CLI Commands:** make (1)
@@ -3402,7 +3403,7 @@ created: 2026-04-29
 
 ### 9. Reuse the Presentation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Save a custom theme
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-custom-theme-26203373?u=76281980)
@@ -3469,7 +3470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (1)
+> **Frameworks & Libraries:** next (2), hit (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** picture (1)
@@ -3556,7 +3557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (2), finally, (1), this, (1), new, (1)
+> **Frameworks & Libraries:** next (2), [[Microsoft PowerPoint|Powerpoint]] (2), hit (1), [[Sales Strategy]] (1), [[Microsoft Office|Office]] (1)
 > **Exercise Files:** template (7)
 > **UI Navigation:** dropdown (1), go to (1), click on (1)
 > **Analogies:** for example (2)
@@ -3692,7 +3693,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** next (4), feature (1), hit (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Cross-References:** previous video (1), coming up (1), go back to (1)
 > **UI Navigation:** select the (1), toggle (1), click on (1)
 > **Analogies:** similar to (2), for example (1)
@@ -3787,8 +3788,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** gif (6), pdf (5), jpeg (3), xps (1), png (1)
-> **Code Keywords:** export, (3), let (3), case, (2), export. (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -3799,7 +3800,7 @@ created: 2026-04-29
 
 ### 10. Use Copilot in PowerPoint
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Copilot to create and summarize presentations
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980)
@@ -3916,7 +3917,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1), delete (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21), prompt (4), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft 365]] (2), ai (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -3991,7 +3992,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), include. (1), finally, (1), for. (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), prompt (5), next (1), [[Human Resources (HR)|Human resources]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -4000,7 +4001,7 @@ created: 2026-04-29
 
 ### 11. PowerPoint Challenges
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Make gears turn
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-make-gears-turn-26201378?u=76281980)
@@ -4127,7 +4128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (3), for. (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Search]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (1), click on (1)
 > **Non-Speech:** (soft music) (1), (upbeat music) (1)
@@ -4228,16 +4229,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Typography]] (2), next (1), [[Microsoft PowerPoint|Powerpoint]] (1), hit (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (3), for example (1)
-> **Code Keywords:** let (1), this. (1), for, (1)
 > **Non-Speech:** (upbeat music) (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980)
@@ -4252,6 +4253,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft]] (1), cloud (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [jess] (1)
 

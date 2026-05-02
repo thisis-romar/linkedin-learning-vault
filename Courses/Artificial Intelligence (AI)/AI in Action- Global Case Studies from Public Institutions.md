@@ -27,7 +27,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/ai-policy-governance-and-regulation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20in%20Action-%20Global%20Case%20Studies%20from%20Public%20Institutions.md)
@@ -46,30 +46,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - AI for global challenges and the Sustainable Development Goals (also known as the Global Goals)
+  - [AI for global challenges and the Sustainable Development Goals (also known as the Global Goals)](#ai-for-global-challenges-and-the-sustainable-development-goals-also-known-as-the-global-goals)
 - [**1. AI for Water, Health, and Climate Resilience**](#1-ai-for-water-health-and-climate-resilience) (3 videos)
-  - AI-powered disease surveillance through wastewater
-  - AI-based risk mapping for water and sanitation
-  - AI-based cholera risk forecasting
+  - [AI-powered disease surveillance through wastewater](#ai-powered-disease-surveillance-through-wastewater)
+  - [AI-based risk mapping for water and sanitation](#ai-based-risk-mapping-for-water-and-sanitation)
+  - [AI-based cholera risk forecasting](#ai-based-cholera-risk-forecasting)
 - [**2. Small AI and the Global Goals**](#2-small-ai-and-the-global-goals) (2 videos)
-  - The Global Goals potential of small AI
-  - Small AI applications in the Global South
+  - [The Global Goals potential of small AI](#the-global-goals-potential-of-small-ai)
+  - [Small AI applications in the Global South](#small-ai-applications-in-the-global-south)
 - [**3. AI and City Services in Asia-Pacific**](#3-ai-and-city-services-in-asia-pacific) (3 videos)
-  - AI for social services in Asia-Pacific
-  - AI for urban management and city operations
-  - AI for disaster resilience and environmental sustainability
+  - [AI for social services in Asia-Pacific](#ai-for-social-services-in-asia-pacific)
+  - [AI for urban management and city operations](#ai-for-urban-management-and-city-operations)
+  - [AI for disaster resilience and environmental sustainability](#ai-for-disaster-resilience-and-environmental-sustainability)
 - [**4. Youth Perspectives on Generative AI**](#4-youth-perspectives-on-generative-ai) (3 videos)
-  - Generative AI use among young adults
-  - Hope and concern about generative AI
-  - AI anxieties in a broader social context
+  - [Generative AI use among young adults](#generative-ai-use-among-young-adults)
+  - [Hope and concern about generative AI](#hope-and-concern-about-generative-ai)
+  - [AI anxieties in a broader social context](#ai-anxieties-in-a-broader-social-context)
 - [**5. AI and the Global Goals**](#5-ai-and-the-global-goals) (3 videos)
-  - AI design for the Global Goals
-  - AI-based indicators for Global Goals progress
-  - Digital twins and AI simulation for the Global Goals
+  - [AI design for the Global Goals](#ai-design-for-the-global-goals)
+  - [AI-based indicators for Global Goals progress](#ai-based-indicators-for-global-goals-progress)
+  - [Digital twins and AI simulation for the Global Goals](#digital-twins-and-ai-simulation-for-the-global-goals)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI for global challenges and the Sustainable Development Goals (also known as the Global Goals)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980)
@@ -104,13 +104,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), let (1)
+> **Frameworks & Libraries:** ai (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Public Health]] (1), [[Generative AI]] (1)
 > **Analogies:** such as (1)
 
 
 ### 1. AI for Water, Health, and Climate Resilience
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-powered disease surveillance through wastewater
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980)
@@ -181,7 +181,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (4), let (1), this. (1)
+> **Frameworks & Libraries:** ai (5), [[Public Health]] (3), data (2), teams (1)
 > **Warnings:** warning (2)
 > **Env Vars:** covid (1)
 > **Analogies:** for example (1)
@@ -255,7 +255,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), this. (1)
+> **Frameworks & Libraries:** ai (3), [[Stark (Accessibility Software)|Stark]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** wash (1)
 > **Definitions:** known as (1)
@@ -333,7 +333,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** ai (4), data (2), prompt (1), [[Climate Change]] (1), [[React.js|React]] (1)
 > **Warnings:** warning (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -341,7 +341,7 @@ created: 2026-04-29
 
 ### 2. Small AI and the Global Goals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The Global Goals potential of small AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/the-global-goals-potential-of-small-ai?u=76281980)
@@ -374,6 +374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1)
 > **Env Vars:** sdg (1)
 > **Analogies:** for example (1)
 
@@ -412,15 +413,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (1), management (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** function (1)
 > **Env Vars:** sms (1)
 > **Analogies:** for instance (1)
 
 
 ### 3. AI and City Services in Asia-Pacific
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI for social services in Asia-Pacific
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-social-services-in-asia-pacific?u=76281980)
@@ -469,7 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2)
+> **Frameworks & Libraries:** ai (11), [[Public Health]] (2), chatbot (1)
 > **Env Vars:** covid (1)
 > **Analogies:** such as (1)
 
@@ -516,7 +517,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), this. (1)
+> **Frameworks & Libraries:** traffic (6), ai (6), management (2), [[Computer Vision]] (1), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (1)
 
 #### AI for disaster resilience and environmental sustainability
@@ -558,12 +559,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), for, (1)
+> **Frameworks & Libraries:** ai (7), [[Real-Time]] (2), [[Climate Change]] (1), data (1), [[Environmental Sustainability]] (1)
 
 
 ### 4. Youth Perspectives on Generative AI
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI use among young adults
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980)
@@ -610,6 +611,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[Generative AI Tools]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -655,8 +657,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Privacy]] (1), [[Generative AI]] (1), [[Accountability]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** private (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
@@ -705,12 +707,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** ai (12), [[Generative AI]] (1), [[Sustainability]] (1)
 
 
 ### 5. AI and the Global Goals
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI design for the Global Goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980)
@@ -737,6 +739,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Decision-Making]] (1), [[Deep Learning]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1)
 
@@ -777,7 +780,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (5)
+> **Frameworks & Libraries:** ai (2), data (2), [[Generative AI Tools]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (3), for example (1)
 
 #### Digital twins and AI simulation for the Global Goals
@@ -815,10 +818,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), data (2), [[Decision-Making]] (1), [[Reinforcement Learning]] (1), llm (1)
 > **Env Vars:** unesco (3), llm (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1)
 > **Definitions:** is a  (1)
 
 

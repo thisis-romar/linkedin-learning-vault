@@ -35,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/data-cleaning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Cleaning%20in%20Python%20Essential%20Training.md)
@@ -54,52 +54,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Why is clean data important?
-  - Using Codespaces
+  - [Why is clean data important?](#why-is-clean-data-important)
+  - [Using Codespaces](#using-codespaces)
 - [**1. Bad Data**](#1-bad-data) (4 videos)
-  - Types of errors
-  - Missing values
-  - Bad values
-  - Duplicates
+  - [Types of errors](#types-of-errors)
+  - [Missing values](#missing-values)
+  - [Bad values](#bad-values)
+  - [Duplicates](#duplicates)
 - [**2. Causes of Errors**](#2-causes-of-errors) (5 videos)
-  - Human errors
-  - Machine errors
-  - Design errors
-  - Challenge: UI design
-  - Solution: UI design
+  - [Human errors](#human-errors)
+  - [Machine errors](#machine-errors)
+  - [Design errors](#design-errors)
+  - [Challenge: UI design](#challenge-ui-design)
+  - [Solution: UI design](#solution-ui-design)
 - [**3. Detecting Errors**](#3-detecting-errors) (8 videos)
-  - Schemas
-  - Validation
-  - Finding missing data
-  - Domain knowledge
-  - Subgroups
-  - Using Copilot to build schema
-  - Challenge: Find bad data
-  - Solution: Find bad data
+  - [Schemas](#schemas)
+  - [Validation](#validation)
+  - [Finding missing data](#finding-missing-data)
+  - [Domain knowledge](#domain-knowledge)
+  - [Subgroups](#subgroups)
+  - [Using Copilot to build schema](#using-copilot-to-build-schema)
+  - [Challenge: Find bad data](#challenge-find-bad-data)
+  - [Solution: Find bad data](#solution-find-bad-data)
 - [**4. Preventing Errors**](#4-preventing-errors) (8 videos)
-  - Serialization formats
-  - Digital signature
-  - Data pipelines and automation
-  - Transactions
-  - Data organization and tidy data
-  - Process and data quality metrics
-  - Challenge: ETL
-  - Solution: ETL
+  - [Serialization formats](#serialization-formats)
+  - [Digital signature](#digital-signature)
+  - [Data pipelines and automation](#data-pipelines-and-automation)
+  - [Transactions](#transactions)
+  - [Data organization and tidy data](#data-organization-and-tidy-data)
+  - [Process and data quality metrics](#process-and-data-quality-metrics)
+  - [Challenge: ETL](#challenge-etl)
+  - [Solution: ETL](#solution-etl)
 - [**5. Fixing Errors**](#5-fixing-errors) (8 videos)
-  - Renaming fields
-  - Fixing types
-  - Joining and splitting data
-  - Deleting bad data
-  - Filling missing values
-  - Reshaping data
-  - Challenge: Workshop earnings
-  - Solution: Workshop earnings
+  - [Renaming fields](#renaming-fields)
+  - [Fixing types](#fixing-types)
+  - [Joining and splitting data](#joining-and-splitting-data)
+  - [Deleting bad data](#deleting-bad-data)
+  - [Filling missing values](#filling-missing-values)
+  - [Reshaping data](#reshaping-data)
+  - [Challenge: Workshop earnings](#challenge-workshop-earnings)
+  - [Solution: Workshop earnings](#solution-workshop-earnings)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is clean data important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/why-is-clean-data-important?u=76281980)
@@ -122,8 +122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [miki] (1)
 
 #### Using Codespaces
@@ -259,7 +259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (4), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1), power (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (3), click on (2), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -271,7 +271,7 @@ created: 2026-04-29
 
 ### 1. Bad Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/types-of-errors?u=76281980)
@@ -298,9 +298,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -375,7 +375,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type. (1), type, (1), function (1), case, (1)
+> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (1), hit (1)
 > **CLI Commands:** find (3), python (1)
 > **Code Identifiers:** parse_dates (1)
 > **Env Vars:** csv (1)
@@ -461,8 +461,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (7)
-> **Code Keywords:** let (7)
 > **Env Vars:** cpu (4), csv (2)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
@@ -508,7 +508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1)
+> **Frameworks & Libraries:** data (2), [[Pandas (Software)|Pandas]] (2), database (1)
 > **Versions:** 1.70 (1), 1.20 (1)
 > **Definitions:** is a  (1), we call this (1)
 > **CLI Commands:** make (1)
@@ -517,7 +517,7 @@ created: 2026-04-29
 
 ### 2. Causes of Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Human errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/human-errors?u=76281980)
@@ -550,8 +550,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -581,6 +581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **Env Vars:** bmi (1), ntp (1)
 > **CLI Commands:** make (1)
 > **Warnings:** common error (1)
@@ -611,6 +612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Engineering]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** dropdown (1)
@@ -662,7 +664,7 @@ created: 2026-04-29
 
 ### 3. Detecting Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Schemas
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980)
@@ -721,9 +723,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[JSON]] (2), [[Pandas (Software)|Pandas]] (2), [[SQL]] (2), [[Protocol Buffers]] (1)
 > **Env Vars:** json (2), sql (2), null (2), cue (1)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -771,7 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), default, (1)
+> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -857,7 +859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8)
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (4), feature (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** locations.csv (1)
@@ -903,7 +905,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (2)
 > **File Paths:** ships.py (1)
 > **Code Identifiers:** element_wise (1)
@@ -950,8 +952,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2)
 > **Versions:** 107.1 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -993,6 +995,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), ai (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1), go to (1)
 > **File Paths:** ships.csv (1)
@@ -1021,6 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1064,13 +1068,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), data (1)
 > **Speakers:** - let (1)
 
 
 ### 4. Preventing Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Serialization formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980)
@@ -1121,8 +1125,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (3), [[JSON]] (3), [[SQL]] (1)
 > **Env Vars:** json (3), csv (2), sql (1)
-> **Code Keywords:** let (2), type. (1), type, (1), raise (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** apache (2)
@@ -1174,7 +1178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (1)
+> **Frameworks & Libraries:** next (2), data (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** crc32 (2), md5 (1), sha1 (1), sha256 (1)
 > **Tools:** command line (2), terminal (2)
 > **Analogies:** such as (2)
@@ -1282,8 +1286,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), database (6), etl (4), [[Pandas (Software)|Pandas]] (2), [[Apache Airflow]] (1)
 > **Env Vars:** csv (8), etl (4), sql (1)
-> **Code Keywords:** let (3), self (1), function (1), raise (1), finally, (1)
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **Tools:** terminal (3), command line (1)
 > **CLI Commands:** sqlite3 (2), apache (1)
@@ -1356,8 +1360,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (16), database (3), [[SQL]] (2), [[Relational Databases]] (1), etl (1)
 > **Env Vars:** sql (2), etl (1), csv (1), select (1)
-> **Code Keywords:** let (4)
 > **Tools:** terminal (2), command line (1)
 > **CLI Commands:** cd (1), sqlite3 (1)
 > **Definitions:** is an  (2)
@@ -1392,7 +1396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (10)
 > **Env Vars:** cpu (2)
 > **Definitions:** known as (1), means that (1)
 > **Speakers:** - [instructor] (1)
@@ -1440,7 +1444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), raise (1)
+> **Frameworks & Libraries:** data (10)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **Env Vars:** csv (1)
@@ -1479,9 +1483,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** etl (3), traffic (1), data (1), database (1)
 > **Env Vars:** htp (3), etl (3), csv (1)
 > **CLI Commands:** sqlite3 (1)
-> **Code Keywords:** module (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat techno music) (1)
@@ -1551,8 +1555,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (5), etl (3), next (1), database (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** ip_address (3), bad_rows (1), is_valid_row (1), to_sql (1)
-> **Code Keywords:** let (3), function (1), finally, (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** sqlite3 (2), python (1)
 > **Env Vars:** http (1), select (1), count (1)
@@ -1563,7 +1567,7 @@ created: 2026-04-29
 
 ### 5. Fixing Errors
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Renaming fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/renaming-fields?u=76281980)
@@ -1630,7 +1634,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), function (2), this. (1), let (1), case. (1)
+> **Frameworks & Libraries:** data (10)
 > **Env Vars:** tmin (3), tmax (3), date (1)
 > **Code Identifiers:** min_temp (2), max_temp (2)
 > **CLI Commands:** make (2)
@@ -1692,7 +1696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (3)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** click on (1)
@@ -1760,7 +1764,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), pass (1), finally, (1)
+> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (2), next (1)
 > **Env Vars:** csv (5)
 > **CLI Commands:** make (2), cat (1)
 > **Code Identifiers:** to_datetime (1)
@@ -1803,7 +1807,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (1), this, (1)
+> **Frameworks & Libraries:** data (6)
 > **Warnings:** note that (1)
 > **Speakers:** - one (1)
 
@@ -1890,7 +1894,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6)
+> **Frameworks & Libraries:** data (6), next (2)
 > **Definitions:** stands for (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -1933,7 +1937,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), let (1)
+> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (3)
 > **Env Vars:** cpu (2)
 > **Definitions:** known as (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1967,8 +1971,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (3), data (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
@@ -2059,7 +2063,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2), type. (1), finally, (1), case. (1)
+> **Frameworks & Libraries:** data (9), next (3), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (3)
 > **Env Vars:** csv (1), sgf (1), sdl (1)
 > **Speakers:** - [instructor] (1)
@@ -2067,7 +2071,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/next-steps?u=76281980)
@@ -2092,6 +2096,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), next (1), [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)

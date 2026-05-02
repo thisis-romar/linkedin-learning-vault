@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-kubernetes
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 6
+louvain_cluster: 0
 tags:
   - learning-path
   - topic/devops
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-29'
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Getting%20Started%20with%20Kubernetes.md)

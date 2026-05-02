@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cisco-networking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations%20Fundamentals%20Of%20Cisco%20Networking.md)
@@ -43,47 +43,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Learn the fundamentals of Cisco networking
-  - What this course is about
-  - How to get hands-on practice
+  - [Learn the fundamentals of Cisco networking](#learn-the-fundamentals-of-cisco-networking)
+  - [What this course is about](#what-this-course-is-about)
+  - [How to get hands-on practice](#how-to-get-hands-on-practice)
 - [**1. Network Basics**](#1-network-basics) (9 videos)
-  - Overview of a network
-  - Benefits of a network
-  - Day-to-day network examples
-  - OSI model
-  - TCP/IP model
-  - Common network layer protocols
-  - Common transport layer protocols
-  - TCP three-way handshake
-  - Application layer protocols and port numbers
+  - [Overview of a network](#overview-of-a-network)
+  - [Benefits of a network](#benefits-of-a-network)
+  - [Day-to-day network examples](#day-to-day-network-examples)
+  - [OSI model](#osi-model)
+  - [TCP/IP model](#tcpip-model)
+  - [Common network layer protocols](#common-network-layer-protocols)
+  - [Common transport layer protocols](#common-transport-layer-protocols)
+  - [TCP three-way handshake](#tcp-three-way-handshake)
+  - [Application layer protocols and port numbers](#application-layer-protocols-and-port-numbers)
 - [**2. Network Concepts and Components**](#2-network-concepts-and-components) (9 videos)
-  - CSMA/CD vs. CSMA/CA
-  - Hubs and switches
-  - Routers
-  - Collision and broadcast domains
-  - Wireless access points (APs)
-  - Firewalls
-  - Intrusion detection and prevention systems
-  - Examples of network topologies
-  - Mesh topologies
+  - [CSMA/CD vs. CSMA/CA](#csmacd-vs-csmaca)
+  - [Hubs and switches](#hubs-and-switches)
+  - [Routers](#routers)
+  - [Collision and broadcast domains](#collision-and-broadcast-domains)
+  - [Wireless access points (APs)](#wireless-access-points-aps)
+  - [Firewalls](#firewalls)
+  - [Intrusion detection and prevention systems](#intrusion-detection-and-prevention-systems)
+  - [Examples of network topologies](#examples-of-network-topologies)
+  - [Mesh topologies](#mesh-topologies)
 - [**3. Network Cabling**](#3-network-cabling) (4 videos)
-  - Copper cables
-  - Fiber cables
-  - Transceivers
-  - Straight-through vs. crossover cables
+  - [Copper cables](#copper-cables)
+  - [Fiber cables](#fiber-cables)
+  - [Transceivers](#transceivers)
+  - [Straight-through vs. crossover cables](#straight-through-vs-crossover-cables)
 - [**4. Cisco Router and Catalyst Switch Configuration**](#4-cisco-router-and-catalyst-switch-configuration) (6 videos)
-  - Cisco routers and catalyst switch ports
-  - Cisco Internetwork Operating System (IOS)
-  - Basic Cisco IOS commands
-  - Secure Cisco devices with passwords
-  - Configure a router interface
-  - Work with configuration files
+  - [Cisco routers and catalyst switch ports](#cisco-routers-and-catalyst-switch-ports)
+  - [Cisco Internetwork Operating System (IOS)](#cisco-internetwork-operating-system-ios)
+  - [Basic Cisco IOS commands](#basic-cisco-ios-commands)
+  - [Secure Cisco devices with passwords](#secure-cisco-devices-with-passwords)
+  - [Configure a router interface](#configure-a-router-interface)
+  - [Work with configuration files](#work-with-configuration-files)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the fundamentals of Cisco networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980)
@@ -110,6 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cisco Networking]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ccie (1)
 > **Speakers:** - [kevin (1)
@@ -137,9 +138,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Hardware]] (1), [[Intrusion Detection]] (1), data (1)
 > **Cross-References:** next chapter (2), next video (1)
 > **Analogies:** imagine (1), such as (1)
-> **Code Keywords:** finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -172,19 +173,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), [[Google]] (2), [[Cisco Networking]] (2), [[Search]] (1), vpn (1)
 > **Env Vars:** cml (4), ccna (1), vpn (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** ios (2)
 > **Prerequisites:** set up (1), getting started (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 > **UI Navigation:** go to (1)
 
 
 ### 1. Network Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of a network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980)
@@ -263,9 +264,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (5), [[Local Area Network (LAN)|Local area network]] (2), data (2), business (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** lan (5), wan (4), pan (2), man (2), iot (1)
 > **Analogies:** imagine (2), for example (2), such as (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -323,8 +324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Office|Office]] (1), [[Search]] (1), [[Security]] (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** vyp (1)
 > **Speakers:** - [instructor] (1)
@@ -368,6 +369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (2), cloud (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Security]] (1), next (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** dvr (1)
 > **Speakers:** - [instructor] (1)
@@ -475,9 +477,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), dns (4), [[Hardware]] (2), application (2), [[IP Addressing]] (1)
 > **Env Vars:** osi (5), dns (4), mac (3), udp (3), http (3)
 > **Definitions:** stands for (4), is called (1), is a  (1), is an  (1), short for (1)
-> **Code Keywords:** let (3), continue (1), interface (1), finally, (1), throw (1)
 > **Analogies:** such as (2), picture (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -514,8 +516,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), application (1)
 > **Env Vars:** tcp (9), osi (4)
-> **Code Keywords:** let (2), interface (2), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -588,12 +590,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), traffic (3), next (2), prompt (1)
 > **Env Vars:** icmp (11), osi (2), tcp (1), udp (1)
 > **Versions:** 10.1.1 (2), version 4 (1), version 6 (1)
 > **Definitions:** stands for (2), is a  (2)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **Cross-References:** in the next (1)
 > **Tools:** command prompt (1)
 
@@ -630,9 +632,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), web (1), application (1)
 > **Env Vars:** tcp (5), udp (5)
 > **Definitions:** known as (3), stands for (2)
-> **Code Keywords:** let (2), finally, (1), case, (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -705,8 +707,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** ack (6), tcp (4), syn (4), udp (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -776,9 +778,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (7), dns (3), application (1), next (1), data (1)
 > **Env Vars:** tcp (7), udp (6), ntp (6), dns (3), http (2)
 > **Ports:** port 80 (2), port 443 (1), port 53 (1), port 123 (1), port 67 (1)
-> **Code Keywords:** let (2), for, (1), super (1)
 > **Definitions:** stands for (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -787,7 +789,7 @@ created: 2026-04-29
 
 ### 2. Network Concepts and Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CSMA/CD vs. CSMA/CA
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/csma-cd-vs-csma-ca?u=76281980)
@@ -906,7 +908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (2), this, (1), interface (1), finally, (1)
+> **Frameworks & Libraries:** traffic (8), data (6), cd (4), next (1), node (1)
 > **Definitions:** means that (3), is called (2), stands for (2), in other words (2)
 > **CLI Commands:** cd (4), make (1), node (1)
 > **Env Vars:** csma (6)
@@ -987,8 +989,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (1)
 > **Env Vars:** mac (23), pc1 (6), pc2 (2)
-> **Code Keywords:** switch (25), interface (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
@@ -1087,7 +1089,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (11), let (6), switch (4), default, (1)
+> **Frameworks & Libraries:** [[Routing]] (5), traffic (3), web (3), next (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Versions:** 192.168.1 (5), 203.0.113 (2), 10.1.1 (1), 0.0.0 (1)
 > **Env Vars:** pc1 (5), mac (2), ospf (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1229,7 +1231,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (21), let (7), default, (3), finally, (2), continue (1)
+> **Frameworks & Libraries:** traffic (4), next (1), [[Local Area Network (LAN)|Local area network]] (1), [[Engineering]] (1)
 > **Env Vars:** vlan (8), mac (3), pc2 (1)
 > **Definitions:** means that (3), is a  (2), in other words (2), is an  (1), stands for (1)
 > **Cross-References:** we discussed (2), later in (1)
@@ -1282,7 +1284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (1), interface (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (3), lan (3), management (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** lan (3), lwapp (1), capwap (1)
 > **Definitions:** stands for (2), is called (1)
 > **Analogies:** imagine (1), such as (1)
@@ -1369,10 +1371,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (14), web (6), next (6), data (2), database (2)
 > **Analogies:** such as (4), for example (4)
 > **Env Vars:** pc1 (4), https (1), ngfw (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** type, (1), let (1)
 > **Definitions:** is a  (1), is called (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1436,8 +1438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** traffic (8), database (5), [[React.js|React]] (2), [[Intrusion Detection]] (1), next (1)
 > **Env Vars:** ids (11), ips (7)
-> **Code Keywords:** let (5), switch (5), super (1), case, (1)
 > **Definitions:** stands for (1), is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -1506,7 +1508,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (3), continue (2), let (1), function (1), super (1)
+> **Frameworks & Libraries:** traffic (4), [[Microsoft Office|Office]] (1), data (1), lan (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** man (2), lan (1)
 > **Analogies:** just like (2), for example (1)
 > **Definitions:** is called (1)
@@ -1577,7 +1579,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Mesh]] (15), [[Microsoft Office|Office]] (4), traffic (3), next (1), [[Scalability]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1585,7 +1587,7 @@ created: 2026-04-29
 
 ### 3. Network Cabling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Copper cables
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/copper-cables?u=76281980)
@@ -1666,6 +1668,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5)
 > **Env Vars:** emi (2), utp (1), stp (1), hvac (1), t568a (1)
 > **CLI Commands:** make (1), cat (1)
 > **Analogies:** such as (1)
@@ -1740,7 +1743,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), pass (1), finally, (1)
+> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** smf (2), mmf (2), rj45 (1)
 > **Definitions:** stands for (2)
 > **CLI Commands:** find (1)
@@ -1811,7 +1814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (8), let (2), type, (1)
+> **Frameworks & Libraries:** data (6)
 > **Env Vars:** sfp (7), qsfp (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** find (1)
@@ -1894,7 +1897,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (5), interface (2), this. (1)
+> **Frameworks & Libraries:** feature (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** mdi (4)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1903,7 +1906,7 @@ created: 2026-04-29
 
 ### 4. Cisco Router and Catalyst Switch Configuration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cisco routers and catalyst switch ports
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980)
@@ -1970,8 +1973,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** lan (7), [[CLI]] (1), data (1)
 > **Env Vars:** lan (7), con (5), aux (4), db9 (3), usb (3)
-> **Code Keywords:** switch (5), interface (2), finally, (1), match. (1)
 > **CLI Commands:** find (4), make (1)
 > **Tools:** terminal (4)
 > **Analogies:** such as (4)
@@ -2016,9 +2019,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), data (1)
 > **Env Vars:** ios (15)
 > **Definitions:** is called (2), stands for (1), is a  (1)
-> **Code Keywords:** switch (1), let (1), interface (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2122,7 +2125,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (15), let (5), switch (1), continue (1), case, (1)
+> **Frameworks & Libraries:** prompt (6), [[Security]] (3), data (3), next (1), traffic (1)
 > **Code Identifiers:** ios (5)
 > **Definitions:** is a  (1), in other words (1), stands for (1)
 > **Prerequisites:** configure (3)
@@ -2216,7 +2219,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), switch (3), interface (1), require (1)
+> **Frameworks & Libraries:** database (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Env Vars:** ios (1)
 > **Cross-References:** previous video (1)
@@ -2345,7 +2348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (19), let (5), protected (1), switch (1), continue (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (1), hit (1), power (1)
 > **Env Vars:** dhcp (5), isp (1), dhccp (1), nvram (1), ram (1)
 > **Definitions:** short for (2), in other words (2), stands for (2)
 > **Versions:** 172.16.106 (2), 172.16.1 (2)
@@ -2473,8 +2476,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), [[Microsoft Word|Word]] (1), prompt (1)
 > **Env Vars:** tftp (14), nvram (4), scp (2), ftp (1), ram (1)
-> **Code Keywords:** let (13), switch (2), case, (2), interface (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), such as (2)
 > **Versions:** 172.16.107 (3)
@@ -2485,7 +2488,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980)
@@ -2516,6 +2519,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** career (2), next (1), [[LinkedIn]] (1), [[IP Addressing]] (1)
 > **Speakers:** - [narrator] (1)
 
 

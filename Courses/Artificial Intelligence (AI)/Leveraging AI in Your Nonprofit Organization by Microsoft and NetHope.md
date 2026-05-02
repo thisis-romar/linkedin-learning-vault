@@ -32,7 +32,7 @@ tags:
   - skill/ai-readiness
   - skill/nonprofit-organizations
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.md)
@@ -51,33 +51,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Organizational AI Readiness and Integration for Nonprofits**](#1-organizational-ai-readiness-and-integration-for-nonprofits) (5 videos)
-  - Connecting AI to people and practice
-  - Connecting AI to organizational goals
-  - AI adoption step by step guide
-  - Integrating AI into existing workflows
-  - Setting up governance and capacity building structures
+  - [Connecting AI to people and practice](#connecting-ai-to-people-and-practice)
+  - [Connecting AI to organizational goals](#connecting-ai-to-organizational-goals)
+  - [AI adoption step by step guide](#ai-adoption-step-by-step-guide)
+  - [Integrating AI into existing workflows](#integrating-ai-into-existing-workflows)
+  - [Setting up governance and capacity building structures](#setting-up-governance-and-capacity-building-structures)
 - [**2. Sustainable AI Adoption for Nonprofits**](#2-sustainable-ai-adoption-for-nonprofits) (5 videos)
-  - Changing habits, not just systems
-  - Foundations for successful AI adoption and sustainable implementation
-  - Assessing opportunities, risks and barriers in AI adoption
-  - Strategies to overcome barriers and enable long-term AI adoption
-  - Budgeting and funding for sustainable AI adoption
+  - [Changing habits, not just systems](#changing-habits-not-just-systems)
+  - [Foundations for successful AI adoption and sustainable implementation](#foundations-for-successful-ai-adoption-and-sustainable-implementation)
+  - [Assessing opportunities, risks and barriers in AI adoption](#assessing-opportunities-risks-and-barriers-in-ai-adoption)
+  - [Strategies to overcome barriers and enable long-term AI adoption](#strategies-to-overcome-barriers-and-enable-long-term-ai-adoption)
+  - [Budgeting and funding for sustainable AI adoption](#budgeting-and-funding-for-sustainable-ai-adoption)
 - [**3. Responsible AI for Nonprofits**](#3-responsible-ai-for-nonprofits) (5 videos)
-  - When AI goes wrong, people pay the price
-  - Ethical use and accountability
-  - Ethical principles guiding AI use
-  - What responsible AI use looks like in the nonprofit sector
-  - Using sector standards and practical tools
+  - [When AI goes wrong, people pay the price](#when-ai-goes-wrong-people-pay-the-price)
+  - [Ethical use and accountability](#ethical-use-and-accountability)
+  - [Ethical principles guiding AI use](#ethical-principles-guiding-ai-use)
+  - [What responsible AI use looks like in the nonprofit sector](#what-responsible-ai-use-looks-like-in-the-nonprofit-sector)
+  - [Using sector standards and practical tools](#using-sector-standards-and-practical-tools)
 - [**4. AI and Data Governance for Nonprofits**](#4-ai-and-data-governance-for-nonprofits) (5 videos)
-  - Data shapes decisions, decisions shape data
-  - Ethical foundations of AI and data governance
-  - Governance structures and organizational accountability
-  - Protection of community data
-  - Sustainable and trust-building digital governance practices
+  - [Data shapes decisions, decisions shape data](#data-shapes-decisions-decisions-shape-data)
+  - [Ethical foundations of AI and data governance](#ethical-foundations-of-ai-and-data-governance)
+  - [Governance structures and organizational accountability](#governance-structures-and-organizational-accountability)
+  - [Protection of community data](#protection-of-community-data)
+  - [Sustainable and trust-building digital governance practices](#sustainable-and-trust-building-digital-governance-practices)
 
 ### 1. Organizational AI Readiness and Integration for Nonprofits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting AI to people and practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-people-and-practice?u=76281980)
@@ -120,6 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), teams (2), data (1), [[Ethics]] (1)
 > **CLI Commands:** make (1)
 
 #### Connecting AI to organizational goals
@@ -181,7 +182,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (16), data (4), teams (2), [[Decision-Making]] (1), leadership (1)
 
 #### AI adoption step by step guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980)
@@ -258,7 +259,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1)
+> **Frameworks & Libraries:** ai (10), data (9), [[Scalability]] (2), teams (2), [[Security]] (1)
 > **Best Practices:** you should never (1)
 
 #### Integrating AI into existing workflows
@@ -310,7 +311,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1)
+> **Frameworks & Libraries:** ai (14), teams (6), data (2), [[Program Design]] (1), [[Forecasting]] (1)
 > **Env Vars:** crm (1), ngo (1)
 
 #### Setting up governance and capacity building structures
@@ -366,13 +367,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1)
+> **Frameworks & Libraries:** ai (15), teams (3), data (1), [[Accountability]] (1), prompt (1)
 > **Analogies:** such as (2)
 
 
 ### 2. Sustainable AI Adoption for Nonprofits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Changing habits, not just systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/changing-habits-not-just-systems?u=76281980)
@@ -409,6 +410,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), teams (2), [[Organizational Culture]] (1), leadership (1)
 > **CLI Commands:** make (1)
 
 #### Foundations for successful AI adoption and sustainable implementation
@@ -508,7 +510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** ai (25), data (6), teams (5), [[Security]] (2), leadership (2)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
 
@@ -589,7 +591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), require (1), finally, (1)
+> **Frameworks & Libraries:** ai (20), data (5), teams (4), [[Privacy]] (2), [[Organizational Culture]] (2)
 > **Analogies:** such as (1)
 
 #### Strategies to overcome barriers and enable long-term AI adoption
@@ -659,7 +661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (14), teams (5), [[Responsible AI]] (1), [[Building Trust]] (1), leadership (1)
 > **Definitions:** is an  (1)
 
 #### Budgeting and funding for sustainable AI adoption
@@ -721,14 +723,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), cloud (2), leadership (2), [[Responsible AI]] (1), teams (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 
 
 ### 3. Responsible AI for Nonprofits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### When AI goes wrong, people pay the price
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980)
@@ -769,6 +771,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Responsible AI]] (3), ai (2), data (2), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
@@ -889,7 +892,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (1), abstract (1), finally, (1)
+> **Frameworks & Libraries:** ai (28), [[Accountability]] (8), data (5), [[Responsible AI]] (2), next (2)
 > **CLI Commands:** make (2), find (1)
 
 #### Ethical principles guiding AI use
@@ -975,7 +978,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (2), continue (1), function (1)
+> **Frameworks & Libraries:** ai (27), data (6), [[Responsible AI]] (3), [[Privacy]] (3), [[Accountability]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
@@ -1064,7 +1067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), raise (1), protected (1), case, (1)
+> **Frameworks & Libraries:** ai (19), [[Responsible AI]] (10), data (7), [[Accountability]] (3), hr (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
@@ -1171,15 +1174,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (37), data (8), [[Accountability]] (3), [[Privacy]] (3), [[Security]] (3)
 > **Env Vars:** gdpr (1), oecd (1), euai (1)
-> **Code Keywords:** let (1), continue (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 
 
 ### 4. AI and Data Governance for Nonprofits
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data shapes decisions, decisions shape data
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980)
@@ -1218,6 +1221,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), ai (4), [[Accountability]] (1)
 > **Prerequisites:** setup (1)
 
 #### Ethical foundations of AI and data governance
@@ -1305,7 +1309,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (4), let (1), require (1)
+> **Frameworks & Libraries:** data (26), ai (23), [[Accountability]] (4), [[Responsible AI]] (2), [[Privacy]] (2)
 > **Env Vars:** gdpr (2), ccpa (1), cpra (1), pepeda (1)
 
 #### Governance structures and organizational accountability
@@ -1367,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), implements (1), protected (1)
+> **Frameworks & Libraries:** data (18), ai (12), [[Accountability]] (6), business (2), [[Decision-Making]] (2)
 
 #### Protection of community data
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/protection-of-community-data?u=76281980)
@@ -1410,7 +1414,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (15), ai (5), [[Privacy]] (2)
 > **Analogies:** such as (1)
 
 #### Sustainable and trust-building digital governance practices
@@ -1466,7 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), raise (1)
+> **Frameworks & Libraries:** data (12), ai (9), [[Security]] (2), [[Ethics]] (1), leadership (1)
 > **Definitions:** is an  (1)
 
 

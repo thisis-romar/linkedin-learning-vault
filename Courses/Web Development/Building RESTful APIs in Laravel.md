@@ -31,7 +31,7 @@ tags:
   - skill/rest-apis
   - skill/laravel
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20RESTful%20APIs%20in%20Laravel.md)
@@ -50,42 +50,42 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Building RESTful APIs in Laravel
+  - [Building RESTful APIs in Laravel](#building-restful-apis-in-laravel)
 - [**1. An Introduction to APIs in Laravel**](#1-an-introduction-to-apis-in-laravel) (4 videos)
-  - API overview
-  - APIs in the real world
-  - Our application: ePetitions API
-  - The basics of Laravel 8
+  - [API overview](#api-overview)
+  - [APIs in the real world](#apis-in-the-real-world)
+  - [Our application: ePetitions API](#our-application-epetitions-api)
+  - [The basics of Laravel 8](#the-basics-of-laravel-8)
 - [**2. Setting Up Our Application**](#2-setting-up-our-application) (6 videos)
-  - The project infrastructure
-  - Creating the database structure
-  - Creating a model factory and seeder
-  - Setting up the RESTful API routes
-  - Challenge: Creating an author resource infrastructure
-  - Solution: Creating an author resource infrastructure
+  - [The project infrastructure](#the-project-infrastructure)
+  - [Creating the database structure](#creating-the-database-structure)
+  - [Creating a model factory and seeder](#creating-a-model-factory-and-seeder)
+  - [Setting up the RESTful API routes](#setting-up-the-restful-api-routes)
+  - [Challenge: Creating an author resource infrastructure](#challenge-creating-an-author-resource-infrastructure)
+  - [Solution: Creating an author resource infrastructure](#solution-creating-an-author-resource-infrastructure)
 - [**3. Building RESTful API**](#3-building-restful-api) (7 videos)
-  - Using API resources to display all petitions
-  - Saving a new petition
-  - Displaying a specific petition
-  - Updating an existing petition
-  - Deleting a petition
-  - Challenge: Building the author resource
-  - Solution: Building the author resource
+  - [Using API resources to display all petitions](#using-api-resources-to-display-all-petitions)
+  - [Saving a new petition](#saving-a-new-petition)
+  - [Displaying a specific petition](#displaying-a-specific-petition)
+  - [Updating an existing petition](#updating-an-existing-petition)
+  - [Deleting a petition](#deleting-a-petition)
+  - [Challenge: Building the author resource](#challenge-building-the-author-resource)
+  - [Solution: Building the author resource](#solution-building-the-author-resource)
 - [**4. Testing Our API with Postman**](#4-testing-our-api-with-postman) (8 videos)
-  - Installing Postman
-  - GET all petitions
-  - POST a new petition
-  - GET (show) a specific petition
-  - PATCH (update) a petition
-  - DELETE a petition
-  - Challenge: Testing APIs with Postman
-  - Solution: Testing APIs with Postman
+  - [Installing Postman](#installing-postman)
+  - [GET all petitions](#get-all-petitions)
+  - [POST a new petition](#post-a-new-petition)
+  - [GET (show) a specific petition](#get-show-a-specific-petition)
+  - [PATCH (update) a petition](#patch-update-a-petition)
+  - [DELETE a petition](#delete-a-petition)
+  - [Challenge: Testing APIs with Postman](#challenge-testing-apis-with-postman)
+  - [Solution: Testing APIs with Postman](#solution-testing-apis-with-postman)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Where to go from here
+  - [Where to go from here](#where-to-go-from-here)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building RESTful APIs in Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980)
@@ -114,15 +114,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (5), api (4), data (2), [[Representational State Transfer (REST)|Rest]] (2), [[PHP]] (2)
 > **Env Vars:** api (4), php (2), rest (1)
 > **CLI Commands:** php (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [zuzana] (1)
 
 
 ### 1. An Introduction to APIs in Laravel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### API overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980)
@@ -185,9 +185,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), application (4), web (4), [[Representational State Transfer (REST)|Rest]] (3), [[Programming]] (2)
 > **Env Vars:** api (6), rest (3), json (2), soap (1), html (1)
 > **Definitions:** is a  (3), stands for (2), is an  (1)
-> **Code Keywords:** interface (4), let (1)
 > **Analogies:** such as (2), for example (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -237,9 +237,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (13), data (4), [[Android]] (1), [[Microsoft Products|Products]] (1), [[Laravel]] (1)
 > **Env Vars:** api (13)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** public (1)
 > **Speakers:** - [instructor] (1)
 
 #### Our application: ePetitions API
@@ -271,10 +271,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (7), [[Databases]] (1), data (1), [[Laravel]] (1)
 > **Env Vars:** api (7)
 > **Code Identifiers:** epetitions (1), epetition (1)
 > **Tools:** postman (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### The basics of Laravel 8
@@ -350,6 +350,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (13), [[Laravel]] (8), api (5), [[PHP]] (4), application (3)
 > **Env Vars:** api (5), php (4), ide (2), mamp (1), sql (1)
 > **CLI Commands:** php (4), make (2)
 > **Definitions:** is a  (4), stands for (1)
@@ -357,12 +358,11 @@ created: 2026-04-29
 > **Analogies:** such as (2)
 > **Code Identifiers:** phpmyadmin (1)
 > **UI Navigation:** go to (1)
-> **Prerequisites:** make sure you have (1)
 
 
 ### 2. Setting Up Our Application
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The project infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980)
@@ -445,8 +445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), [[PHP]] (6), data (3), [[Laravel]] (3), [[JSON]] (2)
 > **Env Vars:** api (12), json (2)
-> **Code Keywords:** let (7), case. (1), delete (1), finally, (1), class. (1)
 > **CLI Commands:** php (6), make (4)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
@@ -601,7 +601,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (7), this, (3), require (2), this. (2)
+> **Frameworks & Libraries:** database (9), [[Laravel]] (9), [[PHP]] (2), [[Version Control]] (1), data (1)
 > **Code Identifiers:** e_petitions (1), failed_jobs (1), password_resets (1), created_at (1), updated_at (1)
 > **Definitions:** stands for (3), is a  (2), means that (1)
 > **CLI Commands:** php (2), make (1), composer (1), find (1)
@@ -749,7 +749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), function (5), static (1), case, (1), this. (1)
+> **Frameworks & Libraries:** database (18), data (11), [[Microsoft Word|Word]] (2), [[PHP]] (2), api (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** api (1), phb (1), php (1)
 > **CLI Commands:** php (2)
@@ -837,8 +837,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (12), [[PHP]] (3), data (2), [[Laravel]] (1), feature (1)
 > **Env Vars:** url (8), api (7), http (3), uri (2), post (1)
-> **Code Keywords:** let (3), case, (3), class. (2), this. (2), public (1)
 > **API Endpoints:** get  (5), post  (1)
 > **CLI Commands:** php (3), find (1)
 > **Code Identifiers:** apiresource (3)
@@ -875,7 +875,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (1)
+> **Frameworks & Libraries:** api (2), [[PHP]] (1), next (1)
 > **Env Vars:** api (2), php (1)
 > **CLI Commands:** php (1)
 > **Speakers:** - [instructor] (1)
@@ -934,7 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), delete (3), class, (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[PHP]] (6), api (5), [[Laravel]] (2), next (1)
 > **CLI Commands:** php (6), make (4)
 > **Env Vars:** api (3)
 > **Tools:** terminal (3)
@@ -946,7 +946,7 @@ created: 2026-04-29
 
 ### 3. Building RESTful API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using API resources to display all petitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980)
@@ -1051,7 +1051,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), pass (5), this, (1), case, (1), this. (1)
+> **Frameworks & Libraries:** data (13), api (9), [[PHP]] (6), [[JSON]] (4), database (2)
 > **Env Vars:** api (9), json (4), php (2), http (1), url (1)
 > **CLI Commands:** php (6), make (2)
 > **Cross-References:** go back to (4), previous video (1)
@@ -1113,7 +1113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (3), case, (2), protected (1), default. (1)
+> **Frameworks & Libraries:** [[PHP]] (2), database (2), data (2), next (1), [[Laravel]] (1)
 > **CLI Commands:** php (2)
 > **File Paths:** petitioncontrol.php (1)
 > **Env Vars:** php (1)
@@ -1174,7 +1174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), pass (1)
+> **Frameworks & Libraries:** api (3), [[PHP]] (2), [[Fetch]] (1), data (1), [[Laravel]] (1)
 > **Env Vars:** api (3), php (2)
 > **CLI Commands:** php (2), make (1)
 > **UI Navigation:** go to (2)
@@ -1238,9 +1238,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Laravel]] (1)
 > **Env Vars:** put (6), patch (5), http (1)
 > **API Endpoints:** put  (6), patch  (4)
-> **Code Keywords:** let (2), function (1), case, (1)
 > **Analogies:** similar to (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1314,8 +1314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[JSON]] (4), [[Laravel]] (2), next (1), data (1)
 > **Env Vars:** http (5), api (4), json (4), http_ok (3)
-> **Code Keywords:** delete (6), let (4), class. (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** stands for (1)
@@ -1347,7 +1347,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), this, (1)
+> **Frameworks & Libraries:** database (3), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1396,7 +1396,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), class, (1), finally, (1)
+> **Frameworks & Libraries:** database (2), [[PHP]] (2), data (2), next (1), [[JSON]] (1)
 > **UI Navigation:** go to (2), open the (1), click on (1)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** json (1), http (1), api (1)
@@ -1407,7 +1407,7 @@ created: 2026-04-29
 
 ### 4. Testing Our API with Postman
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Postman
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980)
@@ -1474,8 +1474,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), data (2), [[Windows]] (1), [[Linux]] (1), prompt (1)
 > **Tools:** postman (12)
-> **Code Keywords:** let (3), continue (2), delete (1)
 > **Env Vars:** api (5)
 > **UI Navigation:** open the (1), click on (1), go to (1)
 > **Exercise Files:** download the (2)
@@ -1540,8 +1540,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), [[PHP]] (3), feature (1)
 > **Env Vars:** url (5), api (4), php (3)
-> **Code Keywords:** let (7)
 > **Tools:** terminal (3), postman (3)
 > **CLI Commands:** php (3), make (1)
 > **API Endpoints:** get  (2), get
@@ -1601,8 +1601,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PHP]] (1), api (1), [[JSON]] (1)
 > **Env Vars:** post (5), uri (1), url (1), json (1)
-> **Code Keywords:** let (5), switch (1), delete (1)
 > **API Endpoints:** post  (4), get  (3)
 > **CLI Commands:** make (3), php (1)
 > **UI Navigation:** dropdown (1), switch to (1)
@@ -1689,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), default. (1), function (1)
+> **Frameworks & Libraries:** data (2), api (1), [[PHP]] (1), [[JSON]] (1)
 > **Env Vars:** url (7), api (1), uri (1), php (1), json (1)
 > **API Endpoints:** get  (5)
 > **CLI Commands:** make (3), php (1)
@@ -1755,7 +1755,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), switch (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[JSON]] (1), data (1)
 > **Env Vars:** patch (2), put (1), http (1), url (1), json (1)
 > **API Endpoints:** put  (1), patch  (1)
 > **Tools:** postman (2)
@@ -1821,7 +1821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), delete (5), else. (1), from, (1)
+> **Frameworks & Libraries:** api (2), [[PHP]] (1), [[HTML]] (1), database (1)
 > **Env Vars:** api (2), http (1), php (1), url (1), html (1)
 > **CLI Commands:** make (2), php (1)
 > **Tools:** postman (2)
@@ -1856,7 +1856,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (1), delete (1)
+> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Tools:** postman (1)
@@ -1920,8 +1920,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[JSON]] (2), api (1), [[Fetch]] (1)
 > **Env Vars:** http (3), json (2), api (1), patch (1), url (1)
-> **Code Keywords:** delete (3), let (1), finally, (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), select the (1)
 > **Tools:** postman (2)
@@ -1932,7 +1932,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980)
@@ -1957,6 +1957,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Laravel]] (5), api (3), [[LinkedIn]] (2)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

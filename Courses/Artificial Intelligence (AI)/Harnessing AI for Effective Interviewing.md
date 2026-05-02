@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Harnessing%20AI%20for%20Effective%20Interviewing.md)
@@ -40,30 +40,30 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Intro to AI in interviewing
+  - [Intro to AI in interviewing](#intro-to-ai-in-interviewing)
 - [**1. Enhancing Candidate Experience with AI-Powered Interview Platforms**](#1-enhancing-candidate-experience-with-ai-powered-interview-platforms) (2 videos)
-  - Overview of AI interview tools and platforms
-  - Leveraging AI platforms to enhance candidate experience
+  - [Overview of AI interview tools and platforms](#overview-of-ai-interview-tools-and-platforms)
+  - [Leveraging AI platforms to enhance candidate experience](#leveraging-ai-platforms-to-enhance-candidate-experience)
 - [**2. Preparing for AI-Enhanced Interviews**](#2-preparing-for-ai-enhanced-interviews) (6 videos)
-  - Training interviewers to work with AI tools
-  - Preparing candidates for AI interview success
-  - Leveraging AI in structured vs. unstructured interviews
-  - AI for evaluating human skills and cultural fit
-  - AI for technical and coding assessments
-  - Analyzing non-verbal communication and tone with AI
+  - [Training interviewers to work with AI tools](#training-interviewers-to-work-with-ai-tools)
+  - [Preparing candidates for AI interview success](#preparing-candidates-for-ai-interview-success)
+  - [Leveraging AI in structured vs. unstructured interviews](#leveraging-ai-in-structured-vs-unstructured-interviews)
+  - [AI for evaluating human skills and cultural fit](#ai-for-evaluating-human-skills-and-cultural-fit)
+  - [AI for technical and coding assessments](#ai-for-technical-and-coding-assessments)
+  - [Analyzing non-verbal communication and tone with AI](#analyzing-non-verbal-communication-and-tone-with-ai)
 - [**3. Reducing Bias and Enhancing Fairness**](#3-reducing-bias-and-enhancing-fairness) (2 videos)
-  - AI’s role in reducing bias in interviews
-  - Harnessing AI for Inclusive Interviewing
+  - [AI’s role in reducing bias in interviews](#ais-role-in-reducing-bias-in-interviews)
+  - [Harnessing AI for Inclusive Interviewing](#harnessing-ai-for-inclusive-interviewing)
 - [**4.  Data-Driven Decision-Making in Interviews**](#4-data-driven-decision-making-in-interviews) (2 videos)
-  - Leveraging AI to analyze interview data
-  - AI for predictive analytics in recruiting and interviewing
+  - [Leveraging AI to analyze interview data](#leveraging-ai-to-analyze-interview-data)
+  - [AI for predictive analytics in recruiting and interviewing](#ai-for-predictive-analytics-in-recruiting-and-interviewing)
 - [**Legal and Ethical Considerations**](#legal-and-ethical-considerations) (2 videos)
-  - Navigating legal requirements for AI in interviewing
-  - Understanding data privacy and consent issues
+  - [Navigating legal requirements for AI in interviewing](#navigating-legal-requirements-for-ai-in-interviewing)
+  - [Understanding data privacy and consent issues](#understanding-data-privacy-and-consent-issues)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to AI in interviewing
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/intro-to-ai-in-interviewing?u=76281980)
@@ -90,14 +90,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Interviewing]] (3), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Automation]] (1), [[Algorithms]] (1)
 > **Env Vars:** icf (1)
 > **Speakers:** - welcome (1)
 
 
 ### 1. Enhancing Candidate Experience with AI-Powered Interview Platforms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AI interview tools and platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/overview-of-ai-interview-tools-and-platforms?u=76281980)
@@ -138,7 +138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1)
+> **Frameworks & Libraries:** ai (10), [[Interviewing]] (2), [[Engineering]] (1), next (1), [[Automation]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** myinterview (1)
 > **Env Vars:** ibm (1)
@@ -197,6 +197,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), [[Algorithms]] (1), data (1), [[Automation]] (1)
 > **Analogies:** for instance (2), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -205,7 +206,7 @@ created: 2026-04-29
 
 ### 2. Preparing for AI-Enhanced Interviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Training interviewers to work with AI tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/training-interviewers-to-work-with-ai-tools?u=76281980)
@@ -260,7 +261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), yield (1)
+> **Frameworks & Libraries:** ai (14), [[Interviewing]] (3), strengths (2), data (1), [[Google]] (1)
 > **Env Vars:** usda (1), ibm (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -310,8 +311,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Microsoft Word|Word]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), interface (1)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - imagine (1)
@@ -359,7 +360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** ai (9), [[Real-Time]] (2), [[Interviewing]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **URLs:** [interviewing.io](https://interviewing.io) (1)
@@ -420,8 +421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Decision-Making]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), strengths (1), leadership (1)
 > **Analogies:** for instance (1), such as (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - have (1)
 
 #### AI for technical and coding assessments
@@ -465,8 +466,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (2), [[Interviewing]] (1), teams (1), business (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** this, (1)
 > **Speakers:** - are (1)
 
 #### Analyzing non-verbal communication and tone with AI
@@ -520,13 +521,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), data (1)
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
 
 
 ### 3. Reducing Bias and Enhancing Fairness
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI’s role in reducing bias in interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/ai-s-role-in-reducing-bias-in-interviews?u=76281980)
@@ -573,8 +575,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), next (1)
 > **Analogies:** for example (2), similar to (1)
-> **Code Keywords:** this. (1)
 > **Speakers:** - have (1)
 
 #### Harnessing AI for Inclusive Interviewing
@@ -620,7 +622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (12), [[Diversity and Inclusion]] (2), data (2), [[Google]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - did (1)
@@ -628,7 +630,7 @@ created: 2026-04-29
 
 ### 4.  Data-Driven Decision-Making in Interviews
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging AI to analyze interview data
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/leveraging-ai-to-analyze-interview-data?u=76281980)
@@ -673,6 +675,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), data (3), [[Dashboards]] (2), [[Internal Mobility]] (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - my (1)
 
@@ -729,16 +732,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive Analytics]] (8), data (8), ai (4), [[Google]] (2), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** imagine (1), for instance (1), for example (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - imagine (1)
 
 
 ### Legal and Ethical Considerations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating legal requirements for AI in interviewing
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/navigating-legal-requirements-for-ai-in-interviewing?u=76281980)
@@ -795,8 +798,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), ai (10), [[Security]] (1), [[Privacy]] (1), next (1)
 > **Env Vars:** gdpr (3), ccpa (2), aka (1), eeo (1)
-> **Code Keywords:** let (1), delete (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - as (1)
@@ -868,7 +871,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), let (2)
+> **Frameworks & Libraries:** data (17), [[Privacy]] (6), ai (5), [[Interviewing]] (3), [[Security]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (1), such as (1)
 > **Best Practices:** don't forget (1)

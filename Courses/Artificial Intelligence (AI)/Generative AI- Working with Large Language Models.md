@@ -44,7 +44,7 @@ tags:
   - skill/natural-language-processing-nlp
   - skill/transformer-models
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-%20Working%20with%20Large%20Language%20Models.md)
@@ -63,37 +63,37 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Learning about Large Language Models
+  - [Learning about Large Language Models](#learning-about-large-language-models)
 - [**1. Transformers in NLP**](#1-transformers-in-nlp) (3 videos)
-  - What are large language models?
-  - Transformers in production
-  - Transformers: History
+  - [What are large language models?](#what-are-large-language-models)
+  - [Transformers in production](#transformers-in-production)
+  - [Transformers: History](#transformers-history)
 - [**2. Training Transformers and Their Architecture**](#2-training-transformers-and-their-architecture) (4 videos)
-  - Transfer learning
-  - Transformer: Architecture overview
-  - Self-attention
-  - Multi-head attention and Feed Forward Network
+  - [Transfer learning](#transfer-learning)
+  - [Transformer: Architecture overview](#transformer-architecture-overview)
+  - [Self-attention](#self-attention)
+  - [Multi-head attention and Feed Forward Network](#multi-head-attention-and-feed-forward-network)
 - [**3. Large Language Models**](#3-large-language-models) (14 videos)
-  - GPT-3
-  - GPT-3 use cases
-  - Challenges and shortcomings of GPT-3
-  - GLaM
-  - Megatron-Turing NLG Model
-  - Gopher
-  - Scaling laws
-  - Chinchilla
-  - BIG-bench
-  - PaLM
-  - OPT and BLOOM
-  - GitHub models
-  - Accessing Large Language Models using an API
-  - Inference time vs. pre-training
+  - [GPT-3](#gpt-3)
+  - [GPT-3 use cases](#gpt-3-use-cases)
+  - [Challenges and shortcomings of GPT-3](#challenges-and-shortcomings-of-gpt-3)
+  - [GLaM](#glam)
+  - [Megatron-Turing NLG Model](#megatron-turing-nlg-model)
+  - [Gopher](#gopher)
+  - [Scaling laws](#scaling-laws)
+  - [Chinchilla](#chinchilla)
+  - [BIG-bench](#big-bench)
+  - [PaLM](#palm)
+  - [OPT and BLOOM](#opt-and-bloom)
+  - [GitHub models](#github-models)
+  - [Accessing Large Language Models using an API](#accessing-large-language-models-using-an-api)
+  - [Inference time vs. pre-training](#inference-time-vs-pre-training)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Going further with Transformers
+  - [Going further with Transformers](#going-further-with-transformers)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning about Large Language Models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980)
@@ -114,14 +114,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Google]] (1), [[Hugging Face]] (1), ai (1)
 > **Env Vars:** gpt (1), opt (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - large (1)
 
 
 ### 1. Transformers in NLP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What are large language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980)
@@ -156,8 +156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Google]] (2), ai (2), [[Hugging Face]] (2), nlp (1)
 > **Env Vars:** gpt (3), bert (1), nlp (1), nlg (1)
-> **Code Keywords:** finally, (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -196,6 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (9), [[Search]] (7), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** bert (6)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -264,6 +265,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), data (3), [[Google]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** gpt (11), bert (7), nlp (1), bart (1)
 > **Definitions:** is a  (3)
 > **Versions:** 1.5 (1)
@@ -273,7 +275,7 @@ created: 2026-04-29
 
 ### 2. Training Transformers and Their Architecture
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transfer learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980)
@@ -398,8 +400,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Tokens]] (8), next (4), [[Google]] (3), [[Hardware]] (2)
 > **Env Vars:** bert (14), v100 (2), nlp (2), gpt (1), gpu (1)
-> **Code Keywords:** finally, (3), let (2), case. (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for example (1)
 > **Versions:** 1.4 (1), 1.8 (1)
@@ -446,9 +448,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (2), [[Google]] (1)
 > **Env Vars:** gpt (4), nlp (2), bert (2), bart (1), gbt (1)
 > **Analogies:** such as (4)
-> **Code Keywords:** let (1), require (1)
 > **Definitions:** known as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -509,7 +511,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (6), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), product (3), [[Linear Algebra]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -550,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (3), function (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** bert (2), gpt (1)
 > **Speakers:** - earlier (1)
@@ -558,7 +560,7 @@ created: 2026-04-29
 
 ### 3. Large Language Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### GPT-3
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980)
@@ -657,8 +659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), data (4), [[Tokens]] (2), [[Microsoft Word|Word]] (2), prompt (2)
 > **Env Vars:** gpt (11), bert (1), imdb (1)
-> **Code Keywords:** let (3), finally, (1), self (1), this, (1)
 > **Definitions:** is a  (3), known as (1), means that (1), is an  (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** find (1)
@@ -814,7 +816,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), default. (1), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), ai (2), product (2), api (1)
 > **Env Vars:** gpt (14), api (1)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** python (4), find (1), make (1)
@@ -934,8 +936,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Large Language Models (LLM)|Large language models]] (5), prompt (2), ai (1), [[Google]] (1)
 > **Env Vars:** gpt (10), co2 (1)
-> **Code Keywords:** let (2), function (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -994,7 +996,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), module (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Tokens]] (1), next (1)
 > **Env Vars:** gpt (4)
 > **Versions:** 1.2 (3), 96.6 (1)
 > **Definitions:** is a  (1), known as (1), means that (1)
@@ -1029,8 +1031,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft]] (1), [[Large Language Models (LLM)|Large language models]] (1), parallel (1), nlp (1)
 > **Env Vars:** gpt (7), nlg (4), gpu (1), nlp (1), dgx (1)
-> **Code Keywords:** finally, (1), super (1), let (1)
 > **Analogies:** just like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1133,8 +1135,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Tokens]] (2), next (1), [[Large Language Models (LLM)|Large language models]] (1), [[Ethics]] (1)
 > **Env Vars:** gpt (8), stem (3)
-> **Code Keywords:** let (3), self (1), from, (1), abstract (1)
 > **URLs:** [direct.com](https://direct.com) (1), [gale.com](https://gale.com) (1), [nih.gov](https://nih.gov) (1), [academia.edu](https://academia.edu) (1)
 > **Analogies:** such as (3), similar to (1)
 > **Versions:** 2.3 (1), 7.1 (1)
@@ -1212,7 +1214,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), function (1), let (1), finally, (1), this. (1)
+> **Frameworks & Libraries:** data (4), power (2)
 > **Env Vars:** gpt (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1352,8 +1354,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (22), data (8), power (6), [[Large Language Models (LLM)|Large language models]] (2), [[Fine Tuning]] (1)
 > **Versions:** 1.4 (4), 1.5 (3), 2.8 (3), 1.8 (1), 5.76 (1)
-> **Code Keywords:** let (5), this. (2)
 > **Env Vars:** gpt (4), nlg (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** compare this to (1)
@@ -1458,8 +1460,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** game (2), next (2), [[GitHub]] (1), api (1), power (1)
 > **Env Vars:** gpt (3), big (2), api (1)
-> **Code Keywords:** let (4)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), imagine (1)
 > **Tools:** github (1)
@@ -1607,8 +1609,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), prompt (3), ai (1), [[Hardware]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (7), nlg (1)
-> **Code Keywords:** let (6), finally, (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1661,6 +1663,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (3), ai (2), [[Hugging Face]] (2), [[Hardware]] (2), api (1)
 > **Env Vars:** bloom (5), gpt (2), api (1), opt (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1731,7 +1734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), class. (1), this. (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Large Language Models (LLM)|Large language models]] (4), business (2), prompt (1), [[Microsoft Word|Word]] (1)
 > **Tools:** github (5)
 > **Env Vars:** gpt (3)
 > **Analogies:** imagine (1), it's like (1), compare this to (1)
@@ -1857,9 +1860,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GitHub]] (13), [[Python (Programming Language)|Python]] (10), [[Codespaces]] (5), [[Large Language Models (LLM)|Large language models]] (3), api (2)
 > **CLI Commands:** python (10), pip (2), make (1)
 > **Tools:** github (13)
-> **Code Keywords:** let (10), public (1), this, (1)
 > **Env Vars:** gpt (4), api (2)
 > **Prerequisites:** install (5), set up (1)
 > **Exercise Files:** github repo (4), template (1)
@@ -1943,15 +1946,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Tokens]] (5), data (4), [[Large Language Models (LLM)|Large language models]] (3), ai (2), [[Hardware]] (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
-> **Code Keywords:** let (1), require (1)
 > **Env Vars:** gpqa (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Going further with Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980)
@@ -1990,8 +1993,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Google]] (2), [[LinkedIn]] (2), [[Microsoft]] (1), [[Hugging Face]] (1)
 > **Env Vars:** gpt (2), bloom (1), bert (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [jonathan] (1)
 
 

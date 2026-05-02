@@ -32,7 +32,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Machine%20Learning%20With%20Knime.md)
@@ -51,51 +51,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Open-source machine learning with KNIME
-  - Who is this course for?
+  - [Open-source machine learning with KNIME](#open-source-machine-learning-with-knime)
+  - [Who is this course for?](#who-is-this-course-for)
 - [**1. How Does KNIME Complement Your Existing Analytics Toolkit?**](#1-how-does-knime-complement-your-existing-analytics-toolkit) (3 videos)
-  - Why use an Analytics Workbench?
-  - Using CRISP-DM to evaluate tools
-  - Why choose KNIME?
+  - [Why use an Analytics Workbench?](#why-use-an-analytics-workbench)
+  - [Using CRISP-DM to evaluate tools](#using-crisp-dm-to-evaluate-tools)
+  - [Why choose KNIME?](#why-choose-knime)
 - [**2. Getting Comfortable with KNIME**](#2-getting-comfortable-with-knime) (5 videos)
-  - The KNIME interface
-  - Find case studies on the Examples Server
-  - The KNIME Hub
-  - Add thousands of nodes with Extensions
-  - Search and Help
+  - [The KNIME interface](#the-knime-interface)
+  - [Find case studies on the Examples Server](#find-case-studies-on-the-examples-server)
+  - [The KNIME Hub](#the-knime-hub)
+  - [Add thousands of nodes with Extensions](#add-thousands-of-nodes-with-extensions)
+  - [Search and Help](#search-and-help)
 - [**3. Accessing Data**](#3-accessing-data) (3 videos)
-  - Accessing data
-  - File reader node
-  - Database access with KNIME
+  - [Accessing data](#accessing-data)
+  - [File reader node](#file-reader-node)
+  - [Database access with KNIME](#database-access-with-knime)
 - [**4. Data Understanding**](#4-data-understanding) (3 videos)
-  - Describe data and verify data quality
-  - Explore data: Scatterplot
-  - Explore data: Boxplot
+  - [Describe data and verify data quality](#describe-data-and-verify-data-quality)
+  - [Explore data: Scatterplot](#explore-data-scatterplot)
+  - [Explore data: Boxplot](#explore-data-boxplot)
 - [**5. Data Integration and Merging**](#5-data-integration-and-merging) (7 videos)
-  - Merging with the Joiner node
-  - Aggregating with the GroupBy node
-  - Creating new variables with Construct
-  - Select data with Column Filter
-  - Balancing data with Row Sampling node
-  - Clean data with the Missing Value node
-  - Format with Cell Splitter
+  - [Merging with the Joiner node](#merging-with-the-joiner-node)
+  - [Aggregating with the GroupBy node](#aggregating-with-the-groupby-node)
+  - [Creating new variables with Construct](#creating-new-variables-with-construct)
+  - [Select data with Column Filter](#select-data-with-column-filter)
+  - [Balancing data with Row Sampling node](#balancing-data-with-row-sampling-node)
+  - [Clean data with the Missing Value node](#clean-data-with-the-missing-value-node)
+  - [Format with Cell Splitter](#format-with-cell-splitter)
 - [**6. Modeling**](#6-modeling) (5 videos)
-  - KNIME modeling options
-  - Regression example
-  - Decision tree
-  - Decision tree: Scoring new data
-  - Components in KNIME: AutoML and XAI
+  - [KNIME modeling options](#knime-modeling-options)
+  - [Regression example](#regression-example)
+  - [Decision tree](#decision-tree)
+  - [Decision tree: Scoring new data](#decision-tree-scoring-new-data)
+  - [Components in KNIME: AutoML and XAI](#components-in-knime-automl-and-xai)
 - [**7. A World of Possibilities**](#7-a-world-of-possibilities) (4 videos)
-  - PMML
-  - R and GGPLOT2
-  - Python options in KNIME
-  - Certification in KNIME
+  - [PMML](#pmml)
+  - [R and GGPLOT2](#r-and-ggplot2)
+  - [Python options in KNIME](#python-options-in-knime)
+  - [Certification in KNIME](#certification-in-knime)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Open-source machine learning with KNIME
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980)
@@ -120,8 +120,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Predictive Analytics]] (3), [[Knime]] (3), [[Analytics]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** knime (3)
-> **Code Keywords:** function (1), for. (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - almost (1)
@@ -193,9 +193,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (9), data (5), [[Predictive Analytics]] (2), [[Predictive Modeling]] (2), [[Decision Trees]] (2)
 > **Env Vars:** knime (8), crisp (1)
 > **Prerequisites:** install (3), you'll need (1), set up (1), before you begin (1)
-> **Code Keywords:** else, (1), finally, (1), let (1)
 > **CLI Commands:** python (1), find (1)
 > **URLs:** [knime.com](https://knime.com) (1)
 > **UI Navigation:** go to (1)
@@ -205,7 +205,7 @@ created: 2026-04-29
 
 ### 1. How Does KNIME Complement Your Existing Analytics Toolkit?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use an Analytics Workbench?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980)
@@ -260,8 +260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (4), [[Python (Programming Language)|Python]] (4), data (4), [[Knime]] (2), business (1)
 > **CLI Commands:** python (4), make (1)
-> **Code Keywords:** interface (2), self (1)
 > **Env Vars:** knime (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -334,10 +334,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), node (15), [[CRISP-DM]] (6), [[Knime]] (6), [[Feature Engineering]] (2)
 > **CLI Commands:** node (15), find (4)
 > **Env Vars:** crisp (6), knime (6), roc (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** finally, (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -432,15 +432,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (13), [[Analytics]] (3), next (1), [[CRISP-DM]] (1), hit (1)
 > **Env Vars:** knime (13), crisp (1)
-> **Code Keywords:** finally, (2), let (1), this, (1), interface (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Getting Comfortable with KNIME
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The KNIME interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980)
@@ -487,7 +487,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1)
+> **Frameworks & Libraries:** [[Knime]] (3), data (2), [[Windows]] (1), node (1), [[Analytics]] (1)
 > **Env Vars:** knime (3)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** node (1)
@@ -552,7 +552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2)
+> **Frameworks & Libraries:** data (3), [[Knime]] (2), [[Analytics]] (1), traffic (1), feature (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
@@ -590,9 +590,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (9), feature (2), [[Search]] (1), web (1)
 > **Env Vars:** knime (9)
 > **UI Navigation:** click on (3), drag and drop (1), go to (1)
-> **Code Keywords:** let (2), from. (1), this, (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (2)
 > **Versions:** version 4 (1)
@@ -644,12 +644,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (5), node (2), next (2), web (1), [[Java]] (1)
 > **UI Navigation:** go to (4), click on (3), scroll down (1)
 > **Env Vars:** knime (5), url (1)
 > **CLI Commands:** node (2), find (1), make (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** install (4)
-> **Code Keywords:** while, (2), let (1)
 > **URLs:** [downloadnotepit.com](https://downloadnotepit.com) (1)
 > **Versions:** 3.7 (1)
 
@@ -690,9 +690,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (6), prompt (1), [[JavaScript]] (1), [[Deep Learning]] (1)
 > **Env Vars:** knime (6), esri (1), crisp (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (2)
 > **Prerequisites:** install (2)
 > **Documentation:** the documentation (1)
@@ -701,7 +701,7 @@ created: 2026-04-29
 
 ### 3. Accessing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980)
@@ -748,8 +748,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Knime]] (4), node (3), [[Text Mining]] (1), next (1)
 > **UI Navigation:** go to (6), click on (2)
-> **Code Keywords:** let (6)
 > **Env Vars:** knime (4), pdf (1)
 > **CLI Commands:** node (3), find (1)
 > **Analogies:** for instance (4)
@@ -850,7 +850,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), class, (1), class. (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (6), [[Knime]] (5), node (3), [[Predictive Analytics]] (1), [[Algorithms]] (1)
 > **Env Vars:** knime (5)
 > **CLI Commands:** node (3)
 > **UI Navigation:** click on (3)
@@ -980,7 +980,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), switch (1), this, (1), default. (1)
+> **Frameworks & Libraries:** [[Knime]] (10), database (9), data (7), [[SQL]] (4), feature (2)
 > **UI Navigation:** click on (6), drag and drop (2), go to (1)
 > **Env Vars:** sql (4), iris (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -991,7 +991,7 @@ created: 2026-04-29
 
 ### 4. Data Understanding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe data and verify data quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980)
@@ -1086,7 +1086,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), else. (1), let (1), super (1)
+> **Frameworks & Libraries:** data (16), node (2), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **CLI Commands:** node (2), make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -1157,7 +1157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (1), switch (1), from. (1), require (1)
+> **Frameworks & Libraries:** data (9), node (1), [[Search]] (1), [[JavaScript]] (1)
 > **Env Vars:** nime (4)
 > **Warnings:** keep in mind (2), warning (1), be careful (1)
 > **CLI Commands:** node (1), find (1)
@@ -1243,7 +1243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (1), require (1), this. (1), continue (1), let (1)
+> **Frameworks & Libraries:** data (5), [[Knime]] (5), [[JavaScript]] (3)
 > **Env Vars:** knime (5)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (1)
@@ -1254,7 +1254,7 @@ created: 2026-04-29
 
 ### 5. Data Integration and Merging
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Merging with the Joiner node
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/merging-with-the-joiner-node?u=76281980)
@@ -1321,8 +1321,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** product (9), node (6), data (2)
 > **CLI Commands:** node (6), find (1)
-> **Code Keywords:** let (2), this, (1), case, (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
@@ -1376,7 +1376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1), this. (1)
+> **Frameworks & Libraries:** node (1), [[Knime]] (1), [[Search]] (1)
 > **CLI Commands:** node (1), find (1)
 > **Env Vars:** knime (1)
 > **Speakers:** - [instructor] (1)
@@ -1438,8 +1438,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (8), data (3), [[Feature Engineering]] (2), next (1)
 > **CLI Commands:** node (8)
-> **Code Keywords:** this, (1), let (1), require (1)
 > **Definitions:** is a  (2), essentially is (1)
 > **Analogies:** for instance (2)
 > **Documentation:** the documentation (1)
@@ -1499,7 +1499,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (2), [[Search]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1571,8 +1571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (6), data (5), [[Algorithms]] (3), [[Knime]] (2), database (1)
 > **CLI Commands:** node (6)
-> **Code Keywords:** let (4), continue (2)
 > **Env Vars:** knime (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** in other words (1)
@@ -1649,8 +1649,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), node (4)
 > **CLI Commands:** node (4), make (1)
-> **Code Keywords:** match, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Format with Cell Splitter
@@ -1710,8 +1710,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (5), data (3), next (1)
 > **CLI Commands:** node (5), make (1)
-> **Code Keywords:** let (3), continue (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1719,7 +1719,7 @@ created: 2026-04-29
 
 ### 6. Modeling
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### KNIME modeling options
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980)
@@ -1900,9 +1900,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (11), data (4), [[Algorithms]] (4), [[Search]] (3), node (2)
 > **CLI Commands:** find (9), node (2), python (2)
 > **Env Vars:** knime (11), cart (1), pnn (1)
-> **Code Keywords:** let (9), for, (1), this, (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for instance (2)
 > **Warnings:** keep in mind (1)
@@ -2077,7 +2077,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (14), continue (1), this, (1), case. (1)
+> **Frameworks & Libraries:** data (9), node (7), [[Knime]] (4), [[Linear Regression]] (2), [[Big Data]] (1)
 > **CLI Commands:** node (7), find (3), make (1)
 > **Definitions:** is an  (2), is a  (2), means that (1)
 > **UI Navigation:** go to (3)
@@ -2209,8 +2209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (13), [[JavaScript]] (3), [[Knime]] (2), [[Decision Trees]] (2), data (1)
 > **CLI Commands:** node (13), make (1), find (1)
-> **Code Keywords:** let (3), this. (1), for. (1), require (1)
 > **Env Vars:** roc (4), knime (2)
 > **UI Navigation:** click on (2), in the menu (1)
 > **Versions:** 38.5 (1)
@@ -2266,8 +2266,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Knime]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (2)
 > **File Paths:** test.csv (1)
 > **Env Vars:** knime (1)
 > **Speakers:** - [instructor] (1)
@@ -2387,7 +2387,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), from, (1), this, (1)
+> **Frameworks & Libraries:** [[Knime]] (11), node (4), [[Search]] (1), data (1), ai (1)
 > **UI Navigation:** drag and drop (2), go to (2), click on (2), scroll down (1)
 > **CLI Commands:** node (4), make (1)
 > **Env Vars:** xai (3)
@@ -2399,7 +2399,7 @@ created: 2026-04-29
 
 ### 7. A World of Possibilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### PMML
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980)
@@ -2494,8 +2494,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (9), data (3), node (2), cloud (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** pmml (13), knime (9), spss (2), ibm (1)
-> **Code Keywords:** let (4), else. (2), this. (1), try. (1), this, (1)
 > **CLI Commands:** node (2), make (1)
 > **Tools:** notion (3)
 > **Exercise Files:** exercise files (3)
@@ -2610,8 +2610,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (7), [[RStudio]] (5), node (4), data (1)
 > **Env Vars:** knime (7), ggplot2 (3), ggplot (1)
-> **Code Keywords:** let (3), continue (1), type, (1), require (1), switch (1)
 > **CLI Commands:** node (4), make (2)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** install (2)
@@ -2705,9 +2705,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Knime]] (14), node (9), [[Decision Trees]] (2), next (2)
 > **CLI Commands:** python (18), node (9), make (1), find (1)
 > **Env Vars:** knime (14)
-> **Code Keywords:** let (2), public (1), this. (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (2)
@@ -2761,8 +2761,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (7), [[LinkedIn]] (1), data (1), [[Data Engineering]] (1), career (1)
 > **Env Vars:** knime (7)
-> **Code Keywords:** let (2), self (1), try. (1), require (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for instance (1)
@@ -2772,7 +2772,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980)
@@ -2815,9 +2815,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Knime]] (4), next (2), [[Search]] (2), [[LinkedIn]] (2), [[Microsoft Office|Office]] (2)
 > **Env Vars:** knime (4)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** try. (2), let (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 

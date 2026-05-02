@@ -28,7 +28,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-10
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%2010-%20Manage%20and%20Maintain%20Windows%2010.md)
@@ -47,49 +47,49 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - The benefits of managing and maintaining Windows 10
+  - [The benefits of managing and maintaining Windows 10](#the-benefits-of-managing-and-maintaining-windows-10)
 - [**1. Configure Updates**](#1-configure-updates) (5 videos)
-  - Configure basic Windows Update options
-  - Plan for Windows Update in an enterprise
-  - Select the appropriate servicing channel
-  - Troubleshoot updates
-  - Update Microsoft Store apps
+  - [Configure basic Windows Update options](#configure-basic-windows-update-options)
+  - [Plan for Windows Update in an enterprise](#plan-for-windows-update-in-an-enterprise)
+  - [Select the appropriate servicing channel](#select-the-appropriate-servicing-channel)
+  - [Troubleshoot updates](#troubleshoot-updates)
+  - [Update Microsoft Store apps](#update-microsoft-store-apps)
 - [**2. Monitor Windows**](#2-monitor-windows) (10 videos)
-  - Configure services
-  - Configure event subscriptions
-  - Manage performance with Task Manager
-  - Manage performance with Resource Monitor
-  - Manage performance with Performance Monitor
-  - Manage performance with Reliability Monitor
-  - Monitor and manage printers
-  - Schedule tasks with Task Scheduler
-  - Implement encryption
-  - Configure Windows Defender Firewall and antivirus
+  - [Configure services](#configure-services)
+  - [Configure event subscriptions](#configure-event-subscriptions)
+  - [Manage performance with Task Manager](#manage-performance-with-task-manager)
+  - [Manage performance with Resource Monitor](#manage-performance-with-resource-monitor)
+  - [Manage performance with Performance Monitor](#manage-performance-with-performance-monitor)
+  - [Manage performance with Reliability Monitor](#manage-performance-with-reliability-monitor)
+  - [Monitor and manage printers](#monitor-and-manage-printers)
+  - [Schedule tasks with Task Scheduler](#schedule-tasks-with-task-scheduler)
+  - [Implement encryption](#implement-encryption)
+  - [Configure Windows Defender Firewall and antivirus](#configure-windows-defender-firewall-and-antivirus)
 - [**3. Manage Local Users, Local Groups, and Devices**](#3-manage-local-users-local-groups-and-devices) (7 videos)
-  - Create a workgroup or join a domain
-  - Create user accounts in Accounts and Computer Management
-  - Manage local groups: NTFS permissions in Computer Management
-  - Manage users with Computer Management and Group Policy
-  - Configure application settings
-  - Configure Credential Manager
-  - Use Group Policy to secure users and computers
+  - [Create a workgroup or join a domain](#create-a-workgroup-or-join-a-domain)
+  - [Create user accounts in Accounts and Computer Management](#create-user-accounts-in-accounts-and-computer-management)
+  - [Manage local groups: NTFS permissions in Computer Management](#manage-local-groups-ntfs-permissions-in-computer-management)
+  - [Manage users with Computer Management and Group Policy](#manage-users-with-computer-management-and-group-policy)
+  - [Configure application settings](#configure-application-settings)
+  - [Configure Credential Manager](#configure-credential-manager)
+  - [Use Group Policy to secure users and computers](#use-group-policy-to-secure-users-and-computers)
 - [**4. Configure System and Data Recovery**](#4-configure-system-and-data-recovery) (10 videos)
-  - Recover Windows 10 with a recovery drive
-  - Create and manage System Restore points
-  - Explore recovery options
-  - Troubleshoot the startup and boot process
-  - Restore with file history
-  - Configure OneDrive
-  - Configure OneDrive for Business
-  - Access and configure Backup and Restore
-  - Explore wbadmin
-  - Recover the OS with Windows Recovery Environment
+  - [Recover Windows 10 with a recovery drive](#recover-windows-10-with-a-recovery-drive)
+  - [Create and manage System Restore points](#create-and-manage-system-restore-points)
+  - [Explore recovery options](#explore-recovery-options)
+  - [Troubleshoot the startup and boot process](#troubleshoot-the-startup-and-boot-process)
+  - [Restore with file history](#restore-with-file-history)
+  - [Configure OneDrive](#configure-onedrive)
+  - [Configure OneDrive for Business](#configure-onedrive-for-business)
+  - [Access and configure Backup and Restore](#access-and-configure-backup-and-restore)
+  - [Explore wbadmin](#explore-wbadmin)
+  - [Recover the OS with Windows Recovery Environment](#recover-the-os-with-windows-recovery-environment)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of managing and maintaining Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980)
@@ -120,7 +120,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), business (1), [[Microsoft Defender|Defender]] (1)
 > **Analogies:** for instance (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - welcome (1)
@@ -128,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Configure Updates
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure basic Windows Update options
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980)
@@ -215,7 +215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), new, (1), continue (1)
+> **Frameworks & Libraries:** [[Windows]] (17), [[Security]] (3), [[Microsoft]] (2), [[Windows 10]] (2), [[Microsoft Products]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -289,8 +289,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows]] (2), [[Windows 10]] (1), [[Hardware]] (1), next (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** require (2), let (1), finally, (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** iso (1)
@@ -379,7 +379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), continue (2), public (1), this, (1)
+> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft]] (2), feature (2), next (1), product (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** atm (1)
 > **Analogies:** for example (1)
@@ -451,9 +451,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft]] (4), [[Security]] (2)
 > **Warnings:** note that (1), troubleshoot (1), be aware (1)
 > **Prerequisites:** install (3)
-> **Code Keywords:** this. (1), for, (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -547,7 +547,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (1), if, (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (2), [[Search]] (2), [[Microsoft]] (1), [[Security]] (1)
 > **Prerequisites:** install (3)
 > **UI Navigation:** right-click (2)
 > **Analogies:** for instance (1)
@@ -557,7 +557,7 @@ created: 2026-04-29
 
 ### 2. Monitor Windows
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure services
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980)
@@ -670,9 +670,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Troubleshooting]] (2), [[Search]] (1), [[Routing]] (1)
 > **Prerequisites:** configure (4)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** let (2), default, (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [instructor] (1)
@@ -854,7 +854,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1), public (1), private (1), continue (1)
+> **Frameworks & Libraries:** [[Windows]] (8), prompt (3), [[Security]] (3), application (2), management (2)
 > **CLI Commands:** make (5), node (1)
 > **Prerequisites:** configure (3), set up (2), you'll need (1)
 > **Tools:** command prompt (3)
@@ -1014,7 +1014,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (3), let (1), case, (1), finally, (1)
+> **Frameworks & Libraries:** [[Google]] (1), hit (1), [[React.js|React]] (1), [[Microsoft]] (1), feature (1)
 > **Env Vars:** cpu (5), dhcp (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** right-click (1), open the (1)
@@ -1088,7 +1088,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** data (3), [[Troubleshooting]] (2), application (2), [[Windows]] (1)
 > **Env Vars:** cpu (2)
 > **UI Navigation:** right-click (1), scroll up (1)
 > **Analogies:** just like (1), for instance (1)
@@ -1235,7 +1235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), require (1), interface (1), this. (1)
+> **Frameworks & Libraries:** data (4), next (4), [[Flux]] (1), [[Search]] (1)
 > **UI Navigation:** select the (3), right-click (3), double-click (1)
 > **Env Vars:** cpu (4), ram (1)
 > **CLI Commands:** make (2), find (1)
@@ -1301,8 +1301,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (1), application (1), [[Microsoft Office|Office]] (1), [[Google]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this, (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1425,7 +1425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), private (1), from, (1), require (1), continue (1)
+> **Frameworks & Libraries:** [[Windows]] (2), power (1), [[Search]] (1), business (1), [[Security]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** configure (3), install (1)
 > **Env Vars:** tcp (1)
@@ -1564,7 +1564,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), delete (2), this, (1), require (1), new. (1)
+> **Frameworks & Libraries:** [[Search]] (2), [[Windows]] (2), management (1), prompt (1), application (1)
 > **Analogies:** such as (3), for instance (2), for example (2), imagine (1)
 > **Tools:** command prompt (1), command line (1)
 > **UI Navigation:** scroll down (1), switch to (1)
@@ -1720,7 +1720,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), protected (1), module (1), finally, (1)
+> **Frameworks & Libraries:** data (10), [[Windows]] (3), next (3), [[Microsoft]] (1)
 > **Env Vars:** usb (3), tpm (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1835,7 +1835,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), this, (1), continue (1), case. (1)
+> **Frameworks & Libraries:** [[Windows]] (15), [[Microsoft Defender|Defender]] (9), [[Security]] (7), [[Microsoft]] (1), [[Virtualization]] (1)
 > **Prerequisites:** configure (2), install (1)
 > **UI Navigation:** scroll down (1), navigate to (1)
 > **Analogies:** for instance (2)
@@ -1847,7 +1847,7 @@ created: 2026-04-29
 
 ### 3. Manage Local Users, Local Groups, and Devices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a workgroup or join a domain
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980)
@@ -1946,8 +1946,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), next (4), data (3), cloud (2), feature (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** require (1), switch (1), case, (1)
 > **UI Navigation:** double-click (1), switch to (1), go to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), such as (1)
@@ -2140,7 +2140,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), this. (1), continue (1), default. (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), next (4), management (3), [[Windows 10]] (1), cloud (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Non-Speech:** (keyboard typing) (2), (mouse clicking) (1)
@@ -2302,7 +2302,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), public (2), continue (1), this, (1)
+> **Frameworks & Libraries:** management (3), next (3), [[Security]] (3), [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **UI Navigation:** right-click (3), open the (1), scroll down (1)
 > **Env Vars:** ntfs (3)
 > **Prerequisites:** configure (2)
@@ -2407,7 +2407,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows]] (3), [[Windows 10]] (2), management (2), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mmc (1)
 > **Definitions:** is a  (1)
@@ -2476,10 +2476,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (4), business (3), [[Microsoft Entra ID|Azure active directory]] (3), [[Windows]] (2), [[Android]] (2)
 > **Code Identifiers:** ios (2)
 > **Env Vars:** ntfs (1), gui (1)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Configure Credential Manager
@@ -2575,7 +2575,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (1), continue (1)
+> **Frameworks & Libraries:** web (6), [[Windows]] (5), feature (1), [[Microsoft Office]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Tools:** command prompt (1)
 > **UI Navigation:** navigate to (1)
@@ -2703,7 +2703,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (5), let (3), pass (2), default, (1), this. (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Security]] (2), power (1), application (1)
 > **Prerequisites:** configure (6), required to (2)
 > **Analogies:** picture (5)
 > **Env Vars:** pin (4)
@@ -2715,7 +2715,7 @@ created: 2026-04-29
 
 ### 4. Configure System and Data Recovery
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Recover Windows 10 with a recovery drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-windows-10-with-a-recovery-drive?u=76281980)
@@ -2776,6 +2776,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), data (2), next (2), [[Search]] (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Warnings:** note that (2), troubleshoot (1)
 > **Env Vars:** usb (2)
@@ -2870,8 +2871,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), data (2), next (2), [[Search]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (3)
 > **Prerequisites:** configure (2), set up (1)
 > **UI Navigation:** scroll down (1)
 > **Best Practices:** make sure to (1)
@@ -2930,7 +2931,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** try. (1), else, (1), new, (1), case, (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** usb (1), dvd (1)
 > **Cross-References:** go back to (1)
@@ -3041,8 +3042,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (6), [[Security]] (3), power (2), prompt (2), [[Troubleshooting]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Tools:** command prompt (2)
 > **Warnings:** troubleshoot (2)
 > **Prerequisites:** you'll need (2)
@@ -3151,7 +3152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1), type, (1), continue (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (1), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** be careful (1), watch out (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -3247,7 +3248,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), switch (1), default. (1), let (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (21), data (16), web (2), [[Google Drive]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (3), drag and drop (1), right-click (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [live.com](https://live.com) (1)
@@ -3311,6 +3312,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (12), business (6), data (3), cloud (3), [[Microsoft Office]] (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1), is an  (1)
 > **Analogies:** similar to (1)
@@ -3418,7 +3420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), default, (1)
+> **Frameworks & Libraries:** data (6), [[Windows]] (5), [[Microsoft OneDrive|Onedrive]] (3), next (3), [[Windows 10]] (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
@@ -3489,8 +3491,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (3), prompt (3), [[Hardware]] (1), [[Windows]] (1), management (1)
 > **Tools:** powershell (3), command line (2), command prompt (2)
-> **Code Keywords:** let (2), try. (1), continue (1)
 > **Env Vars:** vhd (1), dvd (1), usb (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
@@ -3568,11 +3570,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (9), prompt (2)
 > **Env Vars:** uefi (2), usb (1), dvd (1), vcd (1), bcd (1)
 > **Analogies:** such as (2), for example (1), for instance (1), picture (1)
 > **Tools:** command prompt (2), command line (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** setup (1)
@@ -3580,7 +3582,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980)
@@ -3607,6 +3609,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1), management (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** mcsa (1)
 > **Tools:** powershell (1)

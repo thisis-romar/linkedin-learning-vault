@@ -22,7 +22,7 @@ tags:
   - topic/devops
   - topic/it-help-desk
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Lean%20Technology%20Strategy-%20Building%20High-Performing%20Teams.md)
@@ -41,15 +41,15 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Building High-Performing Teams**](#1-building-high-performing-teams) (5 videos)
-  - Taylorist management vs. Lean management
-  - What makes a high-performing team?
-  - How to change culture: The NUMMI case study
-  - Improving performance
-  - Principles for high-performing teams
+  - [Taylorist management vs. Lean management](#taylorist-management-vs-lean-management)
+  - [What makes a high-performing team?](#what-makes-a-high-performing-team)
+  - [How to change culture: The NUMMI case study](#how-to-change-culture-the-nummi-case-study)
+  - [Improving performance](#improving-performance)
+  - [Principles for high-performing teams](#principles-for-high-performing-teams)
 
 ### 1. Building High-Performing Teams
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Taylorist management vs. Lean management
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/taylorist-management-vs-lean-management?u=76281980)
@@ -146,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (8), product (2), next (2), leadership (1), [[Engineering]] (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** case. (1), require (1)
 > **Speakers:** - the (1)
 
 #### What makes a high-performing team?
@@ -291,9 +291,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (3), teams (3), next (2), [[DevOps]] (1), data (1)
 > **CLI Commands:** find (9), make (5), node (1)
 > **File Paths:** node.js (1)
-> **Code Keywords:** super (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
@@ -437,6 +437,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (7), product (4), leadership (3), [[Continuous Integration (CI)|Continuous integration]] (3), next (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** nummi (3), scrum (1), safe (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -666,7 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (2), finally, (2), for. (1), pass (1)
+> **Frameworks & Libraries:** teams (13), [[Google]] (3), data (3), cloud (2), management (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** nummi (1)
@@ -694,6 +695,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (5), leadership (2)
 > **Speakers:** - we (1)
 
 

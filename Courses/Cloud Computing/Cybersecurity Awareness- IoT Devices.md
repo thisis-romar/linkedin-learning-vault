@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/internet-of-things-iot
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20IoT%20Devices.md)
@@ -50,32 +50,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Importance of cybersecurity awareness
-  - What you should know
+  - [Importance of cybersecurity awareness](#importance-of-cybersecurity-awareness)
+  - [What you should know](#what-you-should-know)
 - [**1. Understanding IoT**](#1-understanding-iot) (4 videos)
-  - Cybersecurity and IoT
-  - Internet in IoT
-  - Things in IoT
-  - Do IoT devices need the internet?
+  - [Cybersecurity and IoT](#cybersecurity-and-iot)
+  - [Internet in IoT](#internet-in-iot)
+  - [Things in IoT](#things-in-iot)
+  - [Do IoT devices need the internet?](#do-iot-devices-need-the-internet)
 - [**2. How Devices Operate**](#2-how-devices-operate) (3 videos)
-  - Daily activities of IoT
-  - How IoT communicates
-  - Common behaviors of IoT
+  - [Daily activities of IoT](#daily-activities-of-iot)
+  - [How IoT communicates](#how-iot-communicates)
+  - [Common behaviors of IoT](#common-behaviors-of-iot)
 - [**3. Outcome of IoT**](#3-outcome-of-iot) (3 videos)
-  - Benefits of IoT in real life and the society
-  - Security risks of IoT
-  - Common cyber attacks on IoT
+  - [Benefits of IoT in real life and the society](#benefits-of-iot-in-real-life-and-the-society)
+  - [Security risks of IoT](#security-risks-of-iot)
+  - [Common cyber attacks on IoT](#common-cyber-attacks-on-iot)
 - [**4. Iot Security**](#4-iot-security) (4 videos)
-  - How to create strong passwords
-  - Network segmentation
-  - Wi-Fi security
-  - Patching firmware
+  - [How to create strong passwords](#how-to-create-strong-passwords)
+  - [Network segmentation](#network-segmentation)
+  - [Wi-Fi security](#wi-fi-security)
+  - [Patching firmware](#patching-firmware)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of cybersecurity awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980)
@@ -104,7 +104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (2), [[Cybersecurity]] (2), [[Security]] (2), cloud (1)
 > **Speakers:** - [rachael (1)
 
 #### What you should know
@@ -124,12 +124,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (3), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding IoT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity and IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980)
@@ -190,8 +191,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (7), [[Cybersecurity]] (5), [[Security]] (3), data (3), [[Internet of Things (IoT)|Internet of things]] (2)
 > **Env Vars:** iot (7)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Internet in IoT
@@ -267,7 +268,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[IoT]] (4), [[Internet of Things (IoT)|Internet of things]] (2), data (2), [[Search]] (1), cloud (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -340,8 +341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (12), data (4), [[Microsoft Word|Word]] (2), [[Internet of Things (IoT)|Internet of things]] (2)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** function (1), require (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -412,7 +413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), require (1), function (1)
+> **Frameworks & Libraries:** data (10), [[IoT]] (9), cloud (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Env Vars:** iot (2), ibm (1)
 > **Definitions:** is called (2)
 > **Analogies:** such as (1)
@@ -421,7 +422,7 @@ created: 2026-04-29
 
 ### 2. How Devices Operate
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Daily activities of IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980)
@@ -490,7 +491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (3)
+> **Frameworks & Libraries:** [[IoT]] (12), [[Microsoft Products|Products]] (3), business (2), management (2), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### How IoT communicates
@@ -556,7 +557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (5), let (1)
+> **Frameworks & Libraries:** [[IoT]] (14), cloud (2), [[Hardware]] (1), business (1), application (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** lan (1), wan (1)
 > **Analogies:** such as (1)
@@ -647,16 +648,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[IoT]] (5), [[Internet of Things (IoT)|Internet of things]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
 
 ### 3. Outcome of IoT
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of IoT in real life and the society
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980)
@@ -741,8 +742,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Internet of Things (IoT)|Internet of things]] (6), [[IoT]] (3), business (2), traffic (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), raise (1)
 > **Env Vars:** iot (3)
 > **Analogies:** for instance (1), for example (1)
 > **Warnings:** keep in mind (1)
@@ -847,8 +848,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (3), data (3), [[Internet of Things (IoT)|Internet of things]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** iot (8)
-> **Code Keywords:** let (2), protected (1), continue (1), finally, (1)
 > **Analogies:** such as (1), just like (1)
 > **Warnings:** note that (1), be aware (1)
 > **Definitions:** is an  (1)
@@ -940,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (6), [[IoT]] (3), [[Forms]] (2), [[Security]] (1), [[Phishing]] (1)
 > **Env Vars:** ddos (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -948,7 +949,7 @@ created: 2026-04-29
 
 ### 4. Iot Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create strong passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980)
@@ -1045,9 +1046,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (1), [[Security]] (1), [[Microsoft Word|Word]] (1), [[Storytelling]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1101,9 +1102,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (10), [[Security]] (3), [[Cybersecurity]] (1)
 > **Env Vars:** iot (10), nac (3)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Wi-Fi security
@@ -1195,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), private (2), this. (1), public (1), case, (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (4), vpn (2), traffic (1), [[Virtual Private Network (VPN)|Virtual private network]] (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), means that (1)
 > **Env Vars:** vpn (2), wpa2 (1), ioc (1)
 > **CLI Commands:** make (3)
@@ -1231,15 +1232,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (7), [[Security]] (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Hardware]] (1), product (1)
 > **Env Vars:** ddos (1), iot (1), ota (1), cia (1)
-> **Code Keywords:** this. (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980)
@@ -1284,8 +1285,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[IoT]] (3), [[LinkedIn]] (3), next (2), [[Security]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)

@@ -35,7 +35,7 @@ tags:
   - skill/semantic-search
   - skill/information-retrieval
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Semantic%20Search%20and%20Information%20Retrieval%20using%20GenAI.md)
@@ -54,47 +54,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The power of semantic search and information retrieval
-  - What you need to know for the course
+  - [The power of semantic search and information retrieval](#the-power-of-semantic-search-and-information-retrieval)
+  - [What you need to know for the course](#what-you-need-to-know-for-the-course)
 - [**1. Selecting Search**](#1-selecting-search) (4 videos)
-  - Use case: Two Trees Olive Oil
-  - What kind of search do you need?
-  - Deciding if you need a vector database, a knowledge graph, or both
-  - What about non-LLM AI for semantic search?
+  - [Use case: Two Trees Olive Oil](#use-case-two-trees-olive-oil)
+  - [What kind of search do you need?](#what-kind-of-search-do-you-need)
+  - [Deciding if you need a vector database, a knowledge graph, or both](#deciding-if-you-need-a-vector-database-a-knowledge-graph-or-both)
+  - [What about non-LLM AI for semantic search?](#what-about-non-llm-ai-for-semantic-search)
 - [**2. Building Blocks of Semantic Search**](#2-building-blocks-of-semantic-search) (4 videos)
-  - What is information retrieval?
-  - What is semantic search?
-  - What are knowledge graphs, and how are they used in semantic search?
-  - What are vector embeddings?
+  - [What is information retrieval?](#what-is-information-retrieval)
+  - [What is semantic search?](#what-is-semantic-search)
+  - [What are knowledge graphs, and how are they used in semantic search?](#what-are-knowledge-graphs-and-how-are-they-used-in-semantic-search)
+  - [What are vector embeddings?](#what-are-vector-embeddings)
 - [**3. Enhancing Semantic Search**](#3-enhancing-semantic-search) (8 videos)
-  - What is semantic similarity?
-  - How is semantic similarity calculated?
-  - Weights, boosts, and blocks
-  - User and localization data
-  - Walking the graph
-  - Other factors for semantic similarity
-  - Search performance in semantic search
-  - Automated and human search relevancy assessment
+  - [What is semantic similarity?](#what-is-semantic-similarity)
+  - [How is semantic similarity calculated?](#how-is-semantic-similarity-calculated)
+  - [Weights, boosts, and blocks](#weights-boosts-and-blocks)
+  - [User and localization data](#user-and-localization-data)
+  - [Walking the graph](#walking-the-graph)
+  - [Other factors for semantic similarity](#other-factors-for-semantic-similarity)
+  - [Search performance in semantic search](#search-performance-in-semantic-search)
+  - [Automated and human search relevancy assessment](#automated-and-human-search-relevancy-assessment)
 - [**4. Optimizing Data and Entities for Semantic Search**](#4-optimizing-data-and-entities-for-semantic-search) (3 videos)
-  - Text and document quality
-  - Entity recognition and disambiguation
-  - Alternative search methods
+  - [Text and document quality](#text-and-document-quality)
+  - [Entity recognition and disambiguation](#entity-recognition-and-disambiguation)
+  - [Alternative search methods](#alternative-search-methods)
 - [**5. Mastering Semantic Search with AI, Human Feedback, and Key Data**](#5-mastering-semantic-search-with-ai-human-feedback-and-key-data) (3 videos)
-  - Where does search fit in an AI or data pipeline?
-  - How can AI use both vector and graph data for semantic search?
-  - How can key performance indicators (KPIs) be used in semantic search?
+  - [Where does search fit in an AI or data pipeline?](#where-does-search-fit-in-an-ai-or-data-pipeline)
+  - [How can AI use both vector and graph data for semantic search?](#how-can-ai-use-both-vector-and-graph-data-for-semantic-search)
+  - [How can key performance indicators (KPIs) be used in semantic search?](#how-can-key-performance-indicators-kpis-be-used-in-semantic-search)
 - [**6. Bridging Text and Graphs for Smarter Semantic Search**](#6-bridging-text-and-graphs-for-smarter-semantic-search) (5 videos)
-  - Loading our sample model and data into Stardog
-  - Building a graph query
-  - Query options
-  - Using graph data to ground an AI response
-  - Comparison GraphRAG grounding alone vs. RAG with semantic knowledge graphs
+  - [Loading our sample model and data into Stardog](#loading-our-sample-model-and-data-into-stardog)
+  - [Building a graph query](#building-a-graph-query)
+  - [Query options](#query-options)
+  - [Using graph data to ground an AI response](#using-graph-data-to-ground-an-ai-response)
+  - [Comparison GraphRAG grounding alone vs. RAG with semantic knowledge graphs](#comparison-graphrag-grounding-alone-vs-rag-with-semantic-knowledge-graphs)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing your learning journey
+  - [Continuing your learning journey](#continuing-your-learning-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of semantic search and information retrieval
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980)
@@ -117,7 +117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (3), ai (3), [[Knowledge Graphs]] (2), [[Search]] (1), power (1)
 > **Speakers:** - wouldn (1)
 
 #### What you need to know for the course
@@ -155,8 +155,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), [[Semantic Search]] (5), [[Elasticsearch]] (2), data (2), ai (2)
 > **CLI Commands:** make (2), apache (1)
-> **Code Keywords:** continue (1), finally, (1), let (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
@@ -164,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Selecting Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Use case: Two Trees Olive Oil
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980)
@@ -197,8 +197,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), data (3), [[Analytics]] (1), [[Information Retrieval]] (1), [[Semantic Search]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** we call this (1)
@@ -254,7 +254,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (5), let (2), for, (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** [[Search]] (16), ai (11), [[Semantic Search]] (4), business (3), database (1)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -302,8 +302,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), llm (5), data (3), ai (2), web (1)
 > **Env Vars:** llm (5)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -334,7 +334,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), while, (1), continue (1)
+> **Frameworks & Libraries:** [[Search]] (6), data (3), [[Semantic Search]] (2), [[Information Retrieval]] (2), [[Forms]] (1)
 > **Env Vars:** owl (1), rdf (1), tfidf (1), bert (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -343,7 +343,7 @@ created: 2026-04-29
 
 ### 2. Building Blocks of Semantic Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is information retrieval?
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980)
@@ -394,7 +394,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Information Retrieval]] (8), ai (7), [[Search]] (5), data (4), database (3)
 > **Env Vars:** rag (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -444,7 +444,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** [[Search]] (10), [[Semantic Search]] (2), [[Microsoft Word|Word]] (1), [[Knowledge Graphs]] (1), next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
@@ -503,8 +503,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Semantic Search]] (6), [[GraphRAG]] (4), [[Search]] (3), [[Knowledge Graphs]] (2)
 > **Env Vars:** uid (5), rdf (3)
-> **Code Keywords:** case, (3), let (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (1)
@@ -589,9 +589,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (3), [[Semantic Search]] (3), [[Search]] (1), next (1)
 > **Analogies:** imagine (3), for instance (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this, (1), let (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -599,7 +599,7 @@ created: 2026-04-29
 
 ### 3. Enhancing Semantic Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is semantic similarity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980)
@@ -652,8 +652,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), database (4), [[Search]] (4), [[Banking]] (3), business (3)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** let (2), continue (1)
 > **Env Vars:** llm (2)
 > **CLI Commands:** node (1)
 > **Definitions:** in other words (1)
@@ -692,8 +692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[Algorithms]] (2), [[Vector Databases]] (1), business (1), [[Metadata]] (1)
 > **CLI Commands:** find (1), node (1)
-> **Code Keywords:** match, (1), let (1)
 > **Env Vars:** tfidf (1), llm (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -741,9 +741,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (9), ai (4), [[Semantic Search]] (2), data (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), just like (1), such as (1)
 > **Warnings:** caution (2)
-> **Code Keywords:** this, (1)
 > **Speakers:** - [instructor] (1)
 
 #### User and localization data
@@ -773,9 +773,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Search]] (6), next (2), ai (1), [[Analytics]] (1)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** ttoo (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -819,8 +819,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Algorithms]] (2), [[Semantic Search]] (1), [[Knowledge Graphs]] (1), node (1)
 > **CLI Commands:** find (3), node (1), python (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** spacy (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -864,7 +864,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), case. (1), let (1)
+> **Frameworks & Libraries:** data (3), [[Search]] (2), ai (1), [[Analytics]] (1), [[Vector Databases]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -907,8 +907,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (10), ai (8), data (8), [[Security]] (4), database (2)
 > **CLI Commands:** make (7)
-> **Code Keywords:** case. (1), let (1)
 > **Analogies:** such as (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -965,7 +965,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), for, (1), throw (1)
+> **Frameworks & Libraries:** [[Search]] (18), ai (5), data (1), [[Statistics]] (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -976,7 +976,7 @@ created: 2026-04-29
 
 ### 4. Optimizing Data and Entities for Semantic Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Text and document quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980)
@@ -1007,9 +1007,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Search]] (3), ai (2), [[Semantic Search]] (2), [[JSON]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** xml (1), json (1), rdf (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** make sure to (1)
@@ -1045,7 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** from. (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (3), data (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1081,7 +1081,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (5), [[Semantic Search]] (3), [[Information Retrieval]] (1), database (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), just like (1)
 > **CLI Commands:** make (1)
@@ -1090,7 +1090,7 @@ created: 2026-04-29
 
 ### 5. Mastering Semantic Search with AI, Human Feedback, and Key Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where does search fit in an AI or data pipeline?
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980)
@@ -1141,9 +1141,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (18), ai (11), [[Search]] (6), database (4), etl (2)
 > **CLI Commands:** make (3), node (1)
 > **Env Vars:** etl (2), rag (1), uid (1)
-> **Code Keywords:** let (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1178,7 +1178,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match, (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (6), data (5), ai (2), application (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - [instructor] (1)
@@ -1226,7 +1226,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), let (1), continue (1)
+> **Frameworks & Libraries:** [[Search]] (8), ai (4), business (2), product (1), [[Analytics]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** kpi (1)
@@ -1236,7 +1236,7 @@ created: 2026-04-29
 
 ### 6. Bridging Text and Graphs for Smarter Semantic Search
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading our sample model and data into Stardog
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/loading-our-sample-model-and-data-into-stardog?u=76281980)
@@ -1263,8 +1263,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), database (2), [[Semantic Search]] (2), next (1), data (1)
 > **CLI Commands:** unzip (1), make (1)
-> **Code Keywords:** this, (1), let (1)
 > **Env Vars:** ttoov3 (2)
 > **Exercise Files:** zip file (1), exercise files (1)
 > **UI Navigation:** go to (1)
@@ -1474,7 +1474,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), for, (1), this. (1), for. (1)
+> **Frameworks & Libraries:** ai (10), business (6), database (2), data (2), product (1)
 > **CLI Commands:** make (6), find (2), node (1)
 > **Code Identifiers:** customerreview (2)
 > **UI Navigation:** go to (2)
@@ -1510,7 +1510,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** ai (13), [[Analytics]] (2), api (2), application (1), [[Search]] (1)
 > **Env Vars:** api (2), sparql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1615,7 +1615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), export. (1), for, (1)
+> **Frameworks & Libraries:** ai (13), product (12), data (3), database (2), prompt (2)
 > **Env Vars:** uid (2), llm (2), rag (1), rdf (1), json (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -1692,8 +1692,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), llm (4), data (4), [[GraphRAG]] (2), [[Search]] (1)
 > **Env Vars:** llm (4), ttoo (1), sme (1)
-> **Code Keywords:** let (4), case. (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1701,7 +1701,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980)
@@ -1726,9 +1726,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (2), [[LinkedIn]] (2), power (1), [[Semantic Search]] (1), data (1)
 > **Best Practices:** don't forget (1), make sure to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - so (1)
 

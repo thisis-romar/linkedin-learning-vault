@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20TensorFlow-%20Insights%20and%20Innovations.md)
@@ -53,34 +53,34 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Welcome to deep learning with TensorFlow
+  - [Welcome to deep learning with TensorFlow](#welcome-to-deep-learning-with-tensorflow)
 - [**1. Diving into Codespaces**](#1-diving-into-codespaces) (2 videos)
-  - Codespaces: Your ready-to-use workspace
-  - Setting up TensorFlow with Codespaces
+  - [Codespaces: Your ready-to-use workspace](#codespaces-your-ready-to-use-workspace)
+  - [Setting up TensorFlow with Codespaces](#setting-up-tensorflow-with-codespaces)
 - [**2. Understanding TensorFlow**](#2-understanding-tensorflow) (5 videos)
-  - TensorFlow essentials
-  - TensorFlow simplified for NumPy users
-  - Machine learning workflow
-  - Challenge: Normalizing tensors
-  - Solution: Step-by-step statistical analysis
+  - [TensorFlow essentials](#tensorflow-essentials)
+  - [TensorFlow simplified for NumPy users](#tensorflow-simplified-for-numpy-users)
+  - [Machine learning workflow](#machine-learning-workflow)
+  - [Challenge: Normalizing tensors](#challenge-normalizing-tensors)
+  - [Solution: Step-by-step statistical analysis](#solution-step-by-step-statistical-analysis)
 - [**3. Building Your First Model**](#3-building-your-first-model) (8 videos)
-  - Let's create a TensorFlow model
-  - Preprocessing and feeding data into your model
-  - Monitor training and validation
-  - Success metrics
-  - Save and reuse trained models
-  - Autoencoders: A gentle introduction to generative models
-  - Challenge: My first TensorFlow model
-  - Solution: Building blocks to TensorFlow mastery
+  - [Let's create a TensorFlow model](#lets-create-a-tensorflow-model)
+  - [Preprocessing and feeding data into your model](#preprocessing-and-feeding-data-into-your-model)
+  - [Monitor training and validation](#monitor-training-and-validation)
+  - [Success metrics](#success-metrics)
+  - [Save and reuse trained models](#save-and-reuse-trained-models)
+  - [Autoencoders: A gentle introduction to generative models](#autoencoders-a-gentle-introduction-to-generative-models)
+  - [Challenge: My first TensorFlow model](#challenge-my-first-tensorflow-model)
+  - [Solution: Building blocks to TensorFlow mastery](#solution-building-blocks-to-tensorflow-mastery)
 - [**4. Mastering TensorBoard**](#4-mastering-tensorboard) (2 videos)
-  - Visualizing success with TensorBoard
-  - Deep dives into training metrics
+  - [Visualizing success with TensorBoard](#visualizing-success-with-tensorboard)
+  - [Deep dives into training metrics](#deep-dives-into-training-metrics)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to deep learning with TensorFlow
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980)
@@ -99,14 +99,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (3), ai (2), data (2), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
-> **Code Keywords:** case, (1)
 > **Speakers:** - ready (1)
 
 
 ### 1. Diving into Codespaces
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Codespaces: Your ready-to-use workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980)
@@ -185,8 +185,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (3), cloud (2), functional (1), web (1)
 > **Tools:** visual studio (4), github (3), terminal (2)
-> **Code Keywords:** let (5), this. (1)
 > **File Paths:** begin.py (2), end.py (2)
 > **Prerequisites:** setup (3), you'll need (1)
 > **CLI Commands:** find (2)
@@ -237,10 +237,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[TensorFlow]] (5), [[GitHub]] (2), web (2), prompt (1)
 > **Tools:** github (2), terminal (1), visual studio (1), vs code (1)
 > **File Paths:** requirements.txt (4)
 > **Prerequisites:** setup (4)
-> **Code Keywords:** let (2)
 > **Env Vars:** uri (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [lecturer] (1)
@@ -248,7 +248,7 @@ created: 2026-04-29
 
 ### 2. Understanding TensorFlow
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### TensorFlow essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980)
@@ -369,9 +369,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (19), next (8), api (7), [[Deep Learning]] (5), [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** api (7), gpu (5), gps (1)
 > **Analogies:** it's like (4), think of it as (2), similar to (1), imagine (1)
-> **Code Keywords:** let (6), class, (1)
 > **CLI Commands:** python (4)
 > **Definitions:** in other words (1)
 > **Warnings:** keep in mind (1)
@@ -480,8 +480,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (9), data (4), next (3), api (2), [[Algorithms]] (1)
 > **Analogies:** for example (7), such as (4), similar to (1)
-> **Code Keywords:** case. (1), type, (1), function (1)
 > **Code Identifiers:** reduce_sum (1), reduce_max (1), assign_add (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
@@ -615,7 +615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), finally, (2), case, (2), interface (1)
+> **Frameworks & Libraries:** data (12), [[TensorFlow]] (5), next (2), [[Algorithms]] (2), business (1)
 > **Analogies:** picture (2), for example (2), think of it as (1), it's like (1), for instance (1)
 > **CLI Commands:** python (1), find (1)
 > **Code Identifiers:** cross_val_score (1)
@@ -712,7 +712,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case, (3), this. (1), this, (1), type, (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (5), data (2), [[Statistics]] (1), web (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (3)
 > **Analogies:** just like (1), imagine (1)
 > **CLI Commands:** python (1)
@@ -837,7 +837,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), continue (2), function (2), this. (1), yield (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (6), next (6), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2)
 > **Code Identifiers:** reduce_mean (2), reduce_std (2), normalized_tensor (1)
 > **Versions:** 9.0 (4)
 > **Tools:** terminal (4)
@@ -849,7 +849,7 @@ created: 2026-04-29
 
 ### 3. Building Your First Model
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Let's create a TensorFlow model
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980)
@@ -1024,7 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (6), finally, (1), continue (1)
+> **Frameworks & Libraries:** next (16), data (11), [[TensorFlow]] (4), [[Python (Programming Language)|Python]] (2), [[Fetch]] (2)
 > **CLI Commands:** find (2), python (2), make (1)
 > **Definitions:** is a  (3), in other words (1)
 > **Env Vars:** src (1), sgd (1), mse (1)
@@ -1430,7 +1430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (39), continue (2), function (2), this, (2), finally, (2)
+> **Frameworks & Libraries:** data (24), next (22), [[TensorFlow]] (6), [[Pandas (Software)|Pandas]] (6), feature (3)
 > **Code Identifiers:** housing_df (5), scaled_train_df (5), fetch_california_housing (3), test_train_split (2), feature_names (2)
 > **CLI Commands:** make (4), find (1), python (1)
 > **Analogies:** such as (1), it's like (1), imagine (1), similar to (1), just like (1)
@@ -1644,7 +1644,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (15), continue (1)
+> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (5), next (5), [[TensorFlow]] (2), [[Codespaces]] (2)
 > **CLI Commands:** python (5), make (4), find (3)
 > **Code Identifiers:** mse_test (4), fetch_california_housing (1), fit_transform (1), mean_squared_error (1), y_train (1)
 > **Env Vars:** plt (1), png (1), mse (1)
@@ -1849,7 +1849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), assert (4), continue (2), this. (1), case, (1)
+> **Frameworks & Libraries:** next (12), power (4), [[Python (Programming Language)|Python]] (3), [[TensorFlow]] (2), [[Codespaces]] (1)
 > **Code Identifiers:** loaded_model (4), x_test (3), load_model (2), reduce_all (2), loaded_test (1)
 > **CLI Commands:** python (3), find (2), make (2)
 > **Definitions:** is a  (3), in other words (2)
@@ -2117,7 +2117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (11), continue (1)
+> **Frameworks & Libraries:** data (39), next (15), [[Python (Programming Language)|Python]] (3), [[TensorFlow]] (2), feature (1)
 > **CLI Commands:** python (3), make (3), find (2)
 > **Code Identifiers:** fit_transform (1), validation_data (1), x_valid (1), plot_reconstruction (1), reconstructed_samples (1)
 > **Definitions:** in other words (2), is a  (2), is an  (1)
@@ -2161,8 +2161,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Deep Learning]] (2), [[TensorFlow]] (2), next (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (2), python (2)
-> **Code Keywords:** finally, (2)
 > **Env Vars:** src (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2438,7 +2438,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (17), function (10), continue (2), finally, (2)
+> **Frameworks & Libraries:** data (20), next (18), [[TensorFlow]] (3), [[Python (Programming Language)|Python]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (7), python (1), find (1)
 > **Code Identifiers:** fit_transform (2), input_shape (1), mean_squared_error (1), y_train (1), y_valid (1)
 > **File Paths:** 03_08_solution.py (2), 03_07_challenge.py (1)
@@ -2450,7 +2450,7 @@ created: 2026-04-29
 
 ### 4. Mastering TensorBoard
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing success with TensorBoard
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980)
@@ -2769,7 +2769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (24), function (12), this, (2), this. (2), continue (1)
+> **Frameworks & Libraries:** data (14), next (13), [[TensorFlow]] (5), [[Python (Programming Language)|Python]] (3), [[Codespaces]] (1)
 > **CLI Commands:** make (8), find (3), python (3)
 > **Code Identifiers:** x_train (2), plot_loss (2), log_dir (1), y_train (1), sms_test (1)
 > **UI Navigation:** click on (3), scroll up (1), navigate to (1)
@@ -3085,8 +3085,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (11), data (8), [[TensorFlow]] (2), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** tensorboard_callback (7), log_dir (3), histogram_freq (3), epoch_learning_rate (2), epoch_loss (2)
-> **Code Keywords:** let (18), finally, (3), function (1), delete (1), import, (1)
 > **CLI Commands:** make (6), find (3), python (1)
 > **UI Navigation:** click on (3), scroll up (1), scroll down (1), open the (1), select the (1)
 > **Prerequisites:** set up (3), setup (2), initialization (1)
@@ -3097,7 +3097,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980)
@@ -3128,7 +3128,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1)
+> **Frameworks & Libraries:** next (2), ai (2), data (1), [[TensorFlow]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [digifab.ai](https://digifab.ai) (1)
 > **Cross-References:** in the next (1)

@@ -25,7 +25,7 @@ tags:
   - topic/artificial-intelligence
   - topic/software-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20AI%20Agents%20and%20Chatbots%20with%20LangGraph.md)
@@ -44,51 +44,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Introduction to the course
-  - Setting up GitHub Codespaces
+  - [Introduction to the course](#introduction-to-the-course)
+  - [Setting up GitHub Codespaces](#setting-up-github-codespaces)
 - [**1. Concepts Review**](#1-concepts-review) (5 videos)
-  - AI chatbots: A review
-  - Agentic AI: A review
-  - Agentic chatbots
-  - State and memory in chatbots
-  - LangGraph for agentic AI
+  - [AI chatbots: A review](#ai-chatbots-a-review)
+  - [Agentic AI: A review](#agentic-ai-a-review)
+  - [Agentic chatbots](#agentic-chatbots)
+  - [State and memory in chatbots](#state-and-memory-in-chatbots)
+  - [LangGraph for agentic AI](#langgraph-for-agentic-ai)
 - [**2. Create a Basic ReAct Agent**](#2-create-a-basic-react-agent) (6 videos)
-  - What is ReAct?
-  - Basic ReAct agent design
-  - Adding function tools for ReAct agent
-  - Create a basic ReAct agent
-  - Execute the basic ReAct agent
-  - Debugging agents in Langchain
+  - [What is ReAct?](#what-is-react)
+  - [Basic ReAct agent design](#basic-react-agent-design)
+  - [Adding function tools for ReAct agent](#adding-function-tools-for-react-agent)
+  - [Create a basic ReAct agent](#create-a-basic-react-agent)
+  - [Execute the basic ReAct agent](#execute-the-basic-react-agent)
+  - [Debugging agents in Langchain](#debugging-agents-in-langchain)
 - [**3. Build a Product Q&A Chatbot**](#3-build-a-product-qa-chatbot) (5 videos)
-  - Product Q&A chatbot design
-  - Add a function tool to the product Q&A chatbot
-  - Add a retriever tool to the product Q&A chatbot
-  - Set up the product Q&A chatbot
-  - Execute the product Q&A chatbot
+  - [Product Q&A chatbot design](#product-qa-chatbot-design)
+  - [Add a function tool to the product Q&A chatbot](#add-a-function-tool-to-the-product-qa-chatbot)
+  - [Add a retriever tool to the product Q&A chatbot](#add-a-retriever-tool-to-the-product-qa-chatbot)
+  - [Set up the product Q&A chatbot](#set-up-the-product-qa-chatbot)
+  - [Execute the product Q&A chatbot](#execute-the-product-qa-chatbot)
 - [**4. Custom Agents and Chatbots with LangGraph**](#4-custom-agents-and-chatbots-with-langgraph) (5 videos)
-  - LangGraph concepts
-  - LangGraph orders agent and chatbot design
-  - Set up tools for the orders agent
-  - Set up the LangGraph orders agent
-  - Set up and execute the LangGraph chatbot
+  - [LangGraph concepts](#langgraph-concepts)
+  - [LangGraph orders agent and chatbot design](#langgraph-orders-agent-and-chatbot-design)
+  - [Set up tools for the orders agent](#set-up-tools-for-the-orders-agent)
+  - [Set up the LangGraph orders agent](#set-up-the-langgraph-orders-agent)
+  - [Set up and execute the LangGraph chatbot](#set-up-and-execute-the-langgraph-chatbot)
 - [**5. Reflection-Based LangGraph Agents**](#5-reflection-based-langgraph-agents) (5 videos)
-  - Reflection-based summary agent: Design
-  - Engineer prompts for reflection
-  - Set up the summarize-and-review agent with LangGraph
-  - Set up the summarize-and-review chatbot with LangGraph
-  - Execute the summarize-and-review chatbot
+  - [Reflection-based summary agent: Design](#reflection-based-summary-agent-design)
+  - [Engineer prompts for reflection](#engineer-prompts-for-reflection)
+  - [Set up the summarize-and-review agent with LangGraph](#set-up-the-summarize-and-review-agent-with-langgraph)
+  - [Set up the summarize-and-review chatbot with LangGraph](#set-up-the-summarize-and-review-chatbot-with-langgraph)
+  - [Execute the summarize-and-review chatbot](#execute-the-summarize-and-review-chatbot)
 - [**6. Multi-agent Systems with LangGraph**](#6-multi-agent-systems-with-langgraph) (5 videos)
-  - Multi-agent systems
-  - Routing agent design in LangGraph
-  - Using agents as LangGraph nodes
-  - Set up the routing agent and chatbot in LangGraph
-  - Execute the routing chatbot in LangGraph
+  - [Multi-agent systems](#multi-agent-systems)
+  - [Routing agent design in LangGraph](#routing-agent-design-in-langgraph)
+  - [Using agents as LangGraph nodes](#using-agents-as-langgraph-nodes)
+  - [Set up the routing agent and chatbot in LangGraph](#set-up-the-routing-agent-and-chatbot-in-langgraph)
+  - [Execute the routing chatbot in LangGraph](#execute-the-routing-chatbot-in-langgraph)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/introduction-to-the-course-25231480?u=76281980)
@@ -111,7 +111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** power (1), business (1)
 > **Speakers:** - aa (1)
 
 #### Setting up GitHub Codespaces
@@ -141,6 +141,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), ai (1), [[Codespaces]] (1), hit (1), [[React.js|React]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** ide (2)
 > **UI Navigation:** go to (1), open the (1)
@@ -151,7 +152,7 @@ created: 2026-04-29
 
 ### 1. Concepts Review
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI chatbots: A review
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980)
@@ -208,7 +209,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Conversational AI]] (5), ai (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Customer Support]] (1), [[E-Commerce]] (1)
 > **Speakers:** - this (1)
 
 #### Agentic AI: A review
@@ -242,8 +243,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), [[Generative AI]] (1), [[Routing]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -296,7 +297,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), module (1), interface (1)
+> **Frameworks & Libraries:** chatbot (9), ai (3), power (1), [[Decision-Making]] (1), application (1)
 > **Speakers:** - [instructor] (1)
 
 #### State and memory in chatbots
@@ -384,7 +385,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case. (4)
+> **Frameworks & Libraries:** prompt (14), chatbot (12), llm (2), data (2), next (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** later in (1)
 > **UI Navigation:** open the (1)
@@ -447,7 +448,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (1), pass (1)
+> **Frameworks & Libraries:** [[LangChain]] (6), [[Generative AI]] (1), [[Orchestration]] (1), power (1), prompt (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** node (1)
 > **Cross-References:** later in (1)
@@ -458,7 +459,7 @@ created: 2026-04-29
 
 ### 2. Create a Basic ReAct Agent
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ReAct?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980)
@@ -517,8 +518,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (7), [[React.js|React]] (6), next (3), prompt (2), chatbot (1)
 > **Env Vars:** llm (7)
-> **Code Keywords:** let (2)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -560,7 +561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), product (1), llm (1), chatbot (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** find_sum (1), find_product (1)
 > **Env Vars:** llm (1)
@@ -605,7 +606,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[LangChain]] (1), llm (1), product (1), next (1)
 > **Prerequisites:** set up (3)
 > **Code Identifiers:** find_sum (1), find_product (1)
 > **Env Vars:** llm (1)
@@ -671,9 +672,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), llm (3), [[React.js|React]] (2), [[LangChain]] (2), next (2)
 > **Code Identifiers:** create_react_agent (2), system_prompt (2), agent_tools (1), find_sum (1), find_product (1)
 > **Env Vars:** apa (3), llm (3), gpt (1)
-> **Code Keywords:** function (2), pass (2), let (1)
 > **Prerequisites:** set up (4)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
@@ -756,7 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2)
+> **Frameworks & Libraries:** llm (5), next (3), ai (2), prompt (2)
 > **Env Vars:** llm (5)
 > **Code Identifiers:** agent_graph (2), find_sum (1)
 > **Cross-References:** previous video (1)
@@ -801,7 +802,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), function (1)
+> **Frameworks & Libraries:** prompt (2), next (2), llm (2), application (1), [[Troubleshooting]] (1)
 > **Code Identifiers:** agent_graph (1), find_sum (1)
 > **Env Vars:** llm (2)
 > **Definitions:** is a  (1)
@@ -811,7 +812,7 @@ created: 2026-04-29
 
 ### 3. Build a Product Q&A Chatbot
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Product Q&A chatbot design
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980)
@@ -858,8 +859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** chatbot (8), database (3), [[Microsoft Products|Products]] (1), [[Pandas (Software)|Pandas]] (1), data (1)
 > **Env Vars:** rdbms (2), pdf (2), pandas (1), api (1)
-> **Code Keywords:** let (2), case, (1), self (1), function (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
@@ -908,7 +909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2)
+> **Frameworks & Libraries:** product (2), data (2), [[Pandas (Software)|Pandas]] (2), next (2), chatbot (1)
 > **Env Vars:** llm (1), rdbms (1)
 > **Prerequisites:** set up (2)
 > **File Paths:** pricing.csv (1)
@@ -952,8 +953,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (5), [[ChromaDB|Chroma]] (4), product (2), next (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** sqlite3 (1), make (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Env Vars:** pdf (1), llm (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -1016,7 +1017,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), continue (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), product (2), next (2), prompt (1)
 > **Code Identifiers:** pretty_print (1), get_laptop_price (1)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1098,7 +1099,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), finally, (1), this, (1), function (1)
+> **Frameworks & Libraries:** chatbot (13), next (4), prompt (3), product (1), [[React.js|React]] (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** qna (1)
@@ -1108,7 +1109,7 @@ created: 2026-04-29
 
 ### 4. Custom Agents and Chatbots with LangGraph
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### LangGraph concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-concepts-25230460?u=76281980)
@@ -1181,8 +1182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (12), data (3), llm (2), next (2), chatbot (1)
 > **CLI Commands:** node (12)
-> **Code Keywords:** let (2), pass (1), finally, (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1275,7 +1276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (3), type. (1), interface (1), case, (1)
+> **Frameworks & Libraries:** llm (10), chatbot (5), next (5), node (5), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** llm (10), rdbms (1), ord (1)
 > **CLI Commands:** node (5)
 > **Code Identifiers:** get_order_details (1), update_quantity (1)
@@ -1325,10 +1326,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (2), [[Microsoft Azure|Azure]] (1), database (1), data (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** llm (2), gpt (1)
 > **Prerequisites:** set up (2), setup (1)
 > **File Paths:** orders.csv (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Set up the LangGraph orders agent
@@ -1480,8 +1481,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (11), llm (7), next (4), prompt (2), ai (1)
 > **Code Identifiers:** orders_llm (5), system_prompt (4), tool_calls (4), call_llm (2), orders_tools (2)
-> **Code Keywords:** function (5), let (3), class. (2), class, (1), pass (1)
 > **CLI Commands:** node (11)
 > **Env Vars:** llm (7), end (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
@@ -1530,8 +1531,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (1)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** let (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
@@ -1540,7 +1541,7 @@ created: 2026-04-29
 
 ### 5. Reflection-Based LangGraph Agents
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Reflection-based summary agent: Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/reflection-based-summary-agent-design-25231481?u=76281980)
@@ -1603,8 +1604,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (6), llm (5), chatbot (4)
 > **CLI Commands:** node (6)
-> **Code Keywords:** return. (1), continue (1), else, (1), pass (1), let (1)
 > **Env Vars:** llm (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1646,9 +1647,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (3), next (2), llm (2), chatbot (1)
 > **Prerequisites:** set up (4)
 > **Env Vars:** llm (2), gpt (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1720,7 +1721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), function (1), else, (1), class. (1)
+> **Frameworks & Libraries:** prompt (4), llm (4), node (2), next (2)
 > **Code Identifiers:** should_continue (2), generate_summary (2), review_summary (1)
 > **Prerequisites:** set up (4), setup (1)
 > **Env Vars:** llm (4)
@@ -1756,8 +1757,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** chatbot (2), data (1), next (1)
 > **Prerequisites:** set up (2), setup (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** pdf (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1816,7 +1817,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
 > **Analogies:** for example (2)
 > **Env Vars:** pdf (1)
 > **Documentation:** specification (1)
@@ -1827,7 +1827,7 @@ created: 2026-04-29
 
 ### 6. Multi-agent Systems with LangGraph
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Multi-agent systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/multi-agent-systems-25228455?u=76281980)
@@ -1870,7 +1870,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1)
+> **Frameworks & Libraries:** [[Automation]] (1), [[Routing]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Routing agent design in LangGraph
@@ -1932,8 +1932,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (9), node (6), chatbot (4), product (4), llm (2)
 > **CLI Commands:** node (6)
-> **Code Keywords:** let (2)
 > **Env Vars:** llm (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1991,7 +1991,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (2), class, (1), this, (1), pass (1)
+> **Frameworks & Libraries:** node (5), [[Routing]] (3), product (1), llm (1), application (1)
 > **CLI Commands:** node (5), python (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** llm (1)
@@ -2079,11 +2079,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** node (9), prompt (7), [[Routing]] (6), llm (6), product (2)
 > **CLI Commands:** node (9)
 > **Code Identifiers:** call_llm (2), respond_smalltalk (2), find_route (2), router_agent (1)
 > **Env Vars:** llm (6), end (1)
 > **Prerequisites:** set up (3), setup (2)
-> **Code Keywords:** class. (1), class, (1), let (1), return, (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2147,7 +2147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), finally, (2), case, (1)
+> **Frameworks & Libraries:** product (5), next (2), prompt (2), ai (1), llm (1)
 > **Env Vars:** qna (4), llm (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -2155,7 +2155,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/next-steps-25228453?u=76281980)
@@ -2182,8 +2182,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[LlamaIndex]] (1), next (1), rag (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - we (1)
 

@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/quantum-gis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20QGIS.md)
@@ -47,63 +47,63 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Exploring the powerful world of QGIS
+  - [Exploring the powerful world of QGIS](#exploring-the-powerful-world-of-qgis)
 - [**1. Understanding and Installing QGIS**](#1-understanding-and-installing-qgis) (4 videos)
-  - Installing QGIS
-  - Understanding the types of QGIS installs
-  - Overview of QGIS features, part 1
-  - Overview of QGIS features, part 2
+  - [Installing QGIS](#installing-qgis)
+  - [Understanding the types of QGIS installs](#understanding-the-types-of-qgis-installs)
+  - [Overview of QGIS features, part 1](#overview-of-qgis-features-part-1)
+  - [Overview of QGIS features, part 2](#overview-of-qgis-features-part-2)
 - [**2. Vector Data with QGIS**](#2-vector-data-with-qgis) (3 videos)
-  - Types of vector data in QGIS
-  - Add shapefiles to QGIS
-  - Add WFS data to QGIS
+  - [Types of vector data in QGIS](#types-of-vector-data-in-qgis)
+  - [Add shapefiles to QGIS](#add-shapefiles-to-qgis)
+  - [Add WFS data to QGIS](#add-wfs-data-to-qgis)
 - [**3. Raster Data with QGIS**](#3-raster-data-with-qgis) (5 videos)
-  - Types of raster data in QGIS
-  - Add ECW data
-  - Add WMS data
-  - Add DEM data
-  - Creating contour lines from DEM
+  - [Types of raster data in QGIS](#types-of-raster-data-in-qgis)
+  - [Add ECW data](#add-ecw-data)
+  - [Add WMS data](#add-wms-data)
+  - [Add DEM data](#add-dem-data)
+  - [Creating contour lines from DEM](#creating-contour-lines-from-dem)
 - [**4. 3D Maps**](#4-3d-maps) (3 videos)
-  - Creating 3D maps
-  - 3D configuration and elevation
-  - 3D animations
+  - [Creating 3D maps](#creating-3d-maps)
+  - [3D configuration and elevation](#3d-configuration-and-elevation)
+  - [3D animations](#3d-animations)
 - [**5. Styling Data**](#5-styling-data) (6 videos)
-  - Point layers
-  - Polyline layers
-  - Polygon layers
-  - Thematic layers, part 1
-  - Thematic layers, part 2
-  - DEM layers
+  - [Point layers](#point-layers)
+  - [Polyline layers](#polyline-layers)
+  - [Polygon layers](#polygon-layers)
+  - [Thematic layers, part 1](#thematic-layers-part-1)
+  - [Thematic layers, part 2](#thematic-layers-part-2)
+  - [DEM layers](#dem-layers)
 - [**6. Labeling Features**](#6-labeling-features) (2 videos)
-  - Label vector data, part 1
-  - Label vector data, part 2
+  - [Label vector data, part 1](#label-vector-data-part-1)
+  - [Label vector data, part 2](#label-vector-data-part-2)
 - [**7. Changing Default Properties**](#7-changing-default-properties) (2 videos)
-  - Project properties, part 1
-  - Project properties, part 2
+  - [Project properties, part 1](#project-properties-part-1)
+  - [Project properties, part 2](#project-properties-part-2)
 - [**8. Printing with Print Layout**](#8-printing-with-print-layout) (2 videos)
-  - Adding maps
-  - Adding elements
+  - [Adding maps](#adding-maps)
+  - [Adding elements](#adding-elements)
 - [**9. Creating New Data**](#9-creating-new-data) (4 videos)
-  - Creating new vector vata
-  - Exporting layers to shapefiles
-  - Adding data from Excel (CSV)
-  - Editing existing data
+  - [Creating new vector vata](#creating-new-vector-vata)
+  - [Exporting layers to shapefiles](#exporting-layers-to-shapefiles)
+  - [Adding data from Excel (CSV)](#adding-data-from-excel-csv)
+  - [Editing existing data](#editing-existing-data)
 - [**10. Using Advanced Tools**](#10-using-advanced-tools) (3 videos)
-  - Overlay two vector layers
-  - Create a heatmap from points
-  - Create centroids from polygons
+  - [Overlay two vector layers](#overlay-two-vector-layers)
+  - [Create a heatmap from points](#create-a-heatmap-from-points)
+  - [Create centroids from polygons](#create-centroids-from-polygons)
 - [**11. Using Plugins**](#11-using-plugins) (2 videos)
-  - Adding and using Street View plugin
-  - Adding and using qgis2web plugin
+  - [Adding and using Street View plugin](#adding-and-using-street-view-plugin)
+  - [Adding and using qgis2web plugin](#adding-and-using-qgis2web-plugin)
 - [**12. Python in QGIS**](#12-python-in-qgis) (2 videos)
-  - Using the Python Console
-  - Create a Python script
+  - [Using the Python Console](#using-the-python-console)
+  - [Create a Python script](#create-a-python-script)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the powerful world of QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/exploring-the-powerful-world-of-qgis?u=76281980)
@@ -124,6 +124,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (5), [[LinkedIn]] (1)
 > **Env Vars:** gis (5), qgis (2), cad (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -131,7 +132,7 @@ created: 2026-04-29
 
 ### 1. Understanding and Installing QGIS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980)
@@ -192,11 +193,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Windows]] (1), [[Linux]] (1), hit (1), next (1)
 > **Env Vars:** qgis (12), gis (1)
 > **Prerequisites:** install (10), set up (1)
 > **Versions:** 3.8 (4), version 3 (2), 3.8.3 (1)
 > **UI Navigation:** go to (2), click on (2), scroll down (1)
-> **Code Keywords:** case, (3), let (1)
 > **Code Identifiers:** macos (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -256,9 +257,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Android]] (4), [[Windows]] (3), [[Linux]] (2), [[Ubuntu]] (1), product (1)
 > **Env Vars:** qgis (8), bsd (2), saga (1), grass (1), ogr (1)
 > **Prerequisites:** install (8)
-> **Code Keywords:** this, (2), case, (1), require (1), while, (1)
 > **Versions:** 3.8.3 (1), version 3 (1), 3.4 (1)
 > **Analogies:** such as (2)
 > **Code Identifiers:** iphone (1)
@@ -390,8 +391,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Metadata]] (3), database (2), product (1), [[Zoom]] (1)
 > **Env Vars:** qgis (8), prj (4), wms (4), mssql (2), url (2)
-> **Code Keywords:** let (3), case, (1), type, (1), public (1)
 > **Analogies:** such as (3), for example (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** exercise files (3)
@@ -530,7 +531,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), delete (2), override (1), case, (1), this, (1)
+> **Frameworks & Libraries:** data (7), hit (7), [[Zoom]] (6), node (1), prompt (1)
 > **Env Vars:** utm (3), epsg (2), raster (2), pdf (2), qgis (2)
 > **UI Navigation:** toggle (5), drag and drop (2), click on (2)
 > **CLI Commands:** make (5), find (1), node (1)
@@ -542,7 +543,7 @@ created: 2026-04-29
 
 ### 2. Vector Data with QGIS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of vector data in QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980)
@@ -595,8 +596,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (17), [[JSON]] (9), database (7), [[SQL]] (5), [[Databases]] (2)
 > **Env Vars:** json (9), sql (6), qgis (4), kml (3), url (2)
-> **Code Keywords:** type, (2), finally, (1), case, (1), let (1)
 > **UI Navigation:** go to (3), drag and drop (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is an  (1)
@@ -755,8 +756,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), gis (1), product (1), [[Microsoft Products|Products]] (1), next (1)
 > **Env Vars:** qgis (5), utm (2), gis (1), shx (1), dbf (1)
-> **Code Keywords:** let (3), case, (1), delete (1), else. (1)
 > **Analogies:** for example (4), such as (1)
 > **UI Navigation:** drag and drop (3)
 > **Exercise Files:** exercise files (3)
@@ -845,9 +846,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Zoom]] (4), [[Search]] (2), hit (2), web (1)
 > **Env Vars:** wfs (11), url (3), qgis (3), wms (2), xyz (1)
 > **UI Navigation:** click on (3), drag and drop (2), go to (2)
-> **Code Keywords:** let (3), interface (1), case, (1)
 > **URLs:** [hawaii.gov](https://hawaii.gov) (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
@@ -857,7 +858,7 @@ created: 2026-04-29
 
 ### 3. Raster Data with QGIS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of raster data in QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980)
@@ -936,10 +937,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[AutoCAD]] (3), [[Wavelets]] (1)
 > **Env Vars:** ecw (3), qgis (2), arc (2), dem (2), asci (1)
 > **Code Identifiers:** autocad (3)
 > **Analogies:** for example (2)
-> **Code Keywords:** from. (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1086,8 +1087,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (8), [[Zoom]] (1), [[Search]] (1)
 > **Env Vars:** epsg (9), ecw (8), utm (5), tif (4), jpeg (3)
-> **Code Keywords:** let (10), else. (1), delete (1), switch (1)
 > **UI Navigation:** drag and drop (2), go to (2), right-click (1), click on (1)
 > **Analogies:** such as (3)
 > **Exercise Files:** exercise files (1), download the (1)
@@ -1186,8 +1187,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), web (2), [[Zoom]] (2), power (1)
 > **Env Vars:** wms (6), qgis (4), url (4), png (1), jpeg (1)
-> **Code Keywords:** let (5), pass (1), this. (1), else. (1)
 > **Definitions:** is a  (2), stands for (1)
 > **UI Navigation:** drag and drop (2)
 > **Analogies:** such as (1), for example (1)
@@ -1304,8 +1305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), product (1), [[Microsoft Products|Products]] (1), data (1)
 > **Env Vars:** dem (15), las (1)
-> **Code Keywords:** let (3), this. (1), case. (1)
 > **Code Identifiers:** lidar (3)
 > **UI Navigation:** drag and drop (1), double-click (1)
 > **Definitions:** is an  (1)
@@ -1466,8 +1467,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (9), data (3), management (1), [[Zoom]] (1), [[JSON]] (1)
 > **Env Vars:** dem (4), qgis (3), shp (1), epsg (1), kml (1)
-> **Code Keywords:** let (4), case, (3), type. (1), default. (1), this. (1)
 > **Code Identifiers:** contours_west (2), gdal_contour (2), contours_east (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** drag and drop (1), go to (1)
@@ -1478,7 +1479,7 @@ created: 2026-04-29
 
 ### 4. 3D Maps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating 3D maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/creating-3d-maps?u=76281980)
@@ -1607,9 +1608,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Zoom]] (4), data (4)
 > **CLI Commands:** make (7)
 > **UI Navigation:** click on (5), drag and drop (1), toggle (1)
-> **Code Keywords:** let (5), override (1)
 > **Env Vars:** qgis (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
@@ -1829,8 +1830,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), data (4), [[Zoom]] (3), web (1)
 > **Env Vars:** dem (9), road_centerlines (6), bike_routes (5), buildings (4), raster (1)
-> **Code Keywords:** let (10), case, (2), finally, (1), default, (1), this. (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** right-click (1), go to (1), in the menu (1), in the toolbar (1)
 > **Cross-References:** coming up (1)
@@ -1931,7 +1932,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), export. (1), continue (1), delete (1), type. (1)
+> **Frameworks & Libraries:** hit (9), [[Zoom]] (5), product (1), open-source (1)
 > **Env Vars:** qgis (4), jpg (2), avi (2), mpeg (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (3), click on (1)
@@ -1942,7 +1943,7 @@ created: 2026-04-29
 
 ### 5. Styling Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Point layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/point-layers?u=76281980)
@@ -2105,7 +2106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), public (7), type, (3), private (2), case, (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), hit (4), next (1)
 > **UI Navigation:** click on (5), select the (2), drag and drop (1), go to (1), dropdown (1)
 > **Env Vars:** svg (5), qgis (2), epsg (1), utm (1)
 > **CLI Commands:** make (4)
@@ -2277,7 +2278,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default, (1), case, (1), switch (1), continue (1), type. (1)
+> **Frameworks & Libraries:** hit (11), [[Zoom]] (5)
 > **UI Navigation:** click on (5), toggle (1)
 > **CLI Commands:** make (5)
 > **Versions:** 0.8 (3)
@@ -2440,8 +2441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), [[Zoom]] (1), data (1)
 > **CLI Commands:** make (11)
-> **Code Keywords:** let (10)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **Env Vars:** ecw (1), utm (1)
 > **Speakers:** - polygon (1)
@@ -2569,7 +2570,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type. (5), type, (2), default, (1)
+> **Frameworks & Libraries:** hit (4), data (1), next (1)
 > **Env Vars:** pipes (11), qgis (2)
 > **UI Navigation:** click on (5), drag and drop (1), toggle (1)
 > **CLI Commands:** make (3)
@@ -2669,7 +2670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type. (3), case, (1), type, (1)
+> **Frameworks & Libraries:** hit (5), data (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** qgis (1)
 > **UI Navigation:** double-click (1)
@@ -2826,7 +2827,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), else, (1), case, (1), switch (1)
+> **Frameworks & Libraries:** hit (8), [[HTML]] (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** qgis (1), cpt (1)
@@ -2838,7 +2839,7 @@ created: 2026-04-29
 
 ### 6. Labeling Features
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Label vector data, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-1?u=76281980)
@@ -2969,7 +2970,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (18), from. (1), else, (1), case, (1)
+> **Frameworks & Libraries:** hit (12), parallel (2), feature (1)
 > **CLI Commands:** make (13), find (1)
 > **Env Vars:** utm (2), epsg (1), nad83 (1), housenumbe (1)
 > **UI Navigation:** go to (2), drag and drop (2), double-click (1)
@@ -3110,7 +3111,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), else. (2), case. (1), return, (1)
+> **Frameworks & Libraries:** hit (9), [[Zoom]] (7), next (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (1), double-click (1), click on (1)
 > **Analogies:** such as (2)
@@ -3121,7 +3122,7 @@ created: 2026-04-29
 
 ### 7. Changing Default Properties
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project properties, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980)
@@ -3236,7 +3237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), interface (1), case, (1), else, (1), default. (1)
+> **Frameworks & Libraries:** hit (6), data (3), [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** qgis (4), utm (3), cad (2), grs (1), epsg (1)
 > **CLI Commands:** make (10), find (1)
 > **Cross-References:** go back to (2)
@@ -3360,9 +3361,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), next (2), [[Python (Programming Language)|Python]] (2), hit (1), database (1)
 > **Env Vars:** qgis (13), nimo (1)
 > **CLI Commands:** make (5), python (2), find (1)
-> **Code Keywords:** let (2), default. (2), else. (1), this. (1), for. (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (1), install (1), configure (1)
 > **Analogies:** for example (2)
@@ -3372,7 +3373,7 @@ created: 2026-04-29
 
 ### 8. Printing with Print Layout
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-maps?u=76281980)
@@ -3461,8 +3462,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** go to (3), click on (2), open the (1)
-> **Code Keywords:** this, (3), let (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (3)
 > **Prerequisites:** set up (1), setup (1)
@@ -3644,7 +3645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), default, (3)
+> **Frameworks & Libraries:** data (5), [[HTML]] (3), [[Zoom]] (2), next (2)
 > **CLI Commands:** make (7), find (1)
 > **Analogies:** such as (1), just like (1), picture (1)
 > **Env Vars:** html (1)
@@ -3655,7 +3656,7 @@ created: 2026-04-29
 
 ### 9. Creating New Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating new vector vata
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/creating-new-vector-vata?u=76281980)
@@ -3756,7 +3757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), type, (3), finally, (3), continue (1), case, (1)
+> **Frameworks & Libraries:** data (9), next (3), hit (3), feature (2), power (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** toggle (2), right-click (2), dropdown (1), go to (1)
 > **Env Vars:** qgis (2), id1 (1)
@@ -3860,7 +3861,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (2), delete (1), this. (1), export, (1)
+> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (3), [[Microsoft SQL Server|Sql server]] (2), database (2), hit (2)
 > **Env Vars:** sql (2), qgis (1), gis (1), bna (1), json (1)
 > **UI Navigation:** go to (2), right-click (2), double-click (1)
 > **CLI Commands:** make (2)
@@ -3955,8 +3956,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (4), gis (3), hit (2), next (1)
 > **Env Vars:** csv (6), gis (3), qgis (3), gps (2), xyz (1)
-> **Code Keywords:** let (4), type. (1), else. (1)
 > **File Paths:** incidents.csv (2)
 > **UI Navigation:** click on (1), open the (1)
 > **Ports:** :4326 (1)
@@ -4132,7 +4133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), type, (7), delete (2), this, (1), type. (1)
+> **Frameworks & Libraries:** data (8), hit (4), gis (2), [[Vertex]] (2), feature (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gis (2), qgis (2)
 > **UI Navigation:** toggle (2), scroll down (1), checkbox (1)
@@ -4142,7 +4143,7 @@ created: 2026-04-29
 
 ### 10. Using Advanced Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overlay two vector layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/overlay-two-vector-layers?u=76281980)
@@ -4235,7 +4236,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1)
+> **Frameworks & Libraries:** data (5), management (2), feature (2)
 > **Code Identifiers:** parcel_zoning (1)
 > **Env Vars:** qgis (1)
 > **Analogies:** such as (1)
@@ -4358,7 +4359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (4), this. (1), export, (1)
+> **Frameworks & Libraries:** hit (6), [[Zoom]] (5), data (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** csv (2), qgis (2), gqis (1), epsg (1), utm (1)
 > **UI Navigation:** click on (1), double-click (1), go to (1), right-click (1)
@@ -4504,7 +4505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (2)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Vertex]] (2), data (2), hit (1)
 > **UI Navigation:** toggle (3), drag and drop (1), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** prc1 (1), gid (1), qgis (1)
@@ -4514,7 +4515,7 @@ created: 2026-04-29
 
 ### 11. Using Plugins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding and using Street View plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980)
@@ -4585,8 +4586,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (12), api (4), [[Python (Programming Language)|Python]] (3), product (2), [[Zoom]] (2)
 > **Env Vars:** qgis (6), api (4)
-> **Code Keywords:** let (4), require (3), this. (1)
 > **CLI Commands:** python (3), find (1), make (1)
 > **Prerequisites:** install (4)
 > **Cross-References:** go back to (2)
@@ -4723,7 +4724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), static (1), export, (1), default. (1), this. (1)
+> **Frameworks & Libraries:** data (10), web (6), [[JSON]] (4), [[Search]] (3), [[HTML]] (2)
 > **Env Vars:** json (4), parcels (2), html (2), java (1), css (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** drag and drop (1), click on (1), go to (1)
@@ -4733,7 +4734,7 @@ created: 2026-04-29
 
 ### 12. Python in QGIS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Python Console
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/using-the-python-console?u=76281980)
@@ -4792,9 +4793,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), api (5), hit (3), data (2)
 > **CLI Commands:** python (14)
 > **Env Vars:** qgis (5), api (4)
-> **Code Keywords:** let (3), interface (2), this, (2), from, (1)
 > **UI Navigation:** toggle (1), in the toolbar (1), go to (1)
 > **URLs:** [qgis.org](https://qgis.org) (2)
 > **Tools:** command line (2)
@@ -4920,9 +4921,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (2), [[Scripting]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** csv (5), qgis (4), utf (2), intersection_export (2), utm (1)
 > **CLI Commands:** python (8), find (1)
-> **Code Keywords:** let (3), export, (1), case, (1), delete (1), finally, (1)
 > **File Paths:** intersection_export.py (2), wkt.csv (1)
 > **Code Identifiers:** layerlist (2)
 > **Cross-References:** go back to (1)
@@ -4932,7 +4933,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980)
@@ -4951,6 +4952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), gis (1), [[Search]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** qgis (3), gis (1), api (1)
 > **CLI Commands:** python (1)
 > **URLs:** [qgis.org](https://qgis.org) (1)

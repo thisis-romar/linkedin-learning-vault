@@ -32,7 +32,7 @@ tags:
   - skill/hugging-face-products
   - skill/applied-machine-learning
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Applied%20AI-%20Building%20NLP%20Apps%20with%20Hugging%20Face%20Transformers.md)
@@ -51,46 +51,46 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Building NLP apps with Transformers
-  - Course coverage and prerequisites
-  - Setting up the exercise files
+  - [Building NLP apps with Transformers](#building-nlp-apps-with-transformers)
+  - [Course coverage and prerequisites](#course-coverage-and-prerequisites)
+  - [Setting up the exercise files](#setting-up-the-exercise-files)
 - [**1. Question-Answering (Qu-An)**](#1-question-answering-qu-an) (5 videos)
-  - Question-answering in NLP
-  - Types of question-answering
-  - Building a Qu-An pipeline
-  - The SQuAD metric
-  - Evaluating Qu-An performance
+  - [Question-answering in NLP](#question-answering-in-nlp)
+  - [Types of question-answering](#types-of-question-answering)
+  - [Building a Qu-An pipeline](#building-a-qu-an-pipeline)
+  - [The SQuAD metric](#the-squad-metric)
+  - [Evaluating Qu-An performance](#evaluating-qu-an-performance)
 - [**2. Text Summarization**](#2-text-summarization) (5 videos)
-  - Text summarization in NLP
-  - The BART model architecture
-  - Summarization with pipelines
-  - The ROUGE score
-  - Evaluating with ROUGE
+  - [Text summarization in NLP](#text-summarization-in-nlp)
+  - [The BART model architecture](#the-bart-model-architecture)
+  - [Summarization with pipelines](#summarization-with-pipelines)
+  - [The ROUGE score](#the-rouge-score)
+  - [Evaluating with ROUGE](#evaluating-with-rouge)
 - [**3. Natural Language Generation**](#3-natural-language-generation) (6 videos)
-  - Natural language generation in NLP
-  - Content creation with Transformers
-  - Conversation generation
-  - Chatbot conversation example
-  - Machine translation in NLP
-  - Translating with Hugging Face Transformers
+  - [Natural language generation in NLP](#natural-language-generation-in-nlp)
+  - [Content creation with Transformers](#content-creation-with-transformers)
+  - [Conversation generation](#conversation-generation)
+  - [Chatbot conversation example](#chatbot-conversation-example)
+  - [Machine translation in NLP](#machine-translation-in-nlp)
+  - [Translating with Hugging Face Transformers](#translating-with-hugging-face-transformers)
 - [**4. Customizing Models with Transfer Learning**](#4-customizing-models-with-transfer-learning) (6 videos)
-  - Training a custom model
-  - Loading a Hugging Face dataset
-  - Encoding and preprocessing the dataset
-  - Customizing the model architecture
-  - Training the sentiment model
-  - Predicting with the custom model
+  - [Training a custom model](#training-a-custom-model)
+  - [Loading a Hugging Face dataset](#loading-a-hugging-face-dataset)
+  - [Encoding and preprocessing the dataset](#encoding-and-preprocessing-the-dataset)
+  - [Customizing the model architecture](#customizing-the-model-architecture)
+  - [Training the sentiment model](#training-the-sentiment-model)
+  - [Predicting with the custom model](#predicting-with-the-custom-model)
 - [**5. Deploying and Using Hugging Face Models**](#5-deploying-and-using-hugging-face-models) (4 videos)
-  - Inference challenges with Transformers
-  - Customizing pretrained models
-  - Model compression overview
-  - Serving multiple models
+  - [Inference challenges with Transformers](#inference-challenges-with-transformers)
+  - [Customizing pretrained models](#customizing-pretrained-models)
+  - [Model compression overview](#model-compression-overview)
+  - [Serving multiple models](#serving-multiple-models)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuing with Hugging Face
+  - [Continuing with Hugging Face](#continuing-with-hugging-face)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building NLP apps with Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980)
@@ -113,7 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Agile Development|Agile]] (1), [[Deep Learning]] (1), [[Transformer Models]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kumaran] (1)
 
@@ -170,7 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), extends (2), finally, (1), case. (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (5), ai (2), [[Deep Learning]] (2), [[Neural Networks]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Prerequisites:** getting started (3), prerequisite (1), set up (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
@@ -246,19 +246,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** prompt (4), [[Python (Programming Language)|Python]] (3), [[Microsoft Products|Products]] (1), hit (1), [[Windows]] (1)
 > **Tools:** jupyter (6), anaconda (4), command prompt (4)
 > **Prerequisites:** install (5), setup (2), set up (1), prerequisite (1)
 > **Exercise Files:** exercise files (6), download the (1)
 > **CLI Commands:** python (3), make (3)
 > **UI Navigation:** go to (3), click on (1), navigate to (1), open the (1)
 > **Versions:** python 3 (2), 2.10 (2)
-> **Code Keywords:** let (1), this, (1)
 > **URLs:** [anconda.com](https://anconda.com) (1)
 
 
 ### 1. Question-Answering (Qu-An)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Question-answering in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/question-answering-in-nlp?u=76281980)
@@ -301,9 +301,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (3), [[Hugging Face]] (1), product (1), [[Search]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** nlp (3)
-> **Code Keywords:** self (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -354,7 +354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1), self (1)
+> **Frameworks & Libraries:** [[Search]] (3), product (2), nlp (1), [[Google]] (1), data (1)
 > **Env Vars:** nlp (1), odqa (1), cdqa (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -405,7 +405,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), pass (1)
 > **Prerequisites:** setup (1), install (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** o1xx (1)
@@ -452,7 +451,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), case, (1), fn (1), match, (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), nlp (2), next (1)
 > **Env Vars:** nlp (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -507,14 +506,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), module (1), function (1), match, (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Microsoft Word|Word]] (1), next (1)
 > **Code Identifiers:** squad_metric (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Text Summarization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Text summarization in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/text-summarization-in-nlp?u=76281980)
@@ -563,7 +562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case, (1)
+> **Frameworks & Libraries:** nlp (1), [[Hugging Face]] (1), application (1), next (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (2)
 > **Env Vars:** nlp (1)
@@ -594,6 +593,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (1), next (1)
 > **Env Vars:** bart (5), bert (2), gpt (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Analogies:** similar to (2)
@@ -646,7 +646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), default. (1), case. (1)
+> **Frameworks & Libraries:** [[Hugging Face|Huggingface]] (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -729,7 +729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (2), module (1), finally, (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), next (1)
 > **Env Vars:** rogue (2)
 > **Code Identifiers:** roguel (1)
 > **Versions:** 1.0 (1)
@@ -740,7 +740,7 @@ created: 2026-04-29
 
 ### 3. Natural Language Generation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Natural language generation in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/natural-language-generation-in-nlp?u=76281980)
@@ -779,6 +779,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (1), data (1), product (1), [[Conversational AI]] (1)
 > **Env Vars:** nlg (5), nlp (1), gpt (1), bart (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -824,7 +825,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case, (1), pass (1)
+> **Frameworks & Libraries:** [[Content Creation]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Tokens]] (1), [[Hugging Face]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -858,8 +859,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** nlp (2), [[Microsoft Products|Products]] (1), data (1), [[Databases]] (1), next (1)
 > **Env Vars:** nlp (2)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -913,7 +914,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), pass (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), chatbot (1), next (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -951,6 +952,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Real-Time]] (2), nlp (1), application (1), product (1)
 > **Env Vars:** nlg (1), nlp (1), gpt (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1004,7 +1006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Tokens]] (2), nlp (1), [[PyTorch]] (1)
 > **Code Identifiers:** return_tensors (1)
 > **Env Vars:** nlp (1)
 > **Warnings:** note that (1)
@@ -1013,7 +1015,7 @@ created: 2026-04-29
 
 ### 4. Customizing Models with Transfer Learning
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Training a custom model
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980)
@@ -1054,7 +1056,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), case. (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Loading a Hugging Face dataset
@@ -1116,7 +1118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (1)
+> **Frameworks & Libraries:** data (4), [[Hugging Face]] (3), next (1)
 > **Code Identifiers:** poem_sentiment (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** apache (1)
@@ -1190,7 +1192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), class, (1), type. (1)
+> **Frameworks & Libraries:** data (6), [[Tokens]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -1243,7 +1245,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1)
 > **Code Identifiers:** pre_classifier (1)
 > **Versions:** 0.1 (1)
 > **Analogies:** for example (1)
@@ -1291,7 +1292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (2)
+> **Frameworks & Libraries:** [[TensorFlow]] (1)
 > **Prerequisites:** set up (2)
 > **Code Identifiers:** ebooks (1)
 > **Definitions:** is an  (1)
@@ -1356,7 +1357,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), class, (1), function (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Python (Programming Language)|Python]] (1), data (1)
 > **CLI Commands:** find (2), python (1)
 > **Code Identifiers:** from_dict (1), sentiment_model (1)
 > **Analogies:** similar to (2)
@@ -1365,7 +1366,7 @@ created: 2026-04-29
 
 ### 5. Deploying and Using Hugging Face Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inference challenges with Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/inference-challenges-with-transformers?u=76281980)
@@ -1412,7 +1413,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (1), require (1)
+> **Frameworks & Libraries:** data (3), [[Transformer Models]] (1), next (1), power (1), parallel (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - transformers (1)
@@ -1454,9 +1455,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[Hugging Face]] (1), next (1)
 > **Cross-References:** previous chapter (1), we discussed (1)
 > **Speakers:** - [instructor] (1), - in (1)
-> **Code Keywords:** case, (1)
 > **Best Practices:** good practice (1)
 > **Prerequisites:** required to (1)
 
@@ -1513,7 +1514,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), require (1)
+> **Frameworks & Libraries:** data (2), [[Deep Learning]] (1), power (1), [[Search]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** float32 (1)
@@ -1597,7 +1598,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), case, (2), finally, (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), next (2), parallel (2), nlp (1), [[Transformer Models]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** nlp (1)
@@ -1607,7 +1608,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/continuing-with-hugging-face?u=76281980)
@@ -1630,9 +1631,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Hugging Face]] (4), nlp (2), data (1), ai (1)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 

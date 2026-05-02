@@ -33,7 +33,7 @@ tags:
   - skill/supply-chain-management
   - skill/digital-transformation
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Digital%20Transformation%20in%20Supply%20Chains.md)
@@ -52,44 +52,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Digital transformation of supply chains
+  - [Digital transformation of supply chains](#digital-transformation-of-supply-chains)
 - [**1. Current Supply Chain Technologies**](#1-current-supply-chain-technologies) (9 videos)
-  - Prepare for Supply Chain 4.0
-  - Track the information value chain
-  - Analyze supply chain processes
-  - Leverage big data and the Internet of Things into the supply chain
-  - Optimize supply chains with advanced analytics
-  - Apply artificial intelligence and machine learning
-  - Cloud computing and edge computing to improve information flow
-  - Exercise: Process mapping
-  - Solution: Process mapping
+  - [Prepare for Supply Chain 4.0](#prepare-for-supply-chain-40)
+  - [Track the information value chain](#track-the-information-value-chain)
+  - [Analyze supply chain processes](#analyze-supply-chain-processes)
+  - [Leverage big data and the Internet of Things into the supply chain](#leverage-big-data-and-the-internet-of-things-into-the-supply-chain)
+  - [Optimize supply chains with advanced analytics](#optimize-supply-chains-with-advanced-analytics)
+  - [Apply artificial intelligence and machine learning](#apply-artificial-intelligence-and-machine-learning)
+  - [Cloud computing and edge computing to improve information flow](#cloud-computing-and-edge-computing-to-improve-information-flow)
+  - [Exercise: Process mapping](#exercise-process-mapping)
+  - [Solution: Process mapping](#solution-process-mapping)
 - [**2. Emerging Supply Chain Technologies**](#2-emerging-supply-chain-technologies) (12 videos)
-  - Artificial intelligence (AI) in the supply chain
-  - Adopt autonomous vehicles in the supply chain
-  - Simulation, optimization, and digital twins in supply chains
-  - Additive manufacturing for supply chains
-  - Improve supply chain communication technology
-  - Augmented reality in supply chains
-  - Share and secure data with blockchains
-  - Quantum computing in supply chains
-  - Increase supply chain cybersecurity
-  - Combine technologies into supply chain solutions
-  - Exercise: Technology threats and opportunities
-  - Solution: Technology threats and opportunities
+  - [Artificial intelligence (AI) in the supply chain](#artificial-intelligence-ai-in-the-supply-chain)
+  - [Adopt autonomous vehicles in the supply chain](#adopt-autonomous-vehicles-in-the-supply-chain)
+  - [Simulation, optimization, and digital twins in supply chains](#simulation-optimization-and-digital-twins-in-supply-chains)
+  - [Additive manufacturing for supply chains](#additive-manufacturing-for-supply-chains)
+  - [Improve supply chain communication technology](#improve-supply-chain-communication-technology)
+  - [Augmented reality in supply chains](#augmented-reality-in-supply-chains)
+  - [Share and secure data with blockchains](#share-and-secure-data-with-blockchains)
+  - [Quantum computing in supply chains](#quantum-computing-in-supply-chains)
+  - [Increase supply chain cybersecurity](#increase-supply-chain-cybersecurity)
+  - [Combine technologies into supply chain solutions](#combine-technologies-into-supply-chain-solutions)
+  - [Exercise: Technology threats and opportunities](#exercise-technology-threats-and-opportunities)
+  - [Solution: Technology threats and opportunities](#solution-technology-threats-and-opportunities)
 - [**3. Transforming Your Supply Chain**](#3-transforming-your-supply-chain) (7 videos)
-  - Identify new business models for supply chains
-  - Build a business case for digital transformation
-  - Assemble a project team for supply chain digital transformation
-  - Position your digital transformation project
-  - Develop leadership skills for digital transformation
-  - Measure digital transformation impact on sustainability
-  - Explore the convergence of technologies
+  - [Identify new business models for supply chains](#identify-new-business-models-for-supply-chains)
+  - [Build a business case for digital transformation](#build-a-business-case-for-digital-transformation)
+  - [Assemble a project team for supply chain digital transformation](#assemble-a-project-team-for-supply-chain-digital-transformation)
+  - [Position your digital transformation project](#position-your-digital-transformation-project)
+  - [Develop leadership skills for digital transformation](#develop-leadership-skills-for-digital-transformation)
+  - [Measure digital transformation impact on sustainability](#measure-digital-transformation-impact-on-sustainability)
+  - [Explore the convergence of technologies](#explore-the-convergence-of-technologies)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital transformation of supply chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980)
@@ -120,14 +120,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (4), [[Digital Transformation]] (1)
 > **Versions:** 4.0 (1)
 > **Speakers:** - what (1)
 
 
 ### 1. Current Supply Chain Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare for Supply Chain 4.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980)
@@ -176,8 +176,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2), [[5G]] (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Versions:** 4.0 (4)
-> **Code Keywords:** finally, (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - when (1)
 
@@ -242,7 +242,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2)
+> **Frameworks & Libraries:** data (8), [[Digital Transformation]] (2), [[Automation]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
@@ -331,8 +331,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (4), data (3), functional (2), [[Supply Chain Operations]] (1), business (1)
 > **Env Vars:** vsm (2), uml (1), rpa (1)
-> **Code Keywords:** let (2), return, (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
@@ -401,6 +401,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), [[Big Data]] (4), [[Unstructured Data]] (4), [[Digital Transformation]] (3), [[IoT]] (3)
 > **Analogies:** for example (3), picture (1)
 > **Speakers:** - our (1)
 
@@ -471,9 +472,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (15), data (6), [[Predictive Analytics]] (4), [[Statistics]] (2), next (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 
 #### Apply artificial intelligence and machine learning
@@ -535,10 +536,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (5), game (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), data (1)
 > **Definitions:** is a  (1), is called (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for example (1)
-> **Code Keywords:** require (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - in (1)
 
@@ -601,8 +602,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), cloud (2), [[Microsoft Office|Office]] (1), [[Local Area Network (LAN)|Local area network]] (1), power (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - most (1)
 
@@ -635,9 +636,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** functional (1), [[Digital Transformation]] (1), next (1)
 > **Exercise Files:** download the (1), template (1), exercise files (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - we (1)
 
@@ -664,7 +665,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Automation]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Digital Transformation]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
@@ -672,7 +673,7 @@ created: 2026-04-29
 
 ### 2. Emerging Supply Chain Technologies
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Artificial intelligence (AI) in the supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980)
@@ -715,6 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), data (4), [[Supply Chain Management]] (1), [[Generative AI Tools]] (1), [[ChatGPT]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -763,7 +765,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2)
 > **Env Vars:** avs (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -832,8 +834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Simulation]] (7), product (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (1), break. (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** imagine (1), for example (1)
 > **Prerequisites:** configure (1)
@@ -898,8 +900,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Product Development]] (1), power (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (10)
-> **Code Keywords:** from. (1), finally, (1), function (1), let (1)
 > **Definitions:** in other words (1), is a  (1), is called (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
@@ -954,9 +956,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (3), [[Mesh]] (3), [[Microsoft Products|Products]] (1), [[5G]] (1), data (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rfid (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - communication (1)
@@ -1008,8 +1010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Simulation]] (1), [[Zoom]] (1), game (1)
 > **Analogies:** for example (2), imagine (1)
-> **Code Keywords:** else. (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - distance (1)
 
@@ -1070,7 +1072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), pass (1)
+> **Frameworks & Libraries:** [[Blockchain]] (7), data (4), [[Microsoft Products|Products]] (4), [[Smart Contracts]] (3), database (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - many (1)
 
@@ -1131,8 +1133,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (4), data (3), [[Algorithms]] (3), [[Routing]] (1), [[Forecasting]] (1)
 > **Definitions:** is called (2), means that (1)
-> **Code Keywords:** super (2)
 > **Speakers:** - all (1)
 
 #### Increase supply chain cybersecurity
@@ -1194,7 +1196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), require (1)
+> **Frameworks & Libraries:** data (5), [[Cybersecurity]] (3), [[Digital Transformation]] (2), next (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - back (1)
 
@@ -1235,6 +1237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
@@ -1261,6 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), product (1), next (1)
 > **CLI Commands:** make (3)
 > **Versions:** 4.0 (1)
 > **Cross-References:** next video (1)
@@ -1310,8 +1314,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Blockchain]] (4), [[Analytics]] (3), [[Digital Transformation]] (1), data (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** rfid (1)
 > **Versions:** 4.0 (1)
 > **Speakers:** - when (1)
@@ -1319,7 +1323,7 @@ created: 2026-04-29
 
 ### 3. Transforming Your Supply Chain
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify new business models for supply chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980)
@@ -1376,8 +1380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), [[Digital Transformation]] (3), [[Automation]] (3), next (3), product (3)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** ebay (1)
 > **Analogies:** such as (1)
 > **Speakers:** - digital (1)
@@ -1457,7 +1461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), case. (1), finally, (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (7), business (3), management (1), [[Hardware]] (1), [[Engineering]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** esg (1)
@@ -1518,8 +1522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (2), teams (2), next (1), management (1)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** let (1), case. (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - there (1)
 
@@ -1588,7 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), public (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), management (1), career (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - digital (1)
@@ -1642,6 +1646,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), leadership (2), teams (2), management (1), business (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** direct (1)
 > **Analogies:** for example (1)
@@ -1700,6 +1705,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (4), [[Microsoft Products|Products]] (3), business (1), [[Environmental Sustainability]] (1), product (1)
 > **Env Vars:** esg (2)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is an  (1)
@@ -1734,17 +1740,17 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Analytics]] (1)
 > **Exercise Files:** download the (1), template (1), exercise files (1)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** pass (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - with (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980)
@@ -1785,8 +1791,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (2), game (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** new. (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - this (1)
 

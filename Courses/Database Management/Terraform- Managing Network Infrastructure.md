@@ -31,7 +31,7 @@ tags:
   - skill/terraform
   - skill/infrastructure-as-code-iac
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Terraform-%20Managing%20Network%20Infrastructure.md)
@@ -50,31 +50,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Network management in the cloud
-  - What you need to know
+  - [Network management in the cloud](#network-management-in-the-cloud)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Terraform Basics**](#1-terraform-basics) (5 videos)
-  - Terraform's composition
-  - Understanding Terraform state
-  - Manual exploration leads to good Terraform code
-  - Terraform configuration language basics
-  - Setting up your Terraform Repo
+  - [Terraform's composition](#terraforms-composition)
+  - [Understanding Terraform state](#understanding-terraform-state)
+  - [Manual exploration leads to good Terraform code](#manual-exploration-leads-to-good-terraform-code)
+  - [Terraform configuration language basics](#terraform-configuration-language-basics)
+  - [Setting up your Terraform Repo](#setting-up-your-terraform-repo)
 - [**2. Foundational Networking in AWS with Terraform**](#2-foundational-networking-in-aws-with-terraform) (5 videos)
-  - Creating a bare minimum VPC with Terraform
-  - Looping over subnets with Terraform count
-  - Using Terraform to provision EC2 instances
-  - Building public subnets in AWS with Terraform
-  - Building private subnets in AWS with Terraform
+  - [Creating a bare minimum VPC with Terraform](#creating-a-bare-minimum-vpc-with-terraform)
+  - [Looping over subnets with Terraform count](#looping-over-subnets-with-terraform-count)
+  - [Using Terraform to provision EC2 instances](#using-terraform-to-provision-ec2-instances)
+  - [Building public subnets in AWS with Terraform](#building-public-subnets-in-aws-with-terraform)
+  - [Building private subnets in AWS with Terraform](#building-private-subnets-in-aws-with-terraform)
 - [**3. Advanced Networking in AWS with Terraform**](#3-advanced-networking-in-aws-with-terraform) (4 videos)
-  - Using Terraform to expand our infrastructure footprint
-  - Routing traffic between VPCs using Terraform and VPC peering
-  - Scaling the network with Terraform and Transit Gateway
-  - Using segmentation with Transit Gateway and Terraform
+  - [Using Terraform to expand our infrastructure footprint](#using-terraform-to-expand-our-infrastructure-footprint)
+  - [Routing traffic between VPCs using Terraform and VPC peering](#routing-traffic-between-vpcs-using-terraform-and-vpc-peering)
+  - [Scaling the network with Terraform and Transit Gateway](#scaling-the-network-with-terraform-and-transit-gateway)
+  - [Using segmentation with Transit Gateway and Terraform](#using-segmentation-with-transit-gateway-and-terraform)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What comes next?
+  - [What comes next?](#what-comes-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Network management in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/network-management-in-the-cloud?u=76281980)
@@ -97,8 +97,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (4), [[Terraform]] (2), management (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), web (1)
 > **CLI Commands:** terraform (2), make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - network (1)
 
@@ -137,9 +137,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (3), cloud (2), aws (2), [[Automation]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** terraform (3), aws (2), make (1), git (1)
 > **Prerequisites:** set up (2), you'll need (1)
-> **Code Keywords:** continue (1), let (1)
 > **Env Vars:** aws (2)
 > **Tools:** github (1), vs code (1)
 > **Exercise Files:** exercise files (1)
@@ -148,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Terraform Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Terraform's composition
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980)
@@ -207,9 +207,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (16), [[Version Control]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), api (1), aws (1)
 > **CLI Commands:** terraform (16), aws (1)
 > **Env Vars:** api (1), rpc (1), aws (1), cli (1)
-> **Code Keywords:** this, (1), this. (1), let (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1), think of it like (1)
 > **Tools:** github (1)
@@ -295,8 +295,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (8), database (3), application (2), cloud (2), product (2)
 > **CLI Commands:** terraform (8), make (3)
-> **Code Keywords:** this. (2), default, (1), let (1)
 > **Env Vars:** prod (2), json (1), uat (1)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** required to (1)
@@ -397,8 +397,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Automation]] (1), [[Terraform]] (1), cloud (1), aws (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Env Vars:** vpc (15), cidr (7), aws (1)
-> **Code Keywords:** let (10)
 > **CLI Commands:** find (2), terraform (1), aws (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (2)
@@ -486,9 +486,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (16), next (3), data (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), application (1)
 > **CLI Commands:** terraform (16), aws (1)
 > **Env Vars:** vpc (3), hcl (2), cidr (2), aws (1), dns (1)
-> **Code Keywords:** let (2), pass (1), for, (1)
 > **Analogies:** just like (2)
 > **Cross-References:** previous video (1)
 > **Prerequisites:** set up (1)
@@ -581,7 +581,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), switch (3)
+> **Frameworks & Libraries:** aws (2), [[Git]] (1), [[GitHub]] (1), [[Security]] (1), power (1)
 > **CLI Commands:** make (2), aws (2), git (1), terraform (1)
 > **UI Navigation:** click on (2), switch to (1)
 > **Env Vars:** aws (2)
@@ -593,7 +593,7 @@ created: 2026-04-29
 
 ### 2. Foundational Networking in AWS with Terraform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a bare minimum VPC with Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/creating-a-bare-minimum-vpc-with-terraform?u=76281980)
@@ -698,9 +698,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (9), aws (3)
 > **CLI Commands:** terraform (9), aws (3), make (2), find (1)
 > **Env Vars:** vpc (6), cidr (4), aws (3)
-> **Code Keywords:** let (10), switch (1), pass (1)
 > **UI Navigation:** go to (4)
 > **Tools:** aws console (1)
 > **Prerequisites:** install (1)
@@ -813,7 +813,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this. (5), function (4), public (1), private (1)
+> **Frameworks & Libraries:** [[Terraform]] (5), next (2), aws (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** terraform (5), aws (2), grep (1)
 > **Code Identifiers:** cidr_block (4), aws_vpc (1), cidr_blocks (1)
 > **Env Vars:** aws (2), vpc (1)
@@ -903,7 +903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (9), let (4), private (3), type, (1), pub (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Ubuntu]] (4), [[Terraform]] (3), aws (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ec2 (4), ami (4), ssh (2), aws (1)
 > **CLI Commands:** terraform (3), ssh (2), aws (1), find (1)
 > **Cross-References:** previous video (1), in the last (1)
@@ -989,7 +989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (12), let (4), private (2)
+> **Frameworks & Libraries:** [[Terraform]] (6), [[Amazon EC2|Ec2]] (4), aws (3), [[Security]] (3), traffic (1)
 > **CLI Commands:** terraform (6), aws (3), make (2), ssh (1)
 > **Env Vars:** ec2 (4), igw (4), aws (3), ssh (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -1095,7 +1095,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (10), private (10), let (6), static (2), this, (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Security]] (2), [[Terraform]] (1), [[LinkedIn]] (1), hit (1)
 > **Env Vars:** nat (3), ec2 (2), ngw (2), eip (2), vpc (1)
 > **CLI Commands:** make (2), terraform (1), ssh (1)
 > **Code Identifiers:** private_subnettf (1), depends_on (1)
@@ -1107,7 +1107,7 @@ created: 2026-04-29
 
 ### 3. Advanced Networking in AWS with Terraform
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Terraform to expand our infrastructure footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980)
@@ -1214,9 +1214,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (6), next (3), [[Routing]] (2), [[Amazon EC2|Ec2]] (1), [[Security]] (1)
 > **Env Vars:** vpc (8), aws (1)
 > **CLI Commands:** terraform (6), find (1), aws (1)
-> **Code Keywords:** throw (1), let (1), switch (1), this, (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
@@ -1357,8 +1357,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Terraform]] (6), traffic (2), next (2), [[Routing]] (2)
 > **Env Vars:** vpc (16), vpcb (7), vpca (6), cidr (2), aws (1)
-> **Code Keywords:** let (9), public (4), case, (3), from. (2), private (2)
 > **CLI Commands:** terraform (6), aws (1)
 > **Code Identifiers:** remote_state (2)
 > **Versions:** 10.5 (1), 10.6 (1)
@@ -1441,8 +1441,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Terraform]] (2), [[Mesh]] (2), next (2), [[Routing]] (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (15), tgw (8), rfc (1), igw (1), nat (1)
-> **Code Keywords:** let (5), public (1), private (1)
 > **CLI Commands:** terraform (2), make (1)
 > **Versions:** 19.18.10 (1)
 > **Cross-References:** in the next (1)
@@ -1548,8 +1548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (3), [[Terraform]] (2), cloud (1), [[Zoom]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (15), tgw (2), ec2 (1)
-> **Code Keywords:** let (9), this, (1), case, (1), private (1)
 > **CLI Commands:** terraform (2)
 > **Versions:** 10.5 (1)
 > **Cross-References:** in the last (1)
@@ -1560,7 +1560,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What comes next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980)
@@ -1623,9 +1623,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (5), [[Automation]] (4), [[Terraform]] (3), next (1), business (1)
 > **CLI Commands:** terraform (3), aws (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** public (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [lecturer] (1)
 

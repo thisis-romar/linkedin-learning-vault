@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20With%20A%20Digital%20Mindset%20In%20The%20Age%20Of%20Ai.md)
@@ -49,29 +49,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introducing the digital mindset
+  - [Introducing the digital mindset](#introducing-the-digital-mindset)
 - [**1. Collaboration, Computation, and Change for the Digital Age**](#1-collaboration-computation-and-change-for-the-digital-age) (3 videos)
-  - What is a digital mindset?
-  - Why is it important to lead with a digital mindset?
-  - Change readiness for the digital age
+  - [What is a digital mindset?](#what-is-a-digital-mindset)
+  - [Why is it important to lead with a digital mindset?](#why-is-it-important-to-lead-with-a-digital-mindset)
+  - [Change readiness for the digital age](#change-readiness-for-the-digital-age)
 - [**2. Collaborating with Colleagues in a Digital Environment**](#2-collaborating-with-colleagues-in-a-digital-environment) (3 videos)
-  - Establishing your digital presence
-  - Building trust with people far away
-  - Developing your metaknowledge
+  - [Establishing your digital presence](#establishing-your-digital-presence)
+  - [Building trust with people far away](#building-trust-with-people-far-away)
+  - [Developing your metaknowledge](#developing-your-metaknowledge)
 - [**3. Collaborating with Machines in the Digital Age**](#3-collaborating-with-machines-in-the-digital-age) (3 videos)
-  - How machines learn
-  - Don't confuse a machine for a person
-  - Communicating with AI
+  - [How machines learn](#how-machines-learn)
+  - [Don't confuse a machine for a person](#dont-confuse-a-machine-for-a-person)
+  - [Communicating with AI](#communicating-with-ai)
 - [**4. Making Sense of Data in the Digital Age**](#4-making-sense-of-data-in-the-digital-age) (3 videos)
-  - Where data comes from
-  - The four questions to ask to make smart decisions with data
-  - Presenting data in compelling ways
+  - [Where data comes from](#where-data-comes-from)
+  - [The four questions to ask to make smart decisions with data](#the-four-questions-to-ask-to-make-smart-decisions-with-data)
+  - [Presenting data in compelling ways](#presenting-data-in-compelling-ways)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continuous learning in the digital age
+  - [Continuous learning in the digital age](#continuous-learning-in-the-digital-age)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the digital mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/introducing-the-digital-mindset?u=76281980)
@@ -98,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), data (1), management (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -105,7 +106,7 @@ created: 2026-04-29
 
 ### 1. Collaboration, Computation, and Change for the Digital Age
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a digital mindset?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980)
@@ -174,8 +175,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Algorithms]] (2), ai (2), [[Blockchain]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
@@ -236,7 +237,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** data (2), power (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Office|Office]] (1), next (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -325,7 +326,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** ai (1), teams (1), next (1), [[Digital Transformation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 > **Speakers:** - how (1)
@@ -333,7 +334,7 @@ created: 2026-04-29
 
 ### 2. Collaborating with Colleagues in a Digital Environment
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing your digital presence
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980)
@@ -438,8 +439,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** teams (2), [[Microsoft Office|Office]] (1), hit (1), business (1), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1), this, (1)
 > **Analogies:** for example (2)
 > **Best Practices:** the key is (1), it's best to (1)
 > **Env Vars:** ibm (1)
@@ -561,7 +562,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (2), private (1)
+> **Frameworks & Libraries:** next (3), [[Building Trust]] (3), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** previous video (1), we discussed (1)
@@ -666,8 +667,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), ai (1), [[Slack]] (1), [[Microsoft Teams]] (1)
 > **Analogies:** picture (2), it's like (1), kind of like (1), just like (1)
-> **Code Keywords:** pass (1), let (1), public (1), private (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Tools:** slack (1)
@@ -677,7 +678,7 @@ created: 2026-04-29
 
 ### 3. Collaborating with Machines in the Digital Age
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How machines learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980)
@@ -790,10 +791,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Neural Networks]] (5), next (3), ai (2), [[Supervised Learning]] (2)
 > **CLI Commands:** make (3), find (2), node (1)
 > **Analogies:** for example (2), similar to (1), for instance (1), kind of like (1), imagine (1)
 > **Definitions:** is a  (2), known as (1)
-> **Code Keywords:** let (2)
 > **Code Identifiers:** iphone (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - the (1)
@@ -877,9 +878,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), nlp (3), [[Google]] (1), [[Windows]] (1), [[Security]] (1)
 > **Env Vars:** nlp (3), nlu (3), gui (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** interface (1), require (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), for example (1)
 > **Cross-References:** in the next (1)
@@ -989,6 +990,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (32), data (6), [[Climate Change]] (3), [[Privacy]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** in the last (1), we talked about (1), in the next (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - in (1), - this (1)
@@ -999,7 +1001,7 @@ created: 2026-04-29
 
 ### 4. Making Sense of Data in the Digital Age
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Where data comes from
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980)
@@ -1076,7 +1078,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), throw (1), require (1), public (1)
+> **Frameworks & Libraries:** data (30), [[Analytics]] (3), [[Microsoft Products|Products]] (1), [[Statistics]] (1), [[Google]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** nba (1)
 > **Cross-References:** in the next (1)
@@ -1200,8 +1202,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (36), business (2), traffic (2), [[Databases]] (1), database (1)
 > **Analogies:** for example (3), for instance (3), picture (1)
-> **Code Keywords:** public (2), this, (1), finally, (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** refers to (1), is a  (1), is an  (1)
 > **Cross-References:** in the last (1)
@@ -1290,7 +1292,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), abstract (3)
+> **Frameworks & Libraries:** data (11), ai (1), [[Simulation]] (1), business (1), traffic (1)
 > **Analogies:** picture (1), imagine (1), such as (1)
 > **Cross-References:** previous video (1), we discussed (1)
 > **CLI Commands:** make (1)
@@ -1300,7 +1302,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous learning in the digital age
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/continuous-learning-in-the-digital-age?u=76281980)
@@ -1369,7 +1371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), finally, (1)
+> **Frameworks & Libraries:** ai (7), hr (2), data (1), business (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)

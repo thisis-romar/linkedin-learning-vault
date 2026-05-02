@@ -21,7 +21,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20for%20Corporate%20Finance%20Professionals.md)
@@ -40,52 +40,52 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Excel's tools for corporate finance
+  - [Excel's tools for corporate finance](#excels-tools-for-corporate-finance)
 - [**1. Critical Tasks in Corporate Finance**](#1-critical-tasks-in-corporate-finance) (7 videos)
-  - Describe corporate finance and its purpose
-  - Explore project selection in finance
-  - Explain the weighted average cost of capital and capital structure
-  - Estimate cash flows in budgeting
-  - Financial ratios and Excel
-  - Valuation tools and Excel
-  - Build scenarios and stress tests in Excel
+  - [Describe corporate finance and its purpose](#describe-corporate-finance-and-its-purpose)
+  - [Explore project selection in finance](#explore-project-selection-in-finance)
+  - [Explain the weighted average cost of capital and capital structure](#explain-the-weighted-average-cost-of-capital-and-capital-structure)
+  - [Estimate cash flows in budgeting](#estimate-cash-flows-in-budgeting)
+  - [Financial ratios and Excel](#financial-ratios-and-excel)
+  - [Valuation tools and Excel](#valuation-tools-and-excel)
+  - [Build scenarios and stress tests in Excel](#build-scenarios-and-stress-tests-in-excel)
 - [**2. Project Selection in Excel**](#2-project-selection-in-excel) (8 videos)
-  - Define a capital budgeting scenario in Excel
-  - Build out a series of capital budgeting scenarios
-  - Perform NPV tests
-  - Perform IRR tests
-  - Perform PBP and MIRR tests
-  - Scenario analysis in Excel
-  - NPV and scenario analysis
-  - Evaluate Excel models for accuracy
+  - [Define a capital budgeting scenario in Excel](#define-a-capital-budgeting-scenario-in-excel)
+  - [Build out a series of capital budgeting scenarios](#build-out-a-series-of-capital-budgeting-scenarios)
+  - [Perform NPV tests](#perform-npv-tests)
+  - [Perform IRR tests](#perform-irr-tests)
+  - [Perform PBP and MIRR tests](#perform-pbp-and-mirr-tests)
+  - [Scenario analysis in Excel](#scenario-analysis-in-excel)
+  - [NPV and scenario analysis](#npv-and-scenario-analysis)
+  - [Evaluate Excel models for accuracy](#evaluate-excel-models-for-accuracy)
 - [**3. WACC and Capital Structure in Excel**](#3-wacc-and-capital-structure-in-excel) (8 videos)
-  - Capital structure in Excel
-  - Describe the concept of WACC
-  - Build out a set of capital structure options in Excel
-  - Demonstrate changes in capital structure
-  - Estimate WACC in Excel for a capital structure
-  - Show sensitivity of WACC to changes in capital structure
-  - Determine optimal WACC
-  - Adjusting WACC for risk
+  - [Capital structure in Excel](#capital-structure-in-excel)
+  - [Describe the concept of WACC](#describe-the-concept-of-wacc)
+  - [Build out a set of capital structure options in Excel](#build-out-a-set-of-capital-structure-options-in-excel)
+  - [Demonstrate changes in capital structure](#demonstrate-changes-in-capital-structure)
+  - [Estimate WACC in Excel for a capital structure](#estimate-wacc-in-excel-for-a-capital-structure)
+  - [Show sensitivity of WACC to changes in capital structure](#show-sensitivity-of-wacc-to-changes-in-capital-structure)
+  - [Determine optimal WACC](#determine-optimal-wacc)
+  - [Adjusting WACC for risk](#adjusting-wacc-for-risk)
 - [**4. Operational Budgeting in Excel**](#4-operational-budgeting-in-excel) (6 videos)
-  - Introduce operational budgeting in Excel
-  - Demonstrate building a budget in Excel
-  - Add CAGRs to Excel for long-term assumptions
-  - Build percent of sales assumptions for expense
-  - Link budget to pricing and sales assumptions
-  - Provide stress test tools for budgets in Excel
+  - [Introduce operational budgeting in Excel](#introduce-operational-budgeting-in-excel)
+  - [Demonstrate building a budget in Excel](#demonstrate-building-a-budget-in-excel)
+  - [Add CAGRs to Excel for long-term assumptions](#add-cagrs-to-excel-for-long-term-assumptions)
+  - [Build percent of sales assumptions for expense](#build-percent-of-sales-assumptions-for-expense)
+  - [Link budget to pricing and sales assumptions](#link-budget-to-pricing-and-sales-assumptions)
+  - [Provide stress test tools for budgets in Excel](#provide-stress-test-tools-for-budgets-in-excel)
 - [**5. Valuation in Excel**](#5-valuation-in-excel) (5 videos)
-  - Valuation of assets in Excel
-  - Estimation of cash flows
-  - Determine a discount rate
-  - Identify the valuation
-  - Stress testing the valuation model
+  - [Valuation of assets in Excel](#valuation-of-assets-in-excel)
+  - [Estimation of cash flows](#estimation-of-cash-flows)
+  - [Determine a discount rate](#determine-a-discount-rate)
+  - [Identify the valuation](#identify-the-valuation)
+  - [Stress testing the valuation model](#stress-testing-the-valuation-model)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Continue your corporate finance journey with Excel
+  - [Continue your corporate finance journey with Excel](#continue-your-corporate-finance-journey-with-excel)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Excel's tools for corporate finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980)
@@ -108,6 +108,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (3), [[Microsoft Excel|Excel]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - did (1)
@@ -115,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Critical Tasks in Corporate Finance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe corporate finance and its purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980)
@@ -200,8 +201,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (15), business (5), next (2), management (2), product (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (1), finally, (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -279,10 +280,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Corporate Finance]] (2), business (2), [[Representational State Transfer (REST)|Rest]] (1), product (1)
 > **Env Vars:** irr (2), pbp (2), npv (1)
 > **Analogies:** for example (4), picture (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 #### Explain the weighted average cost of capital and capital structure
@@ -402,9 +403,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (2)
 > **CLI Commands:** make (6)
 > **Env Vars:** wacc (4)
-> **Code Keywords:** raise (1), return. (1), for, (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (1)
@@ -471,6 +472,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (5), [[Microsoft Products|Products]] (2), business (1), [[Forecasting]] (1)
 > **Env Vars:** cagr (7), wacc (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -570,8 +572,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Forecasting]] (2), [[Corporate Finance]] (1), [[Financial Statements]] (1), business (1)
 > **Analogies:** for example (3), for instance (1)
-> **Code Keywords:** let (1), static (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cogs (1)
 > **Definitions:** is a  (1)
@@ -694,7 +696,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), from, (1), finally, (1), this, (1), require (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (5), [[Probability]] (3), product (2), business (2), [[Financial Modeling]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -771,8 +773,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (3), [[Corporate Finance]] (2), business (2), data (2)
 > **Definitions:** is a  (4)
-> **Code Keywords:** let (1), this, (1), case, (1)
 > **Versions:** 0.46 (1), 0.53 (1), 16.2 (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -781,7 +783,7 @@ created: 2026-04-29
 
 ### 2. Project Selection in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define a capital budgeting scenario in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980)
@@ -936,8 +938,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Corporate Finance]] (1), feature (1)
 > **CLI Commands:** make (7)
-> **Code Keywords:** case, (3), this. (2), this, (1)
 > **Env Vars:** i20 (2), i25 (1)
 > **Definitions:** is a  (3)
 > **Versions:** 3.5 (1), 4.25 (1)
@@ -1130,7 +1132,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (2), finally, (1), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), next (1), hit (1)
 > **CLI Commands:** make (7)
 > **Versions:** 015.05 (2), 1.04 (1), 7.6 (1), 7.658 (1), 325.52 (1)
 > **Env Vars:** dcf (2), k14 (1), pmt (1)
@@ -1273,9 +1275,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), hit (1)
 > **Env Vars:** npv (7), wac (5)
 > **CLI Commands:** make (9)
-> **Code Keywords:** let (5), this, (2), raise (1), case, (1)
 > **Code Identifiers:** xnpv (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
@@ -1389,9 +1391,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), cd (1), hit (1), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** irr (20), npv (8)
 > **CLI Commands:** make (9), cd (1)
-> **Code Keywords:** return, (2), let (2), this, (2), case, (1), this. (1)
 > **Versions:** 059.59 (1), 0.1 (1), 6.29 (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1503,9 +1505,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** mirr (12), irr (8), npv (1), pbp (1)
 > **Versions:** 6.29 (2), 4.43 (1), 5.5 (1), 5.93 (1), 0.29 (1)
-> **Code Keywords:** let (4), this, (2), return. (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is a  (2)
@@ -1592,7 +1594,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (2), for, (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), feature (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), for instance (1)
 > **Env Vars:** i26 (1)
@@ -1672,7 +1674,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), this. (2), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), hit (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** npv (3), irr (1), mirr (1), i20 (1), kpi (1)
 > **Versions:** 4.25 (1), 936.19 (1)
@@ -1785,7 +1787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), function (3), this. (1), finally, (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), hit (3), business (1), data (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** e13 (2), i17 (1), npv (1)
 > **Versions:** 3.49 (1), 928.19 (1)
@@ -1794,7 +1796,7 @@ created: 2026-04-29
 
 ### 3. WACC and Capital Structure in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Capital structure in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/capital-structure-in-excel?u=76281980)
@@ -1879,10 +1881,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), [[Corporate Finance]] (1)
 > **Env Vars:** aaa (5), wacc (3), bbb (1)
 > **Versions:** 5.47 (1), 10.25 (1), 14.25 (1), 4.1 (1)
 > **Definitions:** is a  (2), means that (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1961,10 +1963,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Corporate Finance]] (1), cd (1), business (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** wacc (10)
 > **CLI Commands:** make (4), cd (1)
 > **Versions:** 0.5 (2), 7.18 (1), 11.63 (1)
-> **Code Keywords:** let (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2155,8 +2157,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1), product (1)
 > **Env Vars:** wacc (17), aaa (7), ebit (2), c14 (1), c15 (1)
-> **Code Keywords:** let (2), this. (2), case, (2), this, (1)
 > **CLI Commands:** make (1)
 > **Versions:** 4.1 (1)
 > **Definitions:** is a  (1)
@@ -2277,8 +2279,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 9.5 (3), 90.5 (1), 88.5 (1), 11.5 (1), 10.25 (1)
-> **Code Keywords:** case, (4), this. (2), let (1), yield (1), case. (1)
 > **Env Vars:** wac (4), c14 (2), c15 (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2422,8 +2424,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** ebit (14), wacc (4)
-> **Code Keywords:** let (3), function (2), this. (1), case, (1), pass (1)
 > **Versions:** 5.47 (4), 1.8 (2), 9.5 (1), 0.0547 (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3)
@@ -2545,9 +2547,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 0.9 (2), 1.0 (2), 1.1 (1), 1.3 (1), 1.55 (1)
 > **Env Vars:** wacc (6), aaa (5)
-> **Code Keywords:** let (1), abstract (1), case, (1), for, (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
@@ -2662,8 +2664,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Probability]] (6), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** ebit (10), wacc (6), irr (5), aaa (2), sumproduct (2)
-> **Code Keywords:** let (3), this. (2), case, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
 > **Analogies:** picture (1)
@@ -2764,7 +2766,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (2), case, (2), this, (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), product (1), data (1), next (1), power (1)
 > **Env Vars:** wacc (10), irr (2), e10 (1)
 > **Versions:** 8.8 (2), 9.5 (1), 5.5 (1), 1.1 (1), 8.76 (1)
 > **Analogies:** for example (3)
@@ -2775,7 +2777,7 @@ created: 2026-04-29
 
 ### 4. Operational Budgeting in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduce operational budgeting in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980)
@@ -2864,8 +2866,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Financial Forecasting]] (3), business (3), [[Microsoft Excel|Excel]] (2), next (2), product (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** this, (1), from, (1)
 > **Analogies:** for instance (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2986,8 +2988,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft Products|Products]] (5), product (5), [[Forecasting]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** ebit (4), ebt (2), cogs (1), cagr (1)
-> **Code Keywords:** function (4), let (2)
 > **Versions:** 1.2 (3), 1.98 (2), 5.2 (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (1), is a  (1)
@@ -3120,7 +3122,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), function (1), from. (1)
+> **Frameworks & Libraries:** product (6), [[Microsoft Excel|Excel]] (5), data (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cagr (3), cogs (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
@@ -3255,8 +3257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), business (2), next (2), [[Forecasting]] (1), product (1)
 > **CLI Commands:** make (6)
-> **Code Keywords:** this, (2), let (1), function (1), else. (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Versions:** 1.734 (1)
 > **Speakers:** - [instructor] (1)
@@ -3358,7 +3360,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), raise (1), case, (1), from, (1), this, (1)
+> **Frameworks & Libraries:** power (2), [[Microsoft Excel|Excel]] (1), [[Forecasting]] (1), [[Financial Planning]] (1), [[Corporate Finance]] (1)
 > **Versions:** 4.50 (2), 1.50 (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -3429,7 +3431,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Versions:** 2.33 (1), 2.35 (1), 7.6 (1), 8.1 (1), 1.64 (1)
 > **Env Vars:** cagr (5)
 > **CLI Commands:** make (3)
@@ -3439,7 +3441,7 @@ created: 2026-04-29
 
 ### 5. Valuation in Excel
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Valuation of assets in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980)
@@ -3636,7 +3638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), finally, (2), require (1), case, (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (2), traffic (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
 > **Versions:** 4.25 (2), 1.2 (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** wacc (2), ebitda (1)
@@ -3767,7 +3769,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (3), this. (2), continue (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (1), business (1), [[Microsoft Excel|Excel]] (1), ai (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for instance (4), for example (1)
 > **Definitions:** is a  (1)
@@ -3812,8 +3814,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** wacc (9)
-> **Code Keywords:** this, (1), this. (1), case. (1)
 > **CLI Commands:** make (1)
 > **Versions:** 12.16 (1)
 > **Analogies:** for example (1)
@@ -3908,8 +3910,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), product (1)
 > **Env Vars:** irr (10), npv (10), wacc (3)
-> **Code Keywords:** let (2), function (2), case, (2), switch (2), case. (1)
 > **CLI Commands:** make (5)
 > **Versions:** 0.1 (1), 088.19 (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -4072,9 +4074,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), business (2), [[Forms]] (1), [[Corporate Finance]] (1), [[Forecasting]] (1)
 > **Env Vars:** wacc (8)
 > **Versions:** 9.66 (2), 6.6 (2), 088.19 (1), 800.25 (1)
-> **Code Keywords:** let (3), case, (1), switch (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **UI Navigation:** toggle (1)
@@ -4083,7 +4085,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your corporate finance journey with Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980)
@@ -4124,6 +4126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Corporate Finance]] (2), business (1), [[LinkedIn]] (1), next (1)
 > **Env Vars:** npv (1), irr (1), wacc (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

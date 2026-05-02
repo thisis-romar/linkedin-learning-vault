@@ -21,7 +21,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Power%20BI-%20DAX%20Language%2C%20Formulas%2C%20and%20Calculations.md)
@@ -40,51 +40,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Explore advanced features of Power BI
+  - [Explore advanced features of Power BI](#explore-advanced-features-of-power-bi)
 - [**1. DAX Overview**](#1-dax-overview) (5 videos)
-  - DAX intro
-  - Variables
-  - GENERATESERIES
-  - GENERATE and ROW
-  - Measure groups and folders
+  - [DAX intro](#dax-intro)
+  - [Variables](#variables)
+  - [GENERATESERIES](#generateseries)
+  - [GENERATE and ROW](#generate-and-row)
+  - [Measure groups and folders](#measure-groups-and-folders)
 - [**2. Measures**](#2-measures) (7 videos)
-  - DAX measures
-  - X functions
-  - POWER DAX function
-  - Parameter harvesting formulas
-  - Filtering and evaluating measures
-  - CALCULATE DAX function including filters
-  - SELECTEDVALUE
+  - [DAX measures](#dax-measures)
+  - [X functions](#x-functions)
+  - [POWER DAX function](#power-dax-function)
+  - [Parameter harvesting formulas](#parameter-harvesting-formulas)
+  - [Filtering and evaluating measures](#filtering-and-evaluating-measures)
+  - [CALCULATE DAX function including filters](#calculate-dax-function-including-filters)
+  - [SELECTEDVALUE](#selectedvalue)
 - [**3. Time Intelligence**](#3-time-intelligence) (10 videos)
-  - CALENDAR and CALENDARAUTO
-  - FIRSTDATE and LASTDATE
-  - START or END period
-  - DATEADD
-  - PARALLELPERIOD
-  - Dates period to date
-  - DATEBETWEEN
-  - PREVIOUS or NEXT period
-  - EOMONTH and EDATE
-  - DATEDIFF DAX function
+  - [CALENDAR and CALENDARAUTO](#calendar-and-calendarauto)
+  - [FIRSTDATE and LASTDATE](#firstdate-and-lastdate)
+  - [START or END period](#start-or-end-period)
+  - [DATEADD](#dateadd)
+  - [PARALLELPERIOD](#parallelperiod)
+  - [Dates period to date](#dates-period-to-date)
+  - [DATEBETWEEN](#datebetween)
+  - [PREVIOUS or NEXT period](#previous-or-next-period)
+  - [EOMONTH and EDATE](#eomonth-and-edate)
+  - [DATEDIFF DAX function](#datediff-dax-function)
 - [**4. Advanced DAX**](#4-advanced-dax) (7 videos)
-  - ALL and ALLSELECTED DAX function
-  - FILTER DAX function
-  - BLANK and ISBLANK DAX functions
-  - IF
-  - DIVIDE DAX function
-  - SWITCH
-  - Filtering between disconnected tables
+  - [ALL and ALLSELECTED DAX function](#all-and-allselected-dax-function)
+  - [FILTER DAX function](#filter-dax-function)
+  - [BLANK and ISBLANK DAX functions](#blank-and-isblank-dax-functions)
+  - [IF](#if)
+  - [DIVIDE DAX function](#divide-dax-function)
+  - [SWITCH](#switch)
+  - [Filtering between disconnected tables](#filtering-between-disconnected-tables)
 - [**5. Advanced DAX Calculations**](#5-advanced-dax-calculations) (4 videos)
-  - TMDL View
-  - Field parameters
-  - Calculation groups
-  - User-defined functions
+  - [TMDL View](#tmdl-view)
+  - [Field parameters](#field-parameters)
+  - [Calculation groups](#calculation-groups)
+  - [User-defined functions](#user-defined-functions)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore advanced features of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980)
@@ -101,13 +101,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (4), power (2), bi (2), [[Analytics]] (1), [[DAX]] (1)
 > **Env Vars:** dax (1)
 
 
 ### 1. DAX Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DAX intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980)
@@ -170,7 +170,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (1)
+> **Frameworks & Libraries:** [[DAX]] (6), data (4), power (3), bi (3), next (2)
 > **Env Vars:** dax (6)
 > **Definitions:** is a  (1)
 
@@ -247,7 +247,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), var (3), function (3), continue (1)
+> **Frameworks & Libraries:** [[DAX]] (7), data (2), next (2), hit (1)
 > **Env Vars:** dax (7)
 > **Code Identifiers:** addcolumns (1), countrows (1)
 > **CLI Commands:** make (1)
@@ -284,7 +284,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), default, (1)
+> **Frameworks & Libraries:** [[DAX]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** generateseries (1)
 > **Env Vars:** dax (1)
@@ -340,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (8)
+> **Frameworks & Libraries:** product (4), data (1), [[DAX]] (1), power (1), bi (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** generateseries (1)
 > **Env Vars:** dax (1)
@@ -391,14 +391,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** data (3), next (1), [[DAX]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dax (1)
 
 
 ### 2. Measures
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### DAX measures
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980)
@@ -477,7 +477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), abstract (1), default, (1)
+> **Frameworks & Libraries:** data (5), [[DAX]] (2), power (1), bi (1)
 > **Env Vars:** dax (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** configure (1)
@@ -539,7 +539,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (5), this. (1)
+> **Frameworks & Libraries:** data (1)
 > **Env Vars:** sumx (4), averagex (2), maxx (1), minx (1), productx (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
@@ -595,7 +595,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (4), raise (1)
+> **Frameworks & Libraries:** power (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** pmt (1)
 
@@ -666,7 +666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), function (9), raise (1), finally, (1)
+> **Frameworks & Libraries:** power (2)
 > **Env Vars:** max (2), ipmt (1), ppmt (1)
 > **Cross-References:** go back to (1), in the last (1)
 
@@ -737,8 +737,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[DAX]] (5), power (3), bi (3), next (1)
 > **Env Vars:** dax (5)
-> **Code Keywords:** let (3)
 
 #### CALCULATE DAX function including filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980)
@@ -829,7 +829,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (13), let (8)
+> **Frameworks & Libraries:** data (6), product (6), [[DAX]] (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** calculate (5), dax (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -890,7 +890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (6)
+> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
@@ -899,7 +899,7 @@ created: 2026-04-29
 
 ### 3. Time Intelligence
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CALENDAR and CALENDARAUTO
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980)
@@ -964,7 +964,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (7)
+> **Frameworks & Libraries:** data (5), power (3), bi (3), [[DAX]] (2), [[Analytics]] (1)
 > **Env Vars:** utc (3), dax (2), today (1), time (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1009,7 +1009,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2)
+> **Frameworks & Libraries:** data (3), [[DAX]] (1), power (1), bi (1), feature (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** dax (1)
 > **Warnings:** note that (1)
@@ -1049,7 +1049,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (2)
+> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** make (1)
 
 #### DATEADD
@@ -1091,7 +1091,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (4)
+> **Frameworks & Libraries:** [[DAX]] (1), data (1)
 > **Env Vars:** dax (1), datad (1)
 > **Definitions:** is an  (1)
 
@@ -1152,7 +1152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (3), finally, (1), continue (1)
+> **Frameworks & Libraries:** parallel (4), data (2), [[DAX]] (1), power (1), bi (1)
 > **Env Vars:** dax (1)
 > **Definitions:** is a  (1)
 
@@ -1193,7 +1193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (4), let (2), this, (1)
+> **Frameworks & Libraries:** [[DAX]] (1), next (1)
 > **Env Vars:** dax (1), ytd (1)
 > **Code Identifiers:** datesytd (1)
 > **Cross-References:** in the next (1)
@@ -1264,7 +1264,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (3), this, (1)
+> **Frameworks & Libraries:** [[DAX]] (3), next (1)
 > **Env Vars:** dax (3), calculate (2), sumx (1), averagex (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1308,7 +1308,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (4), next (1), game (1), business (1)
 > **Definitions:** is a  (1)
 
 #### EOMONTH and EDATE
@@ -1346,7 +1346,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (2)
+> **Frameworks & Libraries:** next (2), parallel (1), data (1)
 > **Code Identifiers:** omonth (2), edate (1)
 
 #### DATEDIFF DAX function
@@ -1400,7 +1400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (4), extends (1), continue (1)
+> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** datedif (2), pivot (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
@@ -1408,7 +1408,7 @@ created: 2026-04-29
 
 ### 4. Advanced DAX
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ALL and ALLSELECTED DAX function
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980)
@@ -1473,7 +1473,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (4), override (3), static (1), this, (1)
+> **Frameworks & Libraries:** data (4), product (4), [[DAX]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** allselected (2), calculate (2), dax (2), sumx (2)
 > **Definitions:** means that (1)
 
@@ -1534,7 +1534,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (7), let (5), this, (1)
+> **Frameworks & Libraries:** data (3), [[DAX]] (2)
 > **Env Vars:** dax (2), min (1)
 > **Definitions:** is a  (1)
 
@@ -1591,7 +1591,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (6), let (5), case. (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Microsoft Word|Word]] (1), data (1), next (1)
 > **Code Identifiers:** isblank (1)
 
 #### IF
@@ -1655,7 +1655,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (2)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1737,7 +1736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (8)
+> **Frameworks & Libraries:** [[DAX]] (1), data (1)
 > **Env Vars:** dax (1), rdnr (1)
 > **Code Identifiers:** datedef (1)
 > **Definitions:** means that (1)
@@ -1812,7 +1811,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (10), switch (9), let (5), for, (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Microsoft Word|Word]] (1), [[DAX]] (1), next (1)
 > **Versions:** 0.05 (2), 0.10 (2), 0.1 (1)
 > **UI Navigation:** switch to (2)
 > **Env Vars:** dax (1)
@@ -1873,14 +1872,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3), let (2)
+> **Frameworks & Libraries:** power (2), bi (2), data (2), [[DAX]] (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** dax (1)
 
 
 ### 5. Advanced DAX Calculations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### TMDL View
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/tmdl-view?u=76281980)
@@ -1927,7 +1926,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), for. (1)
+> **Frameworks & Libraries:** power (4), bi (4), [[Microsoft Power Query|Power query]] (1), data (1), application (1)
 > **Env Vars:** tmdl (5)
 
 #### Field parameters
@@ -1977,7 +1976,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (1)
+> **Frameworks & Libraries:** power (1), bi (1), data (1)
 
 #### Calculation groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculation-groups?u=76281980)
@@ -2056,7 +2055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (5)
+> **Frameworks & Libraries:** power (2), bi (2), [[DAX]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pmt (1), dax (1)
 > **Prerequisites:** set up (1)
@@ -2138,7 +2137,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (17), let (5), pass (3), return. (1), raise (1)
+> **Frameworks & Libraries:** [[DAX]] (6), power (3), data (1), bi (1)
 > **Env Vars:** dax (6)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2146,7 +2145,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980)
@@ -2169,8 +2168,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), power (2), bi (2), [[DAX]] (1), [[LinkedIn]] (1)
 > **Env Vars:** dax (1), fred (1), sql (1)
-> **Code Keywords:** continue (1), public (1)
 > **CLI Commands:** python (1)
 
 

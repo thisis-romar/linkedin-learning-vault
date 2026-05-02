@@ -29,7 +29,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20An%20Ethereum%20Blockchain%20App%201%20Introduction%20To%20Blockchain.md)
@@ -48,26 +48,26 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Introduction to blockchain
+  - [Introduction to blockchain](#introduction-to-blockchain)
 - [**1. What Is Blockchain?**](#1-what-is-blockchain) (14 videos)
-  - The beginning of blockchain
-  - Currency and cryptocurrency
-  - Why use the blockchain?
-  - Blockchain data and blocks
-  - Blockchain immutability
-  - Blockchain consensus
-  - Building the blockchain story
-  - Hashes
-  - What is a chain of blocks?
-  - Finding the nonce
-  - Blockchain mining
-  - Arriving at consensus
-  - Public vs. private blockchains
-  - Distributed processing and blockchain solutions
+  - [The beginning of blockchain](#the-beginning-of-blockchain)
+  - [Currency and cryptocurrency](#currency-and-cryptocurrency)
+  - [Why use the blockchain?](#why-use-the-blockchain)
+  - [Blockchain data and blocks](#blockchain-data-and-blocks)
+  - [Blockchain immutability](#blockchain-immutability)
+  - [Blockchain consensus](#blockchain-consensus)
+  - [Building the blockchain story](#building-the-blockchain-story)
+  - [Hashes](#hashes)
+  - [What is a chain of blocks?](#what-is-a-chain-of-blocks)
+  - [Finding the nonce](#finding-the-nonce)
+  - [Blockchain mining](#blockchain-mining)
+  - [Arriving at consensus](#arriving-at-consensus)
+  - [Public vs. private blockchains](#public-vs-private-blockchains)
+  - [Distributed processing and blockchain solutions](#distributed-processing-and-blockchain-solutions)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980)
@@ -118,6 +118,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethereum]] (8), [[Blockchain]] (6), [[Smart Contracts]] (4), database (1), [[Cryptocurrency]] (1)
 > **Code Identifiers:** dapps (1), dapp (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - hi (1)
@@ -125,7 +126,7 @@ created: 2026-04-29
 
 ### 1. What Is Blockchain?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The beginning of blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980)
@@ -226,7 +227,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), for. (1), for, (1), from, (1), while, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Cryptocurrency]] (4), next (2), product (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [amazon.com](https://amazon.com) (3)
 > **Definitions:** basically means (1), in other words (1)
@@ -331,7 +332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** else. (1), while, (1), new, (1), let (1)
+> **Frameworks & Libraries:** [[Blockchain]] (14), [[Cryptocurrency]] (6), [[Cryptography]] (5), data (2), product (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (3)
 > **Analogies:** kind of like (2), picture (1)
@@ -461,7 +462,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), public (2)
+> **Frameworks & Libraries:** [[Blockchain]] (16), data (5), product (1), [[Hardware]] (1), [[Ethereum]] (1)
 > **Definitions:** means that (2), in other words (1), basically means (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -602,7 +603,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), delete (4)
+> **Frameworks & Libraries:** data (24), [[Blockchain]] (20), [[Microsoft Excel|Excel]] (2), next (2), [[Databases]] (1)
 > **Analogies:** kind of like (2), think of it as (1), for example (1), imagine (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2), in the next (1)
@@ -681,7 +682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), delete (3), case, (1)
+> **Frameworks & Libraries:** [[Blockchain]] (14), data (5), node (2)
 > **CLI Commands:** node (2)
 > **Definitions:** means that (1)
 > **Speakers:** - now (1)
@@ -737,6 +738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (4), node (2), data (1)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** means that (1), in other words (1)
 > **Warnings:** keep in mind (1)
@@ -801,7 +803,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Blockchain]] (10), data (3), next (2), business (1), database (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
 > **Analogies:** kind of like (1), picture (1)
@@ -970,7 +972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (6)
+> **Frameworks & Libraries:** [[Blockchain]] (4), data (2), next (1), [[Microsoft Word|Word]] (1), [[Algorithms]] (1)
 > **Env Vars:** ascii (4), sha (3)
 > **CLI Commands:** brew (2), make (2), find (2)
 > **Definitions:** means that (3), is a  (2), stands for (1)
@@ -1078,7 +1080,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (2), match. (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6), data (5), next (2), [[Cryptocurrency]] (1)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
@@ -1203,8 +1205,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Blockchain]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (2)
-> **Code Keywords:** let (2), new. (1), case, (1)
 > **Definitions:** in other words (1), is called (1), is a  (1), is an  (1)
 > **URLs:** [andrews.com](https://andrews.com) (1)
 > **Cross-References:** go back to (1)
@@ -1277,6 +1279,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cryptocurrency]] (3)
 > **CLI Commands:** find (3)
 > **Definitions:** is called (1), means that (1)
 > **Cross-References:** coming up (1)
@@ -1408,9 +1411,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (9), node (9), power (1), data (1)
 > **CLI Commands:** node (9), make (1)
 > **Definitions:** is a  (3), in other words (1), is called (1)
-> **Code Keywords:** let (3)
 > **Analogies:** just like (1), kind of like (1)
 > **Versions:** 50.000001 (1)
 > **Cross-References:** earlier in (1)
@@ -1480,7 +1483,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (3), case, (2), let (1)
+> **Frameworks & Libraries:** [[Blockchain]] (14), data (8), node (6)
 > **CLI Commands:** node (6)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (1)
@@ -1615,9 +1618,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (11), data (9), next (4), database (2), web (2)
 > **CLI Commands:** make (3), node (1)
 > **Definitions:** we call this (1), in other words (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)

@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20PowerPoint%20Online%20(Microsoft%20365).md)
@@ -48,50 +48,50 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting to know PowerPoint for the web
-  - How to use the exercise files
+  - [Getting to know PowerPoint for the web](#getting-to-know-powerpoint-for-the-web)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Design Your Slides**](#1-design-your-slides) (10 videos)
-  - Create a new presentation in OneDrive
-  - Design slides with the Agenda feature
-  - Work with slide layouts
-  - Insert and update images
-  - Create SmartArt graphics
-  - Apply transitions and animations
-  - Apply a theme to slides
-  - Draw with digital ink on a slide
-  - Duplicate, delete, and hide slides
-  - Switch to the desktop app
+  - [Create a new presentation in OneDrive](#create-a-new-presentation-in-onedrive)
+  - [Design slides with the Agenda feature](#design-slides-with-the-agenda-feature)
+  - [Work with slide layouts](#work-with-slide-layouts)
+  - [Insert and update images](#insert-and-update-images)
+  - [Create SmartArt graphics](#create-smartart-graphics)
+  - [Apply transitions and animations](#apply-transitions-and-animations)
+  - [Apply a theme to slides](#apply-a-theme-to-slides)
+  - [Draw with digital ink on a slide](#draw-with-digital-ink-on-a-slide)
+  - [Duplicate, delete, and hide slides](#duplicate-delete-and-hide-slides)
+  - [Switch to the desktop app](#switch-to-the-desktop-app)
 - [**2. Audio and Video**](#2-audio-and-video) (2 videos)
-  - Dictate slide content
-  - Insert a video
+  - [Dictate slide content](#dictate-slide-content)
+  - [Insert a video](#insert-a-video)
 - [**3. Sharing and Coediting**](#3-sharing-and-coediting) (4 videos)
-  - Share a presentation
-  - Share a link to a slide
-  - Coauthor a presentation
-  - Manage version history
+  - [Share a presentation](#share-a-presentation)
+  - [Share a link to a slide](#share-a-link-to-a-slide)
+  - [Coauthor a presentation](#coauthor-a-presentation)
+  - [Manage version history](#manage-version-history)
 - [**4. Viewing and Printing**](#4-viewing-and-printing) (7 videos)
-  - Add and view slide notes
-  - Print a presentation
-  - Download a presentation
-  - Work with slide views
-  - Enable subtitles in a slide show
-  - Present with Present Live
-  - Present in a Microsoft Teams meeting
+  - [Add and view slide notes](#add-and-view-slide-notes)
+  - [Print a presentation](#print-a-presentation)
+  - [Download a presentation](#download-a-presentation)
+  - [Work with slide views](#work-with-slide-views)
+  - [Enable subtitles in a slide show](#enable-subtitles-in-a-slide-show)
+  - [Present with Present Live](#present-with-present-live)
+  - [Present in a Microsoft Teams meeting](#present-in-a-microsoft-teams-meeting)
 - [**5. Uploading and Saving to Cloud Libraries**](#5-uploading-and-saving-to-cloud-libraries) (3 videos)
-  - Upload a presentation to OneDrive
-  - Create or upload a presentation in Microsoft Teams
-  - Reuse slides from another presentation
+  - [Upload a presentation to OneDrive](#upload-a-presentation-to-onedrive)
+  - [Create or upload a presentation in Microsoft Teams](#create-or-upload-a-presentation-in-microsoft-teams)
+  - [Reuse slides from another presentation](#reuse-slides-from-another-presentation)
 - [**6. PowerPoint Help**](#6-powerpoint-help) (2 videos)
-  - Get assistance with Search
-  - Practice your presentation skills with Presenter Coach
+  - [Get assistance with Search](#get-assistance-with-search)
+  - [Practice your presentation skills with Presenter Coach](#practice-your-presentation-skills-with-presenter-coach)
 - [**7. Working with the Mobile App**](#7-working-with-the-mobile-app) (1 videos)
-  - Work with the iOS PowerPoint app
+  - [Work with the iOS PowerPoint app](#work-with-the-ios-powerpoint-app)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Create more with PowerPoint for the web
+  - [Create more with PowerPoint for the web](#create-more-with-powerpoint-for-the-web)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting to know PowerPoint for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980)
@@ -116,7 +116,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), web (2), [[Microsoft]] (2), [[Microsoft Office|Office]] (1), application (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [heather] (1)
 
@@ -145,6 +145,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1)
 > **Exercise Files:** exercise files (1), download the (1), exercise file (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -152,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Design Your Slides
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new presentation in OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980)
@@ -231,7 +232,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), [[Microsoft Office|Office]] (7), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (1)
 > **UI Navigation:** navigate to (2), go to (2)
 > **URLs:** [office.com](https://office.com) (2)
 > **Cross-References:** later in (1), go back to (1)
@@ -339,7 +340,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this. (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word|Word]] (2), web (1), feature (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** cat (2), find (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** template (1)
@@ -399,7 +400,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -521,7 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), delete (1), this. (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), feature (2), [[Storytelling]] (1), [[Search]] (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (2), dropdown (1)
 > **Analogies:** such as (2)
@@ -603,7 +604,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (3), else, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), next (2), [[Microsoft Office|Office]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** such as (1), for instance (1)
@@ -745,7 +746,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (2), this. (1), case, (1), continue (1)
+> **Frameworks & Libraries:** next (8), [[Microsoft PowerPoint|Powerpoint]] (1), web (1), application (1)
 > **Prerequisites:** set up (3), configure (2)
 > **Cross-References:** go back to (3), earlier in (1)
 > **CLI Commands:** make (2)
@@ -854,7 +855,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -940,7 +941,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (1), switch (1), this, (1), delete (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1), [[OneNote]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** select the (2), go to (1), switch to (1)
 > **Analogies:** such as (1)
@@ -1009,7 +1010,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (5), let (3), this, (1), switch (1)
+> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** right-click (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -1065,14 +1066,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (4), let (1)
+> **Frameworks & Libraries:** web (4), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft 365]] (1), prompt (1), feature (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
 
 ### 2. Audio and Video
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Dictate slide content
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980)
@@ -1167,7 +1168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (4), let (2)
+> **Frameworks & Libraries:** next (6), [[Microsoft Office|Office]] (2), prompt (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1250,7 +1251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), from. (1), this, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), web (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1258,7 +1259,7 @@ created: 2026-04-29
 
 ### 3. Sharing and Coediting
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Share a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980)
@@ -1373,7 +1374,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (2), for. (1), default. (1), switch (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1), web (1)
 > **UI Navigation:** dropdown (1), toggle (1), select the (1), right-click (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
@@ -1402,7 +1403,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), else, (1), from. (1), else. (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
@@ -1458,10 +1459,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), web (2), [[Microsoft Office|Office]] (1), cloud (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Manage version history
@@ -1547,8 +1548,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), next (2), [[Microsoft PowerPoint|Powerpoint]] (1), cloud (1), [[SharePoint]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), delete (1), else, (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** go back to (1)
@@ -1558,7 +1559,7 @@ created: 2026-04-29
 
 ### 4. Viewing and Printing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Add and view slide notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980)
@@ -1621,7 +1622,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (2), this. (1), else, (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), web (2), [[Statistics]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1692,8 +1693,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **UI Navigation:** select the (2), go to (2), scroll down (1)
-> **Code Keywords:** let (2), continue (1), include. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1740,11 +1741,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), cloud (1), [[SharePoint]] (1), next (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** pdf (1), odp (1)
 > **Exercise Files:** exercise files (1), exercise file (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** delete (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1837,7 +1838,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (1)
+> **Frameworks & Libraries:** web (3), [[Microsoft PowerPoint|Powerpoint]] (2), next (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** navigate to (1), go to (1), switch to (1), select the (1)
 > **Speakers:** - [instructor] (2), - [reader] (1)
 > **CLI Commands:** find (1), make (1)
@@ -1908,7 +1909,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), from. (1), this, (1)
+> **Frameworks & Libraries:** next (2)
 > **Prerequisites:** you'll need (1), configure (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
@@ -2025,7 +2026,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), for, (1), case, (1), this, (1), this. (1)
+> **Frameworks & Libraries:** feature (3), [[Microsoft PowerPoint|Powerpoint]] (2), web (2), [[Zoom]] (1), [[Microsoft Teams]] (1)
 > **Cross-References:** go back to (2), earlier in (1), coming up (1)
 > **CLI Commands:** make (3)
 > **Definitions:** known as (2), is a  (1)
@@ -2165,7 +2166,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), this, (1), switch (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (9), teams (6), [[Microsoft Teams]] (5), web (5), [[Windows]] (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** switch to (1), go to (1)
 > **Cross-References:** coming up (1)
@@ -2175,7 +2176,7 @@ created: 2026-04-29
 
 ### 5. Uploading and Saving to Cloud Libraries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Upload a presentation to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980)
@@ -2224,7 +2225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), else, (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), [[Windows]] (2)
 > **UI Navigation:** navigate to (2), drag and drop (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2321,7 +2322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (1), from. (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft PowerPoint|Powerpoint]] (4), teams (3), [[Microsoft Teams]] (1), web (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2377,7 +2378,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), continue (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), web (1), [[Search]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -2385,7 +2386,7 @@ created: 2026-04-29
 
 ### 6. PowerPoint Help
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get assistance with Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980)
@@ -2460,7 +2461,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), continue (3), for, (1), for. (1), from. (1)
+> **Frameworks & Libraries:** [[Search]] (9), [[Microsoft Word|Word]] (5), [[Microsoft Office|Office]] (4), application (3), web (3)
 > **CLI Commands:** find (7), make (2)
 > **Analogies:** picture (5), such as (1)
 > **UI Navigation:** select the (2), open the (1), scroll down (1)
@@ -2575,7 +2576,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), public (2), this. (1), this, (1), default, (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft PowerPoint|Powerpoint]] (2), web (2), feature (2), [[Microsoft Word|Word]] (2)
 > **Ports:** :00 (1), :20 (1), :30 (1)
 > **Versions:** version 52 (2), version 15 (1)
 > **CLI Commands:** find (2)
@@ -2587,7 +2588,7 @@ created: 2026-04-29
 
 ### 7. Working with the Mobile App
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with the iOS PowerPoint app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-the-ios-powerpoint-app?u=76281980)
@@ -2670,8 +2671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (6), [[Microsoft PowerPoint|Powerpoint]] (3), web (2), [[Android]] (1), next (1)
 > **CLI Commands:** make (5), find (2)
-> **Code Keywords:** let (3), from, (1), continue (1), switch (1), delete (1)
 > **Analogies:** picture (6), for instance (1)
 > **UI Navigation:** go to (1), toggle (1), switch to (1)
 > **Definitions:** is a  (2)
@@ -2682,7 +2683,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create more with PowerPoint for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980)
@@ -2703,8 +2704,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Presentation Design]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
-> **Code Keywords:** continue (1), let (1)
 > **Speakers:** - congratulations (1)
 
 

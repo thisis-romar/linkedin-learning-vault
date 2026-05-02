@@ -34,7 +34,7 @@ tags:
   - skill/customer-analysis
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Predictive%20Customer%20Analytics.md)
@@ -53,57 +53,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - The power of predictive analytics
-  - Expectations and course organization
-  - How to use the exercise files
+  - [The power of predictive analytics](#the-power-of-predictive-analytics)
+  - [Expectations and course organization](#expectations-and-course-organization)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
 - [**1. Customer Analytics Overview**](#1-customer-analytics-overview) (6 videos)
-  - The importance of customer analytics
-  - The customer lifecycle
-  - Apply analytics to the customer lifecycle
-  - Sources of customer data
-  - The customer analytics process
-  - Use case: Online computer store
+  - [The importance of customer analytics](#the-importance-of-customer-analytics)
+  - [The customer lifecycle](#the-customer-lifecycle)
+  - [Apply analytics to the customer lifecycle](#apply-analytics-to-the-customer-lifecycle)
+  - [Sources of customer data](#sources-of-customer-data)
+  - [The customer analytics process](#the-customer-analytics-process)
+  - [Use case: Online computer store](#use-case-online-computer-store)
 - [**2. Will You Become My Customer?**](#2-will-you-become-my-customer) (5 videos)
-  - The customer acquisition process
-  - Find high propensity prospects
-  - Recommend best channel for contact
-  - Offer chat based on visitor propensity
-  - Use case: Determine customer propensity
+  - [The customer acquisition process](#the-customer-acquisition-process)
+  - [Find high propensity prospects](#find-high-propensity-prospects)
+  - [Recommend best channel for contact](#recommend-best-channel-for-contact)
+  - [Offer chat based on visitor propensity](#offer-chat-based-on-visitor-propensity)
+  - [Use case: Determine customer propensity](#use-case-determine-customer-propensity)
 - [**3. What Else Are You Interested In?**](#3-what-else-are-you-interested-in) (5 videos)
-  - Upselling and cross-selling
-  - Find items bought together
-  - Create customer group preferences
-  - User-item affinity and recommendations
-  - Use case: Recommend items
+  - [Upselling and cross-selling](#upselling-and-cross-selling)
+  - [Find items bought together](#find-items-bought-together)
+  - [Create customer group preferences](#create-customer-group-preferences)
+  - [User-item affinity and recommendations](#user-item-affinity-and-recommendations)
+  - [Use case: Recommend items](#use-case-recommend-items)
 - [**4. How Much Is Your Future Business Worth?**](#4-how-much-is-your-future-business-worth) (5 videos)
-  - Generate customer loyalty
-  - Create customer value classes
-  - Discover response patterns
-  - Predict customer lifetime value
-  - Use case: Predict CLV
+  - [Generate customer loyalty](#generate-customer-loyalty)
+  - [Create customer value classes](#create-customer-value-classes)
+  - [Discover response patterns](#discover-response-patterns)
+  - [Predict customer lifetime value](#predict-customer-lifetime-value)
+  - [Use case: Predict CLV](#use-case-predict-clv)
 - [**5. Are You Happy with Me?**](#5-are-you-happy-with-me) (5 videos)
-  - Improve customer satisfaction
-  - Predict intent of contact
-  - Find unsatisfied customers
-  - Group problem types
-  - Use case: Group problem types
+  - [Improve customer satisfaction](#improve-customer-satisfaction)
+  - [Predict intent of contact](#predict-intent-of-contact)
+  - [Find unsatisfied customers](#find-unsatisfied-customers)
+  - [Group problem types](#group-problem-types)
+  - [Use case: Group problem types](#use-case-group-problem-types)
 - [**6. Will You Leave Me?**](#6-will-you-leave-me) (5 videos)
-  - Prevent customer attrition
-  - Predict customers who might leave
-  - Find incentives
-  - Discover customer attrition patterns
-  - Use case: Customer patterns
+  - [Prevent customer attrition](#prevent-customer-attrition)
+  - [Predict customers who might leave](#predict-customers-who-might-leave)
+  - [Find incentives](#find-incentives)
+  - [Discover customer attrition patterns](#discover-customer-attrition-patterns)
+  - [Use case: Customer patterns](#use-case-customer-patterns)
 - [**7. Best Practices**](#7-best-practices) (4 videos)
-  - Devise customer analytics processes
-  - Choose the right data
-  - Design data processing pipelines
-  - Implement continuous improvement
+  - [Devise customer analytics processes](#devise-customer-analytics-processes)
+  - [Choose the right data](#choose-the-right-data)
+  - [Design data processing pipelines](#design-data-processing-pipelines)
+  - [Implement continuous improvement](#implement-continuous-improvement)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps and additional resources
+  - [Next steps and additional resources](#next-steps-and-additional-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980)
@@ -134,8 +134,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (2), [[Python (Programming Language)|Python]] (2), business (2), [[Predictive Analytics]] (2), data (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** finally, (1), let (1)
 > **Speakers:** - [kumaran] (1)
 
 #### Expectations and course organization
@@ -163,6 +163,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Predictive Analytics]] (2), data (2), [[Python (Programming Language)|Python]] (2), [[Analytics]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - the (1)
 
@@ -195,9 +196,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), data (1)
 > **CLI Commands:** python (2)
 > **Prerequisites:** set up (1), install (1)
-> **Code Keywords:** let (1)
 > **Versions:** python 3 (1)
 > **Tools:** github (1)
 > **UI Navigation:** open the (1)
@@ -207,7 +208,7 @@ created: 2026-04-29
 
 ### 1. Customer Analytics Overview
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of customer analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980)
@@ -304,8 +305,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), [[Analytics]] (5), product (4), data (4), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (3)
-> **Code Keywords:** switch (3)
 > **Analogies:** imagine (1), such as (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [tutor] (1)
@@ -361,7 +362,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** business (11), product (6), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -419,7 +420,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), self (1), finally, (1)
+> **Frameworks & Libraries:** [[Analytics]] (10), [[Microsoft Products|Products]] (4), product (4), business (3), data (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)
@@ -481,7 +482,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type, (2)
+> **Frameworks & Libraries:** data (8), product (4), [[Analytics]] (3), business (3), web (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -522,9 +523,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Analytics]] (5), business (2), management (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -579,8 +580,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Analytics]] (2), business (2), [[Customer Support]] (1)
 > **Analogies:** imagine (1), analogous to (1)
-> **Code Keywords:** let (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -588,7 +589,7 @@ created: 2026-04-29
 
 ### 2. Will You Become My Customer?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The customer acquisition process
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-acquisition-process?u=76281980)
@@ -615,6 +616,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), product (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -681,7 +683,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1)
+> **Frameworks & Libraries:** data (5), business (2), [[Algorithms]] (2), product (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -738,6 +740,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Algorithms]] (2), [[React.js|React]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - once (1)
@@ -815,7 +818,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case. (2), this, (1), case, (1)
+> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (3), web (2), product (1), [[Probability]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -967,8 +970,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), product (5), feature (5), [[Microsoft Products|Products]] (3), [[Probability]] (3)
 > **Env Vars:** reviews (2), buy (2), faq (1), csv (1), compare_similar_products (1)
-> **Code Keywords:** let (5), case. (1), finally, (1), switch (1), this, (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** naive_bayes (2), train_test_split (1), predict_proba (1)
 > **Cross-References:** we discussed (1), we talked about (1)
@@ -979,7 +982,7 @@ created: 2026-04-29
 
 ### 3. What Else Are You Interested In?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Upselling and cross-selling
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980)
@@ -1070,7 +1073,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), business (3), next (3), product (2), [[Electronics]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -1133,7 +1136,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1), require (1), case, (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (2), data (2), [[Real-Time]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1209,7 +1212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), case. (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (4), business (2), data (2), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1273,6 +1276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), product (4), [[Microsoft Products|Products]] (3), database (3), business (1)
 > **Analogies:** similar to (3), for example (2)
 > **CLI Commands:** find (1), python (1)
 > **Definitions:** is a  (2)
@@ -1346,9 +1350,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (4), product (2)
 > **Versions:** 0.4 (3), 0.2 (1), 0.25 (1)
 > **CLI Commands:** make (2), find (2)
-> **Code Keywords:** let (4)
 > **File Paths:** data-03-05-user-item-rating-data.csv (1)
 > **Code Identifiers:** userids (1)
 > **Cross-References:** go back to (1)
@@ -1358,7 +1362,7 @@ created: 2026-04-29
 
 ### 4. How Much Is Your Future Business Worth?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generate customer loyalty
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/generate-customer-loyalty?u=76281980)
@@ -1417,9 +1421,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), next (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1466,7 +1470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), class, (1)
+> **Frameworks & Libraries:** business (5), management (2), [[Electronics]] (2), data (2), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1518,8 +1522,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (3), business (2), product (1), [[k-means clustering]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1578,8 +1582,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), business (3), next (2), [[Predictive Analytics]] (1), feature (1)
 > **Env Vars:** clv (11)
-> **Code Keywords:** this. (1), pass (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
@@ -1658,9 +1662,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Linear Regression]] (4), business (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** clv (7), csv (1)
 > **CLI Commands:** python (1), make (1)
-> **Code Keywords:** let (1), require (1)
 > **File Paths:** data-04-05-customer-lifetime-value.csv (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1668,7 +1672,7 @@ created: 2026-04-29
 
 ### 5. Are You Happy with Me?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve customer satisfaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980)
@@ -1725,7 +1729,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (4), let (1)
+> **Frameworks & Libraries:** business (3), [[Automation]] (2), [[Microsoft Office|Office]] (1), prompt (1), next (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (2)
 > **Definitions:** is an  (1)
@@ -1793,7 +1797,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (6), [[Customer Support]] (4), data (3), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **Env Vars:** ivr (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -1854,8 +1858,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), business (2), [[Microsoft Products|Products]] (2), [[Linear Regression]] (2), product (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** case, (1), this. (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1910,8 +1914,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), [[Technical Support]] (2), business (2), teams (1), [[Statistics]] (1)
 > **CLI Commands:** find (2), make (1), python (1)
-> **Code Keywords:** require (1), case. (1), type. (1), self (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -1983,8 +1987,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), product (2), [[Python (Programming Language)|Python]] (1), next (1)
 > **CLI Commands:** make (3), python (1), find (1)
-> **Code Keywords:** let (2), type, (1), type. (1), self (1)
 > **Env Vars:** csv (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
@@ -1993,7 +1997,7 @@ created: 2026-04-29
 
 ### 6. Will You Leave Me?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Prevent customer attrition
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/prevent-customer-attrition?u=76281980)
@@ -2044,7 +2048,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (1), [[Analytics]] (1)
 > **Speakers:** - roger (1)
 
 #### Predict customers who might leave
@@ -2090,8 +2094,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (1), feature (1), [[Algorithms]] (1), [[Probability]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this, (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
 
@@ -2152,8 +2156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), data (2), [[React.js|React]] (1), business (1), [[k-means clustering]] (1)
 > **CLI Commands:** find (3)
-> **Code Keywords:** case. (1), this. (1)
 > **Speakers:** - roger (1)
 
 #### Discover customer attrition patterns
@@ -2203,8 +2207,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), business (2), feature (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** this. (1)
 > **Env Vars:** arm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2319,7 +2323,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), finally, (1)
+> **Frameworks & Libraries:** data (14), next (3), business (1), [[Python (Programming Language)|Python]] (1), [[Customer Support]] (1)
 > **Env Vars:** csv (3)
 > **File Paths:** warranty-contract-attrition.csv (1), warranty-basket.csv (1)
 > **CLI Commands:** make (1), python (1)
@@ -2328,7 +2332,7 @@ created: 2026-04-29
 
 ### 7. Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Devise customer analytics processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980)
@@ -2379,6 +2383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Analytics]] (1), [[Simulation]] (1), product (1)
 > **Speakers:** - [narrator] (1)
 
 #### Choose the right data
@@ -2420,7 +2425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), require (1)
+> **Frameworks & Libraries:** data (15), [[Predictive Analytics]] (2), business (1), [[Analytics]] (1), web (1)
 > **Speakers:** - [instructor] (1)
 
 #### Design data processing pipelines
@@ -2460,6 +2465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (14), [[Analytics]] (2), business (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -2504,13 +2510,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), [[Predictive Analytics]] (2), product (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - things (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980)
@@ -2543,8 +2550,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Analytics]] (2), data (2), business (1), [[Big Data]] (1), [[Apache Spark]] (1)
 > **CLI Commands:** apache (2), find (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kumaran] (1)
 

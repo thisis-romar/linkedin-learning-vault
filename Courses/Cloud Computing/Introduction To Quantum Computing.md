@@ -25,7 +25,7 @@ tags:
   - topic/security
   - skill/quantum-computing
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20To%20Quantum%20Computing.md)
@@ -44,31 +44,31 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - A new era of computing is emerging
+  - [A new era of computing is emerging](#a-new-era-of-computing-is-emerging)
 - [**1. Understanding Classical Computing**](#1-understanding-classical-computing) (4 videos)
-  - The current computing age
-  - A brief history of the third industrial revolution
-  - A simple explanation of classical computing
-  - Drivers of the next generation of computing
+  - [The current computing age](#the-current-computing-age)
+  - [A brief history of the third industrial revolution](#a-brief-history-of-the-third-industrial-revolution)
+  - [A simple explanation of classical computing](#a-simple-explanation-of-classical-computing)
+  - [Drivers of the next generation of computing](#drivers-of-the-next-generation-of-computing)
 - [**2. What Is Quantum Computing?**](#2-what-is-quantum-computing) (5 videos)
-  - What exactly is this quantum stuff?
-  - A brief timeline of quantum research to date
-  - What is quantum computing?
-  - Superposition: The core idea in quantum computing
-  - Entanglement and other fun concepts
+  - [What exactly is this quantum stuff?](#what-exactly-is-this-quantum-stuff)
+  - [A brief timeline of quantum research to date](#a-brief-timeline-of-quantum-research-to-date)
+  - [What is quantum computing?](#what-is-quantum-computing)
+  - [Superposition: The core idea in quantum computing](#superposition-the-core-idea-in-quantum-computing)
+  - [Entanglement and other fun concepts](#entanglement-and-other-fun-concepts)
 - [**3. Applications of Quantum Computing**](#3-applications-of-quantum-computing) (3 videos)
-  - The current state of quantum computing research
-  - Examples of quantum computing implementations
-  - Quantum computing applications now and in the future
+  - [The current state of quantum computing research](#the-current-state-of-quantum-computing-research)
+  - [Examples of quantum computing implementations](#examples-of-quantum-computing-implementations)
+  - [Quantum computing applications now and in the future](#quantum-computing-applications-now-and-in-the-future)
 - [**4. Opportunities and Risks of Quantum Computing**](#4-opportunities-and-risks-of-quantum-computing) (2 videos)
-  - Opportunities for enterprises and individuals
-  - Quantum computing in the fourth industrial revolution
+  - [Opportunities for enterprises and individuals](#opportunities-for-enterprises-and-individuals)
+  - [Quantum computing in the fourth industrial revolution](#quantum-computing-in-the-fourth-industrial-revolution)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Final thoughts and next steps
+  - [Final thoughts and next steps](#final-thoughts-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### A new era of computing is emerging
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-new-era-of-computing-is-emerging?u=76281980)
@@ -117,8 +117,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (4), power (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** finally, (1)
 > **Code Identifiers:** fundamentals (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
@@ -127,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Understanding Classical Computing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The current computing age
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980)
@@ -196,7 +196,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), case, (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Privacy]] (1), [[Ethics]] (1), data (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crispr (1)
 > **Analogies:** such as (1)
@@ -277,6 +277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (4), [[Telecommunications]] (1), [[Electronics]] (1), web (1), [[Hardware]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -405,7 +406,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** switch (8), let (4), this, (1), static (1), function (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (1), power (1), next (1)
 > **Definitions:** is a  (4), is called (2), is an  (1)
 > **Tools:** atom (3)
 > **Analogies:** for example (3)
@@ -511,7 +512,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), pass (1), require (1), public (1), this. (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (4), [[Cybersecurity]] (3), next (2), power (2), data (2)
 > **Analogies:** such as (1), imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
@@ -519,7 +520,7 @@ created: 2026-04-29
 
 ### 2. What Is Quantum Computing?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What exactly is this quantum stuff?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980)
@@ -614,8 +615,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (3), [[Probability]] (1)
 > **Analogies:** for example (2), such as (1)
-> **Code Keywords:** let (1), this, (1)
 > **Tools:** atom (2)
 > **Definitions:** known as (2)
 > **Prerequisites:** prerequisite (1)
@@ -696,8 +697,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (7), product (1)
 > **Definitions:** known as (1), is a  (1), is called (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - given (1)
 
@@ -816,8 +817,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (7), next (1), [[Google]] (1), [[Algorithms]] (1), power (1)
 > **CLI Commands:** cat (8)
-> **Code Keywords:** let (3), pass (1), require (1), function (1)
 > **Definitions:** is a  (2), is called (2), in other words (1)
 > **Speakers:** - after (1), - yeah (1), - the (1), - so (1), - note (1)
 > **Analogies:** imagine (2)
@@ -922,8 +923,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Quantum Computing]] (3), [[Representational State Transfer (REST)|Rest]] (1), parallel (1)
 > **Speakers:** - so (2), - we (1), - a (1)
-> **Code Keywords:** let (1), this, (1), finally, (1)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
 > **Definitions:** is called (1)
@@ -1057,7 +1058,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), abstract (1), function (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Quantum Computing]] (1), power (1), parallel (1), [[Microsoft]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (1), is called (1), is an  (1)
 > **Speakers:** - entanglement (1), - when (1), - you (1)
@@ -1065,7 +1066,7 @@ created: 2026-04-29
 
 ### 3. Applications of Quantum Computing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The current state of quantum computing research
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980)
@@ -1152,10 +1153,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (3), [[Programming]] (2), strengths (1), [[Microsoft]] (1), [[Windows]] (1)
 > **Speakers:** - by (1), - taking (1), - [man (1), - quantum (1), - while (1)
 > **Definitions:** means that (2), is a  (1), in other words (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 
 #### Examples of quantum computing implementations
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980)
@@ -1256,8 +1257,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (11), [[Microsoft]] (3), [[Hardware]] (3), [[Google]] (2), [[Security]] (2)
 > **Env Vars:** ibm (5), aws (1)
-> **Code Keywords:** public (2), let (1), interface (1), require (1)
 > **Speakers:** - for (1), - i (1), - more (1)
 > **CLI Commands:** python (1), aws (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1340,8 +1341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (3), management (1), [[Google]] (1), power (1), [[Routing]] (1)
 > **Speakers:** - how (1), - quantum (1), - [instructor] (1), - my (1), - there (1)
-> **Code Keywords:** let (2), for, (1), this. (1), require (1)
 > **Env Vars:** erp (1), crm (1), nasa (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
@@ -1350,7 +1351,7 @@ created: 2026-04-29
 
 ### 4. Opportunities and Risks of Quantum Computing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Opportunities for enterprises and individuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980)
@@ -1441,10 +1442,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (8), business (5), cloud (3), next (2), [[Linear Algebra]] (1)
 > **Speakers:** - if (1), - one (1), - it (1), - [instructor] (1), - so (1)
 > **Env Vars:** gpu (2), fpga (2), cpu (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1), this, (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1581,7 +1582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1), finally, (1), super (1), require (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (8), [[Blockchain]] (5), [[Cryptography]] (4), ai (3), database (3)
 > **Speakers:** - you (2), - this (1), - finally (1), - the (1), - yeah (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
@@ -1590,7 +1591,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980)
@@ -1677,8 +1678,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Quantum Computing]] (5), next (1), [[Security]] (1), cloud (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Tools:** notion (1)
 > **Definitions:** is an  (1)

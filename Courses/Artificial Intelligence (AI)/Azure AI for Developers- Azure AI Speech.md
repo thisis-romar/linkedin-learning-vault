@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Azure%20AI%20Speech.md)
@@ -52,35 +52,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - What this course is about
-  - What you should know
+  - [What this course is about](#what-this-course-is-about)
+  - [What you should know](#what-you-should-know)
 - [**1. Azure Speech in Action: Common Use Cases**](#1-azure-speech-in-action-common-use-cases) (1 videos)
-  - Common scenarios for Azure AI Speech
+  - [Common scenarios for Azure AI Speech](#common-scenarios-for-azure-ai-speech)
 - [**2. Speech to Text and Transcription**](#2-speech-to-text-and-transcription) (5 videos)
-  - How speech to text works
-  - Transcription
-  - Customizing speech to text
-  - Choosing between the OpenAI Whisper and Azure Speech models
-  - Speech translation
+  - [How speech to text works](#how-speech-to-text-works)
+  - [Transcription](#transcription)
+  - [Customizing speech to text](#customizing-speech-to-text)
+  - [Choosing between the OpenAI Whisper and Azure Speech models](#choosing-between-the-openai-whisper-and-azure-speech-models)
+  - [Speech translation](#speech-translation)
 - [**3. Text to Speech**](#3-text-to-speech) (3 videos)
-  - Text to speech: Azure Voice Gallery
-  - Audio content creation
-  - Custom voices
+  - [Text to speech: Azure Voice Gallery](#text-to-speech-azure-voice-gallery)
+  - [Audio content creation](#audio-content-creation)
+  - [Custom voices](#custom-voices)
 - [**4. Avatars**](#4-avatars) (3 videos)
-  - Combining speech with avatars
-  - Building custom avatars
-  - Live chat avatars
+  - [Combining speech with avatars](#combining-speech-with-avatars)
+  - [Building custom avatars](#building-custom-avatars)
+  - [Live chat avatars](#live-chat-avatars)
 - [**5. Advanced Speech Capabilities**](#5-advanced-speech-capabilities) (4 videos)
-  - Video translation
-  - Pronunciation assessment
-  - Using Azure Content Understanding for audio and video
-  - Azure Speech vs. real-time LLMs
+  - [Video translation](#video-translation)
+  - [Pronunciation assessment](#pronunciation-assessment)
+  - [Using Azure Content Understanding for audio and video](#using-azure-content-understanding-for-audio-and-video)
+  - [Azure Speech vs. real-time LLMs](#azure-speech-vs-real-time-llms)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More resources on Azure Speech
+  - [More resources on Azure Speech](#more-resources-on-azure-speech)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What this course is about
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980)
@@ -107,7 +107,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this. (1)
+> **Frameworks & Libraries:** ai (7), [[Microsoft Azure|Azure]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **Speakers:** - the (1), - all (1)
 > **CLI Commands:** make (1)
 
@@ -146,8 +146,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), ai (5), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** let (2)
 > **Tools:** azure portal (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -155,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Azure Speech in Action: Common Use Cases
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Common scenarios for Azure AI Speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980)
@@ -222,8 +222,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (4), [[Real-Time]] (2), [[Microsoft]] (1), [[Microsoft Teams]] (1)
 > **Speakers:** - [narrator] (5), - welcome (1), - when (1), - [customer (1), - [mary] (1)
-> **Code Keywords:** let (1), finally, (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Non-Speech:** (mouse clicking) (2)
 > **CLI Commands:** find (1)
@@ -234,7 +234,7 @@ created: 2026-04-29
 
 ### 2. Speech to Text and Transcription
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### How speech to text works
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/how-speech-to-text-works?u=76281980)
@@ -251,7 +251,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Real-Time]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Transcription
@@ -409,8 +409,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (7), [[LinkedIn]] (6), [[Python (Programming Language)|Python]] (6), [[Microsoft Azure|Azure]] (5), ai (4)
 > **CLI Commands:** python (6), find (4), make (2)
-> **Code Keywords:** let (5), from. (1), switch (1), case, (1), finally, (1)
 > **Prerequisites:** set up (6), install (2), you'll need (1)
 > **Tools:** github (4), vs code (2), powershell (1)
 > **Definitions:** is called (3), is a  (2)
@@ -529,9 +529,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Microsoft Word|Word]] (4), ai (2), [[Microsoft Azure|Azure]] (1), [[Speech Recognition]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (2)
-> **Code Keywords:** while, (1), require (1)
 > **Env Vars:** sdk (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -583,8 +583,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), data (2), [[Microsoft Word|Word]] (2), [[Real-Time]] (1), ai (1)
 > **Cross-References:** as we saw (2), in the last (1)
-> **Code Keywords:** let (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -645,7 +645,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), let (1), this. (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Microsoft Azure|Azure]] (1), ai (1), [[Azure AI Foundry]] (1), [[LinkedIn]] (1)
 > **Tools:** vs code (1), command line (1)
 > **Speakers:** - [narrator] (2)
 > **File Paths:** translation_sample.py (1)
@@ -657,7 +657,7 @@ created: 2026-04-29
 
 ### 3. Text to Speech
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Text to speech: Azure Voice Gallery
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980)
@@ -744,9 +744,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[CLI]] (5), ai (4), [[LinkedIn]] (3), [[Microsoft]] (2)
 > **Speakers:** - [instructor] (5), - [ava] (2), - [brian] (1), - [samuel] (1)
 > **Env Vars:** cli (5), spx (2), net (1)
-> **Code Keywords:** let (4), switch (1), this. (1), interface (1)
 > **Tools:** powershell (2), command line (1), command prompt (1)
 > **CLI Commands:** make (2), dotnet (1)
 > **Prerequisites:** you'll need (1), install (1)
@@ -824,10 +824,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Content Creation]] (3), [[LinkedIn]] (3), [[Microsoft Azure|Azure]] (2), ai (2), functional (1)
 > **Env Vars:** ssml (8), gpt (2), gps (1), cli (1)
 > **Speakers:** - [narrator] (5), - [navigator] (2), - [jenny] (1), - [marco] (1), - [computer] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (2)
 > **Analogies:** imagine (1), picture (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Definitions:** is a  (1)
@@ -993,7 +993,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2), this. (2), public (1), case, (1)
+> **Frameworks & Libraries:** data (9), [[Microsoft Azure|Azure]] (4), ai (4), [[Responsible AI]] (2), [[Microsoft]] (2)
 > **CLI Commands:** make (5), find (3)
 > **Speakers:** - [instructor] (4), - [custom (1), - [personal (1), - [synthesized (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1003,7 +1003,7 @@ created: 2026-04-29
 
 ### 4. Avatars
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Combining speech with avatars
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980)
@@ -1062,11 +1062,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), ai (2), [[LinkedIn]] (2), [[Customer Support]] (1), [[GPT-4]] (1)
 > **Speakers:** - [instructor] (5), - hello (2), - now (1), - avatars (1)
 > **Env Vars:** ssml (4), gpt (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (1), similar to (1)
-> **Code Keywords:** case, (1)
 > **Cross-References:** earlier in (1)
 > **Documentation:** the documentation (1)
 
@@ -1113,8 +1113,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), data (1), [[Real-Time]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (1), interface (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
@@ -1146,6 +1146,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[HTML]] (2), ai (1), [[Python (Programming Language)|Python]] (1), application (1)
 > **Speakers:** - [instructor] (3), - you (1), - one (1)
 > **CLI Commands:** find (2), python (1)
 > **File Paths:** chat.html (1), chat.py (1)
@@ -1157,7 +1158,7 @@ created: 2026-04-29
 
 ### 5. Advanced Speech Capabilities
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Video translation
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/video-translation?u=76281980)
@@ -1214,8 +1215,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (3), teams (1)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** let (2), default, (1)
 > **Speakers:** - now (1)
 
 #### Pronunciation assessment
@@ -1257,7 +1258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Microsoft Word|Word]] (1), hit (1), [[Java]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sdk (1)
 > **Cross-References:** earlier in (1)
@@ -1344,9 +1345,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Microsoft Azure|Azure]] (5), api (3), data (2), web (1)
 > **Speakers:** - [ai (3), - [client] (3), - [instructor] (2)
 > **Env Vars:** api (3), json (1)
-> **Code Keywords:** let (2), interface (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** sample code (2)
 > **CLI Commands:** python (1)
@@ -1404,8 +1405,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Real-Time]] (8), ai (7), [[Microsoft Azure|Azure]] (5), [[Azure AI Foundry]] (2), [[Microsoft]] (2)
 > **Speakers:** - [instructor] (3), - [ai] (2)
-> **Code Keywords:** let (3), this. (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (2)
 > **Versions:** 2024.12.17 (1)
@@ -1413,7 +1414,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More resources on Azure Speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980)
@@ -1452,11 +1453,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (5), [[GitHub Copilot]] (3), [[Azure AI Foundry]] (2), [[Microsoft]] (2)
 > **Tools:** github (4)
 > **CLI Commands:** find (2), python (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (2), [azure.com](https://azure.com) (1)
 > **Exercise Files:** sample code (3)
-> **Code Keywords:** let (1), finally, (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

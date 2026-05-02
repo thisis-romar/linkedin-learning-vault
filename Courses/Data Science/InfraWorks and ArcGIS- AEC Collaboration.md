@@ -28,7 +28,7 @@ tags:
   - skill/arcgis-products
   - skill/autodesk-infraworks
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/InfraWorks%20and%20ArcGIS-%20AEC%20Collaboration.md)
@@ -47,53 +47,53 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - AEC collaboration with InfraWorks and ArcGIS Online
-  - Using the exercise files 
-  - What you need to know
+  - [AEC collaboration with InfraWorks and ArcGIS Online](#aec-collaboration-with-infraworks-and-arcgis-online)
+  - [Using the exercise files ](#using-the-exercise-files)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Setting up ArcGIS Online**](#1-setting-up-arcgis-online) (7 videos)
-  - Introduction to ArcGIS Online
-  - Log in and explore the interface
-  - Setting up your organization
-  - Setting up the home page and security
-  - Adding and administering a new member
-  - Creating a new group
-  - Accepting an invitation from an ArcGIS Online organization
+  - [Introduction to ArcGIS Online](#introduction-to-arcgis-online)
+  - [Log in and explore the interface](#log-in-and-explore-the-interface)
+  - [Setting up your organization](#setting-up-your-organization)
+  - [Setting up the home page and security](#setting-up-the-home-page-and-security)
+  - [Adding and administering a new member](#adding-and-administering-a-new-member)
+  - [Creating a new group](#creating-a-new-group)
+  - [Accepting an invitation from an ArcGIS Online organization](#accepting-an-invitation-from-an-arcgis-online-organization)
 - [**2. Adding Data to ArcGIS Online**](#2-adding-data-to-arcgis-online) (3 videos)
-  - Adding content
-  - Sharing data with people and groups
-  - Adding data for download
+  - [Adding content](#adding-content)
+  - [Sharing data with people and groups](#sharing-data-with-people-and-groups)
+  - [Adding data for download](#adding-data-for-download)
 - [**3. Working with ArcGIS Online Data within InfraWorks**](#3-working-with-arcgis-online-data-within-infraworks) (9 videos)
-  - Adding ArcGIS data sources to the model
-  - Configuring ArcGIS Online layers within InfraWorks
-  - Theming ArcGIS Online layers within InfraWorks
-  - Good to know: Tips and tricks for editing ArcGIS Online data within InfraWorks
-  - Ensuring ArcGIS data is ready for editing within InfraWorks
-  - Viewing data changes made by InfraWorks within ArcGIS Online
-  - Downloading image files from ArcGIS Online
-  - Using image files from ArcGIS Online
-  - Good to know: Tips and tricks for managing ArcGIS Online data within InfraWorks
+  - [Adding ArcGIS data sources to the model](#adding-arcgis-data-sources-to-the-model)
+  - [Configuring ArcGIS Online layers within InfraWorks](#configuring-arcgis-online-layers-within-infraworks)
+  - [Theming ArcGIS Online layers within InfraWorks](#theming-arcgis-online-layers-within-infraworks)
+  - [Good to know: Tips and tricks for editing ArcGIS Online data within InfraWorks](#good-to-know-tips-and-tricks-for-editing-arcgis-online-data-within-infraworks)
+  - [Ensuring ArcGIS data is ready for editing within InfraWorks](#ensuring-arcgis-data-is-ready-for-editing-within-infraworks)
+  - [Viewing data changes made by InfraWorks within ArcGIS Online](#viewing-data-changes-made-by-infraworks-within-arcgis-online)
+  - [Downloading image files from ArcGIS Online](#downloading-image-files-from-arcgis-online)
+  - [Using image files from ArcGIS Online](#using-image-files-from-arcgis-online)
+  - [Good to know: Tips and tricks for managing ArcGIS Online data within InfraWorks](#good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks)
 - [**4. Creating Content for Publication Back to ArcGIS Online**](#4-creating-content-for-publication-back-to-arcgis-online) (3 videos)
-  - Creating and preparing InfraWorks data for publishing to ArcGIS Online
-  - Publishing InfraWorks data to ArcGIS Online
-  - Publishing InfraWorks data to a feature geodatabase
+  - [Creating and preparing InfraWorks data for publishing to ArcGIS Online](#creating-and-preparing-infraworks-data-for-publishing-to-arcgis-online)
+  - [Publishing InfraWorks data to ArcGIS Online](#publishing-infraworks-data-to-arcgis-online)
+  - [Publishing InfraWorks data to a feature geodatabase](#publishing-infraworks-data-to-a-feature-geodatabase)
 - [**5. Viewing and Consuming Content Published from InfraWorks in ArcGIS Online**](#5-viewing-and-consuming-content-published-from-infraworks-in-arcgis-online) (4 videos)
-  - Adding published content to a web scene
-  - Configuring content in a web scene
-  - Configuring slides (or bookmarks) in a web scene
-  - Creating a web application to showcase published data
+  - [Adding published content to a web scene](#adding-published-content-to-a-web-scene)
+  - [Configuring content in a web scene](#configuring-content-in-a-web-scene)
+  - [Configuring slides (or bookmarks) in a web scene](#configuring-slides-or-bookmarks-in-a-web-scene)
+  - [Creating a web application to showcase published data](#creating-a-web-application-to-showcase-published-data)
 - [**6. Create Content for Use in Field Data Collection and InfraWorks**](#6-create-content-for-use-in-field-data-collection-and-infraworks) (2 videos)
-  - Creating a feature layer
-  - Add feature layer to a relevant web map
+  - [Creating a feature layer](#creating-a-feature-layer)
+  - [Add feature layer to a relevant web map](#add-feature-layer-to-a-relevant-web-map)
 - [**7. Using a Web App for Collecting Data in the Field via Mobile Devices**](#7-using-a-web-app-for-collecting-data-in-the-field-via-mobile-devices) (3 videos)
-  - Installing the Collector app
-  - Using the app to collect data
-  - Add the collected data to the InfraWorks model and change and sync data across all applications
+  - [Installing the Collector app](#installing-the-collector-app)
+  - [Using the app to collect data](#using-the-app-to-collect-data)
+  - [Add the collected data to the InfraWorks model and change and sync data across all applications](#add-the-collected-data-to-the-infraworks-model-and-change-and-sync-data-across-all-applications)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AEC collaboration with InfraWorks and ArcGIS Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/aec-collaboration-with-infraworks-and-arcgis-online?u=76281980)
@@ -118,8 +118,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** gis (3), data (3), [[Autodesk InfraWorks]] (1), management (1)
 > **Env Vars:** cad (3), gis (3), bim (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [lynda] (1)
@@ -149,6 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** unzip (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -244,7 +245,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** [[Autodesk InfraWorks]] (4), gis (2), data (2), [[AutoCAD]] (2), [[AEC]] (1)
 > **Env Vars:** gis (2), aec (1)
 > **Prerequisites:** install (3)
 > **Versions:** 2020.1 (1)
@@ -254,7 +255,7 @@ created: 2026-04-29
 
 ### 1. Setting up ArcGIS Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ArcGIS Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980)
@@ -323,7 +324,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (1), else. (1)
+> **Frameworks & Libraries:** hit (3), [[Security]] (2), [[AEC]] (1), [[Privacy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** aec (1)
 > **Speakers:** - [narrator] (1)
@@ -435,8 +436,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), [[Security]] (1), [[Microsoft Word|Word]] (1), gis (1), data (1)
 > **Prerequisites:** set up (7), configure (2), setup (1)
-> **Code Keywords:** private (1), while. (1), let (1), interface (1), continue (1)
 > **Env Vars:** oggis5678 (1), url (1), gis (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -583,8 +584,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), next (2), [[Security]] (1), gis (1), [[Zoom]] (1)
 > **Env Vars:** url (7), bim (5), gis (1)
-> **Code Keywords:** default, (3), this, (2), continue (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), basically means (1), means that (1)
 > **UI Navigation:** click on (1), scroll down (1), navigate to (1)
@@ -729,12 +730,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (9), gis (3), [[Search]] (3), next (2), data (1)
 > **Env Vars:** http (6), https (5), gis (3), bim (2), url (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is an  (2), is a  (1), means that (1)
 > **Warnings:** warning (3)
 > **UI Navigation:** click on (1), go to (1)
-> **Code Keywords:** continue (1)
 > **Code Identifiers:** play_concept_update (1)
 > **Cross-References:** go back to (1)
 
@@ -845,8 +846,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), next (6), gis (2), [[Security]] (1), cloud (1)
 > **Prerequisites:** set up (5)
-> **Code Keywords:** type, (2), type. (1), let (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gis (2)
@@ -1008,8 +1009,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), next (4), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Slack]] (1)
 > **CLI Commands:** make (7), find (1)
-> **Code Keywords:** public (2), private (2), let (2), delete (1), default, (1)
 > **Definitions:** means that (4), is a  (3)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (2)
@@ -1068,6 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[Security]] (2), next (1), data (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** bim (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1077,7 +1079,7 @@ created: 2026-04-29
 
 ### 2. Adding Data to ArcGIS Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding content
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980)
@@ -1240,9 +1242,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7), feature (5), hit (4), next (3), web (3)
 > **UI Navigation:** click on (6), checkbox (1), go to (1)
 > **Env Vars:** gis (2), bcp (2), url (1), kml (1), qgis (1)
-> **Code Keywords:** let (2), case, (1), from, (1), new. (1), continue (1)
 > **Exercise Files:** zip file (3), template (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
@@ -1326,9 +1328,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (14), hit (6), feature (1)
 > **UI Navigation:** click on (3), checkbox (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), let (1)
 > **Env Vars:** bcp (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
@@ -1406,8 +1408,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (3), data (2), gis (2), feature (2), [[ArcGIS Pro]] (1)
 > **UI Navigation:** click on (2), go to (1)
-> **Code Keywords:** let (2)
 > **Env Vars:** gis (2)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
@@ -1417,7 +1419,7 @@ created: 2026-04-29
 
 ### 3. Working with ArcGIS Online Data within InfraWorks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding ArcGIS data sources to the model
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980)
@@ -1550,7 +1552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (2), this, (1), public (1)
+> **Frameworks & Libraries:** data (8), hit (3), [[Search]] (3), next (2), feature (2)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Analogies:** for example (2)
@@ -1632,9 +1634,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (5), next (2), data (2), [[Zoom]] (1)
 > **Prerequisites:** configure (5)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1698,8 +1700,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), feature (1), hit (1), next (1)
 > **UI Navigation:** click on (3), scroll down (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1790,7 +1792,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (7), let (3), this, (1), this. (1), switch (1)
+> **Frameworks & Libraries:** data (5), hit (5), feature (3), gis (1), next (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (4)
 > **Prerequisites:** set up (1), before we start (1), setup (1)
@@ -1876,7 +1878,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), public (1), continue (1)
+> **Frameworks & Libraries:** feature (2), [[Representational State Transfer (REST)|Rest]] (2), data (2), web (1), next (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** set up (1)
@@ -1959,7 +1961,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (10), let (2), this, (1)
+> **Frameworks & Libraries:** data (2), gis (2), hit (2), next (2), [[Zoom]] (1)
 > **UI Navigation:** click on (6), scroll down (2), go to (1), open the (1)
 > **Env Vars:** gis (2), del (1)
 > **Cross-References:** go back to (1)
@@ -2022,6 +2024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), data (3), [[Zoom]] (1), application (1), [[Security]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** we mentioned (1), go back to (1)
@@ -2123,7 +2126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), type, (1), this. (1), else, (1), require (1)
+> **Frameworks & Libraries:** [[Zoom]] (9), hit (5), data (3), next (1)
 > **UI Navigation:** double-click (6), right-click (3), click on (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (2), is a  (1)
@@ -2252,8 +2255,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (19), feature (3), [[JSON]] (3), [[Metadata]] (1), next (1)
 > **UI Navigation:** go to (8), click on (2), open the (1), scroll down (1)
-> **Code Keywords:** let (5), this, (3), delete (2), this. (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** be aware (1), note that (1)
@@ -2264,7 +2267,7 @@ created: 2026-04-29
 
 ### 4. Creating Content for Publication Back to ArcGIS Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and preparing InfraWorks data for publishing to ArcGIS Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-and-preparing-infraworks-data-for-publishing-to-arcgis-online?u=76281980)
@@ -2381,7 +2384,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (2), export, (1)
+> **Frameworks & Libraries:** hit (5), data (2), feature (2)
 > **UI Navigation:** go to (2), switch to (1), click on (1)
 > **Exercise Files:** zip file (3)
 > **Analogies:** for example (2)
@@ -2505,9 +2508,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (7), next (3), feature (3), data (1), [[Zoom]] (1)
 > **Code Identifiers:** arcgis (10)
 > **CLI Commands:** make (3)
-> **Code Keywords:** else. (1), delete (1), export. (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** pois (1)
 > **Prerequisites:** you need to have (1)
@@ -2554,7 +2557,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), default, (1)
+> **Frameworks & Libraries:** data (2), hit (2), [[ArcGIS Pro]] (1), gis (1), [[Autodesk InfraWorks]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gis (1)
 > **Definitions:** is a  (1)
@@ -2564,7 +2567,7 @@ created: 2026-04-29
 
 ### 5. Viewing and Consuming Content Published from InfraWorks in ArcGIS Online
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding published content to a web scene
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980)
@@ -2739,7 +2742,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (13), else. (1), case, (1), abstract (1)
+> **Frameworks & Libraries:** hit (10), feature (3), web (3), next (1), [[Zoom]] (1)
 > **UI Navigation:** click on (5), open the (1), go to (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** bcp (2)
@@ -2847,8 +2850,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (6), [[Zoom]] (2)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (6)
 > **UI Navigation:** go to (2), click on (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
@@ -2895,7 +2898,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), switch (1)
+> **Frameworks & Libraries:** web (3), web application (2), hit (2), next (1), data (1)
 > **UI Navigation:** navigate to (2)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** bcp (1)
@@ -3091,7 +3094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), switch (2), type. (1), delete (1)
+> **Frameworks & Libraries:** web (17), hit (10), application (7), data (6), web application (5)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (2)
@@ -3103,7 +3106,7 @@ created: 2026-04-29
 
 ### 6. Create Content for Use in Field Data Collection and InfraWorks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a feature layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980)
@@ -3258,7 +3261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (3), delete (2), this. (1), let (1), else, (1)
+> **Frameworks & Libraries:** data (14), next (5), feature (4), hit (3), management (1)
 > **CLI Commands:** make (5)
 > **Exercise Files:** template (4), zip file (1)
 > **Definitions:** is an  (2), is a  (2)
@@ -3384,8 +3387,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (10), application (2), web (2), data (1)
 > **CLI Commands:** make (5)
-> **Code Keywords:** let (5)
 > **UI Navigation:** click on (3), navigate to (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -3393,7 +3396,7 @@ created: 2026-04-29
 
 ### 7. Using a Web App for Collecting Data in the Field via Mobile Devices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing the Collector app
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980)
@@ -3456,8 +3459,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (4), application (3), web (2), [[Search]] (2), [[Zoom]] (2)
 > **UI Navigation:** click on (5)
-> **Code Keywords:** let (2), continue (1), this, (1)
 > **Prerequisites:** install (2), set up (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** ios (1)
@@ -3518,7 +3521,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), web (1)
 > **UI Navigation:** switch to (1), click on (1)
 > **Speakers:** - [lynda] (1)
 
@@ -3585,7 +3588,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5)
+> **Frameworks & Libraries:** [[Zoom]] (2), data (1), hit (1), application (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** bim (1)
 > **Speakers:** - [narrator] (1)
@@ -3593,7 +3596,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/next-steps?u=76281980)
@@ -3612,6 +3615,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), gis (1), [[LinkedIn]] (1)
 > **Env Vars:** cad (1), gis (1), bim (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [lynda] (1)

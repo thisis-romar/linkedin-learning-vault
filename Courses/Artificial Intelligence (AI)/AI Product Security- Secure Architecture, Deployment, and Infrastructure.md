@@ -36,7 +36,7 @@ tags:
   - skill/ai-security
   - skill/security-architecture-design
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Secure%20Architecture%2C%20Deployment%2C%20and%20Infrastructure.md)
@@ -55,81 +55,81 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Builld your AI products securely
-  - What you need to know
+  - [Builld your AI products securely](#builld-your-ai-products-securely)
+  - [What you need to know](#what-you-need-to-know)
 - [**1. Foundations of Securing AI Products**](#1-foundations-of-securing-ai-products) (5 videos)
-  - ML- vs. LLM-based development
-  - ML-based AI product development
-  - MLOps stages
-  - LLM-based AI product development
-  - LLMOps stages
+  - [ML- vs. LLM-based development](#ml--vs-llm-based-development)
+  - [ML-based AI product development](#ml-based-ai-product-development)
+  - [MLOps stages](#mlops-stages)
+  - [LLM-based AI product development](#llm-based-ai-product-development)
+  - [LLMOps stages](#llmops-stages)
 - [**2. What Can Go Wrong?**](#2-what-can-go-wrong) (2 videos)
-  - What can go wrong in ML and MLOps?
-  - What can go wrong in LLM and LLMOps?
+  - [What can go wrong in ML and MLOps?](#what-can-go-wrong-in-ml-and-mlops)
+  - [What can go wrong in LLM and LLMOps?](#what-can-go-wrong-in-llm-and-llmops)
 - [**3. Security Model for AI Products**](#3-security-model-for-ai-products) (6 videos)
-  - Introducing the N-factor model for securing AI products
-  - Factor: Securing data
-  - Factor: Securing models
-  - Factor: Securing code
-  - Factor: Securing deployments and infrastructure
-  - Interconnected nature of all factors
+  - [Introducing the N-factor model for securing AI products](#introducing-the-n-factor-model-for-securing-ai-products)
+  - [Factor: Securing data](#factor-securing-data)
+  - [Factor: Securing models](#factor-securing-models)
+  - [Factor: Securing code](#factor-securing-code)
+  - [Factor: Securing deployments and infrastructure](#factor-securing-deployments-and-infrastructure)
+  - [Interconnected nature of all factors](#interconnected-nature-of-all-factors)
 - [**4. Securing Data**](#4-securing-data) (7 videos)
-  - Data exposure during transit
-  - Injection attacks
-  - Unauthorized access
-  - Insider threat
-  - Feature poisoning
-  - Privacy leakage
-  - Poisoned feedback loop
+  - [Data exposure during transit](#data-exposure-during-transit)
+  - [Injection attacks](#injection-attacks)
+  - [Unauthorized access](#unauthorized-access)
+  - [Insider threat](#insider-threat)
+  - [Feature poisoning](#feature-poisoning)
+  - [Privacy leakage](#privacy-leakage)
+  - [Poisoned feedback loop](#poisoned-feedback-loop)
 - [**5. Securing Models**](#5-securing-models) (14 videos)
-  - Intro to poisoning
-  - Data poisoning
-  - Model poisoning
-  - Model theft
-  - Model testing attack prerequisites
-  - Model testing attack scenarios
-  - Model testing attack defense
-  - Model registry unauthorized modifications
-  - Model extraction threat
-  - Model extraction defense
-  - Model inversion comparison
-  - Model inversion threat
-  - Model inversion defense
-  - Prompt injection attack
+  - [Intro to poisoning](#intro-to-poisoning)
+  - [Data poisoning](#data-poisoning)
+  - [Model poisoning](#model-poisoning)
+  - [Model theft](#model-theft)
+  - [Model testing attack prerequisites](#model-testing-attack-prerequisites)
+  - [Model testing attack scenarios](#model-testing-attack-scenarios)
+  - [Model testing attack defense](#model-testing-attack-defense)
+  - [Model registry unauthorized modifications](#model-registry-unauthorized-modifications)
+  - [Model extraction threat](#model-extraction-threat)
+  - [Model extraction defense](#model-extraction-defense)
+  - [Model inversion comparison](#model-inversion-comparison)
+  - [Model inversion threat](#model-inversion-threat)
+  - [Model inversion defense](#model-inversion-defense)
+  - [Prompt injection attack](#prompt-injection-attack)
 - [**6. Securing Code**](#6-securing-code) (6 videos)
-  - Insecure data processing code
-  - Hard-coded secrets
-  - Vulnerabilities in open-source libraries
-  - Dependency confusion
-  - Backdoor libraries
-  - Conclusion
+  - [Insecure data processing code](#insecure-data-processing-code)
+  - [Hard-coded secrets](#hard-coded-secrets)
+  - [Vulnerabilities in open-source libraries](#vulnerabilities-in-open-source-libraries)
+  - [Dependency confusion](#dependency-confusion)
+  - [Backdoor libraries](#backdoor-libraries)
+  - [Conclusion](#conclusion)
 - [**7. Securing AI Deployments and Infrastructure**](#7-securing-ai-deployments-and-infrastructure) (7 videos)
-  - Insecure compute and storage
-  - CI/CD pipelines
-  - Unrestricted network access
-  - Insufficient resource isolation
-  - Misconfigured container images
-  - Drift
-  - Vector databases
+  - [Insecure compute and storage](#insecure-compute-and-storage)
+  - [CI/CD pipelines](#cicd-pipelines)
+  - [Unrestricted network access](#unrestricted-network-access)
+  - [Insufficient resource isolation](#insufficient-resource-isolation)
+  - [Misconfigured container images](#misconfigured-container-images)
+  - [Drift](#drift)
+  - [Vector databases](#vector-databases)
 - [**8. Best Practices**](#8-best-practices) (12 videos)
-  - Introduction to top 10 practices
-  - Threat modeling
-  - Security testing
-  - Incidence response
-  - Governance
-  - Privacy
-  - Adversarial robustness
-  - Collaboration
-  - Explainability and transparency
-  - Logging and monitoring
-  - Security training and awareness
-  - Bringing it all together
+  - [Introduction to top 10 practices](#introduction-to-top-10-practices)
+  - [Threat modeling](#threat-modeling)
+  - [Security testing](#security-testing)
+  - [Incidence response](#incidence-response)
+  - [Governance](#governance)
+  - [Privacy](#privacy)
+  - [Adversarial robustness](#adversarial-robustness)
+  - [Collaboration](#collaboration)
+  - [Explainability and transparency](#explainability-and-transparency)
+  - [Logging and monitoring](#logging-and-monitoring)
+  - [Security training and awareness](#security-training-and-awareness)
+  - [Bringing it all together](#bringing-it-all-together)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps in your AI journey
+  - [Next steps in your AI journey](#next-steps-in-your-ai-journey)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Builld your AI products securely
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/builld-your-ai-products-securely?u=76281980)
@@ -152,7 +152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** ai (7), [[Microsoft Products|Products]] (2), [[Security]] (2), product (1), data (1)
 > **Speakers:** - [sam] (1)
 
 #### What you need to know
@@ -174,13 +174,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Security]] (4), [[Microsoft Products|Products]] (2), [[Cybersecurity]] (1), [[Threat Modeling]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Foundations of Securing AI Products
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### ML- vs. LLM-based development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/ml-vs-llm-based-development?u=76281980)
@@ -261,7 +262,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (1), public (1)
+> **Frameworks & Libraries:** ai (6), data (4), [[Microsoft Products|Products]] (3), [[Large Language Models (LLM)|Large language models]] (2), llm (2)
 > **Env Vars:** llm (2), rag (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (2), think of it as (1)
@@ -312,7 +313,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[MLOps]] (13), data (3), [[Product Development]] (1), [[E-Commerce]] (1), [[DevOps]] (1)
 > **Analogies:** it's like (1), imagine (1), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -420,8 +421,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (22), teams (2), [[Algorithms]] (2), next (2), [[User Experience (UX)|User experience]] (2)
 > **Analogies:** it's like (2), for example (2), imagine (1), for instance (1), think of it as (1)
-> **Code Keywords:** let (3), switch (1), finally, (1)
 > **Env Vars:** etl (1), api (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -469,8 +470,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** rag (3), [[Prompt Engineering]] (2), database (2), [[Large Language Models (LLM)|Large language models]] (1), [[MLOps]] (1)
 > **Env Vars:** rag (3), llm (1)
-> **Code Keywords:** let (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
@@ -591,8 +592,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (9), data (8), [[Fine Tuning]] (7), ai (5), prompt (5)
 > **Env Vars:** llm (9), rag (4)
-> **Code Keywords:** let (3), require (1), switch (1), case. (1)
 > **Analogies:** for instance (2), for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** switch to (1)
@@ -601,7 +602,7 @@ created: 2026-04-29
 
 ### 2. What Can Go Wrong?
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What can go wrong in ML and MLOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/what-can-go-wrong-in-ml-and-mlops?u=76281980)
@@ -712,7 +713,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), self (1), yield (1), private (1), case, (1)
+> **Frameworks & Libraries:** data (14), next (3), etl (3), [[MLOps]] (2), feature (2)
 > **Analogies:** imagine (4), for example (2), think of it as (1), it's like (1)
 > **Env Vars:** etl (3)
 > **CLI Commands:** rails (1), make (1)
@@ -832,9 +833,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), llm (8), prompt (3), [[Privacy]] (3), [[MLOps]] (2)
 > **Analogies:** imagine (3), such as (3), for instance (2), for example (2), it's like (1)
 > **Env Vars:** llm (8), hipaa (1), rag (1)
-> **Code Keywords:** let (1), private (1), finally, (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -842,7 +843,7 @@ created: 2026-04-29
 
 ### 3. Security Model for AI Products
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the N-factor model for securing AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/introducing-n-factor-model-for-securing-ai-products?u=76281980)
@@ -867,7 +868,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1), let (1)
+> **Frameworks & Libraries:** [[Security]] (4), ai (1), product (1), data (1), next (1)
 > **Speakers:** - [instructor] (1)
 
 #### Factor: Securing data
@@ -907,7 +908,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), private (1)
+> **Frameworks & Libraries:** data (9), prompt (2), [[Security]] (2), [[Fine Tuning]] (1), [[MLOps]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** edl (1)
 > **Speakers:** - [instructor] (1)
@@ -939,6 +940,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), prompt (2), next (1), [[Fine Tuning]] (1), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -970,7 +972,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** data (4), application (2), ai (1), [[MLOps]] (1), prompt (1)
 > **CLI Commands:** cd (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1014,10 +1016,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (4), data (2), llm (2), ci (2), cd (2)
 > **Env Vars:** llm (2), api (2)
 > **CLI Commands:** cd (2)
 > **Analogies:** for instance (1), for example (1)
-> **Code Keywords:** override (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -1051,15 +1053,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Security]] (1), [[MLOps]] (1), rag (1), [[Prompt Engineering]] (1)
 > **Analogies:** for example (1), for instance (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 4. Securing Data
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data exposure during transit
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/data-exposure-during-transit?u=76281980)
@@ -1122,8 +1124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), etl (4), cloud (3), database (2), next (2)
 > **Env Vars:** mtls (5), etl (4), tls (2), http (1), phi (1)
-> **Code Keywords:** private (2), let (1), protected (1), public (1), switch (1)
 > **Analogies:** for example (3), such as (2), for instance (1)
 > **Versions:** 1.3 (1)
 > **UI Navigation:** switch to (1)
@@ -1181,9 +1183,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[SQL]] (5), database (4), [[NoSQL]] (3), next (3)
 > **Env Vars:** sql (5), etl (1)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** else. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Unauthorized access
@@ -1229,8 +1231,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), cloud (5), [[Security]] (2), ai (1), [[Privacy]] (1)
 > **Env Vars:** iam (2), rbac (1), aws (1), gcp (1), nist (1)
-> **Code Keywords:** let (1), public (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1291,8 +1293,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Analytics]] (2), [[Security]] (1), [[Dashboards]] (1), business (1)
 > **Analogies:** such as (3), for example (2), for instance (2), just like (1)
-> **Code Keywords:** require (1), switch (1)
 > **Env Vars:** dlp (1), usb (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -1378,8 +1380,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** feature (16), data (5), [[Feature Engineering]] (1), [[Security]] (1), [[E-Commerce]] (1)
 > **Analogies:** such as (4), for example (2), imagine (1), for instance (1)
-> **Code Keywords:** catch. (1), case, (1), this, (1)
 > **Env Vars:** aes (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1452,8 +1454,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Privacy]] (7), [[Vector Databases]] (2), llm (2), [[Customer Support]] (1)
 > **Env Vars:** llm (2), nist (1), aes (1), tls (1)
-> **Code Keywords:** let (2), private (1), from. (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Versions:** 1.3 (1)
@@ -1517,13 +1519,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** chatbot (4), ai (2), [[Prompt Engineering]] (1), prompt (1), [[Real-Time]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Securing Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to poisoning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/intro-to-poisoning?u=76281980)
@@ -1558,7 +1561,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (7), ai (2), [[Security]] (1), product (1)
 > **Speakers:** - [instructor] (1)
 
 #### Data poisoning
@@ -1606,8 +1609,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), etl (2), [[Security]] (1), [[Algorithms]] (1), ai (1)
 > **Env Vars:** etl (2), sha (1)
-> **Code Keywords:** let (1), from, (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1690,10 +1693,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (2), [[TensorFlow]] (1), [[Privacy]] (1), [[PyTorch]] (1)
 > **Analogies:** for example (4), such as (3), for instance (1)
 > **Env Vars:** art (1), sha (1), cicd (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1774,8 +1777,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (9), [[Security]] (2), cloud (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (9), cicd (1)
-> **Code Keywords:** let (3), switch (2)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** nginx (1)
@@ -1807,6 +1810,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), cloud (1), next (1)
 > **Analogies:** such as (2)
 > **Env Vars:** cicd (1)
 > **Definitions:** is an  (1)
@@ -1855,6 +1859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), next (1), [[Dashboards]] (1), ci (1), cd (1)
 > **CLI Commands:** cd (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1917,8 +1922,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Performance Metrics]] (1), [[Version Control]] (1), [[Speech Recognition]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (1), for instance (1), such as (1)
-> **Code Keywords:** finally, (1)
 > **Env Vars:** art (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1951,8 +1956,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIST]] (1), [[Security]] (1)
 > **Env Vars:** es256 (1), nist (1), rbac (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -1996,9 +2001,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** llm (3), api (3), [[Hugging Face]] (1), next (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** llm (3), api (3)
 > **Analogies:** for example (2), such as (2)
-> **Code Keywords:** let (1), finally, (1)
 > **Speakers:** - [instructor] (1)
 
 #### Model extraction defense
@@ -2034,7 +2039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** next (2), api (1), feature (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2062,7 +2067,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), private (1)
+> **Frameworks & Libraries:** data (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2101,9 +2106,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (7)
 > **Env Vars:** hipaa (1), gdpr (1), ccp (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** this. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Model inversion defense
@@ -2137,7 +2142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** private (1)
+> **Frameworks & Libraries:** data (7), [[Privacy]] (2), [[NIST]] (1)
 > **Env Vars:** nist (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2202,7 +2207,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** override (4), let (1), switch (1), this, (1)
+> **Frameworks & Libraries:** prompt (9), data (4), next (2), ai (1), [[Phishing]] (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** make (2)
 > **UI Navigation:** switch to (1)
@@ -2211,7 +2216,7 @@ created: 2026-04-29
 
 ### 6. Securing Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Insecure data processing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/insecure-data-processing-code?u=76281980)
@@ -2264,7 +2269,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), function (1), delete (1), static (1)
+> **Frameworks & Libraries:** data (7), ai (2), [[Security]] (2), llm (1), application (1)
 > **CLI Commands:** python (1), rm (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** llm (1)
@@ -2291,8 +2296,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (2), cd (2), api (1), database (1), data (1)
 > **CLI Commands:** cd (2), aws (1)
-> **Code Keywords:** let (1), switch (1)
 > **Env Vars:** api (1), aws (1)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** switch to (1)
@@ -2343,6 +2348,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[TensorFlow]] (3), [[PyTorch]] (2), ai (1), [[Microsoft Products|Products]] (1), [[OWASP]] (1)
 > **Env Vars:** sbom (3), owasp (1), sha256 (1)
 > **Analogies:** such as (3), for example (1)
 > **File Paths:** requirements.txt (1)
@@ -2393,7 +2399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (5), let (1)
+> **Frameworks & Libraries:** data (2), [[npm]] (1), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** npm (1), cicd (1), pip (1)
 > **CLI Commands:** npm (1), pip (1)
 > **Definitions:** refers to (1), known as (1)
@@ -2438,10 +2444,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** open-source (2), data (1), [[Supply Chain Security]] (1), [[Software Development]] (1)
 > **Env Vars:** sbom (1), slsa (1), salsa (1)
 > **Versions:** 5.6 (1), 5.6.1 (1)
 > **Analogies:** such as (2)
-> **Code Keywords:** private (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -2461,12 +2467,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Secure Coding]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Securing AI Deployments and Infrastructure
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Insecure compute and storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/insecure-compute-and-storage?u=76281980)
@@ -2513,9 +2520,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (6), data (5), cloud (4), ai (3), aws (2)
 > **Env Vars:** aws (2), gcp (2), aes (1)
 > **CLI Commands:** aws (2), make (1)
-> **Code Keywords:** let (1), public (1), default. (1)
 > **Analogies:** for example (2), such as (1)
 > **Code Identifiers:** gvisor (1)
 > **Speakers:** - [instructor] (1)
@@ -2593,8 +2600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ci (11), cd (10), ai (2), data (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** cd (10), make (1)
-> **Code Keywords:** require (2), let (1), finally, (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2619,7 +2626,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (1), private (1)
+> **Frameworks & Libraries:** api (1), [[Kubernetes]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
@@ -2647,6 +2654,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), power (1), ai (1), [[Kubernetes]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** gpu (1)
 > **Speakers:** - [instructor] (1)
@@ -2674,6 +2682,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Linux]] (1), [[LinkedIn]] (1), [[Kubernetes]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** ssh (1), docker (1)
 > **Env Vars:** ssh (1)
@@ -2698,6 +2707,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), data (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2724,6 +2734,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (2), ai (2), [[Vector Databases]] (1), [[Pinecone]] (1)
 > **Env Vars:** rbac (1), aes (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -2731,7 +2742,7 @@ created: 2026-04-29
 
 ### 8. Best Practices
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to top 10 practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/introduction-to-top-10-practices?u=76281980)
@@ -2750,6 +2761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), [[Security]] (4), data (2), [[Secure Coding]] (1), [[Threat Modeling]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2802,6 +2814,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), [[Threat Modeling]] (4), data (3), [[Security]] (2), next (2)
 > **Env Vars:** stride (2), mitre (2), atlas (2), owasp (1)
 > **Analogies:** for example (2), such as (2)
 > **Speakers:** - [instructor] (1)
@@ -2857,10 +2870,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (7), ai (5), data (2), api (2), ci (1)
 > **Env Vars:** api (2), dast (2), art (2), owasp (1), nist (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (3), for example (1)
-> **Code Keywords:** static (2), this, (1)
 > **CLI Commands:** cd (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2911,10 +2924,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Incident Response]] (4), data (3), api (2), [[Security]] (2)
 > **Env Vars:** api (2), nist (1), csf (1), iso (1), iec (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (1), configure (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -2953,6 +2966,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), data (3), [[NIST]] (2), rmf (2), [[Risk Management Framework (RMF)|Risk management framework]] (2)
 > **Env Vars:** nist (2), rmf (2), gdpr (1), iso (1)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
@@ -2985,7 +2999,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (1)
+> **Frameworks & Libraries:** [[Privacy]] (9), data (7), ai (5), teams (1)
 > **Env Vars:** iso (1)
 > **Speakers:** - [host] (1)
 
@@ -3026,6 +3040,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Real-Time]] (2), [[Security]] (1), teams (1), [[DevOps]] (1)
 > **Env Vars:** mitre (3), atlas (1), att (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3057,6 +3072,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4), ai (3), teams (2), [[GitHub]] (2), [[DevOps]] (1)
 > **Tools:** github (2), gitlab (1)
 > **CLI Commands:** git (1)
 > **Env Vars:** iso (1)
@@ -3094,6 +3110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), feature (2), [[NIST]] (2), [[Decision-Making]] (1), product (1)
 > **Env Vars:** shap (2), nist (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
@@ -3135,6 +3152,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), api (2), [[Accountability]] (1), [[Performance Metrics]] (1), [[DevOps]] (1)
 > **Env Vars:** api (2), nist (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** configure (1)
@@ -3175,6 +3193,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (5), ai (4), teams (2), data (2), [[OWASP]] (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3191,12 +3210,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Threat Modeling]] (1), [[Incident Response]] (1), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your AI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/next-steps?u=76281980)
@@ -3241,6 +3261,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), [[Security]] (8), [[Microsoft Products|Products]] (4), [[MLOps]] (1), product (1)
 > **CLI Commands:** make (1), go build (1)
 > **Best Practices:** the key is (1), best practice (1)
 > **Definitions:** is a  (1)

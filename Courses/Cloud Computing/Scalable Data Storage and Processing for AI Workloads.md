@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-storage
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Scalable%20Data%20Storage%20and%20Processing%20for%20AI%20Workloads.md)
@@ -55,35 +55,35 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Scalable solutions for storage and processing
-  - Prerequisites
+  - [Scalable solutions for storage and processing](#scalable-solutions-for-storage-and-processing)
+  - [Prerequisites](#prerequisites)
 - [**1. Types of Data and Storage Requirements**](#1-types-of-data-and-storage-requirements) (4 videos)
-  - Types of data: Structured, semistructured, and unstructured
-  - Understanding structured data
-  - Understanding semistructured data
-  - Understanding unstructured data
+  - [Types of data: Structured, semistructured, and unstructured](#types-of-data-structured-semistructured-and-unstructured)
+  - [Understanding structured data](#understanding-structured-data)
+  - [Understanding semistructured data](#understanding-semistructured-data)
+  - [Understanding unstructured data](#understanding-unstructured-data)
 - [**2. Data Storage in the AI Pipeline**](#2-data-storage-in-the-ai-pipeline) (7 videos)
-  - Storage requirements in the AI pipeline
-  - Data storage in the AI workflow
-  - AI storage considerations
-  - AI storage best practices
-  - Cloud storage on Google Cloud
-  - Object storage with Amazon S3
-  - Blob storage on Azure
+  - [Storage requirements in the AI pipeline](#storage-requirements-in-the-ai-pipeline)
+  - [Data storage in the AI workflow](#data-storage-in-the-ai-workflow)
+  - [AI storage considerations](#ai-storage-considerations)
+  - [AI storage best practices](#ai-storage-best-practices)
+  - [Cloud storage on Google Cloud](#cloud-storage-on-google-cloud)
+  - [Object storage with Amazon S3](#object-storage-with-amazon-s3)
+  - [Blob storage on Azure](#blob-storage-on-azure)
 - [**3. Vector Databases and RAGs**](#3-vector-databases-and-rags) (3 videos)
-  - Retrieval-augmented generation
-  - Vector databases and embeddings
-  - Semantic search with Pinecone
+  - [Retrieval-augmented generation](#retrieval-augmented-generation)
+  - [Vector databases and embeddings](#vector-databases-and-embeddings)
+  - [Semantic search with Pinecone](#semantic-search-with-pinecone)
 - [**4. AI Workloads and Processing**](#4-ai-workloads-and-processing) (3 videos)
-  - Types of AI workloads
-  - Best practices to optimize AI workloads
-  - AI workloads on the cloud
+  - [Types of AI workloads](#types-of-ai-workloads)
+  - [Best practices to optimize AI workloads](#best-practices-to-optimize-ai-workloads)
+  - [AI workloads on the cloud](#ai-workloads-on-the-cloud)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Summary and next steps
+  - [Summary and next steps](#summary-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scalable solutions for storage and processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980)
@@ -130,8 +130,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), data (12), power (4), [[Real-Time]] (2), [[Generative AI]] (1)
 > **Analogies:** for example (3), for instance (1)
-> **Code Keywords:** require (2), let (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - [instructor] (1)
 
@@ -156,6 +156,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), cloud (2), [[Python (Programming Language)|Python]] (2), data (1)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you need to have (1), prerequisite (1)
@@ -164,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Types of Data and Storage Requirements
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of data: Structured, semistructured, and unstructured
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980)
@@ -265,9 +266,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (51), [[Unstructured Data]] (8), ai (7), [[Relational Databases]] (3), [[JSON]] (2)
 > **Analogies:** such as (11), for example (1)
 > **Env Vars:** json (2), xml (2), sql (1), hdfs (1), aws (1)
-> **Code Keywords:** let (1), require (1), pass (1)
 > **CLI Commands:** aws (1), apache (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [narrator] (1)
@@ -323,10 +324,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Databases]] (3), [[SQL]] (3), [[Analytics]] (3), ai (3)
 > **Analogies:** such as (7)
 > **Env Vars:** sql (4), etl (1)
 > **CLI Commands:** mysql (1), apache (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [narrator] (1)
 
 #### Understanding semistructured data
@@ -396,10 +397,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (38), [[JSON]] (4), [[Unstructured Data]] (4), [[Databases]] (4), ai (3)
 > **Env Vars:** json (4), xml (2), rdf (2), bson (1), csv (1)
 > **Analogies:** such as (6), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### Understanding unstructured data
@@ -449,6 +450,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Unstructured Data]] (14), data (11), ai (2), [[Neural Networks]] (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** hdfs (1), nas (1)
 > **CLI Commands:** find (1)
@@ -457,7 +459,7 @@ created: 2026-04-29
 
 ### 2. Data Storage in the AI Pipeline
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage requirements in the AI pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980)
@@ -584,7 +586,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2), this, (1)
+> **Frameworks & Libraries:** data (36), ai (21), [[Generative AI]] (3), database (3), [[Vector Databases]] (3)
 > **Env Vars:** rag (2), gbe (1)
 > **Analogies:** picture (1), such as (1), for example (1)
 > **Definitions:** is a  (2)
@@ -697,7 +699,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), require (2), finally, (2)
+> **Frameworks & Libraries:** data (53), ai (6), [[Scalability]] (4), database (1), [[Cloud-Native Applications]] (1)
 > **Env Vars:** csv (1), json (1), gpu (1), tpu (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), such as (1)
@@ -801,8 +803,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (42), ai (17), [[Scalability]] (2), [[Unstructured Data]] (2), [[Metadata]] (2)
 > **CLI Commands:** make (7)
-> **Code Keywords:** let (3), this, (1), require (1), protected (1), finally, (1)
 > **Env Vars:** cia (3), gdpr (1), hipaa (1), ccpa (1)
 > **Analogies:** such as (4)
 > **Warnings:** common mistake (2), don't make the mistake (1), keep in mind (1)
@@ -851,8 +853,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), data (10), cloud (8)
 > **CLI Commands:** make (5)
-> **Code Keywords:** public (2), let (1), private (1), require (1)
 > **Analogies:** such as (2)
 > **Best Practices:** best practice (1)
 > **Warnings:** keep in mind (1)
@@ -983,7 +985,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (3), public (3), class. (1), delete (1), finally, (1)
+> **Frameworks & Libraries:** data (28), [[Google Cloud Platform (GCP)|Google cloud]] (6), ai (4), cloud (4), [[Google]] (3)
 > **Env Vars:** uri (2), url (2), rest (1), csv (1), pdf (1)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1105,9 +1107,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (25), aws (7), [[Google Cloud Platform (GCP)|Google cloud]] (3), next (2), management (1)
 > **Env Vars:** aws (7), uri (3), pdf (2), csv (1), jpeg (1)
 > **CLI Commands:** aws (7), make (2)
-> **Code Keywords:** default. (3), require (2), default, (2), public (1), let (1)
 > **UI Navigation:** click on (5), drag and drop (2), go to (1)
 > **Definitions:** is a  (2), stands for (1), means that (1), is an  (1)
 > **Analogies:** similar to (1), just like (1), such as (1)
@@ -1225,19 +1227,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (27), [[Microsoft Azure|Azure]] (13), ai (4), [[Analytics]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3)
 > **UI Navigation:** click on (8), drag and drop (2)
 > **Env Vars:** url (2), rest (1), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **Analogies:** for example (1), just like (1)
 > **Prerequisites:** configure (2)
-> **Code Keywords:** this, (1)
 > **Tools:** azure portal (1)
 > **Definitions:** is called (1)
 
 
 ### 3. Vector Databases and RAGs
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieval-augmented generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980)
@@ -1322,8 +1324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), database (13), rag (7), ai (3), [[Generative AI]] (2)
 > **Env Vars:** rag (6), gpt (1)
-> **Code Keywords:** let (4), require (1), static (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1431,8 +1433,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Vector Databases]] (4), [[Microsoft Word|Word]] (4), [[Search]] (3), database (2)
 > **Analogies:** for example (6), such as (2)
-> **Code Keywords:** let (2), require (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** cat (2)
 > **Env Vars:** rag (1), bert (1)
@@ -1659,7 +1661,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (5), continue (3), this. (2)
+> **Frameworks & Libraries:** [[Pinecone]] (23), database (8), data (7), [[Python (Programming Language)|Python]] (6), api (4)
 > **CLI Commands:** python (6), make (5), aws (2), find (1)
 > **Env Vars:** api (4), aws (2), efi (1)
 > **Prerequisites:** set up (3), setup (2), install (1)
@@ -1671,7 +1673,7 @@ created: 2026-04-29
 
 ### 4. AI Workloads and Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of AI workloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980)
@@ -1770,8 +1772,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (21), ai (20), [[Security]] (5), [[Deep Learning]] (4), [[Generative AI]] (4)
 > **CLI Commands:** make (8)
-> **Code Keywords:** let (2), function (1), require (1)
 > **Env Vars:** gdpr (1), hipaa (1), ccpa (1)
 > **Analogies:** such as (3)
 > **Definitions:** refers to (1), is a  (1)
@@ -1855,11 +1857,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), ai (11), [[TensorFlow]] (4), [[Apache Spark]] (3), cloud (3)
 > **CLI Commands:** make (9), apache (3)
 > **Env Vars:** etl (1), hpc (1), api (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** make sure you have (1), required to (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### AI workloads on the cloud
@@ -1941,9 +1943,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Microsoft Azure|Azure]] (14), cloud (12), ai (11), aws (8)
 > **Env Vars:** aws (8), hpc (7), epl (2), sql (1), aks (1)
 > **CLI Commands:** aws (8), apache (1)
-> **Code Keywords:** let (2), pub (1), interface (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** drag and drop (1)
 > **Warnings:** heads up (1)
@@ -1952,7 +1954,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980)
@@ -1977,7 +1979,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1)
+> **Frameworks & Libraries:** ai (7), data (5), [[Vector Databases]] (1), database (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1), we discussed (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

@@ -32,7 +32,7 @@ tags:
   - skill/web-application-development
   - skill/angular
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Angular%20and%20Django%20Apps.md)
@@ -51,57 +51,57 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Create a full-stack Angular app with the Django REST framework
-  - What you should know
-  - Demo project overview
+  - [Create a full-stack Angular app with the Django REST framework](#create-a-full-stack-angular-app-with-the-django-rest-framework)
+  - [What you should know](#what-you-should-know)
+  - [Demo project overview](#demo-project-overview)
 - [**1. Django and Angular Preparation**](#1-django-and-angular-preparation) (3 videos)
-  - Running the Angular and Django development servers
-  - Compiling Angular Code
-  - Serving Angular Code Through Django static files
+  - [Running the Angular and Django development servers](#running-the-angular-and-django-development-servers)
+  - [Compiling Angular Code](#compiling-angular-code)
+  - [Serving Angular Code Through Django static files](#serving-angular-code-through-django-static-files)
 - [**2. Forms with Angular and Django**](#2-forms-with-angular-and-django) (5 videos)
-  - Creating models with the Django REST framework
-  - Creating a ViewSet with Django
-  - Creating a REST API service with Angular
-  - Creating a basic form as an Angular component
-  - Connecting an Angular component to a service
+  - [Creating models with the Django REST framework](#creating-models-with-the-django-rest-framework)
+  - [Creating a ViewSet with Django](#creating-a-viewset-with-django)
+  - [Creating a REST API service with Angular](#creating-a-rest-api-service-with-angular)
+  - [Creating a basic form as an Angular component](#creating-a-basic-form-as-an-angular-component)
+  - [Connecting an Angular component to a service](#connecting-an-angular-component-to-a-service)
 - [**3. Front-End Design and Layout with Angular**](#3-front-end-design-and-layout-with-angular) (5 videos)
-  - Form layout with Angular Material
-  - Date/time selection with a Calendar in Angular
-  - Displaying a data table with Angular Material table
-  - Displaying a pop-up dialog box with Angular
-  - Displaying more information with Angular
+  - [Form layout with Angular Material](#form-layout-with-angular-material)
+  - [Date/time selection with a Calendar in Angular](#datetime-selection-with-a-calendar-in-angular)
+  - [Displaying a data table with Angular Material table](#displaying-a-data-table-with-angular-material-table)
+  - [Displaying a pop-up dialog box with Angular](#displaying-a-pop-up-dialog-box-with-angular)
+  - [Displaying more information with Angular](#displaying-more-information-with-angular)
 - [**4. Authentication with Django and Angular**](#4-authentication-with-django-and-angular) (6 videos)
-  - Setting up Authentication with Django OAuth Toolkit
-  - Using scopes with Django OAuth Toolkit for permissions
-  - Registering a new OAuth application with Django OAuth Toolkit
-  - Logging in and authentication with Angular and HttpClient
-  - Using OAuth headers with Angular and HttpClient
-  - Authentication storage with Angular
+  - [Setting up Authentication with Django OAuth Toolkit](#setting-up-authentication-with-django-oauth-toolkit)
+  - [Using scopes with Django OAuth Toolkit for permissions](#using-scopes-with-django-oauth-toolkit-for-permissions)
+  - [Registering a new OAuth application with Django OAuth Toolkit](#registering-a-new-oauth-application-with-django-oauth-toolkit)
+  - [Logging in and authentication with Angular and HttpClient](#logging-in-and-authentication-with-angular-and-httpclient)
+  - [Using OAuth headers with Angular and HttpClient](#using-oauth-headers-with-angular-and-httpclient)
+  - [Authentication storage with Angular](#authentication-storage-with-angular)
 - [**5. Filtering and Pagination with Django and Angular**](#5-filtering-and-pagination-with-django-and-angular) (8 videos)
-  - Checking permissions with Django
-  - Deleting an item using Angular and Django
-  - Partially updating an item using Angular
-  - Pagination with Django
-  - Pagination with Angular
-  - Filtering with Django
-  - Filtering with Angular
-  - Animations in Angular
+  - [Checking permissions with Django](#checking-permissions-with-django)
+  - [Deleting an item using Angular and Django](#deleting-an-item-using-angular-and-django)
+  - [Partially updating an item using Angular](#partially-updating-an-item-using-angular)
+  - [Pagination with Django](#pagination-with-django)
+  - [Pagination with Angular](#pagination-with-angular)
+  - [Filtering with Django](#filtering-with-django)
+  - [Filtering with Angular](#filtering-with-angular)
+  - [Animations in Angular](#animations-in-angular)
 - [**6. Testing Angular**](#6-testing-angular) (5 videos)
-  - Unit testing a component
-  - Unit testing a service
-  - Unit testing a controller
-  - End-to-end testing the form submission process
-  - End-to-end testing the filtered data table
+  - [Unit testing a component](#unit-testing-a-component)
+  - [Unit testing a service](#unit-testing-a-service)
+  - [Unit testing a controller](#unit-testing-a-controller)
+  - [End-to-end testing the form submission process](#end-to-end-testing-the-form-submission-process)
+  - [End-to-end testing the filtered data table](#end-to-end-testing-the-filtered-data-table)
 - [**7. Testing Django**](#7-testing-django) (3 videos)
-  - Unit testing authentication
-  - Unit testing permission checks
-  - Unit testing validation for the REST API
+  - [Unit testing authentication](#unit-testing-authentication)
+  - [Unit testing permission checks](#unit-testing-permission-checks)
+  - [Unit testing validation for the REST API](#unit-testing-validation-for-the-rest-api)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a full-stack Angular app with the Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980)
@@ -128,8 +128,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Django]] (1), [[Python (Programming Language)|Python]] (1), front-end (1)
 > **CLI Commands:** make (2), python (1)
-> **Code Keywords:** interface (1)
 > **Env Vars:** http (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -149,6 +149,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (2), [[Django]] (2), web (1), [[JavaScript]] (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - [instructor] (1)
 
@@ -171,13 +172,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (6), [[Angular]] (5), [[Representational State Transfer (REST)|Rest]] (2), web (1), front-end (1)
 > **Env Vars:** rest (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Django and Angular Preparation
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Running the Angular and Django development servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/running-the-angular-and-django-development-servers?u=76281980)
@@ -198,6 +200,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (5), [[Django]] (4), api (3), web (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (2), json (1)
 > **Ports:** port 8000 (1), port 4200 (1)
 > **UI Navigation:** navigate to (1), go to (1)
@@ -221,7 +224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (1), let (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Debugging]] (1), [[JSON]] (1)
 > **Code Identifiers:** sourcemap (1), extractcss (1)
 > **File Paths:** angular.json (1)
 > **Analogies:** such as (1)
@@ -242,8 +245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (3), [[Angular]] (2), web (1), [[HTML]] (1)
 > **File Paths:** index.html (1)
-> **Code Keywords:** let (1)
 > **Ports:** port 8000 (1)
 > **Env Vars:** url (1)
 > **UI Navigation:** go to (1)
@@ -252,7 +255,7 @@ created: 2026-04-29
 
 ### 2. Forms with Angular and Django
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating models with the Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-models-with-the-django-rest-framework?u=76281980)
@@ -287,8 +290,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), generic (1)
 > **Env Vars:** api (5), url (2)
-> **Code Keywords:** class, (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -329,8 +332,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (4), [[Representational State Transfer (REST)|Rest]] (4), api (4)
 > **Env Vars:** rest (4), api (4), url (1)
-> **Code Keywords:** delete (2), this. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - django (1)
 
@@ -367,8 +370,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), api (5), [[Django]] (3), data (3), [[Angular]] (2)
 > **Env Vars:** api (4), url (2)
-> **Code Keywords:** class, (1), case, (1), pass (1)
 > **Speakers:** - [instructor] (1)
 
 #### Creating a basic form as an Angular component
@@ -446,7 +449,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[Forms]] (2), data (2), dom (1), [[Java]] (1)
 > **Definitions:** is a  (2), is called (2)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (2)
@@ -480,14 +483,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Django]] (1)
 > **Code Identifiers:** restapiservice (2), tourpackagedata (2), createtour (1), createtourpackage (1), packageform (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Front-End Design and Layout with Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Form layout with Angular Material
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/form-layout-with-angular-material?u=76281980)
@@ -530,7 +533,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** [[Angular]] (1), next (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -568,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** toggle (2), go to (1)
-> **Code Keywords:** let (2)
 > **File Paths:** moment.js (1)
 > **Code Identifiers:** matdatepicker (1)
 > **Speakers:** - [instructor] (1)
@@ -669,7 +672,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (3), def. (2), def, (1), this. (1), let (1)
+> **Frameworks & Libraries:** data (3), [[Angular]] (1), [[Representational State Transfer (REST)|Rest]] (1), dom (1)
 > **Env Vars:** htp (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -718,7 +721,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (1), let (1), this. (1)
+> **Frameworks & Libraries:** data (3), [[Angular]] (2)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -792,7 +795,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), delete (3)
+> **Frameworks & Libraries:** [[Angular]] (1)
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
 > **CLI Commands:** find (1)
 > **Versions:** 2.5 (1)
@@ -801,7 +804,7 @@ created: 2026-04-29
 
 ### 4. Authentication with Django and Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Authentication with Django OAuth Toolkit
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980)
@@ -830,6 +833,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Django]] (2), [[JSON]] (1), data (1), api (1)
 > **Env Vars:** oauth (2), json (1), api (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** find (1)
@@ -862,10 +866,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (2), [[Django]] (1)
 > **Code Identifiers:** rest_framework (1), permission_classes (1)
 > **Env Vars:** api (2)
-> **Code Keywords:** import
-( (1)
 > **Speakers:** - [instructor] (1)
 
 #### Registering a new OAuth application with Django OAuth Toolkit
@@ -895,10 +898,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (4), application (3), api (2), [[Angular]] (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -973,12 +976,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (3), data (3), [[Angular]] (2), [[Representational State Transfer (REST)|Rest]] (2), api (2)
 > **Code Identifiers:** restapiservice (2), formcontrol (2), loggedin (1), accesstoken (1), grant_type (1)
 > **Env Vars:** rest (2), api (2), http (1)
 > **Definitions:** is an  (3), means that (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** class. (1), this. (1)
 > **Exercise Files:** template (2)
 > **UI Navigation:** click on (1)
 
@@ -1007,8 +1010,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Representational State Transfer (REST)|Rest]] (2), [[Django]] (1), [[Angular]] (1), data (1)
 > **Env Vars:** api (3), http (1)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 #### Authentication storage with Angular
@@ -1040,9 +1043,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), api (1), application (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** html5 (1), api (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - to (1)
@@ -1050,7 +1053,7 @@ created: 2026-04-29
 
 ### 5. Filtering and Pagination with Django and Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Checking permissions with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980)
@@ -1103,7 +1106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3)
+> **Frameworks & Libraries:** [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Angular]] (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1151,7 +1154,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (12), let (3), pass (1)
+> **Frameworks & Libraries:** api (4), [[Representational State Transfer (REST)|Rest]] (3), [[Angular]] (1), [[Django]] (1), web (1)
 > **Env Vars:** api (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -1206,8 +1209,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Representational State Transfer (REST)|Rest]] (3), api (3), [[Angular]] (1)
 > **Code Identifiers:** updatetour (2), tourpackagedata (1), tour_length (1), commonoptions (1), tourlength (1)
-> **Code Keywords:** delete (1), pass (1), return. (1), this, (1), let (1)
 > **Env Vars:** api (1), url (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
@@ -1232,6 +1235,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Django]] (1), database (1), api (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** rest_framework (1)
 > **Env Vars:** api (1)
@@ -1299,8 +1303,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (2), [[Representational State Transfer (REST)|Rest]] (2), api (2), feature (1), web (1)
 > **Env Vars:** http (4), api (2)
-> **Code Keywords:** pass (1), interface (1), type. (1)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
@@ -1359,9 +1363,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JSON]] (2), [[Django]] (1), api (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), curl (1), python (1)
 > **Env Vars:** api (1), json (1)
-> **Code Keywords:** override (1)
 > **Code Identifiers:** filter_queryset (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1400,7 +1404,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (2), switch (2), let (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), api (2), web (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** switch to (2)
 > **Warnings:** note that (1)
@@ -1513,9 +1517,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (13), [[Angular]] (3), dom (2), web (1)
 > **UI Navigation:** scroll up (2), scroll down (1), click on (1)
 > **Prerequisites:** set up (4)
-> **Code Keywords:** let (2), finally, (1)
 > **Env Vars:** dom (2)
 > **CLI Commands:** make (1)
 > **Versions:** 1.5 (1)
@@ -1525,7 +1529,7 @@ created: 2026-04-29
 
 ### 6. Testing Angular
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unit testing a component
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980)
@@ -1596,7 +1600,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (6), let (2), case, (1), this, (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), api (4), [[Angular]] (3), data (2), [[Unit Testing]] (1)
 > **Env Vars:** rest (4), api (4)
 > **Prerequisites:** setup (2), set up (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1667,8 +1671,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Representational State Transfer (REST)|Rest]] (7), api (7), [[Angular]] (2), hit (2)
 > **Env Vars:** api (7), url (4)
-> **Code Keywords:** delete (2), case. (1), let (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1740,8 +1744,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), hit (1)
 > **Code Identifiers:** mockservice (7), gettour (2), createtour (1), updatetour (1), listtours (1)
-> **Code Keywords:** delete (2), let (1), class, (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1835,9 +1839,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Angular]] (1), [[Debugging]] (1), web (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** url (1), http (1), api (1)
-> **Code Keywords:** continue (1)
 > **Tools:** command line (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1885,14 +1889,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (1), await (1)
+> **Frameworks & Libraries:** data (2), next (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 7. Testing Django
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Unit testing authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980)
@@ -1943,10 +1947,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), application (2), [[Representational State Transfer (REST)|Rest]] (1), database (1), [[Angular]] (1)
 > **Env Vars:** api (3), http (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Tools:** command line (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1990,8 +1994,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (1), next (1)
 > **Prerequisites:** set up (3)
-> **Code Keywords:** let (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
@@ -2027,14 +2031,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** data (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/next-steps?u=76281980)
@@ -2051,6 +2055,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Angular]] (3), [[Django]] (2), next (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [rudolf] (1)
 

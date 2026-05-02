@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/marketing-strategy
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20for%20Using%20Generative%20AI%20Tools%20for%20Better%20Marketing%20Outcomes%20with%20Joanna%20Yung.md)
@@ -47,20 +47,20 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**1. Harness AI for Better Marketing Outcomes**](#1-harness-ai-for-better-marketing-outcomes) (10 videos)
-  - The future of marketing: Understanding the role of AI
-  - Preparing your business for an AI-powered marketing strategy
-  - Take your content writing to the next level with AI writing tools
-  - Create stunning visuals with AI image generation tools
-  - Enhancing videos with AI editing tools
-  - Elevate your designs to new heights with AI design tools
-  - Boost your search rankings and drive traffic with AI SEO tools
-  - Streamline your workflow and boost efficiency with AI automation
-  - AI-powered chatbots for customer service and engagement
-  - Revolutionize your advertising with AI tools for ads
+  - [The future of marketing: Understanding the role of AI](#the-future-of-marketing-understanding-the-role-of-ai)
+  - [Preparing your business for an AI-powered marketing strategy](#preparing-your-business-for-an-ai-powered-marketing-strategy)
+  - [Take your content writing to the next level with AI writing tools](#take-your-content-writing-to-the-next-level-with-ai-writing-tools)
+  - [Create stunning visuals with AI image generation tools](#create-stunning-visuals-with-ai-image-generation-tools)
+  - [Enhancing videos with AI editing tools](#enhancing-videos-with-ai-editing-tools)
+  - [Elevate your designs to new heights with AI design tools](#elevate-your-designs-to-new-heights-with-ai-design-tools)
+  - [Boost your search rankings and drive traffic with AI SEO tools](#boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools)
+  - [Streamline your workflow and boost efficiency with AI automation](#streamline-your-workflow-and-boost-efficiency-with-ai-automation)
+  - [AI-powered chatbots for customer service and engagement](#ai-powered-chatbots-for-customer-service-and-engagement)
+  - [Revolutionize your advertising with AI tools for ads](#revolutionize-your-advertising-with-ai-tools-for-ads)
 
 ### 1. Harness AI for Better Marketing Outcomes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of marketing: Understanding the role of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980)
@@ -113,6 +113,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), business (4), data (3), game (2), [[Content Creation]] (1)
 > **Env Vars:** roi (1)
 > **Analogies:** for example (1)
 > **Speakers:** - ai (1)
@@ -182,10 +183,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), business (5), data (5), product (3), [[Marketing Strategy]] (2)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** super (1)
 > **URLs:** [looti.io](https://looti.io) (1)
 > **Env Vars:** icp (1)
 > **Speakers:** - have (1)
@@ -235,8 +236,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), [[E-Commerce]] (2), [[ChatGPT]] (2), [[Microsoft Word|Word]] (2), product (1)
 > **Speakers:** - did (1), - wait (1), - yeah (1)
-> **Code Keywords:** let (1), from. (1)
 > **URLs:** [copy.ai](https://copy.ai) (1)
 > **Env Vars:** gpt (1)
 > **Exercise Files:** template (1)
@@ -289,9 +290,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (10), next (2), [[Stable Diffusion]] (2), [[Canva]] (2), prompt (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** interface (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - these (1)
@@ -363,9 +364,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), feature (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **URLs:** [pixctory.ai](https://pixctory.ai) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - this (1)
@@ -421,11 +422,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), business (3), product (3), [[Microsoft Products|Products]] (2), [[Canva]] (1)
 > **URLs:** [designs.ai](https://designs.ai) (2), [uizard.io](https://uizard.io) (2)
 > **Speakers:** - stop (1), - [voiceover] (1), - [instructor] (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 
 #### Boost your search rankings and drive traffic with AI SEO tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/boost-your-search-rankings-and-drive-traffic-with-ai-seo-tools?u=76281980)
@@ -476,10 +477,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (14), seo (10), [[Search]] (4), [[Google]] (4), business (2)
 > **Env Vars:** seo (10), gpt (1)
 > **URLs:** [keywrds.ai](https://keywrds.ai) (2), [metageni.ai](https://metageni.ai) (1), [embolden.co](https://embolden.co) (1)
 > **UI Navigation:** click on (3), go to (1)
-> **Code Keywords:** for. (1), let (1), from. (1)
 > **Code Identifiers:** ecommerce (1)
 > **Versions:** 3.5 (1)
 > **Exercise Files:** download the (1)
@@ -544,9 +545,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (11), [[Automation]] (6), business (3), data (3), management (2)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), self (1)
 > **UI Navigation:** right-click (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
@@ -603,9 +604,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (12), product (2), data (2), business (1), api (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** faq (1), api (1)
-> **Code Keywords:** super (1)
 > **URLs:** [quickchat.ai](https://quickchat.ai) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - this (1)
@@ -669,7 +670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1), this, (1), super (1)
+> **Frameworks & Libraries:** ai (17), data (2), management (1), business (1), generic (1)
 > **URLs:** [adcreative.ai](https://adcreative.ai) (2), [smartly.io](https://smartly.io) (1), [adext.ai](https://adext.ai) (1)
 > **Env Vars:** roi (2)
 > **Analogies:** such as (1), for example (1)

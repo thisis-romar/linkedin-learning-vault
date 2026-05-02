@@ -34,7 +34,7 @@ tags:
   - skill/software-development-security
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Development-%20Secure%20by%20Design.md)
@@ -53,45 +53,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Weave security into your AI product design process
+  - [Weave security into your AI product design process](#weave-security-into-your-ai-product-design-process)
 - [**1.  Foundations of AI Security, Governance, Risk, and Compliance**](#1-foundations-of-ai-security-governance-risk-and-compliance) (6 videos)
-  - Why governance, risk, and compliance matter from day one
-  - Governance in AI security
-  - Using the RACI Matrix
-  - AI risk management
-  - Navigating regulatory frameworks
-  - Compliance strategies for AI
+  - [Why governance, risk, and compliance matter from day one](#why-governance-risk-and-compliance-matter-from-day-one)
+  - [Governance in AI security](#governance-in-ai-security)
+  - [Using the RACI Matrix](#using-the-raci-matrix)
+  - [AI risk management](#ai-risk-management)
+  - [Navigating regulatory frameworks](#navigating-regulatory-frameworks)
+  - [Compliance strategies for AI](#compliance-strategies-for-ai)
 - [**2. AI Risk Management Frameworks**](#2-ai-risk-management-frameworks) (5 videos)
-  - Intro to Risk Management Framework
-  - Identify and assess risks
-  - Mitigate, monitor, and audit risks
-  - Manage policies, procedures, and training
-  - Establish oversight and governance
+  - [Intro to Risk Management Framework](#intro-to-risk-management-framework)
+  - [Identify and assess risks](#identify-and-assess-risks)
+  - [Mitigate, monitor, and audit risks](#mitigate-monitor-and-audit-risks)
+  - [Manage policies, procedures, and training](#manage-policies-procedures-and-training)
+  - [Establish oversight and governance](#establish-oversight-and-governance)
 - [**3. AI Security Threats and Adversarial Attacks**](#3-ai-security-threats-and-adversarial-attacks) (5 videos)
-  - What is the AI lifecycle?
-  - Introduction to adversarial attacks
-  - Defensive techniques against adversarial attacks
-  - Monitoring model behavior for anomalies
-  - A path to holistic security securing the AI supply chain
+  - [What is the AI lifecycle?](#what-is-the-ai-lifecycle)
+  - [Introduction to adversarial attacks](#introduction-to-adversarial-attacks)
+  - [Defensive techniques against adversarial attacks](#defensive-techniques-against-adversarial-attacks)
+  - [Monitoring model behavior for anomalies](#monitoring-model-behavior-for-anomalies)
+  - [A path to holistic security securing the AI supply chain](#a-path-to-holistic-security-securing-the-ai-supply-chain)
 - [**4. Secure AI Deployment and Access Controls**](#4-secure-ai-deployment-and-access-controls) (4 videos)
-  - Access control for AI models
-  - Security testing of AI models
-  - Business continuity management
-  - Automated monitoring and alerting
+  - [Access control for AI models](#access-control-for-ai-models)
+  - [Security testing of AI models](#security-testing-of-ai-models)
+  - [Business continuity management](#business-continuity-management)
+  - [Automated monitoring and alerting](#automated-monitoring-and-alerting)
 - [**5. Securing AI in the Software Development Lifecycle**](#5-securing-ai-in-the-software-development-lifecycle) (4 videos)
-  - Building Secure CI/CD Pipelines
-  - AI Software Supply Chain Security
-  - Continuous monitoring and threat detection
-  - Logging and incident response
+  - [Building Secure CI/CD Pipelines](#building-secure-cicd-pipelines)
+  - [AI Software Supply Chain Security](#ai-software-supply-chain-security)
+  - [Continuous monitoring and threat detection](#continuous-monitoring-and-threat-detection)
+  - [Logging and incident response](#logging-and-incident-response)
 - [**6. AI Security Case Studies and Playbooks**](#6-ai-security-case-studies-and-playbooks) (2 videos)
-  - Case studies: Lessons from AI security incidents
-  - AI security playbook: Secure by Design approach
+  - [Case studies: Lessons from AI security incidents](#case-studies-lessons-from-ai-security-incidents)
+  - [AI security playbook: Secure by Design approach](#ai-security-playbook-secure-by-design-approach)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Conclusion and next steps
+  - [Conclusion and next steps](#conclusion-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Weave security into your AI product design process
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980)
@@ -112,14 +112,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), [[Security]] (2), [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** dna (1), ceo (1), ciso (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - artificial (1)
 
 
 ### 1.  Foundations of AI Security, Governance, Risk, and Compliance
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Why governance, risk, and compliance matter from day one
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980)
@@ -156,8 +156,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), [[Security]] (6), data (2), business (1), leadership (1)
 > **Env Vars:** grc (3), ibm (1), gdpr (1), nist (1)
-> **Code Keywords:** let (1)
 > **Versions:** 4.4 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -238,8 +238,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (36), [[Security]] (11), [[Accountability]] (4), data (3), [[Privacy]] (2)
 > **Env Vars:** owasp (1), mitre (1), atlas (1), nist (1), iso (1)
-> **Code Keywords:** let (2), protected (1), function (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -309,8 +309,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (11), ai (8), management (5), [[Accountability]] (3), [[Cybersecurity]] (3)
 > **Env Vars:** raci (5), ciso (5), cro (5), cio (3), cfo (3)
-> **Code Keywords:** this, (1), let (1), finally, (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
 > **Definitions:** stands for (1)
@@ -383,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2)
+> **Frameworks & Libraries:** ai (27), [[Security]] (7), data (5), management (4), next (3)
 > **Cross-References:** next video (1), in the next (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -497,8 +497,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (43), [[Security]] (14), data (9), [[Privacy]] (5), [[NIST]] (3)
 > **Env Vars:** gdpr (7), ccpa (5), nist (3), iso (1), hipaa (1)
-> **Code Keywords:** public (2), case, (1), protected (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -588,8 +588,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (33), [[Security]] (18), data (10), [[Prototyping]] (2), management (2)
 > **Env Vars:** gdpr (3), hipaa (1), rbac (1), nist (1), shap (1)
-> **Code Keywords:** let (2), protected (1)
 > **CLI Commands:** make (1), cd (1)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** later in (1)
@@ -599,7 +599,7 @@ created: 2026-04-29
 
 ### 2. AI Risk Management Frameworks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Risk Management Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980)
@@ -638,7 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), module (1), require (1)
+> **Frameworks & Libraries:** ai (9), [[Security]] (6), management (2), [[Risk Management Framework (RMF)|Risk management framework]] (2), data (1)
 > **Analogies:** just like (2), imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -749,7 +749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (2), static (1)
+> **Frameworks & Libraries:** ai (28), [[Security]] (13), data (5), business (2), next (2)
 > **Analogies:** imagine (2), just like (2), for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** fair (1)
@@ -834,8 +834,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (23), [[Security]] (11), data (6), [[Continuous Monitoring]] (3), traffic (1)
 > **Analogies:** for example (2), just like (2), imagine (1), for instance (1)
-> **Code Keywords:** let (1), continue (1)
 > **Env Vars:** iso (1), nist (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
@@ -892,8 +892,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (18), [[Security]] (10), data (3), teams (2), [[Banking]] (1)
 > **Analogies:** just like (1), such as (1)
-> **Code Keywords:** extends (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
@@ -958,8 +958,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (22), [[Security]] (6), leadership (3), [[Accountability]] (2), [[Automation]] (2)
 > **Analogies:** for example (2), imagine (1), just like (1)
-> **Code Keywords:** let (1), else. (1), require (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Definitions:** is an  (1)
@@ -968,7 +968,7 @@ created: 2026-04-29
 
 ### 3. AI Security Threats and Adversarial Attacks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the AI lifecycle?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980)
@@ -1045,7 +1045,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), this, (1)
+> **Frameworks & Libraries:** ai (21), data (14), [[Security]] (8), teams (5), [[Prototyping]] (2)
 > **Env Vars:** api (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1147,7 +1147,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), self (1), yield (1), private (1)
+> **Frameworks & Libraries:** ai (38), data (11), [[Security]] (8), teams (2), api (2)
 > **Analogies:** for example (2), for instance (1), such as (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (2)
@@ -1235,9 +1235,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (23), data (20), [[Security]] (6), api (6), [[Privacy]] (5)
 > **Env Vars:** api (6), aws (3), sha (1), shap (1), lime (1)
 > **CLI Commands:** aws (3), make (2)
-> **Code Keywords:** let (1), this, (1), protected (1), finally, (1)
 > **Analogies:** such as (4)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -1318,9 +1318,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (24), [[Security]] (10), teams (6), data (4), [[Continuous Monitoring]] (2)
 > **Analogies:** for example (2), such as (2), just like (1)
 > **CLI Commands:** find (2), make (1)
-> **Code Keywords:** this, (2), continue (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [presenter] (1)
@@ -1426,9 +1426,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (35), [[Security]] (23), data (15), cloud (6), teams (3)
 > **Env Vars:** api (2), gdpr (2), shap (1), lime (1), nist (1)
 > **Analogies:** such as (2), for instance (1)
-> **Code Keywords:** require (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1436,7 +1436,7 @@ created: 2026-04-29
 
 ### 4. Secure AI Deployment and Access Controls
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Access control for AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980)
@@ -1527,8 +1527,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (17), [[Security]] (10), data (5), [[Network Security]] (2), [[Product Development]] (1)
 > **Analogies:** just like (4), imagine (2), such as (2)
-> **Code Keywords:** protected (1), let (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Env Vars:** api (1)
 > **Definitions:** known as (1)
@@ -1641,7 +1641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** protected (2), static (1)
+> **Frameworks & Libraries:** ai (44), [[Security]] (24), data (12), teams (4), [[Cybersecurity]] (2)
 > **Env Vars:** shap (1), lime (1), api (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1728,7 +1728,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), switch (1)
+> **Frameworks & Libraries:** ai (34), data (8), [[Security]] (7), cloud (6), business (5)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** shap (1)
 > **Cross-References:** in the next (1)
@@ -1788,14 +1788,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Security]] (6), data (4), api (2), [[Dashboards]] (2)
 > **Env Vars:** api (2), gdpr (1), hipaa (1), shap (1), lime (1)
-> **Code Keywords:** self (4), override (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 5. Securing AI in the Software Development Lifecycle
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Building Secure CI/CD Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980)
@@ -1882,8 +1882,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (25), [[Security]] (10), data (8), ci (7), cd (7)
 > **CLI Commands:** cd (7)
-> **Code Keywords:** let (2), protected (1), self (1), if, (1)
 > **Env Vars:** api (1), cicd (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -1977,9 +1977,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (33), data (11), [[Security]] (8), ci (2), cd (2)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** cd (2), make (1)
-> **Code Keywords:** let (1), pass (1)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -2043,9 +2043,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (13), [[Security]] (10), data (9), [[Real-Time]] (4), ci (2)
 > **Analogies:** just like (4), such as (3), imagine (1)
 > **CLI Commands:** cd (2), make (1)
-> **Code Keywords:** this, (2), require (1)
 > **Env Vars:** ibm (1), shap (1), lime (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2126,7 +2126,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), let (2), if, (1)
+> **Frameworks & Libraries:** ai (28), [[Security]] (14), data (5), teams (3), [[Real-Time]] (2)
 > **Env Vars:** api (2), gdpr (1), hipaa (1), pci (1), dss (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
@@ -2134,7 +2134,7 @@ created: 2026-04-29
 
 ### 6. AI Security Case Studies and Playbooks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Case studies: Lessons from AI security incidents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980)
@@ -2229,8 +2229,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (30), [[Security]] (13), data (7), api (3), [[Real-Time]] (2)
 > **Env Vars:** api (3), ceo (1)
-> **Code Keywords:** this, (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -2316,8 +2316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (25), [[Security]] (17), data (12), api (4), [[Continuous Monitoring]] (3)
 > **Env Vars:** api (4), mitre (1), atlas (1), nist (1), shap (1)
-> **Code Keywords:** protected (2)
 > **Cross-References:** we covered (1), previous video (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -2325,7 +2325,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980)
@@ -2364,8 +2364,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (15), [[Security]] (8), data (1), [[NIST]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Analogies:** just like (3)
-> **Code Keywords:** function (1), protected (1)
 > **Env Vars:** nist (1), gdpr (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - congratulations (1)

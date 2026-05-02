@@ -30,7 +30,7 @@ tags:
   - skill/computer-science
   - skill/programming
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Computer%20Science%20Principles-%20Programming.md)
@@ -49,48 +49,48 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Welcome
-  - What you should know
+  - [Welcome](#welcome)
+  - [What you should know](#what-you-should-know)
 - [**1. Control Computers with Code**](#1-control-computers-with-code) (2 videos)
-  - History of programming
-  - Forms of programming
+  - [History of programming](#history-of-programming)
+  - [Forms of programming](#forms-of-programming)
 - [**2. Define Actions Using Code**](#2-define-actions-using-code) (7 videos)
-  - Work with values and variables
-  - Use functions to repeat actions
-  - Break down tasks
-  - Customize functions with parameters
-  - Variables and scope
-  - Return values from functions
-  - Work with an API
+  - [Work with values and variables](#work-with-values-and-variables)
+  - [Use functions to repeat actions](#use-functions-to-repeat-actions)
+  - [Break down tasks](#break-down-tasks)
+  - [Customize functions with parameters](#customize-functions-with-parameters)
+  - [Variables and scope](#variables-and-scope)
+  - [Return values from functions](#return-values-from-functions)
+  - [Work with an API](#work-with-an-api)
 - [**3. Repeat Actions and Test for Conditions**](#3-repeat-actions-and-test-for-conditions) (9 videos)
-  - Capture input from the user
-  - Manage different variable types
-  - Create conditional tests
-  - Build compound conditional tests
-  - Use while loops
-  - Use for loops
-  - Create arrays to store groups of values
-  - Use loops with arrays
-  - Changing arrays
+  - [Capture input from the user](#capture-input-from-the-user)
+  - [Manage different variable types](#manage-different-variable-types)
+  - [Create conditional tests](#create-conditional-tests)
+  - [Build compound conditional tests](#build-compound-conditional-tests)
+  - [Use while loops](#use-while-loops)
+  - [Use for loops](#use-for-loops)
+  - [Create arrays to store groups of values](#create-arrays-to-store-groups-of-values)
+  - [Use loops with arrays](#use-loops-with-arrays)
+  - [Changing arrays](#changing-arrays)
 - [**4. Objects and OOP**](#4-objects-and-oop) (6 videos)
-  - Everything is an object
-  - Everything is a class
-  - Work with existing classes and objects
-  - Make your own classes and objects
-  - Extend classes
-  - Use polymorphism using interfaces
+  - [Everything is an object](#everything-is-an-object)
+  - [Everything is a class](#everything-is-a-class)
+  - [Work with existing classes and objects](#work-with-existing-classes-and-objects)
+  - [Make your own classes and objects](#make-your-own-classes-and-objects)
+  - [Extend classes](#extend-classes)
+  - [Use polymorphism using interfaces](#use-polymorphism-using-interfaces)
 - [**5. Beyond Programming**](#5-beyond-programming) (5 videos)
-  - Debug problems
-  - Refactor code to make improvements
-  - Save progress and work with others
-  - Build iteratively using agile development
-  - Create for multiple platforms
+  - [Debug problems](#debug-problems)
+  - [Refactor code to make improvements](#refactor-code-to-make-improvements)
+  - [Save progress and work with others](#save-progress-and-work-with-others)
+  - [Build iteratively using agile development](#build-iteratively-using-agile-development)
+  - [Create for multiple platforms](#create-for-multiple-platforms)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980)
@@ -133,7 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[Programming]] (5), [[Hardware]] (1), next (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Debugging]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - computers (1)
 
@@ -162,14 +162,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (1), require (1), for. (1)
+> **Frameworks & Libraries:** [[Programming]] (7), [[Hardware]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - this (1)
 
 
 ### 1. Control Computers with Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### History of programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980)
@@ -212,7 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** [[Programming]] (4), data (3)
 > **Speakers:** - in (1)
 
 #### Forms of programming
@@ -312,8 +312,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (8), [[Hardware]] (5), [[Forms]] (3), [[JavaScript]] (2), [[Java]] (2)
 > **Definitions:** is an  (3), is a  (2), is called (1)
-> **Code Keywords:** abstract (1), class. (1), this. (1), function (1)
 > **Env Vars:** sql (2), oop (1)
 > **CLI Commands:** make (2)
 > **Tools:** powershell (1), bash (1)
@@ -324,7 +324,7 @@ created: 2026-04-29
 
 ### 2. Define Actions Using Code
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with values and variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-values-and-variables?u=76281980)
@@ -451,8 +451,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Programming]] (1)
 > **Definitions:** is a  (7), is called (1)
-> **Code Keywords:** type. (2), type, (1), case, (1), interface (1)
 > **CLI Commands:** make (3), cat (1)
 > **Analogies:** for instance (1), it's like (1), for example (1)
 > **Speakers:** - computers (1)
@@ -498,7 +498,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), let (1)
+> **Frameworks & Libraries:** generic (1), [[Programming]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - one (1)
 
@@ -561,8 +561,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** let (2), function (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - part (1)
@@ -616,7 +616,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), case, (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - when (1)
 
@@ -671,7 +670,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11)
 > **Definitions:** is an  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - when (1)
@@ -737,7 +735,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (12), type. (2), case, (2), this, (1), match, (1)
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **Analogies:** just like (2)
 > **Prerequisites:** you need to have (2)
 > **CLI Commands:** make (1)
@@ -788,7 +786,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), interface (2), require (1), private (1), public (1)
+> **Frameworks & Libraries:** api (5), application (2), [[Programming]] (2), [[Hardware]] (1)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
@@ -797,7 +795,7 @@ created: 2026-04-29
 
 ### 3. Repeat Actions and Test for Conditions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Capture input from the user
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980)
@@ -868,7 +866,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (2), continue (2), interface (1), type. (1)
+> **Frameworks & Libraries:** [[Forms]] (2), data (2), [[Hardware]] (2), parallel (2)
 > **Analogies:** it's like (1), such as (1), similar to (1), for instance (1)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
@@ -914,7 +912,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** type. (3), function (1)
+> **Frameworks & Libraries:** [[Programming]] (4), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
@@ -1021,7 +1019,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this, (1), from. (1), continue (1)
+> **Frameworks & Libraries:** [[Programming]] (3), data (2), [[Forms]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** just like (1)
@@ -1124,8 +1122,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** cat (2), make (2), find (1)
-> **Code Keywords:** function (1), type. (1), switch (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - simple (1)
@@ -1181,9 +1179,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** this. (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - programming (1)
 
@@ -1260,10 +1258,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (1), [[Programming]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1), for instance (1), just like (1)
 > **Prerequisites:** you need to have (2), set up (1)
-> **Code Keywords:** let (1), function (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - loops (1)
 
@@ -1318,8 +1316,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (2), product (1), game (1), next (1)
 > **Definitions:** refers to (2), is a  (1)
-> **Code Keywords:** continue (1), override (1)
 > **Analogies:** for instance (1), think of it like (1)
 > **Speakers:** - when (1)
 
@@ -1372,7 +1370,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), function (1), case, (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), similar to (1)
 > **CLI Commands:** make (1)
@@ -1421,13 +1418,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - once (1)
 
 
 ### 4. Objects and OOP
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Everything is an object
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980)
@@ -1490,8 +1488,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Microsoft Office|Office]] (2)
 > **Definitions:** is an  (3), is a  (1), means that (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** vin (1)
 > **Speakers:** - object (1)
 
@@ -1594,7 +1592,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (11), class, (7), function (3)
+> **Frameworks & Libraries:** [[Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **Definitions:** is a  (4), is called (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), configure (1)
@@ -1660,7 +1658,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (6), class. (3), class, (2), require (2), function (1)
+> **Frameworks & Libraries:** [[Programming]] (1), [[Software Development]] (1), [[Android]] (1), [[Windows]] (1), [[HTML]] (1)
 > **Analogies:** just like (2), for instance (1)
 > **Env Vars:** sdk (1), html (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1738,7 +1736,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (6), private (5), class. (3), class, (2), let (1)
+> **Frameworks & Libraries:** [[Programming]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -1803,7 +1801,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (6), class, (5), extends (4)
+> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** cat (4)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -1878,7 +1876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** interface (7), class. (3), class, (3), type. (1), this. (1)
+> **Frameworks & Libraries:** [[Programming]] (6), [[Forms]] (2), [[Design Patterns]] (2)
 > **CLI Commands:** cat (5)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - when (1)
@@ -1886,7 +1884,7 @@ created: 2026-04-29
 
 ### 5. Beyond Programming
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Debug problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/debug-problems?u=76281980)
@@ -1957,6 +1955,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (2), web (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), for example (1)
 > **Definitions:** is an  (1)
@@ -2019,9 +2018,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1), power (1), next (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), is an  (1)
-> **Code Keywords:** require (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - coding (1)
 
@@ -2076,10 +2075,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Git]] (3), [[GitHub]] (2), next (1), product (1)
 > **CLI Commands:** make (4), git (3)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **Tools:** github (2)
-> **Code Keywords:** continue (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - working (1)
 
@@ -2124,7 +2123,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), super (1)
+> **Frameworks & Libraries:** product (3), [[Agile Development|Agile]] (3), game (2), [[Microsoft Products|Products]] (1), next (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you need to have (1)
@@ -2185,8 +2184,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (5), web (2), [[Hardware]] (1), [[Microsoft]] (1), [[Windows]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** require (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -2195,7 +2194,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980)
@@ -2226,6 +2225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Programming]] (6), [[Hardware]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), career (1), [[LinkedIn]] (1)
 > **Code Identifiers:** cspprogramming (1)
 > **URLs:** [dougwinnie.com](https://dougwinnie.com) (1)
 > **Speakers:** - as (1)

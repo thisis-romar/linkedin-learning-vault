@@ -30,7 +30,7 @@ tags:
   - skill/influencing-others
   - skill/leadership
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Influence%20Skills%20for%20Leaders%20and%20Managers.md)
@@ -49,33 +49,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Influencing at the leadership level
-  - Myths and truths about influence
-  - Assess your leadership influence
+  - [Influencing at the leadership level](#influencing-at-the-leadership-level)
+  - [Myths and truths about influence](#myths-and-truths-about-influence)
+  - [Assess your leadership influence](#assess-your-leadership-influence)
 - [**1. Using Influence to Manage Your Team**](#1-using-influence-to-manage-your-team) (5 videos)
-  - Inspiring your team to act
-  - Holding your team accountable
-  - Influencing different personalities
-  - Modeling the way
-  - Motivating your team through change
+  - [Inspiring your team to act](#inspiring-your-team-to-act)
+  - [Holding your team accountable](#holding-your-team-accountable)
+  - [Influencing different personalities](#influencing-different-personalities)
+  - [Modeling the way](#modeling-the-way)
+  - [Motivating your team through change](#motivating-your-team-through-change)
 - [**2. Using Organizational Influence to Get Things Done**](#2-using-organizational-influence-to-get-things-done) (6 videos)
-  - Developing organizational awareness
-  - Building relationships with stakeholders
-  - Influencing outcomes through others
-  - Using influence to advocate for your team
-  - Navigating power struggles
-  - Pushing back tactfully
+  - [Developing organizational awareness](#developing-organizational-awareness)
+  - [Building relationships with stakeholders](#building-relationships-with-stakeholders)
+  - [Influencing outcomes through others](#influencing-outcomes-through-others)
+  - [Using influence to advocate for your team](#using-influence-to-advocate-for-your-team)
+  - [Navigating power struggles](#navigating-power-struggles)
+  - [Pushing back tactfully](#pushing-back-tactfully)
 - [**3. Using Influence for Visibility and Impact**](#3-using-influence-for-visibility-and-impact) (4 videos)
-  - Earning authority and autonomy
-  - Building a braintrust
-  - Gaining visibility for team accomplishments
-  - Getting executive buy-in
+  - [Earning authority and autonomy](#earning-authority-and-autonomy)
+  - [Building a braintrust](#building-a-braintrust)
+  - [Gaining visibility for team accomplishments](#gaining-visibility-for-team-accomplishments)
+  - [Getting executive buy-in](#getting-executive-buy-in)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Influence for the greatest good
+  - [Influence for the greatest good](#influence-for-the-greatest-good)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Influencing at the leadership level
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-at-the-leadership-level-25859458?u=76281980)
@@ -98,8 +98,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (1), [[Algorithms]] (1), data (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - in (1)
 
 #### Myths and truths about influence
@@ -161,7 +161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), require (1), self (1), finally, (1)
+> **Frameworks & Libraries:** leadership (3), power (1), [[Accountability]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - there (1)
@@ -233,7 +233,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** self (1), let (1)
+> **Frameworks & Libraries:** leadership (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -242,7 +242,7 @@ created: 2026-04-29
 
 ### 1. Using Influence to Manage Your Team
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Inspiring your team to act
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/inspiring-your-team-to-act?u=76281980)
@@ -311,9 +311,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), career (1), management (1), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), picture (1)
-> **Code Keywords:** let (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - here (1)
@@ -409,7 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), this. (1)
+> **Frameworks & Libraries:** [[Accountability]] (4), feature (2), [[Microsoft Word|Word]] (1), leadership (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Cross-References:** in the next (1)
@@ -493,6 +493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1), next (1), data (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - i (1)
 
@@ -577,7 +578,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** match. (1), let (1), finally, (1)
+> **Frameworks & Libraries:** power (2), teams (2), [[React.js|React]] (1), leadership (1), product (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -654,7 +655,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1)
+> **Frameworks & Libraries:** ai (2), next (1), [[Accountability]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (2)
 > **Speakers:** - priorities (1)
@@ -662,7 +663,7 @@ created: 2026-04-29
 
 ### 2. Using Organizational Influence to Get Things Done
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing organizational awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/developing-organizational-awareness?u=76281980)
@@ -737,7 +738,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), this, (1), finally, (1)
+> **Frameworks & Libraries:** power (6), leadership (1), web (1), functional (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you'll need (1)
@@ -816,6 +817,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (2), data (1), next (1), functional (1), product (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
@@ -896,8 +898,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** leadership (1), [[Storytelling]] (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** case, (1), pass (1)
 > **Analogies:** just like (1)
 > **Speakers:** - sarah (1)
 
@@ -962,9 +964,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Banking]] (2), hit (1), [[Real-Time]] (1), business (1)
 > **Env Vars:** atm (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
@@ -1034,8 +1036,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (3), product (1)
 > **CLI Commands:** make (4), find (1)
-> **Code Keywords:** pass (1), continue (1), finally, (1)
 > **Best Practices:** make sure to (1), good practice (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
@@ -1117,7 +1119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), assert (1), this. (1)
+> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -1126,7 +1128,7 @@ created: 2026-04-29
 
 ### 3. Using Influence for Visibility and Impact
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Earning authority and autonomy
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/earning-authority-and-autonomy?u=76281980)
@@ -1209,6 +1211,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - one (1)
@@ -1274,6 +1277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -1353,9 +1357,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Storytelling]] (1), leadership (1), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **Best Practices:** don't forget (1), remember to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** picture (1)
 > **Speakers:** - how (1)
 
@@ -1488,18 +1492,18 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (2), next (1), [[Statistics]] (1), [[React.js|React]] (1)
 > **Env Vars:** bluff (3), ceo (1), scqa (1)
 > **Analogies:** for example (2), imagine (1), picture (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), stands for (1), in other words (1)
-> **Code Keywords:** finally, (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - imagine (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Influence for the greatest good
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influence-for-the-greatest-good?u=76281980)
@@ -1528,7 +1532,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for, (1), let (1), continue (1)
+> **Frameworks & Libraries:** leadership (2), [[LinkedIn]] (1)
 > **URLs:** [melodywilding.com](https://melodywilding.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)

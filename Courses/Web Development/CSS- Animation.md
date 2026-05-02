@@ -31,7 +31,7 @@ tags:
   - skill/cascading-style-sheets-css
   - skill/interactive-web-content
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Animation.md)
@@ -50,47 +50,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - CSS animation advantages
-  - Using GitHub Codespaces with this course
+  - [CSS animation advantages](#css-animation-advantages)
+  - [Using GitHub Codespaces with this course](#using-github-codespaces-with-this-course)
 - [**1. Overview of CSS Transitions and Transforms**](#1-overview-of-css-transitions-and-transforms) (5 videos)
-  - CSS transform basics
-  - Simple 3D transforms
-  - CSS transitions
-  - Challenge: Adding a transition
-  - Solution: Adding a transition
+  - [CSS transform basics](#css-transform-basics)
+  - [Simple 3D transforms](#simple-3d-transforms)
+  - [CSS transitions](#css-transitions)
+  - [Challenge: Adding a transition](#challenge-adding-a-transition)
+  - [Solution: Adding a transition](#solution-adding-a-transition)
 - [**2. Understanding CSS Animations**](#2-understanding-css-animations) (8 videos)
-  - CSS keyframe animation fundamentals
-  - animation-delay and animation-fill-mode
-  - A closer look at animation-fill-mode
-  - animation-direction
-  - Timing functions and easing
-  - The steps() timing function
-  - Challenge: Adding keyframes to an animation
-  - Solution: Adding keyframes to an animation
+  - [CSS keyframe animation fundamentals](#css-keyframe-animation-fundamentals)
+  - [animation-delay and animation-fill-mode](#animation-delay-and-animation-fill-mode)
+  - [A closer look at animation-fill-mode](#a-closer-look-at-animation-fill-mode)
+  - [animation-direction](#animation-direction)
+  - [Timing functions and easing](#timing-functions-and-easing)
+  - [The steps() timing function](#the-steps-timing-function)
+  - [Challenge: Adding keyframes to an animation](#challenge-adding-keyframes-to-an-animation)
+  - [Solution: Adding keyframes to an animation](#solution-adding-keyframes-to-an-animation)
 - [**3. CSS Animation Building Blocks**](#3-css-animation-building-blocks) (6 videos)
-  - Infinitely looping animations
-  - Pause and play with animation-play-state
-  - Animating 3D transforms
-  - Chaining multiple keyframe animations
-  - Challenge: Adding a third animation to the chain
-  - Solution: Adding a third animation to the chain
+  - [Infinitely looping animations](#infinitely-looping-animations)
+  - [Pause and play with animation-play-state](#pause-and-play-with-animation-play-state)
+  - [Animating 3D transforms](#animating-3d-transforms)
+  - [Chaining multiple keyframe animations](#chaining-multiple-keyframe-animations)
+  - [Challenge: Adding a third animation to the chain](#challenge-adding-a-third-animation-to-the-chain)
+  - [Solution: Adding a third animation to the chain](#solution-adding-a-third-animation-to-the-chain)
 - [**4. Animating SVGs with CSS**](#4-animating-svgs-with-css) (3 videos)
-  - Preparing an SVG for animation
-  - SVG exporting and optimization settings
-  - Animating SVG with CSS
+  - [Preparing an SVG for animation](#preparing-an-svg-for-animation)
+  - [SVG exporting and optimization settings](#svg-exporting-and-optimization-settings)
+  - [Animating SVG with CSS](#animating-svg-with-css)
 - [**5. Advanced CSS Animation Techniques**](#5-advanced-css-animation-techniques) (4 videos)
-  - Creating a motion path for CSS with offset-path
-  - Animating CSS motion path with offset-path
-  - Dynamic CSS animation with CSS variables
-  - Animating variable fonts with CSS
+  - [Creating a motion path for CSS with offset-path](#creating-a-motion-path-for-css-with-offset-path)
+  - [Animating CSS motion path with offset-path](#animating-css-motion-path-with-offset-path)
+  - [Dynamic CSS animation with CSS variables](#dynamic-css-animation-with-css-variables)
+  - [Animating variable fonts with CSS](#animating-variable-fonts-with-css)
 - [**6. Tools for Creating CSS Animations**](#6-tools-for-creating-css-animations) (1 videos)
-  - Using browser animation inspection tools
+  - [Using browser animation inspection tools](#using-browser-animation-inspection-tools)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Helpful online tools for CSS
+  - [Helpful online tools for CSS](#helpful-online-tools-for-css)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS animation advantages
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980)
@@ -119,9 +119,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (6), css (6), power (1), next (1), [[HTML]] (1)
 > **Env Vars:** css (6), html (1), svg (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - motion (1)
 
@@ -266,7 +266,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), switch (4), this. (1)
+> **Frameworks & Libraries:** [[Codespaces]] (6), hit (5), [[GitHub]] (4), [[LinkedIn]] (2), cloud (2)
 > **UI Navigation:** switch to (4), click on (3), go to (2)
 > **CLI Commands:** make (4), find (1), git (1)
 > **Tools:** github (4), visual studio (2)
@@ -278,7 +278,7 @@ created: 2026-04-29
 
 ### 1. Overview of CSS Transitions and Transforms
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS transform basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-transform-basics?u=76281980)
@@ -363,8 +363,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), web (1), [[HTML]] (1)
 > **Env Vars:** css (6), html (1)
-> **Code Keywords:** let (2), case. (1), function (1), this, (1)
 > **Analogies:** for example (4)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (2)
@@ -447,8 +447,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), [[HTML]] (1)
 > **Env Vars:** css (7), html (1)
-> **Code Keywords:** function (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -535,9 +535,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8)
 > **Versions:** 0.5 (3), 0.2 (2), 0.1 (2), 1.3 (1), 0.3 (1)
 > **Env Vars:** css (8)
-> **Code Keywords:** let (5)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -561,7 +561,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -588,8 +587,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2)
 > **Env Vars:** css (2)
-> **Code Keywords:** this. (1)
 > **Versions:** 0.3 (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
@@ -599,7 +598,7 @@ created: 2026-04-29
 
 ### 2. Understanding CSS Animations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS keyframe animation fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-keyframe-animation-fundamentals?u=76281980)
@@ -682,8 +681,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (9), [[HTML]] (1), next (1)
 > **Env Vars:** css (9), html (1)
-> **Code Keywords:** let (4), case, (1)
 > **Code Identifiers:** scalein (2)
 > **Versions:** 0.2 (1), 1.1 (1)
 > **Cross-References:** go back to (1)
@@ -732,7 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), super (1), pass (1), case, (1)
+> **Frameworks & Libraries:** css (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** css (1)
 > **Cross-References:** go back to (1)
@@ -789,9 +788,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (3), [[Prototyping]] (1)
 > **Env Vars:** css (3)
 > **Definitions:** in other words (2), is a  (1)
-> **Code Keywords:** default, (1), case, (1)
 > **Cross-References:** in the last (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -863,7 +862,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), let (1)
+> **Frameworks & Libraries:** css (2), power (1)
 > **Env Vars:** css (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you need to have (1)
@@ -1032,7 +1031,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (26), let (4), default. (1)
+> **Frameworks & Libraries:** css (13), power (3), web (2), next (1)
 > **Env Vars:** css (13)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [cubic-bezier.com](https://cubic-bezier.com) (2), [easings.net](https://easings.net) (2)
@@ -1170,7 +1169,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (2), this. (1)
+> **Frameworks & Libraries:** css (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
@@ -1202,7 +1201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1239,13 +1238,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. CSS Animation Building Blocks
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Infinitely looping animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/infinitely-looping-animations?u=76281980)
@@ -1324,8 +1324,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (8), css (3), [[HTML]] (1), feature (1)
 > **Env Vars:** css (3), html (1)
-> **Code Keywords:** let (1), function (1), pass (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
@@ -1424,7 +1424,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), function (1)
+> **Frameworks & Libraries:** css (3), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (3)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -1549,7 +1549,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), for. (2), this, (1), function (1), case, (1)
+> **Frameworks & Libraries:** css (3), [[HTML]] (2), [[JavaScript]] (1), next (1)
 > **Env Vars:** css (3), html (2), ams (1)
 > **Versions:** 0.2 (3), 0.4 (1)
 > **CLI Commands:** make (1)
@@ -1642,9 +1642,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (5), [[JavaScript]] (2), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **Versions:** 2.75 (2), 0.2 (2), 0.275 (1), 2.95 (1), 3.15 (1)
 > **Env Vars:** css (5), html (1)
-> **Code Keywords:** let (2), for. (1), case, (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** flipdown (1)
@@ -1670,6 +1670,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1721,7 +1722,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (3)
+> **Frameworks & Libraries:** css (2)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **Versions:** 4.95 (1)
@@ -1731,7 +1732,7 @@ created: 2026-04-29
 
 ### 4. Animating SVGs with CSS
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing an SVG for animation
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980)
@@ -1786,11 +1787,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[JavaScript]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** svg (10), css (2), html (1)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (2)
-> **Code Keywords:** case, (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -1896,9 +1897,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), next (3), [[HTML]] (1)
 > **Env Vars:** svg (25), css (8), html (1), svgomg (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** let (1), export, (1), switch (1)
 > **Analogies:** for example (1), just like (1)
 > **Warnings:** watch out (1), caution (1)
 > **UI Navigation:** go to (1)
@@ -2028,9 +2029,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), [[JavaScript]] (3), [[HTML]] (2), dom (1)
 > **Env Vars:** svg (22), css (7), html (2)
 > **Versions:** 0.25 (2), 0.1 (1), 1.25 (1), 0.8 (1), 0.4 (1)
-> **Code Keywords:** let (2), default. (1), this. (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** go back to (1)
@@ -2039,7 +2040,7 @@ created: 2026-04-29
 
 ### 5. Advanced CSS Animation Techniques
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a motion path for CSS with offset-path
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/creating-a-motion-path-for-css-with-offset-path?u=76281980)
@@ -2094,8 +2095,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), next (1)
 > **Env Vars:** svg (9), css (4)
-> **Code Keywords:** case, (2)
 > **CLI Commands:** make (1)
 > **Versions:** 219.99 (1)
 > **UI Navigation:** right-click (1)
@@ -2160,7 +2161,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), default. (1), let (1)
+> **Frameworks & Libraries:** [[HTML]] (1), css (1)
 > **Env Vars:** html (1), css (1), svg (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -2317,10 +2318,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (26), [[Microsoft Word|Word]] (3), [[JavaScript]] (2), web (1), power (1)
 > **Env Vars:** css (26)
 > **CLI Commands:** make (7)
 > **Versions:** 1.5 (3), 1.9 (2), 1.75 (1), 0.5 (1)
-> **Code Keywords:** let (5), this, (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** known as (1), means that (1)
 > **Analogies:** for example (1), just like (1)
@@ -2427,9 +2428,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), css (2), game (1), [[Typography]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (2), vars (2), casl (1), crsv (1), wght (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (2), new, (1)
 > **Warnings:** note that (1), keep in mind (1)
 > **URLs:** [wakamaifondue.com](https://wakamaifondue.com) (1)
 > **Definitions:** is a  (1)
@@ -2439,7 +2440,7 @@ created: 2026-04-29
 
 ### 6. Tools for Creating CSS Animations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using browser animation inspection tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/using-browser-animation-inspection-tools?u=76281980)
@@ -2524,10 +2525,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Debugging]] (4), web (4), css (2), next (1)
 > **UI Navigation:** go to (4), open the (3), click on (2)
 > **CLI Commands:** make (6), find (1)
 > **Tools:** firefox (6)
-> **Code Keywords:** let (4), function (1)
 > **Env Vars:** css (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -2536,7 +2537,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Helpful online tools for CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980)
@@ -2581,6 +2582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), web (1), power (1), [[JavaScript]] (1), next (1)
 > **Env Vars:** svg (7), css (6)
 > **URLs:** [cubic-bezier.com](https://cubic-bezier.com) (2), [easings.net](https://easings.net) (2), [animxyz.com](https://animxyz.com) (1), [animistic.net](https://animistic.net) (1), [codepen.io](https://codepen.io) (1)
 > **CLI Commands:** find (2)

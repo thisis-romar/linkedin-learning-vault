@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Amazon%20Web%20Services%20Aws%20For%20Developers.md)
@@ -50,44 +50,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Getting started in AWS
-  - What you should know
+  - [Getting started in AWS](#getting-started-in-aws)
+  - [What you should know](#what-you-should-know)
 - [**1. AWS Console**](#1-aws-console) (3 videos)
-  - AWS account and pricing
-  - AWS console and services
-  - Certified Developer-Associate
+  - [AWS account and pricing](#aws-account-and-pricing)
+  - [AWS console and services](#aws-console-and-services)
+  - [Certified Developer-Associate](#certified-developer-associate)
 - [**2. Security**](#2-security) (7 videos)
-  - Identity and Access Management (IAM)
-  - Users and groups
-  - Roles and policies
-  - Cognito
-  - Identity pools
-  - Identity provider (IdP)
-  - User pools
+  - [Identity and Access Management (IAM)](#identity-and-access-management-iam)
+  - [Users and groups](#users-and-groups)
+  - [Roles and policies](#roles-and-policies)
+  - [Cognito](#cognito)
+  - [Identity pools](#identity-pools)
+  - [Identity provider (IdP)](#identity-provider-idp)
+  - [User pools](#user-pools)
 - [**3. Development**](#3-development) (4 videos)
-  - SDK and tools
-  - Simple Storage Service (S3)
-  - DynamoDB
-  - Lambda
+  - [SDK and tools](#sdk-and-tools)
+  - [Simple Storage Service (S3)](#simple-storage-service-s3)
+  - [DynamoDB](#dynamodb)
+  - [Lambda](#lambda)
 - [**4. Messaging and Event-Driven**](#4-messaging-and-event-driven) (4 videos)
-  - Simple Queue Service (SQS)
-  - Simple Notification Service (SNS)
-  - Events and Lambda
-  - Step Functions
+  - [Simple Queue Service (SQS)](#simple-queue-service-sqs)
+  - [Simple Notification Service (SNS)](#simple-notification-service-sns)
+  - [Events and Lambda](#events-and-lambda)
+  - [Step Functions](#step-functions)
 - [**5. Deployment, Scalability, and Monitoring**](#5-deployment-scalability-and-monitoring) (6 videos)
-  - Elastic Beanstalk
-  - CloudFormation
-  - ElastiCache
-  - Lambda using cache
-  - CloudFront
-  - CloudWatch
+  - [Elastic Beanstalk](#elastic-beanstalk)
+  - [CloudFormation](#cloudformation)
+  - [ElastiCache](#elasticache)
+  - [Lambda using cache](#lambda-using-cache)
+  - [CloudFront](#cloudfront)
+  - [CloudWatch](#cloudwatch)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Cleanup
-  - Next steps
+  - [Cleanup](#cleanup)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980)
@@ -120,9 +120,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), cloud (2), [[Amazon EC2|Ec2]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** aws (5), sqs (1), sns (1), iam (1), vpc (1)
 > **CLI Commands:** aws (5)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### What you should know
@@ -144,15 +144,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), database (1), [[Cloud Development]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
-> **Code Keywords:** for, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. AWS Console
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS account and pricing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-account-and-pricing?u=76281980)
@@ -203,6 +203,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (5), feature (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (3)
 > **URLs:** [amazon.com](https://amazon.com) (2)
@@ -309,9 +310,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), database (3), web (2), [[Analytics]] (1), [[Blockchain]] (1)
 > **Env Vars:** aws (6), rds (1), api (1), iam (1), url (1)
 > **CLI Commands:** aws (7), python (1), node (1)
-> **Code Keywords:** lambda (2), this, (1), let (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (1), click on (1), dropdown (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
@@ -352,10 +353,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), [[Programming]] (1), application (1), management (1), [[Debugging]] (1)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (3)
 > **UI Navigation:** go to (1), click on (1)
-> **Code Keywords:** interface (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
@@ -363,7 +364,7 @@ created: 2026-04-29
 
 ### 2. Security
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Identity and Access Management (IAM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-and-access-management-iam?u=76281980)
@@ -430,9 +431,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (3), next (2), aws (2), management (1), [[JSON]] (1)
 > **Env Vars:** iam (4), aws (2), iiam (1), json (1), sns (1)
 > **CLI Commands:** aws (2), find (1)
-> **Code Keywords:** lambda (3)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** stands for (1)
@@ -542,7 +543,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (2), let (2), interface (2), this, (2), lambda (1)
+> **Frameworks & Libraries:** api (2)
 > **UI Navigation:** click on (4), go to (1)
 > **Env Vars:** api (2), sdk (1)
 > **Tools:** command line (2)
@@ -647,7 +648,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (6), let (1), case, (1), for, (1)
+> **Frameworks & Libraries:** next (3), hit (1), api (1), aws (1), [[JSON]] (1)
 > **Env Vars:** arn (2), api (1), aws (1), json (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **UI Navigation:** go to (2)
@@ -691,9 +692,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), next (1)
 > **Env Vars:** aws (7), mfa (1)
 > **CLI Commands:** aws (7)
-> **Code Keywords:** require (1), let (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -784,8 +785,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), hit (2), [[Analytics]] (2), [[Security]] (1), next (1)
 > **Env Vars:** api (5), iam (2)
-> **Code Keywords:** lambda (3)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
@@ -826,8 +827,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Google]] (1), next (1)
 > **Env Vars:** saml (1), iam (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 #### User pools
@@ -905,7 +906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), lambda (1), let (1), default. (1)
+> **Frameworks & Libraries:** [[Security]] (1), web (1), [[Analytics]] (1), hit (1), api (1)
 > **Env Vars:** arn (2), mfa (1), api (1)
 > **UI Navigation:** click on (2), select the (1), go to (1)
 > **Cross-References:** go back to (3)
@@ -916,7 +917,7 @@ created: 2026-04-29
 
 ### 3. Development
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### SDK and tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980)
@@ -999,10 +1000,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (9), web (4), [[CLI]] (4), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Env Vars:** aws (8), cli (4), ide (4)
 > **CLI Commands:** aws (9)
 > **Tools:** command line (4)
-> **Code Keywords:** this. (1), interface (1)
 > **URLs:** [amazon.com](https://amazon.com) (2)
 > **Code Identifiers:** ios (1)
 > **UI Navigation:** go to (1)
@@ -1103,7 +1104,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (4), public (3), lambda (2), default, (1)
+> **Frameworks & Libraries:** aws (4), web (2)
 > **UI Navigation:** click on (5), go to (1), scroll down (1)
 > **Env Vars:** aws (3), url (2), arn (1)
 > **Analogies:** for example (3), kind of like (2)
@@ -1243,7 +1244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (6), delete (3), function (2), let (1), require (1)
+> **Frameworks & Libraries:** data (7), api (3), database (2), aws (2), management (1)
 > **CLI Commands:** make (6), aws (2)
 > **Env Vars:** api (3), aws (2), json (1)
 > **Code Identifiers:** userid (3), createdat (1)
@@ -1378,7 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (8), function (4), let (1), this, (1), delete (1)
+> **Frameworks & Libraries:** api (3), aws (2), data (2), [[Microsoft Word|Word]] (1), [[Fetch]] (1)
 > **Env Vars:** sqs (4), api (3), aws (2), iam (2), uri (1)
 > **UI Navigation:** click on (4), go to (2), scroll down (1)
 > **Exercise Files:** template (4), boilerplate (1), zip file (1)
@@ -1390,7 +1391,7 @@ created: 2026-04-29
 
 ### 4. Messaging and Event-Driven
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple Queue Service (SQS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-queue-service-sqs?u=76281980)
@@ -1501,7 +1502,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (10), function (3), let (2), pass (1), continue (1)
+> **Frameworks & Libraries:** aws (3), [[Server-Sent Events|Sse]] (1), [[Security]] (1), next (1), [[Search]] (1)
 > **Env Vars:** sqs (10), aws (3), sse (1), kms (1)
 > **CLI Commands:** aws (3), make (3)
 > **Cross-References:** go back to (3), we mentioned (1)
@@ -1567,8 +1568,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (2), data (1)
 > **Env Vars:** sqs (8), sns (5), aws (2)
-> **Code Keywords:** lambda (5), let (3), for, (1), function (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** aws (2), make (1)
 > **Cross-References:** go back to (2), we talked about (1)
@@ -1640,7 +1641,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (8), function (1), this. (1), this, (1)
+> **Frameworks & Libraries:** data (4)
 > **Env Vars:** sqs (5), sns (3)
 > **UI Navigation:** go to (5), click on (2)
 > **Code Identifiers:** userid (1), createdat (1)
@@ -1760,7 +1761,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (6), function (5), pass (3), this, (2), let (1)
+> **Frameworks & Libraries:** aws (3), next (2), [[Automation]] (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (2)
 > **CLI Commands:** aws (3), make (1)
 > **Env Vars:** aws (2), url (1)
@@ -1772,7 +1773,7 @@ created: 2026-04-29
 
 ### 5. Deployment, Scalability, and Monitoring
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980)
@@ -1877,9 +1878,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (10), [[Amazon EC2|Ec2]] (4), [[Search]] (4), aws (3), web (3)
 > **Env Vars:** vpc (8), ec2 (3), aws (2), url (1)
 > **UI Navigation:** click on (5), go to (3), select the (2), scroll down (1)
-> **Code Keywords:** delete (3), let (2), private (1), public (1)
 > **CLI Commands:** aws (3), find (1)
 > **Prerequisites:** set up (3), you need to have (1)
 > **Exercise Files:** zip file (2), source code (1)
@@ -1941,9 +1942,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Security]] (2), [[JSON]] (2), [[Search]] (1), [[Java]] (1), [[CLI]] (1)
 > **Env Vars:** json (2), awseb (1), yaml (1), cli (1)
 > **Exercise Files:** template (4), exercise files (1)
-> **Code Keywords:** let (2), interface (1)
 > **UI Navigation:** click on (3)
 > **Cross-References:** go back to (1), previous video (1)
 > **Definitions:** is a  (2)
@@ -2005,7 +2006,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (5), default, (1)
+> **Frameworks & Libraries:** data (2), node (2), next (2), [[Search]] (1), cloud (1)
 > **CLI Commands:** node (2)
 > **UI Navigation:** click on (2)
 > **Prerequisites:** set up (2)
@@ -2137,7 +2138,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** lambda (7), function (5), let (2), interface (2), default. (1)
+> **Frameworks & Libraries:** [[Security]] (3), [[Search]] (2), [[Python (Programming Language)|Python]] (2), data (1), hit (1)
 > **UI Navigation:** click on (4), select the (4), scroll down (2), navigate to (1), dropdown (1)
 > **Env Vars:** vpc (5), iam (2), url (2), uuid (2)
 > **Prerequisites:** setup (3), configure (2), set up (1)
@@ -2205,7 +2206,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (2), let (1), while. (1)
+> **Frameworks & Libraries:** [[HTML]] (2), data (1), aws (1), [[Search]] (1)
 > **Env Vars:** oai (2), aws (1), html (1)
 > **UI Navigation:** go to (2)
 > **File Paths:** index.html (1)
@@ -2325,8 +2326,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (8), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), aws (1)
 > **UI Navigation:** go to (6), click on (1)
-> **Code Keywords:** lambda (3), for. (1), static (1), let (1)
 > **Env Vars:** sns (2), sqs (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Code Identifiers:** dynamodb (1)
@@ -2337,7 +2338,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Cleanup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cleanup?u=76281980)
@@ -2380,7 +2381,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** delete (8), case, (1)
+> **Frameworks & Libraries:** cloud (3), aws (1), [[CLI]] (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** aws (1), cli (1)
 > **CLI Commands:** aws (1)
@@ -2413,9 +2414,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (4), next (1), [[CLI]] (1), [[LinkedIn]] (1)
 > **Env Vars:** aws (4), sns (1), iam (1), cli (1)
 > **CLI Commands:** aws (4), make (1)
-> **Code Keywords:** lambda (1), let (1)
 > **URLs:** [brainwashinc.com](https://brainwashinc.com) (1)
 > **Tools:** aws console (1)
 > **Speakers:** - [bear] (1)

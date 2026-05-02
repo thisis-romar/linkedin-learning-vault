@@ -37,7 +37,7 @@ tags:
   - skill/javascript
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Integrating%20Generative%20AI%20into%20JavaScript%20Web%20Projects.md)
@@ -56,47 +56,47 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Integrate generative AI into your web projects
-  - What you should know
-  - Tools and exercise files
+  - [Integrate generative AI into your web projects](#integrate-generative-ai-into-your-web-projects)
+  - [What you should know](#what-you-should-know)
+  - [Tools and exercise files](#tools-and-exercise-files)
 - [**1. Introducing the Generative AI Models and Libraries**](#1-introducing-the-generative-ai-models-and-libraries) (3 videos)
-  - Generative AI: Genesis and evolution
-  - OpenAI: Key concepts
-  - OpenAI: Getting started
+  - [Generative AI: Genesis and evolution](#generative-ai-genesis-and-evolution)
+  - [OpenAI: Key concepts](#openai-key-concepts)
+  - [OpenAI: Getting started](#openai-getting-started)
 - [**2. Create Your First Next-Gen App (Node.js)**](#2-create-your-first-next-gen-app-nodejs) (5 videos)
-  - Node project setup
-  - Authenticate and configure with OpenAI
-  - Define prompts and a system message
-  - Challenge: Create an AI-agent and jokes generator
-  - Solution: Generate chat completions
+  - [Node project setup](#node-project-setup)
+  - [Authenticate and configure with OpenAI](#authenticate-and-configure-with-openai)
+  - [Define prompts and a system message](#define-prompts-and-a-system-message)
+  - [Challenge: Create an AI-agent and jokes generator](#challenge-create-an-ai-agent-and-jokes-generator)
+  - [Solution: Generate chat completions](#solution-generate-chat-completions)
 - [**3. Extending the Chatbot Capabilities with External Tools**](#3-extending-the-chatbot-capabilities-with-external-tools) (6 videos)
-  - Introducing function calling
-  - Enable function calling
-  - Define tools and parameters
-  - Challenge: Call the public API
-  - Solution: Call functions and connect to APIs
-  - Solution: Call functions and generate extended responses
+  - [Introducing function calling](#introducing-function-calling)
+  - [Enable function calling](#enable-function-calling)
+  - [Define tools and parameters](#define-tools-and-parameters)
+  - [Challenge: Call the public API](#challenge-call-the-public-api)
+  - [Solution: Call functions and connect to APIs](#solution-call-functions-and-connect-to-apis)
+  - [Solution: Call functions and generate extended responses](#solution-call-functions-and-generate-extended-responses)
 - [**4. Getting Started with the OpenAI Assistants API**](#4-getting-started-with-the-openai-assistants-api) (7 videos)
-  - Assistants API overview
-  - Create an assistant
-  - Upload files using the Files API
-  - Create a conversation session
-  - Run the conversation
-  - Check Run lifecycle and status
-  - Retrieve and display messages
+  - [Assistants API overview](#assistants-api-overview)
+  - [Create an assistant](#create-an-assistant)
+  - [Upload files using the Files API](#upload-files-using-the-files-api)
+  - [Create a conversation session](#create-a-conversation-session)
+  - [Run the conversation](#run-the-conversation)
+  - [Check Run lifecycle and status](#check-run-lifecycle-and-status)
+  - [Retrieve and display messages](#retrieve-and-display-messages)
 - [**5. Build an AI-powered Virtual Assistant (Assistants API)**](#5-build-an-ai-powered-virtual-assistant-assistants-api) (6 videos)
-  - Starter project and set up
-  - Making API requests
-  - Send a message
-  - Introduction the Moderation API
-  - Add a moderation layer
-  - Generate and moderate conversations
+  - [Starter project and set up](#starter-project-and-set-up)
+  - [Making API requests](#making-api-requests)
+  - [Send a message](#send-a-message)
+  - [Introduction the Moderation API](#introduction-the-moderation-api)
+  - [Add a moderation layer](#add-a-moderation-layer)
+  - [Generate and moderate conversations](#generate-and-moderate-conversations)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Last words and next steps
+  - [Last words and next steps](#last-words-and-next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate generative AI into your web projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980)
@@ -119,6 +119,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), web (3), [[Generative AI]] (2), [[JavaScript]] (1)
 > **Speakers:** - [sandy] (1)
 
 #### What you should know
@@ -152,9 +153,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Generative AI]] (2), node (2), [[npm]] (2), [[Web Development]] (1)
 > **CLI Commands:** node (2), npm (2), make (1), cd (1), ls (1)
 > **Prerequisites:** install (2), set up (1)
-> **Code Keywords:** let (1), interface (1)
 > **Tools:** command line (2)
 > **Analogies:** for example (2)
 > **Best Practices:** recommended (2)
@@ -216,19 +217,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (4), node (3), [[Security]] (1), [[Generative AI]] (1)
 > **Env Vars:** api (4), readme (1)
 > **Exercise Files:** exercise files (4), download the (1)
 > **CLI Commands:** node (3), make (1)
 > **Tools:** visual studio (1), firefox (1), safari (1), command line (1)
 > **Prerequisites:** set up (2), setup (1)
-> **Code Keywords:** interface (1)
 > **URLs:** [nodegs.org](https://nodegs.org) (1)
 > **UI Navigation:** select the (1)
 
 
 ### 1. Introducing the Generative AI Models and Libraries
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI: Genesis and evolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980)
@@ -297,8 +298,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (16), [[Generative AI]] (5), [[Deep Learning]] (4), [[ChatGPT]] (4), chatbot (3)
 > **Env Vars:** nlp (2), gpt (2), eliza (1), api (1)
-> **Code Keywords:** self (4), function (1)
 > **Definitions:** is a  (2), short for (2)
 > **CLI Commands:** node (1), make (1)
 > **Analogies:** for example (1)
@@ -398,7 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), type, (2), function (1), this, (1)
+> **Frameworks & Libraries:** ai (14), [[Tokens]] (7), data (4), [[Programming]] (2), prompt (2)
 > **Env Vars:** gpt (3), api (1)
 > **UI Navigation:** select the (1), dropdown (1), scroll down (1)
 > **Prerequisites:** set up (3)
@@ -474,7 +475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** module (2), continue (2), let (1)
+> **Frameworks & Libraries:** api (5), next (4), ai (1), web (1), [[Speech Recognition]] (1)
 > **Env Vars:** api (5)
 > **Prerequisites:** set up (3), getting started (1), configure (1)
 > **Cross-References:** in the next (3)
@@ -486,7 +487,7 @@ created: 2026-04-29
 
 ### 2. Create Your First Next-Gen App (Node.js)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Node project setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980)
@@ -595,9 +596,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (8), api (5), node (5), ai (3), next (3)
 > **CLI Commands:** node (7), find (5), make (5), npm (2)
 > **Prerequisites:** install (7), set up (6), configure (1)
-> **Code Keywords:** let (5), this. (2), interface (1), module (1)
 > **Env Vars:** api (6), readme (1), download (1), chat (1)
 > **File Paths:** node.js (2), package.json (2), index.js (1)
 > **UI Navigation:** select the (2), navigate to (1)
@@ -713,7 +714,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), private (2), continue (1), try, (1), this . (1)
+> **Frameworks & Libraries:** api (14), next (2), [[Node.js]] (1), [[ChatGPT]] (1), [[npm]] (1)
 > **Env Vars:** api (15), npm (1)
 > **CLI Commands:** make (5), find (3), node (1), npm (1)
 > **Cross-References:** go back to (3)
@@ -853,8 +854,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (8), api (4), next (3), prompt (2), [[Node.js]] (1)
 > **CLI Commands:** find (4), make (2), node (1), npm (1)
-> **Code Keywords:** let (7)
 > **Env Vars:** api (4)
 > **Cross-References:** go back to (4)
 > **Documentation:** the documentation (3)
@@ -977,12 +978,12 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (5), api (5), ai (3), chatbot (2), [[Prompt Engineering]] (2)
 > **Prerequisites:** install (4), set up (3), configure (1)
 > **Env Vars:** api (5), npm (1)
 > **UI Navigation:** click on (3), go to (1)
 > **File Paths:** index.js (2), package.json (1)
 > **CLI Commands:** make (2), npm (1)
-> **Code Keywords:** let (2), private (1)
 > **Exercise Files:** exercise files (1), starter project (1)
 > **Best Practices:** remember to (1), you should never (1)
 
@@ -1137,8 +1138,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Codespaces]] (5), chatbot (4), [[Tokens]] (4), prompt (3), ai (2)
 > **CLI Commands:** make (8), find (2), node (1), npm (1)
-> **Code Keywords:** let (8), this. (2), continue (1), finally, (1)
 > **Prerequisites:** set up (2), configure (1)
 > **UI Navigation:** scroll down (1), navigate to (1)
 > **File Paths:** node.js (1)
@@ -1149,7 +1150,7 @@ created: 2026-04-29
 
 ### 3. Extending the Chatbot Capabilities with External Tools
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing function calling
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980)
@@ -1224,7 +1225,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), public (3), function (2), module (1)
+> **Frameworks & Libraries:** data (8), ai (7), api (6), next (2), node (1)
 > **Env Vars:** api (6), gpt (2)
 > **CLI Commands:** node (1), find (1)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (2)
@@ -1378,7 +1379,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (19), let (7), this. (4), interface (2), public (1)
+> **Frameworks & Libraries:** data (2), api (2), next (2), feature (1), [[Fetch]] (1)
 > **CLI Commands:** make (5), find (1), node (1)
 > **Code Identifiers:** toolcalls (2), toolscalls (1)
 > **Definitions:** means that (2), is an  (1)
@@ -1474,7 +1475,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (15), let (8), public (2), continue (1), pass (1)
+> **Frameworks & Libraries:** api (5), next (3), [[JSON]] (2), application (1), data (1)
 > **Env Vars:** api (5), json (2)
 > **URLs:** [weathermap.org](https://weathermap.org) (1)
 > **Cross-References:** go back to (1)
@@ -1584,8 +1585,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (19), data (6), next (5), web (3), [[JSON]] (2)
 > **Env Vars:** api (19), json (2), gpt (2)
-> **Code Keywords:** let (3), function (3), public (1), finally, (1), this, (1)
 > **Prerequisites:** set up (7)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (5)
 > **CLI Commands:** make (3)
@@ -1690,7 +1691,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (7), switch (3), case, (1), await (1)
+> **Frameworks & Libraries:** api (7), [[JSON]] (7), web (2), data (1)
 > **Env Vars:** api (7), json (7), gpt (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), just like (1)
@@ -1846,7 +1847,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (11), let (5), switch (3), pass (2), from, (1)
+> **Frameworks & Libraries:** api (5), [[JSON]] (4), [[Tokens]] (3), data (1), feature (1)
 > **Env Vars:** api (5), json (4), gpt (3)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (4)
@@ -1858,7 +1859,7 @@ created: 2026-04-29
 
 ### 4. Getting Started with the OpenAI Assistants API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assistants API overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980)
@@ -1907,11 +1908,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (8), ai (7), [[ChatGPT]] (4), next (2), data (2)
 > **Env Vars:** api (8)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** chatgpt (4)
 > **Prerequisites:** set up (2), install (1), required to (1)
-> **Code Keywords:** function (1), module (1), finally, (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** remember to (1)
@@ -2011,7 +2012,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (3), this, (2), finally, (1), super (1)
+> **Frameworks & Libraries:** next (6), data (2), api (2), [[Fetch]] (1), ai (1)
 > **CLI Commands:** find (5), make (1), node (1)
 > **Env Vars:** abc (3), api (2)
 > **Cross-References:** go back to (2)
@@ -2133,7 +2134,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this. (5), pass (3), this, (2), function (1)
+> **Frameworks & Libraries:** api (2), ai (2), next (2), [[Fine Tuning]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** remember to (2), you should always (1)
 > **Env Vars:** api (2)
@@ -2251,7 +2252,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (4), this, (2), await (2), this. (2)
+> **Frameworks & Libraries:** next (5), api (3)
 > **Env Vars:** api (3), abc (2), faq (1)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** go back to (3), in the next (1)
@@ -2365,7 +2366,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), function (3), finally, (2), this. (2), this, (1)
+> **Frameworks & Libraries:** next (3), [[npm]] (1)
 > **CLI Commands:** make (4), find (3), npm (1)
 > **Cross-References:** go back to (3), in the next (1)
 > **Code Identifiers:** runthread (1), runassistants (1)
@@ -2494,7 +2495,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), function (5), pass (2), for. (1), async (1)
+> **Frameworks & Libraries:** next (5), api (1)
 > **CLI Commands:** find (5), make (4)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (3)
@@ -2665,7 +2666,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), function (2), pass (2), finally, (2), this. (2)
+> **Frameworks & Libraries:** api (12), data (4), ai (3), next (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** api (12), abc (2)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** go back to (5)
@@ -2677,7 +2678,7 @@ created: 2026-04-29
 
 ### 5. Build an AI-powered Virtual Assistant (Assistants API)
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starter project and set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980)
@@ -2804,8 +2805,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (11), next (6), express (3), application (3), [[React.js|React]] (3)
 > **Env Vars:** api (11), cli (1), json (1), readme (1)
-> **Code Keywords:** let (8), interface (1)
 > **Prerequisites:** set up (3), setup (2), install (2)
 > **CLI Commands:** node (3), make (2), npm (1)
 > **Definitions:** is a  (2)
@@ -2890,7 +2891,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), this. (1), pass (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), api (3), application (2), node (2), dom (2)
 > **CLI Commands:** make (4), node (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** api (3)
@@ -2988,7 +2989,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (5), pass (2), continue (1), function (1)
+> **Frameworks & Libraries:** api (4), application (3), [[JSON]] (3), ai (2), [[React.js|React]] (2)
 > **Env Vars:** api (4), json (3), es6 (1), post (1), abc (1)
 > **CLI Commands:** make (7)
 > **Ports:** :00 (2), :4000 (1)
@@ -3116,7 +3117,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (2), function (2), this. (2), module (1)
+> **Frameworks & Libraries:** application (3), next (3), api (2), [[Node.js]] (2), data (2)
 > **CLI Commands:** make (6), node (2), find (1)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** api (2), json (1)
@@ -3266,7 +3267,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (3), this. (3), pass (2), this, (2)
+> **Frameworks & Libraries:** application (3), [[JSON]] (3), api (2), [[Representational State Transfer (REST)|Rest]] (1), front-end (1)
 > **Code Identifiers:** category_scores (5), moderateconversation (2), sendmessage (1), moderateconversations (1), usermessage (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** json (3), api (2), gpt (1)
@@ -3429,7 +3430,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this. (2), this, (1)
+> **Frameworks & Libraries:** application (3), ai (2), api (1)
 > **Code Identifiers:** usememo (3), setgenerating (2), isdisabled (2), isgenerating (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (4)
@@ -3441,7 +3442,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Last words and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980)
@@ -3478,8 +3479,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (6), [[Generative AI]] (4), [[Python (Programming Language)|Python]] (2), [[GPT-4]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **CLI Commands:** python (2)
-> **Code Keywords:** super (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)

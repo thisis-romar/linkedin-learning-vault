@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Classes.md)
@@ -49,29 +49,29 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - JavaScript classes explored
-  - Course prerequisites
+  - [JavaScript classes explored](#javascript-classes-explored)
+  - [Course prerequisites](#course-prerequisites)
 - [**1. Defining Classes**](#1-defining-classes) (7 videos)
-  - Introduction to classes
-  - Defining a class
-  - Differences between functions and classes
-  - Hoisting explained with classes
-  - Strict mode with classes explained
-  - What are static methods and usage?
-  - Prototype methods explained and usage
+  - [Introduction to classes](#introduction-to-classes)
+  - [Defining a class](#defining-a-class)
+  - [Differences between functions and classes](#differences-between-functions-and-classes)
+  - [Hoisting explained with classes](#hoisting-explained-with-classes)
+  - [Strict mode with classes explained](#strict-mode-with-classes-explained)
+  - [What are static methods and usage?](#what-are-static-methods-and-usage)
+  - [Prototype methods explained and usage](#prototype-methods-explained-and-usage)
 - [**2. Constructors and Getters/Setters**](#2-constructors-and-getterssetters) (3 videos)
-  - Introduction to constructors
-  - Constructor and super usage
-  - Introduction and usage: Getters and setters
+  - [Introduction to constructors](#introduction-to-constructors)
+  - [Constructor and super usage](#constructor-and-super-usage)
+  - [Introduction and usage: Getters and setters](#introduction-and-usage-getters-and-setters)
 - [**3. Extends and Mixins**](#3-extends-and-mixins) (2 videos)
-  - Introduction to extends and usage
-  - Introduction to mixins and usage
+  - [Introduction to extends and usage](#introduction-to-extends-and-usage)
+  - [Introduction to mixins and usage](#introduction-to-mixins-and-usage)
 - [**Conclusion**](#conclusion) (1 videos)
-  - What's next?
+  - [What's next?](#whats-next)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript classes explored
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/javascript-classes-explored?u=76281980)
@@ -106,7 +106,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** super (1), finally, (1), extends (1), let (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -123,12 +123,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Speakers:** - [narrator] (1)
 
 
 ### 1. Defining Classes
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-classes?u=76281980)
@@ -173,7 +174,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class, (2), finally, (1), class. (1)
 > **Env Vars:** es6 (2), suv (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -336,7 +336,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (10), pass (9), class. (4), this. (3), class, (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (3), hit (1), application (1)
 > **Tools:** vs code (5), command line (1)
 > **File Paths:** app.js (3), index.html (1)
 > **Prerequisites:** install (2), set up (2)
@@ -376,7 +376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (5), class. (2)
+> **Frameworks & Libraries:** [[React.js|React]] (4), functional (1), application (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -435,7 +435,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (8), let (3), class. (1), delete (1), this, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Cross-References:** go back to (2)
 > **File Paths:** app.js (1)
 > **UI Navigation:** go to (1)
@@ -477,7 +477,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** throw (2), class, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), next (1), [[Search]] (1), [[Programming]] (1)
 > **Documentation:** the documentation (2)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Analogies:** for example (2)
@@ -569,7 +569,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** static (7), let (6), class, (4), function (3), class. (2)
 > **Code Identifiers:** totaldoors (6), carstats (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** cx5 (2)
@@ -619,7 +618,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), function (3), this, (3), class, (2), from, (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Cross-References:** we mentioned (1), go back to (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** isprototypeof (1)
@@ -629,7 +628,7 @@ created: 2026-04-29
 
 ### 2. Constructors and Getters/Setters
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to constructors
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-constructors?u=76281980)
@@ -668,7 +667,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (5), pass (3), super (2), let (1)
+> **Frameworks & Libraries:** next (2)
 > **Env Vars:** suv (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -776,7 +775,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), pass (7), class. (5), super (4), this. (3)
 > **Env Vars:** suv (15)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3)
@@ -867,7 +865,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), this. (4), private (2), protected (2), class. (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** getbrand (3), setbrand (2), newbrand (1)
 > **Env Vars:** es6 (2), suv (2)
 > **CLI Commands:** make (1)
@@ -877,7 +875,7 @@ created: 2026-04-29
 
 ### 3. Extends and Mixins
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to extends and usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980)
@@ -938,7 +936,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** extends (3), class. (3), let (2), function (2), case, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[React.js]] (1), [[HTML]] (1), application (1)
 > **File Paths:** app.js (1), react.js (1)
 > **Env Vars:** suv (1), html (1)
 > **CLI Commands:** make (1)
@@ -1068,7 +1066,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** class. (6), function (5), let (4), class, (3), extends (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[React.js|React]] (1), [[Microsoft Word|Word]] (1), next (1), hit (1)
 > **Code Identifiers:** madein (4), carmixin (1)
 > **Warnings:** caution (2), be aware (1)
 > **Env Vars:** suv (1)
@@ -1077,7 +1075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980)
@@ -1096,6 +1094,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (3), next (1), [[React.js|React]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [emmanuel] (1)
 

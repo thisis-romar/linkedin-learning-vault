@@ -21,7 +21,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20Foundations-%20Strategy%20Analysis.md)
@@ -40,38 +40,38 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Increase success with strategy analysis
-  - Who is this course for?
+  - [Increase success with strategy analysis](#increase-success-with-strategy-analysis)
+  - [Who is this course for?](#who-is-this-course-for)
 - [**1. Understanding Strategy Analysis Basics**](#1-understanding-strategy-analysis-basics) (3 videos)
-  - What is strategy analysis?
-  - Getting started when your company doesn't perform strategy analysis
-  - Strategy analysis key concepts
+  - [What is strategy analysis?](#what-is-strategy-analysis)
+  - [Getting started when your company doesn't perform strategy analysis](#getting-started-when-your-company-doesnt-perform-strategy-analysis)
+  - [Strategy analysis key concepts](#strategy-analysis-key-concepts)
 - [**2. Analyzing the Current State**](#2-analyzing-the-current-state) (5 videos)
-  - Analyze current state
-  - Technique: Determining root cause
-  - Technique: Business model canvas
-  - Technique: SWOT analysis
-  - Technique: Process modeling
+  - [Analyze current state](#analyze-current-state)
+  - [Technique: Determining root cause](#technique-determining-root-cause)
+  - [Technique: Business model canvas](#technique-business-model-canvas)
+  - [Technique: SWOT analysis](#technique-swot-analysis)
+  - [Technique: Process modeling](#technique-process-modeling)
 - [**3. Defining the Future State**](#3-defining-the-future-state) (6 videos)
-  - Define future state
-  - Identifying solution options to analyze
-  - Technique: Elicitation
-  - Technique: Constraints, assumptions, risks, and dependencies
-  - Technique: Gap analysis
-  - Technique: Financial analysis of solution options
+  - [Define future state](#define-future-state)
+  - [Identifying solution options to analyze](#identifying-solution-options-to-analyze)
+  - [Technique: Elicitation](#technique-elicitation)
+  - [Technique: Constraints, assumptions, risks, and dependencies](#technique-constraints-assumptions-risks-and-dependencies)
+  - [Technique: Gap analysis](#technique-gap-analysis)
+  - [Technique: Financial analysis of solution options](#technique-financial-analysis-of-solution-options)
 - [**4. Assessing Risks of Solutions**](#4-assessing-risks-of-solutions) (2 videos)
-  - Assess risks
-  - Technique: Risk analysis and management
+  - [Assess risks](#assess-risks)
+  - [Technique: Risk analysis and management](#technique-risk-analysis-and-management)
 - [**5. Defining the Change Strategy**](#5-defining-the-change-strategy) (2 videos)
-  - Define change strategy
-  - Technique: Business cases
+  - [Define change strategy](#define-change-strategy)
+  - [Technique: Business cases](#technique-business-cases)
 - [**Conclusion**](#conclusion) (2 videos)
-  - Supporting project initiation
-  - Revisiting strategy analysis when changes arise
+  - [Supporting project initiation](#supporting-project-initiation)
+  - [Revisiting strategy analysis when changes arise](#revisiting-strategy-analysis-when-changes-arise)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Increase success with strategy analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/increase-success-with-strategy-analysis?u=76281980)
@@ -98,7 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** new. (1), let (1)
+> **Frameworks & Libraries:** teams (1), next (1)
 > **Speakers:** - if (1)
 
 #### Who is this course for?
@@ -118,13 +118,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (2), teams (2), product (1)
 > **Analogies:** such as (1), picture (1)
 > **Speakers:** - if (1)
 
 
 ### 1. Understanding Strategy Analysis Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is strategy analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/what-is-strategy-analysis?u=76281980)
@@ -199,8 +200,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (12)
 > **CLI Commands:** make (3)
-> **Code Keywords:** else. (1), pass (1)
 > **Speakers:** - many (1), - while (1)
 > **Definitions:** is an  (1)
 
@@ -257,7 +258,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), case. (1), case, (1), new, (1)
+> **Frameworks & Libraries:** business (11)
 > **Prerequisites:** set up (1), you'll need (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
@@ -339,15 +340,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (21), [[Microsoft Products|Products]] (1), [[Business Transformation]] (1)
 > **Analogies:** for example (4), such as (1)
-> **Code Keywords:** let (2), implements (1), finally, (1)
 > **Definitions:** is a  (3), known as (1)
 > **Speakers:** - as (1)
 
 
 ### 2. Analyzing the Current State
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze current state
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/analyze-current-state?u=76281980)
@@ -420,9 +421,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), [[Enterprise Architecture]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), just like (1), picture (1)
-> **Code Keywords:** case, (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - think (1)
 
@@ -521,7 +522,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), continue (1), try, (1), this. (1)
+> **Frameworks & Libraries:** business (7)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -596,7 +597,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (1), let (1), require (1), for. (1), finally, (1)
+> **Frameworks & Libraries:** business (16), [[Microsoft Products|Products]] (3), next (1), product (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** don't forget (1)
@@ -672,10 +673,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), strengths (6)
 > **Env Vars:** swot (3)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - the (1)
@@ -725,15 +726,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), functional (1), [[Stakeholder Engagement]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1)
-> **Code Keywords:** super (1)
 > **Speakers:** - we (1)
 
 
 ### 3. Defining the Future State
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define future state
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-future-state?u=76281980)
@@ -788,8 +789,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (9), [[Enterprise Architecture]] (2)
 > **CLI Commands:** make (3), find (1)
-> **Code Keywords:** continue (1), new, (1), for. (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** make sure to (2), don't forget (1)
 > **Warnings:** keep in mind (1)
@@ -860,8 +861,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[Microsoft Products|Products]] (1)
 > **Env Vars:** rfi (1), rfq (1), rfp (1)
-> **Code Keywords:** from. (1)
 > **Speakers:** - we (1)
 
 #### Technique: Elicitation
@@ -929,7 +930,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), finally, (1), require (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (1), business (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - elicitation (1)
 
@@ -996,10 +997,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (4), feature (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** stands for (1), is a  (1)
-> **Code Keywords:** return. (1)
 > **Env Vars:** card (1)
 > **Speakers:** - once (1)
 
@@ -1066,8 +1067,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3)
-> **Code Keywords:** this. (1), let (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
 
@@ -1146,8 +1147,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (7), [[Financial Analysis]] (3)
 > **Env Vars:** irr (5), roi (3), npv (1)
-> **Code Keywords:** case. (2), finally, (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
@@ -1158,7 +1159,7 @@ created: 2026-04-29
 
 ### 4. Assessing Risks of Solutions
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980)
@@ -1223,6 +1224,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (3), [[Probability]] (2), [[Automation]] (1), [[Product Development]] (1), teams (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
@@ -1299,15 +1301,15 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), [[Probability]] (3), management (2), teams (2), game (1)
 > **Analogies:** for example (3), such as (2)
-> **Code Keywords:** finally, (1), require (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
 
 ### 5. Defining the Change Strategy
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Define change strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-change-strategy?u=76281980)
@@ -1386,7 +1388,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), case. (1), finally, (1)
+> **Frameworks & Libraries:** business (3)
 > **Best Practices:** recommended (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
@@ -1465,7 +1467,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), finally, (2), case, (1), include, (1)
+> **Frameworks & Libraries:** business (15), [[Business Decision Making]] (1), [[Financial Analysis]] (1)
 > **Cross-References:** we covered (2)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1475,7 +1477,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Supporting project initiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/supporting-project-initiation?u=76281980)
@@ -1550,7 +1552,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), pass (1), let (1)
+> **Frameworks & Libraries:** business (7), management (2), next (1), teams (1), hit (1)
 > **Best Practices:** recommended (1), don't forget (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
@@ -1632,8 +1634,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), management (2)
 > **CLI Commands:** make (2)
-> **Code Keywords:** let (1), case. (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 

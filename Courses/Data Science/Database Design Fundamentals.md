@@ -28,7 +28,7 @@ tags:
   - skill/database-design
   - skill/data-science
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Design%20Fundamentals.md)
@@ -47,44 +47,44 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - AI-ready data: Learning database design for success
-  - What you should know
+  - [AI-ready data: Learning database design for success](#ai-ready-data-learning-database-design-for-success)
+  - [What you should know](#what-you-should-know)
 - [**1. Database Design Basics**](#1-database-design-basics) (4 videos)
-  - Types of relational databases
-  - Database schemas
-  - Entity relationship diagrams
-  - Relational database design basics
+  - [Types of relational databases](#types-of-relational-databases)
+  - [Database schemas](#database-schemas)
+  - [Entity relationship diagrams](#entity-relationship-diagrams)
+  - [Relational database design basics](#relational-database-design-basics)
 - [**2. Data Relationships and Collations**](#2-data-relationships-and-collations) (3 videos)
-  - Determining primary keys
-  - Different data relationships
-  - Collation and character sets
+  - [Determining primary keys](#determining-primary-keys)
+  - [Different data relationships](#different-data-relationships)
+  - [Collation and character sets](#collation-and-character-sets)
 - [**3. Data Normalization**](#3-data-normalization) (4 videos)
-  - First normal form
-  - Second normal form
-  - Third normal form
-  - Normalization from BCNF to 6NF
+  - [First normal form](#first-normal-form)
+  - [Second normal form](#second-normal-form)
+  - [Third normal form](#third-normal-form)
+  - [Normalization from BCNF to 6NF](#normalization-from-bcnf-to-6nf)
 - [**4. Understanding the Physical Relational Design**](#4-understanding-the-physical-relational-design) (8 videos)
-  - Data types that are key to relational databases
-  - How rows and columns impact database design
-  - Types of relationships
-  - Defining primary keys
-  - Automatically increment a field
-  - The importance of foreign keys
-  - What is a null?
-  - Naming convention importance in relational databases
+  - [Data types that are key to relational databases](#data-types-that-are-key-to-relational-databases)
+  - [How rows and columns impact database design](#how-rows-and-columns-impact-database-design)
+  - [Types of relationships](#types-of-relationships)
+  - [Defining primary keys](#defining-primary-keys)
+  - [Automatically increment a field](#automatically-increment-a-field)
+  - [The importance of foreign keys](#the-importance-of-foreign-keys)
+  - [What is a null?](#what-is-a-null)
+  - [Naming convention importance in relational databases](#naming-convention-importance-in-relational-databases)
 - [**5. How Developments in AI Affect Database Design**](#5-how-developments-in-ai-affect-database-design) (3 videos)
-  - Architectural overview for AI
-  - Designing for AI
-  - Considerations for AI: Unstructured data and analytics
+  - [Architectural overview for AI](#architectural-overview-for-ai)
+  - [Designing for AI](#designing-for-ai)
+  - [Considerations for AI: Unstructured data and analytics](#considerations-for-ai-unstructured-data-and-analytics)
 - [**6. Final Project**](#6-final-project) (2 videos)
-  - Final project setup: Design your own database
-  - Final project walkthrough: Design your own database
+  - [Final project setup: Design your own database](#final-project-setup-design-your-own-database)
+  - [Final project walkthrough: Design your own database](#final-project-walkthrough-design-your-own-database)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Empower your world: Innovate, act, transform
+  - [Empower your world: Innovate, act, transform](#empower-your-world-innovate-act-transform)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-ready data: Learning database design for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980)
@@ -103,6 +103,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (2), data (2), database (2), [[Databases]] (1)
 > **Speakers:** - [melody] (1)
 
 #### What you should know
@@ -132,6 +133,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (4), data (3), [[Relational Databases]] (1), [[Big Data]] (1), next (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** dba (1)
@@ -140,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Database Design Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980)
@@ -193,6 +195,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (4), [[Microsoft Excel|Excel]] (3), [[Databases]] (3), business (2)
 > **Env Vars:** oltp (5), olap (3), htap (2), pin (1), etl (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -242,8 +245,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), data (5), [[Relational Databases]] (3), [[Snowflake]] (3), database (2)
 > **Definitions:** is a  (4), is an  (1)
-> **Code Keywords:** case, (1)
 > **Env Vars:** olap (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -319,6 +322,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), next (2), [[Forms]] (2), business (2), game (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** erd (2)
 > **CLI Commands:** make (1)
@@ -372,7 +376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** abstract (1), type, (1), require (1), from, (1)
+> **Frameworks & Libraries:** data (19), database (10), business (10), management (3), [[Storage Management]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -381,7 +385,7 @@ created: 2026-04-29
 
 ### 2. Data Relationships and Collations
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining primary keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/determining-primary-keys?u=76281980)
@@ -430,9 +434,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Different data relationships
@@ -466,6 +470,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), [[Security]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -566,10 +571,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), database (4), ai (3), [[Databases]] (1), cloud (1)
 > **Env Vars:** utf (5), ascii (2)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3), just like (1)
-> **Code Keywords:** match. (1), case. (1), public (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -577,7 +582,7 @@ created: 2026-04-29
 
 ### 3. Data Normalization
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### First normal form
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980)
@@ -646,8 +651,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (15), product (2), [[Forms]] (2), [[Data Architecture]] (1), business (1)
 > **CLI Commands:** find (4), make (1)
-> **Code Keywords:** from, (1), let (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
@@ -699,7 +704,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** data (11)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -777,7 +782,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), else. (1), case, (1)
+> **Frameworks & Libraries:** data (9), [[Databases]] (3), next (2), business (2), [[Forms]] (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** just like (2)
 > **Cross-References:** in the next (1)
@@ -838,7 +843,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (3), this, (1)
+> **Frameworks & Libraries:** data (7), [[Forms]] (4), [[Databases]] (3), database (2), [[Relational Databases]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -846,7 +851,7 @@ created: 2026-04-29
 
 ### 4. Understanding the Physical Relational Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Data types that are key to relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980)
@@ -947,10 +952,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (24), [[Databases]] (7), [[SQL]] (6), database (4), [[Relational Databases]] (3)
 > **Env Vars:** sql (7), blob (3), char (2), varchar (2), text (2)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (4)
-> **Code Keywords:** this, (1), type. (1)
 > **SQL:** varchar (2)
 > **Versions:** 3.0 (2)
 > **CLI Commands:** make (1)
@@ -1015,8 +1020,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), [[Databases]] (10), database (7), product (2), [[Business Intelligence (BI)|Business intelligence]] (2)
 > **Analogies:** such as (4)
-> **Code Keywords:** this, (1), case, (1)
 > **Env Vars:** olap (1), sql (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** known as (1)
@@ -1041,6 +1046,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), database (2), [[Databases]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1099,6 +1105,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), [[Privacy]] (1), [[Relational Databases]] (1), database (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1)
@@ -1135,6 +1142,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), database (3), management (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1177,6 +1185,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), database (4), management (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1219,11 +1228,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (6), data (6)
 > **Env Vars:** null (9)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
-> **Code Keywords:** continue (1)
 > **Speakers:** - [instructor] (1)
 
 #### Naming convention importance in relational databases
@@ -1283,10 +1292,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), [[Relational Databases]] (1), [[SQL]] (1), data (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (1), tbl (1), col (1)
 > **Analogies:** such as (1), for example (1)
-> **Code Keywords:** case, (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -1294,7 +1303,7 @@ created: 2026-04-29
 
 ### 5. How Developments in AI Affect Database Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Architectural overview for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980)
@@ -1345,6 +1354,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (12), ai (10), database (6), [[Security]] (4), [[SQL]] (2)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** mysql (1)
@@ -1402,6 +1412,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (20), ai (10), [[Databases]] (7), database (5), [[Real-Time]] (3)
 > **CLI Commands:** apache (3)
 > **Analogies:** such as (2), for instance (1)
 > **Env Vars:** etl (1)
@@ -1432,6 +1443,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), ai (3), database (2), [[Performance Tuning]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1439,7 +1451,7 @@ created: 2026-04-29
 
 ### 6. Final Project
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project setup: Design your own database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980)
@@ -1476,9 +1488,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** database (3), data (2), product (2), next (2), [[Forms]] (1)
 > **Cross-References:** in the next (2)
 > **Prerequisites:** setup (1), set up (1)
-> **Code Keywords:** from. (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -1551,7 +1563,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** product (5), database (3), data (1), business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1561,7 +1573,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Empower your world: Innovate, act, transform
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980)
@@ -1600,6 +1612,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (5), database (2), [[LinkedIn]] (2), next (1)
 > **Env Vars:** erd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [melody] (1)

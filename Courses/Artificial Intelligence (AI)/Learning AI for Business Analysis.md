@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-analysis
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20AI%20for%20Business%20Analysis.md)
@@ -51,45 +51,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (6 videos)
-  - Transform your business analysis career
-  - AI's impact on business analysis
-  - The mindset of a business analyst with AI
-  - AI landscape and the urgency for change
-  - Transforming into an AI business analyst
-  - Understand the capabilities of AI
+  - [Transform your business analysis career](#transform-your-business-analysis-career)
+  - [AI's impact on business analysis](#ais-impact-on-business-analysis)
+  - [The mindset of a business analyst with AI](#the-mindset-of-a-business-analyst-with-ai)
+  - [AI landscape and the urgency for change](#ai-landscape-and-the-urgency-for-change)
+  - [Transforming into an AI business analyst](#transforming-into-an-ai-business-analyst)
+  - [Understand the capabilities of AI](#understand-the-capabilities-of-ai)
 - [**1. AI: Language Interactions and Processing**](#1-ai-language-interactions-and-processing) (5 videos)
-  - Generative AI for business analysis
-  - Natural language processing
-  - Speech recognition and voice technologies
-  - Chatbots and virtual agents
-  - AI agents and roles for business analysis
+  - [Generative AI for business analysis](#generative-ai-for-business-analysis)
+  - [Natural language processing](#natural-language-processing)
+  - [Speech recognition and voice technologies](#speech-recognition-and-voice-technologies)
+  - [Chatbots and virtual agents](#chatbots-and-virtual-agents)
+  - [AI agents and roles for business analysis](#ai-agents-and-roles-for-business-analysis)
 - [**2. AI: Processing Non-Language Things**](#2-ai-processing-non-language-things) (9 videos)
-  - AI outside the bounds of traditional generative AI
-  - Machine and deep learning: Business uses
-  - Biometrics: Business uses
-  - Video and image analysis: Business uses
-  - Swarm intelligence for business process
-  - Blockchain: business uses
-  - Robotic process automation for business analysis
-  - AI and data analytics for business analysis
-  - AI agent to AI agent integration capabilities
+  - [AI outside the bounds of traditional generative AI](#ai-outside-the-bounds-of-traditional-generative-ai)
+  - [Machine and deep learning: Business uses](#machine-and-deep-learning-business-uses)
+  - [Biometrics: Business uses](#biometrics-business-uses)
+  - [Video and image analysis: Business uses](#video-and-image-analysis-business-uses)
+  - [Swarm intelligence for business process](#swarm-intelligence-for-business-process)
+  - [Blockchain: business uses](#blockchain-business-uses)
+  - [Robotic process automation for business analysis](#robotic-process-automation-for-business-analysis)
+  - [AI and data analytics for business analysis](#ai-and-data-analytics-for-business-analysis)
+  - [AI agent to AI agent integration capabilities](#ai-agent-to-ai-agent-integration-capabilities)
 - [**3. Impact to Requirements and Business Analysis**](#3-impact-to-requirements-and-business-analysis) (5 videos)
-  - Linking AI capabilities together for business analysis
-  - How are requirements similar for business analysis and AI?
-  - How are requirements different for business analysis and AI?
-  - Linking digital work to business processes
-  - AI projects with agile
+  - [Linking AI capabilities together for business analysis](#linking-ai-capabilities-together-for-business-analysis)
+  - [How are requirements similar for business analysis and AI?](#how-are-requirements-similar-for-business-analysis-and-ai)
+  - [How are requirements different for business analysis and AI?](#how-are-requirements-different-for-business-analysis-and-ai)
+  - [Linking digital work to business processes](#linking-digital-work-to-business-processes)
+  - [AI projects with agile](#ai-projects-with-agile)
 - [**4. Technique Highlights**](#4-technique-highlights) (4 videos)
-  - Experiments and hypothesis in AI business analysis work
-  - Business measurements of success
-  - The customer journey and user experience
-  - Monitoring the results of AI capabilities
+  - [Experiments and hypothesis in AI business analysis work](#experiments-and-hypothesis-in-ai-business-analysis-work)
+  - [Business measurements of success](#business-measurements-of-success)
+  - [The customer journey and user experience](#the-customer-journey-and-user-experience)
+  - [Monitoring the results of AI capabilities](#monitoring-the-results-of-ai-capabilities)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps with AI in business analysis work
+  - [Next steps with AI in business analysis work](#next-steps-with-ai-in-business-analysis-work)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your business analysis career
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/transform-your-business-analysis-career?u=76281980)
@@ -110,7 +110,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (7), ai (3)
 > **Speakers:** - the (1)
 
 #### AI's impact on business analysis
@@ -174,7 +174,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), continue (1), let (1), while, (1)
+> **Frameworks & Libraries:** business (15), ai (11), data (4), teams (3), [[Generative AI]] (3)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (1), set up (1)
 > **Definitions:** is an  (1)
@@ -213,6 +213,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), ai (3), express (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
@@ -276,7 +277,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** require (1), continue (1), this, (1)
+> **Frameworks & Libraries:** business (6), data (1), teams (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -340,8 +341,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (8), data (6), ai (5), teams (2), product (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - maybe (1)
 
@@ -408,7 +409,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), let (2), this. (1)
+> **Frameworks & Libraries:** data (14), ai (12), business (7), [[User Experience (UX)|User experience]] (2), teams (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** exercise file (2)
 > **Speakers:** - understanding (1)
@@ -416,7 +417,7 @@ created: 2026-04-29
 
 ### 1. AI: Language Interactions and Processing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980)
@@ -475,8 +476,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI]] (12), data (11), ai (5), business (3), next (2)
 > **Analogies:** just like (2), for example (2), imagine (2), it's like (1)
-> **Code Keywords:** interface (2), let (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** configure (1)
@@ -535,6 +536,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (6), business (5), [[Natural Language Processing (NLP)|Natural language processing]] (4), ai (4), [[Search]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - natural (1)
@@ -598,8 +600,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (7), business (4), data (2), [[Speech Recognition]] (1), [[Automation]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
@@ -654,8 +656,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), business (3), chatbot (2), [[Generative AI]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** this, (2)
 > **Documentation:** spec (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** imagine (1)
@@ -714,7 +716,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this. (1)
+> **Frameworks & Libraries:** ai (21), business (10), data (3), teams (1), [[LinkedIn]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - let (1)
@@ -722,7 +724,7 @@ created: 2026-04-29
 
 ### 2. AI: Processing Non-Language Things
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### AI outside the bounds of traditional generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-outside-the-bounds-of-traditional-generative-ai?u=76281980)
@@ -771,6 +773,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (20), [[Generative AI]] (4), data (2), next (2), business (2)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -825,6 +828,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (11), [[Programming]] (1), next (1), [[Generative AI]] (1), power (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
@@ -886,7 +890,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), public (1)
+> **Frameworks & Libraries:** ai (3), business (3), [[Security]] (2), management (1), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sci (1)
@@ -930,6 +934,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), ai (4), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - ai (1)
@@ -991,10 +996,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistical Analysis]] (1), [[Routing]] (1), [[Telecommunications]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - what (1)
 
 #### Blockchain: business uses
@@ -1042,8 +1047,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Blockchain]] (9), business (4), [[Security]] (3), management (2), data (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
@@ -1108,11 +1113,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (10), rpa (8), business (5), [[Robotic Process Automation (RPA)|Robotic process automation]] (2), ai (1)
 > **Env Vars:** rpa (8), api (1)
 > **Analogies:** picture (1), for example (1), imagine (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** interface (1)
 > **UI Navigation:** drag and drop (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -1162,9 +1167,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (9), [[Analytics]] (7), next (7), ai (6), business (5)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** for example (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - data (1)
 
 #### AI agent to AI agent integration capabilities
@@ -1222,8 +1227,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (19), business (13), next (2), data (2), [[LinkedIn]] (2)
 > **CLI Commands:** find (2)
-> **Code Keywords:** let (1), this, (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - to (1)
@@ -1231,7 +1236,7 @@ created: 2026-04-29
 
 ### 3. Impact to Requirements and Business Analysis
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linking AI capabilities together for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980)
@@ -1290,7 +1295,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1)
+> **Frameworks & Libraries:** business (7), ai (6), [[Generative AI]] (3), career (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
@@ -1354,7 +1359,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), from, (1), continue (1), switch (1)
+> **Frameworks & Libraries:** business (11), ai (5), teams (3), data (1)
 > **Env Vars:** iiba (1), babok (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1430,8 +1435,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (9), business (5), teams (5), data (4), [[User Experience (UX)|User experience]] (3)
 > **Definitions:** is a  (2), means that (1), is an  (1)
-> **Code Keywords:** let (1), self (1), continue (1)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - let (1)
 
@@ -1496,7 +1501,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1), for. (1), from, (1)
+> **Frameworks & Libraries:** business (8), ai (4), data (2), [[Customer Journey Mapping]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - traditionally (1)
@@ -1560,7 +1565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), for, (1), let (1), self (1)
+> **Frameworks & Libraries:** ai (7), next (3), business (2), [[Agile Development|Agile]] (2), teams (2)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -1569,7 +1574,7 @@ created: 2026-04-29
 
 ### 4. Technique Highlights
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Experiments and hypothesis in AI business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980)
@@ -1638,8 +1643,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (3), next (2), data (2), business (1), product (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - remember (1)
@@ -1691,8 +1696,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (5), ai (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** require (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
@@ -1750,10 +1755,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** ai (4), business (2), product (1), [[Digital Transformation]] (1), data (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** type. (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - when (1)
@@ -1817,8 +1822,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (6), data (5), ai (4), [[Ethics]] (2), [[Analytics]] (1)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** continue (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - ai (1)
@@ -1826,7 +1831,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with AI in business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/next-steps-with-ai-in-business-analysis-work?u=76281980)
@@ -1853,7 +1858,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1)
+> **Frameworks & Libraries:** ai (5), business (1), teams (1), career (1)
 > **Speakers:** - ai (1)
 
 

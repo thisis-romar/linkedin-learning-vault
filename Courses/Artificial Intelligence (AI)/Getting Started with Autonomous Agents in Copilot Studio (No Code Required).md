@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Getting%20Started%20with%20Autonomous%20Agents%20in%20Copilot%20Studio%20(No%20Code%20Required).md)
@@ -49,18 +49,18 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Build agents in Copilot Studio
-  - What are agents?
+  - [Build agents in Copilot Studio](#build-agents-in-copilot-studio)
+  - [What are agents?](#what-are-agents)
 - [**1. Creating a Copilot Agent**](#1-creating-a-copilot-agent) (5 videos)
-  - Create agents from templates, conversationally, or manually
-  - Apply knowledge
-  - Add actions
-  - Edit instructions
-  - Introduce a trigger
+  - [Create agents from templates, conversationally, or manually](#create-agents-from-templates-conversationally-or-manually)
+  - [Apply knowledge](#apply-knowledge)
+  - [Add actions](#add-actions)
+  - [Edit instructions](#edit-instructions)
+  - [Introduce a trigger](#introduce-a-trigger)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Build agents in Copilot Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/build-agents-in-copilot-studio?u=76281980)
@@ -79,6 +79,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (1), ai (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - copilot (1)
@@ -116,14 +117,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), ai (3), data (2), management (1), [[Microsoft Teams]] (1)
 > **Analogies:** for example (3)
-> **Code Keywords:** require (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Creating a Copilot Agent
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Create agents from templates, conversationally, or manually
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980)
@@ -242,7 +243,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), case, (1), continue (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), next (3), data (2), [[Microsoft]] (1), hr (1)
 > **Analogies:** for example (5)
 > **Exercise Files:** template (4)
 > **Prerequisites:** configure (3), set up (1)
@@ -382,7 +383,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), case, (4), continue (2), switch (2), this. (2)
+> **Frameworks & Libraries:** ai (5), [[Microsoft Office|Office]] (4), [[Microsoft Copilot|Copilot]] (3), [[SharePoint]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -490,7 +491,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), case, (3), delete (1), this. (1), require (1)
+> **Frameworks & Libraries:** next (6), [[Microsoft Copilot|Copilot]] (4), ai (3), [[Microsoft Outlook|Outlook]] (3), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), just like (1)
 > **Prerequisites:** configure (2)
@@ -572,7 +573,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[Jetpack Compose|Compose]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** refers to (1)
@@ -686,7 +687,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), switch (6), case, (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Outlook|Outlook]] (2), feature (1), [[Microsoft Office|Office]] (1), next (1)
 > **Prerequisites:** set up (5)
 > **Cross-References:** go back to (3), we mentioned (1)
 > **UI Navigation:** go to (2), scroll down (1)

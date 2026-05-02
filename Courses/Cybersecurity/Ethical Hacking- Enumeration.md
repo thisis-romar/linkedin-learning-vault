@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Enumeration.md)
@@ -48,59 +48,59 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Starting your testing with enumeration
-  - What you need to know
-  - Disclaimer
+  - [Starting your testing with enumeration](#starting-your-testing-with-enumeration)
+  - [What you need to know](#what-you-need-to-know)
+  - [Disclaimer](#disclaimer)
 - [**1. Basics of Enumeration**](#1-basics-of-enumeration) (4 videos)
-  - What is enumeration?
-  - Understanding contexts
-  - Working with contexts
-  - Understanding NetBIOS, SMB, SAMBA, and RPC
+  - [What is enumeration?](#what-is-enumeration)
+  - [Understanding contexts](#understanding-contexts)
+  - [Working with contexts](#working-with-contexts)
+  - [Understanding NetBIOS, SMB, SAMBA, and RPC](#understanding-netbios-smb-samba-and-rpc)
 - [**2. Local Host Enumeration**](#2-local-host-enumeration) (4 videos)
-  - Profiling a Unix host
-  - Profiling a Windows host
-  - Investigating the Windows network interface
-  - Investigating the Linux network interface
+  - [Profiling a Unix host](#profiling-a-unix-host)
+  - [Profiling a Windows host](#profiling-a-windows-host)
+  - [Investigating the Windows network interface](#investigating-the-windows-network-interface)
+  - [Investigating the Linux network interface](#investigating-the-linux-network-interface)
 - [**3. Enumeration Remote Hosts**](#3-enumeration-remote-hosts) (11 videos)
-  - Enumerating host services
-  - Enumerating SMB from Linux: Episode 1
-  - Enumerating SMB from Linux: Episode 2
-  - Enumerating SMB from Linux: Episode 3
-  - Enumerating SMB from Windows: Episode 1
-  - Enumerating SMB from Windows: Episode 2
-  - Enumerating using SNMP
-  - Enumerating with RPC
-  - Using WMI to enumerate Windows
-  - Enumeration using Finger
-  - Remote enumeration using PowerShell
+  - [Enumerating host services](#enumerating-host-services)
+  - [Enumerating SMB from Linux: Episode 1](#enumerating-smb-from-linux-episode-1)
+  - [Enumerating SMB from Linux: Episode 2](#enumerating-smb-from-linux-episode-2)
+  - [Enumerating SMB from Linux: Episode 3](#enumerating-smb-from-linux-episode-3)
+  - [Enumerating SMB from Windows: Episode 1](#enumerating-smb-from-windows-episode-1)
+  - [Enumerating SMB from Windows: Episode 2](#enumerating-smb-from-windows-episode-2)
+  - [Enumerating using SNMP](#enumerating-using-snmp)
+  - [Enumerating with RPC](#enumerating-with-rpc)
+  - [Using WMI to enumerate Windows](#using-wmi-to-enumerate-windows)
+  - [Enumeration using Finger](#enumeration-using-finger)
+  - [Remote enumeration using PowerShell](#remote-enumeration-using-powershell)
 - [**4. Enumerating Web Apps**](#4-enumerating-web-apps) (4 videos)
-  - What is that web server?
-  - Enumerating a website with Nikto
-  - Enumerating webpages
-  - Enumerating hidden webpages
+  - [What is that web server?](#what-is-that-web-server)
+  - [Enumerating a website with Nikto](#enumerating-a-website-with-nikto)
+  - [Enumerating webpages](#enumerating-webpages)
+  - [Enumerating hidden webpages](#enumerating-hidden-webpages)
 - [**5. Enumerating the Internet**](#5-enumerating-the-internet) (3 videos)
-  - Tracing routes across the internet routes
-  - Using Shodan
-  - Scan the internet with ZMap
+  - [Tracing routes across the internet routes](#tracing-routes-across-the-internet-routes)
+  - [Using Shodan](#using-shodan)
+  - [Scan the internet with ZMap](#scan-the-internet-with-zmap)
 - [**6. Enumerating Cloud**](#6-enumerating-cloud) (4 videos)
-  - Enumeration of the cloud
-  - Enumerating cloud policies
-  - Enumerating cloud compute resources
-  - Enumerating cloud storage resources
+  - [Enumeration of the cloud](#enumeration-of-the-cloud)
+  - [Enumerating cloud policies](#enumerating-cloud-policies)
+  - [Enumerating cloud compute resources](#enumerating-cloud-compute-resources)
+  - [Enumerating cloud storage resources](#enumerating-cloud-storage-resources)
 - [**7. Other Enumeration**](#7-other-enumeration) (7 videos)
-  - Scanning with SuperScan
-  - Scanning with NetScanTools Pro
-  - Enumerating LDAP
-  - Checking for SMTP users
-  - Digging into DNS
-  - Enumerating netbios
-  - Taking time to enumerate
+  - [Scanning with SuperScan](#scanning-with-superscan)
+  - [Scanning with NetScanTools Pro](#scanning-with-netscantools-pro)
+  - [Enumerating LDAP](#enumerating-ldap)
+  - [Checking for SMTP users](#checking-for-smtp-users)
+  - [Digging into DNS](#digging-into-dns)
+  - [Enumerating netbios](#enumerating-netbios)
+  - [Taking time to enumerate](#taking-time-to-enumerate)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting your testing with enumeration
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980)
@@ -131,9 +131,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), [[Ethical Hacking]] (1), business (1), career (1)
 > **Env Vars:** cali (1), smb (1), rpc (1), snmp (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1), let (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -157,6 +157,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Virtualization]] (1), [[Computer Networking]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Prerequisites:** install (2), required to (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
@@ -181,14 +182,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** raise (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Basics of Enumeration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is enumeration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-enumeration?u=76281980)
@@ -243,6 +244,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2), dns (2), web (1), data (1), management (1)
 > **Env Vars:** rpc (3), smtp (2), dns (2), smb (2), snmp (1)
 > **Ports:** port 53 (1), port 25 (1), port 135 (1), port 137 (1), port 139 (1)
 > **Analogies:** for example (2), such as (2)
@@ -307,11 +309,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (5), [[Linux]] (2), [[Hardware]] (1), application (1)
 > **Definitions:** known as (5), is a  (1)
 > **Env Vars:** cpu (1), vtx (1), vms (1), arm (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
-> **Code Keywords:** switch (1)
 > **Speakers:** - code (1)
 
 #### Working with contexts
@@ -395,9 +397,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), [[Security]] (1), [[Windows]] (1)
 > **CLI Commands:** sudo (11), cat (3)
 > **Env Vars:** uid (8), gvm (1)
-> **Code Keywords:** switch (2), default, (1), let (1), this. (1), type. (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -461,10 +463,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft]] (4), application (3), api (2), [[Local Area Network (LAN)|Local area network]] (2), [[Windows]] (2)
 > **Env Vars:** rpc (6), msrpc (6), tcp (4), smb (4), udp (3)
 > **Definitions:** is an  (3), is a  (2), known as (2)
 > **Ports:** port 137 (1), port 138 (1), port 139 (1)
-> **Code Keywords:** function (2)
 > **Versions:** 5.5 (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
@@ -472,7 +474,7 @@ created: 2026-04-29
 
 ### 2. Local Host Enumeration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Profiling a Unix host
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980)
@@ -577,10 +579,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ubuntu]] (2), application (1), [[Python (Programming Language)|Python]] (1), [[Routing]] (1)
 > **CLI Commands:** cat (5), find (4), python (1), ssh (1)
 > **Env Vars:** cpu (1), uid (1), psn (1), tcp (1), ssh (1)
 > **Versions:** 2.6.24 (1), version 4 (1), 2.3 (1), version 8 (1), 10.0.2 (1)
-> **Code Keywords:** let (4), switch (1)
 > **Tools:** terminal (2), bash (1)
 > **Ports:** port 21332 (1)
 > **Cross-References:** later in (1)
@@ -675,7 +677,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), switch (2)
+> **Frameworks & Libraries:** [[Security]] (3), [[Windows]] (2), [[Microsoft]] (2), [[Linux]] (1), product (1)
 > **Code Identifiers:** psinfo (3), pslist (2)
 > **Env Vars:** rpc (1), cpu (1), bna (1)
 > **Tools:** command line (2)
@@ -729,6 +731,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (1), [[GitHub]] (1)
 > **Env Vars:** smb (2), ipc (2)
 > **File Paths:** shares1.txt (1), shares2.txt (1)
 > **CLI Commands:** cat (2)
@@ -819,9 +822,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Routing]] (2), [[Linux]] (1), [[Statistics]] (1), web (1), next (1)
 > **Env Vars:** tcp (4), udp (3), iaf (1), icmp (1)
 > **Analogies:** for example (3), such as (1)
-> **Code Keywords:** let (2)
 > **Versions:** 132.181.109 (2)
 > **Tools:** command line (2)
 > **Ports:** :80 (1)
@@ -831,7 +834,7 @@ created: 2026-04-29
 
 ### 3. Enumeration Remote Hosts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enumerating host services
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-host-services?u=76281980)
@@ -871,7 +874,6 @@ created: 2026-04-29
 > [!info]- Semantic Content
 >
 > **Env Vars:** udp (3), tcp (1)
-> **Code Keywords:** let (1), while. (1)
 > **Ports:** port 68 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -966,8 +968,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (4), [[Windows]] (4), [[Windows 10]] (2), [[Scripting]] (1), data (1)
 > **Non-Speech:** (typing) (12)
-> **Code Keywords:** let (8), switch (2), enum (1)
 > **Env Vars:** smb (5), msf (1), uucp (1), ipc (1), mbt (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Versions:** 192.168.1 (1)
@@ -1022,6 +1024,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (1), [[GitHub]] (1)
 > **Env Vars:** smb (2), ipc (2)
 > **Tools:** command line (1), github (1)
 > **Definitions:** is a  (1)
@@ -1084,8 +1087,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (1), [[Linux]] (1), prompt (1)
 > **Env Vars:** rpc (5), smb (1), admin (1), ipc (1)
-> **Code Keywords:** let (2), enum (1)
 > **Speakers:** - [instructor] (1)
 
 #### Enumerating SMB from Windows: Episode 1
@@ -1173,7 +1176,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), this, (1), interface (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (2), [[Active Directory]] (1), management (1)
 > **UI Navigation:** click on (2), select the (2), go to (2), double-click (1), dropdown (1)
 > **Versions:** 10.0.2 (5)
 > **Definitions:** is a  (4)
@@ -1239,10 +1242,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (4), [[Ubuntu]] (1), [[Windows 10]] (1)
 > **Env Vars:** wmi (2), snmp (2), smb (1), udp (1)
 > **UI Navigation:** click on (2), right-click (2), go to (1)
 > **Versions:** 10.0.2 (4)
-> **Code Keywords:** let (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - softperfect (1)
@@ -1340,9 +1343,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** management (3), [[Microsoft]] (3), [[Microsoft Products|Products]] (2), [[Windows]] (1), application (1)
 > **Versions:** 1.3.6 (9), 1.2.1 (4), 10.0.2 (4), 2.1.1 (2), 1.4.1 (1)
 > **Env Vars:** snmp (16), mib (3), sgmp (1), iso (1), dod (1)
-> **Code Keywords:** public (4), private (1)
 > **CLI Commands:** find (1), node (1), wget (1), unzip (1)
 > **Definitions:** known as (2), is an  (1)
 > **URLs:** [iso.org](https://iso.org) (1), [https://www.ireasoning.com](https://www.ireasoning.com) (1)
@@ -1384,8 +1387,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** application (2), data (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** rpc (10), uuid (2), tcp (2), udp (1)
-> **Code Keywords:** let (3), function (1)
 > **Versions:** 0.2.8 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1551,8 +1554,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Powershell]] (11), [[Windows]] (9), [[Microsoft]] (6), data (6), management (5)
 > **Env Vars:** wmi (29), dcom (3), root (3), wbem (2), cim (2)
-> **Code Keywords:** let (4), default. (2), delete (2), static (1), class. (1)
 > **Tools:** powershell (11), command prompt (1)
 > **UI Navigation:** scroll down (2), click on (2), double-click (1)
 > **Analogies:** such as (2), for example (2), similar to (1)
@@ -1587,7 +1590,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2)
+> **Frameworks & Libraries:** [[Ubuntu]] (1)
 > **Ports:** port 79 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1637,7 +1640,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (3), let (3), this. (1), function (1)
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Windows]] (1), prompt (1)
 > **Tools:** powershell (6)
 > **Versions:** 10.0.2 (3), 0.1 (1), 0.254 (1)
 > **Env Vars:** tcp (1)
@@ -1647,7 +1650,7 @@ created: 2026-04-29
 
 ### 4. Enumerating Web Apps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is that web server?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980)
@@ -1682,9 +1685,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[Ubuntu]] (2), [[Linux]] (1)
 > **Versions:** 10.0.2 (4), 2.2.8 (1), 2.4.29 (1)
 > **CLI Commands:** apache (3), grep (2)
-> **Code Keywords:** let (1), switch (1)
 > **Speakers:** - [instructor] (1)
 
 #### Enumerating a website with Nikto
@@ -1716,9 +1719,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Scripting]] (1)
 > **Versions:** 10.0.2 (2), 2.2.8 (1)
 > **CLI Commands:** apache (2)
-> **Code Keywords:** let (2)
 > **Env Vars:** tcn (1), osvdb (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -1760,10 +1763,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OWASP]] (1), web application (1)
 > **Env Vars:** zap (6), owasp (1)
 > **Versions:** 10.0.2 (2)
 > **CLI Commands:** find (1)
-> **Code Keywords:** let (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1838,7 +1841,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), default, (2), pass (1), for. (1), while. (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Microsoft Word|Word]] (3), [[Search]] (2), web (1)
 > **Env Vars:** dirb (6), php (3), todo (1)
 > **CLI Commands:** php (4), find (1), sudo (1), apt (1)
 > **Versions:** 10.0.2 (2), 2.3 (1)
@@ -1850,7 +1853,7 @@ created: 2026-04-29
 
 ### 5. Enumerating the Internet
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Tracing routes across the internet routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/tracing-routes-across-the-internet-routes?u=76281980)
@@ -1877,8 +1880,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **Env Vars:** tracert (2), icmp (1)
-> **Code Keywords:** let (1), this, (1)
 > **Versions:** 67.3.11 (2)
 > **CLI Commands:** sudo (1)
 > **Speakers:** - [instructor] (1)
@@ -1964,8 +1967,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Search]] (9), database (3), feature (1), [[JSON]] (1)
 > **Env Vars:** ibm (1), smtp (1), email (1), http (1), csv (1)
-> **Code Keywords:** let (2), case, (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Ports:** port 1352 (1), port 80 (1)
 > **Versions:** 202.171.35 (1), 177.137.102 (1)
@@ -2036,7 +2039,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** public (3), let (2)
+> **Frameworks & Libraries:** web (2), [[Linux]] (1), [[Search]] (1), business (1)
 > **CLI Commands:** apt (1), find (1)
 > **Definitions:** is a  (2)
 > **URLs:** [zmap.io](https://zmap.io) (1)
@@ -2048,7 +2051,7 @@ created: 2026-04-29
 
 ### 6. Enumerating Cloud
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Enumeration of the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980)
@@ -2135,9 +2138,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cloud (11), aws (4), [[Amazon EC2|Ec2]] (3), web (2), generic (1)
 > **Env Vars:** aws (4), ec2 (3), rds (1), sql (1), ssh (1)
 > **CLI Commands:** aws (4), make (1), ssh (1)
-> **Code Keywords:** public (2), private (2), let (1), case, (1)
 > **Definitions:** is a  (2), is called (1), known as (1), is an  (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** install (1), set up (1)
@@ -2243,9 +2246,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (13), cloud (2), api (1), [[Python (Programming Language)|Python]] (1), [[Multi-factor Authentication]] (1)
 > **CLI Commands:** aws (13), python (1), yarn (1)
 > **Env Vars:** aws (5), api (1), asia (1), swae (1), wk6 (1)
-> **Code Keywords:** let (8), super (1)
 > **Tools:** command line (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -2305,8 +2308,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), aws (5), product (3), dns (3), [[JSON]] (1)
 > **Env Vars:** ec2 (4), aws (4), dns (3), json (1), vpn (1)
-> **Code Keywords:** let (2), case, (2), public (2), this. (1), type. (1)
 > **CLI Commands:** aws (5), ssh (1)
 > **Definitions:** is a  (2)
 > **Tools:** command line (1)
@@ -2377,9 +2380,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** aws (7), cloud (3), data (2), [[Search]] (2), database (2)
 > **CLI Commands:** aws (7), find (3), ls (1), cp (1), python (1)
 > **Env Vars:** aws (4), sql (2), rds (1), rdb (1)
-> **Code Keywords:** let (4), this, (1), public (1), interface (1)
 > **Tools:** command line (3)
 > **UI Navigation:** click on (1), navigate to (1), scroll down (1)
 > **Code Identifiers:** cardholder_data_primary (1), ttesting (1)
@@ -2389,7 +2392,7 @@ created: 2026-04-29
 
 ### 7. Other Enumeration
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Scanning with SuperScan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980)
@@ -2478,10 +2481,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2), [[HTML]] (1), prompt (1), [[Ubuntu]] (1)
 > **Env Vars:** tcp (5), udp (4), html (1), tftp (1), smb (1)
 > **Versions:** 10.0.2 (12), 10.0 (1)
 > **Definitions:** is a  (6), is called (1)
-> **Code Keywords:** let (2), interface (1), default, (1)
 > **UI Navigation:** go to (3), scroll up (1)
 > **Ports:** port 1524 (1), port 139 (1)
 > **Cross-References:** go back to (1)
@@ -2560,10 +2563,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), product (1), data (1), [[HTML]] (1), next (1)
 > **Env Vars:** arp (3), smb (2), url (1), html (1)
 > **UI Navigation:** select the (2), click on (2), in the menu (1), scroll down (1)
 > **Versions:** 10.0.2 (2), version 2 (1), 4.26 (1)
-> **Code Keywords:** let (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2656,8 +2659,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (3), database (2), [[Search]] (2), [[Forms]] (1), [[Security]] (1)
 > **Env Vars:** ldap (17)
-> **Code Keywords:** let (3), this. (1)
 > **Versions:** 10.0.2 (2), 10.2.9 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (2)
@@ -2696,7 +2699,6 @@ created: 2026-04-29
 >
 > **Env Vars:** smtp (4)
 > **Versions:** 2.1.5 (1), 5.1.1 (1)
-> **Code Keywords:** case, (1)
 > **Ports:** port 25 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2751,8 +2753,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** dns (8), [[Search]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft 365]] (1), web (1)
 > **Env Vars:** dns (8), enum (3), ftp (1), rss (1)
-> **Code Keywords:** let (4), enum (3), public (2), for, (1)
 > **URLs:** [sciencedirect.com](https://sciencedirect.com) (7), [outlook.com](https://outlook.com) (1)
 > **CLI Commands:** find (3)
 > **Versions:** 162.159.136 (1), 162.159.137 (1)
@@ -2818,8 +2820,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Linux]] (2), [[Active Directory]] (1), [[Penetration Testing]] (1)
 > **Env Vars:** nmb (3), tcp (1), win (1), mac (1), smb (1)
-> **Code Keywords:** enum (2), finally, (1), let (1), type. (1)
 > **Versions:** 192.168.1 (3)
 > **Code Identifiers:** netbios (2)
 > **CLI Commands:** find (1)
@@ -2867,7 +2869,6 @@ created: 2026-04-29
 >
 > **Env Vars:** ntpq (2), ntp (2), udp (1)
 > **Versions:** 89.221.165 (2), 89.135.149 (1), 196.133 (1)
-> **Code Keywords:** let (3)
 > **CLI Commands:** sudo (1)
 > **Ports:** port 123 (1)
 > **Speakers:** - [instructor] (1)
@@ -2875,7 +2876,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980)
@@ -2902,6 +2903,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), cloud (3), [[Cryptography]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Security]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

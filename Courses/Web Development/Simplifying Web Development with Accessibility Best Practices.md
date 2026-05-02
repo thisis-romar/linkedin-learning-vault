@@ -24,7 +24,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Simplifying%20Web%20Development%20with%20Accessibility%20Best%20Practices.md)
@@ -43,51 +43,51 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - Simplifying web development with accessibility
+  - [Simplifying web development with accessibility](#simplifying-web-development-with-accessibility)
 - [**1. Back to Basics**](#1-back-to-basics) (3 videos)
-  - Overcomplicating things that already work
-  - The purpose of the web
-  - Why accessibility breaks
+  - [Overcomplicating things that already work](#overcomplicating-things-that-already-work)
+  - [The purpose of the web](#the-purpose-of-the-web)
+  - [Why accessibility breaks](#why-accessibility-breaks)
 - [**2. Accessible Design**](#2-accessible-design) (3 videos)
-  - Designing an accessible color palette
-  - Designing accessible typography
-  - Designing accessible content hierarchies and flows
+  - [Designing an accessible color palette](#designing-an-accessible-color-palette)
+  - [Designing accessible typography](#designing-accessible-typography)
+  - [Designing accessible content hierarchies and flows](#designing-accessible-content-hierarchies-and-flows)
 - [**3. Hiding and Showing**](#3-hiding-and-showing) (3 videos)
-  - Is hiding or showing content a good idea?
-  - How to hide visual content
-  - How to hide content from screen readers
+  - [Is hiding or showing content a good idea?](#is-hiding-or-showing-content-a-good-idea)
+  - [How to hide visual content](#how-to-hide-visual-content)
+  - [How to hide content from screen readers](#how-to-hide-content-from-screen-readers)
 - [**4. Semantics and Interactivity**](#4-semantics-and-interactivity) (7 videos)
-  - The role of semantic elements
-  - Elements with purpose
-  - Link and button basics
-  - Links
-  - Buttons
-  - Screen reader–friendly links and buttons
-  - Icon links and buttons with SVG
+  - [The role of semantic elements](#the-role-of-semantic-elements)
+  - [Elements with purpose](#elements-with-purpose)
+  - [Link and button basics](#link-and-button-basics)
+  - [Links](#links)
+  - [Buttons](#buttons)
+  - [Screen reader–friendly links and buttons](#screen-readerfriendly-links-and-buttons)
+  - [Icon links and buttons with SVG](#icon-links-and-buttons-with-svg)
 - [**5. Images, Graphics, and Media**](#5-images-graphics-and-media) (6 videos)
-  - Images, graphics, and media basics
-  - The img element
-  - The figure and figcaption elements
-  - Accessible SVG
-  - Making embedded videos more accessible
-  - Adding transcripts
+  - [Images, graphics, and media basics](#images-graphics-and-media-basics)
+  - [The img element](#the-img-element)
+  - [The figure and figcaption elements](#the-figure-and-figcaption-elements)
+  - [Accessible SVG](#accessible-svg)
+  - [Making embedded videos more accessible](#making-embedded-videos-more-accessible)
+  - [Adding transcripts](#adding-transcripts)
 - [**6. Practical Examples**](#6-practical-examples) (5 videos)
-  - Mobile-friendly navigation menu
-  - Multilevel navigation menu
-  - Basic card
-  - Card with internal links
-  - Date picker
+  - [Mobile-friendly navigation menu](#mobile-friendly-navigation-menu)
+  - [Multilevel navigation menu](#multilevel-navigation-menu)
+  - [Basic card](#basic-card)
+  - [Card with internal links](#card-with-internal-links)
+  - [Date picker](#date-picker)
 - [**7. Proof and Pudding**](#7-proof-and-pudding) (4 videos)
-  - Simplifying web development with accessibility best practices
-  - Where to find more information
-  - Tools for manually testing sites
-  - Lighthouse score and similar
+  - [Simplifying web development with accessibility best practices](#simplifying-web-development-with-accessibility-best-practices)
+  - [Where to find more information](#where-to-find-more-information)
+  - [Tools for manually testing sites](#tools-for-manually-testing-sites)
+  - [Lighthouse score and similar](#lighthouse-score-and-similar)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Accessibility mindset
+  - [Accessibility mindset](#accessibility-mindset)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simplifying web development with accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/simplifying-web-development-with-accessibility?u=76281980)
@@ -110,14 +110,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), feature (1), [[JavaScript]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** while, (1), let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Back to Basics
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overcomplicating things that already work
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/overcomplicating-things-that-already-work?u=76281980)
@@ -168,7 +168,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2)
+> **Frameworks & Libraries:** web (5), front-end (1), [[Web Development]] (1), [[React.js|React]] (1), css (1)
 > **Env Vars:** aria (1), css (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** somefunction (1)
@@ -201,6 +201,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[HTML]] (4)
 > **Env Vars:** html (4), w3c (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (1)
@@ -286,9 +287,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), [[JavaScript]] (2), css (2), [[HTML]] (2), [[Web Accessibility]] (1)
 > **Env Vars:** css (2), html (2)
 > **Definitions:** is a  (2), is an  (1), known as (1)
-> **Code Keywords:** let (1), this. (1), require (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
@@ -297,7 +298,7 @@ created: 2026-04-29
 
 ### 2. Accessible Design
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing an accessible color palette
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/designing-an-accessible-color-palette?u=76281980)
@@ -368,7 +369,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (8), let (4), this, (2), case. (1), case, (1)
+> **Frameworks & Libraries:** web (2), [[Accessible Design]] (1), feature (1)
 > **Versions:** 4.5 (1), 7.57 (1), 2.9 (1)
 > **UI Navigation:** select the (1), scroll down (1), toggle (1)
 > **CLI Commands:** find (1), make (1)
@@ -454,7 +455,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (1), finally, (1)
+> **Frameworks & Libraries:** [[Typography]] (3), web (2), css (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **UI Navigation:** open the (1)
@@ -514,7 +515,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), else. (1), for. (1), let (1)
+> **Frameworks & Libraries:** [[HTML]] (2), web (1)
 > **Definitions:** is a  (1), known as (1), in other words (1)
 > **Env Vars:** html (2)
 > **Speakers:** - [instructor] (1)
@@ -522,7 +523,7 @@ created: 2026-04-29
 
 ### 3. Hiding and Showing
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Is hiding or showing content a good idea?
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/is-hiding-or-showing-content-a-good-idea?u=76281980)
@@ -581,7 +582,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this, (2), let (1), else. (1), else, (1)
+> **Frameworks & Libraries:** web (2), [[Search]] (2), next (2), functional (1), css (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** css (1)
 > **Cross-References:** in the next (1)
@@ -625,9 +626,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4)
 > **Env Vars:** css (4)
 > **CLI Commands:** make (1)
-> **Code Keywords:** else. (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -683,8 +684,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1), else. (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -692,7 +693,7 @@ created: 2026-04-29
 
 ### 4. Semantics and Interactivity
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of semantic elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/the-role-of-semantic-elements?u=76281980)
@@ -723,6 +724,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), generic (1), feature (1), web (1), seo (1)
 > **Env Vars:** aria (2), html (2), html5 (1), seo (1)
 > **Speakers:** - [instructor] (1)
 
@@ -785,6 +787,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (5), feature (3), data (2), [[JavaScript]] (2), next (1)
 > **Env Vars:** html (5)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -853,9 +856,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), css (1), [[JavaScript]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** html (1), css (1)
-> **Code Keywords:** else. (1)
 > **Speakers:** - [instructor] (1)
 
 #### Links
@@ -903,7 +906,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** default. (1), else. (1), this, (1), for. (1)
+> **Frameworks & Libraries:** [[HTML]] (1), feature (1), css (1)
 > **Env Vars:** url (2), html (1), css (1)
 > **Definitions:** is an  (3), is a  (1)
 > **Best Practices:** recommended (3)
@@ -951,6 +954,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[JavaScript]] (1), [[Forms]] (1)
 > **UI Navigation:** toggle (1), dropdown (1)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** is a  (1)
@@ -999,7 +1003,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (8), this. (1), class, (1)
+> **Frameworks & Libraries:** next (1), css (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Warnings:** caution (1)
@@ -1067,8 +1071,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[Microsoft Word|Word]] (2), web (1), [[LinkedIn]] (1)
 > **Env Vars:** css (4), svg (2)
-> **Code Keywords:** let (2), for, (1), class. (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1077,7 +1081,7 @@ created: 2026-04-29
 
 ### 5. Images, Graphics, and Media
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Images, graphics, and media basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/images-graphics-and-media-basics?u=76281980)
@@ -1120,8 +1124,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (3), functional (1), [[Search]] (1)
 > **CLI Commands:** make (4)
-> **Code Keywords:** static (2), this. (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1226,10 +1230,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (2), [[Microsoft Office|Office]] (2), next (2), web (2), [[Search]] (1)
 > **Env Vars:** css (2), uri (1), seo (1), w3c (1), mdn (1)
 > **Analogies:** picture (3), for example (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** require (1), finally, (1), function (1)
 > **UI Navigation:** checkbox (2), click on (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Documentation:** w3c (1), mdn (1)
@@ -1272,7 +1276,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** for. (3), this. (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1314,8 +1318,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), [[Scalability]] (1), css (1), web (1)
 > **Env Vars:** svg (11), html (2), css (1)
-> **Code Keywords:** self (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1440,8 +1444,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** iframe (13)
-> **Code Keywords:** let (2), else. (2), case, (2), this, (1), require (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** navigate to (1), go to (1)
@@ -1540,8 +1544,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Search]] (2), business (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
-> **Code Keywords:** this, (1), let (1), this. (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** css (1)
 > **Prerequisites:** set up (1)
@@ -1550,7 +1554,7 @@ created: 2026-04-29
 
 ### 6. Practical Examples
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mobile-friendly navigation menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/mobile-friendly-navigation-menu?u=76281980)
@@ -1685,7 +1689,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), case, (3), function (3), class. (2), pass (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), css (2), hit (2), [[Search]] (1), [[HTML]] (1)
 > **Speakers:** - [instructor] (6), - [screen (5)
 > **UI Navigation:** click on (4), open the (2), toggle (2)
 > **CLI Commands:** find (3), make (1)
@@ -1823,9 +1827,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** hit (3), [[JavaScript]] (2), css (1)
 > **Speakers:** - [instructor] (8), - [screen (7)
 > **UI Navigation:** dropdown (5), open the (2), go to (2), toggle (2), click on (1)
-> **Code Keywords:** let (3), else, (1), this. (1), continue (1), interface (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (2), find (2)
 > **Code Identifiers:** foreach (1)
@@ -2057,7 +2061,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (10), let (7), function (1), case, (1), extends (1)
+> **Frameworks & Libraries:** next (2), css (2), [[JavaScript]] (1)
 > **Speakers:** - [instructor] (6), - [narrator] (5)
 > **UI Navigation:** click on (5), go to (2)
 > **CLI Commands:** make (3), find (1)
@@ -2181,9 +2185,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (8), go to (2)
 > **Speakers:** - [instructor] (4), - [woman] (3)
-> **Code Keywords:** let (3)
 > **Env Vars:** nav (2), voc (1)
 > **CLI Commands:** make (1)
 
@@ -2328,7 +2332,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), let (3), switch (2)
+> **Frameworks & Libraries:** web (7), [[JavaScript]] (4), feature (3), [[HTML]] (1), data (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), switch to (1)
 > **Env Vars:** html (1)
@@ -2339,7 +2343,7 @@ created: 2026-04-29
 
 ### 7. Proof and Pudding
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Simplifying web development with accessibility best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/simplifying-web-development-with-accessibility-best-practices?u=76281980)
@@ -2372,6 +2376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (4), [[JavaScript]] (2), [[Web Development]] (1), front-end (1), [[React.js|React]] (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** as you saw (1)
@@ -2441,9 +2446,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (5), css (5), [[HTML]] (2), [[JavaScript]] (2), [[Search]] (2)
 > **Env Vars:** css (5), mdn (3), html (2)
 > **CLI Commands:** find (6), make (3)
-> **Code Keywords:** this, (1), else. (1), for. (1)
 > **Documentation:** mdn (3)
 > **UI Navigation:** go to (2), dropdown (1)
 > **Analogies:** for example (1)
@@ -2664,7 +2669,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), case, (2), this, (1), case. (1), override (1)
+> **Frameworks & Libraries:** feature (3), web (2), [[Search]] (2), css (2), [[Web Development]] (1)
 > **CLI Commands:** find (8), make (6)
 > **UI Navigation:** go to (3), scroll up (1), click on (1), dropdown (1), select the (1)
 > **Tools:** firefox (4), safari (1)
@@ -2752,7 +2757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (1), case, (1), this. (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Performance Metrics]] (1), [[Zoom]] (1), [[Search]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2760,7 +2765,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/accessibility-mindset?u=76281980)
@@ -2783,8 +2788,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), [[Search]] (1), [[Accessible Design]] (1), [[Web Accessibility]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [morten] (1)
 

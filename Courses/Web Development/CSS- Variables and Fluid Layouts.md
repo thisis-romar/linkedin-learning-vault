@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/CSS-%20Variables%20and%20Fluid%20Layouts.md)
@@ -47,41 +47,41 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - The evolution of responsive design
-  - What you should know
+  - [The evolution of responsive design](#the-evolution-of-responsive-design)
+  - [What you should know](#what-you-should-know)
 - [**1. Learn CSS calc()**](#1-learn-css-calc) (4 videos)
-  - CSS calc() overview
-  - Applying calc() in a layout example
-  - Challenge: Creating a type scale
-  - Solution: Creating a type scale
+  - [CSS calc() overview](#css-calc-overview)
+  - [Applying calc() in a layout example](#applying-calc-in-a-layout-example)
+  - [Challenge: Creating a type scale](#challenge-creating-a-type-scale)
+  - [Solution: Creating a type scale](#solution-creating-a-type-scale)
 - [**2. Learn CSS Custom Properties**](#2-learn-css-custom-properties) (7 videos)
-  - CSS custom properties overview
-  - Configure CSS custom properties
-  - CSS custom properties and inheritance
-  - CSS custom properties and Sass variables
-  - Using Sass variables
-  - Challenge: Add custom properties to type scale
-  - Solution: Add custom properties to type scale
+  - [CSS custom properties overview](#css-custom-properties-overview)
+  - [Configure CSS custom properties](#configure-css-custom-properties)
+  - [CSS custom properties and inheritance](#css-custom-properties-and-inheritance)
+  - [CSS custom properties and Sass variables](#css-custom-properties-and-sass-variables)
+  - [Using Sass variables](#using-sass-variables)
+  - [Challenge: Add custom properties to type scale](#challenge-add-custom-properties-to-type-scale)
+  - [Solution: Add custom properties to type scale](#solution-add-custom-properties-to-type-scale)
 - [**3. Create Layouts**](#3-create-layouts) (8 videos)
-  - Mark up a simple four-column grid system
-  - Create a starting CSS for the grid system
-  - Add media queries to your grid system
-  - Rewrite CSS to integrate calc() and custom properties
-  - Rewrite CSS to integrate gaps between grid cells
-  - Make the layout formula even more flexible
-  - Challenge: Media query integration
-  - Solution: Media query integration
+  - [Mark up a simple four-column grid system](#mark-up-a-simple-four-column-grid-system)
+  - [Create a starting CSS for the grid system](#create-a-starting-css-for-the-grid-system)
+  - [Add media queries to your grid system](#add-media-queries-to-your-grid-system)
+  - [Rewrite CSS to integrate calc() and custom properties](#rewrite-css-to-integrate-calc-and-custom-properties)
+  - [Rewrite CSS to integrate gaps between grid cells](#rewrite-css-to-integrate-gaps-between-grid-cells)
+  - [Make the layout formula even more flexible](#make-the-layout-formula-even-more-flexible)
+  - [Challenge: Media query integration](#challenge-media-query-integration)
+  - [Solution: Media query integration](#solution-media-query-integration)
 - [**4. Refactor a Web Page**](#4-refactor-a-web-page) (4 videos)
-  - Project: Use calc() and custom properties
-  - Step 1: Apply the grid layout
-  - Step 2: Add custom properties to grid layout
-  - Step 3: Apply a type scale and custom properties
+  - [Project: Use calc() and custom properties](#project-use-calc-and-custom-properties)
+  - [Step 1: Apply the grid layout](#step-1-apply-the-grid-layout)
+  - [Step 2: Add custom properties to grid layout](#step-2-add-custom-properties-to-grid-layout)
+  - [Step 3: Apply a type scale and custom properties](#step-3-apply-a-type-scale-and-custom-properties)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### The evolution of responsive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/the-evolution-of-responsive-design-25743926?u=76281980)
@@ -102,8 +102,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), [[SaaS]] (1), game (1)
 > **Env Vars:** css (6)
-> **Code Keywords:** function (1), let (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - after (1)
 
@@ -150,16 +150,16 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (7), [[HTML]] (5)
 > **Env Vars:** css (7), html (5)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** this. (1), finally, (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Learn CSS calc()
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS calc() overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-calc-overview?u=76281980)
@@ -218,8 +218,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[SaaS]] (3)
 > **Env Vars:** css (8)
-> **Code Keywords:** let (1), function (1), from. (1)
 > **Documentation:** specification (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), for example (1)
@@ -318,9 +318,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CodePen]] (2), css (2), [[HTML]] (1)
 > **Env Vars:** css (2), calc (2), html (1)
 > **Definitions:** is a  (3), means that (1), defined as (1)
-> **Code Keywords:** let (3), from. (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -391,9 +391,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** web (2), next (2), [[CodePen]] (1), [[HTML]] (1), css (1)
 > **Definitions:** is a  (4), is called (1)
 > **Versions:** 1.2 (2), 1.44 (2)
-> **Code Keywords:** let (2), type. (1)
 > **Env Vars:** html (1), css (1)
 > **URLs:** [type-scale.com](https://type-scale.com) (1)
 > **Cross-References:** in the next (1)
@@ -443,8 +443,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** power (1), next (1)
 > **Versions:** 1.2 (9), 1.44 (1)
-> **Code Keywords:** let (1), from, (1), continue (1), from. (1), this. (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next chapter (1)
@@ -454,7 +454,7 @@ created: 2026-04-29
 
 ### 2. Learn CSS Custom Properties
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS custom properties overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980)
@@ -529,8 +529,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[JavaScript]] (2), [[Programming]] (1), next (1), dom (1)
 > **Env Vars:** css (8), dom (1), ie11 (1)
-> **Code Keywords:** finally, (2), case, (1)
 > **Analogies:** just like (2), similar to (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -589,8 +589,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), [[HTML]] (2), [[JavaScript]] (1), next (1), [[Debugging]] (1)
 > **Env Vars:** css (6), html (2)
-> **Code Keywords:** let (1), var (1), pass (1)
 > **Warnings:** be aware (1), be careful (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
@@ -680,9 +680,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (4), [[HTML]] (2), [[Microsoft Word|Word]] (1), [[Document Object Model (DOM)|Document object model]] (1), [[Programming]] (1)
 > **Env Vars:** css (4), html (2)
 > **CLI Commands:** make (2), find (1)
-> **Code Keywords:** let (1), var (1)
 > **Definitions:** in other words (2)
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
@@ -749,7 +749,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), this, (2)
+> **Frameworks & Libraries:** css (2), [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Speakers:** - now (1)
@@ -821,7 +821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (2), extends (1), default. (1)
+> **Frameworks & Libraries:** css (2), management (1)
 > **Env Vars:** css (2)
 > **Definitions:** in other words (2)
 > **Analogies:** for example (2)
@@ -876,7 +876,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** var (3), this. (2), let (2), this, (1)
+> **Frameworks & Libraries:** next (1)
 > **Versions:** 1.2 (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -919,9 +919,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (2), css (1)
 > **Versions:** 1.2 (2)
 > **CLI Commands:** make (1)
-> **Code Keywords:** continue (1)
 > **Env Vars:** css (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
@@ -930,7 +930,7 @@ created: 2026-04-29
 
 ### 3. Create Layouts
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Mark up a simple four-column grid system
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980)
@@ -1069,7 +1069,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this, (1), for. (1), throw (1)
+> **Frameworks & Libraries:** next (5), css (2), [[HTML]] (2), web (1), [[Document Object Model (DOM)|Document object model]] (1)
 > **Env Vars:** css (2), html (2)
 > **Definitions:** in other words (2)
 > **CLI Commands:** make (1)
@@ -1215,7 +1215,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), this, (3), super (2)
+> **Frameworks & Libraries:** next (3), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** html (1)
@@ -1425,7 +1425,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (16), this. (2), for, (1), class. (1)
+> **Frameworks & Libraries:** [[HTML]] (4), css (3), next (2)
 > **Env Vars:** html (4), css (3)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -1583,7 +1583,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this, (1)
+> **Frameworks & Libraries:** css (2), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (3)
 > **Env Vars:** css (2)
@@ -1675,7 +1675,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this, (1), super (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
@@ -1822,7 +1821,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (11), this, (1), this. (1), pass (1), override (1)
+> **Frameworks & Libraries:** [[HTML]] (4), css (2), next (1), hit (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** html (4), css (2)
 > **Versions:** 0.3 (1), 0.1 (1)
@@ -1847,7 +1846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), let (1)
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **URLs:** [type-scale.com](https://type-scale.com) (1)
 > **Cross-References:** in the next (1)
@@ -1897,6 +1896,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[HTML]] (1), hit (1)
 > **Versions:** 1.125 (1), 1.2 (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -1907,7 +1907,7 @@ created: 2026-04-29
 
 ### 4. Refactor a Web Page
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Project: Use calc() and custom properties
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980)
@@ -1986,6 +1986,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (8), [[HTML]] (6), next (5), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (8), html (6)
 > **UI Navigation:** drag and drop (1), click on (1), open the (1), go to (1), toggle (1)
 > **CLI Commands:** make (4), find (1)
@@ -1993,7 +1994,6 @@ created: 2026-04-29
 > **Tools:** visual studio (2), vs code (2), sublime (1)
 > **Exercise Files:** exercise files (4)
 > **Prerequisites:** install (3)
-> **Versions:** 2.0.0 (1)
 
 #### Step 1: Apply the grid layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-1-apply-the-grid-layout?u=76281980)
@@ -2162,7 +2162,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (12), this, (2), case, (2), finally, (1), override (1)
+> **Frameworks & Libraries:** css (4), [[HTML]] (2), next (1)
 > **Env Vars:** css (4), html (2)
 > **Exercise Files:** template (3), source code (1)
 > **Definitions:** is a  (3)
@@ -2345,7 +2345,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), var (2), extends (1), continue (1), this. (1)
+> **Frameworks & Libraries:** [[SaaS]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** go to (1)
@@ -2493,7 +2493,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), type, (1), this, (1), this. (1), continue (1)
+> **Frameworks & Libraries:** css (4), web (1), [[HTML]] (1), [[Typography]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** css (3), html (1)
 > **Versions:** 1.125 (1), 1.2 (1), 1.33 (1)
@@ -2505,7 +2505,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/next-steps-25743925?u=76281980)
@@ -2540,9 +2540,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** css (6), next (1)
 > **Env Vars:** css (6)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - hey (1)
 
 

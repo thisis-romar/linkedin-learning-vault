@@ -37,7 +37,7 @@ tags:
   - skill/gemini
   - skill/google-gemini
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Getting%20Started%20with%20the%20Google%20Gemini%20API.md)
@@ -56,32 +56,32 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (3 videos)
-  - Get started with the Gemini API
-  - What you should know
-  - Who is this course for?
+  - [Get started with the Gemini API](#get-started-with-the-gemini-api)
+  - [What you should know](#what-you-should-know)
+  - [Who is this course for?](#who-is-this-course-for)
 - [**1. Understanding Gemini Models**](#1-understanding-gemini-models) (5 videos)
-  - What is Gemini?
-  - Gemini Pro
-  - Gemini Pro Vision
-  - Embedding
-  - AQA
+  - [What is Gemini?](#what-is-gemini)
+  - [Gemini Pro](#gemini-pro)
+  - [Gemini Pro Vision](#gemini-pro-vision)
+  - [Embedding](#embedding)
+  - [AQA](#aqa)
 - [**2. How the Gemini API Works**](#2-how-the-gemini-api-works) (5 videos)
-  - What is the Gemini API?
-  - API versions
-  - Pricing
-  - Designing prompt data
-  - Generating content
+  - [What is the Gemini API?](#what-is-the-gemini-api)
+  - [API versions](#api-versions)
+  - [Pricing](#pricing)
+  - [Designing prompt data](#designing-prompt-data)
+  - [Generating content](#generating-content)
 - [**3. Developing with the Gemini API**](#3-developing-with-the-gemini-api) (4 videos)
-  - Getting an API key
-  - API structure, models, and endpoints
-  - Using the REST API
-  - Using a programming language SDK
+  - [Getting an API key](#getting-an-api-key)
+  - [API structure, models, and endpoints](#api-structure-models-and-endpoints)
+  - [Using the REST API](#using-the-rest-api)
+  - [Using a programming language SDK](#using-a-programming-language-sdk)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with the Gemini API
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980)
@@ -98,6 +98,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (6), [[Gemini]] (5), [[Generative AI]] (1), next (1), [[Google]] (1)
 > **Env Vars:** api (6)
 > **Speakers:** - hello (1)
 
@@ -124,9 +125,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (3), [[Gemini]] (2), [[Programming]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Speakers:** - [narrator] (1)
 
 #### Who is this course for?
@@ -156,14 +157,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (5), [[Gemini]] (4), [[Google]] (2), [[Engineering]] (1), ai (1)
 > **Env Vars:** api (5)
-> **Code Keywords:** let (2)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Understanding Gemini Models
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Gemini?
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980)
@@ -216,11 +217,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (29), api (4), [[Google]] (3), data (3), [[Generative AI]] (2)
 > **Env Vars:** api (4)
 > **Versions:** 1.5 (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
-> **Code Keywords:** interface (1)
 > **URLs:** [google.dev](https://google.dev) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -272,9 +273,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (9), [[Tokens]] (3), next (3), [[Generative AI]] (1), api (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** let (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -328,8 +329,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (13), [[Tokens]] (2), next (2), [[Customer Support]] (1), chatbot (1)
 > **Definitions:** means that (2), is a  (1)
-> **Code Keywords:** let (1), continue (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
@@ -371,6 +372,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (6), next (2), [[Information Retrieval]] (1), [[Tokens]] (1), api (1)
 > **Analogies:** for example (1), imagine (1), it's like (1), such as (1)
 > **Env Vars:** api (1), aqa (1)
 > **CLI Commands:** find (1)
@@ -458,19 +460,19 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (17), next (3), [[Generative AI]] (2), [[Tokens]] (2), api (2)
 > **Env Vars:** aqa (8), api (2)
 > **Versions:** 1.0 (5), 1.5 (3)
 > **Analogies:** for example (4), imagine (1), just like (1)
 > **Definitions:** short for (1), is a  (1), in other words (1), refers to (1), is an  (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** super (1)
 > **Best Practices:** recommended (1)
 
 
 ### 2. How the Gemini API Works
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the Gemini API?
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980)
@@ -579,8 +581,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (24), [[Gemini]] (18), ai (5), [[Google]] (4), data (3)
 > **Env Vars:** api (23), rest (1), json (1), url (1)
-> **Code Keywords:** let (4), function (2), interface (1), finally, (1)
 > **Code Identifiers:** generatecontent (1), counttokens (1), streamgeneratecontent (1), embedcontent (1), batchembedcontent (1)
 > **Definitions:** is a  (4), refers to (1)
 > **Analogies:** for example (2), such as (1)
@@ -631,8 +633,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (16), [[Gemini]] (7), [[Representational State Transfer (REST)|Rest]] (3), [[Google]] (3), ai (2)
 > **Env Vars:** api (13)
-> **Code Keywords:** let (1), switch (1)
 > **URLs:** [google.dev](https://google.dev) (2)
 > **API Endpoints:** /api/rest (1), /api/docs/api-versions (1)
 > **Cross-References:** previous video (1), in the next (1)
@@ -701,11 +703,11 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (8), [[Tokens]] (4), api (3), [[Google]] (3), ai (2)
 > **Versions:** 1.5 (1), 1.0 (1), 0.50 (1), 1.50 (1)
 > **Env Vars:** api (3)
 > **UI Navigation:** dropdown (1), switch to (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** switch (1)
 > **URLs:** [google.dev](https://google.dev) (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
@@ -847,7 +849,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (6), for. (2), type. (1), type, (1), case. (1)
+> **Frameworks & Libraries:** prompt (23), [[Gemini]] (5), api (3), next (2), [[Rust (Programming Language)|Rust]] (2)
 > **Definitions:** is a  (5), is an  (5), known as (1), is called (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** php (2), cat (1), find (1), make (1)
@@ -901,9 +903,9 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (10), api (8), ai (2), [[Python (Programming Language)|Python]] (1), feature (1)
 > **Env Vars:** api (8), llm (1)
 > **CLI Commands:** python (1)
-> **Code Keywords:** let (1)
 > **Code Identifiers:** generatecontent (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -912,7 +914,7 @@ created: 2026-04-29
 
 ### 3. Developing with the Gemini API
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting an API key
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980)
@@ -1007,8 +1009,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (27), [[Gemini]] (8), [[Google]] (8), ai (8), [[Google Cloud Platform (GCP)|Google cloud platform]] (6)
 > **Env Vars:** api (27), gcp (3)
-> **Code Keywords:** let (3), public (1), delete (1)
 > **UI Navigation:** go to (2), dropdown (1)
 > **URLs:** [google.com](https://google.com) (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1138,8 +1140,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** api (29), [[Gemini]] (14), [[Representational State Transfer (REST)|Rest]] (5), [[Google]] (5), ai (4)
 > **Env Vars:** api (27), url (5), rest (3), api_key (2), json (2)
-> **Code Keywords:** let (6), pass (4), type. (2), finally, (1), function (1)
 > **Code Identifiers:** generatecontent (6), baseurl (3), counttokens (1)
 > **URLs:** [https://generativelanguage.googleapis.com](https://generativelanguage.googleapis.com) (2), [google.dev](https://google.dev) (2), [https://generativelanguage.googleapis.com/v1/models](https://generativelanguage.googleapis.com/v1/models) (1)
 > **UI Navigation:** scroll down (4), click on (1)
@@ -1258,8 +1260,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (12), api (11), prompt (5), next (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (11), url (7), http (2), json (2)
-> **Code Keywords:** let (10), this, (1), finally, (1), pass (1), from. (1)
 > **Tools:** postman (5), command line (1)
 > **CLI Commands:** make (3), curl (2)
 > **UI Navigation:** dropdown (2), navigate to (1), select the (1)
@@ -1406,7 +1408,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (19), function (9), class. (2), pass (2), async (2)
+> **Frameworks & Libraries:** api (18), [[Node.js]] (17), [[Gemini]] (13), prompt (5), [[npm]] (5)
 > **CLI Commands:** node (20), npm (5), make (3), python (1)
 > **Env Vars:** api (18), sdk (6), http (1), npm (1)
 > **File Paths:** node.js (17), package.json (2), index.js (2)
@@ -1418,7 +1420,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980)
@@ -1443,8 +1445,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Gemini]] (6), api (5), ai (5), [[LinkedIn]] (2), application (2)
 > **Env Vars:** api (5), pod (1)
-> **Code Keywords:** case. (1)
 > **Tools:** github (1)
 > **Speakers:** - i (1)
 

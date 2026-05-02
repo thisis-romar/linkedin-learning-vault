@@ -19,7 +19,7 @@ tags:
   - course
   - topic/hardware
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Excel-%20Value%20Stream%20Mapping.md)
@@ -38,33 +38,33 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (2 videos)
-  - Capture and present information with value stream mapping
-  - What you should know
+  - [Capture and present information with value stream mapping](#capture-and-present-information-with-value-stream-mapping)
+  - [What you should know](#what-you-should-know)
 - [**1. Introducing Value Stream Maps**](#1-introducing-value-stream-maps) (4 videos)
-  - Describe the philosophy and goals of value stream maps
-  - Introduce the course scenarios
-  - Identify the components of a value stream map
-  - Read a value stream map
+  - [Describe the philosophy and goals of value stream maps](#describe-the-philosophy-and-goals-of-value-stream-maps)
+  - [Introduce the course scenarios](#introduce-the-course-scenarios)
+  - [Identify the components of a value stream map](#identify-the-components-of-a-value-stream-map)
+  - [Read a value stream map](#read-a-value-stream-map)
 - [**2. Create a Manufacturing Value Stream Map**](#2-create-a-manufacturing-value-stream-map) (6 videos)
-  - Calculate takt time for the process
-  - Determine process time and cycle time
-  - Calculate process utilization
-  - Determine inventory waiting time
-  - Include information flow times
-  - Calculate total lead time and total processing time
+  - [Calculate takt time for the process](#calculate-takt-time-for-the-process)
+  - [Determine process time and cycle time](#determine-process-time-and-cycle-time)
+  - [Calculate process utilization](#calculate-process-utilization)
+  - [Determine inventory waiting time](#determine-inventory-waiting-time)
+  - [Include information flow times](#include-information-flow-times)
+  - [Calculate total lead time and total processing time](#calculate-total-lead-time-and-total-processing-time)
 - [**3. Create a Service Value Stream Map**](#3-create-a-service-value-stream-map) (6 videos)
-  - Calculate takt time for the process
-  - Determine process time and cycle time
-  - Calculate process utilization
-  - Determine inventory waiting time
-  - Include information flow times
-  - Calculate total lead time and total processing time
+  - [Calculate takt time for the process](#calculate-takt-time-for-the-process)
+  - [Determine process time and cycle time](#determine-process-time-and-cycle-time)
+  - [Calculate process utilization](#calculate-process-utilization)
+  - [Determine inventory waiting time](#determine-inventory-waiting-time)
+  - [Include information flow times](#include-information-flow-times)
+  - [Calculate total lead time and total processing time](#calculate-total-lead-time-and-total-processing-time)
 - [**Conclusion**](#conclusion) (1 videos)
-  - More resources
+  - [More resources](#more-resources)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Capture and present information with value stream mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980)
@@ -83,7 +83,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (1)
+> **Frameworks & Libraries:** business (2), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[LinkedIn]] (1)
 > **Speakers:** - value (1)
 
 #### What you should know
@@ -111,14 +111,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), product (1)
 > **CLI Commands:** make (1)
-> **Code Keywords:** finally, (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 1. Introducing Value Stream Maps
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe the philosophy and goals of value stream maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/describe-the-philosophy-and-goals-of-value-stream-maps?u=76281980)
@@ -175,6 +175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -222,6 +223,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (1), data (1)
 > **CLI Commands:** make (2), cat (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -321,8 +323,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** data (3), next (1)
 > **Definitions:** is a  (2), stands for (2), refers to (1)
-> **Code Keywords:** finally, (2), include, (1), from. (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** cat (1), rm (1)
 > **Cross-References:** later in (1)
@@ -397,6 +399,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (2), [[Electronics]] (1), data (1)
 > **CLI Commands:** cat (3), find (1)
 > **Versions:** 45.8 (1)
 > **Cross-References:** in the next (1)
@@ -405,7 +408,7 @@ created: 2026-04-29
 
 ### 2. Create a Manufacturing Value Stream Map
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate takt time for the process
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980)
@@ -468,8 +471,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), business (1), next (1), product (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (3), cat (2)
-> **Code Keywords:** let (1), function (1), switch (1)
 > **Env Vars:** c10 (2), product (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
@@ -568,8 +571,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** cat (5), find (1)
-> **Code Keywords:** let (1), switch (1)
 > **Versions:** 0.5 (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
@@ -642,10 +645,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1), [[Microsoft PowerPoint|Powerpoint]] (1), parallel (1)
 > **Versions:** 45.8 (3), 87.5 (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
-> **Code Keywords:** let (1), switch (1)
 > **Env Vars:** fte (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -711,8 +714,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
-> **Code Keywords:** switch (1), continue (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -754,6 +757,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** cat (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -794,13 +798,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** case, (1), continue (1)
+> **Frameworks & Libraries:** product (2), next (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### 3. Create a Service Value Stream Map
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate takt time for the process
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980)
@@ -845,8 +849,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2)
-> **Code Keywords:** switch (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -903,7 +907,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (2), switch (1), continue (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), product (1), [[Microsoft Excel|Excel]] (1), data (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Versions:** 1.5 (1)
@@ -983,10 +987,10 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Excel|Excel]] (1), parallel (1)
 > **Versions:** 56.3 (2), 112.5 (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1), in other words (1)
-> **Code Keywords:** switch (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1039,6 +1043,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1), data (1)
 > **Versions:** 1.5 (3)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
@@ -1070,6 +1075,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Forecasting]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### Calculate total lead time and total processing time
@@ -1131,13 +1137,12 @@ created: 2026-04-29
 >
 > **Versions:** 1.5 (1), 19.5 (1)
 > **Definitions:** is a  (2)
-> **Code Keywords:** let (1)
 > **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### More resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/more-resources?u=76281980)
@@ -1170,7 +1175,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** continue (1), finally, (1)
+> **Frameworks & Libraries:** business (1), [[Engineering]] (1), management (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [curt] (1)
 

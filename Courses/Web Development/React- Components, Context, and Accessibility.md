@@ -30,7 +30,7 @@ tags:
   - skill/digital-accessibility
   - skill/react-js
 status: not-started
-created: 2026-04-29
+created: 2026-05-02
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Components%2C%20Context%2C%20and%20Accessibility.md)
@@ -49,45 +49,45 @@ created: 2026-04-29
 ### Chapter Overview
 
 - [**Introduction**](#introduction) (1 videos)
-  - React components, context, and accessibility
+  - [React components, context, and accessibility](#react-components-context-and-accessibility)
 - [**1. What’s New in React**](#1-whats-new-in-react) (4 videos)
-  - Rendering arrays
-  - setState() changes
-  - How to use CoderPad
-  - Solution: Implementing array-based state updates
+  - [Rendering arrays](#rendering-arrays)
+  - [setState() changes](#setstate-changes)
+  - [How to use CoderPad](#how-to-use-coderpad)
+  - [Solution: Implementing array-based state updates](#solution-implementing-array-based-state-updates)
 - [**2. Advanced Components**](#2-advanced-components) (4 videos)
-  - Compound components
-  - Uncontrolled components
-  - Controlled components
-  - Solution: Creating a compound component system
+  - [Compound components](#compound-components)
+  - [Uncontrolled components](#uncontrolled-components)
+  - [Controlled components](#controlled-components)
+  - [Solution: Creating a compound component system](#solution-creating-a-compound-component-system)
 - [**3. Enhanced Components**](#3-enhanced-components) (4 videos)
-  - Working with fragments
-  - Using keyed fragments
-  - New component lifecycle
-  - Solution: Implementing a fragment-based layout
+  - [Working with fragments](#working-with-fragments)
+  - [Using keyed fragments](#using-keyed-fragments)
+  - [New component lifecycle](#new-component-lifecycle)
+  - [Solution: Implementing a fragment-based layout](#solution-implementing-a-fragment-based-layout)
 - [**4. React Patterns**](#4-react-patterns) (7 videos)
-  - Understanding the context API
-  - Using context
-  - Referencing context in stateless functional components
-  - Working with higher-order components
-  - Working with render props
-  - Render props in the wild: React Apollo
-  - Solution: Building a context-based theme system
+  - [Understanding the context API](#understanding-the-context-api)
+  - [Using context](#using-context)
+  - [Referencing context in stateless functional components](#referencing-context-in-stateless-functional-components)
+  - [Working with higher-order components](#working-with-higher-order-components)
+  - [Working with render props](#working-with-render-props)
+  - [Render props in the wild: React Apollo](#render-props-in-the-wild-react-apollo)
+  - [Solution: Building a context-based theme system](#solution-building-a-context-based-theme-system)
 - [**5. React Accessibility**](#5-react-accessibility) (6 videos)
-  - Web accessibility overview
-  - Viewing React accessibility warnings
-  - Using semantic HTML
-  - WAI-ARIA roles
-  - Accessibility testing
-  - Solution: Building an accessible navigation system
+  - [Web accessibility overview](#web-accessibility-overview)
+  - [Viewing React accessibility warnings](#viewing-react-accessibility-warnings)
+  - [Using semantic HTML](#using-semantic-html)
+  - [WAI-ARIA roles](#wai-aria-roles)
+  - [Accessibility testing](#accessibility-testing)
+  - [Solution: Building an accessible navigation system](#solution-building-an-accessible-navigation-system)
 - [**Conclusion**](#conclusion) (1 videos)
-  - Next steps
+  - [Next steps](#next-steps)
 - [**Appendix**](#appendix) (1 videos)
-  - Using the exercise files
+  - [Using the exercise files](#using-the-exercise-files)
 
 ### Introduction
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### React components, context, and accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/react-components-context-and-accessibility?u=76281980)
@@ -104,13 +104,14 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1), management (1), api (1), next (1)
 > **Env Vars:** api (1)
 > **Speakers:** - once (1)
 
 
 ### 1. What’s New in React
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Rendering arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980)
@@ -211,7 +212,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), function (1), this. (1), pass (1)
+> **Frameworks & Libraries:** data (10), [[React.js|React]] (6), [[JavaScript]] (2), next (2), dom (2)
 > **Env Vars:** html (1), jsx (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Prerequisites:** set up (2)
@@ -315,7 +316,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (9), let (9), pass (3), static (2), super (1)
+> **Frameworks & Libraries:** next (3), data (2), application (1), functional (1)
 > **Env Vars:** jsx (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** in the menu (1)
@@ -370,6 +371,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[LinkedIn]] (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -420,7 +422,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (4), function (1), let (1), const (1), pass (1)
+> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** newtask (2), handleaddtask (1), setstate (1), prevstate (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -430,7 +432,7 @@ created: 2026-04-29
 
 ### 2. Advanced Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Compound components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/compound-components-2?u=76281980)
@@ -463,7 +465,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), this, (2), pass (2), else, (1), function (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), next (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the docs (1)
 > **Definitions:** is an  (1)
@@ -503,7 +505,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), this. (3), function (2), extends (1)
+> **Frameworks & Libraries:** dom (2), [[React.js|React]] (2), [[Programming]] (1), [[Forms]] (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -563,7 +565,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), function (3), this. (3), finally, (1)
+> **Frameworks & Libraries:** data (2), prompt (1), next (1)
 > **Code Identifiers:** handlechange (5), handlesubmit (2)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
@@ -636,7 +638,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (3), this. (3), function (2), static (1), class. (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **UI Navigation:** toggle (7), click on (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -644,7 +646,7 @@ created: 2026-04-29
 
 ### 3. Enhanced Components
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with fragments
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-fragments?u=76281980)
@@ -743,7 +745,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), function (3), this. (2), this, (2), const (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10), dom (4), css (3), next (1)
 > **Env Vars:** dom (4), css (3), jsx (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** getelementbyid (1)
@@ -797,7 +799,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), pass (2)
+> **Frameworks & Libraries:** [[React.js|React]] (5), data (3), [[HTML]] (1)
 > **Code Identifiers:** skidictionary (3)
 > **Warnings:** warning (3)
 > **Env Vars:** html (1), jsx (1)
@@ -857,6 +859,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (4), data (2), dom (2), next (1)
 > **Code Identifiers:** getderivedstatefromprops (2), componentdidupdate (2), shouldcomponentupdate (1), getsnapshotbeforeupdate (1), componentwillunmount (1)
 > **Definitions:** is called (4), is a  (2)
 > **CLI Commands:** make (2)
@@ -939,7 +942,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** this. (6), let (3), function (1)
+> **Frameworks & Libraries:** dom (2), [[React.js|React]] (1)
 > **Code Identifiers:** setstate (3), componentdidmount (2), prevstate (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -948,7 +951,7 @@ created: 2026-04-29
 
 ### 4. React Patterns
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the context API
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/understanding-the-context-api?u=76281980)
@@ -1039,7 +1042,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (7), pass (6), this. (3), const (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), data (4), next (2), [[Jetpack Compose|Compose]] (1), management (1)
 > **Env Vars:** api (1)
 > **Versions:** react 16 (1)
 > **Cross-References:** in the next (1)
@@ -1128,7 +1131,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** pass (5), let (4), this. (3), function (2), extends (1)
+> **Frameworks & Libraries:** data (5), next (3), [[React.js|React]] (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** createcontext (1)
@@ -1189,7 +1192,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (5), pass (3), finally, (1), function (1), this. (1)
+> **Frameworks & Libraries:** api (2), data (1), next (1), hit (1)
 > **Env Vars:** api (2), open (2), closed (2)
 > **Code Identifiers:** onclick (2), changestatus (2), setstate (1)
 > **Cross-References:** in the last (1)
@@ -1373,7 +1376,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (8), this. (7), pass (4), function (2), const (1)
+> **Frameworks & Libraries:** data (19), [[React.js|React]] (3), [[Fetch]] (3), next (1), [[JSON]] (1)
 > **Env Vars:** url (6), json (1)
 > **Definitions:** is a  (4), means that (2)
 > **Code Identifiers:** componentdidmount (3), setstate (2)
@@ -1453,7 +1456,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (9), function (3), this, (2), return. (1), pass (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), data (2), api (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), jsx (1)
 > **Definitions:** is a  (1)
@@ -1478,6 +1481,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[GraphQL]] (2), data (1)
 > **Cross-References:** as we saw (1), in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [announcer] (1)
@@ -1533,7 +1537,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** function (2), this. (1), pass (1), let (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), data (1)
 > **UI Navigation:** toggle (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1542,7 +1546,7 @@ created: 2026-04-29
 
 ### 5. React Accessibility
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Web accessibility overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/web-accessibility-overview?u=76281980)
@@ -1587,8 +1591,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (3), web application (1), web (1), next (1)
 > **CLI Commands:** make (2)
-> **Code Keywords:** public (1), finally, (1)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
@@ -1661,8 +1665,8 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[npm]] (2), next (2), prompt (1), cd (1)
 > **CLI Commands:** make (3), find (2), npm (2), sudo (1), cd (1)
-> **Code Keywords:** let (3), finally, (2), this, (1), raise (1)
 > **Prerequisites:** install (2)
 > **File Paths:** app.js (1)
 > **Documentation:** the documentation (1)
@@ -1721,7 +1725,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (2), self (1), let (1)
+> **Frameworks & Libraries:** [[Search]] (3), dom (1), generic (1), [[Semantic Markup]] (1), css (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** html5 (1), css (1)
 > **Analogies:** for example (1)
@@ -1792,7 +1796,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), else, (1)
+> **Frameworks & Libraries:** [[Search]] (6), application (1), web (1), [[Web Accessibility]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (1), find (1), npm (1)
 > **Tools:** terminal (2), atom (1)
 > **Env Vars:** w3c (2)
@@ -1842,6 +1846,7 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[React.js|React]] (1), node (1), dom (1)
 > **Code Identifiers:** axe (6)
 > **CLI Commands:** node (1), make (1)
 > **UI Navigation:** click on (2)
@@ -1849,7 +1854,6 @@ created: 2026-04-29
 > **Analogies:** for example (1)
 > **Warnings:** heads up (1)
 > **Prerequisites:** install (1)
-> **Speakers:** - [narrator] (1)
 
 #### Solution: Building an accessible navigation system
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-building-an-accessible-navigation-system?u=76281980)
@@ -1900,7 +1904,6 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** let (4), type, (1), type. (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** htmlfor (2)
 > **Definitions:** is a  (2)
@@ -1911,7 +1914,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980)
@@ -1938,13 +1941,13 @@ created: 2026-04-29
 
 > [!info]- Semantic Content
 >
-> **Code Keywords:** finally, (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[React Native]] (1), data (1), [[GraphQL]] (1)
 > **Speakers:** - [eve] (1)
 
 
 ### Appendix
 
-> [↑ Back to Table of Contents](#table-of-contents)
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-the-exercise-files?u=76281980)
@@ -1972,7 +1975,6 @@ created: 2026-04-29
 > **CLI Commands:** find (2)
 > **Tools:** atom (2)
 > **Exercise Files:** exercise files (2)
-> **Code Keywords:** let (1)
 > **URLs:** [atom.io](https://atom.io) (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
